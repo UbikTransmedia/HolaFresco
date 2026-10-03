@@ -663,3 +663,7 @@ body.fondo-inicio .credito-foto { display: block; text-align: center; color: rgb
 body.fondo-inicio .pie { background: rgba(20, 13, 9, .6); border-top-color: transparent; }
 body.fondo-inicio .pie .muted { color: #d9cdbf; }
 @media (max-width: 760px) { body.fondo-inicio .pasos-lista { gap: 2rem; } body.fondo-inicio .vista-inicio { min-height: 0; } }
+
+.firma-inicio { text-align: center; font-size: .95rem; margin: 1rem 0 0; }
+body.fondo-inicio .firma-inicio { color: #f4ece2; text-shadow: 0 1px 6px rgba(0,0,0,.7); }
+body.fondo-inicio .firma-inicio a { color: #fff; font-weight: 700; }
