@@ -317,7 +317,9 @@
             h("dt", "Contundencia"), h("dd", `Comidas: ${contTxt(cfg.contundencia.comida)} · Cenas: ${contTxt(cfg.contundencia.cena)}`),
             h("dt", "Presupuesto"), h("dd", (Planificador.PRESUPUESTOS.find((x) => x.id === cfg.presupuesto) || {}).nombre || "Da igual"),
             h("dt", "Repeticiones"), h("dd", `${cfg.evitarRepetidasSemanas ? "Sin recetas de los últimos " + (Planificador.SEMANAS_SIN_REPETIR.find(([n]) => n === cfg.evitarRepetidasSemanas) || [])[1] : "Sin restricción de menús anteriores"} · ${cfg.permitirRepetir ? "permite sobras" : "sin repetir en la semana"}`),
-            h("dt", "Olla exprés"), h("dd", cfg.tieneOllaExpress === false ? "No" : "Sí")
+            h("dt", "Aparatos"), h("dd", (cfg.equipo || []).map((a) => (Planificador.APARATOS.find((x) => x.id === a) || {}).nombre || a).join(", ") || "Solo fuegos"),
+            h("dt", "Cocción preferida"), h("dd", (cfg.coccionesPreferidas || []).map((c) => (Recetas.coccion(c) || {}).nombre || c).join(", ") || "Sin preferencia"),
+            h("dt", "Tupper"), h("dd", (Planificador.TUPPER.find((t) => t.id === cfg.tupper) || {}).nombre || "No hace falta")
           ))
       );
     };

@@ -57,7 +57,44 @@
     { id: "sin-gluten", nombre: "Sin gluten", icono: "🌾" },
     { id: "sin-lactosa", nombre: "Sin lácteos", icono: "🥛" },
     { id: "sin-frutos-secos", nombre: "Sin frutos secos", icono: "🥜" },
+    { id: "bajo-fodmap", nombre: "Bajo en FODMAP", icono: "🎈", desc: "Sin ajo, cebolla, trigo, legumbres, lactosa ni otros FODMAP altos (orientativo)" },
   ];
+
+  /* Formas de cocinar. Se derivan del equipo y las etiquetas; una receta puede fijarlas en `coccion`. */
+  const COCCIONES = [
+    { id: "sin-fuego", nombre: "Sin fuego", icono: "🥗", desc: "No necesita cocinar: ni fuego, ni horno, ni microondas" },
+    { id: "una-olla", nombre: "Todo en una olla", icono: "🍲", desc: "Una sola olla, cazuela o sartén: menos que fregar" },
+    { id: "todo-al-horno", nombre: "Todo al horno", icono: "🔥", desc: "Solo horno: metes la bandeja y te olvidas" },
+    { id: "airfryer", nombre: "Airfryer", icono: "🌀", desc: "Freidora de aire" },
+    { id: "microondas", nombre: "Microondas", icono: "📻", desc: "Hecha en el microondas" },
+    { id: "slow-cooker", nombre: "Slow cooker", icono: "🐢", desc: "Olla de cocción lenta: horas sin vigilar" },
+    { id: "olla-express", nombre: "Olla exprés", icono: "💣", desc: "Olla a presión" },
+  ];
+  const coccion = (id) => COCCIONES.find((c) => c.id === id) || null;
+  const EQUIPO_FUEGO = ["horno", "sartén", "cazuela", "olla-express", "plancha", "wok", "airfryer", "microondas", "slow-cooker"];
+  const RECIPIENTES = ["sartén", "cazuela", "wok", "olla-express", "slow-cooker", "plancha"];
+  const derivarCoccion = (r) => {
+    const set = new Set(Array.isArray(r.coccion) ? r.coccion : []);
+    const eq = (r.equipo || []).filter((e) => EQUIPO_FUEGO.includes(e));
+    const et = (r.etiquetas || []).map((e) => Catalogo.normalizar(e));
+    const tiene = (...xs) => xs.some((x) => et.includes(Catalogo.normalizar(x)));
+    const cocina = /\b(hierv|cuec|coce|cocin|horne|hornea|fri[ea]|frei|sarten|horno|asa[rd]?|dora|tuest|calient|saltea|microondas|plancha|escalfa|pocha|sofri|°c|grados)/;
+    const pasosTxt = Catalogo.normalizar((r.pasos || []).join(" "));
+    if (tiene("sin coccion", "sin fuego") || (!eq.length && !cocina.test(pasosTxt))) set.add("sin-fuego");
+    if (tiene("todo al horno", "una sola bandeja") || (eq.length === 1 && eq[0] === "horno")) set.add("todo-al-horno");
+    if (tiene("una sola sarten", "una sola cazuela", "una sola olla", "una olla", "todo en una olla", "one pot") || (eq.length === 1 && RECIPIENTES.includes(eq[0]))) set.add("una-olla");
+    for (const e of ["airfryer", "microondas", "slow-cooker", "olla-express"]) if (eq.includes(e)) set.add(e);
+    return COCCIONES.map((c) => c.id).filter((id) => set.has(id));
+  };
+  /* ¿Aguanta bien en tupper y al recalentar? Las recetas pueden fijarlo con `tupper: true/false`. */
+  const derivarTupper = (r, grupos) => {
+    if (typeof r.tupper === "boolean") return r.tupper;
+    const et = (r.etiquetas || []).map((e) => Catalogo.normalizar(e));
+    const tiene = (...xs) => xs.some((x) => et.includes(Catalogo.normalizar(x)));
+    if (tiene("sin coccion") && (grupos.has("pescado") || grupos.has("marisco")) && !tiene("ideal para llevar")) return false; // crudos de pescado
+    if (tiene("ideal para llevar", "batch cooking", "tupper", "para llevar", "recalentar", "aprovechamiento", "de cuchara", "guiso")) return true;
+    return ["legumbres", "olla-express", "sopas-cremas"].includes(r.categoria);
+  };
 
   const MOMENTOS = [
     { id: "comida", nombre: "Comida", icono: "☀️" },
@@ -96,6 +133,7 @@
     if (!grupos.has("gluten")) dieta.push("sin-gluten");
     if (!grupos.has("lacteos")) dieta.push("sin-lactosa");
     if (!grupos.has("frutos-secos")) dieta.push("sin-frutos-secos");
+    if (!grupos.has("fodmap")) dieta.push("bajo-fodmap");
     r.dieta = dieta;
     r.grupos = [...grupos];
     r.nutricion = r.nutricion || {};
@@ -103,6 +141,8 @@
     r.momentos = r.momentos && r.momentos.length ? r.momentos : ["comida", "cena"];
     r.equipo = r.equipo || [];
     r.etiquetas = r.etiquetas || [];
+    r.coccion = derivarCoccion(r);
+    r.tupper = derivarTupper(r, grupos);
     if (!CONTUNDENCIAS.some((c) => c.id === r.contundencia)) r.contundencia = contundenciaPorKcal(Number(r.nutricion.kcal));
     if (!COSTES.some((c) => c.id === r.coste)) r.coste = Catalogo.costeDe(r.ingredientes);
     if (r.cocina && !COCINAS.some((c) => c.id === r.cocina)) r.cocina = null;
@@ -110,7 +150,7 @@
     r.enListaNegra = negra.has(r.id);
     const coc = cocina(r.cocina);
     r.textoBusqueda = Catalogo.normalizar(
-      [r.nombre, r.subtitulo, r.categoria, categoria(r.categoria).nombre, r.proteina, coc ? coc.nombre : "", r.contundencia, r.coste, ...(r.etiquetas || []), ...(r.ingredientes || []).map((i) => i.n)].join(" ")
+      [r.nombre, r.subtitulo, r.categoria, categoria(r.categoria).nombre, r.proteina, coc ? coc.nombre : "", r.contundencia, r.coste, ...r.coccion.map((c) => coccion(c).nombre), r.tupper ? "tupper" : "", ...(r.etiquetas || []), ...(r.ingredientes || []).map((i) => i.n)].join(" ")
     );
     return r;
   };
@@ -140,6 +180,8 @@
   const guardar = (receta) => {
     const limpia = { ...receta };
     for (const k of ["dieta", "grupos", "textoBusqueda", "_modificada", "favorita", "enListaNegra"]) delete limpia[k];
+    if (!limpia._coccionManual) delete limpia.coccion; delete limpia._coccionManual;
+    if (limpia._tupper === "si") limpia.tupper = true; else if (limpia._tupper === "no") limpia.tupper = false; else if (limpia._tupper === "auto") delete limpia.tupper; delete limpia._tupper;
     limpia.ingredientes = (limpia.ingredientes || []).filter((i) => i.n && i.n.trim());
     limpia.pasos = (limpia.pasos || []).filter((p) => p && p.trim());
     if (limpia.id && esSemilla(limpia.id)) {
@@ -244,6 +286,8 @@
       if (f.dificultad && f.dificultad.length && !f.dificultad.includes(r.dificultad)) return false;
       if (f.etiqueta && !r.etiquetas.includes(f.etiqueta)) return false;
       if (f.sinOllaExpress && r.equipo.includes("olla-express")) return false;
+      if (f.coccion && f.coccion.length && !f.coccion.some((c) => r.coccion.includes(c))) return false;
+      if (f.tupper && !r.tupper) return false;
       if (f.soloFavoritas && !r.favorita) return false;
       if (f.listaNegra === "ocultar" && r.enListaNegra) return false;
       if (f.listaNegra === "solo" && !r.enListaNegra) return false;
@@ -278,6 +322,8 @@
     const dietas = r.dieta.filter((d) => d !== "sin-frutos-secos").map((d) => (DIETAS.find((x) => x.id === d) || {}).nombre).filter(Boolean);
     if (dietas.length) L.push(`**Apta para:** ${dietas.join(", ")}`);
     if (r.equipo.length) L.push(`**Equipo:** ${r.equipo.join(", ")}`);
+    if (r.coccion.length) L.push(`**Cocción:** ${r.coccion.map((c) => coccion(c).nombre).join(", ")}`);
+    if (r.tupper) L.push("**Apta para tupper:** sí, aguanta bien y se recalienta sin problema");
     const rac = String(raciones).replace(".", ",");
     L.push("", `## Ingredientes (${rac} ${raciones === 1 ? "ración" : "raciones"})`, "");
     for (const ing of C.escalar(r, raciones)) {
@@ -305,7 +351,7 @@
   document.addEventListener("recetas:semilla-cargada", invalidar);
 
   window.Recetas = {
-    CATEGORIAS, categoria, COCINAS, cocina, CONTUNDENCIAS, contundencia, contundenciaPorKcal, COSTES, coste, ORIGENES, DIETAS, MOMENTOS, DIFICULTADES, PROTEINAS,
+    CATEGORIAS, categoria, COCINAS, cocina, COCCIONES, coccion, CONTUNDENCIAS, contundencia, contundenciaPorKcal, COSTES, coste, ORIGENES, DIETAS, MOMENTOS, DIFICULTADES, PROTEINAS,
     todas, porId, esSemilla, guardar, borrar, restaurar, restaurarTodas, ocultas, duplicar,
     esFavorita, enListaNegra, toggleFavorita, toggleListaNegra, usadasRecientemente, aMarkdown, copiarMarkdown,
     indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer,

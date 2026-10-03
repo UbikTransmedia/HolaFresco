@@ -93,6 +93,8 @@
 
   /* Diálogos que devuelven una promesa. Se resuelve ANTES de cerrar: el cierre dispara alCerrar,
      que solo cuenta como "cancelar" si aún no se había respondido. */
+  const cerrarModales = () => { for (const m of [...pilaModales].reverse()) m.cerrar(); };
+
   const confirmar = ({ titulo = "¿Seguro?", mensaje, textoOk = "Sí, continuar", textoCancelar = "Cancelar", peligro = false }) =>
     new Promise((resolve) => {
       let m, respondido = false;
@@ -151,5 +153,5 @@
 
   const plural = (n, uno, varios) => (n === 1 ? uno : varios);
 
-  window.UI = { h, vaciar, append, toast, modal, confirmar, pedirTexto, chip, campo, segmentado, fmtFecha, fmtFechaHora, debounce, descargar, plural };
+  window.UI = { h, vaciar, append, toast, modal, cerrarModales, confirmar, pedirTexto, chip, campo, segmentado, fmtFecha, fmtFechaHora, debounce, descargar, plural };
 })();

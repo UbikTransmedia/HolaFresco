@@ -78,6 +78,7 @@
       masProteina: peso("ganar-musculo"),
       masVerdura: peso("mas-verdura") + peso("perder-peso") * 0.5,
       menosLegumbreNoche: peso("deshincharse"),
+      fodmap: peso("deshincharse") + peso("digestion") * 0.5,
       menosPicante: peso("digestion"),
       menosAzucar: peso("azucar"),
       masHidratos: peso("mas-energia") + peso("ganar-musculo") * 0.5,

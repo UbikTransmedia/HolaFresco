@@ -83,7 +83,7 @@
       "caldo*", "pastilla de caldo", "tomate triturado", "tomate frito", "tomate concentrado", "tomate seco*", "tomates secos*", "tomate en conserva",
       "tomate natural triturado", "tomate entero*", "tomate pelado*", "leche de coco", "crema de coco", "nata de coco", "bebida de coco", "atun en*", "atun al natural", "atun",
       "bonito en*", "bonito", "anchoa*", "sardinas en*", "sardina en*", "caballa en*", "caballa en conserva", "berberechos en*", "navajas en*", "mejillones en*", "berberecho*", "salmon ahumado", "trucha ahumada", "surimi",
-      "vinagre*", "aceite de*", "aceite", "carne de pimiento*", "pochas", "verdinas*", "garrofo", "galets", "fideos gordos", "gnocchi*", "ñoquis", "manteca*", "pimiento del piquillo", "pimientos del piquillo", "pimiento asado en*", "pimientos asados en*",
+      "vinagre*", "aceite de*", "aceite", "crema de aji*", "carne de pimiento*", "pochas", "verdinas*", "garrofo", "galets", "fideos gordos", "gnocchi*", "ñoquis", "manteca*", "pimiento del piquillo", "pimientos del piquillo", "pimiento asado en*", "pimientos asados en*",
       "esparragos en*", "alcachofas en*", "maiz en*", "maiz dulce", "guisantes en*", "garbanzos cocidos", "lentejas cocidas", "judias blancas cocidas",
       "alubias*", "frijoles*", "legumbre cocida", "chipotle*", "adobo", "harissa", "hummus", "pasta de curry*", "curry en pasta", "mirin", "sake", "miso",
       "salsa*", "ketchup", "mayonesa", "veganesa", "alioli", "gochujang", "judiones*", "ñora*", "zumaque", "za'atar", "zaatar", "mostaza*", "tahini", "soja", "tamari", "sriracha", "worcestershire",
@@ -93,15 +93,15 @@
       "dorada", "bonito fresco", "atun fresco", "pescado*", "marisco*", "boqueron*", "sardinas frescas", "trucha", "rodaballo", "corvina", "vieira*", "chipiron*",
     ]],
     ["carniceria", [
-      "guanciale", "botillo", "jabali*", "callos*", "manitas*", "codorniz*", "perdiz*", "confit*", "oreja*", "pollo*", "pavo*", "ternera*", "cerdo*", "carrillada*", "solomillo*", "chorizo*", "bacon", "jamon*", "panceta", "cordero*",
+      "rosbif*", "guanciale", "botillo", "jabali*", "callos*", "manitas*", "codorniz*", "perdiz*", "confit*", "oreja*", "pollo*", "pavo*", "ternera*", "cerdo*", "carrillada*", "solomillo*", "chorizo*", "bacon", "jamon*", "panceta", "cordero*",
       "salchicha*", "lomo*", "costilla*", "carne*", "butifarra*", "morcilla*", "conejo", "pechuga*", "muslo*", "contramuslo*", "magro*", "picada*", "rabo de toro", "rabo de*", "sobrasada", "ossobuco", "secreto*", "presa*", "lacon", "osobuco", "morcillo", "jarrete", "aguja", "falda", "redondo", "codillo", "manitas", "callos", "higado*", "higaditos", "mollejas", "pato", "codorniz*", "perdiz", "pavo*",
     ]],
     ["lacteos-huevos", [
-      "huevo*", "queso*", "feta", "mozzarella", "burrata", "parmesano", "pecorino", "manchego", "cheddar", "halloumi", "paneer", "yogur*", "nata*",
+      "huevo*", "queso*", "feta", "mozzarella", "burrata", "parmesano", "pecorino", "manchego", "cheddar", "halloumi", "paneer", "yogur*", "nata", "natas", "nata para*", "nata de*", "nata liquida", "nata montada",
       "leche*", "mantequilla", "requeson", "ricotta", "mascarpone", "crema agria", "kefir", "bebida vegetal", "bebida de avena", "bebida de soja",
       "bebida de almendra*", "labneh", "cuajada",
     ]],
-    ["panaderia", ["tapas de empanada", "torta cenceña", "obleas*", "pan", "pan de*", "pan integral", "pan rallado", "panko", "pita*", "tortilla*", "baguette", "chapata", "picos", "regañas", "wrap*", "masa*", "hojaldre", "obleas", "brioche", "molde"]],
+    ["panaderia", ["tapas de empanada", "torta cenceña", "obleas*", "pan", "pan de*", "pan integral", "pan rallado", "panko", "pita*", "tortilla*", "baguette", "chapata", "picos", "regañas", "wrap*", "masa", "masa de*", "masa quebrada", "hojaldre", "obleas", "brioche", "molde"]],
     ["frutos-secos", [
       "almendra*", "anacardo*", "avellana*", "nuez", "nueces", "cacahuete*", "piñon*", "pistacho*", "sesamo", "semilla*", "pipas*",
       "pasas", "datil*", "orejon*", "ciruela pasa", "ciruelas pasas", "chia", "lino", "crema de cacahuete", "crema de almendra*", "frutos secos",
@@ -114,9 +114,9 @@
       "fresa*", "uva*", "granada*", "frutos rojos", "arandano*", "frambuesa*", "mora*", "melocoton*", "pera*", "platano*", "mango*", "kiwi*", "melon",
       "sandia", "cereza*", "mandarina*", "pomelo*", "jengibre*", "chile*", "jalapeño*", "guindilla*", "perejil*", "cilantro*", "albahaca*", "menta*",
       "hierbabuena*", "cebollino*", "tomillo*", "romero*", "eneldo*", "salvia", "estragon", "col", "col lombarda", "repollo", "kale", "acelga*", "endibia*",
-      "escarola", "esparrago*", "alcachofa*", "remolacha*", "nabo*", "chirivia*", "guisante*", "haba*", "brote*", "germinado*", "chalota*", "hierbas frescas",
+      "escarola", "esparrago*", "alcachofa*", "remolacha*", "nabo*", "chirivia*", "guisante*", "haba", "habas", "habitas", "brote*", "germinado*", "chalota*", "hierbas frescas",
       "lemongrass", "hierba limon", "citronela", "lima kaffir", "pak choi", "bok choy", "berro*", "mezcla de lechugas", "ensalada", "hoja de roble", "verdura*", "fruta*",
-      "mezclum", "brotes", "cardo", "borraja*", "yuca", "castaña*", "caqui*", "coles de bruselas", "mazorca*", "platano macho", "cebollitas*", "endivia*", "grelos", "ajo tierno", "ajos tiernos", "espinacas baby", "edamame fresco", "setas variadas",
+      "mezclum", "brotes", "cogollo*", "cardo", "borraja*", "yuca", "castaña*", "caqui*", "coles de bruselas", "mazorca*", "platano macho", "cebollitas*", "endivia*", "grelos", "ajo tierno", "ajos tiernos", "espinacas baby", "edamame fresco", "setas variadas",
     ]],
     ["despensa", [
       "garbanzo*", "lenteja*", "judia blanca", "judias blancas", "alubia*", "arroz*", "bulgur", "cuscus", "quinoa", "pasta", "espagueti*", "macarron*", "fideo*", "linguine", "linguini", "tagliatelle", "tallarines", "penne", "fusilli", "rigatoni", "farfalle", "orzo", "gnocchi", "ñoquis", "canelon*", "ravioli*", "tortellini", "orecchiette", "pappardelle", "conchiglie", "lasaña", "chucrut", "kimchi", "encurtidos", "mijo", "farro", "trigo tierno", "cebada*", "centeno", "espelta", "trigo sarraceno", "amaranto", "harina de*", "levadura*", "pan de hamburguesa", "panecillo*",
@@ -142,35 +142,48 @@
 
   /* ---------- Grupos de ingredientes (alérgenos, dietas, vetos rápidos) ---------- */
   const GRUPOS = [
-    { id: "carne", nombre: "Carne", icono: "🥩", excluir: ["carne de pimiento*", "carne de membrillo"], claves: ["guanciale", "botillo", "jabali*", "callos*", "manitas*", "higado*", "codorniz*", "perdiz*", "confit*", "lacon", "oreja*", "sobrasada", "magret*", "salchicha ahumada", "rabo de toro", "ossobuco", "morcillo", "pato", "confit de pato", "codillo", "conejo", "cordero*", "secreto*", "presa iberica", "presa*", "lacon", "pluma iberica", "panceta", "pollo*", "pavo*", "ternera*", "cerdo*", "carrillada*", "solomillo*", "chorizo*", "bacon", "jamon*", "panceta", "cordero*", "salchicha*", "carne*", "lomo*", "costilla*", "butifarra*", "morcilla*", "caldo de pollo", "caldo de carne", "manteca de cerdo", "conejo", "pechuga*", "muslo*", "contramuslo*", "picada de*"] },
+    { id: "carne", nombre: "Carne", icono: "🥩", excluir: ["carne de pimiento*", "carne de membrillo"], claves: ["rosbif*", "roast beef", "guanciale", "botillo", "jabali*", "callos*", "manitas*", "higado*", "codorniz*", "perdiz*", "confit*", "lacon", "oreja*", "sobrasada", "magret*", "salchicha ahumada", "rabo de toro", "ossobuco", "morcillo", "pato", "confit de pato", "codillo", "conejo", "cordero*", "secreto*", "presa iberica", "presa*", "lacon", "pluma iberica", "panceta", "pollo*", "pavo*", "ternera*", "cerdo*", "carrillada*", "solomillo*", "chorizo*", "bacon", "jamon*", "panceta", "cordero*", "salchicha*", "carne*", "lomo*", "costilla*", "butifarra*", "morcilla*", "caldo de pollo", "caldo de carne", "manteca de cerdo", "conejo", "pechuga*", "muslo*", "contramuslo*", "picada de*"] },
     { id: "cerdo", nombre: "Cerdo", icono: "🐷", claves: ["guanciale", "botillo", "manitas de cerdo", "oreja de cerdo", "lacon", "sobrasada", "secreto*", "presa iberica", "presa*", "lacon", "pluma iberica", "panceta", "cerdo*", "carrillada*", "solomillo de cerdo", "chorizo*", "bacon", "jamon*", "panceta", "lomo de cerdo", "costilla*", "butifarra*", "morcilla*", "salchicha*", "manteca de cerdo"] },
     { id: "pescado", nombre: "Pescado", icono: "🐟", claves: ["gallo", "gallo (filetes)", "pescadilla", "salmonete*", "rodaballo", "besugo", "merluza*", "chicharro", "jurel", "bonito*", "cazon", "pez espada", "abadejo*", "jurel", "caballa*", "lenguado*", "mero", "besugo", "bacaladilla", "emperador", "espinas", "salmon*", "merluza", "bacalao*", "lubina*", "atun*", "bonito*", "anchoa*", "sardina*", "boqueron*", "dorada", "rape", "pescado*", "salsa de pescado", "caldo de pescado", "surimi", "trucha*", "rodaballo", "corvina"] },
     { id: "marisco", nombre: "Marisco", icono: "🦐", claves: ["chipirones", "chipiron*", "tigres", "langostino*", "gamba*", "calamar*", "sepia", "pulpo", "mejillon*", "almeja*", "berberecho*", "marisco*", "cangrejo", "surimi", "vieira*", "chipiron*", "caldo de marisco"] },
-    { id: "lacteos", nombre: "Lácteos", icono: "🧀", claves: ["queso*", "feta", "mozzarella", "burrata", "parmesano", "pecorino", "manchego", "cheddar", "halloumi", "paneer", "yogur*", "nata*", "leche*", "mantequilla", "requeson", "ricotta", "mascarpone", "crema agria", "kefir", "labneh", "cuajada", "bechamel"], excluir: ["leche de coco", "bebida vegetal", "nata vegetal", "nata de coco", "crema de coco", "yogur vegetal", "yogur de soja", "queso vegetal", "queso vegano", "mantequilla vegetal", "sin lactosa", "bebida de", "leche de almendra*", "leche de avena", "leche de arroz"] },
+    { id: "lacteos", nombre: "Lácteos", icono: "🧀", claves: ["queso*", "feta", "mozzarella", "burrata", "parmesano", "pecorino", "manchego", "cheddar", "halloumi", "paneer", "yogur*", "nata", "natas", "nata para*", "nata de*", "nata liquida", "nata montada", "leche*", "mantequilla", "requeson", "ricotta", "mascarpone", "crema agria", "kefir", "labneh", "cuajada", "bechamel"], excluir: ["leche de coco", "bebida vegetal", "nata vegetal", "nata de coco", "crema de coco", "yogur vegetal", "yogur de soja", "queso vegetal", "queso vegano", "mantequilla vegetal", "sin lactosa", "bebida de", "leche de almendra*", "leche de avena", "leche de arroz"] },
     { id: "huevo", nombre: "Huevo", icono: "🥚", claves: ["huevo*", "mayonesa", "alioli"], excluir: ["mayonesa vegetal", "mayonesa vegana", "veganesa", "alioli vegano", "sin huevo"] },
-    { id: "gluten", nombre: "Gluten", icono: "🌾", claves: ["galets", "tapas de empanada", "obleas*", "torta cenceña", "fideos gordos", "pan", "pan de*", "pan rallado", "panko", "harina", "harina de trigo", "harina integral", "bulgur", "cuscus", "pasta", "espagueti*", "macarron*", "fideo*", "noodle*", "tallarin*", "seitan", "cerveza", "salsa de soja", "tortillas de trigo", "tortilla de trigo", "pita*", "hojaldre", "gnocchi*", "ñoquis", "lasaña", "placas de lasaña", "semola", "galleta*", "avena", "copos de avena", "cebada", "centeno", "worcestershire", "obleas", "wrap*", "baguette", "chapata", "picos", "regañas", "brioche", "pan de molde", "masa", "masa de pizza", "masa quebrada"], excluir: ["pasta de curry*", "pasta de achiote", "pasta de miso", "pasta de sesamo", "garam masala", "harina de garbanzo", "harina de maiz", "harina de arroz", "harina de almendra", "fideos de arroz", "tortillas de maiz", "tortilla de maiz", "pan sin gluten", "sin gluten", "tamari", "pasta sin gluten", "avena sin gluten", "noodles de arroz"] },
+    { id: "gluten", nombre: "Gluten", icono: "🌾", claves: ["galets", "tapas de empanada", "obleas*", "torta cenceña", "fideos gordos", "pan", "pan de*", "pan rallado", "panko", "harina", "harina de trigo", "harina integral", "bulgur", "cuscus", "pasta", "espagueti*", "macarron*", "fideo*", "noodle*", "tallarin*", "seitan", "cerveza", "salsa de soja", "tortillas de trigo", "tortilla de trigo", "pita*", "hojaldre", "gnocchi*", "ñoquis", "lasaña", "placas de lasaña", "semola", "galleta*", "avena", "copos de avena", "cebada", "centeno", "worcestershire", "obleas", "wrap*", "baguette", "chapata", "picos", "regañas", "brioche", "pan de molde", "masa", "masa de pizza", "masa quebrada"], excluir: ["pasta de*", "trigo sarraceno", "harina de trigo sarraceno", "garam masala", "harina de garbanzo", "harina de maiz", "harina de arroz", "harina de almendra", "fideos de arroz", "tortillas de maiz", "tortilla de maiz", "pan sin gluten", "sin gluten", "tamari", "pasta sin gluten", "avena sin gluten", "noodles de arroz"] },
     { id: "soja", nombre: "Soja", icono: "🫘", claves: ["soja*", "tofu*", "edamame*", "miso", "tempeh", "heura", "bebida de soja", "salsa de soja", "tamari", "yogur de soja"] },
     { id: "frutos-secos", nombre: "Frutos secos", icono: "🥜", claves: ["almendra*", "anacardo*", "avellana*", "nuez", "nueces", "cacahuete*", "piñon*", "pistacho*", "crema de cacahuete", "crema de almendra*", "frutos secos", "bebida de almendra*", "harina de almendra"], excluir: ["nuez moscada"] },
     { id: "sesamo", nombre: "Sésamo", icono: "⚪", claves: ["sesamo", "tahini", "aceite de sesamo", "semillas de sesamo"] },
-    { id: "picante", nombre: "Picante", icono: "🌶️", claves: ["chile*", "guindilla*", "sriracha", "cayena", "jalapeño*", "pimenton picante", "harissa", "chipotle*", "copos de chile", "pasta de curry*", "tabasco", "picante", "salsa picante", "curry rojo", "curry verde"] },
+    { id: "picante", nombre: "Picante", icono: "🌶️", claves: ["aji amarillo", "crema de aji*", "chile*", "guindilla*", "sriracha", "cayena", "jalapeño*", "pimenton picante", "harissa", "chipotle*", "copos de chile", "pasta de curry*", "tabasco", "picante", "salsa picante", "curry rojo", "curry verde"] },
     { id: "cilantro", nombre: "Cilantro fresco", icono: "🌿", claves: ["cilantro fresco", "cilantro"], excluir: ["cilantro molido", "semillas de cilantro"] },
     { id: "setas", nombre: "Setas y champiñones", icono: "🍄", claves: ["champiñon*", "seta*", "shiitake", "boletus", "portobello", "trufa*", "aceite de trufa"] },
-    { id: "legumbre", nombre: "Legumbres", icono: "🫘", claves: ["pochas", "verdinas*", "garrofo", "judiones*", "habas secas", "frijol*", "garbanzo*", "lenteja*", "judia blanca", "judias blancas", "alubia*", "frijol*", "haba*", "edamame*", "hummus", "falafel", "harina de garbanzo", "judia pinta", "judias pintas", "judia roja", "judias rojas"] },
+    { id: "legumbre", nombre: "Legumbres", icono: "🫘", claves: ["pochas", "verdinas*", "garrofo", "judiones*", "habas secas", "frijol*", "garbanzo*", "lenteja*", "judia blanca", "judias blancas", "alubia*", "frijol*", "haba", "habas", "habitas", "edamame*", "hummus", "falafel", "harina de garbanzo", "judia pinta", "judias pintas", "judia roja", "judias rojas"] },
     { id: "alcohol", nombre: "Alcohol", icono: "🍷", claves: ["vino*", "cerveza", "brandy", "coñac", "ron", "whisky", "licor*", "sidra", "vermut", "cava", "sake", "mirin"] },
     { id: "cebolla-ajo", nombre: "Cebolla y ajo", icono: "🧅", claves: ["cebolla*", "cebolleta*", "ajo", "ajos", "puerro*", "chalota*", "ajo en polvo", "cebolla en polvo"], excluir: ["cebollino"] },
     { id: "berenjena", nombre: "Berenjena", icono: "🍆", claves: ["berenjena*"] },
+    /* Alto en FODMAP (orientativo, según las tablas habituales de la dieta baja en FODMAP). Las versiones
+       aptas (aceite de ajo, sin lactosa, sin gluten, parte verde) quedan fuera. */
+    { id: "fodmap", nombre: "Alto en FODMAP", icono: "🎈", claves: [
+      "ajo", "ajos", "ajo en polvo", "cebolla*", "cebolleta*", "puerro*", "chalota*", "cebolla en polvo",
+      "harina de trigo", "harina", "pan", "pan de*", "pan rallado", "panko", "pasta", "espagueti*", "macarron*", "tallarin*", "tagliatelle", "lasaña", "placas de lasaña", "cuscus", "bulgur", "tortillas de trigo", "fideo*", "noodle*", "gnocchi*", "ñoquis", "centeno", "cebada", "hojaldre", "masa", "masa de*", "masa quebrada", "galleta*", "pasta filo",
+      "garbanzo*", "lenteja*", "judia blanca", "judias blancas", "alubia*", "frijol*", "haba", "habas", "habitas", "guisante*", "hummus", "soja texturizada", "judiones*",
+      "leche", "nata", "natas", "nata para*", "nata de*", "nata liquida", "nata montada", "yogur*", "queso fresco", "queso crema", "ricotta", "requeson", "mascarpone", "kefir", "leche condensada", "leche evaporada",
+      "manzana*", "pera*", "mango*", "sandia", "melocoton*", "ciruela*", "cereza*", "higo*", "datil*", "pasas", "orejon*", "albaricoque*", "moras",
+      "champiñon*", "seta*", "shiitake", "portobello", "boletus", "coliflor", "esparrago*", "alcachofa*", "remolacha*", "apio", "aguacate*", "col lombarda",
+      "miel", "sirope de agave", "agave", "anacardo*", "pistacho*", "inulina"
+    ], excluir: ["aceite de ajo", "aceite con ajo", "sin lactosa", "sin gluten", "leche de coco", "bebida de almendra*", "bebida de arroz", "fideos de arroz", "noodles de arroz", "harina de arroz", "harina de maiz", "harina de garbanzo", "pan sin gluten", "pasta sin gluten", "cebollino*", "parte verde", "yogur vegetal", "yogur de coco", "nata vegetal", "nata de coco", "pasta de*", "trigo sarraceno", "harina de trigo sarraceno"] },
+
     { id: "miel", nombre: "Miel", icono: "🍯", claves: ["miel"] },
     { id: "cafeina", nombre: "Cafeína", icono: "☕", claves: ["cafe", "te verde", "te negro", "chocolate*", "cacao"] },
   ];
 
   const cacheGrupos = new Map();
   const gruposDe = (nombre) => {
-    const key = normalizar(nombre);
+    const key = String(nombre || "").toLowerCase();
     if (cacheGrupos.has(key)) return cacheGrupos.get(key);
     const t = tokens(nombre);
+    const tCompleto = tokens(String(nombre || "").replace(/[()]/g, " ")); // las exclusiones también miran dentro de los paréntesis: «cebolleta (parte verde)»
     const res = [];
     for (const g of GRUPOS) {
-      if (g.excluir && g.excluir.some((e) => contieneFrase(t, e))) continue;
+      if (g.excluir && g.excluir.some((e) => contieneFrase(tCompleto, e))) continue;
       if (g.claves.some((c) => contieneFrase(t, c))) res.push(g.id);
     }
     cacheGrupos.set(key, res);

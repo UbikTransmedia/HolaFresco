@@ -667,3 +667,5 @@ body.fondo-inicio .pie .muted { color: #d9cdbf; }
 .firma-inicio { text-align: center; font-size: .95rem; margin: 1rem 0 0; }
 body.fondo-inicio .firma-inicio { color: #f4ece2; text-shadow: 0 1px 6px rgba(0,0,0,.7); }
 body.fondo-inicio .firma-inicio a { color: #fff; font-weight: 700; }
+
+.chip-tupper { background: var(--info-claro); }

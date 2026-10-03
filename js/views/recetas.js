@@ -4,9 +4,9 @@
   const { UI, Recetas, Compra, Catalogo, DB } = window;
   const { h } = UI;
 
-  const FILTROS_DEFECTO = { q: "", categoria: [], origen: [], momento: "", dieta: [], cocina: [], contundencia: [], coste: [], tiempoMax: 0, orden: "nombre", soloFavoritas: false, listaNegra: "" };
+  const FILTROS_DEFECTO = { q: "", categoria: [], origen: [], momento: "", dieta: [], cocina: [], contundencia: [], coste: [], coccion: [], tupper: false, tiempoMax: 0, orden: "nombre", soloFavoritas: false, listaNegra: "" };
   const estado = { ...FILTROS_DEFECTO, ...DB.leer("filtrosRecetas", {}) };
-  for (const k of ["categoria", "origen", "dieta", "cocina", "contundencia", "coste"]) if (!Array.isArray(estado[k])) estado[k] = [];
+  for (const k of ["categoria", "origen", "dieta", "cocina", "contundencia", "coste", "coccion"]) if (!Array.isArray(estado[k])) estado[k] = [];
   const guardarEstado = () => DB.guardar("filtrosRecetas", estado);
   const LOTE = 60;
 
@@ -24,7 +24,9 @@
     return h("div.tarjeta-atributos",
       coc ? h("span.chip.chip-mini", { title: "Tipo de cocina: " + coc.nombre }, coc.icono, " ", coc.nombre) : null,
       con ? h("span.chip.chip-mini", { title: "Contundencia: " + con.nombre + " · " + con.desc }, con.icono, " ", con.nombre) : null,
-      cos ? h("span.chip.chip-mini.chip-coste", { title: "Coste: " + cos.nombre + " · " + cos.desc }, cos.icono) : null
+      cos ? h("span.chip.chip-mini.chip-coste", { title: "Coste: " + cos.nombre + " · " + cos.desc }, cos.icono) : null,
+      r.tupper ? h("span.chip.chip-mini.chip-tupper", { title: "Aguanta bien en tupper y se recalienta sin problema" }, "🥡") : null,
+      r.coccion.filter((c) => c !== "una-olla" && c !== r.categoria).map((c) => { const cc = Recetas.coccion(c); return h("span.chip.chip-mini", { title: cc.desc }, cc.icono); })
     );
   };
 
@@ -77,7 +79,7 @@
     const coc = Recetas.cocina(r.cocina), con = Recetas.contundencia(r.contundencia), cos = Recetas.coste(r.coste);
     const cuerpo = h("div.detalle",
       h("div.detalle-cab",
-        h("div.detalle-chips", h("span.chip", cat.icono, " ", cat.nombre), badgeOrigen(r), coc ? h("span.chip", { title: "Tipo de cocina" }, coc.icono, " ", coc.nombre) : null, con ? h("span.chip", { title: con.desc }, con.icono, " ", con.nombre) : null, cos ? h("span.chip.chip-coste", { title: cos.desc }, cos.icono, " ", cos.nombre) : null),
+        h("div.detalle-chips", h("span.chip", cat.icono, " ", cat.nombre), badgeOrigen(r), coc ? h("span.chip", { title: "Tipo de cocina" }, coc.icono, " ", coc.nombre) : null, con ? h("span.chip", { title: con.desc }, con.icono, " ", con.nombre) : null, cos ? h("span.chip.chip-coste", { title: cos.desc }, cos.icono, " ", cos.nombre) : null, ...r.coccion.filter((c) => c !== r.categoria).map((c) => { const cc = Recetas.coccion(c); return h("span.chip", { title: cc.desc }, cc.icono, " ", cc.nombre); }), r.tupper ? h("span.chip.chip-tupper", { title: "Aguanta bien en tupper y se recalienta sin problema" }, "🥡 Para tupper") : null),
         r.subtitulo ? h("p.detalle-sub", r.subtitulo) : null,
         h("div.detalle-meta",
           h("span", "⏱ ", r.tiempo, " min"), h("span", iconoDificultad(r.dificultad), " ", r.dificultad),
@@ -183,7 +185,11 @@
         UI.campo("Raciones de la receta", h("input.input.input-corto", { type: "number", min: 1, step: "0.5", value: r.raciones || 2, onInput: (e) => { r.raciones = Number(e.target.value) || 2; } }), "Las cantidades de abajo son para este número de raciones."),
         h("div.campo", h("span.campo-etiqueta", "Encaja en"), chkGrupo(Recetas.MOMENTOS, "momentos", "Momentos"))
       ),
-      h("div.campo", h("span.campo-etiqueta", "Equipo necesario"), chkGrupo(["horno", "olla-express", "sartén", "cazuela", "batidora", "wok", "plancha", "bol"], "equipo", "Equipo")),
+      h("div.campo", h("span.campo-etiqueta", "Equipo necesario"), chkGrupo(["horno", "olla-express", "sartén", "cazuela", "batidora", "wok", "plancha", "bol", "airfryer", "microondas", "slow-cooker"], "equipo", "Equipo")),
+      h("div.fila-campos",
+        h("div.campo", h("span.campo-etiqueta", "Forma de cocinar ", h("span.muted", "(se deduce del equipo; marca para fijarla)")), h("div.chips-check", { role: "group", "aria-label": "Forma de cocinar" }, Recetas.COCCIONES.map((c) => h("label.chip.chip-check", { title: c.desc }, h("input", { type: "checkbox", "aria-label": c.nombre, checked: (r.coccion || []).includes(c.id), onChange: (e) => { r._coccionManual = true; r.coccion = (r.coccion || []).filter((x) => x !== c.id); if (e.target.checked) r.coccion.push(c.id); } }), c.icono, " ", c.nombre)))),
+        UI.campo("🥡 ¿Va bien en tupper?", h("select.input", { onChange: (e) => { r._tupper = e.target.value; } }, [["auto", "Automático"], ["si", "Sí, aguanta y se recalienta bien"], ["no", "No, mejor al momento"]].map(([v, t]) => h("option", { value: v, selected: v === "auto" }, t))))
+      ),
       h("div.campo",
         h("span.campo-etiqueta", "Ingredientes ", h("span.muted", "(nombre · cantidad · unidad)")),
         ingCont,
@@ -237,6 +243,8 @@
     const chipsCocina = grupoChips(Recetas.COCINAS, "cocina");
     const chipsCont = grupoChips(Recetas.CONTUNDENCIAS, "contundencia");
     const chipsCoste = grupoChips(Recetas.COSTES, "coste");
+    const chipsCoccion = grupoChips(Recetas.COCCIONES, "coccion");
+    const chkTupper = h("label.chip.chip-check", h("input", { type: "checkbox", "aria-label": "Solo para tupper", checked: estado.tupper, onChange: (e) => { estado.tupper = e.target.checked; actualizar(); } }), "🥡 Para tupper");
 
     const inputQ = h("input.input.input-buscar", { type: "search", value: estado.q, placeholder: "Buscar por nombre, ingrediente, cocina o etiqueta…", "aria-label": "Buscar recetas", onInput: UI.debounce((e) => { estado.q = e.target.value; actualizar(); }, 150) });
     const selMomento = h("select.input", { "aria-label": "Momento", onChange: (e) => { estado.momento = e.target.value; actualizar(); } }, h("option", { value: "" }, "Comida o cena"), Recetas.MOMENTOS.map((mo) => h("option", { value: mo.id, selected: estado.momento === mo.id }, mo.icono + " Para " + mo.nombre.toLowerCase())));
@@ -244,12 +252,13 @@
     const selOrden = h("select.input", { "aria-label": "Ordenar", onChange: (e) => { estado.orden = e.target.value; actualizar(); } }, [["nombre", "Ordenar: nombre"], ["favoritas", "Ordenar: favoritas primero"], ["tiempo", "Ordenar: más rápidas"], ["kcal", "Ordenar: más ligeras"], ["prot", "Ordenar: más proteína"], ["categoria", "Ordenar: categoría"], ["recientes", "Ordenar: más nuevas"]].map(([v, t]) => h("option", { value: v, selected: estado.orden === v }, t)));
     const chkFav = h("label.chip.chip-check", h("input", { type: "checkbox", "aria-label": "Solo favoritas", checked: estado.soloFavoritas, onChange: (e) => { estado.soloFavoritas = e.target.checked; actualizar(); } }), "★ Solo favoritas");
     const selNegra = h("select.input", { "aria-label": "Excluidas de menús", onChange: (e) => { estado.listaNegra = e.target.value; actualizar(); } }, [["", "Mostrar todas"], ["ocultar", "Ocultar excluidas de menús"], ["solo", "Solo excluidas de menús 🚫"]].map(([v, t]) => h("option", { value: v, selected: estado.listaNegra === v }, t)));
-    const btnLimpiar = h("button.btn.btn-suave", { type: "button", onClick: () => { Object.assign(estado, JSON.parse(JSON.stringify({ ...FILTROS_DEFECTO, orden: estado.orden }))); inputQ.value = ""; selMomento.value = ""; selTiempo.value = "0"; selNegra.value = ""; chkFav.querySelector("input").checked = false; actualizar(); } }, "Limpiar filtros");
+    const btnLimpiar = h("button.btn.btn-suave", { type: "button", onClick: () => { Object.assign(estado, JSON.parse(JSON.stringify({ ...FILTROS_DEFECTO, orden: estado.orden }))); inputQ.value = ""; selMomento.value = ""; selTiempo.value = "0"; selNegra.value = ""; chkFav.querySelector("input").checked = false; chkTupper.querySelector("input").checked = false; actualizar(); } }, "Limpiar filtros");
 
-    const filtrosAvanzados = h("details.filtros-avanzados", { open: !!(estado.origen.length || estado.dieta.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.soloFavoritas || estado.listaNegra) }, h("summary", "Más filtros"), h("div.filtros-avanzados-cuerpo",
+    const filtrosAvanzados = h("details.filtros-avanzados", { open: !!(estado.origen.length || estado.dieta.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || estado.tupper || estado.soloFavoritas || estado.listaNegra) }, h("summary", "Más filtros"), h("div.filtros-avanzados-cuerpo",
       h("div.filtro-grupo", h("span.filtro-titulo", "Cocina"), chipsCocina.cont),
       h("div.filtro-grupo", h("span.filtro-titulo", "Contundencia"), chipsCont.cont),
       h("div.filtro-grupo", h("span.filtro-titulo", "Coste"), chipsCoste.cont),
+      h("div.filtro-grupo", h("span.filtro-titulo", "Cocción"), chipsCoccion.cont, chkTupper),
       h("div.filtro-grupo", h("span.filtro-titulo", "Dieta"), chipsDieta.cont),
       h("div.filtro-grupo", h("span.filtro-titulo", "Origen"), chipsOrigen.cont),
       h("div.filtro-grupo.filtro-selects", chkFav, selMomento, selTiempo, selNegra, selOrden)));
@@ -270,14 +279,14 @@
 
     const actualizar = () => {
       guardarEstado();
-      [chipsCat, chipsOrigen, chipsDieta, chipsCocina, chipsCont, chipsCoste].forEach((g) => g.pintar());
-      let lista = Recetas.filtrar({ q: estado.q, categoria: estado.categoria, origen: estado.origen, momento: estado.momento, dieta: estado.dieta, cocina: estado.cocina, contundencia: estado.contundencia, coste: estado.coste, tiempoMax: estado.tiempoMax, soloFavoritas: estado.soloFavoritas, listaNegra: estado.listaNegra });
+      [chipsCat, chipsOrigen, chipsDieta, chipsCocina, chipsCont, chipsCoste, chipsCoccion].forEach((g) => g.pintar());
+      let lista = Recetas.filtrar({ q: estado.q, categoria: estado.categoria, origen: estado.origen, momento: estado.momento, dieta: estado.dieta, cocina: estado.cocina, contundencia: estado.contundencia, coste: estado.coste, coccion: estado.coccion, tupper: estado.tupper, tiempoMax: estado.tiempoMax, soloFavoritas: estado.soloFavoritas, listaNegra: estado.listaNegra });
       const ord = estado.orden;
       const porNombre = (a, b) => a.nombre.localeCompare(b.nombre, "es");
       lista.sort((a, b) => ord === "tiempo" ? a.tiempo - b.tiempo || porNombre(a, b) : ord === "kcal" ? (a.nutricion.kcal || 0) - (b.nutricion.kcal || 0) : ord === "prot" ? (b.nutricion.prot || 0) - (a.nutricion.prot || 0) : ord === "categoria" ? a.categoria.localeCompare(b.categoria) || porNombre(a, b) : ord === "favoritas" ? (b.favorita - a.favorita) || porNombre(a, b) : ord === "recientes" ? b.id.localeCompare(a.id) : porNombre(a, b));
       listaActual = lista;
       const total = Recetas.todas().length;
-      const hayFiltros = estado.q || estado.categoria.length || estado.origen.length || estado.momento || estado.dieta.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.tiempoMax || estado.soloFavoritas || estado.listaNegra;
+      const hayFiltros = estado.q || estado.categoria.length || estado.origen.length || estado.momento || estado.dieta.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || estado.tupper || estado.tiempoMax || estado.soloFavoritas || estado.listaNegra;
       contador.textContent = hayFiltros ? `${lista.length} de ${total} recetas` : `${total} recetas`;
       btnLimpiar.style.display = hayFiltros ? "" : "none";
       pintarGrid();

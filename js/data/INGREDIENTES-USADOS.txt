@@ -1,4 +1,5 @@
 abadejo (lomos)
+aceite de chile
 aceite de oliva
 aceite de sésamo
 aceite de trufa
@@ -17,6 +18,7 @@ alcachofa
 alcachofas
 alcachofas en conserva
 alcaparras
+aleta de ternera
 alga nori
 alga wakame
 alga wakame deshidratada
@@ -26,8 +28,10 @@ almendras
 alubias blancas secas
 alubias negras cocidas
 alubias negras secas
+alubias pintas cocidas
 alubias pintas secas
 alubias rojas cocidas
+alubias rojas secas
 anacardos
 anchoas en aceite
 anís estrellado
@@ -38,6 +42,7 @@ arroz basmati
 arroz bomba
 arroz integral
 arroz jazmín
+arroz largo
 arroz para sushi
 arroz redondo
 atún en conserva
@@ -51,11 +56,15 @@ bacalao fresco
 bacon
 bebida vegetal
 berenjena
+berros
+besugo
 bicarbonato
 boniato
 bonito en conserva
 bonito fresco (lomos)
 boquerones frescos
+borraja
+botillo
 brandy
 brócoli
 brotes de soja
@@ -73,6 +82,8 @@ caldo de carne
 caldo de pescado
 caldo de pollo
 caldo de verduras
+callos de ternera
+callos de ternera cocidos
 canela en rama
 canela molida
 canelones (placas)
@@ -83,8 +94,10 @@ cardamomo
 cardamomo (vainas)
 cardamomo en vaina
 cardamomo molido
+cardo
 carne de pimiento choricero
 carrillada de cerdo
+carrillada de ternera
 carrillada ibérica
 castañas cocidas
 cayena
@@ -103,11 +116,13 @@ chalota
 champiñones
 chile fresco
 chile guajillo seco
+chipirones
 chipotle en adobo
 chirivía
 chocolate negro
 chorizo
 chucrut
+chuletas de cerdo
 cilantro fresco
 cilantro molido
 cinco especias chinas
@@ -116,6 +131,7 @@ ciruelas pasas
 clavo
 coco rallado
 codillo de cerdo
+codorniz
 col blanca
 col china
 col lombarda
@@ -136,6 +152,7 @@ cordero para guisar
 cordero picado
 corvina (lomos)
 costilla de cerdo
+costilla de ternera
 costillas de cerdo
 crema de cacahuete
 cúrcuma molida
@@ -148,11 +165,13 @@ dorada entera
 edamame congelado
 endivia
 eneldo fresco
+escarola
 espaguetis
 espaguetis integrales
 espárragos trigueros
 espárragos verdes
 espelta en grano
+espinacas congeladas
 espinacas frescas
 espinas de pescado
 espinas y cabezas de pescado
@@ -161,50 +180,68 @@ falda de ternera
 farro
 fenogreco seco (hojas)
 fideos de arroz
+fideos de boniato
 fideos de fideuá
 fideos de huevo
 fideos de ramen
 fideos finos
+fideos gordos
 fideos ramen
 fideos soba
 fideos udon
 fresa
 frutos rojos
+galets
+galletas saladas
+gallo (filetes)
 gambas enteras
 gambas peladas
 garam masala
 garbanzos cocidos
 garbanzos secos
+garrofó
 gnocchi de patata
 gochujang
 granada
 grelos
+guanciale
+guascas secas
 guindilla seca
+guindillas en vinagre
 guisantes amarillos partidos secos
 guisantes congelados
 habas cocidas
 habas congeladas
+habas secas
+habas secas peladas
 halloumi
 harina de garbanzo
 harina de maíz precocida
+harina de mandioca
 harina de trigo
 harina de trigo sarraceno
 harissa
 heura
 hierba limón
 hierbabuena fresca
+hígado de ternera
 higo fresco
 hinojo
 hojaldre
 huesos de ternera
 huevo
+jabalí para guisar
+jamón cocido
 jamón ibérico
 jamón serrano
 jengibre fresco
+jengibre molido
 judías blancas cocidas
 judías blancas secas
+judías mungo secas
 judías verdes
 judiones cocidos
+judiones secos
 jurel
 kale
 kétchup
@@ -235,25 +272,32 @@ lubina (lomos)
 macarrones
 magret de pato
 maicena
+maíz blanco partido seco
 maíz dulce
 maíz pozolero cocido
 mango
+manitas de cerdo
 manteca de cerdo
 mantequilla
 mantequilla de cacahuete
 manzana
+masa quebrada
 mayonesa
 mazorca de maíz
 mejillones
 mejillones en escabeche
 mejillones frescos
+mejorana seca
+melaza de caña
 melaza de granada
 melocotón
 melón
 menta fresca
 menta seca
 merluza (lomos)
+mermelada de arándanos rojos
 miel
+miel de caña
 mijo
 mirin
 miso
@@ -261,7 +305,9 @@ morcilla
 mostaza antigua
 mostaza de Dijon
 mozzarella
+nabo
 naranja
+nata agria
 nata para cocinar
 nata vegetal
 noodles de trigo
@@ -269,8 +315,10 @@ nueces
 nuez moscada molida
 ñora
 obleas de wonton
+obleas para empanadillas
 orecchiette
 orégano seco
+oreja de cerdo
 orejones de albaricoque
 orzo
 ossobuco de ternera
@@ -292,37 +340,45 @@ pasta de achiote
 pasta de ají amarillo
 pasta de curry rojo
 pasta de curry verde
+pasta de judía picante (doubanjiang)
 pasta de tamarindo
 pasta filo
 patata
 pato (muslos)
 pavo (contramuslo)
 pavo (muslo deshuesado)
+pavo (muslo)
 pavo (pechuga)
 pavo picado
 penne
 pepinillos
 pepino
 pera
+perdiz
 perejil fresco
+pescadilla
 pez espada (rodajas)
 pimentón ahumado
 pimentón dulce
 pimentón picante
 pimienta blanca
 pimienta de Jamaica molida
+pimienta de Sichuan
 pimienta negra
 pimienta negra en grano
 pimiento amarillo
 pimiento choricero
 pimiento rojo
 pimiento verde
+pimientos de Padrón
 pimientos del piquillo
 piña
 piñones
 pistachos
 placas de lasaña
+plátano
 plátano macho
+pochas
 polenta
 pollo (alitas)
 pollo (contramuslos)
@@ -341,11 +397,16 @@ queso azul
 queso cheddar
 queso crema
 queso de cabra
+queso en lonchas
+queso en porciones
 queso feta
 queso fresco
 queso griego
 queso gruyer
 queso gruyère
+queso manchego curado
+queso pecorino
+queso provolone
 queso rallado
 queso vegetal rallado
 quinoa
@@ -361,6 +422,7 @@ repollo
 requesón
 ricotta
 rigatoni
+rodaballo
 romero fresco
 rúcula
 sal
@@ -373,6 +435,7 @@ salchichas de pavo
 salchichas frescas
 salmón ahumado
 salmón fresco (lomos)
+salmonete
 salsa de chile dulce
 salsa de ostras
 salsa de pescado
@@ -407,12 +470,15 @@ sriracha
 surimi
 tagliatelle
 tahini
+tapas de empanada
 tempeh
+ternera (chuletón)
 ternera (entrecot)
 ternera (filete fino)
 ternera (filete)
 ternera (filetes)
 ternera (ossobuco)
+ternera (redondo)
 ternera (solomillo)
 ternera para guisar
 ternera picada
@@ -429,12 +495,14 @@ tomate seco en aceite
 tomate triturado
 tomillo fresco
 tomillo seco
+torta cenceña
 tortellini frescos
 tortillas de maíz
 tortillas de trigo
 trucha (filetes)
 uva
 veganesa
+verdinas secas
 vieiras
 vinagre balsámico
 vinagre de arroz
@@ -444,9 +512,11 @@ vinagre de vino
 vino blanco
 vino dulce Pedro Ximénez
 vino tinto
+whisky
 yogur griego natural
 yogur natural
 yogur vegetal
+yuca
 za'atar
 zaatar
 zanahoria

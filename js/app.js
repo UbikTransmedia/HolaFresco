@@ -101,6 +101,7 @@
 
   const render = () => {
     const ruta = rutaActual();
+    UI.cerrarModales();
     UI.vaciar(nav);
     for (const r of RUTAS) nav.appendChild(h("a.nav-item", { href: "#" + (r.id === "inicio" ? "/" : "/" + r.id), class: r.id === ruta.id ? "activo" : "", "aria-current": r.id === ruta.id ? "page" : null }, h("span.nav-icono", r.icono), h("span.nav-texto", r.nombre)));
     nav.appendChild(h("button.nav-item.nav-btn", { type: "button", onClick: abrirAjustes, title: "Ajustes" }, h("span.nav-icono", "⚙️"), h("span.nav-texto", "Ajustes")));

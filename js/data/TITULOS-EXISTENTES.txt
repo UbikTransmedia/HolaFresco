@@ -998,6 +998,506 @@ inv-1007 · olla-express · Conejo a la cacciatora con romero, aceitunas negras,
 inv-1008 · olla-express · Pollo con garbanzos, orejones y ras el hanout al estilo tajín con cuscús
 inv-1009 · olla-express · Fasolada griega desde seco con remojo exprés, apio, zanahoria y limón
 inv-1010 · olla-express · Jarretes de cordero al vino tinto, romero y ajo con puré de judías blancas al limón
+inv-1011 · legumbres · Fabes con almejas a la asturiana
+inv-1012 · legumbres · Michirones murcianos
+inv-1013 · legumbres · Alubias rojas de Tolosa con sus sacramentos
+inv-1014 · legumbres · Cocido montañés de alubias y berza
+inv-1015 · legumbres · Puchero andaluz con su pringá
+inv-1016 · legumbres · Berza jerezana con garbanzos, alubias y su pringá
+inv-1017 · legumbres · Olla de fesols i naps
+inv-1018 · legumbres · Judiones de La Granja con matanza
+inv-1019 · legumbres · Garbanzos con callos a la andaluza
+inv-1020 · legumbres · Judías de El Barco con chorizo
+inv-1021 · legumbres · Garbanzos a la riojana con chorizo y pimiento choricero
+inv-1022 · legumbres · Lentejas castellanas con morcilla de Burgos y costilla
+inv-1023 · legumbres · Pochas a la navarra con verduras
+inv-1024 · legumbres · Pochas con almejas
+inv-1025 · legumbres · Verdinas con marisco
+inv-1026 · legumbres · Potaje canario de berros
+inv-1027 · legumbres · Rancho canario
+inv-1028 · legumbres · Ropa vieja canaria de garbanzos y pollo
+inv-1029 · legumbres · Habas con jamón a la granadina
+inv-1030 · legumbres · Potaje de garbanzos con acelgas
+inv-1031 · legumbres · Empedrado de alubias pintas, arroz y bacalao
+inv-1032 · legumbres · Potaje de habichuelas con arroz y calabaza
+inv-1033 · legumbres · Puré de lentejas con picatostes
+inv-1034 · legumbres · Judías blancas a la jardinera
+inv-1035 · legumbres · Lentejas con codornices estofadas
+inv-1036 · legumbres · Linseneintopf: potaje alemán de lentejas con salchichas
+inv-1037 · legumbres · Garbure bearnesa con confit de pato
+inv-1038 · legumbres · Jota triestina de alubias, chucrut y costilla
+inv-1039 · legumbres · Fagioli all'uccelletto con salchicha
+inv-1040 · legumbres · Kuru fasulye: alubias blancas a la turca con carne
+inv-1041 · legumbres · Etli nohut: garbanzos guisados con cordero a la turca
+inv-1042 · legumbres · Adas polo: arroz persa con lentejas, dátiles y pasas
+inv-1043 · legumbres · Congrí cubano de frijoles colorados y arroz
+inv-1044 · legumbres · Tacu tacu con huevo frito y salsa criolla
+inv-1045 · legumbres · Porotos con riendas a la chilena
+inv-1046 · legumbres · Porotos granados
+inv-1047 · legumbres · Frijoles antioqueños con chicharrón y plátano maduro
+inv-1048 · legumbres · Locro criollo de porotos y maíz
+inv-1049 · legumbres · Alubias blancas con perdiz a la navarra
+inv-1050 · legumbres · Mongetes amb botifarra
+inv-1051 · legumbres · Feijão tropeiro mineiro
+inv-1052 · legumbres · Cocido con pelotas a la murciana
+inv-1053 · legumbres · Potaje canario de chícharos
+inv-1054 · legumbres · Alubias a la bretona
+inv-1055 · legumbres · Lentejas de Cuaresma con calabaza, espinacas y huevo duro
+inv-1056 · legumbres · Sopa de puchero con garbanzos, hierbabuena y huevo duro
+inv-1057 · legumbres · Cigrons a la catalana
+inv-1058 · legumbres · Menestra peruana de lentejas con arroz y bistec
+inv-1059 · legumbres · Potaje de alubias con espinacas y huevo duro
+inv-1060 · legumbres · Frijol con puerco yucateco
+inv-1061 · carnes · Magro de cerdo con tomate a la murciana
+inv-1062 · carnes · Albóndigas en salsa de almendras con patatas fritas
+inv-1063 · carnes · Fricandó de ternera con setas a la catalana
+inv-1064 · carnes · Boeuf bourguignon con puré de patata
+inv-1065 · carnes · Callos a la madrileña sencillos
+inv-1066 · carnes · Rabo de toro a la cordobesa con patatas fritas
+inv-1067 · carnes · Pollo guisado de la abuela con patatas
+inv-1068 · carnes · Pechugas de pollo en salsa de cebolla y vino blanco con arroz blanco
+inv-1069 · carnes · Filetes de pavo en salsa de champiñones con patatas cocidas
+inv-1070 · carnes · Caldereta de cordero extremeña
+inv-1071 · carnes · Patatas guisadas con carne de la abuela
+inv-1072 · carnes · Pollo en escabeche casero
+inv-1073 · carnes · Estofado de pavo con patatas, zanahoria y guisantes
+inv-1074 · carnes · Ternera en salsa de pimiento choricero con patatas a la riojana
+inv-1075 · carnes · Redondo de ternera en salsa con zanahorias
+inv-1076 · carnes · Paprikás de pollo con nata agria y pasta
+inv-1077 · carnes · Kokkinisto: ternera estofada al tomate con orzo
+inv-1078 · carnes · Pollo a la catalana con ciruelas pasas y piñones
+inv-1079 · carnes · Blanquette de ternera con arroz blanco
+inv-1080 · carnes · Navarin de cordero con verduras de primavera
+inv-1081 · carnes · Irish stew: estofado irlandés de cordero con patatas
+inv-1082 · carnes · Manitas de cerdo en salsa
+inv-1083 · carnes · Albóndigas de pollo en salsa de tomate con arroz blanco
+inv-1084 · carnes · Pollo con gambas, mar y montaña a la catalana
+inv-1085 · carnes · Seco de res peruano con arroz blanco
+inv-1086 · carnes · Ají de gallina con arroz y patata
+inv-1087 · carnes · Pollo guisado dominicano con arroz blanco
+inv-1088 · carnes · Asado negro venezolano con arroz blanco
+inv-1089 · carnes · Salchichas en salsa de tomate con patatas
+inv-1090 · carnes · Pollo en salsa verde con guisantes
+inv-1091 · carnes · Filetes de pavo en salsa de pimientos del piquillo con patatas
+inv-1092 · carnes · Lomo de cerdo en salsa de almendras con patatas fritas
+inv-1093 · carnes · Filetes de ternera con tomate y arroz blanco
+inv-1094 · carnes · Pollo con pisto manchego
+inv-1095 · carnes · Pollo a la sidra asturiano con manzana
+inv-1096 · carnes · Carrilleras de ternera estofadas al vino tinto con puré de patata
+inv-1097 · carnes · Estofado de cerdo con castañas y setas a la gallega
+inv-1098 · carnes · Cordero guisado a la manchega con patatas
+inv-1099 · carnes · Contramuslos de pavo guisados al horno con verduras
+inv-1100 · carnes · Rouladen: rollos de ternera alemanes en salsa con puré de patata
+inv-1101 · carnes · Hachee: estofado holandés de ternera y cebolla con patatas cocidas
+inv-1102 · carnes · Sudado de pollo peruano
+inv-1103 · carnes · Pollo a la jardinera con verduras de la huerta
+inv-1104 · carnes · Hígado de ternera encebollado con patatas fritas
+inv-1105 · carnes · Bœuf carottes: ternera estofada con zanahorias a la francesa
+inv-1106 · carnes · Pollo a la sevillana con aceitunas y arroz blanco
+inv-1107 · carnes · Pollo guisado con judías verdes y patata
+inv-1108 · carnes · Pörkölt húngaro de cerdo con pasta
+inv-1109 · carnes · Spezzatino de ternera con patatas y guisantes
+inv-1110 · carnes · Chuletas de cerdo en salsa con patatas fritas
+inv-1111 · carnes · Flamenquines cordobeses de lomo y jamón con patatas fritas
+inv-1112 · carnes · Cachopo asturiano de ternera con jamón y queso
+inv-1113 · carnes · Lomo de cerdo a la sal con patatas asadas y alioli
+inv-1114 · carnes · Filetes de pollo empanados con ensalada de lechuga, tomate y cebolla
+inv-1115 · carnes · Filetes rusos caseros con arroz blanco y tomate frito
+inv-1116 · carnes · Chuletas de cordero a la plancha con patatas a lo pobre
+inv-1117 · carnes · Pollo al ajillo de la abuela, troceado con hueso y frito en su aceite
+inv-1118 · carnes · Secreto ibérico a la plancha con pimientos de Padrón y patatas fritas
+inv-1119 · carnes · Hamburguesa casera completa con huevo, bacon y queso
+inv-1120 · carnes · Carne mechada al horno con jamón y zanahoria y puré de patata
+inv-1121 · carnes · Empanada gallega de carne con masa casera
+inv-1122 · carnes · Contramuslos de pollo al horno con patatas, cebolla y vino blanco
+inv-1123 · carnes · San Jacobos caseros de lomo, jamón cocido y queso con ensalada
+inv-1124 · carnes · Lomo adobado a la plancha con huevo frito y patatas fritas
+inv-1125 · carnes · Cinta de lomo a la plancha con pimientos verdes fritos
+inv-1126 · carnes · Pechugas de pollo a la plancha con ajo y perejil y ensalada de tomate
+inv-1127 · carnes · Filete de ternera a la plancha con pimientos del piquillo y ensalada verde
+inv-1128 · carnes · Chuletas de cerdo a la plancha con manzana asada
+inv-1129 · carnes · Pollo frito a la andaluza adobado en limón y ajo
+inv-1130 · carnes · Croquetas caseras de pollo y jamón con ensalada de lechuga
+inv-1131 · carnes · Lomo de cerdo asado a la catalana con ciruelas, manzana y piñones
+inv-1132 · carnes · Paletilla de lechazo asada al estilo castellano con patatas
+inv-1133 · carnes · Costillar de cerdo al horno con ajo, pimentón y patatas panadera
+inv-1134 · carnes · Filetes de pavo a la plancha con champiñones al ajillo
+inv-1135 · carnes · Redondo de pavo asado con zanahorias, cebollitas y su jugo
+inv-1136 · carnes · Churrasco de costilla de cerdo a la gallega con patatas fritas y ensalada
+inv-1137 · carnes · Pastel de papa argentino con carne picada, huevo duro y aceitunas
+inv-1138 · carnes · Empanadas argentinas de carne cortada a cuchillo al horno
+inv-1139 · carnes · Milanesa napolitana con puré de patata
+inv-1140 · carnes · Alitas de pollo adobadas al horno con patatas gajo
+inv-1141 · carnes · Pollo a la plancha al limón con verduras de temporada a la plancha
+inv-1142 · carnes · Pollo asado con mojo picón y papas arrugadas
+inv-1143 · carnes · Raxo gallego con patatas fritas y pimientos
+inv-1144 · carnes · Solomillo de cerdo al whisky con patatas fritas
+inv-1145 · carnes · Solomillo de ternera a la plancha con patatas panadera y pimientos asados
+inv-1146 · carnes · Chuletón de vaca a la sartén con pimientos del piquillo y patatas fritas
+inv-1147 · carnes · Presa ibérica a la plancha con patatas al horno y ensalada de tomate
+inv-1148 · carnes · Muslo de pavo asado con manzanas, castañas y cebolla
+inv-1149 · carnes · Carcamusas toledanas: magro de cerdo con tomate, guisantes y pan frito
+inv-1150 · carnes · Butifarra con mongetes
+inv-1151 · carnes · Chorizos a la sidra con patatas fritas y pan
+inv-1152 · carnes · Pollo en escabeche de la abuela con zanahoria y cebolla
+inv-1153 · carnes · Pechugas Villeroy con ensalada de tomate
+inv-1154 · carnes · Contramuslos de pollo a la plancha con escalivada
+inv-1155 · carnes · Tacos de carne asada al estilo norteño con guacamole y cebolla
+inv-1156 · carnes · Pollo a la brasa al estilo peruano con papas fritas y salsa de ají
+inv-1157 · carnes · Rosbif casero con patatas asadas y salsa de su jugo
+inv-1158 · carnes · Salchichas con puré de patata y salsa de cebolla
+inv-1159 · carnes · Brochetas de pavo y verduras a la plancha con arroz blanco
+inv-1160 · carnes · Lomo en manteca colorá con patatas fritas y pan tostado
+inv-1161 · pescado · Merluza a la gallega con cachelos y ajada de pimentón
+inv-1162 · pescado · Bacalao con tomate a la riojana y patatas fritas
+inv-1163 · pescado · Sardinas guisadas en cazuela con patatas, tomate y pimentón
+inv-1164 · pescado · Chipirones encebollados con patatas fritas
+inv-1165 · pescado · Mejillones a la marinera
+inv-1166 · pescado · Rape a la marinera con almejas y gambas
+inv-1167 · pescado · Pescaíto frito a la andaluza
+inv-1168 · pescado · Empanada gallega de atún con masa casera
+inv-1169 · pescado · Soldaditos de Pavía con pimientos del piquillo
+inv-1170 · pescado · Merluza a la romana con pimientos asados y patatas cocidas
+inv-1171 · pescado · Bacalao a la llauna con judías blancas salteadas
+inv-1172 · pescado · Atascaburras manchego
+inv-1173 · pescado · Patatas guisadas con bacalao
+inv-1174 · pescado · Bonito con tomate a la cántabra
+inv-1175 · pescado · Bonito encebollado gaditano con patatas fritas
+inv-1176 · pescado · Caldeirada gallega de merluza y patatas
+inv-1177 · pescado · Calamares guisados con patatas
+inv-1178 · pescado · Tigres: mejillones rellenos rebozados
+inv-1179 · pescado · Truchas a la navarra con jamón y patatas al horno
+inv-1180 · pescado · Besugo al horno a la madrileña con patatas panaderas
+inv-1181 · pescado · Filetes de gallo rebozados con ensalada de lechuga y tomate
+inv-1182 · pescado · Rodaballo al horno con patatas y refrito de ajos
+inv-1183 · pescado · Jureles fritos con pimientos verdes fritos y ensalada de tomate
+inv-1184 · pescado · Albóndigas de merluza y gambas en caldo de azafrán con patatas
+inv-1185 · pescado · Pastel de merluza y gambas con mayonesa y ensalada
+inv-1186 · pescado · Empanadillas de atún fritas con ensalada de tomate
+inv-1187 · pescado · Pimientos del piquillo rellenos de bacalao en salsa de piquillo
+inv-1188 · pescado · Pulpo a la mariñeira con patatas
+inv-1189 · pescado · Salpicón de marisco con langostinos, pulpo y mejillones
+inv-1190 · pescado · Bonito en rollo con salsa de tomate y patatas
+inv-1191 · pescado · Merluza a la sidra con almejas y patatas
+inv-1192 · pescado · Gambas con gabardina y ensalada de lechuga y cebolleta
+inv-1193 · pescado · Salmonetes fritos con pipirrana
+inv-1194 · pescado · Cazón en amarillo con patatas
+inv-1195 · pescado · Bacalao gratinado con alioli sobre patatas y cebolla
+inv-1196 · pescado · Rape alangostado con salsa de tomate y patatas
+inv-1197 · pescado · Dorada a la bilbaína con patatas al horno
+inv-1198 · pescado · Croquetas de merluza y gambas con ensalada
+inv-1199 · pescado · Merluza en salsa de puerros con patata cocida
+inv-1200 · pescado · Pescado a la mallorquina con acelgas, patatas, pasas y piñones
+inv-1201 · pescado · Bonito en escabeche casero con ensalada de lechuga y cebolleta
+inv-1202 · pescado · Pescadilla frita que se muerde la cola con patatas y mayonesa
+inv-1203 · pescado · Merluza rellena de jamón y queso, rebozada, con ensalada
+inv-1204 · pescado · Sancocho canario con papas, boniato y mojo rojo
+inv-1205 · pescado · Caldillo de perro gaditano
+inv-1206 · pescado · Gazpachuelo malagueño con merluza, gambas y patata
+inv-1207 · pescado · Bocartes rebozados con pimientos asados
+inv-1208 · pescado · Corvina a la roteña con patatas
+inv-1209 · pescado · Ensaladilla rusa con bonito y huevo duro
+inv-1210 · pescado · Mejillones a la vinagreta con patatas cocidas
+inv-1211 · pasta-arroces · Arroz a la cubana con huevo frito y plátano
+inv-1212 · pasta-arroces · Paella valenciana de pollo y conejo con garrofó y judía verde
+inv-1213 · pasta-arroces · Paella mixta sencilla de pollo, calamar y marisco
+inv-1214 · pasta-arroces · Arroz con alubias y nabos a la valenciana
+inv-1215 · pasta-arroces · Arroz con costra de Elche
+inv-1216 · pasta-arroces · Arroz de montaña con conejo, costilla y setas
+inv-1217 · pasta-arroces · Arroz empedrado con alubias, bacalao y tomate
+inv-1218 · pasta-arroces · Arroz a la zamorana con costilla, panceta y chorizo
+inv-1219 · pasta-arroces · Arroz con acelgas y alubias blancas
+inv-1220 · pasta-arroces · Arroz con atún y tomate de la abuela
+inv-1221 · pasta-arroces · Arroz caldoso de rape y almejas con picada de almendra
+inv-1222 · pasta-arroces · Arroz con magro y pimientos
+inv-1223 · pasta-arroces · Arroz caldoso con pulpo a la gallega
+inv-1224 · pasta-arroces · Arroz con alcachofas, habas y ajos tiernos
+inv-1225 · pasta-arroces · Arroz tres delicias casero
+inv-1226 · pasta-arroces · Arroz tapado peruano con picadillo de ternera
+inv-1227 · pasta-arroces · Arroz con pollo de Hainan
+inv-1228 · pasta-arroces · Nasi goreng de pollo con huevo frito
+inv-1229 · pasta-arroces · Kedgeree: arroz al curry con merluza y huevo duro
+inv-1230 · pasta-arroces · Risi e bisi: arroz con guisantes y panceta a la veneciana
+inv-1231 · pasta-arroces · Arroz rojo a la mexicana con pollo desmenuzado
+inv-1232 · pasta-arroces · Arroz de vigilia con calabaza, garbanzos y espinacas
+inv-1233 · pasta-arroces · Arroz de la huerta murciana con costillas y judías verdes
+inv-1234 · pasta-arroces · Arroz caldoso de la abuela con pelotas a la alicantina
+inv-1235 · pasta-arroces · Arroz blanco con pisto manchego y huevo frito
+inv-1236 · pasta-arroces · Espaguetis a la carbonara tradicional
+inv-1237 · pasta-arroces · Espaguetis a la amatriciana
+inv-1238 · pasta-arroces · Penne all'arrabbiata
+inv-1239 · pasta-arroces · Espaguetis con albóndigas en salsa de tomate
+inv-1240 · pasta-arroces · Canelones de Sant Esteve con carne asada y bechamel
+inv-1241 · pasta-arroces · Canelones de atún y huevo duro gratinados
+inv-1242 · pasta-arroces · Ñoquis a la sorrentina
+inv-1243 · pasta-arroces · Ñoquis al gorgonzola con nueces
+inv-1244 · pasta-arroces · Fideos a la cazuela con costillas y patatas
+inv-1245 · pasta-arroces · Cazuela de fideos con bacalao y patata
+inv-1246 · pasta-arroces · Macarrones con atún y tomate de la abuela
+inv-1247 · pasta-arroces · Macarrones gratinados con salchichas y tomate
+inv-1248 · pasta-arroces · Tallarines a la marinera
+inv-1249 · pasta-arroces · Tallarines con nata, champiñones y bacon
+inv-1250 · pasta-arroces · Fettuccine Alfredo a la romana
+inv-1251 · pasta-arroces · Pasta e patate a la napolitana con provola
+inv-1252 · pasta-arroces · Espaguetis con guisantes y jamón serrano
+inv-1253 · pasta-arroces · Espaguetis negros con calamar en su tinta
+inv-1254 · pasta-arroces · Käsespätzle: ñoquis alpinos de huevo con queso y cebolla frita
+inv-1255 · pasta-arroces · Pasta con salsa de nueces a la ligur
+inv-1256 · pasta-arroces · Espaguetis a la riojana con chorizo y pimientos
+inv-1257 · pasta-arroces · Pasta al horno a la napolitana
+inv-1258 · pasta-arroces · Rigatoni con ragú napolitano de domingo
+inv-1259 · pasta-arroces · Ossobuco a la milanesa con risotto al azafrán
+inv-1260 · pasta-arroces · Espaguetis alla Nerano con calabacín frito y provolone
+inv-1261 · sopas-cremas · Puchero andaluz con su sopa de fideos y pringá
+inv-1262 · sopas-cremas · Escudella i carn d'olla con galets y pilota
+inv-1263 · sopas-cremas · Pote asturiano de berzas con alubias y compango
+inv-1264 · sopas-cremas · Sopa de pescado y marisco con rape, gambas y almejas
+inv-1265 · sopas-cremas · Caldo de papas canario con huevo, cilantro y queso fresco
+inv-1266 · sopas-cremas · Sopa de tomate extremeña con huevo escalfado y pan de pueblo
+inv-1267 · sopas-cremas · Cachorreñas malagueñas: sopa de naranja con bacalao
+inv-1268 · sopas-cremas · Sopes mallorquines de verduras con pan moreno
+inv-1269 · sopas-cremas · Caldo de castañas a la gallega con chorizo, patata y repollo
+inv-1270 · sopas-cremas · Zurrukutuna: sopa vasca de bacalao, pan y pimiento choricero
+inv-1271 · sopas-cremas · Crema de calabacín con quesitos, huevo duro y picatostes
+inv-1272 · sopas-cremas · Crema de espinacas a la antigua con huevo poché y picatostes
+inv-1273 · sopas-cremas · Puré de lentejas de la abuela con chorizo y picatostes
+inv-1274 · sopas-cremas · Gazpachos manchegos de conejo y pollo con torta cenceña
+inv-1275 · sopas-cremas · Andrajos jienenses con bacalao y hierbabuena
+inv-1276 · sopas-cremas · Cocido con pelotas murciano
+inv-1277 · sopas-cremas · Olla valenciana de judías, costilla y morcilla con verduras
+inv-1278 · sopas-cremas · Potaje de berros canario con costilla, millo y calabaza
+inv-1279 · sopas-cremas · Rancho canario de garbanzos, carne de cerdo, papas y fideos gruesos
+inv-1280 · sopas-cremas · Caldillo de perro gaditano: merluza en caldo de naranja
+inv-1281 · sopas-cremas · Sopa de verduras de la abuela con fideos y huevo duro
+inv-1282 · sopas-cremas · Patatas a la riojana caldosas con chorizo
+inv-1283 · sopas-cremas · Crema de ave a la reina con huevo duro y jamón
+inv-1284 · sopas-cremas · Berza jerezana con garbanzos, judías y su pringá
+inv-1285 · sopas-cremas · Crema de verduras de la huerta con picatostes y aceite crudo
+inv-1286 · sopas-cremas · Garbure bearnesa con confit de pato, alubias y col
+inv-1287 · sopas-cremas · Cock-a-leekie: sopa escocesa de pollo, puerro y ciruelas pasas
+inv-1288 · sopas-cremas · Scotch broth: caldo escocés de cordero con cebada y verduras
+inv-1289 · sopas-cremas · Caldo verde portugués con chorizo
+inv-1290 · sopas-cremas · Sopa da pedra: sopa portuguesa de alubias rojas con chorizo y morcilla
+inv-1291 · sopas-cremas · Açorda alentejana con huevos escalfados y cilantro
+inv-1292 · sopas-cremas · Canja de galinha: sopa portuguesa de pollo y arroz con hierbabuena
+inv-1293 · sopas-cremas · Shchi: sopa rusa de repollo y ternera con eneldo y yogur
+inv-1294 · sopas-cremas · Kartoffelsuppe: sopa alemana de patata con salchichas ahumadas
+inv-1295 · sopas-cremas · Pasta e patate napolitana con parmesano
+inv-1296 · sopas-cremas · Acquacotta maremmana con huevo y pan tostado
+inv-1297 · sopas-cremas · Zuppa pavese: caldo con huevo, pan dorado y parmesano
+inv-1298 · sopas-cremas · Psarosoupa: sopa griega de pescado al avgolemono
+inv-1299 · sopas-cremas · Ezogelin çorbası: sopa turca de lentejas rojas, bulgur y menta
+inv-1300 · sopas-cremas · Caldo de res mexicano con elote y verduras
+inv-1301 · sopas-cremas · Sopa de fideo mexicana con aguacate y queso fresco
+inv-1302 · sopas-cremas · Caldo de albóndigas mexicano con hierbabuena y verduras
+inv-1303 · sopas-cremas · Aguadito de pollo peruano con cilantro y ají amarillo
+inv-1304 · sopas-cremas · Sopa criolla peruana de ternera, fideos y huevo
+inv-1305 · sopas-cremas · Ajiaco santafereño de pollo y tres patatas
+inv-1306 · sopas-cremas · Locro argentino de maíz, calabaza y carnes con salsa picante
+inv-1307 · sopas-cremas · Clam chowder de Nueva Inglaterra con almejas, bacon y patata
+inv-1308 · sopas-cremas · Bisque de gambas a la francesa
+inv-1309 · sopas-cremas · Cazuela chilena de vacuno con calabaza, choclo y arroz
+inv-1310 · sopas-cremas · Minestra maritata: sopa italiana de albóndigas, escarola y pasta
+inv-1311 · vegetariano · Tortilla de patatas con cebolla, jugosa como la de casa
+inv-1312 · vegetariano · Tortilla de calabacín y patata con cebolla pochada
+inv-1313 · vegetariano · Huevos rotos con patatas fritas y pimientos verdes
+inv-1314 · vegetariano · Patatas a la importancia en salsa de azafrán
+inv-1315 · vegetariano · Pisto manchego a fuego lento con huevos fritos
+inv-1316 · vegetariano · Menestra de verduras a la navarra con huevo duro
+inv-1317 · vegetariano · Coliflor al ajoarriero con patata y huevo
+inv-1318 · vegetariano · Judías verdes con tomate a la antigua y huevos escalfados
+inv-1319 · vegetariano · Berenjenas rellenas de verduras con bechamel y queso manchego
+inv-1320 · vegetariano · Croquetas caseras de espinacas y queso
+inv-1321 · vegetariano · Patatas rellenas de setas con bechamel gratinada
+inv-1322 · vegetariano · Revuelto de ajetes y setas de cardo
+inv-1323 · vegetariano · Pastel de calabacín y zanahoria al baño maría
+inv-1324 · vegetariano · Acelgas rehogadas con patata y huevos escalfados
+inv-1325 · vegetariano · Zarangollo murciano de calabacín y cebolla
+inv-1326 · vegetariano · Huevos rellenos gratinados con tomate y bechamel
+inv-1327 · vegetariano · Tortilla paisana de patata, pimientos, guisantes y judías verdes
+inv-1328 · vegetariano · Patatas a lo pobre con pimientos y huevos fritos
+inv-1329 · vegetariano · Huevos encapotados con ensalada de pimientos asados
+inv-1330 · vegetariano · Cardo en salsa de almendras con huevo duro
+inv-1331 · vegetariano · Cazuela de alcachofas con patatas y huevos escalfados
+inv-1332 · vegetariano · Patatas en salsa verde con guisantes y huevos cocidos
+inv-1333 · vegetariano · Empanada gallega de cebolla, pimiento y huevo duro
+inv-1334 · vegetariano · Arroz a la cubana con tomate casero, huevo frito y plátano
+inv-1335 · vegetariano · Migas de pastor con huevos fritos, pimientos verdes y uvas
+inv-1336 · vegetariano · Lentejas de vigilia con verduras y huevo duro
+inv-1337 · vegetariano · Garbanzos guisados con acelgas, patata y huevo duro
+inv-1338 · vegetariano · Alubias blancas estofadas con verduras y huevo escalfado
+inv-1339 · vegetariano · Sopa castellana de ajo con huevo escalfado
+inv-1340 · vegetariano · Hervido valenciano con huevo duro y aceite crudo
+inv-1341 · vegetariano · Piperrada vasca con huevos y pan tostado
+inv-1342 · vegetariano · Crema de calabacín y queso con picatostes
+inv-1343 · vegetariano · Espinacas a la crema con huevos duros gratinados
+inv-1344 · vegetariano · Puerros gratinados con bechamel sobre patatas cocidas
+inv-1345 · vegetariano · Coliflor rebozada con salsa de tomate casera
+inv-1346 · vegetariano · Trinxat de la Cerdanya con huevos fritos
+inv-1347 · vegetariano · Lombarda a la madrileña con manzana, pasas y piñones
+inv-1348 · vegetariano · Gratín dauphinois de patatas con nata y gruyère
+inv-1349 · vegetariano · Crepes de espinacas y requesón gratinados con bechamel
+inv-1350 · vegetariano · Tortilla de espárragos trigueros y ajetes
+inv-1351 · vegetariano · Pastel de patata gratinado con verduras y queso
+inv-1352 · vegetariano · Patatas revolconas con pimentón y huevos fritos
+inv-1353 · vegetariano · Rösti suizo de patata con huevos fritos y ensalada
+inv-1354 · vegetariano · Ensaladilla rusa de la abuela con huevo duro y piquillos
+inv-1355 · vegetariano · Berenjenas fritas con miel de caña y salmorejo
+inv-1356 · vegetariano · Tortilla de berenjena y cebolla con pimientos del piquillo
+inv-1357 · vegetariano · Huevos en salsa de la abuela con patatas fritas
+inv-1358 · vegetariano · Patatas viudas con pimiento choricero y huevo escalfado
+inv-1359 · vegetariano · Champiñones rellenos de ajo, perejil y queso con patatas al romero
+inv-1360 · vegetariano · Canelones de espinacas a la catalana con piñones y pasas
+inv-1361 · olla-express · Alubias pintas con oreja y chorizo
+inv-1362 · olla-express · Lacón con grelos y cachelos
+inv-1363 · olla-express · Cocido lebaniego con su relleno
+inv-1364 · olla-express · Recao de Binéfar
+inv-1365 · olla-express · Potaje de hinojos con garbanzos y costilla
+inv-1366 · olla-express · Patatas revolconas con torreznos
+inv-1367 · olla-express · Botillo del Bierzo con cachelos y repollo
+inv-1368 · olla-express · Aleta de ternera rellena en salsa
+inv-1369 · olla-express · Carne ó caldeiro con cachelos
+inv-1370 · olla-express · Lomo de cerdo a la leche
+inv-1371 · olla-express · Conejo con tomate
+inv-1372 · olla-express · Conejo en salmorejo canario con papas arrugadas
+inv-1373 · olla-express · Perdiz estofada a la toledana
+inv-1374 · olla-express · Jabalí estofado al vino tinto
+inv-1375 · olla-express · Pato con peras a la catalana
+inv-1376 · olla-express · Escaldums mallorquines de pollo con patatas fritas
+inv-1377 · olla-express · Arròs brut mallorquín
+inv-1378 · olla-express · All i pebre de rape con patatas
+inv-1379 · olla-express · Urta a la roteña con dorada
+inv-1380 · olla-express · Sancocho canario de corvina con papas, batata y mojo
+inv-1381 · olla-express · Albóndigas con sepia a la catalana
+inv-1382 · olla-express · Alcachofas con almejas y patatas
+inv-1383 · olla-express · Borraja con patatas y jamón
+inv-1384 · olla-express · Patatas viudas con huevo escalfado
+inv-1385 · olla-express · Puerros a la vinagreta con huevo y patata
+inv-1386 · olla-express · Patatas en ajopollo almeriense
+inv-1387 · olla-express · Repollo guisado con patatas y chorizo
+inv-1388 · olla-express · Chorizo a la sidra con patatas cachelo
+inv-1389 · olla-express · Cebollas rellenas de carne en salsa
+inv-1390 · olla-express · Garbanzos con manitas de cerdo
+inv-1391 · olla-express · Ensaladilla rusa de la abuela
+inv-1392 · olla-express · Patatas aliñás gaditanas con atún y huevo
+inv-1393 · olla-express · Patatas guisadas con níscalos
+inv-1394 · olla-express · Albondigón de la abuela en salsa con puré de patata
+inv-1395 · olla-express · Codornices en escabeche con ensalada
+inv-1396 · olla-express · Alubias con chipirones a la cántabra
+inv-1397 · olla-express · Locro argentino de maíz, porotos y zapallo
+inv-1398 · olla-express · Ajiaco colombiano de pollo y tres papas
+inv-1399 · olla-express · Cazuela chilena de vacuno
+inv-1400 · olla-express · Caldo de res mexicano con verduras
+inv-1401 · olla-express · Vaca atolada brasileña
+inv-1402 · olla-express · Nikujaga japonés de ternera y patata
+inv-1403 · olla-express · Dakdoritang coreano de pollo y patata
+inv-1404 · olla-express · Galbijjim: costillas de ternera estofadas a la coreana
+inv-1405 · olla-express · Nihari de ternera con pan naan
+inv-1406 · olla-express · Sambar del sur de la India con verduras
+inv-1407 · olla-express · Waterzooi de pollo a la manera de Gante
+inv-1408 · olla-express · Sarma: rollitos de repollo rellenos de carne y arroz
+inv-1409 · olla-express · Hutspot holandés con falda de ternera
+inv-1410 · olla-express · Brunswick stew: guiso sureño de pollo, maíz y habas
+inv-1411 · carnes · Irish stew: guiso irlandés de cordero con patata y zanahoria
+inv-1412 · carnes · Köttbullar: albóndigas suecas en salsa de nata con puré de patata
+inv-1413 · carnes · Paprikás csirke: pollo húngaro al pimentón con nokedli caseros
+inv-1414 · carnes · Bigos: guiso polaco del cazador con chucrut, col y tres carnes
+inv-1415 · carnes · Rouladen: rollitos alemanes de ternera con bacon y pepinillo
+inv-1416 · carnes · Bangers and mash: salchichas con puré y gravy de cebolla
+inv-1417 · carnes · Blanquette de ternera a la francesa con arroz blanco
+inv-1418 · carnes · Pot-au-feu: cocido francés de ternera con verduras y mostaza
+inv-1419 · carnes · Zürcher Geschnetzeltes: ternera a la crema de Zúrich con tagliatelle
+inv-1420 · carnes · Carne de porco à alentejana: cerdo con almejas y patatas fritas
+inv-1421 · carnes · Gyros casero de cerdo en pita con tzatziki y patatas
+inv-1422 · carnes · Quiche lorraine con bacon y gruyère y ensalada verde
+inv-1423 · carnes · Toad in the hole: salchichas en Yorkshire pudding con gravy
+inv-1424 · carnes · Frango piri-piri: pollo portugués al horno con patatas y ensalada
+inv-1425 · pescado · Caldeirada de peixe: guiso portugués de pescado en capas
+inv-1426 · pescado · Bacalhau com natas: bacalao gratinado con nata y patata
+inv-1427 · pescado · Laxpudding: pastel sueco de salmón ahumado y patata
+inv-1428 · pescado · Merluza all'acqua pazza con patatas nuevas
+inv-1429 · pescado · Cod in parsley sauce: bacalao en salsa de perejil con puré y guisantes
+inv-1430 · pescado · Baccalà alla vicentina: bacalao guisado en leche con polenta
+inv-1431 · pescado · Bakaliaros skordalia: bacalao rebozado griego con puré de ajo
+inv-1432 · legumbres · Fave e cicoria: puré de habas secas con verdura amarga al ajo
+inv-1433 · legumbres · Fakes: sopa griega de lentejas con tomate, laurel y vinagre
+inv-1434 · legumbres · Beans on toast caseras: alubias en salsa de tomate sobre pan con huevo
+inv-1435 · legumbres · Fasolka po bretońsku: alubias polacas guisadas con salchicha y bacon
+inv-1436 · vegetariano · Rösti suizo con huevo frito y ensalada de pepino
+inv-1437 · vegetariano · Pierogi ruskie: empanadillas polacas de patata y requesón
+inv-1438 · vegetariano · Lecsó húngaro de pimientos y tomate con huevos
+inv-1439 · vegetariano · Kolokithokeftedes: buñuelos griegos de calabacín y feta con tzatziki
+inv-1440 · vegetariano · Welsh rarebit: tostada galesa de cheddar a la cerveza con ensalada
+inv-1441 · vegetariano · Colcannon irlandés con huevo escalfado y mantequilla
+inv-1442 · pasta-arroces · Spaghetti all'amatriciana con panceta, tomate y pecorino
+inv-1443 · pasta-arroces · Penne all'arrabbiata con ajo, guindilla y perejil
+inv-1444 · pasta-arroces · Pasta alla norcina con salchicha, champiñones y nata
+inv-1445 · pasta-arroces · Pasta e patate a la napolitana con queso fundido
+inv-1446 · pasta-arroces · Arroz de pato: arroz portugués de pato al horno con chorizo
+inv-1447 · pasta-arroces · Kedgeree británico de pescado, arroz al curry y huevo duro
+inv-1448 · pasta-arroces · Polenta concia: polenta cremosa con queso fundido y mantequilla a la salvia
+inv-1449 · pasta-arroces · Makaronia me kima: macarrones griegos con carne picada a la canela
+inv-1450 · sopas-cremas · Caldo verde portugués con kale y chorizo
+inv-1451 · sopas-cremas · Fiskesuppe: sopa cremosa noruega de salmón y bacalao
+inv-1452 · sopas-cremas · Cock-a-leekie: sopa escocesa de pollo y puerro con ciruelas
+inv-1453 · sopas-cremas · Barszcz czerwony: sopa polaca de remolacha con patatas al eneldo
+inv-1454 · sopas-cremas · Garbure: potaje gascón de col, alubias y confit de pato
+inv-1455 · sopas-cremas · Scotch broth: sopa escocesa de cordero con cebada y verduras
+inv-1456 · sopas-cremas · Kartoffelsuppe: sopa alemana de patata con salchichas
+inv-1457 · sopas-cremas · Zuppa pavese: caldo con huevo escalfado sobre pan tostado y parmesano
+inv-1458 · ensaladas · Salade lyonnaise de escarola con bacon, picatostes y huevo escalfado
+inv-1459 · ensaladas · Dakos cretense: pan tostado con tomate rallado, feta y aceitunas
+inv-1460 · ensaladas · Coronation chicken: ensalada británica de pollo al curry con arroz
+inv-1461 · carnes · Ají de gallina peruano
+inv-1462 · carnes · Lomo saltado peruano
+inv-1463 · carnes · Empanadas argentinas de carne al horno
+inv-1464 · carnes · Pabellón criollo venezolano
+inv-1465 · sopas-cremas · Ajiaco santafereño
+inv-1466 · ensaladas · Causa limeña de atún
+inv-1467 · legumbres · Locro argentino
+inv-1468 · carnes · Carbonada criolla argentina
+inv-1469 · carnes · Seco de cordero peruano
+inv-1470 · vegetariano · Papa a la huancaína
+inv-1471 · legumbres · Frijoles con puerco a la yucateca con arroz y rábano
+inv-1472 · sopas-cremas · Sopa de lima yucateca
+inv-1473 · vegetariano · Calabacitas a la mexicana con queso fresco
+inv-1474 · pasta-arroces · Arroz a la mexicana con huevo frito y aguacate
+inv-1475 · sopas-cremas · Caldo de res mexicano
+inv-1476 · legumbres · Moros y cristianos cubanos con huevo frito y plátano maduro
+inv-1477 · pescado · Sudado de pescado peruano
+inv-1478 · pasta-arroces · Cuscús de cordero con siete verduras
+inv-1479 · legumbres · Loubia marroquí de alubias blancas
+inv-1480 · carnes · Fesenjan persa de pollo con nueces y granada
+inv-1481 · vegetariano · Mirza ghasemi persa
+inv-1482 · legumbres · Kuru fasulye turco con pilav de arroz
+inv-1483 · vegetariano · Çılbır: huevos turcos sobre yogur al ajo
+inv-1484 · pescado · Sabzi polo ba mahi
+inv-1485 · carnes · Kibbeh bil sanieh libanés
+inv-1486 · vegano · Aloo gobi
+inv-1487 · carnes · Curry de pollo casero al estilo del norte de la India
+inv-1488 · vegano · Baingan bharta
+inv-1489 · vegetariano · Matar paneer
+inv-1490 · vegetariano · Anda curry: curry de huevos duros
+inv-1491 · legumbres · Sambar del sur de la India con arroz
+inv-1492 · vegetariano · Pav bhaji de Bombay
+inv-1493 · carnes · Mapo tofu de Sichuan con arroz jazmín
+inv-1494 · pasta-arroces · Oyakodon japonés
+inv-1495 · carnes · Nikujaga a fuego lento en cazuela: ternera, patata y cebolla en caldo dulce
+inv-1496 · pasta-arroces · Japchae coreano
+inv-1497 · sopas-cremas · Sinigang na baboy filipino
+inv-1498 · legumbres · Ginisang monggo con gambas y espinacas
+inv-1499 · pasta-arroces · Pancit canton filipino
+inv-1500 · vegetariano · Huevos revueltos con tomate al estilo chino
+inv-1501 · sopas-cremas · Sundubu jjigae de marisco
+inv-1502 · legumbres · Bandeja paisa sencilla
+inv-1503 · pasta-arroces · Dan dan noodles de Sichuan
+inv-1504 · carnes · Pollo kung pao con arroz jazmín
+inv-1505 · carnes · Pollo frito al horno estilo sureño con ensalada de col
+inv-1506 · legumbres · Boston baked beans con pan tostado
+inv-1507 · carnes · Pot roast americano de ternera con patatas y zanahorias
+inv-1508 · carnes · Sloppy joes caseros con mazorca a la mantequilla
+inv-1509 · sopas-cremas · Clam chowder de Nueva Inglaterra
+inv-1510 · pescado · Shrimp and grits: gambas con polenta cremosa al estilo sureño
 car-01 · carnes · Dados de pollo sobre cremoso de queso griego
 car-02 · carnes · Ssam de cerdo con almendras
 car-03 · carnes · Ssam de pollo en marinado oriental

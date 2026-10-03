@@ -146,8 +146,16 @@
           h("div.campo", h("span.campo-etiqueta", "No repetir recetas de menús anteriores"), h("select.input", { "aria-label": "No repetir recetas recientes", onChange: (e) => { st.cfg.evitarRepetidasSemanas = Number(e.target.value); guardarBorrador(); refrescar(); } }, Planificador.SEMANAS_SIN_REPETIR.map(([v, txt]) => h("option", { value: v, selected: st.cfg.evitarRepetidasSemanas === v }, v ? `Que no hayan salido en ${txt}` : txt))), h("span.campo-ayuda", st.cfg.evitarRepetidasSemanas ? `${recientes.size} ${UI.plural(recientes.size, "receta usada", "recetas usadas")} en tus menús de ese periodo quedarán fuera.` : "Mira tus menús guardados para no repetir lo que ya comiste.")),
           h("div.campo", h("span.campo-etiqueta", "Repetir dentro de la semana (sobras)"), UI.segmentado({ opciones: [{ id: "no", nombre: "No repetir" }, { id: "si", nombre: "Permitir" }], valor: st.cfg.permitirRepetir ? "si" : "no", ariaLabel: "Repetir recetas en la semana", alCambiar: (v) => { st.cfg.permitirRepetir = v === "si"; guardarBorrador(); } }), h("span.campo-ayuda", "Útil si cocinas de más para otro día."))
         )),
-      h("section.bloque", h("h3", "🍳 Equipo"),
-        h("div.campo", h("span.campo-etiqueta", "¿Tienes olla exprés?"), UI.segmentado({ opciones: [{ id: "si", nombre: "Sí", icono: "💣" }, { id: "no", nombre: "No" }], valor: st.cfg.tieneOllaExpress ? "si" : "no", ariaLabel: "Olla exprés", alCambiar: (v) => { st.cfg.tieneOllaExpress = v === "si"; guardarBorrador(); } }), h("span.campo-ayuda", "Si no tienes, dejamos fuera las recetas que la necesitan."))),
+      h("section.bloque", h("h3", "🍳 Equipo y forma de cocinar"),
+        h("div.campo", h("span.campo-etiqueta", "Aparatos que tienes"),
+          chipsCheck({ opciones: Planificador.APARATOS, seleccion: st.cfg.equipo, aria: "Aparatos que tienes", alCambiar: (id, on) => { st.cfg.equipo = st.cfg.equipo.filter((x) => x !== id); if (on) st.cfg.equipo.push(id); st.cfg.tieneOllaExpress = st.cfg.equipo.includes("olla-express"); guardarBorrador(); refrescar(); } }),
+          h("span.campo-ayuda", "Fuegos y sartenes se dan por supuestos. Las recetas que necesiten un aparato que no tienes quedan fuera.")),
+        h("div.campo", h("span.campo-etiqueta", "Formas de cocinar que prefieres ", h("span.muted", "(opcional)")),
+          chipsCheck({ opciones: Recetas.COCCIONES.map((c) => ({ ...c, nombre: c.nombre })), seleccion: st.cfg.coccionesPreferidas, aria: "Formas de cocinar preferidas", deshabilitadas: Recetas.COCCIONES.filter((c) => ["airfryer", "microondas", "slow-cooker", "olla-express"].includes(c.id) && !st.cfg.equipo.includes(c.id)).map((c) => c.id), alCambiar: (id, on) => { st.cfg.coccionesPreferidas = st.cfg.coccionesPreferidas.filter((x) => x !== id); if (on) st.cfg.coccionesPreferidas.push(id); guardarBorrador(); refrescar(); } }),
+          h("span.campo-ayuda", "Saldrán con más frecuencia, sin excluir las demás.")),
+        h("div.campo", h("span.campo-etiqueta", "🥡 Platos para tupper"),
+          h("select.input", { "aria-label": "Platos para tupper", onChange: (e) => { st.cfg.tupper = e.target.value; guardarBorrador(); } }, Planificador.TUPPER.map((t) => h("option", { value: t.id, selected: st.cfg.tupper === t.id }, t.nombre))),
+          h("span.campo-ayuda", "En esos huecos solo saldrán platos que aguantan bien en la nevera y se recalientan sin perder: guisos, legumbres, arroces, pastas, bowls…"))),
       nSlots ? null : h("div.aviso.aviso-info", "No has marcado ningún día en el paso 2.")
     );
   };

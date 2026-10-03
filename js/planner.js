@@ -36,6 +36,26 @@
     { id: "indiferente", nombre: "Da igual" },
   ];
 
+  const APARATOS = [
+    { id: "horno", nombre: "Horno", icono: "🔥" },
+    { id: "microondas", nombre: "Microondas", icono: "📻" },
+    { id: "olla-express", nombre: "Olla exprés", icono: "💣" },
+    { id: "airfryer", nombre: "Airfryer", icono: "🌀" },
+    { id: "slow-cooker", nombre: "Slow cooker", icono: "🐢" },
+  ];
+  const TUPPER = [
+    { id: "no", nombre: "No hace falta" },
+    { id: "comidas-laborables", nombre: "Comidas entre semana", desc: "Las comidas de lunes a viernes, para llevar al trabajo" },
+    { id: "comidas", nombre: "Todas las comidas" },
+    { id: "todo", nombre: "Comidas y cenas" },
+  ];
+  const necesitaTupper = (cfg, momento, diaId) => {
+    const t = cfg.tupper;
+    if (t === "todo") return true;
+    if (momento !== "comida") return false;
+    if (t === "comidas") return true;
+    return t === "comidas-laborables" && !!(dia(diaId) && dia(diaId).laborable);
+  };
   const TIEMPOS = [[0, "Sin límite"], [20, "Hasta 20 min"], [30, "Hasta 30 min"], [45, "Hasta 45 min"], [60, "Hasta 1 h"], [90, "Hasta 1 h 30"], [120, "Hasta 2 h"]];
   const SEMANAS_SIN_REPETIR = [[0, "No importa"], [1, "1 semana"], [2, "2 semanas"], [4, "1 mes"], [8, "2 meses"], [13, "3 meses"]];
 
@@ -51,6 +71,9 @@
     vetos: [],             // textos libres o ids de grupo
     obligatorias: [],      // { recetaId, dia?, momento? }
     tieneOllaExpress: true,
+    equipo: ["horno", "microondas", "olla-express"],   // aparatos que tienes (los fogones se dan por supuestos)
+    coccionesPreferidas: [],                          // formas de cocinar que prefieres (más probables)
+    tupper: "no",                                     // no | comidas-laborables | comidas | todo
     tiempo: { laborables: 0, finde: 0, estricto: true },   // minutos; 0 = sin límite
     contundencia: { comida: "auto", cena: "auto" },
     presupuesto: "indiferente",
@@ -73,6 +96,10 @@
     c.cocinasPreferidas = (c.cocinasPreferidas || []).filter((x) => !c.cocinasEvitar.includes(x));
     c.presupuesto = PRESUPUESTOS.some((p) => p.id === c.presupuesto) ? c.presupuesto : "indiferente";
     c.evitarRepetidasSemanas = Number(c.evitarRepetidasSemanas) || 0;
+    if (!Array.isArray(cfg.equipo)) c.equipo = cfg.tieneOllaExpress === false ? ["horno", "microondas"] : ["horno", "microondas", "olla-express"];
+    c.tieneOllaExpress = c.equipo.includes("olla-express");
+    c.coccionesPreferidas = Array.isArray(c.coccionesPreferidas) ? c.coccionesPreferidas : [];
+    c.tupper = TUPPER.some((t) => t.id === c.tupper) ? c.tupper : "no";
     c.ingredientesObligatorios = (c.ingredientesObligatorios || []).filter((x) => x && x.nombre).map((x) => ({ nombre: String(x.nombre).trim().toLowerCase(), enCasa: x.enCasa !== false }));
     delete c.tiempoMaxLaborables; delete c.cenasLigeras;
     return c;
@@ -96,7 +123,8 @@
     if (r.enListaNegra) return false;
     if (cfg.dietas.some((d) => !r.dieta.includes(d))) return false;
     if (Recetas.conflictosVeto(r, cfg.vetos).some((c) => !c.opcional)) return false;
-    if (!cfg.tieneOllaExpress && r.equipo.includes("olla-express")) return false;
+    for (const ap of APARATOS) if (r.equipo.includes(ap.id) && !cfg.equipo.includes(ap.id)) return false;
+    if (necesitaTupper(cfg, momento, diaId) && !r.tupper) return false;
     const freq = FRECUENCIAS.find((f) => f.id === (cfg.frecuencias[r.categoria] || "normal"));
     if (freq && freq.peso === 0) return false;
     if (cfg.cocinasEvitar.length && r.cocina && cfg.cocinasEvitar.includes(r.cocina)) return false;
@@ -204,7 +232,7 @@
       let p = f ? f.peso : 1;
       if (c.id === "vegetariano" || c.id === "vegano") p *= 1 + prefs.masVerdura * 0.8;
       if (c.id === "ensaladas") p *= 1 + prefs.masVerdura * 0.4;
-      if (c.id === "olla-express" && !cfg.tieneOllaExpress) p = 0;
+      if (c.id === "olla-express" && !cfg.equipo.includes("olla-express")) p = 0;
       if (!todas.some((r) => r.categoria === c.id)) p = 0;
       pesos[c.id] = p; sumaPesos += p;
     }
@@ -272,6 +300,8 @@
         // favoritas y cocinas preferidas
         if (r.favorita) p += 1.6;
         if (r.cocina && cfg.cocinasPreferidas.includes(r.cocina)) p += 1.2;
+        if (cfg.coccionesPreferidas.length && r.coccion.some((c) => cfg.coccionesPreferidas.includes(c))) p += 0.5;
+        if (prefs.fodmap && r.dieta.includes("bajo-fodmap")) p += prefs.fodmap * 1.2;
         // objetivos nutricionales
         if (prefs.masProteina) p += prefs.masProteina * ((r.nutricion.prot || 20) >= 30 ? 1.5 : (r.nutricion.prot || 20) < 18 ? -1.5 : 0);
         if (prefs.menosPicante && r.grupos.includes("picante")) p -= prefs.menosPicante * 1.5;
@@ -335,5 +365,5 @@
     return JSON.stringify(resto);
   };
 
-  window.Planificador = { DIAS, dia, FRECUENCIAS, PRESUPUESTOS, CONTUNDENCIA_OPCIONES, TIEMPOS, SEMANAS_SIN_REPETIR, configPorDefecto, normalizarConfig, generar, regenerarSlot, alternativas, elegible, resumenNutricional, racionesTotales, huella, contundenciaDeseada };
+  window.Planificador = { DIAS, dia, FRECUENCIAS, PRESUPUESTOS, APARATOS, TUPPER, necesitaTupper, CONTUNDENCIA_OPCIONES, TIEMPOS, SEMANAS_SIN_REPETIR, configPorDefecto, normalizarConfig, generar, regenerarSlot, alternativas, elegible, resumenNutricional, racionesTotales, huella, contundenciaDeseada };
 })();

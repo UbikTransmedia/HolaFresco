@@ -26,7 +26,8 @@ window.RECETAS_SEED.push({
                                 // huevo | queso | tofu | seitan | heura | verdura | mixto
   tiempo: 35,                   // minutos totales (preparación + cocción), entero
   dificultad: "fácil",          // fácil | media | elaborada
-  equipo: ["horno"],            // horno | olla-express | sartén | cazuela | batidora | wok | plancha | bol
+  equipo: ["horno"],            // horno | olla-express | sartén | cazuela | batidora | wok | plancha | bol |
+                                // airfryer | microondas | slow-cooker
   raciones: 2,                  // SIEMPRE 2: las cantidades son para 2 raciones adultas estándar
   ingredientes: [
     { n: "salmón fresco (lomos)", q: 300, u: "g" },
@@ -167,3 +168,18 @@ Si necesitas otro ingrediente, nómbralo igual de claro (minúsculas, singular, 
 - `etiquetas` útiles para filtrar: "rápida" (≤25 min), "de cuchara", "al horno", "batch cooking",
   "sin cocción", "picante", "para niños", "económica", "ligera", "alta en proteína", "una sola sartén",
   "ideal para llevar", "verano", "invierno".
+
+## Campos de cocción y tupper (opcionales; si faltan se deducen)
+
+- `coccion`: lista de formas de cocinar, de entre `sin-fuego`, `una-olla` (todo en una olla, cazuela o sartén),
+  `todo-al-horno`, `airfryer`, `microondas`, `slow-cooker`, `olla-express`. Si no se indica, la app la deduce del
+  `equipo` y de las etiquetas. Las recetas de airfryer, microondas y slow cooker deben llevar ese aparato en `equipo`.
+- `tupper`: `true` si el plato aguanta bien 2–3 días en la nevera y se recalienta (o se come frío) sin perder;
+  `false` si debe comerse al momento (crujientes, crudos de pescado, huevos poco hechos…).
+
+## Dietas detectadas por ingredientes
+
+Vegetariana, vegana, sin gluten, sin lácteos, sin frutos secos y **bajo en FODMAP** (sin ajo, cebolla, puerro, trigo,
+legumbres, lactosa, miel, setas, coliflor, manzana… ). Usa variantes aptas con su nombre explícito: «aceite de ajo»,
+«leche sin lactosa», «yogur sin lactosa», «cebollino fresco» o «cebolleta (parte verde)», «pan sin gluten»,
+«pasta sin gluten», «tamari», «harina de arroz», «fideos de arroz».
