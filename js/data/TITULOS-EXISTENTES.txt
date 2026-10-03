@@ -1498,6 +1498,306 @@ inv-1507 · carnes · Pot roast americano de ternera con patatas y zanahorias
 inv-1508 · carnes · Sloppy joes caseros con mazorca a la mantequilla
 inv-1509 · sopas-cremas · Clam chowder de Nueva Inglaterra
 inv-1510 · pescado · Shrimp and grits: gambas con polenta cremosa al estilo sureño
+inv-1511 · carnes · Pollo crujiente rebozado en harina de maíz y pimentón con patatas gajo en airfryer
+inv-1512 · carnes · Nuggets caseros de pollo con costra de almendra en airfryer
+inv-1513 · carnes · Alitas de pollo al limón y pimienta negra en airfryer con maíz asado y ensalada de col
+inv-1514 · pescado · Merluza empanada sin gluten en airfryer con ensalada de tomate y alioli de limón
+inv-1515 · pescado · Salmón glaseado con tamari y miel en airfryer con arroz jazmín y brócoli
+inv-1516 · pescado · Croquetas de patata y bacalao en airfryer sin bechamel con ensalada verde
+inv-1517 · legumbres · Falafel de garbanzos y harina de garbanzo en airfryer con ensalada de pepino y salsa de tahini
+inv-1518 · vegano · Tofu crujiente en airfryer con salsa agridulce de piña y arroz basmati
+inv-1519 · vegetariano · Coliflor asada al curry en airfryer con garbanzos y yogur al cilantro
+inv-1520 · carnes · Albóndigas de ternera y calabacín en airfryer con salsa de tomate y quinoa
+inv-1521 · vegetariano · Huevos en cocotte en airfryer con espinacas, champiñones y queso de cabra
+inv-1522 · carnes · Huevos rotos en airfryer con patatas, pimientos de Padrón y jamón serrano
+inv-1523 · vegetariano · Verduras asadas con halloumi en airfryer y vinagreta de limón y menta
+inv-1524 · carnes · Fajitas de pollo en airfryer con tortillas de maíz, guacamole y pico de gallo
+inv-1525 · pescado · Langostinos rebozados en coco y harina de arroz en airfryer con salsa de mango y lima
+inv-1526 · vegano · Boniatos asados en airfryer rellenos de alubias negras, maíz y aguacate
+inv-1527 · vegetariano · Calabacín y berenjena rebozados en harina de garbanzo en airfryer con salsa de yogur y menta
+inv-1528 · pescado · Lubina en airfryer con hinojo, limón y patatas panaderas
+inv-1529 · carnes · Brochetas de pollo yakitori en airfryer con tamari y arroz al cebollino
+inv-1530 · ensaladas · Ensalada templada de lentejas con calabaza asada en airfryer, feta y vinagreta de mostaza
+inv-1531 · vegano · Tacos de coliflor al chipotle en airfryer con col morada y crema de aguacate
+inv-1532 · carnes · Chuletillas de cordero en airfryer con patatas al romero y ensalada de tomate
+inv-1533 · pescado · Bacalao fresco con costra de almendra y perejil en airfryer con judías verdes
+inv-1534 · vegano · Rollitos vietnamitas de papel de arroz crujientes en airfryer con salsa de cacahuete
+inv-1535 · carnes · Pimientos rellenos de arroz, carne picada y tomate en airfryer
+inv-1536 · pasta-arroces · Arancini de risotto de azafrán con corazón de mozzarella en airfryer
+inv-1537 · sopas-cremas · Crema de calabaza y zanahoria asadas en airfryer con jengibre y semillas tostadas
+inv-1538 · sopas-cremas · Sopa de tomate asado en airfryer con picatostes de pan sin gluten
+inv-1539 · pescado · Brochetas de rape y langostinos en airfryer con verduras y salsa romesco sin pan
+inv-1540 · pescado · Caballa con costra de mostaza antigua en airfryer con patatas pequeñas y pepino al eneldo
+inv-1541 · carnes · Pollo tandoori en airfryer con arroz basmati y raita de pepino
+inv-1542 · vegano · Pakoras de verduras con harina de garbanzo en airfryer y chutney de cilantro y lima
+inv-1543 · vegano · Tempeh crujiente al pimentón en airfryer con boniato asado y kale salteada
+inv-1544 · legumbres · Hamburguesas de lentejas y quinoa en airfryer con ensalada y salsa de yogur al comino
+inv-1545 · ensaladas · Ensalada de quinoa con langostinos al ajo en airfryer, aguacate y mango
+inv-1546 · ensaladas · Ensalada César de pollo en airfryer con picatostes de pan sin gluten
+inv-1547 · vegetariano · Setas portobello rellenas de quinoa, espinacas y queso de cabra en airfryer
+inv-1548 · carnes · Huevos escoceses en airfryer con ensalada de patata y mostaza
+inv-1549 · carnes · Solomillo de cerdo en airfryer con manzana asada, boniato y salsa de mostaza
+inv-1550 · pescado · Calamares a la romana sin gluten en airfryer con ensalada de tomate y alioli
+inv-1551 · carnes · Arepas de harina de maíz en airfryer rellenas de reina pepiada
+inv-1552 · vegano · Brócoli y garbanzos asados al limón en airfryer con arroz integral y salsa de tahini
+inv-1553 · vegetariano · Berenjenas a la parmesana en airfryer sin rebozar con mozzarella y albahaca
+inv-1554 · pasta-arroces · Dados de polenta crujiente en airfryer con ragú de setas y parmesano
+inv-1555 · pasta-arroces · Tofu al jengibre y tamari en airfryer con fideos de arroz salteados y verduras
+inv-1556 · pescado · Patatas asadas en airfryer rellenas de atún, maíz y yogur al cebollino
+inv-1557 · pescado · Merluza en papillote en airfryer con calabacín, zanahoria y aceite de ajo
+inv-1558 · carnes · Magret de pato en airfryer con boniato asado y salsa de naranja
+inv-1559 · pescado · Langostinos en tempura de harina de arroz en airfryer con arroz jazmín y salsa de chile dulce
+inv-1560 · ensaladas · Ensalada templada de salmón en airfryer con espárragos, patatas y salsa de eneldo
+inv-1561 · pescado · Lubina al vapor de microondas con jengibre, cebolleta y tamari
+inv-1562 · pescado · Patatas asadas al microondas rellenas de atún, maíz y yogur a la lima
+inv-1563 · pasta-arroces · Risotto de microondas con espinacas, queso azul y nueces
+inv-1564 · vegetariano · Huevos en cocotte al microondas con espinacas, champiñones y queso de cabra
+inv-1565 · pescado · Salmón en papillote de microondas con espárragos, patatas y yogur al eneldo
+inv-1566 · carnes · Pollo al curry de coco de microondas con arroz basmati
+inv-1567 · vegetariano · Çılbır de microondas: huevos turcos sobre yogur al ajo con mantequilla de pimentón
+inv-1568 · pescado · Merluza al microondas a la donostiarra con refrito de ajo, guindilla y calabacín
+inv-1569 · vegetariano · Pastel salado en taza de harina de garbanzo, calabacín y feta
+inv-1570 · vegetariano · Boniato relleno al microondas de alubias negras, maíz, aguacate y cheddar
+inv-1571 · carnes · Menestra exprés al microondas con jamón serrano y huevo poché
+inv-1572 · pescado · Langostinos al ajillo de microondas con patatas a lo pobre exprés
+inv-1573 · carnes · Pollo al vapor de microondas con fideos de arroz, verduras crujientes y salsa de cacahuete
+inv-1574 · carnes · Albóndigas de pavo al microondas en salsa de tomate y albahaca con quinoa
+inv-1575 · carnes · Berenjena de microondas rellena de ternera al ras el hanout con yogur y piñones
+inv-1576 · legumbres · Garbanzos con calabaza, acelgas y pimentón al microondas con picada de almendra
+inv-1577 · vegano · Tofu y berenjena al microondas con jengibre y tamari sobre arroz jazmín
+inv-1578 · pescado · Bacalao fresco al microondas con tomate y pimientos sobre patatas
+inv-1579 · carnes · Keema matar de ternera al microondas con arroz basmati
+inv-1580 · carnes · Tacos de tinga de pollo al microondas con tortillas de maíz
+inv-1581 · vegetariano · Pimientos rojos rellenos de quinoa, maíz y feta al microondas
+inv-1582 · sopas-cremas · Crema de calabaza y lentejas rojas al microondas con coco y jengibre
+inv-1583 · pescado · Salmón al curry verde de microondas con arroz jazmín y judías verdes
+inv-1584 · vegetariano · Tortilla de patata de microondas con pimiento y cebolla
+inv-1585 · carnes · Pollo al limón con patatas y judías verdes en una sola fuente de microondas
+inv-1586 · legumbres · Ensalada de garbanzos con bonito, piquillos, aceitunas y almendras
+inv-1587 · pescado · Ceviche de corvina con mango, aguacate y maíz con totopos
+inv-1588 · pescado · Tartar de salmón con aguacate, pepino, tamari y sésamo sobre tortitas de arroz
+inv-1589 · pescado · Rollitos de papel de arroz con gambas cocidas, mango y menta
+inv-1590 · sopas-cremas · Gazpacho de remolacha y frutos rojos con queso de cabra y pistachos
+inv-1591 · ensaladas · Poke de salmón ahumado con quinoa, aguacate, mango, pepino y wakame
+inv-1592 · legumbres · Ensalada de lentejas con caballa, manzana, apio y vinagreta de mostaza
+inv-1593 · vegetariano · Tabulé de coliflor cruda con garbanzos, granada, menta y feta
+inv-1594 · vegano · Bol de hummus casero con garbanzos al comino, crudités y pan sin gluten
+inv-1595 · ensaladas · Carpaccio de calabacín con jamón ibérico, rúcula, parmesano y piñones
+inv-1596 · ensaladas · Ensalada de cogollos con ventresca de bonito, tomate y pimientos asados
+inv-1597 · vegano · Ensalada tailandesa de col y tofu con aliño de cacahuete y lima
+inv-1598 · sopas-cremas · Gazpacho de pepino y yogur con salmón ahumado y eneldo
+inv-1599 · pescado · Tostadas de maíz con atún, aguacate, pico de gallo y mayonesa de chipotle
+inv-1600 · pescado · Pan bagnat sin gluten de atún, anchoas, tomate y aceitunas
+inv-1601 · ensaladas · Ensalada de melón, jamón serrano, mozzarella y menta con pistachos
+inv-1602 · pescado · Esgarraet valenciano de pimiento asado y bacalao con pan sin gluten
+inv-1603 · vegetariano · Bol de yogur salado con garbanzos al za'atar, pepino, tomate y nueces
+inv-1604 · carnes · Ensalada de pollo asado, aguacate, maíz y tomate con aliño ranchero de yogur
+inv-1605 · legumbres · Ensalada de alubias blancas con sardinas, hinojo, tomate y limón
+inv-1606 · ensaladas · Ensalada de pulpo cocido con naranja, aceitunas negras y aceite de pimentón
+inv-1607 · vegano · Bol vegano de tofu ahumado, quinoa, kale masajeado y aliño de tahini
+inv-1608 · vegetariano · Carpaccio de champiñones con rúcula, parmesano, nueces y limón
+inv-1609 · sopas-cremas · Gazpacho amarillo de tomate, pimiento y melocotón con gambas cocidas
+inv-1610 · carnes · Ensalada de rosbif con judías blancas, rúcula, rábano y crema de mostaza
+inv-1611 · carnes · Pollo pibil en olla lenta con tortillas de maíz y cebolla morada encurtida
+inv-1612 · vegano · Potaje de alubias blancas, acelgas y patata a fuego lento
+inv-1613 · carnes · Pollo saag con espinacas y garam masala en olla lenta con arroz basmati
+inv-1614 · carnes · Estofado de cerdo con ciruelas pasas y castañas sobre polenta cremosa
+inv-1615 · sopas-cremas · Crema de pimiento rojo, tomate y lentejas rojas al pimentón ahumado
+inv-1616 · carnes · Pollo Marbella en olla lenta con ciruelas, aceitunas y alcaparras
+inv-1617 · carnes · Chili blanco de pollo y alubias blancas con lima y cilantro
+inv-1618 · carnes · Paletilla de cordero especiada con garbanzos y dátiles a fuego lento
+inv-1619 · carnes · Curry massaman de ternera en olla lenta con patata y cacahuetes
+inv-1620 · carnes · Paprikash de pollo con pimientos y patatas en olla lenta
+inv-1621 · sopas-cremas · Sopa dorada de pollo, arroz y cúrcuma con jengibre y limón
+inv-1622 · legumbres · Curry goano de alubias blancas con coco y semillas de mostaza
+inv-1623 · vegano · Ciambotta italiana de berenjena, pimiento y patata con albahaca
+inv-1624 · carnes · Estofado de ternera con zanahoria, chirivía y tomillo
+inv-1625 · legumbres · Garbanzos con costilla adobada, nabo y col a fuego lento
+inv-1626 · carnes · Cerdo kalua al estilo hawaiano con col, piña y arroz
+inv-1627 · carnes · Pollo al jengibre y tamari con zanahorias glaseadas y arroz jazmín
+inv-1628 · sopas-cremas · Crema de boniato, zanahoria y leche de coco con jengibre y lima
+inv-1629 · carnes · Costillas de ternera braseadas al vino tinto con puré de chirivía
+inv-1630 · vegano · Frijoles negros al chipotle y naranja con arroz blanco
+inv-1631 · carnes · Maafe de pavo con crema de cacahuete, boniato y tomate
+inv-1632 · sopas-cremas · Sopa al pistou con quinoa, judías verdes y alubias blancas
+inv-1633 · pescado · Lomos de bacalao sobre samfaina a fuego lento
+inv-1634 · pescado · Cioppino de merluza, mejillones y gambas con pan sin gluten tostado
+inv-1635 · carnes · Carrillada de cerdo a la naranja y pimentón con boniato
+inv-1636 · pasta-arroces · Arroz meloso de conejo y alcachofas al romero
+inv-1637 · pasta-arroces · Pasta sin gluten en una olla con tomate cherry, albahaca y mozzarella
+inv-1638 · pasta-arroces · Dirty rice cajún de pollo, pimientos y apio en una cazuela
+inv-1639 · vegano · Arroz con calabaza, garbanzos y pimentón en cazuela de barro
+inv-1640 · vegano · Korma de tofu, coliflor y guisantes con anacardos
+inv-1641 · vegano · Chili de lentejas pardinas y boniato con cacao y comino
+inv-1642 · sopas-cremas · Sopa de fideos de arroz con albóndigas de cerdo al jengibre y pak choi
+inv-1643 · vegetariano · Guiso de patatas y judías verdes con huevos escalfados al pimentón
+inv-1644 · vegetariano · Risotto de remolacha con queso de cabra, nueces y tomillo
+inv-1645 · vegano · Quinoa con lentejas rojas, calabaza y cúrcuma en una olla
+inv-1646 · pescado · Guiso de bacalao fresco con patatas y pimiento choricero
+inv-1647 · carnes · Contramuslos de pollo con quinoa, piquillos y pimentón ahumado en una sartén
+inv-1648 · carnes · Sudado de pollo colombiano con yuca y patata
+inv-1649 · sopas-cremas · Sopa de maíz con gambas y chipotle
+inv-1650 · pasta-arroces · Arroz campero con costilla de cerdo, alcachofas y judías verdes
+inv-1651 · pasta-arroces · Takikomi gohan de salmón, zanahoria y shiitake
+inv-1652 · pescado · Arroz jazmín al curry verde con langostinos y calabacín en una olla
+inv-1653 · pasta-arroces · Pasta sin gluten en una olla con ragú rápido de pavo y calabacín
+inv-1654 · pescado · Mejillones a la sidra con nata y patatas en una sola olla
+inv-1655 · pasta-arroces · Arroz de ternera y brócoli al tamari en una olla
+inv-1656 · legumbres · Lentejas pardinas guisadas con verduras y arroz integral en una olla
+inv-1657 · pasta-arroces · Kabsa de cordero: arroz especiado con pasas y almendras
+inv-1658 · carnes · Fricasé de pollo con champiñones, nata y tomillo con patatas
+inv-1659 · pasta-arroces · Risotto de gambas, calabacín y azafrán con limón
+inv-1660 · sopas-cremas · Sopa de albóndigas mexicana con hierbabuena y arroz
+inv-1661 · carnes · Contramuslos de pollo al pimentón ahumado con boniato, pimiento rojo y cebolla morada
+inv-1662 · pescado · Merluza en bandeja con patata panadera, piquillos y ajo laminado
+inv-1663 · vegano · Tofu glaseado al tamari, jengibre y sirope de arce con brócoli y boniato
+inv-1664 · legumbres · Bandeja de garbanzos, chorizo y pimientos con huevos horneados
+inv-1665 · vegetariano · Frittata al horno de boniato, espinacas y queso feta
+inv-1666 · carnes · Costillas de cerdo al achiote y naranja con mazorcas de maíz asadas
+inv-1667 · pescado · Salmón con costra de almendra y hierbas sobre espárragos verdes y patatas nuevas
+inv-1668 · pasta-arroces · Arroz al horno con pollo, alcachofas y pimentón sin sofrito previo
+inv-1669 · vegano · Berenjena glaseada al miso con boniato y edamame en bandeja
+inv-1670 · carnes · Albóndigas de pavo al horno con calabacín, tomate cherry y orégano
+inv-1671 · ensaladas · Ensalada niçoise templada al horno con patata, judías verdes, atún y huevo
+inv-1672 · legumbres · Alubias rojas al horno con boniato, maíz y chipotle gratinadas con cheddar
+inv-1673 · pescado · Bacalao fresco al horno sobre pisto de bandeja con almendras tostadas
+inv-1674 · vegetariano · Pimientos rojos rellenos de quinoa, maíz y queso fresco con yogur a la lima
+inv-1675 · carnes · Solomillo de cerdo con manzana, chalotas y salvia en bandeja con patatas
+inv-1676 · pasta-arroces · Gnocchi sin gluten en bandeja con salchicha, brócoli y parmesano
+inv-1677 · vegano · Fajitas de tofu en bandeja con tres pimientos y tortillas de maíz
+inv-1678 · pescado · Langostinos al ajillo en bandeja con patatas, pimiento rojo y perejil
+inv-1679 · carnes · Contramuslos de pollo al garam masala con patata y espinacas al horno
+inv-1680 · vegetariano · Arepas al horno rellenas de queso fresco, aguacate y tomate
+inv-1681 · legumbres · Fatteh de bandeja con garbanzos especiados, berenjena asada y yogur al ajo
+inv-1682 · pescado · Salmón glaseado al tamari y miel con boniato y judías verdes al sésamo
+inv-1683 · carnes · Kofta de ternera al horno con tomates, pimientos verdes y salsa de tahini al limón
+inv-1684 · vegano · Hash al horno de patata, pimientos y tofu ahumado con pimentón y kale
+inv-1685 · ensaladas · Ensalada templada de brócoli y garbanzos asados con aliño de tahini y limón
+inv-1686 · pescado · Dorada en papillote con hinojo, patata, limón y aceitunas verdes
+inv-1687 · carnes · Pollo jerk al horno con plátano macho y pimientos asados
+inv-1688 · vegetariano · Shakshuka verde al horno con espinacas, calabacín, feta y huevos
+inv-1689 · legumbres · Judías blancas al horno con atún, tomate cherry asado, limón y rúcula
+inv-1690 · carnes · Chuletas de cerdo glaseadas a la mostaza antigua con col lombarda, manzana y patata
+inv-1691 · pescado · Rape al horno con patatas, pimientos y azafrán con majada de ajo y perejil
+inv-1692 · vegano · Curry rojo de bandeja con garbanzos, boniato y leche de coco
+inv-1693 · pasta-arroces · Polenta cremosa al horno con setas asadas, espinacas y parmesano
+inv-1694 · carnes · Enchiladas de pollo al horno con tortillas de maíz, salsa de tomate al chipotle y cheddar
+inv-1695 · vegetariano · Tian provenzal de patata, calabacín y tomate con queso de cabra gratinado
+inv-1696 · pescado · Pez espada a la siciliana con tomate cherry, alcaparras y aceitunas sobre patatas
+inv-1697 · carnes · Chuletillas de cordero al ras el hanout con boniato, cebolla morada y yogur a la menta
+inv-1698 · legumbres · Lentejas al horno a la india con tomate, espinacas y paneer tostado
+inv-1699 · vegano · Tempeh satay al horno con pimiento, piña y salsa de cacahuete
+inv-1700 · ensaladas · Ensalada templada de pollo al pimentón con maíz asado, aguacate, tomate y lima
+inv-1701 · pescado · Trucha al horno con almendras sobre patatas y judías verdes al aceite de ajo
+inv-1702 · carnes · Contramuslo de pavo asado con calabaza, salvia y castañas
+inv-1703 · vegetariano · Socca de harina de garbanzo al horno con tomate cherry, cebolla morada y feta
+inv-1704 · pescado · Gambas al horno con mantequilla de ajo, lima y cilantro con mazorcas y calabacín
+inv-1705 · carnes · Secreto ibérico al horno con patatas al romero y pimientos de Padrón
+inv-1706 · vegano · Coles de Bruselas y patatas asadas con lentejas, mostaza antigua y nueces
+inv-1707 · pasta-arroces · Pilaf de arroz basmati al horno con garbanzos, especias enteras y anacardos
+inv-1708 · carnes · Hamburguesas de ternera al horno con patatas gajo, pimiento y cebolla y salsa de mostaza
+inv-1709 · pescado · Atún rojo con costra de sésamo al horno sobre pak choi y boniato al tamari
+inv-1710 · vegetariano · Halloumi al horno con verduras asadas, garbanzos y za'atar con yogur al limón
+inv-1711 · legumbres · Lentejas pardinas a la jardinera con pavo, judías verdes y zanahoria
+inv-1712 · legumbres · Curry de garbanzos y berenjena al tamarindo con arroz basmati
+inv-1713 · legumbres · Judiones guisados con gambas, ñora y azafrán
+inv-1714 · legumbres · Chili de alubias negras y pavo picado con boniato y cacao
+inv-1715 · legumbres · Ensalada de lentejas pardinas con zanahoria asada al comino, feta y aliño de mostaza
+inv-1716 · pescado · Bacalao fresco guisado con tomate, pimientos asados y patata
+inv-1717 · pescado · Curry rojo de merluza y boniato con judías verdes y lima
+inv-1718 · pescado · Salmón al horno con quinoa, brócoli asado y salsa de yogur al eneldo
+inv-1719 · pescado · Albóndigas de merluza y calabacín en salsa de tomate al pimentón con arroz
+inv-1720 · pescado · Patatas guisadas con bonito en conserva, pimiento choricero y tomate
+inv-1721 · carnes · Contramuslos de pollo guisados con pimientos, aceitunas y tomillo en una sola cazuela
+inv-1722 · carnes · Estofado de ternera con pimientos, aceitunas negras y naranja a la provenzal
+inv-1723 · carnes · Albóndigas de pollo con avena sin gluten en salsa de tomate y albahaca con arroz
+inv-1724 · carnes · Pollo al curry de yogur y almendras con arroz basmati
+inv-1725 · carnes · Magra de cerdo con tomate y patatas
+inv-1726 · vegetariano · Lasaña sin gluten de espinacas, ricotta y calabaza asada
+inv-1727 · vegetariano · Tortilla al horno de patata, pimiento rojo y queso manchego en porciones
+inv-1728 · vegetariano · Calabacines rellenos de quinoa, tomate y feta al horno
+inv-1729 · vegano · Curry de lentejas rojas con boniato, kale y leche de coco
+inv-1730 · vegano · Tofu firme estofado con tamari, jengibre, zanahoria y champiñones con arroz integral
+inv-1731 · ensaladas · Ensalada de arroz basmati con atún, maíz, pimiento y huevo duro
+inv-1732 · ensaladas · Ensalada de quinoa con pollo asado al comino, pepino, tomate seco y menta
+inv-1733 · pasta-arroces · Macarrones sin gluten al horno con boloñesa de ternera y mozzarella
+inv-1734 · pasta-arroces · Arroz con pollo y verduras al achiote en una sola olla
+inv-1735 · sopas-cremas · Crema de lentejas rojas, zanahoria y comino con limón a la turca
+inv-1736 · legumbres · Alubias negras guisadas con lomo de cerdo, naranja y arroz al estilo brasileño
+inv-1737 · legumbres · Potaje de alubias pintas con calabaza, acelgas y pimentón
+inv-1738 · legumbres · Garbanzos guisados con alcachofas, guisantes y huevo duro
+inv-1739 · pescado · Merluza y langostinos en salsa de almendras y azafrán con patatas
+inv-1740 · pescado · Salmón al curry verde con judías verdes, calabacín y arroz jazmín
+inv-1741 · pescado · Ensalada de patata con caballa, pepinillos, mostaza y eneldo
+inv-1742 · carnes · Pollo al jengibre y tamari con zanahoria, calabacín y arroz bajo en FODMAP
+inv-1743 · carnes · Carrillada de cerdo a la cerveza sin gluten con mostaza antigua y puré de patata
+inv-1744 · carnes · Cordero guisado al estilo marroquí con ciruelas pasas, almendras y arroz
+inv-1745 · carnes · Solomillo de cerdo en salsa de champiñones y mostaza con quinoa
+inv-1746 · carnes · Cerdo en salsa verde de chile, cilantro y lima con arroz y alubias negras
+inv-1747 · vegetariano · Gratín de patata y brócoli con bechamel de maicena y cheddar
+inv-1748 · vegetariano · Pimientos rojos rellenos de arroz, champiñones y queso de cabra
+inv-1749 · vegetariano · Pastel azteca de tortillas de maíz con calabacín, maíz y queso
+inv-1750 · vegano · Guiso andino de quinoa con calabaza, habas y maíz
+inv-1751 · vegano · Tofu ahumado con pisto y patatas asadas en una sola bandeja
+inv-1752 · vegano · Berenjena y tofu en salsa de cacahuete y lima con quinoa
+inv-1753 · ensaladas · Ensalada de fideos de arroz con gambas, mango y aliño de lima
+inv-1754 · ensaladas · Ensalada de trigo sarraceno con salmón ahumado, pepino, rábano y eneldo
+inv-1755 · pasta-arroces · Pasta sin gluten con pesto de rúcula, pollo y tomate seco
+inv-1756 · pasta-arroces · Arroz frito con jamón cocido, huevo y guisantes al tamari
+inv-1757 · pasta-arroces · Arroz con presa ibérica, alcachofas y pimiento rojo
+inv-1758 · pasta-arroces · Quinoa cremosa con calabaza asada, salvia y parmesano
+inv-1759 · sopas-cremas · Sopa marroquí de pollo y arroz con cúrcuma, garbanzos y cilantro
+inv-1760 · sopas-cremas · Crema de coliflor y patata con queso azul y nueces
+inv-1761 · pescado · Salmón glaseado al tamari y jengibre en airfryer
+inv-1762 · pescado · Merluza en papillote con calabacín, tomate cherry y aceitunas al orégano
+inv-1763 · pescado · Bacalao fresco con patatas panaderas y pimientos, todo al horno
+inv-1764 · pescado · Curry de langostinos y calabaza al estilo de Kerala
+inv-1765 · pescado · Tacos de gambas al pimentón con piña a la plancha
+inv-1766 · carnes · Pollo al limón y orégano con patatas a la griega, todo al horno
+inv-1767 · carnes · Contramuslos de pollo al pimentón ahumado en slow cooker
+inv-1768 · carnes · Cerdo al mojo de naranja y comino en slow cooker
+inv-1769 · carnes · Albóndigas de pavo y parmesano al horno con salsa de tomate y pimiento
+inv-1770 · carnes · Ternera salteada al wok con pimientos, tamari y fideos de arroz
+inv-1771 · vegetariano · Tortilla francesa rellena de espinacas y queso manchego
+inv-1772 · vegetariano · Frittata al horno de pimientos asados, espinacas y parmesano
+inv-1773 · ensaladas · Ensalada de quinoa a la griega con pepino, tomate, aceitunas y feta
+inv-1774 · ensaladas · Ensalada de pollo asado, patata y judías verdes con vinagreta de mostaza y estragón
+inv-1775 · sopas-cremas · Crema de calabacín y patata con queso manchego y aceite de ajo
+inv-1776 · pasta-arroces · Arroz al horno con costilla de cerdo, patata y tomate al pimentón
+inv-1777 · pasta-arroces · Pasta sin gluten en una sola olla con calabacín, limón, parmesano y nueces
+inv-1778 · pasta-arroces · Risotto de calabacín, limón y gambas con parmesano
+inv-1779 · vegano · Tofu crujiente en airfryer con salsa de piquillos y almendra
+inv-1780 · vegano · Curry de berenjena, espinacas y tofu con leche de coco
+inv-1781 · vegetariano · Patatas asadas al microondas rellenas de huevo revuelto, espinacas y cheddar
+inv-1782 · sopas-cremas · Sopa de pollo con arroz, zanahoria y calabacín al limón
+inv-1783 · ensaladas · Ensalada de espinacas y fresas con queso de cabra a la plancha
+inv-1784 · sopas-cremas · Sopa de tomate y pimiento rojo con arroz, albahaca y huevo escalfado
+inv-1785 · pescado · Lubina al horno sobre hinojo, naranja y patatas confitadas
+inv-1786 · pescado · Ceviche de corvina con naranja, pepino y chile
+inv-1787 · pescado · Langostinos a la plancha con tallarines de calabacín al aceite de ajo y guindilla
+inv-1788 · pescado · Bol de arroz y atún al microondas con huevo escalfado y mayonesa de lima
+inv-1789 · pescado · Pez espada en adobo de pimentón y comino a la plancha
+inv-1790 · pescado · Trucha en airfryer con almendras laminadas y judías verdes al limón
+inv-1791 · carnes · Muslos de pollo al garam masala en airfryer con patatas especiadas
+inv-1792 · carnes · Hamburguesa de ternera con cheddar en pan sin gluten y patatas en airfryer
+inv-1793 · carnes · Ternera al vino tinto en slow cooker con calabaza y romero
+inv-1794 · carnes · Solomillo de cerdo con naranja y romero y calabaza asada, todo al horno
+inv-1795 · carnes · Fajitas de pollo con pimientos de colores en tortillas de maíz
+inv-1796 · carnes · Chuletillas de cordero al comino con berenjena asada, tomate y menta
+inv-1797 · vegetariano · Gratinado de patata y calabacín al microondas con mozzarella y albahaca
+inv-1798 · vegetariano · Polenta cremosa al parmesano con espinacas salteadas, tomates asados y huevo frito
+inv-1799 · vegetariano · Bol de quinoa con halloumi en airfryer, berenjena y tomate
+inv-1800 · vegetariano · Tortitas de calabacín y maíz con huevo escalfado y salsa de yogur al cebollino
+inv-1801 · vegano · Tofu revuelto con espinacas, tomate y cúrcuma sobre patatas salteadas al pimentón
+inv-1802 · vegano · Salteado de tofu al jengibre con judías verdes, zanahoria y arroz jazmín
+inv-1803 · vegano · Bandeja de calabaza, tofu y judías verdes al horno con aliño de cacahuete y lima
+inv-1804 · vegano · Tacos de tofu al pimentón con pico de gallo sin cebolla y maíz
+inv-1805 · ensaladas · Ensalada de arroz con gambas, piña, pimiento y pepino al estilo thai
+inv-1806 · ensaladas · Ensalada de canónigos, naranja, aceitunas negras, nueces y queso manchego
+inv-1807 · ensaladas · Ensalada thai de ternera con pepino, hierbabuena y cacahuetes
+inv-1808 · pasta-arroces · Fideos de arroz salteados con cerdo picado y albahaca al estilo pad krapow
+inv-1809 · pasta-arroces · Arroz caldoso de rape, gambas y pimiento rojo con azafrán
+inv-1810 · sopas-cremas · Sopa baja en FODMAP de fideos de arroz con albóndigas de cerdo al jengibre
 car-01 · carnes · Dados de pollo sobre cremoso de queso griego
 car-02 · carnes · Ssam de cerdo con almendras
 car-03 · carnes · Ssam de pollo en marinado oriental
