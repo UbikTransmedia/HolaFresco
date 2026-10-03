@@ -1,0 +1,1074 @@
+inv-011 · legumbres · Fabada de verano con fabes, langostinos y azafrán
+inv-012 · legumbres · Lentejas pardinas guisadas con chorizo, boniato y pimentón ahumado
+inv-013 · legumbres · Garbanzos de vigilia con bacalao desalado, espinacas y huevo duro
+inv-014 · legumbres · Hummus de remolacha con huevo mollet y pita crujiente
+inv-015 · legumbres · Dal tadka de lentejas rojas con tempero de comino y arroz basmati
+inv-016 · legumbres · Ensalada nórdica de lentejas con salmón ahumado, aguacate y eneldo
+inv-017 · legumbres · Hamburguesas de alubias rojas y quinoa con mayonesa de chipotle y ensalada de col
+inv-018 · legumbres · Bandeja al horno de garbanzos y contramuslos de pollo al zaatar con limón
+inv-019 · legumbres · Minestrone de judías blancas, kale y pasta corta con pesto de albahaca
+inv-020 · legumbres · Tacos de frijoles negros refritos con pico de gallo y queso fresco
+inv-021 · legumbres · Dal makhani casero de lentejas y alubias rojas con mantequilla y nata
+inv-022 · legumbres · Ful medames de habas con huevo duro, tomate y pan plano
+inv-023 · legumbres · Potaje de garbanzos con costilla de cerdo, calabaza y hierbabuena
+inv-024 · legumbres · Wok de edamame, judías verdes y gambas con jengibre y sésamo
+inv-025 · legumbres · Crema turca de lentejas rojas con menta y mantequilla al pimentón
+inv-026 · legumbres · Ensalada griega de garbanzos con feta, pepino, aceitunas y orégano
+inv-027 · legumbres · Cassoulet exprés de alubias blancas con confit de pato y salchicha fresca
+inv-028 · legumbres · Chili de tres legumbres con chocolate negro y chipotle
+inv-029 · legumbres · Lentejas beluga con calabaza asada, queso de cabra y nueces
+inv-030 · legumbres · Coliflor y garbanzos al horno estilo tandoori con raita de pepino
+inv-031 · legumbres · Judiones con pulpo cocido y pimentón al estilo gallego
+inv-032 · legumbres · Curry massaman de garbanzos, patata y cacahuete con arroz jazmín
+inv-033 · legumbres · Shakshuka de garbanzos y pimientos con huevos y feta
+inv-034 · legumbres · Ensalada toscana de judías blancas con atún, cebolla morada y alcaparras
+inv-035 · legumbres · Cocido ligero de garbanzos con pollo, repollo y fideos en una sola olla
+inv-036 · legumbres · Albóndigas de lentejas y champiñones en salsa de tomate con puré de patata
+inv-037 · legumbres · Crema untable de alubias blancas al romero con setas salteadas y pan de pueblo
+inv-038 · legumbres · Pasta e fagioli: sopa espesa de alubias y pasta con romero y parmesano
+inv-039 · legumbres · Bowl de garbanzos asados al harissa con quinoa, zanahoria y salsa de tahini
+inv-040 · legumbres · Alubias rojas con arroz de coco al estilo caribeño y pollo jerk
+inv-041 · legumbres · Sopa de miso con edamame, tofu y fideos soba
+inv-042 · legumbres · Burritos de alubias negras, arroz y boniato asado con guacamole
+inv-043 · legumbres · Lentejas a la francesa con salchichas de pavo, mostaza antigua y tomillo
+inv-044 · legumbres · Ensalada de garbanzos tostados con naranja, hinojo y aceitunas negras
+inv-045 · legumbres · Guisantes estofados con jamón serrano, cebolleta y huevo poché
+inv-046 · legumbres · Pita rellena de hamburguesa de garbanzos y boniato al curry con yogur a la menta
+inv-047 · legumbres · Alubias pintas estofadas con costilla de cerdo adobada y patata
+inv-048 · legumbres · Harira marroquí de cordero con garbanzos, lentejas y fideos
+inv-049 · legumbres · Panisse crujiente de harina de garbanzo con ensalada de tomate y alioli de limón
+inv-050 · legumbres · Tostadas de habas con ricotta, menta, limón y pistachos
+inv-051 · legumbres · Pakoras de garbanzo con cebolla y espinacas, chutney de yogur y menta y ensalada kachumber
+inv-052 · legumbres · Alubias blancas gratinadas con tomate, espinacas y mozzarella
+inv-053 · legumbres · Garbanzos salteados con calamar, ajo, perejil y limón
+inv-054 · legumbres · Lentejas beluga con vieiras a la plancha y mantequilla de limón y cebollino
+inv-055 · legumbres · Sopa cubana de frijoles negros con comino, orégano y lima
+inv-056 · legumbres · Alubias blancas a la crema con setas y aceite de trufa sobre pan tostado
+inv-057 · legumbres · Guiso ligero de garbanzos con rape y almejas al azafrán
+inv-058 · legumbres · Ensalada tex-mex de alubias rojas, maíz, aguacate y pimiento con aliño de lima y cilantro
+inv-059 · legumbres · Lentejas estofadas con jamón ibérico, setas y huevo poché
+inv-060 · legumbres · Sopa nórdica de guisantes amarillos partidos con bacon, mostaza y crutones
+inv-061 · pescado · Tartar de atún rojo con aguacate, sésamo y pepino encurtido
+inv-062 · pescado · Sardinas a la plancha con ensalada de tomate y cebolla morada y pan al ajo
+inv-063 · pescado · Merluza al vapor cantonés con jengibre, cebolleta y pak choi
+inv-064 · pescado · Bacalao fresco con costra de pistacho y limón sobre puré de coliflor
+inv-065 · pescado · Caldereta de rape y langostinos con patatas, hinojo y azafrán
+inv-066 · pescado · Boquerones en vinagre caseros con patatas aliñadas y aceitunas
+inv-067 · pescado · Dorada a la sal con patatas panadera y alioli de limón
+inv-068 · pescado · Trucha en papillote con puerro, naranja y eneldo sobre quinoa
+inv-069 · pescado · Mejillones al curry rojo y leche de coco con boniato asado
+inv-070 · pescado · Ceviche de dorada con leche de tigre, boniato cocido y maíz tostado
+inv-071 · pescado · Tacos de merluza crujiente con col morada y crema de chipotle
+inv-072 · pescado · Curry de gambas y espinacas al estilo de Kerala con pan naan
+inv-073 · pescado · Hamburguesas de atún en conserva y garbanzos con salsa de yogur y pepino
+inv-074 · pescado · Lubina al horno con tomate cherry, aceitunas, alcaparras y patatas al romero
+inv-075 · pescado · Calamares a la andaluza con ensalada de pimientos asados y alioli suave
+inv-076 · pescado · Salmón tandoori al horno con coliflor especiada y raita de pepino
+inv-077 · pescado · Bacalao a la vizcaína casera con patatas al vapor y huevo duro
+inv-078 · pescado · Tom yum de langostinos con champiñones, lima y cilantro
+inv-079 · pescado · Caballa en conserva con judías verdes, patata y huevo mollet
+inv-080 · pescado · Pulpo a la brasa con puré de boniato y mojo rojo
+inv-081 · pescado · Gambas al ajillo con guindilla, pan de pueblo y tomate aliñado
+inv-082 · pescado · Sardinas en escabeche de zanahoria y cebolla con patatas asadas
+inv-083 · pescado · Merluza a la meunière con alcaparras y patatas al vapor con perejil
+inv-084 · pescado · Calamar al wok con pimientos, jengibre, anacardos y salsa de ostras
+inv-085 · pescado · Bacalao fresco sobre garbanzos al pimentón ahumado con espinacas
+inv-086 · pescado · Brochetas de rape y langostinos con pesto de pistacho
+inv-087 · pescado · Pitas de sardinas en conserva con hummus exprés y ensalada de pepino
+inv-088 · pescado · Cazón en adobo con ensalada de naranja, cebolla morada y aceitunas
+inv-089 · pescado · Tataki de bonito con ensalada de pepino y wakame y ponzu casero
+inv-090 · pescado · Sepia encebollada con patatas a lo pobre
+inv-091 · pescado · Pez espada a la plancha con salmoriglio y ensalada de hinojo y naranja
+inv-092 · pescado · Almejas al vapor con leche de coco, lima y chile al estilo thai
+inv-093 · pescado · Moqueca de abadejo y langostinos con boniato asado
+inv-094 · pescado · Fish pie de merluza y salmón ahumado con costra de puré de patata
+inv-095 · pescado · Caballa al horno glaseada con miso y naranja sobre pak choi y boniato
+inv-096 · pescado · Sopa de pescado a la provenzal con rouille y picatostes
+inv-097 · pescado · Tortillitas de gambas con ensalada de tomate y cebolleta
+inv-098 · pescado · Merluza amritsari rebozada en harina de garbanzo con patatas especiadas
+inv-099 · pescado · Dorada a la veracruzana con tomate, aceitunas, alcaparras y jalapeño
+inv-100 · pescado · Mejillones en escabeche caseros con patatas y pimientos asados
+inv-101 · pescado · Salmón curado exprés con eneldo y remolacha, patatas tibias y yogur a la mostaza
+inv-102 · pescado · Aguachile verde de langostinos con pepino, aguacate y tostadas de maíz
+inv-103 · pescado · Jurel a la espalda con ajada gallega y cachelos al pimentón
+inv-104 · pescado · Tajine de corvina con patatas, pimientos y aceitunas a la chermoula
+inv-105 · pescado · Po'boy de gambas crujientes con salsa remoulade y ensalada de col
+inv-106 · pescado · Salmón asado con salsa verde de hierbas y patatas nuevas aplastadas
+inv-107 · pescado · Vieiras a la plancha con crema de coliflor y bacon crujiente
+inv-108 · pescado · Shakshuka de atún y garbanzos con huevos escalfados y pan tostado
+inv-109 · pescado · Okonomiyaki de gambas y col con mayonesa y salsa agridulce
+inv-110 · pescado · Sopa de miso con merluza, tofu, setas y espinacas
+inv-111 · carnes · Pechuga de pollo a la plancha con pesto de rúcula y cherrys salteados
+inv-112 · carnes · Wok de pavo con pak choi, jengibre y fideos de arroz
+inv-113 · carnes · Alitas crujientes al horno con glaseado de miel y sriracha
+inv-114 · carnes · Pollo entero asado al limón y ajo sobre patatas panadera
+inv-115 · carnes · Pollo tikka marinado en yogur con arroz basmati y raita
+inv-116 · carnes · Pollo al ajillo exprés con patatas al vapor y judías verdes
+inv-117 · carnes · Ensalada tibia de pollo desmenuzado, garbanzos y pimiento con salsa de tahini
+inv-118 · carnes · Bol coreano de pavo picado con arroz, espinacas, zanahoria y huevo frito
+inv-119 · carnes · Tacos de pollo al achiote con piña asada y cebolla morada encurtida
+inv-120 · carnes · Curry de pavo con calabaza, espinacas y leche de coco
+inv-121 · carnes · Contramuslos de pollo a la mostaza antigua y miel con puré de patata y coliflor
+inv-122 · carnes · Brochetas de pollo souvlaki con tzatziki y pan de pita
+inv-123 · carnes · Pollo teriyaki casero con arroz jazmín y brócoli al vapor
+inv-124 · carnes · Escalopines de pavo con costra de panko y parmesano y ensalada de rúcula
+inv-125 · carnes · Pollo al mole sencillo con chocolate y chipotle, arroz blanco y sésamo
+inv-126 · carnes · Hamburguesas de pavo con feta y espinacas y gajos de boniato al pimentón
+inv-127 · carnes · Shawarma de pollo al horno con salsa de yogur al ajo y pan de pita
+inv-128 · carnes · Pollo con champiñones a la crema y mostaza sobre tagliatelle
+inv-129 · carnes · Pechuga de pavo rellena de espinacas y queso de cabra con salsa de vino blanco
+inv-130 · carnes · Pollo al limón al estilo chino con arroz jazmín y pak choi
+inv-131 · carnes · Guiso de pollo con garbanzos, chorizo y pimentón
+inv-132 · carnes · Pollo satay con salsa de cacahuete, arroz jazmín y ensalada de pepino
+inv-133 · carnes · Ensalada de pollo a la plancha con quinoa, aguacate y naranja
+inv-134 · carnes · Pavo picado especiado con berenjena asada, tomate y yogur a la menta
+inv-135 · carnes · Pollo entero asado con mantequilla de hierbas y verduras de raíz
+inv-136 · carnes · Pollo a la plancha con romesco rápido de almendras y espárragos trigueros
+inv-137 · carnes · Wraps de pollo cajún con pimientos, maíz y crema de lima
+inv-138 · carnes · Arroz caldoso de pollo y verduras al azafrán
+inv-139 · carnes · Pechuga de pavo en salsa de naranja y jengibre con cuscús y espinacas
+inv-140 · carnes · Pollo al vino tinto con setas y bacon sobre puré de patata
+inv-141 · carnes · Piccata de pavo al limón y alcaparras con judías verdes y patata
+inv-142 · carnes · Pollo saltado al estilo peruano con arroz blanco
+inv-143 · carnes · Ensalada tibia de pollo y lentejas con vinagreta de mostaza
+inv-144 · carnes · Quesadillas tex-mex de pollo, alubias rojas y queso con pico de gallo
+inv-145 · carnes · Pollo con pesto de pistachos y espaguetis de calabacín
+inv-146 · carnes · Yakitori de pollo y cebolleta glaseado con arroz y pepino encurtido
+inv-147 · carnes · Tajín de pollo con garbanzos, dátiles y almendras al azafrán
+inv-148 · carnes · Butter chicken ligero con arroz basmati
+inv-149 · carnes · Pollo a la cazadora con pimientos, champiñones y aceitunas sobre polenta cremosa
+inv-150 · carnes · Sopa vietnamita de pollo con fideos de arroz, lima y hierbas frescas
+inv-151 · carnes · Saltimbocca de pavo con jamón serrano y salvia sobre puré de coliflor
+inv-152 · carnes · Pollo al chilindrón con jamón ibérico y pimientos asados
+inv-153 · carnes · Biryani de pollo al horno con cebolla crujiente, pasas y menta
+inv-154 · carnes · Pollo jerk caribeño con arroz con alubias al coco y piña a la plancha
+inv-155 · carnes · Pavo en pepitoria con almendras, azafrán y patatas
+inv-156 · carnes · Bandeja de pollo al za'atar con calabaza asada y yogur al limón
+inv-157 · carnes · Pavo braseado con setas, puerro y mostaza antigua sobre arroz integral
+inv-158 · carnes · Pulled turkey: pavo desmenuzado a la barbacoa casera con ensalada de col
+inv-159 · carnes · Ramen casero de pollo con huevo marinado, pak choi y miso
+inv-160 · carnes · Pollo con 20 dientes de ajo al horno y tostadas para untar
+inv-161 · carnes · Tataki de solomillo de ternera con costra de sésamo y ponzu de lima
+inv-162 · carnes · Hamburguesas de cerdo y manzana con col lombarda encurtida
+inv-163 · carnes · Youvarlakia: albóndigas griegas de ternera y arroz en salsa de huevo y limón
+inv-164 · carnes · Carrillada ibérica braseada al Pedro Ximénez con puré de boniato
+inv-165 · carnes · Lomo de cerdo con salsa de mostaza antigua y espinacas salteadas con avellanas
+inv-166 · carnes · Secreto ibérico a la plancha con romesco casero y escalivada
+inv-167 · carnes · Costillas de cerdo al horno lento con salsa barbacoa casera y coleslaw
+inv-168 · carnes · Solomillo de cerdo relleno de dátiles y queso de cabra envuelto en bacon
+inv-169 · carnes · Pad kra pao de cerdo picado con albahaca, chile y huevo frito
+inv-170 · carnes · Lomo de cerdo asado con costra de ajo y hierbas, patatas y zanahorias al horno
+inv-171 · carnes · Caldereta de cerdo con patatas y pimiento choricero
+inv-172 · carnes · Albóndigas de cerdo e hinojo en salsa de tomate con judías verdes al limón
+inv-173 · carnes · Filetes de lomo a la pizzaiola con alcaparras, aceitunas y calabacín a la plancha
+inv-174 · carnes · Carrillada de cerdo al curry rojo con leche de coco y calabaza
+inv-175 · carnes · Pastel de carne de cerdo con glaseado de tomate y boniato asado
+inv-176 · carnes · Char siu casero de lomo de cerdo con arroz jazmín y pak choi
+inv-177 · carnes · Medallones de solomillo de cerdo con higos, balsámico y rúcula
+inv-178 · carnes · Costillas de cerdo guisadas con alubias blancas y pimentón
+inv-179 · carnes · Pinchos morunos de cerdo con cuscús de hierbas y salsa de yogur
+inv-180 · carnes · Presa ibérica marinada en miso con setas salteadas y arroz integral
+inv-181 · carnes · Tacos de cerdo picado al chipotle con pico de gallo y aguacate
+inv-182 · carnes · Schnitzel de lomo de cerdo con ensalada alemana de patata y pepinillos
+inv-183 · carnes · Paleta de cerdo estofada con sidra, mostaza antigua y puerros
+inv-184 · carnes · Bol vietnamita de lomo de cerdo a la plancha con fideos de arroz y nuoc cham
+inv-185 · carnes · Carpaccio de ternera con rúcula, parmesano y alcaparras fritas
+inv-186 · carnes · Entrecot a la plancha con chimichurri y boniato asado
+inv-187 · carnes · Chuletillas de cordero a la plancha con tzatziki y ensalada griega de pepino
+inv-188 · carnes · Escalopines de ternera al limón con alcaparras y espaguetis de calabacín
+inv-189 · carnes · Ropa vieja de ternera con pimientos, aceitunas y arroz
+inv-190 · carnes · Tajine de cordero con ciruelas, almendras y cuscús
+inv-191 · carnes · Hamburguesas de ternera y remolacha con yogur de eneldo y ensalada verde
+inv-192 · carnes · Keema de ternera con guisantes y arroz basmati
+inv-193 · carnes · Koftas de cordero especiadas con salsa de tahini y tabulé
+inv-194 · carnes · Pimientos rojos rellenos de ternera y arroz al horno
+inv-195 · carnes · Goulash de ternera con pimentón, cebolla y patatas
+inv-196 · carnes · Cordero al chilindrón con pimientos, jamón y patatas
+inv-197 · carnes · Rendang de ternera con coco tostado y arroz jazmín
+inv-198 · carnes · Filetes de ternera encebollados al vino blanco con patatas asadas
+inv-199 · carnes · Rogan josh de cordero con arroz basmati
+inv-200 · carnes · Stroganoff de ternera con champiñones y pepinillos
+inv-201 · carnes · Albóndigas de ternera al chipotle con hierbabuena y arroz
+inv-202 · carnes · Pastel de cordero con puré de patata gratinado
+inv-203 · carnes · Salteado de ternera con brócoli, jengibre y sésamo
+inv-204 · carnes · Brochetas de ternera al estilo turco con ensalada de cebolla morada y zumaque
+inv-205 · carnes · Kleftiko de cordero: paletilla al horno con patatas, limón y orégano
+inv-206 · carnes · Yam nua: ensalada tailandesa de ternera con tomate cherry, pepino y lima
+inv-207 · carnes · Ossobuco de ternera braseado con tomate y vino blanco, puré de patata y gremolata
+inv-208 · carnes · Shawarma casero de cordero en pan de pita con yogur y ensalada
+inv-209 · carnes · Involtini de ternera con jamón serrano, espinacas y queso en salsa de tomate
+inv-210 · carnes · Bol tex-mex de ternera picada con alubias rojas, maíz y aguacate
+inv-211 · vegetariano · Shakshuka verde de espinacas y puerro con huevos y feta
+inv-212 · vegetariano · Tortilla abierta de calabacín, menta y queso fresco
+inv-213 · vegetariano · Frittata al horno de patata, puerro y queso de cabra
+inv-214 · vegetariano · Huevos al plato sobre pisto de berenjena al pimentón ahumado
+inv-215 · vegetariano · Quiche de brócoli y cheddar con masa quebrada casera
+inv-216 · vegetariano · Revuelto cremoso de setas variadas y espárragos trigueros con queso de cabra
+inv-217 · vegetariano · Huevos turcos con yogur al ajo, mantequilla de pimentón y bulgur
+inv-218 · vegetariano · Paneer tikka masala con arroz basmati
+inv-219 · vegetariano · Lasaña de berenjena asada y pimientos con mozzarella y bechamel
+inv-220 · vegetariano · Pimientos rellenos de quinoa, feta y pasas con salsa de yogur a la menta
+inv-221 · vegetariano · Croquetas de calabaza asada y parmesano al horno con ensalada de canónigos
+inv-222 · vegetariano · Halloumi a la plancha con cuscús de hierbas, granada y pepino
+inv-223 · vegetariano · Pizza bianca de patata, romero y mozzarella con masa casera
+inv-224 · vegetariano · Curry de huevos duros al estilo del sur de la India con arroz basmati
+inv-225 · vegetariano · Tarta tatin de tomates cherry y queso de cabra con rúcula
+inv-226 · vegetariano · Enchiladas de alubias negras y queso con salsa roja de chipotle
+inv-227 · vegetariano · Okonomiyaki de col y cebolleta con mayonesa de sriracha
+inv-228 · vegetariano · Gratinado de coliflor y patata con salsa de queso y mostaza
+inv-229 · vegetariano · Buñuelos de maíz y cebolleta al horno con salsa de yogur y lima
+inv-230 · vegetariano · Calabacines rellenos de arroz cremoso, tomate seco y mozzarella
+inv-231 · vegetariano · Kadhi de yogur y harina de garbanzo con pakoras de cebolla al horno
+inv-232 · vegetariano · Patatas asadas rellenas de espinacas y ricotta con parmesano
+inv-233 · vegetariano · Tortillas francesas rellenas de escalivada y queso fresco
+inv-234 · vegetariano · Burrata con tomates cherry asados, lentejas al limón y pesto de albahaca
+inv-235 · vegetariano · Bibimbap vegetariano con huevo frito, verduras salteadas y gochujang
+inv-236 · vegetariano · Pizza de bandeja sin amasar con setas, mozzarella y aceite de trufa
+inv-237 · vegetariano · Focaccia de cebolla morada, aceitunas y romero con ensalada caprese
+inv-238 · vegetariano · Saag paneer con naan de yogur a la sartén
+inv-239 · vegetariano · Alcachofas confitadas con huevo escalfado y lascas de parmesano
+inv-240 · vegetariano · Tarta fina de higos, queso de cabra, miel y nueces con rúcula
+inv-241 · vegetariano · Huevos rancheros con alubias refritas y tortillas de maíz
+inv-242 · vegetariano · Revuelto de espinacas y requesón con tomates cherry salteados sobre tostada
+inv-243 · vegetariano · Queso de cabra gratinado con miel sobre lentejas tibias, pera y nueces
+inv-244 · vegetariano · Pitas de paneer especiado a la plancha con tzatziki de menta
+inv-245 · vegetariano · Tortilla de espinacas a la catalana con piñones, pasas y queso fresco
+inv-246 · vegetariano · Moussaka vegetariana de lentejas y berenjena con bechamel de yogur
+inv-247 · vegetariano · Pastel de calabaza, pimiento y cebolla asados con huevo y feta
+inv-248 · vegetariano · Pimientos del piquillo rellenos de queso fresco y espinacas con salsa de tomate
+inv-249 · vegetariano · Mac and cheese de calabaza asada con costra de panko
+inv-250 · vegetariano · Nidos de boniato rallado al horno con huevo, feta y cebollino
+inv-251 · vegetariano · Omurice de arroz salteado con champiñones y guisantes envuelto en tortilla
+inv-252 · vegetariano · Quesadillas de calabacín, maíz y queso con pico de gallo
+inv-253 · vegetariano · Ñoquis caseros de patata con mantequilla de salvia, avellanas y parmesano
+inv-254 · vegetariano · Arepas rellenas de huevo revuelto, aguacate y queso fresco
+inv-255 · vegetariano · Ramen vegetariano de miso con huevo marinado, setas y pak choi
+inv-256 · vegetariano · Galettes de trigo sarraceno con espinacas, champiñones, queso y huevo
+inv-257 · vegetariano · Pad thai vegetariano de tofu y huevo con cacahuetes y lima
+inv-258 · vegetariano · Coliflor asada entera con garbanzos especiados, salsa de tahini y yogur
+inv-259 · vegetariano · Risotto de setas y azafrán con parmesano
+inv-260 · vegetariano · Ensalada templada de judías verdes y huevo mollet con picatostes y vinagreta de alcaparras
+inv-261 · vegano · Tofu crujiente de maicena con pak choi al ajo y salsa de cacahuete
+inv-262 · vegano · Coliflor entera asada a la harissa con salsa de tahini, garbanzos y granada
+inv-263 · vegano · Hamburguesas de alubias negras y boniato con mayonesa vegetal de chipotle
+inv-264 · vegano · Curry de coco con garbanzos, calabaza y espinacas
+inv-265 · vegano · Tempeh glaseado al tamarindo con arroz jazmín y pepino encurtido
+inv-266 · vegano · Revuelto de tofu a la cúrcuma con champiñones y espinacas sobre tostadas
+inv-267 · vegano · Seitán a la plancha con chimichurri y boniato asado al pimentón
+inv-268 · vegano · Gyozas caseras de shiitake, col y tofu con salsa de soja, vinagre y chile
+inv-269 · vegano · Calabaza asada rellena de lentejas, quinoa, kale y nueces con salsa de arce y mostaza
+inv-270 · vegano · Wok de heura con brócoli, pimiento y anacardos en salsa hoisin
+inv-271 · vegano · Albóndigas de lentejas y nueces en salsa de tomate con puré de patata
+inv-272 · vegano · Tacos de setas al pastor con piña dorada, frijoles y cebolla morada
+inv-273 · vegano · Tofu agridulce con piña, pimientos y cebolla al estilo cantonés
+inv-274 · vegano · Patatas asadas rellenas de chili de alubias rojas con queso vegetal gratinado
+inv-275 · vegano · Tempura de verduras y tofu al horno con salsa ponzu y ensalada de col al sésamo
+inv-276 · vegano · Bowl de garbanzos crujientes al curry con col lombarda, edamame y aliño de miso y jengibre
+inv-277 · vegano · Heura al ajillo con patatas panadera y pimientos del piquillo
+inv-278 · vegano · Tofu tikka masala con arroz basmati y cilantro
+inv-279 · vegano · Strogonoff de seitán y champiñones con nata vegetal y puré de patata
+inv-280 · vegano · Burrito de alubias negras, arroz a la lima, pico de gallo y guacamole
+inv-281 · vegano · Portobellos a la plancha con puré de alubias blancas al romero y aceite de trufa
+inv-282 · vegano · Tofu ahumado a la plancha con alcachofas, espárragos trigueros y romesco
+inv-283 · vegano · Koftas de seitán y pistachos con melaza de granada y ensalada de hierbas
+inv-284 · vegano · Tagine de garbanzos, calabaza y orejones con azafrán y almendras sobre cuscús
+inv-285 · vegano · Bourguignon vegano de seitán con setas, cebollitas y zanahoria al vino tinto
+inv-286 · vegano · Ensalada tibia de tempeh crujiente al pimentón con judías verdes y patata
+inv-287 · vegano · Pad krapao vegano de tofu desmenuzado con judías verdes, albahaca y chile
+inv-288 · vegano · Espinacas con garbanzos a la sevillana con majado de pan, comino y pimentón
+inv-289 · vegano · Hummus caliente de alubias blancas con setas salteadas al tomillo y pita
+inv-290 · vegano · Ensalada tibia de lentejas con remolacha, naranja, nueces y yogur vegetal al eneldo
+inv-291 · vegano · Curry rojo tailandés de heura con leche de coco, judías verdes y albahaca
+inv-292 · vegano · Hamburguesas de champiñones y lentejas con cebolla caramelizada y salsa de mostaza antigua
+inv-293 · vegano · Patatas asadas rellenas a la florentina con espinacas y crema de tofu a la nuez moscada
+inv-294 · vegano · Berenjenas enteras asadas al estilo imam bayildi con tomate, piñones, pasas y garbanzos
+inv-295 · vegano · Setas de cardo a la plancha estilo vieira con puré de coliflor y alubias y salsa de alcaparras
+inv-296 · vegano · Chili sin carne de soja texturizada y alubias rojas con aguacate y totopos al horno
+inv-297 · vegano · Tacos de lechuga con heura picada al hoisin, champiñones y anacardos
+inv-298 · vegano · Seitán a la pimienta con puré de chirivía y judías verdes al ajo
+inv-299 · vegano · Tofu búfalo crujiente al horno con salsa ranch vegetal, apio y zanahoria
+inv-300 · vegano · Tofu bulgogi coreano marinado con pera y sésamo, con arroz, lechuga y kimchi
+inv-301 · vegano · Dal tadka de lentejas rojas con espinacas y arroz basmati
+inv-302 · vegano · Pho vegano de tofu y setas shiitake con fideos de arroz y hierbas frescas
+inv-303 · vegano · Fabada vegana de judías blancas con tofu ahumado, setas y pimentón
+inv-304 · vegano · Ensalada griega de heura a la plancha con garbanzos, pepino y aceitunas negras
+inv-305 · vegano · Lasaña de boloñesa de lentejas y champiñones con bechamel de bebida vegetal
+inv-306 · vegano · Fajitas de seitán al comino con pimientos, cebolla y guacamole
+inv-307 · vegano · Arroz meloso de heura con alcachofas y guisantes
+inv-308 · vegano · Minestrone vegana de alubias blancas con pesto de albahaca y almendras
+inv-309 · vegano · Shakshuka vegana de tofu sedoso y garbanzos en salsa de pimientos y harissa
+inv-310 · vegano · Pastel de lentejas y champiñones con costra de puré de patata al estilo shepherd's pie
+inv-311 · ensaladas · Bowl de pollo al za'atar con bulgur, pepino encurtido rápido y salsa de yogur
+inv-312 · ensaladas · Poke bowl de salmón marinado en soja y sésamo con arroz de sushi, edamame y mango
+inv-313 · ensaladas · Ensalada templada de lentejas pardinas desde seco con chorizo, pimiento asado y huevo mollet
+inv-314 · ensaladas · Noodles de soba fríos con tofu marinado, pepino y aliño de sésamo y jengibre
+inv-315 · ensaladas · Burrito bowl de pollo al chipotle con arroz a la lima, alubias rojas y pico de gallo
+inv-316 · ensaladas · Ensalada alemana templada de patata con bacon, huevo y vinagreta caliente de mostaza
+inv-317 · ensaladas · Ensalada griega completa con garbanzos crujientes al orégano y feta
+inv-318 · ensaladas · Ensalada de melocotón a la plancha, jamón serrano y burrata con rúcula
+inv-319 · ensaladas · Ensalada de invierno de kale, remolacha asada, lentejas, naranja y queso de cabra
+inv-320 · ensaladas · Slaw de col lombarda y manzana con pollo desmechado y aliño de yogur y mostaza
+inv-321 · ensaladas · Ensalada toscana de atún, judías blancas, cebolla morada y tomate con vinagreta de limón
+inv-322 · ensaladas · Ensalada de quinoa con langostinos a la lima, aguacate, maíz y cilantro
+inv-323 · ensaladas · Ensalada de huevo mollet, espárragos verdes y patata nueva con aliño de alcaparras y eneldo
+inv-324 · ensaladas · Yam nua: ensalada tailandesa de ternera a la plancha con hierbas, lima y cacahuetes
+inv-325 · ensaladas · Ensalada de pasta con pesto de espinacas y almendras, tomate cherry asado y mozzarella
+inv-326 · ensaladas · Ensalada de cuscús marroquí con garbanzos, zanahoria asada al comino, pasas y almendras
+inv-327 · ensaladas · Ensalada templada de coliflor asada al curry con lentejas, pasas y yogur a la menta
+inv-328 · ensaladas · Bowl coreano de arroz integral con huevo frito crujiente, col encurtida picante y espinacas al sésamo
+inv-329 · ensaladas · Ensalada templada de salmón al horno con lentejas, hinojo y naranja
+inv-330 · ensaladas · Ensalada César de kale con garbanzos crujientes y aliño de yogur y anchoas
+inv-331 · ensaladas · Ensalada de pollo tandoori marinado dos horas con pepino, menta y raita
+inv-332 · ensaladas · Ensalada de langostinos a la plancha, aguacate y pomelo con vinagreta de lima
+inv-333 · ensaladas · Empedrat de judías blancas desde seco con bacalao desalado, tomate, huevo y aceitunas
+inv-334 · ensaladas · Bún de cerdo a la plancha marinado con fideos de arroz, hierbas y nuoc cham
+inv-335 · ensaladas · Ensalada de remolacha cruda, zanahoria, manzana y lentejas con aliño de tahini y limón
+inv-336 · ensaladas · Ensalada de farro con calabaza asada al romero, granada, kale y queso feta
+inv-337 · ensaladas · Ensalada Waldorf moderna de pavo a la plancha, manzana, apio y nueces con aliño de yogur
+inv-338 · ensaladas · Ensalada campera de patata, huevo, bonito y pimiento verde con aliño de pimentón
+inv-339 · ensaladas · Bowl de ternera bulgogi con arroz jazmín, zanahoria, espinacas, champiñones y huevo
+inv-340 · ensaladas · Ensalada de burrata con tomates asados lentos, albahaca y pan crujiente de ajo
+inv-341 · ensaladas · Ensalada de pollo satay con salsa de cacahuete, col lombarda, zanahoria y fideos de arroz
+inv-342 · ensaladas · Ensalada de endivias, pera, queso azul y nueces con jamón serrano crujiente
+inv-343 · ensaladas · Balila: ensalada libanesa de garbanzos desde seco templados con comino, limón y pimientos
+inv-344 · ensaladas · Ensalada de orzo con langostinos, calabacín a la plancha, guisantes, limón y feta
+inv-345 · ensaladas · Slaw asiático de col, zanahoria, edamame y cacahuetes con tofu crujiente
+inv-346 · ensaladas · Ensalada de patatas asadas crujientes, huevo escalfado y salsa de yogur a las hierbas
+inv-347 · ensaladas · Ceviche bowl de lubina con boniato asado, maíz, aguacate y leche de tigre
+inv-348 · ensaladas · Ensalada murciana de tomate, huevo duro, bonito, aceitunas y alcaparras
+inv-349 · ensaladas · Ensalada nórdica de salmón ahumado, pepino, eneldo, rábano y huevo con yogur a la mostaza
+inv-350 · ensaladas · Ensalada templada de berenjena ahumada, garbanzos crujientes, granada y yogur con tahini
+inv-351 · ensaladas · Ensalada rápida de lentejas de bote con tomate, pepino, zanahoria y huevo duro con vinagreta de mostaza
+inv-352 · ensaladas · Ensalada de pollo souvlaki marinado dos horas con tomate, pepino, cebolla morada y pita
+inv-353 · ensaladas · Pollo bang bang: ensalada de pepino machacado con pollo desmenuzado y salsa de sésamo y chile
+inv-354 · ensaladas · Ensalada de sandía, feta y pepino con aceitunas negras, menta y pistachos
+inv-355 · ensaladas · Ensalada de taco con ternera picada especiada, lechuga, maíz, alubias rojas y crema de aguacate
+inv-356 · ensaladas · Ensalada tibia de heura al pimentón ahumado con rúcula, naranja, aceitunas negras y almendras
+inv-357 · ensaladas · Chaat de garbanzos y patata con gambas al garam masala, yogur y aliño de menta y lima
+inv-358 · ensaladas · Ensalada Cobb de pollo a la plancha con bacon crujiente, huevo, aguacate y queso azul
+inv-359 · ensaladas · Ensalada de quinoa con solomillo de cerdo al achiote, piña asada y alubias rojas
+inv-360 · ensaladas · Bowl de contramuslos de pollo marinados dos horas en miso y yogur con arroz basmati, boniato asado y salsa de tahini
+inv-361 · olla-express · Alcachofas al vapor en 5 minutos con vinagreta de ajo tostado y limón
+inv-362 · olla-express · Coliflor entera especiada con salsa de tahini y granada
+inv-363 · olla-express · Remolacha tierna con yogur al eneldo, nueces y rábano
+inv-364 · olla-express · Risotto de champiñones en 6 minutos de presión
+inv-365 · olla-express · Sopa vietnamita exprés de pollo, fideos de arroz y jengibre
+inv-366 · olla-express · Dal de lentejas rojas con leche de coco y tadka de comino
+inv-367 · olla-express · Contramuslos de pollo en salsa de mostaza, puerro y estragón
+inv-368 · olla-express · Sepia tierna con guisantes, patata y alioli ligero
+inv-369 · olla-express · Arroz caldoso de gambas, pimiento y azafrán
+inv-370 · olla-express · Potaje rápido de garbanzos, espinacas y bacalao
+inv-371 · olla-express · Patatas guisadas con costilla de cerdo y pimentón de la Vera
+inv-372 · olla-express · Curry de garbanzos y calabaza con leche de coco y espinacas
+inv-373 · olla-express · Garbanzos desde seco sin remojo con chorizo, kale y pimentón
+inv-374 · olla-express · Ossobuco a la milanesa con gremolata de limón
+inv-375 · olla-express · Pollo al limón confitado con aceitunas verdes y patatas al estilo tajín
+inv-376 · olla-express · Sopa completa de pollo con caldo de alitas, fideos y verduras
+inv-377 · olla-express · Alubias blancas desde seco con almejas y perejil
+inv-378 · olla-express · Mujaddara de lentejas y arroz con cebolla crujiente
+inv-379 · olla-express · Carbonada flamenca de ternera a la cerveza negra con pan de mostaza
+inv-380 · olla-express · Pollo masala en una olla con arroz basmati al vapor encima
+inv-381 · olla-express · Rabo de toro al vino tinto con puré de patata trufado
+inv-382 · olla-express · Carrillada ibérica en mole rápido de chocolate, chipotle y almendra
+inv-383 · olla-express · Ropa vieja cubana de falda desmechada con pimientos y aceitunas
+inv-384 · olla-express · Fabada exprés desde seco con compango asturiano
+inv-385 · olla-express · Cordero marroquí con ciruelas, almendras y miel
+inv-386 · olla-express · Crema de brócoli y puerro con queso de cabra fundido
+inv-387 · olla-express · Bol de arroz jazmín, edamame y pak choi al vapor con salsa de sésamo
+inv-388 · olla-express · Mejillones al vapor de un minuto con tomate, ajo y guindilla
+inv-389 · olla-express · Crema fría o caliente de calabacín, menta y yogur
+inv-390 · olla-express · Judías verdes con patata y huevo cocido en el cestillo, al pimentón
+inv-391 · olla-express · Estofado toscano de pavo con alubias blancas, tomate y romero
+inv-392 · olla-express · Ramen rápido de cerdo con caldo de miso, huevo y cebolleta
+inv-393 · olla-express · Arroz meloso de calabaza asada, salvia y panceta crujiente
+inv-394 · olla-express · Chili con carne de dos chiles con alubias rojas y maíz
+inv-395 · olla-express · Arroz con pollo a la cubana con pimientos, cerveza y guisantes
+inv-396 · olla-express · Sopa turca de lentejas rojas con limón, menta y pimentón
+inv-397 · olla-express · Suquet de rape con patatas y picada de almendras
+inv-398 · olla-express · Pulpo tierno en 15 minutos con cachelos y pimentón
+inv-399 · olla-express · Frijoles de olla pintos desde seco con epazote de orégano y tortillas
+inv-400 · olla-express · Pollo a la cazadora con pimientos, champiñones y aceitunas negras
+inv-401 · olla-express · Cerdo a la normanda con manzana, sidra y nata
+inv-402 · olla-express · Dal makhani de alubias negras y lentejas con mantequilla y nata
+inv-403 · olla-express · Rendang exprés de ternera con coco, hierba limón y especias
+inv-404 · olla-express · Sopa de cebolla gratinada con caldo exprés y tostada de gruyère
+inv-405 · olla-express · Pollo al vino tinto con bacon, champiñones y cebollitas
+inv-406 · olla-express · Pulled pork de paleta a la barbacoa con ensalada de col
+inv-407 · olla-express · Birria de ternera para tacos con consomé para mojar
+inv-408 · olla-express · Rogan josh de cordero con yogur, cardamomo y arroz basmati
+inv-409 · olla-express · Codillo de cerdo a la cerveza con chucrut y patatas
+inv-410 · olla-express · Lengua de ternera estofada en salsa de almendras y pimiento rojo
+inv-411 · pasta-arroces · Espaguetis con pesto de calabacín, guisantes y limón
+inv-412 · pasta-arroces · Linguine con almejas, ajo, guindilla y vino blanco
+inv-413 · pasta-arroces · Macarrones gratinados con coliflor, bacon y bechamel a la mostaza
+inv-414 · pasta-arroces · Lasaña verde de espinacas, ricotta y setas
+inv-415 · pasta-arroces · Gnocchi caseros de patata con salsa de tomate y albahaca
+inv-416 · pasta-arroces · Fideuá de sepia y gambas con alioli rápido
+inv-417 · pasta-arroces · Arroz frito al wok con tofu, huevo y verduras
+inv-418 · pasta-arroces · Risotto de calabaza asada con salvia y queso de cabra
+inv-419 · pasta-arroces · Cuscús marroquí con pollo especiado, garbanzos y verduras asadas
+inv-420 · pasta-arroces · Noodles de trigo salteados con ternera, pak choi y salsa de ostras
+inv-421 · pasta-arroces · Ensalada de orzo con atún, tomate cherry, aceitunas y limón
+inv-422 · pasta-arroces · Arroz caldoso de pollo y alcachofas
+inv-423 · pasta-arroces · Canelones de pavo y espinacas con bechamel ligera
+inv-424 · pasta-arroces · Pilaf de bulgur con cordero especiado, pasas y piñones
+inv-425 · pasta-arroces · Tagliatelle con salmón, puerro y eneldo en salsa de yogur
+inv-426 · pasta-arroces · Bowl de quinoa con tofu crujiente al sésamo, brócoli y salsa de cacahuete
+inv-427 · pasta-arroces · Arroz al horno con costillas, garbanzos y morcilla
+inv-428 · pasta-arroces · Polenta cremosa con ragú de setas y huevo escalfado
+inv-429 · pasta-arroces · Pad thai de pollo con fideos de arroz y cacahuetes
+inv-430 · pasta-arroces · Rigatoni al horno con ragú de salchichas, hinojo y mozzarella
+inv-431 · pasta-arroces · Biryani de pollo al horno con arroz basmati y raita de menta
+inv-432 · pasta-arroces · Ensalada de pasta corta con pesto rojo, mozzarella y rúcula
+inv-433 · pasta-arroces · Arroz negro con sepia y alioli de limón
+inv-434 · pasta-arroces · Bún de pollo a la lima con fideos de arroz, hierbas y nuoc cham
+inv-435 · pasta-arroces · Risotto de guisantes y menta con gambas al ajillo
+inv-436 · pasta-arroces · Pappardelle frescas caseras con ragú de ternera a fuego lento
+inv-437 · pasta-arroces · Paella de verduras con alcachofas, judías verdes y garbanzos
+inv-438 · pasta-arroces · Arroz a banda con rape y alioli
+inv-439 · pasta-arroces · Orecchiette con brócoli, anchoas, ajo y pan rallado crujiente
+inv-440 · pasta-arroces · Bulgur pilaf con garbanzos, berenjena asada y salsa de yogur al tahini
+inv-441 · pasta-arroces · Arroz frito con kimchi, cerdo y huevo frito
+inv-442 · pasta-arroces · Espaguetis integrales con sardinas, hinojo, pasas y piñones
+inv-443 · pasta-arroces · Tabulé de cuscús con garbanzos, pepino, tomate y mucha hierba
+inv-444 · pasta-arroces · Mac and cheese de boniato con pollo al pimentón y espinacas
+inv-445 · pasta-arroces · Ensalada fría de quinoa, salmón ahumado, pepino y eneldo
+inv-446 · pasta-arroces · Sopa de fideos de arroz con tofu, pak choi y caldo de jengibre
+inv-447 · pasta-arroces · Espaguetis con atún, alcaparras, limón y rúcula
+inv-448 · pasta-arroces · Pastel de polenta al horno con ragú de ternera y espinacas
+inv-449 · pasta-arroces · Farro tibio con remolacha, naranja, feta y pistachos
+inv-450 · pasta-arroces · Mijo con curry de garbanzos, espinacas y leche de coco
+inv-451 · pasta-arroces · Jambalaya de pollo, chorizo y gambas
+inv-452 · pasta-arroces · Arancini al horno de risotto de guisantes con corazón de mozzarella
+inv-453 · pasta-arroces · Bibimbap de ternera con verduras salteadas, huevo y gochujang
+inv-454 · pasta-arroces · Arroz con pollo a la peruana con cilantro y cerveza
+inv-455 · pasta-arroces · Bulgur exprés con huevos al plato, espinacas y feta
+inv-456 · pasta-arroces · Pho de ternera con fideos de arroz y caldo de especias
+inv-457 · pasta-arroces · Carbonara de alcachofas y jamón serrano sin nata
+inv-458 · pasta-arroces · Pilaf persa de arroz basmati con pollo al azafrán, arándanos y pistachos
+inv-459 · pasta-arroces · Risotto al vino tinto con carrillada melosa
+inv-460 · pasta-arroces · Raviolis caseros de calabaza y ricotta con mantequilla de salvia y avellanas
+inv-461 · sopas-cremas · Crema de calabaza asada con garbanzos crujientes al pimentón
+inv-462 · sopas-cremas · Salmorejo cordobés con huevo duro y virutas de jamón
+inv-463 · sopas-cremas · Ajoblanco malagueño con uvas, melón y almendra tostada
+inv-464 · sopas-cremas · Ramen casero de pollo con huevo marinado y caldo de tres horas
+inv-465 · sopas-cremas · Pho bo vietnamita con caldo de especias y ternera en láminas
+inv-466 · sopas-cremas · Gazpacho andaluz con picadillo crujiente y lascas de bonito
+inv-467 · sopas-cremas · Vichyssoise de puerro con salmón ahumado y cebollino
+inv-468 · sopas-cremas · Sopa fría de pepino y yogur a la menta con pollo al limón y nueces
+inv-469 · sopas-cremas · Crema de coliflor asada al curry con huevo poché y avellanas
+inv-470 · sopas-cremas · Sopa de miso con tofu, fideos soba y pak choi
+inv-471 · sopas-cremas · Tom kha gai: sopa tailandesa de coco y pollo con arroz jazmín
+inv-472 · sopas-cremas · Laksa de langostinos con fideos de arroz y huevo
+inv-473 · sopas-cremas · Sopa de wonton de cerdo y gambas con caldo de jengibre y cebolleta
+inv-474 · sopas-cremas · Sopa marinera de merluza con fideos y picada de almendra
+inv-475 · sopas-cremas · Bullabesa sencilla de rape, mejillones y langostinos con rouille
+inv-476 · sopas-cremas · Chowder de maíz y bacalao fresco con bacon crujiente
+inv-477 · sopas-cremas · Minestrone de invierno con alubias, kale y corteza de parmesano
+inv-478 · sopas-cremas · Harira marroquí de cordero con lentejas, garbanzos y cilantro
+inv-479 · sopas-cremas · Sopa de lentejas rojas al limón con espinacas y comino
+inv-480 · sopas-cremas · Sopa centroeuropea de cebada perlada, setas y ternera
+inv-481 · sopas-cremas · Sopa de picadillo sevillana con caldo casero de dos horas
+inv-482 · sopas-cremas · Avgolemono: sopa griega de pollo, arroz y limón ligada con huevo
+inv-483 · sopas-cremas · Sopa de cebolla gratinada con pan y gruyer
+inv-484 · sopas-cremas · Sopa castellana de ajo con huevo escalfado y taquitos de jamón
+inv-485 · sopas-cremas · Consomé clarificado de pollo con juliana de verduras y tortellini
+inv-486 · sopas-cremas · Sopa de pollo con dumplings esponjosos al estilo sureño
+inv-487 · sopas-cremas · Crema de setas variadas con huevo mollet y picatostes al tomillo
+inv-488 · sopas-cremas · Crema de puerro y patata con bacalao desmigado y aceite de pimentón
+inv-489 · sopas-cremas · Crema de remolacha asada y manzana con queso de cabra y nueces
+inv-490 · sopas-cremas · Crema de zanahoria asada, naranja y jengibre con langostinos a la lima
+inv-491 · sopas-cremas · Crema de maíz y boniato con pollo desmenuzado al chipotle
+inv-492 · sopas-cremas · Crema de tomate y pimiento asados con albóndigas de pavo
+inv-493 · sopas-cremas · Tom yum de gambas con champiñones, hierba limón y fideos de arroz
+inv-494 · sopas-cremas · Sopa de fideos con garbanzos, espinacas y pimentón
+inv-495 · sopas-cremas · Caldo gallego de alubias, grelos y lacón
+inv-496 · sopas-cremas · Sopa de pollo con fideos de huevo, jengibre y cúrcuma
+inv-497 · sopas-cremas · Sopa de tortilla mexicana con pollo, aguacate y queso fresco
+inv-498 · sopas-cremas · Sopa de mejillones al azafrán con hinojo, puerro y patata
+inv-499 · sopas-cremas · Kimchi jjigae con cerdo y tofu
+inv-500 · sopas-cremas · Mulligatawny de pollo, lentejas y manzana al curry
+inv-501 · sopas-cremas · Zuppa di farro: sopa toscana de espelta, alubias y tomate al romero
+inv-502 · sopas-cremas · Sopa de pavo picado a la hierba limón con fideos de arroz y lima
+inv-503 · sopas-cremas · Sopa de col, judías blancas y salchicha fresca al pimentón ahumado
+inv-504 · sopas-cremas · Crema fría de guisantes y menta con feta y pan crujiente
+inv-505 · sopas-cremas · Sopa de calabacín, albahaca y parmesano con pollo a la plancha
+inv-506 · sopas-cremas · Sopa de boniato y cacahuete con pollo desmenuzado y espinacas
+inv-507 · sopas-cremas · Chupe de langostinos: sopa peruana con maíz, patata, huevo y queso fresco
+inv-508 · sopas-cremas · Sopa china de huevo hilado, tomate y tofu
+inv-509 · sopas-cremas · Sopa agripicante china con tofu, setas y huevo
+inv-510 · sopas-cremas · Crema de castañas, boniato y setas con bacon crujiente
+inv-511 · pescado · Bánh mì de caballa en conserva con zanahoria y rábano encurtidos
+inv-512 · pescado · Merluza a la plancha con fattoush de pita tostada y yogur a la menta
+inv-513 · pescado · Quesadillas de gambas, maíz y pimiento con pico de gallo y guacamole rápido
+inv-514 · pescado · Langostinos al wok con sal y pimienta, ajo y chile sobre pak choi salteado
+inv-515 · pescado · Calamar salteado al gochujang con calabacín y cebolla en hojas de lechuga
+inv-516 · pescado · Tortilla abierta de bacalao desmigado, espinacas y cebolleta
+inv-517 · pescado · Bacalao dorado a la portuguesa con patatas paja, huevo y aceitunas negras
+inv-518 · pescado · Salmón en papillote teriyaki con brócoli, shiitake y boniato asado
+inv-519 · pescado · Gambas a la cajún con polenta cremosa de cheddar y bacon crujiente
+inv-520 · pescado · Pastelitos de surimi y merluza estilo crab cakes con ensalada de col y salsa tártara
+inv-521 · pescado · Tiradito de lubina con crema de ají amarillo, boniato glaseado y maíz
+inv-522 · pescado · Dorada al vapor con aliño tailandés de lima, ajo y chile
+inv-523 · pescado · Curry de abadejo al estilo de Goa con tamarindo y coco, judías verdes y pan naan
+inv-524 · pescado · Marmitako de bonito con patata cachada y pimiento choricero
+inv-525 · pescado · Bacalao al ajoarriero con patatas confitadas
+inv-526 · pescado · Sardinas a la beccafico rellenas de pan, pasas y piñones
+inv-527 · pescado · Mejillones a la belga con vino blanco, apio y nata y patatas fritas al horno
+inv-528 · pescado · Corvina al horno con salsa de tahini picante, nueces y cilantro
+inv-529 · pescado · Albóndigas de sardina en salsa de tomate especiada con cuscús al cilantro
+inv-530 · pescado · Fish and chips al horno de abadejo con puré de guisantes a la menta
+inv-531 · pescado · Caballa a la talla con adobo de guajillo, tortillas de maíz y ensalada de pepino y rábano
+inv-532 · pescado · Calamares en su tinta con cebolla pochada y patatas al vapor
+inv-533 · pescado · Pulpo estofado a la griega con vino tinto, cebollitas y canela
+inv-534 · pescado · Nanbanzuke de jurel: pescado frito marinado en vinagre dulce con verduras
+inv-535 · pescado · Zarzuela de merluza, langostinos, almejas y mejillones con picada de almendra
+inv-536 · vegetariano · Anda bhurji: huevos revueltos especiados con naan a la sartén y raita de pepino
+inv-537 · vegetariano · Calabacín a la plancha con ricotta al limón, huevo poché y migas de ajo
+inv-538 · vegetariano · Halloumi a la sartén con sandía, pepino, menta y zumaque
+inv-539 · vegetariano · Huevos revueltos con tomate al estilo chino y arroz jazmín
+inv-540 · vegetariano · Molletes de alubias negras refritas y queso gratinado con pico de gallo
+inv-541 · vegetariano · Tostadas de aguacate machacado con huevo poché, rábanos y yogur picante
+inv-542 · vegetariano · Sándwich de queso fundido con kimchi y huevo frito
+inv-543 · vegetariano · Burrata con pimientos del piquillo confitados, piñones tostados y pan con tomate
+inv-544 · vegetariano · Chilaquiles rojos con huevo frito, queso fresco y nata
+inv-545 · vegetariano · Orzo cremoso al limón con espárragos, guisantes y feta
+inv-546 · vegetariano · Kuku sabzi persa de hierbas y nueces con yogur al ajo y pan de pita
+inv-547 · vegetariano · Huevos mollet sobre crema de guisantes y menta con picatostes
+inv-548 · vegetariano · Tamagoyaki con arroz, pepino encurtido y caldo de miso con wakame
+inv-549 · vegetariano · Aloo paratha relleno de patata especiada con raita y chutney de cilantro
+inv-550 · vegetariano · Tortitas de calabacín y feta al horno con tzatziki y ensalada de tomate
+inv-551 · vegetariano · Berenjenas asadas enteras con yogur al ajo, mantequilla de comino, garbanzos crujientes y granada
+inv-552 · vegetariano · Huevos a la flamenca de la huerta con guisantes, espárragos y patata
+inv-553 · vegetariano · Käsespätzle con cebolla caramelizada y ensalada de pepino al eneldo
+inv-554 · vegetariano · Huevos estrellados sobre patatas panaderas con setas de cardo y aceite de trufa
+inv-555 · vegetariano · Soufflé de queso gruyère con ensalada de endivias, pera y nueces
+inv-556 · vegetariano · Malai kofta de paneer y patata en salsa cremosa de anacardos con arroz basmati
+inv-557 · vegetariano · Canelones de setas y queso azul con bechamel y avellanas tostadas
+inv-558 · vegetariano · Baos al vapor con huevo, shiitake glaseado y pepino encurtido
+inv-559 · vegetariano · Pastel de choclo vegetariano con lentejas, huevo duro y aceitunas
+inv-560 · vegetariano · Tomates asados lentamente con huevos al horno, feta y pan de ajo
+inv-561 · vegano · Tofu kung pao con cacahuetes, pimientos y arroz jazmín
+inv-562 · vegano · Chana masala exprés con espinacas y naan tostado
+inv-563 · vegano · Fideos soba fríos con tofu al jengibre, pepino, edamame y aliño de miso
+inv-564 · vegano · Wraps de hummus de remolacha con garbanzos al comino, pepino y menta
+inv-565 · vegano · Heura al limón y ajo con espárragos trigueros y cuscús de perejil
+inv-566 · vegano · Quesadillas de alubias negras, maíz y espinacas con salsa de tomate asado
+inv-567 · vegano · Pipirrana de lentejas con pimientos, tomate, alcaparras y vinagreta de Jerez
+inv-568 · vegano · Tofu katsu al horno con ensalada de col y salsa tonkatsu casera
+inv-569 · vegano · Orecchiette con brócoli, garbanzos, ajo y guindilla con migas crujientes
+inv-570 · vegano · Bowl de quinoa con alubias negras, maíz tostado y pico de gallo con crema de anacardos a la lima
+inv-571 · vegano · Seitán en pepitoria con almendras y azafrán y patatas fritas en dados
+inv-572 · vegano · Shawarma de seitán al horno con pan de pita, gajos de patata, salsa de tahini y encurtidos
+inv-573 · vegano · Brochetas de tofu al limón y orégano con tzatziki vegetal y ensalada de tomate y pepino
+inv-574 · vegano · Moussaka vegana de lentejas pardinas con berenjena, patata y bechamel de soja
+inv-575 · vegano · Biryani de verduras con garbanzos, anacardos y raita de yogur vegetal
+inv-576 · vegano · Pimientos rojos rellenos de arroz, soja texturizada y piñones al horno
+inv-577 · vegano · Goulash húngaro de seitán con patata, pimentón y alcaravea
+inv-578 · vegano · Ratatouille al horno con alubias blancas y crujiente de pan al tomillo
+inv-579 · vegano · Enchiladas rojas de calabaza asada y alubias negras con salsa de chile guajillo
+inv-580 · vegano · Curry verde de tofu y berenjena con judías verdes y arroz jazmín
+inv-581 · vegano · Cocido vegano de garbanzos con verduras, tofu ahumado y sopa de fideos
+inv-582 · vegano · Dal makhani vegano de lentejas beluga y alubias rojas cocinado a fuego lento con arroz basmati
+inv-583 · vegano · Ragú de setas y lentejas al vino tinto con polenta cremosa al romero
+inv-584 · vegano · Sopa cubana de frijoles negros con comino, sofrito de pimientos y totopos al horno
+inv-585 · vegano · Olla gitana murciana de garbanzos, calabaza, judías verdes y pera con hierbabuena
+inv-586 · pasta-arroces · Espaguetis cacio e pepe con guisantes y ralladura de limón
+inv-587 · pasta-arroces · Fideos soba con langostinos, edamame y aliño de cítricos y soja
+inv-588 · pasta-arroces · Cuscús a la lima con gambas al pimentón ahumado, aguacate y maíz
+inv-589 · pasta-arroces · Udon salteados con cerdo picado, col y miso picante
+inv-590 · pasta-arroces · Orzo cremoso en una sartén con espinacas, feta y limón
+inv-591 · pasta-arroces · Penne con salsa rosa de pimientos del piquillo y atún
+inv-592 · pasta-arroces · Fideos de arroz al curry estilo Singapur con gambas y huevo
+inv-593 · pasta-arroces · Arroz chaufa peruano de pollo con jengibre y tortilla en tiras
+inv-594 · pasta-arroces · Kushari egipcio de lentejas, arroz y pasta con salsa de tomate al comino
+inv-595 · pasta-arroces · Risotto de espárragos trigueros y limón con vieiras a la plancha
+inv-596 · pasta-arroces · Linguine al pesto trapanese de almendras y tomate con burrata
+inv-597 · pasta-arroces · Quinoa a la mexicana en una sartén con alubias negras, maíz y cheddar fundido
+inv-598 · pasta-arroces · Tagliatelle con setas salteadas al tomillo y aceite de trufa
+inv-599 · pasta-arroces · Arroz del senyoret con calamar, rape y langostinos
+inv-600 · pasta-arroces · Mac and cheese al horno con cheddar, brócoli y costra de panko
+inv-601 · pasta-arroces · Khichdi de arroz basmati y lentejas rojas con tadka de comino y espinacas
+inv-602 · pasta-arroces · Arroz seco de secreto ibérico, setas y ajos tiernos
+inv-603 · pasta-arroces · Maqluba de pollo, berenjena y coliflor con arroz basmati especiado
+inv-604 · pasta-arroces · Arroz integral salteado con tempeh glaseado en teriyaki casera y kale
+inv-605 · pasta-arroces · Gallo pinto costarricense con huevo frito y pico de gallo
+inv-606 · pasta-arroces · Orzotto de cebada perlada con remolacha, queso de cabra y nueces
+inv-607 · pasta-arroces · Lasaña boloñesa de ragú lento con bechamel a la nuez moscada
+inv-608 · pasta-arroces · Arroz meloso de rabo de toro al vino tinto
+inv-609 · pasta-arroces · Pastitsio griego de macarrones con ragú de cordero a la canela
+inv-610 · pasta-arroces · Congee cantonés de arroz jazmín con pollo, jengibre y cebolleta
+inv-611 · sopas-cremas · Crema fría de aguacate y pepino con gambas a la lima y maíz tostado
+inv-612 · sopas-cremas · Stracciatella romana con pollo desmenuzado, espinacas y limón
+inv-613 · sopas-cremas · Kitsune udon con tofu dorado, huevo y wakame
+inv-614 · sopas-cremas · Caldo tlalpeño de pollo con garbanzos, chipotle y aguacate
+inv-615 · sopas-cremas · Gumbo de pollo y salchicha ahumada con arroz blanco
+inv-616 · sopas-cremas · Porrusalda con bacalao desalado y aceite de ajo
+inv-617 · sopas-cremas · Sopa de tomate asado con sándwich de cheddar fundido
+inv-618 · sopas-cremas · Crema de espárragos verdes con huevo mollet y jamón serrano crujiente
+inv-619 · sopas-cremas · Zuppa toscana de patata, kale y salchicha fresca
+inv-620 · sopas-cremas · Yayla çorbası con albóndigas de cordero y mantequilla a la menta
+inv-621 · sopas-cremas · Shorba de cordero con especias enteras y arroz basmati al comino
+inv-622 · sopas-cremas · Sopa de tomate y coco al curry con garbanzos y paneer dorado
+inv-623 · sopas-cremas · Jjamppong coreano de marisco con noodles y caldo picante
+inv-624 · sopas-cremas · Congee de pollo al jengibre con huevo marinado y ajo crujiente
+inv-625 · sopas-cremas · Jókai bableves: sopa húngara de alubias con codillo ahumado
+inv-626 · sopas-cremas · Borsch de remolacha con ternera, col y yogur al eneldo
+inv-627 · sopas-cremas · Chłodnik: crema fría de remolacha y yogur con huevo duro y eneldo
+inv-628 · sopas-cremas · Sopa al cuarto de hora con almejas, gambas, jamón y huevo duro
+inv-629 · sopas-cremas · Sancocho colombiano de pollo con mazorca, plátano macho y arroz
+inv-630 · sopas-cremas · Pozole rojo de cerdo con chile guajillo, rábano y tostadas
+inv-631 · sopas-cremas · Crema de boniato y miso con salmón glaseado y sésamo
+inv-632 · sopas-cremas · Caldo de miso y tomate con albóndigas de pollo al jengibre
+inv-633 · sopas-cremas · Revithada exprés: sopa griega de garbanzos al limón con romero y feta
+inv-634 · sopas-cremas · Lablabi: sopa tunecina de garbanzos con huevo, atún y harissa
+inv-635 · sopas-cremas · Crema de brócoli y cheddar con pollo a la plancha y picatostes
+inv-636 · legumbres · Hummus caliente con ternera picada especiada, piñones tostados y pita
+inv-637 · legumbres · Ensalada thai de edamame, mango y pepino con tofu ahumado y aliño de lima
+inv-638 · legumbres · Garbanzos a la sartén con huevo frito, piquillos y jamón serrano
+inv-639 · legumbres · Ensalada de judiones con bonito en conserva, piquillos y cebolleta al Jerez
+inv-640 · legumbres · Curry de huevos con lentejas rojas, tomate y leche de coco
+inv-641 · legumbres · Tacos de lentejas al chipotle con col lombarda encurtida y crema de lima
+inv-642 · legumbres · Rajma chawal: curry punjabi de alubias rojas con arroz basmati
+inv-643 · legumbres · Falafel verde al horno de habas y guisantes con ensalada de hierbas y salsa de tahini
+inv-644 · legumbres · Pasta e ceci a la romana con romero, ajo y limón
+inv-645 · legumbres · Gallo pinto con huevo frito y plátano macho dorado
+inv-646 · legumbres · Albóndigas de garbanzo y espinacas al horno en salsa de tomate especiada con yogur
+inv-647 · legumbres · Hamburguesas de lentejas y remolacha con queso de cabra sobre pan de centeno
+inv-648 · legumbres · Curry japonés de garbanzos con patata, zanahoria y manzana sobre arroz
+inv-649 · legumbres · Mongetes amb sípia: judías blancas guisadas con sepia y alioli suave
+inv-650 · legumbres · Cazuela griega de lentejas al horno con berenjena, feta y costra de pan al orégano
+inv-651 · legumbres · Red beans and rice: alubias rojas cajún con salchicha ahumada y arroz
+inv-652 · legumbres · Ensalada tibia de lentejas pardinas con magret de pato, naranja y canónigos
+inv-653 · legumbres · Lobio georgiano de alubias rojas con nueces, cilantro y vinagre
+inv-654 · legumbres · Bandeja de garbanzos y calabaza asados con feta, miel y tomillo
+inv-655 · legumbres · Berenjenas asadas rellenas de lentejas rojas al curry con yogur y cilantro
+inv-656 · legumbres · Lentejas pardinas con carrillada ibérica al vino tinto y zanahoria glaseada
+inv-657 · legumbres · Frijoles charros desde seco con bacon, chorizo y chile
+inv-658 · legumbres · Alubias blancas al horno estilo Boston con bacon, sirope de arce y mostaza
+inv-659 · legumbres · Lentejas beluga con pulpo a la plancha, aliño de soja, lima y jengibre y pimentón ahumado
+inv-660 · legumbres · Ghormeh sabzi: guiso persa de cordero con alubias rojas y hierbas
+inv-661 · ensaladas · Ensalada de judías blancas con sardinas en conserva, cebolleta, pimiento verde y vinagreta de Jerez
+inv-662 · ensaladas · Gỏi gà: ensalada vietnamita de pollo escalfado y col con cacahuetes, hierbas y aliño de lima
+inv-663 · ensaladas · Ensalada de espinacas y champiñones crudos con huevo mollet, bacon crujiente y vinagreta de mostaza antigua
+inv-664 · ensaladas · Poke de atún rojo con arroz de sushi, wakame, rábano, aguacate y mayonesa de sriracha
+inv-665 · ensaladas · Ensalada de halloumi a la plancha con melón, pepino, menta y pistachos con aliño de lima y miel
+inv-666 · ensaladas · Fattoush con pollo al zumaque, pan de pita crujiente y aliño de melaza de granada
+inv-667 · ensaladas · Ensalada templada de lentejas beluga con vieiras marcadas, setas salteadas y vinagreta de avellanas
+inv-668 · ensaladas · Bowl de alubias negras desde seco con boniato asado, maíz tostado, queso fresco y aliño cremoso de chipotle
+inv-669 · ensaladas · Ensalada de cebada perlada con pollo asado al limón, espárragos trigueros, guisantes y menta
+inv-670 · ensaladas · Som tam de zanahoria y pepino con gambas a la plancha, judías verdes y cacahuetes
+inv-671 · ensaladas · Ensalada kachumber con paneer tikka a la plancha y chutney de menta y yogur
+inv-672 · ensaladas · Ensalada templada de coles de Bruselas asadas con manzana, panceta crujiente, huevo frito y avellanas
+inv-673 · ensaladas · Bowl de contramuslos de pollo marinados dos horas en hierba limón con arroz jazmín, zanahoria encurtida y nuoc cham
+inv-674 · ensaladas · Ensalada de remolacha asada en papillote con garbanzos al ras el hanout, yogur y dukkah de avellanas
+inv-675 · ensaladas · Ensalada templada de pulpo con patata, tomate de rama, cebolleta y vinagreta de pimentón de la Vera
+inv-676 · ensaladas · Tagliata de entrecot sobre rúcula con tomate cherry asado, lascas de parmesano y patatas crujientes al romero
+inv-677 · ensaladas · Ensalada BLT de pollo crujiente al panko con lechuga romana, bacon, tomate y aliño ranchero de yogur
+inv-678 · ensaladas · Kısır turco de bulgur con pasta de pimiento y granada servido con albóndigas de pavo al comino
+inv-679 · ensaladas · Remojón granadino de bacalao desalado, naranja, aceitunas negras, cebolleta y huevo duro
+inv-680 · ensaladas · Ensalada de quinoa, edamame y tofu ahumado con aliño de miso y naranja
+inv-681 · ensaladas · Ensalada de caballa fresca marcada con patatas tibias, remolacha cocida, rábano y crema de mostaza y eneldo
+inv-682 · ensaladas · Ensalada de pollo a la brasa peruano marinado dos horas con maíz, aguacate, patata y salsa cremosa de ají amarillo
+inv-683 · ensaladas · Ensalada de caqui, canónigos, burrata y jamón ibérico con vinagreta de miel y mostaza y nueces tostadas
+inv-684 · ensaladas · Buddha bowl de tempeh glaseado al sirope de arce con boniato asado, kale masajeado, arroz integral y salsa de cacahuete
+inv-685 · ensaladas · Ensalada de pollo marinado dos horas en yogur y masala con arroz basmati frío, mango, pepino y chutney de cilantro
+inv-686 · olla-express · Crema de coliflor al curry con garbanzos crujientes y yogur al cilantro
+inv-687 · olla-express · Merluza al vapor sobre patatas y pimiento rojo con ajada gallega
+inv-688 · olla-express · Quinoa exprés con pollo al chimichurri, calabacín y feta
+inv-689 · olla-express · Sopa miso de tofu, fideos soba y shiitake con espinacas
+inv-690 · olla-express · Salmón teriyaki al vapor sobre arroz jazmín con brócoli en una sola olla
+inv-691 · olla-express · Crema de zanahoria y lentejas rojas con jengibre, naranja y yogur
+inv-692 · olla-express · Macarrones a la boloñesa exprés en una sola olla con parmesano
+inv-693 · olla-express · Korma de pollo con anacardos, cardamomo y arroz basmati
+inv-694 · olla-express · Kofta de pavo al comino en salsa de tomate y canela con cuscús y yogur a la menta
+inv-695 · olla-express · Lu rou fan de paleta de cerdo braseada con huevo marinado, pak choi y arroz
+inv-696 · olla-express · Picadillo cubano de ternera con aceitunas, pasas y arroz blanco
+inv-697 · olla-express · Harira marroquí de lentejas, garbanzos y ternera con dátiles y limón
+inv-698 · olla-express · Crema de guisantes y menta con huevo poché y jamón crujiente
+inv-699 · olla-express · Arroz meloso de langostinos y almejas con sofrito de ñora y azafrán
+inv-700 · olla-express · Pulpo estofado a la griega con cebollitas, vino tinto y orzo
+inv-701 · olla-express · Chili vegetal de alubias negras desde seco y boniato al chipotle
+inv-702 · olla-express · Chana masala de garbanzos con espinacas y pan naan tostado
+inv-703 · olla-express · Adobo filipino de contramuslos de pollo con vinagre, soja y ajo sobre arroz jazmín
+inv-704 · olla-express · Muslos de pato con lentejas beluga, naranja y tomillo
+inv-705 · olla-express · Minestrone de alubias blancas desde seco con pasta corta y pesto de albahaca
+inv-706 · olla-express · Kleftiko de paletilla de cordero con patatas, limón, orégano y feta gratinada
+inv-707 · olla-express · Cocido madrileño exprés de tres vuelcos con sopa de fideos
+inv-708 · olla-express · Pho bo exprés con caldo de huesos especiado, fideos de arroz y ternera cruda en láminas
+inv-709 · olla-express · Feijoada exprés de alubias negras con costilla, chorizo y bacon, arroz y kale al ajo
+inv-710 · olla-express · Sopa griega avgolemono de pollo y arroz con caldo casero y eneldo
+inv-711 · pescado · Merluza a la sartén con tomates cherry reventados, alcaparras y judías blancas al romero
+inv-712 · pescado · Salmón a la plancha con tabulé de perejil, menta y limón
+inv-713 · pescado · Ensalada de tomate, pepino y sandía con atún en conserva, feta y menta
+inv-714 · pescado · Bacalao fresco a la plancha con tzatziki de eneldo, ensalada de pepino y rábano y pan de pita
+inv-715 · pescado · Caballa fresca marcada con ensalada templada de garbanzos, piquillos y comino
+inv-716 · pescado · Dorada a la plancha con salsa vierge de tomate, albahaca y aceitunas sobre patatas y judías verdes
+inv-717 · pescado · Merluza al zaatar con ensalada shirazi de pepino y tomate y yogur al ajo
+inv-718 · pescado · Bocadillo tunecino de atún, huevo duro, patata, aceitunas y harissa
+inv-719 · pescado · Salmón con gremolata de naranja y avellanas sobre espárragos trigueros y guisantes
+inv-720 · pescado · Lomos de merluza al horno con costra de limón, ajo y perejil sobre calabacín y tomate
+inv-721 · pescado · Bacalao fresco a la siciliana con tomate, aceitunas, alcaparras, pasas y piñones
+inv-722 · pescado · Boquerones al horno con ajo, perejil y limón sobre patatas panadera finas
+inv-723 · pescado · Caballa a la plancha con peperonata de pimientos y alcaparras y patatas al orégano
+inv-724 · pescado · Atún rojo a la plancha con caponata rápida de berenjena, piñones y albahaca
+inv-725 · pescado · Pinchos de bacalao fresco al limón y pimentón con ensalada de cuscús, pepino y hierbas
+inv-726 · pescado · Merluza en salsa de almendras tostadas, ajo y vino blanco con patatas
+inv-727 · pescado · Dorada en papillote con limón, tomillo, aceitunas negras y tomate seco sobre patata fina
+inv-728 · pescado · Ratatouille exprés de calabacín y pimiento con bonito en conserva y huevo escalfado
+inv-729 · pescado · Bacalao plaki al horno con patatas, tomate, cebolla y aceitunas
+inv-730 · pescado · Sardinas al horno con migas de pan al limón, ajo y perejil sobre patatas y pimiento rojo
+inv-731 · pescado · Lubina al horno sobre patatas y alcachofas con limón, ajo y perejil
+inv-732 · pescado · Salmón asado sobre calabaza, cebolla morada y garbanzos al comino con yogur al eneldo
+inv-733 · pescado · Jurel al horno con verduras asadas al tomillo y bulgur al limón
+inv-734 · pescado · Bonito fresco confitado al horno con ajo, limón y romero, patatas asadas y ensalada de tomate
+inv-735 · pescado · Caballa marinada en chermoula y asada con cuscús de zanahoria, pasas y cilantro
+inv-736 · pescado · Gambas saganaki al horno con tomate, feta, orégano y pan tostado al ajo
+inv-737 · pescado · Tostas de sardinas en conserva con tomate rallado, alcaparras y ensalada de hinojo y naranja
+inv-738 · pescado · Pulpo al horno a la griega con patatas, tomate cherry, aceitunas y orégano
+inv-739 · pescado · Calamares rellenos de sus patas, pan, piñones y menta en salsa de tomate al vino blanco
+inv-740 · pescado · Ensalada tibia de garbanzos con mejillones en escabeche, piquillos, espinacas y comino
+inv-741 · pescado · Patatas asadas rellenas de atún, aceitunas y alcaparras con yogur al limón
+inv-742 · pescado · Sepia a la plancha con ajo, perejil y limón y patatas asadas al romero
+inv-743 · pescado · Almejas a la marinera con pimentón y vino blanco, pan para mojar y ensalada de tomate
+inv-744 · pescado · Mejillones gratinados con pan rallado, ajo, limón y perejil con ensalada de rúcula y judías blancas
+inv-745 · pescado · Langostinos al horno con chermoula sobre garbanzos especiados y pimiento rojo
+inv-746 · pescado · Tabulé de bulgur con caballa en conserva, granada, menta y zumaque
+inv-747 · pescado · Fattoush con atún en conserva, rábanos, zumaque y pan de pita crujiente
+inv-748 · pescado · Pimientos rojos rellenos de bonito, huevo duro y aceitunas al horno con salsa de tomate al orégano
+inv-749 · pescado · Frittata de calabacín, gambas y menta con ensalada de tomate al orégano
+inv-750 · pescado · Pulpo a la plancha sobre crema de garbanzos al limón con pimentón ahumado
+inv-751 · pescado · Escalivada al horno con anchoas, huevo duro y pan con tomate
+inv-752 · pescado · Calamar a la plancha con ensalada griega tibia de pepino, tomate, feta y orégano
+inv-753 · pescado · Brochetas de langostinos y calabacín con salsa verde de alcaparras y patatas nuevas
+inv-754 · pescado · Sepia estofada a fuego lento con tomate, vino blanco, romero y patatas
+inv-755 · pescado · Caponata siciliana con atún en conserva, piñones tostados y pan crujiente
+inv-756 · pescado · Tiella de patata, tomate y sardinas en conserva al horno con orégano y costra de pan
+inv-757 · pescado · Pitas de calamar a la plancha con tzatziki, tomate, cebolla morada y pimentón
+inv-758 · pescado · Berenjenas asadas rellenas de atún, tomate y orégano gratinadas con mozzarella
+inv-759 · pescado · Tostas de centeno con caballa en conserva, crema de yogur al eneldo, pepino y rábano
+inv-760 · pescado · Gambas a la toscana con alubias blancas, tomate cherry, salvia y espinacas
+inv-761 · carnes · Pechugas de pollo al limón y orégano con orzo cremoso, espinacas y feta
+inv-762 · carnes · Conejo al ajillo con romero, guindilla y pimientos rojos asados
+inv-763 · carnes · Pierna de cordero asada lenta con romero, ajo y alubias blancas al limón
+inv-764 · carnes · Bandeja de souvlaki de lomo de cerdo con pimientos, cebolla morada y patatas al limón
+inv-765 · carnes · Keftedes griegos de cerdo con menta al horno, ensalada de pepino y tomate y pan de pita
+inv-766 · carnes · Contramuslos de pollo al zumaque con cebolla morada confitada, almendras y pan de pita
+inv-767 · carnes · Filetes de pavo con salsa verde de alcaparras y perejil, calabacín a la plancha y cuscús al limón
+inv-768 · carnes · Pollo a la puttanesca exprés con cherrys reventados, aceitunas negras, alcaparras y albahaca
+inv-769 · carnes · Solomillo de cerdo con costra de pistachos y hierbas, calabaza asada a la miel y yogur al ajo
+inv-770 · carnes · Stifado de ternera con cebollitas, canela y vino tinto con patatas
+inv-771 · carnes · Pinchitos morunos de pollo con ensalada de tomate, pimientos asados y comino
+inv-772 · carnes · Contramuslos de pollo con sobrasada y miel al horno sobre patatas y cebolla
+inv-773 · carnes · Pollo a la romana con alcachofas, habas y menta al vino blanco
+inv-774 · carnes · Pechuga de pollo rellena de espinacas, ricotta y tomate seco con ensalada de rúcula y cherrys
+inv-775 · carnes · Giouvetsi de cordero con orzo al horno, tomate, canela y feta
+inv-776 · carnes · Contramuslos de pollo al horno con hinojo, naranja y aceitunas verdes
+inv-777 · carnes · Pavo salteado con calabacín, limón, menta y piñones tostados sobre bulgur
+inv-778 · carnes · Pollo a la chermoula con ensalada de zanahoria y naranja y cuscús especiado
+inv-779 · carnes · Tavuk şiş: brochetas turcas de pollo al yogur y pimentón con ensalada de pastor
+inv-780 · carnes · Pollo al limón con judías verdes, almendras tostadas, eneldo y patatas nuevas
+inv-781 · carnes · Filetes de lomo de cerdo al tomillo y limón con garbanzos salteados, piquillos y espinacas
+inv-782 · carnes · Medallones de solomillo de ternera con salmoriglio de limón y orégano y patatas al romero
+inv-783 · carnes · Hummus caliente con ternera picada especiada, piñones y pan de pita
+inv-784 · carnes · Contramuslos de pollo al horno sobre briam de berenjena, calabacín y tomate con feta
+inv-785 · carnes · Brochetas de pierna de cordero al comino con berenjena asada, yogur al eneldo y pan de pita
+inv-786 · legumbres · Ensalada templada de garbanzos con tomate cherry salteado, alcaparras, limón y albahaca
+inv-787 · legumbres · Alubias blancas salteadas con gambas al ajillo, limón y perejil
+inv-788 · legumbres · Lentejas tibias con calabacín a la plancha, ricotta, menta y limón
+inv-789 · legumbres · Salteado de garbanzos con atún, tomate seco, rúcula y limón
+inv-790 · legumbres · Panzanella de alubias blancas con tomate, pepino, cebolla morada y albahaca
+inv-791 · legumbres · Crema untable de habas y menta con huevo duro, rábanos y pan tostado
+inv-792 · legumbres · Msabbaha: garbanzos calientes sobre hummus con tomate, perejil y aceite al pimentón
+inv-793 · legumbres · Lentejas tibias con caballa en conserva, tomate, eneldo y yogur al limón
+inv-794 · legumbres · Fasolada exprés: sopa griega de alubias blancas con apio, zanahoria, tomate y limón
+inv-795 · legumbres · Cazuelita de garbanzos con langostinos, espinacas, pimentón y azafrán
+inv-796 · legumbres · Alubias blancas con mejillones al vino blanco, tomate cherry y perejil
+inv-797 · legumbres · Lentejas con orzo, espinacas, limón y parmesano en una sola olla
+inv-798 · legumbres · Vignarola de habas, guisantes y alcachofas estofadas con menta y huevo poché
+inv-799 · legumbres · Gigantes plaki: judiones al horno con tomate, eneldo y feta
+inv-800 · legumbres · Lentejas beluga con salmón al horno, hinojo asado y salsa verde de alcaparras
+inv-801 · legumbres · Tortitas de garbanzo y calabacín al horno con yogur a la menta y ensalada de tomate
+inv-802 · legumbres · Sartén de garbanzos y contramuslos de pollo al limón con aceitunas verdes y orégano
+inv-803 · legumbres · Ribollita toscana de alubias, kale y pan con aceite de oliva nuevo
+inv-804 · legumbres · Fava de Santorini: puré de guisantes amarillos con cebolla, alcaparras y pita tostada
+inv-805 · legumbres · Fatteh de garbanzos con pita crujiente, yogur al ajo y almendras tostadas
+inv-806 · legumbres · Adas bi hamod: lentejas al limón con acelgas, comino y ajo frito
+inv-807 · legumbres · Habas a la catalana con butifarra, panceta, menta y vino blanco
+inv-808 · legumbres · Pimientos rojos asados rellenos de lentejas, tomate, feta y menta
+inv-809 · legumbres · Alubias blancas al horno con salchicha fresca, tomate y salvia
+inv-810 · legumbres · Cordero estofado al horno lento con garbanzos, berenjena, tomate y canela
+inv-811 · vegetariano · Menemen turco de pimiento verde y tomate con feta y pan tostado
+inv-812 · vegetariano · Frittata de espárragos trigueros, guisantes y menta con ricotta al limón
+inv-813 · vegetariano · Spanakopita fácil en bandeja con espinacas, feta, eneldo y cebolleta
+inv-814 · vegetariano · Huevos al plato con champiñones al ajillo, perejil y parmesano
+inv-815 · vegetariano · Parmigiana de berenjena asada sin freír con mozzarella y albahaca
+inv-816 · vegetariano · Brochetas de halloumi, calabacín y tomate cherry con salsa verde de alcaparras y bulgur
+inv-817 · vegetariano · Tumbet mallorquín al horno con huevos al plato
+inv-818 · vegetariano · Shakshuka de berenjena ahumada y tomate con huevos, yogur al ajo y cilantro
+inv-819 · vegetariano · Tarta salada de hojaldre con puerro, feta, eneldo y huevo
+inv-820 · vegetariano · Gratín de calabacín y tomate al tomillo con ricotta y parmesano
+inv-821 · vegetariano · Sabich: pitas de berenjena dorada, huevo duro, tahini y ensalada picada
+inv-822 · vegetariano · Bouyiourdi griego: feta al horno con tomate, pimiento y orégano y huevos
+inv-823 · vegetariano · Frittata de espaguetis con tomate seco, albahaca y parmesano
+inv-824 · vegetariano · Escalivada al horno con huevos al plato y queso de cabra gratinado
+inv-825 · vegetariano · Barquitas de calabacín rellenas de ricotta, limón y menta con costra de almendra
+inv-826 · vegetariano · Tortilla de patatas al horno con pimientos asados y alioli de yogur
+inv-827 · vegetariano · Espárragos verdes y patatas nuevas asados con huevo mollet, parmesano y piñones
+inv-828 · vegetariano · Huevos escalfados sobre ragú de alcachofas, habas y guisantes a la menta
+inv-829 · vegetariano · Tostadas griegas de tomate rallado, huevo poché, feta y orégano
+inv-830 · vegetariano · Gemista: tomates y pimientos rellenos de arroz con hierbas y feta al horno
+inv-831 · vegetariano · Garbanzos crujientes al comino con espinacas, huevos fritos y yogur al limón
+inv-832 · vegetariano · Pizzas de pan de pita con tomate, mozzarella, aceitunas, huevo y rúcula
+inv-833 · vegetariano · Brócoli asado con huevo mollet, parmesano, limón y migas de almendra
+inv-834 · vegetariano · Uova in purgatorio con burrata, albahaca y pan tostado al ajo
+inv-835 · vegetariano · Strata de pan, tomate cherry, mozzarella y albahaca al horno
+inv-836 · vegetariano · Pisto exprés de calabacín y pimientos con burrata y tostadas al ajo
+inv-837 · vegetariano · Setas salteadas al ajo y tomillo con garbanzos, yogur al eneldo y pan de pita
+inv-838 · vegetariano · Sartén griega de tomates cherry, garbanzos y aceitunas con feta al orégano
+inv-839 · vegetariano · Espárragos trigueros salteados con judías blancas, limón, parmesano y piñones
+inv-840 · vegetariano · Calabacín dorado y garbanzos al zaatar sobre labneh rápido de limón y menta
+inv-841 · vegetariano · Halloumi a la sartén con pimientos de colores, alcaparras y menta sobre cuscús al limón
+inv-842 · vegetariano · Alcachofas doradas con alubias blancas, ricotta al limón y gremolata de perejil
+inv-843 · vegetariano · Pitas-pizza crujientes de berenjena a la plancha, tomate, mozzarella y orégano
+inv-844 · vegetariano · Rollitos de berenjena rellenos de ricotta y espinacas al horno con salsa de tomate y albahaca
+inv-845 · vegetariano · Coliflor a la siciliana al horno con alubias blancas, pasas, alcaparras y costra de parmesano
+inv-846 · vegetariano · Calabaza asada al romero sobre ricotta con farro, salvia crujiente y avellanas
+inv-847 · vegetariano · Hinojo y puerros asados al limón con huevos al horno, feta y eneldo
+inv-848 · vegetariano · Alcachofas y habas salteadas con ajos tiernos, menta y queso fresco sobre tostada
+inv-849 · vegetariano · Setas portobello rellenas de espinacas, ricotta y nueces con tomates asados al tomillo
+inv-850 · vegetariano · Bandeja de espárragos verdes, patatas nuevas y tomates cherry con feta al limón y eneldo
+inv-851 · vegetariano · Zaalouk marroquí de berenjena y tomate con garbanzos, yogur al comino y pan de pita
+inv-852 · vegetariano · Gemistá griegos: tomates y pimientos rellenos de arroz a las hierbas con feta
+inv-853 · vegetariano · Hünkar beğendi vegetariano: crema de berenjena ahumada y queso con garbanzos guisados al pimentón
+inv-854 · vegetariano · Tian provenzal de calabacín, tomate y berenjena con queso de cabra y tomillo
+inv-855 · vegetariano · Caponata siciliana con piñones, pasas y burrata
+inv-856 · vegetariano · Escalivada al horno con queso de cabra gratinado, nueces y miel sobre pan tostado
+inv-857 · vegetariano · Gratinado de calabaza, garbanzos y espinacas con bechamel de yogur y feta
+inv-858 · vegetariano · Fasolakia: judías verdes guisadas en aceite y tomate con patata, eneldo y feta
+inv-859 · vegetariano · Tumbet mallorquín al horno sin freír con queso de cabra gratinado
+inv-860 · vegetariano · Briam griego de verduras asadas lentamente con feta y orégano
+inv-861 · vegano · Garbanzos salteados al zaatar con espinacas, tomate cherry y crema de tahini al limón
+inv-862 · vegano · Tofu desmigado a la sartén con tomate seco, alcaparras y albahaca sobre pan tostado al ajo
+inv-863 · vegano · Orzo al limón con judías blancas, rúcula y pistachos tostados
+inv-864 · vegano · Lentejas con cintas de calabacín crudo, tomate seco, alcaparras y aliño de albahaca
+inv-865 · vegano · Heura al zumaque con ensalada fattoush y pan de pita crujiente
+inv-866 · vegano · Espaguetis a la puttanesca con garbanzos crujientes y pan rallado al ajo
+inv-867 · vegano · Cuscús de hierbas con tempeh dorado al limón, calabacín y almendras
+inv-868 · vegano · Tostas de crema de alubias blancas con tomate rallado, alcaparras y aceite de albahaca
+inv-869 · vegano · Mujaddara de bulgur y lentejas con cebolla crujiente y ensalada de pepino a la menta
+inv-870 · vegano · Tofu al horno con tomates cherry, aceitunas, limón y orégano y patatas nuevas al romero
+inv-871 · vegano · Fideuá vegana de alcachofas, ajos tiernos y garbanzos al azafrán con allioli
+inv-872 · vegano · Sopa toscana de alubias blancas con kale, romero y pan tostado al ajo
+inv-873 · vegano · Tempeh encebollado al vino blanco con tomillo y patatas a lo pobre
+inv-874 · vegano · Tabulé de quinoa con garbanzos, pepino, tomate, menta y vinagreta de zumaque
+inv-875 · vegano · Risotto de espárragos trigueros, guisantes y judías blancas al limón y menta
+inv-876 · vegano · Köfte de lentejas rojas y bulgur en hojas de lechuga con limón y granada
+inv-877 · vegano · Pasta corta al pesto trapanese de tomate, almendra y albahaca con garbanzos
+inv-878 · vegano · Bandeja de garbanzos, hinojo, cebolla morada y cherry asados al limón y tomillo con tahini
+inv-879 · vegano · Seitán a la griega al limón y orégano con patatas asadas al limón y ensalada de pepino
+inv-880 · vegano · Tumbet mallorquín al horno con garbanzos y salsa de tomate al tomillo
+inv-881 · vegano · Calabacines rellenos de bulgur, garbanzos, menta y piñones al horno
+inv-882 · vegano · Fasolakia: judías verdes guisadas con tomate, patata, garbanzos y eneldo
+inv-883 · vegano · Arroz al horno vegano con garbanzos, tofu ahumado, patata y cabeza de ajos
+inv-884 · vegano · Judiones al horno a la griega con tomate, eneldo y orégano
+inv-885 · vegano · Briam griego de verduras asadas a fuego lento con garbanzos, eneldo y almendras
+inv-886 · ensaladas · Horiatiki con sardinas en conserva, alcaparras y pan tostado al orégano
+inv-887 · ensaladas · Ensalada de cuscús al limón con gambas al ajillo templadas, perejil y almendras tostadas
+inv-888 · ensaladas · Ensalada de lentejas con tomate seco, rúcula, huevo duro y vinagreta de alcaparras y orégano
+inv-889 · ensaladas · Ensalada de higos frescos, jamón serrano y queso de cabra con nueces y vinagreta de tomillo
+inv-890 · ensaladas · Ensalada de tomates maduros y melocotón con mozzarella, anchoas y picatostes al ajo
+inv-891 · ensaladas · Çoban salatası con pollo al zumaque, pan de pita tostado y yogur al ajo
+inv-892 · ensaladas · Ensalada andaluza templada de garbanzos y espinacas con huevo y vinagreta de comino y pimentón
+inv-893 · ensaladas · Ensalada de calamar a la plancha con rúcula, tomate cherry, alcaparras y aliño de limón y perejil
+inv-894 · ensaladas · Panzanella de pan tostado, tomate y pimiento asado con huevo duro y anchoas
+inv-895 · ensaladas · Ensalada de mujaddara: lentejas y arroz especiados con cebolla crujiente, pepino y yogur a la menta
+inv-896 · ensaladas · Tabulé de bulgur con mucho perejil y brochetas de pollo al limón y ajo
+inv-897 · ensaladas · Ensalada templada de lubina a la plancha con patata nueva, judías verdes y salsa verde de alcaparras
+inv-898 · ensaladas · Ensalada de pasta con pesto de rúcula y nueces, pollo a la plancha, tomate cherry y aceitunas
+inv-899 · ensaladas · Ensalada de arroz integral con caballa, pimientos del piquillo, aceitunas verdes y vinagreta de pimentón
+inv-900 · ensaladas · Ensalada templada de contramuslos de pollo al romero con uvas asadas, queso de cabra y nueces
+inv-901 · ensaladas · Ensalada de calabacín a la plancha con ricotta al limón, garbanzos, menta y almendras
+inv-902 · ensaladas · Esqueixada de bacalao con judías blancas, tomate, pimientos y aceitunas negras
+inv-903 · ensaladas · Ensalada de escalivada con huevo duro, anchoas y pan tostado con tomate
+inv-904 · ensaladas · Ensalada de coliflor asada a la siciliana con alcaparras, pasas, almendras y huevo duro
+inv-905 · ensaladas · Ensalada de pollo asado al limón y orégano con patatas, aceitunas y yogur al ajo
+inv-906 · ensaladas · Ensalada de quinoa con salmón al horno, calabacín y pimiento asados, eneldo y yogur al limón
+inv-907 · ensaladas · Ensalada de alcachofas asadas y langostinos a la plancha con rúcula, lascas de parmesano y limón
+inv-908 · ensaladas · Ensalada provenzal de verduras asadas y patata con huevo duro y aliño de tapenade
+inv-909 · ensaladas · Ensalada de pan y pollo asado lentamente al limón y tomillo con rúcula, piñones y pasas
+inv-910 · ensaladas · Ensalada de cordero asado lento al romero con judías blancas, tomate cherry asado y salsa verde de menta
+inv-911 · pasta-arroces · Espaguetis aglio, olio e peperoncino con gambas, perejil y ralladura de limón
+inv-912 · pasta-arroces · Linguine alla puttanesca con caballa, aceitunas negras y alcaparras
+inv-913 · pasta-arroces · Rigatoni alla norma con berenjena asada, tomate, albahaca y ricotta
+inv-914 · pasta-arroces · Espaguetis con sardinas en conserva, tomate cherry, limón y migas crujientes al orégano
+inv-915 · pasta-arroces · Fusilli con pesto de rúcula y nueces, pollo a la plancha y tomate cherry
+inv-916 · pasta-arroces · Pasta corta con pesto de pistachos y menta, calabacín salteado y ricotta al limón
+inv-917 · pasta-arroces · Orzo al horno a la griega con gambas, tomate, feta y eneldo
+inv-918 · pasta-arroces · Orzo tostado con pollo al orégano, judías verdes y limón
+inv-919 · pasta-arroces · Gnocchi al horno en bandeja con tomates cherry, pimiento, aceitunas y mozzarella
+inv-920 · pasta-arroces · Cuscús perlado con verduras asadas, garbanzos al zaatar y yogur al limón
+inv-921 · pasta-arroces · Macarrones al horno con berenjena, ragú de pavo al orégano y mozzarella
+inv-922 · pasta-arroces · Penne con verduras asadas al romero, ajo confitado y queso de cabra
+inv-923 · pasta-arroces · Linguine con mejillones al vino blanco, tomate y perejil
+inv-924 · pasta-arroces · Rigatoni con rape, tomate cherry, aceitunas verdes y alcaparras
+inv-925 · pasta-arroces · Pasta alla genovese con pesto de albahaca y piñones, patata y judías verdes
+inv-926 · pasta-arroces · Tagliatelle con langostinos, calabacín, azafrán y ralladura de limón
+inv-927 · pasta-arroces · Rigatoni con ragú blanco de cerdo al hinojo, vino blanco y romero
+inv-928 · pasta-arroces · Pasta corta con tomates asados lentamente, ajo confitado y ricotta al tomillo
+inv-929 · pasta-arroces · Fideos rossejats con setas, butifarra y alioli suave
+inv-930 · pasta-arroces · Macarrones al horno con chorizo, pimiento y tomate al pimentón
+inv-931 · pasta-arroces · Fideos caldosos marineros con merluza, almejas y azafrán
+inv-932 · pasta-arroces · Pasta corta a la turca con cordero especiado, yogur al ajo y mantequilla de pimentón
+inv-933 · pasta-arroces · Makarouna tunecina con harissa, garbanzos y huevos cuajados en la salsa
+inv-934 · pasta-arroces · Linguine con calamar salteado, tomate cherry y gremolata de limón y alcaparras
+inv-935 · pasta-arroces · Pasta corta a la vignarola con alcachofas, habas, menta y huevo poché
+inv-936 · pasta-arroces · Cuscús de perejil y limón con sardinas, tomate y alcaparras
+inv-937 · pasta-arroces · Cuscús con pollo al zaatar, pepino, tomate y yogur al ajo
+inv-938 · pasta-arroces · Bulgur con langostinos, tomate cherry, feta y orégano al estilo griego
+inv-939 · pasta-arroces · Cuscús de albahaca con atún, aceitunas negras y tomate seco
+inv-940 · pasta-arroces · Bulgur con mejillones al vino blanco, tomate y perejil
+inv-941 · pasta-arroces · Cuscús con merluza al vapor de limón, hinojo y aceitunas verdes
+inv-942 · pasta-arroces · Bulgur al estilo turco con pavo especiado, pimiento rojo y yogur a la menta
+inv-943 · pasta-arroces · Cuscús con garbanzos crujientes al pimentón, espinacas, naranja y almendras
+inv-944 · pasta-arroces · Bulgur fino con calamar a la plancha, tomate rallado, perejil y limón
+inv-945 · pasta-arroces · Risotto fácil de calabacín, limón y ricotta con albahaca
+inv-946 · pasta-arroces · Fideuá de pollo y alcachofas al romero con alioli de limón
+inv-947 · pasta-arroces · Arroz meloso de sepia con alcachofas y pimentón ahumado
+inv-948 · pasta-arroces · Pilaf de arroz con pollo al limón, aceitunas verdes y orégano
+inv-949 · pasta-arroces · Farro salteado con setas al tomillo, espinacas y huevo poché
+inv-950 · pasta-arroces · Risotto de tomate asado y albahaca con burrata
+inv-951 · pasta-arroces · Arroz de langostinos y espárragos verdes en sartén con ralladura de limón
+inv-952 · pasta-arroces · Risotto de pollo, puerro y champiñones al tomillo
+inv-953 · pasta-arroces · Arroz caldoso marinero de merluza, tomate e hinojo al azafrán
+inv-954 · pasta-arroces · Arroz al horno con pollo al limón, tomate y aceitunas a la griega
+inv-955 · pasta-arroces · Farro al horno con berenjena, tomates cherry, mozzarella y albahaca
+inv-956 · pasta-arroces · Arroz al horno de bacalao, piquillos y aceitunas negras
+inv-957 · pasta-arroces · Arroz meloso al horno de salmón, puerro, limón y eneldo
+inv-958 · pasta-arroces · Pilaf de arroz basmati con cordero al comino, pistachos y menta
+inv-959 · pasta-arroces · Contramuslos de pollo al horno lento sobre arroz al pimentón, ajos enteros y romero
+inv-960 · pasta-arroces · Farro con ossobuco de ternera braseado al limón y gremolata de perejil
+inv-961 · sopas-cremas · Gazpacho de sandía y tomate con langostinos a la plancha, feta y menta
+inv-962 · sopas-cremas · Salmorejo de tomate y piquillos con atún, huevo duro y aceitunas negras
+inv-963 · sopas-cremas · Ajoblanco de almendra con caballa, manzana verde y cebollino
+inv-964 · sopas-cremas · Crema fría de calabacín y yogur con garbanzos al zaatar y menta
+inv-965 · sopas-cremas · Gazpacho verde de pepino, pimiento y albahaca con huevo mollet y almendras
+inv-966 · sopas-cremas · Sopa de tomate asado y albahaca con albóndigas de ricotta y parmesano
+inv-967 · sopas-cremas · Minestrone de primavera con habas, guisantes, espárragos y pesto de menta
+inv-968 · sopas-cremas · Crema de berenjena asada al estilo baba ganoush con cordero especiado y piñones
+inv-969 · sopas-cremas · Sopa de merluza al hinojo y naranja con patata y aceitunas negras
+inv-970 · sopas-cremas · Zuppa di ceci: sopa de garbanzos al romero con pan tostado al ajo y parmesano
+inv-971 · sopas-cremas · Crema de pimiento rojo asado y almendras con huevos poché y feta al orégano
+inv-972 · sopas-cremas · Fakes: sopa griega de lentejas con laurel, orégano, vinagre y feta
+inv-973 · sopas-cremas · Sopa de pollo al limón con orzo, espinacas y eneldo
+inv-974 · sopas-cremas · Crema de alcachofas y patata al limón con jamón serrano crujiente
+inv-975 · sopas-cremas · Sopa de mejillones al tomate, ajo y guindilla con pan tostado
+inv-976 · sopas-cremas · Bissara de habas y guisantes con comino, huevo duro y aceite de pimentón
+inv-977 · sopas-cremas · Pappa al pomodoro con burrata, albahaca y aceite de oliva crudo
+inv-978 · sopas-cremas · Crema de zanahoria asada al comino con garbanzos especiados, tahini y yogur
+inv-979 · sopas-cremas · Sopa de cordero y alubias al romero cocinada lenta en el horno con gremolata de limón
+inv-980 · sopas-cremas · Sopa de pollo asado con tomate, pimiento, ajo confitado y fideos al tomillo
+inv-981 · sopas-cremas · Sopa exprés de alubias blancas y atún con tomate cherry, alcaparras y limón
+inv-982 · sopas-cremas · Crema de brócoli y almendras al limón con huevo duro y migas al ajo
+inv-983 · sopas-cremas · Sopa de tortellini con tomate al ajo, espinacas, judías blancas y parmesano
+inv-984 · sopas-cremas · Gazpacho de fresas y tomate con queso fresco, pistachos y albahaca
+inv-985 · sopas-cremas · Sopa de calamar a la ligur con patata, guisantes y aceite de albahaca
+inv-986 · olla-express · Crema de calabacín y judías blancas con albahaca, ralladura de limón y almendras tostadas
+inv-987 · olla-express · Merluza a la siciliana con tomate cherry, alcaparras y aceitunas sobre patatas al vapor
+inv-988 · olla-express · Orzo exprés con langostinos, tomate, feta y eneldo al estilo griego
+inv-989 · olla-express · Pollo al limón y orégano con bulgur, tomate y pimiento rojo en una olla
+inv-990 · olla-express · Garbanzos guisados con espinacas, eneldo, limón y feta desmigada
+inv-991 · olla-express · Crema de hinojo, puerro y patata con salmón ahumado, eneldo y ralladura de naranja
+inv-992 · olla-express · Sopa de pescado exprés con hinojo, piel de naranja y azafrán
+inv-993 · olla-express · Briam exprés de calabacín, patata y garbanzos con feta y orégano
+inv-994 · olla-express · Arroz caldoso de calamar, judías verdes y pimiento rojo al pimentón
+inv-995 · olla-express · Sepia con garbanzos, tomate y hierbabuena
+inv-996 · olla-express · Contramuslos de pollo a la provenzal con judías blancas, aceitunas negras y romero
+inv-997 · olla-express · Alcachofas a la romana con patatas nuevas, menta y huevo cocido
+inv-998 · olla-express · Lentejas pardinas con berenjena, tomate y menta al estilo turco
+inv-999 · olla-express · Albóndigas de ternera y ricotta en salsa de tomate al tomillo con judías verdes
+inv-1000 · olla-express · Risotto exprés de limón, guisantes y gambas con menta
+inv-1001 · olla-express · Fasolakia: judías verdes guisadas con tomate, patata y feta a la griega
+inv-1002 · olla-express · Farro con pollo, setas y tomillo al estilo toscano
+inv-1003 · olla-express · Estofado ligero de ternera con alcachofas, guisantes y limón al eneldo
+inv-1004 · olla-express · Cordero guisado con berenjena, tomate y canela al estilo turco
+inv-1005 · olla-express · Pulpo guisado con garbanzos, pimentón de la Vera y comino
+inv-1006 · olla-express · Judías blancas a la toscana con salchicha, salvia y tomate
+inv-1007 · olla-express · Conejo a la cacciatora con romero, aceitunas negras, vino blanco y patatas
+inv-1008 · olla-express · Pollo con garbanzos, orejones y ras el hanout al estilo tajín con cuscús
+inv-1009 · olla-express · Fasolada griega desde seco con remojo exprés, apio, zanahoria y limón
+inv-1010 · olla-express · Jarretes de cordero al vino tinto, romero y ajo con puré de judías blancas al limón
+car-01 · carnes · Dados de pollo sobre cremoso de queso griego
+car-02 · carnes · Ssam de cerdo con almendras
+car-03 · carnes · Ssam de pollo en marinado oriental
+car-04 · carnes · Moussaka griega de ternera y berenjena
+car-05 · carnes · Lasaña de calabacín y carne de ternera
+car-06 · carnes · Pollo asado con miel y tomillo
+car-07 · carnes · Pollo con patatas y queso griego
+car-08 · carnes · Salteado de pollo con brócoli, pimiento y anacardos
+car-09 · carnes · Berenjenas rellenas
+car-10 · carnes · Estofado de pollo con zanahoria, apio y patatas al tomillo
+car-11 · carnes · Salteado de solomillo de cerdo con brócoli, cebolla, anacardos, sésamo y miel
+car-12 · carnes · Pollo a la naranja al horno
+car-13 · carnes · Kefta de ternera
+ens-01 · ensaladas · Ensalada de hinojo, gambas y calamar
+ens-02 · ensaladas · Carpaccio de higos con aliño de lima
+ens-03 · ensaladas · Ensalada de albaricoque con mozzarella y aderezo de naranja
+ens-04 · ensaladas · Carpaccio de tomate con mozzarella, higos frescos, albahaca, chile y sésamo
+ens-05 · ensaladas · Ensalada de tomate y fresa con feta y hierbabuena
+ens-06 · ensaladas · Ensalada de pepino y rábano con bonito
+ens-07 · ensaladas · Ensalada niçoise
+ens-08 · ensaladas · Ensalada césar con pollo a la plancha
+ens-09 · ensaladas · Laab gai tailandés de pollo
+ens-10 · ensaladas · Ensalada marroquí crujiente de pimientos, cebolla, apio y hierbas frescas
+ens-11 · ensaladas · Ensalada de uvas al horno, queso burrata y granada
+ens-12 · ensaladas · Ensalada de bayas y queso de cabra con miel
+ens-13 · ensaladas · Ensalada extremeña de limón, naranja, chorizo y huevo
+ens-14 · ensaladas · Ensalada tibia de berenjena y pimiento rojo asados
+inv-01 · pescado · Bol de salmón glaseado al miso con quinoa y edamame
+inv-02 · legumbres · Garbanzos crujientes al pimentón con labneh de yogur
+inv-03 · vegano · Tacos de coliflor al chipotle con crema de aguacate y lima
+inv-04 · carnes · Pollo al limón y tomillo en papillote
+inv-05 · legumbres · Curry verde thai de lentejas rojas y espinacas
+inv-06 · ensaladas · Ensalada tibia de quinoa, boniato asado y kale
+inv-07 · pescado · Merluza en salsa verde ligera con guisantes
+inv-08 · olla-express · Ragú de ternera y champiñones en olla exprés
+inv-09 · vegano · Berenjena glaseada al miso con tofu crujiente
+inv-10 · carnes · Albóndigas de pavo y calabacín con salsa de yogur a la menta
+leg-01 · legumbres · Lentejas estofadas con verduras
+leg-02 · legumbres · Sopa asiática de garbanzos y langostinos
+leg-03 · legumbres · Guiso de judías blancas con tofu crujiente
+leg-04 · legumbres · Brócoli braseado con cremoso de judías y anacardos
+leg-05 · legumbres · Koftas caseras de bulgur y lentejas
+leg-06 · legumbres · Guiso cremoso de lentejas con champiñones
+leg-07 · legumbres · Boloñesa de garbanzos asados y verduras
+leg-08 · legumbres · Chana masala: curry de langostinos, garbanzos y calabaza
+oll-01 · olla-express · Estofado de ternera
+oll-02 · olla-express · Lentejas a la riojana
+oll-03 · olla-express · Arroz con lentejas
+oll-04 · olla-express · Pollo a la cerveza
+oll-05 · olla-express · Pavo al curry
+oll-06 · olla-express · Carrillada al vino
+oll-07 · olla-express · Crema de calabaza con nata
+oll-08 · olla-express · Albóndigas de cerdo con salsa de champiñones
+oll-09 · olla-express · Cochinita pibil
+oll-10 · olla-express · Carnitas
+oll-11 · olla-express · Pollo tinga
+pes-01 · pescado · Salmón noruego al horno con costra de panko
+pes-02 · pescado · Bol exprés de langostinos a la miel con cuscús
+pes-03 · pescado · Pastelitos de bacalao con entomatá extremeña
+pes-04 · pescado · Merluza con gremolata italiana de perejil y ajo
+pes-05 · pescado · Lubina al horno con mantequilla de ajo, limón y un toque picante
+pes-06 · pescado · Salmón a la sartén con glaseado de miel, ajo, soja, limón y un toque picante
+pes-07 · pescado · Bacalao al pil pil
+pes-08 · pescado · Salmón al horno sobre piña con glaseado de chile dulce, ajo, jengibre y sésamo
+pes-09 · pescado · Lomo de lubina a la plancha con piel crujiente
+pes-10 · pescado · Pizza con base de calabacín
+veg-01 · vegano · Heura con mojo verde al estilo canario
+veg-02 · vegetariano · Bulgur tibio con queso griego y boniato asado
+veg-03 · vegetariano · Falafel casero con salsa de yogur
+veg-04 · vegetariano · Seitán con verduras salteadas a la miel
+veg-05 · vegano · Crema de tofu con cebolla caramelizada
+veg-06 · vegano · Crema de coliflor, puerro y jengibre
+veg-07 · vegano · Crema de zanahoria al estilo thai
+veg-08 · vegano · Baba ganoush

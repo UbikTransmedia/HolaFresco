@@ -1,0 +1,17 @@
+# Configuración local de herramientas
+.claude/
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Copias de seguridad exportadas desde la app (contienen datos personales)
+holafresco-copia-*.json
+recetador-copia-*.json
+
+# Recetario de referencia usado para crear el programa (no se publica)
+RECETAS.pdf
