@@ -15,3 +15,6 @@ recetador-copia-*.json
 
 # Recetario de referencia usado para crear el programa (no se publica)
 RECETAS.pdf
+
+# Foto original sin optimizar (se publican bkg/inicio.jpg y bkg/inicio-movil.jpg)
+bkg/stefan-vladimirov-*.jpg

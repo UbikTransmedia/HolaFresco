@@ -1,0 +1,1019 @@
+window.RECETAS_SEED = window.RECETAS_SEED || [];
+
+/* Recetas INVENTADAS de CARNES TRADICIONALES asadas, fritas y a la plancha (bloque 23b: inv-1136 a inv-1160).
+   Platos de siempre, caseros, fáciles y saciantes, con su guarnición. Cantidades para 2 raciones. */
+
+window.RECETAS_SEED.push({
+  id: "inv-1136",
+  nombre: "Churrasco de costilla de cerdo a la gallega con patatas fritas y ensalada",
+  subtitulo: "tiras de costilla a la plancha bien tostadas, con ajo, perejil y aceite",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 40,
+  dificultad: "fácil",
+  equipo: ["plancha", "sartén", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "costillas de cerdo", q: 600, u: "g", nota: "cortadas en tiras finas, tipo churrasco" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "patata", q: 350, u: "g" },
+    { n: "lechuga romana", q: 0.5, u: "ud" },
+    { n: "tomate", q: 1, u: "ud" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "vinagre de vino", q: 1, u: "cda" },
+    { n: "sal gruesa", u: "al gusto" },
+    { n: "aceite de oliva", u: "al gusto", nota: "para freír y aliñar" }
+  ],
+  pasos: [
+    "Pica muy finos los ajos y el perejil y mézclalos con 3 cucharadas de aceite. Reserva este aceite de ajo.",
+    "Pela las patatas, córtalas en bastones, lávalas y sécalas. Fríelas en abundante aceite 8 minutos a fuego medio y otros 3-4 a fuego fuerte, hasta que estén doradas. Sala.",
+    "Prepara la ensalada de lechuga, tomate y cebolla y aliña al servir con aceite, vinagre y sal.",
+    "Calienta la plancha o una sartén grande de hierro a fuego muy fuerte, sin aceite. Sala las tiras de costilla con sal gruesa.",
+    "Ásalas en tandas sin amontonarlas 4-5 minutos por cada lado, hasta que la grasa esté tostada y crujiente y la carne bien hecha.",
+    "Sírvelas en una fuente, pintadas con el aceite de ajo y perejil, con las patatas y la ensalada."
+  ],
+  nutricion: { kcal: 855, prot: 40, hc: 50, grasa: 55 },
+  etiquetas: ["tradicional", "saciante", "económica", "fácil", "verano"],
+  consejo: "Pide al carnicero la costilla cortada en tiras finas a lo ancho (con la sierra). Al churrasco no le pongas prisa: tiene que quedar tostadito para que la grasa se vuelva crujiente.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1137",
+  nombre: "Pastel de papa argentino con carne picada, huevo duro y aceitunas",
+  subtitulo: "relleno jugoso de ternera con cebolla y pimentón, cubierto de puré gratinado",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "latinoamericana",
+  momentos: ["comida", "cena"],
+  proteina: "ternera",
+  tiempo: 70,
+  dificultad: "fácil",
+  equipo: ["horno", "sartén", "cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "ternera picada", q: 250, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "pimiento rojo", q: 0.5, u: "ud" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "huevo", q: 1, u: "ud" },
+    { n: "aceitunas verdes", q: 8, u: "ud", nota: "sin hueso" },
+    { n: "patata", q: 600, u: "g" },
+    { n: "leche", q: 80, u: "ml" },
+    { n: "mantequilla", q: 10, u: "g" },
+    { n: "queso rallado", q: 20, u: "g" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos. En el mismo cazo, los últimos 10 minutos, cuece el huevo. Escurre, pela el huevo y aplasta las patatas con la leche caliente y la mantequilla hasta tener un puré firme.",
+    "Mientras, pocha la cebolla y el pimiento picados en una sartén con el aceite a fuego medio 10 minutos, hasta que estén blandos.",
+    "Sube el fuego, añade la carne con sal y pimienta y deshazla con la cuchara 6-8 minutos, hasta que pierda el color rosado. Añade el pimentón y el comino y cocina 1 minuto más.",
+    "Precalienta el horno a 200 °C con grill. Extiende la carne en una fuente pequeña, reparte encima el huevo duro picado y las aceitunas en rodajas.",
+    "Cubre con el puré, alisa con un tenedor dejando surcos y espolvorea el queso rallado.",
+    "Hornea 15 minutos, hasta que la superficie esté dorada. Deja reposar 5 minutos antes de servir."
+  ],
+  nutricion: { kcal: 590, prot: 34, hc: 50, grasa: 28 },
+  etiquetas: ["tradicional", "al horno", "fácil", "para niños", "batch cooking", "invierno"],
+  consejo: "En Argentina muchos le espolvorean una cucharadita de azúcar sobre el puré antes de gratinar: queda una costra caramelizada que contrasta con el relleno salado. Pruébalo.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1138",
+  nombre: "Empanadas argentinas de carne cortada a cuchillo al horno",
+  subtitulo: "con cebolla de verdeo, huevo duro, comino y pimentón, y su repulgue",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "ternera",
+  tiempo: 100,
+  dificultad: "media",
+  equipo: ["horno", "sartén", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "ternera (filetes)", q: 250, u: "g", nota: "de falda o babilla, en daditos muy pequeños" },
+    { n: "tapas de empanada", q: 8, u: "ud", nota: "obleas de unos 12 cm" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "cebolleta", q: 1, u: "ud" },
+    { n: "huevo", q: 2, u: "ud", nota: "uno para el relleno y otro para pintar" },
+    { n: "aceitunas verdes", q: 6, u: "ud", nota: "sin hueso" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "manteca de cerdo", q: 15, u: "g", nota: "o 1 cucharada de aceite" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Cuece un huevo 10 minutos, enfríalo y pícalo. Corta las aceitunas en trocitos.",
+    "Derrite la manteca en una sartén y pocha la cebolla picada fina a fuego medio 10 minutos, hasta que esté transparente.",
+    "Añade la carne en daditos y saltea 4-5 minutos a fuego fuerte, solo hasta que pierda el color. Aparta del fuego, sazona con sal, pimienta, pimentón y comino y añade la cebolleta picada.",
+    "Extiende el relleno en una fuente y deja que se enfríe del todo (mejor 30 minutos en la nevera); así la grasa se solidifica y las empanadas quedan jugosas.",
+    "Precalienta el horno a 210 °C. Pon una cucharada de relleno en el centro de cada tapa, añade huevo duro y aceituna, moja el borde con agua y cierra en media luna.",
+    "Haz el repulgue pellizcando y doblando el borde sobre sí mismo, o sella con un tenedor. Ponlas en una bandeja con papel y píntalas con huevo batido.",
+    "Hornea 15-18 minutos, hasta que estén bien doradas. Déjalas reposar 5 minutos: el relleno sale muy caliente."
+  ],
+  nutricion: { kcal: 770, prot: 32, hc: 70, grasa: 40 },
+  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "ideal para llevar", "batch cooking"],
+  consejo: "La carne cortada a cuchillo, en lugar de picada, es el secreto de las empanadas jugosas. Puedes congelarlas crudas y hornearlas directamente, añadiendo 5 minutos.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1139",
+  nombre: "Milanesa napolitana con puré de patata",
+  subtitulo: "milanesa de ternera gratinada con jamón cocido, tomate y mozzarella",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "ternera",
+  tiempo: 40,
+  dificultad: "fácil",
+  equipo: ["horno", "sartén", "cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "ternera (filete fino)", q: 2, u: "ud", nota: "grandes, unos 300 g en total" },
+    { n: "huevo", q: 1, u: "ud" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "pan rallado", q: 60, u: "g" },
+    { n: "jamón cocido", q: 2, u: "loncha" },
+    { n: "tomate triturado", q: 80, u: "g" },
+    { n: "orégano seco", q: 0.5, u: "cdta" },
+    { n: "mozzarella", q: 80, u: "g" },
+    { n: "patata", q: 400, u: "g" },
+    { n: "leche", q: 80, u: "ml" },
+    { n: "mantequilla", q: 10, u: "g" },
+    { n: "aceite de oliva", u: "al gusto", nota: "para freír" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que estén tiernas. Escúrrelas y aplástalas con la leche caliente y la mantequilla hasta tener un puré fino. Resérvalo tapado.",
+    "Bate el huevo con el ajo y el perejil muy picados y una pizca de sal. Pasa los filetes por el huevo y luego por el pan rallado, apretando bien.",
+    "Fríe las milanesas en una sartén con un dedo de aceite a fuego medio-alto 2 minutos por cada lado, hasta que estén doradas. Escúrrelas sobre papel.",
+    "Precalienta el grill del horno. Sazona el tomate triturado con sal y orégano.",
+    "Coloca las milanesas en una bandeja, cubre cada una con una loncha de jamón, unas cucharadas de tomate y la mozzarella en lonchas.",
+    "Gratina 4-5 minutos, hasta que el queso esté fundido y con puntos dorados. Sirve enseguida con el puré."
+  ],
+  nutricion: { kcal: 800, prot: 50, hc: 60, grasa: 40 },
+  etiquetas: ["tradicional", "saciante", "para niños", "fácil", "de domingo"],
+  consejo: "Pide los filetes de nalga o cadera bien finos. Si quieres adelantar, deja las milanesas empanadas en la nevera separadas con papel: aguantan un día perfectas.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1140",
+  nombre: "Alitas de pollo adobadas al horno con patatas gajo",
+  subtitulo: "con adobo de pimentón, ajo y limón, doradas y pegajosas",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "pollo",
+  tiempo: 60,
+  dificultad: "fácil",
+  equipo: ["horno", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "alitas de pollo", q: 600, u: "g", nota: "partidas en dos, sin la punta" },
+    { n: "pimentón dulce", q: 2, u: "cdta" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "limón", q: 0.5, u: "ud" },
+    { n: "orégano seco", q: 1, u: "cdta" },
+    { n: "patata", q: 400, u: "g" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Precalienta el horno a 210 °C con calor arriba y abajo.",
+    "En un bol, mezcla los ajos machacados, el pimentón, el orégano, el zumo de medio limón, 1 cucharada de aceite, sal y pimienta. Añade las alitas secas y embadúrnalas bien. Si tienes tiempo, déjalas así una hora en la nevera.",
+    "Lava las patatas con piel y córtalas en gajos. Alíñalas con el resto del aceite y sal.",
+    "Reparte alitas y patatas en una o dos bandejas con papel de horno, sin que se amontonen, con las alitas con la piel hacia arriba.",
+    "Hornea 40-45 minutos, dando la vuelta a todo a mitad de cocción, hasta que las alitas estén doradas y crujientes y las patatas tiernas por dentro.",
+    "Sirve todo en una fuente con unas gotas de limón por encima."
+  ],
+  nutricion: { kcal: 565, prot: 38, hc: 40, grasa: 28 },
+  etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "una sola bandeja"],
+  consejo: "Seca muy bien las alitas con papel de cocina antes de adobarlas: así la piel queda crujiente en vez de cocida. Se comen con las manos, ¡así que servilletas a mano!",
+  contundencia: "media",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1141",
+  nombre: "Pollo a la plancha al limón con verduras de temporada a la plancha",
+  subtitulo: "contramuslos marinados en limón, ajo y romero con calabacín, berenjena y pimiento",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "mediterránea",
+  momentos: ["comida", "cena"],
+  proteina: "pollo",
+  tiempo: 30,
+  dificultad: "fácil",
+  equipo: ["plancha", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pollo (muslos deshuesados)", q: 320, u: "g", nota: "sin piel" },
+    { n: "limón", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "romero fresco", q: 1, u: "rama" },
+    { n: "calabacín", q: 1, u: "ud" },
+    { n: "berenjena", q: 0.5, u: "ud" },
+    { n: "pimiento rojo", q: 0.5, u: "ud" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Mezcla en un bol el zumo de medio limón, la ralladura de la piel, los ajos machacados, las hojas de romero picadas, 1 cucharada de aceite, sal y pimienta. Añade el pollo y déjalo marinar mientras preparas las verduras (al menos 10 minutos).",
+    "Corta el calabacín y la berenjena en rodajas de medio centímetro y el pimiento en tiras anchas. Sálalas y úntalas con la otra cucharada de aceite.",
+    "Calienta la plancha a fuego fuerte. Asa las verduras en tandas 2-3 minutos por cada lado, hasta que estén tiernas y con las marcas de la plancha. Resérvalas en una fuente.",
+    "Asa los muslos escurridos de la marinada 5-6 minutos por cada lado a fuego medio-alto, hasta que estén dorados y hechos por dentro.",
+    "Sirve el pollo sobre las verduras con unas gotas del otro medio limón y un hilo de aceite crudo."
+  ],
+  nutricion: { kcal: 365, prot: 40, hc: 15, grasa: 16 },
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "verano"],
+  consejo: "El muslo deshuesado aguanta mucho mejor la plancha que la pechuga y queda siempre jugoso. La marinada de limón puede ir por la mañana para tenerlo listo en la cena.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1142",
+  nombre: "Pollo asado con mojo picón y papas arrugadas",
+  subtitulo: "el clásico canario: papas con su costra de sal y mojo rojo de pimentón y comino",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "pollo",
+  tiempo: 55,
+  dificultad: "fácil",
+  equipo: ["horno", "cazuela", "batidora"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "deshuesados y sin piel, unos 350 g" },
+    { n: "patata", q: 500, u: "g", nota: "pequeñas, del mismo tamaño" },
+    { n: "sal gruesa", q: 70, u: "g" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "guindilla seca", q: 1, u: "ud" },
+    { n: "comino molido", q: 1, u: "cdta" },
+    { n: "pimentón dulce", q: 1, u: "cda" },
+    { n: "pan", q: 1, u: "rebanada", nota: "para espesar el mojo" },
+    { n: "vinagre de vino", q: 2, u: "cda" },
+    { n: "aceite de oliva", q: 4, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Lava bien las papas sin pelarlas y ponlas en una olla con agua justo para cubrirlas y la sal gruesa. Cuécelas 20-25 minutos, hasta que se pinchen con facilidad.",
+    "Mientras, precalienta el horno a 210 °C. Unta el pollo con 1 cucharada de aceite, sal y la mitad del comino y hornéalo 25 minutos, hasta que esté dorado y jugoso.",
+    "Para el mojo, tritura los ajos, la guindilla, el resto del comino, el pimentón, el pan, el vinagre, 3 cucharadas de aceite, una pizca de sal y 2 cucharadas de agua hasta tener una salsa espesa. Si queda muy densa, añade un poco más de agua.",
+    "Cuando las papas estén cocidas, tira el agua, devuélvelas a la olla y ponlas a fuego suave sin tapa 3-4 minutos, moviendo la olla, hasta que se sequen y la piel se arrugue cubierta de sal blanca.",
+    "Sirve el pollo cortado en trozos con las papas arrugadas enteras y el mojo picón para mojar."
+  ],
+  nutricion: { kcal: 540, prot: 40, hc: 45, grasa: 22 },
+  etiquetas: ["tradicional", "fácil", "económica", "picante", "para invitados"],
+  consejo: "Las papas arrugadas se comen con piel; no te asustes por la sal: se queda en la superficie. El mojo picón aguanta una semana en un bote en la nevera y está mejor al día siguiente.",
+  contundencia: "media",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1143",
+  nombre: "Raxo gallego con patatas fritas y pimientos",
+  subtitulo: "tacos de lomo adobados y fritos con ajo, vino blanco y perejil",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "cerdo",
+  tiempo: 40,
+  dificultad: "fácil",
+  equipo: ["sartén", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "lomo de cerdo", q: 300, u: "g", nota: "en tacos de 2 cm" },
+    { n: "ajo", q: 4, u: "diente" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "vino blanco", q: 80, u: "ml" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "pimiento verde", q: 2, u: "ud" },
+    { n: "patata", q: 300, u: "g" },
+    { n: "aceite de oliva", u: "al gusto", nota: "para freír" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon el lomo en un bol con 2 ajos picados, el pimentón, sal y la mitad del vino. Mezcla y deja reposar mientras haces las patatas.",
+    "Pela las patatas, córtalas en bastones o en dados y fríelas en abundante aceite: 8 minutos a fuego medio y 3 minutos a fuego fuerte, hasta que estén doradas. Sala y reserva.",
+    "En una sartén con 2 cucharadas de aceite, fríe los pimientos verdes en tiras a fuego medio 6-7 minutos, hasta que estén blandos. Sálalos y resérvalos.",
+    "En la misma sartén, a fuego fuerte, fríe los otros 2 ajos laminados 30 segundos y añade el raxo escurrido. Saltéalo 5-6 minutos, hasta que esté dorado por fuera.",
+    "Vierte el resto del vino y la marinada, deja que hierva 2 minutos hasta que quede un jugo corto, y añade el perejil picado.",
+    "Sirve el raxo con su jugo, las patatas fritas y los pimientos, todo junto en la misma fuente como en las tabernas gallegas."
+  ],
+  nutricion: { kcal: 580, prot: 38, hc: 40, grasa: 30 },
+  etiquetas: ["tradicional", "fácil", "económica", "para compartir", "una sola sartén"],
+  consejo: "Con pan del país para mojar en el jugo es imprescindible. Si lo adobas desde la víspera, el raxo coge todo el sabor del ajo y el pimentón.",
+  contundencia: "media",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1144",
+  nombre: "Solomillo de cerdo al whisky con patatas fritas",
+  subtitulo: "medallones dorados con su salsa de ajo, limón y whisky, como en los bares de Sevilla",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "cerdo",
+  tiempo: 35,
+  dificultad: "fácil",
+  equipo: ["sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "solomillo de cerdo", q: 320, u: "g" },
+    { n: "ajo", q: 8, u: "diente" },
+    { n: "whisky", q: 80, u: "ml" },
+    { n: "limón", q: 0.5, u: "ud" },
+    { n: "caldo de pollo", q: 80, u: "ml" },
+    { n: "patata", q: 300, u: "g" },
+    { n: "aceite de oliva", u: "al gusto", nota: "4 cucharadas para la salsa y el resto para freír" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Pela las patatas, córtalas en bastones o en rodajas, lávalas y sécalas. Fríelas en abundante aceite en dos tiempos (8 minutos a fuego medio y 3 minutos a fuerte) hasta que estén doradas. Sala y reserva.",
+    "Corta el solomillo en medallones de 2 cm y salpimiéntalos. Machaca los ajos con piel.",
+    "En una sartén con 4 cucharadas de aceite a fuego medio, dora los ajos 3-4 minutos, hasta que estén tiernos y dorados.",
+    "Sube el fuego, aparta los ajos a un lado y dora los medallones 1,5-2 minutos por cada lado.",
+    "Retira la sartén del fuego, añade el whisky (con cuidado, puede prender) y vuelve al fuego 1 minuto para que se evapore el alcohol. Añade el zumo del limón y el caldo.",
+    "Deja que hierva 3-4 minutos moviendo la sartén, hasta que la salsa se reduzca a la mitad y quede ligeramente espesa.",
+    "Sirve los medallones con los ajos y su salsa por encima y las patatas fritas al lado para mojar."
+  ],
+  nutricion: { kcal: 565, prot: 38, hc: 40, grasa: 28 },
+  etiquetas: ["tradicional", "rápida", "fácil", "para invitados", "una sola sartén"],
+  consejo: "En Sevilla se toma de tapa con patatas fritas para mojar la salsa. El limón es imprescindible: equilibra el dulzor del whisky. Si no tienes whisky, el brandy también funciona.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1145",
+  nombre: "Solomillo de ternera a la plancha con patatas panadera y pimientos asados",
+  subtitulo: "con sal en escamas y un hilo de aceite, para un día especial",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "ternera",
+  tiempo: 60,
+  dificultad: "media",
+  equipo: ["horno", "plancha"],
+  raciones: 2,
+  ingredientes: [
+    { n: "ternera (solomillo)", q: 300, u: "g", nota: "en dos medallones gruesos" },
+    { n: "patata", q: 400, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "pimiento rojo", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
+    { n: "sal en escamas", u: "al gusto" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Precalienta el horno a 190 °C. Corta las patatas en rodajas finas y la cebolla en juliana; ponlas en una fuente con sal y 2 cucharadas de aceite, cubre con papel de aluminio y hornea 25 minutos.",
+    "Pon el pimiento rojo entero en otra bandeja y hornéalo a la vez, dándole la vuelta a mitad, 40 minutos, hasta que la piel esté tostada.",
+    "Destapa las patatas y hornéalas 15-20 minutos más, hasta que estén tiernas y doradas por los bordes.",
+    "Mete el pimiento en un recipiente tapado 10 minutos, pélalo, quítale las semillas y córtalo en tiras. Alíñalo con el ajo laminado, sal y un hilo de aceite.",
+    "Saca los medallones de la nevera 20 minutos antes. Calienta la plancha a fuego muy fuerte, unta los medallones con unas gotas de aceite y ásalos 3 minutos por cada lado para un punto jugoso (4 minutos si los quieres más hechos).",
+    "Déjalos reposar 3 minutos sobre una tabla y sírvelos con sal en escamas y pimienta recién molida, las patatas panadera y los pimientos asados."
+  ],
+  nutricion: { kcal: 535, prot: 40, hc: 40, grasa: 24 },
+  etiquetas: ["tradicional", "para invitados", "de domingo", "al horno"],
+  consejo: "No pinches el solomillo para saber el punto: presiónalo con el dedo. Si cede como la base del pulgar con la mano relajada, está al punto. Dale siempre unos minutos de reposo.",
+  contundencia: "media",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1146",
+  nombre: "Chuletón de vaca a la sartén con pimientos del piquillo y patatas fritas",
+  subtitulo: "costra tostada, centro jugoso y sal gruesa, como en un asador",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "ternera",
+  tiempo: 40,
+  dificultad: "media",
+  equipo: ["sartén", "plancha"],
+  raciones: 2,
+  ingredientes: [
+    { n: "ternera (chuletón)", q: 800, u: "g", nota: "una pieza con hueso de 4-5 cm de grosor" },
+    { n: "pimientos del piquillo", q: 6, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "patata", q: 350, u: "g" },
+    { n: "sal gruesa", u: "al gusto" },
+    { n: "aceite de oliva", u: "al gusto", nota: "para freír" }
+  ],
+  pasos: [
+    "Saca el chuletón de la nevera al menos 1 hora antes para que esté a temperatura ambiente. Sécalo bien con papel de cocina.",
+    "Fríe las patatas en bastones en abundante aceite, 8 minutos a fuego medio y 3-4 minutos a fuego fuerte, hasta que estén doradas. Sala y resérvalas al calor.",
+    "Confita los piquillos con el ajo laminado y 2 cucharadas de aceite en una sartén a fuego suave 10 minutos, hasta que estén tiernos.",
+    "Calienta una sartén de hierro o plancha gruesa a fuego máximo durante 5 minutos, hasta que humee. Pon primero el chuletón de pie, apoyado sobre la grasa del borde, 2 minutos para que se derrita.",
+    "Túmbalo y ásalo 4-5 minutos por cada lado sin moverlo, hasta que tenga una costra oscura. Para un punto más hecho, añade 1-2 minutos por lado.",
+    "Pásalo a una tabla, déjalo reposar 5 minutos y córtalo en tiras gruesas separándolo del hueso. Echa sal gruesa por encima.",
+    "Sirve la carne en una fuente caliente con los piquillos y las patatas fritas."
+  ],
+  nutricion: { kcal: 875, prot: 55, hc: 40, grasa: 55 },
+  etiquetas: ["tradicional", "para invitados", "de domingo", "saciante", "para compartir"],
+  consejo: "La sal gruesa siempre al final, nunca antes. Si la cocina se llena de humo, abre la ventana: es buena señal. Si te queda poco hecho al cortarlo, pasa las tiras unos segundos por la sartén caliente.",
+  contundencia: "contundente",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1147",
+  nombre: "Presa ibérica a la plancha con patatas al horno y ensalada de tomate",
+  subtitulo: "jugosa y marmoleada, con sal en escamas y romero",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "cerdo",
+  tiempo: 50,
+  dificultad: "fácil",
+  equipo: ["horno", "plancha"],
+  raciones: 2,
+  ingredientes: [
+    { n: "presa ibérica", q: 280, u: "g" },
+    { n: "patata", q: 350, u: "g" },
+    { n: "romero fresco", q: 1, u: "rama" },
+    { n: "tomate", q: 2, u: "ud" },
+    { n: "cebolleta", q: 0.5, u: "ud" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal en escamas", u: "al gusto" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Precalienta el horno a 210 °C. Corta las patatas con piel en gajos, alíñalas con 1 cucharada de aceite, sal y las hojas de romero y hornéalas 35-40 minutos, hasta que estén doradas y tiernas.",
+    "Corta los tomates en gajos y la cebolleta en aros finos; aliña con el resto del aceite y sal en el momento de servir.",
+    "Saca la presa de la nevera 15 minutos antes. Calienta la plancha a fuego muy fuerte, sin aceite.",
+    "Asa la presa entera 4 minutos por cada lado, hasta que esté dorada por fuera y rosada y jugosa por dentro.",
+    "Déjala reposar 3 minutos, córtala en tiras gruesas y sírvela con sal en escamas, las patatas al romero y la ensalada de tomate."
+  ],
+  nutricion: { kcal: 580, prot: 34, hc: 35, grasa: 34 },
+  etiquetas: ["tradicional", "fácil", "para invitados", "al horno", "verano"],
+  consejo: "La presa ibérica se puede comer al punto, rosada por dentro, sin ningún miedo: es lo que la hace tan jugosa. No la cortes antes de que repose o perderá todo su jugo en la tabla.",
+  contundencia: "media",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1148",
+  nombre: "Muslo de pavo asado con manzanas, castañas y cebolla",
+  subtitulo: "un asado de fiesta, lento y jugoso, con su salsa de vino",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "pavo",
+  tiempo: 140,
+  dificultad: "fácil",
+  equipo: ["horno"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pavo (muslo)", q: 1, u: "ud", nota: "con hueso y piel, unos 800 g" },
+    { n: "manzana", q: 2, u: "ud", nota: "reineta" },
+    { n: "castañas cocidas", q: 120, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "tomillo fresco", q: 2, u: "rama" },
+    { n: "vino blanco", q: 150, u: "ml" },
+    { n: "caldo de pollo", q: 150, u: "ml" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Precalienta el horno a 180 °C. Salpimienta bien el muslo, úntalo con el aceite y frótalo con las hojas de tomillo.",
+    "Pon en una fuente la cebolla en gajos y los ajos con piel, coloca el muslo encima y vierte el vino y el caldo.",
+    "Tapa la fuente con papel de aluminio y hornea 1 hora.",
+    "Destapa, riega el muslo con su jugo y añade alrededor las manzanas en cuartos sin corazón y las castañas.",
+    "Hornea destapado 50-60 minutos más, regando cada 20 minutos, hasta que la piel esté dorada, la carne se separe del hueso con facilidad y las manzanas estén blandas.",
+    "Deja reposar 10 minutos, separa la carne del hueso en trozos grandes y sírvela con las manzanas, las castañas, la cebolla y el jugo de la fuente."
+  ],
+  nutricion: { kcal: 525, prot: 46, hc: 45, grasa: 18 },
+  etiquetas: ["tradicional", "al horno", "fácil", "invierno", "para invitados", "de domingo"],
+  consejo: "El muslo de pavo es barato y queda mucho más jugoso que la pechuga en asados largos: es la forma fácil de tener pavo de Navidad para dos. Si la salsa está líquida, redúcela en un cazo.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1149",
+  nombre: "Carcamusas toledanas: magro de cerdo con tomate, guisantes y pan frito",
+  subtitulo: "la tapa de siempre convertida en plato, con su salsa espesa para mojar",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 60,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "cerdo (paleta)", q: 400, u: "g", nota: "magro, en dados de 2 cm" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "tomate triturado", q: 400, u: "g" },
+    { n: "guisantes congelados", q: 150, u: "g" },
+    { n: "vino blanco", q: 80, u: "ml" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "cayena", q: 1, u: "ud", opcional: true },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "pan", q: 2, u: "rebanada", nota: "del día anterior, para freír" },
+    { n: "aceite de oliva", q: 4, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Salpimienta el magro. Calienta 2 cucharadas de aceite en una cazuela a fuego fuerte y dora la carne por tandas 4-5 minutos, hasta que tenga costra. Resérvala.",
+    "Baja a fuego medio, añade la cebolla y el ajo picados y pocha 8 minutos, hasta que la cebolla esté blanda y dorada.",
+    "Incorpora el pimentón y la cayena, remueve 20 segundos sin que se queme y vierte el vino. Deja que evapore el alcohol 2 minutos.",
+    "Añade el tomate, el laurel y la carne con sus jugos. Tapa y cuece a fuego suave 35 minutos, removiendo de vez en cuando, hasta que el magro esté tierno y la salsa espesa. Si se seca, añade un chorrito de agua.",
+    "Echa los guisantes y cuece 5 minutos más, destapado. Prueba de sal.",
+    "Mientras, corta el pan en triángulos y fríelo en una sartén con el resto del aceite hasta que esté dorado y crujiente.",
+    "Sirve las carcamusas en cazuelitas de barro, bien calientes, con el pan frito clavado alrededor para mojar."
+  ],
+  nutricion: { kcal: 720, prot: 46, hc: 42, grasa: 38 },
+  etiquetas: ["tradicional", "saciante", "fácil", "económica", "invierno", "batch cooking"],
+  consejo: "Están aún mejor al día siguiente: hazlas por la mañana y recaliéntalas a fuego suave. Si te gusta más fuerte, añade media cucharadita de pimentón picante con el dulce.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1150",
+  nombre: "Butifarra con mongetes",
+  subtitulo: "butifarra a la brasa con judías blancas salteadas con ajo y perejil y allioli",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "cerdo",
+  tiempo: 25,
+  dificultad: "fácil",
+  equipo: ["sartén", "plancha"],
+  raciones: 2,
+  ingredientes: [
+    { n: "butifarra", q: 2, u: "ud", nota: "fresca, unos 250 g en total" },
+    { n: "judías blancas cocidas", q: 300, u: "g", nota: "escurridas y enjuagadas" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "mayonesa", q: 1, u: "cda", nota: "para un allioli rápido" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pincha las butifarras con un tenedor en varios puntos para que no revienten.",
+    "Ásalas en la plancha o en una sartén a fuego medio con unas gotas de aceite 12-15 minutos, dándoles la vuelta, hasta que estén bien doradas por todos lados y hechas por dentro.",
+    "Mientras, en otra sartén con 2 cucharadas de aceite, dora a fuego medio 2 ajos laminados.",
+    "Añade las judías escurridas y saltéalas a fuego medio-alto 5-6 minutos, moviendo la sartén, hasta que algunas se tuesten y queden doraditas. Sala y añade perejil picado.",
+    "Para el allioli rápido, machaca el otro ajo en el mortero con una pizca de sal, añade la mayonesa y un hilo de aceite y mezcla.",
+    "Sirve la butifarra entera sobre las mongetes con el allioli al lado."
+  ],
+  nutricion: { kcal: 590, prot: 32, hc: 30, grasa: 38 },
+  etiquetas: ["tradicional", "rápida", "fácil", "invierno"],
+  consejo: "En Cataluña las mongetes se tuestan en la grasa que suelta la butifarra: si quieres, asa la butifarra primero y saltea las judías en esa misma sartén. Las judías del ganxet son las tradicionales.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1151",
+  nombre: "Chorizos a la sidra con patatas fritas y pan",
+  subtitulo: "el clásico de las sidrerías asturianas, con su jugo para mojar",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 30,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "chorizo", q: 200, u: "g", nota: "fresco o semicurado, tipo asturiano" },
+    { n: "sidra", q: 300, u: "ml", nota: "natural, sin gas" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "patata", q: 300, u: "g" },
+    { n: "pan", q: 60, u: "g" },
+    { n: "aceite de oliva", u: "al gusto", nota: "para freír" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pincha los chorizos con un tenedor y córtalos en trozos de 3 cm (o déjalos enteros si son pequeños).",
+    "Ponlos en una cazuela de barro o un cazo con la sidra y el laurel. Lleva a ebullición y cuece a fuego medio 15-20 minutos, hasta que la sidra se reduzca a la mitad y el chorizo suelte su grasa roja.",
+    "Mientras, fríe las patatas en dados o bastones en abundante aceite, 8 minutos a fuego medio y 3 a fuego fuerte, hasta que estén doradas. Sala.",
+    "Prueba el jugo: si está ácido o muy líquido, déjalo reducir unos minutos más hasta que quede ligeramente meloso.",
+    "Sirve los chorizos en su cazuela con el jugo, las patatas al lado y el pan para mojar."
+  ],
+  nutricion: { kcal: 770, prot: 30, hc: 50, grasa: 50 },
+  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "invierno", "para compartir"],
+  consejo: "Usa sidra natural asturiana, no la dulce con gas: su acidez es la que equilibra la grasa del chorizo. Si te sobra, unos huevos fritos al día siguiente con el jugo están de escándalo.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1152",
+  nombre: "Pollo en escabeche de la abuela con zanahoria y cebolla",
+  subtitulo: "frito y luego cocido suave en vinagre, vino y especias; se sirve templado o frío",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "pollo",
+  tiempo: 75,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pollo entero troceado", q: 700, u: "g", nota: "sin piel" },
+    { n: "zanahoria", q: 2, u: "ud" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 6, u: "diente" },
+    { n: "laurel", q: 2, u: "hoja" },
+    { n: "tomillo fresco", q: 2, u: "rama" },
+    { n: "pimienta negra en grano", q: 1, u: "cdta" },
+    { n: "vinagre de vino", q: 80, u: "ml" },
+    { n: "vino blanco", q: 100, u: "ml" },
+    { n: "aceite de oliva", q: 4, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Sala el pollo y dóralo en una cazuela con el aceite a fuego medio-alto 8-10 minutos, hasta que esté dorado por todos lados. Sácalo.",
+    "En el mismo aceite, añade los ajos con piel, la cebolla en juliana y las zanahorias en rodajas y rehoga 5 minutos a fuego medio, hasta que la cebolla esté transparente.",
+    "Incorpora el laurel, el tomillo y la pimienta en grano, y remueve 30 segundos.",
+    "Devuelve el pollo, vierte el vinagre, el vino y 150 ml de agua. Lleva a ebullición, tapa y cuece a fuego suave 35-40 minutos, hasta que el pollo esté tierno y se separe del hueso.",
+    "Prueba de sal y deja templar en la cazuela. Lo ideal es dejarlo reposar al menos unas horas o de un día para otro en la nevera para que coja sabor.",
+    "Sirve el pollo templado o a temperatura ambiente con las verduras y un poco de su escabeche por encima."
+  ],
+  nutricion: { kcal: 425, prot: 36, hc: 12, grasa: 26 },
+  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "verano", "ideal para llevar"],
+  consejo: "El escabeche era la forma de conservar la carne antes de las neveras: en un táper bien cubierto de su líquido aguanta 5 días en el frigorífico y cada día está mejor. Con una ensalada de lechuga es una cena perfecta.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1153",
+  nombre: "Pechugas Villeroy con ensalada de tomate",
+  subtitulo: "pechuga cocida envuelta en bechamel, empanada y frita; un clásico de banquete",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "pollo",
+  tiempo: 150,
+  dificultad: "media",
+  equipo: ["cazuela", "sartén", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en 4 filetes" },
+    { n: "caldo de pollo", q: 500, u: "ml" },
+    { n: "mantequilla", q: 25, u: "g" },
+    { n: "harina de trigo", q: 40, u: "g" },
+    { n: "leche", q: 250, u: "ml" },
+    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "huevo", q: 2, u: "ud" },
+    { n: "pan rallado", q: 60, u: "g" },
+    { n: "tomate", q: 2, u: "ud" },
+    { n: "aceite de oliva", u: "al gusto", nota: "para freír y aliñar" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon a hervir el caldo, añade los filetes de pechuga y cuécelos a fuego suave 8 minutos. Sácalos, sécalos con papel y deja que se enfríen. Guarda 100 ml del caldo.",
+    "Para la bechamel, derrite la mantequilla en un cazo, añade la harina y tuéstala 2 minutos. Ve añadiendo la leche y el caldo reservado, calientes, poco a poco y sin dejar de remover con varillas.",
+    "Cocina a fuego suave 10 minutos removiendo, hasta que esté muy espesa (que al pasar la cuchara se vea el fondo). Sazona con sal, pimienta y nuez moscada.",
+    "Con un tenedor, baña cada filete en la bechamel caliente por los dos lados y colócalo en una bandeja con papel engrasado. Déjalos enfriar 1 hora en la nevera, hasta que la bechamel esté firme.",
+    "Pasa cada filete con cuidado por huevo batido y pan rallado.",
+    "Fríelos en abundante aceite caliente (175 °C) 2 minutos por cada lado, hasta que estén dorados. Escúrrelos sobre papel.",
+    "Sirve con el tomate en rodajas aliñado con aceite y sal."
+  ],
+  nutricion: { kcal: 670, prot: 46, hc: 45, grasa: 34 },
+  etiquetas: ["tradicional", "saciante", "económica", "para niños", "de domingo", "batch cooking"],
+  consejo: "Prepáralas hasta el paso 4 la víspera: con la bechamel bien fría se empanan sin romperse. Un consejo de abuela: añade a la bechamel una cucharada de caldo extra para que quede aún más sabrosa.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1154",
+  nombre: "Contramuslos de pollo a la plancha con escalivada",
+  subtitulo: "berenjena, pimiento y cebolla asados al horno y aliñados con aceite y ajo",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "pollo",
+  tiempo: 80,
+  dificultad: "fácil",
+  equipo: ["horno", "plancha"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "deshuesados y sin piel, unos 320 g" },
+    { n: "berenjena", q: 1, u: "ud" },
+    { n: "pimiento rojo", q: 1, u: "ud" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "pimentón dulce", q: 0.5, u: "cdta" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal en escamas", u: "al gusto" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Precalienta el horno a 200 °C. Lava la berenjena, el pimiento y la cebolla con piel, úntalos con un poco de aceite y ponlos enteros en una bandeja.",
+    "Ásalos 50-60 minutos, dándoles la vuelta a mitad, hasta que la berenjena esté blanda y arrugada y el pimiento con la piel tostada. Saca antes la cebolla si ya está tierna.",
+    "Mete las verduras en un recipiente tapado 10 minutos para que suden; así se pelan fácilmente.",
+    "Pela las verduras y córtalas en tiras con las manos. Colócalas en una fuente, alíñalas con el ajo picado muy fino, 1 cucharada de aceite y sal en escamas.",
+    "Sazona los contramuslos con sal y pimentón y ásalos en la plancha caliente con unas gotas de aceite 5-6 minutos por cada lado, hasta que estén dorados y hechos por dentro.",
+    "Sirve el pollo sobre la escalivada templada."
+  ],
+  nutricion: { kcal: 415, prot: 34, hc: 20, grasa: 22 },
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "verano", "batch cooking"],
+  consejo: "Haz el doble de escalivada: en la nevera aguanta 4 días cubierta de aceite y sirve para tostadas, ensaladas o como acompañamiento. El jugo que sueltan las verduras al pelarlas, añádelo al aliño.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1155",
+  nombre: "Tacos de carne asada al estilo norteño con guacamole y cebolla",
+  subtitulo: "falda de ternera marinada en lima, ajo y comino, a la plancha muy caliente",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "latinoamericana",
+  momentos: ["comida", "cena"],
+  proteina: "ternera",
+  tiempo: 95,
+  dificultad: "fácil",
+  equipo: ["plancha", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "falda de ternera", q: 300, u: "g", nota: "o entraña, en filetes" },
+    { n: "lima", q: 2, u: "ud" },
+    { n: "naranja", q: 0.5, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "tortillas de maíz", q: 8, u: "ud", nota: "pequeñas" },
+    { n: "aguacate", q: 1, u: "ud" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "cilantro fresco", q: 0.5, u: "manojo" },
+    { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Mezcla el zumo de 1 lima y de media naranja con los ajos machacados, el comino, el aceite, sal y pimienta. Marina la carne en esta mezcla al menos 1 hora en la nevera.",
+    "Prepara el guacamole: aplasta el aguacate con un tenedor y mézclalo con el zumo de media lima, sal, un poco de cebolla muy picada y cilantro picado. Si te gusta el picante, añade el chile picado.",
+    "Pica fino el resto de la cebolla y del cilantro y mézclalos en un cuenco para servir.",
+    "Calienta la plancha a fuego muy fuerte. Escurre la carne y ásala 2-3 minutos por cada lado, hasta que esté bien tostada por fuera.",
+    "Déjala reposar 3 minutos y córtala en tiras finas a contrapelo y luego en trocitos.",
+    "Calienta las tortillas en la plancha 20-30 segundos por cada lado, hasta que estén flexibles. Sirve cada taco con carne, cebolla con cilantro, guacamole y unas gotas de lima."
+  ],
+  nutricion: { kcal: 550, prot: 38, hc: 50, grasa: 22 },
+  etiquetas: ["tradicional", "fácil", "para compartir", "verano", "para invitados"],
+  consejo: "Cortar la carne a contrapelo (en perpendicular a las fibras) es lo que hace que la falda quede tierna. En México los tacos se sirven de dos tortillas superpuestas para que no se rompan.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1156",
+  nombre: "Pollo a la brasa al estilo peruano con papas fritas y salsa de ají",
+  subtitulo: "medio pollo por persona, marinado en especias y cerveza y asado al horno",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "pollo",
+  tiempo: 150,
+  dificultad: "fácil",
+  equipo: ["horno", "sartén", "bol", "batidora"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pollo entero", q: 1, u: "ud", nota: "pequeño, unos 1,2 kg, abierto en dos mitades" },
+    { n: "ajo", q: 4, u: "diente" },
+    { n: "comino molido", q: 1, u: "cdta" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "orégano seco", q: 1, u: "cdta" },
+    { n: "salsa de soja", q: 2, u: "cda" },
+    { n: "cerveza", q: 100, u: "ml" },
+    { n: "lima", q: 1, u: "ud" },
+    { n: "pasta de ají amarillo", q: 1, u: "cda" },
+    { n: "mayonesa", q: 3, u: "cda" },
+    { n: "patata", q: 400, u: "g" },
+    { n: "aceite de oliva", u: "al gusto", nota: "2 cucharadas para el adobo y el resto para freír" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Tritura los ajos con el comino, el pimentón, el orégano, la salsa de soja, la cerveza, el zumo de media lima, 2 cucharadas de aceite y una cucharadita de sal.",
+    "Haz unos cortes en la carne del pollo, úntalo bien con el adobo (también bajo la piel) y déjalo marinar en la nevera al menos 1 hora, mejor toda la noche.",
+    "Precalienta el horno a 200 °C. Coloca las mitades de pollo con la piel hacia arriba sobre una rejilla, con una bandeja debajo con un poco de agua para recoger el jugo.",
+    "Asa 50-60 minutos, pintando con el adobo sobrante a mitad de cocción, hasta que la piel esté muy dorada y al pinchar el muslo salga jugo transparente. Los últimos 5 minutos, pon el grill para que la piel quede crujiente.",
+    "Mientras, mezcla la mayonesa con la pasta de ají amarillo y el zumo de la otra media lima para hacer la salsa.",
+    "Fríe las patatas en bastones en abundante aceite: 8 minutos a fuego medio y 3-4 minutos a fuego fuerte. Sala.",
+    "Sirve medio pollo por persona con las papas fritas y la salsa de ají al lado."
+  ],
+  nutricion: { kcal: 865, prot: 60, hc: 55, grasa: 45 },
+  etiquetas: ["tradicional", "al horno", "saciante", "económica", "fácil", "de domingo"],
+  consejo: "Es el pollo del domingo de Lima. Si no encuentras pasta de ají amarillo, mezcla la mayonesa con mostaza, ajo y un poco de chile. Añade una ensalada de lechuga y tomate para acompañar.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1157",
+  nombre: "Rosbif casero con patatas asadas y salsa de su jugo",
+  subtitulo: "pieza de ternera dorada por fuera y rosada por dentro, con mostaza",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "europea",
+  momentos: ["comida", "cena"],
+  proteina: "ternera",
+  tiempo: 95,
+  dificultad: "media",
+  equipo: ["horno", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "ternera (redondo)", q: 450, u: "g", nota: "o lomo alto, en una pieza atada" },
+    { n: "mostaza de Dijon", q: 1, u: "cda" },
+    { n: "patata", q: 400, u: "g" },
+    { n: "romero fresco", q: 2, u: "rama" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "vino tinto", q: 100, u: "ml" },
+    { n: "caldo de carne", q: 150, u: "ml" },
+    { n: "mantequilla", q: 10, u: "g" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Saca la carne de la nevera 1 hora antes. Precalienta el horno a 200 °C.",
+    "Corta las patatas en trozos grandes, cuécelas 8 minutos en agua con sal, escúrrelas y sacúdelas en el cazo para que se rompan los bordes. Ponlas en una bandeja con 1 cucharada de aceite, el romero y los ajos con piel y hornéalas 45-50 minutos, hasta que estén crujientes.",
+    "Salpimienta la pieza y dórala en una sartén con el resto del aceite a fuego muy fuerte 6-8 minutos, hasta que tenga costra por todos lados. Píntala con la mostaza.",
+    "Pásala a una fuente y hornéala 25-30 minutos para un punto rosado (unos 55 °C en el centro si tienes termómetro).",
+    "Saca la carne, envuélvela en papel de aluminio y déjala reposar 15 minutos.",
+    "Mientras, pon la sartén donde la doraste al fuego, vierte el vino y raspa el fondo; añade el caldo y el jugo de la fuente y reduce 5 minutos. Apaga y liga con la mantequilla removiendo.",
+    "Corta el rosbif en lonchas muy finas y sírvelo con las patatas asadas y la salsa caliente por encima."
+  ],
+  nutricion: { kcal: 540, prot: 46, hc: 40, grasa: 22 },
+  etiquetas: ["tradicional", "al horno", "para invitados", "de domingo", "batch cooking"],
+  consejo: "Para lonchas finas, corta el rosbif con un cuchillo bien afilado o, si sobra, en frío al día siguiente: es el mejor fiambre para bocadillos. El reposo es imprescindible para que el jugo se reparta.",
+  contundencia: "media",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1158",
+  nombre: "Salchichas con puré de patata y salsa de cebolla",
+  subtitulo: "el bangers and mash de los pubs británicos, con cebolla caramelizada al vino",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "europea",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 45,
+  dificultad: "fácil",
+  equipo: ["sartén", "cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "salchichas frescas", q: 6, u: "ud", nota: "de cerdo, unos 300 g" },
+    { n: "patata", q: 500, u: "g" },
+    { n: "leche", q: 100, u: "ml" },
+    { n: "mantequilla", q: 25, u: "g" },
+    { n: "cebolla", q: 2, u: "ud" },
+    { n: "harina de trigo", q: 1, u: "cdta" },
+    { n: "caldo de carne", q: 200, u: "ml" },
+    { n: "salsa worcestershire", q: 1, u: "cdta" },
+    { n: "guisantes congelados", q: 100, u: "g" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Pela las patatas, trocéalas y cuécelas en agua con sal 20 minutos, hasta que estén muy tiernas. Los últimos 3 minutos añade los guisantes al agua.",
+    "Mientras, corta las cebollas en juliana y pócha en una sartén con el aceite y la mitad de la mantequilla a fuego medio-bajo 15 minutos, hasta que estén doradas y dulces.",
+    "Añade la harina a la cebolla, remueve 1 minuto, vierte el caldo y la salsa worcestershire y cocina 5 minutos, hasta que espese ligeramente. Salpimienta.",
+    "En otra sartén con unas gotas de aceite, haz las salchichas a fuego medio 12-15 minutos, girándolas a menudo, hasta que estén bien doradas por todos lados.",
+    "Escurre los guisantes aparte. Aplasta las patatas con la leche caliente y el resto de la mantequilla hasta tener un puré cremoso. Salpimienta.",
+    "Sirve una montaña de puré con las salchichas encima, la salsa de cebolla por encima y los guisantes al lado."
+  ],
+  nutricion: { kcal: 770, prot: 30, hc: 55, grasa: 48 },
+  etiquetas: ["tradicional", "saciante", "económica", "fácil", "invierno", "para niños"],
+  consejo: "Haz las salchichas a fuego medio y con paciencia: a fuego fuerte revientan y quedan crudas por dentro. Un chorrito de cerveza negra en la salsa de cebolla es lo que le ponen en los pubs.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1159",
+  nombre: "Brochetas de pavo y verduras a la plancha con arroz blanco",
+  subtitulo: "pinchos de pavo marinado con pimiento, cebolla y calabacín",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "pavo",
+  tiempo: 30,
+  dificultad: "fácil",
+  equipo: ["plancha", "cazuela", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en dados de 3 cm" },
+    { n: "pimiento rojo", q: 0.5, u: "ud" },
+    { n: "pimiento verde", q: 0.5, u: "ud" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "calabacín", q: 0.5, u: "ud" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "limón", q: 0.5, u: "ud" },
+    { n: "arroz redondo", q: 120, u: "g" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Mezcla el pavo con el ajo machacado, el pimentón, el zumo de medio limón, el aceite, sal y pimienta y deja que repose mientras cortas las verduras. Si usas palillos de madera, ponlos en remojo.",
+    "Pon a cocer el arroz en agua con sal 16-18 minutos, hasta que esté tierno. Escúrrelo.",
+    "Corta los pimientos, la cebolla y el calabacín en trozos del mismo tamaño que el pavo.",
+    "Monta las brochetas alternando pavo y verduras.",
+    "Ásalas en la plancha caliente 8-10 minutos, dándoles la vuelta cada 2 minutos, hasta que el pavo esté dorado y hecho y las verduras tostadas por los bordes.",
+    "Sirve las brochetas sobre el arroz blanco con unas gotas de limón."
+  ],
+  nutricion: { kcal: 425, prot: 38, hc: 50, grasa: 8 },
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "para niños", "verano"],
+  consejo: "Corta pavo y verduras del mismo tamaño para que todo se haga a la vez. Si las haces en barbacoa, mejor todavía: el humo les da el sabor de las verbenas de verano.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1160",
+  nombre: "Lomo en manteca colorá con patatas fritas y pan tostado",
+  subtitulo: "lomo de cerdo adobado y confitado en manteca con pimentón, como en Andalucía",
+  origen: "inventada",
+  categoria: "carnes",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 150,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "lomo de cerdo", q: 400, u: "g", nota: "en una pieza; sobrará para otro día" },
+    { n: "manteca de cerdo", q: 250, u: "g" },
+    { n: "pimentón dulce", q: 2, u: "cdta" },
+    { n: "ajo", q: 4, u: "diente" },
+    { n: "orégano seco", q: 1, u: "cdta" },
+    { n: "laurel", q: 2, u: "hoja" },
+    { n: "vinagre de vino", q: 1, u: "cda" },
+    { n: "patata", q: 300, u: "g" },
+    { n: "pan", q: 2, u: "rebanada" },
+    { n: "aceite de oliva", u: "al gusto", nota: "para freír" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Machaca los ajos con sal en el mortero y mezcla con 1 cucharadita de pimentón, el orégano y el vinagre. Unta el lomo con este adobo y déjalo en la nevera al menos 1 hora.",
+    "Derrite la manteca en una cazuela pequeña donde quepa justo el lomo. Añade el laurel y la carne con todo su adobo; debe quedar casi cubierta.",
+    "Cocina a fuego muy suave, sin que hierva (solo pequeñas burbujas), 45 minutos, dando la vuelta a la pieza a mitad.",
+    "Retira del fuego, añade la otra cucharadita de pimentón a la manteca y deja reposar el lomo dentro 20 minutos para que se asiente y coja color.",
+    "Mientras, fríe las patatas en bastones en abundante aceite: 8 minutos a fuego medio y 3 a fuego fuerte. Sala. Tuesta el pan.",
+    "Saca el lomo, córtalo en rodajas finas y sírvelo templado con las patatas y el pan tostado untado con un poco de la manteca colorá."
+  ],
+  nutricion: { kcal: 715, prot: 44, hc: 40, grasa: 42 },
+  etiquetas: ["tradicional", "saciante", "fácil", "batch cooking", "invierno"],
+  consejo: "Guarda lo que sobre en un tarro cubierto con la propia manteca: así se conserva semanas en la nevera, que es como lo hacían en las matanzas. La manteca colorá sobrante, untada en pan tostado, es un desayuno andaluz de los de siempre.",
+  contundencia: "contundente",
+  coste: "media"
+});

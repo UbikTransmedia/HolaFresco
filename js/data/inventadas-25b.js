@@ -1,0 +1,1018 @@
+window.RECETAS_SEED = window.RECETAS_SEED || [];
+
+/* Recetas INVENTADAS tradicionales de PASTAS Y FIDEOS (bloque 25b: inv-1236 a inv-1260).
+   Pastas, fideos y canelones de toda la vida. Cantidades para 2 raciones. */
+
+window.RECETAS_SEED.push({
+  id: "inv-1236",
+  nombre: "Espaguetis a la carbonara tradicional",
+  subtitulo: "con guanciale, yema de huevo y pecorino, sin nata",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 25,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "espaguetis", q: 180, u: "g" },
+    { n: "guanciale", q: 100, u: "g", nota: "o panceta curada, en tiras gruesas" },
+    { n: "huevo", q: 3, u: "ud", nota: "1 entero y 2 yemas" },
+    { n: "queso pecorino", q: 50, u: "g", nota: "rallado fino" },
+    { n: "pimienta negra", q: 1, u: "cdta", nota: "recién molida" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon a hervir abundante agua con sal (algo menos de lo habitual, porque el guanciale y el queso ya son salados).",
+    "En un bol, bate el huevo entero y las 2 yemas con el pecorino y la mitad de la pimienta hasta tener una crema espesa.",
+    "En una sartén grande sin aceite, dora el guanciale a fuego medio-bajo 8 minutos, hasta que la grasa sea transparente y los bordes estén crujientes. Apaga el fuego.",
+    "Cuece los espaguetis 1 minuto menos de lo que indique el paquete. Guarda una taza del agua de cocción antes de escurrir.",
+    "Echa la pasta en la sartén con el guanciale y su grasa, sin fuego, y mezcla 30 segundos para que se impregne. Espera 1 minuto a que baje un poco la temperatura.",
+    "Vierte la crema de huevo y 3-4 cucharadas del agua de cocción y remueve con energía, levantando la pasta con unas pinzas, hasta que se forme una salsa cremosa y brillante. Si queda espesa, añade más agua; si queda líquida, sigue removiendo.",
+    "Sirve enseguida con el resto de la pimienta y un poco más de pecorino por encima."
+  ],
+  nutricion: { kcal: 732, prot: 32, hc: 70, grasa: 36 },
+  etiquetas: ["tradicional", "rápida", "fácil", "saciante"],
+  consejo: "La carbonara se liga con el calor residual, nunca con el fuego encendido: si el huevo se cuaja, tienes revuelto. Si no encuentras guanciale, la panceta curada es el mejor sustituto; y el pecorino puede ir mitad y mitad con parmesano.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1237",
+  nombre: "Espaguetis a la amatriciana",
+  subtitulo: "con guanciale, tomate, vino blanco y pecorino",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 35,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "espaguetis", q: 180, u: "g" },
+    { n: "guanciale", q: 90, u: "g", nota: "o panceta curada, en tiras" },
+    { n: "tomate triturado", q: 400, u: "g" },
+    { n: "vino blanco", q: 50, u: "ml" },
+    { n: "guindilla seca", q: 1, u: "ud" },
+    { n: "queso pecorino", q: 30, u: "g", nota: "rallado" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "En una sartén amplia con la cucharadita de aceite, dora el guanciale a fuego medio-bajo 7 minutos, hasta que suelte la grasa y esté dorado. Sácalo y reserva la mitad para el final.",
+    "Añade la guindilla desmenuzada, vierte el vino y deja que se evapore 1 minuto, raspando el fondo.",
+    "Incorpora el tomate triturado y una pizca de sal y cocina a fuego suave 15 minutos, hasta que la salsa espese. Devuelve la mitad del guanciale.",
+    "Mientras, cuece los espaguetis en agua con sal 1 minuto menos de lo indicado. Guarda un poco del agua de cocción.",
+    "Pasa la pasta a la salsa con 2-3 cucharadas de agua de cocción y saltea 1 minuto a fuego vivo, hasta que la salsa se agarre.",
+    "Apaga, añade la mitad del pecorino, mezcla y sirve con el guanciale crujiente reservado y el resto del queso por encima."
+  ],
+  nutricion: { kcal: 678, prot: 26, hc: 76, grasa: 30 },
+  etiquetas: ["tradicional", "fácil", "saciante", "picante"],
+  consejo: "Nada de ajo ni cebolla: la amatriciana auténtica es solo guanciale, tomate, vino y pecorino. Reservar parte del guanciale para el final hace que se note crujiente en cada bocado.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1238",
+  nombre: "Penne all'arrabbiata",
+  subtitulo: "con tomate, ajo y guindilla, la pasta rabiosa de Roma",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida", "cena"],
+  proteina: "verdura",
+  tiempo: 25,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "penne", q: 150, u: "g" },
+    { n: "tomate triturado", q: 400, u: "g" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "guindilla seca", q: 2, u: "ud" },
+    { n: "perejil fresco", q: 0.5, u: "manojo" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon a hervir abundante agua con sal para la pasta.",
+    "En una sartén amplia, calienta el aceite a fuego suave con los ajos laminados y las guindillas desmenuzadas 2 minutos, hasta que el ajo empiece a dorarse (si se tuesta, amargará).",
+    "Añade el tomate triturado y una pizca de sal y cocina a fuego medio 12 minutos, hasta que la salsa espese y el aceite se separe por los bordes.",
+    "Cuece los penne 1 minuto menos de lo que indica el paquete y escúrrelos guardando un poco del agua.",
+    "Pásalos a la salsa con un chorrito del agua de cocción y saltea 1 minuto a fuego vivo, hasta que la salsa se pegue a la pasta.",
+    "Apaga, añade el perejil picado y sirve enseguida."
+  ],
+  nutricion: { kcal: 422, prot: 10, hc: 64, grasa: 14 },
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "picante", "vegano", "ligera"],
+  consejo: "El picante se ajusta con las guindillas: con una queda alegre, con tres es de verdad 'arrabbiata'. Un hilo de aceite crudo al servir redondea la salsa.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1239",
+  nombre: "Espaguetis con albóndigas en salsa de tomate",
+  subtitulo: "albóndigas tiernas de ternera y cerdo con parmesano y albahaca",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "americana",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 70,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "espaguetis", q: 170, u: "g" },
+    { n: "ternera picada", q: 150, u: "g" },
+    { n: "cerdo picado", q: 100, u: "g" },
+    { n: "pan", q: 1, u: "rebanada", nota: "sin corteza" },
+    { n: "leche", q: 50, u: "ml" },
+    { n: "huevo", q: 1, u: "ud" },
+    { n: "parmesano", q: 30, u: "g", nota: "rallado" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "tomate triturado", q: 500, u: "g" },
+    { n: "albahaca fresca", q: 0.5, u: "manojo" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Remoja el pan en la leche 5 minutos y escúrrelo un poco. En un bol, mézclalo con las dos carnes, el huevo, la mitad del parmesano, 1 ajo muy picado, sal y pimienta. Amasa con las manos 1 minuto y forma albóndigas del tamaño de una nuez grande (salen unas 12).",
+    "Dóralas en una sartén con 2 cucharadas de aceite a fuego medio 6 minutos, girándolas, hasta que tengan costra por todos lados. No hace falta que se hagan por dentro.",
+    "En una cazuela con el resto del aceite, pocha la cebolla picada y los otros 2 ajos 6 minutos. Añade el tomate triturado, sal y unas hojas de albahaca y cuece 10 minutos.",
+    "Mete las albóndigas en la salsa, tapa y cuece a fuego suave 25 minutos, moviendo la cazuela de vez en cuando, hasta que estén tiernas y la salsa espesa.",
+    "Cuece los espaguetis en agua con sal según el paquete, escúrrelos y mézclalos con unos cucharones de la salsa.",
+    "Sirve la pasta con las albóndigas encima, más salsa, el resto del parmesano y albahaca fresca."
+  ],
+  nutricion: { kcal: 794, prot: 40, hc: 82, grasa: 34 },
+  etiquetas: ["tradicional", "fácil", "saciante", "para niños", "batch cooking", "de domingo"],
+  consejo: "El pan mojado en leche es el truco para que las albóndigas queden jugosas. Haz el doble y congela las albóndigas ya guisadas en su salsa: aguantan 3 meses perfectas.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1240",
+  nombre: "Canelones de Sant Esteve con carne asada y bechamel",
+  subtitulo: "el canelón catalán de fiesta, con pollo, cerdo y ternera",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 180,
+  dificultad: "media",
+  equipo: ["cazuela", "horno", "batidora", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "canelones (placas)", q: 10, u: "ud" },
+    { n: "pollo (contramuslos)", q: 200, u: "g", nota: "deshuesados" },
+    { n: "cerdo (paleta)", q: 150, u: "g" },
+    { n: "ternera para guisar", q: 100, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "tomate", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "brandy", q: 50, u: "ml" },
+    { n: "pan", q: 1, u: "rebanada", nota: "remojada en leche" },
+    { n: "leche", q: 500, u: "ml" },
+    { n: "harina de trigo", q: 35, u: "g" },
+    { n: "mantequilla", q: 35, u: "g" },
+    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "queso rallado", q: 40, u: "g" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Corta las carnes en dados de 3 cm y salpimiéntalas. En una cazuela con el aceite, dóralas a fuego medio 10 minutos. Añade la cebolla en juliana, los ajos y el tomate troceado, tapa y cocina a fuego suave 1 hora y 15 minutos, removiendo de vez en cuando y añadiendo un chorrito de agua si se pega, hasta que la carne esté muy tierna y la cebolla caramelizada.",
+    "Vierte el brandy, deja evaporar 2 minutos y apaga. Tritura todo (con la batidora o picadora) junto con el pan escurrido hasta obtener una farsa fina pero con algo de textura. Rectifica de sal.",
+    "Cuece las placas de canelón en agua hirviendo con sal según el paquete y extiéndelas sobre un paño limpio.",
+    "Para la bechamel, derrite la mantequilla, añade la harina y tuéstala 2 minutos removiendo. Vierte la leche caliente poco a poco sin dejar de batir y cuece 10 minutos a fuego suave, hasta que napé la cuchara. Sala y añade la nuez moscada.",
+    "Precalienta el horno a 200 °C. Pon una cucharada de farsa en cada placa, enróllala y colócalas en una fuente untada con una capa fina de bechamel.",
+    "Cubre con el resto de la bechamel, espolvorea el queso rallado y hornea 15 minutos; termina 3-4 minutos con el grill, hasta que la superficie esté gratinada y dorada.",
+    "Deja reposar 5 minutos antes de servir."
+  ],
+  nutricion: { kcal: 874, prot: 46, hc: 60, grasa: 50 },
+  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "invierno", "batch cooking", "saciante"],
+  consejo: "Es la receta de aprovechar la carne del cocido o del asado de Navidad: si la tienes, sáltate el primer paso y tritúrala directamente. Los canelones montados se congelan muy bien sin la bechamel.",
+  contundencia: "contundente",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1241",
+  nombre: "Canelones de atún y huevo duro gratinados",
+  subtitulo: "con tomate frito y bechamel, como los de las meriendas de domingo",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "pescado",
+  tiempo: 75,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén", "horno"],
+  raciones: 2,
+  ingredientes: [
+    { n: "canelones (placas)", q: 8, u: "ud" },
+    { n: "atún en conserva", q: 160, u: "g", nota: "escurrido" },
+    { n: "huevo", q: 2, u: "ud" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "tomate frito", q: 150, u: "g" },
+    { n: "leche", q: 400, u: "ml" },
+    { n: "harina de trigo", q: 25, u: "g" },
+    { n: "mantequilla", q: 20, u: "g" },
+    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "queso rallado", q: 30, u: "g" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Cuece los huevos 10 minutos, enfríalos, pélalos y pícalos. Cuece las placas de canelón en agua hirviendo con sal según el paquete y extiéndelas sobre un paño.",
+    "En una sartén con el aceite, pocha la cebolla picada fina a fuego medio-bajo 10 minutos, hasta que esté dorada y dulce.",
+    "Añade el atún desmigado, el huevo picado y 100 g del tomate frito. Mezcla 2 minutos a fuego suave y prueba de sal: el relleno debe quedar jugoso.",
+    "Para la bechamel, derrite la mantequilla en un cazo, añade la harina y tuéstala 2 minutos. Vierte la leche caliente poco a poco sin dejar de remover con varillas y cuece 8 minutos, hasta que espese. Sala y añade la nuez moscada.",
+    "Precalienta el horno a 200 °C. Rellena cada placa con una cucharada de relleno, enróllala y colócala en una fuente con el resto del tomate frito en el fondo.",
+    "Cubre con la bechamel, espolvorea el queso y hornea 15 minutos, más 3 minutos de grill, hasta que esté dorado. Reposa 5 minutos antes de servir."
+  ],
+  nutricion: { kcal: 588, prot: 32, hc: 52, grasa: 28 },
+  etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "batch cooking"],
+  consejo: "Si te sobra relleno, úsalo para unos huevos rellenos o unas empanadillas. Las placas precocidas que se hidratan en agua caliente te ahorran un paso y funcionan muy bien.",
+  contundencia: "media",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1242",
+  nombre: "Ñoquis a la sorrentina",
+  subtitulo: "gratinados con tomate, mozzarella fundida y albahaca",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida", "cena"],
+  proteina: "queso",
+  tiempo: 40,
+  dificultad: "fácil",
+  equipo: ["cazuela", "horno"],
+  raciones: 2,
+  ingredientes: [
+    { n: "gnocchi de patata", q: 400, u: "g" },
+    { n: "tomate triturado", q: 400, u: "g" },
+    { n: "mozzarella", q: 125, u: "g", nota: "bien escurrida" },
+    { n: "parmesano", q: 20, u: "g", nota: "rallado" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "albahaca fresca", q: 0.5, u: "manojo" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Precalienta el horno a 220 °C con grill.",
+    "En una cazuela con el aceite, dora el ajo chafado 1 minuto, añade el tomate triturado, sal y unas hojas de albahaca y cuece a fuego suave 15 minutos, hasta que la salsa espese.",
+    "Cuece los ñoquis en agua hirviendo con sal y sácalos con una espumadera en cuanto suban a la superficie (1-2 minutos).",
+    "Pásalos directamente a la salsa, retira el ajo y mezcla con cuidado. Añade la mitad de la mozzarella en dados.",
+    "Vuelca en una fuente de horno (o en dos cazuelitas individuales), cubre con el resto de la mozzarella y el parmesano.",
+    "Gratina 8-10 minutos, hasta que el queso burbujee y se dore. Sirve con albahaca fresca por encima."
+  ],
+  nutricion: { kcal: 570, prot: 22, hc: 80, grasa: 18 },
+  etiquetas: ["tradicional", "al horno", "fácil", "para niños", "vegetariano"],
+  consejo: "Escurre bien la mozzarella y sécala con papel: si está muy húmeda, suelta agua y aguanta la salsa. En Sorrento se sirven en cazuelitas de barro individuales, directamente a la mesa.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1243",
+  nombre: "Ñoquis al gorgonzola con nueces",
+  subtitulo: "en salsa cremosa de queso azul, listos en un momento",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida"],
+  proteina: "queso",
+  tiempo: 25,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "gnocchi de patata", q: 400, u: "g" },
+    { n: "queso azul", q: 80, u: "g", nota: "tipo gorgonzola dulce" },
+    { n: "nata para cocinar", q: 100, u: "ml" },
+    { n: "leche", q: 50, u: "ml" },
+    { n: "nueces", q: 25, u: "g" },
+    { n: "parmesano", q: 15, u: "g", nota: "rallado" },
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon a hervir abundante agua con sal. Trocea las nueces y tuéstalas en una sartén seca 2 minutos, hasta que huelan. Resérvalas.",
+    "En la misma sartén, calienta la nata y la leche a fuego suave. Añade el queso azul en trozos y remueve 3-4 minutos, hasta que se funda y la salsa quede lisa. No dejes que hierva fuerte.",
+    "Cuece los ñoquis y sácalos con la espumadera en cuanto floten.",
+    "Pásalos a la salsa con un par de cucharadas del agua de cocción y mezcla 1 minuto a fuego suave para que se impregnen.",
+    "Sirve con las nueces, el parmesano y pimienta negra recién molida."
+  ],
+  nutricion: { kcal: 760, prot: 22, hc: 78, grasa: 40 },
+  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "invierno", "vegetariano"],
+  consejo: "Si el queso azul te parece fuerte, mezcla mitad azul y mitad queso crema. Acompáñalo de una ensalada verde con vinagreta: equilibra la riqueza de la salsa.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1244",
+  nombre: "Fideos a la cazuela con costillas y patatas",
+  subtitulo: "guiso de cuchara con sofrito, pimentón y azafrán",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 80,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "fideos gordos", q: 140, u: "g", nota: "del n.º 4" },
+    { n: "costillas de cerdo", q: 300, u: "g", nota: "troceadas" },
+    { n: "patata", q: 250, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "pimiento verde", q: 1, u: "ud" },
+    { n: "tomate", q: 2, u: "ud", nota: "rallados" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "azafrán", q: 1, u: "pizca" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "agua", q: 1200, u: "ml" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "En la cazuela con el aceite, dora la costilla salada a fuego medio 10 minutos.",
+    "Añade la cebolla, el pimiento y los ajos picados y pocha 8 minutos. Incorpora el tomate rallado y sofríe 6 minutos, hasta que esté concentrado.",
+    "Fuera del fuego, añade el pimentón y remueve. Vierte el agua caliente con el laurel y el azafrán, sala y cuece tapado a fuego suave 35 minutos, hasta que la costilla esté tierna.",
+    "Añade las patatas peladas y chascadas (rompiendo el último corte con el cuchillo para que suelten almidón) y cuece 12 minutos.",
+    "Incorpora los fideos y cuece 8-10 minutos más, hasta que estén tiernos. Debe quedar caldoso y espeso; si se seca, añade un poco de agua caliente.",
+    "Apaga, deja reposar 3 minutos y sirve en plato hondo."
+  ],
+  nutricion: { kcal: 726, prot: 32, hc: 82, grasa: 30 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "saciante"],
+  consejo: "Chascar la patata en lugar de cortarla limpia es el truco de la abuela para que el caldo engorde. Si te gusta con más alegría, añade una guindilla al sofrito.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1245",
+  nombre: "Cazuela de fideos con bacalao y patata",
+  subtitulo: "guiso de vigilia con picada de almendra y pan frito",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "pescado",
+  tiempo: 50,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "fideos gordos", q: 140, u: "g" },
+    { n: "bacalao desalado (lomos)", q: 250, u: "g", nota: "en tacos" },
+    { n: "patata", q: 200, u: "g" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "pimiento verde", q: 1, u: "ud" },
+    { n: "tomate", q: 1, u: "ud", nota: "rallado" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "almendras", q: 10, u: "g" },
+    { n: "pan", q: 1, u: "rebanada" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "agua", q: 1100, u: "ml" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "En la cazuela con el aceite, fríe a fuego medio la rebanada de pan, las almendras y 1 ajo hasta que estén dorados (2-3 minutos). Sácalos y májalos en el mortero con un poco de agua.",
+    "En el mismo aceite, pocha la cebolla, el pimiento y el otro ajo picados 8 minutos. Añade el tomate y sofríe 5 minutos.",
+    "Fuera del fuego, añade el pimentón y remueve. Vierte el agua, añade las patatas chascadas en trozos y cuece 15 minutos.",
+    "Incorpora los fideos y la picada, prueba de sal (con prudencia, por el bacalao) y cuece 6 minutos.",
+    "Añade los tacos de bacalao y cuece 3-4 minutos más a fuego suave, hasta que los fideos estén tiernos y el bacalao se separe en lascas.",
+    "Apaga y deja reposar 2 minutos antes de servir caldoso."
+  ],
+  nutricion: { kcal: 542, prot: 34, hc: 70, grasa: 14 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "cuaresma", "invierno"],
+  consejo: "Echa el bacalao al final y a fuego suave: si hierve mucho, se queda seco y se deshace en hebras. Con merluza o caballa también queda buenísimo.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1246",
+  nombre: "Macarrones con atún y tomate de la abuela",
+  subtitulo: "con sofrito de cebolla, orégano y queso rallado",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "pescado",
+  tiempo: 30,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "macarrones", q: 160, u: "g" },
+    { n: "atún en conserva", q: 120, u: "g", nota: "escurrido" },
+    { n: "tomate triturado", q: 400, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "orégano seco", q: 1, u: "cdta" },
+    { n: "azúcar", q: 1, u: "pizca" },
+    { n: "queso rallado", q: 30, u: "g" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon a hervir abundante agua con sal para la pasta.",
+    "En una sartén amplia con el aceite, pocha la cebolla picada y el ajo a fuego medio-bajo 8 minutos, hasta que estén transparentes.",
+    "Añade el tomate triturado, el orégano, la pizca de azúcar y sal. Cocina a fuego suave 15 minutos, removiendo de vez en cuando, hasta que espese.",
+    "Mientras, cuece los macarrones según el paquete y escúrrelos.",
+    "Apaga el fuego de la salsa, añade el atún desmigado y mezcla con los macarrones.",
+    "Sirve con el queso rallado por encima. Si quieres, gratínalos 5 minutos en el horno."
+  ],
+  nutricion: { kcal: 570, prot: 30, hc: 72, grasa: 18 },
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "para niños", "ideal para llevar"],
+  consejo: "El atún, siempre fuera del fuego: así queda jugoso. Si los niños no quieren trozos de cebolla, tritura la salsa antes de añadir el atún.",
+  contundencia: "media",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1247",
+  nombre: "Macarrones gratinados con salchichas y tomate",
+  subtitulo: "el clásico de los domingos con los niños",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 40,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén", "horno"],
+  raciones: 2,
+  ingredientes: [
+    { n: "macarrones", q: 170, u: "g" },
+    { n: "salchichas frescas", q: 200, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "tomate frito", q: 250, u: "g" },
+    { n: "orégano seco", q: 0.5, u: "cdta" },
+    { n: "queso rallado", q: 50, u: "g" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Precalienta el horno a 210 °C con grill. Pon a hervir agua con sal y cuece los macarrones 1 minuto menos de lo indicado. Escúrrelos.",
+    "Corta las salchichas en rodajas y dóralas en una sartén con el aceite a fuego medio 5 minutos. Sácalas.",
+    "En la misma grasa, pocha la cebolla picada 8 minutos, hasta que esté dorada.",
+    "Devuelve las salchichas, añade el tomate frito y el orégano y calienta 3 minutos.",
+    "Mezcla la salsa con los macarrones, vuelca en una fuente de horno y cubre con el queso rallado.",
+    "Gratina 8-10 minutos, hasta que el queso esté dorado y crujiente por los bordes."
+  ],
+  nutricion: { kcal: 772, prot: 32, hc: 80, grasa: 36 },
+  etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "saciante"],
+  consejo: "Cuece la pasta un minuto menos porque terminará de hacerse en el horno con la salsa. Si haces tomate casero en vez de frito de bote, sabrá aún más a casa de la abuela.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1248",
+  nombre: "Tallarines a la marinera",
+  subtitulo: "con gambas, mejillones y almejas en salsa de tomate al brandy",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "marisco",
+  tiempo: 45,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "tagliatelle", q: 160, u: "g" },
+    { n: "gambas enteras", q: 8, u: "ud" },
+    { n: "mejillones", q: 400, u: "g" },
+    { n: "almejas", q: 200, u: "g", nota: "purgadas" },
+    { n: "tomate triturado", q: 300, u: "g" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "guindilla seca", q: 1, u: "ud" },
+    { n: "brandy", q: 30, u: "ml" },
+    { n: "vino blanco", q: 100, u: "ml" },
+    { n: "perejil fresco", q: 0.5, u: "manojo" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon los mejillones limpios en una cazuela con el vino blanco, tapa y cuece a fuego fuerte 3 minutos, hasta que se abran. Cuela y guarda el caldo; quita media concha a los mejillones.",
+    "Pela las gambas dejando la cola y reserva las cabezas. En una sartén amplia con el aceite, dora las cabezas 2 minutos aplastándolas para que suelten su jugo, y retíralas.",
+    "En ese aceite, sofríe los ajos laminados y la guindilla 1 minuto. Añade las gambas, marca 30 segundos, vierte el brandy y deja evaporar. Saca las gambas.",
+    "Añade el tomate triturado y el caldo de los mejillones y cocina 10 minutos a fuego medio, hasta que espese un poco.",
+    "Incorpora las almejas, tapa y cuece 2-3 minutos, hasta que se abran. Devuelve las gambas y los mejillones.",
+    "Cuece la pasta en agua con sal 1 minuto menos de lo indicado, pásala a la sartén con un chorrito de su agua y saltea 1 minuto. Sirve con perejil picado."
+  ],
+  nutricion: { kcal: 584, prot: 36, hc: 74, grasa: 16 },
+  etiquetas: ["tradicional", "para invitados", "de domingo", "fácil"],
+  consejo: "Las cabezas de las gambas son las que dan sabor a mar a la salsa: aplástalas bien en el aceite. Sala al final, porque el caldo de los mejillones y las almejas ya es salado.",
+  contundencia: "media",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1249",
+  nombre: "Tallarines con nata, champiñones y bacon",
+  subtitulo: "la 'carbonara' de casa de los años ochenta",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "cerdo",
+  tiempo: 25,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "tagliatelle", q: 160, u: "g" },
+    { n: "bacon", q: 100, u: "g", nota: "en tiras" },
+    { n: "champiñones", q: 200, u: "g" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "nata para cocinar", q: 150, u: "ml" },
+    { n: "queso rallado", q: 30, u: "g" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon a hervir abundante agua con sal para la pasta.",
+    "En una sartén amplia con el aceite, dora el bacon a fuego medio 4 minutos. Añade la cebolla picada fina y pocha 5 minutos.",
+    "Incorpora los champiñones laminados, sube el fuego y saltea 5 minutos, hasta que suelten el agua y se doren.",
+    "Vierte la nata, salpimienta y deja reducir a fuego suave 3 minutos, hasta que espese ligeramente.",
+    "Cuece los tallarines según el paquete, escúrrelos guardando un poco del agua y pásalos a la sartén. Mezcla 1 minuto, añadiendo agua de cocción si la salsa queda muy espesa.",
+    "Sirve con el queso rallado y pimienta negra recién molida."
+  ],
+  nutricion: { kcal: 752, prot: 24, hc: 74, grasa: 40 },
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "para niños", "saciante"],
+  consejo: "No la llames carbonara delante de un italiano, pero es un clásico de las casas españolas. Un poco de ajo picado con los champiñones y perejil al final le sientan de maravilla.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1250",
+  nombre: "Fettuccine Alfredo a la romana",
+  subtitulo: "solo mantequilla, parmesano y el agua de la pasta",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida"],
+  proteina: "queso",
+  tiempo: 20,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "tagliatelle", q: 180, u: "g", nota: "mejor frescas al huevo" },
+    { n: "mantequilla", q: 35, u: "g", nota: "a temperatura ambiente" },
+    { n: "parmesano", q: 60, u: "g", nota: "rallado muy fino" },
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon a hervir agua con sal (menos cantidad de la habitual, unos 2 litros, para que quede más almidonada).",
+    "En una sartén amplia, pon la mantequilla en trozos para que se ablande.",
+    "Cuece la pasta según el paquete (las frescas, 2-3 minutos). Guarda un vaso del agua de cocción antes de escurrir.",
+    "Pasa la pasta a la sartén con la mantequilla, a fuego muy suave, con 4 cucharadas del agua de cocción. Remueve hasta que la mantequilla se funda y emulsione.",
+    "Apaga el fuego y añade el parmesano en tres veces, removiendo con energía con unas pinzas y añadiendo agua de cocción a cucharadas, hasta que se forme una salsa cremosa y sedosa que envuelva cada tira.",
+    "Sirve enseguida con pimienta negra recién molida."
+  ],
+  nutricion: { kcal: 698, prot: 28, hc: 70, grasa: 34 },
+  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "vegetariano"],
+  consejo: "La original de Roma no lleva nata: la cremosidad sale de batir la mantequilla y el queso con el agua almidonada. Si el queso hace grumos, es que la sartén estaba demasiado caliente.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1251",
+  nombre: "Pasta e patate a la napolitana con provola",
+  subtitulo: "pasta y patatas cocidas juntas, cremosa y de cuchara",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida", "cena"],
+  proteina: "verdura",
+  tiempo: 45,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pasta corta", q: 150, u: "g", nota: "mezcla de restos o ditalini" },
+    { n: "patata", q: 350, u: "g" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "apio", q: 1, u: "rama" },
+    { n: "zanahoria", q: 0.5, u: "ud" },
+    { n: "tomate cherry", q: 6, u: "ud" },
+    { n: "queso provolone", q: 50, u: "g", nota: "o provola ahumada, en dados" },
+    { n: "parmesano", q: 15, u: "g", nota: "rallado" },
+    { n: "caldo de verduras", q: 800, u: "ml" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Pica muy finos la cebolla, el apio y la zanahoria. Póchalos en la cazuela con el aceite a fuego medio-bajo 8 minutos.",
+    "Añade las patatas peladas en dados de 1,5 cm y los tomates cherry partidos y rehoga 3 minutos.",
+    "Cubre con el caldo caliente, sala y cuece 15 minutos, hasta que las patatas estén tiernas y algunas empiecen a deshacerse. Aplasta unas cuantas con la cuchara para espesar.",
+    "Añade la pasta cruda y cuécela en la misma cazuela, removiendo a menudo para que no se pegue, el tiempo del paquete. Si se queda seca, añade caldo o agua caliente a cucharones: debe quedar cremosa y densa.",
+    "Apaga, incorpora el parmesano y los dados de provolone y remueve 1 minuto, hasta que el queso se funda en hilos. Tapa y reposa 2 minutos.",
+    "Sirve en plato hondo con pimienta negra y un hilo de aceite crudo."
+  ],
+  nutricion: { kcal: 588, prot: 20, hc: 82, grasa: 20 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "vegetariano", "saciante"],
+  consejo: "Es el plato napolitano de aprovechar los restos de paquetes de pasta: mezcla tipos distintos rompiendo los largos en trozos. Una corteza de parmesano cocida con las patatas le da un sabor tremendo.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1252",
+  nombre: "Espaguetis con guisantes y jamón serrano",
+  subtitulo: "rehogados con cebolla tierna y ajo, de diario y en un rato",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "cerdo",
+  tiempo: 25,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "espaguetis", q: 150, u: "g" },
+    { n: "guisantes congelados", q: 200, u: "g" },
+    { n: "jamón serrano", q: 50, u: "g", nota: "en taquitos" },
+    { n: "cebolleta", q: 1, u: "ud" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon a hervir abundante agua con sal para la pasta.",
+    "En una sartén amplia con el aceite, pocha la cebolleta picada fina y el ajo 5 minutos a fuego medio-bajo, hasta que estén tiernos.",
+    "Añade los guisantes, un chorrito de agua y rehoga tapado 6 minutos, hasta que estén tiernos pero verdes.",
+    "Incorpora el jamón y saltea 1 minuto, solo para que suelte su grasa y su aroma (si se cocina más, se endurece).",
+    "Cuece los espaguetis según el paquete, escúrrelos guardando un poco de agua y pásalos a la sartén con 3 cucharadas de esa agua. Saltea 1 minuto para que todo se una.",
+    "Sirve con pimienta negra recién molida."
+  ],
+  nutricion: { kcal: 443, prot: 20, hc: 66, grasa: 11 },
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "primavera"],
+  consejo: "Los guisantes con jamón son un clásico de la cocina española; con pasta se convierten en plato único. Si quieres, añade un huevo duro picado por encima al servir.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1253",
+  nombre: "Espaguetis negros con calamar en su tinta",
+  subtitulo: "con sofrito de cebolla, tomate y vino blanco",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "marisco",
+  tiempo: 50,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "espaguetis", q: 160, u: "g" },
+    { n: "calamar", q: 300, u: "g", nota: "limpio, en anillas" },
+    { n: "tinta de calamar", q: 2, u: "ud", nota: "sobres de 4 g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "tomate triturado", q: 150, u: "g" },
+    { n: "vino blanco", q: 80, u: "ml" },
+    { n: "perejil fresco", q: 0.5, u: "manojo" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "En una sartén amplia con el aceite, pocha la cebolla picada fina y el ajo a fuego medio-bajo 12 minutos, hasta que estén muy blandos y dorados.",
+    "Sube el fuego, añade el calamar salado y saltea 3 minutos.",
+    "Vierte el vino y deja evaporar 2 minutos. Añade el tomate triturado y cocina tapado a fuego suave 20 minutos, hasta que el calamar esté tierno (añade un chorrito de agua si se seca).",
+    "Disuelve la tinta en 3 cucharadas de agua caliente y añádela a la salsa. Cocina 2 minutos: quedará negra y brillante.",
+    "Cuece los espaguetis 1 minuto menos de lo indicado, pásalos a la salsa con un chorrito de su agua y saltea 1 minuto, hasta que estén bien teñidos.",
+    "Sirve con perejil picado. Si te gusta, acompaña con una cucharadita de alioli."
+  ],
+  nutricion: { kcal: 552, prot: 30, hc: 72, grasa: 16 },
+  etiquetas: ["tradicional", "fácil", "para invitados", "alta en proteína"],
+  consejo: "El calamar se queda tierno si se hace muy rápido o muy lento: o 2 minutos o 20 minutos, nunca en medio. Aquí lo guisamos lento, así que paciencia.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1254",
+  nombre: "Käsespätzle: ñoquis alpinos de huevo con queso y cebolla frita",
+  subtitulo: "la pasta casera de Suabia, gratinada con gruyère",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "europea",
+  momentos: ["comida"],
+  proteina: "queso",
+  tiempo: 45,
+  dificultad: "media",
+  equipo: ["cazuela", "sartén", "bol", "horno"],
+  raciones: 2,
+  ingredientes: [
+    { n: "harina de trigo", q: 180, u: "g" },
+    { n: "huevo", q: 2, u: "ud" },
+    { n: "leche", q: 60, u: "ml" },
+    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "queso gruyère", q: 100, u: "g", nota: "rallado" },
+    { n: "cebolla", q: 2, u: "ud" },
+    { n: "mantequilla", q: 25, u: "g" },
+    { n: "cebollino fresco", q: 0.5, u: "manojo", opcional: true },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "En un bol, mezcla la harina, los huevos, la leche, la nuez moscada y una pizca de sal. Bate con una cuchara de madera 3-4 minutos, hasta que la masa esté elástica y haga burbujas. Deja reposar 10 minutos.",
+    "Corta las cebollas en aros finos y fríelas en una sartén con la mitad de la mantequilla a fuego medio 15 minutos, removiendo, hasta que estén muy doradas y crujientes por los bordes.",
+    "Pon a hervir abundante agua con sal. Precalienta el horno a 200 °C.",
+    "Pon la masa sobre una tabla mojada y, con un cuchillo, raspa tiras finas directamente al agua hirviendo (o pásala por un colador de agujeros grandes). Cuando suban a la superficie, en 1-2 minutos, sácalas con una espumadera.",
+    "En una fuente untada con el resto de la mantequilla, alterna capas de spätzle y queso, salpimentando cada capa.",
+    "Hornea 8-10 minutos, hasta que el queso se funda. Cubre con la cebolla frita y el cebollino picado y sirve."
+  ],
+  nutricion: { kcal: 826, prot: 34, hc: 78, grasa: 42 },
+  etiquetas: ["tradicional", "al horno", "invierno", "saciante", "vegetariano", "para niños"],
+  consejo: "Si no te animas a raspar la masa, usa un rallador de agujeros grandes o un colador de pasta: lo importante es que caigan gotas alargadas al agua. Acompáñalo de una ensalada de lechuga con vinagreta.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1255",
+  nombre: "Pasta con salsa de nueces a la ligur",
+  subtitulo: "salsa cremosa de nueces, pan y parmesano, sin cocción",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida", "cena"],
+  proteina: "verdura",
+  tiempo: 25,
+  dificultad: "fácil",
+  equipo: ["cazuela", "batidora"],
+  raciones: 2,
+  ingredientes: [
+    { n: "pasta corta", q: 160, u: "g", nota: "tipo trofie o fusilli" },
+    { n: "nueces", q: 40, u: "g" },
+    { n: "pan", q: 1, u: "rebanada", nota: "sin corteza" },
+    { n: "leche", q: 80, u: "ml" },
+    { n: "ajo", q: 0.5, u: "diente" },
+    { n: "parmesano", q: 20, u: "g", nota: "rallado" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "mejorana seca", q: 0.5, u: "cdta", opcional: true },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Remoja el pan en la leche 5 minutos.",
+    "Escalda las nueces 1 minuto en agua hirviendo y frota con un paño para quitar parte de la piel (así la salsa no amarga).",
+    "Tritura las nueces con el pan y su leche, el ajo, el parmesano, el aceite, la mejorana y una pizca de sal hasta tener una crema espesa y fina.",
+    "Cuece la pasta en agua con sal según el paquete. Guarda un vaso de agua de cocción antes de escurrir.",
+    "Mezcla la pasta con la salsa fuera del fuego, añadiendo agua de cocción a cucharadas hasta que quede cremosa y envuelva bien.",
+    "Sirve con un poco más de parmesano y unas nueces troceadas por encima."
+  ],
+  nutricion: { kcal: 596, prot: 18, hc: 68, grasa: 28 },
+  etiquetas: ["tradicional", "rápida", "fácil", "vegetariano", "otoño"],
+  consejo: "La salsa no se cocina nunca: con el calor de la pasta basta. Se conserva 2 días en la nevera tapada con una capa fina de aceite.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1256",
+  nombre: "Espaguetis a la riojana con chorizo y pimientos",
+  subtitulo: "con salsa de tomate y pimiento choricero",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "cerdo",
+  tiempo: 35,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "espaguetis", q: 160, u: "g" },
+    { n: "chorizo", q: 70, u: "g", nota: "en dados pequeños" },
+    { n: "pimiento rojo", q: 0.5, u: "ud" },
+    { n: "pimiento verde", q: 1, u: "ud" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "tomate triturado", q: 300, u: "g" },
+    { n: "carne de pimiento choricero", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "En una sartén amplia con la cucharadita de aceite, dora el chorizo a fuego medio 3 minutos, hasta que suelte su grasa roja. Sácalo y deja la grasa.",
+    "En esa grasa, pocha la cebolla, los pimientos y el ajo picados a fuego medio-bajo 10 minutos, hasta que estén blandos.",
+    "Añade el tomate triturado y la carne de pimiento choricero, sala y cocina a fuego suave 12 minutos, hasta que espese. Devuelve el chorizo.",
+    "Cuece los espaguetis según el paquete y escúrrelos guardando un poco del agua.",
+    "Mezcla la pasta con la salsa y un chorrito del agua de cocción y saltea 1 minuto a fuego vivo. Sirve enseguida."
+  ],
+  nutricion: { kcal: 608, prot: 24, hc: 74, grasa: 24 },
+  etiquetas: ["tradicional", "fácil", "económica", "invierno", "para niños"],
+  consejo: "La carne de choricero es la que da el sabor riojano; si no la tienes, usa 1 cucharadita de pimentón dulce añadida fuera del fuego. Con un chorizo de buena calidad basta con poca cantidad.",
+  contundencia: "media",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1257",
+  nombre: "Pasta al horno a la napolitana",
+  subtitulo: "con ragú, albondiguitas, huevo duro, mozzarella y ricotta",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 120,
+  dificultad: "elaborada",
+  equipo: ["cazuela", "sartén", "horno", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "rigatoni", q: 170, u: "g" },
+    { n: "ternera picada", q: 150, u: "g" },
+    { n: "pan rallado", q: 20, u: "g" },
+    { n: "huevo", q: 3, u: "ud", nota: "1 para las albóndigas y 2 cocidos" },
+    { n: "parmesano", q: 30, u: "g", nota: "rallado" },
+    { n: "tomate triturado", q: 500, u: "g" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "vino tinto", q: 50, u: "ml" },
+    { n: "mozzarella", q: 100, u: "g" },
+    { n: "ricotta", q: 80, u: "g" },
+    { n: "albahaca fresca", q: 0.5, u: "manojo" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Mezcla la ternera con el pan rallado, 1 huevo, la mitad del parmesano, sal y pimienta. Forma albondiguitas del tamaño de una avellana y dóralas en una sartén con 2 cucharadas de aceite 4 minutos. Resérvalas.",
+    "En una cazuela con el resto del aceite, pocha la cebolla y el ajo picados 6 minutos. Vierte el vino, deja evaporar y añade el tomate y unas hojas de albahaca. Cuece 30 minutos a fuego suave. Añade las albondiguitas los últimos 10 minutos.",
+    "Cuece los otros 2 huevos 10 minutos, pélalos y córtalos en rodajas. Corta la mozzarella en dados y mezcla la ricotta con 2 cucharadas de salsa.",
+    "Cuece los rigatoni la mitad del tiempo del paquete, escúrrelos y mézclalos con dos tercios de la salsa. Precalienta el horno a 190 °C.",
+    "En una fuente, pon la mitad de la pasta; reparte encima la ricotta a cucharadas, el huevo, la mitad de la mozzarella y las albondiguitas. Cubre con el resto de la pasta, el resto de la salsa, la mozzarella y el parmesano.",
+    "Hornea 25 minutos, hasta que los bordes estén crujientes y el queso dorado. Deja reposar 10 minutos antes de cortar para que se asiente."
+  ],
+  nutricion: { kcal: 858, prot: 44, hc: 76, grasa: 42 },
+  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "saciante", "batch cooking"],
+  consejo: "Es el plato de las fiestas y del carnaval en Nápoles. Se puede montar la víspera, guardarlo tapado en la nevera y hornearlo 10 minutos más. Recalentado al día siguiente está aún mejor.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1258",
+  nombre: "Rigatoni con ragú napolitano de domingo",
+  subtitulo: "carne en trozo guisada tres horas en tomate y vino tinto",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 210,
+  dificultad: "media",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "rigatoni", q: 160, u: "g" },
+    { n: "ternera para guisar", q: 250, u: "g", nota: "en un solo trozo (morcillo o aguja)" },
+    { n: "costillas de cerdo", q: 200, u: "g" },
+    { n: "salchichas frescas", q: 100, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "tomate triturado", q: 700, u: "g" },
+    { n: "tomate concentrado", q: 1, u: "cda" },
+    { n: "vino tinto", q: 150, u: "ml" },
+    { n: "albahaca fresca", q: 0.5, u: "manojo" },
+    { n: "parmesano", q: 20, u: "g", nota: "rallado" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Sala las carnes. En una cazuela de fondo grueso con el aceite, dora la ternera, la costilla y las salchichas a fuego medio 12 minutos, hasta que estén bien tostadas por todos lados.",
+    "Añade la cebolla picada fina y pocha 10 minutos a fuego suave, raspando el fondo.",
+    "Incorpora el tomate concentrado, remueve 1 minuto y vierte el vino tinto poco a poco, dejando que se evapore cada chorrito (unos 8 minutos en total).",
+    "Añade el tomate triturado, unas hojas de albahaca y un vaso de agua. Cuando empiece a hervir, baja al mínimo, tapa dejando una rendija y cuece 2 horas y media, removiendo cada 20 minutos. La salsa debe quedar oscura y espesa y la carne, que se deshaga con el tenedor.",
+    "Saca las carnes, rectifica la salsa de sal y cuece los rigatoni en agua con sal según el paquete.",
+    "Mezcla la pasta con la salsa y sirve con parmesano y albahaca. Las carnes se sirven después como segundo, o troceadas sobre la pasta si lo quieres como plato único."
+  ],
+  nutricion: { kcal: 826, prot: 50, hc: 80, grasa: 34 },
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "batch cooking"],
+  consejo: "En Nápoles se dice que el ragú 'pippiare', es decir, que apenas burbujea: el fuego tiene que estar al mínimo. Haz el doble de salsa y congélala en raciones; es la mejor base de pasta que puedas tener.",
+  contundencia: "contundente",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1259",
+  nombre: "Ossobuco a la milanesa con risotto al azafrán",
+  subtitulo: "jarrete de ternera guisado con gremolata de limón y perejil",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida"],
+  proteina: "ternera",
+  tiempo: 150,
+  dificultad: "media",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "ossobuco de ternera", q: 2, u: "ud", nota: "de unos 300 g cada uno" },
+    { n: "arroz arborio", q: 150, u: "g" },
+    { n: "harina de trigo", q: 1, u: "cda" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "zanahoria", q: 1, u: "ud" },
+    { n: "apio", q: 1, u: "rama" },
+    { n: "vino blanco", q: 150, u: "ml" },
+    { n: "tomate triturado", q: 100, u: "g" },
+    { n: "caldo de carne", q: 1000, u: "ml" },
+    { n: "azafrán", q: 1, u: "pizca" },
+    { n: "mantequilla", q: 25, u: "g" },
+    { n: "parmesano", q: 30, u: "g", nota: "rallado" },
+    { n: "limón", q: 1, u: "ud", nota: "solo la piel" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "perejil fresco", q: 0.5, u: "manojo" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Haz dos cortes en la piel del borde de cada ossobuco para que no se arqueen. Salpimiéntalos, pásalos por harina y dóralos en la cazuela con el aceite a fuego medio 4 minutos por lado. Sácalos.",
+    "En la misma cazuela, pocha la mitad de la cebolla, la zanahoria y el apio picados finos 10 minutos. Vierte el vino y deja reducir a la mitad.",
+    "Añade el tomate y 300 ml de caldo, devuelve los ossobucos, tapa y cuece a fuego muy suave 1 hora y 45 minutos, dándoles la vuelta a mitad, hasta que la carne se separe del hueso. Añade caldo si la salsa se seca.",
+    "Para la gremolata, pica muy fino el perejil con el ajo y la piel rallada del limón. Reserva.",
+    "Cuando falten 25 minutos, empieza el risotto: calienta el resto del caldo con el azafrán. En un cazo con la mitad de la mantequilla, pocha la otra media cebolla picada 5 minutos, añade el arroz y nácaralo 1 minuto.",
+    "Añade el caldo caliente cucharón a cucharón, removiendo a menudo, durante 17-18 minutos, hasta que el arroz esté cremoso y al dente.",
+    "Apaga y manteca el risotto con el resto de la mantequilla y el parmesano, removiendo con energía 30 segundos. Sirve el risotto con un ossobuco encima, su salsa y la gremolata espolvoreada al final."
+  ],
+  nutricion: { kcal: 792, prot: 50, hc: 76, grasa: 32 },
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante"],
+  consejo: "No te olvides del tuétano: es el premio del plato y se come con cucharilla. La gremolata se pone al final y en crudo, para que el limón y el ajo despierten la salsa.",
+  contundencia: "contundente",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1260",
+  nombre: "Espaguetis alla Nerano con calabacín frito y provolone",
+  subtitulo: "la pasta de la costa amalfitana, cremosa sin nata",
+  origen: "inventada",
+  categoria: "pasta-arroces",
+  cocina: "mediterránea",
+  momentos: ["comida", "cena"],
+  proteina: "verdura",
+  tiempo: 30,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "espaguetis", q: 160, u: "g" },
+    { n: "calabacín", q: 2, u: "ud", nota: "medianos" },
+    { n: "queso provolone", q: 40, u: "g", nota: "rallado" },
+    { n: "parmesano", q: 15, u: "g", nota: "rallado" },
+    { n: "albahaca fresca", q: 0.5, u: "manojo" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Corta los calabacines en rodajas finas (2-3 mm). Calienta el aceite con el ajo chafado en una sartén amplia a fuego medio-fuerte.",
+    "Fríe el calabacín en dos tandas 5-6 minutos por tanda, hasta que esté dorado. Sácalo a un plato, sálalo y añade unas hojas de albahaca rotas. Retira el ajo; guarda el aceite en la sartén.",
+    "Cuece los espaguetis en agua con sal 2 minutos menos de lo indicado. Guarda un vaso de agua de cocción.",
+    "Devuelve dos tercios del calabacín a la sartén con un cucharón de agua de cocción y aplástalo un poco con la cuchara para que se convierta en crema.",
+    "Añade la pasta y termina de cocerla en la sartén 2 minutos, removiendo y añadiendo agua de cocción si hace falta.",
+    "Apaga el fuego, incorpora el provolone y el parmesano y remueve con energía hasta que la salsa quede cremosa y elástica. Sirve con el calabacín reservado, albahaca y pimienta."
+  ],
+  nutricion: { kcal: 594, prot: 20, hc: 70, grasa: 26 },
+  etiquetas: ["tradicional", "fácil", "verano", "vegetariano"],
+  consejo: "El calabacín frito del día anterior queda aún mejor: así lo hacen en Nerano. Si no encuentras provolone, usa mitad parmesano y mitad un queso tierno de vaca que funda bien.",
+  contundencia: "media",
+  coste: "media"
+});

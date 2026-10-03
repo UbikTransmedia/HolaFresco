@@ -24,7 +24,7 @@ desde la misma wifi, o copia la carpeta al móvil y ábrela con un navegador que
 
 | Sección | Qué hace |
 |---|---|
-| 🍳 **Recetas** | Cientos de recetas en 9 categorías (legumbres, pescado, carnes, vegetariano, vegano, ensaladas, pasta y arroces, sopas y cremas, olla exprés): **64 desarrolladas** a partir de los títulos de un recetario de referencia (no incluido en el repositorio) (etiqueta 📄 *Recetario*) y **más de 1.000 inventadas** inspirándose en él (entre ellas 300 mediterráneas fáciles y aromáticas, con la etiqueta «mediterránea») (etiqueta ✨ *Inventada*). Cada receta tiene **tipo de cocina** (española, mediterránea, asiática, india, Oriente Medio, latinoamericana, europea, americana, fusión), **contundencia** (ligera / media / contundente) y **coste** (económica / media / premium). Búsqueda por nombre, ingrediente, cocina o etiqueta; filtros por todo lo anterior más dieta, momento y tiempo. **Favoritas** (★, el asistente las elige más) y **excluidas de menús** (🚫, siguen en el recetario pero el asistente no las usa). Alta, edición, duplicado; ocultar recetas (recuperables desde Ajustes). Cada receta se escala a las raciones que quieras. |
+| 🍳 **Recetas** | Cientos de recetas en 9 categorías (legumbres, pescado, carnes, vegetariano, vegano, ensaladas, pasta y arroces, sopas y cremas, olla exprés): **64 desarrolladas** a partir de los títulos de un recetario de referencia (no incluido en el repositorio) (etiqueta 📄 *Recetario*) y **1.510 inventadas** inspirándose en él (entre ellas 300 mediterráneas fáciles y aromáticas, con la etiqueta «mediterránea», y 500 tradicionales fáciles y saciantes, con la etiqueta «tradicional») (etiqueta ✨ *Inventada*). Cada receta tiene **tipo de cocina** (española, mediterránea, asiática, india, Oriente Medio, latinoamericana, europea, americana, fusión), **contundencia** (ligera / media / contundente) y **coste** (económica / media / premium). Búsqueda por nombre, ingrediente, cocina o etiqueta; filtros por todo lo anterior más dieta, momento y tiempo. **Favoritas** (★, el asistente las elige más) y **excluidas de menús** (🚫, siguen en el recetario pero el asistente no las usa). Alta, edición, duplicado; ocultar recetas (recuperables desde Ajustes). Cada receta se escala a las raciones que quieras. |
 | 🪄 **Nuevo menú** | Asistente en 7 pasos: personas (sexo, edad, peso, altura, actividad y objetivos), días y comidas, gustos (frecuencia por tipo de plato, cocinas del mundo preferidas o a evitar, dietas), ajustes (tiempo máximo entre semana y fin de semana, estricto u orientativo; contundencia de comidas y cenas; presupuesto económico/medio/premium; no repetir recetas de las últimas semanas; sobras; olla exprés), vetos (grupos de alérgenos o ingredientes concretos), recetas fijas y resultado editable hueco a hueco. El menú **se recalcula automáticamente** al volver al último paso si has cambiado algo. |
 | 📅 **Mis menús** | Base de datos de menús generados. Al abrir uno se muestra **primero la lista de la compra** (agrupada por pasillos, con casillas que se recuerdan y botón de copiar) y después el menú semanal y un resumen de la configuración usada. |
 | 📄 **Exportar** | Desde cada menú guardado: **PDF** (plan de comidas como índice enlazado a cada receta, lista de la compra con casillas, una receta por página, marcadores y un anexo con el Markdown para copiar; además lleva adjuntos `menu-completo.md`, `plan-de-comidas.md`, `lista-de-la-compra.md` y `recetas.md`) y copia en **Markdown** del plan, de todas las recetas, del menú completo con la lista o de cada receta suelta. |
@@ -73,7 +73,13 @@ js/
     ESQUEMA.md               esquema de datos de las recetas
     recetas-*.js             64 recetas del recetario por categoría
     recetas-inventadas.js    10 primeras recetas inventadas
-    inventadas-NNx.js        1.000 recetas inventadas más, en ficheros de 25 por bloque temático
+    inventadas-NNx.js        1.500 recetas inventadas más, en ficheros de 25 por bloque temático
+bkg/
+  inicio.jpg, inicio-movil.jpg   foto de fondo de la portada (Stefan Vladimirov, Unsplash), optimizada
 ```
 
 Para añadir recetas a mano a la semilla, sigue `js/data/ESQUEMA.md` (o usa «+ Nueva receta» en la app).
+
+## Créditos
+
+Foto de la portada: Stefan Vladimirov en [Unsplash](https://unsplash.com/photos/Q_Moi2xjieU), bajo la licencia de Unsplash.

@@ -22,35 +22,27 @@
 
   /* ---------- Inicio ---------- */
   const renderInicio = (cont) => {
-    const menus = window.Menus.todos();
-    const ultimo = menus[0];
-    const total = Recetas.todas().length;
-    const porOrigen = {};
-    for (const r of Recetas.todas()) porOrigen[r.origen] = (porOrigen[r.origen] || 0) + 1;
-    const personas = window.Personas.todas();
     UI.append(cont, 
       h("section.hero",
         h("h1", "HolaFresco"),
-        h("p.hero-sub", "Tu recetario, un asistente que arma el menú de la semana y la lista de la compra lista para pegar en el móvil."),
+        h("p.hero-sub", "Planea tu menú semanal sin complicaciones"),
         h("div.hero-acciones",
           h("button.btn.btn-primario.btn-grande", { type: "button", onClick: () => ir("/wizard") }, "🪄 Crear menú semanal"),
           h("button.btn.btn-grande", { type: "button", onClick: () => ir("/recetas") }, "🍳 Ver recetas")
         )
       ),
-      h("div.grid-inicio",
-        h("article.tarjeta-inicio", { tabindex: "0", role: "button", onClick: () => ir("/recetas"), onKeydown: (e) => { if (e.key === "Enter") ir("/recetas"); } }, h("h2", "🍳 Recetas"), h("p", h("strong", String(total)), " recetas: ", h("span.badge.badge-recetario", "📄 ", String(porOrigen.recetario || 0), " del recetario"), " ", h("span.badge.badge-inventada", "✨ ", String(porOrigen.inventada || 0), " inventadas"), porOrigen.propia ? h("span", " ", h("span.badge.badge-propia", "✍️ ", String(porOrigen.propia), " tuyas")) : null), h("p.muted", "Busca por ingrediente, filtra por categoría o dieta, añade las tuyas.")),
-        h("article.tarjeta-inicio", { tabindex: "0", role: "button", onClick: () => ir("/wizard"), onKeydown: (e) => { if (e.key === "Enter") ir("/wizard"); } }, h("h2", "🪄 Nuevo menú"), h("p", personas.length ? `Hogar: ${personas.map((p) => `${window.Personas.avatar(p)} ${p.nombre}`).join(", ")}` : "Empieza añadiendo a las personas de tu hogar."), h("p.muted", "Seis pasos: personas, días, gustos, vetos, recetas fijas y listo.")),
-        h("article.tarjeta-inicio", { tabindex: "0", role: "button", onClick: () => ir(ultimo ? `/menus/${ultimo.id}` : "/menus"), onKeydown: (e) => { if (e.key === "Enter") ir(ultimo ? `/menus/${ultimo.id}` : "/menus"); } }, h("h2", "📅 Mis menús"), ultimo ? h("p", "Último: ", h("strong", ultimo.nombre), h("span.muted", ` · ${UI.fmtFecha(ultimo.creado)}`)) : h("p", "Aún no hay menús guardados."), h("p.muted", menus.length ? `${menus.length} ${UI.plural(menus.length, "menú", "menús")} con su lista de la compra.` : "Cada menú guarda su lista de la compra para copiarla al móvil."))
+      h("section.pasos-inicio", { "aria-label": "Cómo funciona" },
+        h("ol.pasos-lista",
+          h("li.paso-tarjeta", h("span.paso-numero", "1"), h("span.paso-emoji", { "aria-hidden": "true" }, "🪄"), h("h2", "Elige lo que te gusta"),
+            h("p", "Cuéntale al asistente quién come en casa, qué días cocinas, qué tipo de platos te apetecen y qué no quieres ver. Genera tantos menús como quieras, sin límite.")),
+          h("li.paso-tarjeta", h("span.paso-numero", "2"), h("span.paso-emoji", { "aria-hidden": "true" }, "📅"), h("h2", "Obtén tu menú semanal"),
+            h("p", "Recibe un menú de comidas y cenas adaptado a tus gustos, tu tiempo y tu presupuesto. Cambia cualquier plato con un clic hasta que te convenza.")),
+          h("li.paso-tarjeta", h("span.paso-numero", "3"), h("span.paso-emoji", { "aria-hidden": "true" }, "🛒"), h("h2", "Compra sin complicaciones"),
+            h("p", "Tu lista de la compra sale sola, agrupada por pasillos y con las cantidades justas. Cópiala en tu móvil y ve marcando lo que echas al carro."))
+        )
       ),
-      h("section.bloque.bloque-ayuda",
-        h("h3", "¿Cómo funciona?"),
-        h("ol.lista-pasos-inicio",
-          h("li", h("strong", "Personas. "), "Añade a quien come en casa: sexo, edad, peso y objetivos. Con eso ajustamos las raciones."),
-          h("li", h("strong", "Días y gustos. "), "Marca qué comidas planificar, con qué frecuencia quieres legumbre, pescado, carne… y qué ingredientes vetar."),
-          h("li", h("strong", "Menú y compra. "), "Revisa el menú, cambia lo que quieras y guárdalo. La lista de la compra sale agrupada por pasillos y se copia como lista de tareas.")
-        ),
-        h("p.muted", "Todo se guarda en este navegador (no hay servidor). Desde ⚙️ Ajustes puedes exportar una copia de seguridad.")
-      )
+      h("p.nota-inicio", "Todo se guarda en este navegador, sin cuentas ni servidor. Desde ⚙️ Ajustes puedes exportar una copia de seguridad."),
+      h("p.credito-foto", "Foto: Stefan Vladimirov · Unsplash")
     );
   };
 
@@ -115,6 +107,7 @@
     aplicarTema();
     UI.vaciar(main);
     main.className = "contenido vista-" + ruta.id;
+    document.body.classList.toggle("fondo-inicio", ruta.id === "inicio");
     if (ruta.id === "inicio") renderInicio(main);
     else if (ruta.id === "recetas") window.Vistas.recetas.render(main, ruta.params);
     else if (ruta.id === "wizard") window.Vistas.wizard.render(main, ruta.params);

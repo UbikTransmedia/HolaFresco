@@ -623,3 +623,43 @@ input[type="checkbox"], input[type="radio"] { accent-color: var(--primario); wid
 .barra-exportar-titulo { font-weight: 700; font-size: .9rem; margin-right: .25rem; }
 @media (max-width: 600px) { .barra-exportar .btn { flex: 1 1 100%; } }
 @media print { .barra-exportar { display: none !important; } }
+
+/* Inicio: tres pasos */
+.pasos-inicio { margin: .5rem 0 1.75rem; }
+.pasos-lista { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+.paso-tarjeta { position: relative; background: var(--superficie); border: 1px solid var(--borde); border-radius: var(--radio); padding: 1.4rem 1.25rem 1.25rem; box-shadow: var(--sombra-btn); text-align: center; }
+.paso-tarjeta h2 { font-size: 1.15rem; margin: .4rem 0 .5rem; }
+.paso-tarjeta p { margin: 0; color: var(--texto-suave); font-size: .95rem; }
+.paso-numero { position: absolute; top: -.85rem; left: 50%; transform: translateX(-50%); width: 1.8rem; height: 1.8rem; border-radius: 50%; background: var(--primario); color: #fff; font-weight: 800; display: flex; align-items: center; justify-content: center; box-shadow: var(--sombra-btn); }
+:root[data-theme="dark"] .paso-numero, :root[data-theme="oceano"] .paso-numero { color: #10100f; }
+.paso-emoji { display: block; font-size: 2rem; line-height: 1.2; margin-top: .2rem; }
+.nota-inicio { text-align: center; font-size: .88rem; margin-top: .5rem; }
+@media (max-width: 760px) { .pasos-lista { grid-template-columns: 1fr; gap: 1.4rem; } }
+
+/* ---------- Inicio con foto de fondo (el resto de pantallas, fondo plano) ---------- */
+body.fondo-inicio {
+  background-color: #2a1d15;
+  background-image: linear-gradient(180deg, rgba(20, 13, 9, .72) 0%, rgba(20, 13, 9, .55) 45%, rgba(20, 13, 9, .78) 100%), url("../bkg/inicio.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+@media (max-width: 760px) {
+  body.fondo-inicio { background-image: linear-gradient(180deg, rgba(20, 13, 9, .74) 0%, rgba(20, 13, 9, .6) 50%, rgba(20, 13, 9, .8) 100%), url("../bkg/inicio-movil.jpg"); background-attachment: scroll; }
+}
+body.fondo-inicio .vista-inicio { display: flex; flex-direction: column; justify-content: center; min-height: calc(100vh - 140px); padding-top: clamp(2.5rem, 7vh, 5rem); padding-bottom: clamp(2.5rem, 6vh, 4.5rem); }
+body.fondo-inicio .hero { padding: 0 1rem clamp(2.5rem, 8vh, 5rem); }
+body.fondo-inicio .hero h1 { color: #fff; font-size: clamp(2.6rem, 7vw, 4.2rem); letter-spacing: -.02em; text-shadow: 0 2px 18px rgba(0, 0, 0, .55); margin-bottom: .75rem; }
+body.fondo-inicio .hero-sub { color: #f4ece2; font-size: clamp(1.15rem, 2.4vw, 1.45rem); text-shadow: 0 1px 10px rgba(0, 0, 0, .6); margin-bottom: 2rem; }
+body.fondo-inicio .hero-acciones { gap: 1rem; }
+body.fondo-inicio .pasos-inicio { margin: 0 0 clamp(2rem, 6vh, 3.5rem); }
+body.fondo-inicio .pasos-lista { gap: clamp(1rem, 2.5vw, 1.75rem); }
+body.fondo-inicio .paso-tarjeta { padding: 2rem 1.5rem 1.6rem; box-shadow: 0 10px 30px -12px rgba(0, 0, 0, .6); border-color: transparent; }
+body.fondo-inicio .paso-tarjeta h2 { margin: .6rem 0 .7rem; }
+body.fondo-inicio .paso-tarjeta p { line-height: 1.6; }
+body.fondo-inicio .nota-inicio { color: #efe6db; text-shadow: 0 1px 6px rgba(0, 0, 0, .7); text-align: center; font-size: .9rem; margin: 0; }
+.credito-foto { display: none; }
+body.fondo-inicio .credito-foto { display: block; text-align: center; color: rgba(255, 255, 255, .6); font-size: .75rem; margin: .5rem 0 0; }
+body.fondo-inicio .pie { background: rgba(20, 13, 9, .6); border-top-color: transparent; }
+body.fondo-inicio .pie .muted { color: #d9cdbf; }
+@media (max-width: 760px) { body.fondo-inicio .pasos-lista { gap: 2rem; } body.fondo-inicio .vista-inicio { min-height: 0; } }

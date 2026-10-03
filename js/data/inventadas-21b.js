@@ -1,0 +1,1021 @@
+window.RECETAS_SEED = window.RECETAS_SEED || [];
+
+/* Recetas INVENTADAS de LEGUMBRES · cocina de cuchara tradicional (bloque 21b: inv-1036 a inv-1060).
+   Potajes y guisos de legumbre de España, Europa, Oriente Medio y Latinoamérica, en cazuela. Cantidades para 2 raciones. */
+
+window.RECETAS_SEED.push({
+  id: "inv-1036",
+  nombre: "Linseneintopf: potaje alemán de lentejas con salchichas",
+  subtitulo: "con patata, apio, bacon y un toque de vinagre",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "europea",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 55,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "lentejas pardinas secas", q: 150, u: "g" },
+    { n: "salchicha ahumada", q: 150, u: "g", nota: "tipo Frankfurt" },
+    { n: "bacon", q: 40, u: "g", nota: "en taquitos" },
+    { n: "patata", q: 1, u: "ud" },
+    { n: "zanahoria", q: 1, u: "ud" },
+    { n: "apio", q: 1, u: "rama" },
+    { n: "puerro", q: 0.5, u: "ud" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "caldo de verduras", q: 900, u: "ml" },
+    { n: "vinagre de vino", q: 1, u: "cda" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "En la cazuela, dora el bacon a fuego medio 3 minutos sin aceite, hasta que suelte la grasa.",
+    "Añade la cebolla picada y el puerro en rodajas y pocha 5 minutos. Incorpora la zanahoria y el apio en dados pequeños y rehoga 3 minutos más.",
+    "Agrega las lentejas lavadas, el laurel y el caldo. Lleva a ebullición, baja el fuego y cuece tapado a medias 20 minutos.",
+    "Añade la patata pelada en dados y cuece 15 minutos más, hasta que lentejas y patata estén tiernas.",
+    "Corta las salchichas en rodajas gruesas, échalas a la cazuela y calienta 5 minutos sin que hierva fuerte.",
+    "Fuera del fuego, añade el vinagre, salpimienta y espolvorea perejil picado. Sirve con pan de centeno."
+  ],
+  nutricion: { kcal: 614, prot: 34, hc: 70, grasa: 22 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "batch cooking"],
+  consejo: "El chorrito de vinagre al final es imprescindible en Alemania: despierta el sabor de la lenteja. Pon el bote en la mesa para que cada uno añada más a su gusto.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1037",
+  nombre: "Garbure bearnesa con confit de pato",
+  subtitulo: "potaje de alubias y col del suroeste de Francia",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "europea",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 75,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas cocidas", q: 300, u: "g" },
+    { n: "confit de pato (muslos)", q: 2, u: "ud" },
+    { n: "repollo", q: 300, u: "g" },
+    { n: "patata", q: 1, u: "ud" },
+    { n: "zanahoria", q: 1, u: "ud" },
+    { n: "nabo", q: 1, u: "ud" },
+    { n: "puerro", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "tomillo fresco", q: 2, u: "rama" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "pan de centeno", q: 2, u: "rebanada", opcional: true, nota: "tostado, para servir" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Raspa la grasa de los muslos de confit y pon 2 cucharadas en la cazuela. Pocha a fuego suave el puerro en rodajas y los ajos picados 6 minutos.",
+    "Añade la zanahoria, el nabo y la patata en dados grandes, el tomillo, el laurel y 1,2 litros de agua. Lleva a ebullición y cuece tapado a fuego suave 20 minutos.",
+    "Corta el repollo en tiras y añádelo con los muslos de confit enteros. Cuece 30 minutos más, hasta que la col esté muy tierna y la carne se despegue del hueso.",
+    "Saca los muslos, desmenuza la carne descartando piel y huesos y devuélvela a la cazuela con las judías escurridas.",
+    "Cuece 10 minutos más, hasta que el potaje esté tan espeso que la cuchara casi se tenga de pie. Salpimienta.",
+    "Sirve sobre una rebanada de pan de centeno tostado en el fondo del plato."
+  ],
+  nutricion: { kcal: 886, prot: 48, hc: 70, grasa: 46 },
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "para invitados"],
+  consejo: "En Bearne se termina con el chabròt: un chorro de vino tinto en el último caldo del plato, que se bebe directamente. La grasa de pato que sobra del confit, guárdala para unas patatas.",
+  contundencia: "contundente",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1038",
+  nombre: "Jota triestina de alubias, chucrut y costilla",
+  subtitulo: "potaje de Trieste con patata, ajo y comino",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "europea",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 55,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "alubias pintas cocidas", q: 250, u: "g" },
+    { n: "chucrut", q: 250, u: "g", nota: "escurrido" },
+    { n: "costillas de cerdo", q: 150, u: "g", nota: "mejor ahumadas" },
+    { n: "patata", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "comino en grano", q: 0.5, u: "cdta" },
+    { n: "harina de trigo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon la costilla en la cazuela con 1 litro de agua, el laurel y la patata pelada en trozos. Lleva a ebullición, retira la espuma y cuece a fuego suave 30 minutos.",
+    "Mientras, enjuaga el chucrut si lo quieres menos ácido y escúrrelo.",
+    "Saca la patata, aplástala con un tenedor y devuélvela a la cazuela junto con las alubias escurridas y el chucrut.",
+    "En la sartén, calienta el aceite con los ajos laminados y el comino a fuego suave 2 minutos. Añade la harina y remueve 1 minuto hasta que tueste ligeramente.",
+    "Vierte este refrito en la cazuela, remueve y cuece 15 minutos más a fuego suave, hasta que el potaje quede espeso.",
+    "Salpimienta y sirve con la costilla. Está mejor reposada de un día para otro."
+  ],
+  nutricion: { kcal: 552, prot: 32, hc: 52, grasa: 24 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking"],
+  consejo: "El refrito de harina tostada (la prežganje) es lo que une la acidez del chucrut con la cremosidad de la alubia. Si no tienes comino en grano, usa media cucharadita de molido.",
+  contundencia: "media",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1039",
+  nombre: "Fagioli all'uccelletto con salchicha",
+  subtitulo: "alubias blancas toscanas con tomate, ajo y salvia",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "mediterránea",
+  momentos: ["comida", "cena"],
+  proteina: "mixto",
+  tiempo: 35,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas cocidas", q: 400, u: "g" },
+    { n: "salchicha fresca", q: 200, u: "g" },
+    { n: "tomate triturado", q: 200, u: "g" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "salvia fresca", q: 6, u: "hoja" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Pincha las salchichas con un tenedor y dóralas en la cazuela con 1 cucharada de aceite a fuego medio 6 minutos, girándolas. Retíralas y córtalas en trozos.",
+    "En la misma grasa, añade el resto del aceite, los ajos chafados y la salvia, y deja a fuego suave 2 minutos, hasta que el ajo esté dorado y la salvia crujiente.",
+    "Incorpora el tomate triturado, sala y cocina 8 minutos, hasta que espese.",
+    "Añade las alubias escurridas con 100 ml de agua y las salchichas. Cuece tapado a fuego suave 15 minutos, hasta que las alubias se hayan empapado de tomate.",
+    "Salpimienta, riega con un hilo de aceite crudo y sirve con pan tostado."
+  ],
+  nutricion: { kcal: 580, prot: 36, hc: 46, grasa: 28 },
+  etiquetas: ["tradicional", "fácil", "una sola sartén", "batch cooking"],
+  consejo: "El nombre viene de que la salvia y el ajo recuerdan al aliño de los pajaritos (uccelletti) a la cazadora. Sin salchicha, es una guarnición clásica de la carne a la parrilla.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1040",
+  nombre: "Kuru fasulye: alubias blancas a la turca con carne",
+  subtitulo: "guisadas con tomate, pimiento y pimentón picante",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "oriente-medio",
+  momentos: ["comida", "cena"],
+  proteina: "mixto",
+  tiempo: 30,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas cocidas", q: 400, u: "g" },
+    { n: "ternera picada", q: 120, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "pimiento verde", q: 1, u: "ud" },
+    { n: "tomate", q: 1, u: "ud" },
+    { n: "tomate concentrado", q: 1, u: "cda" },
+    { n: "pimentón picante", q: 0.5, u: "cdta" },
+    { n: "mantequilla", q: 10, u: "g" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "En la cazuela con el aceite y la mantequilla, dora la ternera a fuego fuerte 4 minutos, desmenuzándola, hasta que pierda el color rosado.",
+    "Baja a fuego medio, añade la cebolla y el pimiento picados y pocha 6 minutos.",
+    "Incorpora el tomate concentrado y el pimentón y remueve 1 minuto, hasta que la pasta oscurezca. Añade el tomate rallado y cocina 3 minutos.",
+    "Agrega las alubias escurridas y 300 ml de agua caliente. Cuece tapado a fuego suave 15 minutos, hasta que la salsa espese y se ponga roja y brillante.",
+    "Salpimienta y sirve con pan o, como en Turquía, con arroz pilaf y un encurtido al lado."
+  ],
+  nutricion: { kcal: 516, prot: 34, hc: 50, grasa: 20 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "rápida", "batch cooking"],
+  consejo: "En Turquía es casi plato nacional y se sirve siempre con pilav de arroz y cebolla cruda. Si te gusta más picante, añade una guindilla entera mientras cuece.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1041",
+  nombre: "Etli nohut: garbanzos guisados con cordero a la turca",
+  subtitulo: "con tomate, pimiento rojo, comino y mantequilla",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "oriente-medio",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 100,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "cordero para guisar", q: 300, u: "g", nota: "en dados" },
+    { n: "garbanzos cocidos", q: 300, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "pimiento rojo", q: 0.5, u: "ud" },
+    { n: "tomate", q: 1, u: "ud" },
+    { n: "tomate concentrado", q: 1, u: "cda" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "mantequilla", q: 15, u: "g" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Salpimienta el cordero y dóralo en la cazuela con el aceite a fuego fuerte 6 minutos, en una sola capa, hasta que esté bien tostado.",
+    "Baja a fuego medio, añade la mantequilla, la cebolla y el pimiento picados y pocha 8 minutos.",
+    "Agrega el tomate concentrado, el pimentón y el comino y remueve 1 minuto. Incorpora el tomate rallado y cocina 3 minutos.",
+    "Cubre con 600 ml de agua caliente, tapa y cuece a fuego suave 1 hora, hasta que el cordero esté tierno al pincharlo.",
+    "Añade los garbanzos escurridos y cuece 15 minutos más sin tapa, hasta que la salsa reduzca y quede espesa.",
+    "Rectifica de sal y sirve con arroz pilaf o pan, y un bol de yogur al lado."
+  ],
+  nutricion: { kcal: 726, prot: 46, hc: 50, grasa: 38 },
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo"],
+  consejo: "Si el cordero te parece caro, usa ternera para guisar o pollo (contramuslos) y reduce la cocción a 30 minutos. Una cucharada de yogur encima en el plato equilibra la grasa.",
+  contundencia: "contundente",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1042",
+  nombre: "Adas polo: arroz persa con lentejas, dátiles y pasas",
+  subtitulo: "con cebolla dorada, azafrán y canela",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "oriente-medio",
+  momentos: ["comida", "cena"],
+  proteina: "legumbre",
+  tiempo: 55,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "arroz basmati", q: 140, u: "g" },
+    { n: "lentejas pardinas secas", q: 70, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "dátiles", q: 4, u: "ud", nota: "deshuesados" },
+    { n: "pasas", q: 30, u: "g" },
+    { n: "mantequilla", q: 20, u: "g" },
+    { n: "azafrán", q: 1, u: "pizca" },
+    { n: "canela molida", q: 0.5, u: "cdta" },
+    { n: "cúrcuma molida", q: 0.25, u: "cdta" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Cuece las lentejas en agua sin sal 20 minutos, hasta que estén tiernas pero enteras. Escúrrelas.",
+    "Mientras, lava el arroz en agua fría hasta que salga casi transparente. Deja el azafrán en remojo en 2 cucharadas de agua caliente.",
+    "En la sartén con la mitad de la mantequilla, dora la cebolla en juliana a fuego medio 12 minutos, hasta que esté marrón y dulce. Añade la cúrcuma, los dátiles troceados, las pasas y la canela y rehoga 2 minutos.",
+    "En la cazuela, pon el arroz con 280 ml de agua y sal, lleva a ebullición y cuece tapado a fuego mínimo 10 minutos.",
+    "Incorpora con un tenedor las lentejas y la mitad de la cebolla con fruta. Pon el resto de la mantequilla en trocitos por encima, tapa con un paño bajo la tapa y deja 10 minutos más a fuego mínimo.",
+    "Sirve el arroz en una fuente, riega una parte con el azafrán para que quede dorada y corona con el resto de la cebolla, dátiles y pasas."
+  ],
+  nutricion: { kcal: 628, prot: 18, hc: 112, grasa: 12 },
+  etiquetas: ["tradicional", "fácil", "para invitados", "batch cooking"],
+  consejo: "El paño bajo la tapa absorbe el vapor y deja el arroz suelto. Si te gusta el tahdig, la costra crujiente persa, deja los últimos 10 minutos a fuego medio-bajo sin remover.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1043",
+  nombre: "Congrí cubano de frijoles colorados y arroz",
+  subtitulo: "con bacon, sofrito, comino y orégano",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 30,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "alubias rojas cocidas", q: 300, u: "g" },
+    { n: "arroz basmati", q: 140, u: "g", nota: "o cualquier arroz largo" },
+    { n: "bacon", q: 80, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "pimiento verde", q: 1, u: "ud" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "orégano seco", q: 1, u: "cdta" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Corta el bacon en tiras y dóralo en la cazuela a fuego medio 4 minutos, hasta que esté crujiente y suelte la grasa.",
+    "Añade la cebolla, el pimiento y los ajos picados y pocha en esa grasa 6 minutos. Incorpora el comino y el orégano.",
+    "Agrega el arroz lavado y nácaralo 1 minuto, removiendo. Añade las alubias escurridas, el laurel, 300 ml de agua y sal.",
+    "Lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos, hasta que el arroz absorba el agua y quede suelto.",
+    "Apaga y deja reposar tapado 5 minutos. Esponja con un tenedor y sirve con plátano frito o una ensalada de tomate."
+  ],
+  nutricion: { kcal: 820, prot: 26, hc: 125, grasa: 24 },
+  etiquetas: ["tradicional", "fácil", "saciante", "económica", "rápida", "batch cooking"],
+  consejo: "En Oriente cubano el congrí se hace con frijoles colorados; con frijoles negros se llama moros y cristianos. Si usas el caldo de cocer los frijoles en lugar de agua, el arroz queda más oscuro y sabroso.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1044",
+  nombre: "Tacu tacu con huevo frito y salsa criolla",
+  subtitulo: "tortita peruana de frijoles y arroz dorada a la sartén",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "latinoamericana",
+  momentos: ["comida", "cena"],
+  proteina: "mixto",
+  tiempo: 30,
+  dificultad: "fácil",
+  equipo: ["sartén", "cazuela", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas cocidas", q: 300, u: "g", nota: "en Perú, frijol canario" },
+    { n: "arroz basmati", q: 120, u: "g" },
+    { n: "huevo", q: 2, u: "ud" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "pasta de ají amarillo", q: 1, u: "cda" },
+    { n: "cebolla morada", q: 0.5, u: "ud", nota: "para la salsa criolla" },
+    { n: "lima", q: 1, u: "ud" },
+    { n: "cilantro fresco", q: 0.25, u: "manojo" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Cuece el arroz en agua con sal 12 minutos, escúrrelo y extiéndelo para que se enfríe un poco (mejor aún si es arroz del día anterior).",
+    "Mientras, prepara la salsa criolla: corta la cebolla morada en pluma muy fina, lávala en agua fría, escúrrela y alíñala con el zumo de la lima, cilantro picado y sal.",
+    "En la sartén con 1 cucharada de aceite, pocha la cebolla y los ajos picados 4 minutos y añade la pasta de ají. Agrega las judías y aplasta la mitad con el tenedor.",
+    "Mezcla el arroz con las judías hasta tener una masa compacta. Sala.",
+    "Calienta 1 cucharada de aceite en la sartén a fuego medio-alto, pon la mitad de la masa y dale forma de tortilla alargada sacudiendo la sartén. Dórala 3 minutos por lado, hasta que tenga costra. Repite con el resto.",
+    "Fríe los huevos en el aceite restante y sirve cada tacu tacu con su huevo encima y la salsa criolla al lado."
+  ],
+  nutricion: { kcal: 786, prot: 28, hc: 110, grasa: 26 },
+  etiquetas: ["tradicional", "fácil", "saciante", "económica", "rápida"],
+  consejo: "Nació para aprovechar las sobras del arroz con frijoles, así que con arroz frío del día anterior sale mucho mejor: se pega y dora sin romperse. Si no encuentras ají amarillo, usa una pizca de cúrcuma y otra de guindilla.",
+  contundencia: "contundente",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1045",
+  nombre: "Porotos con riendas a la chilena",
+  subtitulo: "alubias guisadas con calabaza y espaguetis",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "legumbre",
+  tiempo: 30,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas cocidas", q: 300, u: "g" },
+    { n: "espaguetis", q: 100, u: "g", nota: "partidos en trozos" },
+    { n: "calabaza", q: 200, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "pimiento rojo", q: 0.5, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "orégano seco", q: 0.5, u: "cdta" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "En la cazuela con el aceite, sofríe la cebolla, el pimiento y los ajos picados a fuego medio 6 minutos.",
+    "Añade el pimentón, el comino y el orégano y remueve 20 segundos.",
+    "Incorpora la calabaza en dados pequeños y 800 ml de agua caliente. Cuece 10 minutos, hasta que la calabaza esté blanda y empiece a deshacerse.",
+    "Añade los porotos escurridos y los espaguetis partidos. Cuece 9–10 minutos, removiendo de vez en cuando para que no se peguen, hasta que la pasta esté hecha y el guiso espeso.",
+    "Sala al gusto y sirve con una ensalada de tomate y cebolla (ensalada chilena)."
+  ],
+  nutricion: { kcal: 596, prot: 24, hc: 98, grasa: 12 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños"],
+  consejo: "Las riendas son los tallarines, que antes se cortaban largos como las riendas del caballo. Aplasta parte de la calabaza contra la cazuela: es la que da al guiso su color y cremosidad.",
+  contundencia: "media",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1046",
+  nombre: "Porotos granados",
+  subtitulo: "guiso chileno de alubias con calabaza, maíz y albahaca",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "latinoamericana",
+  momentos: ["comida", "cena"],
+  proteina: "legumbre",
+  tiempo: 45,
+  dificultad: "fácil",
+  equipo: ["cazuela", "batidora"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas cocidas", q: 300, u: "g", nota: "o pochas frescas, más parecidas a los porotos granados" },
+    { n: "calabaza", q: 250, u: "g" },
+    { n: "maíz dulce", q: 150, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "orégano seco", q: 0.5, u: "cdta" },
+    { n: "albahaca fresca", q: 0.5, u: "manojo" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "En la cazuela con el aceite, sofríe la cebolla y los ajos picados a fuego medio 8 minutos, hasta que estén dorados. Añade el pimentón y el orégano.",
+    "Incorpora la calabaza en dados y 600 ml de agua caliente. Cuece 15 minutos, hasta que la calabaza se deshaga al tocarla.",
+    "Añade los porotos escurridos y cuece 10 minutos más, aplastando parte de la calabaza para espesar.",
+    "Tritura la mitad del maíz con un poco de caldo hasta hacer una pasta (la pastelera) y añádela a la cazuela con el resto de granos enteros.",
+    "Cuece 5 minutos, removiendo, hasta que el guiso quede cremoso. Sala.",
+    "Apaga, añade la albahaca picada a mano y sirve enseguida."
+  ],
+  nutricion: { kcal: 450, prot: 18, hc: 72, grasa: 10 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "verano", "batch cooking"],
+  consejo: "Es el guiso de verano por excelencia en Chile, cuando coinciden porotos frescos, choclo y albahaca. La albahaca, siempre al final y fuera del fuego, para que no pierda el aroma.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1047",
+  nombre: "Frijoles antioqueños con chicharrón y plátano maduro",
+  subtitulo: "fríjoles rojos colombianos con hogao",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 150,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "alubias rojas secas", q: 180, u: "g", nota: "en remojo desde la víspera" },
+    { n: "panceta", q: 120, u: "g", nota: "en un trozo, para el chicharrón" },
+    { n: "plátano macho", q: 1, u: "ud", nota: "bien maduro, con la piel negra" },
+    { n: "zanahoria", q: 1, u: "ud" },
+    { n: "tomate", q: 2, u: "ud" },
+    { n: "cebolleta", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon los frijoles escurridos en la cazuela con la zanahoria entera y agua fría que los cubra tres dedos. Lleva a ebullición y cuece a fuego suave tapado a medias 1 h 45 min, hasta que estén blandos.",
+    "Mientras, prepara el hogao: pocha en la sartén con el aceite la cebolleta y los ajos picados 6 minutos, añade los tomates rallados y el comino y cocina 10 minutos, hasta que espese.",
+    "Saca la zanahoria, tritúrala con un cazo de frijoles y caldo y devuélvela. Añade la mitad del hogao, sala y cuece 15 minutos más, hasta que el caldo esté espeso.",
+    "Corta la panceta en tiras gruesas, hazles cortes en la piel y fríelas en la sartén limpia a fuego medio-bajo 15 minutos con un chorrito de agua, hasta que el agua se evapore y la panceta se fría en su grasa y quede crujiente.",
+    "Pela el plátano, córtalo en rodajas al bies y fríelo en la grasa del chicharrón 2 minutos por lado, hasta que esté caramelizado.",
+    "Sirve los frijoles con el resto del hogao por encima, el chicharrón y las tajadas de plátano maduro."
+  ],
+  nutricion: { kcal: 918, prot: 34, hc: 110, grasa: 38 },
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo"],
+  consejo: "Para que el plátano quede dulce tiene que estar casi negro. Añadir agua a la panceta al principio la cuece por dentro antes de freírla: así queda tierna y crujiente a la vez.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1048",
+  nombre: "Locro criollo de porotos y maíz",
+  subtitulo: "con calabaza, cerdo, chorizo y salsa picante de pimentón",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 180,
+  dificultad: "media",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "maíz pozolero cocido", q: 250, u: "g", nota: "o maíz blanco remojado y cocido" },
+    { n: "judías blancas cocidas", q: 200, u: "g" },
+    { n: "calabaza", q: 300, u: "g" },
+    { n: "cerdo (paleta)", q: 200, u: "g", nota: "en dados" },
+    { n: "chorizo", q: 80, u: "g" },
+    { n: "panceta", q: 50, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "cebolleta", q: 1, u: "ud", nota: "para la salsa" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "pimentón picante", q: 0.5, u: "cdta" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon en la cazuela el cerdo y la panceta en dados con 1,5 litros de agua. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 hora.",
+    "Añade el maíz, la calabaza en trozos y la cebolla picada, y cuece 1 hora más a fuego suave, removiendo cada 15 minutos con cuchara de madera para que no se pegue: la calabaza debe deshacerse por completo.",
+    "Incorpora el chorizo en rodajas, las judías escurridas, el comino y el pimentón dulce, y cuece 30 minutos más, hasta que el locro esté tan espeso que la cuchara deje surco.",
+    "Para la salsa (quiquirimichi), calienta el aceite en la sartén con la cebolleta picada 3 minutos, aparta del fuego y añade el pimentón picante.",
+    "Sala el locro, deja reposar 10 minutos y sirve en cuenco con una cucharada de la salsa roja por encima."
+  ],
+  nutricion: { kcal: 940, prot: 46, hc: 90, grasa: 44 },
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "de domingo", "para invitados"],
+  consejo: "En Argentina el locro es el plato del 25 de mayo y se hace en ollas enormes: haz el doble y congela, que mejora. Si se espesa demasiado, aclara con agua caliente, nunca fría.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1049",
+  nombre: "Alubias blancas con perdiz a la navarra",
+  subtitulo: "perdiz estofada al vino blanco con sus alubias",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 120,
+  dificultad: "media",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas secas", q: 150, u: "g", nota: "en remojo desde la víspera" },
+    { n: "perdiz", q: 1, u: "ud", nota: "limpia, partida en cuartos" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "zanahoria", q: 1, u: "ud" },
+    { n: "ajo", q: 4, u: "diente" },
+    { n: "vino blanco", q: 150, u: "ml" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "tomillo fresco", q: 2, u: "rama" },
+    { n: "pimienta negra en grano", q: 6, u: "ud" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon las alubias escurridas en una olla con agua fría que las cubra dos dedos y lleva a ebullición. Baja a fuego mínimo y cuécelas 1 h 30 min, asustándolas con agua fría dos o tres veces.",
+    "Mientras, sala la perdiz y dórala en la cazuela con el aceite a fuego fuerte 6 minutos, hasta que esté tostada por todos lados.",
+    "Añade la cebolla y la zanahoria en trozos y los ajos enteros con piel. Rehoga 5 minutos a fuego medio.",
+    "Vierte el vino, deja que se evapore el alcohol 3 minutos y añade el laurel, el tomillo, la pimienta y 300 ml de agua. Tapa y estofa a fuego suave 1 hora, hasta que la carne se despegue del hueso.",
+    "Saca la perdiz, tritura la salsa con las verduras (sin el laurel, el tomillo ni la piel de los ajos) y devuélvela a la cazuela.",
+    "Añade las alubias escurridas con un cazo de su caldo y la perdiz. Cuece todo junto 10 minutos a fuego suave, para que las alubias se empapen de la salsa. Sala y sirve."
+  ],
+  nutricion: { kcal: 724, prot: 52, hc: 66, grasa: 28 },
+  etiquetas: ["tradicional", "de cuchara", "saciante", "de domingo", "para invitados", "invierno"],
+  consejo: "Si no encuentras perdiz, usa 2 codornices o un muslo de pato. La perdiz de caza puede tener perdigones: revisa la carne al desmenuzarla.",
+  contundencia: "contundente",
+  coste: "premium"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1050",
+  nombre: "Mongetes amb botifarra",
+  subtitulo: "judías blancas salteadas con ajo y perejil y butifarra a la brasa",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "mixto",
+  tiempo: 25,
+  dificultad: "fácil",
+  equipo: ["sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas cocidas", q: 400, u: "g", nota: "mejor del ganxet" },
+    { n: "butifarra", q: 2, u: "ud", nota: "unos 250 g en total" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "perejil fresco", q: 0.5, u: "manojo" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pincha las butifarras con un tenedor y hazlas en la sartén con un hilo de aceite a fuego medio 12 minutos, girándolas, hasta que estén doradas por fuera y hechas por dentro. Resérvalas calientes.",
+    "Escurre y seca bien las judías con papel de cocina.",
+    "En la misma sartén, con la grasa de la butifarra y el resto del aceite, saltea los ajos picados 30 segundos a fuego medio sin que se quemen.",
+    "Añade las judías y saltéalas a fuego medio-alto 5–6 minutos, sin remover demasiado, hasta que se doren y tengan algunas partes tostadas.",
+    "Sala, espolvorea el perejil picado y sirve las judías con la butifarra encima. Acompaña con all i oli si quieres."
+  ],
+  nutricion: { kcal: 730, prot: 40, hc: 48, grasa: 42 },
+  etiquetas: ["tradicional", "fácil", "rápida", "saciante", "una sola sartén"],
+  consejo: "El secreto son las judías bien secas y la sartén caliente: así se tuestan (se 'socarren') en vez de hacerse puré. Si quedan algunas pegadas al fondo, ráspalas: son lo mejor.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1051",
+  nombre: "Feijão tropeiro mineiro",
+  subtitulo: "frijoles salteados con bacon, huevo, col y harina de mandioca tostada",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 35,
+  dificultad: "fácil",
+  equipo: ["sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "alubias pintas cocidas", q: 300, u: "g" },
+    { n: "bacon", q: 100, u: "g" },
+    { n: "huevo", q: 2, u: "ud" },
+    { n: "harina de mandioca", q: 60, u: "g", nota: "farinha de mandioca" },
+    { n: "kale", q: 100, u: "g", nota: "o berza en tiras finas" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "cebollino fresco", q: 0.25, u: "manojo" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Corta el bacon en tiras y fríelo en la sartén a fuego medio 6 minutos, hasta que esté crujiente. Retíralo y deja la grasa.",
+    "Bate los huevos con sal y cuájalos en revuelto en esa grasa 1 minuto, dejándolos jugosos. Retíralos.",
+    "En la misma sartén, pocha la cebolla y los ajos picados 6 minutos. Añade la col en tiras muy finas y saltea 2 minutos, hasta que brille y se ablande un poco.",
+    "Incorpora las alubias escurridas y saltea 3 minutos. Añade la harina de mandioca poco a poco, removiendo sin parar 3–4 minutos, hasta que se tueste y absorba la grasa.",
+    "Devuelve el bacon y el huevo, mezcla, salpimienta y termina con el cebollino picado. Sirve enseguida."
+  ],
+  nutricion: { kcal: 788, prot: 34, hc: 82, grasa: 36 },
+  etiquetas: ["tradicional", "fácil", "saciante", "una sola sartén"],
+  consejo: "Era la comida de los arrieros (tropeiros) de Minas Gerais porque aguantaba días de viaje. La harina de mandioca se encuentra en tiendas latinas; si no la tienes, usa pan rallado tostado.",
+  contundencia: "contundente",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1052",
+  nombre: "Cocido con pelotas a la murciana",
+  subtitulo: "garbanzos con pollo y albóndigas grandes de carne, piñones y perejil",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 60,
+  dificultad: "media",
+  equipo: ["cazuela", "bol"],
+  raciones: 2,
+  ingredientes: [
+    { n: "garbanzos cocidos", q: 300, u: "g" },
+    { n: "pollo (contramuslos)", q: 150, u: "g" },
+    { n: "cerdo picado", q: 120, u: "g" },
+    { n: "pan rallado", q: 30, u: "g" },
+    { n: "huevo", q: 1, u: "ud" },
+    { n: "piñones", q: 10, u: "g" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "perejil fresco", q: 0.5, u: "manojo" },
+    { n: "limón", q: 0.5, u: "ud", nota: "solo la ralladura" },
+    { n: "patata", q: 1, u: "ud" },
+    { n: "zanahoria", q: 1, u: "ud" },
+    { n: "caldo de pollo", q: 1000, u: "ml" },
+    { n: "azafrán", q: 1, u: "pizca" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon el caldo en la cazuela con el pollo, la zanahoria en rodajas y el azafrán. Lleva a ebullición y cuece a fuego suave 20 minutos.",
+    "Mientras, en un bol, mezcla la carne picada con el pan rallado, el huevo, los piñones, el ajo y el perejil muy picados, la ralladura de limón y sal. Amasa hasta que esté homogénea.",
+    "Con las manos húmedas, forma 4 pelotas grandes y alargadas.",
+    "Añade al caldo la patata pelada en trozos y las pelotas con cuidado. Cuece a fuego suave sin remover 20 minutos, hasta que las pelotas estén firmes.",
+    "Incorpora los garbanzos escurridos y cuece 8 minutos más. Saca el pollo, desmenúzalo y devuélvelo. Sala al gusto.",
+    "Sirve primero el caldo y luego los garbanzos con una pelota por plato, o todo junto en plato hondo."
+  ],
+  nutricion: { kcal: 622, prot: 48, hc: 58, grasa: 22 },
+  etiquetas: ["tradicional", "de cuchara", "de domingo", "invierno", "para niños"],
+  consejo: "No remuevas el caldo mientras se hacen las pelotas o se romperán; menea la cazuela por las asas. En Murcia algunas casas añaden a la masa un poco de sangre o de tocino picado para hacerlas más jugosas.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1053",
+  nombre: "Potaje canario de chícharos",
+  subtitulo: "guisantes secos con costilla, papas, calabaza y millo",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 50,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "guisantes amarillos partidos secos", q: 140, u: "g", nota: "o chícharos verdes partidos" },
+    { n: "costillas de cerdo", q: 150, u: "g" },
+    { n: "patata", q: 1, u: "ud" },
+    { n: "calabaza", q: 150, u: "g" },
+    { n: "zanahoria", q: 1, u: "ud" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Lava bien los chícharos en un colador hasta que el agua salga limpia.",
+    "Pon en la cazuela la costilla con 1,2 litros de agua, lleva a ebullición y retira la espuma.",
+    "Añade los chícharos, la cebolla picada, la zanahoria en rodajas y los ajos machacados con el comino. Cuece a fuego suave 25 minutos, removiendo de vez en cuando porque tienden a pegarse.",
+    "Incorpora la patata cascada, la calabaza en dados y el pimentón. Cuece 15 minutos más, hasta que los chícharos se deshagan y el potaje esté espeso y cremoso.",
+    "Sala al gusto y sirve con la costilla. Aguanta muy bien hecho de víspera."
+  ],
+  nutricion: { kcal: 610, prot: 34, hc: 78, grasa: 18 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking"],
+  consejo: "Los chícharos partidos no necesitan remojo y se deshacen solos, así que no hace falta triturar. Si espesa demasiado al reposar, aclara con agua caliente.",
+  contundencia: "media",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1054",
+  nombre: "Alubias a la bretona",
+  subtitulo: "judías blancas guisadas con cebolla, tomate, mantequilla y tomillo",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "europea",
+  momentos: ["comida", "cena"],
+  proteina: "legumbre",
+  tiempo: 40,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas cocidas", q: 400, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "tomate triturado", q: 200, u: "g" },
+    { n: "mantequilla", q: 15, u: "g" },
+    { n: "vino blanco", q: 50, u: "ml" },
+    { n: "tomillo fresco", q: 2, u: "rama" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" }
+  ],
+  pasos: [
+    "Derrite la mantequilla en la cazuela a fuego suave y pocha la cebolla picada 10 minutos, hasta que esté transparente y dulce, sin que tome color.",
+    "Añade los ajos picados y cocina 1 minuto. Vierte el vino y deja que se evapore 2 minutos.",
+    "Incorpora el tomate triturado, el tomillo y el laurel, y cuece 10 minutos a fuego suave, hasta que la salsa espese.",
+    "Añade las judías escurridas y 150 ml de agua, tapa y cuece 12 minutos a fuego suave, removiendo con cuidado.",
+    "Retira el laurel y el tomillo, salpimienta y espolvorea perejil picado. Sirve sola o como guarnición de un asado."
+  ],
+  nutricion: { kcal: 420, prot: 20, hc: 58, grasa: 12 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking"],
+  consejo: "En Francia es la guarnición clásica de la pierna de cordero asada: si haces cordero, añade a la cazuela una cucharada de su jugo. Con un huevo escalfado encima, es cena completa.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1055",
+  nombre: "Lentejas de Cuaresma con calabaza, espinacas y huevo duro",
+  subtitulo: "lentejas de vigilia sin carne, con pimentón y comino",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "legumbre",
+  tiempo: 50,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "lentejas pardinas secas", q: 130, u: "g" },
+    { n: "calabaza", q: 200, u: "g" },
+    { n: "espinacas frescas", q: 150, u: "g" },
+    { n: "huevo", q: 2, u: "ud" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos.",
+    "En la cazuela con el aceite, pocha la cebolla y los ajos picados a fuego medio 7 minutos. Aparta del fuego y añade el pimentón y el comino.",
+    "Añade las lentejas lavadas, el laurel y 1 litro de agua. Lleva a ebullición y cuece tapado a medias 20 minutos.",
+    "Incorpora la calabaza en dados y cuece 12 minutos más, hasta que lentejas y calabaza estén tiernas.",
+    "Añade las espinacas y deja 2 minutos, hasta que se ablanden. Sala al gusto.",
+    "Sirve en plato hondo con el huevo duro picado o en cuartos por encima."
+  ],
+  nutricion: { kcal: 468, prot: 28, hc: 62, grasa: 12 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "invierno"],
+  consejo: "La calabaza se deshace en parte y espesa el caldo, así que no hace falta patata. Si las congelas, hazlo sin el huevo: lo añades al calentarlas.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1056",
+  nombre: "Sopa de puchero con garbanzos, hierbabuena y huevo duro",
+  subtitulo: "el caldito andaluz de toda la vida con fideos",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "mixto",
+  tiempo: 40,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "garbanzos cocidos", q: 200, u: "g" },
+    { n: "pollo (contramuslos)", q: 150, u: "g" },
+    { n: "fideos finos", q: 40, u: "g" },
+    { n: "huevo", q: 1, u: "ud" },
+    { n: "zanahoria", q: 1, u: "ud" },
+    { n: "apio", q: 1, u: "rama" },
+    { n: "puerro", q: 0.5, u: "ud" },
+    { n: "caldo de pollo", q: 900, u: "ml" },
+    { n: "hierbabuena fresca", q: 6, u: "hoja" },
+    { n: "limón", q: 0.5, u: "ud", opcional: true },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon en la cazuela el caldo con el pollo, la zanahoria, el apio y el puerro enteros. Lleva a ebullición y cuece a fuego suave 20 minutos, retirando la espuma.",
+    "Mientras, cuece el huevo 10 minutos, enfríalo y pícalo.",
+    "Saca el pollo y las verduras. Desmenuza el pollo y corta la zanahoria en daditos.",
+    "Añade al caldo los fideos y cuece 4 minutos. Incorpora los garbanzos escurridos, el pollo y la zanahoria y calienta 2 minutos más. Sala al gusto.",
+    "Sirve en plato hondo con el huevo picado y la hierbabuena por encima, y unas gotas de limón si te gusta."
+  ],
+  nutricion: { kcal: 412, prot: 30, hc: 46, grasa: 12 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "para niños"],
+  consejo: "Es la sopa que se toma en Andalucía para entonar el cuerpo. La hierbabuena siempre fresca y en el plato, nunca cocida, o pierde el aroma.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1057",
+  nombre: "Cigrons a la catalana",
+  subtitulo: "garbanzos con butifarra, huevo duro, piñones y pasas",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "española",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 35,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "garbanzos cocidos", q: 400, u: "g" },
+    { n: "butifarra", q: 150, u: "g" },
+    { n: "huevo", q: 2, u: "ud" },
+    { n: "piñones", q: 15, u: "g" },
+    { n: "pasas", q: 20, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "tomate", q: 1, u: "ud" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "almendras", q: 10, u: "g", nota: "tostadas, para la picada" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Cuece los huevos 10 minutos, enfríalos y córtalos en cuartos. Pon las pasas en remojo en agua templada.",
+    "Quita la piel a la butifarra, desmígala y dórala en la cazuela con el aceite a fuego medio 4 minutos. Retírala.",
+    "En la misma grasa, sofríe la cebolla picada 8 minutos, hasta que esté dorada. Añade el tomate rallado y cocina 5 minutos, hasta que esté espeso.",
+    "Machaca en el mortero el ajo, las almendras y el perejil con un poco de agua (la picada).",
+    "Añade a la cazuela los garbanzos escurridos, la butifarra, los piñones, las pasas escurridas, la picada y 150 ml de agua. Cuece 8 minutos a fuego suave, hasta que la salsa quede trabada. Sala.",
+    "Sirve con los cuartos de huevo duro por encima."
+  ],
+  nutricion: { kcal: 638, prot: 34, hc: 58, grasa: 30 },
+  etiquetas: ["tradicional", "fácil", "de cuchara", "para invitados"],
+  consejo: "La picada catalana es el truco para espesar y perfumar el guiso al final. Si quieres darle un aire más de fiesta, usa butifarra negra en vez de blanca.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1058",
+  nombre: "Menestra peruana de lentejas con arroz y bistec",
+  subtitulo: "lentejas cremosas con ají amarillo, arroz blanco y salsa criolla",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 50,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén"],
+  raciones: 2,
+  ingredientes: [
+    { n: "lentejas pardinas secas", q: 100, u: "g" },
+    { n: "arroz basmati", q: 80, u: "g" },
+    { n: "ternera (filete fino)", q: 160, u: "g" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 2, u: "diente" },
+    { n: "tomate", q: 1, u: "ud" },
+    { n: "pasta de ají amarillo", q: 1, u: "cda" },
+    { n: "comino molido", q: 0.5, u: "cdta" },
+    { n: "orégano seco", q: 0.5, u: "cdta" },
+    { n: "cebolla morada", q: 0.5, u: "ud", nota: "para la salsa criolla" },
+    { n: "lima", q: 1, u: "ud" },
+    { n: "cilantro fresco", q: 0.25, u: "manojo" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Cuece las lentejas en 700 ml de agua a fuego suave 25 minutos, hasta que estén tiernas.",
+    "Mientras, en la sartén con la mitad del aceite, pocha la cebolla y los ajos picados 6 minutos. Añade el tomate rallado, el ají amarillo, el comino y el orégano y cocina 5 minutos.",
+    "Cuece el arroz en agua con sal 12 minutos y escúrrelo. Prepara la salsa criolla: cebolla morada en pluma fina, lavada, con zumo de lima, cilantro y sal.",
+    "Añade el aderezo a las lentejas, aplasta una parte con la cuchara y cuece 10 minutos, hasta que la menestra quede espesa y cremosa. Sala.",
+    "Sala la carne y márcala en la sartén bien caliente con el resto del aceite 1 minuto por lado.",
+    "Sirve en cada plato una porción de menestra, otra de arroz, el bistec y la salsa criolla por encima."
+  ],
+  nutricion: { kcal: 630, prot: 44, hc: 82, grasa: 14 },
+  etiquetas: ["tradicional", "fácil", "alta en proteína", "ideal para llevar"],
+  consejo: "En Lima la menestra se sirve igual con frijol canario o pallares: sirve cualquier legumbre. Si no tienes ají amarillo, mezcla una pizca de cúrcuma con una de guindilla.",
+  contundencia: "media",
+  coste: "media"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1059",
+  nombre: "Potaje de alubias con espinacas y huevo duro",
+  subtitulo: "con patata, pimentón y un majado de ajo",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "española",
+  momentos: ["comida", "cena"],
+  proteina: "mixto",
+  tiempo: 35,
+  dificultad: "fácil",
+  equipo: ["cazuela"],
+  raciones: 2,
+  ingredientes: [
+    { n: "judías blancas cocidas", q: 400, u: "g" },
+    { n: "espinacas frescas", q: 200, u: "g" },
+    { n: "patata", q: 1, u: "ud" },
+    { n: "huevo", q: 2, u: "ud" },
+    { n: "cebolla", q: 0.5, u: "ud" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "comino molido", q: 0.25, u: "cdta" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "caldo de verduras", q: 700, u: "ml" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Cuece los huevos 10 minutos, enfríalos y pélalos.",
+    "En la cazuela con el aceite, pocha la cebolla picada 5 minutos. Añade 2 ajos laminados y dóralos 1 minuto. Aparta del fuego y agrega el pimentón.",
+    "Vierte el caldo con el laurel, añade la patata pelada y cascada y cuece 12 minutos.",
+    "Machaca en el mortero el ajo restante con el comino y un poco de sal, y añádelo a la cazuela con las alubias escurridas. Cuece 6 minutos.",
+    "Incorpora las espinacas y deja 2 minutos, hasta que estén tiernas. Aplasta unos trozos de patata para espesar y sala.",
+    "Sirve con los huevos duros en cuartos sobre cada plato."
+  ],
+  nutricion: { kcal: 470, prot: 30, hc: 56, grasa: 14 },
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking"],
+  consejo: "Un plato de vigilia de los que sacian sin pesar. Si tienes espinacas congeladas, sirven igual: añádelas con la patata para que se descongelen en el caldo.",
+  contundencia: "ligera",
+  coste: "económica"
+});
+
+window.RECETAS_SEED.push({
+  id: "inv-1060",
+  nombre: "Frijol con puerco yucateco",
+  subtitulo: "frijoles negros guisados con cerdo, salsa de tomate asado y rábano",
+  origen: "inventada",
+  categoria: "legumbres",
+  cocina: "latinoamericana",
+  momentos: ["comida"],
+  proteina: "mixto",
+  tiempo: 150,
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén", "batidora"],
+  raciones: 2,
+  ingredientes: [
+    { n: "alubias negras secas", q: 180, u: "g", nota: "en remojo desde la víspera" },
+    { n: "cerdo (paleta)", q: 300, u: "g", nota: "en trozos grandes" },
+    { n: "cebolla", q: 1, u: "ud" },
+    { n: "ajo", q: 3, u: "diente" },
+    { n: "tomate", q: 2, u: "ud" },
+    { n: "chile fresco", q: 1, u: "ud", nota: "tipo habanero o jalapeño, al gusto" },
+    { n: "orégano seco", q: 1, u: "cdta" },
+    { n: "rábano", q: 4, u: "ud" },
+    { n: "cilantro fresco", q: 0.5, u: "manojo" },
+    { n: "lima", q: 1, u: "ud" },
+    { n: "sal", u: "al gusto" }
+  ],
+  pasos: [
+    "Pon los frijoles escurridos en la cazuela con media cebolla, 2 ajos y agua fría que los cubra tres dedos. Lleva a ebullición y cuece a fuego suave 1 hora.",
+    "Añade el cerdo en trozos y el orégano, y cuece 1 hora más, hasta que la carne esté tierna y los frijoles cremosos. Sala.",
+    "Mientras, asa los tomates, la otra media cebolla, el ajo restante y el chile en la sartén seca a fuego fuerte 8–10 minutos, girándolos, hasta que estén tostados por fuera.",
+    "Tritura las verduras asadas con sal hasta tener una salsa rústica (chiltomate).",
+    "Pica los rábanos y el cilantro y corta la lima en cuartos.",
+    "Sirve en cuenco la carne con los frijoles y su caldo, con la salsa, el rábano, el cilantro y la lima para que cada uno añada al gusto. Acompaña con arroz blanco o tortillas."
+  ],
+  nutricion: { kcal: 798, prot: 56, hc: 76, grasa: 30 },
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "batch cooking", "picante"],
+  consejo: "En Yucatán es el plato de los lunes. El rábano y la lima frescos son imprescindibles: cortan la grasa del cerdo y alegran el plato.",
+  contundencia: "contundente",
+  coste: "media"
+});
