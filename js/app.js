@@ -9,6 +9,7 @@
     { id: "recetas", patron: /^\/recetas(?:\/([^/?]+))?\/?$/, nombre: "Recetas", icono: "🍳" },
     { id: "wizard", patron: /^\/wizard\/?$/, nombre: "Nuevo menú", icono: "🪄" },
     { id: "menus", patron: /^\/menus(?:\/([^/?]+))?\/?$/, nombre: "Mis menús", icono: "📅" },
+    { id: "legal", patron: /^\/legal(?:\/([^/?]+))?\/?$/, nombre: "Información legal", icono: "⚖️", oculta: true },
   ];
 
   const rutaActual = () => {
@@ -91,7 +92,7 @@
           borradas ? h("ul.lista-simple.lista-ocultas", Recetas.ocultas().map((r) => h("li", r.nombre, " ", h("button.btn.btn-mini.btn-suave", { type: "button", onClick: () => { Recetas.restaurar(r.id); UI.toast(`«${r.nombre}» vuelve a tu recetario`); m.cerrar(); abrirAjustes(); } }, "Recuperar")))) : null,
           h("button.btn", { type: "button", disabled: !borradas && !modificadas, onClick: async () => { if (await UI.confirmar({ titulo: "Restaurar recetas originales", mensaje: "Volverán todas las recetas ocultas y las modificadas recuperarán su versión original. Tus recetas propias, favoritas y lista de excluidas no se tocan." })) { Recetas.restaurarTodas(); m.cerrar(); UI.toast("Recetas restauradas"); render(); } } }, "↺ Restaurar todas las originales")),
         h("section.bloque", h("h3", "Borrar todo"), h("p.muted", "Elimina personas, menús, recetas propias y ajustes de este navegador."), h("button.btn.btn-peligro", { type: "button", onClick: async () => { if (await UI.confirmar({ titulo: "Borrar todos los datos", mensaje: "Esta acción no se puede deshacer. ¿Seguro que quieres borrar todo?", textoOk: "Sí, borrar todo", peligro: true })) { for (const k of ["personas", "menus", "recetasPropias", "recetasOverrides", "recetasBorradas", "ajustes", "borradorWizard", "filtrosRecetas", "favoritos", "listaNegra"]) DB.borrar(k); Recetas.invalidar(); m.cerrar(); UI.toast("Datos borrados"); ir("/"); render(); } } }, "🗑 Borrar todos los datos")),
-        h("section.bloque", h("h3", "Acerca de"), h("p.muted", "HolaFresco funciona en local, sin conexión ni cuentas. Las recetas 📄 originales se desarrollaron a partir de los títulos de un recetario de partida; las ✨ derivadas son creaciones nuevas a partir de ellas. Los valores nutricionales, las raciones y la detección de alérgenos (por los nombres de los ingredientes) son orientativos: ante una alergia grave, revisa siempre las etiquetas de lo que compras."), h("p", "Un proyecto de ", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "G. Carbonell"), " (", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "gcarbonell.com"), ") y ", h("strong", "J. Ramírez"), "."), h("p.muted", "Foto de la portada: Stefan Vladimirov (", h("a", { href: "https://unsplash.com/photos/Q_Moi2xjieU", target: "_blank", rel: "noopener" }, "Unsplash"), ").")),
+        h("section.bloque", h("h3", "Acerca de"), h("p.muted", "HolaFresco funciona en local, sin conexión ni cuentas. Las recetas 📄 originales se desarrollaron a partir de los títulos de un recetario de partida; las ✨ derivadas son creaciones nuevas a partir de ellas. Los valores nutricionales, las raciones y la detección de alérgenos (por los nombres de los ingredientes) son orientativos: ante una alergia grave, revisa siempre las etiquetas de lo que compras."), h("p", "Un proyecto de ", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "G. Carbonell"), " (", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "gcarbonell.com"), ") y ", h("strong", "J. Ramírez"), "."), h("p.muted", "Foto de la portada: Stefan Vladimirov (", h("a", { href: "https://unsplash.com/photos/Q_Moi2xjieU", target: "_blank", rel: "noopener" }, "Unsplash"), ")."), window.Vistas.legal.enlacesPie()),
       ],
     });
   };
@@ -104,7 +105,7 @@
     const ruta = rutaActual();
     UI.cerrarModales();
     UI.vaciar(nav);
-    for (const r of RUTAS) nav.appendChild(h("a.nav-item", { href: "#" + (r.id === "inicio" ? "/" : "/" + r.id), class: r.id === ruta.id ? "activo" : "", "aria-current": r.id === ruta.id ? "page" : null }, h("span.nav-icono", r.icono), h("span.nav-texto", r.nombre)));
+    for (const r of RUTAS.filter((x) => !x.oculta)) nav.appendChild(h("a.nav-item", { href: "#" + (r.id === "inicio" ? "/" : "/" + r.id), class: r.id === ruta.id ? "activo" : "", "aria-current": r.id === ruta.id ? "page" : null }, h("span.nav-icono", r.icono), h("span.nav-texto", r.nombre)));
     nav.appendChild(h("button.nav-item.nav-btn", { type: "button", onClick: abrirAjustes, title: "Ajustes" }, h("span.nav-icono", "⚙️"), h("span.nav-texto", "Ajustes")));
     if (!document.querySelector(".btn-tema")) UI.append(document.querySelector(".cabecera"), h("button.btn.btn-icono.btn-tema", { type: "button", onClick: () => { const ciclo = TEMAS.filter((x) => x.data); const i = ciclo.findIndex((x) => x.id === temaResuelto()); const sig = ciclo[(i + 1) % ciclo.length]; fijarTema(sig.id); UI.toast(`Estilo: ${sig.icono} ${sig.nombre}`, "info", 1500); } }, "☀️"));
     aplicarTema();
@@ -115,7 +116,8 @@
     else if (ruta.id === "recetas") window.Vistas.recetas.render(main, ruta.params);
     else if (ruta.id === "wizard") window.Vistas.wizard.render(main, ruta.params);
     else if (ruta.id === "menus") window.Vistas.menus.render(main, ruta.params);
-    document.title = (ruta.id === "inicio" ? "" : ruta.nombre + " · ") + "HolaFresco";
+    else if (ruta.id === "legal") window.Vistas.legal.render(main, ruta.params);
+    if (ruta.id !== "legal") document.title = (ruta.id === "inicio" ? "" : ruta.nombre + " · ") + "HolaFresco";
     window.scrollTo(0, 0);
   };
 
@@ -124,7 +126,7 @@
       h("a.saltar", { href: "#contenido" }, "Saltar al contenido"),
       h("header.cabecera", h("a.logo", { href: "#/" }, h("span.logo-icono", "🥘"), h("span.logo-texto", "HolaFresco")), nav),
       main,
-      h("footer.pie", h("span.muted", "HolaFresco · funciona sin conexión · datos guardados en este navegador"))
+      h("footer.pie", h("span.muted", "HolaFresco · funciona sin conexión · datos guardados en este navegador"), window.Vistas.legal.enlacesPie())
     );
     document.dispatchEvent(new CustomEvent("recetas:semilla-cargada"));
     if (!(window.RECETAS_SEED || []).length) UI.toast("No se han cargado las recetas de ejemplo. Comprueba que la carpeta js/data está junto a index.html.", "error", 8000);

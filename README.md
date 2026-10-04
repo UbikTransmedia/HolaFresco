@@ -93,6 +93,10 @@ La web publicada muestra anuncios de Google AdSense en seis huecos fijos (portad
 asistente, Mis menús y detalle de menú). El script y la etiqueta de verificación están en `index.html`, el
 `ads.txt` en la raíz y el id del bloque de anuncios en `js/ads.js`. Abierta en local (`file://`) no carga anuncios.
 
+El pie de cada pantalla enlaza el **aviso legal**, la **política de privacidad** y la **política de cookies** (`js/views/legal.js`,
+rutas `#/legal/…`) y el botón «Gestionar cookies», que abre el panel de consentimiento de Google (IAB TCF) configurado
+en AdSense → Privacidad y mensajes. Los datos del titular se rellenan en `TITULAR`, al principio de `js/views/legal.js`.
+
 ## Créditos
 
 Un proyecto de G. Carbonell ([gcarbonell.com](https://gcarbonell.com)) y **J. Ramírez**.
