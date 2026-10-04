@@ -6,7 +6,7 @@
   "use strict";
   const { h } = window.UI;
   const CLIENTE = "ca-pub-9953696711191519";
-  const BLOQUE_DEFECTO = "";
+  const BLOQUE_DEFECTO = "5666459835";
   const BLOQUES = { inicio: "", recetas: "", receta: "", asistente: "", menus: "", menu: "" };
   const enLocal = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
 
