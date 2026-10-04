@@ -695,8 +695,13 @@ body.fondo-inicio .firma-inicio a { color: #fff; font-weight: 700; }
 
 /* Publicidad: el hueco mide 0 de alto (pero conserva la anchura, que AdSense necesita para pedir el anuncio)
    hasta que llega un anuncio; entonces se ajusta a su altura */
-.anuncio { display: block; width: 100%; height: auto; min-height: 0; margin: 0; padding: 0; border: 0; overflow: hidden; clear: both; text-align: center; }
+.anuncio { display: block; position: relative; width: 100%; margin: 0; padding: 0; border: 0; clear: both; text-align: center; }
 .anuncio ins.adsbygoogle { margin: 0 auto; }
+/* Sin anuncio confirmado, el bloque de Google sale del flujo (conserva el ancho del hueco, que AdSense necesita)
+   y el hueco no tiene contenido: mide 0 px y los márgenes de lo que hay antes y después se juntan como si no existiera */
+.anuncio:not(.anuncio-lleno) { height: 0; min-height: 0; }
+.anuncio:not(.anuncio-lleno) ins.adsbygoogle { position: absolute !important; top: 0; left: 0; right: 0; height: 0 !important; min-height: 0 !important; overflow: hidden !important; }
+ins.adsbygoogle[data-ad-status="unfilled"] { display: none !important; }
 .anuncio-etiqueta { display: none; }
 .anuncio.anuncio-lleno { margin: 1.25rem 0; padding: .4rem 0 .6rem; border-top: 1px solid var(--borde); border-bottom: 1px solid var(--borde); }
 .anuncio.anuncio-lleno .anuncio-etiqueta { display: block; font-size: .7rem; letter-spacing: .06em; text-transform: uppercase; color: var(--texto-suave); margin-bottom: .3rem; }
