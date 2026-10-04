@@ -198,7 +198,7 @@
   anadirClaves("fodmap", [], ["tomate pera", "tomates pera", "harina de teff", "harina de mijo", "harina de sorgo", "harina de yuca", "harina de mandioca"]);
   anadirClaves("lacteos", [], ["mantequilla de cacahuete", "mantequilla de almendra*", "mantequilla de anacardo*", "mantequilla de cacao"]);
   anadirClaves("fodmap", PASTAS_TRIGO.filter((x) => x !== "tarama*" && x !== "kvas").concat(["fava*", "guisantes partidos", "guisante partido*", "tupinambo*"]));
-  anadirClaves("legumbre", ["fava*", "guisantes partidos", "guisante partido*"]);
+  anadirClaves("legumbre", ["soja seca", "soja blanca*", "habas de soja*", "soja amarilla*", "fava*", "guisantes partidos", "guisante partido*"]);
   const EMBUTIDO_CERDO = ["pancetta", "salsiccia", "speck", "nduja", "prosciutto", "kielbasa", "tocino", "lardo", "coppa", "capocollo", "cotechino", "loukaniko", "kabanos", "carrillera*", "salo"];
   anadirClaves("carne", [...EMBUTIDO_CERDO, "bresaola"]);
   anadirClaves("cerdo", EMBUTIDO_CERDO.filter((x) => x !== "carrillera*"));
