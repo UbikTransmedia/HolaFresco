@@ -19,6 +19,7 @@
     const lista = todos();
     UI.append(cont, h("header.vista-cab", h("div", h("h1", "📅 Mis menús"), h("p.vista-desc", lista.length ? `${lista.length} ${UI.plural(lista.length, "menú guardado", "menús guardados")}. Abre uno para ver el menú y su lista de la compra.` : "Aquí se guardan los menús que generes con el asistente.")), h("button.btn.btn-primario", { type: "button", onClick: () => window.App.ir("/wizard") }, "🪄 Nuevo menú")));
     if (!lista.length) { cont.appendChild(h("div.vacio", h("p", "Todavía no has guardado ningún menú."), h("button.btn.btn-primario", { type: "button", onClick: () => window.App.ir("/wizard") }, "Crear mi primer menú"))); return; }
+    UI.append(cont, window.Publicidad.bloque("menus"));
     const grid = h("div.grid-menus");
     for (const m of lista) {
       const nRecetas = m.slots.filter((s) => s.recetaId).length;
@@ -329,7 +330,7 @@
     };
 
     pintarTabs(); pintarPanel();
-UI.append(cont, cab, exportar, tabs, panel);
+UI.append(cont, cab, exportar, window.Publicidad.bloque("menu"), tabs, panel);
   };
 
   const render = (cont, params) => { UI.vaciar(cont); if (params && params.id) renderDetalle(cont, params.id); else renderLista(cont); };

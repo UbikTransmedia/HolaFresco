@@ -130,6 +130,7 @@
         h("section.detalle-pasos",
           h("h3", "Preparación"),
           h("ol.lista-pasos", r.pasos.map((p) => h("li", p))),
+          window.Publicidad.bloque("receta"),
           r.consejo ? h("div.consejo", h("strong", "💡 Consejo del cocinero: "), r.consejo) : null
         )
       ),
@@ -346,6 +347,7 @@
         filtrosAvanzados,
         contador
       ),
+      window.Publicidad.bloque("recetas"),
       grid,
       h("div.cargar-mas-cont", btnMas, sentinela)
     );

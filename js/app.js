@@ -41,6 +41,7 @@
             h("p", "Tu lista de la compra sale sola, agrupada por pasillos y con las cantidades justas. Cópiala en tu móvil y ve marcando lo que echas al carro."))
         )
       ),
+      window.Publicidad.bloque("inicio"),
       h("p.nota-inicio", "Todo se guarda en este navegador, sin cuentas ni servidor. Desde ⚙️ Ajustes puedes exportar una copia de seguridad."),
       h("p.firma-inicio", "Un proyecto de ", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "G. Carbonell"), " (", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "gcarbonell.com"), ") y ", h("strong", "J. Ramírez")),
       h("p.credito-foto", "Foto: Stefan Vladimirov · Unsplash")

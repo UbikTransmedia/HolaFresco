@@ -412,6 +412,7 @@
       const contenido = h("div.paso-contenido");
       PASO_FN[st.paso](contenido, refrescar);
       cuerpo.appendChild(contenido);
+      UI.append(cuerpo, window.Publicidad.bloque("asistente"));
       const ok = puedeAvanzar();
       UI.append(nav,
         h("button.btn", { type: "button", disabled: st.paso === 0, onClick: () => irA(st.paso - 1) }, "← Atrás"),
