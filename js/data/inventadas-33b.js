@@ -747,7 +747,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 32, hc: 70, grasa: 24 },
   etiquetas: ["sin gluten", "una sola olla", "fácil", "rápida", "picante"],
   consejo: "La mayoría de pastas de curry tailandesas son sin gluten, pero algunas llevan salsa de soja con trigo: lee la etiqueta, igual que en la salsa de pescado. El marisco y el arroz con coco, mejor recién hechos.",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   contundencia: "media",
   coste: "premium"
 });

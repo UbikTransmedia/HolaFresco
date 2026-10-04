@@ -924,7 +924,7 @@ window.RECETAS_SEED.push({
   subtitulo: "el đậu sốt cà chua de las casas de Hanói: tofu dorado en tomate jugoso con cebolleta",
   origen: "inventada",
   categoria: "vegano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["cena", "comida"],
   proteina: "tofu",
   tiempo: 30,

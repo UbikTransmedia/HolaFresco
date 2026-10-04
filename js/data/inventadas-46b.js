@@ -970,7 +970,7 @@ window.RECETAS_SEED.push({
   subtitulo: "rebozado de maicena muy crujiente que aguanta la salsa sin ablandarse",
   origen: "inventada",
   categoria: "pescado",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida"],
   proteina: "pescado",
   tiempo: 45,

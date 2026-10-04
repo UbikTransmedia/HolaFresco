@@ -631,7 +631,7 @@ window.RECETAS_SEED.push({
   subtitulo: "caldo aromático exprés con jengibre tostado y anís estrellado",
   origen: "inventada",
   categoria: "carnes",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "pollo",
   tiempo: 35,

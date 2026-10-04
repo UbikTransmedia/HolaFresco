@@ -769,7 +769,7 @@ window.RECETAS_SEED.push({
   subtitulo: "30 minutos de presión y reducción hasta que la salsa se pegue a la carne",
   origen: "inventada",
   categoria: "olla-express",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   contundencia: "contundente",
   coste: "media",
   momentos: ["comida"],

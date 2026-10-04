@@ -280,7 +280,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con leche de coco ligera y albahaca",
   origen: "inventada",
   categoria: "pescado",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "pescado",
   tiempo: 35,

@@ -916,7 +916,7 @@ window.RECETAS_SEED.push({
   subtitulo: "caldo de 2 horas con jengibre y cebolla tostados, anís estrellado y canela",
   origen: "inventada",
   categoria: "pasta-arroces",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "ternera",
   tiempo: 150,

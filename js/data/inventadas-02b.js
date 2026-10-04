@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con albahaca, cilantro y pan tostado para mojar",
   origen: "inventada",
   categoria: "pescado",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "marisco",
   tiempo: 25,

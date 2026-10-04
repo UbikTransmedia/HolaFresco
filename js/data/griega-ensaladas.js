@@ -7,9 +7,10 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
    Creta (xinohondros salata), islas Jónicas (fakosalata de Léucade), Chipre (lountza y halloumi con ensalada de
    aldea), Tesalia (gavros marinatos de Volos) y dos platos caseros de toda Grecia y de las islas del Egeo
    (vrasta, glistrida).
-   inv-2901 a inv-2910: 10 CREATIVAS reconocibles como griegas por sus sabores y técnicas (gyros, melitzanosalata,
+   inv-2901 a inv-2910: 10 CREATIVAS reconocibles como griegas por sus sabores y técnicas (tigania, melitzanosalata,
    ladorigani, kritharaki, saganaki, avgolemono, loukaniko, kolokithokeftedes, souvlaki y tahinosalata) en boles
-   y ensaladas de diario, con pollo, cordero, ternera, salmón, queso, huevo, pavo, cerdo, legumbre y pez espada.
+   y ensaladas de diario, con cerdo (tigania y salchicha), cordero, ternera, salmón, queso, huevo, pavo, legumbre
+   y pez espada.
    Cantidades para 2 raciones. */
 
 window.RECETAS_SEED.push({
@@ -465,48 +466,48 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-2901",
-  nombre: "Bol de gyros de pollo en airfryer con patatas al orégano, tomate, cebolla morada y tzatziki",
-  subtitulo: "todo lo de la pita de gyros, sin pita: contramuslo especiado y tostado sobre lechuga, con tzatziki casero",
+  nombre: "Ensalada templada de tigania: cerdo salteado al vino blanco, mostaza y orégano con pimiento verde, lechuga y kalamata",
+  subtitulo: "el meze de cerdo «de sartén» de las tabernas de Atenas sobre una ensalada fresca que se aliña con el jugo caliente de la carne",
   origen: "inventada",
   categoria: "ensaladas",
   cocina: "griega",
   momentos: ["comida", "cena"],
-  proteina: "pollo",
-  tiempo: 40,
+  proteina: "cerdo",
+  tiempo: 30,
   dificultad: "fácil",
-  equipo: ["airfryer", "bol"],
+  equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
-    { n: "patata", q: 350, u: "g" },
-    { n: "yogur griego natural", q: 200, u: "g" },
-    { n: "pepino", q: 0.5, u: "ud" },
-    { n: "ajo", q: 2, u: "diente" },
+    { n: "cerdo (paleta)", q: 300, u: "g", nota: "o cabezada de lomo" },
+    { n: "pimiento verde", q: 1, u: "ud", nota: "mejor italiano, largo y fino" },
+    { n: "ajo", q: 1, u: "diente" },
+    { n: "vino blanco", q: 80, u: "ml" },
+    { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "limón", q: 1, u: "ud" },
-    { n: "pimentón dulce", q: 1, u: "cdta" },
-    { n: "comino molido", q: 0.5, u: "cdta" },
-    { n: "orégano seco", q: 2, u: "cdta" },
-    { n: "eneldo fresco", q: 0.25, u: "manojo" },
+    { n: "orégano seco", q: 1.5, u: "cdta" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
-    { n: "tomate", q: 2, u: "ud" },
+    { n: "tomate cherry", q: 150, u: "g" },
+    { n: "pepino", q: 0.5, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
+    { n: "aceitunas kalamata", q: 30, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los contramuslos en tiras de 1 cm. Mézclalos con 2 cucharadas de yogur, 1 cucharada de aceite, 1 ajo rallado, el zumo de medio limón, el pimentón (reserva una pizca), el comino, 1 cucharadita de orégano, sal y pimienta. Deja marinar mientras preparas lo demás, al menos 15 minutos.",
-    "Corta las patatas con piel en gajos finos, sécalas y mézclalas con el resto del aceite, el resto del orégano y sal. Cocínalas en la airfryer a 200 °C 20 minutos, sacudiendo la cesta a mitad, hasta que estén doradas. Resérvalas.",
-    "Para el tzatziki, ralla el pepino, apriétalo con las manos para quitarle el agua y mézclalo con el resto del yogur, el otro ajo rallado, el eneldo picado, unas gotas de limón y sal.",
-    "Pon el pollo en la cesta en una sola capa y cocínalo a 200 °C 10–12 minutos, sacudiendo a mitad, hasta que los bordes estén tostados y casi crujientes, como el gyros recién cortado del asador.",
-    "Mientras, corta la lechuga en tiras, el tomate en dados y la cebolla morada en pluma fina.",
-    "Monta los boles: lechuga, patatas, pollo, tomate y cebolla, con una buena cucharada de tzatziki y la pizca de pimentón reservada por encima."
+    "Corta el cerdo en dados de 2 cm, sécalos bien con papel de cocina y salpimiéntalos. Corta el pimiento en tiras y lamina el ajo. Ralla la piel del limón y exprímelo.",
+    "Prepara la base: trocea la lechuga, corta los cherry por la mitad, el pepino en medias lunas y la cebolla morada en pluma muy fina. Repártelo en dos platos con las aceitunas.",
+    "Calienta 1 cucharada de aceite en una sartén amplia a fuego fuerte. Echa el cerdo en una sola capa y no lo muevas en 3 minutos, hasta que se forme costra; dale la vuelta y dóralo 3-4 minutos más. Si no cabe holgado, hazlo en dos tandas: amontonado se cuece en vez de freírse.",
+    "Añade el pimiento y el ajo y saltea 3 minutos, hasta que el pimiento empiece a tostarse por los bordes.",
+    "Vierte el vino con la mostaza disuelta en él, raspa el fondo y deja que hierva 2-3 minutos, hasta que se reduzca a un glaseado que envuelva la carne. Fuera del fuego, añade la mitad del zumo de limón, la ralladura y el orégano frotado entre los dedos.",
+    "Bate el resto del zumo con la otra cucharada de aceite y una pizca de sal y aliña la ensalada.",
+    "Reparte la tigania caliente sobre la ensalada con todo el jugo de la sartén, que hará de aliño templado, y sirve enseguida."
   ],
-  nutricion: { kcal: 700, prot: 42, hc: 45, grasa: 38 },
-  etiquetas: ["creativa", "alta en proteína", "para niños", "sin gluten", "económica"],
-  consejo: "El gyros se hace en un asador vertical: las capas finas de carne se tuestan por fuera mientras siguen jugosas por dentro. La airfryer imita ese tostado si cortas el pollo fino y no llenas demasiado la cesta; si no cabe, hazlo en dos tandas. Para el táper, guarda el tzatziki aparte y añade la lechuga al servir; aguanta 3 días.",
+  nutricion: { kcal: 500, prot: 29, hc: 11, grasa: 38 },
+  etiquetas: ["creativa", "alta en proteína", "sin gluten", "económica", "una sola sartén"],
+  consejo: "La tigania es un meze de las tabernas de Atenas y del norte de Grecia que se acompaña con tsipouro: trocitos de cerdo fritos en su propia grasa y apagados con vino. Usa paleta o cabezada, que tienen algo de grasa y quedan jugosas; el lomo se seca. Para el táper, lleva la ensalada y la carne por separado y calienta el cerdo un minuto en la sartén antes de juntarlos; aguanta 2 días en la nevera.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

@@ -1019,7 +1019,7 @@ window.RECETAS_SEED.push({
   subtitulo: "rellenos de fideos de arroz, zanahoria, col y setas shiitake",
   origen: "inventada",
   categoria: "vegano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["cena"],
   proteina: "verdura",
   tiempo: 40,

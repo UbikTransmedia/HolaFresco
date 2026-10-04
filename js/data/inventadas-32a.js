@@ -978,7 +978,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con albahaca y lima",
   origen: "inventada",
   categoria: "pescado",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida"],
   proteina: "pescado",
   tiempo: 30,

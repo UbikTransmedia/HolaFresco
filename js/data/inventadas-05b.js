@@ -945,7 +945,7 @@ window.RECETAS_SEED.push({
   subtitulo: "fideos de arroz salteados con tamarindo y brotes de soja",
   origen: "inventada",
   categoria: "vegetariano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   contundencia: "media",
   coste: "media",
   momentos: ["comida", "cena"],

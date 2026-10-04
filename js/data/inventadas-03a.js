@@ -951,7 +951,7 @@ window.RECETAS_SEED.push({
   subtitulo: "marinado con cúrcuma, lima y leche de coco",
   origen: "inventada",
   categoria: "carnes",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "pollo",
   tiempo: 60,

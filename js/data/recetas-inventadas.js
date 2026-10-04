@@ -180,7 +180,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con judías verdes, leche de coco, lima y arroz jazmín",
   origen: "inventada",
   categoria: "legumbres",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida"],
   proteina: "legumbre",
   tiempo: 35,

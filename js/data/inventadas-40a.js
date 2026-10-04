@@ -996,7 +996,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con poca leche de coco, lima y el pescado cocido al final sobre la salsa",
   origen: "inventada",
   categoria: "pescado",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   contundencia: "ligera",
   coste: "media",
   momentos: ["comida", "cena"],

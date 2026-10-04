@@ -94,7 +94,7 @@
     ]],
     ["carniceria", [
       "pintada", "gallina*", "rosbif*", "cecina", "lomo embuchado", "fuet", "salami", "salchichon", "mortadela", "pastrami", "guanciale", "botillo", "jabali*", "callos*", "manitas*", "codorniz*", "perdiz*", "confit*", "oreja*", "pollo*", "pavo*", "ternera*", "cerdo*", "carrillada*", "solomillo*", "chorizo*", "bacon", "jamon*", "panceta", "cordero*",
-      "salchicha*", "lomo*", "costilla*", "carne*", "butifarra*", "morcilla*", "conejo", "pechuga*", "muslo*", "contramuslo*", "magro*", "picada*", "rabo de toro", "rabo de*", "sobrasada", "ossobuco", "secreto*", "presa*", "lacon", "osobuco", "morcillo", "jarrete", "aguja", "falda", "redondo", "codillo", "manitas", "callos", "higado*", "higaditos", "mollejas", "pato", "codorniz*", "perdiz", "pavo*",
+      "salchicha*", "lomo*", "costilla*", "carne*", "butifarra*", "morcilla*", "conejo", "pechuga*", "muslo*", "contramuslo*", "magro*", "picada*", "rabo de toro", "rabo de*", "sobrasada", "ossobuco", "secreto*", "presa*", "lacon", "osobuco", "morcillo", "jarrete", "aguja", "falda", "redondo de*", "codillo", "manitas", "callos", "higado*", "higaditos", "mollejas", "pato", "codorniz*", "perdiz", "pavo*",
     ]],
     ["lacteos-huevos", [
       "huevo*", "queso*", "feta", "mozzarella", "burrata", "parmesano", "pecorino", "manchego", "cheddar", "halloumi", "paneer", "yogur*", "nata", "natas", "nata para*", "nata de*", "nata liquida", "nata montada",

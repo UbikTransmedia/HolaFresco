@@ -319,7 +319,7 @@ window.RECETAS_SEED.push({
   subtitulo: "tiras crujientes de tempeh glaseadas en soja dulce, chile y tamarindo",
   origen: "inventada",
   categoria: "legumbres",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tempeh",
   tiempo: 35,

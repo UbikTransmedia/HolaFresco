@@ -230,7 +230,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con pepino, menta, cilantro y lima",
   origen: "inventada",
   categoria: "ensaladas",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida"],
   proteina: "pollo",
   tiempo: 40,

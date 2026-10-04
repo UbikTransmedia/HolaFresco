@@ -288,7 +288,7 @@ window.RECETAS_SEED.push({
   subtitulo: "huevo frito en aceite muy caliente para que se infle como un suflé",
   origen: "inventada",
   categoria: "vegetariano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "huevo",
   tiempo: 25,

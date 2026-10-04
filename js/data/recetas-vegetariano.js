@@ -279,7 +279,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con puerro, jengibre, cúrcuma y bebida vegetal",
   origen: "recetario",
   categoria: "vegano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["cena"],
   proteina: "verdura",
   tiempo: 35,

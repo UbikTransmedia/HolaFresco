@@ -607,7 +607,7 @@ window.RECETAS_SEED.push({
   subtitulo: "ensalada indonesia de verduras templadas con salsa cremosa aparte",
   origen: "inventada",
   categoria: "vegetariano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tofu",
   tiempo: 30,

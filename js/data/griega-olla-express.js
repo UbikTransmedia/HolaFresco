@@ -4,7 +4,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
    Diez TRADICIONALES (Ática, Peloponeso, Macedonia, Tracia y la cocina de Constantinopla, Cícladas,
    islas Jónicas, Chipre y guisos caseros de toda Grecia: bamies, domatorizo, moschari me melitzanes)
    y diez CREATIVAS reconocibles por sus sabores griegos (ladolemono, eneldo, feta, canela y vino tinto,
-   especias del gyros, ouzo, castañas y vino Mavrodafni).
+   glaseado riganato de miel y limón, ouzo, castañas y vino Mavrodafni).
    Todas usan la olla a presión con tiempos contados desde que sube la válvula y el tipo de
    despresurización indicado. Cantidades para 2 raciones. */
 
@@ -562,48 +562,45 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-2963",
-  nombre: "Pavo desmenuzado al estilo gyros en pita con tzatziki y cebolla al pimentón",
-  subtitulo: "contramuslo jugoso con las especias del gyros, hecho en olla exprés y tostado en la sartén",
+  nombre: "Costillas de cerdo exprés glaseadas con miel, limón y orégano con ensalada de tomate y pepino",
+  subtitulo: "tiernas tras 22 minutos de olla y tostadas al grill con el aliño riganato de los asadores griegos",
   origen: "inventada",
   categoria: "olla-express",
   cocina: "griega",
   momentos: ["comida", "cena"],
-  proteina: "pavo",
-  tiempo: 45,
+  proteina: "cerdo",
+  tiempo: 60,
   dificultad: "fácil",
-  equipo: ["olla-express", "sartén", "bol"],
+  equipo: ["olla-express", "horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (contramuslo)", q: 400, u: "g", nota: "deshuesado y sin piel" },
-    { n: "pimentón dulce", q: 2, u: "cdta" },
-    { n: "comino molido", q: 0.5, u: "cdta" },
-    { n: "orégano seco", q: 1, u: "cdta" },
+    { n: "costillas de cerdo", q: 700, u: "g", nota: "en tiras o costillar, carnosas" },
+    { n: "miel", q: 2, u: "cda", nota: "mejor de tomillo" },
+    { n: "limón", q: 1.5, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
-    { n: "limón", q: 1, u: "ud" },
-    { n: "cebolla", q: 1, u: "ud" },
-    { n: "yogur griego natural", q: 150, u: "g" },
+    { n: "orégano seco", q: 2, u: "cdta" },
+    { n: "pimentón dulce", q: 1, u: "cdta" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "agua", q: 250, u: "ml" },
+    { n: "tomate", q: 2, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
-    { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "tomate", q: 1, u: "ud" },
-    { n: "pan de pita", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "agua", q: 200, u: "ml" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pavo en 4 trozos y úntalo con 1 cdta de pimentón, el comino, el orégano, 2 ajos rallados, el zumo de medio limón, sal y pimienta. Deja que tome sabor mientras preparas lo demás.",
-    "Calienta 1 cda de aceite en la olla exprés destapada a fuego fuerte y dora el pavo 2 min por cada lado. Añade la cebolla en juliana y 200 ml de agua (es el mínimo de líquido para que la olla coja presión sin quemarse) y raspa el fondo.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 12 min. Retira del fuego y deja despresurizar de forma natural 5 min.",
-    "Mientras, haz el tzatziki: ralla el pepino con piel, escúrrelo apretándolo con las manos y mézclalo en un bol con el yogur, el ajo restante rallado, 1 cdta de aceite, unas gotas de limón y sal. Corta la cebolla morada en juliana fina y mézclala con el perejil picado y el resto del pimentón. Corta el tomate en medias lunas.",
-    "Saca el pavo y desmenúzalo con dos tenedores. Hierve destapado el jugo de la olla a fuego fuerte 6-8 min, hasta que quede en unas cucharadas, y mézclalo con la carne.",
-    "Calienta una sartén con el aceite restante a fuego fuerte y tuesta el pavo desmenuzado 3-4 min, sin moverlo mucho, hasta que tenga puntas crujientes como el gyros del asador. En la misma sartén calienta las pitas 30 segundos por lado.",
-    "Rellena cada pita con el pavo, el tomate, la cebolla al pimentón y una buena cucharada de tzatziki, y sirve el resto de la salsa aparte."
+    "Corta las costillas en trozos de 2-3 huesos y salpimiéntalas. Mezcla en un bol la miel, el zumo de medio limón, 2 ajos rallados, el orégano (reserva una pizca), el pimentón y 1 cucharada de aceite: es el glaseado.",
+    "Pon en la olla exprés los 250 ml de agua, el zumo de otro medio limón, el ajo restante aplastado y el laurel. Coloca las costillas encima (en el cestillo de vapor, si tienes) y úntalas con 2 cucharadas del glaseado.",
+    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 22 minutos. Retira del fuego y deja que despresurice de forma natural 10 minutos: así la carne no se encoge ni se seca.",
+    "Mientras, enciende el gratinador del horno al máximo y forra una bandeja con papel de horno. Corta los tomates en gajos, el pepino en rodajas y la cebolla morada en pluma fina, y alíñalos con el zumo del último medio limón, el resto del aceite, la pizca de orégano y sal.",
+    "Abre la olla, pasa las costillas a la bandeja con la parte carnosa hacia arriba y píntalas con el resto del glaseado mezclado con 3 cucharadas del caldo de la olla.",
+    "Gratínalas 6-8 minutos a unos 10 cm del grill, vigilando, hasta que el glaseado burbujee y se caramelice en los bordes. Si quieres salsa, desgrasa el caldo que queda en la olla con una cuchara y redúcelo a fuego fuerte 5 minutos.",
+    "Sirve las costillas con la ensalada y el jugo reducido aparte para mojar."
   ],
-  nutricion: { kcal: 740, prot: 50, hc: 59, grasa: 32 },
-  etiquetas: ["creativa", "alta en proteína", "para niños", "económica"],
-  consejo: "Pide contramuslo de pavo deshuesado: es barato y, a diferencia de la pechuga, queda jugoso bajo presión. La carne desmenuzada aguanta 3 días en la nevera y se congela bien; tuéstala en la sartén justo antes de servir. Si quieres el gyros de Atenas completo, mete unas patatas fritas dentro de la pita.",
+  nutricion: { kcal: 690, prot: 34, hc: 22, grasa: 52 },
+  etiquetas: ["creativa", "para niños", "económica", "alta en proteína", "sin gluten"],
+  consejo: "En Grecia el aliño de limón, ajo y orégano (riganato) acompaña a casi todo lo que sale del asador; la miel ayuda a que se caramelice bajo el grill. La olla deja la carne tierna en menos de media hora y el gratinador pone el tostado. Si encuentras petimezi, el sirope de uva griego, úsalo en lugar de la miel. Las costillas cocidas aguantan 3 días en la nevera: glaséalas y gratínalas justo antes de comer.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"

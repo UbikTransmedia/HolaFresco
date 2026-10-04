@@ -316,7 +316,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con lima, chile, hierbas frescas, salsa de pescado y arroz tostado",
   origen: "recetario",
   categoria: "ensaladas",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "pollo",
   tiempo: 30,

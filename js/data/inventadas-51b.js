@@ -742,7 +742,7 @@ window.RECETAS_SEED.push({
   subtitulo: "aprende a saltear fideos al wok: hidratados en templado, fuego máximo y sin remover al principio",
   origen: "inventada",
   categoria: "vegetariano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tofu",
   tiempo: 45,

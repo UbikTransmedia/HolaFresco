@@ -191,7 +191,7 @@ window.RECETAS_SEED.push({
   subtitulo: "marinado largo, cacahuetes tostados y cilantro",
   origen: "inventada",
   categoria: "vegano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   contundencia: "media",
   coste: "media",
   momentos: ["comida", "cena"],

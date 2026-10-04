@@ -809,7 +809,7 @@ window.RECETAS_SEED.push({
   subtitulo: "pasta de curry frita en la nata del coco para que suelte todo su aroma",
   origen: "inventada",
   categoria: "vegano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
   tiempo: 15,

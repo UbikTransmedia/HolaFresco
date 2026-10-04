@@ -865,7 +865,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con leche de coco, albahaca y lima",
   origen: "inventada",
   categoria: "vegano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tofu",
   tiempo: 45,

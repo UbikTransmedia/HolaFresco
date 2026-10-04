@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
   subtitulo: "estilo pho rápido con lima, menta y cilantro",
   origen: "inventada",
   categoria: "olla-express",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   contundencia: "ligera",
   coste: "económica",
   momentos: ["comida", "cena"],

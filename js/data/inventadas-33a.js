@@ -408,7 +408,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 840, prot: 45, hc: 80, grasa: 38 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno"],
   consejo: "Revisa la etiqueta de la pasta de curry y de la salsa de pescado: la mayoría son sin gluten, pero algunas marcas añaden salsa de soja con trigo. El curry mejora al día siguiente y aguanta 3 días en la nevera.",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   contundencia: "contundente",
   coste: "media"
 });

@@ -2,8 +2,8 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 
 /* Recetas INVENTADAS de cocina GRIEGA, categoría VEGETARIANO (bloque inv-2851 a inv-2870).
    Sin carne, pescado ni marisco (ni sus caldos); con huevo y/o lácteos.
-   inv-2851 a inv-2860: 10 TRADICIONALES, una por región (Ática, Peloponeso, Epiro, Macedonia griega,
-   Tesalia, Creta, Cícladas, islas Jónicas, Dodecaneso y Chipre), fieles en técnica e ingredientes.
+   inv-2851 a inv-2860: 10 TRADICIONALES repartidas por regiones (Ática, Peloponeso, Epiro, Macedonia griega,
+   Creta, dos de las Cícladas —Milos y Naxos—, islas Jónicas, Dodecaneso y Chipre), fieles en técnica e ingredientes.
    inv-2861 a inv-2870: 10 CREATIVAS, modernas pero reconocibles como griegas por sus sabores
    (orzo, pasta filo, kefalotyri, avgolemono, patatas al limón, stifado…).
    Variedad de técnicas, estaciones, tiempos y costes. Cantidades para 2 raciones. */
@@ -186,40 +186,49 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-2855",
-  nombre: "Gkogkes de Tríkala: pasta casera de Tesalia con mantequilla tostada y queso",
-  subtitulo: "conchitas hechas a mano con el pulgar, kefalotyri y feta",
+  nombre: "Patatokeftedes de Naxos: croquetas de patata, graviera y menta con yogur al eneldo y ensalada de lechuga",
+  subtitulo: "las tortitas de patata de la isla de las patatas y la graviera, en las Cícladas, doradas en aceite de oliva",
   origen: "inventada",
   categoria: "vegetariano",
   cocina: "griega",
-  momentos: ["comida"],
+  momentos: ["comida", "cena"],
   proteina: "queso",
   tiempo: 60,
-  dificultad: "media",
-  equipo: ["bol", "cazuela", "sartén"],
+  dificultad: "fácil",
+  equipo: ["cazuela", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "harina de trigo", q: 160, u: "g" },
-    { n: "agua", q: 80, u: "ml", nota: "templada, más la de cocer la pasta" },
-    { n: "mantequilla", q: 40, u: "g" },
-    { n: "queso kefalotyri", q: 50, u: "g", nota: "o pecorino o manchego curado" },
-    { n: "queso feta", q: 60, u: "g" },
+    { n: "patata", q: 500, u: "g", nota: "harinosa" },
+    { n: "queso graviera", q: 50, u: "g", nota: "o gruyère o manchego semicurado" },
+    { n: "queso feta", q: 70, u: "g" },
+    { n: "huevo", q: 1, u: "ud" },
+    { n: "cebolleta", q: 3, u: "ud" },
+    { n: "menta fresca", q: 0.5, u: "manojo" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
+    { n: "harina de trigo", q: 40, u: "g" },
+    { n: "aceite de oliva", q: 5, u: "cda" },
+    { n: "yogur griego natural", q: 125, u: "g" },
+    { n: "eneldo fresco", q: 0.25, u: "manojo" },
+    { n: "limón", q: 1, u: "ud" },
+    { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol, mezcla la harina con media cucharadita de sal y ve añadiendo el agua templada poco a poco mientras mezclas con la mano. Amasa sobre la encimera 8 minutos, hasta que la masa esté lisa, firme y no se pegue a los dedos. Envuélvela y déjala reposar 20 minutos.",
-    "Corta la masa en 4 trozos y haz con cada uno un cordón del grosor de un dedo meñique. Córtalo en trocitos de 1 cm.",
-    "Para darles forma, presiona cada trocito con la yema del pulgar contra la encimera ligeramente enharinada y arrástralo hacia ti: se curvará como una conchita hueca. Ve dejándolos separados sobre un paño enharinado.",
-    "Pon a hervir abundante agua con sal en una cazuela. Mientras, ralla el kefalotyri y desmenuza el feta.",
-    "Echa los gkogkes al agua hirviendo y remueve para que no se peguen. Cuando suban a la superficie, cuécelos 3–4 minutos más, hasta que estén tiernos pero con mordisco. Escúrrelos reservando un cazo del agua de cocción.",
-    "Mientras se cuecen, derrite la mantequilla en una sartén a fuego medio y déjala hasta que espume, deje de chisporrotear y tome color avellana con olor a galleta, 2–3 minutos. Retírala del fuego antes de que se queme.",
-    "Pon los gkogkes en una fuente, espolvorea la mitad del kefalotyri y del feta, riega con la mantequilla tostada caliente (debe sisear al caer) y termina con el resto del queso y pimienta negra. Si quedan secos, añade una cucharada del agua de cocción y mezcla."
+    "Cuece las patatas enteras y con piel en agua con sal 25-30 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas, pélalas en caliente y cháfalas con un tenedor en un bol, sin dejar grumos grandes. Deja que se enfríen al menos 15 minutos: en caliente la masa queda pegajosa.",
+    "Mientras, pica 2 cebolletas, la menta y el perejil y ralla la graviera. Mezcla el yogur con el eneldo picado, la ralladura y el zumo de medio limón y una pizca de sal, y guárdalo en la nevera.",
+    "Añade al puré la graviera, la feta desmenuzada, la cebolleta y las hierbas picadas, el huevo, la nuez moscada, 2 cucharadas de la harina y pimienta. Mezcla con las manos y prueba antes de salar, porque los quesos ya salan. Si la masa se pega mucho, añade algo más de harina.",
+    "Con las manos enharinadas, forma 8-10 tortitas de 2 cm de grosor y pásalas por el resto de la harina, sacudiendo el exceso.",
+    "Calienta 4 cucharadas de aceite en una sartén a fuego medio y fríe las tortitas en dos tandas, 3-4 minutos por cada lado, hasta que estén muy doradas y crujientes. No les des la vuelta hasta que se forme la costra o se romperán. Escúrrelas sobre papel de cocina.",
+    "Corta la lechuga en tiras finas y la cebolleta restante en rodajas, y alíñalas con el zumo del otro medio limón, el resto del aceite y sal.",
+    "Sirve los patatokeftedes calientes con el yogur al eneldo y la ensalada al lado."
   ],
-  nutricion: { kcal: 605, prot: 19, hc: 62, grasa: 31 },
-  etiquetas: ["tradicional", "invierno", "para niños", "económica"],
-  consejo: "Los gkogkes son la pasta de diario de Tríkala y Kalambaka, en Tesalia, y allí se comen con mantequilla dorada y queso o con salsa de tomate. Si no tienes tiempo de hacer la pasta, usa 160 g de orecchiette secas, que tienen casi la misma forma. El kefalotyri es un queso duro y salado de oveja y cabra; el pecorino o un manchego curado lo sustituyen bien.",
-  tupper: false,
-  contundencia: "media",
+  nutricion: { kcal: 760, prot: 27, hc: 63, grasa: 44 },
+  etiquetas: ["tradicional", "para niños", "económica", "ideal para llevar"],
+  consejo: "Naxos, en las Cícladas, es la isla de las patatas y de la graviera, y allí estas tortitas se hacen a menudo con el puré del día anterior. Usa patatas harinosas y cuécelas con piel para que no se empapen de agua: es lo que evita que se deshagan en la sartén. Si prefieres no freír, hornéalas a 200 °C 20-25 minutos pintadas con aceite, dándoles la vuelta a mitad. Aguantan 2 días en la nevera y se recalientan muy bien en la airfryer.",
+  tupper: true,
+  contundencia: "contundente",
   coste: "económica"
 });
 

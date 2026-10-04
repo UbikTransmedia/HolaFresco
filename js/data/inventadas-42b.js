@@ -52,7 +52,7 @@ window.RECETAS_SEED.push({
   subtitulo: "ensalada tailandesa ácida y picante, con hojas de lechuga para envolver",
   origen: "inventada",
   categoria: "ensaladas",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "pavo",
   tiempo: 25,

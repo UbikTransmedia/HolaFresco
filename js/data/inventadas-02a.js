@@ -774,7 +774,7 @@ window.RECETAS_SEED.push({
   subtitulo: "sopa tailandesa agripicante con tomate cherry y hierba limón",
   origen: "inventada",
   categoria: "pescado",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["cena"],
   proteina: "marisco",
   tiempo: 20,

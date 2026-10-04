@@ -666,7 +666,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con una salsa kecap manis casera hecha en un minuto con soja y azúcar moreno",
   origen: "inventada",
   categoria: "vegano",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tempeh",
   tiempo: 15,

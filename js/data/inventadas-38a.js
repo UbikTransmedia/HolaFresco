@@ -314,7 +314,7 @@ window.RECETAS_SEED.push({
   subtitulo: "contramuslo tierno, arroz cocido en caldo y aceite chisporroteante de jengibre",
   origen: "inventada",
   categoria: "carnes",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida"],
   proteina: "pollo",
   tiempo: 40,

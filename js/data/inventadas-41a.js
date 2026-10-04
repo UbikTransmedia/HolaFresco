@@ -693,7 +693,7 @@ window.RECETAS_SEED.push({
   subtitulo: "ensalada tibia tailandesa para comer con las manos",
   origen: "inventada",
   categoria: "carnes",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["cena"],
   proteina: "pavo",
   tiempo: 15,

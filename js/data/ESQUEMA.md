@@ -61,12 +61,14 @@ window.RECETAS_SEED.push({
 | `mediterránea` | Provenza, Córcega, Malta, Adriático y cocina saludable de inspiración mediterránea sin un país claro |
 | `italiana` | italiana de todas sus regiones (con Sicilia y Cerdeña) |
 | `griega` | griega continental, de las islas y chipriota |
-| `asiática` | china, japonesa, tailandesa, vietnamita, coreana |
+| `asiática` | china, japonesa, coreana y taiwanesa |
+| `sudeste-asiático` | tailandesa, vietnamita, indonesia, malaya, filipina, camboyana, birmana, laosiana y de Singapur |
 | `india` | india y sur de Asia (curris, dal, biryani…) |
 | `oriente-medio` | Oriente Medio y Magreb (libanesa, turca, marroquí, persa) |
 | `latinoamericana` | se muestra como **Hispanoamericana**: mexicana, peruana, argentina, caribeña, brasileña… |
 | `europea` | centroeuropea, francesa, británica, nórdica |
 | `eslava` | rusa, ucraniana, polaca, checa, eslovaca y balcánica eslava (serbia, croata, búlgara…) |
+| `africana` | subsahariana: África occidental, Etiopía y Eritrea, África oriental, central y austral (el Magreb va en `oriente-medio`) |
 | `americana` | se muestra como **Angloamericana**: Estados Unidos y Canadá (sur, cajún, criolla de Luisiana, tex-mex, barbacoa, diner, Nueva Inglaterra) |
 | `fusión` | mezcla deliberada de dos tradiciones, o cocina saludable contemporánea sin un origen claro (bowls, tostas, wraps…) |
 

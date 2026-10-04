@@ -975,7 +975,7 @@ window.RECETAS_SEED.push({
   subtitulo: "cremoso de leche de coco con canela, pasta de curry rojo y lima",
   origen: "inventada",
   categoria: "legumbres",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida"],
   proteina: "legumbre",
   tiempo: 45,

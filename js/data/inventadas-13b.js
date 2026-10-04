@@ -55,7 +55,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con cacahuetes tostados, menta y cilantro",
   origen: "inventada",
   categoria: "legumbres",
-  cocina: "asiática",
+  cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
   tiempo: 15,
