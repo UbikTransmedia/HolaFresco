@@ -26,6 +26,9 @@
 
   const personasSeleccionadas = () => [...new Set(st.cfg.personasIds)].map((id) => Personas.porId(id)).filter(Boolean);
   const seleccionar = (id) => { if (!st.cfg.personasIds.includes(id)) st.cfg.personasIds.push(id); };
+  /* Huella de la configuración + intolerancias de las personas: si cambia algo, el menú se recalcula */
+  const huellaWizard = () => Planificador.huella(st.cfg) + "|" + JSON.stringify(personasSeleccionadas().map((p) => [p.id, p.intolerancias || []]));
+  const intolHogar = () => Planificador.intoleranciasGrupo(personasSeleccionadas());
 
   /* Cargar una configuración previa (desde un menú guardado) */
   const cargarConfig = (cfg) => { st = { paso: PASO_RESULTADO, cfg: Planificador.normalizarConfig({ ...cfg, semilla: null }), resultado: null }; guardarBorrador(); };
@@ -46,7 +49,7 @@
         h("label.persona-check",
           h("input", { type: "checkbox", checked: sel, "aria-label": `Incluir a ${p.nombre}`, onChange: (e) => { if (e.target.checked) seleccionar(p.id); else st.cfg.personasIds = st.cfg.personasIds.filter((x) => x !== p.id); guardarBorrador(); refrescar(); } }),
           h("span.persona-avatar", Personas.avatar(p)),
-          h("span.persona-info", h("strong", p.nombre), h("small", Personas.resumenCorto(p) || "sin datos físicos"), h("small.muted", `≈ ${kcal.toLocaleString("es-ES")} kcal · ración ${factor.toLocaleString("es-ES")}×`), h("span.persona-objetivos", Personas.objetivosTexto(p).map((t) => h("span.chip.chip-mini", t))))
+          h("span.persona-info", h("strong", p.nombre), h("small", Personas.resumenCorto(p) || "sin datos físicos"), h("small.muted", `≈ ${kcal.toLocaleString("es-ES")} kcal · ración ${factor.toLocaleString("es-ES")}×`), h("span.persona-objetivos", Personas.objetivosTexto(p).map((t) => h("span.chip.chip-mini", t)), Personas.intoleranciasTexto(p).map((t) => h("span.chip.chip-mini.chip-intol", { title: "Intolerancia o alergia: se evitará en el menú" }, t))))
         ),
         h("div.persona-acciones",
           h("button.btn.btn-icono", { type: "button", "aria-label": `Editar a ${p.nombre}`, title: "Editar", onClick: () => Personas.editor(p, () => refrescar()) }, "✏️"),
@@ -171,14 +174,22 @@
     const libres = st.cfg.vetos.filter((v) => !Catalogo.GRUPOS.some((g) => g.id === v));
     const chips = h("div.chips-vetos", libres.map((v) => h("span.chip.chip-veto", v, h("button.chip-quitar", { type: "button", "aria-label": `Quitar veto ${v}`, onClick: () => toggle(v) }, "✕"))));
 
+    const intol = intolHogar();
+    const vetosTotales = [...new Set([...st.cfg.vetos, ...intol.flatMap((t) => t.grupos)])];
+    const bloqueIntol = h("section.bloque", h("h3", "Intolerancias del hogar"),
+      intol.length
+        ? [h("p.muted", "Se aplican siempre, como un veto más, porque están en el perfil de las personas que comen esta semana. Se cambian editando a cada persona (paso 1)."),
+          h("div.chips-vetos", intol.map((t) => h("span.chip.chip-intol", { title: t.nombre }, t.icono, " Sin ", t.corto, h("small.muted", " · ", Recetas.listaNombres(t.personas)))))]
+        : h("p.muted", "Nadie de esta semana tiene intolerancias o alergias en su perfil. Puedes añadirlas editando a cada persona en el paso 1."));
     const total = Recetas.todas().length;
-    const compat = Recetas.todas().filter((r) => !Recetas.conflictosVeto(r, st.cfg.vetos).some((c) => !c.opcional)).length;
+    const compat = Recetas.todas().filter((r) => !Recetas.conflictosVeto(r, vetosTotales).some((c) => !c.opcional)).length;
     const excluidas = total - compat;
     const porcentaje = total ? Math.round((compat / total) * 100) : 100;
     UI.append(cont,
-      h("section.bloque", h("h3", "Vetos rápidos"), h("p.muted", "Marca grupos enteros (alergias, intolerancias, preferencias)."), grupos),
+      bloqueIntol,
+      h("section.bloque", h("h3", "Vetos rápidos"), h("p.muted", "Marca grupos enteros (alergias, intolerancias, preferencias) solo para este menú."), grupos),
       h("section.bloque", h("h3", "Ingredientes concretos"), form, libres.length ? chips : h("p.muted", "Todavía no has vetado ningún ingrediente concreto.")),
-      h("div.aviso", { class: porcentaje < 35 ? "aviso-alerta" : "aviso-ok" }, h("strong", `${compat} de ${total} recetas`), ` siguen disponibles con estos vetos${excluidas ? ` (${excluidas} quedan fuera)` : ""}.`, porcentaje < 35 ? " Con tan pocas opciones el menú repetirá platos; quizá quieras afinar los vetos." : "")
+      h("div.aviso", { class: porcentaje < 35 ? "aviso-alerta" : "aviso-ok" }, h("strong", `${compat} de ${total} recetas`), ` siguen disponibles con estos vetos${intol.length ? " e intolerancias" : ""}${excluidas ? ` (${excluidas} quedan fuera)` : ""}.`, porcentaje < 35 ? " Con tan pocas opciones el menú repetirá platos; quizá quieras afinar los vetos." : "")
     );
   };
 
@@ -195,12 +206,14 @@
         if (!r) continue;
         const conflictos = Recetas.conflictosVeto(r, st.cfg.vetos);
         const noDieta = st.cfg.dietas.some((d) => !r.dieta.includes(d));
+        const noApta = Recetas.noAptaPara(r, personasSeleccionadas());
         const selDia = h("select.input.input-corto", { "aria-label": "Día", onChange: (e) => { o.dia = e.target.value || null; guardarBorrador(); } }, h("option", { value: "" }, "Cualquier día"), Planificador.DIAS.map((d) => h("option", { value: d.id, selected: o.dia === d.id, disabled: !st.cfg.slots.some((s) => s.dia === d.id) }, d.nombre)));
         const selMom = h("select.input.input-corto", { "aria-label": "Comida o cena", onChange: (e) => { o.momento = e.target.value || null; guardarBorrador(); } }, h("option", { value: "" }, "Comida o cena"), Recetas.MOMENTOS.map((m) => h("option", { value: m.id, selected: o.momento === m.id }, m.icono + " " + m.nombre)));
         seleccion.appendChild(h("div.fila-obligatoria",
           h("div.oblig-info", h("strong", r.favorita ? "★ " : "", r.nombre), h("small.muted", `${Recetas.categoria(r.categoria).icono} ${Recetas.categoria(r.categoria).nombre} · ${r.tiempo} min · ${r.momentos.join("/")}`),
             conflictos.length ? h("div.aviso.aviso-alerta.aviso-mini", `⚠️ Lleva ${[...new Set(conflictos.map((c) => c.ingrediente))].join(", ")}, que has vetado. Se incluirá igualmente: las recetas fijas tienen prioridad.`) : null,
             noDieta ? h("div.aviso.aviso-alerta.aviso-mini", "⚠️ No cumple la dieta marcada; se incluirá igualmente por ser fija.") : null,
+            noApta.map((x) => h("div.aviso.aviso-alerta.aviso-mini", `⚠️ No es apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")}). Se incluirá igualmente por ser fija: revisa los ingredientes.`)),
             r.enListaNegra ? h("div.aviso.aviso-alerta.aviso-mini", "⚠️ Está en tu lista de excluidas de menús; se incluirá igualmente por ser fija.") : null),
           h("div.oblig-controles", selDia, selMom, h("button.btn.btn-icono", { type: "button", "aria-label": `Quitar ${r.nombre} de las fijas`, onClick: () => { st.cfg.obligatorias = st.cfg.obligatorias.filter((x) => x !== o); guardarBorrador(); pintarSel(); pintarRes(); } }, "✕"))
         ));
@@ -217,8 +230,9 @@
       if (!lista.length) { resultados.appendChild(h("p.muted", "Sin resultados.")); return; }
       for (const r of lista) {
         const ya = st.cfg.obligatorias.some((o) => o.recetaId === r.id);
+        const noApta = Recetas.noAptaPara(r, personasSeleccionadas());
         resultados.appendChild(h("div.fila-resultado",
-          h("button.fila-resultado-info", { type: "button", title: "Ver receta", onClick: () => window.Vistas.recetas.abrirDetalle(r.id) }, h("span", Recetas.categoria(r.categoria).icono), h("span.fila-res-nombre", r.favorita ? "★ " : "", r.nombre), h("small.muted", ` · ${r.tiempo} min`)),
+          h("button.fila-resultado-info", { type: "button", title: "Ver receta", onClick: () => window.Vistas.recetas.abrirDetalle(r.id) }, h("span", Recetas.categoria(r.categoria).icono), h("span.fila-res-nombre", r.favorita ? "★ " : "", r.nombre), h("small.muted", ` · ${r.tiempo} min`), noApta.length ? h("small.texto-alerta", { title: noApta.map((x) => `No apta para ${x.persona.nombre}: ${x.intolerancias.map((t) => t.corto).join(", ")}`).join(" · ") }, ` · ⚠️ no apta para ${noApta.map((x) => x.persona.nombre).join(", ")}`) : null),
           h("button.btn.btn-mini", { type: "button", class: ya ? "btn-suave" : "btn-primario", disabled: ya, onClick: () => { st.cfg.obligatorias.push({ recetaId: r.id, dia: null, momento: null }); guardarBorrador(); pintarSel(); pintarRes(); UI.toast(`«${r.nombre}» fijada en el menú`); } }, ya ? "✓ Fijada" : "+ Fijar")
         ));
       }
@@ -268,7 +282,7 @@
   const generar = () => {
     const personas = personasSeleccionadas();
     const res = Planificador.generar({ ...st.cfg, semilla: Math.floor(Math.random() * 1e9) }, personas);
-    res.huella = Planificador.huella(st.cfg);
+    res.huella = huellaWizard();
     res.generado = new Date().toISOString();
     st.resultado = res;
     guardarBorrador();
@@ -281,9 +295,9 @@
     const personas = personasSeleccionadas();
     const raciones = st.resultado.raciones;
     const cambiar = () => {
-      const { compatibles, otras } = Planificador.alternativas(st.cfg, s, st.resultado.slots.map((x) => x.recetaId).filter(Boolean));
+      const { compatibles, otras } = Planificador.alternativas(st.cfg, s, st.resultado.slots.map((x) => x.recetaId).filter(Boolean), personas);
       let m;
-      const elegir = (rr) => { s.recetaId = rr.id; s.avisos = []; s.obligatoria = false; s.usa = (st.cfg.ingredientesObligatorios || []).map((x) => x.nombre).filter((t) => rr.ingredientes.some((i) => !i.opcional && Catalogo.ingredienteUsa(i.n, t))); const c = Recetas.conflictosVeto(rr, st.cfg.vetos); if (c.length) s.avisos.push(`Lleva ${[...new Set(c.map((x) => x.ingrediente))].join(", ")} (vetado); la has elegido tú.`); guardarBorrador(); m.cerrar(); refrescar(); };
+      const elegir = (rr) => { s.recetaId = rr.id; s.avisos = []; s.obligatoria = false; s.usa = (st.cfg.ingredientesObligatorios || []).map((x) => x.nombre).filter((t) => rr.ingredientes.some((i) => !i.opcional && Catalogo.ingredienteUsa(i.n, t))); const c = Recetas.conflictosVeto(rr, st.cfg.vetos); if (c.some((x) => !x.opcional)) s.avisos.push(`Lleva ${[...new Set(c.filter((x) => !x.opcional).map((x) => x.ingrediente))].join(", ")} (vetado); la has elegido tú.`); for (const x of Recetas.noAptaPara(rr, personas)) s.avisos.push(`No es apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")}); la has elegido tú.`); guardarBorrador(); m.cerrar(); refrescar(); };
       const inputQ = h("input.input", { type: "search", placeholder: "Filtrar…", "aria-label": "Filtrar recetas", onInput: UI.debounce(() => pintar(), 100) });
       const lista = h("div.lista-busqueda-recetas");
       const pintar = () => {
@@ -292,7 +306,7 @@
         const filtra = (arr) => arr.filter((rr) => !q || rr.textoBusqueda.includes(q));
         const bloque = (titulo, arr, clase) => { if (!arr.length) return; lista.appendChild(h("h4.muted", titulo)); for (const rr of arr.slice(0, 80)) lista.appendChild(h("div.fila-resultado", { class: clase }, h("button.fila-resultado-info", { type: "button", onClick: () => window.Vistas.recetas.abrirDetalle(rr.id) }, h("span", Recetas.categoria(rr.categoria).icono), h("span.fila-res-nombre", rr.favorita ? "★ " : "", rr.nombre), iconosReceta(rr)), h("button.btn.btn-mini.btn-primario", { type: "button", onClick: () => elegir(rr) }, "Elegir"))); if (arr.length > 80) lista.appendChild(h("p.muted", `… y ${arr.length - 80} más. Escribe para filtrar.`)); };
         bloque(`Compatibles con tus filtros (${filtra(compatibles).length})`, filtra(compatibles));
-        bloque("Otras (no cumplen algún filtro: veto, dieta, momento, tiempo, cocina, presupuesto o lista negra)", filtra(otras), "fila-otra");
+        bloque("Otras (no cumplen algún filtro: veto, intolerancia, dieta, momento, tiempo, cocina, presupuesto o lista negra)", filtra(otras), "fila-otra");
       };
       pintar();
       m = UI.modal({ titulo: `Elegir receta para ${Planificador.dia(s.dia).nombre} · ${s.momento}`, ancho: "lg", contenido: [inputQ, lista] });
@@ -312,7 +326,7 @@
   const acciones = { guardar: null };
 
   const pasoResultado = (cont, refrescar) => {
-    const huellaActual = Planificador.huella(st.cfg);
+    const huellaActual = huellaWizard();
     const habia = !!(st.resultado && st.resultado.slots && st.resultado.slots.length);
     if (!habia || st.resultado.huella !== huellaActual) {
       generar();
@@ -331,7 +345,7 @@
         id: DB.uid("menu"),
         nombre: (st.cfg.nombre || "").trim() || nombreSugerido(),
         creado: new Date().toISOString(),
-        personas: personas.map((p) => ({ id: p.id, nombre: p.nombre, avatar: Personas.avatar(p) })),
+        personas: personas.map((p) => ({ id: p.id, nombre: p.nombre, avatar: Personas.avatar(p), intolerancias: p.intolerancias || [] })),
         raciones: res.raciones,
         slots: res.slots.map((s) => ({ dia: s.dia, momento: s.momento, recetaId: s.recetaId, obligatoria: !!s.obligatoria, usa: s.usa || [], raciones: res.raciones })),
         enCasa: (st.cfg.ingredientesObligatorios || []).filter((x) => x.enCasa !== false).map((x) => x.nombre),

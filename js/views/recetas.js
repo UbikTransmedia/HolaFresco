@@ -4,9 +4,15 @@
   const { UI, Recetas, Compra, Catalogo, DB } = window;
   const { h } = UI;
 
-  const FILTROS_DEFECTO = { q: "", categoria: [], origen: [], momento: "", dieta: [], cocina: [], contundencia: [], coste: [], coccion: [], tupper: false, tiempoMax: 0, orden: "nombre", soloFavoritas: false, listaNegra: "" };
+  const FILTROS_DEFECTO = { q: "", categoria: [], origen: [], momento: "", dieta: [], cocina: [], contundencia: [], coste: [], coccion: [], sinAlergenos: [], aptaHogar: false, tupper: false, tiempoMax: 0, orden: "nombre", soloFavoritas: false, listaNegra: "" };
   const estado = { ...FILTROS_DEFECTO, ...DB.leer("filtrosRecetas", {}) };
-  for (const k of ["categoria", "origen", "dieta", "cocina", "contundencia", "coste", "coccion"]) if (!Array.isArray(estado[k])) estado[k] = [];
+  for (const k of ["categoria", "origen", "dieta", "cocina", "contundencia", "coste", "coccion", "sinAlergenos"]) if (!Array.isArray(estado[k])) estado[k] = [];
+  // «Olla exprés» ya no está en la fila principal de categorías: se filtra desde Más filtros → Cocción
+  if (estado.categoria.includes("olla-express")) { estado.categoria = estado.categoria.filter((c) => c !== "olla-express"); if (!estado.coccion.includes("olla-express")) estado.coccion.push("olla-express"); }
+
+  /* Personas del hogar con intolerancias (para avisar en tarjetas y detalle) */
+  const hogarConIntol = () => (window.Personas ? window.Personas.todas() : []).filter((p) => (p.intolerancias || []).length);
+  const intolHogarIds = () => [...new Set(hogarConIntol().flatMap((p) => p.intolerancias))];
   const guardarEstado = () => DB.guardar("filtrosRecetas", estado);
   const LOTE = 60;
 
@@ -47,7 +53,21 @@
         h("span.dietas", r.dieta.filter((d) => d !== "sin-frutos-secos").map((d) => { const dd = Recetas.DIETAS.find((x) => x.id === d); return dd ? h("span.dieta-ico", { title: dd.nombre }, dd.icono) : null; }))
       ),
       r.enListaNegra ? h("span.badge.badge-negra", { title: "No se elegirá en los menús semanales (salvo que la fijes)" }, "🚫 fuera de menús") : null,
+      (() => { const no = Recetas.noAptaPara(r, opciones.personas || hogarConIntol()); return no.length ? h("span.badge.badge-noapta", { title: no.map((x) => `No apta para ${x.persona.nombre}: ${x.intolerancias.map((t) => t.corto).join(", ")}`).join(" · ") }, "⚠️ No apta para ", no.map((x) => x.persona.nombre).join(", ")) : null; })(),
       r._modificada ? h("span.marca-modificada", { title: "Has modificado esta receta" }, "✏️") : null
+    );
+  };
+
+  /* Alérgenos e intolerancias de una receta, y personas del hogar para las que no es apta */
+  const bloqueAlergenos = (r) => {
+    const chip = (id, opcional) => { const t = Catalogo.intolerancia(id); const ings = Recetas.ingredientesCon(r, id, { opcionales: opcional }); return h("span.chip.chip-mini.chip-alergeno", { class: opcional ? "chip-alergeno-opc" : "", title: (opcional ? "Solo en ingredientes opcionales: " : "Por: ") + ings.join(", ") }, t.icono, " ", t.corto, opcional ? " (opcional)" : ""); };
+    const no = Recetas.noAptaPara(r, hogarConIntol());
+    const opcHogar = hogarConIntol().map((p) => ({ p, ids: (p.intolerancias || []).filter((id) => r.alergenosOpcionales.includes(id)) })).filter((x) => x.ids.length);
+    return h("div.detalle-alergenos",
+      h("span.detalle-alergenos-tit", r.alergenos.length || r.alergenosOpcionales.length ? "Contiene:" : "Sin alérgenos ni intolerancias habituales"),
+      r.alergenos.map((id) => chip(id, false)), r.alergenosOpcionales.map((id) => chip(id, true)),
+      no.map((x) => h("div.aviso.aviso-alerta.aviso-mini", `⚠️ No apta para ${x.persona.nombre}: lleva ${x.intolerancias.map((t) => `${Recetas.ingredientesCon(r, t.id).join(", ")} (${t.corto})`).join("; ")}.`)),
+      opcHogar.map((x) => h("div.aviso.aviso-info.aviso-mini", `Para ${x.p.nombre}: prepárala sin ${x.ids.map((id) => Recetas.ingredientesCon(r, id, { opcionales: true }).join(", ")).join(", ")}, que es opcional.`))
     );
   };
 
@@ -87,6 +107,7 @@
           r.equipo.length ? h("span", "🍳 ", r.equipo.join(", ")) : null
         ),
         r.dieta.length ? h("div.detalle-dietas", r.dieta.map((d) => { const dd = Recetas.DIETAS.find((x) => x.id === d); return dd ? h("span.chip.chip-mini.chip-dieta", dd.icono, " ", dd.nombre) : null; })) : null,
+        bloqueAlergenos(r),
         r.enListaNegra ? h("div.aviso.aviso-alerta.aviso-mini", "🚫 Esta receta está excluida de los menús semanales: sigue en el recetario pero el asistente no la elegirá (salvo que la fijes como obligatoria).") : null
       ),
       h("div.detalle-cols",
@@ -237,13 +258,16 @@
       const pintar = () => { UI.vaciar(cont); for (const c of lista) cont.appendChild(h("button.chip.chip-btn", { type: "button", title: c.desc || "", "aria-pressed": estado[clave].includes(c.id) ? "true" : "false", class: (estado[clave].includes(c.id) ? "activo " : "") + (extraClase ? extraClase(c) : ""), onClick: () => { toggleEn(estado[clave], c.id); actualizar(); } }, c.icono ? c.icono + " " : "", c.nombre)); };
       return { cont, pintar };
     };
-    const chipsCat = grupoChips(Recetas.CATEGORIAS, "categoria");
+    const chipsCat = grupoChips(Recetas.CATEGORIAS.filter((c) => c.id !== "olla-express"), "categoria"); // la olla exprés se filtra en «Cocción»
     const chipsOrigen = grupoChips(Object.values(Recetas.ORIGENES), "origen", (o) => "badge-" + o.id);
     const chipsDieta = grupoChips(Recetas.DIETAS, "dieta");
     const chipsCocina = grupoChips(Recetas.COCINAS, "cocina");
     const chipsCont = grupoChips(Recetas.CONTUNDENCIAS, "contundencia");
     const chipsCoste = grupoChips(Recetas.COSTES, "coste");
     const chipsCoccion = grupoChips(Recetas.COCCIONES, "coccion");
+    const chipsAlergenos = grupoChips(Catalogo.INTOLERANCIAS.map((t) => ({ id: t.id, icono: t.icono, nombre: "Sin " + t.corto, desc: "Oculta las recetas que lleven " + t.corto + " (salvo como ingrediente opcional)" })), "sinAlergenos");
+    const nombresHogar = hogarConIntol().map((p) => p.nombre);
+    const chkHogar = nombresHogar.length ? h("label.chip.chip-check", { title: "Solo recetas sin las intolerancias de " + Recetas.listaNombres(nombresHogar) }, h("input", { type: "checkbox", "aria-label": "Aptas para todo mi hogar", checked: estado.aptaHogar, onChange: (e) => { estado.aptaHogar = e.target.checked; actualizar(); } }), "🏠 Aptas para todo mi hogar") : null;
     const chkTupper = h("label.chip.chip-check", h("input", { type: "checkbox", "aria-label": "Solo para tupper", checked: estado.tupper, onChange: (e) => { estado.tupper = e.target.checked; actualizar(); } }), "🥡 Para tupper");
 
     const inputQ = h("input.input.input-buscar", { type: "search", value: estado.q, placeholder: "Buscar por nombre, ingrediente, cocina o etiqueta…", "aria-label": "Buscar recetas", onInput: UI.debounce((e) => { estado.q = e.target.value; actualizar(); }, 150) });
@@ -252,14 +276,15 @@
     const selOrden = h("select.input", { "aria-label": "Ordenar", onChange: (e) => { estado.orden = e.target.value; actualizar(); } }, [["nombre", "Ordenar: nombre"], ["favoritas", "Ordenar: favoritas primero"], ["tiempo", "Ordenar: más rápidas"], ["kcal", "Ordenar: más ligeras"], ["prot", "Ordenar: más proteína"], ["categoria", "Ordenar: categoría"], ["recientes", "Ordenar: más nuevas"]].map(([v, t]) => h("option", { value: v, selected: estado.orden === v }, t)));
     const chkFav = h("label.chip.chip-check", h("input", { type: "checkbox", "aria-label": "Solo favoritas", checked: estado.soloFavoritas, onChange: (e) => { estado.soloFavoritas = e.target.checked; actualizar(); } }), "★ Solo favoritas");
     const selNegra = h("select.input", { "aria-label": "Excluidas de menús", onChange: (e) => { estado.listaNegra = e.target.value; actualizar(); } }, [["", "Mostrar todas"], ["ocultar", "Ocultar excluidas de menús"], ["solo", "Solo excluidas de menús 🚫"]].map(([v, t]) => h("option", { value: v, selected: estado.listaNegra === v }, t)));
-    const btnLimpiar = h("button.btn.btn-suave", { type: "button", onClick: () => { Object.assign(estado, JSON.parse(JSON.stringify({ ...FILTROS_DEFECTO, orden: estado.orden }))); inputQ.value = ""; selMomento.value = ""; selTiempo.value = "0"; selNegra.value = ""; chkFav.querySelector("input").checked = false; chkTupper.querySelector("input").checked = false; actualizar(); } }, "Limpiar filtros");
+    const btnLimpiar = h("button.btn.btn-suave", { type: "button", onClick: () => { Object.assign(estado, JSON.parse(JSON.stringify({ ...FILTROS_DEFECTO, orden: estado.orden }))); inputQ.value = ""; selMomento.value = ""; selTiempo.value = "0"; selNegra.value = ""; chkFav.querySelector("input").checked = false; chkTupper.querySelector("input").checked = false; if (chkHogar) chkHogar.querySelector("input").checked = false; actualizar(); } }, "Limpiar filtros");
 
-    const filtrosAvanzados = h("details.filtros-avanzados", { open: !!(estado.origen.length || estado.dieta.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || estado.tupper || estado.soloFavoritas || estado.listaNegra) }, h("summary", "Más filtros"), h("div.filtros-avanzados-cuerpo",
+    const filtrosAvanzados = h("details.filtros-avanzados", { open: !!(estado.origen.length || estado.dieta.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || estado.sinAlergenos.length || estado.aptaHogar || estado.tupper || estado.soloFavoritas || estado.listaNegra) }, h("summary", "Más filtros"), h("div.filtros-avanzados-cuerpo",
       h("div.filtro-grupo", h("span.filtro-titulo", "Cocina"), chipsCocina.cont),
       h("div.filtro-grupo", h("span.filtro-titulo", "Contundencia"), chipsCont.cont),
       h("div.filtro-grupo", h("span.filtro-titulo", "Coste"), chipsCoste.cont),
       h("div.filtro-grupo", h("span.filtro-titulo", "Cocción"), chipsCoccion.cont, chkTupper),
       h("div.filtro-grupo", h("span.filtro-titulo", "Dieta"), chipsDieta.cont),
+      h("div.filtro-grupo", h("span.filtro-titulo", "Intolerancias"), chipsAlergenos.cont, chkHogar),
       h("div.filtro-grupo", h("span.filtro-titulo", "Origen"), chipsOrigen.cont),
       h("div.filtro-grupo.filtro-selects", chkFav, selMomento, selTiempo, selNegra, selOrden)));
 
@@ -279,14 +304,15 @@
 
     const actualizar = () => {
       guardarEstado();
-      [chipsCat, chipsOrigen, chipsDieta, chipsCocina, chipsCont, chipsCoste, chipsCoccion].forEach((g) => g.pintar());
-      let lista = Recetas.filtrar({ q: estado.q, categoria: estado.categoria, origen: estado.origen, momento: estado.momento, dieta: estado.dieta, cocina: estado.cocina, contundencia: estado.contundencia, coste: estado.coste, coccion: estado.coccion, tupper: estado.tupper, tiempoMax: estado.tiempoMax, soloFavoritas: estado.soloFavoritas, listaNegra: estado.listaNegra });
+      [chipsCat, chipsOrigen, chipsDieta, chipsCocina, chipsCont, chipsCoste, chipsCoccion, chipsAlergenos].forEach((g) => g.pintar());
+      const sinAlergenos = [...new Set([...estado.sinAlergenos, ...(estado.aptaHogar ? intolHogarIds() : [])])];
+      let lista = Recetas.filtrar({ q: estado.q, categoria: estado.categoria, origen: estado.origen, momento: estado.momento, dieta: estado.dieta, cocina: estado.cocina, contundencia: estado.contundencia, coste: estado.coste, coccion: estado.coccion, sinAlergenos, tupper: estado.tupper, tiempoMax: estado.tiempoMax, soloFavoritas: estado.soloFavoritas, listaNegra: estado.listaNegra });
       const ord = estado.orden;
       const porNombre = (a, b) => a.nombre.localeCompare(b.nombre, "es");
       lista.sort((a, b) => ord === "tiempo" ? a.tiempo - b.tiempo || porNombre(a, b) : ord === "kcal" ? (a.nutricion.kcal || 0) - (b.nutricion.kcal || 0) : ord === "prot" ? (b.nutricion.prot || 0) - (a.nutricion.prot || 0) : ord === "categoria" ? a.categoria.localeCompare(b.categoria) || porNombre(a, b) : ord === "favoritas" ? (b.favorita - a.favorita) || porNombre(a, b) : ord === "recientes" ? b.id.localeCompare(a.id) : porNombre(a, b));
       listaActual = lista;
       const total = Recetas.todas().length;
-      const hayFiltros = estado.q || estado.categoria.length || estado.origen.length || estado.momento || estado.dieta.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || estado.tupper || estado.tiempoMax || estado.soloFavoritas || estado.listaNegra;
+      const hayFiltros = estado.q || estado.categoria.length || estado.origen.length || estado.momento || estado.dieta.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || sinAlergenos.length || estado.tupper || estado.tiempoMax || estado.soloFavoritas || estado.listaNegra;
       contador.textContent = hayFiltros ? `${lista.length} de ${total} recetas` : `${total} recetas`;
       btnLimpiar.style.display = hayFiltros ? "" : "none";
       pintarGrid();
@@ -298,7 +324,7 @@
 
     UI.append(cont,
       h("header.vista-cab",
-        h("div", h("h1", "🍳 Recetas"), h("p.vista-desc", `${porOrigen.recetario || 0} desarrolladas del recetario · ${porOrigen.inventada || 0} inventadas${porOrigen.propia ? ` · ${porOrigen.propia} tuyas` : ""}${nFav ? ` · ★ ${nFav} favoritas` : ""}`)),
+        h("div", h("h1", "🍳 Recetas"), h("p.vista-desc", `${(porOrigen.recetario || 0).toLocaleString("es-ES")} originales · ${(porOrigen.inventada || 0).toLocaleString("es-ES")} derivadas${porOrigen.propia ? ` · ${porOrigen.propia} tuyas` : ""}${nFav ? ` · ★ ${nFav} favoritas` : ""}`)),
         h("button.btn.btn-primario", { type: "button", onClick: () => abrirEditor(null) }, "+ Nueva receta")
       ),
       h("div.barra-filtros",
@@ -318,6 +344,8 @@
     const onCambio = () => { if (cont.isConnected) actualizar(); else { document.removeEventListener("recetas:cambio", onCambio); document.removeEventListener("recetas:marcas", onCambio); } };
     document.addEventListener("recetas:cambio", onCambio);
     document.addEventListener("recetas:marcas", onCambio);
+    const onPersonas = () => { if (cont.isConnected) actualizar(); else document.removeEventListener("personas:cambio", onPersonas); };
+    document.addEventListener("personas:cambio", onPersonas);
   };
 
   window.Vistas = window.Vistas || {};

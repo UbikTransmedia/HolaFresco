@@ -142,6 +142,9 @@
         doc.parrafo(r.nombre, { f: "F2", size: 18, col: doc.colores.acento, interlineado: 1.2, despues: 2 });
         if (r.subtitulo) doc.parrafo(r.subtitulo.charAt(0).toUpperCase() + r.subtitulo.slice(1), { f: "F3", size: 10.5, col: doc.colores.suave, despues: 4 });
         doc.parrafo([cat.nombre, coc ? coc.nombre : null, `${r.tiempo} min`, `dificultad ${r.dificultad}`, con ? con.nombre : null, cos ? `coste ${cos.nombre.toLowerCase()}` : null].filter(Boolean).join(" · "), { size: 9, col: doc.colores.suave, despues: 0 });
+        const corto = (id) => Catalogo.intolerancia(id).corto;
+        if (r.alergenos.length || r.alergenosOpcionales.length) doc.parrafo(`Contiene: ${r.alergenos.map(corto).join(", ") || "—"}${r.alergenosOpcionales.length ? ` · solo en opcionales: ${r.alergenosOpcionales.map(corto).join(", ")}` : ""}`, { size: 9, col: doc.colores.suave, despues: 0 });
+        for (const x of Recetas.noAptaPara(r, menu.personas || [])) doc.parrafo(`Atención: no apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")}).`, { f: "F2", size: 9, col: doc.colores.acento, despues: 0 });
         doc.enlaces([["Volver al plan", "plan"], ["Markdown de esta receta", "md-" + kSlot(s)]]);
         doc.titulo3(`Ingredientes (${String(raciones).replace(".", ",")} ${raciones === 1 ? "ración" : "raciones"})`);
         for (const ing of Compra.escalar(r, raciones)) {
@@ -286,6 +289,7 @@
         return h("div.slot", { class: s.obligatoria ? "slot-obligatoria" : "" },
           h("div.slot-cab", h("span.slot-momento", Recetas.MOMENTOS.find((x) => x.id === m).icono, " ", m === "comida" ? "Comida" : "Cena"), s.obligatoria ? h("span.chip.chip-mini.chip-fija", "📌 fija") : null, (s.usa || []).length ? h("span.chip.chip-mini.chip-usa", { title: "Usa ingredientes que pediste" }, "🥕 ", s.usa.join(", ")) : null),
           r ? h("button.slot-receta", { type: "button", onClick: () => window.Vistas.recetas.abrirDetalle(r.id, { raciones: s.raciones || menu.raciones }) }, h("span.slot-cat", Recetas.categoria(r.categoria).icono), h("span.slot-nombre", r.nombre), h("small.muted", `${r.tiempo} min · ${r.nutricion.kcal || "?"} kcal/ración`)) : h("p.muted", "Receta no disponible (se borró de la base de datos)"),
+          r ? Recetas.noAptaPara(r, menu.personas || []).map((x) => h("div.aviso.aviso-alerta.aviso-mini", `⚠️ No apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")})`)) : null,
           r ? h("div.slot-acciones", h("button.btn.btn-mini.btn-suave", { type: "button", title: `Copiar «${r.nombre}» en Markdown, con las raciones del menú`, "aria-label": `Copiar ${r.nombre} en Markdown`, onClick: () => Recetas.copiarMarkdown(r.id, s.raciones || menu.raciones) }, "📋 Copiar")) : null
         );
       })))));
@@ -302,7 +306,7 @@
       const contTxt = (v) => (Planificador.CONTUNDENCIA_OPCIONES.find((o) => o.id === v) || {}).nombre || v;
       const chips = (obj, fn) => h("div.resumen-categorias", Object.entries(obj).map(([c, n]) => { const d = fn(c); return d ? h("span.chip.chip-mini", d.icono, " ", d.nombre, ": ", String(n)) : null; }));
       UI.append(p,
-        h("section.bloque", h("h3", "Personas"), h("ul.lista-simple", (menu.personas || []).map((per) => h("li", `${per.avatar || "🙂"} ${per.nombre}`))), h("p.muted", `${Number(menu.raciones).toLocaleString("es-ES")} raciones estándar por comida.`)),
+        h("section.bloque", h("h3", "Personas"), h("ul.lista-simple", (menu.personas || []).map((per) => h("li", `${per.avatar || "🙂"} ${per.nombre}`, (per.intolerancias || []).length ? h("span.muted", ` · sin ${per.intolerancias.map((id) => (Catalogo.intolerancia(id) || {}).corto || id).join(", ")}`) : null))), h("p.muted", `${Number(menu.raciones).toLocaleString("es-ES")} raciones estándar por comida.`)),
         res ? h("section.bloque", h("h3", "Media por ración"), h("div.nut-grid", h("div.nut-item", h("strong", res.media.kcal), h("span", "kcal")), h("div.nut-item", h("strong", res.media.prot, " g"), h("span", "proteína")), h("div.nut-item", h("strong", res.media.hc, " g"), h("span", "hidratos")), h("div.nut-item", h("strong", res.media.grasa, " g"), h("span", "grasa"))),
           h("div.resumen-categorias", Object.entries(res.porCategoria).map(([c, n]) => h("span.chip", Recetas.categoria(c).icono, " ", Recetas.categoria(c).nombre, ": ", String(n)))),
           chips(res.porContundencia, Recetas.contundencia), chips(res.porCoste, Recetas.coste)) : null,

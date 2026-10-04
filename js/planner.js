@@ -115,6 +115,32 @@
 
   const racionesTotales = (personas) => Nutricion.racionesGrupo(personas);
 
+  /* Intolerancias de las personas del menú: [{ ...intolerancia, personas: [nombres] }] */
+  const intoleranciasGrupo = (personas) => {
+    const mapa = new Map();
+    for (const p of personas || []) for (const id of p.intolerancias || []) {
+      const t = Catalogo.intolerancia(id);
+      if (!t) continue;
+      if (!mapa.has(id)) mapa.set(id, { ...t, personas: [] });
+      mapa.get(id).personas.push(p.nombre || "alguien");
+    }
+    return [...mapa.values()];
+  };
+  /* Las intolerancias funcionan como vetos duros: se añaden a los vetos del usuario sin tocar la configuración guardada */
+  const conIntolerancias = (cfg, intol) => intol.length ? { ...cfg, vetos: [...new Set([...cfg.vetos, ...intol.flatMap((t) => t.grupos)])] } : cfg;
+  const avisosIntolerancia = (receta, intol, { soloOpcionales = false } = {}) => {
+    const avisos = [];
+    for (const t of intol) {
+      const c = Recetas.conflictosVeto(receta, t.grupos);
+      const fijos = [...new Set(c.filter((x) => !x.opcional).map((x) => x.ingrediente))];
+      const opc = [...new Set(c.filter((x) => x.opcional).map((x) => x.ingrediente))];
+      const quien = Recetas.listaNombres(t.personas);
+      if (fijos.length && !soloOpcionales) avisos.push(`Lleva ${fijos.join(", ")} y ${quien} ${t.personas.length > 1 ? "tienen" : "tiene"} intolerancia o alergia (${t.corto}); se mantiene porque la marcaste como obligatoria.`);
+      if (opc.length) avisos.push(`Prepárala sin ${opc.join(", ")} (es opcional): ${quien} no ${t.personas.length > 1 ? "pueden" : "puede"} tomar ${t.corto}.`);
+    }
+    return avisos;
+  };
+
   const limiteTiempo = (cfg, diaId) => { const d = dia(diaId); return d && d.laborable ? cfg.tiempo.laborables : cfg.tiempo.finde; };
 
   /* Filtro duro de elegibilidad (las obligatorias se saltan este filtro) */
@@ -145,6 +171,9 @@
 
   const generar = (cfg, personas, opciones = {}) => {
     cfg = normalizarConfig(cfg);
+    const intol = intoleranciasGrupo(personas);
+    const vetosUsuario = cfg.vetos;
+    cfg = conIntolerancias(cfg, intol);
     const random = rng(cfg.semilla || Math.floor(Math.random() * 1e9));
     const prefs = Nutricion.preferenciasGrupo(personas);
     const todas = Recetas.todas();
@@ -162,8 +191,9 @@
     const obligatorias = (cfg.obligatorias || []).map((o) => ({ ...o, receta: Recetas.porId(o.recetaId) })).filter((o) => o.receta);
     const colocarObligatoria = (o, slot) => {
       const avisos = [];
-      const conflictos = Recetas.conflictosVeto(o.receta, cfg.vetos);
+      const conflictos = Recetas.conflictosVeto(o.receta, vetosUsuario).filter((c) => !c.opcional);
       if (conflictos.length) avisos.push(`Contiene ${[...new Set(conflictos.map((c) => c.ingrediente))].join(", ")} (vetado); se mantiene porque la marcaste como obligatoria.`);
+      avisos.push(...avisosIntolerancia(o.receta, intol));
       if (!o.receta.momentos.includes(slot.momento)) avisos.push(`Suele ser plato de ${o.receta.momentos.join("/")}, pero la has fijado en la ${slot.momento}.`);
       if (cfg.dietas.some((d) => !o.receta.dieta.includes(d))) avisos.push("No cumple todas las dietas elegidas; prevalece por ser obligatoria.");
       if (o.receta.enListaNegra) avisos.push("Está en tu lista de excluidas de menús; prevalece por ser obligatoria.");
@@ -197,6 +227,8 @@
     for (const a of asignacion.values()) { const r = Recetas.porId(a.recetaId); if (r) for (const t of usaDe(r)) { cubiertos.add(t); a.usa = [...new Set([...(a.usa || []), t])]; } }
     for (const t of requeridos) {
       if (cubiertos.has(t)) continue;
+      const porIntol = intol.find((x) => x.grupos.some((g) => Catalogo.ingredienteVetado(t, g)));
+      if (porIntol) { avisosGlobales.push(`«${t}» no se fuerza en el menú: ${Recetas.listaNombres(porIntol.personas)} no ${porIntol.personas.length > 1 ? "pueden" : "puede"} tomar ${porIntol.corto}.`); continue; }
       const vetado = cfg.vetos.some((v) => Catalogo.ingredienteVetado(t, v) || Catalogo.normalizar(v) === Catalogo.normalizar(t));
       if (vetado) { avisosGlobales.push(`«${t}» está a la vez vetado y marcado como obligatorio; manda el veto y no se fuerza.`); continue; }
       const libres = slots.filter((sl) => !asignacion.has(clave(sl)));
@@ -320,6 +352,13 @@
     if (avisoRecientes) avisosGlobales.push("No había suficientes recetas sin usar en el periodo elegido; algunas se han repetido de menús anteriores.");
 
     for (const a of asignacion.values()) { const r = Recetas.porId(a.recetaId); if (r && requeridos.length) { const u = usaDe(r); if (u.length) a.usa = u; } }
+    // Ingredientes opcionales que conviene quitar por alguna intolerancia (no en huecos que se conservan tal cual)
+    if (intol.length) for (const [k, a] of asignacion) {
+      const r = Recetas.porId(a.recetaId);
+      if (!r || fijos.has(k) || a.obligatoria) continue;
+      const extra = avisosIntolerancia(r, intol, { soloOpcionales: true });
+      if (extra.length) a.avisos = [...(a.avisos || []), ...extra];
+    }
     const resultado = slots.map((s) => ({ ...s, ...(asignacion.get(clave(s)) || { recetaId: null, avisos: [] }) }));
     return { slots: resultado, avisos: avisosGlobales, raciones: racionesTotales(personas) };
   };
@@ -334,8 +373,8 @@
   };
 
   /* Alternativas para un hueco (para elegir a mano), ordenadas por compatibilidad */
-  const alternativas = (cfg, slot, excluirIds = []) => {
-    cfg = normalizarConfig(cfg);
+  const alternativas = (cfg, slot, excluirIds = [], personas = []) => {
+    cfg = conIntolerancias(normalizarConfig(cfg), intoleranciasGrupo(personas));
     const ex = new Set(excluirIds);
     const recientes = Recetas.usadasRecientemente(cfg.evitarRepetidasSemanas);
     const compat = Recetas.todas().filter((r) => elegible(r, cfg, slot.momento, slot.dia, { recientes }) && !ex.has(r.id));
@@ -365,5 +404,5 @@
     return JSON.stringify(resto);
   };
 
-  window.Planificador = { DIAS, dia, FRECUENCIAS, PRESUPUESTOS, APARATOS, TUPPER, necesitaTupper, CONTUNDENCIA_OPCIONES, TIEMPOS, SEMANAS_SIN_REPETIR, configPorDefecto, normalizarConfig, generar, regenerarSlot, alternativas, elegible, resumenNutricional, racionesTotales, huella, contundenciaDeseada };
+  window.Planificador = { DIAS, dia, FRECUENCIAS, PRESUPUESTOS, APARATOS, TUPPER, necesitaTupper, CONTUNDENCIA_OPCIONES, TIEMPOS, SEMANAS_SIN_REPETIR, configPorDefecto, normalizarConfig, generar, regenerarSlot, alternativas, elegible, intoleranciasGrupo, resumenNutricional, racionesTotales, huella, contundenciaDeseada };
 })();

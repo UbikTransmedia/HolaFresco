@@ -171,6 +171,12 @@
       "miel", "sirope de agave", "agave", "anacardo*", "pistacho*", "inulina"
     ], excluir: ["aceite de ajo", "aceite con ajo", "sin lactosa", "sin gluten", "leche de coco", "bebida de almendra*", "bebida de arroz", "fideos de arroz", "noodles de arroz", "harina de arroz", "harina de maiz", "harina de garbanzo", "pan sin gluten", "pasta sin gluten", "cebollino*", "parte verde", "yogur vegetal", "yogur de coco", "nata vegetal", "nata de coco", "pasta de*", "trigo sarraceno", "harina de trigo sarraceno"] },
 
+    /* Alérgenos de declaración obligatoria que faltaban (Reglamento UE 1169/2011) */
+    { id: "cacahuete", nombre: "Cacahuete", icono: "🥜", claves: ["cacahuete*", "crema de cacahuete", "mantequilla de cacahuete", "aceite de cacahuete"] },
+    { id: "apio", nombre: "Apio", icono: "🥬", claves: ["apio", "apionabo", "sal de apio", "semillas de apio"] },
+    { id: "mostaza", nombre: "Mostaza", icono: "🟡", claves: ["mostaza*", "semillas de mostaza", "mostaza en grano"], excluir: ["hojas de mostaza"] },
+    { id: "altramuz", nombre: "Altramuces", icono: "🟤", claves: ["altramuz*", "harina de altramuz"] },
+    { id: "sulfitos", nombre: "Sulfitos", icono: "🍷", claves: ["vino*", "vinagre*", "sidra", "cava", "vermut", "jerez", "vino fino", "mirin", "sake", "pasas", "orejon*", "ciruela pasa", "ciruelas pasas", "fruta deshidratada", "frutas desecadas", "encurtido*", "pepinillo*", "alcaparra*", "guindillas en vinagre", "mostaza*"], excluir: ["hojas de mostaza"] },
     { id: "miel", nombre: "Miel", icono: "🍯", claves: ["miel"] },
     { id: "cafeina", nombre: "Cafeína", icono: "☕", claves: ["cafe", "te verde", "te negro", "chocolate*", "cacao"] },
   ];
@@ -210,6 +216,29 @@
     if (vt.length === 1 && v.length >= 5) return t.some((w) => w.startsWith(v));
     return false;
   };
+
+  /* Intolerancias y alergias que se pueden indicar en el perfil de cada persona.
+     Cada una se apoya en uno o varios grupos de ingredientes. */
+  const INTOLERANCIAS = [
+    { id: "gluten", nombre: "Gluten (celiaquía)", corto: "gluten", icono: "🌾", grupos: ["gluten"] },
+    { id: "lactosa", nombre: "Lactosa y lácteos", corto: "lácteos", icono: "🥛", grupos: ["lacteos"] },
+    { id: "huevo", nombre: "Huevo", corto: "huevo", icono: "🥚", grupos: ["huevo"] },
+    { id: "frutos-secos", nombre: "Frutos secos", corto: "frutos secos", icono: "🌰", grupos: ["frutos-secos"] },
+    { id: "cacahuete", nombre: "Cacahuete", corto: "cacahuete", icono: "🥜", grupos: ["cacahuete"] },
+    { id: "pescado", nombre: "Pescado", corto: "pescado", icono: "🐟", grupos: ["pescado"] },
+    { id: "marisco", nombre: "Marisco (crustáceos y moluscos)", corto: "marisco", icono: "🦐", grupos: ["marisco"] },
+    { id: "soja", nombre: "Soja", corto: "soja", icono: "🫘", grupos: ["soja"] },
+    { id: "sesamo", nombre: "Sésamo", corto: "sésamo", icono: "⚪", grupos: ["sesamo"] },
+    { id: "apio", nombre: "Apio", corto: "apio", icono: "🥬", grupos: ["apio"] },
+    { id: "mostaza", nombre: "Mostaza", corto: "mostaza", icono: "🟡", grupos: ["mostaza"] },
+    { id: "altramuz", nombre: "Altramuces", corto: "altramuces", icono: "🟤", grupos: ["altramuz"] },
+    { id: "sulfitos", nombre: "Sulfitos", corto: "sulfitos", icono: "🍷", grupos: ["sulfitos"] },
+    { id: "legumbres", nombre: "Legumbres", corto: "legumbres", icono: "🫛", grupos: ["legumbre"] },
+    { id: "fodmap", nombre: "Intestino irritable (FODMAP)", corto: "FODMAP", icono: "🎈", grupos: ["fodmap"] },
+  ];
+  const intolerancia = (id) => INTOLERANCIAS.find((x) => x.id === id) || null;
+  /* Intolerancias (de una lista de ids) que choca con una lista de grupos de una receta */
+  const intoleranciasEn = (gruposReceta, ids) => (ids || []).map(intolerancia).filter((t) => t && t.grupos.some((g) => gruposReceta.includes(g)));
 
   const esBasico = (nombre) => pasilloDe(nombre) === "basicos";
 
@@ -266,5 +295,5 @@
     "al gusto": { nombre: "al gusto", plural: "al gusto", decimales: 0 },
   };
 
-  window.Catalogo = { normalizar, tokens, palabrasIguales, contieneFrase, coincideAlguna, PASILLOS, pasilloDe, GRUPOS, gruposDe, ingredienteVetado, ingredienteUsa, esBasico, costeDe, UNIDADES };
+  window.Catalogo = { normalizar, tokens, palabrasIguales, contieneFrase, coincideAlguna, PASILLOS, pasilloDe, GRUPOS, gruposDe, ingredienteVetado, ingredienteUsa, esBasico, costeDe, UNIDADES, INTOLERANCIAS, intolerancia, intoleranciasEn };
 })();

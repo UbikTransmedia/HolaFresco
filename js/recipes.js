@@ -17,16 +17,21 @@
   ];
   const categoria = (id) => CATEGORIAS.find((c) => c.id === id) || { id, nombre: id || "Sin categoría", icono: "🍽️" };
 
+  /* Los ids se mantienen aunque cambie el nombre visible (latinoamericana → Hispanoamericana,
+     americana → Angloamericana) para no romper menús ni recetas guardadas. */
   const COCINAS = [
     { id: "española", nombre: "Española", icono: "🥘" },
-    { id: "mediterránea", nombre: "Mediterránea", icono: "🫒", desc: "Italiana, griega, sur de Francia" },
+    { id: "mediterránea", nombre: "Mediterránea", icono: "🫒", desc: "Provenza, Córcega, Malta, Adriático y cocina saludable de inspiración mediterránea" },
+    { id: "italiana", nombre: "Italiana", icono: "🍕", desc: "De norte a sur de Italia, con Sicilia y Cerdeña" },
+    { id: "griega", nombre: "Griega", icono: "🏛️", desc: "Griega continental, de las islas y chipriota" },
     { id: "asiática", nombre: "Asiática", icono: "🥢", desc: "China, japonesa, tailandesa, vietnamita, coreana" },
     { id: "india", nombre: "India", icono: "🍛" },
     { id: "oriente-medio", nombre: "Oriente Medio y Magreb", icono: "🧆" },
-    { id: "latinoamericana", nombre: "Latinoamericana", icono: "🌮" },
+    { id: "latinoamericana", nombre: "Hispanoamericana", icono: "🌮", desc: "México, Perú, Caribe, Andes, Cono Sur y Brasil" },
     { id: "europea", nombre: "Europea", icono: "🥐", desc: "Centroeuropea, francesa, británica, nórdica" },
-    { id: "americana", nombre: "Americana", icono: "🍔" },
-    { id: "fusión", nombre: "Fusión", icono: "🌍" },
+    { id: "eslava", nombre: "Eslava", icono: "🥟", desc: "Rusa, ucraniana, polaca, checa, eslovaca y balcánica" },
+    { id: "americana", nombre: "Angloamericana", icono: "🍔", desc: "Estados Unidos y Canadá: sur, cajún, tex-mex, barbacoa, clásicos de diner" },
+    { id: "fusión", nombre: "Fusión", icono: "🌍", desc: "Mezcla de tradiciones o cocina saludable contemporánea sin un origen claro" },
   ];
   const cocina = (id) => COCINAS.find((c) => c.id === id) || null;
 
@@ -46,9 +51,9 @@
   const coste = (id) => COSTES.find((c) => c.id === id) || null;
 
   const ORIGENES = {
-    recetario: { id: "recetario", nombre: "Del recetario", corto: "Recetario", icono: "📄", desc: "Desarrollada a partir de un título de RECETAS.pdf" },
-    inventada: { id: "inventada", nombre: "Inventada", corto: "Inventada", icono: "✨", desc: "Creada nueva inspirándose en RECETAS.pdf (cocina fusión y saludable)" },
-    propia: { id: "propia", nombre: "Mía", corto: "Mía", icono: "✍️", desc: "Añadida por ti" },
+    recetario: { id: "recetario", nombre: "Originales", corto: "Original", icono: "📄", desc: "Receta original: desarrollada a partir del recetario de partida de HolaFresco" },
+    inventada: { id: "inventada", nombre: "Derivadas", corto: "Derivada", icono: "✨", desc: "Receta derivada: creada a partir de las originales (cocinas del mundo, tradicionales, prácticas y saludables)" },
+    propia: { id: "propia", nombre: "Mías", corto: "Mía", icono: "✍️", desc: "Añadida por ti" },
   };
 
   const DIETAS = [
@@ -122,9 +127,9 @@
 
   /* Deriva etiquetas de dieta a partir de los ingredientes (coherente con los vetos) y completa atributos */
   const enriquecer = (r, favs, negra) => {
-    const grupos = new Set();
+    const grupos = new Set(), gruposFijos = new Set(); // gruposFijos: solo ingredientes no opcionales
     for (const ing of r.ingredientes || []) {
-      for (const g of Catalogo.gruposDe(ing.n)) grupos.add(g);
+      for (const g of Catalogo.gruposDe(ing.n)) { grupos.add(g); if (!ing.opcional) gruposFijos.add(g); }
     }
     const dieta = [];
     const vegetariana = !grupos.has("carne") && !grupos.has("pescado") && !grupos.has("marisco");
@@ -136,6 +141,9 @@
     if (!grupos.has("fodmap")) dieta.push("bajo-fodmap");
     r.dieta = dieta;
     r.grupos = [...grupos];
+    // Alérgenos e intolerancias: los de ingredientes obligatorios y, aparte, los que solo aparecen en opcionales
+    r.alergenos = Catalogo.INTOLERANCIAS.filter((t) => t.grupos.some((g) => gruposFijos.has(g))).map((t) => t.id);
+    r.alergenosOpcionales = Catalogo.INTOLERANCIAS.filter((t) => !r.alergenos.includes(t.id) && t.grupos.some((g) => grupos.has(g))).map((t) => t.id);
     r.nutricion = r.nutricion || {};
     r.raciones = r.raciones || 2;
     r.momentos = r.momentos && r.momentos.length ? r.momentos : ["comida", "cena"];
@@ -288,6 +296,7 @@
       if (f.sinOllaExpress && r.equipo.includes("olla-express")) return false;
       if (f.coccion && f.coccion.length && !f.coccion.some((c) => r.coccion.includes(c))) return false;
       if (f.tupper && !r.tupper) return false;
+      if (f.sinAlergenos && f.sinAlergenos.length && f.sinAlergenos.some((a) => r.alergenos.includes(a))) return false;
       if (f.soloFavoritas && !r.favorita) return false;
       if (f.listaNegra === "ocultar" && r.enListaNegra) return false;
       if (f.listaNegra === "solo" && !r.enListaNegra) return false;
@@ -306,6 +315,17 @@
     return res;
   };
 
+  /* Intolerancias: ingredientes de la receta que afectan a cada intolerancia y personas para las que no es apta */
+  const ingredientesCon = (r, idIntolerancia, { opcionales = false } = {}) => {
+    const t = Catalogo.intolerancia(idIntolerancia);
+    if (!t) return [];
+    return [...new Set(r.ingredientes.filter((i) => !!i.opcional === opcionales && t.grupos.some((g) => Catalogo.gruposDe(i.n).includes(g))).map((i) => i.n))];
+  };
+  const noAptaPara = (r, personas) => (personas || [])
+    .map((p) => ({ persona: p, intolerancias: (p.intolerancias || []).filter((id) => r.alergenos.includes(id)).map(Catalogo.intolerancia).filter(Boolean) }))
+    .filter((x) => x.intolerancias.length);
+  const listaNombres = (nombres) => nombres.length <= 1 ? nombres.join("") : nombres.slice(0, -1).join(", ") + " y " + nombres[nombres.length - 1];
+
   /* Receta en Markdown (para copiar y pegar en cualquier app de notas) */
   const aMarkdown = (r, raciones) => {
     raciones = raciones || r.raciones || 2;
@@ -321,6 +341,8 @@
     if (momentos) L.push("", `**Para:** ${momentos}`);
     const dietas = r.dieta.filter((d) => d !== "sin-frutos-secos").map((d) => (DIETAS.find((x) => x.id === d) || {}).nombre).filter(Boolean);
     if (dietas.length) L.push(`**Apta para:** ${dietas.join(", ")}`);
+    if (r.alergenos.length) L.push(`**Contiene (alérgenos e intolerancias):** ${r.alergenos.map((a) => Catalogo.intolerancia(a).corto).join(", ")}`);
+    if (r.alergenosOpcionales.length) L.push(`**Solo en ingredientes opcionales:** ${r.alergenosOpcionales.map((a) => Catalogo.intolerancia(a).corto).join(", ")}`);
     if (r.equipo.length) L.push(`**Equipo:** ${r.equipo.join(", ")}`);
     if (r.coccion.length) L.push(`**Cocción:** ${r.coccion.map((c) => coccion(c).nombre).join(", ")}`);
     if (r.tupper) L.push("**Apta para tupper:** sí, aguanta bien y se recalienta sin problema");
@@ -354,6 +376,6 @@
     CATEGORIAS, categoria, COCINAS, cocina, COCCIONES, coccion, CONTUNDENCIAS, contundencia, contundenciaPorKcal, COSTES, coste, ORIGENES, DIETAS, MOMENTOS, DIFICULTADES, PROTEINAS,
     todas, porId, esSemilla, guardar, borrar, restaurar, restaurarTodas, ocultas, duplicar,
     esFavorita, enListaNegra, toggleFavorita, toggleListaNegra, usadasRecientemente, aMarkdown, copiarMarkdown,
-    indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer,
+    indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer, ingredientesCon, noAptaPara, listaNombres,
   };
 })();

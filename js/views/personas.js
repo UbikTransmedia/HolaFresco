@@ -2,7 +2,7 @@
    (lenguaje amable, datos opcionales, sin juicios, foco en el objetivo de la persona). */
 (function () {
   "use strict";
-  const { DB, UI, Nutricion } = window;
+  const { DB, UI, Nutricion, Catalogo } = window;
   const { h, campo, segmentado } = UI;
 
   const todas = () => DB.leer("personas", []);
@@ -23,7 +23,8 @@
 
   /* Diálogo de alta/edición */
   const editor = (persona, alGuardar) => {
-    const p = JSON.parse(JSON.stringify(persona || { nombre: "", sexo: "mujer", edad: "", peso: "", altura: "", actividad: "ligera", objetivos: ["mantener"], avatar: "" }));
+    const p = JSON.parse(JSON.stringify(persona || { nombre: "", sexo: "mujer", edad: "", peso: "", altura: "", actividad: "ligera", objetivos: ["mantener"], intolerancias: [], avatar: "" }));
+    if (!Array.isArray(p.intolerancias)) p.intolerancias = [];
     let m;
 
     const previa = h("div.persona-previa", { "aria-live": "polite" });
@@ -67,6 +68,20 @@
     pintarObjetivos();
     pintarPrevia();
 
+    /* Intolerancias y alergias: se aplican como vetos en todos los menús en los que esté esta persona */
+    const resumenIntol = h("p.campo-ayuda", { "aria-live": "polite" });
+    const pintarResumenIntol = () => {
+      const total = window.Recetas ? window.Recetas.todas().length : 0;
+      const aptas = window.Recetas && p.intolerancias.length ? window.Recetas.filtrar({ sinAlergenos: p.intolerancias }).length : total;
+      resumenIntol.textContent = p.intolerancias.length
+        ? `Los menús en los que esté esta persona evitarán estos ingredientes (${aptas.toLocaleString("es-ES")} de ${total.toLocaleString("es-ES")} recetas son aptas). Si fijas a mano una receta que los lleve, se mantendrá, pero te avisaremos.`
+        : "Marca lo que esta persona no puede o no debe comer. Se tendrá en cuenta al crear menús y en el buscador de recetas.";
+    };
+    const intolerancias = h("div.chips-check", { role: "group", "aria-label": "Intolerancias y alergias" }, Catalogo.INTOLERANCIAS.map((t) =>
+      h("label.chip.chip-check", { title: "Evita: " + t.grupos.flatMap((g) => (Catalogo.GRUPOS.find((x) => x.id === g) || {}).claves || []).slice(0, 8).join(", ").replace(/\*/g, "") + "…" },
+        h("input", { type: "checkbox", "aria-label": t.nombre, checked: p.intolerancias.includes(t.id), onChange: (e) => { p.intolerancias = e.target.checked ? [...new Set([...p.intolerancias, t.id])] : p.intolerancias.filter((x) => x !== t.id); pintarResumenIntol(); } }), t.icono, " ", t.nombre)));
+    pintarResumenIntol();
+
     const form = h("form.form-persona", { onSubmit: (e) => { e.preventDefault(); enviar(); } },
       h("div.fila-campos",
         campo("Nombre o apodo", inputNombre),
@@ -80,6 +95,7 @@
       ),
       h("div.campo", h("span.campo-etiqueta", "Nivel de actividad"), segmentado({ opciones: Nutricion.ACTIVIDADES, valor: p.actividad, ariaLabel: "Nivel de actividad", alCambiar: (v) => { p.actividad = v; pintarPrevia(); } })),
       h("div.campo", h("span.campo-etiqueta", "¿Qué te gustaría conseguir? ", h("span.muted", "(puedes marcar varios)")), objetivos),
+      h("div.campo", h("span.campo-etiqueta", "Intolerancias y alergias ", h("span.muted", "(opcional)")), intolerancias, resumenIntol),
       previa
     );
 
@@ -116,6 +132,7 @@
   };
 
   const objetivosTexto = (p) => (p.objetivos || []).map((o) => Nutricion.OBJETIVOS.find((x) => x.id === o)).filter(Boolean).map((o) => `${o.icono} ${o.nombre}`);
+  const intoleranciasTexto = (p) => (p.intolerancias || []).map(Catalogo.intolerancia).filter(Boolean).map((t) => `${t.icono} Sin ${t.corto}`);
 
-  window.Personas = { todas, porId, guardar, borrar, editor, avatar, resumenCorto, objetivosTexto };
+  window.Personas = { todas, porId, guardar, borrar, editor, avatar, resumenCorto, objetivosTexto, intoleranciasTexto };
 })();

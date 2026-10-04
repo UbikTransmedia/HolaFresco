@@ -16,8 +16,8 @@ window.RECETAS_SEED.push({
   id: "pes-01",                 // prefijo de categoría + número de 2 cifras (ver prefijos)
   nombre: "Salmón noruego al horno con costra de panko",
   subtitulo: "con verduritas al horno y mayonesa al limón",   // opcional
-  origen: "recetario",          // "recetario" = desarrollada a partir de un título de RECETAS.pdf
-                                // "inventada" = creada nueva a partir del estudio de RECETAS.pdf
+  origen: "recetario",          // "recetario" = original (se muestra como «Originales»)
+                                // "inventada" = derivada de las originales (se muestra como «Derivadas»)
   categoria: "pescado",         // legumbres | pescado | carnes | vegetariano | ensaladas | olla-express
   momentos: ["comida", "cena"], // en qué comidas encaja. Guisos pesados: ["comida"]; cremas y
                                 // ensaladas: ["comida","cena"] o ["cena"]
@@ -58,14 +58,17 @@ window.RECETAS_SEED.push({
 | id | descripción |
 |---|---|
 | `española` | cocina tradicional española y de sus regiones |
-| `mediterránea` | italiana, griega, sur de Francia, levantina mediterránea |
+| `mediterránea` | Provenza, Córcega, Malta, Adriático y cocina saludable de inspiración mediterránea sin un país claro |
+| `italiana` | italiana de todas sus regiones (con Sicilia y Cerdeña) |
+| `griega` | griega continental, de las islas y chipriota |
 | `asiática` | china, japonesa, tailandesa, vietnamita, coreana |
 | `india` | india y sur de Asia (curris, dal, biryani…) |
 | `oriente-medio` | Oriente Medio y Magreb (libanesa, turca, marroquí, persa) |
-| `latinoamericana` | mexicana, peruana, argentina, caribeña… |
+| `latinoamericana` | se muestra como **Hispanoamericana**: mexicana, peruana, argentina, caribeña, brasileña… |
 | `europea` | centroeuropea, francesa, británica, nórdica |
-| `americana` | estadounidense (burgers, BBQ, bowls, tex-mex) |
-| `fusión` | mezcla deliberada de dos tradiciones |
+| `eslava` | rusa, ucraniana, polaca, checa, eslovaca y balcánica eslava (serbia, croata, búlgara…) |
+| `americana` | se muestra como **Angloamericana**: Estados Unidos y Canadá (sur, cajún, criolla de Luisiana, tex-mex, barbacoa, diner, Nueva Inglaterra) |
+| `fusión` | mezcla deliberada de dos tradiciones, o cocina saludable contemporánea sin un origen claro (bowls, tostas, wraps…) |
 
 ### `contundencia`
 

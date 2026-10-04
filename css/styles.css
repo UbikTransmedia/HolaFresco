@@ -669,3 +669,13 @@ body.fondo-inicio .firma-inicio { color: #f4ece2; text-shadow: 0 1px 6px rgba(0,
 body.fondo-inicio .firma-inicio a { color: #fff; font-weight: 700; }
 
 .chip-tupper { background: var(--info-claro); }
+
+/* Intolerancias y alérgenos */
+.badge-noapta { background: var(--alerta-claro); color: var(--alerta); align-self: flex-start; border: 1px solid var(--alerta); }
+.detalle-alergenos { display: flex; flex-wrap: wrap; align-items: center; gap: .35rem; margin-top: .5rem; }
+.detalle-alergenos-tit { font-size: .85rem; color: var(--texto-suave, inherit); font-weight: 600; }
+.detalle-alergenos .aviso { flex-basis: 100%; margin: .2rem 0 0; }
+.chip-alergeno { background: var(--alerta-claro); border-color: var(--alerta); }
+.chip-alergeno-opc { background: transparent; border-style: dashed; }
+.chip-intol { background: var(--alerta-claro); border-color: var(--alerta); }
+.texto-alerta { color: var(--alerta); font-weight: 600; }
