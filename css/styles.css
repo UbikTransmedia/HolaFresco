@@ -679,3 +679,16 @@ body.fondo-inicio .firma-inicio a { color: #fff; font-weight: 700; }
 .chip-alergeno-opc { background: transparent; border-style: dashed; }
 .chip-intol { background: var(--alerta-claro); border-color: var(--alerta); }
 .texto-alerta { color: var(--alerta); font-weight: 600; }
+
+/* Modales: altura según el área visible real (las barras del navegador móvil no cortan la cabecera)
+   y botón de cerrar siempre circular, aunque el título sea largo */
+.modal { max-height: calc(100vh - 2rem); max-height: calc(100dvh - 2rem); }
+.modal-titulo { min-width: 0; overflow-wrap: anywhere; }
+.btn-icono { flex: 0 0 auto; aspect-ratio: 1 / 1; }
+.modal-cerrar { flex: 0 0 40px; width: 40px; height: 40px; min-width: 40px; min-height: 40px; border-radius: 50%; }
+@media (max-width: 600px) {
+  .modal-fondo { padding-top: max(.75rem, env(safe-area-inset-top)); }
+  .modal { max-height: calc(100vh - 1.5rem); max-height: calc(100dvh - max(.75rem, env(safe-area-inset-top))); }
+  .modal-cabecera { padding: .85rem 1rem .4rem; gap: .75rem; }
+  .modal-titulo { font-size: 1.15rem; line-height: 1.25; }
+}
