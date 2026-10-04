@@ -1,13 +1,13 @@
 /* Vista: información legal (aviso legal, privacidad y cookies) y gestión del consentimiento.
    Normativa de referencia: RGPD (UE 2016/679), LOPDGDD (LO 3/2018), LSSI-CE (Ley 34/2002) y directiva ePrivacy.
-   Los datos del titular se rellenan en TITULAR; los campos vacíos se muestran como pendientes. */
+   Los datos del titular se rellenan en TITULAR; los campos vacíos no se muestran. */
 (function () {
   "use strict";
   const { UI } = window;
   const { h } = UI;
 
   const TITULAR = {
-    nombre: "G. Carbonell y J. Ramírez",
+    nombre: "Guillem Carbonell",
     nif: "",
     domicilio: "",
     email: "",
@@ -15,9 +15,8 @@
   };
   const ACTUALIZADO = "5 de octubre de 2026";
 
-  const dato = (v) => v || h("em.muted", "(pendiente de publicar)");
   const enlace = (href, texto) => h("a", { href, target: "_blank", rel: "noopener" }, texto);
-  const contacto = () => TITULAR.email ? h("a", { href: "mailto:" + TITULAR.email }, TITULAR.email) : h("em.muted", "(correo de contacto pendiente de publicar)");
+  const contacto = () => h("a", { href: "mailto:" + TITULAR.email }, TITULAR.email);
 
   /* Panel de consentimiento de Google (plataforma certificada TCF que se activa desde AdSense → Privacidad y mensajes) */
   const gestionarCookies = () => {
@@ -32,20 +31,22 @@
       titulo: "Aviso legal",
       cuerpo: () => [
         h("h2", "1. Titular del sitio web"),
-        h("p", "En cumplimiento del artículo 10 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI-CE), se informa de los datos del titular de ", TITULAR.web, ":"),
+        h("p", "En cumplimiento del artículo 10 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI-CE), se informa de los datos del titular de este sitio web:"),
         h("ul",
-          h("li", h("strong", "Titulares: "), TITULAR.nombre),
-          h("li", h("strong", "NIF: "), dato(TITULAR.nif)),
-          h("li", h("strong", "Domicilio: "), dato(TITULAR.domicilio)),
-          h("li", h("strong", "Correo electrónico: "), contacto())),
+          h("li", h("strong", "Titular: "), TITULAR.nombre),
+          TITULAR.nif ? h("li", h("strong", "NIF: "), TITULAR.nif) : null,
+          TITULAR.domicilio ? h("li", h("strong", "Domicilio: "), TITULAR.domicilio) : null,
+          TITULAR.email ? h("li", h("strong", "Correo electrónico: "), contacto()) : null,
+          h("li", h("strong", "Sitio web: "), TITULAR.web)),
+        h("p", "HolaFresco es un proyecto de Guillem Carbonell y J. Ramírez. Es un servicio gratuito, sin registro y sin venta de productos, y no recoge ni almacena datos personales de sus usuarios (ver la política de privacidad)."),
         h("h2", "2. Objeto y condiciones de uso"),
         h("p", "HolaFresco es un recetario y planificador de menús semanales de uso gratuito y sin registro. El acceso y el uso del sitio implican la aceptación de este aviso legal. Te comprometes a usarlo conforme a la ley y a no emplearlo para fines ilícitos o que perjudiquen a terceros o al funcionamiento del sitio."),
         h("h2", "3. Información nutricional, alergias y salud"),
         h("p", "Las recetas, los valores nutricionales, las raciones y la detección de alérgenos e intolerancias son ", h("strong", "orientativos"), ": se calculan automáticamente a partir de los nombres de los ingredientes y pueden contener errores. No sustituyen el consejo de un profesional sanitario ni la lectura de las etiquetas de los productos. Si tú o alguien de tu hogar tiene una alergia o una condición médica, comprueba siempre los ingredientes y consulta a tu médico o dietista-nutricionista."),
         h("h2", "4. Propiedad intelectual"),
-        h("p", "El código fuente de HolaFresco se publica con licencia GNU GPL (ver el repositorio del proyecto). Los textos de las recetas, el diseño y el nombre son de sus titulares. La fotografía de la portada es de Stefan Vladimirov, publicada en Unsplash bajo la licencia de Unsplash. Puedes compartir enlaces a las recetas; para otros usos de los contenidos, consulta a los titulares."),
+        h("p", "El código fuente de HolaFresco se publica con licencia GNU GPL (ver el repositorio del proyecto). Los textos de las recetas, el diseño y el nombre pertenecen a sus autores. La fotografía de la portada es de Stefan Vladimirov, publicada en Unsplash bajo la licencia de Unsplash. Puedes compartir enlaces a las recetas; para otros usos de los contenidos se necesita la autorización de sus autores."),
         h("h2", "5. Responsabilidad"),
-        h("p", "Los titulares no garantizan la ausencia de errores en los contenidos ni la disponibilidad continua del sitio, y no responden de los daños derivados del uso de la información publicada ni de los contenidos de sitios de terceros enlazados. Los anuncios los sirve Google y su contenido no está controlado por los titulares."),
+        h("p", "El titular no garantiza la ausencia de errores en los contenidos ni la disponibilidad continua del sitio, y no responde de los daños derivados del uso de la información publicada ni de los contenidos de sitios de terceros enlazados. Los anuncios los sirve Google y su contenido no está controlado por el titular."),
         h("h2", "6. Legislación aplicable"),
         h("p", "Este aviso legal se rige por la legislación española. Si eres consumidor, puedes acudir a los tribunales de tu domicilio. La Comisión Europea ofrece una plataforma de resolución de litigios en línea en ", enlace("https://ec.europa.eu/consumers/odr", "ec.europa.eu/consumers/odr"), "."),
       ],
@@ -64,7 +65,7 @@
         h("h2", "1. Responsable"),
         h("p", h("strong", "Guillem Carbonell"), ". Como HolaFresco no recoge ni almacena datos personales, no hay datos tuyos que gestionar ni solicitudes que dirigirle: todo lo que guardas lo controlas tú desde tu navegador."),
         h("h2", "2. Tus datos se quedan en tu navegador"),
-        h("p", "La aplicación funciona entera en tu navegador. Los datos que escribes se guardan en su almacenamiento local (localStorage) para que la próxima vez sigan ahí, igual que un documento guardado en tu propio ordenador. ", h("strong", "No se transmiten a los titulares ni a ningún tercero"), ", y los titulares no realizan ningún tratamiento de esos datos: no los recogen, no los consultan, no los analizan y no los ceden."),
+        h("p", "La aplicación funciona entera en tu navegador. Los datos que escribes se guardan en su almacenamiento local (localStorage) para que la próxima vez sigan ahí, igual que un documento guardado en tu propio ordenador. ", h("strong", "No se transmiten al responsable ni a ningún tercero"), ", y el responsable no realiza ningún tratamiento de esos datos: no los recogen, no los consultan, no los analizan y no los ceden."),
         h("p", "Las intolerancias, alergias y datos físicos son información sensible. Como solo existen en tu dispositivo, quien tenga acceso a él podría verlos: si lo compartes, usa apodos en lugar de nombres reales. Puedes exportarlos (para pasarlos a otro dispositivo) o borrarlos en cualquier momento desde ⚙️ Ajustes."),
         h("h2", "3. Datos técnicos del alojamiento"),
         h("p", "El sitio se aloja en GitHub Pages (GitHub, Inc., EE. UU.). Al visitarlo, GitHub registra datos técnicos como tu dirección IP para servir la web y garantizar su seguridad. ", h("strong", "Base jurídica: "), "interés legítimo en ofrecer un sitio web seguro (art. 6.1.f RGPD). Más información en la ", enlace("https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement", "declaración de privacidad de GitHub"), "."),
