@@ -1798,6 +1798,306 @@ inv-1807 · ensaladas · Ensalada thai de ternera con pepino, hierbabuena y caca
 inv-1808 · pasta-arroces · Fideos de arroz salteados con cerdo picado y albahaca al estilo pad krapow
 inv-1809 · pasta-arroces · Arroz caldoso de rape, gambas y pimiento rojo con azafrán
 inv-1810 · sopas-cremas · Sopa baja en FODMAP de fideos de arroz con albóndigas de cerdo al jengibre
+inv-1811 · carnes · Rollitos de pollo con jamón serrano y espárragos trigueros en airfryer
+inv-1812 · pescado · Salmón con costra de pistachos en airfryer con espárragos verdes y quinoa al limón
+inv-1813 · vegetariano · Frittata de brócoli, guisantes y parmesano en airfryer con ensalada de tomate
+inv-1814 · legumbres · Judías blancas crujientes al za'atar en airfryer con ensalada de tomate y pepino, tahini y pan de pita
+inv-1815 · vegano · Tofu al sriracha y lima en airfryer con fideos de arroz, zanahoria y pepino
+inv-1816 · carnes · Brochetas de pavo al pimentón y limón en airfryer con calabacín y salsa de yogur al ajo
+inv-1817 · pescado · Merluza con costra de panko y parmesano en airfryer con brócoli y patatas pequeñas
+inv-1818 · ensaladas · Ensalada asiática de pollo al jengibre en airfryer con col china, zanahoria, naranja y cacahuetes
+inv-1819 · pasta-arroces · Tomates rellenos de cuscús, garbanzos y feta en airfryer con menta
+inv-1820 · carnes · Pollo cajún en airfryer con arroz integral, judías verdes y yogur a la lima
+inv-1821 · pescado · Abadejo al pimentón en airfryer sobre garbanzos, tomate cherry y espinacas
+inv-1822 · vegetariano · Bocados de calabacín, ricotta y parmesano en airfryer con salsa de tomate y albahaca
+inv-1823 · carnes · Albóndigas de pollo al curry suave en airfryer con arroz basmati y espinacas
+inv-1824 · sopas-cremas · Crema de coliflor asada y alubias blancas al ajo con aceite de pimentón
+inv-1825 · pescado · Sardinas frescas en airfryer con patatas al pimentón y ensalada de pimientos asados
+inv-1826 · carnes · Contramuslos de pollo glaseados al miso y lima en airfryer con edamame y arroz integral
+inv-1827 · vegano · Coliflor glaseada al gochujang en airfryer con edamame y arroz jazmín
+inv-1828 · ensaladas · Ensalada tibia de quinoa con calabaza y brócoli asados en airfryer, arándanos secos y semillas de calabaza
+inv-1829 · carnes · Cinta de lomo al adobo en airfryer con pimientos y patatas
+inv-1830 · pescado · Caballa fresca glaseada al tamari y naranja en airfryer con arroz y pepino encurtido
+inv-1831 · vegetariano · Paneer al tandoori en airfryer con pimientos, cebolla morada y arroz basmati
+inv-1832 · legumbres · Rollitos de pasta filo con espinacas, garbanzos y feta en airfryer con ensalada de tomate
+inv-1833 · carnes · Hamburguesas de pollo y calabacín en pan integral con patatas gajo en airfryer
+inv-1834 · pescado · Pez espada al tandoori en airfryer con ensalada de pepino, tomate y menta
+inv-1835 · pasta-arroces · Bol de quinoa con pollo a la mostaza antigua en airfryer, brócoli y aguacate
+inv-1836 · carnes · Presa ibérica en airfryer con pimientos rojos asados y boniato al tomillo
+inv-1837 · pescado · Brochetas de gambas y piña al achiote en airfryer con arroz y alubias negras
+inv-1838 · vegetariano · Champiñones rellenos de ricotta, espinacas y nueces en airfryer con ensalada de rúcula
+inv-1839 · legumbres · Bocados de lentejas rojas y espinacas al curry en airfryer con raita vegana de pepino
+inv-1840 · vegano · Tempeh adobado en airfryer con pimientos del piquillo, judías verdes y arroz integral
+inv-1841 · ensaladas · Ensalada tibia de zanahoria y remolacha asadas en airfryer con huevo duro, rúcula y queso fresco
+inv-1842 · carnes · Brochetas de ternera al chimichurri en airfryer con mazorca de maíz y pimientos
+inv-1843 · pescado · Boquerones en harina de garbanzo en airfryer con ensalada de tomate y cebolla
+inv-1844 · pasta-arroces · Espaguetis integrales con berenjena y tomate cherry asados en airfryer, atún y alcaparras
+inv-1845 · vegetariano · Mini pizzas de base de coliflor en airfryer con tomate, mozzarella y rúcula
+inv-1846 · carnes · Solomillo de ternera en airfryer con boniato, espárragos verdes y salsa de mostaza antigua
+inv-1847 · legumbres · Tostadas de maíz en airfryer con alubias pintas especiadas, lechuga, tomate y queso fresco
+inv-1848 · vegano · Hamburguesas de soja texturizada y champiñones en airfryer con patatas gajo
+inv-1849 · pescado · Lomos de dorada con costra de hierbas y almendra en airfryer con boniato y brócoli al limón
+inv-1850 · ensaladas · Ensalada tibia de calamar en airfryer con patata, tomate y pimentón
+inv-1851 · carnes · Bocados de pollo al limón y tomillo en airfryer con coles de Bruselas y zanahoria
+inv-1852 · sopas-cremas · Crema de champiñones y puerro asados en airfryer con avellanas tostadas
+inv-1853 · vegetariano · Muffins de huevo, espinacas, pimiento rojo y feta en airfryer con ensalada de tomate y pepino
+inv-1854 · vegano · Brochetas de heura al ras el hanout en airfryer con cuscús y yogur vegetal al limón
+inv-1855 · pescado · Patas de pulpo doradas en airfryer con ensalada tibia de garbanzos, tomate cherry y pimentón
+inv-1856 · pasta-arroces · Gnocchi crujientes en airfryer con brócoli, guisantes y pesto de albahaca
+inv-1857 · ensaladas · Ensalada tibia de pavo al comino en airfryer con aguacate, naranja y semillas de calabaza
+inv-1858 · carnes · Tiras de pollo con costra de panko y sésamo en airfryer con patatas gajo y ensalada de col al yogur
+inv-1859 · pescado · Lomos de lubina en airfryer con alcaparras al limón, espárragos trigueros y tomate cherry
+inv-1860 · legumbres · Bowl de garbanzos al shawarma en airfryer con bulgur, pepino y yogur al tahini
+inv-1861 · pescado · Merluza en salsa verde con almejas y guisantes al microondas
+inv-1862 · pescado · Salmón al microondas con miso y naranja sobre arroz integral y edamame
+inv-1863 · pescado · Abadejo al microondas sobre crema de coliflor al curry con espinacas y almendras
+inv-1864 · pescado · Gambas al microondas con calabacín, tomate cherry y cuscús al limón
+inv-1865 · pescado · Mejillones al microondas a la provenzal con tomate, hinojo y quinoa
+inv-1866 · carnes · Pollo al vapor de microondas con bulgur, pepino y yogur a la menta
+inv-1867 · carnes · Pavo al tamari con brócoli, zanahoria y quinoa en tupper de microondas
+inv-1868 · carnes · Pollo estilo Hainan al vapor de microondas con arroz al jengibre y salsa de cebolleta
+inv-1869 · carnes · Berenjena al vapor de microondas a la sichuanesa con cerdo picado y arroz
+inv-1870 · carnes · Albóndigas suecas ligeras de ternera al microondas con salsa de yogur y mostaza
+inv-1871 · vegetariano · Huevos escalfados en taza de microondas sobre espárragos trigueros y patata con yogur al pimentón
+inv-1872 · vegetariano · Boniato al microondas con garbanzos al za'atar, kale, feta y yogur al limón
+inv-1873 · vegetariano · Frittata de microondas en tupper con calabacín, guisantes, feta y menta
+inv-1874 · vegetariano · Huevos a la mexicana de microondas con frijoles negros y tortillas de maíz
+inv-1875 · vegano · Bol de quinoa de microondas con tofu al pesto de albahaca y nueces, calabacín y cherrys
+inv-1876 · vegano · Tofu sedoso al vapor de microondas con jengibre, cebolleta y pak choi sobre arroz jazmín
+inv-1877 · vegano · Calabacines rellenos de boloñesa de soja texturizada al microondas
+inv-1878 · legumbres · Dal exprés de lentejas cocidas con espinacas y tomate al microondas con arroz basmati
+inv-1879 · legumbres · Garbanzos a la marroquí con calabacín, zanahoria y pasas al microondas con cuscús
+inv-1880 · legumbres · Judiones a la griega al microondas con tomate, eneldo y feta
+inv-1881 · pasta-arroces · Arroz cremoso de microondas con champiñones, pollo y tomillo
+inv-1882 · pasta-arroces · Pasta integral al microondas con atún, tomate, aceitunas y alcaparras
+inv-1883 · sopas-cremas · Crema de calabacín, guisantes y menta al microondas con requesón al limón
+inv-1884 · ensaladas · Ensalada templada de boniato al microondas con quinoa, espinacas, granada y queso de cabra
+inv-1885 · ensaladas · Ensalada tibia de pollo desmenuzado, brócoli y edamame al microondas con aliño de jengibre y sésamo
+inv-1886 · pescado · Bacalao al pil pil de microondas con patatas y pimientos de Padrón
+inv-1887 · pescado · Pulpo templado al microondas con boniato y mojo verde canario
+inv-1888 · pescado · Langostinos al vapor de microondas con fideos de arroz, hierbas y nuoc cham
+inv-1889 · pescado · Pastel de merluza y gambas al microondas con salsa de yogur y cebollino
+inv-1890 · carnes · Medallones de solomillo de cerdo al microondas con salsa de naranja y jengibre, brócoli y arroz basmati
+inv-1891 · carnes · Chili de pavo y alubias rojas al microondas con arroz integral
+inv-1892 · carnes · Pollo especiado al microondas con arroz, frijoles negros y salsa verde de aguacate y cilantro
+inv-1893 · carnes · Patata al microondas rellena de pollo desmenuzado a la barbacoa casera con ensalada de col
+inv-1894 · carnes · Pollo al vapor de microondas sobre caponata exprés de berenjena y alcaparras con cuscús integral
+inv-1895 · vegetariano · Polenta cremosa de microondas con pisto exprés y huevo escalfado en taza
+inv-1896 · vegetariano · Alcachofas al microondas rellenas de ricotta, limón y piñones
+inv-1897 · vegetariano · Coliflor y brócoli con salsa ligera de cheddar al microondas y alubias blancas a la mostaza
+inv-1898 · vegetariano · Matar paneer de microondas con guisantes y arroz basmati
+inv-1899 · vegano · Heura a la jardinera de microondas con patata, zanahoria y guisantes
+inv-1900 · vegano · Curry verde de calabaza, judías verdes y tempeh al microondas con arroz jazmín
+inv-1901 · vegano · Patatas viudas con alcachofas y guisantes al microondas
+inv-1902 · legumbres · Alubias blancas guisadas al microondas con bonito, pimiento rojo y tomate
+inv-1903 · legumbres · Boloñesa de lentejas y pavo al microondas con espaguetis de calabacín
+inv-1904 · pasta-arroces · Pasta integral al microondas con brócoli, salmón ahumado y crema de requesón al limón
+inv-1905 · pasta-arroces · Pasta sin gluten al microondas con salsa de pimiento asado y almendra, espinacas y ricotta
+inv-1906 · pasta-arroces · Bol de arroz con caballa al vapor de microondas, pepino encurtido y sésamo
+inv-1907 · pasta-arroces · Burrito bowl vegetariano de microondas con arroz integral, frijoles negros, maíz y queso fresco
+inv-1908 · sopas-cremas · Crema de chirivía y manzana al curry suave con yogur y nueces al microondas
+inv-1909 · sopas-cremas · Crema de pimiento rojo y boniato al pimentón ahumado con queso fresco y almendras
+inv-1910 · ensaladas · Ensalada templada de calabaza al microondas con garbanzos, burrata, rúcula y avellanas
+inv-1911 · legumbres · Garbanzos con contramuslo de pavo, hinojo y naranja al comino
+inv-1912 · legumbres · Alubias rojas estofadas con salchicha fresca, repollo y pimentón ahumado
+inv-1913 · pescado · Rape en salsa de pimiento rojo asado con patata y judías verdes
+inv-1914 · carnes · Tiras de pavo al curry de mango y yogur con arroz basmati y judías verdes
+inv-1915 · vegano · Tempeh en adobo de achiote y naranja con quinoa, pimientos y maíz
+inv-1916 · ensaladas · Ensalada de farro con pollo, uva, apio y avellanas con aliño de mostaza
+inv-1917 · pasta-arroces · Fusilli integrales con caballa en conserva, brócoli, alcaparras y limón
+inv-1918 · vegetariano · Bol de quinoa con huevo duro, lentejas, brócoli y salsa de yogur al curry
+inv-1919 · sopas-cremas · Crema de brócoli y alubias blancas con puerro y semillas de calabaza
+inv-1920 · carnes · Pollo al sésamo y tamari con judías verdes, zanahoria y arroz integral
+inv-1921 · legumbres · Alubias pintas con pavo picado, calabacín, maíz y chipotle
+inv-1922 · pescado · Trucha al tamari y jengibre con arroz integral, pak choi y zanahoria
+inv-1923 · vegano · Bulgur con judías blancas, calabacín asado, tomate seco y almendras
+inv-1924 · carnes · Albóndigas de pollo en salsa de pimientos asados con cuscús integral y calabacín
+inv-1925 · ensaladas · Ensalada de garbanzos con sardinas en conserva, pimiento asado y cebolla morada
+inv-1926 · pasta-arroces · Arroz integral salteado con pavo, champiñones, espárragos trigueros y huevo
+inv-1927 · vegetariano · Pastel de calabacín, espinacas y ricotta al microondas con tomate
+inv-1928 · pescado · Abadejo al curry suave de tomate y espinacas con arroz basmati
+inv-1929 · sopas-cremas · Sopa de pavo, cebada perlada y verduras al tomillo
+inv-1930 · carnes · Ternera picada con berenjena, tomate y canela sobre bulgur
+inv-1931 · vegano · Heura con salsa romesco, arroz integral y judías verdes
+inv-1932 · legumbres · Lentejas beluga con langostinos al ajillo, calabacín y limón
+inv-1933 · pescado · Pez espada guisado con guisantes, pimiento verde y patata al vino blanco
+inv-1934 · ensaladas · Ensalada de mijo con pollo, pepino, tomate, menta y limón
+inv-1935 · pasta-arroces · Macarrones integrales con boloñesa de lentejas y zanahoria
+inv-1936 · carnes · Lomo de cerdo a la mostaza antigua y miel con boniato y coles de Bruselas
+inv-1937 · vegetariano · Quiche sin masa de puerro, champiñones y queso de cabra al microondas
+inv-1938 · vegano · Picadillo de soja texturizada con patata, guisantes, aceitunas y arroz
+inv-1939 · pescado · Salmón al horno con farro, espinacas y salsa de yogur a la mostaza
+inv-1940 · legumbres · Garbanzos crujientes en airfryer con boniato asado, kale y aliño de tahini y naranja
+inv-1941 · sopas-cremas · Crema de champiñones y alubias blancas al tomillo
+inv-1942 · carnes · Contramuslos de pollo a la harissa en airfryer con cuscús, zanahoria y yogur
+inv-1943 · ensaladas · Ensalada de quinoa con pavo, calabacín asado, tomate seco y almendras
+inv-1944 · pasta-arroces · Yakisoba de pollo con col, zanahoria y pimiento
+inv-1945 · pescado · Calamar en salsa de tomate y pimiento con guisantes y arroz integral
+inv-1946 · vegetariano · Berenjenas rellenas de bulgur, tomate y requesón al microondas
+inv-1947 · vegano · Pisto con alubias blancas y quinoa
+inv-1948 · carnes · Cerdo picado salteado con judías verdes al estilo sichuan con arroz jazmín
+inv-1949 · legumbres · Lentejas al curry con pollo, coliflor y espinacas
+inv-1950 · pescado · Bonito fresco a la plancha con ensalada de patata, judías verdes y vinagreta de pimentón
+inv-1951 · ensaladas · Ensalada de pasta integral con pavo, guisantes, zanahoria y yogur a la mostaza
+inv-1952 · pasta-arroces · Arroz integral con pollo al pesto de espinacas y tomate cherry
+inv-1953 · carnes · Estofado marroquí de ternera con calabaza, garbanzos y canela
+inv-1954 · vegetariano · Lasaña de calabacín sin pasta con lentejas, tomate y mozzarella
+inv-1955 · vegano · Seitán guisado con alcachofas, guisantes y patata al vino blanco
+inv-1956 · sopas-cremas · Sopa libanesa de lentejas pardinas y acelgas con comino y limón
+inv-1957 · pescado · Langostinos con fideos de arroz salteados con brócoli, ajo y lima al tamari
+inv-1958 · carnes · Cerdo agridulce ligero con piña, pimientos y arroz jazmín
+inv-1959 · legumbres · Garbanzos con calabaza, espinacas y leche de coco al estilo caribeño con arroz integral
+inv-1960 · ensaladas · Ensalada de brócoli y pollo con arándanos secos, almendras y aliño de yogur
+inv-1961 · legumbres · Lentejas pardinas guisadas con pollo desmenuzado, calabaza y comino
+inv-1962 · legumbres · Keema de pavo con garbanzos y espinacas al garam masala con arroz basmati
+inv-1963 · legumbres · Alubias blancas guisadas con calamar, pimiento verde y tomate
+inv-1964 · legumbres · Alubias pintas guisadas con boniato, maíz y chipotle con queso fresco
+inv-1965 · pescado · Albóndigas de salmón y quinoa al horno con salsa de yogur al eneldo y judías verdes
+inv-1966 · pescado · Merluza guisada con garbanzos, espinacas y pimentón
+inv-1967 · pescado · Pastel de atún, calabacín y huevo al horno en porciones con ensalada de tomate
+inv-1968 · carnes · Pollo desmenuzado al limón, ajo y orégano con arroz integral y judías verdes
+inv-1969 · carnes · Albóndigas de ternera y espinacas al horno en salsa de almendras con cuscús integral
+inv-1970 · carnes · Contramuslos de pavo guisados con calabaza, zanahoria y ras el hanout con bulgur
+inv-1971 · carnes · Dhansak ligero de pollo con lentejas rojas, calabaza y arroz basmati
+inv-1972 · carnes · Khoresh de ternera con calabaza, garbanzos y lima al estilo persa con arroz basmati
+inv-1973 · vegetariano · Pastel de lentejas rojas, zanahoria y espinacas al horno en rebanadas con salsa de yogur
+inv-1974 · vegetariano · Timbal de arroz integral, espinacas y ricotta al horno con salsa de tomate
+inv-1975 · vegano · Estofado de tempeh con patata, guisantes y pimentón
+inv-1976 · vegano · Dal de guisantes amarillos partidos con calabaza, espinacas y tadka de comino
+inv-1977 · ensaladas · Ensalada de trigo sarraceno con pollo al pimentón, brócoli asado y aliño de yogur y mostaza
+inv-1978 · pasta-arroces · Pasta integral al horno con boloñesa de lentejas y calabacín gratinada
+inv-1979 · pasta-arroces · Quinoa salteada con langostinos, espárragos trigueros y ajo al limón
+inv-1980 · sopas-cremas · Crema de boniato y alubias blancas al comino con garbanzos crujientes y zumaque
+inv-1981 · carnes · Lomo de cerdo en adobo andaluz al horno con pimientos asados y patata
+inv-1982 · legumbres · Alubias rojas estofadas con pavo, calabaza y pimentón ahumado
+inv-1983 · pescado · Curry amarillo tailandés de bacalao fresco con coliflor, guisantes y arroz jazmín
+inv-1984 · carnes · Pollo agridulce al horno con piña, pimientos y arroz integral
+inv-1985 · vegano · Seco vegano de soja texturizada al cilantro con guisantes y arroz
+inv-1986 · sopas-cremas · Sopa de calabaza, alubias blancas y salvia con parmesano
+inv-1987 · carnes · Pastel de carne de pavo relleno de espinacas con puré de coliflor
+inv-1988 · carnes · Pollo jalfrezi con pimientos y arroz basmati
+inv-1989 · pescado · Bol de salmón al horno con arroz integral, edamame y pepino encurtido al tamari
+inv-1990 · pescado · Calamar guisado con patata, guisantes y pimentón
+inv-1991 · legumbres · Lentejas pardinas a la marinera con gambas, pimiento rojo y azafrán
+inv-1992 · vegetariano · Pastel de quinoa, calabacín y queso feta al horno en porciones
+inv-1993 · vegano · Albóndigas veganas de alubias negras y champiñones en salsa de tomate al chipotle con arroz
+inv-1994 · ensaladas · Ensalada de bulgur con pavo asado, granada, pepino y perejil
+inv-1995 · ensaladas · Ensalada de pasta integral con atún, judías verdes, huevo duro y aceitunas
+inv-1996 · pasta-arroces · Plov de arroz integral con pollo, zanahoria y comino al estilo uzbeko
+inv-1997 · pasta-arroces · Fideos soba con pollo, edamame y salsa de sésamo y cacahuete
+inv-1998 · pasta-arroces · Cazuela de arroz integral al horno con pollo, brócoli y cheddar
+inv-1999 · carnes · Pollo guisado en salsa de pimientos del piquillo con patatas y judías verdes
+inv-2000 · carnes · Carrillada de ternera estofada a las cinco especias con zanahoria y arroz jazmín
+inv-2001 · carnes · Cordero guisado con berenjena y tomate al estilo turco con bulgur
+inv-2002 · pescado · Marmitako de salmón con pimiento choricero y patata
+inv-2003 · sopas-cremas · Crema de calabacín, espinacas y alubias blancas con huevo duro
+inv-2004 · vegetariano · Gratín de coliflor y garbanzos al ras el hanout con tomate y feta
+inv-2005 · vegano · Estofado de garbanzos y boniato con crema de cacahuete y espinacas
+inv-2006 · vegano · Tofu marinado al za'atar al horno con verduras asadas y bulgur al limón
+inv-2007 · legumbres · Alubias blancas guisadas con pollo, alcachofas y limón
+inv-2008 · carnes · Pavo en salsa de champiñones, mostaza y yogur al pimentón con arroz integral
+inv-2009 · pasta-arroces · Penne integrales con pavo, calabacín y salsa de tomate asado con ricotta
+inv-2010 · sopas-cremas · Sopa de quinoa con pollo, calabaza y maíz al estilo andino
+inv-2011 · carnes · Brochetas de pavo al pimentón ahumado en airfryer con calabacín y salsa de yogur al limón
+inv-2012 · pescado · Salmón en airfryer con costra de pistacho y eneldo sobre ensalada de pepino y rábano
+inv-2013 · vegano · Coles de Bruselas y tofu firme en airfryer con glaseado de miso y sésamo
+inv-2014 · pescado · Pinchos de langostinos y piña en airfryer con salsa de lima y cilantro
+inv-2015 · vegetariano · Rollitos de calabacín en airfryer rellenos de requesón, menta y piñones
+inv-2016 · carnes · Pollo a la harissa en airfryer con zanahorias y garbanzos al comino y yogur a la menta
+inv-2017 · legumbres · Medias berenjenas en airfryer con garbanzos especiados, tomate y salsa de tahini
+inv-2018 · pescado · Merluza en airfryer con costra de parmesano y almendra y espárragos trigueros
+inv-2019 · carnes · Albóndigas de pollo y espinacas en airfryer con salsa de yogur, pepino y eneldo
+inv-2020 · pescado · Bacalao fresco al vapor de microondas en salsa verde con guisantes y patata
+inv-2021 · vegetariano · Huevos al plato de microondas sobre pisto exprés de pimiento y calabacín con feta
+inv-2022 · carnes · Pechuga de pollo al vapor de microondas con pak choi y salsa de jengibre y cebolleta
+inv-2023 · sopas-cremas · Crema de calabacín y puerro al microondas con requesón y semillas de calabaza tostadas
+inv-2024 · legumbres · Dal exprés de microondas con lentejas cocidas, espinacas y leche de coco
+inv-2025 · pescado · Mejillones al microondas con salsa suave de curry, tomate y yogur
+inv-2026 · vegano · Tofu sedoso al vapor de microondas con edamame, jengibre y salsa de soja
+inv-2027 · carnes · Larb de pavo picado al microondas en hojas de lechuga con lima, menta y cacahuetes
+inv-2028 · ensaladas · Ensalada de salmón ahumado, aguacate, pomelo y queso fresco con semillas de calabaza
+inv-2029 · ensaladas · Ensalada de garbanzos y caballa en conserva con pepino, tomate y aliño de yogur al comino
+inv-2030 · pasta-arroces · Ensalada caprese de quinoa con mozzarella, tomate, rúcula y pesto rápido de albahaca y almendra
+inv-2031 · carnes · Rollitos de lechuga con pollo asado, mango y salsa de cacahuete y lima
+inv-2032 · ensaladas · Salpicón de gambas cocidas y surimi con aguacate, pepino y vinagreta de lima
+inv-2033 · sopas-cremas · Gazpacho de melón, pepino y menta con virutas de jamón serrano y almendras
+inv-2034 · legumbres · Ensalada de lentejas cocidas con manzana, apio, nueces y yogur al curry
+inv-2035 · carnes · Wrap integral de pollo asado con hummus exprés, zanahoria rallada y espinacas
+inv-2036 · pescado · Abadejo cajún en airfryer con ensalada de col, maíz y lima
+inv-2037 · vegano · Pinchos de tofu al tandoori en airfryer con pimiento, cebolla morada y raita vegetal de pepino
+inv-2038 · carnes · Contramuslos de pollo al limón y ajo en airfryer con patatas, judías verdes y almendras
+inv-2039 · carnes · Medallones de solomillo de cerdo a la mostaza antigua en airfryer con champiñones y espinacas
+inv-2040 · vegetariano · Frittata en airfryer de brócoli, tomate seco y queso de cabra con rúcula
+inv-2041 · pescado · Caballa en airfryer sobre judías blancas con vinagreta de tomate, alcaparras y pimiento verde
+inv-2042 · carnes · Tiras de pavo con costra de sésamo en airfryer y ensalada crujiente de col china
+inv-2043 · pescado · Calabacines rellenos de atún y tomate en airfryer gratinados con mozzarella
+inv-2044 · pescado · Langostinos al ajo, lima y chile en airfryer con espárragos verdes y quinoa al cilantro
+inv-2045 · pasta-arroces · Cuscús al microondas con pollo asado desmenuzado, calabacín, pimiento y harissa
+inv-2046 · pasta-arroces · Fideos de arroz al microondas con gambas, zanahoria y aliño de lima, jengibre y cilantro
+inv-2047 · sopas-cremas · Crema de brócoli y judías blancas al microondas con parmesano y limón
+inv-2048 · pescado · Merluza al microondas con patatas nuevas, judías verdes y salsa de mostaza y eneldo
+inv-2049 · pescado · Huevos revueltos al microondas con salmón ahumado y cebollino sobre pan de centeno
+inv-2050 · legumbres · Cazuelita de alubias rojas al microondas con calabacín, maíz, chipotle y queso fresco
+inv-2051 · carnes · Filetes de pavo al microondas con salsa de pimientos del piquillo y almendras
+inv-2052 · pescado · Bacalao al pil pil exprés de microondas sobre patata y pimientos asados
+inv-2053 · vegano · Tempeh al microondas en salsa de cacahuete y lima con ensalada de col lombarda y zanahoria
+inv-2054 · legumbres · Ensalada caribeña de alubias negras con mango, aguacate, maíz y aliño de lima y comino
+inv-2055 · ensaladas · Carpaccio de cecina con rúcula, tomate cherry, lascas de queso manchego y almendras
+inv-2056 · ensaladas · Ensalada de col lombarda, zanahoria y garbanzos con aliño de tahini y naranja
+inv-2057 · pescado · Cóctel ligero de gambas cocidas con aguacate, manzana y salsa rosa de yogur sobre cogollos
+inv-2058 · vegetariano · Kale masajeado al limón con judías blancas, tomate seco, parmesano y almendras
+inv-2059 · carnes · Tostadas de maíz con pollo asado, frijoles negros, aguacate y crema de yogur a la lima
+inv-2060 · pescado · Pan de pita relleno de ensalada de atún, garbanzos, pepino y yogur al eneldo
+inv-2061 · ensaladas · Ensalada de mijo con pollo al limón, calabacín en cintas, pistachos y menta
+inv-2062 · pescado · Bowl de arroz integral con caballa en conserva, edamame, pepino, zanahoria y aliño de tamari y jengibre
+inv-2063 · legumbres · Ensalada de alubias pintas con pavo a la plancha, maíz, pimiento verde y vinagreta de chipotle
+inv-2064 · pescado · Onigiri de salmón al microondas y sésamo con ensalada de pepino y edamame
+inv-2065 · ensaladas · Ensalada de trigo sarraceno con pollo, remolacha cocida, pepinillos y salsa de yogur al eneldo
+inv-2066 · vegano · Ensalada de fusilli integrales con brócoli, garbanzos, tomate seco y pesto de albahaca y nueces
+inv-2067 · carnes · Wraps de pollo al pimentón con hummus exprés, zanahoria rallada y espinacas
+inv-2068 · vegetariano · Ensalada de cebada perlada con setas asadas en airfryer, espinacas, nueces y queso de cabra
+inv-2069 · legumbres · Ensalada de lentejas con tofu ahumado, zanahoria, pasas y vinagreta de naranja y comino
+inv-2070 · carnes · Bowl de quinoa con pavo picado al comino en microondas, alubias negras, pico de gallo y lima
+inv-2071 · ensaladas · Ensalada de patata y judías verdes al microondas con mejillones en escabeche, cebolleta y pimentón
+inv-2072 · pescado · Rollitos de tortilla francesa con salmón ahumado, queso crema y espinacas
+inv-2073 · pescado · Ensaladilla ligera de merluza al microondas con patata, zanahoria, guisantes y mayonesa de yogur
+inv-2074 · pasta-arroces · Kimbap en tupper de atún, tortilla, zanahoria y espinacas al sésamo
+inv-2075 · vegetariano · Gado-gado para llevar con patata, judías verdes, huevo duro, tofu y salsa de cacahuete
+inv-2076 · legumbres · Piyaz turco de judías blancas con cebolla morada al zumaque, huevo duro y aliño de tahini
+inv-2077 · ensaladas · Ensalada de brócoli al microondas con pollo, arándanos secos, almendras y aliño de yogur
+inv-2078 · vegano · Picadillo de soja texturizada al estilo taco con arroz integral, maíz y pico de gallo
+inv-2079 · ensaladas · Kosambari de garbanzos con pepino, zanahoria, coco rallado, cacahuetes y limón
+inv-2080 · ensaladas · Mechouia tunecina de pimientos y tomates asados en airfryer con atún y huevo duro
+inv-2081 · vegano · Wraps de «atún» de garbanzos con alcaparras, pepinillos y veganesa
+inv-2082 · ensaladas · Ensalada de espelta con alcachofas en conserva, tomate seco, judías blancas y parmesano
+inv-2083 · pasta-arroces · Bowl de pollo teriyaki casero con piña, arroz integral, edamame y col lombarda
+inv-2084 · pasta-arroces · Ensalada de pasta integral a la puttanesca fría con bonito, aceitunas, alcaparras y tomate cherry
+inv-2085 · ensaladas · Ensalada de cuscús perlado con salmón al microondas, pepino, rábano y salsa de yogur al eneldo
+inv-2086 · ensaladas · Salpicón de pollo escalfado con pimientos, cebolleta, tomate y vinagreta de Jerez
+inv-2087 · ensaladas · Larb de pavo picado al microondas con arroz jazmín, pepino y hierbas frescas
+inv-2088 · carnes · Ensalada de solomillo de cerdo con lentejas, manzana, apio y vinagreta de mostaza antigua
+inv-2089 · vegano · Bowl de tofu marinado en tamari y lima con fideos de arroz, zanahoria, pepino y cacahuetes
+inv-2090 · ensaladas · Ensalada de habas y guisantes con jamón serrano, huevo duro y menta
+inv-2091 · pasta-arroces · Ensalada de macarrones integrales con pavo, pepinillos, apio y aliño de yogur y mostaza
+inv-2092 · ensaladas · Ensalada de quinoa con gambas cocidas, pimiento rojo, pepino y salsa verde de perejil y alcaparras
+inv-2093 · ensaladas · Sunomono de pepino y wakame con surimi, edamame y arroz integral
+inv-2094 · vegetariano · Frittata de espinacas, guisantes y feta en airfryer con tomates cherry para llevar
+inv-2095 · carnes · Ensalada de bulgur con tiras de ternera a la plancha, pimiento salteado y salsa de yogur al comino
+inv-2096 · legumbres · Ensalada de garbanzos con caballa, pimiento rojo, cebolla morada y vinagreta de limón y comino
+inv-2097 · vegano · Bowl de tempeh en airfryer con trigo sarraceno, col lombarda, pera y aliño de mostaza y arce
+inv-2098 · pasta-arroces · Ensalada de pasta con salmón ahumado, guisantes, rúcula y salsa de yogur al eneldo y limón
+inv-2099 · legumbres · Ensalada de edamame, alubias negras y maíz con queso fresco, aguacate y lima
+inv-2100 · vegetariano · Ensalada de arroz basmati con garbanzos al tandoori en airfryer, pepino, tomate y raita de menta
+inv-2101 · pasta-arroces · Ensalada de pasta de lentejas rojas con atún, judías verdes, tomate cherry y aceitunas a la nizarda
+inv-2102 · carnes · Wraps de pavo a la plancha con queso fresco, espinacas y pesto de rúcula y almendras
+inv-2103 · ensaladas · Ensalada de langostinos al ajillo en airfryer con judías blancas, tomate seco y rúcula
+inv-2104 · legumbres · Ensalada de lentejas con jamón ibérico, pimientos del piquillo, cebolleta y almendras tostadas
+inv-2105 · vegano · Ensalada de alubias rojas y arroz integral con pimientos, apio y aliño cajún
+inv-2106 · vegano · Ensalada de patatas y seitán al pimentón con pimientos asados en airfryer y vinagreta de ajo
+inv-2107 · vegetariano · Wraps de ensalada de huevo al curry con yogur, espinacas, zanahoria y pasas
+inv-2108 · ensaladas · Ensalada de pollo al chimichurri con patata al microondas, tomate y maíz
+inv-2109 · legumbres · Ensalada de judías blancas con salmón en airfryer, judías verdes, tomate cherry y vinagreta de mostaza antigua
+inv-2110 · ensaladas · Ensalada de col lombarda, zanahoria y manzana con garbanzos crujientes en airfryer y aliño de tahini
 car-01 · carnes · Dados de pollo sobre cremoso de queso griego
 car-02 · carnes · Ssam de cerdo con almendras
 car-03 · carnes · Ssam de pollo en marinado oriental

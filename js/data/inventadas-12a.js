@@ -1018,7 +1018,7 @@ window.RECETAS_SEED.push({
     { n: "vino tinto", q: 150, u: "ml" },
     { n: "romero fresco", q: 2, u: "rama" },
     { n: "laurel", q: 1, u: "hoja" },
-    { n: "salsa de soja", q: 1, u: "cda" },
+    { n: "tamari", q: 1, u: "cda" },
     { n: "polenta", q: 100, u: "g", nota: "de cocción rápida o tradicional" },
     { n: "bebida vegetal", q: 200, u: "ml", nota: "sin azúcar" },
     { n: "levadura nutricional", q: 2, u: "cda" },
@@ -1030,7 +1030,7 @@ window.RECETAS_SEED.push({
     "Hidrata el shiitake en 400 ml de agua caliente 20 minutos. Escúrrelo apretando, guarda el agua (colada) y pícalo fino.",
     "Pica las setas variadas en trozos pequeños y saltéalas en la cazuela con 1 cucharada de aceite a fuego fuerte 8 minutos, sin remover al principio, hasta que suelten el agua y se doren bien. Sácalas.",
     "Baja el fuego, añade el resto del aceite y pocha cebolla, zanahoria, apio y ajo picados muy finos 10 minutos, hasta que estén blandos. Incorpora el tomate concentrado y tuéstalo 2 minutos.",
-    "Moja con el vino y deja reducir a la mitad, unos 3 minutos. Añade las setas, el shiitake, las lentejas lavadas, el tomate triturado, el agua de remojo, la salsa de soja, una rama de romero y el laurel.",
+    "Moja con el vino y deja reducir a la mitad, unos 3 minutos. Añade las setas, el shiitake, las lentejas lavadas, el tomate triturado, el agua de remojo, el tamari, una rama de romero y el laurel.",
     "Cuece tapado a fuego muy suave 50–60 minutos, removiendo de vez en cuando y añadiendo agua si hace falta, hasta que las lentejas estén tiernas y el ragú sea espeso y oscuro. Salpimienta.",
     "Para la polenta, lleva a ebullición la bebida vegetal con 300 ml de agua, sal y la otra rama de romero (retírala después). Echa la polenta en lluvia batiendo y cuece removiendo según el paquete (5 minutos la rápida, 40 la tradicional), hasta que se despegue de las paredes. Termina con la levadura nutricional.",
     "Sirve la polenta extendida en el plato hondo, haz un hueco en el centro con la cuchara y coloca el ragú encima con pimienta recién molida."

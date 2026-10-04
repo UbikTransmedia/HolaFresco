@@ -469,7 +469,7 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 25, u: "g", nota: "en láminas" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "cebolleta", q: 2, u: "ud" },
-    { n: "salsa de soja", q: 2, u: "cda" },
+    { n: "tamari", q: 2, u: "cda" },
     { n: "miso", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
