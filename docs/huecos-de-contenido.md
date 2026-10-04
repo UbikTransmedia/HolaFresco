@@ -100,3 +100,43 @@ sopas-cremas      54   26   34   24   22   10   14   23   43   28   12   12    3
 olla-express      66   10   37   29   14   13   13   15   19   22   10   10    258
 total            685  285  410  257  275  140  208  223  313  199  125  118   3238
 ```
+
+## Segunda revisión: Sudeste asiático, cocina africana y huecos transversales (3.638 recetas)
+
+### Sudeste asiático
+
+Nueva cocina **Sudeste asiático** (Tailandia, Vietnam, Indonesia, Malasia, Singapur, Filipinas, Camboya, Laos y
+Birmania). Se reclasificaron 78 recetas que estaban en «Asiática», que queda para China, Japón y Corea, y se
+añadieron 100 recetas nuevas. Un editor revisó el bloque y reescribió 15 platos repetidos o demasiado parecidos.
+
+### Huecos detectados por el cocinero revisor y bloques que los cubren
+
+| Hueco | Dato antes | Bloque | Después |
+|---|---|---|---|
+| Ninguna receta de África subsahariana | 0 | Nueva cocina **africana**: 90 recetas, 10 por categoría (África occidental, Etiopía y Eritrea, África oriental, central y austral, Madagascar, Mauricio, Cabo Verde) | 94 |
+| Muy pocas recetas aptas para alérgicos, ahora que cada persona puede marcar sus intolerancias | 260 sin ninguno de los 14 alérgenos UE | 60 recetas sin gluten, lácteos, huevo, frutos secos, cacahuete, soja, sésamo, pescado, marisco, apio, mostaza, altramuces ni sulfitos | 362 |
+| Bajo en FODMAP | 147 (36 veganas) | 40 recetas (vegetarianas, veganas, pescados, carnes, sopas y arroces) | 192 |
+| Primavera y otoño olvidados | 126 / 206 (invierno: 861) | 20 de primavera y 20 de otoño | 151 / 248 |
+| Slow cooker y sin fuego | 58 / 114 | 15 de slow cooker y 15 sin fuego (platos completos, no solo ensaladas) | 73 / 132 |
+| Aprovechamiento de sobras | 50 | 25 recetas de aprovechamiento | 78 |
+| Legumbres de cocina asiática; cenas ligeras angloamericanas | 7 / 16 | 5 legumbres chinas, japonesas y coreanas y 10 cenas ligeras de EE. UU. y Canadá | 12 / 26 |
+
+Cada bloque lo escribió un cocinero especialista con autorrevisión. Además, se comprobaron los platos repetidos frente al
+resto del recetario y entre bloques. De paso se corrigieron errores del catálogo de ingredientes que afectaban a dietas y
+alérgenos: harina de teff, crema de cacahuete, tomate pera, soja seca, pez limón, fonio, tupinambo y nísperos.
+
+### Matriz final categoría × cocina (ninguna celda por debajo de 10)
+
+```
+                 ESP  MED  ITA  GRI  ASI  SEA  IND  OMM  HIS  EUR  ESL  AFR  ANG  FUS  total
+legumbres         86   25   33   31   12   17   24   30   37   21   23   10   13   12    374
+pescado          151   53   34   27   37   24   14   21   26   59   21   10   14   13    504
+carnes           132   32   46   36   42   22   25   42   49   84   27   10   38   13    598
+vegetariano       79   46   61   34   17   18   20   33   24   44   23   11   13   11    434
+vegano            42   21   35   29   40   29   28   31   38   21   24   12   21   26    397
+ensaladas         33   52   27   26   11   21   10   19   17   29   21   11   15   12    304
+pasta-arroces     61   28  121   28   31   21   11   24   14   10   20   10   10   11    400
+sopas-cremas      55   28   34   24   21   19   10   14   23   47   33   10   13   12    343
+olla-express      67   10   37   29   10   15   14   13   16   19   22   10   12   10    284
+total            706  295  428  264  221  186  156  227  244  334  214   94  149  120   3638
+```

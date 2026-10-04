@@ -24,7 +24,7 @@ desde la misma wifi, o copia la carpeta al móvil y ábrela con un navegador que
 
 | Sección | Qué hace |
 |---|---|
-| 🍳 **Recetas** | **3.238 recetas** en 9 categorías (legumbres, pescado, carnes, vegetariano, vegano, ensaladas, pasta y arroces, sopas y cremas, olla exprés): **64 originales** (📄, desarrolladas a partir de los títulos de un recetario de partida, no incluido en el repositorio) y **3.174 derivadas** (✨). Entre las derivadas: 540 de las nuevas cocinas **italiana, griega y eslava** (20 por categoría y cocina, la mitad tradicionales, etiqueta «tradicional», y la otra mitad versiones libres, etiqueta «creativa»), 500 que cubren los huecos de una revisión del recetario (ver `docs/huecos-de-contenido.md`), 300 prácticas para tupper, airfryer y microondas, 300 sin gluten, 300 mediterráneas fáciles y 500 tradicionales saciantes. **Tipo de cocina** (española, mediterránea, italiana, griega, asiática, india, Oriente Medio y Magreb, hispanoamericana, europea, eslava, angloamericana y fusión; todas tienen al menos 10 recetas de cada categoría), **contundencia** (ligera / media / contundente) y **coste** (económica / media / premium). Búsqueda por nombre, ingrediente, cocina o etiqueta; filtros por todo lo anterior más dieta, momento y tiempo. **Forma de cocción** (sin fuego, todo en una olla, todo al horno, airfryer, microondas, slow cooker, olla exprés; la olla exprés se filtra en «Más filtros → Cocción»), **apta para tupper** (🥡) y **dietas** detectadas por ingredientes (vegetariana, vegana, sin gluten, sin lácteos, sin frutos secos y bajo en FODMAP). **Alérgenos e intolerancias** de cada receta (los 14 alérgenos de declaración obligatoria, más legumbres y FODMAP), con aviso «No apta para…» según las personas del hogar y filtros «Sin …» y «Aptas para todo mi hogar». **Favoritas** (★) y **excluidas de menús** (🚫). Alta, edición, duplicado; ocultar recetas (recuperables desde Ajustes). Cada receta se escala a las raciones que quieras. |
+| 🍳 **Recetas** | **3.638 recetas** en 9 categorías (legumbres, pescado, carnes, vegetariano, vegano, ensaladas, pasta y arroces, sopas y cremas, olla exprés): **64 originales** (📄, desarrolladas a partir de los títulos de un recetario de partida, no incluido en el repositorio) y **3.574 derivadas** (✨). Entre las derivadas: 540 de las cocinas **italiana, griega y eslava** (20 por categoría y cocina, la mitad tradicionales, etiqueta «tradicional», y la otra mitad versiones libres, etiqueta «creativa»), 100 del **Sudeste asiático**, 90 de cocina **africana** (subsahariana), 60 sin ninguno de los 14 alérgenos, 40 bajas en FODMAP, 40 de primavera y otoño, 30 de slow cooker y sin fuego, 25 de aprovechamiento de sobras, 500 que cubren los huecos de una revisión del recetario (ver `docs/huecos-de-contenido.md`), 300 prácticas para tupper, airfryer y microondas, 300 sin gluten, 300 mediterráneas fáciles y 500 tradicionales saciantes. **Tipo de cocina** (española, mediterránea, italiana, griega, asiática, sudeste asiático, india, Oriente Medio y Magreb, hispanoamericana, europea, eslava, africana, angloamericana y fusión; todas tienen al menos 10 recetas de cada categoría), **contundencia** (ligera / media / contundente) y **coste** (económica / media / premium). Búsqueda por nombre, ingrediente, cocina o etiqueta; filtros por todo lo anterior más dieta, momento y tiempo. **Forma de cocción** (sin fuego, todo en una olla, todo al horno, airfryer, microondas, slow cooker, olla exprés; la olla exprés se filtra en «Más filtros → Cocción»), **apta para tupper** (🥡) y **dietas** detectadas por ingredientes (vegetariana, vegana, sin gluten, sin lácteos, sin frutos secos y bajo en FODMAP). **Alérgenos e intolerancias** de cada receta (los 14 alérgenos de declaración obligatoria, más legumbres y FODMAP), con aviso «No apta para…» según las personas del hogar y filtros «Sin …» y «Aptas para todo mi hogar». **Favoritas** (★) y **excluidas de menús** (🚫). Alta, edición, duplicado; ocultar recetas (recuperables desde Ajustes). Cada receta se escala a las raciones que quieras. |
 | 🪄 **Nuevo menú** | Asistente en 7 pasos: personas (sexo, edad, peso, altura, actividad, objetivos e **intolerancias o alergias**), días y comidas, gustos (frecuencia por tipo de plato, cocinas del mundo preferidas o a evitar, dietas), ajustes (aparatos que tienes y formas de cocinar preferidas; platos para tupper en las comidas entre semana, en todas las comidas o en todo; tiempo máximo entre semana y fin de semana, estricto u orientativo; contundencia de comidas y cenas; presupuesto económico/medio/premium; no repetir recetas de las últimas semanas; sobras; olla exprés), vetos (las intolerancias del hogar se aplican siempre; además, grupos de alérgenos o ingredientes concretos), recetas fijas y resultado editable hueco a hueco. El menú **se recalcula automáticamente** al volver al último paso si has cambiado algo. |
 | 📅 **Mis menús** | Base de datos de menús generados. Al abrir uno se muestra **primero la lista de la compra** (agrupada por pasillos, con casillas que se recuerdan y botón de copiar) y después el menú semanal y un resumen de la configuración usada. |
 | 📄 **Exportar** | Desde cada menú guardado: **PDF** (plan de comidas como índice enlazado a cada receta, lista de la compra con casillas, una receta por página, marcadores y un anexo con el Markdown para copiar; además lleva adjuntos `menu-completo.md`, `plan-de-comidas.md`, `lista-de-la-compra.md` y `recetas.md`) y copia en **Markdown** del plan, de todas las recetas, del menú completo con la lista o de cada receta suelta. |
@@ -68,6 +68,7 @@ js/
   shopping.js     lista de la compra: agregación, redondeo, formatos de copia
   pdf.js          generador de PDF propio, sin dependencias (enlaces, marcadores, adjuntos)
   ui.js           utilidades de interfaz (h(), modales, toasts)
+  ads.js          huecos de publicidad (Google AdSense)
   views/          personas.js · recetas.js · wizard.js · menus.js
   app.js          navegación y ajustes
   data/
@@ -77,11 +78,20 @@ js/
     inventadas-NNx.js        2.600 recetas derivadas más, en ficheros de 25 por bloque temático
     italiana-*.js, griega-*.js, eslava-*.js   20 recetas por categoría de cada cocina
     huecos-*.js              recetas que completan las cocinas con menos de 10 recetas en alguna categoría
+    sudeste-*.js, africana-*.js           cocinas del Sudeste asiático y africana
+    alergias-*.js, fodmap-*.js, primavera.js, otono.js, slow-sinfuego.js, aprovechamiento.js, mixto-asia-america.js
+                             bloques de la segunda revisión de huecos (ver docs/huecos-de-contenido.md)
 bkg/
   inicio.jpg, inicio-movil.jpg   foto de fondo de la portada (Stefan Vladimirov, Unsplash), optimizada
 ```
 
 Para añadir recetas a mano a la semilla, sigue `js/data/ESQUEMA.md` (o usa «+ Nueva receta» en la app).
+
+## Publicidad
+
+La web publicada muestra anuncios de Google AdSense en seis huecos fijos (portada, recetas, ficha de receta,
+asistente, Mis menús y detalle de menú). El script y la etiqueta de verificación están en `index.html`, el
+`ads.txt` en la raíz y el id del bloque de anuncios en `js/ads.js`. Abierta en local (`file://`) no carga anuncios.
 
 ## Créditos
 
