@@ -71,6 +71,18 @@
     );
   };
 
+  /* Enlace directo a una receta: #/recetas/<id> abre el recetario con su ficha */
+  const enlaceReceta = (r) => location.origin + location.pathname + "#/recetas/" + encodeURIComponent(r.id);
+  const compartirReceta = async (r) => {
+    const url = enlaceReceta(r);
+    if (r.origen === "propia" || r._modificada) UI.toast("Es una receta tuya o modificada: el enlace abre la versión original o solo funciona en este navegador. Para enviarla completa, usa «Copiar receta».", "info", 5000);
+    if (navigator.share) {
+      try { await navigator.share({ title: r.nombre, text: `${r.nombre} · HolaFresco`, url }); return; } catch (e) { if (e && e.name === "AbortError") return; }
+    }
+    const ok = await Compra.copiarAlPortapapeles(url);
+    UI.toast(ok ? "Enlace a la receta copiado. Pégalo donde quieras." : "No se pudo copiar el enlace: " + url, ok ? "ok" : "error", 4000);
+  };
+
   /* ---------- Detalle ---------- */
   const abrirDetalle = (id, opciones = {}) => {
     const r = Recetas.porId(id);
@@ -141,14 +153,15 @@
     pie.push(btnFav, btnNegra, h("button.btn", { type: "button", title: "Copia la receta en formato Markdown (con las raciones que estás viendo) para pegarla en notas, documentos o mensajes", onClick: () => Recetas.copiarMarkdown(r.id, raciones) }, "📋 Copiar receta"));
     pie.push(h("div.espaciador"));
     const masAcciones = h("details.menu-mas", h("summary.btn", "⋯ Más"), h("div.menu-mas-lista",
+      h("button.btn.btn-suave", { type: "button", onClick: () => { m.cerrar(); abrirEditor(r.id); } }, "✏️ Editar"),
       h("button.btn.btn-suave", { type: "button", onClick: () => { const nid = Recetas.duplicar(r.id); m.cerrar(); UI.toast("Copia creada. Ya puedes editarla."); abrirEditor(nid); } }, "⧉ Duplicar"),
       Recetas.esSemilla(r.id) && r._modificada ? h("button.btn.btn-suave", { type: "button", onClick: async () => { if (await UI.confirmar({ titulo: "Restaurar receta original", mensaje: "Se perderán tus cambios en esta receta y volverá a la versión original." })) { Recetas.restaurar(r.id); m.cerrar(); UI.toast("Receta restaurada"); } } }, "↺ Restaurar original") : null,
       h("button.btn.btn-suave.btn-peligro-suave", { type: "button", onClick: async () => { if (await UI.confirmar({ titulo: "Ocultar receta", mensaje: `¿Ocultar «${r.nombre}» de tu recetario? ${Recetas.esSemilla(r.id) ? "No se borra del programa: podrás recuperarla desde Ajustes → Recetas ocultas." : "Es una receta tuya: se eliminará de este navegador."}`, textoOk: "Ocultar", peligro: true })) { Recetas.borrar(r.id); m.cerrar(); UI.toast("Receta ocultada"); } } }, "🙈 Ocultar del recetario")
     ));
     pie.push(masAcciones);
-    pie.push(h("button.btn.btn-primario", { type: "button", onClick: () => { m.cerrar(); abrirEditor(r.id); } }, "✏️ Editar"));
+    pie.push(h("button.btn.btn-primario", { type: "button", title: "Comparte un enlace que abre esta receta en HolaFresco", onClick: () => compartirReceta(r) }, "🔗 Compartir"));
 
-    m = UI.modal({ titulo: r.nombre, ancho: "xl", contenido: cuerpo, pie, claseExtra: "modal-receta" });
+    m = UI.modal({ titulo: r.nombre, ancho: "xl", contenido: cuerpo, pie, claseExtra: "modal-receta", alCerrar: opciones.alCerrar });
     return m;
   };
 
@@ -245,7 +258,7 @@
   };
 
   /* ---------- Listado ---------- */
-  const render = (cont) => {
+  const render = (cont, params = {}) => {
     UI.vaciar(cont);
     const grid = h("div.grid-recetas");
     const contador = h("p.contador", { "aria-live": "polite" });
@@ -344,6 +357,11 @@
     const onCambio = () => { if (cont.isConnected) actualizar(); else { document.removeEventListener("recetas:cambio", onCambio); document.removeEventListener("recetas:marcas", onCambio); } };
     document.addEventListener("recetas:cambio", onCambio);
     document.addEventListener("recetas:marcas", onCambio);
+    // Enlace compartido: abre la ficha y, al cerrarla, deja la dirección en #/recetas sin recargar la lista
+    if (params.id) {
+      if (Recetas.porId(params.id)) setTimeout(() => abrirDetalle(params.id, { alCerrar: () => { if (location.hash.startsWith("#/recetas/")) history.replaceState(null, "", "#/recetas"); } }), 0);
+      else { UI.toast("Esa receta no está en este recetario.", "error"); history.replaceState(null, "", "#/recetas"); }
+    }
     const onPersonas = () => { if (cont.isConnected) actualizar(); else document.removeEventListener("personas:cambio", onPersonas); };
     document.addEventListener("personas:cambio", onPersonas);
   };

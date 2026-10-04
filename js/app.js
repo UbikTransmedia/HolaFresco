@@ -6,7 +6,7 @@
 
   const RUTAS = [
     { id: "inicio", patron: /^\/?$/, nombre: "Inicio", icono: "🏠" },
-    { id: "recetas", patron: /^\/recetas\/?$/, nombre: "Recetas", icono: "🍳" },
+    { id: "recetas", patron: /^\/recetas(?:\/([^/?]+))?\/?$/, nombre: "Recetas", icono: "🍳" },
     { id: "wizard", patron: /^\/wizard\/?$/, nombre: "Nuevo menú", icono: "🪄" },
     { id: "menus", patron: /^\/menus(?:\/([^/?]+))?\/?$/, nombre: "Mis menús", icono: "📅" },
   ];
