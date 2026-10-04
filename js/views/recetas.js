@@ -99,8 +99,8 @@
     const coc = Recetas.cocina(r.cocina), con = Recetas.contundencia(r.contundencia), cos = Recetas.coste(r.coste);
     const cuerpo = h("div.detalle",
       h("div.detalle-cab",
-        h("div.detalle-chips", h("span.chip", cat.icono, " ", cat.nombre), badgeOrigen(r), coc ? h("span.chip", { title: "Tipo de cocina" }, coc.icono, " ", coc.nombre) : null, con ? h("span.chip", { title: con.desc }, con.icono, " ", con.nombre) : null, cos ? h("span.chip.chip-coste", { title: cos.desc }, cos.icono, " ", cos.nombre) : null, ...r.coccion.filter((c) => c !== r.categoria).map((c) => { const cc = Recetas.coccion(c); return h("span.chip", { title: cc.desc }, cc.icono, " ", cc.nombre); }), r.tupper ? h("span.chip.chip-tupper", { title: "Aguanta bien en tupper y se recalienta sin problema" }, "🥡 Para tupper") : null),
         r.subtitulo ? h("p.detalle-sub", r.subtitulo) : null,
+        h("div.detalle-chips", h("span.chip", cat.icono, " ", cat.nombre), badgeOrigen(r), coc ? h("span.chip", { title: "Tipo de cocina" }, coc.icono, " ", coc.nombre) : null, con ? h("span.chip", { title: con.desc }, con.icono, " ", con.nombre) : null, cos ? h("span.chip.chip-coste", { title: cos.desc }, cos.icono, " ", cos.nombre) : null, ...r.coccion.filter((c) => c !== r.categoria).map((c) => { const cc = Recetas.coccion(c); return h("span.chip", { title: cc.desc }, cc.icono, " ", cc.nombre); }), r.tupper ? h("span.chip.chip-tupper", { title: "Aguanta bien en tupper y se recalienta sin problema" }, "🥡 Para tupper") : null),
         h("div.detalle-meta",
           h("span", "⏱ ", r.tiempo, " min"), h("span", iconoDificultad(r.dificultad), " ", r.dificultad),
           h("span", r.momentos.map((mo) => Recetas.MOMENTOS.find((x) => x.id === mo)).filter(Boolean).map((mo) => mo.icono + " " + mo.nombre).join(" · ")),

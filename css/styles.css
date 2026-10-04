@@ -333,7 +333,7 @@ input[type="checkbox"], input[type="radio"] { accent-color: var(--primario); wid
 .modal-receta .modal-cuerpo { padding-top: .5rem; }
 .detalle-cab { margin-bottom: 1rem; }
 .detalle-chips { display: flex; flex-wrap: wrap; gap: .45rem; margin-bottom: .5rem; }
-.detalle-sub { font-size: 1.05rem; color: var(--texto-suave); margin-bottom: .5rem; }
+.detalle-sub { font-size: 1.05rem; color: var(--texto-suave); margin: -.15rem 0 .65rem; }
 .detalle-meta { display: flex; flex-wrap: wrap; gap: .35rem 1.2rem; font-size: .92rem; color: var(--texto-suave); }
 .detalle-dietas { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .5rem; }
 .detalle-cols { display: grid; grid-template-columns: minmax(240px, 2fr) 3fr; gap: 1.5rem; }
