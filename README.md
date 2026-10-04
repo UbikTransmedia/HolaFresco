@@ -82,4 +82,6 @@ Para añadir recetas a mano a la semilla, sigue `js/data/ESQUEMA.md` (o usa «+ 
 
 ## Créditos
 
+Un proyecto de G. Carbonell ([gcarbonell.com](https://gcarbonell.com)) y J. Ramírez.
+
 Foto de la portada: Stefan Vladimirov en [Unsplash](https://unsplash.com/photos/Q_Moi2xjieU), bajo la licencia de Unsplash.
