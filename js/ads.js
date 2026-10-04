@@ -15,6 +15,9 @@
     if (!slot || location.protocol === "file:") return null;
     const ins = h("ins.adsbygoogle", { style: { display: "block" }, "data-ad-client": CLIENTE, "data-ad-slot": slot, "data-ad-format": "auto", "data-full-width-responsive": "true", "data-adtest": enLocal ? "on" : null });
     const caja = h("aside.anuncio", { class: "anuncio-" + lugar, "aria-label": "Publicidad" }, h("span.anuncio-etiqueta", "Publicidad"), ins);
+    // El hueco no ocupa espacio hasta que AdSense confirma que ha servido un anuncio (data-ad-status="filled")
+    const ajustar = () => caja.classList.toggle("anuncio-lleno", ins.getAttribute("data-ad-status") === "filled");
+    if ("MutationObserver" in window) new MutationObserver(ajustar).observe(ins, { attributes: true, attributeFilter: ["data-ad-status"] });
     // AdSense necesita el bloque ya en la página (y con anchura) antes de pedir el anuncio
     requestAnimationFrame(() => requestAnimationFrame(() => {
       if (!ins.isConnected || ins.getAttribute("data-adsbygoogle-status")) return;

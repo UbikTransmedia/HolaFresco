@@ -693,12 +693,15 @@ body.fondo-inicio .firma-inicio a { color: #fff; font-weight: 700; }
   .modal-titulo { font-size: 1.15rem; line-height: 1.25; }
 }
 
-/* Publicidad */
-.anuncio { display: block; margin: 1.25rem 0; padding: .4rem .5rem .6rem; border-top: 1px solid var(--borde); border-bottom: 1px solid var(--borde); text-align: center; min-height: 120px; overflow: hidden; clear: both; }
-.anuncio-etiqueta { display: block; font-size: .7rem; letter-spacing: .06em; text-transform: uppercase; color: var(--texto-suave); margin-bottom: .3rem; }
-.anuncio:has(ins[data-ad-status="unfilled"]) { display: none; }
-.detalle-pasos .anuncio { margin: 1rem 0; }
-.wizard-cuerpo .anuncio { margin-bottom: 0; }
+/* Publicidad: el hueco mide 0 de alto (pero conserva la anchura, que AdSense necesita para pedir el anuncio)
+   hasta que llega un anuncio; entonces se ajusta a su altura */
+.anuncio { display: block; width: 100%; height: auto; min-height: 0; margin: 0; padding: 0; border: 0; overflow: hidden; clear: both; text-align: center; }
+.anuncio ins.adsbygoogle { margin: 0 auto; }
+.anuncio-etiqueta { display: none; }
+.anuncio.anuncio-lleno { margin: 1.25rem 0; padding: .4rem 0 .6rem; border-top: 1px solid var(--borde); border-bottom: 1px solid var(--borde); }
+.anuncio.anuncio-lleno .anuncio-etiqueta { display: block; font-size: .7rem; letter-spacing: .06em; text-transform: uppercase; color: var(--texto-suave); margin-bottom: .3rem; }
+.detalle-pasos .anuncio.anuncio-lleno { margin: 1rem 0; }
+.wizard-cuerpo .anuncio.anuncio-lleno { margin-bottom: 0; }
 @media print { .anuncio { display: none !important; } }
 
 /* Información legal */
