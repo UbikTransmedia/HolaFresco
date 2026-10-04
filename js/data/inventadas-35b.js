@@ -831,7 +831,7 @@ window.RECETAS_SEED.push({
   subtitulo: "buenísima templada o fría, ideal para la oficina",
   origen: "inventada",
   categoria: "pasta-arroces",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida"],
   proteina: "pollo",
   tiempo: 25,

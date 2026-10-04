@@ -587,7 +587,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 380, prot: 8, hc: 50, grasa: 16 },
   etiquetas: ["sin gluten", "vegana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "ligera", "verano"],
   consejo: "En Italia se acompaña de pan: usa pan sin gluten tostado aparte en una tostadora propia para evitar migas de trigo. Está todavía mejor al día siguiente, e incluso a temperatura ambiente.",
-  cocina: "mediterránea",
+  cocina: "italiana",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -989,7 +989,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 390, prot: 16, hc: 50, grasa: 14 },
   etiquetas: ["sin gluten", "vegetariana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "ligera", "de cuchara"],
   consejo: "La sopa al pistou clásica lleva pasta pequeña: aquí la quinoa la sustituye sin gluten. Lava siempre la quinoa para quitar las saponinas amargas y compra una con sello, porque se procesa junto a otros cereales. Guarda el pistou aparte para que no se oscurezca.",
-  cocina: "europea",
+  cocina: "mediterránea",
   contundencia: "ligera",
   coste: "económica"
 });

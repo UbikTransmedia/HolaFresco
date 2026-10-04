@@ -689,7 +689,7 @@ window.RECETAS_SEED.push({
   subtitulo: "cereal entero con mordida, legumbre cremosa y un buen aceite al final",
   origen: "inventada",
   categoria: "sopas-cremas",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
   tiempo: 60,

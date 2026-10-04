@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
   subtitulo: "vegano, crujiente y otoñal, con tempeh dorado sin sartén",
   origen: "inventada",
   categoria: "vegano",
-  cocina: "europea",
+  cocina: "fusión",
   momentos: ["comida", "cena"],
   proteina: "tempeh",
   tiempo: 30,

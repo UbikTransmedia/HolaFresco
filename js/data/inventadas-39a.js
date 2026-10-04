@@ -1050,7 +1050,7 @@ window.RECETAS_SEED.push({
   subtitulo: "la boloñesa vegetal que gusta a todos, en una sola tanda",
   origen: "inventada",
   categoria: "pasta-arroces",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
   tiempo: 35,

@@ -733,7 +733,7 @@ window.RECETAS_SEED.push({
   subtitulo: "estofado griego de los domingos con tomate, canela y vino tinto",
   origen: "inventada",
   categoria: "carnes",
-  cocina: "mediterránea",
+  cocina: "griega",
   momentos: ["comida"],
   proteina: "ternera",
   tiempo: 130,

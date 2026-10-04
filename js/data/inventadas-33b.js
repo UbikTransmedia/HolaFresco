@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 22, hc: 72, grasa: 25 },
   etiquetas: ["sin gluten", "una sola olla", "rápida", "fácil", "económica", "vegetariana", "para niños"],
   consejo: "Usa una pasta sin gluten de maíz y arroz, que aguanta mejor la cocción en salsa que la de legumbre. Cómela al momento: la pasta sin gluten recalentada se apelmaza. Ten una cazuela y unas pinzas solo para cocinar sin gluten si en casa también se usa pasta de trigo.",
-  cocina: "mediterránea",
+  cocina: "italiana",
   contundencia: "media",
   coste: "económica"
 });
@@ -400,7 +400,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 18, hc: 76, grasa: 24 },
   etiquetas: ["sin gluten", "vegetariana", "una sola olla"],
   consejo: "Comprueba el queso de cabra y el caldo: algunos quesos untables y caldos llevan almidones de trigo. El risotto se come al momento; con las sobras, forma bolitas, rebózalas en harina de maíz y dóralas en la sartén.",
-  cocina: "mediterránea",
+  cocina: "italiana",
   contundencia: "media",
   coste: "media"
 });
@@ -790,7 +790,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 44, hc: 76, grasa: 22 },
   etiquetas: ["sin gluten", "una sola olla", "fácil", "tupper", "alta en proteína", "para niños"],
   consejo: "Para tupper, deja la pasta un poco más suelta de salsa: la pasta sin gluten absorbe mucho líquido en la nevera. Recalienta con 2-3 cucharadas de agua. Usa un colador y una cuchara exclusivos si en casa también se cuece pasta de trigo.",
-  cocina: "mediterránea",
+  cocina: "italiana",
   contundencia: "contundente",
   coste: "media"
 });
@@ -1061,7 +1061,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 32, hc: 70, grasa: 18 },
   etiquetas: ["sin gluten", "una sola olla"],
   consejo: "El arroz arborio es sin gluten, pero los caldos de pescado comerciales a veces no: usa uno certificado o hazlo con las cáscaras de las gambas. El risotto no admite recalentado; prepara solo lo que vayas a comer.",
-  cocina: "mediterránea",
+  cocina: "italiana",
   contundencia: "media",
   coste: "premium"
 });

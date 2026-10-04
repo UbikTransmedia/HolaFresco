@@ -991,7 +991,7 @@ window.RECETAS_SEED.push({
   subtitulo: "el estofado italiano de la nonna con tomate, romero y vino tinto",
   origen: "inventada",
   categoria: "carnes",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida"],
   proteina: "ternera",
   tiempo: 110,

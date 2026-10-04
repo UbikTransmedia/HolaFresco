@@ -181,6 +181,44 @@
     { id: "cafeina", nombre: "Cafeína", icono: "☕", claves: ["cafe", "te verde", "te negro", "chocolate*", "cacao"] },
   ];
 
+  /* ---------- Ampliación: cocinas italiana, griega y eslava ----------
+     Formatos de pasta y masas de trigo (gluten y FODMAP), quesos, embutidos, pescados y especias
+     que no estaban en las listas generales. Se añaden aquí para no alargar más las reglas de arriba. */
+  const PASTAS_TRIGO = ["bucatini", "paccheri", "trofie", "fregola", "ziti", "casarecce", "strozzapreti", "ditalini", "tubetti", "maltagliati", "pici", "bigoli",
+    "garganelli", "cavatelli", "malloreddus", "lumache", "mezze maniche", "calamarata", "rigatoni", "penne", "fusilli", "farfalle", "conchiglie", "orecchiette",
+    "pappardelle", "tagliatelle", "tagliolini", "fettuccine", "linguine", "linguini", "orzo", "kritharaki", "hilopites", "trahana", "tortellini", "tortelloni",
+    "ravioli", "raviolis", "cappelletti", "agnolotti", "canelon*", "anelletti", "busiate", "scialatielli", "stelline", "pastina", "lagane", "vermicelli", "farro", "espelta",
+    "pierogi", "pelmeni", "vareniki", "halusky", "spatzle", "lazanki", "picatostes", "croutons", "pan de centeno", "pan negro", "tarama*", "kvas"];
+  const anadirClaves = (id, claves, excluir) => { const g = GRUPOS.find((x) => x.id === id); g.claves.push(...claves); if (excluir) g.excluir = [...(g.excluir || []), ...excluir]; };
+  const anadirPasillo = (id, claves, primera = true) => { const r = primera ? REGLAS_PASILLO.find((x) => x[0] === id) : [...REGLAS_PASILLO].reverse().find((x) => x[0] === id); r[1].push(...claves); };
+  // «pasta de…» sin trigo (pastas de especias o de legumbre) no lleva gluten; la pasta de trigo sí
+  const PASTAS_SIN_TRIGO = ["pasta de aji*", "pasta de achiote", "pasta de curry*", "pasta de tamarindo", "pasta de judia*", "pasta de lentejas*", "pasta de garbanzo*", "pasta de guisante*", "pasta de arroz", "pasta de maiz", "pasta de sesamo", "pasta de miso", "pasta de chile*", "pasta de gambas", "pasta de pimiento*", "pasta de ajo", "pasta de jengibre", "pasta de tomate", "pasta de aceitunas", "pasta de datiles", "pasta de alforfon", "pasta de trigo sarraceno"];
+  for (const id of ["gluten", "fodmap"]) { const g = GRUPOS.find((x) => x.id === id); g.excluir = g.excluir.filter((e) => e !== "pasta de*").concat(PASTAS_SIN_TRIGO); }
+  anadirClaves("gluten", PASTAS_TRIGO, ["alforfon*", "kasha"]);
+  anadirClaves("fodmap", PASTAS_TRIGO.filter((x) => x !== "tarama*" && x !== "kvas").concat(["fava*", "guisantes partidos", "guisante partido*"]));
+  anadirClaves("legumbre", ["fava*", "guisantes partidos", "guisante partido*"]);
+  const EMBUTIDO_CERDO = ["pancetta", "salsiccia", "speck", "nduja", "prosciutto", "kielbasa", "tocino", "lardo", "coppa", "capocollo", "cotechino", "loukaniko", "kabanos", "carrillera*", "salo"];
+  anadirClaves("carne", [...EMBUTIDO_CERDO, "bresaola"]);
+  anadirClaves("cerdo", EMBUTIDO_CERDO.filter((x) => x !== "carrillera*"));
+  const QUESOS = ["grana padano", "gorgonzola", "taleggio", "fontina", "scamorza", "provolone", "stracciatella", "kefalotyri", "graviera", "kasseri", "manouri", "mizithra", "anthotyros", "smetana", "tvorog", "twarog", "kajmak", "sirene", "bryndza", "quark", "asiago", "caciocavallo", "robiola", "crescenza", "tzatziki", "pesto*"];
+  anadirClaves("lacteos", QUESOS, ["pesto vegano", "pesto sin queso"]);
+  anadirClaves("frutos-secos", ["pesto", "pesto genoves", "pesto de albahaca", "pesto rojo", "pesto alla genovese"]);
+  anadirClaves("cebolla-ajo", ["tzatziki"]);
+  anadirClaves("pescado", ["arenque*", "lucioperca", "carpa", "eperlano*", "lucio", "esturion", "bottarga", "huevas*", "tarama*", "anguila*", "pez de san pedro", "san pedro"]);
+  anadirClaves("marisco", ["langosta*", "bogavante*", "cigala*", "erizo*", "carabinero*"]);
+  const LICORES = ["vodka", "ouzo", "tsipouro", "marsala", "vino de marsala", "grappa", "limoncello", "prosecco", "metaxa", "kvas"];
+  anadirClaves("alcohol", LICORES);
+  anadirClaves("sulfitos", LICORES.filter((x) => x !== "kvas"));
+  anadirPasillo("carniceria", [...EMBUTIDO_CERDO, "bresaola"]);
+  anadirPasillo("lacteos-huevos", QUESOS.filter((x) => x !== "pesto*" && x !== "tzatziki"));
+  anadirPasillo("pescaderia", ["arenque*", "lucioperca", "carpa", "eperlano*", "lucio", "esturion", "bottarga", "huevas*", "anguila*", "pez de san pedro", "san pedro", "langosta*", "bogavante*", "cigala*", "erizo*", "carabinero*"]);
+  anadirPasillo("bebidas", LICORES);
+  anadirPasillo("especias", ["bayas de enebro", "enebro", "alcaravea", "comino de prados", "mahlab", "mastiha", "masticha", "almaciga", "hierbas italianas", "ajedrea", "levistico", "vegeta"]);
+  anadirPasillo("despensa", ["pesto*", "tapenade", "tzatziki", "tarama*", "ajvar", "lutenitsa", "hojas de parra", "alforfon*", "kasha", "trigo sarraceno", "fava*", "guisantes partidos", "guisante partido*", "hojas de pasta filo"]);
+  anadirPasillo("frutas-verduras", ["radicchio", "achicoria*", "cavolo nero", "col negra", "puntarelle", "colinabo", "verdolaga*", "diente de leon", "ortiga*", "acedera", "horta", "grosella*", "eneldo fresco"]);
+  anadirPasillo("despensa", PASTAS_TRIGO.filter((x) => !["picatostes", "croutons", "pan de centeno", "pan negro", "tarama*", "kvas"].includes(x)), false);
+  anadirPasillo("panaderia", ["picatostes", "croutons", "pan de centeno", "pan negro"]);
+
   const cacheGrupos = new Map();
   const gruposDe = (nombre) => {
     const key = String(nombre || "").toLowerCase();

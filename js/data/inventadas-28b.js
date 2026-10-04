@@ -968,7 +968,7 @@ window.RECETAS_SEED.push({
   subtitulo: "receta de los Balcanes guisada en salsa de tomate, servida con yogur",
   origen: "inventada",
   categoria: "olla-express",
-  cocina: "europea",
+  cocina: "eslava",
   momentos: ["comida"],
   proteina: "mixto",
   tiempo: 75,

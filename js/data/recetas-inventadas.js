@@ -308,7 +308,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con polenta cremosa al parmesano",
   origen: "inventada",
   categoria: "olla-express",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida"],
   proteina: "ternera",
   tiempo: 55,

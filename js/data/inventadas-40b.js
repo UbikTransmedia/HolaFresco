@@ -989,7 +989,7 @@ window.RECETAS_SEED.push({
   subtitulo: "un stroganoff ligero: yogur estabilizado con maicena en lugar de nata",
   origen: "inventada",
   categoria: "carnes",
-  cocina: "europea",
+  cocina: "eslava",
   contundencia: "media",
   coste: "media",
   momentos: ["comida", "cena"],

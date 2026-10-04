@@ -822,7 +822,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con quinoa ya cocida, sin fuego",
   origen: "inventada",
   categoria: "pasta-arroces",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "queso",
   tiempo: 15,

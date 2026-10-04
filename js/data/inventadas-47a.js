@@ -624,7 +624,7 @@ window.RECETAS_SEED.push({
   subtitulo: "cremoso como un risotto, con legumbre y cereal para una proteína completa",
   origen: "inventada",
   categoria: "vegano",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
   tiempo: 50,

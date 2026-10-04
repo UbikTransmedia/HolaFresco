@@ -189,7 +189,7 @@ window.RECETAS_SEED.push({
   subtitulo: "cuajada en molde, sin vuelta y sin sartén",
   origen: "inventada",
   categoria: "vegetariano",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["cena"],
   proteina: "huevo",
   tiempo: 20,

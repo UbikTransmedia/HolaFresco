@@ -43,7 +43,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 38, hc: 50, grasa: 24 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "económica"],
   consejo: "Comprueba que el pimentón y el comino lleven sello sin gluten: las especias molidas a veces se envasan en plantas que manipulan harinas. En tupper aguanta 3 días; recalienta 15 minutos a 180 °C para que la piel vuelva a crujir.",
-  cocina: "española",
   contundencia: "media",
   coste: "económica"
 });
@@ -87,7 +86,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 415, prot: 30, hc: 40, grasa: 15 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera"],
   consejo: "Usa lomos al natural, nunca merluza congelada empanada o rebozada, que lleva harina de trigo. Los piquillos en conserva son aptos, pero revisa que no lleven salsas espesadas.",
-  cocina: "española",
   contundencia: "ligera",
   coste: "media"
 });
@@ -134,7 +132,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 26, hc: 58, grasa: 22 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "batch cooking"],
   consejo: "Usa tamari etiquetado sin gluten: la salsa de soja normal se fermenta con trigo. La maicena sustituye a la harina para el rebozado ligero y da el mismo crujiente.",
-  cocina: "asiática",
   contundencia: "media",
   coste: "económica"
 });
@@ -180,7 +177,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 695, prot: 36, hc: 48, grasa: 40 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "económica", "alta en proteína"],
   consejo: "El chorizo es una fuente habitual de gluten oculto: elige uno con sello sin gluten. Si quieres llevarlo en tupper, hornea solo la base y añade los huevos al recalentarla en el horno.",
-  cocina: "española",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -224,7 +220,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 27, hc: 30, grasa: 24 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "ideal para llevar"],
   consejo: "Aguanta 3 días en la nevera y se come fría o templada, perfecta para llevar. El feta es apto de forma natural; evita los quesos rallados de bolsa con antiapelmazantes no certificados.",
-  cocina: "mediterránea",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -269,7 +264,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 755, prot: 40, hc: 45, grasa: 46 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking"],
   consejo: "Algunas pastas de achiote comerciales llevan harina o vinagre de malta (de cebada): busca una certificada sin gluten. En tupper aguantan 3 días; recalienta tapadas 15 minutos a 180 °C con una cucharada de agua.",
-  cocina: "latinoamericana",
   contundencia: "contundente",
   coste: "media"
 });
@@ -313,7 +307,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 38, hc: 36, grasa: 32 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "alta en proteína"],
   consejo: "La costra de almendra sustituye al pan rallado y queda igual de crujiente. Revisa la mostaza: la mayoría de Dijon son aptas, pero algunas llevan harina o vinagre de malta.",
-  cocina: "europea",
   contundencia: "media",
   coste: "premium"
 });
@@ -357,7 +350,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 34, hc: 82, grasa: 22 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "tupper", "económica", "batch cooking"],
   consejo: "Muchos caldos de brick y pastillas llevan harina o extracto de malta: usa caldo casero o uno certificado sin gluten. El colorante alimentario puede sustituir al azafrán, pero comprueba que sea apto.",
-  cocina: "española",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -401,7 +393,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 14, hc: 52, grasa: 17 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera"],
   consejo: "El miso de cebada (mugi miso) contiene gluten: elige miso de arroz o de soja con sello sin gluten. El vinagre de arroz es apto; evita el vinagre de malta.",
-  cocina: "asiática",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -446,7 +437,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 42, hc: 18, grasa: 24 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "bajo en fodmap", "alta en proteína", "para niños"],
   consejo: "Compra pavo picado solo de carne: los preparados tipo burger meat suelen llevar pan o harina de trigo. El aceite de ajo da sabor sin los fructanos del ajo, así que el plato sirve para la dieta baja en FODMAP; el parmesano curado apenas tiene lactosa.",
-  cocina: "mediterránea",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -457,7 +447,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con aceitunas negras, cherry y vinagreta de mostaza",
   origen: "inventada",
   categoria: "ensaladas",
-  cocina: "europea",
+  cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "pescado",
   tiempo: 40,
@@ -491,7 +481,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 34, hc: 38, grasa: 26 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ideal para llevar"],
   consejo: "Para el tupper guarda la vinagreta y la lechuga aparte y aliña al servir. Las conservas de atún al natural o en aceite de oliva son aptas; evita las de salsas preparadas, que pueden llevar harina.",
-  cocina: "europea",
   contundencia: "media",
   coste: "media"
 });
@@ -536,7 +525,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 28, hc: 92, grasa: 22 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "picante"],
   consejo: "Algunos chipotles en adobo llevan harina de trigo en la salsa: lee la etiqueta o sustitúyelo por 1 cucharadita de pimentón ahumado y una pizca de cayena. Ralla tú el cheddar para evitar antiapelmazantes no certificados.",
-  cocina: "latinoamericana",
   contundencia: "contundente",
   coste: "media"
 });
@@ -582,7 +570,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 400, prot: 32, hc: 26, grasa: 19 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera"],
   consejo: "El pisto al horno se puede duplicar y congelar en raciones como base para otros platos. Si compras almendras laminadas, revisa que no se envasen en la misma línea que productos con trigo.",
-  cocina: "española",
   contundencia: "ligera",
   coste: "media"
 });
@@ -627,7 +614,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 20, hc: 62, grasa: 14 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "económica"],
   consejo: "Para la quinoa cocida, cuece 100 g en seco o usa una de bote. La quinoa es apta, pero compra una con sello sin gluten porque a menudo se procesa junto a trigo y cebada. La salsa de yogur, mejor aparte en el tupper.",
-  cocina: "latinoamericana",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -670,7 +656,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 44, hc: 52, grasa: 14 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína"],
   consejo: "La sidra es apta para celíacos, a diferencia de la cerveza. Revisa la mostaza antigua: algunas llevan vinagre de malta. En tupper, recalienta los medallones tapados con su jugo para que no se resequen.",
-  cocina: "europea",
   contundencia: "media",
   coste: "media"
 });
@@ -681,7 +666,7 @@ window.RECETAS_SEED.push({
   subtitulo: "crujientes, sin hervir, con tomate cherry y un toque picante",
   origen: "inventada",
   categoria: "pasta-arroces",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida"],
   proteina: "cerdo",
   tiempo: 35,
@@ -712,7 +697,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 30, hc: 88, grasa: 34 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "para niños"],
   consejo: "Los gnocchi y las salchichas son dos fuentes clásicas de gluten: compra ambos con sello sin gluten. Los gnocchi crujientes pierden textura al recalentar, así que es un plato para comer al momento.",
-  cocina: "mediterránea",
   contundencia: "contundente",
   coste: "media"
 });
@@ -760,7 +744,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 26, hc: 60, grasa: 30 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína"],
   consejo: "Compra tortillas 100 % maíz con sello sin gluten: algunas mezclan harina de trigo. Revisa también las mezclas de especias tipo fajita, que pueden llevar harina como espesante. Guarda el relleno en tupper y monta las tortillas al momento.",
-  cocina: "latinoamericana",
   contundencia: "media",
   coste: "media"
 });
@@ -803,7 +786,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 32, hc: 42, grasa: 28 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil"],
   consejo: "Comprueba que los langostinos congelados no estén glaseados con aditivos o rebozados. Con este plato no hace falta pan: si quieres mojar, usa pan sin gluten tostado en el mismo horno.",
-  cocina: "española",
   contundencia: "media",
   coste: "premium"
 });
@@ -850,7 +832,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 42, hc: 48, grasa: 34 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "alta en proteína"],
   consejo: "Las mezclas de especias como el garam masala o el curry pueden llevar harina como antiapelmazante o asafétida cortada con trigo: compra una con sello sin gluten. Recalentado al día siguiente está aún más sabroso.",
-  cocina: "india",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -892,7 +873,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 16, hc: 68, grasa: 26 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "para niños"],
   consejo: "La harina de maíz precocida es naturalmente sin gluten, pero compra una marca con sello porque se muele en molinos compartidos. Puedes hornear el doble de arepas sin rellenar, congelarlas y regenerarlas 10 minutos a 200 °C.",
-  cocina: "latinoamericana",
   contundencia: "media",
   coste: "media"
 });
@@ -938,7 +918,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 30, hc: 70, grasa: 32 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "económica"],
   consejo: "El fatteh tradicional lleva pan de pita frito; las tortillas de maíz con sello sin gluten lo sustituyen con el mismo crujiente. El zumaque y el comino, mejor certificados, porque las especias se contaminan con facilidad.",
-  cocina: "oriente-medio",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -984,7 +963,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 36, hc: 44, grasa: 28 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína"],
   consejo: "Usa siempre tamari con sello sin gluten en lugar de salsa de soja, que lleva trigo. Frío al día siguiente, en tupper, está delicioso desmigado sobre las verduras.",
-  cocina: "asiática",
   contundencia: "media",
   coste: "premium"
 });
@@ -1032,7 +1010,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 34, hc: 20, grasa: 44 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína"],
   consejo: "Las koftas tradicionales a veces llevan bulgur o pan remojado; aquí se ligan solo amasando la carne. Pide la ternera picada en el momento y en una carnicería que no prepare hamburguesas con pan en la misma máquina.",
-  cocina: "oriente-medio",
   contundencia: "media",
   coste: "media"
 });
@@ -1077,7 +1054,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 22, hc: 56, grasa: 30 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "económica"],
   consejo: "Revisa el tofu ahumado y la salsa picante: algunos tofus marinados llevan salsa de soja con trigo. Para el tupper, recalienta en el horno o la airfryer para recuperar el crujiente.",
-  cocina: "americana",
   contundencia: "media",
   coste: "económica"
 });
@@ -1122,7 +1098,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 18, hc: 40, grasa: 23 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "económica", "ideal para llevar"],
   consejo: "Es apta para veganos y aguanta 3 días en tupper; guarda el aliño aparte si la vas a comer más tarde. El tahini suele ser solo sésamo, pero comprueba el sello sin gluten de la marca.",
-  cocina: "oriente-medio",
   contundencia: "ligera",
   coste: "económica"
 });

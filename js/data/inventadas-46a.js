@@ -288,7 +288,7 @@ window.RECETAS_SEED.push({
   subtitulo: "el conejo se guisa con hueso y se deshilacha: más sabor y nada de desperdicio",
   origen: "inventada",
   categoria: "pasta-arroces",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida"],
   proteina: "mixto",
   tiempo: 90,

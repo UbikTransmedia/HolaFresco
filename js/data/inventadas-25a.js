@@ -806,7 +806,7 @@ window.RECETAS_SEED.push({
   subtitulo: "entre risotto y sopa, con parmesano y perejil",
   origen: "inventada",
   categoria: "pasta-arroces",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "cerdo",
   tiempo: 40,

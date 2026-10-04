@@ -46,7 +46,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 715, prot: 33, hc: 53, grasa: 41 },
   etiquetas: ["rápida", "15 minutos", "a la plancha", "para invitados", "alta en proteína"],
   consejo: "Cualquier corte con una tira de grasa (chuletillas, entrecot, presa) mejora si la doras de canto antes o después de marcarlo: la grasa se funde, se vuelve crujiente y aporta sabor a la plancha. El reposo de 2 minutos tras la plancha es tan importante como la cocción.",
-  cocina: "oriente-medio",
   contundencia: "contundente",
   coste: "premium",
   tupper: false
@@ -88,7 +87,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 40, hc: 25, grasa: 23 },
   etiquetas: ["rápida", "15 minutos", "alta en proteína", "ligera", "una sola sartén"],
   consejo: "Los jugos que suelta la carne mientras reposa son puro sabor: añádelos siempre a la salsa. Las salsas de queso se hacen a fuego suave y sin hervir; si se corta, aparta del fuego y añade una cucharada de nata o agua fría batiendo.",
-  cocina: "europea",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -131,7 +129,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 47, hc: 24, grasa: 34 },
   etiquetas: ["rápida", "15 minutos", "para niños", "alta en proteína", "rebozado"],
   consejo: "Regla para freír empanados: cuanto más grueso sea lo que fríes, más bajo el fuego y más tiempo, para que el interior se haga antes de que el rebozado se queme. Filetes finos, fuego fuerte; libritos, croquetas o pechugas enteras, fuego medio.",
-  cocina: "española",
   contundencia: "media",
   coste: "económica",
   tupper: false
@@ -175,7 +172,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 35, hc: 46, grasa: 23 },
   etiquetas: ["rápida", "15 minutos", "para invitados", "alta en proteína", "una sola sartén"],
   consejo: "Un vino dulce reducido en la sartén (Pedro Ximénez, moscatel, oporto) da en un minuto una salsa brillante que combina con carnes rojas, cerdo, setas o foie. Redúcelo siempre a fuego medio: por sus azúcares, a fuego máximo se quema enseguida.",
-  cocina: "española",
   contundencia: "media",
   coste: "premium",
   tupper: false
@@ -222,7 +218,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 44, hc: 60, grasa: 30 },
   etiquetas: ["rápida", "15 minutos", "alta en proteína", "para compartir", "económica"],
   consejo: "El tiempo de marinado depende del tamaño de la pieza: tiras finas o dados pequeños toman sabor en 5-10 minutos, mientras que una pechuga entera o unos muslos necesitan 2 horas. Las marinadas con yogur o limón no deben pasar de 24 horas, porque el ácido acaba volviendo harinosa la carne.",
-  cocina: "oriente-medio",
   contundencia: "contundente",
   coste: "económica",
   tupper: false
@@ -265,7 +260,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 775, prot: 45, hc: 36, grasa: 50 },
   etiquetas: ["rápida", "15 minutos", "para invitados", "alta en proteína", "microondas"],
   consejo: "Para un filete de 2 cm a fuego máximo: 2 minutos por lado es poco hecho, 3 punto medio y 4 hecho. Si es más grueso, márcalo y termínalo a fuego medio. El reposo forma parte de la cocción: nunca cortes la carne recién salida de la sartén.",
-  cocina: "europea",
   contundencia: "contundente",
   coste: "premium",
   tupper: false
@@ -314,7 +308,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 36, hc: 40, grasa: 18 },
   etiquetas: ["rápida", "15 minutos", "ligera", "especiada", "alta en proteína", "tupper"],
   consejo: "La base de masala (cebolla, ajo, jengibre, especias y tomate reducido hasta que suelta el aceite) se puede hacer en cantidad y congelar en raciones: con ella tienes un curry en 5 minutos añadiendo legumbre cocida, pollo, huevo duro o marisco. El marisco, siempre al final y a fuego suave.",
-  cocina: "india",
   contundencia: "ligera",
   coste: "premium",
   tupper: true
@@ -361,7 +354,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 39, hc: 57, grasa: 41 },
   etiquetas: ["rápida", "15 minutos", "omega 3", "alta en proteína", "bowl"],
   consejo: "Los glaseados con miel, azúcar o mirin se añaden siempre al final y a fuego medio, cuando la proteína ya está casi hecha: si van desde el principio, el azúcar se quema antes de que el interior se cocine. La misma técnica sirve para pollo, tofu o langostinos.",
-  cocina: "fusión",
   contundencia: "contundente",
   coste: "premium",
   tupper: false
@@ -403,7 +395,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 33, hc: 28, grasa: 22 },
   etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "para invitados", "microondas"],
   consejo: "El ajo laminado siempre se empieza en aceite templado, no muy caliente: así perfuma el aceite y se dora de forma uniforme. Los pescados gelatinosos (rape, bacalao, merluza de pincho) ligan solos la salsa si mueves la sartén en vaivén; los pescados grasos, no.",
-  cocina: "española",
   contundencia: "ligera",
   coste: "premium",
   tupper: false
@@ -447,7 +438,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 38, hc: 47, grasa: 28 },
   etiquetas: ["rápida", "15 minutos", "frito", "omega 3", "económica"],
   consejo: "Las tres reglas de la fritura de pescado pequeño (boquerones, chopitos, pescadito): secarlo bien, enharinarlo y sacudirlo en un colador, y freír en tandas pequeñas con el aceite a 180 °C. El aceite de oliva de freír se puede reutilizar 3-4 veces si lo filtras en frío y lo guardas tapado y a oscuras.",
-  cocina: "española",
   contundencia: "media",
   coste: "económica",
   tupper: false
@@ -490,7 +480,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 39, hc: 37, grasa: 13 },
   etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "una sola sartén", "tupper"],
   consejo: "Cocer el pescado tapado sobre una salsa a fuego suave es la forma más segura de que quede jugoso: vale para merluza, bacalao, rape o gallo, y para salsas de tomate, verde o de pimientos. El azafrán se tuesta un instante y se disuelve en líquido templado antes de añadirlo.",
-  cocina: "española",
   contundencia: "ligera",
   coste: "media",
   tupper: true
@@ -533,7 +522,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 34, hc: 34, grasa: 19 },
   etiquetas: ["rápida", "15 minutos", "ligera", "microondas", "para niños"],
   consejo: "La meunière (enharinar, dorar y regar con mantequilla avellana y limón) es la técnica perfecta para cualquier pescado plano o fino: lenguado, gallo, platija, trucha o filetes de merluza. Limpia siempre la sartén antes de hacer la mantequilla para que la salsa salga limpia.",
-  cocina: "europea",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -581,7 +569,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 14, hc: 55, grasa: 20 },
   etiquetas: ["rápida", "15 minutos", "olla exprés", "ligera", "de cuchara", "económica", "tupper"],
   consejo: "La patata es el espesante natural de las cremas de verdura: con un tercio de patata no necesitas nata. Puedes cocer huevos enteros en la olla exprés junto a cualquier crema o guiso de 5 minutos. El nabo pierde su punto amargo si lo rehogas antes en grasa; si es grande y fibroso, pélalo grueso.",
-  cocina: "europea",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -625,7 +612,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 24, hc: 29, grasa: 26 },
   etiquetas: ["rápida", "15 minutos", "vegetariana", "ligera", "técnica"],
   consejo: "Para el huevo poché, la frescura manda: un huevo fresco tiene la clara firme y cuaja recogida. El colador, el agua que apenas tiembla y el remolino hacen el resto. Puedes escalfarlos con antelación, guardarlos en agua fría en la nevera y recalentarlos 30 segundos en agua caliente.",
-  cocina: "europea",
   contundencia: "ligera",
   coste: "económica",
   tupper: false
@@ -669,7 +655,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 24, hc: 36, grasa: 23 },
   etiquetas: ["rápida", "15 minutos", "vegetariana", "ligera", "para niños"],
   consejo: "El huevo crudo es un pegamento: si colocas pan, tortilla o una lámina de calabacín sobre un huevo que empieza a cuajar, quedan unidos. Con este truco salen wraps, sándwiches de tortilla o quesadillas más proteicas en una sola sartén.",
-  cocina: "americana",
   contundencia: "ligera",
   coste: "económica",
   tupper: false
@@ -713,7 +698,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 29, hc: 65, grasa: 27 },
   etiquetas: ["rápida", "15 minutos", "vegana", "alta en proteína", "wok", "tupper"],
   consejo: "Si el tempeh te resulta amargo, cuécelo 5 minutos en agua hirviendo antes de dorarlo: pierde el amargor y absorbe mejor las salsas. El kecap manis casero (soja y azúcar moreno a partes casi iguales, reducidos) sirve para glasear tofu, pollo o verduras salteadas.",
-  cocina: "asiática",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -760,7 +744,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 28, hc: 50, grasa: 28 },
   etiquetas: ["rápida", "15 minutos", "vegana", "alta en proteína", "especiada", "tupper"],
   consejo: "Las proteínas vegetales texturizadas (heura, seitán, soja texturizada) se doran siempre aparte y se añaden al final a la salsa: así no se reblandecen. El mismo curry funciona con garbanzos, tofu firme o pollo; guárdalo hasta 3 días y añade un chorrito de agua al recalentar.",
-  cocina: "india",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -806,7 +789,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 21, hc: 85, grasa: 21 },
   etiquetas: ["rápida", "15 minutos", "vegana", "tupper", "ideal para llevar"],
   consejo: "Para caramelizar cebolla deprisa: córtala muy fina, sálala y tápala unos minutos para que se ablande con su propio vapor; luego destapa, añade una pizca de azúcar y sube el fuego. No es igual que una cebolla de 40 minutos, pero da un resultado dulce y meloso en 8. La tfaya se guarda 5 días en la nevera.",
-  cocina: "oriente-medio",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -847,7 +829,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 26, hc: 55, grasa: 25 },
   etiquetas: ["rápida", "15 minutos", "económica", "una sola sartén", "invierno", "tupper"],
   consejo: "En los platos grasos o intensos (morcilla, chorizo, panceta, quesos), un toque ácido al final (vinagre, limón, manzana verde, encurtidos) equilibra y hace que el plato no empalague. Es un recurso que puedes aplicar a cualquier guiso o salteado contundente.",
-  cocina: "española",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -891,7 +872,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 22, hc: 71, grasa: 25 },
   etiquetas: ["rápida", "15 minutos", "vegana", "económica", "tupper"],
   consejo: "La salsa satay casera (crema de cacahuete, soja, lima, algo dulce y agua caliente) se hace en un minuto y sirve para pollo, tofu, verduras al vapor o como aliño de ensaladas de col y fideos. Recuerda que contiene cacahuete: avisa si cocinas para alguien con alergia.",
-  cocina: "fusión",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -903,7 +883,7 @@ window.RECETAS_SEED.push({
   subtitulo: "la madre romana de la carbonara: grasa, agua de cocción y pecorino emulsionados",
   origen: "inventada",
   categoria: "pasta-arroces",
-  cocina: "mediterránea",
+  cocina: "italiana",
   momentos: ["comida"],
   proteina: "cerdo",
   tiempo: 15,
@@ -930,7 +910,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 685, prot: 25, hc: 72, grasa: 33 },
   etiquetas: ["rápida", "15 minutos", "técnica", "para invitados"],
   consejo: "La gricia enseña la base de la carbonara y del cacio e pepe: grasa + agua de cocción con almidón + queso, mezclados fuera del fuego. El queso nunca va a la sartén al fuego, porque se funde en hebras y se apelmaza. Domina esta emulsión y harás cualquier pasta romana sin nata.",
-  cocina: "mediterránea",
   contundencia: "contundente",
   coste: "media",
   tupper: false
@@ -976,7 +955,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 37, hc: 70, grasa: 17 },
   etiquetas: ["rápida", "15 minutos", "alta en proteína", "wok", "tupper"],
   consejo: "Echar las salsas líquidas (soja, vinagre, vino) por el borde caliente del wok en lugar de por el centro hace que se reduzcan y tuesten al instante, y aporta un aroma ahumado. Funciona en cualquier salteado: lomo saltado, arroz chaufa o verduras.",
-  cocina: "latinoamericana",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -1021,7 +999,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 41, hc: 75, grasa: 16 },
   etiquetas: ["rápida", "15 minutos", "wok", "alta en proteína", "tupper"],
   consejo: "Lo mein y chow mein usan los mismos fideos de huevo, pero en el lo mein se cuecen del todo y se mezclan con más salsa (resultado jugoso), mientras que en el chow mein se cuecen a medias y se tuestan en el wok (resultado crujiente). Elige según la textura que prefieras.",
-  cocina: "asiática",
   contundencia: "media",
   coste: "premium",
   tupper: true
@@ -1063,7 +1040,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 40, hc: 19, grasa: 26 },
   etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "verano"],
   consejo: "Melocotones, nectarinas, albaricoques, ciruelas o higos marcados un minuto en la plancha ganan dulzor y un punto tostado que combina con quesos frescos, jamón o carnes a la plancha. Elígelos firmes: si están muy maduros, se deshacen.",
-  cocina: "mediterránea",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -1107,7 +1083,6 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 30, hc: 42, grasa: 17 },
   etiquetas: ["rápida", "15 minutos", "de cuchara", "ligera", "invierno"],
   consejo: "Si compras gambas enteras, guarda las cabezas y cáscaras en el congelador: tostadas 2 minutos en aceite y hervidas 10 minutos en agua dan un caldo de marisco excelente. En cualquier sopa con marisco, sella el marisco primero y añádelo al final.",
-  cocina: "española",
   contundencia: "ligera",
   coste: "media",
   tupper: false

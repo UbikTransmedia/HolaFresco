@@ -495,7 +495,7 @@ window.RECETAS_SEED.push({
   subtitulo: "con ensalada de tomate, cebolla morada y orégano",
   origen: "inventada",
   categoria: "carnes",
-  cocina: "mediterránea",
+  cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "pollo",
   tiempo: 90,
