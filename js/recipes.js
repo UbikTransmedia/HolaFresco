@@ -77,6 +77,7 @@
     { id: "sin-verduras", etiqueta: "sin verduras", nombre: "Sin verduras", icono: "🚫🥦", desc: "Sin verduras ni hortalizas visibles (solo aromáticos en el sofrito, hierbas o tomate en salsa)" },
     { id: "superalimentos", etiqueta: "superalimentos", nombre: "Superalimentos", icono: "💪", desc: "Protagonizan al menos dos alimentos de alta densidad nutricional: pescado azul, legumbres, hoja verde, frutos rojos, semillas, cereales integrales…" },
     { id: "poco-especiada", etiqueta: "poco especiada", nombre: "Poco especiada", icono: "🧂", desc: "Sabor suave, sin picante ni mezclas de especias intensas" },
+    { id: "facil-digestion", etiqueta: "fácil digestión", nombre: "Fácil digestión", icono: "🫶", desc: "Para intestino irritable o hinchazón: baja en FODMAP, sin picante, alcohol ni fritos, grasa moderada y cocción suave" },
     { id: "bajo-colesterol", etiqueta: "bajo en colesterol", nombre: "Bajo en colesterol", icono: "❤️", desc: "Sin yema en cantidad, mantequilla, nata, quesos grasos, embutidos, carne roja ni marisco rico en colesterol" },
   ];
 

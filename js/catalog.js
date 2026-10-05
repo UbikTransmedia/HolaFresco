@@ -156,7 +156,7 @@
     { id: "cilantro", nombre: "Cilantro fresco", icono: "🌿", claves: ["cilantro fresco", "cilantro"], excluir: ["cilantro molido", "semillas de cilantro"] },
     { id: "setas", nombre: "Setas y champiñones", icono: "🍄", claves: ["niscalo*", "rebozuelo*", "champiñon*", "seta*", "shiitake", "boletus", "portobello", "trufa*", "aceite de trufa"] },
     { id: "legumbre", nombre: "Legumbres", icono: "🫘", claves: ["altramuz*", "azuki*", "gandul*", "aquafaba", "pochas", "verdinas*", "garrofo", "judiones*", "habas secas", "frijol*", "garbanzo*", "lenteja*", "judia blanca", "judias blancas", "alubia*", "frijol*", "haba", "habas", "habitas", "edamame*", "hummus", "falafel", "harina de garbanzo", "judia pinta", "judias pintas", "judia roja", "judias rojas"] },
-    { id: "alcohol", nombre: "Alcohol", icono: "🍷", claves: ["vino*", "cerveza", "brandy", "coñac", "ron", "whisky", "licor*", "sidra", "vermut", "cava", "sake", "mirin"] },
+    { id: "alcohol", nombre: "Alcohol", icono: "🍷", excluir: ["vinagre*"], claves: ["vino*", "cerveza", "brandy", "coñac", "ron", "whisky", "licor*", "sidra", "vermut", "cava", "sake", "mirin"] },
     { id: "cebolla-ajo", nombre: "Cebolla y ajo", icono: "🧅", claves: ["cebolla*", "cebolleta*", "ajo", "ajos", "puerro*", "chalota*", "ajo en polvo", "cebolla en polvo"], excluir: ["cebollino"] },
     { id: "berenjena", nombre: "Berenjena", icono: "🍆", claves: ["berenjena*"] },
     /* Alto en FODMAP (orientativo, según las tablas habituales de la dieta baja en FODMAP). Las versiones
@@ -194,8 +194,8 @@
   // «pasta de…» sin trigo (pastas de especias o de legumbre) no lleva gluten; la pasta de trigo sí
   const PASTAS_SIN_TRIGO = ["pasta de aji*", "pasta de achiote", "pasta de curry*", "pasta de tamarindo", "pasta de judia*", "pasta de lentejas*", "pasta de garbanzo*", "pasta de guisante*", "pasta de arroz", "pasta de maiz", "pasta de sesamo", "pasta de miso", "pasta de chile*", "pasta de gambas", "pasta de pimiento*", "pasta de ajo", "pasta de jengibre", "pasta de tomate", "pasta de aceitunas", "pasta de datiles", "pasta de alforfon", "pasta de trigo sarraceno"];
   for (const id of ["gluten", "fodmap"]) { const g = GRUPOS.find((x) => x.id === id); g.excluir = g.excluir.filter((e) => e !== "pasta de*").concat(PASTAS_SIN_TRIGO); }
-  anadirClaves("gluten", [...PASTAS_TRIGO, "gochujang", "pasta de gochujang"], ["alforfon*", "kasha", "teff", "harina de teff", "harina de mijo", "harina de sorgo", "harina de yuca", "harina de mandioca", "fonio", "harina de fonio", "harina de platano*"]);
-  anadirClaves("fodmap", [], ["tomate pera", "tomates pera", "harina de teff", "harina de mijo", "harina de sorgo", "harina de yuca", "harina de mandioca"]);
+  anadirClaves("gluten", [...PASTAS_TRIGO, "gochujang", "pasta de gochujang"], ["harina de castana*", "castana*", "alforfon*", "kasha", "teff", "harina de teff", "harina de mijo", "harina de sorgo", "harina de yuca", "harina de mandioca", "fonio", "harina de fonio", "harina de platano*"]);
+  anadirClaves("fodmap", [], ["harina de castana*", "vinagre de manzana", "vinagre de sidra", "tomate pera", "tomates pera", "harina de teff", "harina de mijo", "harina de sorgo", "harina de yuca", "harina de mandioca"]);
   anadirClaves("lacteos", [], ["mantequilla de cacahuete", "mantequilla de almendra*", "mantequilla de anacardo*", "mantequilla de cacao"]);
   anadirClaves("fodmap", PASTAS_TRIGO.filter((x) => x !== "tarama*" && x !== "kvas").concat(["fava*", "guisantes partidos", "guisante partido*", "tupinambo*"]));
   anadirClaves("legumbre", ["soja seca", "soja blanca*", "habas de soja*", "soja amarilla*", "fava*", "guisantes partidos", "guisante partido*"]);
