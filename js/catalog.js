@@ -194,7 +194,7 @@
   // «pasta de…» sin trigo (pastas de especias o de legumbre) no lleva gluten; la pasta de trigo sí
   const PASTAS_SIN_TRIGO = ["pasta de aji*", "pasta de achiote", "pasta de curry*", "pasta de tamarindo", "pasta de judia*", "pasta de lentejas*", "pasta de garbanzo*", "pasta de guisante*", "pasta de arroz", "pasta de maiz", "pasta de sesamo", "pasta de miso", "pasta de chile*", "pasta de gambas", "pasta de pimiento*", "pasta de ajo", "pasta de jengibre", "pasta de tomate", "pasta de aceitunas", "pasta de datiles", "pasta de alforfon", "pasta de trigo sarraceno"];
   for (const id of ["gluten", "fodmap"]) { const g = GRUPOS.find((x) => x.id === id); g.excluir = g.excluir.filter((e) => e !== "pasta de*").concat(PASTAS_SIN_TRIGO); }
-  anadirClaves("gluten", PASTAS_TRIGO, ["alforfon*", "kasha", "teff", "harina de teff", "harina de mijo", "harina de sorgo", "harina de yuca", "harina de mandioca", "fonio", "harina de fonio", "harina de platano*"]);
+  anadirClaves("gluten", [...PASTAS_TRIGO, "gochujang", "pasta de gochujang"], ["alforfon*", "kasha", "teff", "harina de teff", "harina de mijo", "harina de sorgo", "harina de yuca", "harina de mandioca", "fonio", "harina de fonio", "harina de platano*"]);
   anadirClaves("fodmap", [], ["tomate pera", "tomates pera", "harina de teff", "harina de mijo", "harina de sorgo", "harina de yuca", "harina de mandioca"]);
   anadirClaves("lacteos", [], ["mantequilla de cacahuete", "mantequilla de almendra*", "mantequilla de anacardo*", "mantequilla de cacao"]);
   anadirClaves("fodmap", PASTAS_TRIGO.filter((x) => x !== "tarama*" && x !== "kvas").concat(["fava*", "guisantes partidos", "guisante partido*", "tupinambo*"]));
@@ -207,13 +207,13 @@
   anadirClaves("frutos-secos", ["pesto", "pesto genoves", "pesto de albahaca", "pesto rojo", "pesto alla genovese"]);
   anadirClaves("cebolla-ajo", ["tzatziki"]);
   anadirClaves("pescado", ["pez limon", "seriola", "arenque*", "lucioperca", "carpa", "eperlano*", "lucio", "esturion", "bottarga", "huevas*", "tarama*", "anguila*", "pez de san pedro", "san pedro"]);
-  anadirClaves("marisco", ["langosta*", "bogavante*", "cigala*", "erizo*", "carabinero*"]);
+  anadirClaves("marisco", ["ostra*", "langosta*", "bogavante*", "cigala*", "erizo*", "carabinero*"]);
   const LICORES = ["vodka", "ouzo", "tsipouro", "marsala", "vino de marsala", "grappa", "limoncello", "prosecco", "metaxa", "kvas"];
   anadirClaves("alcohol", LICORES);
   anadirClaves("sulfitos", LICORES.filter((x) => x !== "kvas"));
   anadirPasillo("carniceria", [...EMBUTIDO_CERDO, "bresaola"]);
   anadirPasillo("lacteos-huevos", QUESOS.filter((x) => x !== "pesto*" && x !== "tzatziki"));
-  anadirPasillo("pescaderia", ["pez limon", "seriola", "arenque*", "lucioperca", "carpa", "eperlano*", "lucio", "esturion", "bottarga", "huevas*", "anguila*", "pez de san pedro", "san pedro", "langosta*", "bogavante*", "cigala*", "erizo*", "carabinero*"]);
+  anadirPasillo("pescaderia", ["ostra*", "pez limon", "seriola", "arenque*", "lucioperca", "carpa", "eperlano*", "lucio", "esturion", "bottarga", "huevas*", "anguila*", "pez de san pedro", "san pedro", "langosta*", "bogavante*", "cigala*", "erizo*", "carabinero*"]);
   anadirPasillo("bebidas", LICORES);
   anadirPasillo("especias", ["hojas de curry", "hoja de curry", "bayas de enebro", "enebro", "alcaravea", "comino de prados", "mahlab", "mastiha", "masticha", "almaciga", "hierbas italianas", "ajedrea", "levistico", "vegeta"]);
   anadirPasillo("despensa", ["pesto*", "tapenade", "tzatziki", "tarama*", "ajvar", "lutenitsa", "hojas de parra", "alforfon*", "kasha", "trigo sarraceno", "fonio", "teff", "harina de teff", "fava*", "guisantes partidos", "guisante partido*", "hojas de pasta filo"]);
