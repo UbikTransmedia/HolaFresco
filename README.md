@@ -87,7 +87,11 @@ bkg/
 
 Para añadir recetas a mano a la semilla, sigue `js/data/ESQUEMA.md` (o usa «+ Nueva receta» en la app).
 
-## Publicidad
+## Publicidad y analítica
+
+Google Analytics 4 (`G-35Y5H4Y32X`) se carga en `index.html` con el modo de consentimiento de Google: todo empieza
+denegado y solo mide con cookies si el visitante acepta en el aviso de consentimiento. Como la app cambia de pantalla sin
+recargar, `js/app.js` envía un `page_view` en cada cambio de ruta.
 
 La web publicada muestra anuncios de Google AdSense en seis huecos fijos (portada, recetas, ficha de receta,
 asistente, Mis menús y detalle de menú). El script y la etiqueta de verificación están en `index.html`, el

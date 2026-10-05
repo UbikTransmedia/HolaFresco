@@ -119,6 +119,8 @@
     else if (ruta.id === "legal") window.Vistas.legal.render(main, ruta.params);
     if (ruta.id !== "legal") document.title = (ruta.id === "inicio" ? "" : ruta.nombre + " · ") + "HolaFresco";
     window.scrollTo(0, 0);
+    // La app cambia de pantalla sin recargar: se avisa a Google Analytics de cada vista
+    if (typeof window.gtag === "function") window.gtag("event", "page_view", { page_title: document.title, page_location: location.href, page_path: location.pathname + location.hash });
   };
 
   const arrancar = () => {
