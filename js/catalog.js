@@ -217,7 +217,7 @@
   anadirPasillo("bebidas", LICORES);
   anadirPasillo("especias", ["hojas de curry", "hoja de curry", "bayas de enebro", "enebro", "alcaravea", "comino de prados", "mahlab", "mastiha", "masticha", "almaciga", "hierbas italianas", "ajedrea", "levistico", "vegeta"]);
   anadirPasillo("despensa", ["pesto*", "tapenade", "tzatziki", "tarama*", "ajvar", "lutenitsa", "hojas de parra", "alforfon*", "kasha", "trigo sarraceno", "fonio", "teff", "harina de teff", "fava*", "guisantes partidos", "guisante partido*", "hojas de pasta filo"]);
-  anadirPasillo("frutas-verduras", ["tupinambo*", "nispero*", "radicchio", "achicoria*", "cavolo nero", "col negra", "puntarelle", "colinabo", "verdolaga*", "diente de leon", "ortiga*", "acedera", "horta", "grosella*", "eneldo fresco"]);
+  anadirPasillo("frutas-verduras", ["galanga", "rizoma de galanga", "tupinambo*", "nispero*", "radicchio", "achicoria*", "cavolo nero", "col negra", "puntarelle", "colinabo", "verdolaga*", "diente de leon", "ortiga*", "acedera", "horta", "grosella*", "eneldo fresco"]);
   anadirPasillo("despensa", PASTAS_TRIGO.filter((x) => !["picatostes", "croutons", "pan de centeno", "pan negro", "tarama*", "kvas"].includes(x)), false);
   anadirPasillo("panaderia", ["picatostes", "croutons", "pan de centeno", "pan negro"]);
 
