@@ -194,8 +194,8 @@
       h("button.btn.btn-mini.btn-primario", { type: "button", title: "PDF con el plan de comidas como índice enlazado, la lista de la compra, todas las recetas y el Markdown para copiar", onClick: () => exportarPDF() }, "📄 Exportar a PDF"),
       h("span.barra-exportar-titulo", "📋 Copiar en Markdown:"),
       h("button.btn.btn-mini", { type: "button", title: "Solo el plan: qué se come cada día", onClick: () => copiarMd(mdPlan(), "Plan de comidas") }, "🗓 Plan de comidas"),
-      h("button.btn.btn-mini", { type: "button", title: "Todas las recetas del menú, una detrás de otra, con las raciones del menú", onClick: () => copiarMd(mdRecetas(), "Todas las recetas") }, "📖 Todas las recetas"),
-      h("button.btn.btn-mini", { type: "button", title: "Plan de comidas, lista de la compra y todas las recetas en un solo documento", onClick: () => copiarMd(`# ${menu.nombre}\n\n${mdPlan(2)}\n${mdCompra(2)}\n${mdRecetas(2)}`, "Menú completo con la lista de la compra") }, "🛒📖 Lista de la compra + menú completo")
+      h("button.btn.btn-mini", { type: "button", title: "Solo la lista de la compra, agrupada por pasillos y con casillas", onClick: () => copiarMd(mdCompra(), "Lista de la compra") }, "🛒 Lista de la compra"),
+      h("button.btn.btn-mini", { type: "button", title: "Todas las recetas del menú, una detrás de otra, con las raciones del menú", onClick: () => copiarMd(mdRecetas(), "Todas las recetas") }, "📖 Todas las recetas")
     );
 
     const cab = h("header.vista-cab.vista-cab-menu",
