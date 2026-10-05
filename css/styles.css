@@ -560,7 +560,6 @@ input[type="checkbox"], input[type="radio"] { accent-color: var(--primario); wid
   .tabla-dias { max-width: none; }
   .nut-grid { grid-template-columns: repeat(2, 1fr); }
   .guardar-menu .btn-grande { width: 100%; }
-  .wizard-nav .btn-suave { order: 3; width: 100%; }
   .modal-fondo { padding: 0; align-items: flex-end; }
   .modal { max-height: 96vh; border-bottom-left-radius: 0; border-bottom-right-radius: 0; }
   .item-label { grid-template-columns: auto 1fr; }
@@ -728,3 +727,14 @@ body.fondo-inicio .pie-legal a, body.fondo-inicio .pie-legal .enlace-boton { col
 .tabla-legal th, .tabla-legal td { border: 1px solid var(--borde); padding: .4rem .55rem; text-align: left; vertical-align: top; }
 .tabla-legal th { background: var(--superficie-2); }
 .legal-fecha { margin-top: 2rem; }
+
+/* Asistente: navegación siempre en una sola fila; en pantallas estrechas «Empezar de nuevo» queda como icono ↺ */
+.wizard-nav { flex-wrap: nowrap; align-items: center; }
+.wizard-nav .espaciador { flex: 1 1 0; min-width: 0; }
+@media (max-width: 600px) {
+  .wizard-nav { gap: .4rem; }
+  .wizard-nav .btn { padding: .5rem .8rem; font-size: .9rem; }
+  .wizard-nav .btn-reiniciar { width: 40px; height: 40px; padding: 0; flex: 0 0 40px; border: 1px solid var(--btn-borde); border-radius: 50%; background: var(--btn-fondo); }
+  .wizard-nav .reiniciar-texto { display: none; }
+  .wizard-nav .reiniciar-icono { font-size: 1.15rem; }
+}

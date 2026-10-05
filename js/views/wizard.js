@@ -421,7 +421,7 @@
       const ok = puedeAvanzar();
       UI.append(nav,
         h("button.btn", { type: "button", disabled: st.paso === 0, onClick: () => irA(st.paso - 1) }, "← Atrás"),
-        h("button.btn.btn-suave", { type: "button", onClick: async () => { if (await UI.confirmar({ titulo: "Empezar de nuevo", mensaje: "Se borrará lo que has configurado en este asistente (las personas del hogar se conservan)." })) { reiniciar(); refrescar(); } } }, "Empezar de nuevo"),
+        h("button.btn.btn-suave.btn-reiniciar", { type: "button", title: "Empezar de nuevo", "aria-label": "Empezar de nuevo", onClick: async () => { if (await UI.confirmar({ titulo: "Empezar de nuevo", mensaje: "Se borrará lo que has configurado en este asistente (las personas del hogar se conservan)." })) { reiniciar(); refrescar(); } } }, h("span.reiniciar-icono", { "aria-hidden": "true" }, "↺"), h("span.reiniciar-texto", " Empezar de nuevo")),
         h("div.espaciador"),
         st.paso === PASO_RESULTADO ? h("button.btn.btn-primario", { type: "button", onClick: () => acciones.guardar && acciones.guardar() }, "💾 Guardar menú") : null,
         st.paso < PASO_RESULTADO ? h("button.btn.btn-primario", { type: "button", disabled: !ok, title: ok ? "" : motivoBloqueo(), onClick: () => { if (!ok) return UI.toast(motivoBloqueo(), "info"); if (st.paso === PASO_RESULTADO - 1) st.resultado = null; irA(st.paso + 1); } }, st.paso === PASO_RESULTADO - 1 ? "✨ Generar menú" : "Siguiente →") : null
