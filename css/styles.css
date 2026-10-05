@@ -422,9 +422,11 @@ input[type="checkbox"], input[type="radio"] { accent-color: var(--primario); wid
 .dia-corto { display: none; }
 
 .lista-frecuencias { display: flex; flex-direction: column; gap: .5rem; }
-.fila-frecuencia { display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap; padding: .5rem 0; border-bottom: 1px dashed var(--borde); }
+.fila-frecuencia { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; column-gap: 1.25rem; row-gap: .5rem; padding: .5rem 0; border-bottom: 1px dashed var(--borde); }
 .fila-frecuencia:last-child { border-bottom: 0; }
-.frec-nombre { display: flex; gap: .6rem; align-items: center; }
+.frec-nombre { display: flex; gap: .6rem; align-items: center; min-width: 0; }
+.frec-nombre > div { min-width: 0; }
+.fila-frecuencia > .segmentado { justify-self: end; }
 .frec-icono { font-size: 1.5rem; }
 .frec-nombre small { display: block; }
 
@@ -737,4 +739,10 @@ body.fondo-inicio .pie-legal a, body.fondo-inicio .pie-legal .enlace-boton { col
   .wizard-nav .btn-reiniciar { width: 40px; height: 40px; padding: 0; flex: 0 0 40px; border: 1px solid var(--btn-borde); border-radius: 50%; background: var(--btn-fondo); }
   .wizard-nav .reiniciar-texto { display: none; }
   .wizard-nav .reiniciar-icono { font-size: 1.15rem; }
+}
+
+/* Asistente, frecuencias: en móvil todas las filas igual, con el selector debajo de la descripción */
+@media (max-width: 700px) {
+  .fila-frecuencia { grid-template-columns: minmax(0, 1fr); }
+  .fila-frecuencia > .segmentado { justify-self: start; }
 }
