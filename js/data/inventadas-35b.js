@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Retira la piel de naranja y el laurel de las alubias y sirve con el arroz, el kale y gajos de naranja pelada."
   ],
   nutricion: { kcal: 722, prot: 44, hc: 78, grasa: 26 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "invierno", "alta en proteína"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Las alubias aguantan 4 días en la nevera y se congelan muy bien; el arroz y el kale, mejor 2-3 días. Recalienta 3 minutos en el microondas con un chorrito de agua. Para celíacos: compra bacon sin gluten (algunos embutidos llevan harinas) y alubias en bote sin aditivos.",
   tupper: true,
   contundencia: "contundente",
@@ -84,7 +84,7 @@ window.RECETAS_SEED.push({
     "Aplasta unos trozos de calabaza para espesar el caldo, prueba de sal y retira el laurel."
   ],
   nutricion: { kcal: 420, prot: 20, hc: 58, grasa: 12 },
-  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "invierno"],
+  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y se congela sin problema. Recalienta en el microondas 3 minutos tapado o en un cazo a fuego suave. Para celíacos: el caldo de verduras en pastilla suele llevar gluten; usa uno con sello o agua con una pizca más de sal y especias.",
   tupper: true,
   contundencia: "ligera",
@@ -127,7 +127,7 @@ window.RECETAS_SEED.push({
     "Añade los guisantes y cuece 4 minutos. Prueba de sal y termina con la hierbabuena picada y los huevos en cuartos."
   ],
   nutricion: { kcal: 506, prot: 24, hc: 62, grasa: 18 },
-  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica"],
+  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera. Guarda los huevos cocidos enteros y córtalos al servir para que no se pongan gomosos. Recalienta el guiso 3 minutos en el microondas y añade el huevo al final. Para celíacos: revisa las alcachofas en conserva y el caldo, y no lo espeses con harina: la propia legumbre aplastada basta.",
   tupper: true,
   contundencia: "media",
@@ -171,7 +171,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 minutos tapado y sirve con perejil picado por encima."
   ],
   nutricion: { kcal: 684, prot: 42, hc: 48, grasa: 36 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "alta en proteína"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "alta en proteína", "poco especiada"],
   consejo: "Aguanta 2 días en la nevera. Recalienta a potencia media 3 minutos tapado (o a fuego suave en un cazo) para que la merluza no se reseque ni la salsa se corte. La salsa espesa al enfriar: añade una cucharada de agua. Para celíacos: el majado de almendra sustituye a la harina o al pan frito habituales; revisa el caldo de pescado.",
   tupper: true,
   contundencia: "contundente",
@@ -254,7 +254,7 @@ window.RECETAS_SEED.push({
     "Junta las patatas con la salsa de yogur, los pepinillos, la cebolla y los rábanos. Añade la caballa en lascas grandes y el resto del eneldo."
   ],
   nutricion: { kcal: 448, prot: 24, hc: 34, grasa: 24 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "sin horno", "verano"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "sin horno", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera y está mejor fría. Si la preparas con antelación, añade la caballa y el eneldo el mismo día. Para celíacos: algunas mostazas y pepinillos llevan vinagre de malta (cebada); elige los que tengan sello sin gluten.",
   tupper: true,
   contundencia: "ligera",
@@ -296,7 +296,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo, vierte la salsa y remueve 1 minuto, hasta que espese y brille. Termina con la cebolleta verde picada y el sésamo y sirve con el arroz."
   ],
   nutricion: { kcal: 566, prot: 36, hc: 74, grasa: 14 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "económica"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera; las verduras al dente resisten bien el recalentado (2 minutos en el microondas con una cucharada de agua). Para celíacos: usa tamari certificado sin gluten. Para dieta FODMAP: no sustituyas el aceite de ajo por ajo fresco ni uses la parte blanca de la cebolleta.",
   tupper: true,
   contundencia: "media",
@@ -343,7 +343,7 @@ window.RECETAS_SEED.push({
     "Retira las hierbas y sirve las carrilleras con la salsa sobre el puré."
   ],
   nutricion: { kcal: 712, prot: 40, hc: 48, grasa: 40 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno", "poco especiada"],
   consejo: "Prepara el doble: aguanta 3 días en la nevera y 3 meses congelada con su salsa. Recalienta 4 minutos en el microondas tapada o a fuego suave. El puré, guárdalo aparte y caliéntalo con un chorrito de leche. Para celíacos: la cerveza normal lleva cebada; usa solo cerveza con sello sin gluten.",
   tupper: true,
   contundencia: "contundente",
@@ -390,7 +390,7 @@ window.RECETAS_SEED.push({
     "Sirve el cordero sobre el arroz con las almendras y el cilantro picado."
   ],
   nutricion: { kcal: 736, prot: 42, hc: 70, grasa: 32 },
-  etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno"],
+  etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno", "sin verduras"],
   consejo: "Aguanta 3 días en la nevera y 3 meses congelado, y gana sabor al reposar. Recalienta tapado 4 minutos en el microondas; las almendras guárdalas aparte para que sigan crujientes. Para celíacos: es la versión sin cuscús de un tajín; si quieres cuscús, sustitúyelo siempre por arroz, quinoa o mijo.",
   tupper: true,
   contundencia: "contundente",
@@ -432,7 +432,7 @@ window.RECETAS_SEED.push({
     "Baja el fuego al mínimo, incorpora el yogur sin que hierva, devuelve el solomillo con su jugo y calienta 2 minutos. Sirve con la quinoa."
   ],
   nutricion: { kcal: 440, prot: 36, hc: 38, grasa: 16 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "ligera"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "ligera", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera. Recalienta a potencia media 2 minutos tapado, sin que hierva, para que el yogur no se corte y el solomillo siga jugoso. Para celíacos: revisa la mostaza de Dijon y el caldo, y no espeses la salsa con harina: el yogur y la reducción bastan.",
   tupper: true,
   contundencia: "ligera",
@@ -489,7 +489,7 @@ window.RECETAS_SEED.push({
   nombre: "Gratín de patata y brócoli con bechamel de maicena y cheddar",
   subtitulo: "con huevo duro, todo al horno",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida"],
   proteina: "queso",
@@ -519,7 +519,7 @@ window.RECETAS_SEED.push({
     "Hornea 20-25 minutos, hasta que burbujee y esté dorado. Deja reposar 5 minutos."
   ],
   nutricion: { kcal: 684, prot: 28, hc: 62, grasa: 36 },
-  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno", "invierno"],
+  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno", "invierno", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera en porciones. Recalienta 3 minutos en el microondas tapado o 12 minutos en el horno a 180 °C para recuperar el gratinado. La bechamel de maicena no se corta al recalentar. Para celíacos: compra el queso en bloque y rállalo tú, porque algunos rallados llevan almidones con gluten.",
   tupper: true,
   contundencia: "contundente",
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
   nombre: "Pimientos rojos rellenos de arroz, champiñones y queso de cabra",
   subtitulo: "al horno, con tomillo y nueces",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -561,7 +561,7 @@ window.RECETAS_SEED.push({
     "Rellena los pimientos, reparte encima el resto del queso y las nueces picadas y hornea 25 minutos, hasta que el pimiento esté tierno y el queso dorado."
   ],
   nutricion: { kcal: 526, prot: 20, hc: 62, grasa: 22 },
-  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil"],
+  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "poco especiada"],
   consejo: "Aguantan 3 días en la nevera, de pie en un tupper alto. Recalienta 2-3 minutos en el microondas tapados con una cucharada de agua en el fondo. Para celíacos: este relleno no necesita pan rallado; si quieres costra crujiente, usa pan rallado sin gluten.",
   tupper: true,
   contundencia: "media",
@@ -573,7 +573,7 @@ window.RECETAS_SEED.push({
   nombre: "Pastel azteca de tortillas de maíz con calabacín, maíz y queso",
   subtitulo: "capas de tortilla y salsa de tomate y chipotle al horno",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -617,7 +617,7 @@ window.RECETAS_SEED.push({
   nombre: "Guiso andino de quinoa con calabaza, habas y maíz",
   subtitulo: "espeso, de cuchara, con ají y cilantro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -649,7 +649,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve con cilantro picado."
   ],
   nutricion: { kcal: 428, prot: 16, hc: 64, grasa: 12 },
-  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica"],
+  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera. La quinoa sigue absorbiendo caldo: añade un chorro de agua o caldo al recalentar 3 minutos en el microondas. Para celíacos: usa quinoa y caldo con sello sin gluten, y revisa la crema de ají amarillo.",
   tupper: true,
   contundencia: "ligera",
@@ -661,7 +661,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu ahumado con pisto y patatas asadas en una sola bandeja",
   subtitulo: "todo al horno, con pimentón y romero",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -692,7 +692,7 @@ window.RECETAS_SEED.push({
     "Remueve para que el jugo de los tomates ligue el pisto y sirve."
   ],
   nutricion: { kcal: 452, prot: 22, hc: 46, grasa: 20 },
-  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno", "fácil"],
+  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. Recalienta 2-3 minutos en el microondas o, mejor, 8 minutos en la airfryer a 180 °C para que las patatas recuperen el dorado. Para celíacos: algunos tofus ahumados y marinados llevan salsa de soja con trigo; lee la etiqueta.",
   tupper: true,
   contundencia: "ligera",
@@ -704,7 +704,7 @@ window.RECETAS_SEED.push({
   nombre: "Berenjena y tofu en salsa de cacahuete y lima con quinoa",
   subtitulo: "con tamari, jengibre y cilantro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "fusión",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -734,7 +734,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre la quinoa con cilantro picado."
   ],
   nutricion: { kcal: 544, prot: 22, hc: 60, grasa: 24 },
-  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína"],
+  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. La salsa de cacahuete espesa al enfriar: añade 1-2 cucharadas de agua antes de recalentar 2 minutos en el microondas. También está buena fría como ensalada. Para celíacos: usa tamari certificado y crema de cacahuete sin aditivos.",
   tupper: true,
   contundencia: "media",
@@ -818,7 +818,7 @@ window.RECETAS_SEED.push({
     "Mezcla el trigo sarraceno con las verduras y el aliño y reparte por encima el salmón ahumado en tiras y el resto del eneldo."
   ],
   nutricion: { kcal: 442, prot: 24, hc: 46, grasa: 18 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "sin horno", "verano"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "sin horno", "verano", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 2-3 días en la nevera; añade el salmón ahumado el día que la comas. Se come fría. Para celíacos: aunque se llame trigo, el sarraceno no es un cereal con gluten, pero compra siempre uno certificado porque se procesa junto al trigo.",
   tupper: true,
   contundencia: "ligera",
@@ -860,7 +860,7 @@ window.RECETAS_SEED.push({
     "Añade el pollo y el tomate seco en tiras y sirve."
   ],
   nutricion: { kcal: 774, prot: 42, hc: 84, grasa: 30 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "rápida", "fácil", "alta en proteína"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "rápida", "fácil", "alta en proteína", "verduras escondidas", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera. La pasta sin gluten se endurece en frío: sácala 15 minutos antes o caliéntala 1-2 minutos en el microondas con una cucharada de agua. Para celíacos: cuécela en una olla y escurridor sin restos de pasta de trigo, y comprueba el sello del paquete.",
   tupper: true,
   contundencia: "contundente",
@@ -901,7 +901,7 @@ window.RECETAS_SEED.push({
     "Riega con el tamari y el aceite de sésamo, añade la tortilla y la parte verde de la cebolleta y saltea 1 minuto más."
   ],
   nutricion: { kcal: 686, prot: 26, hc: 96, grasa: 22 },
-  etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "rápida", "fácil", "económica", "para niños"],
+  etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "rápida", "fácil", "económica", "para niños", "poco especiada"],
   consejo: "Enfríalo rápido y guárdalo en la nevera un máximo de 2 días; recalienta 2-3 minutos en el microondas, hasta que humee bien, con una cucharada de agua. Para celíacos: elige jamón cocido con sello sin gluten (muchos llevan almidones o proteínas de trigo) y tamari certificado.",
   tupper: true,
   contundencia: "contundente",
@@ -944,7 +944,7 @@ window.RECETAS_SEED.push({
     "Apaga, tapa con un paño y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 616, prot: 32, hc: 68, grasa: 24 },
-  etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "una sola sartén", "fácil"],
+  etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "una sola sartén", "fácil", "poco especiada"],
   consejo: "Guárdalo en cuanto se temple y consúmelo en 2 días. Recalienta tapado 2-3 minutos en el microondas con un par de cucharadas de caldo o agua para que el grano no se reseque. Para celíacos: revisa el caldo de pollo y las alcachofas en conserva.",
   tupper: true,
   contundencia: "media",
@@ -986,7 +986,7 @@ window.RECETAS_SEED.push({
     "Fríe las hojas de salvia en una sartén con unas gotas de aceite 30 segundos, hasta que estén crujientes, y sírvelas por encima con las semillas tostadas."
   ],
   nutricion: { kcal: 440, prot: 16, hc: 58, grasa: 16 },
-  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "fácil", "otoño", "ligera"],
+  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "fácil", "otoño", "ligera", "poco especiada"],
   consejo: "A diferencia del risotto de arroz, la quinoa no se pasa al recalentar: aguanta 3 días en la nevera. Calienta 2 minutos en el microondas con un chorrito de caldo o agua. Guarda la salvia y las semillas aparte. Para celíacos: comprueba el sello de la quinoa y del caldo.",
   tupper: true,
   contundencia: "ligera",
@@ -1032,7 +1032,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo, prueba de sal y termina con el cilantro picado. Sirve con gajos de limón."
   ],
   nutricion: { kcal: 354, prot: 26, hc: 40, grasa: 10 },
-  etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "ligera"],
+  etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "ligera", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. El arroz sigue absorbiendo caldo: añade un poco de agua al recalentar 3 minutos en el microondas. Si vas a congelarla, hazlo sin el arroz y añádelo al recalentar. Para celíacos: es una versión sin fideos de la sopa tradicional; si quieres fideos, usa fideos de arroz.",
   tupper: true,
   contundencia: "ligera",
@@ -1075,7 +1075,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el resto del queso azul desmenuzado, las nueces y el cebollino picado."
   ],
   nutricion: { kcal: 390, prot: 16, hc: 32, grasa: 22 },
-  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "invierno"],
+  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "invierno", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera y se congela bien (sin las nueces). Recalienta 3 minutos en el microondas removiendo a mitad, o en un cazo a fuego suave. Para celíacos: la mayoría de quesos azules son aptos, pero comprueba la etiqueta, y lleva los toppings en un recipiente aparte.",
   tupper: true,
   contundencia: "ligera",

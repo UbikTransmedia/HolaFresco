@@ -50,7 +50,7 @@ window.RECETAS_SEED.push({
     "Apaga, deja reposar 10 minutos tapada y sirve con eneldo picado y una cucharada de smetana en cada plato."
   ],
   nutricion: { kcal: 525, prot: 35, hc: 56, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "económica", "alta en proteína"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "económica", "alta en proteína", "poco especiada"],
   consejo: "Añade el pepinillo y la salmuera solo cuando la patata ya esté tierna: el ácido detiene su cocción y se quedaría dura por mucho que hiervas. El rassolnik de Leningrado lleva cebada; en otras regiones se hace con arroz y con riñones o menudillos en lugar de pollo. Aguanta 3 días en la nevera y está mejor al día siguiente. La smetana se vende en tiendas de productos del este; la nata agria o el yogur griego la sustituyen bien.",
   tupper: true,
   contundencia: "media",
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
     "Sirve con los huevos duros en mitades o picados y una cucharada de smetana en cada plato."
   ],
   nutricion: { kcal: 410, prot: 17, hc: 45, grasa: 18 },
-  etiquetas: ["tradicional", "vegetariana", "de cuchara", "primavera", "ligera", "económica"],
+  etiquetas: ["tradicional", "vegetariana", "de cuchara", "primavera", "ligera", "económica", "poco especiada"],
   consejo: "En Ucrania se toma en mayo y junio, cuando sale la acedera tierna, y suele servirse por la fiesta de la Trinidad. La acedera se encuentra en primavera en mercados y fruterías bien surtidas, y en conserva en las tiendas de productos del este; si no la encuentras, usa espinacas y añade el zumo de limón al final para dar la acidez. Sin los huevos aguanta 2 días en la nevera; cuece los huevos al servir.",
   tupper: true,
   contundencia: "ligera",
@@ -189,7 +189,7 @@ window.RECETAS_SEED.push({
     "Reparte el queso rallado en el fondo de los platos, sirve encima la sopa muy caliente para que se funda y termina con los picatostes y el perejil picado."
   ],
   nutricion: { kcal: 490, prot: 16, hc: 55, grasa: 23 },
-  etiquetas: ["tradicional", "vegetariana", "de cuchara", "invierno", "económica"],
+  etiquetas: ["tradicional", "vegetariana", "de cuchara", "invierno", "económica", "sin verduras", "poco especiada"],
   consejo: "En Chequia y Eslovaquia la česnečka es el remedio de la abuela contra el resfriado y la sopa de la mañana después de una fiesta. La base sin queso ni picatostes aguanta 2 días en la nevera; al recalentarla añade un diente de ajo machacado más, porque el aroma del ajo crudo se pierde. Para hacerla más completa, vierte un huevo batido en hilo sobre la sopa hirviendo justo antes de servir.",
   tupper: true,
   contundencia: "media",
@@ -235,7 +235,7 @@ window.RECETAS_SEED.push({
     "Prueba: debe ser agria, ahumada y con un fondo dulce. Salpimienta y sirve con una cucharada de nata agria en cada plato."
   ],
   nutricion: { kcal: 590, prot: 20, hc: 51, grasa: 34 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "navidad", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "navidad", "batch cooking", "poco especiada"],
   consejo: "Cada familia eslovaca tiene su kapustnica: unas le añaden costilla ahumada, otras un chorrito de nata o un puñado de alubias. Como todos los guisos de chucrut, está mejor al día siguiente y aguanta 4 días en la nevera; también se congela bien. Si no encuentras kielbasa ahumada, cualquier salchicha ahumada de cerdo sirve; evita el chorizo, que taparía el sabor de las setas.",
   tupper: true,
   contundencia: "media",
@@ -277,7 +277,7 @@ window.RECETAS_SEED.push({
     "Sirve con los picatostes y el perejil picado."
   ],
   nutricion: { kcal: 350, prot: 12, hc: 33, grasa: 19 },
-  etiquetas: ["tradicional", "rápida", "vegetariana", "económica", "invierno", "ligera"],
+  etiquetas: ["tradicional", "rápida", "vegetariana", "económica", "invierno", "ligera", "sin verduras", "poco especiada"],
   consejo: "Es la sopa que se hacía en Eslovenia cuando en la despensa solo quedaban harina, manteca y algún huevo, y aún hoy se da a quien está convaleciente. Con caldo de pollo casero gana mucho. Para que no haya grumos, la regla es siempre la misma: roux caliente con líquido frío o templado, nunca los dos calientes. Cómela recién hecha: al reposar espesa demasiado y los picatostes se ablandan.",
   tupper: false,
   contundencia: "ligera",
@@ -325,7 +325,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con rodajas del otro medio limón."
   ],
   nutricion: { kcal: 468, prot: 29, hc: 31, grasa: 25 },
-  etiquetas: ["tradicional", "de cuchara", "sin lácteos", "alta en proteína", "ligera", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "sin lácteos", "alta en proteína", "ligera", "para invitados", "poco especiada", "bajo en colesterol"],
   consejo: "En la costa dálmata esta sopa abre la comida de pescado y el caldo se hace con escorpinas, el cabracho del Adriático; las espinas de merluza o de rape dan un resultado muy parecido. Hay casas que la hacen con fideos finos en lugar de arroz. Si te sobra caldo colado, congélalo para otra sopa; la sopa terminada, en cambio, tómala al momento, porque el arroz se hincha y el pescado se reseca.",
   tupper: false,
   contundencia: "ligera",
@@ -371,7 +371,7 @@ window.RECETAS_SEED.push({
     "Calienta 2 minutos a fuego muy suave, sin que llegue a hervir, o la yema se cortará en grumos: la sopa queda sedosa y de color amarillo pálido. Salpimienta y termina con perejil picado."
   ],
   nutricion: { kcal: 435, prot: 38, hc: 27, grasa: 19 },
-  etiquetas: ["tradicional", "de cuchara", "alta en proteína", "ligera", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "alta en proteína", "ligera", "invierno", "poco especiada"],
   consejo: "Begova čorba significa «sopa del bey»: se servía a los señores otomanos de Sarajevo y hoy es el primer plato de las bodas bosnias. Su ingrediente característico es la okra (bamija); si la encuentras fresca o congelada en tiendas turcas o asiáticas, úsala en lugar de las judías verdes. Aguanta 2 días en la nevera: recaliéntala a fuego suave y sin que hierva.",
   tupper: true,
   contundencia: "ligera",
@@ -420,7 +420,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado y una cucharada de yogur en cada plato."
   ],
   nutricion: { kcal: 500, prot: 30, hc: 32, grasa: 28 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "fin de semana"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "fin de semana", "poco especiada"],
   consejo: "En Serbia esta čorba se hace en primavera con cordero lechal y es plato fijo de la slava, la fiesta del santo de la familia. El cuello y la falda son cortes baratos y perfectos para sopa; con paletilla deshuesada el tiempo de cocción baja a 45 minutos. Hay casas que la ligan al final con una yema batida con nata agria en lugar de servirla con yogur. Aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -467,7 +467,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve con abundante perejil picado."
   ],
   nutricion: { kcal: 545, prot: 31, hc: 45, grasa: 26 },
-  etiquetas: ["tradicional", "de cuchara", "para niños", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "para niños", "batch cooking", "invierno", "poco especiada"],
   consejo: "La zastroika de huevo y yogur es la manera búlgara de ligar las sopas, prima del avgolemono griego pero con la acidez del yogur. La ajedrea (chubritsa) es la hierba de la cocina búlgara; se encuentra en herbolarios y tiendas de especias, y el tomillo seco es el mejor sustituto. Aguanta 2 días en la nevera: recaliéntala a fuego suave, sin que hierva.",
   tupper: true,
   contundencia: "media",
@@ -555,7 +555,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con su caldo, mucho eneldo picado, una cucharada de smetana y pimienta negra recién molida."
   ],
   nutricion: { kcal: 550, prot: 34, hc: 62, grasa: 18 },
-  etiquetas: ["creativa", "de cuchara", "para niños", "congelable", "invierno", "fin de semana"],
+  etiquetas: ["creativa", "de cuchara", "para niños", "congelable", "invierno", "fin de semana", "poco especiada"],
   consejo: "En Siberia los pelmeni se hacían por cientos al empezar el invierno y se guardaban congelados en la nieve. Haz el doble: congélalos crudos en una bandeja enharinada, sin que se toquen, y después pásalos a una bolsa; se cuecen directamente congelados en 7 u 8 minutos. Con prisa, usa obleas para empanadillas pequeñas cortadas con un vaso. Una vez cocidos no aguantan en el caldo, porque se ablandan: guarda caldo y pelmeni por separado.",
   tupper: false,
   contundencia: "media",
@@ -597,7 +597,7 @@ window.RECETAS_SEED.push({
     "Termina con un hilo de aceite y pimienta negra recién molida."
   ],
   nutricion: { kcal: 350, prot: 10, hc: 24, grasa: 24 },
-  etiquetas: ["creativa", "sin cocción", "verano", "rápida", "vegetariana", "sin gluten", "ligera"],
+  etiquetas: ["creativa", "sin cocción", "verano", "rápida", "vegetariana", "sin gluten", "ligera", "poco especiada"],
   consejo: "La šopska lleva los colores de la bandera búlgara: el blanco del queso, el verde del pepino y el pimiento y el rojo del tomate. El sirene es un queso de oveja o vaca en salmuera que se vende en tiendas de productos del este; el feta es su sustituto más cercano. La sopa sin la guarnición aguanta 2 días en la nevera en un recipiente bien cerrado; ralla el queso al servir.",
   tupper: true,
   contundencia: "ligera",
@@ -640,7 +640,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el resto del queso rallado, el trigo sarraceno crujiente y el cebollino picado."
   ],
   nutricion: { kcal: 430, prot: 20, hc: 37, grasa: 22 },
-  etiquetas: ["creativa", "vegetariana", "sin gluten", "ligera", "invierno"],
+  etiquetas: ["creativa", "vegetariana", "sin gluten", "ligera", "invierno", "poco especiada"],
   consejo: "El trigo sarraceno crujiente se guarda una semana en un tarro bien cerrado y sirve para cremas, ensaladas o yogur. Sin airfryer, hornéalo a 200 °C unos 15 minutos removiendo a mitad. El oscypek es el queso ahumado de oveja de los montes Tatra; cualquier queso ahumado que funda bien vale. La crema sin el crujiente aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
@@ -684,7 +684,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade el vodka, el zumo del medio limón, el eneldo picado y las hojitas del hinojo. Pimienta negra y a la mesa enseguida."
   ],
   nutricion: { kcal: 390, prot: 29, hc: 35, grasa: 15 },
-  etiquetas: ["creativa", "ligera", "sin gluten", "alta en proteína", "para invitados"],
+  etiquetas: ["creativa", "ligera", "sin gluten", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "Los pescadores del Volga terminaban la ukha con un vaso de vodka: limpia el regusto graso del caldo y realza el aroma del eneldo. Si cocinas para niños, añádelo con la patata para que se evapore el alcohol. No tires las cabezas: son la mitad del sabor de la sopa. Tómala recién hecha, porque los langostinos recalentados quedan duros.",
   tupper: false,
   contundencia: "ligera",
@@ -729,7 +729,7 @@ window.RECETAS_SEED.push({
     "Reparte el arroz en los platos, sirve la sopa encima y termina con eneldo picado."
   ],
   nutricion: { kcal: 450, prot: 34, hc: 45, grasa: 15 },
-  etiquetas: ["creativa", "para niños", "económica", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["creativa", "para niños", "económica", "ideal para llevar", "alta en proteína", "poco especiada"],
   consejo: "En las casas polacas la pomidorowa se hace el lunes con el caldo y el pollo que sobraron del rosół del domingo: si tienes caldo casero, úsalo. También se sirve con fideos finos en lugar de arroz. Para el tupper, guarda el arroz aparte y la sopa aguantará 3 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
@@ -776,7 +776,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado y pimienta negra recién molida."
   ],
   nutricion: { kcal: 600, prot: 40, hc: 45, grasa: 29 },
-  etiquetas: ["creativa", "alta en proteína", "invierno", "para niños"],
+  etiquetas: ["creativa", "alta en proteína", "invierno", "para niños", "poco especiada"],
   consejo: "El truco es el mismo que en el stroganoff clásico: dorar la carne muy rápido al principio y devolverla al final, para que llegue tierna y rosada por dentro. Con solomillo de cerdo o contramuslo de pollo en tiras sale igual de bien. Tómala al momento: la pasta sigue absorbiendo caldo y al día siguiente sería un guiso.",
   tupper: false,
   contundencia: "media",
@@ -823,7 +823,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con los rábanos escurridos, los picatostes, las semillas y las hojas de eneldo por encima."
   ],
   nutricion: { kcal: 460, prot: 19, hc: 63, grasa: 15 },
-  etiquetas: ["creativa", "vegana", "rápida", "primavera", "económica"],
+  etiquetas: ["creativa", "vegana", "rápida", "primavera", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Los guisantes con eneldo son un clásico de los huertos de dacha rusos y polacos; congelados están en su punto todo el año. Si no tienes rábanos, un pepino en láminas encurtido igual funciona. La crema aguanta 3 días en la nevera; guarda aparte rábanos y picatostes.",
   tupper: true,
   contundencia: "ligera",
@@ -867,7 +867,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con la kielbasa, los picatostes, el cebollino picado y pimienta recién molida."
   ],
   nutricion: { kcal: 580, prot: 20, hc: 72, grasa: 23 },
-  etiquetas: ["creativa", "invierno", "para niños", "económica", "ideal para llevar"],
+  etiquetas: ["creativa", "invierno", "para niños", "económica", "ideal para llevar", "poco especiada"],
   consejo: "La bramboračka, la sopa de patata de Bohemia, se perfuma siempre con mejorana y alcaravea, que aquí convierten una crema de patata y puerro de diario en algo muy distinto. Si no encuentras kielbasa, usa bacon ahumado en tiras. La crema sola aguanta 3 días en la nevera; al recalentarla aligérala con un poco de leche y prepara la kielbasa y los picatostes al momento.",
   tupper: true,
   contundencia: "media",
@@ -911,7 +911,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el huevo mollet abierto encima, una nuez de mantequilla de eneldo que se funda sobre la crema, los rábanos y el resto del eneldo."
   ],
   nutricion: { kcal: 350, prot: 12, hc: 40, grasa: 16 },
-  etiquetas: ["creativa", "rápida", "vegetariana", "sin gluten", "ligera", "invierno"],
+  etiquetas: ["creativa", "rápida", "vegetariana", "sin gluten", "ligera", "invierno", "poco especiada"],
   consejo: "La chirivía es una raíz habitual en las sopas de Polonia y Rusia; si no la encuentras, usa más zanahoria y un trozo de apionabo. No hiervas el kéfir, porque se corta: añádelo siempre al final. La crema sin huevo aguanta 3 días en la nevera; cuece los huevos en el momento de servir.",
   tupper: false,
   contundencia: "ligera",

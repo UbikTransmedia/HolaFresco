@@ -39,7 +39,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo en láminas con una cucharada generosa de romesco, los espárragos al lado y el limón para exprimir."
   ],
   nutricion: { kcal: 430, prot: 42, hc: 16, grasa: 22 },
-  etiquetas: ["rápida", "ligera", "a la plancha", "alta en proteína", "primavera"],
+  etiquetas: ["rápida", "ligera", "a la plancha", "alta en proteína", "primavera", "poco especiada", "bajo en colesterol"],
   consejo: "El romesco aguanta 4 días en la nevera y combina con pescado, verduras asadas o un bocadillo: haz el doble.",
   contundencia: "ligera",
   coste: "premium"
@@ -86,7 +86,7 @@ window.RECETAS_SEED.push({
     "Unta cada tortilla con crema de lima, pon lechuga en tiras, el relleno caliente y cilantro picado. Dobla los lados y enrolla apretando. Sirve con el resto de la lima."
   ],
   nutricion: { kcal: 605, prot: 46, hc: 64, grasa: 18 },
-  etiquetas: ["rápida", "ideal para llevar", "picante", "económica", "una sola sartén"],
+  etiquetas: ["rápida", "ideal para llevar", "picante", "económica", "una sola sartén", "bajo en colesterol"],
   consejo: "Para que el wrap no se abra, pon el relleno en el tercio inferior, dobla primero los lados y enrolla apretando; pásalo 30 segundos por la sartén para sellarlo.",
   contundencia: "media",
   coste: "económica"
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal, retira el romero y sirve inmediatamente en platos hondos: el arroz caldoso sigue absorbiendo líquido y no espera."
   ],
   nutricion: { kcal: 690, prot: 46, hc: 78, grasa: 22 },
-  etiquetas: ["de cuchara", "arroz", "invierno", "fin de semana"],
+  etiquetas: ["de cuchara", "arroz", "invierno", "fin de semana", "poco especiada", "bajo en colesterol"],
   consejo: "La proporción para arroz caldoso es unas 5-6 partes de caldo por 1 de arroz. Si se te queda corto de líquido, añade caldo caliente, nunca frío.",
   contundencia: "contundente",
   coste: "premium"
@@ -175,7 +175,7 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús con el pavo encima, las espinacas y la salsa de naranja, y termina con la cebolleta en aros finos."
   ],
   nutricion: { kcal: 455, prot: 44, hc: 50, grasa: 8 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "económica", "una sola sartén"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "económica", "una sola sartén", "poco especiada", "bajo en colesterol"],
   consejo: "Si tienes naranja fresca, exprímela: su acidez natural equilibra mejor la miel que el zumo envasado, que suele ser más dulce.",
   contundencia: "ligera",
   coste: "económica"
@@ -225,7 +225,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y el tomillo, rectifica de sal y sirve el pollo con su salsa sobre el puré, con el perejil picado."
   ],
   nutricion: { kcal: 780, prot: 52, hc: 56, grasa: 40 },
-  etiquetas: ["de cuchara", "invierno", "fin de semana", "batch cooking", "reconfortante"],
+  etiquetas: ["de cuchara", "invierno", "fin de semana", "batch cooking", "reconfortante", "poco especiada"],
   consejo: "Usa un vino tinto que te beberías: la salsa concentra sus sabores. Puedes marinar el pollo en el vino la noche anterior para un sabor más profundo.",
   contundencia: "contundente",
   coste: "premium"
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
     "Saltea 1 minuto las patatas y las judías en la misma sartén para que tomen la salsa, o sírvelas al lado. Termina con perejil picado y rodajas del limón restante."
   ],
   nutricion: { kcal: 430, prot: 42, hc: 32, grasa: 15 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "económica"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "económica", "poco especiada"],
   consejo: "Añade la mantequilla con el fuego apagado: si la salsa hierve después, se corta y pierde el brillo.",
   contundencia: "ligera",
   coste: "económica"
@@ -313,7 +313,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el cilantro picado y sirve enseguida con el arroz, mojándolo con el jugo del saltado."
   ],
   nutricion: { kcal: 560, prot: 42, hc: 66, grasa: 14 },
-  etiquetas: ["rápida", "alta en proteína", "económica", "picante"],
+  etiquetas: ["rápida", "alta en proteína", "económica", "picante", "bajo en colesterol"],
   consejo: "El secreto es el fuego máximo y no llenar el wok: si cocinas mucho a la vez, el pollo suelta agua y se cuece en vez de saltearse.",
   contundencia: "media",
   coste: "económica"
@@ -354,7 +354,7 @@ window.RECETAS_SEED.push({
     "Mezcla en un bol las espinacas, los cherrys partidos, las lentejas tibias y el pollo. Aliña con la vinagreta, añade la cebolla y sirve enseguida, con las espinacas apenas marchitas."
   ],
   nutricion: { kcal: 440, prot: 44, hc: 30, grasa: 16 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "ideal para llevar", "económica"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "ideal para llevar", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para llevar, guarda la vinagreta aparte y mezcla las espinacas en el último momento.",
   contundencia: "ligera",
   coste: "económica"
@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
     "Aparta del fuego, devuelve el pollo y mezcla con el pesto. Sirve con pimienta recién molida y unas hojas de albahaca."
   ],
   nutricion: { kcal: 470, prot: 45, hc: 14, grasa: 26 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "una sola sartén"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "una sola sartén", "poco especiada"],
   consejo: "No cuezas de más el calabacín: en cuanto suelta agua se vuelve blando. Calor fuerte y menos de 2 minutos.",
   contundencia: "ligera",
   coste: "premium"
@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz con el resto de la tare, el pepino escurrido, el sésamo y la parte verde de la cebolleta picada."
   ],
   nutricion: { kcal: 585, prot: 38, hc: 72, grasa: 16 },
-  etiquetas: ["para niños", "económica", "japonesa"],
+  etiquetas: ["para niños", "económica", "japonesa", "poco especiada", "bajo en colesterol"],
   consejo: "El muslo es la pieza ideal para yakitori: aguanta el glaseado sin secarse. Si usas palillos de madera, remójalos 10 minutos antes.",
   contundencia: "media",
   coste: "económica"
@@ -530,7 +530,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal, añade un chorrito de limón y sirve el tajín sobre el cuscús con las almendras y el cilantro picado."
   ],
   nutricion: { kcal: 800, prot: 50, hc: 82, grasa: 30 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "El dulzor de los dátiles necesita contraste: no te saltes el limón final ni el cilantro.",
   contundencia: "contundente",
   coste: "premium"
@@ -619,7 +619,7 @@ window.RECETAS_SEED.push({
     "Sirve la polenta en platos hondos con el pollo y su salsa por encima."
   ],
   nutricion: { kcal: 575, prot: 40, hc: 54, grasa: 22 },
-  etiquetas: ["batch cooking", "invierno", "una sola sartén"],
+  etiquetas: ["batch cooking", "invierno", "una sola sartén", "poco especiada", "bajo en colesterol"],
   consejo: "Si sobra polenta, extiéndela en una fuente, déjala cuajar en la nevera y al día siguiente córtala en barritas y dórala a la plancha.",
   contundencia: "media",
   coste: "media"
@@ -663,7 +663,7 @@ window.RECETAS_SEED.push({
     "Pon el pollo sobre los fideos, cubre con el caldo hirviendo y termina con cilantro, menta, cebolleta en aros, chile en rodajas y gajos de lima."
   ],
   nutricion: { kcal: 390, prot: 36, hc: 50, grasa: 5 },
-  etiquetas: ["ligera", "de cuchara", "económica", "alta en proteína"],
+  etiquetas: ["ligera", "de cuchara", "económica", "alta en proteína", "sin verduras", "bajo en colesterol"],
   consejo: "Tostar la cebolla y el jengibre hasta que se ennegrezcan un poco es lo que da al caldo su sabor profundo; no te asustes por el color.",
   contundencia: "ligera",
   coste: "económica"
@@ -705,7 +705,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré de coliflor con la saltimbocca encima (quita los palillos) y la salsa por encima."
   ],
   nutricion: { kcal: 410, prot: 48, hc: 16, grasa: 17 },
-  etiquetas: ["ligera", "alta en proteína", "bajo en hidratos"],
+  etiquetas: ["ligera", "alta en proteína", "bajo en hidratos", "poco especiada"],
   consejo: "Escurre muy bien la coliflor antes de triturarla: si retiene agua, el puré queda aguado. Puedes secarla 1 minuto en la cazuela al fuego.",
   contundencia: "ligera",
   coste: "media"
@@ -748,7 +748,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal, retira el laurel y sirve con el pan tostado para mojar en la salsa."
   ],
   nutricion: { kcal: 610, prot: 46, hc: 30, grasa: 34 },
-  etiquetas: ["de cuchara", "batch cooking", "fin de semana", "invierno"],
+  etiquetas: ["de cuchara", "batch cooking", "fin de semana", "invierno", "poco especiada"],
   consejo: "Como todo guiso, gana de un día para otro. Si no encuentras pimiento choricero, usa 1 cdta de pimentón dulce, aunque perderás profundidad.",
   contundencia: "media",
   coste: "premium"
@@ -796,7 +796,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos, mezcla suavemente para que se vean las capas y sirve con la cebolla crujiente reservada y el resto de hierbas."
   ],
   nutricion: { kcal: 770, prot: 44, hc: 90, grasa: 26 },
-  etiquetas: ["al horno", "fin de semana", "económica"],
+  etiquetas: ["al horno", "fin de semana", "económica", "sin verduras"],
   consejo: "El cierre hermético es la clave: el arroz termina de hacerse con el vapor de la marinada. Si tu tapa no ajusta bien, séllala con una masa de harina y agua.",
   contundencia: "contundente",
   coste: "económica"
@@ -843,7 +843,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo en trozos con el arroz con alubias, la piña asada y gajos de lima."
   ],
   nutricion: { kcal: 820, prot: 48, hc: 98, grasa: 26 },
-  etiquetas: ["picante", "a la plancha", "verano", "fin de semana"],
+  etiquetas: ["picante", "a la plancha", "verano", "fin de semana", "sin verduras"],
   consejo: "Las zonas casi quemadas son parte del estilo jerk: no tengas miedo a dejar el pollo quieto en la plancha para que se tueste bien.",
   contundencia: "contundente",
   coste: "media"
@@ -889,7 +889,7 @@ window.RECETAS_SEED.push({
     "Sirve con las claras picadas por encima y un poco de perejil."
   ],
   nutricion: { kcal: 575, prot: 52, hc: 42, grasa: 22 },
-  etiquetas: ["de cuchara", "tradicional", "batch cooking", "invierno"],
+  etiquetas: ["de cuchara", "tradicional", "batch cooking", "invierno", "poco especiada"],
   consejo: "Chascar la patata (romperla con el cuchillo en vez de cortarla limpia) suelta almidón y ayuda a espesar la salsa.",
   contundencia: "media",
   coste: "premium"
@@ -930,7 +930,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo y las verduras con el yogur, el resto del za'atar espolvoreado, el perejil picado y gajos del limón restante."
   ],
   nutricion: { kcal: 455, prot: 38, hc: 30, grasa: 20 },
-  etiquetas: ["al horno", "ligera", "batch cooking", "otoño"],
+  etiquetas: ["al horno", "ligera", "batch cooking", "otoño", "poco especiada", "bajo en colesterol"],
   consejo: "Si no encuentras za'atar, mezcla tomillo seco, sésamo tostado, una pizca de sal y ralladura de limón: no es lo mismo, pero se acerca.",
   contundencia: "ligera",
   coste: "media"
@@ -971,7 +971,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal y sirve sobre el arroz integral con la salsa y las setas."
   ],
   nutricion: { kcal: 460, prot: 44, hc: 46, grasa: 11 },
-  etiquetas: ["ligera", "alta en proteína", "otoño", "batch cooking"],
+  etiquetas: ["ligera", "alta en proteína", "otoño", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Pon el arroz integral en remojo por la mañana y se cocerá en 25 minutos.",
   contundencia: "ligera",
   coste: "media"
@@ -1019,7 +1019,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan abierto en una sartén. Rellénalo con el pavo en salsa y una parte de la ensalada, y sirve el resto de ensalada al lado."
   ],
   nutricion: { kcal: 715, prot: 50, hc: 70, grasa: 26 },
-  etiquetas: ["batch cooking", "para niños", "fin de semana", "económica"],
+  etiquetas: ["batch cooking", "para niños", "fin de semana", "económica", "poco especiada"],
   consejo: "El pavo desmenuzado se congela perfectamente en su salsa: haz el doble y tendrás bocadillos, tacos o bowls para otra semana.",
   contundencia: "contundente",
   coste: "económica"
@@ -1065,7 +1065,7 @@ window.RECETAS_SEED.push({
     "Cubre con el caldo caliente, añade el pollo, los huevos partidos por la mitad, la cebolleta en aros, el sésamo y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 750, prot: 50, hc: 74, grasa: 28 },
-  etiquetas: ["de cuchara", "invierno", "fin de semana", "japonesa"],
+  etiquetas: ["de cuchara", "invierno", "fin de semana", "japonesa", "poco especiada"],
   consejo: "El caldo es mejor si lo haces el día antes: en frío se solidifica la grasa en la superficie y puedes retirar la que quieras.",
   contundencia: "contundente",
   coste: "media"
@@ -1105,7 +1105,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan. Sirve el pollo con su jugo, las judías y los ajos: aprieta cada diente para sacar la pulpa cremosa y úntala en las tostadas."
   ],
   nutricion: { kcal: 585, prot: 44, hc: 34, grasa: 30 },
-  etiquetas: ["al horno", "económica", "fin de semana", "una sola sartén"],
+  etiquetas: ["al horno", "económica", "fin de semana", "una sola sartén", "poco especiada"],
   consejo: "Cocinado lento y tapado, el ajo pierde su picor y se vuelve dulce como una mermelada: no tengas miedo a la cantidad.",
   contundencia: "media",
   coste: "económica"

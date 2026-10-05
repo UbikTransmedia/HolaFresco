@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
     "Sirve la merluza sobre el fattoush, con el yogur a la menta al lado y una pizca más de zumaque por encima."
   ],
   nutricion: { kcal: 420, prot: 34, hc: 32, grasa: 17 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "verano"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El zumaque aporta acidez sin líquido: si no lo tienes, usa ralladura de limón con una pizca de pimentón dulce.",
   contundencia: "ligera",
   coste: "media"
@@ -259,7 +259,7 @@ window.RECETAS_SEED.push({
     "Desliza la tortilla a una tabla, córtala en porciones y sirve con el tomate y el pan."
   ],
   nutricion: { kcal: 450, prot: 35, hc: 24, grasa: 24 },
-  etiquetas: ["rápida", "ligera", "una sola sartén", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "una sola sartén", "alta en proteína", "poco especiada"],
   consejo: "Si el bacalao está algo salado, escáldalo 1 minuto en agua hirviendo, escúrrelo y desmígalo después.",
   contundencia: "ligera",
   coste: "media"
@@ -299,7 +299,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con las aceitunas negras y perejil picado por encima."
   ],
   nutricion: { kcal: 680, prot: 35, hc: 48, grasa: 38 },
-  etiquetas: ["una sola sartén", "clásico reinventado"],
+  etiquetas: ["una sola sartén", "clásico reinventado", "poco especiada"],
   consejo: "Para ahorrar tiempo puedes usar patatas paja de bolsa de buena calidad, pero añádelas al final para que no se ablanden.",
   contundencia: "contundente",
   coste: "media"
@@ -342,7 +342,7 @@ window.RECETAS_SEED.push({
     "Abre los paquetes en la mesa con cuidado con el vapor, sirve con el boniato y espolvorea sésamo y cebolleta picada."
   ],
   nutricion: { kcal: 590, prot: 37, hc: 50, grasa: 27 },
-  etiquetas: ["al horno", "sin ensuciar", "alta en proteína"],
+  etiquetas: ["al horno", "sin ensuciar", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Si los lomos son muy gruesos (más de 3 cm), alarga el horneado 3 minutos.",
   contundencia: "media",
   coste: "premium"
@@ -437,7 +437,7 @@ window.RECETAS_SEED.push({
     "Sirve los pastelitos con la ensalada de col, la salsa tártara y gajos de limón."
   ],
   nutricion: { kcal: 580, prot: 29, hc: 43, grasa: 32 },
-  etiquetas: ["para niños", "económica", "batch cooking"],
+  etiquetas: ["para niños", "económica", "batch cooking", "poco especiada"],
   consejo: "Puedes congelar los pastelitos crudos y empanados, separados con papel; fríelos sin descongelar a fuego más suave, 5 minutos por lado.",
   contundencia: "media",
   coste: "económica"
@@ -479,7 +479,7 @@ window.RECETAS_SEED.push({
     "Termina con la cebolla morada en plumas muy finas, hojas de cilantro, unas gotas del resto de aceite, y coloca el boniato y el maíz al lado."
   ],
   nutricion: { kcal: 390, prot: 30, hc: 42, grasa: 11 },
-  etiquetas: ["ligera", "sin horno", "verano", "para invitados"],
+  etiquetas: ["ligera", "sin horno", "verano", "para invitados", "bajo en colesterol"],
   consejo: "Para crudos, congela el pescado al menos 5 días a -20 °C (o cómpralo ya ultracongelado) para eliminar el riesgo de anisakis.",
   contundencia: "ligera",
   coste: "premium"
@@ -521,7 +521,7 @@ window.RECETAS_SEED.push({
     "Sirve el pescado sobre las verduras, riega todo con el aliño, unas gotas de aceite de sésamo, cebolleta en aros y cilantro."
   ],
   nutricion: { kcal: 300, prot: 36, hc: 16, grasa: 10 },
-  etiquetas: ["ligera", "picante", "alta en proteína", "sin gluten"],
+  etiquetas: ["ligera", "picante", "alta en proteína", "sin gluten", "bajo en colesterol"],
   consejo: "Si quieres un plato más completo, acompáñalo de arroz jazmín o de fideos de arroz como guarnición aparte.",
   contundencia: "ligera",
   coste: "media"
@@ -654,7 +654,7 @@ window.RECETAS_SEED.push({
     "Sirve el ajoarriero sobre las patatas confitadas con perejil picado."
   ],
   nutricion: { kcal: 540, prot: 34, hc: 52, grasa: 22 },
-  etiquetas: ["clásico", "batch cooking", "ideal para llevar"],
+  etiquetas: ["clásico", "batch cooking", "ideal para llevar", "bajo en colesterol"],
   consejo: "El ajoarriero está aún mejor de un día para otro; guárdalo aparte de las patatas y únelo al recalentar.",
   contundencia: "media",
   coste: "media"
@@ -699,7 +699,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con los jugos de la fuente."
   ],
   nutricion: { kcal: 710, prot: 37, hc: 58, grasa: 37 },
-  etiquetas: ["al horno", "económica", "para invitados", "verano"],
+  etiquetas: ["al horno", "económica", "para invitados", "verano", "poco especiada"],
   consejo: "Pide en la pescadería que te abran las sardinas en libro: te ahorras el paso más laborioso.",
   contundencia: "contundente",
   coste: "económica"
@@ -742,7 +742,7 @@ window.RECETAS_SEED.push({
     "Sirve los mejillones en boles con su caldo y las patatas al lado para mojar en la salsa."
   ],
   nutricion: { kcal: 720, prot: 30, hc: 64, grasa: 38 },
-  etiquetas: ["económica", "para compartir", "clásico"],
+  etiquetas: ["económica", "para compartir", "clásico", "poco especiada"],
   consejo: "No añadas sal a la cazuela: el agua de mar que sueltan los mejillones ya sala el caldo.",
   contundencia: "contundente",
   coste: "económica"
@@ -877,7 +877,7 @@ window.RECETAS_SEED.push({
     "Sirve el pescado con las patatas, el puré de guisantes, la salsa y gajos de limón."
   ],
   nutricion: { kcal: 610, prot: 42, hc: 66, grasa: 20 },
-  etiquetas: ["al horno", "para niños", "versión ligera"],
+  etiquetas: ["al horno", "para niños", "versión ligera", "poco especiada"],
   consejo: "Para que el panko se dore bien en el horno sin freír, mézclalo con el aceite antes de empanar: es el secreto del crujiente.",
   contundencia: "media",
   coste: "media"
@@ -966,7 +966,7 @@ window.RECETAS_SEED.push({
     "Sirve los calamares con su salsa negra, las patatas al lado y perejil picado por encima."
   ],
   nutricion: { kcal: 610, prot: 41, hc: 60, grasa: 23 },
-  etiquetas: ["de cuchara", "clásico", "batch cooking", "invierno"],
+  etiquetas: ["de cuchara", "clásico", "batch cooking", "invierno", "poco especiada"],
   consejo: "Como todos los guisos de calamar, mejora reposando: prepáralo el día antes y caliéntalo a fuego suave con un chorrito de caldo.",
   contundencia: "media",
   coste: "económica"
@@ -1011,7 +1011,7 @@ window.RECETAS_SEED.push({
     "Retira la canela y el laurel y deja reposar 10 minutos antes de servir para que la salsa espese."
   ],
   nutricion: { kcal: 610, prot: 51, hc: 50, grasa: 23 },
-  etiquetas: ["de cuchara", "para invitados", "invierno", "sin gluten"],
+  etiquetas: ["de cuchara", "para invitados", "invierno", "sin gluten", "poco especiada"],
   consejo: "El pulpo congelado es más tierno que el fresco porque la congelación rompe sus fibras: no hace falta asustarlo ni golpearlo.",
   contundencia: "media",
   coste: "premium"
@@ -1056,7 +1056,7 @@ window.RECETAS_SEED.push({
     "Sirve el jurel con las verduras y un poco de marinada, acompañado del pepino en rodajas finas."
   ],
   nutricion: { kcal: 450, prot: 37, hc: 32, grasa: 19 },
-  etiquetas: ["ligera", "económica", "batch cooking", "ideal para llevar", "verano"],
+  etiquetas: ["ligera", "económica", "batch cooking", "ideal para llevar", "verano", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera y mejora con el reposo: es un plato perfecto para tener hecho de antemano. Sirve también con caballa o sardinas.",
   contundencia: "ligera",
   coste: "económica"
@@ -1102,7 +1102,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 minutos fuera del fuego, espolvorea perejil picado y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 460, prot: 48, hc: 22, grasa: 20 },
-  etiquetas: ["para invitados", "festiva", "alta en proteína", "sin gluten"],
+  etiquetas: ["para invitados", "festiva", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "Si tienes poco tiempo, sustituye el caldo casero por caldo de pescado comprado y ahorrarás 25 minutos.",
   contundencia: "ligera",
   coste: "premium"

@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers y guarda el parmesano rallado aparte para añadirlo al servir."
   ],
   nutricion: { kcal: 390, prot: 19, hc: 44, grasa: 15 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "vegetariana", "ligera", "sin gluten", "fácil", "económica", "invierno"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "vegetariana", "ligera", "sin gluten", "fácil", "económica", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 5 días en la nevera y 3 meses congelada sin el parmesano. Descongela en la nevera y recalienta 3 minutos a 800 W removiendo a mitad. Si tienes una corteza de parmesano, cuécela con la sopa y retírala al final: da mucho sabor.",
   tupper: true
 });
@@ -88,7 +88,7 @@ window.RECETAS_SEED.push({
     "Deja reposar el pastel 10 minutos, córtalo en 6 rebanadas y reparte con el puré."
   ],
   nutricion: { kcal: 560, prot: 52, hc: 25, grasa: 28 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "sin gluten", "para niños"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "sin gluten", "para niños", "poco especiada"],
   consejo: "Aguanta 4 días en la nevera. Congela las rebanadas separadas con papel de horno hasta 3 meses y el puré aparte. Descongela en la nevera y recalienta tapado 2 minutos a 600 W. Frío está muy rico en bocadillo.",
   tupper: true
 });
@@ -135,7 +135,7 @@ window.RECETAS_SEED.push({
     "Añade el cilantro y reparte con el arroz en tuppers."
   ],
   nutricion: { kcal: 560, prot: 40, hc: 64, grasa: 16 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "picante", "sin gluten", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "picante", "sin gluten", "fácil", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y 3 meses congelado (mejor sin el arroz). Descongela en la nevera y recalienta 2-3 minutos a 800 W tapado. Enfría el arroz extendido antes de guardarlo para que no pase más de una hora a temperatura ambiente.",
   tupper: true
 });
@@ -178,7 +178,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers el arroz con edamame, el salmón, el encurtido escurrido, la cebolleta picada y el sésamo."
   ],
   nutricion: { kcal: 630, prot: 40, hc: 61, grasa: 25 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "sin gluten", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "sin gluten", "fácil", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera y está pensado para comerse frío. Si lo prefieres templado, calienta solo el arroz y el salmón 1,5 minutos a 600 W y añade el encurtido después. El arroz con edamame se puede congelar 2 meses; el salmón, mejor fresco.",
   tupper: true
 });
@@ -223,7 +223,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, retira el laurel, deja reposar 5 minutos y reparte en tuppers."
   ],
   nutricion: { kcal: 445, prot: 40, hc: 49, grasa: 10 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "sin gluten", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "sin gluten", "fácil", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera. Se puede congelar 2 meses, aunque la patata queda algo más harinosa; descongela en la nevera. Recalienta tapado 3 minutos a 700 W con un chorrito de agua o caldo.",
   tupper: true
 });
@@ -268,7 +268,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, añade el perejil picado y reparte en tuppers."
   ],
   nutricion: { kcal: 425, prot: 39, hc: 45, grasa: 10 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "sin gluten", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "sin gluten", "fácil", "poco especiada"],
   consejo: "Con marisco, aguanta 3 días en la nevera. Para congelar, guarda las lentejas sin las gambas (3 meses) y añádelas al recalentar en un cazo. El guiso completo, recaliéntalo tapado 2-3 minutos a 700 W con un chorrito de agua. Revisa que el caldo de pescado sea sin gluten.",
   tupper: true
 });
@@ -278,7 +278,7 @@ window.RECETAS_SEED.push({
   nombre: "Pastel de quinoa, calabacín y queso feta al horno en porciones",
   subtitulo: "cuadrados jugosos con menta que se comen fríos o templados",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   contundencia: "ligera",
   coste: "media",
@@ -310,7 +310,7 @@ window.RECETAS_SEED.push({
     "Deja templar 10 minutos y corta en 6 cuadrados antes de repartir."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 42, grasa: 21 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegetariana", "ligera", "alta en proteína", "sin gluten", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegetariana", "ligera", "alta en proteína", "sin gluten", "fácil", "verduras escondidas", "poco especiada"],
   consejo: "Aguanta 4 días en la nevera y 2 meses congelado en porciones envueltas. Descongela en la nevera. Se come frío, o templado con 40-60 segundos a 600 W. Acompáñalo con una ensalada verde para completar el plato.",
   tupper: true
 });
@@ -320,7 +320,7 @@ window.RECETAS_SEED.push({
   nombre: "Albóndigas veganas de alubias negras y champiñones en salsa de tomate al chipotle con arroz",
   subtitulo: "horneadas, sin freír, con un toque ahumado y picante",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "latinoamericana",
   contundencia: "media",
   coste: "económica",
@@ -355,7 +355,7 @@ window.RECETAS_SEED.push({
     "Pasa las albóndigas a la salsa, cuece 3 minutos, añade el cilantro y reparte con el arroz."
   ],
   nutricion: { kcal: 630, prot: 27, hc: 100, grasa: 14 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegana", "picante", "sin gluten"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegana", "picante", "sin gluten", "verduras escondidas", "bajo en colesterol"],
   consejo: "Aguantan 4 días en la nevera y 3 meses congeladas en su salsa. Descongela en la nevera y recalienta tapado 3 minutos a 700 W sin remover fuerte para que no se rompan. Revisa que el chipotle en adobo sea sin gluten.",
   tupper: true
 });
@@ -398,7 +398,7 @@ window.RECETAS_SEED.push({
     "Mezcla el bulgur con las verduras, las hierbas y el aliño; el bulgur aguanta bien aliñado. Reparte en tuppers con el pavo encima."
   ],
   nutricion: { kcal: 560, prot: 43, hc: 57, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "fácil", "verano"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "fácil", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y mejora al reposar porque el bulgur absorbe el aliño. No se congela montada; el pavo asado sí, 2 meses. Se come fría. Para hacerla sin gluten, cambia el bulgur por quinoa.",
   tupper: true
 });
@@ -441,7 +441,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers y coloca el huevo encima."
   ],
   nutricion: { kcal: 565, prot: 38, hc: 56, grasa: 21 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "rápida", "alta en proteína", "fácil", "económica", "verano"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "rápida", "alta en proteína", "fácil", "económica", "verano", "poco especiada"],
   consejo: "Aguanta 3-4 días en la nevera; si la vas a comer el cuarto día, pela el huevo ese mismo día. No se congela. Se come fría; si la pasta ha absorbido el aliño, añade un chorrito de aceite o vinagre antes de comer.",
   tupper: true
 });
@@ -485,7 +485,7 @@ window.RECETAS_SEED.push({
     "Apaga y deja reposar 10 minutos tapado. Remueve de abajo arriba, aplasta los ajos para repartirlos y sirve o reparte."
   ],
   nutricion: { kcal: 740, prot: 45, hc: 89, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "sin gluten", "una sola olla", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "sin gluten", "una sola olla", "fácil", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera: extiéndelo en una bandeja para que se enfríe rápido (menos de una hora) antes de taparlo. Se congela 2 meses. Recalienta tapado 3 minutos a 800 W con 2 cucharadas de agua. También puedes hacerlo en el horno a 180 °C, tapado, durante la cocción del arroz.",
   tupper: true
 });
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
     "Mezcla los fideos, el edamame, el pollo y las verduras con la salsa, espolvorea el sésamo y reparte en tuppers."
   ],
   nutricion: { kcal: 600, prot: 50, hc: 69, grasa: 14 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "rápida", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "rápida", "fácil", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y se come fría. Si los fideos se apelmazan, suéltalos con una cucharada de agua o un chorrito de lima. No se congela. Los soba suelen llevar trigo: si necesitas sin gluten, usa soba 100 % trigo sarraceno o fideos de arroz y tamari.",
   tupper: true
 });
@@ -576,7 +576,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y reparte en tuppers."
   ],
   nutricion: { kcal: 635, prot: 46, hc: 64, grasa: 21 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "sin gluten", "fácil", "económica", "para niños"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "sin gluten", "fácil", "económica", "para niños", "poco especiada"],
   consejo: "Aguanta 4 días en la nevera y 2 meses congelada en porciones. Descongela en la nevera y recalienta tapada 3 minutos a 800 W con 1-2 cucharadas de leche o agua por encima para que el arroz no se seque.",
   tupper: true
 });
@@ -621,7 +621,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y reparte en tuppers."
   ],
   nutricion: { kcal: 410, prot: 39, hc: 39, grasa: 11 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "ligera", "alta en proteína", "sin gluten", "fácil", "para niños"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "ligera", "alta en proteína", "sin gluten", "fácil", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y 2 meses congelado (la patata pierde algo de textura). Descongela en la nevera y recalienta tapado 3 minutos a 700 W. La salsa sirve también para pasta o arroz.",
   tupper: true
 });
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con la menta picada y sal. Reparte el guiso con el bulgur y guarda el yogur aparte."
   ],
   nutricion: { kcal: 660, prot: 41, hc: 61, grasa: 28 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "fácil", "invierno"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "fácil", "invierno", "poco especiada"],
   consejo: "Aguanta 4 días en la nevera y 3 meses congelado. En frío, retira con una cuchara la grasa que solidifica en la superficie: el guiso queda más ligero. Recalienta tapado 3 minutos a 800 W y añade el yogur frío al comer. Sin gluten: cambia el bulgur por arroz.",
   tupper: true
 });
@@ -761,7 +761,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el perejil y reparte en tuppers con cuidado."
   ],
   nutricion: { kcal: 550, prot: 34, hc: 45, grasa: 26 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "alta en proteína", "sin gluten", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "alta en proteína", "sin gluten", "fácil", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera. Como el salmón queda justo, termina de hacerse al recalentar: 2 minutos a 600 W tapado. Para congelar, guarda la base de patata sin el pescado (3 meses) y añade el salmón al calentarla en un cazo.",
   tupper: true
 });
@@ -803,7 +803,7 @@ window.RECETAS_SEED.push({
     "Reparte la crema en tuppers y guarda el huevo duro picado aparte."
   ],
   nutricion: { kcal: 355, prot: 22, hc: 26, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "vegetariana", "ligera", "alta en proteína", "sin gluten", "fácil", "económica"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "vegetariana", "ligera", "alta en proteína", "sin gluten", "fácil", "económica", "superalimentos", "poco especiada"],
   consejo: "La crema aguanta 4 días en la nevera y 3 meses congelada (sin el huevo). Recalienta 3 minutos a 800 W removiendo. Los huevos duros pelados aguantan 3-4 días en la nevera en un recipiente cerrado.",
   tupper: true
 });
@@ -813,7 +813,7 @@ window.RECETAS_SEED.push({
   nombre: "Gratín de coliflor y garbanzos al ras el hanout con tomate y feta",
   subtitulo: "coliflor asada bañada en salsa especiada y gratinada con queso",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   contundencia: "ligera",
   coste: "media",
@@ -855,7 +855,7 @@ window.RECETAS_SEED.push({
   nombre: "Estofado de garbanzos y boniato con crema de cacahuete y espinacas",
   subtitulo: "inspirado en el maafe de África occidental, versión vegana",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "fusión",
   contundencia: "media",
   coste: "media",
@@ -891,7 +891,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers y guarda los cacahuetes picados aparte para añadirlos al servir."
   ],
   nutricion: { kcal: 575, prot: 23, hc: 71, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "vegana", "picante", "sin gluten", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "vegana", "picante", "sin gluten", "fácil", "superalimentos", "bajo en colesterol"],
   consejo: "Aguanta 5 días en la nevera y 3 meses congelado. Espesa al enfriarse, así que añade un poco de agua y recalienta 3 minutos a 800 W removiendo. Acompáñalo con arroz o cuscús si buscas un plato más contundente.",
   tupper: true
 });
@@ -901,7 +901,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu marinado al za'atar al horno con verduras asadas y bulgur al limón",
   subtitulo: "una bandeja de horno y un bol: comida vegana para cuatro días",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "oriente-medio",
   contundencia: "ligera",
   coste: "media",
@@ -934,7 +934,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers y deja enfriar destapado antes de cerrarlos para que no se condense agua."
   ],
   nutricion: { kcal: 460, prot: 27, hc: 45, grasa: 19 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegana", "ligera", "alta en proteína", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegana", "ligera", "alta en proteína", "fácil", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 5 días en la nevera. El tofu horneado puede congelarse 2 meses, aunque queda más esponjoso. Cómelo frío como ensalada o recalienta 2 minutos a 700 W. Sin gluten: cambia el bulgur por quinoa.",
   tupper: true
 });
@@ -978,7 +978,7 @@ window.RECETAS_SEED.push({
     "Termina con la ralladura y el zumo del limón y el perejil picado. Prueba de sal y reparte en tuppers."
   ],
   nutricion: { kcal: 455, prot: 40, hc: 40, grasa: 15 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "sin gluten", "fácil", "económica"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "sin gluten", "fácil", "económica", "poco especiada"],
   consejo: "Aguanta 4 días en la nevera y 3 meses congelado. Descongela en la nevera y recalienta 3 minutos a 800 W con un chorrito de agua. Añade un poco más de limón al recalentar para avivar el sabor.",
   tupper: true
 });
@@ -1024,7 +1024,7 @@ window.RECETAS_SEED.push({
     "Añade el perejil picado y reparte con el arroz en tuppers."
   ],
   nutricion: { kcal: 500, prot: 44, hc: 52, grasa: 13 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "sin gluten", "fácil"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "sin gluten", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera; la maicena evita que el yogur se corte al recalentar 2 minutos a 600 W, removiendo a mitad. Si quieres congelar, hazlo antes de añadir el yogur (3 meses) y agrégalo al recalentar.",
   tupper: true
 });
@@ -1068,7 +1068,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers."
   ],
   nutricion: { kcal: 620, prot: 46, hc: 67, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "fácil", "económica", "para niños"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "fácil", "económica", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y 2 meses congelada (la pasta queda algo más blanda). Recalienta 2-3 minutos a 800 W con un chorrito de agua. La salsa de tomate asado sola se congela de maravilla: haz el doble.",
   tupper: true
 });
@@ -1112,7 +1112,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers; el cilantro y la lima, al servir."
   ],
   nutricion: { kcal: 430, prot: 37, hc: 45, grasa: 11 },
-  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "sin gluten", "fácil", "económica", "invierno"],
+  etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "sin gluten", "fácil", "económica", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y 3 meses congelada. La quinoa sigue absorbiendo caldo, así que al recalentar añade un poco de agua o caldo y calienta 3 minutos a 800 W. Si eres celíaco, usa caldo con sello sin gluten.",
   tupper: true
 });

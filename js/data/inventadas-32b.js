@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Reparte por encima el bonito en lascas grandes, las almendras y el perejil, y riega con el resto de la vinagreta."
   ],
   nutricion: { kcal: 690, prot: 37, hc: 41, grasa: 41 },
-  etiquetas: ["sin gluten", "sin cocción", "tupper", "ideal para llevar", "verano", "sin lácteos"],
+  etiquetas: ["sin gluten", "sin cocción", "tupper", "ideal para llevar", "verano", "sin lácteos", "superalimentos", "poco especiada"],
   consejo: "Garbanzos de bote, bonito y piquillos suelen ser aptos, pero confirma que la etiqueta no indique «puede contener trazas de gluten». Para el tupper, lleva la vinagreta aparte y aliña al comer.",
   contundencia: "contundente",
   coste: "media",
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con su jugo (la leche de tigre), el resto del cilantro y los totopos para acompañar."
   ],
   nutricion: { kcal: 400, prot: 32, hc: 35, grasa: 14 },
-  etiquetas: ["sin gluten", "sin cocción", "ligera", "verano", "sin lácteos", "alta en proteína"],
+  etiquetas: ["sin gluten", "sin cocción", "ligera", "verano", "sin lácteos", "alta en proteína", "bajo en colesterol"],
   consejo: "Compra totopos 100 % maíz con sello sin gluten: muchos se fríen en el mismo aceite que productos de trigo. El ceviche no se guarda, porque la lima sigue «cocinando» el pescado y se vuelve gomoso.",
   contundencia: "ligera",
   coste: "media",
@@ -128,7 +128,7 @@ window.RECETAS_SEED.push({
     "Monta con un aro: una capa de aguacate y encima el tartar, apretando ligeramente. Retira el aro y espolvorea el sésamo y la parte verde de la cebolleta. Sirve con la mayonesa picante y las tortitas de arroz para ir cargando cada bocado."
   ],
   nutricion: { kcal: 615, prot: 34, hc: 27, grasa: 40 },
-  etiquetas: ["sin gluten", "sin cocción", "sin lácteos", "para invitados", "omega 3"],
+  etiquetas: ["sin gluten", "sin cocción", "sin lácteos", "para invitados", "omega 3", "superalimentos"],
   consejo: "Las tortitas de arroz inflado son naturalmente sin gluten, pero muchas se fabrican junto a tortitas de espelta o multicereales: compra las que lleven la espiga barrada. Comprueba también la sriracha y la mayonesa.",
   contundencia: "media",
   coste: "premium",
@@ -216,7 +216,7 @@ window.RECETAS_SEED.push({
     "Sirve en boles con el queso de cabra desmenuzado, los pistachos picados, unas hojas de albahaca y un hilo de aceite."
   ],
   nutricion: { kcal: 420, prot: 13, hc: 29, grasa: 28 },
-  etiquetas: ["sin gluten", "sin cocción", "tupper", "verano", "vegetariana", "ligera"],
+  etiquetas: ["sin gluten", "sin cocción", "tupper", "verano", "vegetariana", "ligera", "detox", "superalimentos", "poco especiada"],
   consejo: "La remolacha cocida envasada al vacío es apta; evita las que vienen en vinagreta preparada sin indicar «sin gluten». Si quieres un plato más saciante, acompáñalo de pan sin gluten. Aguanta 3 días en la nevera sin los toppings.",
   contundencia: "ligera",
   coste: "económica",
@@ -262,7 +262,7 @@ window.RECETAS_SEED.push({
     "Riega con la salsa, espolvorea el sésamo y la cebolleta y sirve enseguida."
   ],
   nutricion: { kcal: 560, prot: 26, hc: 41, grasa: 32 },
-  etiquetas: ["sin gluten", "sin cocción", "sin lácteos", "rápida", "omega 3"],
+  etiquetas: ["sin gluten", "sin cocción", "sin lácteos", "rápida", "omega 3", "superalimentos", "poco especiada"],
   consejo: "El salmón ahumado suele ser apto, pero algunos marinados llevan aromas o salsa de soja: revisa la etiqueta. Si compras quinoa cocida, que indique «sin gluten», porque a veces se envasa en líneas con bulgur o cuscús.",
   contundencia: "media",
   coste: "premium",
@@ -307,7 +307,7 @@ window.RECETAS_SEED.push({
     "Termina con las nueces troceadas, el perejil picado y el resto de la vinagreta."
   ],
   nutricion: { kcal: 610, prot: 35, hc: 48, grasa: 31 },
-  etiquetas: ["sin gluten", "sin cocción", "tupper", "ideal para llevar", "sin lácteos", "omega 3"],
+  etiquetas: ["sin gluten", "sin cocción", "tupper", "ideal para llevar", "sin lácteos", "omega 3", "superalimentos", "poco especiada"],
   consejo: "Si no tienes caballa, sirve igual con sardinas o atún. Comprueba que la mostaza no lleve harina ni cerveza. Para el tupper, lleva los canónigos en un recipiente aparte.",
   contundencia: "media",
   coste: "económica",
@@ -318,7 +318,7 @@ window.RECETAS_SEED.push({
   id: "inv-1593",
   nombre: "Tabulé de coliflor cruda con garbanzos, granada, menta y feta",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "ensaladas",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -351,7 +351,7 @@ window.RECETAS_SEED.push({
     "Sirve con el feta desmenuzado y los granos de granada por encima."
   ],
   nutricion: { kcal: 420, prot: 17, hc: 34, grasa: 23 },
-  etiquetas: ["sin gluten", "sin cocción", "tupper", "ligera", "vegetariana", "verano"],
+  etiquetas: ["sin gluten", "sin cocción", "tupper", "ligera", "vegetariana", "verano", "detox", "superalimentos", "poco especiada"],
   consejo: "Esta versión sustituye el bulgur, que lleva gluten, por coliflor cruda. Comprueba que el zumaque sea puro o con sello. Aguanta 2 días en la nevera; añade el tomate y el feta al servir.",
   contundencia: "ligera",
   coste: "económica",
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
   id: "inv-1594",
   nombre: "Bol de hummus casero con garbanzos al comino, crudités y pan sin gluten",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "oriente-medio",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
     "Sirve con las crudités y el pan sin gluten cortado en triángulos para mojar."
   ],
   nutricion: { kcal: 750, prot: 22, hc: 72, grasa: 41 },
-  etiquetas: ["sin gluten", "sin cocción", "vegana", "tupper", "batch cooking", "económica"],
+  etiquetas: ["sin gluten", "sin cocción", "vegana", "tupper", "batch cooking", "económica", "superalimentos", "poco especiada"],
   consejo: "El tahini es solo sésamo, pero confirma que el bote no comparta línea con productos de trigo. Unta el pan sin gluten en una tabla limpia, sin migas de pan normal. El hummus aguanta 4 días en la nevera: prepara el doble.",
   contundencia: "contundente",
   coste: "económica",
@@ -438,7 +438,7 @@ window.RECETAS_SEED.push({
     "Riega con el resto de la vinagreta y termina con unas escamas de sal."
   ],
   nutricion: { kcal: 440, prot: 24, hc: 8, grasa: 34 },
-  etiquetas: ["sin gluten", "sin cocción", "ligera", "rápida", "para invitados", "verano"],
+  etiquetas: ["sin gluten", "sin cocción", "ligera", "rápida", "para invitados", "verano", "keto", "poco especiada"],
   consejo: "El jamón ibérico y el parmesano son naturalmente sin gluten. Si en casa hay pan normal, corta el jamón en una tabla limpia: las migas son la principal fuente de contaminación cruzada.",
   contundencia: "ligera",
   coste: "premium",
@@ -479,7 +479,7 @@ window.RECETAS_SEED.push({
     "Riega con la vinagreta y unas escamas de sal justo antes de servir."
   ],
   nutricion: { kcal: 350, prot: 22, hc: 12, grasa: 23 },
-  etiquetas: ["sin gluten", "sin cocción", "ligera", "rápida", "verano", "sin lácteos"],
+  etiquetas: ["sin gluten", "sin cocción", "ligera", "rápida", "verano", "sin lácteos", "keto", "poco especiada", "bajo en colesterol"],
   consejo: "La ventresca en aceite de oliva es apta; revisa igualmente que la etiqueta no indique trazas. Si la acompañas con pan, que sea sin gluten y cortado en una tabla aparte.",
   contundencia: "ligera",
   coste: "premium",
@@ -491,7 +491,7 @@ window.RECETAS_SEED.push({
   nombre: "Ensalada tailandesa de col y tofu con aliño de cacahuete y lima",
   subtitulo: "con lombarda, zanahoria, menta y cilantro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "ensaladas",
   cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -525,7 +525,7 @@ window.RECETAS_SEED.push({
     "Añade el tofu con su marinada y sirve con los cacahuetes picados por encima."
   ],
   nutricion: { kcal: 500, prot: 29, hc: 28, grasa: 30 },
-  etiquetas: ["sin gluten", "sin cocción", "vegana", "tupper", "ideal para llevar", "alta en proteína", "picante"],
+  etiquetas: ["sin gluten", "sin cocción", "vegana", "tupper", "ideal para llevar", "alta en proteína", "picante", "superalimentos"],
   consejo: "Aguanta 2-3 días en la nevera sin perder el crujiente: la col lo soporta todo. Guarda los cacahuetes aparte. Usa tamari certificado sin gluten y comprueba la etiqueta de los cacahuetes tostados, que a veces se rebozan.",
   contundencia: "media",
   coste: "económica",
@@ -568,7 +568,7 @@ window.RECETAS_SEED.push({
     "Sirve el gazpacho muy frío con el salmón, los rábanos, las hierbas y una vuelta de pimienta."
   ],
   nutricion: { kcal: 385, prot: 17, hc: 14, grasa: 28 },
-  etiquetas: ["sin gluten", "sin cocción", "ligera", "verano", "rápida", "omega 3"],
+  etiquetas: ["sin gluten", "sin cocción", "ligera", "verano", "rápida", "omega 3", "keto", "superalimentos", "poco especiada"],
   consejo: "Aguanta 2 días en la nevera sin los toppings; remueve antes de servir, porque el aguacate puede oscurecer un poco la superficie. Si lo acompañas con picos o crackers, que sean sin gluten.",
   contundencia: "ligera",
   coste: "media",
@@ -656,7 +656,7 @@ window.RECETAS_SEED.push({
     "Desenvuelve y córtalo por la mitad: los jugos habrán empapado el pan sin deshacerlo."
   ],
   nutricion: { kcal: 690, prot: 22, hc: 66, grasa: 37 },
-  etiquetas: ["sin gluten", "sin cocción", "tupper", "ideal para llevar", "picnic", "sin lácteos"],
+  etiquetas: ["sin gluten", "sin cocción", "tupper", "ideal para llevar", "picnic", "sin lácteos", "poco especiada"],
   consejo: "El pan sin gluten se desmiga más que el de trigo: el prensado lo compacta y le da una textura estupenda. Prepáralo en una tabla y con un cuchillo que no hayan tocado pan normal. Aguanta hasta el día siguiente en la nevera.",
   contundencia: "contundente",
   coste: "media",
@@ -698,7 +698,7 @@ window.RECETAS_SEED.push({
     "Riega con la vinagreta y termina con los pistachos, la menta y pimienta recién molida."
   ],
   nutricion: { kcal: 540, prot: 28, hc: 25, grasa: 36 },
-  etiquetas: ["sin gluten", "sin cocción", "rápida", "verano", "para invitados"],
+  etiquetas: ["sin gluten", "sin cocción", "rápida", "verano", "para invitados", "poco especiada"],
   consejo: "Elige vinagre balsámico de Módena que indique «sin gluten»; casi todos lo son, pero algunos llevan colorante de caramelo de origen dudoso. Es un plato para montar y comer al momento.",
   contundencia: "media",
   coste: "media",
@@ -739,7 +739,7 @@ window.RECETAS_SEED.push({
     "Espolvorea perejil picado y sirve con el pan sin gluten para mojar en el aceite."
   ],
   nutricion: { kcal: 545, prot: 20, hc: 36, grasa: 35 },
-  etiquetas: ["sin gluten", "sin cocción", "tupper", "verano", "tradicional", "sin lácteos"],
+  etiquetas: ["sin gluten", "sin cocción", "tupper", "verano", "tradicional", "sin lácteos", "poco especiada"],
   consejo: "Si compras bacalao desalado ya preparado, comprueba que no esté enharinado ni sea «para rebozar». El esgarraet mejora de un día para otro y aguanta 3 días cubierto de aceite en la nevera.",
   contundencia: "media",
   coste: "media",
@@ -750,7 +750,7 @@ window.RECETAS_SEED.push({
   id: "inv-1603",
   nombre: "Bol de yogur salado con garbanzos al za'atar, pepino, tomate y nueces",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "ensaladas",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -782,7 +782,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el resto del za'atar y sirve enseguida, mezclando cada cucharada para que lleve un poco de todo."
   ],
   nutricion: { kcal: 560, prot: 17, hc: 34, grasa: 40 },
-  etiquetas: ["sin gluten", "sin cocción", "rápida", "vegetariana", "económica"],
+  etiquetas: ["sin gluten", "sin cocción", "rápida", "vegetariana", "económica", "superalimentos", "poco especiada"],
   consejo: "El za'atar es una mezcla de tomillo, zumaque y sésamo, pero algunas versiones comerciales llevan trigo tostado o harina de relleno: compra uno certificado o mézclalo tú. Si quieres pan, que sea sin gluten.",
   contundencia: "media",
   coste: "económica",
@@ -827,7 +827,7 @@ window.RECETAS_SEED.push({
     "Ralla el cheddar por encima, riega con el aliño ranchero y sirve."
   ],
   nutricion: { kcal: 660, prot: 50, hc: 22, grasa: 40 },
-  etiquetas: ["sin gluten", "sin cocción", "tupper", "alta en proteína", "aprovechamiento"],
+  etiquetas: ["sin gluten", "sin cocción", "tupper", "alta en proteína", "aprovechamiento", "poco especiada"],
   consejo: "Muchos pollos asados de supermercado se rellenan o pintan con salsas que pueden llevar gluten: pregunta o usa el que hayas asado en casa. Para el tupper, lleva el aliño y el aguacate aparte y monta al comer.",
   contundencia: "contundente",
   coste: "media",
@@ -870,7 +870,7 @@ window.RECETAS_SEED.push({
     "Termina con las hojas de hinojo y un poco más de ralladura de limón."
   ],
   nutricion: { kcal: 500, prot: 31, hc: 38, grasa: 24 },
-  etiquetas: ["sin gluten", "sin cocción", "tupper", "económica", "omega 3", "sin lácteos"],
+  etiquetas: ["sin gluten", "sin cocción", "tupper", "económica", "omega 3", "sin lácteos", "superalimentos", "poco especiada"],
   consejo: "Las sardinas en aceite de oliva son aptas; evita las que vengan en salsa sin indicar «sin gluten». Aguanta 2 días en el tupper y el hinojo sigue crujiente.",
   contundencia: "media",
   coste: "económica",
@@ -911,7 +911,7 @@ window.RECETAS_SEED.push({
     "Riega con el aliño de pimentón y termina con perejil picado y unas escamas de sal."
   ],
   nutricion: { kcal: 395, prot: 20, hc: 21, grasa: 25 },
-  etiquetas: ["sin gluten", "sin cocción", "ligera", "tupper", "sin lácteos", "alta en proteína"],
+  etiquetas: ["sin gluten", "sin cocción", "ligera", "tupper", "sin lácteos", "alta en proteína", "poco especiada"],
   consejo: "El pulpo cocido envasado es apto en la mayoría de marcas; comprueba que no venga con salsas añadidas. Aliñado aguanta 2 días en el tupper: añade los canónigos al servir.",
   contundencia: "ligera",
   coste: "premium",
@@ -923,7 +923,7 @@ window.RECETAS_SEED.push({
   nombre: "Bol vegano de tofu ahumado, quinoa, kale masajeado y aliño de tahini",
   subtitulo: "con garbanzos, lombarda, aguacate y pipas de calabaza",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "ensaladas",
   cocina: "fusión",
   momentos: ["comida"],
   proteina: "tofu",
@@ -957,7 +957,7 @@ window.RECETAS_SEED.push({
     "Riega con el aliño de tahini y termina con las semillas de calabaza."
   ],
   nutricion: { kcal: 770, prot: 37, hc: 61, grasa: 41 },
-  etiquetas: ["sin gluten", "sin cocción", "vegana", "tupper", "batch cooking", "alta en proteína"],
+  etiquetas: ["sin gluten", "sin cocción", "vegana", "tupper", "batch cooking", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "El tofu ahumado puede llevar salsa de soja con trigo en la marinada: busca uno que indique «sin gluten». Para llevar, monta el tupper sin aguacate y con el aliño aparte; el kale masajeado aguanta 3 días.",
   contundencia: "contundente",
   coste: "media",
@@ -969,7 +969,7 @@ window.RECETAS_SEED.push({
   nombre: "Carpaccio de champiñones con rúcula, parmesano, nueces y limón",
   subtitulo: "con pan sin gluten",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["cena"],
   proteina: "queso",
@@ -999,7 +999,7 @@ window.RECETAS_SEED.push({
     "Termina con escamas de sal y sirve con el pan sin gluten."
   ],
   nutricion: { kcal: 435, prot: 17, hc: 18, grasa: 32 },
-  etiquetas: ["sin gluten", "sin cocción", "ligera", "rápida", "vegetariana"],
+  etiquetas: ["sin gluten", "sin cocción", "ligera", "rápida", "vegetariana", "poco especiada"],
   consejo: "El parmesano curado es naturalmente sin gluten. Si sigues una dieta baja en FODMAP, este plato no te conviene: los champiñones son ricos en polioles.",
   contundencia: "ligera",
   coste: "media",
@@ -1040,7 +1040,7 @@ window.RECETAS_SEED.push({
     "Sirve el gazpacho muy frío con las gambas por encima y un último hilo de aceite."
   ],
   nutricion: { kcal: 350, prot: 20, hc: 20, grasa: 21 },
-  etiquetas: ["sin gluten", "sin cocción", "tupper", "ligera", "verano"],
+  etiquetas: ["sin gluten", "sin cocción", "tupper", "ligera", "verano", "poco especiada"],
   consejo: "El gazpacho tradicional lleva pan: esta versión no lo necesita, porque el melocotón aporta cuerpo. Si no tienes gambas cocidas, ponle dados de bonito en conserva. Aguanta 3 días en la nevera sin las gambas.",
   contundencia: "ligera",
   coste: "media",
@@ -1086,7 +1086,7 @@ window.RECETAS_SEED.push({
     "Riega con el resto del aceite, añade unas cucharadas de crema de mostaza y las nueces troceadas. Sirve con el pan sin gluten."
   ],
   nutricion: { kcal: 680, prot: 39, hc: 38, grasa: 40 },
-  etiquetas: ["sin gluten", "sin cocción", "rápida", "alta en proteína"],
+  etiquetas: ["sin gluten", "sin cocción", "rápida", "alta en proteína", "poco especiada"],
   consejo: "Muchos fiambres llevan almidones o proteínas de trigo: compra rosbif con la espiga barrada o córtalo de una pieza asada en casa. Las mostazas a la antigua pueden llevar vinagre de malta o cerveza: revísalas.",
   contundencia: "contundente",
   coste: "media",

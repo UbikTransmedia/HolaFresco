@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Calienta el pan de pita en una sartén seca y sirve el shiro muy caliente para comerlo con el pan, a pellizcos."
   ],
   nutricion: { kcal: 550, prot: 16, hc: 65, grasa: 25 },
-  etiquetas: ["tradicional", "vegana", "económica", "picante", "de cuchara"],
+  etiquetas: ["tradicional", "vegana", "económica", "picante", "de cuchara", "sin verduras", "bajo en colesterol"],
   consejo: "Si no tienes berbere, mezcla 2 cdta de pimentón dulce, 1/2 de pimentón picante y una pizca de jengibre molido, cardamomo, canela, clavo y fenogreco. En Eritrea se termina con un chorrito de mantequilla especiada (niter kibbeh) los días que no son de ayuno. Aguanta 3 días en la nevera: espesa al enfriarse, recaliéntalo con agua.",
   tupper: true,
   contundencia: "media",
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Sirve las alubias con el plátano frito al lado."
   ],
   nutricion: { kcal: 670, prot: 18, hc: 82, grasa: 30 },
-  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "picante"],
+  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "picante", "sin verduras"],
   consejo: "En Ghana se sirve espolvoreado con gari (sémola de mandioca tostada) que absorbe la salsa; puedes usar un poco de pan rallado tostado. El aceite de palma rojo se encuentra en tiendas africanas y latinas (como aceite de dendê). Las alubias aguantan 3 días en la nevera; fríe el plátano al momento.",
   tupper: true,
   contundencia: "contundente",
@@ -125,7 +125,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré con dos o tres cucharadas generosas de salsa por encima y el pan al lado."
   ],
   nutricion: { kcal: 810, prot: 28, hc: 105, grasa: 31 },
-  etiquetas: ["tradicional", "vegana", "económica", "picante", "batch cooking"],
+  etiquetas: ["tradicional", "vegana", "económica", "picante", "batch cooking", "sin verduras"],
   consejo: "Es comida callejera de Lagos: las vendedoras, que en su origen eran de Togo (agoyin), la sirven con pan o con plátano frito. La salsa aguanta 2 semanas en un tarro en la nevera y se usa como condimento. Si no encuentras carillas, sirve con alubias pintas, aunque tardan más en deshacerse.",
   tupper: true,
   contundencia: "contundente",
@@ -169,7 +169,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve con cilantro picado por encima."
   ],
   nutricion: { kcal: 500, prot: 18, hc: 71, grasa: 16 },
-  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "batch cooking", "ideal para llevar"],
+  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "batch cooking", "ideal para llevar", "superalimentos", "bajo en colesterol"],
   consejo: "El githeri original se hace con maíz blanco seco y judías cocidas juntos durante horas; en España el maíz cocido en bote o el maíz dulce de lata lo dejan listo en media hora (el dulce le da un punto más goloso). En Kenia se come también frito al día siguiente con huevo. Aguanta 4 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "media",
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
     "Retira el chile y sirve el alicha con el arroz."
   ],
   nutricion: { kcal: 615, prot: 23, hc: 98, grasa: 15 },
-  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "batch cooking", "para niños"],
+  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "batch cooking", "para niños", "sin verduras", "superalimentos", "bajo en colesterol"],
   consejo: "Alicha son los guisos sin berbere, perfumados solo con cúrcuma y jengibre; en Etiopía se sirve junto a un wat picante sobre injera. Para un final más auténtico, termina con una cucharada de mantequilla derretida con una pizca de cardamomo y fenogreco (así se aproxima el niter kibbeh). Se congela perfectamente.",
   tupper: true,
   contundencia: "media",
@@ -388,7 +388,7 @@ window.RECETAS_SEED.push({
     "Pica los cacahuetes groseramente. Corta el aguacate en dados justo antes de servir y añádelo con los cacahuetes por encima."
   ],
   nutricion: { kcal: 620, prot: 21, hc: 48, grasa: 38 },
-  etiquetas: ["creativa", "sin cocción", "rápida", "verano", "vegana", "sin gluten", "ideal para llevar"],
+  etiquetas: ["creativa", "sin cocción", "rápida", "verano", "vegana", "sin gluten", "ideal para llevar", "superalimentos"],
   consejo: "El kachumbari acompaña en Kenia y Tanzania la carne a la brasa (nyama choma) y el pilau; aquí hace de aliño completo. Si lo llevas en tupper, guarda el aguacate y los cacahuetes aparte y añádelos al comer: el resto aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -432,7 +432,7 @@ window.RECETAS_SEED.push({
     "Apaga, deja reposar 5 minutos y sirve en platos hondos con pimienta negra recién molida."
   ],
   nutricion: { kcal: 535, prot: 18, hc: 80, grasa: 16 },
-  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "de cuchara", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "de cuchara", "batch cooking", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La cachupa rica lleva además chorizo, panceta o pescado y el maíz seco se cuece desde la víspera. Lo mejor llega al día siguiente: la cachupa refogada, frita en sartén hasta que se tuesta, con un huevo frito encima, es el desayuno típico de las islas. Aguanta 4 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "media",
@@ -523,7 +523,7 @@ window.RECETAS_SEED.push({
     "Añade las gambas a la matapa y cocina 3-4 minutos, solo hasta que se vuelvan rosadas y opacas. Prueba de sal y sirve con el arroz."
   ],
   nutricion: { kcal: 820, prot: 45, hc: 70, grasa: 40 },
-  etiquetas: ["tradicional", "sin gluten", "alta en proteína"],
+  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "poco especiada"],
   consejo: "En Mozambique se hace con hojas tiernas de yuca machacadas en el pilón, que necesitan una hora de cocción; las encontrarás congeladas y ya molidas en tiendas africanas. También existe con cangrejo o solo de verduras. Aguanta 2 días en la nevera: añade las gambas al recalentar si la preparas antes.",
   tupper: true,
   contundencia: "contundente",
@@ -660,7 +660,7 @@ window.RECETAS_SEED.push({
     "Esparce la cebolleta y el perejil picados por encima y sirve con el arroz."
   ],
   nutricion: { kcal: 605, prot: 35, hc: 67, grasa: 22 },
-  etiquetas: ["tradicional", "sin gluten", "batch cooking"],
+  etiquetas: ["tradicional", "sin gluten", "batch cooking", "bajo en colesterol"],
   consejo: "La rougaille es la salsa criolla de Mauricio, Reunión y Seychelles; se hace igual con salchichas, gambas o huevos duros. En Mauricio la acompañan con arroz, lentejas guisadas y un encurtido picante (achard de verduras). Aguanta 3 días en la nevera y mejora de un día para otro.",
   tupper: true,
   contundencia: "media",
@@ -706,7 +706,7 @@ window.RECETAS_SEED.push({
     "Sirve la caballa con una cucharada de shito por encima y la ensalada al lado."
   ],
   nutricion: { kcal: 545, prot: 32, hc: 10, grasa: 42 },
-  etiquetas: ["creativa", "sin gluten", "picante", "alta en proteína"],
+  etiquetas: ["creativa", "sin gluten", "picante", "alta en proteína", "keto"],
   consejo: "En Ghana el shito acompaña el arroz, el kenkey o el pescado frito, y se hace en grandes cantidades: dobla la receta y guárdalo en un tarro cubierto de aceite, aguanta un mes en la nevera. Las gambas secas se venden en tiendas asiáticas y africanas. La caballa se come al momento: recalentada pierde la piel crujiente.",
   tupper: false,
   contundencia: "media",
@@ -745,7 +745,7 @@ window.RECETAS_SEED.push({
     "Deja reposar el atún 2 minutos, córtalo en lonchas de 1 cm y sírvelo sobre el timatim con su jugo."
   ],
   nutricion: { kcal: 380, prot: 37, hc: 10, grasa: 21 },
-  etiquetas: ["creativa", "rápida", "ligera", "alta en proteína", "sin gluten", "picante", "verano"],
+  etiquetas: ["creativa", "rápida", "ligera", "alta en proteína", "sin gluten", "picante", "verano", "bajo en colesterol"],
   consejo: "Si no encuentras berbere, mezcla 1 cdta de pimentón dulce, 1/2 de pimentón picante y una pizca de comino, cardamomo, jengibre molido y canela. El timatim es la ensalada fresca que acompaña los guisos etíopes; a veces se mezcla con trozos de injera (timatim fitfit). El atún se come al momento.",
   tupper: false,
   contundencia: "ligera",
@@ -789,7 +789,7 @@ window.RECETAS_SEED.push({
     "Sirve la merluza con su salsa y los gajos de boniato."
   ],
   nutricion: { kcal: 500, prot: 33, hc: 56, grasa: 16 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "picante", "batch cooking"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "picante", "batch cooking", "verduras escondidas", "bajo en colesterol"],
   consejo: "El obe ata (o «stew») es la base de media cocina nigeriana y yoruba: con él se hacen el jollof, los guisos de pollo y los de pescado frito. Haz el doble y congela la mitad en raciones. Si buscas menos picante, cambia el habanero por media guindilla fresca.",
   tupper: true,
   contundencia: "media",
@@ -837,7 +837,7 @@ window.RECETAS_SEED.push({
     "Reposa 5 minutos, retira el laurel y sirve con cuartos de lima."
   ],
   nutricion: { kcal: 690, prot: 37, hc: 75, grasa: 27 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "picante", "para invitados"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "picante", "para invitados", "verduras escondidas"],
   consejo: "El jollof al horno es el truco de los cocineros de fiesta en Lagos y Accra: el arroz se cuece parejo sin pegarse. Si te gusta el «party jollof» ahumado, deja que se tueste el fondo en el fuego 2 minutos al sacarlo del horno. Sin el pescado, el arroz aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -881,7 +881,7 @@ window.RECETAS_SEED.push({
     "Sirve los langostinos sobre el arroz, rocíalos con el resto de la salsa piri-piri y acompaña con la ensalada de mango."
   ],
   nutricion: { kcal: 740, prot: 38, hc: 82, grasa: 29 },
-  etiquetas: ["creativa", "airfryer", "picante", "sin gluten"],
+  etiquetas: ["creativa", "airfryer", "picante", "sin gluten", "sin verduras"],
   consejo: "El piri-piri es la guindilla pequeña que los portugueses llevaron a Mozambique, y de allí sale la salsa; los camarões piri-piri a la brasa son el plato estrella de Maputo. Si no tienes airfryer, hazlos en una sartén muy caliente, 2 minutos por lado. La salsa aguanta una semana en la nevera.",
   tupper: false,
   contundencia: "contundente",
@@ -976,7 +976,7 @@ window.RECETAS_SEED.push({
     "Deja reposar el bobotie 5 minutos, córtalo en porciones y sírvelo con el arroz amarillo."
   ],
   nutricion: { kcal: 885, prot: 51, hc: 85, grasa: 38 },
-  etiquetas: ["tradicional", "al horno", "para niños", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "para niños", "batch cooking", "sin verduras"],
   consejo: "El bobotie lo llevaron a Ciudad del Cabo los esclavos y cocineros traídos de Indonesia y Malasia, y es casi plato nacional. Se sirve con arroz amarillo con pasas, chutney y rodajas de plátano. Aguanta 3 días en la nevera y se congela en porciones; también se hace con cordero picado.",
   tupper: true,
   contundencia: "contundente",
@@ -1114,7 +1114,7 @@ window.RECETAS_SEED.push({
     "Sirve los medallones con la salsa, el arroz y las brèdes."
   ],
   nutricion: { kcal: 670, prot: 50, hc: 54, grasa: 28 },
-  etiquetas: ["creativa", "sin gluten", "para invitados", "alta en proteína"],
+  etiquetas: ["creativa", "sin gluten", "para invitados", "alta en proteína", "poco especiada"],
   consejo: "Madagascar produce la mayor parte de la vainilla del mundo y en la isla se usa también con pato, pollo y langostinos. Las brèdes son las verduras de hoja salteadas o en caldo que acompañan el arroz en cada comida malgache y mauriciana. Lava la vaina usada, sécala y guárdala en el azúcar para aromatizarlo.",
   tupper: false,
   contundencia: "contundente",

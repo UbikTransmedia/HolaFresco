@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con el salmón y el pak choi, rocía con el aceite de sésamo y termina con sésamo, cebollino picado y un gajo de lima."
   ],
   nutricion: { kcal: 630, prot: 37, hc: 53, grasa: 30 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "rápida", "alta en proteína", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "rápida", "alta en proteína", "fácil", "poco especiada"],
   consejo: "Para celíacos, usa tamari con sello sin gluten: algunos tamaris llevan trigo. Sin airfryer, hornea el salmón a 200 °C 10–12 minutos.",
   contundencia: "media",
   coste: "premium",
@@ -86,7 +86,7 @@ window.RECETAS_SEED.push({
     "Abre los paquetes en la mesa con cuidado con el vapor y termina con perejil picado y un chorrito del jugo del fondo."
   ],
   nutricion: { kcal: 410, prot: 29, hc: 34, grasa: 18 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "ligera", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "ligera", "fácil", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si usas merluza congelada, descongélala en la nevera la víspera y sécala bien para que no suelte agua en el paquete. Revisa que las aceitunas no lleven aliño con ajo.",
   contundencia: "ligera",
   coste: "media",
@@ -128,7 +128,7 @@ window.RECETAS_SEED.push({
     "Espolvorea perejil picado y sirve directamente de la fuente, con el jugo que haya quedado en el fondo."
   ],
   nutricion: { kcal: 560, prot: 35, hc: 42, grasa: 28 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "fácil", "poco especiada"],
   consejo: "Para el tupper, guarda el bacalao sobre las patatas y recalienta tapado a media potencia para que no se seque. Usa pimentón con certificado sin gluten si eres celíaco.",
   contundencia: "media",
   coste: "media",
@@ -221,7 +221,7 @@ window.RECETAS_SEED.push({
     "Rellena cada tortilla con lechuga en tiras, pepino en bastoncitos, gambas y piña. Corona con la crema de lima y hojas de cilantro."
   ],
   nutricion: { kcal: 520, prot: 29, hc: 49, grasa: 23 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "fácil", "poco especiada"],
   consejo: "Comprueba que las tortillas sean 100 % de maíz y con sello sin gluten: muchas marcas mezclan harina de trigo. La mayonesa industrial puede llevar ajo; mira la etiqueta.",
   contundencia: "media",
   coste: "media",
@@ -264,7 +264,7 @@ window.RECETAS_SEED.push({
     "Reposa 5 minutos fuera del horno, espolvorea perejil picado y sirve con el jugo por encima."
   ],
   nutricion: { kcal: 715, prot: 37, hc: 45, grasa: 43 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "batch cooking", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "batch cooking", "fácil", "poco especiada"],
   consejo: "Las patatas absorben el jugo de limón y quedan aún mejor al día siguiente: recalienta en el horno o en la airfryer para recuperar el tostado.",
   contundencia: "contundente",
   coste: "económica",
@@ -308,7 +308,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con su salsa sobre el arroz y termina con perejil picado."
   ],
   nutricion: { kcal: 660, prot: 45, hc: 70, grasa: 22 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Ideal para dejar programado por la mañana. Duplica cantidades y congela raciones de pollo con salsa; el arroz cuécelo siempre en el momento.",
   contundencia: "contundente",
   coste: "económica",
@@ -353,7 +353,7 @@ window.RECETAS_SEED.push({
     "Sirve el cerdo con su jugo junto al arroz y el plátano, y termina con cilantro picado."
   ],
   nutricion: { kcal: 790, prot: 36, hc: 92, grasa: 31 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "fácil", "sin verduras", "poco especiada"],
   consejo: "El mojo cubano clásico lleva mucho ajo; aquí el aceite de ajo aporta el aroma sin los fructanos. La carne desmenuzada aguanta 3 días en la nevera y se congela muy bien con su jugo.",
   contundencia: "contundente",
   coste: "económica",
@@ -398,7 +398,7 @@ window.RECETAS_SEED.push({
     "Reparte albahaca fresca rota con los dedos y sirve las albóndigas con su salsa y las patatas al lado."
   ],
   nutricion: { kcal: 570, prot: 42, hc: 49, grasa: 23 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "para niños", "batch cooking", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "para niños", "batch cooking", "fácil", "poco especiada"],
   consejo: "Si no tienes pan rallado sin gluten, usa 30 g de copos de avena sin gluten triturados. Revisa que el tomate triturado no lleve cebolla ni ajo añadidos.",
   contundencia: "media",
   coste: "económica",
@@ -445,7 +445,7 @@ window.RECETAS_SEED.push({
     "Apaga, rocía con el aceite de sésamo y sirve con los cacahuetes picados por encima."
   ],
   nutricion: { kcal: 675, prot: 43, hc: 70, grasa: 25 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "tupper", "alta en proteína", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "tupper", "alta en proteína", "fácil", "poco especiada"],
   consejo: "Comprueba que los fideos de arroz sean solo de arroz: algunos llevan mezcla de trigo. Para el tupper, añade un chorrito de agua al recalentar para que los fideos no se peguen.",
   contundencia: "contundente",
   coste: "media",
@@ -457,7 +457,7 @@ window.RECETAS_SEED.push({
   nombre: "Tortilla francesa rellena de espinacas y queso manchego",
   subtitulo: "con ensalada de tomate y pepino y pan sin gluten tostado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -488,7 +488,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan sin gluten en la sartén limpia 1 minuto por lado y sirve junto a la tortilla y la ensalada."
   ],
   nutricion: { kcal: 465, prot: 20, hc: 25, grasa: 32 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "fácil", "poco especiada"],
   consejo: "Si en casa hay pan con gluten, usa una sartén o tostador exclusivo para el sin gluten: las migas en la tostadora compartida bastan para contaminarlo.",
   contundencia: "ligera",
   coste: "económica",
@@ -500,7 +500,7 @@ window.RECETAS_SEED.push({
   nombre: "Frittata al horno de pimientos asados, espinacas y parmesano",
   subtitulo: "con patata en láminas y ensalada de rúcula",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -532,7 +532,7 @@ window.RECETAS_SEED.push({
     "Deja templar 5 minutos, corta en porciones y sirve con la rúcula aliñada con el resto del aceite."
   ],
   nutricion: { kcal: 445, prot: 25, hc: 25, grasa: 27 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "ideal para llevar", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "ideal para llevar", "fácil", "poco especiada"],
   consejo: "Se come igual de bien fría al día siguiente, así que es perfecta para tupper. El parmesano curado es naturalmente casi sin lactosa.",
   contundencia: "ligera",
   coste: "económica",
@@ -575,7 +575,7 @@ window.RECETAS_SEED.push({
     "Prueba y ajusta con más limón si lo quieres más fresco."
   ],
   nutricion: { kcal: 445, prot: 14, hc: 46, grasa: 23 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "tupper", "ideal para llevar", "verano", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "tupper", "ideal para llevar", "verano", "fácil", "detox", "poco especiada"],
   consejo: "Para el tupper, guarda el feta y la menta aparte y mézclalos al comer. La quinoa es naturalmente sin gluten, pero compra una envasada con sello para evitar trazas de otros cereales.",
   contundencia: "ligera",
   coste: "media",
@@ -616,7 +616,7 @@ window.RECETAS_SEED.push({
     "Añade los tomates cherry partidos y el pollo, riega con el resto de la vinagreta y termina con cebollino picado."
   ],
   nutricion: { kcal: 510, prot: 38, hc: 35, grasa: 24 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "tupper", "ideal para llevar", "alta en proteína", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "tupper", "ideal para llevar", "alta en proteína", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Algunas mostazas llevan harina o ajo en polvo: elige una de Dijon con sello sin gluten y lista de ingredientes corta (mostaza, vinagre, sal).",
   contundencia: "media",
   coste: "económica",
@@ -659,7 +659,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con un hilo de aceite de ajo, las semillas y cebollino picado."
   ],
   nutricion: { kcal: 405, prot: 14, hc: 28, grasa: 26 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "tupper", "batch cooking", "ligera", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "tupper", "batch cooking", "ligera", "fácil", "poco especiada"],
   consejo: "No uses pastillas de caldo: casi todas llevan cebolla, ajo y a veces gluten. El queso curado aporta el sabor que falta.",
   contundencia: "ligera",
   coste: "media",
@@ -702,7 +702,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos fuera del horno antes de servir."
   ],
   nutricion: { kcal: 765, prot: 31, hc: 79, grasa: 36 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "invierno", "batch cooking"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "invierno", "batch cooking", "poco especiada"],
   consejo: "Los caldos comerciales suelen llevar cebolla, ajo y a veces gluten: hazlo casero (carcasa de pollo, zanahoria y laurel) o busca uno etiquetado bajo en FODMAP y sin gluten. Recalienta el arroz con un chorrito de agua.",
   contundencia: "contundente",
   coste: "económica",
@@ -744,7 +744,7 @@ window.RECETAS_SEED.push({
     "Incorpora el calabacín dorado, sirve enseguida con las nueces, la albahaca, el resto del aceite de ajo y pimienta."
   ],
   nutricion: { kcal: 615, prot: 17, hc: 69, grasa: 30 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "rápida", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "rápida", "fácil", "verduras escondidas", "poco especiada"],
   consejo: "La pasta sin gluten se pasa muy rápido y se pega al enfriarse: sírvela recién hecha y no la dejes reposar. Si convives con pasta de trigo, usa escurridor y cucharas propios.",
   contundencia: "media",
   coste: "media",
@@ -788,7 +788,7 @@ window.RECETAS_SEED.push({
     "Sirve con las gambas encima, cebollino picado y unas gotas de zumo de limón."
   ],
   nutricion: { kcal: 565, prot: 29, hc: 67, grasa: 19 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "alta en proteína"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "alta en proteína", "poco especiada"],
   consejo: "El risotto no se recalienta bien: hazlo en el momento. La mantequilla y el parmesano tienen muy poca lactosa y suelen tolerarse en dieta baja en FODMAP.",
   contundencia: "media",
   coste: "media",
@@ -800,7 +800,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu crujiente en airfryer con salsa de piquillos y almendra",
   subtitulo: "y patatas al pimentón también hechas en la airfryer",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "fusión",
   momentos: ["comida"],
   proteina: "tofu",
@@ -831,7 +831,7 @@ window.RECETAS_SEED.push({
     "Sirve el tofu y las patatas con la salsa de piquillos en la base y perejil picado por encima."
   ],
   nutricion: { kcal: 730, prot: 37, hc: 49, grasa: 43 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "vegano", "alta en proteína", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "vegano", "alta en proteína", "fácil", "verduras escondidas", "poco especiada"],
   consejo: "Comprueba que el tofu sea solo soja, agua y coagulante; los tofus marinados pueden llevar salsa de soja con trigo. Sin airfryer, hornea a 220 °C con ventilador, tiempos un 30 % más largos.",
   contundencia: "contundente",
   coste: "media",
@@ -843,7 +843,7 @@ window.RECETAS_SEED.push({
   nombre: "Curry de berenjena, espinacas y tofu con leche de coco",
   subtitulo: "con jengibre, garam masala y arroz basmati",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -889,7 +889,7 @@ window.RECETAS_SEED.push({
   nombre: "Patatas asadas al microondas rellenas de huevo revuelto, espinacas y cheddar",
   subtitulo: "con tomate cherry y cebollino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "americana",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -918,7 +918,7 @@ window.RECETAS_SEED.push({
     "Rellena con el revuelto, cubre con el cheddar, calienta 30 segundos para que se funda y termina con los tomates cherry partidos y cebollino picado."
   ],
   nutricion: { kcal: 425, prot: 20, hc: 46, grasa: 18 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "microondas", "rápida", "para niños", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "microondas", "rápida", "para niños", "fácil", "poco especiada"],
   consejo: "El cheddar curado tiene trazas mínimas de lactosa. Si cocinas para un celíaco, usa un plato y un bol que no se hayan usado para gratinar pan en ese momento.",
   contundencia: "ligera",
   coste: "económica",
@@ -963,7 +963,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el zumo de medio limón y el aceite de ajo y ajusta de sal y pimienta. Sirve con cebollino y perejil picados."
   ],
   nutricion: { kcal: 380, prot: 32, hc: 32, grasa: 14 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "tupper", "batch cooking", "invierno", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "tupper", "batch cooking", "invierno", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Al recalentarla, el arroz absorbe caldo: añade un poco de agua. Este caldo casero es la base perfecta para otras recetas sin gluten ni FODMAP; congélalo en raciones.",
   contundencia: "ligera",
   coste: "económica",
@@ -1004,7 +1004,7 @@ window.RECETAS_SEED.push({
     "Mezcla espinacas, quinoa, fresas y pepino con la vinagreta, reparte en dos platos y coloca encima el queso caliente y las semillas."
   ],
   nutricion: { kcal: 465, prot: 19, hc: 30, grasa: 30 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "ligera", "verano", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "ligera", "verano", "fácil", "superalimentos", "poco especiada"],
   consejo: "Algunos vinagres balsámicos baratos llevan caramelo o espesantes: revisa que pongan sin gluten. El queso de cabra curado en rulo suele tolerarse bien en dieta baja en FODMAP en esta cantidad.",
   contundencia: "ligera",
   coste: "media",
@@ -1047,7 +1047,7 @@ window.RECETAS_SEED.push({
     "Sirve con cuidado, añade el resto del aceite de ajo, virutas de parmesano y hojas de albahaca."
   ],
   nutricion: { kcal: 420, prot: 15, hc: 40, grasa: 22 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "tupper", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "tupper", "fácil", "poco especiada"],
   consejo: "Para el tupper, guarda la sopa sin el huevo y escálfalo al recalentar. Es la alternativa sin gluten a las sopas de tomate con pan.",
   contundencia: "ligera",
   coste: "económica",
@@ -1088,7 +1088,7 @@ window.RECETAS_SEED.push({
     "Sirve con las hojitas de hinojo picadas y el jugo de la fuente por encima."
   ],
   nutricion: { kcal: 560, prot: 36, hc: 46, grasa: 26 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "fácil"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "fácil", "poco especiada"],
   consejo: "El bulbo de hinojo es bajo en FODMAP en raciones moderadas como esta (unos 75 g por persona); no aumentes la cantidad si eres sensible.",
   contundencia: "media",
   coste: "premium",

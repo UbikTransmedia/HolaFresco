@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
     "Saca los huevos, pélalos (la clara estará tostada y la yema cremosa, como un huevo haminado) y pártelos por la mitad. Sirve el cholent en plato hondo con medio huevo por encima."
   ],
   nutricion: { kcal: 698, prot: 27, hc: 89, grasa: 26 },
-  etiquetas: ["olla lenta", "slow cooker", "sin vigilancia", "de cuchara", "vegetariana", "batch cooking", "tupper", "económica", "invierno"],
+  etiquetas: ["olla lenta", "slow cooker", "sin vigilancia", "de cuchara", "vegetariana", "batch cooking", "tupper", "económica", "invierno", "sin verduras", "poco especiada"],
   consejo: "Los huevos haminados son la gran lección de la olla lenta: cocidos horas a menos de 100 °C dentro del guiso, la clara toma color de café y la yema queda cremosa en vez de gris y harinosa. Puedes enterrar huevos con cáscara en cualquier potaje de cocción larga. Las alubias blancas aguantan bien la olla lenta tras su remojo; las rojas, en cambio, necesitan hervir 10 minutos antes porque sus lectinas solo se destruyen a ebullición franca.",
   contundencia: "contundente",
   coste: "económica"
@@ -91,7 +91,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y las ramas de tomillo, prueba de sal y sirve con el pan."
   ],
   nutricion: { kcal: 706, prot: 24, hc: 94, grasa: 26 },
-  etiquetas: ["olla lenta", "slow cooker", "sin vigilancia", "de cuchara", "vegana", "otoño", "tupper", "batch cooking"],
+  etiquetas: ["olla lenta", "slow cooker", "sin vigilancia", "de cuchara", "vegana", "otoño", "tupper", "batch cooking", "poco especiada"],
   consejo: "Sala las legumbres secas a mitad o al final de la cocción en olla lenta: el ácido del tomate y la sal al principio pueden endurecer la piel del garbanzo y alargar mucho el tiempo. Esta regla vale para cualquier legumbre seca en cocción lenta.",
   contundencia: "contundente",
   coste: "media"
@@ -138,7 +138,7 @@ window.RECETAS_SEED.push({
     "Vierte la tadka caliente sobre el dal justo antes de servir: el aceite caliente despierta los aromas que la cocción larga había apagado. Termina con unas gotas de limón y sirve con el arroz."
   ],
   nutricion: { kcal: 746, prot: 26, hc: 111, grasa: 22 },
-  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "de cuchara", "tupper", "económica", "alta en fibra"],
+  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "de cuchara", "tupper", "económica", "alta en fibra", "superalimentos", "bajo en colesterol"],
   consejo: "La tadka (especias fritas en grasa caliente al final) es el truco para cualquier guiso de cocción larga que sepa plano: los aromas volátiles se pierden tras horas de cocción, y añadirlos al final en aceite caliente los devuelve. Pruébala sobre lentejas, cremas de verduras o un hummus.",
   contundencia: "contundente",
   coste: "económica"
@@ -185,7 +185,7 @@ window.RECETAS_SEED.push({
     "Termina las judías con el vinagre: un toque ácido final ilumina los guisos ahumados y largos. Sirve el arroz en el fondo del plato y las judías con su caldo por encima."
   ],
   nutricion: { kcal: 702, prot: 25, hc: 101, grasa: 22 },
-  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "de cuchara", "tupper", "económica", "año nuevo"],
+  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "de cuchara", "tupper", "económica", "año nuevo", "superalimentos", "bajo en colesterol"],
   consejo: "El pimentón ahumado es el sustituto vegetal del tocino en guisos de legumbre: una cucharadita por persona da ese fondo ahumado. Y el chorrito de vinagre al final es un truco universal: si un guiso largo sabe «pesado», casi siempre le falta acidez, no sal.",
   contundencia: "contundente",
   coste: "económica"
@@ -227,7 +227,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos tapado antes de servir, templado: en Grecia este tipo de guiso con aceite (lathera) se come tibio, cuando los sabores están más redondos."
   ],
   nutricion: { kcal: 540, prot: 21, hc: 53, grasa: 27 },
-  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "primavera", "tupper", "de cuchara"],
+  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "primavera", "tupper", "de cuchara", "poco especiada"],
   consejo: "El agua con limón es el truco para cualquier verdura que se oxida al cortarla (alcachofa, aguacate, manzana, patata pelada): el ácido frena la enzima que la oscurece. Si usas alcachofas en conserva, añádelas solo los últimos 20 minutos porque ya vienen cocidas.",
   contundencia: "media",
   coste: "media"
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmón sobre las patatas escurridas, pon encima una cucharada de mantequilla de limón y termina con el resto del eneldo."
   ],
   nutricion: { kcal: 552, prot: 34, hc: 32, grasa: 32 },
-  etiquetas: ["olla lenta", "slow cooker", "baja temperatura", "sin gluten", "alta en proteína", "omega 3", "para invitados"],
+  etiquetas: ["olla lenta", "slow cooker", "baja temperatura", "sin gluten", "alta en proteína", "omega 3", "para invitados", "poco especiada"],
   consejo: "La olla lenta en LOW es un baño a baja temperatura casero: el pescado se cocina por igual de fuera a dentro y no suelta esa albúmina blanca que aparece cuando se cuece fuerte. Sirve para cualquier pescado graso (salmón, trucha, bonito). Y la mantequilla compuesta (mantequilla blanda + hierbas + cítrico) se guarda en rulo en el congelador para salsear al momento carnes y verduras.",
   contundencia: "media",
   coste: "premium"
@@ -406,7 +406,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y sirve la brandada tibia con perejil picado por encima, para untar en las tostas."
   ],
   nutricion: { kcal: 841, prot: 40, hc: 60, grasa: 49 },
-  etiquetas: ["olla lenta", "slow cooker", "confitado", "para compartir", "tupper", "técnica"],
+  etiquetas: ["olla lenta", "slow cooker", "confitado", "para compartir", "tupper", "técnica", "sin verduras", "poco especiada"],
   consejo: "Para emulsionar cualquier crema con aceite (brandada, alioli, hummus, puré de patata a la francesa), los ingredientes deben estar a temperatura parecida y el aceite entrar poco a poco. La brandada aguanta 3 días en la nevera: gratínala unos minutos en el horno para servirla otra vez.",
   contundencia: "contundente",
   coste: "media"
@@ -450,7 +450,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade la hierbabuena y el perejil picados y mueve la olla en círculos, sin remover con cuchara, para no romper el pescado. Sirve en plato hondo."
   ],
   nutricion: { kcal: 506, prot: 39, hc: 38, grasa: 22 },
-  etiquetas: ["olla lenta", "slow cooker", "sin gluten", "sin lactosa", "primavera", "de cuchara", "alta en proteína"],
+  etiquetas: ["olla lenta", "slow cooker", "sin gluten", "sin lactosa", "primavera", "de cuchara", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Las habas congeladas son de las mejores verduras de congelador: se recogen en su punto y no necesitan descongelarse. Si tienes tiempo, quítales la piel después de cocerlas (basta un pellizco): quedan de un verde brillante y mucho más finas. El rape aguanta bien el guiso porque no se desmigaja; con merluza, reduce el tiempo final a 15 minutos.",
   contundencia: "media",
   coste: "premium"
@@ -461,7 +461,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu braseado al estilo hongshao con setas shiitake y arroz jazmín en olla lenta",
   subtitulo: "el «estofado rojo» chino: soja, azúcar y anís estrellado hasta lacar el tofu",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   momentos: ["comida"],
   proteina: "tofu",
@@ -508,7 +508,7 @@ window.RECETAS_SEED.push({
   nombre: "Pimientos rellenos de arroz, alubias negras y maíz en olla lenta con salsa de tomate al comino",
   subtitulo: "el arroz entra crudo y se cuece dentro del pimiento con el jugo de la salsa",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -542,7 +542,7 @@ window.RECETAS_SEED.push({
     "Sirve cada pimiento con la salsa del fondo por encima, cilantro picado y un gajo de lima para exprimir."
   ],
   nutricion: { kcal: 575, prot: 18, hc: 92, grasa: 15 },
-  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "tupper", "económica", "para niños"],
+  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "tupper", "económica", "para niños", "bajo en colesterol"],
   consejo: "Para rellenar con arroz crudo (pimientos, tomates, calabacines, hojas de col), deja siempre un cuarto de hueco y asegúrate de que el relleno lleve líquido: el grano lo necesita para cocerse. Congelados ya cocidos aguantan 3 meses y se recalientan en el microondas tapados.",
   contundencia: "media",
   coste: "económica"
@@ -553,7 +553,7 @@ window.RECETAS_SEED.push({
   nombre: "Maghmour libanés de berenjena, garbanzos y tomate en olla lenta con pan de pita",
   subtitulo: "la «musaca» del Líbano: berenjena melosa, garbanzos y menta seca",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -586,7 +586,7 @@ window.RECETAS_SEED.push({
     "Sírvelo templado, como se toma en el Líbano, con perejil picado por encima y el pan de pita para coger el guiso con la mano."
   ],
   nutricion: { kcal: 592, prot: 21, hc: 82, grasa: 20 },
-  etiquetas: ["olla lenta", "slow cooker", "vegana", "tupper", "económica", "verano", "batch cooking"],
+  etiquetas: ["olla lenta", "slow cooker", "vegana", "tupper", "económica", "verano", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Salar la berenjena 20 minutos antes de cocinarla sirve en cualquier receta donde vaya a absorber aceite o soltar agua (frita, a la plancha, en guiso): pierde humedad y amargor y queda más cremosa. El maghmour está aún mejor al día siguiente, frío o templado.",
   contundencia: "media",
   coste: "económica"
@@ -597,7 +597,7 @@ window.RECETAS_SEED.push({
   nombre: "Pulled de jaca a la barbacoa en olla lenta con pan de hamburguesa y ensalada de col",
   subtitulo: "la jaca verde se deshilacha como la carne mechada; la soja texturizada le da proteína",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "americana",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -636,7 +636,7 @@ window.RECETAS_SEED.push({
     "Abre los panes (tuéstalos si quieres), rellénalos con abundante pulled y corona con la ensalada de col. Sirve el resto de ensalada al lado."
   ],
   nutricion: { kcal: 642, prot: 25, hc: 77, grasa: 26 },
-  etiquetas: ["olla lenta", "slow cooker", "vegana", "barbacoa", "tupper", "para compartir"],
+  etiquetas: ["olla lenta", "slow cooker", "vegana", "barbacoa", "tupper", "para compartir", "poco especiada"],
   consejo: "La jaca verde casi no tiene proteína: es la textura, no el alimento. Por eso aquí la acompaña la soja texturizada, que puedes añadir en seco a cualquier guiso de olla lenta o salsa de tomate para convertirla en un plato completo (calcula 30 g por persona y algo más de líquido).",
   contundencia: "media",
   coste: "media"
@@ -647,7 +647,7 @@ window.RECETAS_SEED.push({
   nombre: "Spanakorizo: arroz griego con espinacas, eneldo y feta en olla lenta",
   subtitulo: "arroz meloso y verde, con limón y feta desmigada por encima",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -680,7 +680,7 @@ window.RECETAS_SEED.push({
     "Apaga, incorpora el eneldo picado, el zumo de medio limón y el resto del aceite en crudo. Sirve con la feta desmigada y gajos de limón."
   ],
   nutricion: { kcal: 610, prot: 17, hc: 68, grasa: 30 },
-  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "sin gluten", "tupper", "primavera"],
+  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "sin gluten", "tupper", "primavera", "poco especiada"],
   consejo: "En olla lenta, el arroz necesita menos líquido que en cazuela (aquí 1 a 3, más el agua de las espinacas) porque apenas se evapora nada. Si adaptas un arroz meloso a la olla lenta, reduce el caldo un 20-25 % y no destapes. Usa redondo: el largo se pasa antes.",
   contundencia: "media",
   coste: "media"
@@ -691,7 +691,7 @@ window.RECETAS_SEED.push({
   nombre: "Conchiglioni rellenos de ricotta y espinacas en salsa de tomate en olla lenta",
   subtitulo: "la pasta entra cruda y se cuece en la salsa, sin olla de agua aparte",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida"],
   proteina: "queso",
@@ -726,7 +726,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos para que la salsa espese y sirve con el resto de la albahaca."
   ],
   nutricion: { kcal: 836, prot: 46, hc: 82, grasa: 36 },
-  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "pasta", "tupper", "para niños", "de domingo"],
+  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "pasta", "tupper", "para niños", "de domingo", "poco especiada"],
   consejo: "La pasta seca puede cocerse directamente en una salsa si hay líquido suficiente: calcula unos 100 ml de agua extra por cada 100 g de pasta y que quede siempre cubierta. Este principio sirve también para lasañas sin precocer las placas en la olla lenta o en el horno.",
   contundencia: "contundente",
   coste: "media"
@@ -767,7 +767,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con un hilo de aceite de pimentón por encima."
   ],
   nutricion: { kcal: 504, prot: 15, hc: 30, grasa: 36 },
-  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "sin lactosa", "tupper", "económica", "invierno"],
+  etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "sin lactosa", "tupper", "económica", "invierno", "superalimentos", "poco especiada"],
   consejo: "Los frutos secos crudos (almendra, anacardo) triturados con el líquido de cocción son la mejor «nata» vegetal para cualquier crema: aportan cuerpo y suavidad sin lácteos. Y el aceite de pimentón se hace siempre fuera del fuego: el pimentón se quema en segundos y amarga.",
   contundencia: "media",
   coste: "económica"
@@ -812,7 +812,7 @@ window.RECETAS_SEED.push({
     "Retira las ramas de tomillo, salpimienta y sirve muy caliente."
   ],
   nutricion: { kcal: 499, prot: 15, hc: 58, grasa: 23 },
-  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "tupper", "invierno", "de cuchara"],
+  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "tupper", "invierno", "de cuchara", "poco especiada"],
   consejo: "La roux (grasa y harina a partes iguales, tostadas un par de minutos) es la base de la bechamel, del gumbo y de muchas sopas: sirve para espesar cualquier líquido. Añádela siempre disuelta en algo de líquido, nunca en seco sobre la sopa, o hará grumos. El arroz salvaje es en realidad la semilla de una hierba acuática y siempre tarda más que el arroz normal.",
   contundencia: "media",
   coste: "media"
@@ -855,7 +855,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de yogur en el centro, las avellanas por encima y un hilo de aceite."
   ],
   nutricion: { kcal: 470, prot: 9, hc: 50, grasa: 26 },
-  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "sin gluten", "ligera", "otoño", "invierno", "tupper"],
+  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "sin gluten", "ligera", "otoño", "invierno", "tupper", "detox", "poco especiada"],
   consejo: "Una manzana ácida en una crema de verdura de raíz (apionabo, chirivía, calabaza, zanahoria) equilibra el dulzor y le da un fondo fresco. Tostar los frutos secos en sartén seca antes de usarlos multiplica su sabor y vale para cualquier ensalada, crema o postre.",
   contundencia: "ligera",
   coste: "económica"
@@ -902,7 +902,7 @@ window.RECETAS_SEED.push({
     "Termina con el vinagre, el eneldo picado y pimienta. Sirve con el pan de centeno."
   ],
   nutricion: { kcal: 542, prot: 19, hc: 76, grasa: 18 },
-  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "de cuchara", "tupper", "económica", "verano"],
+  etiquetas: ["olla lenta", "slow cooker", "vegetariana", "de cuchara", "tupper", "económica", "verano", "poco especiada"],
   consejo: "Para añadir yogur, nata agria o leche a un líquido caliente sin que se corte, témplalos antes con un poco de ese líquido y añádelos fuera del hervor fuerte; la harina o la maicena mezcladas con el lácteo lo estabilizan aún más. El chorrito de vinagre final es típico de las sopas del este de Europa: despierta los sabores.",
   contundencia: "media",
   coste: "económica"
@@ -950,7 +950,7 @@ window.RECETAS_SEED.push({
     "Sirve las köfte sobre hojas de lechuga con el resto del perejil, gajos de limón y la melaza restante. Se comen envolviéndolas en la hoja con unas gotas de limón."
   ],
   nutricion: { kcal: 599, prot: 14, hc: 75, grasa: 27 },
-  etiquetas: ["sin fuego", "sin cocción", "vegana", "ideal para llevar", "tupper", "verano", "económica", "técnica"],
+  etiquetas: ["sin fuego", "sin cocción", "vegana", "ideal para llevar", "tupper", "verano", "económica", "técnica", "superalimentos"],
   consejo: "El bulgur fino es un cereal ya precocido y secado: por eso basta hidratarlo en frío (amasado, como aquí, o en remojo 30 minutos para un tabulé). El grueso, en cambio, necesita cocción. Las köfte aguantan 2 días en la nevera bien tapadas; sácalas 15 minutos antes para que el aceite no esté rígido.",
   contundencia: "media",
   coste: "media"
@@ -994,7 +994,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, pon por encima el bonito en lascas grandes y termina con hojas de hierbabuena."
   ],
   nutricion: { kcal: 589, prot: 29, hc: 62, grasa: 25 },
-  etiquetas: ["sin fuego", "sin cocción", "ideal para llevar", "tupper", "verano", "rápida de preparar"],
+  etiquetas: ["sin fuego", "sin cocción", "ideal para llevar", "tupper", "verano", "rápida de preparar", "poco especiada", "bajo en colesterol"],
   consejo: "El cuscús es sémola precocida al vapor: se hidrata en cualquier líquido frío (zumo de tomate, de naranja, caldo frío) en 30-40 minutos, con 1 parte de cuscús por 2 de líquido en volumen. Para el tupper, guarda el bonito aparte y mézclalo al comer: así el cuscús no se empapa de aceite.",
   contundencia: "media",
   coste: "media"
@@ -1038,7 +1038,7 @@ window.RECETAS_SEED.push({
     "Reparte los fideos en dos boles hondos, vierte el caldo frío por encima y coloca el tofu, el pepino y la cebolleta. Termina con el sésamo y unos cubitos de hielo si hace mucho calor."
   ],
   nutricion: { kcal: 566, prot: 23, hc: 78, grasa: 18 },
-  etiquetas: ["sin fuego", "sin cocción", "vegana", "verano", "rápida", "picante", "económica"],
+  etiquetas: ["sin fuego", "sin cocción", "vegana", "verano", "rápida", "picante", "económica", "bajo en colesterol"],
   consejo: "Los fideos de arroz finos, los de cristal y el cuscús son los «cereales sin fuego» de la despensa: se rehidratan en agua templada o fría. Si preparas el plato con antelación, guarda fideos y caldo por separado: juntos, los fideos se hinchan y se rompen en una hora.",
   contundencia: "media",
   coste: "económica"
@@ -1079,7 +1079,7 @@ window.RECETAS_SEED.push({
     "Sirve en boles con el resto de las nueces, un hilo de aceite y el pan de centeno al lado. Añade un cubito de hielo en cada plato si hace mucho calor."
   ],
   nutricion: { kcal: 574, prot: 17, hc: 41, grasa: 38 },
-  etiquetas: ["sin fuego", "sin cocción", "vegetariana", "verano", "rápida", "económica", "tupper"],
+  etiquetas: ["sin fuego", "sin cocción", "vegetariana", "verano", "rápida", "económica", "tupper", "poco especiada"],
   consejo: "Salar y escurrir verduras con mucha agua (pepino, calabacín rallado, tomate) antes de mezclarlas con salsas de yogur evita que se aguen: es el mismo truco del tzatziki o de las raitas. El tarator aguanta 2 días en la nevera; remueve antes de servir porque el pepino se va al fondo.",
   contundencia: "media",
   coste: "económica"
@@ -1124,7 +1124,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con el pan de centeno al lado."
   ],
   nutricion: { kcal: 514, prot: 36, hc: 52, grasa: 18 },
-  etiquetas: ["sin fuego", "sin cocción", "verano", "rápida", "alta en proteína", "tupper"],
+  etiquetas: ["sin fuego", "sin cocción", "verano", "rápida", "alta en proteína", "tupper", "poco especiada"],
   consejo: "Guarda el picadillo y el kéfir por separado y móntala al momento: así aguanta 2 días en la nevera sin que las verduras se ablanden. Frotar con sal la cebolla o la cebolleta cruda es un truco útil para ensaladas y salsas frías: pierde el picor agresivo sin cocinarla.",
   contundencia: "media",
   coste: "media"

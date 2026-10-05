@@ -48,7 +48,7 @@ window.RECETAS_SEED.push({
     "Tapa y deja reposar en la nevera al menos 2 horas para que las capas se asienten y se mezclen los sabores. Sírvela cortando porciones de arriba abajo, para que cada una lleve todas las capas."
   ],
   nutricion: { kcal: 725, prot: 37, hc: 36, grasa: 48 },
-  etiquetas: ["tradicional", "para invitados", "sin gluten", "se prepara con antelación", "fin de semana"],
+  etiquetas: ["tradicional", "para invitados", "sin gluten", "se prepara con antelación", "fin de semana", "poco especiada"],
   consejo: "La Mimoza nació en la URSS de los años 70 y sigue siendo fija en la mesa de Nochevieja junto a la Olivier y el arenque «bajo abrigo». Está más rica de un día para otro y aguanta 2 días tapada en la nevera. Si la montas en vasitos individuales, se convierte en un entrante muy vistoso para invitados.",
   tupper: true,
   contundencia: "contundente",
@@ -94,7 +94,7 @@ window.RECETAS_SEED.push({
     "Sirve con el perejil picado y las nueces por encima y el pan de centeno al lado."
   ],
   nutricion: { kcal: 760, prot: 40, hc: 46, grasa: 46 },
-  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "fin de semana", "invierno"],
+  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "fin de semana", "invierno", "poco especiada"],
   consejo: "La obzhorka es una ensalada de aprovechamiento: en muchas casas rusas se hace con la carne que ha servido para el caldo del borsch o de la sopa de col. Si tienes pollo asado o cocido de otro día, la tienes lista en 20 minutos. Aguanta 2 días en la nevera; la cebolla y la zanahoria fritas le dan un dulzor que contrasta con el ácido del pepinillo.",
   tupper: true,
   contundencia: "contundente",
@@ -137,7 +137,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan de centeno y sirve la ensalada templada con el resto del eneldo por encima."
   ],
   nutricion: { kcal: 580, prot: 32, hc: 47, grasa: 29 },
-  etiquetas: ["tradicional", "económica", "alta en proteína", "entre semana", "una sola sartén"],
+  etiquetas: ["tradicional", "económica", "alta en proteína", "entre semana", "una sola sartén", "poco especiada"],
   consejo: "En Ucrania esta ensalada se hace tanto templada como fría, y en las fiestas se monta por capas con huevo duro rallado. El hígado de pollo debe quedar hecho del todo por seguridad, pero se pasa enseguida y se vuelve arenoso: sácalo en cuanto el centro deje de estar rosado (corta uno para comprobarlo). Aguanta 2 días en la nevera y está muy rica fría al día siguiente.",
   tupper: true,
   contundencia: "media",
@@ -180,7 +180,7 @@ window.RECETAS_SEED.push({
     "Sirve el arenque frío junto a las patatas calientes y termina con el resto del eneldo por encima."
   ],
   nutricion: { kcal: 665, prot: 25, hc: 52, grasa: 39 },
-  etiquetas: ["tradicional", "sin gluten", "invierno", "se prepara con antelación"],
+  etiquetas: ["tradicional", "sin gluten", "invierno", "se prepara con antelación", "poco especiada"],
   consejo: "En Polonia el arenque es imprescindible en la Wigilia, la cena de Nochebuena sin carne, y en los bares de vodka se sirve todo el año. El contraste está en servir el arenque bien frío con la patata recién cocida. El arenque en crema aguanta 3 días en la nevera; cuece las patatas en el momento.",
   tupper: true,
   contundencia: "contundente",
@@ -269,7 +269,7 @@ window.RECETAS_SEED.push({
     "Reparte los huevos pelados en cuartos. Calienta de nuevo la panceta en su sartén 1 minuto y viértela por encima con una cucharada de su grasa bien caliente, para que las hojas se ablanden un poco. Sirve enseguida."
   ],
   nutricion: { kcal: 600, prot: 24, hc: 40, grasa: 38 },
-  etiquetas: ["tradicional", "primavera", "sin gluten", "económica"],
+  etiquetas: ["tradicional", "primavera", "sin gluten", "económica", "poco especiada"],
   consejo: "En Eslovenia y en la Estiria austriaca, la gente sale a recoger regrat a los prados en marzo y abril, antes de que florezca, cuando las hojas aún no amargan. El diente de león cultivado se vende en algunas fruterías y mercados; la escarola rizada da un amargor parecido. El aceite de pepitas de calabaza no debe calentarse nunca: se añade siempre en crudo.",
   tupper: false,
   contundencia: "media",
@@ -315,7 +315,7 @@ window.RECETAS_SEED.push({
     "Sácala 15 minutos antes de comer para que el aceite no esté frío y sírvela con el pan para mojar en el jugo."
   ],
   nutricion: { kcal: 625, prot: 52, hc: 43, grasa: 27 },
-  etiquetas: ["tradicional", "alta en proteína", "verano", "se prepara con antelación"],
+  etiquetas: ["tradicional", "alta en proteína", "verano", "se prepara con antelación", "poco especiada"],
   consejo: "En Dalmacia esta ensalada se sirve como entrante en cualquier konoba de la costa y en las cenas de Nochebuena, cuando no se come carne. Hay versiones con patata cocida, pero la más fiel a la costa es esta, solo con verdura cruda y pan. Está aún mejor al día siguiente y aguanta 2 días en la nevera. Congelar el pulpo antes de cocerlo rompe sus fibras y lo deja tierno.",
   tupper: true,
   contundencia: "media",
@@ -361,7 +361,7 @@ window.RECETAS_SEED.push({
     "Sirve los pimientos con el resto del queso desmenuzado por encima, una cucharada de kajmak y la proja templada cortada en cuadrados."
   ],
   nutricion: { kcal: 815, prot: 23, hc: 73, grasa: 48 },
-  etiquetas: ["tradicional", "vegetariana", "sin gluten", "fin de semana", "otoño"],
+  etiquetas: ["tradicional", "vegetariana", "sin gluten", "fin de semana", "otoño", "poco especiada"],
   consejo: "En Serbia, a finales de verano, el olor de los pimientos asados llena los patios: se asan por cajas para hacer ajvar y para conservar en vinagre. La proja es el pan de maíz de diario de las aldeas, y se come caliente con kajmak y queso. Los pimientos aliñados aguantan 4 días en la nevera y la proja se recalienta en el horno. Si buscas sin gluten, revisa que la harina de maíz y la levadura lo indiquen.",
   tupper: true,
   contundencia: "contundente",
@@ -406,7 +406,7 @@ window.RECETAS_SEED.push({
     "Corona con los huevos en cuartos, las aceitunas y el perejil picado, y sirve enseguida."
   ],
   nutricion: { kcal: 580, prot: 34, hc: 17, grasa: 40 },
-  etiquetas: ["tradicional", "rápida", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "rápida", "sin gluten", "alta en proteína", "verano", "keto", "poco especiada"],
   consejo: "La ovcharska, «del pastor», es la ensalada más completa de las mehanas búlgaras: parte de la shopska y le suma champiñones, jamón, huevo y kashkaval. Allí el sirene se ralla tan fino que la ensalada parece nevada. El sirene es de vaca u oveja y algo menos salado que el feta griego: si tu feta es muy salado, déjalo 10 minutos en agua fría antes de rallarlo.",
   tupper: false,
   contundencia: "media",
@@ -449,7 +449,7 @@ window.RECETAS_SEED.push({
     "Añade el queso marinado con su aceite, las aceitunas y el kajmak en una quenelle o una cucharada generosa. Sirve con el pan para untar el kajmak."
   ],
   nutricion: { kcal: 770, prot: 38, hc: 41, grasa: 50 },
-  etiquetas: ["tradicional", "rápida", "sin cocción", "para invitados", "verano"],
+  etiquetas: ["tradicional", "rápida", "sin cocción", "para invitados", "verano", "poco especiada"],
   consejo: "En el pueblo de Njeguši, en la carretera de montaña que sube desde Kotor, cada casa cura y ahúma su propio pršut con el aire frío del monte Lovćen y lo sirve con su queso y un vaso de vino o de medovina. El jamón serrano no está ahumado: si encuentras jamón ahumado de la Selva Negra o de Friuli, se parece más. Puedes llevarlo en el táper con la ensalada sin aliñar y aliñarla al comer.",
   tupper: true,
   contundencia: "contundente",
@@ -496,7 +496,7 @@ window.RECETAS_SEED.push({
     "Monta los boles por capas, como la sałatka original: col china, pollo, pepinillo, maíz, pimiento y cebolla. Cubre con la salsa y deja reposar 10 minutos antes de comer, o mézclalo todo en el momento."
   ],
   nutricion: { kcal: 466, prot: 41, hc: 26, grasa: 22 },
-  etiquetas: ["creativa", "rápida", "alta en proteína", "ideal para llevar", "para niños", "sin gluten"],
+  etiquetas: ["creativa", "rápida", "alta en proteína", "ideal para llevar", "para niños", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "La sałatka gyros es desde hace un par de décadas la ensalada estrella de los cumpleaños y las fiestas polacas: se monta por capas en un bol de cristal y la salsa original es mitad mayonesa, mitad ketchup. Para el táper, lleva la salsa aparte y mézclala al comer; la col china aguanta crujiente hasta el día siguiente. Revisa que el ketchup y el maíz no lleven gluten si lo necesitas.",
   tupper: true,
   contundencia: "ligera",
@@ -540,7 +540,7 @@ window.RECETAS_SEED.push({
     "Mezcla el calamar caliente con el pepino, la cebolleta y el huevo. Sírvelo sobre los canónigos con la salsa por encima, el resto del eneldo y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 520, prot: 43, hc: 15, grasa: 32 },
-  etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "verano", "keto", "poco especiada"],
   consejo: "La salat iz kalmarov era un clásico de las mesas de fiesta soviéticas: calamar hervido en tiras, huevo, cebolla y mayonesa. Marcar el calamar a la plancha le da un punto tostado que la versión hervida no tiene. Los cortes en rombo no son solo estéticos: hacen que se enrosque de forma uniforme y que la salsa se agarre.",
   tupper: false,
   contundencia: "media",
@@ -584,7 +584,7 @@ window.RECETAS_SEED.push({
     "Coloca el queso caliente sobre la ensalada con el resto de la mermelada al lado, las nueces y el resto de la vinagreta, y acompaña con el pan."
   ],
   nutricion: { kcal: 710, prot: 29, hc: 54, grasa: 42 },
-  etiquetas: ["creativa", "rápida", "vegetariana", "invierno", "para invitados"],
+  etiquetas: ["creativa", "rápida", "vegetariana", "invierno", "para invitados", "poco especiada"],
   consejo: "El grilovaný oštiepok con brusnice, arándanos rojos, es el bocado de los mercados navideños de Eslovaquia y de las cabañas de los Tatras. El oštiepok tiene forma de huevo decorado y se ahúma tras prensarse; fuera de Eslovaquia es difícil de encontrar, pero cualquier queso ahumado firme que no se derrita del todo funciona. El queso hay que marcarlo justo antes de comer.",
   tupper: false,
   contundencia: "contundente",
@@ -631,7 +631,7 @@ window.RECETAS_SEED.push({
     "Monta los boles con el trigo sarraceno, los canónigos y la mezcla de remolacha, y termina con las nueces, el eneldo picado y el resto del aliño."
   ],
   nutricion: { kcal: 675, prot: 21, hc: 89, grasa: 26 },
-  etiquetas: ["creativa", "vegana", "sin gluten", "batch cooking", "ideal para llevar", "invierno"],
+  etiquetas: ["creativa", "vegana", "sin gluten", "batch cooking", "ideal para llevar", "invierno", "superalimentos"],
   consejo: "La remolacha con ciruelas pasas, nueces y ajo es una ensalada de fiesta en Ucrania y Rusia; aquí se le suman alubias y grechka para convertirla en comida completa. Asar la remolacha en vez de hervirla concentra su dulzor. El bol aguanta 3 días en la nevera: guarda las nueces aparte para que no se ablanden. Revisa que el rábano picante de bote no lleve nata ni huevo si lo quieres vegano.",
   tupper: true,
   contundencia: "contundente",
@@ -680,7 +680,7 @@ window.RECETAS_SEED.push({
     "Extiende una cama de snezhanka en cada plato, añade el tomate y las brochetas, y termina con el resto de las nueces y del eneldo. Acompaña con el pan."
   ],
   nutricion: { kcal: 620, prot: 44, hc: 44, grasa: 30 },
-  etiquetas: ["creativa", "alta en proteína", "verano", "barbacoa"],
+  etiquetas: ["creativa", "alta en proteína", "verano", "barbacoa", "poco especiada"],
   consejo: "La shishcheta es el pincho de las mehanas búlgaras, y la snezhanka, «Blancanieves», es el tarator en versión espesa: se hace con yogur búlgaro colado toda la noche. El yogur griego ya viene espeso, así que te ahorras el paso. La snezhanka aguanta 2 días en la nevera y la carne se puede llevar en el táper y comer fría o templada.",
   tupper: true,
   contundencia: "media",
@@ -775,7 +775,7 @@ window.RECETAS_SEED.push({
     "Mezcla en un bol las patatas y la zanahoria templadas con los guisantes, los pepinillos, la cebolleta y la mitad de la salsa. Reparte en platos, coloca encima el pavo y el huevo y termina con el resto de la salsa y del eneldo."
   ],
   nutricion: { kcal: 630, prot: 47, hc: 45, grasa: 29 },
-  etiquetas: ["creativa", "alta en proteína", "ideal para llevar", "batch cooking", "para niños"],
+  etiquetas: ["creativa", "alta en proteína", "ideal para llevar", "batch cooking", "para niños", "poco especiada"],
   consejo: "La Stolichny, «de la capital», es la versión soviética de la ensalada que el cocinero Lucien Olivier creó en el Moscú del siglo XIX, con pollo en lugar de la caza y las colas de cangrejo de río del original. Asar la patata en vez de cocerla le da sabor y evita que se aguade. Para el táper, mezcla todo con la salsa: aguanta 2 días en la nevera y se come fría.",
   tupper: true,
   contundencia: "media",
@@ -818,7 +818,7 @@ window.RECETAS_SEED.push({
     "Reparte las verduras en los platos, coloca encima el bacalao en lascas grandes y cúbrelo con las migas a la polonesa. Termina con el resto del eneldo y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 475, prot: 40, hc: 23, grasa: 25 },
-  etiquetas: ["creativa", "ligera", "alta en proteína", "verano", "entre semana"],
+  etiquetas: ["creativa", "ligera", "alta en proteína", "verano", "entre semana", "poco especiada"],
   consejo: "«Po polsku», a la polonesa, es como se sirven en Polonia la coliflor, las judías verdes y los espárragos de temporada: cubiertos de pan rallado tostado en mantequilla y, a veces, huevo picado. El dorsz, el bacalao del Báltico, es el pescado blanco más común en el país. Las migas se pueden tostar con antelación, pero añade el huevo y el eneldo en el momento.",
   tupper: false,
   contundencia: "ligera",
@@ -864,7 +864,7 @@ window.RECETAS_SEED.push({
     "Monta los boles con los canónigos, las patatas, las setas, los pepinillos en rodajas y la cebolla escurrida. Pon encima dos huevos por bol, la salsa y el resto del eneldo."
   ],
   nutricion: { kcal: 570, prot: 21, hc: 45, grasa: 34 },
-  etiquetas: ["creativa", "vegetariana", "sin gluten", "otoño"],
+  etiquetas: ["creativa", "vegetariana", "sin gluten", "otoño", "poco especiada"],
   consejo: "En Bielorrusia la patata, la «bulba», está en casi todas las comidas, y en otoño medio país sale al bosque a buscar setas. Si no te atreves con el huevo poché, haz los huevos fritos o mollet (6 minutos de cocción). La cebolla encurtida aguanta una semana en la nevera en su líquido y alegra cualquier ensalada.",
   tupper: false,
   contundencia: "media",
@@ -911,7 +911,7 @@ window.RECETAS_SEED.push({
     "Reparte la ensalada en los platos, coloca encima la ternera y la cebolla al perejil y añade el kajmak a cucharadas para que se funda con el calor de la carne. Sirve con el pan."
   ],
   nutricion: { kcal: 635, prot: 41, hc: 53, grasa: 29 },
-  etiquetas: ["creativa", "alta en proteína", "verano", "barbacoa"],
+  etiquetas: ["creativa", "alta en proteína", "verano", "barbacoa", "poco especiada"],
   consejo: "La ćulbastija es uno de los clásicos de las parrillas bosnias junto a los ćevapi y los ražnjići: un filete fino marinado que se hace en un momento sobre las brasas. El kajmak, nata fermentada y algo salada, se pone siempre sobre la carne caliente. Marinar sin sal evita que la carne suelte su jugo; sálala justo al sacarla.",
   tupper: false,
   contundencia: "media",

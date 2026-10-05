@@ -84,7 +84,7 @@ window.RECETAS_SEED.push({
     "Reparte las alcaparras restantes por encima con pimienta recién molida y sirve con la rúcula, los tomates cherry partidos y el pan."
   ],
   nutricion: { kcal: 704, prot: 48, hc: 47, grasa: 36 },
-  etiquetas: ["sin fuego", "sin cocción", "rápida", "alta en proteína", "tupper", "verano", "para invitados"],
+  etiquetas: ["sin fuego", "sin cocción", "rápida", "alta en proteína", "tupper", "verano", "para invitados", "poco especiada"],
   consejo: "La salsa tonnata es una mayonesa enriquecida con atún: sirve también para mojar verduras crudas, untar en bocadillos o acompañar huevos duros. Mezclar mayonesa con yogur aligera cualquier salsa fría sin que pierda cremosidad. Aguanta 2 días en la nevera con el pavo cubierto.",
   contundencia: "contundente",
   coste: "media"
@@ -130,7 +130,7 @@ window.RECETAS_SEED.push({
     "Corta en cuñas con un cuchillo de sierra y sirve. Sácalo 15 minutos antes de la nevera para que el queso y los embutidos recuperen su sabor."
   ],
   nutricion: { kcal: 842, prot: 32, hc: 56, grasa: 54 },
-  etiquetas: ["sin fuego", "sin cocción", "ideal para llevar", "tupper", "para compartir", "picnic"],
+  etiquetas: ["sin fuego", "sin cocción", "ideal para llevar", "tupper", "para compartir", "picnic", "poco especiada"],
   consejo: "Prensar un bocadillo con un peso compacta las capas y deja que el aliño empape el pan sin dejarlo mojado: es la técnica de la muffuletta y del pan bagnat. Aguanta perfectamente hasta el día siguiente en la nevera, por eso es el bocadillo ideal para una excursión.",
   contundencia: "contundente",
   coste: "media"
@@ -174,7 +174,7 @@ window.RECETAS_SEED.push({
     "Termina con el resto del eneldo y pimienta. Se comen con cuchillo y tenedor, como en Dinamarca."
   ],
   nutricion: { kcal: 513, prot: 32, hc: 58, grasa: 17 },
-  etiquetas: ["sin fuego", "sin cocción", "rápida", "alta en proteína", "cena rápida"],
+  etiquetas: ["sin fuego", "sin cocción", "rápida", "alta en proteína", "cena rápida", "poco especiada"],
   consejo: "Untar el pan con una grasa (mantequilla, aceite con tomate, queso crema) antes de poner ingredientes húmedos es el truco de cualquier tosta o sándwich que no se come al instante: impermeabiliza la miga. Las combinaciones del smørrebrød siguen siempre la regla de una proteína, algo ácido, algo cremoso y algo verde.",
   contundencia: "media",
   coste: "media"
@@ -217,7 +217,7 @@ window.RECETAS_SEED.push({
     "Sirve con el pan, los pepinillos y los rábanos partidos por la mitad, y gajos de limón."
   ],
   nutricion: { kcal: 539, prot: 29, hc: 45, grasa: 27 },
-  etiquetas: ["sin fuego", "sin cocción", "rápida", "económica", "omega 3", "tupper", "para compartir"],
+  etiquetas: ["sin fuego", "sin cocción", "rápida", "económica", "omega 3", "tupper", "para compartir", "poco especiada"],
   consejo: "La fórmula de las rillettes sirve para cualquier conserva de pescado (caballa, atún, salmón): pescado desmigado, una grasa blanda que lo ligue, algo ácido y algo aromático. Guardada en un tarro cerrado aguanta 3 días en la nevera; un hilo de aceite por encima evita que se reseque.",
   contundencia: "media",
   coste: "económica"
@@ -304,7 +304,7 @@ window.RECETAS_SEED.push({
     "Corona con los rábanos, las semillas de calabaza, hojas de cilantro y una pizca de pimentón picante. Sirve con gajos de limón."
   ],
   nutricion: { kcal: 600, prot: 21, hc: 66, grasa: 28 },
-  etiquetas: ["sin fuego", "sin cocción", "vegana", "rápida", "económica", "alta en fibra", "cena rápida"],
+  etiquetas: ["sin fuego", "sin cocción", "vegana", "rápida", "económica", "alta en fibra", "cena rápida", "superalimentos"],
   consejo: "Mezclar legumbre aplastada con aguacate da una crema que aguanta mejor el color que el guacamole solo, porque la legumbre diluye el aguacate y el limón actúa más. Unas gotas de limón y sal sobre verduras crudas en láminas (rábano, cebolla, pepino) las encurten en minutos: es un recurso rápido para dar contraste a cualquier plato.",
   contundencia: "media",
   coste: "económica"
@@ -350,7 +350,7 @@ window.RECETAS_SEED.push({
     "Dobla los laterales hacia dentro y enrolla desde abajo apretando. Envuelve cada wrap en papel de aluminio o film y córtalo por la mitad en diagonal al servirlo."
   ],
   nutricion: { kcal: 697, prot: 24, hc: 94, grasa: 25 },
-  etiquetas: ["sin fuego", "sin cocción", "vegana", "ideal para llevar", "tupper", "económica", "alta en fibra"],
+  etiquetas: ["sin fuego", "sin cocción", "vegana", "ideal para llevar", "tupper", "económica", "alta en fibra", "superalimentos", "bajo en colesterol"],
   consejo: "El orden de las capas decide si un wrap o bocadillo aguanta hasta mediodía: primero algo untable y graso que impermeabilice, luego los ingredientes secos y, al final y escurridos, los jugosos. La quinoa cocida de bote o la que te sobre de otro día sirve tal cual, sin calentar.",
   contundencia: "contundente",
   coste: "económica"
@@ -361,7 +361,7 @@ window.RECETAS_SEED.push({
   nombre: "Muhammara de pimiento asado y nueces con yogur, crudités y pan de pita",
   subtitulo: "la crema roja de Alepo, dulce, ahumada y un poco picante, para un mezze completo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -407,7 +407,7 @@ window.RECETAS_SEED.push({
   nombre: "Ploughman's lunch: plato frío de cheddar, pan, manzana, encurtidos y cebolla morada en vinagre",
   subtitulo: "el almuerzo de pub inglés: contrastes de queso curado, fruta, ácido y pan",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida"],
   proteina: "queso",
@@ -441,7 +441,7 @@ window.RECETAS_SEED.push({
     "Se come combinando en cada bocado algo graso (queso), algo ácido (encurtidos) y algo dulce o fresco (manzana o tomate)."
   ],
   nutricion: { kcal: 727, prot: 31, hc: 72, grasa: 35 },
-  etiquetas: ["sin fuego", "sin cocción", "vegetariana", "ideal para llevar", "tupper", "picnic", "rápida"],
+  etiquetas: ["sin fuego", "sin cocción", "vegetariana", "ideal para llevar", "tupper", "picnic", "rápida", "poco especiada"],
   consejo: "La cebolla encurtida rápida (vinagre, una pizca de azúcar y de sal, 15 minutos) es el comodín de los platos fríos: alegra tacos, bocadillos, ensaladas y hamburguesas, y aguanta una semana en un tarro en la nevera. Para llevar, guarda los componentes por separado y monta el plato al comer.",
   contundencia: "contundente",
   coste: "media"
@@ -486,7 +486,7 @@ window.RECETAS_SEED.push({
     "Pela los huevos, pícalos y sirve la sopa con el huevo y el perejil picado por encima."
   ],
   nutricion: { kcal: 427, prot: 14, hc: 50, grasa: 19 },
-  etiquetas: ["olla exprés", "ligera", "de cuchara", "cena ligera", "económica", "tupper", "rápida"],
+  etiquetas: ["olla exprés", "ligera", "de cuchara", "cena ligera", "económica", "tupper", "rápida", "poco especiada"],
   consejo: "La olla exprés permite cocinar en dos pisos a la vez: lo que va en el líquido (sopa, legumbre, arroz) y lo que va al vapor en el cestillo (huevos, verduras, pescado). Elige alimentos con tiempos parecidos. Si vas a guardar la sopa en tupper, guarda los fideos aparte: absorben el caldo y se hinchan en horas.",
   contundencia: "ligera",
   coste: "económica"
@@ -532,7 +532,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con las patatas y las judías, y la salsa verde por encima. Añade un par de cucharadas del caldo de cocción si la quieres más suelta."
   ],
   nutricion: { kcal: 408, prot: 41, hc: 25, grasa: 16 },
-  etiquetas: ["olla exprés", "ligera", "alta en proteína", "sin gluten", "sin lactosa", "tupper", "rápida"],
+  etiquetas: ["olla exprés", "ligera", "alta en proteína", "sin gluten", "sin lactosa", "tupper", "rápida", "poco especiada", "bajo en colesterol"],
   consejo: "Despresurización natural para carnes y legumbres (se mantienen jugosas y enteras); despresurización rápida para verduras, pescado y pasta (evitas que se pasen con el calor residual). Es la regla básica de la olla exprés. La salsa verde sirve igual para pescado, huevos cocidos o verduras a la plancha.",
   contundencia: "ligera",
   coste: "media"
@@ -574,7 +574,7 @@ window.RECETAS_SEED.push({
     "Comprueba que el centro del rodaballo está nacarado y se separa en láminas. Sirve con las patatas y los espárragos, la mantequilla de limón fundiéndose encima y un hilo de aceite."
   ],
   nutricion: { kcal: 400, prot: 31, hc: 24, grasa: 20 },
-  etiquetas: ["olla exprés", "al vapor", "ligera", "sin gluten", "primavera", "para invitados", "rápida"],
+  etiquetas: ["olla exprés", "al vapor", "ligera", "sin gluten", "primavera", "para invitados", "rápida", "poco especiada"],
   consejo: "Para pescado en olla exprés: cestillo siempre fuera del líquido, presión baja si tu olla la tiene y despresurización rápida. Calcula 1-2 minutos para lomos de 2-3 cm de grosor; si son más gruesos, añade 1 minuto. El líquido aromático (vino, limón) perfuma el vapor y por tanto el pescado.",
   contundencia: "ligera",
   coste: "premium"
@@ -616,7 +616,7 @@ window.RECETAS_SEED.push({
     "Sirve la lubina sobre las coles y la patata, con la salsa de yogur por encima y gajos de limón."
   ],
   nutricion: { kcal: 413, prot: 38, hc: 27, grasa: 17 },
-  etiquetas: ["olla exprés", "al vapor", "ligera", "sin gluten", "alta en proteína", "otoño", "invierno"],
+  etiquetas: ["olla exprés", "al vapor", "ligera", "sin gluten", "alta en proteína", "otoño", "invierno", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Todas las coles (de Bruselas, brócoli, coliflor, repollo) desprenden olor a azufre cuando se cuecen demasiado; en olla exprés bastan 2-3 minutos y despresurización rápida. Para servirlas, el aliño debe ir con ellas aún calientes: absorben mejor el aceite y la sal.",
   contundencia: "ligera",
   coste: "premium"
@@ -706,7 +706,7 @@ window.RECETAS_SEED.push({
     "Corta el tofu sedoso en dados grandes con cuidado y repártelo junto a la berenjena. Termina con la cebolleta en aros y el sésamo, y sirve con el arroz."
   ],
   nutricion: { kcal: 444, prot: 16, hc: 59, grasa: 16 },
-  etiquetas: ["olla exprés", "al vapor", "ligera", "vegana", "económica", "tupper", "picante"],
+  etiquetas: ["olla exprés", "al vapor", "ligera", "vegana", "económica", "tupper", "picante", "bajo en colesterol"],
   consejo: "Cocinar la berenjena al vapor en vez de freírla ahorra cientos de calorías y la deja igual de cremosa. Esta salsa (ajo, soja, vinagre, azúcar y aceite de sésamo) es un aliño universal de la cocina china: úsala con brócoli, judías verdes o pollo al vapor.",
   contundencia: "ligera",
   coste: "económica"
@@ -751,7 +751,7 @@ window.RECETAS_SEED.push({
     "Sirve los rollitos con la salsa y el resto del eneldo por encima."
   ],
   nutricion: { kcal: 391, prot: 27, hc: 37, grasa: 15 },
-  etiquetas: ["olla exprés", "ligera", "alta en proteína", "sin gluten", "tupper", "batch cooking"],
+  etiquetas: ["olla exprés", "ligera", "alta en proteína", "sin gluten", "tupper", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Un minuto de vapor a presión ablanda cualquier hoja grande para rellenar (col, acelga, berza) sin necesidad de escaldarla en una olla de agua. Los rollitos se congelan muy bien en su salsa y mejoran al día siguiente.",
   contundencia: "ligera",
   coste: "media"
@@ -793,7 +793,7 @@ window.RECETAS_SEED.push({
     "Comprueba que el centro tiembla al mover el cuenco pero no está líquido. Sirve con la cebolleta en aros finos por encima y el arroz al lado."
   ],
   nutricion: { kcal: 431, prot: 28, hc: 55, grasa: 11 },
-  etiquetas: ["olla exprés", "al vapor", "ligera", "cena ligera", "técnica", "marisco"],
+  etiquetas: ["olla exprés", "al vapor", "ligera", "cena ligera", "técnica", "marisco", "poco especiada"],
   consejo: "Cualquier flan salado o dulce (chawanmushi, flan de huevo, natillas al horno) queda liso si bates sin hacer espuma, cuelas la mezcla y lo cuajas a calor suave y tapado. El exceso de temperatura es lo que lo llena de agujeros: por eso aquí se usa presión baja.",
   contundencia: "ligera",
   coste: "media"
@@ -836,7 +836,7 @@ window.RECETAS_SEED.push({
     "Sirve con el parmesano rallado, unas gotas de limón y un hilo del resto del aceite en crudo."
   ],
   nutricion: { kcal: 440, prot: 22, hc: 45, grasa: 19 },
-  etiquetas: ["olla exprés", "ligera", "de cuchara", "sin gluten", "económica", "tupper", "invierno"],
+  etiquetas: ["olla exprés", "ligera", "de cuchara", "sin gluten", "económica", "tupper", "invierno", "bajo en colesterol"],
   consejo: "Las verduras de hoja amarga (escarola, endivia, achicoria, grelos) equilibran la cremosidad de las legumbres; añádelas al final con la olla abierta para que no se vuelvan grises. Si guardas sobras de parmesano, echa la corteza a la olla con las alubias: se deshace en sabor.",
   contundencia: "ligera",
   coste: "económica"
@@ -884,7 +884,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de yogur, cilantro picado y gajos de lima."
   ],
   nutricion: { kcal: 455, prot: 32, hc: 39, grasa: 17 },
-  etiquetas: ["olla exprés", "ligera", "alta en proteína", "sin gluten", "tupper", "batch cooking", "rápida"],
+  etiquetas: ["olla exprés", "ligera", "alta en proteína", "sin gluten", "tupper", "batch cooking", "rápida", "bajo en colesterol"],
   consejo: "Desglasar (añadir un líquido y rascar el fondo tras dorar) es imprescindible en la olla exprés: recupera el sabor tostado y evita el aviso de quemado. Si quieres el toque crujiente del taco, añade unos totopos desmenuzados al servir.",
   contundencia: "ligera",
   coste: "media"
@@ -930,7 +930,7 @@ window.RECETAS_SEED.push({
     "Vierte la tadka chisporroteando sobre el dal, termina con el zumo de limón y el cilantro picado, y sirve."
   ],
   nutricion: { kcal: 390, prot: 19, hc: 42, grasa: 15 },
-  etiquetas: ["olla exprés", "ligera", "vegana", "sin gluten", "económica", "tupper", "cena ligera", "de cuchara"],
+  etiquetas: ["olla exprés", "ligera", "vegana", "sin gluten", "económica", "tupper", "cena ligera", "de cuchara", "detox", "bajo en colesterol"],
   consejo: "Las semillas de mostaza se fríen hasta que «saltan»: es la señal de que han liberado su aroma; si no saltan, saben amargas. Añadir calabacín, calabaza o espinacas a un dal es la forma más fácil de aligerarlo y sumar verdura sin cambiar su textura cremosa.",
   contundencia: "ligera",
   coste: "económica"
@@ -973,7 +973,7 @@ window.RECETAS_SEED.push({
     "Vierte los garbanzos con su caldo sobre el pan, coloca un huevo en cada bol y termina con las alcaparras, el zumo de medio limón y un hilo de aceite. Sirve con limón al lado."
   ],
   nutricion: { kcal: 445, prot: 18, hc: 42, grasa: 22 },
-  etiquetas: ["olla exprés", "ligera", "de cuchara", "picante", "económica", "aprovechamiento"],
+  etiquetas: ["olla exprés", "ligera", "de cuchara", "picante", "económica", "aprovechamiento", "sin verduras"],
   consejo: "Para escalfar huevos en una sopa o en agua, el líquido debe temblar, no hervir, y el huevo entrar desde una taza a ras de la superficie. Y el pan duro en el fondo del plato es un recurso de aprovechamiento de muchas cocinas (leblebi, sopa de ajo, ribollita): no tires el pan del día anterior.",
   contundencia: "ligera",
   coste: "económica"
@@ -1062,7 +1062,7 @@ window.RECETAS_SEED.push({
     "Sirve con las avellanas y el cebollino picado por encima."
   ],
   nutricion: { kcal: 415, prot: 9, hc: 44, grasa: 22 },
-  etiquetas: ["olla exprés", "ligera", "vegetariana", "sin gluten", "económica", "tupper", "invierno", "cena ligera"],
+  etiquetas: ["olla exprés", "ligera", "vegetariana", "sin gluten", "económica", "tupper", "invierno", "cena ligera", "poco especiada"],
   consejo: "Las verduras de raíz con sabor fuerte (nabo, chirivía, apionabo) se suavizan si se rehogan en grasa antes de cocerlas; la patata, por su almidón, da cuerpo a cualquier crema sin necesidad de nata. Prueba esta misma fórmula con chirivía y manzana.",
   contundencia: "ligera",
   coste: "económica"

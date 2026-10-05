@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     "Riega con el resto de la vinagreta y sirve templada."
   ],
   nutricion: { kcal: 411, prot: 34, hc: 35, grasa: 15 },
-  etiquetas: ["sepia", "pescado poco habitual", "ensalada templada", "ligera", "tupper", "ideal para llevar", "sin gluten", "sin lácteos", "verano"],
+  etiquetas: ["sepia", "pescado poco habitual", "ensalada templada", "ligera", "tupper", "ideal para llevar", "sin gluten", "sin lácteos", "verano", "poco especiada"],
   consejo: "Aliñar en caliente sirve para cualquier ensalada de patata, legumbre o cereal: el aliño penetra mucho mejor. Para el tupper, lleva la sepia y la ensalada juntas pero con la mitad del aliño aparte, y añádelo al comer para que la judía no pierda el color.",
   tupper: true,
   contundencia: "ligera",
@@ -132,7 +132,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal (el jamón ya sala), añade pimienta y la menta picada y sirve enseguida."
   ],
   nutricion: { kcal: 467, prot: 51, hc: 23, grasa: 19 },
-  etiquetas: ["sepia", "pescado poco habitual", "guiso", "primavera", "ligera", "alta en proteína", "tupper", "sin gluten", "sin lácteos"],
+  etiquetas: ["sepia", "pescado poco habitual", "guiso", "primavera", "ligera", "alta en proteína", "tupper", "sin gluten", "sin lácteos", "poco especiada"],
   consejo: "El doble pelado (escaldar y enfriar en agua con hielo) funciona con habas, almendras crudas o tomates. El choque térmico separa la piel y fija el color verde. Si encuentras habas frescas en primavera, desgránalas y haz lo mismo.",
   tupper: true,
   contundencia: "ligera",
@@ -174,7 +174,7 @@ window.RECETAS_SEED.push({
     "Sirve los boquerones sobre la ensalada de lentejas con el majado de ajo y perejil por encima."
   ],
   nutricion: { kcal: 444, prot: 40, hc: 26, grasa: 20 },
-  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "a la plancha", "ligera", "rápida", "aprende a limpiar", "sin gluten", "sin lácteos", "omega 3"],
+  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "a la plancha", "ligera", "rápida", "aprende a limpiar", "sin gluten", "sin lácteos", "omega 3", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para que el pescado no se pegue a la plancha: plancha muy caliente, pescado seco y no moverlo hasta que se suelte solo. Si al intentar levantarlo se resiste, espera 20 segundos más. Vale para cualquier filete con piel.",
   tupper: false,
   contundencia: "ligera",
@@ -217,7 +217,7 @@ window.RECETAS_SEED.push({
     "Hornea 12-14 minutos, hasta que la superficie esté dorada y el tomate burbujee. Sirve con unas gotas de zumo de limón."
   ],
   nutricion: { kcal: 435, prot: 33, hc: 24, grasa: 23 },
-  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "al horno", "ligera", "aprende a limpiar", "omega 3", "sin lácteos"],
+  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "al horno", "ligera", "aprende a limpiar", "omega 3", "sin lácteos", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Escurrir bien las verduras cocinadas antes de usarlas como relleno es la regla de oro de canelones, empanadas o pescados rellenos. El mismo relleno de espinacas, piñones y pasas acompaña muy bien a sardinas, pollo o un arroz.",
   tupper: false,
   contundencia: "ligera",
@@ -258,7 +258,7 @@ window.RECETAS_SEED.push({
     "Sirve con el pan rallado tostado por encima y unas gotas de zumo de limón."
   ],
   nutricion: { kcal: 585, prot: 35, hc: 64, grasa: 21 },
-  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "pasta", "rápida", "económica", "sin lácteos", "omega 3"],
+  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "pasta", "rápida", "económica", "sin lácteos", "omega 3", "superalimentos", "bajo en colesterol"],
   consejo: "Cocer la verdura en la misma agua que la pasta ahorra una olla y hace que ambas terminen a la vez; funciona con brócoli, judías verdes, guisantes o grelos. Si no encuentras boquerones frescos, 6 filetes de anchoa en aceite fundidos en el ajo dan un resultado parecido.",
   tupper: false,
   contundencia: "media",
@@ -300,7 +300,7 @@ window.RECETAS_SEED.push({
     "Sirve en la misma cazuela, bien caliente."
   ],
   nutricion: { kcal: 447, prot: 32, hc: 28, grasa: 23 },
-  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "una sola sartén", "ligera", "sin gluten", "sin lácteos", "económica", "omega 3"],
+  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "una sola sartén", "ligera", "sin gluten", "sin lácteos", "económica", "omega 3", "bajo en colesterol"],
   consejo: "El ajo en frío es la base de todos los «al ajillo» (gambas, setas, pollo, pil pil): arranca a fuego bajo y súbelo cuando el ajo empiece a burbujear. Unas gotas de vinagre al final avivan cualquier pescado azul y cortan su grasa.",
   tupper: false,
   contundencia: "ligera",
@@ -348,7 +348,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el resto del perejil y sirve con el arroz."
   ],
   nutricion: { kcal: 624, prot: 46, hc: 65, grasa: 20 },
-  etiquetas: ["trucha", "pescado poco habitual", "aprende a desespinar", "tupper", "para niños", "batch cooking"],
+  etiquetas: ["trucha", "pescado poco habitual", "aprende a desespinar", "tupper", "para niños", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "La masa de cualquier albóndiga (carne o pescado) se forma mejor fría y con las manos húmedas. Para saber si está bien de sal, fríe una bolita de prueba antes de formar todas. Estas albóndigas se congelan en crudo, ya enharinadas, hasta 2 meses.",
   tupper: true,
   contundencia: "media",
@@ -392,7 +392,7 @@ window.RECETAS_SEED.push({
     "Suelta el cuscús con un tenedor y mézclalo con el perejil y la menta picados, los granos de granada, el zumo del medio limón restante y la última media cucharada de aceite. Sirve la trucha sobre el cuscús."
   ],
   nutricion: { kcal: 627, prot: 46, hc: 50, grasa: 27 },
-  etiquetas: ["trucha", "pescado poco habitual", "al horno", "rápida", "para invitados", "sin lácteos", "otoño"],
+  etiquetas: ["trucha", "pescado poco habitual", "al horno", "rápida", "para invitados", "sin lácteos", "otoño", "sin verduras", "superalimentos", "poco especiada"],
   consejo: "El sistema «capa fina de mostaza + frutos secos picados» sirve para cualquier filete de pescado o para un lomo de cerdo: la mostaza pega la costra y aísla la carne. Prueba con avellanas, almendras o nueces según lo que tengas.",
   tupper: false,
   contundencia: "media",
@@ -436,7 +436,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y sirve con abundante eneldo picado."
   ],
   nutricion: { kcal: 459, prot: 34, hc: 38, grasa: 19 },
-  etiquetas: ["trucha", "pescado poco habitual", "de cuchara", "ligera", "sin gluten", "invierno", "tupper", "reconfortante"],
+  etiquetas: ["trucha", "pescado poco habitual", "de cuchara", "ligera", "sin gluten", "invierno", "tupper", "reconfortante", "poco especiada"],
   consejo: "Cocer el pescado con el calor residual (fuego apagado y tapa) es el método más seguro para sopas y guisos: imposible pasarse. Para recalentar el tupper hazlo suave, sin hervir, o la trucha se romperá. Funciona igual con salmón o bacalao fresco.",
   tupper: true,
   contundencia: "ligera",
@@ -481,7 +481,7 @@ window.RECETAS_SEED.push({
     "Reparte la salsa caliente sobre la trucha, espolvorea cilantro picado y sirve con el arroz."
   ],
   nutricion: { kcal: 596, prot: 41, hc: 63, grasa: 20 },
-  etiquetas: ["trucha", "pescado poco habitual", "rápida", "sin lácteos", "tupper", "picante"],
+  etiquetas: ["trucha", "pescado poco habitual", "rápida", "sin lácteos", "tupper", "picante", "bajo en colesterol"],
   consejo: "Presionar el filete con la espátula nada más ponerlo en la sartén evita que la piel se encoja y el pescado se arquee; así se dora de forma uniforme. La salsa chorrillana sirve igual para merluza, pollo o un bistec. En el tupper, lleva la salsa aparte.",
   tupper: true,
   contundencia: "media",
@@ -524,7 +524,7 @@ window.RECETAS_SEED.push({
     "Sirve las sardinas con su glaseado sobre el arroz, con el pepino aliñado y la cebolleta en aros por encima."
   ],
   nutricion: { kcal: 510, prot: 36, hc: 60, grasa: 14 },
-  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "omega 3", "tupper", "sin lácteos", "económica"],
+  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "omega 3", "tupper", "sin lácteos", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La tapa de papel apoyada sobre el guiso (otoshibuta en Japón) sirve para cualquier cocción en poco líquido: verduras glaseadas, pescados o carnes que no conviene mover. Las sardinas así guisadas aguantan 3 días en la nevera y están muy buenas frías.",
   tupper: true,
   contundencia: "media",
@@ -569,7 +569,7 @@ window.RECETAS_SEED.push({
     "Sírvelas con la ensalada y gajos del otro medio limón."
   ],
   nutricion: { kcal: 408, prot: 31, hc: 17, grasa: 24 },
-  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "a la plancha", "ligera", "verano", "sin gluten", "sin lácteos", "omega 3"],
+  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "a la plancha", "ligera", "verano", "sin gluten", "sin lácteos", "omega 3", "detox", "bajo en colesterol"],
   consejo: "La cama de sal gruesa en la plancha es un truco de chiringuito que vale para cualquier pescado entero pequeño. Pelar a lo vivo es la técnica para cítricos en ensaladas, postres o ceviches: quedan gajos limpios sin rastro de piel blanca.",
   tupper: false,
   contundencia: "ligera",
@@ -611,7 +611,7 @@ window.RECETAS_SEED.push({
     "Escurre los lomos, colócalos sobre la escalivada templada y riega con el aceite de pimentón y perejil picado."
   ],
   nutricion: { kcal: 407, prot: 28, hc: 22, grasa: 23 },
-  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "ligera", "tupper", "sin gluten", "sin lácteos", "verano", "aprende a filetear", "omega 3"],
+  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "ligera", "tupper", "sin gluten", "sin lácteos", "verano", "aprende a filetear", "omega 3", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Congelar 5 días antes es obligatorio para cualquier pescado que vayas a comer crudo, marinado o en vinagre (boquerones, ceviche, sushi casero). Los lomos marinados se conservan 3 días en la nevera cubiertos de aceite y la escalivada, 4: un tupper perfecto.",
   tupper: true,
   contundencia: "ligera",
@@ -657,7 +657,7 @@ window.RECETAS_SEED.push({
     "Mientras, mezcla el yogur con la mostaza, el zumo de medio limón, sal y pimienta y aliña la col y la zanahoria. Sirve las sardinas con la ensalada y gajos de limón."
   ],
   nutricion: { kcal: 442, prot: 34, hc: 36, grasa: 18 },
-  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "al horno", "crujiente", "ligera", "para niños", "omega 3"],
+  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "al horno", "crujiente", "ligera", "para niños", "omega 3", "poco especiada", "bajo en colesterol"],
   consejo: "Tostar el pan rallado o el panko antes de hornear es el secreto de los empanados al horno que parecen fritos: sirve para pechugas, merluza o verduras. La ensalada de col aguanta 2 días aliñada en la nevera y está aún mejor al día siguiente.",
   tupper: false,
   contundencia: "ligera",
@@ -698,7 +698,7 @@ window.RECETAS_SEED.push({
     "Sirve la caballa con el arroz espolvoreado de sésamo, un montoncito de rábano rallado con unas gotas de soja, el pepino y un gajo de limón."
   ],
   nutricion: { kcal: 529, prot: 33, hc: 52, grasa: 21 },
-  etiquetas: ["caballa", "pescado azul", "pescado poco habitual", "al horno", "omega 3", "sin lácteos", "económica", "rápida"],
+  etiquetas: ["caballa", "pescado azul", "pescado poco habitual", "al horno", "omega 3", "sin lácteos", "económica", "rápida", "poco especiada", "bajo en colesterol"],
   consejo: "Salar el pescado azul 20 minutos antes de cocinarlo y secarlo después mejora mucho cualquier receta de sardina, caballa o jurel: menos olor, piel más crujiente y carne más firme. El rábano rallado con soja (oroshi) ayuda a digerir la grasa del pescado.",
   tupper: false,
   contundencia: "media",
@@ -741,7 +741,7 @@ window.RECETAS_SEED.push({
     "Escurre el hinojo y mézclalo con la rúcula, los gajos de naranja y el eneldo. Corta la caballa en láminas al bies, colócala encima y aliña todo."
   ],
   nutricion: { kcal: 423, prot: 30, hc: 15, grasa: 27 },
-  etiquetas: ["caballa", "pescado azul", "pescado poco habitual", "sin cocción", "ligera", "para invitados", "sin gluten", "sin lácteos", "omega 3", "invierno"],
+  etiquetas: ["caballa", "pescado azul", "pescado poco habitual", "sin cocción", "ligera", "para invitados", "sin gluten", "sin lácteos", "omega 3", "invierno", "detox", "superalimentos", "poco especiada"],
   consejo: "La mezcla de sal y azúcar (3 partes de sal por 1 de azúcar) sirve para curar salmón, trucha o bonito: el tiempo depende del grosor (1 hora para lomos finos, 24-36 horas para un lomo grueso de salmón). Una vez curada, la caballa aguanta 2 días en la nevera untada de aceite.",
   tupper: false,
   contundencia: "ligera",
@@ -786,7 +786,7 @@ window.RECETAS_SEED.push({
     "Coloca los trozos de caballa encima, con la piel hacia arriba, hundiéndolos un poco en el caldo. Tapa y cuece 4-5 minutos a fuego suave, solo hasta que la carne esté opaca. Sirve con pan para mojar."
   ],
   nutricion: { kcal: 779, prot: 47, hc: 60, grasa: 39 },
-  etiquetas: ["caballa", "pescado azul", "pescado poco habitual", "de cuchara", "tupper", "batch cooking", "invierno", "omega 3", "sin lácteos", "económica"],
+  etiquetas: ["caballa", "pescado azul", "pescado poco habitual", "de cuchara", "tupper", "batch cooking", "invierno", "omega 3", "sin lácteos", "económica", "superalimentos", "poco especiada"],
   consejo: "En los guisos de pescado, la base (sofrito, legumbre, caldo) se cocina antes y el pescado entra solo los últimos 5 minutos. Si lo preparas para el tupper, apaga en cuanto añadas la caballa: al recalentar terminará de hacerse sin secarse.",
   tupper: true,
   contundencia: "contundente",
@@ -827,7 +827,7 @@ window.RECETAS_SEED.push({
     "Napa el pulpo con la crema de aceitunas, espolvorea el cebollino picado y sirve con gajos de lima."
   ],
   nutricion: { kcal: 448, prot: 33, hc: 34, grasa: 20 },
-  etiquetas: ["pulpo", "pescado poco habitual", "ligera", "sin gluten", "verano", "para invitados", "rápida"],
+  etiquetas: ["pulpo", "pescado poco habitual", "ligera", "sin gluten", "verano", "para invitados", "rápida", "poco especiada"],
   consejo: "Mezclar mayonesa con yogur griego a partes iguales aligera cualquier salsa fría (tártara, alioli, salsa rosa) sin perder cremosidad. Si cueces tú el pulpo, deja que se enfríe en su agua 15 minutos: así la piel no se despega y queda más jugoso.",
   tupper: false,
   contundencia: "ligera",
@@ -957,7 +957,7 @@ window.RECETAS_SEED.push({
     "Sirve los chicharros con las papas arrugadas, el mojo verde para mojar y unas gotas de limón."
   ],
   nutricion: { kcal: 560, prot: 39, hc: 38, grasa: 28 },
-  etiquetas: ["jurel", "pescado azul", "pescado poco habitual", "a la plancha", "sin gluten", "sin lácteos", "verano", "omega 3", "aprende a limpiar"],
+  etiquetas: ["jurel", "pescado azul", "pescado poco habitual", "a la plancha", "sin gluten", "sin lácteos", "verano", "omega 3", "aprende a limpiar", "poco especiada"],
   consejo: "Las papas arrugadas se hacen con muy poca agua y mucha sal (como agua de mar): al evaporarse, la sal se queda en la piel y no dentro de la patata. El mojo verde aguanta 5 días en la nevera en un tarro y alegra cualquier pescado, pollo o verdura asada.",
   tupper: false,
   contundencia: "media",
@@ -1045,7 +1045,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con cilantro por encima."
   ],
   nutricion: { kcal: 409, prot: 25, hc: 57, grasa: 9 },
-  etiquetas: ["mejillones", "marisco", "pescado poco habitual", "ligera", "rápida", "económica", "sin lácteos", "aprende a limpiar"],
+  etiquetas: ["mejillones", "marisco", "pescado poco habitual", "ligera", "rápida", "económica", "sin lácteos", "aprende a limpiar", "sin verduras"],
   consejo: "El jugo que sueltan los moluscos al abrirse (mejillones, almejas, berberechos) es un caldo concentrado gratis: cuélalo siempre y úsalo en la salsa. La regla de seguridad es doble: se tiran los que están abiertos antes de cocinar y los que siguen cerrados después.",
   tupper: false,
   contundencia: "ligera",
@@ -1092,7 +1092,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 minutos y sirve con perejil picado y el alioli de limón aparte."
   ],
   nutricion: { kcal: 727, prot: 33, hc: 79, grasa: 31 },
-  etiquetas: ["berberechos", "marisco", "pescado poco habitual", "arroz", "aprende a limpiar", "primavera", "para invitados", "sin lácteos"],
+  etiquetas: ["berberechos", "marisco", "pescado poco habitual", "arroz", "aprende a limpiar", "primavera", "para invitados", "sin lácteos", "poco especiada"],
   consejo: "Purgar en agua con sal funciona para berberechos, almejas y navajas; las tellinas y las chirlas también lo agradecen. El marisco de concha se añade siempre al final, ya abierto: si lo cueces con el arroz, la carne se encoge y se seca.",
   tupper: false,
   contundencia: "contundente",

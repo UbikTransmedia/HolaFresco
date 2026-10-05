@@ -33,7 +33,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade la ralladura de limón, un chorrito de su zumo y el resto del perejil. Sirve al momento."
   ],
   nutricion: { kcal: 590, prot: 33, hc: 64, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "sin verduras"],
   consejo: "El secreto es el agua de cocción: emulsiona el aceite y crea la salsa sin nata. Si quieres más profundidad, dora también las cabezas de las gambas en el aceite antes del ajo y retíralas: le dan un sabor a marisco espectacular.",
   contundencia: "media",
   coste: "media"
@@ -75,7 +75,7 @@ window.RECETAS_SEED.push({
     "Añade la pasta escurrida y un chorrito del agua reservada y saltea 1 minuto, hasta que la salsa se agarre a la pasta. Termina con perejil y pimienta."
   ],
   nutricion: { kcal: 640, prot: 33, hc: 66, grasa: 27 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "despensa"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "despensa", "sin verduras"],
   consejo: "Usa un poco del aceite de la propia lata de caballa en lugar de parte del aceite de la sartén: es puro sabor. También queda estupenda con sardinas o bonito en conserva.",
   contundencia: "media",
   coste: "económica"
@@ -156,7 +156,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego añade la ralladura, un chorro de zumo de limón y el perejil picado. Sirve con las migas crujientes por encima en el último momento."
   ],
   nutricion: { kcal: 605, prot: 34, hc: 75, grasa: 19 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "despensa"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "despensa", "bajo en colesterol"],
   consejo: "Las migas se pueden hacer en cantidad y guardar en un bote hermético una semana: transforman cualquier plato de pasta o de verduras. Prueba a añadirles una anchoa picada mientras se tuestan.",
   contundencia: "media",
   coste: "económica"
@@ -196,7 +196,7 @@ window.RECETAS_SEED.push({
     "Sirve con el pollo, los cherry partidos por la mitad y las nueces reservadas picadas por encima."
   ],
   nutricion: { kcal: 770, prot: 43, hc: 64, grasa: 38 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "verduras escondidas", "poco especiada"],
   consejo: "El pesto de rúcula aguanta 4 días en la nevera cubierto con una capa fina de aceite. Si la rúcula te resulta muy picante, mezcla mitad rúcula y mitad espinacas frescas.",
   contundencia: "contundente",
   coste: "media"
@@ -237,7 +237,7 @@ window.RECETAS_SEED.push({
     "Sirve con cucharadas de ricotta al limón, los pistachos reservados picados y unas hojas de menta."
   ],
   nutricion: { kcal: 625, prot: 24, hc: 67, grasa: 29 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "verano", "vegetariana"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "verano", "vegetariana", "poco especiada"],
   consejo: "No calientes el pesto en la sartén: el calor apaga el aroma de la menta y la albahaca. En verano, esta pasta está riquísima templada o fría como ensalada para llevar.",
   contundencia: "media",
   coste: "media"
@@ -278,7 +278,7 @@ window.RECETAS_SEED.push({
     "Reposa 3 minutos fuera del horno. Termina con eneldo picado, ralladura de limón y un chorrito de su zumo."
   ],
   nutricion: { kcal: 630, prot: 39, hc: 67, grasa: 23 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "una sola sartén", "poco especiada"],
   consejo: "Si queda algo seco al sacarlo, añade un chorrito de caldo caliente y remueve: debe quedar meloso. Puedes cambiar las gambas por dados de pescado blanco o por garbanzos para una versión económica.",
   contundencia: "media",
   coste: "media"
@@ -319,7 +319,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, riega con el zumo de medio limón, prueba de sal y sirve con perejil picado."
   ],
   nutricion: { kcal: 470, prot: 37, hc: 58, grasa: 10 },
-  etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "batch cooking", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Tostar el orzo antes de añadir el caldo le da un sabor a fruto seco que marca la diferencia. Se recalienta muy bien con un chorrito de agua: perfecto para el táper.",
   contundencia: "ligera",
   coste: "económica"
@@ -359,7 +359,7 @@ window.RECETAS_SEED.push({
     "Gratina 4-5 minutos con el grill, hasta que el queso se funda y burbujee. Termina con albahaca fresca."
   ],
   nutricion: { kcal: 635, prot: 20, hc: 78, grasa: 27 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "vegetariana"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "vegetariana", "poco especiada"],
   consejo: "No hiervas los gnocchi: en el horno absorben el jugo de los tomates y quedan crujientes por fuera. Si quieres más proteína, añade unos garbanzos cocidos o unas salchichas en rodajas al inicio.",
   contundencia: "media",
   coste: "media"
@@ -403,7 +403,7 @@ window.RECETAS_SEED.push({
     "Sirve tibio con el yogur por encima y una pizca extra de zaatar."
   ],
   nutricion: { kcal: 470, prot: 16, hc: 75, grasa: 12 },
-  etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "al horno", "batch cooking", "ideal para llevar", "vegetariana"],
+  etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "al horno", "batch cooking", "ideal para llevar", "vegetariana", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Duplica las verduras asadas y tendrás base para dos días. Si no encuentras cuscús perlado, usa orzo o cuscús normal hidratado con agua hirviendo.",
   contundencia: "ligera",
   coste: "económica"
@@ -445,7 +445,7 @@ window.RECETAS_SEED.push({
     "Hornea 15 minutos y gratina 3 minutos más, hasta que el queso esté dorado y burbujeante. Deja reposar 5 minutos y sirve con albahaca."
   ],
   nutricion: { kcal: 765, prot: 47, hc: 75, grasa: 31 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "batch cooking", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "batch cooking", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "Prepárala hasta el paso 5 la víspera y hornéala al día siguiente con 5 minutos más de horno. También se congela bien en raciones antes de gratinar.",
   contundencia: "contundente",
   coste: "económica"
@@ -487,7 +487,7 @@ window.RECETAS_SEED.push({
     "Sirve con el queso de cabra desmenuzado por encima, pimienta y albahaca."
   ],
   nutricion: { kcal: 585, prot: 21, hc: 71, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ideal para llevar", "vegetariana"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ideal para llevar", "vegetariana", "poco especiada"],
   consejo: "Las verduras asadas mejoran de un día para otro: asa doble cantidad y úsala en tostadas, ensaladas o como guarnición. Puedes cambiar el queso de cabra por feta o ricotta.",
   contundencia: "media",
   coste: "media"
@@ -568,7 +568,7 @@ window.RECETAS_SEED.push({
     "Termina con perejil picado, ralladura de limón y un chorrito de su zumo."
   ],
   nutricion: { kcal: 470, prot: 30, hc: 60, grasa: 12 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "una sola sartén", "poco especiada", "bajo en colesterol"],
   consejo: "Para que el rape no se deshaga, márcalo primero y devuélvelo al final: así queda jugoso. Funciona igual con merluza congelada en lomos si quieres abaratar el plato.",
   contundencia: "ligera",
   coste: "premium"
@@ -607,7 +607,7 @@ window.RECETAS_SEED.push({
     "Sirve con los piñones reservados, pimienta y un poco más de parmesano si quieres."
   ],
   nutricion: { kcal: 750, prot: 23, hc: 81, grasa: 37 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "vegetariana"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "vegetariana", "poco especiada"],
   consejo: "Para un pesto verde intenso, mete la albahaca 10 minutos en la nevera y no tritures en continuo: el calor de las cuchillas la oxida. Si quieres abaratarlo, cambia la mitad de los piñones por almendras.",
   contundencia: "contundente",
   coste: "premium"
@@ -649,7 +649,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade la ralladura de limón, unas gotas de zumo y el cebollino picado."
   ],
   nutricion: { kcal: 450, prot: 34, hc: 56, grasa: 10 },
-  etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "rápida"],
+  etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "rápida", "poco especiada"],
   consejo: "Si compras langostinos enteros, dora las cabezas en el aceite antes de la chalota y aplástalas: el jugo convierte la salsa en algo de restaurante. Retíralas antes de añadir el calabacín.",
   contundencia: "ligera",
   coste: "premium"
@@ -696,7 +696,7 @@ window.RECETAS_SEED.push({
     "Sirve con ralladura de limón, el resto del parmesano, pimienta y las hojitas de hinojo picadas."
   ],
   nutricion: { kcal: 770, prot: 40, hc: 81, grasa: 32 },
-  etiquetas: ["mediterránea", "aromática", "batch cooking", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "batch cooking", "invierno", "poco especiada"],
   consejo: "Haz el doble de ragú: se congela perfectamente hasta 3 meses. La ralladura de limón al final es clave para aligerar la sensación de grasa del cerdo.",
   contundencia: "contundente",
   coste: "económica"
@@ -737,7 +737,7 @@ window.RECETAS_SEED.push({
     "Sirve con cucharadas de ricotta al tomillo y albahaca fresca."
   ],
   nutricion: { kcal: 460, prot: 18, hc: 70, grasa: 12 },
-  etiquetas: ["mediterránea", "fácil", "ligera", "al horno", "aromática", "verano", "vegetariana"],
+  etiquetas: ["mediterránea", "fácil", "ligera", "al horno", "aromática", "verano", "vegetariana", "poco especiada", "bajo en colesterol"],
   consejo: "El tiempo es de horno, no de trabajo: apenas 15 minutos activos. Asa el doble de tomates y guarda la mitad en un bote cubiertos de aceite en la nevera: duran una semana y sirven para tostadas o guisos.",
   contundencia: "ligera",
   coste: "media"
@@ -779,7 +779,7 @@ window.RECETAS_SEED.push({
     "Reposa 3 minutos y sirve con perejil picado y el alioli aparte."
   ],
   nutricion: { kcal: 730, prot: 26, hc: 67, grasa: 40 },
-  etiquetas: ["mediterránea", "aromática", "invierno", "una sola sartén"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "una sola sartén", "poco especiada"],
   consejo: "Tostar bien los fideos al principio es lo que da el sabor característico del rossejat; si quedan pálidos, el plato pierde gracia. Prueba a cambiar la butifarra por costilla de cerdo troceada o por sepia.",
   contundencia: "contundente",
   coste: "media"
@@ -820,7 +820,7 @@ window.RECETAS_SEED.push({
     "Gratina 8-10 minutos, hasta que el queso esté dorado y crujiente en los bordes."
   ],
   nutricion: { kcal: 725, prot: 30, hc: 77, grasa: 33 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "batch cooking", "invierno", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "batch cooking", "invierno", "ideal para llevar", "poco especiada"],
   consejo: "Si te gustan más ligeros, cambia la mitad del chorizo por un bote de garbanzos o por atún: el pimentón mantiene ese sabor tan de casa. Recalentados al día siguiente están todavía más ricos.",
   contundencia: "contundente",
   coste: "económica"
@@ -863,7 +863,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, espolvorea perejil picado y sirve enseguida, con un gajo de limón, antes de que los fideos absorban todo el caldo."
   ],
   nutricion: { kcal: 465, prot: 37, hc: 58, grasa: 9.5 },
-  etiquetas: ["mediterránea", "ligera", "aromática", "de cuchara", "invierno"],
+  etiquetas: ["mediterránea", "ligera", "aromática", "de cuchara", "invierno", "poco especiada"],
   consejo: "Los fideos siguen bebiendo caldo fuera del fuego: si lo preparas con antelación, cuécelos aparte y júntalos con el caldo y el pescado al servir. Unas gotas de alioli encima le van de maravilla.",
   contundencia: "ligera",
   coste: "media"
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
     "Reparte la pasta en los platos, cubre con el yogur al ajo, luego el cordero, y riega con la mantequilla de pimentón. Termina con perejil picado."
   ],
   nutricion: { kcal: 740, prot: 30, hc: 69, grasa: 38 },
-  etiquetas: ["mediterránea", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "sin verduras"],
   consejo: "El contraste de temperaturas es la gracia: yogur templado, carne caliente y mantequilla humeante. Para una versión más económica y ligera, usa ternera o pavo picado y yogur natural.",
   contundencia: "contundente",
   coste: "premium"
@@ -1033,7 +1033,7 @@ window.RECETAS_SEED.push({
     "Sirve con un huevo poché encima de cada plato, el parmesano rallado, el resto de la menta, unas gotas de zumo de limón y pimienta."
   ],
   nutricion: { kcal: 475, prot: 24, hc: 62, grasa: 14.5 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "vegetariana"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "vegetariana", "poco especiada"],
   consejo: "Al romper la yema sobre la pasta caliente se forma una salsa cremosa sin nada más. En temporada, usa alcachofas frescas y guisantes tiernos: quedará aún mejor.",
   contundencia: "ligera",
   coste: "económica"

@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Riega todo con la ajada caliente justo antes de servir."
   ],
   nutricion: { kcal: 460, prot: 38, hc: 40, grasa: 16 },
-  etiquetas: ["tradicional", "fácil", "ligera", "una sola cazuela", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "ligera", "una sola cazuela", "alta en proteína", "sin verduras", "bajo en colesterol"],
   consejo: "El truco de abuela es no tirar el caldo: unas cucharadas en la fuente mantienen la merluza jugosa y ligan con la ajada. Si te sobra, es una base estupenda para una sopa de pescado.",
   contundencia: "ligera",
   coste: "media"
@@ -80,7 +80,7 @@ window.RECETAS_SEED.push({
     "Sirve el bacalao con su salsa y las patatas fritas al lado."
   ],
   nutricion: { kcal: 730, prot: 42, hc: 55, grasa: 38 },
-  etiquetas: ["tradicional", "saciante", "fácil", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "saciante", "fácil", "batch cooking", "invierno", "poco especiada"],
   consejo: "Prueba el bacalao antes de salar la salsa: aunque esté desalado, siempre aporta algo de sal. La salsa de tomate se puede hacer el día anterior; reposada está aún más rica.",
   contundencia: "contundente",
   coste: "media"
@@ -123,7 +123,7 @@ window.RECETAS_SEED.push({
     "Espolvorea perejil picado y deja reposar 5 minutos tapado antes de servir."
   ],
   nutricion: { kcal: 590, prot: 34, hc: 45, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "fácil", "saciante"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "fácil", "saciante", "poco especiada"],
   consejo: "Pide en la pescadería que te limpien las sardinas y te quiten la espina central: así se comen sin pelearse con las raspas. No remuevas una vez puestas, que se rompen; mueve la cazuela por las asas.",
   contundencia: "media",
   coste: "económica"
@@ -162,7 +162,7 @@ window.RECETAS_SEED.push({
     "Espolvorea perejil picado y sirve con las patatas fritas."
   ],
   nutricion: { kcal: 690, prot: 32, hc: 58, grasa: 36 },
-  etiquetas: ["tradicional", "saciante", "fácil", "verano"],
+  etiquetas: ["tradicional", "saciante", "fácil", "verano", "poco especiada"],
   consejo: "La cebolla manda: si la pochas con prisa queda dura. Fuego bajo y paciencia. Y los chipirones, poco tiempo y a fuego vivo, o se pondrán como chicle.",
   contundencia: "contundente",
   coste: "económica"
@@ -248,7 +248,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve enseguida con pan para mojar en la salsa."
   ],
   nutricion: { kcal: 500, prot: 40, hc: 30, grasa: 24 },
-  etiquetas: ["tradicional", "para invitados", "de domingo", "de cuchara"],
+  etiquetas: ["tradicional", "para invitados", "de domingo", "de cuchara", "sin verduras", "poco especiada"],
   consejo: "El meneo de la cazuela es lo que liga la salsa: la harina del rape y el jugo de las almejas la espesan solas. Desecha las almejas que no se abran.",
   contundencia: "media",
   coste: "premium"
@@ -290,7 +290,7 @@ window.RECETAS_SEED.push({
     "Sirve el pescaíto en una fuente con gajos de limón y la ensalada de tomate al lado."
   ],
   nutricion: { kcal: 800, prot: 45, hc: 60, grasa: 42 },
-  etiquetas: ["tradicional", "saciante", "verano", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "verano", "para invitados", "de domingo", "poco especiada"],
   consejo: "El secreto andaluz es sacudir bien la harina en un colador antes de freír: así queda una capa fina y crujiente, nunca un rebozado pastoso. Y freír en tandas pequeñas, siempre.",
   contundencia: "contundente",
   coste: "media"
@@ -334,7 +334,7 @@ window.RECETAS_SEED.push({
     "Deja templar 10 minutos sobre una rejilla antes de cortar."
   ],
   nutricion: { kcal: 890, prot: 38, hc: 95, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "económica", "al horno", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "económica", "al horno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Usa el aceite rojizo que suelta el sofrito para la masa y para pintar los bordes: es el truco de las panaderías gallegas y da color y sabor. Templada o fría está aún mejor, ideal para llevar.",
   contundencia: "contundente",
   coste: "económica"
@@ -375,7 +375,7 @@ window.RECETAS_SEED.push({
     "Escúrrelas sobre papel de cocina y sírvelas enseguida con los piquillos."
   ],
   nutricion: { kcal: 720, prot: 38, hc: 55, grasa: 38 },
-  etiquetas: ["tradicional", "saciante", "para invitados"],
+  etiquetas: ["tradicional", "saciante", "para invitados", "poco especiada"],
   consejo: "La masa debe estar fría y el aceite caliente: ese contraste es lo que hace que el rebozado se infle y quede crujiente. Antiguamente se ponía una tira de pimiento rojo para imitar la casaca de los húsares de Pavía.",
   contundencia: "contundente",
   coste: "media"
@@ -414,7 +414,7 @@ window.RECETAS_SEED.push({
     "Sirve la merluza con las patatas, los pimientos y un gajo de limón."
   ],
   nutricion: { kcal: 600, prot: 36, hc: 50, grasa: 28 },
-  etiquetas: ["tradicional", "fácil", "rápida", "para niños"],
+  etiquetas: ["tradicional", "fácil", "rápida", "para niños", "poco especiada"],
   consejo: "Si usas merluza congelada, descongélala en la nevera la víspera y sécala muy bien: si suelta agua, el rebozado se despega. El fuego medio es clave para que el huevo no se queme antes de que el pescado se haga.",
   contundencia: "media",
   coste: "media"
@@ -453,7 +453,7 @@ window.RECETAS_SEED.push({
     "Sirve el bacalao con su jugo sobre las judías salteadas."
   ],
   nutricion: { kcal: 570, prot: 40, hc: 42, grasa: 26 },
-  etiquetas: ["tradicional", "fácil", "rápida", "al horno", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "rápida", "al horno", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "La 'llauna' es la bandeja de lata donde se hacía en las tabernas de Barcelona. Cualquier fuente sirve; lo importante es que el pimentón no se queme: añádelo siempre con la sartén fuera del fuego.",
   contundencia: "media",
   coste: "media"
@@ -493,7 +493,7 @@ window.RECETAS_SEED.push({
     "Sirve tibio, decorado con el huevo duro en rodajas y las nueces troceadas, con pan para untar."
   ],
   nutricion: { kcal: 690, prot: 34, hc: 48, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "invierno", "económica"],
+  etiquetas: ["tradicional", "saciante", "invierno", "económica", "sin verduras", "poco especiada"],
   consejo: "Se llama así porque 'atasca a las burras' de lo que llena. Trabaja la mezcla con energía mientras añades el aceite poco a poco, como si fuera una mayonesa: así queda cremosa y no aceitosa.",
   contundencia: "contundente",
   coste: "económica"
@@ -534,7 +534,7 @@ window.RECETAS_SEED.push({
     "Prueba y rectifica de sal (el bacalao ya aporta). Deja reposar 5 minutos fuera del fuego antes de servir."
   ],
   nutricion: { kcal: 665, prot: 36, hc: 62, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Cachar las patatas suelta almidón y espesa el caldo sin harina. Si quieres el guiso más espeso, aplasta un par de trozos de patata contra la pared de la cazuela al final.",
   contundencia: "contundente",
   coste: "económica"
@@ -574,7 +574,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos tapado antes de servir: el bonito terminará de hacerse con el calor."
   ],
   nutricion: { kcal: 470, prot: 40, hc: 18, grasa: 26 },
-  etiquetas: ["tradicional", "verano", "batch cooking", "alta en proteína"],
+  etiquetas: ["tradicional", "verano", "batch cooking", "alta en proteína", "verduras escondidas", "poco especiada"],
   consejo: "Está aún mejor de un día para otro. Prepara el doble de salsa, congela la mitad, y en temporada de bonito (de junio a septiembre) tendrás la cena resuelta en 10 minutos.",
   contundencia: "ligera",
   coste: "media"
@@ -614,7 +614,7 @@ window.RECETAS_SEED.push({
     "Sirve el bonito con su cebolla y las patatas fritas al lado."
   ],
   nutricion: { kcal: 715, prot: 40, hc: 55, grasa: 37 },
-  etiquetas: ["tradicional", "saciante", "verano", "fácil"],
+  etiquetas: ["tradicional", "saciante", "verano", "fácil", "poco especiada"],
   consejo: "En Cádiz se hace con atún, pero con bonito está igual de rico y es más asequible. Como todos los encebollados, gana reposando: hazlo por la mañana y caliéntalo suave a la hora de comer.",
   contundencia: "contundente",
   coste: "media"
@@ -654,7 +654,7 @@ window.RECETAS_SEED.push({
     "Vierte el refrito por encima del pescado y las patatas, menea la cazuela y sirve en el momento."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 42, grasa: 15 },
-  etiquetas: ["tradicional", "ligera", "económica", "de cuchara", "fácil"],
+  etiquetas: ["tradicional", "ligera", "económica", "de cuchara", "fácil", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Los marineros gallegos la hacían en el barco con el pescado del día: sirve cualquier pescado blanco firme (rape, raya, congrio). Lo que no puede faltar es el refrito con vinagre, que le da la gracia.",
   contundencia: "ligera",
   coste: "económica"
@@ -698,7 +698,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 670, prot: 34, hc: 65, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "batch cooking", "invierno", "poco especiada"],
   consejo: "El calamar o se hace muy rápido o muy despacio: a medio camino queda duro. Aquí va despacio, así que no tengas prisa y pínchalo antes de echar las patatas.",
   contundencia: "contundente",
   coste: "económica"
@@ -782,7 +782,7 @@ window.RECETAS_SEED.push({
     "Sirve las truchas con el jamón y los ajos dorados por encima, las patatas y unas gotas de limón."
   ],
   nutricion: { kcal: 630, prot: 40, hc: 45, grasa: 32 },
-  etiquetas: ["tradicional", "fácil", "rápida", "económica"],
+  etiquetas: ["tradicional", "fácil", "rápida", "económica", "sin verduras", "poco especiada"],
   consejo: "La trucha de piscifactoría es de los pescados más baratos del mercado. Fríe primero el jamón para que suelte su grasa en el aceite: así toda la trucha sabe a jamón.",
   contundencia: "media",
   coste: "económica"
@@ -822,7 +822,7 @@ window.RECETAS_SEED.push({
     "Saca la fuente, vierte el refrito de ajos por encima del pescado y sirve enseguida, regando con el jugo de la fuente."
   ],
   nutricion: { kcal: 680, prot: 42, hc: 50, grasa: 34 },
-  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "sin verduras", "poco especiada"],
   consejo: "Para saber si está hecho, mira el ojo: cuando se pone blanco y abultado, el besugo está en su punto. Si no encuentras besugo, la receta funciona igual con una dorada grande.",
   contundencia: "contundente",
   coste: "premium"
@@ -863,7 +863,7 @@ window.RECETAS_SEED.push({
     "Aliña la ensalada con sal, el vinagre y 2 cucharadas de aceite y sírvela con los filetes, gajos de limón y pan."
   ],
   nutricion: { kcal: 535, prot: 32, hc: 38, grasa: 28 },
-  etiquetas: ["tradicional", "fácil", "rápida", "para niños"],
+  etiquetas: ["tradicional", "fácil", "rápida", "para niños", "poco especiada"],
   consejo: "El gallo es muy fino y se hace enseguida: con 2 minutos por lado basta. Si el aceite está demasiado caliente el huevo se quema antes de cuajarse; mejor fuego medio.",
   contundencia: "media",
   coste: "media"
@@ -903,7 +903,7 @@ window.RECETAS_SEED.push({
     "Saca el rodaballo, riégalo con el refrito, espolvorea perejil picado y sírvelo directamente en la fuente."
   ],
   nutricion: { kcal: 700, prot: 40, hc: 48, grasa: 38 },
-  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "sin verduras", "poco especiada"],
   consejo: "La piel y la gelatina del rodaballo son lo mejor: no las retires. Al servir, recoge con una cuchara el jugo de la fuente, que habrá emulsionado con la gelatina, y riega cada plato.",
   contundencia: "contundente",
   coste: "premium"
@@ -942,7 +942,7 @@ window.RECETAS_SEED.push({
     "Sirve los jureles con los pimientos, la ensalada de tomate, limón y pan."
   ],
   nutricion: { kcal: 595, prot: 34, hc: 42, grasa: 32 },
-  etiquetas: ["tradicional", "económica", "fácil", "rápida", "verano"],
+  etiquetas: ["tradicional", "económica", "fácil", "rápida", "verano", "poco especiada"],
   consejo: "Los jureles pequeños se comen casi enteros si están bien fritos. Haz un par de cortes en los costados de los más grandes para que se hagan por igual.",
   contundencia: "media",
   coste: "económica"
@@ -987,7 +987,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve en plato hondo."
   ],
   nutricion: { kcal: 660, prot: 38, hc: 58, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Mójate las manos con agua fría para formar las albóndigas: no se pegan y quedan más redondas. Puedes congelarlas crudas y enharinadas.",
   contundencia: "contundente",
   coste: "media"
@@ -1031,7 +1031,7 @@ window.RECETAS_SEED.push({
     "Desmolda y sirve en rodajas con la mayonesa por encima y la lechuga aliñada."
   ],
   nutricion: { kcal: 560, prot: 34, hc: 20, grasa: 38 },
-  etiquetas: ["tradicional", "al horno", "batch cooking", "verano", "para invitados"],
+  etiquetas: ["tradicional", "al horno", "batch cooking", "verano", "para invitados", "keto", "poco especiada"],
   consejo: "Mejor hazlo la víspera: frío de nevera se corta limpio y sabe más. Si quieres ahorrar, usa solo merluza congelada; las gambas son un lujo opcional.",
   contundencia: "media",
   coste: "económica"

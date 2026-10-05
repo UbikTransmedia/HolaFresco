@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Sirve bien caliente, con unas gotas de vinagre de vino por encima si te gusta el contraste."
   ],
   nutricion: { kcal: 500, prot: 22, hc: 62, grasa: 15 },
-  etiquetas: ["de cuchara", "batch cooking", "económica", "invierno", "para niños"],
+  etiquetas: ["de cuchara", "batch cooking", "económica", "invierno", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Las lentejas ganan al día siguiente: haz el doble y congela en raciones. Para espesar el caldo, tritura un cazo de lentejas con verdura y devuélvelo a la cazuela."
 });
 
@@ -132,7 +132,7 @@ window.RECETAS_SEED.push({
     "Reparte el guiso en platos hondos y corona con el tofu crujiente justo antes de servir para que no se ablande."
   ],
   nutricion: { kcal: 590, prot: 32, hc: 50, grasa: 25 },
-  etiquetas: ["de cuchara", "alta en proteína", "batch cooking", "invierno"],
+  etiquetas: ["de cuchara", "alta en proteína", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "El guiso se puede hacer con antelación y recalentar; el tofu, en cambio, hazlo en el momento. Si tienes freidora de aire, el tofu queda perfecto a 200 °C durante 12 minutos."
 });
 
@@ -179,7 +179,7 @@ window.RECETAS_SEED.push({
     "Termina con los encurtidos escurridos, las almendras tostadas, perejil picado y un chorrito de zumo de limón."
   ],
   nutricion: { kcal: 640, prot: 28, hc: 56, grasa: 30 },
-  etiquetas: ["ideal para llevar", "verano", "alta en proteína"],
+  etiquetas: ["ideal para llevar", "verano", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "El cremoso de judías también sirve como hummus para untar; aguanta 3 días en la nevera. Si no tienes batidora potente, remoja los anacardos 30 minutos o usa agua hirviendo."
 });
 
@@ -229,7 +229,7 @@ window.RECETAS_SEED.push({
     "Sirve las koftas con la ensalada y la salsa de yogur a la menta, y espolvorea el perejil restante."
   ],
   nutricion: { kcal: 660, prot: 27, hc: 68, grasa: 29 },
-  etiquetas: ["alta en proteína", "ideal para llevar", "para niños", "económica"],
+  etiquetas: ["alta en proteína", "ideal para llevar", "para niños", "económica", "superalimentos", "poco especiada"],
   consejo: "Si prefieres el horno, hornea las koftas a 200 °C durante 20 minutos, dándoles la vuelta a mitad de tiempo. Las koftas crudas se congelan bien separadas en una bandeja."
 });
 
@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
     "Prueba y rectifica de sal y pimienta. Sirve con el perejil picado por encima y el pan tostado al lado."
   ],
   nutricion: { kcal: 600, prot: 25, hc: 58, grasa: 25 },
-  etiquetas: ["de cuchara", "económica", "invierno", "para niños", "una sola sartén"],
+  etiquetas: ["de cuchara", "económica", "invierno", "para niños", "una sola sartén", "poco especiada"],
   consejo: "Para una versión vegana, sustituye la nata por 100 ml de leche de coco o de nata de avena. Unas setas variadas en lugar de champiñones le dan un sabor más intenso."
 });
 
@@ -320,7 +320,7 @@ window.RECETAS_SEED.push({
     "Sirve las cintas como base, la boloñesa encima, y termina con los garbanzos crujientes reservados, la albahaca en trozos y el parmesano rallado."
   ],
   nutricion: { kcal: 600, prot: 24, hc: 56, grasa: 28 },
-  etiquetas: ["al horno", "para niños", "verano", "económica"],
+  etiquetas: ["al horno", "para niños", "verano", "económica", "poco especiada"],
   consejo: "Si quieres más saciedad, sirve la boloñesa con 120 g de pasta integral cocida en lugar de las cintas o además de ellas. La salsa aguanta 4 días en la nevera y congela bien."
 });
 

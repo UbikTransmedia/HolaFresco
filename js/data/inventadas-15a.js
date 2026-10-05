@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Vuelve a poner la merluza encima, tapa y deja 2 minutos a fuego bajo para que termine de hacerse por dentro. Riega con el zumo de medio limón, pimienta y perejil picado y sirve."
   ],
   nutricion: { kcal: 515, prot: 36, hc: 38, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Retira el romero antes de servir y, si te sobra salsa con judías, mézclala al día siguiente con un huevo escalfado: desayuno o cena de lujo en cinco minutos.",
   contundencia: "media",
   coste: "media"
@@ -80,7 +80,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmón sobre una buena cama de tabulé y espolvorea una pizca más de zumaque por encima."
   ],
   nutricion: { kcal: 565, prot: 35, hc: 42, grasa: 28 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "verano", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "verano", "ideal para llevar", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "El tabulé auténtico lleva mucha más hierba que bulgur: no tengas miedo con el perejil. Aguanta perfecto en la nevera un día, así que puedes duplicarlo y llevarlo al trabajo con salmón frío desmigado.",
   contundencia: "media",
   coste: "premium"
@@ -123,7 +123,7 @@ window.RECETAS_SEED.push({
     "Aliña con el resto del aceite, el orégano restante, pimienta y las hojas de menta rotas con la mano. Mezcla con suavidad, reparte los picatostes por encima y sirve muy fresca."
   ],
   nutricion: { kcal: 445, prot: 28, hc: 34, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "sin cocción", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "sin cocción", "económica", "poco especiada"],
   consejo: "Si la sandía no está en temporada, cámbiala por melocotón o naranja en gajos. Añade los picatostes justo al servir para que no se ablanden.",
   contundencia: "ligera",
   coste: "económica"
@@ -164,7 +164,7 @@ window.RECETAS_SEED.push({
     "Sirve el bacalao con una cucharada generosa de tzatziki, la ensalada de pepino y rábano al lado y la pita cortada en triángulos."
   ],
   nutricion: { kcal: 425, prot: 36, hc: 38, grasa: 14 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si te sobra tzatziki, aguanta dos días en la nevera y sirve como salsa para verduras asadas o para untar en bocadillos de pollo.",
   contundencia: "ligera",
   coste: "media"
@@ -206,7 +206,7 @@ window.RECETAS_SEED.push({
     "Sirve la caballa sobre la ensalada templada con una cuña de limón para exprimir al momento."
   ],
   nutricion: { kcal: 535, prot: 36, hc: 30, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "económica", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "económica", "alta en proteína", "ideal para llevar", "superalimentos", "poco especiada"],
   consejo: "La caballa es rica en omega-3 y muy barata: pide en la pescadería que te la abran en lomos. La ensalada de garbanzos, fría, es perfecta para el táper con la caballa desmigada por encima.",
   contundencia: "media",
   coste: "económica"
@@ -248,7 +248,7 @@ window.RECETAS_SEED.push({
     "Coloca la dorada encima con la piel hacia arriba y cúbrela con la salsa vierge a temperatura ambiente."
   ],
   nutricion: { kcal: 455, prot: 34, hc: 38, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa vierge gana si la preparas 15 minutos antes y la dejas macerar a temperatura ambiente. Sirve igual de bien con cualquier pescado blanco a la plancha o con pollo.",
   contundencia: "ligera",
   coste: "media"
@@ -290,7 +290,7 @@ window.RECETAS_SEED.push({
     "Extiende el yogur en el plato, pon la merluza encima y acompaña con la ensalada shirazi bien fría."
   ],
   nutricion: { kcal: 365, prot: 34, hc: 16, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si no encuentras zaatar, mezcla tomillo seco, sésamo tostado, zumaque y una pizca de sal a partes iguales. Para una cena más saciante, añade un pan de pita caliente.",
   contundencia: "ligera",
   coste: "media"
@@ -373,7 +373,7 @@ window.RECETAS_SEED.push({
     "Sirve las verduras con el salmón encima, cúbrelo con la gremolata y termina con sal en escamas y pimienta."
   ],
   nutricion: { kcal: 445, prot: 32, hc: 18, grasa: 27 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "una sola sartén", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "una sola sartén", "alta en proteína", "detox", "poco especiada"],
   consejo: "La gremolata de naranja también funciona con limón o con piel de mandarina en invierno. Pela el resto de la naranja y tómala de postre para no desperdiciar nada.",
   contundencia: "ligera",
   coste: "premium"
@@ -415,7 +415,7 @@ window.RECETAS_SEED.push({
     "Exprime medio limón sobre la fuente y sirve con el pan para mojar en los jugos."
   ],
   nutricion: { kcal: 400, prot: 34, hc: 30, grasa: 16 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Prepara la costra con antelación y guárdala en un tarro en la nevera: sirve para cualquier pescado blanco, para pechuga de pollo o para gratinar verduras.",
   contundencia: "ligera",
   coste: "media"
@@ -459,7 +459,7 @@ window.RECETAS_SEED.push({
     "Esparce los piñones y la albahaca rota por encima y sirve con el pan tostado para mojar en la salsa."
   ],
   nutricion: { kcal: 460, prot: 34, hc: 36, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa admite el doble de cantidad y se congela muy bien: tenla lista para otro día con merluza, pez espada o incluso huevos escalfados en ella.",
   contundencia: "ligera",
   coste: "media"
@@ -500,7 +500,7 @@ window.RECETAS_SEED.push({
     "Hornea 6-8 minutos, hasta que los boquerones estén blancos y jugosos. Exprime medio limón por encima y sirve enseguida."
   ],
   nutricion: { kcal: 525, prot: 30, hc: 42, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "poco especiada"],
   consejo: "Pide en la pescadería que te limpien los boquerones y te quiten la espina central: así se comen sin esfuerzo. Con sardinas pequeñas o jurelitos queda igual de rico.",
   contundencia: "media",
   coste: "económica"
@@ -544,7 +544,7 @@ window.RECETAS_SEED.push({
     "Sirve la peperonata templada con la caballa encima y las patatas al orégano al lado."
   ],
   nutricion: { kcal: 575, prot: 32, hc: 44, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "batch cooking", "verano", "poco especiada"],
   consejo: "La peperonata está todavía más buena al día siguiente: haz el doble y úsala en bocadillos, sobre tostadas con queso fresco o como base para huevos al plato.",
   contundencia: "media",
   coste: "económica"
@@ -589,7 +589,7 @@ window.RECETAS_SEED.push({
     "Corta el atún en tiras gruesas y sírvelo sobre la caponata templada con el pan tostado."
   ],
   nutricion: { kcal: 545, prot: 38, hc: 34, grasa: 28 },
-  etiquetas: ["mediterránea", "aromática", "para invitados", "verano", "alta en proteína"],
+  etiquetas: ["mediterránea", "aromática", "para invitados", "verano", "alta en proteína", "poco especiada"],
   consejo: "No pases el atún: si lo cocinas más de 2 minutos en total se seca. La caponata, como cualquier guiso siciliano, mejora en la nevera; hazla la víspera y sírvela a temperatura ambiente.",
   contundencia: "media",
   coste: "premium"
@@ -633,7 +633,7 @@ window.RECETAS_SEED.push({
     "Sirve los pinchos sobre la ensalada de cuscús con un poco más de limón exprimido al momento."
   ],
   nutricion: { kcal: 535, prot: 38, hc: 50, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "ideal para llevar", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Puedes intercalar en las brochetas trozos de pimiento rojo y cebolla morada. El cuscús con hierbas aguanta perfecto en el táper con el bacalao frío en lascas.",
   contundencia: "media",
   coste: "media"
@@ -676,7 +676,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el perejil reservado y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 700, prot: 40, hc: 54, grasa: 36 },
-  etiquetas: ["mediterránea", "aromática", "invierno", "de cuchara", "para invitados"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "de cuchara", "para invitados", "poco especiada"],
   consejo: "Si no tienes caldo de pescado, usa agua con las espinas de la merluza hervidas 15 minutos con una hoja de laurel. Unas almejas añadidas al final convierten el plato en una fiesta.",
   contundencia: "contundente",
   coste: "media"
@@ -717,7 +717,7 @@ window.RECETAS_SEED.push({
     "Hornea 15-18 minutos, hasta que el papel se hinche. Sirve el paquete cerrado en el plato y ábrelo en la mesa para liberar todo el aroma."
   ],
   nutricion: { kcal: 425, prot: 33, hc: 32, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "para invitados"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "para invitados", "poco especiada", "bajo en colesterol"],
   consejo: "El papillote funciona con cualquier pescado de ración y es imposible que se seque. Cambia el tomillo por eneldo y el tomate seco por hinojo laminado para una versión más fresca.",
   contundencia: "ligera",
   coste: "media"
@@ -760,7 +760,7 @@ window.RECETAS_SEED.push({
     "Termina con la albahaca rota y sirve directamente en la sartén con el pan tostado para mojar la yema."
   ],
   nutricion: { kcal: 435, prot: 27, hc: 30, grasa: 23 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén", "económica", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén", "económica", "batch cooking", "poco especiada"],
   consejo: "Haz el doble de verduras (hasta el paso 3) y guárdalas: en tres días tienes una cena de diez minutos solo añadiendo el bonito y los huevos.",
   contundencia: "ligera",
   coste: "económica"
@@ -803,7 +803,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con el perejil restante y cuñas de limón."
   ],
   nutricion: { kcal: 675, prot: 36, hc: 60, grasa: 32 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "poco especiada"],
   consejo: "El plaki es generoso en aceite a propósito: los jugos de tomate y aceite del fondo son lo mejor, así que acompaña con pan. Funciona igual con merluza o abadejo congelado (descongelado y bien seco).",
   contundencia: "contundente",
   coste: "media"
@@ -845,7 +845,7 @@ window.RECETAS_SEED.push({
     "Exprime el limón por encima y sirve enseguida."
   ],
   nutricion: { kcal: 730, prot: 40, hc: 62, grasa: 36 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "verano", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "verano", "alta en proteína", "poco especiada"],
   consejo: "Al abrirlas en libro y hornearlas, las sardinas no huelen apenas y se comen sin espinas. Las sobras, desmigadas con un poco de tomate, hacen unas tostas estupendas.",
   contundencia: "contundente",
   coste: "económica"
@@ -887,7 +887,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del majado por encima y el limón restante en cuñas."
   ],
   nutricion: { kcal: 690, prot: 38, hc: 58, grasa: 34 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "para invitados", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "para invitados", "invierno", "poco especiada"],
   consejo: "Fuera de temporada usa alcachofas en conserva bien escurridas y añádelas solo en los últimos 15 minutos. Ponte guantes para limpiar las frescas o frótate los dedos con limón: evitarás que se ennegrezcan.",
   contundencia: "contundente",
   coste: "premium"
@@ -931,7 +931,7 @@ window.RECETAS_SEED.push({
     "Tuesta las semillas de calabaza 2 minutos en una sartén seca. Sirve la bandeja con cucharadas de yogur al eneldo, las semillas por encima y un chorrito de limón."
   ],
   nutricion: { kcal: 720, prot: 44, hc: 50, grasa: 38 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Si te sobra, desmiga el salmón y mezcla todo con hojas de espinaca y el yogur aligerado con agua: tienes una ensalada templada para el día siguiente.",
   contundencia: "contundente",
   coste: "premium"
@@ -974,7 +974,7 @@ window.RECETAS_SEED.push({
     "Sirve el jurel sobre el bulgur con las verduras asadas, la salsa de yogur y cuñas de limón."
   ],
   nutricion: { kcal: 595, prot: 38, hc: 52, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "El jurel es uno de los pescados azules más baratos y sabrosos; pide que te lo dejen en lomos sin espinas. Las verduras asadas y el bulgur se pueden preparar con antelación para varios días.",
   contundencia: "media",
   coste: "económica"
@@ -1016,7 +1016,7 @@ window.RECETAS_SEED.push({
     "Sirve el bonito en lascas grandes, rociado con una cucharada de su aceite aromático, junto a las patatas y la ensalada."
   ],
   nutricion: { kcal: 675, prot: 42, hc: 50, grasa: 34 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano", "ideal para llevar"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano", "ideal para llevar", "poco especiada"],
   consejo: "El bonito confitado se conserva hasta 5 días en la nevera cubierto con su aceite: úsalo en ensaladas, bocadillos o con pimientos asados. Cuela el aceite sobrante y guárdalo para sofritos de pescado.",
   contundencia: "contundente",
   coste: "media"

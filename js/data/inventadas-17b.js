@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Pisto exprés de calabacín y pimientos con burrata y tostadas al ajo",
   subtitulo: "con albahaca fresca y un hilo de aceite de oliva virgen extra",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Reparte el pisto en dos platos, coloca media burrata encima de cada uno, ábrela con un cuchillo y termina con hojas de albahaca rotas, pimienta negra y el resto del aceite en crudo. Sirve con las tostadas."
   ],
   nutricion: { kcal: 530, prot: 20, hc: 45, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "verano", "poco especiada"],
   consejo: "El pisto sobrante se congela muy bien: guárdalo en raciones y úsalo como base para unos huevos al horno o para rellenar una empanadilla. Si no encuentras burrata, una mozzarella de búfala rota a mano funciona casi igual.",
   contundencia: "media",
   coste: "premium"
@@ -51,7 +51,7 @@ window.RECETAS_SEED.push({
   nombre: "Setas salteadas al ajo y tomillo con garbanzos, yogur al eneldo y pan de pita",
   subtitulo: "con pimentón ahumado y ralladura de limón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -82,7 +82,7 @@ window.RECETAS_SEED.push({
     "Calienta las pitas 1 minuto por lado en una sartén seca. Extiende el yogur en los platos, pon encima las setas con garbanzos y termina con el eneldo restante y pimienta negra. Acompaña con la pita."
   ],
   nutricion: { kcal: 424, prot: 20, hc: 50, grasa: 16 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "otoño"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "otoño", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "La clave para que las setas queden doradas y no cocidas es no llenar la sartén: si es pequeña, hazlas en dos tandas. El yogur al eneldo sobrante es perfecto como dip para crudités al día siguiente.",
   contundencia: "ligera",
   coste: "económica"
@@ -93,7 +93,7 @@ window.RECETAS_SEED.push({
   nombre: "Sartén griega de tomates cherry, garbanzos y aceitunas con feta al orégano",
   subtitulo: "tomates reventados, cebolla morada y perejil",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -124,7 +124,7 @@ window.RECETAS_SEED.push({
     "Termina con ralladura y unas gotas de limón, perejil picado, pimienta negra y un hilo de aceite. Sirve directamente en la sartén, con pan para mojar si quieres."
   ],
   nutricion: { kcal: 404, prot: 18, hc: 38, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "verano", "económica"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "verano", "económica", "poco especiada"],
   consejo: "Frotar el orégano seco entre las palmas antes de echarlo despierta sus aceites esenciales y multiplica el aroma. Las sobras, frías y con un puñado de rúcula, son una ensalada estupenda para llevar.",
   contundencia: "ligera",
   coste: "económica"
@@ -135,7 +135,7 @@ window.RECETAS_SEED.push({
   nombre: "Espárragos trigueros salteados con judías blancas, limón, parmesano y piñones",
   subtitulo: "con ajo dorado, guindilla y perejil",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -165,7 +165,7 @@ window.RECETAS_SEED.push({
     "Sirve con los piñones, el resto del parmesano en lascas y pimienta negra recién molida."
   ],
   nutricion: { kcal: 410, prot: 21, hc: 32, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "primavera"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "primavera", "bajo en colesterol"],
   consejo: "Si no es temporada de trigueros, haz la misma receta con judías verdes finas o brócoli en ramilletes pequeños. Para abaratarla, cambia los piñones por almendras laminadas tostadas.",
   contundencia: "ligera",
   coste: "premium"
@@ -176,7 +176,7 @@ window.RECETAS_SEED.push({
   nombre: "Calabacín dorado y garbanzos al zaatar sobre labneh rápido de limón y menta",
   subtitulo: "con zumaque y pan de pita caliente",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -206,7 +206,7 @@ window.RECETAS_SEED.push({
     "Extiende el labneh en los platos formando un hueco, pon encima el calabacín con los garbanzos y termina con el zumaque, hojas de menta y un hilo de aceite. Sirve con pita caliente si te apetece."
   ],
   nutricion: { kcal: 404, prot: 20, hc: 36, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "verano", "económica"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "verano", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Para un labneh de verdad, deja el yogur salado colgando en un paño sobre un colador toda la noche en la nevera: queda tan denso que se unta como queso crema. Si no tienes zaatar, mezcla tomillo seco, sésamo tostado y una pizca de zumaque.",
   contundencia: "ligera",
   coste: "económica"
@@ -217,7 +217,7 @@ window.RECETAS_SEED.push({
   nombre: "Halloumi a la sartén con pimientos de colores, alcaparras y menta sobre cuscús al limón",
   subtitulo: "pimientos salteados con ajo y cebolla morada",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida"],
   proteina: "queso",
@@ -248,7 +248,7 @@ window.RECETAS_SEED.push({
     "Mezcla la mitad de la menta picada con el cuscús y los pimientos. Coloca el halloumi caliente encima, riega con unas gotas de limón y termina con el resto de la menta en hojas. Sirve enseguida: el halloumi se endurece al enfriarse."
   ],
   nutricion: { kcal: 706, prot: 30, hc: 70, grasa: 34 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "verano", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "verano", "alta en proteína", "poco especiada"],
   consejo: "El halloumi ya es salado: no añadas sal al dorarlo. Un chorrito de miel con guindilla por encima del queso recién hecho es un contraste delicioso.",
   contundencia: "contundente",
   coste: "media"
@@ -259,7 +259,7 @@ window.RECETAS_SEED.push({
   nombre: "Alcachofas doradas con alubias blancas, ricotta al limón y gremolata de perejil",
   subtitulo: "con alcachofas de bote y pan tostado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -287,7 +287,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan. Extiende la ricotta en los platos, coloca encima las alcachofas con las judías y corona con la gremolata. Acompaña con el pan tostado."
   ],
   nutricion: { kcal: 530, prot: 26, hc: 48, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "primavera"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "primavera", "poco especiada"],
   consejo: "Secar bien las alcachofas de bote es lo que permite que se doren en vez de cocerse. La gremolata sobrante sirve para alegrar cualquier crema de verduras o un plato de legumbres.",
   contundencia: "media",
   coste: "media"
@@ -298,7 +298,7 @@ window.RECETAS_SEED.push({
   nombre: "Pitas-pizza crujientes de berenjena a la plancha, tomate, mozzarella y orégano",
   subtitulo: "con rúcula aliñada y un toque de parmesano",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -327,7 +327,7 @@ window.RECETAS_SEED.push({
     "Saca, ralla el parmesano por encima, espolvorea el resto del orégano y termina con la rúcula aliñada con la última cucharada de aceite y pimienta negra."
   ],
   nutricion: { kcal: 575, prot: 26, hc: 66, grasa: 23 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "al horno", "para niños", "económica"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "al horno", "para niños", "económica", "poco especiada"],
   consejo: "Si tienes horno con grill, gratina los últimos 2 minutos para que el queso quede tostado. Prueba también con calabacín en láminas o con pimiento asado de bote.",
   contundencia: "media",
   coste: "económica"
@@ -338,7 +338,7 @@ window.RECETAS_SEED.push({
   nombre: "Rollitos de berenjena rellenos de ricotta y espinacas al horno con salsa de tomate y albahaca",
   subtitulo: "involtini de berenjena gratinados con mozzarella",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -370,7 +370,7 @@ window.RECETAS_SEED.push({
     "Termina con albahaca fresca y un hilo de aceite en crudo. Sirve con pan tostado para la salsa."
   ],
   nutricion: { kcal: 512, prot: 25, hc: 40, grasa: 28 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano", "poco especiada"],
   consejo: "Puedes dejarlos montados en la fuente el día antes y hornearlos al momento. Un puñado de nueces picadas en el relleno le da un punto crujiente muy rico.",
   contundencia: "media",
   coste: "media"
@@ -381,7 +381,7 @@ window.RECETAS_SEED.push({
   nombre: "Coliflor a la siciliana al horno con alubias blancas, pasas, alcaparras y costra de parmesano",
   subtitulo: "agridulce, con ajo, guindilla y limón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -413,7 +413,7 @@ window.RECETAS_SEED.push({
     "Riega con el zumo de medio limón y termina con el resto del perejil."
   ],
   nutricion: { kcal: 520, prot: 26, hc: 50, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "batch cooking", "ideal para llevar", "superalimentos", "bajo en colesterol"],
   consejo: "Las pasas y las alcaparras son el clásico contraste dulce-salado de Sicilia; si quieres un toque más, añade unas aceitunas verdes picadas o unos piñones tostados. Aguanta bien 3 días en la nevera y se come rico tibio.",
   contundencia: "media",
   coste: "media"
@@ -424,7 +424,7 @@ window.RECETAS_SEED.push({
   nombre: "Calabaza asada al romero sobre ricotta con farro, salvia crujiente y avellanas",
   subtitulo: "con un hilo de miel y ralladura de limón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida"],
   proteina: "queso",
@@ -454,7 +454,7 @@ window.RECETAS_SEED.push({
     "Extiende la ricotta en la base de los platos, pon encima el farro y luego la calabaza. Riega con la miel y el aceite aromatizado de la salvia y termina con las avellanas y las hojas crujientes."
   ],
   nutricion: { kcal: 726, prot: 26, hc: 88, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "otoño", "invierno", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "otoño", "invierno", "ideal para llevar", "poco especiada"],
   consejo: "Asa el doble de calabaza: la mitad sobrante se convierte al día siguiente en una crema en 5 minutos con caldo de verduras. Si no encuentras farro, usa cebada perlada o espelta.",
   contundencia: "contundente",
   coste: "media"
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
   nombre: "Hinojo y puerros asados al limón con huevos al horno, feta y eneldo",
   subtitulo: "todo en una bandeja, con pan tostado para mojar",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -495,7 +495,7 @@ window.RECETAS_SEED.push({
     "Mientras, tuesta el pan. Termina la bandeja con el eneldo picado, las hojitas de hinojo, pimienta y un hilo de aceite, y sirve con el pan para mojar en la yema."
   ],
   nutricion: { kcal: 470, prot: 24, hc: 32, grasa: 27 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "una sola bandeja"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "una sola bandeja", "poco especiada"],
   consejo: "El hinojo asado pierde el sabor anisado fuerte y se vuelve dulce: si no te convence crudo, prueba así. Puedes cambiar la feta por ricotta y el eneldo por menta.",
   contundencia: "ligera",
   coste: "económica"
@@ -506,7 +506,7 @@ window.RECETAS_SEED.push({
   nombre: "Alcachofas y habas salteadas con ajos tiernos, menta y queso fresco sobre tostada",
   subtitulo: "menestra rápida de primavera con limón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -534,7 +534,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y riégalo con la última cucharada de aceite. Pon encima el queso fresco en lonchas y cubre con el salteado templado y abundante menta picada."
   ],
   nutricion: { kcal: 442, prot: 25, hc: 45, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén", "primavera"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén", "primavera", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Fuera de temporada, usa alcachofas en conserva bien secas y doradas a fuego fuerte: tardarás 15 minutos. Un huevo poché encima la convierte en una cena aún más completa.",
   contundencia: "ligera",
   coste: "media"
@@ -545,7 +545,7 @@ window.RECETAS_SEED.push({
   nombre: "Setas portobello rellenas de espinacas, ricotta y nueces con tomates asados al tomillo",
   subtitulo: "gratinadas con parmesano y un punto de nuez moscada",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["cena"],
   proteina: "queso",
@@ -577,7 +577,7 @@ window.RECETAS_SEED.push({
     "Sirve dos setas por persona con los tomates asados y el resto del tomillo fresco por encima."
   ],
   nutricion: { kcal: 404, prot: 22, hc: 16, grasa: 28 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "otoño"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "otoño", "keto", "superalimentos", "poco especiada"],
   consejo: "Si no encuentras portobello, usa champiñones grandes (6 por persona) y reduce el horneado final a 8 minutos. Con una rebanada de pan tostado untada en el jugo de los tomates queda una cena redonda.",
   contundencia: "ligera",
   coste: "media"
@@ -588,7 +588,7 @@ window.RECETAS_SEED.push({
   nombre: "Bandeja de espárragos verdes, patatas nuevas y tomates cherry con feta al limón y eneldo",
   subtitulo: "todo al horno, con ajo y aceite de oliva",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -616,7 +616,7 @@ window.RECETAS_SEED.push({
     "Exprime medio limón sobre la bandeja, espolvorea abundante eneldo picado y pimienta negra y mezcla un poco para que el feta se desmigue entre las verduras."
   ],
   nutricion: { kcal: 463, prot: 19, hc: 45, grasa: 23 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "primavera"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "primavera", "detox", "poco especiada"],
   consejo: "Aplasta los ajos asados y mézclalos con el jugo de la bandeja: es la mejor salsa. Si te sobra, añade huevo duro y unas hojas verdes y tienes una ensalada tibia para llevar.",
   contundencia: "ligera",
   coste: "media"
@@ -627,7 +627,7 @@ window.RECETAS_SEED.push({
   nombre: "Zaalouk marroquí de berenjena y tomate con garbanzos, yogur al comino y pan de pita",
   subtitulo: "berenjena guisada con ajo, pimentón y cilantro",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -659,7 +659,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el zumo de limón, la mayor parte del cilantro picado y la última cucharada de aceite. Sirve templado con una cucharada de yogur, el resto del cilantro y la pita caliente."
   ],
   nutricion: { kcal: 534, prot: 22, hc: 62, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "verano", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "verano", "económica", "bajo en colesterol"],
   consejo: "Para un sabor ahumado auténtico, asa las berenjenas enteras directamente sobre la llama o bajo el grill hasta que la piel se queme y usa solo la pulpa. Está todavía mejor al día siguiente, a temperatura ambiente.",
   contundencia: "media",
   coste: "económica"
@@ -670,7 +670,7 @@ window.RECETAS_SEED.push({
   nombre: "Gemistá griegos: tomates y pimientos rellenos de arroz a las hierbas con feta",
   subtitulo: "con patatas asadas en el jugo de la bandeja",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -703,7 +703,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos y sirve con el feta desmenuzado por encima y un hilo de aceite en crudo."
   ],
   nutricion: { kcal: 634, prot: 18, hc: 82, grasa: 26 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano", "económica"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano", "económica", "poco especiada"],
   consejo: "Los gemistá están mejor templados que recién salidos del horno, y al día siguiente aún más ricos. Añade al relleno un puñado de pasas y piñones si quieres la versión festiva.",
   contundencia: "media",
   coste: "económica"
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
   nombre: "Hünkar beğendi vegetariano: crema de berenjena ahumada y queso con garbanzos guisados al pimentón",
   subtitulo: "el clásico turco con un guiso de garbanzos, tomate y pimiento",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -750,7 +750,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema de berenjena en la base del plato, con el guiso de garbanzos en el centro y perejil picado por encima."
   ],
   nutricion: { kcal: 666, prot: 30, hc: 60, grasa: 34 },
-  etiquetas: ["mediterránea", "aromática", "invierno", "otoño"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "otoño", "poco especiada"],
   consejo: "El sabor ahumado de la piel quemada es la esencia del plato: no tengas miedo de que se ennegrezca del todo. Si te sobra crema de berenjena, úntala en pan tostado como aperitivo.",
   contundencia: "contundente",
   coste: "media"
@@ -761,7 +761,7 @@ window.RECETAS_SEED.push({
   nombre: "Tian provenzal de calabacín, tomate y berenjena con queso de cabra y tomillo",
   subtitulo: "verduras en espiral sobre cebolla pochada, con pan tostado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -791,7 +791,7 @@ window.RECETAS_SEED.push({
     "Reparte el queso de cabra en rodajas por encima y gratina 5 minutos, hasta que se dore. Termina con el tomillo restante y sirve con el pan tostado."
   ],
   nutricion: { kcal: 444, prot: 17, hc: 40, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "verano", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "verano", "económica", "poco especiada"],
   consejo: "Una mandolina hace las rodajas en un minuto y quedan todas iguales, lo que asegura una cocción uniforme. Frío, al día siguiente, sobre una tostada con un poco de rúcula, está buenísimo.",
   contundencia: "ligera",
   coste: "económica"
@@ -802,7 +802,7 @@ window.RECETAS_SEED.push({
   nombre: "Caponata siciliana con piñones, pasas y burrata",
   subtitulo: "berenjena agridulce con apio, aceitunas y alcaparras, y pan crujiente",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -836,7 +836,7 @@ window.RECETAS_SEED.push({
     "Reparte en los platos, pon media burrata abierta encima de cada uno, termina con el resto de la albahaca y acompaña con el pan tostado."
   ],
   nutricion: { kcal: 612, prot: 20, hc: 52, grasa: 36 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "verano", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "verano", "ideal para llevar", "poco especiada"],
   consejo: "La caponata gana mucho de un día para otro: hazla la víspera y añade la burrata en el momento. Sin burrata, unas lascas de queso ricotta salada o de parmesano también funcionan.",
   contundencia: "media",
   coste: "premium"
@@ -847,7 +847,7 @@ window.RECETAS_SEED.push({
   nombre: "Escalivada al horno con queso de cabra gratinado, nueces y miel sobre pan tostado",
   subtitulo: "berenjena, pimiento rojo y cebolla asados lentamente con ajo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -877,7 +877,7 @@ window.RECETAS_SEED.push({
     "Sirve con las nueces picadas, unas gotas de miel y la última cucharada de aceite en crudo."
   ],
   nutricion: { kcal: 584, prot: 22, hc: 52, grasa: 32 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "verano", "poco especiada"],
   consejo: "Asa más verduras de las necesarias: la escalivada aliñada aguanta 4-5 días en la nevera cubierta de aceite y sirve para ensaladas, bocadillos o como guarnición. El jugo que sueltan al pelarlas es oro: añádelo al aliño.",
   contundencia: "media",
   coste: "económica"
@@ -888,7 +888,7 @@ window.RECETAS_SEED.push({
   nombre: "Gratinado de calabaza, garbanzos y espinacas con bechamel de yogur y feta",
   subtitulo: "al comino, con costra crujiente de pan rallado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -920,7 +920,7 @@ window.RECETAS_SEED.push({
     "Hornea 20 minutos, hasta que la crema haya cuajado y la superficie esté dorada. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 663, prot: 34, hc: 62, grasa: 31 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "invierno", "alta en proteína", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "invierno", "alta en proteína", "económica", "superalimentos", "poco especiada"],
   consejo: "La bechamel de yogur y huevo es más ligera y rápida que la clásica y queda igual de cremosa. Puedes montar el gratinado la noche anterior y hornearlo al llegar a casa: añade 5 minutos al horneado.",
   contundencia: "contundente",
   coste: "económica"
@@ -931,7 +931,7 @@ window.RECETAS_SEED.push({
   nombre: "Fasolakia: judías verdes guisadas en aceite y tomate con patata, eneldo y feta",
   subtitulo: "el guiso griego de verano, con pan para mojar",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida"],
   proteina: "queso",
@@ -964,7 +964,7 @@ window.RECETAS_SEED.push({
     "Sirve templado con el feta en un trozo grande por encima y pan para mojar en la salsa."
   ],
   nutricion: { kcal: 700, prot: 22, hc: 72, grasa: 36 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "de cuchara", "batch cooking", "verano", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "de cuchara", "batch cooking", "verano", "económica", "poco especiada"],
   consejo: "En Grecia este guiso se come templado y siempre está mejor al día siguiente. El chorro final de aceite crudo es lo que le da su sabor característico: no lo omitas.",
   contundencia: "contundente",
   coste: "económica"
@@ -975,7 +975,7 @@ window.RECETAS_SEED.push({
   nombre: "Tumbet mallorquín al horno sin freír con queso de cabra gratinado",
   subtitulo: "capas de patata, berenjena y pimiento rojo con salsa de tomate casera",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida"],
   proteina: "queso",
@@ -1007,7 +1007,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos para que las capas se asienten y sirve con perejil picado y pimienta negra."
   ],
   nutricion: { kcal: 670, prot: 20, hc: 62, grasa: 38 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano", "económica"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano", "económica", "poco especiada"],
   consejo: "Asar las verduras en vez de freírlas, como en el tumbet tradicional, ahorra mucho aceite y trabajo sin perder sabor. Está aún más rico al día siguiente, templado; si quieres más proteína, sírvelo con un huevo frito encima.",
   contundencia: "contundente",
   coste: "económica"
@@ -1018,7 +1018,7 @@ window.RECETAS_SEED.push({
   nombre: "Briam griego de verduras asadas lentamente con feta y orégano",
   subtitulo: "patata, calabacín, berenjena y pimiento confitados en tomate y aceite de oliva",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida"],
   proteina: "queso",
@@ -1052,7 +1052,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del perejil y pan para mojar en el jugo."
   ],
   nutricion: { kcal: 730, prot: 22, hc: 66, grasa: 42 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "verano", "ideal para llevar", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "verano", "ideal para llevar", "económica", "poco especiada"],
   consejo: "No escatimes en aceite ni en tiempo: es lo que convierte unas verduras corrientes en un plato meloso y lleno de sabor. Frío, al día siguiente, es un almuerzo de táper perfecto.",
   contundencia: "contundente",
   coste: "económica"

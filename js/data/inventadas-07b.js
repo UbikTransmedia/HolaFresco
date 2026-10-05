@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Mezcla el farro templado con el kale, la cebolla y el aliño. Añade la calabaza caliente, desmenuza el feta por encima y termina con la granada y las semillas tostadas."
   ],
   nutricion: { kcal: 610, prot: 22, hc: 74, grasa: 25 },
-  etiquetas: ["invierno", "al horno", "ideal para llevar", "vegetariana", "batch cooking"],
+  etiquetas: ["invierno", "al horno", "ideal para llevar", "vegetariana", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Sin farro, usa cebada perlada o trigo tierno en los mismos tiempos; con espelta en grano alarga la cocción a 40 minutos.",
   contundencia: "media",
   coste: "media"
@@ -85,7 +85,7 @@ window.RECETAS_SEED.push({
     "Corta la lechuga en tiras anchas y repártela en dos platos. Pon encima la mezcla, riega con el resto del aliño y termina con las nueces y más cebollino."
   ],
   nutricion: { kcal: 465, prot: 39, hc: 27, grasa: 22 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "ideal para llevar", "otoño"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "ideal para llevar", "otoño", "poco especiada"],
   consejo: "Si tienes pavo o pollo asado sobrante, sáltate el paso de la plancha: con 250 g desmenuzados queda igual de bien y está lista en 10 minutos.",
   contundencia: "ligera",
   coste: "económica"
@@ -128,7 +128,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, pon encima el bonito escurrido en lascas grandes y los huevos, y termina con el perejil picado."
   ],
   nutricion: { kcal: 605, prot: 34, hc: 52, grasa: 29 },
-  etiquetas: ["verano", "ideal para llevar", "económica", "sin horno", "tradicional"],
+  etiquetas: ["verano", "ideal para llevar", "económica", "sin horno", "tradicional", "poco especiada"],
   consejo: "Es la ensalada de playa por excelencia: viaja bien en táper si guardas el bonito y el huevo aparte y los añades al servir.",
   contundencia: "media",
   coste: "económica"
@@ -218,7 +218,7 @@ window.RECETAS_SEED.push({
     "Reparte la rúcula en dos platos, coloca los tomates asados y la burrata abierta por la mitad. Riega con el aliño, salpica con escamas de sal y pimienta, y termina con la albahaca rota, los piñones y el pan crujiente clavado en el plato."
   ],
   nutricion: { kcal: 630, prot: 22, hc: 43, grasa: 41 },
-  etiquetas: ["al horno", "para invitados", "verano", "vegetariana", "larga cocción"],
+  etiquetas: ["al horno", "para invitados", "verano", "vegetariana", "larga cocción", "poco especiada"],
   consejo: "Asa el doble de tomates: cubiertos de aceite en un tarro aguantan 10 días en la nevera y sirven para pasta, tostadas o bocadillos.",
   contundencia: "media",
   coste: "premium"
@@ -310,7 +310,7 @@ window.RECETAS_SEED.push({
     "Riega con la vinagreta, reparte las nueces y rompe el jamón crujiente en trozos irregulares sobre la ensalada justo antes de servir."
   ],
   nutricion: { kcal: 460, prot: 19, hc: 28, grasa: 30 },
-  etiquetas: ["rápida", "ligera", "invierno", "para invitados", "sin horno"],
+  etiquetas: ["rápida", "ligera", "invierno", "para invitados", "sin horno", "poco especiada"],
   consejo: "Acompáñala con pan de nueces o de centeno tostado para completar la proteína y recoger el queso; si lo quieres más saciante, añade un huevo mollet por persona.",
   contundencia: "ligera",
   coste: "media"
@@ -356,7 +356,7 @@ window.RECETAS_SEED.push({
     "Añade los pimientos, el tomate, la cebolleta y las hierbas, remueve y sirve templado con la pita tostada y un hilo más de aceite."
   ],
   nutricion: { kcal: 610, prot: 23, hc: 85, grasa: 19 },
-  etiquetas: ["batch cooking", "económica", "vegana", "ideal para llevar", "sin horno"],
+  etiquetas: ["batch cooking", "económica", "vegana", "ideal para llevar", "sin horno", "poco especiada", "bajo en colesterol"],
   consejo: "El bicarbonato en el remojo y la cocción sin sal hasta el final son los dos trucos para que los garbanzos queden mantecosos. Cuece el doble y congela la mitad con su caldo.",
   contundencia: "media",
   coste: "económica"
@@ -450,7 +450,7 @@ window.RECETAS_SEED.push({
     "Tuesta el sésamo 1 minuto en la sartén vacía. Reparte el slaw en dos cuencos, pon encima el tofu caliente y termina con los cacahuetes picados, el sésamo, el cilantro y el chile en rodajas."
   ],
   nutricion: { kcal: 450, prot: 27, hc: 29, grasa: 25 },
-  etiquetas: ["ligera", "vegana", "rápida", "ideal para llevar", "sin horno"],
+  etiquetas: ["ligera", "vegana", "rápida", "ideal para llevar", "sin horno", "superalimentos", "bajo en colesterol"],
   consejo: "El slaw sin el tofu aguanta 2 días en la nevera y gana sabor; es la guarnición perfecta para unas hamburguesas o un pulled pork.",
   contundencia: "ligera",
   coste: "media"
@@ -497,7 +497,7 @@ window.RECETAS_SEED.push({
     "Reparte la rúcula en dos platos, encima las patatas crujientes, los rábanos y los pepinillos. Corona con los huevos escalfados, un poco de sal en escamas y la salsa de yogur en cucharadas; el resto en la mesa."
   ],
   nutricion: { kcal: 470, prot: 20, hc: 41, grasa: 25 },
-  etiquetas: ["al horno", "ligera", "económica", "vegetariana", "brunch"],
+  etiquetas: ["al horno", "ligera", "económica", "vegetariana", "brunch", "poco especiada"],
   consejo: "Si escalfar te da respeto, haz los huevos mollet: 6 minutos y medio en agua hirviendo, agua con hielo y a pelar. El efecto en el plato es el mismo.",
   contundencia: "ligera",
   coste: "económica"
@@ -542,7 +542,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls con la lechuga en tiras, el boniato templado, el maíz escurrido y el aguacate en dados. Reparte el ceviche encima con bastante leche de tigre, que hace de aliño del conjunto."
   ],
   nutricion: { kcal: 455, prot: 32, hc: 47, grasa: 15 },
-  etiquetas: ["ligera", "alta en proteína", "verano", "sin gluten", "para invitados"],
+  etiquetas: ["ligera", "alta en proteína", "verano", "sin gluten", "para invitados", "detox", "bajo en colesterol"],
   consejo: "Puedes hacerlo con corvina, dorada o merluza muy fresca. Si el pescado es congelado (que además elimina el anisakis), descongélalo en la nevera y sécalo bien antes de cortarlo.",
   contundencia: "ligera",
   coste: "premium"
@@ -582,7 +582,7 @@ window.RECETAS_SEED.push({
     "Reparte el bonito y los huevos por encima, riega con el aceite generosamente y sirve con el pan tostado para mojar en el jugo del fondo, que es lo mejor del plato."
   ],
   nutricion: { kcal: 460, prot: 29, hc: 26, grasa: 27 },
-  etiquetas: ["sin cocción", "rápida", "verano", "económica", "tradicional", "ligera"],
+  etiquetas: ["sin cocción", "rápida", "verano", "económica", "tradicional", "ligera", "poco especiada"],
   consejo: "La versión clásica se hace con tomate de lata entero y es igual de buena en invierno: escúrrelo bien y añade una pizca de azúcar si está ácido.",
   contundencia: "ligera",
   coste: "económica"
@@ -627,7 +627,7 @@ window.RECETAS_SEED.push({
     "Salpica con las alcaparras y el resto del eneldo, pon cucharadas de la salsa de yogur y sirve con el pan de centeno y gajos del limón restante."
   ],
   nutricion: { kcal: 420, prot: 34, hc: 27, grasa: 19 },
-  etiquetas: ["sin horno", "rápida", "ligera", "alta en proteína", "para invitados"],
+  etiquetas: ["sin horno", "rápida", "ligera", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "Con trucha ahumada o caballa ahumada sale más barata y queda igual de bien; añade un puñado de patata cocida fría si la quieres más saciante.",
   contundencia: "ligera",
   coste: "premium"
@@ -672,7 +672,7 @@ window.RECETAS_SEED.push({
     "Extiende la crema de yogur en el fondo de dos platos, pon encima la berenjena templada, luego los garbanzos crujientes, la cebolla, la granada y las hierbas. Termina con el resto del aceite en hilo."
   ],
   nutricion: { kcal: 460, prot: 18, hc: 45, grasa: 23 },
-  etiquetas: ["al horno", "ligera", "vegetariana", "económica", "otoño"],
+  etiquetas: ["al horno", "ligera", "vegetariana", "económica", "otoño", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Para que sea un plato más completo en proteína, añade un huevo mollet por persona o sube los garbanzos a 400 g; también va de lujo con pita integral tostada.",
   contundencia: "ligera",
   coste: "económica"
@@ -716,7 +716,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, coloca los cuartos de huevo encima y termina con el perejil picado y una vuelta de pimienta."
   ],
   nutricion: { kcal: 460, prot: 26, hc: 44, grasa: 20 },
-  etiquetas: ["rápida", "económica", "ligera", "ideal para llevar", "vegetariana", "sin horno"],
+  etiquetas: ["rápida", "económica", "ligera", "ideal para llevar", "vegetariana", "sin horno", "poco especiada"],
   consejo: "Es la ensalada comodín de táper: cambia el huevo por atún o queso feta según el día y añade un puñado de rúcula al servir.",
   contundencia: "ligera",
   coste: "económica"
@@ -763,7 +763,7 @@ window.RECETAS_SEED.push({
     "Reparte las verduras en dos platos, encima el pollo caliente, las aceitunas y el perejil picado. Sirve con el tzatziki y la pita cortada en triángulos."
   ],
   nutricion: { kcal: 560, prot: 42, hc: 43, grasa: 24 },
-  etiquetas: ["marinado", "alta en proteína", "verano", "plancha"],
+  etiquetas: ["marinado", "alta en proteína", "verano", "plancha", "poco especiada", "bajo en colesterol"],
   consejo: "Si vas a hacer barbacoa, esta marinada es ideal para contramuslos deshuesados: dóblalos sobre la brocheta y hazlos 5 minutos por cara.",
   contundencia: "media",
   coste: "económica"
@@ -808,7 +808,7 @@ window.RECETAS_SEED.push({
     "Reparte el pepino escurrido en dos platos, pon encima el pollo, nápalo con la salsa y termina con los cacahuetes picados, el sésamo, la cebolleta y el cilantro."
   ],
   nutricion: { kcal: 410, prot: 40, hc: 16, grasa: 21 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "picante", "verano", "sin horno"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "picante", "verano", "sin horno", "bajo en colesterol"],
   consejo: "Para convertirlo en plato único más saciante, sírvelo sobre 60 g por persona de fideos de trigo o arroz jazmín fríos aliñados con un poco de la misma salsa.",
   contundencia: "ligera",
   coste: "media"
@@ -848,7 +848,7 @@ window.RECETAS_SEED.push({
     "Desmenuza el feta por encima en trozos grandes, riega con el aceite, salpica con los pistachos y termina con pimienta recién molida. Sírvela muy fría y enseguida, antes de que la sandía suelte agua."
   ],
   nutricion: { kcal: 445, prot: 13, hc: 33, grasa: 29 },
-  etiquetas: ["sin cocción", "rápida", "verano", "ligera", "vegetariana"],
+  etiquetas: ["sin cocción", "rápida", "verano", "ligera", "vegetariana", "poco especiada"],
   consejo: "Es una cena fresca pero baja en proteína: complétala con 200 g de garbanzos cocidos aliñados con la misma lima, o con unas lonchas de pollo a la plancha frío.",
   contundencia: "ligera",
   coste: "media"
@@ -942,7 +942,7 @@ window.RECETAS_SEED.push({
     "Reparte la rúcula en dos platos, coloca encima las rodajas de naranja, la cebolla escurrida y las aceitunas. Pon la heura caliente encima, riega con la vinagreta y termina con las almendras."
   ],
   nutricion: { kcal: 460, prot: 25, hc: 25, grasa: 29 },
-  etiquetas: ["rápida", "vegana", "ligera", "alta en proteína", "invierno", "una sola sartén"],
+  etiquetas: ["rápida", "vegana", "ligera", "alta en proteína", "invierno", "una sola sartén", "poco especiada"],
   consejo: "La heura se pone gomosa si se pasa: en cuanto tenga bordes tostados, fuera del fuego. Con tofu firme bien escurrido funciona igual de bien.",
   contundencia: "ligera",
   coste: "media"
@@ -1031,7 +1031,7 @@ window.RECETAS_SEED.push({
     "Extiende la lechuga en una fuente y coloca encima, en franjas paralelas, el pollo, el bacon, el huevo, el aguacate, los tomates y el queso azul desmenuzado. Riega con la vinagreta y el resto del cebollino justo antes de servir."
   ],
   nutricion: { kcal: 755, prot: 53, hc: 18, grasa: 52 },
-  etiquetas: ["alta en proteína", "baja en hidratos", "ideal para llevar"],
+  etiquetas: ["alta en proteína", "baja en hidratos", "ideal para llevar", "keto", "poco especiada"],
   consejo: "Si vas a llevarla, monta las franjas en un táper y lleva la vinagreta aparte; el aguacate córtalo en el momento o rocíalo con limón.",
   contundencia: "contundente",
   coste: "media"
@@ -1075,7 +1075,7 @@ window.RECETAS_SEED.push({
     "Corta el solomillo en medallones finos y la piña en trozos. Reparte los canónigos en los platos, encima la quinoa con alubias, el cerdo y la piña, y termina con la cebolla encurtida escurrida y el resto del cilantro."
   ],
   nutricion: { kcal: 580, prot: 44, hc: 62, grasa: 17 },
-  etiquetas: ["al horno", "alta en proteína", "ideal para llevar", "batch cooking"],
+  etiquetas: ["al horno", "alta en proteína", "ideal para llevar", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Si no encuentras pasta de achiote, mezcla 1 cucharadita de pimentón dulce, media de comino, media de orégano y una pizca de canela con el zumo de naranja y un chorrito de vinagre.",
   contundencia: "media",
   coste: "media"
@@ -1122,7 +1122,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls: arroz caliente con las espinacas crudas al lado, el boniato, el pepino y el pollo. Riega con la salsa de tahini y termina con la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 765, prot: 42, hc: 93, grasa: 25 },
-  etiquetas: ["al horno", "alta en proteína", "batch cooking", "ideal para llevar", "invierno"],
+  etiquetas: ["al horno", "alta en proteína", "batch cooking", "ideal para llevar", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Deja el pollo marinando la noche antes: al día siguiente solo tienes que encender el horno y cocer el arroz, y la ensalada está en 35 minutos.",
   contundencia: "contundente",
   coste: "media"

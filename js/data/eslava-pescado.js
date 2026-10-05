@@ -48,7 +48,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con pescado, patata y zanahoria en cada ración y el pan de centeno al lado."
   ],
   nutricion: { kcal: 455, prot: 37, hc: 52, grasa: 10 },
-  etiquetas: ["tradicional", "de cuchara", "ligera", "invierno", "alta en proteína", "sin lácteos", "económica"],
+  etiquetas: ["tradicional", "de cuchara", "ligera", "invierno", "alta en proteína", "sin lácteos", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La ukha es la sopa de pescado más antigua de Rusia y en origen se hacía con pescado de río: perca, lucio o lucioperca; la trucha es lo más parecido que encontrarás aquí, y también vale con merluza y unas cabezas de rape para el caldo. Los pescadores la llaman «triple» cuando cuecen tres tandas de pescado en el mismo caldo. El vodka no se nota en el sabor, pero según la tradición quita el olor a río. Aguanta 2 días en la nevera: recaliéntala sin que llegue a hervir para que el pescado no se deshaga.",
   tupper: true,
   contundencia: "ligera",
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
     "Hornea 30-35 minutos, hasta que esté bien dorada y la base suene hueca al golpearla. Deja reposar 10 minutos antes de cortarla con un cuchillo de sierra, para que las capas no se desmoronen."
   ],
   nutricion: { kcal: 840, prot: 44, hc: 82, grasa: 37 },
-  etiquetas: ["tradicional", "al horno", "para invitados", "fin de semana", "invierno", "alta en proteína"],
+  etiquetas: ["tradicional", "al horno", "para invitados", "fin de semana", "invierno", "alta en proteína", "poco especiada"],
   consejo: "La kulebyaka era el pastel de las grandes ocasiones en la Rusia zarista, con capas separadas por finas tortitas; los cocineros franceses la llevaron a París como coulibiac. Puedes cambiar el arroz por trigo sarraceno cocido, que es igual de tradicional. Si tienes prisa, sustituye la masa por una lámina de hojaldre refrigerada, aunque quedará más grasa. Se come caliente con mantequilla derretida o smetana, y fría al día siguiente está aún mejor: aguanta 2 días en la nevera bien envuelta.",
   tupper: true,
   contundencia: "contundente",
@@ -139,7 +139,7 @@ window.RECETAS_SEED.push({
     "Parte las patatas por la mitad, pásalas por la salsa de la fuente y espolvorea todo con el eneldo picado. Sirve enseguida."
   ],
   nutricion: { kcal: 715, prot: 43, hc: 48, grasa: 39 },
-  etiquetas: ["tradicional", "al horno", "alta en proteína", "otoño"],
+  etiquetas: ["tradicional", "al horno", "alta en proteína", "otoño", "poco especiada"],
   consejo: "En Ucrania se prepara con carasios, un pez de río pequeño y sabroso de los estanques de todo el país; la dorada o la lubina de ración son el mejor sustituto. Freír antes de hornear sella la piel y evita que la salsa quede aguada. Si la smetana se corta un poco en el horno, no pasa nada: al mezclarla con las patatas vuelve a ligar. Con unos champiñones salteados junto a la cebolla tienes la versión de fiesta.",
   tupper: false,
   contundencia: "contundente",
@@ -186,7 +186,7 @@ window.RECETAS_SEED.push({
     "Deja templar y guárdalo en la nevera al menos 2 horas, mejor toda la noche. Sírvelo frío o a temperatura ambiente con pan."
   ],
   nutricion: { kcal: 625, prot: 35, hc: 64, grasa: 25 },
-  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "invierno", "sin lácteos"],
+  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "invierno", "sin lácteos", "poco especiada", "bajo en colesterol"],
   consejo: "El «pescado a la griega» no tiene nada de griego: es un plato polaco de la cena de Nochebuena, cuando no se come carne, y se sirve frío como entrante o como plato principal. Allí se hace con bacalao, merluza o abadejo. Lo importante es que la verdura sea abundante, cubra el pescado por completo y quede agridulce; si la notas plana, añade una cucharadita de vinagre de vino. Aguanta 3 días en la nevera y está mejor al segundo.",
   tupper: true,
   contundencia: "media",
@@ -234,7 +234,7 @@ window.RECETAS_SEED.push({
     "Sirve la carpa recién frita con la ensalada fría y cuñas de limón."
   ],
   nutricion: { kcal: 860, prot: 42, hc: 68, grasa: 47 },
-  etiquetas: ["tradicional", "frito", "navidad", "invierno", "para invitados"],
+  etiquetas: ["tradicional", "frito", "navidad", "invierno", "para invitados", "poco especiada"],
   consejo: "Es la cena de Nochebuena en Chequia y Eslovaquia (allí, vyprážaný kapor): días antes se venden carpas vivas en la calle y muchas familias las guardan en la bañera hasta el día 24; se dice que una escama en la cartera trae dinero todo el año. La ensalada es imprescindible y gana de un día para otro; hay quien le añade guisantes o manzana, y aguanta 2 días en la nevera. La carpa tiene un sabor suave de río; con merluza o bacalao fresco el plato queda igual de bueno.",
   tupper: false,
   contundencia: "contundente",
@@ -279,7 +279,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el brudet con el perejil picado, deja reposar 5 minutos fuera del fuego y sirve con la polenta al lado para mojar la salsa."
   ],
   nutricion: { kcal: 600, prot: 35, hc: 64, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "sin lácteos", "otoño"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "sin lácteos", "otoño", "poco especiada", "bajo en colesterol"],
   consejo: "El brudet (brodet en el norte) se cocina en toda la costa dálmata con varios pescados troceados con su espina, que es la que da cuerpo a la salsa; el rape solo ya da un resultado muy bueno, y si puedes añádele cabracho, gallo o congrio. El vino tinto y el vinagre son la firma de la versión dálmata, y allí se acompaña de «palenta» blanda. Está aún mejor recalentado al día siguiente, a fuego suave y meciendo la cazuela.",
   tupper: true,
   contundencia: "media",
@@ -319,7 +319,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida en la misma cazuela, con el limón en cuñas y pan para mojar."
   ],
   nutricion: { kcal: 425, prot: 22, hc: 43, grasa: 18 },
-  etiquetas: ["tradicional", "rápida", "económica", "ligera", "una sola olla", "verano", "sin lácteos"],
+  etiquetas: ["tradicional", "rápida", "económica", "ligera", "una sola olla", "verano", "sin lácteos", "sin verduras", "poco especiada"],
   consejo: "La buzara es la forma de cocinar el marisco en toda la costa del Adriático oriental, y los mejillones de las Bocas de Kotor (Boka Kotorska), en Montenegro, son los más famosos. Esta es la buzara blanca; para la roja, añade 2 tomates rallados con el vino. No hace falta sal: el agua de los mejillones ya es salada. Si sobra salsa, cuece unos espaguetis y termínalos en ella.",
   tupper: false,
   contundencia: "ligera",
@@ -363,7 +363,7 @@ window.RECETAS_SEED.push({
     "Sirve los tallarines en plato hondo con el pescado y mucho caldo por encima."
   ],
   nutricion: { kcal: 625, prot: 43, hc: 70, grasa: 19 },
-  etiquetas: ["tradicional", "picante", "de cuchara", "invierno", "sin lácteos", "alta en proteína"],
+  etiquetas: ["tradicional", "picante", "de cuchara", "invierno", "sin lácteos", "alta en proteína", "bajo en colesterol"],
   consejo: "El fiš paprikaš se cocina al aire libre en un caldero de hierro a orillas del Danubio y del Tisa, en Vojvodina, y también en la vecina Eslavonia croata. El pescado tradicional es de río; aquí, la corvina, el rape o el bacalao fresco en trozos grandes son los que mejor aguantan la cocción sin deshacerse. Allí se acompaña con fideos caseros anchos. Aguanta 2 días en la nevera: guarda los tallarines aparte para que no se empapen.",
   tupper: true,
   contundencia: "media",
@@ -408,7 +408,7 @@ window.RECETAS_SEED.push({
     "Espolvorea con el perejil picado y sirve con el resto del limón en cuñas y pan para mojar."
   ],
   nutricion: { kcal: 645, prot: 37, hc: 43, grasa: 36 },
-  etiquetas: ["tradicional", "al horno", "económica", "sin lácteos", "otoño", "alta en proteína"],
+  etiquetas: ["tradicional", "al horno", "económica", "sin lácteos", "otoño", "alta en proteína", "poco especiada"],
   consejo: "Plakiya es el nombre búlgaro de cualquier pescado horneado sobre una cama de cebolla y tomate; en la costa del mar Negro se hace con caballa (skumriya), bonito o carpa. La caballa es barata, rica en omega 3 y aguanta muy bien: dura 2 días en la nevera y, fría, al día siguiente está riquísima sobre pan. Si te molestan las espinas, usa lomos y reduce el horneado a 15 minutos.",
   tupper: true,
   contundencia: "media",
@@ -452,7 +452,7 @@ window.RECETAS_SEED.push({
     "Sirve la trucha con la miga de ajo por encima, la blitva al lado y el resto del limón en cuñas."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 46, grasa: 31 },
-  etiquetas: ["tradicional", "alta en proteína", "sin lácteos", "primavera"],
+  etiquetas: ["tradicional", "alta en proteína", "sin lácteos", "primavera", "poco especiada"],
   consejo: "La trucha del río Soča, en los Alpes eslovenos, es famosa en toda Europa, y «po tržaško» (a la triestina) es la forma más clásica de prepararla en Eslovenia y Croacia: ajo, perejil, aceite y pan. La blitva, acelga y patata machacadas con aceite, acompaña al pescado desde Istria hasta Dubrovnik. Si no encuentras acelgas, usa espinacas frescas y cuécelas solo 1 minuto.",
   tupper: false,
   contundencia: "media",
@@ -540,7 +540,7 @@ window.RECETAS_SEED.push({
     "Unta cada tosta con la crema de rábano picante y reparte encima la remolacha con manzana, el arenque, la cebolla escurrida y el resto del eneldo. Sirve enseguida con los canónigos aliñados con el aceite, sal y unas gotas de limón."
   ],
   nutricion: { kcal: 575, prot: 27, hc: 62, grasa: 24 },
-  etiquetas: ["creativa", "rápida", "económica", "otoño", "invierno"],
+  etiquetas: ["creativa", "rápida", "económica", "otoño", "invierno", "bajo en colesterol"],
   consejo: "La «seledka pod shuboi» (arenque bajo abrigo) es la ensalada en capas de remolacha, patata y arenque que no falta en ninguna mesa de Nochevieja en Rusia, Ucrania y Bielorrusia; aquí sus sabores se montan sobre pan de centeno. El arenque marinado se vende en tarros en supermercados con sección nórdica o alemana y en tiendas de productos del Este. Monta las tostas en el último momento para que el pan no se ablande con la remolacha.",
   tupper: false,
   contundencia: "media",
@@ -585,7 +585,7 @@ window.RECETAS_SEED.push({
     "Sirve los pierogi con la cebolla a la mantequilla por encima, como se hace en Polonia, y la smetana al lado."
   ],
   nutricion: { kcal: 690, prot: 35, hc: 68, grasa: 30 },
-  etiquetas: ["creativa", "al horno", "batch cooking", "para niños", "invierno"],
+  etiquetas: ["creativa", "al horno", "batch cooking", "para niños", "invierno", "sin verduras", "poco especiada"],
   consejo: "Los pierogi z rybą son uno de los doce platos de la cena de Nochebuena polaca; en Polonia también se hornean (pierogi pieczone), aunque con masa de levadura. Las obleas de empanadilla ahorran media hora de amasado. Puedes congelarlos crudos en una bandeja y hornearlos sin descongelar, 5 minutos más. Aguantan 3 días en la nevera: recaliéntalos en el horno o en la airfryer para que vuelvan a estar crujientes.",
   tupper: true,
   contundencia: "contundente",
@@ -633,7 +633,7 @@ window.RECETAS_SEED.push({
     "Corta el salmón en lonchas finas al bies con un cuchillo largo y bien afilado, separándolas de la piel. Sirve la ensalada con las lonchas por encima y la smetana al lado."
   ],
   nutricion: { kcal: 640, prot: 37, hc: 45, grasa: 35 },
-  etiquetas: ["creativa", "sin gluten", "para invitados", "fin de semana", "alta en proteína", "verano"],
+  etiquetas: ["creativa", "sin gluten", "para invitados", "fin de semana", "alta en proteína", "verano", "superalimentos"],
   consejo: "La «malosólnaya semga», salmón poco salado, es un clásico de los entrantes rusos que se prepara en casa; el vodka ayuda a curar y aporta un punto limpio, pero puedes omitirlo o usar ginebra. Si no has comprado el salmón ya congelado, congélalo antes: es obligatorio para comer pescado crudo o curado en casa. Ya curado y bien envuelto aguanta 4 días en la nevera, así que puedes curar el doble y usarlo en tostas de pan de centeno.",
   tupper: false,
   contundencia: "media",
@@ -676,7 +676,7 @@ window.RECETAS_SEED.push({
     "Escurre los pepinos y sirve la merluza con ellos, el resto del eneldo, el pan de centeno y el limón en cuñas."
   ],
   nutricion: { kcal: 430, prot: 35, hc: 44, grasa: 12 },
-  etiquetas: ["creativa", "airfryer", "ligera", "alta en proteína", "para niños", "verano"],
+  etiquetas: ["creativa", "airfryer", "ligera", "alta en proteína", "para niños", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Marinar en kéfir o en suero es un truco de las cocinas del Este: el ácido láctico ablanda las fibras sin cocinar el pescado, al contrario que el limón, y deja la carne muy jugosa. Los pepinos malosol (poco salados) son los del verano ruso; con este método rápido están listos en 20 minutos y aguantan 2 días en la nevera. Si no tienes airfryer, hornea la merluza a 220 °C 12-14 minutos.",
   tupper: false,
   contundencia: "ligera",
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
     "Sirve la lubina con su jugo, las patatas y la mizeria bien fría, con el resto del eneldo por encima."
   ],
   nutricion: { kcal: 515, prot: 36, hc: 40, grasa: 23 },
-  etiquetas: ["creativa", "rápida", "microondas", "sin gluten", "verano", "alta en proteína"],
+  etiquetas: ["creativa", "rápida", "microondas", "sin gluten", "verano", "alta en proteína", "poco especiada"],
   consejo: "La mizeria es la ensalada de pepino con nata agria que acompaña la comida del domingo en Polonia, casi siempre con patatas nuevas al eneldo. El microondas es una forma excelente de cocinar pescado al vapor: tapado y con un poco de agua no se seca, pero el tiempo depende del grosor; para lomos finos empieza con 2 minutos. Vale cualquier pescado blanco: merluza, bacalao fresco o abadejo.",
   tupper: false,
   contundencia: "media",
@@ -764,7 +764,7 @@ window.RECETAS_SEED.push({
     "Reparte la ensalada en los platos, ralla el sirene por encima como una nevada, que es como se sirve en Bulgaria, y pon las brochetas al lado con el resto del ajvar como salsa y el pan."
   ],
   nutricion: { kcal: 580, prot: 40, hc: 41, grasa: 28 },
-  etiquetas: ["creativa", "rápida", "verano", "alta en proteína"],
+  etiquetas: ["creativa", "rápida", "verano", "alta en proteína", "poco especiada"],
   consejo: "La ensalada shopska es un símbolo de Bulgaria (blanca, verde y roja como su bandera), y el ajvar, la crema de pimiento rojo asado de Serbia y Macedonia del Norte, se prepara cada otoño en grandes cantidades en toda la región. Los dos se encuentran en tiendas de productos del Este y en algunos supermercados; el queso feta es un buen sustituto del sirene. En invierno, haz las brochetas bajo el grill del horno, 4-5 minutos.",
   tupper: false,
   contundencia: "media",
@@ -810,7 +810,7 @@ window.RECETAS_SEED.push({
     "Abre cada pita, úntala con kajmak y mete dentro 5 ćevapi con la cebolla picada y el perejil. Sirve con el tomate y, si te gusta, el ajvar."
   ],
   nutricion: { kcal: 710, prot: 39, hc: 52, grasa: 38 },
-  etiquetas: ["creativa", "alta en proteína", "para niños", "verano"],
+  etiquetas: ["creativa", "alta en proteína", "para niños", "verano", "poco especiada"],
   consejo: "Los ćevapi son la comida callejera más querida de Bosnia y Herzegovina: rollitos de carne a la brasa servidos en pan somun con cebolla cruda y kajmak, una crema láctea espesa y ligeramente fermentada. Con salmón quedan jugosos gracias a su grasa, y la pizca de bicarbonato, el truco de las parrillas de Sarajevo, los hace más tiernos. Puedes formarlos con antelación y guardarlos crudos en la nevera hasta 12 horas.",
   tupper: false,
   contundencia: "contundente",
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
     "Espolvorea con el resto del eneldo y sirve directamente de la cazuela, con las patatas al lado."
   ],
   nutricion: { kcal: 500, prot: 35, hc: 53, grasa: 16 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "otoño", "invierno"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "otoño", "invierno", "poco especiada"],
   consejo: "El chucrut (kiszona kapusta en Polonia, kysané zelí en Chequia) suele acompañar al cerdo, pero en las comidas de vigilia polacas se guisa también con pescado y setas. La manzana y la mantequilla suavizan su acidez y la alcaravea es la especia que lo identifica. El chucrut braseado aguanta 4 días en la nevera, así que puedes hacer el doble y usarlo con salchichas o con huevos.",
   tupper: true,
   contundencia: "media",
@@ -902,7 +902,7 @@ window.RECETAS_SEED.push({
     "Sirve con el limón en cuñas."
   ],
   nutricion: { kcal: 645, prot: 44, hc: 62, grasa: 24 },
-  etiquetas: ["creativa", "sin gluten", "sin lácteos", "alta en proteína", "una sola olla", "otoño"],
+  etiquetas: ["creativa", "sin gluten", "sin lácteos", "alta en proteína", "una sola olla", "otoño", "sin verduras", "poco especiada"],
   consejo: "El crni rižot, arroz negro con sepia y su tinta, es el plato más famoso de la costa dálmata; aquí el arroz se cambia por alforfón, el grano tostado de Rusia, Ucrania y Polonia, que aporta un sabor a avellana y no se empasta si no lo remueves en exceso. Si lo compras sin tostar, no te saltes el tostado: es lo que le da carácter. La tinta en sobres se vende en la pescadería o en congelados. Aguanta 2 días en la nevera; recaliéntalo con un chorrito de caldo.",
   tupper: true,
   contundencia: "media",

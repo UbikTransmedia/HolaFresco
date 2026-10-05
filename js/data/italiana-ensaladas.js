@@ -91,7 +91,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo sobre una cama de canónigos, con todo su aliño por encima y el pan al lado."
   ],
   nutricion: { kcal: 640, prot: 40, hc: 42, grasa: 35 },
-  etiquetas: ["tradicional", "sin lácteos", "alta en proteína", "ideal para llevar", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "sin lácteos", "alta en proteína", "ideal para llevar", "batch cooking", "invierno", "poco especiada"],
   consejo: "La receta la recogió Bartolomeo Stefani, cocinero de los Gonzaga en Mantua, en el siglo XVII, y todavía se prepara en la zona para las fiestas. Está aún mejor al día siguiente: guárdala sin los canónigos hasta 3 días en la nevera. Con el caldo que sobra tienes la base de un risotto o de una sopa.",
   tupper: true,
   contundencia: "media",
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Reparte el huevo, muele pimienta negra por encima y sirve al momento, templada."
   ],
   nutricion: { kcal: 540, prot: 25, hc: 22, grasa: 39 },
-  etiquetas: ["tradicional", "invierno", "rápida", "económica", "sin gluten", "sin lácteos"],
+  etiquetas: ["tradicional", "invierno", "rápida", "económica", "sin gluten", "sin lácteos", "poco especiada"],
   consejo: "En friulano, lidric es la achicoria silvestre que se recoge a principios de primavera y poc, el trocito de raíz que se arranca con ella. En las casas de labranza se aliñaba con panceta caliente y vinagre, y se acompañaba de alubias y huevo duro para convertirla en comida. Con endibia roja o radicchio queda más amargo y muy vistoso. Se come recién hecho: con el tiempo la escarola se queda lacia.",
   tupper: false,
   contundencia: "media",
@@ -184,7 +184,7 @@ window.RECETAS_SEED.push({
     "Déjala en la nevera al menos 30 minutos para que las capas se asienten y sácala 10 minutos antes de servir, para que el aceite no esté frío."
   ],
   nutricion: { kcal: 805, prot: 48, hc: 52, grasa: 45 },
-  etiquetas: ["tradicional", "para invitados", "sin lácteos", "alta en proteína", "invierno"],
+  etiquetas: ["tradicional", "para invitados", "sin lácteos", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Es el plato de Navidad y de grandes ocasiones de Génova: «magro» porque era un menú de vigilia, sin carne, y la versión de fiesta lleva bogavante, varios pescados y huevas de mújol. Puedes cocer todo y hacer la salsa el día antes y montar la cúpula por la mañana; aguanta bien hasta el día siguiente. Si no encuentras regañas, usa picos de pan o pan tostado muy seco.",
   tupper: true,
   contundencia: "contundente",
@@ -230,7 +230,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas con lascas de pecorino por encima y el pan al lado."
   ],
   nutricion: { kcal: 620, prot: 29, hc: 62, grasa: 28 },
-  etiquetas: ["tradicional", "económica", "ideal para llevar", "batch cooking", "otoño", "alta en proteína"],
+  etiquetas: ["tradicional", "económica", "ideal para llevar", "batch cooking", "otoño", "alta en proteína", "poco especiada"],
   consejo: "En Umbría se hace con las lentejas de Castelluccio di Norcia, diminutas y de piel fina, que se cuecen sin remojo; las pardinas son el mejor sustituto. Aguanta 3 días en la nevera: guarda el queso aparte y añádelo al servir. Si tienes prisa, usa 400 g de lentejas cocidas bien enjuagadas y la tendrás en 15 minutos.",
   tupper: true,
   contundencia: "media",
@@ -315,7 +315,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos para que la patata beba el jugo del tomate. Justo antes de servir, coloca la ventresca en lascas grandes y la albahaca rota con las manos."
   ],
   nutricion: { kcal: 532, prot: 25, hc: 45, grasa: 28 },
-  etiquetas: ["tradicional", "verano", "rápida", "sin gluten", "sin lácteos", "ideal para llevar"],
+  etiquetas: ["tradicional", "verano", "rápida", "sin gluten", "sin lácteos", "ideal para llevar", "poco especiada"],
   consejo: "Pantelleria, entre Sicilia y Túnez, es famosa por sus alcaparras; esta ensalada de pescadores se toma templada y cada familia le pone su toque: pepino, huevo duro, caballa en aceite o un poco de queso curado rallado. Aguanta 2 días en la nevera sin el pescado; añádelo al servir.",
   tupper: true,
   contundencia: "media",
@@ -357,7 +357,7 @@ window.RECETAS_SEED.push({
     "Coloca la patata y el bacalao en una fuente, riégalos con el aceite aliñado, añade las aceitunas y el ajo frito, y reparte por encima las ñoras crujientes, desmenuzando alguna con los dedos. Sirve templada."
   ],
   nutricion: { kcal: 475, prot: 32, hc: 31, grasa: 25 },
-  etiquetas: ["tradicional", "invierno", "ligera", "sin gluten", "sin lácteos", "alta en proteína"],
+  etiquetas: ["tradicional", "invierno", "ligera", "sin gluten", "sin lácteos", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Los peperoni cruschi son pimientos dulces de Senise secados al sol y fritos en un segundo; en Basilicata no faltan en la cena de Nochebuena con el bacalao. Las ñoras son su mejor equivalente en España; también sirven pimientos choriceros secos. Si quieres prepararla con antelación, aguanta 2 días en la nevera: guarda las ñoras fritas aparte en un bote cerrado para que no pierdan el crujiente y añádelas al servir.",
   tupper: true,
   contundencia: "ligera",
@@ -399,7 +399,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan en una sartén sin aceite 1-2 minutos por cara y sirve la ensalada con el resto del limón en gajos."
   ],
   nutricion: { kcal: 618, prot: 30, hc: 48, grasa: 34 },
-  etiquetas: ["tradicional", "primavera", "rápida", "alta en proteína"],
+  etiquetas: ["tradicional", "primavera", "rápida", "alta en proteína", "poco especiada"],
   consejo: "En Roma, el 1 de mayo se sale al campo con habas frescas en su vaina, pecorino romano y salami, y se pelan y comen crudas en la mesa. Si encuentras habas frescas pequeñas, no las cuezas: tómalas crudas, como manda la tradición. El pecorino romano es salado y picante; un manchego curado es un buen sustituto.",
   tupper: false,
   contundencia: "media",
@@ -449,7 +449,7 @@ window.RECETAS_SEED.push({
     "Mezcla la carne templada con la zanahoria, el apio, la cebolla, los pepinillos, las judías verdes y la mitad del bagnet vert, y ajusta de sal y pimienta. Reparte por encima el huevo entero en cuartos y la clara del otro picada, y sirve el resto de la salsa aparte."
   ],
   nutricion: { kcal: 628, prot: 54, hc: 22, grasa: 36 },
-  etiquetas: ["tradicional", "invierno", "alta en proteína", "batch cooking", "sin lácteos", "ideal para llevar"],
+  etiquetas: ["tradicional", "invierno", "alta en proteína", "batch cooking", "sin lácteos", "ideal para llevar", "poco especiada"],
   consejo: "En el Piamonte el bollito misto se sirve en invierno con varias salsas, y lo que sobra se convierte al día siguiente en esta ensalada. En olla exprés, el morcillo está tierno en 45 minutos. El caldo colado es oro: congélalo para un risotto o una sopa. La ensalada aguanta 3 días en la nevera y está mejor a temperatura ambiente.",
   tupper: true,
   contundencia: "media",
@@ -493,7 +493,7 @@ window.RECETAS_SEED.push({
     "Mezcla la cebada templada con la mitad del aliño y la rúcula. Coloca encima las endibias, las uvas, la cebolla, el gorgonzola en trozos y las avellanas, y riega con el resto del aliño. Sirve templado, para que el queso empiece a fundirse."
   ],
   nutricion: { kcal: 695, prot: 19, hc: 76, grasa: 35 },
-  etiquetas: ["creativa", "vegetariana", "otoño", "al horno", "ideal para llevar"],
+  etiquetas: ["creativa", "vegetariana", "otoño", "al horno", "ideal para llevar", "poco especiada"],
   consejo: "La combinación de radicchio, gorgonzola y uva es muy del Véneto y la Lombardía en época de vendimia. Puedes cambiar la cebada por farro o espelta y las uvas por pera asada. Para llevar, guarda el queso y la rúcula aparte y monta el bol al momento; aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -536,7 +536,7 @@ window.RECETAS_SEED.push({
     "Junta el orzo con el calabacín, la rúcula, el resto de la gremolata, el zumo del otro medio limón y el aceite restante. Reparte el pollo por encima y termina con cucharadas de ricotta."
   ],
   nutricion: { kcal: 625, prot: 49, hc: 57, grasa: 22 },
-  etiquetas: ["creativa", "alta en proteína", "rápida", "ideal para llevar", "batch cooking"],
+  etiquetas: ["creativa", "alta en proteína", "rápida", "ideal para llevar", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "La gremolata (perejil, ajo y ralladura de limón) es el remate milanés del ossobuco, y despierta cualquier carne a la plancha. Para llevar, guarda la ricotta en un botecito aparte y añade la rúcula al momento; aguanta 3 días en la nevera. El orzo se puede cambiar por fusilli o por cuscús grueso.",
   tupper: true,
   contundencia: "media",
@@ -578,7 +578,7 @@ window.RECETAS_SEED.push({
     "Corta la cebolla morada en juliana fina. Monta los platos con la rúcula, la cebolla, la calabaza y los garbanzos templados; riega con la vinagreta y termina con las semillas y la salvia crujiente desmenuzada."
   ],
   nutricion: { kcal: 576, prot: 18, hc: 60, grasa: 29 },
-  etiquetas: ["creativa", "vegana", "sin gluten", "sin lácteos", "económica", "otoño", "ideal para llevar"],
+  etiquetas: ["creativa", "vegana", "sin gluten", "sin lácteos", "económica", "otoño", "ideal para llevar", "poco especiada"],
   consejo: "Calabaza, salvia y nuez moscada son el relleno de los tortelli di zucca de Mantua; aquí van en ensalada. Para llevar, guarda la salvia, las semillas y la vinagreta aparte: los garbanzos pierden el crujiente en la nevera, pero 4 minutos de airfryer a 200 °C los recuperan. Sin airfryer, hornéalo todo a 220 °C unos 30 minutos.",
   tupper: true,
   contundencia: "media",
@@ -621,7 +621,7 @@ window.RECETAS_SEED.push({
     "Monta la ensalada: la rúcula con el pepino, el melón, el jamón en pliegues y la burrata en el centro, abierta con las manos. Riega con el resto del aceite de albahaca y termina con los pistachos, sal en escamas y pimienta. Sirve con el pan."
   ],
   nutricion: { kcal: 614, prot: 26, hc: 42, grasa: 38 },
-  etiquetas: ["creativa", "sin cocción", "verano", "rápida", "para invitados"],
+  etiquetas: ["creativa", "sin cocción", "verano", "rápida", "para invitados", "poco especiada"],
   consejo: "Melón y jamón es uno de los entrantes de verano más clásicos de Italia; con burrata y pistachos se convierte en una cena completa. Funciona igual con higos o melocotón en lugar de melón. Monta el plato justo antes de comer: el melón suelta agua y la rúcula se ablanda.",
   tupper: false,
   contundencia: "media",
@@ -664,7 +664,7 @@ window.RECETAS_SEED.push({
     "Extiende una capa de salsa en el fondo de los platos y coloca encima la patata, las judías, los cherry y el huevo. Termina con más salsa, el resto de las alcaparras, perejil picado y pimienta negra. Sirve tibia."
   ],
   nutricion: { kcal: 522, prot: 31, hc: 46, grasa: 24 },
-  etiquetas: ["creativa", "sin gluten", "económica", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["creativa", "sin gluten", "económica", "ideal para llevar", "alta en proteína", "poco especiada"],
   consejo: "La salsa tonnata nació en el Piamonte para acompañar la ternera fría del vitello tonnato; con yogur queda más ligera y fresca. Aguanta 3 días en la nevera en un bote cerrado y sirve también para mojar verduras crudas o untar un bocadillo. Para llevar, pon la salsa aparte y mézclala al comer.",
   tupper: true,
   contundencia: "media",
@@ -752,7 +752,7 @@ window.RECETAS_SEED.push({
     "Reparte en los platos la endibia y la remolacha, pon encima las verduras asadas templadas y los huevos partidos por la mitad, riega con la bagna cauda templada y sirve con el pan para mojar."
   ],
   nutricion: { kcal: 630, prot: 30, hc: 51, grasa: 34 },
-  etiquetas: ["creativa", "otoño", "invierno", "económica", "alta en proteína"],
+  etiquetas: ["creativa", "otoño", "invierno", "económica", "alta en proteína", "poco especiada"],
   consejo: "La bagna cauda («salsa caliente») es el plato de la vendimia en las Langhe y el Monferrato: se mantiene caliente en un cuenco de barro sobre una vela y cada comensal moja verduras crudas y cocidas, del cardo y el pimiento asado a la col, la patata o el tupinambo. Cocer antes el ajo en leche es el truco piamontés para que no repita. La salsa aguanta 3 días en la nevera; caliéntala al baño maría antes de usarla. Si quieres más proteína, añade unos lomos de caballa o sardina a la plancha.",
   tupper: false,
   contundencia: "media",
@@ -795,7 +795,7 @@ window.RECETAS_SEED.push({
     "Corta el solomillo en medallones finos. Mezcla la rúcula, el hinojo y la manzana con el aliño, y coloca encima la carne, los picatostes y las hojitas de hinojo."
   ],
   nutricion: { kcal: 568, prot: 43, hc: 43, grasa: 25 },
-  etiquetas: ["creativa", "alta en proteína", "al horno", "sin lácteos", "otoño", "invierno"],
+  etiquetas: ["creativa", "alta en proteína", "al horno", "sin lácteos", "otoño", "invierno", "poco especiada"],
   consejo: "La porchetta es el cerdo deshuesado, relleno de hinojo silvestre, ajo, romero y pimienta y asado durante horas que se vende en los mercados de Ariccia, en el Lacio, y de Umbría. Aquí sus aromas van sobre un solomillo, que se asa en un cuarto de hora. El hinojo crudo cortado muy fino es el contrapunto fresco: si tienes mandolina, úsala.",
   tupper: false,
   contundencia: "media",
@@ -838,7 +838,7 @@ window.RECETAS_SEED.push({
     "Reparte por encima la mortadela y la mozzarella, y termina con los pistachos picados y pimienta negra."
   ],
   nutricion: { kcal: 722, prot: 31, hc: 57, grasa: 41 },
-  etiquetas: ["creativa", "ideal para llevar", "batch cooking", "verano"],
+  etiquetas: ["creativa", "ideal para llevar", "batch cooking", "verano", "poco especiada"],
   consejo: "La mortadela de Bolonia suele llevar pistacho dentro, y el pesto de pistacho de Bronte, en Sicilia, se ha convertido en su compañero de moda en bocadillos y pizzas. Para llevar, guarda la rúcula y la mozzarella aparte; el farro con pesto aguanta 3 días en la nevera. Para una versión vegetariana, cambia la mortadela por garbanzos asados.",
   tupper: true,
   contundencia: "contundente",
@@ -881,7 +881,7 @@ window.RECETAS_SEED.push({
     "Monta los platos con las espinacas, los espárragos y dos huevos poché encima. Termina con lascas de parmesano, las migas al limón y pimienta negra recién molida: al romper la yema, hace de salsa."
   ],
   nutricion: { kcal: 468, prot: 27, hc: 18, grasa: 32 },
-  etiquetas: ["creativa", "vegetariana", "primavera", "ligera", "rápida", "para invitados"],
+  etiquetas: ["creativa", "vegetariana", "primavera", "ligera", "rápida", "para invitados", "poco especiada"],
   consejo: "Los asparagi alla milanese son un plato de primavera de Lombardía: espárragos con mantequilla tostada, parmesano y huevo frito. Si el poché te da miedo, usa huevos fritos con puntilla o cocidos 6 minutos y pelados con cuidado. Puedes adelantar las migas: aguantan crujientes 2 días en un bote cerrado.",
   tupper: false,
   contundencia: "ligera",

@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Pásalas a la salsa de tomate y cuece a fuego suave 8 minutos, sin remover mucho, meneando la cazuela. Sirve sobre el puré con perejil picado por encima."
   ],
   nutricion: { kcal: 620, prot: 26, hc: 85, grasa: 20 },
-  etiquetas: ["para niños", "batch cooking", "económica", "invierno"],
+  etiquetas: ["para niños", "batch cooking", "económica", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "Las albóndigas se congelan crudas o fritas. Si quieres que queden más firmes, hornéalas 15 minutos a 200 °C en lugar de freírlas antes de pasarlas a la salsa.",
   contundencia: "media",
   coste: "media"
@@ -88,7 +88,7 @@ window.RECETAS_SEED.push({
     "Termina con el parmesano en lascas, unas gotas de balsámico, la última cucharada de aceite, pimienta y las hojas de la otra rama de romero picadas muy finas."
   ],
   nutricion: { kcal: 470, prot: 20, hc: 56, grasa: 19 },
-  etiquetas: ["rápida", "ligera", "económica", "sin horno", "ideal para llevar"],
+  etiquetas: ["rápida", "ligera", "económica", "sin horno", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "La crema de alubias aguanta 4 días en la nevera y sirve también de salsa para pasta (aclarada con agua de cocción) o de base para un bowl con verduras asadas.",
   contundencia: "ligera",
   coste: "media"
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con el parmesano rallado, pimienta negra recién molida y la cucharada de aceite restante en hilo por encima."
   ],
   nutricion: { kcal: 610, prot: 26, hc: 82, grasa: 20 },
-  etiquetas: ["de cuchara", "económica", "para niños", "invierno", "rápida"],
+  etiquetas: ["de cuchara", "económica", "para niños", "invierno", "rápida", "bajo en colesterol"],
   consejo: "Si la vas a guardar, cuece la pasta aparte y añádela al servir; si no, al día siguiente la habrá absorbido todo el caldo (aunque esa versión espesa, con un hilo de aceite, también tiene sus fans).",
   contundencia: "media",
   coste: "económica"
@@ -178,7 +178,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls: base de quinoa, encima los garbanzos y zanahorias calientes, el pepino, la cebolla encurtida escurrida, y riega generosamente con la salsa de tahini. Termina con la menta picada, las semillas, el resto del aceite y gajos del medio limón restante."
   ],
   nutricion: { kcal: 630, prot: 24, hc: 80, grasa: 24 },
-  etiquetas: ["al horno", "ideal para llevar", "picante", "batch cooking", "sin lácteos"],
+  etiquetas: ["al horno", "ideal para llevar", "picante", "batch cooking", "sin lácteos", "superalimentos", "bajo en colesterol"],
   consejo: "Para el táper, lleva la salsa de tahini aparte y añádela al momento. Si no tienes harissa, mezcla 1 cucharada de pimentón picante con 1 cucharadita de comino, 1 ajo rallado y 1 cucharada de aceite.",
   contundencia: "media",
   coste: "media"
@@ -227,7 +227,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y el tomillo del arroz, suéltalo con un tenedor y sírvelo con el pollo troceado por encima, los jugos de la bandeja y gajos de la otra lima."
   ],
   nutricion: { kcal: 740, prot: 45, hc: 85, grasa: 25 },
-  etiquetas: ["picante", "para invitados", "alta en proteína", "batch cooking"],
+  etiquetas: ["picante", "para invitados", "alta en proteína", "batch cooking", "sin verduras"],
   consejo: "El rice and peas también es un plato único vegano completo: sin pollo y con 400 g de alubias ronda las 550 kcal. El chile habanero es muy picante: con uno pequeño sin semillas basta para dos.",
   contundencia: "contundente",
   coste: "media"
@@ -271,7 +271,7 @@ window.RECETAS_SEED.push({
     "Termina con la cebolleta, el aceite de sésamo en gotas, el sésamo y, si quieres, el chile en aros."
   ],
   nutricion: { kcal: 420, prot: 27, hc: 50, grasa: 12 },
-  etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "sin lácteos"],
+  etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "sin lácteos", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Si tienes alga wakame o nori, añade un poco al caldo: es el toque que hace que sepa a sopa japonesa de verdad. Para una versión con más cuerpo, añade un huevo cocido 7 minutos partido por la mitad.",
   contundencia: "ligera",
   coste: "media"
@@ -367,7 +367,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas con las salchichas enteras o en rodajas gruesas encima y el perejil picado."
   ],
   nutricion: { kcal: 690, prot: 50, hc: 65, grasa: 25 },
-  etiquetas: ["de cuchara", "invierno", "alta en proteína", "batch cooking", "una sola cazuela"],
+  etiquetas: ["de cuchara", "invierno", "alta en proteína", "batch cooking", "una sola cazuela", "poco especiada"],
   consejo: "Un chorrito de vinagre de vino al servir levanta el plato. Puedes usar salchichas de cerdo (sube unas 100 kcal por ración) o, para una versión vegetal, salchichas de tofu añadidas solo en los últimos 5 minutos.",
   contundencia: "contundente",
   coste: "media"
@@ -411,7 +411,7 @@ window.RECETAS_SEED.push({
     "Mezcla en una fuente los canónigos, el hinojo, la cebolla, la naranja y las aceitunas con el aliño. Reparte los garbanzos tibios por encima, las almendras, la menta picada y las hojitas de hinojo."
   ],
   nutricion: { kcal: 440, prot: 16, hc: 44, grasa: 22 },
-  etiquetas: ["rápida", "ligera", "invierno", "sin horno", "ideal para llevar"],
+  etiquetas: ["rápida", "ligera", "invierno", "sin horno", "ideal para llevar", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Los garbanzos tostados pierden el crujiente al enfriar: si la preparas con antelación, tuéstalos justo antes de servir o llévalos en un bote aparte.",
   contundencia: "ligera",
   coste: "media"
@@ -454,7 +454,7 @@ window.RECETAS_SEED.push({
     "Reparte los guisantes con su jugo sobre el pan, corona con el huevo poché, el verde de la cebolleta, la hierbabuena picada y pimienta negra. Rompe la yema al comer: es la salsa."
   ],
   nutricion: { kcal: 420, prot: 30, hc: 38, grasa: 16 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "primavera", "una sola sartén"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "primavera", "una sola sartén", "poco especiada"],
   consejo: "Con guisantes frescos de temporada (unos 1 kg con vaina para sacar 400 g), reduce el estofado a 4 minutos. Si los huevos pochés se te resisten, haz huevos cocidos 6 minutos y medio y pélalos con cuidado.",
   contundencia: "ligera",
   coste: "media"
@@ -502,7 +502,7 @@ window.RECETAS_SEED.push({
     "Calienta las pitas 1 minuto por lado en una sartén seca, córtalas por la mitad y abre los bolsillos. Unta el interior con yogur a la menta, mete lechuga, una hamburguesa, tomate y pepino en cada mitad y termina con más salsa y unas gotas de la lima restante."
   ],
   nutricion: { kcal: 640, prot: 24, hc: 95, grasa: 18 },
-  etiquetas: ["económica", "ideal para llevar", "para niños", "batch cooking"],
+  etiquetas: ["económica", "ideal para llevar", "para niños", "batch cooking", "bajo en colesterol"],
   consejo: "Las hamburguesas se pueden hornear a 200 °C durante 20 minutos (dándoles la vuelta a los 12) si quieres usar menos aceite. También se congelan crudas entre papeles de horno.",
   contundencia: "media",
   coste: "económica"
@@ -547,7 +547,7 @@ window.RECETAS_SEED.push({
     "Cuece 30 minutos más a fuego suave, meneando la cazuela de vez en cuando sin remover, hasta que la patata esté tierna, la costilla se separe del hueso y el caldo esté espeso y rojo. Rectifica de sal y pimienta y deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 920, prot: 50, hc: 85, grasa: 42 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "para invitados"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "para invitados", "poco especiada"],
   consejo: "Es un guiso de domingo que mejora de un día para otro. Si no tienes pimiento choricero, usa 1 cucharadita extra de pimentón dulce y 1 cucharada de tomate concentrado. En olla exprés: 30 minutos a presión y 8 más con la patata.",
   contundencia: "contundente",
   coste: "media"
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
     "Sirve muy caliente con gajos del limón restante y, si quieres hacerlo como en Marruecos, con dátiles para alternar cucharadas dulces y saladas."
   ],
   nutricion: { kcal: 670, prot: 48, hc: 65, grasa: 24 },
-  etiquetas: ["de cuchara", "invierno", "alta en proteína", "batch cooking", "para invitados"],
+  etiquetas: ["de cuchara", "invierno", "alta en proteína", "batch cooking", "para invitados", "poco especiada"],
   consejo: "Sin cordero y con 400 g de garbanzos es una harira vegetal igual de tradicional (unas 480 kcal). Congela bien sin los fideos: añádelos al recalentar.",
   contundencia: "contundente",
   coste: "premium"
@@ -643,7 +643,7 @@ window.RECETAS_SEED.push({
     "Sirve los bastones de panisse calientes con sal en escamas, el alioli de limón para mojar, la ensalada de tomate con la rúcula y el parmesano en lascas por encima."
   ],
   nutricion: { kcal: 600, prot: 20, hc: 50, grasa: 35 },
-  etiquetas: ["al horno", "sin gluten", "para niños", "aperitivo convertible en plato"],
+  etiquetas: ["al horno", "sin gluten", "para niños", "aperitivo convertible en plato", "poco especiada"],
   consejo: "La masa cuajada aguanta 3 días en la nevera: córtala y hornéala al momento. Fritos en abundante aceite 3 minutos quedan aún más crujientes, al estilo de Marsella, pero suben unas 150 kcal por ración.",
   contundencia: "media",
   coste: "media"
@@ -684,7 +684,7 @@ window.RECETAS_SEED.push({
     "Termina con los pistachos picados gruesos, el resto de la menta, la otra cucharada de aceite en hilo, pimienta y unas gotas más de limón."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 50, grasa: 18 },
-  etiquetas: ["rápida", "ligera", "primavera", "sin horno", "para niños"],
+  etiquetas: ["rápida", "ligera", "primavera", "sin horno", "para niños", "bajo en colesterol"],
   consejo: "En primavera, con habas frescas pequeñas (1 kg con vaina), no hace falta ni pelarlas. Si no encuentras ricotta, mezcla queso fresco con una cucharada de yogur griego.",
   contundencia: "ligera",
   coste: "media"
@@ -866,7 +866,7 @@ window.RECETAS_SEED.push({
     "Reparte las lentejas en dos platos, coloca 4 vieiras sobre cada uno y riega con la mantequilla de limón. Termina con pimienta recién molida."
   ],
   nutricion: { kcal: 460, prot: 36, hc: 44, grasa: 15 },
-  etiquetas: ["para invitados", "ligera", "alta en proteína", "rápida"],
+  etiquetas: ["para invitados", "ligera", "alta en proteína", "rápida", "poco especiada"],
   consejo: "Las vieiras congeladas funcionan bien si las descongelas en la nevera sobre papel absorbente 12 horas. Si no las encuentras, 200 g de langostinos grandes pelados a la plancha son un sustituto excelente.",
   contundencia: "ligera",
   coste: "premium"
@@ -912,7 +912,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa en cuencos con una cucharada de arroz en el centro (o al lado, a la cubana), una cucharada de yogur, cilantro picado y gajos de lima para exprimir al momento."
   ],
   nutricion: { kcal: 570, prot: 27, hc: 88, grasa: 12 },
-  etiquetas: ["de cuchara", "económica", "batch cooking", "sin gluten", "invierno"],
+  etiquetas: ["de cuchara", "económica", "batch cooking", "sin gluten", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "En olla exprés, las alubias remojadas tardan 20 minutos a presión alta. La sopa gana muchísimo al día siguiente y congela de maravilla; es también la base perfecta para unos frijoles refritos.",
   contundencia: "media",
   coste: "económica"
@@ -957,7 +957,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan hasta que esté dorado y colócalo en los platos. Vierte las alubias cremosas encima y termina con el resto del parmesano, el cebollino picado y pimienta negra recién molida."
   ],
   nutricion: { kcal: 560, prot: 24, hc: 56, grasa: 26 },
-  etiquetas: ["rápida", "para invitados", "otoño", "una sola sartén"],
+  etiquetas: ["rápida", "para invitados", "otoño", "una sola sartén", "poco especiada"],
   consejo: "El aceite de trufa es potente: una cucharadita basta y siempre en frío, nunca al fuego. Sin trufa, un poco de ralladura de limón y más tomillo lo convierten en un plato igual de rico y más económico.",
   contundencia: "media",
   coste: "premium"
@@ -1003,7 +1003,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y sirve en plato hondo con el perejil picado por encima y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 460, prot: 45, hc: 36, grasa: 14 },
-  etiquetas: ["de cuchara", "ligera", "alta en proteína", "para invitados"],
+  etiquetas: ["de cuchara", "ligera", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "El rape se puede sustituir por merluza o bacalao fresco (añádelos solo 3 minutos). Si no tienes caldo de pescado, cuece 10 minutos las cabezas de unos langostinos o la espina del rape en 400 ml de agua con un trozo de cebolla.",
   contundencia: "ligera",
   coste: "premium"
@@ -1048,7 +1048,7 @@ window.RECETAS_SEED.push({
     "Vuelca la mezcla de alubias sobre la lechuga, reparte el aguacate por encima y termina con el resto del cilantro y pimienta."
   ],
   nutricion: { kcal: 450, prot: 19, hc: 56, grasa: 16 },
-  etiquetas: ["rápida", "sin cocción", "ligera", "económica", "ideal para llevar", "verano", "picante"],
+  etiquetas: ["rápida", "sin cocción", "ligera", "económica", "ideal para llevar", "verano", "picante", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Para llevarla al trabajo, mezcla todo menos la lechuga y el aguacate, que añades al momento. Con 60 g de queso rallado o unos nachos triturados por encima se convierte en una comida más completa.",
   contundencia: "ligera",
   coste: "económica"
@@ -1097,7 +1097,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con el huevo poché en el centro, el resto del jamón crudo por encima (se atempera con el calor) y el perejil picado."
   ],
   nutricion: { kcal: 590, prot: 38, hc: 60, grasa: 22 },
-  etiquetas: ["de cuchara", "alta en proteína", "para invitados", "invierno"],
+  etiquetas: ["de cuchara", "alta en proteína", "para invitados", "invierno", "poco especiada"],
   consejo: "El jamón ibérico se añade en dos tiempos: una parte se cocina para dar fondo y la otra se pone en crudo al final para que conserve su sabor. Con jamón serrano queda muy bien y la receta pasa a ser económica.",
   contundencia: "media",
   coste: "premium"
@@ -1145,7 +1145,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa en cuencos con el bacon reservado, los crutones, el perejil picado, pimienta negra y, al estilo sueco, un poco más de mostaza en el borde del plato para ir mezclando."
   ],
   nutricion: { kcal: 550, prot: 32, hc: 68, grasa: 16 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
   consejo: "En Suecia es el plato de los jueves y se acompaña de tortitas con mermelada de postre. La sopa espesa mucho al enfriar: al recalentar, añade caldo o agua hasta recuperar la textura. En olla exprés: 25 minutos a presión alta.",
   contundencia: "media",
   coste: "media"

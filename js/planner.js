@@ -67,7 +67,8 @@
     frecuencias: Object.fromEntries(Recetas.CATEGORIAS.map((c) => [c.id, "normal"])),
     cocinasEvitar: [],
     cocinasPreferidas: [],
-    dietas: [],            // ids de Recetas.DIETAS exigidas
+    dieta: "omnivora",     // una de Recetas.DIETAS (excluyentes)
+    necesidades: [],       // ids de Recetas.NECESIDADES que deben cumplir todas las recetas
     vetos: [],             // textos libres o ids de grupo
     obligatorias: [],      // { recetaId, dia?, momento? }
     tieneOllaExpress: true,
@@ -88,6 +89,16 @@
     const base = configPorDefecto();
     const c = { ...base, ...JSON.parse(JSON.stringify(cfg)) };
     c.frecuencias = { ...base.frecuencias, ...(cfg.frecuencias || {}) };
+    for (const k of Object.keys(c.frecuencias)) if (!Recetas.CATEGORIAS.some((x) => x.id === k)) delete c.frecuencias[k]; // vegetariano/vegano ya no son tipos de comida
+    // Versiones anteriores: «dietas» era una lista que mezclaba dietas e intolerancias
+    if (Array.isArray(cfg.dietas)) {
+      if (!cfg.dieta) c.dieta = cfg.dietas.includes("vegana") ? "vegana" : cfg.dietas.includes("vegetariana") ? "vegetariana" : "omnivora";
+      const aVeto = { "sin-gluten": "gluten", "sin-lactosa": "lacteos", "sin-frutos-secos": "frutos-secos", "bajo-fodmap": "fodmap" };
+      c.vetos = [...new Set([...(c.vetos || []), ...cfg.dietas.map((d) => aVeto[d]).filter(Boolean)])];
+      delete c.dietas;
+    }
+    if (!Recetas.DIETAS.some((d) => d.id === c.dieta)) c.dieta = "omnivora";
+    c.necesidades = (Array.isArray(c.necesidades) ? c.necesidades : []).filter((n) => Recetas.NECESIDADES.some((x) => x.id === n));
     if (!c.tiempo || typeof c.tiempo !== "object") c.tiempo = { laborables: Number(cfg.tiempoMaxLaborables) || 0, finde: 0, estricto: true };
     c.tiempo = { ...base.tiempo, ...c.tiempo };
     if (!c.contundencia || typeof c.contundencia !== "object") c.contundencia = { comida: "auto", cena: cfg.cenasLigeras === "si" ? "ligera" : cfg.cenasLigeras === "no" ? "indiferente" : "auto" };
@@ -143,11 +154,13 @@
 
   const limiteTiempo = (cfg, diaId) => { const d = dia(diaId); return d && d.laborable ? cfg.tiempo.laborables : cfg.tiempo.finde; };
 
+  const cumpleDieta = (r, cfg) => (cfg.dieta === "omnivora" || r.dieta.includes(cfg.dieta)) && cfg.necesidades.every((n) => r.necesidades.includes(n));
+
   /* Filtro duro de elegibilidad (las obligatorias se saltan este filtro) */
   const elegible = (r, cfg, momento, diaId, ctx = {}) => {
     if (!r.momentos.includes(momento)) return false;
     if (r.enListaNegra) return false;
-    if (cfg.dietas.some((d) => !r.dieta.includes(d))) return false;
+    if (!cumpleDieta(r, cfg)) return false;
     if (Recetas.conflictosVeto(r, cfg.vetos).some((c) => !c.opcional)) return false;
     for (const ap of APARATOS) if (r.equipo.includes(ap.id) && !cfg.equipo.includes(ap.id)) return false;
     if (necesitaTupper(cfg, momento, diaId) && !r.tupper) return false;
@@ -195,7 +208,7 @@
       if (conflictos.length) avisos.push(`Contiene ${[...new Set(conflictos.map((c) => c.ingrediente))].join(", ")} (vetado); se mantiene porque la marcaste como obligatoria.`);
       avisos.push(...avisosIntolerancia(o.receta, intol));
       if (!o.receta.momentos.includes(slot.momento)) avisos.push(`Suele ser plato de ${o.receta.momentos.join("/")}, pero la has fijado en la ${slot.momento}.`);
-      if (cfg.dietas.some((d) => !o.receta.dieta.includes(d))) avisos.push("No cumple todas las dietas elegidas; prevalece por ser obligatoria.");
+      if (!cumpleDieta(o.receta, cfg)) avisos.push("No cumple la dieta o las necesidades elegidas; prevalece por ser obligatoria.");
       if (o.receta.enListaNegra) avisos.push("Está en tu lista de excluidas de menús; prevalece por ser obligatoria.");
       asignacion.set(clave(slot), { recetaId: o.receta.id, obligatoria: true, avisos });
     };
@@ -238,7 +251,7 @@
       let mejor = null;
       const evaluar = (estricto) => {
         for (const r of conT) {
-          if (!estricto && (!r.dieta || cfg.dietas.some((d) => !r.dieta.includes(d)) || Recetas.conflictosVeto(r, cfg.vetos).some((c) => !c.opcional))) continue;
+          if (!estricto && (!r.dieta || !cumpleDieta(r, cfg) || Recetas.conflictosVeto(r, cfg.vetos).some((c) => !c.opcional))) continue;
           for (const sl of libres) {
             const ok = estricto ? elegible(r, cfg, sl.momento, sl.dia, { recientes }) : r.momentos.includes(sl.momento);
             if (!ok) continue;
@@ -262,7 +275,7 @@
     for (const c of Recetas.CATEGORIAS) {
       const f = FRECUENCIAS.find((x) => x.id === (cfg.frecuencias[c.id] || "normal"));
       let p = f ? f.peso : 1;
-      if (c.id === "vegetariano" || c.id === "vegano") p *= 1 + prefs.masVerdura * 0.8;
+      if (c.id === "verduras" || c.id === "proteina-vegetal" || c.id === "huevos") p *= 1 + prefs.masVerdura * 0.8;
       if (c.id === "ensaladas") p *= 1 + prefs.masVerdura * 0.4;
       if (c.id === "olla-express" && !cfg.equipo.includes("olla-express")) p = 0;
       if (!todas.some((r) => r.categoria === c.id)) p = 0;
@@ -333,7 +346,7 @@
         if (r.favorita) p += 1.6;
         if (r.cocina && cfg.cocinasPreferidas.includes(r.cocina)) p += 1.2;
         if (cfg.coccionesPreferidas.length && r.coccion.some((c) => cfg.coccionesPreferidas.includes(c))) p += 0.5;
-        if (prefs.fodmap && r.dieta.includes("bajo-fodmap")) p += prefs.fodmap * 1.2;
+        if (prefs.fodmap && !r.alergenos.includes("fodmap")) p += prefs.fodmap * 1.2;
         // objetivos nutricionales
         if (prefs.masProteina) p += prefs.masProteina * ((r.nutricion.prot || 20) >= 30 ? 1.5 : (r.nutricion.prot || 20) < 18 ? -1.5 : 0);
         if (prefs.menosPicante && r.grupos.includes("picante")) p -= prefs.menosPicante * 1.5;
@@ -404,5 +417,5 @@
     return JSON.stringify(resto);
   };
 
-  window.Planificador = { DIAS, dia, FRECUENCIAS, PRESUPUESTOS, APARATOS, TUPPER, necesitaTupper, CONTUNDENCIA_OPCIONES, TIEMPOS, SEMANAS_SIN_REPETIR, configPorDefecto, normalizarConfig, generar, regenerarSlot, alternativas, elegible, intoleranciasGrupo, resumenNutricional, racionesTotales, huella, contundenciaDeseada };
+  window.Planificador = { DIAS, dia, FRECUENCIAS, PRESUPUESTOS, APARATOS, TUPPER, necesitaTupper, CONTUNDENCIA_OPCIONES, TIEMPOS, SEMANAS_SIN_REPETIR, configPorDefecto, normalizarConfig, generar, regenerarSlot, alternativas, elegible, cumpleDieta, intoleranciasGrupo, resumenNutricional, racionesTotales, huella, contundenciaDeseada };
 })();

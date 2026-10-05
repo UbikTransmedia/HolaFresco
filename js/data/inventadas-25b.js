@@ -34,7 +34,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con el resto de la pimienta y un poco más de pecorino por encima."
   ],
   nutricion: { kcal: 732, prot: 32, hc: 70, grasa: 36 },
-  etiquetas: ["tradicional", "rápida", "fácil", "saciante"],
+  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "sin verduras", "poco especiada"],
   consejo: "La carbonara se liga con el calor residual, nunca con el fuego encendido: si el huevo se cuaja, tienes revuelto. Si no encuentras guanciale, la panceta curada es el mejor sustituto; y el pecorino puede ir mitad y mitad con parmesano.",
   contundencia: "contundente",
   coste: "media"
@@ -72,7 +72,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade la mitad del pecorino, mezcla y sirve con el guanciale crujiente reservado y el resto del queso por encima."
   ],
   nutricion: { kcal: 678, prot: 26, hc: 76, grasa: 30 },
-  etiquetas: ["tradicional", "fácil", "saciante", "picante"],
+  etiquetas: ["tradicional", "fácil", "saciante", "picante", "sin verduras"],
   consejo: "Nada de ajo ni cebolla: la amatriciana auténtica es solo guanciale, tomate, vino y pecorino. Reservar parte del guanciale para el final hace que se note crujiente en cada bocado.",
   contundencia: "contundente",
   coste: "media"
@@ -109,7 +109,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el perejil picado y sirve enseguida."
   ],
   nutricion: { kcal: 422, prot: 10, hc: 64, grasa: 14 },
-  etiquetas: ["tradicional", "rápida", "fácil", "económica", "picante", "vegano", "ligera"],
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "picante", "vegano", "ligera", "sin verduras", "bajo en colesterol"],
   consejo: "El picante se ajusta con las guindillas: con una queda alegre, con tres es de verdad 'arrabbiata'. Un hilo de aceite crudo al servir redondea la salsa.",
   contundencia: "ligera",
   coste: "económica"
@@ -153,7 +153,7 @@ window.RECETAS_SEED.push({
     "Sirve la pasta con las albóndigas encima, más salsa, el resto del parmesano y albahaca fresca."
   ],
   nutricion: { kcal: 794, prot: 40, hc: 82, grasa: 34 },
-  etiquetas: ["tradicional", "fácil", "saciante", "para niños", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "fácil", "saciante", "para niños", "batch cooking", "de domingo", "sin verduras", "poco especiada"],
   consejo: "El pan mojado en leche es el truco para que las albóndigas queden jugosas. Haz el doble y congela las albóndigas ya guisadas en su salsa: aguantan 3 meses perfectas.",
   contundencia: "contundente",
   coste: "media"
@@ -201,7 +201,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 874, prot: 46, hc: 60, grasa: 50 },
-  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "invierno", "batch cooking", "saciante"],
+  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "invierno", "batch cooking", "saciante", "sin verduras", "poco especiada"],
   consejo: "Es la receta de aprovechar la carne del cocido o del asado de Navidad: si la tienes, sáltate el primer paso y tritúrala directamente. Los canelones montados se congelan muy bien sin la bechamel.",
   contundencia: "contundente",
   coste: "premium"
@@ -243,7 +243,7 @@ window.RECETAS_SEED.push({
     "Cubre con la bechamel, espolvorea el queso y hornea 15 minutos, más 3 minutos de grill, hasta que esté dorado. Reposa 5 minutos antes de servir."
   ],
   nutricion: { kcal: 588, prot: 32, hc: 52, grasa: 28 },
-  etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Si te sobra relleno, úsalo para unos huevos rellenos o unas empanadillas. Las placas precocidas que se hidratan en agua caliente te ahorran un paso y funcionan muy bien.",
   contundencia: "media",
   coste: "económica"
@@ -281,7 +281,7 @@ window.RECETAS_SEED.push({
     "Gratina 8-10 minutos, hasta que el queso burbujee y se dore. Sirve con albahaca fresca por encima."
   ],
   nutricion: { kcal: 570, prot: 22, hc: 80, grasa: 18 },
-  etiquetas: ["tradicional", "al horno", "fácil", "para niños", "vegetariano"],
+  etiquetas: ["tradicional", "al horno", "fácil", "para niños", "vegetariano", "sin verduras", "poco especiada"],
   consejo: "Escurre bien la mozzarella y sécala con papel: si está muy húmeda, suelta agua y aguanta la salsa. En Sorrento se sirven en cazuelitas de barro individuales, directamente a la mesa.",
   contundencia: "media",
   coste: "media"
@@ -318,7 +318,7 @@ window.RECETAS_SEED.push({
     "Sirve con las nueces, el parmesano y pimienta negra recién molida."
   ],
   nutricion: { kcal: 760, prot: 22, hc: 78, grasa: 40 },
-  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "invierno", "vegetariano"],
+  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "invierno", "vegetariano", "sin verduras", "poco especiada"],
   consejo: "Si el queso azul te parece fuerte, mezcla mitad azul y mitad queso crema. Acompáñalo de una ensalada verde con vinagreta: equilibra la riqueza de la salsa.",
   contundencia: "contundente",
   coste: "media"
@@ -361,7 +361,7 @@ window.RECETAS_SEED.push({
     "Apaga, deja reposar 3 minutos y sirve en plato hondo."
   ],
   nutricion: { kcal: 726, prot: 32, hc: 82, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "saciante"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "saciante", "poco especiada"],
   consejo: "Chascar la patata en lugar de cortarla limpia es el truco de la abuela para que el caldo engorde. Si te gusta con más alegría, añade una guindilla al sofrito.",
   contundencia: "contundente",
   coste: "económica"
@@ -404,7 +404,7 @@ window.RECETAS_SEED.push({
     "Apaga y deja reposar 2 minutos antes de servir caldoso."
   ],
   nutricion: { kcal: 542, prot: 34, hc: 70, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "cuaresma", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "cuaresma", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Echa el bacalao al final y a fuego suave: si hierve mucho, se queda seco y se deshace en hebras. Con merluza o caballa también queda buenísimo.",
   contundencia: "media",
   coste: "media"
@@ -444,7 +444,7 @@ window.RECETAS_SEED.push({
     "Sirve con el queso rallado por encima. Si quieres, gratínalos 5 minutos en el horno."
   ],
   nutricion: { kcal: 570, prot: 30, hc: 72, grasa: 18 },
-  etiquetas: ["tradicional", "rápida", "fácil", "económica", "para niños", "ideal para llevar"],
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "para niños", "ideal para llevar", "sin verduras", "poco especiada"],
   consejo: "El atún, siempre fuera del fuego: así queda jugoso. Si los niños no quieren trozos de cebolla, tritura la salsa antes de añadir el atún.",
   contundencia: "media",
   coste: "económica"
@@ -482,7 +482,7 @@ window.RECETAS_SEED.push({
     "Gratina 8-10 minutos, hasta que el queso esté dorado y crujiente por los bordes."
   ],
   nutricion: { kcal: 772, prot: 32, hc: 80, grasa: 36 },
-  etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "saciante"],
+  etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "saciante", "sin verduras", "poco especiada"],
   consejo: "Cuece la pasta un minuto menos porque terminará de hacerse en el horno con la salsa. Si haces tomate casero en vez de frito de bote, sabrá aún más a casa de la abuela.",
   contundencia: "contundente",
   coste: "económica"
@@ -524,7 +524,7 @@ window.RECETAS_SEED.push({
     "Cuece la pasta en agua con sal 1 minuto menos de lo indicado, pásala a la sartén con un chorrito de su agua y saltea 1 minuto. Sirve con perejil picado."
   ],
   nutricion: { kcal: 584, prot: 36, hc: 74, grasa: 16 },
-  etiquetas: ["tradicional", "para invitados", "de domingo", "fácil"],
+  etiquetas: ["tradicional", "para invitados", "de domingo", "fácil", "sin verduras"],
   consejo: "Las cabezas de las gambas son las que dan sabor a mar a la salsa: aplástalas bien en el aceite. Sala al final, porque el caldo de los mejillones y las almejas ya es salado.",
   contundencia: "media",
   coste: "premium"
@@ -563,7 +563,7 @@ window.RECETAS_SEED.push({
     "Sirve con el queso rallado y pimienta negra recién molida."
   ],
   nutricion: { kcal: 752, prot: 24, hc: 74, grasa: 40 },
-  etiquetas: ["tradicional", "rápida", "fácil", "económica", "para niños", "saciante"],
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "para niños", "saciante", "poco especiada"],
   consejo: "No la llames carbonara delante de un italiano, pero es un clásico de las casas españolas. Un poco de ajo picado con los champiñones y perejil al final le sientan de maravilla.",
   contundencia: "contundente",
   coste: "económica"
@@ -598,7 +598,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con pimienta negra recién molida."
   ],
   nutricion: { kcal: 698, prot: 28, hc: 70, grasa: 34 },
-  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "vegetariano"],
+  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "vegetariano", "sin verduras", "poco especiada"],
   consejo: "La original de Roma no lleva nata: la cremosidad sale de batir la mantequilla y el queso con el agua almidonada. Si el queso hace grumos, es que la sartén estaba demasiado caliente.",
   contundencia: "contundente",
   coste: "media"
@@ -640,7 +640,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con pimienta negra y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 588, prot: 20, hc: 82, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "vegetariano", "saciante"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "vegetariano", "saciante", "poco especiada"],
   consejo: "Es el plato napolitano de aprovechar los restos de paquetes de pasta: mezcla tipos distintos rompiendo los largos en trozos. Una corteza de parmesano cocida con las patatas le da un sabor tremendo.",
   contundencia: "media",
   coste: "media"
@@ -678,7 +678,7 @@ window.RECETAS_SEED.push({
     "Sirve con pimienta negra recién molida."
   ],
   nutricion: { kcal: 443, prot: 20, hc: 66, grasa: 11 },
-  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "primavera"],
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "primavera", "poco especiada"],
   consejo: "Los guisantes con jamón son un clásico de la cocina española; con pasta se convierten en plato único. Si quieres, añade un huevo duro picado por encima al servir.",
   contundencia: "ligera",
   coste: "económica"
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado. Si te gusta, acompaña con una cucharadita de alioli."
   ],
   nutricion: { kcal: 552, prot: 30, hc: 72, grasa: 16 },
-  etiquetas: ["tradicional", "fácil", "para invitados", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "para invitados", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "El calamar se queda tierno si se hace muy rápido o muy lento: o 2 minutos o 20 minutos, nunca en medio. Aquí lo guisamos lento, así que paciencia.",
   contundencia: "media",
   coste: "media"
@@ -758,7 +758,7 @@ window.RECETAS_SEED.push({
     "Hornea 8-10 minutos, hasta que el queso se funda. Cubre con la cebolla frita y el cebollino picado y sirve."
   ],
   nutricion: { kcal: 826, prot: 34, hc: 78, grasa: 42 },
-  etiquetas: ["tradicional", "al horno", "invierno", "saciante", "vegetariano", "para niños"],
+  etiquetas: ["tradicional", "al horno", "invierno", "saciante", "vegetariano", "para niños", "sin verduras", "poco especiada"],
   consejo: "Si no te animas a raspar la masa, usa un rallador de agujeros grandes o un colador de pasta: lo importante es que caigan gotas alargadas al agua. Acompáñalo de una ensalada de lechuga con vinagreta.",
   contundencia: "contundente",
   coste: "media"
@@ -797,7 +797,7 @@ window.RECETAS_SEED.push({
     "Sirve con un poco más de parmesano y unas nueces troceadas por encima."
   ],
   nutricion: { kcal: 596, prot: 18, hc: 68, grasa: 28 },
-  etiquetas: ["tradicional", "rápida", "fácil", "vegetariano", "otoño"],
+  etiquetas: ["tradicional", "rápida", "fácil", "vegetariano", "otoño", "sin verduras", "poco especiada"],
   consejo: "La salsa no se cocina nunca: con el calor de la pasta basta. Se conserva 2 días en la nevera tapada con una capa fina de aceite.",
   contundencia: "media",
   coste: "media"
@@ -836,7 +836,7 @@ window.RECETAS_SEED.push({
     "Mezcla la pasta con la salsa y un chorrito del agua de cocción y saltea 1 minuto a fuego vivo. Sirve enseguida."
   ],
   nutricion: { kcal: 608, prot: 24, hc: 74, grasa: 24 },
-  etiquetas: ["tradicional", "fácil", "económica", "invierno", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "invierno", "para niños", "poco especiada"],
   consejo: "La carne de choricero es la que da el sabor riojano; si no la tienes, usa 1 cucharadita de pimentón dulce añadida fuera del fuego. Con un chorizo de buena calidad basta con poca cantidad.",
   contundencia: "media",
   coste: "económica"
@@ -881,7 +881,7 @@ window.RECETAS_SEED.push({
     "Hornea 25 minutos, hasta que los bordes estén crujientes y el queso dorado. Deja reposar 10 minutos antes de cortar para que se asiente."
   ],
   nutricion: { kcal: 858, prot: 44, hc: 76, grasa: 42 },
-  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "saciante", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "saciante", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Es el plato de las fiestas y del carnaval en Nápoles. Se puede montar la víspera, guardarlo tapado en la nevera y hornearlo 10 minutos más. Recalentado al día siguiente está aún mejor.",
   contundencia: "contundente",
   coste: "media"
@@ -923,7 +923,7 @@ window.RECETAS_SEED.push({
     "Mezcla la pasta con la salsa y sirve con parmesano y albahaca. Las carnes se sirven después como segundo, o troceadas sobre la pasta si lo quieres como plato único."
   ],
   nutricion: { kcal: 826, prot: 50, hc: 80, grasa: 34 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "batch cooking"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "En Nápoles se dice que el ragú 'pippiare', es decir, que apenas burbujea: el fuego tiene que estar al mínimo. Haz el doble de salsa y congélala en raciones; es la mejor base de pasta que puedas tener.",
   contundencia: "contundente",
   coste: "premium"
@@ -972,7 +972,7 @@ window.RECETAS_SEED.push({
     "Apaga y manteca el risotto con el resto de la mantequilla y el parmesano, removiendo con energía 30 segundos. Sirve el risotto con un ossobuco encima, su salsa y la gremolata espolvoreada al final."
   ],
   nutricion: { kcal: 792, prot: 50, hc: 76, grasa: 32 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "poco especiada"],
   consejo: "No te olvides del tuétano: es el premio del plato y se come con cucharilla. La gremolata se pone al final y en crudo, para que el limón y el ajo despierten la salsa.",
   contundencia: "contundente",
   coste: "premium"
@@ -1011,7 +1011,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, incorpora el provolone y el parmesano y remueve con energía hasta que la salsa quede cremosa y elástica. Sirve con el calabacín reservado, albahaca y pimienta."
   ],
   nutricion: { kcal: 594, prot: 20, hc: 70, grasa: 26 },
-  etiquetas: ["tradicional", "fácil", "verano", "vegetariano"],
+  etiquetas: ["tradicional", "fácil", "verano", "vegetariano", "poco especiada"],
   consejo: "El calabacín frito del día anterior queda aún mejor: así lo hacen en Nerano. Si no encuentras provolone, usa mitad parmesano y mitad un queso tierno de vaca que funda bien.",
   contundencia: "media",
   coste: "media"

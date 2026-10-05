@@ -145,7 +145,7 @@ window.RECETAS_SEED.push({
     "Termina con medio huevo por cuenco, la cebolleta, la chalota frita y cuñas de lima."
   ],
   nutricion: { kcal: 530, prot: 39, hc: 39, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "invierno", "alta en proteína"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Es una sopa de puesto callejero que cambia en cada isla de Indonesia: en Java se le añade a veces una cucharada de sambal o unas patatas fritas desmenuzadas. El caldo con el pollo aguanta 3 días en la nevera; guarda los fideos, la col y los brotes aparte y escáldalos con el caldo hirviendo en el momento.",
   tupper: true,
   contundencia: "media",
@@ -191,7 +191,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con el cilantro y la albahaca picados y el ajo frito con su aceite por encima, y el arroz al lado para ir mojando."
   ],
   nutricion: { kcal: 530, prot: 34, hc: 76, grasa: 10 },
-  etiquetas: ["tradicional", "rápida", "sin gluten", "sin lácteos", "verano"],
+  etiquetas: ["tradicional", "rápida", "sin gluten", "sin lácteos", "verano", "bajo en colesterol"],
   consejo: "En el delta del Mekong se hace con pez gato y lleva también tallo de bạc hà (taro gigante) y quimbombó; si encuentras quimbombó, añade unos cuantos cortados con la piña. La hierba típica es rau om, de aroma cítrico: la mezcla de cilantro y albahaca la imita bien. Funciona igual con salmón o con langostinos.",
   tupper: false,
   contundencia: "media",
@@ -335,7 +335,7 @@ window.RECETAS_SEED.push({
     "Reparte los fideos en cuencos, cubre con la sopa y termina con el huevo, el cilantro picado y un buen chorro de lima."
   ],
   nutricion: { kcal: 610, prot: 40, hc: 63, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "invierno", "sin verduras", "poco especiada"],
   consejo: "En Rangún se desayuna en la calle y se corona con buñuelos crujientes de lenteja o garbanzo y tallo de plátano tierno. Si quieres un toque picante, añade guindilla seca tostada y molida al servir. La sopa espesa aguanta 2 días en la nevera: recaliéntala con un chorrito de agua y cuece los fideos en el momento.",
   tupper: true,
   contundencia: "media",
@@ -378,7 +378,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, echa las espinacas y deja que se ablanden 1 minuto con el calor. Sirve en cuencos con el arroz al lado o dentro del caldo."
   ],
   nutricion: { kcal: 505, prot: 37, hc: 53, grasa: 16 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "económica", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "En Filipinas es la sopa que se da a los enfermos y a las madres recién paridas, por la cantidad de jengibre. Lleva papaya verde o chayote, que en España se encuentra en fruterías latinas; con calabacín o calabaza de verano queda muy parecido. Aguanta 3 días en la nevera; añade las espinacas al recalentar.",
   tupper: true,
   contundencia: "media",
@@ -704,7 +704,7 @@ window.RECETAS_SEED.push({
     "Sirve con el arroz y una cucharadita de pasta de gambas al lado: se toma un poco con cada bocado para salar la salsa, que es suave a propósito."
   ],
   nutricion: { kcal: 850, prot: 59, hc: 68, grasa: 37 },
-  etiquetas: ["tradicional", "sin gluten", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "sin gluten", "invierno", "batch cooking", "poco especiada"],
   consejo: "Es el guiso de las fiestas y los domingos en Pampanga. La salsa se deja sin sal casi a propósito porque el bagoong (pasta de gambas fermentada) aporta el contraste; si no la encuentras, sirve aparte salsa de pescado con lima y chile. En olla tradicional, el rabo necesita unas 3 horas de cocción suave. Mejora al día siguiente.",
   tupper: true,
   contundencia: "contundente",
@@ -753,7 +753,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con hojas de albahaca y el pan caliente para mojar en la salsa."
   ],
   nutricion: { kcal: 675, prot: 51, hc: 68, grasa: 22 },
-  etiquetas: ["tradicional", "invierno", "batch cooking", "de cuchara"],
+  etiquetas: ["tradicional", "invierno", "batch cooking", "de cuchara", "poco especiada"],
   consejo: "En Vietnam se desayuna con bánh mì o se sirve sobre fideos de arroz, que es la opción sin gluten. El agua de coco natural (sin azúcar) da un dulzor muy característico; si no la tienes, usa agua y una cucharadita más de azúcar. En cazuela tradicional, cuece la carne tapada a fuego suave 1 hora y 45 minutos. Aguanta 4 días y se congela muy bien.",
   tupper: true,
   contundencia: "contundente",
@@ -849,7 +849,7 @@ window.RECETAS_SEED.push({
     "Retira las especias enteras, ajusta de sal y sirve con el arroz."
   ],
   nutricion: { kcal: 875, prot: 37, hc: 61, grasa: 54 },
-  etiquetas: ["tradicional", "picante", "sin gluten", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "picante", "sin gluten", "invierno", "batch cooking", "sin verduras"],
   consejo: "El gulai es la familia de currys de la cocina de Padang (Sumatra Occidental) y de Malasia; con cabrito (kambing) es el más festivo, y aquí se hace con cordero, más fácil de encontrar. Lleva también hojas de lima kaffir y galanga: si las tienes, añádelas con la hierba limón. Con cordero lechal, reduce la presión a 15 minutos.",
   tupper: true,
   contundencia: "contundente",
@@ -897,7 +897,7 @@ window.RECETAS_SEED.push({
     "Retira la hierba limón y el laurel y sirve el pollo con su salsa sobre el arroz."
   ],
   nutricion: { kcal: 815, prot: 44, hc: 59, grasa: 44 },
-  etiquetas: ["tradicional", "sin gluten", "para niños", "económica"],
+  etiquetas: ["tradicional", "sin gluten", "para niños", "económica", "sin verduras", "poco especiada"],
   consejo: "Es el plato del Lebaran, la fiesta del fin del Ramadán en Indonesia, y se sirve con ketupat (arroz prensado en hoja de palma). Al no llevar chile ni cúrcuma, gusta a todo el mundo; para los adultos, pon sambal al lado. Aguanta 3 días; recaliéntalo a fuego suave para que el coco no se corte.",
   tupper: true,
   contundencia: "contundente",
@@ -983,7 +983,7 @@ window.RECETAS_SEED.push({
     "Añade las alubias, calienta 2 minutos, ajusta de sal y pimienta y sirve en platos hondos."
   ],
   nutricion: { kcal: 515, prot: 26, hc: 74, grasa: 13 },
-  etiquetas: ["creativa", "vegana", "sin lácteos", "de cuchara", "económica", "batch cooking"],
+  etiquetas: ["creativa", "vegana", "sin lácteos", "de cuchara", "económica", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "El pinakbet de Ilocos lleva melón amargo (ampalaya), okra, berenjena, calabaza y judías largas, y se sala con bagoong, la pasta de gambas fermentada; el miso le da un fondo salado y profundo parecido sin producto animal. Si encuentras melón amargo u okra en una tienda asiática, añádelos con la berenjena. El tiempo no cuenta el remojo. Aguanta 4 días en la nevera.",
   tupper: true,
   contundencia: "media",

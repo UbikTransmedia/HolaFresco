@@ -39,7 +39,7 @@ window.RECETAS_SEED.push({
     "Ajusta de sal, pimienta y unas gotas de zumo de limón. Sirve en cuencos con las almendras tostadas, el resto de la ralladura, la albahaca reservada y la última cucharada de aceite en crudo."
   ],
   nutricion: { kcal: 393, prot: 17, hc: 34, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Está igual de rica fría en verano: enfríala en la nevera y sírvela con un cubito de hielo y unas gotas de limón. Si te sobra, úsala como salsa para una pasta corta con más albahaca.",
   contundencia: "ligera",
   coste: "económica"
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Sirve las patatas con la merluza encima, los tomates y su jugo, y termina con el aliño de perejil y unas gotas de zumo de limón."
   ],
   nutricion: { kcal: 413, prot: 32, hc: 42, grasa: 13 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Si usas merluza congelada, ponla sin descongelar del todo y deja que la olla suba a presión con ella dentro: no le hace falta más tiempo. Un par de anchoas picadas en el aliño le dan aún más sabor siciliano.",
   contundencia: "ligera",
   coste: "media"
@@ -127,7 +127,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade la mitad del feta desmigado, el eneldo picado y la ralladura de limón y mezcla. Sirve con el resto del feta por encima y un hilo de aceite."
   ],
   nutricion: { kcal: 586, prot: 40, hc: 66, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "sin verduras", "poco especiada"],
   consejo: "Si no encuentras orzo, usa fideo grueso o pasta tipo piñón con el mismo tiempo. Las sobras, frías y con un chorrito de limón, son una ensalada de pasta estupenda.",
   contundencia: "media",
   coste: "media"
@@ -171,7 +171,7 @@ window.RECETAS_SEED.push({
     "Abre, esponja el bulgur con un tenedor y comprueba la sal. Sirve con perejil picado, una cucharada de yogur griego y unas gotas más de limón."
   ],
   nutricion: { kcal: 581, prot: 45, hc: 62, grasa: 17 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "batch cooking", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "batch cooking", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Para llevar, guarda el yogur aparte y añádelo al servir. Un puñado de aceitunas verdes o de pistachos picados al final le da un punto salado y crujiente muy rico.",
   contundencia: "media",
   coste: "económica"
@@ -214,7 +214,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade el zumo de medio limón, la ralladura y la mitad del eneldo picado. Sirve con la feta desmigada, el resto del eneldo y la última cucharada de aceite en crudo."
   ],
   nutricion: { kcal: 529, prot: 24, hc: 52, grasa: 25 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Con un huevo escalfado encima pasa a ser plato único de lujo. Si no tienes eneldo, usa menta o perejil: cambia el carácter pero sigue siendo muy fresco.",
   contundencia: "media",
   coste: "económica"
@@ -255,7 +255,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema caliente con el resto del yogur, el salmón aromatizado por encima y un hilo del aceite restante."
   ],
   nutricion: { kcal: 388, prot: 20, hc: 32, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "El salmón se pone en crudo, encima de la crema caliente: así conserva su textura y su aroma. Puedes cambiarlo por unas gambas salteadas con ajo o por bacalao desmigado.",
   contundencia: "ligera",
   coste: "media"
@@ -299,7 +299,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa en platos hondos con perejil picado y las tostas al ajo para mojar."
   ],
   nutricion: { kcal: 374, prot: 36, hc: 26, grasa: 14 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "invierno", "poco especiada"],
   consejo: "Unta las tostas con una cucharadita de alioli mezclado con pimentón para tener una rouille rápida. Puedes añadir mejillones al final: se abren en 2 minutos con la tapa puesta.",
   contundencia: "ligera",
   coste: "premium"
@@ -343,7 +343,7 @@ window.RECETAS_SEED.push({
     "Sirve con la feta desmigada, el perejil y la menta picados y la última cucharada de aceite en crudo."
   ],
   nutricion: { kcal: 448, prot: 17, hc: 50, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "verano", "ideal para llevar", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "verano", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "Como todos los guisos griegos de verduras, mejora de un día para otro y está buenísimo a temperatura ambiente con pan. Añade berenjena en dados si la tienes: se funde y da cremosidad.",
   contundencia: "ligera",
   coste: "económica"
@@ -385,7 +385,7 @@ window.RECETAS_SEED.push({
     "Abre, remueve una vez y deja reposar 2 minutos: el arroz terminará de hacerse y el caldo espesará ligeramente. Sirve con perejil picado y cuñas de limón."
   ],
   nutricion: { kcal: 552, prot: 30, hc: 72, grasa: 16 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "poco especiada"],
   consejo: "El caldoso no espera: sírvelo recién hecho. Un alioli ligero (yogur, ajo rallado y aceite) por encima lo convierte en fiesta.",
   contundencia: "media",
   coste: "media"
@@ -429,7 +429,7 @@ window.RECETAS_SEED.push({
     "Sirve con hojas de hierbabuena fresca picada por encima."
   ],
   nutricion: { kcal: 502, prot: 40, hc: 45, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "invierno", "poco especiada"],
   consejo: "La sepia congelada queda incluso más tierna que la fresca, porque el frío rompe sus fibras. Si te sobra, añade un poco de caldo y tendrás una sopa estupenda para la cena.",
   contundencia: "media",
   coste: "media"
@@ -474,7 +474,7 @@ window.RECETAS_SEED.push({
     "Mezcla el perejil picado con la ralladura de limón y espárcelo por encima al servir."
   ],
   nutricion: { kcal: 670, prot: 55, hc: 45, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Una cucharadita de anchoa picada o de alcaparras en el sofrito potencia el sabor provenzal. Las sobras, desmigando el pollo, son un relleno buenísimo para una tosta.",
   contundencia: "contundente",
   coste: "económica"
@@ -517,7 +517,7 @@ window.RECETAS_SEED.push({
     "Sirve las alcachofas y las patatas aplastadas ligeramente, riega con el jugo de la olla, añade los huevos y termina con lascas de parmesano y más menta picada."
   ],
   nutricion: { kcal: 456, prot: 20, hc: 40, grasa: 24 },
-  etiquetas: ["mediterránea", "aromática", "ligera", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "ligera", "invierno", "poco especiada"],
   consejo: "Ponte guantes o frótate las manos con limón al limpiar las alcachofas para que no se ennegrezcan. Las hojas exteriores que quitas puedes cocerlas para un caldo de verduras con mucho sabor.",
   contundencia: "ligera",
   coste: "media"
@@ -563,7 +563,7 @@ window.RECETAS_SEED.push({
     "Abre, comprueba que las lentejas estén tiernas y el guiso espeso (si está caldoso, cuécelo 3 minutos sin tapa). Añade unas gotas de limón y sirve con el yogur al ajo, el resto de la menta y la última cucharada de aceite."
   ],
   nutricion: { kcal: 465, prot: 22, hc: 56, grasa: 17 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "batch cooking", "ideal para llevar", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "batch cooking", "ideal para llevar", "invierno", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Calienta la última cucharada de aceite con una pizca de pimentón picante y viértela sobre el yogur al servir: es el toque turco que lo hace irresistible. Acompaña con pan de pita tostado.",
   contundencia: "ligera",
   coste: "económica"
@@ -609,7 +609,7 @@ window.RECETAS_SEED.push({
     "Sirve las albóndigas con la salsa y las judías, el resto del parmesano y un hilo de aceite, con el pan tostado para mojar."
   ],
   nutricion: { kcal: 724, prot: 46, hc: 45, grasa: 40 },
-  etiquetas: ["mediterránea", "aromática", "batch cooking", "invierno", "para niños"],
+  etiquetas: ["mediterránea", "aromática", "batch cooking", "invierno", "para niños", "poco especiada"],
   consejo: "Las albóndigas congelan perfectas en su salsa. Si quieres aligerarlas, usa mitad ternera y mitad pavo picado; la ricotta las mantiene jugosas igualmente.",
   contundencia: "contundente",
   coste: "media"
@@ -653,7 +653,7 @@ window.RECETAS_SEED.push({
     "Apaga y manteca con la mantequilla, el parmesano, el zumo de medio limón y la menta picada. Tapa 1 minuto y sirve con el resto de la ralladura por encima."
   ],
   nutricion: { kcal: 608, prot: 36, hc: 80, grasa: 16 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "poco especiada"],
   consejo: "Si el risotto queda muy suelto, remueve un minuto más fuera del fuego; si queda espeso, añade un chorrito de caldo caliente. Sin gambas y con más parmesano es un primer plato vegetariano estupendo.",
   contundencia: "media",
   coste: "media"
@@ -697,7 +697,7 @@ window.RECETAS_SEED.push({
     "Sirve templado con la feta en dados, la última cucharada de aceite en crudo y pan para mojar la salsa."
   ],
   nutricion: { kcal: 458, prot: 14, hc: 42, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "verano", "ideal para llevar", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "verano", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "En Grecia se toma tibio o a temperatura ambiente, y al día siguiente está aún mejor. Para más proteína, añade un huevo duro o una lata de garbanzos escurridos al abrir la olla.",
   contundencia: "ligera",
   coste: "económica"
@@ -742,7 +742,7 @@ window.RECETAS_SEED.push({
     "Abre, retira las ramas de hierbas y remueve: el farro debe quedar tierno pero con un punto al diente, en un caldo corto y cremoso. Añade el parmesano, el perejil picado y la última cucharada de aceite."
   ],
   nutricion: { kcal: 674, prot: 46, hc: 64, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "invierno", "poco especiada"],
   consejo: "Si no encuentras farro, usa espelta en grano o cebada perlada con el mismo tiempo. Unas gotas de vinagre balsámico al servir realzan el sabor de las setas.",
   contundencia: "contundente",
   coste: "económica"
@@ -786,7 +786,7 @@ window.RECETAS_SEED.push({
     "Añade los guisantes y cocina sin tapa 3 minutos a fuego suave. Fuera del fuego, incorpora el zumo de un limón y el eneldo picado, remueve para que la salsa se emulsione y sirve."
   ],
   nutricion: { kcal: 490, prot: 42, hc: 40, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Para una salsa avgolemono de verdad, bate un huevo con el zumo de limón, templa con un cazo de caldo y añádelo fuera del fuego removiendo. Fuera de temporada, usa corazones de alcachofa congelados.",
   contundencia: "media",
   coste: "media"
@@ -924,7 +924,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan, frótalo con el último ajo y sirve las judías con un buen hilo de aceite en crudo y el pan al lado."
   ],
   nutricion: { kcal: 764, prot: 40, hc: 70, grasa: 36 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Si olvidaste el remojo, usa 500 g de judías blancas cocidas de bote y reduce la presión a 3 minutos con solo 150 ml de agua. Un puñado de kale o de espinacas al final completa el plato.",
   contundencia: "contundente",
   coste: "económica"
@@ -967,7 +967,7 @@ window.RECETAS_SEED.push({
     "Abre, retira el romero y, si la salsa está ligera, redúcela 3 minutos sin tapa. Sirve con perejil picado."
   ],
   nutricion: { kcal: 554, prot: 46, hc: 34, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Un par de anchoas machacadas con el vinagre al final es el truco de la cacciatora romana. Puedes hacerla igual con contramuslos de pollo con hueso y el mismo tiempo.",
   contundencia: "media",
   coste: "media"
@@ -1060,7 +1060,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade el zumo de medio limón y las 2 cucharadas de aceite restantes en crudo. Sirve con perejil picado y aceitunas negras al lado."
   ],
   nutricion: { kcal: 466, prot: 18, hc: 58, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "invierno", "batch cooking", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "invierno", "batch cooking", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El aceite en crudo al final no es opcional: es lo que hace la fasolada sedosa. Acompaña con queso feta y pan rústico; al día siguiente espesa y está todavía más rica.",
   contundencia: "ligera",
   coste: "económica"
@@ -1106,7 +1106,7 @@ window.RECETAS_SEED.push({
     "Sirve cada jarrete sobre el puré de judías, napado con la salsa y con perejil picado por encima."
   ],
   nutricion: { kcal: 768, prot: 58, hc: 44, grasa: 40 },
-  etiquetas: ["mediterránea", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "poco especiada"],
   consejo: "Puedes marinar la víspera y tener la comida resuelta en 1 hora. Si sobra carne, desmenúzala con su salsa y úsala como ragú para una pasta corta con pecorino o parmesano.",
   contundencia: "contundente",
   coste: "premium"

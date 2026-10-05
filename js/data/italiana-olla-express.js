@@ -48,7 +48,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con su salsa, los langostinos, el huevo frito encima y los picatostes alrededor, con el perejil picado por encima."
   ],
   nutricion: { kcal: 780, prot: 57, hc: 26, grasa: 50 },
-  etiquetas: ["tradicional", "alta en proteína", "para invitados", "fin de semana"],
+  etiquetas: ["tradicional", "alta en proteína", "para invitados", "fin de semana", "poco especiada"],
   consejo: "La versión que se atribuye a Dunand, el cocinero de Napoleón, llevaba cangrejos de río porque era lo que había junto al río Bormida; los langostinos son el sustituto doméstico. Si quieres adelantarlo, guarda el pollo en su salsa hasta 2 días en la nevera y prepara los langostinos, el huevo y los picatostes en el momento de servir.",
   tupper: false,
   contundencia: "contundente",
@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego añade el resto de la mantequilla, fría y en dados, y el parmesano, y bate con energía 1 min hasta que quede cremoso y ondule al mover la olla («all'onda»). Reposa 1 min tapado, pon pimienta y sirve enseguida."
   ],
   nutricion: { kcal: 690, prot: 25, hc: 68, grasa: 35 },
-  etiquetas: ["tradicional", "sin gluten", "invierno", "una sola olla"],
+  etiquetas: ["tradicional", "sin gluten", "invierno", "una sola olla", "sin verduras", "poco especiada"],
   consejo: "La luganega es la salchicha fresca lombarda, larga y fina, aromatizada solo con sal, pimienta y a veces parmesano; aquí funciona cualquier salchicha fresca de cerdo de buena calidad sin pimentón ni ajo fuerte. En algunas casas de Monza se moja con vino tinto en lugar de blanco. El risotto no aguanta recalentado: si sobra, forma bolitas, rellénalas de mozzarella y hornéalas como arancini.",
   tupper: false,
   contundencia: "contundente",
@@ -136,7 +136,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del aceite en crudo, pimienta recién molida y, si quieres, parmesano rallado."
   ],
   nutricion: { kcal: 700, prot: 27, hc: 88, grasa: 27 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "económica"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
   consejo: "En Friuli se hace con alubias borlotti, rosadas con vetas granates, que quedan muy cremosas; las pintas son el mejor sustituto. Para una versión vegetariana quita la panceta y añade una corteza de parmesano a la cocción. Espesa mucho en la nevera (aguanta 3 días): al recalentar, alárgala con agua caliente.",
   tupper: true,
   contundencia: "contundente",
@@ -182,7 +182,7 @@ window.RECETAS_SEED.push({
     "Mueve la olla en vaivén para que la salsa ligue con la gelatina del bacalao sin romperlo. Sirve con el resto del perejil picado y pimienta recién molida."
   ],
   nutricion: { kcal: 565, prot: 40, hc: 44, grasa: 25 },
-  etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "una sola olla"],
+  etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "una sola olla", "poco especiada", "bajo en colesterol"],
   consejo: "El stoccafisso es bacalao secado al aire, sin sal: necesita una semana de remojo y, ya hidratado, unos 20 minutos de presión. Con lomos de bacalao desalado el plato está listo en media hora. Las aceitunas de Taggia son pequeñas y suaves; las de Aragón las sustituyen bien. Aguanta 2 días en la nevera: recaliéntalo tapado y a fuego suave.",
   tupper: true,
   contundencia: "media",
@@ -229,7 +229,7 @@ window.RECETAS_SEED.push({
     "De segundo, corta el morcillo en lonchas, deshuesa el pollo y sírvelos templados con la mostaza y unas gotas de caldo caliente para que no se sequen."
   ],
   nutricion: { kcal: 760, prot: 67, hc: 57, grasa: 29 },
-  etiquetas: ["tradicional", "alta en proteína", "invierno", "de cuchara", "para invitados"],
+  etiquetas: ["tradicional", "alta en proteína", "invierno", "de cuchara", "para invitados", "poco especiada"],
   consejo: "En Emilia el caldo se hace con capón y ternera, y la carne cocida («il lesso») se sirve después con mostarda o salsa verde. El caldo que sobra se congela perfectamente en raciones. Los tortellini, siempre al momento: en la nevera absorben el caldo y se deshacen. Si sobra carne, pícala y conviértela en albóndigas al día siguiente.",
   tupper: false,
   contundencia: "contundente",
@@ -268,7 +268,7 @@ window.RECETAS_SEED.push({
     "Sirve el peposo sobre las tostadas, con su salsa por encima y una vuelta más de pimienta."
   ],
   nutricion: { kcal: 530, prot: 45, hc: 35, grasa: 22.5 },
-  etiquetas: ["tradicional", "alta en proteína", "invierno", "batch cooking", "sin lácteos"],
+  etiquetas: ["tradicional", "alta en proteína", "invierno", "batch cooking", "sin lácteos", "sin verduras"],
   consejo: "Se cuenta que lo cocinaban los obreros de los hornos de tejas de Impruneta, cerca de Florencia, dejando la olla de barro en la boca del horno toda la noche, y que Brunelleschi lo daba a los albañiles de la cúpula de la catedral. Usa pimienta en grano recién machacada, nunca molida de bote: es todo el sabor del plato. Mejora de un día para otro y se congela bien.",
   tupper: true,
   contundencia: "media",
@@ -317,7 +317,7 @@ window.RECETAS_SEED.push({
     "Cuece destapado a fuego suave 15 min, moviendo la olla de vez en cuando, hasta que el apio esté tierno pero entero y la salsa espesa y oscura, que napee la carne. Prueba de sal y sirve con pan para la salsa."
   ],
   nutricion: { kcal: 830, prot: 47, hc: 32, grasa: 57 },
-  etiquetas: ["tradicional", "invierno", "para invitados", "batch cooking", "fin de semana"],
+  etiquetas: ["tradicional", "invierno", "para invitados", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "Los vaccinari eran los matarifes del barrio romano del Testaccio, a los que se pagaba en parte con el «quinto quarto»: la casquería y el rabo. El cacao y las pasas son el toque agridulce de la receta antigua; puedes prescindir del cacao, pero no del apio. Hazlo la víspera: en frío la grasa sube y se retira entera, y el guiso gana sabor. Con la salsa que sobre se aliñan unos rigatoni, como hacen en Roma.",
   tupper: true,
   contundencia: "contundente",
@@ -410,7 +410,7 @@ window.RECETAS_SEED.push({
     "Prueba y equilibra con una pizca más de azúcar o de vinagre: debe ser claramente agridulce. Deja reposar al menos 10 min antes de servir; templado está aún mejor."
   ],
   nutricion: { kcal: 700, prot: 57, hc: 28, grasa: 40 },
-  etiquetas: ["tradicional", "alta en proteína", "sin lácteos", "batch cooking"],
+  etiquetas: ["tradicional", "alta en proteína", "sin lácteos", "batch cooking", "poco especiada"],
   consejo: "En Sicilia se prepara igual con liebre o con pollo, y por la zona de Catania se añade una cucharadita de cacao a la salsa. Como todo agrodolce, gana con el reposo: hazlo la víspera y sírvelo templado o a temperatura ambiente. Si no encuentras conejo, usa pollo de corral troceado con el mismo tiempo de presión.",
   tupper: true,
   contundencia: "contundente",
@@ -454,7 +454,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan. Sirve primero el caldo bien caliente en platos hondos sobre el pan, con el pecorino rallado si quieres, y después la carne con las patatas, las cebollas y los tomates secos, con pimienta recién molida."
   ],
   nutricion: { kcal: 730, prot: 48, hc: 66, grasa: 30.5 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "poco especiada"],
   consejo: "En Cerdeña se hace con oveja adulta, que necesita casi tres horas de fuego; con paletilla de cordero bastan 30 minutos de presión. Si encuentras carne de oveja o de borrego, alarga la primera presión a 40 min. El nombre, «oveja con abrigo», viene de que la carne se sirve envuelta en sus verduras. El caldo que sobre sirve para cocer pasta pequeña al día siguiente.",
   tupper: true,
   contundencia: "contundente",
@@ -497,7 +497,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos llanos, rompe media burrata encima de cada uno y termina con los pistachos, el resto de la ralladura, las hojas de hinojo picadas y pimienta."
   ],
   nutricion: { kcal: 640, prot: 21, hc: 74, grasa: 29 },
-  etiquetas: ["creativa", "sin gluten", "para invitados", "invierno"],
+  etiquetas: ["creativa", "sin gluten", "para invitados", "invierno", "poco especiada"],
   consejo: "El hinojo de bulbo está en temporada de otoño a primavera: elige bulbos blancos, prietos y con las hojas frescas. Si no encuentras burrata, usa una buena mozzarella fresca desgarrada o unas cucharadas de ricotta con aceite. La regla del risotto en olla exprés: unas 2,5 veces el peso del arroz en líquido caliente, 6 minutos de presión y mantecado fuera del fuego.",
   tupper: false,
   contundencia: "media",
@@ -589,7 +589,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de la albahaca en hojas por encima."
   ],
   nutricion: { kcal: 435, prot: 41.5, hc: 22, grasa: 20 },
-  etiquetas: ["creativa", "ligera", "alta en proteína", "para niños", "batch cooking"],
+  etiquetas: ["creativa", "ligera", "alta en proteína", "para niños", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Funcionan igual con bacalao fresco, abadejo o una mezcla de merluza y gambas picadas. Si no encuentras ricotta, usa requesón bien escurrido. Guardadas en su salsa aguantan 2 días en la nevera y se congelan bien; con la salsa que sobre tienes una pasta para el día siguiente.",
   tupper: true,
   contundencia: "ligera",
@@ -635,7 +635,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, añade pimienta recién molida y sirve con la salvia crujiente y un hilo del aceite de salvia por encima."
   ],
   nutricion: { kcal: 625, prot: 37, hc: 65, grasa: 23.5 },
-  etiquetas: ["creativa", "vegana", "alta en proteína", "sin lácteos", "invierno", "batch cooking"],
+  etiquetas: ["creativa", "vegana", "alta en proteína", "sin lácteos", "invierno", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Usa calabaza de carne prieta, tipo violín: aguanta la presión sin convertirse en puré. El seitán vuelve a la olla después de la presión para que no se quede esponjoso y conserve la costra. Es gluten de trigo, así que no es apto para celíacos: para una versión sin gluten cámbialo por garbanzos cocidos y añádelos con las castañas. Aguanta 3 días en la nevera; la salvia crujiente, hazla al servir.",
   tupper: true,
   contundencia: "media",
@@ -731,7 +731,7 @@ window.RECETAS_SEED.push({
     "Mueve la olla con suavidad 1-2 min, sin volver a ponerla al fuego, hasta que la salsa espese, brille y quede amarilla y sedosa; si sigue líquida, dale 20-30 s a fuego mínimo removiendo, sin que llegue a hervir. Sirve con el resto del perejil, pimienta y el limón restante en gajos."
   ],
   nutricion: { kcal: 600, prot: 45, hc: 40, grasa: 28 },
-  etiquetas: ["creativa", "alta en proteína", "sin gluten", "una sola olla", "otoño"],
+  etiquetas: ["creativa", "alta en proteína", "sin gluten", "una sola olla", "otoño", "poco especiada"],
   consejo: "La fricassea es la forma ligur, piamontesa y marchigiana de terminar los guisos blancos de pollo, conejo o cordero (el agnello in fricassea de Pascua): fuera del fuego, con yema y limón, como un avgolemono griego. El secreto es que el guiso no hierva al añadir las yemas, o se cortarán en grumos. Si quieres adelantarlo, guarda el guiso hecho hasta el paso 4 (3 días en la nevera) y liga con las yemas al recalentar cada vez. Con alcachofas en lugar de champiñones tienes la versión de primavera.",
   tupper: false,
   contundencia: "media",
@@ -776,7 +776,7 @@ window.RECETAS_SEED.push({
     "Deja reposar la porchetta 5 min, quita el cordel y córtala en rodajas de 1 cm con un cuchillo de sierra. Sírvela sobre las alubias, con la rúcula aliñada con el zumo del limón."
   ],
   nutricion: { kcal: 780, prot: 39, hc: 32, grasa: 55 },
-  etiquetas: ["creativa", "fin de semana", "para invitados", "sin gluten", "sin lácteos"],
+  etiquetas: ["creativa", "fin de semana", "para invitados", "sin gluten", "sin lácteos", "poco especiada"],
   consejo: "La porchetta auténtica es un cerdo entero deshuesado y asado a la leña, típico de Ariccia, en los Castelli Romani; esta versión conserva su aliño de hinojo, ajo, romero y pimienta. Las sobras, frías y en lonchas finas, hacen el mejor bocadillo con pan crujiente y rúcula. Para recuperar el crujiente, 4 min de airfryer a 200 °C.",
   tupper: true,
   contundencia: "contundente",
@@ -823,7 +823,7 @@ window.RECETAS_SEED.push({
     "Devuelve las costillas a la sartén y dales vueltas a fuego medio 2-3 min, hasta que queden lacadas y pegajosas. Sírvelas sobre el puré, con la rúcula al lado y pimienta recién molida."
   ],
   nutricion: { kcal: 830, prot: 46, hc: 65, grasa: 42 },
-  etiquetas: ["creativa", "alta en proteína", "sin gluten", "fin de semana", "para invitados"],
+  etiquetas: ["creativa", "alta en proteína", "sin gluten", "fin de semana", "para invitados", "poco especiada"],
   consejo: "En Módena las costine se hacen al horno o en cazuela y el balsámico se añade casi al final para que no pierda su aroma: por eso aquí la mayor parte va a la reducción y no a la presión. Usa un balsámico de Módena corriente para cocinar y guarda el tradicional, denso y caro, para unas gotas al servir. Si prefieres terminarlas en el horno, píntalas con la reducción y gratínalas 5-6 min a 230 °C. Aguantan 3 días en la nevera con su salsa.",
   tupper: true,
   contundencia: "contundente",
@@ -868,7 +868,7 @@ window.RECETAS_SEED.push({
     "Sirve tibio sobre la rúcula, con el resto de la albahaca y pimienta recién molida."
   ],
   nutricion: { kcal: 605, prot: 24, hc: 53, grasa: 33 },
-  etiquetas: ["creativa", "vegana", "económica", "ideal para llevar", "sin gluten", "sin lácteos"],
+  etiquetas: ["creativa", "vegana", "económica", "ideal para llevar", "sin gluten", "sin lácteos", "superalimentos", "poco especiada"],
   consejo: "Las pardinas son las mejores para este plato porque no se deshacen. El pesto rojo aguanta 5 días en la nevera cubierto con una capa de aceite y sirve también para pasta o tostas. Si no necesitas que sea vegano, unas lascas de pecorino o media burrata encima le van de maravilla.",
   tupper: true,
   contundencia: "media",
@@ -916,7 +916,7 @@ window.RECETAS_SEED.push({
     "Termina con el parmesano reservado, el resto de la albahaca y un hilo del aceite restante, y sirve con el pan tostado."
   ],
   nutricion: { kcal: 595, prot: 30.5, hc: 42, grasa: 33 },
-  etiquetas: ["creativa", "verano", "para niños", "batch cooking", "económica"],
+  etiquetas: ["creativa", "verano", "para niños", "batch cooking", "económica", "verduras escondidas", "poco especiada"],
   consejo: "El sformato es el flan salado de verdura de Toscana, Emilia y el Piamonte, que tradicionalmente se cuaja con bechamel al baño maría en el horno; esta versión con ricotta es más ligera y la olla exprés hace de baño maría en 10 minutos. Escurrir bien el calabacín es lo que evita que quede aguado. Puedes hacerlo con espinacas, guisantes o alcachofas, o en un solo molde de 750 ml con unos 18 min de presión. Aguantan 2 días en la nevera: recaliéntalos 1 min en el microondas o cómelos templados.",
   tupper: true,
   contundencia: "media",

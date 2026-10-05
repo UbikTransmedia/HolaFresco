@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Termina con el resto del perejil y deja reposar 5 minutos antes de servir para que las judías absorban el aliño."
   ],
   nutricion: { kcal: 520, prot: 32, hc: 48, grasa: 22 },
-  etiquetas: ["rápida", "sin cocción", "económica", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["rápida", "sin cocción", "económica", "ideal para llevar", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Si te la llevas al trabajo, guarda las sardinas aparte y colócalas en el último momento para que no se deshagan. Funciona igual con caballa o bonito en conserva.",
   contundencia: "media",
   coste: "económica"
@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
     "En un bol grande, mezcla la col, la zanahoria, la cebolla escurrida (reserva su vinagre), el pollo y casi todas las hierbas. Aliña, añade una cucharada del vinagre del encurtido y mezcla bien. Sirve con los cacahuetes y el resto de las hierbas por encima."
   ],
   nutricion: { kcal: 410, prot: 34, hc: 28, grasa: 18 },
-  etiquetas: ["ligera", "alta en proteína", "económica", "ideal para llevar", "verano"],
+  etiquetas: ["ligera", "alta en proteína", "económica", "ideal para llevar", "verano", "bajo en colesterol"],
   consejo: "El caldo del escalfado, con su jengibre, es una base perfecta para una sopa: cuélalo y congélalo. Si no tienes salsa de pescado, usa salsa de soja, aunque perderá parte de su gracia.",
   contundencia: "ligera",
   coste: "económica"
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Coloca encima el bacon y los picatostes, y por último 2 huevos por plato abiertos por la mitad, con una pizca de sal y pimienta sobre la yema."
   ],
   nutricion: { kcal: 455, prot: 24, hc: 22, grasa: 30 },
-  etiquetas: ["rápida", "económica", "ligera", "cena"],
+  etiquetas: ["rápida", "económica", "ligera", "cena", "poco especiada"],
   consejo: "El huevo mollet sale perfecto si el agua hierve de verdad al echarlo y el baño de hielo está preparado de antemano. Puedes cocerlos el día antes y guardarlos sin pelar en la nevera.",
   contundencia: "ligera",
   coste: "económica"
@@ -178,7 +178,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls: base de arroz templado, encima el atún con su marinada, y alrededor la wakame, el rábano, el pepino y el aguacate. Termina con la mayonesa picante en hilos, el sésamo tostado y la parte blanca de la cebolleta en aros."
   ],
   nutricion: { kcal: 710, prot: 42, hc: 82, grasa: 24 },
-  etiquetas: ["alta en proteína", "sin horno", "para invitados", "verano"],
+  etiquetas: ["alta en proteína", "sin horno", "para invitados", "verano", "superalimentos"],
   consejo: "El atún para comer crudo debe haber estado congelado al menos 5 días a -20 °C (o comprarlo ya ultracongelado). Si prefieres no arriesgar, márcalo 30 segundos por cada lado en la plancha muy caliente antes de cortarlo.",
   contundencia: "contundente",
   coste: "premium"
@@ -220,7 +220,7 @@ window.RECETAS_SEED.push({
     "Mezcla en una fuente la rúcula, el melón y el pepino con la mitad del aliño. Coloca encima el halloumi recién hecho y los garbanzos, riega con el resto del aliño y termina con la menta y los pistachos. Sirve enseguida, con el queso aún caliente."
   ],
   nutricion: { kcal: 570, prot: 28, hc: 34, grasa: 36 },
-  etiquetas: ["rápida", "verano", "vegetariana", "sin horno"],
+  etiquetas: ["rápida", "verano", "vegetariana", "sin horno", "poco especiada"],
   consejo: "El halloumi se endurece al enfriarse: hazlo justo antes de sentarte a la mesa. En temporada, cambia el melón por sandía o melocotón.",
   contundencia: "media",
   coste: "media"
@@ -267,7 +267,7 @@ window.RECETAS_SEED.push({
     "Mezcla las verduras y las hierbas con el aliño en un bol grande. Añade el pan crujiente justo al final para que no se reblandezca y coloca encima el pollo caliente, con un último toque de zumaque."
   ],
   nutricion: { kcal: 560, prot: 38, hc: 52, grasa: 22 },
-  etiquetas: ["económica", "alta en proteína", "verano", "aprovechamiento"],
+  etiquetas: ["económica", "alta en proteína", "verano", "aprovechamiento", "poco especiada", "bajo en colesterol"],
   consejo: "El fattoush nació para aprovechar el pan del día anterior: cualquier pan de pita o tortilla de trigo vieja sirve. Si no encuentras melaza de granada, usa media cucharadita de miel con unas gotas de vinagre balsámico.",
   contundencia: "media",
   coste: "económica"
@@ -311,7 +311,7 @@ window.RECETAS_SEED.push({
     "Reparte los canónigos en dos platos, coloca encima las lentejas templadas con las setas y corona con 4 vieiras por plato. Riega con el resto de la vinagreta de avellanas y sirve enseguida."
   ],
   nutricion: { kcal: 445, prot: 30, hc: 40, grasa: 18 },
-  etiquetas: ["ligera", "para invitados", "alta en proteína", "otoño"],
+  etiquetas: ["ligera", "para invitados", "alta en proteína", "otoño", "poco especiada"],
   consejo: "La clave de la vieira es una sartén muy caliente y una vieira muy seca: si suelta agua, se cuece en lugar de dorarse. Puedes sustituirlas por langostinos grandes para abaratar el plato.",
   contundencia: "ligera",
   coste: "premium"
@@ -361,7 +361,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls: arroz a la lima, alubias escurridas aliñadas con unas gotas de aceite, boniato, maíz, aguacate en láminas y queso fresco desmenuzado. Termina con la cebolla encurtida, el aliño de chipotle y cilantro picado, y acompaña con gajos de lima."
   ],
   nutricion: { kcal: 750, prot: 34, hc: 100, grasa: 24 },
-  etiquetas: ["batch cooking", "económica", "ideal para llevar", "picante"],
+  etiquetas: ["batch cooking", "económica", "ideal para llevar", "picante", "superalimentos"],
   consejo: "Cuece el doble de alubias y congélalas en su caldo: con eso tienes media receta hecha la próxima vez. Si vas con prisa, usa 400 g de alubias negras cocidas de bote y la receta se queda en 45 minutos.",
   contundencia: "contundente",
   coste: "económica"
@@ -406,7 +406,7 @@ window.RECETAS_SEED.push({
     "Reparte la ensalada en dos platos, coloca encima el pollo, riega con el aliño de yogur y termina con lascas de parmesano y un poco más de ralladura de limón."
   ],
   nutricion: { kcal: 605, prot: 40, hc: 66, grasa: 20 },
-  etiquetas: ["batch cooking", "ideal para llevar", "primavera", "económica", "alta en proteína"],
+  etiquetas: ["batch cooking", "ideal para llevar", "primavera", "económica", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "La cebada aguanta muy bien en la nevera sin apelmazarse: cuece el doble y úsala durante la semana. Fuera de temporada, cambia los trigueros por brócoli asado.",
   contundencia: "media",
   coste: "económica"
@@ -543,7 +543,7 @@ window.RECETAS_SEED.push({
     "Mezcla las coles calientes con los canónigos, la manzana, la panceta y la vinagreta templada. Reparte en dos platos, pon 2 huevos fritos encima de cada uno y termina con las avellanas y pimienta recién molida."
   ],
   nutricion: { kcal: 610, prot: 26, hc: 36, grasa: 40 },
-  etiquetas: ["invierno", "al horno", "económica"],
+  etiquetas: ["invierno", "al horno", "económica", "poco especiada"],
   consejo: "Las coles de Bruselas solo saben amargas cuando se cuecen de más; asadas a fuego fuerte quedan dulces y avellanadas. Si no te convencen, prueba la receta con brócoli o coliflor.",
   contundencia: "media",
   coste: "media"
@@ -593,7 +593,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls: arroz, lechuga en tiras, pepino en bastones, la zanahoria encurtida escurrida y el pollo. Termina con menta, cilantro y cacahuetes picados, y sirve el nuoc cham aparte para regar al gusto."
   ],
   nutricion: { kcal: 760, prot: 44, hc: 96, grasa: 22 },
-  etiquetas: ["marinado", "alta en proteína", "ideal para llevar", "sin horno"],
+  etiquetas: ["marinado", "alta en proteína", "ideal para llevar", "sin horno", "bajo en colesterol"],
   consejo: "Si no encuentras hierba limón fresca, la ralladura de una lima y medio limón más una cucharadita de jengibre rallado dan un resultado parecido. La marinada funciona igual de bien con solomillo de cerdo en filetes.",
   contundencia: "contundente",
   coste: "media"
@@ -640,7 +640,7 @@ window.RECETAS_SEED.push({
     "Extiende el yogur en la base de cada plato, coloca la rúcula, la remolacha, los gajos de naranja y los garbanzos crujientes, riega con el resto de la vinagreta y termina con el dukkah y hojas de menta."
   ],
   nutricion: { kcal: 450, prot: 20, hc: 52, grasa: 18 },
-  etiquetas: ["ligera", "al horno", "económica", "vegetariana", "invierno"],
+  etiquetas: ["ligera", "al horno", "económica", "vegetariana", "invierno", "bajo en colesterol"],
   consejo: "Asa varias remolachas a la vez: peladas y en la nevera aguantan 5 días. El dukkah sobrante, en un tarro bien cerrado, es estupendo sobre huevos, cremas o pan con aceite.",
   contundencia: "ligera",
   coste: "económica"
@@ -680,7 +680,7 @@ window.RECETAS_SEED.push({
     "Corona con el pulpo caliente, riega con el resto de la vinagreta, espolvorea perejil y unos cristales de sal gruesa. Sirve enseguida, con la patata y el pulpo templados."
   ],
   nutricion: { kcal: 520, prot: 34, hc: 46, grasa: 22 },
-  etiquetas: ["para invitados", "alta en proteína", "una sola sartén"],
+  etiquetas: ["para invitados", "alta en proteína", "una sola sartén", "poco especiada"],
   consejo: "Si compras el pulpo cocido envasado, guarda el líquido gelatinoso que trae: añadido en una cucharada a la vinagreta le da cuerpo y sabor a mar.",
   contundencia: "media",
   coste: "premium"
@@ -723,7 +723,7 @@ window.RECETAS_SEED.push({
     "Corta el entrecot en tiras de 1 cm al bies, colócalas sobre la rúcula con su jugo, espolvorea sal gruesa y pimienta, y termina con lascas de parmesano y unos hilos de la reducción de balsámico."
   ],
   nutricion: { kcal: 695, prot: 44, hc: 44, grasa: 38 },
-  etiquetas: ["para invitados", "alta en proteína", "al horno"],
+  etiquetas: ["para invitados", "alta en proteína", "al horno", "poco especiada"],
   consejo: "Para un punto perfecto, el centro de la pieza debe marcar 52–54 °C con termómetro antes del reposo. Corta siempre en contra de la fibra para que las tiras queden tiernas.",
   contundencia: "contundente",
   coste: "premium"
@@ -771,7 +771,7 @@ window.RECETAS_SEED.push({
     "Mezcla la lechuga con la mitad del aliño, repártela en dos platos con el tomate y coloca encima el pollo crujiente, el bacon troceado y los picatostes. Riega con el resto del aliño y termina con cebollino."
   ],
   nutricion: { kcal: 730, prot: 46, hc: 56, grasa: 36 },
-  etiquetas: ["para niños", "alta en proteína", "sin horno"],
+  etiquetas: ["para niños", "alta en proteína", "sin horno", "poco especiada"],
   consejo: "Para una versión más ligera, hornea el pollo empanado a 210 °C durante 18 minutos sobre papel, pulverizado con un poco de aceite. El aliño ranchero aguanta 3 días en la nevera.",
   contundencia: "contundente",
   coste: "media"
@@ -823,7 +823,7 @@ window.RECETAS_SEED.push({
     "Sirve el kısır con las albóndigas calientes, los granos de granada por encima, el yogur aparte y hojas de lechuga para envolver un poco de cada cosa."
   ],
   nutricion: { kcal: 665, prot: 36, hc: 76, grasa: 24 },
-  etiquetas: ["económica", "batch cooking", "ideal para llevar", "al horno"],
+  etiquetas: ["económica", "batch cooking", "ideal para llevar", "al horno", "bajo en colesterol"],
   consejo: "Si encuentras biber salçası (pasta de pimiento turca) en tiendas de alimentación turca, usa una cucharada en lugar de los piquillos: el kısır tendrá su color y sabor auténticos.",
   contundencia: "contundente",
   coste: "económica"
@@ -862,7 +862,7 @@ window.RECETAS_SEED.push({
     "Mezcla el zumo de naranja que hayas recogido con el aceite, el vinagre si lo usas y el pimentón. Riega la ensalada y deja reposar 5 minutos antes de servir para que los sabores se unan. No suele necesitar sal: pruébala antes."
   ],
   nutricion: { kcal: 400, prot: 32, hc: 28, grasa: 18 },
-  etiquetas: ["rápida", "ligera", "invierno", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "invierno", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Es una ensalada típica de invierno, cuando la naranja está en su mejor momento. Las naranjas sanguinas le dan un color espectacular.",
   contundencia: "ligera",
   coste: "media"
@@ -906,7 +906,7 @@ window.RECETAS_SEED.push({
     "Mezcla la quinoa con la col, la zanahoria, el edamame y dos tercios del aliño. Reparte en dos boles y coloca encima el tofu, el aguacate y la cebolleta. Riega con el resto del aliño y termina con las semillas de calabaza."
   ],
   nutricion: { kcal: 445, prot: 26, hc: 44, grasa: 18 },
-  etiquetas: ["ligera", "rápida", "ideal para llevar", "vegana", "alta en proteína"],
+  etiquetas: ["ligera", "rápida", "ideal para llevar", "vegana", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para llevar, guarda el aguacate y el aliño aparte y mézclalos al comer: la col lombarda y la quinoa aguantan perfectamente 2 días aliñadas.",
   contundencia: "ligera",
   coste: "media"
@@ -952,7 +952,7 @@ window.RECETAS_SEED.push({
     "Reparte los canónigos, las patatas, la remolacha, los rábanos, los pepinillos y la cebolla en dos platos. Coloca encima los lomos de caballa con la piel hacia arriba, añade cucharadas de la crema de mostaza y termina con el resto del eneldo."
   ],
   nutricion: { kcal: 575, prot: 32, hc: 40, grasa: 32 },
-  etiquetas: ["omega 3", "nórdica", "alta en proteína"],
+  etiquetas: ["omega 3", "nórdica", "alta en proteína", "poco especiada"],
   consejo: "La caballa es uno de los pescados azules más baratos y sabrosos; si no la encuentras fresca, usa sardinas en filetes o caballa en conserva escurrida, sin pasar por la sartén.",
   contundencia: "media",
   coste: "media"
@@ -1047,7 +1047,7 @@ window.RECETAS_SEED.push({
     "Riega con el resto de la vinagreta, espolvorea las nueces, unas escamas de sal sobre la burrata y pimienta recién molida. Sirve con el pan tostado al lado."
   ],
   nutricion: { kcal: 580, prot: 26, hc: 34, grasa: 38 },
-  etiquetas: ["rápida", "sin horno", "para invitados", "otoño"],
+  etiquetas: ["rápida", "sin horno", "para invitados", "otoño", "poco especiada"],
   consejo: "Usa caqui persimon o rojo brillante firme, que se corta en gajos limpios; el caqui blando de toda la vida es mejor para postres. Fuera de temporada, cámbialo por higos o melocotón.",
   contundencia: "media",
   coste: "premium"
@@ -1095,7 +1095,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls por secciones: arroz, kale, boniato, zanahoria rallada, col lombarda en hilos y tempeh glaseado. Riega con la salsa de cacahuete y espolvorea sésamo."
   ],
   nutricion: { kcal: 745, prot: 32, hc: 78, grasa: 34 },
-  etiquetas: ["vegana", "batch cooking", "ideal para llevar", "al horno"],
+  etiquetas: ["vegana", "batch cooking", "ideal para llevar", "al horno", "superalimentos", "poco especiada"],
   consejo: "Si no encuentras tempeh, el tofu firme bien prensado admite el mismo glaseado (sáltate el paso del vapor). Puedes preparar arroz, boniato y salsa con dos días de antelación.",
   contundencia: "contundente",
   coste: "media"
@@ -1144,7 +1144,7 @@ window.RECETAS_SEED.push({
     "Mezcla el arroz frío con las espinacas, el mango, el pepino y la cebolla con su jugo. Reparte en dos platos, coloca encima el pollo caliente con las semillas y riega con el chutney de cilantro."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 54, grasa: 10 },
-  etiquetas: ["ligera", "marinado", "alta en proteína", "verano", "ideal para llevar"],
+  etiquetas: ["ligera", "marinado", "alta en proteína", "verano", "ideal para llevar", "bajo en colesterol"],
   consejo: "Marina el pollo por la mañana y la ensalada estará lista en 20 minutos a la hora de comer. El arroz cocido del día anterior queda aún mejor, más suelto.",
   contundencia: "ligera",
   coste: "económica"

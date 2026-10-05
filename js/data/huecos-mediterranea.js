@@ -51,7 +51,7 @@ window.RECETAS_SEED.push({
     "Retira la piel de naranja, el laurel, las ramas de tomillo y los clavos. Si la salsa está demasiado líquida, hierve sin tapa 5 minutos hasta que cubra el dorso de una cuchara. Prueba de sal y pimienta y sirve con el perejil fresco picado por encima."
   ],
   nutricion: { kcal: 700, prot: 43, hc: 54, grasa: 32 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "otoño", "batch cooking", "sin gluten", "sin lácteos", "alta en proteína"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "otoño", "batch cooking", "sin gluten", "sin lácteos", "alta en proteína", "poco especiada"],
   consejo: "En Provenza la daube se marina la víspera: si puedes, deja la carne toda la noche en la nevera con el vino, la cebolla, la zanahoria, el ajo, la piel de naranja y las hierbas, sécala bien antes de dorarla y usa el vino de la marinada en el paso 4. Aguanta 3 días en la nevera y está más buena al segundo día; para congelar, guarda la carne con su salsa sin las patatas. En Niza, con la salsa que sobra se aliñan unos macarrones y la carne deshilachada sirve para rellenar los raviolis a la daube.",
   tupper: true,
   contundencia: "contundente",
@@ -99,7 +99,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con un huevo y la mitad del queso por ración, pimienta negra recién molida, el perejil y la media cucharada de aceite de oliva restante en crudo."
   ],
   nutricion: { kcal: 630, prot: 33, hc: 68, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "primavera", "vegetariana", "económica", "para entre semana"],
+  etiquetas: ["tradicional", "de cuchara", "primavera", "vegetariana", "económica", "para entre semana", "poco especiada"],
   consejo: "El kusksu es una sopa de la Cuaresma y la primavera maltesas, cuando hay habas frescas; se hace con una pasta en bolitas que lleva su mismo nombre. El cuscús perlado es lo más parecido; también sirven un orzo pequeño (los mismos 3 minutos) o la fregola, que es más dura (súbela a 5 minutos de presión). Si quieres guardar una ración, hazlo antes de escalfar los huevos: la pasta sigue absorbiendo caldo, así que al recalentarla añade un buen chorro de agua y escalfa el huevo en ese momento.",
   tupper: false,
   contundencia: "media",

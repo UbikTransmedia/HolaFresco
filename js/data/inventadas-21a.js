@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Apaga, tapa y deja reposar 10 minutos. Sirve en plato hondo con el resto del perejil."
   ],
   nutricion: { kcal: 590, prot: 32, hc: 75, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "invierno", "sin verduras", "poco especiada"],
   consejo: "Las almejas van siempre al final y fuera de las fabes, para que no se pasen ni llenen el guiso de arena. Si el caldo queda claro, aplasta unas cuantas fabes contra la pared de la cazuela: lo espesan sin harina extra.",
   contundencia: "media",
   coste: "premium"
@@ -79,7 +79,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos con el fuego apagado y sirve bien caliente, con su caldito espeso y pan."
   ],
   nutricion: { kcal: 738, prot: 38, hc: 70, grasa: 34 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "batch cooking", "invierno", "picante"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "batch cooking", "invierno", "picante", "sin verduras"],
   consejo: "En Murcia se comen de tapa en cazuelica de barro, así que si sobran ya tienes aperitivo. Las habas secas peladas (sin piel) se ablandan antes; si las compras con piel, cuenta media hora más.",
   contundencia: "contundente",
   coste: "económica"
@@ -160,7 +160,7 @@ window.RECETAS_SEED.push({
     "Saca las carnes, córtalas en trozos y sírvelas por encima del cocido, en plato hondo."
   ],
   nutricion: { kcal: 928, prot: 50, hc: 65, grasa: 52 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Cocer la berza aparte evita que el cocido amargue y se ponga verde oscuro. Está todavía mejor al día siguiente: hazlo de víspera y caliéntalo despacio.",
   contundencia: "contundente",
   coste: "media"
@@ -201,7 +201,7 @@ window.RECETAS_SEED.push({
     "Sirve después los garbanzos con las verduras y la pringá al lado, y si quieres un chorrito de aceite de oliva crudo por encima."
   ],
   nutricion: { kcal: 836, prot: 62, hc: 75, grasa: 32 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "de domingo", "invierno", "batch cooking", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "de domingo", "invierno", "batch cooking", "para invitados", "poco especiada"],
   consejo: "Los garbanzos se echan siempre con el agua ya hirviendo; si los pones en frío se quedan duros. Con la pringá que sobre, haz montaditos de pan tostado: es la merienda clásica de Sevilla.",
   contundencia: "contundente",
   coste: "media"
@@ -245,7 +245,7 @@ window.RECETAS_SEED.push({
     "Sirve la berza con su caldo en plato hondo y las carnes troceadas aparte, como pringá."
   ],
   nutricion: { kcal: 905, prot: 45, hc: 80, grasa: 45 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "El majado de pan, ajo y comino es lo que da a la berza su sabor jerezano y su caldo espeso. En temporada, cambia las judías verdes por tagarninas o cardillos, como se hace en Jerez.",
   contundencia: "contundente",
   coste: "económica"
@@ -284,7 +284,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos y sirve en plato hondo con un trozo de cada carne y la morcilla en rodajas."
   ],
   nutricion: { kcal: 808, prot: 44, hc: 68, grasa: 40 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Elige nabos pequeños y pesados, que son más dulces; si los notas amargos, escáldalos 2 minutos antes de echarlos a la olla. Muchas abuelas añaden un puñado de arroz al final y la convierten en plato único.",
   contundencia: "contundente",
   coste: "económica"
@@ -324,7 +324,7 @@ window.RECETAS_SEED.push({
     "Saca las carnes, córtalas en trozos y sírvelas con los judiones y su caldo en plato hondo."
   ],
   nutricion: { kcal: 886, prot: 48, hc: 70, grasa: 46 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "para invitados", "sin verduras", "poco especiada"],
   consejo: "Los judiones tienen la piel fina: si los cueces a borbotones se pelan. Fuego mínimo y que apenas tiemble el caldo. Son caros, pero 90 g por persona llenan como un cocido.",
   contundencia: "contundente",
   coste: "premium"
@@ -408,7 +408,7 @@ window.RECETAS_SEED.push({
     "Saca el chorizo, córtalo en rodajas y devuélvelo. Cuece 10 minutos más, hasta que el caldo espese, y sala al gusto."
   ],
   nutricion: { kcal: 784, prot: 40, hc: 75, grasa: 36 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Triturar la verdura de la cocción es el truco de abuela para un caldo espeso sin harina. Si te sobran, congélalas en raciones: aguantan perfectas tres meses.",
   contundencia: "contundente",
   coste: "económica"
@@ -449,7 +449,7 @@ window.RECETAS_SEED.push({
     "Cuece 20 minutos más, hasta que la patata esté tierna y el caldo haya espesado. Sala al final y deja reposar 5 minutos."
   ],
   nutricion: { kcal: 776, prot: 34, hc: 88, grasa: 32 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Cascar la patata en vez de cortarla limpia hace que suelte almidón y engorde el caldo. Si no tienes carne de choricero, remoja 2 ñoras 30 minutos y raspa su pulpa.",
   contundencia: "contundente",
   coste: "económica"
@@ -491,7 +491,7 @@ window.RECETAS_SEED.push({
     "Pon la morcilla sobre las lentejas los últimos 3 minutos, sin mezclar. Sala, deja reposar 5 minutos y sirve con una rodaja de morcilla en cada plato."
   ],
   nutricion: { kcal: 810, prot: 44, hc: 82, grasa: 34 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "La morcilla de Burgos se deshace si hierve en el guiso: márcala aparte y ponla encima al final. Las pardinas no necesitan remojo; las castellanas (más grandes), sí, unas horas.",
   contundencia: "contundente",
   coste: "económica"
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con unas guindillas en vinagre al lado."
   ],
   nutricion: { kcal: 444, prot: 22, hc: 62, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "verano", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "verano", "batch cooking", "detox", "bajo en colesterol"],
   consejo: "Las pochas frescas son de finales de verano; el resto del año las congeladas funcionan igual y se cuecen sin descongelar. No necesitan remojo y casi no hacen espuma.",
   contundencia: "ligera",
   coste: "media"
@@ -616,7 +616,7 @@ window.RECETAS_SEED.push({
     "Apaga, espolvorea perejil picado y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 568, prot: 42, hc: 64, grasa: 16 },
-  etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "poco especiada"],
   consejo: "Las verdinas asturianas tienen la piel muy fina y se rompen si hierven fuerte: que el caldo solo tiemble. Usar las cáscaras de los langostinos para el caldo multiplica el sabor sin coste extra.",
   contundencia: "media",
   coste: "premium"
@@ -659,7 +659,7 @@ window.RECETAS_SEED.push({
     "Sala al gusto y sirve con la costilla y una rodaja de millo en cada plato. En Canarias se acompaña de gofio para espesar en el plato."
   ],
   nutricion: { kcal: 562, prot: 30, hc: 70, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Si no encuentras berros, usa espinacas o acelgas: no es lo mismo, pero el potaje sigue siendo de abuela. Las papas cascadas (rotas, no cortadas) son las que espesan el caldo.",
   contundencia: "media",
   coste: "económica"
@@ -702,7 +702,7 @@ window.RECETAS_SEED.push({
     "Sala al gusto y deja reposar 5 minutos: debe quedar caldoso pero con cuerpo."
   ],
   nutricion: { kcal: 822, prot: 48, hc: 90, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "sin verduras", "poco especiada"],
   consejo: "El rancho espesa mucho al reposar porque los fideos siguen bebiendo caldo: si lo vas a recalentar, cuece los fideos solo 5 minutos y añade agua al día siguiente.",
   contundencia: "contundente",
   coste: "económica"
@@ -745,7 +745,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal y sirve enseguida."
   ],
   nutricion: { kcal: 598, prot: 42, hc: 58, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "rápida", "batch cooking", "ideal para llevar"],
+  etiquetas: ["tradicional", "fácil", "rápida", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "En Canarias se hace con las sobras del puchero: si te queda carne de cocido, úsala en lugar del pollo y te ahorras el primer paso. Un chorrito de limón al servir la alegra mucho.",
   contundencia: "media",
   coste: "media"
@@ -783,7 +783,7 @@ window.RECETAS_SEED.push({
     "Sirve con unas hojas de hierbabuena picadas por encima. Si quieres un plato más completo, cuaja encima un huevo por persona tapando la sartén 3 minutos."
   ],
   nutricion: { kcal: 406, prot: 32, hc: 38, grasa: 14 },
-  etiquetas: ["tradicional", "fácil", "rápida", "verano"],
+  etiquetas: ["tradicional", "fácil", "rápida", "verano", "poco especiada"],
   consejo: "Si las habas son grandes, pélales la piel después de cocerlas (se quita apretando entre los dedos): quedan mucho más tiernas y dulces. El jamón nunca debe freírse mucho o se pone duro.",
   contundencia: "ligera",
   coste: "media"
@@ -824,7 +824,7 @@ window.RECETAS_SEED.push({
     "Sala al gusto y sirve caliente."
   ],
   nutricion: { kcal: 430, prot: 18, hc: 58, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "batch cooking", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Es el potaje de Cuaresma de toda la vida en Andalucía; si quieres hacerlo de vigilia completo, añade al final 150 g de bacalao desalado desmigado. El majado de pan es lo que le da cuerpo, no te lo saltes.",
   contundencia: "ligera",
   coste: "económica"
@@ -865,7 +865,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal (el bacalao puede salar) y deja reposar 3 minutos: debe quedar caldoso y espeso, con los granos de arroz y alubia como las piedras de un empedrado."
   ],
   nutricion: { kcal: 628, prot: 40, hc: 90, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "batch cooking", "invierno", "poco especiada"],
   consejo: "Usa arroz redondo, que suelta almidón y liga el caldo. Si partes de alubias secas, cuécelas la víspera y aprovecha su caldo en lugar del de pescado.",
   contundencia: "media",
   coste: "media"
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
     "Sala al gusto y deja reposar 3 minutos antes de servir."
   ],
   nutricion: { kcal: 582, prot: 22, hc: 92, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Para darle sustancia sin carne, añade 1 huevo duro picado por plato. Si lo dejas para el día siguiente, el arroz absorbe caldo: añade un vaso de agua al calentar.",
   contundencia: "media",
   coste: "económica"
@@ -946,7 +946,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré bien caliente con los picatostes por encima y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 459, prot: 22, hc: 68, grasa: 11 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "para niños", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "para niños", "invierno", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "Es la forma de abuela de que los niños coman lentejas. Para un puré más fino, pásalo por el pasapurés después de triturar: quita los restos de piel.",
   contundencia: "ligera",
   coste: "económica"
@@ -988,7 +988,7 @@ window.RECETAS_SEED.push({
     "Sala al gusto y sirve en plato hondo."
   ],
   nutricion: { kcal: 444, prot: 22, hc: 62, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Es el guiso para vaciar el cajón de la verdura: vale cualquier verdura de temporada. Enjuaga bien las judías de bote para quitarles el líquido de conserva, que da sabor a lata.",
   contundencia: "ligera",
   coste: "económica"
@@ -1030,7 +1030,7 @@ window.RECETAS_SEED.push({
     "Sala al gusto, retira el tomillo y el laurel y deja reposar 5 minutos. Sirve una codorniz por plato sobre sus lentejas."
   ],
   nutricion: { kcal: 634, prot: 52, hc: 66, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "de domingo", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "de domingo", "para invitados", "invierno", "poco especiada"],
   consejo: "Dorar bien las codornices antes es lo que da el sabor de caza al caldo. Si te parecen pocas, añade 50 g de panceta en dados al sofrito.",
   contundencia: "media",
   coste: "premium"

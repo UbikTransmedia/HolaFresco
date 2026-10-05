@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Shakshuka verde de espinacas y puerro con huevos y feta",
   subtitulo: "con comino, limón, eneldo y pan de pita para mojar",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "oriente-medio",
   contundencia: "ligera",
   coste: "económica",
@@ -51,7 +51,7 @@ window.RECETAS_SEED.push({
   nombre: "Tortilla abierta de calabacín, menta y queso fresco",
   subtitulo: "con ensalada rápida de tomate aliñado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   contundencia: "ligera",
   coste: "económica",
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Desliza la tortilla a una tabla, córtala en cuartos y sírvela con el tomate aliñado al lado y unas hojas de menta por encima."
   ],
   nutricion: { kcal: 330, prot: 20, hc: 11, grasa: 23 },
-  etiquetas: ["rápida", "ligera", "una sola sartén", "económica", "verano"],
+  etiquetas: ["rápida", "ligera", "una sola sartén", "económica", "verano", "keto", "poco especiada"],
   consejo: "No te saltes el paso de escurrir el calabacín: con el agua dentro la tortilla no cuaja y queda esponjosa en vez de jugosa."
 });
 
@@ -92,7 +92,7 @@ window.RECETAS_SEED.push({
   nombre: "Frittata al horno de patata, puerro y queso de cabra",
   subtitulo: "con tomillo y ensalada de rúcula al balsámico",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "italiana",
   contundencia: "ligera",
   coste: "media",
@@ -124,7 +124,7 @@ window.RECETAS_SEED.push({
     "Aliña la rúcula con el aceite restante, el balsámico y sal. Sirve la frittata en porciones con la ensalada encima o al lado."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 28, grasa: 28 },
-  etiquetas: ["al horno", "ligera", "ideal para llevar", "para niños"],
+  etiquetas: ["al horno", "ligera", "ideal para llevar", "para niños", "poco especiada"],
   consejo: "Fría también está buenísima: córtala en dados para el tupper o para un picoteo."
 });
 
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos al plato sobre pisto de berenjena al pimentón ahumado",
   subtitulo: "con pan tostado y perejil",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   contundencia: "ligera",
   coste: "económica",
@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan, pícale el perejil al plato y sirve enseguida para mojar."
   ],
   nutricion: { kcal: 460, prot: 20, hc: 38, grasa: 25 },
-  etiquetas: ["al horno", "ligera", "económica", "para niños", "batch cooking"],
+  etiquetas: ["al horno", "ligera", "económica", "para niños", "batch cooking", "poco especiada"],
   consejo: "Haz el doble de pisto y congélalo en raciones: el día que lo necesites, solo tienes que calentarlo y añadir los huevos."
 });
 
@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
   nombre: "Quiche de brócoli y cheddar con masa quebrada casera",
   subtitulo: "con cebolla pochada y un toque de mostaza",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "europea",
   contundencia: "contundente",
   coste: "media",
@@ -212,7 +212,7 @@ window.RECETAS_SEED.push({
     "Hornea 30-35 minutos a 180 °C, hasta que el relleno esté cuajado (al mover el molde tiembla ligeramente solo en el centro) y la superficie dorada. Deja reposar 10 minutos antes de desmoldar y cortar."
   ],
   nutricion: { kcal: 900, prot: 30, hc: 58, grasa: 61 },
-  etiquetas: ["al horno", "ideal para llevar", "batch cooking", "para niños"],
+  etiquetas: ["al horno", "ideal para llevar", "batch cooking", "para niños", "poco especiada"],
   consejo: "La quiche aguanta 3 días en la nevera y se come igual de bien templada o fría. Si tienes prisa, una masa quebrada comprada te ahorra 40 minutos."
 });
 
@@ -221,7 +221,7 @@ window.RECETAS_SEED.push({
   nombre: "Revuelto cremoso de setas variadas y espárragos trigueros con queso de cabra",
   subtitulo: "con cebollino y tostada de pan rústico",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   contundencia: "ligera",
   coste: "premium",
@@ -252,7 +252,7 @@ window.RECETAS_SEED.push({
     "Desmenuza el queso de cabra por encima para que se funda ligeramente, espolvorea el cebollino picado y sirve enseguida sobre la tostada o con ella al lado."
   ],
   nutricion: { kcal: 460, prot: 26, hc: 28, grasa: 27 },
-  etiquetas: ["rápida", "ligera", "una sola sartén", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "una sola sartén", "alta en proteína", "poco especiada"],
   consejo: "El secreto del revuelto jugoso es apartarlo antes de tiempo: si esperas a que se vea hecho en la sartén, en el plato estará seco."
 });
 
@@ -261,7 +261,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos turcos con yogur al ajo, mantequilla de pimentón y bulgur",
   subtitulo: "huevos escalfados al estilo çılbır con eneldo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "oriente-medio",
   contundencia: "media",
   coste: "económica",
@@ -295,7 +295,7 @@ window.RECETAS_SEED.push({
     "Riega con la mantequilla roja, espolvorea el eneldo picado y pimienta recién molida y sirve enseguida."
   ],
   nutricion: { kcal: 545, prot: 22, hc: 42, grasa: 32 },
-  etiquetas: ["rápida", "alta en proteína", "económica"],
+  etiquetas: ["rápida", "alta en proteína", "económica", "sin verduras"],
   consejo: "Si te intimida escalfar, cuece los huevos 6 minutos y medio desde el agua hirviendo, enfríalos un minuto y pélalos: el resultado es casi idéntico."
 });
 
@@ -304,7 +304,7 @@ window.RECETAS_SEED.push({
   nombre: "Paneer tikka masala con arroz basmati",
   subtitulo: "queso marinado y dorado en salsa de tomate especiada con nata",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "india",
   contundencia: "contundente",
   coste: "media",
@@ -354,7 +354,7 @@ window.RECETAS_SEED.push({
   nombre: "Lasaña de berenjena asada y pimientos con mozzarella y bechamel",
   subtitulo: "con salsa de tomate a la albahaca y costra de parmesano",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   contundencia: "contundente",
   coste: "media",
@@ -393,7 +393,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar: se asienta y las porciones salen enteras."
   ],
   nutricion: { kcal: 800, prot: 37, hc: 75, grasa: 40 },
-  etiquetas: ["al horno", "batch cooking", "para niños", "invierno"],
+  etiquetas: ["al horno", "batch cooking", "para niños", "invierno", "poco especiada"],
   consejo: "Puedes montarla la víspera y guardarla en la nevera sin hornear; añade entonces 10 minutos de horno tapado. Ya horneada se congela bien en porciones."
 });
 
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
   nombre: "Pimientos rellenos de quinoa, feta y pasas con salsa de yogur a la menta",
   subtitulo: "con almendras, comino y canela",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   contundencia: "media",
   coste: "media",
@@ -442,7 +442,7 @@ window.RECETAS_SEED.push({
     "Sirve tres mitades por persona con la salsa de yogur al lado o en cucharadas por encima."
   ],
   nutricion: { kcal: 630, prot: 23, hc: 62, grasa: 32 },
-  etiquetas: ["al horno", "ideal para llevar", "batch cooking"],
+  etiquetas: ["al horno", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "Puedes rellenarlos la víspera y hornearlos al día siguiente; fríos también están buenísimos, así que haz de más para el tupper."
 });
 
@@ -451,7 +451,7 @@ window.RECETAS_SEED.push({
   nombre: "Croquetas de calabaza asada y parmesano al horno con ensalada de canónigos",
   subtitulo: "bechamel cremosa, empanado crujiente sin freír",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   contundencia: "contundente",
   coste: "media",
@@ -489,7 +489,7 @@ window.RECETAS_SEED.push({
     "Sirve 6 croquetas por persona con la ensalada al lado."
   ],
   nutricion: { kcal: 700, prot: 26, hc: 62, grasa: 38 },
-  etiquetas: ["al horno", "batch cooking", "para niños", "invierno"],
+  etiquetas: ["al horno", "batch cooking", "para niños", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "La masa aguanta 2 días en la nevera y las croquetas empanadas se congelan en crudo: hornéalas directamente del congelador sumando 5 minutos."
 });
 
@@ -498,7 +498,7 @@ window.RECETAS_SEED.push({
   nombre: "Halloumi a la plancha con cuscús de hierbas, granada y pepino",
   subtitulo: "glaseado de miel y limón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "oriente-medio",
   contundencia: "media",
   coste: "premium",
@@ -533,7 +533,7 @@ window.RECETAS_SEED.push({
     "Reparte el cuscús en los platos, coloca el halloumi encima y termina con el resto de la granada. Cómelo enseguida: el halloumi se endurece al enfriarse."
   ],
   nutricion: { kcal: 645, prot: 27, hc: 58, grasa: 34 },
-  etiquetas: ["rápida", "alta en proteína", "verano", "ideal para llevar"],
+  etiquetas: ["rápida", "alta en proteína", "verano", "ideal para llevar", "poco especiada"],
   consejo: "No sales el halloumi: ya lo está. Y no te asustes si al principio parece gomoso en la plancha, al dorarse queda tierno por dentro."
 });
 
@@ -542,7 +542,7 @@ window.RECETAS_SEED.push({
   nombre: "Pizza bianca de patata, romero y mozzarella con masa casera",
   subtitulo: "sin tomate, con cebolla morada, parmesano y rúcula",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   contundencia: "contundente",
   coste: "media",
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
     "Termina con las hojas de la otra rama de romero, pimienta y un puñado de rúcula sobre cada pizza."
   ],
   nutricion: { kcal: 890, prot: 34, hc: 118, grasa: 31 },
-  etiquetas: ["al horno", "para niños", "masa casera", "fin de semana"],
+  etiquetas: ["al horno", "para niños", "masa casera", "fin de semana", "poco especiada"],
   consejo: "Con tiempo, baja la levadura a 2 g y deja la masa 24 horas en la nevera: gana sabor y se digiere mejor. Sácala una hora antes de estirarla."
 });
 
@@ -588,7 +588,7 @@ window.RECETAS_SEED.push({
   nombre: "Curry de huevos duros al estilo del sur de la India con arroz basmati",
   subtitulo: "salsa de tomate, especias y leche de coco",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "india",
   contundencia: "media",
   coste: "económica",
@@ -635,7 +635,7 @@ window.RECETAS_SEED.push({
   nombre: "Tarta tatin de tomates cherry y queso de cabra con rúcula",
   subtitulo: "caramelo de miel y balsámico, hojaldre dorado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   contundencia: "media",
   coste: "media",
@@ -669,7 +669,7 @@ window.RECETAS_SEED.push({
     "Reparte el resto del queso de cabra en trozos por encima y la rúcula aliñada con el aceite y sal. Sírvela templada, cortada en cuartos."
   ],
   nutricion: { kcal: 605, prot: 18, hc: 47, grasa: 39 },
-  etiquetas: ["al horno", "verano", "ideal para llevar"],
+  etiquetas: ["al horno", "verano", "ideal para llevar", "poco especiada"],
   consejo: "Si algún tomate se queda pegado a la sartén al volcar, recolócalo en su hueco: nadie lo notará. Templada, no hirviendo, es cuando el caramelo está en su punto."
 });
 
@@ -678,7 +678,7 @@ window.RECETAS_SEED.push({
   nombre: "Enchiladas de alubias negras y queso con salsa roja de chipotle",
   subtitulo: "con maíz, pimiento verde y crema de yogur a la lima",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "latinoamericana",
   contundencia: "contundente",
   coste: "económica",
@@ -725,7 +725,7 @@ window.RECETAS_SEED.push({
   nombre: "Okonomiyaki de col y cebolleta con mayonesa de sriracha",
   subtitulo: "tortita japonesa de verduras con salsa dulce de soja",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "asiática",
   contundencia: "ligera",
   coste: "económica",
@@ -762,7 +762,7 @@ window.RECETAS_SEED.push({
     "Pinta cada okonomiyaki con la salsa de soja y miel, dibuja hilos de mayonesa de sriracha, espolvorea el sésamo y la cebolleta verde y sirve caliente."
   ],
   nutricion: { kcal: 460, prot: 19, hc: 39, grasa: 25 },
-  etiquetas: ["rápida", "ligera", "económica", "una sola sartén"],
+  etiquetas: ["rápida", "ligera", "económica", "una sola sartén", "verduras escondidas"],
   consejo: "Que no supere los 2 cm de grosor: es lo que garantiza que la col quede hecha por dentro antes de que la base se queme."
 });
 
@@ -771,7 +771,7 @@ window.RECETAS_SEED.push({
   nombre: "Gratinado de coliflor y patata con salsa de queso y mostaza",
   subtitulo: "con puerro, tomillo y costra de pan rallado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   contundencia: "media",
   coste: "económica",
@@ -807,7 +807,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 640, prot: 28, hc: 66, grasa: 29 },
-  etiquetas: ["al horno", "para niños", "económica", "invierno"],
+  etiquetas: ["al horno", "para niños", "económica", "invierno", "poco especiada"],
   consejo: "Mete un puñado de espinacas frescas entre la verdura antes de napar: se hacen en el horno y aligeran el plato sin que nadie proteste."
 });
 
@@ -816,7 +816,7 @@ window.RECETAS_SEED.push({
   nombre: "Buñuelos de maíz y cebolleta al horno con salsa de yogur y lima",
   subtitulo: "con pimentón ahumado, cilantro y tomates cherry aliñados",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "americana",
   contundencia: "ligera",
   coste: "económica",
@@ -861,7 +861,7 @@ window.RECETAS_SEED.push({
   nombre: "Calabacines rellenos de arroz cremoso, tomate seco y mozzarella",
   subtitulo: "gratinados sobre salsa de tomate con albahaca",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   contundencia: "media",
   coste: "económica",
@@ -897,7 +897,7 @@ window.RECETAS_SEED.push({
     "Hornea 20 minutos, hasta que el queso esté dorado y el calabacín se pinche sin resistencia. Sirve con la salsa de tomate de la fuente por encima."
   ],
   nutricion: { kcal: 590, prot: 24, hc: 64, grasa: 26 },
-  etiquetas: ["al horno", "ideal para llevar", "para niños", "verano"],
+  etiquetas: ["al horno", "ideal para llevar", "para niños", "verano", "poco especiada"],
   consejo: "El mismo relleno sirve para pimientos o tomates grandes vaciados; ajusta el tiempo de horno a lo que tarde la verdura en ablandarse."
 });
 
@@ -906,7 +906,7 @@ window.RECETAS_SEED.push({
   nombre: "Kadhi de yogur y harina de garbanzo con pakoras de cebolla al horno",
   subtitulo: "crema india especiada con arroz basmati",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "sopas-cremas",
   cocina: "india",
   contundencia: "media",
   coste: "económica",
@@ -953,7 +953,7 @@ window.RECETAS_SEED.push({
   nombre: "Patatas asadas rellenas de espinacas y ricotta con parmesano",
   subtitulo: "con ralladura de limón, nuez moscada y tomate aliñado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   contundencia: "media",
   coste: "media",
@@ -988,7 +988,7 @@ window.RECETAS_SEED.push({
     "Sirve dos mitades por persona con el tomate aliñado al lado."
   ],
   nutricion: { kcal: 620, prot: 32, hc: 63, grasa: 26 },
-  etiquetas: ["al horno", "para niños", "batch cooking", "invierno"],
+  etiquetas: ["al horno", "para niños", "batch cooking", "invierno", "poco especiada"],
   consejo: "Asa las patatas la víspera si te viene mejor; al rellenarlas frías, el gratinado final necesitará 20-25 minutos para que el centro se caliente."
 });
 
@@ -997,7 +997,7 @@ window.RECETAS_SEED.push({
   nombre: "Tortillas francesas rellenas de escalivada y queso fresco",
   subtitulo: "berenjena, pimiento y cebolla asados con ajo y perejil",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   contundencia: "media",
   coste: "económica",
@@ -1030,7 +1030,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y sírvelo al lado."
   ],
   nutricion: { kcal: 620, prot: 33, hc: 35, grasa: 39 },
-  etiquetas: ["al horno", "batch cooking", "alta en proteína"],
+  etiquetas: ["al horno", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "La escalivada mejora de un día para otro: hazla en cantidad y tendrás esta cena resuelta en 10 minutos."
 });
 
@@ -1039,7 +1039,7 @@ window.RECETAS_SEED.push({
   nombre: "Burrata con tomates cherry asados, lentejas al limón y pesto de albahaca",
   subtitulo: "con piñones tostados, cebolla morada y pan tostado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "ensaladas",
   cocina: "mediterránea",
   contundencia: "media",
   coste: "premium",
@@ -1072,7 +1072,7 @@ window.RECETAS_SEED.push({
     "Riega con el pesto, termina con pimienta, las hojas de albahaca reservadas y un gajo del medio limón restante. Sirve con el pan tostado."
   ],
   nutricion: { kcal: 650, prot: 30, hc: 50, grasa: 36 },
-  etiquetas: ["rápida", "alta en proteína", "verano", "al horno"],
+  etiquetas: ["rápida", "alta en proteína", "verano", "al horno", "poco especiada"],
   consejo: "Saca la burrata de la nevera 30 minutos antes: fría pierde cremosidad y sabor. El calor de los tomates recién asados termina de atemperarla."
 });
 
@@ -1081,7 +1081,7 @@ window.RECETAS_SEED.push({
   nombre: "Bibimbap vegetariano con huevo frito, verduras salteadas y gochujang",
   subtitulo: "arroz coreano con espinacas, zanahoria, calabacín, champiñones y brotes de soja",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "asiática",
   contundencia: "contundente",
   coste: "económica",

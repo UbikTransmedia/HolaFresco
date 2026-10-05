@@ -44,7 +44,7 @@ window.RECETAS_SEED.push({
     "Termina con el perejil picado y un buen chorro de limón, y sirve enseguida."
   ],
   nutricion: { kcal: 575, prot: 40, hc: 40, grasa: 27 },
-  etiquetas: ["primavera", "creativa", "rápida", "alta en proteína", "una sola sartén", "sin gluten"],
+  etiquetas: ["primavera", "creativa", "rápida", "alta en proteína", "una sola sartén", "sin gluten", "superalimentos"],
   consejo: "No eches los chipirones húmedos ni todos de golpe: sueltan agua, la sartén se enfría y se cuecen en lugar de dorarse. Si no encuentras chipirones, sirven tiras de calamar o sepia. Los ajos tiernos están en su mejor momento de febrero a abril; fuera de temporada, usa la parte blanca de 2 cebolletas y 2 dientes de ajo laminados.",
   tupper: false,
   contundencia: "media",
@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     "Reparte los canónigos en los platos, pon encima las lentejas, los espárragos y los rabanitos, riega con el resto de la vinagreta y termina con las nueces."
   ],
   nutricion: { kcal: 465, prot: 22, hc: 42, grasa: 23 },
-  etiquetas: ["primavera", "creativa", "ligera", "vegana", "sin gluten", "ideal para llevar"],
+  etiquetas: ["primavera", "creativa", "ligera", "vegana", "sin gluten", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "En Francia esta ensalada se hace con lentejas verdes de Le Puy, que no se deshacen; las pardinas cocidas son la alternativa más parecida. Para llevar, guarda la vinagreta y los canónigos aparte y mézclalo todo al comer: aguanta 2 días en la nevera. Si quieres más proteína, añade un huevo mollet por persona.",
   tupper: true,
   contundencia: "ligera",
@@ -130,7 +130,7 @@ window.RECETAS_SEED.push({
     "Sirve la caballa con la piel hacia arriba sobre las habas, riega con la vinagreta de hierbabuena y acompaña con gajos del limón restante."
   ],
   nutricion: { kcal: 535, prot: 36, hc: 16, grasa: 36 },
-  etiquetas: ["primavera", "creativa", "rápida", "sin gluten", "alta en proteína", "una sola sartén"],
+  etiquetas: ["primavera", "creativa", "rápida", "sin gluten", "alta en proteína", "una sola sartén", "superalimentos", "poco especiada"],
   consejo: "La caballa del Cantábrico está en su mejor momento en primavera, durante la costera de marzo a mayo: es cuando más barata y más sabrosa se encuentra. Pide en la pescadería que te la abran en lomos y te quiten la espina central. Si las habas son grandes, escáldalas 1 minuto y pélalas: la piel de las habas maduras amarga.",
   tupper: false,
   contundencia: "media",
@@ -175,7 +175,7 @@ window.RECETAS_SEED.push({
     "Coloca encima los espárragos y los cuartos de huevo, espolvorea el resto del perejil, tapa 1 minuto para que se templen y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 385, prot: 37, hc: 13, grasa: 20 },
-  etiquetas: ["primavera", "tradicional", "ligera", "alta en proteína"],
+  etiquetas: ["primavera", "tradicional", "ligera", "alta en proteína", "poco especiada"],
   consejo: "«Koskera» viene de los koskeros, como se llamaba a los vecinos de la Parte Vieja de San Sebastián, donde se popularizó en los años treinta. Pon las almejas en agua fría con sal 30 minutos antes para que suelten la arena. Para hacerla sin gluten, sustituye la harina por media cucharadita de maicena.",
   tupper: false,
   contundencia: "ligera",
@@ -219,7 +219,7 @@ window.RECETAS_SEED.push({
     "Sirve los lomos con las verduras y su jugo, el resto del eneldo por encima y unas gotas del limón restante."
   ],
   nutricion: { kcal: 345, prot: 34, hc: 11, grasa: 18 },
-  etiquetas: ["primavera", "tradicional", "ligera", "sin gluten", "una sola sartén"],
+  etiquetas: ["primavera", "tradicional", "ligera", "sin gluten", "una sola sartén", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "«Buğulama» viene de «buğu», vapor en turco: en las casas de Estambul y del Egeo se hace así con dorada, lubina o salmonete. La clave es no destapar y no pasarse de agua: debe quedar un jugo corto que se moja con pan. Con lubina funciona igual.",
   tupper: false,
   contundencia: "ligera",
@@ -263,7 +263,7 @@ window.RECETAS_SEED.push({
     "Escurre los espárragos y las patatas y sírvelos con la lubina; napa los espárragos con la salsa maltesa y espolvorea el cebollino picado."
   ],
   nutricion: { kcal: 615, prot: 38, hc: 31, grasa: 38 },
-  etiquetas: ["primavera", "creativa", "sin gluten", "para invitados"],
+  etiquetas: ["primavera", "creativa", "sin gluten", "para invitados", "poco especiada"],
   consejo: "La salsa maltesa es una holandesa con zumo y piel de naranja sanguina, la pareja clásica del espárrago blanco en Francia; las sanguinas llegan hasta abril, después usa una naranja normal con unas gotas de limón. Si la salsa se corta, bate en otro bol una cucharada de agua caliente y ve añadiendo la salsa cortada poco a poco.",
   tupper: false,
   contundencia: "media",
@@ -307,7 +307,7 @@ window.RECETAS_SEED.push({
     "Saltea 30 o 40 segundos más, hasta que la cebolleta se ablande sin perder el verde y la salsa brille. Apaga, riega con el aceite de sésamo y sirve enseguida con el arroz."
   ],
   nutricion: { kcal: 625, prot: 35, hc: 64, grasa: 26 },
-  etiquetas: ["primavera", "tradicional", "rápida", "alta en proteína"],
+  etiquetas: ["primavera", "tradicional", "rápida", "alta en proteína", "poco especiada"],
   consejo: "Es uno de los salteados más populares de Pekín, de origen musulmán hui; allí se hace con la cebolleta gruesa del norte, que en España se parece mucho a la cebolleta tierna de primavera. Usa pierna de cordero recental o lechal; con lomo de ternera en láminas sale igual de bien. El fuego tiene que estar al máximo y el salteado no debe pasar de 3 minutos en total.",
   tupper: false,
   contundencia: "media",
@@ -353,7 +353,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con mucha salsa, las patatas partidas por la mitad y el resto del eneldo por encima."
   ],
   nutricion: { kcal: 550, prot: 39, hc: 44, grasa: 24 },
-  etiquetas: ["primavera", "tradicional", "alta en proteína", "batch cooking"],
+  etiquetas: ["primavera", "tradicional", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Es un guiso de diario en Polonia, sobre todo en primavera, cuando llegan el eneldo tierno y las patatas nuevas (młode ziemniaki). Se acompaña a menudo con mizeria, una ensalada de pepino con nata agria. Aguanta 3 días en la nevera: recaliéntalo a fuego suave sin que llegue a hervir y añade eneldo fresco al servir.",
   tupper: true,
   contundencia: "media",
@@ -398,7 +398,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos fuera del fuego antes de servir."
   ],
   nutricion: { kcal: 605, prot: 50, hc: 47, grasa: 24 },
-  etiquetas: ["primavera", "tradicional", "sin gluten", "alta en proteína", "batch cooking"],
+  etiquetas: ["primavera", "tradicional", "sin gluten", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "En Malta el conejo es plato de fiesta: en la «fenkata» la salsa se sirve primero con espaguetis y después el conejo con patatas y guisantes. Si te sobra salsa, úsala así al día siguiente. El guiso aguanta 3 días en la nevera y mejora de un día para otro.",
   tupper: true,
   contundencia: "media",
@@ -443,7 +443,7 @@ window.RECETAS_SEED.push({
     "Aliña los canónigos con el resto del aceite y una pizca de sal, y sirve encima las codornices con las cerezas y la salsa."
   ],
   nutricion: { kcal: 555, prot: 39, hc: 25, grasa: 33 },
-  etiquetas: ["primavera", "creativa", "sin gluten", "para invitados", "alta en proteína"],
+  etiquetas: ["primavera", "creativa", "sin gluten", "para invitados", "alta en proteína", "poco especiada"],
   consejo: "Las cerezas del Jerte y de Aragón llegan a mediados de mayo; un deshuesador de aceitunas sirve también para ellas. Pide en la pollería que te abran las codornices por la espalda: se hacen de forma más uniforme y se comen mejor. Fuera de temporada funcionan cerezas congeladas, añadidas sin descongelar.",
   tupper: false,
   contundencia: "media",
@@ -455,7 +455,7 @@ window.RECETAS_SEED.push({
   nombre: "Jiucai chao dan: huevos salteados con cebollino chino y arroz jazmín",
   subtitulo: "el revuelto chino de primavera, con huevo esponjoso y cebollino de ajo recién cortado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "asiática",
   momentos: ["cena", "comida"],
   proteina: "huevo",
@@ -484,7 +484,7 @@ window.RECETAS_SEED.push({
     "Devuelve los huevos, mezcla 20 segundos rompiéndolos en trozos grandes y termina con pimienta blanca. Sirve enseguida con el arroz y el pepino."
   ],
   nutricion: { kcal: 570, prot: 22, hc: 61, grasa: 27 },
-  etiquetas: ["primavera", "tradicional", "rápida", "económica", "sin gluten", "vegetariana"],
+  etiquetas: ["primavera", "tradicional", "rápida", "económica", "sin gluten", "vegetariana", "poco especiada"],
   consejo: "En el norte de China se dice que el cebollino de ajo (jiucai) del primer corte de primavera es el más tierno y aromático del año. No lo laves justo antes de saltearlo sin secarlo: el agua enfría el wok y lo deja lacio. Si usas cebollino normal, añádelo fuera del fuego, porque es mucho más delicado.",
   tupper: false,
   contundencia: "media",
@@ -496,7 +496,7 @@ window.RECETAS_SEED.push({
   nombre: "Torta pasqualina ligur de acelgas, ricotta y huevos enteros en masa filo",
   subtitulo: "la tarta salada de Pascua de Génova, con los huevos escondidos en el relleno",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -526,7 +526,7 @@ window.RECETAS_SEED.push({
     "Hornea 30 a 35 minutos, hasta que la masa esté dorada y crujiente. Deja reposar 10 minutos antes de cortar para que el relleno se asiente."
   ],
   nutricion: { kcal: 615, prot: 32, hc: 38, grasa: 37 },
-  etiquetas: ["primavera", "tradicional", "al horno", "vegetariana", "ideal para llevar"],
+  etiquetas: ["primavera", "tradicional", "al horno", "vegetariana", "ideal para llevar", "poco especiada"],
   consejo: "En Liguria se hace en Semana Santa y, según la tradición, con 33 capas de masa fina, una por cada año de Cristo; la masa filo es el atajo casero más fiel. El queso original es la prescinsêua, una cuajada ácida: mezclar la ricotta con 2 cucharadas de yogur natural se le parece mucho. Se come tibia o fría y aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -538,7 +538,7 @@ window.RECETAS_SEED.push({
   nombre: "Nargesi de espinacas: espinacas persas con cebolla dorada, cúrcuma y huevos cuajados",
   subtitulo: "el plato de los narcisos, con las yemas sobre el verde, yogur al ajo y pan",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "oriente-medio",
   momentos: ["cena", "comida"],
   proteina: "huevo",
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
     "Sirve en la misma sartén con el yogur al ajo por encima y el pan caliente para mojar."
   ],
   nutricion: { kcal: 560, prot: 28, hc: 50, grasa: 28 },
-  etiquetas: ["primavera", "tradicional", "rápida", "económica", "una sola sartén", "vegetariana"],
+  etiquetas: ["primavera", "tradicional", "rápida", "económica", "una sola sartén", "vegetariana", "poco especiada"],
   consejo: "«Nargesi» viene de narges, narciso en persa: el blanco y el amarillo de los huevos sobre las espinacas recuerdan a la flor. Lo importante es que las espinacas pierdan casi toda el agua antes de añadir los huevos; si no, quedan aguadas. Con espinacas congeladas, descongélalas y escúrrelas apretando bien.",
   tupper: false,
   contundencia: "media",
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
   nombre: "Espárragos trigueros esparragados a la cordobesa con majado de pan frito, comino y pimentón",
   subtitulo: "un guiso de cuchara andaluz en el que el majado espesa y perfuma el caldo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -609,7 +609,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 minutos para que el caldo se asiente y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 385, prot: 11, hc: 29, grasa: 25 },
-  etiquetas: ["primavera", "tradicional", "vegana", "ligera", "económica", "de cuchara"],
+  etiquetas: ["primavera", "tradicional", "vegana", "ligera", "económica", "de cuchara", "poco especiada", "bajo en colesterol"],
   consejo: "En Córdoba y Jaén se hacen en marzo y abril con espárragos trigueros silvestres, más finos y amargos; con los cultivados queda más suave. La versión de muchas casas cuaja un huevo por persona en el caldo al final: entonces deja de ser vegana, pero es un plato completo. Aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
@@ -621,7 +621,7 @@ window.RECETAS_SEED.push({
   nombre: "Louvi me lahana: alubias carillas con acelgas, limón y aceite a la chipriota",
   subtitulo: "legumbre tibia aliñada en caliente, con rabanitos, cebolleta y aceitunas para acompañar",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -651,7 +651,7 @@ window.RECETAS_SEED.push({
     "Sirve tibio con la cebolleta en aros, los rabanitos partidos, las aceitunas, el tomate en gajos y el medio limón restante en gajos."
   ],
   nutricion: { kcal: 545, prot: 22, hc: 58, grasa: 25 },
-  etiquetas: ["primavera", "tradicional", "vegana", "sin gluten", "económica", "ideal para llevar"],
+  etiquetas: ["primavera", "tradicional", "vegana", "sin gluten", "económica", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "En Chipre es plato de Cuaresma y de diario; según la época las acelgas se cambian por calabacín tierno. El aceite y el limón deben notarse: es lo que lo hace un plato y no una guarnición. Aguanta 3 días en la nevera; tómalo a temperatura ambiente y lleva los acompañamientos aparte.",
   tupper: true,
   contundencia: "media",
@@ -692,7 +692,7 @@ window.RECETAS_SEED.push({
     "Sirve con las patatas templadas partidas por la mitad y el resto del eneldo por encima."
   ],
   nutricion: { kcal: 370, prot: 16, hc: 35, grasa: 18 },
-  etiquetas: ["primavera", "tradicional", "ligera", "rápida", "sin gluten", "económica", "vegetariana"],
+  etiquetas: ["primavera", "tradicional", "ligera", "rápida", "sin gluten", "económica", "vegetariana", "poco especiada"],
   consejo: "En Rusia se llama «ensalada de primavera» porque se hace con las primeras verduras del año: rabanitos, pepinos y cebolleta. Hay versiones con lechuga o sin huevo, y en muchas casas se aliña con mitad de nata agria y mitad de aceite de girasol. Con yogur griego queda más ligera.",
   tupper: false,
   contundencia: "ligera",
@@ -734,7 +734,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida, con el pan tostado al lado."
   ],
   nutricion: { kcal: 575, prot: 22, hc: 46, grasa: 34 },
-  etiquetas: ["primavera", "creativa", "rápida", "vegetariana"],
+  etiquetas: ["primavera", "creativa", "rápida", "vegetariana", "poco especiada"],
   consejo: "Las cerezas más dulces combinan muy bien con un queso de cabra tierno y algo ácido; si son muy dulces, añade unas gotas de limón al aliño. Un deshuesador de aceitunas sirve para las cerezas. Para hacerla sin gluten, sustituye el pan por más almendras o por pan sin gluten.",
   tupper: false,
   contundencia: "media",
@@ -779,7 +779,7 @@ window.RECETAS_SEED.push({
     "Mezcla 3 cucharadas de arroz con el resto del azafrán. Sirve el arroz con el azafranado por encima y el tahdig roto en trozos, acompañado del pollo con su salsa y el yogur."
   ],
   nutricion: { kcal: 765, prot: 44, hc: 78, grasa: 31 },
-  etiquetas: ["primavera", "tradicional", "sin gluten", "alta en proteína", "para invitados"],
+  etiquetas: ["primavera", "tradicional", "sin gluten", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "En Irán el baghali polo se hace en primavera con habas frescas y eneldo recién cortado, y suele acompañar a la celebración del Nowruz. El paño en la tapa absorbe el vapor y es lo que deja el arroz suelto y el tahdig crujiente. Con jarrete de cordero es la otra versión clásica (baghali polo ba mahiche).",
   tupper: true,
   contundencia: "contundente",
@@ -822,7 +822,7 @@ window.RECETAS_SEED.push({
     "Sirve con las fresas reservadas en láminas, unas gotas de vinagre balsámico y bastante pimienta negra recién molida."
   ],
   nutricion: { kcal: 555, prot: 14, hc: 72, grasa: 23 },
-  etiquetas: ["primavera", "creativa", "vegetariana", "para invitados"],
+  etiquetas: ["primavera", "creativa", "vegetariana", "para invitados", "sin verduras", "poco especiada"],
   consejo: "El risotto alle fragole se puso de moda en Italia en los años ochenta y hoy es un clásico de primavera en Lombardía y el Véneto. Usa fresas firmes y no demasiado maduras, para que aporten acidez. La pimienta y el parmesano son los que equilibran el dulzor: no te quedes corto. Si el caldo es sin gluten, el plato también lo es.",
   tupper: false,
   contundencia: "media",
@@ -863,7 +863,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa con la cebolleta en aros finos por encima y el arroz en un cuenco aparte."
   ],
   nutricion: { kcal: 410, prot: 21, hc: 68, grasa: 6 },
-  etiquetas: ["primavera", "tradicional", "ligera"],
+  etiquetas: ["primavera", "tradicional", "ligera", "sin verduras", "poco especiada"],
   consejo: "En Japón la primavera es la temporada de las almejas asari, cuando muchas familias van a recogerlas a la playa con la marea baja (shiohigari). Las almejas sueltan tanto sabor que no hace falta dashi de bonito: basta un trozo de kombu. Las almejas japonesas, chirlas o almejas finas sirven por igual.",
   tupper: false,
   contundencia: "ligera",

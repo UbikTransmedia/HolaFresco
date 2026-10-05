@@ -47,7 +47,7 @@ window.RECETAS_SEED.push({
     "Retira el romero y el laurel y deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 740, prot: 42, hc: 44, grasa: 42 },
-  etiquetas: ["tradicional", "al horno", "alta en proteína", "batch cooking", "sin gluten", "invierno"],
+  etiquetas: ["tradicional", "al horno", "alta en proteína", "batch cooking", "sin gluten", "invierno", "poco especiada"],
   consejo: "El cerdo con garbanzos es comida de invierno en muchas casas griegas; tradicionalmente se hace en la gastra, un recipiente tapado de barro o de hierro que cuece a fuego lento y sin vigilancia. Si tienes prisa, usa 400 g de garbanzos cocidos de bote, enjuagados, y 250 ml de agua en lugar del caldo; añádelos al destapar la cazuela para que no se deshagan. Aguanta 3 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "contundente",
@@ -95,7 +95,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, retira el laurel, incorpora el perejil picado y el resto del aceite en crudo y deja reposar 10 minutos. Sirve templado, con unas gotas de limón si quieres."
   ],
   nutricion: { kcal: 600, prot: 24, hc: 63, grasa: 28 },
-  etiquetas: ["tradicional", "vegana", "de cuchara", "económica", "batch cooking", "sin gluten", "invierno"],
+  etiquetas: ["tradicional", "vegana", "de cuchara", "económica", "batch cooking", "sin gluten", "invierno", "superalimentos", "poco especiada"],
   consejo: "Los mavromatika (literalmente, «de ojo negro») guisados con espinacas son un clásico de cuaresma en la Grecia continental; se comen con pan, aceitunas y, fuera de los días de ayuno, un trozo de feta. Las alubias de ojo negro, también llamadas carillas, no necesitan remojo y se cuecen en menos de media hora; las encontrarás secas en supermercados grandes y en tiendas de productos latinos o africanos. Si usas espinacas congeladas (250 g), añádelas sin descongelar junto con el tomate. Aguanta 3 días en la nevera y está mejor al día siguiente.",
   tupper: true,
   contundencia: "media",
@@ -140,7 +140,7 @@ window.RECETAS_SEED.push({
     "Sírvelo con la cucharada de aceite restante en crudo y un chorrito de vinagre por encima, con las aceitunas al lado y, si quieres, el feta en dados."
   ],
   nutricion: { kcal: 600, prot: 20, hc: 76, grasa: 24 },
-  etiquetas: ["tradicional", "económica", "batch cooking", "ideal para llevar", "sin gluten", "invierno"],
+  etiquetas: ["tradicional", "económica", "batch cooking", "ideal para llevar", "sin gluten", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "El fakorizo es comida de diario en toda Grecia y uno de los platos fijos de los días de ayuno: lentejas y arroz guisados juntos con un sofrito de tomate, que se comen con aceitunas, encurtidos, pan y, fuera de la cuaresma, un trozo de feta. El vinagre del final no es un adorno: despierta las lentejas. Se conserva 3 días en la nevera; recaliéntalo con un chorrito de agua, porque el arroz sigue absorbiendo líquido.",
   tupper: true,
   contundencia: "media",
@@ -231,7 +231,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos fuera del fuego antes de servir: el cordero se asienta y la salsa espesa un poco más."
   ],
   nutricion: { kcal: 700, prot: 43, hc: 47, grasa: 37 },
-  etiquetas: ["tradicional", "alta en proteína", "sin gluten", "primavera"],
+  etiquetas: ["tradicional", "alta en proteína", "sin gluten", "primavera", "poco especiada"],
   consejo: "En Grecia el cordero con habas es plato de primavera, cuando llegan las primeras habas tiernas; muchas familias lo hacen también ligado con avgolemono en lugar de tomate. Con habas congeladas, mejor las pequeñas, sale igual de bien y puedes hacerlo todo el año. Si las habas son grandes, escáldalas 1 minuto y pélalas: quedan más finas. Se conserva 3 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -275,7 +275,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, retira el laurel, espolvorea el perejil picado y deja reposar 10 minutos: como todos los guisos de aceite griegos, está mejor templado que hirviendo."
   ],
   nutricion: { kcal: 620, prot: 18, hc: 56, grasa: 35 },
-  etiquetas: ["tradicional", "vegana", "económica", "batch cooking", "sin gluten", "verano"],
+  etiquetas: ["tradicional", "vegana", "económica", "batch cooking", "sin gluten", "verano", "poco especiada"],
   consejo: "Los guisos de legumbre con verdura y aceite son la base de la cocina de los monasterios del monte Athos, donde se ayuna buena parte del año; en sus recetarios la berenjena se fríe aparte y se coloca sobre los garbanzos para que termine de hacerse en la salsa sin deshacerse. Con garbanzos secos (150 g), déjalos en remojo 12 horas, cuécelos 1 hora antes de empezar y usa 200 ml de su caldo en lugar del agua. Si prefieres gastar menos aceite, asa la berenjena en el horno a 220 °C 20 minutos, pintada con 1 cucharada. Aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -316,7 +316,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego y riega con el resto del aceite en crudo, el zumo del medio limón y el resto de las hierbas. Deja reposar 10 minutos: como todos los guisos de aceite griegos, está mejor templado que hirviendo."
   ],
   nutricion: { kcal: 620, prot: 19, hc: 67, grasa: 32 },
-  etiquetas: ["tradicional", "vegana", "económica", "sin gluten", "batch cooking", "primavera"],
+  etiquetas: ["tradicional", "vegana", "económica", "sin gluten", "batch cooking", "primavera", "poco especiada"],
   consejo: "En Creta este guiso se hace con hinojo silvestre, del que se aprovechan los tallos tiernos y las hojas; el bulbo de hinojo cultivado, con unas semillas machacadas y eneldo, se le parece mucho. Con garbanzos cocidos de bote (400 g) se hace en 40 minutos: añádelos en el paso 4 con 200 ml de agua. Aguanta 4 días en la nevera y está aún mejor al día siguiente.",
   tupper: true,
   contundencia: "media",
@@ -357,7 +357,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, riega con el zumo del limón y el resto del aceite en crudo, espolvorea el eneldo restante y deja reposar 5 minutos tapado antes de servir."
   ],
   nutricion: { kcal: 645, prot: 18, hc: 70, grasa: 32 },
-  etiquetas: ["tradicional", "vegana", "de cuchara", "económica", "sin gluten", "primavera"],
+  etiquetas: ["tradicional", "vegana", "de cuchara", "económica", "sin gluten", "primavera", "sin verduras", "poco especiada"],
   consejo: "El revithorizo es uno de los guisos de cuaresma más sencillos de la cocina casera griega: garbanzos y arroz cocidos juntos sobre un sofrito de cebolla, con limón y eneldo al final y un buen chorro de aceite en crudo. Con garbanzos secos (150 g), ponlos en remojo 12 horas, cuécelos 1 hora y usa su caldo en lugar del agua: queda aún más sabroso. Aguanta 2 días en la nevera; como el arroz sigue absorbiendo líquido, recaliéntalo con un chorrito de agua y añade un poco más de limón.",
   tupper: true,
   contundencia: "media",
@@ -401,7 +401,7 @@ window.RECETAS_SEED.push({
     "Deja reposar al menos 10 minutos y sirve templado, con el feta en un trozo al lado de cada plato."
   ],
   nutricion: { kcal: 600, prot: 20, hc: 49, grasa: 35 },
-  etiquetas: ["tradicional", "vegetariana", "económica", "batch cooking", "sin gluten", "verano"],
+  etiquetas: ["tradicional", "vegetariana", "económica", "batch cooking", "sin gluten", "verano", "poco especiada"],
   consejo: "Los barbounofasoula son alubias borlotti, de vaina jaspeada de rojo, que en verano se venden frescas en los mercados griegos y se guisan como cualquier ladera, los guisos griegos de verdura en aceite: con mucho aceite, tomate y paciencia. Si encuentras alubias frescas en vaina (unos 700 g), desgránalas y cuécelas directamente en la salsa 40 minutos con 400 ml de agua, antes de añadir el calabacín. Aguanta 3 días en la nevera y está mejor al día siguiente.",
   tupper: true,
   contundencia: "media",
@@ -445,7 +445,7 @@ window.RECETAS_SEED.push({
     "Retira la canela, el laurel y los granos de pimienta, espolvorea el perejil picado y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 670, prot: 44, hc: 45, grasa: 33 },
-  etiquetas: ["tradicional", "alta en proteína", "batch cooking", "sin gluten", "invierno"],
+  etiquetas: ["tradicional", "alta en proteína", "batch cooking", "sin gluten", "invierno", "poco especiada"],
   consejo: "El pollo con garbanzos en salsa de tomate y canela es comida de diario en muchas casas griegas, de la familia de los kokkinista (guisos en rojo). La canela y la pimienta de Jamaica no lo vuelven dulce: redondean el tomate. Si no tienes pimienta de Jamaica, usa un clavo. Con garbanzos secos, ponlos en remojo la víspera y cuécelos aparte 1 hora antes de empezar. Aguanta 3 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "contundente",
@@ -534,7 +534,7 @@ window.RECETAS_SEED.push({
     "Monta los boles: lentejas en la base, el pollo encima, la ensalada de tomate, pepino y cebolla al lado y una buena cucharada de tzatziki."
   ],
   nutricion: { kcal: 565, prot: 48, hc: 38, grasa: 23 },
-  etiquetas: ["creativa", "alta en proteína", "ideal para llevar", "sin gluten", "verano"],
+  etiquetas: ["creativa", "alta en proteína", "ideal para llevar", "sin gluten", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Es el souvlaki de los puestos de Atenas convertido en plato de táper: las lentejas sustituyen a la pita y a las patatas fritas. Para llevar, guarda el tzatziki en un bote aparte y monta el bol al comer; el pollo y las lentejas aguantan 3 días en la nevera. Con contramuslos deshuesados queda aún más jugoso.",
   tupper: true,
   contundencia: "media",
@@ -577,7 +577,7 @@ window.RECETAS_SEED.push({
     "Calienta la otra cucharada de aceite con el pimentón en un cazo pequeño 20 segundos, sin que humee. Sirve la crema con el aceite de pimentón por encima, el eneldo picado y pimienta recién molida."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 48, grasa: 18 },
-  etiquetas: ["creativa", "ligera", "de cuchara", "económica", "sin gluten", "invierno"],
+  etiquetas: ["creativa", "ligera", "de cuchara", "económica", "sin gluten", "invierno", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "El avgolemono, la mezcla de huevo y limón, es la gran salsa de la cocina griega y espesa sopas sin nata; aquí se aplica a una crema de lentejas rojas. La regla de oro: no dejes que hierva después de añadir el huevo o se cortará. Aguanta 2 días en la nevera; recaliéntala a fuego muy suave, removiendo, sin que llegue a borbotear.",
   tupper: true,
   contundencia: "ligera",
@@ -618,7 +618,7 @@ window.RECETAS_SEED.push({
     "Reparte la rúcula en los platos, pon encima las habas y el halloumi recién hecho y termina con las hojas de menta restantes. Sirve enseguida: el halloumi se endurece al enfriarse."
   ],
   nutricion: { kcal: 555, prot: 31, hc: 30, grasa: 35 },
-  etiquetas: ["creativa", "rápida", "vegetariana", "alta en proteína", "sin gluten", "primavera"],
+  etiquetas: ["creativa", "rápida", "vegetariana", "alta en proteína", "sin gluten", "primavera", "poco especiada"],
   consejo: "El halloumi es el queso de Chipre por excelencia y allí se come a la plancha, con menta y limón; aquí acompaña a las habas de primavera. Se encuentra en la sección de quesos de los supermercados grandes; si no lo tienes, sirve el plato con feta desmigada, sin pasarla por la plancha. Las habas y los guisantes aliñados aguantan 2 días en la nevera, pero el queso hazlo siempre al momento.",
   tupper: false,
   contundencia: "media",
@@ -657,7 +657,7 @@ window.RECETAS_SEED.push({
     "Desmiga el feta por encima y sirve enseguida."
   ],
   nutricion: { kcal: 530, prot: 28, hc: 36, grasa: 29 },
-  etiquetas: ["creativa", "rápida", "una sola sartén", "económica", "sin gluten", "verano"],
+  etiquetas: ["creativa", "rápida", "una sola sartén", "económica", "sin gluten", "verano", "poco especiada"],
   consejo: "La strapatsada (kayianas en el Peloponeso) es el revuelto de huevo y tomate que en Grecia se hace en verano con tomates muy maduros. Las alubias lo convierten en cena completa y le dan una textura cremosa. Si los tomates no están en su punto, usa 300 g de tomate triturado de buena calidad y redúcelo 10 minutos. Los huevos revueltos no se recalientan bien: hazlo al momento.",
   tupper: false,
   contundencia: "media",
@@ -745,7 +745,7 @@ window.RECETAS_SEED.push({
     "Retira la canela, los clavos y el laurel, y deja reposar 15 minutos antes de servir. Si puedes, hazlo la víspera: el stifado mejora mucho de un día para otro."
   ],
   nutricion: { kcal: 730, prot: 47, hc: 62, grasa: 31 },
-  etiquetas: ["creativa", "para invitados", "batch cooking", "sin gluten", "invierno"],
+  etiquetas: ["creativa", "para invitados", "batch cooking", "sin gluten", "invierno", "poco especiada"],
   consejo: "El stifado es el guiso griego de cebollitas, vino tinto, vinagre y especias dulces que se hace con ternera, conejo o pulpo; los judiones, que en Grecia se llaman gigantes, absorben la salsa y lo convierten en plato completo. Para ahorrar tiempo, usa 400 g de judiones cocidos de bote y añádelos en el paso 5 con un vaso de agua. Se congela muy bien.",
   tupper: true,
   contundencia: "contundente",
@@ -789,7 +789,7 @@ window.RECETAS_SEED.push({
     "Rompe el feta con una cuchara para que se mezcle con las verduras, riega con el resto de la miel, esparce las hojas de la última rama de tomillo y exprime los ajos asados sobre la bandeja antes de servir."
   ],
   nutricion: { kcal: 640, prot: 25, hc: 64, grasa: 31 },
-  etiquetas: ["creativa", "al horno", "vegetariana", "batch cooking", "sin gluten", "otoño"],
+  etiquetas: ["creativa", "al horno", "vegetariana", "batch cooking", "sin gluten", "otoño", "poco especiada"],
   consejo: "La feta al horno con miel y sésamo es un meze muy popular en Grecia; aquí corona una bandeja completa de otoño. Puedes cambiar la calabaza por boniato con el mismo tiempo de horno. Las sobras, frías, con unas hojas de rúcula y un chorrito de limón, son una buena ensalada para el táper; aguantan 3 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -833,7 +833,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar para que el relleno se asiente. Está buena caliente, templada o fría."
   ],
   nutricion: { kcal: 750, prot: 30, hc: 72, grasa: 37 },
-  etiquetas: ["creativa", "al horno", "vegetariana", "ideal para llevar", "batch cooking", "otoño"],
+  etiquetas: ["creativa", "al horno", "vegetariana", "ideal para llevar", "batch cooking", "otoño", "poco especiada"],
   consejo: "En Epiro, la región griega de las pites, las empanadas de filo se rellenan con lo que da la temporada: puerros, hierbas, queso o trahanas. Las lentejas convierten la prasopita en plato único. La pasta filo se seca enseguida: mantén las láminas que no uses bajo un paño húmedo. Aguanta 3 días en la nevera; recaliéntala en el horno o en la airfryer, no en el microondas, para que no se ablande.",
   tupper: true,
   contundencia: "contundente",
@@ -877,7 +877,7 @@ window.RECETAS_SEED.push({
     "Sirve la ensalada en los platos con el bonito encima, regado con el ladolemono restante."
   ],
   nutricion: { kcal: 615, prot: 45, hc: 48, grasa: 27 },
-  etiquetas: ["creativa", "rápida", "alta en proteína", "sin gluten", "verano"],
+  etiquetas: ["creativa", "rápida", "alta en proteína", "sin gluten", "verano", "superalimentos", "poco especiada"],
   consejo: "La mavromatika salata, ensalada de alubias de ojo negro con hierbas, es un clásico de las mesas griegas, a veces con atún en conserva; aquí lleva bonito fresco apenas marcado, ideal de junio a septiembre. Si vas a dejarlo crudo por dentro, compra pescado que haya estado congelado o congélalo tú 5 días a -20 °C, por seguridad frente al anisakis; si lo prefieres hecho, márcalo 2 minutos por cara. Las alubias de ojo negro cocidas se venden en bote en tiendas latinas y en algunos supermercados; la ensalada sola aguanta 2 días en la nevera.",
   tupper: false,
   contundencia: "media",

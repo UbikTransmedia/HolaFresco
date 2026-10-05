@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
     "Esponja el cuscús con un tenedor, mézclalo con el perejil picado y sirve los escalopines con la salsa y los champiñones por encima."
   ],
   nutricion: { kcal: 585, prot: 44, hc: 55, grasa: 21 },
-  etiquetas: ["rápida", "15 minutos", "una sola sartén", "alta en proteína", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "una sola sartén", "alta en proteína", "tupper", "poco especiada"],
   consejo: "Desglasar (mojar la sartén caliente con un líquido y rascar el fondo) es la base de casi cualquier salsa rápida: funciona igual con vino blanco, sidra, caldo o zumo de naranja tras dorar carne, pescado o setas. Si no tienes Jerez, usa vino blanco seco con una cucharadita de vinagre de Jerez.",
   contundencia: "media",
   coste: "económica",
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Sirve las cotolettas con la ensalada por encima y gajos de limón para exprimir en la mesa."
   ],
   nutricion: { kcal: 680, prot: 40, hc: 29, grasa: 45 },
-  etiquetas: ["rápida", "15 minutos", "rebozado", "para niños", "alta en proteína"],
+  etiquetas: ["rápida", "15 minutos", "rebozado", "para niños", "alta en proteína", "poco especiada"],
   consejo: "Para empanar sin harina basta con huevo y pan rallado bien apretado; si añades queso duro rallado al pan, el rebozado gana sabor y dora antes. El mismo método sirve para pechuga de pollo, pavo o filetes de berenjena. Sala siempre lo frito al sacarlo, nunca antes de empanar.",
   contundencia: "contundente",
   coste: "económica",
@@ -219,7 +219,7 @@ window.RECETAS_SEED.push({
     "Monta: base de pan con salsa, la carne con su cebolla, pepinillos y la tapa. Sirve con la ensalada de col."
   ],
   nutricion: { kcal: 745, prot: 37, hc: 53, grasa: 43 },
-  etiquetas: ["rápida", "15 minutos", "para niños", "alta en proteína", "una sola sartén"],
+  etiquetas: ["rápida", "15 minutos", "para niños", "alta en proteína", "una sola sartén", "poco especiada"],
   consejo: "La clave de una buena costra es carne fría sobre metal muy caliente y no moverla: así se produce la reacción de Maillard, que dora y crea sabor. Sirve para cualquier carne picada y también para filetes: sécalos bien con papel antes de que toquen la sartén.",
   contundencia: "contundente",
   coste: "media",
@@ -268,7 +268,7 @@ window.RECETAS_SEED.push({
     "Aparta la sartén del fuego, añade el yogur y el cilantro picado y mezcla. El yogur, fuera del fuego, para que no se corte. Sirve con el pan."
   ],
   nutricion: { kcal: 625, prot: 43, hc: 61, grasa: 23 },
-  etiquetas: ["rápida", "15 minutos", "especiada", "alta en proteína", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "especiada", "alta en proteína", "tupper", "bajo en colesterol"],
   consejo: "El orden de las especias en un curry rápido es siempre el mismo: enteras en el aceite, luego aromáticos (cebolla, ajo, jengibre), después las molidas unos segundos y enseguida el líquido. Así ninguna se quema. Este kadai aguanta 3 días en la nevera; añade el yogur al recalentar, no antes.",
   contundencia: "media",
   coste: "económica",
@@ -312,7 +312,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmón con la piel hacia arriba para que siga crujiente, con los espárragos y las patatas."
   ],
   nutricion: { kcal: 710, prot: 38, hc: 54, grasa: 38 },
-  etiquetas: ["rápida", "15 minutos", "omega 3", "alta en proteína", "microondas"],
+  etiquetas: ["rápida", "15 minutos", "omega 3", "alta en proteína", "microondas", "poco especiada"],
   consejo: "Para saber el punto de cualquier pescado a la sartén, mira el lateral: el color pasa de translúcido a opaco de abajo arriba. Da la vuelta cuando haya subido dos tercios y retira poco después. Las patatas al microondas tapadas con un poco de agua sirven de guarnición exprés para cualquier plato.",
   contundencia: "contundente",
   coste: "premium",
@@ -353,7 +353,7 @@ window.RECETAS_SEED.push({
     "Reparte las patatas escurridas en los platos, coloca la merluza encima y cubre con la vinagreta templada."
   ],
   nutricion: { kcal: 465, prot: 32, hc: 32, grasa: 23 },
-  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "microondas"],
+  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "microondas", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "La vinagreta templada (verduras picadas calentadas un minuto en aceite y aliñadas con vinagre fuera del fuego) levanta cualquier pescado o carne a la plancha. El vinagre siempre fuera del fuego: si hierve, pierde su aroma y solo queda la acidez.",
   contundencia: "ligera",
   coste: "media",
@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
     "Sirve el bacalao con la costra hacia arriba sobre los guisantes, con el resto del perejil y gajos de limón."
   ],
   nutricion: { kcal: 425, prot: 38, hc: 34, grasa: 15 },
-  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "microondas"],
+  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "microondas", "poco especiada"],
   consejo: "Una capa fina de mostaza es el mejor pegamento para costras de pan rallado, frutos secos o hierbas: no necesitas huevo ni harina y la costra se dora en la sartén con muy poca grasa. Funciona igual con pechuga de pollo, salmón o merluza.",
   contundencia: "ligera",
   coste: "media",
@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
     "Sirve la lubina con la piel hacia arriba sobre el cuscús y la salsa alrededor, no por encima, para que la piel siga crujiente."
   ],
   nutricion: { kcal: 580, prot: 37, hc: 47, grasa: 27 },
-  etiquetas: ["rápida", "15 minutos", "para invitados", "alta en proteína"],
+  etiquetas: ["rápida", "15 minutos", "para invitados", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Montar una salsa con mantequilla fría fuera del fuego (una beurre blanc rápida) es una técnica que sirve para cualquier reducción: vino, cava, zumo de naranja o caldo. La regla: reducir primero, retirar del fuego y añadir la mantequilla muy fría poco a poco. Si se corta, añade una cucharada de agua fría y bate.",
   contundencia: "media",
   coste: "premium",
@@ -523,7 +523,7 @@ window.RECETAS_SEED.push({
     "Sirve las patatas escurridas con los chipirones encima, la ajada por encima de todo y los pimientos al lado."
   ],
   nutricion: { kcal: 425, prot: 36, hc: 32, grasa: 17 },
-  etiquetas: ["rápida", "15 minutos", "a la plancha", "ligera", "alta en proteína"],
+  etiquetas: ["rápida", "15 minutos", "a la plancha", "ligera", "alta en proteína", "poco especiada"],
   consejo: "Calamares, chipirones, sepia y pulpo tienen dos puntos tiernos: muy poco tiempo a fuego máximo (1-2 minutos) o mucho tiempo a fuego suave (40 minutos o más). Cualquier punto intermedio los deja gomosos. Para la plancha, sécalos siempre y no llenes la sartén.",
   contundencia: "ligera",
   coste: "media",
@@ -573,7 +573,7 @@ window.RECETAS_SEED.push({
     "Retira las especias enteras, esponja el arroz con un tenedor y sirve con el yogur y el cilantro picado."
   ],
   nutricion: { kcal: 595, prot: 33, hc: 71, grasa: 20 },
-  etiquetas: ["rápida", "15 minutos", "olla exprés", "una sola olla", "especiada", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "olla exprés", "una sola olla", "especiada", "tupper", "bajo en colesterol"],
   consejo: "Para cualquier arroz largo en olla exprés: lávalo, nacáralo en la grasa, usa 1,5-1,6 partes de líquido y 4 minutos de presión con liberación rápida. Sirve igual con verduras, garbanzos cocidos o gambas (estas, añadidas al abrir la olla). Recalienta con una cucharada de agua para que no se seque.",
   contundencia: "media",
   coste: "económica",
@@ -617,7 +617,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 1 minuto, espolvorea perejil picado y sirve en plato hondo."
   ],
   nutricion: { kcal: 465, prot: 33, hc: 49, grasa: 15 },
-  etiquetas: ["rápida", "15 minutos", "olla exprés", "de cuchara", "ligera", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "olla exprés", "de cuchara", "ligera", "tupper", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "En la olla exprés, el pescado no se cocina nunca a presión: se hace primero la base (patatas, arroz, legumbre) y el pescado o el marisco se añaden al abrir, con la olla destapada, 2-4 minutos según el grosor. Así no se deshace ni se seca. Al recalentarlo, hazlo a fuego suave sin hervir.",
   contundencia: "ligera",
   coste: "media",
@@ -629,7 +629,7 @@ window.RECETAS_SEED.push({
   nombre: "Fajitas de halloumi y pimientos con guacamole rápido",
   subtitulo: "queso a la plancha que no se funde, verduras tostadas a fuego vivo y tortillas calientes",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   momentos: ["comida"],
   proteina: "queso",
@@ -663,7 +663,7 @@ window.RECETAS_SEED.push({
     "Rellena las tortillas con las verduras, el halloumi recién hecho, guacamole y el resto del cilantro. Sirve en el momento: el halloumi frío se vuelve gomoso."
   ],
   nutricion: { kcal: 750, prot: 29, hc: 59, grasa: 44 },
-  etiquetas: ["rápida", "15 minutos", "vegetariana", "para compartir", "una sola sartén"],
+  etiquetas: ["rápida", "15 minutos", "vegetariana", "para compartir", "una sola sartén", "poco especiada"],
   consejo: "El halloumi aguanta el calor sin fundirse, así que es ideal para la plancha y las brochetas, pero se endurece al enfriarse: cocínalo siempre lo último y sírvelo enseguida. Las verduras de fajita se saltean a fuego vivo y removiendo poco para que se tuesten en vez de cocerse en su agua.",
   contundencia: "contundente",
   coste: "media",
@@ -675,7 +675,7 @@ window.RECETAS_SEED.push({
   nombre: "Gnocchi dorados a la sartén con champiñones, salvia y parmesano",
   subtitulo: "sin hervirlos: crujientes por fuera, tiernos por dentro y con mantequilla avellana",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -704,7 +704,7 @@ window.RECETAS_SEED.push({
     "Devuelve los gnocchi, salpimienta, mezcla y sirve con el parmesano y la salvia crujiente desmenuzada por encima."
   ],
   nutricion: { kcal: 530, prot: 18, hc: 69, grasa: 20 },
-  etiquetas: ["rápida", "15 minutos", "vegetariana", "una sola sartén", "para niños"],
+  etiquetas: ["rápida", "15 minutos", "vegetariana", "una sola sartén", "para niños", "poco especiada"],
   consejo: "La mantequilla noisette (calentada hasta que se tuesta y huele a avellana) es una salsa en sí misma: sirve para pasta rellena, pescado blanco, verduras al vapor o puré. Retírala en cuanto tome color de avellana, porque en segundos pasa a quemada. Los gnocchi de paquete siempre quedan mejor dorados en sartén que hervidos.",
   contundencia: "media",
   coste: "económica",
@@ -716,7 +716,7 @@ window.RECETAS_SEED.push({
   nombre: "Paneer bhurji exprés con guisantes, tomate y pan naan",
   subtitulo: "queso fresco indio desmigado y especiado, al estilo de un revuelto",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -762,7 +762,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu revuelto a la mexicana con alubias negras, pico de gallo y tortillas de maíz",
   subtitulo: "desayuno-comida vegano, dorado y especiado, con frijoles medio aplastados",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -796,7 +796,7 @@ window.RECETAS_SEED.push({
     "Sirve las tortillas con las alubias, el tofu revuelto, el pico de gallo, el resto del cilantro y gajos de lima."
   ],
   nutricion: { kcal: 560, prot: 31, hc: 57, grasa: 23 },
-  etiquetas: ["rápida", "15 minutos", "vegana", "alta en proteína", "económica"],
+  etiquetas: ["rápida", "15 minutos", "vegana", "alta en proteína", "económica", "bajo en colesterol"],
   consejo: "Para un buen tofu revuelto: escúrrelo bien, desmenúzalo a mano (queda más irregular que con tenedor), dóralo antes de añadir especias y sala al final. La cúrcuma da color y la sal kala namak, el sabor a huevo. Esta misma base admite espinacas, pimientos o champiñones.",
   contundencia: "media",
   coste: "económica",
@@ -808,7 +808,7 @@ window.RECETAS_SEED.push({
   nombre: "Curry verde exprés de garbanzos, calabacín y espinacas con fideos de arroz",
   subtitulo: "pasta de curry frita en la nata del coco para que suelte todo su aroma",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -883,7 +883,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y sirve las lentejas con el huevo encima y el pan para mojar en la yema."
   ],
   nutricion: { kcal: 690, prot: 38, hc: 67, grasa: 30 },
-  etiquetas: ["rápida", "15 minutos", "económica", "alta en proteína", "de aprovechamiento"],
+  etiquetas: ["rápida", "15 minutos", "económica", "alta en proteína", "de aprovechamiento", "poco especiada"],
   consejo: "La legumbre de bote no tiene por qué ir en guiso: enjuagada y bien escurrida, se saltea en 3 minutos como si fuera un arroz. Las lentejas se remueven con suavidad, de abajo arriba; los garbanzos y las alubias admiten más fuego y llegan a quedar crujientes. Un chorrito de vinagre al final equilibra la grasa del embutido.",
   contundencia: "contundente",
   coste: "económica",
@@ -972,7 +972,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo, añade la cebolleta y los brotes de soja, saltea 1 minuto y sirve."
   ],
   nutricion: { kcal: 690, prot: 42, hc: 83, grasa: 21 },
-  etiquetas: ["rápida", "15 minutos", "wok", "alta en proteína", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "wok", "alta en proteína", "tupper", "poco especiada", "bajo en colesterol"],
   consejo: "El secreto de un salteado de wok es no llenarlo: si echas demasiado, la temperatura cae y todo se cuece en su jugo. Cocina por tandas (proteína, verdura dura, fideos) y júntalo al final. Los fideos, siempre medio cocidos y enfriados, para que aguanten el salteado sin romperse.",
   contundencia: "contundente",
   coste: "económica",
@@ -1012,7 +1012,7 @@ window.RECETAS_SEED.push({
     "Sirve con el jamón crujiente por encima, pimienta recién molida y menta picada."
   ],
   nutricion: { kcal: 735, prot: 35, hc: 75, grasa: 33 },
-  etiquetas: ["rápida", "15 minutos", "para invitados", "para niños"],
+  etiquetas: ["rápida", "15 minutos", "para invitados", "para niños", "poco especiada"],
   consejo: "Guarda siempre un vaso del agua de cocción de la pasta: su almidón convierte mantequilla, aceite o queso en una salsa cremosa y ligada sin nata. Añádela poco a poco moviendo la sartén. Tostar jamón curado en sartén seca da un crujiente que sirve para cremas, ensaladas o huevos.",
   contundencia: "contundente",
   coste: "premium",
@@ -1055,7 +1055,7 @@ window.RECETAS_SEED.push({
     "Añade el pavo tibio al bol con su jugo, mezcla y sirve sobre la rúcula. Si es para llevar, guarda la rúcula aparte."
   ],
   nutricion: { kcal: 430, prot: 39, hc: 26, grasa: 19 },
-  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "tupper", "ideal para llevar"],
+  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "tupper", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Dos gestos que mejoran cualquier ensalada de legumbre o patata: aliñarla tibia, porque absorbe mucho más sabor, y dejar reposar la carne antes de cortarla para que no pierda su jugo. Para el tupper, las hojas verdes siempre aparte y se añaden al comer.",
   contundencia: "ligera",
   coste: "media",
@@ -1098,7 +1098,7 @@ window.RECETAS_SEED.push({
     "Retira el jengibre, añade el resto de la soja, el aceite de sésamo, la pimienta blanca y la cebolleta en aros, prueba de sal y sirve."
   ],
   nutricion: { kcal: 355, prot: 30, hc: 34, grasa: 11 },
-  etiquetas: ["rápida", "15 minutos", "ligera", "de cuchara", "para niños"],
+  etiquetas: ["rápida", "15 minutos", "ligera", "de cuchara", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Para espesar con maicena (sopas, salteados, salsas), disuélvela siempre antes en un poco de líquido frío y añádela con el líquido caliente en movimiento; en un minuto de hervor alcanza su máximo espesor. El huevo hilado funciona en cualquier caldo: con el fuego apagado y sin remover los primeros segundos.",
   contundencia: "ligera",
   coste: "económica",

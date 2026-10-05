@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, retira el laurel y deja reposar 10 minutos tapado antes de servir o de repartir en tuppers."
   ],
   nutricion: { kcal: 696, prot: 45, hc: 75, grasa: 24 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "invierno", "alta en proteína"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Al día siguiente están aún mejores. Guárdalas en tuppers de vidrio hasta 3 días en la nevera (o 3 meses congeladas) y recalienta en el microondas 3 minutos tapadas, con un chorrito de agua porque espesan. Para celíacos: usa caldo y pimentón con sello sin gluten y revisa las lentejas, que a veces traen granos de trigo o cebada sueltos.",
   tupper: true,
   contundencia: "contundente",
@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     "Prueba: debe quedar agridulce. Si está muy ácido, añade una pizca de azúcar. Sirve sobre el arroz con cilantro picado."
   ],
   nutricion: { kcal: 582, prot: 20, hc: 85, grasa: 18 },
-  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica"],
+  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica", "bajo en colesterol"],
   consejo: "Guarda el curry y el arroz en el mismo tupper pero en lados separados; aguanta 3 días en la nevera. Recalienta 2-3 minutos en el microondas con una cucharada de agua sobre el arroz para que no se reseque. Para celíacos: algunos garam masala y concentrados de tamarindo llevan harina como antiapelmazante; compra versiones con sello sin gluten.",
   tupper: true,
   contundencia: "media",
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Devuelve las gambas, apaga el fuego y deja reposar tapado 3 minutos. Prueba de sal y sirve con perejil picado."
   ],
   nutricion: { kcal: 414, prot: 32, hc: 40, grasa: 14 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "alta en proteína"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "alta en proteína", "poco especiada"],
   consejo: "Aguanta 2-3 días en la nevera. Si lo vas a llevar en tupper, añade las gambas al recalentar para que no queden gomosas: calienta el guiso a fuego suave o 2 minutos en el microondas y mételas en los últimos 30 segundos. Para celíacos: muchos caldos de pescado en brik y fumets llevan harina; elige uno con sello o hazlo casero.",
   tupper: true,
   contundencia: "ligera",
@@ -181,7 +181,7 @@ window.RECETAS_SEED.push({
     "Termina con el zumo de media lima y sirve con aguacate en láminas y gajos de lima."
   ],
   nutricion: { kcal: 682, prot: 42, hc: 70, grasa: 26 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "alta en proteína", "invierno"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Es de los guisos que mejoran al reposar: 3 días en la nevera o 3 meses en el congelador. Lleva el aguacate aparte y córtalo al comer. Recalienta 3 minutos en el microondas removiendo a mitad. Para celíacos: evita los sazonadores para chili en sobre, que suelen llevar harina, y usa especias sueltas certificadas.",
   tupper: true,
   contundencia: "contundente",
@@ -224,7 +224,7 @@ window.RECETAS_SEED.push({
     "Al servir, añade las espinacas y el feta desmenuzado por encima."
   ],
   nutricion: { kcal: 442, prot: 22, hc: 48, grasa: 18 },
-  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "fácil", "al horno"],
+  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "fácil", "al horno", "detox", "superalimentos", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera: guarda las espinacas y el feta en un recipiente aparte y mézclalos al comer para que no se ablanden. Sácala de la nevera 15 minutos antes o caliéntala 1 minuto en el microondas para tomarla templada. Para celíacos: revisa que la mostaza sea sin gluten (algunas llevan harina o vinagre de malta).",
   tupper: true,
   contundencia: "ligera",
@@ -267,7 +267,7 @@ window.RECETAS_SEED.push({
     "Apaga, espolvorea perejil picado y deja reposar 2 minutos antes de servir."
   ],
   nutricion: { kcal: 490, prot: 34, hc: 48, grasa: 18 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "de cuchara"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "de cuchara", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 2 días en la nevera. Para recalentar sin resecar el pescado, usa el microondas a potencia media 3 minutos tapado, o la cazuela a fuego suave. Si cocinas para varios días, deja el bacalao un minuto menos. Para celíacos: comprueba que los piquillos en conserva y el caldo no lleven espesantes con gluten.",
   tupper: true,
   contundencia: "media",
@@ -350,7 +350,7 @@ window.RECETAS_SEED.push({
     "Sirve la quinoa con el brócoli y el salmón desmigado en trozos grandes, con la salsa aparte."
   ],
   nutricion: { kcal: 570, prot: 38, hc: 46, grasa: 26 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "alta en proteína"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Aguanta 2 días en la nevera. El salmón está muy rico frío sobre la quinoa; si prefieres calentarlo, hazlo 1 minuto a potencia media para no secarlo y añade la salsa de yogur después, siempre en un botecito aparte. Para celíacos: la quinoa es naturalmente sin gluten, pero compra una con sello porque puede contaminarse en el envasado.",
   tupper: true,
   contundencia: "media",
@@ -395,7 +395,7 @@ window.RECETAS_SEED.push({
     "Mientras, cuece el arroz en agua con sal 15-18 minutos, escúrrelo y sírvelo junto a las albóndigas."
   ],
   nutricion: { kcal: 552, prot: 30, hc: 72, grasa: 16 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "para niños"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "para niños", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "Guarda las albóndigas cubiertas de salsa (así no se resecan) 3 días en la nevera, o congélalas hasta 2 meses. Recalienta 3 minutos en el microondas tapadas. Para celíacos: usa una tabla y una sartén limpias si en casa se rebozan cosas con harina de trigo, y comprueba el sello del pan rallado.",
   tupper: true,
   contundencia: "media",
@@ -437,7 +437,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade el bonito en lascas grandes y el perejil picado. Tapa y deja reposar 5 minutos para que el bonito se caliente sin secarse."
   ],
   nutricion: { kcal: 440, prot: 26, hc: 48, grasa: 16 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. Si lo preparas para varios días, guarda el bonito aparte y añádelo al recalentar (3 minutos en el microondas tapado con un chorrito de agua). Para celíacos: algunas conservas de bonito en salsa o escabeche llevan harina; elige al natural o en aceite y revisa el caldo.",
   tupper: true,
   contundencia: "ligera",
@@ -481,7 +481,7 @@ window.RECETAS_SEED.push({
     "Incorpora las aceitunas y cuece 5 minutos más destapado, hasta que la salsa espese y la patata esté tierna. Retira las ramas de tomillo y sirve."
   ],
   nutricion: { kcal: 544, prot: 34, hc: 30, grasa: 32 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera y se congela bien. Recalienta en el microondas 3 minutos tapado o en la cazuela con un chorrito de agua. Para celíacos: este plato no lleva harina; vigila solo que las aceitunas rellenas o aliñadas no lleven aditivos con gluten.",
   tupper: true,
   contundencia: "media",
@@ -529,7 +529,7 @@ window.RECETAS_SEED.push({
     "Disuelve la maicena en el zumo de naranja, viértela en el guiso y hierve 2 minutos removiendo, hasta que la salsa quede brillante y ligada. Retira la piel, el laurel y el tomillo."
   ],
   nutricion: { kcal: 678, prot: 48, hc: 45, grasa: 34 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno", "alta en proteína"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Como todos los estofados, gana de un día para otro: hasta 3 días en la nevera o 3 meses congelado. Recalienta a fuego suave con un poco de agua o 4 minutos en el microondas tapado. Para celíacos: no enharines la carne con harina de trigo; la maicena liga igual y deja la salsa más brillante.",
   tupper: true,
   contundencia: "contundente",
@@ -571,7 +571,7 @@ window.RECETAS_SEED.push({
     "Cuece el arroz en agua con sal 15-18 minutos, escúrrelo y sírvelo con las albóndigas y el resto de la albahaca."
   ],
   nutricion: { kcal: 600, prot: 36, hc: 78, grasa: 16 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "para niños", "económica"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "para niños", "económica", "poco especiada"],
   consejo: "Guárdalas sumergidas en la salsa 3 días en la nevera o congélalas hasta 3 meses (el arroz mejor recién hecho o congelado aparte). Recalienta 3 minutos en el microondas tapadas. Para celíacos: solo sirve la avena con sello sin gluten; la normal está contaminada con trigo.",
   tupper: true,
   contundencia: "media",
@@ -660,7 +660,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, retira el laurel y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 696, prot: 38, hc: 55, grasa: 36 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica", "invierno"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica", "invierno", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera; la salsa espesa al enfriar, añade una cucharada de agua al recalentar 3 minutos en el microondas. Para celíacos: es un plato naturalmente sin gluten, pero no lo acompañes de pan normal: usa pan sin gluten para mojar la salsa.",
   tupper: true,
   contundencia: "contundente",
@@ -672,7 +672,7 @@ window.RECETAS_SEED.push({
   nombre: "Lasaña sin gluten de espinacas, ricotta y calabaza asada",
   subtitulo: "con bechamel de maicena y mozzarella gratinada",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida"],
   proteina: "queso",
@@ -706,7 +706,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar para que las capas se asienten."
   ],
   nutricion: { kcal: 708, prot: 34, hc: 62, grasa: 36 },
-  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno"],
+  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno", "poco especiada"],
   consejo: "Córtala en porciones una vez fría y guárdalas 3 días en la nevera o congélalas envueltas hasta 2 meses. Recalienta 3-4 minutos en el microondas tapada, o 15 minutos en el horno a 180 °C con papel de aluminio. Para celíacos: comprueba que las placas tengan sello sin gluten y no uses la misma fuente o espátula sin lavar si en casa hacéis lasaña normal.",
   tupper: true,
   contundencia: "contundente",
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
   nombre: "Tortilla al horno de patata, pimiento rojo y queso manchego en porciones",
   subtitulo: "sin darle la vuelta, perfecta fría para llevar",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -746,7 +746,7 @@ window.RECETAS_SEED.push({
     "Deja templar 10 minutos y córtala en cuadrados."
   ],
   nutricion: { kcal: 442, prot: 22, hc: 30, grasa: 26 },
-  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "microondas", "fácil", "económica"],
+  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "microondas", "fácil", "económica", "poco especiada"],
   consejo: "Una vez fría, guárdala en porciones 3 días en la nevera. Está muy buena fría o a temperatura ambiente; si la prefieres caliente, 40 segundos de microondas bastan para que no se reseque. Para celíacos: llévala con pan sin gluten o con una ensalada, y revisa que el queso rallado de bolsa no lleve almidones con gluten.",
   tupper: true,
   contundencia: "ligera",
@@ -758,7 +758,7 @@ window.RECETAS_SEED.push({
   nombre: "Calabacines rellenos de quinoa, tomate y feta al horno",
   subtitulo: "con orégano y piñones tostados",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -787,7 +787,7 @@ window.RECETAS_SEED.push({
     "Rellena las barquitas, reparte el resto del feta y los piñones y hornea 15 minutos, hasta que el queso se dore."
   ],
   nutricion: { kcal: 494, prot: 22, hc: 52, grasa: 22 },
-  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil"],
+  etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "poco especiada"],
   consejo: "Aguantan 3 días en la nevera en un tupper con tapa. Recalienta 2 minutos en el microondas o 10 minutos en el horno a 180 °C si quieres que el queso vuelva a dorarse. Para celíacos: la quinoa debe llevar sello sin gluten porque se procesa a menudo junto a cereales con gluten.",
   tupper: true,
   contundencia: "media",
@@ -799,7 +799,7 @@ window.RECETAS_SEED.push({
   nombre: "Curry de lentejas rojas con boniato, kale y leche de coco",
   subtitulo: "con arroz basmati y lima",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -832,7 +832,7 @@ window.RECETAS_SEED.push({
     "Sirve el curry con el arroz y gajos de lima."
   ],
   nutricion: { kcal: 578, prot: 22, hc: 82, grasa: 18 },
-  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica"],
+  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica", "superalimentos"],
   consejo: "Aguanta 4 días en la nevera y 3 meses congelado. Las lentejas rojas espesan mucho al enfriar: añade 2-3 cucharadas de agua antes de recalentar 3 minutos en el microondas. Para celíacos: algunos curris en polvo llevan harina como relleno; usa uno certificado sin gluten.",
   tupper: true,
   contundencia: "media",
@@ -844,7 +844,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu firme estofado con tamari, jengibre, zanahoria y champiñones con arroz integral",
   subtitulo: "salsa brillante ligada con maicena",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -876,7 +876,7 @@ window.RECETAS_SEED.push({
     "Termina con el aceite de sésamo, la parte verde de la cebolleta picada y el sésamo. Sirve sobre el arroz."
   ],
   nutricion: { kcal: 448, prot: 24, hc: 52, grasa: 16 },
-  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína"],
+  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El tofu absorbe la salsa en la nevera y está aún más sabroso al día siguiente; aguanta 3 días. Recalienta 2 minutos en el microondas con una cucharada de agua. Para celíacos: usa tamari con sello sin gluten (no todos lo son) y nunca salsa de soja normal, que lleva trigo.",
   tupper: true,
   contundencia: "ligera",
@@ -918,7 +918,7 @@ window.RECETAS_SEED.push({
     "Mezcla el arroz frío con las verduras, el maíz, el atún desmigado y la vinagreta. Reparte el huevo por encima."
   ],
   nutricion: { kcal: 446, prot: 28, hc: 52, grasa: 14 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "económica", "verano", "sin horno"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "económica", "verano", "sin horno", "poco especiada"],
   consejo: "Aguanta 2-3 días en la nevera; guarda los huevos enteros con cáscara y córtalos el mismo día. Sácala de la nevera 10 minutos antes para que el arroz no esté duro. Para celíacos: revisa que el maíz y el atún en conserva no lleven aditivos con gluten.",
   tupper: true,
   contundencia: "ligera",
@@ -962,7 +962,7 @@ window.RECETAS_SEED.push({
     "Junta la quinoa con las verduras, las hierbas y el aliño, y pon el pollo encima."
   ],
   nutricion: { kcal: 534, prot: 36, hc: 48, grasa: 22 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "verano"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. Lleva el aliño en un botecito aparte si vas a tardar más de un día en comerla, y añade las hierbas frescas el mismo día. Se toma fría o con el pollo templado 40 segundos en el microondas. Para celíacos: es una buena alternativa al tabulé, que lleva bulgur de trigo.",
   tupper: true,
   contundencia: "media",
@@ -1005,7 +1005,7 @@ window.RECETAS_SEED.push({
     "Mezcla la pasta con la boloñesa en una fuente, reparte la mozzarella en trozos y el parmesano y gratina 10 minutos, hasta que el queso burbujee y se dore."
   ],
   nutricion: { kcal: 772, prot: 40, hc: 90, grasa: 28 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "para niños"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "para niños", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera o 2 meses congelado en raciones. La pasta sin gluten absorbe mucha salsa: añade 2 cucharadas de agua o tomate antes de recalentar 3 minutos en el microondas tapada. Para celíacos: cuece la pasta en agua limpia y con un escurridor que no se use para pasta de trigo.",
   tupper: true,
   contundencia: "contundente",
@@ -1051,7 +1051,7 @@ window.RECETAS_SEED.push({
     "Esponja con un tenedor y sirve con cilantro picado y gajos de lima."
   ],
   nutricion: { kcal: 608, prot: 36, hc: 80, grasa: 16 },
-  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica"],
+  etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Enfría el arroz rápido (extiéndelo en una fuente) antes de guardarlo y consúmelo en 2-3 días. Recalienta 2-3 minutos en el microondas con una cucharada de agua y tapado, hasta que humee. Para celíacos: compra la pasta de achiote con sello, algunas llevan harina, y revisa también el caldo.",
   tupper: true,
   contundencia: "media",
@@ -1094,7 +1094,7 @@ window.RECETAS_SEED.push({
     "Calienta el resto del aceite con el pimentón 20 segundos, sin que humee, y riega cada plato. Espolvorea la menta seca y sirve con gajos de limón para exprimir."
   ],
   nutricion: { kcal: 362, prot: 18, hc: 50, grasa: 10 },
-  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "ligera"],
+  etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "ligera", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y 3 meses en el congelador. Espesa mucho al enfriar: añade un chorro de agua al recalentar 3 minutos en el microondas, removiendo a mitad. Lleva el aceite de pimentón y el limón aparte. Para celíacos: es una crema naturalmente sin gluten; acompáñala de pan sin gluten tostado si quieres mojar.",
   tupper: true,
   contundencia: "ligera",

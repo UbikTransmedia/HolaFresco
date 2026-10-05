@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Escurre las verduras y repártelas en los platos. Coloca encima las láminas de tataki en abanico, riega con el ponzu y termina con la cebolleta."
   ],
   nutricion: { kcal: 420, prot: 38, hc: 10, grasa: 26 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "casi sin cocción"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "casi sin cocción", "poco especiada"],
   consejo: "Si te da respeto la carne cruda, marca cada cara 90 segundos: quedará rosada en el centro. Para cortarla limpia, mete la pieza 10 min en el congelador después de marcarla.",
   contundencia: "ligera",
   coste: "premium"
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Monta: base del pan con mayonesa de mostaza, lechuga, hamburguesa, manzana y cebolla doradas y un buen montón de col lombarda escurrida. Tapa y sirve con el resto de la col al lado."
   ],
   nutricion: { kcal: 720, prot: 38, hc: 52, grasa: 40 },
-  etiquetas: ["económica", "para niños", "contundente", "una sola sartén"],
+  etiquetas: ["económica", "para niños", "contundente", "una sola sartén", "poco especiada"],
   consejo: "La manzana rallada mantiene la hamburguesa jugosa aunque el cerdo esté bien hecho. Puedes dejar las hamburguesas formadas en la nevera por la mañana.",
   contundencia: "contundente",
   coste: "económica"
@@ -129,7 +129,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con el resto del eneldo picado por encima y pimienta recién molida."
   ],
   nutricion: { kcal: 590, prot: 42, hc: 40, grasa: 28 },
-  etiquetas: ["de cuchara", "mediterránea", "para niños", "invierno"],
+  etiquetas: ["de cuchara", "mediterránea", "para niños", "invierno", "poco especiada"],
   consejo: "La clave de la salsa es templar el huevo despacio: si lo echas de golpe al caldo hirviendo se corta. Sobra bien para el día siguiente, recalentado muy suave.",
   contundencia: "media",
   coste: "media"
@@ -175,7 +175,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré de boniato en la base, las carrilladas encima y salsea generosamente."
   ],
   nutricion: { kcal: 780, prot: 48, hc: 62, grasa: 36 },
-  etiquetas: ["braseado", "al horno", "invierno", "batch cooking", "contundente", "para invitados"],
+  etiquetas: ["braseado", "al horno", "invierno", "batch cooking", "contundente", "para invitados", "verduras escondidas", "poco especiada"],
   consejo: "Está aún mejor hecha de víspera: la salsa gelatiniza y la carne se corta mejor. Recalienta a fuego muy suave con un chorrito de agua.",
   contundencia: "contundente",
   coste: "premium"
@@ -218,7 +218,7 @@ window.RECETAS_SEED.push({
     "Sirve las espinacas con las avellanas por encima, los filetes de lomo al lado y la salsa de mostaza napándolos."
   ],
   nutricion: { kcal: 440, prot: 40, hc: 14, grasa: 26 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "una sola sartén"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "una sola sartén", "poco especiada"],
   consejo: "El lomo se seca enseguida: con 1,5 cm de grosor, 2-3 min por lado y un reposo tapado de 3 min es suficiente para que quede jugoso.",
   contundencia: "ligera",
   coste: "económica"
@@ -262,7 +262,7 @@ window.RECETAS_SEED.push({
     "Corta el secreto en tiras al bies de 1 cm, muele pimienta por encima y sírvelo con la escalivada al lado y una buena cucharada de romesco."
   ],
   nutricion: { kcal: 710, prot: 42, hc: 24, grasa: 50 },
-  etiquetas: ["al horno", "a la plancha", "para invitados", "contundente", "verano"],
+  etiquetas: ["al horno", "a la plancha", "para invitados", "contundente", "verano", "poco especiada"],
   consejo: "El romesco sobrante aguanta 4 días en la nevera y va de lujo con pescado o verduras a la brasa. El secreto no necesita aceite: su propia grasa lo fríe.",
   contundencia: "contundente",
   coste: "premium"
@@ -355,7 +355,7 @@ window.RECETAS_SEED.push({
     "Retira el hilo, corta el solomillo en medallones de 2 cm y sírvelos con las judías, la reducción por encima y la rama de tomillo restante."
   ],
   nutricion: { kcal: 590, prot: 55, hc: 24, grasa: 30 },
-  etiquetas: ["al horno", "para invitados", "alta en proteína", "agridulce"],
+  etiquetas: ["al horno", "para invitados", "alta en proteína", "agridulce", "poco especiada"],
   consejo: "Deja la pieza rellena y atada en la nevera hasta 24 h antes: solo tendrás que sellarla y hornearla. Un termómetro de cocina evita que el solomillo se pase.",
   contundencia: "media",
   coste: "media"
@@ -442,7 +442,7 @@ window.RECETAS_SEED.push({
     "Corta el lomo en lonchas de 1 cm y sírvelo con las verduras asadas y la salsa por encima."
   ],
   nutricion: { kcal: 580, prot: 48, hc: 48, grasa: 22 },
-  etiquetas: ["al horno", "económica", "batch cooking", "para niños", "domingo"],
+  etiquetas: ["al horno", "económica", "batch cooking", "para niños", "domingo", "poco especiada"],
   consejo: "El reposo tapado es imprescindible: el lomo redistribuye los jugos y no se seca. Las lonchas frías del día siguiente son un bocadillo excelente.",
   contundencia: "media",
   coste: "económica"
@@ -575,7 +575,7 @@ window.RECETAS_SEED.push({
     "Sirve con el calabacín a la plancha y las hojas de albahaca rotas por encima."
   ],
   nutricion: { kcal: 440, prot: 38, hc: 14, grasa: 26 },
-  etiquetas: ["rápida", "ligera", "económica", "una sola sartén"],
+  etiquetas: ["rápida", "ligera", "económica", "una sola sartén", "poco especiada"],
   consejo: "Con un buen pan para mojar se convierte en una comida más completa. Si el tomate está ácido, una pizca de azúcar lo arregla.",
   contundencia: "ligera",
   coste: "económica"
@@ -672,7 +672,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 min antes de cortarlo en rodajas gruesas. Sirve con el boniato y los canónigos aliñados con unas gotas de aceite y sal."
   ],
   nutricion: { kcal: 690, prot: 42, hc: 58, grasa: 32 },
-  etiquetas: ["al horno", "económica", "para niños", "batch cooking", "ideal para llevar"],
+  etiquetas: ["al horno", "económica", "para niños", "batch cooking", "ideal para llevar", "verduras escondidas", "poco especiada"],
   consejo: "El pan remojado en leche es lo que mantiene el pastel tierno aunque esté bien cocido. Las rodajas frías en sándwich al día siguiente son un clásico.",
   contundencia: "contundente",
   coste: "económica"
@@ -756,7 +756,7 @@ window.RECETAS_SEED.push({
     "Coloca los medallones junto a la rúcula, los higos encima y riega con la salsa de balsámico y los jugos que haya soltado la carne."
   ],
   nutricion: { kcal: 470, prot: 42, hc: 22, grasa: 24 },
-  etiquetas: ["rápida", "ligera", "agridulce", "verano", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "agridulce", "verano", "alta en proteína", "poco especiada"],
   consejo: "Fuera de temporada de higos, sustitúyelos por 2 ciruelas o media pera en gajos: la salsa funciona igual de bien.",
   contundencia: "ligera",
   coste: "media"
@@ -897,7 +897,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con las setas, la presa encima, el sésamo, unas gotas de lima y gajos de lima aparte."
   ],
   nutricion: { kcal: 760, prot: 45, hc: 65, grasa: 36 },
-  etiquetas: ["a la plancha", "marinado", "para invitados", "contundente", "umami"],
+  etiquetas: ["a la plancha", "marinado", "para invitados", "contundente", "umami", "poco especiada"],
   consejo: "La presa ibérica se sirve rosada, como un buen filete de ternera: bien hecha pierde toda su gracia. Si la marinas la víspera, el sabor a miso llega hasta el centro.",
   contundencia: "contundente",
   coste: "premium"
@@ -986,7 +986,7 @@ window.RECETAS_SEED.push({
     "Mezcla el cebollino picado con la ensalada de patata y sírvela con los schnitzel y gajos de limón para exprimir encima."
   ],
   nutricion: { kcal: 800, prot: 48, hc: 72, grasa: 36 },
-  etiquetas: ["frito", "económica", "para niños", "contundente", "clásico"],
+  etiquetas: ["frito", "económica", "para niños", "contundente", "clásico", "poco especiada"],
   consejo: "El movimiento de la sartén al freír hace que el aceite caliente pase entre el filete y el rebozado y lo levante: es el secreto del schnitzel ondulado de Viena.",
   contundencia: "contundente",
   coste: "económica"
@@ -1033,7 +1033,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y las ramas de tomillo y sirve bien caliente con el perejil picado."
   ],
   nutricion: { kcal: 710, prot: 55, hc: 50, grasa: 32 },
-  etiquetas: ["de cuchara", "cocción lenta", "económica", "invierno", "batch cooking"],
+  etiquetas: ["de cuchara", "cocción lenta", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Si te sobra sidra de la botella, bébela con el plato: es el maridaje natural. El estofado mejora recalentado al día siguiente a fuego suave.",
   contundencia: "contundente",
   coste: "económica"
@@ -1118,7 +1118,7 @@ window.RECETAS_SEED.push({
     "Salpimienta la carne, riégala con la vinagreta y cúbrela con la rúcula, las lascas de parmesano sacadas con un pelador y las alcaparras fritas. Sirve con el pan y gajos del medio limón restante."
   ],
   nutricion: { kcal: 440, prot: 36, hc: 20, grasa: 24 },
-  etiquetas: ["sin cocción", "rápida", "ligera", "verano", "para invitados"],
+  etiquetas: ["sin cocción", "rápida", "ligera", "verano", "para invitados", "poco especiada"],
   consejo: "Pide al carnicero que te corte el solomillo en la máquina lo más fino posible y ganarás 10 minutos. Monta el plato justo antes de servir: el limón 'cocina' la carne si espera.",
   contundencia: "ligera",
   coste: "premium"

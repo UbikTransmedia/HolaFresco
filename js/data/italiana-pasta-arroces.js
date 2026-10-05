@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, tapa y deja reposar 2 minutos antes de servir."
   ],
   nutricion: { kcal: 670, prot: 25, hc: 85, grasa: 25 },
-  etiquetas: ["tradicional", "invierno", "otoño", "económica"],
+  etiquetas: ["tradicional", "invierno", "otoño", "económica", "sin verduras", "poco especiada"],
   consejo: "La panissa es el plato de los arrozales de Vercelli, en el Piamonte; en la vecina Novara se hace la paniscia, que añade col, zanahoria y apio. El embutido original es el salam d'la duja, un salami tierno que se conserva en grasa dentro de una vasija de barro: un salchichón curado poco especiado es el sustituto más cercano. Si sobra, al día siguiente aplástala en una sartén con un poco de aceite y dórala por los dos lados como una torta crujiente.",
   tupper: true,
   contundencia: "contundente",
@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
     "Cuando el grano esté al dente y la textura sea fluida, all'onda (se mueve como una ola al sacudir la cazuela), apaga el fuego. Añade la mantequilla fría y el perejil picado y remueve con energía 1 minuto para mantecar. Prueba de sal y pimienta, tapa y deja reposar 2 minutos antes de servir."
   ],
   nutricion: { kcal: 620, prot: 36, hc: 69, grasa: 22 },
-  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "para invitados"],
+  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "para invitados", "sin verduras", "poco especiada"],
   consejo: "En Venecia este arroz nunca lleva queso: la cremosidad la dan el almidón del grano y la mantequilla fría. La sepia congelada funciona muy bien (incluso queda más tierna), pero suele venir sin bolsas de tinta: los sobres se venden en pescaderías y supermercados. La tinta mancha la madera y la ropa, así que trabaja con delantal y lava los utensilios enseguida.",
   tupper: false,
   contundencia: "media",
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Mezcla 1-2 minutos a fuego suave, añade el perejil picado y sirve con el parmesano rallado y pimienta negra."
   ],
   nutricion: { kcal: 715, prot: 29, hc: 92, grasa: 25 },
-  etiquetas: ["tradicional", "invierno", "económica", "pasta fresca", "aprovechamiento"],
+  etiquetas: ["tradicional", "invierno", "económica", "pasta fresca", "aprovechamiento", "poco especiada"],
   consejo: "Es el plato emblema de Piacenza, en el extremo occidental de Emilia-Romaña: pisarei son los bocaditos de masa y fasö, las alubias en dialecto. Nació para aprovechar el pan duro, que da a la masa una textura firme y rústica. Si quieres adelantar, forma los pisarei, extiéndelos en una bandeja enharinada y congélalos; se cuecen sin descongelar, con un par de minutos más.",
   tupper: true,
   contundencia: "contundente",
@@ -183,7 +183,7 @@ window.RECETAS_SEED.push({
     "Cuece las pappardelle en agua con sal 1 minuto menos de lo que indique el paquete, escúrrelas reservando un vaso del agua de cocción y saltéalas 1 minuto en la cazuela del ragú con un chorrito de esa agua, hasta que la salsa se adhiera. Sirve con parmesano rallado si te apetece."
   ],
   nutricion: { kcal: 710, prot: 50, hc: 74, grasa: 23 },
-  etiquetas: ["tradicional", "invierno", "otoño", "batch cooking", "alta en proteína"],
+  etiquetas: ["tradicional", "invierno", "otoño", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "El ragú de jabalí es el gran plato de caza de la Maremma y del Chianti, y casi siempre se sirve con pappardelle, cintas anchas que sujetan bien la carne. En España el jabalí se encuentra en carnicerías de caza de octubre a febrero; si lo cambias por carrillada o paleta de cerdo, basta con 1 hora de marinada. Haz el doble: el ragú mejora al día siguiente y se congela hasta 3 meses.",
   tupper: true,
   contundencia: "contundente",
@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade la mitad del parmesano, mezcla y sirve con el resto del queso y pimienta negra recién molida."
   ],
   nutricion: { kcal: 830, prot: 51, hc: 96, grasa: 27 },
-  etiquetas: ["tradicional", "invierno", "batch cooking", "alta en proteína"],
+  etiquetas: ["tradicional", "invierno", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "Pese al nombre, la genovese es napolitana y no tiene nada que ver con el pesto: la tradición la atribuye a los cocineros genoveses que tenían fondas en el puerto de Nápoles. En las casas se guisa un trozo grande de carne que luego se come de segundo plato; aquí va desmenuzada en la salsa para que sea plato único. Se congela muy bien, así que merece la pena hacer el doble.",
   tupper: true,
   contundencia: "contundente",
@@ -313,7 +313,7 @@ window.RECETAS_SEED.push({
     "Retira los ajos y las guindillas y sirve enseguida, directamente de la sartén, con las partes más tostadas por encima."
   ],
   nutricion: { kcal: 595, prot: 13, hc: 71, grasa: 29 },
-  etiquetas: ["tradicional", "picante", "económica", "vegana", "una sola sartén"],
+  etiquetas: ["tradicional", "picante", "económica", "vegana", "una sola sartén", "sin verduras"],
   consejo: "Nació en una trattoria de Bari en los años sesenta y hoy es un clásico de la ciudad; el nombre, «a la asesina», se debe al picante y a su punto quemado. Usa una sartén de hierro o de acero: en una antiadherente la pasta no se tuesta. La gracia está en las partes negras y crujientes, pero controla el fuego para que se tuesten sin amargar.",
   tupper: false,
   contundencia: "media",
@@ -392,7 +392,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con las láminas de bottarga por encima."
   ],
   nutricion: { kcal: 545, prot: 19, hc: 60, grasa: 25 },
-  etiquetas: ["tradicional", "rápida", "sin lácteos", "para invitados"],
+  etiquetas: ["tradicional", "rápida", "sin lácteos", "para invitados", "sin verduras"],
   consejo: "La bottarga de mújol de Cabras, junto a Oristano, es el orgullo de Cerdeña: huevas saladas y secadas al aire que se rallan como un queso. En España se elabora hueva de mújol y de atún en las salazones de Murcia y Andalucía, y cualquiera de ellas sirve. Guárdala envasada al vacío o bien envuelta en la nevera, y no la cocines nunca: el calor la vuelve granulosa y amarga.",
   tupper: false,
   contundencia: "media",
@@ -429,7 +429,7 @@ window.RECETAS_SEED.push({
     "En la mesa, rompe las yemas y mézclalas con la pasta: harán de salsa cremosa, como una carbonara campesina."
   ],
   nutricion: { kcal: 620, prot: 28, hc: 59, grasa: 30 },
-  etiquetas: ["tradicional", "rápida", "económica"],
+  etiquetas: ["tradicional", "rápida", "económica", "sin verduras", "poco especiada"],
   consejo: "Es un plato de la cocina pobre de Campania y Basilicata, de cuando la carne era un lujo y los huevos del corral hacían de proteína. Algunas familias lucanas añaden migas de pan duro tostadas en el mismo aceite, y en Nápoles hay quien cambia el pecorino por parmesano, más suave. Fríe los huevos a fuego medio: con el aceite humeando, la clara se quema y se pone correosa antes de que la yema se temple.",
   tupper: false,
   contundencia: "media",
@@ -474,7 +474,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, incorpora la rúcula, que se ablandará con el calor, y sirve con el resto del parmesano en lascas y pimienta negra."
   ],
   nutricion: { kcal: 610, prot: 40, hc: 67, grasa: 20 },
-  etiquetas: ["creativa", "alta en proteína", "otoño", "económica"],
+  etiquetas: ["creativa", "alta en proteína", "otoño", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Para cocinar basta un vinagre balsámico de Módena corriente: al reducirse con la cebolla se vuelve dulce y espeso. El tradicional, envejecido durante años, guárdalo para unas gotas en crudo sobre el parmesano. Con pechuga en lugar de muslo, dórala solo 4-5 minutos para que no se seque. Aguanta bien un par de días en la nevera; añade la rúcula al recalentar.",
   tupper: true,
   contundencia: "media",
@@ -517,7 +517,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del parmesano y hojas de albahaca."
   ],
   nutricion: { kcal: 640, prot: 44, hc: 67, grasa: 22 },
-  etiquetas: ["creativa", "para niños", "batch cooking", "alta en proteína"],
+  etiquetas: ["creativa", "para niños", "batch cooking", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Las albondiguitas diminutas son muy del sur de Italia, de las pallottine de Teramo a la pasta al horno napolitana. La ricotta las mantiene tiernas aunque el pavo sea magro, y cocerlas crudas en la salsa evita freírlas y les da todo el sabor del tomate. Puedes formarlas con antelación y congelarlas en una bandeja; se echan a la salsa sin descongelar, con 5 minutos más de cocción.",
   tupper: true,
   contundencia: "media",
@@ -560,7 +560,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar en porciones: así se asienta y no se desmorona."
   ],
   nutricion: { kcal: 680, prot: 27, hc: 69, grasa: 32 },
-  etiquetas: ["creativa", "al horno", "vegetariana", "batch cooking", "sin gluten", "verano"],
+  etiquetas: ["creativa", "al horno", "vegetariana", "batch cooking", "sin gluten", "verano", "poco especiada"],
   consejo: "Une dos clásicos del sur: la parmigiana de berenjena y el sartù, el timbal de arroz napolitano. El arroz se cuece solo a medias en la salsa porque termina en el horno; si lo cueces del todo, quedará pastoso. Puedes montarlo la víspera y hornearlo al día siguiente (añade 5-10 minutos), y las porciones se congelan bien.",
   tupper: true,
   contundencia: "contundente",
@@ -604,7 +604,7 @@ window.RECETAS_SEED.push({
     "Mezcla con las verduras asadas y sirve templado o frío, con el resto del salmoriglio por encima."
   ],
   nutricion: { kcal: 460, prot: 17, hc: 61, grasa: 15 },
-  etiquetas: ["creativa", "vegana", "económica", "ligera", "ideal para llevar", "batch cooking"],
+  etiquetas: ["creativa", "vegana", "económica", "ligera", "ideal para llevar", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El salmoriglio es el aliño siciliano y calabrés de limón, orégano, ajo y aceite con el que se riega el pez espada a la brasa; aquí despierta un bol de cereal y legumbre. Las lentejas pequeñas de Castelluccio o de Ustica son las más italianas, pero las pardinas se comportan igual. Aguanta 3 días en la nevera: guarda el salmoriglio aparte y añádelo al servir, con un puñado de rúcula si quieres.",
   tupper: true,
   contundencia: "ligera",
@@ -648,7 +648,7 @@ window.RECETAS_SEED.push({
     "Sirve cada paquete en un plato y ábrelo en la mesa con unas tijeras; termina con el perejil picado, la ralladura de limón y el resto del aceite."
   ],
   nutricion: { kcal: 540, prot: 29, hc: 63, grasa: 19 },
-  etiquetas: ["creativa", "al horno", "sin lácteos", "para invitados"],
+  etiquetas: ["creativa", "al horno", "sin lácteos", "para invitados", "poco especiada", "bajo en colesterol"],
   consejo: "Los spaghetti al cartoccio son un clásico de las trattorie de la costa, casi siempre con marisco: el paquete atrapa el vapor y la pasta termina de cocerse en el jugo del pescado y del tomate. Usa papel de horno y no aluminio, que reacciona con la acidez del tomate. Funciona igual con bacalao fresco, rape o unas gambas, y puedes dejar los paquetes montados en la nevera hasta 1 hora antes de hornearlos.",
   tupper: false,
   contundencia: "media",
@@ -688,7 +688,7 @@ window.RECETAS_SEED.push({
     "Incorpora la mitad del guanciale y sirve enseguida con el resto por encima y el pecorino restante."
   ],
   nutricion: { kcal: 670, prot: 22, hc: 64, grasa: 35 },
-  etiquetas: ["creativa", "sin gluten", "invierno", "para invitados"],
+  etiquetas: ["creativa", "sin gluten", "invierno", "para invitados", "sin verduras", "poco especiada"],
   consejo: "Es un guiño de las trattorie romanas modernas: la carbonara llevada al arroz. La clave es la misma que en la pasta: la crema de yemas y pecorino se añade fuera del fuego, para que el calor residual la espese sin cuajarla. El guanciale (papada de cerdo curada) se vende en tiendas italianas y en muchos supermercados; la panceta curada es el mejor sustituto. Las claras sobrantes aguantan 3 días en la nevera para una tortilla o unos merengues.",
   tupper: false,
   contundencia: "contundente",
@@ -730,7 +730,7 @@ window.RECETAS_SEED.push({
     "Reparte la mozzarella por encima, tapa la sartén y deja 2-3 minutos a fuego mínimo, hasta que se funda. Sirve con hojas de albahaca."
   ],
   nutricion: { kcal: 640, prot: 46, hc: 64, grasa: 21 },
-  etiquetas: ["creativa", "rápida", "alta en proteína", "para niños"],
+  etiquetas: ["creativa", "rápida", "alta en proteína", "para niños", "sin verduras", "poco especiada"],
   consejo: "La carne alla pizzaiola es un segundo plato napolitano: filetes cocidos en salsa de tomate con ajo y orégano, los sabores de la pizza. Cortada en tiras y sellada solo un minuto se mantiene jugosa, y la salsa se termina con la pasta dentro. Si a los niños no les gustan las alcaparras, cámbialas por aceitunas negras o quítalas.",
   tupper: true,
   contundencia: "media",
@@ -770,7 +770,7 @@ window.RECETAS_SEED.push({
     "Sirve con las almendras reservadas picadas y el resto de la albahaca en hojas."
   ],
   nutricion: { kcal: 585, prot: 16, hc: 69, grasa: 27 },
-  etiquetas: ["creativa", "rápida", "vegana", "económica", "ideal para llevar"],
+  etiquetas: ["creativa", "rápida", "vegana", "económica", "ideal para llevar", "verduras escondidas", "poco especiada"],
   consejo: "Recuerda a los pestos rojos del sur de Italia, de Calabria a Sicilia, donde el pimiento y la almendra se usan en crudo. Con pimientos asados en conserva es una cena de 20 minutos; si los asas en casa, guarda su jugo y añádelo al triturar. El pesto aguanta 4 días en la nevera y la pasta está muy buena fría, para llevar. Si no buscas un plato vegano, unas cucharadas de ricotta o de burrata encima le quedan de maravilla.",
   tupper: true,
   contundencia: "media",
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
     "Monta en platos calientes: una cucharada de crema, una placa, setas con castañas y otra cucharada de crema; repite dos veces y termina con una placa, crema, el resto del parmesano, la salvia crujiente y pimienta negra."
   ],
   nutricion: { kcal: 640, prot: 26, hc: 71, grasa: 27 },
-  etiquetas: ["creativa", "otoño", "vegetariana", "para invitados"],
+  etiquetas: ["creativa", "otoño", "vegetariana", "para invitados", "poco especiada"],
   consejo: "La lasaña abierta es un recurso de las trattorie modernas: los sabores de una lasaña de horno, montados en el plato en 40 minutos. Las castañas y las setas son el otoño de los Apeninos, de Emilia a Toscana. Si solo encuentras champiñones, añade 10 g de boletus secos hidratados en agua caliente (y su agua, colada, a las setas). Monta los platos en el último momento para que las placas no se sequen.",
   tupper: false,
   contundencia: "media",

@@ -82,7 +82,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo a la cazuela, añade un chorrito de zumo de limón y sirve muy caliente, con más parmesano y el pan tostado al lado."
   ],
   nutricion: { kcal: 360, prot: 40, hc: 14, grasa: 16 },
-  etiquetas: ["rápida", "de cuchara", "ligera", "alta en proteína", "para niños", "económica"],
+  etiquetas: ["rápida", "de cuchara", "ligera", "alta en proteína", "para niños", "económica", "poco especiada"],
   consejo: "Si usas caldo de brick, elige uno bajo en sal: el parmesano ya aporta mucha. Con las sobras de un pollo asado la tienes lista en 10 minutos.",
   contundencia: "ligera",
   coste: "económica"
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
     "Reparte fideos y caldo en dos boles grandes. Coloca encima el tofu glaseado, el wakame, el huevo partido por la mitad, la cebolleta en aros finos, unas gotas de aceite de sésamo y el sésamo."
   ],
   nutricion: { kcal: 544, prot: 28, hc: 72, grasa: 16 },
-  etiquetas: ["rápida", "de cuchara", "vegetariana", "invierno"],
+  etiquetas: ["rápida", "de cuchara", "vegetariana", "invierno", "poco especiada"],
   consejo: "Si no encuentras mirin, sustitúyelo por la misma cantidad de vino blanco con media cucharadita extra de azúcar.",
   contundencia: "media",
   coste: "media"
@@ -262,7 +262,7 @@ window.RECETAS_SEED.push({
     "Sirve con los ajos dorados y perejil picado por encima."
   ],
   nutricion: { kcal: 382, prot: 26, hc: 38, grasa: 14 },
-  etiquetas: ["de cuchara", "ligera", "invierno", "una sola cazuela"],
+  etiquetas: ["de cuchara", "ligera", "invierno", "una sola cazuela", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Chascar la patata en lugar de cortarla limpia es el truco para que el caldo quede ligeramente espeso sin añadir harina.",
   contundencia: "ligera",
   coste: "media"
@@ -308,7 +308,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa con unas hojas de albahaca y los sándwiches al lado para mojar."
   ],
   nutricion: { kcal: 694, prot: 22, hc: 66, grasa: 38 },
-  etiquetas: ["al horno", "para niños", "invierno", "vegetariana"],
+  etiquetas: ["al horno", "para niños", "invierno", "vegetariana", "poco especiada"],
   consejo: "Fuera de temporada de tomate, usa dos latas de tomate pera entero bien escurridas y ásalas igual: el horno les devuelve dulzor.",
   contundencia: "contundente",
   coste: "económica"
@@ -348,7 +348,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con un huevo mollet en el centro de cada plato, las puntas salteadas y el jamón desmenuzado por encima. Rompe el huevo al comer para que la yema enriquezca la crema."
   ],
   nutricion: { kcal: 374, prot: 22, hc: 22, grasa: 22 },
-  etiquetas: ["ligera", "primavera", "para invitados"],
+  etiquetas: ["ligera", "primavera", "para invitados", "poco especiada"],
   consejo: "Si quieres un verde más vivo, añade un puñado de espinacas frescas justo antes de triturar.",
   contundencia: "ligera",
   coste: "media"
@@ -436,7 +436,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa, riega con la mantequilla aromática, espolvorea el resto del perejil y acompaña con un gajo de limón."
   ],
   nutricion: { kcal: 548, prot: 32, hc: 42, grasa: 28 },
-  etiquetas: ["de cuchara", "invierno", "para invitados"],
+  etiquetas: ["de cuchara", "invierno", "para invitados", "sin verduras"],
   consejo: "La clave es no dejar hervir la sopa después de añadir el yogur: si borbotea, se corta y queda granulosa.",
   contundencia: "media",
   coste: "media"
@@ -627,7 +627,7 @@ window.RECETAS_SEED.push({
     "Sirve en boles con el huevo partido por la mitad, los hilos de jengibre, la cebolleta picada, el ajo crujiente, los cacahuetes y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 454, prot: 36, hc: 46, grasa: 14 },
-  etiquetas: ["de cuchara", "ligera", "reconfortante", "invierno", "económica"],
+  etiquetas: ["de cuchara", "ligera", "reconfortante", "invierno", "económica", "sin verduras", "poco especiada"],
   consejo: "Si congelas el arroz lavado y escurrido antes de cocerlo, los granos se rompen antes y ahorras 20 minutos de cocción.",
   contundencia: "ligera",
   coste: "económica"
@@ -674,7 +674,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el vinagre y la nata y remueve. Sirve con perejil picado y, si quieres, pan de centeno."
   ],
   nutricion: { kcal: 686, prot: 46, hc: 58, grasa: 30 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
   consejo: "Si tienes poco tiempo, usa alubias pintas cocidas de bote (400 g) y añádelas con las verduras en el paso 4.",
   contundencia: "contundente",
   coste: "económica"
@@ -721,7 +721,7 @@ window.RECETAS_SEED.push({
     "Sirve el borsch muy caliente con una cucharada de yogur al eneldo, el resto del eneldo por encima y el pan de centeno al lado."
   ],
   nutricion: { kcal: 514, prot: 36, hc: 52, grasa: 18 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "poco especiada"],
   consejo: "Como todos los guisos, el borsch está mejor al día siguiente; se congela muy bien sin el yogur.",
   contundencia: "media",
   coste: "media"
@@ -764,7 +764,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa muy fría con los huevos duros en cuartos, el resto de hierbas y el pan tostado al lado."
   ],
   nutricion: { kcal: 391, prot: 24, hc: 40, grasa: 15 },
-  etiquetas: ["rápida", "verano", "sin horno", "ligera", "económica", "vegetariana"],
+  etiquetas: ["rápida", "verano", "sin horno", "ligera", "económica", "vegetariana", "poco especiada"],
   consejo: "Si tienes kéfir, úsalo en lugar de la leche y parte del yogur: es como se hace en Polonia y le da un punto ácido estupendo.",
   contundencia: "ligera",
   coste: "económica"
@@ -808,7 +808,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal (el jamón y las almejas ya salan), apaga y sirve con el huevo picado y abundante perejil por encima."
   ],
   nutricion: { kcal: 501, prot: 40, hc: 38, grasa: 21 },
-  etiquetas: ["de cuchara", "alta en proteína", "para invitados", "una sola cazuela"],
+  etiquetas: ["de cuchara", "alta en proteína", "para invitados", "una sola cazuela", "poco especiada"],
   consejo: "Su nombre viene de que, con el caldo ya hecho, se tiene lista en un cuarto de hora. Tener caldo de pescado casero congelado marca la diferencia.",
   contundencia: "media",
   coste: "premium"
@@ -854,7 +854,7 @@ window.RECETAS_SEED.push({
     "Sirve el sancocho en platos hondos con el arroz aparte, el aguacate en gajos, gajos de lima y el resto del cilantro, como se hace en Colombia."
   ],
   nutricion: { kcal: 794, prot: 44, hc: 96, grasa: 26 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
   consejo: "Si no encuentras plátano macho, usa un boniato pequeño: no es lo mismo, pero aporta el dulzor y la textura que espesan el caldo.",
   contundencia: "contundente",
   coste: "económica"
@@ -942,7 +942,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema en platos hondos, coloca encima el salmón en lascas grandes y termina con sésamo y cebolleta en aros finos."
   ],
   nutricion: { kcal: 602, prot: 32, hc: 60, grasa: 26 },
-  etiquetas: ["al horno", "para invitados", "invierno", "sin gluten si usas tamari"],
+  etiquetas: ["al horno", "para invitados", "invierno", "sin gluten si usas tamari", "superalimentos", "poco especiada"],
   consejo: "No hiervas la crema después de añadir el miso: pierde aroma. Si la recalientas, hazlo a fuego suave.",
   contundencia: "media",
   coste: "premium"
@@ -985,7 +985,7 @@ window.RECETAS_SEED.push({
     "Sirve en boles con la parte verde de la cebolleta en aros y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 330, prot: 38, hc: 22, grasa: 10 },
-  etiquetas: ["ligera", "alta en proteína", "batch cooking", "invierno"],
+  etiquetas: ["ligera", "alta en proteína", "batch cooking", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Las albóndigas crudas se congelan muy bien en bandeja: tenlas listas y la cena sale en 15 minutos.",
   contundencia: "ligera",
   coste: "económica"
@@ -1027,7 +1027,7 @@ window.RECETAS_SEED.push({
     "Mientras, tuesta el pan. Sirve la sopa con el feta desmigado, un hilo del aceite restante y el pan al lado."
   ],
   nutricion: { kcal: 538, prot: 22, hc: 54, grasa: 26 },
-  etiquetas: ["rápida", "vegetariana", "de cuchara", "económica", "una sola cazuela"],
+  etiquetas: ["rápida", "vegetariana", "de cuchara", "económica", "una sola cazuela", "sin verduras", "poco especiada"],
   consejo: "Si tienes tiempo y garbanzos secos, la versión tradicional se hornea en cazuela de barro 3 horas: el aceite y el limón se funden en un caldo meloso.",
   contundencia: "media",
   coste: "económica"
@@ -1069,7 +1069,7 @@ window.RECETAS_SEED.push({
     "Coloca en cada cuenco un huevo abierto por la mitad, el atún escurrido en lascas y las alcaparras. Termina con un hilo del aceite restante, una pizca de comino y un buen chorro de limón. Mezcla todo al comer para que la yema ligue el caldo."
   ],
   nutricion: { kcal: 574, prot: 34, hc: 60, grasa: 22 },
-  etiquetas: ["rápida", "de cuchara", "picante", "económica", "aprovechamiento"],
+  etiquetas: ["rápida", "de cuchara", "picante", "económica", "aprovechamiento", "sin verduras"],
   consejo: "Es el desayuno callejero de Túnez: cuanto más duro sea el pan, mejor absorbe el caldo sin deshacerse.",
   contundencia: "media",
   coste: "económica"
@@ -1115,7 +1115,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el pollo en tiras y los picatostes por encima."
   ],
   nutricion: { kcal: 624, prot: 46, hc: 38, grasa: 32 },
-  etiquetas: ["para niños", "alta en proteína", "invierno"],
+  etiquetas: ["para niños", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Añade el queso siempre fuera del fuego: si hierve, el cheddar se separa y la crema queda granulosa.",
   contundencia: "media",
   coste: "media"

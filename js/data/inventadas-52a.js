@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con el huevo duro picado por encima y el resto de la hierbabuena."
   ],
   nutricion: { kcal: 410, prot: 12, hc: 50, grasa: 18 },
-  etiquetas: ["aprovechamiento", "de cuchara", "ligera", "verano", "económica", "tradicional"],
+  etiquetas: ["aprovechamiento", "de cuchara", "ligera", "verano", "económica", "tradicional", "poco especiada"],
   consejo: "El arroz cocido es la sobra más delicada: enfríalo extendido en una bandeja y mételo en la nevera antes de una hora, en recipiente cerrado; aguanta 1-2 días como máximo y siempre recalentado hasta que humee. Si vas a guardar esta sopa, hazlo sin el huevo ni la hierbabuena y añádelos al servir. Truco reutilizable: cualquier arroz o pasta sobrante se añade a una sopa al final y solo para calentar.",
   tupper: true,
   contundencia: "ligera",
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuenco con cuidado de no romper el huevo y con un poco de perejil picado por encima."
   ],
   nutricion: { kcal: 430, prot: 21, hc: 30, grasa: 25 },
-  etiquetas: ["aprovechamiento", "de cuchara", "invierno", "tradicional", "económica", "rápida"],
+  etiquetas: ["aprovechamiento", "de cuchara", "invierno", "tradicional", "económica", "rápida", "sin verduras", "poco especiada"],
   consejo: "El pan duro aguanta semanas si lo dejas secar del todo cortado en rebanadas, en una bolsa de tela o de papel (nunca en plástico, que crea moho). Si se te acumula, congélalo en rebanadas y úsalo directamente en sopas, migas o pan rallado. Recuerda la regla del pimentón, que vale para cualquier sofrito: siempre fuera del fuego y unos segundos.",
   tupper: false,
   contundencia: "ligera",
@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
     "Sirve con la lechuga en tiras y el tomate en gajos aliñados con aceite y sal."
   ],
   nutricion: { kcal: 850, prot: 42, hc: 70, grasa: 45 },
-  etiquetas: ["aprovechamiento", "tradicional", "frito", "para niños", "congelable"],
+  etiquetas: ["aprovechamiento", "tradicional", "frito", "para niños", "congelable", "poco especiada"],
   consejo: "La carne del cocido aguanta 3 días en la nevera separada del caldo, y el caldo otros 3 (o 3 meses congelado). Las croquetas se congelan perfectas ya empanadas y en crudo, separadas en una bandeja y luego en bolsa: se fríen sin descongelar a fuego un poco más bajo. La regla de la bechamel para croquetas es 60 g de harina y 60 g de grasa por cada medio litro de leche: sirve para cualquier relleno.",
   tupper: false,
   contundencia: "contundente",
@@ -221,7 +221,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de cortar: así el huevo termina de cuajar y las porciones salen limpias."
   ],
   nutricion: { kcal: 770, prot: 35, hc: 82, grasa: 33 },
-  etiquetas: ["aprovechamiento", "al horno", "para niños", "batch cooking", "económica"],
+  etiquetas: ["aprovechamiento", "al horno", "para niños", "batch cooking", "económica", "poco especiada"],
   consejo: "La pasta cocida aguanta 3-4 días en la nevera; guárdala con un hilo de aceite para que no se pegue. Las verduras asadas, 4 días en un tarro cubiertas con su jugo y un poco de aceite. Este timbal recalienta muy bien en porciones (microondas 2 minutos o horno 10). La regla reutilizable: 1 huevo por cada 200 g de pasta cocida convierte cualquier sobra de pasta en algo que se corta.",
   tupper: true,
   contundencia: "contundente",
@@ -268,7 +268,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan de centeno y sirve las rillettes en un cuenco con las tostas y el pepino escurrido al lado."
   ],
   nutricion: { kcal: 575, prot: 34, hc: 44, grasa: 29 },
-  etiquetas: ["aprovechamiento", "sin cocción", "rápida", "para picar", "alta en proteína"],
+  etiquetas: ["aprovechamiento", "sin cocción", "rápida", "para picar", "alta en proteína", "poco especiada"],
   consejo: "El pescado cocinado aguanta solo 2 días en la nevera en recipiente hermético, así que es la sobra que antes hay que reutilizar; no lo congeles ya cocinado porque se reseca. Las rillettes aguantan 2 días tapadas con film a piel. La fórmula sirve para cualquier pescado azul cocinado (caballa, sardina, bonito): 3 partes de pescado, 1 de queso crema, ácido y hierbas.",
   tupper: true,
   contundencia: "media",
@@ -280,7 +280,7 @@ window.RECETAS_SEED.push({
   nombre: "Bruschette de verduras asadas sobrantes con ricotta al limón, albahaca y pan duro tostado",
   subtitulo: "pan del día anterior frotado con ajo, crema de ricotta y la bandeja de verduras que sobró",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["cena"],
   proteina: "queso",
@@ -312,7 +312,7 @@ window.RECETAS_SEED.push({
     "Termina con el resto del aceite, albahaca en hojas y pimienta, y sirve con la rúcula al lado."
   ],
   nutricion: { kcal: 415, prot: 15, hc: 48, grasa: 18 },
-  etiquetas: ["aprovechamiento", "rápida", "vegetariana", "ligera", "verano", "para picar"],
+  etiquetas: ["aprovechamiento", "rápida", "vegetariana", "ligera", "verano", "para picar", "poco especiada", "bajo en colesterol"],
   consejo: "Las verduras asadas aguantan 4 días en la nevera en un tarro, cubiertas con su jugo y un hilo de aceite, y saben mejor al segundo día porque se asientan. Antes de servirlas, déjalas atemperar 15 minutos o dales un golpe de sartén: el frío de la nevera tapa los sabores, y lo mismo pasa con quesos y embutidos.",
   tupper: false,
   contundencia: "ligera",
@@ -354,7 +354,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con los garbanzos crujientes, las semillas y un hilo del aceite restante por encima."
   ],
   nutricion: { kcal: 410, prot: 12, hc: 42, grasa: 21 },
-  etiquetas: ["aprovechamiento", "ligera", "vegana", "sin gluten", "de cuchara", "económica", "rápida"],
+  etiquetas: ["aprovechamiento", "ligera", "vegana", "sin gluten", "de cuchara", "económica", "rápida", "detox", "bajo en colesterol"],
   consejo: "La crema aguanta 3 días en la nevera y se congela 3 meses; los garbanzos crujientes guárdalos aparte en un tarro abierto, porque en recipiente cerrado se ablandan. Regla reutilizable para cremas de sobras: unos 200 g de verdura asada y 250 ml de caldo por ración dan una crema con buen cuerpo sin necesidad de patata ni nata.",
   tupper: true,
   contundencia: "ligera",
@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
     "Termina con la nori, la cebolleta, el jengibre y el sésamo, y come enseguida, antes de que el arroz se empape del todo."
   ],
   nutricion: { kcal: 335, prot: 18, hc: 42, grasa: 10 },
-  etiquetas: ["aprovechamiento", "rápida", "ligera", "cena ligera", "reconfortante"],
+  etiquetas: ["aprovechamiento", "rápida", "ligera", "cena ligera", "reconfortante", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Arroz y pescado cocinados son sobras de vida corta: 1-2 días el arroz y 2 días el pescado, ambos en la nevera en recipiente hermético y enfriados rápido. Recalienta siempre el arroz hasta que humee. La idea del ochazuke (algo sabroso + arroz + líquido caliente aromático) sirve con dashi, caldo de pollo o miso disuelto en agua.",
   tupper: false,
   contundencia: "ligera",
@@ -451,7 +451,7 @@ window.RECETAS_SEED.push({
   nombre: "Yachaejeon: tortitas coreanas de verduras sobrantes con salsa de soja y vinagre de arroz",
   subtitulo: "el cajón de la verdura en una tortita crujiente para mojar",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -528,7 +528,7 @@ window.RECETAS_SEED.push({
     "Sirve con el huevo duro y el perejil picados por encima."
   ],
   nutricion: { kcal: 310, prot: 22, hc: 30, grasa: 11 },
-  etiquetas: ["aprovechamiento", "de cuchara", "ligera", "invierno", "para niños", "económica", "reconfortante"],
+  etiquetas: ["aprovechamiento", "de cuchara", "ligera", "invierno", "para niños", "económica", "reconfortante", "poco especiada", "bajo en colesterol"],
   consejo: "La carcasa se guarda 2 días en la nevera o 3 meses congelada en una bolsa: ve juntando carcasas y haz el caldo cuando tengas dos. El caldo colado aguanta 4 días en la nevera; la grasa que cuaja arriba lo protege, retírala antes de usarlo. Regla de oro de todo caldo: agua fría, espumar y fuego suave.",
   tupper: true,
   contundencia: "ligera",
@@ -572,7 +572,7 @@ window.RECETAS_SEED.push({
     "Sirve directamente en la sartén con perejil picado y pimienta recién molida."
   ],
   nutricion: { kcal: 680, prot: 40, hc: 50, grasa: 35 },
-  etiquetas: ["aprovechamiento", "una sola sartén", "brunch", "saciante", "económica"],
+  etiquetas: ["aprovechamiento", "una sola sartén", "brunch", "saciante", "económica", "poco especiada"],
   consejo: "La carne asada aguanta 3-4 días en la nevera en una pieza (se reseca menos que fileteada) y se congela en lonchas 2-3 meses. Para recalentar cualquier carne asada sin que quede como suela, añádela al final y dale solo calor fuerte y breve, o calor suave con un poco de líquido.",
   tupper: false,
   contundencia: "contundente",
@@ -614,7 +614,7 @@ window.RECETAS_SEED.push({
     "Reparte los garbanzos en dos platos, coloca el huevo encima y termina con perejil picado. Rompe la yema en la mesa: hace de salsa."
   ],
   nutricion: { kcal: 520, prot: 30, hc: 42, grasa: 26 },
-  etiquetas: ["aprovechamiento", "una sola sartén", "rápida", "tradicional", "económica", "alta en proteína"],
+  etiquetas: ["aprovechamiento", "una sola sartén", "rápida", "tradicional", "económica", "alta en proteína", "poco especiada"],
   consejo: "Los garbanzos cocidos aguantan 4 días en la nevera escurridos y en un táper; si los guardas en su caldo, 3 días. También se congelan muy bien en bolsas planas. El truco de secar y no remover sirve para dorar cualquier cosa en la sartén: setas, legumbres, patatas o carne.",
   tupper: false,
   contundencia: "media",
@@ -626,7 +626,7 @@ window.RECETAS_SEED.push({
   nombre: "Bubble and squeak de puré de patata y col sobrantes con huevo frito y cheddar",
   subtitulo: "la tortita británica del lunes con las sobras del asado del domingo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -656,7 +656,7 @@ window.RECETAS_SEED.push({
     "Fríe los huevos aparte y sírvelos encima de cada porción con pimienta recién molida."
   ],
   nutricion: { kcal: 555, prot: 18, hc: 45, grasa: 33 },
-  etiquetas: ["aprovechamiento", "una sola sartén", "vegetariana", "brunch", "económica", "reconfortante"],
+  etiquetas: ["aprovechamiento", "una sola sartén", "vegetariana", "brunch", "económica", "reconfortante", "poco especiada"],
   consejo: "El puré de patata aguanta 3 días en la nevera tapado con film a piel para que no haga costra. No lo congeles si lleva mucha leche: se vuelve aguado. El método (sobra fría + aglutinante + sartén caliente sin tocar) sirve para cualquier tortita de aprovechamiento: puré, arroz o legumbre machacada.",
   tupper: false,
   contundencia: "media",
@@ -668,7 +668,7 @@ window.RECETAS_SEED.push({
   nombre: "Pizza en sartén con base de puré de patata sobrante, tomate, mozzarella y champiñones",
   subtitulo: "una base tierna por dentro y crujiente por fuera sin amasar ni levar",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "fusión",
   momentos: ["comida"],
   proteina: "queso",
@@ -699,7 +699,7 @@ window.RECETAS_SEED.push({
     "Riega con el aceite restante, deja reposar 2 minutos y córtala en porciones."
   ],
   nutricion: { kcal: 750, prot: 30, hc: 72, grasa: 38 },
-  etiquetas: ["aprovechamiento", "para niños", "vegetariana", "económica", "noche de pizza"],
+  etiquetas: ["aprovechamiento", "para niños", "vegetariana", "económica", "noche de pizza", "poco especiada"],
   consejo: "El puré sobrante aguanta 3 días en la nevera con film a piel. Escurre siempre la mozzarella fresca y sécala con papel antes de usarla en pizza: suelta mucha agua y reblandece la base. Si tu sartén no va al horno, tapa la pizza con una tapa a fuego bajo 5 minutos para fundir el queso.",
   tupper: false,
   contundencia: "contundente",
@@ -742,7 +742,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos en la nevera para que se integren los sabores y sirve frío."
   ],
   nutricion: { kcal: 380, prot: 30, hc: 8, grasa: 25 },
-  etiquetas: ["aprovechamiento", "ligera", "verano", "sin gluten", "sin lactosa", "alta en proteína", "rápida"],
+  etiquetas: ["aprovechamiento", "ligera", "verano", "sin gluten", "sin lactosa", "alta en proteína", "rápida", "keto", "poco especiada"],
   consejo: "El pescado cocinado aguanta 2 días en la nevera; desmígalo frío y guárdalo bien tapado lejos de alimentos crudos. El salpicón ya aliñado aguanta 1 día más, pero el tomate suelta agua: si lo vas a llevar, pon el tomate aparte. La vinagreta de yema cocida sirve para cualquier ensalada de patata, judías verdes o espárragos.",
   tupper: true,
   contundencia: "ligera",
@@ -802,7 +802,7 @@ window.RECETAS_SEED.push({
   nombre: "Enfrijoladas: tortillas de maíz en salsa de alubias sobrantes con queso fresco y huevo",
   subtitulo: "las alubias de ayer, trituradas, se convierten en una salsa mexicana cremosa",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -834,7 +834,7 @@ window.RECETAS_SEED.push({
     "Cubre las enfrijoladas con más salsa, el queso fresco desmenuzado, un huevo frito, la nata agria y cilantro picado."
   ],
   nutricion: { kcal: 575, prot: 30, hc: 62, grasa: 23 },
-  etiquetas: ["aprovechamiento", "vegetariana", "sin gluten", "picante suave", "económica", "rápida"],
+  etiquetas: ["aprovechamiento", "vegetariana", "sin gluten", "picante suave", "económica", "rápida", "sin verduras"],
   consejo: "Las legumbres cocidas aguantan 4 días en la nevera con su caldo y 3 meses congeladas. Triturar una legumbre con su caldo y un elemento ahumado o picante da una salsa versátil que sirve para enchiladas, para mojar pan o como base de un plato de huevos.",
   tupper: false,
   contundencia: "media",
@@ -875,7 +875,7 @@ window.RECETAS_SEED.push({
     "Hornea 15-18 minutos, hasta que estén doradas. Mientras, calienta el resto del tomate frito y sírvelo como salsa para mojar."
   ],
   nutricion: { kcal: 785, prot: 40, hc: 66, grasa: 40 },
-  etiquetas: ["aprovechamiento", "al horno", "para niños", "tradicional", "congelable", "económica"],
+  etiquetas: ["aprovechamiento", "al horno", "para niños", "tradicional", "congelable", "económica", "sin verduras", "poco especiada"],
   consejo: "La carne del cocido aguanta 3 días en la nevera y se congela 3 meses ya picada, lista para croquetas, canelones o empanadillas. Las empanadillas se pueden congelar crudas, sin pintar: se hornean directamente congeladas 5 minutos más. La regla del relleno (siempre templado y sin exceso) vale para cualquier masa: hojaldre, quebrada o pasta.",
   tupper: true,
   contundencia: "contundente",
@@ -917,7 +917,7 @@ window.RECETAS_SEED.push({
     "Unta media piadina caliente con el queso crema, reparte el pollo, el tomate seco y la rúcula, y dóblala por la mitad. Sirve enseguida, mientras la masa está tierna."
   ],
   nutricion: { kcal: 620, prot: 36, hc: 62, grasa: 25 },
-  etiquetas: ["aprovechamiento", "para llevar", "para niños", "cena rápida"],
+  etiquetas: ["aprovechamiento", "para llevar", "para niños", "cena rápida", "poco especiada"],
   consejo: "El pollo asado aguanta 3-4 días en la nevera desmigado y con su jugo. Las piadinas cocinadas se guardan 2 días envueltas en un paño dentro de una bolsa, o congeladas con papel entre ellas; se reavivan 30 segundos en la sartén. La masa es un pan plano universal: 140 g de harina, 80 ml de agua y 1 cucharada de aceite dan dos panes para wraps, pitas o kebab.",
   tupper: false,
   contundencia: "media",
@@ -960,7 +960,7 @@ window.RECETAS_SEED.push({
     "Mientras, corta los tomates en rodajas y alíñalos con sal y el resto del perejil. Sirve la brandada caliente con la ensalada."
   ],
   nutricion: { kcal: 665, prot: 36, hc: 42, grasa: 39 },
-  etiquetas: ["aprovechamiento", "al horno", "gratinado", "para niños", "reconfortante"],
+  etiquetas: ["aprovechamiento", "al horno", "gratinado", "para niños", "reconfortante", "poco especiada"],
   consejo: "El pescado cocinado aguanta 2 días en la nevera; la brandada ya hecha, 2 días más, y se puede congelar en porciones antes de gratinar. Lo que hace cremosa una brandada es añadir el aceite y la leche calientes y poco a poco mientras bates: así emulsionan con el almidón de la patata, igual que en un alioli.",
   tupper: true,
   contundencia: "contundente",
@@ -1006,7 +1006,7 @@ window.RECETAS_SEED.push({
     "Hornea 20 minutos, hasta que el hojaldre esté hinchado y bien dorado. Deja reposar 5 minutos antes de servir para que la salsa asiente."
   ],
   nutricion: { kcal: 765, prot: 42, hc: 55, grasa: 42 },
-  etiquetas: ["aprovechamiento", "al horno", "reconfortante", "para niños", "invierno", "económica"],
+  etiquetas: ["aprovechamiento", "al horno", "reconfortante", "para niños", "invierno", "económica", "poco especiada"],
   consejo: "El pollo asado aguanta 3-4 días en la nevera y 3 meses congelado sin huesos. El relleno de este pastel se puede preparar con 2 días de antelación y guardarse en la nevera; el día que lo comas, solo tienes que cubrir con hojaldre y hornear 5 minutos más. El hojaldre sube por el contraste de temperatura: masa fría, horno muy caliente.",
   tupper: true,
   contundencia: "contundente",
@@ -1050,7 +1050,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos, desmolda y sirve en porciones con los tomates en rodajas aliñados con aceite y sal. Está buena caliente, templada o fría."
   ],
   nutricion: { kcal: 505, prot: 26, hc: 52, grasa: 21 },
-  etiquetas: ["aprovechamiento", "al horno", "para llevar", "batch cooking", "vegetariana", "económica"],
+  etiquetas: ["aprovechamiento", "al horno", "para llevar", "batch cooking", "vegetariana", "económica", "poco especiada"],
   consejo: "El arroz cocido aguanta 1-2 días en la nevera si lo enfriaste rápido, extendido, y lo guardaste antes de una hora. Una vez horneada en la torta, aguanta 3 días más y se come fría en el táper. La proporción de 1 huevo por cada 100 g de arroz cocido sirve para cualquier pastel o tortita de arroz.",
   tupper: true,
   contundencia: "media",
@@ -1062,7 +1062,7 @@ window.RECETAS_SEED.push({
   nombre: "Cuscús con verduras asadas sobrantes, garbanzos, harissa y menta",
   subtitulo: "cinco minutos de cuscús para una bandeja de verduras que pedía otro destino",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -1095,7 +1095,7 @@ window.RECETAS_SEED.push({
     "Sirve con las almendras tostadas y la menta en hojas por encima."
   ],
   nutricion: { kcal: 615, prot: 20, hc: 90, grasa: 19 },
-  etiquetas: ["aprovechamiento", "vegana", "rápida", "para llevar", "picante", "económica"],
+  etiquetas: ["aprovechamiento", "vegana", "rápida", "para llevar", "picante", "económica", "bajo en colesterol"],
   consejo: "Las verduras asadas aguantan 4 días en la nevera cubiertas con su jugo. Este cuscús aguanta 3 días en el táper y se come frío o templado; si lo vas a llevar, guarda la menta y las almendras aparte. Regla reutilizable: cuscús y líquido hirviendo a partes iguales en volumen, 5 minutos tapado y esponjar con tenedor.",
   tupper: true,
   contundencia: "media",

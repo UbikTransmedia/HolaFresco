@@ -9,7 +9,7 @@ window.RECETAS_SEED.push({
   nombre: "Rösti suizo con huevo frito y ensalada de pepino",
   subtitulo: "torta crujiente de patata rallada con queso gruyère fundido",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Corta el rösti en dos, pon un huevo frito encima de cada mitad y sirve con la ensalada de pepino."
   ],
   nutricion: { kcal: 575, prot: 20, hc: 56, grasa: 30 },
-  etiquetas: ["tradicional", "económica", "fácil", "para niños"],
+  etiquetas: ["tradicional", "económica", "fácil", "para niños", "poco especiada"],
   consejo: "La patata cocida la víspera y fría es el secreto suizo: suelta menos almidón y el rösti queda suelto y crujiente. No la aplastes en la sartén.",
   contundencia: "media",
   coste: "económica"
@@ -51,7 +51,7 @@ window.RECETAS_SEED.push({
   nombre: "Pierogi ruskie: empanadillas polacas de patata y requesón",
   subtitulo: "cocidas y doradas en mantequilla con cebolla frita y yogur",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "eslava",
   momentos: ["comida"],
   proteina: "queso",
@@ -82,7 +82,7 @@ window.RECETAS_SEED.push({
     "Saltéalos 2 minutos en la sartén con la cebolla frita para que se doren un poco y sirve con el yogur y la cebolla por encima."
   ],
   nutricion: { kcal: 745, prot: 28, hc: 100, grasa: 26 },
-  etiquetas: ["tradicional", "saciante", "económica", "batch cooking", "para niños"],
+  etiquetas: ["tradicional", "saciante", "económica", "batch cooking", "para niños", "sin verduras", "poco especiada"],
   consejo: "Congélalos crudos, separados en una bandeja, y luego en bolsa: se cuecen directamente congelados con 2 minutos más. Es lo que hacen las abuelas polacas para todo el invierno.",
   contundencia: "contundente",
   coste: "económica"
@@ -93,7 +93,7 @@ window.RECETAS_SEED.push({
   nombre: "Lecsó húngaro de pimientos y tomate con huevos",
   subtitulo: "el pisto de Hungría al pimentón con pan tostado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -121,7 +121,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con pan tostado para mojar."
   ],
   nutricion: { kcal: 375, prot: 18, hc: 26, grasa: 22 },
-  etiquetas: ["tradicional", "ligera", "rápida", "económica", "verano", "una sola sartén"],
+  etiquetas: ["tradicional", "ligera", "rápida", "económica", "verano", "una sola sartén", "poco especiada"],
   consejo: "En verano, cuando los pimientos y tomates están en su punto, las familias húngaras hacen lecsó en cantidad y lo embotan. Si quieres una versión más contundente, añade salchicha ahumada en rodajas.",
   contundencia: "ligera",
   coste: "económica"
@@ -132,7 +132,7 @@ window.RECETAS_SEED.push({
   nombre: "Kolokithokeftedes: buñuelos griegos de calabacín y feta con tzatziki",
   subtitulo: "con menta y eneldo, ensalada de tomate y pepino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -166,7 +166,7 @@ window.RECETAS_SEED.push({
     "Sirve los buñuelos calientes con el tzatziki y la ensalada."
   ],
   nutricion: { kcal: 440, prot: 20, hc: 40, grasa: 22 },
-  etiquetas: ["tradicional", "ligera", "verano", "para niños", "económica"],
+  etiquetas: ["tradicional", "ligera", "verano", "para niños", "económica", "verduras escondidas", "poco especiada"],
   consejo: "Escurrir bien el calabacín es lo más importante: si queda agua, los buñuelos se deshacen. Si la masa queda blanda, añade otra cucharada de harina.",
   contundencia: "ligera",
   coste: "económica"
@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
   nombre: "Welsh rarebit: tostada galesa de cheddar a la cerveza con ensalada",
   subtitulo: "salsa de queso con mostaza y worcestershire gratinada sobre pan",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
     "Mientras, aliña la lechuga y el tomate con el aceite, el vinagre y sal. Sirve las tostadas recién salidas del horno con la ensalada."
   ],
   nutricion: { kcal: 610, prot: 30, hc: 50, grasa: 32 },
-  etiquetas: ["tradicional", "rápida", "fácil", "para niños", "invierno"],
+  etiquetas: ["tradicional", "rápida", "fácil", "para niños", "invierno", "poco especiada"],
   consejo: "Una gota más de worcestershire por encima justo al sacarlo del horno es como lo sirven en Gales. La crema de queso se puede guardar 3 días en la nevera.",
   contundencia: "media",
   coste: "media"
@@ -221,7 +221,7 @@ window.RECETAS_SEED.push({
   nombre: "Colcannon irlandés con huevo escalfado y mantequilla",
   subtitulo: "puré de patata con col y cebolleta, el plato de Halloween en Irlanda",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -250,7 +250,7 @@ window.RECETAS_SEED.push({
     "Sirve el colcannon en montaña, haz un hueco en el centro, pon un trozo del resto de la mantequilla para que se funda y el huevo escalfado encima."
   ],
   nutricion: { kcal: 510, prot: 20, hc: 54, grasa: 24 },
-  etiquetas: ["tradicional", "económica", "fácil", "invierno", "para niños"],
+  etiquetas: ["tradicional", "económica", "fácil", "invierno", "para niños", "verduras escondidas", "poco especiada"],
   consejo: "En Irlanda se deja un pozo de mantequilla derretida en el centro y se moja cada cucharada en él. Con las sobras se hacen tortitas en la sartén al día siguiente.",
   contundencia: "media",
   coste: "económica"
@@ -290,7 +290,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade la mitad del pecorino y mezcla. Sirve con la panceta reservada, el resto del pecorino y pimienta."
   ],
   nutricion: { kcal: 690, prot: 28, hc: 82, grasa: 28 },
-  etiquetas: ["tradicional", "rápida", "saciante", "fácil"],
+  etiquetas: ["tradicional", "rápida", "saciante", "fácil", "sin verduras"],
   consejo: "En Amatrice no llevan ni ajo ni cebolla: solo el cerdo, el tomate y el queso. Empezar la panceta en sartén fría hace que suelte la grasa sin quemarse.",
   contundencia: "contundente",
   coste: "media"
@@ -328,7 +328,7 @@ window.RECETAS_SEED.push({
     "Sirve con mucho perejil picado y el parmesano rallado por encima."
   ],
   nutricion: { kcal: 550, prot: 18, hc: 84, grasa: 16 },
-  etiquetas: ["tradicional", "rápida", "económica", "picante", "fácil"],
+  etiquetas: ["tradicional", "rápida", "económica", "picante", "fácil", "sin verduras"],
   consejo: "El picor manda en este plato: ajusta las guindillas a tu gusto, pero no lo hagas suave, que pierde la gracia. Un tomate de buena calidad marca la diferencia.",
   contundencia: "media",
   coste: "económica"
@@ -369,7 +369,7 @@ window.RECETAS_SEED.push({
     "Mezcla con la mitad del parmesano y un chorrito de agua de cocción hasta que la salsa quede cremosa. Sirve con el resto del parmesano por encima."
   ],
   nutricion: { kcal: 810, prot: 32, hc: 80, grasa: 40 },
-  etiquetas: ["tradicional", "rápida", "saciante", "para niños"],
+  etiquetas: ["tradicional", "rápida", "saciante", "para niños", "poco especiada"],
   consejo: "En Norcia se hace con salchicha de cerdo de calidad y, en temporada, con trufa negra rallada por encima. Si la salchicha es muy grasa, retira parte de la grasa antes de añadir la chalota.",
   contundencia: "contundente",
   coste: "media"
@@ -412,7 +412,7 @@ window.RECETAS_SEED.push({
     "Sirve con pimienta negra y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 640, prot: 22, hc: 92, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "fácil", "para niños", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "fácil", "para niños", "invierno", "poco especiada"],
   consejo: "El almidón de la patata y de la pasta es lo que hace la crema: no la enjuagues ni cuezas la pasta aparte. En Nápoles se aprovechan los restos de paquetes de pasta mezclados.",
   contundencia: "media",
   coste: "económica"
@@ -455,7 +455,7 @@ window.RECETAS_SEED.push({
     "Hornea 15 minutos, hasta que el arroz esté seco y suelto y el chorizo haya formado una costra dorada. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 805, prot: 42, hc: 78, grasa: 36 },
-  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "al horno"],
+  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "al horno", "poco especiada"],
   consejo: "El caldo sobrante es buenísimo para una sopa. Puedes cocer el pato la víspera: al enfriarse, la grasa sube y se retira de una pieza.",
   contundencia: "contundente",
   coste: "premium"
@@ -540,7 +540,7 @@ window.RECETAS_SEED.push({
     "Sirve la polenta en plato hondo, pon encima los champiñones y riega con la mantequilla a la salvia. Termina con pimienta negra."
   ],
   nutricion: { kcal: 730, prot: 26, hc: 66, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "invierno", "fácil"],
+  etiquetas: ["tradicional", "saciante", "invierno", "fácil", "poco especiada"],
   consejo: "Con polenta instantánea está lista en minutos y queda igual de cremosa. La que sobre se cuaja al enfriar: córtala en porciones y dórala en la sartén al día siguiente.",
   contundencia: "contundente",
   coste: "media"
@@ -584,7 +584,7 @@ window.RECETAS_SEED.push({
     "Sirve la pasta con una buena cantidad de salsa por encima y espolvorea el resto del queso rallado."
   ],
   nutricion: { kcal: 715, prot: 38, hc: 82, grasa: 26 },
-  etiquetas: ["tradicional", "saciante", "para niños", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "para niños", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "La canela y el clavo son lo que la diferencia de una boloñesa: no te pases o dominarán. La salsa se congela perfectamente en raciones.",
   contundencia: "contundente",
   coste: "media"
@@ -622,7 +622,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con las rodajas de chorizo, un chorrito de su grasa y el resto del aceite crudo por encima."
   ],
   nutricion: { kcal: 395, prot: 16, hc: 42, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "invierno", "poco especiada"],
   consejo: "Lo que hace el caldo verde es el corte finísimo de la col: tómate tu tiempo. En Portugal se toma con un trozo de broa (pan de maíz) al lado.",
   contundencia: "ligera",
   coste: "económica"
@@ -665,7 +665,7 @@ window.RECETAS_SEED.push({
     "Sirve con mucho eneldo picado, cebollino y unas gotas de limón."
   ],
   nutricion: { kcal: 525, prot: 36, hc: 32, grasa: 28 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "poco especiada"],
   consejo: "El pescado se cocina con el calor residual: así no se deshace ni se seca. En Noruega se sirve con pan de centeno con mantequilla.",
   contundencia: "media",
   coste: "premium"
@@ -707,7 +707,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado y pan para acompañar."
   ],
   nutricion: { kcal: 515, prot: 36, hc: 48, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "invierno", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Las ciruelas parecen raras pero dan un contrapunto dulce delicioso: pruébalas al menos una vez. Si quieres un caldo más ligero, enfríalo y retira la grasa de la superficie.",
   contundencia: "media",
   coste: "económica"
@@ -753,7 +753,7 @@ window.RECETAS_SEED.push({
     "Sirve el barszcz en cuencos con una cucharada de yogur y las patatas al eneldo en un plato al lado, como en Polonia."
   ],
   nutricion: { kcal: 355, prot: 10, hc: 52, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "No dejes que hierva tras añadir el vinagre o el rojo se volverá marrón. Usa guantes para pelar la remolacha y evitar mancharte las manos.",
   contundencia: "ligera",
   coste: "económica"
@@ -797,7 +797,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan, ponlo en el fondo de los platos y sirve el garbure encima con un muslo de pato por persona."
   ],
   nutricion: { kcal: 745, prot: 40, hc: 56, grasa: 40 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "batch cooking", "poco especiada"],
   consejo: "En Gascuña, al final se echa un chorro de vino tinto en el último caldo del plato y se bebe: es el 'chabrot'. Si tienes poco tiempo, usa alubias cocidas y empieza en el paso 2.",
   contundencia: "contundente",
   coste: "premium"
@@ -839,7 +839,7 @@ window.RECETAS_SEED.push({
     "Sirve muy caliente con abundante perejil picado."
   ],
   nutricion: { kcal: 550, prot: 34, hc: 54, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "poco especiada"],
   consejo: "Como todas las sopas de cebada, espesa al reposar: al recalentarla añade un poco de agua. Si la enfrías, podrás retirar la grasa del cordero de la superficie.",
   contundencia: "media",
   coste: "media"
@@ -883,7 +883,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con perejil picado por encima."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 52, grasa: 34 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "para niños", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "para niños", "batch cooking", "poco especiada"],
   consejo: "En Alemania se acompaña de pan de centeno y, a veces, de un chorrito de vinagre en la mesa. Sin las salchichas es una cena ligera y barata.",
   contundencia: "media",
   coste: "media"
@@ -921,7 +921,7 @@ window.RECETAS_SEED.push({
     "Mete los cuencos en el horno 3-4 minutos, hasta que la clara esté cuajada y la yema siga líquida. Sirve con pimienta y perejil picado."
   ],
   nutricion: { kcal: 420, prot: 22, hc: 34, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "rápida", "económica", "ligera", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "rápida", "económica", "ligera", "invierno", "sin verduras", "poco especiada"],
   consejo: "Si no tienes cuencos para horno, escalfa los huevos 3 minutos en el caldo hirviendo y pásalos con cuidado sobre el pan. Con un buen caldo casero, es un plato de lujo.",
   contundencia: "ligera",
   coste: "económica"
@@ -961,7 +961,7 @@ window.RECETAS_SEED.push({
     "Remueve, reparte en platos y corona cada uno con un huevo escalfado y pimienta. Rompe la yema al comer para que haga de salsa."
   ],
   nutricion: { kcal: 575, prot: 24, hc: 30, grasa: 40 },
-  etiquetas: ["tradicional", "rápida", "económica", "fácil"],
+  etiquetas: ["tradicional", "rápida", "económica", "fácil", "poco especiada"],
   consejo: "La vinagreta caliente ablanda un poco la escarola y suaviza su amargor: sirve enseguida. Si la escarola te parece muy amarga, déjala 10 minutos en agua con hielo antes.",
   contundencia: "media",
   coste: "económica"
@@ -1000,7 +1000,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el orégano, riega con el resto del aceite y sirve con el pepino en rodajas al lado."
   ],
   nutricion: { kcal: 430, prot: 14, hc: 46, grasa: 22 },
-  etiquetas: ["tradicional", "sin cocción", "rápida", "ligera", "verano", "económica"],
+  etiquetas: ["tradicional", "sin cocción", "rápida", "ligera", "verano", "económica", "poco especiada"],
   consejo: "Prepáralo 10 minutos antes de comer para que el pan absorba el jugo del tomate. En Creta se hace con mizithra, un queso fresco y suave; el feta es el sustituto más fácil.",
   contundencia: "ligera",
   coste: "económica"

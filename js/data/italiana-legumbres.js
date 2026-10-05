@@ -46,7 +46,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas en el plato con las rodajas de cotechino encima, bien calientes."
   ],
   nutricion: { kcal: 750, prot: 38, hc: 46, grasa: 44 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "poco especiada"],
   consejo: "En Módena se come en Nochevieja: las lentejas, como monedas, prometen dinero para el año nuevo. El cotechino precocido se vende en tiendas de productos italianos y en algunos supermercados en Navidad. Si no lo encuentras, usa butifarra cruda gruesa o salchicha fresca: dórala entera en la cazuela antes del sofrito, pínchala y cuécela los últimos 25 minutos dentro de las lentejas. Aguanta 3 días en la nevera y mejora al recalentarse.",
   tupper: true,
   contundencia: "contundente",
@@ -92,7 +92,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan, ponlo en el fondo de los platos y sirve el zimino encima con la cucharada de aceite restante en crudo."
   ],
   nutricion: { kcal: 620, prot: 24, hc: 68, grasa: 26 },
-  etiquetas: ["tradicional", "de cuchara", "vegana", "económica", "batch cooking", "otoño"],
+  etiquetas: ["tradicional", "de cuchara", "vegana", "económica", "batch cooking", "otoño", "superalimentos", "poco especiada"],
   consejo: "El zimino (zemin en genovés) es la forma ligur de guisar legumbres o pescado con acelgas; en Génova se hace en noviembre, con garbanzos y un puñado de setas secas. Si partes de garbanzos secos (150 g), ponlos a remojo la víspera y cuécelos 1 h 30 min antes de empezar: su caldo de cocción sustituye al de verduras. Aguanta 3 días en la nevera; guarda el pan aparte.",
   tupper: true,
   contundencia: "media",
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Reparte en los platos, pon encima el guanciale crujiente reservado y, si quieres, un poco de pecorino rallado, y sirve con el pan tostado."
   ],
   nutricion: { kcal: 545, prot: 25, hc: 56, grasa: 24 },
-  etiquetas: ["tradicional", "rápida", "primavera", "una sola sartén"],
+  etiquetas: ["tradicional", "rápida", "primavera", "una sola sartén", "poco especiada"],
   consejo: "En Roma se hace en abril y mayo con habas recién desgranadas (cuenta 20 minutos más para sacarlas de la vaina). Fuera de temporada, las habas congeladas baby funcionan muy bien y no hace falta pelarlas. El guanciale es papada de cerdo curada; se encuentra en tiendas italianas y en algunos supermercados, y la panceta curada en tiras gruesas lo sustituye. Si las habas son grandes y tienen la piel dura, escáldalas 1 minuto y pélalas antes. El pecorino no forma parte de la receta clásica, pero en Roma las habas y el pecorino van de la mano: añádelo al servir si te apetece.",
   tupper: true,
   contundencia: "media",
@@ -269,7 +269,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade la menta picada, la mitad del pecorino rallado y pimienta negra. Deja reposar 10 minutos tapada y sirve con el resto del pecorino por encima."
   ],
   nutricion: { kcal: 830, prot: 42, hc: 86, grasa: 33 },
-  etiquetas: ["tradicional", "de cuchara", "primavera", "batch cooking", "fin de semana"],
+  etiquetas: ["tradicional", "de cuchara", "primavera", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "Se dice que lleva siete legumbres, siete verduras, siete pastas y siete horas de fuego: las virtudes de las amas de casa de Teramo, que vaciaban la despensa de invierno el 1 de mayo. Esta versión para dos simplifica, pero conserva la idea: legumbres secas cocidas con el cerdo, verdura nueva y pasta variada. Si encuentras almortas o habas secas, añádelas con las alubias. Al día siguiente está aún mejor; recaliéntala con un poco de agua.",
   tupper: true,
   contundencia: "contundente",
@@ -311,7 +311,7 @@ window.RECETAS_SEED.push({
     "Abre los panes, rellénalos con las panelle calientes, unas gotas de limón y una pizca de sal, y sírvelos con la ensalada y el resto del limón en gajos."
   ],
   nutricion: { kcal: 735, prot: 26, hc: 92, grasa: 29 },
-  etiquetas: ["tradicional", "vegana", "económica", "frito"],
+  etiquetas: ["tradicional", "vegana", "económica", "frito", "poco especiada"],
   consejo: "En Palermo se venden en los puestos de fritura, junto a las croquetas de patata, dentro de un pan de sésamo. La masa debe quedar fina: así se fríen rápido y quedan crujientes por fuera y cremosas por dentro. Puedes dejarla cuajada y cortada en la nevera hasta 2 días, bien tapada, y freír al momento; una vez fritas no aguantan.",
   tupper: false,
   contundencia: "contundente",
@@ -356,7 +356,7 @@ window.RECETAS_SEED.push({
     "Sazona al final con sal y pimienta (la salchicha y el tomate seco ya aportan sal), deja reposar 10 minutos y sirve con las hojas de hinojo picadas por encima."
   ],
   nutricion: { kcal: 770, prot: 45, hc: 59, grasa: 37 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking", "fin de semana"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "En Cerdeña se cocina para el jueves lardero, con habas secas, cortezas, costillas, salchicha curada y el hinojo silvestre que crece en los caminos; el bulbo de hinojo con sus hojas y unas semillas lo imitan bien. Las habas secas peladas se encuentran en tiendas a granel y de alimentación italiana o magrebí; si no las encuentras, usa garbanzos secos con la misma cocción. Como todos los potajes, gana al día siguiente.",
   tupper: true,
   contundencia: "contundente",
@@ -403,7 +403,7 @@ window.RECETAS_SEED.push({
     "Sirve la crapiata encima, riega cada plato con 1 cda de aceite crudo y, si te gusta, desmenuza la guindilla por encima."
   ],
   nutricion: { kcal: 700, prot: 26, hc: 95, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "vegana", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "vegana", "económica", "batch cooking", "bajo en colesterol"],
   consejo: "La crapiata se cocinaba el 1 de agosto en los Sassi de Matera: cada familia aportaba lo que le quedaba de la cosecha y todo se cocía junto en una gran olla. Sirve cualquier mezcla de legumbres secas que tengas en la despensa, siempre que remojes juntas las que tardan lo mismo. El trigo en grano es el del potaje de trigo andaluz y se vende en tiendas a granel; la espelta en grano o la cebada perlada lo sustituyen. Mejora al día siguiente.",
   tupper: true,
   contundencia: "contundente",
@@ -495,7 +495,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre una base de rúcula con las lascas de parmesano y las hojas de menta reservadas por encima."
   ],
   nutricion: { kcal: 545, prot: 27, hc: 46, grasa: 26 },
-  etiquetas: ["creativa", "sin gluten", "primavera", "ideal para llevar"],
+  etiquetas: ["creativa", "sin gluten", "primavera", "ideal para llevar", "poco especiada"],
   consejo: "Las alcachofas a la romana se guisan enteras con mentuccia (una menta silvestre), ajo y perejil; aquí van en cuartos para que estén listas mientras se cuecen las lentejas. Frótate las manos y el cuchillo con limón para que no se ennegrezcan. Fuera de temporada, usa corazones de alcachofa congelados y reduce la cocción a 8 minutos. Para llevar aguanta 2 días: añade la rúcula y el queso al servir.",
   tupper: true,
   contundencia: "media",
@@ -537,7 +537,7 @@ window.RECETAS_SEED.push({
     "Sirve templado con los piñones tostados por encima."
   ],
   nutricion: { kcal: 645, prot: 24, hc: 56, grasa: 36 },
-  etiquetas: ["creativa", "vegetariana", "sin gluten", "verano", "ideal para llevar"],
+  etiquetas: ["creativa", "vegetariana", "sin gluten", "verano", "ideal para llevar", "poco especiada"],
   consejo: "En Génova la pasta al pesto se cuece junto con patata y judías verdes: la patata suelta almidón y vuelve el pesto más cremoso. Para que no se oscurezca, tritúralo en frío y a golpes, y mézclalo siempre fuera del fuego. Si los piñones se te van de precio, usa almendras o nueces. Aguanta 2 días en la nevera; tómalo templado o a temperatura ambiente.",
   tupper: true,
   contundencia: "media",
@@ -583,7 +583,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sírvelos calientes o templados."
   ],
   nutricion: { kcal: 510, prot: 22, hc: 52, grasa: 22 },
-  etiquetas: ["creativa", "económica", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "económica", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "En Nápoles los peperoni imbottiti se rellenan de pan duro, alcaparras, aceitunas, anchoas y queso; con lentejas el relleno es más nutritivo y no se seca. Sin las anchoas, el plato es vegetariano. Sin airfryer, hornéalos a 200 °C 30–35 minutos en total. Aguantan 3 días en la nevera y también están buenos templados.",
   tupper: true,
   contundencia: "media",
@@ -626,7 +626,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida las alubias con el huevo encima y ralladura de limón, con la rúcula al lado aliñada con unas gotas de su zumo y el pan tostado."
   ],
   nutricion: { kcal: 570, prot: 30, hc: 47, grasa: 27 },
-  etiquetas: ["creativa", "rápida", "vegetariana", "económica", "alta en proteína"],
+  etiquetas: ["creativa", "rápida", "vegetariana", "económica", "alta en proteína", "poco especiada"],
   consejo: "El truco del cacio e pepe es no echar el pecorino sobre algo hirviendo, porque se apelmaza en hilos: disuelto antes en agua templada y añadido fuera del fuego, emulsiona en una salsa cremosa. Si no tienes pecorino romano, usa mitad parmesano y mitad queso curado de oveja. Se come al momento: recalentada, la salsa se corta.",
   tupper: false,
   contundencia: "media",
@@ -670,7 +670,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas con las chuletillas encima, recién hechas, y el limón restante en gajos para exprimir por encima."
   ],
   nutricion: { kcal: 640, prot: 33, hc: 44, grasa: 35 },
-  etiquetas: ["creativa", "sin gluten", "alta en proteína", "primavera"],
+  etiquetas: ["creativa", "sin gluten", "alta en proteína", "primavera", "poco especiada"],
   consejo: "Scottadito significa «que quema los dedos»: en Roma las chuletillas de cordero lechal se comen recién salidas de la brasa, con la mano, sobre todo en Pascua. La plancha tiene que estar muy caliente para que se doren en 2 minutos sin pasarse por dentro. Las lentejas se pueden dejar hechas hasta 2 días antes; las chuletillas, siempre al momento.",
   tupper: false,
   contundencia: "media",
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos. Saca los ajos de su piel, aplástalos y mézclalos con las alubias, que habrán absorbido el jugo del pollo, y sirve."
   ],
   nutricion: { kcal: 700, prot: 45, hc: 35, grasa: 40 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "batch cooking"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Es la idea del pollo al limón con alcaparras llevada a una bandeja: las alubias hacen de guarnición y de salsa a la vez. Con contramuslos deshuesados, el horneado baja a 25 minutos. Si sobra, desmenuza el pollo y mézclalo con las alubias: tendrás un tupper que se recalienta en 2 minutos y aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -760,7 +760,7 @@ window.RECETAS_SEED.push({
     "Sirve los garbanzos con las sardinas marcadas encima, el pan rallado tostado y las hojas de hinojo picadas."
   ],
   nutricion: { kcal: 720, prot: 40, hc: 58, grasa: 35 },
-  etiquetas: ["creativa", "alta en proteína", "verano"],
+  etiquetas: ["creativa", "alta en proteína", "verano", "superalimentos", "poco especiada"],
   consejo: "La pasta con le sarde es el gran plato de Palermo: sardinas, hinojo silvestre, pasas, piñones y azafrán, con pan rallado tostado en lugar de queso. Pide en la pescadería que te limpien y abran las sardinas en filetes; de junio a septiembre son baratas y están en su mejor momento. Fuera de temporada, usa sardinas en aceite de oliva escurridas y añádelas al final, sin marcarlas.",
   tupper: false,
   contundencia: "contundente",
@@ -804,7 +804,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de la calabaza por encima y las hojas de salvia crujientes."
   ],
   nutricion: { kcal: 615, prot: 28, hc: 56, grasa: 28 },
-  etiquetas: ["creativa", "otoño", "invierno", "económica", "vegetariana"],
+  etiquetas: ["creativa", "otoño", "invierno", "económica", "vegetariana", "poco especiada"],
   consejo: "Las pardinas, o las lentejas de Castelluccio si las encuentras, aguantan enteras y sueltan el almidón justo para que la mantecatura funcione; no uses lentejas rojas, que se deshacen en puré. Aguanta 2 días en la nevera: para recalentarlas, añade un chorro de caldo y remueve a fuego suave, y fríe la salvia al momento.",
   tupper: true,
   contundencia: "media",
@@ -849,7 +849,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con una cucharada de ricotta al limón, el jamón crujiente por encima y unas gotas del aceite de menta."
   ],
   nutricion: { kcal: 585, prot: 31, hc: 62, grasa: 21 },
-  etiquetas: ["creativa", "de cuchara", "invierno", "económica", "batch cooking"],
+  etiquetas: ["creativa", "de cuchara", "invierno", "económica", "batch cooking", "poco especiada"],
   consejo: "Los guisantes partidos (secos, pelados y partidos por la mitad) se cuecen sin remojo y se deshacen solos: son perfectos para cremas. Se venden junto a las legumbres o a granel. Congela la crema en raciones; la ricotta, la menta y el jamón crujiente se preparan al servir. Si encuentras prosciutto crudo italiano, úsalo igual.",
   tupper: true,
   contundencia: "media",
@@ -893,7 +893,7 @@ window.RECETAS_SEED.push({
     "Reparte en los platos, abre la burrata en el centro y termina con el resto del pesto, pimienta negra y la ralladura del otro medio limón. Sirve con el pan tostado."
   ],
   nutricion: { kcal: 630, prot: 30, hc: 45, grasa: 36 },
-  etiquetas: ["creativa", "rápida", "primavera", "vegetariana", "para invitados"],
+  etiquetas: ["creativa", "rápida", "primavera", "vegetariana", "para invitados", "poco especiada"],
   consejo: "En temporada (abril y mayo), usa habas tiernas recién desgranadas y, si son grandes, quítales también la piel después de escaldarlas. El pesto de menta y almendra aguanta 2 días en un tarro cubierto con un hilo de aceite. Saca la burrata de la nevera 20 minutos antes: a temperatura ambiente está mucho más cremosa.",
   tupper: false,
   contundencia: "media",

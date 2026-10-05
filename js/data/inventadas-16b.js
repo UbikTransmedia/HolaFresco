@@ -39,7 +39,7 @@ window.RECETAS_SEED.push({
     "Reparte la rúcula en dos platos, coloca encima los garbanzos templados y termina con las hojas de albahaca rotas con la mano en el último momento."
   ],
   nutricion: { kcal: 405, prot: 16, hc: 38, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "verano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Añade 50 g de feta desmigada o un huevo mollet si quieres más proteína. Las sobras, frías, son un táper estupendo para el día siguiente.",
   contundencia: "ligera",
   coste: "económica"
@@ -80,7 +80,7 @@ window.RECETAS_SEED.push({
     "Devuelve las gambas con su jugo, añade el zumo de medio limón, la ralladura y el perejil. Mezcla, prueba de sal y sirve con el pan tostado y gajos de limón."
   ],
   nutricion: { kcal: 600, prot: 42, hc: 44, grasa: 29 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "alta en proteína", "sin verduras"],
   consejo: "No cortes la salsa: el secreto es mover la sartén en vaivén para que el aceite emulsione con el almidón de las alubias. Puedes cambiar las gambas por calamar en tiras.",
   contundencia: "media",
   coste: "media"
@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
     "Monta los platos: lentejas, calabacín troceado, cucharadas de ricotta, el resto del aliño, hojas de menta y, si te gusta, la guindilla."
   ],
   nutricion: { kcal: 422, prot: 27, hc: 38, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano", "ideal para llevar", "detox", "bajo en colesterol"],
   consejo: "Si no encuentras ricotta, usa requesón o yogur griego con una pizca de sal. Unas almendras tostadas por encima le dan un crujiente muy rico.",
   contundencia: "ligera",
   coste: "media"
@@ -161,7 +161,7 @@ window.RECETAS_SEED.push({
     "Salpimienta, incorpora la rúcula para que se ablande apenas con el calor residual y sirve enseguida."
   ],
   nutricion: { kcal: 525, prot: 35, hc: 40, grasa: 25 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "alta en proteína", "ideal para llevar", "superalimentos", "poco especiada"],
   consejo: "Usa un chorrito del aceite del tomate seco para saltear: aporta muchísimo sabor. Frío, con unas aceitunas, es un táper perfecto.",
   contundencia: "media",
   coste: "media"
@@ -202,7 +202,7 @@ window.RECETAS_SEED.push({
     "Agrega el pan tostado y la albahaca rota con la mano, mezcla bien y deja reposar 5 minutos para que el pan se empape sin perder todo el crujiente."
   ],
   nutricion: { kcal: 459, prot: 20, hc: 52, grasa: 19 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano", "económica"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Cuanto más maduro el tomate, mejor la panzanella. Si sobra, añade al día siguiente un poco de rúcula fresca y un chorrito más de aceite.",
   contundencia: "ligera",
   coste: "económica"
@@ -243,7 +243,7 @@ window.RECETAS_SEED.push({
     "Extiende la crema en un plato haciendo surcos con la cuchara, coloca encima los huevos en cuartos, los rábanos, la feta desmigada, el resto de la menta, ralladura de limón y un hilo de aceite. Sirve con el pan para untar."
   ],
   nutricion: { kcal: 594, prot: 31, hc: 50, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "primavera", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "primavera", "ideal para llevar", "poco especiada"],
   consejo: "La crema aguanta 3 días en la nevera tapada con una película de aceite. También queda muy rica con guisantes en lugar de la mitad de las habas.",
   contundencia: "media",
   coste: "económica"
@@ -283,7 +283,7 @@ window.RECETAS_SEED.push({
     "Extiende el hummus en platos hondos, pon en el centro los garbanzos calientes, el tomate picado y el perejil, y riega con el aceite al pimentón. Sirve con la pita tostada en triángulos."
   ],
   nutricion: { kcal: 574, prot: 22, hc: 54, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica", "poco especiada"],
   consejo: "Añade un huevo duro o un puñado de piñones tostados para hacerlo aún más completo. El hummus sobrante dura 4 días en la nevera.",
   contundencia: "media",
   coste: "económica"
@@ -324,7 +324,7 @@ window.RECETAS_SEED.push({
     "Reparte las lentejas en dos platos, coloca encima la caballa en lascas, una cucharada generosa de yogur y el resto del eneldo."
   ],
   nutricion: { kcal: 458, prot: 37, hc: 37, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "ideal para llevar", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Puedes cambiar la caballa por sardinas o bonito en conserva. Para llevar, guarda el yogur aparte y añádelo al comer.",
   contundencia: "ligera",
   coste: "media"
@@ -368,7 +368,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego y añade el perejil picado, la última cucharada de aceite en crudo y un chorrito de zumo de limón. Sirve bien caliente."
   ],
   nutricion: { kcal: 409, prot: 17, hc: 38, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "invierno", "batch cooking", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "invierno", "batch cooking", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Está aún mejor al día siguiente. Sírvela con unas aceitunas kalamata y un trozo de feta al lado, como en Grecia.",
   contundencia: "ligera",
   coste: "económica"
@@ -410,7 +410,7 @@ window.RECETAS_SEED.push({
     "Sala los langostinos y añádelos a la cazuela. Cocina 2–3 minutos, solo hasta que se vuelvan rosados y opacos. Prueba de sal y deja reposar 2 minutos antes de servir."
   ],
   nutricion: { kcal: 565, prot: 43, hc: 42, grasa: 25 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "de cuchara", "alta en proteína", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "de cuchara", "alta en proteína", "una sola sartén", "superalimentos", "poco especiada"],
   consejo: "Para un sabor marinero más intenso, saltea las cabezas y cáscaras de los langostinos en el aceite antes del sofrito y retíralas. Sin azafrán, una pizca de cúrcuma da color.",
   contundencia: "media",
   coste: "premium"
@@ -495,7 +495,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con el resto del parmesano y un hilo de aceite crudo por encima."
   ],
   nutricion: { kcal: 689, prot: 36, hc: 89, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "de cuchara", "invierno", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "de cuchara", "invierno", "económica", "superalimentos", "bajo en colesterol"],
   consejo: "El orzo sigue absorbiendo líquido al reposar: si recalientas sobras, añade un chorrito de caldo o agua. Con un huevo poché encima queda espectacular.",
   contundencia: "contundente",
   coste: "económica"
@@ -539,7 +539,7 @@ window.RECETAS_SEED.push({
     "Sirve el estofado en platos hondos con el huevo encima, parmesano rallado, ralladura de limón, la menta restante y un hilo de aceite."
   ],
   nutricion: { kcal: 454, prot: 28, hc: 36, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "primavera", "de cuchara"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "primavera", "de cuchara", "poco especiada"],
   consejo: "Con alcachofas en conserva bien escurridas ahorras la limpieza y 10 minutos de cocción. Unas lascas de jamón serrano crujiente encima la convierten en plato de fiesta.",
   contundencia: "ligera",
   coste: "media"
@@ -583,7 +583,7 @@ window.RECETAS_SEED.push({
     "Desmiga la feta por encima y termina con el resto del eneldo. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 618, prot: 25, hc: 53, grasa: 34 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "ideal para llevar", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "ideal para llevar", "económica", "poco especiada"],
   consejo: "En Grecia se comen templados o incluso fríos al día siguiente, cuando el sabor ha reposado. Mójalos con buen pan y acompaña con una ensalada de pepino.",
   contundencia: "media",
   coste: "económica"
@@ -626,7 +626,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas con el salmón en lascas grandes encima y el resto de la salsa verde por encima."
   ],
   nutricion: { kcal: 587, prot: 42, hc: 35, grasa: 31 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "alta en proteína"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "La salsa verde aguanta 2 días en la nevera cubierta de aceite y sirve también para pescado blanco o patatas. Si sobra salmón, desmígalo con las lentejas en una ensalada fría.",
   contundencia: "media",
   coste: "premium"
@@ -672,7 +672,7 @@ window.RECETAS_SEED.push({
     "Mientras, mezcla el yogur con la menta picada, sal y unas gotas de limón. Trocea tomate y pepino y alíñalos con el resto del aceite, perejil y sal. Sirve las tortitas con el yogur y la ensalada."
   ],
   nutricion: { kcal: 465, prot: 26, hc: 52, grasa: 17 },
-  etiquetas: ["mediterránea", "aromática", "ligera", "al horno", "para niños", "ideal para llevar"],
+  etiquetas: ["mediterránea", "aromática", "ligera", "al horno", "para niños", "ideal para llevar", "detox", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "Si la masa queda blanda, añade una cucharada más de harina de garbanzo. Las tortitas sobrantes son perfectas metidas en una pita con lechuga y el yogur.",
   contundencia: "ligera",
   coste: "económica"
@@ -716,7 +716,7 @@ window.RECETAS_SEED.push({
     "Incorpora las aceitunas, cocina 2 minutos más destapado y termina con perejil picado y unas rodajas finas de limón."
   ],
   nutricion: { kcal: 667, prot: 47, hc: 41, grasa: 35 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "alta en proteína", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Los contramuslos quedan mucho más jugosos que la pechuga en guisos rápidos. Recalentado al día siguiente está incluso mejor; añade un chorrito de agua.",
   contundencia: "contundente",
   coste: "económica"
@@ -762,7 +762,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con parmesano rallado, pimienta recién molida y la última cucharada de aceite en crudo."
   ],
   nutricion: { kcal: 707, prot: 30, hc: 86, grasa: 27 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "de cuchara", "invierno", "batch cooking", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "de cuchara", "invierno", "batch cooking", "económica", "superalimentos", "poco especiada"],
   consejo: "Ribollita significa 'rehervida': al día siguiente, recaliéntala en una sartén con un poco de aceite hasta que se forme una costra tostada abajo. Si no encuentras kale, usa col rizada o acelgas.",
   contundencia: "contundente",
   coste: "económica"
@@ -805,7 +805,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré templado en platos, con la cebolla, el tomate y las alcaparras encima, el aceite restante en crudo y pimienta. Acompaña con la pita."
   ],
   nutricion: { kcal: 525, prot: 21, hc: 63, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "económica", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "económica", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "La fava espesa mucho al enfriarse: para recuperarla, bate con un poco de agua caliente. Coronada con pulpo a la plancha o sardinas se convierte en un plato de fiesta.",
   contundencia: "media",
   coste: "económica"
@@ -848,7 +848,7 @@ window.RECETAS_SEED.push({
     "Monta en una fuente: la pita crujiente, encima los garbanzos con algo de su caldo, el yogur, las almendras con su aceite rojo y el perejil picado. Sirve al momento para que la pita conserve algo de crujiente."
   ],
   nutricion: { kcal: 739, prot: 29, hc: 77, grasa: 35 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "económica"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "económica", "sin verduras", "poco especiada"],
   consejo: "Con garbanzos de bote (400 g) lo tienes en 20 minutos. Cambia las almendras por piñones para la versión más festiva, como en Damasco.",
   contundencia: "contundente",
   coste: "económica"
@@ -888,7 +888,7 @@ window.RECETAS_SEED.push({
     "Sirve con gajos del limón restante para que cada uno ajuste la acidez."
   ],
   nutricion: { kcal: 449, prot: 21, hc: 44, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "batch cooking", "económica", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "batch cooking", "económica", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si no te gusta el cilantro, usa perejil y un poco de menta. Se puede tomar templado o incluso frío en verano, con pan de pita y rabanitos.",
   contundencia: "ligera",
   coste: "económica"
@@ -930,7 +930,7 @@ window.RECETAS_SEED.push({
     "Devuelve la butifarra, cocina 3 minutos más destapado y termina con el resto de la menta picada. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 706, prot: 38, hc: 35, grasa: 46 },
-  etiquetas: ["mediterránea", "aromática", "de cuchara", "primavera"],
+  etiquetas: ["mediterránea", "aromática", "de cuchara", "primavera", "poco especiada"],
   consejo: "La menta es la clave del plato: no te la saltes. Con habas frescas pequeñas de temporada reduce la cocción a 10 minutos. Para aligerarlo, usa solo la butifarra y sáltate la panceta.",
   contundencia: "contundente",
   coste: "media"
@@ -974,7 +974,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con unas gotas de limón, sal y la menta restante, y sirve los pimientos con una cucharada encima."
   ],
   nutricion: { kcal: 457, prot: 24, hc: 43, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Prepara el relleno con antelación: aguanta 3 días en la nevera. Añade un puñado de piñones o nueces picadas para un toque crujiente.",
   contundencia: "ligera",
   coste: "media"
@@ -1061,7 +1061,7 @@ window.RECETAS_SEED.push({
     "Retira el romero, prueba de sal y termina con la ralladura de limón y el perejil picado."
   ],
   nutricion: { kcal: 744, prot: 47, hc: 49, grasa: 40 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "batch cooking", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "El trabajo activo es de apenas 20 minutos; el horno hace el resto. Sirve con una cucharada de yogur griego y menta para refrescar. Congela muy bien en raciones.",
   contundencia: "contundente",
   coste: "premium"

@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y el tomillo y sirve en platos hondos con el resto del perejil por encima."
   ],
   nutricion: { kcal: 720, prot: 45, hc: 73, grasa: 27 },
-  etiquetas: ["de cuchara", "invierno", "cremosa", "casera", "para niños"],
+  etiquetas: ["de cuchara", "invierno", "cremosa", "casera", "para niños", "poco especiada"],
   consejo: "No levantes la tapa mientras cuecen los dumplings: sin el vapor se quedan densos. Si sobra sopa, los dumplings absorben caldo; añade un poco al recalentar.",
   contundencia: "contundente",
   coste: "económica"
@@ -92,7 +92,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el huevo partido por la mitad, las setas reservadas, los picatostes y perejil picado."
   ],
   nutricion: { kcal: 465, prot: 19, hc: 46, grasa: 23 },
-  etiquetas: ["de cuchara", "otoño", "ligera", "vegetariana", "elegante"],
+  etiquetas: ["de cuchara", "otoño", "ligera", "vegetariana", "elegante", "poco especiada"],
   consejo: "Un puñado de setas secas (boletus o shiitake) rehidratadas 15 minutos, con su agua colada en el caldo, multiplica el sabor por dos.",
   contundencia: "ligera",
   coste: "media"
@@ -136,7 +136,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema repartiendo el bacalao, riega con el aceite de pimentón y termina con perejil picado."
   ],
   nutricion: { kcal: 445, prot: 34, hc: 45, grasa: 14 },
-  etiquetas: ["de cuchara", "ligera", "invierno", "alta en proteína", "cuaresma"],
+  etiquetas: ["de cuchara", "ligera", "invierno", "alta en proteína", "cuaresma", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si usas bacalao en su punto de sal de bandeja, no añadas sal a la crema hasta probar al final. Sin el bacalao, la base congela bien.",
   contundencia: "ligera",
   coste: "media"
@@ -178,7 +178,7 @@ window.RECETAS_SEED.push({
     "Sirve caliente con el queso de cabra desmenuzado por encima, las nueces y el eneldo picado."
   ],
   nutricion: { kcal: 425, prot: 13, hc: 41, grasa: 23 },
-  etiquetas: ["de cuchara", "al horno", "ligera", "vegetariana", "otoño", "sin gluten"],
+  etiquetas: ["de cuchara", "al horno", "ligera", "vegetariana", "otoño", "sin gluten", "poco especiada"],
   consejo: "También está buena fría en verano. Usa guantes o un tenedor para manejar la remolacha cruda si no quieres manos moradas.",
   contundencia: "ligera",
   coste: "media"
@@ -316,7 +316,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de la albahaca en hojas, pimienta y un hilo de aceite."
   ],
   nutricion: { kcal: 585, prot: 44, hc: 40, grasa: 27 },
-  etiquetas: ["de cuchara", "al horno", "alta en proteína", "verano", "batch cooking"],
+  etiquetas: ["de cuchara", "al horno", "alta en proteína", "verano", "batch cooking", "poco especiada"],
   consejo: "La crema (sin albóndigas) se congela perfecta; y en verano, fría, es un gazpacho asado buenísimo.",
   contundencia: "media",
   coste: "media"
@@ -406,7 +406,7 @@ window.RECETAS_SEED.push({
     "Apaga, deja reposar 2 minutos y sirve con unas gotas de limón en cada plato."
   ],
   nutricion: { kcal: 460, prot: 19, hc: 63, grasa: 14 },
-  etiquetas: ["de cuchara", "económica", "ligera", "vegana", "una sola cazuela", "invierno"],
+  etiquetas: ["de cuchara", "económica", "ligera", "vegana", "una sola cazuela", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Un huevo duro picado por encima o unos taquitos de jamón la hacen aún más completa. Los fideos se hinchan al guardarla: añade caldo al recalentar.",
   contundencia: "ligera",
   coste: "económica"
@@ -447,7 +447,7 @@ window.RECETAS_SEED.push({
     "Disuelve el pimentón en un cacillo de caldo y añádelo. Prueba de sal (el lacón ya la aporta), deja reposar 5 minutos y sirve en cuencos hondos."
   ],
   nutricion: { kcal: 620, prot: 44, hc: 77, grasa: 15 },
-  etiquetas: ["de cuchara", "invierno", "tradicional", "cocción lenta", "batch cooking", "sin gluten"],
+  etiquetas: ["de cuchara", "invierno", "tradicional", "cocción lenta", "batch cooking", "sin gluten", "poco especiada"],
   consejo: "Como todos los caldos de legumbre, está mejor al día siguiente. Si no has puesto las alubias en remojo, usa 350 g de judías blancas cocidas y añádelas en el paso 4.",
   contundencia: "media",
   coste: "económica"
@@ -493,7 +493,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, sazona con sal y el zumo de medio limón y sirve con perejil picado y gajos del limón restante."
   ],
   nutricion: { kcal: 450, prot: 31, hc: 44, grasa: 16 },
-  etiquetas: ["de cuchara", "ligera", "invierno", "reconfortante", "para niños", "económica"],
+  etiquetas: ["de cuchara", "ligera", "invierno", "reconfortante", "para niños", "económica", "bajo en colesterol"],
   consejo: "Si la haces para guardar, cuece los fideos aparte y añádelos al servir. Un chorrito de leche de coco al final la convierte en otra sopa distinta.",
   contundencia: "ligera",
   coste: "económica"
@@ -583,7 +583,7 @@ window.RECETAS_SEED.push({
     "Sirve con los mejillones de media concha encima, perejil picado abundante y el pan tostado al lado."
   ],
   nutricion: { kcal: 465, prot: 25, hc: 56, grasa: 15 },
-  etiquetas: ["de cuchara", "ligera", "marisco", "elegante", "primavera"],
+  etiquetas: ["de cuchara", "ligera", "marisco", "elegante", "primavera", "poco especiada"],
   consejo: "Si te sobran mejillones abiertos, en escabeche rápido (vinagre, aceite, pimentón y laurel) aguantan 4 días en la nevera.",
   contundencia: "ligera",
   coste: "premium"
@@ -720,7 +720,7 @@ window.RECETAS_SEED.push({
     "Sirve con el parmesano rallado, pimienta recién molida y el resto del aceite en crudo, generoso, por encima."
   ],
   nutricion: { kcal: 620, prot: 29, hc: 78, grasa: 21 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "vegetariana", "económica", "integral"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "vegetariana", "económica", "integral", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Espesa mucho al enfriarse (en Toscana la recalientan al día siguiente y la llaman ribollita); añade caldo o agua y vuelve a hervir.",
   contundencia: "media",
   coste: "económica"
@@ -767,7 +767,7 @@ window.RECETAS_SEED.push({
     "Reparte los fideos en dos boles, vierte la sopa (retira la hierba limón) y corona con los brotes, el cilantro, la menta, la parte verde de la cebolleta, el resto del chile y gajos de lima."
   ],
   nutricion: { kcal: 445, prot: 31, hc: 60, grasa: 9 },
-  etiquetas: ["de cuchara", "rápida", "ligera", "sin gluten", "fresca", "alta en proteína"],
+  etiquetas: ["de cuchara", "rápida", "ligera", "sin gluten", "fresca", "alta en proteína", "bajo en colesterol"],
   consejo: "Funciona igual con pollo o cerdo picados. Si quieres más cuerpo, añade un huevo batido en hilo al caldo hirviendo en el último minuto.",
   contundencia: "ligera",
   coste: "económica"
@@ -813,7 +813,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y sirve bien caliente con perejil picado. Un trozo de pan de centeno al lado le va perfecto."
   ],
   nutricion: { kcal: 730, prot: 38, hc: 62, grasa: 36 },
-  etiquetas: ["de cuchara", "invierno", "una sola cazuela", "batch cooking", "rústica"],
+  etiquetas: ["de cuchara", "invierno", "una sola cazuela", "batch cooking", "rústica", "poco especiada"],
   consejo: "Con salchicha de pollo o pavo bajas bastante la grasa. Y si tienes col rizada o kale, añádela en los últimos 8 minutos en lugar de la col blanca.",
   contundencia: "contundente",
   coste: "económica"
@@ -855,7 +855,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema fría con el feta desmenuzado, las hojas de menta reservadas, pimienta y el pan crujiente partido por encima."
   ],
   nutricion: { kcal: 440, prot: 21, hc: 44, grasa: 20 },
-  etiquetas: ["frío", "verano", "rápida", "ligera", "vegetariana", "de cuchara"],
+  etiquetas: ["frío", "verano", "rápida", "ligera", "vegetariana", "de cuchara", "poco especiada"],
   consejo: "También está buena templada en primavera. Para una versión vegana, sustituye el yogur por 50 ml de leche de coco y el feta por almendras tostadas.",
   contundencia: "ligera",
   coste: "económica"
@@ -896,7 +896,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa con las tiras de pollo encima, el resto del parmesano en lascas y hojas de albahaca."
   ],
   nutricion: { kcal: 445, prot: 42, hc: 30, grasa: 17 },
-  etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "verano", "sin gluten"],
+  etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "verano", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "En verano, enfríala y sírvela como una crema fría con el pollo también frío: una cena completa sin encender el horno.",
   contundencia: "ligera",
   coste: "económica"
@@ -1033,7 +1033,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y añade la pimienta blanca. Sirve de inmediato con la cebolleta en aros finos."
   ],
   nutricion: { kcal: 300, prot: 22, hc: 19, grasa: 15 },
-  etiquetas: ["rápida", "ligera", "de cuchara", "vegetariana", "cena ligera", "económica"],
+  etiquetas: ["rápida", "ligera", "de cuchara", "vegetariana", "cena ligera", "económica", "poco especiada"],
   consejo: "Un bol de arroz jazmín al lado la convierte en comida completa. Si quieres más sabor, usa caldo de pollo y añade unas gotas de vinagre de arroz al final.",
   contundencia: "ligera",
   coste: "económica"
@@ -1123,7 +1123,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con las setas y castañas salteadas en el centro, el bacon crujiente, perejil picado y un hilo del aceite restante."
   ],
   nutricion: { kcal: 600, prot: 16, hc: 76, grasa: 26 },
-  etiquetas: ["de cuchara", "otoño", "cremosa", "sin gluten", "elegante"],
+  etiquetas: ["de cuchara", "otoño", "cremosa", "sin gluten", "elegante", "poco especiada"],
   consejo: "Para una versión vegetariana, cambia el bacon por avellanas tostadas y usa caldo de verduras: pierde lo ahumado pero gana en crujiente.",
   contundencia: "media",
   coste: "media"

@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Deja reposar los rollitos 3 minutos, quita los palillos, córtalos en medallones y sírvelos con los trigueros y la ensalada."
   ],
   nutricion: { kcal: 355, prot: 44, hc: 10, grasa: 15.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "ligera", "fácil", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "ligera", "fácil", "tupper", "ideal para llevar", "poco especiada"],
   consejo: "Para el tupper, guarda los rollitos enteros (se secan menos que cortados) y la ensalada aparte sin aliñar. Si los vas a recalentar, 3 minutos a 170 °C en la airfryer los deja como recién hechos.",
   contundencia: "ligera",
   coste: "media",
@@ -79,7 +79,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmón sobre la quinoa con los espárragos y gajos de limón."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 40, grasa: 34 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "rápida", "fácil", "omega 3"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "rápida", "fácil", "omega 3", "superalimentos", "poco especiada"],
   consejo: "No des la vuelta al salmón: la costra se quedaría en la cesta. Si tu airfryer calienta mucho por arriba, cubre la costra con un trozo de papel de horno los primeros 5 minutos.",
   contundencia: "media",
   coste: "premium",
@@ -90,7 +90,7 @@ window.RECETAS_SEED.push({
   id: "inv-1813",
   nombre: "Frittata de brócoli, guisantes y parmesano en airfryer con ensalada de tomate",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
     "Deja templar la frittata 5 minutos, desmóldala y córtala en porciones."
   ],
   nutricion: { kcal: 440, prot: 31, hc: 18, grasa: 27 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "fácil", "alta en proteína", "tupper", "ideal para llevar", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "fácil", "alta en proteína", "tupper", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera y está igual de buena fría, en un bocadillo o con ensalada. Cambia el brócoli por espárragos trigueros o espinacas según lo que tengas.",
   contundencia: "ligera",
   coste: "económica",
@@ -162,7 +162,7 @@ window.RECETAS_SEED.push({
     "Sirve la ensalada con las judías crujientes por encima en el último momento, la salsa de tahini y la pita en triángulos."
   ],
   nutricion: { kcal: 590, prot: 23.5, hc: 74.5, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "económica", "fácil", "alta en fibra"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "económica", "fácil", "alta en fibra", "poco especiada", "bajo en colesterol"],
   consejo: "Las judías crujientes pierden la textura en la nevera: si quieres adelantar, deja la ensalada y la salsa hechas y tuesta las judías justo antes de comer. Sirven igual garbanzos o alubias rojas.",
   contundencia: "media",
   coste: "económica",
@@ -173,7 +173,7 @@ window.RECETAS_SEED.push({
   id: "inv-1815",
   nombre: "Tofu al sriracha y lima en airfryer con fideos de arroz, zanahoria y pepino",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -205,7 +205,7 @@ window.RECETAS_SEED.push({
     "Reparte los fideos con la zanahoria y el pepino, coloca el tofu con su salsa encima y termina con cacahuetes picados y cilantro."
   ],
   nutricion: { kcal: 620, prot: 31.5, hc: 67, grasa: 25 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "picante", "fácil", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "picante", "fácil", "tupper", "ideal para llevar", "bajo en colesterol"],
   consejo: "Para llevar, guarda el tofu y la salsa en un recipiente y los fideos con las verduras en otro: se come frío o templado. Ajusta la sriracha si no te gusta el picante.",
   contundencia: "media",
   coste: "media",
@@ -248,7 +248,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas con la salsa de yogur por encima o al lado."
   ],
   nutricion: { kcal: 310, prot: 41, hc: 12.5, grasa: 10.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "ligera", "fácil", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "ligera", "fácil", "tupper", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Para una comida más completa, acompáñalas con arroz integral o con una patata asada en la propia airfryer (25 minutos a 200 °C). El pavo se seca si te pasas: sácalo en cuanto deje de estar rosado.",
   contundencia: "ligera",
   coste: "económica",
@@ -290,7 +290,7 @@ window.RECETAS_SEED.push({
     "Sirve con gajos de limón para exprimir por encima."
   ],
   nutricion: { kcal: 460, prot: 39.5, hc: 38, grasa: 16.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "ligera", "alta en proteína", "fácil", "para niños", "una sola cesta"],
+  etiquetas: ["saludable", "práctica", "airfryer", "ligera", "alta en proteína", "fácil", "para niños", "una sola cesta", "poco especiada"],
   consejo: "Con merluza congelada funciona igual: descongélala en la nevera la noche antes y sécala muy bien con papel para que la costra no se humedezca.",
   contundencia: "ligera",
   coste: "media",
@@ -334,7 +334,7 @@ window.RECETAS_SEED.push({
     "Mezcla las verduras y la naranja con el aliño, reparte el pollo por encima y termina con cacahuetes picados, sésamo y cilantro."
   ],
   nutricion: { kcal: 380, prot: 39, hc: 21.5, grasa: 15.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "rápida", "fácil", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "rápida", "fácil", "tupper", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "La col china aguanta crujiente hasta el día siguiente incluso aliñada, así que es ideal para el tupper. Lleva los cacahuetes aparte para que no se ablanden.",
   contundencia: "ligera",
   coste: "económica",
@@ -377,7 +377,7 @@ window.RECETAS_SEED.push({
     "Sirve calientes o templados con el relleno que haya sobrado como guarnición."
   ],
   nutricion: { kcal: 510, prot: 20, hc: 60, grasa: 21 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "fácil", "económica", "tupper", "ideal para llevar", "verano"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "fácil", "económica", "tupper", "ideal para llevar", "verano", "poco especiada"],
   consejo: "Están muy buenos al día siguiente a temperatura ambiente. Para que no se abran, elige tomates de pera grandes o de ensalada firmes y no te pases de tiempo.",
   contundencia: "media",
   coste: "económica",
@@ -422,7 +422,7 @@ window.RECETAS_SEED.push({
     "Corta el pollo en tiras y sírvelo con el arroz, las judías, la salsa de yogur y gajos de lima."
   ],
   nutricion: { kcal: 530, prot: 38.5, hc: 54, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "económica", "tupper", "ideal para llevar", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "económica", "tupper", "ideal para llevar", "batch cooking", "bajo en colesterol"],
   consejo: "Prepara el doble de mezcla de especias cajún y guárdala en un bote: sirve para pescado, tofu o patatas. El arroz integral cocido aguanta 4 días en la nevera.",
   contundencia: "media",
   coste: "económica",
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
     "Riega con el resto del aceite y unas gotas de limón y sirve directamente del molde."
   ],
   nutricion: { kcal: 500, prot: 45.5, hc: 36, grasa: 19 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "un solo recipiente"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "un solo recipiente", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Sirve con cualquier pescado blanco (merluza, bacalao fresco, pescadilla). Para el tupper, recaliéntalo tapado en el microondas a potencia media para que el pescado no se reseque.",
   contundencia: "media",
   coste: "media",
@@ -476,7 +476,7 @@ window.RECETAS_SEED.push({
   id: "inv-1822",
   nombre: "Bocados de calabacín, ricotta y parmesano en airfryer con salsa de tomate y albahaca",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -508,7 +508,7 @@ window.RECETAS_SEED.push({
     "Sirve los bocados sobre la salsa de tomate con el resto de la albahaca."
   ],
   nutricion: { kcal: 450, prot: 27, hc: 29, grasa: 25.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "ligera", "fácil", "para niños", "tupper", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "ligera", "fácil", "para niños", "tupper", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "El paso clave es escurrir bien el calabacín: si no, los bocados quedan blandos. Se congelan ya cocinados y se recalientan en la airfryer 6 minutos a 180 °C.",
   contundencia: "ligera",
   coste: "económica",
@@ -595,7 +595,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con un hilo de aceite de pimentón y pimienta recién molida."
   ],
   nutricion: { kcal: 300, prot: 13.5, hc: 30, grasa: 14 },
-  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "sin gluten", "vegana", "ligera", "fácil", "económica", "tupper", "batch cooking", "invierno"],
+  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "sin gluten", "vegana", "ligera", "fácil", "económica", "tupper", "batch cooking", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Las alubias dan cremosidad sin nata y añaden proteína. Aguanta 4 días en la nevera y se congela sin problema; guarda el aceite de pimentón aparte.",
   contundencia: "ligera",
   coste: "económica",
@@ -636,7 +636,7 @@ window.RECETAS_SEED.push({
     "Sirve las sardinas con las patatas, los pimientos, perejil picado y limón."
   ],
   nutricion: { kcal: 680, prot: 44, hc: 52, grasa: 33 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "omega 3", "fácil", "económica", "verano"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "omega 3", "fácil", "económica", "verano", "poco especiada"],
   consejo: "La airfryer evita el humo y el olor de las sardinas a la plancha; pon un poco de agua en la base del cajón para que la grasa no humee. Los pimientos asados aguantan 5 días en la nevera con su aliño.",
   contundencia: "contundente",
   coste: "económica",
@@ -678,7 +678,7 @@ window.RECETAS_SEED.push({
     "Corta el pollo en tiras y sírvelo sobre el arroz con cebolleta picada y sésamo."
   ],
   nutricion: { kcal: 550, prot: 42.5, hc: 56.5, grasa: 17 },
-  etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "tupper", "ideal para llevar", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "tupper", "ideal para llevar", "batch cooking", "sin verduras", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El miso es salado: no añadas sal al pollo. Si necesitas que sea sin gluten, usa un miso de arroz o de soja certificado (algunos llevan cebada).",
   contundencia: "media",
   coste: "media",
@@ -689,7 +689,7 @@ window.RECETAS_SEED.push({
   id: "inv-1827",
   nombre: "Coliflor glaseada al gochujang en airfryer con edamame y arroz jazmín",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -721,7 +721,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz con el edamame, con cebolleta picada y sésamo por encima."
   ],
   nutricion: { kcal: 525, prot: 22, hc: 75.5, grasa: 15 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "picante", "fácil", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "picante", "fácil", "tupper", "ideal para llevar", "superalimentos", "bajo en colesterol"],
   consejo: "El gochujang es una pasta coreana fermentada de chile que pica y es algo dulce: si no la encuentras, usa sriracha con una punta de miso. Recalentada pierde algo de crujiente, pero el glaseado sigue estando delicioso.",
   contundencia: "media",
   coste: "media",
@@ -764,7 +764,7 @@ window.RECETAS_SEED.push({
     "Mezcla la quinoa con las verduras asadas, los canónigos y el aliño, y termina con los arándanos y las semillas."
   ],
   nutricion: { kcal: 460, prot: 16, hc: 54.5, grasa: 20 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "ligera", "fácil", "tupper", "ideal para llevar", "batch cooking", "otoño"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "ligera", "fácil", "tupper", "ideal para llevar", "batch cooking", "otoño", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para el tupper, pon los canónigos encima y aliña al comer. Si quieres más proteína, añade 150 g de garbanzos cocidos asados con la calabaza o un huevo duro por persona.",
   contundencia: "ligera",
   coste: "media",
@@ -850,7 +850,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz con el pepino escurrido, cebolleta picada, sésamo y gajos de la otra media naranja."
   ],
   nutricion: { kcal: 570, prot: 34.5, hc: 59, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "omega 3", "fácil", "económica"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "omega 3", "fácil", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La caballa es uno de los pescados azules más baratos y ricos en omega 3. Si te cuesta encontrarla fresca en lomos, pide al pescadero que te la abra en mariposa y quite la espina central.",
   contundencia: "media",
   coste: "económica",
@@ -861,7 +861,7 @@ window.RECETAS_SEED.push({
   id: "inv-1831",
   nombre: "Paneer al tandoori en airfryer con pimientos, cebolla morada y arroz basmati",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -940,7 +940,7 @@ window.RECETAS_SEED.push({
     "Mientras, corta los tomates en gajos y alíñalos con el aceite restante, el orégano y sal. Sirve los rollitos con la ensalada."
   ],
   nutricion: { kcal: 610, prot: 28, hc: 61, grasa: 28 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "tupper", "ideal para llevar", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "tupper", "ideal para llevar", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Mantén las hojas de filo que no estés usando tapadas con un paño húmedo para que no se sequen. Los rollitos se congelan crudos y se hornean directamente congelados sumando 5 minutos.",
   contundencia: "media",
   coste: "media",
@@ -985,7 +985,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con la mostaza y monta las hamburguesas con lechuga, tomate y la salsa. Sirve con las patatas."
   ],
   nutricion: { kcal: 680, prot: 50, hc: 82, grasa: 17 },
-  etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "económica", "para niños"],
+  etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "económica", "para niños", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "Las hamburguesas crudas se congelan separadas con papel de horno; cocínalas congeladas a 180 °C durante 18 minutos. Para menos hidratos, sírvelas sin pan sobre hojas de lechuga.",
   contundencia: "contundente",
   coste: "económica",
@@ -1030,7 +1030,7 @@ window.RECETAS_SEED.push({
     "Sirve el pez espada sobre la ensalada con la salsa de yogur a la menta."
   ],
   nutricion: { kcal: 340, prot: 36.5, hc: 15, grasa: 15 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "fácil", "verano"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "fácil", "verano", "bajo en colesterol"],
   consejo: "No dejes el pescado en la marinada más de 30 minutos: el ácido del yogur y el limón empieza a cocinarlo. Para comida, acompáñalo de arroz basmati o pan naan. Funciona igual con rape o con langostinos.",
   contundencia: "ligera",
   coste: "premium",
@@ -1072,7 +1072,7 @@ window.RECETAS_SEED.push({
     "Aligera el resto de la mezcla de mostaza con el aceite restante y una cucharada de agua y riega los boles."
   ],
   nutricion: { kcal: 575, prot: 45, hc: 45, grasa: 24 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para el tupper, corta el aguacate en el momento o rocíalo con limón para que no se oscurezca. La quinoa cocida aguanta 4 días en la nevera y se congela bien en raciones.",
   contundencia: "media",
   coste: "media",

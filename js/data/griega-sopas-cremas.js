@@ -50,7 +50,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con la feta desmigada por encima, el resto del orégano frotado entre los dedos y pimienta negra recién molida. La feta se ablanda con el calor y se funde en la sopa al removerla."
   ],
   nutricion: { kcal: 510, prot: 15, hc: 60, grasa: 23 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "para niños", "verano", "vegetariana"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "para niños", "verano", "vegetariana", "poco especiada"],
   consejo: "Es la sopa de entre semana de muchas casas griegas: en verano se hace con tomate de huerta y en invierno con tomate de bote (400 g de tomate triturado en lugar de los frescos, y te ahorras el rallado). El orzo sigue absorbiendo caldo en reposo, así que si la guardas para el día siguiente recaliéntala con un chorrito de agua. Si no encuentras orzo, usa fideo grueso o arroz redondo (15 minutos de cocción).",
   tupper: true,
   contundencia: "media",
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
     "Vierte la mezcla en la olla moviéndola en vaivén y calienta a fuego mínimo 2 minutos, sin que llegue a hervir, hasta que la sopa se vuelva opaca y ligeramente cremosa. Termina con pimienta negra y el eneldo reservado."
   ],
   nutricion: { kcal: 695, prot: 53, hc: 35, grasa: 38 },
-  etiquetas: ["tradicional", "de cuchara", "primavera", "alta en proteína", "sin gluten"],
+  etiquetas: ["tradicional", "de cuchara", "primavera", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "En toda Grecia se toma de madrugada, al volver de la misa de Resurrección, para romper los cuarenta días de ayuno antes del cordero asado del Domingo de Pascua; por eso aprovecha la asadura del animal. Si la asadura te impone, sustitúyela por 300 g de paletilla deshuesada en dados pequeños: queda más suave pero igual de griega. El avgolemono no admite hervor, así que sírvela recién hecha y, si sobra, recaliéntala a fuego mínimo sin dejar de mover la olla.",
   tupper: false,
   contundencia: "contundente",
@@ -142,7 +142,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego y añade el zumo de medio limón y las 2 cucharadas de aceite restantes en crudo. Sirve con el perejil picado y el resto del limón en gajos, y pon al lado la cebolla morada en juliana y las aceitunas, como se acompañan en Grecia las sopas de legumbre."
   ],
   nutricion: { kcal: 520, prot: 21, hc: 42, grasa: 28 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "vegana", "sin gluten", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "vegana", "sin gluten", "batch cooking", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "En Grecia las habas se comen desde la Antigüedad (Pitágoras prohibía a sus discípulos probarlas) y siguen siendo una de las legumbres de los días de ayuno. Compra las peladas y partidas: se cuecen en menos de una hora y se deshacen solas; las enteras con piel necesitan 24 horas de remojo y pelarlas una a una. El aceite en crudo del final es parte del plato, no lo recortes. Espesa mucho al enfriarse, así que al recalentarla añade un poco de agua. Aguanta 4 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "media",
@@ -187,7 +187,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade el perejil picado, la cucharada de aceite restante en crudo y más pimienta recién molida. Deja reposar 5 minutos antes de servir: debe quedar espesa y muy aromática."
   ],
   nutricion: { kcal: 555, prot: 20, hc: 69, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "vegana", "batch cooking", "otoño"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "vegana", "batch cooking", "otoño", "superalimentos", "bajo en colesterol"],
   consejo: "Corfú pasó cuatro siglos bajo Venecia y se nota en su cocina: esta sopa campesina es pariente de la minestra véneta, y la pimienta negra generosa es su seña de identidad. Si cueces las alubias en casa, usa 100 g en seco y aprovecha su caldo en lugar de parte del agua. Al recalentarla la pasta espesa la sopa: añade agua caliente y un hilo de aceite.",
   tupper: true,
   contundencia: "media",
@@ -232,7 +232,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos el caldo con las verduras, añade el pescado y las patatas, riega con el ladolémono y espolvorea el perejil picado."
   ],
   nutricion: { kcal: 615, prot: 38, hc: 47, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "alta en proteína", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "El nombre viene del kakaví, la olla que los pescadores llevaban en la barca: la sopa se hacía con los peces pequeños que no se vendían, y por eso queda mejor con varios pescados de roca que con uno noble. Muchos la consideran la abuela de la bullabesa. Si solo encuentras un tipo de pescado, usa 500 g de rape o merluza en rodajas más 300 g de cabezas y espinas, que dan la gelatina. No es plato para guardar: el pescado recalentado se reseca.",
   tupper: false,
   contundencia: "media",
@@ -272,7 +272,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa en cuencos y riégala con la mantequilla de menta justo en la mesa."
   ],
   nutricion: { kcal: 375, prot: 15, hc: 34, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "invierno", "vegetariana"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "invierno", "vegetariana", "sin verduras", "poco especiada"],
   consejo: "Es una sopa de los griegos del Ponto, la costa sur del mar Negro, que la llevaron a Tracia y a Macedonia cuando se instalaron allí con el intercambio de población de 1923. Se hace con korkotó (trigo descascarillado y partido); el bulgur grueso es el sustituto más fiel, y también vale el arroz redondo. El huevo y la harina son los que impiden que el yogur se corte al hervir: remueve siempre en el mismo sentido y no tengas prisa. Recién hecha está mucho mejor que recalentada.",
   tupper: false,
   contundencia: "ligera",
@@ -318,7 +318,7 @@ window.RECETAS_SEED.push({
     "Sirve primero el caldo con el arroz, con unas gotas de limón y pimienta negra. Después, la carne en trozos y las verduras, regadas con el aceite en crudo, el resto del zumo de limón, sal y el perejil picado."
   ],
   nutricion: { kcal: 670, prot: 47, hc: 62, grasa: 25 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "sin gluten", "alta en proteína", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "sin gluten", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Es el puchero de casa de toda la Grecia continental y se come en dos vuelcos, como un cocido. Si quieres un caldo más cremoso, lígalo al final con un avgolemono: 1 huevo batido con el zumo de un limón, templado con un cazo de caldo y añadido fuera del fuego. En olla exprés, la carne está tierna en 35 minutos. El caldo y la carne se congelan bien; la patata, mejor no.",
   tupper: true,
   contundencia: "contundente",
@@ -363,7 +363,7 @@ window.RECETAS_SEED.push({
     "Sirve con la feta desmigada por encima y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 450, prot: 13, hc: 52, grasa: 21 },
-  etiquetas: ["tradicional", "de cuchara", "primavera", "económica", "ligera", "sin gluten", "vegetariana"],
+  etiquetas: ["tradicional", "de cuchara", "primavera", "económica", "ligera", "sin gluten", "vegetariana", "detox", "superalimentos", "poco especiada"],
   consejo: "En las aldeas del Epiro las ortigas se recogen en marzo y abril, antes de que florezcan, para las pites y para esta sopa. Busca las de zonas limpias, lejos de caminos, o pídelas en mercados de productores. Si no las encuentras, hazla solo con espinacas, o con espinacas y acelgas (300 g en total): queda menos terrosa pero igual de rica. Aguanta 2 días en la nevera; el verde se apaga un poco al recalentarla.",
   tupper: true,
   contundencia: "ligera",
@@ -408,7 +408,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego y añade el zumo del limón, la cucharada de aceite restante en crudo y pimienta negra. Deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 520, prot: 19, hc: 58, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "vegana", "batch cooking", "otoño", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "vegana", "batch cooking", "otoño", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El 21 de noviembre es la fiesta de la Panagía Mesosporítissa, «la de mitad de la siembra», y en muchos pueblos griegos se cuecen juntas todas las semillas que se están sembrando para llevarlas a bendecir y pedir una buena cosecha. Versión exprés para entre semana: usa garbanzos y alubias de bote (150 g de cada), lentejas cocidas y trigo tierno precocido, y la sopa está en 30 minutos. Mejora de un día para otro y se congela muy bien.",
   tupper: true,
   contundencia: "media",
@@ -453,7 +453,7 @@ window.RECETAS_SEED.push({
     "Aplasta unos dados de patata contra la pared de la cazuela para espesar. Apaga el fuego y añade el zumo del limón, la cucharada de aceite restante en crudo, el perejil y las hojas de apio picados. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 445, prot: 8, hc: 58, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "vegana", "ligera", "económica", "sin gluten"],
+  etiquetas: ["tradicional", "de cuchara", "vegana", "ligera", "económica", "sin gluten", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Es una sopa nistísimi, de las que se comen durante la Cuaresma ortodoxa, sin carne, pescado, lácteos ni huevo: el sabor se lo dan el aceite de oliva abundante, el tomate y el limón final. Fuera de Cuaresma, acompáñala con un taco de feta y aceitunas, o con un huevo duro, para hacerla más completa. Está aún mejor al día siguiente y aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
@@ -495,7 +495,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa muy fría en cuencos con los dados de pepino, las nueces, el resto del eneldo picado y un hilo de aceite de menta por encima."
   ],
   nutricion: { kcal: 430, prot: 11, hc: 16, grasa: 36 },
-  etiquetas: ["creativa", "verano", "ligera", "sin gluten", "vegetariana", "ideal para llevar"],
+  etiquetas: ["creativa", "verano", "ligera", "sin gluten", "vegetariana", "ideal para llevar", "keto", "poco especiada"],
   consejo: "Es el tzatziki llevado al cuenco, con la menta del talattoúri chipriota. Para que no quede aguada, usa yogur griego espeso; si solo tienes yogur natural, escúrrelo 1 hora en un colador forrado con papel de cocina. Aguanta 2 días en la nevera en un tarro bien cerrado: guarda aparte las nueces y el aceite de menta y remuévela antes de servir.",
   tupper: true,
   contundencia: "ligera",
@@ -544,7 +544,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade el resto del zumo de limón y rectifica de sal. Sirve la sopa con una cucharada de tzatziki en el centro, pimienta recién molida y la pita para mojar."
   ],
   nutricion: { kcal: 640, prot: 40, hc: 56, grasa: 28 },
-  etiquetas: ["creativa", "de cuchara", "alta en proteína", "para niños", "otoño"],
+  etiquetas: ["creativa", "de cuchara", "alta en proteína", "para niños", "otoño", "poco especiada"],
   consejo: "El souvlaki de pollo se marina siempre con limón, ajo y orégano, y esa misma marinada perfuma aquí todo el caldo; el dorado previo del pollo es lo que le da sabor a asado, así que no te lo saltes. Si la preparas con antelación, guarda el tzatziki y la pita aparte: la sopa aguanta 3 días en la nevera y se congela bien sin ellos. Para una versión sin gluten, sírvela sin la pita o con pan sin gluten tostado.",
   tupper: true,
   contundencia: "media",
@@ -590,7 +590,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego e incorpora la carne de los mejillones solo para que se caliente 1 minuto (si hierven, se ponen gomosos). Añade el zumo de medio limón, pimienta y las hojas de hinojo, y sirve con los mejillones en concha por encima."
   ],
   nutricion: { kcal: 450, prot: 23, hc: 48, grasa: 17 },
-  etiquetas: ["creativa", "de cuchara", "ligera", "otoño", "para invitados"],
+  etiquetas: ["creativa", "de cuchara", "ligera", "otoño", "para invitados", "poco especiada"],
   consejo: "Grecia cultiva azafrán en Kozani, en la Macedonia occidental, con denominación de origen, y del golfo Termaico, frente a Tesalónica, sale la mayor parte de los mejillones del país: esta sopa junta los dos. Cualquier azafrán en hebra de calidad sirve. Si no tienes ouzo, usa anís seco, o sáltatelo y añade media cucharadita de semillas de hinojo con el sofrito. No la guardes: los mejillones recalentados quedan duros.",
   tupper: false,
   contundencia: "ligera",
@@ -633,7 +633,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema en platos hondos con las lascas de merluza encima, la ralladura de limón, el perejil y una pizca de pimentón."
   ],
   nutricion: { kcal: 585, prot: 32, hc: 40, grasa: 33 },
-  etiquetas: ["creativa", "sin gluten", "alta en proteína", "invierno", "para invitados"],
+  etiquetas: ["creativa", "sin gluten", "alta en proteína", "invierno", "para invitados", "sin verduras", "poco especiada"],
   consejo: "En Grecia la skordaliá se hace con patata o con pan, casi siempre con almendras o nueces, y acompaña al bacalao frito, a la remolacha y a las verduras hervidas; aquí se convierte en crema caliente. Puedes usar bacalao desalado en lugar de merluza para la pareja clásica. La crema aguanta 2 días en la nevera (no la congeles, la patata se vuelve granulosa), pero el pescado hazlo siempre al momento.",
   tupper: false,
   contundencia: "media",
@@ -682,7 +682,7 @@ window.RECETAS_SEED.push({
     "Enciende el grill del horno. Reparte la sopa en dos cuencos aptos para horno, cúbrela con la crema de yogur, espolvorea el resto del queso y gratina 4–5 minutos cerca del grill, hasta que la superficie esté dorada a manchas."
   ],
   nutricion: { kcal: 720, prot: 38, hc: 50, grasa: 40 },
-  etiquetas: ["creativa", "al horno", "de cuchara", "invierno", "para invitados"],
+  etiquetas: ["creativa", "al horno", "de cuchara", "invierno", "para invitados", "poco especiada"],
   consejo: "Para adelantar trabajo, la sopa sin gratinar aguanta 3 días en la nevera y se congela bien: gratina solo al servir. El cordero le da un sabor más intenso; con ternera picada, la más habitual hoy en las casas griegas, queda más suave y más económica. Si no tienes cuencos aptos para horno, prescinde del huevo y sirve la sopa con una cucharada de yogur y el queso rallado por encima, para que se funda con el calor.",
   tupper: true,
   contundencia: "contundente",
@@ -728,7 +728,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade el zumo del limón y el resto del eneldo y rectifica de sal. Sirve con una cucharada de yogur frío en el centro y una pizca de pimentón."
   ],
   nutricion: { kcal: 570, prot: 29, hc: 48, grasa: 28 },
-  etiquetas: ["creativa", "de cuchara", "invierno", "batch cooking", "económica", "sin gluten"],
+  etiquetas: ["creativa", "de cuchara", "invierno", "batch cooking", "económica", "sin gluten", "poco especiada"],
   consejo: "Los lahanodolmades, rollitos de col rellenos de carne y arroz, se hacen en invierno en toda Grecia; en el norte, con pimentón y hojas de col fermentada, se llaman sarmades. Esta sopa reúne sus sabores sin blanquear ni enrollar hojas. Si las albóndigas se te deshacen, añade al amasarlas una cucharada de pan rallado (sin gluten, si lo necesitas). Aguanta 3 días en la nevera y se congela bien sin el yogur, que se pone siempre al servir.",
   tupper: true,
   contundencia: "media",
@@ -775,7 +775,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de la feta desmigada, el eneldo reservado, pimienta y los crujientes de filo clavados en la crema."
   ],
   nutricion: { kcal: 515, prot: 20, hc: 46, grasa: 27 },
-  etiquetas: ["creativa", "vegetariana", "para niños", "primavera", "ideal para llevar"],
+  etiquetas: ["creativa", "vegetariana", "para niños", "primavera", "ideal para llevar", "poco especiada"],
   consejo: "Sin airfryer, hornea los crujientes en el horno a 190 °C 6–7 minutos. Con espinacas congeladas, añádelas directamente en el paso 4 y cuécelas 5 minutos. La crema aguanta 3 días en la nevera y se congela sin la feta de encima; los crujientes, en un táper aparte, siguen crujientes un par de días. A los niños les encanta mojarlos en la crema.",
   tupper: true,
   contundencia: "media",
@@ -821,7 +821,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade el zumo del limón y el resto de la menta y rectifica de sal. Sirve enseguida, con pimienta recién molida."
   ],
   nutricion: { kcal: 490, prot: 42, hc: 40, grasa: 18 },
-  etiquetas: ["creativa", "de cuchara", "alta en proteína", "para niños", "batch cooking"],
+  etiquetas: ["creativa", "de cuchara", "alta en proteína", "para niños", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Los keftedes griegos llevan siempre menta, orégano y cebolla rallada con su jugo, que es lo que los mantiene jugosos; con el pavo, que es muy magro, este truco es todavía más importante. Al cocerse en el caldo sin dorar quedan tiernos y perfuman la sopa. Aguanta 3 días en la nevera y se congela bien; añade el limón y la menta frescos al recalentar.",
   tupper: true,
   contundencia: "media",
@@ -863,7 +863,7 @@ window.RECETAS_SEED.push({
     "Sirve con los guisantes por encima, el aceite de eneldo, el resto de las hojas de eneldo y pimienta recién molida."
   ],
   nutricion: { kcal: 430, prot: 11, hc: 49, grasa: 21 },
-  etiquetas: ["creativa", "vegana", "ligera", "primavera", "sin gluten"],
+  etiquetas: ["creativa", "vegana", "ligera", "primavera", "sin gluten", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "«A la políta» quiere decir «a la manera de la Ciudad», es decir, de Constantinopla: así llamaban los griegos de Estambul a sus alcachofas guisadas en aceite con patata, zanahoria y eneldo, que llevaron a Atenas. Con alcachofas frescas, límpialas, frótalas con limón y añade 5 minutos al paso 3. Para hacerla plato único, sírvela con garbanzos tostados o con un huevo poché. Aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
@@ -908,7 +908,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema caliente con el halloumi recién dorado, las semillas de calabaza, la menta, la ralladura de limón, un hilo con la cucharada de aceite restante y pimienta negra."
   ],
   nutricion: { kcal: 570, prot: 23, hc: 36, grasa: 37 },
-  etiquetas: ["creativa", "vegetariana", "otoño", "sin gluten"],
+  etiquetas: ["creativa", "vegetariana", "otoño", "sin gluten", "poco especiada"],
   consejo: "El cilantro en grano y la menta son las especias más chipriotas: van en la afelia, en las salchichas de la isla y en muchos guisos, y el halloumi es su queso más famoso. El halloumi solo está bueno caliente, así que dóralo justo antes de servir. Si no lo encuentras, usa queso para freír o feta desmigada (sin dorar). La crema sola aguanta 3 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "media",

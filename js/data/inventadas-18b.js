@@ -41,7 +41,7 @@ window.RECETAS_SEED.push({
     "Sirve con el pan tostado al lado para mojar en el fondo de jugo y aceite, que es lo mejor de la horiatiki."
   ],
   nutricion: { kcal: 555, prot: 30, hc: 32, grasa: 34 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "sin cocción", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "sin cocción", "verano", "poco especiada"],
   consejo: "No metas la horiatiki en la nevera: el tomate pierde aroma por debajo de 12 °C. Si te sobra, al día siguiente tritúrala con un poco de pan y agua fría y tendrás un gazpacho griego exprés.",
   contundencia: "media",
   coste: "media"
@@ -129,7 +129,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos, coloca los cuartos de huevo encima, riega con el resto de la vinagreta y termina con pimienta negra recién molida."
   ],
   nutricion: { kcal: 430, prot: 23, hc: 36, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "económica", "ideal para llevar", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "económica", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "Las lentejas aliñadas aguantan 3 días en la nevera; añade la rúcula y el huevo solo al servir. Un puñado de queso feta desmigado la convierte en una cena aún más saciante.",
   contundencia: "ligera",
   coste: "económica"
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
     "Esparce las nueces partidas con las manos, riega con la vinagreta de tomillo justo antes de servir y acompaña con el pan tostado."
   ],
   nutricion: { kcal: 460, prot: 21, hc: 42, grasa: 23 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "sin cocción"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "sin cocción", "poco especiada"],
   consejo: "Fuera de temporada de higos funciona igual de bien con pera madura o con uvas negras partidas. Si quieres un toque más intenso, gratina el queso de cabra 2 minutos en la sartén antes de ponerlo.",
   contundencia: "ligera",
   coste: "media"
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
     "Termina con los picatostes y las hojas de albahaca rotas con los dedos en el último momento para que no se oscurezcan."
   ],
   nutricion: { kcal: 555, prot: 22, hc: 48, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "verano", "poco especiada"],
   consejo: "Saca los tomates y la mozzarella de la nevera 30 minutos antes: a temperatura ambiente saben el doble. Si no te gustan las anchoas, cámbialas por unas lonchas de jamón serrano.",
   contundencia: "media",
   coste: "media"
@@ -256,7 +256,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con el ajo rallado, una pizca de sal y unas gotas de aceite. Sirve la ensalada con el pollo encima, una cucharada generosa de yogur al ajo y la pita para acompañar."
   ],
   nutricion: { kcal: 565, prot: 42, hc: 48, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "alta en proteína", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "alta en proteína", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "La clave de la çoban es cortar todo del mismo tamaño y pequeño, para que en cada cucharada haya de todo. Si no tienes zumaque, usa ralladura de limón y una pizca de pimentón.",
   contundencia: "media",
   coste: "económica"
@@ -296,7 +296,7 @@ window.RECETAS_SEED.push({
     "Añade el majado de pan, ajo y especias y mezcla bien. Reparte en platos, coloca encima los huevos partidos por la mitad y un pellizco de sal sobre la yema."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 40, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "económica", "una sola sartén", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "económica", "una sola sartén", "invierno", "superalimentos", "poco especiada"],
   consejo: "Añade el pimentón siempre fuera del fuego para que no amargue. Las sobras, sin el huevo, están buenísimas frías al día siguiente con unas gotas más de vinagre de Jerez.",
   contundencia: "ligera",
   coste: "económica"
@@ -381,7 +381,7 @@ window.RECETAS_SEED.push({
     "Sirve con los huevos en cuartos encima y mucha albahaca rota con las manos."
   ],
   nutricion: { kcal: 560, prot: 21, hc: 58, grasa: 27 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "verano", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "verano", "ideal para llevar", "poco especiada"],
   consejo: "Cuanto más maduro el tomate, mejor la panzanella: su jugo es el verdadero aliño. Es la mejor forma de aprovechar el pan duro; si el tuyo está muy seco, rocíalo con un poco de agua antes de hornearlo.",
   contundencia: "media",
   coste: "económica"
@@ -426,7 +426,7 @@ window.RECETAS_SEED.push({
     "Sirve la mujaddara templada con la ensalada de pepino al lado, una cucharada de yogur y el resto de la cebolla crujiente por encima."
   ],
   nutricion: { kcal: 715, prot: 25, hc: 90, grasa: 28 },
-  etiquetas: ["mediterránea", "aromática", "económica", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "aromática", "económica", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "La cebolla crujiente es el alma del plato: haz el doble y guárdala en un tarro hermético, aguanta crujiente 3 días. La mujaddara sobrante es perfecta para rellenar pimientos o una pita.",
   contundencia: "contundente",
   coste: "económica"
@@ -471,7 +471,7 @@ window.RECETAS_SEED.push({
     "Sirve el tabulé con las brochetas encima y unas gotas del jugo que haya quedado en la plancha."
   ],
   nutricion: { kcal: 605, prot: 42, hc: 50, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "alta en proteína", "ideal para llevar", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "alta en proteína", "ideal para llevar", "batch cooking", "verano", "poco especiada"],
   consejo: "Un buen tabulé lleva más perejil que bulgur. Si haces el doble, guarda el tabulé y el pollo por separado; aguanta 3 días y está incluso mejor al día siguiente.",
   contundencia: "media",
   coste: "económica"
@@ -513,7 +513,7 @@ window.RECETAS_SEED.push({
     "Sirve las patatas y judías templadas con la lubina encima, con la piel hacia arriba para que siga crujiente, y el resto de la salsa verde por encima."
   ],
   nutricion: { kcal: 570, prot: 35, hc: 40, grasa: 30 },
-  etiquetas: ["mediterránea", "aromática", "alta en proteína", "una sola sartén"],
+  etiquetas: ["mediterránea", "aromática", "alta en proteína", "una sola sartén", "poco especiada"],
   consejo: "La salsa verde también va de maravilla con pollo o con huevos duros: haz el doble y guárdala en un tarro cubierta con aceite hasta 4 días. Si no encuentras lubina, usa dorada o merluza.",
   contundencia: "media",
   coste: "premium"
@@ -554,7 +554,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos o tápers, coloca el pollo encima y termina con el resto de las nueces picadas y pimienta recién molida."
   ],
   nutricion: { kcal: 790, prot: 44, hc: 62, grasa: 41 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ideal para llevar", "batch cooking", "alta en proteína", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ideal para llevar", "batch cooking", "alta en proteína", "verano", "verduras escondidas", "poco especiada"],
   consejo: "El agua de cocción hace que el pesto se agarre a la pasta incluso fría. Si la preparas para el día siguiente, guarda un poco de pesto aparte y añádelo al servir para recuperar el color verde.",
   contundencia: "contundente",
   coste: "media"
@@ -596,7 +596,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos y coloca encima la caballa en lascas grandes, con un hilo de su propio aceite."
   ],
   nutricion: { kcal: 660, prot: 32, hc: 64, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "ideal para llevar", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "ideal para llevar", "batch cooking", "verano", "superalimentos", "poco especiada"],
   consejo: "Cuece el doble de arroz integral y congélalo en raciones: así esta ensalada se monta en 10 minutos. La caballa aporta omega-3 a precio de conserva; también vale con sardinas o bonito.",
   contundencia: "contundente",
   coste: "económica"
@@ -638,7 +638,7 @@ window.RECETAS_SEED.push({
     "Reparte la rúcula en platos, coloca el pollo y las uvas templadas, desmiga el queso de cabra por encima y esparce las nueces. Riega con la vinagreta caliente y acompaña con el pan."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 42, grasa: 33 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "poco especiada"],
   consejo: "Las uvas asadas se vuelven dulces y jugosas, como una mermelada instantánea. En otoño sustitúyelas por gajos de pera o higos, y en vez de cabra prueba con queso azul.",
   contundencia: "media",
   coste: "media"
@@ -719,7 +719,7 @@ window.RECETAS_SEED.push({
     "Reparte las judías en platos, coloca encima el bacalao, la pulpa de tomate rallado y las aceitunas negras. Deja reposar 5 minutos antes de comer para que se mezclen los sabores."
   ],
   nutricion: { kcal: 450, prot: 33, hc: 30, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "sin cocción", "alta en proteína", "verano", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "sin cocción", "alta en proteína", "verano", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Prueba el bacalao antes de montar el plato: si está salado, déjalo 15 minutos en agua muy fría y vuelve a escurrirlo. Es una ensalada ideal para preparar por la mañana y comer al mediodía.",
   contundencia: "ligera",
   coste: "media"
@@ -761,7 +761,7 @@ window.RECETAS_SEED.push({
     "Sirve la escalivada templada o a temperatura ambiente con los huevos en cuartos y las anchoas por encima, y el pan con tomate al lado."
   ],
   nutricion: { kcal: 460, prot: 18, hc: 42, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "batch cooking", "verano", "poco especiada"],
   consejo: "Asa siempre más escalivada de la que necesites: aliñada y cubierta de aceite aguanta 4 días en la nevera y sirve para bocadillos, coca o para acompañar cualquier pescado a la plancha.",
   contundencia: "ligera",
   coste: "media"
@@ -848,7 +848,7 @@ window.RECETAS_SEED.push({
     "Corta el pollo en tiras y sírvelo con las patatas sobre la ensalada, regado con los jugos de la bandeja y con el yogur al ajo por encima."
   ],
   nutricion: { kcal: 770, prot: 50, hc: 52, grasa: 40 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "alta en proteína", "poco especiada"],
   consejo: "Rasca bien el fondo de la bandeja con una cuchara al final: esos jugos de limón, orégano y pollo son el mejor aliño. Si sobra, pica el pollo y las patatas y mételos en una pita con el yogur.",
   contundencia: "contundente",
   coste: "económica"
@@ -891,7 +891,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos, coloca el salmón en lascas grandes encima y termina con el yogur al limón."
   ],
   nutricion: { kcal: 700, prot: 42, hc: 50, grasa: 37 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "alta en proteína", "ideal para llevar", "superalimentos", "poco especiada"],
   consejo: "El eneldo y el salmón son pareja perfecta, pero si no lo encuentras usa menta o cebollino. Para llevar, guarda el yogur aparte y añádelo al momento.",
   contundencia: "contundente",
   coste: "premium"
@@ -932,7 +932,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre la rúcula con las lascas de parmesano, pimienta recién molida y el pan tostado."
   ],
   nutricion: { kcal: 450, prot: 34, hc: 38, grasa: 18 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "ligera", "alta en proteína", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "ligera", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Ponte guantes o frota las manos con limón al limpiar las alcachofas para que no se ennegrezcan. Fuera de temporada, usa un bote de corazones de alcachofa bien escurridos y dóralos solo 10 minutos en la plancha.",
   contundencia: "ligera",
   coste: "premium"
@@ -977,7 +977,7 @@ window.RECETAS_SEED.push({
     "Sirve con los huevos partidos por la mitad, el resto de la tapenade por encima y unas hojas de tomillo fresco."
   ],
   nutricion: { kcal: 590, prot: 22, hc: 50, grasa: 33 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "La tapenade aguanta una semana en la nevera cubierta de aceite y es perfecta para untar tostadas o aliñar pasta. Si quieres más proteína, añade una lata de atún o unos garbanzos a la bandeja.",
   contundencia: "media",
   coste: "económica"
@@ -1020,7 +1020,7 @@ window.RECETAS_SEED.push({
     "Desmenuza el pollo en trozos grandes con la piel. En un bol, mezcla el pan, las pasas escurridas, los piñones, el pollo y la vinagreta; añade la rúcula al final y sirve enseguida, templado."
   ],
   nutricion: { kcal: 810, prot: 46, hc: 52, grasa: 46 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "invierno", "poco especiada"],
   consejo: "El trabajo activo son 15 minutos; el horno hace el resto. Exprime el limón asado sobre la ensalada justo antes de servir: su zumo caramelizado es puro sabor.",
   contundencia: "contundente",
   coste: "media"
@@ -1064,7 +1064,7 @@ window.RECETAS_SEED.push({
     "Monta los platos con la rúcula, las judías templadas, los tomates asados y el cordero desmigado, y riega con la salsa verde."
   ],
   nutricion: { kcal: 760, prot: 48, hc: 34, grasa: 48 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "alta en proteína", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Puedes asar el cordero la víspera: al día siguiente la grasa se retira fácil y la carne se calienta 10 minutos en sus jugos. Con las judías y los jugos sobrantes tienes una cena de cuchara para otro día.",
   contundencia: "contundente",
   coste: "premium"

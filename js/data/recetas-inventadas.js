@@ -44,7 +44,7 @@ window.RECETAS_SEED.push({
     "Monta cada bol con una base de quinoa, el edamame, el pepino encurtido escurrido y el aguacate en láminas. Coloca el salmón encima, riega con el glaseado que quede en la sartén y termina con la cebolleta en aros finos y el sésamo."
   ],
   nutricion: { kcal: 860, prot: 48, hc: 68, grasa: 44 },
-  etiquetas: ["fusión", "rápida", "alta en proteína", "ideal para llevar", "una sola sartén"],
+  etiquetas: ["fusión", "rápida", "alta en proteína", "ideal para llevar", "una sola sartén", "superalimentos", "poco especiada"],
   consejo: "El glaseado de miso se quema fácil por la miel: viértelo siempre con el fuego ya bajado. Si sobra quinoa, al día siguiente es una ensalada perfecta con lo que tengas en la nevera."
 });
 
@@ -86,7 +86,7 @@ window.RECETAS_SEED.push({
     "Calienta las pitas 2 minutos en el horno al final. Extiende el labneh en los platos, reparte encima los garbanzos y el hinojo calientes, y termina con granada, pistachos, menta, las hojas de hinojo y una pizca de pimentón. Sirve con la pita cortada en triángulos."
   ],
   nutricion: { kcal: 820, prot: 31, hc: 92, grasa: 38 },
-  etiquetas: ["fusión", "al horno", "económica", "para invitados", "otoño"],
+  etiquetas: ["fusión", "al horno", "económica", "para invitados", "otoño", "poco especiada"],
   consejo: "Los garbanzos crujientes son el picoteo sano perfecto: haz el doble y guárdalos en un bote sin cerrar del todo para que no pierdan el crujiente. Sin pita, el plato es sin gluten."
 });
 
@@ -95,7 +95,7 @@ window.RECETAS_SEED.push({
   nombre: "Tacos de coliflor al chipotle con crema de aguacate y lima",
   subtitulo: "con alubias rojas, col lombarda y cebolla morada",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -128,7 +128,7 @@ window.RECETAS_SEED.push({
     "Monta los tacos: una cucharada de crema de aguacate, coliflor y alubias, col lombarda, cebolla escurrida y cilantro. Sirve con gajos de lima y el resto de la crema en un cuenco."
   ],
   nutricion: { kcal: 670, prot: 20, hc: 90, grasa: 27 },
-  etiquetas: ["fusión", "al horno", "picante", "económica", "para compartir"],
+  etiquetas: ["fusión", "al horno", "picante", "económica", "para compartir", "superalimentos"],
   consejo: "Si no encuentras chipotle en adobo, usa 1 cdta de pimentón picante más ½ cdta de pimentón ahumado y una cucharada de tomate concentrado. Para más proteína, añade queso fresco desmenuzado o huevo revuelto en los tacos."
 });
 
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
     "Sirve el bulgur y abre los papillotes en la mesa o vuelca su contenido encima con todo el jugo, que hace de salsa."
   ],
   nutricion: { kcal: 640, prot: 46, hc: 60, grasa: 23 },
-  etiquetas: ["al horno", "ligera", "alta en proteína", "para niños", "sin ensuciar"],
+  etiquetas: ["al horno", "ligera", "alta en proteína", "para niños", "sin ensuciar", "poco especiada", "bajo en colesterol"],
   consejo: "El papillote perdona mucho: si el filete es más grueso, dale 5 minutos más. Puedes dejar los paquetes montados en la nevera por la mañana y hornearlos al llegar a casa."
 });
 
@@ -257,7 +257,7 @@ window.RECETAS_SEED.push({
     "Mezcla en el bol el kale, la quinoa tibia, el boniato y los garbanzos recién salidos del horno, la cebolla y los gajos de naranja. Riega con la vinagreta y termina con las semillas tostadas."
   ],
   nutricion: { kcal: 810, prot: 28, hc: 105, grasa: 31 },
-  etiquetas: ["fusión", "al horno", "ideal para llevar", "otoño", "batch cooking"],
+  etiquetas: ["fusión", "al horno", "ideal para llevar", "otoño", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Es la ensalada perfecta para el táper: lleva la vinagreta aparte y añádela al momento. Si quieres más proteína, suma huevo duro o queso feta desmenuzado."
 });
 
@@ -298,7 +298,7 @@ window.RECETAS_SEED.push({
     "Sirve la merluza con los guisantes y la salsa, las patatas al lado y una cucharada de gremolata encima de cada lomo, con un chorrito de zumo de lima."
   ],
   nutricion: { kcal: 590, prot: 37, hc: 54, grasa: 23 },
-  etiquetas: ["ligera", "rápida", "alta en proteína", "para niños", "tradicional"],
+  etiquetas: ["ligera", "rápida", "alta en proteína", "para niños", "tradicional", "poco especiada", "bajo en colesterol"],
   consejo: "Mover la sartén en vez de remover con cuchara es el truco para ligar la salsa sin romper el pescado. Puedes añadir unas almejas con los guisantes: se abrirán en los 5 minutos de cocción."
 });
 
@@ -343,7 +343,7 @@ window.RECETAS_SEED.push({
     "Abre la olla, retira el laurel y el romero y reduce el ragú destapado 3-5 minutos si está muy líquido. Sirve la polenta en platos hondos con el ragú encima."
   ],
   nutricion: { kcal: 820, prot: 56, hc: 66, grasa: 34 },
-  etiquetas: ["de cuchara", "batch cooking", "invierno", "alta en proteína", "para invitados"],
+  etiquetas: ["de cuchara", "batch cooking", "invierno", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "Si la polenta espera, se cuaja: afloja con un chorrito de leche caliente antes de servir. El ragú también va genial con pasta corta o sobre un puré de patatas."
 });
 
@@ -352,7 +352,7 @@ window.RECETAS_SEED.push({
   nombre: "Berenjena glaseada al miso con tofu crujiente",
   subtitulo: "con pak choi salteado y arroz integral",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -386,7 +386,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con la berenjena glaseada, el tofu crujiente y el pak choi. Termina con cebolleta en aros finos y sésamo."
   ],
   nutricion: { kcal: 780, prot: 36, hc: 91, grasa: 30 },
-  etiquetas: ["fusión", "al horno", "alta en proteína", "económica"],
+  etiquetas: ["fusión", "al horno", "alta en proteína", "económica", "superalimentos", "poco especiada"],
   consejo: "Secar y enharinar el tofu con maicena es lo que lo vuelve crujiente de verdad; no lo amontones en la sartén. La berenjena al miso también es un entrante estupendo para invitados."
 });
 
@@ -432,6 +432,6 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús de coliflor con las albóndigas encima, el pepino y los cherry alrededor, la salsa de yogur en abundancia y el resto del perejil."
   ],
   nutricion: { kcal: 690, prot: 55, hc: 29, grasa: 38 },
-  etiquetas: ["ligera", "alta en proteína", "al horno", "para niños", "batch cooking"],
+  etiquetas: ["ligera", "alta en proteína", "al horno", "para niños", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Las albóndigas aguantan 3 días en la nevera y se congelan crudas o cocinadas: haz el doble. Si prefieres cuscús de verdad, usa 120 g de cuscús y añade al plato unos 150 kcal por ración."
 });

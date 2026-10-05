@@ -84,7 +84,7 @@ window.RECETAS_SEED.push({
     "Sirve las patatas y el pimiento con la merluza encima, riega con la ajada todavía caliente y termina con perejil picado y unos granos de sal gruesa."
   ],
   nutricion: { kcal: 420, prot: 32, hc: 38, grasa: 15 },
-  etiquetas: ["rápida", "ligera", "al vapor", "olla exprés", "sin gluten"],
+  etiquetas: ["rápida", "ligera", "al vapor", "olla exprés", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "Si usas merluza congelada, ponla todavía congelada y sube el tiempo de presión a 2 minutos.",
   contundencia: "ligera",
   coste: "media"
@@ -169,7 +169,7 @@ window.RECETAS_SEED.push({
     "Reparte los fideos y las espinacas crudas en dos boles, vierte el caldo muy caliente encima para que las espinacas se ablanden y termina con la cebolleta verde en aros y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 400, prot: 24, hc: 50, grasa: 11 },
-  etiquetas: ["rápida", "ligera", "económica", "vegana", "de cuchara", "olla exprés"],
+  etiquetas: ["rápida", "ligera", "económica", "vegana", "de cuchara", "olla exprés", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si encuentras shiitake seco, usa 15 g: dará un caldo más profundo y no hace falta remojarlo antes.",
   contundencia: "ligera",
   coste: "económica"
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
     "Abre la olla, ahueca el arroz con un tenedor y sírvelo con el brócoli y el salmón encima. Pinta el salmón con el teriyaki y termina con sésamo y cebolleta en aros."
   ],
   nutricion: { kcal: 580, prot: 33, hc: 66, grasa: 20 },
-  etiquetas: ["rápida", "al vapor", "olla exprés", "alta en proteína"],
+  etiquetas: ["rápida", "al vapor", "olla exprés", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si tus lomos son muy gruesos (más de 3 cm), ponlos ligeramente congelados para que el centro no se pase mientras se hace el arroz.",
   contundencia: "media",
   coste: "premium"
@@ -254,7 +254,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de yogur, las semillas por encima, un hilo de aceite y el pan al lado."
   ],
   nutricion: { kcal: 420, prot: 20, hc: 58, grasa: 12 },
-  etiquetas: ["rápida", "ligera", "económica", "de cuchara", "batch cooking", "olla exprés"],
+  etiquetas: ["rápida", "ligera", "económica", "de cuchara", "batch cooking", "olla exprés", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Añade el zumo de naranja fuera del fuego y después de la presión: cocido pierde frescura y puede amargar.",
   contundencia: "ligera",
   coste: "económica"
@@ -299,7 +299,7 @@ window.RECETAS_SEED.push({
     "Sirve con el parmesano rallado por encima y pimienta recién molida."
   ],
   nutricion: { kcal: 740, prot: 42, hc: 85, grasa: 26 },
-  etiquetas: ["rápida", "para niños", "una sola olla", "olla exprés"],
+  etiquetas: ["rápida", "para niños", "una sola olla", "olla exprés", "poco especiada"],
   consejo: "No remuevas el tomate antes de cerrar: si queda en el fondo es lo que más fácilmente se pega y la olla da aviso de quemado.",
   contundencia: "contundente",
   coste: "media"
@@ -390,7 +390,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con la menta picada y una pizca de sal. Sirve el cuscús con las koftas y la salsa, el yogur a la menta y el resto del perejil."
   ],
   nutricion: { kcal: 600, prot: 45, hc: 66, grasa: 17 },
-  etiquetas: ["alta en proteína", "para niños", "batch cooking", "olla exprés"],
+  etiquetas: ["alta en proteína", "para niños", "batch cooking", "olla exprés", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Enfría las koftas formadas 10 minutos en la nevera si tienes tiempo: se mantienen más firmes al dorarlas.",
   contundencia: "media",
   coste: "media"
@@ -479,7 +479,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, prueba de sal y sirve junto al arroz blanco."
   ],
   nutricion: { kcal: 710, prot: 36, hc: 82, grasa: 26 },
-  etiquetas: ["para niños", "batch cooking", "olla exprés", "sin gluten"],
+  etiquetas: ["para niños", "batch cooking", "olla exprés", "sin gluten", "poco especiada"],
   consejo: "Acompáñalo de un huevo frito o de plátano frito si quieres hacerlo a lo grande, como en La Habana.",
   contundencia: "contundente",
   coste: "media"
@@ -528,7 +528,7 @@ window.RECETAS_SEED.push({
     "Sirve muy caliente con gajos del otro medio limón y los dátiles al lado, para alternar bocados dulces con la sopa."
   ],
   nutricion: { kcal: 530, prot: 37, hc: 68, grasa: 12 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "olla exprés", "alta en proteína"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "olla exprés", "alta en proteína", "poco especiada"],
   consejo: "Si te gusta más espesa, al final liga con 1 cucharada de harina disuelta en agua fría y deja hervir 1 minuto, como se hace en Marruecos.",
   contundencia: "media",
   coste: "media"
@@ -571,7 +571,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el huevo en el centro, el jamón crujiente, unas hojas de menta y el pan tostado."
   ],
   nutricion: { kcal: 425, prot: 25, hc: 52, grasa: 13 },
-  etiquetas: ["rápida", "ligera", "económica", "de cuchara", "olla exprés", "primavera"],
+  etiquetas: ["rápida", "ligera", "económica", "de cuchara", "olla exprés", "primavera", "poco especiada"],
   consejo: "Los guisantes nunca deben ir bajo presión: se vuelven grises y pierden dulzor.",
   contundencia: "ligera",
   coste: "económica"
@@ -614,7 +614,7 @@ window.RECETAS_SEED.push({
     "Reposa 1 minuto, espolvorea perejil picado y sirve en plato hondo."
   ],
   nutricion: { kcal: 545, prot: 32, hc: 68, grasa: 16 },
-  etiquetas: ["marisco", "olla exprés", "sin gluten", "fin de semana"],
+  etiquetas: ["marisco", "olla exprés", "sin gluten", "fin de semana", "poco especiada"],
   consejo: "Remover enérgicamente al final suelta el almidón del arroz y da la textura melosa sin mantequilla ni queso.",
   contundencia: "media",
   coste: "premium"
@@ -659,7 +659,7 @@ window.RECETAS_SEED.push({
     "Añade el orzo y cuece destapado a fuego medio 9-10 minutos, removiendo a menudo para que no se pegue, hasta que esté al dente y haya absorbido casi toda la salsa. Prueba de sal y sirve con perejil."
   ],
   nutricion: { kcal: 555, prot: 40, hc: 62, grasa: 16 },
-  etiquetas: ["olla exprés", "alta en proteína", "fin de semana"],
+  etiquetas: ["olla exprés", "alta en proteína", "fin de semana", "poco especiada"],
   consejo: "Congelar el pulpo antes de cocinarlo rompe sus fibras: por eso el congelado queda más tierno que el fresco.",
   contundencia: "media",
   coste: "premium"
@@ -707,7 +707,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de yogur, aguacate en dados, cilantro y gajos de lima."
   ],
   nutricion: { kcal: 555, prot: 24, hc: 88, grasa: 12 },
-  etiquetas: ["económica", "vegetariana", "batch cooking", "picante", "olla exprés", "sin gluten"],
+  etiquetas: ["económica", "vegetariana", "batch cooking", "picante", "olla exprés", "sin gluten", "bajo en colesterol"],
   consejo: "No añadas el tomate ni la sal hasta que las alubias estén tiernas: el ácido y la sal endurecen la piel de la legumbre.",
   contundencia: "media",
   coste: "económica"
@@ -755,7 +755,7 @@ window.RECETAS_SEED.push({
     "Calienta el pan naan en una sartén seca 1 minuto por lado. Termina el chana con el zumo de limón y cilantro picado y sírvelo con el yogur y el naan."
   ],
   nutricion: { kcal: 700, prot: 27, hc: 102, grasa: 20 },
-  etiquetas: ["económica", "vegetariana", "de cuchara", "batch cooking", "olla exprés"],
+  etiquetas: ["económica", "vegetariana", "de cuchara", "batch cooking", "olla exprés", "superalimentos", "bajo en colesterol"],
   consejo: "Si olvidaste el remojo, cuécelos sin remojar 45 minutos de presión con el agua subida a 700 ml.",
   contundencia: "contundente",
   coste: "económica"
@@ -798,7 +798,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con el pollo, la salsa por encima, las judías verdes y la cebolleta en aros."
   ],
   nutricion: { kcal: 590, prot: 40, hc: 66, grasa: 18 },
-  etiquetas: ["económica", "alta en proteína", "batch cooking", "olla exprés"],
+  etiquetas: ["económica", "alta en proteína", "batch cooking", "olla exprés", "poco especiada", "bajo en colesterol"],
   consejo: "Está aún mejor al día siguiente: el vinagre y la soja siguen penetrando en la carne.",
   contundencia: "media",
   coste: "económica"
@@ -840,7 +840,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas con el muslo encima y unos gajos de naranja pelados a vivo."
   ],
   nutricion: { kcal: 735, prot: 48, hc: 50, grasa: 38 },
-  etiquetas: ["fin de semana", "alta en proteína", "olla exprés", "invierno"],
+  etiquetas: ["fin de semana", "alta en proteína", "olla exprés", "invierno", "poco especiada"],
   consejo: "Guarda la grasa de pato que sobra: es perfecta para unas patatas asadas otro día.",
   contundencia: "contundente",
   coste: "premium"
@@ -886,7 +886,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con una buena cucharada de pesto en cada uno y remueve en la mesa."
   ],
   nutricion: { kcal: 460, prot: 21, hc: 62, grasa: 14 },
-  etiquetas: ["ligera", "económica", "vegetariana", "de cuchara", "batch cooking", "olla exprés"],
+  etiquetas: ["ligera", "económica", "vegetariana", "de cuchara", "batch cooking", "olla exprés", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si guardas raciones, guarda la pasta aparte o añádela al recalentar: si no, absorbe todo el caldo.",
   contundencia: "ligera",
   coste: "económica"
@@ -930,7 +930,7 @@ window.RECETAS_SEED.push({
     "Sirve la carne, que debe separarse sola del hueso, con las patatas y el jugo de la fuente."
   ],
   nutricion: { kcal: 790, prot: 52, hc: 46, grasa: 44 },
-  etiquetas: ["fin de semana", "invierno", "olla exprés", "al horno", "sin gluten"],
+  etiquetas: ["fin de semana", "invierno", "olla exprés", "al horno", "sin gluten", "poco especiada"],
   consejo: "Desgrasa el jugo de la olla con una cuchara antes de regar la fuente: el cordero suelta mucha grasa.",
   contundencia: "contundente",
   coste: "premium"
@@ -975,7 +975,7 @@ window.RECETAS_SEED.push({
     "Sirve en tres vuelcos: primero la sopa; después los garbanzos con las verduras y el repollo; por último las carnes troceadas, con un hilo de aceite y sal gruesa."
   ],
   nutricion: { kcal: 920, prot: 62, hc: 82, grasa: 38 },
-  etiquetas: ["de cuchara", "invierno", "fin de semana", "olla exprés"],
+  etiquetas: ["de cuchara", "invierno", "fin de semana", "olla exprés", "poco especiada"],
   consejo: "Pon los garbanzos en agua caliente, nunca fría, cuando el caldo ya esté hirviendo: así no se encallan y quedan mantecosos.",
   contundencia: "contundente",
   coste: "media"
@@ -1070,7 +1070,7 @@ window.RECETAS_SEED.push({
     "Sirve la feijoada con el arroz, el kale y gajos de naranja pelada al lado."
   ],
   nutricion: { kcal: 920, prot: 50, hc: 90, grasa: 40 },
-  etiquetas: ["de cuchara", "invierno", "fin de semana", "olla exprés", "sin gluten"],
+  etiquetas: ["de cuchara", "invierno", "fin de semana", "olla exprés", "sin gluten", "poco especiada"],
   consejo: "La naranja no es decoración: su acidez corta la grasa del cerdo y hace el plato mucho más ligero en boca.",
   contundencia: "contundente",
   coste: "media"
@@ -1114,7 +1114,7 @@ window.RECETAS_SEED.push({
     "Salpimienta y sirve con eneldo picado por encima."
   ],
   nutricion: { kcal: 410, prot: 33, hc: 36, grasa: 15 },
-  etiquetas: ["ligera", "económica", "de cuchara", "invierno", "olla exprés", "sin gluten"],
+  etiquetas: ["ligera", "económica", "de cuchara", "invierno", "olla exprés", "sin gluten", "poco especiada"],
   consejo: "Si hierve después de añadir el huevo, se corta en hebras: mantén siempre el fuego al mínimo.",
   contundencia: "ligera",
   coste: "económica"

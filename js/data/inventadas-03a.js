@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo en láminas gruesas con una cucharada generosa de pesto encima, los cherrys al lado con su jugo y el pan tostado."
   ],
   nutricion: { kcal: 440, prot: 43, hc: 19, grasa: 22 },
-  etiquetas: ["rápida", "alta en proteína", "ligera", "a la plancha", "verano"],
+  etiquetas: ["rápida", "alta en proteína", "ligera", "a la plancha", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "No cortes el pollo nada más sacarlo de la plancha: esos 2 minutos de reposo son la diferencia entre una pechuga jugosa y una seca.",
   contundencia: "ligera",
   coste: "económica"
@@ -82,7 +82,7 @@ window.RECETAS_SEED.push({
     "Apaga, riega con el aceite de sésamo y el zumo de lima. Sirve con la cebolleta en aros finos."
   ],
   nutricion: { kcal: 465, prot: 40, hc: 49, grasa: 10 },
-  etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "wok"],
+  etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "wok", "bajo en colesterol"],
   consejo: "El wok debe humear antes de echar el pavo: si el fuego es flojo, la carne suelta agua y se cuece en vez de dorarse.",
   contundencia: "ligera",
   coste: "media"
@@ -173,7 +173,7 @@ window.RECETAS_SEED.push({
     "Trincha el pollo y sírvelo sobre las patatas panadera, con el zumo del segundo limón exprimido por encima y los jugos de la fuente."
   ],
   nutricion: { kcal: 850, prot: 53, hc: 42, grasa: 51 },
-  etiquetas: ["al horno", "fin de semana", "batch cooking", "invierno", "familiar"],
+  etiquetas: ["al horno", "fin de semana", "batch cooking", "invierno", "familiar", "poco especiada"],
   consejo: "Un pollo de 1,2 kg da dos raciones muy generosas y suele sobrar algo: desmenúzalo para una ensalada o unos tacos al día siguiente. Guarda la carcasa para hacer caldo.",
   contundencia: "contundente",
   coste: "media"
@@ -220,7 +220,7 @@ window.RECETAS_SEED.push({
     "Suelta el arroz con un tenedor. Sirve el pollo tikka sobre el arroz con la raita, la cebolla al limón y el cilantro y la menta restantes picados."
   ],
   nutricion: { kcal: 585, prot: 44, hc: 55, grasa: 20 },
-  etiquetas: ["marinado", "al horno", "alta en proteína", "especiado", "batch cooking"],
+  etiquetas: ["marinado", "al horno", "alta en proteína", "especiado", "batch cooking", "bajo en colesterol"],
   consejo: "El yogur ablanda la carne, pero más de 24 horas la deja pastosa. Si tienes plancha de hierro, el tikka también se hace muy bien a fuego fuerte en 10 minutos.",
   contundencia: "media",
   coste: "media"
@@ -261,7 +261,7 @@ window.RECETAS_SEED.push({
     "Añade las patatas y las judías escurridas, remueve 1 minuto para que se impregnen del aceite de ajo, apaga y espolvorea el perejil. Rectifica de sal y sirve enseguida."
   ],
   nutricion: { kcal: 510, prot: 42, hc: 40, grasa: 20 },
-  etiquetas: ["rápida", "alta en proteína", "económica", "una sola sartén"],
+  etiquetas: ["rápida", "alta en proteína", "económica", "una sola sartén", "bajo en colesterol"],
   consejo: "El ajo pasa de dorado a amargo en segundos: sácalo en cuanto tome color y devuélvelo al final, así conserva el sabor sin quemarse.",
   contundencia: "media",
   coste: "económica"
@@ -306,7 +306,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, corona con el pepino y la cebolla, riega con la salsa de tahini y termina con el perejil picado."
   ],
   nutricion: { kcal: 445, prot: 44, hc: 32, grasa: 15 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "ideal para llevar", "verano"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "El pollo cocido a fuego muy suave queda jugoso; si hierve a borbotones se vuelve fibroso. Puedes cocerlo el día anterior y montar la ensalada en 10 minutos.",
   contundencia: "ligera",
   coste: "económica"
@@ -395,7 +395,7 @@ window.RECETAS_SEED.push({
     "Monta los tacos: pollo, piña, cebolla encurtida escurrida, aguacate en láminas, cilantro picado y chile en rodajas finas. Sirve con gajos de lima."
   ],
   nutricion: { kcal: 620, prot: 40, hc: 60, grasa: 24 },
-  etiquetas: ["a la plancha", "marinado", "para compartir", "verano"],
+  etiquetas: ["a la plancha", "marinado", "para compartir", "verano", "bajo en colesterol"],
   consejo: "La piña a la plancha necesita una superficie muy caliente y seca: si la plancha está tibia suelta jugo y se cuece en vez de caramelizarse.",
   contundencia: "media",
   coste: "media"
@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré con los contramuslos encima y riégalo con los jugos de mostaza y miel de la fuente."
   ],
   nutricion: { kcal: 710, prot: 48, hc: 52, grasa: 36 },
-  etiquetas: ["al horno", "invierno", "para niños", "económica", "reconfortante"],
+  etiquetas: ["al horno", "invierno", "para niños", "económica", "reconfortante", "verduras escondidas", "poco especiada"],
   consejo: "La coliflor aligera el puré y le da cremosidad sin necesidad de más mantequilla. Escúrrela muy bien o el puré quedará aguado.",
   contundencia: "contundente",
   coste: "económica"
@@ -527,7 +527,7 @@ window.RECETAS_SEED.push({
     "Calienta las pitas en la plancha 30 segundos por lado. Sirve las brochetas con el tzatziki, la ensalada y el pan, con el resto del limón en gajos."
   ],
   nutricion: { kcal: 595, prot: 50, hc: 48, grasa: 22 },
-  etiquetas: ["marinado", "a la plancha", "alta en proteína", "verano", "para compartir"],
+  etiquetas: ["marinado", "a la plancha", "alta en proteína", "verano", "para compartir", "poco especiada", "bajo en colesterol"],
   consejo: "Si usas brochetas de madera, remójalas 20 minutos en agua antes de ensartar para que no se quemen en la plancha.",
   contundencia: "media",
   coste: "económica"
@@ -569,7 +569,7 @@ window.RECETAS_SEED.push({
     "Tuesta el sésamo 1 minuto en una sartén seca. Sirve el arroz con el pollo teriyaki y su salsa, el brócoli al lado y el sésamo y la cebolleta en aros por encima."
   ],
   nutricion: { kcal: 595, prot: 42, hc: 70, grasa: 16 },
-  etiquetas: ["rápida", "para niños", "económica", "alta en proteína", "una sola sartén"],
+  etiquetas: ["rápida", "para niños", "económica", "alta en proteína", "una sola sartén", "poco especiada", "bajo en colesterol"],
   consejo: "El teriyaki casero espesa rápido por la maicena: si se pasa, añade 1-2 cdas de agua y remueve. Debe cubrir el pollo como un barniz, no quedar como gelatina.",
   contundencia: "media",
   coste: "económica"
@@ -611,7 +611,7 @@ window.RECETAS_SEED.push({
     "Sirve los escalopines con la ensalada encima o al lado y gajos del limón restante para exprimir."
   ],
   nutricion: { kcal: 470, prot: 45, hc: 24, grasa: 21 },
-  etiquetas: ["rápida", "ligera", "empanado ligero", "para niños", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "empanado ligero", "para niños", "alta en proteína", "poco especiada"],
   consejo: "Al aplanar el pavo se cocina en minutos y queda tierno. Con poco aceite y la sartén bien caliente el panko dora sin absorber grasa.",
   contundencia: "ligera",
   coste: "media"
@@ -708,7 +708,7 @@ window.RECETAS_SEED.push({
     "Tuesta los panes 1 minuto en la sartén. Monta: salsa de yogur, lechuga, hamburguesa y tomate en rodajas. Sirve con los gajos de boniato."
   ],
   nutricion: { kcal: 635, prot: 44, hc: 62, grasa: 24 },
-  etiquetas: ["al horno", "para niños", "alta en proteína", "fin de semana"],
+  etiquetas: ["al horno", "para niños", "alta en proteína", "fin de semana", "verduras escondidas", "poco especiada"],
   consejo: "El pavo picado es magro y tiende a secarse: el feta y las espinacas aportan jugosidad. No pases de 6 minutos por lado a fuego medio.",
   contundencia: "media",
   coste: "media"
@@ -756,7 +756,7 @@ window.RECETAS_SEED.push({
     "Calienta las pitas 1 minuto en el horno. Corta el pollo en tiras finas y mézclalo con la cebolla asada. Sirve todo junto para que cada uno rellene su pita con pollo, salsa de ajo y ensalada."
   ],
   nutricion: { kcal: 625, prot: 50, hc: 50, grasa: 24 },
-  etiquetas: ["marinado", "al horno", "especiado", "alta en proteína", "para compartir"],
+  etiquetas: ["marinado", "al horno", "especiado", "alta en proteína", "para compartir", "bajo en colesterol"],
   consejo: "Cuanto más tiempo marine, más tierno y especiado queda: ponlo la noche anterior y al día siguiente la cena está lista en 30 minutos.",
   contundencia: "media",
   coste: "media"
@@ -801,7 +801,7 @@ window.RECETAS_SEED.push({
     "Escurre la pasta y mézclala en la sartén con la salsa y 2-3 cdas del agua reservada para soltarla. Rectifica de sal y pimienta y sirve con el parmesano rallado y el perejil picado."
   ],
   nutricion: { kcal: 735, prot: 52, hc: 68, grasa: 30 },
-  etiquetas: ["rápida", "pasta", "reconfortante", "invierno", "para niños"],
+  etiquetas: ["rápida", "pasta", "reconfortante", "invierno", "para niños", "poco especiada"],
   consejo: "No laves los champiñones: límpialos con un paño húmedo. Y échalos en la sartén bien caliente y sin amontonar, o soltarán agua y quedarán grises.",
   contundencia: "contundente",
   coste: "media"
@@ -846,7 +846,7 @@ window.RECETAS_SEED.push({
     "Retira los palillos, corta cada pechuga en medallones gruesos y sírvelos con la salsa por encima y las judías al lado."
   ],
   nutricion: { kcal: 460, prot: 48, hc: 14, grasa: 23 },
-  etiquetas: ["al horno", "ligera", "alta en proteína", "relleno", "para invitados"],
+  etiquetas: ["al horno", "ligera", "alta en proteína", "relleno", "para invitados", "poco especiada"],
   consejo: "Si el relleno se asoma por los lados, no pasa nada: el dorado inicial en la sartén lo sella. Un termómetro de cocina evita que el pavo se seque.",
   contundencia: "ligera",
   coste: "premium"
@@ -892,7 +892,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con el pollo al limón encima, el pak choi al lado y el sésamo espolvoreado."
   ],
   nutricion: { kcal: 630, prot: 42, hc: 74, grasa: 18 },
-  etiquetas: ["para niños", "agridulce", "crujiente", "alta en proteína"],
+  etiquetas: ["para niños", "agridulce", "crujiente", "alta en proteína", "poco especiada"],
   consejo: "Mezcla el pollo con la salsa justo antes de servir: si lo dejas reposar dentro, el rebozado se ablanda en minutos.",
   contundencia: "media",
   coste: "media"
@@ -1032,7 +1032,7 @@ window.RECETAS_SEED.push({
     "Mezcla en un bol los canónigos, la quinoa tibia, la cebolla y la mitad de la vinagreta. Reparte en platos, coloca encima el pollo, los gajos de naranja y el aguacate, riega con el resto de la vinagreta y termina con las semillas y la menta picada."
   ],
   nutricion: { kcal: 465, prot: 42, hc: 36, grasa: 17 },
-  etiquetas: ["rápida", "ligera", "ideal para llevar", "alta en proteína", "verano", "sin gluten"],
+  etiquetas: ["rápida", "ligera", "ideal para llevar", "alta en proteína", "verano", "sin gluten", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Puedes cocer el doble de quinoa y guardarla 3 días en la nevera: así esta ensalada se monta en 10 minutos.",
   contundencia: "ligera",
   coste: "media"
@@ -1078,7 +1078,7 @@ window.RECETAS_SEED.push({
     "Mezcla la berenjena asada con el pavo en la sartén y calienta 1 minuto. Sirve con el yogur a la menta por encima, las almendras y el resto de la menta."
   ],
   nutricion: { kcal: 450, prot: 40, hc: 22, grasa: 22 },
-  etiquetas: ["ligera", "al horno", "especiado", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["ligera", "al horno", "especiado", "alta en proteína", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Sirve con pan de pita caliente si quieres un plato más completo; sin él es una cena ligera y muy sabrosa.",
   contundencia: "ligera",
   coste: "media"
@@ -1126,7 +1126,7 @@ window.RECETAS_SEED.push({
     "Trincha el pollo y sírvelo con las verduras asadas y la salsa caliente en salsera."
   ],
   nutricion: { kcal: 880, prot: 56, hc: 55, grasa: 50 },
-  etiquetas: ["al horno", "fin de semana", "invierno", "familiar", "batch cooking"],
+  etiquetas: ["al horno", "fin de semana", "invierno", "familiar", "batch cooking", "poco especiada"],
   consejo: "La mantequilla bajo la piel mantiene la pechuga jugosa y dora la piel sin esfuerzo. Con las sobras tienes relleno para bocadillos o una ensalada tibia al día siguiente.",
   contundencia: "contundente",
   coste: "media"

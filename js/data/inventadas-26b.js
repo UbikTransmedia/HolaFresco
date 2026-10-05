@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Salpimienta, pon una rebanada de pan tostado en cada plato hondo y vierte la garbure encima."
   ],
   nutricion: { kcal: 940, prot: 48, hc: 70, grasa: 52 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "para invitados", "de domingo", "poco especiada"],
   consejo: "La tradición dice que la garbure está bien hecha si la cuchara se queda de pie en el plato. Al final, los bearneses echan un chorro de vino tinto en el caldo que queda en el fondo y se lo beben: se llama 'faire chabrot'.",
   contundencia: "contundente",
   coste: "premium"
@@ -80,7 +80,7 @@ window.RECETAS_SEED.push({
     "Salpimienta y sirve con perejil picado por encima."
   ],
   nutricion: { kcal: 570, prot: 40, hc: 52, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Las ciruelas pueden parecer raras, pero son la gracia de esta sopa: le dan un dulzor suave que contrasta con el puerro. Si no te convencen, ponlas en un cuenco aparte para que cada uno añada las suyas.",
   contundencia: "media",
   coste: "económica"
@@ -121,7 +121,7 @@ window.RECETAS_SEED.push({
     "Salpimienta, retira con una cuchara la grasa que flote en la superficie y sirve con mucho perejil picado."
   ],
   nutricion: { kcal: 720, prot: 38, hc: 62, grasa: 36 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "poco especiada"],
   consejo: "Como todas las sopas con cebada, espesa mucho al día siguiente: alárgala con agua caliente al recalentar. Si la haces la víspera y la enfrías, podrás quitar toda la grasa del cordero de una sola vez.",
   contundencia: "contundente",
   coste: "premium"
@@ -159,7 +159,7 @@ window.RECETAS_SEED.push({
     "Sirve con las rodajas de chorizo encima y un buen chorro de aceite crudo."
   ],
   nutricion: { kcal: 540, prot: 16, hc: 64, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "invierno", "poco especiada"],
   consejo: "La gracia está en cortar la col finísima, como cabello: así se cocina en un momento y queda sedosa. En Portugal se sirve en cuenco de barro con una rebanada de broa (pan de maíz).",
   contundencia: "media",
   coste: "económica"
@@ -199,7 +199,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del cilantro por encima. Si quieres seguir la tradición, lava bien una piedra lisa y ponla en el fondo de la sopera."
   ],
   nutricion: { kcal: 850, prot: 40, hc: 78, grasa: 42 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "poco especiada"],
   consejo: "Cuenta la leyenda que un fraile pidió en una casa solo una piedra para hacer sopa y, poco a poco, fue consiguiendo alubias, chorizo y patatas. Es la sopa de echar lo que haya: oreja o costilla le van de maravilla.",
   contundencia: "contundente",
   coste: "media"
@@ -236,7 +236,7 @@ window.RECETAS_SEED.push({
     "Coloca dos huevos encima de cada cuenco y sirve enseguida, con unas aceitunas al lado si quieres."
   ],
   nutricion: { kcal: 550, prot: 21, hc: 50, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "verano"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "verano", "sin verduras", "poco especiada"],
   consejo: "Es la sopa de los jornaleros del Alentejo: pan duro, ajo y hierbas del campo. El cilantro es imprescindible, pero si no te gusta, sustitúyelo por poleo o hierbabuena, como en algunos pueblos.",
   contundencia: "media",
   coste: "económica"
@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
     "Sirve con hojas de hierbabuena picadas por encima y pimienta recién molida."
   ],
   nutricion: { kcal: 440, prot: 34, hc: 44, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "para niños"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "En Portugal es la sopa que se da a los convalecientes y a las parturientas. Si la recalientas, el arroz habrá absorbido caldo: añade agua caliente o caldo hasta recuperar la textura.",
   contundencia: "ligera",
   coste: "económica"
@@ -316,7 +316,7 @@ window.RECETAS_SEED.push({
     "Sirve con eneldo picado y una cucharada de yogur en cada plato, y pan de centeno al lado."
   ],
   nutricion: { kcal: 440, prot: 28, hc: 36, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Los rusos dicen que el shchi está mejor al día siguiente, y tienen razón. En invierno se hace con chucrut en lugar de col fresca: prueba a sustituir un tercio del repollo por chucrut escurrido.",
   contundencia: "ligera",
   coste: "económica"
@@ -359,7 +359,7 @@ window.RECETAS_SEED.push({
     "Salpimienta y sirve con perejil picado y una rebanada de pan de centeno."
   ],
   nutricion: { kcal: 700, prot: 24, hc: 66, grasa: 38 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "poco especiada"],
   consejo: "Usa patata harinosa (de las que se deshacen) para que la sopa espese sola. En Alemania se toma también con un chorrito de vinagre o mostaza al servir: pruébalo, le da mucha alegría.",
   contundencia: "contundente",
   coste: "económica"
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
     "Salpimienta y sirve enseguida con albahaca fresca y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 710, prot: 24, hc: 104, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "rápida", "para niños"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "rápida", "para niños", "poco especiada"],
   consejo: "En Nápoles se hace con los restos de distintos paquetes de pasta mezclados: cada forma se cuece a un ritmo y la textura queda todavía mejor. Si añades un dado de provolone al final, se convierte en 'pasta e patate con la provola'.",
   contundencia: "contundente",
   coste: "económica"
@@ -480,7 +480,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con pimienta recién molida."
   ],
   nutricion: { kcal: 440, prot: 24, hc: 36, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "sin verduras", "poco especiada"],
   consejo: "Si prefieres la clara más hecha, escalfa los huevos 1 minuto en el caldo antes de ponerlos sobre el pan. Cuenta la leyenda que se inventó para el rey Francisco I de Francia, tras la batalla de Pavía.",
   contundencia: "ligera",
   coste: "económica"
@@ -523,7 +523,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa en platos hondos con el rape y las verduras dentro, y pimienta recién molida."
   ],
   nutricion: { kcal: 530, prot: 38, hc: 48, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "para invitados", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "En las islas griegas el pescado y las verduras se sirven aparte, como segundo plato, y la sopa sola como primero. El truco del avgolemono es templar el huevo poco a poco con el caldo, nunca al revés.",
   contundencia: "media",
   coste: "premium"
@@ -565,7 +565,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa con un hilo de mantequilla roja por encima y un gajo de limón para exprimir."
   ],
   nutricion: { kcal: 490, prot: 20, hc: 76, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "superalimentos"],
   consejo: "Cuenta la tradición que la inventó Ezo, una novia de un pueblo de Gaziantep. En Turquía se toma hasta para desayunar. Si te gusta más fina, tritura solo la mitad.",
   contundencia: "media",
   coste: "económica"
@@ -649,7 +649,7 @@ window.RECETAS_SEED.push({
     "Sirve con dados de aguacate, queso fresco desmenuzado, cilantro picado y unas gotas de lima."
   ],
   nutricion: { kcal: 450, prot: 14, hc: 58, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "El secreto es dorar bien los fideos antes de añadir el tomate: dan un sabor tostado que no tiene ninguna otra sopa de fideos. Si te gusta el picante, añade un chile chipotle al triturar el tomate.",
   contundencia: "ligera",
   coste: "económica"
@@ -741,7 +741,7 @@ window.RECETAS_SEED.push({
     "Sirve muy caliente con un gajo de lima para exprimir."
   ],
   nutricion: { kcal: 710, prot: 44, hc: 80, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "bajo en colesterol"],
   consejo: "En Perú es el plato de la madrugada después de las fiestas, 'el levantamuertos'. Las espinacas no son tradicionales, pero refuerzan el color verde sin que se note el sabor.",
   contundencia: "contundente",
   coste: "económica"
@@ -827,7 +827,7 @@ window.RECETAS_SEED.push({
     "Sirve con una mazorca en cada plato y pon en la mesa, para que cada uno añada a su gusto, la nata, las alcaparras y el aguacate en láminas."
   ],
   nutricion: { kcal: 800, prot: 46, hc: 78, grasa: 34 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "de domingo", "para invitados", "poco especiada"],
   consejo: "En Colombia se usan tres patatas: sabanera, pastusa y criolla (amarilla), que se deshace del todo y le da su color. Mezcla aquí una patata harinosa con otra de carne amarilla y conseguirás algo muy parecido.",
   contundencia: "contundente",
   coste: "media"
@@ -914,7 +914,7 @@ window.RECETAS_SEED.push({
     "Añade la carne de las almejas, calienta 1 minuto, salpimienta y sirve con el pan tostado."
   ],
   nutricion: { kcal: 680, prot: 34, hc: 50, grasa: 38 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "para invitados", "poco especiada"],
   consejo: "No añadas las almejas hasta el último momento o quedarán como gomas. En Boston se sirve con 'oyster crackers', unas galletitas saladas; unos dados de pan tostado cumplen la misma función.",
   contundencia: "contundente",
   coste: "premium"
@@ -958,7 +958,7 @@ window.RECETAS_SEED.push({
     "Salpimienta y sirve con el pan tostado."
   ],
   nutricion: { kcal: 550, prot: 36, hc: 44, grasa: 26 },
-  etiquetas: ["tradicional", "para invitados", "de domingo", "invierno"],
+  etiquetas: ["tradicional", "para invitados", "de domingo", "invierno", "poco especiada"],
   consejo: "Todo el sabor de la bisque está en las cáscaras: tuéstalas sin miedo hasta que se peguen un poco al fondo. El arroz es el espesante clásico de las bisques antiguas, antes de que se usara la nata.",
   contundencia: "media",
   coste: "premium"
@@ -1003,7 +1003,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo un trozo de carne, una patata, un trozo de calabaza y media mazorca por persona, con mucho caldo y cilantro picado por encima."
   ],
   nutricion: { kcal: 740, prot: 46, hc: 80, grasa: 26 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "poco especiada"],
   consejo: "La cazuela se presenta con las piezas enteras, no troceadas: es parte de su encanto. Se come primero el caldo con el arroz y luego las piezas, con un pebre (tomate, cebolla y cilantro picados) al lado.",
   contundencia: "contundente",
   coste: "media"
@@ -1048,7 +1048,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve con el resto del parmesano por encima."
   ],
   nutricion: { kcal: 570, prot: 38, hc: 46, grasa: 26 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "para niños", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "para niños", "de domingo", "poco especiada"],
   consejo: "'Maritata' significa 'casada': se refiere a lo bien que se casan la verdura y la carne, no a las bodas. Si la escarola te resulta amarga, sustitúyela por espinacas o acelgas.",
   contundencia: "media",
   coste: "media"

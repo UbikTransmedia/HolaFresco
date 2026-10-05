@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls: bulgur en la base, pollo encima, el pepino y la cebolla escurridos a un lado, los tomates cherry partidos y la salsa de yogur. Termina con el resto de la menta y un chorrito del zumo de limón."
   ],
   nutricion: { kcal: 460, prot: 42, hc: 44, grasa: 13 },
-  etiquetas: ["alta en proteína", "ligera", "ideal para llevar", "verano"],
+  etiquetas: ["alta en proteína", "ligera", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Si no encuentras za'atar, mézclalo tú: 1 cucharada de tomillo seco, 1 de sésamo tostado, 1 cucharadita de zumaque (o ralladura de limón) y una pizca de sal.",
   contundencia: "ligera",
   coste: "económica"
@@ -88,7 +88,7 @@ window.RECETAS_SEED.push({
     "Reparte el arroz templado en dos bowls y coloca encima, por zonas, el salmón escurrido, el edamame, el mango, el pepino y el aguacate. Riega con un poco de la marinada, espolvorea sésamo, cebolleta y nori, y añade sriracha si te gusta picante."
   ],
   nutricion: { kcal: 770, prot: 43, hc: 80, grasa: 31 },
-  etiquetas: ["alta en proteína", "verano", "sin horno", "bowl"],
+  etiquetas: ["alta en proteína", "verano", "sin horno", "bowl", "superalimentos"],
   consejo: "Si prefieres no comer pescado crudo, marca los dados de salmón 1 minuto por cara en una sartén muy caliente antes de mezclarlos con la marinada.",
   contundencia: "contundente",
   coste: "premium"
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Mezcla las lentejas templadas con la vinagreta, la cebolla morada en plumas finas y la mitad del perejil picado. Reparte en dos platos, pon encima las tiras de pimiento y el chorizo, abre el huevo mollet sobre cada ración y termina con el resto del perejil y pimienta."
   ],
   nutricion: { kcal: 720, prot: 40, hc: 54, grasa: 38 },
-  etiquetas: ["invierno", "batch cooking", "alta en proteína", "de cuchara y tenedor"],
+  etiquetas: ["invierno", "batch cooking", "alta en proteína", "de cuchara y tenedor", "poco especiada"],
   consejo: "Las lentejas y los pimientos se pueden asar y cocer la víspera; al día siguiente solo tienes que templar las lentejas 1 minuto en el microondas y hacer los huevos.",
   contundencia: "contundente",
   coste: "económica"
@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
     "Añade los fideos y el edamame al bol del aliño y remueve bien. Reparte en dos cuencos, pon encima el tofu, el pepino y la cebolleta, y termina con el sésamo y el chile en rodajas."
   ],
   nutricion: { kcal: 590, prot: 30, hc: 64, grasa: 24 },
-  etiquetas: ["rápida", "verano", "ideal para llevar", "sin horno"],
+  etiquetas: ["rápida", "verano", "ideal para llevar", "sin horno", "superalimentos", "bajo en colesterol"],
   consejo: "Si lo llevas al trabajo, guarda el tofu aparte y añádelo al final para que no se ablande con el aliño.",
   contundencia: "media",
   coste: "media"
@@ -225,7 +225,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con el zumo de la media lima restante y una pizca de sal. Monta los bowls con el arroz, la lechuga en tiras, las alubias, el maíz escurrido, el pollo, el pico de gallo y la crema de yogur."
   ],
   nutricion: { kcal: 790, prot: 53, hc: 96, grasa: 22 },
-  etiquetas: ["alta en proteína", "picante", "ideal para llevar", "batch cooking", "bowl"],
+  etiquetas: ["alta en proteína", "picante", "ideal para llevar", "batch cooking", "bowl", "bajo en colesterol"],
   consejo: "Para una versión más ligera, cambia la mitad del arroz por más lechuga y añade medio aguacate en láminas: pierdes hidrato y ganas grasa buena.",
   contundencia: "contundente",
   coste: "económica"
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
     "Sirve templada con los cuartos de huevo encima, el bacon crujiente y un buen puñado de cebollino y perejil picados."
   ],
   nutricion: { kcal: 610, prot: 24, hc: 62, grasa: 30 },
-  etiquetas: ["invierno", "ideal para llevar", "sin horno", "económica"],
+  etiquetas: ["invierno", "ideal para llevar", "sin horno", "económica", "poco especiada"],
   consejo: "Esta ensalada está incluso mejor al día siguiente, fría o templada 1 minuto en el microondas. Si la quieres más proteica, añade 2 salchichas tipo frankfurt o bratwurst a la plancha en rodajas.",
   contundencia: "media",
   coste: "media"
@@ -314,7 +314,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, desmenuza el feta por encima en trozos grandes y corona con los garbanzos crujientes recién salidos del horno, para que contrasten con la verdura fría."
   ],
   nutricion: { kcal: 590, prot: 22, hc: 42, grasa: 38 },
-  etiquetas: ["verano", "al horno", "económica", "vegetariana"],
+  etiquetas: ["verano", "al horno", "económica", "vegetariana", "poco especiada"],
   consejo: "Para completar la proteína, acompaña con una pita integral tostada untada en hummus, o sube los garbanzos a 400 g.",
   contundencia: "media",
   coste: "económica"
@@ -353,7 +353,7 @@ window.RECETAS_SEED.push({
     "Dispón las lonchas de jamón arrugadas entre los melocotones. Riega con el aliño, salpica con escamas de sal sobre la burrata, pimienta recién molida y las hojas de albahaca rotas con las manos. Sirve enseguida."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 20, grasa: 32 },
-  etiquetas: ["verano", "rápida", "ligera", "para invitados"],
+  etiquetas: ["verano", "rápida", "ligera", "para invitados", "poco especiada"],
   consejo: "Acompaña con rebanadas de pan de masa madre tostadas con un hilo de aceite: completan el plato y recogen la crema de la burrata.",
   contundencia: "ligera",
   coste: "premium"
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
     "Mezcla el kale con las lentejas escurridas y la mitad del aliño. Reparte en dos platos, coloca encima la remolacha, los gajos de naranja y la cebolla, desmenuza el queso de cabra y termina con las nueces y el resto del aliño."
   ],
   nutricion: { kcal: 620, prot: 27, hc: 59, grasa: 31 },
-  etiquetas: ["invierno", "al horno", "ideal para llevar", "vegetariana"],
+  etiquetas: ["invierno", "al horno", "ideal para llevar", "vegetariana", "superalimentos", "poco especiada"],
   consejo: "Asa el doble de remolacha: aguanta 5 días en la nevera y te sirve para hummus, cremas o para repetir la ensalada entre semana en 10 minutos.",
   contundencia: "media",
   coste: "media"
@@ -443,7 +443,7 @@ window.RECETAS_SEED.push({
     "Tuesta las semillas de calabaza 2 minutos en una sartén seca. Junta en el bol la col escurrida, la zanahoria, la manzana, la cebolleta, el apio y el pollo; mezcla con el aliño y termina con las semillas y el perejil picado."
   ],
   nutricion: { kcal: 465, prot: 43, hc: 31, grasa: 19 },
-  etiquetas: ["alta en proteína", "ligera", "ideal para llevar", "sin horno", "invierno"],
+  etiquetas: ["alta en proteína", "ligera", "ideal para llevar", "sin horno", "invierno", "poco especiada"],
   consejo: "Guarda el caldo de escalfar el pollo: colado y con un puñado de fideos es una sopa de aprovechamiento para la noche.",
   contundencia: "ligera",
   coste: "económica"
@@ -487,7 +487,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre un lecho de rúcula y reparte el atún escurrido en lascas grandes por encima, sin deshacerlo. Termina con el resto del limón en gajos para exprimir al gusto."
   ],
   nutricion: { kcal: 395, prot: 28, hc: 28, grasa: 19 },
-  etiquetas: ["sin cocción", "rápida", "ligera", "ideal para llevar", "económica", "verano"],
+  etiquetas: ["sin cocción", "rápida", "ligera", "ideal para llevar", "económica", "verano", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si el atún es de buena calidad (ventresca o bonito), usa 1 cucharada de su propio aceite en la vinagreta en lugar de parte del aceite de oliva.",
   contundencia: "ligera",
   coste: "económica"
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
     "Mezcla la quinoa templada con el maíz escurrido, los cherry, la cebolla y el aliño. Reparte en dos cuencos y coloca encima los langostinos y el aguacate. Termina con unas hojas de cilantro y el chile."
   ],
   nutricion: { kcal: 590, prot: 33, hc: 58, grasa: 25 },
-  etiquetas: ["verano", "sin gluten", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["verano", "sin gluten", "ideal para llevar", "alta en proteína", "superalimentos"],
   consejo: "Si la llevas en táper, guarda el aguacate entero y córtalo justo antes de comer; la quinoa aliñada mejora de un día para otro.",
   contundencia: "media",
   coste: "premium"
@@ -575,7 +575,7 @@ window.RECETAS_SEED.push({
     "Reparte los canónigos en dos platos, encima las patatas y espárragos, los rábanos y los huevos partidos por la mitad. Salpica las yemas con sal en escamas y riega con el resto del aliño."
   ],
   nutricion: { kcal: 465, prot: 21, hc: 43, grasa: 23 },
-  etiquetas: ["ligera", "sin horno", "primavera", "económica", "vegetariana"],
+  etiquetas: ["ligera", "sin horno", "primavera", "económica", "vegetariana", "poco especiada"],
   consejo: "Fuera de temporada de espárragos, sustitúyelos por judías verdes finas escaldadas 4 minutos: el resultado es igual de bueno.",
   contundencia: "ligera",
   coste: "económica"
@@ -663,7 +663,7 @@ window.RECETAS_SEED.push({
     "Añade los cherry asados con su jugo y la mozzarella troceada o las perlas, remueve con cuidado y termina con pimienta y unas hojas de albahaca. Se come templada o fría."
   ],
   nutricion: { kcal: 770, prot: 32, hc: 68, grasa: 41 },
-  etiquetas: ["ideal para llevar", "batch cooking", "vegetariana", "verano", "al horno"],
+  etiquetas: ["ideal para llevar", "batch cooking", "vegetariana", "verano", "al horno", "poco especiada"],
   consejo: "El pesto de espinacas se congela bien en cubiteras; descongela un par de cubos y tienes la ensalada en el tiempo que tarda en cocer la pasta.",
   contundencia: "contundente",
   coste: "media"
@@ -711,7 +711,7 @@ window.RECETAS_SEED.push({
     "Mezcla el cuscús con la cebolla, las pasas, las hierbas y la mitad del aliño. Reparte en dos platos y coloca encima las zanahorias, los garbanzos y las almendras calientes. Riega con el resto del aliño justo antes de servir."
   ],
   nutricion: { kcal: 605, prot: 21, hc: 87, grasa: 19 },
-  etiquetas: ["al horno", "ideal para llevar", "económica", "vegana", "batch cooking"],
+  etiquetas: ["al horno", "ideal para llevar", "económica", "vegana", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Para subir la proteína sin tocar el sabor, añade 100 g de queso feta desmenuzado o un huevo cocido por persona; con la zanahoria y la canela funciona de maravilla.",
   contundencia: "media",
   coste: "económica"
@@ -757,7 +757,7 @@ window.RECETAS_SEED.push({
     "Reparte las espinacas crudas en dos platos, encima las lentejas aliñadas y la coliflor recién salida del horno. Riega con la salsa de yogur y termina con el resto del limón en gajos."
   ],
   nutricion: { kcal: 470, prot: 23, hc: 55, grasa: 18 },
-  etiquetas: ["al horno", "ligera", "económica", "vegetariana", "invierno"],
+  etiquetas: ["al horno", "ligera", "económica", "vegetariana", "invierno", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Si tienes garam masala, espolvorea media cucharadita sobre la coliflor nada más salir del horno: aporta el aroma que el curry en polvo pierde con el calor.",
   contundencia: "ligera",
   coste: "económica"
@@ -848,7 +848,7 @@ window.RECETAS_SEED.push({
     "Mezcla las lentejas templadas con la mitad de la vinagreta y el eneldo picado. Reparte en dos platos, pon encima el hinojo y la cebolla escurridos, los gajos de naranja y los canónigos. Trocea el salmón en lascas grandes sobre todo, riega con el resto de la vinagreta y adorna con las barbas del hinojo."
   ],
   nutricion: { kcal: 610, prot: 45, hc: 48, grasa: 26 },
-  etiquetas: ["al horno", "alta en proteína", "invierno", "omega 3"],
+  etiquetas: ["al horno", "alta en proteína", "invierno", "omega 3", "superalimentos", "poco especiada"],
   consejo: "La piel del salmón queda crujiente si la secas muy bien y la pones los últimos 2 minutos con el grill; trocéala y espárcela por encima como si fueran chips.",
   contundencia: "media",
   coste: "premium"
@@ -891,7 +891,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, añade los garbanzos y los picatostes calientes, el resto del aliño en hilos y el parmesano restante en lascas."
   ],
   nutricion: { kcal: 545, prot: 30, hc: 47, grasa: 26 },
-  etiquetas: ["al horno", "alta en proteína", "invierno", "ideal para llevar"],
+  etiquetas: ["al horno", "alta en proteína", "invierno", "ideal para llevar", "superalimentos", "poco especiada"],
   consejo: "Para una versión sin pescado, sustituye las anchoas por 1 cucharadita de alcaparras machacadas y una pizca más de sal: aportan el mismo punto salino y umami.",
   contundencia: "media",
   coste: "media"
@@ -940,7 +940,7 @@ window.RECETAS_SEED.push({
     "Aliña las verduras con el zumo del medio limón restante, el resto del aceite y sal. Repártelas en dos platos, pon encima el pollo en tiras gruesas, cucharadas de raita, el resto de la menta y el cilantro, y la pita tostada a un lado."
   ],
   nutricion: { kcal: 455, prot: 36, hc: 31, grasa: 21 },
-  etiquetas: ["marinado", "al horno", "alta en proteína", "ligera", "picante"],
+  etiquetas: ["marinado", "al horno", "alta en proteína", "ligera", "picante", "bajo en colesterol"],
   consejo: "Sin horno, hazlo en la plancha bien caliente 5-6 minutos por cara; el yogur de la marinada se tuesta y da ese sabor a tandoor.",
   contundencia: "ligera",
   coste: "media"
@@ -1030,7 +1030,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, pon encima las lascas de bacalao y los cuartos de huevo y termina con el perejil y un hilo más de aceite."
   ],
   nutricion: { kcal: 710, prot: 49, hc: 58, grasa: 31 },
-  etiquetas: ["verano", "sin horno", "alta en proteína", "batch cooking", "tradicional"],
+  etiquetas: ["verano", "sin horno", "alta en proteína", "batch cooking", "tradicional", "poco especiada"],
   consejo: "Con judías de bote (400 g escurridas) tienes el plato en 20 minutos; enjuágalas bien y alíñalas con antelación para que absorban la vinagreta.",
   contundencia: "contundente",
   coste: "media"
@@ -1123,7 +1123,7 @@ window.RECETAS_SEED.push({
     "Mezcla en un bol grande la remolacha, la zanahoria, la manzana, las lentejas, la cebolleta y las hierbas con tres cuartos del aliño. Reparte en dos platos, riega con el resto y termina con las semillas tostadas."
   ],
   nutricion: { kcal: 465, prot: 20, hc: 54, grasa: 19 },
-  etiquetas: ["sin cocción", "rápida", "ligera", "vegana", "ideal para llevar", "invierno"],
+  etiquetas: ["sin cocción", "rápida", "ligera", "vegana", "ideal para llevar", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si la preparas con antelación, mezcla la remolacha al final: tiñe todo de morado en pocos minutos. Aguanta 2 días en la nevera y mejora de sabor.",
   contundencia: "ligera",
   coste: "económica"

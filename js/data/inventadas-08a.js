@@ -36,7 +36,7 @@ window.RECETAS_SEED.push({
     "Sirve las alcachofas calientes rociadas con la vinagreta de ajo y, si quieres, con las tiras de jamón por encima."
   ],
   nutricion: { kcal: 290, prot: 8, hc: 28, grasa: 15 },
-  etiquetas: ["rápida", "ligera", "al vapor", "económica", "invierno"],
+  etiquetas: ["rápida", "ligera", "al vapor", "económica", "invierno", "poco especiada"],
   consejo: "Si tu olla no tiene cestillo, pon las alcachofas directamente en el agua con limón: quedan igual de buenas y el caldo sirve para una crema."
 });
 
@@ -80,7 +80,7 @@ window.RECETAS_SEED.push({
     "Sirve entera en una fuente, nápala con la salsa de tahini y reparte por encima los granos de granada, el perejil picado, el resto del limón en gajos y los piñones."
   ],
   nutricion: { kcal: 340, prot: 11, hc: 30, grasa: 19 },
-  etiquetas: ["rápida", "ligera", "vegetariano", "para compartir", "al vapor"],
+  etiquetas: ["rápida", "ligera", "vegetariano", "para compartir", "al vapor", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Para hacerla con antelación, cuécela por la mañana y márcala en la sartén justo antes de servir: el contraste tostado-tierno es lo que la hace especial."
 });
 
@@ -124,7 +124,7 @@ window.RECETAS_SEED.push({
     "Extiende el yogur al eneldo en el fondo de dos platos, pon encima la remolacha, las nueces y el eneldo reservado. Acompaña con el pan tostado."
   ],
   nutricion: { kcal: 320, prot: 10, hc: 30, grasa: 17 },
-  etiquetas: ["rápida", "ligera", "vegetariano", "verano", "ideal para llevar", "económica"],
+  etiquetas: ["rápida", "ligera", "vegetariano", "verano", "ideal para llevar", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La remolacha cocida aguanta 5 días en la nevera: haz el doble y tendrás base para ensaladas y hummus rosa toda la semana."
 });
 
@@ -167,7 +167,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con los champiñones reservados, pimienta recién molida y un poco más de parmesano."
   ],
   nutricion: { kcal: 560, prot: 16, hc: 72, grasa: 22 },
-  etiquetas: ["rápida", "vegetariano", "cremoso", "una sola olla", "otoño"],
+  etiquetas: ["rápida", "vegetariano", "cremoso", "una sola olla", "otoño", "poco especiada"],
   consejo: "La proporción mágica en olla exprés es 1 parte de arroz por 2,5 de líquido (vino incluido). Con esto no fallarás con ningún risotto."
 });
 
@@ -212,7 +212,7 @@ window.RECETAS_SEED.push({
     "Corona con cebolleta, cilantro, menta, chile y un buen chorro de lima. Sirve enseguida."
   ],
   nutricion: { kcal: 410, prot: 34, hc: 48, grasa: 8 },
-  etiquetas: ["rápida", "ligera", "sopa", "alta en proteína", "sin gluten", "invierno"],
+  etiquetas: ["rápida", "ligera", "sopa", "alta en proteína", "sin gluten", "invierno", "sin verduras", "bajo en colesterol"],
   consejo: "Si tienes 10 min más, sustituye el caldo envasado por el de la receta de sopa de pollo de este bloque: el pho sube de nivel."
 });
 
@@ -260,7 +260,7 @@ window.RECETAS_SEED.push({
     "Sirve con el arroz, cilantro picado y un chorro de lima."
   ],
   nutricion: { kcal: 520, prot: 22, hc: 60, grasa: 20 },
-  etiquetas: ["de cuchara", "vegano", "económica", "batch cooking", "rápida"],
+  etiquetas: ["de cuchara", "vegano", "económica", "batch cooking", "rápida", "superalimentos"],
   consejo: "Las lentejas rojas se pasan enseguida: 5 min es el punto. Si quieres textura con más grano, usa 4 min y despresuriza natural 10."
 });
 
@@ -305,7 +305,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré, el pollo encima y la salsa de mostaza por todo. Un poco de pimienta recién molida y listo."
   ],
   nutricion: { kcal: 600, prot: 42, hc: 32, grasa: 34 },
-  etiquetas: ["una sola olla", "para niños", "otoño", "alta en proteína"],
+  etiquetas: ["una sola olla", "para niños", "otoño", "alta en proteína", "poco especiada"],
   consejo: "Si prefieres la piel del pollo crujiente al servir, pásalo 3 min bajo el grill del horno mientras reduces la salsa."
 });
 
@@ -352,7 +352,7 @@ window.RECETAS_SEED.push({
     "Mezcla la mayonesa con el ajo restante majado y unas gotas de limón. Sirve el guiso con perejil picado y una cucharada del alioli encima de cada plato."
   ],
   nutricion: { kcal: 500, prot: 34, hc: 42, grasa: 22 },
-  etiquetas: ["de cuchara", "marinero", "alta en proteína", "primavera"],
+  etiquetas: ["de cuchara", "marinero", "alta en proteína", "primavera", "poco especiada"],
   consejo: "La sepia congelada va perfecta aquí y sale más barata: descongélala en la nevera la noche antes y sécala muy bien."
 });
 
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida en plato hondo con perejil picado y limón al lado."
   ],
   nutricion: { kcal: 560, prot: 30, hc: 72, grasa: 16 },
-  etiquetas: ["arroz", "marinero", "de cuchara", "fin de semana"],
+  etiquetas: ["arroz", "marinero", "de cuchara", "fin de semana", "poco especiada"],
   consejo: "El arroz caldoso no espera: si no lo vas a comer al momento, deja el arroz 1 min menos de presión. En olla normal, sofríe igual y cuece 16-18 min a fuego medio."
 });
 
@@ -443,7 +443,7 @@ window.RECETAS_SEED.push({
     "Sirve con el huevo duro en cuartos encima y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 540, prot: 38, hc: 50, grasa: 20 },
-  etiquetas: ["de cuchara", "cuaresma", "alta en proteína", "invierno", "rápida"],
+  etiquetas: ["de cuchara", "cuaresma", "alta en proteína", "invierno", "rápida", "superalimentos", "poco especiada"],
   consejo: "Si el bacalao es de punto de sal, no eches sal al guiso hasta el final. En olla normal, cuece los garbanzos en el sofrito 15 min en vez de 4 a presión."
 });
 
@@ -537,7 +537,7 @@ window.RECETAS_SEED.push({
     "Sirve con el arroz, los anacardos tostados troceados, cilantro picado y gajos de lima."
   ],
   nutricion: { kcal: 560, prot: 18, hc: 62, grasa: 26 },
-  etiquetas: ["vegano", "económica", "batch cooking", "de cuchara", "otoño"],
+  etiquetas: ["vegano", "económica", "batch cooking", "de cuchara", "otoño", "superalimentos"],
   consejo: "Para una versión más proteica, añade 200 g de tofu firme en dados dorados en la sartén junto a las espinacas."
 });
 
@@ -583,7 +583,7 @@ window.RECETAS_SEED.push({
     "Añade el chorizo, la kale, sal y pimienta y cuece destapado 6-8 min a fuego medio hasta que la kale esté tierna y el caldo ligue. Deja reposar 5 min y sirve."
   ],
   nutricion: { kcal: 700, prot: 34, hc: 70, grasa: 30 },
-  etiquetas: ["de cuchara", "económica", "batch cooking", "invierno", "sin remojo"],
+  etiquetas: ["de cuchara", "económica", "batch cooking", "invierno", "sin remojo", "poco especiada"],
   consejo: "En garbanzos desde seco la variedad importa: los pedrosillanos pequeños quedan en 35 min; los castellanos grandes necesitan 45. Haz el doble: congelan perfecto."
 });
 
@@ -632,7 +632,7 @@ window.RECETAS_SEED.push({
     "Sirve la polenta, el ossobuco encima con su salsa y una buena cucharada de gremolata. Rebaña el tuétano con pan: es lo mejor del plato."
   ],
   nutricion: { kcal: 680, prot: 48, hc: 38, grasa: 36 },
-  etiquetas: ["fin de semana", "invierno", "guiso", "alta en proteína"],
+  etiquetas: ["fin de semana", "invierno", "guiso", "alta en proteína", "poco especiada"],
   consejo: "En cazuela tradicional necesita 2 h a fuego muy suave; en la olla, con despresurización natural, nunca lo aceleres con agua fría o la carne se tensará."
 });
 
@@ -725,7 +725,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado, huevo duro picado y, si te gusta, unas hojas de hierbabuena."
   ],
   nutricion: { kcal: 400, prot: 34, hc: 40, grasa: 10 },
-  etiquetas: ["sopa", "ligera", "invierno", "económica", "para niños", "batch cooking"],
+  etiquetas: ["sopa", "ligera", "invierno", "económica", "para niños", "batch cooking", "poco especiada"],
   consejo: "Haz el doble de caldo y congélalo en tarros: es la base de medio recetario. Las alitas son la parte más barata y la que más gelatina da."
 });
 
@@ -770,7 +770,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con el caldo ligado y las almejas repartidas."
   ],
   nutricion: { kcal: 620, prot: 38, hc: 72, grasa: 20 },
-  etiquetas: ["de cuchara", "marinero", "fin de semana", "sin remojo", "invierno"],
+  etiquetas: ["de cuchara", "marinero", "fin de semana", "sin remojo", "invierno", "poco especiada"],
   consejo: "Si tienes tiempo, 1 h de remojo en agua caliente acorta la presión a 25 min. Y si te asustan las almejas, los mejillones limpios funcionan igual."
 });
 
@@ -817,7 +817,7 @@ window.RECETAS_SEED.push({
     "Sirve la mujaddara con la cebolla crujiente por encima, la salsa de yogur al lado y gajos de limón."
   ],
   nutricion: { kcal: 580, prot: 20, hc: 90, grasa: 16 },
-  etiquetas: ["vegetariano", "económica", "batch cooking", "ideal para llevar", "especiado"],
+  etiquetas: ["vegetariano", "económica", "batch cooking", "ideal para llevar", "especiado", "poco especiada", "bajo en colesterol"],
   consejo: "La cebolla es el alma del plato: no tengas prisa y deja que llegue a marrón oscuro, casi quemada en las puntas. Un chorrito del aceite de freírla sobre el plato final es tradición."
 });
 
@@ -864,7 +864,7 @@ window.RECETAS_SEED.push({
     "Saca las patatas. Si la salsa está líquida, reduce destapado 5 min a fuego fuerte. Rectifica de sal, pimienta y un toque más de vinagre si lo quieres más vivo. Sirve con las patatas y tomillo fresco."
   ],
   nutricion: { kcal: 740, prot: 46, hc: 60, grasa: 34 },
-  etiquetas: ["de cuchara", "invierno", "guiso", "batch cooking", "fin de semana"],
+  etiquetas: ["de cuchara", "invierno", "guiso", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "La cerveza negra deja un amargor noble: si no te convence, equilibra al final con otra cucharadita de azúcar o un chorro de nata."
 });
 
@@ -964,7 +964,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré, el rabo encima y salsea generosamente. Mejor aún al día siguiente."
   ],
   nutricion: { kcal: 880, prot: 52, hc: 44, grasa: 54 },
-  etiquetas: ["fin de semana", "invierno", "guiso", "contundente", "de víspera"],
+  etiquetas: ["fin de semana", "invierno", "guiso", "contundente", "de víspera", "poco especiada"],
   consejo: "Si el rabo es de vaca (más barato que el de toro de lidia) el tiempo es el mismo. Deshuesado y en frío, la carne con su salsa es un relleno espectacular para raviolis o croquetas."
 });
 
@@ -1063,7 +1063,7 @@ window.RECETAS_SEED.push({
     "Mientras, cuece el arroz blanco en 300 ml del caldo reservado (15 min a fuego suave tapado). Sirve la ropa vieja sobre el arroz."
   ],
   nutricion: { kcal: 680, prot: 44, hc: 62, grasa: 28 },
-  etiquetas: ["batch cooking", "guiso", "contundente", "de víspera", "ideal para llevar"],
+  etiquetas: ["batch cooking", "guiso", "contundente", "de víspera", "ideal para llevar", "poco especiada"],
   consejo: "La falda es barata y perfecta para desmechar; también sirve morcillo. Sobras: rellena empanadillas o tacos, o mézclala con huevo revuelto."
 });
 
@@ -1106,7 +1106,7 @@ window.RECETAS_SEED.push({
     "Saca el compango, córtalo en trozos y sirve las fabes en plato hondo con los embutidos y la panceta repartidos."
   ],
   nutricion: { kcal: 960, prot: 50, hc: 76, grasa: 50 },
-  etiquetas: ["de cuchara", "invierno", "contundente", "fin de semana", "de víspera", "sin remojo"],
+  etiquetas: ["de cuchara", "invierno", "contundente", "fin de semana", "de víspera", "sin remojo", "sin verduras", "poco especiada"],
   consejo: "Es un plato de domingo: hazla por la mañana y deja que repose hasta la comida. Si quieres aligerarla, desgrasa el caldo con un cucharón antes del reposo final."
 });
 
@@ -1157,6 +1157,6 @@ window.RECETAS_SEED.push({
     "Sirve el cordero con su salsa sobre el cuscús, con las almendras, el sésamo y cilantro picado por encima."
   ],
   nutricion: { kcal: 780, prot: 44, hc: 68, grasa: 36 },
-  etiquetas: ["fin de semana", "especiado", "agridulce", "contundente", "guiso"],
+  etiquetas: ["fin de semana", "especiado", "agridulce", "contundente", "guiso", "sin verduras"],
   consejo: "Si usas cordero con hueso (cuello o pierna troceada), sube a 30 min de presión. En olla tradicional, cuenta 1 h 45 min a fuego muy suave."
 });

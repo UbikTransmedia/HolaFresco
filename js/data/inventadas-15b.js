@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Coloca encima las sardinas en lomos, las alcaparras, perejil picado y una vuelta de pimienta. Sirve con la ensalada de hinojo coronada con sus hojitas."
   ],
   nutricion: { kcal: 434, prot: 28, hc: 40, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Un poco de ralladura de naranja sobre las sardinas une los dos elementos del plato. Si te gusta el picante, añade unas escamas de guindilla al tomate rallado.",
   contundencia: "ligera",
   coste: "económica"
@@ -129,7 +129,7 @@ window.RECETAS_SEED.push({
     "Sirve con ralladura y zumo de limón, perejil picado y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 672, prot: 50, hc: 55, grasa: 28 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "para invitados", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "para invitados", "invierno", "poco especiada"],
   consejo: "Congelar el pulpo rompe sus fibras y lo deja tierno sin necesidad de asustarlo. Si te sobra, trocéalo frío con las patatas, cebolleta y vinagreta: tienes una ensalada al día siguiente.",
   contundencia: "contundente",
   coste: "premium"
@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
     "Sirve los calamares cortados en rodajas gruesas con la salsa, el resto del perejil, la rúcula aliñada con zumo de limón y el último aceite, y el pan para la salsa."
   ],
   nutricion: { kcal: 660, prot: 52, hc: 50, grasa: 28 },
-  etiquetas: ["mediterránea", "aromática", "para invitados", "batch cooking", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "para invitados", "batch cooking", "invierno", "poco especiada"],
   consejo: "Están aún más ricos de un día para otro: guárdalos en su salsa y caliéntalos a fuego suave tapados. Puedes añadir unas pasas al relleno para un aire siciliano.",
   contundencia: "contundente",
   coste: "media"
@@ -219,7 +219,7 @@ window.RECETAS_SEED.push({
     "Riega con el aliño, mezcla, coloca los mejillones por encima y termina con perejil picado. Sirve templada."
   ],
   nutricion: { kcal: 424, prot: 26, hc: 44, grasa: 16 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "ideal para llevar", "aromática"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "ideal para llevar", "aromática", "superalimentos", "poco especiada"],
   consejo: "El escabeche de la lata es un aliño ya hecho lleno de sabor: no lo tires. Para llevar, guarda las espinacas aparte y mézclalo todo justo antes de comer.",
   contundencia: "ligera",
   coste: "económica"
@@ -263,7 +263,7 @@ window.RECETAS_SEED.push({
     "Sirve con la lechuga y el tomate troceados, aliñados con el zumo del otro medio limón y sal."
   ],
   nutricion: { kcal: 674, prot: 42, hc: 68, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "poco especiada"],
   consejo: "Para ganar tiempo, cuece las patatas 6 minutos en el microondas antes de meterlas al horno: así solo necesitan 20 minutos para quedar con la piel crujiente.",
   contundencia: "contundente",
   coste: "económica"
@@ -304,7 +304,7 @@ window.RECETAS_SEED.push({
     "Pásala a la fuente, riégala enseguida con el aliño de ajo y perejil y sirve con las patatas, los pimientos, gajos del otro medio limón y la sal en escamas."
   ],
   nutricion: { kcal: 694, prot: 46, hc: 60, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "poco especiada"],
   consejo: "La clave es que la sepia esté muy seca y la plancha humeando: así se dora en vez de cocerse. Si la compras congelada, descongélala en la nevera sobre un colador.",
   contundencia: "contundente",
   coste: "media"
@@ -390,7 +390,7 @@ window.RECETAS_SEED.push({
     "Sirve los mejillones calientes con gajos de limón por encima y la ensalada al lado."
   ],
   nutricion: { kcal: 450, prot: 34, hc: 38, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "ligera", "al horno", "aromática", "para invitados"],
+  etiquetas: ["mediterránea", "fácil", "ligera", "al horno", "aromática", "para invitados", "poco especiada"],
   consejo: "Cuela el caldo que sueltan los mejillones al abrirse y congélalo: es oro para un arroz o una sopa de pescado.",
   contundencia: "ligera",
   coste: "media"
@@ -475,7 +475,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos, coloca encima la caballa en lomos gruesos, desgrana la granada por encima y espolvorea otra pizca de zumaque."
   ],
   nutricion: { kcal: 558, prot: 32, hc: 58, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "verano", "libanesa"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "verano", "libanesa", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Un buen tabulé es más ensalada de hierbas que de cereal: no escatimes perejil. Aguanta 2 días en la nevera; añade la caballa al servir.",
   contundencia: "media",
   coste: "económica"
@@ -518,7 +518,7 @@ window.RECETAS_SEED.push({
     "Justo antes de servir añade la pita crujiente, mezcla y espolvorea un poco más de zumaque."
   ],
   nutricion: { kcal: 424, prot: 32, hc: 38, grasa: 16 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "libanesa"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "libanesa", "poco especiada", "bajo en colesterol"],
   consejo: "Si no tienes melaza de granada, sustitúyela por una cucharadita de miel y un chorrito de vinagre balsámico. La pita, siempre en el último momento para que cruja.",
   contundencia: "ligera",
   coste: "económica"
@@ -562,7 +562,7 @@ window.RECETAS_SEED.push({
     "Sirve con la salsa del fondo y el pan tostado para mojar."
   ],
   nutricion: { kcal: 564, prot: 40, hc: 38, grasa: 28 },
-  etiquetas: ["mediterránea", "al horno", "aromática", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "al horno", "aromática", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Puedes dejarlos rellenos y montados en la fuente la víspera: al día siguiente solo tienes que gratinarlos 25 minutos.",
   contundencia: "media",
   coste: "media"
@@ -605,7 +605,7 @@ window.RECETAS_SEED.push({
     "Mientras, corta los tomates, aliña con sal, orégano, zumo de limón y un hilo de aceite. Sirve la frittata en cuñas con la ensalada y el pan."
   ],
   nutricion: { kcal: 540, prot: 42, hc: 30, grasa: 28 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "una sola sartén", "ideal para llevar", "aromática"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "una sola sartén", "ideal para llevar", "aromática", "poco especiada"],
   consejo: "Fría está igual de buena: córtala en cuadrados para el táper o para un bocadillo con rúcula. Puedes cambiar la menta por albahaca.",
   contundencia: "media",
   coste: "media"
@@ -647,7 +647,7 @@ window.RECETAS_SEED.push({
     "Acompaña con la rúcula y los tomates aliñados con el zumo restante, sal y perejil picado."
   ],
   nutricion: { kcal: 442, prot: 38, hc: 32, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "para invitados"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "para invitados", "poco especiada"],
   consejo: "El pulpo cocido envasado es un gran atajo: con 5 minutos de plancha muy caliente parece recién hecho. Si quieres un aceite más perfumado, templa el aceite con el pimentón 10 segundos fuera del fuego, nunca más o amargará.",
   contundencia: "ligera",
   coste: "premium"
@@ -689,7 +689,7 @@ window.RECETAS_SEED.push({
     "Sirve la escalivada templada con los filetes de anchoa y los huevos por encima, y el pan con tomate al lado."
   ],
   nutricion: { kcal: 444, prot: 22, hc: 44, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "ligera", "al horno", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "ligera", "al horno", "batch cooking", "verano", "poco especiada"],
   consejo: "Haz doble cantidad de escalivada: en un tarro cubierta de aceite aguanta 5 días en la nevera y sirve para tostas, bocadillos o como guarnición.",
   contundencia: "ligera",
   coste: "media"
@@ -734,7 +734,7 @@ window.RECETAS_SEED.push({
     "Corta el calamar en tiras, ponlo caliente sobre la ensalada, riégalo con el aceite de ajo y perejil y sirve con la pita y gajos de limón."
   ],
   nutricion: { kcal: 452, prot: 36, hc: 32, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "poco especiada"],
   consejo: "El calor del calamar recién hecho ablanda un poco el feta y lo convierte en parte del aliño. No lo cocines más de 2 minutos por lado o quedará gomoso.",
   contundencia: "ligera",
   coste: "media"
@@ -777,7 +777,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas y las patatas regadas con la salsa verde y un chorrito de zumo de limón."
   ],
   nutricion: { kcal: 552, prot: 40, hc: 44, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "para invitados"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "para invitados", "poco especiada"],
   consejo: "Si usas palillos de madera, déjalos 15 minutos en agua para que no se quemen. La salsa verde sobrante es perfecta para unas patatas o un huevo duro.",
   contundencia: "media",
   coste: "premium"
@@ -824,7 +824,7 @@ window.RECETAS_SEED.push({
     "Retira el romero y el laurel, rectifica de sal y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 666, prot: 52, hc: 56, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "de cuchara", "batch cooking", "invierno", "aromática"],
+  etiquetas: ["mediterránea", "fácil", "de cuchara", "batch cooking", "invierno", "aromática", "poco especiada"],
   consejo: "Como todo guiso, gana de un día para otro. Si tienes olla exprés, la sepia queda tierna en 12 minutos y luego basta con 10 más con las patatas.",
   contundencia: "contundente",
   coste: "media"
@@ -869,7 +869,7 @@ window.RECETAS_SEED.push({
     "Tuesta los piñones en seco 2 minutos y el pan en una tostadora o en la sartén. Sirve la caponata templada con el atún en lascas por encima, los piñones, la albahaca rota con las manos y el pan."
   ],
   nutricion: { kcal: 550, prot: 32, hc: 56, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "La caponata está mejor a temperatura ambiente y al día siguiente, cuando el agridulce se asienta. Guarda el atún aparte y añádelo al servir.",
   contundencia: "media",
   coste: "económica"
@@ -912,7 +912,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de servir para que se asiente y no se desmorone."
   ],
   nutricion: { kcal: 680, prot: 34, hc: 64, grasa: 32 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "batch cooking", "aromática"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "batch cooking", "aromática", "poco especiada"],
   consejo: "Es un plato de la Apulia que se hace con lo que hay en la despensa: puedes cambiar las sardinas por caballa o atún en conserva sin perder nada de gracia.",
   contundencia: "contundente",
   coste: "económica"
@@ -956,7 +956,7 @@ window.RECETAS_SEED.push({
     "Rellena las pitas con lechuga, tomate, pepino, cebolla y el calamar caliente, y corona con abundante tzatziki y un chorrito de limón."
   ],
   nutricion: { kcal: 672, prot: 44, hc: 70, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "verano", "poco especiada"],
   consejo: "Si tienes tiempo, deja el tzatziki 30 minutos en la nevera para que el ajo y el eneldo se integren. También puedes hacerlo con calamar congelado bien escurrido.",
   contundencia: "contundente",
   coste: "económica"
@@ -1000,7 +1000,7 @@ window.RECETAS_SEED.push({
     "Sirve con la rúcula aliñada con el aceite restante y sal, y el pan tostado."
   ],
   nutricion: { kcal: 540, prot: 40, hc: 32, grasa: 28 },
-  etiquetas: ["mediterránea", "al horno", "aromática", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "al horno", "aromática", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Para que no se queden secas, rellena hasta arriba: la salsa protege la pulpa durante el gratinado. Congélalas ya rellenas y sin queso.",
   contundencia: "media",
   coste: "económica"
@@ -1042,7 +1042,7 @@ window.RECETAS_SEED.push({
     "Sirve con los canónigos aliñados con el aceite y el zumo restante del limón."
   ],
   nutricion: { kcal: 442, prot: 32, hc: 38, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Un poco de pimentón ahumado sobre la caballa le da un toque de humo muy rico. Si te sobra crema de yogur, úsala como salsa para patatas cocidas.",
   contundencia: "ligera",
   coste: "económica"

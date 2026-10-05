@@ -73,7 +73,7 @@ window.RECETAS_SEED.push({
     "Saca lascas de parmesano con un pelador y repártelas por encima junto con los piñones y las hojas de albahaca rotas con las manos. Termina con un toque de pimienta."
   ],
   nutricion: { kcal: 410, prot: 11, hc: 42, grasa: 23 },
-  etiquetas: ["verano", "sin cocción", "rápida", "ligera"],
+  etiquetas: ["verano", "sin cocción", "rápida", "ligera", "poco especiada"],
   consejo: "Es una ensalada ligera en proteína: añade unas lonchas de jamón serrano o media burrata por persona para completar la cena, o sírvela como entrante."
 });
 
@@ -111,7 +111,7 @@ window.RECETAS_SEED.push({
     "Riega con el aderezo de naranja, espolvorea las almendras y las hojas de menta troceadas y termina con pimienta negra recién molida."
   ],
   nutricion: { kcal: 550, prot: 27, hc: 28, grasa: 36 },
-  etiquetas: ["verano", "sin cocción", "rápida"],
+  etiquetas: ["verano", "sin cocción", "rápida", "poco especiada"],
   consejo: "Fuera de temporada, sustituye el albaricoque por melocotón o nectarina. Un poco de pan integral tostado completa la cena."
 });
 
@@ -183,7 +183,7 @@ window.RECETAS_SEED.push({
     "Reparte el tomate y la fresa con su jugo en una fuente, añade la cebolla, el feta y la hierbabuena picada. Riega con el aceite y termina con los pistachos, pimienta negra y las hojas enteras de hierbabuena."
   ],
   nutricion: { kcal: 450, prot: 16, hc: 25, grasa: 32 },
-  etiquetas: ["verano", "sin cocción", "rápida", "ligera"],
+  etiquetas: ["verano", "sin cocción", "rápida", "ligera", "poco especiada"],
   consejo: "Es una cena ligera en proteína: acompaña con pan integral y hummus, o añade un bote pequeño de garbanzos cocidos escurridos para completarla."
 });
 
@@ -223,7 +223,7 @@ window.RECETAS_SEED.push({
     "Extiende los canónigos en una fuente, reparte encima el pepino y los rábanos y añade la salsa de yogur a cucharadas. Corona con las lascas de bonito, la cebolleta, el eneldo restante y pimienta negra recién molida."
   ],
   nutricion: { kcal: 305, prot: 27, hc: 11, grasa: 17 },
-  etiquetas: ["ligera", "sin cocción", "rápida", "verano", "alta en proteína"],
+  etiquetas: ["ligera", "sin cocción", "rápida", "verano", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Puedes sustituir el bonito por 150 g de salmón ahumado en tiras: queda igual de bien con el eneldo y la salsa de yogur. Acompaña con pan de centeno tostado para una cena completa."
 });
 
@@ -267,7 +267,7 @@ window.RECETAS_SEED.push({
     "Riega con la vinagreta justo antes de servir y termina con pimienta negra recién molida."
   ],
   nutricion: { kcal: 535, prot: 27, hc: 38, grasa: 30 },
-  etiquetas: ["ideal para llevar", "verano", "económica"],
+  etiquetas: ["ideal para llevar", "verano", "económica", "poco especiada"],
   consejo: "Para llevar al trabajo, guarda la vinagreta aparte y alíñala en el momento. Las patatas y las judías se pueden cocer la víspera."
 });
 
@@ -306,7 +306,7 @@ window.RECETAS_SEED.push({
     "Sirve la ensalada con las tiras de pollo encima, los picatostes, el resto de la salsa y lascas de parmesano sacadas con un pelador. Termina con pimienta recién molida."
   ],
   nutricion: { kcal: 595, prot: 47, hc: 20, grasa: 36 },
-  etiquetas: ["alta en proteína", "para niños", "ideal para llevar"],
+  etiquetas: ["alta en proteína", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "Para una versión más ligera, sustituye la mitad de la mayonesa por yogur griego. Si la preparas para llevar, guarda salsa y picatostes aparte para que la lechuga siga crujiente."
 });
 
@@ -349,7 +349,7 @@ window.RECETAS_SEED.push({
     "Sirve el laab templado con las hojas de lechuga para hacer bocados, el pepino en bastones y el arroz jazmín al lado."
   ],
   nutricion: { kcal: 505, prot: 42, hc: 70, grasa: 5 },
-  etiquetas: ["picante", "ligera", "alta en proteína", "rápida"],
+  etiquetas: ["picante", "ligera", "alta en proteína", "rápida", "bajo en colesterol"],
   consejo: "El arroz tostado molido es lo que da al laab su aroma y textura característicos: prepara el doble y guárdalo en un bote cerrado. También puedes hacerlo con pavo o cerdo picado."
 });
 
@@ -392,7 +392,7 @@ window.RECETAS_SEED.push({
     "Sirve en una fuente con las almendras y las hojas de apio por encima."
   ],
   nutricion: { kcal: 320, prot: 6, hc: 22, grasa: 23 },
-  etiquetas: ["sin cocción", "rápida", "ligera", "verano", "picante", "económica"],
+  etiquetas: ["sin cocción", "rápida", "ligera", "verano", "picante", "económica", "detox", "bajo en colesterol"],
   consejo: "Es una ensalada casi sin proteína: acompaña con pan de pita y hummus, o añade 240 g de garbanzos cocidos y 100 g de queso feta para convertirla en una cena completa."
 });
 
@@ -431,7 +431,7 @@ window.RECETAS_SEED.push({
     "Riega con el aliño, esparce la granada y las nueces y termina con pimienta negra. Sirve con el pan tostado."
   ],
   nutricion: { kcal: 670, prot: 22, hc: 57, grasa: 39 },
-  etiquetas: ["al horno", "rápida", "otoño", "para invitados"],
+  etiquetas: ["al horno", "rápida", "otoño", "para invitados", "poco especiada"],
   consejo: "Las uvas asadas aguantan 3 días en la nevera y también acompañan bien a un queso de cabra o a un asado de cerdo. Si no encuentras burrata, usa mozzarella de búfala."
 });
 
@@ -468,7 +468,7 @@ window.RECETAS_SEED.push({
     "Coloca encima las tostas de queso de cabra calientes, riega con el aliño restante y sirve enseguida."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 41, grasa: 38 },
-  etiquetas: ["rápida", "verano", "para invitados"],
+  etiquetas: ["rápida", "verano", "para invitados", "superalimentos", "poco especiada"],
   consejo: "Con frutos rojos congelados (descongelados y escurridos) funciona bien fuera de temporada. Si prefieres no encender el horno, dora las rodajas de queso 1 minuto por lado en una sartén antiadherente."
 });
 
@@ -504,7 +504,7 @@ window.RECETAS_SEED.push({
     "Mezcla el jugo de cítricos reservado con el aceite y una pizca de sal, riega la ensalada y espolvorea el pimentón. Deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 615, prot: 24, hc: 28, grasa: 45 },
-  etiquetas: ["invierno", "económica", "rápida", "tradicional"],
+  etiquetas: ["invierno", "económica", "rápida", "tradicional", "sin verduras", "poco especiada"],
   consejo: "Es una receta de invierno, cuando los cítricos están en su punto. En la versión más antigua se añade pan de pueblo troceado para empapar el jugo; también puedes cambiar el chorizo por bacalao desalado desmigado."
 });
 
@@ -545,6 +545,6 @@ window.RECETAS_SEED.push({
     "Coloca encima las mitades de huevo, espolvorea las hierbas frescas y sirve tibia."
   ],
   nutricion: { kcal: 440, prot: 16, hc: 18, grasa: 33 },
-  etiquetas: ["al horno", "ligera", "verano", "económica"],
+  etiquetas: ["al horno", "ligera", "verano", "económica", "keto", "poco especiada"],
   consejo: "Acompaña con pan de pita caliente y hummus para completar la cena. Las verduras asadas se pueden hacer la víspera y templarlas 5 minutos en el horno antes de montar la ensalada."
 });

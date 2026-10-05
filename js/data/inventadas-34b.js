@@ -39,7 +39,7 @@ window.RECETAS_SEED.push({
     "Sirve los paquetes cerrados y ábrelos en la mesa; termina con las hojitas de hinojo y zumo del limón restante."
   ],
   nutricion: { kcal: 395, prot: 30, hc: 28, grasa: 18 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "El papillote cocina al vapor sin necesidad de harinas ni salsas espesadas, y es de los métodos más seguros para celíacos. Si compartes horno con otras preparaciones con gluten, el paquete cerrado evita salpicaduras.",
   contundencia: "ligera",
   coste: "media"
@@ -98,7 +98,7 @@ window.RECETAS_SEED.push({
   nombre: "Shakshuka verde al horno con espinacas, calabacín, feta y huevos",
   subtitulo: "con comino, chile y cilantro fresco",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -132,7 +132,7 @@ window.RECETAS_SEED.push({
     "Salpimienta las yemas, espolvorea el cilantro picado y sirve en la misma fuente."
   ],
   nutricion: { kcal: 385, prot: 24, hc: 14, grasa: 26 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "económica"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "económica", "keto"],
   consejo: "Para mojar, tuesta unas rebanadas de pan sin gluten en la parte alta del horno los últimos minutos, sobre papel para evitar contacto con la rejilla si se usa con pan normal.",
   contundencia: "ligera",
   coste: "económica"
@@ -220,7 +220,7 @@ window.RECETAS_SEED.push({
     "Deja reposar las chuletas 3 minutos y sírvelas sobre la col, la patata y la manzana con los jugos de la bandeja."
   ],
   nutricion: { kcal: 750, prot: 42, hc: 50, grasa: 42 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "invierno"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "invierno", "poco especiada"],
   consejo: "Revisa la mostaza antigua: algunas marcas usan vinagre de malta o cerveza, que contienen gluten. La col lombarda asada mejora al día siguiente, así que es un buen plato de tupper.",
   contundencia: "contundente",
   coste: "media"
@@ -265,7 +265,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 minutos y sirve con el caldo dorado del fondo por encima."
   ],
   nutricion: { kcal: 425, prot: 34, hc: 36, grasa: 16 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "ligera", "alta en proteína"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "ligera", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Los caldos de pescado preparados y las pastillas suelen llevar harina o almidón de trigo: usa uno certificado sin gluten o sustitúyelo por agua con un poco más de vino. Pide al pescadero que limpie el rape de la piel y la telilla.",
   contundencia: "ligera",
   coste: "premium"
@@ -276,7 +276,7 @@ window.RECETAS_SEED.push({
   nombre: "Curry rojo de bandeja con garbanzos, boniato y leche de coco",
   subtitulo: "con espinacas, lima y cilantro, sin cazuela",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "sudeste-asiático",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -351,7 +351,7 @@ window.RECETAS_SEED.push({
     "Reparte las setas por encima, espolvorea el resto del parmesano y gratina 3 minutos con el grill. Sirve caliente."
   ],
   nutricion: { kcal: 545, prot: 18, hc: 54, grasa: 28 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "poco especiada"],
   consejo: "La polenta es maíz y es apta, pero compra una con sello sin gluten porque se muele en molinos donde se procesa trigo. Al enfriarse se solidifica: en el tupper córtala en porciones y recaliéntalas al horno, quedan crujientes por fuera.",
   contundencia: "media",
   coste: "media"
@@ -408,7 +408,7 @@ window.RECETAS_SEED.push({
   nombre: "Tian provenzal de patata, calabacín y tomate con queso de cabra gratinado",
   subtitulo: "rodajas en fila sobre cebolla pochada al horno, con tomillo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
     "Reparte el queso de cabra en rodajas por encima y hornea 8–10 minutos, hasta que esté fundido y dorado. Termina con albahaca fresca."
   ],
   nutricion: { kcal: 440, prot: 12, hc: 38, grasa: 27 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "económica", "verano"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "económica", "verano", "poco especiada"],
   consejo: "El queso de cabra en rulo es apto, pero evita los que vienen rebozados o con corteza de hierbas y pan. El tian está aún mejor recalentado al día siguiente o a temperatura ambiente.",
   contundencia: "ligera",
   coste: "económica"
@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
     "Espolvorea perejil picado, exprime el limón y sirve con el jugo de los tomates por encima."
   ],
   nutricion: { kcal: 515, prot: 38, hc: 36, grasa: 24 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "La receta siciliana original lleva pan rallado tostado por encima; si te apetece ese crujiente, usa pan rallado sin gluten mezclado con el orégano. Recalienta en el tupper suavemente para que el pescado no se seque.",
   contundencia: "media",
   coste: "premium"
@@ -584,7 +584,7 @@ window.RECETAS_SEED.push({
   nombre: "Tempeh satay al horno con pimiento, piña y salsa de cacahuete",
   subtitulo: "marinado en tamari, lima y jengibre",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tempeh",
@@ -620,7 +620,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de la salsa, los cacahuetes picados y el cilantro por encima."
   ],
   nutricion: { kcal: 630, prot: 30, hc: 46, grasa: 36 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Algunos tempehs se fermentan con cebada u otros cereales: compra uno solo de soja con sello sin gluten. Usa tamari certificado en vez de salsa de soja y crema de cacahuete 100 % cacahuete.",
   contundencia: "media",
   coste: "media"
@@ -664,7 +664,7 @@ window.RECETAS_SEED.push({
     "Monta los platos con la lechuga troceada, el tomate y el aguacate en dados, y encima el pollo, el maíz y los pimientos templados. Aliña y termina con cilantro."
   ],
   nutricion: { kcal: 460, prot: 34, hc: 26, grasa: 24 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "económica", "alta en proteína"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "económica", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El maíz en conserva es apto; las mezclas de especias \"tex-mex\" o para fajitas pueden llevar harina, por eso aquí se usan pimentón y comino por separado. Si quieres un toque crujiente, añade totopos de maíz con sello sin gluten.",
   contundencia: "ligera",
   coste: "económica"
@@ -704,7 +704,7 @@ window.RECETAS_SEED.push({
     "Exprime medio limón por encima, espolvorea el perejil picado y sirve con gajos del limón restante."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 28, grasa: 21 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "bajo en fodmap", "alta en proteína"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "bajo en fodmap", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "La trucha a la meunière clásica se enharina con trigo; aquí las almendras aportan el crujiente sin harina. Es apta para la dieta baja en FODMAP: el aceite de ajo da sabor sin fructanos y las raciones de judías verdes y almendras están dentro de lo tolerado.",
   contundencia: "ligera",
   coste: "media"
@@ -747,7 +747,7 @@ window.RECETAS_SEED.push({
     "Sirve el pavo en lonchas gruesas sobre la calabaza y las castañas con el jugo de la bandeja."
   ],
   nutricion: { kcal: 565, prot: 42, hc: 44, grasa: 24 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "invierno", "alta en proteína"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "invierno", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Las castañas cocidas envasadas son aptas, pero algunas glaseadas o confitadas llevan jarabe de glucosa de trigo: revisa la etiqueta. Recalentado en tupper conserva todo su jugo.",
   contundencia: "media",
   coste: "media"
@@ -758,7 +758,7 @@ window.RECETAS_SEED.push({
   nombre: "Socca de harina de garbanzo al horno con tomate cherry, cebolla morada y feta",
   subtitulo: "la torta crujiente de Niza, con romero, aceitunas y rúcula",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -790,7 +790,7 @@ window.RECETAS_SEED.push({
     "Pimienta, corona con la rúcula y corta en porciones. Sírvela caliente."
   ],
   nutricion: { kcal: 455, prot: 19, hc: 40, grasa: 24 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "ligera", "económica"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "ligera", "económica", "poco especiada"],
   consejo: "La harina de garbanzo es naturalmente sin gluten pero, como todas las harinas, puede contaminarse en el molino: elige una con sello. No uses un molde en el que hayas horneado masas con trigo sin lavarlo bien.",
   contundencia: "ligera",
   coste: "económica"
@@ -871,7 +871,7 @@ window.RECETAS_SEED.push({
     "Deja reposar el secreto 3 minutos, córtalo en tiras contra la fibra y sírvelo sobre las patatas con los pimientos y la sal en escamas."
   ],
   nutricion: { kcal: 850, prot: 36, hc: 36, grasa: 62 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "bajo en fodmap"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "bajo en fodmap", "poco especiada"],
   consejo: "Compra el secreto al natural, nunca adobado: los adobos industriales pueden llevar harinas o especias contaminadas. El aceite de ajo hace este plato apto para la dieta baja en FODMAP.",
   contundencia: "contundente",
   coste: "premium"
@@ -882,7 +882,7 @@ window.RECETAS_SEED.push({
   nombre: "Coles de Bruselas y patatas asadas con lentejas, mostaza antigua y nueces",
   subtitulo: "con cebolla morada, tomillo y un aliño de sirope de arce",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -915,7 +915,7 @@ window.RECETAS_SEED.push({
     "Vuelca la bandeja en el bol, mezcla con el aliño y sirve templado."
   ],
   nutricion: { kcal: 460, prot: 18, hc: 50, grasa: 20 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "económica", "invierno", "ideal para llevar"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "económica", "invierno", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Revisa la mostaza antigua (algunas llevan vinagre de malta o cerveza) y compra lentejas cocidas de bote sin aditivos. Se come también frío, como ensalada, y aguanta 3 días en tupper.",
   contundencia: "ligera",
   coste: "económica"
@@ -965,7 +965,7 @@ window.RECETAS_SEED.push({
     "Esponja el arroz con un tenedor, retira la canela y el laurel y sirve con los anacardos, cilantro picado y unas gotas de limón."
   ],
   nutricion: { kcal: 630, prot: 18, hc: 98, grasa: 18 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "económica"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "económica", "bajo en colesterol"],
   consejo: "Usa caldo de verduras certificado sin gluten (muchas pastillas llevan harina o extracto de malta) y especias con sello. En tupper, recalienta con una cucharada de agua y tapado para que el arroz no se seque.",
   contundencia: "media",
   coste: "económica"
@@ -1013,7 +1013,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con la mostaza y los pepinillos picados. Sirve las hamburguesas sobre lechuga y tomate, con la salsa, las patatas y las verduras."
   ],
   nutricion: { kcal: 775, prot: 44, hc: 50, grasa: 44 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "para niños"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "para niños", "poco especiada"],
   consejo: "Las hamburguesas compradas casi siempre llevan pan rallado o harina: hazlas con carne picada al natural. Revisa también el cheddar en lonchas y la mostaza, y tuesta el pan sin gluten sobre papel para no contaminarlo en la bandeja si en casa se cocina pan normal.",
   contundencia: "contundente",
   coste: "media"
@@ -1057,7 +1057,7 @@ window.RECETAS_SEED.push({
     "Corta el atún en lonchas gruesas, colócalo sobre el boniato y el pak choi, riega con el aliño y termina con el cebollino picado."
   ],
   nutricion: { kcal: 410, prot: 42, hc: 18, grasa: 18 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "ligera", "bajo en fodmap", "alta en proteína"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "ligera", "bajo en fodmap", "alta en proteína", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Usa tamari certificado sin gluten. Es apta para la dieta baja en FODMAP: el ajo va en forma de aceite, el cebollino sustituye a la cebolleta y la ración de boniato es moderada. Si congelas el atún 48 h antes, puedes dejarlo poco hecho con total seguridad.",
   contundencia: "ligera",
   coste: "premium"
@@ -1068,7 +1068,7 @@ window.RECETAS_SEED.push({
   nombre: "Halloumi al horno con verduras asadas, garbanzos y za'atar con yogur al limón",
   subtitulo: "con un hilo de miel, cherry y menta fresca",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida"],
   proteina: "queso",
@@ -1103,7 +1103,7 @@ window.RECETAS_SEED.push({
     "Riega el halloumi con la miel y la ralladura del limón, reparte la menta picada y sirve enseguida con el yogur."
   ],
   nutricion: { kcal: 780, prot: 34, hc: 50, grasa: 49 },
-  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "alta en proteína"],
+  etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "alta en proteína", "poco especiada"],
   consejo: "El za'atar comercial a veces lleva trazas de trigo o se mezcla con pan tostado molido: elige uno certificado o mézclalo tú con tomillo, sésamo y zumaque. El halloumi se pone gomoso al enfriarse, así que cómelo recién hecho.",
   contundencia: "contundente",
   coste: "media"

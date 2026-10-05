@@ -39,7 +39,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, coloca encima los lomos de sardina abiertos, rocía con un hilo de su propio aceite y termina con pimienta recién molida y la ralladura de limón que quede."
   ],
   nutricion: { kcal: 515, prot: 28, hc: 58, grasa: 19 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica", "ideal para llevar", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Pasa las sardinas 1 minuto por una sartén muy caliente para que se doren: el contraste tibio con el cuscús fresco es buenísimo. Aguanta perfecto un día en la nevera en un táper.",
   contundencia: "media",
   coste: "económica"
@@ -84,7 +84,7 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús con el pollo encima, una cucharada generosa de yogur al ajo, el zumaque espolvoreado y un gajo de limón."
   ],
   nutricion: { kcal: 545, prot: 42, hc: 60, grasa: 15 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica", "alta en proteína", "ideal para llevar", "bajo en colesterol"],
   consejo: "Si tienes tiempo, deja el pollo marinando con el zaatar y el limón desde la mañana: queda mucho más aromático. Para llevar, pon el yogur en un botecito aparte.",
   contundencia: "media",
   coste: "económica"
@@ -172,7 +172,7 @@ window.RECETAS_SEED.push({
     "Incorpora las verduras, las alcaparras y el atún en lascas grandes, sin deshacerlo demasiado. Termina con el resto de la albahaca rota con las manos y pimienta."
   ],
   nutricion: { kcal: 460, prot: 30, hc: 60, grasa: 11 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "económica", "ideal para llevar", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "económica", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Un poco del aceite de los tomates secos en el aliño le da un sabor profundo sin esfuerzo. Mejora tras una hora en la nevera, así que es perfecto para el táper.",
   contundencia: "ligera",
   coste: "económica"
@@ -257,7 +257,7 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús con el hinojo, la merluza y todo el jugo de la sartén por encima, y decora con las barbas de hinojo."
   ],
   nutricion: { kcal: 450, prot: 34, hc: 58, grasa: 9 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "poco especiada", "bajo en colesterol"],
   consejo: "Funciona igual con merluza congelada: cocínala aún medio congelada y alarga 3 minutos la cocción. El jugo de la sartén es la salsa, así que riega bien el cuscús.",
   contundencia: "ligera",
   coste: "media"
@@ -303,7 +303,7 @@ window.RECETAS_SEED.push({
     "Sirve el bulgur con un chorrito de limón, el yogur a la menta, los pistachos y el resto de la menta por encima."
   ],
   nutricion: { kcal: 580, prot: 40, hc: 64, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "alta en proteína", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "alta en proteína", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Si encuentras pul biber (escamas de pimiento turco), añade una pizca al final: le da el toque auténtico. Se congela muy bien sin el yogur.",
   contundencia: "media",
   coste: "media"
@@ -346,7 +346,7 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús con los garbanzos y almendras por encima, los gajos de naranja, una cucharada de yogur y el perejil picado."
   ],
   nutricion: { kcal: 585, prot: 24, hc: 82, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica", "vegetariana", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica", "vegetariana", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La clave de los garbanzos crujientes es secarlos bien y no remover demasiado. Para versión vegana, cambia el yogur por un chorrito de tahini aligerado con limón.",
   contundencia: "media",
   coste: "económica"
@@ -389,7 +389,7 @@ window.RECETAS_SEED.push({
     "Mezcla el bulgur con el tomate rallado, las hierbas, el pepino y la cebolleta. Sirve con el calamar por encima, el zumaque, pimienta y gajos de limón."
   ],
   nutricion: { kcal: 445, prot: 32, hc: 58, grasa: 9 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano", "ideal para llevar", "poco especiada"],
   consejo: "Si el calamar es grande, haz cortes en rejilla antes de trocearlo: se dora mejor y queda más tierno. Con sepia o pulpo cocido también queda riquísimo.",
   contundencia: "ligera",
   coste: "media"
@@ -433,7 +433,7 @@ window.RECETAS_SEED.push({
     "Sirve con los dados de calabacín dorado, el resto de la ricotta en cucharadas, los piñones, la albahaca rota y pimienta."
   ],
   nutricion: { kcal: 550, prot: 20, hc: 72, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "vegetariana", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "vegetariana", "verano", "poco especiada"],
   consejo: "Para añadir proteína, corona cada plato con un huevo poché o unas gambas salteadas. Las sobras se convierten en unas croquetas de arroz al día siguiente.",
   contundencia: "media",
   coste: "media"
@@ -477,7 +477,7 @@ window.RECETAS_SEED.push({
     "Mientras, mezcla la mayonesa con el ajo restante rallado, la ralladura del limón y unas gotas de zumo. Sirve la fideuá con el alioli de limón."
   ],
   nutricion: { kcal: 730, prot: 40, hc: 75, grasa: 30 },
-  etiquetas: ["mediterránea", "aromática", "una sola sartén", "económica", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "una sola sartén", "económica", "invierno", "poco especiada"],
   consejo: "Si las alcachofas no están de temporada, usa corazones de alcachofa en conserva bien escurridos y añádelos solo al final del sofrito. El fideo tostado es lo que da sabor: no te lo saltes.",
   contundencia: "contundente",
   coste: "económica"
@@ -519,7 +519,7 @@ window.RECETAS_SEED.push({
     "Cuando el grano esté en su punto, apaga, incorpora el majado, remueve y deja reposar 2 minutos antes de servir."
   ],
   nutricion: { kcal: 570, prot: 30, hc: 76, grasa: 16 },
-  etiquetas: ["mediterránea", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "poco especiada"],
   consejo: "Pide en la pescadería la sepia limpia y con su bolsita de tinta: si añades la tinta al caldo, tendrás un arroz negro meloso igual de fácil.",
   contundencia: "media",
   coste: "media"
@@ -562,7 +562,7 @@ window.RECETAS_SEED.push({
     "Ahueca el arroz con un tenedor, añade el eneldo picado y sirve con gajos del limón restante y una cucharada de yogur."
   ],
   nutricion: { kcal: 590, prot: 36, hc: 70, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "batch cooking", "ideal para llevar", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Lavar el basmati es lo que hace que quede suelto. Si te sobra, al día siguiente mezcla el pilaf frío con pepino, tomate y feta y tendrás una ensalada completa.",
   contundencia: "media",
   coste: "económica"
@@ -605,7 +605,7 @@ window.RECETAS_SEED.push({
     "Sirve el farro con el huevo encima, el resto del parmesano, pimienta y unas gotas de limón."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 58, grasa: 14 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "vegetariana", "invierno", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "vegetariana", "invierno", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Cuece el doble de farro y guárdalo en la nevera hasta 4 días: con él tendrás la base de este plato en 10 minutos. Si no encuentras farro, la espelta en grano funciona igual.",
   contundencia: "ligera",
   coste: "media"
@@ -649,7 +649,7 @@ window.RECETAS_SEED.push({
     "Sirve el risotto con los tomates confitados por encima, media burrata abierta en cada plato, un hilo de aceite, hojas de albahaca y pimienta."
   ],
   nutricion: { kcal: 710, prot: 24, hc: 82, grasa: 32 },
-  etiquetas: ["mediterránea", "aromática", "vegetariana", "verano"],
+  etiquetas: ["mediterránea", "aromática", "vegetariana", "verano", "poco especiada"],
   consejo: "La burrata debe estar a temperatura ambiente para que su corazón cremoso se funda sobre el arroz caliente. Si no tienes, una mozzarella fresca troceada también funciona.",
   contundencia: "contundente",
   coste: "premium"
@@ -691,7 +691,7 @@ window.RECETAS_SEED.push({
     "Apaga, cubre con un paño 3 minutos y sirve con ralladura de limón, perejil picado y gajos de limón."
   ],
   nutricion: { kcal: 460, prot: 30, hc: 60, grasa: 10 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén", "verano", "poco especiada"],
   consejo: "Las cabezas tostadas son el truco para que un caldo de brik sepa a casero. Escúchalo: cuando el arroz empiece a crepitar suavemente, el socarrat está listo.",
   contundencia: "ligera",
   coste: "premium"
@@ -735,7 +735,7 @@ window.RECETAS_SEED.push({
     "Tapa, deja reposar 2 minutos y sirve con más tomillo y pimienta recién molida."
   ],
   nutricion: { kcal: 705, prot: 46, hc: 78, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "alta en proteína", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "económica", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Si usas contramuslos en lugar de pechuga, el pollo quedará aún más jugoso. Unas setas secas hidratadas, con su agua añadida al caldo, multiplican el sabor a bosque.",
   contundencia: "contundente",
   coste: "económica"
@@ -777,7 +777,7 @@ window.RECETAS_SEED.push({
     "Retira la piel de naranja, apaga y deja reposar 2 minutos: el arroz debe quedar nadando en caldo. Sirve en plato hondo con perejil y las barbas de hinojo picadas."
   ],
   nutricion: { kcal: 460, prot: 32, hc: 62, grasa: 9 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Sírvelo en cuanto repose: el arroz caldoso sigue absorbiendo líquido. Una cucharadita de alioli en cada plato lo convierte en un pequeño homenaje a la bullabesa.",
   contundencia: "ligera",
   coste: "media"
@@ -821,7 +821,7 @@ window.RECETAS_SEED.push({
     "Saca del horno, desmenuza el feta por encima, cubre con un paño 5 minutos y sirve con perejil picado."
   ],
   nutricion: { kcal: 760, prot: 44, hc: 80, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Si tu sartén no va al horno, haz el sofrito en ella y pásalo todo a una fuente ya caliente antes de añadir el caldo. Las sobras se recalientan muy bien con un chorrito de caldo.",
   contundencia: "contundente",
   coste: "económica"
@@ -864,7 +864,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con mucha albahaca fresca y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 580, prot: 24, hc: 76, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "vegetariana", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "vegetariana", "batch cooking", "verano", "poco especiada"],
   consejo: "Si tu farro es integral (no perlado), déjalo en remojo 2 horas antes o añade 15 minutos al horneado. Con calabacín y pimiento rojo en lugar de berenjena queda igual de bueno.",
   contundencia: "media",
   coste: "media"
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
     "Saca, cubre con un paño 5 minutos y sirve con perejil picado y unas gotas de limón."
   ],
   nutricion: { kcal: 470, prot: 34, hc: 62, grasa: 9 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "poco especiada", "bajo en colesterol"],
   consejo: "Si compras bacalao para desalar, ponlo en remojo 36 horas cambiando el agua tres veces al día. Los piquillos asados de bote le dan un dulzor ahumado sin trabajo.",
   contundencia: "ligera",
   coste: "media"
@@ -950,7 +950,7 @@ window.RECETAS_SEED.push({
     "Fuera del horno, mezcla el yogur con el zumo de medio limón y la mitad del eneldo picado y repártelo por encima. Termina con el resto del eneldo y pimienta."
   ],
   nutricion: { kcal: 630, prot: 34, hc: 70, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "poco especiada", "bajo en colesterol"],
   consejo: "No metas el salmón desde el principio o quedará seco: con 8–10 minutos sobre el arroz caliente es suficiente. Con trucha o con bacalao fresco funciona igual de bien.",
   contundencia: "media",
   coste: "premium"
@@ -996,7 +996,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con el zumo de limón, sal y un poco de menta picada. Ahueca el pilaf con un tenedor y sirve con los pistachos, la menta y el yogur."
   ],
   nutricion: { kcal: 770, prot: 42, hc: 82, grasa: 30 },
-  etiquetas: ["mediterránea", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "sin verduras"],
   consejo: "Pon un paño de cocina limpio entre la cazuela y la tapa durante el reposo: absorbe el vapor y el arroz queda perfectamente suelto. Con cordero picado lo tienes en 30 minutos.",
   contundencia: "contundente",
   coste: "premium"
@@ -1038,7 +1038,7 @@ window.RECETAS_SEED.push({
     "Hornea 20–22 minutos, hasta que el arroz haya absorbido el caldo y la piel del pollo esté crujiente. Reposa 5 minutos y sirve con gajos del limón restante."
   ],
   nutricion: { kcal: 790, prot: 44, hc: 82, grasa: 32 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "invierno", "poco especiada"],
   consejo: "Casi todo el tiempo es de horno sin vigilancia. Los ajos asados se untan como mantequilla: aplástalos sobre el arroz al servir para darle aún más sabor.",
   contundencia: "contundente",
   coste: "económica"
@@ -1084,7 +1084,7 @@ window.RECETAS_SEED.push({
     "Prepara la gremolata picando muy fino el perejil con el ajo restante y la ralladura del limón. Sirve el farro con el ossobuco encima y la gremolata espolvoreada al momento."
   ],
   nutricion: { kcal: 680, prot: 48, hc: 70, grasa: 22 },
-  etiquetas: ["mediterránea", "aromática", "invierno", "batch cooking"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "batch cooking", "poco especiada"],
   consejo: "No te saltes la gremolata: el perejil, el ajo crudo y el limón despiertan el guiso. Si te sobra carne, desmígala con su salsa y mézclala con el farro para un táper estupendo.",
   contundencia: "contundente",
   coste: "premium"

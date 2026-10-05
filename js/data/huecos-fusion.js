@@ -102,7 +102,7 @@ window.RECETAS_SEED.push({
     "Prueba la salsa: debe estar brillante y cubrir la cuchara. Si queda líquida, cuécela destapada 5 minutos. Retira el laurel y las ramas de tomillo, ajusta de pimienta y sirve con las shiitake por encima y el cebollino picado."
   ],
   nutricion: { kcal: 750, prot: 46, hc: 65, grasa: 32 },
-  etiquetas: ["creativa", "invierno", "batch cooking", "alta en proteína", "para invitados", "fin de semana"],
+  etiquetas: ["creativa", "invierno", "batch cooking", "alta en proteína", "para invitados", "fin de semana", "poco especiada"],
   consejo: "Es la idea de un bourguignon con un ingrediente japonés: el miso, añadido al sofrito, aporta el fondo tostado y salino que en Francia da el bacon. El miso se vende en la sección de productos asiáticos de los supermercados grandes y dura meses en la nevera. Como todo estofado, está mejor al día siguiente; si lo vas a congelar, aparta antes las patatas, que al descongelarse se vuelven harinosas.",
   tupper: true,
   contundencia: "contundente",
@@ -293,7 +293,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con el verde de la cebolleta, el sésamo y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 520, prot: 34, hc: 50, grasa: 19 },
-  etiquetas: ["creativa", "de cuchara", "picante", "invierno", "batch cooking", "alta en proteína", "económica"],
+  etiquetas: ["creativa", "de cuchara", "picante", "invierno", "batch cooking", "alta en proteína", "económica", "superalimentos", "bajo en colesterol"],
   consejo: "Cruza unas alubias guisadas con el kimchi jjigae, el guiso coreano que se hace precisamente con el kimchi más viejo de la nevera. El kimchi se añade en dos tiempos: la mitad sofrita da fondo y la otra mitad, al final, aporta el punto ácido y crujiente. Encontrarás kimchi y gochujang en la sección refrigerada o asiática de los supermercados grandes. Aguanta 3 días en la nevera y está aún mejor al día siguiente.",
   tupper: true,
   contundencia: "media",

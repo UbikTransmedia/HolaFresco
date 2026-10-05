@@ -137,7 +137,7 @@ window.RECETAS_SEED.push({
     "Mientras, prepara la ensalada criolla con la lechuga y el tomate en gajos, aliñada con sal, aceite y vinagre. Sirve las empanadas recién salidas, 4 por persona."
   ],
   nutricion: { kcal: 1040, prot: 40, hc: 86, grasa: 60 },
-  etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "de domingo", "batch cooking", "poco especiada"],
   consejo: "Prepara el relleno la víspera: frío de nevera la grasa se solidifica y las empanadas quedan jugosísimas por dentro. Puedes congelarlas crudas y hornearlas directamente, sumando 5 minutos.",
   contundencia: "contundente",
   coste: "media"
@@ -184,7 +184,7 @@ window.RECETAS_SEED.push({
     "Sirve en cada plato arroz, carne mechada, caraotas con el queso rallado por encima y las tajadas de plátano."
   ],
   nutricion: { kcal: 1050, prot: 46, hc: 115, grasa: 45 },
-  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "batch cooking", "invierno", "poco especiada"],
   consejo: "La carne mechada y las caraotas ganan muchísimo de un día para otro: haz el doble y congela en raciones. Para que el plátano caramelice de verdad, tiene que estar casi negro; si está amarillo, quedará seco.",
   contundencia: "contundente",
   coste: "media"
@@ -226,7 +226,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos hondos con un trozo de mazorca cada uno, y pon en la mesa la nata, las alcaparras y el aguacate en láminas para que cada uno se sirva al gusto."
   ],
   nutricion: { kcal: 600, prot: 44, hc: 74, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "poco especiada"],
   consejo: "La gracia del ajiaco está en mezclar patatas: unas se deshacen y dan cuerpo, otras aguantan enteras. En Bogotá se usa la papa criolla amarilla; aquí, una patata vieja harinosa hace el mismo papel de espesante.",
   contundencia: "media",
   coste: "media"
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos fuera del fuego y sirve en platos hondos, con un trozo de mazorca para cada uno."
   ],
   nutricion: { kcal: 700, prot: 37, hc: 70, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "poco especiada"],
   consejo: "El melocotón es el toque de la abuela que equilibra el guiso: no lo pongas antes o se deshará. En temporada sin melocotón, unos orejones de albaricoque o una pera firme funcionan igual de bien.",
   contundencia: "contundente",
   coste: "media"
@@ -419,7 +419,7 @@ window.RECETAS_SEED.push({
   nombre: "Papa a la huancaína",
   subtitulo: "patatas cocidas con crema de queso fresco y ají amarillo, huevo duro y aceitunas",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -537,7 +537,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con las tiras de tortilla por encima, cilantro picado, rodajas de chile y gajos de lima."
   ],
   nutricion: { kcal: 420, prot: 38, hc: 32, grasa: 16 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "bajo en colesterol"],
   consejo: "En Yucatán se usa lima agria; con lima normal y un poco de su piel cocida el resultado es muy parecido. Añade el zumo siempre al final y fuera del hervor para que no se vuelva amargo.",
   contundencia: "ligera",
   coste: "económica"
@@ -548,7 +548,7 @@ window.RECETAS_SEED.push({
   nombre: "Calabacitas a la mexicana con queso fresco",
   subtitulo: "guiso de calabacín, maíz, tomate y chile servido con tortillas de maíz calientes",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -712,7 +712,7 @@ window.RECETAS_SEED.push({
     "Sirve los moros y cristianos con el huevo frito encima y las tajadas de plátano al lado."
   ],
   nutricion: { kcal: 800, prot: 26, hc: 93, grasa: 36 },
-  etiquetas: ["tradicional", "saciante", "fácil", "económica", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "fácil", "económica", "de domingo", "poco especiada"],
   consejo: "El chorrito de vinagre es el truco cubano: realza el sabor de los frijoles sin notarse. Si cueces tú los frijoles desde seco, guarda su caldo oscuro, que es lo que tiñe el arroz.",
   contundencia: "contundente",
   coste: "económica"
@@ -756,7 +756,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el cilantro picado y el zumo de la otra media lima por encima. Sirve en platos hondos con bastante caldo y el arroz al lado para mojar."
   ],
   nutricion: { kcal: 450, prot: 40, hc: 44, grasa: 13 },
-  etiquetas: ["tradicional", "fácil", "ligera", "una sola sartén"],
+  etiquetas: ["tradicional", "fácil", "ligera", "una sola sartén", "bajo en colesterol"],
   consejo: "No remuevas el sudado una vez que el pescado esté dentro: solo menea la sartén por las asas. Así los trozos no se rompen y la cebolla de arriba se cuece al vapor, como debe ser.",
   contundencia: "ligera",
   coste: "media"
@@ -807,7 +807,7 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús en una fuente formando una montaña con un hueco en el centro; pon la carne en el hueco, las verduras alrededor y riega con caldo. Lleva más caldo en un cuenco para que cada uno se sirva."
   ],
   nutricion: { kcal: 1020, prot: 45, hc: 91, grasa: 53 },
-  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "invierno", "de cuchara"],
+  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "invierno", "de cuchara", "poco especiada"],
   consejo: "Coloca las verduras en el caldo en orden de dureza, en trozos grandes, para que no se deshagan. El buen cuscús se riega en la mesa: mejor que sobre caldo que falte.",
   contundencia: "contundente",
   coste: "premium"
@@ -850,7 +850,7 @@ window.RECETAS_SEED.push({
     "Termina con el resto de las hierbas y un hilo de aceite crudo. Sirve caliente con el pan para mojar."
   ],
   nutricion: { kcal: 460, prot: 16, hc: 51, grasa: 21 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "invierno", "detox", "bajo en colesterol"],
   consejo: "En Marruecos es plato de diario y se come con pan, sin cubiertos. Si te gusta picante, añade un poco de harissa al final; si quieres más proteína, casca un par de huevos encima los últimos 5 minutos.",
   contundencia: "ligera",
   coste: "económica"
@@ -894,7 +894,7 @@ window.RECETAS_SEED.push({
     "Sirve el fesenjan sobre el arroz y esparce los granos de granada por encima."
   ],
   nutricion: { kcal: 1030, prot: 40, hc: 82, grasa: 60 },
-  etiquetas: ["tradicional", "saciante", "fácil", "de domingo", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "saciante", "fácil", "de domingo", "para invitados", "invierno", "poco especiada"],
   consejo: "La salsa mejora cuanto más tiempo cueza la nuez: las abuelas persas la dejan horas hasta que sale un aceite oscuro por encima. Es de esos guisos que están aún mejor recalentados al día siguiente.",
   contundencia: "contundente",
   coste: "media"
@@ -905,7 +905,7 @@ window.RECETAS_SEED.push({
   nombre: "Mirza ghasemi persa",
   subtitulo: "berenjena asada con tomate, mucho ajo y huevo, servida con pan de pita",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -933,7 +933,7 @@ window.RECETAS_SEED.push({
     "Abre huecos, casca los huevos, espera 1 minuto y remueve suavemente para que cuajen en hebras dentro de la berenjena, 2-3 minutos más. Sirve templado con el pan de pita caliente."
   ],
   nutricion: { kcal: 460, prot: 18, hc: 46, grasa: 23 },
-  etiquetas: ["tradicional", "fácil", "económica", "ligera", "verano"],
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "verano", "poco especiada"],
   consejo: "El sabor ahumado viene de quemar bien la piel: no tengas miedo de que se ponga negra. En el norte de Irán se hace con tanto ajo que pica; puedes subir a 6 dientes sin problema.",
   contundencia: "ligera",
   coste: "económica"
@@ -987,7 +987,7 @@ window.RECETAS_SEED.push({
   nombre: "Çılbır: huevos turcos sobre yogur al ajo",
   subtitulo: "huevos escalfados con yogur, mantequilla al pimentón y eneldo, con pan tostado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -1014,7 +1014,7 @@ window.RECETAS_SEED.push({
     "Coloca 2 huevos en cada plato sobre el yogur, riega con la mantequilla roja y espolvorea el eneldo picado. Tuesta el pan y sírvelo para mojar."
   ],
   nutricion: { kcal: 455, prot: 23, hc: 32, grasa: 26 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "sin verduras"],
   consejo: "El yogur nunca debe estar frío de nevera: sácalo media hora antes o templa el plato, así el contraste con el huevo caliente es perfecto. Los huevos muy frescos escalfan sin deshilacharse.",
   contundencia: "ligera",
   coste: "económica"
@@ -1060,7 +1060,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz verde en una fuente con la costra crujiente rota por encima, el pescado al lado y gajos de limón para exprimir."
   ],
   nutricion: { kcal: 640, prot: 36, hc: 61, grasa: 28 },
-  etiquetas: ["tradicional", "para invitados", "de domingo", "primavera"],
+  etiquetas: ["tradicional", "para invitados", "de domingo", "primavera", "sin verduras", "poco especiada"],
   consejo: "Es el plato del Año Nuevo persa. El paño en la tapa es el truco de las abuelas: absorbe el vapor para que el arroz quede suelto y la costra no se reblandezca. Si no tienes lubina, una merluza o una dorada funcionan igual.",
   contundencia: "media",
   coste: "premium"
@@ -1105,7 +1105,7 @@ window.RECETAS_SEED.push({
     "Mientras, mezcla el yogur con el pepino rallado y escurrido, la menta y sal. Sirve el kibbeh templado con el yogur al lado."
   ],
   nutricion: { kcal: 870, prot: 43, hc: 60, grasa: 51 },
-  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "de domingo", "batch cooking", "poco especiada"],
   consejo: "El agua helada en las manos es el truco para extender la masa sin que se pegue. Se puede montar la víspera y hornear al día siguiente, y frío también está riquísimo para llevar.",
   contundencia: "contundente",
   coste: "media"

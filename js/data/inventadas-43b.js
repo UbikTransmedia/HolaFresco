@@ -44,7 +44,7 @@ window.RECETAS_SEED.push({
     "Sirve las chuletillas sobre el cuscús con el yogur al ajo y gajos de limón."
   ],
   nutricion: { kcal: 715, prot: 33, hc: 53, grasa: 41 },
-  etiquetas: ["rápida", "15 minutos", "a la plancha", "para invitados", "alta en proteína"],
+  etiquetas: ["rápida", "15 minutos", "a la plancha", "para invitados", "alta en proteína", "poco especiada"],
   consejo: "Cualquier corte con una tira de grasa (chuletillas, entrecot, presa) mejora si la doras de canto antes o después de marcarlo: la grasa se funde, se vuelve crujiente y aporta sabor a la plancha. El reposo de 2 minutos tras la plancha es tan importante como la cocción.",
   contundencia: "contundente",
   coste: "premium",
@@ -85,7 +85,7 @@ window.RECETAS_SEED.push({
     "Añade a la salsa el jugo que hayan soltado los medallones al reposar y sirve con los espárragos y el pan tostado."
   ],
   nutricion: { kcal: 465, prot: 40, hc: 25, grasa: 23 },
-  etiquetas: ["rápida", "15 minutos", "alta en proteína", "ligera", "una sola sartén"],
+  etiquetas: ["rápida", "15 minutos", "alta en proteína", "ligera", "una sola sartén", "poco especiada"],
   consejo: "Los jugos que suelta la carne mientras reposa son puro sabor: añádelos siempre a la salsa. Las salsas de queso se hacen a fuego suave y sin hervir; si se corta, aparta del fuego y añade una cucharada de nata o agua fría batiendo.",
   contundencia: "ligera",
   coste: "media",
@@ -127,7 +127,7 @@ window.RECETAS_SEED.push({
     "Escurre los libritos sobre papel de cocina, córtalos por la mitad para que se vea el relleno y sirve con la ensalada."
   ],
   nutricion: { kcal: 590, prot: 47, hc: 24, grasa: 34 },
-  etiquetas: ["rápida", "15 minutos", "para niños", "alta en proteína", "rebozado"],
+  etiquetas: ["rápida", "15 minutos", "para niños", "alta en proteína", "rebozado", "poco especiada"],
   consejo: "Regla para freír empanados: cuanto más grueso sea lo que fríes, más bajo el fuego y más tiempo, para que el interior se haga antes de que el rebozado se queme. Filetes finos, fuego fuerte; libritos, croquetas o pechugas enteras, fuego medio.",
   contundencia: "media",
   coste: "económica",
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y sirve las tiras con las setas por encima o al lado, con unas escamas de sal."
   ],
   nutricion: { kcal: 530, prot: 35, hc: 46, grasa: 23 },
-  etiquetas: ["rápida", "15 minutos", "para invitados", "alta en proteína", "una sola sartén"],
+  etiquetas: ["rápida", "15 minutos", "para invitados", "alta en proteína", "una sola sartén", "poco especiada"],
   consejo: "Un vino dulce reducido en la sartén (Pedro Ximénez, moscatel, oporto) da en un minuto una salsa brillante que combina con carnes rojas, cerdo, setas o foie. Redúcelo siempre a fuego medio: por sus azúcares, a fuego máximo se quema enseguida.",
   contundencia: "media",
   coste: "premium",
@@ -216,7 +216,7 @@ window.RECETAS_SEED.push({
     "Unta las pitas con toum, rellénalas con el pollo, las verduras y los pepinillos y sirve con el resto de la salsa."
   ],
   nutricion: { kcal: 690, prot: 44, hc: 60, grasa: 30 },
-  etiquetas: ["rápida", "15 minutos", "alta en proteína", "para compartir", "económica"],
+  etiquetas: ["rápida", "15 minutos", "alta en proteína", "para compartir", "económica", "poco especiada"],
   consejo: "El tiempo de marinado depende del tamaño de la pieza: tiras finas o dados pequeños toman sabor en 5-10 minutos, mientras que una pechuga entera o unos muslos necesitan 2 horas. Las marinadas con yogur o limón no deben pasar de 24 horas, porque el ácido acaba volviendo harinosa la carne.",
   contundencia: "contundente",
   coste: "económica",
@@ -352,7 +352,7 @@ window.RECETAS_SEED.push({
     "Monta los boles: arroz, salmón con su glaseado, aguacate en láminas, kimchi, pepino escurrido, cebolleta en aros, sésamo y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 750, prot: 39, hc: 57, grasa: 41 },
-  etiquetas: ["rápida", "15 minutos", "omega 3", "alta en proteína", "bowl"],
+  etiquetas: ["rápida", "15 minutos", "omega 3", "alta en proteína", "bowl", "superalimentos"],
   consejo: "Los glaseados con miel, azúcar o mirin se añaden siempre al final y a fuego medio, cuando la proteína ya está casi hecha: si van desde el principio, el azúcar se quema antes de que el interior se cocine. La misma técnica sirve para pollo, tofu o langostinos.",
   contundencia: "contundente",
   coste: "premium",
@@ -393,7 +393,7 @@ window.RECETAS_SEED.push({
     "Pon las patatas escurridas en la base, el rape encima con su salsa y termina con los ajos crujientes y el perejil picado."
   ],
   nutricion: { kcal: 445, prot: 33, hc: 28, grasa: 22 },
-  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "para invitados", "microondas"],
+  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "para invitados", "microondas", "bajo en colesterol"],
   consejo: "El ajo laminado siempre se empieza en aceite templado, no muy caliente: así perfuma el aceite y se dora de forma uniforme. Los pescados gelatinosos (rape, bacalao, merluza de pincho) ligan solos la salsa si mueves la sartén en vaivén; los pescados grasos, no.",
   contundencia: "ligera",
   coste: "premium",
@@ -436,7 +436,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con la pipirrana, gajos de limón y el pan."
   ],
   nutricion: { kcal: 590, prot: 38, hc: 47, grasa: 28 },
-  etiquetas: ["rápida", "15 minutos", "frito", "omega 3", "económica"],
+  etiquetas: ["rápida", "15 minutos", "frito", "omega 3", "económica", "poco especiada"],
   consejo: "Las tres reglas de la fritura de pescado pequeño (boquerones, chopitos, pescadito): secarlo bien, enharinarlo y sacudirlo en un colador, y freír en tandas pequeñas con el aceite a 180 °C. El aceite de oliva de freír se puede reutilizar 3-4 veces si lo filtras en frío y lo guardas tapado y a oscuras.",
   contundencia: "media",
   coste: "económica",
@@ -478,7 +478,7 @@ window.RECETAS_SEED.push({
     "Espolvorea perejil picado y sirve con el pan tostado."
   ],
   nutricion: { kcal: 420, prot: 39, hc: 37, grasa: 13 },
-  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "una sola sartén", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "una sola sartén", "tupper", "poco especiada", "bajo en colesterol"],
   consejo: "Cocer el pescado tapado sobre una salsa a fuego suave es la forma más segura de que quede jugoso: vale para merluza, bacalao, rape o gallo, y para salsas de tomate, verde o de pimientos. El azafrán se tuesta un instante y se disuelve en líquido templado antes de añadirlo.",
   contundencia: "ligera",
   coste: "media",
@@ -520,7 +520,7 @@ window.RECETAS_SEED.push({
     "Vierte enseguida la mantequilla sobre los filetes y sirve con las judías y las patatas escurridas, y gajos de limón."
   ],
   nutricion: { kcal: 440, prot: 34, hc: 34, grasa: 19 },
-  etiquetas: ["rápida", "15 minutos", "ligera", "microondas", "para niños"],
+  etiquetas: ["rápida", "15 minutos", "ligera", "microondas", "para niños", "poco especiada"],
   consejo: "La meunière (enharinar, dorar y regar con mantequilla avellana y limón) es la técnica perfecta para cualquier pescado plano o fino: lenguado, gallo, platija, trucha o filetes de merluza. Limpia siempre la sartén antes de hacer la mantequilla para que la salsa salga limpia.",
   contundencia: "ligera",
   coste: "media",
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
     "Sirve con el huevo duro picado, el cebollino y los picatostes por encima."
   ],
   nutricion: { kcal: 455, prot: 14, hc: 55, grasa: 20 },
-  etiquetas: ["rápida", "15 minutos", "olla exprés", "ligera", "de cuchara", "económica", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "olla exprés", "ligera", "de cuchara", "económica", "tupper", "poco especiada"],
   consejo: "La patata es el espesante natural de las cremas de verdura: con un tercio de patata no necesitas nata. Puedes cocer huevos enteros en la olla exprés junto a cualquier crema o guiso de 5 minutos. El nabo pierde su punto amargo si lo rehogas antes en grasa; si es grande y fibroso, pélalo grueso.",
   contundencia: "ligera",
   coste: "económica",
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos a la florentina exprés sobre espinacas a la crema y pan tostado",
   subtitulo: "aprende a hacer huevos poché perfectos con un colador y un remolino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -610,7 +610,7 @@ window.RECETAS_SEED.push({
     "Pon las espinacas sobre el pan, los huevos encima y termina con el resto del parmesano y pimienta recién molida."
   ],
   nutricion: { kcal: 445, prot: 24, hc: 29, grasa: 26 },
-  etiquetas: ["rápida", "15 minutos", "vegetariana", "ligera", "técnica"],
+  etiquetas: ["rápida", "15 minutos", "vegetariana", "ligera", "técnica", "poco especiada"],
   consejo: "Para el huevo poché, la frescura manda: un huevo fresco tiene la clara firme y cuaja recogida. El colador, el agua que apenas tiembla y el remolino hacen el resto. Puedes escalfarlos con antelación, guardarlos en agua fría en la nevera y recalentarlos 30 segundos en agua caliente.",
   contundencia: "ligera",
   coste: "económica",
@@ -622,7 +622,7 @@ window.RECETAS_SEED.push({
   nombre: "Wraps de tortilla de huevo con espinacas, cheddar y pico de gallo",
   subtitulo: "el huevo se cuaja pegado a la tortilla de trigo y forman una sola pieza",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "americana",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -665,7 +665,7 @@ window.RECETAS_SEED.push({
   nombre: "Tempeh kecap: salteado indonesio dulce y picante con judías verdes y arroz",
   subtitulo: "con una salsa kecap manis casera hecha en un minuto con soja y azúcar moreno",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tempeh",
@@ -708,7 +708,7 @@ window.RECETAS_SEED.push({
   nombre: "Heura al curry de coco con espinacas y arroz basmati",
   subtitulo: "proteína vegetal dorada aparte para que guarde textura dentro de una salsa cremosa",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "heura",
@@ -754,7 +754,7 @@ window.RECETAS_SEED.push({
   nombre: "Cuscús tfaya exprés con garbanzos, cebolla caramelizada, pasas y almendras",
   subtitulo: "la cebolla dulce marroquí en 8 minutos gracias a un truco de tapa y vapor",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -787,7 +787,7 @@ window.RECETAS_SEED.push({
     "Esponja el cuscús con un tenedor, repártelo en los platos y cubre con los garbanzos, la tfaya, las almendras y el cilantro picado."
   ],
   nutricion: { kcal: 615, prot: 21, hc: 85, grasa: 21 },
-  etiquetas: ["rápida", "15 minutos", "vegana", "tupper", "ideal para llevar"],
+  etiquetas: ["rápida", "15 minutos", "vegana", "tupper", "ideal para llevar", "bajo en colesterol"],
   consejo: "Para caramelizar cebolla deprisa: córtala muy fina, sálala y tápala unos minutos para que se ablande con su propio vapor; luego destapa, añade una pizca de azúcar y sube el fuego. No es igual que una cebolla de 40 minutos, pero da un resultado dulce y meloso en 8. La tfaya se guarda 5 días en la nevera.",
   contundencia: "media",
   coste: "media",
@@ -827,7 +827,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, espolvorea perejil picado y sirve."
   ],
   nutricion: { kcal: 545, prot: 26, hc: 55, grasa: 25 },
-  etiquetas: ["rápida", "15 minutos", "económica", "una sola sartén", "invierno", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "económica", "una sola sartén", "invierno", "tupper", "poco especiada"],
   consejo: "En los platos grasos o intensos (morcilla, chorizo, panceta, quesos), un toque ácido al final (vinagre, limón, manzana verde, encurtidos) equilibra y hace que el plato no empalague. Es un recurso que puedes aplicar a cualquier guiso o salteado contundente.",
   contundencia: "media",
   coste: "económica",
@@ -908,7 +908,7 @@ window.RECETAS_SEED.push({
     "Aparta la sartén del fuego, añade la crema de pecorino y el guanciale y remueve con energía hasta que la salsa quede cremosa y brillante. Si espesa demasiado, añade agua de cocción a cucharadas. Sirve enseguida."
   ],
   nutricion: { kcal: 685, prot: 25, hc: 72, grasa: 33 },
-  etiquetas: ["rápida", "15 minutos", "técnica", "para invitados"],
+  etiquetas: ["rápida", "15 minutos", "técnica", "para invitados", "sin verduras"],
   consejo: "La gricia enseña la base de la carbonara y del cacio e pepe: grasa + agua de cocción con almidón + queso, mezclados fuera del fuego. El queso nunca va a la sartén al fuego, porque se funde en hebras y se apelmaza. Domina esta emulsión y harás cualquier pasta romana sin nata.",
   contundencia: "contundente",
   coste: "media",
@@ -953,7 +953,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo, añade los tallarines y saltea 1 minuto, hasta que se impregnen. Termina con cilantro picado y sirve."
   ],
   nutricion: { kcal: 580, prot: 37, hc: 70, grasa: 17 },
-  etiquetas: ["rápida", "15 minutos", "alta en proteína", "wok", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "alta en proteína", "wok", "tupper", "bajo en colesterol"],
   consejo: "Echar las salsas líquidas (soja, vinagre, vino) por el borde caliente del wok en lugar de por el centro hace que se reduzcan y tuesten al instante, y aporta un aroma ahumado. Funciona en cualquier salteado: lomo saltado, arroz chaufa o verduras.",
   contundencia: "media",
   coste: "económica",
@@ -997,7 +997,7 @@ window.RECETAS_SEED.push({
     "Devuelve los langostinos, añade la cebolleta en tramos y saltea 30 segundos más. Sirve enseguida."
   ],
   nutricion: { kcal: 610, prot: 41, hc: 75, grasa: 16 },
-  etiquetas: ["rápida", "15 minutos", "wok", "alta en proteína", "tupper"],
+  etiquetas: ["rápida", "15 minutos", "wok", "alta en proteína", "tupper", "poco especiada"],
   consejo: "Lo mein y chow mein usan los mismos fideos de huevo, pero en el lo mein se cuecen del todo y se mezclan con más salsa (resultado jugoso), mientras que en el chow mein se cuecen a medias y se tuestan en el wok (resultado crujiente). Elige según la textura que prefieras.",
   contundencia: "media",
   coste: "premium",
@@ -1038,7 +1038,7 @@ window.RECETAS_SEED.push({
     "Monta la ensalada: rúcula, nectarina, pollo en tiras y la mozzarella desgarrada con las manos (la superficie irregular recoge mejor el aliño). Termina con las almendras, la albahaca y la vinagreta."
   ],
   nutricion: { kcal: 470, prot: 40, hc: 19, grasa: 26 },
-  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "verano"],
+  etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "verano", "poco especiada"],
   consejo: "Melocotones, nectarinas, albaricoques, ciruelas o higos marcados un minuto en la plancha ganan dulzor y un punto tostado que combina con quesos frescos, jamón o carnes a la plancha. Elígelos firmes: si están muy maduros, se deshacen.",
   contundencia: "ligera",
   coste: "media",

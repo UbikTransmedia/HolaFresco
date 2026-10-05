@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Termina con unas gotas de zumo de limón, pimienta recién molida y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 430, prot: 25, hc: 38, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "poco especiada"],
   consejo: "La sandía suelta mucha agua: no añadas agua al triturar. Si te sobra gazpacho, congélalo en cubiteras y úsalo para enfriar el siguiente sin aguarlo.",
   contundencia: "ligera",
   coste: "media"
@@ -81,7 +81,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmorejo en platos hondos con el atún, el huevo y las aceitunas por encima, una pizca de pimentón ahumado y la última cucharada de aceite."
   ],
   nutricion: { kcal: 560, prot: 26, hc: 40, grasa: 33 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ideal para llevar", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ideal para llevar", "verano", "poco especiada"],
   consejo: "Los piquillos le dan dulzor y un color precioso, pero también puedes usar pimiento rojo asado en casa. Aguanta 3 días en la nevera en un tarro: llévalo frío y añade los tropezones al servir.",
   contundencia: "media",
   coste: "económica"
@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
     "Sirve el ajoblanco muy frío con la caballa, la manzana y el cebollino por encima."
   ],
   nutricion: { kcal: 530, prot: 24, hc: 33, grasa: 34 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "verano", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "verano", "ideal para llevar", "sin verduras", "superalimentos", "poco especiada"],
   consejo: "Si tienes tiempo, tuesta 10 almendras laminadas en la sartén y añádelas al final: dan un crujiente y un aroma tostado que contrasta con la crema. La caballa se puede cambiar por sardinas en conserva.",
   contundencia: "media",
   coste: "económica"
@@ -161,7 +161,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema fría o templada con los garbanzos encima, el resto de la menta picada, la ralladura restante y la última cucharada de aceite."
   ],
   nutricion: { kcal: 465, prot: 17, hc: 34, grasa: 29 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "detox"],
   consejo: "Los garbanzos se ponen blandos si se mezclan con la crema antes de tiempo: añádelos justo al servir. Si la quieres más saciante, añade un huevo duro picado o unos dados de feta.",
   contundencia: "ligera",
   coste: "económica"
@@ -203,7 +203,7 @@ window.RECETAS_SEED.push({
     "Sirve el gazpacho muy frío con dos huevos mollet abiertos por la mitad en cada plato, las almendras, unas hojitas de albahaca y la otra cucharada de aceite."
   ],
   nutricion: { kcal: 455, prot: 20, hc: 24, grasa: 31 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "poco especiada"],
   consejo: "Para que no se oxide y conserve el verde intenso, tritúralo justo antes de comer o guárdalo en un tarro lleno hasta arriba. Cambia la albahaca por hierbabuena o cilantro para variar el perfume.",
   contundencia: "ligera",
   coste: "económica"
@@ -247,7 +247,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con el resto del parmesano, hojas de albahaca rotas con la mano y un hilo del aceite restante."
   ],
   nutricion: { kcal: 610, prot: 30, hc: 39, grasa: 37 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "invierno", "poco especiada"],
   consejo: "Si la ricotta es muy húmeda, déjala escurrir 1 hora en un colador con papel de cocina: las albóndigas quedarán más firmes. Puedes formarlas el día antes y guardarlas tapadas en la nevera.",
   contundencia: "media",
   coste: "media"
@@ -293,7 +293,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa bien caliente y pon una cucharada generosa de pesto en el centro de cada plato, para mezclar en la mesa."
   ],
   nutricion: { kcal: 445, prot: 24, hc: 40, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Si quieres convertirla en un plato más contundente, cuece 60 g de pasta pequeña (ditalini, estrellitas) en el caldo. Guarda el pesto aparte: añadido al recalentar sabe como recién hecho.",
   contundencia: "ligera",
   coste: "media"
@@ -385,7 +385,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil y las hojas de hinojo picadas, pimienta y la última cucharada de aceite crudo."
   ],
   nutricion: { kcal: 575, prot: 33, hc: 54, grasa: 25 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "poco especiada", "bajo en colesterol"],
   consejo: "La merluza congelada funciona perfectamente: añádela sin descongelar del todo y dale 2 minutos más. Un poco de alioli sobre pan tostado al servir la convierte en plato de fiesta.",
   contundencia: "media",
   coste: "media"
@@ -474,7 +474,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con dos huevos poché por plato, el feta aliñado por encima y pimienta recién molida."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 27, grasa: 28 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "poco especiada"],
   consejo: "Para ahorrar tiempo, usa pimientos rojos asados en conserva: la crema estará lista en 15 minutos. La crema sola se congela muy bien; los huevos, siempre al momento.",
   contundencia: "ligera",
   coste: "económica"
@@ -517,7 +517,7 @@ window.RECETAS_SEED.push({
     "Sirve con el feta desmenuzado por encima, la última cucharada de aceite crudo y pimienta negra."
   ],
   nutricion: { kcal: 565, prot: 26, hc: 55, grasa: 27 },
-  etiquetas: ["mediterránea", "fácil", "batch cooking", "ideal para llevar", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "batch cooking", "ideal para llevar", "invierno", "poco especiada"],
   consejo: "En Grecia se acompaña de aceitunas kalamata y unas anchoas o sardinas en conserva al lado: prueba a añadirlas para un plato todavía más completo. Mejora al día siguiente.",
   contundencia: "media",
   coste: "económica"
@@ -561,7 +561,7 @@ window.RECETAS_SEED.push({
     "Sirve con el eneldo picado, el parmesano rallado, la ralladura restante, pimienta y un hilo del aceite restante."
   ],
   nutricion: { kcal: 705, prot: 50, hc: 55, grasa: 32 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "invierno", "poco especiada"],
   consejo: "El orzo sigue absorbiendo caldo: si vas a guardar sopa, cuécelo aparte y añádelo al servir. Cambia el eneldo por perejil y menta si no te convence su anisado.",
   contundencia: "contundente",
   coste: "económica"
@@ -603,7 +603,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con las alcachofas doradas, el jamón crujiente, las hojas del otro tomillo, la ralladura restante y un hilo de aceite."
   ],
   nutricion: { kcal: 440, prot: 22, hc: 48, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "invierno", "poco especiada"],
   consejo: "En temporada (de noviembre a abril) hazla con 6 alcachofas frescas limpias y cocidas 15 minutos en el caldo: tendrá un sabor más vegetal. Para versión vegetariana, cambia el jamón por almendras tostadas y queso feta.",
   contundencia: "ligera",
   coste: "media"
@@ -644,7 +644,7 @@ window.RECETAS_SEED.push({
     "Sirve los mejillones con todo su caldo en cuencos hondos, con las hojas de perejil picadas, ralladura de limón, pimienta y el pan para mojar."
   ],
   nutricion: { kcal: 390, prot: 23, hc: 34, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "una sola sartén", "sin verduras"],
   consejo: "Si sobra caldo, cuélalo y úsalo al día siguiente para cocer 80 g de pasta corta con los mejillones que queden sin cáscara: tendrás otra comida completa.",
   contundencia: "ligera",
   coste: "económica"
@@ -687,7 +687,7 @@ window.RECETAS_SEED.push({
     "Sirve la bissara con los huevos en cuartos, el aceite de pimentón por encima, cilantro picado y la pita tostada en triángulos para mojar."
   ],
   nutricion: { kcal: 540, prot: 26, hc: 51, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "poco especiada"],
   consejo: "La versión tradicional usa habas secas peladas cocidas 1 hora; con congeladas queda igual de cremosa en un tercio de tiempo. Unas aceitunas negras y un poco de harissa en la mesa la completan.",
   contundencia: "media",
   coste: "económica"
@@ -728,7 +728,7 @@ window.RECETAS_SEED.push({
     "Sirve tibia con una burrata abierta en el centro de cada plato, el resto de la albahaca, pimienta y la última cucharada de aceite crudo."
   ],
   nutricion: { kcal: 755, prot: 23, hc: 64, grasa: 45 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "verano", "poco especiada"],
   consejo: "Está más rica a temperatura ambiente que muy caliente, como en la Toscana. Si no encuentras burrata, usa mozzarella fresca o unas cucharadas de ricotta con ralladura de limón.",
   contundencia: "contundente",
   coste: "premium"
@@ -819,7 +819,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa bien caliente con una cucharada de gremolata por encima y unas gotas de zumo de limón."
   ],
   nutricion: { kcal: 780, prot: 54, hc: 55, grasa: 38 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "invierno", "poco especiada"],
   consejo: "Como todo guiso, mejora al día siguiente: hazlo la víspera, enfríalo y retira la capa de grasa sólida antes de recalentar. La gremolata, siempre recién hecha.",
   contundencia: "contundente",
   coste: "premium"
@@ -864,7 +864,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado, ralladura de limón y un chorrito de su zumo en cada plato."
   ],
   nutricion: { kcal: 680, prot: 44, hc: 59, grasa: 30 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "invierno", "poco especiada"],
   consejo: "El jugo tostado de la bandeja es el secreto del sabor: no lo dejes ahí. Si vas a congelarla, hazlo sin los fideos y cuécelos al recalentar.",
   contundencia: "contundente",
   coste: "económica"
@@ -908,7 +908,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y sirve la sopa con perejil picado, pimienta y un hilo del aceite restante, con la tostada al lado."
   ],
   nutricion: { kcal: 575, prot: 40, hc: 57, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Es la sopa de despensa perfecta: con un bote de alubias y una lata de atún está lista en 20 minutos. Cambia el atún por sardinas o caballa en conserva, o por un huevo escalfado en la propia sopa.",
   contundencia: "media",
   coste: "económica"
@@ -949,7 +949,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el huevo duro picado, las migas al ajo y un poco más de ralladura de limón."
   ],
   nutricion: { kcal: 465, prot: 23, hc: 35, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "invierno", "superalimentos", "poco especiada"],
   consejo: "No cuezas el brócoli más de 8 minutos o perderá el color y cogerá sabor a col. Añade dos anchoas picadas a las migas si te gustan: el toque salino le sienta de maravilla.",
   contundencia: "ligera",
   coste: "media"
@@ -992,7 +992,7 @@ window.RECETAS_SEED.push({
     "Sirve con el parmesano rallado, el resto de la albahaca, pimienta y un hilo del aceite restante."
   ],
   nutricion: { kcal: 700, prot: 31, hc: 76, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "invierno", "poco especiada"],
   consejo: "Los tortellini se hinchan si reposan en el caldo: si vas a guardar sopa, sírvela entera o cuece la pasta aparte. Unos tortellini de carne o de jamón también le van muy bien.",
   contundencia: "contundente",
   coste: "media"
@@ -1034,7 +1034,7 @@ window.RECETAS_SEED.push({
     "Sirve el gazpacho con el queso, las fresas laminadas, los pistachos, hojas de albahaca rotas, pimienta negra y el resto del aceite."
   ],
   nutricion: { kcal: 450, prot: 18, hc: 38, grasa: 25 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Las fresas deben estar muy maduras para que no aporten acidez de más. Si quieres más proteína, añade un poco de jamón serrano en tiras o unas gambas cocidas.",
   contundencia: "ligera",
   coste: "media"
@@ -1077,7 +1077,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa caliente con un buen chorro de aceite de albahaca por encima y pimienta recién molida."
   ],
   nutricion: { kcal: 610, prot: 41, hc: 60, grasa: 23 },
-  etiquetas: ["mediterránea", "aromática", "batch cooking", "invierno"],
+  etiquetas: ["mediterránea", "aromática", "batch cooking", "invierno", "poco especiada"],
   consejo: "La clave para un calamar tierno es elegir: o muy poco tiempo (2 minutos) o cocción larga (más de 20). Puedes usar sepia en lugar de calamar con la misma receta, alargando la cocción 10 minutos.",
   contundencia: "media",
   coste: "media"

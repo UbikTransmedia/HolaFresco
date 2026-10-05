@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmón sobre las verduritas, con la mayonesa al limón al lado y un gajo de limón para exprimir por encima."
   ],
   nutricion: { kcal: 760, prot: 42, hc: 52, grasa: 43 },
-  etiquetas: ["al horno", "alta en proteína", "para niños"],
+  etiquetas: ["al horno", "alta en proteína", "para niños", "poco especiada"],
   consejo: "Si no tienes panko, usa pan rallado grueso mezclado con una cucharadita de aceite. Para aligerar, sustituye la mitad de la mayonesa por yogur griego."
 });
 
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Reparte el cuscús con espinacas en dos boles, coloca encima los langostinos con su jugo, añade cucharadas de salsa de yogur y termina con las avellanas y el cilantro."
   ],
   nutricion: { kcal: 690, prot: 41, hc: 72, grasa: 26 },
-  etiquetas: ["rápida", "alta en proteína", "ideal para llevar", "una sola sartén"],
+  etiquetas: ["rápida", "alta en proteína", "ideal para llevar", "una sola sartén", "poco especiada"],
   consejo: "Si los langostinos son congelados, descongélalos en la nevera la noche anterior y sécalos muy bien: así se doran en lugar de hervirse."
 });
 
@@ -129,7 +129,7 @@ window.RECETAS_SEED.push({
     "Sirve la entomatá caliente en la base del plato y coloca encima los pastelitos de bacalao. Termina con un poco de perejil picado."
   ],
   nutricion: { kcal: 590, prot: 38, hc: 62, grasa: 19 },
-  etiquetas: ["batch cooking", "económica", "para niños"],
+  etiquetas: ["batch cooking", "económica", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "La entomatá y los pastelitos (ya formados, sin freír) aguantan 2 días en la nevera: perfecta para adelantar trabajo. Un huevo escalfado encima convierte el plato en la versión más tradicional."
 });
 
@@ -171,7 +171,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré como base, apoya encima la merluza y cúbrela con una cucharada generosa de gremolata. Acompaña con las verduras glaseadas y un gajo de limón."
   ],
   nutricion: { kcal: 615, prot: 35, hc: 65, grasa: 24 },
-  etiquetas: ["para niños", "económica"],
+  etiquetas: ["para niños", "económica", "poco especiada"],
   consejo: "La gremolata se puede preparar con horas de antelación y también levanta un pescado al horno o unas verduras asadas. Si tienes merluza congelada, descongélala en la nevera y sécala muy bien antes de marcarla."
 });
 
@@ -284,7 +284,7 @@ window.RECETAS_SEED.push({
     "Vuelve a colocar el bacalao en la cazuela con la salsa, calienta 1 minuto a fuego mínimo moviendo la cazuela, y sirve con los ajos y la guindilla por encima y las patatas al lado."
   ],
   nutricion: { kcal: 680, prot: 38, hc: 28, grasa: 46 },
-  etiquetas: ["alta en proteína", "invierno", "tradicional"],
+  etiquetas: ["alta en proteína", "invierno", "tradicional", "sin verduras"],
   consejo: "El pil pil liga gracias a la gelatina de la piel: no uses bacalao sin piel ni dejes que el aceite pase de los 70 °C. Si la salsa se corta, añade una cucharada de agua tibia y sigue moviendo."
 });
 
@@ -366,7 +366,7 @@ window.RECETAS_SEED.push({
     "Pica el cebollino fino. Extiende el parmentier en el centro de cada plato, apoya encima la lubina con la piel hacia arriba, espolvorea el cebollino y termina con unas gotas de limón y el resto del aceite de trufa."
   ],
   nutricion: { kcal: 515, prot: 40, hc: 18, grasa: 32 },
-  etiquetas: ["ligera", "alta en proteína", "para invitados"],
+  etiquetas: ["ligera", "alta en proteína", "para invitados", "keto", "poco especiada"],
   consejo: "El secreto de la piel crujiente es un pescado muy seco, la sartén muy caliente y no tocarlo. Si quieres más hidratos, acompaña con pan tostado frotado con ajo."
 });
 
@@ -410,6 +410,6 @@ window.RECETAS_SEED.push({
     "Saca del horno, cubre con la rúcula, un hilo de aceite y pimienta negra recién molida. Corta en porciones y sirve enseguida."
   ],
   nutricion: { kcal: 650, prot: 45, hc: 32, grasa: 37 },
-  etiquetas: ["al horno", "alta en proteína", "ligera", "para niños"],
+  etiquetas: ["al horno", "alta en proteína", "ligera", "para niños", "verduras escondidas", "poco especiada"],
   consejo: "Escurrir el calabacín a conciencia es lo que hace que la base quede firme y se pueda coger con la mano. Sustituye la harina de trigo por harina de garbanzo si quieres una versión sin gluten."
 });

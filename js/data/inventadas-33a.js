@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo en las tortillas con láminas de aguacate, la cebolla encurtida escurrida y cilantro picado."
   ],
   nutricion: { kcal: 580, prot: 42, hc: 48, grasa: 24 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Para celíacos: usa tortillas 100 % maíz con sello sin gluten y revisa la pasta de achiote, que algunas marcas espesan con harina. Guarda el pollo con su jugo: aguanta 3 días en la nevera y mejora de un día para otro.",
   cocina: "latinoamericana",
   contundencia: "media",
@@ -54,7 +54,7 @@ window.RECETAS_SEED.push({
   nombre: "Potaje de alubias blancas, acelgas y patata a fuego lento",
   subtitulo: "con sofrito de pimentón y un toque de comino",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   momentos: ["comida"],
   proteina: "legumbre",
   tiempo: 500,
@@ -86,7 +86,7 @@ window.RECETAS_SEED.push({
     "Aplasta unas cuantas alubias y patatas contra la pared de la olla para espesar el caldo, prueba y ajusta de sal. Sirve bien caliente."
   ],
   nutricion: { kcal: 440, prot: 20, hc: 64, grasa: 11 },
-  etiquetas: ["sin gluten", "olla lenta", "de cuchara", "vegana", "fácil", "tupper", "batch cooking", "económica", "invierno"],
+  etiquetas: ["sin gluten", "olla lenta", "de cuchara", "vegana", "fácil", "tupper", "batch cooking", "económica", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Revisa que el caldo de verduras y el pimentón lleven sello sin gluten: algunos caldos en pastilla contienen harina o extracto de levadura con trigo. Si no tienes olla lenta a mano, usa alubias cocidas de bote y reduce el tiempo a 2 horas en HIGH.",
   cocina: "española",
   contundencia: "ligera",
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo saag sobre el arroz y, si quieres, una cucharada extra de yogur."
   ],
   nutricion: { kcal: 600, prot: 46, hc: 66, grasa: 16 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "alta en proteína"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "alta en proteína", "verduras escondidas", "bajo en colesterol"],
   consejo: "Algunas mezclas de garam masala y de especias molidas se envasan en plantas con harinas: busca el sello sin gluten. La salsa aguanta 3 días en la nevera; recalienta el arroz aparte con un chorrito de agua.",
   cocina: "india",
   contundencia: "media",
@@ -179,7 +179,7 @@ window.RECETAS_SEED.push({
     "Reparte la polenta en platos hondos, coloca encima el estofado con su salsa y unas hojas de tomillo."
   ],
   nutricion: { kcal: 740, prot: 40, hc: 82, grasa: 26 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno", "poco especiada"],
   consejo: "Para celíacos, compra polenta con sello sin gluten (la de maíz puede contaminarse en molinos de trigo) y revisa el caldo. El estofado aguanta 3 días; la polenta se endurece en frío: recaliéntala con un chorro de leche batiendo.",
   cocina: "europea",
   contundencia: "contundente",
@@ -222,7 +222,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con las pipas y un hilo del aceite restante."
   ],
   nutricion: { kcal: 400, prot: 18, hc: 52, grasa: 14 },
-  etiquetas: ["sin gluten", "olla lenta", "vegana", "fácil", "tupper", "batch cooking", "económica", "ligera"],
+  etiquetas: ["sin gluten", "olla lenta", "vegana", "fácil", "tupper", "batch cooking", "económica", "ligera", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El pimentón ahumado y el comino deben ser certificados sin gluten: son de los productos que más contaminación cruzada presentan. Congela en raciones: aguanta 3 meses perfecta.",
   cocina: "española",
   contundencia: "ligera",
@@ -268,7 +268,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con las ciruelas y aceitunas sobre el arroz, nápalo con la salsa y espolvorea perejil picado."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 72, grasa: 19 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Las aceitunas y alcaparras en salmuera son naturalmente sin gluten, pero las rellenas o aliñadas pueden no serlo: revisa la etiqueta. Está aún más rico al día siguiente, cuando la ciruela ha soltado su dulzor en la salsa.",
   cocina: "americana",
   contundencia: "media",
@@ -451,7 +451,7 @@ window.RECETAS_SEED.push({
     "Sirve espolvoreado con perejil picado."
   ],
   nutricion: { kcal: 470, prot: 38, hc: 40, grasa: 18 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "ligera"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "La maicena ligera la salsa sin harina de trigo y evita que el yogur se corte. Usa pimentón y caldo certificados sin gluten. En tupper aguanta 3 días; recalienta a fuego suave para que la salsa no se separe.",
   cocina: "europea",
   contundencia: "ligera",
@@ -496,7 +496,7 @@ window.RECETAS_SEED.push({
     "Incorpora las espinacas y la parte verde de la cebolleta en aros; en 2 minutos estarán blandas. Termina con el zumo de limón, pimienta y ajusta de sal."
   ],
   nutricion: { kcal: 380, prot: 30, hc: 38, grasa: 12 },
-  etiquetas: ["sin gluten", "bajo en fodmap", "olla lenta", "fácil", "tupper", "de cuchara", "ligera", "económica"],
+  etiquetas: ["sin gluten", "bajo en fodmap", "olla lenta", "fácil", "tupper", "de cuchara", "ligera", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Apta para dieta baja en FODMAP: el aceite de ajo aporta el sabor sin los fructanos, que no pasan al aceite. No uses caldo comercial, que suele llevar cebolla y a veces gluten. El arroz sigue absorbiendo caldo en la nevera: añade agua al recalentar.",
   cocina: "fusión",
   contundencia: "ligera",
@@ -554,7 +554,7 @@ window.RECETAS_SEED.push({
   nombre: "Ciambotta italiana de berenjena, pimiento y patata con albahaca",
   subtitulo: "el guiso de verano del sur de Italia, a fuego lento",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   momentos: ["comida", "cena"],
   proteina: "verdura",
   tiempo: 300,
@@ -585,7 +585,7 @@ window.RECETAS_SEED.push({
     "Trocea la albahaca con las manos e incorpórala al final, junto con la última cucharada de aceite en crudo. Sirve caliente o templado."
   ],
   nutricion: { kcal: 380, prot: 8, hc: 50, grasa: 16 },
-  etiquetas: ["sin gluten", "vegana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "ligera", "verano"],
+  etiquetas: ["sin gluten", "vegana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "ligera", "verano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "En Italia se acompaña de pan: usa pan sin gluten tostado aparte en una tostadora propia para evitar migas de trigo. Está todavía mejor al día siguiente, e incluso a temperatura ambiente.",
   cocina: "italiana",
   contundencia: "ligera",
@@ -632,7 +632,7 @@ window.RECETAS_SEED.push({
     "Disuelve la maicena en una cucharada de agua fría, incorpórala y cocina 15 minutos en HIGH sin tapa hasta que la salsa nape. Retira el laurel y las ramas de tomillo y sirve."
   ],
   nutricion: { kcal: 690, prot: 46, hc: 62, grasa: 30 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "de cuchara", "invierno"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "de cuchara", "invierno", "poco especiada"],
   consejo: "No enharines la carne antes de dorarla como en las recetas clásicas: la maicena al final liga igual y es segura para celíacos. Congela el estofado sin las patatas, que se vuelven harinosas al descongelar.",
   cocina: "europea",
   contundencia: "contundente",
@@ -677,7 +677,7 @@ window.RECETAS_SEED.push({
     "Saca la cebolla, tritúrala con un cazo de caldo y devuélvela para espesar. Prueba de sal y sirve en plato hondo."
   ],
   nutricion: { kcal: 720, prot: 42, hc: 62, grasa: 34 },
-  etiquetas: ["sin gluten", "olla lenta", "de cuchara", "fácil", "tupper", "batch cooking", "económica", "invierno"],
+  etiquetas: ["sin gluten", "olla lenta", "de cuchara", "fácil", "tupper", "batch cooking", "económica", "invierno", "poco especiada"],
   consejo: "Si quieres añadir chorizo o morcilla como en el cocido, compra solo los que lleven sello sin gluten: muchas morcillas llevan pan o harina. Pon sal al final, porque la costilla adobada ya aporta.",
   cocina: "española",
   contundencia: "contundente",
@@ -720,7 +720,7 @@ window.RECETAS_SEED.push({
     "Sirve el cerdo con la col sobre el arroz, con la piña tostada y la cebolleta en aros."
   ],
   nutricion: { kcal: 760, prot: 40, hc: 80, grasa: 32 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "económica"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "poco especiada"],
   consejo: "Usa tamari en lugar de salsa de soja: la soja normal lleva trigo. Comprueba que el tamari indique «sin gluten», porque no todos lo son. La carne desmenuzada se congela de maravilla en raciones con su jugo.",
   cocina: "americana",
   contundencia: "contundente",
@@ -764,7 +764,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo y las zanahorias sobre el arroz, con unas gotas de aceite de sésamo, el sésamo tostado y la cebolleta en aros."
   ],
   nutricion: { kcal: 580, prot: 38, hc: 76, grasa: 14 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "económica"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La clave para celíacos es el tamari con sello sin gluten y un vinagre de arroz sin malta. Las semillas de sésamo a granel pueden estar contaminadas: cómpralas envasadas. Recalienta en el microondas con una cucharada de agua.",
   cocina: "asiática",
   contundencia: "media",
@@ -856,7 +856,7 @@ window.RECETAS_SEED.push({
     "Sirve las costillas sobre el puré y báñalas con la salsa reducida."
   ],
   nutricion: { kcal: 870, prot: 50, hc: 55, grasa: 50 },
-  etiquetas: ["sin gluten", "olla lenta", "tupper", "invierno", "fin de semana"],
+  etiquetas: ["sin gluten", "olla lenta", "tupper", "invierno", "fin de semana", "poco especiada"],
   consejo: "Esta salsa no necesita harina: se espesa reduciendo el jugo de colágeno de la costilla. Revisa el caldo de carne, que es la única fuente posible de gluten. Si la preparas la víspera, la grasa se solidifica en frío y se retira de una vez.",
   cocina: "europea",
   contundencia: "contundente",
@@ -868,7 +868,7 @@ window.RECETAS_SEED.push({
   nombre: "Frijoles negros al chipotle y naranja con arroz blanco",
   subtitulo: "desde seco en la olla lenta, ahumados y con un punto cítrico",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
   tiempo: 500,
@@ -899,7 +899,7 @@ window.RECETAS_SEED.push({
     "Sirve los frijoles con su caldo espeso junto al arroz y cilantro picado por encima."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 108, grasa: 9 },
-  etiquetas: ["sin gluten", "vegana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "picante"],
+  etiquetas: ["sin gluten", "vegana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "picante", "sin verduras", "bajo en colesterol"],
   consejo: "Revisa la lata de chipotle en adobo: la mayoría son sin gluten, pero algunas marcas usan harina de trigo para espesar el adobo. Los frijoles se congelan muy bien con su caldo.",
   cocina: "latinoamericana",
   contundencia: "media",
@@ -987,7 +987,7 @@ window.RECETAS_SEED.push({
     "Prueba la sopa de sal y sírvela en cuencos con una cucharada generosa de pistou en el centro, para que cada uno lo mezcle en su plato."
   ],
   nutricion: { kcal: 390, prot: 16, hc: 50, grasa: 14 },
-  etiquetas: ["sin gluten", "vegetariana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "ligera", "de cuchara"],
+  etiquetas: ["sin gluten", "vegetariana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "ligera", "de cuchara", "superalimentos", "poco especiada"],
   consejo: "La sopa al pistou clásica lleva pasta pequeña: aquí la quinoa la sustituye sin gluten. Lava siempre la quinoa para quitar las saponinas amargas y compra una con sello, porque se procesa junto a otros cereales. Guarda el pistou aparte para que no se oscurezca.",
   cocina: "mediterránea",
   contundencia: "ligera",
@@ -1031,7 +1031,7 @@ window.RECETAS_SEED.push({
     "Sirve cada lomo sobre una buena cama de samfaina con perejil picado."
   ],
   nutricion: { kcal: 380, prot: 34, hc: 22, grasa: 17 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "ligera", "alta en proteína"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "ligera", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "La samfaina sola aguanta 4 días y se congela; el bacalao, mejor cocinarlo el día que lo vayas a comer o recalentarlo muy suave. El bacalao desalado de bandeja es seguro, pero evita los que vienen rebozados o enharinados.",
   cocina: "española",
   contundencia: "ligera",
@@ -1120,7 +1120,7 @@ window.RECETAS_SEED.push({
     "Si la salsa está clara, saca carne y boniato y redúcela 15 minutos en HIGH sin tapa. Sirve la carrillada con el boniato y bien de salsa."
   ],
   nutricion: { kcal: 600, prot: 38, hc: 62, grasa: 22 },
-  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno"],
+  etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno", "poco especiada"],
   consejo: "La salsa queda ligada por la gelatina de la carrillada y el almidón del boniato, sin necesidad de harina. Comprueba el sello sin gluten del pimentón y del caldo. Aguanta 3 días y se congela muy bien.",
   cocina: "española",
   contundencia: "media",

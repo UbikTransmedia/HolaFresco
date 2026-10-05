@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y sirve bien caliente."
   ],
   nutricion: { kcal: 700, prot: 51, hc: 60, grasa: 24 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "para niños"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "para niños", "poco especiada"],
   consejo: "Pide al carnicero morcillo o aguja: tienen colágeno y quedan melosas en la olla. Un estofado gana mucho hecho de víspera."
 });
 
@@ -86,7 +86,7 @@ window.RECETAS_SEED.push({
     "Prueba y rectifica de sal. Deja reposar 5 min antes de servir, con unas gotas de vinagre en el plato para quien quiera."
   ],
   nutricion: { kcal: 690, prot: 33, hc: 68, grasa: 29 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
   consejo: "Si te gusta el caldo más espeso, tritura un cucharón de lentejas con un poco de caldo y devuélvelo a la olla. Congelan perfectamente."
 });
 
@@ -130,7 +130,7 @@ window.RECETAS_SEED.push({
     "Remueve el arroz con lentejas, retira el laurel, rectifica de sal y pimienta y deja reposar 3 min. Sirve con la cebolla crujiente y el perejil picado por encima."
   ],
   nutricion: { kcal: 590, prot: 21, hc: 86, grasa: 15 },
-  etiquetas: ["de cuchara", "económica", "batch cooking", "vegetariana", "invierno"],
+  etiquetas: ["de cuchara", "económica", "batch cooking", "vegetariana", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Un chorrito de zumo de limón y una cucharada de yogur natural al servir lo convierten en algo parecido al mujaddara libanés."
 });
 
@@ -175,7 +175,7 @@ window.RECETAS_SEED.push({
     "Saca el pollo y las patatas a una fuente. Si la salsa está líquida, redúcela destapada a fuego fuerte 4-5 min. Retira el laurel, rectifica de sal, vierte la salsa por encima y espolvorea perejil picado."
   ],
   nutricion: { kcal: 710, prot: 35, hc: 46, grasa: 38 },
-  etiquetas: ["de cuchara", "invierno", "para niños", "económica", "batch cooking"],
+  etiquetas: ["de cuchara", "invierno", "para niños", "económica", "batch cooking", "poco especiada"],
   consejo: "Usa una cerveza rubia suave; las tostadas o IPA dejan la salsa amarga. Quitar la piel del pollo antes de dorarlo ahorra unas 100 kcal por ración."
 });
 
@@ -271,7 +271,7 @@ window.RECETAS_SEED.push({
     "Sirve las carrilladas napadas con la salsa sobre el puré de patata."
   ],
   nutricion: { kcal: 820, prot: 50, hc: 50, grasa: 44 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "para ocasiones"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "para ocasiones", "poco especiada"],
   consejo: "Pide las carrilladas ya limpias de telillas; si no, retíralas con un cuchillo fino antes de dorar. Se pueden hacer de víspera y recalentar a fuego lento."
 });
 
@@ -314,7 +314,7 @@ window.RECETAS_SEED.push({
     "Sirve con un hilo de la nata restante, las semillas tostadas y pimienta recién molida."
   ],
   nutricion: { kcal: 480, prot: 9, hc: 50, grasa: 27 },
-  etiquetas: ["de cuchara", "ligera", "invierno", "para niños", "batch cooking", "vegetariana"],
+  etiquetas: ["de cuchara", "ligera", "invierno", "para niños", "batch cooking", "vegetariana", "poco especiada"],
   consejo: "Para completar la cena añade proteína: huevo duro picado, garbanzos tostados o dados de queso feta por encima. Congela bien sin la nata; añádela al recalentar."
 });
 
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
     "Sirve las albóndigas con su salsa sobre el arroz y el resto del perejil picado."
   ],
   nutricion: { kcal: 820, prot: 42, hc: 64, grasa: 42 },
-  etiquetas: ["para niños", "invierno", "batch cooking"],
+  etiquetas: ["para niños", "invierno", "batch cooking", "poco especiada"],
   consejo: "Las albóndigas se congelan crudas o ya cocinadas en su salsa. Mezcla cerdo y ternera a partes iguales si prefieres un sabor más suave y menos grasa."
 });
 
@@ -410,7 +410,7 @@ window.RECETAS_SEED.push({
     "Calienta las tortillas 30 s por lado en una sartén seca. Sirve la cochinita con la cebolla encurtida escurrida, cilantro picado y gajos de la lima restante."
   ],
   nutricion: { kcal: 740, prot: 50, hc: 58, grasa: 32 },
-  etiquetas: ["mexicana", "batch cooking", "para compartir", "picante"],
+  etiquetas: ["mexicana", "batch cooking", "para compartir", "picante", "sin verduras"],
   consejo: "La pasta de achiote se vende en tiendas latinas y grandes supermercados. La carne sobrante congela muy bien y sirve también para quesadillas o tortas."
 });
 
@@ -455,7 +455,7 @@ window.RECETAS_SEED.push({
     "Sirve las carnitas en las tortillas con cilantro picado, cebolla morada y gajos de lima para exprimir encima."
   ],
   nutricion: { kcal: 760, prot: 50, hc: 52, grasa: 36 },
-  etiquetas: ["mexicana", "batch cooking", "para compartir"],
+  etiquetas: ["mexicana", "batch cooking", "para compartir", "sin verduras", "poco especiada"],
   consejo: "No limpies demasiado la grasa de la paleta: es la que mantiene la carne jugosa y la que la dora al final. Acompaña con una salsa verde de tomatillo o pico de gallo."
 });
 
@@ -501,6 +501,6 @@ window.RECETAS_SEED.push({
     "Calienta las tortillas 30 s por lado en una sartén seca. Sirve la tinga con el aguacate en láminas, cilantro picado, gajos de lima y una cucharadita de yogur si quieres suavizar el picante."
   ],
   nutricion: { kcal: 700, prot: 52, hc: 60, grasa: 24 },
-  etiquetas: ["mexicana", "picante", "alta en proteína", "batch cooking", "para compartir"],
+  etiquetas: ["mexicana", "picante", "alta en proteína", "batch cooking", "para compartir", "bajo en colesterol"],
   consejo: "El chipotle en adobo se vende en lata; congela el resto en cubiteras. Con un solo chipotle la tinga queda suave, con tres, bien picante."
 });

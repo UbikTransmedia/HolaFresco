@@ -41,7 +41,7 @@ window.RECETAS_SEED.push({
     "Sirve los arancini sobre la salsa de tomate con la rúcula aliñada con el aceite restante."
   ],
   nutricion: { kcal: 670, prot: 24, hc: 85, grasa: 26 },
-  etiquetas: ["sin gluten", "airfryer", "aprovechamiento", "tupper", "para compartir", "saciante"],
+  etiquetas: ["sin gluten", "airfryer", "aprovechamiento", "tupper", "para compartir", "saciante", "poco especiada"],
   consejo: "Es la mejor forma de aprovechar un risotto sobrante. Para celíacos: el caldo de cubo es la trampa más habitual, usa uno con sello sin gluten, igual que el pan rallado. Se congelan ya empanados y se recalientan en la airfryer 6 minutos a 190 °C.",
   contundencia: "contundente",
   coste: "media",
@@ -84,7 +84,7 @@ window.RECETAS_SEED.push({
     "Sirve con un hilo de leche de coco por encima y las semillas tostadas."
   ],
   nutricion: { kcal: 286, prot: 8, hc: 32, grasa: 14 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "ligera", "vegana", "tupper", "batch cooking", "invierno"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "ligera", "vegana", "tupper", "batch cooking", "invierno", "detox", "poco especiada"],
   consejo: "Asar las verduras en la airfryer en lugar de hervirlas concentra su dulzor y da una crema mucho más sabrosa. Para celíacos, el caldo comercial debe llevar sello sin gluten. Aguanta 4 días en nevera y se congela sin problema.",
   contundencia: "ligera",
   coste: "económica",
@@ -127,7 +127,7 @@ window.RECETAS_SEED.push({
     "Sirve caliente con los picatostes, el huevo duro picado y el resto de la albahaca."
   ],
   nutricion: { kcal: 336, prot: 8, hc: 40, grasa: 16 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "ligera", "vegetariana", "tupper"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "ligera", "vegetariana", "tupper", "poco especiada", "bajo en colesterol"],
   consejo: "La pizca de azúcar equilibra la acidez si los tomates no están en su mejor momento. Para celíacos, guarda los picatostes aparte en un bote cerrado y tuéstalos siempre en una cesta sin restos de pan de trigo. La sopa sin picatostes aguanta 3 días en tupper.",
   contundencia: "ligera",
   coste: "económica",
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas recién hechas con el romesco templado al lado."
   ],
   nutricion: { kcal: 380, prot: 36, hc: 14, grasa: 20 },
-  etiquetas: ["sin gluten", "airfryer", "ligera", "alta en proteína", "para compartir"],
+  etiquetas: ["sin gluten", "airfryer", "ligera", "alta en proteína", "para compartir", "poco especiada"],
   consejo: "El romesco tradicional se espesa con pan frito; aquí lo hacen solo los frutos secos y el tomate asado, así que es apto para celíacos sin perder textura. El romesco aguanta 4 días en nevera, pero las brochetas se disfrutan al momento.",
   contundencia: "ligera",
   coste: "premium",
@@ -212,7 +212,7 @@ window.RECETAS_SEED.push({
     "Sirve la caballa con las patatas, la ensalada de pepino y gajos de limón."
   ],
   nutricion: { kcal: 532, prot: 32, hc: 38, grasa: 28 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "omega 3", "alta en proteína"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "omega 3", "alta en proteína", "poco especiada"],
   consejo: "La caballa es un pescado azul barato y riquísimo en omega 3; pide al pescadero que te la limpie en lomos. Para celíacos, la mostaza antigua debe llevar sello sin gluten, ya que algunas recetas usan vinagre de malta.",
   contundencia: "media",
   coste: "media",
@@ -258,7 +258,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo sobre el arroz con la cebolla morada en aros finos, la raita y gajos de lima."
   ],
   nutricion: { kcal: 674, prot: 44, hc: 75, grasa: 22 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "tupper", "alta en proteína", "saciante"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "tupper", "alta en proteína", "saciante", "bajo en colesterol"],
   consejo: "El yogur ablanda la carne: cuanto más tiempo de marinado, más jugoso queda. Para celíacos, el garam masala y la cúrcuma deben llevar sello sin gluten, porque las mezclas de especias a veces incluyen harina. En tupper, guarda la raita aparte.",
   contundencia: "contundente",
   coste: "económica",
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
   nombre: "Pakoras de verduras con harina de garbanzo en airfryer y chutney de cilantro y lima",
   subtitulo: "de cebolla, espinacas y patata, con ensalada de tomate",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["cena"],
   proteina: "verdura",
@@ -302,7 +302,7 @@ window.RECETAS_SEED.push({
     "Sirve las pakoras calientes con el chutney y el tomate en rodajas con sal."
   ],
   nutricion: { kcal: 350, prot: 14, hc: 42, grasa: 14 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegana", "ligera", "picante"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegana", "ligera", "picante", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Las pakoras son crujientes de por sí porque la harina de garbanzo no tiene gluten: no necesitan ningún otro rebozado. Para celíacos, asegúrate de que la harina de garbanzo (besan) tenga sello sin gluten, ya que en tiendas de alimentación india a veces se mezcla con trigo.",
   contundencia: "ligera",
   coste: "económica",
@@ -314,7 +314,7 @@ window.RECETAS_SEED.push({
   nombre: "Tempeh crujiente al pimentón en airfryer con boniato asado y kale salteada",
   subtitulo: "con salsa de tahini y limón",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "fusión",
   momentos: ["comida", "cena"],
   proteina: "tempeh",
@@ -345,7 +345,7 @@ window.RECETAS_SEED.push({
     "Reparte la kale, el boniato y el tempeh en los platos y riégalo con la salsa de tahini."
   ],
   nutricion: { kcal: 530, prot: 28, hc: 55, grasa: 22 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "vegana", "tupper", "alta en proteína"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "vegana", "tupper", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El tempeh de soja es apto para celíacos, pero hay variedades con cebada o trigo fermentado: lee siempre la etiqueta. Aguanta 3 días en tupper; recalienta el tempeh y el boniato 4 minutos en la airfryer para recuperar el crujiente.",
   contundencia: "media",
   coste: "media",
@@ -389,7 +389,7 @@ window.RECETAS_SEED.push({
     "Sirve las hamburguesas sobre la ensalada con la salsa de yogur por encima."
   ],
   nutricion: { kcal: 498, prot: 24, hc: 60, grasa: 18 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegetariana", "tupper", "batch cooking"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegetariana", "tupper", "batch cooking", "verduras escondidas", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si las quieres en pan, usa pan de hamburguesa sin gluten tostado 2 minutos en la cesta limpia. Para celíacos, la quinoa y la harina de garbanzo deben llevar sello. Se congelan crudas, separadas con papel de horno, y se hacen directamente congeladas a 190 °C 18 minutos.",
   contundencia: "media",
   coste: "económica",
@@ -433,7 +433,7 @@ window.RECETAS_SEED.push({
     "Mezcla la quinoa con las frutas y verduras, el aliño y el cilantro picado, y coloca encima los langostinos templados."
   ],
   nutricion: { kcal: 452, prot: 30, hc: 38, grasa: 20 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "ligera", "verano", "alta en proteína"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "ligera", "verano", "alta en proteína", "superalimentos"],
   consejo: "No te pases con el tiempo de los langostinos: en cuanto se curvan están hechos. Para celíacos, compra la quinoa con sello sin gluten (es naturalmente apta, pero se envasa a menudo junto a cereales con gluten).",
   contundencia: "ligera",
   coste: "premium",
@@ -479,7 +479,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos con el pollo, los picatostes y lascas del resto del parmesano por encima."
   ],
   nutricion: { kcal: 538, prot: 42, hc: 25, grasa: 30 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "alta en proteína", "clásico"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "alta en proteína", "clásico", "poco especiada"],
   consejo: "La salsa César comercial y la salsa Worcestershire suelen llevar gluten; este aliño casero de yogur y anchoa lo evita. Para celíacos, revisa también las anchoas en conserva y la mostaza, y tuesta los picatostes en una cesta limpia.",
   contundencia: "media",
   coste: "media",
@@ -491,7 +491,7 @@ window.RECETAS_SEED.push({
   nombre: "Setas portobello rellenas de quinoa, espinacas y queso de cabra en airfryer",
   subtitulo: "con nueces tostadas y miel de romero",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -523,7 +523,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre la rúcula con un hilo de miel por encima del queso."
   ],
   nutricion: { kcal: 382, prot: 20, hc: 35, grasa: 18 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "vegetariana", "ligera", "tupper"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "vegetariana", "ligera", "tupper", "superalimentos", "poco especiada"],
   consejo: "Las setas sueltan agua al asarse: si la base queda mojada, sécala con papel antes de servir. Es una receta naturalmente sin gluten; para celíacos, la quinoa debe llevar sello. Aguanta 2 días en tupper y se recalienta 5 minutos en la airfryer.",
   contundencia: "ligera",
   coste: "media",
@@ -569,7 +569,7 @@ window.RECETAS_SEED.push({
     "Corta los huevos por la mitad y sírvelos sobre la ensalada de patata."
   ],
   nutricion: { kcal: 664, prot: 36, hc: 40, grasa: 40 },
-  etiquetas: ["sin gluten", "airfryer", "saciante", "para compartir", "de domingo"],
+  etiquetas: ["sin gluten", "airfryer", "saciante", "para compartir", "de domingo", "poco especiada"],
   consejo: "El baño de hielo es clave para que la yema no siga cociendo y quede líquida en el centro. Para celíacos: no uses carne de salchicha comprada (casi siempre lleva pan o harina), sino carne picada sin preparar; los pepinillos y la mostaza deben ser con sello.",
   contundencia: "contundente",
   coste: "media",
@@ -612,7 +612,7 @@ window.RECETAS_SEED.push({
     "Corta el solomillo en medallones y sírvelo con el boniato, la manzana y la cebolla, regado con la salsa y el resto del tomillo."
   ],
   nutricion: { kcal: 496, prot: 38, hc: 50, grasa: 16 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "una sola cesta", "tupper", "alta en proteína", "otoño"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "una sola cesta", "tupper", "alta en proteína", "otoño", "poco especiada"],
   consejo: "El reposo es imprescindible: si lo cortas recién salido, pierde todos sus jugos. Para celíacos, compra el solomillo al natural, no adobado ni marinado. Aguanta bien en tupper: recalienta los medallones tapados en el microondas a potencia media para que no se resequen.",
   contundencia: "media",
   coste: "media",
@@ -656,7 +656,7 @@ window.RECETAS_SEED.push({
     "Sirve los calamares al momento con gajos de limón, el alioli y la ensalada de lechuga y tomate aliñada con sal."
   ],
   nutricion: { kcal: 458, prot: 30, hc: 35, grasa: 22 },
-  etiquetas: ["sin gluten", "airfryer", "ligera", "para compartir", "alta en proteína"],
+  etiquetas: ["sin gluten", "airfryer", "ligera", "para compartir", "alta en proteína", "poco especiada"],
   consejo: "La doble capa de masa y pan rallado imita el rebozado de bar sin una gota de aceite de freír. Para celíacos, en los bares los calamares casi nunca son aptos (harina de trigo y freidora compartida): esta versión casera es la forma segura de disfrutarlos.",
   contundencia: "ligera",
   coste: "media",
@@ -699,7 +699,7 @@ window.RECETAS_SEED.push({
     "Abre las arepas en caliente por un lado como si fueran un bolsillo y rellénalas generosamente con la reina pepiada."
   ],
   nutricion: { kcal: 680, prot: 36, hc: 80, grasa: 24 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "tupper", "saciante", "para compartir"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "tupper", "saciante", "para compartir", "poco especiada"],
   consejo: "Las arepas son naturalmente sin gluten y salen perfectas en la airfryer, sin plancha ni aceite. Para celíacos, busca harina de maíz precocida con el sello sin gluten. Las arepas cocidas se guardan 3 días en la nevera y se reavivan 5 minutos a 180 °C; el relleno, en un tupper aparte.",
   contundencia: "contundente",
   coste: "media",
@@ -711,7 +711,7 @@ window.RECETAS_SEED.push({
   nombre: "Brócoli y garbanzos asados al limón en airfryer con arroz integral y salsa de tahini",
   subtitulo: "con zumaque, perejil y semillas de sésamo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -743,7 +743,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con el brócoli y los garbanzos por encima, la salsa de tahini, el zumaque y el sésamo."
   ],
   nutricion: { kcal: 560, prot: 20, hc: 75, grasa: 20 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegana", "tupper", "batch cooking", "ideal para llevar"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegana", "tupper", "batch cooking", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Perfecto para la fiambrera: guarda la salsa en un bote pequeño y aliña al comer. Para celíacos, el tahini y el zumaque deben llevar sello; el arroz integral es apto, pero compra uno sin mezclas de cereales.",
   contundencia: "media",
   coste: "económica",
@@ -755,7 +755,7 @@ window.RECETAS_SEED.push({
   nombre: "Berenjenas a la parmesana en airfryer sin rebozar con mozzarella y albahaca",
   subtitulo: "capas de berenjena asada, tomate y queso gratinado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -785,7 +785,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos para que se asiente y sirve con albahaca fresca por encima."
   ],
   nutricion: { kcal: 496, prot: 24, hc: 28, grasa: 32 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "vegetariana", "tupper", "batch cooking"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "vegetariana", "tupper", "batch cooking", "poco especiada"],
   consejo: "La versión clásica reboza la berenjena en harina y huevo; asarla en la airfryer la deja tierna con mucho menos aceite y sin gluten. Para celíacos, revisa el tomate triturado y la mozzarella rallada (a veces lleva almidones). Mejora de un día para otro en tupper.",
   contundencia: "media",
   coste: "media",
@@ -829,7 +829,7 @@ window.RECETAS_SEED.push({
     "Sirve los dados de polenta sobre el ragú caliente con el resto del parmesano y pimienta recién molida."
   ],
   nutricion: { kcal: 542, prot: 16, hc: 70, grasa: 22 },
-  etiquetas: ["sin gluten", "airfryer", "vegetariana", "tupper", "batch cooking", "otoño"],
+  etiquetas: ["sin gluten", "airfryer", "vegetariana", "tupper", "batch cooking", "otoño", "poco especiada"],
   consejo: "Puedes hacer la polenta el día antes y así solo te queda cortar y dorar. Para celíacos, la polenta es maíz puro, pero elige una con sello porque se muele en fábricas con trigo; revisa también el caldo. El ragú aguanta 4 días en nevera y la polenta se redora en 5 minutos.",
   contundencia: "media",
   coste: "media",
@@ -874,7 +874,7 @@ window.RECETAS_SEED.push({
     "Sirve los fideos con el tofu crujiente encima, los cacahuetes, la parte verde de la cebolleta y gajos de lima."
   ],
   nutricion: { kcal: 686, prot: 28, hc: 85, grasa: 26 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "vegana", "saciante"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "vegana", "saciante", "poco especiada"],
   consejo: "Pon el tofu sobre los fideos en el último momento para que no se ablande. Para celíacos: los fideos de arroz deben ser 100 % arroz (algunos 'noodles' mezclan trigo) y el tamari con sello; nunca uses salsa de soja normal.",
   contundencia: "contundente",
   coste: "media",
@@ -917,7 +917,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del cebollino por encima y el tomate en rodajas con sal."
   ],
   nutricion: { kcal: 460, prot: 28, hc: 60, grasa: 12 },
-  etiquetas: ["sin gluten", "airfryer", "microondas", "fácil", "económica", "ligera", "tupper", "para niños"],
+  etiquetas: ["sin gluten", "airfryer", "microondas", "fácil", "económica", "ligera", "tupper", "para niños", "poco especiada"],
   consejo: "El golpe de microondas recorta el tiempo a la mitad sin renunciar a la piel crujiente. Para celíacos, comprueba el atún (los que van en salsa o escabeche pueden llevar gluten) y el queso rallado. Se guardan rellenas en tupper 2 días y se recalientan en la airfryer a 180 °C 8 minutos.",
   contundencia: "ligera",
   coste: "económica",
@@ -959,7 +959,7 @@ window.RECETAS_SEED.push({
     "Abre los paquetes en la mesa con cuidado con el vapor y espolvorea el cebollino picado."
   ],
   nutricion: { kcal: 300, prot: 32, hc: 22, grasa: 10 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "ligera", "bajo en fodmap", "alta en proteína"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "ligera", "bajo en fodmap", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Pon algo de peso (las patatas) en el fondo del paquete para que el aire de la airfryer no levante el papel y lo lleve contra la resistencia. Es naturalmente sin gluten y bajo en FODMAP: el aceite de ajo y el cebollino dan sabor sin ajo ni cebolla.",
   contundencia: "ligera",
   coste: "media",
@@ -1001,7 +1001,7 @@ window.RECETAS_SEED.push({
     "Corta el magret en lonchas finas y sírvelo con los boniatos, la salsa de naranja y los canónigos."
   ],
   nutricion: { kcal: 694, prot: 34, hc: 45, grasa: 42 },
-  etiquetas: ["sin gluten", "airfryer", "saciante", "de domingo", "para ocasiones especiales"],
+  etiquetas: ["sin gluten", "airfryer", "saciante", "de domingo", "para ocasiones especiales", "poco especiada"],
   consejo: "La maicena liga la salsa igual que la harina de trigo de la receta clásica y es segura para celíacos. Si te sobra grasa de pato en la cesta, guárdala para asar patatas: es oro.",
   contundencia: "contundente",
   coste: "premium",
@@ -1091,7 +1091,7 @@ window.RECETAS_SEED.push({
     "Termina con las alcaparras, la salsa de eneldo y ralladura de limón."
   ],
   nutricion: { kcal: 448, prot: 30, hc: 28, grasa: 24 },
-  etiquetas: ["sin gluten", "airfryer", "fácil", "ligera", "omega 3", "primavera", "alta en proteína"],
+  etiquetas: ["sin gluten", "airfryer", "fácil", "ligera", "omega 3", "primavera", "alta en proteína", "detox", "poco especiada"],
   consejo: "Cocinar el salmón sobre las verduras evita que se pegue y aromatiza los espárragos. Es un plato naturalmente sin gluten; para celíacos, revisa solo la mostaza y las alcaparras (algunas en salmuera llevan vinagre de malta).",
   contundencia: "ligera",
   coste: "premium",

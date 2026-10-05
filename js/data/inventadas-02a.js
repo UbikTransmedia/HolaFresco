@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Monta cada plato con el pepino encurtido en la base, el tartar encima, el aguacate alrededor, el sésamo y las tiras de nori crujiente."
   ],
   nutricion: { kcal: 420, prot: 36, hc: 14, grasa: 24 },
-  etiquetas: ["sin cocción", "rápida", "ligera", "alta en proteína", "verano"],
+  etiquetas: ["sin cocción", "rápida", "ligera", "alta en proteína", "verano", "superalimentos", "bajo en colesterol"],
   consejo: "Para consumir pescado crudo en casa, congélalo al menos 5 días a -20 °C o compra atún ya congelado para sashimi.",
   contundencia: "ligera",
   coste: "premium"
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Sirve las sardinas con la ensalada al lado, el pan al ajo, perejil picado y gajos de la limón restante."
   ],
   nutricion: { kcal: 470, prot: 38, hc: 28, grasa: 22 },
-  etiquetas: ["rápida", "económica", "verano", "una sola sartén", "alta en proteína"],
+  etiquetas: ["rápida", "económica", "verano", "una sola sartén", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Si te molesta el olor en casa, haz las sardinas en la plancha con la ventana abierta o en la barbacoa; con la plancha muy caliente se pegan menos.",
   contundencia: "ligera",
   coste: "económica"
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
     "Calienta el aceite de oliva en una sartén pequeña hasta que humee ligeramente y viértelo sobre el pescado: debe chisporrotear. Riega con la salsa, pon el cilantro y sirve con el pak choi."
   ],
   nutricion: { kcal: 370, prot: 34, hc: 10, grasa: 22 },
-  etiquetas: ["rápida", "ligera", "al vapor", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "al vapor", "alta en proteína", "bajo en colesterol"],
   consejo: "El truco está en el aceite muy caliente: libera el aroma del jengibre y la cebolleta en el momento. Ten los platos listos antes de verterlo.",
   contundencia: "ligera",
   coste: "media"
@@ -171,7 +171,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré en la base, el bacalao encima, los tomates asados al lado y riega con el aceite de hierbas."
   ],
   nutricion: { kcal: 540, prot: 40, hc: 26, grasa: 30 },
-  etiquetas: ["al horno", "alta en proteína", "para niños"],
+  etiquetas: ["al horno", "alta en proteína", "para niños", "poco especiada"],
   consejo: "El bacalao fresco se pasa rápido: sácalo del horno en cuanto la carne pase de translúcida a blanca opaca; seguirá cocinándose un minuto fuera.",
   contundencia: "media",
   coste: "media"
@@ -218,7 +218,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y frótalo con el diente de ajo restante. Sirve la caldereta con perejil picado, un hilo de aceite crudo y el pan al lado."
   ],
   nutricion: { kcal: 720, prot: 50, hc: 62, grasa: 30 },
-  etiquetas: ["de cuchara", "invierno", "guiso marinero", "alta en proteína"],
+  etiquetas: ["de cuchara", "invierno", "guiso marinero", "alta en proteína", "poco especiada"],
   consejo: "El guiso mejora si lo preparas hasta el paso 5 por la mañana y añades el pescado al recalentar: así nunca se pasa.",
   contundencia: "contundente",
   coste: "premium"
@@ -260,7 +260,7 @@ window.RECETAS_SEED.push({
     "Dispón los boquerones en una fuente, cúbrelos con el ajo picado fino, el perejil picado y 3 cucharadas de aceite. Sirve con las patatas aliñadas al lado."
   ],
   nutricion: { kcal: 430, prot: 34, hc: 30, grasa: 19 },
-  etiquetas: ["sin cocción", "económica", "verano", "ideal para llevar", "marinado largo"],
+  etiquetas: ["sin cocción", "económica", "verano", "ideal para llevar", "marinado largo", "poco especiada", "bajo en colesterol"],
   consejo: "Si te sobran boquerones, aguantan 3 días en la nevera cubiertos de aceite; están aún mejor al día siguiente.",
   contundencia: "ligera",
   coste: "económica"
@@ -304,7 +304,7 @@ window.RECETAS_SEED.push({
     "Rompe la costra golpeándola en los bordes, retira la sal y la piel, y saca los lomos con una espátula. Sirve con las patatas panadera y el alioli."
   ],
   nutricion: { kcal: 680, prot: 44, hc: 46, grasa: 36 },
-  etiquetas: ["al horno", "fin de semana", "alta en proteína", "para compartir"],
+  etiquetas: ["al horno", "fin de semana", "alta en proteína", "para compartir", "poco especiada"],
   consejo: "No escames el pescado: las escamas protegen la carne y la piel se retira de una pieza con la sal. Y no añadas sal al pescado, ya tomará la justa.",
   contundencia: "contundente",
   coste: "media"
@@ -349,7 +349,7 @@ window.RECETAS_SEED.push({
     "Sirve la quinoa esponjada con un tenedor, abre los paquetes en la mesa y acompaña con la salsa de yogur."
   ],
   nutricion: { kcal: 580, prot: 42, hc: 52, grasa: 22 },
-  etiquetas: ["al horno", "papillote", "ligera", "alta en proteína"],
+  etiquetas: ["al horno", "papillote", "ligera", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Si no encuentras trucha, el mismo papillote funciona con salmón o con lomos de merluza (en ese caso, 10 minutos de horno bastan).",
   contundencia: "media",
   coste: "media"
@@ -438,7 +438,7 @@ window.RECETAS_SEED.push({
     "Sirve el ceviche sobre las hojas de lechuga con el boniato, el maíz tostado y un poco de la leche de tigre por encima."
   ],
   nutricion: { kcal: 420, prot: 34, hc: 50, grasa: 10 },
-  etiquetas: ["sin cocción", "ligera", "verano", "alta en proteína"],
+  etiquetas: ["sin cocción", "ligera", "verano", "alta en proteína", "bajo en colesterol"],
   consejo: "El ceviche se come recién hecho: prepara todo lo demás antes y marina el pescado solo cuando estéis a punto de sentaros.",
   contundencia: "ligera",
   coste: "media"
@@ -581,7 +581,7 @@ window.RECETAS_SEED.push({
     "Sirve dos hamburguesas por persona con la salsa de yogur, la ensalada y la pita cortada en triángulos."
   ],
   nutricion: { kcal: 590, prot: 42, hc: 58, grasa: 20 },
-  etiquetas: ["económica", "rápida", "ideal para llevar", "para niños", "alta en proteína"],
+  etiquetas: ["económica", "rápida", "ideal para llevar", "para niños", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Las hamburguesas crudas aguantan 24 horas en la nevera y se pueden congelar; así tienes una cena resuelta con lo que hay en la despensa.",
   contundencia: "media",
   coste: "económica"
@@ -625,7 +625,7 @@ window.RECETAS_SEED.push({
     "Sirve directamente de la fuente con la albahaca rota con las manos por encima."
   ],
   nutricion: { kcal: 610, prot: 38, hc: 48, grasa: 29 },
-  etiquetas: ["al horno", "una sola bandeja", "verano", "alta en proteína"],
+  etiquetas: ["al horno", "una sola bandeja", "verano", "alta en proteína", "poco especiada"],
   consejo: "Si tu lubina es entera (unos 600 g), hornéala en el mismo punto 20-22 minutos; la carne junto a la espina debe despegarse con facilidad.",
   contundencia: "media",
   coste: "premium"
@@ -672,7 +672,7 @@ window.RECETAS_SEED.push({
     "Sirve los calamares con la ensalada de pimientos, el alioli, el pan y perejil picado con gajos de limón."
   ],
   nutricion: { kcal: 780, prot: 48, hc: 62, grasa: 38 },
-  etiquetas: ["fritura", "fin de semana", "para compartir", "al horno"],
+  etiquetas: ["fritura", "fin de semana", "para compartir", "al horno", "poco especiada"],
   consejo: "El calamar se fríe en 2 minutos: si lo dejas más se pone gomoso. El rebozado con harina de garbanzo queda más crujiente y absorbe menos aceite.",
   contundencia: "contundente",
   coste: "media"
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmón con la coliflor, la raita y cilantro picado, con gajos del limón restante."
   ],
   nutricion: { kcal: 640, prot: 50, hc: 20, grasa: 40 },
-  etiquetas: ["al horno", "marinado largo", "alta en proteína", "picante"],
+  etiquetas: ["al horno", "marinado largo", "alta en proteína", "picante", "keto", "superalimentos"],
   consejo: "La marinada de yogur protege al salmón y evita que se seque; por eso aquí puedes hornearlo a temperatura alta sin miedo.",
   contundencia: "media",
   coste: "premium"
@@ -762,7 +762,7 @@ window.RECETAS_SEED.push({
     "Sirve el bacalao con la salsa, las patatas al vapor, el huevo duro en cuartos, perejil picado y pan tostado."
   ],
   nutricion: { kcal: 660, prot: 48, hc: 58, grasa: 27 },
-  etiquetas: ["guiso", "invierno", "alta en proteína", "tradicional"],
+  etiquetas: ["guiso", "invierno", "alta en proteína", "tradicional", "verduras escondidas", "poco especiada"],
   consejo: "La vizcaína auténtica no lleva tomate: el color rojo viene solo del choricero. Si solo tienes ñoras secas, hidrata 4 en agua caliente 30 minutos y raspa la pulpa.",
   contundencia: "contundente",
   coste: "media"
@@ -850,7 +850,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos las patatas y las judías, la caballa en trozos grandes, el huevo partido por la mitad y el resto de la vinagreta. Acaba con perejil y cebollino picados."
   ],
   nutricion: { kcal: 470, prot: 32, hc: 36, grasa: 22 },
-  etiquetas: ["económica", "rápida", "ideal para llevar", "ligera", "alta en proteína"],
+  etiquetas: ["económica", "rápida", "ideal para llevar", "ligera", "alta en proteína", "poco especiada"],
   consejo: "La caballa en conserva es una de las fuentes de omega-3 más baratas que existen; guarda el aceite de la lata para la vinagreta y no desperdicies sabor.",
   contundencia: "ligera",
   coste: "económica"
@@ -984,7 +984,7 @@ window.RECETAS_SEED.push({
     "Saca las sardinas de la nevera 20 minutos antes para que el escabeche recupere fluidez. Sirve templadas con las verduras del escabeche, parte del jugo, las patatas asadas y perejil picado."
   ],
   nutricion: { kcal: 560, prot: 36, hc: 44, grasa: 27 },
-  etiquetas: ["económica", "batch cooking", "ideal para llevar", "verano", "marinado largo"],
+  etiquetas: ["económica", "batch cooking", "ideal para llevar", "verano", "marinado largo", "poco especiada"],
   consejo: "El escabeche conserva: las sardinas aguantan 5 días en la nevera cubiertas de líquido. Funciona igual con caballa o con bonito en trozos.",
   contundencia: "media",
   coste: "económica"
@@ -1026,7 +1026,7 @@ window.RECETAS_SEED.push({
     "Riega la merluza con la mantequilla avellana y sirve con las patatas al perejil y las judías."
   ],
   nutricion: { kcal: 590, prot: 36, hc: 46, grasa: 29 },
-  etiquetas: ["rápida", "clásica", "para niños", "alta en proteína"],
+  etiquetas: ["rápida", "clásica", "para niños", "alta en proteína", "poco especiada"],
   consejo: "Vigila la mantequilla cuando empiece a oscurecerse: de avellana a quemada hay 20 segundos. Si la ves muy oscura, retira la sartén y añade el limón enseguida para frenar la cocción.",
   contundencia: "media",
   coste: "media"
@@ -1072,7 +1072,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con los anacardos por encima."
   ],
   nutricion: { kcal: 450, prot: 38, hc: 24, grasa: 23 },
-  etiquetas: ["rápida", "wok", "ligera", "una sola sartén", "alta en proteína"],
+  etiquetas: ["rápida", "wok", "ligera", "una sola sartén", "alta en proteína", "superalimentos"],
   consejo: "El calamar está tierno si lo cocinas menos de 2 minutos o más de 40; cualquier punto intermedio es chicle. Aquí vamos por el camino rápido: wok humeante y pocas piezas a la vez.",
   contundencia: "ligera",
   coste: "media"
@@ -1116,7 +1116,7 @@ window.RECETAS_SEED.push({
     "Sirve los garbanzos en la base con el bacalao encima, la piel hacia arriba, perejil picado y un gajo de limón."
   ],
   nutricion: { kcal: 600, prot: 48, hc: 50, grasa: 24 },
-  etiquetas: ["rápida", "una sola sartén", "alta en proteína", "invierno"],
+  etiquetas: ["rápida", "una sola sartén", "alta en proteína", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Sirve igual con bacalao desalado o con merluza congelada bien seca; en ese caso baja el fuego un punto porque la piel es más fina.",
   contundencia: "media",
   coste: "media"

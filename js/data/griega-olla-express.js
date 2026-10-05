@@ -47,7 +47,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con el eneldo picado, el resto de hojas de apio y pimienta recién molida."
   ],
   nutricion: { kcal: 720, prot: 44, hc: 20, grasa: 50 },
-  etiquetas: ["tradicional", "invierno", "de cuchara", "alta en proteína", "sin gluten"],
+  etiquetas: ["tradicional", "invierno", "de cuchara", "alta en proteína", "sin gluten", "keto", "poco especiada"],
   consejo: "En Grecia se usa apio de hoja, más fino y aromático que el de rama; si encuentras apionabo, añade 150 g en dados junto con el apio para un sabor más profundo. El avgolemono no soporta recalentados fuertes: si vas a guardar una ración, apártala antes de ligar y haz la salsa al recalentar con 1 huevo y medio limón por ración.",
   tupper: false,
   contundencia: "contundente",
@@ -94,7 +94,7 @@ window.RECETAS_SEED.push({
     "Retira la canela, el laurel y los clavos y sirve la ternera con los gajos de membrillo y la salsa por encima."
   ],
   nutricion: { kcal: 640, prot: 43, hc: 45, grasa: 30 },
-  etiquetas: ["tradicional", "otoño", "sin gluten", "batch cooking", "alta en proteína"],
+  etiquetas: ["tradicional", "otoño", "sin gluten", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "El membrillo se dora aparte y se añade al final para que no se deshaga bajo presión y conserve su punto ácido. Fuera de temporada (el membrillo se encuentra de octubre a diciembre) usa manzanas reinetas en gajos y cuécelas solo 6 min en la salsa. Como todos los guisos de vino y canela, está mejor de un día para otro y se congela muy bien.",
   tupper: true,
   contundencia: "media",
@@ -139,7 +139,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 min, esparce el resto del perejil y sirve con el otro medio limón en gajos."
   ],
   nutricion: { kcal: 530, prot: 40, hc: 28, grasa: 29 },
-  etiquetas: ["tradicional", "verano", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking"],
+  etiquetas: ["tradicional", "verano", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "En Grecia se cocina en pleno verano con okra fresca y pequeña, y se come templado con pan y un trozo de feta. Si la encuentras fresca, recorta el tallo en forma de cono sin abrir la vaina, rocíala con 3 cda de vinagre y una pizca de sal, déjala 30 min y aclárala: así suelta mucha menos baba. Está aún mejor al día siguiente y aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -235,7 +235,7 @@ window.RECETAS_SEED.push({
     "Esponja el pilaf con un tenedor y el resto de la mantequilla. Sírvelo moldeado en un bol pequeño invertido, con el tas kebab al lado y perejil picado por encima."
   ],
   nutricion: { kcal: 870, prot: 37, hc: 70, grasa: 47 },
-  etiquetas: ["tradicional", "invierno", "alta en proteína", "sin gluten"],
+  etiquetas: ["tradicional", "invierno", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "«Tas» es el cuenco hondo en que se guisaba: es un plato de la cocina politiki, la de los griegos de Estambul, que llegó a Tracia y Macedonia con los refugiados de 1922. Para una versión más económica usa aguja de ternera y cuenta 30 min de presión. El guiso aguanta 3 días en la nevera; el pilaf, mejor recién hecho.",
   tupper: true,
   contundencia: "contundente",
@@ -278,7 +278,7 @@ window.RECETAS_SEED.push({
     "Sirve templado, con pimienta recién molida y unas hojas de menta por encima."
   ],
   nutricion: { kcal: 560, prot: 8, hc: 68, grasa: 28 },
-  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "verano"],
+  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "verano", "sin verduras", "poco especiada"],
   consejo: "Es uno de los ladera, los platos de aceite de oliva de los días de ayuno, y se hace en agosto, cuando el tomate maduro sobra: no recortes el aceite del final, es parte del plato. En Grecia se come templado, con aceitunas kalamata y pan; si no buscas versión vegana, ponle feta desmigada por encima. Aguanta 3 días en la nevera; al recalentar añade un chorrito de agua, porque el arroz absorbe el jugo.",
   tupper: true,
   contundencia: "media",
@@ -325,7 +325,7 @@ window.RECETAS_SEED.push({
     "Abre la olla y comprueba que la carne está tierna; si no, dale 5 min más de presión. Coloca las berenjenas sobre la salsa sin remover y cuece destapado a fuego suave 8-10 min, moviendo la olla, hasta que la salsa espese y las berenjenas tomen su sabor. Retira la canela y el laurel, rectifica de sal y sirve con el perejil picado."
   ],
   nutricion: { kcal: 660, prot: 40, hc: 24, grasa: 45 },
-  etiquetas: ["tradicional", "verano", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking"],
+  etiquetas: ["tradicional", "verano", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Es la ternera kokkinisti de todo el año, con tomate, canela y pimienta de Jamaica, pero con la berenjena de temporada. En las casas griegas la berenjena se fríe en abundante aceite; dorada en sartén queda igual de sabrosa y bastante más ligera. Se sirve con arroz blanco, pan o patatas fritas y un trozo de feta. Aguanta 3 días en la nevera y mejora de un día para otro.",
   tupper: true,
   contundencia: "contundente",
@@ -371,7 +371,7 @@ window.RECETAS_SEED.push({
     "Comprueba que la patata está tierna y la salsa espesa y brillante; si está líquida, hierve destapado 3-4 min moviendo la olla. Retira la canela y el laurel y sirve con pimienta recién molida."
   ],
   nutricion: { kcal: 830, prot: 42, hc: 56, grasa: 46 },
-  etiquetas: ["tradicional", "invierno", "sin gluten", "batch cooking"],
+  etiquetas: ["tradicional", "invierno", "sin gluten", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "El nombre viene de patata: en Naxos y Amorgos es el guiso de domingo con cabrito o cordero y a veces se termina en el horno de leña. Si quieres las patatas doradas por arriba, pasa el guiso a una fuente y gratínalo 10 min a 220 °C. Aguanta 3 días en la nevera y está mejor al día siguiente.",
   tupper: true,
   contundencia: "contundente",
@@ -413,7 +413,7 @@ window.RECETAS_SEED.push({
     "Sirve con el perejil picado y pimienta blanca recién molida."
   ],
   nutricion: { kcal: 600, prot: 35, hc: 49, grasa: 30 },
-  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "alta en proteína"],
+  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "alta en proteína", "sin verduras"],
   consejo: "Bianco significa «blanco» en veneciano: Corfú estuvo cuatro siglos bajo Venecia y este guiso, a diferencia del bourdeto, no lleva tomate ni pimentón. Usa pescado blanco de carne firme; si es bacalao desalado, no añadas sal. La patata se cuece a presión y el pescado sin ella, con la olla solo tapada: así no se deshace.",
   tupper: false,
   contundencia: "media",
@@ -461,7 +461,7 @@ window.RECETAS_SEED.push({
     "Abre, retira el plato y deja reposar 10 min con la olla destapada para que los rollitos se asienten y absorban el caldo que queda. Sírvelos templados con el yogur, el resto del limón en gajos y un poco de su salsa."
   ],
   nutricion: { kcal: 770, prot: 35, hc: 45, grasa: 48 },
-  etiquetas: ["tradicional", "fin de semana", "sin gluten", "ideal para llevar", "verano"],
+  etiquetas: ["tradicional", "fin de semana", "sin gluten", "ideal para llevar", "verano", "poco especiada"],
   consejo: "En Chipre se hacen en primavera con hojas tiernas de la parra del patio, que se congelan para todo el año; las de bote ya vienen cocidas en salmuera, por eso basta con escaldarlas. A diferencia de los dolmadakia de Cuaresma, solo de arroz, los koupepia llevan carne de cerdo y ternera. Aguantan 3 días en la nevera y están ricos fríos, como meze.",
   tupper: true,
   contundencia: "contundente",
@@ -506,7 +506,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de la feta desmigada, el aceite de orégano por encima y las hojas de hierbas reservadas."
   ],
   nutricion: { kcal: 440, prot: 12, hc: 25, grasa: 31 },
-  etiquetas: ["creativa", "rápida", "verano", "ligera", "vegetariana", "sin gluten"],
+  etiquetas: ["creativa", "rápida", "verano", "ligera", "vegetariana", "sin gluten", "poco especiada"],
   consejo: "Es la combinación de los kolokithokeftedes (calabacín, feta, menta y eneldo) en forma de crema. En verano está buenísima fría, recién sacada de la nevera. Aguanta 2 días; si la recalientas, hazlo sin que hierva para que el yogur no se corte. Para una cena más completa, acompáñala con pan de pita tostado.",
   tupper: true,
   contundencia: "ligera",
@@ -553,7 +553,7 @@ window.RECETAS_SEED.push({
     "Añade a las lentejas el pepino, las hierbas y casi toda la granada. Reparte en platos, coloca encima el halloumi caliente y termina con el resto de la granada."
   ],
   nutricion: { kcal: 600, prot: 31, hc: 48, grasa: 30 },
-  etiquetas: ["creativa", "alta en proteína", "vegetariana", "sin gluten", "otoño"],
+  etiquetas: ["creativa", "alta en proteína", "vegetariana", "sin gluten", "otoño", "poco especiada"],
   consejo: "El halloumi es el queso de Chipre que se dora sin fundirse; si no lo encuentras, usa queso para plancha o feta en dados sin cocinar. Las lentejas aliñadas aguantan 3 días en la nevera y están ricas frías, pero el halloumi dóralo siempre al momento: recalentado se queda duro y gomoso.",
   tupper: false,
   contundencia: "media",
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
     "Sirve las costillas con la ensalada y el jugo reducido aparte para mojar."
   ],
   nutricion: { kcal: 690, prot: 34, hc: 22, grasa: 52 },
-  etiquetas: ["creativa", "para niños", "económica", "alta en proteína", "sin gluten"],
+  etiquetas: ["creativa", "para niños", "económica", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "En Grecia el aliño de limón, ajo y orégano (riganato) acompaña a casi todo lo que sale del asador; la miel ayuda a que se caramelice bajo el grill. La olla deja la carne tierna en menos de media hora y el gratinador pone el tostado. Si encuentras petimezi, el sirope de uva griego, úsalo en lugar de la miel. Las costillas cocidas aguantan 3 días en la nevera: glaséalas y gratínalas justo antes de comer.",
   tupper: true,
   contundencia: "contundente",
@@ -649,7 +649,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con una cucharada de yogur, la feta desmigada y pimienta recién molida."
   ],
   nutricion: { kcal: 720, prot: 45, hc: 56, grasa: 33 },
-  etiquetas: ["creativa", "batch cooking", "alta en proteína", "invierno", "sin gluten"],
+  etiquetas: ["creativa", "batch cooking", "alta en proteína", "invierno", "sin gluten", "poco especiada"],
   consejo: "La canela, el clavo y el vino tinto son el perfume del kima griego, la salsa de carne de los macarrones y del pastitsio; con alubias se convierte en plato único. Se congela muy bien en raciones. Si usas alubias rojas cocidas de bote (500 g escurridas), añade solo 150 ml de agua y cuenta 5 min de presión.",
   tupper: true,
   contundencia: "contundente",
@@ -694,7 +694,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del limón en gajos y pan para mojar en la salsa."
   ],
   nutricion: { kcal: 520, prot: 42, hc: 32, grasa: 24 },
-  etiquetas: ["creativa", "primavera", "alta en proteína", "sin gluten", "sin lácteos"],
+  etiquetas: ["creativa", "primavera", "alta en proteína", "sin gluten", "sin lácteos", "poco especiada"],
   consejo: "El calamar tiene dos puntos buenos: 1-2 minutos a fuego vivo o una cocción larga; entre medias queda gomoso. Bajo presión, 10 min equivalen a esa cocción larga y lo dejan tierno sin deshacerse. Si es congelado, descongélalo en la nevera y sécalo muy bien antes de saltearlo. Aguanta 2 días en la nevera; recaliéntalo a fuego suave.",
   tupper: true,
   contundencia: "media",
@@ -740,7 +740,7 @@ window.RECETAS_SEED.push({
     "Sirve con la feta desmigada, pimienta recién molida y el resto del orégano."
   ],
   nutricion: { kcal: 750, prot: 29, hc: 60, grasa: 43 },
-  etiquetas: ["creativa", "para niños", "económica"],
+  etiquetas: ["creativa", "para niños", "económica", "poco especiada"],
   consejo: "El loukaniko griego lleva piel de naranja, hinojo y a veces puerro: con esos aromas cualquier salchicha fresca de cerdo se parece mucho. No pases de 4 min de presión o las patatas se romperán al reducir la salsa. Las sobras, recalentadas en una sartén, quedan aún mejor porque la patata se dora.",
   tupper: true,
   contundencia: "contundente",
@@ -786,7 +786,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de la feta, del eneldo y las hojitas de hinojo por encima, y pimienta recién molida."
   ],
   nutricion: { kcal: 570, prot: 17, hc: 67, grasa: 24 },
-  etiquetas: ["creativa", "vegetariana", "invierno", "batch cooking"],
+  etiquetas: ["creativa", "vegetariana", "invierno", "batch cooking", "poco especiada"],
   consejo: "Krithari, la cebada, es un cereal antiguo en Grecia (de ahí viene el nombre del kritharaki, el orzo). Aguanta la presión sin pasarse y, a diferencia del arroz, se recalienta con un chorrito de caldo sin quedar pastosa: es perfecta para el táper. Si no tienes hinojo, usa apio; las acelgas se pueden cambiar por espinacas, que se añaden igual al final. Lleva gluten: para una versión sin gluten, cámbiala por arroz redondo con 6 min de presión.",
   tupper: true,
   contundencia: "media",
@@ -833,7 +833,7 @@ window.RECETAS_SEED.push({
     "Sirve con pimienta recién molida."
   ],
   nutricion: { kcal: 640, prot: 21, hc: 77, grasa: 28 },
-  etiquetas: ["creativa", "vegana", "sin gluten", "otoño", "económica", "batch cooking"],
+  etiquetas: ["creativa", "vegana", "sin gluten", "otoño", "económica", "batch cooking", "poco especiada"],
   consejo: "Las alubias de ojo negro (mavromatika en Grecia, carillas en España) se cuecen sin remojo previo y en poco tiempo. La naranja y el eneldo son la pareja de muchos guisos de aceite de las islas. Aguanta 4 días en la nevera y está mejor templado; si no buscas versión vegana, sírvelo con feta desmigada.",
   tupper: true,
   contundencia: "media",
@@ -882,7 +882,7 @@ window.RECETAS_SEED.push({
     "Sirve el orzo en platos hondos con un ossobuco encima y su salsa, y termina con las hojitas de hinojo, el perejil picado y un poco más de ralladura de limón. El tuétano del hueso se come untado en la carne."
   ],
   nutricion: { kcal: 860, prot: 55, hc: 78, grasa: 34 },
-  etiquetas: ["creativa", "fin de semana", "para invitados", "invierno", "alta en proteína"],
+  etiquetas: ["creativa", "fin de semana", "para invitados", "invierno", "alta en proteína", "poco especiada"],
   consejo: "El ouzo pierde el alcohol en la cocción y deja un aroma anisado suave que casa con el hinojo y la naranja; si no tienes, usa anís seco o 1 cdta de semillas de hinojo. El guiso se puede hacer el día antes, porque mejora, y se congela bien; el orzo, siempre al momento.",
   tupper: true,
   contundencia: "contundente",
@@ -927,7 +927,7 @@ window.RECETAS_SEED.push({
     "Sirve con pimienta recién molida y pan para mojar en la salsa."
   ],
   nutricion: { kcal: 590, prot: 38, hc: 54, grasa: 24 },
-  etiquetas: ["creativa", "otoño", "invierno", "sin gluten", "sin lácteos", "alta en proteína"],
+  etiquetas: ["creativa", "otoño", "invierno", "sin gluten", "sin lácteos", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Las castañas son el fruto de otoño de las montañas griegas, del Pelion a Creta, y en muchas casas acompañan los guisos de fiesta con vino dulce, canela y pimienta de Jamaica. El Mavrodafni es un tinto dulce de Patras; si no lo encuentras, usa oporto o vino tinto con 1 cdta de miel. Con castañas frescas, hazles un corte, ásalas 20 min a 200 °C y pélalas en caliente. Aguanta 3 días en la nevera y está mejor al día siguiente.",
   tupper: true,
   contundencia: "media",

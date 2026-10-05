@@ -53,7 +53,7 @@ window.RECETAS_SEED.push({
     "Pon unas hojas de lechuga en una fuente y desmolda encima. Unta la cúpula con el resto de la mayonesa en una capa fina, como si fuera una tarta, y decora con los huevos en rodajas, las aceitunas, el resto de las alcaparras y el perejil. Sirve con el resto del limón en gajos."
   ],
   nutricion: { kcal: 680, prot: 43, hc: 37, grasa: 39 },
-  etiquetas: ["tradicional", "para invitados", "sin gluten", "alta en proteína", "fin de semana"],
+  etiquetas: ["tradicional", "para invitados", "sin gluten", "alta en proteína", "fin de semana", "poco especiada"],
   consejo: "La athinaiki mayoneza fue el gran plato frío de las fiestas y bodas atenienses del siglo XX: se hacía con mero o merluza y cada casa la decoraba a su manera, con rodajas de huevo, aceitunas o tiras de pimiento. Puedes prepararla la víspera y desmoldarla y decorarla justo antes de servir; aguanta 2 días bien tapada en la nevera. Para aligerarla, sustituye un tercio de la mayonesa por yogur griego.",
   tupper: true,
   contundencia: "contundente",
@@ -99,7 +99,7 @@ window.RECETAS_SEED.push({
     "Reparte las patatas en los platos, pon encima los pimientos, la cebolla y las alcaparras y termina con el pulpo y toda su marinada. Espolvorea el perejil."
   ],
   nutricion: { kcal: 595, prot: 50, hc: 43, grasa: 24 },
-  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "ideal para llevar", "para invitados", "verano"],
+  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "ideal para llevar", "para invitados", "verano", "poco especiada"],
   consejo: "En las islas el pulpo se tiende al sol en cuerdas y se asa a la brasa; el xidato, al vinagre, era la forma casera de conservarlo y mejora de un día para otro. Guárdalo hasta 3 días en su marinada en la nevera y añade las patatas el día que lo vayas a comer. Atajo: con 300 g de pulpo ya cocido de la pescadería, la ensalada está lista en 30 minutos más el marinado.",
   tupper: true,
   contundencia: "media",
@@ -143,7 +143,7 @@ window.RECETAS_SEED.push({
     "Aliña la lechuga, el pepino y la cebolleta con el resto del ladolemono y del eneldo, reparte en los platos y pon las gambas encima. Tuesta el pan en la tostadora o en una sartén sin aceite y sírvelo al lado."
   ],
   nutricion: { kcal: 450, prot: 33, hc: 28, grasa: 22 },
-  etiquetas: ["tradicional", "rápida", "ligera", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "rápida", "ligera", "alta en proteína", "verano", "poco especiada"],
   consejo: "Préveza, en la boca del golfo de Ambracia, es famosa por sus gambas pequeñas y dulces, que se comen fritas, a la plancha o así, en ensalada. Si las compras con cáscara, cuece las cabezas y las cáscaras 10 minutos en esa misma agua y tendrás un caldo para un arroz o un orzo. Para una versión sin gluten, sírvela con patata cocida en lugar de pan.",
   tupper: false,
   contundencia: "ligera",
@@ -232,7 +232,7 @@ window.RECETAS_SEED.push({
     "Sirve con los huevos en cuartos, un taco de feta, las aceitunas, el perejil picado y el resto del aliño por encima."
   ],
   nutricion: { kcal: 620, prot: 23, hc: 40, grasa: 40 },
-  etiquetas: ["tradicional", "económica", "sin gluten", "vegetariana", "verano"],
+  etiquetas: ["tradicional", "económica", "sin gluten", "vegetariana", "verano", "poco especiada"],
   consejo: "Las vrasta (literalmente, «hervidas») son la comida de verano de muchas casas griegas: verduras de la huerta cocidas, mucho aceite, limón, feta y pan para mojar. Se comen templadas, nunca frías de nevera. Puedes añadir acelgas o bledos en los últimos 3 minutos, como en la horta. Aguanta 2 días: guarda los huevos aparte y saca la ensalada de la nevera media hora antes de comer.",
   tupper: true,
   contundencia: "media",
@@ -275,7 +275,7 @@ window.RECETAS_SEED.push({
     "Reparte en los platos, desmiga la mizithra por encima, espolvorea el resto del orégano y riega con el resto del aceite. Deja reposar 5 minutos antes de comer, para que el cereal beba los jugos del tomate."
   ],
   nutricion: { kcal: 600, prot: 17, hc: 53, grasa: 35 },
-  etiquetas: ["tradicional", "sin cocción", "rápida", "vegetariana", "económica", "verano"],
+  etiquetas: ["tradicional", "sin cocción", "rápida", "vegetariana", "económica", "verano", "poco especiada"],
   consejo: "El xinohondros es el trahaná agrio de Creta: trigo partido fermentado con leche agria de oveja o de cabra y secado al sol en agosto. En invierno se usa para sopas y en verano se remoja con tomate, igual que el paximadi del dakos. Si no lo encuentras, usa bulgur grueso hidratado 15 minutos en el agua del tomate con 2 cucharadas de yogur natural, que le da el punto ácido. Aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -320,7 +320,7 @@ window.RECETAS_SEED.push({
     "Sirve con la feta desmigada, las aceitunas y el resto del aceite por encima."
   ],
   nutricion: { kcal: 615, prot: 25, hc: 51, grasa: 33 },
-  etiquetas: ["tradicional", "económica", "batch cooking", "ideal para llevar", "sin gluten", "vegetariana"],
+  etiquetas: ["tradicional", "económica", "batch cooking", "ideal para llevar", "sin gluten", "vegetariana", "poco especiada"],
   consejo: "En la meseta de Englouví, a unos 700 metros de altitud en el interior de Léucade, se cultivan desde hace siglos unas lentejas diminutas y finas que cada agosto tienen su propia fiesta. En España, las pardinas o las lentejas caviar son las más parecidas. Con 500 g de lentejas cocidas de bote, bien enjuagadas, la tienes en 15 minutos. Aguanta 4 días en la nevera; añade la feta y el perejil al servir.",
   tupper: true,
   contundencia: "media",
@@ -369,7 +369,7 @@ window.RECETAS_SEED.push({
     "Sirve la ensalada con el halloumi y la lountza calientes encima, las aceitunas, el resto del limón en gajos y la pita. Cómelo enseguida: el halloumi se endurece al enfriarse."
   ],
   nutricion: { kcal: 740, prot: 41, hc: 50, grasa: 41 },
-  etiquetas: ["tradicional", "rápida", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "rápida", "alta en proteína", "verano", "poco especiada"],
   consejo: "La lountza es lomo de cerdo marinado varios días en vino tinto seco con semillas de cilantro y después ahumado; en Chipre se come a la plancha con halloumi, en pita o como meze. Si no la encuentras, usa lomo de Sajonia o haz una versión rápida: marina 2 filetes finos de lomo fresco 1 hora en 100 ml de vino tinto con 1 cucharadita de semillas de cilantro machacadas y hazlos a la plancha.",
   tupper: false,
   contundencia: "contundente",
@@ -413,7 +413,7 @@ window.RECETAS_SEED.push({
     "Pon la feta encima en un taco o desmigada, espolvorea el resto del orégano y riega con el resto del aceite. Mézclalo en la mesa para que la feta se una a los jugos del tomate."
   ],
   nutricion: { kcal: 585, prot: 16, hc: 46, grasa: 37 },
-  etiquetas: ["tradicional", "vegetariana", "sin gluten", "económica", "verano"],
+  etiquetas: ["tradicional", "vegetariana", "sin gluten", "económica", "verano", "poco especiada"],
   consejo: "La glistrida, la verdolaga, crece sola en los huertos griegos en julio y agosto; tiene un punto ácido y crujiente y es rica en omega-3. En España se vende en mercados de verano, sobre todo en Murcia y Andalucía; si no la encuentras, usa canónigos con un puñado de rúcula. Con la que te sobre puedes hacer la otra versión griega: verdolaga picada con yogur y ajo, como un tzatziki.",
   tupper: false,
   contundencia: "media",
@@ -457,7 +457,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan en una sartén sin aceite 1 minuto por lado y sirve los boquerones con la ensalada y el pan para mojar en el aceite del plato."
   ],
   nutricion: { kcal: 445, prot: 32, hc: 30, grasa: 21 },
-  etiquetas: ["tradicional", "económica", "alta en proteína", "ligera", "verano"],
+  etiquetas: ["tradicional", "económica", "alta en proteína", "ligera", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "En los tsipouradika de Volos, el gavros marinatos llega a la mesa con cada ronda de tsipouro, junto a una maroulosalata, la ensalada de lechuga y eneldo que en Grecia anuncia la primavera. A diferencia de los boquerones en vinagre españoles, el marinado lleva mucho limón y se terminan con orégano. Puedes hacer lo mismo con sardinas pequeñas.",
   tupper: false,
   contundencia: "ligera",
@@ -504,7 +504,7 @@ window.RECETAS_SEED.push({
     "Reparte la tigania caliente sobre la ensalada con todo el jugo de la sartén, que hará de aliño templado, y sirve enseguida."
   ],
   nutricion: { kcal: 500, prot: 29, hc: 11, grasa: 38 },
-  etiquetas: ["creativa", "alta en proteína", "sin gluten", "económica", "una sola sartén"],
+  etiquetas: ["creativa", "alta en proteína", "sin gluten", "económica", "una sola sartén", "keto", "poco especiada"],
   consejo: "La tigania es un meze de las tabernas de Atenas y del norte de Grecia que se acompaña con tsipouro: trocitos de cerdo fritos en su propia grasa y apagados con vino. Usa paleta o cabezada, que tienen algo de grasa y quedan jugosas; el lomo se seca. Para el táper, lleva la ensalada y la carne por separado y calienta el cerdo un minuto en la sartén antes de juntarlos; aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -551,7 +551,7 @@ window.RECETAS_SEED.push({
     "Extiende la melitzanosalata en los platos y pon encima la rúcula, los tomates, el cordero con su jugo, la granada, los piñones, las hojas de menta y el resto del perejil. Termina con unas gotas del otro medio limón."
   ],
   nutricion: { kcal: 645, prot: 36, hc: 24, grasa: 43 },
-  etiquetas: ["creativa", "para invitados", "al horno", "sin gluten", "alta en proteína", "otoño"],
+  etiquetas: ["creativa", "para invitados", "al horno", "sin gluten", "alta en proteína", "otoño", "poco especiada"],
   consejo: "La melitzanosalata se puede hacer hasta 3 días antes y mejora en la nevera; sácala media hora antes de servir. Sala el cordero justo antes de marcarlo y no en la marinada, para que no suelte jugo y se dore bien. Con solomillo de cerdo o contramuslo de pollo queda igual de bien y sale más económica.",
   tupper: false,
   contundencia: "media",
@@ -596,7 +596,7 @@ window.RECETAS_SEED.push({
     "Monta los platos con la rúcula, los tomates y el pimiento, la carne, la cebolla y lascas de kefalotyri hechas con el pelador. Riega con el resto del aliño y sirve el pan al lado."
   ],
   nutricion: { kcal: 640, prot: 45, hc: 35, grasa: 34 },
-  etiquetas: ["creativa", "alta en proteína", "una sola sartén", "verano"],
+  etiquetas: ["creativa", "alta en proteína", "una sola sartén", "verano", "poco especiada"],
   consejo: "La brizola ladorigani es el filete o la chuleta de las psistariés, las parrillas griegas: se riega con limón, aceite y orégano en cuanto sale del fuego, para que el jugo de la carne se mezcle con el aliño. Si no encuentras kefalotyri, usa pecorino o un manchego curado. Para este plato, el lomo bajo o la cadera quedan más tiernos que la babilla.",
   tupper: false,
   contundencia: "media",
@@ -639,7 +639,7 @@ window.RECETAS_SEED.push({
     "Desmiga el salmón en lascas grandes, sin la piel, sobre la ensalada, riega con el resto del aliño y termina con más eneldo."
   ],
   nutricion: { kcal: 630, prot: 37, hc: 45, grasa: 33 },
-  etiquetas: ["creativa", "ideal para llevar", "batch cooking", "alta en proteína", "primavera"],
+  etiquetas: ["creativa", "ideal para llevar", "batch cooking", "alta en proteína", "primavera", "superalimentos", "poco especiada"],
   consejo: "Kritharaki es el nombre griego del orzo, la pasta con forma de grano de arroz que en Grecia se usa en guisos al horno y, cada vez más, en ensaladas. Para el táper, guarda el aliño aparte y añádelo al servir; si el orzo se ha secado, unas gotas de limón y aceite lo reviven. Aguanta 2 días. Funciona igual con trucha o con bonito fresco.",
   tupper: true,
   contundencia: "media",
@@ -682,7 +682,7 @@ window.RECETAS_SEED.push({
     "Pon el queso recién hecho sobre la ensalada, exprime el medio limón por encima, como se hace en la taberna, y termina con un hilo del resto de la miel. Cómelo enseguida, mientras está blando."
   ],
   nutricion: { kcal: 690, prot: 23, hc: 44, grasa: 46 },
-  etiquetas: ["creativa", "rápida", "vegetariana", "para invitados", "otoño"],
+  etiquetas: ["creativa", "rápida", "vegetariana", "para invitados", "otoño", "poco especiada"],
   consejo: "El saganaki toma su nombre de la sartén pequeña de dos asas en la que se fríe y se sirve; en Grecia se hace con graviera, kefalotyri o kasseri. Si no encuentras quesos griegos, usa un queso de oveja semicurado o halloumi, que no necesita harina. Fuera de la temporada de higos, sustitúyelos por pera o melocotón.",
   tupper: false,
   contundencia: "contundente",
@@ -726,7 +726,7 @@ window.RECETAS_SEED.push({
     "Reparte los espárragos y los guisantes templados, pon los huevos abiertos por la mitad, napa con el avgolemono y termina con la cebolleta y el resto del eneldo. Sirve con el pan."
   ],
   nutricion: { kcal: 450, prot: 29, hc: 34, grasa: 21 },
-  etiquetas: ["creativa", "rápida", "ligera", "vegetariana", "económica", "primavera"],
+  etiquetas: ["creativa", "rápida", "ligera", "vegetariana", "económica", "primavera", "poco especiada"],
   consejo: "El avgolemono es la emulsión griega de huevo y limón que liga sopas y guisos; aquí se usa como salsa, y la maicena hace de seguro para que no se corte. Si aun así se forman grumos, pásala 10 segundos por la batidora. Fuera de la temporada de espárragos, usa judías verdes finas o brócoli.",
   tupper: false,
   contundencia: "ligera",
@@ -772,7 +772,7 @@ window.RECETAS_SEED.push({
     "Mezcla la lechuga con dos tercios del aliño, repártela en los platos y pon encima el pavo, los tomates, las aceitunas y los picatostes. Termina con el resto del aliño y unas gotas de limón."
   ],
   nutricion: { kcal: 545, prot: 45, hc: 26, grasa: 28 },
-  etiquetas: ["creativa", "rápida", "alta en proteína", "para niños"],
+  etiquetas: ["creativa", "rápida", "alta en proteína", "para niños", "poco especiada"],
   consejo: "Las tabernas griegas llevan años sirviendo su propia versión de la César; aquí el aliño de yogur y feta sustituye a la mayonesa con anchoa y queda más ligero y ácido. Con pechuga de pollo funciona igual. Los picatostes de pita aguantan crujientes 3 días en un bote bien cerrado.",
   tupper: false,
   contundencia: "media",
@@ -817,7 +817,7 @@ window.RECETAS_SEED.push({
     "Aliña la rúcula con el vinagre, el resto del aceite, el orégano, sal y pimienta. Sirve la rúcula con las salchichas y las verduras calientes por encima, los gajos de naranja y la pita al lado."
   ],
   nutricion: { kcal: 680, prot: 26, hc: 54, grasa: 38 },
-  etiquetas: ["creativa", "rápida", "una sola sartén", "económica", "invierno"],
+  etiquetas: ["creativa", "rápida", "una sola sartén", "económica", "invierno", "poco especiada"],
   consejo: "El loukaniko es la salchicha de cerdo griega: según la zona se perfuma con piel de naranja, puerro o hinojo, y en Mani además se ahúma. Si lo encuentras en una tienda griega, úsalo y sáltate la ralladura y el hinojo del paso 4. Para aligerar el plato, usa salchichas de pollo y retira la grasa de la sartén antes de saltear las verduras.",
   tupper: false,
   contundencia: "contundente",
@@ -860,7 +860,7 @@ window.RECETAS_SEED.push({
     "Seca las cintas de calabacín con papel de cocina y repártelas en los platos. Pon encima los garbanzos, la feta desmigada en trozos grandes, las hierbas y los pistachos, y riega con el resto del aliño justo antes de servir."
   ],
   nutricion: { kcal: 455, prot: 18, hc: 30, grasa: 28 },
-  etiquetas: ["creativa", "sin cocción", "rápida", "ligera", "vegetariana", "sin gluten", "verano"],
+  etiquetas: ["creativa", "sin cocción", "rápida", "ligera", "vegetariana", "sin gluten", "verano", "superalimentos"],
   consejo: "Elige calabacines pequeños y muy firmes: los grandes tienen más agua y semillas, y las cintas se rompen. Los kolokithokeftedes, buñuelos de calabacín y feta con menta y eneldo, son un meze de verano en toda Grecia; aquí se mantienen sus sabores sin freír. Para llevar, guarda los garbanzos aliñados y las cintas por separado y móntala al comer.",
   tupper: false,
   contundencia: "ligera",
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
     "Sirve el bulgur con las brochetas encima y la tahinosalata por encima o al lado."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 46, grasa: 30 },
-  etiquetas: ["creativa", "alta en proteína", "sin lácteos", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "alta en proteína", "sin lácteos", "ideal para llevar", "verano", "superalimentos", "poco especiada"],
   consejo: "El xifías souvlaki, la brocheta de pez espada, es un clásico de las tabernas de pescado griegas, y la tahinosalata es la salsa de tahini y limón de los días de ayuno, cuando no se toman lácteos. Si usas brochetas de madera, ponlas 20 minutos en remojo para que no se quemen. Para el táper, el bulgur mejora de un día para otro y el pescado se come frío, desmigado por encima; aguanta 2 días.",
   tupper: true,
   contundencia: "media",

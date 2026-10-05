@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Sirve la cebada con la lubina encima, las hojitas de hinojo y el resto del limón en gajos."
   ],
   nutricion: { kcal: 608, prot: 36, hc: 53, grasa: 28 },
-  etiquetas: ["al horno", "alta en proteína", "verano", "granos poco usados", "cebada"],
+  etiquetas: ["al horno", "alta en proteína", "verano", "granos poco usados", "cebada", "poco especiada"],
   consejo: "Un lomo de pescado blanco de 2-3 cm de grosor necesita 8-10 minutos a 200 °C: está en su punto cuando se separa en láminas y el centro sigue nacarado. Hornearlo sobre las verduras ya asadas le aporta sus jugos y te ahorra una bandeja.",
   tupper: false,
   contundencia: "media",
@@ -88,7 +88,7 @@ window.RECETAS_SEED.push({
     "Deja que la presión baje sola 10 minutos: si la abres de golpe, la cebada borbotea y salpica por la válvula. Rectifica de sal y sirve las carrilladas sobre la cebada con su salsa."
   ],
   nutricion: { kcal: 841, prot: 52, hc: 57, grasa: 45 },
-  etiquetas: ["olla exprés", "invierno", "tupper", "batch cooking", "alta en proteína", "granos poco usados", "cebada", "cocina didáctica"],
+  etiquetas: ["olla exprés", "invierno", "tupper", "batch cooking", "alta en proteína", "granos poco usados", "cebada", "cocina didáctica", "poco especiada"],
   consejo: "En la olla exprés, los ingredientes con tiempos distintos se cuecen en dos tandas: primero lo más duro (la carne) y luego lo rápido (grano, patata). Antes de cerrar, desglasa siempre el fondo con un líquido: el tostado pegado es sabor y, además, evita que se queme durante la cocción a presión.",
   tupper: true,
   contundencia: "contundente",
@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
     "Sirve la polenta en plato hondo y encima el conejo con las setas y su salsa."
   ],
   nutricion: { kcal: 773, prot: 59, hc: 51, grasa: 37 },
-  etiquetas: ["sin gluten", "otoño", "invierno", "tupper", "alta en proteína", "granos poco usados", "polenta"],
+  etiquetas: ["sin gluten", "otoño", "invierno", "tupper", "alta en proteína", "granos poco usados", "polenta", "poco especiada"],
   consejo: "La polenta blanda espesa mientras espera: hazla al final o añádele líquido caliente y bátela antes de servir. Con leche y agua a medias queda más cremosa que solo con agua. Es la guarnición ideal para cualquier guiso con salsa: ragú, estofado o setas.",
   tupper: true,
   contundencia: "contundente",
@@ -221,7 +221,7 @@ window.RECETAS_SEED.push({
     "Sirve con el amaranto inflado y las semillas por encima en el último momento, para que crujan."
   ],
   nutricion: { kcal: 417, prot: 10, hc: 47, grasa: 21 },
-  etiquetas: ["vegana", "sin gluten", "ligera", "otoño", "tupper", "granos poco usados", "amaranto", "cocina didáctica"],
+  etiquetas: ["vegana", "sin gluten", "ligera", "otoño", "tupper", "granos poco usados", "amaranto", "cocina didáctica", "detox", "poco especiada"],
   consejo: "El amaranto inflado se guarda una semana en un tarro cerrado: úsalo como crujiente en cremas, ensaladas o yogures, o mezclado con pan rallado para rebozar. El cazo tiene que estar muy caliente y la tanda ser pequeña: con más grano la temperatura cae y se tuesta sin explotar. En el tupper, lleva la crema y el crujiente por separado.",
   tupper: true,
   contundencia: "ligera",
@@ -267,7 +267,7 @@ window.RECETAS_SEED.push({
     "Pica muy fino el perejil con el ajo restante (es la persillade). Rectifica de sal, deja reposar el arroz 5 minutos tapado y sírvelo con la persillade por encima."
   ],
   nutricion: { kcal: 719, prot: 38, hc: 72, grasa: 31 },
-  etiquetas: ["sin gluten", "alta en proteína", "tupper", "primavera", "granos poco usados", "arroz rojo", "cocina didáctica"],
+  etiquetas: ["sin gluten", "alta en proteína", "tupper", "primavera", "granos poco usados", "arroz rojo", "cocina didáctica", "poco especiada"],
   consejo: "Los arroces integrales (rojo, negro, integral) no sueltan almidón como el bomba: no quedan melosos al removerlos, pero tampoco se pasan, así que aguantan perfectamente en el tupper. Calcula el doble de tiempo y 2,5-3 veces su volumen de líquido, y si puedes déjalos 1 hora en remojo.",
   tupper: true,
   contundencia: "contundente",
@@ -279,7 +279,7 @@ window.RECETAS_SEED.push({
   nombre: "Tacos de azukis refritas con cebolla encurtida, aguacate y salsa de tomate asado",
   subtitulo: "la legumbre japonesa convertida en frijoles refritos, con chipotle y lima",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "latinoamericana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -358,7 +358,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, deja reposar 10 minutos y sirve con la hierbabuena picada por encima."
   ],
   nutricion: { kcal: 707, prot: 36, hc: 71, grasa: 31 },
-  etiquetas: ["sin gluten", "de cuchara", "otoño", "invierno", "tupper", "batch cooking", "económica", "granos poco usados", "alubia carilla", "cocina didáctica"],
+  etiquetas: ["sin gluten", "de cuchara", "otoño", "invierno", "tupper", "batch cooking", "económica", "granos poco usados", "alubia carilla", "cocina didáctica", "poco especiada"],
   consejo: "Cocer las verduras enteras con la legumbre y triturarlas al final, en lugar de hacer un sofrito, es la forma más fácil y ligera de ligar cualquier potaje: menos grasa, menos cacharros y el mismo sabor. La carilla es la legumbre seca más rápida después de la lenteja: sin remojo, unos 40 minutos.",
   tupper: true,
   contundencia: "contundente",
@@ -399,7 +399,7 @@ window.RECETAS_SEED.push({
     "Monta la ensalada con los canónigos, las habas, las fresas y el queso fresco en trozos. Aliña justo al servir, porque el vinagre marchita las hojas, y termina con la menta picada y los pistachos."
   ],
   nutricion: { kcal: 437, prot: 20, hc: 24, grasa: 29 },
-  etiquetas: ["sin gluten", "vegetariana", "ligera", "rápida", "primavera", "granos poco usados", "habas", "cocina didáctica"],
+  etiquetas: ["sin gluten", "vegetariana", "ligera", "rápida", "primavera", "granos poco usados", "habas", "cocina didáctica", "superalimentos", "poco especiada"],
   consejo: "Fruta y legumbre combinan muy bien si hay un ácido y algo salado que las una: fresas o melocotón con habas, mango con lentejas, naranja con garbanzos. La vinagreta 1:3 es la base de cualquier ensalada; cambia el ácido (limón, vinagre, zumo) y añade una punta de mostaza si quieres que emulsione más.",
   tupper: false,
   contundencia: "ligera",
@@ -489,7 +489,7 @@ window.RECETAS_SEED.push({
     "Mezcla las lentejas con la cebolla y su jugo, el aliño, los cherry partidos, el mango y el cilantro picado. Añade el aguacate al final y con cuidado, para que no se aplaste."
   ],
   nutricion: { kcal: 465, prot: 15, hc: 54, grasa: 21 },
-  etiquetas: ["vegana", "sin gluten", "ligera", "verano", "granos poco usados", "lentejas beluga"],
+  etiquetas: ["vegana", "sin gluten", "ligera", "verano", "granos poco usados", "lentejas beluga", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Extender en una bandeja cualquier grano o legumbre recién cocido (lentejas, arroz, quinoa) para que se enfríe deprisa evita que se pase y es también lo más seguro antes de guardarlo en la nevera. Si la quieres para tupper, lleva el aguacate aparte: las lentejas aliñadas aguantan 3 días; el aguacate cortado, unas horas.",
   tupper: false,
   contundencia: "ligera",
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
     "Mezcla las lentejas con el aliño, la cebolla en juliana muy fina y el perejil y la menta picados. Pon encima la zanahoria tibia, los gajos de naranja y el feta desmenuzado."
   ],
   nutricion: { kcal: 423, prot: 17, hc: 55, grasa: 15 },
-  etiquetas: ["sin gluten", "vegetariana", "ligera", "al horno", "tupper", "ideal para llevar", "económica", "granos poco usados", "lentejas coral", "cocina didáctica"],
+  etiquetas: ["sin gluten", "vegetariana", "ligera", "al horno", "tupper", "ideal para llevar", "económica", "granos poco usados", "lentejas coral", "cocina didáctica", "poco especiada"],
   consejo: "Las lentejas coral se pueden usar enteras si las cueces en mucha agua y cronometras: 5-6 minutos para ensalada, 15-20 para crema o dal. Son la legumbre más rápida que existe, sin remojo: una ensalada tibia de lentejas está lista en lo que se asa una bandeja de verdura.",
   tupper: true,
   contundencia: "ligera",
@@ -573,7 +573,7 @@ window.RECETAS_SEED.push({
     "Devuelve las gambas, añade unas gotas de limón y el perejil picado y sirve enseguida."
   ],
   nutricion: { kcal: 423, prot: 47, hc: 16, grasa: 19 },
-  etiquetas: ["sin gluten", "alta en proteína", "ligera", "una sola sartén", "granos poco usados", "altramuces"],
+  etiquetas: ["sin gluten", "alta en proteína", "ligera", "una sola sartén", "granos poco usados", "altramuces", "superalimentos"],
   consejo: "En cualquier ajillo, el ajo entra con el aceite aún templado: así suelta su aroma poco a poco sin quemarse. Las gambas, como el pescado fino, se cocinan en el último momento y se sacan antes de terminar el plato; se reincorporan solo para calentarlas.",
   tupper: false,
   contundencia: "ligera",
@@ -662,7 +662,7 @@ window.RECETAS_SEED.push({
     "Monta los cuencos con el mijo, el salmón en lascas grandes, el edamame y el pepino; riega con el aliño y termina con la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 631, prot: 42, hc: 55, grasa: 27 },
-  etiquetas: ["alta en proteína", "granos poco usados", "mijo", "cocina didáctica"],
+  etiquetas: ["alta en proteína", "granos poco usados", "mijo", "cocina didáctica", "superalimentos", "poco especiada"],
   consejo: "Cocinar al vapor no necesita aparatos: un colador metálico sobre una olla con agua hirviendo y una tapa bastan. Para pescado, cuenta 6-8 minutos por cada 2,5 cm de grosor. El aliño de miso con vinagre y sésamo sirve igual para verduras, tofu o ensaladas de granos.",
   tupper: false,
   contundencia: "media",
@@ -674,7 +674,7 @@ window.RECETAS_SEED.push({
   nombre: "Hamburguesas de mijo y alubias negras con guacamole",
   subtitulo: "jugosas y firmes, ligadas con el almidón del mijo y servidas en pan tostado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "americana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -711,7 +711,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y monta las hamburguesas con la lechuga y el guacamole."
   ],
   nutricion: { kcal: 790, prot: 24, hc: 106, grasa: 30 },
-  etiquetas: ["vegana", "para niños", "tupper", "batch cooking", "económica", "granos poco usados", "mijo", "cocina didáctica"],
+  etiquetas: ["vegana", "para niños", "tupper", "batch cooking", "económica", "granos poco usados", "mijo", "cocina didáctica", "superalimentos", "poco especiada"],
   consejo: "Tres reglas para hamburguesas vegetales que no se rompen: legumbre bien seca, un ligante con almidón (grano cocido pegajoso, pan rallado o copos de avena) y 15 minutos de frío antes de cocinarlas. Se congelan crudas, separadas con papel, hasta 3 meses; el guacamole, en cambio, hazlo siempre al momento.",
   tupper: true,
   contundencia: "contundente",
@@ -756,7 +756,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de las setas por encima, pimienta y el perejil picado."
   ],
   nutricion: { kcal: 523, prot: 20, hc: 59, grasa: 23 },
-  etiquetas: ["sin gluten", "vegetariana", "otoño", "tupper", "granos poco usados", "mijo", "cocina didáctica"],
+  etiquetas: ["sin gluten", "vegetariana", "otoño", "tupper", "granos poco usados", "mijo", "cocina didáctica", "poco especiada"],
   consejo: "Las setas, la berenjena y los champiñones se doran mejor si los salas al final y no llenas la sartén: necesitan espacio y fuego vivo para evaporar su agua. El mijo es la alternativa más rápida y barata al arroz arborio para cualquier plato cremoso.",
   tupper: true,
   contundencia: "media",
@@ -800,7 +800,7 @@ window.RECETAS_SEED.push({
     "Sirve los blinis templados con una cucharadita de nata agria, una lámina de salmón ahumado, rodajitas de pepino y el resto de las hierbas."
   ],
   nutricion: { kcal: 453, prot: 25, hc: 41, grasa: 21 },
-  etiquetas: ["sin gluten", "ligera", "para invitados", "granos poco usados", "trigo sarraceno", "cocina didáctica"],
+  etiquetas: ["sin gluten", "ligera", "para invitados", "granos poco usados", "trigo sarraceno", "cocina didáctica", "poco especiada"],
   consejo: "La harina de trigo sarraceno no tiene gluten, así que la masa no se vuelve elástica: la esponjosidad la aportan la clara montada y la levadura. El truco de las burbujas para dar la vuelta vale para cualquier tortita o crep. Los blinis se congelan bien y se recalientan 1 minuto en la tostadora.",
   tupper: false,
   contundencia: "ligera",
@@ -812,7 +812,7 @@ window.RECETAS_SEED.push({
   nombre: "Kasha con castañas, setas y col lombarda braseada",
   subtitulo: "plato otoñal centroeuropeo, dulce y terroso, con manzana y vinagre",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "eslava",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -846,7 +846,7 @@ window.RECETAS_SEED.push({
     "Sirve la kasha con la lombarda braseada al lado (sin el laurel) y el perejil picado."
   ],
   nutricion: { kcal: 624, prot: 15, hc: 96, grasa: 20 },
-  etiquetas: ["vegana", "sin gluten", "otoño", "invierno", "tupper", "batch cooking", "granos poco usados", "trigo sarraceno"],
+  etiquetas: ["vegana", "sin gluten", "otoño", "invierno", "tupper", "batch cooking", "granos poco usados", "trigo sarraceno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La col lombarda, la remolacha y la col morada conservan su color con un ácido (vinagre, limón, manzana). La lombarda braseada aguanta una semana en la nevera y mejora de un día para otro: haz el doble y úsala con carnes, legumbres o en bocadillos.",
   tupper: true,
   contundencia: "media",
@@ -890,7 +890,7 @@ window.RECETAS_SEED.push({
     "Sirve la caballa sobre el trigo sarraceno con el resto del eneldo."
   ],
   nutricion: { kcal: 614, prot: 33, hc: 53, grasa: 30 },
-  etiquetas: ["sin gluten", "alta en proteína", "omega 3", "granos poco usados", "trigo sarraceno", "cocina didáctica"],
+  etiquetas: ["sin gluten", "alta en proteína", "omega 3", "granos poco usados", "trigo sarraceno", "cocina didáctica", "superalimentos", "poco especiada"],
   consejo: "Hacer unos cortes en la piel de los pescados finos (caballa, sardina, lubina) evita que se curven en la sartén y deja la piel plana y crujiente. El ácido de la manzana verde o del limón equilibra la grasa del pescado azul.",
   tupper: false,
   contundencia: "media",
@@ -933,7 +933,7 @@ window.RECETAS_SEED.push({
     "Sirve con una pizca más de zumaque por encima."
   ],
   nutricion: { kcal: 396, prot: 12, hc: 51, grasa: 16 },
-  etiquetas: ["vegana", "ligera", "verano", "tupper", "ideal para llevar", "económica", "granos poco usados", "cebada"],
+  etiquetas: ["vegana", "ligera", "verano", "tupper", "ideal para llevar", "económica", "granos poco usados", "cebada", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Cualquier grano cocido y frío (cebada, bulgur, quinoa, farro, trigo sarraceno) sirve de base para una ensalada tipo tabulé: calcula 1 parte de grano por 2 de verdura y hierbas. El zumaque aporta acidez sin líquido, perfecto para que las ensaladas de tupper no se encharquen.",
   tupper: true,
   contundencia: "ligera",
@@ -945,7 +945,7 @@ window.RECETAS_SEED.push({
   nombre: "Bowl de cebada perlada con calabaza asada, kale masajeado y salsa de tahini",
   subtitulo: "otoñal y completo, con semillas tostadas y granada",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "ensaladas",
   cocina: "fusión",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -979,7 +979,7 @@ window.RECETAS_SEED.push({
     "Monta los cuencos con la cebada, el kale, la calabaza y la cebolla asadas; riega con la salsa de tahini y termina con las semillas y los granos de granada."
   ],
   nutricion: { kcal: 621, prot: 17, hc: 82, grasa: 25 },
-  etiquetas: ["vegana", "otoño", "al horno", "tupper", "ideal para llevar", "económica", "granos poco usados", "cebada", "cocina didáctica"],
+  etiquetas: ["vegana", "otoño", "al horno", "tupper", "ideal para llevar", "económica", "granos poco usados", "cebada", "cocina didáctica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa de tahini siempre se corta al añadir el limón: sigue añadiendo agua fría y batiendo y se volverá lisa y clara. Sirve para bowls, verduras asadas, falafel o carne. Y masajear el kale con sal y un ácido es el truco para comerlo crudo en ensaladas; aguanta aliñado 2 días sin marchitarse.",
   tupper: true,
   contundencia: "media",
@@ -1025,7 +1025,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal, retira el laurel y el romero y deja reposar 10 minutos: el potaje espesa al templarse. Sirve con un hilo del aceite restante en crudo por encima."
   ],
   nutricion: { kcal: 574, prot: 22, hc: 72, grasa: 22 },
-  etiquetas: ["vegana", "de cuchara", "invierno", "tupper", "batch cooking", "económica", "granos poco usados", "espelta", "alubia carilla", "cocina didáctica"],
+  etiquetas: ["vegana", "de cuchara", "invierno", "tupper", "batch cooking", "económica", "granos poco usados", "espelta", "alubia carilla", "cocina didáctica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Antes de juntar grano y legumbre en la misma olla, compara sus tiempos: el que más tarda entra primero, con la diferencia de ventaja (carilla 40 minutos, cebada 30, espelta perlada y lenteja pardina 25, arroz 18). Y reservar parte del aceite para echarlo crudo al final da mucho más sabor con la misma cantidad.",
   tupper: true,
   contundencia: "media",
@@ -1037,7 +1037,7 @@ window.RECETAS_SEED.push({
   nombre: "Torta de polenta al horno con calabacín, ricotta y menta",
   subtitulo: "polenta cuajada en molde y gratinada, para comer caliente o fría",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -1071,7 +1071,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar: al templarse, la polenta se asienta y las porciones salen enteras."
   ],
   nutricion: { kcal: 603, prot: 28, hc: 62, grasa: 27 },
-  etiquetas: ["sin gluten", "vegetariana", "al horno", "tupper", "ideal para llevar", "verano", "granos poco usados", "polenta"],
+  etiquetas: ["sin gluten", "vegetariana", "al horno", "tupper", "ideal para llevar", "verano", "granos poco usados", "polenta", "poco especiada"],
   consejo: "Salar las verduras acuosas (calabacín, berenjena, pepino) y dejarlas escurrir 10 minutos evita que suelten agua en el horno y encharquen tartas, gratinados o pizzas. Esta torta se come fría al día siguiente, como una quiche.",
   tupper: true,
   contundencia: "media",

@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Sirve las chuletas sobre una cama generosa de kachumbari con su jugo, el aguacate al lado y gajos de lima."
   ],
   nutricion: { kcal: 640, prot: 38, hc: 14, grasa: 48 },
-  etiquetas: ["creativa", "sin gluten", "alta en proteína", "verano", "para invitados"],
+  etiquetas: ["creativa", "sin gluten", "alta en proteína", "verano", "para invitados", "keto"],
   consejo: "En Kenia la nyama choma (carne asada) suele ser de cabra; el cordero es el sustituto más fiel. El kachumbari es igual en Tanzania y en toda la costa swahili, y sirve para cualquier carne o pescado a la brasa. Prepara la ensalada como mucho 30 minutos antes: si espera más, el tomate se ablanda.",
   tupper: false,
   contundencia: "media",
@@ -92,7 +92,7 @@ window.RECETAS_SEED.push({
     "Riega con el aliño en hilo justo antes de servir y lleva el resto a la mesa en un cuenco."
   ],
   nutricion: { kcal: 580, prot: 37, hc: 29, grasa: 36 },
-  etiquetas: ["tradicional", "rápida", "económica", "alta en proteína", "ideal para llevar", "verano"],
+  etiquetas: ["tradicional", "rápida", "económica", "alta en proteína", "ideal para llevar", "verano", "poco especiada"],
   consejo: "En Ghana esta ensalada aparece en bodas y comidas de domingo, a veces con atún en lugar de sardinas y con unos espaguetis cocidos para hacerla más contundente. Para llevar, monta las capas en el táper y lleva el aliño aparte: aguanta un día en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos, añade el tomate y prueba: debe quedar claramente ácida, con la mostaza marcada y un picor vivo. Corrige de sal y limón."
   ],
   nutricion: { kcal: 500, prot: 22, hc: 50, grasa: 24 },
-  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "batch cooking", "ideal para llevar", "picante"],
+  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "batch cooking", "ideal para llevar", "picante", "bajo en colesterol"],
   consejo: "En Etiopía la azifa se come en los días de ayuno de la Iglesia ortodoxa, a temperatura ambiente y con injera, el pan plano de teff; si no la encuentras, acompáñala con pan de pita. Las lentejas pardinas sustituyen bien a las marrones etíopes. Aguanta 3 días en la nevera y mejora al día siguiente; añade el tomate al servir.",
   tupper: true,
   contundencia: "media",
@@ -180,7 +180,7 @@ window.RECETAS_SEED.push({
     "Monta los boles: canónigos y arroz templado en la base, encima la piña, el pepino y la cebolla, las brochetas, el aliño de coco y el cilantro picado."
   ],
   nutricion: { kcal: 610, prot: 34, hc: 64, grasa: 24 },
-  etiquetas: ["creativa", "sin gluten", "sin lácteos", "alta en proteína", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "sin gluten", "sin lácteos", "alta en proteína", "ideal para llevar", "verano", "bajo en colesterol"],
   consejo: "El mishkaki tanzano suele hacerse con ternera ablandada con papaya verde; con muslo de pollo basta la lima. La piña de la costa swahili es muy dulce: si la tuya es ácida, añade al aliño media cucharadita de azúcar. Para llevar, guarda el aliño aparte: el bol aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -271,7 +271,7 @@ window.RECETAS_SEED.push({
     "Sirve templado sobre la lechuga cortada en tiras, con el pescado, la patata y la cebolla y unas cucharadas del escabeche como aliño."
   ],
   nutricion: { kcal: 540, prot: 37, hc: 61, grasa: 16 },
-  etiquetas: ["creativa", "alta en proteína", "batch cooking", "ideal para llevar"],
+  etiquetas: ["creativa", "alta en proteína", "batch cooking", "ideal para llevar", "bajo en colesterol"],
   consejo: "En Sudáfrica el pickled fish se prepara en Semana Santa y se deja en la nevera 1 o 2 días antes de comerlo frío con pan con mantequilla; así gana mucho, y dura hasta 5 días tapado. Para una versión sin gluten, dora el pescado sin harina o con maicena.",
   tupper: true,
   contundencia: "media",
@@ -314,7 +314,7 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús en la base, el bonito encima y el moyo con todo su jugo por encima, con gajos de la lima restante."
   ],
   nutricion: { kcal: 610, prot: 44, hc: 54, grasa: 25 },
-  etiquetas: ["creativa", "rápida", "sin lácteos", "alta en proteína", "verano"],
+  etiquetas: ["creativa", "rápida", "sin lácteos", "alta en proteína", "verano", "bajo en colesterol"],
   consejo: "El moyo se sirve en Togo y Benín con pescado o pollo a la brasa, y el attiéké (sémola de mandioca fermentada) es el acompañamiento de Costa de Marfil; si lo encuentras en tiendas africanas, solo hay que calentarlo al vapor. El bonito es de temporada en verano: fuera de ella, usa atún.",
   tupper: false,
   contundencia: "media",
@@ -491,7 +491,7 @@ window.RECETAS_SEED.push({
     "Sirve el jollof con el pollo, el dodo y la costra del fondo rascada al lado."
   ],
   nutricion: { kcal: 880, prot: 38, hc: 112, grasa: 31 },
-  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "picante", "batch cooking"],
+  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "picante", "batch cooking", "verduras escondidas"],
   consejo: "El arroz vaporizado es el que se usa en Nigeria: aguanta la cocción larga sin pasarse. El sabor ahumado del fondo («party rice») sale de cocinarlo en olla grande a la leña; con el golpe de fuego final te acercas. Comprueba que el caldo no lleve gluten si lo necesitas. Aguanta 3 días en la nevera; el dodo, mejor recién hecho.",
   tupper: true,
   contundencia: "contundente",
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con la ayamase por encima y los huevos partidos por la mitad."
   ],
   nutricion: { kcal: 750, prot: 21, hc: 73, grasa: 42 },
-  etiquetas: ["tradicional", "sin lácteos", "económica", "picante", "batch cooking"],
+  etiquetas: ["tradicional", "sin lácteos", "económica", "picante", "batch cooking", "verduras escondidas"],
   consejo: "En Nigeria la ayamase (o designer stew) se hace con aceite de palma blanqueado, iru (semillas de algarroba africana fermentadas) y carnes variadas, y se sirve con arroz ofada, un arroz local sin pulir que se vende en tiendas africanas; el integral es el sustituto más cercano. Comprueba que la pastilla de caldo no lleve gluten si lo necesitas. La salsa aguanta 4 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
     "Apaga y deja reposar tapado 10 minutos. Suelta el arroz con un tenedor y sírvelo con gajos de lima y cilantro."
   ],
   nutricion: { kcal: 780, prot: 40, hc: 84, grasa: 31 },
-  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "batch cooking", "invierno", "poco especiada"],
   consejo: "En Kenia y Tanzania el pilau se acompaña siempre de kachumbari (tomate, cebolla y chile crudos con lima), que equilibra las especias. Para ahorrar tiempo, cuece la ternera en olla exprés 20 minutos. Se recalienta muy bien con una cucharada de agua.",
   tupper: true,
   contundencia: "contundente",
@@ -846,7 +846,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz de coco con el pollo, la salsa por encima y cilantro picado."
   ],
   nutricion: { kcal: 790, prot: 36, hc: 68, grasa: 42 },
-  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "picante"],
+  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "picante", "sin verduras"],
   consejo: "La galinha à zambeziana viene de la provincia de Zambezia, en Mozambique, donde el pollo se asa a la brasa mientras se pinta con la marinada de coco. Si tienes barbacoa, úsala. El chile tradicional es el piri-piri, pequeño y muy picante: con dos chiles rojos frescos normales queda un picor moderado.",
   tupper: true,
   contundencia: "contundente",
@@ -940,7 +940,7 @@ window.RECETAS_SEED.push({
     "Rasga la albahaca y añádela al final. Prueba de sal y picante y sirve muy caliente."
   ],
   nutricion: { kcal: 370, prot: 31, hc: 54, grasa: 3 },
-  etiquetas: ["tradicional", "ligera", "sin lácteos", "picante", "de cuchara", "invierno"],
+  etiquetas: ["tradicional", "ligera", "sin lácteos", "picante", "de cuchara", "invierno", "bajo en colesterol"],
   consejo: "La pepper soup se hace también con cabra, pollo o pez gato. La hoja que la perfuma en Nigeria es la scent leaf (albahaca africana); la albahaca con unas hojas de menta se le parece mucho. Si encuentras mezcla de especias para pepper soup en tiendas africanas, usa 1 cucharada en lugar de las especias del mortero.",
   tupper: true,
   contundencia: "ligera",
@@ -1077,7 +1077,7 @@ window.RECETAS_SEED.push({
     "Pon el cerdo sobre los fideos, vierte el caldo hirviendo con las verduras y termina con medio huevo por cuenco, la parte verde de la cebolleta picada y pimienta."
   ],
   nutricion: { kcal: 530, prot: 40, hc: 50, grasa: 19 },
-  etiquetas: ["tradicional", "sin lácteos", "alta en proteína", "invierno"],
+  etiquetas: ["tradicional", "sin lácteos", "alta en proteína", "invierno", "poco especiada"],
   consejo: "En Madagascar la soupe chinoise es un plato de diario en los hotely (restaurantes populares), con pollo, cerdo o pequeños wantán según el día. Sírvela con un poco de sakay, la pasta malgache de chile y jengibre, o con unas gotas de salsa de chile. Guarda el caldo y los fideos por separado si sobra.",
   tupper: false,
   contundencia: "media",
@@ -1124,7 +1124,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de chutney por encima y el cilantro picado."
   ],
   nutricion: { kcal: 470, prot: 21, hc: 60, grasa: 16 },
-  etiquetas: ["creativa", "vegana", "sin gluten", "económica", "batch cooking", "de cuchara", "invierno"],
+  etiquetas: ["creativa", "vegana", "sin gluten", "económica", "batch cooking", "de cuchara", "invierno", "bajo en colesterol"],
   consejo: "La cocina malaya del Cabo nació de los esclavos y trabajadores traídos de Indonesia y la India, y mezcla curry con dulce. En Sudáfrica el chutney de albaricoque y melocotón está en todas las casas; aquí lo imitas con mermelada de albaricoque y vinagre. La sopa espesa al enfriarse: aclárala con agua al recalentar.",
   tupper: true,
   contundencia: "ligera",

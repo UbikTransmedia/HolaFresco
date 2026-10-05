@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "Moldea el arroz en un tazón engrasado y desmóldalo en cada plato. Sirve con el tomate caliente al lado, dos huevos y los plátanos fritos."
   ],
   nutricion: { kcal: 750, prot: 22, hc: 98, grasa: 30 },
-  etiquetas: ["tradicional", "fácil", "económica", "saciante", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "saciante", "para niños", "sin verduras", "poco especiada"],
   consejo: "El truco de la abuela: el tomate, cuanto más despacio, mejor; si está ácido, la pizca de azúcar lo arregla. Y el arroz, una vez echado el agua, no se toca: así queda suelto.",
   contundencia: "contundente",
   coste: "económica"
@@ -80,7 +80,7 @@ window.RECETAS_SEED.push({
     "Sube el fuego 1-2 minutos y escucha: cuando crepite suavemente y huela a tostado, ya tienes socarrat. Apaga, retira el romero, cubre con un paño limpio y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 788, prot: 45, hc: 80, grasa: 32 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "saciante"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "saciante", "poco especiada"],
   consejo: "Si no encuentras garrofó, pon judías blancas cocidas al final del caldo. Y nunca remuevas el arroz: en la paella el grano se queda quieto y el caldo hace el trabajo.",
   contundencia: "contundente",
   coste: "premium"
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
     "Apaga, tapa con un paño limpio y deja reposar 5 minutos. Sirve con gajos de limón."
   ],
   nutricion: { kcal: 670, prot: 40, hc: 78, grasa: 22 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "saciante", "verano"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "saciante", "verano", "poco especiada"],
   consejo: "Para que el arroz no quede pastoso, la proporción es de algo más de 2 partes de caldo por 1 de arroz bomba, y nada de remover una vez repartido el grano.",
   contundencia: "contundente",
   coste: "premium"
@@ -166,7 +166,7 @@ window.RECETAS_SEED.push({
     "Apaga y deja reposar 3 minutos. Corta la morcilla en rodajas y sirve en plato hondo con una pieza de cada cosa."
   ],
   nutricion: { kcal: 890, prot: 42, hc: 95, grasa: 38 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "saciante", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "saciante", "económica", "batch cooking", "poco especiada"],
   consejo: "Cocina el arroz solo en la parte que vayas a comer: el resto del guiso de alubias, nabos y costilla aguanta 3 días en la nevera y le añades el arroz el día que lo quieras.",
   contundencia: "contundente",
   coste: "económica"
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
     "Saca y deja reposar 5 minutos antes de servir en la misma cazuela."
   ],
   nutricion: { kcal: 910, prot: 48, hc: 85, grasa: 42 },
-  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "saciante", "invierno"],
+  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "saciante", "invierno", "sin verduras", "poco especiada"],
   consejo: "El arroz debe entrar en el horno todavía con un dedo de caldo: si llega seco, la costra se queda dura y el grano se pasa. Usa cazuela de barro si la tienes, porque reparte el calor como ninguna.",
   contundencia: "contundente",
   coste: "media"
@@ -252,7 +252,7 @@ window.RECETAS_SEED.push({
     "Apaga, cubre con un paño y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 750, prot: 44, hc: 76, grasa: 30 },
-  etiquetas: ["tradicional", "de domingo", "otoño", "saciante", "fácil"],
+  etiquetas: ["tradicional", "de domingo", "otoño", "saciante", "fácil", "poco especiada"],
   consejo: "En temporada usa níscalos o rebozuelos; el resto del año, una bandeja de setas variadas con unos champiñones sirve. Si te gusta, añade un puñado de caracoles cocidos con el caldo, como en la sierra.",
   contundencia: "contundente",
   coste: "media"
@@ -293,7 +293,7 @@ window.RECETAS_SEED.push({
     "Apaga, espolvorea perejil picado, tapa y deja reposar 4 minutos antes de servir."
   ],
   nutricion: { kcal: 608, prot: 38, hc: 78, grasa: 16 },
-  etiquetas: ["tradicional", "fácil", "cuaresma", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "cuaresma", "alta en proteína", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "La sal la pone el bacalao: no saces nada hasta probar el caldo. Si quieres hacerlo con alubias secas, cuécelas el día antes y usa también su caldo mezclado con el del bacalao.",
   contundencia: "media",
   coste: "media"
@@ -334,7 +334,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, apaga y deja reposar 5 minutos tapado antes de servir."
   ],
   nutricion: { kcal: 808, prot: 36, hc: 76, grasa: 40 },
-  etiquetas: ["tradicional", "invierno", "saciante", "económica", "fácil"],
+  etiquetas: ["tradicional", "invierno", "saciante", "económica", "fácil", "poco especiada"],
   consejo: "Si tienes oreja o morro de cerdo cocidos, añádelos con el chorizo: es como se hacía en Zamora. Y si el arroz se queda seco antes de tiempo, añade un cucharón de caldo caliente, nunca frío.",
   contundencia: "contundente",
   coste: "económica"
@@ -374,7 +374,7 @@ window.RECETAS_SEED.push({
     "Apaga y deja reposar 2 minutos: debe quedar caldoso. Sirve enseguida en plato hondo."
   ],
   nutricion: { kcal: 443, prot: 14, hc: 72, grasa: 11 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "fácil", "invierno", "ligera"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "fácil", "invierno", "ligera", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Los arroces caldosos no esperan: el grano sigue chupando caldo. Si lo recalientas, añade un cucharón de agua caliente. Un chorrito de aceite crudo al servir le da la gracia final.",
   contundencia: "ligera",
   coste: "económica"
@@ -414,7 +414,7 @@ window.RECETAS_SEED.push({
     "Apaga, reparte el atún desmigado por encima, tapa y deja reposar 5 minutos: el calor lo templa sin resecarlo. Mezcla con cuidado y sirve."
   ],
   nutricion: { kcal: 465, prot: 25, hc: 62, grasa: 13 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ideal para llevar", "ligera"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ideal para llevar", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "Si usas atún en aceite, aprovecha una cucharada de ese aceite para el sofrito en lugar del de oliva. Y añade el atún siempre al final: cocido se queda seco y fibroso.",
   contundencia: "ligera",
   coste: "económica"
@@ -457,7 +457,7 @@ window.RECETAS_SEED.push({
     "Apaga, deja reposar 2 minutos y sirve en plato hondo enseguida."
   ],
   nutricion: { kcal: 612, prot: 38, hc: 70, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "poco especiada"],
   consejo: "Para purgar las almejas, déjalas 1 hora en agua fría con un buen puñado de sal y cámbiala una vez. La picada se echa casi al final: si hierve mucho, pierde el aroma del ajo y el perejil.",
   contundencia: "media",
   coste: "premium"
@@ -498,7 +498,7 @@ window.RECETAS_SEED.push({
     "Apaga, cubre con un paño y deja reposar 5 minutos."
   ],
   nutricion: { kcal: 622, prot: 34, hc: 72, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "económica", "saciante", "verano"],
+  etiquetas: ["tradicional", "fácil", "económica", "saciante", "verano", "poco especiada"],
   consejo: "Reserva unas tiras de pimiento rojo asado para decorar por encima al final. Si el magro es de paleta, ponlo a dorar con un poco de paciencia: lo que se pega al fondo es sabor que luego recoge el caldo.",
   contundencia: "media",
   coste: "económica"
@@ -583,7 +583,7 @@ window.RECETAS_SEED.push({
     "Apaga, ralla un poco de piel del limón por encima y deja reposar 2 minutos antes de servir."
   ],
   nutricion: { kcal: 439, prot: 13, hc: 72, grasa: 11 },
-  etiquetas: ["tradicional", "fácil", "económica", "primavera", "ligera", "vegano"],
+  etiquetas: ["tradicional", "fácil", "económica", "primavera", "ligera", "vegano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si encuentras habas frescas tiernas, mejor que mejor: con las pequeñitas no hace falta pelarlas. Fuera de temporada, unos corazones de alcachofa congelados funcionan muy bien.",
   contundencia: "ligera",
   coste: "económica"
@@ -623,7 +623,7 @@ window.RECETAS_SEED.push({
     "Incorpora las verduras, las gambas, el jamón y la tortilla, riega con la salsa de soja y saltea 1 minuto más. Sirve enseguida."
   ],
   nutricion: { kcal: 590, prot: 26, hc: 72, grasa: 22 },
-  etiquetas: ["tradicional", "rápida", "fácil", "económica", "para niños", "ideal para llevar"],
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "El secreto del arroz frito es usar arroz frío y bien seco: el recién hecho se apelmaza. Cuando cuezas arroz para otro plato, haz el doble y guarda la mitad para esto.",
   contundencia: "media",
   coste: "económica"
@@ -710,7 +710,7 @@ window.RECETAS_SEED.push({
     "Deshuesa el pollo y córtalo en tiras. Sirve con el arroz, rodajas de pepino, las dos salsas y un tazón del caldo caliente."
   ],
   nutricion: { kcal: 620, prot: 38, hc: 72, grasa: 20 },
-  etiquetas: ["tradicional", "económica", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "económica", "de domingo", "batch cooking", "bajo en colesterol"],
   consejo: "No dejes que el agua hierva con fuerza: el pollo escalfado a fuego mínimo queda sedoso, y hervido se pone fibroso. El caldo que sobra es oro para una sopa al día siguiente.",
   contundencia: "media",
   coste: "económica"
@@ -794,7 +794,7 @@ window.RECETAS_SEED.push({
     "Sirve con los cuartos de huevo encima y gajos de limón."
   ],
   nutricion: { kcal: 468, prot: 30, hc: 60, grasa: 12 },
-  etiquetas: ["tradicional", "fácil", "ligera", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "ligera", "alta en proteína", "sin verduras"],
   consejo: "En Inglaterra se hace con eglefino ahumado; si encuentras bacalao o abadejo ahumado, úsalo y no escalfes en leche más de 3 minutos. Queda igual de rico con merluza congelada.",
   contundencia: "ligera",
   coste: "media"
@@ -833,7 +833,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade el resto de la mantequilla, el parmesano y el perejil picado. Remueve con energía 30 segundos, salpimienta y deja reposar 1 minuto antes de servir."
   ],
   nutricion: { kcal: 462, prot: 18, hc: 66, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "primavera", "ligera", "para niños"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "primavera", "ligera", "para niños", "poco especiada"],
   consejo: "En Venecia se hace con guisantes frescos y con sus vainas cocidas en el caldo. Con congelados queda muy bien, pero no los cuezas de más: tienen que seguir verdes y dulces.",
   contundencia: "ligera",
   coste: "media"
@@ -875,7 +875,7 @@ window.RECETAS_SEED.push({
     "Ahueca el arroz con un tenedor, mezcla el pollo desmenuzado y sirve con cilantro picado y gajos de lima."
   ],
   nutricion: { kcal: 472, prot: 29, hc: 62, grasa: 12 },
-  etiquetas: ["tradicional", "fácil", "económica", "ligera", "ideal para llevar"],
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "ideal para llevar", "bajo en colesterol"],
   consejo: "El paso clave es tostar el arroz en seco antes de echarle el tomate: así no se empasta y cada grano queda suelto y rojizo, como en las fondas de México.",
   contundencia: "ligera",
   coste: "económica"
@@ -916,7 +916,7 @@ window.RECETAS_SEED.push({
     "Apaga, tapa y deja reposar 2 minutos. Sirve con un hilo de aceite crudo."
   ],
   nutricion: { kcal: 463, prot: 15, hc: 76, grasa: 11 },
-  etiquetas: ["tradicional", "fácil", "económica", "ligera", "otoño", "vegano", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "otoño", "vegano", "batch cooking", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La calabaza se deshace un poco y espesa el caldo sin necesidad de nata ni queso. Si quieres hacerlo más contundente, añade un huevo poché encima de cada plato.",
   contundencia: "ligera",
   coste: "económica"
@@ -958,7 +958,7 @@ window.RECETAS_SEED.push({
     "Apaga, cubre con un paño y deja reposar 5 minutos."
   ],
   nutricion: { kcal: 632, prot: 30, hc: 74, grasa: 24 },
-  etiquetas: ["tradicional", "fácil", "económica", "verano"],
+  etiquetas: ["tradicional", "fácil", "económica", "verano", "poco especiada"],
   consejo: "Pide al carnicero que te corte la costilla en dados pequeños: se dora antes y suelta más sabor. Y no tires el agua de remojar la ñora; puedes usarla como parte del caldo.",
   contundencia: "media",
   coste: "económica"
@@ -1004,7 +1004,7 @@ window.RECETAS_SEED.push({
     "Apaga y deja reposar 2 minutos. Sirve muy caldoso, con una pelota y un poco de cada carne por plato."
   ],
   nutricion: { kcal: 818, prot: 46, hc: 82, grasa: 34 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "saciante", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "saciante", "de domingo", "batch cooking", "poco especiada"],
   consejo: "Si te sobra cocido, este arroz se hace en 30 minutos con su caldo y la carne aprovechada. Las pelotas quedan más tiernas si dejas la masa reposar 15 minutos en la nevera antes de formarlas.",
   contundencia: "contundente",
   coste: "media"
@@ -1044,7 +1044,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz en un lado del plato, el pisto al lado y el huevo encima del pisto para que, al romper la yema, lo una todo."
   ],
   nutricion: { kcal: 570, prot: 17, hc: 76, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "económica", "verano", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "económica", "verano", "batch cooking", "poco especiada"],
   consejo: "El pisto está aún mejor al día siguiente, así que haz el doble y guárdalo hasta 4 días en la nevera. Lo importante es cocinar cada verdura sin prisa, sin que llegue a freírse.",
   contundencia: "media",
   coste: "económica"

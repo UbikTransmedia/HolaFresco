@@ -18,7 +18,8 @@ window.RECETAS_SEED.push({
   subtitulo: "con verduritas al horno y mayonesa al limón",   // opcional
   origen: "recetario",          // "recetario" = original (se muestra como «Originales»)
                                 // "inventada" = derivada de las originales (se muestra como «Derivadas»)
-  categoria: "pescado",         // legumbres | pescado | carnes | vegetariano | ensaladas | olla-express
+  categoria: "pescado",         // legumbres | pescado | carnes | huevos | verduras | proteina-vegetal |
+                                // ensaladas | pasta-arroces | sopas-cremas | olla-express (tipo de comida, no dieta)
   momentos: ["comida", "cena"], // en qué comidas encaja. Guisos pesados: ["comida"]; cremas y
                                 // ensaladas: ["comida","cena"] o ["cena"]
   proteina: "pescado",          // proteína principal para asegurar variedad en el menú:
@@ -188,3 +189,13 @@ Vegetariana, vegana, sin gluten, sin lácteos, sin frutos secos y **bajo en FODM
 legumbres, lactosa, miel, setas, coliflor, manzana… ). Usa variantes aptas con su nombre explícito: «aceite de ajo»,
 «leche sin lactosa», «yogur sin lactosa», «cebollino fresco» o «cebolleta (parte verde)», «pan sin gluten»,
 «pasta sin gluten», «tamari», «harina de arroz», «fideos de arroz».
+
+## Dieta y necesidades (etiquetas)
+
+Vegetariana y vegana se deducen de los ingredientes. Las demás se indican en `etiquetas` (revisión de nutricionista):
+
+- Dieta: `"keto"` (≤ 20 g de hidratos y ≥ 55 % de la energía de la grasa) y `"detox"` (ligera, vegetal, sin alcohol,
+  azúcar, embutidos, fritos ni grasas pesadas).
+- Necesidades: `"verduras escondidas"`, `"sin verduras"`, `"superalimentos"`, `"poco especiada"`, `"bajo en colesterol"`.
+
+Las intolerancias (sin gluten, sin lácteos, FODMAP…) no se etiquetan: se calculan de los ingredientes.

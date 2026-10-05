@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con el resto del cilantro por encima junto al arroz."
   ],
   nutricion: { kcal: 670, prot: 40, hc: 66, grasa: 27 },
-  etiquetas: ["tradicional", "fácil", "económica", "saciante", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "saciante", "para niños", "poco especiada"],
   consejo: "El caramelo del principio es el truco dominicano para dar color y un fondo tostado al guiso: no tengas miedo de dejarlo oscurecer, pero quítalo del fuego antes de que humee.",
   contundencia: "contundente",
   coste: "económica"
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Cuece el arroz en el doble de agua con sal 18 minutos. Corta la carne en lonchas finas y sírvela bañada en la salsa con el arroz."
   ],
   nutricion: { kcal: 710, prot: 48, hc: 62, grasa: 30 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "batch cooking"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Es el plato de las fiestas en Venezuela y siempre está mejor al día siguiente, cortado en frío y recalentado en su salsa. Se acompaña también de plátano frito y ensalada.",
   contundencia: "contundente",
   coste: "media"
@@ -172,7 +172,7 @@ window.RECETAS_SEED.push({
     "Sirve las salchichas con su salsa sobre las patatas."
   ],
   nutricion: { kcal: 700, prot: 26, hc: 50, grasa: 44 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños", "saciante"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños", "saciante", "poco especiada"],
   consejo: "Pinchar las salchichas antes de dorarlas evita que revienten y suelta grasa que aprovechas para el sofrito. Con patatas fritas en vez de cocidas es el plato de domingo de muchos niños.",
   contundencia: "contundente",
   coste: "económica"
@@ -212,7 +212,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade el perejil muy picado (abundante), remueve y prueba de sal. Sirve enseguida, con la salsa bien verde."
   ],
   nutricion: { kcal: 395, prot: 42, hc: 20, grasa: 16 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El perejil se añade al final y fuera del fuego para que la salsa quede verde y fresca. Si te gusta con patata, añade una pequeña en rodajas finas con el caldo.",
   contundencia: "ligera",
   coste: "económica"
@@ -253,7 +253,7 @@ window.RECETAS_SEED.push({
     "Sirve el pavo con la salsa, los piquillos reservados en tiras y las patatas."
   ],
   nutricion: { kcal: 395, prot: 40, hc: 22, grasa: 16 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "para niños", "verduras escondidas", "poco especiada"],
   consejo: "Los piquillos en conserva ya vienen asados, por eso la salsa sale tan rica en minutos. Sirve igual de bien con pollo o con lomo de cerdo.",
   contundencia: "ligera",
   coste: "económica"
@@ -296,7 +296,7 @@ window.RECETAS_SEED.push({
     "Mete el lomo en la salsa y cocina 3-4 minutos a fuego suave, hasta que esté hecho pero jugoso. Sirve con perejil y las patatas."
   ],
   nutricion: { kcal: 620, prot: 40, hc: 38, grasa: 34 },
-  etiquetas: ["tradicional", "fácil", "rápida", "saciante", "para invitados"],
+  etiquetas: ["tradicional", "fácil", "rápida", "saciante", "para invitados", "sin verduras", "poco especiada"],
   consejo: "No dejes el lomo más tiempo en la salsa del necesario: es una carne magra y se seca enseguida. Esta salsa de almendras sirve también para pollo o albóndigas.",
   contundencia: "media",
   coste: "media"
@@ -338,7 +338,7 @@ window.RECETAS_SEED.push({
     "Mete los filetes en la salsa y cocina a fuego suave 4-5 minutos, hasta que estén tiernos. Sirve con el arroz."
   ],
   nutricion: { kcal: 510, prot: 38, hc: 40, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "rápida", "para niños"],
+  etiquetas: ["tradicional", "fácil", "rápida", "para niños", "poco especiada"],
   consejo: "Si los filetes son de una pieza dura (babilla, contra), dales unos golpes con la base de un cazo antes de enharinarlos y cuécelos 10 minutos en la salsa con un chorrito de agua.",
   contundencia: "media",
   coste: "media"
@@ -379,7 +379,7 @@ window.RECETAS_SEED.push({
     "Mete el pollo y cuece 4 minutos a fuego suave, hasta que esté hecho. Sirve con pan."
   ],
   nutricion: { kcal: 430, prot: 40, hc: 24, grasa: 19 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "verano", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "verano", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Para que el pisto no quede aguado, añade las verduras por orden de dureza y no tapes la sartén. Un huevo frito encima lo convierte en una comida aún más completa.",
   contundencia: "ligera",
   coste: "económica"
@@ -420,7 +420,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve."
   ],
   nutricion: { kcal: 560, prot: 40, hc: 36, grasa: 28 },
-  etiquetas: ["tradicional", "fácil", "económica", "de domingo", "invierno"],
+  etiquetas: ["tradicional", "fácil", "económica", "de domingo", "invierno", "sin verduras", "poco especiada"],
   consejo: "Usa sidra natural, no espumosa ni dulce: su acidez es lo que da gracia al guiso. Si solo encuentras sidra dulce, añade un chorrito de vinagre de manzana.",
   contundencia: "media",
   coste: "económica"
@@ -468,7 +468,7 @@ window.RECETAS_SEED.push({
     "Devuelve las carrilleras a la salsa, calienta 5 minutos y sírvelas sobre el puré bien bañadas."
   ],
   nutricion: { kcal: 730, prot: 46, hc: 42, grasa: 42 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "batch cooking", "saciante"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "batch cooking", "saciante", "verduras escondidas", "poco especiada"],
   consejo: "La carrillera de ternera es más grande y gelatinosa que la de cerdo y necesita su tiempo: no la saques antes de que se deshaga. Hecha la víspera gana muchísimo.",
   contundencia: "contundente",
   coste: "premium"
@@ -511,7 +511,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve."
   ],
   nutricion: { kcal: 710, prot: 40, hc: 52, grasa: 38 },
-  etiquetas: ["tradicional", "fácil", "saciante", "invierno", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "fácil", "saciante", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Antes de que llegara la patata, en Galicia los guisos se hacían con castañas. Si las compras crudas, hazles un corte, ásalas 15 minutos y pélalas en caliente.",
   contundencia: "contundente",
   coste: "media"
@@ -554,7 +554,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos fuera del fuego, prueba de sal y sirve."
   ],
   nutricion: { kcal: 760, prot: 42, hc: 46, grasa: 45 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "poco especiada"],
   consejo: "Retira con una cuchara la grasa que suba a la superficie antes de echar las patatas: el guiso queda igual de sabroso y mucho más ligero.",
   contundencia: "contundente",
   coste: "premium"
@@ -597,7 +597,7 @@ window.RECETAS_SEED.push({
     "Sirve el pavo con las verduras y el jugo de la cazuela, aplastando los ajos asados sobre la carne."
   ],
   nutricion: { kcal: 470, prot: 42, hc: 34, grasa: 18 },
-  etiquetas: ["tradicional", "al horno", "fácil", "económica", "ligera", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "fácil", "económica", "ligera", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "El contramuslo de pavo es barato y nunca se seca en el horno. Si te sobra, desmenúzalo con su jugo para unos bocadillos o unas croquetas.",
   contundencia: "ligera",
   coste: "económica"
@@ -644,7 +644,7 @@ window.RECETAS_SEED.push({
     "Saca los rollos, quita los palillos y, si quieres la salsa fina, tritúrala. Redúcela unos minutos hasta que napee y sirve los rollos bañados junto al puré."
   ],
   nutricion: { kcal: 700, prot: 44, hc: 40, grasa: 40 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "poco especiada"],
   consejo: "Pide al carnicero filetes de tapa grandes y muy finos, como para empanar. En Alemania se sirven con lombarda guisada: si tienes, ponla al lado.",
   contundencia: "contundente",
   coste: "media"
@@ -687,7 +687,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y los clavos, prueba de sal y sirve el estofado sobre las patatas, aplastándolas un poco para que se empapen."
   ],
   nutricion: { kcal: 600, prot: 42, hc: 44, grasa: 28 },
-  etiquetas: ["tradicional", "fácil", "invierno", "batch cooking", "de cuchara"],
+  etiquetas: ["tradicional", "fácil", "invierno", "batch cooking", "de cuchara", "poco especiada"],
   consejo: "Parece mucha cebolla, pero se deshace y es la que da cuerpo y dulzor a la salsa. En Holanda lo acompañan de lombarda con manzana.",
   contundencia: "media",
   coste: "media"
@@ -729,7 +729,7 @@ window.RECETAS_SEED.push({
     "Añade el cilantro picado, incorpora las patatas para que se empapen 2 minutos y sirve con todo su caldito."
   ],
   nutricion: { kcal: 455, prot: 38, hc: 34, grasa: 18 },
-  etiquetas: ["tradicional", "fácil", "económica", "ligera", "una sola sartén"],
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "una sola sartén", "bajo en colesterol"],
   consejo: "En Perú se hace con chicha de jora; la cerveza rubia es el sustituto casero más habitual. Acompañado de arroz blanco es un plato de los que llenan.",
   contundencia: "ligera",
   coste: "económica"
@@ -772,7 +772,7 @@ window.RECETAS_SEED.push({
     "Incorpora los guisantes y cuece 4 minutos, hasta que todas las verduras estén tiernas. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 450, prot: 40, hc: 36, grasa: 16 },
-  etiquetas: ["tradicional", "fácil", "económica", "ligera", "de cuchara", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "de cuchara", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Añade las verduras por orden de dureza para que todas queden en su punto. Vale cualquier verdura de temporada: alcachofas en invierno, habas en primavera.",
   contundencia: "ligera",
   coste: "económica"
@@ -811,7 +811,7 @@ window.RECETAS_SEED.push({
     "Sala justo al final, añade perejil picado y sirve enseguida con las patatas."
   ],
   nutricion: { kcal: 555, prot: 32, hc: 48, grasa: 26 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "alta en proteína", "poco especiada"],
   consejo: "Sala el hígado siempre al final: si lo salas antes se endurece. Remojarlo 30 minutos en leche le quita el sabor fuerte, el truco de las abuelas para que lo coman los niños.",
   contundencia: "media",
   coste: "económica"
@@ -855,7 +855,7 @@ window.RECETAS_SEED.push({
     "Retira el tomillo y el laurel, prueba de sal y sirve con las patatas y perejil picado."
   ],
   nutricion: { kcal: 590, prot: 44, hc: 40, grasa: 28 },
-  etiquetas: ["tradicional", "fácil", "invierno", "batch cooking", "de cuchara"],
+  etiquetas: ["tradicional", "fácil", "invierno", "batch cooking", "de cuchara", "poco especiada"],
   consejo: "El morcillo es la pieza ideal: su gelatina hace la salsa untuosa sin nata ni mantequilla. Las zanahorias, cuanto más cuezan, más dulces quedan.",
   contundencia: "media",
   coste: "media"
@@ -897,7 +897,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal (las aceitunas ya salan) y sirve el pollo con su salsa junto al arroz."
   ],
   nutricion: { kcal: 545, prot: 38, hc: 48, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "económica", "para niños", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "económica", "para niños", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Si las aceitunas son muy saladas, desálalas 10 minutos en agua antes de añadirlas. Unas almendras fritas por encima le dan el toque andaluz.",
   contundencia: "media",
   coste: "económica"
@@ -937,7 +937,7 @@ window.RECETAS_SEED.push({
     "Mete el pollo y cuece 6 minutos más, hasta que esté hecho y el caldo algo espeso. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 435, prot: 40, hc: 34, grasa: 15 },
-  etiquetas: ["tradicional", "fácil", "económica", "ligera", "de cuchara"],
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "de cuchara", "poco especiada", "bajo en colesterol"],
   consejo: "Añadir la pechuga al final evita que quede seca. Si usas contramuslo, mételo desde el principio con la patata.",
   contundencia: "ligera",
   coste: "económica"
@@ -979,7 +979,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y pimienta y sirve el pörkölt sobre la pasta."
   ],
   nutricion: { kcal: 750, prot: 42, hc: 64, grasa: 36 },
-  etiquetas: ["tradicional", "fácil", "económica", "saciante", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "económica", "saciante", "invierno", "batch cooking", "poco especiada"],
   consejo: "El pörkölt se hace casi sin líquido: la cebolla y la carne sueltan su jugo. Añade agua solo poco a poco si ves que se pega. Un pepinillo al lado es lo típico.",
   contundencia: "contundente",
   coste: "económica"
@@ -1023,7 +1023,7 @@ window.RECETAS_SEED.push({
     "Retira el romero, prueba de sal y sirve."
   ],
   nutricion: { kcal: 600, prot: 42, hc: 40, grasa: 30 },
-  etiquetas: ["tradicional", "fácil", "de cuchara", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "de cuchara", "invierno", "batch cooking", "poco especiada"],
   consejo: "El soffritto bien picado y pochado sin prisa es la base de casi todos los guisos italianos. Con polenta en lugar de patatas es la versión del norte de Italia.",
   contundencia: "media",
   coste: "media"
@@ -1065,7 +1065,7 @@ window.RECETAS_SEED.push({
     "Sirve las chuletas con su salsa, perejil picado y las patatas fritas."
   ],
   nutricion: { kcal: 715, prot: 40, hc: 44, grasa: 42 },
-  etiquetas: ["tradicional", "fácil", "económica", "saciante", "rápida"],
+  etiquetas: ["tradicional", "fácil", "económica", "saciante", "rápida", "sin verduras", "poco especiada"],
   consejo: "Las chuletas de aguja (de la parte del cuello) aguantan mejor el guiso que las de lomo y quedan más jugosas. Haz unos cortes en la grasa del borde para que no se curven.",
   contundencia: "contundente",
   coste: "económica"

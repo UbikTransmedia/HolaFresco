@@ -46,7 +46,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con pan para mojar la salsa."
   ],
   nutricion: { kcal: 580, prot: 39, hc: 41, grasa: 29 },
-  etiquetas: ["tradicional", "al horno", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "al horno", "alta en proteína", "verano", "sin verduras", "poco especiada"],
   consejo: "En Spetses se hace con cualquier pescado de carne firme cortado en rodajas: además del pez espada, corvina, mero o bacalao fresco. El tomate rallado da una salsa más fresca y menos ácida que el triturado; en invierno, cuando los tomates no saben a nada, usa 400 g de tomate triturado. Aguanta 2 días en la nevera: recaliéntalo tapado en el horno a 160 °C para que no se seque.",
   tupper: true,
   contundencia: "media",
@@ -90,7 +90,7 @@ window.RECETAS_SEED.push({
     "Sírvelo a temperatura ambiente con las patatas templadas en rodajas, regadas con un poco de la salsa."
   ],
   nutricion: { kcal: 630, prot: 35, hc: 45, grasa: 35 },
-  etiquetas: ["tradicional", "batch cooking", "económica", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["tradicional", "batch cooking", "económica", "ideal para llevar", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "El savoro nació para conservar el pescado sin nevera: el vinagre y el romero lo protegían varios días. Aguanta 4 días en la nevera tapado y está más rico al segundo. Funciona igual con boquerones, bacaladilla, salmonetes o lomos de merluza. Si el vinagre te resulta muy fuerte, rebájalo con 2 cucharadas más de agua.",
   tupper: true,
   contundencia: "media",
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Vierte la salsa sobre la trucha y sirve con la lahanosalata, el pan y pimienta negra recién molida."
   ],
   nutricion: { kcal: 555, prot: 38, hc: 32, grasa: 30 },
-  etiquetas: ["tradicional", "rápida", "económica", "alta en proteína", "invierno"],
+  etiquetas: ["tradicional", "rápida", "económica", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Epiro es la gran región truchera de Grecia, con piscifactorías en las aguas frías de sus ríos, y en sus tabernas la trucha se come casi siempre así, enharinada y frita en aceite de oliva, o a la brasa. La lahanosalata es la ensalada de invierno de todo el norte de Grecia: aliñada aguanta 2 días en la nevera y gana sabor. Si la quieres sin gluten, enharina la trucha con harina de arroz o de maíz y sirve con patata cocida en lugar de pan.",
   tupper: false,
   contundencia: "media",
@@ -179,7 +179,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del eneldo, unas gotas de limón y los mejillones en su concha por encima."
   ],
   nutricion: { kcal: 635, prot: 30, hc: 74, grasa: 24 },
-  etiquetas: ["tradicional", "económica", "sin gluten", "una sola cazuela"],
+  etiquetas: ["tradicional", "económica", "sin gluten", "una sola cazuela", "sin verduras", "poco especiada"],
   consejo: "El midopilafo es un clásico de los mezedopolía del puerto de Tesalónica, donde se cría buena parte del mejillón griego. Usa siempre el caldo de abrirlos: es todo el sabor del plato. Si compras mejillones ya cocidos al vapor, sustituye su líquido por caldo de pescado y añádelos solo en el reposo final para que no se queden gomosos.",
   tupper: false,
   contundencia: "media",
@@ -220,7 +220,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos fuera del fuego, termina con el resto del eneldo y sirve en plato hondo con su caldo."
   ],
   nutricion: { kcal: 565, prot: 36, hc: 56, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "invierno", "alta en proteína"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "invierno", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "En griego, «bakaliaros» designa tanto el bacalao como la merluza, y este guiso se hace con los dos: unos lomos de merluza congelada funcionan perfectamente. Muchas familias lo terminan con avgolemono: bate 1 huevo con el zumo del limón, añade poco a poco un cazo de caldo caliente y viértelo en la cazuela fuera del fuego. Aguanta 2 días en la nevera; recaliéntalo tapado a fuego suave.",
   tupper: true,
   contundencia: "media",
@@ -259,7 +259,7 @@ window.RECETAS_SEED.push({
     "Sirve la caballa sobre la horta de acelgas y patata y riega todo con el ladolemono."
   ],
   nutricion: { kcal: 625, prot: 36, hc: 33, grasa: 39 },
-  etiquetas: ["tradicional", "económica", "sin gluten", "alta en proteína"],
+  etiquetas: ["tradicional", "económica", "sin gluten", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "En Volos y en todo el golfo Pagasético la caballa (kolios) se asa entera sobre brasas y se acompaña de tsipouro. Si la compras entera, pide que te la limpien y ásala 5-6 minutos por cada lado. La horta puede ser de acelgas, espinacas, borrajas o achicoria: cualquier verdura de hoja hervida y aliñada con aceite y limón. Come la caballa al momento: recalentada pierde la piel crujiente.",
   tupper: false,
   contundencia: "media",
@@ -303,7 +303,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del eneldo, las hojitas del hinojo y, si quieres, pan para mojar (sin él, el plato es sin gluten)."
   ],
   nutricion: { kcal: 450, prot: 44, hc: 18, grasa: 22 },
-  etiquetas: ["tradicional", "ligera", "alta en proteína", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "ligera", "alta en proteína", "batch cooking", "invierno", "poco especiada"],
   consejo: "En Creta se hace con hinojo silvestre, del que se usan tallos y hojas: si lo encuentras en primavera, úsalo en lugar del bulbo y del eneldo. La sepia congelada suele quedar más tierna que la fresca, porque la congelación rompe sus fibras. Aguanta 3 días en la nevera y está aún mejor recalentada.",
   tupper: true,
   contundencia: "ligera",
@@ -349,7 +349,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos, quita los palillos, corta los calamares en rodajas gruesas y sírvelos con la salsa."
   ],
   nutricion: { kcal: 640, prot: 44, hc: 50, grasa: 30 },
-  etiquetas: ["tradicional", "al horno", "sin gluten", "alta en proteína", "fin de semana"],
+  etiquetas: ["tradicional", "al horno", "sin gluten", "alta en proteína", "fin de semana", "poco especiada"],
   consejo: "En las islas se rellenan calamares pequeños, de 12-15 cm; si solo encuentras grandes, usa 2 y alarga el horno 10 minutos. Puedes rellenarlos la víspera y guardarlos crudos en la nevera, ya en la fuente con la salsa: al día siguiente solo tienes que hornear. Aguantan 3 días en la nevera y también se comen templados.",
   tupper: true,
   contundencia: "media",
@@ -391,7 +391,7 @@ window.RECETAS_SEED.push({
     "Añade el zumo del medio limón, deja 1 minuto más y reposa 5 minutos antes de servir: la salsa debe quedar espesa, roja y brillante de aceite."
   ],
   nutricion: { kcal: 500, prot: 31, hc: 42, grasa: 23 },
-  etiquetas: ["tradicional", "picante", "sin gluten", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "picante", "sin gluten", "invierno", "batch cooking", "bajo en colesterol"],
   consejo: "En Corfú el bourdeto se hace con cabracho, pero también con cazón, gallineta o merluza; el rape es el más fácil de encontrar y no se deshace. El nombre viene del veneciano «brodetto». Lo tradicional es que pique de verdad: ajusta el pimentón picante a tu gusto o cámbialo por una pizca de cayena. Aguanta 2 días en la nevera y el sabor se asienta.",
   tupper: true,
   contundencia: "media",
@@ -432,7 +432,7 @@ window.RECETAS_SEED.push({
     "Sírvelas enseguida con gajos de limón, la ensalada y pan."
   ],
   nutricion: { kcal: 570, prot: 35, hc: 38, grasa: 31 },
-  etiquetas: ["tradicional", "rápida", "verano", "para picar"],
+  etiquetas: ["tradicional", "rápida", "verano", "para picar", "poco especiada"],
   consejo: "En Symi se usan unas gambitas rojas diminutas que se comen enteras, con cabeza y cáscara: fritas quedan como un aperitivo crujiente. En España la gamba arrocera, la quisquilla o el camarón dan el mismo resultado; con gambas más grandes, pélalas dejando la cabeza y la cola. Fríe siempre en tandas pequeñas para que el aceite no se enfríe y no se empapen.",
   tupper: false,
   contundencia: "media",
@@ -476,7 +476,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego incorpora todas las almejas, la ralladura y el zumo de medio limón, el eneldo picado y pimienta. Tapa 1 minuto y sirve enseguida, con el resto del limón en gajos."
   ],
   nutricion: { kcal: 545, prot: 23, hc: 63, grasa: 22 },
-  etiquetas: ["creativa", "verano", "para invitados"],
+  etiquetas: ["creativa", "verano", "para invitados", "poco especiada"],
   consejo: "El kritharoto (de kritharaki, el nombre griego del orzo) es un clásico de la cocina griega moderna: el orzo se trata como el arroz de un risotto. Si las almejas no vienen depuradas, déjalas 30 minutos en agua fría con sal para que suelten la arena. Sírvelo al momento: el orzo sigue absorbiendo caldo y en el táper se apelmaza.",
   tupper: false,
   contundencia: "media",
@@ -522,7 +522,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre la ensalada, con la salsa de yogur al lado y el limón restante en gajos."
   ],
   nutricion: { kcal: 615, prot: 36, hc: 20, grasa: 44 },
-  etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "verano", "keto", "poco especiada"],
   consejo: "Usa brochetas de madera cortas que quepan en la cesta y remójalas 10 minutos antes para que no se quemen. Sin airfryer, hornéalas a 220 °C 10-12 minutos o hazlas a la plancha 2 minutos por cada cara. Para un plato más completo, añade pan de pita tostado o un poco de arroz al limón.",
   tupper: false,
   contundencia: "media",
@@ -566,7 +566,7 @@ window.RECETAS_SEED.push({
     "Termina con los huevos en cuartos y el resto del aliño. Sirve templada o fría."
   ],
   nutricion: { kcal: 605, prot: 33, hc: 48, grasa: 31 },
-  etiquetas: ["creativa", "ideal para llevar", "sin gluten", "batch cooking", "verano"],
+  etiquetas: ["creativa", "ideal para llevar", "sin gluten", "batch cooking", "verano", "poco especiada"],
   consejo: "La patatosalata griega se aliña con aceite, limón y orégano, nunca con mayonesa, y por eso aguanta muy bien 3 días en la nevera: si la preparas con antelación, guarda el bonito y el huevo aparte y mézclalos al servir. Puedes cambiar el bonito por caballa o sardinas en conserva, o añadir pepino y tomate en verano.",
   tupper: true,
   contundencia: "media",
@@ -610,7 +610,7 @@ window.RECETAS_SEED.push({
     "Riega con el aceite de eneldo, termina con escamas de sal y pimienta y sirve enseguida."
   ],
   nutricion: { kcal: 385, prot: 30, hc: 17, grasa: 22 },
-  etiquetas: ["creativa", "ligera", "sin cocción", "verano", "para invitados"],
+  etiquetas: ["creativa", "ligera", "sin cocción", "verano", "para invitados", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Para comer pescado crudo o marinado en casa, congélalo antes al menos 5 días a -20 °C (o compra lubina ya ultracongelada): así se elimina el riesgo de anisakis. Descongélalo en la nevera la víspera. La misma marinada funciona con dorada, corvina o boquerones, que es como se prepara el gavros marinatos de las tabernas griegas. La pita es opcional: sin ella el plato es sin gluten.",
   tupper: false,
   contundencia: "ligera",
@@ -655,7 +655,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar para que el relleno se asiente."
   ],
   nutricion: { kcal: 720, prot: 47, hc: 43, grasa: 40 },
-  etiquetas: ["creativa", "al horno", "alta en proteína", "batch cooking", "fin de semana"],
+  etiquetas: ["creativa", "al horno", "alta en proteína", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "Mantén la pasta filo tapada con un paño húmedo mientras montas, porque se seca y se rompe en un minuto. Puedes usar merluza o bacalao congelados: descongélalos en la nevera y sécalos muy bien. Aguanta 3 días en la nevera; recaliéntala en el horno a 170 °C 10 minutos, no en el microondas, para que la filo vuelva a crujir.",
   tupper: true,
   contundencia: "contundente",
@@ -701,7 +701,7 @@ window.RECETAS_SEED.push({
     "Sirve la fava templada en plato hondo, el pulpo encima, la cebolla morada escurrida, las alcaparras y el aliño de limón y orégano por encima."
   ],
   nutricion: { kcal: 540, prot: 42, hc: 42, grasa: 23 },
-  etiquetas: ["creativa", "sin gluten", "alta en proteína", "para invitados"],
+  etiquetas: ["creativa", "sin gluten", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "La fava griega es de guisantes amarillos partidos, no de habas, y la de Santorini es la más famosa. Puedes hacer el puré hasta 3 días antes: se espesa en la nevera, así que recaliéntalo con un chorrito de agua. Si compras pulpo crudo, cuécelo 40-50 minutos en agua hirviendo hasta que se pinche con facilidad y déjalo enfriar en su agua antes de marcarlo.",
   tupper: false,
   contundencia: "media",
@@ -746,7 +746,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre la ensalada, con la pita y el resto del limón en gajos."
   ],
   nutricion: { kcal: 615, prot: 44, hc: 46, grasa: 28 },
-  etiquetas: ["creativa", "rápida", "verano", "alta en proteína"],
+  etiquetas: ["creativa", "rápida", "verano", "alta en proteína", "poco especiada"],
   consejo: "El halloumi es el queso de Chipre y aguanta la plancha sin derretirse; hoy se encuentra en casi todos los supermercados. Si no lo encuentras, usa un queso de cabra firme para plancha. En Chipre la ensalada de aldea lleva siempre cilantro fresco; si no te gusta, cámbialo por perejil. No sales el halloumi: ya es bastante salado.",
   tupper: false,
   contundencia: "media",
@@ -792,7 +792,7 @@ window.RECETAS_SEED.push({
     "Sirve la dorada sobre las espinacas, con la patata al lado y la salsa avgolemono por encima."
   ],
   nutricion: { kcal: 600, prot: 45, hc: 32, grasa: 32 },
-  etiquetas: ["creativa", "sin gluten", "alta en proteína"],
+  etiquetas: ["creativa", "sin gluten", "alta en proteína", "poco especiada"],
   consejo: "El secreto del avgolemono es templar el huevo: el caldo caliente se añade poco a poco y sin dejar de batir, y después la salsa nunca debe hervir. Si se corta, pásala unos segundos por la batidora con una cucharada de agua fría y se recupera. Queda igual de bien con lubina, merluza o bacalao.",
   tupper: false,
   contundencia: "media",
@@ -837,7 +837,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con el zumo del limón por encima."
   ],
   nutricion: { kcal: 620, prot: 41, hc: 28, grasa: 39 },
-  etiquetas: ["creativa", "al horno", "económica", "alta en proteína", "verano"],
+  etiquetas: ["creativa", "al horno", "económica", "alta en proteína", "verano", "poco especiada"],
   consejo: "Pide en la pescadería que te abran las sardinas en libro y les quiten la espina central: tardan un minuto y te ahorras la parte más pesada. La mejor temporada va de mayo a septiembre; fuera de ella funciona igual con boquerones grandes o filetes de caballa. Si lo quieres sin gluten, cambia el pan rallado por almendra molida.",
   tupper: false,
   contundencia: "media",
@@ -880,7 +880,7 @@ window.RECETAS_SEED.push({
     "Sirve los salmonetes sobre las patatas, con el tomate por encima y unas gotas del medio limón restante."
   ],
   nutricion: { kcal: 580, prot: 34, hc: 43, grasa: 30 },
-  etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "verano", "poco especiada"],
   consejo: "Los salmonetes (barbounia) son de los pescados más apreciados en Grecia, donde se suelen freír enteros. En filetes se hacen en 3 minutos: la piel, que es lo más sabroso, debe quedar tostada, así que no los muevas hasta que se despeguen solos de la plancha. Si no los encuentras, usa filetes de dorada o de lubina. La salsa de tomate rallado es la misma que se pone sobre el dakos de Creta y sirve para cualquier pescado a la plancha.",
   tupper: false,
   contundencia: "media",

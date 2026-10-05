@@ -46,7 +46,7 @@ window.RECETAS_SEED.push({
     "Añade la remolacha y el eneldo picado y mezcla con suavidad, sin aplastar. Deja reposar 10 minutos para que se asienten los sabores: verás cómo todo coge un tono rubí uniforme."
   ],
   nutricion: { kcal: 450, prot: 16, hc: 62, grasa: 14 },
-  etiquetas: ["tradicional", "vegana", "sin gluten", "ligera", "económica", "ideal para llevar", "batch cooking", "otoño", "invierno"],
+  etiquetas: ["tradicional", "vegana", "sin gluten", "ligera", "económica", "ideal para llevar", "batch cooking", "otoño", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El vinegret es la ensalada de diario de Rusia, Ucrania y Bielorrusia y no falta en la mesa de Año Nuevo; su nombre viene del francés vinaigrette. Las alubias (o los guisantes) lo convierten en plato único. Aguanta 3 días en la nevera y está incluso mejor al segundo. Si no encuentras aceite de girasol sin refinar, usa un aceite de oliva suave: el girasol refinado no aporta sabor.",
   tupper: true,
   contundencia: "ligera",
@@ -88,7 +88,7 @@ window.RECETAS_SEED.push({
     "Mézclalos en una fuente con la cebolla frita y su aceite para que se impregnen todos. Sirve con el resto del eneldo por encima y la smetana aparte."
   ],
   nutricion: { kcal: 740, prot: 22, hc: 110, grasa: 22 },
-  etiquetas: ["tradicional", "vegetariana", "económica", "para niños", "fin de semana", "invierno"],
+  etiquetas: ["tradicional", "vegetariana", "económica", "para niños", "fin de semana", "invierno", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Los varenyky de alubias son uno de los doce platos sin carne de la cena de Nochebuena ucraniana (Sviatyi Vechir); por eso la masa no lleva huevo y se riegan con cebolla frita en aceite. Haz el doble y congélalos crudos en una bandeja enharinada; cuando estén duros, pásalos a una bolsa y cuécelos directamente congelados, 2 minutos más. Los que sobren ya cocidos, dóralos al día siguiente en la sartén con un poco de mantequilla.",
   tupper: false,
   contundencia: "contundente",
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Sirve caliente, con pan de centeno si quieres."
   ],
   nutricion: { kcal: 530, prot: 22, hc: 65, grasa: 20 },
-  etiquetas: ["tradicional", "vegana", "de cuchara", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "vegana", "de cuchara", "económica", "batch cooking", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Es uno de los platos fijos de la Wigilia, la cena de Nochebuena polaca, en la que no se come carne; el resto del año se hace dorando la cebolla con tocino. Está aún más rico al día siguiente y aguanta 4 días en la nevera. Los guisantes partidos se venden en supermercados grandes y tiendas de productos del este; si no los encuentras, usa lentejas rojas, que se deshacen igual en 15 minutos.",
   tupper: true,
   contundencia: "media",
@@ -179,7 +179,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas en plato hondo con dos huevos encima y los pepinillos cortados en abanico al lado; acompaña con pan de centeno si quieres."
   ],
   nutricion: { kcal: 610, prot: 32, hc: 57, grasa: 27 },
-  etiquetas: ["tradicional", "vegetariana", "alta en proteína", "económica", "de cuchara", "invierno"],
+  etiquetas: ["tradicional", "vegetariana", "alta en proteína", "económica", "de cuchara", "invierno", "poco especiada"],
   consejo: "Las čočka na kyselo s vejcem a okurkou son un clásico de los comedores y tabernas checas; también se sirven con una salchicha cocida en lugar del huevo. Pon el vinagre siempre al final: si lo añades al principio, la piel de la lenteja se endurece y no se ablanda. Las lentejas aguantan 3 días en la nevera (espesan: aclara con agua al recalentar); el huevo, siempre recién frito.",
   tupper: true,
   contundencia: "media",
@@ -226,7 +226,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado y, si te gusta, unas gotas de vinagre en cada plato para avivarlo."
   ],
   nutricion: { kcal: 700, prot: 36, hc: 70, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "alta en proteína", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "alta en proteína", "batch cooking", "invierno", "poco especiada"],
   consejo: "El ričet es el guiso de las granjas alpinas de Eslovenia (en Austria lo llaman Ritschert) y se hacía con lo que había en la despensa: cebada, alubias y carne ahumada. Como todo guiso de cebada, espesa mucho en la nevera: al recalentarlo, añade un buen chorro de agua. Aguanta 4 días y se congela bien. Para una versión sin carne, cuécelo en caldo de verduras con una cucharadita de pimentón ahumado.",
   tupper: true,
   contundencia: "contundente",
@@ -272,7 +272,7 @@ window.RECETAS_SEED.push({
     "Sirve muy caliente con perejil picado."
   ],
   nutricion: { kcal: 570, prot: 40, hc: 55, grasa: 19 },
-  etiquetas: ["tradicional", "de cuchara", "alta en proteína", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "alta en proteína", "batch cooking", "invierno", "poco especiada"],
   consejo: "El grah es el guiso de diario de Bosnia y Herzegovina, y su toque propio es el suho meso, ternera curada y ahumada muy parecida a la cecina de León. Si no tienes cecina, usa 200 g de morcillo de ternera y una cucharadita de pimentón ahumado, y alarga la cocción 30 minutos. Aguanta 4 días en la nevera y mejora de un día para otro; allí se come con pan y cebolleta cruda.",
   tupper: true,
   contundencia: "media",
@@ -318,7 +318,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos fuera del horno, espolvorea perejil picado y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 520, prot: 19, hc: 60, grasa: 21 },
-  etiquetas: ["tradicional", "vegana", "al horno", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "vegana", "al horno", "económica", "batch cooking", "invierno", "bajo en colesterol"],
   consejo: "El tavče gravče es el plato nacional de Macedonia del Norte: tavče es la cazuela de barro y gravče, las alubias. Allí se usan las alubias grandes de Tetovo y pimientos rojos secos; el choricero da un resultado muy parecido. En la Nochebuena ortodoxa se sirve tal cual, y el resto del año suele acompañarse de salchichas asadas. Aguanta 4 días y se recalienta en el horno con un chorrito de agua.",
   tupper: true,
   contundencia: "media",
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con perejil picado."
   ],
   nutricion: { kcal: 430, prot: 19, hc: 54, grasa: 14 },
-  etiquetas: ["tradicional", "vegana", "sin gluten", "de cuchara", "ligera", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "vegana", "sin gluten", "de cuchara", "ligera", "económica", "batch cooking", "invierno", "detox", "bajo en colesterol"],
   consejo: "La bob chorba es la sopa de los monasterios búlgaros (la del monasterio de Rila es la más famosa) y el plato de vigilia por excelencia. Su aroma inconfundible viene de la menta seca y de la chubritsa, una ajedrea que en España se encuentra en herbolarios; si no la tienes, usa tomillo seco y una pizca más de menta. Aguanta 4 días en la nevera y se congela sin problema.",
   tupper: true,
   contundencia: "ligera",
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
     "Justo antes de servir, riega con el aceite de pepitas de calabaza (siempre en crudo: el calor le quita el aroma) y espolvorea el perejil picado y las semillas. Si la haces con huevo duro, ponlo en cuartos por encima."
   ],
   nutricion: { kcal: 420, prot: 18, hc: 42, grasa: 19 },
-  etiquetas: ["tradicional", "vegetariana", "sin gluten", "rápida", "ligera", "económica", "ideal para llevar", "verano"],
+  etiquetas: ["tradicional", "vegetariana", "sin gluten", "rápida", "ligera", "económica", "ideal para llevar", "verano", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "En el norte de Croacia (Zagorje y Međimurje), igual que en la vecina Estiria eslovena, la ensalada de alubias se aliña con bučino ulje, un aceite de pepitas de calabaza tostadas de color verde oscuro y sabor a pipa. Al mezclarse con el vinagre se emulsiona y el aliño se vuelve casi negro: es normal. La ensalada aguanta 3 días en la nevera; añade el aceite y las semillas al servir.",
   tupper: true,
   contundencia: "ligera",
@@ -447,7 +447,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa con los picatostes por encima en el último momento y el eneldo picado."
   ],
   nutricion: { kcal: 810, prot: 40, hc: 90, grasa: 32 },
-  etiquetas: ["tradicional", "de cuchara", "alta en proteína", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "alta en proteína", "económica", "batch cooking", "invierno", "poco especiada"],
   consejo: "La sopa de guisantes con ahumados era plato fijo de los comedores soviéticos y sigue siendo una de las sopas caseras más queridas en Rusia; los picatostes (sujariki) se ponen siempre en el último momento para que crujan. Los guisantes partidos no necesitan remojo. La sopa aguanta 3 días en la nevera pero espesa mucho: al recalentarla, aclárala con agua y haz los picatostes al momento.",
   tupper: true,
   contundencia: "contundente",
@@ -491,7 +491,7 @@ window.RECETAS_SEED.push({
     "Abre las pitas, unta el interior con el kajmak, mete 6 ćevapi en cada una y termina con el ajvar y la cebolla cruda picada."
   ],
   nutricion: { kcal: 780, prot: 26, hc: 82, grasa: 37 },
-  etiquetas: ["creativa", "vegetariana", "para niños", "económica"],
+  etiquetas: ["creativa", "vegetariana", "para niños", "económica", "sin verduras", "poco especiada"],
   consejo: "En Bosnia los ćevapi son de ternera y se sirven en somun, un pan esponjoso, con kajmak (nata cuajada y salada) y cebolla cruda; esta versión de legumbre conserva todo lo demás. Si no encuentras ajvar, tritura un pimiento rojo asado con media berenjena asada, un ajo y unas gotas de vinagre. Puedes formarlos y congelarlos crudos; sin airfryer, hornéalos a 200 °C 18 minutos.",
   tupper: true,
   contundencia: "contundente",
@@ -530,7 +530,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con el bacon crujiente por encima y el cebollino picado."
   ],
   nutricion: { kcal: 580, prot: 27, hc: 36, grasa: 35 },
-  etiquetas: ["creativa", "rápida", "una sola sartén", "sin gluten", "alta en proteína"],
+  etiquetas: ["creativa", "rápida", "una sola sartén", "sin gluten", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Las bryndzové halušky, ñoquis de patata con queso de oveja y tocino, son el plato nacional de Eslovaquia; aquí los garbanzos tostados hacen de halušky y el plato está listo en 20 minutos. La bryndza es un queso de oveja cremoso y salado que casi no se encuentra en España: el feta de oveja chafado con nata agria se le parece mucho. Cómelo al momento: recalentado, el queso se vuelve gomoso.",
   tupper: false,
   contundencia: "media",
@@ -573,7 +573,7 @@ window.RECETAS_SEED.push({
     "Sirve los draniki recién hechos, con la smetana al eneldo por encima o aparte."
   ],
   nutricion: { kcal: 690, prot: 23, hc: 70, grasa: 34 },
-  etiquetas: ["creativa", "vegetariana", "para niños", "económica"],
+  etiquetas: ["creativa", "vegetariana", "para niños", "económica", "sin verduras", "poco especiada"],
   consejo: "Los draniki son el plato nacional de Bielorrusia (su nombre viene de drats, rallar); las lentejas rojas les añaden proteína y un centro más tierno sin cambiar su sabor. El truco está en escurrir bien la patata y devolverle su propio almidón: así no necesitan más harina y quedan crujientes. Si sobran, recaliéntalos en el horno a 200 °C 8 minutos; en el microondas se ablandan.",
   tupper: false,
   contundencia: "contundente",
@@ -618,7 +618,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas templadas con la ćwikła al lado, la caballa por encima, los rábanos y mucho eneldo picado."
   ],
   nutricion: { kcal: 600, prot: 33, hc: 49, grasa: 29 },
-  etiquetas: ["creativa", "alta en proteína", "sin gluten", "ideal para llevar", "otoño"],
+  etiquetas: ["creativa", "alta en proteína", "sin gluten", "ideal para llevar", "otoño", "superalimentos"],
   consejo: "La ćwikła, remolacha con rábano picante, acompaña los fiambres de la Pascua polaca, y la caballa ahumada (makrela wędzona) es un clásico de los mercados de la costa báltica: juntas convierten unas lentejas en un plato muy polaco. Aguanta 3 días en la nevera si guardas la caballa y la ćwikła aparte y pones el eneldo al servir. Si no encuentras caballa ahumada, usa caballa en aceite bien escurrida.",
   tupper: true,
   contundencia: "media",
@@ -664,7 +664,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con una rodaja de limón, una cucharada de smetana y el eneldo picado; exprime un poco más de limón por encima si te gusta."
   ],
   nutricion: { kcal: 640, prot: 41, hc: 41, grasa: 33 },
-  etiquetas: ["creativa", "alta en proteína", "de cuchara", "invierno"],
+  etiquetas: ["creativa", "alta en proteína", "de cuchara", "invierno", "superalimentos", "poco especiada"],
   consejo: "La solyanka es, con el shchi y el rassólnik, una de las grandes sopas agrias rusas: lleva pepinillo, alcaparras, aceitunas y limón, y se hace con carne, con setas o con pescado (antiguamente, con esturión). Aquí las alubias la convierten en un plato único. Para hacerla más económica, cambia el salmón por merluza o bacalao fresco. Cómela al momento: el salmón recalentado se seca.",
   tupper: false,
   contundencia: "media",
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
     "Sirve las alubias con su salsa, una rodaja fina de limón con una cucharada de mermelada de arándanos encima y el pan al lado para mojar."
   ],
   nutricion: { kcal: 690, prot: 26, hc: 88, grasa: 25 },
-  etiquetas: ["creativa", "batch cooking", "para invitados", "otoño", "invierno"],
+  etiquetas: ["creativa", "batch cooking", "para invitados", "otoño", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "La svíčková na smetaně es el gran asado de domingo checo: solomillo de ternera en una salsa de raíces y nata, servido con knedlíky (pan cocido al vapor), arándanos, limón y nata montada. Aquí la salsa, que es lo que todos esperan, envuelve unas alubias. Aguanta 3 días en la nevera y se congela bien; para una versión vegetariana, cambia el bacon por una cucharada de mantequilla y una pizca de pimentón ahumado.",
   tupper: true,
   contundencia: "contundente",
@@ -756,7 +756,7 @@ window.RECETAS_SEED.push({
     "Aparta del fuego, reparte por encima el resto del feta y el perejil picado y sirve enseguida."
   ],
   nutricion: { kcal: 570, prot: 30, hc: 40, grasa: 32 },
-  etiquetas: ["creativa", "vegetariana", "rápida", "una sola sartén", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["creativa", "vegetariana", "rápida", "una sola sartén", "sin gluten", "alta en proteína", "verano", "poco especiada"],
   consejo: "El mish-mash es el revuelto de verano de Bulgaria, con pimientos, tomate, huevo y sirene; las alubias lo convierten en una cena completa. Si tienes pimientos asados en tarro, úsalos: así lo hacen muchas casas búlgaras y gana un punto ahumado. Retira la sartén cuando el huevo aún brille: con el calor residual termina de cuajar.",
   tupper: false,
   contundencia: "media",
@@ -799,7 +799,7 @@ window.RECETAS_SEED.push({
     "Corta el pavo en tiras gruesas, colócalo sobre las alubias con el jugo que haya soltado y espolvorea perejil picado."
   ],
   nutricion: { kcal: 640, prot: 47, hc: 53, grasa: 25 },
-  etiquetas: ["creativa", "al horno", "alta en proteína", "para invitados", "otoño", "invierno"],
+  etiquetas: ["creativa", "al horno", "alta en proteína", "para invitados", "otoño", "invierno", "sin verduras", "poco especiada"],
   consejo: "La purica s mlincima, pavo asado con mlinci, es el plato de fiesta del Zagorje, al norte de Zagreb: los mlinci son láminas de masa seca que se empapan en el jugo del asado. Aquí las alubias recogen ese jugo y pasan a ser la base del plato, y las tortillas de trigo tostadas son un atajo que funciona sorprendentemente bien. Con contramuslos de pollo, reduce el asado a 25 minutos. Aguanta 3 días en la nevera; al recalentar, añade un chorrito de caldo.",
   tupper: true,
   contundencia: "media",
@@ -844,7 +844,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con el resto del perejil por encima."
   ],
   nutricion: { kcal: 670, prot: 46, hc: 55, grasa: 26 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "batch cooking", "verano"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "batch cooking", "verano", "poco especiada"],
   consejo: "El đuveč es la cazuela serbia de verduras de verano (pimiento, berenjena, tomate) horneadas con arroz y, a menudo, carne; su nombre viene del recipiente de barro en que se hace. Aquí los garbanzos sustituyen al arroz y absorben igual el jugo. Aguanta 3 días en la nevera y mejora recalentado. En Serbia se acompaña de yogur natural y pan.",
   tupper: true,
   contundencia: "contundente",
@@ -888,7 +888,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos, aplasta los ajos asados en el jugo y sirve en la misma fuente."
   ],
   nutricion: { kcal: 800, prot: 47, hc: 66, grasa: 36 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "para invitados", "fin de semana", "invierno"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "para invitados", "fin de semana", "invierno", "poco especiada"],
   consejo: "Ispod sača («bajo la campana») es la forma más apreciada de asar en Montenegro, Bosnia y Serbia: la carne y las patatas se cubren con una campana de hierro sobre la que se ponen brasas, de modo que primero se cuecen en su vapor y luego se doran. En esta versión las alubias son la base del plato: se añaden al final para que absorban todo el jugo del cordero sin deshacerse. También funciona con cabrito o con paletilla de cerdo. Aguanta 3 días en la nevera; recaliéntalo tapado en el horno.",
   tupper: true,
   contundencia: "contundente",

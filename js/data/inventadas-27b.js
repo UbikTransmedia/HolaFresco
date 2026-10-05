@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Lentejas de vigilia con verduras y huevo duro",
   subtitulo: "estofadas con patata, pimentón y laurel",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "española",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -41,7 +41,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas con un huevo duro en cuartos por plato y, si te gusta, unas gotas de vinagre."
   ],
   nutricion: { kcal: 664, prot: 32, hc: 80, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "batch cooking", "invierno", "poco especiada"],
   consejo: "Las lentejas se echan siempre en agua fría y, si al hervir les añades un chorrito de agua fría ('asustarlas'), conservan mejor la piel. Al día siguiente están todavía más buenas.",
   contundencia: "contundente",
   coste: "económica"
@@ -52,7 +52,7 @@ window.RECETAS_SEED.push({
   nombre: "Garbanzos guisados con acelgas, patata y huevo duro",
   subtitulo: "potaje de vigilia con picada de pan frito y ajo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "española",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -84,7 +84,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y la media cebolla y sirve en plato hondo con el huevo duro picado por encima."
   ],
   nutricion: { kcal: 730, prot: 32, hc: 92, grasa: 26 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "batch cooking", "invierno", "superalimentos", "poco especiada"],
   consejo: "Si se te olvidó el remojo, usa 400 g de garbanzos cocidos de bote bien enjuagados: empieza en el paso del sofrito y en 35 minutos tienes el potaje.",
   contundencia: "contundente",
   coste: "económica"
@@ -95,7 +95,7 @@ window.RECETAS_SEED.push({
   nombre: "Alubias blancas estofadas con verduras y huevo escalfado",
   subtitulo: "a la manera de la huerta, con puerro, zanahoria y pimentón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "española",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con un huevo por ración."
   ],
   nutricion: { kcal: 680, prot: 32, hc: 84, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Triturar las verduras de la cocción con unas pocas alubias es el truco para un caldo espeso y sabroso sin añadir harina. Sala siempre al final: la sal al principio endurece la piel.",
   contundencia: "contundente",
   coste: "económica"
@@ -137,7 +137,7 @@ window.RECETAS_SEED.push({
   nombre: "Sopa castellana de ajo con huevo escalfado",
   subtitulo: "con pan asentado y pimentón de la Vera",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "sopas-cremas",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -163,7 +163,7 @@ window.RECETAS_SEED.push({
     "Casca los huevos sobre la sopa con cuidado, separados, tapa y deja 3-4 minutos a fuego mínimo, hasta que las claras cuajen. Sirve muy caliente, con perejil picado si quieres."
   ],
   nutricion: { kcal: 462, prot: 22, hc: 44, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "rápida", "económica", "invierno", "ligera"],
+  etiquetas: ["tradicional", "de cuchara", "rápida", "económica", "invierno", "ligera", "sin verduras", "poco especiada"],
   consejo: "Es la sopa de aprovechamiento por excelencia: cuanto más duro el pan, mejor. Si prefieres el huevo integrado, bátelo y échalo en hilo removiendo, como en la sopa de mi abuela.",
   contundencia: "ligera",
   coste: "económica"
@@ -174,7 +174,7 @@ window.RECETAS_SEED.push({
   nombre: "Hervido valenciano con huevo duro y aceite crudo",
   subtitulo: "patata, judía verde, cebolla y zanahoria, con sal y buen aceite",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -200,7 +200,7 @@ window.RECETAS_SEED.push({
     "Escurre las verduras (guarda el caldo para una sopa) y sírvelas en plato hondo con los huevos pelados en mitades. Aliña en la mesa con el aceite crudo, sal y unas gotas de vinagre al gusto, aplastando un poco la patata."
   ],
   nutricion: { kcal: 470, prot: 16, hc: 52, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "poco especiada"],
   consejo: "Es un plato de una sencillez total, así que la calidad del aceite lo es todo. En Valencia se cuecen los huevos en la misma olla que las verduras: ahorras fuego y cacharros.",
   contundencia: "ligera",
   coste: "económica"
@@ -211,7 +211,7 @@ window.RECETAS_SEED.push({
   nombre: "Piperrada vasca con huevos y pan tostado",
   subtitulo: "pimientos rojos y verdes pochados con tomate, ligados con huevo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -239,7 +239,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y sirve la piperrada caliente con las tostadas."
   ],
   nutricion: { kcal: 474, prot: 20, hc: 40, grasa: 26 },
-  etiquetas: ["tradicional", "verano", "fácil", "una sola sartén", "ligera"],
+  etiquetas: ["tradicional", "verano", "fácil", "una sola sartén", "ligera", "poco especiada"],
   consejo: "En Euskadi hay quien la sirve con el huevo cuajado entero encima en vez de revuelto: ambas son válidas. Si haces más cantidad de pimientos con tomate, te sirve de base para varios días.",
   contundencia: "ligera",
   coste: "media"
@@ -250,7 +250,7 @@ window.RECETAS_SEED.push({
   nombre: "Crema de calabacín y queso con picatostes",
   subtitulo: "la crema suave de toda la vida, con puerro y patata",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "sopas-cremas",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -278,7 +278,7 @@ window.RECETAS_SEED.push({
     "Sirve caliente con los picatostes por encima."
   ],
   nutricion: { kcal: 430, prot: 12, hc: 46, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "para niños", "batch cooking", "ligera"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "para niños", "batch cooking", "ligera", "poco especiada"],
   consejo: "No peles el calabacín: la piel le da el color verde y buena parte del sabor. Los quesitos en porciones de toda la vida funcionan igual de bien que el queso crema: usa 3.",
   contundencia: "ligera",
   coste: "media"
@@ -289,7 +289,7 @@ window.RECETAS_SEED.push({
   nombre: "Espinacas a la crema con huevos duros gratinados",
   subtitulo: "con bechamel ligera, ajo y nuez moscada",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -319,7 +319,7 @@ window.RECETAS_SEED.push({
     "Gratina 5-6 minutos, hasta que el queso se dore. Sirve con el pan."
   ],
   nutricion: { kcal: 562, prot: 30, hc: 34, grasa: 34 },
-  etiquetas: ["tradicional", "rápida", "fácil", "para niños", "al horno"],
+  etiquetas: ["tradicional", "rápida", "fácil", "para niños", "al horno", "poco especiada"],
   consejo: "Si usas espinacas congeladas (400 g), descongélalas y escúrrelas muy bien: el agua que retienen aguaría la bechamel. Un puñado de piñones o pasas les da el toque catalán.",
   contundencia: "media",
   coste: "media"
@@ -330,7 +330,7 @@ window.RECETAS_SEED.push({
   nombre: "Puerros gratinados con bechamel sobre patatas cocidas",
   subtitulo: "con queso fundido y nuez moscada",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -358,7 +358,7 @@ window.RECETAS_SEED.push({
     "Gratina 10-12 minutos, hasta que la superficie esté dorada y burbujeante. Deja reposar 5 minutos y sirve."
   ],
   nutricion: { kcal: 598, prot: 22, hc: 60, grasa: 30 },
-  etiquetas: ["tradicional", "al horno", "invierno", "fácil"],
+  etiquetas: ["tradicional", "al horno", "invierno", "fácil", "poco especiada"],
   consejo: "Escurre los puerros a conciencia, incluso presionándolos suavemente con papel: retienen mucha agua y si no la sueltan antes, la bechamel se aguará en el horno.",
   contundencia: "media",
   coste: "media"
@@ -369,7 +369,7 @@ window.RECETAS_SEED.push({
   nombre: "Coliflor rebozada con salsa de tomate casera",
   subtitulo: "ramilletes rebozados en harina y huevo, como en casa de la abuela",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
     "Sirve la coliflor rebozada con la salsa de tomate caliente por encima o al lado, y el pan."
   ],
   nutricion: { kcal: 616, prot: 20, hc: 62, grasa: 32 },
-  etiquetas: ["tradicional", "para niños", "económica", "invierno"],
+  etiquetas: ["tradicional", "para niños", "económica", "invierno", "poco especiada"],
   consejo: "La coliflor debe estar bien seca antes de rebozar o el huevo resbalará. Es la mejor forma de que los niños coman coliflor: con tomate casero no queda ni un ramillete.",
   contundencia: "media",
   coste: "media"
@@ -408,7 +408,7 @@ window.RECETAS_SEED.push({
   nombre: "Trinxat de la Cerdanya con huevos fritos",
   subtitulo: "torta de col y patata aplastadas y doradas con ajo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida"],
   proteina: "huevo",
@@ -434,7 +434,7 @@ window.RECETAS_SEED.push({
     "En otra sartén con el aceite restante fríe los huevos y sírvelos sobre las porciones de trinxat."
   ],
   nutricion: { kcal: 744, prot: 24, hc: 72, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "invierno", "económica", "fácil"],
+  etiquetas: ["tradicional", "saciante", "invierno", "económica", "fácil", "poco especiada"],
   consejo: "La costra dorada es lo mejor del trinxat, así que no le des la vuelta antes de tiempo: cuando al mover la sartén la torta se desplace entera, está lista. La col de después de las heladas es más dulce.",
   contundencia: "contundente",
   coste: "económica"
@@ -445,7 +445,7 @@ window.RECETAS_SEED.push({
   nombre: "Lombarda a la madrileña con manzana, pasas y piñones",
   subtitulo: "con patatas cocidas y huevos escalfados",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -477,7 +477,7 @@ window.RECETAS_SEED.push({
     "Sirve la lombarda con las patatas al lado y dos huevos escalfados por ración."
   ],
   nutricion: { kcal: 586, prot: 22, hc: 66, grasa: 26 },
-  etiquetas: ["tradicional", "invierno", "para invitados", "batch cooking"],
+  etiquetas: ["tradicional", "invierno", "para invitados", "batch cooking", "poco especiada"],
   consejo: "Es el acompañamiento de la Nochebuena madrileña, pero con huevo y patata se convierte en un plato completo. Se conserva muy bien cuatro días y gana sabor al recalentarla.",
   contundencia: "media",
   coste: "media"
@@ -488,7 +488,7 @@ window.RECETAS_SEED.push({
   nombre: "Gratín dauphinois de patatas con nata y gruyère",
   subtitulo: "con ensalada verde a la vinagreta",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida"],
   proteina: "queso",
@@ -519,7 +519,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos para que se asiente. Mientras, aliña los canónigos con el aceite, el vinagre y sal, y sirve junto al gratín."
   ],
   nutricion: { kcal: 798, prot: 22, hc: 74, grasa: 46 },
-  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "invierno", "de domingo"],
+  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "invierno", "de domingo", "poco especiada"],
   consejo: "Cocer primero las patatas en la nata es el truco de las abuelas del Delfinado: así el gratín queda cremoso y no se corta. Las patatas, siempre finas e iguales para que se hagan a la vez.",
   contundencia: "contundente",
   coste: "premium"
@@ -530,7 +530,7 @@ window.RECETAS_SEED.push({
   nombre: "Crepes de espinacas y requesón gratinados con bechamel",
   subtitulo: "crepes caseras rellenas y horneadas con queso gruyère",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida"],
   proteina: "queso",
@@ -560,7 +560,7 @@ window.RECETAS_SEED.push({
     "Cubre con la bechamel, espolvorea el gruyère y hornea 15 minutos, hasta que estén doradas y burbujeantes."
   ],
   nutricion: { kcal: 796, prot: 36, hc: 64, grasa: 44 },
-  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "de domingo", "poco especiada"],
   consejo: "La primera crepe casi siempre sale mal: es la que calibra la sartén. Las crepes se pueden hacer el día antes y guardarlas apiladas y tapadas en la nevera.",
   contundencia: "contundente",
   coste: "premium"
@@ -571,7 +571,7 @@ window.RECETAS_SEED.push({
   nombre: "Tortilla de espárragos trigueros y ajetes",
   subtitulo: "jugosa, a la española, con pan tostado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -595,7 +595,7 @@ window.RECETAS_SEED.push({
     "Dale la vuelta con un plato y cuaja 1-2 minutos más, hasta que esté dorada por fuera y jugosa por dentro. Sirve con el pan tostado."
   ],
   nutricion: { kcal: 536, prot: 26, hc: 36, grasa: 32 },
-  etiquetas: ["tradicional", "rápida", "fácil", "ideal para llevar"],
+  etiquetas: ["tradicional", "rápida", "fácil", "ideal para llevar", "poco especiada"],
   consejo: "En primavera, cuando hay trigueros silvestres, esta tortilla es un lujo de pueblo. Los tallos tardan más que las yemas: por eso se echan antes y las puntas al final.",
   contundencia: "media",
   coste: "premium"
@@ -606,7 +606,7 @@ window.RECETAS_SEED.push({
   nombre: "Pastel de patata gratinado con verduras y queso",
   subtitulo: "capas de puré casero y sofrito de verduras con tomate",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida"],
   proteina: "queso",
@@ -639,7 +639,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de cortar en porciones."
   ],
   nutricion: { kcal: 712, prot: 24, hc: 82, grasa: 32 },
-  etiquetas: ["tradicional", "al horno", "saciante", "para niños", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "saciante", "para niños", "económica", "batch cooking", "poco especiada"],
   consejo: "Pasa el tenedor por la superficie del puré antes de echar el queso: esas rayas se doran y quedan crujientes. Puedes montarlo la víspera y hornearlo justo antes de comer.",
   contundencia: "contundente",
   coste: "económica"
@@ -650,7 +650,7 @@ window.RECETAS_SEED.push({
   nombre: "Patatas revolconas con pimentón y huevos fritos",
   subtitulo: "el machacado abulense de patata, ajo y pimentón, sin torreznos",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida"],
   proteina: "huevo",
@@ -688,7 +688,7 @@ window.RECETAS_SEED.push({
   nombre: "Rösti suizo de patata con huevos fritos y ensalada",
   subtitulo: "torta crujiente de patata rallada dorada en mantequilla",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida"],
   proteina: "huevo",
@@ -717,7 +717,7 @@ window.RECETAS_SEED.push({
     "Corta el rösti en porciones y sírvelo con dos huevos encima y la ensalada al lado."
   ],
   nutricion: { kcal: 694, prot: 22, hc: 66, grasa: 38 },
-  etiquetas: ["tradicional", "saciante", "económica", "fácil"],
+  etiquetas: ["tradicional", "saciante", "económica", "fácil", "poco especiada"],
   consejo: "La patata cocida el día anterior y bien fría es el truco suizo: se ralla mejor y el rösti queda crujiente y no pegajoso. Si te sobran patatas cocidas de otra comida, este es su destino.",
   contundencia: "contundente",
   coste: "económica"
@@ -728,7 +728,7 @@ window.RECETAS_SEED.push({
   nombre: "Ensaladilla rusa de la abuela con huevo duro y piquillos",
   subtitulo: "patata, zanahoria y guisantes con mayonesa y aceitunas",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "ensaladas",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -755,7 +755,7 @@ window.RECETAS_SEED.push({
     "Pasa a una fuente, alisa y decora con tiras de piquillo, las aceitunas y el último huevo en rodajas. Refrigera al menos 15 minutos antes de servir."
   ],
   nutricion: { kcal: 630, prot: 18, hc: 54, grasa: 38 },
-  etiquetas: ["tradicional", "verano", "fácil", "ideal para llevar", "para invitados"],
+  etiquetas: ["tradicional", "verano", "fácil", "ideal para llevar", "para invitados", "poco especiada"],
   consejo: "Mezcla la patata con la mayonesa cuando aún está templada, no fría: absorbe mejor el aliño y la ensaladilla queda más sabrosa. Para una mayonesa casera: 1 huevo, 200 ml de aceite suave, sal y unas gotas de limón con la batidora, sin levantarla hasta que emulsione.",
   contundencia: "media",
   coste: "media"
@@ -766,7 +766,7 @@ window.RECETAS_SEED.push({
   nombre: "Berenjenas fritas con miel de caña y salmorejo",
   subtitulo: "con huevo duro picado sobre el salmorejo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida"],
   proteina: "verdura",
@@ -796,7 +796,7 @@ window.RECETAS_SEED.push({
     "Sirve las berenjenas recién fritas con un hilo de miel de caña por encima y el salmorejo frío en un cuenco aparte, coronado con el huevo picado."
   ],
   nutricion: { kcal: 832, prot: 18, hc: 82, grasa: 48 },
-  etiquetas: ["tradicional", "verano", "saciante", "para invitados"],
+  etiquetas: ["tradicional", "verano", "saciante", "para invitados", "poco especiada"],
   consejo: "La miel de caña (melaza) es la de toda la vida en Andalucía; si no la encuentras, usa miel de flores rebajada con unas gotas de agua. Las berenjenas, al plato nada más freírlas, que reblandecen enseguida.",
   contundencia: "contundente",
   coste: "media"
@@ -807,7 +807,7 @@ window.RECETAS_SEED.push({
   nombre: "Tortilla de berenjena y cebolla con pimientos del piquillo",
   subtitulo: "berenjena pochada lentamente, con pan",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -834,7 +834,7 @@ window.RECETAS_SEED.push({
     "Sirve la tortilla en porciones con los piquillos por encima y el pan."
   ],
   nutricion: { kcal: 562, prot: 24, hc: 40, grasa: 34 },
-  etiquetas: ["tradicional", "fácil", "verano", "ideal para llevar"],
+  etiquetas: ["tradicional", "fácil", "verano", "ideal para llevar", "poco especiada"],
   consejo: "Tapar la sartén al pochar la berenjena hace que se cueza en su propio vapor y absorba mucho menos aceite. Si te gusta con queso, unos dados de queso fresco en la mezcla le quedan de maravilla.",
   contundencia: "media",
   coste: "media"
@@ -845,7 +845,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos en salsa de la abuela con patatas fritas",
   subtitulo: "huevos duros en salsa de tomate, cebolla y pimiento al vino blanco",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -875,7 +875,7 @@ window.RECETAS_SEED.push({
     "Sirve los huevos con su salsa y las patatas fritas al lado para mojar."
   ],
   nutricion: { kcal: 610, prot: 22, hc: 54, grasa: 34 },
-  etiquetas: ["tradicional", "fácil", "económica", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "para niños", "poco especiada"],
   consejo: "Era la cena de aprovechamiento cuando sobraba salsa de otro guiso. Si la quieres más fina, tritura la salsa antes de añadir los huevos y añade unos guisantes en los últimos minutos.",
   contundencia: "media",
   coste: "económica"
@@ -886,7 +886,7 @@ window.RECETAS_SEED.push({
   nombre: "Patatas viudas con pimiento choricero y huevo escalfado",
   subtitulo: "guisadas sin carne, con todo el sabor del sofrito",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -916,7 +916,7 @@ window.RECETAS_SEED.push({
     "Casca los huevos sobre el guiso, tapa y cuece 4 minutos a fuego suave. Reposa 5 minutos y sirve un huevo por plato."
   ],
   nutricion: { kcal: 566, prot: 18, hc: 74, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Se llaman 'viudas' porque no llevan carne: todo el sabor sale del sofrito y del pimiento choricero. Cascar las patatas en vez de cortarlas suelta el almidón que espesa el caldo.",
   contundencia: "media",
   coste: "económica"
@@ -927,7 +927,7 @@ window.RECETAS_SEED.push({
   nombre: "Champiñones rellenos de ajo, perejil y queso con patatas al romero",
   subtitulo: "gratinados al horno en la misma bandeja",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -956,7 +956,7 @@ window.RECETAS_SEED.push({
     "Sirve todo junto, bien caliente."
   ],
   nutricion: { kcal: 588, prot: 22, hc: 62, grasa: 28 },
-  etiquetas: ["tradicional", "al horno", "fácil", "para invitados"],
+  etiquetas: ["tradicional", "al horno", "fácil", "para invitados", "poco especiada"],
   consejo: "No laves los champiñones bajo el grifo: absorben agua como una esponja y luego la sueltan en el horno. Un paño húmedo o un cepillo suave es suficiente.",
   contundencia: "media",
   coste: "media"
@@ -967,7 +967,7 @@ window.RECETAS_SEED.push({
   nombre: "Canelones de espinacas a la catalana con piñones y pasas",
   subtitulo: "con requesón, bechamel y parmesano gratinado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "española",
   momentos: ["comida"],
   proteina: "queso",
@@ -1001,7 +1001,7 @@ window.RECETAS_SEED.push({
     "Hornea 15 minutos y gratina 3-4 minutos más, hasta que estén dorados. Reposa 5 minutos antes de servir."
   ],
   nutricion: { kcal: 806, prot: 34, hc: 82, grasa: 38 },
-  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "de domingo", "poco especiada"],
   consejo: "Las espinacas con piñones y pasas son un clásico catalán de Cuaresma. Prepara los canelones rellenos la víspera y gratínalos al día siguiente: la bechamel se asienta y quedan todavía mejor.",
   contundencia: "contundente",
   coste: "premium"

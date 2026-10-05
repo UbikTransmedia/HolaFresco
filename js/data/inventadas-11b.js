@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Anda bhurji: huevos revueltos especiados con naan a la sartén y raita de pepino",
   subtitulo: "con tomate, cebolla, chile verde y cilantro",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -54,7 +54,7 @@ window.RECETAS_SEED.push({
   nombre: "Calabacín a la plancha con ricotta al limón, huevo poché y migas de ajo",
   subtitulo: "con albahaca fresca y un hilo de aceite de oliva",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -85,7 +85,7 @@ window.RECETAS_SEED.push({
     "Termina con las migas, la albahaca rota con las manos, el resto de la ralladura de limón y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 430, prot: 22, hc: 30, grasa: 24 },
-  etiquetas: ["rápida", "ligera", "verano", "cena ligera"],
+  etiquetas: ["rápida", "ligera", "verano", "cena ligera", "poco especiada"],
   consejo: "Si la ricotta está muy húmeda, déjala escurrir 10 minutos en un colador: así queda más untuosa y no encharca el plato.",
   contundencia: "ligera",
   coste: "media"
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
   nombre: "Halloumi a la sartén con sandía, pepino, menta y zumaque",
   subtitulo: "con aliño de lima y miel y pan de pita tostado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "ensaladas",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
     "Aliña la sandía y el pepino con la vinagreta, reparte el halloumi caliente por encima y termina con hojas de menta y el resto del zumaque. Sirve enseguida con la pita."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 28, grasa: 28 },
-  etiquetas: ["rápida", "verano", "ligera", "sin horno"],
+  etiquetas: ["rápida", "verano", "ligera", "sin horno", "poco especiada"],
   consejo: "El halloumi se endurece al enfriarse, así que hazlo en el último momento y sírvelo recién salido de la sartén sobre la ensalada bien fría: el contraste es la gracia del plato.",
   contundencia: "ligera",
   coste: "media"
@@ -137,7 +137,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos revueltos con tomate al estilo chino y arroz jazmín",
   subtitulo: "fan qie chao dan con cebolleta, jengibre y un toque de soja",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz con el verde de la cebolleta y el resto del aceite de sésamo por encima."
   ],
   nutricion: { kcal: 540, prot: 20, hc: 68, grasa: 20 },
-  etiquetas: ["rápida", "económica", "para niños", "comida casera china"],
+  etiquetas: ["rápida", "económica", "para niños", "comida casera china", "poco especiada"],
   consejo: "Es el plato casero más popular de China: el truco es retirar el huevo muy pronto, porque terminará de hacerse con la salsa de tomate.",
   contundencia: "media",
   coste: "económica"
@@ -179,7 +179,7 @@ window.RECETAS_SEED.push({
   nombre: "Molletes de alubias negras refritas y queso gratinado con pico de gallo",
   subtitulo: "sobre pan crujiente, con aguacate y lima",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "latinoamericana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -223,7 +223,7 @@ window.RECETAS_SEED.push({
   nombre: "Tostadas de aguacate machacado con huevo poché, rábanos y yogur picante",
   subtitulo: "sobre pan de centeno, con semillas de calabaza y lima",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "fusión",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -254,7 +254,7 @@ window.RECETAS_SEED.push({
     "Monta: una capa de yogur picante, el aguacate, los canónigos, el huevo poché y los rábanos. Termina con las semillas, pimienta y gajos de lima."
   ],
   nutricion: { kcal: 460, prot: 18, hc: 36, grasa: 27 },
-  etiquetas: ["rápida", "ligera", "brunch", "cena ligera"],
+  etiquetas: ["rápida", "ligera", "brunch", "cena ligera", "superalimentos"],
   consejo: "Un aguacate en su punto cede al presionar junto al rabito. Si está algo duro, rállalo en lugar de machacarlo y añade una cucharada de yogur para darle cremosidad.",
   contundencia: "ligera",
   coste: "media"
@@ -265,7 +265,7 @@ window.RECETAS_SEED.push({
   nombre: "Sándwich de queso fundido con kimchi y huevo frito",
   subtitulo: "grilled cheese coreano con mayonesa de gochujang y ensalada de pepino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "fusión",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -307,7 +307,7 @@ window.RECETAS_SEED.push({
   nombre: "Burrata con pimientos del piquillo confitados, piñones tostados y pan con tomate",
   subtitulo: "con aceite de ajo, vinagre de Jerez y rúcula",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -337,7 +337,7 @@ window.RECETAS_SEED.push({
     "Reparte los pimientos templados con su jugo en dos platos, abre la burrata en el centro y termina con los piñones, la rúcula y el aceite de ajo. Sirve con el pan con tomate."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 48, grasa: 36 },
-  etiquetas: ["rápida", "para invitados", "sin horno"],
+  etiquetas: ["rápida", "para invitados", "sin horno", "poco especiada"],
   consejo: "El jugo del confitado mezclado con la crema de la burrata es la mejor salsa: no lo escurras y moja el pan en él.",
   contundencia: "media",
   coste: "premium"
@@ -348,7 +348,7 @@ window.RECETAS_SEED.push({
   nombre: "Chilaquiles rojos con huevo frito, queso fresco y nata",
   subtitulo: "totopos horneados en salsa de tomate y chile guajillo, con cebolla morada y cilantro",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "latinoamericana",
   momentos: ["comida"],
   proteina: "huevo",
@@ -392,7 +392,7 @@ window.RECETAS_SEED.push({
   nombre: "Orzo cremoso al limón con espárragos, guisantes y feta",
   subtitulo: "cocinado como un risotto con caldo de verduras, menta y parmesano",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -426,7 +426,7 @@ window.RECETAS_SEED.push({
     "Sirve con el feta desmenuzado, menta picada y pimienta recién molida."
   ],
   nutricion: { kcal: 610, prot: 26, hc: 76, grasa: 22 },
-  etiquetas: ["primavera", "una sola cazuela", "para niños"],
+  etiquetas: ["primavera", "una sola cazuela", "para niños", "poco especiada"],
   consejo: "El orzo suelta almidón como el arroz: remueve a menudo y no lo dejes reposar, que se apelmaza. Si sobra, se convierte en una ensalada tibia estupenda con unos tomates cherry.",
   contundencia: "media",
   coste: "media"
@@ -437,7 +437,7 @@ window.RECETAS_SEED.push({
   nombre: "Kuku sabzi persa de hierbas y nueces con yogur al ajo y pan de pita",
   subtitulo: "tortilla gruesa de perejil, cilantro y eneldo con arándanos y ensalada de tomate",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -473,7 +473,7 @@ window.RECETAS_SEED.push({
     "Corta el kuku en cuñas y sírvelo templado con el yogur al ajo, la ensalada de tomate y la pita."
   ],
   nutricion: { kcal: 560, prot: 24, hc: 40, grasa: 34 },
-  etiquetas: ["ideal para llevar", "batch cooking", "primavera"],
+  etiquetas: ["ideal para llevar", "batch cooking", "primavera", "poco especiada"],
   consejo: "Se come igual de bien frío al día siguiente, cortado en cuadrados dentro de una pita con yogur: perfecto para el táper.",
   contundencia: "media",
   coste: "media"
@@ -484,7 +484,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos mollet sobre crema de guisantes y menta con picatostes",
   subtitulo: "con queso fresco batido y aceite de cebollino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "europea",
   momentos: ["cena"],
   proteina: "huevo",
@@ -516,7 +516,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema caliente con una cucharada de queso fresco, dos huevos abiertos por la mitad (la yema debe fluir), los picatostes y unas gotas de aceite de cebollino."
   ],
   nutricion: { kcal: 420, prot: 22, hc: 40, grasa: 18 },
-  etiquetas: ["ligera", "de cuchara", "económica", "primavera"],
+  etiquetas: ["ligera", "de cuchara", "económica", "primavera", "poco especiada"],
   consejo: "Si quieres recalentar los huevos mollet ya pelados, sumérgelos 1 minuto en agua caliente del grifo: se templan sin que la yema cuaje.",
   contundencia: "ligera",
   coste: "económica"
@@ -527,7 +527,7 @@ window.RECETAS_SEED.push({
   nombre: "Tamagoyaki con arroz, pepino encurtido y caldo de miso con wakame",
   subtitulo: "tortilla japonesa enrollada, ligeramente dulce, con cebolleta y sésamo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -559,7 +559,7 @@ window.RECETAS_SEED.push({
     "Sirve en cada bandeja un bol de arroz con unas gotas del resto de soja, las piezas de tamagoyaki, el pepino encurtido y el cuenco de caldo de miso."
   ],
   nutricion: { kcal: 470, prot: 20, hc: 70, grasa: 12 },
-  etiquetas: ["ligera", "económica", "para niños", "ideal para llevar"],
+  etiquetas: ["ligera", "económica", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "La clave es el fuego medio-bajo: el huevo no debe tomar color, solo cuajar. Si no te sale un rollo perfecto, presiónalo caliente dentro del papel y tomará forma al reposar.",
   contundencia: "ligera",
   coste: "económica"
@@ -570,7 +570,7 @@ window.RECETAS_SEED.push({
   nombre: "Aloo paratha relleno de patata especiada con raita y chutney de cilantro",
   subtitulo: "pan plano indio a la sartén con mantequilla, yogur y cebolla encurtida",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida"],
   proteina: "verdura",
@@ -613,7 +613,7 @@ window.RECETAS_SEED.push({
   nombre: "Tortitas de calabacín y feta al horno con tzatziki y ensalada de tomate",
   subtitulo: "al estilo de los kolokithokeftedes griegos, con eneldo y menta",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -649,7 +649,7 @@ window.RECETAS_SEED.push({
     "Sirve las tortitas calientes con el tzatziki y la ensalada de tomate."
   ],
   nutricion: { kcal: 440, prot: 22, hc: 30, grasa: 26 },
-  etiquetas: ["al horno", "ligera", "verano", "ideal para llevar"],
+  etiquetas: ["al horno", "ligera", "verano", "ideal para llevar", "verduras escondidas", "poco especiada"],
   consejo: "Escurrir bien el calabacín es lo que marca la diferencia: si no, las tortitas se abren y quedan blandas. Ten en cuenta que el feta ya sala, así que no añadas más sal a la mezcla.",
   contundencia: "ligera",
   coste: "media"
@@ -660,7 +660,7 @@ window.RECETAS_SEED.push({
   nombre: "Berenjenas asadas enteras con yogur al ajo, mantequilla de comino, garbanzos crujientes y granada",
   subtitulo: "con pan de pita y hierbas frescas",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -694,7 +694,7 @@ window.RECETAS_SEED.push({
     "Pon cada berenjena en un plato, cubre con el yogur, rocía la mantequilla de comino caliente y termina con los garbanzos, la granada y las hierbas. Acompaña con la pita caliente."
   ],
   nutricion: { kcal: 460, prot: 16, hc: 42, grasa: 26 },
-  etiquetas: ["al horno", "ligera", "para invitados"],
+  etiquetas: ["al horno", "ligera", "para invitados", "poco especiada"],
   consejo: "Si tienes fogón de gas, asa las berenjenas directamente sobre la llama 10-12 minutos girándolas: ganan un sabor ahumado espectacular, como en el baba ganush.",
   contundencia: "ligera",
   coste: "media"
@@ -705,7 +705,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos a la flamenca de la huerta con guisantes, espárragos y patata",
   subtitulo: "en cazuela de barro con sofrito de tomate, pimiento y pimentón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -739,7 +739,7 @@ window.RECETAS_SEED.push({
     "Saca del horno, espolvorea perejil picado y sirve en la misma cazuela, con pan para mojar."
   ],
   nutricion: { kcal: 560, prot: 22, hc: 52, grasa: 28 },
-  etiquetas: ["al horno", "económica", "primavera", "de cazuela"],
+  etiquetas: ["al horno", "económica", "primavera", "de cazuela", "poco especiada"],
   consejo: "Las yemas siguen cuajándose fuera del horno en el barro caliente: sácalas cuando aún estén un poco crudas por encima y llegarán perfectas a la mesa.",
   contundencia: "media",
   coste: "económica"
@@ -750,7 +750,7 @@ window.RECETAS_SEED.push({
   nombre: "Käsespätzle con cebolla caramelizada y ensalada de pepino al eneldo",
   subtitulo: "pasta de huevo casera gratinada con gruyère al estilo de Suabia",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "europea",
   momentos: ["comida"],
   proteina: "queso",
@@ -784,7 +784,7 @@ window.RECETAS_SEED.push({
     "Sirve con la cebolla caramelizada por encima, cebollino picado y la ensalada de pepino fría al lado."
   ],
   nutricion: { kcal: 780, prot: 32, hc: 82, grasa: 36 },
-  etiquetas: ["invierno", "comfort food", "al horno", "para niños"],
+  etiquetas: ["invierno", "comfort food", "al horno", "para niños", "poco especiada"],
   consejo: "Si no tienes rallador, extiende un poco de masa sobre una tabla húmeda y corta tiras finas con un cuchillo directamente al agua, como se hace en Suabia.",
   contundencia: "contundente",
   coste: "media"
@@ -795,7 +795,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos estrellados sobre patatas panaderas con setas de cardo y aceite de trufa",
   subtitulo: "con ajos tiernos, perejil y escamas de sal",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -826,7 +826,7 @@ window.RECETAS_SEED.push({
     "Saca la fuente, rompe las yemas con un tenedor sobre las patatas para que lo empapen todo, rocía con el aceite de trufa y espolvorea perejil picado. Sirve enseguida."
   ],
   nutricion: { kcal: 630, prot: 20, hc: 56, grasa: 36 },
-  etiquetas: ["al horno", "para invitados", "otoño"],
+  etiquetas: ["al horno", "para invitados", "otoño", "poco especiada"],
   consejo: "El aceite de trufa siempre en crudo y al final: el calor destruye su aroma. Si no encuentras setas de cardo, usa champiñón portobello o setas variadas.",
   contundencia: "media",
   coste: "premium"
@@ -837,7 +837,7 @@ window.RECETAS_SEED.push({
   nombre: "Soufflé de queso gruyère con ensalada de endivias, pera y nueces",
   subtitulo: "con vinagreta de mostaza antigua y miel",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -873,7 +873,7 @@ window.RECETAS_SEED.push({
     "Sirve los soufflés al instante, recién salidos del horno, con la ensalada al lado."
   ],
   nutricion: { kcal: 600, prot: 26, hc: 30, grasa: 42 },
-  etiquetas: ["al horno", "para invitados", "técnica"],
+  etiquetas: ["al horno", "para invitados", "técnica", "poco especiada"],
   consejo: "El soufflé no espera a nadie: siéntate a la mesa antes de sacarlo. Puedes dejar la base de bechamel con las yemas hecha con antelación; las claras, siempre al momento.",
   contundencia: "media",
   coste: "premium"
@@ -884,7 +884,7 @@ window.RECETAS_SEED.push({
   nombre: "Malai kofta de paneer y patata en salsa cremosa de anacardos con arroz basmati",
   subtitulo: "albóndigas tiernas al horno en curry suave de tomate, nata y cardamomo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida"],
   proteina: "queso",
@@ -935,7 +935,7 @@ window.RECETAS_SEED.push({
   nombre: "Canelones de setas y queso azul con bechamel y avellanas tostadas",
   subtitulo: "relleno de setas variadas al tomillo y vino blanco, gratinados con parmesano",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "mediterránea",
   momentos: ["comida"],
   proteina: "queso",
@@ -974,7 +974,7 @@ window.RECETAS_SEED.push({
     "Mientras, tuesta las avellanas en una sartén seca, pícalas gruesas y repártelas sobre los canelones al servir. Deja reposar 5 minutos antes de cortarlos."
   ],
   nutricion: { kcal: 780, prot: 30, hc: 62, grasa: 46 },
-  etiquetas: ["al horno", "para invitados", "otoño", "batch cooking"],
+  etiquetas: ["al horno", "para invitados", "otoño", "batch cooking", "poco especiada"],
   consejo: "Puedes dejarlos montados, sin bechamel encima, el día antes. Si el queso azul te resulta fuerte, sustituye la mitad por queso gruyère.",
   contundencia: "contundente",
   coste: "premium"
@@ -985,7 +985,7 @@ window.RECETAS_SEED.push({
   nombre: "Baos al vapor con huevo, shiitake glaseado y pepino encurtido",
   subtitulo: "con salsa hoisin, cebolleta, cilantro y cacahuetes",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -1022,7 +1022,7 @@ window.RECETAS_SEED.push({
     "Abre cada bao y rellénalo con huevo, shiitake glaseado, pepino encurtido, cebolleta en aros, cilantro y cacahuetes picados. Sirve enseguida."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 84, grasa: 20 },
-  etiquetas: ["para invitados", "fin de semana", "para niños"],
+  etiquetas: ["para invitados", "fin de semana", "para niños", "poco especiada"],
   consejo: "Los baos cocidos se congelan perfectamente: regenéralos 5 minutos al vapor directamente congelados y quedan como recién hechos.",
   contundencia: "media",
   coste: "media"
@@ -1033,7 +1033,7 @@ window.RECETAS_SEED.push({
   nombre: "Pastel de choclo vegetariano con lentejas, huevo duro y aceitunas",
   subtitulo: "pino de lentejas especiadas con pasas bajo una costra de maíz dulce gratinada",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "latinoamericana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -1071,7 +1071,7 @@ window.RECETAS_SEED.push({
     "Hornea 25-30 minutos y gratina los últimos 3 minutos, hasta que la superficie esté dorada y caramelizada en algunos puntos. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 720, prot: 32, hc: 90, grasa: 24 },
-  etiquetas: ["al horno", "económica", "batch cooking", "invierno"],
+  etiquetas: ["al horno", "económica", "batch cooking", "invierno", "sin verduras", "poco especiada"],
   consejo: "El contraste dulce-salado es la esencia del pastel de choclo chileno: no te saltes el azúcar por encima ni las pasas. Con maíz fresco desgranado queda todavía mejor.",
   contundencia: "contundente",
   coste: "económica"
@@ -1082,7 +1082,7 @@ window.RECETAS_SEED.push({
   nombre: "Tomates asados lentamente con huevos al horno, feta y pan de ajo",
   subtitulo: "tomates pera confitados con tomillo, cebolla morada y orégano",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -1115,7 +1115,7 @@ window.RECETAS_SEED.push({
     "Sirve directamente de la fuente con albahaca rota por encima y el pan de ajo para mojar."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 36, grasa: 24 },
-  etiquetas: ["al horno", "ligera", "verano", "económica", "batch cooking"],
+  etiquetas: ["al horno", "ligera", "verano", "económica", "batch cooking", "poco especiada"],
   consejo: "Asa el doble de tomates: en un tarro, cubiertos de aceite, aguantan una semana en la nevera y sirven para pasta, tostadas o ensaladas.",
   contundencia: "ligera",
   coste: "económica"

@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas con la salsa de yogur por encima y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 358, prot: 38, hc: 11, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Si te sobran, guarda las brochetas sin la salsa hasta 3 días en la nevera: se comen bien frías, desmenuzadas en una ensalada, o recalentadas 3 minutos en la airfryer a 180 °C. Con pechuga de pollo funciona igual.",
   contundencia: "ligera",
   coste: "económica",
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Sirve la ensalada en el plato, el salmón encima y una cucharada de yogur al lado."
   ],
   nutricion: { kcal: 464, prot: 32, hc: 12, grasa: 32 },
-  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "omega 3"],
+  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "omega 3", "keto", "superalimentos", "poco especiada"],
   consejo: "La mostaza hace de pegamento para que la costra no se caiga en la cesta. El salmón recalentado se seca y la costra se ablanda: hazlo al momento. Si quieres adelantar, deja la ensalada cortada sin aliñar en la nevera hasta 1 día.",
   contundencia: "ligera",
   coste: "premium",
@@ -95,7 +95,7 @@ window.RECETAS_SEED.push({
   nombre: "Coles de Bruselas y tofu firme en airfryer con glaseado de miso y sésamo",
   subtitulo: "cena vegana crujiente y sin sartén",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   momentos: ["cena"],
   proteina: "tofu",
@@ -127,7 +127,7 @@ window.RECETAS_SEED.push({
     "Sirve con el sésamo y la cebolleta picada por encima."
   ],
   nutricion: { kcal: 426, prot: 27, hc: 25, grasa: 24 },
-  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "vegana", "alta en proteína", "fácil", "tupper", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "vegana", "alta en proteína", "fácil", "tupper", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Glasea fuera de la cesta: el miso tiene azúcares y se quema a 190 °C. Aguanta 3 días en la nevera; recalienta 3 minutos en la airfryer a 180 °C para recuperar el crujiente. Si quieres un plato más completo, añade 100 g de arroz integral cocido por ración.",
   contundencia: "ligera",
   coste: "económica",
@@ -183,7 +183,7 @@ window.RECETAS_SEED.push({
   nombre: "Rollitos de calabacín en airfryer rellenos de requesón, menta y piñones",
   subtitulo: "gratinados con parmesano sobre tomate rallado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["cena"],
   proteina: "queso",
@@ -214,7 +214,7 @@ window.RECETAS_SEED.push({
     "Sirve los rollitos sobre el tomate rallado con unas gotas de limón."
   ],
   nutricion: { kcal: 408, prot: 25, hc: 15, grasa: 28 },
-  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "vegetariana", "sin gluten", "tupper"],
+  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "vegetariana", "sin gluten", "tupper", "keto", "poco especiada"],
   consejo: "Las láminas deben quedar flexibles pero no blandas, o se romperán al enrollarlas. Se conservan 2 días en la nevera y se pueden comer templados o fríos; también puedes cambiar el requesón por ricotta.",
   contundencia: "ligera",
   coste: "media",
@@ -256,7 +256,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con las zanahorias y los garbanzos y el yogur a la menta por encima."
   ],
   nutricion: { kcal: 504, prot: 44, hc: 31, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "alta en proteína", "sin gluten", "fácil", "tupper", "ideal para llevar", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "alta en proteína", "sin gluten", "fácil", "tupper", "ideal para llevar", "económica", "bajo en colesterol"],
   consejo: "La harissa cambia mucho de picante según la marca: empieza con media cucharada si no la conoces. Para tupper guarda el yogur aparte; el pollo con los garbanzos aguanta 3 días y está rico también frío.",
   contundencia: "media",
   coste: "económica",
@@ -298,7 +298,7 @@ window.RECETAS_SEED.push({
     "Sirve con la salsa de tahini, el resto del perejil y unas gotas de limón."
   ],
   nutricion: { kcal: 364, prot: 14, hc: 33, grasa: 20 },
-  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "vegana", "sin gluten", "fácil", "tupper", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "vegana", "sin gluten", "fácil", "tupper", "económica", "detox", "bajo en colesterol"],
   consejo: "Si tu airfryer es pequeña, cocina las berenjenas de dos en dos. Se conservan 3 días en la nevera con la salsa aparte; recaliéntalas 4 minutos a 180 °C o cómelas a temperatura ambiente, como un mezze.",
   contundencia: "ligera",
   coste: "económica",
@@ -340,7 +340,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del aceite en crudo, pimienta y gajos de limón."
   ],
   nutricion: { kcal: 382, prot: 38, hc: 8, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil"],
+  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "La almendra molida sustituye al pan rallado y deja una costra crujiente sin gluten. Con merluza congelada, descongélala en la nevera y sécala muy bien, o soltará agua y la costra quedará blanda.",
   contundencia: "ligera",
   coste: "media",
@@ -386,7 +386,7 @@ window.RECETAS_SEED.push({
     "Sirve las albóndigas con la salsa de yogur y la ensalada."
   ],
   nutricion: { kcal: 430, prot: 46, hc: 13, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "batch cooking", "para niños", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "batch cooking", "para niños", "económica", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "Sin pan rallado ni harina quedan jugosas gracias al huevo y al parmesano. Puedes formar el doble y congelarlas crudas en una bandeja; se cocinan sin descongelar a 190 °C durante 14-15 minutos. Cocinadas aguantan 3 días en la nevera.",
   contundencia: "ligera",
   coste: "económica",
@@ -428,7 +428,7 @@ window.RECETAS_SEED.push({
     "Mueve la fuente con suavidad en círculos para que la salsa ligue y espolvorea el resto del perejil antes de servir."
   ],
   nutricion: { kcal: 370, prot: 34, hc: 32, grasa: 12 },
-  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "una sola fuente"],
+  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "una sola fuente", "poco especiada", "bajo en colesterol"],
   consejo: "Los tiempos son para 800 W: si tu microondas es de 1000 W, resta un minuto en cada paso. Se conserva 2 días en la nevera; recalienta tapado a 500 W para que el pescado no se reseque. Para celíacos, usa caldo con sello sin gluten.",
   contundencia: "ligera",
   coste: "media",
@@ -440,7 +440,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos al plato de microondas sobre pisto exprés de pimiento y calabacín con feta",
   subtitulo: "en cazuelitas individuales",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   momentos: ["cena"],
   proteina: "huevo",
@@ -472,7 +472,7 @@ window.RECETAS_SEED.push({
     "Desmiga el feta por encima, añade pimienta y sirve enseguida."
   ],
   nutricion: { kcal: 355, prot: 20, hc: 18, grasa: 23 },
-  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegetariana", "sin gluten", "fácil", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegetariana", "sin gluten", "fácil", "económica", "keto", "poco especiada"],
   consejo: "Pinchar la yema es imprescindible en el microondas: sin ese agujerito el vapor la hace estallar. El pisto sí se puede preparar el doble y guardar 4 días en la nevera; los huevos, mejor recién hechos.",
   contundencia: "ligera",
   coste: "económica",
@@ -513,7 +513,7 @@ window.RECETAS_SEED.push({
     "Deja reposar el pollo 2 minutos tapado, córtalo en lonchas y sírvelo con el pak choi y la salsa por encima."
   ],
   nutricion: { kcal: 319, prot: 38, hc: 8, grasa: 15 },
-  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa de jengibre y cebolleta aguanta 5 días en un tarro en la nevera y sirve para pescado, tofu o arroz. Para tupper, guarda el pollo en lonchas con la salsa por encima: así no se seca al recalentar.",
   contundencia: "ligera",
   coste: "económica",
@@ -554,7 +554,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el resto del requesón desmigado y las semillas por encima."
   ],
   nutricion: { kcal: 311, prot: 15, hc: 28, grasa: 15 },
-  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegetariana", "sin gluten", "fácil", "tupper", "batch cooking", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegetariana", "sin gluten", "fácil", "tupper", "batch cooking", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Se conserva 4 días en la nevera y se congela bien sin el requesón de encima. Para celíacos, usa caldo con sello sin gluten. Si la quieres más saciante, añade un huevo duro picado por ración.",
   contundencia: "ligera",
   coste: "económica",
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con una cucharada de yogur y el cilantro picado por encima."
   ],
   nutricion: { kcal: 507, prot: 29, hc: 55, grasa: 19 },
-  etiquetas: ["saludable", "práctica", "rápida", "microondas", "vegetariana", "sin gluten", "fácil", "tupper", "batch cooking", "ideal para llevar", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "microondas", "vegetariana", "sin gluten", "fácil", "tupper", "batch cooking", "ideal para llevar", "económica", "superalimentos"],
   consejo: "Enjuaga bien las lentejas de bote para quitarles el líquido de conserva y el exceso de sal. Aguanta 4 días en la nevera y está aún mejor al día siguiente; para versión vegana, sirve con yogur vegetal.",
   contundencia: "media",
   coste: "económica",
@@ -651,7 +651,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu sedoso al vapor de microondas con edamame, jengibre y salsa de soja",
   subtitulo: "cena vegana templada que se come con cuchara",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   momentos: ["cena"],
   proteina: "tofu",
@@ -680,7 +680,7 @@ window.RECETAS_SEED.push({
     "Termina con la parte verde de la cebolleta, el sésamo y unas gotas de aceite de chile si te gusta el picante. Sirve con cuchara."
   ],
   nutricion: { kcal: 297, prot: 23, hc: 14, grasa: 16 },
-  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegana", "fácil"],
+  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegana", "fácil", "detox", "bajo en colesterol"],
   consejo: "Si quieres una cena más completa, sírvelo sobre 100 g de arroz jazmín cocido por ración. Para celíacos, cambia la salsa de soja por tamari. El tofu sedoso es delicado: córtalo y sírvelo directamente en el plato donde lo calientas.",
   contundencia: "ligera",
   coste: "media",
@@ -722,7 +722,7 @@ window.RECETAS_SEED.push({
     "Sirve el larb en las hojas de cogollo, con los cacahuetes por encima y el pepino al lado."
   ],
   nutricion: { kcal: 316, prot: 35, hc: 12, grasa: 14 },
-  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "picante", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "picante", "económica", "bajo en colesterol"],
   consejo: "El larb aguanta 2 días en la nevera sin las hierbas ni los cacahuetes, que se añaden al servir. Es igual de bueno frío, así que funciona como tupper con las hojas de lechuga aparte.",
   contundencia: "ligera",
   coste: "económica",
@@ -766,7 +766,7 @@ window.RECETAS_SEED.push({
     "Riega con la vinagreta y termina con las semillas de calabaza y el eneldo."
   ],
   nutricion: { kcal: 563, prot: 30, hc: 20, grasa: 40 },
-  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "sin gluten", "fácil", "omega 3"],
+  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "sin gluten", "fácil", "omega 3", "superalimentos", "poco especiada"],
   consejo: "Si el pomelo te resulta muy amargo, usa naranja sanguina o naranja normal. El salmón ahumado ya es salado, así que sala poco el resto. Es una ensalada para montar y comer al momento.",
   contundencia: "media",
   coste: "premium",
@@ -809,7 +809,7 @@ window.RECETAS_SEED.push({
     "Reparte la caballa en lascas grandes por encima y termina con el resto del aliño de yogur."
   ],
   nutricion: { kcal: 515, prot: 34, hc: 39, grasa: 25 },
-  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "sin gluten", "fácil", "tupper", "ideal para llevar", "omega 3", "económica"],
+  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "sin gluten", "fácil", "tupper", "ideal para llevar", "omega 3", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para llevar, guarda el aliño en un tarrito aparte y la caballa encima de la ensalada: aguanta 2 días en la nevera. También queda muy bien con sardinas o bonito en conserva.",
   contundencia: "media",
   coste: "económica",
@@ -852,7 +852,7 @@ window.RECETAS_SEED.push({
     "Termina con el resto del pesto y pimienta recién molida."
   ],
   nutricion: { kcal: 520, prot: 23, hc: 40, grasa: 30 },
-  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "vegetariana", "sin gluten", "fácil", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "vegetariana", "sin gluten", "fácil", "tupper", "ideal para llevar", "poco especiada"],
   consejo: "La quinoa cocida se compra en bote o al vacío, pero también puedes cocer el doble un día y tenerla 4 días en la nevera. Para llevar, pon la rúcula encima en el último momento para que no se mustie.",
   contundencia: "media",
   coste: "media",
@@ -894,7 +894,7 @@ window.RECETAS_SEED.push({
     "Rellena cada hoja con pollo, mango, zanahoria, pepino y hojas de menta, enrolla y sirve con el resto de la salsa para mojar."
   ],
   nutricion: { kcal: 443, prot: 47, hc: 26, grasa: 17 },
-  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "alta en proteína", "sin gluten", "fácil", "aprovechamiento"],
+  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "alta en proteína", "sin gluten", "fácil", "aprovechamiento", "bajo en colesterol"],
   consejo: "Es perfecta para aprovechar las sobras de un pollo asado. La salsa aguanta 5 días en la nevera; si espesa, aclárala con un poco de agua. Monta los rollitos al momento para que la lechuga siga crujiente.",
   contundencia: "ligera",
   coste: "media",
@@ -937,7 +937,7 @@ window.RECETAS_SEED.push({
     "Añade el aguacate en dados justo antes de servir y mezcla con cuidado."
   ],
   nutricion: { kcal: 424, prot: 31, hc: 22, grasa: 24 },
-  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "alta en proteína", "fácil", "tupper", "verano"],
+  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "alta en proteína", "fácil", "tupper", "verano", "poco especiada"],
   consejo: "Sin el aguacate aguanta 2 días en la nevera y mejora de un día para otro; añade el aguacate al servir para que no se oscurezca. Si necesitas que sea sin gluten, revisa la etiqueta del surimi, que a veces lleva almidón de trigo.",
   contundencia: "ligera",
   coste: "media",
@@ -978,7 +978,7 @@ window.RECETAS_SEED.push({
     "Sirve el gazpacho muy frío con el jamón, las almendras, el resto de la menta y pimienta por encima."
   ],
   nutricion: { kcal: 363, prot: 13, hc: 26, grasa: 23 },
-  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "sin gluten", "fácil", "tupper", "verano"],
+  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "sin gluten", "fácil", "tupper", "verano", "poco especiada"],
   consejo: "Usa un melón muy maduro y frío de nevera; si lo preparas con antelación, aguanta 2 días en una botella cerrada. Para una versión vegetariana, sustituye el jamón por queso feta desmigado.",
   contundencia: "ligera",
   coste: "media",
@@ -1021,7 +1021,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre los canónigos con el resto de las nueces por encima."
   ],
   nutricion: { kcal: 485, prot: 24, hc: 59, grasa: 17 },
-  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "vegetariana", "sin gluten", "fácil", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "vegetariana", "sin gluten", "fácil", "tupper", "ideal para llevar", "superalimentos", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera con los canónigos aparte. Si no tienes manzana, queda muy bien con uvas o pera. Para versión vegana usa yogur vegetal sin azúcar.",
   contundencia: "media",
   coste: "media",
@@ -1064,7 +1064,7 @@ window.RECETAS_SEED.push({
     "Dobla los laterales hacia dentro y enrolla apretando. Corta por la mitad en diagonal y sirve."
   ],
   nutricion: { kcal: 512, prot: 38, hc: 49, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "alta en proteína", "fácil", "tupper", "ideal para llevar", "aprovechamiento"],
+  etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "alta en proteína", "fácil", "tupper", "ideal para llevar", "aprovechamiento", "poco especiada", "bajo en colesterol"],
   consejo: "Envuelto en papel de horno aguanta en la nevera hasta el día siguiente, ideal para llevar. Si te gusta templado, caliéntalo 1 minuto por cada lado en una sartén sin aceite. Para sin gluten, usa tortillas de maíz.",
   contundencia: "media",
   coste: "media",

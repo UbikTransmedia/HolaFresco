@@ -145,7 +145,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve en platos hondos con su caldo, repartiendo bien la carne, las verduras y el plátano."
   ],
   nutricion: { kcal: 790, prot: 44, hc: 82, grasa: 31 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking", "poco especiada"],
   consejo: "El pochero es la versión filipina del puchero español: en vez de caldo claro lleva tomate y plátano saba, y se acompaña de arroz y de una salsa de berenjena asada machacada con ajo y vinagre. Sirve también con cerdo o ternera. Aguanta 3 días en la nevera; si lo haces con antelación, añade la col al recalentar para que no amarillee.",
   tupper: true,
   contundencia: "contundente",
@@ -284,7 +284,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos hondos con la cebolleta en aros y el cilantro por encima."
   ],
   nutricion: { kcal: 385, prot: 26, hc: 42, grasa: 12 },
-  etiquetas: ["creativa", "rápida", "ligera", "de cuchara", "sin gluten", "sin lácteos", "económica"],
+  etiquetas: ["creativa", "rápida", "ligera", "de cuchara", "sin gluten", "sin lácteos", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El canh es la sopa clara que acompaña a cada comida vietnamita junto al arroz; la de tofu y tomate (canh đậu phụ cà chua) es de las más caseras, y con alubias pasa a ser una cena completa y ligera. Para hacerla vegana usa salsa de soja en lugar de salsa de pescado. Aguanta 3 días en la nevera: añade las espinacas al recalentar para que sigan verdes.",
   tupper: true,
   contundencia: "ligera",
@@ -380,7 +380,7 @@ window.RECETAS_SEED.push({
     "Sirve el curry en plato hondo con el arroz jazmín."
   ],
   nutricion: { kcal: 665, prot: 22, hc: 95, grasa: 22 },
-  etiquetas: ["creativa", "sin gluten", "económica", "batch cooking", "de cuchara", "otoño"],
+  etiquetas: ["creativa", "sin gluten", "económica", "batch cooking", "de cuchara", "otoño", "superalimentos", "poco especiada"],
   consejo: "El kroeung es la pasta aromática que sostiene la cocina camboyana: es la base del amok y de muchos samlor (guisos). Haz el doble y congela el resto en una cubitera: tendrás curry en 15 minutos otro día. Para versión vegana, cambia la salsa de pescado por salsa de soja.",
   tupper: true,
   contundencia: "contundente",
@@ -509,7 +509,7 @@ window.RECETAS_SEED.push({
     "Devuelve la mitad de la panceta a la cazuela y mezcla. Sirve sobre el arroz con el resto de la panceta, el ajo dorado y la cebolleta en aros."
   ],
   nutricion: { kcal: 675, prot: 30, hc: 93, grasa: 20 },
-  etiquetas: ["creativa", "económica", "batch cooking"],
+  etiquetas: ["creativa", "económica", "batch cooking", "poco especiada"],
   consejo: "El adobong sitaw se hace con judías de metro (sitaw) y cerdo; las alubias pintas no son filipinas, pero absorben la salsa de vinagre y soja de maravilla. Como todo adobo, está mejor al día siguiente: aguanta 4 días en la nevera. Guarda la panceta crujiente aparte para que no se ablande.",
   tupper: true,
   contundencia: "contundente",
@@ -645,7 +645,7 @@ window.RECETAS_SEED.push({
     "Sirve el pescado con los fideos, la lechuga, el pepino, el resto del cilantro y el nam jim: cada uno envuelve pescado y fideos en una hoja y lo moja en la salsa."
   ],
   nutricion: { kcal: 460, prot: 36, hc: 62, grasa: 8 },
-  etiquetas: ["tradicional", "al horno", "ligera", "sin gluten", "sin lácteos", "alta en proteína", "picante", "para invitados"],
+  etiquetas: ["tradicional", "al horno", "ligera", "sin gluten", "sin lácteos", "alta en proteína", "picante", "para invitados", "bajo en colesterol"],
   consejo: "En Tailandia el pla pao se hace con tilapia rellena de hierba limón y pandan y se asa sobre brasas cubierto de sal; el horno da un resultado igual de jugoso. La sal no sala la carne porque la piel y las escamas la protegen, por eso no hay que descamar el pescado. También funciona con lubina o con un besugo pequeño. Se come recién hecho.",
   tupper: false,
   contundencia: "ligera",
@@ -786,7 +786,7 @@ window.RECETAS_SEED.push({
     "Lleva la sartén a la mesa con los fideos, los cacahuetes, la lima en cuñas y el nước chấm: cada uno monta su cuenco con fideos, pescado, hierbas y salsa."
   ],
   nutricion: { kcal: 595, prot: 37, hc: 58, grasa: 24 },
-  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "para invitados"],
+  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "para invitados", "sin verduras", "bajo en colesterol"],
   consejo: "En Hanói el chả cá se termina en la mesa sobre un hornillo, y el eneldo, raro en la cocina vietnamita, es su sello. El original usa pez cabeza de serpiente; el rape aguanta la cocción sin romperse, y el bacalao fresco es una opción más económica. Se come recién hecho.",
   tupper: false,
   contundencia: "media",
@@ -923,7 +923,7 @@ window.RECETAS_SEED.push({
     "Sirve el atún sobre el arroz, espolvorea el resto del arroz tostado y acompaña con la ensalada y el jaew aparte para mojar."
   ],
   nutricion: { kcal: 560, prot: 41, hc: 72, grasa: 12 },
-  etiquetas: ["creativa", "rápida", "alta en proteína", "sin gluten", "picante", "verano"],
+  etiquetas: ["creativa", "rápida", "alta en proteína", "sin gluten", "picante", "verano", "bajo en colesterol"],
   consejo: "El jaew es la salsa de mojar de Laos y de Isán, la región tailandesa de cultura lao, donde acompaña a carnes a la brasa y arroz glutinoso. Como el centro del atún queda crudo, usa atún que se haya congelado a -20 °C al menos 5 días (o cómpralo ya ultracongelado) para evitar el anisakis. No se guarda: márcalo en el momento.",
   tupper: false,
   contundencia: "media",
@@ -970,7 +970,7 @@ window.RECETAS_SEED.push({
     "Vierte la salsa con las verduras sobre el pescado y sírvelo enseguida con el arroz."
   ],
   nutricion: { kcal: 660, prot: 39, hc: 90, grasa: 16 },
-  etiquetas: ["creativa", "alta en proteína", "sin lácteos", "para niños"],
+  etiquetas: ["creativa", "alta en proteína", "sin lácteos", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "El escabeche filipino comparte nombre con el español pero es agridulce y se sirve caliente; en Manila se prepara en las fiestas con lapu-lapu (mero) o tilapia frita entera, y el abadejo o la merluza son la versión más asequible en lomos, sin espinas. Aguanta 2 días en la nevera: pierde el crujiente pero gana sabor, y se puede comer templado.",
   tupper: true,
   contundencia: "contundente",

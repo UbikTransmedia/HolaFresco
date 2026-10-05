@@ -49,7 +49,7 @@ window.RECETAS_SEED.push({
     "Calienta el pan 30 segundos por lado en la plancha. Desliza la carne de las brochetas sobre el pan para que absorba los jugos y sirve con la cebolla encurtida y la ensalada."
   ],
   nutricion: { kcal: 700, prot: 36, hc: 54, grasa: 38 },
-  etiquetas: ["tradicional", "a la plancha", "verano", "sin lácteos", "alta en proteína"],
+  etiquetas: ["tradicional", "a la plancha", "verano", "sin lácteos", "alta en proteína", "poco especiada"],
   consejo: "El shashlik llegó a Rusia desde el Cáucaso y hoy es el plato de las barbacoas de primavera y verano en la dacha. La cebolla con vinagre ablanda la carne sin cocerla; no la dejes más de 24 horas o quedará harinosa. Otra marinada muy rusa es con kéfir: cubre la carne con 200 ml y la cebolla, sin vinagre. Si no tienes plancha ni barbacoa, usa el grill del horno a 230 °C, 15 minutos dando la vuelta a mitad.",
   tupper: false,
   contundencia: "contundente",
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
     "Sirve cada pieza entera sobre el puré: al cortarla, la mantequilla de hierbas sale y hace de salsa."
   ],
   nutricion: { kcal: 860, prot: 50, hc: 76, grasa: 40 },
-  etiquetas: ["tradicional", "frito", "para invitados", "fin de semana", "alta en proteína"],
+  etiquetas: ["tradicional", "frito", "para invitados", "fin de semana", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Su origen se discute entre Kiev y los restaurantes de San Petersburgo, pero es uno de los platos de celebración más famosos de Ucrania. Las tres claves son mantequilla congelada, rollo bien cerrado y doble empanado. Puedes dejarlos empanados en la nevera hasta 24 horas, o congelarlos crudos y freírlos sin descongelar alargando el horno a 25 minutos. El aceite de girasol es el clásico; uno de oliva suave también sirve.",
   tupper: false,
   contundencia: "contundente",
@@ -141,7 +141,7 @@ window.RECETAS_SEED.push({
     "Sirve la machanka en un cuenco con eneldo picado y los draniki aparte, para mojarlos en la salsa."
   ],
   nutricion: { kcal: 880, prot: 32, hc: 57, grasa: 58 },
-  etiquetas: ["tradicional", "invierno", "fin de semana", "frito"],
+  etiquetas: ["tradicional", "invierno", "fin de semana", "frito", "sin verduras", "poco especiada"],
   consejo: "El nombre viene del bielorruso «machats», mojar: en Bielorrusia la machanka se pone en el centro de la mesa y cada uno moja sus draniki, las tortitas de patata que son casi el plato nacional. Si no encuentras nata agria, mezcla 70 g de yogur griego con 30 ml de nata para cocinar. El guiso aguanta 3 días en la nevera; los draniki se recuperan 8 minutos en el horno a 200 °C.",
   tupper: true,
   contundencia: "contundente",
@@ -190,7 +190,7 @@ window.RECETAS_SEED.push({
     "Saca los rollitos y quítales los palillos. Si la salsa está líquida, redúcela destapada 5 minutos, hasta que cubra el dorso de una cuchara. Sirve los zrazy sobre el trigo sarraceno, bañados con la salsa y con la remolacha al lado."
   ],
   nutricion: { kcal: 700, prot: 48, hc: 64, grasa: 29 },
-  etiquetas: ["tradicional", "invierno", "fin de semana", "batch cooking", "alta en proteína"],
+  etiquetas: ["tradicional", "invierno", "fin de semana", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "Los zrazy son el guiso de domingo polaco, heredero de las mesas de la antigua nobleza. Los pepinillos fermentados (ogórki kiszone) dan un ácido más suave que los de vinagre; los encontrarás en tiendas de productos del Este. Los rollitos ganan al día siguiente y se congelan bien en su salsa hasta 3 meses. Si te sobra, sirve el trigo sarraceno con un poco de salsa como cena.",
   tupper: true,
   contundencia: "contundente",
@@ -241,7 +241,7 @@ window.RECETAS_SEED.push({
     "Sirve el conejo con las rodajas de knedlík bañadas en salsa y una cucharada de mermelada de arándanos al lado."
   ],
   nutricion: { kcal: 840, prot: 50, hc: 80, grasa: 33 },
-  etiquetas: ["tradicional", "otoño", "invierno", "fin de semana", "alta en proteína"],
+  etiquetas: ["tradicional", "otoño", "invierno", "fin de semana", "alta en proteína", "verduras escondidas", "poco especiada"],
   consejo: "La salsa de raíces con nata agria es la misma de la svíčková, el plato de domingo checo por excelencia, y en las casas de pueblo se hace también con conejo. Este knedlík de pan envuelto en film, al estilo de Karlovy Vary, es el más fácil de hacer en casa. Si no encuentras nata agria, usa 70 g de yogur griego y 30 ml de nata. El conejo en su salsa aguanta 3 días; las rodajas de knedlík se recalientan al vapor o doradas en la sartén con mantequilla.",
   tupper: true,
   contundencia: "contundente",
@@ -286,7 +286,7 @@ window.RECETAS_SEED.push({
     "Sirve los muslos con la col y las lokše calientes; puedes rellenar las lokše con un poco de col y comerlas enrolladas."
   ],
   nutricion: { kcal: 890, prot: 44, hc: 88, grasa: 40 },
-  etiquetas: ["tradicional", "al horno", "otoño", "invierno", "para invitados", "sin lácteos"],
+  etiquetas: ["tradicional", "al horno", "otoño", "invierno", "para invitados", "sin lácteos", "poco especiada"],
   consejo: "En los pueblos vinícolas cercanos a Bratislava, como Slovenský Grob, este asado se hace con oca por San Martín, en noviembre, y las lokše se untan con su grasa. Con pato es más fácil y sale igual de rico. Guarda la grasa sobrante en un tarro en la nevera para saltear patatas. Si solo encuentras muslos de pato confitados, hornéalos 30 minutos a 200 °C para calentarlos y dorar la piel.",
   tupper: true,
   contundencia: "contundente",
@@ -335,7 +335,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con el pan para mojar."
   ],
   nutricion: { kcal: 630, prot: 45, hc: 72, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "otoño", "invierno", "una sola olla", "batch cooking", "económica", "sin lácteos"],
+  etiquetas: ["tradicional", "de cuchara", "otoño", "invierno", "una sola olla", "batch cooking", "económica", "sin lácteos", "poco especiada", "bajo en colesterol"],
   consejo: "La obara es el guiso más casero de Eslovenia: se hace con pollo, ternera o una mezcla, y en el campo se acompaña con ajdovi žganci, unas migas de harina de trigo sarraceno. La cucharadita de vinagre del final no se nota como tal, pero despierta todo el guiso. Aguanta 3 días en la nevera y se congela muy bien; si espesa al recalentarlo, añade un chorrito de caldo.",
   tupper: true,
   contundencia: "media",
@@ -384,7 +384,7 @@ window.RECETAS_SEED.push({
     "Cuece los ñoquis en agua hirviendo con sal hasta que floten, 2-3 minutos. Escúrrelos, mézclalos con un par de cucharadas de salsa y sírvelos con las rodajas de carne bien bañadas."
   ],
   nutricion: { kcal: 760, prot: 48, hc: 80, grasa: 27 },
-  etiquetas: ["tradicional", "invierno", "fin de semana", "para invitados", "sin lácteos", "batch cooking"],
+  etiquetas: ["tradicional", "invierno", "fin de semana", "para invitados", "sin lácteos", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "La pašticada es el plato de fiesta de Dalmacia: en Split no hay boda sin ella, y cada familia guarda su versión; muchas añaden al guiso un chorro de prošek, el vino dulce de la costa, que puedes sustituir por 50 ml de vino dulce. Está aún mejor al día siguiente, así que puedes hacerla con antelación y guardarla en su salsa 3 días en la nevera, o congelarla.",
   tupper: true,
   contundencia: "contundente",
@@ -426,7 +426,7 @@ window.RECETAS_SEED.push({
     "Comprueba que la carne se separa del hueso con facilidad. Deja reposar 5 minutos, espolvorea perejil picado y sirve con la salsa del fondo."
   ],
   nutricion: { kcal: 790, prot: 44, hc: 51, grasa: 46 },
-  etiquetas: ["tradicional", "al horno", "primavera", "sin gluten", "fin de semana"],
+  etiquetas: ["tradicional", "al horno", "primavera", "sin gluten", "fin de semana", "sin verduras", "poco especiada"],
   consejo: "En Herzegovina y en el vecino Montenegro este cordero se hace en el sač, una campana de hierro cubierta de brasas; el horno tapado y luego destapado reproduce el efecto. La leche suaviza el sabor del cordero y deja una salsa que recuerda al dulce de leche salado. Con cordero lechal reduce la primera fase a 60 minutos. Aguanta bien 2 días: recaliéntalo tapado a 160 °C con un chorrito de leche.",
   tupper: true,
   contundencia: "contundente",
@@ -470,7 +470,7 @@ window.RECETAS_SEED.push({
     "Unta el pan caliente con el kajmak, que se fundirá con el calor, y con el ajvar. Pon dentro la carne, la cebolla picada y el tomate, cierra y come al momento."
   ],
   nutricion: { kcal: 730, prot: 36, hc: 51, grasa: 42 },
-  etiquetas: ["tradicional", "a la plancha", "verano", "para niños"],
+  etiquetas: ["tradicional", "a la plancha", "verano", "para niños", "poco especiada"],
   consejo: "Leskovac, en el sur de Serbia, es la capital de la parrilla balcánica y celebra cada año una feria dedicada a la pljeskavica. El kajmak es una crema láctea madurada típica de los Balcanes; el ajvar, una crema de pimiento rojo asado. Ambos se venden en tiendas de productos del Este; si no encuentras ajvar, tritura 150 g de pimientos asados en conserva con un ajo y una cucharada de aceite. La masa cruda se puede formar y congelar entre papeles.",
   tupper: false,
   contundencia: "contundente",
@@ -517,7 +517,7 @@ window.RECETAS_SEED.push({
     "Deja reposar el gratinado 2 minutos y sírvelo con la ensalada bien fría."
   ],
   nutricion: { kcal: 540, prot: 46, hc: 37, grasa: 23 },
-  etiquetas: ["creativa", "airfryer", "para niños", "sin gluten", "alta en proteína"],
+  etiquetas: ["creativa", "airfryer", "para niños", "sin gluten", "alta en proteína", "poco especiada"],
   consejo: "El myaso po-frantsuzski («carne a la francesa») no tiene nada de francés: es el gratinado de cerdo o pollo con cebolla, mayonesa y queso que no falta en las celebraciones rusas desde la época soviética. Aquí la nata agria con mostaza aligera la mayonesa y las patatas lo convierten en plato único. Sin airfryer, hornéalo a 200 °C: 15 minutos las patatas solas y 20-25 minutos más con el pollo encima. También queda muy bien con filetes finos de lomo de cerdo, como en la versión más clásica. Aguanta 2 días en la nevera; la ensalada, prepárala al momento.",
   tupper: true,
   contundencia: "media",
@@ -562,7 +562,7 @@ window.RECETAS_SEED.push({
     "Sirve los pinchos con las patatas al eneldo y la mizeria bien fría."
   ],
   nutricion: { kcal: 440, prot: 40, hc: 32, grasa: 16 },
-  etiquetas: ["creativa", "ligera", "verano", "microondas", "a la plancha", "sin gluten", "alta en proteína"],
+  etiquetas: ["creativa", "ligera", "verano", "microondas", "a la plancha", "sin gluten", "alta en proteína", "poco especiada"],
   consejo: "La mizeria y las patatas nuevas con eneldo (młode ziemniaki z koperkiem) son la guarnición del verano en Polonia. El ácido láctico del kéfir ablanda la pechuga, que suele quedar seca, y le da un punto tostado en la plancha. Si no encuentras nata agria, usa yogur griego con unas gotas más de limón. La mizeria suelta agua: prepárala como mucho una hora antes.",
   tupper: false,
   contundencia: "ligera",
@@ -606,7 +606,7 @@ window.RECETAS_SEED.push({
     "Sirve las kotlety sobre el trigo sarraceno con la salsa de eneldo por encima."
   ],
   nutricion: { kcal: 620, prot: 45, hc: 56, grasa: 24 },
-  etiquetas: ["creativa", "batch cooking", "ideal para llevar", "para niños", "alta en proteína"],
+  etiquetas: ["creativa", "batch cooking", "ideal para llevar", "para niños", "alta en proteína", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "Las kotlety con grechka (trigo sarraceno) son la comida de diario por excelencia en Rusia y Ucrania. El calabacín rallado sustituye al pan mojado en leche de la receta clásica y mantiene jugoso el pavo. Aguantan 3 días en la nevera y se congelan bien, crudas o cocinadas. Para hacerlas sin gluten, usa pan rallado sin gluten: el trigo sarraceno no tiene.",
   tupper: true,
   contundencia: "media",
@@ -650,7 +650,7 @@ window.RECETAS_SEED.push({
     "Sirve con los pepinillos en rodajas por encima o al lado."
   ],
   nutricion: { kcal: 680, prot: 21, hc: 62, grasa: 38 },
-  etiquetas: ["creativa", "al horno", "otoño", "invierno", "económica", "sin lácteos", "batch cooking"],
+  etiquetas: ["creativa", "al horno", "otoño", "invierno", "económica", "sin lácteos", "batch cooking", "poco especiada"],
   consejo: "Salchicha ahumada, col y alcaravea son el trío de las tabernas de Chequia y Polonia. Busca una salchicha ahumada de tipo kiełbasa en la charcutería o en tiendas de productos del Este; vale cualquier salchicha ahumada gruesa y ya cocida. La bandeja aguanta 3 días en la nevera y se recalienta en el horno o la sartén; los restos están muy buenos con un huevo frito encima.",
   tupper: true,
   contundencia: "contundente",
@@ -694,7 +694,7 @@ window.RECETAS_SEED.push({
     "Córtala en tiras finas contra la fibra y sírvela templada sobre la surówka, con las nueces, la salsa de rábano picante y el resto del eneldo."
   ],
   nutricion: { kcal: 430, prot: 36, hc: 28, grasa: 19 },
-  etiquetas: ["creativa", "ligera", "rápida", "otoño", "invierno", "sin gluten", "alta en proteína"],
+  etiquetas: ["creativa", "ligera", "rápida", "otoño", "invierno", "sin gluten", "alta en proteína", "superalimentos"],
   consejo: "En Polonia casi ninguna comida llega a la mesa sin una surówka, una ensalada cruda de col, zanahoria o remolacha con manzana y un aliño agridulce. El rábano picante (chrzan) es el condimento clásico de las carnes; en conserva se vende en tiendas de productos del Este y en algunos supermercados. La surówka mejora tras unas horas y aguanta 2 días en la nevera; la carne, mejor al momento.",
   tupper: false,
   contundencia: "ligera",
@@ -740,7 +740,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el perejil picado y sirve en la misma sartén, con el pan para mojar."
   ],
   nutricion: { kcal: 570, prot: 46, hc: 36, grasa: 26 },
-  etiquetas: ["creativa", "una sola sartén", "alta en proteína"],
+  etiquetas: ["creativa", "una sola sartén", "alta en proteína", "poco especiada"],
   consejo: "La kavarma tradicional se guisa a fuego lento en el horno, en cazuelitas de barro (gyuveche), y se termina con un huevo cuajado encima. Su hierba es la chubritsa (ajedrea), difícil de encontrar en España: el tomillo con una pizca de menta seca se le parece. Puedes hacerla igual con contramuslo de pollo. Si quieres guardarla, hazla sin el huevo y cuájalo al recalentar.",
   tupper: false,
   contundencia: "media",
@@ -785,7 +785,7 @@ window.RECETAS_SEED.push({
     "Ralla el feta bien frío con el rallador grueso (o desmenúzalo muy fino) sobre la ensalada hasta cubrirla de blanco, como se sirve en Bulgaria, espolvorea perejil picado y sírvela junto a las chuletillas."
   ],
   nutricion: { kcal: 630, prot: 30, hc: 16, grasa: 49 },
-  etiquetas: ["creativa", "rápida", "a la plancha", "verano", "sin gluten", "para invitados"],
+  etiquetas: ["creativa", "rápida", "a la plancha", "verano", "sin gluten", "para invitados", "keto", "poco especiada"],
   consejo: "La šopska es la ensalada nacional búlgara y el ajvar, la crema de pimiento asado de Serbia y Macedonia del Norte: aquí se juntan con el cordero de las parrillas balcánicas. La mantequilla de ajvar se puede hacer el doble y congelar en rulo para otras carnes o para unas patatas asadas. Si no encuentras ajvar, usa pimientos asados en conserva bien triturados con una pizca de pimentón.",
   tupper: false,
   contundencia: "media",
@@ -879,7 +879,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con su salsa y las ciruelas sobre la cebada y esparce por encima las nueces y el eneldo picado."
   ],
   nutricion: { kcal: 640, prot: 41, hc: 58, grasa: 28 },
-  etiquetas: ["creativa", "olla lenta", "otoño", "invierno", "batch cooking", "ideal para llevar"],
+  etiquetas: ["creativa", "olla lenta", "otoño", "invierno", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "En Ucrania el pollo con ciruelas pasas y nueces es plato de celebración y se hornea en cazuelitas de barro; la olla lenta consigue la misma carne melosa sin vigilarla. Sin olla lenta, guísalo en una cazuela tapada a fuego mínimo 45-50 minutos. La cebada se puede cambiar por trigo sarraceno o puré de patata. Aguanta 3 días en la nevera y se congela bien sin la nata agria, que se añade al recalentar.",
   tupper: true,
   contundencia: "media",
@@ -924,7 +924,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de nata agria y el eneldo picado por encima."
   ],
   nutricion: { kcal: 630, prot: 41, hc: 57, grasa: 25 },
-  etiquetas: ["creativa", "una sola sartén", "batch cooking", "ideal para llevar", "otoño", "alta en proteína"],
+  etiquetas: ["creativa", "una sola sartén", "batch cooking", "ideal para llevar", "otoño", "alta en proteína", "poco especiada"],
   consejo: "La grechka po-kupecheski es un plato de diario ruso en el que el trigo sarraceno se cuece directamente con la carne y el sofrito, normalmente de cerdo. Con contramuslo de pavo queda igual de jugoso y más ligero. En tiendas de productos del Este el trigo sarraceno se vende ya tostado (oscuro), que da más sabor; si el tuyo es claro, tuéstalo 3 minutos en seco antes de empezar. Aguanta 3 días en la nevera: recaliéntalo con un chorrito de agua.",
   tupper: true,
   contundencia: "media",

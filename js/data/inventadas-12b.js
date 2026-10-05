@@ -77,7 +77,7 @@ window.RECETAS_SEED.push({
     "Mezcla los fideos y el edamame con el resto del aliño, reparte en dos boles y coloca encima el pepino, los langostinos con su jugo y el verde de la cebolleta."
   ],
   nutricion: { kcal: 445, prot: 36, hc: 60, grasa: 7 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "ideal para llevar"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "ideal para llevar", "superalimentos", "poco especiada"],
   consejo: "Lavar los soba en agua fría tras cocerlos es imprescindible: si no, se apelmazan. Para llevar, guarda el aliño aparte y mézclalo justo antes de comer.",
   contundencia: "ligera",
   coste: "media"
@@ -119,7 +119,7 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús en dos platos con las gambas y el aguacate por encima, y unas hojas de cilantro."
   ],
   nutricion: { kcal: 455, prot: 30, hc: 54, grasa: 13 },
-  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "alta en proteína", "poco especiada"],
   consejo: "Si tienes 5 minutos más, añade media cebolla morada picada fina macerada en el zumo de lima: le da un punto de ceviche muy fresco.",
   contundencia: "ligera",
   coste: "media"
@@ -202,7 +202,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto del feta por encima, eneldo picado y pimienta recién molida."
   ],
   nutricion: { kcal: 440, prot: 19, hc: 56, grasa: 15 },
-  etiquetas: ["rápida", "ligera", "una sola sartén", "económica"],
+  etiquetas: ["rápida", "ligera", "una sola sartén", "económica", "poco especiada"],
   consejo: "Si quieres más proteína sin recalentar el plato, añade 2 huevos escalfados encima o un puñado de garbanzos cocidos con las espinacas.",
   contundencia: "ligera",
   coste: "económica"
@@ -244,7 +244,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado por encima."
   ],
   nutricion: { kcal: 620, prot: 28, hc: 73, grasa: 24 },
-  etiquetas: ["rápida", "económica", "despensa", "para niños"],
+  etiquetas: ["rápida", "económica", "despensa", "para niños", "verduras escondidas", "poco especiada"],
   consejo: "Para una versión más ligera, cambia la nata por 3 cucharadas de queso crema batidas con agua de cocción: igual de cremosa y con menos grasa.",
   contundencia: "media",
   coste: "económica"
@@ -328,7 +328,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el aceite de sésamo, las tiras de tortilla y el verde de la cebolleta picado. Mezcla y sirve muy caliente."
   ],
   nutricion: { kcal: 620, prot: 42, hc: 70, grasa: 18 },
-  etiquetas: ["aprovechamiento", "económica", "alta en proteína", "para niños"],
+  etiquetas: ["aprovechamiento", "económica", "alta en proteína", "para niños", "poco especiada"],
   consejo: "El arroz recién hecho y caliente se apelmaza en el wok. Si tienes prisa, extiéndelo en una bandeja y mételo 10 minutos en el congelador.",
   contundencia: "media",
   coste: "económica"
@@ -371,7 +371,7 @@ window.RECETAS_SEED.push({
     "Mezcla las lentejas, el arroz y la pasta, reparte en platos hondos y cubre con la salsa de tomate. Termina con un buen montón de cebolla crujiente y unas cucharadas del aliño de ajo al gusto."
   ],
   nutricion: { kcal: 690, prot: 21, hc: 96, grasa: 24 },
-  etiquetas: ["económica", "batch cooking", "invierno", "picante"],
+  etiquetas: ["económica", "batch cooking", "invierno", "picante", "bajo en colesterol"],
   consejo: "Todo se conserva por separado 3 días en la nevera; la cebolla crujiente aguanta en un tarro cerrado a temperatura ambiente. Monta el plato en el último momento.",
   contundencia: "contundente",
   coste: "económica"
@@ -414,7 +414,7 @@ window.RECETAS_SEED.push({
     "Sirve el risotto en platos llanos, coloca 4 vieiras por persona encima y termina con unas gotas de zumo de limón y pimienta."
   ],
   nutricion: { kcal: 590, prot: 31, hc: 69, grasa: 20 },
-  etiquetas: ["para invitados", "primavera", "alta en proteína"],
+  etiquetas: ["para invitados", "primavera", "alta en proteína", "poco especiada"],
   consejo: "Las vieiras solo se doran si están completamente secas y la sartén humea: sécalas con papel y no las muevas hasta darles la vuelta. Con langostinos sale una versión más económica.",
   contundencia: "media",
   coste: "premium"
@@ -454,7 +454,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, añade los tomates partidos, abre la burrata por la mitad y coloca media en cada plato. Termina con hojas de albahaca, pimienta y un hilo de aceite."
   ],
   nutricion: { kcal: 780, prot: 28, hc: 71, grasa: 42 },
-  etiquetas: ["verano", "para invitados", "sin horno"],
+  etiquetas: ["verano", "para invitados", "sin horno", "poco especiada"],
   consejo: "El pesto trapanese se puede hacer con un día de antelación y guardarlo cubierto con una capa de aceite. Si no tienes burrata, una mozzarella fresca o ricotta también le van muy bien.",
   contundencia: "contundente",
   coste: "premium"
@@ -544,7 +544,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, rocía con el aceite de trufa y termina con perejil picado y pimienta recién molida."
   ],
   nutricion: { kcal: 575, prot: 20, hc: 71, grasa: 22 },
-  etiquetas: ["rápida", "otoño", "para invitados"],
+  etiquetas: ["rápida", "otoño", "para invitados", "poco especiada"],
   consejo: "El aceite de trufa nunca se calienta: pierde el aroma. Con un par de setas secas (boletus) hidratadas y su agua de remojo añadida a la salsa el plato gana muchísimo.",
   contundencia: "media",
   coste: "media"
@@ -587,7 +587,7 @@ window.RECETAS_SEED.push({
     "Sube el fuego al máximo durante 1 minuto, hasta que oigas crepitar el fondo y huela a tostado: es el socarrat. Apaga, cubre con un paño limpio y deja reposar 5 minutos antes de servir con limón."
   ],
   nutricion: { kcal: 625, prot: 49, hc: 62, grasa: 19 },
-  etiquetas: ["para invitados", "de fin de semana", "alta en proteína"],
+  etiquetas: ["para invitados", "de fin de semana", "alta en proteína", "poco especiada"],
   consejo: "Un buen caldo de pescado casero hecho con las cabezas de los langostinos y una espina de rape marca la diferencia. Acompáñalo de un alioli suave si te gusta.",
   contundencia: "media",
   coste: "premium"
@@ -631,7 +631,7 @@ window.RECETAS_SEED.push({
     "Hornea 20 minutos, hasta que la superficie esté dorada y crujiente y la salsa burbujee por los bordes. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 845, prot: 37, hc: 96, grasa: 34 },
-  etiquetas: ["al horno", "para niños", "invierno", "comfort food"],
+  etiquetas: ["al horno", "para niños", "invierno", "comfort food", "poco especiada"],
   consejo: "Mezcla el cheddar con un poco de gruyer o queso azul para una salsa más compleja. Puedes dejar la fuente montada en la nevera y hornearla al día siguiente, 5 minutos más.",
   contundencia: "contundente",
   coste: "media"
@@ -676,7 +676,7 @@ window.RECETAS_SEED.push({
     "Sirve en boles con una cucharada de yogur y cilantro picado."
   ],
   nutricion: { kcal: 450, prot: 20, hc: 70, grasa: 10 },
-  etiquetas: ["ligera", "económica", "de cuchara", "invierno", "sin gluten"],
+  etiquetas: ["ligera", "económica", "de cuchara", "invierno", "sin gluten", "superalimentos"],
   consejo: "Es el plato de convalecencia por excelencia en la India: si lo quieres aún más suave, omite el chile y sirve el tadka solo con comino y cebolla.",
   contundencia: "ligera",
   coste: "económica"
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
     "Tapa con un paño y deja reposar 5 minutos antes de servir directamente de la paella."
   ],
   nutricion: { kcal: 830, prot: 31, hc: 72, grasa: 46 },
-  etiquetas: ["de fin de semana", "para invitados", "invierno"],
+  etiquetas: ["de fin de semana", "para invitados", "invierno", "poco especiada"],
   consejo: "Fuera de temporada de ajos tiernos usa 4 cebolletas finas o unos espárragos trigueros. Un poco de alcachofa en cuartos también le va de maravilla.",
   contundencia: "contundente",
   coste: "premium"
@@ -809,7 +809,7 @@ window.RECETAS_SEED.push({
     "Sirve con el tempeh glaseado encima, el sésamo tostado y la cebolleta picada."
   ],
   nutricion: { kcal: 455, prot: 20, hc: 63, grasa: 14 },
-  etiquetas: ["ligera", "alta en fibra", "batch cooking", "ideal para llevar"],
+  etiquetas: ["ligera", "alta en fibra", "batch cooking", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Cuece el doble de arroz integral y congélalo en raciones: así este salteado se hace en 15 minutos. El tofu firme sustituye al tempeh sin problema.",
   contundencia: "ligera",
   coste: "media"
@@ -898,7 +898,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con el queso de cabra desmigado, las nueces troceadas y tostadas, y un puñado de rúcula por encima."
   ],
   nutricion: { kcal: 440, prot: 15, hc: 60, grasa: 14 },
-  etiquetas: ["ligera", "alta en fibra", "otoño", "batch cooking", "económica"],
+  etiquetas: ["ligera", "alta en fibra", "otoño", "batch cooking", "económica", "poco especiada"],
   consejo: "La cebada aguanta muy bien recalentada: añade un chorrito de caldo y remueve a fuego suave. Si tienes prisa, cocina la cebada en olla rápida 15 minutos y termínala con el puré.",
   contundencia: "ligera",
   coste: "económica"
@@ -946,7 +946,7 @@ window.RECETAS_SEED.push({
     "Hornea 30–35 minutos, hasta que la superficie esté dorada y burbujeante. Deja reposar 10 minutos antes de cortar para que las capas se asienten."
   ],
   nutricion: { kcal: 840, prot: 45, hc: 70, grasa: 41 },
-  etiquetas: ["al horno", "batch cooking", "de fin de semana", "invierno", "para niños"],
+  etiquetas: ["al horno", "batch cooking", "de fin de semana", "invierno", "para niños", "poco especiada"],
   consejo: "Haz el doble de ragú y congela la mitad: es la base de unos tagliatelle al ragú en 10 minutos otro día. La lasaña montada se congela perfectamente antes de hornear.",
   contundencia: "contundente",
   coste: "media"
@@ -992,7 +992,7 @@ window.RECETAS_SEED.push({
     "El arroz está listo cuando esté al dente y el caldo se haya convertido en una salsa espesa y brillante que se mueva como una ola. Ajusta de sal, deja reposar 2 minutos y sirve."
   ],
   nutricion: { kcal: 790, prot: 36, hc: 68, grasa: 41 },
-  etiquetas: ["de fin de semana", "invierno", "para invitados", "aprovechamiento"],
+  etiquetas: ["de fin de semana", "invierno", "para invitados", "aprovechamiento", "poco especiada"],
   consejo: "Lo ideal es estofar el rabo la víspera: al enfriar el caldo en la nevera la grasa se solidifica arriba y se retira entera. El arroz se hace al día siguiente en 20 minutos.",
   contundencia: "contundente",
   coste: "premium"
@@ -1040,7 +1040,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 15 minutos fuera del horno antes de cortar: así sale en porciones limpias con sus tres capas."
   ],
   nutricion: { kcal: 885, prot: 41, hc: 84, grasa: 42 },
-  etiquetas: ["al horno", "de fin de semana", "batch cooking", "invierno"],
+  etiquetas: ["al horno", "de fin de semana", "batch cooking", "invierno", "poco especiada"],
   consejo: "Con ternera picada sale igual de rico y más económico. Si puedes, usa pasta larga y hueca tipo bucatini, como en Grecia: las capas quedan más definidas.",
   contundencia: "contundente",
   coste: "media"
@@ -1082,7 +1082,7 @@ window.RECETAS_SEED.push({
     "Sirve en boles y cubre con las hebras de jengibre, la cebolleta en rodajas finas, el cilantro, el chile y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 420, prot: 31, hc: 47, grasa: 11 },
-  etiquetas: ["ligera", "de cuchara", "invierno", "económica"],
+  etiquetas: ["ligera", "de cuchara", "invierno", "económica", "sin verduras", "bajo en colesterol"],
   consejo: "Un huevo marinado en soja o unos cacahuetes tostados por encima lo convierten en un plato aún más completo. Recalentado mejora: añade agua y remueve.",
   contundencia: "ligera",
   coste: "económica"

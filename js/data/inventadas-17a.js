@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Menemen turco de pimiento verde y tomate con feta y pan tostado",
   subtitulo: "huevos cremosos en sofrito de verano con pimentón y perejil",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -51,7 +51,7 @@ window.RECETAS_SEED.push({
   nombre: "Frittata de espárragos trigueros, guisantes y menta con ricotta al limón",
   subtitulo: "con ensalada de rúcula y aceite de oliva virgen extra",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Aliña la rúcula con el resto del aceite, un chorrito de zumo de limón y sal. Sirve la frittata en porciones con el resto de la menta y la ensalada al lado."
   ],
   nutricion: { kcal: 460, prot: 32, hc: 14, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "ideal para llevar", "alta en proteína", "keto", "poco especiada"],
   consejo: "Fría está igual de rica: córtala en cuadrados y llévala en un pan con unas hojas de rúcula. Si no es temporada de trigueros, usa calabacín en dados.",
   contundencia: "ligera",
   coste: "media"
@@ -94,7 +94,7 @@ window.RECETAS_SEED.push({
   nombre: "Spanakopita fácil en bandeja con espinacas, feta, eneldo y cebolleta",
   subtitulo: "con pasta filo arrugada y ensalada de tomate y pepino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida"],
   proteina: "queso",
@@ -129,7 +129,7 @@ window.RECETAS_SEED.push({
     "Mientras, trocea el tomate y el pepino y alíñalos con orégano, sal y un hilo de aceite. Sirve la spanakopita tibia con la ensalada."
   ],
   nutricion: { kcal: 690, prot: 34, hc: 44, grasa: 42 },
-  etiquetas: ["mediterránea", "al horno", "aromática", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "al horno", "aromática", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Puedes usar 450 g de espinacas congeladas bien escurridas. La spanakopita aguanta 3 días en la nevera; recaliéntala 10 minutos a 180 °C para que la filo vuelva a crujir.",
   contundencia: "contundente",
   coste: "media"
@@ -140,7 +140,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos al plato con champiñones al ajillo, perejil y parmesano",
   subtitulo: "con un toque de vino blanco y pan tostado para mojar",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "mediterránea",
   momentos: ["cena"],
   proteina: "huevo",
@@ -182,7 +182,7 @@ window.RECETAS_SEED.push({
   nombre: "Parmigiana de berenjena asada sin freír con mozzarella y albahaca",
   subtitulo: "capas de berenjena al horno, salsa de tomate al ajo y parmesano gratinado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida"],
   proteina: "queso",
@@ -215,7 +215,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos para que se asiente y se corte limpia. Sirve con el resto de la albahaca y pan para la salsa."
   ],
   nutricion: { kcal: 690, prot: 32, hc: 56, grasa: 37 },
-  etiquetas: ["mediterránea", "al horno", "aromática", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "al horno", "aromática", "batch cooking", "verano", "poco especiada"],
   consejo: "Al día siguiente está aún mejor: prepárala entera, guárdala en la nevera y gratínala justo antes de comer. Una cucharada de alcaparras en la salsa le da un punto salino muy rico.",
   contundencia: "contundente",
   coste: "media"
@@ -226,7 +226,7 @@ window.RECETAS_SEED.push({
   nombre: "Brochetas de halloumi, calabacín y tomate cherry con salsa verde de alcaparras y bulgur",
   subtitulo: "a la plancha, con bulgur al limón y perejil",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -259,7 +259,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre el bulgur y riega con la salsa verde justo al servir, con el halloumi aún caliente y elástico."
   ],
   nutricion: { kcal: 640, prot: 29, hc: 52, grasa: 35 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "alta en proteína", "poco especiada"],
   consejo: "El halloumi se endurece al enfriarse, así que sírvelo recién hecho. Si sobra salsa verde, guárdala cubierta de aceite y úsala sobre huevos o patatas.",
   contundencia: "media",
   coste: "media"
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
   nombre: "Tumbet mallorquín al horno con huevos al plato",
   subtitulo: "capas de patata, berenjena y pimiento rojo asados con salsa de tomate al ajo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida"],
   proteina: "huevo",
@@ -303,7 +303,7 @@ window.RECETAS_SEED.push({
     "Haz 4 huecos en la superficie, casca los huevos, sala las claras y hornea 8 minutos más, hasta que las claras cuajen y las yemas sigan líquidas. Sirve con perejil picado."
   ],
   nutricion: { kcal: 560, prot: 22, hc: 52, grasa: 29 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "verano", "poco especiada"],
   consejo: "El tumbet sin huevos aguanta 4 días en la nevera y mejora de un día para otro; cuaja los huevos encima justo al recalentarlo. Tradicionalmente las verduras se fríen: asarlas lo aligera sin perder sabor.",
   contundencia: "media",
   coste: "económica"
@@ -314,7 +314,7 @@ window.RECETAS_SEED.push({
   nombre: "Shakshuka de berenjena ahumada y tomate con huevos, yogur al ajo y cilantro",
   subtitulo: "con comino, pimentón y pan de pita caliente",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -347,7 +347,7 @@ window.RECETAS_SEED.push({
     "Reparte cucharadas de yogur sobre la shakshuka, esparce el cilantro picado y sirve en la sartén con las pitas para mojar."
   ],
   nutricion: { kcal: 560, prot: 27, hc: 58, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "invierno", "poco especiada"],
   consejo: "Para un sabor más ahumado, quema la berenjena entera sobre el fuego de gas antes de trocearla. Si eres de picante, añade una cucharadita de harissa con el tomate.",
   contundencia: "media",
   coste: "económica"
@@ -358,7 +358,7 @@ window.RECETAS_SEED.push({
   nombre: "Tarta salada de hojaldre con puerro, feta, eneldo y huevo",
   subtitulo: "con ensalada de canónigos y vinagreta de limón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida"],
   proteina: "huevo",
@@ -388,7 +388,7 @@ window.RECETAS_SEED.push({
     "Aliña los canónigos con el resto del aceite, el zumo de medio limón y sal. Sirve la tarta con el resto del eneldo por encima y la ensalada al lado."
   ],
   nutricion: { kcal: 700, prot: 27, hc: 42, grasa: 47 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ideal para llevar", "poco especiada"],
   consejo: "Prepárala con la lámina entera y tendrás cuatro porciones para comer fría en la oficina. El puerro puede sustituirse por cebolla caramelizada o espinacas salteadas.",
   contundencia: "contundente",
   coste: "media"
@@ -399,7 +399,7 @@ window.RECETAS_SEED.push({
   nombre: "Gratín de calabacín y tomate al tomillo con ricotta y parmesano",
   subtitulo: "con migas crujientes de pan al ajo y ensalada verde",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -432,7 +432,7 @@ window.RECETAS_SEED.push({
     "Sirve el gratín con la lechuga troceada aliñada con sal y un chorrito de limón."
   ],
   nutricion: { kcal: 440, prot: 23, hc: 26, grasa: 27 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ligera", "verano"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ligera", "verano", "poco especiada"],
   consejo: "Si los tomates son muy jugosos, sálalos y déjalos escurrir 10 minutos sobre papel antes de montar. Las sobras, frías, son un relleno estupendo para un bocadillo.",
   contundencia: "ligera",
   coste: "económica"
@@ -443,7 +443,7 @@ window.RECETAS_SEED.push({
   nombre: "Sabich: pitas de berenjena dorada, huevo duro, tahini y ensalada picada",
   subtitulo: "con pepino, tomate, perejil y un toque de zumaque",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -476,7 +476,7 @@ window.RECETAS_SEED.push({
     "Rellena cada pita con berenjena, rodajas de huevo, ensalada picada y pepinillo, y termina con una buena cucharada de tahini por encima."
   ],
   nutricion: { kcal: 610, prot: 25, hc: 58, grasa: 31 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ideal para llevar", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ideal para llevar", "verano", "poco especiada"],
   consejo: "Para aligerarla, asa la berenjena pintada de aceite a 220 °C 20 minutos en vez de dorarla en sartén. Una cucharadita de amba o de mango picante es el toque tradicional.",
   contundencia: "media",
   coste: "económica"
@@ -487,7 +487,7 @@ window.RECETAS_SEED.push({
   nombre: "Bouyiourdi griego: feta al horno con tomate, pimiento y orégano y huevos",
   subtitulo: "en cazuelita, con aceitunas negras y pan tostado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -529,7 +529,7 @@ window.RECETAS_SEED.push({
   nombre: "Frittata de espaguetis con tomate seco, albahaca y parmesano",
   subtitulo: "crujiente por fuera y tierna por dentro, con ensalada de tomate",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "italiana",
   momentos: ["comida"],
   proteina: "huevo",
@@ -559,7 +559,7 @@ window.RECETAS_SEED.push({
     "Sirve en porciones con los tomates cortados en gajos, aliñados con sal y el resto de la albahaca."
   ],
   nutricion: { kcal: 700, prot: 35, hc: 68, grasa: 31 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "ideal para llevar", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "Es la receta perfecta para aprovechar pasta del día anterior: usa unos 300 g de pasta cocida, incluso si ya llevaba salsa de tomate.",
   contundencia: "contundente",
   coste: "económica"
@@ -570,7 +570,7 @@ window.RECETAS_SEED.push({
   nombre: "Escalivada al horno con huevos al plato y queso de cabra gratinado",
   subtitulo: "pimiento, berenjena y cebolla asados con ajo y comino, y tostada de pan con tomate",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -601,7 +601,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado y la tostada al lado."
   ],
   nutricion: { kcal: 460, prot: 24, hc: 30, grasa: 27 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ligera", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ligera", "batch cooking", "poco especiada"],
   consejo: "Asa el doble de escalivada: en un tarro cubierta de aceite dura 5 días y sirve para tostas, ensaladas o bocadillos. Queda aún más sabrosa a la brasa.",
   contundencia: "ligera",
   coste: "media"
@@ -612,7 +612,7 @@ window.RECETAS_SEED.push({
   nombre: "Barquitas de calabacín rellenas de ricotta, limón y menta con costra de almendra",
   subtitulo: "con salsa rápida de tomate y ajo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["cena"],
   proteina: "queso",
@@ -643,7 +643,7 @@ window.RECETAS_SEED.push({
     "Sirve con las hojas de menta reservadas por encima."
   ],
   nutricion: { kcal: 430, prot: 24, hc: 18, grasa: 29 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ligera", "verano"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ligera", "verano", "keto", "poco especiada"],
   consejo: "Si quieres un plato más completo para comer, acompáñalo con 60 g de cuscús hidratado con caldo de verduras. Las almendras se pueden sustituir por pistachos.",
   contundencia: "ligera",
   coste: "media"
@@ -654,7 +654,7 @@ window.RECETAS_SEED.push({
   nombre: "Tortilla de patatas al horno con pimientos asados y alioli de yogur",
   subtitulo: "sin freír, jugosa y con cebolla pochada al tomillo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   momentos: ["comida"],
   proteina: "huevo",
@@ -685,7 +685,7 @@ window.RECETAS_SEED.push({
     "Deja reposar la tortilla 3 minutos, córtala en cuadrados y sírvela con el alioli de yogur."
   ],
   nutricion: { kcal: 670, prot: 29, hc: 60, grasa: 35 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "ideal para llevar", "batch cooking", "para niños"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "ideal para llevar", "batch cooking", "para niños", "poco especiada"],
   consejo: "Con calabacín en lugar de pimiento queda más ligera. Fría y cortada en dados, es una tapa perfecta con unas aceitunas aliñadas.",
   contundencia: "contundente",
   coste: "económica"
@@ -696,7 +696,7 @@ window.RECETAS_SEED.push({
   nombre: "Espárragos verdes y patatas nuevas asados con huevo mollet, parmesano y piñones",
   subtitulo: "con vinagreta templada de limón, alcaparras y mantequilla tostada",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -727,7 +727,7 @@ window.RECETAS_SEED.push({
     "Termina con las lascas de parmesano, los piñones, sal en escamas y pimienta."
   ],
   nutricion: { kcal: 540, prot: 26, hc: 34, grasa: 33 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "para invitados"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "para invitados", "poco especiada"],
   consejo: "La mantequilla tostada con alcaparras es la clave del plato: vigílala porque pasa de dorada a quemada en segundos. En otoño, cambia los espárragos por brócoli en ramitos.",
   contundencia: "media",
   coste: "premium"
@@ -738,7 +738,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos escalfados sobre ragú de alcachofas, habas y guisantes a la menta",
   subtitulo: "con pistachos tostados, parmesano y ralladura de limón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -772,7 +772,7 @@ window.RECETAS_SEED.push({
     "Sirve con un chorrito de zumo de limón, el parmesano rallado, los pistachos, el resto de la menta y pimienta recién molida."
   ],
   nutricion: { kcal: 470, prot: 31, hc: 30, grasa: 24 },
-  etiquetas: ["mediterránea", "rápida", "aromática", "ligera", "una sola sartén", "alta en proteína"],
+  etiquetas: ["mediterránea", "rápida", "aromática", "ligera", "una sola sartén", "alta en proteína", "poco especiada"],
   consejo: "En primavera usa alcachofas frescas en láminas finas y habas tiernas; añade 10 minutos al paso 3. Una rebanada de pan tostado con ajo completa el plato.",
   contundencia: "ligera",
   coste: "premium"
@@ -783,7 +783,7 @@ window.RECETAS_SEED.push({
   nombre: "Tostadas griegas de tomate rallado, huevo poché, feta y orégano",
   subtitulo: "con pepino, aceitunas y aceite de oliva virgen extra",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "griega",
   momentos: ["cena"],
   proteina: "huevo",
@@ -813,7 +813,7 @@ window.RECETAS_SEED.push({
     "Unta el pan con el tomate, coloca el pepino, un huevo poché encima y desmenuza la feta. Termina con aceitunas, el resto del orégano y pimienta."
   ],
   nutricion: { kcal: 440, prot: 24, hc: 40, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano", "poco especiada"],
   consejo: "Si te da miedo escalfar, haz los huevos a la plancha con una gota de aceite y tapa al final para que la yema quede cubierta. Un poco de zaatar en lugar de orégano le da un giro libanés.",
   contundencia: "ligera",
   coste: "económica"
@@ -824,7 +824,7 @@ window.RECETAS_SEED.push({
   nombre: "Gemista: tomates y pimientos rellenos de arroz con hierbas y feta al horno",
   subtitulo: "con patatas asadas en el jugo de la bandeja",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida"],
   proteina: "queso",
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos y sirve con la feta desmenuzada por encima y el jugo de la bandeja."
   ],
   nutricion: { kcal: 590, prot: 16, hc: 80, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "verano", "poco especiada"],
   consejo: "Los gemista están más ricos templados o incluso al día siguiente. Añade unas pasas y piñones al relleno para una versión más festiva.",
   contundencia: "media",
   coste: "económica"
@@ -868,7 +868,7 @@ window.RECETAS_SEED.push({
   nombre: "Garbanzos crujientes al comino con espinacas, huevos fritos y yogur al limón",
   subtitulo: "en una sartén, con pimentón, ajo y ralladura de limón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -899,7 +899,7 @@ window.RECETAS_SEED.push({
     "Sirve con cucharadas de yogur al limón, perejil picado y pimienta."
   ],
   nutricion: { kcal: 560, prot: 29, hc: 46, grasa: 28 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "alta en proteína", "poco especiada"],
   consejo: "Seca muy bien los garbanzos con un paño antes de dorarlos o no se pondrán crujientes. Un puñado de feta desmenuzada al final lo convierte en un plato de domingo.",
   contundencia: "media",
   coste: "económica"
@@ -910,7 +910,7 @@ window.RECETAS_SEED.push({
   nombre: "Pizzas de pan de pita con tomate, mozzarella, aceitunas, huevo y rúcula",
   subtitulo: "al horno en 10 minutos, con orégano y aceite de albahaca",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida"],
   proteina: "queso",
@@ -941,7 +941,7 @@ window.RECETAS_SEED.push({
     "Sirve las pizzas con la rúcula por encima y un hilo de aceite de albahaca."
   ],
   nutricion: { kcal: 680, prot: 32, hc: 64, grasa: 33 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "al horno", "para niños"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "al horno", "para niños", "poco especiada"],
   consejo: "Cualquier verdura asada que te sobre (berenjena, calabacín, pimientos) es perfecta como cobertura. Para niños, rompe la yema y extiéndela con la mozzarella antes de hornear el segundo tramo.",
   contundencia: "contundente",
   coste: "media"
@@ -952,7 +952,7 @@ window.RECETAS_SEED.push({
   nombre: "Brócoli asado con huevo mollet, parmesano, limón y migas de almendra",
   subtitulo: "sobre quinoa tibia con ajo y guindilla",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -983,7 +983,7 @@ window.RECETAS_SEED.push({
     "Termina con el parmesano rallado y las migas de almendra."
   ],
   nutricion: { kcal: 470, prot: 28, hc: 36, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ligera", "ideal para llevar", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ligera", "ideal para llevar", "invierno", "superalimentos"],
   consejo: "La coliflor funciona igual de bien; ásala 5 minutos más. Para llevar, guarda los huevos enteros con cáscara y ábrelos justo al comer.",
   contundencia: "ligera",
   coste: "media"
@@ -994,7 +994,7 @@ window.RECETAS_SEED.push({
   nombre: "Uova in purgatorio con burrata, albahaca y pan tostado al ajo",
   subtitulo: "huevos escalfados en salsa de tomate picante con alcaparras",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -1035,7 +1035,7 @@ window.RECETAS_SEED.push({
   nombre: "Strata de pan, tomate cherry, mozzarella y albahaca al horno",
   subtitulo: "pudin salado de pan del día anterior con huevo, leche y parmesano",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "mediterránea",
   momentos: ["comida"],
   proteina: "huevo",
@@ -1067,7 +1067,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con las últimas hojas de albahaca."
   ],
   nutricion: { kcal: 700, prot: 40, hc: 64, grasa: 31 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "para niños"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "para niños", "poco especiada"],
   consejo: "Puedes dejarla montada en la nevera la noche anterior y hornearla al día siguiente: queda aún más cremosa. Añade un puñado de aceitunas o tomate seco para un sabor más intenso.",
   contundencia: "contundente",
   coste: "media"

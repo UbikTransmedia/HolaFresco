@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con perejil picado por encima. Si el caldo ha quedado fino, machaca unas cuantas fabes con el tenedor y devuélvelas a la cazuela."
   ],
   nutricion: { kcal: 670, prot: 43, hc: 60, grasa: 28 },
-  etiquetas: ["de cuchara", "para invitados", "batch cooking", "verano"],
+  etiquetas: ["de cuchara", "para invitados", "batch cooking", "verano", "poco especiada"],
   consejo: "Las fabes ganan reposando: hazlas la víspera hasta el paso 6 y añade los langostinos justo antes de servir. Si no encuentras fabes, cualquier judía blanca grande (judión, mongeta) funciona igual.",
   contundencia: "contundente",
   coste: "premium"
@@ -88,7 +88,7 @@ window.RECETAS_SEED.push({
     "Salpimienta al final (el chorizo ya aporta sal), retira el laurel y remata con la cucharadita de vinagre. Deja reposar 5 minutos fuera del fuego antes de servir."
   ],
   nutricion: { kcal: 700, prot: 35, hc: 70, grasa: 31 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
   consejo: "Al día siguiente están mejor. Si las quieres más ligeras, pincha el chorizo y escáldalo 2 minutos en agua hirviendo antes de dorarlo: pierde buena parte de la grasa sin perder sabor.",
   contundencia: "contundente",
   coste: "económica"
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Apaga, coloca los cuartos de huevo encima, tapa y deja reposar 5 minutos. Sirve en plato hondo con un hilo de aceite crudo."
   ],
   nutricion: { kcal: 640, prot: 46, hc: 59, grasa: 25 },
-  etiquetas: ["de cuchara", "alta en proteína", "batch cooking", "invierno"],
+  etiquetas: ["de cuchara", "alta en proteína", "batch cooking", "invierno", "superalimentos", "poco especiada"],
   consejo: "Si vas con prisa, usa 400 g de garbanzos cocidos de bote: saltas al paso 2 y cueces el guiso 15 minutos con 400 ml de caldo de verduras. El majado es lo que da el sabor de potaje de verdad: no te lo saltes.",
   contundencia: "media",
   coste: "premium"
@@ -178,7 +178,7 @@ window.RECETAS_SEED.push({
     "Termina con el aceite restante en hilo, el sésamo, la menta y una pizca de pimentón. Un poco de ralladura de limón por encima lo redondea."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 44, grasa: 21 },
-  etiquetas: ["rápida", "ligera", "sin cocción", "ideal para llevar", "económica", "verano"],
+  etiquetas: ["rápida", "ligera", "sin cocción", "ideal para llevar", "económica", "verano", "verduras escondidas", "superalimentos", "poco especiada"],
   consejo: "El hummus aguanta 4 días en la nevera tapado con un hilo de aceite; cuece los huevos el mismo día. Para un color más vivo, usa remolacha cruda rallada muy fina en lugar de cocida (añade 1 cucharada más de tahini).",
   contundencia: "ligera",
   coste: "económica"
@@ -269,7 +269,7 @@ window.RECETAS_SEED.push({
     "Termina con las alcaparras, el resto del eneldo, pimienta negra recién molida y un hilo de aceite. Sirve enseguida o guarda la base de lentejas aliñadas (sin aguacate ni salmón) hasta 2 días en la nevera."
   ],
   nutricion: { kcal: 450, prot: 27, hc: 36, grasa: 22 },
-  etiquetas: ["rápida", "sin cocción", "ligera", "ideal para llevar", "alta en proteína", "verano"],
+  etiquetas: ["rápida", "sin cocción", "ligera", "ideal para llevar", "alta en proteína", "verano", "superalimentos", "poco especiada"],
   consejo: "Si vas a llevarla al trabajo, pon el aliño con las lentejas abajo, el salmón y las verduras arriba y el aguacate entero: lo cortas justo antes de comer.",
   contundencia: "ligera",
   coste: "premium"
@@ -366,7 +366,7 @@ window.RECETAS_SEED.push({
     "Termina con la última cucharada de aceite, el resto del zaatar, el perejil picado y los triángulos de pita para rebañar."
   ],
   nutricion: { kcal: 670, prot: 45, hc: 55, grasa: 30 },
-  etiquetas: ["al horno", "alta en proteína", "una sola bandeja", "batch cooking"],
+  etiquetas: ["al horno", "alta en proteína", "una sola bandeja", "batch cooking", "poco especiada"],
   consejo: "Si no encuentras zaatar, mézclalo en casa: 1 cucharada de tomillo seco, 1 cucharadita de sésamo tostado, 1 cucharadita de zumaque (o ralladura de limón) y una pizca de sal.",
   contundencia: "contundente",
   coste: "media"
@@ -414,7 +414,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, sirve la sopa en platos hondos y corona cada uno con una cucharada generosa de pesto y el resto del parmesano. La sopa espesa al reposar; aclárala con un poco de agua caliente si la recalientas."
   ],
   nutricion: { kcal: 520, prot: 22, hc: 68, grasa: 18 },
-  etiquetas: ["de cuchara", "económica", "batch cooking", "invierno", "para niños"],
+  etiquetas: ["de cuchara", "económica", "batch cooking", "invierno", "para niños", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si tienes una corteza de parmesano, échala en el caldo desde el paso 3 y retírala al servir: da un fondo umami tremendo sin añadir nada más.",
   contundencia: "media",
   coste: "económica"
@@ -460,7 +460,7 @@ window.RECETAS_SEED.push({
     "Monta los tacos: una capa de frijoles refritos, pico de gallo escurrido, crema de aguacate y queso fresco. Termina con el resto del cilantro y gajos de la otra lima para exprimir al momento."
   ],
   nutricion: { kcal: 610, prot: 25, hc: 78, grasa: 22 },
-  etiquetas: ["rápida", "económica", "picante", "para niños", "una sola sartén"],
+  etiquetas: ["rápida", "económica", "picante", "para niños", "una sola sartén", "superalimentos"],
   consejo: "Los frijoles refritos aguantan 4 días en la nevera y se recalientan con un chorrito de agua. Para una versión más contundente, añade un huevo frito encima de cada taco.",
   contundencia: "media",
   coste: "media"
@@ -597,7 +597,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y pimienta y deja reposar 10 minutos fuera del fuego. Sirve con la hierbabuena picada por encima: su frescor levanta todo el guiso."
   ],
   nutricion: { kcal: 780, prot: 42, hc: 70, grasa: 36 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "para invitados"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "para invitados", "poco especiada"],
   consejo: "En olla exprés, dora la costilla, añade garbanzos, agua y aromáticos y cuece 25 minutos a presión alta; luego añade sofrito y calabaza y cuece 8 minutos más. Congela en raciones: aguanta 3 meses.",
   contundencia: "contundente",
   coste: "media"
@@ -643,7 +643,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con el sésamo y el verde de la cebolleta por encima."
   ],
   nutricion: { kcal: 370, prot: 34, hc: 22, grasa: 16 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "una sola sartén", "picante"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "una sola sartén", "picante", "superalimentos"],
   consejo: "Para convertirlo en plato más contundente, sírvelo sobre 120 g de fideos de arroz cocidos o arroz jazmín. Las gambas pueden ser congeladas: descongélalas en la nevera y sécalas a conciencia o soltarán agua.",
   contundencia: "ligera",
   coste: "media"
@@ -687,7 +687,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema en cuencos, riega con la mantequilla roja y reparte la menta picada por encima. Acompaña con gajos del medio limón restante para que cada uno ajuste la acidez."
   ],
   nutricion: { kcal: 330, prot: 17, hc: 46, grasa: 8 },
-  etiquetas: ["de cuchara", "ligera", "económica", "rápida", "batch cooking", "para niños"],
+  etiquetas: ["de cuchara", "ligera", "económica", "rápida", "batch cooking", "para niños", "verduras escondidas", "poco especiada"],
   consejo: "Es la receta de aprovechamiento perfecta: admite calabacín, calabaza o apio sin cambiar el método. Con 2 rebanadas de pan tostado frotado con ajo se convierte en cena completa.",
   contundencia: "ligera",
   coste: "económica"
@@ -731,7 +731,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de comer para que el aliño penetre en los garbanzos. Si la preparas con antelación, guarda el feta y el tomate aparte y únelos al servir."
   ],
   nutricion: { kcal: 460, prot: 22, hc: 42, grasa: 22 },
-  etiquetas: ["rápida", "sin cocción", "ligera", "verano", "ideal para llevar"],
+  etiquetas: ["rápida", "sin cocción", "ligera", "verano", "ideal para llevar", "poco especiada"],
   consejo: "Si tostas los garbanzos 8 minutos en una sartén con una cucharadita de aceite antes de aliñarlos, la ensalada gana textura y los garbanzos absorben mejor el aliño.",
   contundencia: "ligera",
   coste: "media"
@@ -777,7 +777,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos fuera del horno antes de servir: el caldo se asienta y cada cucharada queda untuosa."
   ],
   nutricion: { kcal: 820, prot: 50, hc: 65, grasa: 40 },
-  etiquetas: ["al horno", "de cuchara", "invierno", "para invitados", "alta en proteína"],
+  etiquetas: ["al horno", "de cuchara", "invierno", "para invitados", "alta en proteína", "poco especiada"],
   consejo: "La grasa de pato sobrante del bote es oro: guárdala en la nevera para asar patatas. El cassoulet recalentado al día siguiente a 160 °C durante 20 minutos está incluso mejor.",
   contundencia: "contundente",
   coste: "premium"
@@ -828,7 +828,7 @@ window.RECETAS_SEED.push({
     "Sirve el chili sobre el arroz con una cucharada de yogur, cilantro picado y gajos de la otra media lima."
   ],
   nutricion: { kcal: 710, prot: 32, hc: 110, grasa: 16 },
-  etiquetas: ["de cuchara", "picante", "batch cooking", "económica", "invierno"],
+  etiquetas: ["de cuchara", "picante", "batch cooking", "económica", "invierno", "bajo en colesterol"],
   consejo: "El chili congela perfectamente y gana con un día de reposo. Para una versión con carne, dora 200 g de ternera picada antes del sofrito y reduce las alubias negras a 100 g.",
   contundencia: "contundente",
   coste: "económica"
@@ -872,7 +872,7 @@ window.RECETAS_SEED.push({
     "Incorpora la rúcula y la mitad de la calabaza y mezcla con suavidad. Reparte en dos platos, coloca el resto de la calabaza encima, el queso de cabra desmenuzado en trozos grandes y las nueces. Termina con pimienta recién molida."
   ],
   nutricion: { kcal: 580, prot: 27, hc: 58, grasa: 27 },
-  etiquetas: ["al horno", "ideal para llevar", "otoño", "batch cooking"],
+  etiquetas: ["al horno", "ideal para llevar", "otoño", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Las lentejas beluga mantienen la forma y no se pasan: cuécelas con antelación y guárdalas aliñadas hasta 3 días. En lugar de calabaza, el boniato o la remolacha asada funcionan igual de bien.",
   contundencia: "media",
   coste: "media"
@@ -920,7 +920,7 @@ window.RECETAS_SEED.push({
     "Sirve la coliflor y los garbanzos calientes con la raita al lado, la cebolla morada, el cilantro y la menta restante picados y gajos de limón."
   ],
   nutricion: { kcal: 430, prot: 22, hc: 46, grasa: 17 },
-  etiquetas: ["al horno", "ligera", "económica", "picante", "una sola bandeja"],
+  etiquetas: ["al horno", "ligera", "económica", "picante", "una sola bandeja", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Para una cena más completa, acompaña con pan naan o pita caliente; para comida más saciante, con 120 g de arroz basmati. Si tienes tiempo, deja marinar la coliflor 1 hora en la nevera: el sabor se multiplica.",
   contundencia: "ligera",
   coste: "económica"
@@ -1099,7 +1099,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con gajos del limón restante. Aguanta hasta 2 días en la nevera sin la rúcula."
   ],
   nutricion: { kcal: 440, prot: 34, hc: 42, grasa: 15 },
-  etiquetas: ["rápida", "sin cocción", "ligera", "económica", "alta en proteína", "ideal para llevar", "verano"],
+  etiquetas: ["rápida", "sin cocción", "ligera", "económica", "alta en proteína", "ideal para llevar", "verano", "superalimentos", "poco especiada"],
   consejo: "Si usas bonito en conserva en lugar de atún, la ensalada sube de nivel sin cambiar nada más. Para una versión más saciante, añade 2 huevos duros en cuartos.",
   contundencia: "ligera",
   coste: "económica"
@@ -1144,7 +1144,7 @@ window.RECETAS_SEED.push({
     "Sirve primero la sopa de fideos bien caliente y después la fuente de garbanzos, verduras y carnes. Pon un cuenco de sal gorda y aceite en la mesa."
   ],
   nutricion: { kcal: 760, prot: 50, hc: 85, grasa: 25 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "para niños"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "para niños", "poco especiada"],
   consejo: "En olla exprés tarda 30 minutos a presión alta (todo salvo repollo, patata y fideos) y luego 8 minutos con la verdura. Los garbanzos sobrantes, salteados al día siguiente con el chorizo y un huevo, son la ropa vieja perfecta.",
   contundencia: "contundente",
   coste: "económica"

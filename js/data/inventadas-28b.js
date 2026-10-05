@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "Abre, remueve con cuidado y, si el caldo está muy ligero, hierve 3 minutos destapado. Debe quedar una salsa espesa, dorada y con sabor a almendra. Reposa 5 minutos y sirve."
   ],
   nutricion: { kcal: 445, prot: 10, hc: 54, grasa: 21 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "vegana"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "vegana", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "El nombre viene de ajo y pollo, aunque no lleva pollo: es la salsa la que se hacía para el ave. Si quieres darle más fondo, añade un huevo escalfado al final o unos tacos de bacalao.",
   contundencia: "ligera",
   coste: "económica"
@@ -76,7 +76,7 @@ window.RECETAS_SEED.push({
     "Vuelve a ponerla al fuego, incorpora el repollo y las patatas y rehoga 3 minutos, aplastando un poco las patatas, hasta que todo quede bien impregnado. Si se seca, añade un chorrito del caldo. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 596, prot: 22, hc: 46, grasa: 36 },
-  etiquetas: ["tradicional", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "fácil", "económica", "invierno", "poco especiada"],
   consejo: "El caldo de cocer el repollo, con un chorro de aceite y un poco de pan, da para una sopa de cena. Con morcilla en vez de chorizo también es de lo más tradicional.",
   contundencia: "media",
   coste: "económica"
@@ -112,7 +112,7 @@ window.RECETAS_SEED.push({
     "Corta los chorizos en rodajas gruesas y sírvelos sobre las patatas con todo su jugo."
   ],
   nutricion: { kcal: 574, prot: 24, hc: 52, grasa: 30 },
-  etiquetas: ["tradicional", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "fácil", "económica", "invierno", "sin verduras", "poco especiada"],
   consejo: "La sidra natural es ácida y redondea la grasa del chorizo: no uses sidra dulce espumosa. Ten pan cerca, porque el jugo pide mojar.",
   contundencia: "media",
   coste: "económica"
@@ -160,7 +160,7 @@ window.RECETAS_SEED.push({
     "Napa las cebollas con la salsa y sírvelas con pan."
   ],
   nutricion: { kcal: 845, prot: 37, hc: 79, grasa: 42 },
-  etiquetas: ["tradicional", "saciante", "económica", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "económica", "de domingo", "batch cooking", "poco especiada"],
   consejo: "Si las cebollas son muy duras de vaciar, escáldalas enteras 3 minutos en agua hirviendo: las capas se separan solas. Con el relleno que sobre haz unas albóndigas y guísalas junto a ellas.",
   contundencia: "contundente",
   coste: "económica"
@@ -245,7 +245,7 @@ window.RECETAS_SEED.push({
     "Cubre con la mayonesa restante, decora con las aceitunas y la yema rallada y sirve fresca."
   ],
   nutricion: { kcal: 622, prot: 29, hc: 50, grasa: 34 },
-  etiquetas: ["tradicional", "fácil", "económica", "verano", "para niños", "ideal para llevar"],
+  etiquetas: ["tradicional", "fácil", "económica", "verano", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "El truco de las abuelas es cocer patata y zanahoria al punto, nunca deshechas, y mezclar en frío. Un chorrito del aceite del atún en la mayonesa le da todavía más sabor.",
   contundencia: "media",
   coste: "económica"
@@ -284,7 +284,7 @@ window.RECETAS_SEED.push({
     "Reparte por encima el huevo duro en cuartos y el atún en lascas, y sirve templado o frío."
   ],
   nutricion: { kcal: 457, prot: 22, hc: 45, grasa: 21 },
-  etiquetas: ["tradicional", "fácil", "económica", "ligera", "verano", "ideal para llevar"],
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "verano", "ideal para llevar", "poco especiada"],
   consejo: "En Cádiz se dice que las patatas aliñás tienen que estar un rato «durmiendo» en su aliño. Hazlas una hora antes y mételas en la nevera si hace calor.",
   contundencia: "ligera",
   coste: "económica"
@@ -327,7 +327,7 @@ window.RECETAS_SEED.push({
     "Abre, aplasta un par de patatas para espesar el caldo, prueba de sal y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 633, prot: 16, hc: 68, grasa: 33 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "poco especiada"],
   consejo: "Los níscalos manchan de naranja el guiso y le dan un sabor a monte inconfundible. Fuera de temporada usa champiñones y un puñado de setas secas hidratadas.",
   contundencia: "media",
   coste: "media"
@@ -376,7 +376,7 @@ window.RECETAS_SEED.push({
     "Saca el albondigón y deja que repose 5 minutos. Retira el laurel y tritura la salsa con las verduras. Corta en rodajas gruesas y sirve con el puré y la salsa por encima."
   ],
   nutricion: { kcal: 940, prot: 49, hc: 69, grasa: 52 },
-  etiquetas: ["tradicional", "saciante", "económica", "para niños", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "económica", "para niños", "de domingo", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Para que no se rompa al cortarlo, déjalo templar. Frío se corta en lonchas perfectas y recalentado en su salsa queda todavía más jugoso.",
   contundencia: "contundente",
   coste: "económica"
@@ -420,7 +420,7 @@ window.RECETAS_SEED.push({
     "Sirve 2 codornices por persona, templadas, con sus verduras escabechadas y la ensalada al lado."
   ],
   nutricion: { kcal: 458, prot: 43, hc: 22, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "ligera", "verano", "batch cooking", "ideal para llevar"],
+  etiquetas: ["tradicional", "fácil", "ligera", "verano", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Cubiertas por su escabeche y en un tarro bien cerrado aguantan una semana en la nevera. Sácalas media hora antes de comer para que el aceite vuelva a estar líquido.",
   contundencia: "ligera",
   coste: "media"
@@ -553,7 +553,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con un trozo de mazorca y lleva a la mesa la nata, las alcaparras, el aguacate en láminas y las hojas de cilantro para que cada uno se las ponga."
   ],
   nutricion: { kcal: 572, prot: 47, hc: 60, grasa: 16 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "poco especiada"],
   consejo: "La guasca es la hierba que le da su sabor; se vende seca en tiendas latinas. Las alcaparras y la nata se añaden en el plato, nunca en la olla, para que cada cucharada sea distinta.",
   contundencia: "media",
   coste: "económica"
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos grandes: en cada uno, un trozo de carne, una papa, un trozo de zapallo y de choclo, cubiertos de caldo, y cilantro picado por encima."
   ],
   nutricion: { kcal: 620, prot: 46, hc: 73, grasa: 16 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "poco especiada"],
   consejo: "En Chile cada ingrediente va en una sola pieza grande por plato: se come con cuchillo, tenedor y cuchara. El tuétano del ossobuco, untado en pan, es el premio.",
   contundencia: "media",
   coste: "media"
@@ -689,7 +689,7 @@ window.RECETAS_SEED.push({
     "Sirve con el cilantro y la cebolleta picados por encima."
   ],
   nutricion: { kcal: 922, prot: 39, hc: 88, grasa: 46 },
-  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "poco especiada"],
   consejo: "Es comida de arrieros de Minas Gerais. Si la haces la víspera, la grasa cuaja arriba en la nevera y se retira de una pieza: el guiso queda igual de meloso y mucho más ligero.",
   contundencia: "contundente",
   coste: "media"
@@ -729,7 +729,7 @@ window.RECETAS_SEED.push({
     "Apaga y deja reposar 5 minutos: las patatas absorben el caldo y toman color. Sirve en cuencos con un poco de su jugo."
   ],
   nutricion: { kcal: 529, prot: 35, hc: 68, grasa: 13 },
-  etiquetas: ["tradicional", "fácil", "para niños", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "para niños", "batch cooking", "poco especiada"],
   consejo: "En Japón es el plato que sabe a casa de madre, y como todos los guisos está más rico al día siguiente. Acompáñalo de un cuenco de arroz blanco si tienes mucha hambre.",
   contundencia: "media",
   coste: "media"
@@ -772,7 +772,7 @@ window.RECETAS_SEED.push({
     "Sirve con la cebolleta en rodajas y el sésamo por encima."
   ],
   nutricion: { kcal: 598, prot: 53, hc: 65, grasa: 14 },
-  etiquetas: ["tradicional", "fácil", "económica", "picante", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "económica", "picante", "alta en proteína", "bajo en colesterol"],
   consejo: "El primer hervor rápido del pollo es el truco coreano para un guiso sin espuma ni grasa. Si no te gusta el picante, reduce el gochujang a 1 cucharada y quita el pimentón picante.",
   contundencia: "media",
   coste: "económica"
@@ -818,7 +818,7 @@ window.RECETAS_SEED.push({
     "Sirve con el arroz, la cebolleta picada y el sésamo por encima."
   ],
   nutricion: { kcal: 1014, prot: 49, hc: 98, grasa: 48 },
-  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "poco especiada"],
   consejo: "Es el plato de las grandes fiestas coreanas. La pera no solo endulza: sus enzimas ablandan la carne. Si lo haces la víspera, retira la grasa cuajada en frío y queda perfecto.",
   contundencia: "contundente",
   coste: "premium"
@@ -866,7 +866,7 @@ window.RECETAS_SEED.push({
     "Sirve el nihari con la cebolla frita reservada, el jengibre en juliana, el cilantro picado y la lima en cuartos, con el pan para mojar."
   ],
   nutricion: { kcal: 826, prot: 62, hc: 63, grasa: 36 },
-  etiquetas: ["tradicional", "saciante", "fácil", "picante", "invierno"],
+  etiquetas: ["tradicional", "saciante", "fácil", "picante", "invierno", "sin verduras"],
   consejo: "Tradicionalmente se cocía toda la noche y se desayunaba al amanecer; en olla exprés queda igual de meloso. La lima y el jengibre crudo en el plato equilibran la intensidad de las especias.",
   contundencia: "contundente",
   coste: "media"
@@ -912,7 +912,7 @@ window.RECETAS_SEED.push({
     "Vierte el tadka chisporroteando sobre el sambar, remueve, prueba de sal y sirve con cilantro picado."
   ],
   nutricion: { kcal: 404, prot: 18, hc: 65, grasa: 8 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "vegana", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "vegana", "batch cooking", "detox", "bajo en colesterol"],
   consejo: "En el sur de la India se toma con arroz o con idlis en el desayuno. El tamarindo da su acidez característica: si no lo tienes, usa el zumo de media lima al final.",
   contundencia: "ligera",
   coste: "económica"
@@ -956,7 +956,7 @@ window.RECETAS_SEED.push({
     "Con la olla fuera del fuego, vierte la mezcla y remueve hasta que el caldo se vuelva cremoso; no dejes que hierva o la yema se cuajará. Añade un chorrito de limón, prueba de sal y sirve con perejil picado."
   ],
   nutricion: { kcal: 560, prot: 40, hc: 42, grasa: 25 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "para niños", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "para niños", "invierno", "poco especiada"],
   consejo: "Originalmente era de pescado de río; el de pollo es el que se hizo popular. Sírvelo en plato hondo con pan con mantequilla, como en Flandes.",
   contundencia: "media",
   coste: "media"
@@ -1001,7 +1001,7 @@ window.RECETAS_SEED.push({
     "Sirve 4 rollitos por persona con el repollo y su caldo, y una cucharada de yogur por encima."
   ],
   nutricion: { kcal: 586, prot: 33, hc: 38, grasa: 34 },
-  etiquetas: ["tradicional", "económica", "invierno", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "económica", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "En los Balcanes se hacen con hojas de repollo fermentado; si encuentras chucrut, pon una capa en el fondo en lugar del repollo picado. Recalentados al día siguiente están todavía mejor.",
   contundencia: "media",
   coste: "económica"
@@ -1043,7 +1043,7 @@ window.RECETAS_SEED.push({
     "Corta la carne en lonchas contra la fibra y sírvela sobre el hutspot, regada con el jugo restante."
   ],
   nutricion: { kcal: 631, prot: 37, hc: 69, grasa: 23 },
-  etiquetas: ["tradicional", "fácil", "económica", "invierno", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "invierno", "para niños", "verduras escondidas", "poco especiada"],
   consejo: "En Leiden se come el 3 de octubre para celebrar el fin del asedio de 1574. Haz un hueco en el centro del puré y llénalo con el jugo de la carne, como hacen allí.",
   contundencia: "media",
   coste: "económica"
@@ -1088,7 +1088,7 @@ window.RECETAS_SEED.push({
     "Hierve destapado a fuego medio 8 minutos, removiendo, hasta que las habas estén tiernas y el guiso quede espeso. Prueba de sal y pimienta y sirve."
   ],
   nutricion: { kcal: 562, prot: 44, hc: 47, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "para niños", "poco especiada"],
   consejo: "Virginia y Georgia se disputan su origen; allí se sirve con pan de maíz. Es perfecto para aprovechar restos de pollo asado o de cerdo a la barbacoa: añádelos ya cocinados en el paso 5.",
   contundencia: "media",
   coste: "económica"

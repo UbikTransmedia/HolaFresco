@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Aloo gobi",
   subtitulo: "patata y coliflor salteadas con comino, cúrcuma y jengibre, con arroz basmati",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Destapa, sube el fuego 2-3 minutos para que se doren un poco los bordes, espolvorea el garam masala y el cilantro picado y sirve con el arroz."
   ],
   nutricion: { kcal: 460, prot: 10, hc: 73, grasa: 14 },
-  etiquetas: ["tradicional", "fácil", "económica", "ligera", "una sola sartén"],
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "una sola sartén", "detox", "bajo en colesterol"],
   consejo: "No añadas más agua de la indicada: la coliflor y la patata se hacen al vapor con su propia humedad y así no se deshacen. Si quieres más proteína, añade 200 g de garbanzos cocidos con el tomate.",
   contundencia: "ligera",
   coste: "económica"
@@ -99,7 +99,7 @@ window.RECETAS_SEED.push({
   nombre: "Baingan bharta",
   subtitulo: "berenjena asada y aplastada con cebolla, tomate, guisantes y especias, con arroz basmati",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Termina con el garam masala y el cilantro picado y sirve con el arroz."
   ],
   nutricion: { kcal: 500, prot: 11, hc: 70, grasa: 20 },
-  etiquetas: ["tradicional", "fácil", "económica", "al horno", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "económica", "al horno", "batch cooking", "bajo en colesterol"],
   consejo: "Cuanto más se queme la piel, más sabor ahumado tendrá: es el secreto del plato. En el Punjab se come con roti; si quieres, sirve unas tortillas de trigo calientes en lugar del arroz.",
   contundencia: "media",
   coste: "económica"
@@ -144,7 +144,7 @@ window.RECETAS_SEED.push({
   nombre: "Matar paneer",
   subtitulo: "queso paneer y guisantes en salsa de tomate especiada con un toque de nata, con arroz basmati",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -189,7 +189,7 @@ window.RECETAS_SEED.push({
   nombre: "Anda curry: curry de huevos duros",
   subtitulo: "huevos dorados en salsa de cebolla, tomate y especias, con arroz basmati",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
     "Sirve el sambar en cuencos con cilantro picado y el arroz aparte o debajo."
   ],
   nutricion: { kcal: 540, prot: 18, hc: 87, grasa: 13 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "invierno", "bajo en colesterol"],
   consejo: "El templado de mostaza y especias en aceite se añade siempre al final y chisporroteando: es lo que da el aroma. Tapa la sartén al echar la mostaza, que salta mucho.",
   contundencia: "media",
   coste: "económica"
@@ -281,7 +281,7 @@ window.RECETAS_SEED.push({
   nombre: "Pav bhaji de Bombay",
   subtitulo: "puré especiado de verduras con mantequilla y panecillos tostados, la comida callejera de casa",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida"],
   proteina: "verdura",
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz en cuencos hondos y desliza encima el pollo con el huevo y su caldo. Termina con la cebolleta en aros finos."
   ],
   nutricion: { kcal: 630, prot: 38, hc: 74, grasa: 20 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños", "saciante"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños", "saciante", "sin verduras", "poco especiada"],
   consejo: "El nombre significa 'padre e hijo' (pollo y huevo). La clave es no cuajar el huevo del todo: apágalo cuando aún tiemble, que el calor residual termina el trabajo. Si lo haces por raciones en una sartén pequeña, queda como en Japón.",
   contundencia: "media",
   coste: "económica"
@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con un poco de caldo y el arroz aparte."
   ],
   nutricion: { kcal: 630, prot: 31, hc: 91, grasa: 16 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "batch cooking", "invierno", "poco especiada"],
   consejo: "Es la 'comida de mamá' por excelencia en Japón. La tapa de papel apoyada sobre el guiso hace que el caldo bañe todo sin remover, así las patatas no se rompen. Al día siguiente está todavía más rico.",
   contundencia: "media",
   coste: "media"
@@ -485,7 +485,7 @@ window.RECETAS_SEED.push({
     "Vierte el resto de la salsa y del aceite de sésamo y mezcla con las manos o con dos cucharas hasta que todo se integre. Sirve templado con el huevo en tiras y el sésamo por encima."
   ],
   nutricion: { kcal: 620, prot: 25, hc: 74, grasa: 25 },
-  etiquetas: ["tradicional", "para invitados", "de domingo", "ideal para llevar"],
+  etiquetas: ["tradicional", "para invitados", "de domingo", "ideal para llevar", "poco especiada"],
   consejo: "Saltear cada verdura por separado parece trabajo extra, pero es lo que mantiene cada sabor y color. El japchae se come templado o incluso frío, así que es perfecto para preparar con antelación.",
   contundencia: "media",
   coste: "media"
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
     "Añade las espinacas, deja que se ablanden 1-2 minutos, salpimienta y sirve en cuencos con el arroz."
   ],
   nutricion: { kcal: 590, prot: 38, hc: 81, grasa: 13 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "saciante", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "saciante", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "En las casas filipinas es el guiso de los viernes. Las judías mungo no necesitan remojo y se encuentran en tiendas asiáticas o de dietética; si no, usa lentejas pardinas y el plato funciona igual.",
   contundencia: "media",
   coste: "media"
@@ -611,7 +611,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con gajos de limón para exprimir por encima."
   ],
   nutricion: { kcal: 620, prot: 41, hc: 73, grasa: 18 },
-  etiquetas: ["tradicional", "fácil", "saciante", "para invitados", "una sola sartén"],
+  etiquetas: ["tradicional", "fácil", "saciante", "para invitados", "una sola sartén", "poco especiada"],
   consejo: "En Filipinas el pancit no falta en los cumpleaños: los fideos largos simbolizan una vida larga, así que no los cortes. El zumo de limón al final (allí usan calamansi) es imprescindible.",
   contundencia: "media",
   coste: "media"
@@ -622,7 +622,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos revueltos con tomate al estilo chino",
   subtitulo: "fanqie chao dan: huevo esponjoso y tomate en salsa dulce y salada, sobre arroz jazmín",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -650,7 +650,7 @@ window.RECETAS_SEED.push({
     "Devuelve el huevo, mezcla con suavidad 30 segundos y sirve sobre el arroz con el verde de la cebolleta por encima."
   ],
   nutricion: { kcal: 455, prot: 18, hc: 56, grasa: 18 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños", "ligera"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños", "ligera", "poco especiada"],
   consejo: "Es el primer plato que aprende a cocinar cualquier niño en China. El azúcar no lo hace dulce: equilibra la acidez del tomate. Cuanto más maduro esté el tomate, más rica sale la salsa.",
   contundencia: "ligera",
   coste: "económica"
@@ -740,7 +740,7 @@ window.RECETAS_SEED.push({
     "Monta cada bandeja con el arroz, los fríjoles, la carne, el chicharrón, el huevo frito, el plátano, la arepa y el aguacate en láminas."
   ],
   nutricion: { kcal: 1090, prot: 40, hc: 118, grasa: 51 },
-  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "poco especiada"],
   consejo: "Es un plato para un domingo con hambre de arriero. Aprovecha la grasa del chicharrón para todo lo demás: es lo que da el sabor paisa. Si quieres aligerarla, quita el chicharrón y deja la carne molida.",
   contundencia: "contundente",
   coste: "media"
@@ -827,7 +827,7 @@ window.RECETAS_SEED.push({
     "Remueve la salsa y viértela: en 30-60 segundos espesará y quedará brillante. Añade los cacahuetes, mezcla y sirve enseguida con el arroz."
   ],
   nutricion: { kcal: 630, prot: 45, hc: 57, grasa: 25 },
-  etiquetas: ["tradicional", "fácil", "rápida", "picante", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "rápida", "picante", "alta en proteína", "sin verduras", "bajo en colesterol"],
   consejo: "Prepara todo antes de encender el fuego: el salteado dura menos de 5 minutos y no da tiempo a picar nada. Las guindillas perfuman el aceite pero no hace falta comérselas.",
   contundencia: "media",
   coste: "media"
@@ -917,7 +917,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y sirve las alubias bien calientes encima o al lado."
   ],
   nutricion: { kcal: 700, prot: 28, hc: 98, grasa: 22 },
-  etiquetas: ["tradicional", "al horno", "de cuchara", "saciante", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "al horno", "de cuchara", "saciante", "económica", "batch cooking", "invierno", "sin verduras", "poco especiada"],
   consejo: "El horno lento es lo que convierte la salsa en un almíbar salado; no subas la temperatura para acortar. Si cueces tú las alubias desde seco, usa su caldo en lugar de agua: la salsa quedará más cremosa.",
   contundencia: "contundente",
   coste: "económica"
@@ -965,7 +965,7 @@ window.RECETAS_SEED.push({
     "Saca la carne y déjala reposar 10 minutos. Si la salsa está muy líquida, redúcela a fuego fuerte 5 minutos. Corta o desmenuza la carne y sírvela con las verduras y la salsa por encima."
   ],
   nutricion: { kcal: 840, prot: 52, hc: 60, grasa: 44 },
-  etiquetas: ["tradicional", "al horno", "saciante", "de domingo", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "al horno", "saciante", "de domingo", "para invitados", "invierno", "poco especiada"],
   consejo: "Es el asado del domingo de las abuelas americanas: lo metes al horno y te olvidas. Usa una pieza con vetas de grasa y colágeno (aguja, morcillo, llana); una pieza magra quedaría seca. Las sobras son perfectas para bocadillos.",
   contundencia: "contundente",
   coste: "premium"
@@ -1012,7 +1012,7 @@ window.RECETAS_SEED.push({
     "Tapa con la otra mitad del pan y sirve con las mazorcas untadas en mantequilla y sal y los pepinillos al lado."
   ],
   nutricion: { kcal: 775, prot: 42, hc: 66, grasa: 38 },
-  etiquetas: ["tradicional", "saciante", "fácil", "rápida", "para niños"],
+  etiquetas: ["tradicional", "saciante", "fácil", "rápida", "para niños", "poco especiada"],
   consejo: "Es el bocadillo de las cenas de los jueves en las casas americanas: se come con cuchillo, tenedor y servilletas, porque 'sloppy' significa desastrado. La carne sobrante se congela y sirve para rellenar patatas asadas.",
   contundencia: "contundente",
   coste: "media"
@@ -1057,7 +1057,7 @@ window.RECETAS_SEED.push({
     "Añade la carne de las almejas, calienta 1 minuto, prueba de sal (las almejas ya salan) y pimienta. Sirve con perejil picado y el pan tostado."
   ],
   nutricion: { kcal: 690, prot: 28, hc: 66, grasa: 35 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "para invitados", "poco especiada"],
   consejo: "Las almejas van al final y solo para calentarse: si hierven con la sopa se vuelven de goma. En Boston se sirve con galletas saladas desmenuzadas por encima; prueba también, que le dan un punto crujiente.",
   contundencia: "contundente",
   coste: "premium"
@@ -1103,7 +1103,7 @@ window.RECETAS_SEED.push({
     "Sirve la polenta en platos hondos con las gambas y su salsa encima, el bacon desmenuzado y el verde de la cebolleta. Acompaña con gajos de limón."
   ],
   nutricion: { kcal: 745, prot: 47, hc: 49, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "fácil", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "fácil", "para invitados", "de domingo", "sin verduras"],
   consejo: "Los grits del sur son sémola de maíz blanco; la polenta de grano medio da un resultado casi idéntico. Remuévela a menudo y no tengas prisa: cuanto más despacio, más cremosa.",
   contundencia: "contundente",
   coste: "premium"

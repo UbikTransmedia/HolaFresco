@@ -39,7 +39,7 @@ window.RECETAS_SEED.push({
     "Extiende el cremoso de queso griego en la base de cada plato, coloca encima el pollo y las verduras salteadas, y acompaña con los triángulos de pita para mojar."
   ],
   nutricion: { kcal: 700, prot: 49, hc: 44, grasa: 36 },
-  etiquetas: ["alta en proteína", "mediterránea", "verano", "una sola sartén"],
+  etiquetas: ["alta en proteína", "mediterránea", "verano", "una sola sartén", "poco especiada"],
   consejo: "Si el cremoso queda demasiado espeso, aflójalo con una cucharada de agua o de leche. Puedes prepararlo con un día de antelación."
 });
 
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Sirve en la mesa el arroz, el pollo, la zanahoria aliñada, los cacahuetes, el resto de salsa de mostaza y miel y las hojas de lechuga. Cada uno monta sus ssam: hoja, un poco de arroz, pollo, zanahoria y cacahuetes por encima."
   ],
   nutricion: { kcal: 660, prot: 40, hc: 58, grasa: 26 },
-  etiquetas: ["asiática", "alta en proteína", "para compartir", "para niños"],
+  etiquetas: ["asiática", "alta en proteína", "para compartir", "para niños", "poco especiada"],
   consejo: "Si tienes tiempo, deja el pollo marinando en la nevera desde la mañana: quedará más jugoso y sabroso."
 });
 
@@ -184,7 +184,7 @@ window.RECETAS_SEED.push({
     "Mientras reposa, corta el pepino y los tomates en dados, la cebolla morada en juliana fina y mezcla con las aceitunas, el vinagre, media cucharada de aceite, 1 cdta de orégano y sal. Sirve la moussaka con la ensalada al lado."
   ],
   nutricion: { kcal: 740, prot: 43, hc: 38, grasa: 46 },
-  etiquetas: ["al horno", "invierno", "batch cooking", "mediterránea"],
+  etiquetas: ["al horno", "invierno", "batch cooking", "mediterránea", "poco especiada"],
   consejo: "La moussaka está incluso mejor al día siguiente: hazla el doble y congela porciones ya cortadas."
 });
 
@@ -227,7 +227,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de la albahaca fresca por encima."
   ],
   nutricion: { kcal: 690, prot: 41, hc: 26, grasa: 46 },
-  etiquetas: ["al horno", "baja en hidratos", "alta en proteína", "batch cooking"],
+  etiquetas: ["al horno", "baja en hidratos", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Si quieres un plato más contundente, acompáñala con pan tostado con ajo o añade una capa de patata cocida en láminas finas."
 });
 
@@ -271,7 +271,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con las verduras y patatas, y riega todo con la vinagreta."
   ],
   nutricion: { kcal: 760, prot: 36, hc: 62, grasa: 40 },
-  etiquetas: ["todo al horno", "al horno", "para niños", "invierno"],
+  etiquetas: ["todo al horno", "al horno", "para niños", "invierno", "poco especiada"],
   consejo: "Si los contramuslos son grandes, hazles dos cortes hasta el hueso para que se cocinen de forma pareja. Puedes quitar la piel antes de servir para aligerar el plato."
 });
 
@@ -315,7 +315,7 @@ window.RECETAS_SEED.push({
     "Saca del horno, exprime el zumo de medio limón por encima y espolvorea el perejil picado. Sirve directamente de la bandeja, aprovechando el jugo del fondo."
   ],
   nutricion: { kcal: 690, prot: 44, hc: 52, grasa: 34 },
-  etiquetas: ["todo al horno", "al horno", "alta en proteína", "mediterránea"],
+  etiquetas: ["todo al horno", "al horno", "alta en proteína", "mediterránea", "poco especiada"],
   consejo: "No amontones las verduras: si no caben holgadas en una bandeja, usa dos. Apretadas se cuecen en lugar de asarse y no se doran."
 });
 
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz, con el sésamo por encima y sriracha para quien quiera picante."
   ],
   nutricion: { kcal: 700, prot: 48, hc: 74, grasa: 22 },
-  etiquetas: ["asiática", "alta en proteína", "una sola sartén", "ligera"],
+  etiquetas: ["asiática", "alta en proteína", "una sola sartén", "ligera", "superalimentos", "bajo en colesterol"],
   consejo: "Ten todos los ingredientes cortados y la salsa lista antes de encender el wok: un salteado dura 10 min y no da tiempo a picar nada sobre la marcha."
 });
 
@@ -406,7 +406,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el perejil picado y sirve, idealmente con una ensalada verde."
   ],
   nutricion: { kcal: 650, prot: 40, hc: 30, grasa: 40 },
-  etiquetas: ["al horno", "para niños", "batch cooking", "económica"],
+  etiquetas: ["al horno", "para niños", "batch cooking", "económica", "poco especiada"],
   consejo: "Puedes hacer el doble de relleno y congelarlo: sirve también para rellenar pimientos o calabacines otro día."
 });
 
@@ -450,7 +450,7 @@ window.RECETAS_SEED.push({
     "Sirve espolvoreado con el perejil picado y las hojas del tomillo restante."
   ],
   nutricion: { kcal: 640, prot: 46, hc: 56, grasa: 22 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "para niños", "económica"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "para niños", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Si la salsa queda muy líquida, aplasta un par de trozos de patata contra la pared de la cazuela y remueve: espesará al momento."
 });
 
@@ -496,7 +496,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz con el sésamo tostado por encima."
   ],
   nutricion: { kcal: 710, prot: 46, hc: 74, grasa: 24 },
-  etiquetas: ["asiática", "alta en proteína", "una sola sartén", "ligera"],
+  etiquetas: ["asiática", "alta en proteína", "una sola sartén", "ligera", "superalimentos"],
   consejo: "El solomillo se seca enseguida: sácalo del wok cuando aún esté ligeramente rosado en el centro, terminará de hacerse con la salsa."
 });
 
@@ -538,7 +538,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con las patatas, la cebolla y las rodajas de naranja asadas, regado con la salsa y con las hojas de tomillo restantes."
   ],
   nutricion: { kcal: 760, prot: 36, hc: 72, grasa: 38 },
-  etiquetas: ["todo al horno", "al horno", "para niños", "invierno"],
+  etiquetas: ["todo al horno", "al horno", "para niños", "invierno", "poco especiada"],
   consejo: "Usa naranjas de piel fina (de zumo) para las rodajas: con la piel gruesa amargan. Para aligerar, retira la piel del pollo antes de comer."
 });
 

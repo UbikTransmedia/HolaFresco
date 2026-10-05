@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el queso de cabra desmenuzado por encima (se funde con el calor), los ramilletes tostados y las semillas."
   ],
   nutricion: { kcal: 330, prot: 14, hc: 24, grasa: 20 },
-  etiquetas: ["crema", "rápida", "ligera", "vegetariano", "cena", "invierno"],
+  etiquetas: ["crema", "rápida", "ligera", "vegetariano", "cena", "invierno", "poco especiada"],
   consejo: "Las cremas verdes se oscurecen con el tiempo: si la preparas con antelación, enfríala rápido y recaliéntala sin que hierva."
 });
 
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Monta los boles: arroz, encima las verduras y el edamame, la salsa de sésamo por todo, sésamo tostado, cebolleta en rodajitas y un toque de sriracha si lo quieres picante."
   ],
   nutricion: { kcal: 430, prot: 18, hc: 62, grasa: 12 },
-  etiquetas: ["rápida", "vegano", "ligera", "bol", "ideal para llevar", "económica"],
+  etiquetas: ["rápida", "vegano", "ligera", "bol", "ideal para llevar", "económica", "superalimentos", "bajo en colesterol"],
   consejo: "Para convertirlo en plato más completo, añade un huevo mollet (pon 2 huevos en el cestillo con las verduras: con 3 min más 10 de reposo salen con la yema cremosa)."
 });
 
@@ -166,7 +166,7 @@ window.RECETAS_SEED.push({
     "Termina con el feta desmenuzado, el resto de la menta en tiras y un hilo de aceite de oliva."
   ],
   nutricion: { kcal: 280, prot: 10, hc: 22, grasa: 16 },
-  etiquetas: ["crema", "rápida", "ligera", "vegetariano", "verano", "cena", "económica"],
+  etiquetas: ["crema", "rápida", "ligera", "vegetariano", "verano", "cena", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Si el calabacín es grande y con muchas pepitas, retíralas con una cuchara: la crema queda más fina y sin amargor."
 });
 
@@ -207,7 +207,7 @@ window.RECETAS_SEED.push({
     "Vierte el refrito caliente sobre las judías y patatas, mezcla, pon el huevo encima, salpimienta y, si quieres más sustancia, desmenuza el atún por encima."
   ],
   nutricion: { kcal: 400, prot: 18, hc: 40, grasa: 18 },
-  etiquetas: ["rápida", "ligera", "cena", "económica", "para niños", "vegetariano"],
+  etiquetas: ["rápida", "ligera", "cena", "económica", "para niños", "vegetariano", "poco especiada"],
   consejo: "Para que las judías sigan verdes al servir, échales el refrito cuando ya estén en el plato: el ácido del vinagre las apaga si hierven con él."
 });
 
@@ -253,7 +253,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal y pimienta y sirve con un hilo de aceite crudo y parmesano rallado por encima."
   ],
   nutricion: { kcal: 540, prot: 46, hc: 44, grasa: 20 },
-  etiquetas: ["de cuchara", "alta en proteína", "batch cooking", "invierno", "una sola olla"],
+  etiquetas: ["de cuchara", "alta en proteína", "batch cooking", "invierno", "una sola olla", "superalimentos", "bajo en colesterol"],
   consejo: "El muslo de pavo aguanta la presión mucho mejor que la pechuga, que quedaría seca. Si solo tienes pechuga, añádela en dados en el paso 5 y cuécela 5 min destapada."
 });
 
@@ -342,7 +342,7 @@ window.RECETAS_SEED.push({
     "Sirve con la panceta crujiente, las hojas de salvia fritas y pimienta recién molida."
   ],
   nutricion: { kcal: 600, prot: 18, hc: 74, grasa: 26 },
-  etiquetas: ["arroz", "otoño", "cremoso", "rápida", "una sola olla"],
+  etiquetas: ["arroz", "otoño", "cremoso", "rápida", "una sola olla", "poco especiada"],
   consejo: "Sin panceta es un plato vegetariano redondo; sustituye su crujiente por nueces tostadas picadas."
 });
 
@@ -442,7 +442,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con el pollo encima y gajos de lima para exprimir."
   ],
   nutricion: { kcal: 690, prot: 42, hc: 72, grasa: 26 },
-  etiquetas: ["arroz", "una sola olla", "económica", "para niños", "contundente"],
+  etiquetas: ["arroz", "una sola olla", "económica", "para niños", "contundente", "poco especiada"],
   consejo: "Si te gusta el socarrat, pasa el arroz ya cocido a una sartén ancha con una gota de aceite 2 min a fuego fuerte sin remover."
 });
 
@@ -488,7 +488,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa con la mantequilla de pimentón por encima, el resto del limón en gajos y el pan de pita tostado en triángulos."
   ],
   nutricion: { kcal: 380, prot: 20, hc: 50, grasa: 10 },
-  etiquetas: ["sopa", "ligera", "vegetariano", "económica", "invierno", "de cuchara"],
+  etiquetas: ["sopa", "ligera", "vegetariano", "económica", "invierno", "de cuchara", "verduras escondidas", "poco especiada"],
   consejo: "Sin la mantequilla final (usa aceite) es vegana. Es la sopa que en Turquía sirven de desayuno los días de frío: con un huevo escalfado dentro, es una cena completa."
 });
 
@@ -533,7 +533,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 min fuera del fuego y sirve con el perejil restante picado."
   ],
   nutricion: { kcal: 520, prot: 38, hc: 40, grasa: 22 },
-  etiquetas: ["marinero", "de cuchara", "fin de semana", "alta en proteína"],
+  etiquetas: ["marinero", "de cuchara", "fin de semana", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El rape nunca va a presión: se encoge y queda gomoso. Para abaratar, usa merluza o bacalao fresco: el procedimiento es idéntico."
 });
 
@@ -572,7 +572,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre las patatas (en plato de madera, si lo tienes), espolvorea los dos pimentones y la sal gruesa y riega generosamente con el aceite."
   ],
   nutricion: { kcal: 520, prot: 44, hc: 36, grasa: 22 },
-  etiquetas: ["marinero", "fin de semana", "para compartir", "alta en proteína", "sin gluten"],
+  etiquetas: ["marinero", "fin de semana", "para compartir", "alta en proteína", "sin gluten", "sin verduras"],
   consejo: "El pulpo congelado sale más tierno que el fresco (el hielo rompe las fibras). Con el agua de cocción sobrante haz un arroz caldoso al día siguiente."
 });
 
@@ -617,7 +617,7 @@ window.RECETAS_SEED.push({
     "Calienta las tortillas en una sartén seca 30 s por lado. Sirve los frijoles en bol con cebolla morada, cilantro picado, queso fresco y lima, y las tortillas para acompañar."
   ],
   nutricion: { kcal: 450, prot: 20, hc: 66, grasa: 12 },
-  etiquetas: ["vegetariano", "económica", "batch cooking", "de cuchara", "sin remojo", "ligera"],
+  etiquetas: ["vegetariano", "económica", "batch cooking", "de cuchara", "sin remojo", "ligera", "sin verduras", "bajo en colesterol"],
   consejo: "Los frijoles de olla son la base: al día siguiente, fríelos en una sartén con un poco de manteca o aceite aplastándolos y tendrás frijoles refritos para tacos y huevos rancheros."
 });
 
@@ -664,7 +664,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo a la salsa 1 min para que se caliente y sirve con perejil picado y el pan tostado para mojar."
   ],
   nutricion: { kcal: 600, prot: 46, hc: 32, grasa: 32 },
-  etiquetas: ["guiso", "económica", "batch cooking", "otoño", "una sola olla"],
+  etiquetas: ["guiso", "económica", "batch cooking", "otoño", "una sola olla", "poco especiada"],
   consejo: "Si lo haces en cazuela normal, cuece tapado a fuego suave 40 min. Acompáñalo de polenta cremosa en lugar de pan si quieres un plato más contundente."
 });
 
@@ -711,7 +711,7 @@ window.RECETAS_SEED.push({
     "Mientras, dora la otra manzana en gajos con el resto de la mantequilla en una sartén 3 min por lado. Sirve el cerdo con su salsa, los gajos de manzana dorados y las patatas."
   ],
   nutricion: { kcal: 680, prot: 44, hc: 54, grasa: 30 },
-  etiquetas: ["guiso", "otoño", "contundente", "fin de semana", "batch cooking"],
+  etiquetas: ["guiso", "otoño", "contundente", "fin de semana", "batch cooking", "poco especiada"],
   consejo: "La paleta tiene la grasa justa para la olla; el lomo se secaría. Si quieres aligerar, cambia la nata por yogur griego añadido fuera del fuego."
 });
 
@@ -809,7 +809,7 @@ window.RECETAS_SEED.push({
     "Sirve el rendang con el arroz y gajos de lima."
   ],
   nutricion: { kcal: 760, prot: 46, hc: 60, grasa: 36 },
-  etiquetas: ["picante", "especiado", "contundente", "fin de semana", "batch cooking"],
+  etiquetas: ["picante", "especiado", "contundente", "fin de semana", "batch cooking", "sin verduras"],
   consejo: "La reducción final es el paso que define el rendang: no te saltes los últimos 10 min aunque parezca que ya está. En olla tradicional son 3 h; aquí poco más de 1."
 });
 
@@ -852,7 +852,7 @@ window.RECETAS_SEED.push({
     "Gratina bajo el grill 4-5 min hasta que el queso burbujee y se dore. Sirve con cuidado: los cuencos queman."
   ],
   nutricion: { kcal: 520, prot: 20, hc: 50, grasa: 26 },
-  etiquetas: ["sopa", "invierno", "vegetariano", "cena", "gratinado"],
+  etiquetas: ["sopa", "invierno", "vegetariano", "cena", "gratinado", "poco especiada"],
   consejo: "Usa caldo de verduras si la quieres vegetariana del todo. El secreto es la paciencia con la cebolla: cuanto más oscura (sin quemarse), más dulce y profunda la sopa."
 });
 
@@ -902,7 +902,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo 1 min, rectifica de sal y pimienta y sirve con perejil picado y pan tostado."
   ],
   nutricion: { kcal: 620, prot: 50, hc: 24, grasa: 36 },
-  etiquetas: ["guiso", "fin de semana", "invierno", "alta en proteína", "de víspera"],
+  etiquetas: ["guiso", "fin de semana", "invierno", "alta en proteína", "de víspera", "poco especiada"],
   consejo: "Un vino que te beberías, no uno de cocina: la salsa es básicamente vino reducido. Acompaña con puré de patata si quieres un plato de domingo completo."
 });
 
@@ -1105,7 +1105,7 @@ window.RECETAS_SEED.push({
     "Sirve cada codillo entero sobre una cama de chucrut con las patatas al lado y más mostaza en la mesa."
   ],
   nutricion: { kcal: 900, prot: 56, hc: 50, grasa: 52 },
-  etiquetas: ["contundente", "invierno", "fin de semana", "oktoberfest", "guiso"],
+  etiquetas: ["contundente", "invierno", "fin de semana", "oktoberfest", "guiso", "poco especiada"],
   consejo: "Si los codillos son muy grandes y no caben, pide al carnicero que los parta por la mitad a lo largo. El caldo sobrante, desgrasado, es una base estupenda para sopa de lentejas."
 });
 
@@ -1154,6 +1154,6 @@ window.RECETAS_SEED.push({
     "Si la salsa está ligera, reduce destapado 5-8 min a fuego medio-fuerte hasta que nape. Sirve con perejil picado. Es un plato que gana reposado de un día para otro."
   ],
   nutricion: { kcal: 670, prot: 44, hc: 36, grasa: 38 },
-  etiquetas: ["casquería", "de víspera", "contundente", "guiso", "fin de semana", "económica"],
+  etiquetas: ["casquería", "de víspera", "contundente", "guiso", "fin de semana", "económica", "poco especiada"],
   consejo: "Pelar la lengua en caliente es imprescindible: fría no sale. Con el caldo de la primera cocción (muy gelatinoso) tienes base para una sopa de fideos al día siguiente."
 });

@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Pizza de bandeja sin amasar con setas, mozzarella y aceite de trufa",
   subtitulo: "masa de alta hidratación, tomillo, parmesano y rúcula",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   contundencia: "contundente",
   coste: "premium",
@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Fuera del horno riega con el aceite de trufa, añade la rúcula y pimienta, corta en rectángulos y sirve."
   ],
   nutricion: { kcal: 865, prot: 34, hc: 98, grasa: 37 },
-  etiquetas: ["al horno", "masa casera", "fin de semana"],
+  etiquetas: ["al horno", "masa casera", "fin de semana", "poco especiada"],
   consejo: "El aceite de trufa siempre en crudo y con mesura: en el horno pierde el aroma y en exceso empalaga. Dos cucharaditas para toda la bandeja son suficientes."
 });
 
@@ -54,7 +54,7 @@ window.RECETAS_SEED.push({
   nombre: "Focaccia de cebolla morada, aceitunas y romero con ensalada caprese",
   subtitulo: "masa esponjosa de hoyuelos con tomate, mozzarella y albahaca",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   contundencia: "contundente",
   coste: "media",
@@ -91,7 +91,7 @@ window.RECETAS_SEED.push({
     "Sirve la focaccia templada en cuadrados con la caprese al lado."
   ],
   nutricion: { kcal: 870, prot: 28, hc: 104, grasa: 38 },
-  etiquetas: ["al horno", "masa casera", "fin de semana", "verano"],
+  etiquetas: ["al horno", "masa casera", "fin de semana", "verano", "poco especiada"],
   consejo: "Si la cebolla se tuesta demasiado deprisa, cúbrela con papel de aluminio los últimos 5 minutos. La focaccia sobrante, tostada al día siguiente, es un bocadillo de lujo."
 });
 
@@ -100,7 +100,7 @@ window.RECETAS_SEED.push({
   nombre: "Saag paneer con naan de yogur a la sartén",
   subtitulo: "espinacas especiadas con dados de queso dorado y pan plano casero",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "india",
   contundencia: "contundente",
   coste: "media",
@@ -150,7 +150,7 @@ window.RECETAS_SEED.push({
   nombre: "Alcachofas confitadas con huevo escalfado y lascas de parmesano",
   subtitulo: "con ajo, tomillo, limón y tostada frotada con el ajo del confit",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "mediterránea",
   contundencia: "ligera",
   coste: "premium",
@@ -185,7 +185,7 @@ window.RECETAS_SEED.push({
     "Reparte las alcachofas en los platos, pon los huevos encima y sala las yemas. Saca lascas de parmesano con un pelador y termina con perejil picado, pimienta, ralladura del medio limón restante y una cucharadita del aceite del confit. Sirve con la tostada."
   ],
   nutricion: { kcal: 460, prot: 24, hc: 29, grasa: 27 },
-  etiquetas: ["ligera", "alta en proteína", "invierno"],
+  etiquetas: ["ligera", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Cuela y guarda el aceite del confit en la nevera: sabe a alcachofa y ajo y es oro para aliñar ensaladas o asar patatas."
 });
 
@@ -194,7 +194,7 @@ window.RECETAS_SEED.push({
   nombre: "Tarta fina de higos, queso de cabra, miel y nueces con rúcula",
   subtitulo: "sobre hojaldre crujiente con tomillo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   contundencia: "media",
   coste: "premium",
@@ -227,7 +227,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos, riega con la miel restante y sirve la tarta partida en dos con la rúcula encima."
   ],
   nutricion: { kcal: 610, prot: 17, hc: 52, grasa: 37 },
-  etiquetas: ["al horno", "verano", "ideal para llevar"],
+  etiquetas: ["al horno", "verano", "ideal para llevar", "poco especiada"],
   consejo: "Fuera de temporada de higos, usa pera en láminas o uvas partidas: el contraste dulce-salado con el queso de cabra funciona igual."
 });
 
@@ -236,7 +236,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos rancheros con alubias refritas y tortillas de maíz",
   subtitulo: "salsa ranchera de tomate y chile, queso fresco, aguacate y lima",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "latinoamericana",
   contundencia: "media",
   coste: "económica",
@@ -280,7 +280,7 @@ window.RECETAS_SEED.push({
   nombre: "Revuelto de espinacas y requesón con tomates cherry salteados sobre tostada",
   subtitulo: "con ajo, nuez moscada, ralladura de limón y cebollino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "europea",
   contundencia: "ligera",
   coste: "económica",
@@ -313,7 +313,7 @@ window.RECETAS_SEED.push({
     "Sirve el revuelto sobre las tostadas, con los cherry por encima y el cebollino picado."
   ],
   nutricion: { kcal: 420, prot: 26, hc: 27, grasa: 23 },
-  etiquetas: ["rápida", "ligera", "económica", "una sola sartén"],
+  etiquetas: ["rápida", "ligera", "económica", "una sola sartén", "poco especiada"],
   consejo: "El requesón se añade siempre fuera del fuego: si hierve suelta suero y te agua el revuelto."
 });
 
@@ -322,7 +322,7 @@ window.RECETAS_SEED.push({
   nombre: "Queso de cabra gratinado con miel sobre lentejas tibias, pera y nueces",
   subtitulo: "con canónigos, cebolla morada y vinagreta de mostaza",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "ensaladas",
   cocina: "europea",
   contundencia: "ligera",
   coste: "media",
@@ -356,7 +356,7 @@ window.RECETAS_SEED.push({
     "Reparte los canónigos en los platos, encima las lentejas tibias, la pera y las nueces; corona con las rodajas de queso gratinado y riega con el resto de la vinagreta."
   ],
   nutricion: { kcal: 455, prot: 23, hc: 32, grasa: 26 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "invierno"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "invierno", "superalimentos", "poco especiada"],
   consejo: "Si el rulo está muy blando, mételo 15 minutos en el congelador antes de cortarlo: las rodajas saldrán limpias y aguantarán el grill sin desparramarse."
 });
 
@@ -365,7 +365,7 @@ window.RECETAS_SEED.push({
   nombre: "Pitas de paneer especiado a la plancha con tzatziki de menta",
   subtitulo: "fusión indo-griega con pepino, tomate, cebolla morada y lechuga",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "fusión",
   contundencia: "ligera",
   coste: "media",
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
     "Rellena cada pita con lechuga, tomate, cebolla, el paneer y una cucharada generosa de tzatziki; el resto de la salsa, al lado para mojar. Termina con las hojas de menta reservadas."
   ],
   nutricion: { kcal: 460, prot: 22, hc: 37, grasa: 25 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "verano"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "poco especiada"],
   consejo: "Unos pepinillos o guindillas encurtidas en el relleno levantan el conjunto: el paneer es neutro y agradece el ácido."
 });
 
@@ -411,7 +411,7 @@ window.RECETAS_SEED.push({
   nombre: "Tortilla de espinacas a la catalana con piñones, pasas y queso fresco",
   subtitulo: "jugosa, con pan con tomate",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "española",
   contundencia: "ligera",
   coste: "premium",
@@ -443,7 +443,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan, frótalo con el tomate partido, sala y acompaña la tortilla cortada en porciones."
   ],
   nutricion: { kcal: 460, prot: 26, hc: 28, grasa: 27 },
-  etiquetas: ["rápida", "ligera", "una sola sartén", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "una sola sartén", "alta en proteína", "poco especiada"],
   consejo: "Con espinacas congeladas (250 g) también sale: descongélalas y escúrrelas apretando mucho, porque cualquier exceso de agua impide que la tortilla cuaje."
 });
 
@@ -452,7 +452,7 @@ window.RECETAS_SEED.push({
   nombre: "Moussaka vegetariana de lentejas y berenjena con bechamel de yogur",
   subtitulo: "con patata, canela, tomate y costra de parmesano",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   contundencia: "contundente",
   coste: "económica",
@@ -492,7 +492,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar para que las capas se asienten."
   ],
   nutricion: { kcal: 785, prot: 41, hc: 81, grasa: 33 },
-  etiquetas: ["al horno", "batch cooking", "invierno", "alta en proteína", "económica"],
+  etiquetas: ["al horno", "batch cooking", "invierno", "alta en proteína", "económica", "poco especiada"],
   consejo: "Está mejor de un día para otro: recalienta las porciones 20 minutos a 180 °C tapadas con aluminio. Se congela sin problema."
 });
 
@@ -501,7 +501,7 @@ window.RECETAS_SEED.push({
   nombre: "Pastel de calabaza, pimiento y cebolla asados con huevo y feta",
   subtitulo: "al estilo de un pastel de verduras de molde, con tomillo y canónigos",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   contundencia: "ligera",
   coste: "económica",
@@ -538,7 +538,7 @@ window.RECETAS_SEED.push({
     "Aliña los canónigos con el aceite restante, el vinagre y sal, y sirve el pastel en rodajas gruesas, templado o frío, con la ensalada."
   ],
   nutricion: { kcal: 440, prot: 24, hc: 25, grasa: 27 },
-  etiquetas: ["al horno", "ligera", "ideal para llevar", "económica", "batch cooking"],
+  etiquetas: ["al horno", "ligera", "ideal para llevar", "económica", "batch cooking", "poco especiada"],
   consejo: "Es el plato perfecto para el tupper: aguanta 3 días en la nevera y se come frío, templado o pasado un minuto por el microondas."
 });
 
@@ -547,7 +547,7 @@ window.RECETAS_SEED.push({
   nombre: "Pimientos del piquillo rellenos de queso fresco y espinacas con salsa de tomate",
   subtitulo: "gratinados, con tostada para mojar",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "española",
   contundencia: "ligera",
   coste: "media",
@@ -584,7 +584,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y sirve seis piquillos por persona con la salsa y la tostada para mojar."
   ],
   nutricion: { kcal: 455, prot: 24, hc: 36, grasa: 24 },
-  etiquetas: ["al horno", "ligera", "para niños", "ideal para llevar"],
+  etiquetas: ["al horno", "ligera", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "Si algún piquillo viene roto, tritúralo con el tomate de la salsa: le dará un punto dulce y ahumado."
 });
 
@@ -593,7 +593,7 @@ window.RECETAS_SEED.push({
   nombre: "Mac and cheese de calabaza asada con costra de panko",
   subtitulo: "salsa cremosa de cheddar y calabaza con mostaza y pimentón ahumado",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "americana",
   contundencia: "contundente",
   coste: "económica",
@@ -632,7 +632,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con el cebollino picado."
   ],
   nutricion: { kcal: 810, prot: 33, hc: 87, grasa: 36 },
-  etiquetas: ["al horno", "para niños", "económica", "invierno"],
+  etiquetas: ["al horno", "para niños", "económica", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "La calabaza da cremosidad y color sin necesidad de más queso. Si sobra, recalienta con un chorrito de leche: queda como recién hecho."
 });
 
@@ -641,7 +641,7 @@ window.RECETAS_SEED.push({
   nombre: "Nidos de boniato rallado al horno con huevo, feta y cebollino",
   subtitulo: "con pimentón ahumado y ensalada de canónigos y cherry",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "fusión",
   contundencia: "ligera",
   coste: "económica",
@@ -675,7 +675,7 @@ window.RECETAS_SEED.push({
     "Desmolda los nidos con una cuchara, espolvorea el cebollino picado y sirve dos por persona con la ensalada."
   ],
   nutricion: { kcal: 460, prot: 23, hc: 44, grasa: 21 },
-  etiquetas: ["al horno", "ligera", "económica", "para niños"],
+  etiquetas: ["al horno", "ligera", "económica", "para niños", "poco especiada"],
   consejo: "Sin molde de muffins, forma los nidos directamente sobre papel de horno ayudándote de un aro o con las manos: quedan más planos pero igual de crujientes."
 });
 
@@ -684,7 +684,7 @@ window.RECETAS_SEED.push({
   nombre: "Omurice de arroz salteado con champiñones y guisantes envuelto en tortilla",
   subtitulo: "con salsa de tomate y soja y cebollino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "asiática",
   contundencia: "media",
   coste: "económica",
@@ -719,7 +719,7 @@ window.RECETAS_SEED.push({
     "Dibuja una línea con el tomate frito restante sobre cada tortilla, espolvorea cebollino picado y pimienta y sirve enseguida."
   ],
   nutricion: { kcal: 580, prot: 20, hc: 68, grasa: 24 },
-  etiquetas: ["económica", "para niños", "una sola sartén"],
+  etiquetas: ["económica", "para niños", "una sola sartén", "poco especiada"],
   consejo: "Con arroz cocido del día anterior el salteado queda más suelto y la receta se queda en 20 minutos."
 });
 
@@ -728,7 +728,7 @@ window.RECETAS_SEED.push({
   nombre: "Quesadillas de calabacín, maíz y queso con pico de gallo",
   subtitulo: "crujientes a la sartén con comino y lima",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   contundencia: "media",
   coste: "económica",
@@ -770,7 +770,7 @@ window.RECETAS_SEED.push({
   nombre: "Ñoquis caseros de patata con mantequilla de salvia, avellanas y parmesano",
   subtitulo: "dorados en la sartén con rúcula y limón",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   contundencia: "contundente",
   coste: "media",
@@ -805,7 +805,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade las avellanas, unas gotas de limón, pimienta y la mitad del parmesano rallado. Sirve sobre la rúcula con el resto del parmesano por encima."
   ],
   nutricion: { kcal: 790, prot: 23, hc: 106, grasa: 30 },
-  etiquetas: ["masa casera", "fin de semana", "invierno"],
+  etiquetas: ["masa casera", "fin de semana", "invierno", "poco especiada"],
   consejo: "Los ñoquis crudos se congelan muy bien separados en una bandeja: luego se cuecen directamente congelados, un minuto más."
 });
 
@@ -814,7 +814,7 @@ window.RECETAS_SEED.push({
   nombre: "Arepas rellenas de huevo revuelto, aguacate y queso fresco",
   subtitulo: "con tomate y cebolleta, a la sartén",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "latinoamericana",
   contundencia: "contundente",
   coste: "media",
@@ -848,7 +848,7 @@ window.RECETAS_SEED.push({
     "Unta el interior con el aguacate, rellena con el revuelto y termina con el queso fresco. Sirve dos por persona."
   ],
   nutricion: { kcal: 760, prot: 24, hc: 80, grasa: 37 },
-  etiquetas: ["sin gluten", "fin de semana"],
+  etiquetas: ["sin gluten", "fin de semana", "poco especiada"],
   consejo: "Si te sobran arepas sin rellenar, guárdalas en la nevera y recaliéntalas 5 minutos en la sartén seca: recuperan la costra."
 });
 
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
   nombre: "Ramen vegetariano de miso con huevo marinado, setas y pak choi",
   subtitulo: "con mantequilla, maíz y aceite de sésamo",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "sopas-cremas",
   cocina: "asiática",
   contundencia: "media",
   coste: "media",
@@ -892,7 +892,7 @@ window.RECETAS_SEED.push({
     "Vierte el caldo caliente, coloca encima las setas, el pak choi, el maíz y los huevos partidos por la mitad. Termina con la mantequilla, el resto del aceite de sésamo, el sésamo y la parte verde de la cebolleta picada."
   ],
   nutricion: { kcal: 600, prot: 24, hc: 72, grasa: 22 },
-  etiquetas: ["de cuchara", "invierno"],
+  etiquetas: ["de cuchara", "invierno", "poco especiada"],
   consejo: "Los huevos marinados mejoran si los preparas la víspera: en la nevera aguantan 3 días y la yema queda más melosa y sabrosa."
 });
 
@@ -901,7 +901,7 @@ window.RECETAS_SEED.push({
   nombre: "Galettes de trigo sarraceno con espinacas, champiñones, queso y huevo",
   subtitulo: "crepes bretonas saladas con ensalada de canónigos",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "europea",
   contundencia: "media",
   coste: "media",
@@ -935,7 +935,7 @@ window.RECETAS_SEED.push({
     "Sirve una galette con huevo y una sin él por persona, acompañadas de los canónigos aliñados con sal y unas gotas de aceite."
   ],
   nutricion: { kcal: 525, prot: 31, hc: 42, grasa: 26 },
-  etiquetas: ["sin gluten", "una sola sartén"],
+  etiquetas: ["sin gluten", "una sola sartén", "superalimentos", "poco especiada"],
   consejo: "La primera galette casi siempre sale peor: sirve para ajustar el fuego y la cantidad de masa. Si la masa espesa al reposar, aclárala con una cucharada de agua."
 });
 
@@ -944,7 +944,7 @@ window.RECETAS_SEED.push({
   nombre: "Pad thai vegetariano de tofu y huevo con cacahuetes y lima",
   subtitulo: "fideos de arroz salteados con tamarindo y brotes de soja",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "sudeste-asiático",
   contundencia: "media",
   coste: "media",
@@ -988,7 +988,7 @@ window.RECETAS_SEED.push({
   nombre: "Coliflor asada entera con garbanzos especiados, salsa de tahini y yogur",
   subtitulo: "con granada, perejil y comino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   contundencia: "ligera",
   coste: "media",
@@ -1023,7 +1023,7 @@ window.RECETAS_SEED.push({
     "Desgrana la granada y pica el perejil. Extiende la salsa en una fuente, coloca encima la coliflor con los garbanzos y termina con la granada, el perejil y el otro medio limón en gajos. Córtala en cuñas en la mesa."
   ],
   nutricion: { kcal: 425, prot: 20, hc: 42, grasa: 19 },
-  etiquetas: ["al horno", "ligera"],
+  etiquetas: ["al horno", "ligera", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La cocción previa en agua es el truco para que el centro quede tierno a la vez que el exterior se tuesta; sin ella, necesitarías más de una hora de horno."
 });
 
@@ -1032,7 +1032,7 @@ window.RECETAS_SEED.push({
   nombre: "Risotto de setas y azafrán con parmesano",
   subtitulo: "mantecado con mantequilla y perejil",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   contundencia: "contundente",
   coste: "premium",
@@ -1067,7 +1067,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos llanos con las setas reservadas, perejil picado y pimienta recién molida."
   ],
   nutricion: { kcal: 675, prot: 19, hc: 76, grasa: 31 },
-  etiquetas: ["fin de semana", "invierno"],
+  etiquetas: ["fin de semana", "invierno", "poco especiada"],
   consejo: "No laves el arroz: el almidón de la superficie es el que da la cremosidad. Y mantén siempre el caldo caliente; si lo añades frío corta la cocción y el grano se pasa por fuera."
 });
 
@@ -1076,7 +1076,7 @@ window.RECETAS_SEED.push({
   nombre: "Ensalada templada de judías verdes y huevo mollet con picatostes y vinagreta de alcaparras",
   subtitulo: "con tomate cherry, aceitunas negras y cebolla morada",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "ensaladas",
   cocina: "europea",
   contundencia: "ligera",
   coste: "económica",
@@ -1110,6 +1110,6 @@ window.RECETAS_SEED.push({
     "Reparte en dos platos, coloca encima los huevos abiertos por la mitad y los picatostes, y termina con pimienta recién molida."
   ],
   nutricion: { kcal: 420, prot: 18, hc: 27, grasa: 25 },
-  etiquetas: ["rápida", "ligera", "económica", "verano"],
+  etiquetas: ["rápida", "ligera", "económica", "verano", "poco especiada"],
   consejo: "Prepara la vinagreta y las judías por la mañana y cuece los huevos al momento: la ensalada está lista en 10 minutos y es ideal para llevar."
 });

@@ -48,7 +48,7 @@ window.RECETAS_SEED.push({
     "Desgrana la granada golpeándola por la piel con una cuchara de madera sobre un bol. Sirve la sopa con la cebolla frita a la menta y los granos de granada por encima."
   ],
   nutricion: { kcal: 640, prot: 26, hc: 77, grasa: 26 },
-  etiquetas: ["tradicional", "otoño", "de cuchara", "sin gluten", "batch cooking"],
+  etiquetas: ["tradicional", "otoño", "de cuchara", "sin gluten", "batch cooking", "poco especiada"],
   consejo: "El ash-e anar es la sopa de otoño de Azerbaiyán iraní y Teherán, cuando llegan las granadas. La melaza de granada (rob-e anar) se vende en tiendas de productos de Oriente Medio; si no la encuentras, reduce 300 ml de zumo de granada con una cucharada de azúcar hasta que quede como un sirope. Se congela muy bien sin la cebolla frita, que conviene hacer al momento.",
   tupper: true,
   contundencia: "media",
@@ -90,7 +90,7 @@ window.RECETAS_SEED.push({
     "Reparte los garbanzos en dos platos y corona cada uno con un huevo escalfado, sal y pimienta recién molida."
   ],
   nutricion: { kcal: 640, prot: 28, hc: 60, grasa: 32 },
-  etiquetas: ["creativa", "otoño", "rápida", "económica", "sin gluten"],
+  etiquetas: ["creativa", "otoño", "rápida", "económica", "sin gluten", "superalimentos", "poco especiada"],
   consejo: "Las acelgas de otoño tienen las pencas más tiernas y anchas del año: no las tires, son la parte más sabrosa. Si quieres el plato sin huevo, sustitúyelo por unas lascas de queso curado o deja la legumbre sola como guarnición de un pescado a la plancha. Sin el huevo, aguanta 2 días en la nevera.",
   tupper: false,
   contundencia: "media",
@@ -134,7 +134,7 @@ window.RECETAS_SEED.push({
     "Pica la otra media cebolla en cruda. Sirve las alubias en cuencos con la cebolla por encima y el pan de maíz en cuñas al lado, para desmigarlo dentro del caldo."
   ],
   nutricion: { kcal: 840, prot: 45, hc: 104, grasa: 27 },
-  etiquetas: ["tradicional", "otoño", "invierno", "de cuchara", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "otoño", "invierno", "de cuchara", "económica", "batch cooking", "poco especiada"],
   consejo: "En los Apalaches las soup beans se ponían al fuego por la mañana y se comían por la noche con pan de maíz sin azúcar, como aquí. Las alubias aguantan 4 días en la nevera y se congelan bien; el pan de maíz está mejor recién hecho, pero al día siguiente puedes abrirlo y tostarlo en la sartén con un poco de mantequilla.",
   tupper: true,
   contundencia: "contundente",
@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
     "Mezcla el hinojo y la rúcula con la mitad de la vinagreta y repártelos en los platos. Coloca encima los higos y la caballa con la piel hacia arriba, riega con el resto de la vinagreta y termina con las hojitas de hinojo y unas escamas de sal."
   ],
   nutricion: { kcal: 595, prot: 31, hc: 40, grasa: 34 },
-  etiquetas: ["creativa", "otoño", "rápida", "sin gluten", "alta en proteína"],
+  etiquetas: ["creativa", "otoño", "rápida", "sin gluten", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Septiembre es el mes en que se cruzan los últimos higos y la caballa vuelve a estar gorda y barata. Pide en la pescadería que te la abran en filetes y te quiten la espina central. Si no hay higos, sirve la caballa igual con uvas asadas o con gajos de caqui firme crudo.",
   tupper: false,
   contundencia: "media",
@@ -220,7 +220,7 @@ window.RECETAS_SEED.push({
     "Corta el bonito en lonchas gruesas, colócalo sobre las patatas y cúbrelo con el escabeche tibio de uvas con todo su jugo."
   ],
   nutricion: { kcal: 620, prot: 38, hc: 53, grasa: 29 },
-  etiquetas: ["creativa", "otoño", "sin gluten", "alta en proteína"],
+  etiquetas: ["creativa", "otoño", "sin gluten", "alta en proteína", "poco especiada"],
   consejo: "El bonito del norte se pesca hasta principios de octubre; fuera de temporada usa atún fresco o caballa, que admiten el mismo punto. El escabeche se puede hacer el día antes: guárdalo en la nevera y templa solo el líquido antes de servir. Las sobras de bonito aguantan un día cubiertas con el escabeche y se comen frías.",
   tupper: false,
   contundencia: "media",
@@ -262,7 +262,7 @@ window.RECETAS_SEED.push({
     "Corta el resto del jengibre en hilos muy finos y la cebolleta en aros. Sirve el salmón y el daikon con un poco de caldo, el jengibre y la cebolleta por encima y el arroz aparte."
   ],
   nutricion: { kcal: 660, prot: 36, hc: 83, grasa: 20 },
-  etiquetas: ["creativa", "otoño", "invierno", "alta en proteína"],
+  etiquetas: ["creativa", "otoño", "invierno", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El buri daikon japonés se hace con pez limón (seriola), que en España se encuentra en otoño en algunas pescaderías: si lo ves, úsalo en lugar del salmón con el mismo método. El guiso está aún mejor al día siguiente, cuando el daikon ha absorbido más caldo; recaliéntalo a fuego suave.",
   tupper: true,
   contundencia: "contundente",
@@ -303,7 +303,7 @@ window.RECETAS_SEED.push({
     "Retira con una cuchara la grasa sobrante de la fuente y aplasta las manzanas y la cebolla con el jugo hasta obtener una compota rústica. Sirve los muslos sobre la compota con las patatas al lado."
   ],
   nutricion: { kcal: 875, prot: 40, hc: 75, grasa: 46 },
-  etiquetas: ["tradicional", "otoño", "al horno", "sin gluten", "sin lácteos"],
+  etiquetas: ["tradicional", "otoño", "al horno", "sin gluten", "sin lácteos", "poco especiada"],
   consejo: "En Polonia el pato con manzanas es el asado de San Martín (11 de noviembre), cuando las manzanas ácidas están en su punto. Guarda la grasa de pato que sobre en un tarro en la nevera: dura semanas y es la mejor grasa para asar patatas. Acompáñalo, si quieres, con remolacha rallada templada o col lombarda.",
   tupper: true,
   contundencia: "contundente",
@@ -348,7 +348,7 @@ window.RECETAS_SEED.push({
     "Incorpora los níscalos y la picada, mueve la cazuela en vaivén y cuece 10 minutos más, hasta que la salsa trabe y el pollo se separe del hueso. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 670, prot: 44, hc: 24, grasa: 44 },
-  etiquetas: ["tradicional", "otoño", "de cuchara"],
+  etiquetas: ["tradicional", "otoño", "de cuchara", "poco especiada"],
   consejo: "Los níscalos (rovellons) salen con las primeras lluvias de otoño; fuera de temporada usa una mezcla de setas de cardo y champiñón portobello. Nunca los laves al chorro: absorben agua y luego no se doran. Como todos los guisos, está mejor de un día para otro y se congela bien.",
   tupper: true,
   contundencia: "contundente",
@@ -391,7 +391,7 @@ window.RECETAS_SEED.push({
     "Aliña la rúcula con el zumo de limón, la otra cucharada de aceite y sal. Sirve los escalopines con los boletus y su salsa, el resto del perejil y la ensalada al lado."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 13, grasa: 28 },
-  etiquetas: ["tradicional", "otoño", "rápida", "alta en proteína", "ligera"],
+  etiquetas: ["tradicional", "otoño", "rápida", "alta en proteína", "ligera", "poco especiada"],
   consejo: "Si no encuentras boletus frescos, hidrata 20 g de boletus secos en agua tibia 20 minutos y saltéalos con 200 g de champiñones; usa el agua del remojo, filtrada, en lugar del agua de la salsa. La misma receta funciona con filetes finos de pavo o de solomillo de cerdo.",
   tupper: false,
   contundencia: "ligera",
@@ -438,7 +438,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve dos mitades por persona con su jugo y una cucharada generosa de yogur."
   ],
   nutricion: { kcal: 665, prot: 24, hc: 68, grasa: 33 },
-  etiquetas: ["tradicional", "otoño", "al horno", "sin gluten"],
+  etiquetas: ["tradicional", "otoño", "al horno", "sin gluten", "poco especiada"],
   consejo: "En Turquía este plato se prepara en octubre y noviembre, cuando los membrillos están duros y perfumados; elige piezas grandes y sin golpes. Puedes hacer mitad cordero y mitad ternera picada si prefieres un sabor más suave. Aguanta 2 días en la nevera y se recalienta tapado en el horno con un chorrito de agua.",
   tupper: true,
   contundencia: "contundente",
@@ -450,7 +450,7 @@ window.RECETAS_SEED.push({
   nombre: "Kolokithopita: pastel griego de calabaza y feta en pasta filo con menta",
   subtitulo: "la pita salada de calabaza de Epiro y Tesalia, crujiente por fuera y jugosa por dentro",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -479,7 +479,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 15 minutos antes de cortar para que el relleno se asiente. Sírvela templada."
   ],
   nutricion: { kcal: 780, prot: 28, hc: 70, grasa: 43 },
-  etiquetas: ["tradicional", "otoño", "al horno", "ideal para llevar"],
+  etiquetas: ["tradicional", "otoño", "al horno", "ideal para llevar", "poco especiada"],
   consejo: "En el norte de Grecia la kolokithopita se hace también dulce, con canela y miel; esta es la versión salada de diario. Puedes cambiar la menta por eneldo. Aguanta 3 días en la nevera y se recupera en el horno a 180 °C 10 minutos; fría es perfecta para llevar con una ensalada.",
   tupper: true,
   contundencia: "contundente",
@@ -491,7 +491,7 @@ window.RECETAS_SEED.push({
   nombre: "Parmigiana bianca de calabaza con scamorza ahumada, salvia y avellanas",
   subtitulo: "capas de calabaza asada y bechamel en lugar de berenjena y tomate, gratinadas al horno",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -522,7 +522,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar para que las capas se asienten y sirve."
   ],
   nutricion: { kcal: 795, prot: 37, hc: 46, grasa: 52 },
-  etiquetas: ["creativa", "otoño", "al horno"],
+  etiquetas: ["creativa", "otoño", "al horno", "poco especiada"],
   consejo: "La parmigiana di zucca es una versión otoñal que se hace en el norte de Italia con la calabaza de la temporada. Si no encuentras scamorza ahumada, usa mozzarella bien escurrida con un poco de queso ahumado rallado. Se puede montar la víspera y hornear al día siguiente añadiendo 10 minutos de horno.",
   tupper: true,
   contundencia: "contundente",
@@ -534,7 +534,7 @@ window.RECETAS_SEED.push({
   nombre: "Salchichas de Glamorgan: croquetas galesas de queso y puerro con ensalada de manzana",
   subtitulo: "las salchichas sin carne del País de Gales, doradas en sartén y crujientes por fuera",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
     "Corta la manzana en láminas finas y mézclala con los canónigos, el vinagre de sidra, la cucharada de aceite restante y sal. Sirve las salchichas recién hechas con la ensalada."
   ],
   nutricion: { kcal: 760, prot: 28, hc: 47, grasa: 51 },
-  etiquetas: ["tradicional", "otoño", "para niños"],
+  etiquetas: ["tradicional", "otoño", "para niños", "poco especiada"],
   consejo: "Las Glamorgan sausages se hacían con el queso Glamorgan, desaparecido; hoy se usa caerphilly, un queso galés fresco y algo ácido. Un queso tierno de vaca o un cheddar suave funcionan bien. Puedes formarlas por la mañana y freírlas por la noche; también se hornean a 200 °C 20 minutos pincelándolas con aceite.",
   tupper: false,
   contundencia: "contundente",
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
   nombre: "Calabaza agridulce a la india con garbanzos, fenogreco y mango en polvo, con arroz basmati",
   subtitulo: "el khatta meetha kaddu de las casas del norte de la India, convertido en plato completo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -614,7 +614,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el cilantro fresco picado y sirve con el arroz."
   ],
   nutricion: { kcal: 610, prot: 17, hc: 96, grasa: 17 },
-  etiquetas: ["creativa", "otoño", "vegana", "económica", "sin lácteos"],
+  etiquetas: ["creativa", "otoño", "vegana", "económica", "sin lácteos", "bajo en colesterol"],
   consejo: "El amchur (mango verde seco en polvo) y el fenogreco se encuentran en tiendas de productos indios; el amchur se sustituye bien por zumo de limón. La asafétida comercial suele llevar harina de trigo: omítela si necesitas el plato sin gluten. Aguanta 3 días en la nevera y está aún mejor recalentado.",
   tupper: true,
   contundencia: "media",
@@ -626,7 +626,7 @@ window.RECETAS_SEED.push({
   nombre: "Zeytinyağlı kereviz: apionabo guisado en aceite de oliva con naranja, zanahoria y eneldo, con bulgur",
   subtitulo: "la verdura turca que se cuece en zumo de naranja y se come templada",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -657,7 +657,7 @@ window.RECETAS_SEED.push({
     "Deja templar el apionabo en su jugo, salpimienta y espolvorea el eneldo picado. Sírvelo templado o a temperatura ambiente con el bulgur."
   ],
   nutricion: { kcal: 615, prot: 16, hc: 87, grasa: 22 },
-  etiquetas: ["tradicional", "otoño", "invierno", "vegana", "económica", "ideal para llevar"],
+  etiquetas: ["tradicional", "otoño", "invierno", "vegana", "económica", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Los platos zeytinyağlı («con aceite de oliva») son verduras guisadas en aceite que en Turquía se comen siempre templadas o frías, nunca calientes. El apionabo llega a los mercados en octubre; elige piezas pesadas y sin huecos. Aguanta 3 días en la nevera y mejora de un día para otro.",
   tupper: true,
   contundencia: "media",
@@ -702,7 +702,7 @@ window.RECETAS_SEED.push({
     "Monta la ensalada con el kale de base, el caqui, la cebolla escurrida, el pollo, el queso azul desmigado, las pecanas y los arándanos. Riega con el resto de la vinagreta."
   ],
   nutricion: { kcal: 650, prot: 42, hc: 46, grasa: 33 },
-  etiquetas: ["creativa", "otoño", "alta en proteína", "sin gluten"],
+  etiquetas: ["creativa", "otoño", "alta en proteína", "sin gluten", "superalimentos", "poco especiada"],
   consejo: "Usa caqui de pulpa firme (persimon o rojo brillante), que se come como una manzana; el caqui blando tradicional se deshace en la ensalada. Si no tienes kale, sirve con espinacas baby sin masajear. El kale aliñado aguanta un día en la nevera, pero el caqui y las pecanas añádelos al momento.",
   tupper: false,
   contundencia: "media",
@@ -746,7 +746,7 @@ window.RECETAS_SEED.push({
     "Mezcla el arroz con cuidado, de abajo arriba, para no romper las castañas. Sirve con el sésamo negro por encima, el pollo con un gajo de limón y las espinacas al lado."
   ],
   nutricion: { kcal: 755, prot: 38, hc: 103, grasa: 21 },
-  etiquetas: ["tradicional", "otoño", "sin lácteos"],
+  etiquetas: ["tradicional", "otoño", "sin lácteos", "poco especiada", "bajo en colesterol"],
   consejo: "El kuri gohan se hace en Japón en cuanto llegan las primeras castañas, en septiembre. Pelar castañas frescas es laborioso: escáldalas 2 minutos y quita las dos pieles mientras están calientes, o usa castañas cocidas envasadas. Si no tienes arroz glutinoso, usa solo arroz japonés; el glutinoso le da una textura más pegajosa y festiva.",
   tupper: true,
   contundencia: "contundente",
@@ -833,7 +833,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con las avellanas, la salvia y unas gotas del aceite de freírla por encima, y el pan tostado al lado."
   ],
   nutricion: { kcal: 645, prot: 15, hc: 83, grasa: 28 },
-  etiquetas: ["creativa", "otoño", "invierno", "batch cooking"],
+  etiquetas: ["creativa", "otoño", "invierno", "batch cooking", "poco especiada"],
   consejo: "El tupinambo o pataca está en los mercados de octubre a marzo. Es rico en inulina, una fibra que a algunas personas les sienta pesada: si no estás acostumbrado, empieza por raciones pequeñas o mezcla mitad tupinambo y mitad patata. La crema aguanta 3 días en la nevera y se congela bien sin los toppings.",
   tupper: true,
   contundencia: "media",
@@ -879,7 +879,7 @@ window.RECETAS_SEED.push({
     "Reparte los tallarines en los platos, cubre con la sopa y espolvorea el eneldo picado."
   ],
   nutricion: { kcal: 470, prot: 15, hc: 59, grasa: 19 },
-  etiquetas: ["tradicional", "otoño", "de cuchara", "ligera"],
+  etiquetas: ["tradicional", "otoño", "de cuchara", "ligera", "poco especiada"],
   consejo: "En Polonia la zupa grzybowa se hace con las setas secadas en septiembre, cuando media familia sale al bosque a buscarlas, y es también uno de los platos de la cena de Nochebuena. Puedes sustituir los tallarines por patata cocida en dados. Sin la pasta, la sopa aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "ligera",

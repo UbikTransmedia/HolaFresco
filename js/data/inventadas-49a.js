@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Sala, añade las hojas de cilantro picadas y sirve el rasam en cuencos con el arroz aparte para ir mojándolo, o con el arroz en el fondo del plato al estilo de Tamil Nadu."
   ],
   nutricion: { kcal: 450, prot: 16, hc: 76, grasa: 9 },
-  etiquetas: ["cocinas del mundo", "india del sur", "de cuchara", "ligera", "vegano", "sin gluten", "económica", "picante", "invierno"],
+  etiquetas: ["cocinas del mundo", "india del sur", "de cuchara", "ligera", "vegano", "sin gluten", "económica", "picante", "invierno", "detox", "bajo en colesterol"],
   consejo: "La tadka (o tempero) es una técnica de toda la cocina india que puedes usar en cualquier sopa o legumbre: especias enteras fritas unos segundos en grasa caliente y volcadas al final. La grasa extrae aromas que el agua no saca, por eso se añade al terminar y no al principio.",
   tupper: true,
   contundencia: "ligera",
@@ -338,7 +338,7 @@ window.RECETAS_SEED.push({
     "Justo antes de servir, añade la granada, los cacahuetes picados y el cilantro, para que lo crujiente no se ablande."
   ],
   nutricion: { kcal: 430, prot: 18, hc: 52, grasa: 17 },
-  etiquetas: ["cocinas del mundo", "india", "vegano", "sin gluten", "ligera", "económica", "verano", "ideal para llevar", "alta en fibra"],
+  etiquetas: ["cocinas del mundo", "india", "vegano", "sin gluten", "ligera", "económica", "verano", "ideal para llevar", "alta en fibra", "detox", "bajo en colesterol"],
   consejo: "Las judías mungo no necesitan remojo y cuecen en 20 minutos: son una legumbre ideal para ensaladas improvisadas. La regla de oro de las ensaladas de legumbre: alíñalas en tibio, que absorben mejor, y añade crujientes y hierbas en el último momento.",
   tupper: true,
   contundencia: "ligera",
@@ -384,7 +384,7 @@ window.RECETAS_SEED.push({
     "En el último momento, añade el arroz inflado y los cacahuetes, mezcla rápido y sirve enseguida. El bhel se come al instante: en 5 minutos el arroz inflado empieza a ablandarse."
   ],
   nutricion: { kcal: 420, prot: 14, hc: 72, grasa: 8 },
-  etiquetas: ["cocinas del mundo", "india", "comida callejera", "vegano", "sin gluten", "ligera", "económica", "verano", "sin horno"],
+  etiquetas: ["cocinas del mundo", "india", "comida callejera", "vegano", "sin gluten", "ligera", "económica", "verano", "sin horno", "bajo en colesterol"],
   consejo: "Los dos chutneys (dulce de tamarindo y verde de hierbas) aguantan una semana en la nevera en un bote y alegran desde unas lentejas hasta un bocadillo de pollo. Si quieres preparar el bhel para llevar, lleva el arroz inflado en una bolsa aparte y mezcla al comer.",
   tupper: false,
   contundencia: "ligera",
@@ -478,7 +478,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con el cilantro fresco y el arroz al lado; en Bengala se echa el caldo sobre el arroz a cucharadas."
   ],
   nutricion: { kcal: 440, prot: 28, hc: 62, grasa: 9 },
-  etiquetas: ["cocinas del mundo", "india", "bengalí", "de cuchara", "ligera", "sin gluten", "sin lácteos"],
+  etiquetas: ["cocinas del mundo", "india", "bengalí", "de cuchara", "ligera", "sin gluten", "sin lácteos", "detox", "bajo en colesterol"],
   consejo: "Sellar el pescado antes de meterlo en un caldo evita que se deshaga y le da sabor tostado; luego basta con unos minutos de cocción suave. En Bengala se usa aceite de mostaza, que da un picor nasal característico: si lo encuentras, sustituye la cucharada de aceite por él.",
   tupper: true,
   contundencia: "ligera",
@@ -582,7 +582,7 @@ window.RECETAS_SEED.push({
   nombre: "Coliflor buffalo al horno con dip de yogur y queso azul y bastones de apio",
   subtitulo: "la versión vegetal de las alitas picantes de Búfalo, Nueva York",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "americana",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -628,7 +628,7 @@ window.RECETAS_SEED.push({
   nombre: "Cheesy grits: polenta cremosa al cheddar con huevo frito y kale al ajo",
   subtitulo: "las gachas de maíz del sur de Estados Unidos, con un toque de salsa picante",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "americana",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -672,7 +672,7 @@ window.RECETAS_SEED.push({
   nombre: "Breakfast burrito vegetariano de huevos revueltos, patata, alubias negras y cheddar",
   subtitulo: "el burrito de desayuno de Nuevo México y California, con pico de gallo y aguacate",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "americana",
   momentos: ["comida"],
   proteina: "huevo",
@@ -759,7 +759,7 @@ window.RECETAS_SEED.push({
     "Sirve las alubias en cuencos con una porción de pan de maíz templado para mojar."
   ],
   nutricion: { kcal: 785, prot: 40, hc: 82, grasa: 33 },
-  etiquetas: ["cocinas del mundo", "estadounidense", "texas", "de cuchara", "económica", "batch cooking", "invierno", "para niños"],
+  etiquetas: ["cocinas del mundo", "estadounidense", "texas", "de cuchara", "económica", "batch cooking", "invierno", "para niños", "poco especiada"],
   consejo: "Esta salsa barbacoa casera (tomate, azúcar moreno, vinagre, mostaza y pimentón ahumado) sirve para costillas, pollo o hamburguesas, y se guarda una semana en la nevera. En masas con levadura química, mezcla lo justo: así quedan tiernas y esponjosas.",
   tupper: true,
   contundencia: "contundente",
@@ -805,7 +805,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado, pimienta negra recién molida y el pan tostado al lado."
   ],
   nutricion: { kcal: 580, prot: 35, hc: 76, grasa: 15 },
-  etiquetas: ["cocinas del mundo", "estadounidense", "de cuchara", "una sola olla", "económica", "batch cooking", "invierno", "alta en fibra"],
+  etiquetas: ["cocinas del mundo", "estadounidense", "de cuchara", "una sola olla", "económica", "batch cooking", "invierno", "alta en fibra", "poco especiada"],
   consejo: "Triturar una parte de la sopa y devolverla a la olla es la manera más sencilla de espesar cualquier sopa de legumbre o verdura sin añadir grasa. La versión original usa codillo de cerdo: si lo tienes, cuécelo una hora en el caldo antes de añadir las alubias.",
   tupper: true,
   contundencia: "media",
@@ -899,7 +899,7 @@ window.RECETAS_SEED.push({
     "Corta los sándwiches en diagonal y sirve calientes con la ensalada."
   ],
   nutricion: { kcal: 605, prot: 36, hc: 47, grasa: 30 },
-  etiquetas: ["cocinas del mundo", "estadounidense", "rápida", "para niños", "alta en proteína", "cena rápida"],
+  etiquetas: ["cocinas del mundo", "estadounidense", "rápida", "para niños", "alta en proteína", "cena rápida", "poco especiada"],
   consejo: "Para cualquier sándwich caliente con queso: fuego medio-bajo y tapa. Si el fuego está alto, el pan se quema antes de que el centro se caliente. La mezcla de atún aguanta 2 días en la nevera; monta y dora el sándwich al momento.",
   tupper: false,
   contundencia: "media",
@@ -944,7 +944,7 @@ window.RECETAS_SEED.push({
     "Exprime el limón por encima y sirve con pimienta negra."
   ],
   nutricion: { kcal: 660, prot: 35, hc: 59, grasa: 31 },
-  etiquetas: ["cocinas del mundo", "norteamericana", "al horno", "todo en una bandeja", "omega 3", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["cocinas del mundo", "norteamericana", "al horno", "todo en una bandeja", "omega 3", "alta en proteína", "ideal para llevar", "poco especiada"],
   consejo: "Glasea en dos tandas: si pones todo el sirope al principio, el azúcar se quema antes de que el pescado esté hecho. Este truco sirve para cualquier glaseado con miel, sirope o teriyaki sobre carnes y pescados al horno.",
   tupper: true,
   contundencia: "contundente",
@@ -989,7 +989,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de nata agria, el resto del cheddar, el bacon crujiente y cebollino picado."
   ],
   nutricion: { kcal: 760, prot: 25, hc: 74, grasa: 41 },
-  etiquetas: ["cocinas del mundo", "estadounidense", "de cuchara", "invierno", "para niños", "reconfortante"],
+  etiquetas: ["cocinas del mundo", "estadounidense", "de cuchara", "invierno", "para niños", "reconfortante", "poco especiada"],
   consejo: "La patata nunca se tritura con batidora: el almidón se rompe y la crema queda pegajosa. Usa pasapurés o tenedor, o tritura solo la parte líquida. Si la recalientas, añade un chorrito de leche, porque el almidón la espesa al enfriar.",
   tupper: true,
   contundencia: "contundente",
@@ -1038,7 +1038,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve en plato hondo."
   ],
   nutricion: { kcal: 460, prot: 31, hc: 51, grasa: 14 },
-  etiquetas: ["cocinas del mundo", "estadounidense", "de cuchara", "una sola olla", "batch cooking", "invierno", "ligera", "alta en proteína"],
+  etiquetas: ["cocinas del mundo", "estadounidense", "de cuchara", "una sola olla", "batch cooking", "invierno", "ligera", "alta en proteína", "poco especiada"],
   consejo: "Las verduras se añaden en orden según lo que tardan: primero las aromáticas, luego las duras (patata) y al final las delicadas (guisantes). Así ninguna se deshace. La cebada sigue absorbiendo caldo en la nevera: al recalentar, añade un poco de agua.",
   tupper: true,
   contundencia: "ligera",
@@ -1083,7 +1083,7 @@ window.RECETAS_SEED.push({
     "Sirve los tallarines con la carne cortada en tiras y pimienta recién molida."
   ],
   nutricion: { kcal: 785, prot: 50, hc: 63, grasa: 37 },
-  etiquetas: ["cocinas del mundo", "peruana", "pasta", "alta en proteína", "de domingo"],
+  etiquetas: ["cocinas del mundo", "peruana", "pasta", "alta en proteína", "de domingo", "verduras escondidas", "poco especiada"],
   consejo: "Blanquear las hierbas unos segundos y enfriarlas en hielo es el truco profesional para salsas verdes que no se oxidan. Funciona con pesto, salsa verde o cremas de verduras de hoja. Este pesto peruano también va con pollo a la plancha o papa a la huancaína.",
   tupper: false,
   contundencia: "contundente",
@@ -1133,7 +1133,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos, ahueca con un tenedor y sirve. El 'pegao', la capa tostada del fondo, es la parte más codiciada."
   ],
   nutricion: { kcal: 725, prot: 28, hc: 99, grasa: 24 },
-  etiquetas: ["cocinas del mundo", "caribeña", "puertorriqueña", "una sola olla", "batch cooking", "ideal para llevar", "sin lácteos", "de fiesta"],
+  etiquetas: ["cocinas del mundo", "caribeña", "puertorriqueña", "una sola olla", "batch cooking", "ideal para llevar", "sin lácteos", "de fiesta", "poco especiada"],
   consejo: "El sofrito triturado (cebolla, pimiento, ajo y cilantro) se congela en cubiteras: un cubo basta para dar sabor a un arroz, unas alubias o un guiso. Los gandules (guandú) son una legumbre caribeña; los encontrarás en tiendas latinas y se pueden sustituir por alubias pintas o garbanzos.",
   tupper: true,
   contundencia: "contundente",

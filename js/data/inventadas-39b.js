@@ -39,7 +39,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de cortar el lomo en tiras y repartir."
   ],
   nutricion: { kcal: 522, prot: 38, hc: 52, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "al horno", "alta en proteína", "fácil", "invierno"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "al horno", "alta en proteína", "fácil", "invierno", "poco especiada"],
   consejo: "Corta el lomo en tiras antes de guardarlo y riégalo con los jugos de la bandeja: así no se seca. Aguanta 3 días en la nevera. Recalienta tapado a 600 W 2 minutos; las coles y el boniato también están ricos templados. Revisa que la mostaza sea apta si cocinas para celíacos.",
   tupper: true,
   contundencia: "media",
@@ -51,7 +51,7 @@ window.RECETAS_SEED.push({
   nombre: "Quiche sin masa de puerro, champiñones y queso de cabra al microondas",
   subtitulo: "base de huevo y yogur, lista en 20 minutos y sin encender el horno",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -81,7 +81,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de cortar en porciones; acompaña con los canónigos."
   ],
   nutricion: { kcal: 360, prot: 24, hc: 12, grasa: 24 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "ligera", "vegetariana", "fácil", "rápida"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "ligera", "vegetariana", "fácil", "rápida", "keto", "poco especiada"],
   consejo: "Está buenísima fría y aguanta 3 días en la nevera. Si la prefieres templada, 30-40 segundos a 600 W. Lleva los canónigos aparte o encima sin aliñar y aliña al comer. Para un plato más saciante, añade un puñado de garbanzos cocidos o una pieza de fruta y pan integral.",
   tupper: true,
   contundencia: "ligera",
@@ -93,7 +93,7 @@ window.RECETAS_SEED.push({
   nombre: "Picadillo de soja texturizada con patata, guisantes, aceitunas y arroz",
   subtitulo: "versión vegana del clásico cubano, alta en proteína y barata",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
     "Añade los guisantes y las aceitunas y cocina 3 minutos más, destapado, hasta que la salsa quede espesa. Prueba de sal y sirve con el arroz."
   ],
   nutricion: { kcal: 548, prot: 32, hc: 78, grasa: 12 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "alta en proteína", "batch cooking", "económica", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "alta en proteína", "batch cooking", "económica", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "El picadillo aguanta 4 días en la nevera y se congela sin problema; el arroz, 3 días. Monta el tupper con el arroz a un lado y el picadillo al otro. Recalienta 2-3 minutos a 800 W tapado con 1 cucharada de agua. Añade unas pasas si te gusta el toque agridulce original. Comprueba que la soja texturizada sea apta si cocinas para celíacos.",
   tupper: true,
   contundencia: "media",
@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
     "Reparte el farro en los tuppers y coloca encima el salmón en lomos grandes."
   ],
   nutricion: { kcal: 594, prot: 38, hc: 46, grasa: 28 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "al horno", "alta en proteína", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "al horno", "alta en proteína", "fácil", "superalimentos", "poco especiada"],
   consejo: "La salsa de yogur va siempre en un botecito aparte y se añade fría al final. Aguanta 2-3 días en la nevera. El salmón se puede comer frío sobre el farro templado; si lo calientas, 1 minuto y medio a 500 W tapado para que no se reseque ni huela.",
   tupper: true,
   contundencia: "media",
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
     "Reparte el kale en los tuppers, pon encima el boniato y las semillas, y lleva los garbanzos y el aliño aparte."
   ],
   nutricion: { kcal: 574, prot: 20, hc: 74, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "airfryer", "vegana", "fácil", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "airfryer", "vegana", "fácil", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El kale masajeado es de las pocas hojas que aguantan 3 días aliñadas sin estropearse. Guarda los garbanzos crujientes en un táper pequeño o una bolsa de papel y el aliño de tahini en un botecito: añádelos al final para que sigan crujientes. Se come frío o con el boniato templado 1 minuto al microondas.",
   tupper: true,
   contundencia: "media",
@@ -252,7 +252,7 @@ window.RECETAS_SEED.push({
     "Sirve con los champiñones reservados, el perejil picado y un hilo del aceite restante."
   ],
   nutricion: { kcal: 308, prot: 16, hc: 34, grasa: 12 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "ligera", "rápida", "batch cooking", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "ligera", "rápida", "batch cooking", "fácil", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera en un tupper hermético y se congela bien. Recalienta 3 minutos a 800 W tapada, removiendo a mitad, y añade un chorrito de agua si ha espesado. Lleva los champiñones tostados aparte. Para hacerla plato único, acompáñala con un huevo duro o una tostada de pan integral con hummus.",
   tupper: true,
   contundencia: "ligera",
@@ -294,7 +294,7 @@ window.RECETAS_SEED.push({
     "Corta el pollo en tiras y reparte en los tuppers con el cuscús y las verduras asadas, regando con el jugo de la cesta."
   ],
   nutricion: { kcal: 586, prot: 42, hc: 64, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "alta en proteína", "picante", "fácil", "rápida"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "alta en proteína", "picante", "fácil", "rápida", "bajo en colesterol"],
   consejo: "Los contramuslos son mucho más agradecidos que la pechuga para el tupper: siguen jugosos al recalentar. Aguanta 3 días en la nevera. Calienta 2 minutos a 800 W tapado (el cuscús, con una cucharada de agua) y añade al final el yogur a la menta, que llevarás en un botecito aparte.",
   tupper: true,
   contundencia: "media",
@@ -337,7 +337,7 @@ window.RECETAS_SEED.push({
     "Reparte en los tuppers con el pavo encima y la rúcula y las almendras en un lado, sin mezclar."
   ],
   nutricion: { kcal: 548, prot: 40, hc: 52, grasa: 20 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "fácil", "verano"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "fácil", "verano", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Se come fría o a temperatura ambiente, sin microondas. Aguanta 3 días en la nevera: la rúcula y las almendras, encima o aparte, se mezclan al momento de comer. Haz doble de quinoa y úsala en otra ensalada de la semana.",
   tupper: true,
   contundencia: "media",
@@ -381,7 +381,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo, añade los noodles y la salsa y saltea 2 minutos sin dejar de mover, hasta que todo quede brillante. Termina con sésamo."
   ],
   nutricion: { kcal: 676, prot: 42, hc: 82, grasa: 20 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "alta en proteína", "rápida", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "alta en proteína", "rápida", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. Antes de recalentar, salpica con 1 cucharada de agua para que los fideos se suelten, tapa y calienta 2 minutos a 800 W removiendo a mitad. Lleva un poco de cebolleta picada o jengibre encurtido aparte para darle frescor al final.",
   tupper: true,
   contundencia: "contundente",
@@ -425,7 +425,7 @@ window.RECETAS_SEED.push({
     "Añade los guisantes y cuece 4 minutos más. Prueba de sal, retira el laurel y espolvorea perejil. Sirve con el arroz."
   ],
   nutricion: { kcal: 442, prot: 30, hc: 58, grasa: 10 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "ligera", "batch cooking", "una sola olla", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "ligera", "batch cooking", "una sola olla", "fácil", "poco especiada"],
   consejo: "El calamar guisado mucho rato es de los pocos mariscos que mejoran al día siguiente. Aguanta 3 días en la nevera. Monta el arroz a un lado y el calamar con su salsa al otro; recalienta tapado 2-3 minutos a 800 W. Funciona igual con sepia o con anillas de pota congeladas, más baratas.",
   tupper: true,
   contundencia: "ligera",
@@ -437,7 +437,7 @@ window.RECETAS_SEED.push({
   nombre: "Berenjenas rellenas de bulgur, tomate y requesón al microondas",
   subtitulo: "berenjena tierna en 8 minutos y relleno especiado a la turca",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -468,7 +468,7 @@ window.RECETAS_SEED.push({
     "Rellena las berenjenas, cubre con el requesón desmigado y calienta 2 minutos a 800 W, hasta que el queso se temple."
   ],
   nutricion: { kcal: 414, prot: 20, hc: 52, grasa: 14 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "ligera", "vegetariana", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "ligera", "vegetariana", "fácil", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Aguantan 3 días en la nevera en un tupper rectangular, una junto a otra. Recalienta tapadas 2 minutos a 800 W. Si prefieres el requesón fresco, llévalo aparte y añádelo después de calentar con unas hojas de menta. Puedes cambiarlo por queso feta.",
   tupper: true,
   contundencia: "ligera",
@@ -480,7 +480,7 @@ window.RECETAS_SEED.push({
   nombre: "Pisto con alubias blancas y quinoa",
   subtitulo: "el pisto de siempre convertido en plato completo y vegano",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -512,7 +512,7 @@ window.RECETAS_SEED.push({
     "Añade las alubias, calienta 2 minutos, salpimienta y sirve sobre la quinoa."
   ],
   nutricion: { kcal: 420, prot: 18, hc: 60, grasa: 12 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "ligera", "batch cooking", "económica", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "ligera", "batch cooking", "económica", "fácil", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El pisto gana sabor de un día para otro: aguanta 4 días en la nevera y se congela de maravilla. Monta la quinoa abajo y el pisto encima, y recalienta tapado 2-3 minutos a 800 W. Si no es para veganos, añade un huevo duro o unos dados de queso fresco al final para sumar proteína.",
   tupper: true,
   contundencia: "ligera",
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
     "Agrega las espinacas, deja que se reduzcan 1 minuto, prueba de sal y termina con cilantro."
   ],
   nutricion: { kcal: 426, prot: 40, hc: 44, grasa: 10 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "de cuchara", "ligera", "alta en proteína", "batch cooking", "una sola olla", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "de cuchara", "ligera", "alta en proteína", "batch cooking", "una sola olla", "fácil", "superalimentos"],
   consejo: "Aguanta 3 días en la nevera y está aún mejor al segundo. Espesa al enfriar: añade un chorrito de agua antes de recalentar tapado 3 minutos a 800 W. Lleva aparte una cucharada de yogur natural y el cilantro para el final. Si quieres más hidratos, acompáñalo de un poco de arroz basmati.",
   tupper: true,
   contundencia: "ligera",
@@ -641,7 +641,7 @@ window.RECETAS_SEED.push({
     "Reparte la ensalada en los tuppers y coloca encima el bonito."
   ],
   nutricion: { kcal: 422, prot: 38, hc: 36, grasa: 14 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "ligera", "alta en proteína", "verano"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "ligera", "alta en proteína", "verano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Se come fría o a temperatura ambiente: no la calientes, porque el bonito recocido se seca. Aguanta 2 días en la nevera. Si la preparas fuera de temporada, usa bonito en conserva en aceite y tendrás la versión exprés para 3 días.",
   tupper: true,
   contundencia: "ligera",
@@ -685,7 +685,7 @@ window.RECETAS_SEED.push({
     "Reparte en los tuppers y espolvorea el cebollino picado."
   ],
   nutricion: { kcal: 532, prot: 36, hc: 70, grasa: 12 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "alta en proteína", "para niños", "económica", "fácil", "rápida"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "alta en proteína", "para niños", "económica", "fácil", "rápida", "poco especiada", "bajo en colesterol"],
   consejo: "Se come fría y aguanta 3 días en la nevera. La pasta absorbe la salsa con el paso de las horas: si la preparas para varios días, guarda un tercio de la salsa de yogur aparte y añádela al comer. Mantén el tupper en la nevera de la oficina hasta la hora de comer.",
   tupper: true,
   contundencia: "media",
@@ -728,7 +728,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, mezcla el arroz con el pollo, los tomates y el pesto."
   ],
   nutricion: { kcal: 596, prot: 40, hc: 64, grasa: 20 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "fácil", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "fácil", "batch cooking", "verduras escondidas", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Mezcla el pesto siempre fuera del fuego: el limón y las espinacas lo mantienen verde 3 días en la nevera. Se come frío como ensalada de arroz o templado 1 minuto y medio a 600 W, tapado y sin pasarte para que el pesto no se oscurezca.",
   tupper: true,
   contundencia: "media",
@@ -786,7 +786,7 @@ window.RECETAS_SEED.push({
   nombre: "Lasaña de calabacín sin pasta con lentejas, tomate y mozzarella",
   subtitulo: "capas de calabacín y boloñesa de lentejas, cocinada al microondas",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -817,7 +817,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos para que asiente antes de cortar y termina con la albahaca."
   ],
   nutricion: { kcal: 486, prot: 32, hc: 40, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "vegetariana", "alta en proteína", "batch cooking", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "vegetariana", "alta en proteína", "batch cooking", "fácil", "poco especiada"],
   consejo: "Cuécela directamente en un tupper de vidrio apto para microondas y córtala en dos porciones una vez fría. Aguanta 3 días en la nevera. Recalienta tapada 2 minutos a 800 W. Secar bien el calabacín es el truco para que no quede aguada.",
   tupper: true,
   contundencia: "media",
@@ -829,7 +829,7 @@ window.RECETAS_SEED.push({
   nombre: "Seitán guisado con alcachofas, guisantes y patata al vino blanco",
   subtitulo: "guiso vegano de primavera con mucha proteína",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "seitan",
@@ -861,7 +861,7 @@ window.RECETAS_SEED.push({
     "Salpimienta, retira el laurel y termina con perejil picado."
   ],
   nutricion: { kcal: 402, prot: 34, hc: 44, grasa: 10 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "vegana", "ligera", "alta en proteína", "de cuchara", "una sola olla", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "vegana", "ligera", "alta en proteína", "de cuchara", "una sola olla", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera con su caldo. Recalienta tapado 2-3 minutos a 800 W removiendo a mitad; añade un chorrito de agua si ha espesado. Con alcachofas frescas en temporada queda aún mejor: límpialas y añádelas con la patata.",
   tupper: true,
   contundencia: "ligera",
@@ -904,7 +904,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el zumo del limón, salpimienta y termina con el resto del cilantro."
   ],
   nutricion: { kcal: 388, prot: 20, hc: 50, grasa: 12 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "de cuchara", "ligera", "batch cooking", "económica", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "de cuchara", "ligera", "batch cooking", "económica", "fácil", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3-4 días en la nevera y se congela bien. Recalienta tapada 3 minutos a 800 W. El limón pierde fuerza con los días: lleva un gajo aparte y exprímelo justo antes de comer. Si quieres más proteína, añade al tupper un huevo duro o unos dados de queso feta.",
   tupper: true,
   contundencia: "ligera",
@@ -991,7 +991,7 @@ window.RECETAS_SEED.push({
     "Devuelve el cerdo, vierte la salsa y remueve 1-2 minutos, hasta que espese y brille. Sirve con el arroz."
   ],
   nutricion: { kcal: 666, prot: 36, hc: 90, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "rápida", "para niños", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "rápida", "para niños", "fácil", "poco especiada"],
   consejo: "Sin rebozado no hay nada que se ablande en el tupper: aguanta 3 días en la nevera perfecto. Monta el arroz a un lado y el agridulce al otro. Recalienta tapado 2 minutos a 800 W, salpicando el arroz con 1 cucharada de agua. Con contramuslo de pollo o tofu firme queda igual de bien.",
   tupper: true,
   contundencia: "contundente",
@@ -1036,7 +1036,7 @@ window.RECETAS_SEED.push({
     "Agrega las espinacas, deja que se reduzcan 1 minuto, sala y termina con el zumo de media lima. Sirve con el arroz."
   ],
   nutricion: { kcal: 590, prot: 18, hc: 80, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "batch cooking", "económica", "fácil"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "batch cooking", "económica", "fácil", "superalimentos"],
   consejo: "Aguanta 3-4 días en la nevera y se congela bien sin el arroz. En el tupper, arroz a un lado y curry al otro; recalienta tapado 2-3 minutos a 800 W. Lleva la otra media lima aparte para el final. Para más proteína, añade 100 g de tofu firme en dados con los garbanzos.",
   tupper: true,
   contundencia: "media",
@@ -1080,7 +1080,7 @@ window.RECETAS_SEED.push({
     "Reparte en los tuppers y pon las almendras encima justo antes de cerrar."
   ],
   nutricion: { kcal: 494, prot: 42, hc: 32, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "microondas", "fácil", "rápida"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "microondas", "fácil", "rápida", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Se come fría y aguanta 3 días en la nevera: el brócoli apenas cocido no se ablanda con el aliño. Añade la manzana el mismo día o rocíala con unas gotas de limón para que no se oxide, y guarda las almendras aparte si la vas a llevar el tercer día, para que crujan.",
   tupper: true,
   contundencia: "media",

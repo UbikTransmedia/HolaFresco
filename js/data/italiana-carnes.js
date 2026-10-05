@@ -53,7 +53,7 @@ window.RECETAS_SEED.push({
     "Corta la carne en lonchas de 1 cm, sírvelas sobre la polenta y cúbrelas con abundante salsa caliente."
   ],
   nutricion: { kcal: 665, prot: 46, hc: 60, grasa: 25 },
-  etiquetas: ["tradicional", "invierno", "batch cooking", "para invitados", "sin gluten"],
+  etiquetas: ["tradicional", "invierno", "batch cooking", "para invitados", "sin gluten", "poco especiada"],
   consejo: "El brasato es el gran guiso de fiesta del Piamonte y allí se hace con Barolo, su vino más famoso, pero cualquier tinto con cuerpo y poca madera funciona. Mejora de un día para otro: guarda la carne entera dentro de su salsa hasta 3 días en la nevera y córtala en frío, que salen lonchas más limpias; luego calienta las lonchas en la salsa a fuego suave.",
   tupper: true,
   contundencia: "contundente",
@@ -101,7 +101,7 @@ window.RECETAS_SEED.push({
     "Retira con una cuchara el exceso de grasa de la superficie, rectifica de sal y pimienta y sirve muy caliente."
   ],
   nutricion: { kcal: 760, prot: 43, hc: 20, grasa: 56 },
-  etiquetas: ["tradicional", "invierno", "batch cooking", "alta en proteína"],
+  etiquetas: ["tradicional", "invierno", "batch cooking", "alta en proteína", "keto", "poco especiada"],
   consejo: "La cassoeula es el plato de invierno de Milán, y allí dicen que la col tiene que haber pasado la primera helada para estar dulce. Se acompaña con polenta o con pan. Si la haces la víspera, la grasa sube y se solidifica en la nevera y se retira de una vez con una cuchara: queda más ligera y todavía más sabrosa. Pide salchichas frescas de cerdo sin especias fuertes; la butifarra fresca también sirve.",
   tupper: true,
   contundencia: "contundente",
@@ -143,7 +143,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida sobre la polenta: el hígado que espera o se pasa de punto se vuelve gomoso y amargo."
   ],
   nutricion: { kcal: 575, prot: 37, hc: 62, grasa: 19 },
-  etiquetas: ["tradicional", "económica", "alta en proteína", "sin gluten"],
+  etiquetas: ["tradicional", "económica", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "Es uno de los platos más antiguos de Venecia: la cebolla dulce compensa el sabor intenso del hígado. Si encuentras hígado de ternera lechal, mejor aún, porque es más suave y tierno; pídelo en la carnicería ya limpio y en filetes finos. Si no te gusta el punto rosado, no lo cocines más de 3 minutos: el exceso lo convierte en suela.",
   tupper: false,
   contundencia: "media",
@@ -187,7 +187,7 @@ window.RECETAS_SEED.push({
     "Corta el lomo en lonchas de 1 cm, cúbrelas con la salsa caliente y sírvelas con las espinacas."
   ],
   nutricion: { kcal: 550, prot: 48, hc: 15, grasa: 33 },
-  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "batch cooking", "otoño"],
+  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "batch cooking", "otoño", "poco especiada"],
   consejo: "El cerdo guisado en leche se cocina en Emilia-Romaña y en Toscana: la leche ablanda la carne y se carameliza en una salsa dulce y tostada. Si al final la salsa sigue líquida, sube el fuego sin tapa; si se reduce demasiado pronto, añade un chorrito de leche caliente. Aguanta 3 días en la nevera y, frío y en lonchas finas, es un relleno de bocadillo estupendo.",
   tupper: true,
   contundencia: "media",
@@ -229,7 +229,7 @@ window.RECETAS_SEED.push({
     "Trincha el pollo en 4 piezas y sírvelo con la ensalada y un poco de la grasa de la sartén por encima."
   ],
   nutricion: { kcal: 590, prot: 42, hc: 7, grasa: 42 },
-  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "verano", "keto"],
   consejo: "«Mattone» significa ladrillo: el peso hace que toda la piel toque la sartén y quede crujiente de punta a punta, y que el pollo se haga en la mitad de tiempo. Si no encuentras picantón, usa 4 contramuslos con hueso y piel: unos 12 minutos por el lado de la piel y 8 por el otro, siempre con el peso encima.",
   tupper: false,
   contundencia: "media",
@@ -273,7 +273,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida la ternera con su salsa y las alcachofas al lado, con el resto del perejil y unas gotas del otro medio limón por encima. Las hojas de laurel se dejan en el plato, pero no se comen."
   ],
   nutricion: { kcal: 445, prot: 36, hc: 15, grasa: 26 },
-  etiquetas: ["tradicional", "ligera", "alta en proteína", "sin gluten", "invierno"],
+  etiquetas: ["tradicional", "ligera", "alta en proteína", "sin gluten", "invierno", "poco especiada"],
   consejo: "«All'uccelletto» quiere decir «como los pajaritos»: con las mismas hierbas y la misma cocción rápida con que se guisaban los pájaros pequeños de caza. En Génova se hace con laurel y vino blanco de la Riviera; en Toscana, con salvia. La clave es la sartén muy caliente y poca carne cada vez: amontonada suelta agua y se cuece en lugar de dorarse, y pasada de 2 minutos se endurece. Si no encuentras alcachofas frescas, usa corazones congelados y cuécelos 8 minutos. Acompáñala con pan para mojar en la salsa.",
   tupper: false,
   contundencia: "ligera",
@@ -317,7 +317,7 @@ window.RECETAS_SEED.push({
     "Prueba antes de salar, porque la anchoa ya aporta sal; añade pimienta y sirve el cordero con las patatas."
   ],
   nutricion: { kcal: 625, prot: 44, hc: 32, grasa: 35 },
-  etiquetas: ["tradicional", "sin gluten", "primavera", "para invitados"],
+  etiquetas: ["tradicional", "sin gluten", "primavera", "para invitados", "sin verduras", "poco especiada"],
   consejo: "El abbacchio es el cordero lechal de Roma, y la picada de anchoa, ajo, romero y vinagre, que se añade al final para que no pierda fuerza, es lo que distingue esta cacciatora de las demás. Funciona igual con cordero lechal o recental de aquí: pide paletilla o pierna troceada. Aguanta 2 días en la nevera y está todavía más sabroso.",
   tupper: true,
   contundencia: "media",
@@ -359,7 +359,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 minutos (el queso está ardiendo) y sirve con las verduras."
   ],
   nutricion: { kcal: 640, prot: 40, hc: 11, grasa: 48 },
-  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "verano", "keto", "poco especiada"],
   consejo: "Las bombette nacieron en las carnicerías del valle de Itria, en Apulia, que las asaban al momento para los clientes. Allí se hacen con capocollo, que aquí equivale al cabecero de lomo: pídelo en filetes finos. Si no encuentras caciocavallo, el provolone o un queso de vaca semicurado que funda bien sirven igual. Puedes dejarlas montadas en la nevera hasta 24 horas.",
   tupper: true,
   contundencia: "media",
@@ -405,7 +405,7 @@ window.RECETAS_SEED.push({
     "Aliña la lechuga cortada en tiras con el zumo de medio limón, el resto del aceite y sal, y sirve las brochetas con el otro medio limón en gajos para exprimir por encima."
   ],
   nutricion: { kcal: 590, prot: 41, hc: 31, grasa: 34 },
-  etiquetas: ["tradicional", "al horno", "alta en proteína", "para invitados"],
+  etiquetas: ["tradicional", "al horno", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "Son los rollitos de domingo de Palermo, con el relleno siciliano de pasas y piñones. El laurel no se come, pero perfuma la carne mientras se asa. Puedes montarlos la víspera y guardarlos tapados en la nevera; también se hacen a la brasa o a la plancha, unos 3 minutos por cada lado.",
   tupper: true,
   contundencia: "media",
@@ -448,7 +448,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas al momento, apoyadas sobre el pan para que recoja el jugo, con la ensalada al lado."
   ],
   nutricion: { kcal: 665, prot: 39, hc: 51, grasa: 33 },
-  etiquetas: ["tradicional", "verano", "alta en proteína"],
+  etiquetas: ["tradicional", "verano", "alta en proteína", "poco especiada"],
   consejo: "En los Abruzos se hacen con carne de oveja o carnero, se asan en una parrilla larga y estrecha y se comen con las manos, decenas por persona. Con pierna de cordero salen más suaves. Si tienes barbacoa, mejor aún: brasa fuerte y no más de 4 minutos. El secreto es que los trozos sean muy pequeños para que se doren antes de secarse por dentro.",
   tupper: false,
   contundencia: "contundente",
@@ -491,7 +491,7 @@ window.RECETAS_SEED.push({
     "Diluye el pesto restante con el zumo de medio limón. Sirve la panzanella con las brochetas encima, un hilo de ese pesto y unas hojas de albahaca."
   ],
   nutricion: { kcal: 545, prot: 41, hc: 33, grasa: 27 },
-  etiquetas: ["creativa", "rápida", "verano", "alta en proteína"],
+  etiquetas: ["creativa", "rápida", "verano", "alta en proteína", "poco especiada"],
   consejo: "Junta dos clásicos del verano italiano: el pesto de Liguria como adobo y la panzanella, la ensalada toscana de pan duro. El pan tostado en la airfryer aguanta el aliño sin deshacerse. Sin airfryer, hazlas en el horno a 220 °C unos 15 minutos o a la plancha. El pesto de bote suele llevar queso y a veces anacardos en lugar de piñones: revisa la etiqueta si hay alergias.",
   tupper: false,
   contundencia: "media",
@@ -626,7 +626,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos tapado, para que termine de hacerse y se corte sin romperse. Sírvelo en rodajas gruesas con la salsa."
   ],
   nutricion: { kcal: 555, prot: 51, hc: 20, grasa: 29 },
-  etiquetas: ["creativa", "alta en proteína", "batch cooking", "para niños", "ideal para llevar"],
+  etiquetas: ["creativa", "alta en proteína", "batch cooking", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "El polpettone es el pastel de carne de las casas italianas, que normalmente se hace al horno. En el microondas queda muy jugoso porque se cuece en su propio vapor; si tu microondas tiene grill, dale 5 minutos al final para que se dore. Frío y en lonchas es un buen relleno de bocadillo, y aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -669,7 +669,7 @@ window.RECETAS_SEED.push({
     "Sirve las chuletas con la salsa por encima, el radicchio y las peras asadas al lado, y esparce las nueces tostadas."
   ],
   nutricion: { kcal: 700, prot: 41, hc: 28, grasa: 46 },
-  etiquetas: ["creativa", "otoño", "alta en proteína", "sin gluten"],
+  etiquetas: ["creativa", "otoño", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "Pera y gorgonzola es una pareja clásica de Lombardía y aquí se convierte en salsa para el cerdo. Usa gorgonzola dulce si lo encuentras; si el queso azul es muy fuerte, pon menos y añade un poco más de nata. El radicchio, la achicoria roja del Véneto, aporta un amargor que equilibra la salsa; si no lo encuentras, usa endibias partidas por la mitad.",
   tupper: false,
   contundencia: "contundente",
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
     "Corta el magret en lonchas al bies y sírvelo sobre el puré, con las uvas y la salsa por encima."
   ],
   nutricion: { kcal: 565, prot: 36, hc: 37, grasa: 29 },
-  etiquetas: ["creativa", "otoño", "para invitados", "sin gluten"],
+  etiquetas: ["creativa", "otoño", "para invitados", "sin gluten", "poco especiada"],
   consejo: "La uva y el vinagre balsámico, que en Módena se elabora con mosto de uva cocido, son pareja natural en el otoño de Emilia-Romaña, y su acidez dulce corta la grasa del pato. Empezar el magret en la sartén fría es la clave: la grasa se funde despacio y la piel queda crujiente sin quemarse. Guarda la grasa que suelta en un tarro en la nevera: es perfecta para saltear patatas.",
   tupper: false,
   contundencia: "media",
@@ -757,7 +757,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida, con el pan tostado si quieres, antes de que la rúcula se ablande."
   ],
   nutricion: { kcal: 450, prot: 33, hc: 9, grasa: 31 },
-  etiquetas: ["creativa", "sin cocción", "rápida", "ligera", "verano", "alta en proteína"],
+  etiquetas: ["creativa", "sin cocción", "rápida", "ligera", "verano", "alta en proteína", "keto", "poco especiada"],
   consejo: "La bresaola es carne de ternera curada de la Valtelina, en Lombardía, y allí se come con rúcula, aceite, limón y queso. Si no la encuentras, la cecina de León en lonchas finísimas es muy parecida. Para adelantarla, guarda los rollitos y la rúcula por separado en la nevera y aliña en el último momento.",
   tupper: false,
   contundencia: "ligera",
@@ -801,7 +801,7 @@ window.RECETAS_SEED.push({
     "Déjalos escurrir 1 minuto sobre papel de cocina y sírvelos con la ensalada."
   ],
   nutricion: { kcal: 640, prot: 46, hc: 34, grasa: 35 },
-  etiquetas: ["creativa", "alta en proteína", "invierno", "para invitados"],
+  etiquetas: ["creativa", "alta en proteína", "invierno", "para invitados", "poco especiada"],
   consejo: "Pistacho, naranja, hinojo y aceitunas son sabores de Sicilia, donde se hace una costra parecida para el pez espada. Usa pistachos pelados y sin sal, y no los tritures hasta hacerlos polvo: los trocitos son los que crujen. La ensalada aguanta un día en la nevera; el pollo, mejor recién hecho.",
   tupper: false,
   contundencia: "media",
@@ -844,7 +844,7 @@ window.RECETAS_SEED.push({
     "Corta el tomate en rodajas. Unta la base del pan con el pesto rojo y monta con la rúcula, la hamburguesa y el tomate. Sirve enseguida."
   ],
   nutricion: { kcal: 775, prot: 44, hc: 52, grasa: 43 },
-  etiquetas: ["creativa", "rápida", "para niños", "una sola sartén"],
+  etiquetas: ["creativa", "rápida", "para niños", "una sola sartén", "poco especiada"],
   consejo: "La mezcla de ternera y cerdo es la de las polpette italianas: la ternera aporta sabor y el cerdo, jugosidad. Usa mozzarella de bloque para pizza mejor que la fresca en bola, que suelta agua y hace reventar el relleno. Para los niños, cambia el pesto rojo por salsa de tomate con orégano.",
   tupper: false,
   contundencia: "contundente",
@@ -888,7 +888,7 @@ window.RECETAS_SEED.push({
     "Sirve el pavo con las castañas, las verduras y la salsa por encima."
   ],
   nutricion: { kcal: 575, prot: 45, hc: 38, grasa: 26 },
-  etiquetas: ["creativa", "otoño", "invierno", "batch cooking", "sin gluten"],
+  etiquetas: ["creativa", "otoño", "invierno", "batch cooking", "sin gluten", "poco especiada"],
   consejo: "Las castañas con aves son muy del norte de Italia en otoño: en Piamonte y Lombardía se rellena con ellas el pavo de Navidad. Usa castañas ya cocidas y peladas, envasadas al vacío, y te ahorras la parte pesada. Si no tienes olla lenta, guísalo tapado en una cazuela a fuego mínimo hora y media. Aguanta 3 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "media",

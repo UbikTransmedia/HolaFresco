@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "Sírvelas con los tomates en rodajas aliñados con sal y aceite."
   ],
   nutricion: { kcal: 760, prot: 28, hc: 75, grasa: 38 },
-  etiquetas: ["tradicional", "saciante", "económica", "para niños", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "económica", "para niños", "batch cooking", "poco especiada"],
   consejo: "Que el relleno esté frío antes de cerrar: si está caliente, la masa se ablanda y se rompe. Se pueden congelar crudas y freír sin descongelar, a fuego un poco más bajo.",
   contundencia: "contundente",
   coste: "económica"
@@ -79,7 +79,7 @@ window.RECETAS_SEED.push({
     "Vierte la salsa sobre los pimientos y calienta todo a fuego suave 5 minutos, meneando la cazuela."
   ],
   nutricion: { kcal: 660, prot: 34, hc: 40, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "para invitados", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "para invitados", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Es un plato que se puede dejar hecho el día anterior y que mejora al reposar. Si los pimientos se rompen al rellenarlos, no pasa nada: la salsa lo esconde todo.",
   contundencia: "contundente",
   coste: "media"
@@ -163,7 +163,7 @@ window.RECETAS_SEED.push({
     "Aliña con la vinagreta, remueve y deja reposar en la nevera al menos 15 minutos antes de servir bien fresco."
   ],
   nutricion: { kcal: 385, prot: 36, hc: 14, grasa: 20 },
-  etiquetas: ["tradicional", "verano", "para invitados", "ligera", "alta en proteína"],
+  etiquetas: ["tradicional", "verano", "para invitados", "ligera", "alta en proteína", "poco especiada"],
   consejo: "Pica todas las verduras del mismo tamaño, pequeñitas: es lo que hace que un salpicón sea un salpicón. Si quieres abaratarlo, sustituye parte del marisco por surimi y huevo duro, como se hace en muchas casas.",
   contundencia: "ligera",
   coste: "premium"
@@ -207,7 +207,7 @@ window.RECETAS_SEED.push({
     "Deja templar el rollo 5 minutos, córtalo en rodajas gruesas y sírvelo napado con la salsa y con las patatas."
   ],
   nutricion: { kcal: 625, prot: 42, hc: 45, grasa: 30 },
-  etiquetas: ["tradicional", "batch cooking", "para niños", "de domingo"],
+  etiquetas: ["tradicional", "batch cooking", "para niños", "de domingo", "poco especiada"],
   consejo: "Frío está buenísimo en rodajas, casi como un fiambre de pescado. Si la masa se te deshace al formar el rollo, añade una cucharada más de pan rallado.",
   contundencia: "media",
   coste: "media"
@@ -247,7 +247,7 @@ window.RECETAS_SEED.push({
     "Espolvorea perejil picado y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 560, prot: 38, hc: 45, grasa: 25 },
-  etiquetas: ["tradicional", "fácil", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "fácil", "para invitados", "de domingo", "sin verduras", "poco especiada"],
   consejo: "Usa sidra natural, no la espumosa dulce: su acidez es la que le da la gracia. Desecha las almejas que no se hayan abierto.",
   contundencia: "media",
   coste: "premium"
@@ -288,7 +288,7 @@ window.RECETAS_SEED.push({
     "Escúrrelas sobre papel. Aliña la ensalada con sal, vinagre y un chorrito de aceite y sirve las gambas con gajos de limón."
   ],
   nutricion: { kcal: 620, prot: 28, hc: 55, grasa: 32 },
-  etiquetas: ["tradicional", "fácil", "rápida", "para invitados", "verano"],
+  etiquetas: ["tradicional", "fácil", "rápida", "para invitados", "verano", "poco especiada"],
   consejo: "El nombre viene de que la gamba lleva su 'gabardina' de rebozado. Cuanto más fría la cerveza, más crujiente queda: puedes meter el bol de la masa sobre otro con hielo.",
   contundencia: "media",
   coste: "media"
@@ -329,7 +329,7 @@ window.RECETAS_SEED.push({
     "Sirve los salmonetes recién fritos con la pipirrana bien fría y pan para mojar el aliño."
   ],
   nutricion: { kcal: 575, prot: 34, hc: 35, grasa: 33 },
-  etiquetas: ["tradicional", "fácil", "rápida", "verano"],
+  etiquetas: ["tradicional", "fácil", "rápida", "verano", "poco especiada"],
   consejo: "El salmonete tiene un sabor a marisco muy especial gracias a su hígado: no hace falta quitárselo. Pide en la pescadería que te los desescamen, que la escama es muy pegajosa.",
   contundencia: "media",
   coste: "media"
@@ -372,7 +372,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve en plato hondo."
   ],
   nutricion: { kcal: 660, prot: 36, hc: 58, grasa: 31 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "poco especiada"],
   consejo: "El cazón es firme y no se deshace al guisar, por eso es perfecto para esta receta. Si no lo encuentras, usa rape o pez espada en tacos.",
   contundencia: "contundente",
   coste: "económica"
@@ -410,7 +410,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida, directamente de la fuente."
   ],
   nutricion: { kcal: 780, prot: 42, hc: 48, grasa: 46 },
-  etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "de domingo", "sin verduras", "poco especiada"],
   consejo: "Vigila el gratinado: el alioli pasa de dorado a quemado en un momento. Si te sobra alioli, aguanta 2 días en la nevera bien tapado.",
   contundencia: "contundente",
   coste: "media"
@@ -450,7 +450,7 @@ window.RECETAS_SEED.push({
     "Quita el hilo, corta el rape en medallones gruesos y sírvelo con la salsa y las patatas."
   ],
   nutricion: { kcal: 540, prot: 40, hc: 40, grasa: 24 },
-  etiquetas: ["tradicional", "al horno", "para invitados", "de domingo", "alta en proteína"],
+  etiquetas: ["tradicional", "al horno", "para invitados", "de domingo", "alta en proteína", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Era la 'langosta de los pobres' de los años 60. También se sirve frío con mayonesa o salsa rosa, como un fiambre de marisco.",
   contundencia: "media",
   coste: "premium"
@@ -534,7 +534,7 @@ window.RECETAS_SEED.push({
     "Sírvelas con la lechuga y el tomate aliñados."
   ],
   nutricion: { kcal: 760, prot: 30, hc: 70, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "económica", "batch cooking", "para niños"],
+  etiquetas: ["tradicional", "saciante", "económica", "batch cooking", "para niños", "poco especiada"],
   consejo: "Cocer la merluza en la misma leche de la bechamel es el truco de abuela para que la croqueta sepa a pescado de verdad. Congélalas ya empanadas, separadas en una bandeja, y luego guárdalas en bolsa.",
   contundencia: "contundente",
   coste: "económica"
@@ -574,7 +574,7 @@ window.RECETAS_SEED.push({
     "Sirve la merluza con su salsa sobre las rodajas de patata escurridas."
   ],
   nutricion: { kcal: 450, prot: 34, hc: 25, grasa: 24 },
-  etiquetas: ["tradicional", "ligera", "fácil", "rápida", "para niños"],
+  etiquetas: ["tradicional", "ligera", "fácil", "rápida", "para niños", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "Lava bien los puerros abriéndolos por la mitad bajo el grifo: entre sus capas suele esconderse tierra. La salsa admite un chorrito de nata al final si la quieres más untuosa.",
   contundencia: "ligera",
   coste: "media"
@@ -616,7 +616,7 @@ window.RECETAS_SEED.push({
     "Hornea 20-25 minutos, hasta que el tomate esté asado y la merluza se separe en lascas."
   ],
   nutricion: { kcal: 560, prot: 36, hc: 45, grasa: 26 },
-  etiquetas: ["tradicional", "al horno", "fácil", "de domingo"],
+  etiquetas: ["tradicional", "al horno", "fácil", "de domingo", "poco especiada"],
   consejo: "En Mallorca se hace con espinacas o acelgas indistintamente, y con cualquier pescado blanco. Las pasas y los piñones son herencia árabe: no te los saltes, dan el contraste dulce.",
   contundencia: "media",
   coste: "media"
@@ -660,7 +660,7 @@ window.RECETAS_SEED.push({
     "Sírvelo con la lechuga y la cebolleta aliñadas con un poco del propio escabeche."
   ],
   nutricion: { kcal: 470, prot: 36, hc: 22, grasa: 26 },
-  etiquetas: ["tradicional", "verano", "batch cooking", "ligera"],
+  etiquetas: ["tradicional", "verano", "batch cooking", "ligera", "poco especiada"],
   consejo: "Bien cubierto por el escabeche aguanta 5-6 días en la nevera, y cada día está más rico: es la forma en que se conservaba el bonito en las casas del Cantábrico.",
   contundencia: "ligera",
   coste: "media"
@@ -698,7 +698,7 @@ window.RECETAS_SEED.push({
     "Escurre sobre papel y sirve con las patatas, la lechuga, gajos de limón y la mayonesa."
   ],
   nutricion: { kcal: 720, prot: 36, hc: 50, grasa: 42 },
-  etiquetas: ["tradicional", "saciante", "económica", "fácil", "para niños"],
+  etiquetas: ["tradicional", "saciante", "económica", "fácil", "para niños", "poco especiada"],
   consejo: "Pide al pescadero que te la limpie 'para morder la cola', que ya sabe cómo dejarla. El aceite no debe humear: si está demasiado fuerte se queda cruda junto a la espina.",
   contundencia: "contundente",
   coste: "económica"
@@ -738,7 +738,7 @@ window.RECETAS_SEED.push({
     "Sirve con la lechuga y el tomate aliñados con sal, aceite y vinagre."
   ],
   nutricion: { kcal: 690, prot: 42, hc: 40, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "fácil", "rápida", "para niños"],
+  etiquetas: ["tradicional", "saciante", "fácil", "rápida", "para niños", "poco especiada"],
   consejo: "Si el sándwich se abre, sujétalo con un palillo durante el rebozado y quítalo antes de servir. A fuego medio y sin prisa, para que el queso se funda antes de que el pan rallado se queme.",
   contundencia: "contundente",
   coste: "económica"
@@ -778,7 +778,7 @@ window.RECETAS_SEED.push({
     "Escurre y sirve el pescado con las papas, el boniato y el mojo rojo por encima o aparte."
   ],
   nutricion: { kcal: 715, prot: 40, hc: 80, grasa: 26 },
-  etiquetas: ["tradicional", "saciante", "económica", "fácil"],
+  etiquetas: ["tradicional", "saciante", "económica", "fácil", "sin verduras"],
   consejo: "Si te sobra mojo, guárdalo en un bote en la nevera: aguanta semanas y sirve para unas papas arrugadas o para alegrar cualquier pescado a la plancha. Tradicionalmente se acompaña de pella de gofio.",
   contundencia: "contundente",
   coste: "económica"
@@ -819,7 +819,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo sobre rebanadas de pan, con perejil picado por encima."
   ],
   nutricion: { kcal: 420, prot: 34, hc: 36, grasa: 15 },
-  etiquetas: ["tradicional", "de cuchara", "ligera", "económica", "fácil", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "ligera", "económica", "fácil", "invierno", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "El zumo de naranja siempre fuera del fuego y al final: si hierve, amarga. El nombre, según los gaditanos, viene de lo rápido que se hacía en los barcos.",
   contundencia: "ligera",
   coste: "económica"
@@ -860,7 +860,7 @@ window.RECETAS_SEED.push({
     "Añade el vinagre, prueba de sal y sirve inmediatamente."
   ],
   nutricion: { kcal: 560, prot: 32, hc: 38, grasa: 31 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "saciante"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "saciante", "sin verduras", "poco especiada"],
   consejo: "Es la 'sopa de los pescadores' de Málaga. El secreto es templar la mayonesa con el caldo poco a poco, nunca al revés; si se te corta, bate un poco en el vaso de la batidora y vuelve a mezclar.",
   contundencia: "media",
   coste: "media"
@@ -899,7 +899,7 @@ window.RECETAS_SEED.push({
     "Escurre sobre papel y sirve con los pimientos, gajos de limón y pan."
   ],
   nutricion: { kcal: 600, prot: 34, hc: 45, grasa: 31 },
-  etiquetas: ["tradicional", "fácil", "rápida", "económica", "para niños"],
+  etiquetas: ["tradicional", "fácil", "rápida", "económica", "para niños", "poco especiada"],
   consejo: "Puedes rebozarlos juntando dos bocartes con una tira de pimiento o una hoja de perejil en medio, como un sándwich. Si los compras ya abiertos, te ahorras todo el trabajo.",
   contundencia: "media",
   coste: "económica"
@@ -940,7 +940,7 @@ window.RECETAS_SEED.push({
     "Sirve en la misma fuente con el jugo de la verdura por encima."
   ],
   nutricion: { kcal: 560, prot: 38, hc: 40, grasa: 27 },
-  etiquetas: ["tradicional", "al horno", "fácil", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "al horno", "fácil", "de domingo", "para invitados", "poco especiada"],
   consejo: "La 'roteña' es la salsa de pimientos y tomate típica de Rota: si te sobra, sirve para cualquier pescado. Funciona con dorada, urta o lubina.",
   contundencia: "media",
   coste: "premium"
@@ -981,7 +981,7 @@ window.RECETAS_SEED.push({
     "Refrigera al menos 30 minutos antes de servir."
   ],
   nutricion: { kcal: 700, prot: 26, hc: 48, grasa: 45 },
-  etiquetas: ["tradicional", "saciante", "económica", "verano", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "económica", "verano", "batch cooking", "poco especiada"],
   consejo: "Cuece las patatas con piel: absorben menos agua y la ensaladilla queda más cremosa, no aguada. Guárdala siempre en la nevera y consúmela en un par de días.",
   contundencia: "contundente",
   coste: "económica"
@@ -1022,7 +1022,7 @@ window.RECETAS_SEED.push({
     "Aliña las patatas con un poco de la vinagreta sobrante y sírvelas junto a los mejillones, bien fríos."
   ],
   nutricion: { kcal: 400, prot: 24, hc: 38, grasa: 17 },
-  etiquetas: ["tradicional", "ligera", "económica", "verano", "fácil"],
+  etiquetas: ["tradicional", "ligera", "económica", "verano", "fácil", "poco especiada"],
   consejo: "Prepáralos con una hora de antelación y guárdalos en la nevera: el picadillo suelta jugo y los mejillones se impregnan. Una cucharada del caldo de cocción en la vinagreta es el toque que la hace especial.",
   contundencia: "ligera",
   coste: "económica"

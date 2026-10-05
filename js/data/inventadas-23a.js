@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Sirve los flamenquines enteros o cortados al bies, con las patatas, la lechuga en tiras aliñada con aceite y sal y una cucharada de mayonesa al lado."
   ],
   nutricion: { kcal: 895, prot: 52, hc: 70, grasa: 45 },
-  etiquetas: ["tradicional", "saciante", "para niños", "frito", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "para niños", "frito", "de domingo", "poco especiada"],
   consejo: "El truco cordobés es el doble empanado y freírlos con el aceite bien caliente para que no chupen grasa. Puedes dejarlos empanados y congelados en crudo: se fríen directamente sin descongelar, a fuego un poco más bajo.",
   contundencia: "contundente",
   coste: "media"
@@ -79,7 +79,7 @@ window.RECETAS_SEED.push({
     "Sirve cada cachopo entero, con las patatas y los pimientos al lado. Córtalo en la mesa para ver el queso fundirse."
   ],
   nutricion: { kcal: 950, prot: 60, hc: 65, grasa: 50 },
-  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "frito", "invierno"],
+  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "frito", "invierno", "poco especiada"],
   consejo: "Si el cachopo es muy grande para tu sartén, termínalo 5 minutos en el horno a 200 °C tras dorarlo: así el queso se funde del todo sin que el rebozado se queme. Los sidreros asturianos le añaden a veces unos pimientos o setas dentro.",
   contundencia: "contundente",
   coste: "media"
@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
     "Sirve las lonchas con las patatas asadas y el alioli al lado."
   ],
   nutricion: { kcal: 540, prot: 48, hc: 38, grasa: 22 },
-  etiquetas: ["tradicional", "al horno", "fácil", "para invitados", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "fácil", "para invitados", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "No sales la carne: la costra le da justo el punto. Lo que sobre, frío y en lonchas finas, es un fiambre buenísimo para bocadillos durante tres días.",
   contundencia: "media",
   coste: "media"
@@ -162,7 +162,7 @@ window.RECETAS_SEED.push({
     "Escúrrelos sobre papel absorbente y sírvelos enseguida con unas gotas de limón y la ensalada al lado."
   ],
   nutricion: { kcal: 550, prot: 44, hc: 40, grasa: 24 },
-  etiquetas: ["tradicional", "fácil", "rápida", "económica", "para niños", "frito"],
+  etiquetas: ["tradicional", "fácil", "rápida", "económica", "para niños", "frito", "poco especiada"],
   consejo: "El ajo y el perejil en el huevo es el truco de las abuelas para que el filete sepa a casa. Si quieres que el pan rallado quede más fino y crujiente, pásalo antes por la batidora unos segundos.",
   contundencia: "media",
   coste: "económica"
@@ -206,7 +206,7 @@ window.RECETAS_SEED.push({
     "Sirve los filetes rusos con el arroz en flanes (aprieta el arroz en una taza y dale la vuelta en el plato) y el tomate frito por encima o al lado."
   ],
   nutricion: { kcal: 750, prot: 36, hc: 80, grasa: 32 },
-  etiquetas: ["tradicional", "saciante", "económica", "para niños", "batch cooking", "fácil"],
+  etiquetas: ["tradicional", "saciante", "económica", "para niños", "batch cooking", "fácil", "sin verduras", "poco especiada"],
   consejo: "Puedes formar los filetes, enharinarlos y congelarlos separados con papel de horno: se fríen sin descongelar a fuego medio-bajo. Si añades un huevo frito encima, tienes el plato combinado de cafetería de siempre.",
   contundencia: "contundente",
   coste: "media"
@@ -246,7 +246,7 @@ window.RECETAS_SEED.push({
     "Sirve las chuletillas sobre las patatas a lo pobre y riega todo con el ajo frito y su aceite."
   ],
   nutricion: { kcal: 830, prot: 40, hc: 50, grasa: 52 },
-  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "fácil"],
+  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "fácil", "poco especiada"],
   consejo: "Las chuletillas de cordero se comen con la mano y recién hechas: ásalas en el último momento. No las pinches al darles la vuelta para que no pierdan jugo; usa unas pinzas.",
   contundencia: "contundente",
   coste: "premium"
@@ -288,7 +288,7 @@ window.RECETAS_SEED.push({
     "Añade el perejil picado y las patatas, mezcla y sirve enseguida con pan para mojar en el jugo de ajo."
   ],
   nutricion: { kcal: 715, prot: 48, hc: 45, grasa: 38 },
-  etiquetas: ["tradicional", "saciante", "económica", "de domingo", "fácil"],
+  etiquetas: ["tradicional", "saciante", "económica", "de domingo", "fácil", "sin verduras"],
   consejo: "El secreto está en trocear el pollo pequeño (que lo haga el carnicero) y dorarlo sin prisa: así queda crujiente y el ajo perfuma sin quemarse. Mueve la cazuela en vez de remover para que la salsa emulsione.",
   contundencia: "contundente",
   coste: "económica"
@@ -324,7 +324,7 @@ window.RECETAS_SEED.push({
     "Déjalo reposar 2 minutos, córtalo en tiras finas al bies y sírvelo con sal en escamas, los pimientos y las patatas."
   ],
   nutricion: { kcal: 845, prot: 36, hc: 45, grasa: 58 },
-  etiquetas: ["tradicional", "rápida", "para invitados", "verano", "saciante"],
+  etiquetas: ["tradicional", "rápida", "para invitados", "verano", "saciante", "poco especiada"],
   consejo: "El secreto ibérico se come jugoso, nunca muy hecho: si lo pasas, se queda correoso. Unos pimientos pican y otros no; ¡ese es el juego!",
   contundencia: "contundente",
   coste: "premium"
@@ -368,7 +368,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan abierto en la sartén unos segundos. Monta: pan, lechuga, tomate en rodajas, hamburguesa con queso, cebolla, bacon y huevo frito. Sirve con las patatas y el kétchup."
   ],
   nutricion: { kcal: 1000, prot: 52, hc: 75, grasa: 55 },
-  etiquetas: ["tradicional", "saciante", "para niños", "de domingo", "fácil"],
+  etiquetas: ["tradicional", "saciante", "para niños", "de domingo", "fácil", "poco especiada"],
   consejo: "No aprietes la carne al formar la hamburguesa ni la aplastes en la sartén: así queda jugosa. Sálala justo antes de cocinarla, no antes, para que no se seque.",
   contundencia: "contundente",
   coste: "media"
@@ -413,7 +413,7 @@ window.RECETAS_SEED.push({
     "Corta la carne en rodajas finas (se verá el mechado de colores), sírvela con su salsa por encima y el puré al lado."
   ],
   nutricion: { kcal: 560, prot: 50, hc: 40, grasa: 22 },
-  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "batch cooking", "invierno", "poco especiada"],
   consejo: "La carne mechada está todavía mejor al día siguiente: córtala en frío (salen lonchas más finas) y caliéntala en su salsa. Si no tienes cuchillo largo, usa una chaira o el mango de una cuchara de madera para abrir los huecos.",
   contundencia: "media",
   coste: "premium"
@@ -458,7 +458,7 @@ window.RECETAS_SEED.push({
     "Pinta con huevo batido y hornea 35-40 minutos, hasta que esté bien dorada por encima y por debajo. Déjala templar 10 minutos antes de cortar."
   ],
   nutricion: { kcal: 820, prot: 34, hc: 85, grasa: 38 },
-  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "ideal para llevar", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "La clave gallega es amasar con el aceite del sofrito, que da color y sabor a la masa, y escurrir bien el relleno para que la base no quede mojada. Está igual de rica fría al día siguiente.",
   contundencia: "contundente",
   coste: "media"
@@ -499,7 +499,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve cada ración con dos contramuslos, patatas y una buena cucharada del jugo."
   ],
   nutricion: { kcal: 575, prot: 40, hc: 45, grasa: 26 },
-  etiquetas: ["tradicional", "al horno", "fácil", "económica", "de domingo", "una sola bandeja"],
+  etiquetas: ["tradicional", "al horno", "fácil", "económica", "de domingo", "una sola bandeja", "sin verduras", "poco especiada"],
   consejo: "Si te gusta la piel crujiente, pon el horno en función grill los últimos 5 minutos, vigilando. Si la bandeja se seca antes de tiempo, añade un chorrito de agua caliente para que no se queme el fondo.",
   contundencia: "media",
   coste: "económica"
@@ -541,7 +541,7 @@ window.RECETAS_SEED.push({
     "Escúrrelos sobre papel absorbente y sírvelos calientes, cortados por la mitad, con la ensalada."
   ],
   nutricion: { kcal: 580, prot: 42, hc: 35, grasa: 30 },
-  etiquetas: ["tradicional", "fácil", "rápida", "económica", "para niños", "frito"],
+  etiquetas: ["tradicional", "fácil", "rápida", "económica", "para niños", "frito", "poco especiada"],
   consejo: "Un queso que funda bien (tierno, de barra) es lo que hace bueno un san jacobo. Puedes prepararlos ya empanados por la mañana y freírlos al llegar a casa.",
   contundencia: "media",
   coste: "económica"
@@ -581,7 +581,7 @@ window.RECETAS_SEED.push({
     "Sirve en cada plato los filetes de lomo, un huevo frito y una buena montaña de patatas."
   ],
   nutricion: { kcal: 790, prot: 46, hc: 50, grasa: 45 },
-  etiquetas: ["tradicional", "saciante", "económica", "fácil", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "económica", "fácil", "batch cooking", "sin verduras"],
   consejo: "Prepara el doble de lomo adobado: en un táper bien tapado aguanta 3 días en la nevera y también se congela perfectamente en su adobo. En bocadillo con pimientos verdes fritos es otro clásico.",
   contundencia: "contundente",
   coste: "económica"
@@ -617,7 +617,7 @@ window.RECETAS_SEED.push({
     "Sirve el lomo con los pimientos fritos por encima."
   ],
   nutricion: { kcal: 380, prot: 36, hc: 10, grasa: 22 },
-  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "verano", "alta en proteína"],
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "verano", "alta en proteína", "poco especiada"],
   consejo: "El lomo se seca enseguida: con filetes de un dedo de grosor y fuego fuerte, no necesita más de 2 minutos por lado. Si sobra, hazte un bocadillo de lomo con pimientos al día siguiente.",
   contundencia: "ligera",
   coste: "económica"
@@ -657,7 +657,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con la ensalada de tomate al lado."
   ],
   nutricion: { kcal: 360, prot: 42, hc: 12, grasa: 16 },
-  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "verano", "alta en proteína"],
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "verano", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Para que la pechuga no quede seca, no la pinches ni la aplastes en la plancha, y no la cocines de más: en cuanto el centro pierda el rosado, está lista. Dejarla 10 minutos antes en agua con sal (un litro y una cucharada) la hace más jugosa.",
   contundencia: "ligera",
   coste: "económica"
@@ -696,7 +696,7 @@ window.RECETAS_SEED.push({
     "Sálalos con sal gruesa al sacarlos y sírvelos con los piquillos y su ajo por encima y la ensalada al lado."
   ],
   nutricion: { kcal: 370, prot: 38, hc: 14, grasa: 18 },
-  etiquetas: ["tradicional", "rápida", "fácil", "ligera", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "rápida", "fácil", "ligera", "alta en proteína", "verano", "poco especiada"],
   consejo: "La ternera fina a la plancha nunca se sala antes: la sal saca el jugo y el filete se cuece en vez de dorarse. Plancha bien caliente, poco tiempo y sal gruesa al final.",
   contundencia: "ligera",
   coste: "media"
@@ -735,7 +735,7 @@ window.RECETAS_SEED.push({
     "Déjalas reposar 2 minutos y sírvelas con la manzana asada al lado y su almíbar por encima."
   ],
   nutricion: { kcal: 435, prot: 36, hc: 28, grasa: 20 },
-  etiquetas: ["tradicional", "fácil", "económica", "otoño", "invierno"],
+  etiquetas: ["tradicional", "fácil", "económica", "otoño", "invierno", "sin verduras", "poco especiada"],
   consejo: "Cerdo y manzana son compañeros de toda la vida: el dulce ácido de la manzana corta la grasa. Las chuletas de aguja son más jugosas y baratas que las de lomo.",
   contundencia: "ligera",
   coste: "económica"
@@ -776,7 +776,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo recién frito con la ensalada al lado."
   ],
   nutricion: { kcal: 725, prot: 50, hc: 30, grasa: 45 },
-  etiquetas: ["tradicional", "saciante", "económica", "frito", "verano", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "económica", "frito", "verano", "de domingo", "poco especiada"],
   consejo: "Freír a fuego medio y no alto es el truco: si el aceite está demasiado caliente, el pollo se dora por fuera y queda crudo en el hueso. Trocéalo pequeño para que se haga parejo.",
   contundencia: "contundente",
   coste: "económica"
@@ -819,7 +819,7 @@ window.RECETAS_SEED.push({
     "Fríelas en tandas en abundante aceite bien caliente (180 °C) 1-2 minutos, hasta que estén doradas. Escurre sobre papel y sirve con la lechuga aliñada."
   ],
   nutricion: { kcal: 760, prot: 30, hc: 65, grasa: 42 },
-  etiquetas: ["tradicional", "saciante", "económica", "para niños", "batch cooking", "aprovechamiento"],
+  etiquetas: ["tradicional", "saciante", "económica", "para niños", "batch cooking", "aprovechamiento", "poco especiada"],
   consejo: "Las mejores croquetas se hacen con las sobras del pollo asado o del cocido. Congélalas ya empanadas en una bandeja y, una vez duras, pásalas a una bolsa: se fríen sin descongelar.",
   contundencia: "contundente",
   coste: "económica"
@@ -860,7 +860,7 @@ window.RECETAS_SEED.push({
     "Deja reposar la carne 5 minutos, córtala en rodajas y sírvela con las patatas, la fruta y el jugo de la fuente."
   ],
   nutricion: { kcal: 520, prot: 42, hc: 48, grasa: 18 },
-  etiquetas: ["tradicional", "al horno", "fácil", "de domingo", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "al horno", "fácil", "de domingo", "para invitados", "invierno", "sin verduras", "poco especiada"],
   consejo: "Si el jugo se queda muy líquido, cuélalo a un cazo y redúcelo 5 minutos a fuego fuerte con las ciruelas: queda una salsa espesa y brillante. Está aún mejor recalentado al día siguiente.",
   contundencia: "media",
   coste: "media"
@@ -902,7 +902,7 @@ window.RECETAS_SEED.push({
     "Sirve cada paletilla con las patatas, su jugo por encima y la ensalada aparte."
   ],
   nutricion: { kcal: 810, prot: 50, hc: 45, grasa: 48 },
-  etiquetas: ["tradicional", "al horno", "para invitados", "de domingo", "saciante", "invierno"],
+  etiquetas: ["tradicional", "al horno", "para invitados", "de domingo", "saciante", "invierno", "poco especiada"],
   consejo: "Los asadores castellanos solo usan agua, sal y fuego lento: no le pongas más especias. Si la paletilla es de cordero recental (más grande), añade 30 minutos al tiempo de horno.",
   contundencia: "contundente",
   coste: "premium"
@@ -943,7 +943,7 @@ window.RECETAS_SEED.push({
     "Corta el costillar en raciones y sírvelo sobre las patatas."
   ],
   nutricion: { kcal: 825, prot: 38, hc: 45, grasa: 55 },
-  etiquetas: ["tradicional", "al horno", "saciante", "económica", "fácil", "de domingo"],
+  etiquetas: ["tradicional", "al horno", "saciante", "económica", "fácil", "de domingo", "poco especiada"],
   consejo: "Tapar el costillar la primera parte del horneado hace que se cueza en su vapor y quede tierno; destapado, se dora. Si lo adobas la noche anterior, gana muchísimo sabor.",
   contundencia: "contundente",
   coste: "económica"
@@ -983,7 +983,7 @@ window.RECETAS_SEED.push({
     "Sirve los filetes con unas gotas de limón y los champiñones al ajillo por encima."
   ],
   nutricion: { kcal: 325, prot: 42, hc: 8, grasa: 14 },
-  etiquetas: ["tradicional", "rápida", "fácil", "ligera", "alta en proteína", "una sola sartén"],
+  etiquetas: ["tradicional", "rápida", "fácil", "ligera", "alta en proteína", "una sola sartén", "bajo en colesterol"],
   consejo: "No eches sal a los champiñones hasta que empiecen a dorarse si los quieres tostaditos; si los salas al principio, sueltan más agua y se cuecen.",
   contundencia: "ligera",
   coste: "media"
@@ -1024,7 +1024,7 @@ window.RECETAS_SEED.push({
     "Sirve con las verduras asadas y el jugo de la fuente por encima."
   ],
   nutricion: { kcal: 400, prot: 44, hc: 25, grasa: 14 },
-  etiquetas: ["tradicional", "al horno", "fácil", "ligera", "batch cooking", "alta en proteína"],
+  etiquetas: ["tradicional", "al horno", "fácil", "ligera", "batch cooking", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El reposo es lo que hace que el pavo quede jugoso: no lo cortes nada más sacarlo. Frío y en lonchas finas sirve como fiambre casero para toda la semana.",
   contundencia: "ligera",
   coste: "media"

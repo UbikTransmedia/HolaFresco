@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Garbanzos salteados al zaatar con espinacas, tomate cherry y crema de tahini al limón",
   subtitulo: "en una sola sartén, con ralladura de limón y ajo dorado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -41,7 +41,7 @@ window.RECETAS_SEED.push({
     "Sirve con la crema de tahini por encima, la ralladura de limón y el perejil picado. Acompaña con pan de pita tostado si quieres mojar."
   ],
   nutricion: { kcal: 530, prot: 24, hc: 50, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Seca muy bien los garbanzos con papel de cocina antes de saltearlos: así se doran y crujen en vez de cocerse al vapor.",
   contundencia: "media",
   coste: "económica"
@@ -52,7 +52,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu desmigado a la sartén con tomate seco, alcaparras y albahaca sobre pan tostado al ajo",
   subtitulo: "un salteado rápido de cena con sabor a verano italiano",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "mediterránea",
   momentos: ["cena"],
   proteina: "tofu",
@@ -82,7 +82,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade la albahaca en hojas rotas con la mano y reparte el tofu sobre las tostadas. Sirve enseguida."
   ],
   nutricion: { kcal: 405, prot: 24, hc: 32, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "una sola sartén"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "una sola sartén", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Usa una cucharada del aceite del bote de tomate seco para saltear: ya viene aromatizado y multiplica el sabor sin añadir nada más.",
   contundencia: "ligera",
   coste: "económica"
@@ -93,7 +93,7 @@ window.RECETAS_SEED.push({
   nombre: "Orzo al limón con judías blancas, rúcula y pistachos tostados",
   subtitulo: "cremoso sin nata gracias al almidón de la pasta y la levadura nutricional",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -122,7 +122,7 @@ window.RECETAS_SEED.push({
     "Apaga, mezcla la rúcula para que se ablande con el calor residual, salpimienta y sirve con los pistachos por encima."
   ],
   nutricion: { kcal: 570, prot: 22, hc: 71, grasa: 22 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "bajo en colesterol"],
   consejo: "Las sobras se comen frías como ensalada de pasta: añade tomate cherry y un chorrito más de limón.",
   contundencia: "media",
   coste: "media"
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
   nombre: "Lentejas con cintas de calabacín crudo, tomate seco, alcaparras y aliño de albahaca",
   subtitulo: "ensalada sin cocción con almendras tostadas",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -163,7 +163,7 @@ window.RECETAS_SEED.push({
     "En un bol mezcla las lentejas, las cintas de calabacín, el tomate seco en tiras, las alcaparras y la cebolla con su jugo. Riega con el aliño, remueve con cuidado y termina con las almendras y pimienta."
   ],
   nutricion: { kcal: 430, prot: 22, hc: 40, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "sin cocción", "ideal para llevar", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "sin cocción", "ideal para llevar", "verano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si la llevas en táper, guarda el aliño aparte y mézclalo al comer: el calabacín se mantiene crujiente.",
   contundencia: "ligera",
   coste: "económica"
@@ -174,7 +174,7 @@ window.RECETAS_SEED.push({
   nombre: "Heura al zumaque con ensalada fattoush y pan de pita crujiente",
   subtitulo: "con aliño de melaza de granada, menta y perejil",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "heura",
@@ -208,7 +208,7 @@ window.RECETAS_SEED.push({
     "Trocea la lechuga, el tomate, el pepino, los rábanos y la cebolleta; añade las hojas de perejil y menta. Justo antes de servir, mezcla con el aliño y la pita crujiente y corona con la heura caliente."
   ],
   nutricion: { kcal: 575, prot: 32, hc: 48, grasa: 28 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "alta en proteína", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "alta en proteína", "verano", "poco especiada"],
   consejo: "Si no encuentras melaza de granada, mezcla 1 cucharada de vinagre balsámico con media cucharadita de azúcar moreno.",
   contundencia: "media",
   coste: "media"
@@ -219,7 +219,7 @@ window.RECETAS_SEED.push({
   nombre: "Espaguetis a la puttanesca con garbanzos crujientes y pan rallado al ajo",
   subtitulo: "aceitunas, alcaparras, guindilla y orégano en una salsa de 15 minutos",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -261,7 +261,7 @@ window.RECETAS_SEED.push({
   nombre: "Cuscús de hierbas con tempeh dorado al limón, calabacín y almendras",
   subtitulo: "con perejil, menta y comino tostado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "tempeh",
@@ -293,7 +293,7 @@ window.RECETAS_SEED.push({
     "Esponja el cuscús con un tenedor, mézclalo con el resto del aceite y las hierbas picadas, y sirve con el tempeh, el calabacín y las almendras por encima."
   ],
   nutricion: { kcal: 635, prot: 31, hc: 62, grasa: 29 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "alta en proteína", "ideal para llevar", "poco especiada"],
   consejo: "Si el tempeh te resulta amargo, cuécelo 5 minutos en agua con sal antes de dorarlo: quedará más suave y absorberá mejor el limón.",
   contundencia: "media",
   coste: "media"
@@ -304,7 +304,7 @@ window.RECETAS_SEED.push({
   nombre: "Tostas de crema de alubias blancas con tomate rallado, alcaparras y aceite de albahaca",
   subtitulo: "una cena fresca en un cuarto de hora",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "mediterránea",
   momentos: ["cena"],
   proteina: "legumbre",
@@ -334,7 +334,7 @@ window.RECETAS_SEED.push({
     "Unta cada tosta con una buena capa de crema de alubias, cubre con tomate rallado, reparte las alcaparras, rocía con el aceite de albahaca y termina con escamas de sal y pimienta."
   ],
   nutricion: { kcal: 450, prot: 17, hc: 52, grasa: 19 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "La crema de alubias aguanta 4 días en la nevera: úsala como base de bocadillos o para mojar crudités.",
   contundencia: "ligera",
   coste: "económica"
@@ -345,7 +345,7 @@ window.RECETAS_SEED.push({
   nombre: "Mujaddara de bulgur y lentejas con cebolla crujiente y ensalada de pepino a la menta",
   subtitulo: "el clásico libanés de despensa, perfumado con comino y canela",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "oriente-medio",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -376,7 +376,7 @@ window.RECETAS_SEED.push({
     "Sirve la mujaddara coronada con el resto de la cebolla crujiente y la ensalada de pepino al lado."
   ],
   nutricion: { kcal: 690, prot: 23, hc: 82, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "económica"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "económica", "poco especiada"],
   consejo: "No tengas prisa con la cebolla: su dulzor tostado es todo el sabor del plato. Si haces el doble, guarda la mitad en un bote para ensaladas y cremas.",
   contundencia: "contundente",
   coste: "económica"
@@ -387,7 +387,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu al horno con tomates cherry, aceitunas, limón y orégano y patatas nuevas al romero",
   subtitulo: "todo en una bandeja, con ajo confitado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -416,7 +416,7 @@ window.RECETAS_SEED.push({
     "Exprime el limón por encima, aplasta un par de tomates contra el fondo para hacer un jugo y sirve con los ajos confitados para untar."
   ],
   nutricion: { kcal: 550, prot: 25, hc: 42, grasa: 31 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "poco especiada"],
   consejo: "Para un tofu aún más sabroso, déjalo marinar con el limón y el orégano desde la mañana en la nevera.",
   contundencia: "media",
   coste: "media"
@@ -427,7 +427,7 @@ window.RECETAS_SEED.push({
   nombre: "Fideuá vegana de alcachofas, ajos tiernos y garbanzos al azafrán con allioli",
   subtitulo: "fideos tostados en la paella y caldo de verduras con pimentón",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "española",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -459,7 +459,7 @@ window.RECETAS_SEED.push({
     "Mientras, mezcla la veganesa con el ajo rallado muy fino para hacer un allioli rápido. Deja reposar la fideuá 3 minutos y sírvela con el allioli."
   ],
   nutricion: { kcal: 765, prot: 23, hc: 92, grasa: 34 },
-  etiquetas: ["mediterránea", "aromática", "invierno", "para compartir"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "para compartir", "poco especiada"],
   consejo: "Si quieres los fideos bien de punta, mete la paella 3 minutos bajo el grill del horno al final.",
   contundencia: "contundente",
   coste: "premium"
@@ -470,7 +470,7 @@ window.RECETAS_SEED.push({
   nombre: "Sopa toscana de alubias blancas con kale, romero y pan tostado al ajo",
   subtitulo: "reconfortante, de cuchara y con un hilo de buen aceite al servir",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "sopas-cremas",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -502,7 +502,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan, frótalo con el ajo restante y ponlo en el fondo de los platos. Sirve la sopa encima con un hilo del aceite restante en crudo."
   ],
   nutricion: { kcal: 430, prot: 20, hc: 52, grasa: 16 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "invierno", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "invierno", "batch cooking", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Al día siguiente está aún mejor: recaliéntala con un poco de agua, porque las judías espesan mucho en la nevera.",
   contundencia: "ligera",
   coste: "económica"
@@ -513,7 +513,7 @@ window.RECETAS_SEED.push({
   nombre: "Tempeh encebollado al vino blanco con tomillo y patatas a lo pobre",
   subtitulo: "un guiso de sartén al estilo andaluz con pimiento verde y laurel",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "española",
   momentos: ["comida"],
   proteina: "tempeh",
@@ -545,7 +545,7 @@ window.RECETAS_SEED.push({
     "Sirve el tempeh encebollado sobre las patatas a lo pobre."
   ],
   nutricion: { kcal: 675, prot: 25, hc: 58, grasa: 38 },
-  etiquetas: ["mediterránea", "aromática", "invierno", "alta en proteína"],
+  etiquetas: ["mediterránea", "aromática", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Si tienes, usa un fino o manzanilla en vez del vino blanco: le da un punto salino muy andaluz.",
   contundencia: "contundente",
   coste: "media"
@@ -556,7 +556,7 @@ window.RECETAS_SEED.push({
   nombre: "Tabulé de quinoa con garbanzos, pepino, tomate, menta y vinagreta de zumaque",
   subtitulo: "mucho perejil, mucho limón: fresco y saciante",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "ensaladas",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -586,7 +586,7 @@ window.RECETAS_SEED.push({
     "Aliña con la vinagreta, remueve bien y deja reposar 5 minutos para que la quinoa absorba los jugos antes de servir."
   ],
   nutricion: { kcal: 455, prot: 17, hc: 55, grasa: 19 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "ideal para llevar", "verano", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "ideal para llevar", "verano", "batch cooking", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La proporción buena del tabulé es más hierba que cereal: no escatimes perejil. Aguanta 3 días en la nevera.",
   contundencia: "ligera",
   coste: "económica"
@@ -597,7 +597,7 @@ window.RECETAS_SEED.push({
   nombre: "Risotto de espárragos trigueros, guisantes y judías blancas al limón y menta",
   subtitulo: "cremoso con levadura nutricional y almendras tostadas",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -630,7 +630,7 @@ window.RECETAS_SEED.push({
     "Sirve con la menta picada, las almendras y pimienta recién molida."
   ],
   nutricion: { kcal: 600, prot: 24, hc: 81, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "primavera"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "primavera", "poco especiada", "bajo en colesterol"],
   consejo: "Con las sobras haz arancini: forma bolitas con el risotto frío, pásalas por pan rallado y hornéalas 20 minutos a 200 °C.",
   contundencia: "media",
   coste: "media"
@@ -641,7 +641,7 @@ window.RECETAS_SEED.push({
   nombre: "Köfte de lentejas rojas y bulgur en hojas de lechuga con limón y granada",
   subtitulo: "mercimek köftesi turco, sin horno ni fritura",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -675,7 +675,7 @@ window.RECETAS_SEED.push({
     "Sirve cada köfte sobre una hoja de lechuga, con granos de granada, un chorrito de melaza de granada y gajos de limón para envolver y comer con la mano."
   ],
   nutricion: { kcal: 590, prot: 23, hc: 75, grasa: 22 },
-  etiquetas: ["mediterránea", "aromática", "ideal para llevar", "batch cooking", "económica"],
+  etiquetas: ["mediterránea", "aromática", "ideal para llevar", "batch cooking", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si te gusta el picante, añade 1 cucharadita de pimentón picante o una cucharada de harissa al sofrito.",
   contundencia: "media",
   coste: "económica"
@@ -686,7 +686,7 @@ window.RECETAS_SEED.push({
   nombre: "Pasta corta al pesto trapanese de tomate, almendra y albahaca con garbanzos",
   subtitulo: "pesto siciliano en crudo, listo mientras hierve el agua",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -715,7 +715,7 @@ window.RECETAS_SEED.push({
     "Mezcla la pasta y los garbanzos con el pesto fuera del fuego, añadiendo un chorrito del agua de cocción si queda espeso. Sirve con las almendras reservadas picadas, hojas de albahaca y pimienta."
   ],
   nutricion: { kcal: 770, prot: 26, hc: 85, grasa: 36 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "verano", "verduras escondidas"],
   consejo: "Este pesto no se calienta: así el tomate y la albahaca conservan todo su perfume. ¿Sobra pesto? Úsalo para untar tostas.",
   contundencia: "contundente",
   coste: "media"
@@ -726,7 +726,7 @@ window.RECETAS_SEED.push({
   nombre: "Bandeja de garbanzos, hinojo, cebolla morada y cherry asados al limón y tomillo con tahini",
   subtitulo: "verduras caramelizadas y garbanzos tostados en una sola bandeja",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -757,7 +757,7 @@ window.RECETAS_SEED.push({
     "Sirve la bandeja regada con la salsa de tahini y las barbas de hinojo picadas por encima."
   ],
   nutricion: { kcal: 435, prot: 17, hc: 44, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Las rodajas de limón asadas se comen: quedan confitadas y amargas-dulces. Si sobra, tritúralo todo con un poco de caldo y tendrás una crema.",
   contundencia: "ligera",
   coste: "económica"
@@ -768,7 +768,7 @@ window.RECETAS_SEED.push({
   nombre: "Seitán a la griega al limón y orégano con patatas asadas al limón y ensalada de pepino",
   subtitulo: "las famosas patatas lemonates, jugosas por dentro y doradas por fuera",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "griega",
   momentos: ["comida"],
   proteina: "seitan",
@@ -801,7 +801,7 @@ window.RECETAS_SEED.push({
     "Sirve el seitán con su jugo sobre las patatas y la ensalada al lado."
   ],
   nutricion: { kcal: 700, prot: 36, hc: 53, grasa: 38 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "alta en proteína"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "alta en proteína", "poco especiada"],
   consejo: "El truco de las patatas griegas es el caldo con limón: se cuecen dentro y se doran fuera. No las apiles, que respiren en la fuente.",
   contundencia: "contundente",
   coste: "media"
@@ -812,7 +812,7 @@ window.RECETAS_SEED.push({
   nombre: "Tumbet mallorquín al horno con garbanzos y salsa de tomate al tomillo",
   subtitulo: "capas de patata, berenjena, pimiento y calabacín, sin freír",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -844,7 +844,7 @@ window.RECETAS_SEED.push({
     "Hornea 15 minutos, hasta que borbotee por los bordes. Deja reposar 5 minutos y sirve con perejil picado."
   ],
   nutricion: { kcal: 640, prot: 22, hc: 84, grasa: 24 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "verano"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "El tumbet gana en reposo: prepáralo la víspera y sírvelo templado. Aguanta 4 días en la nevera.",
   contundencia: "media",
   coste: "económica"
@@ -855,7 +855,7 @@ window.RECETAS_SEED.push({
   nombre: "Calabacines rellenos de bulgur, garbanzos, menta y piñones al horno",
   subtitulo: "con salsa de tomate especiada con canela y comino",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -891,7 +891,7 @@ window.RECETAS_SEED.push({
     "Hornea 20 minutos, hasta que los calabacines estén tiernos y la superficie dorada. Sirve con más menta fresca."
   ],
   nutricion: { kcal: 540, prot: 19, hc: 57, grasa: 26 },
-  etiquetas: ["mediterránea", "aromática", "al horno", "verano"],
+  etiquetas: ["mediterránea", "aromática", "al horno", "verano", "superalimentos", "poco especiada"],
   consejo: "Los piñones se pueden sustituir por almendras o nueces picadas para abaratar el plato sin perder el crujiente.",
   contundencia: "media",
   coste: "premium"
@@ -902,7 +902,7 @@ window.RECETAS_SEED.push({
   nombre: "Fasolakia: judías verdes guisadas con tomate, patata, garbanzos y eneldo",
   subtitulo: "guiso griego de aceite de oliva, mejor templado que caliente",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -932,7 +932,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el resto del eneldo y el perejil y deja reposar 10 minutos. Sirve templado con un hilo del aceite restante en crudo."
   ],
   nutricion: { kcal: 430, prot: 17, hc: 55, grasa: 16 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "batch cooking", "ideal para llevar", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Las judías no deben quedar al dente: en la cocina griega se guisan hasta que estén melosas y absorben el tomate. Al día siguiente están mejor.",
   contundencia: "ligera",
   coste: "económica"
@@ -943,7 +943,7 @@ window.RECETAS_SEED.push({
   nombre: "Arroz al horno vegano con garbanzos, tofu ahumado, patata y cabeza de ajos",
   subtitulo: "el arròs al forn valenciano, con pimentón y tomate asado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "española",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -973,7 +973,7 @@ window.RECETAS_SEED.push({
     "Saca del horno y deja reposar 5 minutos antes de servir, aplastando un par de dientes de ajo confitado en cada plato."
   ],
   nutricion: { kcal: 800, prot: 29, hc: 105, grasa: 29 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "poco especiada"],
   consejo: "La clave del arroz al horno es que el caldo entre hirviendo: así el grano empieza a cocer al momento y queda suelto.",
   contundencia: "contundente",
   coste: "económica"
@@ -984,7 +984,7 @@ window.RECETAS_SEED.push({
   nombre: "Judiones al horno a la griega con tomate, eneldo y orégano",
   subtitulo: "gigantes plaki: horneado lento hasta que el tomate se confita",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -1016,7 +1016,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos y sirve templado con el resto del eneldo fresco por encima."
   ],
   nutricion: { kcal: 430, prot: 18, hc: 42, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "batch cooking", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "batch cooking", "invierno", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Sírvelos con pan para mojar o, para una comida más completa, con una ensalada de pepino, tomate y aceitunas.",
   contundencia: "ligera",
   coste: "media"
@@ -1027,7 +1027,7 @@ window.RECETAS_SEED.push({
   nombre: "Briam griego de verduras asadas a fuego lento con garbanzos, eneldo y almendras",
   subtitulo: "patata, calabacín, berenjena y tomate horneados hasta quedar melosos",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -1061,7 +1061,7 @@ window.RECETAS_SEED.push({
     "Mientras, tuesta las almendras picadas en una sartén seca 2 minutos. Sirve el briam templado con el resto del eneldo y las almendras por encima."
   ],
   nutricion: { kcal: 460, prot: 16, hc: 54, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "verano", "batch cooking"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "verano", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Es aún mejor al día siguiente a temperatura ambiente; acompáñalo con pan de pita para mojar el jugo.",
   contundencia: "ligera",
   coste: "media"

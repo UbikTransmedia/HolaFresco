@@ -36,7 +36,7 @@ window.RECETAS_SEED.push({
     "Sirve la presa con el boniato y los pimientos, y termina con pimienta recién molida."
   ],
   nutricion: { kcal: 670, prot: 29.5, hc: 53, grasa: 38 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "fácil", "fin de semana"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "fácil", "fin de semana", "poco especiada"],
   consejo: "La presa es jugosa y grasa por naturaleza: no hace falta más que sal y calor fuerte. Con 140 g por persona y mucha verdura queda un plato completo y saciante sin excederse.",
   contundencia: "contundente",
   coste: "premium",
@@ -80,7 +80,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre el arroz con gajos de lima."
   ],
   nutricion: { kcal: 550, prot: 40, hc: 75, grasa: 10 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "verano"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "verano", "poco especiada"],
   consejo: "El achiote da color rojizo y un sabor terroso suave, sin picante. Si usas gambas congeladas, descongélalas en la nevera y sécalas bien para que se doren en lugar de cocerse.",
   contundencia: "media",
   coste: "media",
@@ -91,7 +91,7 @@ window.RECETAS_SEED.push({
   id: "inv-1838",
   nombre: "Champiñones rellenos de ricotta, espinacas y nueces en airfryer con ensalada de rúcula",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["cena"],
   proteina: "queso",
@@ -123,7 +123,7 @@ window.RECETAS_SEED.push({
     "Sirve los champiñones calientes sobre la ensalada."
   ],
   nutricion: { kcal: 400, prot: 25.5, hc: 12, grasa: 28 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "sin gluten", "ligera", "fácil"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "sin gluten", "ligera", "fácil", "keto", "superalimentos", "poco especiada"],
   consejo: "Pon los champiñones boca abajo sobre papel de cocina unos minutos antes de rellenarlos: sueltan agua y así el relleno no queda aguado. Con setas portobello grandes basta con 4.",
   contundencia: "ligera",
   coste: "media",
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
     "Sirve los bocados con el arroz y la raita."
   ],
   nutricion: { kcal: 550, prot: 28.5, hc: 76.5, grasa: 14.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegana", "sin gluten", "fácil", "económica", "tupper", "ideal para llevar", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegana", "sin gluten", "fácil", "económica", "tupper", "ideal para llevar", "batch cooking", "verduras escondidas", "superalimentos", "bajo en colesterol"],
   consejo: "Las lentejas rojas solo remojadas (sin cocer) dan bocados ligeros por dentro y crujientes por fuera, como unas pakoras. Se recalientan bien en la airfryer 4 minutos a 180 °C.",
   contundencia: "media",
   coste: "económica",
@@ -181,7 +181,7 @@ window.RECETAS_SEED.push({
   id: "inv-1840",
   nombre: "Tempeh adobado en airfryer con pimientos del piquillo, judías verdes y arroz integral",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -215,7 +215,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz integral con perejil picado por encima."
   ],
   nutricion: { kcal: 575, prot: 30.5, hc: 57.5, grasa: 25 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El tempeh absorbe mejor el adobo si lo cueces antes 5 minutos en agua o al vapor y lo secas: le quita el ligero amargor. Si no lo encuentras, usa tofu firme bien prensado.",
   contundencia: "media",
   coste: "media",
@@ -258,7 +258,7 @@ window.RECETAS_SEED.push({
     "Riega con la vinagreta justo antes de servir."
   ],
   nutricion: { kcal: 450, prot: 25, hc: 31, grasa: 25 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "sin gluten", "ligera", "fácil", "económica", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "sin gluten", "ligera", "fácil", "económica", "tupper", "ideal para llevar", "poco especiada"],
   consejo: "Los huevos duros en airfryer salen perfectos sin agua hirviendo: 15 minutos a 150 °C. Las verduras asadas aguantan 4 días en la nevera; lleva la rúcula y el aliño aparte en el tupper.",
   contundencia: "ligera",
   coste: "económica",
@@ -343,7 +343,7 @@ window.RECETAS_SEED.push({
     "Sirve los boquerones recién hechos con la ensalada, perejil picado y limón."
   ],
   nutricion: { kcal: 460, prot: 41.5, hc: 20.5, grasa: 23.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "omega 3", "fácil", "económica", "verano"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "omega 3", "fácil", "económica", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "La harina de garbanzo da un rebozado fino y dorado sin gluten y con muy poco aceite. Sirve igual para chanquetes, pescadilla en tiras o calamares.",
   contundencia: "ligera",
   coste: "económica",
@@ -385,7 +385,7 @@ window.RECETAS_SEED.push({
     "Sirve con albahaca fresca y pimienta recién molida."
   ],
   nutricion: { kcal: 545, prot: 33, hc: 60.5, grasa: 19 },
-  etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "tupper", "ideal para llevar", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "tupper", "ideal para llevar", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para el tupper, cuece la pasta un minuto menos y añade un poco más de agua de cocción: así no queda seca al recalentar. Está rica también fría, como ensalada de pasta.",
   contundencia: "media",
   coste: "media",
@@ -396,7 +396,7 @@ window.RECETAS_SEED.push({
   id: "inv-1845",
   nombre: "Mini pizzas de base de coliflor en airfryer con tomate, mozzarella y rúcula",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "fusión",
   momentos: ["cena"],
   proteina: "queso",
@@ -428,7 +428,7 @@ window.RECETAS_SEED.push({
     "Termina con la rúcula, la albahaca y un hilo de aceite."
   ],
   nutricion: { kcal: 455, prot: 30, hc: 14.5, grasa: 30.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "sin gluten", "ligera", "para niños"],
+  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "sin gluten", "ligera", "para niños", "keto", "verduras escondidas", "poco especiada"],
   consejo: "Las bases ya horneadas se congelan separadas con papel: sácalas, ponles los ingredientes y gratínalas directamente 7–8 minutos a 190 °C. Añade champiñones, pimiento o atún según lo que tengas.",
   contundencia: "ligera",
   coste: "media",
@@ -469,7 +469,7 @@ window.RECETAS_SEED.push({
     "Sirve el solomillo con el boniato, los espárragos y la salsa de mostaza."
   ],
   nutricion: { kcal: 555, prot: 38.5, hc: 53.5, grasa: 21 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "fin de semana"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "fin de semana", "poco especiada"],
   consejo: "El reposo es clave para que el solomillo no suelte sus jugos al cortarlo. Si tienes termómetro, sácalo a 52–54 °C en el centro para un punto medio.",
   contundencia: "media",
   coste: "premium",
@@ -513,7 +513,7 @@ window.RECETAS_SEED.push({
     "Sírvelas al momento para que la base siga crujiente."
   ],
   nutricion: { kcal: 445, prot: 19, hc: 54.5, grasa: 16.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "sin gluten", "ligera", "rápida", "fácil", "económica"],
+  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "sin gluten", "ligera", "rápida", "fácil", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Las tortillas de maíz tostadas en la airfryer sustituyen a las tostadas fritas de bolsa con una fracción del aceite. Para una versión vegana, cambia el queso fresco por más aguacate.",
   contundencia: "ligera",
   coste: "económica",
@@ -524,7 +524,7 @@ window.RECETAS_SEED.push({
   id: "inv-1848",
   nombre: "Hamburguesas de soja texturizada y champiñones en airfryer con patatas gajo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "americana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -560,7 +560,7 @@ window.RECETAS_SEED.push({
     "Tuesta los panes 1 minuto en la cesta, devuelve las patatas 2 minutos y monta las hamburguesas con lechuga, tomate y mostaza."
   ],
   nutricion: { kcal: 690, prot: 40, hc: 89, grasa: 19 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "alta en proteína", "fácil", "económica"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "alta en proteína", "fácil", "económica", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "La soja texturizada es barata, dura meses en la despensa y aporta tanta proteína como la carne. Las hamburguesas crudas se congelan bien separadas con papel de horno.",
   contundencia: "contundente",
   coste: "económica",
@@ -602,7 +602,7 @@ window.RECETAS_SEED.push({
     "Riega con el zumo de medio limón y sirve con el resto en gajos."
   ],
   nutricion: { kcal: 535, prot: 40, hc: 36, grasa: 25.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "una sola cesta"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "una sola cesta", "superalimentos", "poco especiada"],
   consejo: "La costra de almendra y hierbas protege el pescado y le da un punto crujiente sin pan rallado. Funciona igual con lubina, merluza o bacalao fresco.",
   contundencia: "media",
   coste: "premium",
@@ -643,7 +643,7 @@ window.RECETAS_SEED.push({
     "Mezcla las patatas templadas con el tomate, la cebolleta, los canónigos y el calamar recién hecho, riega con el aliño y termina con perejil picado."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 39, grasa: 16.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "fácil", "verano"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "fácil", "verano", "poco especiada"],
   consejo: "El calamar congelado en anillas es práctico y barato: descongélalo en la nevera y sécalo a conciencia para que se dore en lugar de cocerse en su agua.",
   contundencia: "ligera",
   coste: "media",
@@ -683,7 +683,7 @@ window.RECETAS_SEED.push({
     "Riega con el zumo del otro medio limón y sirve."
   ],
   nutricion: { kcal: 350, prot: 43, hc: 15.5, grasa: 13 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "fácil", "económica", "tupper", "ideal para llevar", "una sola cesta", "invierno"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "fácil", "económica", "tupper", "ideal para llevar", "una sola cesta", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Las coles de Bruselas asadas pierden el amargor y quedan dulces y crujientes. Para una comida más contundente, añade 200 g de patatas pequeñas al principio con la verdura.",
   contundencia: "ligera",
   coste: "económica",
@@ -724,7 +724,7 @@ window.RECETAS_SEED.push({
     "Sirve con las avellanas por encima y un hilo del resto del aceite."
   ],
   nutricion: { kcal: 370, prot: 14, hc: 36, grasa: 19 },
-  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "sin gluten", "ligera", "fácil", "tupper", "batch cooking", "invierno"],
+  etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "sin gluten", "ligera", "fácil", "tupper", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Asar los champiñones en vez de cocerlos concentra muchísimo el sabor. Para una versión vegana usa bebida vegetal sin azúcar. Aguanta 4 días en la nevera y se congela bien sin las avellanas.",
   contundencia: "ligera",
   coste: "media",
@@ -735,7 +735,7 @@ window.RECETAS_SEED.push({
   id: "inv-1853",
   nombre: "Muffins de huevo, espinacas, pimiento rojo y feta en airfryer con ensalada de tomate y pepino",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "fusión",
   momentos: ["comida", "cena"],
   proteina: "huevo",
@@ -766,7 +766,7 @@ window.RECETAS_SEED.push({
     "Deja templar los muffins 3 minutos antes de desmoldarlos y sírvelos con la ensalada."
   ],
   nutricion: { kcal: 435, prot: 31.5, hc: 15, grasa: 27.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "sin gluten", "ligera", "alta en proteína", "rápida", "fácil", "económica", "tupper", "ideal para llevar", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "sin gluten", "ligera", "alta en proteína", "rápida", "fácil", "económica", "tupper", "ideal para llevar", "batch cooking", "keto", "poco especiada"],
   consejo: "Se guardan 4 días en la nevera y son perfectos para llevar o para desayunos salados: se comen fríos o con 20 segundos de microondas. Cambia la verdura por la que tengas (calabacín, champiñones, brócoli).",
   contundencia: "ligera",
   coste: "económica",
@@ -777,7 +777,7 @@ window.RECETAS_SEED.push({
   id: "inv-1854",
   nombre: "Brochetas de heura al ras el hanout en airfryer con cuscús y yogur vegetal al limón",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "heura",
@@ -810,7 +810,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre el cuscús con la salsa de yogur."
   ],
   nutricion: { kcal: 605, prot: 38, hc: 59, grasa: 24 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "alta en proteína", "fácil", "tupper", "ideal para llevar"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegana", "alta en proteína", "fácil", "tupper", "ideal para llevar", "bajo en colesterol"],
   consejo: "El ras el hanout es una mezcla marroquí de especias aromáticas (comino, canela, jengibre, cilantro…). Si no tienes, mezcla comino, pimentón y una pizca de canela. Para sin gluten, cambia el cuscús por quinoa.",
   contundencia: "media",
   coste: "media",
@@ -891,7 +891,7 @@ window.RECETAS_SEED.push({
     "Pásalo todo a un bol, mézclalo con el pesto y sirve enseguida."
   ],
   nutricion: { kcal: 675, prot: 20, hc: 75.5, grasa: 32.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "rápida", "fácil", "para niños"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "rápida", "fácil", "para niños", "poco especiada"],
   consejo: "En la airfryer los gnocchi quedan como pequeñas patatas crujientes por fuera y tiernas por dentro, sin necesidad de hervirlos. Para más proteína, añade 150 g de garbanzos cocidos o una lata de atún al mezclar con el pesto.",
   contundencia: "contundente",
   coste: "media",
@@ -935,7 +935,7 @@ window.RECETAS_SEED.push({
     "Corta el pavo en tiras, colócalo tibio sobre la ensalada, riega con el aliño y termina con las semillas."
   ],
   nutricion: { kcal: 435, prot: 38.5, hc: 16.5, grasa: 24 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "rápida", "fácil"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "rápida", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "La combinación de comino, naranja y aguacate funciona igual con pollo o con gambas. Si la preparas para llevar, guarda el pavo y el aguacate aparte y aliña al momento.",
   contundencia: "ligera",
   coste: "media",
@@ -981,7 +981,7 @@ window.RECETAS_SEED.push({
     "Vuelve a meter las patatas 2 minutos para calentarlas y sirve todo junto con la ensalada de col."
   ],
   nutricion: { kcal: 700, prot: 53, hc: 64.5, grasa: 25.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "económica", "para niños"],
+  etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "económica", "para niños", "poco especiada"],
   consejo: "Con 2 cucharadas de aceite para todo el plato tienes un \"pollo frito\" crujiente con una fracción de la grasa. La ensalada de col aguanta 2 días aliñada y gana sabor.",
   contundencia: "contundente",
   coste: "económica",
@@ -1022,7 +1022,7 @@ window.RECETAS_SEED.push({
     "Sirve el pescado sobre las verduras y riégalo con el aliño de alcaparras."
   ],
   nutricion: { kcal: 440, prot: 36.5, hc: 28, grasa: 20 },
-  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "fácil", "una sola cesta"],
+  etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "fácil", "una sola cesta", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Pon la lubina con la piel hacia arriba: así queda crujiente sin pegarse y la carne se hace con el vapor de las verduras. Vale igual dorada, corvina o trucha.",
   contundencia: "ligera",
   coste: "premium",
@@ -1070,7 +1070,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls con el bulgur, los garbanzos con la verdura, la ensalada de pepino y la salsa de yogur por encima."
   ],
   nutricion: { kcal: 715, prot: 28, hc: 93, grasa: 25.5 },
-  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "alta en fibra", "fácil", "económica", "tupper", "ideal para llevar", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "alta en fibra", "fácil", "económica", "tupper", "ideal para llevar", "batch cooking", "superalimentos"],
   consejo: "Los garbanzos al shawarma también son un picoteo estupendo solos. Para el tupper, guarda la salsa aparte; para una versión vegana usa yogur vegetal y, sin gluten, cambia el bulgur por quinoa.",
   contundencia: "contundente",
   coste: "económica",

@@ -5,7 +5,7 @@ window.RECETAS_SEED.push({
   nombre: "Heura con mojo verde al estilo canario",
   subtitulo: "acompañado de patatas y manzana al horno",
   origen: "recetario",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "heura",
@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Sirve la heura con las patatas y la manzana asadas, y el resto del mojo verde en un cuenco para mojar."
   ],
   nutricion: { kcal: 630, prot: 23, hc: 58, grasa: 33 },
-  etiquetas: ["al horno", "alta en proteína", "para niños", "económica"],
+  etiquetas: ["al horno", "alta en proteína", "para niños", "económica", "poco especiada"],
   consejo: "El mojo verde aguanta una semana en la nevera cubierto con una capa de aceite; va genial con pescado blanco y con verduras a la plancha. Si lo quieres más suave, escalda el ajo 30 segundos antes de triturarlo."
 });
 
@@ -47,7 +47,7 @@ window.RECETAS_SEED.push({
   nombre: "Bulgur tibio con queso griego y boniato asado",
   subtitulo: "con tomates cherry y salsa casera de menta",
   origen: "recetario",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos, coloca encima el resto de boniato y cherry, desmenuza el queso griego por encima y termina con la salsa de menta y las semillas de calabaza."
   ],
   nutricion: { kcal: 700, prot: 22, hc: 80, grasa: 32 },
-  etiquetas: ["al horno", "ideal para llevar", "verano", "para niños"],
+  etiquetas: ["al horno", "ideal para llevar", "verano", "para niños", "poco especiada"],
   consejo: "Este plato está igual de bueno frío al día siguiente, así que es perfecto para el táper. Si no encuentras queso griego, el feta funciona exactamente igual."
 });
 
@@ -92,7 +92,7 @@ window.RECETAS_SEED.push({
   nombre: "Falafel casero con salsa de yogur",
   subtitulo: "con ensalada fresca de rúcula y cintas de zanahoria",
   origen: "recetario",
-  categoria: "vegetariano",
+  categoria: "legumbres",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Calienta las pitas 1 minuto en la misma sartén o en la tostadora. Sirve los falafel con la ensalada, la salsa de yogur y la pita."
   ],
   nutricion: { kcal: 660, prot: 27, hc: 56, grasa: 35 },
-  etiquetas: ["alta en proteína", "ideal para llevar", "económica", "para niños"],
+  etiquetas: ["alta en proteína", "ideal para llevar", "económica", "para niños", "poco especiada"],
   consejo: "Si la masa se deshace al freír, añade otra cucharada de harina de garbanzo y enfríala más tiempo. En freidora de aire: 15 minutos a 200 °C pincelados con aceite. La nutrición indicada no incluye la pita (unas 160 kcal por unidad)."
 });
 
@@ -140,7 +140,7 @@ window.RECETAS_SEED.push({
   nombre: "Seitán con verduras salteadas a la miel",
   subtitulo: "con garbanzos especiados y semillas de sésamo",
   origen: "recetario",
-  categoria: "vegetariano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "seitan",
@@ -180,7 +180,7 @@ window.RECETAS_SEED.push({
     "Sirve el salteado con los garbanzos especiados por encima y el sésamo tostado."
   ],
   nutricion: { kcal: 590, prot: 39, hc: 50, grasa: 24 },
-  etiquetas: ["alta en proteína", "ideal para llevar", "verano"],
+  etiquetas: ["alta en proteína", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Para que las verduras queden al dente, el wok tiene que estar muy caliente y no debes amontonarlas; si tu sartén es pequeña, hazlo en dos tandas. Sirve con arroz basmati si quieres un plato más contundente."
 });
 
@@ -189,7 +189,7 @@ window.RECETAS_SEED.push({
   nombre: "Crema de tofu con cebolla caramelizada",
   subtitulo: "con garbanzos asados a las especias tailandesas",
   origen: "recetario",
-  categoria: "vegano",
+  categoria: "sopas-cremas",
   cocina: "fusión",
   momentos: ["cena", "comida"],
   proteina: "tofu",
@@ -234,7 +234,7 @@ window.RECETAS_SEED.push({
   nombre: "Crema de coliflor, puerro y jengibre",
   subtitulo: "con curry y bebida vegetal",
   origen: "recetario",
-  categoria: "vegano",
+  categoria: "sopas-cremas",
   cocina: "fusión",
   momentos: ["cena"],
   proteina: "verdura",
@@ -269,7 +269,7 @@ window.RECETAS_SEED.push({
     "Salpimienta y añade unas gotas de zumo de limón para avivar el sabor. Sirve con las semillas de calabaza, el cebollino picado, un hilo de aceite y el pan tostado."
   ],
   nutricion: { kcal: 400, prot: 11, hc: 38, grasa: 20 },
-  etiquetas: ["de cuchara", "ligera", "batch cooking", "invierno", "económica"],
+  etiquetas: ["de cuchara", "ligera", "batch cooking", "invierno", "económica", "detox", "bajo en colesterol"],
   consejo: "Para una cena más completa, añade 100 g de garbanzos cocidos salteados o un huevo poché por persona. La crema aguanta 4 días en la nevera y congela bien."
 });
 
@@ -278,7 +278,7 @@ window.RECETAS_SEED.push({
   nombre: "Crema de zanahoria al estilo thai",
   subtitulo: "con puerro, jengibre, cúrcuma y bebida vegetal",
   origen: "recetario",
-  categoria: "vegano",
+  categoria: "sopas-cremas",
   cocina: "sudeste-asiático",
   momentos: ["cena"],
   proteina: "verdura",
@@ -313,7 +313,7 @@ window.RECETAS_SEED.push({
     "Sirve con los cacahuetes, el cilantro picado y la ralladura de lima por encima. Lleva la otra media lima a la mesa para quien quiera más acidez."
   ],
   nutricion: { kcal: 410, prot: 9, hc: 40, grasa: 21 },
-  etiquetas: ["de cuchara", "ligera", "batch cooking", "invierno", "económica"],
+  etiquetas: ["de cuchara", "ligera", "batch cooking", "invierno", "económica", "detox", "bajo en colesterol"],
   consejo: "Si quieres convertirla en plato único, sírvela con 60 g de fideos de arroz cocidos por persona o con dados de tofu dorados. Queda más dulce y redonda si asas las zanahorias 25 minutos a 200 °C antes de hacer la crema."
 });
 
@@ -322,7 +322,7 @@ window.RECETAS_SEED.push({
   nombre: "Baba ganoush",
   subtitulo: "con pan de pita y crudités",
   origen: "recetario",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["cena"],
   proteina: "verdura",
@@ -358,6 +358,6 @@ window.RECETAS_SEED.push({
     "Sirve con los crudités, las aceitunas y la pita templada para ir mojando."
   ],
   nutricion: { kcal: 540, prot: 13, hc: 52, grasa: 29 },
-  etiquetas: ["al horno", "ligera", "verano", "ideal para llevar", "económica"],
+  etiquetas: ["al horno", "ligera", "verano", "ideal para llevar", "económica", "poco especiada"],
   consejo: "El baba ganoush mejora reposado: hazlo por la mañana y guárdalo en la nevera hasta la cena. Para subir la proteína, añade un bol de garbanzos cocidos aliñados o un poco de queso feta desmenuzado."
 });

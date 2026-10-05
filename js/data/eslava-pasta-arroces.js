@@ -47,7 +47,7 @@ window.RECETAS_SEED.push({
     "Sirve con eneldo picado por encima y unos pepinillos al lado."
   ],
   nutricion: { kcal: 720, prot: 35, hc: 71, grasa: 32 },
-  etiquetas: ["tradicional", "rápida", "económica", "para niños", "alta en proteína", "batch cooking"],
+  etiquetas: ["tradicional", "rápida", "económica", "para niños", "alta en proteína", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Nació en la marina rusa con carne en conserva y se hizo popular en los comedores soviéticos con la carne picada casera. La versión más antigua cuece primero la carne en caldo y luego la pasa por la picadora; con carne cruda picada es más rápida y jugosa. Aguanta 3 días en la nevera y se recalienta en sartén con un chorrito de agua.",
   tupper: true,
   contundencia: "contundente",
@@ -92,7 +92,7 @@ window.RECETAS_SEED.push({
     "Sirve con la smetana y el eneldo picado por encima."
   ],
   nutricion: { kcal: 635, prot: 13, hc: 89, grasa: 25 },
-  etiquetas: ["tradicional", "invierno", "económica", "vegetariana", "fin de semana"],
+  etiquetas: ["tradicional", "invierno", "económica", "vegetariana", "fin de semana", "poco especiada"],
   consejo: "En la cena de Nochebuena (Sviat Vechir) la mesa ucraniana lleva doce platos sin carne ni lácteos, y los varenyky de col son uno de ellos: ese día se sirven solo con cebolla frita en aceite. Se congelan crudos en bandeja, separados, y después en bolsa; cuécelos directamente congelados 1-2 minutos más. Los que sobren cocidos se doran al día siguiente en sartén con mantequilla.",
   tupper: false,
   contundencia: "media",
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Sírvelos con la mantequilla y el pan tostado por encima, una cucharada de smetana y cebollino picado."
   ],
   nutricion: { kcal: 610, prot: 28, hc: 54, grasa: 30 },
-  etiquetas: ["tradicional", "para niños", "económica", "vegetariana"],
+  etiquetas: ["tradicional", "para niños", "económica", "vegetariana", "sin verduras", "poco especiada"],
   consejo: "En Polonia los leniwe se comen salados o dulces: para la versión de los niños cambia el cebollino por una cucharada de azúcar con canela sobre la mantequilla. Con twaróg, el queso fresco polaco más seco, necesitarás menos harina; con requesón español escúrrelo bien, o la masa pedirá demasiada harina y quedarán duros.",
   tupper: false,
   contundencia: "media",
@@ -175,7 +175,7 @@ window.RECETAS_SEED.push({
     "Hornea 25 minutos, hasta que el huevo esté cuajado y la superficie dorada, con las puntas de la pasta crujientes. Deja reposar 5 minutos y sirve con cebollino picado y los pepinillos al lado."
   ],
   nutricion: { kcal: 725, prot: 38, hc: 67, grasa: 34 },
-  etiquetas: ["tradicional", "al horno", "para niños", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "para niños", "económica", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Los šunkofleky llegaron a Bohemia desde la Viena imperial y hoy son comida de casa y de comedor escolar; en Chequia la pasta se compra ya cortada en cuadraditos (fleky). Es el plato perfecto para aprovechar restos de jamón cocido o de asado de cerdo ahumado. Se recalienta muy bien tapado en el horno, o al microondas con una cucharada de leche por encima.",
   tupper: true,
   contundencia: "contundente",
@@ -218,7 +218,7 @@ window.RECETAS_SEED.push({
     "Sirve el granadír con 2 huevos encima de cada plato, perejil picado y los pepinillos al lado."
   ],
   nutricion: { kcal: 640, prot: 26, hc: 77, grasa: 25 },
-  etiquetas: ["tradicional", "económica", "aprovechamiento", "vegetariana"],
+  etiquetas: ["tradicional", "económica", "aprovechamiento", "vegetariana", "sin verduras", "poco especiada"],
   consejo: "El nombre viene de la «Grenadiermarsch» del ejército austrohúngaro, que lo preparaba con la pasta y las patatas sobrantes del día anterior: es un plato de aprovechamiento perfecto. En Eslovaquia y Chequia se sirve casi siempre con pepinillos agridulces y, en los comedores, con un huevo frito encima. Si añades la salchicha ahumada, deja de ser vegetariano.",
   tupper: false,
   contundencia: "media",
@@ -269,7 +269,7 @@ window.RECETAS_SEED.push({
     "Cuécelos en abundante agua con sal 4-5 minutos desde que suban a la superficie. Escúrrelos con cuidado y sírvelos con la bakalca bien caliente por encima."
   ],
   nutricion: { kcal: 735, prot: 36, hc: 77, grasa: 30 },
-  etiquetas: ["tradicional", "fin de semana", "invierno", "para invitados"],
+  etiquetas: ["tradicional", "fin de semana", "invierno", "para invitados", "poco especiada"],
   consejo: "Los žlikrofi de Idrija son especialidad tradicional garantizada de la Unión Europea: los hacían las mujeres de los mineros del mercurio con lo poco que había en casa. Pueden congelarse crudos en bandeja y cocerse directamente congelados. Si no quieres hacer la bakalca, se sirven también solos con mantequilla y pan rallado tostado; la salsa de cordero, en cambio, se puede guisar el día anterior.",
   tupper: false,
   contundencia: "contundente",
@@ -313,7 +313,7 @@ window.RECETAS_SEED.push({
     "Vierte los chicharrones con su grasa sobre los žganci, mezcla y deja reposar tapado 5 minutos. Sirve con la salsa de setas por encima y perejil picado."
   ],
   nutricion: { kcal: 620, prot: 21, hc: 68, grasa: 30 },
-  etiquetas: ["tradicional", "invierno", "económica"],
+  etiquetas: ["tradicional", "invierno", "económica", "poco especiada"],
   consejo: "Los ajdovi žganci se comían en los pueblos eslovenos para desayunar, con café con leche, y a mediodía con chucrut, nabo agrio o una salsa como esta. Para una versión vegetariana, cambia los chicharrones por cebolla frita en mantequilla. Las sobras se recalientan en sartén con un poco de grasa hasta que se tuestan, y así están todavía mejor.",
   tupper: true,
   contundencia: "media",
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
     "Vuelca la pasta en la cazuela del guiso y mézclala a fuego suave 1-2 minutos, con un chorrito del agua de cocción si hace falta, hasta que quede bien «sucia», cubierta de salsa. Sirve con el queso rallado y perejil picado."
   ],
   nutricion: { kcal: 715, prot: 46, hc: 75, grasa: 24 },
-  etiquetas: ["tradicional", "fin de semana", "batch cooking", "alta en proteína", "invierno"],
+  etiquetas: ["tradicional", "fin de semana", "batch cooking", "alta en proteína", "invierno", "sin verduras", "poco especiada"],
   consejo: "Los šporki makaruli son el plato de la fiesta de San Duje, patrón de Split, y nacieron para aprovechar la salsa de la pašticada; «šporki» quiere decir sucios, por la salsa oscura que mancha la pasta. El guiso aguanta 3 días en la nevera y se congela bien: hazlo la víspera y solo tendrás que cocer la pasta.",
   tupper: true,
   contundencia: "contundente",
@@ -408,7 +408,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego incorpora la mantequilla fría y el resto del perejil y remueve con energía 30 segundos para que quede cremoso y suelto. Prueba de sal, añade pimienta y deja reposar 1 minuto tapado antes de servir."
   ],
   nutricion: { kcal: 610, prot: 21, hc: 66, grasa: 28 },
-  etiquetas: ["tradicional", "para invitados", "verano", "sin gluten"],
+  etiquetas: ["tradicional", "para invitados", "verano", "sin gluten", "sin verduras", "poco especiada"],
   consejo: "Las cigalas del Kvarner (škampi) son las más apreciadas del Adriático, y en la costa croata se preparan en rižot, a la buzara o a la plancha. Las cabezas son la clave: el caldo de 15 minutos es lo que da sabor al arroz. Con langostinos crudos con cabeza sale una versión más económica y casi igual de buena.",
   tupper: false,
   contundencia: "media",
@@ -453,7 +453,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos fuera del horno, espolvorea perejil picado y sirve con un cuenco de yogur frío al lado."
   ],
   nutricion: { kcal: 730, prot: 34, hc: 67, grasa: 36 },
-  etiquetas: ["tradicional", "al horno", "para niños", "económica", "batch cooking", "sin gluten"],
+  etiquetas: ["tradicional", "al horno", "para niños", "económica", "batch cooking", "sin gluten", "poco especiada"],
   consejo: "Es la comida de domingo de las casas búlgaras, que antes se llevaba a hornear al horno del panadero del barrio. El yogur búlgaro, ácido y espeso, es su acompañante natural. Aguanta 3 días en la nevera: recaliéntalo tapado con papel de aluminio y una cucharada de agua para que el arroz no se seque.",
   tupper: true,
   contundencia: "contundente",
@@ -494,7 +494,7 @@ window.RECETAS_SEED.push({
     "Escurre los tallarines, añádelos a la sartén con el eneldo picado y mezcla 1 minuto con unas pinzas, con más agua de cocción si queda espesa, hasta que la salsa los envuelva. Termina con unas gotas de zumo de limón, pimienta negra y las ramitas de eneldo."
   ],
   nutricion: { kcal: 635, prot: 33, hc: 55, grasa: 31 },
-  etiquetas: ["creativa", "rápida", "alta en proteína", "para invitados"],
+  etiquetas: ["creativa", "rápida", "alta en proteína", "para invitados", "sin verduras", "poco especiada"],
   consejo: "El salmón con smetana, eneldo y pepinillo es una combinación de la cocina rusa de celebración: está en los blinis y tartaletas de cualquier fiesta. Para una versión más económica usa trucha, o 150 g de salmón ahumado en tiras añadido al final, fuera del fuego y sin cocinarlo.",
   tupper: false,
   contundencia: "media",
@@ -537,7 +537,7 @@ window.RECETAS_SEED.push({
     "Sirve con las migas crujientes por encima, el resto del eneldo y unas gotas de zumo de limón."
   ],
   nutricion: { kcal: 630, prot: 42, hc: 68, grasa: 21 },
-  etiquetas: ["creativa", "rápida", "alta en proteína", "para niños"],
+  etiquetas: ["creativa", "rápida", "alta en proteína", "para niños", "poco especiada"],
   consejo: "El pollo a la Kiev clásico se rellena de mantequilla de hierbas, se empana dos veces y se fríe; aquí los mismos sabores van en una pasta de 25 minutos, con los guisantes que lo acompañan en Ucrania. Si te sobra mantequilla de ajo y eneldo, congélala en un rulo de film: va de maravilla sobre patatas cocidas o pescado a la plancha.",
   tupper: false,
   contundencia: "media",
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 3 minutos y sirve con perejil picado. Prueba antes de añadir sal: el feta y el ajvar ya salan."
   ],
   nutricion: { kcal: 640, prot: 25, hc: 68, grasa: 30 },
-  etiquetas: ["creativa", "al horno", "para niños", "vegetariana", "batch cooking"],
+  etiquetas: ["creativa", "al horno", "para niños", "vegetariana", "batch cooking", "poco especiada"],
   consejo: "En Serbia el kajmak y el ajvar acompañan casi todo, sobre todo la carne a la parrilla; aquí hacen de salsa para una pasta al horno de diario. El ajvar se encuentra en tiendas de productos del Este y en algunos supermercados. Puedes dejar la fuente montada en la nevera y hornearla al día siguiente con 5 minutos más.",
   tupper: true,
   contundencia: "media",
@@ -669,7 +669,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada grande de yogur al ajo, el resto del eneldo y la sharena sol reservada espolvoreada por encima."
   ],
   nutricion: { kcal: 435, prot: 20, hc: 62, grasa: 10 },
-  etiquetas: ["creativa", "ligera", "económica", "vegetariana", "ideal para llevar", "batch cooking"],
+  etiquetas: ["creativa", "ligera", "económica", "vegetariana", "ideal para llevar", "batch cooking", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La sharena sol está en la mesa de toda casa búlgara junto al salero, para el pan con mantequilla, las patatas o los huevos. Prepara un tarro con 3 partes de ajedrea, 2 de pimentón, 1 de fenogreco y 1 de sal. El plato aguanta 4 días en la nevera; si es para el tupper, lleva el yogur aparte.",
   tupper: true,
   contundencia: "ligera",
@@ -716,7 +716,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de smetana en cada plato, mucho eneldo picado y pimienta negra recién molida."
   ],
   nutricion: { kcal: 595, prot: 16, hc: 88, grasa: 20 },
-  etiquetas: ["creativa", "vegetariana", "económica", "batch cooking", "invierno"],
+  etiquetas: ["creativa", "vegetariana", "económica", "batch cooking", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "La zazharka, el sofrito de remolacha, zanahoria, cebolla y tomate con su chorrito de vinagre, es el corazón del borsch ucraniano, y como salsa funciona igual de bien. El ragú se congela en raciones y aguanta 4 días en la nevera. Si quieres más proteína, añade 150 g de alubias rojas cocidas junto con la col, como en muchos borsch de pueblo.",
   tupper: true,
   contundencia: "media",
@@ -759,7 +759,7 @@ window.RECETAS_SEED.push({
     "Sirve con el resto de la calabaza por encima, el queso de cabra desmenuzado, las semillas tostadas y el eneldo picado."
   ],
   nutricion: { kcal: 595, prot: 21, hc: 66, grasa: 27 },
-  etiquetas: ["creativa", "vegetariana", "sin gluten", "otoño", "al horno"],
+  etiquetas: ["creativa", "vegetariana", "sin gluten", "otoño", "al horno", "superalimentos", "poco especiada"],
   consejo: "En los restaurantes de la nueva cocina rusa el «grechotto» (de grechka, alforfón) ya es un clásico. Busca alforfón en grano sin tostar en herbolarios o tiendas a granel; el tostado (kasha) queda más suelto y de sabor más intenso, y también sirve con algo menos de caldo. Recalentado con un chorrito de caldo vuelve a quedar cremoso.",
   tupper: true,
   contundencia: "media",
@@ -806,7 +806,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, deja reposar 2 minutos fuera del fuego y sirve con perejil picado por encima."
   ],
   nutricion: { kcal: 540, prot: 42, hc: 64, grasa: 12 },
-  etiquetas: ["creativa", "una sola olla", "alta en proteína", "batch cooking", "verano", "económica"],
+  etiquetas: ["creativa", "una sola olla", "alta en proteína", "batch cooking", "verano", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "El leczo llegó a Polonia desde el lecsó húngaro y allí se hace en cantidad a finales de verano, con pimientos, calabacín, tomate y kiełbasa; la versión con pavo es la más ligera. Si quieres el toque ahumado de la receta polaca, dora con la cebolla 60 g de salchicha ahumada en rodajas. Aguanta 3 días en la nevera: recaliéntalo con un chorrito de agua, porque el orzo sigue absorbiendo líquido.",
   tupper: true,
   contundencia: "media",
@@ -854,7 +854,7 @@ window.RECETAS_SEED.push({
     "Suelta el arroz con un tenedor y mézclalo con el resto del eneldo y del perejil. Sirve el arroz con las kyufteta, una cucharada de lyutenitsa y el pepino al yogur."
   ],
   nutricion: { kcal: 605, prot: 32, hc: 59, grasa: 26 },
-  etiquetas: ["creativa", "airfryer", "alta en proteína", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "airfryer", "alta en proteína", "ideal para llevar", "verano", "poco especiada"],
   consejo: "Las kyufteta son la parrilla de toda taberna búlgara; el truco para que queden tiernas es amasar bien con agua fría (hay quien usa agua con gas). La lyutenitsa original es una crema de pimiento y tomate asados que en Bulgaria se compra en tarro; si encuentras ajvar, úsalo igual. Sin airfryer, hornéalas a 200 °C 15-18 minutos.",
   tupper: true,
   contundencia: "media",
@@ -896,7 +896,7 @@ window.RECETAS_SEED.push({
     "Incorpora el trigo sarraceno y saltea todo junto 2 minutos con cuidado, para que el grano recoja la grasa de la morcilla sin deshacerla del todo. Prueba de sal y sirve con perejil picado, la mostaza y los pepinillos al lado."
   ],
   nutricion: { kcal: 620, prot: 19, hc: 70, grasa: 30 },
-  etiquetas: ["creativa", "rápida", "económica", "otoño", "invierno"],
+  etiquetas: ["creativa", "rápida", "económica", "otoño", "invierno", "sin verduras", "poco especiada"],
   consejo: "La kaszanka es la morcilla polaca hecha con alforfón o cebada, y en Polonia se come a la parrilla o frita con cebolla, acompañada de mostaza y pepinillos. Con una morcilla de arroz sale una versión más especiada; la de cebolla es más blanda, así que dórala con cuidado. Aguanta 3 días en la nevera y se recalienta en sartén.",
   tupper: true,
   contundencia: "media",

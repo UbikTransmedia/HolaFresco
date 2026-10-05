@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el pimentón sobre la cebolla caliente y sirve enseguida con la ensalada de pepino al lado."
   ],
   nutricion: { kcal: 590, prot: 27, hc: 70, grasa: 21 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "económica", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "En las tabernas checas este puré se sirve con pan de centeno y pepinillos en vinagre, justo las dos cosas que fallan con alergias (gluten y sulfitos): por eso aquí lo acompaña una ensalada fresca de pepino al limón. Las legumbres secas a granel pueden traer algún grano de trigo o cebada del campo; para celíacos compra guisantes envasados con la indicación «sin gluten» y repásalos antes de lavarlos. El puré aguanta 3 días en la nevera y se recalienta con un chorrito de agua.",
   tupper: true,
   contundencia: "media",
@@ -137,7 +137,7 @@ window.RECETAS_SEED.push({
     "Sirve el tutu con el bacon crujiente por encima, el arroz, la couve y la naranja pelada en gajos, que aligera el plato como en Minas."
   ],
   nutricion: { kcal: 780, prot: 29, hc: 120, grasa: 20 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "económica", "ideal para llevar"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "económica", "ideal para llevar", "poco especiada"],
   consejo: "El tutu nació para aprovechar el feijão del día anterior y es comida de casa en Minas Gerais. La harina de mandioca no tiene gluten, pero a granel comparte silos y cucharones con harinas de trigo: cómprala envasada y que indique «sin gluten». El bacon envasado puede llevar lactosa, proteína de leche o dextrosa de trigo; lee la etiqueta. Si sobra, el tutu espesa en la nevera: recaliéntalo con un poco de agua.",
   tupper: true,
   contundencia: "contundente",
@@ -181,7 +181,7 @@ window.RECETAS_SEED.push({
     "Apaga, tapa y deja reposar 5 minutos para que el arroz termine de chupar caldo. Retira el laurel y sirve."
   ],
   nutricion: { kcal: 540, prot: 24, hc: 74, grasa: 15 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "vegana", "económica", "para niños", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "vegana", "económica", "para niños", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "No eches pastilla de caldo: muchas llevan apio, gluten o lactosa, y el sofrito con pimentón da sabor de sobra. Las lentejas a granel pueden traer granos de trigo o cebada del campo; para celíacos elige un paquete con la indicación «sin gluten». En el tupper el arroz sigue absorbiendo caldo: al recalentar, añade un chorrito de agua.",
   tupper: true,
   contundencia: "media",
@@ -228,7 +228,7 @@ window.RECETAS_SEED.push({
     "Sirve las alubias templadas con su salsa y el pilav al lado."
   ],
   nutricion: { kcal: 820, prot: 28, hc: 126, grasa: 22 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "económica", "batch cooking", "ideal para llevar"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "económica", "batch cooking", "ideal para llevar", "bajo en colesterol"],
   consejo: "En las casas turcas el pilaki se hace un día y se come al siguiente, frío, con un chorrito de limón. Algunas recetas añaden apio en rama o raíz, que es alérgeno: aquí no hace falta. El pilav turco suele llevar fideos de trigo tostados (şehriye); este es solo de arroz. Revisa que las alubias de bote no lleven metabisulfito (sulfitos). Aguanta 4 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -276,7 +276,7 @@ window.RECETAS_SEED.push({
     "Abre las patatas en cruz, aplasta un poco la pulpa con un tenedor, rellénalas con generosidad y espolvorea el cebollino picado."
   ],
   nutricion: { kcal: 725, prot: 28, hc: 117, grasa: 15 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "apta para alergias", "vegana", "para niños", "económica", "batch cooking"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "apta para alergias", "vegana", "para niños", "económica", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "El sloppy joe de diner lleva kétchup, mostaza y salsa Worcestershire: mostaza, sulfitos del vinagre, pescado (anchoa) y a veces gluten en un solo bocadillo. Esta salsa casera da el mismo sabor dulce, ácido y ahumado sin ninguno. Si prefieres pan, usa uno sin gluten y revisa que no lleve huevo ni leche. El relleno se congela muy bien y la patata se puede hacer en 10 minutos de microondas más 15 de horno.",
   tupper: true,
   contundencia: "contundente",
@@ -320,7 +320,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo bien cubierto de salsa con las patatas fritas al lado, para mojar."
   ],
   nutricion: { kcal: 840, prot: 53, hc: 58, grasa: 43 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "económica", "batch cooking", "poco especiada"],
   consejo: "Las patatas prefritas congeladas a veces llevan un rebozado fino con harina de trigo y en los bares se fríen junto a empanados: en casa controlas el aceite. Si usas tomate frito o triturado de bote, mira la etiqueta: casi todos son sin gluten, pero algunos espesan con harina o almidón de trigo. El pollo con tomate (sin las patatas) aguanta 3 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "contundente",
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade el eneldo picado y la última cucharada de aceite en crudo. Tapa y deja reposar 10 minutos antes de servir templado."
   ],
   nutricion: { kcal: 790, prot: 42, hc: 56, grasa: 42 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "batch cooking", "ideal para llevar"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "En Grecia los guisos «ladera» se comen templados, con feta y pan; para una mesa con alergias basta con el plato tal cual, que es completo. Los guisantes congelados naturales solo llevan guisantes, pero las mezclas «salteadas» o con salsa pueden llevar lácteos o caldo con apio: lee la etiqueta. Aguanta 3 días en la nevera y sabe aún mejor recalentado.",
   tupper: true,
   contundencia: "contundente",
@@ -447,7 +447,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el perejil picado y sirve con cuidado de no romper las capas, bañando cada plato con su jugo."
   ],
   nutricion: { kcal: 540, prot: 39, hc: 47, grasa: 21 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "batch cooking", "ideal para llevar"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Es el guiso de domingo de muchas abuelas argentinas y uruguayas. Hay quien le echa un chorro de vino blanco; con sulfitos en la mesa no hace falta, porque el tomate pone la acidez. Usa pimentón y orégano puros: los sazonadores para carne y los cubitos llevan a menudo mostaza, apio, gluten o lactosa.",
   tupper: true,
   contundencia: "media",
@@ -541,7 +541,7 @@ window.RECETAS_SEED.push({
     "Pica muy fina la otra media cebolla con el perejil y espárcela sobre las brochetas recién hechas, como en las parrillas de Belgrado. Sirve con las patatas y la ensalada."
   ],
   nutricion: { kcal: 745, prot: 32, hc: 46, grasa: 48 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "alta en proteína", "a la plancha", "verano"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "alta en proteína", "a la plancha", "verano", "poco especiada"],
   consejo: "En Serbia se sirven con kajmak (una crema láctea) y pan lepinja; sin ellos siguen siendo un plato completo. El ajvar de bote suele llevar vinagre, que puede contener sulfitos: si quieres salsa, asa un pimiento rojo, pélalo y tritúralo con ajo, aceite y limón. Pide la aguja sin adobar: los adobos de carnicería pueden llevar sulfitos, soja o lactosa.",
   tupper: false,
   contundencia: "contundente",
@@ -586,7 +586,7 @@ window.RECETAS_SEED.push({
     "Saca el pavo, cúbrelo con papel de aluminio y deja que repose 10 minutos. Córtalo en lonchas finas y sírvelo con el boniato, las judías, los jugos de la bandeja y la salsa de arándanos."
   ],
   nutricion: { kcal: 755, prot: 52, hc: 81, grasa: 24 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "apta para alergias", "para niños", "alta en proteína", "ideal para llevar", "otoño"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "apta para alergias", "para niños", "alta en proteína", "ideal para llevar", "otoño", "poco especiada", "bajo en colesterol"],
   consejo: "El «stuffing» clásico lleva pan, mantequilla y apio, y el gravy se espesa con harina: aquí los jugos de la bandeja y la salsa de arándanos hacen ese papel. Compra la pechuga fresca y sin marinar: los asados de pavo envasados «listos para hornear» pueden llevar lactosa, dextrosa de trigo o proteína de soja. Usa arándanos frescos o congelados: los secos suelen llevar aceite y a veces sulfitos. La salsa aguanta una semana en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -632,7 +632,7 @@ window.RECETAS_SEED.push({
     "Sirve con el arroz, el pepino en bastones y la otra media lima en gajos."
   ],
   nutricion: { kcal: 645, prot: 44, hc: 79, grasa: 16 },
-  etiquetas: ["creativa", "sin gluten", "apta para alergias", "para niños", "batch cooking", "ideal para llevar"],
+  etiquetas: ["creativa", "sin gluten", "apta para alergias", "para niños", "batch cooking", "ideal para llevar", "bajo en colesterol"],
   consejo: "En Vietnam el kho se sazona con salsa de pescado; aquí la sal, la lima y el caramelo equilibran el plato, y para los niños basta con dejar el chile aparte. No lo sustituyas por salsa de ostras ni caldo asiático de sobre: casi todos llevan pescado, marisco, soja o gluten. Mira también que el agua de coco sea solo agua de coco, sin aditivos.",
   tupper: true,
   contundencia: "media",
@@ -644,7 +644,7 @@ window.RECETAS_SEED.push({
   nombre: "Aloo matar: patatas y guisantes en salsa de tomate especiada con arroz basmati",
   subtitulo: "el curry casero del norte de la India que gusta a todo el mundo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -680,7 +680,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el garam masala y el cilantro picado y sirve con el arroz."
   ],
   nutricion: { kcal: 660, prot: 20, hc: 109, grasa: 15 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "para niños", "económica", "ideal para llevar"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "para niños", "económica", "ideal para llevar", "bajo en colesterol"],
   consejo: "En la India se come con chapati o roti, que son de trigo: con arroz es igual de bueno y sin gluten. Muchas recetas de curry añaden asafétida (hing), que casi siempre se corta con harina de trigo: no la uses salvo que sea certificada sin gluten. Lo mismo con el curry en polvo, que a menudo lleva mostaza o apio.",
   tupper: true,
   contundencia: "contundente",
@@ -692,7 +692,7 @@ window.RECETAS_SEED.push({
   nombre: "Humita en olla con calabaza, albahaca y garbanzos, sin lácteos",
   subtitulo: "el guiso cremoso de maíz del noroeste argentino, ligado solo con el maíz triturado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -723,7 +723,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, incorpora la albahaca picada y la última cucharada de aceite. Sirve en cuencos."
   ],
   nutricion: { kcal: 625, prot: 17, hc: 79, grasa: 26 },
-  etiquetas: ["creativa", "de cuchara", "sin gluten", "apta para alergias", "vegana", "para niños", "económica"],
+  etiquetas: ["creativa", "de cuchara", "sin gluten", "apta para alergias", "vegana", "para niños", "económica", "verduras escondidas", "poco especiada"],
   consejo: "En Salta y Tucumán la humita en olla se liga con leche y a veces se termina con queso; la crema del propio maíz triturado le da la misma suavidad. Compra maíz congelado al natural: las mezclas «a la crema» o «salteadas» pueden llevar lácteos o mantequilla. Aguanta 3 días en la nevera; al recalentar, añade un chorrito de agua.",
   tupper: true,
   contundencia: "media",
@@ -735,7 +735,7 @@ window.RECETAS_SEED.push({
   nombre: "Kousa mahshi bi zeit: calabacines rellenos de arroz, garbanzos y hierbas en salsa de tomate y limón",
   subtitulo: "la versión libanesa de vigilia, sin carne, guisada despacio en aceite de oliva",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -769,7 +769,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade el zumo del otro medio limón y el resto de la menta picada. Deja reposar 10 minutos antes de servir los calabacines con su salsa."
   ],
   nutricion: { kcal: 585, prot: 16, hc: 76, grasa: 23 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "económica", "batch cooking", "ideal para llevar"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "económica", "batch cooking", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "El kousa mahshi de diario lleva carne picada; la versión con aceite («bi zeit») es la de los días de ayuno de las familias cristianas del Líbano. La pimienta de Jamaica y la canela sustituyen a la mezcla de siete especias, porque los baharat comerciales se envasan a menudo junto al zaatar o la dukkah y pueden llevar trazas de sésamo o frutos secos. Están aún más buenos al día siguiente, templados.",
   tupper: true,
   contundencia: "media",
@@ -781,7 +781,7 @@ window.RECETAS_SEED.push({
   nombre: "Peperonata con alubias blancas sobre polenta cremosa al romero",
   subtitulo: "pimientos melosos en tomate, legumbre y una polenta suave hecha con agua y aceite",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -812,7 +812,7 @@ window.RECETAS_SEED.push({
     "Sirve la polenta en plato hondo con la peperonata y las alubias encima, la albahaca rota con las manos y un poco de pimienta."
   ],
   nutricion: { kcal: 715, prot: 24, hc: 102, grasa: 22 },
-  etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "económica", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "económica", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Muchas peperonate del sur llevan un chorrito de vinagre y alcaparras: aquí la acidez viene del tomate. El maíz no tiene gluten, pero algunas polentas instantáneas se fabrican en molinos que también trabajan trigo: busca la mención «sin gluten». Si sobra polenta, se cuaja en la nevera: córtala en bastones y dórala a la plancha al día siguiente.",
   tupper: true,
   contundencia: "contundente",
@@ -824,7 +824,7 @@ window.RECETAS_SEED.push({
   nombre: "Katogo ugandés: plátano macho verde guisado con alubias rojas y tomate",
   subtitulo: "el guiso espeso del desayuno de Kampala, que también es una comida completa",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "africana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -856,7 +856,7 @@ window.RECETAS_SEED.push({
     "Termina con el cilantro picado y sirve caliente."
   ],
   nutricion: { kcal: 660, prot: 15, hc: 118, grasa: 15 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "vegana", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "vegana", "económica", "batch cooking", "bajo en colesterol"],
   consejo: "En Uganda el katogo se hace con alubias, con carne o con casquería, y se toma a cualquier hora. Busca plátano macho verde en fruterías latinas o africanas; no sirve el plátano de Canarias. En las alubias de bote revisa que no añadan metabisulfito (sulfitos) ni otros aditivos: basta con alubias, agua y sal. Aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -900,7 +900,7 @@ window.RECETAS_SEED.push({
     "Mezcla la quinoa fría con las habas, el maíz, el tomate, la cebolla escurrida, las aceitunas, el chile, el perejil y el aliño. Añade el aguacate en dados justo antes de servir y acompaña con el resto de la lima."
   ],
   nutricion: { kcal: 630, prot: 19, hc: 66, grasa: 31 },
-  etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "ideal para llevar", "verano", "superalimentos"],
   consejo: "El solterito de Arequipa lleva queso fresco y habas; con la quinoa se convierte en plato único y apto para alergias. La quinoa no tiene gluten, pero a menudo se envasa en líneas de cereales: para celíacos, busca la mención «sin gluten». Elige aceitunas al natural, sin aliño de vinagre. Sin el aguacate, aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -946,7 +946,7 @@ window.RECETAS_SEED.push({
     "Sirve templada sobre hojas de lechuga romana."
   ],
   nutricion: { kcal: 475, prot: 27, hc: 54, grasa: 16 },
-  etiquetas: ["creativa", "sin gluten", "apta para alergias", "rápida", "picante", "ligera", "verano"],
+  etiquetas: ["creativa", "sin gluten", "apta para alergias", "rápida", "picante", "ligera", "verano", "bajo en colesterol"],
   consejo: "El yam woon sen original lleva fideos de cristal, salsa de pescado, gambas secas y apio chino: cuatro alérgenos o posibles alérgenos en un plato. Revisa que los fideos de arroz sean 100 % arroz, porque algunos llevan almidón de trigo, y también los fideos de cristal, que a veces mezclan judía mungo con fécula de guisante o de trigo. Se puede llevar en tupper y comer fría al día siguiente; las hierbas, mejor añadirlas en el momento.",
   tupper: true,
   contundencia: "ligera",
@@ -989,7 +989,7 @@ window.RECETAS_SEED.push({
     "Mezcla la pasta con todo y con el aliño, añade la albahaca rota con las manos y deja reposar 10 minutos en la nevera antes de servir."
   ],
   nutricion: { kcal: 665, prot: 16, hc: 99, grasa: 22 },
-  etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "para niños", "rápida", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "para niños", "rápida", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Lee la etiqueta de la pasta sin gluten: algunas llevan huevo y otras harina de soja o de altramuz, que también son alérgenos. Cuécela en una olla y un escurridor limpios, nunca en el agua ni el colador que acabas de usar para pasta de trigo. Evita las aceitunas rellenas de anchoa (pescado) o aliñadas con vinagre. Aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -1032,7 +1032,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, mezcla la pasta con el ragú a fuego bajo 1 minuto y añade un chorrito de agua de cocción si queda seca. Sirve con albahaca, si te gusta."
   ],
   nutricion: { kcal: 770, prot: 33, hc: 84, grasa: 33 },
-  etiquetas: ["creativa", "sin gluten", "apta para alergias", "para niños", "batch cooking", "ideal para llevar"],
+  etiquetas: ["creativa", "sin gluten", "apta para alergias", "para niños", "batch cooking", "ideal para llevar", "verduras escondidas", "poco especiada"],
   consejo: "El ragú clásico lleva apio, vino y a veces leche; con la zanahoria rallada y un buen dorado de la carne no se echan de menos. Lee la etiqueta de la pasta sin gluten (algunas llevan huevo o harina de soja) y cuécela en una olla aparte si en casa también se hace pasta de trigo. Haz el doble de ragú: congelado en raciones dura 3 meses.",
   tupper: true,
   contundencia: "contundente",
@@ -1074,7 +1074,7 @@ window.RECETAS_SEED.push({
     "Saca la cazuela y deja reposar el arroz 5 minutos antes de servirlo."
   ],
   nutricion: { kcal: 895, prot: 28, hc: 99, grasa: 42 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "apta para alergias", "económica"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "apta para alergias", "económica", "poco especiada"],
   consejo: "El arròs al forn lleva morcilla y a veces embutido del cocido. La morcilla puede llevar pan, cebolla con lactosa o conservantes con sulfitos, según la receta: aquí la costilla bien dorada y la cabeza de ajo dan el sabor. Si tienes caldo de cocido casero, úsalo en lugar del agua; evita las pastillas, que a menudo llevan apio o gluten. Para el tupper, recaliéntalo con un chorrito de agua.",
   tupper: true,
   contundencia: "contundente",
@@ -1119,7 +1119,7 @@ window.RECETAS_SEED.push({
     "Si usas azafrán, disuélvelo en 2 cucharadas de agua caliente y riégalo por encima. Sirve el arroz mezclado y las patatas crujientes del fondo enteras, encima."
   ],
   nutricion: { kcal: 760, prot: 35, hc: 92, grasa: 27 },
-  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "ideal para llevar"],
+  etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "En Irán se sirve con yogur y encurtidos; para una mesa con alergias acompáñalo de una ensalada de pepino, tomate y menta con zumo de limón. La mezcla de especias persa (advieh) se vende a veces con pistacho o pétalos de rosa tratados: haz tu propia mezcla con cúrcuma y canela. El arroz se conserva 3 días; el tahdig pierde el crujiente, así que cómetelo el primer día.",
   tupper: true,
   contundencia: "contundente",
@@ -1166,7 +1166,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, espolvorea el perejil picado y sirve bien caliente."
   ],
   nutricion: { kcal: 585, prot: 33, hc: 55, grasa: 25 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "para niños", "batch cooking", "una sola olla", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "para niños", "batch cooking", "una sola olla", "invierno", "poco especiada"],
   consejo: "La receta de los diners lleva apio y a veces cebada perlada o macarrones; sin ellos sigue siendo la sopa reconfortante de siempre. No uses pastilla de caldo de carne: casi todas llevan apio, gluten o lactosa, y aquí no hace falta porque la carne dorada da el sabor. Compra carne picada de ternera pura, no «preparado de carne picada», que puede llevar sulfitos o soja. Se congela muy bien.",
   tupper: true,
   contundencia: "media",
@@ -1210,7 +1210,7 @@ window.RECETAS_SEED.push({
     "Ajusta la sal, añade pimienta negra y el eneldo picado y sirve."
   ],
   nutricion: { kcal: 390, prot: 12, hc: 54, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "para niños", "económica", "ligera", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "para niños", "económica", "ligera", "invierno", "poco especiada"],
   consejo: "La kartoflanka se hace con «włoszczyzna», el manojo de verduras para sopa polaco: zanahoria, raíz de perejil, apio nabo y puerro. El apio nabo es el mismo alérgeno que el apio, así que aquí lo sustituye la chirivía, que se parece a la raíz de perejil. Hay quien la termina con nata agria: sin ella queda igual de reconfortante. Lee la etiqueta del bacon, que puede llevar lactosa o proteína de leche.",
   tupper: true,
   contundencia: "ligera",
@@ -1252,7 +1252,7 @@ window.RECETAS_SEED.push({
     "Ajusta con el resto de la sal, añade la parte verde de las cebolletas en rodajas, el cilantro y el resto de la pimienta recién molida. Sirve la sopa con el arroz jazmín al lado."
   ],
   nutricion: { kcal: 570, prot: 24, hc: 66, grasa: 23 },
-  etiquetas: ["creativa", "de cuchara", "sin gluten", "apta para alergias", "para niños", "económica", "otoño"],
+  etiquetas: ["creativa", "de cuchara", "sin gluten", "apta para alergias", "para niños", "económica", "otoño", "poco especiada"],
   consejo: "En Vietnam este caldo se sazona con salsa de pescado y a veces gambas secas; con sal, pimienta y el dulzor de la calabaza queda limpio y apto para todos. Compra carne de cerdo picada pura: el «preparado de carne picada» puede llevar sulfitos, fibras o proteína de soja, y lo indica la etiqueta. Aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -1348,7 +1348,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, ajusta la sal y sirve."
   ],
   nutricion: { kcal: 590, prot: 40, hc: 49, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "para niños", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "para niños", "batch cooking", "invierno", "poco especiada"],
   consejo: "La jardinera de casa suele llevar un chorro de vino blanco y a veces se espesa con harina. Aquí la patata chascada espesa la salsa sin gluten y el sofrito largo sustituye al vino. Pide la carne sin adobar ni «preparar»: algunos adobos de carnicería llevan sulfitos o lactosa. Se congela muy bien en raciones.",
   tupper: true,
   contundencia: "media",

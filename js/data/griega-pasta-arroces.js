@@ -51,7 +51,7 @@ window.RECETAS_SEED.push({
     "Añade el resto de la mantequilla, el eneldo picado y la cebolleta reservada, suelta el arroz con un tenedor y sirve."
   ],
   nutricion: { kcal: 720, prot: 31, hc: 81, grasa: 30 },
-  etiquetas: ["tradicional", "alta en proteína", "ideal para llevar", "invierno"],
+  etiquetas: ["tradicional", "alta en proteína", "ideal para llevar", "invierno", "sin verduras", "poco especiada"],
   consejo: "Los «polites», los griegos de Constantinopla, lo servían en Nochevieja o como relleno del pavo de Navidad, y lo llevaron consigo a Atenas cuando tuvieron que dejar la ciudad, sobre todo en las décadas de 1950 y 1960. Si no te gustan los higaditos, usa 250 g de contramuslo de pollo picado a cuchillo. La pimienta de Jamaica se vende también como «pimienta gorda»; si no la tienes, pon una pizca de clavo y otra de nuez moscada.",
   tupper: true,
   contundencia: "contundente",
@@ -98,7 +98,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo a la cazuela 2 minutos para que se caliente y sirve con el kefalotyri rallado por encima."
   ],
   nutricion: { kcal: 785, prot: 53, hc: 72, grasa: 31 },
-  etiquetas: ["tradicional", "alta en proteína", "batch cooking", "para niños", "invierno"],
+  etiquetas: ["tradicional", "alta en proteína", "batch cooking", "para niños", "invierno", "sin verduras", "poco especiada"],
   consejo: "Las hilopites son cuadraditos de pasta de huevo y leche que en los pueblos del Peloponeso se secaban al sol en verano para todo el año. Las encontrarás en tiendas de productos griegos; si no, parte unos tallarines al huevo en trozos de 1 cm o usa orzo. Aguanta 3 días en la nevera: al recalentar, añade un poco de agua, porque la pasta sigue absorbiendo salsa.",
   tupper: true,
   contundencia: "contundente",
@@ -139,7 +139,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar para que el relleno se asiente."
   ],
   nutricion: { kcal: 775, prot: 33, hc: 76, grasa: 38 },
-  etiquetas: ["tradicional", "al horno", "vegetariana", "ideal para llevar", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "vegetariana", "ideal para llevar", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "En Epiro se hacía con los restos de pasta y el queso de oveja de la despensa, y hay casas que añaden un puñado de hierbas o un poco de kefalotyri rallado. Está igual de buena templada o fría al día siguiente: guarda las porciones en la nevera hasta 3 días y recaliéntalas 10 minutos en el horno para que la filo vuelva a crujir.",
   tupper: true,
   contundencia: "contundente",
@@ -186,7 +186,7 @@ window.RECETAS_SEED.push({
     "Sirve los manti calientes con una buena cucharada de yogur al ajo y riégalos con la mantequilla roja."
   ],
   nutricion: { kcal: 740, prot: 34, hc: 67, grasa: 37 },
-  etiquetas: ["tradicional", "al horno", "fin de semana", "invierno"],
+  etiquetas: ["tradicional", "al horno", "fin de semana", "invierno", "sin verduras"],
   consejo: "Los griegos del Ponto, a orillas del mar Negro, llegaron a Macedonia en 1923 con esta receta, que comparten con turcos y armenios. Puedes formar los manti la víspera y congelarlos crudos sobre una bandeja; luego se hornean sin descongelar, con 5 minutos más en el primer horneado.",
   tupper: false,
   contundencia: "contundente",
@@ -231,7 +231,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade el resto del aceite en crudo, el perejil picado y pimienta y deja reposar tapado 5 minutos. Sirve con gajos de limón para exprimir por encima."
   ],
   nutricion: { kcal: 445, prot: 10, hc: 67, grasa: 14 },
-  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "ligera", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "ligera", "invierno", "batch cooking", "detox", "bajo en colesterol"],
   consejo: "Como todos los «ladera» griegos, los guisos de aceite, sabe mejor templado y al día siguiente, y aguanta 3 días en la nevera. El aceite crudo del final forma parte de la receta: es lo que lo hace jugoso. Si no necesitas que sea vegano, acompáñalo con feta y aceitunas, como en las casas de Tracia. También sale bien con col de Milán.",
   tupper: true,
   contundencia: "ligera",
@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade al arroz el zumo del limón y remueve con energía 1 minuto. Sírvelo en platos hondos con la mantequilla tostada por encima y el cordero al lado o desmigado encima."
   ],
   nutricion: { kcal: 745, prot: 34, hc: 64, grasa: 39 },
-  etiquetas: ["tradicional", "sin gluten", "fin de semana", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "sin gluten", "fin de semana", "para invitados", "invierno", "poco especiada"],
   consejo: "En Creta se prepara en grandes calderos para bodas y bautizos, con gallo, cordero o cabra, y se termina con staka, una nata de leche de oveja cocida; la mantequilla tostada es la manera más fiel de imitarla en casa. Haz el caldo la víspera: en frío, la grasa sube y solidifica y puedes retirar la que sobre con una cuchara.",
   tupper: false,
   contundencia: "contundente",
@@ -317,7 +317,7 @@ window.RECETAS_SEED.push({
     "Añade los trozos de pulpo y cuece 3–4 minutos más, hasta que el arroz esté tierno y jugoso, con algo de caldo. Apaga, esparce el perejil picado y deja reposar tapado 5 minutos antes de servir."
   ],
   nutricion: { kcal: 705, prot: 44, hc: 72, grasa: 26 },
-  etiquetas: ["tradicional", "sin gluten", "sin lactosa", "alta en proteína", "fin de semana"],
+  etiquetas: ["tradicional", "sin gluten", "sin lactosa", "alta en proteína", "fin de semana", "sin verduras", "poco especiada"],
   consejo: "Congelar el pulpo crudo rompe sus fibras y lo deja tierno sin tener que golpearlo. En las Cícladas se cocina en Cuaresma, cuando no se come carne. Si tienes prisa, usa 400 g de pulpo ya cocido y 500 ml de caldo de pescado: estará listo en 30 minutos, aunque con menos sabor. Aguanta 2 días en la nevera; recaliéntalo con un chorrito de agua.",
   tupper: true,
   contundencia: "contundente",
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
     "Esparce el perejil picado y sirve enseguida, con medio bogavante en cada plato."
   ],
   nutricion: { kcal: 600, prot: 31, hc: 68, grasa: 22 },
-  etiquetas: ["tradicional", "para invitados", "fin de semana", "verano", "sin lactosa"],
+  etiquetas: ["tradicional", "para invitados", "fin de semana", "verano", "sin lactosa", "sin verduras", "poco especiada"],
   consejo: "En Paxos, Corfú y Citera se hace con langosta mediterránea; el bogavante es más fácil de encontrar en España y funciona igual. Si lo compras congelado, descongélalo 12 horas en la nevera. Con 400 g de gambas rojas enteras tienes la garidomakaronada, la versión más económica de las tabernas del Pireo.",
   tupper: false,
   contundencia: "media",
@@ -400,7 +400,7 @@ window.RECETAS_SEED.push({
     "Sácalas con una espumadera y colócalas en capas en una fuente caliente: pasta, mizithra rallada y cebolla con su aceite, y repite. Termina con pimienta negra y sirve enseguida."
   ],
   nutricion: { kcal: 700, prot: 20, hc: 87, grasa: 30 },
-  etiquetas: ["tradicional", "vegetariana", "económica", "pasta casera"],
+  etiquetas: ["tradicional", "vegetariana", "económica", "pasta casera", "sin verduras", "poco especiada"],
   consejo: "En Olympos, el pueblo de montaña de Kárpathos, en el Dodecaneso, se preparan para las fiestas y se forman entre varias personas alrededor de la mesa. Si no encuentras mizithra seca, usa ricotta salata o un pecorino suave rallado. Si no quieres hacer la pasta, 250 g de cavatelli frescos son el sustituto más parecido.",
   tupper: false,
   contundencia: "contundente",
@@ -437,7 +437,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos, cubre con el halloumi a la menta y riega con otro cucharón de caldo muy caliente: el queso se ablandará sin llegar a fundirse del todo. Termina con pimienta negra."
   ],
   nutricion: { kcal: 540, prot: 25, hc: 59, grasa: 23 },
-  etiquetas: ["tradicional", "rápida", "para niños"],
+  etiquetas: ["tradicional", "rápida", "para niños", "sin verduras", "poco especiada"],
   consejo: "En Chipre se hace con el caldo del pollo que se ha hervido para la comida, y el pollo se sirve al lado con limón: si cueces un par de muslos en el caldo, tendrás un plato completo. El caldo que sobra, con unas gotas de limón, es una sopa estupenda para la cena.",
   tupper: false,
   contundencia: "media",
@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
     "Monta los boles: farro en la base, el souvlaki encima, la horiatiki picada al lado y una buena cucharada de tzatziki. Termina con pimienta negra."
   ],
   nutricion: { kcal: 765, prot: 47, hc: 58, grasa: 38 },
-  etiquetas: ["creativa", "alta en proteína", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "alta en proteína", "ideal para llevar", "verano", "poco especiada"],
   consejo: "La zea, un farro de grano vestido, se cultivaba en Grecia desde la Antigüedad y hoy vuelve a panaderías y restaurantes griegos. Si no lo encuentras, el bulgur grueso o la cebada perlada funcionan igual. Para el táper, guarda el tzatziki aparte y la ensalada sin aliñar; el farro y el cerdo aguantan 3 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -530,7 +530,7 @@ window.RECETAS_SEED.push({
     "Mientras, derrite la mantequilla. Destapa la lasaña, pinta las hojas de pasta filo con la mantequilla, arrúgalas con las manos y repártelas por encima como una tela fruncida. Hornea 15 minutos más sin tapar, hasta que la filo esté dorada y crujiente y la pasta se atraviese fácilmente con un cuchillo. Deja reposar 10 minutos antes de cortar."
   ],
   nutricion: { kcal: 815, prot: 39, hc: 67, grasa: 44 },
-  etiquetas: ["creativa", "al horno", "vegetariana", "batch cooking", "ideal para llevar"],
+  etiquetas: ["creativa", "al horno", "vegetariana", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Puedes usar 500 g de espinacas congeladas, bien escurridas, y montar la lasaña la víspera: hornéala directamente desde la nevera con 10 minutos más tapada. Aguanta 3 días en la nevera; recaliéntala en el horno, no en el microondas, para que la filo vuelva a crujir. La filo que sobre, bien envuelta en film, se congela sin problema.",
   tupper: true,
   contundencia: "contundente",
@@ -570,7 +570,7 @@ window.RECETAS_SEED.push({
     "Prueba y añade el resto del zumo si la quieres más ácida. Sirve enseguida con el eneldo picado, el resto de la ralladura y más pimienta."
   ],
   nutricion: { kcal: 540, prot: 26, hc: 61, grasa: 21 },
-  etiquetas: ["creativa", "rápida", "vegetariana", "económica", "para niños", "primavera"],
+  etiquetas: ["creativa", "rápida", "vegetariana", "económica", "para niños", "primavera", "poco especiada"],
   consejo: "El avgolemono es la salsa más griega que existe: huevo y limón ligados con caldo caliente para sopas, albóndigas o fricasés. Aquí el agua de cocción hace de caldo. La clave es trabajar fuera del fuego: si la cazuela está demasiado caliente, el huevo se cuaja. Si no encuentras kefalotyri, el pecorino o el parmesano funcionan igual.",
   tupper: false,
   contundencia: "media",
@@ -614,7 +614,7 @@ window.RECETAS_SEED.push({
     "Sirve con las migas de pan al ajo por encima en el último momento, para que crujan."
   ],
   nutricion: { kcal: 665, prot: 38, hc: 72, grasa: 24 },
-  etiquetas: ["creativa", "sin lactosa", "verano"],
+  etiquetas: ["creativa", "sin lactosa", "verano", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "En Spetses, isla del golfo Sarónico, el pescado se hornea cubierto con esta salsa y pan rallado; aquí la costra se tuesta aparte para que no se ablande. Funciona igual con atún fresco, bonito o corvina. En invierno, 400 g de buen tomate triturado sustituyen al tomate rallado.",
   tupper: false,
   contundencia: "contundente",
@@ -660,7 +660,7 @@ window.RECETAS_SEED.push({
     "Cubre con el resto de la bechamel, espolvorea el kefalotyri restante y hornea 20-25 minutos, hasta que la superficie esté dorada y burbujee por los bordes. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 770, prot: 45, hc: 52, grasa: 42 },
-  etiquetas: ["creativa", "al horno", "para niños", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["creativa", "al horno", "para niños", "alta en proteína", "ideal para llevar", "poco especiada"],
   consejo: "La kotopita es el pastel de pollo de las panaderías griegas: pollo, pimientos y queso ligados con una crema de leche entre hojas de filo. En canelones es más fácil de repartir y aguanta perfecta en el táper. Puedes montarlos el día antes, taparlos y hornearlos justo al servir; ya horneados aguantan 3 días en la nevera. Si no encuentras kefalotyri, usa parmesano o un manchego curado.",
   tupper: true,
   contundencia: "contundente",
@@ -703,7 +703,7 @@ window.RECETAS_SEED.push({
     "Sirve con la feta desmigada por encima y el resto del limón en gajos."
   ],
   nutricion: { kcal: 645, prot: 25, hc: 81, grasa: 24 },
-  etiquetas: ["creativa", "una sola sartén", "vegetariana", "económica", "ideal para llevar", "invierno"],
+  etiquetas: ["creativa", "una sola sartén", "vegetariana", "económica", "ideal para llevar", "invierno", "superalimentos", "poco especiada"],
   consejo: "La revithada es el guiso de garbanzos con romero y limón que en Sifnos se hornea toda la noche en cazuela de barro; aquí sus sabores pasan a un plato rápido. Para hacerlo vegano, cambia la feta por aceitunas kalamata picadas. Aguanta 2 días en la nevera: añade un chorrito de caldo al recalentar, porque el orzo absorbe todo el líquido.",
   tupper: true,
   contundencia: "media",
@@ -749,7 +749,7 @@ window.RECETAS_SEED.push({
     "Sirve con la feta desmenuzada por encima, una vuelta de pimienta y el resto del limón en gajos."
   ],
   nutricion: { kcal: 740, prot: 33, hc: 68, grasa: 37 },
-  etiquetas: ["creativa", "primavera", "alta en proteína"],
+  etiquetas: ["creativa", "primavera", "alta en proteína", "poco especiada"],
   consejo: "El arni me araka es el guiso griego de cordero con guisantes y eneldo de la primavera; con cordero picado y ñoquis se convierte en una cena de media hora con el mismo sabor. Los guisantes congelados funcionan mejor que los de bote, que se deshacen. Se recalienta bien en la sartén con un chorrito de agua, pero añade la feta y las hierbas al servir.",
   tupper: true,
   contundencia: "contundente",
@@ -794,7 +794,7 @@ window.RECETAS_SEED.push({
     "Aliña el bulgur con el resto del aceite y del zumo de limón, el perejil, el tomate y la cebolla morada. Sirve con la melitzanosalata encima, las tiras de pimiento y las nueces."
   ],
   nutricion: { kcal: 525, prot: 14, hc: 71, grasa: 21 },
-  etiquetas: ["creativa", "vegana", "al horno", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "vegana", "al horno", "ideal para llevar", "verano", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "En Tesalónica la melitzanosalata lleva pimiento rojo asado de Florina y nueces. Si tienes fogón de gas, asa las berenjenas directamente sobre la llama 10 minutos, girándolas, para que tengan sabor ahumado. Aguanta 3 días en la nevera y se come fría: perfecta para el táper.",
   tupper: true,
   contundencia: "media",
@@ -837,7 +837,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade a la cebada el zumo de medio limón, el eneldo picado y pimienta. Sirve con el calamar encima y gajos del limón restante."
   ],
   nutricion: { kcal: 470, prot: 34, hc: 60, grasa: 10 },
-  etiquetas: ["creativa", "ligera", "sin lactosa", "alta en proteína", "primavera"],
+  etiquetas: ["creativa", "ligera", "sin lactosa", "alta en proteína", "primavera", "poco especiada"],
   consejo: "La cebada perlada suelta almidón como el arroz de risotto, pero aguanta mucho mejor el punto: no se pasa aunque te despistes 5 minutos. En las tabernas griegas modernas se hace también con sepia o con gambas. Si no tienes caldo de pescado, usa caldo de verduras y añade al calamar, al marcarlo, un poco más de ralladura de limón.",
   tupper: false,
   contundencia: "ligera",

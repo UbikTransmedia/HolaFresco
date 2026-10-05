@@ -44,7 +44,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con las aceitunas negras y el perejil por encima."
   ],
   nutricion: { kcal: 630, prot: 38, hc: 32, grasa: 39 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "alta en proteína"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "En Portugal se hace con cebolla pochada y ajo; aquí el aceite de ajo y la cebolleta verde dan el mismo fondo sin fructanos, que son solubles en agua pero no en grasa. Por eso el aceite de ajo es apto siempre que no lleve trocitos de ajo dentro. Si compras patatas paja de bolsa para ir más rápido, revisa la etiqueta: algunas llevan cebolla o ajo en polvo.",
   tupper: false,
   contundencia: "media",
@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
     "Escurre las patatas, pélalas y cháfalas un poco con sal. Sirve el abanico de boquerones entero, con el otro medio limón en cuartos, la ensalada y las patatas."
   ],
   nutricion: { kcal: 594, prot: 35, hc: 46, grasa: 30 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "económica", "frito"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "económica", "frito", "poco especiada"],
   consejo: "En las casas del mar Negro se acompaña de pan de maíz y cebolla cruda; si echas de menos ese punto, añade cebollino picado a la ensalada. Para la dieta baja en FODMAP hay que saber que la grasa no es un FODMAP, pero las frituras muy abundantes pueden disparar síntomas en el intestino irritable por sí solas: con 100 ml de aceite en sartén y bien escurridos los boquerones absorben poco.",
   tupper: false,
   contundencia: "media",
@@ -130,7 +130,7 @@ window.RECETAS_SEED.push({
     "Riega con el aceite de ajo, deja 1 minuto más y prueba de sal. Sirve el pescado con su caldo ácido sobre el arroz."
   ],
   nutricion: { kcal: 509, prot: 36, hc: 62, grasa: 13 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "económica", "ideal para llevar"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "económica", "ideal para llevar", "bajo en colesterol"],
   consejo: "El paksiw nació para conservar el pescado en el calor de las islas: aguanta 3 días en la nevera y está aún mejor al segundo. En Filipinas lleva varios dientes de ajo machacados y, a veces, melón amargo; el aceite de ajo al final aporta el aroma sin fructanos. La berenjena es baja en FODMAP hasta unos 75 g por ración, que es justo lo que lleva aquí.",
   tupper: true,
   contundencia: "media",
@@ -175,7 +175,7 @@ window.RECETAS_SEED.push({
     "Sirve el pez espada sobre el arroz con el pepino al coco al lado."
   ],
   nutricion: { kcal: 620, prot: 40, hc: 61, grasa: 24 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "picante", "ideal para llevar"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "picante", "ideal para llevar", "bajo en colesterol"],
   consejo: "Ambul thiyal significa «pescado agrio»: en Galle y Matara se cocía en seco con goraka para que aguantara días sin nevera, y se suele hacer con atún. Si encuentras hojas de curry, añade una rama con la canela. Para la dieta: el coco rallado es bajo en FODMAP hasta unos 18 g por ración y el tamarindo conviene usarlo en estas cantidades pequeñas; el ajo machacado de la receta original va sustituido por el aceite de ajo.",
   tupper: true,
   contundencia: "media",
@@ -265,7 +265,7 @@ window.RECETAS_SEED.push({
     "Destapa, rompe el salmón en lascas grandes y mézclalo con las verduras y la salsa, como se hace en Hokkaido. Espolvorea la cebolleta picada y sirve con el arroz."
   ],
   nutricion: { kcal: 707, prot: 39, hc: 68, grasa: 31 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "invierno"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "invierno", "poco especiada"],
   consejo: "En Hokkaido se hace en plancha grande con cebolla, setas shimeji y brotes de soja; quita las dos primeras y, si quieres más volumen, añade un puñado de brotes de soja, que son muy bajos en FODMAP. Elige miso de arroz (kome miso): el de cebada (mugi miso) lleva gluten. Hasta 1 cucharada de miso y unos 75 g de col blanca por ración están en verde en la dieta.",
   tupper: false,
   contundencia: "contundente",
@@ -310,7 +310,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con trozos de su costra, las brochetas, los tomates, el zumaque espolvoreado y hojas de menta."
   ],
   nutricion: { kcal: 693, prot: 44, hc: 64, grasa: 29 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "alta en proteína", "para invitados"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "En Irán la marinada lleva cebolla rallada, que es justo lo que más fructanos aporta; el azafrán, el limón y el aceite de ajo sostienen el plato sin ella. El yogur sin lactosa marina igual de bien que el normal. Las brochetas frías son perfectas para el tupper del día siguiente con un poco de arroz.",
   tupper: true,
   contundencia: "contundente",
@@ -356,7 +356,7 @@ window.RECETAS_SEED.push({
     "Sirve los filetes recién hechos con las patatas y la mizeria bien fría."
   ],
   nutricion: { kcal: 641, prot: 44, hc: 60, grasa: 25 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "para niños", "alta en proteína"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "para niños", "alta en proteína", "poco especiada"],
   consejo: "El kotlet schabowy de cerdo es el más famoso, pero el de pavo es igual de habitual en las casas polacas; la mizeria se hace con nata agria, aquí cambiada por yogur sin lactosa. Ojo con el pan rallado: «sin gluten» no siempre significa bajo en FODMAP, porque algunos llevan inulina, harina de soja o de garbanzo. Lee la etiqueta o rállalo tú de pan sin gluten seco.",
   tupper: false,
   contundencia: "media",
@@ -401,7 +401,7 @@ window.RECETAS_SEED.push({
     "Sirve las chuletas con el glaseado de la sartén, el puré y las judías verdes."
   ],
   nutricion: { kcal: 667, prot: 42, hc: 55, grasa: 31 },
-  etiquetas: ["creativa", "bajo en fodmap", "sin gluten", "para niños"],
+  etiquetas: ["creativa", "bajo en fodmap", "sin gluten", "para niños", "poco especiada"],
   consejo: "El sirope de arce puro es sacarosa y es apto en la dieta baja en FODMAP hasta 2 cucharadas por ración, a diferencia de la miel o el agave, ricos en fructosa libre. Evita los siropes «sabor arce» con jarabe de maíz o de glucosa-fructosa. Las chuletas ya glaseadas aguantan 2 días en la nevera y se recalientan bien tapadas.",
   tupper: true,
   contundencia: "contundente",
@@ -447,7 +447,7 @@ window.RECETAS_SEED.push({
     "Sirve los escalopes con su salsa, las patatas escurridas y las espinacas."
   ],
   nutricion: { kcal: 593, prot: 43, hc: 40, grasa: 29 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "rápida", "alta en proteína"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "rápida", "alta en proteína", "poco especiada"],
   consejo: "En Italia se hacen con ternera o con cerdo; la harina de arroz espesa la salsa más fina que la de trigo y no deja sabor a crudo. Para la dieta baja en FODMAP, el punto débil de esta receta suele ser el caldo: los de brik y las pastillas casi siempre llevan cebolla y ajo. Congela caldo casero sin ellos en cubiteras y tendrás siempre una base segura.",
   tupper: false,
   contundencia: "media",
@@ -494,7 +494,7 @@ window.RECETAS_SEED.push({
     "Sirve con el arroz y las espinacas, el resto de la cebolleta y el sésamo por encima."
   ],
   nutricion: { kcal: 758, prot: 41, hc: 72, grasa: 34 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "para niños"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "para niños", "poco especiada"],
   consejo: "El tteokgalbi nació como costilla picada a cuchillo en Damyang y Gwangju; la marinada lleva pera asiática, ajo y la parte blanca de la cebolleta, tres fuentes de FODMAP. El kiwi es bajo en FODMAP y contiene una enzima que ablanda la carne igual que la pera. El tamari sustituye a la salsa de soja para que el plato sea también sin gluten.",
   tupper: true,
   contundencia: "contundente",
@@ -540,7 +540,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo napado con la salsa, las patatas al lado y el perejil picado por encima."
   ],
   nutricion: { kcal: 690, prot: 36, hc: 42, grasa: 42 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "invierno"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "invierno", "poco especiada"],
   consejo: "En Lyon se hace con chalotas y dientes de ajo enteros; el aceite de ajo los sustituye y el vinagre y el tomate ponen el resto del carácter. El vinagre de vino es bajo en FODMAP, pero el balsámico tiene más fructosa y conviene no pasar de 1 cucharada por ración, así que no lo cambies por él. Recalentado al día siguiente está incluso mejor.",
   tupper: true,
   contundencia: "contundente",
@@ -582,7 +582,7 @@ window.RECETAS_SEED.push({
     "Sirve con el cebollino picado por encima."
   ],
   nutricion: { kcal: 464, prot: 36, hc: 44, grasa: 16 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "de cuchara", "ligera", "invierno"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "de cuchara", "ligera", "invierno", "sin verduras", "poco especiada"],
   consejo: "Cullen es un pueblo de la costa de Moray y la sopa se hacía con eglefino ahumado; en España el bacalao o el abadejo ahumado en lomo funcionan perfectamente. La receta escocesa lleva cebolla; la parte verde del puerro es baja en FODMAP y la blanca no, así que corta justo donde empieza a aclararse. Aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
@@ -627,7 +627,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, disuelve el miso en un cazo con un poco de caldo y viértelo en la sopa; no dejes que vuelva a hervir. Sirve con la cebolleta picada y el arroz al lado."
   ],
   nutricion: { kcal: 676, prot: 28, hc: 78, grasa: 28 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara", "invierno"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara", "invierno", "poco especiada"],
   consejo: "En Japón lleva también bardana, konnyaku y la parte blanca del negi; sin ellos sigue siendo un tonjiru de casa. Para la dieta baja en FODMAP elige miso de arroz o mixto sin cebada y no pases de 2 cucharadas por ración; el daikon, la zanahoria y el tofu firme son bajos en FODMAP. Si usas dashi instantáneo, revisa que no lleve cebolla ni ajo en polvo.",
   tupper: true,
   contundencia: "contundente",
@@ -670,7 +670,7 @@ window.RECETAS_SEED.push({
     "Pon los fideos en los platos, añade el pollo y las verduras y cubre con el caldo muy caliente. Termina con las hojas de perejil picadas."
   ],
   nutricion: { kcal: 467, prot: 30, hc: 53, grasa: 15 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "El rosół lleva en Polonia media cebolla tostada a la llama y apionabo; sin ellos queda algo más dulce, que la chirivía compensa. Haz el doble de caldo y congélalo en raciones: es la base apta para todas las sopas, arroces y guisos de la dieta, porque casi todos los caldos comerciales llevan cebolla y ajo. Al día siguiente, el caldo sobrante con tomate se convierte en zupa pomidorowa.",
   tupper: true,
   contundencia: "ligera",
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, mezcla la menta y el zumo de medio limón y pon pimienta. Sirve con el otro medio limón en gajos."
   ],
   nutricion: { kcal: 413, prot: 31, hc: 34, grasa: 17 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "ligera", "de cuchara"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "ligera", "de cuchara", "poco especiada", "bajo en colesterol"],
   consejo: "El nombre viene del italiano agliata, «la del ajo», porque en Malta se hace con muchos dientes; con aceite de ajo conserva el aroma sin aportar fructanos. Los malteses usan la cabeza y las espinas del pescado del día para el caldo: hazlo en 20 minutos con ellas, laurel y la parte verde de un puerro. El tomate triturado es bajo en FODMAP en estas cantidades, unos 100 g por ración.",
   tupper: false,
   contundencia: "ligera",
@@ -759,7 +759,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 minutos tapado y sirve con perejil picado y unas gotas de limón."
   ],
   nutricion: { kcal: 617, prot: 38, hc: 78, grasa: 17 },
-  etiquetas: ["creativa", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara"],
+  etiquetas: ["creativa", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara", "poco especiada"],
   consejo: "El calamar se queda tierno si se cocina muy poco o más de 20 minutos; aquí lo hace con el arroz y llega meloso. El calabacín es bajo en FODMAP hasta unos 65 g por ración y moderado a partir de ahí, por eso la receta lleva justo eso; el pimiento rojo, en torno a 40 g por ración. Si quieres más verdura, añade judías verdes o espinacas en lugar de subir el calabacín.",
   tupper: false,
   contundencia: "media",
@@ -803,7 +803,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, mezcla el eneldo picado, desmenuza la feta por encima y deja tapado 2 minutos. Sirve con el limón en gajos."
   ],
   nutricion: { kcal: 586, prot: 30, hc: 67, grasa: 22 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "verano"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "verano", "poco especiada"],
   consejo: "En las islas griegas se hace con cebolla rallada y a veces con un chorro de ouzo, que da un fondo anisado muy de mar. La feta, curada en salmuera, es baja en lactosa y apta en la dieta hasta unos 40 g por ración. Se puede llevar en tupper y recalentar con un chorrito de agua; los langostinos aguantan bien un día.",
   tupper: true,
   contundencia: "media",
@@ -850,7 +850,7 @@ window.RECETAS_SEED.push({
     "Calienta la mantequilla clarificada en un cazo pequeño, añade la asafétida 5 segundos y viértelo sobre el cordero. Termina con la menta seca frotada entre las manos y sirve con el arroz."
   ],
   nutricion: { kcal: 745, prot: 49, hc: 63, grasa: 33 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "invierno"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "invierno", "sin verduras"],
   consejo: "La cocina de los pandits de Cachemira no usa cebolla ni ajo, así que el yakhni es bajo en FODMAP de origen si se hace con yogur sin lactosa. La asafétida aporta ese punto aliáceo que se echa de menos en la dieta, pero la que se vende suele estar cortada con harina de trigo: busca una sin gluten, cortada con arroz. La mantequilla clarificada apenas tiene lactosa. Sin olla exprés, el cordero necesita 1 hora y 15 minutos de cazuela.",
   tupper: true,
   contundencia: "contundente",
@@ -897,7 +897,7 @@ window.RECETAS_SEED.push({
     "Corta la carne en lonchas gruesas contra la fibra o desmígala con dos tenedores y sírvela con las verduras y la salsa."
   ],
   nutricion: { kcal: 603, prot: 44, hc: 46, grasa: 27 },
-  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "invierno", "batch cooking", "poco especiada"],
   consejo: "Muchas recetas estadounidenses de pot roast usan un sobre de sopa de cebolla deshidratada: es de lo más concentrado en fructanos que hay. El dorado a fondo, el tomate concentrado y el vino dan aquí el sabor que aportaría la cebolla. El nabo y la zanahoria son bajos en FODMAP y la patata, libre. Se congela muy bien con su salsa.",
   tupper: true,
   contundencia: "media",

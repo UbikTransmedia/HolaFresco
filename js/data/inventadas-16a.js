@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Apaga, riega con el zumo de medio limón, desmenuza el feta por encima y termina con el resto de la ralladura y pimienta recién molida."
   ],
   nutricion: { kcal: 615, prot: 48, hc: 55, grasa: 23 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "una sola sartén", "aromática", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "una sola sartén", "aromática", "alta en proteína", "poco especiada"],
   consejo: "Si el orzo absorbe todo el caldo antes de estar tierno, añade un chorrito de agua caliente: debe quedar meloso, como un risotto.",
   contundencia: "media",
   coste: "económica"
@@ -122,7 +122,7 @@ window.RECETAS_SEED.push({
     "Corta el cordero en lonchas gruesas y sírvelo sobre las alubias con un puñado de rúcula aliñada con el resto del aceite y unas gotas de limón, y el pan tostado."
   ],
   nutricion: { kcal: 712, prot: 57, hc: 40, grasa: 36 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "invierno", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Las sobras, deshebradas, están buenísimas en pan de pita con yogur y pepino al día siguiente.",
   contundencia: "contundente",
   coste: "premium"
@@ -165,7 +165,7 @@ window.RECETAS_SEED.push({
     "Sirve la bandeja en la mesa con el yogur al lado y un poco más de orégano y ralladura de limón por encima."
   ],
   nutricion: { kcal: 600, prot: 40, hc: 41, grasa: 31 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ideal para llevar", "poco especiada"],
   consejo: "Si tienes 2 horas, deja el cerdo marinando en la nevera: queda más jugoso. También funciona con muslos de pollo.",
   contundencia: "media",
   coste: "media"
@@ -211,7 +211,7 @@ window.RECETAS_SEED.push({
     "Sirve los keftedes sobre la ensalada con la pita en triángulos y un chorrito del jugo de la bandeja."
   ],
   nutricion: { kcal: 534, prot: 30, hc: 36, grasa: 30 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "ideal para llevar", "verano"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "ideal para llevar", "verano", "poco especiada"],
   consejo: "Haz el doble de keftedes y congélalos ya horneados: en 10 minutos de horno o en salsa de tomate tienes otra comida.",
   contundencia: "media",
   coste: "económica"
@@ -254,7 +254,7 @@ window.RECETAS_SEED.push({
     "Termina con las almendras, perejil picado y unas gotas de limón, y sirve con el yogur."
   ],
   nutricion: { kcal: 765, prot: 51, hc: 50, grasa: 40 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "alta en proteína", "poco especiada"],
   consejo: "El zumaque aporta un ácido afrutado que equilibra el dulzor de la cebolla: si no lo tienes, usa ralladura de limón y una pizca de pimentón.",
   contundencia: "contundente",
   coste: "económica"
@@ -293,7 +293,7 @@ window.RECETAS_SEED.push({
     "Desgrana el cuscús con un tenedor. Sirve el pavo sobre el calabacín y el cuscús y cubre con la salsa verde."
   ],
   nutricion: { kcal: 445, prot: 41, hc: 34, grasa: 16 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "alta en proteína", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "alta en proteína", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Añade a la salsa verde una anchoa picada o unas hojas de menta: gana muchísimo sabor sin complicarte.",
   contundencia: "ligera",
   coste: "media"
@@ -334,7 +334,7 @@ window.RECETAS_SEED.push({
     "Mientras, tuesta el pan. Apaga el fuego, rompe la albahaca con las manos por encima y sirve con el pan para mojar."
   ],
   nutricion: { kcal: 420, prot: 40, hc: 27, grasa: 17 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "una sola sartén", "aromática", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "una sola sartén", "aromática", "verano", "bajo en colesterol"],
   consejo: "Con las sobras de salsa tienes un sugo perfecto para 100 g de pasta al día siguiente.",
   contundencia: "ligera",
   coste: "económica"
@@ -377,7 +377,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con el ajo rallado y una pizca de sal. Sirve el solomillo en medallones sobre la calabaza con el yogur al lado."
   ],
   nutricion: { kcal: 628, prot: 47, hc: 34, grasa: 34 },
-  etiquetas: ["mediterránea", "al horno", "aromática", "alta en proteína", "invierno"],
+  etiquetas: ["mediterránea", "al horno", "aromática", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Cambia los pistachos por avellanas o almendras si es lo que tienes; lo importante es que la costra lleve frutos secos y muchas hierbas.",
   contundencia: "media",
   coste: "media"
@@ -422,7 +422,7 @@ window.RECETAS_SEED.push({
     "Retira la canela, el clavo y el laurel, espolvorea perejil picado y sirve con el pan para mojar."
   ],
   nutricion: { kcal: 692, prot: 49, hc: 61, grasa: 28 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "de cuchara"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "de cuchara", "poco especiada"],
   consejo: "Como todo guiso, está aún mejor al día siguiente; se congela perfectamente sin las patatas.",
   contundencia: "contundente",
   coste: "media"
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
     "Sirve los pinchitos sobre la ensalada con el pan tostado para recoger el jugo."
   ],
   nutricion: { kcal: 430, prot: 40, hc: 29, grasa: 17 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Si los dejas marinar desde la mañana en la nevera, el adobo penetra más y el pollo queda aún más tierno.",
   contundencia: "ligera",
   coste: "económica"
@@ -505,7 +505,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve rociando con el jugo de la fuente."
   ],
   nutricion: { kcal: 671, prot: 42, hc: 47, grasa: 35 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "invierno", "poco especiada"],
   consejo: "Acompaña con una ensalada verde con vinagre de Jerez: la acidez equilibra la intensidad de la sobrasada.",
   contundencia: "contundente",
   coste: "económica"
@@ -547,7 +547,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade la ralladura del limón, un chorrito de su zumo y la menta picada. Sirve con pan tostado."
   ],
   nutricion: { kcal: 578, prot: 46, hc: 40, grasa: 26 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "En temporada usa alcachofas frescas: límpialas, córtalas en cuartos y frótalas con limón; necesitan 5 minutos más de cocción.",
   contundencia: "media",
   coste: "media"
@@ -590,7 +590,7 @@ window.RECETAS_SEED.push({
     "Corta las pechugas en rodajas gruesas y sírvelas sobre la ensalada con el jugo de la sartén."
   ],
   nutricion: { kcal: 438, prot: 48, hc: 12, grasa: 22 },
-  etiquetas: ["mediterránea", "al horno", "ligera", "aromática", "alta en proteína"],
+  etiquetas: ["mediterránea", "al horno", "ligera", "aromática", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Si quieres un plato más completo para la comida, añade unas patatas nuevas asadas o una rebanada de pan integral.",
   contundencia: "ligera",
   coste: "media"
@@ -634,7 +634,7 @@ window.RECETAS_SEED.push({
     "Desmenuza el feta por encima, gratina 3 minutos con el grill y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 799, prot: 48, hc: 64, grasa: 39 },
-  etiquetas: ["mediterránea", "al horno", "aromática", "invierno", "batch cooking"],
+  etiquetas: ["mediterránea", "al horno", "aromática", "invierno", "batch cooking", "poco especiada"],
   consejo: "Puedes prepararlo con ternera para guisar o con muslos de pollo (estos solo necesitan 30 minutos de horno antes del orzo).",
   contundencia: "contundente",
   coste: "premium"
@@ -675,7 +675,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con el jugo de la fuente por encima y las hojas verdes del hinojo picadas."
   ],
   nutricion: { kcal: 452, prot: 34, hc: 34, grasa: 20 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "ligera", "aromática", "invierno"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "ligera", "aromática", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "El hinojo asado pierde el sabor anisado intenso y se vuelve dulce; si no lo encuentras, usa apio y un par de zanahorias.",
   contundencia: "ligera",
   coste: "media"
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pavo, añade la ralladura y el zumo del limón y la menta picada y mezcla 30 segundos. Sirve sobre el bulgur esponjado con los piñones por encima."
   ],
   nutricion: { kcal: 593, prot: 45, hc: 47, grasa: 25 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "verano", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "verano", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Añade unos dados de feta o una cucharada de yogur al servir para darle un punto cremoso y salado.",
   contundencia: "media",
   coste: "media"
@@ -757,7 +757,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo sobre el cuscús desgranado, con la ensalada al lado y el resto de la chermoula por encima."
   ],
   nutricion: { kcal: 613, prot: 44, hc: 58, grasa: 23 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "alta en proteína", "bajo en colesterol"],
   consejo: "La chermoula también es fantástica con pescado blanco; guarda la que sobre en un tarro cubierta de aceite hasta 3 días.",
   contundencia: "media",
   coste: "económica"
@@ -802,7 +802,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre la ensalada con la pita en triángulos y una pizca más de zumaque."
   ],
   nutricion: { kcal: 429, prot: 41, hc: 29, grasa: 17 },
-  etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "verano", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "verano", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El yogur ablanda la carne y el tomate concentrado le da color de asador: no te saltes el marinado aunque sea corto.",
   contundencia: "ligera",
   coste: "económica"
@@ -841,7 +841,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo en tiras sobre las verduras, con las almendras y el eneldo picado por encima."
   ],
   nutricion: { kcal: 442, prot: 42, hc: 28, grasa: 18 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "ideal para llevar"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Si no te gusta el eneldo, usa menta o perejil; y si quieres que quede más cremoso, añade una cucharada de yogur griego con limón.",
   contundencia: "ligera",
   coste: "económica"
@@ -882,7 +882,7 @@ window.RECETAS_SEED.push({
     "Sirve los filetes sobre los garbanzos con el jugo que hayan soltado y un poco más de zumo de limón."
   ],
   nutricion: { kcal: 453, prot: 41, hc: 25, grasa: 21 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "una sola sartén", "aromática", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "una sola sartén", "aromática", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Seca muy bien los garbanzos con papel de cocina antes de saltearlos: así se tuestan en lugar de cocerse.",
   contundencia: "ligera",
   coste: "económica"
@@ -922,7 +922,7 @@ window.RECETAS_SEED.push({
     "Sirve los medallones con las patatas y la rúcula y cubre la carne con el salmoriglio."
   ],
   nutricion: { kcal: 545, prot: 36, hc: 35, grasa: 29 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "alta en proteína", "poco especiada"],
   consejo: "El salmoriglio sirve para cualquier carne o pescado a la plancha; con presa o secreto ibérico queda espectacular.",
   contundencia: "media",
   coste: "premium"
@@ -966,7 +966,7 @@ window.RECETAS_SEED.push({
     "Calienta las pitas en la sartén 1 minuto por lado y sirve para mojar."
   ],
   nutricion: { kcal: 815, prot: 39, hc: 64, grasa: 45 },
-  etiquetas: ["mediterránea", "fácil", "rápida", "aromática"],
+  etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "sin verduras", "poco especiada"],
   consejo: "Acompáñalo con pepino, rábanos y unas hojas de menta para picar entre bocado y bocado: refrescan y aligeran el plato.",
   contundencia: "contundente",
   coste: "media"
@@ -1008,7 +1008,7 @@ window.RECETAS_SEED.push({
     "Desmenuza el feta por encima, gratina 3 minutos y termina con perejil picado."
   ],
   nutricion: { kcal: 594, prot: 44, hc: 33, grasa: 32 },
-  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "ideal para llevar", "verano"],
+  etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "ideal para llevar", "verano", "poco especiada"],
   consejo: "El briam está aún más bueno al día siguiente a temperatura ambiente; haz el doble de verdura y úsala como guarnición o con un huevo.",
   contundencia: "media",
   coste: "media"
@@ -1051,7 +1051,7 @@ window.RECETAS_SEED.push({
     "Calienta las pitas en la plancha 1 minuto por lado. Sirve las brochetas con la berenjena, la salsa de yogur y la pita, con unas gotas de limón por encima."
   ],
   nutricion: { kcal: 680, prot: 43, hc: 45, grasa: 36 },
-  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "alta en proteína"],
+  etiquetas: ["mediterránea", "fácil", "aromática", "verano", "alta en proteína", "poco especiada"],
   consejo: "Si te sobra cordero, mételo en la pita con la berenjena y la salsa: tienes un bocadillo perfecto para llevar.",
   contundencia: "contundente",
   coste: "premium"

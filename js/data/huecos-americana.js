@@ -98,7 +98,7 @@ window.RECETAS_SEED.push({
     "Sirve la trucha sobre las patatas con cebolla y bacon, con el eneldo picado por encima y gajos de limón."
   ],
   nutricion: { kcal: 750, prot: 44, hc: 64, grasa: 35 },
-  etiquetas: ["tradicional", "alta en proteína", "para niños", "económica"],
+  etiquetas: ["tradicional", "alta en proteína", "para niños", "económica", "poco especiada"],
   consejo: "En Canadá se hace con lucioperca (walleye) o perca recién pescadas, y a menudo se acompaña de alubias en salsa de tomate calentadas en la misma hoguera. La trucha de piscifactoría es la opción más fácil y barata en España; también funcionan la lucioperca o la caballa en filetes. La polenta da una costra mucho más crujiente que la harina sola y no se empapa de aceite.",
   tupper: false,
   contundencia: "contundente",
@@ -145,7 +145,7 @@ window.RECETAS_SEED.push({
     "Sirve la salsa por encima justo antes de comer, o aparte para que cada uno se sirva la que quiera."
   ],
   nutricion: { kcal: 540, prot: 35, hc: 18, grasa: 36 },
-  etiquetas: ["tradicional", "alta en proteína", "verano", "para invitados"],
+  etiquetas: ["tradicional", "alta en proteína", "verano", "para invitados", "keto"],
   consejo: "La Louie se servía hacia 1910 en los hoteles de San Francisco y Seattle con cangrejo de la costa del Pacífico; la versión con gambas es igual de clásica. El rábano picante cuesta de encontrar en España: mira en la sección de salsas o de productos alemanes, o sustitúyelo por mostaza de Dijon. Puedes tener huevos, espárragos, langostinos y salsa listos en la nevera hasta 1 día por separado y montar el plato en 5 minutos.",
   tupper: false,
   contundencia: "media",
@@ -244,7 +244,7 @@ window.RECETAS_SEED.push({
     "Cubre con el panko mezclado con el resto del parmesano y hornea 12-15 minutos, hasta que burbujee por los bordes y la superficie esté dorada. Deja reposar 5 minutos y sirve con perejil picado."
   ],
   nutricion: { kcal: 760, prot: 56, hc: 82, grasa: 22 },
-  etiquetas: ["tradicional", "al horno", "batch cooking", "alta en proteína", "para niños", "otoño"],
+  etiquetas: ["tradicional", "al horno", "batch cooking", "alta en proteína", "para niños", "otoño", "poco especiada"],
   consejo: "Se llama así por Luisa Tetrazzini, una soprano muy famosa en Estados Unidos hacia 1910, y es la forma clásica de aprovechar el pavo de Acción de Gracias: si tienes pavo o pollo asado de sobra, sáltate el paso 2 y añádelo desmenuzado. Puedes montarlo la víspera y hornearlo al día siguiente 20 minutos, o congelarlo antes de gratinar.",
   tupper: true,
   contundencia: "contundente",
@@ -288,7 +288,7 @@ window.RECETAS_SEED.push({
     "Pica muy fina la cebolla restante. Sirve las alubias en cuencos hondos con su caldo, la cebolla cruda por encima, unas gotas de salsa picante y el pan de maíz al lado para mojar."
   ],
   nutricion: { kcal: 700, prot: 38, hc: 80, grasa: 25 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "batch cooking", "invierno", "sin verduras"],
   consejo: "En los Apalaches era la cena de diario de las familias mineras: alubias pintas, un trozo de cerdo curado para dar sabor y pan de maíz hecho en sartén de hierro. Si se te olvida el remojo, cuécelas sin remojar 45 minutos desde que sube la válvula. Al día siguiente están todavía mejor; añade un chorrito de agua al recalentar porque espesan mucho.",
   tupper: true,
   contundencia: "contundente",
@@ -339,7 +339,7 @@ window.RECETAS_SEED.push({
     "Sirve cada chuleta cubierta con una buena capa de salsa de cebolla, con el puré y las judías verdes al lado."
   ],
   nutricion: { kcal: 755, prot: 41, hc: 67, grasa: 36 },
-  etiquetas: ["tradicional", "alta en proteína", "para niños", "económica", "invierno"],
+  etiquetas: ["tradicional", "alta en proteína", "para niños", "económica", "invierno", "poco especiada"],
   consejo: "Smothered significa 'ahogado': la carne se dora y luego se cuece cubierta de salsa hasta quedar tiernísima. Es comida de domingo en las casas afroamericanas del sur, servida también sobre arroz blanco. Las chuletas de aguja quedan más jugosas que las de lomo; si usas lomo fino, baja la presión a 7 minutos. Se recalientan perfectamente en su salsa al día siguiente.",
   tupper: true,
   contundencia: "contundente",
@@ -390,7 +390,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con su salsa sobre el arroz y termina con la parte verde de la cebolleta picada."
   ],
   nutricion: { kcal: 665, prot: 40, hc: 81, grasa: 20 },
-  etiquetas: ["tradicional", "picante", "batch cooking", "alta en proteína", "sin lácteos"],
+  etiquetas: ["tradicional", "picante", "batch cooking", "alta en proteína", "sin lácteos", "bajo en colesterol"],
   consejo: "En el país cajún la sauce piquante se hace con lo que haya dado la caza o la pesca: conejo, pato, tortuga, caimán o gambas. Con conejo troceado queda estupenda (12 minutos de presión). El roux oscuro se puede hacer en cantidad y guardar en un tarro en la nevera varias semanas: te ahorra el paso más lento. Como todos los guisos, está más rica al día siguiente.",
   tupper: true,
   contundencia: "contundente",
@@ -436,7 +436,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con la manzana al arce, las pecanas, la salvia crujiente y el resto del cheddar por encima."
   ],
   nutricion: { kcal: 740, prot: 19, hc: 91, grasa: 33 },
-  etiquetas: ["creativa", "vegetariana", "otoño", "batch cooking", "ideal para llevar"],
+  etiquetas: ["creativa", "vegetariana", "otoño", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Junta tres productos de la cosecha del noreste: cheddar curado de Vermont, manzanas y sidra de Quebec y sirope de arce. A diferencia del arroz, la cebada no se pasa al recalentarla: guárdala hasta 3 días y añade un chorrito de agua o caldo al calentarla; la manzana, la salvia y las pecanas, mejor aparte para que no pierdan el crujiente. La sidra asturiana natural le va de maravilla.",
   tupper: true,
   contundencia: "contundente",

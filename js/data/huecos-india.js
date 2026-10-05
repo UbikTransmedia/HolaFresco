@@ -48,7 +48,7 @@ window.RECETAS_SEED.push({
     "Monta los platos con las espinacas de base, la patata con judías, el pepino y la cebolla encurtida. Coloca encima el salmón en lascas grandes, riega con el resto del aliño y termina con hojas de cilantro."
   ],
   nutricion: { kcal: 615, prot: 37, hc: 41, grasa: 33 },
-  etiquetas: ["creativa", "al horno", "alta en proteína", "sin gluten", "primavera", "verano"],
+  etiquetas: ["creativa", "al horno", "alta en proteína", "sin gluten", "primavera", "verano", "superalimentos"],
   consejo: "El shorshe (pasta de mostaza cruda con chile) es la base con la que en Bengala se cocina casi todo el pescado de río; aquí lo llevamos a una ensalada templada. En Calcuta se usa aceite de mostaza, que en España no se vende como alimento: el aceite de oliva y un poco más de semilla dan ese picor que sube a la nariz. Si no encuentras semillas de mostaza, usa 2 cucharadas de mostaza antigua y no hace falta remojarla.",
   tupper: false,
   contundencia: "media",

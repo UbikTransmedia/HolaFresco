@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, retira el laurel y sirve bien caliente con el pan para mojar."
   ],
   nutricion: { kcal: 590, prot: 40, hc: 30, grasa: 34 },
-  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "saciante"],
+  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "saciante", "poco especiada"],
   consejo: "Como hacían las abuelas murcianas, al día siguiente está aún más rico: haz el doble y congela la mitad. Un huevo frito encima lo convierte en un plato de domingo.",
   contundencia: "media",
   coste: "económica"
@@ -90,7 +90,7 @@ window.RECETAS_SEED.push({
     "Sirve las albóndigas con su salsa, perejil picado por encima y las patatas al lado."
   ],
   nutricion: { kcal: 820, prot: 42, hc: 60, grasa: 46 },
-  etiquetas: ["tradicional", "saciante", "fácil", "batch cooking", "de domingo", "para niños"],
+  etiquetas: ["tradicional", "saciante", "fácil", "batch cooking", "de domingo", "para niños", "sin verduras", "poco especiada"],
   consejo: "Para que las albóndigas queden jugosas, no amases demasiado la carne y moja las manos en agua al darles forma. Se congelan perfectamente ya guisadas con su salsa.",
   contundencia: "contundente",
   coste: "media"
@@ -136,7 +136,7 @@ window.RECETAS_SEED.push({
     "Añade las setas y la picada a la cazuela, mezcla meneando la cazuela y cuece 15 minutos más, hasta que la salsa espese. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 625, prot: 42, hc: 24, grasa: 40 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "batch cooking", "invierno", "poco especiada"],
   consejo: "Pide al carnicero los filetes cortados para fricandó: finos y del mismo grosor, así se hacen a la vez. Como todo guiso catalán, mejora de un día para otro.",
   contundencia: "media",
   coste: "media"
@@ -186,7 +186,7 @@ window.RECETAS_SEED.push({
     "Si la salsa está muy líquida, destapa y reduce 10 minutos hasta que napee. Prueba de sal y sirve el estofado sobre el puré."
   ],
   nutricion: { kcal: 790, prot: 48, hc: 46, grasa: 46 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "batch cooking", "saciante"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "batch cooking", "saciante", "poco especiada"],
   consejo: "Usa un vino que te beberías: la salsa es casi todo vino reducido. Hazlo la víspera, déjalo enfriar y retira la grasa que cuaje encima antes de recalentarlo.",
   contundencia: "contundente",
   coste: "premium"
@@ -233,7 +233,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y deja reposar al menos 15 minutos (mejor de un día para otro) antes de servir con pan."
   ],
   nutricion: { kcal: 690, prot: 44, hc: 18, grasa: 49 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "saciante", "picante"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "saciante", "picante", "keto"],
   consejo: "Los callos de verdad se comen al día siguiente: al enfriarse la gelatina espesa la salsa y los sabores se asientan. Compra los callos ya limpios y precocidos y te ahorras la mitad del trabajo.",
   contundencia: "contundente",
   coste: "media"
@@ -281,7 +281,7 @@ window.RECETAS_SEED.push({
     "Mientras, fríe las patatas en dados o bastones en el resto del aceite a fuego medio y luego fuerte hasta que estén doradas. Sálalas y sirve el rabo con su salsa y las patatas."
   ],
   nutricion: { kcal: 830, prot: 46, hc: 48, grasa: 50 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "batch cooking"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Hazlo el día anterior: al enfriar, la grasa sube y cuaja y la quitas con una cuchara; la salsa queda más limpia y el rabo más sabroso. Pide al carnicero trozos del centro, que tienen más carne.",
   contundencia: "contundente",
   coste: "premium"
@@ -325,7 +325,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, apaga y deja reposar 5 minutos tapado. Sirve con perejil picado por encima."
   ],
   nutricion: { kcal: 690, prot: 44, hc: 45, grasa: 37 },
-  etiquetas: ["tradicional", "fácil", "económica", "saciante", "de cuchara", "batch cooking", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "saciante", "de cuchara", "batch cooking", "para niños", "poco especiada"],
   consejo: "El truco de la abuela es cascar las patatas en vez de cortarlas limpias: el almidón que sueltan espesa la salsa sin harina. Si te sobra, al día siguiente está aún mejor.",
   contundencia: "contundente",
   coste: "económica"
@@ -367,7 +367,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con su salsa de cebolla junto al arroz y perejil picado por encima."
   ],
   nutricion: { kcal: 505, prot: 40, hc: 58, grasa: 12 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Enharinar el pollo antes de dorarlo hace dos cosas: lo mantiene jugoso y espesa la salsa sin más trabajo. Si tienes prisa, la cebolla puede pocharse a fuego más fuerte con una cucharada de agua.",
   contundencia: "media",
   coste: "económica"
@@ -409,7 +409,7 @@ window.RECETAS_SEED.push({
     "Sirve los filetes con la salsa de champiñones, las patatas al lado y perejil picado."
   ],
   nutricion: { kcal: 410, prot: 38, hc: 30, grasa: 15 },
-  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "alta en proteína"],
+  etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "No eches sal a los champiñones hasta que estén dorados: si los salas al principio sueltan agua y se cuecen en vez de tostarse.",
   contundencia: "ligera",
   coste: "económica"
@@ -453,7 +453,7 @@ window.RECETAS_SEED.push({
     "Cuece 10 minutos más destapado, meneando la cazuela, hasta que la salsa espese. Prueba de sal y sirve con el pan para mojar."
   ],
   nutricion: { kcal: 760, prot: 44, hc: 40, grasa: 47 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "saciante", "invierno"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "saciante", "invierno", "poco especiada"],
   consejo: "En Extremadura la caldereta se espesa con el hígado del cordero frito y majado: si tu carnicero te lo da, fríelo con el pan y los ajos y añádelo al majado. Queda más sabrosa todavía.",
   contundencia: "contundente",
   coste: "premium"
@@ -499,7 +499,7 @@ window.RECETAS_SEED.push({
     "Apaga, deja reposar 10 minutos tapado y sirve en plato hondo."
   ],
   nutricion: { kcal: 680, prot: 38, hc: 55, grasa: 34 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "batch cooking", "invierno", "poco especiada"],
   consejo: "Si quieres el caldo más espeso, aplasta un par de trozos de patata contra la pared de la cazuela al final. Pide al carnicero morcillo o aguja: quedan más melosos que la tapa.",
   contundencia: "contundente",
   coste: "media"
@@ -544,7 +544,7 @@ window.RECETAS_SEED.push({
     "Sirve templado o frío, con su verdura y un poco del jugo por encima, junto a la lechuga aliñada."
   ],
   nutricion: { kcal: 470, prot: 38, hc: 18, grasa: 27 },
-  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "verano", "ideal para llevar"],
+  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "verano", "ideal para llevar", "poco especiada"],
   consejo: "Cubierto con su escabeche y en un tarro de cristal, aguanta 5 días en la nevera y cada día está mejor. El jugo sobrante es un aliño estupendo para una ensalada.",
   contundencia: "ligera",
   coste: "económica"
@@ -587,7 +587,7 @@ window.RECETAS_SEED.push({
     "Añade los guisantes y cuece 5 minutos más. Prueba de sal y sirve caliente."
   ],
   nutricion: { kcal: 455, prot: 40, hc: 42, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "batch cooking", "para niños"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "batch cooking", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "El muslo de pavo aguanta el guiso sin secarse, al contrario que la pechuga. Si solo tienes pechuga, añádela en los últimos 10 minutos.",
   contundencia: "ligera",
   coste: "económica"
@@ -631,7 +631,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 590, prot: 40, hc: 40, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "saciante", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "saciante", "invierno", "batch cooking", "poco especiada"],
   consejo: "Si tienes pimientos choriceros secos en vez de carne en bote, hidrata 2 en agua caliente 20 minutos y raspa la pulpa con una cuchara. Un poco de guindilla le da el punto riojano.",
   contundencia: "media",
   coste: "media"
@@ -676,7 +676,7 @@ window.RECETAS_SEED.push({
     "Corta el redondo en filetes finos, colócalos en la cazuela con la salsa y las zanahorias y calienta 3 minutos. Sirve."
   ],
   nutricion: { kcal: 540, prot: 44, hc: 28, grasa: 28 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "batch cooking", "alta en proteína"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "Córtalo siempre en frío o tras reposar: los filetes salen finos y enteros. Lo que sobre, congélalo en filetes cubiertos de salsa para que no se resequen.",
   contundencia: "media",
   coste: "media"
@@ -721,7 +721,7 @@ window.RECETAS_SEED.push({
     "Sirve el paprikás sobre la pasta con perejil picado."
   ],
   nutricion: { kcal: 625, prot: 42, hc: 60, grasa: 24 },
-  etiquetas: ["tradicional", "fácil", "saciante", "invierno", "para niños"],
+  etiquetas: ["tradicional", "fácil", "saciante", "invierno", "para niños", "poco especiada"],
   consejo: "El pimentón se quema en segundos: añádelo siempre con la cazuela fuera del fuego. Si no encuentras nata agria, mezcla yogur griego con unas gotas de limón.",
   contundencia: "media",
   coste: "media"
@@ -767,7 +767,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 3 minutos y sirve con feta desmigada o queso rallado por encima."
   ],
   nutricion: { kcal: 695, prot: 44, hc: 62, grasa: 30 },
-  etiquetas: ["tradicional", "de domingo", "saciante", "fácil", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de domingo", "saciante", "fácil", "batch cooking", "invierno", "sin verduras", "poco especiada"],
   consejo: "Si no tienes orzo, usa macarrones o sirve el estofado con patatas fritas, como hacen muchas abuelas griegas. La canela no se nota como dulce: redondea el tomate.",
   contundencia: "contundente",
   coste: "media"
@@ -810,7 +810,7 @@ window.RECETAS_SEED.push({
     "Añade los piñones, retira la canela y el laurel, prueba de sal y sirve con pan."
   ],
   nutricion: { kcal: 600, prot: 38, hc: 36, grasa: 34 },
-  etiquetas: ["tradicional", "fácil", "de domingo", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "fácil", "de domingo", "para invitados", "invierno", "sin verduras", "poco especiada"],
   consejo: "Las ciruelas se deshacen un poco y endulzan la salsa: si te gusta menos dulce, pon la mitad y añade un chorrito de vinagre al final.",
   contundencia: "media",
   coste: "media"
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
     "Mete la carne, la zanahoria y los champiñones, calienta 2 minutos a fuego mínimo, ajusta de sal y pimienta blanca y sirve con el arroz."
   ],
   nutricion: { kcal: 690, prot: 42, hc: 56, grasa: 33 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "para niños"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "para niños", "poco especiada"],
   consejo: "Lo que sobre del caldo, guárdalo: es una base magnífica para una sopa. La salsa no debe hervir después de añadir la yema o se cortará.",
   contundencia: "contundente",
   coste: "media"
@@ -901,7 +901,7 @@ window.RECETAS_SEED.push({
     "Añade los guisantes y cuece 5 minutos destapado, hasta que la salsa napee. Retira el tomillo y el laurel, prueba de sal y sirve."
   ],
   nutricion: { kcal: 610, prot: 38, hc: 34, grasa: 36 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "de cuchara"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "de cuchara", "poco especiada"],
   consejo: "Si encuentras nabos tiernos, pon uno en lugar de una zanahoria: es la versión original. Retira la grasa que flote antes de añadir las verduras para que quede más ligero.",
   contundencia: "media",
   coste: "premium"
@@ -943,7 +943,7 @@ window.RECETAS_SEED.push({
     "Retira el tomillo y el laurel, prueba de sal y pimienta y sirve en plato hondo con perejil picado."
   ],
   nutricion: { kcal: 680, prot: 40, hc: 48, grasa: 36 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "poco especiada"],
   consejo: "El secreto son las dos tandas de patata: la primera se deshace y da cuerpo, la segunda queda entera. No le pongas harina ni tomate; el irlandés de verdad es así de sencillo.",
   contundencia: "contundente",
   coste: "premium"
@@ -1034,7 +1034,7 @@ window.RECETAS_SEED.push({
     "Sirve las albóndigas con su salsa junto al arroz."
   ],
   nutricion: { kcal: 580, prot: 38, hc: 62, grasa: 20 },
-  etiquetas: ["tradicional", "fácil", "económica", "para niños", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "económica", "para niños", "batch cooking", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "El pollo picado es más seco que la ternera: no te saltes el pan mojado en leche, que es lo que las deja jugosas. Congela las albóndigas ya guisadas en raciones.",
   contundencia: "media",
   coste: "económica"
@@ -1078,7 +1078,7 @@ window.RECETAS_SEED.push({
     "Incorpora la picada a la cazuela, cuece 5 minutos, añade las colas de gamba y cuece 1 minuto más. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 595, prot: 48, hc: 20, grasa: 36 },
-  etiquetas: ["tradicional", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "para invitados", "de domingo", "sin verduras", "poco especiada"],
   consejo: "No te asustes con el chocolate: es poquísimo y lo que hace es dar profundidad y color a la salsa, como en muchos guisos catalanes. Las cabezas de gamba son el alma del plato.",
   contundencia: "media",
   coste: "premium"

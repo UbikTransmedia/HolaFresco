@@ -46,7 +46,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel, prueba de sal y sirve con abundante eneldo picado por encima."
   ],
   nutricion: { kcal: 560, prot: 38, hc: 50, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "plato único"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "plato único", "poco especiada"],
   consejo: "En Rusia el zharkoye se hace en cazuelitas de barro al horno; la olla exprés da el mismo resultado meloso en menos de una hora. Mucha gente lo acompaña con pepinillos en salmuera y pan de centeno, y admite cerdo o pollo en lugar de ternera (con pollo, reduce el primer tiempo a 5 min). Aguanta 3 días en la nevera y mejora al recalentarlo.",
   tupper: true,
   contundencia: "media",
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de nata agria, el resto del eneldo y pan de centeno si quieres."
   ],
   nutricion: { kcal: 590, prot: 26, hc: 51, grasa: 31 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking", "poco especiada"],
   consejo: "En Ucrania el kapusniak se sirve en invierno con pan de centeno untado de ajo, y en Nochebuena se hace la versión de vigilia, sin carne y con setas secas. El chucrut se encuentra en los supermercados junto a los encurtidos; si lo compras a granel en una tienda del este de Europa, tendrá más sabor. Aguanta 3 días en la nevera y mejora de un día para otro.",
   tupper: true,
   contundencia: "media",
@@ -188,7 +188,7 @@ window.RECETAS_SEED.push({
     "Pela los huevos y córtalos por la mitad. Sirve las patatas con la salsa generosa por encima y los huevos sobre la salsa."
   ],
   nutricion: { kcal: 575, prot: 20, hc: 58, grasa: 29 },
-  etiquetas: ["tradicional", "vegetariana", "económica", "para niños"],
+  etiquetas: ["tradicional", "vegetariana", "económica", "para niños", "sin verduras", "poco especiada"],
   consejo: "La koprovka es uno de los platos de diario más queridos de Chequia: en los comedores se sirve con huevo, como aquí, o con ternera cocida y knedlíky. El equilibrio está en el vinagre y el azúcar: pruébala y ajusta hasta que no sepa ni a dulce ni a agria, sino a las dos cosas. Los huevos duros en olla exprés (5 min de presión, 5 de reposo y 5 en agua con hielo) salen siempre perfectos y fáciles de pelar.",
   tupper: false,
   contundencia: "media",
@@ -234,7 +234,7 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo a la salsa y sirve con las halušky al lado, bañadas con parte de la salsa."
   ],
   nutricion: { kcal: 820, prot: 44, hc: 75, grasa: 38 },
-  etiquetas: ["tradicional", "alta en proteína", "para niños", "invierno"],
+  etiquetas: ["tradicional", "alta en proteína", "para niños", "invierno", "sin verduras"],
   consejo: "El paprikáš llegó a Eslovaquia desde Hungría, pero allí se sirve siempre con halušky, los ñoquis de masa blanda que se echan al agua a través de un rallador especial. Mezclar la nata agria con un poco de harina y templarla antes de añadirla evita que se corte. Si sobra, guarda el pollo en su salsa hasta 3 días y haz las halušky al momento.",
   tupper: true,
   contundencia: "contundente",
@@ -330,7 +330,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 min. Sirve con las hojas de perejil picadas, pimienta y un chorrito de aceite de oliva crudo."
   ],
   nutricion: { kcal: 680, prot: 27, hc: 86, grasa: 25 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "batch cooking", "otoño"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "batch cooking", "otoño", "poco especiada"],
   consejo: "La maneštra es la sopa de diario de Istria y del Kvarner, a medio camino entre la cocina croata y la del Friuli. A finales de verano se hace con maíz tierno recién desgranado; el resto del año, con maíz en conserva o congelado, que funciona muy bien. Como todas las sopas de alubias, espesa en la nevera: aguanta 3 días y se aligera con un poco de agua al recalentar.",
   tupper: true,
   contundencia: "contundente",
@@ -376,7 +376,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 min y sirve dos pimientos por persona con mucha salsa y el yogur frío al lado."
   ],
   nutricion: { kcal: 730, prot: 39, hc: 59, grasa: 38 },
-  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "verano"],
+  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "verano", "poco especiada"],
   consejo: "En Serbia, Bosnia y Croacia los pimientos rellenos se hacen en cantidad a finales de verano, cuando los babure están baratos, y se comen con puré de patata o simplemente con pan y yogur. Están aún mejor al día siguiente: guárdalos en su salsa hasta 3 días o congélalos. Si quieres darles un toque ahumado, añade un trozo de costilla ahumada a la salsa.",
   tupper: true,
   contundencia: "contundente",
@@ -423,7 +423,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el perejil picado, tapa y deja reposar 5 min. Sirve en platos hondos con su caldo y pan para mojar."
   ],
   nutricion: { kcal: 620, prot: 37, hc: 48, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "sin gluten", "otoño", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "sin gluten", "otoño", "batch cooking", "poco especiada"],
   consejo: "El bosanski lonac se cocinaba en una olla de barro sellada con papel o masa, que pasaba horas entre las brasas; las capas sin remover son lo que le da su sabor limpio. Muchas casas mezclan ternera y cordero: si usas solo ternera para guisar, cuenta 30 min de presión. Aguanta 3 días en la nevera y se recalienta muy bien.",
   tupper: true,
   contundencia: "media",
@@ -471,7 +471,7 @@ window.RECETAS_SEED.push({
     "Sirve con el perejil picado y pan para mojar la salsa."
   ],
   nutricion: { kcal: 610, prot: 47, hc: 49, grasa: 25 },
-  etiquetas: ["tradicional", "alta en proteína", "sin gluten", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "alta en proteína", "sin gluten", "invierno", "batch cooking", "poco especiada"],
   consejo: "El chomlek tradicional se hace en un gyuveche, una olla de barro que se sella con una tira de masa y pasa horas en el horno. Las cebollitas son imprescindibles: en Bulgaria se usa el arpadzhik, la cebolla pequeña de siembra. La ajedrea (chubritsa) es la hierba de la cocina búlgara; la venden seca en herbolarios y tiendas de especias, y el tomillo es un buen sustituto. Aguanta 3 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "media",
@@ -516,7 +516,7 @@ window.RECETAS_SEED.push({
     "Sirve las lentejas con la remolacha al lado, el salmón encima, una cucharada de crema de rábano picante y el resto del eneldo."
   ],
   nutricion: { kcal: 640, prot: 45, hc: 45, grasa: 31 },
-  etiquetas: ["creativa", "alta en proteína", "sin gluten", "fuente de omega-3"],
+  etiquetas: ["creativa", "alta en proteína", "sin gluten", "fuente de omega-3", "superalimentos"],
   consejo: "La lenteja beluga, pequeña y negra, aguanta entera la presión y no se deshace; si usas pardina, cuenta 10 min. El truco de apagar el fuego en cuanto sube la válvula vale para cualquier pescado en lomos: se cuece con el vapor residual y no se seca. La crema de rábano picante es la que acompaña al pescado frío en Polonia y Rusia; en bote se encuentra en tiendas de productos del este de Europa y en algunos supermercados junto a las salsas.",
   tupper: false,
   contundencia: "media",
@@ -561,7 +561,7 @@ window.RECETAS_SEED.push({
     "Sirve la blitva, el pulpo encima, una cucharada de mantequilla de ajvar que se funda sobre el pulpo caliente, el perejil picado, unas gotas de limón y sal en escamas."
   ],
   nutricion: { kcal: 730, prot: 60, hc: 52, grasa: 31 },
-  etiquetas: ["creativa", "alta en proteína", "sin gluten", "para invitados", "verano"],
+  etiquetas: ["creativa", "alta en proteína", "sin gluten", "para invitados", "verano", "poco especiada"],
   consejo: "La blitva (acelga con patata, ajo y aceite de oliva) acompaña al pescado y al pulpo en toda la costa de Croacia y Montenegro. Congelar el pulpo antes de cocerlo rompe sus fibras y lo deja más tierno: por eso el congelado funciona tan bien. El ajvar se vende en tarros en supermercados y tiendas de productos del este de Europa; elige uno suave o picante a tu gusto.",
   tupper: false,
   contundencia: "contundente",
@@ -609,7 +609,7 @@ window.RECETAS_SEED.push({
     "Sirve las tefteli con su salsa, el resto del eneldo por encima y la ensalada de pepino al lado."
   ],
   nutricion: { kcal: 630, prot: 40, hc: 44, grasa: 33 },
-  etiquetas: ["creativa", "para niños", "batch cooking", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["creativa", "para niños", "batch cooking", "ideal para llevar", "alta en proteína", "verduras escondidas", "poco especiada"],
   consejo: "Las tefteli son las albóndigas de comedor escolar de Rusia y Ucrania: el arroz crudo se cuece dentro y las deja muy tiernas. Templar la smetana con salsa caliente antes de añadirla evita que se corte. Se congelan muy bien en su salsa, sin el pepino; descongélalas en la nevera y recaliéntalas a fuego suave.",
   tupper: true,
   contundencia: "media",
@@ -659,7 +659,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de nata agria, mucho eneldo picado y pan de centeno si quieres."
   ],
   nutricion: { kcal: 570, prot: 21, hc: 75, grasa: 21 },
-  etiquetas: ["creativa", "vegetariana", "de cuchara", "económica", "batch cooking", "invierno"],
+  etiquetas: ["creativa", "vegetariana", "de cuchara", "económica", "batch cooking", "invierno", "superalimentos", "poco especiada"],
   consejo: "Las alubias son habituales en el borsch de muchas regiones de Ucrania; aquí pasan de acompañante a protagonistas. La remolacha cruda se encuentra en mercados y fruterías en otoño e invierno; si solo encuentras cocida, añádela al final sin presión, 3 min destapado. Aguanta 4 días en la nevera y, como el borsch, está mejor al día siguiente.",
   tupper: true,
   contundencia: "media",
@@ -706,7 +706,7 @@ window.RECETAS_SEED.push({
     "Sirve el chucrut con el pollo cortado en tiras, las patatas al lado y el perejil picado por encima."
   ],
   nutricion: { kcal: 590, prot: 44, hc: 58, grasa: 19 },
-  etiquetas: ["creativa", "alta en proteína", "una sola olla", "otoño", "invierno", "económica"],
+  etiquetas: ["creativa", "alta en proteína", "una sola olla", "otoño", "invierno", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "El chucrut con manzana, alcaravea y enebro es la guarnición de los asados en Polonia y Chequia; con la presión se suaviza en minutos y absorbe el jugo del pollo. Si lo prefieres menos ácido, enjuágalo antes. Aguanta 3 días en la nevera y es un tupper estupendo: el chucrut sabe aún mejor recalentado.",
   tupper: true,
   contundencia: "media",
@@ -754,7 +754,7 @@ window.RECETAS_SEED.push({
     "Sirve con el pan de centeno tostado y una cucharada más de nata agria si quieres."
   ],
   nutricion: { kcal: 490, prot: 14, hc: 68, grasa: 18 },
-  etiquetas: ["creativa", "vegetariana", "rápida", "otoño", "invierno"],
+  etiquetas: ["creativa", "vegetariana", "rápida", "otoño", "invierno", "poco especiada"],
   consejo: "En Chequia el houbový guláš se hace en temporada de setas con lo que se recoge en el bosque; fuera de ella, unas pocas setas secas dan todo el aroma a un guiso de champiñones de supermercado. Para hacerlo vegano, cambia la nata agria por yogur de soja natural. Aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -802,7 +802,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de yogur al ajo, el queso feta desmigado, un hilo del ajvar restante y el perejil picado."
   ],
   nutricion: { kcal: 520, prot: 26, hc: 62, grasa: 19 },
-  etiquetas: ["creativa", "vegetariana", "de cuchara", "económica", "batch cooking", "sin gluten"],
+  etiquetas: ["creativa", "vegetariana", "de cuchara", "económica", "batch cooking", "sin gluten", "verduras escondidas", "poco especiada"],
   consejo: "La menta seca y la ajedrea son las hierbas de las sopas y guisos de Bulgaria y Macedonia del Norte; con ellas y el ajvar, una sopa de lentejas corriente sabe a los Balcanes. Aguanta 4 días en la nevera y se congela bien sin el yogur ni el queso. Si quieres una versión vegana, sustituye el yogur por yogur vegetal y omite el queso.",
   tupper: true,
   contundencia: "media",
@@ -848,7 +848,7 @@ window.RECETAS_SEED.push({
     "Sirve con una cucharada de nata agria y el eneldo picado por encima."
   ],
   nutricion: { kcal: 580, prot: 17, hc: 77, grasa: 23 },
-  etiquetas: ["creativa", "vegetariana", "económica", "una sola olla", "otoño"],
+  etiquetas: ["creativa", "vegetariana", "económica", "una sola olla", "otoño", "poco especiada"],
   consejo: "Los lazanki z kapustą son un plato de diario polaco, y la versión con setas se come en la cena de Nochebuena; tradicionalmente la pasta se cuece aparte y se saltea con la col, y aquí todo se hace a la vez. Los lazanki se encuentran en tiendas de productos polacos; si usas otra pasta, cuenta en presión la mitad del tiempo que marque el paquete. Mejor al momento: recalentada, la pasta se ablanda.",
   tupper: false,
   contundencia: "media",
@@ -896,7 +896,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré con las carrilleras encima, bien bañadas en salsa, y el perejil picado."
   ],
   nutricion: { kcal: 860, prot: 50, hc: 68, grasa: 43 },
-  etiquetas: ["creativa", "fin de semana", "para invitados", "invierno", "alta en proteína"],
+  etiquetas: ["creativa", "fin de semana", "para invitados", "invierno", "alta en proteína", "poco especiada"],
   consejo: "El ajvar es la crema de pimiento rojo asado y berenjena que se prepara cada otoño en Serbia y Macedonia del Norte; aquí hace de base de la salsa y le da dulzor y un fondo ahumado. El kajmak es una crema láctea fermentada típica de los Balcanes: se encuentra en tiendas de productos del este de Europa, y la mezcla de queso crema y mantequilla es un buen sustituto. El guiso aguanta 3 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "contundente",
@@ -942,7 +942,7 @@ window.RECETAS_SEED.push({
     "Sirve las albóndigas y las patatas bien napadas con la salsa."
   ],
   nutricion: { kcal: 550, prot: 36, hc: 52, grasa: 22 },
-  etiquetas: ["creativa", "para niños", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["creativa", "para niños", "alta en proteína", "ideal para llevar", "sin verduras", "poco especiada"],
   consejo: "Las pulpety son las albóndigas cocidas en caldo de la cocina casera polaca, que se suelen servir en salsa de eneldo; con pescado blanco quedan muy suaves. Pica la merluza a cuchillo y no la tritures: así las albóndigas quedan esponjosas y no gomosas. Aguantan 2 días en la nevera en su salsa; recaliéntalas a fuego muy suave para que la nata agria no se corte.",
   tupper: true,
   contundencia: "media",

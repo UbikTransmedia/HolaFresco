@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Abre, retira el laurel y la cebolla, prueba de sal y aplasta media docena de alubias contra la pared para engordar el caldo. Hierve 5 minutos destapado y deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 813, prot: 50, hc: 52, grasa: 45 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Las alubias pintas no se salan hasta el final: con sal desde el principio la piel se endurece. Y como todos los guisos de legumbre, al día siguiente están todavía mejores.",
   contundencia: "contundente",
   coste: "económica"
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
     "Sirve primero una taza de caldo bien caliente. Después, los garbanzos con el repollo, las carnes troceadas y el relleno cortado en rodajas."
   ],
   nutricion: { kcal: 1021, prot: 46, hc: 72, grasa: 61 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "Echa siempre los garbanzos con el agua ya hirviendo: si los pones en frío quedan duros y con la piel suelta. Y no pinches la morcilla, que se vacía en el caldo.",
   contundencia: "contundente",
   coste: "media"
@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
     "Abre, remueve con cuidado y deja reposar 5 minutos. Debe quedar un guiso meloso, entre caldoso y espeso, en el que la cuchara se sostenga."
   ],
   nutricion: { kcal: 571, prot: 22, hc: 87, grasa: 15 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "vegana"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "vegana", "poco especiada", "bajo en colesterol"],
   consejo: "En Binéfar hay quien le pone un trozo de costilla o unas rodajas de longaniza al cocer las alubias: si quieres un recao más de fiesta, añádelas en el primer paso.",
   contundencia: "media",
   coste: "económica"
@@ -213,7 +213,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con la costilla y el millo; cada uno roe su mazorca con la mano."
   ],
   nutricion: { kcal: 865, prot: 36, hc: 79, grasa: 45 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Es potaje de las abuelas canarias y andaluzas: el hinojo silvestre de los caminos es más aromático que el de bulbo, pero el de mercado funciona muy bien si incluyes los tallos y las hojas.",
   contundencia: "contundente",
   coste: "económica"
@@ -291,7 +291,7 @@ window.RECETAS_SEED.push({
     "Lleva el botillo entero a la mesa sobre las patatas y el repollo escurridos. Ábrelo allí con un cuchillo, reparte la carne y los huesos, y termina con un hilo de aceite y una pizca de pimentón."
   ],
   nutricion: { kcal: 856, prot: 36, hc: 61, grasa: 52 },
-  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "Como lleva costilla y rabo con hueso, avisa a los comensales. El caldo es oro: desgrásalo en frío y úsalo para una sopa de ajo o unas alubias.",
   contundencia: "contundente",
   coste: "media"
@@ -340,7 +340,7 @@ window.RECETAS_SEED.push({
     "Quita el hilo, corta la aleta en rodajas de 1,5 cm con cuchillo bien afilado y sírvela con las patatas y la salsa por encima."
   ],
   nutricion: { kcal: 916, prot: 73, hc: 52, grasa: 46 },
-  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Córtala cuando ya esté templada: los filetes salen enteros y el huevo no se desmorona. Al día siguiente, recalentada en su salsa, está aún más tierna.",
   contundencia: "contundente",
   coste: "premium"
@@ -380,7 +380,7 @@ window.RECETAS_SEED.push({
     "Espolvorea sal gruesa y los dos pimentones y riega generosamente con el aceite crudo justo antes de servir."
   ],
   nutricion: { kcal: 844, prot: 58, hc: 54, grasa: 44 },
-  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "sin verduras"],
   consejo: "Es la versión de carne del pulpo á feira, y el aceite y el pimentón deben ser buenos porque son toda la salsa. Con el caldo, unos fideos y la carne que sobre tienes la cena resuelta.",
   contundencia: "contundente",
   coste: "media"
@@ -422,7 +422,7 @@ window.RECETAS_SEED.push({
     "Corta el lomo en rodajas finas y sírvelo con las patatas, todo napado con la salsa."
   ],
   nutricion: { kcal: 629, prot: 51, hc: 41, grasa: 29 },
-  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "para niños", "de domingo"],
+  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "para niños", "de domingo", "sin verduras", "poco especiada"],
   consejo: "Córtalo frío y recaliéntalo en la salsa: salen rodajas perfectas y no se seca. Si te sobra, el lomo a la leche hace unos bocadillos estupendos.",
   contundencia: "media",
   coste: "económica"
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
     "Abre, retira el laurel y, si la salsa está ligera, redúcela 3 minutos destapada. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 617, prot: 54, hc: 44, grasa: 25 },
-  etiquetas: ["tradicional", "fácil", "alta en proteína", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "El conejo se seca enseguida: con 10 minutos de presión basta. La pizca de azúcar corrige la acidez del tomate, un truco de siempre.",
   contundencia: "media",
   coste: "media"
@@ -510,7 +510,7 @@ window.RECETAS_SEED.push({
     "Abre la olla y reduce el salmorejo destapado 5 minutos a fuego medio, hasta que la salsa espese y brille. Sirve el conejo con su salsa y las papas al lado para mojar."
   ],
   nutricion: { kcal: 736, prot: 57, hc: 55, grasa: 32 },
-  etiquetas: ["tradicional", "saciante", "fácil", "picante", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "fácil", "picante", "de domingo", "sin verduras"],
   consejo: "En Canarias se hace la víspera para que el adobo penetre bien. Si te gusta más picante, añade una guindilla seca al majado.",
   contundencia: "contundente",
   coste: "media"
@@ -554,7 +554,7 @@ window.RECETAS_SEED.push({
     "Sirve media perdiz o una entera por persona con las patatas, las verduras y los ajos, que se aplastan sobre el pan."
   ],
   nutricion: { kcal: 759, prot: 56, hc: 46, grasa: 39 },
-  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "para invitados", "de domingo", "poco especiada"],
   consejo: "El estofado toledano mejora de un día para otro, y frío en su salsa se convierte casi en un escabeche suave. Si la perdiz es de caza, déjala 5 minutos más de presión.",
   contundencia: "contundente",
   coste: "premium"
@@ -600,7 +600,7 @@ window.RECETAS_SEED.push({
     "Cierra y cuenta 5 minutos desde que alcance presión. Despresuriza de forma rápida, prueba de sal y deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 784, prot: 70, hc: 54, grasa: 32 },
-  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "fácil", "invierno", "para invitados", "de domingo", "verduras escondidas", "poco especiada"],
   consejo: "El chocolate no se nota: redondea la salsa y le quita aspereza al vino, un truco de las cocinas de caza. Si no encuentras jabalí, haz la receta igual con carrillada o paleta de cerdo.",
   contundencia: "contundente",
   coste: "premium"
@@ -645,7 +645,7 @@ window.RECETAS_SEED.push({
     "Devuelve la salsa y los muslos a la olla, añade las peras y deja hervir suave, destapado, 5 minutos. Prueba de sal y sirve con pan."
   ],
   nutricion: { kcal: 847, prot: 38, hc: 82, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "invierno"],
+  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "Es el plato de fiesta del Empordà. Guarda la grasa de pato que sobre en un tarro en la nevera: unas patatas fritas en ella son otra cosa.",
   contundencia: "contundente",
   coste: "premium"
@@ -688,7 +688,7 @@ window.RECETAS_SEED.push({
     "Abre la olla, añade la picada y las patatas fritas y deja hervir suave, destapado, 5 minutos, para que las patatas se empapen y la salsa espese. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 835, prot: 57, hc: 46, grasa: 47 },
-  etiquetas: ["tradicional", "saciante", "fácil", "económica", "para niños", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "fácil", "económica", "para niños", "de domingo", "sin verduras", "poco especiada"],
   consejo: "En Mallorca se hace sobre todo con pavo en Navidad; con contramuslos de pavo funciona igual (12 minutos de presión). Las patatas se fríen aparte para que no se deshagan.",
   contundencia: "contundente",
   coste: "económica"
@@ -736,7 +736,7 @@ window.RECETAS_SEED.push({
     "Remueve, deja reposar 3 minutos con la olla destapada y sirve enseguida: debe quedar bien caldoso, casi como una sopa espesa."
   ],
   nutricion: { kcal: 885, prot: 47, hc: 73, grasa: 45 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "poco especiada"],
   consejo: "Se llama arroz sucio por el color que le dan las especias y la sobrasada. Sírvelo nada más hacerlo: el arroz sigue bebiendo caldo y en 10 minutos deja de ser caldoso.",
   contundencia: "contundente",
   coste: "media"
@@ -777,7 +777,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 minutos y sirve en plato hondo con su salsa roja."
   ],
   nutricion: { kcal: 581, prot: 41, hc: 43, grasa: 27 },
-  etiquetas: ["tradicional", "fácil", "picante", "para invitados"],
+  etiquetas: ["tradicional", "fácil", "picante", "para invitados", "sin verduras"],
   consejo: "El original es de anguila, pero con rape queda más fácil y gusta a todo el mundo. Mueve la olla en vaivén en vez de remover: así el pescado no se rompe y la salsa liga.",
   contundencia: "media",
   coste: "premium"
@@ -820,7 +820,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 2 minutos fuera del fuego y sirve cada lomo sobre su cama de patatas y salsa."
   ],
   nutricion: { kcal: 471, prot: 40, hc: 35, grasa: 19 },
-  etiquetas: ["tradicional", "fácil", "ligera", "verano"],
+  etiquetas: ["tradicional", "fácil", "ligera", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "En Rota la urta se hace entera y troceada; con lomos de dorada o de corvina el resultado es casi igual y sin espinas. Moja pan en la salsa, que es lo mejor.",
   contundencia: "ligera",
   coste: "premium"
@@ -862,7 +862,7 @@ window.RECETAS_SEED.push({
     "Riega con el mojo por encima o ponlo en un cuenco para que cada uno se sirva."
   ],
   nutricion: { kcal: 640, prot: 46, hc: 60, grasa: 24 },
-  etiquetas: ["tradicional", "fácil", "picante"],
+  etiquetas: ["tradicional", "fácil", "picante", "bajo en colesterol"],
   consejo: "El sancocho clásico se hace con cherne salado y desalado 24 horas, y se acompaña de pella de gofio amasada con un poco del caldo. Con pescado fresco es más rápido y igual de rico.",
   contundencia: "media",
   coste: "media"
@@ -911,7 +911,7 @@ window.RECETAS_SEED.push({
     "Abre, incorpora la picada y los guisantes y deja hervir suave, destapado, 5 minutos, moviendo la olla, hasta que la salsa espese. Prueba de sal y sirve con pan."
   ],
   nutricion: { kcal: 816, prot: 58, hc: 34, grasa: 50 },
-  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "batch cooking", "poco especiada"],
   consejo: "La sepia necesita más tiempo que las albóndigas, por eso va primero sola a presión. Si encuentras sepia congelada, mejor: al congelarse se vuelve más tierna.",
   contundencia: "contundente",
   coste: "media"
@@ -952,7 +952,7 @@ window.RECETAS_SEED.push({
     "Esparce el resto del perejil, menea la olla en vaivén 30 segundos para que la salsa ligue y sirve enseguida."
   ],
   nutricion: { kcal: 391, prot: 15, hc: 50, grasa: 14 },
-  etiquetas: ["tradicional", "fácil", "ligera", "para invitados"],
+  etiquetas: ["tradicional", "fácil", "ligera", "para invitados", "poco especiada"],
   consejo: "Las almejas ya son saladas: echa poca sal al principio y rectifica al final. Si no es temporada de alcachofa, las de bote bien escurridas funcionan; añádelas con las almejas, sin presión.",
   contundencia: "ligera",
   coste: "premium"
@@ -989,7 +989,7 @@ window.RECETAS_SEED.push({
     "Riega con el refrito de ajo y jamón y sirve caliente."
   ],
   nutricion: { kcal: 414, prot: 19, hc: 44, grasa: 18 },
-  etiquetas: ["tradicional", "fácil", "ligera", "invierno"],
+  etiquetas: ["tradicional", "fácil", "ligera", "invierno", "poco especiada"],
   consejo: "En Zaragoza se toma muy sencilla, solo con un chorro de aceite crudo; el jamón la convierte en plato único. Si no encuentras borraja fresca, la hay en conserva: añádela escurrida a las patatas ya cocidas.",
   contundencia: "ligera",
   coste: "media"
@@ -1031,7 +1031,7 @@ window.RECETAS_SEED.push({
     "Tapa la olla sin cerrarla y deja 4 minutos a fuego suave, hasta que la clara esté cuajada y la yema líquida. Sirve un huevo por plato con sus patatas."
   ],
   nutricion: { kcal: 470, prot: 15, hc: 62, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "vegetariana"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "vegetariana", "poco especiada"],
   consejo: "Se llaman viudas porque no llevan carne, pero el truco del sabor está en cascar la patata y no cortarla: suelta almidón y el caldo queda espeso y sabroso.",
   contundencia: "ligera",
   coste: "económica"
@@ -1072,7 +1072,7 @@ window.RECETAS_SEED.push({
     "Coloca los puerros partidos por la mitad y las patatas en una fuente, reparte el huevo y riega con la vinagreta. Sirve tibio o frío."
   ],
   nutricion: { kcal: 414, prot: 13, hc: 41, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "ligera", "económica", "verano", "vegetariana"],
+  etiquetas: ["tradicional", "fácil", "ligera", "económica", "verano", "vegetariana", "poco especiada"],
   consejo: "Aliña los puerros todavía tibios: absorben mucho mejor la vinagreta. Se conservan aliñados dos días en la nevera, ideales para llevar.",
   contundencia: "ligera",
   coste: "económica"

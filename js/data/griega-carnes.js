@@ -46,7 +46,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con el resto del eneldo y una vuelta de pimienta."
   ],
   nutricion: { kcal: 550, prot: 39, hc: 12, grasa: 37 },
-  etiquetas: ["tradicional", "primavera", "sin gluten", "de cuchara", "alta en proteína"],
+  etiquetas: ["tradicional", "primavera", "sin gluten", "de cuchara", "alta en proteína", "keto", "poco especiada"],
   consejo: "El fricase es el guiso de primavera de las casas griegas, muy típico en Atenas, cuando el cordero y las lechugas están en su mejor momento. Puedes cambiar la lechuga por escarola, acelgas o alcachofas. Si te sobra, recaliéntalo a fuego muy suave y sin que llegue a hervir, o el avgolemono se cortará.",
   tupper: false,
   contundencia: "media",
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
     "Hornea en la parte baja del horno 50-55 minutos, hasta que la filo esté bien dorada y el relleno deje de burbujear por los cortes. Deja reposar 10 minutos antes de cortar."
   ],
   nutricion: { kcal: 905, prot: 45, hc: 72, grasa: 48 },
-  etiquetas: ["tradicional", "invierno", "de domingo", "al horno", "ideal para llevar"],
+  etiquetas: ["tradicional", "invierno", "de domingo", "al horno", "ideal para llevar", "poco especiada"],
   consejo: "En Cefalonia se hace por Carnaval con la carne que haya en casa (cordero, cabrito, cerdo o ternera) y con masa casera de aceite; la filo del súper la simplifica sin cambiar el sabor. No cuezas el arroz antes: crudo absorbe el jugo del guiso y es lo que mantiene el relleno jugoso. Aguanta 3 días en la nevera y se congela en porciones; recaliéntala en el horno para que la masa vuelva a estar crujiente.",
   tupper: true,
   contundencia: "contundente",
@@ -141,7 +141,7 @@ window.RECETAS_SEED.push({
     "Deja reposar la carne 5 minutos y sírvela con su cebolla confitada y el jugo de la fuente, la ensalada y, si quieres, pan de pita caliente."
   ],
   nutricion: { kcal: 690, prot: 40, hc: 20, grasa: 48 },
-  etiquetas: ["tradicional", "al horno", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "al horno", "batch cooking", "de domingo", "keto", "poco especiada"],
   consejo: "En Epiro el kontosouvli se asa durante horas en un espetón largo sobre brasas. En casa, el papel de aluminio hace el papel de la cocción lenta y el golpe final de calor, el de las brasas. Usa paleta o aguja de cerdo: el lomo queda seco. El tiempo no incluye el marinado. Lo que sobre, al día siguiente en pita con tzatziki.",
   tupper: true,
   contundencia: "contundente",
@@ -326,7 +326,7 @@ window.RECETAS_SEED.push({
     "Exprime medio limón por encima, mueve la cazuela con cuidado y sirve con el otro medio limón en gajos."
   ],
   nutricion: { kcal: 645, prot: 48, hc: 40, grasa: 32 },
-  etiquetas: ["tradicional", "sin gluten", "otoño", "batch cooking"],
+  etiquetas: ["tradicional", "sin gluten", "otoño", "batch cooking", "poco especiada"],
   consejo: "Tsigarizo significa rehogar hasta dorar, y en Creta se aplica al cabrito, al cordero y al conejo: mucha cebolla, buen aceite de oliva, vino y nada de tomate. Sin conejo, funciona con contramuslos de pollo con hueso (reduce la cocción a 35 minutos en total). Aguanta 3 días en la nevera; recaliéntalo tapado con un chorrito de agua.",
   tupper: true,
   contundencia: "media",
@@ -367,7 +367,7 @@ window.RECETAS_SEED.push({
     "Retira las ramas de romero y sirve el cordero con las patatas y el jugo de vino y eneldo por encima."
   ],
   nutricion: { kcal: 735, prot: 49, hc: 43, grasa: 39 },
-  etiquetas: ["tradicional", "al horno", "sin gluten", "primavera", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "al horno", "sin gluten", "primavera", "para invitados", "de domingo", "sin verduras", "poco especiada"],
   consejo: "En Sifnos el mastelo se mete el Sábado Santo en el horno de leña del pueblo, en una cazuela de barro sellada con masa y sobre sarmientos de vid, y se come el domingo de Pascua. Si tienes sarmientos limpios, úsalos en lugar del romero. Aguanta 3 días en la nevera: recaliéntalo tapado a 160 °C con un chorrito de agua.",
   tupper: true,
   contundencia: "contundente",
@@ -412,7 +412,7 @@ window.RECETAS_SEED.push({
     "Sirve los filetes con mucha salsa junto al puré."
   ],
   nutricion: { kcal: 660, prot: 40, hc: 45, grasa: 34 },
-  etiquetas: ["tradicional", "batch cooking", "invierno", "ideal para llevar"],
+  etiquetas: ["tradicional", "batch cooking", "invierno", "ideal para llevar", "sin verduras", "poco especiada"],
   consejo: "Es uno de los platos más característicos de Corfú, de la época veneciana; el nombre viene del italiano soffritto. Allí se acompaña de puré, patatas fritas o arroz blanco. La carne guisada aguanta 3 días en la nevera y está aún mejor al día siguiente; el puré, mejor recién hecho.",
   tupper: true,
   contundencia: "contundente",
@@ -454,7 +454,7 @@ window.RECETAS_SEED.push({
     "Sirve la afelia con las patatas y, si quieres, una cucharada de yogur."
   ],
   nutricion: { kcal: 720, prot: 40, hc: 38, grasa: 43 },
-  etiquetas: ["tradicional", "sin gluten", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "sin gluten", "invierno", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "El cilantro en grano machacado es imprescindible: no lo cambies por cilantro fresco. En Chipre la afelia se sirve con pourgouri (pilaf de bulgur) y yogur, y las patatas antinahtes son su guarnición de taberna. El tiempo no incluye el marinado. Aguanta 3 días en la nevera y la carne mejora de un día para otro.",
   tupper: true,
   contundencia: "contundente",
@@ -543,7 +543,7 @@ window.RECETAS_SEED.push({
     "Espolvorea el eneldo picado y una vuelta de pimienta, y sirve enseguida."
   ],
   nutricion: { kcal: 410, prot: 44, hc: 31, grasa: 11 },
-  etiquetas: ["creativa", "ligera", "sin gluten", "alta en proteína", "primavera"],
+  etiquetas: ["creativa", "ligera", "sin gluten", "alta en proteína", "primavera", "poco especiada", "bajo en colesterol"],
   consejo: "Las alcachofas con avgolemono son un clásico de la Cuaresma griega; con pavo se convierten en una cena completa y ligera. Si tienes alcachofas frescas, límpialas, frótalas con limón y añádelas con las patatas. El avgolemono no se recalienta bien: hazlo siempre al momento.",
   tupper: false,
   contundencia: "ligera",
@@ -586,7 +586,7 @@ window.RECETAS_SEED.push({
     "Corta el magret en lonchas y sírvelo sobre la skordalia, con los higos y su glaseado por encima."
   ],
   nutricion: { kcal: 685, prot: 39, hc: 51, grasa: 35 },
-  etiquetas: ["creativa", "para invitados", "sin gluten", "otoño", "verano"],
+  etiquetas: ["creativa", "para invitados", "sin gluten", "otoño", "verano", "poco especiada"],
   consejo: "Guarda la grasa de pato que sobra en un tarro en la nevera: aguanta semanas y es perfecta para patatas asadas. Fuera de temporada, usa higos secos hidratados 10 minutos en agua caliente. Si no encuentras magret, la receta funciona con pechuga de pollo con piel (cocínala hasta que esté hecha del todo).",
   tupper: false,
   contundencia: "contundente",
@@ -631,7 +631,7 @@ window.RECETAS_SEED.push({
     "Deja reposar el pavo 3 minutos, córtalo en rodajas y sírvelo sobre el orzo."
   ],
   nutricion: { kcal: 625, prot: 52, hc: 57, grasa: 21 },
-  etiquetas: ["creativa", "al horno", "alta en proteína", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "al horno", "alta en proteína", "ideal para llevar", "verano", "poco especiada"],
   consejo: "El pasteli es la golosina griega más antigua: sésamo tostado ligado con miel. Aquí hace de costra crujiente y dulce frente a la acidez del limón y la sal de la feta. El orzo aguanta 2 días en la nevera; al recalentarlo, añade un chorrito de caldo o agua. También funciona con pechuga de pollo.",
   tupper: true,
   contundencia: "media",
@@ -674,7 +674,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas recién hechas, porque el halloumi se endurece al enfriarse, con la pita, la salsa de yogur y el resto del limón en gajos."
   ],
   nutricion: { kcal: 665, prot: 32, hc: 48, grasa: 39 },
-  etiquetas: ["creativa", "rápida", "verano", "para niños"],
+  etiquetas: ["creativa", "rápida", "verano", "para niños", "poco especiada"],
   consejo: "El halloumi es el queso de Chipre: no se funde y se dora como una carne, así que comparte brocheta con la salchicha sin problema. Sin airfryer, hazlas en la plancha o una sartén a fuego fuerte 8 minutos. Para una versión más ligera, sirve las brochetas con ensalada de tomate y pepino en vez de pita.",
   tupper: false,
   contundencia: "contundente",
@@ -719,7 +719,7 @@ window.RECETAS_SEED.push({
     "Monta cada pita con lechuga, dos bifteki con feta, tomate, cebolla, salsa de yogur y una pizca de pimentón. Dobla y come al momento."
   ],
   nutricion: { kcal: 620, prot: 40, hc: 49, grasa: 29 },
-  etiquetas: ["creativa", "rápida", "para niños", "alta en proteína"],
+  etiquetas: ["creativa", "rápida", "para niños", "alta en proteína", "poco especiada"],
   consejo: "El bifteki es la hamburguesa de las tabernas griegas, con cebolla, orégano y a menudo rellena de feta. Aplastarlo en la plancha muy caliente le da más costra y más sabor en la mitad de tiempo. Funciona igual con mitad de cordero picado. Las bolas se pueden dejar formadas en la nevera desde por la mañana.",
   tupper: false,
   contundencia: "media",
@@ -765,7 +765,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de servir para que la salsa se asiente."
   ],
   nutricion: { kcal: 705, prot: 36, hc: 25, grasa: 50 },
-  etiquetas: ["creativa", "al horno", "sin gluten", "batch cooking", "verano"],
+  etiquetas: ["creativa", "al horno", "sin gluten", "batch cooking", "verano", "poco especiada"],
   consejo: "La crema de yogur y huevo sustituye a la bechamel de la moussaka: gratina igual de bien y se hace en un minuto. Puedes dejar los rollitos montados, sin la cobertura, desde el día anterior. Aguantan 3 días en la nevera y se recalientan bien. Si no encuentras cordero picado, usa ternera picada.",
   tupper: true,
   contundencia: "contundente",
@@ -810,7 +810,7 @@ window.RECETAS_SEED.push({
     "Mientras, corta los tomates en gajos y alíñalos con sal, orégano, un chorrito de zumo de limón y el aceite que quede. Deja reposar los paquetes 3 minutos, córtalos en diagonal y sirve."
   ],
   nutricion: { kcal: 600, prot: 48, hc: 29, grasa: 32 },
-  etiquetas: ["creativa", "al horno", "para invitados", "alta en proteína"],
+  etiquetas: ["creativa", "al horno", "para invitados", "alta en proteína", "poco especiada"],
   consejo: "La pasta filo se seca en segundos: mantenla tapada con un paño húmedo mientras trabajas. Puedes dejar los paquetes montados en la nevera hasta 4 horas antes de hornearlos. Mejor recién hechos, porque al recalentarlos la filo pierde lo crujiente.",
   tupper: false,
   contundencia: "media",
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
     "Sirve el conejo templado o a temperatura ambiente, con la ensalada y pan si quieres."
   ],
   nutricion: { kcal: 580, prot: 47, hc: 24, grasa: 32 },
-  etiquetas: ["creativa", "batch cooking", "ideal para llevar", "verano"],
+  etiquetas: ["creativa", "batch cooking", "ideal para llevar", "verano", "poco especiada"],
   consejo: "El savoro es la forma de Corfú, Lefkada y el Peloponeso de conservar el pescado frito, como salmonetes o boquerones, en vinagre y romero; es pariente del saor veneciano y del escabeche. Con conejo funciona de maravilla y mejora con las horas: aguanta 4 días en la nevera. Sácalo 30 minutos antes de comer para que la salsa pierda el frío.",
   tupper: true,
   contundencia: "media",
@@ -902,7 +902,7 @@ window.RECETAS_SEED.push({
     "Rellénalas con la kima y termina con una cucharada de yogur, la feta desmigada y el perejil picado."
   ],
   nutricion: { kcal: 605, prot: 33, hc: 53, grasa: 28 },
-  etiquetas: ["creativa", "rápida", "económica", "para niños", "ideal para llevar"],
+  etiquetas: ["creativa", "rápida", "económica", "para niños", "ideal para llevar", "sin verduras", "poco especiada"],
   consejo: "Kima es la salsa de carne picada con canela que en Grecia acompaña a los macarrones. Haz el doble: aguanta 4 días en la nevera y se congela, y otro día la tienes lista para pasta. Si quieres la piel de la patata crujiente, termínalas 5 minutos en el horno o la airfryer a 220 °C. Para llevar, guarda la kima aparte y añade el yogur al servir.",
   tupper: true,
   contundencia: "media",

@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Come enseguida: los garbanzos pierden el crujiente en cuanto se empapan."
   ],
   nutricion: { kcal: 430, prot: 14, hc: 52, grasa: 18 },
-  etiquetas: ["de cuchara", "al horno", "invierno", "ligera", "batch cooking", "vegetariana"],
+  etiquetas: ["de cuchara", "al horno", "invierno", "ligera", "batch cooking", "vegetariana", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "La crema aguanta 4 días en la nevera y se congela bien; los garbanzos, en cambio, hazlos siempre al momento (o recrujen 5 minutos en horno caliente).",
   contundencia: "ligera",
   coste: "económica"
@@ -80,7 +80,7 @@ window.RECETAS_SEED.push({
     "Sírvelo bien frío en platos hondos, con el huevo picado, el jamón en virutas y un hilo de aceite por encima."
   ],
   nutricion: { kcal: 610, prot: 25, hc: 48, grasa: 34 },
-  etiquetas: ["sin cocción", "verano", "frío", "de cuchara", "tradicional"],
+  etiquetas: ["sin cocción", "verano", "frío", "de cuchara", "tradicional", "poco especiada"],
   consejo: "Si los tomates no son de temporada, añade una cucharadita de tomate concentrado y una pizca de azúcar para compensar la acidez.",
   contundencia: "media",
   coste: "media"
@@ -119,7 +119,7 @@ window.RECETAS_SEED.push({
     "Sirve el ajoblanco muy frío en boles, con las uvas, el melón, la almendra tostada y unas gotas de aceite por encima."
   ],
   nutricion: { kcal: 590, prot: 15, hc: 40, grasa: 41 },
-  etiquetas: ["sin cocción", "verano", "frío", "rápida", "vegana", "de cuchara"],
+  etiquetas: ["sin cocción", "verano", "frío", "rápida", "vegana", "de cuchara", "sin verduras", "poco especiada"],
   consejo: "Si tienes tiempo, déjalo reposar 1 hora en la nevera: el ajo se suaviza y el sabor a almendra gana. Con un hielo dentro del vaso al triturar queda aún más fino.",
   contundencia: "media",
   coste: "media"
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
     "Termina con unas gotas de aceite de sésamo, el sésamo y, si quieres, un trozo de nori clavado en el borde. Sírvelo inmediatamente, hirviendo."
   ],
   nutricion: { kcal: 740, prot: 49, hc: 76, grasa: 27 },
-  etiquetas: ["de cuchara", "caldo casero", "invierno", "fin de semana", "alta en proteína"],
+  etiquetas: ["de cuchara", "caldo casero", "invierno", "fin de semana", "alta en proteína", "poco especiada"],
   consejo: "El caldo se puede hacer el día antes (o doblar y congelar): al día siguiente retiras la grasa solidificada de la superficie y el ramen se monta en 15 minutos.",
   contundencia: "contundente",
   coste: "media"
@@ -264,7 +264,7 @@ window.RECETAS_SEED.push({
     "Sirve el gazpacho en boles hondos, reparte el bonito y el picadillo por encima, riega con un hilo de aceite y, si te gusta, una pizca de comino."
   ],
   nutricion: { kcal: 440, prot: 26, hc: 33, grasa: 23 },
-  etiquetas: ["sin cocción", "verano", "frío", "rápida", "de cuchara", "ligera"],
+  etiquetas: ["sin cocción", "verano", "frío", "rápida", "de cuchara", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "Si lo haces con 2 horas de antelación gana cuerpo y frío. Aguanta 3 días en la nevera en una botella cerrada; el picadillo y el bonito, añádelos al servir.",
   contundencia: "ligera",
   coste: "económica"
@@ -308,7 +308,7 @@ window.RECETAS_SEED.push({
     "Sírvela templada, o enfríala 2 horas en la nevera para la versión clásica. Corona cada bol con el salmón, el cebollino y el pan crujiente partido con las manos."
   ],
   nutricion: { kcal: 590, prot: 24, hc: 60, grasa: 28 },
-  etiquetas: ["de cuchara", "verano", "elegante", "batch cooking", "frío"],
+  etiquetas: ["de cuchara", "verano", "elegante", "batch cooking", "frío", "poco especiada"],
   consejo: "Fría espesa más: afloja con un chorrito de leche antes de servir. Guarda la parte verde oscura del puerro para un caldo.",
   contundencia: "media",
   coste: "premium"
@@ -352,7 +352,7 @@ window.RECETAS_SEED.push({
     "Sirve en boles con el pollo templado encima, los dados de pepino, las nueces, unas hojas de menta, ralladura del limón y un hilo del aceite restante."
   ],
   nutricion: { kcal: 440, prot: 40, hc: 18, grasa: 23 },
-  etiquetas: ["frío", "verano", "rápida", "alta en proteína", "de cuchara", "ligera"],
+  etiquetas: ["frío", "verano", "rápida", "alta en proteína", "de cuchara", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "El pollo también queda bien frío: hazlo por la mañana y tendrás una cena montada en 5 minutos.",
   contundencia: "ligera",
   coste: "económica"
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el huevo en el centro, los ramilletes reservados, las avellanas, el cilantro y pimienta recién molida. Rompe la yema al comer."
   ],
   nutricion: { kcal: 400, prot: 17, hc: 20, grasa: 28 },
-  etiquetas: ["al horno", "de cuchara", "ligera", "vegetariana", "invierno"],
+  etiquetas: ["al horno", "de cuchara", "ligera", "vegetariana", "invierno", "keto"],
   consejo: "Si te da respeto escalfar, cuece los huevos 6 minutos y medio desde que hierve el agua y pélalos bajo el grifo: tendrás un huevo mollet con la yema cremosa.",
   contundencia: "ligera",
   coste: "económica"
@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
     "Termina con la cebolleta, el sésamo, unas gotas de aceite de sésamo y el chile en rodajas si lo quieres picante."
   ],
   nutricion: { kcal: 460, prot: 27, hc: 54, grasa: 15 },
-  etiquetas: ["rápida", "de cuchara", "vegana", "ligera", "cena ligera"],
+  etiquetas: ["rápida", "de cuchara", "vegana", "ligera", "cena ligera", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Cambia los soba por fideos udon o incluso por espaguetis finos; y si tienes huevo, uno cocido 7 minutos partido por la mitad la convierte en cena de domingo.",
   contundencia: "ligera",
   coste: "económica"
@@ -577,7 +577,7 @@ window.RECETAS_SEED.push({
     "Reparte los wonton y el pak choi en dos boles, vierte el caldo hirviendo y termina con la parte blanca de las cebolletas en aros, el resto del aceite de sésamo y pimienta blanca."
   ],
   nutricion: { kcal: 610, prot: 42, hc: 52, grasa: 26 },
-  etiquetas: ["de cuchara", "dumplings", "fin de semana", "alta en proteína", "batch cooking"],
+  etiquetas: ["de cuchara", "dumplings", "fin de semana", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Haz el doble de wonton y congélalos crudos en una bandeja separados; luego a una bolsa. Se cuecen directamente del congelador, 6 minutos.",
   contundencia: "media",
   coste: "media"
@@ -622,7 +622,7 @@ window.RECETAS_SEED.push({
     "Apaga, tapa y deja reposar 2 minutos. Prueba de sal y sirve con perejil picado por encima."
   ],
   nutricion: { kcal: 610, prot: 41, hc: 58, grasa: 24 },
-  etiquetas: ["de cuchara", "invierno", "tradicional", "alta en proteína"],
+  etiquetas: ["de cuchara", "invierno", "tradicional", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Si compras la merluza entera, pide que te la limpien y haz el caldo con la cabeza y la espina: 20 minutos con un puerro y una zanahoria, y sale mucho mejor que el de brick.",
   contundencia: "media",
   coste: "media"
@@ -720,7 +720,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y el tomillo, prueba de sal y pimienta y sirve con el bacon crujiente desmenuzado y el cebollino picado por encima."
   ],
   nutricion: { kcal: 630, prot: 49, hc: 62, grasa: 21 },
-  etiquetas: ["de cuchara", "cremosa", "invierno", "alta en proteína", "una sola cazuela"],
+  etiquetas: ["de cuchara", "cremosa", "invierno", "alta en proteína", "una sola cazuela", "poco especiada"],
   consejo: "Si usas maíz congelado no hace falta descongelarlo. Y con unas galletas saladas desmigadas encima tendrás la versión más yanqui.",
   contundencia: "media",
   coste: "media"
@@ -766,7 +766,7 @@ window.RECETAS_SEED.push({
     "Retira el romero, el laurel y la corteza. Prueba de sal y pimienta y sirve con el parmesano rallado por encima y un hilo de aceite."
   ],
   nutricion: { kcal: 610, prot: 31, hc: 80, grasa: 19 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "vegetariana", "económica"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "vegetariana", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si vas a guardar sopa para otro día, cuece la pasta aparte y añádela al servir: en la nevera se hincha y se bebe todo el caldo.",
   contundencia: "media",
   coste: "económica"
@@ -862,7 +862,7 @@ window.RECETAS_SEED.push({
     "Tuesta la pita en una sartén seca o tostadora y córtala en triángulos. Sirve la sopa con una cucharada de yogur, un hilo de aceite, una pizca de comino y la pita al lado."
   ],
   nutricion: { kcal: 460, prot: 24, hc: 68, grasa: 10 },
-  etiquetas: ["de cuchara", "ligera", "económica", "batch cooking", "vegetariana", "especiada"],
+  etiquetas: ["de cuchara", "ligera", "económica", "batch cooking", "vegetariana", "especiada", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Sin el yogur es completamente vegana. Las lentejas rojas no necesitan remojo y espesan al enfriarse: añade agua al recalentar.",
   contundencia: "ligera",
   coste: "económica"
@@ -909,7 +909,7 @@ window.RECETAS_SEED.push({
     "Añade las setas a la cazuela y cuece 5 minutos. Retira el laurel y el tomillo, prueba de sal y pimienta y sirve con perejil picado por encima."
   ],
   nutricion: { kcal: 700, prot: 46, hc: 63, grasa: 29 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "cocción lenta", "alta en proteína"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "cocción lenta", "alta en proteína", "poco especiada"],
   consejo: "Al día siguiente la cebada habrá bebido casi todo el caldo: añade un vaso de agua o caldo al recalentar. Se congela bien en raciones.",
   contundencia: "contundente",
   coste: "media"
@@ -951,7 +951,7 @@ window.RECETAS_SEED.push({
     "Incorpora el pollo desmenuzado, apaga y añade el huevo picado y la hierbabuena en hojas. Sirve muy caliente."
   ],
   nutricion: { kcal: 530, prot: 46, hc: 35, grasa: 22 },
-  etiquetas: ["de cuchara", "caldo casero", "invierno", "tradicional", "fin de semana", "batch cooking"],
+  etiquetas: ["de cuchara", "caldo casero", "invierno", "tradicional", "fin de semana", "batch cooking", "poco especiada"],
   consejo: "Haz el doble de caldo y congela la mitad en tarros: es la base de un arroz caldoso o de cualquier sopa rápida entre semana.",
   contundencia: "media",
   coste: "media"
@@ -992,7 +992,7 @@ window.RECETAS_SEED.push({
     "Añade el pollo desmenuzado, sala y pimienta generosamente. Sirve con el eneldo picado y un hilo de aceite por encima."
   ],
   nutricion: { kcal: 465, prot: 43, hc: 40, grasa: 15 },
-  etiquetas: ["de cuchara", "ligera", "alta en proteína", "sin gluten", "económica"],
+  etiquetas: ["de cuchara", "ligera", "alta en proteína", "sin gluten", "económica", "sin verduras", "poco especiada"],
   consejo: "Si se recalienta a fuego fuerte el huevo se corta: hazlo siempre suave y removiendo. Con orzo en lugar de arroz es igual de auténtica.",
   contundencia: "ligera",
   coste: "económica"
@@ -1035,7 +1035,7 @@ window.RECETAS_SEED.push({
     "Reparte la sopa en dos boles aptos para horno, coloca el pan encima y cubre con el gruyer. Gratina 4-5 minutos, hasta que el queso burbujee y tenga manchas doradas. Sirve con cuidado, que quema."
   ],
   nutricion: { kcal: 700, prot: 24, hc: 77, grasa: 33 },
-  etiquetas: ["de cuchara", "al horno", "invierno", "gratinada", "cocción lenta", "vegetariana"],
+  etiquetas: ["de cuchara", "al horno", "invierno", "gratinada", "cocción lenta", "vegetariana", "poco especiada"],
   consejo: "Puedes caramelizar la cebolla (pasos 1 y 2) el día antes; el resto se monta en media hora. Con caldo de verduras es vegetariana del todo.",
   contundencia: "contundente",
   coste: "media"
@@ -1075,7 +1075,7 @@ window.RECETAS_SEED.push({
     "Sirve cada huevo con su sopa en un plato hondo, con un hilo de aceite crudo y una pizca de pimentón."
   ],
   nutricion: { kcal: 455, prot: 22, hc: 35, grasa: 25 },
-  etiquetas: ["de cuchara", "rápida", "invierno", "tradicional", "económica", "ligera"],
+  etiquetas: ["de cuchara", "rápida", "invierno", "tradicional", "económica", "ligera", "sin verduras"],
   consejo: "El secreto está en un pan de miga densa y en no dejar que el ajo pase de dorado. Si tienes caldo casero del cocido, es su sitio natural.",
   contundencia: "ligera",
   coste: "económica"
@@ -1120,7 +1120,7 @@ window.RECETAS_SEED.push({
     "Reparte los tortellini y el pollo desmenuzado en dos platos hondos, vierte el consomé hirviendo con su juliana y termina con cebollino picado."
   ],
   nutricion: { kcal: 455, prot: 34, hc: 44, grasa: 16 },
-  etiquetas: ["de cuchara", "caldo casero", "elegante", "fin de semana", "ligera", "para invitados"],
+  etiquetas: ["de cuchara", "caldo casero", "elegante", "fin de semana", "ligera", "para invitados", "poco especiada"],
   consejo: "Las yemas que te sobran van perfectas para una mayonesa o una carbonara al día siguiente. El consomé se congela y queda igual de transparente al descongelar.",
   contundencia: "ligera",
   coste: "económica"

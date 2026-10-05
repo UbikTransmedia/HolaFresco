@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "Sírvelas en una fuente, pintadas con el aceite de ajo y perejil, con las patatas y la ensalada."
   ],
   nutricion: { kcal: 855, prot: 40, hc: 50, grasa: 55 },
-  etiquetas: ["tradicional", "saciante", "económica", "fácil", "verano"],
+  etiquetas: ["tradicional", "saciante", "económica", "fácil", "verano", "poco especiada"],
   consejo: "Pide al carnicero la costilla cortada en tiras finas a lo ancho (con la sierra). Al churrasco no le pongas prisa: tiene que quedar tostadito para que la grasa se vuelva crujiente.",
   contundencia: "contundente",
   coste: "económica"
@@ -81,7 +81,7 @@ window.RECETAS_SEED.push({
     "Hornea 15 minutos, hasta que la superficie esté dorada. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 590, prot: 34, hc: 50, grasa: 28 },
-  etiquetas: ["tradicional", "al horno", "fácil", "para niños", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "al horno", "fácil", "para niños", "batch cooking", "invierno", "poco especiada"],
   consejo: "En Argentina muchos le espolvorean una cucharadita de azúcar sobre el puré antes de gratinar: queda una costra caramelizada que contrasta con el relleno salado. Pruébalo.",
   contundencia: "media",
   coste: "media"
@@ -123,7 +123,7 @@ window.RECETAS_SEED.push({
     "Hornea 15-18 minutos, hasta que estén bien doradas. Déjalas reposar 5 minutos: el relleno sale muy caliente."
   ],
   nutricion: { kcal: 770, prot: 32, hc: 70, grasa: 40 },
-  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "ideal para llevar", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "ideal para llevar", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "La carne cortada a cuchillo, en lugar de picada, es el secreto de las empanadas jugosas. Puedes congelarlas crudas y hornearlas directamente, añadiendo 5 minutos.",
   contundencia: "contundente",
   coste: "media"
@@ -167,7 +167,7 @@ window.RECETAS_SEED.push({
     "Gratina 4-5 minutos, hasta que el queso esté fundido y con puntos dorados. Sirve enseguida con el puré."
   ],
   nutricion: { kcal: 800, prot: 50, hc: 60, grasa: 40 },
-  etiquetas: ["tradicional", "saciante", "para niños", "fácil", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "para niños", "fácil", "de domingo", "sin verduras", "poco especiada"],
   consejo: "Pide los filetes de nalga o cadera bien finos. Si quieres adelantar, deja las milanesas empanadas en la nevera separadas con papel: aguantan un día perfectas.",
   contundencia: "contundente",
   coste: "media"
@@ -206,7 +206,7 @@ window.RECETAS_SEED.push({
     "Sirve todo en una fuente con unas gotas de limón por encima."
   ],
   nutricion: { kcal: 565, prot: 38, hc: 40, grasa: 28 },
-  etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "una sola bandeja"],
+  etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "una sola bandeja", "sin verduras", "poco especiada"],
   consejo: "Seca muy bien las alitas con papel de cocina antes de adobarlas: así la piel queda crujiente en vez de cocida. Se comen con las manos, ¡así que servilletas a mano!",
   contundencia: "media",
   coste: "económica"
@@ -245,7 +245,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo sobre las verduras con unas gotas del otro medio limón y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 365, prot: 40, hc: 15, grasa: 16 },
-  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "verano"],
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "El muslo deshuesado aguanta mucho mejor la plancha que la pechuga y queda siempre jugoso. La marinada de limón puede ir por la mañana para tenerlo listo en la cena.",
   contundencia: "ligera",
   coste: "económica"
@@ -285,7 +285,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo cortado en trozos con las papas arrugadas enteras y el mojo picón para mojar."
   ],
   nutricion: { kcal: 540, prot: 40, hc: 45, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "económica", "picante", "para invitados"],
+  etiquetas: ["tradicional", "fácil", "económica", "picante", "para invitados", "sin verduras", "bajo en colesterol"],
   consejo: "Las papas arrugadas se comen con piel; no te asustes por la sal: se queda en la superficie. El mojo picón aguanta una semana en un bote en la nevera y está mejor al día siguiente.",
   contundencia: "media",
   coste: "económica"
@@ -324,7 +324,7 @@ window.RECETAS_SEED.push({
     "Sirve el raxo con su jugo, las patatas fritas y los pimientos, todo junto en la misma fuente como en las tabernas gallegas."
   ],
   nutricion: { kcal: 580, prot: 38, hc: 40, grasa: 30 },
-  etiquetas: ["tradicional", "fácil", "económica", "para compartir", "una sola sartén"],
+  etiquetas: ["tradicional", "fácil", "económica", "para compartir", "una sola sartén", "poco especiada"],
   consejo: "Con pan del país para mojar en el jugo es imprescindible. Si lo adobas desde la víspera, el raxo coge todo el sabor del ajo y el pimentón.",
   contundencia: "media",
   coste: "económica"
@@ -364,7 +364,7 @@ window.RECETAS_SEED.push({
     "Sirve los medallones con los ajos y su salsa por encima y las patatas fritas al lado para mojar."
   ],
   nutricion: { kcal: 565, prot: 38, hc: 40, grasa: 28 },
-  etiquetas: ["tradicional", "rápida", "fácil", "para invitados", "una sola sartén"],
+  etiquetas: ["tradicional", "rápida", "fácil", "para invitados", "una sola sartén", "sin verduras", "poco especiada"],
   consejo: "En Sevilla se toma de tapa con patatas fritas para mojar la salsa. El limón es imprescindible: equilibra el dulzor del whisky. Si no tienes whisky, el brandy también funciona.",
   contundencia: "media",
   coste: "media"
@@ -403,7 +403,7 @@ window.RECETAS_SEED.push({
     "Déjalos reposar 3 minutos sobre una tabla y sírvelos con sal en escamas y pimienta recién molida, las patatas panadera y los pimientos asados."
   ],
   nutricion: { kcal: 535, prot: 40, hc: 40, grasa: 24 },
-  etiquetas: ["tradicional", "para invitados", "de domingo", "al horno"],
+  etiquetas: ["tradicional", "para invitados", "de domingo", "al horno", "poco especiada"],
   consejo: "No pinches el solomillo para saber el punto: presiónalo con el dedo. Si cede como la base del pulgar con la mano relajada, está al punto. Dale siempre unos minutos de reposo.",
   contundencia: "media",
   coste: "premium"
@@ -440,7 +440,7 @@ window.RECETAS_SEED.push({
     "Sirve la carne en una fuente caliente con los piquillos y las patatas fritas."
   ],
   nutricion: { kcal: 875, prot: 55, hc: 40, grasa: 55 },
-  etiquetas: ["tradicional", "para invitados", "de domingo", "saciante", "para compartir"],
+  etiquetas: ["tradicional", "para invitados", "de domingo", "saciante", "para compartir", "poco especiada"],
   consejo: "La sal gruesa siempre al final, nunca antes. Si la cocina se llena de humo, abre la ventana: es buena señal. Si te queda poco hecho al cortarlo, pasa las tiras unos segundos por la sartén caliente.",
   contundencia: "contundente",
   coste: "premium"
@@ -477,7 +477,7 @@ window.RECETAS_SEED.push({
     "Déjala reposar 3 minutos, córtala en tiras gruesas y sírvela con sal en escamas, las patatas al romero y la ensalada de tomate."
   ],
   nutricion: { kcal: 580, prot: 34, hc: 35, grasa: 34 },
-  etiquetas: ["tradicional", "fácil", "para invitados", "al horno", "verano"],
+  etiquetas: ["tradicional", "fácil", "para invitados", "al horno", "verano", "poco especiada"],
   consejo: "La presa ibérica se puede comer al punto, rosada por dentro, sin ningún miedo: es lo que la hace tan jugosa. No la cortes antes de que repose o perderá todo su jugo en la tabla.",
   contundencia: "media",
   coste: "premium"
@@ -518,7 +518,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos, separa la carne del hueso en trozos grandes y sírvela con las manzanas, las castañas, la cebolla y el jugo de la fuente."
   ],
   nutricion: { kcal: 525, prot: 46, hc: 45, grasa: 18 },
-  etiquetas: ["tradicional", "al horno", "fácil", "invierno", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "al horno", "fácil", "invierno", "para invitados", "de domingo", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "El muslo de pavo es barato y queda mucho más jugoso que la pechuga en asados largos: es la forma fácil de tener pavo de Navidad para dos. Si la salsa está líquida, redúcela en un cazo.",
   contundencia: "media",
   coste: "media"
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
     "Sirve la butifarra entera sobre las mongetes con el allioli al lado."
   ],
   nutricion: { kcal: 590, prot: 32, hc: 30, grasa: 38 },
-  etiquetas: ["tradicional", "rápida", "fácil", "invierno"],
+  etiquetas: ["tradicional", "rápida", "fácil", "invierno", "sin verduras", "poco especiada"],
   consejo: "En Cataluña las mongetes se tuestan en la grasa que suelta la butifarra: si quieres, asa la butifarra primero y saltea las judías en esa misma sartén. Las judías del ganxet son las tradicionales.",
   contundencia: "media",
   coste: "media"
@@ -635,7 +635,7 @@ window.RECETAS_SEED.push({
     "Sirve los chorizos en su cazuela con el jugo, las patatas al lado y el pan para mojar."
   ],
   nutricion: { kcal: 770, prot: 30, hc: 50, grasa: 50 },
-  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "invierno", "para compartir"],
+  etiquetas: ["tradicional", "rápida", "fácil", "saciante", "invierno", "para compartir", "sin verduras", "poco especiada"],
   consejo: "Usa sidra natural asturiana, no la dulce con gas: su acidez es la que equilibra la grasa del chorizo. Si te sobra, unos huevos fritos al día siguiente con el jugo están de escándalo.",
   contundencia: "contundente",
   coste: "media"
@@ -676,7 +676,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo templado o a temperatura ambiente con las verduras y un poco de su escabeche por encima."
   ],
   nutricion: { kcal: 425, prot: 36, hc: 12, grasa: 26 },
-  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "verano", "ideal para llevar"],
+  etiquetas: ["tradicional", "fácil", "económica", "batch cooking", "verano", "ideal para llevar", "keto", "poco especiada"],
   consejo: "El escabeche era la forma de conservar la carne antes de las neveras: en un táper bien cubierto de su líquido aguanta 5 días en el frigorífico y cada día está mejor. Con una ensalada de lechuga es una cena perfecta.",
   contundencia: "ligera",
   coste: "económica"
@@ -719,7 +719,7 @@ window.RECETAS_SEED.push({
     "Sirve con el tomate en rodajas aliñado con aceite y sal."
   ],
   nutricion: { kcal: 670, prot: 46, hc: 45, grasa: 34 },
-  etiquetas: ["tradicional", "saciante", "económica", "para niños", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "saciante", "económica", "para niños", "de domingo", "batch cooking", "poco especiada"],
   consejo: "Prepáralas hasta el paso 4 la víspera: con la bechamel bien fría se empanan sin romperse. Un consejo de abuela: añade a la bechamel una cucharada de caldo extra para que quede aún más sabrosa.",
   contundencia: "contundente",
   coste: "económica"
@@ -758,7 +758,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo sobre la escalivada templada."
   ],
   nutricion: { kcal: 415, prot: 34, hc: 20, grasa: 22 },
-  etiquetas: ["tradicional", "fácil", "económica", "ligera", "verano", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "económica", "ligera", "verano", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Haz el doble de escalivada: en la nevera aguanta 4 días cubierta de aceite y sirve para tostadas, ensaladas o como acompañamiento. El jugo que sueltan las verduras al pelarlas, añádelo al aliño.",
   contundencia: "ligera",
   coste: "económica"
@@ -887,7 +887,7 @@ window.RECETAS_SEED.push({
     "Corta el rosbif en lonchas muy finas y sírvelo con las patatas asadas y la salsa caliente por encima."
   ],
   nutricion: { kcal: 540, prot: 46, hc: 40, grasa: 22 },
-  etiquetas: ["tradicional", "al horno", "para invitados", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "para invitados", "de domingo", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Para lonchas finas, corta el rosbif con un cuchillo bien afilado o, si sobra, en frío al día siguiente: es el mejor fiambre para bocadillos. El reposo es imprescindible para que el jugo se reparta.",
   contundencia: "media",
   coste: "premium"
@@ -929,7 +929,7 @@ window.RECETAS_SEED.push({
     "Sirve una montaña de puré con las salchichas encima, la salsa de cebolla por encima y los guisantes al lado."
   ],
   nutricion: { kcal: 770, prot: 30, hc: 55, grasa: 48 },
-  etiquetas: ["tradicional", "saciante", "económica", "fácil", "invierno", "para niños"],
+  etiquetas: ["tradicional", "saciante", "económica", "fácil", "invierno", "para niños", "poco especiada"],
   consejo: "Haz las salchichas a fuego medio y con paciencia: a fuego fuerte revientan y quedan crudas por dentro. Un chorrito de cerveza negra en la salsa de cebolla es lo que le ponen en los pubs.",
   contundencia: "contundente",
   coste: "económica"
@@ -971,7 +971,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre el arroz blanco con unas gotas de limón."
   ],
   nutricion: { kcal: 425, prot: 38, hc: 50, grasa: 8 },
-  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "para niños", "verano"],
+  etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "para niños", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Corta pavo y verduras del mismo tamaño para que todo se haga a la vez. Si las haces en barbacoa, mejor todavía: el humo les da el sabor de las verbenas de verano.",
   contundencia: "ligera",
   coste: "económica"
@@ -1012,7 +1012,7 @@ window.RECETAS_SEED.push({
     "Saca el lomo, córtalo en rodajas finas y sírvelo templado con las patatas y el pan tostado untado con un poco de la manteca colorá."
   ],
   nutricion: { kcal: 715, prot: 44, hc: 40, grasa: 42 },
-  etiquetas: ["tradicional", "saciante", "fácil", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "saciante", "fácil", "batch cooking", "invierno", "sin verduras", "poco especiada"],
   consejo: "Guarda lo que sobre en un tarro cubierto con la propia manteca: así se conserva semanas en la nevera, que es como lo hacían en las matanzas. La manteca colorá sobrante, untada en pan tostado, es un desayuno andaluz de los de siempre.",
   contundencia: "contundente",
   coste: "media"

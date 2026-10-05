@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "Sirve con pimienta recién molida, las hojas de albahaca reservadas y un poco más de ralladura de limón por encima."
   ],
   nutricion: { kcal: 450, prot: 18, hc: 54, grasa: 16 },
-  etiquetas: ["rápida", "ligera", "económica", "verano", "para niños"],
+  etiquetas: ["rápida", "ligera", "económica", "verano", "para niños", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "El agua de cocción es la clave para que el pesto ligue sin añadir más aceite: añádela poco a poco hasta que la salsa deje de verse seca.",
   contundencia: "ligera",
   coste: "económica"
@@ -121,7 +121,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos antes de servir para que la bechamel asiente y se pueda cortar en porciones."
   ],
   nutricion: { kcal: 800, prot: 35, hc: 81, grasa: 37 },
-  etiquetas: ["al horno", "para niños", "invierno", "batch cooking"],
+  etiquetas: ["al horno", "para niños", "invierno", "batch cooking", "poco especiada"],
   consejo: "Cocer la coliflor con la pasta ahorra una cazuela y la deja con el punto justo; si la prefieres más dorada, ásala 15 minutos a 220 °C antes de mezclar.",
   contundencia: "contundente",
   coste: "media"
@@ -166,7 +166,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos fuera del horno antes de cortar: así las capas se asientan y las porciones salen enteras."
   ],
   nutricion: { kcal: 790, prot: 47, hc: 65, grasa: 37 },
-  etiquetas: ["al horno", "vegetariana", "batch cooking", "invierno", "alta en proteína"],
+  etiquetas: ["al horno", "vegetariana", "batch cooking", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Si tus placas no son precocidas, remójalas 10 minutos en agua caliente antes de montar y añade 100 ml de agua a la salsa.",
   contundencia: "contundente",
   coste: "media"
@@ -208,7 +208,7 @@ window.RECETAS_SEED.push({
     "Saltea 1 minuto con suavidad para que se impregnen, reparte en platos y termina con el parmesano rallado, el resto de la albahaca y pimienta."
   ],
   nutricion: { kcal: 640, prot: 21, hc: 96, grasa: 18 },
-  etiquetas: ["pasta fresca", "económica", "vegetariana", "fin de semana", "para niños"],
+  etiquetas: ["pasta fresca", "económica", "vegetariana", "fin de semana", "para niños", "sin verduras", "poco especiada"],
   consejo: "Los gnocchi crudos se congelan muy bien en la bandeja; luego pásalos a una bolsa y cuécelos directamente sin descongelar, 1 minuto más.",
   contundencia: "media",
   coste: "económica"
@@ -254,7 +254,7 @@ window.RECETAS_SEED.push({
     "Reparte las gambas por encima y mete la paella bajo el grill 3-4 minutos: los fideos se ponen de punta y las gambas se hacen justo. Deja reposar 3 minutos, espolvorea perejil picado y sirve con limón y el alioli."
   ],
   nutricion: { kcal: 720, prot: 50, hc: 63, grasa: 30 },
-  etiquetas: ["marisco", "fin de semana", "al horno", "una sola sartén"],
+  etiquetas: ["marisco", "fin de semana", "al horno", "una sola sartén", "poco especiada"],
   consejo: "Si tu sartén no puede ir al horno, termina en el fuego: tapa 2 minutos con las gambas encima y luego destapa a fuego fuerte 1 minuto para que se forme el socarrat.",
   contundencia: "contundente",
   coste: "premium"
@@ -341,7 +341,7 @@ window.RECETAS_SEED.push({
     "Sirve con los dados de calabaza, el resto del queso de cabra, las semillas tostadas y las hojas de salvia restantes fritas 20 segundos en una cucharadita de aceite muy caliente hasta que queden crujientes."
   ],
   nutricion: { kcal: 610, prot: 22, hc: 79, grasa: 23 },
-  etiquetas: ["vegetariana", "invierno", "otoño", "de cuchara"],
+  etiquetas: ["vegetariana", "invierno", "otoño", "de cuchara", "poco especiada"],
   consejo: "No laves el arroz y no dejes de remover al final: el almidón que suelta es lo que da la cremosidad sin necesidad de nata.",
   contundencia: "media",
   coste: "media"
@@ -389,7 +389,7 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús en la base, encima el pollo, los garbanzos y las verduras con sus jugos, el resto de la menta y el yogur al lado."
   ],
   nutricion: { kcal: 640, prot: 40, hc: 75, grasa: 22 },
-  etiquetas: ["al horno", "alta en proteína", "una bandeja", "ideal para llevar", "batch cooking"],
+  etiquetas: ["al horno", "alta en proteína", "una bandeja", "ideal para llevar", "batch cooking", "bajo en colesterol"],
   consejo: "El cuscús queda más suelto si lo hidratas con la cantidad justa de líquido (1,5 veces su volumen) y lo dejas tapado sin tocarlo los 5 minutos completos.",
   contundencia: "media",
   coste: "económica"
@@ -477,7 +477,7 @@ window.RECETAS_SEED.push({
     "Añade la rúcula justo antes de servir para que no se ablande. Si la preparas con antelación, guarda el aliño aparte y mézclalo al final."
   ],
   nutricion: { kcal: 440, prot: 24, hc: 50, grasa: 16 },
-  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "económica", "pasta fría"],
+  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "económica", "pasta fría", "poco especiada", "bajo en colesterol"],
   consejo: "El orzo frío absorbe aliño: guarda un chorrito más de limón y aceite para refrescarlo si lo sirves al día siguiente.",
   contundencia: "ligera",
   coste: "económica"
@@ -522,7 +522,7 @@ window.RECETAS_SEED.push({
     "Apaga, deja reposar 2 minutos y sirve enseguida en platos hondos con perejil picado. El caldoso no espera: el arroz sigue absorbiendo líquido."
   ],
   nutricion: { kcal: 630, prot: 36, hc: 72, grasa: 23 },
-  etiquetas: ["de cuchara", "invierno", "primavera", "fin de semana"],
+  etiquetas: ["de cuchara", "invierno", "primavera", "fin de semana", "poco especiada", "bajo en colesterol"],
   consejo: "Fuera de temporada puedes usar corazones de alcachofa congelados: añádelos directamente con el arroz, sin descongelar.",
   contundencia: "media",
   coste: "media"
@@ -569,7 +569,7 @@ window.RECETAS_SEED.push({
     "Hornea 20 minutos y gratina 2-3 minutos más hasta que estén dorados. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 780, prot: 54, hc: 67, grasa: 33 },
-  etiquetas: ["al horno", "batch cooking", "para niños", "invierno", "alta en proteína"],
+  etiquetas: ["al horno", "batch cooking", "para niños", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Los canelones montados (sin hornear) se congelan muy bien con su bechamel. Hornéalos directamente desde congelado 40 minutos a 180 °C tapados y 10 destapados.",
   contundencia: "contundente",
   coste: "media"
@@ -660,7 +660,7 @@ window.RECETAS_SEED.push({
     "Añade la pasta y los guisantes a la sartén fuera del fuego, vierte la salsa de yogur y remueve 1 minuto con un poco más de agua de cocción si hace falta. Sirve con el resto del eneldo y pimienta."
   ],
   nutricion: { kcal: 640, prot: 42, hc: 65, grasa: 24 },
-  etiquetas: ["rápida", "alta en proteína", "primavera", "sin nata"],
+  etiquetas: ["rápida", "alta en proteína", "primavera", "sin nata", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa de yogur se añade siempre con la sartén apagada: si hierve, se corta y pierde la cremosidad.",
   contundencia: "media",
   coste: "premium"
@@ -704,7 +704,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls: quinoa en la base, brócoli, zanahoria y tofu encima, salsa de cacahuete por encima, sésamo y cilantro picado para terminar."
   ],
   nutricion: { kcal: 470, prot: 27, hc: 49, grasa: 20 },
-  etiquetas: ["ligera", "vegana", "al horno", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["ligera", "vegana", "al horno", "ideal para llevar", "alta en proteína", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "La salsa espesa al enfriarse: si la preparas con antelación, aclárala con una cucharada de agua caliente antes de servir.",
   contundencia: "ligera",
   coste: "económica"
@@ -747,7 +747,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos fuera del horno. Cada comensal aplasta unos dientes de ajo confitado sobre su arroz."
   ],
   nutricion: { kcal: 920, prot: 39, hc: 94, grasa: 43 },
-  etiquetas: ["al horno", "tradicional", "invierno", "fin de semana", "de aprovechamiento"],
+  etiquetas: ["al horno", "tradicional", "invierno", "fin de semana", "de aprovechamiento", "poco especiada"],
   consejo: "Es el plato del día después del cocido: si tienes caldo y garbanzos de un puchero, úsalos y el arroz sabrá el doble.",
   contundencia: "contundente",
   coste: "económica"
@@ -791,7 +791,7 @@ window.RECETAS_SEED.push({
     "Sirve la polenta en platos hondos, encima el ragú de setas con su jugo, el huevo escalfado, perejil picado y pimienta recién molida."
   ],
   nutricion: { kcal: 475, prot: 22, hc: 59, grasa: 17 },
-  etiquetas: ["vegetariana", "ligera", "otoño", "de cuchara", "sin gluten"],
+  etiquetas: ["vegetariana", "ligera", "otoño", "de cuchara", "sin gluten", "poco especiada"],
   consejo: "Si la polenta espesa demasiado antes de servir, aflójala con un chorrito de caldo caliente y bate: recupera la cremosidad al instante.",
   contundencia: "ligera",
   coste: "media"
@@ -975,7 +975,7 @@ window.RECETAS_SEED.push({
     "Incorpora los cherry, la mozzarella y el resto de la albahaca troceada. Añade la rúcula justo antes de servir y termina con pimienta."
   ],
   nutricion: { kcal: 465, prot: 21, hc: 59, grasa: 16 },
-  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "vegetariana", "pasta fría", "económica"],
+  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "vegetariana", "pasta fría", "económica", "poco especiada"],
   consejo: "El agua de cocción con almidón hace que el pesto se adhiera a la pasta sin tener que añadir más aceite: por eso esta ensalada queda ligera.",
   contundencia: "ligera",
   coste: "económica"
@@ -1020,7 +1020,7 @@ window.RECETAS_SEED.push({
     "Apaga, cubre con un paño limpio y deja reposar 4 minutos. Sirve con perejil picado, gajos de limón y el alioli."
   ],
   nutricion: { kcal: 590, prot: 35, hc: 68, grasa: 20 },
-  etiquetas: ["marisco", "tradicional", "fin de semana", "una sola sartén"],
+  etiquetas: ["marisco", "tradicional", "fin de semana", "una sola sartén", "poco especiada"],
   consejo: "Si compras la sepia entera, pide que te guarden su bolsa de tinta: con ella y un solo sobre el arroz queda más sabroso y de un negro brillante.",
   contundencia: "media",
   coste: "premium"
@@ -1065,7 +1065,7 @@ window.RECETAS_SEED.push({
     "Monta los bowls: lechuga y fideos en la base, encima la zanahoria, el pepino, el pollo y las hierbas. Riega con el nuoc cham y termina con los cacahuetes."
   ],
   nutricion: { kcal: 470, prot: 36, hc: 63, grasa: 9 },
-  etiquetas: ["ligera", "verano", "alta en proteína", "sin gluten", "a la plancha"],
+  etiquetas: ["ligera", "verano", "alta en proteína", "sin gluten", "a la plancha", "bajo en colesterol"],
   consejo: "Prueba el nuoc cham antes de servir y ajústalo: si pica mucho, añade agua; si está plano, más lima. Es la salsa la que hace el plato.",
   contundencia: "ligera",
   coste: "económica"

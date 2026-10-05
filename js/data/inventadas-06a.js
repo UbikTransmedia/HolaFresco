@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu crujiente de maicena con pak choi al ajo y salsa de cacahuete",
   subtitulo: "dados dorados en sartén con lima, chile y sésamo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   contundencia: "ligera",
   coste: "económica",
@@ -52,7 +52,7 @@ window.RECETAS_SEED.push({
   nombre: "Coliflor entera asada a la harissa con salsa de tahini, garbanzos y granada",
   subtitulo: "la pieza se asa entera y se trincha en la mesa",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   contundencia: "ligera",
   coste: "económica",
@@ -86,7 +86,7 @@ window.RECETAS_SEED.push({
     "Desgrana la granada y pica el perejil. Lleva la coliflor a la mesa, riega con la salsa de tahini, reparte los garbanzos tostados, la granada y el perejil y córtala en cuartos para servir."
   ],
   nutricion: { kcal: 455, prot: 17, hc: 38, grasa: 26 },
-  etiquetas: ["al horno", "ligera", "para compartir", "picante", "económica"],
+  etiquetas: ["al horno", "ligera", "para compartir", "picante", "económica", "detox", "superalimentos"],
   consejo: "Si tu harissa es muy picante, sustituye la mitad por tomate concentrado: mantiene el color y suaviza el fuego."
 });
 
@@ -95,7 +95,7 @@ window.RECETAS_SEED.push({
   nombre: "Hamburguesas de alubias negras y boniato con mayonesa vegetal de chipotle",
   subtitulo: "con aguacate, tomate y cebolla morada en pan tostado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "americana",
   contundencia: "contundente",
   coste: "económica",
@@ -144,7 +144,7 @@ window.RECETAS_SEED.push({
   nombre: "Curry de coco con garbanzos, calabaza y espinacas",
   subtitulo: "con arroz basmati, lima y cilantro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "india",
   contundencia: "media",
   coste: "económica",
@@ -190,7 +190,7 @@ window.RECETAS_SEED.push({
   nombre: "Tempeh glaseado al tamarindo con arroz jazmín y pepino encurtido",
   subtitulo: "marinado largo, cacahuetes tostados y cilantro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "sudeste-asiático",
   contundencia: "media",
   coste: "media",
@@ -229,7 +229,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz con el tempeh glaseado, el pepino escurrido, los cacahuetes, la cebolleta y el chile en aros, el cilantro y la otra media lima."
   ],
   nutricion: { kcal: 620, prot: 28, hc: 72, grasa: 24 },
-  etiquetas: ["marinado", "alta en proteína", "ideal para llevar", "agridulce"],
+  etiquetas: ["marinado", "alta en proteína", "ideal para llevar", "agridulce", "bajo en colesterol"],
   consejo: "El hervido previo del tempeh es el truco que lo cambia todo: queda jugoso y nada amargo. La marinada sirve también para tofu o seitán."
 });
 
@@ -238,7 +238,7 @@ window.RECETAS_SEED.push({
   nombre: "Revuelto de tofu a la cúrcuma con champiñones y espinacas sobre tostadas",
   subtitulo: "con sal negra kala namak, cebollino y aguacate chafado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "fusión",
   contundencia: "ligera",
   coste: "económica",
@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan, chafa el aguacate con una pizca de sal sobre cada rebanada y reparte el revuelto encima. Termina con lo verde de la cebolleta y el cebollino picado."
   ],
   nutricion: { kcal: 432, prot: 28, hc: 26, grasa: 24 },
-  etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "económica", "brunch"],
+  etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "económica", "brunch", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La sal negra kala namak pierde aroma con el calor: añádela siempre fuera del fuego. Se encuentra en tiendas indias y herbolarios y dura años."
 });
 
@@ -283,7 +283,7 @@ window.RECETAS_SEED.push({
   nombre: "Seitán a la plancha con chimichurri y boniato asado al pimentón",
   subtitulo: "con ensalada de tomate y cebolla morada",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "latinoamericana",
   contundencia: "media",
   coste: "media",
@@ -318,7 +318,7 @@ window.RECETAS_SEED.push({
     "Sirve el seitán con los gajos de boniato, cubre con chimichurri generoso y acompaña con la ensalada de tomate."
   ],
   nutricion: { kcal: 573, prot: 35, hc: 52, grasa: 25 },
-  etiquetas: ["al horno", "a la plancha", "alta en proteína", "verano", "barbacoa"],
+  etiquetas: ["al horno", "a la plancha", "alta en proteína", "verano", "barbacoa", "bajo en colesterol"],
   consejo: "El chimichurri gana mucho de un día para otro: haz el doble y guárdalo en un tarro cubierto de aceite; aguanta una semana en la nevera y sirve para cualquier verdura asada."
 });
 
@@ -327,7 +327,7 @@ window.RECETAS_SEED.push({
   nombre: "Gyozas caseras de shiitake, col y tofu con salsa de soja, vinagre y chile",
   subtitulo: "masa hecha a mano, base crujiente y vapor en la misma sartén",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   contundencia: "media",
   coste: "media",
@@ -367,7 +367,7 @@ window.RECETAS_SEED.push({
     "Sirve las gyozas recién hechas, con la base dorada hacia arriba, y la salsa para mojar."
   ],
   nutricion: { kcal: 550, prot: 26, hc: 67, grasa: 20 },
-  etiquetas: ["para compartir", "batch cooking", "alta en proteína", "fin de semana"],
+  etiquetas: ["para compartir", "batch cooking", "alta en proteína", "fin de semana", "verduras escondidas", "bajo en colesterol"],
   consejo: "Se congelan crudas en una bandeja separadas entre sí y después en bolsa. Se cocinan directamente del congelador igual que frescas, añadiendo 2 minutos a la fase de vapor."
 });
 
@@ -376,7 +376,7 @@ window.RECETAS_SEED.push({
   nombre: "Calabaza asada rellena de lentejas, quinoa, kale y nueces con salsa de arce y mostaza",
   subtitulo: "medias calabazas gratinadas con arándanos y tomillo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "fusión",
   contundencia: "contundente",
   coste: "media",
@@ -414,7 +414,7 @@ window.RECETAS_SEED.push({
     "Vuelve a hornear 15 minutos hasta que la superficie esté tostada. Sirve cada mitad con el resto de la salsa de arce y mostaza por encima y el tomillo restante."
   ],
   nutricion: { kcal: 729, prot: 22, hc: 95, grasa: 29 },
-  etiquetas: ["al horno", "invierno", "batch cooking", "para compartir", "otoño"],
+  etiquetas: ["al horno", "invierno", "batch cooking", "para compartir", "otoño", "superalimentos", "poco especiada"],
   consejo: "Puedes asar la calabaza y preparar el relleno la víspera; al día siguiente solo tienes que rellenar y gratinar 20 minutos. Si la calabaza es muy grande, sobrará relleno: está buenísimo frío como ensalada."
 });
 
@@ -423,7 +423,7 @@ window.RECETAS_SEED.push({
   nombre: "Wok de heura con brócoli, pimiento y anacardos en salsa hoisin",
   subtitulo: "salteado en 8 minutos, brócoli al dente y jengibre",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   contundencia: "ligera",
   coste: "media",
@@ -460,7 +460,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el aceite de sésamo y sirve con lo verde de la cebolleta, el sésamo y el chile en aros."
   ],
   nutricion: { kcal: 468, prot: 30, hc: 33, grasa: 24 },
-  etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "wok"],
+  etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "wok", "superalimentos", "bajo en colesterol"],
   consejo: "En un wok todo va muy rápido: ten los ingredientes cortados y la salsa mezclada antes de encender el fuego. Si quieres un plato más completo, sírvelo sobre 60 g de arroz jazmín por persona."
 });
 
@@ -469,7 +469,7 @@ window.RECETAS_SEED.push({
   nombre: "Albóndigas de lentejas y nueces en salsa de tomate con puré de patata",
   subtitulo: "horneadas antes de guisar para que no se deshagan",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "española",
   contundencia: "contundente",
   coste: "económica",
@@ -510,7 +510,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré en la base, las albóndigas con su salsa encima y perejil picado."
   ],
   nutricion: { kcal: 734, prot: 24, hc: 92, grasa: 30 },
-  etiquetas: ["de cuchara", "económica", "batch cooking", "para niños", "invierno"],
+  etiquetas: ["de cuchara", "económica", "batch cooking", "para niños", "invierno", "superalimentos", "poco especiada"],
   consejo: "El paso por el horno es el que evita que las albóndigas se deshagan en la salsa. Las puedes hornear con antelación y congelar; luego solo hay que calentarlas 10 minutos en la salsa."
 });
 
@@ -519,7 +519,7 @@ window.RECETAS_SEED.push({
   nombre: "Tacos de setas al pastor con piña dorada, frijoles y cebolla morada",
   subtitulo: "setas marinadas en achiote y chipotle como la carne al pastor",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   contundencia: "ligera",
   coste: "económica",
@@ -557,7 +557,7 @@ window.RECETAS_SEED.push({
     "Monta cada taco con una cucharada de frijoles, setas, piña, cebolla morada en aros finos, cilantro y un chorro de lima."
   ],
   nutricion: { kcal: 468, prot: 20, hc: 70, grasa: 12 },
-  etiquetas: ["ligera", "picante", "económica", "verano", "para compartir"],
+  etiquetas: ["ligera", "picante", "económica", "verano", "para compartir", "bajo en colesterol"],
   consejo: "No amontones las setas en la sartén: si se cuecen en su propio jugo no se doran. Dos tandas a fuego fuerte es la diferencia entre unas setas blandas y unas que saben a brasa."
 });
 
@@ -566,7 +566,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu agridulce con piña, pimientos y cebolla al estilo cantonés",
   subtitulo: "dados crujientes de maicena, salsa brillante y arroz jazmín",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   contundencia: "media",
   coste: "económica",
@@ -606,7 +606,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz con la cebolleta en aros y el sésamo."
   ],
   nutricion: { kcal: 630, prot: 25, hc: 83, grasa: 22 },
-  etiquetas: ["rápida", "para niños", "económica", "agridulce", "wok"],
+  etiquetas: ["rápida", "para niños", "económica", "agridulce", "wok", "poco especiada", "bajo en colesterol"],
   consejo: "Apaga el fuego en cuanto la salsa nape la cuchara: si la dejas hervir de más la maicena la vuelve pastosa. Si te gusta más ácida, añade otra cucharada de vinagre al final."
 });
 
@@ -615,7 +615,7 @@ window.RECETAS_SEED.push({
   nombre: "Patatas asadas rellenas de chili de alubias rojas con queso vegetal gratinado",
   subtitulo: "con crema de yogur vegetal a la lima y cebollino",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "americana",
   contundencia: "contundente",
   coste: "económica",
@@ -655,7 +655,7 @@ window.RECETAS_SEED.push({
     "Sirve las patatas con una cucharada de yogur a la lima, el cebollino picado y gajos de la otra media lima."
   ],
   nutricion: { kcal: 763, prot: 26, hc: 113, grasa: 23 },
-  etiquetas: ["al horno", "contundente", "económica", "batch cooking", "invierno", "para niños"],
+  etiquetas: ["al horno", "contundente", "económica", "batch cooking", "invierno", "para niños", "bajo en colesterol"],
   consejo: "El chili es el mismo que servirías con arroz: haz el doble y congela la mitad. Si tienes prisa, puedes cocer las patatas 8 minutos en el microondas antes de asarlas y acortar el horno a 30 minutos."
 });
 
@@ -664,7 +664,7 @@ window.RECETAS_SEED.push({
   nombre: "Tempura de verduras y tofu al horno con salsa ponzu y ensalada de col al sésamo",
   subtitulo: "rebozado de garbanzo y panko, sin freír",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "asiática",
   contundencia: "media",
   coste: "media",
@@ -705,7 +705,7 @@ window.RECETAS_SEED.push({
     "Sirve la tempura recién salida del horno con el ponzu para mojar y la ensalada de col al lado."
   ],
   nutricion: { kcal: 573, prot: 28, hc: 68, grasa: 21 },
-  etiquetas: ["al horno", "crujiente", "para compartir", "alta en proteína"],
+  etiquetas: ["al horno", "crujiente", "para compartir", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El agua con gas muy fría y no remover de más es lo que hace que el rebozado cruja: los grumos son buenos. Si no tienes harina de garbanzo, usa harina de trigo y una pizca de levadura química."
 });
 
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
   nombre: "Bowl de garbanzos crujientes al curry con col lombarda, edamame y aliño de miso y jengibre",
   subtitulo: "zanahoria encurtida rápida, aguacate y cilantro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "ensaladas",
   cocina: "fusión",
   contundencia: "ligera",
   coste: "económica",
@@ -752,7 +752,7 @@ window.RECETAS_SEED.push({
     "Riega con el aliño y termina con el sésamo y el cilantro picado."
   ],
   nutricion: { kcal: 444, prot: 23, hc: 43, grasa: 20 },
-  etiquetas: ["rápida", "ligera", "ideal para llevar", "económica", "sin horno", "verano"],
+  etiquetas: ["rápida", "ligera", "ideal para llevar", "económica", "sin horno", "verano", "superalimentos", "bajo en colesterol"],
   consejo: "Los garbanzos solo crujen si están muy secos y no los llenas de especias desde el principio: el curry se añade al final para que no se queme. Para llevar, guarda el aliño aparte."
 });
 
@@ -761,7 +761,7 @@ window.RECETAS_SEED.push({
   nombre: "Heura al ajillo con patatas panadera y pimientos del piquillo",
   subtitulo: "ajos laminados, guindilla y un golpe de vino blanco",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "española",
   contundencia: "media",
   coste: "media",
@@ -806,7 +806,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu tikka masala con arroz basmati y cilantro",
   subtitulo: "tofu marinado en yogur vegetal y especias, chamuscado al horno",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "india",
   contundencia: "media",
   coste: "económica",
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
   nombre: "Strogonoff de seitán y champiñones con nata vegetal y puré de patata",
   subtitulo: "con pimentón, mostaza y pepinillos",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "eslava",
   contundencia: "contundente",
   coste: "media",
@@ -898,7 +898,7 @@ window.RECETAS_SEED.push({
     "Sirve el strogonoff sobre el puré con los pepinillos en rodajitas y el perejil picado por encima."
   ],
   nutricion: { kcal: 723, prot: 41, hc: 70, grasa: 31 },
-  etiquetas: ["contundente", "alta en proteína", "invierno", "rápida", "reconfortante"],
+  etiquetas: ["contundente", "alta en proteína", "invierno", "rápida", "reconfortante", "poco especiada"],
   consejo: "Añade el pimentón cuando la cebolla ya esté jugosa, nunca sobre aceite muy caliente, para que no amargue. Con pasta de huevo vegana o arroz también funciona si no quieres hacer puré."
 });
 
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
   nombre: "Burrito de alubias negras, arroz a la lima, pico de gallo y guacamole",
   subtitulo: "enrollado y sellado en la sartén, perfecto para llevar",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "latinoamericana",
   contundencia: "contundente",
   coste: "económica",
@@ -957,7 +957,7 @@ window.RECETAS_SEED.push({
   nombre: "Portobellos a la plancha con puré de alubias blancas al romero y aceite de trufa",
   subtitulo: "con rúcula al balsámico y pan tostado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "mediterránea",
   contundencia: "ligera",
   coste: "premium",
@@ -991,7 +991,7 @@ window.RECETAS_SEED.push({
     "Extiende el puré en los platos, coloca encima los portobellos con sus jugos, riega con el aceite de trufa en crudo y acompaña con la rúcula y el pan tostado."
   ],
   nutricion: { kcal: 452, prot: 22, hc: 55, grasa: 16 },
-  etiquetas: ["rápida", "ligera", "a la plancha", "elegante", "cena"],
+  etiquetas: ["rápida", "ligera", "a la plancha", "elegante", "cena", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El aceite de trufa va siempre en crudo y al final: con calor pierde todo el aroma. Si no te convence la trufa, sustitúyelo por un buen aceite virgen extra y ralladura de limón."
 });
 
@@ -1000,7 +1000,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu ahumado a la plancha con alcachofas, espárragos trigueros y romesco",
   subtitulo: "salsa de pimiento asado, tomate, almendras y avellanas",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "española",
   contundencia: "media",
   coste: "premium",
@@ -1038,7 +1038,7 @@ window.RECETAS_SEED.push({
     "Sirve el tofu con las verduras, romesco generoso, pimienta, ralladura del limón restante y el pan tostado."
   ],
   nutricion: { kcal: 614, prot: 33, hc: 35, grasa: 38 },
-  etiquetas: ["a la plancha", "alta en proteína", "primavera", "fin de semana"],
+  etiquetas: ["a la plancha", "alta en proteína", "primavera", "fin de semana", "poco especiada"],
   consejo: "El romesco se conserva una semana en la nevera y mejora con los días: sirve para cualquier verdura asada, para calçots o para untar en pan. Fuera de temporada, usa alcachofas en conserva y sáltate el paso de cocerlas."
 });
 
@@ -1047,7 +1047,7 @@ window.RECETAS_SEED.push({
   nombre: "Koftas de seitán y pistachos con melaza de granada y ensalada de hierbas",
   subtitulo: "con salsa de yogur vegetal al limón y pita tostada",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "oriente-medio",
   contundencia: "media",
   coste: "premium",
@@ -1091,7 +1091,7 @@ window.RECETAS_SEED.push({
     "Sirve las koftas con la ensalada, la salsa de yogur, un hilo de la melaza restante y la pita tostada."
   ],
   nutricion: { kcal: 612, prot: 39, hc: 60, grasa: 24 },
-  etiquetas: ["alta en proteína", "a la plancha", "para compartir", "verano"],
+  etiquetas: ["alta en proteína", "a la plancha", "para compartir", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "La melaza de granada se vende en tiendas de alimentación árabe; si no la encuentras, reduce 100 ml de zumo de granada con una cucharadita de azúcar hasta que quede como un sirope."
 });
 
@@ -1100,7 +1100,7 @@ window.RECETAS_SEED.push({
   nombre: "Tagine de garbanzos, calabaza y orejones con azafrán y almendras sobre cuscús",
   subtitulo: "aceitunas verdes, limón y cilantro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "oriente-medio",
   contundencia: "contundente",
   coste: "premium",
@@ -1144,7 +1144,7 @@ window.RECETAS_SEED.push({
     "Añade al tagine el zumo de medio limón y la ralladura, salpimienta y sírvelo sobre el cuscús con las almendras, el cilantro picado y gajos del limón restante."
   ],
   nutricion: { kcal: 699, prot: 25, hc: 98, grasa: 23 },
-  etiquetas: ["de cuchara", "batch cooking", "invierno", "una sola cazuela", "agridulce"],
+  etiquetas: ["de cuchara", "batch cooking", "invierno", "una sola cazuela", "agridulce", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si encuentras limón encurtido, pica medio y añádelo con los garbanzos en lugar del zumo: es el sabor auténtico de un tagine marroquí. El guiso congela perfectamente; el cuscús hazlo siempre al momento."
 });
 
@@ -1153,7 +1153,7 @@ window.RECETAS_SEED.push({
   nombre: "Bourguignon vegano de seitán con setas, cebollitas y zanahoria al vino tinto",
   subtitulo: "estofado lento con tomillo, laurel y patatas al perejil",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "europea",
   contundencia: "contundente",
   coste: "media",
@@ -1195,6 +1195,6 @@ window.RECETAS_SEED.push({
     "Sirve el bourguignon con las patatas y el resto del perejil."
   ],
   nutricion: { kcal: 718, prot: 48, hc: 82, grasa: 22 },
-  etiquetas: ["de cuchara", "contundente", "invierno", "batch cooking", "fin de semana", "alta en proteína"],
+  etiquetas: ["de cuchara", "contundente", "invierno", "batch cooking", "fin de semana", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Como todos los estofados, está mejor al día siguiente. Usa un vino que te beberías: la mitad del sabor del plato viene de ahí. El pimentón ahumado sustituye al toque del bacon del original."
 });

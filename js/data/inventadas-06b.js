@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Ensalada tibia de tempeh crujiente al pimentón con judías verdes y patata",
   subtitulo: "vinagreta de mostaza, cherry y cebolla morada",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "ensaladas",
   cocina: "española",
   contundencia: "ligera",
   coste: "media",
@@ -44,7 +44,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos, corona con el tempeh crujiente y el perejil picado."
   ],
   nutricion: { kcal: 473, prot: 25, hc: 46, grasa: 21 },
-  etiquetas: ["rápida", "ligera", "ideal para llevar", "alta en proteína", "verano"],
+  etiquetas: ["rápida", "ligera", "ideal para llevar", "alta en proteína", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Aliña la patata y las judías cuando aún queman: absorben la vinagreta mucho mejor. Para llevar al trabajo está igual de buena fría."
 });
 
@@ -53,7 +53,7 @@ window.RECETAS_SEED.push({
   nombre: "Pad krapao vegano de tofu desmenuzado con judías verdes, albahaca y chile",
   subtitulo: "salteado tailandés picante con un poco de arroz jazmín",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "sudeste-asiático",
   contundencia: "ligera",
   coste: "económica",
@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade la albahaca a puñados y remueve hasta que se marchite. Exprime media lima, pon pimienta y sirve con el arroz y la otra media lima en gajos."
   ],
   nutricion: { kcal: 458, prot: 26, hc: 39, grasa: 22 },
-  etiquetas: ["rápida", "picante", "ligera", "wok", "económica", "alta en proteína"],
+  etiquetas: ["rápida", "picante", "ligera", "wok", "económica", "alta en proteína", "bajo en colesterol"],
   consejo: "La albahaca va fuera del fuego y en cantidad: es la protagonista del plato. Si encuentras albahaca tailandesa, con su punto anisado, el salteado cambia por completo."
 });
 
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
   nombre: "Espinacas con garbanzos a la sevillana con majado de pan, comino y pimentón",
   subtitulo: "con pan tostado frotado con ajo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "española",
   contundencia: "ligera",
   coste: "económica",
@@ -129,7 +129,7 @@ window.RECETAS_SEED.push({
     "Sirve las espinacas con garbanzos bien calientes con el pan al lado."
   ],
   nutricion: { kcal: 466, prot: 22, hc: 54, grasa: 18 },
-  etiquetas: ["rápida", "económica", "ligera", "tradicional", "una sola sartén", "cuaresma"],
+  etiquetas: ["rápida", "económica", "ligera", "tradicional", "una sola sartén", "cuaresma", "superalimentos", "bajo en colesterol"],
   consejo: "El toque de vinagre al final es lo que define este plato: pruébalo y añade un chorrito más si lo notas plano. Con espinacas congeladas (300 g, bien escurridas) sale igual de bueno."
 });
 
@@ -138,7 +138,7 @@ window.RECETAS_SEED.push({
   nombre: "Hummus caliente de alubias blancas con setas salteadas al tomillo y pita",
   subtitulo: "con semillas de calabaza tostadas y pimentón ahumado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "oriente-medio",
   contundencia: "media",
   coste: "económica",
@@ -174,7 +174,7 @@ window.RECETAS_SEED.push({
     "Termina con la ½ cda de aceite restante, el pimentón, las semillas y el perejil picado. Sirve con la pita cortada en triángulos para mojar."
   ],
   nutricion: { kcal: 625, prot: 29, hc: 71, grasa: 25 },
-  etiquetas: ["rápida", "para compartir", "económica", "alta en proteína", "sin horno"],
+  etiquetas: ["rápida", "para compartir", "económica", "alta en proteína", "sin horno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Triturar las alubias calientes da un hummus mucho más sedoso que el frío. Si queda espeso, añade agua caliente a cucharadas con la batidora en marcha hasta que caiga de la cuchara."
 });
 
@@ -183,7 +183,7 @@ window.RECETAS_SEED.push({
   nombre: "Ensalada tibia de lentejas con remolacha, naranja, nueces y yogur vegetal al eneldo",
   subtitulo: "sobre canónigos, con cebolla morada y comino",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "ensaladas",
   cocina: "europea",
   contundencia: "ligera",
   coste: "media",
@@ -219,7 +219,7 @@ window.RECETAS_SEED.push({
     "Monta los platos: canónigos, lentejas tibias, remolacha, gajos de naranja, cebolla escurrida y nueces troceadas. Riega con la vinagreta, añade cucharadas del yogur al eneldo y el resto del eneldo por encima."
   ],
   nutricion: { kcal: 459, prot: 22, hc: 50, grasa: 19 },
-  etiquetas: ["rápida", "ligera", "sin cocción", "ideal para llevar", "económica", "otoño"],
+  etiquetas: ["rápida", "ligera", "sin cocción", "ideal para llevar", "económica", "otoño", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si usas remolacha cruda, ásala envuelta en papel de aluminio 50 minutos a 200 °C: gana dulzor y aroma a tierra, aunque la receta pasa a tardar más de una hora."
 });
 
@@ -228,7 +228,7 @@ window.RECETAS_SEED.push({
   nombre: "Curry rojo tailandés de heura con leche de coco, judías verdes y albahaca",
   subtitulo: "pasta de curry frita en la grasa del coco, lima y arroz jazmín",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "sudeste-asiático",
   contundencia: "media",
   coste: "media",
@@ -273,7 +273,7 @@ window.RECETAS_SEED.push({
   nombre: "Hamburguesas de champiñones y lentejas con cebolla caramelizada y salsa de mostaza antigua",
   subtitulo: "con avena y nueces para ligar, pepinillos y pan tostado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "americana",
   contundencia: "contundente",
   coste: "económica",
@@ -315,7 +315,7 @@ window.RECETAS_SEED.push({
     "Monta: salsa de mostaza en la base, lechuga, hamburguesa, cebolla caramelizada, pepinillos en láminas y tomate en rodajas. Tapa y sirve."
   ],
   nutricion: { kcal: 771, prot: 27, hc: 87, grasa: 35 },
-  etiquetas: ["contundente", "económica", "batch cooking", "para niños", "fin de semana"],
+  etiquetas: ["contundente", "económica", "batch cooking", "para niños", "fin de semana", "verduras escondidas", "poco especiada"],
   consejo: "Cuanto más seco quede el sofrito de champiñones, mejor compacta la hamburguesa: no tengas prisa en el primer paso. La masa cruda se congela bien en porciones separadas por papel de horno."
 });
 
@@ -324,7 +324,7 @@ window.RECETAS_SEED.push({
   nombre: "Patatas asadas rellenas a la florentina con espinacas y crema de tofu a la nuez moscada",
   subtitulo: "gratinadas con queso vegetal y pan rallado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "europea",
   contundencia: "media",
   coste: "económica",
@@ -360,7 +360,7 @@ window.RECETAS_SEED.push({
     "Sirve con pimienta recién molida y un poco de ralladura de limón por encima."
   ],
   nutricion: { kcal: 601, prot: 30, hc: 64, grasa: 25 },
-  etiquetas: ["al horno", "económica", "para niños", "batch cooking", "invierno", "alta en proteína"],
+  etiquetas: ["al horno", "económica", "para niños", "batch cooking", "invierno", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Aprovecha el horno encendido y asa dos patatas más: rellenas y gratinadas aguantan 3 días en la nevera y se recalientan perfectamente en 15 minutos a 180 °C."
 });
 
@@ -369,7 +369,7 @@ window.RECETAS_SEED.push({
   nombre: "Berenjenas enteras asadas al estilo imam bayildi con tomate, piñones, pasas y garbanzos",
   subtitulo: "con canela, comino, menta y perejil; se come tibia",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "oriente-medio",
   contundencia: "ligera",
   coste: "premium",
@@ -407,7 +407,7 @@ window.RECETAS_SEED.push({
     "Sirve tibias con el zumo de limón, el resto de hierbas y los piñones reservados por encima."
   ],
   nutricion: { kcal: 477, prot: 15, hc: 48, grasa: 25 },
-  etiquetas: ["al horno", "ligera", "para preparar con antelación", "verano", "para compartir"],
+  etiquetas: ["al horno", "ligera", "para preparar con antelación", "verano", "para compartir", "poco especiada", "bajo en colesterol"],
   consejo: "Imam bayildi significa 'el imán se desmayó', dicen que de placer. Está mejor tibia o incluso fría al día siguiente, así que es un plato ideal para hacer con antelación o llevar a una comida."
 });
 
@@ -416,7 +416,7 @@ window.RECETAS_SEED.push({
   nombre: "Setas de cardo a la plancha estilo vieira con puré de coliflor y alubias y salsa de alcaparras",
   subtitulo: "medallones marcados en rejilla, limón, vino blanco y cebollino",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "fusión",
   contundencia: "ligera",
   coste: "premium",
@@ -453,7 +453,7 @@ window.RECETAS_SEED.push({
     "Extiende el puré en los platos, coloca los medallones encima, riega con la salsa de alcaparras y termina con el cebollino picado y ralladura del limón restante."
   ],
   nutricion: { kcal: 467, prot: 21, hc: 53, grasa: 19 },
-  etiquetas: ["ligera", "a la plancha", "elegante", "cena", "fin de semana"],
+  etiquetas: ["ligera", "a la plancha", "elegante", "cena", "fin de semana", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "El corte en rejilla y la plancha bien caliente hacen que el pie de la seta quede dorado y carnoso como una vieira. No muevas los medallones hasta que se despeguen solos; si se pegan, aún no están."
 });
 
@@ -462,7 +462,7 @@ window.RECETAS_SEED.push({
   nombre: "Chili sin carne de soja texturizada y alubias rojas con aguacate y totopos al horno",
   subtitulo: "con chipotle, cacao y comino; mejor al día siguiente",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "americana",
   contundencia: "contundente",
   coste: "económica",
@@ -515,7 +515,7 @@ window.RECETAS_SEED.push({
   nombre: "Tacos de lechuga con heura picada al hoisin, champiñones y anacardos",
   subtitulo: "estilo san choy bau: relleno caliente en hojas frías y crujientes",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   contundencia: "ligera",
   coste: "media",
@@ -552,7 +552,7 @@ window.RECETAS_SEED.push({
     "Lleva a la mesa el relleno caliente en un bol y las hojas de lechuga aparte. Cada uno rellena su hoja y la termina con anacardos, lo verde de la cebolleta, cilantro, chile y un chorrito de la lima restante."
   ],
   nutricion: { kcal: 395, prot: 26, hc: 25, grasa: 21 },
-  etiquetas: ["rápida", "ligera", "wok", "para compartir", "alta en proteína", "verano", "cena"],
+  etiquetas: ["rápida", "ligera", "wok", "para compartir", "alta en proteína", "verano", "cena", "bajo en colesterol"],
   consejo: "Pica todo igual de pequeño para que el relleno quepa en la hoja y se coma de dos bocados. La lechuga muy fría es lo que hace el contraste con el relleno caliente: no la saques hasta el final."
 });
 
@@ -561,7 +561,7 @@ window.RECETAS_SEED.push({
   nombre: "Seitán a la pimienta con puré de chirivía y judías verdes al ajo",
   subtitulo: "salsa de chalota, brandy, mostaza y nata vegetal",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "europea",
   contundencia: "contundente",
   coste: "media",
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré en la base, el seitán encima con la salsa de pimienta y las judías al lado."
   ],
   nutricion: { kcal: 670, prot: 44, hc: 61, grasa: 28 },
-  etiquetas: ["contundente", "alta en proteína", "invierno", "fin de semana", "elegante"],
+  etiquetas: ["contundente", "alta en proteína", "invierno", "fin de semana", "elegante", "verduras escondidas"],
   consejo: "La pimienta machacada en el mortero, no molida, es la clave: trozos gruesos que crujen y perfuman sin arrasar el plato. Si no encuentras chirivía, usa solo patata o mitad patata y mitad coliflor."
 });
 
@@ -608,7 +608,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu búfalo crujiente al horno con salsa ranch vegetal, apio y zanahoria",
   subtitulo: "doble rebozado de garbanzo y panko, bañado en salsa picante",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "americana",
   contundencia: "ligera",
   coste: "económica",
@@ -649,7 +649,7 @@ window.RECETAS_SEED.push({
     "Sirve el tofu con bastones de apio y zanahoria y el ranch para mojar."
   ],
   nutricion: { kcal: 463, prot: 27, hc: 37, grasa: 23 },
-  etiquetas: ["al horno", "picante", "ligera", "crujiente", "económica", "para compartir"],
+  etiquetas: ["al horno", "picante", "ligera", "crujiente", "económica", "para compartir", "bajo en colesterol"],
   consejo: "La doble capa (papilla de garbanzo y después panko con maicena) hace que el rebozado aguante la salsa sin reblandecerse. Si quieres un plato más contundente, mete el tofu en pan de hamburguesa con lechuga y más ranch."
 });
 
@@ -658,7 +658,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu bulgogi coreano marinado con pera y sésamo, con arroz, lechuga y kimchi",
   subtitulo: "marinado largo, caramelizado a la plancha, para envolver en hojas",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   contundencia: "media",
   coste: "media",
@@ -705,7 +705,7 @@ window.RECETAS_SEED.push({
   nombre: "Dal tadka de lentejas rojas con espinacas y arroz basmati",
   subtitulo: "con aceite templado de ajo, comino y guindilla por encima",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "india",
   contundencia: "media",
   coste: "económica",
@@ -741,7 +741,7 @@ window.RECETAS_SEED.push({
     "Sirve el dal en cuencos, vierte el aceite chisporroteante por encima, exprime el limón y acompaña con el arroz y cilantro picado."
   ],
   nutricion: { kcal: 595, prot: 24, hc: 90, grasa: 16 },
-  etiquetas: ["de cuchara", "económica", "batch cooking", "invierno"],
+  etiquetas: ["de cuchara", "económica", "batch cooking", "invierno", "superalimentos", "bajo en colesterol"],
   consejo: "El tadka se hace en el último momento y se echa caliente: es lo que da al dal su aroma. Si lo preparas para varios días, guarda el dal sin tadka y haz uno nuevo al recalentar."
 });
 
@@ -750,7 +750,7 @@ window.RECETAS_SEED.push({
   nombre: "Pho vegano de tofu y setas shiitake con fideos de arroz y hierbas frescas",
   subtitulo: "caldo aromático de cebolla y jengibre tostados con anís estrellado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "sopas-cremas",
   cocina: "sudeste-asiático",
   contundencia: "ligera",
   coste: "media",
@@ -791,7 +791,7 @@ window.RECETAS_SEED.push({
     "Reparte los fideos en dos cuencos grandes, coloca encima el tofu, los brotes de soja crudos y la cebolleta en rodajas, y cubre con el caldo hirviendo. Sirve con cilantro, albahaca, gajos de lima y chile al gusto para que cada uno lo termine en la mesa."
   ],
   nutricion: { kcal: 450, prot: 26, hc: 60, grasa: 11 },
-  etiquetas: ["de cuchara", "ligera", "invierno", "batch cooking"],
+  etiquetas: ["de cuchara", "ligera", "invierno", "batch cooking", "bajo en colesterol"],
   consejo: "El caldo mejora de un día para otro y se congela muy bien: haz el doble y tendrás pho en 15 minutos la próxima vez. No te cortes al tostar la cebolla; el color oscuro es el que da el sabor."
 });
 
@@ -800,7 +800,7 @@ window.RECETAS_SEED.push({
   nombre: "Fabada vegana de judías blancas con tofu ahumado, setas y pimentón",
   subtitulo: "con su compango vegetal y un toque de azafrán",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "española",
   contundencia: "contundente",
   coste: "económica",
@@ -835,7 +835,7 @@ window.RECETAS_SEED.push({
     "Deja cocer 15 minutos más hasta que las judías estén mantecosas y el caldo trabado. Sala al final, reposa 10 minutos tapado y sirve con pan."
   ],
   nutricion: { kcal: 745, prot: 35, hc: 74, grasa: 34 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "alta en proteína", "económica"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "alta en proteína", "económica", "poco especiada"],
   consejo: "Como toda fabada, al día siguiente está mejor. Si usas judías cocidas de bote (500 g), sáltate el remojo y cuécelas solo 15 minutos con el sofrito y el tofu."
 });
 
@@ -844,7 +844,7 @@ window.RECETAS_SEED.push({
   nombre: "Ensalada griega de heura a la plancha con garbanzos, pepino y aceitunas negras",
   subtitulo: "aliño de limón y orégano",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "ensaladas",
   cocina: "griega",
   contundencia: "ligera",
   coste: "media",
@@ -878,7 +878,7 @@ window.RECETAS_SEED.push({
     "Reparte la ensalada y coloca la heura caliente encima. Termina con una pizca más de orégano."
   ],
   nutricion: { kcal: 430, prot: 23, hc: 26, grasa: 25 },
-  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Para llevar, guarda la heura y el aliño aparte y mézclalo todo al comer. Si quieres el toque del feta, desmiga por encima 50 g de tofu firme macerado en limón, sal y orégano."
 });
 
@@ -887,7 +887,7 @@ window.RECETAS_SEED.push({
   nombre: "Lasaña de boloñesa de lentejas y champiñones con bechamel de bebida vegetal",
   subtitulo: "gratinada con queso vegetal",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   contundencia: "contundente",
   coste: "media",
@@ -925,7 +925,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar para que las capas se asienten."
   ],
   nutricion: { kcal: 860, prot: 34, hc: 110, grasa: 30 },
-  etiquetas: ["al horno", "batch cooking", "para niños", "invierno"],
+  etiquetas: ["al horno", "batch cooking", "para niños", "invierno", "poco especiada"],
   consejo: "Si la bechamel queda espesa al montar, aclárala con un chorrito de bebida vegetal: las placas sin cocción necesitan líquido para hidratarse. Congela por porciones ya horneada."
 });
 
@@ -934,7 +934,7 @@ window.RECETAS_SEED.push({
   nombre: "Fajitas de seitán al comino con pimientos, cebolla y guacamole",
   subtitulo: "en tortillas de trigo calientes con lima y cilantro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "latinoamericana",
   contundencia: "media",
   coste: "media",
@@ -969,7 +969,7 @@ window.RECETAS_SEED.push({
     "Calienta las tortillas 20 segundos por cada lado en una sartén seca y rellénalas con el salteado, el guacamole y el resto del cilantro."
   ],
   nutricion: { kcal: 615, prot: 34, hc: 53, grasa: 28 },
-  etiquetas: ["rápida", "una sola sartén", "alta en proteína", "para niños"],
+  etiquetas: ["rápida", "una sola sartén", "alta en proteína", "para niños", "poco especiada"],
   consejo: "La clave es la sartén muy caliente y no llenarla demasiado: si las verduras se amontonan, cuecen en su vapor en vez de tostarse. Hazlas en dos tandas si hace falta."
 });
 
@@ -978,7 +978,7 @@ window.RECETAS_SEED.push({
   nombre: "Arroz meloso de heura con alcachofas y guisantes",
   subtitulo: "con sofrito de pimiento, pimentón y unas hebras de azafrán",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "española",
   contundencia: "media",
   coste: "media",
@@ -1015,7 +1015,7 @@ window.RECETAS_SEED.push({
     "Apaga cuando el grano esté al punto y el caldo haya espesado y ligue. Reposa 2 minutos y sirve con perejil picado."
   ],
   nutricion: { kcal: 600, prot: 28, hc: 80, grasa: 17 },
-  etiquetas: ["de cuchara", "una sola sartén", "alta en proteína"],
+  etiquetas: ["de cuchara", "una sola sartén", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Si no es temporada de alcachofas, usa 250 g de corazones de alcachofa congelados: añádelos directamente con el sofrito."
 });
 
@@ -1024,7 +1024,7 @@ window.RECETAS_SEED.push({
   nombre: "Minestrone vegana de alubias blancas con pesto de albahaca y almendras",
   subtitulo: "sopa de verduras de huerta con pasta corta",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "sopas-cremas",
   cocina: "italiana",
   contundencia: "ligera",
   coste: "económica",
@@ -1061,7 +1061,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa en platos hondos y pon una cucharada generosa de pesto en el centro de cada uno para que se mezcle en la mesa."
   ],
   nutricion: { kcal: 455, prot: 17, hc: 52, grasa: 19 },
-  etiquetas: ["de cuchara", "ligera", "económica", "batch cooking"],
+  etiquetas: ["de cuchara", "ligera", "económica", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si la haces para varios días, cuece la pasta aparte y añádela al servir; si no, se hincha y absorbe todo el caldo. El pesto aguanta 3 días en la nevera cubierto con una capa de aceite."
 });
 
@@ -1070,7 +1070,7 @@ window.RECETAS_SEED.push({
   nombre: "Shakshuka vegana de tofu sedoso y garbanzos en salsa de pimientos y harissa",
   subtitulo: "con pan de pita tostado para mojar",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "oriente-medio",
   contundencia: "media",
   coste: "económica",
@@ -1106,7 +1106,7 @@ window.RECETAS_SEED.push({
     "Tuesta las pitas en una sartén seca o en la tostadora y sirve la shakshuka en la misma sartén con cilantro picado por encima."
   ],
   nutricion: { kcal: 590, prot: 24, hc: 70, grasa: 22 },
-  etiquetas: ["una sola sartén", "picante", "económica", "para compartir"],
+  etiquetas: ["una sola sartén", "picante", "económica", "para compartir", "bajo en colesterol"],
   consejo: "La kala namak es una sal volcánica con aroma sulfuroso que recuerda muchísimo al huevo; con una pizca basta. Si te gusta menos picante, cambia la harissa por pimentón dulce."
 });
 
@@ -1115,7 +1115,7 @@ window.RECETAS_SEED.push({
   nombre: "Pastel de lentejas y champiñones con costra de puré de patata al estilo shepherd's pie",
   subtitulo: "relleno al vino tinto y tomillo, gratinado al horno",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "europea",
   contundencia: "contundente",
   coste: "económica",
@@ -1155,6 +1155,6 @@ window.RECETAS_SEED.push({
     "Hornea 15 minutos, hasta que la superficie esté dorada y los bordes burbujeen. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 770, prot: 30, hc: 109, grasa: 22 },
-  etiquetas: ["al horno", "batch cooking", "invierno", "económica", "para niños"],
+  etiquetas: ["al horno", "batch cooking", "invierno", "económica", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Los surcos del tenedor en el puré no son solo decoración: son los que se tuestan y dan la costra crujiente. Se puede montar la víspera y hornear al día siguiente 25 minutos."
 });

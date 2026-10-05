@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
     "Prueba el escabeche y corrige de sal. Sirve el conejo tibio sobre las patatas con las verduras y unas cucharadas de su caldo por encima."
   ],
   nutricion: { kcal: 554, prot: 44, hc: 36, grasa: 26 },
-  etiquetas: ["carne poco habitual", "conejo", "tupper", "batch cooking", "sin gluten", "sin lácteos", "alta en proteína", "tradicional"],
+  etiquetas: ["carne poco habitual", "conejo", "tupper", "batch cooking", "sin gluten", "sin lácteos", "alta en proteína", "tradicional", "poco especiada"],
   consejo: "Cualquier escabeche mejora de un día para otro: el vinagre sigue penetrando en la carne. Guárdalo en un tarro de vidrio cubierto de su caldo hasta 5 días en la nevera y sácalo media hora antes para comerlo tibio o a temperatura ambiente. La misma proporción (1 de vinagre por 1 de vino y algo de agua) sirve para pollo, codorniz o caballa.",
   tupper: true,
   contundencia: "media",
@@ -90,7 +90,7 @@ window.RECETAS_SEED.push({
     "Devuelve el conejo a la salsa, dale una vuelta y sirve con el puré al lado."
   ],
   nutricion: { kcal: 702, prot: 49, hc: 50, grasa: 34 },
-  etiquetas: ["carne poco habitual", "conejo", "tupper", "de domingo", "para invitados", "invierno", "sin gluten"],
+  etiquetas: ["carne poco habitual", "conejo", "tupper", "de domingo", "para invitados", "invierno", "sin gluten", "poco especiada"],
   consejo: "Añadir la mostaza en dos momentos es un truco útil en muchas salsas: la del principio aporta fondo tostado y la del final, aroma y picor. Para un puré fino de verdad, nunca uses batidora: el almidón se rompe y queda pegajoso.",
   tupper: true,
   contundencia: "contundente",
@@ -135,7 +135,7 @@ window.RECETAS_SEED.push({
     "Saca los ajos de su piel apretándolos y mézclalos con el jugo de la bandeja. Sirve el conejo con las verduras y esa salsa por encima."
   ],
   nutricion: { kcal: 446, prot: 44, hc: 18, grasa: 22 },
-  etiquetas: ["carne poco habitual", "conejo", "al horno", "ligera", "sin gluten", "sin lácteos", "alta en proteína", "tupper", "verano"],
+  etiquetas: ["carne poco habitual", "conejo", "al horno", "ligera", "sin gluten", "sin lácteos", "alta en proteína", "tupper", "verano", "poco especiada"],
   consejo: "Las carnes muy magras (conejo, pechuga, codorniz) agradecen asarse sobre una cama de verduras: la humedad que sueltan las protege. El ajo asado con piel queda dulce y cremoso; úsalo igual para montar una salsa con cualquier asado.",
   tupper: true,
   contundencia: "ligera",
@@ -227,7 +227,7 @@ window.RECETAS_SEED.push({
     "Destapa los últimos 5 minutos si la salsa está muy líquida. Prueba de sal, retira el laurel y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 715, prot: 48, hc: 79, grasa: 23 },
-  etiquetas: ["carne poco habitual", "conejo", "guiso", "tupper", "batch cooking", "invierno", "de cuchara"],
+  etiquetas: ["carne poco habitual", "conejo", "guiso", "tupper", "batch cooking", "invierno", "de cuchara", "poco especiada"],
   consejo: "Las cervezas negras y tostadas amargan si reducen solas mucho rato: por eso se equilibran con algo dulce (azúcar, ciruelas, cebolla bien caramelizada). Este mismo guiso funciona con carrillada de cerdo o ternera para guisar, alargando la cocción a 1 h 30 min.",
   tupper: true,
   contundencia: "contundente",
@@ -323,7 +323,7 @@ window.RECETAS_SEED.push({
     "Sirve con parmesano rallado y pimienta recién molida."
   ],
   nutricion: { kcal: 786, prot: 57, hc: 72, grasa: 30 },
-  etiquetas: ["carne poco habitual", "conejo", "pasta", "tupper", "batch cooking", "de domingo", "invierno"],
+  etiquetas: ["carne poco habitual", "conejo", "pasta", "tupper", "batch cooking", "de domingo", "invierno", "poco especiada"],
   consejo: "Guisar la carne con hueso y desmenuzarla después da un ragú mucho más sabroso que con carne picada. El ragú solo aguanta 4 días en la nevera y se congela 3 meses: cuece la pasta en el momento. Funciona igual con muslos de pollo o pato.",
   tupper: true,
   contundencia: "contundente",
@@ -367,7 +367,7 @@ window.RECETAS_SEED.push({
     "Corta el magret en láminas de 1 cm en diagonal y sírvelo sobre el puré con la salsa de uvas por encima."
   ],
   nutricion: { kcal: 748, prot: 39, hc: 58, grasa: 40 },
-  etiquetas: ["carne poco habitual", "pato", "para invitados", "de domingo", "otoño", "sin gluten"],
+  etiquetas: ["carne poco habitual", "pato", "para invitados", "de domingo", "otoño", "sin gluten", "poco especiada"],
   consejo: "Guarda la grasa de pato que has retirado en un tarro en la nevera (dura meses): fríe con ella patatas o saltea verduras y notarás la diferencia. Añadir mantequilla fría al final (fuera del fuego) es el truco para dar brillo y cuerpo a cualquier salsa de sartén.",
   tupper: false,
   contundencia: "contundente",
@@ -456,7 +456,7 @@ window.RECETAS_SEED.push({
     "Apaga, tapa y deja reposar 3 minutos. Debe quedar cremoso y suelto, con algo de caldo. Sirve enseguida."
   ],
   nutricion: { kcal: 736, prot: 38, hc: 74, grasa: 32 },
-  etiquetas: ["carne poco habitual", "pato", "arroz", "otoño", "invierno", "sin gluten", "sin lácteos", "de domingo"],
+  etiquetas: ["carne poco habitual", "pato", "arroz", "otoño", "invierno", "sin gluten", "sin lácteos", "de domingo", "poco especiada"],
   consejo: "Remover el arroz suelta almidón y lo hace meloso; no removerlo lo deja suelto, como una paella. Elige según el plato. Usa la grasa de cualquier carne que dores primero (pato, panceta, pollo con piel) como base del sofrito: es sabor gratis.",
   tupper: false,
   contundencia: "contundente",
@@ -548,7 +548,7 @@ window.RECETAS_SEED.push({
     "Sirve con el sésamo y los chicharrones de pato por encima."
   ],
   nutricion: { kcal: 588, prot: 42, hc: 60, grasa: 20 },
-  etiquetas: ["carne poco habitual", "pato", "salteado", "wok", "rápida", "alta en proteína", "sin lácteos"],
+  etiquetas: ["carne poco habitual", "pato", "salteado", "wok", "rápida", "alta en proteína", "sin lácteos", "superalimentos", "poco especiada"],
   consejo: "Cortar la carne a contrapelo es la clave de cualquier salteado tierno, sea ternera, cerdo o pato: acortas las fibras y la mordida se vuelve suave. Ten todo cortado antes de encender el wok: en un salteado no hay tiempo de picar.",
   tupper: false,
   contundencia: "media",
@@ -595,7 +595,7 @@ window.RECETAS_SEED.push({
     "Devuelve las codornices a la salsa 2 minutos para que se calienten y sírvelas con el puré."
   ],
   nutricion: { kcal: 595, prot: 44, hc: 44, grasa: 27 },
-  etiquetas: ["carne poco habitual", "codorniz", "tradicional", "tupper", "otoño", "invierno", "sin gluten"],
+  etiquetas: ["carne poco habitual", "codorniz", "tradicional", "tupper", "otoño", "invierno", "sin gluten", "poco especiada"],
   consejo: "Una onza de chocolate negro es un recurso clásico para dar cuerpo y brillo a salsas de vino tinto con carnes de sabor intenso (perdiz, jabalí, rabo). Triturar las verduras del guiso es la forma más sencilla de espesar una salsa sin harina.",
   tupper: true,
   contundencia: "media",
@@ -638,7 +638,7 @@ window.RECETAS_SEED.push({
     "Sirve 2 codornices por persona con las patatas, la manzana y las chalotas, y el jugo por encima."
   ],
   nutricion: { kcal: 639, prot: 43, hc: 56, grasa: 27 },
-  etiquetas: ["carne poco habitual", "codorniz", "al horno", "otoño", "para invitados", "sin gluten"],
+  etiquetas: ["carne poco habitual", "codorniz", "al horno", "otoño", "para invitados", "sin gluten", "poco especiada"],
   consejo: "En aves pequeñas, el asado es cuestión de minutos: 20-22 a 210 °C bastan. Pasarse es el error típico. El truco de empezar pechuga abajo sirve igual para un pollo entero o una pintada.",
   tupper: false,
   contundencia: "media",
@@ -684,7 +684,7 @@ window.RECETAS_SEED.push({
     "Retira las brochetas y sirve las codornices sobre el cuscús, con el yogur al comino y el zumaque espolvoreado por encima."
   ],
   nutricion: { kcal: 634, prot: 49, hc: 51, grasa: 26 },
-  etiquetas: ["carne poco habitual", "codorniz", "a la plancha", "verano", "alta en proteína", "aprende a abrir en mariposa"],
+  etiquetas: ["carne poco habitual", "codorniz", "a la plancha", "verano", "alta en proteína", "aprende a abrir en mariposa", "poco especiada"],
   consejo: "La técnica de abrir en mariposa (spatchcock) sirve para cualquier ave: un pollo entero abierto así se asa en 40 minutos en lugar de 70. Guarda las columnas en el congelador para el próximo caldo.",
   tupper: false,
   contundencia: "media",
@@ -776,7 +776,7 @@ window.RECETAS_SEED.push({
     "Sirve los cuartos sobre las coles, las castañas y la panceta, con el jugo de la bandeja por encima."
   ],
   nutricion: { kcal: 740, prot: 60, hc: 44, grasa: 36 },
-  etiquetas: ["carne poco habitual", "pintada", "al horno", "otoño", "invierno", "para invitados", "de domingo", "sin gluten"],
+  etiquetas: ["carne poco habitual", "pintada", "al horno", "otoño", "invierno", "para invitados", "de domingo", "sin gluten", "poco especiada"],
   consejo: "Despiezar un ave antes de asarla permite meter cada parte a su tiempo y es la manera de que muslo y pechuga salgan perfectos a la vez. Con el armazón que sobra prepara un caldo: cúbrelo de agua fría con una zanahoria y una cebolla y cuécelo 1 hora.",
   tupper: true,
   contundencia: "contundente",
@@ -819,7 +819,7 @@ window.RECETAS_SEED.push({
     "Sirve muy caliente con una ramita de hierbabuena en cada plato: suelta su aroma con el calor del caldo."
   ],
   nutricion: { kcal: 456, prot: 37, hc: 50, grasa: 12 },
-  etiquetas: ["carne poco habitual", "gallina", "de cuchara", "invierno", "tupper", "batch cooking", "reconfortante", "sin lácteos"],
+  etiquetas: ["carne poco habitual", "gallina", "de cuchara", "invierno", "tupper", "batch cooking", "reconfortante", "sin lácteos", "poco especiada"],
   consejo: "La gallina da un caldo mucho más sabroso que el pollo porque es un animal adulto con más colágeno; necesita más tiempo, pero cunde para varias comidas. El caldo sobrante se congela en raciones 3 meses, y la carne que sobre es perfecta para croquetas o un arroz.",
   tupper: true,
   contundencia: "ligera",
@@ -866,7 +866,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, apaga y espolvorea el perejil picado. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 546, prot: 40, hc: 47, grasa: 22 },
-  etiquetas: ["sepia", "pescado poco habitual", "aprende a limpiar", "guiso", "tupper", "sin gluten", "sin lácteos", "primavera"],
+  etiquetas: ["sepia", "pescado poco habitual", "aprende a limpiar", "guiso", "tupper", "sin gluten", "sin lácteos", "primavera", "poco especiada"],
   consejo: "Regla de oro de los cefalópodos (sepia, calamar, pulpo): o cocción muy corta (1-2 minutos a fuego vivo) o larga y suave (más de 25 minutos). Entre medias quedan como goma. La tinta congelada en un cubito te sirve para un arroz negro o una salsa.",
   tupper: true,
   contundencia: "media",
@@ -952,7 +952,7 @@ window.RECETAS_SEED.push({
     "Escúrrelos sobre papel absorbente y sírvelos al momento con la ensalada de pimientos, la mayonesa de limón, gajos de limón y pan."
   ],
   nutricion: { kcal: 724, prot: 40, hc: 42, grasa: 44 },
-  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "frito", "aprende a limpiar", "tradicional", "económica"],
+  etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "frito", "aprende a limpiar", "tradicional", "económica", "poco especiada"],
   consejo: "Las claves de cualquier fritura de pescado son tres: pescado muy seco, harina bien sacudida y aceite a 180 °C sin llenar la sartén. Si los fríes en tandas, mantén los primeros en el horno a 80 °C con la puerta entreabierta para que no se ablanden.",
   tupper: false,
   contundencia: "contundente",
@@ -994,7 +994,7 @@ window.RECETAS_SEED.push({
     "Sirve los rollitos sobre las patatas con la salsa de yogur al lado."
   ],
   nutricion: { kcal: 446, prot: 42, hc: 38, grasa: 14 },
-  etiquetas: ["trucha", "pescado poco habitual", "al vapor", "ligera", "sin gluten", "alta en proteína", "tupper", "aprende a desespinar"],
+  etiquetas: ["trucha", "pescado poco habitual", "al vapor", "ligera", "sin gluten", "alta en proteína", "tupper", "aprende a desespinar", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Las pinzas de depilar son la herramienta perfecta para desespinar cualquier filete (trucha, salmón, caballa). Para comprobar el punto del pescado, presiona con un dedo: si las láminas se separan, está hecho. Los rollitos aguantan 2 días en la nevera y se comen fríos o templados.",
   tupper: true,
   contundencia: "ligera",
@@ -1038,7 +1038,7 @@ window.RECETAS_SEED.push({
     "Hornea 12 minutos, hasta que el papel se hinche. Abre los paquetes en la mesa (cuidado con el vapor) y espolvorea perejil picado."
   ],
   nutricion: { kcal: 627, prot: 44, hc: 52, grasa: 27 },
-  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "al horno", "aprende a limpiar", "omega 3", "económica", "verano"],
+  etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "al horno", "aprende a limpiar", "omega 3", "económica", "verano", "poco especiada"],
   consejo: "La papillote es la forma más limpia de cocinar pescado azul en casa: no huele, no salpica y no se seca. Funciona con cualquier filete fino (caballa, trucha, merluza) y cualquier base que se hidrate con el vapor: cuscús, verduras en láminas finas o patata muy fina precocida.",
   tupper: false,
   contundencia: "media",
@@ -1082,7 +1082,7 @@ window.RECETAS_SEED.push({
     "Para servir, corta a lo largo del lomo, levanta el filete superior, retira la espina entera tirando desde la cola y sirve los cuatro filetes sobre las patatas y el hinojo."
   ],
   nutricion: { kcal: 616, prot: 38, hc: 35, grasa: 36 },
-  etiquetas: ["caballa", "pescado azul", "pescado poco habitual", "al horno", "aprende a limpiar", "omega 3", "sin gluten", "sin lácteos"],
+  etiquetas: ["caballa", "pescado azul", "pescado poco habitual", "al horno", "aprende a limpiar", "omega 3", "sin gluten", "sin lácteos", "poco especiada"],
   consejo: "El truco de la aleta dorsal funciona con cualquier pescado entero al horno (dorada, lubina, besugo): si se desprende sola, está en su punto. La caballa debe ser muy fresca: ojos brillantes y abombados, agallas rojas y cuerpo rígido. Cocínala el mismo día de comprarla.",
   tupper: false,
   contundencia: "media",

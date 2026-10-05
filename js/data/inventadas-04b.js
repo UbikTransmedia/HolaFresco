@@ -79,7 +79,7 @@ window.RECETAS_SEED.push({
     "Sirve las chuletillas con el tzatziki, la ensalada y el resto de la menta por encima."
   ],
   nutricion: { kcal: 470, prot: 38, hc: 14, grasa: 30 },
-  etiquetas: ["rápida", "a la plancha", "ligera", "verano", "para comer con las manos"],
+  etiquetas: ["rápida", "a la plancha", "ligera", "verano", "para comer con las manos", "keto", "poco especiada"],
   consejo: "Las chuletillas se comen con los dedos sin complejos: el palo es el mango. Un pan de pita caliente convierte el plato en una comida más completa.",
   contundencia: "ligera",
   coste: "premium"
@@ -122,7 +122,7 @@ window.RECETAS_SEED.push({
     "Sirve los escalopines con la salsa, el calabacín al lado, el perejil picado y la ralladura del limón."
   ],
   nutricion: { kcal: 430, prot: 38, hc: 16, grasa: 24 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "una sola sartén"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "una sola sartén", "poco especiada"],
   consejo: "Si prefieres algo más saciante, sustituye el calabacín por 120 g de pasta larga cocida y saltéala en la misma salsa.",
   contundencia: "ligera",
   coste: "media"
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
     "Añade a la ropa vieja las aceitunas en rodajas y las alcaparras, rectifica de sal y sírvela sobre el arroz con el perejil picado."
   ],
   nutricion: { kcal: 630, prot: 50, hc: 62, grasa: 20 },
-  etiquetas: ["cocción lenta", "batch cooking", "ideal para llevar", "para niños"],
+  etiquetas: ["cocción lenta", "batch cooking", "ideal para llevar", "para niños", "poco especiada"],
   consejo: "Cuece el doble de carne y congela la mitad deshilachada con algo de caldo: sirve para tacos, empanadas o un relleno de pimientos exprés.",
   contundencia: "media",
   coste: "media"
@@ -219,7 +219,7 @@ window.RECETAS_SEED.push({
     "Retira la canela, rectifica de sal y sirve el tajine sobre el cuscús con las almendras, el sésamo y el cilantro picado."
   ],
   nutricion: { kcal: 800, prot: 50, hc: 75, grasa: 34 },
-  etiquetas: ["cocción lenta", "agridulce", "para invitados", "invierno", "contundente"],
+  etiquetas: ["cocción lenta", "agridulce", "para invitados", "invierno", "contundente", "sin verduras", "poco especiada"],
   consejo: "Si tienes un tajine de barro úsalo a fuego muy suave con difusor; si no, una cazuela con tapa pesada da el mismo resultado. Mejora hecho de víspera.",
   contundencia: "contundente",
   coste: "premium"
@@ -264,7 +264,7 @@ window.RECETAS_SEED.push({
     "Sirve las hamburguesas con la salsa de yogur, la ensalada y el resto del eneldo por encima."
   ],
   nutricion: { kcal: 460, prot: 38, hc: 18, grasa: 26 },
-  etiquetas: ["rápida", "ligera", "para niños", "alta en proteína", "sin pan"],
+  etiquetas: ["rápida", "ligera", "para niños", "alta en proteína", "sin pan", "verduras escondidas", "poco especiada"],
   consejo: "La remolacha aporta jugosidad y un dulzor que encanta a los niños. Si quieres convertirlo en comida completa, sirve con pan de centeno tostado.",
   contundencia: "ligera",
   coste: "media"
@@ -359,7 +359,7 @@ window.RECETAS_SEED.push({
     "Sirve las koftas sobre el tabulé con la salsa de tahini por encima."
   ],
   nutricion: { kcal: 610, prot: 38, hc: 42, grasa: 32 },
-  etiquetas: ["a la plancha", "especiado", "ideal para llevar", "verano", "brochetas"],
+  etiquetas: ["a la plancha", "especiado", "ideal para llevar", "verano", "brochetas", "poco especiada"],
   consejo: "Si la masa está muy blanda, añade 1 cda de pan rallado. Las koftas crudas se congelan bien y van directas a la plancha.",
   contundencia: "media",
   coste: "media"
@@ -403,7 +403,7 @@ window.RECETAS_SEED.push({
     "Destapa, retira las tapas, reparte el queso rallado sobre el relleno y hornea 10 min más hasta que gratine. Sírvelos con la salsa del fondo."
   ],
   nutricion: { kcal: 530, prot: 38, hc: 46, grasa: 22 },
-  etiquetas: ["al horno", "económica", "para niños", "batch cooking", "ideal para llevar"],
+  etiquetas: ["al horno", "económica", "para niños", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Si los pimientos no se tienen de pie, córtalos a lo largo por la mitad y rellénalos como barquitas: se hacen 10 minutos antes.",
   contundencia: "media",
   coste: "económica"
@@ -494,7 +494,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 min fuera del fuego, retira el laurel y sirve bien caliente."
   ],
   nutricion: { kcal: 720, prot: 50, hc: 48, grasa: 36 },
-  etiquetas: ["guiso", "de cuchara", "invierno", "contundente", "batch cooking"],
+  etiquetas: ["guiso", "de cuchara", "invierno", "contundente", "batch cooking", "poco especiada"],
   consejo: "El chilindrón tradicional lleva poco líquido: los pimientos y el tomate hacen la salsa. Si queda seco, añade agua caliente a cucharones, nunca fría.",
   contundencia: "contundente",
   coste: "premium"
@@ -584,7 +584,7 @@ window.RECETAS_SEED.push({
     "Sirve con las patatas asadas y el perejil picado por encima."
   ],
   nutricion: { kcal: 620, prot: 42, hc: 58, grasa: 24 },
-  etiquetas: ["al horno", "clásico", "para niños", "cena de diario"],
+  etiquetas: ["al horno", "clásico", "para niños", "cena de diario", "poco especiada"],
   consejo: "No tengas prisa con la cebolla: 20 minutos a fuego bajo es lo que la convierte en salsa. Los filetes, en cambio, cuanto menos tiempo en la sartén, más tiernos.",
   contundencia: "media",
   coste: "media"
@@ -679,7 +679,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz con el perejil picado."
   ],
   nutricion: { kcal: 630, prot: 42, hc: 58, grasa: 26 },
-  etiquetas: ["rápida", "cremosa", "para niños", "una sola sartén"],
+  etiquetas: ["rápida", "cremosa", "para niños", "una sola sartén", "poco especiada"],
   consejo: "El error típico es cocer la carne en la salsa: queda como suela. Dórala muy rápido al principio y vuelve a añadirla solo para calentarla.",
   contundencia: "media",
   coste: "media"
@@ -776,7 +776,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 min antes de servir en porciones."
   ],
   nutricion: { kcal: 760, prot: 42, hc: 62, grasa: 38 },
-  etiquetas: ["al horno", "para niños", "batch cooking", "invierno", "contundente"],
+  etiquetas: ["al horno", "para niños", "batch cooking", "invierno", "contundente", "poco especiada"],
   consejo: "Puedes montarlo por la mañana y hornearlo por la noche (añade 10 min si va frío de la nevera). Con ternera picada se llama cottage pie y queda igual de bien.",
   contundencia: "contundente",
   coste: "media"
@@ -910,7 +910,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 min, exprime el otro limón por encima y sirve directamente de la fuente con sus jugos."
   ],
   nutricion: { kcal: 850, prot: 55, hc: 50, grasa: 48 },
-  etiquetas: ["al horno", "cocción lenta", "para invitados", "domingo", "contundente"],
+  etiquetas: ["al horno", "cocción lenta", "para invitados", "domingo", "contundente", "poco especiada"],
   consejo: "El nombre viene de los 'kleftes', bandoleros que cocinaban el cordero enterrado para que no se viera el humo. El paquete cerrado hace que la carne se cueza en su jugo: no necesita vigilancia.",
   contundencia: "contundente",
   coste: "premium"
@@ -1005,7 +1005,7 @@ window.RECETAS_SEED.push({
     "Saca la carne con cuidado. Si la salsa está clara, redúcela 5 min a fuego fuerte. Sirve el ossobuco sobre el puré, salsea y espolvorea la gremolata por encima."
   ],
   nutricion: { kcal: 580, prot: 48, hc: 42, grasa: 24 },
-  etiquetas: ["braseado", "al horno", "cocción lenta", "para invitados", "invierno"],
+  etiquetas: ["braseado", "al horno", "cocción lenta", "para invitados", "invierno", "poco especiada"],
   consejo: "El tuétano del hueso es un bocado para el que se atreve: sácalo con una cucharilla y úntalo en el puré. La gremolata fresca es lo que equilibra tanta untuosidad.",
   contundencia: "media",
   coste: "media"
@@ -1053,7 +1053,7 @@ window.RECETAS_SEED.push({
     "Abre las pitas, unta con la salsa de yogur, rellena con el cordero y la ensalada y sirve con el resto de la salsa aparte."
   ],
   nutricion: { kcal: 470, prot: 38, hc: 36, grasa: 20 },
-  etiquetas: ["ligera", "marinado", "para comer con las manos", "ideal para llevar", "especiado"],
+  etiquetas: ["ligera", "marinado", "para comer con las manos", "ideal para llevar", "especiado", "poco especiada"],
   consejo: "Corta las tiras con la carne medio congelada: salen más finas y se doran en un minuto. Un poco de encurtido (pepinillos o col lombarda) dentro de la pita lo acerca al original.",
   contundencia: "ligera",
   coste: "media"
@@ -1095,7 +1095,7 @@ window.RECETAS_SEED.push({
     "Retira los palillos, corta los involtini por la mitad al bies y sírvelos con la salsa y la albahaca rota por encima."
   ],
   nutricion: { kcal: 470, prot: 46, hc: 14, grasa: 26 },
-  etiquetas: ["ligera", "alta en proteína", "una sola sartén", "para invitados"],
+  etiquetas: ["ligera", "alta en proteína", "una sola sartén", "para invitados", "poco especiada"],
   consejo: "Con pan para mojar o 60 g de pasta por persona salteada en la salsa se convierte en plato más contundente. Los rollitos se pueden dejar montados en la nevera por la mañana.",
   contundencia: "ligera",
   coste: "media"

@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
     "Mezcla la última cucharada de aceite con el resto del pimentón y riega por encima. Termina con los piñones, el perejil picado y los granos de granada, y sirve con la pita caliente."
   ],
   nutricion: { kcal: 775, prot: 42, hc: 62, grasa: 40 },
-  etiquetas: ["rápida", "alta en proteína", "para compartir"],
+  etiquetas: ["rápida", "alta en proteína", "para compartir", "sin verduras", "poco especiada"],
   consejo: "El contraste caliente-frío es la gracia del plato: saca el hummus de la nevera un rato antes para que esté a temperatura ambiente y la carne recién hecha.",
   contundencia: "contundente",
   coste: "media"
@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos y espolvorea los cacahuetes por encima justo al servir para que no pierdan el crujiente."
   ],
   nutricion: { kcal: 404, prot: 26, hc: 30, grasa: 20 },
-  etiquetas: ["rápida", "ligera", "verano", "sin horno", "ideal para llevar"],
+  etiquetas: ["rápida", "ligera", "verano", "sin horno", "ideal para llevar", "superalimentos", "bajo en colesterol"],
   consejo: "Si te la llevas al trabajo, lleva el aliño y los cacahuetes aparte y mezcla en el momento.",
   contundencia: "ligera",
   coste: "media"
@@ -129,7 +129,7 @@ window.RECETAS_SEED.push({
     "Reparte los garbanzos en dos platos, coloca un huevo encima de cada uno y espolvorea perejil picado. Rompe la yema en la mesa y moja con pan."
   ],
   nutricion: { kcal: 590, prot: 32, hc: 48, grasa: 30 },
-  etiquetas: ["rápida", "una sola sartén", "de aprovechamiento"],
+  etiquetas: ["rápida", "una sola sartén", "de aprovechamiento", "poco especiada"],
   consejo: "El pimentón siempre fuera del fuego: con el calor residual suelta el aroma y no amarga.",
   contundencia: "media",
   coste: "media"
@@ -171,7 +171,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos, coloca el bonito en lascas por encima y ralla el huevo duro con un rallador grueso. Termina con perejil picado."
   ],
   nutricion: { kcal: 416, prot: 30, hc: 38, grasa: 16 },
-  etiquetas: ["rápida", "sin horno", "verano", "ideal para llevar", "ligera"],
+  etiquetas: ["rápida", "sin horno", "verano", "ideal para llevar", "ligera", "superalimentos", "poco especiada"],
   consejo: "Deja reposar la ensalada 10 minutos antes de servir: los judiones absorben la vinagreta y ganan mucho sabor.",
   contundencia: "ligera",
   coste: "media"
@@ -261,7 +261,7 @@ window.RECETAS_SEED.push({
     "Monta los tacos: relleno de lentejas, col escurrida, láminas de aguacate, una cucharada de crema de lima y cilantro picado."
   ],
   nutricion: { kcal: 570, prot: 24, hc: 78, grasa: 18 },
-  etiquetas: ["rápida", "económica", "picante", "vegetariana"],
+  etiquetas: ["rápida", "económica", "picante", "vegetariana", "superalimentos", "bajo en colesterol"],
   consejo: "El relleno sobrante se congela perfecto y sirve también para burritos o para una ensalada de taco.",
   contundencia: "media",
   coste: "económica"
@@ -358,7 +358,7 @@ window.RECETAS_SEED.push({
     "Sirve los falafel sobre la ensalada y riega con la salsa de tahini."
   ],
   nutricion: { kcal: 426, prot: 22, hc: 44, grasa: 18 },
-  etiquetas: ["al horno", "ligera", "vegana", "primavera"],
+  etiquetas: ["al horno", "ligera", "vegana", "primavera", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si la masa queda demasiado blanda para formar bolas, añade una cucharada más de harina de garbanzo en lugar de pan rallado.",
   contundencia: "ligera",
   coste: "media"
@@ -400,7 +400,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con el resto del parmesano y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 718, prot: 30, hc: 100, grasa: 22 },
-  etiquetas: ["de cuchara", "económica", "invierno", "para niños", "vegetariana"],
+  etiquetas: ["de cuchara", "económica", "invierno", "para niños", "vegetariana", "sin verduras", "bajo en colesterol"],
   consejo: "La pasta suelta almidón y espesa el caldo: no la cuezas aparte ni la enjuagues. Al recalentar, añade un chorrito de agua porque se espesa mucho.",
   contundencia: "contundente",
   coste: "económica"
@@ -487,7 +487,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con la mitad de la menta picada y una pizca de sal. Sirve las albóndigas con cucharadas de yogur por encima y el resto de la menta."
   ],
   nutricion: { kcal: 424, prot: 24, hc: 46, grasa: 16 },
-  etiquetas: ["al horno", "ligera", "económica", "para niños", "batch cooking", "vegetariana"],
+  etiquetas: ["al horno", "ligera", "económica", "para niños", "batch cooking", "vegetariana", "detox", "verduras escondidas", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Las albóndigas crudas se congelan bien en bandeja; hornéalas directamente congeladas añadiendo 5 minutos.",
   contundencia: "ligera",
   coste: "económica"
@@ -532,7 +532,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan de centeno y mezcla la mayonesa con la mostaza antigua. Unta el pan, añade la rúcula, la hamburguesa y el resto de la cebolla en aros finos, y cierra."
   ],
   nutricion: { kcal: 554, prot: 28, hc: 70, grasa: 18 },
-  etiquetas: ["vegetariana", "para niños", "ideal para llevar"],
+  etiquetas: ["vegetariana", "para niños", "ideal para llevar", "verduras escondidas", "superalimentos", "poco especiada"],
   consejo: "No te saltes el reposo en frío: es lo que evita que se rompan al darles la vuelta.",
   contundencia: "media",
   coste: "media"
@@ -621,7 +621,7 @@ window.RECETAS_SEED.push({
     "Sirve con perejil picado y una cucharadita de alioli encima de cada plato, para que se funda al mezclar."
   ],
   nutricion: { kcal: 542, prot: 42, hc: 44, grasa: 22 },
-  etiquetas: ["de cuchara", "mar y montaña", "alta en proteína"],
+  etiquetas: ["de cuchara", "mar y montaña", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Si encuentras la sepia con su bolsa de tinta, añade un poco al sofrito: el guiso se vuelve negro y aún más sabroso.",
   contundencia: "media",
   coste: "media"
@@ -666,7 +666,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve con menta fresca picada."
   ],
   nutricion: { kcal: 556, prot: 32, hc: 62, grasa: 20 },
-  etiquetas: ["al horno", "batch cooking", "vegetariana", "ideal para llevar"],
+  etiquetas: ["al horno", "batch cooking", "vegetariana", "ideal para llevar", "poco especiada"],
   consejo: "Puedes dejar la fuente montada hasta el paso 5 y gratinarla justo antes de comer.",
   contundencia: "media",
   coste: "media"
@@ -757,7 +757,7 @@ window.RECETAS_SEED.push({
     "Monta los platos con una base de canónigos, las lentejas, los gajos de naranja y el magret cortado en lonchas finas. Riega con el resto de vinagreta y esparce las avellanas tostadas y troceadas."
   ],
   nutricion: { kcal: 682, prot: 44, hc: 50, grasa: 34 },
-  etiquetas: ["para invitados", "alta en proteína", "invierno"],
+  etiquetas: ["para invitados", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Guarda el resto de la grasa del pato en un tarro en la nevera: unas patatas salteadas con ella son otra cosa.",
   contundencia: "contundente",
   coste: "premium"
@@ -801,7 +801,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos; el lobio se come templado. Sirve con el resto de hierbas, los granos de granada y el pan de centeno tostado."
   ],
   nutricion: { kcal: 436, prot: 20, hc: 44, grasa: 20 },
-  etiquetas: ["vegana", "ligera", "económica", "ideal para llevar"],
+  etiquetas: ["vegana", "ligera", "económica", "ideal para llevar", "sin verduras", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Está aún más rico frío al día siguiente, como paté rústico untado en pan con unos encurtidos al lado.",
   contundencia: "ligera",
   coste: "media"
@@ -845,7 +845,7 @@ window.RECETAS_SEED.push({
     "Aliña la rúcula con el zumo de limón y una pizca de sal. Sirve la bandeja sobre la rúcula y espolvorea las semillas."
   ],
   nutricion: { kcal: 448, prot: 20, hc: 56, grasa: 16 },
-  etiquetas: ["al horno", "ligera", "otoño", "vegetariana", "una sola bandeja"],
+  etiquetas: ["al horno", "ligera", "otoño", "vegetariana", "una sola bandeja", "poco especiada"],
   consejo: "No metas los garbanzos húmedos: sécalos bien con un paño o quedarán blandos en lugar de crujientes.",
   contundencia: "ligera",
   coste: "media"
@@ -890,7 +890,7 @@ window.RECETAS_SEED.push({
     "Mezcla el yogur con el zumo de lima y una pizca de sal y sirve las berenjenas con el yogur por encima y cilantro picado."
   ],
   nutricion: { kcal: 422, prot: 20, hc: 54, grasa: 14 },
-  etiquetas: ["al horno", "ligera", "económica", "vegetariana", "verano"],
+  etiquetas: ["al horno", "ligera", "económica", "vegetariana", "verano", "detox", "bajo en colesterol"],
   consejo: "Para versión vegana, sustituye el yogur por yogur vegetal sin azúcar o por un chorrito de leche de coco con lima.",
   contundencia: "ligera",
   coste: "económica"
@@ -938,7 +938,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con los bastones de zanahoria glaseada por encima."
   ],
   nutricion: { kcal: 764, prot: 52, hc: 58, grasa: 36 },
-  etiquetas: ["de cuchara", "invierno", "para invitados", "batch cooking"],
+  etiquetas: ["de cuchara", "invierno", "para invitados", "batch cooking", "poco especiada"],
   consejo: "En olla exprés, la carrillada está lista en 35 minutos a presión; luego añade las lentejas y cuécelas 8 minutos más.",
   contundencia: "contundente",
   coste: "premium"
@@ -1026,7 +1026,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal y deja reposar 10 minutos. Tuesta el pan, úntalo con la mantequilla y sirve las alubias con el pan al lado o encima."
   ],
   nutricion: { kcal: 726, prot: 32, hc: 100, grasa: 22 },
-  etiquetas: ["al horno", "económica", "batch cooking", "invierno", "para niños"],
+  etiquetas: ["al horno", "económica", "batch cooking", "invierno", "para niños", "poco especiada"],
   consejo: "Son aún mejores recalentadas al día siguiente; en el desayuno inglés las encontrarás junto a un huevo frito.",
   contundencia: "contundente",
   coste: "económica"
@@ -1069,7 +1069,7 @@ window.RECETAS_SEED.push({
     "Reparte las lentejas en los platos, coloca el pulpo cortado en trozos grandes encima, riega con el resto del aliño y termina con el pimentón ahumado, unas escamas de sal gruesa y cilantro."
   ],
   nutricion: { kcal: 452, prot: 40, hc: 46, grasa: 12 },
-  etiquetas: ["alta en proteína", "ligera", "para invitados", "verano"],
+  etiquetas: ["alta en proteína", "ligera", "para invitados", "verano", "poco especiada"],
   consejo: "Para ganar tiempo, usa 400 g de pulpo cocido envasado y empieza en el paso 2: el plato queda listo en 30 minutos.",
   contundencia: "ligera",
   coste: "premium"
@@ -1115,7 +1115,7 @@ window.RECETAS_SEED.push({
     "Sirve el guiso en un cuenco junto al arroz suelto."
   ],
   nutricion: { kcal: 766, prot: 44, hc: 80, grasa: 30 },
-  etiquetas: ["de cuchara", "invierno", "para invitados", "batch cooking"],
+  etiquetas: ["de cuchara", "invierno", "para invitados", "batch cooking", "poco especiada"],
   consejo: "El secreto es freír bien las hierbas: si te quedas corto, el guiso sabrá a ensalada cocida; cuando estén casi negras y aromáticas, están en su punto.",
   contundencia: "contundente",
   coste: "premium"

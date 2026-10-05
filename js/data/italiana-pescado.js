@@ -93,7 +93,7 @@ window.RECETAS_SEED.push({
     "Sácalas de la nevera 30 minutos antes de servir: se comen a temperatura ambiente."
   ],
   nutricion: { kcal: 620, prot: 32, hc: 32, grasa: 39 },
-  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "económica", "verano"],
+  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "económica", "verano", "poco especiada"],
   consejo: "Los marineros venecianos conservaban así el pescado en los barcos: el vinagre y la cebolla lo mantenían varios días. En Venecia es el plato de la fiesta del Redentor, en julio, y se sirve como cicchetto sobre polenta a la plancha o con pan. Aguanta 4 días en la nevera. Sale igual de bien con boquerones o con filetes de caballa.",
   tupper: true,
   contundencia: "media",
@@ -182,7 +182,7 @@ window.RECETAS_SEED.push({
     "Saca la fuente de la nevera 20 minutos antes, tuesta el pan y sirve la burrida fría o a temperatura ambiente, con su salsa por encima y el pan al lado."
   ],
   nutricion: { kcal: 615, prot: 43, hc: 38, grasa: 32 },
-  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "alta en proteína", "verano", "sin verduras", "poco especiada"],
   consejo: "En Cagliari se hace con gattuccio, una pintarroja muy parecida al cazón, y algunas familias añaden a la salsa el hígado del pescado o un puñado de piñones. Funciona también con raya o con rape. Se conserva 4 días en la nevera y está mejor al segundo, así que es perfecta para dejar cocinada el fin de semana.",
   tupper: true,
   contundencia: "media",
@@ -227,7 +227,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos fuera del horno antes de servir: las capas se asientan y el arroz termina de absorber el jugo."
   ],
   nutricion: { kcal: 750, prot: 27, hc: 94, grasa: 30 },
-  etiquetas: ["tradicional", "al horno", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "al horno", "económica", "batch cooking", "poco especiada"],
   consejo: "Es el plato de domingo de Bari y cada familia defiende su orden de capas; en verano se añade calabacín en rodajas. Recalentada al día siguiente está aún mejor y aguanta 2 días en la nevera. Si cambias el pecorino por parmesano, prueba de sal: el pecorino es más salado e intenso.",
   tupper: true,
   contundencia: "contundente",
@@ -266,7 +266,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y sirve templado, cortando en porciones como una tarta."
   ],
   nutricion: { kcal: 445, prot: 34, hc: 12, grasa: 28 },
-  etiquetas: ["tradicional", "al horno", "ligera", "económica", "alta en proteína", "invierno"],
+  etiquetas: ["tradicional", "al horno", "ligera", "económica", "alta en proteína", "invierno", "keto"],
   consejo: "Es un plato de la cocina judía de Roma, de los que se preparaban los viernes con pescado azul barato. Al hornearse, el amargor de la escarola se suaviza y su agua cuece el pescado por debajo mientras la capa de arriba se tuesta. Si compras los boquerones ya limpios, ahorras 15 minutos; también sale con sardinas pequeñas. Frío, al día siguiente, está buenísimo.",
   tupper: true,
   contundencia: "ligera",
@@ -309,7 +309,7 @@ window.RECETAS_SEED.push({
     "Mientras, tuesta el pan. Termina con el resto del perejil y sirve en la misma sartén, con el pan para mojar."
   ],
   nutricion: { kcal: 470, prot: 25, hc: 40, grasa: 22 },
-  etiquetas: ["tradicional", "rápida", "una sola sartén", "para invitados"],
+  etiquetas: ["tradicional", "rápida", "una sola sartén", "para invitados", "sin verduras"],
   consejo: "La busara es la cazuela de hierro de los pescadores de Istria y Dalmacia, y por eso este plato se cocina igual en Trieste que en la costa croata; también existe en blanco, sin tomate. Las cigalas se comen con las manos y chupando las cabezas, así que pon un cuenco con agua y limón para los dedos. Con langostinos enteros sale un plato más económico e igual de sabroso.",
   tupper: false,
   contundencia: "ligera",
@@ -352,7 +352,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas recién hechas con la ensalada y el resto del limón en gajos."
   ],
   nutricion: { kcal: 450, prot: 39, hc: 26, grasa: 21 },
-  etiquetas: ["tradicional", "alta en proteína", "ligera", "para niños", "verano"],
+  etiquetas: ["tradicional", "alta en proteína", "ligera", "para niños", "verano", "poco especiada"],
   consejo: "En la costa de Romaña, de Cesenatico a Rimini, el «gratinato» es el pan rallado con ajo, perejil y aceite que se usa con casi todo el pescado: brochetas, mejillones en media concha, galeras o sardinas. También puedes hacerlas en el horno con el grill a 230 °C, 6-8 minutos y sin darles la vuelta. Si el calamar es congelado, descongélalo en la nevera y sécalo muy bien para que el empanado no se despegue.",
   tupper: false,
   contundencia: "ligera",
@@ -395,7 +395,7 @@ window.RECETAS_SEED.push({
     "Retira la rama de romero, prueba de sal y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 520, prot: 34, hc: 43, grasa: 22 },
-  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "batch cooking", "otoño"],
+  etiquetas: ["tradicional", "sin gluten", "alta en proteína", "batch cooking", "otoño", "bajo en colesterol"],
   consejo: "«In potacchio» es la forma de guisar de Ancona y de las Marcas: vino blanco, ajo, romero y solo un poco de tomate, la misma salsa que se usa con el pollo o el conejo. En la costa se hace con la cola de rape con su hueso, que da más gelatina a la salsa. El romero es el protagonista, pero amarga si se pasa: retira la rama al final. Aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -488,7 +488,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré en la base del plato, los medallones encima sin los palillos y la salsa con la salvia por encima."
   ],
   nutricion: { kcal: 495, prot: 40, hc: 26, grasa: 24 },
-  etiquetas: ["creativa", "para invitados", "alta en proteína", "otoño"],
+  etiquetas: ["creativa", "para invitados", "alta en proteína", "otoño", "sin verduras", "poco especiada"],
   consejo: "La saltimbocca alla romana se hace con filetes finos de ternera, jamón y salvia; el rape aguanta igual de bien la sartén y no se desmigaja. Funciona también con lomos gruesos de merluza o de bacalao fresco. Si tu jamón serrano es muy curado, el prosciutto crudo italiano es más suave y menos salado. Sin palillos: aprieta bien el jamón y empieza a dorar por la parte donde se cierra la loncha.",
   tupper: false,
   contundencia: "media",
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan en una sartén con la cucharada de aceite restante, 1 minuto por cada lado, frótalo con el ajo y sírvelo al lado."
   ],
   nutricion: { kcal: 565, prot: 35, hc: 42, grasa: 28 },
-  etiquetas: ["creativa", "rápida", "para invitados", "verano", "alta en proteína"],
+  etiquetas: ["creativa", "rápida", "para invitados", "verano", "alta en proteína", "poco especiada"],
   consejo: "Para comer pescado crudo con seguridad debe haberse congelado al menos 5 días a -20 °C (un congelador doméstico de tres estrellas o más), lo que elimina el riesgo de anisakis: congélalo tú o cómpralo ya ultracongelado. El crudo es la versión marinera del carpaccio y se hace igual con dorada, corvina o vieiras. Puedes preparar el aceite de albahaca y las guarniciones con antelación, pero no aliñes el pescado hasta el último momento.",
   tupper: false,
   contundencia: "media",
@@ -576,7 +576,7 @@ window.RECETAS_SEED.push({
     "Sirve el fritto misto enseguida, con la salsa y el resto del limón en gajos."
   ],
   nutricion: { kcal: 510, prot: 40, hc: 41, grasa: 20 },
-  etiquetas: ["creativa", "para niños", "alta en proteína", "verano"],
+  etiquetas: ["creativa", "para niños", "alta en proteína", "verano", "poco especiada"],
   consejo: "El fritto misto de la costa italiana se fríe en aceite abundante con solo harina o sémola; en la airfryer el panko es el que da el crujiente, porque el aire caliente no llega a tostar la harina sola. No llenes la cesta: si las piezas se tocan, se cuecen al vapor en vez de dorarse. Prueba a añadir unas hojas de salvia o rodajas finas de limón a la cesta: se vuelven crujientes y se comen.",
   tupper: false,
   contundencia: "media",
@@ -620,7 +620,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos, coloca encima el salmón en lascas grandes y sin piel, los gajos de naranja y las avellanas picadas, y riega con el resto de la vinagreta."
   ],
   nutricion: { kcal: 665, prot: 33, hc: 52, grasa: 35 },
-  etiquetas: ["creativa", "ideal para llevar", "batch cooking", "otoño", "invierno"],
+  etiquetas: ["creativa", "ideal para llevar", "batch cooking", "otoño", "invierno", "superalimentos", "poco especiada"],
   consejo: "El radicchio es la achicoria roja del Véneto: su amargor se equilibra con la naranja y la miel. Si no lo encuentras, usa endibia roja o escarola. El farro es un trigo antiguo, pariente de la espelta, que en Italia se come como el arroz; también vale la cebada perlada. Para llevar, guarda la vinagreta aparte y móntalo al momento: aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -664,7 +664,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos el caldo con las alubias y la kale, el bacalao encima, un chorrito del aceite de romero, unas gotas de limón y pimienta."
   ],
   nutricion: { kcal: 440, prot: 41, hc: 23, grasa: 19 },
-  etiquetas: ["creativa", "de cuchara", "ligera", "sin gluten", "invierno", "alta en proteína"],
+  etiquetas: ["creativa", "de cuchara", "ligera", "sin gluten", "invierno", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "En Italia no se tira la corteza del parmesano: se guarda en el congelador y se echa a la sopa. Aquí se convierte en un caldo lleno de sabor, el «brodo di parmigiano», muy usado en la cocina italiana moderna. Puedes hacerlo con antelación y congelarlo en raciones. El bacalao fresco se puede cambiar por merluza o abadejo.",
   tupper: false,
   contundencia: "ligera",
@@ -709,7 +709,7 @@ window.RECETAS_SEED.push({
     "Sirve con unas gotas de zumo del medio limón que queda."
   ],
   nutricion: { kcal: 600, prot: 36, hc: 53, grasa: 26 },
-  etiquetas: ["creativa", "al horno", "para niños", "alta en proteína"],
+  etiquetas: ["creativa", "al horno", "para niños", "alta en proteína", "poco especiada"],
   consejo: "En Sicilia los involtini se hacen con lonchas finas de pez espada rellenas de pan, queso y alcaparras, y se ensartan con laurel. Aquí se adaptan al gallo, más barato y fácil de enrollar; valen también el lenguado o filetes finos de merluza. El relleno se puede preparar con antelación y aguanta 3 días en la nevera.",
   tupper: false,
   contundencia: "media",
@@ -748,7 +748,7 @@ window.RECETAS_SEED.push({
     "Dóblala por la mitad, córtala en dos y sírvela al momento, con el pan aún caliente y el relleno frío."
   ],
   nutricion: { kcal: 560, prot: 28, hc: 35, grasa: 34 },
-  etiquetas: ["creativa", "rápida", "una sola sartén", "verano"],
+  etiquetas: ["creativa", "rápida", "una sola sartén", "verano", "poco especiada"],
   consejo: "La piadina es el pan plano de Romaña que se come caliente en cualquier quiosco, normalmente con embutido y queso tierno. Si encuentras piadine envasadas, úsalas; si no, sirve una tortilla de trigo gruesa. La stracciatella es el relleno cremoso de la burrata y se vende sola en algunos supermercados; un queso crema batido con ralladura de limón es un buen sustituto. Puedes cambiar el salmón por trucha ahumada.",
   tupper: false,
   contundencia: "media",
@@ -792,7 +792,7 @@ window.RECETAS_SEED.push({
     "Sirve la trucha sobre las judías, con el resto del limón en gajos."
   ],
   nutricion: { kcal: 550, prot: 41, hc: 23, grasa: 31 },
-  etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "económica"],
+  etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "económica", "poco especiada"],
   consejo: "La polenta, que en el norte de Italia se come cremosa o a la plancha, sirve también de empanado: cruje más que el pan rallado y no lleva gluten. La trucha es uno de los pescados más económicos y se encuentra todo el año; la receta funciona igual con caballa o con filetes de merluza. Para que la costra no se despegue, no muevas el pescado hasta que se suelte solo de la sartén.",
   tupper: false,
   contundencia: "media",
@@ -834,7 +834,7 @@ window.RECETAS_SEED.push({
     "Sirve la calabaza con su jugo, la caballa encima con la piel hacia arriba, las almendras, el resto de la menta y pimienta, con el pan tostado al lado."
   ],
   nutricion: { kcal: 605, prot: 34, hc: 38, grasa: 35 },
-  etiquetas: ["creativa", "económica", "alta en proteína", "otoño"],
+  etiquetas: ["creativa", "económica", "alta en proteína", "otoño", "poco especiada"],
   consejo: "La zucca in agrodolce es una receta casera de Palermo a la que llaman «fegato ai sette cannoli», el hígado de los siete caños, porque era el «hígado» de los pobres del barrio de la fuente de ese nombre. Está más buena de un día para otro y aguanta 4 días en la nevera, así que puedes hacer el doble. La grasa de la caballa pide algo ácido: la receta funciona igual con sardinas o con jurel.",
   tupper: false,
   contundencia: "media",
@@ -881,7 +881,7 @@ window.RECETAS_SEED.push({
     "Cocina cada paquete en el microondas a 800 W durante 3-4 minutos. El pescado está cuando se ve opaco y se separa al presionarlo. Abre con cuidado, porque sale vapor, y termina con el resto del pesto, la albahaca reservada y unas gotas de zumo del otro medio limón."
   ],
   nutricion: { kcal: 565, prot: 38, hc: 34, grasa: 30 },
-  etiquetas: ["creativa", "rápida", "sin gluten", "verano"],
+  etiquetas: ["creativa", "rápida", "sin gluten", "verano", "poco especiada"],
   consejo: "Las triglie al cartoccio son un clásico de Liguria y de la costa toscana; esta versión de microondas es igual de jugosa y no necesita encender el horno. Si prefieres el horno, monta los paquetes igual y hornéalos 10-12 minutos a 200 °C. El pesto de pistacho es típico de Sicilia y aguanta 4 días en la nevera cubierto con un poco de aceite. Funciona también con filetes de dorada o de lubina: añade 1 minuto más.",
   tupper: false,
   contundencia: "media",

@@ -9,7 +9,7 @@ window.RECETAS_SEED.push({
   nombre: "Ñoquis de ricotta y espinacas con salsa rápida de tomate y albahaca",
   subtitulo: "aprende a hacer ñoquis ligeros: masa bien escurrida, poca harina y cocción sin hervor fuerte",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Pásalos a la sartén de la salsa, muévelos con suavidad y sirve con el resto del parmesano y la albahaca."
   ],
   nutricion: { kcal: 625, prot: 34, hc: 41, grasa: 36 },
-  etiquetas: ["técnica", "ñoquis", "casera", "italiana"],
+  etiquetas: ["técnica", "ñoquis", "casera", "italiana", "verduras escondidas", "poco especiada"],
   consejo: "El error típico es una masa demasiado húmeda que obliga a ir añadiendo harina hasta que los ñoquis quedan densos como plomo. Escurrir bien la ricotta y las espinacas lo evita. Se congelan crudos en bandeja, separados, y se cuecen directamente sin descongelar.",
   contundencia: "media",
   coste: "media",
@@ -86,7 +86,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmón con la piel hacia arriba sobre el puré, con las espinacas al lado, unas gotas de limón y escamas de sal sobre la piel."
   ],
   nutricion: { kcal: 730, prot: 38, hc: 37, grasa: 48 },
-  etiquetas: ["técnica", "punto con termómetro", "pescado azul", "omega 3", "sin gluten"],
+  etiquetas: ["técnica", "punto con termómetro", "pescado azul", "omega 3", "sin gluten", "poco especiada"],
   consejo: "Temperaturas de referencia en el centro: salmón y atún 45-50 °C; pescado blanco (merluza, bacalao, lubina) 52-55 °C; pollo 74 °C; cerdo 63 °C. Sin termómetro, la señal es la carne que empieza a separarse en lascas pero sigue brillante en el centro. Un termómetro de pincho es la herramienta más barata para dejar de pasar el pescado.",
   contundencia: "contundente",
   coste: "premium",
@@ -130,7 +130,7 @@ window.RECETAS_SEED.push({
     "Corta el entrecot en tiras gruesas contra la fibra, riégalo con la mantequilla aromatizada y sírvelo con las patatas y los pimientos."
   ],
   nutricion: { kcal: 795, prot: 45, hc: 37, grasa: 52 },
-  etiquetas: ["técnica", "punto con termómetro", "alta en proteína", "para invitados", "sin gluten"],
+  etiquetas: ["técnica", "punto con termómetro", "alta en proteína", "para invitados", "sin gluten", "poco especiada"],
   consejo: "El error típico es cocinar la carne recién sacada de la nevera y cortarla sin reposo: queda gris por fuera, cruda por dentro y suelta todo el jugo. Sin termómetro, haz la prueba del dedo: compara la firmeza de la carne con la base del pulgar (relajada, poco hecha; tensa al juntar pulgar y anular, hecha). Funciona igual con solomillo, lomo alto o presa ibérica.",
   contundencia: "contundente",
   coste: "premium",
@@ -176,7 +176,7 @@ window.RECETAS_SEED.push({
     "Monta la ensalada con la quinoa, la rúcula, las verduras encurtidas escurridas, el feta desmenuzado y las nueces. Aliña con el aceite, 2 cucharadas del líquido del encurtido y pimienta."
   ],
   nutricion: { kcal: 590, prot: 20, hc: 57, grasa: 31 },
-  etiquetas: ["técnica", "encurtido rápido", "vegetariano", "tupper", "ideal para llevar", "sin gluten"],
+  etiquetas: ["técnica", "encurtido rápido", "vegetariano", "tupper", "ideal para llevar", "sin gluten", "superalimentos", "poco especiada"],
   consejo: "Con la misma salmuera puedes encurtir pepino, zanahoria, rábano, hinojo o pimiento. El error típico es usar el vinagre sin diluir: el encurtido queda agresivo y pierde el crujiente. Para el tupper, lleva la rúcula y el aliño aparte; el líquido sobrante del encurtido es una base estupenda para vinagretas.",
   contundencia: "media",
   coste: "media",
@@ -216,7 +216,7 @@ window.RECETAS_SEED.push({
     "Sirve al momento con las patatas, napándolo todo con la salsa."
   ],
   nutricion: { kcal: 505, prot: 26, hc: 26, grasa: 33 },
-  etiquetas: ["técnica", "pil pil", "emulsionar", "tradicional", "para invitados", "sin gluten"],
+  etiquetas: ["técnica", "pil pil", "emulsionar", "tradicional", "para invitados", "sin gluten", "sin verduras"],
   consejo: "Si el pil pil no liga, casi siempre es por aceite demasiado caliente o pescado frío. Aparta la cazuela, deja que se temple, añade una cucharada de agua tibia y sigue moviendo, o bate la salsa con un colador para ayudarla. La misma técnica funciona con bacalao desalado con piel, que suelta mucha gelatina.",
   contundencia: "media",
   coste: "premium",
@@ -228,7 +228,7 @@ window.RECETAS_SEED.push({
   nombre: "Endivias braseadas y gratinadas con bechamel de gruyère y nueces",
   subtitulo: "aprende a hacer una bechamel lisa y en su punto, sin grumos ni sabor a harina",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["cena"],
   proteina: "queso",
@@ -260,7 +260,7 @@ window.RECETAS_SEED.push({
     "Coloca las endivias en una fuente, cúbrelas con la bechamel, espolvorea el resto del queso y las nueces picadas y gratina 8-10 minutos, hasta que la superficie esté dorada y burbujee."
   ],
   nutricion: { kcal: 460, prot: 20, hc: 28, grasa: 30 },
-  etiquetas: ["técnica", "bechamel", "gratinado", "tupper", "invierno"],
+  etiquetas: ["técnica", "bechamel", "gratinado", "tupper", "invierno", "poco especiada"],
   consejo: "Proporciones de bechamel: ligera, para napar y gratinar, unos 20-25 g de mantequilla y de harina por cada 400 ml de leche; espesa, para croquetas, 50 g de mantequilla y 60 g de harina por cada 500 ml. Si te salen grumos, pásala por la batidora y vuelve a calentarla. Para que no haga costra mientras esperas, cúbrela con film a piel.",
   contundencia: "ligera",
   coste: "media",
@@ -305,7 +305,7 @@ window.RECETAS_SEED.push({
     "Aliña la escarola con la mostaza, el vinagre y 1 cucharada del aceite del confit, y sírvela con el pollo, las patatas y los ajos confitados para untar."
   ],
   nutricion: { kcal: 745, prot: 40, hc: 36, grasa: 49 },
-  etiquetas: ["técnica", "confitar", "baja temperatura", "tupper", "de domingo", "sin gluten"],
+  etiquetas: ["técnica", "confitar", "baja temperatura", "tupper", "de domingo", "sin gluten", "poco especiada"],
   consejo: "El error típico es dejar que el aceite hierva: entonces fríes y la carne queda seca y dura; con termómetro, mantén 85-90 °C. Guarda los contramuslos cubiertos con su aceite en la nevera hasta una semana. El aceite colado, perfumado con ajo y tomillo, sirve para saltear patatas o para otro confit (hasta 3 veces).",
   contundencia: "contundente",
   coste: "económica",
@@ -352,7 +352,7 @@ window.RECETAS_SEED.push({
     "Aliña con 4 cucharadas de mayonesa de aquafaba aclarada con el resto del zumo de limón, y pimienta. Guarda la mayonesa sobrante en un bote en la nevera."
   ],
   nutricion: { kcal: 615, prot: 18, hc: 52, grasa: 37 },
-  etiquetas: ["técnica", "emulsionar", "vegano", "sin huevo", "tupper", "ideal para llevar", "sin gluten"],
+  etiquetas: ["técnica", "emulsionar", "vegano", "sin huevo", "tupper", "ideal para llevar", "sin gluten", "poco especiada"],
   consejo: "La mayonesa de aquafaba aguanta 5 días en la nevera, más que la de huevo. Si se corta, pon 2 cucharadas de aquafaba en un vaso limpio y añade la mayonesa cortada poco a poco, batiendo. El líquido de los garbanzos de bote también se monta como las claras para merengues y mousses veganas.",
   contundencia: "media",
   coste: "económica",
@@ -452,7 +452,7 @@ window.RECETAS_SEED.push({
     "Sirve las costillas con el puré y el glaseado sobrante caliente aparte."
   ],
   nutricion: { kcal: 885, prot: 45, hc: 64, grasa: 50 },
-  etiquetas: ["técnica", "brasear", "glasear", "olla exprés", "de domingo", "tupper"],
+  etiquetas: ["técnica", "brasear", "glasear", "olla exprés", "de domingo", "tupper", "poco especiada"],
   consejo: "Brasear en olla exprés ahorra dos tercios del tiempo, pero pide menos líquido y un buen dorado previo: sin evaporación, el sabor sale de la costra inicial. Al glasear con melaza o miel, el error típico es gratinar demasiado, porque el azúcar pasa de lacado a quemado en un minuto. Las costillas braseadas aguantan 3 días; glaséalas justo antes de servir.",
   contundencia: "contundente",
   coste: "media",
@@ -495,7 +495,7 @@ window.RECETAS_SEED.push({
     "Ajusta de sal, añade unas gotas de limón y pimienta blanca y sirve con las semillas tostadas y las hojitas de hinojo."
   ],
   nutricion: { kcal: 455, prot: 9, hc: 46, grasa: 26 },
-  etiquetas: ["técnica", "emulsionar", "crema", "vegano", "tupper", "ligera", "sin gluten"],
+  etiquetas: ["técnica", "emulsionar", "crema", "vegano", "tupper", "ligera", "sin gluten", "detox", "poco especiada"],
   consejo: "La patata (o un puñado de arroz o de pan) es el espesante natural de cualquier crema, y el aceite añadido al final en hilo la vuelve sedosa. El error típico es echar demasiado caldo al principio: mejor quedarse corto y aclarar después. Si al recalentarla congelada se separa, vuelve a batirla 30 segundos.",
   contundencia: "ligera",
   coste: "económica",
@@ -539,7 +539,7 @@ window.RECETAS_SEED.push({
     "Reparte los fideos en dos cuencos, vierte encima el caldo con las almejas y las espinacas y termina con el huevo partido, el cebollino picado y el sésamo."
   ],
   nutricion: { kcal: 320, prot: 20, hc: 42, grasa: 8 },
-  etiquetas: ["técnica", "fondo", "dashi", "japonesa", "umami", "ligera"],
+  etiquetas: ["técnica", "fondo", "dashi", "japonesa", "umami", "ligera", "poco especiada"],
   consejo: "El kombu y el bonito usados se aprovechan una segunda vez para un caldo más suave, ideal para guisos. El error típico es hervir el kombu: suelta mucílago y amarga. Versión vegana del dashi: kombu y shiitake seco en remojo frío toda la noche en la nevera.",
   contundencia: "ligera",
   coste: "media",
@@ -551,7 +551,7 @@ window.RECETAS_SEED.push({
   nombre: "Seitán casero cocido en caldo con salsa de champiñones al vino blanco y judías verdes",
   subtitulo: "aprende a hacer seitán: amasar el gluten lo justo y cocerlo sin hervor para que no quede esponjoso",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "seitan",
@@ -589,7 +589,7 @@ window.RECETAS_SEED.push({
     "Devuelve el seitán a la salsa 2 minutos para que se impregne y sirve con las judías verdes, el tomillo y pimienta."
   ],
   nutricion: { kcal: 455, prot: 53, hc: 25, grasa: 16 },
-  etiquetas: ["técnica", "seitán casero", "vegano", "alta en proteína", "tupper", "batch cooking"],
+  etiquetas: ["técnica", "seitán casero", "vegano", "alta en proteína", "tupper", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "El seitán casero se conserva 5 días en la nevera sumergido en su caldo y se congela muy bien. El error típico es hervirlo fuerte o amasarlo de más; si te queda gomoso, la próxima vez añade más harina de garbanzo (hasta 40 g) y amasa menos. El caldo sobrante es una base excelente para sopas y guisos.",
   contundencia: "ligera",
   coste: "económica",
@@ -636,7 +636,7 @@ window.RECETAS_SEED.push({
     "Monta los cuencos con los fideos, las verduras y el pollo, riega con la salsa y termina con la parte verde de la cebolleta, la menta, el cilantro y el sésamo."
   ],
   nutricion: { kcal: 450, prot: 43, hc: 45, grasa: 11 },
-  etiquetas: ["técnica", "escalfar", "alta en proteína", "tupper", "ideal para llevar", "sin lácteos"],
+  etiquetas: ["técnica", "escalfar", "alta en proteína", "tupper", "ideal para llevar", "sin lácteos", "bajo en colesterol"],
   consejo: "El escalfado con calor residual sirve para cualquier pechuga de pollo o pavo y para lomos de pescado blanco: la clave es no dejar que hierva nunca. El caldo resultante, colado, sirve para sopas o para cocer arroz. Para el tupper, guarda la salsa aparte y añádela al servir.",
   contundencia: "ligera",
   coste: "media",
@@ -648,7 +648,7 @@ window.RECETAS_SEED.push({
   nombre: "Brochetas de tempeh marinadas al pimentón y comino con bulgur al tomate y salsa de tahini",
   subtitulo: "aprende a marinar proteína vegetal: precocer, marinar en caliente y dorar",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "tempeh",
@@ -683,7 +683,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre el bulgur con la salsa de tahini por encima."
   ],
   nutricion: { kcal: 605, prot: 28, hc: 51, grasa: 32 },
-  etiquetas: ["técnica", "marinar", "vegano", "alta en proteína", "tupper", "ideal para llevar"],
+  etiquetas: ["técnica", "marinar", "vegano", "alta en proteína", "tupper", "ideal para llevar", "superalimentos"],
   consejo: "Para marinar proteínas vegetales (tempeh, tofu, seitán), el truco es que estén calientes o bien secas: el tofu prensado y el tempeh precocido absorben el triple. El error típico es marinarlos en frío y poco tiempo: quedan sosos por dentro. Esta misma marinada sirve para pollo, como máximo 4 horas por el limón.",
   contundencia: "media",
   coste: "media",
@@ -729,7 +729,7 @@ window.RECETAS_SEED.push({
     "Cuece las patatas con piel en agua con sal 20 minutos, pélalas y córtalas en rodajas. Sirve la trucha a temperatura ambiente sobre la patata, con las verduras del escabeche, un par de cucharadas de su jugo y perejil picado."
   ],
   nutricion: { kcal: 460, prot: 34, hc: 34, grasa: 21 },
-  etiquetas: ["técnica", "escabechar", "marinar", "omega 3", "tupper", "económica"],
+  etiquetas: ["técnica", "escabechar", "marinar", "omega 3", "tupper", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "El escabeche es una técnica de conservación: el pescado aguanta 5-6 días en la nevera siempre que esté cubierto por el líquido. El error típico es freír el pescado del todo antes de escabecharlo: queda seco y se deshace. Funciona igual con caballa, sardina, bonito, pollo o codorniz (estos dos, cocidos 25-30 minutos dentro del propio escabeche).",
   contundencia: "ligera",
   coste: "económica",
@@ -741,7 +741,7 @@ window.RECETAS_SEED.push({
   nombre: "Pad see ew vegetariano: fideos de arroz anchos salteados al wok con brócoli, tofu y huevo",
   subtitulo: "aprende a saltear fideos al wok: hidratados en templado, fuego máximo y sin remover al principio",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "pasta-arroces",
   cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -771,7 +771,7 @@ window.RECETAS_SEED.push({
     "Devuelve el tofu y el brócoli con el resto de la salsa y saltea 1 minuto más, levantando con dos espátulas para no romper los fideos. Sirve con pimienta blanca."
   ],
   nutricion: { kcal: 620, prot: 27, hc: 69, grasa: 26 },
-  etiquetas: ["técnica", "saltear", "wok", "tailandesa", "sin lácteos"],
+  etiquetas: ["técnica", "saltear", "wok", "tailandesa", "sin lácteos", "poco especiada"],
   consejo: "Con fideos de arroz el error típico es cocerlos de más antes de saltear: se convierten en una masa. Remójalos en agua templada y deja que terminen en el wok con la salsa. Si se pegan, el wok no estaba lo bastante caliente o falta un poco de aceite.",
   contundencia: "media",
   coste: "económica",
@@ -820,7 +820,7 @@ window.RECETAS_SEED.push({
     "Sirve el pollo con el arroz, la cebolla crujiente y cilantro fresco por encima."
   ],
   nutricion: { kcal: 835, prot: 49, hc: 74, grasa: 38 },
-  etiquetas: ["técnica", "ligar con yogur", "curry", "tupper", "batch cooking", "sin gluten"],
+  etiquetas: ["técnica", "ligar con yogur", "curry", "tupper", "batch cooking", "sin gluten", "sin verduras"],
   consejo: "Tres reglas para que el yogur no se corte: entero y a temperatura ambiente, estabilizado con un poco de harina o maicena, y añadido sin hervor fuerte. Si aun así se corta, la salsa sigue sabiendo bien: tritúrala 10 segundos con la batidora y quedará lisa de nuevo.",
   contundencia: "contundente",
   coste: "media",
@@ -832,7 +832,7 @@ window.RECETAS_SEED.push({
   nombre: "Pici toscanos de pasta fresca sin huevo con salsa all'aglione de tomate y ajo",
   subtitulo: "aprende a hacer pasta fresca sin huevo: harina, agua y aceite, amasada y rodada a mano",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "verdura",
@@ -862,7 +862,7 @@ window.RECETAS_SEED.push({
     "Pásalos a la salsa con un chorrito del agua de cocción y saltea 1 minuto para que la salsa se agarre. Sirve con el pangrattato y perejil picado."
   ],
   nutricion: { kcal: 605, prot: 14, hc: 88, grasa: 22 },
-  etiquetas: ["técnica", "pasta fresca", "casera", "italiana", "económica"],
+  etiquetas: ["técnica", "pasta fresca", "casera", "italiana", "económica", "sin verduras", "bajo en colesterol"],
   consejo: "La pasta sin huevo (pici, orecchiette, cavatelli) es más fácil de lo que parece y no necesita máquina. El error típico es enharinar la encimera al rodar: los pici resbalan y no se alargan. Se congelan crudos en bandeja y luego en bolsa, y se cuecen sin descongelar.",
   contundencia: "media",
   coste: "económica",
@@ -905,7 +905,7 @@ window.RECETAS_SEED.push({
     "Apaga, reposa 2 minutos y sirve el arroz con la dorada aparte, unas cucharadas de caldo caliente y el alioli para mezclar al gusto, como se hace en el Mar Menor."
   ],
   nutricion: { kcal: 790, prot: 33, hc: 67, grasa: 43 },
-  etiquetas: ["técnica", "fumet", "fondo de pescado", "arroz", "tradicional", "para invitados", "sin gluten"],
+  etiquetas: ["técnica", "fumet", "fondo de pescado", "arroz", "tradicional", "para invitados", "sin gluten", "sin verduras", "poco especiada"],
   consejo: "Reglas del fumet: espinas de pescado blanco (las de pescado azul amargan), sin agallas, agua fría y no más de 25 minutos. El que sobre se congela 3 meses. Si te queda turbio, déjalo reposar y cuela solo la parte de arriba. Cambiando la ñora por puerro y vino blanco tienes un fumet neutro para salsas y sopas.",
   contundencia: "contundente",
   coste: "premium",
@@ -945,7 +945,7 @@ window.RECETAS_SEED.push({
     "Retíralo, sálalo con escamas y riégalo enseguida con la picada. Sirve sobre las patatas con unas gotas de limón."
   ],
   nutricion: { kcal: 465, prot: 34, hc: 31, grasa: 23 },
-  etiquetas: ["técnica", "plancha", "sellar", "ligera", "sin gluten"],
+  etiquetas: ["técnica", "plancha", "sellar", "ligera", "sin gluten", "sin verduras", "poco especiada"],
   consejo: "Si tu plancha no es potente, cocina el calamar en dos tandas: si se acumula agua, se cuece y se endurece. El calamar congelado sirve igual, pero descongélalo en la nevera sobre un colador y sécalo muy bien. La misma regla vale para sepia, chipirones y gambas.",
   contundencia: "ligera",
   coste: "media",
@@ -988,7 +988,7 @@ window.RECETAS_SEED.push({
     "Sirve las chuletas con los pimientos asados y las patatas."
   ],
   nutricion: { kcal: 580, prot: 34, hc: 34, grasa: 34 },
-  etiquetas: ["técnica", "punto con termómetro", "salmuera", "alta en proteína", "sin gluten"],
+  etiquetas: ["técnica", "punto con termómetro", "salmuera", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "Una salmuera de 30-60 g de sal por litro, de 30 minutos a 2 horas según el grosor, es el seguro de jugosidad para pechuga de pollo, pavo, lomo y chuletas. El error típico es dejarla demasiado tiempo o volver a salar después: la carne queda salada como un jamón. Los pimientos asados aguantan 5 días en la nevera cubiertos con su jugo y aceite.",
   contundencia: "media",
   coste: "económica",
@@ -1032,7 +1032,7 @@ window.RECETAS_SEED.push({
     "Bate el zumo y la ralladura del limón con la mostaza, sal y pimienta, y añade el aceite batiendo. Aliña las verduras justo antes de servir (el ácido del limón amarillea el verde con el tiempo) con la cebolleta picada fina, la menta y las almendras."
   ],
   nutricion: { kcal: 415, prot: 16, hc: 18, grasa: 31 },
-  etiquetas: ["técnica", "blanquear", "vegano", "tupper", "ideal para llevar", "sin gluten"],
+  etiquetas: ["técnica", "blanquear", "vegano", "tupper", "ideal para llevar", "sin gluten", "detox", "superalimentos", "poco especiada"],
   consejo: "Blanquear y enfriar en hielo es la técnica base para verduras verdes crujientes y para adelantar trabajo: blanqueadas y secas aguantan 3 días en la nevera. Para el tupper, lleva el aliño aparte. El error típico es salar poco el agua: debe saber como agua de mar, porque es la única ocasión de sazonar la verdura por dentro.",
   contundencia: "ligera",
   coste: "media",
@@ -1081,7 +1081,7 @@ window.RECETAS_SEED.push({
     "Tritura el perejil con 2 cucharadas de aceite y una pizca de sal hasta obtener un aceite verde. Sirve la sopa con unas gotas por encima."
   ],
   nutricion: { kcal: 390, prot: 10, hc: 36, grasa: 23 },
-  etiquetas: ["técnica", "fondo de verduras", "de cuchara", "vegano", "ligera", "tupper", "económica", "sin gluten"],
+  etiquetas: ["técnica", "fondo de verduras", "de cuchara", "vegano", "ligera", "tupper", "económica", "sin gluten", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "No pongas en el fondo coles, brócoli ni pimientos (amargan y dominan) ni patata (lo enturbia). Guarda en una bolsa en el congelador recortes de verdura (pieles de cebolla, tallos de champiñón, verde de puerro) hasta tener suficiente para un fondo. Error típico: hervirlo más de una hora pensando que tendrá más sabor; sabe a verdura cansada.",
   contundencia: "ligera",
   coste: "económica",
@@ -1128,7 +1128,7 @@ window.RECETAS_SEED.push({
     "Sirve la polenta en plato llano, haz un hueco en el centro con el dorso de una cuchara y vierte encima el ragú caliente."
   ],
   nutricion: { kcal: 810, prot: 31, hc: 70, grasa: 45 },
-  etiquetas: ["técnica", "polenta", "italiana", "de domingo", "invierno"],
+  etiquetas: ["técnica", "polenta", "italiana", "de domingo", "invierno", "poco especiada"],
   consejo: "La polenta sobrante se extiende en una bandeja y, al enfriarse, queda firme: córtala en porciones y dórala en sartén o al horno al día siguiente. El error típico es servirla espesa, porque endurece en segundos en el plato: déjala más suelta de lo que crees. La regla de la lluvia y las varillas sirve también para la sémola y las gachas.",
   contundencia: "contundente",
   coste: "media",

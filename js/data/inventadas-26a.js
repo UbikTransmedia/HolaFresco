@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Sirve primero la sopa con una ramita de hierbabuena; después, en el mismo plato o aparte, los garbanzos con la patata, la verdura y la pringá, regados con un cazo de caldo."
   ],
   nutricion: { kcal: 910, prot: 62, hc: 98, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "batch cooking", "poco especiada"],
   consejo: "La pringá sobrante es el mejor relleno de un montadito con pan tostado. Y si el caldo te sale con mucha grasa, enfríalo en la nevera: la grasa se queda arriba en una capa y la retiras con una cuchara.",
   contundencia: "contundente",
   coste: "media"
@@ -93,7 +93,7 @@ window.RECETAS_SEED.push({
     "Sirve primero la escudella bien caliente; después la carn d'olla en trozos, con la pilota cortada en rodajas, la butifarra, las verduras y los garbanzos, con un chorrito de aceite crudo."
   ],
   nutricion: { kcal: 1010, prot: 70, hc: 92, grasa: 40 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "Para que la pilota no se rompa al cocer, que el caldo no hierva a borbotones fuertes cuando la metas. Con la carne que sobre haz unas croquetas o unos canelones: es lo que se hace en Cataluña el día de San Esteban.",
   contundencia: "contundente",
   coste: "premium"
@@ -133,7 +133,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal (el compango ya sala bastante), deja reposar 10 minutos con el fuego apagado y sirve con el compango cortado en rodajas encima."
   ],
   nutricion: { kcal: 880, prot: 40, hc: 82, grasa: 42 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "El pote está mucho mejor de un día para otro: el caldo engorda y los sabores se asientan. Si te queda muy espeso al recalentar, alárgalo con un chorrito de agua caliente.",
   contundencia: "contundente",
   coste: "económica"
@@ -179,7 +179,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve con el perejil picado y los picatostes por encima."
   ],
   nutricion: { kcal: 560, prot: 52, hc: 32, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "invierno", "sin verduras", "poco especiada"],
   consejo: "Las almejas sueltan la arena si las dejas una hora en agua fría con un buen puñado de sal. El caldo de cabezas se puede congelar: haz el doble y tendrás la base para un arroz caldoso otro día.",
   contundencia: "media",
   coste: "premium"
@@ -221,7 +221,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con un huevo en cada uno, el queso fresco en dados y mucho cilantro picado por encima."
   ],
   nutricion: { kcal: 470, prot: 22, hc: 50, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "ligera"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "ligera", "poco especiada"],
   consejo: "Si no te gusta el cilantro, usa perejil y una pizca más de comino. Para una versión más contundente, añade un trozo de costilla al sofrito y cuécela con las papas.",
   contundencia: "ligera",
   coste: "económica"
@@ -263,7 +263,7 @@ window.RECETAS_SEED.push({
     "Sirve con los higos o unas uvas al lado, como se hace en Extremadura: el contraste dulce le sienta de maravilla."
   ],
   nutricion: { kcal: 520, prot: 18, hc: 62, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "verano"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "verano", "poco especiada"],
   consejo: "Es la sopa de aprovechamiento por excelencia: tomates muy maduros que nadie quiere y pan duro. Cuanto más maduro y feo sea el tomate, más rica sale.",
   contundencia: "media",
   coste: "económica"
@@ -302,7 +302,7 @@ window.RECETAS_SEED.push({
     "Corta las otras 2 rebanadas de pan en tiras finas, ponlas en el fondo de los platos y vierte la sopa por encima."
   ],
   nutricion: { kcal: 390, prot: 26, hc: 40, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Tradicionalmente se hace con naranja agria; si la consigues, usa solo su zumo y prescinde del limón. Echa siempre el zumo al final y fuera del fuego, porque hervido amarga.",
   contundencia: "ligera",
   coste: "económica"
@@ -344,7 +344,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos tapado para que el pan absorba el caldo: las sopes deben quedar jugosas, casi sin caldo suelto, y se comen con cuchara."
   ],
   nutricion: { kcal: 510, prot: 14, hc: 70, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "En Mallorca se acompañan con aceitunas, rábanos o un buen higo seco, y en temporada se les añaden setas (esclata-sangs). El pan debe estar seco: si está tierno, se deshace en papilla.",
   contundencia: "media",
   coste: "económica"
@@ -381,7 +381,7 @@ window.RECETAS_SEED.push({
     "Saca el chorizo, córtalo en rodajas y devuélvelo a la cazuela. Prueba de sal y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 600, prot: 18, hc: 74, grasa: 26 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "batch cooking", "poco especiada"],
   consejo: "Si usas castañas frescas, hazles un corte, ásalas 15 minutos a 200 °C y pélalas en caliente envueltas en un trapo. Algunas abuelas terminaban el caldo con un chorro de leche: pruébalo, queda muy suave.",
   contundencia: "media",
   coste: "media"
@@ -421,7 +421,7 @@ window.RECETAS_SEED.push({
     "Casca los huevos sobre la sopa, tapa y deja 3 minutos a fuego mínimo hasta que la clara cuaje. Sirve con perejil picado."
   ],
   nutricion: { kcal: 560, prot: 42, hc: 38, grasa: 26 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "saciante"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "saciante", "sin verduras"],
   consejo: "Si no tienes carne de pimiento choricero, hidrata 2 pimientos choriceros en agua caliente 20 minutos y raspa la pulpa con una cucharilla. En los caseríos se cocía directamente en cazuela de barro y se servía en ella.",
   contundencia: "media",
   coste: "media"
@@ -461,7 +461,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el huevo duro picado, los picatostes y un poco de pimienta negra recién molida."
   ],
   nutricion: { kcal: 410, prot: 18, hc: 36, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños", "poco especiada"],
   consejo: "No te pases con el caldo: el calabacín suelta mucha agua. Es mejor que se quede un poco corto y ajustar la textura al triturar. Se congela muy bien (sin el huevo ni los picatostes).",
   contundencia: "ligera",
   coste: "económica"
@@ -502,7 +502,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con un huevo poché en el centro de cada plato y los picatostes alrededor."
   ],
   nutricion: { kcal: 400, prot: 20, hc: 40, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "poco especiada"],
   consejo: "Casca cada huevo antes en una taza: así lo dejas caer con suavidad y queda más redondo. Si usas espinacas congeladas (300 g), añádelas a la vez que la patata.",
   contundencia: "ligera",
   coste: "económica"
@@ -543,7 +543,7 @@ window.RECETAS_SEED.push({
     "Calienta el puré 5 minutos más y sírvelo con el chorizo y los picatostes por encima y un hilo de la grasa del chorizo."
   ],
   nutricion: { kcal: 760, prot: 36, hc: 86, grasa: 30 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Las lentejas pardinas no necesitan remojo. El puré espesa mucho al enfriar: al día siguiente aclara con un chorrito de agua o caldo mientras lo calientas.",
   contundencia: "contundente",
   coste: "económica"
@@ -588,7 +588,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, deja reposar 5 minutos y sirve en plato hondo, que debe quedar jugoso y de cuchara."
   ],
   nutricion: { kcal: 760, prot: 58, hc: 60, grasa: 32 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "poco especiada"],
   consejo: "Si no encuentras torta cenceña, usa tortillas de trigo finas tostadas en sartén seca y troceadas: el resultado es muy parecido. Guarda un trozo de torta para usarlo como cuchara, como hacían los pastores.",
   contundencia: "contundente",
   coste: "media"
@@ -629,7 +629,7 @@ window.RECETAS_SEED.push({
     "Añade el bacalao desmigado y unas hojas de hierbabuena y cuece 4 minutos más. Prueba de sal y sirve con más hierbabuena por encima."
   ],
   nutricion: { kcal: 700, prot: 42, hc: 84, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "bajo en colesterol"],
   consejo: "No estires demasiado los andrajos de golpe: si la masa se encoge, déjala reposar 5 minutos más y vuelve a intentarlo. También se hacen con liebre o con conejo en lugar de bacalao.",
   contundencia: "contundente",
   coste: "media"
@@ -676,7 +676,7 @@ window.RECETAS_SEED.push({
     "Sirve el cocido en plato hondo con su caldo, los garbanzos y la patata, una pelota y media por persona y el pollo y la panceta por encima."
   ],
   nutricion: { kcal: 920, prot: 60, hc: 90, grasa: 36 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "poco especiada"],
   consejo: "En Murcia las pelotas se hacen también con sangre o con un poco de tocino picado; la canela y el limón son lo que les da su sabor tan particular, no te los saltes. Si te sobran, están buenísimas al día siguiente con tomate frito.",
   contundencia: "contundente",
   coste: "media"
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
     "Apaga, deja reposar 10 minutos y sirve en plato hondo con su caldo, con la morcilla y la panceta en trozos."
   ],
   nutricion: { kcal: 840, prot: 40, hc: 80, grasa: 40 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "En invierno se le añade cardo y nabo, y en algunos pueblos unas pelotas como las del cocido. El boniato le da un punto dulce muy característico: no lo cambies por más patata.",
   contundencia: "contundente",
   coste: "económica"
@@ -761,7 +761,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y sirve con la costilla y el millo en el plato."
   ],
   nutricion: { kcal: 610, prot: 30, hc: 72, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "poco especiada"],
   consejo: "En Canarias se sirve con gofio espolvoreado por encima o amasado con un poco del caldo. Si no encuentras berros, se hace igual con espinacas o acelgas, aunque pierde ese punto picantito.",
   contundencia: "media",
   coste: "media"
@@ -804,7 +804,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, deja reposar 5 minutos y sirve bien caliente."
   ],
   nutricion: { kcal: 850, prot: 48, hc: 92, grasa: 32 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "poco especiada"],
   consejo: "Los fideos siguen chupando caldo después de apagar el fuego: si lo vas a guardar, cuécelos aparte y añádelos al servir. Tradicionalmente lleva carne de cerdo y de res mezcladas, así que puedes poner mitad y mitad.",
   contundencia: "contundente",
   coste: "media"
@@ -843,7 +843,7 @@ window.RECETAS_SEED.push({
     "Añade el zumo de la naranja y del medio limón, prueba de sal y sirve con perejil picado y pan tostado para mojar."
   ],
   nutricion: { kcal: 390, prot: 32, hc: 30, grasa: 16 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "rápida", "ligera"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "rápida", "ligera", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Se dice que se llama así porque los pescadores del Puerto de Santa María lo hacían con el pescado más humilde. El zumo siempre fuera del fuego: hervido amarga y pierde aroma.",
   contundencia: "ligera",
   coste: "media"
@@ -884,7 +884,7 @@ window.RECETAS_SEED.push({
     "Sirve con el huevo duro picado y perejil fresco por encima."
   ],
   nutricion: { kcal: 420, prot: 20, hc: 58, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños", "invierno", "poco especiada"],
   consejo: "Corta las verduras todas del mismo tamaño, así se cocinan a la vez y cada cucharada lleva un poco de todo. Si tienes caldo casero de cocido, esta sopa sube de nivel.",
   contundencia: "ligera",
   coste: "económica"
@@ -967,7 +967,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con las tiras de pollo, el huevo picado y el jamón en taquitos por encima."
   ],
   nutricion: { kcal: 560, prot: 40, hc: 30, grasa: 31 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "de domingo", "poco especiada"],
   consejo: "Es la crema de los banquetes de antes: si quieres darle el toque de lujo, termina con una yema batida con dos cucharadas de nata, fuera del fuego. El caldo puedes hacerlo con carcasas y te sale aún más económica.",
   contundencia: "media",
   coste: "económica"
@@ -1011,7 +1011,7 @@ window.RECETAS_SEED.push({
     "Saca las carnes y córtalas en trozos para la pringá. Sirve la berza con su caldo y la pringá aparte, para comerla con pan."
   ],
   nutricion: { kcal: 870, prot: 40, hc: 80, grasa: 44 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "poco especiada"],
   consejo: "En Jerez la berza lleva tagarninas o cardos en temporada; si los encuentras, añádelos con la col. Es aún mejor de un día para otro, así que hazla con calma la víspera.",
   contundencia: "contundente",
   coste: "media"
@@ -1052,7 +1052,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con los picatostes y un hilo de aceite de oliva crudo por encima."
   ],
   nutricion: { kcal: 410, prot: 12, hc: 54, grasa: 16 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Es la crema de vaciar la nevera: vale cualquier verdura que tengas, pero mantén siempre puerro y patata, que dan cuerpo y suavidad. Congela en raciones sin los picatostes.",
   contundencia: "ligera",
   coste: "económica"

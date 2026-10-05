@@ -41,7 +41,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade el vinagre, salpimienta y espolvorea perejil picado. Sirve con pan de centeno."
   ],
   nutricion: { kcal: 614, prot: 34, hc: 70, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "batch cooking", "poco especiada"],
   consejo: "El chorrito de vinagre al final es imprescindible en Alemania: despierta el sabor de la lenteja. Pon el bote en la mesa para que cada uno añada más a su gusto.",
   contundencia: "media",
   coste: "media"
@@ -84,7 +84,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre una rebanada de pan de centeno tostado en el fondo del plato."
   ],
   nutricion: { kcal: 886, prot: 48, hc: 70, grasa: 46 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "para invitados"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "En Bearne se termina con el chabròt: un chorro de vino tinto en el último caldo del plato, que se bebe directamente. La grasa de pato que sobra del confit, guárdala para unas patatas.",
   contundencia: "contundente",
   coste: "premium"
@@ -125,7 +125,7 @@ window.RECETAS_SEED.push({
     "Salpimienta y sirve con la costilla. Está mejor reposada de un día para otro."
   ],
   nutricion: { kcal: 552, prot: 32, hc: 52, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "El refrito de harina tostada (la prežganje) es lo que une la acidez del chucrut con la cremosidad de la alubia. Si no tienes comino en grano, usa media cucharadita de molido.",
   contundencia: "media",
   coste: "económica"
@@ -162,7 +162,7 @@ window.RECETAS_SEED.push({
     "Salpimienta, riega con un hilo de aceite crudo y sirve con pan tostado."
   ],
   nutricion: { kcal: 580, prot: 36, hc: 46, grasa: 28 },
-  etiquetas: ["tradicional", "fácil", "una sola sartén", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "una sola sartén", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "El nombre viene de que la salvia y el ajo recuerdan al aliño de los pajaritos (uccelletti) a la cazadora. Sin salchicha, es una guarnición clásica de la carne a la parrilla.",
   contundencia: "media",
   coste: "media"
@@ -244,7 +244,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal y sirve con arroz pilaf o pan, y un bol de yogur al lado."
   ],
   nutricion: { kcal: 726, prot: 46, hc: 50, grasa: 38 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Si el cordero te parece caro, usa ternera para guisar o pollo (contramuslos) y reduce la cocción a 30 minutos. Una cucharada de yogur encima en el plato equilibra la grasa.",
   contundencia: "contundente",
   coste: "premium"
@@ -284,7 +284,7 @@ window.RECETAS_SEED.push({
     "Sirve el arroz en una fuente, riega una parte con el azafrán para que quede dorada y corona con el resto de la cebolla, dátiles y pasas."
   ],
   nutricion: { kcal: 628, prot: 18, hc: 112, grasa: 12 },
-  etiquetas: ["tradicional", "fácil", "para invitados", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "para invitados", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "El paño bajo la tapa absorbe el vapor y deja el arroz suelto. Si te gusta el tahdig, la costra crujiente persa, deja los últimos 10 minutos a fuego medio-bajo sin remover.",
   contundencia: "media",
   coste: "media"
@@ -323,7 +323,7 @@ window.RECETAS_SEED.push({
     "Apaga y deja reposar tapado 5 minutos. Esponja con un tenedor y sirve con plátano frito o una ensalada de tomate."
   ],
   nutricion: { kcal: 820, prot: 26, hc: 125, grasa: 24 },
-  etiquetas: ["tradicional", "fácil", "saciante", "económica", "rápida", "batch cooking"],
+  etiquetas: ["tradicional", "fácil", "saciante", "económica", "rápida", "batch cooking", "poco especiada"],
   consejo: "En Oriente cubano el congrí se hace con frijoles colorados; con frijoles negros se llama moros y cristianos. Si usas el caldo de cocer los frijoles en lugar de agua, el arroz queda más oscuro y sabroso.",
   contundencia: "contundente",
   coste: "económica"
@@ -404,7 +404,7 @@ window.RECETAS_SEED.push({
     "Sala al gusto y sirve con una ensalada de tomate y cebolla (ensalada chilena)."
   ],
   nutricion: { kcal: 596, prot: 24, hc: 98, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Las riendas son los tallarines, que antes se cortaban largos como las riendas del caballo. Aplasta parte de la calabaza contra la cazuela: es la que da al guiso su color y cremosidad.",
   contundencia: "media",
   coste: "económica"
@@ -444,7 +444,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade la albahaca picada a mano y sirve enseguida."
   ],
   nutricion: { kcal: 450, prot: 18, hc: 72, grasa: 10 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "verano", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "verano", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Es el guiso de verano por excelencia en Chile, cuando coinciden porotos frescos, choclo y albahaca. La albahaca, siempre al final y fuera del fuego, para que no pierda el aroma.",
   contundencia: "ligera",
   coste: "económica"
@@ -484,7 +484,7 @@ window.RECETAS_SEED.push({
     "Sirve los frijoles con el resto del hogao por encima, el chicharrón y las tajadas de plátano maduro."
   ],
   nutricion: { kcal: 918, prot: 34, hc: 110, grasa: 38 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Para que el plátano quede dulce tiene que estar casi negro. Añadir agua a la panceta al principio la cuece por dentro antes de freírla: así queda tierna y crujiente a la vez.",
   contundencia: "contundente",
   coste: "media"
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
     "Añade las alubias escurridas con un cazo de su caldo y la perdiz. Cuece todo junto 10 minutos a fuego suave, para que las alubias se empapen de la salsa. Sala y sirve."
   ],
   nutricion: { kcal: 724, prot: 52, hc: 66, grasa: 28 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "de domingo", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "de domingo", "para invitados", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "Si no encuentras perdiz, usa 2 codornices o un muslo de pato. La perdiz de caza puede tener perdigones: revisa la carne al desmenuzarla.",
   contundencia: "contundente",
   coste: "premium"
@@ -602,7 +602,7 @@ window.RECETAS_SEED.push({
     "Sala, espolvorea el perejil picado y sirve las judías con la butifarra encima. Acompaña con all i oli si quieres."
   ],
   nutricion: { kcal: 730, prot: 40, hc: 48, grasa: 42 },
-  etiquetas: ["tradicional", "fácil", "rápida", "saciante", "una sola sartén"],
+  etiquetas: ["tradicional", "fácil", "rápida", "saciante", "una sola sartén", "sin verduras", "poco especiada"],
   consejo: "El secreto son las judías bien secas y la sartén caliente: así se tuestan (se 'socarren') en vez de hacerse puré. Si quedan algunas pegadas al fondo, ráspalas: son lo mejor.",
   contundencia: "contundente",
   coste: "media"
@@ -641,7 +641,7 @@ window.RECETAS_SEED.push({
     "Devuelve el bacon y el huevo, mezcla, salpimienta y termina con el cebollino picado. Sirve enseguida."
   ],
   nutricion: { kcal: 788, prot: 34, hc: 82, grasa: 36 },
-  etiquetas: ["tradicional", "fácil", "saciante", "una sola sartén"],
+  etiquetas: ["tradicional", "fácil", "saciante", "una sola sartén", "poco especiada"],
   consejo: "Era la comida de los arrieros (tropeiros) de Minas Gerais porque aguantaba días de viaje. La harina de mandioca se encuentra en tiendas latinas; si no la tienes, usa pan rallado tostado.",
   contundencia: "contundente",
   coste: "media"
@@ -685,7 +685,7 @@ window.RECETAS_SEED.push({
     "Sirve primero el caldo y luego los garbanzos con una pelota por plato, o todo junto en plato hondo."
   ],
   nutricion: { kcal: 622, prot: 48, hc: 58, grasa: 22 },
-  etiquetas: ["tradicional", "de cuchara", "de domingo", "invierno", "para niños"],
+  etiquetas: ["tradicional", "de cuchara", "de domingo", "invierno", "para niños", "poco especiada"],
   consejo: "No remuevas el caldo mientras se hacen las pelotas o se romperán; menea la cazuela por las asas. En Murcia algunas casas añaden a la masa un poco de sangre o de tocino picado para hacerlas más jugosas.",
   contundencia: "media",
   coste: "media"
@@ -724,7 +724,7 @@ window.RECETAS_SEED.push({
     "Sala al gusto y sirve con la costilla. Aguanta muy bien hecho de víspera."
   ],
   nutricion: { kcal: 610, prot: 34, hc: 78, grasa: 18 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Los chícharos partidos no necesitan remojo y se deshacen solos, así que no hace falta triturar. Si espesa demasiado al reposar, aclara con agua caliente.",
   contundencia: "media",
   coste: "económica"
@@ -764,7 +764,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y el tomillo, salpimienta y espolvorea perejil picado. Sirve sola o como guarnición de un asado."
   ],
   nutricion: { kcal: 420, prot: 20, hc: 58, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "En Francia es la guarnición clásica de la pierna de cordero asada: si haces cordero, añade a la cazuela una cucharada de su jugo. Con un huevo escalfado encima, es cena completa.",
   contundencia: "ligera",
   coste: "económica"
@@ -805,7 +805,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con el huevo duro picado o en cuartos por encima."
   ],
   nutricion: { kcal: 468, prot: 28, hc: 62, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "invierno", "superalimentos", "poco especiada"],
   consejo: "La calabaza se deshace en parte y espesa el caldo, así que no hace falta patata. Si las congelas, hazlo sin el huevo: lo añades al calentarlas.",
   contundencia: "ligera",
   coste: "económica"
@@ -845,7 +845,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con el huevo picado y la hierbabuena por encima, y unas gotas de limón si te gusta."
   ],
   nutricion: { kcal: 412, prot: 30, hc: 46, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "para niños"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "para niños", "poco especiada"],
   consejo: "Es la sopa que se toma en Andalucía para entonar el cuerpo. La hierbabuena siempre fresca y en el plato, nunca cocida, o pierde el aroma.",
   contundencia: "ligera",
   coste: "económica"
@@ -887,7 +887,7 @@ window.RECETAS_SEED.push({
     "Sirve con los cuartos de huevo duro por encima."
   ],
   nutricion: { kcal: 638, prot: 34, hc: 58, grasa: 30 },
-  etiquetas: ["tradicional", "fácil", "de cuchara", "para invitados"],
+  etiquetas: ["tradicional", "fácil", "de cuchara", "para invitados", "sin verduras", "poco especiada"],
   consejo: "La picada catalana es el truco para espesar y perfumar el guiso al final. Si quieres darle un aire más de fiesta, usa butifarra negra en vez de blanca.",
   contundencia: "media",
   coste: "media"
@@ -973,7 +973,7 @@ window.RECETAS_SEED.push({
     "Sirve con los huevos duros en cuartos sobre cada plato."
   ],
   nutricion: { kcal: 470, prot: 30, hc: 56, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Un plato de vigilia de los que sacian sin pesar. Si tienes espinacas congeladas, sirven igual: añádelas con la patata para que se descongelen en el caldo.",
   contundencia: "ligera",
   coste: "económica"

@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Sirve una cama de puré, las vieiras encima, la salsa de naranja, las avellanas, el cebollino y unas escamas de sal."
   ],
   nutricion: { kcal: 425, prot: 24, hc: 38, grasa: 20 },
-  etiquetas: ["para invitados", "ligera", "sin gluten", "elegante", "otoño", "invierno"],
+  etiquetas: ["para invitados", "ligera", "sin gluten", "elegante", "otoño", "invierno", "poco especiada"],
   consejo: "Adelanta el puré hasta 1 día antes y recaliéntalo con un chorrito de leche; también puedes dejar las vieiras secas sobre papel en la nevera unas horas. Lo único que se hace al momento es marcarlas: 2 minutos y medio en total. La regla para marcar cualquier marisco o pescado (vieiras, langostinos, atún) es superficie bien seca, sartén muy caliente y no moverlos.",
   tupper: false,
   contundencia: "ligera",
@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré, los medallones encima, las chalotas y la salsa alrededor, con escamas de sal sobre la carne."
   ],
   nutricion: { kcal: 615, prot: 38, hc: 44, grasa: 31 },
-  etiquetas: ["para invitados", "sin gluten", "elegante", "de domingo", "alta en proteína"],
+  etiquetas: ["para invitados", "sin gluten", "elegante", "de domingo", "alta en proteína", "poco especiada"],
   consejo: "Puedes glasear las chalotas y dejar el puré hecho horas antes; con los invitados ya en casa solo sellas la carne y haces la salsa en 10 minutos. El reposo de la carne (tantos minutos como de cocción) es lo que hace que no sangre en el plato. Esta salsa de sartén (desglasar, reducir, montar con mantequilla fría) sirve para cualquier carne o pescado a la plancha.",
   tupper: false,
   contundencia: "media",
@@ -130,7 +130,7 @@ window.RECETAS_SEED.push({
     "Corta el magret en lonchas de 1 cm y sírvelo con la salsa, las endivias, las patatas y escamas de sal sobre la piel."
   ],
   nutricion: { kcal: 720, prot: 40, hc: 45, grasa: 42 },
-  etiquetas: ["para invitados", "sin gluten", "sin lactosa", "elegante", "otoño", "de domingo"],
+  etiquetas: ["para invitados", "sin gluten", "sin lactosa", "elegante", "otoño", "de domingo", "poco especiada"],
   consejo: "Puedes hacer la salsa de frutos rojos y precocer las patatas el día antes; guarda la salsa en un tarro y caliéntala al servir. La grasa de pato que retires se guarda semanas en la nevera en un tarro: es la mejor grasa para patatas asadas o salteadas. La técnica de sartén fría vale para cualquier pieza con capa de grasa: panceta, secreto o lomo de cerdo con su grasa.",
   tupper: false,
   contundencia: "contundente",
@@ -174,7 +174,7 @@ window.RECETAS_SEED.push({
     "Sirve el puré, la lubina con la piel crujiente hacia arriba y la salsa de uvas alrededor, sin cubrir la piel para que no se ablande."
   ],
   nutricion: { kcal: 560, prot: 34, hc: 46, grasa: 25 },
-  etiquetas: ["para invitados", "sin gluten", "elegante", "otoño", "clásico francés"],
+  etiquetas: ["para invitados", "sin gluten", "elegante", "otoño", "clásico francés", "poco especiada"],
   consejo: "Deja el puré hecho y las uvas partidas antes de que lleguen los invitados; el pescado y la salsa salen en 8 minutos. Para que la piel del pescado quede crujiente: secarla, cortes superficiales, presionar al principio y cocinar el 80 % del tiempo por ese lado. Sirve con lenguado, dorada o merluza.",
   tupper: false,
   contundencia: "media",
@@ -261,7 +261,7 @@ window.RECETAS_SEED.push({
     "Riega con el resto de la vinagreta, unas escamas de sal y ralladura de limón por encima."
   ],
   nutricion: { kcal: 470, prot: 22, hc: 10, grasa: 38 },
-  etiquetas: ["para invitados", "ligera", "rápida", "sin gluten", "primavera", "entrante"],
+  etiquetas: ["para invitados", "ligera", "rápida", "sin gluten", "primavera", "entrante", "keto", "poco especiada"],
   consejo: "Puedes dejar la vinagreta hecha y los piñones tostados desde la mañana, y los espárragos limpios en un vaso con agua en la nevera, como un ramo. El jamón ibérico se saca de la nevera 20 minutos antes: a temperatura ambiente la grasa brilla y se funde en la boca. Montar la ensalada en fuente grande y no en platos individuales queda más generoso y es más rápido.",
   tupper: false,
   contundencia: "ligera",
@@ -303,7 +303,7 @@ window.RECETAS_SEED.push({
     "Sirve al momento con la ensalada y pan para mojar el jugo."
   ],
   nutricion: { kcal: 360, prot: 18, hc: 30, grasa: 18 },
-  etiquetas: ["para invitados", "ligera", "rápida", "sin lactosa", "marisco", "verano", "para picar"],
+  etiquetas: ["para invitados", "ligera", "rápida", "sin lactosa", "marisco", "verano", "para picar", "poco especiada"],
   consejo: "Lo único que hay que adelantar es la purga en agua con sal, que puede hacerse hasta 2 horas antes en la nevera, y el aliño. Compra las navajas cerradas o que se cierren al tocarlas: es la señal de que están vivas. La regla vale para almejas, berberechos y mejillones: purgar, fuego fuerte y fuera en cuanto se abren.",
   tupper: false,
   contundencia: "ligera",
@@ -346,7 +346,7 @@ window.RECETAS_SEED.push({
     "Vierte la salsa sobre los mejillones y sirve enseguida con el pan tostado para mojar."
   ],
   nutricion: { kcal: 415, prot: 26, hc: 38, grasa: 16 },
-  etiquetas: ["para invitados", "ligera", "rápida", "una sola olla", "marisco"],
+  etiquetas: ["para invitados", "ligera", "rápida", "una sola olla", "marisco", "sin verduras", "poco especiada"],
   consejo: "Puedes limpiar los mejillones hasta 4 horas antes y guardarlos en la nevera en un bol tapado con un paño húmedo (nunca sumergidos en agua dulce, que los mata). El sofrito de chalota también se puede dejar hecho. Lo de cocinar con el vino ya caliente y la tapa puesta vale para todo marisco de concha: el vapor los abre a la vez.",
   tupper: false,
   contundencia: "ligera",
@@ -388,7 +388,7 @@ window.RECETAS_SEED.push({
     "Sirve el secreto con escamas de sal y pimienta, la compota de manzana y las patatas."
   ],
   nutricion: { kcal: 810, prot: 36, hc: 55, grasa: 50 },
-  etiquetas: ["para invitados", "sin gluten", "otoño", "de domingo", "saciante"],
+  etiquetas: ["para invitados", "sin gluten", "otoño", "de domingo", "saciante", "sin verduras", "poco especiada"],
   consejo: "La compota de manzana a la sidra aguanta 4 días en la nevera: hazla el día antes y caliéntala al servir. Las patatas se pueden precocer horas antes. Cortar contra la fibra (perpendicular a las vetas que ves en la carne) es lo que hace tierna una pieza como el secreto, la entraña o la falda.",
   tupper: false,
   contundencia: "contundente",
@@ -432,7 +432,7 @@ window.RECETAS_SEED.push({
     "Devuelve los langostinos, vierte la salsa y saltea 1 minuto, hasta que brille y lo envuelva todo. Termina con lo verde de la cebolleta y sirve con el arroz."
   ],
   nutricion: { kcal: 435, prot: 32, hc: 48, grasa: 12 },
-  etiquetas: ["para invitados", "ligera", "rápida", "sin lactosa", "wok", "primavera"],
+  etiquetas: ["para invitados", "ligera", "rápida", "sin lactosa", "wok", "primavera", "poco especiada"],
   consejo: "El secreto del wok es tenerlo todo cortado y la salsa mezclada antes de encender el fuego: puedes dejarlo preparado en cuencos 3-4 horas antes en la nevera. Rebozar ligeramente en maicena (velveting) sirve para pollo, cerdo o ternera en tiras: quedan tiernos incluso a fuego muy fuerte.",
   tupper: false,
   contundencia: "ligera",
@@ -475,7 +475,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade la menta en hojas rotas con la mano y la ralladura de limón, y sirve."
   ],
   nutricion: { kcal: 585, prot: 34, hc: 66, grasa: 19 },
-  etiquetas: ["para invitados", "sin lactosa", "verano", "mediterránea", "tupper"],
+  etiquetas: ["para invitados", "sin lactosa", "verano", "mediterránea", "tupper", "bajo en colesterol"],
   consejo: "Puedes dejar la berenjena dorada y el pescado cortado y en la nevera desde la mañana; con eso solo te queda hacer la salsa mientras cuece la pasta. La menta y la albahaca se rompen con la mano en el último momento: el cuchillo las ennegrece. El pez espada se puede cambiar por atún o bonito, sellados igual y terminados en la salsa.",
   tupper: true,
   contundencia: "media",
@@ -487,7 +487,7 @@ window.RECETAS_SEED.push({
   nombre: "Huevos poché sobre crema de patata y setas salteadas con aceite de trufa",
   subtitulo: "yema líquida, setas doradas y un toque de trufa: un entrante de bistró",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "europea",
   momentos: ["cena"],
   proteina: "huevo",
@@ -520,7 +520,7 @@ window.RECETAS_SEED.push({
     "Sirve una base de crema de patata, las setas, dos huevos poché encima, unas gotas de aceite de trufa, cebollino picado, escamas de sal y pimienta."
   ],
   nutricion: { kcal: 465, prot: 20, hc: 32, grasa: 28 },
-  etiquetas: ["para invitados", "vegetariana", "sin gluten", "elegante", "otoño", "entrante"],
+  etiquetas: ["para invitados", "vegetariana", "sin gluten", "elegante", "otoño", "entrante", "poco especiada"],
   consejo: "Los huevos poché se pueden hacer hasta 1 día antes: al sacarlos, pásalos a un bol con agua helada y guárdalos así en la nevera; para servir, recaliéntalos 1 minuto en agua caliente sin hervir. Es el truco de los restaurantes para servir muchos a la vez. El aceite de trufa siempre en crudo y al final: el calor evapora su aroma.",
   tupper: false,
   contundencia: "ligera",
@@ -532,7 +532,7 @@ window.RECETAS_SEED.push({
   nombre: "Tarta fina de hojaldre con cebolla caramelizada, manzana y queso azul con rúcula y nueces",
   subtitulo: "base crujiente, dulce de cebolla y el punto salado del queso azul",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida"],
   proteina: "queso",
@@ -563,7 +563,7 @@ window.RECETAS_SEED.push({
     "Sirve recién salida con la rúcula y las nueces troceadas por encima."
   ],
   nutricion: { kcal: 730, prot: 16, hc: 62, grasa: 46 },
-  etiquetas: ["para invitados", "vegetariana", "al horno", "otoño", "para picar"],
+  etiquetas: ["para invitados", "vegetariana", "al horno", "otoño", "para picar", "poco especiada"],
   consejo: "La cebolla caramelizada se puede hacer hasta 4 días antes y guardarla en un tarro; incluso puedes montar la tarta 2 horas antes y tenerla en la nevera, lista para hornear, porque el hojaldre debe entrar frío al horno para subir bien. El truco del marco marcado sirve para cualquier tarta fina, dulce o salada.",
   tupper: false,
   contundencia: "contundente",
@@ -575,7 +575,7 @@ window.RECETAS_SEED.push({
   nombre: "Brochetas de tofu y shiitake glaseadas al estilo yakitori con pepino al sésamo y arroz",
   subtitulo: "glaseado de soja y mirin reducido hasta que brilla",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   momentos: ["cena"],
   proteina: "tofu",
@@ -608,7 +608,7 @@ window.RECETAS_SEED.push({
     "Sirve con el arroz, el pepino y el resto del sésamo por encima."
   ],
   nutricion: { kcal: 455, prot: 22, hc: 46, grasa: 20 },
-  etiquetas: ["para invitados", "vegana", "ligera", "sin lactosa", "brochetas"],
+  etiquetas: ["para invitados", "vegana", "ligera", "sin lactosa", "brochetas", "poco especiada", "bajo en colesterol"],
   consejo: "Puedes montar las brochetas y hacer el tare hasta 1 día antes; el tare aguanta semanas en la nevera y sirve para pollo, salmón o berenjena. La regla de los glaseados con azúcar (teriyaki, miel, barbacoa) es la misma: cocinar primero el alimento y pintar solo al final.",
   tupper: false,
   contundencia: "ligera",
@@ -620,7 +620,7 @@ window.RECETAS_SEED.push({
   nombre: "Tartar de tomate y aguacate con aliño de soja, lima y sésamo, edamame y tostas",
   subtitulo: "un tartar vegetal con aspecto de restaurante, montado con aro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "fusión",
   momentos: ["cena"],
   proteina: "verdura",
@@ -653,7 +653,7 @@ window.RECETAS_SEED.push({
     "Monta en el plato con un aro presionando ligeramente, retira el aro y termina con sésamo, cebollino picado y escamas de sal. Sirve con el pan tostado."
   ],
   nutricion: { kcal: 465, prot: 14, hc: 46, grasa: 25 },
-  etiquetas: ["para invitados", "vegana", "ligera", "sin cocción", "verano", "entrante"],
+  etiquetas: ["para invitados", "vegana", "ligera", "sin cocción", "verano", "entrante", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Deja los tomates pelados y cortados, el edamame cocido y el aliño hecho hasta 4 horas antes, cada cosa por separado en la nevera. Mézclalo y móntalo justo antes de servir, y corta el aguacate en el último momento. Si no tienes aro, usa una lata limpia sin fondo o un vaso como molde.",
   tupper: false,
   contundencia: "ligera",
@@ -742,7 +742,7 @@ window.RECETAS_SEED.push({
     "Sirve el cuscús, el salmón encima, el tarator en una cucharada generosa, la granada, los pistachos y un chorrito de limón."
   ],
   nutricion: { kcal: 610, prot: 36, hc: 42, grasa: 32 },
-  etiquetas: ["para invitados", "sin lactosa", "rápida", "omega 3", "otoño"],
+  etiquetas: ["para invitados", "sin lactosa", "rápida", "omega 3", "otoño", "sin verduras", "superalimentos", "poco especiada"],
   consejo: "El tarator aguanta 4 días en la nevera (espesa en frío: aclara con agua al servir) y el cuscús de hierbas se puede dejar hecho; desgrana la granada por la mañana. Solo el salmón se hace al momento. El tahini siempre se aclara con agua y ácido: la misma salsa sirve para falafel, verduras asadas o coliflor.",
   tupper: false,
   contundencia: "media",
@@ -782,7 +782,7 @@ window.RECETAS_SEED.push({
     "Sirve una base de salsa de piquillos, el bacalao encima y unos puntos de aceite de perejil alrededor."
   ],
   nutricion: { kcal: 410, prot: 30, hc: 8, grasa: 28 },
-  etiquetas: ["para invitados", "ligera", "sin gluten", "sin lactosa", "elegante", "tradicional"],
+  etiquetas: ["para invitados", "ligera", "sin gluten", "sin lactosa", "elegante", "tradicional", "keto", "verduras escondidas"],
   consejo: "Las dos salsas se pueden hacer hasta 2 días antes; el confitado es lo último y no necesita atención, solo vigilar la temperatura. El aceite del confitado, colado, se guarda en la nevera para cocinar pescado o hacer pil pil. Confitar a baja temperatura sirve también para salmón, atún o ajos.",
   tupper: false,
   contundencia: "ligera",
@@ -826,7 +826,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal, espolvorea perejil picado y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 550, prot: 36, hc: 40, grasa: 26 },
-  etiquetas: ["para invitados", "una sola olla", "primavera", "tradicional", "alta en proteína"],
+  etiquetas: ["para invitados", "una sola olla", "primavera", "tradicional", "alta en proteína", "poco especiada"],
   consejo: "Puedes dejar la salsa hecha hasta el paso 5 y las patatas cocidas; al llegar los invitados, recalienta la salsa y en 6 minutos el rape está listo. El rape suelta mucha agua: dorarlo poco y terminarlo en la salsa evita que quede cocido y gomoso. Funciona igual con merluza o lubina.",
   tupper: false,
   contundencia: "media",
@@ -914,7 +914,7 @@ window.RECETAS_SEED.push({
     "Corta el pollo en tiras gruesas, mezcla la pasta con la mitad de la salsa (aclara con agua de cocción si hace falta) y sirve el pollo encima con el resto de la salsa y perejil picado."
   ],
   nutricion: { kcal: 755, prot: 44, hc: 62, grasa: 36 },
-  etiquetas: ["para invitados", "reconfortante", "clásico francés", "tupper", "una sola sartén"],
+  etiquetas: ["para invitados", "reconfortante", "clásico francés", "tupper", "una sola sartén", "poco especiada"],
   consejo: "La salsa con el pollo se puede hacer completa el día antes: recalentada con un chorrito de agua o caldo queda incluso mejor; solo cuece la pasta al servir. El contramuslo aguanta el recalentado sin secarse, al contrario que la pechuga. El estragón es la hierba clásica con pollo y mostaza; si no tienes, usa tomillo.",
   tupper: true,
   contundencia: "contundente",
@@ -959,7 +959,7 @@ window.RECETAS_SEED.push({
     "Devuelve el cordero con sus jugos y calienta 2 minutos sin que hierva. Sirve con el arroz y cilantro picado."
   ],
   nutricion: { kcal: 625, prot: 38, hc: 56, grasa: 27 },
-  etiquetas: ["para invitados", "sin gluten", "especiado", "tupper", "invierno"],
+  etiquetas: ["para invitados", "sin gluten", "especiado", "tupper", "invierno", "sin verduras"],
   consejo: "La salsa (pasos 4 a 6) se puede hacer el día antes y guardar en la nevera; al servir, caliéntala suave y dora el cordero en 2 minutos. Templar el yogur con un poco de salsa caliente antes de añadirlo es el truco para que no se corte en ningún curry o guiso.",
   tupper: true,
   contundencia: "media",
@@ -1005,7 +1005,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas con las tortillas, la cebolla encurtida, la salsa verde y el resto del cilantro, para que cada invitado monte sus tacos."
   ],
   nutricion: { kcal: 515, prot: 42, hc: 52, grasa: 14 },
-  etiquetas: ["para invitados", "sin gluten", "sin lactosa", "brochetas", "verano", "para compartir"],
+  etiquetas: ["para invitados", "sin gluten", "sin lactosa", "brochetas", "verano", "para compartir", "sin verduras"],
   consejo: "Deja la carne marinando desde la mañana y las brochetas montadas en la nevera; la salsa verde y la cebolla encurtida aguantan 2 días. Servir los elementos por separado para que cada uno monte su taco es la forma más fácil de que una cena de invitados parezca abundante y relajada.",
   tupper: false,
   contundencia: "media",
@@ -1048,7 +1048,7 @@ window.RECETAS_SEED.push({
     "Sirve las alubias en plato hondo, la presa encima con escamas de sal, el perejil picado y un hilo del aceite de romero."
   ],
   nutricion: { kcal: 600, prot: 36, hc: 36, grasa: 34 },
-  etiquetas: ["para invitados", "sin gluten", "sin lactosa", "de cuchara", "rápida", "alta en proteína"],
+  etiquetas: ["para invitados", "sin gluten", "sin lactosa", "de cuchara", "rápida", "alta en proteína", "poco especiada"],
   consejo: "Las alubias con piquillos se pueden dejar hechas el día antes y el aceite de romero aguanta una semana en un bote; al servir, solo marcas la presa. Enjuagar las legumbres de bote y terminarlas en un caldo con sofrito es la forma de que sepan a guiso casero. Funciona igual con garbanzos o judiones.",
   tupper: true,
   contundencia: "media",
@@ -1090,7 +1090,7 @@ window.RECETAS_SEED.push({
     "Sirve con los piñones, el parmesano, ralladura de limón y pimienta recién molida, con la ensalada al lado."
   ],
   nutricion: { kcal: 590, prot: 22, hc: 58, grasa: 30 },
-  etiquetas: ["para invitados", "vegetariana", "rápida", "elegante", "italiana"],
+  etiquetas: ["para invitados", "vegetariana", "rápida", "elegante", "italiana", "poco especiada"],
   consejo: "Deja los piñones tostados y la ensalada cortada antes de que lleguen los invitados: la pasta y la salsa salen en 5 minutos. La mantequilla avellana (beurre noisette) es una salsa en sí misma y sirve para ñoquis, raviolis, pescado blanco o verduras al vapor; vigílala por el color y el olor, nunca por el tiempo.",
   tupper: false,
   contundencia: "media",

@@ -41,7 +41,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre la ensalada tibia, con el resto del pesto por encima y cuñas de limón."
   ],
   nutricion: { kcal: 540, prot: 40, hc: 26, grasa: 30 },
-  etiquetas: ["alta en proteína", "verano", "a la plancha"],
+  etiquetas: ["alta en proteína", "verano", "a la plancha", "poco especiada"],
   consejo: "El rape congelado en lomos funciona muy bien aquí y baja mucho el precio; descongélalo en la nevera y sécalo bien con papel antes de ensartarlo.",
   contundencia: "media",
   coste: "premium"
@@ -84,7 +84,7 @@ window.RECETAS_SEED.push({
     "Riega con el aceite reservado de la lata, espolvorea el pimentón y sirve enseguida."
   ],
   nutricion: { kcal: 570, prot: 32, hc: 52, grasa: 26 },
-  etiquetas: ["rápida", "económica", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["rápida", "económica", "ideal para llevar", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Si tienes zumaque, úsalo en lugar del pimentón: su toque ácido le va de maravilla a la sardina.",
   contundencia: "media",
   coste: "económica"
@@ -130,7 +130,7 @@ window.RECETAS_SEED.push({
     "Sirve el cazón recién frito junto a la ensalada de naranja y un poco de pan."
   ],
   nutricion: { kcal: 720, prot: 38, hc: 48, grasa: 42 },
-  etiquetas: ["frito", "económica", "alta en proteína"],
+  etiquetas: ["frito", "económica", "alta en proteína", "poco especiada"],
   consejo: "El cazón es barato y apenas tiene espinas; si no lo encuentras, el adobo funciona igual con tacos de pintarroja o de merluza.",
   contundencia: "contundente",
   coste: "económica"
@@ -174,7 +174,7 @@ window.RECETAS_SEED.push({
     "Sirve las lonchas sobre la ensalada y riega con el resto del ponzu."
   ],
   nutricion: { kcal: 360, prot: 36, hc: 14, grasa: 18 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "verano"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Igual que con el tartar, congela el bonito al menos 5 días a -20 °C antes de prepararlo poco hecho. Fuera de temporada usa atún.",
   contundencia: "ligera",
   coste: "media"
@@ -216,7 +216,7 @@ window.RECETAS_SEED.push({
     "Sirve la sepia encebollada sobre las patatas a lo pobre y espolvorea perejil picado."
   ],
   nutricion: { kcal: 690, prot: 34, hc: 52, grasa: 38 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "poco especiada"],
   consejo: "La sepia congelada queda incluso más tierna que la fresca, porque el frío rompe sus fibras. Este guiso mejora de un día para otro.",
   contundencia: "contundente",
   coste: "media"
@@ -258,7 +258,7 @@ window.RECETAS_SEED.push({
     "Pasa el pescado a los platos, báñalo con el salmoriglio aún caliente y sírvelo con la ensalada y las hojitas de hinojo por encima."
   ],
   nutricion: { kcal: 425, prot: 36, hc: 16, grasa: 24 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "a la plancha"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "a la plancha", "poco especiada", "bajo en colesterol"],
   consejo: "El salmoriglio también es perfecto para atún, emperador congelado o calamar a la plancha. Hazlo mientras se calienta la plancha.",
   contundencia: "ligera",
   coste: "media"
@@ -302,7 +302,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos con el caldo y el pan tostado para mojar."
   ],
   nutricion: { kcal: 455, prot: 24, hc: 40, grasa: 22 },
-  etiquetas: ["rápida", "ligera", "picante", "una sola sartén"],
+  etiquetas: ["rápida", "ligera", "picante", "una sola sartén", "sin verduras"],
   consejo: "Si encuentras berberechos o chirlas a buen precio, sustituyen a las almejas sin cambiar nada y salen bastante más baratos.",
   contundencia: "ligera",
   coste: "premium"
@@ -347,7 +347,7 @@ window.RECETAS_SEED.push({
     "Sirve la moqueca con su caldo y los gajos de boniato asado al lado."
   ],
   nutricion: { kcal: 670, prot: 40, hc: 48, grasa: 35 },
-  etiquetas: ["una sola sartén", "alta en proteína", "invierno"],
+  etiquetas: ["una sola sartén", "alta en proteína", "invierno", "poco especiada"],
   consejo: "En Brasil se termina con un chorrito de aceite de dendê (palma roja); un poco de pimentón ahumado le da un color y un fondo parecidos.",
   contundencia: "contundente",
   coste: "media"
@@ -393,7 +393,7 @@ window.RECETAS_SEED.push({
     "Hornea 25 minutos, hasta que el relleno burbujee por los bordes y la superficie esté dorada. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 710, prot: 42, hc: 58, grasa: 34 },
-  etiquetas: ["al horno", "para niños", "batch cooking", "invierno"],
+  etiquetas: ["al horno", "para niños", "batch cooking", "invierno", "poco especiada"],
   consejo: "Puedes dejarlo montado la víspera en la nevera; añade 10 minutos de horno si entra frío.",
   contundencia: "contundente",
   coste: "media"
@@ -435,7 +435,7 @@ window.RECETAS_SEED.push({
     "Sirve el boniato con la caballa encima, el pak choi al lado y espolvorea sésamo y cebolleta picada."
   ],
   nutricion: { kcal: 515, prot: 32, hc: 38, grasa: 26 },
-  etiquetas: ["al horno", "económica", "alta en proteína"],
+  etiquetas: ["al horno", "económica", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "La caballa es de los pescados más baratos y ricos en omega 3; pide en la pescadería que te la limpien en lomos.",
   contundencia: "media",
   coste: "económica"
@@ -484,7 +484,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa con los picatostes untados de rouille flotando por encima."
   ],
   nutricion: { kcal: 530, prot: 34, hc: 40, grasa: 26 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Pide las espinas y cabezas gratis o casi gratis en la pescadería. El fumet sobrante se congela en raciones y te salva mil cremas y guisos.",
   contundencia: "media",
   coste: "media"
@@ -526,7 +526,7 @@ window.RECETAS_SEED.push({
     "Sirve las tortillitas recién hechas con la ensalada de tomate y cuñas de limón."
   ],
   nutricion: { kcal: 550, prot: 24, hc: 46, grasa: 30 },
-  etiquetas: ["frito", "económica", "para niños", "rápida"],
+  etiquetas: ["frito", "económica", "para niños", "rápida", "poco especiada"],
   consejo: "Si encuentras camarones frescos en Cádiz o en tu pescadería, úsalos enteros: es la versión original. El agua bien fría es el secreto para que salgan crujientes.",
   contundencia: "media",
   coste: "económica"
@@ -618,7 +618,7 @@ window.RECETAS_SEED.push({
     "Espolvorea perejil picado y sirve directamente de la sartén, con tortillas de maíz calientes si quieres."
   ],
   nutricion: { kcal: 405, prot: 34, hc: 22, grasa: 20 },
-  etiquetas: ["ligera", "una sola sartén", "alta en proteína", "picante"],
+  etiquetas: ["ligera", "una sola sartén", "alta en proteína", "picante", "bajo en colesterol"],
   consejo: "La salsa se puede hacer el día antes; al día siguiente solo tienes que calentarla y cocer el pescado en ella.",
   contundencia: "ligera",
   coste: "media"
@@ -661,7 +661,7 @@ window.RECETAS_SEED.push({
     "Pela el pimiento asado y córtalo en tiras. Sirve las patatas y el pimiento con los mejillones y un poco de su escabeche por encima, con perejil picado."
   ],
   nutricion: { kcal: 520, prot: 28, hc: 44, grasa: 26 },
-  etiquetas: ["económica", "batch cooking", "ideal para llevar", "verano"],
+  etiquetas: ["económica", "batch cooking", "ideal para llevar", "verano", "poco especiada"],
   consejo: "En un tarro cerrado y cubiertos de escabeche aguantan 4-5 días en la nevera. Infinitamente mejores que los de lata.",
   contundencia: "media",
   coste: "económica"
@@ -705,7 +705,7 @@ window.RECETAS_SEED.push({
     "Sirve las patatas tibias con el salmón, el pepino en láminas, los canónigos y la salsa de yogur por encima."
   ],
   nutricion: { kcal: 445, prot: 32, hc: 30, grasa: 22 },
-  etiquetas: ["ligera", "sin cocción", "alta en proteína"],
+  etiquetas: ["ligera", "sin cocción", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Congela el salmón al menos 5 días a -20 °C antes de curarlo. Si te sobra, aguanta 3 días en la nevera bien envuelto y es perfecto en tostadas.",
   contundencia: "ligera",
   coste: "premium"
@@ -834,7 +834,7 @@ window.RECETAS_SEED.push({
     "Sirve directamente de la cazuela con un poco de cilantro picado por encima."
   ],
   nutricion: { kcal: 540, prot: 36, hc: 40, grasa: 26 },
-  etiquetas: ["una sola sartén", "alta en proteína", "batch cooking"],
+  etiquetas: ["una sola sartén", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Si tienes limón encurtido, añade unas tiras de su piel junto a las aceitunas: es el toque marroquí auténtico.",
   contundencia: "media",
   coste: "media"
@@ -925,7 +925,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmón con la salsa verde por encima, las patatas crujientes, las judías y cuñas de limón."
   ],
   nutricion: { kcal: 665, prot: 36, hc: 40, grasa: 40 },
-  etiquetas: ["al horno", "alta en proteína"],
+  etiquetas: ["al horno", "alta en proteína", "poco especiada"],
   consejo: "La salsa verde aguanta 3 días en la nevera cubierta de aceite y transforma cualquier pescado a la plancha o unas verduras asadas.",
   contundencia: "contundente",
   coste: "premium"
@@ -968,7 +968,7 @@ window.RECETAS_SEED.push({
     "Sirve una base de crema de coliflor, las vieiras encima, el bacon crujiente, la mantequilla al limón y cebollino picado."
   ],
   nutricion: { kcal: 415, prot: 30, hc: 20, grasa: 24 },
-  etiquetas: ["ligera", "alta en proteína", "sin gluten"],
+  etiquetas: ["ligera", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "Las vieiras congeladas sin coral salen mucho más baratas; descongélalas en la nevera sobre papel para que suelten el agua y doren bien.",
   contundencia: "ligera",
   coste: "premium"
@@ -1012,7 +1012,7 @@ window.RECETAS_SEED.push({
     "Espolvorea cilantro picado y sirve en la misma sartén con el pan tostado para mojar."
   ],
   nutricion: { kcal: 560, prot: 38, hc: 48, grasa: 24 },
-  etiquetas: ["rápida", "económica", "una sola sartén", "alta en proteína"],
+  etiquetas: ["rápida", "económica", "una sola sartén", "alta en proteína", "superalimentos"],
   consejo: "Es un plato perfecto de despensa: funciona igual con caballa o sardinas en conserva en lugar del atún.",
   contundencia: "media",
   coste: "económica"
@@ -1056,7 +1056,7 @@ window.RECETAS_SEED.push({
     "Pinta los okonomiyaki con la salsa, dibuja líneas de mayonesa y termina con sésamo y el verde de la cebolleta."
   ],
   nutricion: { kcal: 555, prot: 28, hc: 52, grasa: 26 },
-  etiquetas: ["económica", "para niños", "una sola sartén"],
+  etiquetas: ["económica", "para niños", "una sola sartén", "verduras escondidas", "poco especiada"],
   consejo: "Si tienes copos de bonito seco (katsuobushi), ponlos por encima al servir: se mueven con el calor y le dan el sabor auténtico.",
   contundencia: "media",
   coste: "económica"
@@ -1097,7 +1097,7 @@ window.RECETAS_SEED.push({
     "Sirve en boles con el verde de la cebolleta picado y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 280, prot: 34, hc: 12, grasa: 10 },
-  etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "invierno"],
+  etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si quieres una cena más saciante, añade unos fideos de arroz cocidos aparte en el bol justo antes de servir.",
   contundencia: "ligera",
   coste: "media"

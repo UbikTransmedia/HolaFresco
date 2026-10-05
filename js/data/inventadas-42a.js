@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Reparte en dos tuppers el mijo, el pollo, el calabacín y los tomates. Lleva los pistachos y la menta en una bolsita y el aliño aparte; mézclalo todo justo antes de comer."
   ],
   nutricion: { kcal: 600, prot: 42, hc: 54, grasa: 24 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El mijo cocido aguanta 3 días en la nevera sin apelmazarse si lo enfrías extendido. Puedes cocer el doble y usarlo en otra ensalada. Si no encuentras mijo, la quinoa funciona igual (12 minutos de cocción).",
   tupper: true,
   contundencia: "media",
@@ -83,7 +83,7 @@ window.RECETAS_SEED.push({
     "Lleva el aliño aparte y viértelo por encima justo antes de comer."
   ],
   nutricion: { kcal: 605, prot: 34, hc: 66, grasa: 23 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera con el aliño aparte. El arroz integral cocido se congela muy bien en raciones: cuece un kilo de golpe y tendrás base para varios bowls. Revisa que el tamari lleve sello sin gluten.",
   tupper: true,
   contundencia: "media",
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers, coloca las tiras de pavo encima y lleva aparte el resto de la vinagreta y el cilantro picado para añadir al comer."
   ],
   nutricion: { kcal: 560, prot: 46, hc: 54, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "sin gluten", "alta en proteína", "picante"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "sin gluten", "alta en proteína", "picante", "bajo en colesterol"],
   consejo: "Si no te gusta el picante usa solo la salsa del adobo, sin el chile. Aguanta 3 días; el tomate suelta algo de agua, así que si la preparas para 3 días añádelo el mismo día o escúrrelo antes.",
   tupper: true,
   contundencia: "media",
@@ -169,7 +169,7 @@ window.RECETAS_SEED.push({
     "Guarda las tiras de nori en una bolsa seca y envuelve cada onigiri justo antes de comerlo para que esté crujiente."
   ],
   nutricion: { kcal: 625, prot: 35, hc: 79, grasa: 19 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El arroz se endurece en la nevera: saca los onigiris 20 minutos antes de comer o dales 15 segundos de microondas con el film puesto. Aguantan 2 días. También puedes rellenarlos con atún y un poco de mayonesa.",
   tupper: true,
   contundencia: "media",
@@ -211,7 +211,7 @@ window.RECETAS_SEED.push({
     "Mezcla el trigo sarraceno con el resto del aceite, la cebolla y los pepinillos. Reparte en tuppers, añade el pollo y la remolacha en una esquina (para que no tiña todo) y lleva la salsa y los canónigos aparte."
   ],
   nutricion: { kcal: 460, prot: 40, hc: 46, grasa: 13 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "ligera"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "Compra trigo sarraceno con sello sin gluten si es para celíacos, porque puede contaminarse en el envasado. La ensalada aguanta 3 días; la salsa de yogur, 3 días en bote cerrado.",
   tupper: true,
   contundencia: "ligera",
@@ -223,7 +223,7 @@ window.RECETAS_SEED.push({
   nombre: "Ensalada de fusilli integrales con brócoli, garbanzos, tomate seco y pesto de albahaca y nueces",
   subtitulo: "pasta fría vegana con doble proteína vegetal",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "mediterránea",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -253,7 +253,7 @@ window.RECETAS_SEED.push({
     "Mezcla la pasta, el brócoli, los garbanzos y el tomate seco con el pesto hasta que todo quede bien cubierto. Reparte en tuppers."
   ],
   nutricion: { kcal: 740, prot: 27, hc: 82, grasa: 34 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "batch cooking", "vegana", "rápida"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "batch cooking", "vegana", "rápida", "superalimentos", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera. Si la pasta absorbe el pesto y queda seca, añade al servir un chorrito de agua o de zumo de limón. Con pasta sin gluten la tienes apta para celíacos.",
   tupper: true,
   contundencia: "contundente",
@@ -295,7 +295,7 @@ window.RECETAS_SEED.push({
     "Dobla los lados hacia dentro y enrolla bien apretado. Envuelve cada wrap en papel de horno y córtalo en diagonal al comer."
   ],
   nutricion: { kcal: 730, prot: 50, hc: 70, grasa: 28 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "alta en proteína"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "alta en proteína", "poco especiada"],
   consejo: "El truco para que no se humedezcan es montarlos con el pollo frío y las verduras bien secas, con las espinacas haciendo de barrera. Aguantan 2 días envueltos en la nevera. Con tortillas de maíz grandes son aptos sin gluten.",
   tupper: true,
   contundencia: "contundente",
@@ -307,7 +307,7 @@ window.RECETAS_SEED.push({
   nombre: "Ensalada de cebada perlada con setas asadas en airfryer, espinacas, nueces y queso de cabra",
   subtitulo: "otoñal, sabrosa y con cereal que no se pasa",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "ensaladas",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "queso",
@@ -337,7 +337,7 @@ window.RECETAS_SEED.push({
     "Mezcla la cebada con las setas y la vinagreta. Reparte en tuppers, coloca encima el queso de cabra desmigado y las espinacas, y lleva las nueces aparte para que sigan crujientes."
   ],
   nutricion: { kcal: 575, prot: 20, hc: 50, grasa: 33 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "batch cooking", "otoño"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "batch cooking", "otoño", "poco especiada"],
   consejo: "La cebada cocida aguanta 4 días en la nevera y no se ablanda como el arroz, por eso es ideal para tupper. Si quieres más proteína, añade un huevo duro por persona.",
   tupper: true,
   contundencia: "media",
@@ -380,7 +380,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers y coloca encima el tofu, los gajos de naranja y el perejil."
   ],
   nutricion: { kcal: 465, prot: 29, hc: 51, grasa: 16 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin cocción", "rápida", "sin gluten", "vegana", "ligera", "alta en proteína"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin cocción", "rápida", "sin gluten", "vegana", "ligera", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días aliñada. Si no encuentras tofu ahumado, dora tofu firme con una pizca de pimentón ahumado. Para celíacos, comprueba que las lentejas de bote y el tofu lleven sello sin gluten.",
   tupper: true,
   contundencia: "ligera",
@@ -425,7 +425,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers la quinoa, el pavo y las alubias. Lleva el pico de gallo en un botecito aparte y el resto de la lima en gajos para exprimir al comer."
   ],
   nutricion: { kcal: 555, prot: 41, hc: 59, grasa: 17 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "sin gluten", "alta en proteína", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "sin gluten", "alta en proteína", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La quinoa al microondas puede desbordarse: usa un bol grande. Se come fría o con 1 minuto de microondas (sin el pico de gallo). Aguanta 3 días; el pico de gallo, mejor 2.",
   tupper: true,
   contundencia: "media",
@@ -466,7 +466,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers, coloca los mejillones encima y espolvorea el perejil picado."
   ],
   nutricion: { kcal: 390, prot: 20, hc: 44, grasa: 15 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "rápida", "sin gluten", "ligera", "económica"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "rápida", "sin gluten", "ligera", "económica", "poco especiada"],
   consejo: "La patata aliñada en templado absorbe mejor el escabeche. Aguanta 2 días en la nevera; sácala 15 minutos antes para que no esté helada. También queda muy bien con berberechos o con atún.",
   tupper: true,
   contundencia: "ligera",
@@ -508,7 +508,7 @@ window.RECETAS_SEED.push({
     "Corta los rollitos en rodajas de 3 cm y guárdalos en el tupper con la ensalada en un compartimento aparte."
   ],
   nutricion: { kcal: 390, prot: 36, hc: 7, grasa: 24 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "ligera", "baja en hidratos"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "ligera", "baja en hidratos", "keto", "poco especiada"],
   consejo: "Aguantan 2 días en la nevera bien envueltos; no los congeles. Para una versión más económica cambia el salmón por pavo en lonchas o atún con un poco de queso crema.",
   tupper: true,
   contundencia: "ligera",
@@ -550,7 +550,7 @@ window.RECETAS_SEED.push({
     "Mezcla con cuidado las verduras, la merluza y el huevo con la salsa. Reparte en tuppers, decora con tiras de piquillo y aceitunas y refrigera al menos 30 minutos."
   ],
   nutricion: { kcal: 555, prot: 42, hc: 47, grasa: 22 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "sin gluten", "alta en proteína", "verano", "poco especiada"],
   consejo: "Por seguridad, consúmela en 2 días y mantenla siempre en frío (lleva el tupper con una placa de hielo en verano). Comprueba que la mayonesa sea sin gluten si es para celíacos.",
   tupper: true,
   contundencia: "media",
@@ -594,7 +594,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos y corta cada rollo en 8 rodajas con un cuchillo mojado. Colócalas de pie en el tupper bien juntas."
   ],
   nutricion: { kcal: 610, prot: 36, hc: 76, grasa: 18 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "para niños"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "para niños", "poco especiada"],
   consejo: "Mejor comerlo el mismo día o al siguiente; si lo guardas en la nevera, sácalo 20 minutos antes para que el arroz recupere textura. Usa tamari con sello sin gluten.",
   tupper: true,
   contundencia: "media",
@@ -606,7 +606,7 @@ window.RECETAS_SEED.push({
   nombre: "Gado-gado para llevar con patata, judías verdes, huevo duro, tofu y salsa de cacahuete",
   subtitulo: "ensalada indonesia de verduras templadas con salsa cremosa aparte",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "ensaladas",
   cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -723,7 +723,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers y lleva las almendras tostadas aparte para añadirlas al comer."
   ],
   nutricion: { kcal: 420, prot: 40, hc: 27, grasa: 17 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "rápida", "sin gluten", "alta en proteína", "ligera"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "rápida", "sin gluten", "alta en proteína", "ligera", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. Si te sobra pollo asado de otro día, úsalo y la tendrás en 10 minutos. Cambia los arándanos por pasas o uvas si lo prefieres.",
   tupper: true,
   contundencia: "ligera",
@@ -735,7 +735,7 @@ window.RECETAS_SEED.push({
   nombre: "Picadillo de soja texturizada al estilo taco con arroz integral, maíz y pico de gallo",
   subtitulo: "bowl vegano alto en proteína con el picadillo hecho en el microondas",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -770,7 +770,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers el arroz, el picadillo y el maíz. Lleva el pico de gallo aparte y el resto de la lima en gajos."
   ],
   nutricion: { kcal: 505, prot: 29, hc: 75, grasa: 10 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "sin gluten", "vegana", "alta en proteína", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "sin gluten", "vegana", "alta en proteína", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "El picadillo se congela muy bien: haz el doble y úsalo también en tacos o rellenando pimientos. Revisa que el caldo y el tamari lleven sello sin gluten.",
   tupper: true,
   contundencia: "media",
@@ -813,7 +813,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers. Lleva aparte los cacahuetes picados y el limón, y añade el zumo y la sal al comer para que el pepino no suelte agua."
   ],
   nutricion: { kcal: 390, prot: 16, hc: 38, grasa: 19 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "sin gluten", "vegana", "ligera", "verano"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "sin gluten", "vegana", "ligera", "verano", "detox", "superalimentos"],
   consejo: "Aguanta 3 días si añades el limón y la sal en el momento. Para más proteína, añade 100 g de tofu firme en dados o un yogur natural al lado.",
   tupper: true,
   contundencia: "ligera",
@@ -871,7 +871,7 @@ window.RECETAS_SEED.push({
   nombre: "Wraps de «atún» de garbanzos con alcaparras, pepinillos y veganesa",
   subtitulo: "relleno vegano tipo ensalada de atún, sin encender el fuego",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "americana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -904,7 +904,7 @@ window.RECETAS_SEED.push({
     "Si los preparas para más de un día, lleva el relleno en un tupper y monta los wraps al comer."
   ],
   nutricion: { kcal: 510, prot: 18, hc: 64, grasa: 20 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin cocción", "rápida", "vegana", "económica"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin cocción", "rápida", "vegana", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "El relleno aguanta 4 días en la nevera. También está buenísimo sobre tostadas de pan integral o con hojas de endivia. Con tortillas de maíz y veganesa sin gluten, es apto para celíacos.",
   tupper: true,
   contundencia: "media",
@@ -946,7 +946,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers, añade el parmesano en lascas y la albahaca, y lleva la rúcula en un compartimento aparte."
   ],
   nutricion: { kcal: 505, prot: 23, hc: 60, grasa: 19 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "batch cooking", "vegetariana"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "batch cooking", "vegetariana", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La espelta cocida aguanta 5 días en la nevera sin perder textura: cuece el doble y tendrás base para otra ensalada. Si tienes prisa, sustitúyela por farro rápido o cuscús.",
   tupper: true,
   contundencia: "media",
@@ -991,7 +991,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers el arroz, el pollo con su salsa, el edamame, la col y la piña. Espolvorea sésamo y cebolleta picada."
   ],
   nutricion: { kcal: 740, prot: 48, hc: 91, grasa: 20 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "batch cooking"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Se come frío o con 1 minuto de microondas (sin la col ni la piña). Aguanta 3 días. Con tamari en lugar de salsa de soja es apto sin gluten.",
   tupper: true,
   contundencia: "contundente",
@@ -1075,7 +1075,7 @@ window.RECETAS_SEED.push({
     "Reparte en tuppers, coloca el salmón encima y lleva aparte la salsa de yogur y los canónigos."
   ],
   nutricion: { kcal: 625, prot: 39, hc: 57, grasa: 27 },
-  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "rápida", "alta en proteína", "omega 3"],
+  etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "rápida", "alta en proteína", "omega 3", "poco especiada"],
   consejo: "Aguanta 2 días en la nevera por el pescado. Con salmón congelado (descongelado en la nevera la noche antes) sale más económica e igual de rica.",
   tupper: true,
   contundencia: "media",

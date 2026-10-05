@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
     "Retira el tomillo y el laurel, rectifica de sal y pimienta y deja reposar 10 minutos con el fuego apagado. Sirve en plato hondo con mucho perejil picado."
   ],
   nutricion: { kcal: 740, prot: 42, hc: 62, grasa: 36 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "de domingo"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Las abuelas irlandesas lo hacían con cuello de cordero con hueso: da más sabor y gelatina. Al día siguiente está aún mejor; recaliéntalo despacio con un chorrito de agua.",
   contundencia: "contundente",
   coste: "premium"
@@ -93,7 +93,7 @@ window.RECETAS_SEED.push({
     "Escurre las patatas, cháfalas con el resto de la mantequilla y 150 ml de leche caliente hasta tener un puré liso. Sirve el puré con las albóndigas y su salsa, el pepino escurrido y una cucharada de mermelada de arándanos al lado."
   ],
   nutricion: { kcal: 780, prot: 40, hc: 60, grasa: 42 },
-  etiquetas: ["tradicional", "saciante", "para niños", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "saciante", "para niños", "batch cooking", "invierno", "poco especiada"],
   consejo: "El pan remojado en leche es el truco para que queden tiernas. Si no encuentras mermelada de arándanos rojos, una de frutos rojos poco dulce cumple el mismo papel de contraste.",
   contundencia: "contundente",
   coste: "media"
@@ -138,7 +138,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal y sirve el pollo con mucha salsa por encima de los nokedli."
   ],
   nutricion: { kcal: 730, prot: 45, hc: 70, grasa: 30 },
-  etiquetas: ["tradicional", "saciante", "económica", "invierno", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "económica", "invierno", "de domingo", "poco especiada"],
   consejo: "El pimentón se añade siempre fuera del fuego: si se quema amarga y la salsa se vuelve marrón. Templa el yogur antes de añadirlo para que no se corte.",
   contundencia: "contundente",
   coste: "económica"
@@ -186,7 +186,7 @@ window.RECETAS_SEED.push({
     "Sirve bien caliente con el pan de centeno."
   ],
   nutricion: { kcal: 775, prot: 38, hc: 52, grasa: 46 },
-  etiquetas: ["tradicional", "saciante", "invierno", "batch cooking", "de cuchara"],
+  etiquetas: ["tradicional", "saciante", "invierno", "batch cooking", "de cuchara", "poco especiada"],
   consejo: "En Polonia se dice que el bigos es mejor recalentado al tercer día: hazlo doble y congela raciones. Enjuaga el chucrut si lo notas muy ácido.",
   contundencia: "contundente",
   coste: "media"
@@ -235,7 +235,7 @@ window.RECETAS_SEED.push({
     "Saca los rollitos, quita los palillos y tritura la salsa con la batidora (o pásala por un colador) hasta que quede lisa. Si está líquida, redúcela 5 minutos. Sirve los rollitos napados con la salsa, la lombarda y las patatas."
   ],
   nutricion: { kcal: 720, prot: 46, hc: 58, grasa: 34 },
-  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "invierno", "poco especiada"],
   consejo: "Pide en la carnicería filetes grandes y finos para rollos; si son pequeños, solápalos dos a dos. La lombarda se puede hacer la víspera: gana sabor.",
   contundencia: "contundente",
   coste: "media"
@@ -280,7 +280,7 @@ window.RECETAS_SEED.push({
     "Sirve una montaña de puré, las salchichas encima, mucho gravy de cebolla y los guisantes al lado."
   ],
   nutricion: { kcal: 795, prot: 30, hc: 70, grasa: 44 },
-  etiquetas: ["tradicional", "saciante", "económica", "para niños", "invierno"],
+  etiquetas: ["tradicional", "saciante", "económica", "para niños", "invierno", "poco especiada"],
   consejo: "No pinches las salchichas: si las cocinas despacio quedan jugosas y no revientan. La mostaza en el puré es el toque de las casas inglesas.",
   contundencia: "contundente",
   coste: "económica"
@@ -328,7 +328,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal y pimienta blanca y sirve con el arroz blanco."
   ],
   nutricion: { kcal: 710, prot: 42, hc: 72, grasa: 28 },
-  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "invierno", "poco especiada"],
   consejo: "Una vez añadida la yema la salsa no debe hervir o se cortará. El caldo que sobra es oro: congélalo para una sopa.",
   contundencia: "contundente",
   coste: "media"
@@ -373,7 +373,7 @@ window.RECETAS_SEED.push({
     "Cuela un par de tazas de caldo y sírvelo bien caliente de primero. Corta la carne en trozos y sírvela con las verduras y las patatas, con sal gruesa, mostaza y pepinillos al lado. Unta el tuétano en pan si te gusta."
   ],
   nutricion: { kcal: 550, prot: 44, hc: 48, grasa: 20 },
-  etiquetas: ["tradicional", "de cuchara", "de domingo", "invierno", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "de domingo", "invierno", "batch cooking", "poco especiada"],
   consejo: "El secreto es que nunca llegue a hervir con fuerza: así la carne queda tierna y el caldo transparente. Con las sobras de carne se hace un hachis parmentier al día siguiente.",
   contundencia: "media",
   coste: "media"
@@ -419,7 +419,7 @@ window.RECETAS_SEED.push({
     "Escurre la pasta, mézclala con una nuez de mantequilla y sírvela con la ternera y su salsa por encima."
   ],
   nutricion: { kcal: 770, prot: 44, hc: 72, grasa: 34 },
-  etiquetas: ["tradicional", "saciante", "rápida", "para invitados"],
+  etiquetas: ["tradicional", "saciante", "rápida", "para invitados", "poco especiada"],
   consejo: "La carne debe entrar y salir de la sartén en un minuto: si se cuece en la salsa queda dura. En Zúrich se sirve con rösti; si te apetece, cambia la pasta por un rösti de patata.",
   contundencia: "contundente",
   coste: "premium"
@@ -462,7 +462,7 @@ window.RECETAS_SEED.push({
     "Incorpora las patatas asadas, mezcla con cuidado para que se empapen de salsa y termina con mucho cilantro picado y un chorrito de limón. Sirve enseguida."
   ],
   nutricion: { kcal: 735, prot: 48, hc: 50, grasa: 38 },
-  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "poco especiada"],
   consejo: "En Portugal las patatas se fríen; al horno quedan casi igual de crujientes con mucho menos aceite. Si el cilantro no te gusta, usa perejil, aunque el plato pierde su aroma típico.",
   contundencia: "contundente",
   coste: "media"
@@ -509,7 +509,7 @@ window.RECETAS_SEED.push({
     "Rellena las pitas con la carne, tomate, cebolla y tzatziki, mete unas cuantas patatas dentro como en Grecia y sirve el resto al lado."
   ],
   nutricion: { kcal: 740, prot: 40, hc: 78, grasa: 30 },
-  etiquetas: ["tradicional", "saciante", "económica", "para niños", "verano"],
+  etiquetas: ["tradicional", "saciante", "económica", "para niños", "verano", "poco especiada"],
   consejo: "Para que la carne quede como la del asador, que la sartén humee antes de echarla y no la llenes: si se amontona, se cuece en vez de tostarse.",
   contundencia: "contundente",
   coste: "económica"
@@ -553,7 +553,7 @@ window.RECETAS_SEED.push({
     "Sirve la quiche templada con la ensalada al lado."
   ],
   nutricion: { kcal: 830, prot: 30, hc: 52, grasa: 56 },
-  etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "ideal para llevar"],
+  etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "ideal para llevar", "poco especiada"],
   consejo: "La quiche lorraine auténtica no lleva cebolla ni muchos más ingredientes: bacon, huevo, nata y, como mucho, queso. El cuajado suave es la clave: sácala cuando el centro aún tiemble.",
   contundencia: "contundente",
   coste: "media"
@@ -596,7 +596,7 @@ window.RECETAS_SEED.push({
     "Sirve el toad in the hole recién salido del horno, cortado en porciones, con el gravy por encima y el brócoli al lado."
   ],
   nutricion: { kcal: 730, prot: 30, hc: 58, grasa: 42 },
-  etiquetas: ["tradicional", "saciante", "económica", "al horno", "para niños", "invierno"],
+  etiquetas: ["tradicional", "saciante", "económica", "al horno", "para niños", "invierno", "poco especiada"],
   consejo: "El truco para que suba es que la grasa de la fuente humee cuando viertes la masa y no abrir el horno hasta el final. Una fuente de metal funciona mejor que una de cristal.",
   contundencia: "contundente",
   coste: "económica"
@@ -683,7 +683,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos tapado y sirve en plato hondo con su caldo y pan para mojar."
   ],
   nutricion: { kcal: 440, prot: 36, hc: 42, grasa: 14 },
-  etiquetas: ["tradicional", "de cuchara", "una sola sartén", "ligera"],
+  etiquetas: ["tradicional", "de cuchara", "una sola sartén", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "No remuevas nunca la caldeirada: se mueve la cazuela para que el pescado no se rompa. Cuantos más tipos de pescado, más rico el caldo.",
   contundencia: "ligera",
   coste: "media"
@@ -728,7 +728,7 @@ window.RECETAS_SEED.push({
     "Gratina 15-20 minutos, hasta que la superficie esté dorada y burbujee por los bordes. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 745, prot: 40, hc: 52, grasa: 42 },
-  etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "de domingo"],
+  etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "de domingo", "sin verduras", "poco especiada"],
   consejo: "En Portugal las patatas van fritas en dados; si las haces en el horno 25 minutos a 220 °C quedan casi iguales. Se puede montar la víspera y gratinar justo antes de comer.",
   contundencia: "contundente",
   coste: "premium"
@@ -770,7 +770,7 @@ window.RECETAS_SEED.push({
     "Sirve el laxpudding en porciones, regado con la mantequilla al eneldo y con los guisantes al lado."
   ],
   nutricion: { kcal: 600, prot: 30, hc: 52, grasa: 30 },
-  etiquetas: ["tradicional", "al horno", "de domingo", "invierno"],
+  etiquetas: ["tradicional", "al horno", "de domingo", "invierno", "poco especiada"],
   consejo: "En Suecia se riega con mantequilla derretida en la mesa: es parte del plato. Puedes usar recortes de salmón ahumado, que son mucho más baratos.",
   contundencia: "media",
   coste: "premium"
@@ -811,7 +811,7 @@ window.RECETAS_SEED.push({
     "Esparce mucho perejil picado, chafa ligeramente las patatas y ponlas en la sartén para que se empapen del caldo. Sirve en plato hondo con un hilo de aceite crudo."
   ],
   nutricion: { kcal: 420, prot: 34, hc: 40, grasa: 14 },
-  etiquetas: ["tradicional", "ligera", "rápida", "una sola sartén", "verano"],
+  etiquetas: ["tradicional", "ligera", "rápida", "una sola sartén", "verano", "bajo en colesterol"],
   consejo: "Los pescadores napolitanos lo hacían con agua de mar; por eso el caldo debe quedar sabroso: pruébalo antes de meter el pescado y ajusta de sal.",
   contundencia: "ligera",
   coste: "media"
@@ -853,7 +853,7 @@ window.RECETAS_SEED.push({
     "Sirve el bacalao sobre el puré, cubierto con la salsa de perejil, y los guisantes al lado."
   ],
   nutricion: { kcal: 545, prot: 38, hc: 58, grasa: 18 },
-  etiquetas: ["tradicional", "para niños", "invierno"],
+  etiquetas: ["tradicional", "para niños", "invierno", "poco especiada"],
   consejo: "Pica el perejil justo antes de añadirlo y no vuelvas a hervir la salsa: así queda verde brillante. Si sobra leche de cocción, úsala para el puré.",
   contundencia: "media",
   coste: "media"
@@ -894,7 +894,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal el guiso (suele no necesitar) y sirve el bacalao con su salsa junto a la polenta blanda."
   ],
   nutricion: { kcal: 750, prot: 46, hc: 60, grasa: 36 },
-  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno"],
+  etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "sin verduras", "poco especiada"],
   consejo: "En Vicenza se cuece hasta cuatro horas: cuanto más lento, más cremoso. Si usas difusor de calor en la vitro o gas, no se pegará nunca.",
   contundencia: "contundente",
   coste: "premium"
@@ -936,7 +936,7 @@ window.RECETAS_SEED.push({
     "Sirve el bacalao recién frito con la skordalia a temperatura ambiente, la remolacha y gajos de limón."
   ],
   nutricion: { kcal: 600, prot: 36, hc: 56, grasa: 26 },
-  etiquetas: ["tradicional", "para invitados"],
+  etiquetas: ["tradicional", "para invitados", "poco especiada"],
   consejo: "En Grecia es el plato del 25 de marzo. La skordalia está mejor tibia o fría que caliente y aguanta dos días en la nevera, así que puedes hacerla antes.",
   contundencia: "media",
   coste: "media"
@@ -976,7 +976,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan. Sirve el puré de habas en un lado del plato y la verdura en el otro, con un buen chorro de aceite crudo por encima, el pan y, si quieres, unos aros finos de cebolla morada."
   ],
   nutricion: { kcal: 440, prot: 22, hc: 52, grasa: 16 },
-  etiquetas: ["tradicional", "económica", "ligera", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "económica", "ligera", "batch cooking", "invierno", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "El puré se espesa al enfriar: si lo recalientas, añade un chorrito de agua. En Apulia se moja todo junto con el pan, así que no seas tímido con el aceite bueno.",
   contundencia: "ligera",
   coste: "económica"
@@ -1019,7 +1019,7 @@ window.RECETAS_SEED.push({
     "Sirve en plato hondo con un hilo de aceite crudo, pimienta, el feta desmenuzado y las aceitunas por encima."
   ],
   nutricion: { kcal: 445, prot: 22, hc: 62, grasa: 12 },
-  etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "batch cooking", "poco especiada"],
   consejo: "No te saltes el vinagre al final: en las casas griegas cada uno añade más en la mesa. Con anchoas o sardinas en conserva al lado es una comida de verdad de abuela.",
   contundencia: "ligera",
   coste: "económica"
@@ -1064,7 +1064,7 @@ window.RECETAS_SEED.push({
     "Pon las judías encima de las tostadas, ralla el cheddar por encima, corona con el huevo frito y pimienta negra."
   ],
   nutricion: { kcal: 535, prot: 28, hc: 70, grasa: 16 },
-  etiquetas: ["tradicional", "económica", "rápida", "para niños", "fácil"],
+  etiquetas: ["tradicional", "económica", "rápida", "para niños", "fácil", "poco especiada"],
   consejo: "Las judías caseras aguantan 4 días en la nevera: haz el doble y tendrás desayunos o cenas de diario resueltos. Un poco de bacon en el sofrito las hace aún más británicas.",
   contundencia: "media",
   coste: "económica"
@@ -1108,7 +1108,7 @@ window.RECETAS_SEED.push({
     "Rectifica de sal y pimienta y sirve en plato hondo con el pan de centeno."
   ],
   nutricion: { kcal: 675, prot: 34, hc: 58, grasa: 34 },
-  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "batch cooking", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "batch cooking", "invierno", "poco especiada"],
   consejo: "La mejorana es la que da el sabor polaco: no la cambies por orégano si puedes evitarlo. Como todos los guisos de alubias, mejora al día siguiente.",
   contundencia: "contundente",
   coste: "media"

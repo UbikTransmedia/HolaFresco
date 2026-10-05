@@ -51,7 +51,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan, ponlo en el fondo de los platos hondos y vierte la sopa por encima. Termina con un hilo de aceite crudo y, si quieres, parmesano rallado."
   ],
   nutricion: { kcal: 820, prot: 36, hc: 78, grasa: 38 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "otoño", "batch cooking", "económica"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "otoño", "batch cooking", "económica", "poco especiada"],
   consejo: "La cisrà se come en el Piamonte el 2 de noviembre; la versión de los pueblos lleva también callos y corteza de cerdo, y aquí se aligera con costilla. Está mejor de un día para otro: guarda el pan aparte y tuéstalo al servir. Si usas garbanzos secos (150 g), remójalos 12 horas y cuécelos junto a la costilla desde el principio, 1 h 30 min.",
   tupper: true,
   contundencia: "contundente",
@@ -99,7 +99,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan y sirve la busecca muy caliente, con una lluvia generosa de parmesano por encima y el pan al lado para mojar."
   ],
   nutricion: { kcal: 680, prot: 46, hc: 42, grasa: 33 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "A los milaneses los llamaban «busecconi» por lo mucho que les gustaba este plato. Como todos los guisos de callos, gana al día siguiente y se congela muy bien. Si tus callos son crudos, cuécelos antes 2 horas en agua con sal, laurel y media cebolla. En Milán se usan las alubias grandes llamadas «de Spagna»: los judiones cocidos son un buen sustituto.",
   tupper: true,
   contundencia: "contundente",
@@ -144,7 +144,7 @@ window.RECETAS_SEED.push({
     "Sácalas con una espumadera, pon 3 o 4 en cada plato hondo, cúbrelas con el caldo bien caliente y termina con el cebollino reservado."
   ],
   nutricion: { kcal: 590, prot: 33, hc: 51, grasa: 26 },
-  etiquetas: ["tradicional", "invierno", "económica", "para niños"],
+  etiquetas: ["tradicional", "invierno", "económica", "para niños", "sin verduras", "poco especiada"],
   consejo: "Los canederli (Knödel en el Tirol del Sur) nacieron para aprovechar el pan duro en las cocinas de montaña del Trentino. Cocerlos en agua aparte deja el caldo limpio y transparente. Puedes formarlos el día antes y guardarlos crudos en la nevera, o cocerlos y guardarlos separados del caldo 2 días: se recalientan 5 minutos dentro del caldo hirviendo.",
   tupper: true,
   contundencia: "media",
@@ -190,7 +190,7 @@ window.RECETAS_SEED.push({
     "Tuesta el pan, frótalo con el ajo restante y rocíalo con el resto del aceite. Sirve la sopa sobre las tostas o con ellas al lado, con perejil picado y pimienta."
   ],
   nutricion: { kcal: 590, prot: 44, hc: 40, grasa: 26 },
-  etiquetas: ["tradicional", "de cuchara", "otoño", "invierno"],
+  etiquetas: ["tradicional", "de cuchara", "otoño", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "El ciuppin ligur es el antepasado del cioppino que los emigrantes genoveses llevaron a San Francisco. Pide en la pescadería «pescado para sopa» o morralla: cuanto más variado, más sabroso. La crema colada, sin la merluza, se congela 3 meses; añade el pescado fresco al recalentarla.",
   tupper: true,
   contundencia: "media",
@@ -230,7 +230,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida en platos hondos, con el resto del parmesano y pimienta recién molida."
   ],
   nutricion: { kcal: 445, prot: 29, hc: 37, grasa: 19 },
-  etiquetas: ["tradicional", "invierno", "para niños", "económica", "ligera"],
+  etiquetas: ["tradicional", "invierno", "para niños", "económica", "ligera", "sin verduras", "poco especiada"],
   consejo: "Los passatelli nacieron para aprovechar el pan duro y en la Romaña se hacen con un hierro curvo con agujeros; el pasapurés funciona igual de bien. Puedes preparar la masa por la mañana y guardarla en la nevera bien envuelta. No los cuezas en el caldo con antelación: absorben el líquido y se deshacen.",
   tupper: false,
   contundencia: "ligera",
@@ -271,7 +271,7 @@ window.RECETAS_SEED.push({
     "Sirve con un hilo del aceite restante en crudo."
   ],
   nutricion: { kcal: 580, prot: 15, hc: 60, grasa: 30 },
-  etiquetas: ["tradicional", "invierno", "otoño", "al horno", "económica", "de cuchara"],
+  etiquetas: ["tradicional", "invierno", "otoño", "al horno", "económica", "de cuchara", "poco especiada"],
   consejo: "La carabaccia se cita en Florencia desde el Renacimiento, cuando llevaba almendras y canela; se dice que es la abuela de la sopa de cebolla francesa. El truco está en la paciencia: si subes el fuego, la cebolla se tuesta en vez de volverse dulce. La sopa sin pan aguanta 3 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "media",
@@ -311,7 +311,7 @@ window.RECETAS_SEED.push({
     "Pon 3 o 4 rollos en cada plato hondo, espolvoréalos con el queso restante y vierte el caldo hirviendo por encima. Tapa los platos 2 minutos para que las crepes se empapen y el queso se funda."
   ],
   nutricion: { kcal: 370, prot: 21, hc: 23, grasa: 21 },
-  etiquetas: ["tradicional", "invierno", "ligera", "para niños", "económica"],
+  etiquetas: ["tradicional", "invierno", "ligera", "para niños", "económica", "sin verduras", "poco especiada"],
   consejo: "Es el primer plato de las fiestas en Teramo, en los Abruzos; «'mbusse» significa mojadas. La masa lleva agua y no leche para que las crepes queden finas y aguanten el caldo. Puedes hacerlas el día antes y guardarlas apiladas con film en la nevera; el caldo, eso sí, tiene que estar hirviendo al servir. Si encuentras pecorino de los Abruzos, úsalo en lugar del romano.",
   tupper: false,
   contundencia: "ligera",
@@ -351,7 +351,7 @@ window.RECETAS_SEED.push({
     "Retira la guindilla y, fuera del fuego, añade el parmesano, el perejil, pimienta y el resto del aceite. Deja reposar 2 minutos antes de servir."
   ],
   nutricion: { kcal: 540, prot: 16, hc: 65, grasa: 24 },
-  etiquetas: ["tradicional", "otoño", "económica", "para niños", "de cuchara"],
+  etiquetas: ["tradicional", "otoño", "económica", "para niños", "de cuchara", "bajo en colesterol"],
   consejo: "En Nápoles la pasta se cuece dentro de la propia sopa para que su almidón la vuelva cremosa; por eso hay que remover y añadir el agua poco a poco. La pasta mista nació de vender juntos los restos de distintos formatos. Si sobra, se espesa mucho en la nevera: al recalentar, añade agua caliente y remueve.",
   tupper: true,
   contundencia: "media",
@@ -390,7 +390,7 @@ window.RECETAS_SEED.push({
     "Sirve con las barbas de hinojo picadas, pimienta, la guindilla desmenuzada si te gusta y 2 cucharadas de aceite crudo repartidas por encima."
   ],
   nutricion: { kcal: 640, prot: 27, hc: 82, grasa: 24 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "primavera", "económica", "batch cooking"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "primavera", "económica", "batch cooking", "bajo en colesterol"],
   consejo: "En Sicilia se hace con hinojo silvestre, más aromático; el bulbo con sus barbas es el mejor sustituto. El 19 de marzo, día de San José, se prepara una versión con todas las legumbres secas que quedan en la despensa. Las habas secas peladas se encuentran en tiendas de alimentación árabe o turca; si no, usa guisantes secos partidos. El maccu que sobra se solidifica en la nevera: córtalo en rebanadas y dóralo en la sartén, como se hace en Palermo.",
   tupper: true,
   contundencia: "media",
@@ -436,7 +436,7 @@ window.RECETAS_SEED.push({
     "Prueba de sal y pimienta, retira la guindilla y sirve con las hojas de perejil picadas y el resto del aceite en crudo."
   ],
   nutricion: { kcal: 585, prot: 37, hc: 48, grasa: 25 },
-  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína"],
+  etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "bajo en colesterol"],
   consejo: "En el dialecto romano la raya se llama arzilla, y esta sopa es la cena de Nochebuena y de los viernes en muchas casas de Roma. En España la raya es económica y fácil de encontrar en la pescadería; si no la hay, usa rape y una cabeza de merluza para el caldo. Los cartílagos son lo que da al caldo su textura sedosa: no los tires antes de tiempo.",
   tupper: false,
   contundencia: "media",
@@ -479,7 +479,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema en platos hondos con la stracciatella en el centro, los picatostes, el resto de la albahaca, pimienta y un hilo del aceite restante."
   ],
   nutricion: { kcal: 550, prot: 14, hc: 36, grasa: 38 },
-  etiquetas: ["creativa", "verano", "al horno", "sopa fría"],
+  etiquetas: ["creativa", "verano", "al horno", "sopa fría", "poco especiada"],
   consejo: "Asar el tomate concentra su dulzor y le da un fondo tostado que el gazpacho crudo no tiene. La crema aguanta 3 días en la nevera y está aún mejor al día siguiente; añade la stracciatella y los picatostes justo al servir. En invierno, sírvela caliente con un huevo escalfado.",
   tupper: true,
   contundencia: "media",
@@ -523,7 +523,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema fría con las gambas y su jugo encima, hojas de albahaca y pimienta recién molida."
   ],
   nutricion: { kcal: 420, prot: 22, hc: 20, grasa: 27 },
-  etiquetas: ["creativa", "verano", "ligera", "sopa fría", "para invitados"],
+  etiquetas: ["creativa", "verano", "ligera", "sopa fría", "para invitados", "poco especiada"],
   consejo: "La vellutata fredda de calabacín es un básico del verano italiano. El baño de hielo es el truco para que no se vuelva parda: si la dejas enfriar sola, el calabacín sigue cociéndose y pierde el color. La crema aguanta 2 días en la nevera; las gambas, siempre al momento. Con langostinos crudos sale más económica y queda igual de bien.",
   tupper: false,
   contundencia: "ligera",
@@ -569,7 +569,7 @@ window.RECETAS_SEED.push({
     "Sirve con las avellanas por encima y un hilo del aceite de tomillo."
   ],
   nutricion: { kcal: 610, prot: 16, hc: 56, grasa: 34 },
-  etiquetas: ["creativa", "otoño", "invierno", "batch cooking"],
+  etiquetas: ["creativa", "otoño", "invierno", "batch cooking", "poco especiada"],
   consejo: "Castañas, setas y avellanas son el otoño de las Langhe piamontesas. Los boletus secos son caros pero rinden mucho: 20 g dan sabor a toda la crema, y los champiñones aportan el volumen. Si quieres castañas frescas, hazles un corte, ásalas 25 minutos a 200 °C y pélalas en caliente. La crema se congela muy bien sin las avellanas.",
   tupper: true,
   contundencia: "media",
@@ -615,7 +615,7 @@ window.RECETAS_SEED.push({
     "Retira las ramas de tomillo, prueba de sal y pimienta y sirve con el parmesano rallado y el perejil picado."
   ],
   nutricion: { kcal: 660, prot: 46, hc: 50, grasa: 28 },
-  etiquetas: ["creativa", "alta en proteína", "otoño", "invierno", "batch cooking"],
+  etiquetas: ["creativa", "alta en proteína", "otoño", "invierno", "batch cooking", "poco especiada"],
   consejo: "El marsala es el vino generoso de Sicilia; los escalopines y el pollo al marsala con setas son un clásico de las trattorias de toda Italia y de las italoamericanas. Un oloroso o un amontillado español funcionan muy bien en su lugar. Si tu farro no es perlado, déjalo en remojo la noche antes o cuécelo 40 minutos. En el tupper el farro sigue absorbiendo caldo: añade un chorrito al recalentar.",
   tupper: true,
   contundencia: "contundente",
@@ -657,7 +657,7 @@ window.RECETAS_SEED.push({
     "Gratina 5–6 minutos, hasta que la mozzarella burbujee y se dore en algunos puntos. Sirve con albahaca fresca por encima."
   ],
   nutricion: { kcal: 625, prot: 25, hc: 36, grasa: 40 },
-  etiquetas: ["creativa", "al horno", "verano", "otoño", "para niños"],
+  etiquetas: ["creativa", "al horno", "verano", "otoño", "para niños", "poco especiada"],
   consejo: "Asar la berenjena en lugar de freírla, como en la parmigiana clásica, da el mismo sabor tostado con mucho menos aceite. La crema sin gratinar aguanta 3 días en la nevera y se congela bien: el día que la sirvas, solo tienes que calentarla, montarla en los cuencos y gratinarla.",
   tupper: true,
   contundencia: "media",
@@ -748,7 +748,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa con una cucharada generosa de la mezcla de ricotta y unas hojas de albahaca: al removerla en el plato, la sopa se vuelve cremosa como el relleno de una lasaña."
   ],
   nutricion: { kcal: 720, prot: 44, hc: 52, grasa: 35 },
-  etiquetas: ["creativa", "para niños", "invierno", "alta en proteína"],
+  etiquetas: ["creativa", "para niños", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Si la vas a llevar en tupper, cuece las placas aparte y guárdalas separadas del caldo: así no se hinchan ni absorben toda la sopa. El ragú sin pasta se congela 3 meses. Puedes cambiar la ternera por cerdo picado, o mezclar mitad y mitad como en Bolonia.",
   tupper: true,
   contundencia: "contundente",
@@ -792,7 +792,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con el huevo en el centro, una cucharadita del resto de la ricotta, el crujiente de parmesano partido y un poco más de pimienta y nuez moscada."
   ],
   nutricion: { kcal: 420, prot: 25, hc: 23, grasa: 24 },
-  etiquetas: ["creativa", "ligera", "sin gluten", "primavera", "invierno"],
+  etiquetas: ["creativa", "ligera", "sin gluten", "primavera", "invierno", "poco especiada"],
   consejo: "Espinacas, ricotta y nuez moscada son el relleno clásico de los ravioli y los canelones de Emilia-Romaña. Para que la crema quede verde, no cuezas las espinacas más de 2 minutos y tritúrala enseguida. Si quieres adelantarla, guarda la crema 2 días en la nevera y escalfa los huevos al momento; el crujiente de parmesano aguanta crujiente 1 día en una caja hermética.",
   tupper: false,
   contundencia: "ligera",
@@ -880,7 +880,7 @@ window.RECETAS_SEED.push({
     "Sirve la crema con las lascas de bacalao, los ramilletes reservados, el aliño de piñones y pasas por encima y pimienta."
   ],
   nutricion: { kcal: 560, prot: 34, hc: 38, grasa: 29 },
-  etiquetas: ["creativa", "alta en proteína", "airfryer", "sin gluten", "otoño", "invierno"],
+  etiquetas: ["creativa", "alta en proteína", "airfryer", "sin gluten", "otoño", "invierno", "poco especiada"],
   consejo: "Pasas, piñones y alcaparras son el agrodolce que en Sicilia acompaña a la coliflor y a las sardinas desde la época árabe. Sin airfryer, asa la coliflor en el horno a 220 °C 25 minutos. La crema aguanta 3 días en la nevera; guarda el bacalao y el aliño aparte y júntalos al servir.",
   tupper: true,
   contundencia: "media",

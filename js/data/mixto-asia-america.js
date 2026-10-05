@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Reparte los fideos en cuencos hondos, vierte el caldo de soja helado por encima y corona con el pepino, el tomate, medio huevo y una pizca de sésamo. En Corea la sal se pone en la mesa: cada uno sala su cuenco al gusto."
   ],
   nutricion: { kcal: 615, prot: 34, hc: 72, grasa: 20 },
-  etiquetas: ["tradicional", "verano", "vegetariana", "alta en proteína", "económica"],
+  etiquetas: ["tradicional", "verano", "vegetariana", "alta en proteína", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El kongguksu es el plato de los días de bochorno en Corea, y lo que lo hace bueno es el punto de la soja: pocos minutos de hervor y enfriar rápido. Atajo casero muy habitual allí: tritura 500 ml de bebida de soja sin azúcar con 2 cucharadas de sésamo y un puñado de piñones, y tienes caldo en 2 minutos. El caldo aguanta 2 días en la nevera; los fideos, cuécelos siempre al momento.",
   tupper: false,
   contundencia: "media",
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Deja reposar el guiso 15 minutos fuera del fuego para que la soja absorba el jugo. Sírvelo tibio con el arroz y las espinacas."
   ],
   nutricion: { kcal: 620, prot: 32, hc: 91, grasa: 13 },
-  etiquetas: ["tradicional", "batch cooking", "sin lácteos", "otoño", "invierno", "económica"],
+  etiquetas: ["tradicional", "batch cooking", "sin lácteos", "otoño", "invierno", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Gomoku mame significa «soja de cinco cosas» y es un clásico de la comida casera y de las cajas de Año Nuevo. Si encuentras konjac, raíz de loto o bardana en una tienda asiática, añade 50 g de cualquiera de ellas en dados con la zanahoria. Para ahorrar tiempo, cuece la soja remojada 20 minutos en olla exprés. Está aún mejor al día siguiente y aguanta 4 días en la nevera: es un acompañamiento perfecto para los tuppers.",
   tupper: true,
   contundencia: "media",
@@ -225,7 +225,7 @@ window.RECETAS_SEED.push({
     "Sirve sobre el arroz jazmín con el verde de la cebolleta picado por encima."
   ],
   nutricion: { kcal: 580, prot: 20, hc: 91, grasa: 13 },
-  etiquetas: ["creativa", "vegana", "sin lácteos", "picante", "económica"],
+  etiquetas: ["creativa", "vegana", "sin lácteos", "picante", "económica", "bajo en colesterol"],
   consejo: "El douchi son granos de soja negra fermentados y salados; en Cantón se usan con pescado, costillas o almejas. Aquí condimentan unas alubias negras de bote, que aportan cuerpo y proteína. Un bote abierto de douchi dura meses en la nevera bien cerrado. El plato aguanta 3 días en un tupper; la berenjena se ablanda algo más, pero gana sabor.",
   tupper: true,
   contundencia: "media",
@@ -275,7 +275,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel y las rodajas de limón, prueba de sal y termina con la cebolleta y el perejil picados. Sirve el pescado con su salsa sobre el arroz."
   ],
   nutricion: { kcal: 440, prot: 36, hc: 52, grasa: 8 },
-  etiquetas: ["tradicional", "ligera", "alta en proteína"],
+  etiquetas: ["tradicional", "ligera", "alta en proteína", "bajo en colesterol"],
   consejo: "El courtbouillon («coo-bee-yon» en Luisiana) se hace allí con redfish, un pariente de la corvina, así que es el mejor sustituto que tenemos; la merluza también funciona. Puedes adelantar la salsa hasta 2 días y cocer el pescado en ella justo antes de servir. Para una versión sin gluten, liga con 1 cucharadita de maicena disuelta en agua en lugar del roux.",
   tupper: true,
   contundencia: "ligera",
@@ -318,7 +318,7 @@ window.RECETAS_SEED.push({
     "Sirve el bacalao con el jugo de la fuente por encima, las patatas, las judías y un gajo de limón."
   ],
   nutricion: { kcal: 425, prot: 36, hc: 40, grasa: 12 },
-  etiquetas: ["tradicional", "ligera", "al horno", "alta en proteína", "para niños"],
+  etiquetas: ["tradicional", "ligera", "al horno", "alta en proteína", "para niños", "poco especiada"],
   consejo: "En los mercados de Boston, scrod es el nombre que se da al bacalao o al eglefino jóvenes y en filetes gruesos; el abadejo también sirve. La costra de galleta salada con mantequilla es la seña del plato: no la cambies por pan rallado normal, que queda más seco. Para hacerlo sin gluten usa galletas saladas sin gluten. Se come recién hecho: la costra no aguanta la nevera.",
   tupper: false,
   contundencia: "ligera",
@@ -361,7 +361,7 @@ window.RECETAS_SEED.push({
     "Sirve el salmón con las patatas y los espárragos, la salsa de yogur aparte y el resto del limón en gajos."
   ],
   nutricion: { kcal: 465, prot: 31, hc: 23, grasa: 28 },
-  etiquetas: ["creativa", "ligera", "al horno", "sin gluten", "primavera"],
+  etiquetas: ["creativa", "ligera", "al horno", "sin gluten", "primavera", "superalimentos", "detox", "poco especiada"],
   consejo: "Oregón produce casi todas las avellanas de Estados Unidos y su costa es tierra de salmón, así que la combinación es un clásico moderno de los restaurantes de Portland. Si tus espárragos son muy gruesos, mételos 3 minutos antes que el salmón. Las sobras de salmón, frías y desmigadas, son una base estupenda para una ensalada al día siguiente; la costra, eso sí, pierde el crujiente.",
   tupper: false,
   contundencia: "ligera",
@@ -454,7 +454,7 @@ window.RECETAS_SEED.push({
     "Corta el pollo en tiras gruesas y sírvelo sobre el succotash."
   ],
   nutricion: { kcal: 385, prot: 42, hc: 24, grasa: 13 },
-  etiquetas: ["tradicional", "ligera", "rápida", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "ligera", "rápida", "sin gluten", "alta en proteína", "verano", "poco especiada"],
   consejo: "El succotash viene de un plato de maíz y judías de los pueblos nativos del noreste, y en el sur se convirtió en la guarnición de verano por excelencia. Aguanta 3 días en la nevera y está bueno frío, como ensalada; el pollo, mejor recién hecho, aunque en tiras sirve para un tupper. Con maíz de mazorca fresco, en temporada, es otro plato.",
   tupper: true,
   contundencia: "ligera",
@@ -547,7 +547,7 @@ window.RECETAS_SEED.push({
     "Monta cada plato con una cama de lechuga y coloca encima, en filas, el pavo, el jamón, el queso, el huevo, los tomates y los rábanos. Sirve el aliño aparte y termina con el resto del cebollino."
   ],
   nutricion: { kcal: 375, prot: 39, hc: 9, grasa: 20 },
-  etiquetas: ["tradicional", "ligera", "rápida", "alta en proteína", "ideal para llevar"],
+  etiquetas: ["tradicional", "ligera", "rápida", "alta en proteína", "ideal para llevar", "poco especiada"],
   consejo: "La chef salad fue durante décadas el plato fijo de las cafeterías de hotel en Estados Unidos: un buen aprovechamiento de fiambres, quesos y huevos, colocados en filas para que se vea todo. Para llevar, monta el tupper sin aliñar y lleva el aliño en un bote aparte; aguanta así 2 días. El emmental puede ser cualquier queso suizo, y el pavo, pollo asado del día anterior.",
   tupper: true,
   contundencia: "ligera",
@@ -593,7 +593,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos los cogollos, las patatas, las judías y el pepino, coloca encima los langostinos tibios y napa con parte del aliño. Termina con el resto del cebollino picado y sirve el aliño que sobre aparte."
   ],
   nutricion: { kcal: 380, prot: 32, hc: 25, grasa: 16 },
-  etiquetas: ["tradicional", "ligera", "sin gluten", "alta en proteína", "verano"],
+  etiquetas: ["tradicional", "ligera", "sin gluten", "alta en proteína", "verano", "poco especiada"],
   consejo: "El aliño Green Goddess se inventó en el Palace Hotel de San Francisco en los años veinte, y se servía sobre marisco. La versión clásica lleva mayonesa; con yogur griego y aguacate pesa la mitad y queda igual de verde. El aliño aguanta 2 días en la nevera con film pegado a la superficie para que no se oscurezca; la ensalada, móntala al momento.",
   tupper: false,
   contundencia: "ligera",
@@ -605,7 +605,7 @@ window.RECETAS_SEED.push({
   nombre: "Migas tex-mex: huevos revueltos con tiras de tortilla de maíz, jalapeño, tomate y cheddar",
   subtitulo: "el desayuno de las cafeterías de Austin convertido en cena rápida, con aguacate y cilantro",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "huevos",
   cocina: "americana",
   momentos: ["cena"],
   proteina: "huevo",
@@ -649,7 +649,7 @@ window.RECETAS_SEED.push({
   nombre: "Hamburguesa de portobello a la plancha con provolone, pimiento rojo asado y rúcula",
   subtitulo: "la hamburguesa vegetariana de California: una seta entera, jugosa y marinada, en lugar de carne",
   origen: "inventada",
-  categoria: "vegetariano",
+  categoria: "verduras",
   cocina: "americana",
   momentos: ["cena"],
   proteina: "queso",
@@ -683,7 +683,7 @@ window.RECETAS_SEED.push({
     "Monta cada hamburguesa: salsa de yogur en la base, rúcula, el portobello con el queso, el pimiento asado, el tomate y la cebolla, y la tapa del pan. Sirve enseguida."
   ],
   nutricion: { kcal: 390, prot: 16, hc: 38, grasa: 19 },
-  etiquetas: ["creativa", "ligera", "vegetariana", "a la plancha"],
+  etiquetas: ["creativa", "ligera", "vegetariana", "a la plancha", "poco especiada"],
   consejo: "Las hamburguesas de portobello se hicieron populares en los restaurantes de California de los noventa, cuando las opciones vegetarianas eran poco más que ensaladas. El marinado de balsámico hace que la seta se dore y tenga un fondo casi cárnico. Para una versión vegana, cambia el provolone por aguacate y el yogur por hummus. No las prepares con antelación: el pan se empapa.",
   tupper: false,
   contundencia: "ligera",

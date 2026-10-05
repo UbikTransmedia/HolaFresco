@@ -44,7 +44,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa muy caliente en cuencos hondos, con el pollo y una bola de arroz en el centro para ir mojándola."
   ],
   nutricion: { kcal: 490, prot: 41, hc: 60, grasa: 9 },
-  etiquetas: ["tradicional", "picante", "sin gluten", "sin lácteos", "de cuchara", "invierno"],
+  etiquetas: ["tradicional", "picante", "sin gluten", "sin lácteos", "de cuchara", "invierno", "bajo en colesterol"],
   consejo: "En Ghana la light soup se hace con pollo, con cabra (aponkye nkrakra) o con pescado, y se acompaña de fufu o de estas bolas de arroz. Las garden eggs se venden en tiendas de alimentación africana; la berenjena normal aporta la misma textura sedosa. La sopa aguanta 3 días en la nevera y se congela bien; las bolas de arroz, mejor recién hechas.",
   tupper: true,
   contundencia: "media",
@@ -85,7 +85,7 @@ window.RECETAS_SEED.push({
     "Sirve en cuencos con el cilantro picado por encima."
   ],
   nutricion: { kcal: 510, prot: 29, hc: 63, grasa: 16 },
-  etiquetas: ["tradicional", "sin gluten", "de cuchara", "invierno", "para niños"],
+  etiquetas: ["tradicional", "sin gluten", "de cuchara", "invierno", "para niños", "sin verduras", "poco especiada"],
   consejo: "En Tanzania el mtori se hace con ndizi, los plátanos verdes de cocinar del altiplano; el plátano macho verde de las fruterías latinas da el mismo resultado. Algunas familias lo terminan con un chorrito de leche fermentada en lugar de mantequilla. Aguanta 3 días en la nevera: espesa al enfriarse, así que recaliéntalo con un poco de agua.",
   tupper: true,
   contundencia: "media",
@@ -132,7 +132,7 @@ window.RECETAS_SEED.push({
     "Sirve en platos hondos el pescado con los tubérculos y el caldo, el pirão al lado, perejil picado por encima y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 615, prot: 39, hc: 86, grasa: 13 },
-  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "de cuchara"],
+  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "de cuchara", "poco especiada", "bajo en colesterol"],
   consejo: "En Cabo Verde el caldo de peixe se hace con garoupa, serra o atún, y a menudo lleva también yuca y calabaza. La harina de yuca se encuentra en tiendas latinas y africanas (a veces como «fariña»); con maicena el pirão queda menos rústico pero igual de rico. Mejor recién hecho: el pescado recalentado se reseca.",
   tupper: false,
   contundencia: "media",
@@ -222,7 +222,7 @@ window.RECETAS_SEED.push({
     "Sirve con el cebollino picado y pimienta negra recién molida."
   ],
   nutricion: { kcal: 610, prot: 30, hc: 51, grasa: 32 },
-  etiquetas: ["creativa", "para niños", "de cuchara", "invierno", "económica"],
+  etiquetas: ["creativa", "para niños", "de cuchara", "invierno", "económica", "poco especiada"],
   consejo: "Boerewors significa «salchicha del granjero»: es la reina del braai, la barbacoa sudafricana, y se especia con cilantro tostado, clavo, nuez moscada y un chorrito de vinagre. En Sudáfrica al maíz se le llama mielies. Si lo prefieres, usa 250 g de salchicha fresca sacada de la tripa y añade solo el cilantro. Aguanta 2-3 días en la nevera; recaliéntala con un poco de leche.",
   tupper: true,
   contundencia: "media",
@@ -407,7 +407,7 @@ window.RECETAS_SEED.push({
     "Sirve el daube con el arroz y el perejil picado por encima."
   ],
   nutricion: { kcal: 705, prot: 60, hc: 76, grasa: 18 },
-  etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "para invitados"],
+  etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "para invitados", "poco especiada"],
   consejo: "En Mauricio el pulpo se llama ourite y el daube, herencia francesa adaptada con las especias de la isla, se hace con pulpo, pollo o ternera; en Rodrigues el pulpo se seca al sol antes de guisarlo. Si el pulpo es congelado, quedará más tierno, porque la congelación rompe sus fibras. Un pulpo de 1,5 kg necesitaría 15-18 minutos de presión. Aguanta 2 días en la nevera.",
   tupper: true,
   contundencia: "contundente",
@@ -450,7 +450,7 @@ window.RECETAS_SEED.push({
     "Sirve el seswaa con el pap y las espinacas al lado."
   ],
   nutricion: { kcal: 620, prot: 49, hc: 53, grasa: 24 },
-  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking"],
+  etiquetas: ["tradicional", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "En Botsuana el seswaa se cocina en ollas de hierro de tres patas para bodas, funerales y fiestas, y tradicionalmente lo machacan los hombres con una cuchara de madera. El pap se hace con harina de maíz blanca, que encontrarás en tiendas africanas o latinas; la polenta instantánea es un buen sustituto. La carne aguanta 3 días en la nevera: recaliéntala con un chorrito de agua.",
   tupper: true,
   contundencia: "media",
@@ -588,7 +588,7 @@ window.RECETAS_SEED.push({
     "Sirve el kedjenou con el cuscús al lado."
   ],
   nutricion: { kcal: 630, prot: 50, hc: 68, grasa: 18 },
-  etiquetas: ["creativa", "picante", "sin lácteos", "alta en proteína", "económica"],
+  etiquetas: ["creativa", "picante", "sin lácteos", "alta en proteína", "económica", "bajo en colesterol"],
   consejo: "Kedjenou viene del baulé y alude a sacudir: el pollo se cuece sin agua en una canari, vasija de barro sellada con hojas de plátano, que se agita de vez en cuando sin abrirla para que no se pegue. El tradicional lleva pollo de corral con hueso: si lo usas, cuenta 10 minutos de presión. En Abiyán se acompaña de attiéké, cuscús de yuca fermentada que se vende congelado en tiendas africanas. Aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "media",
@@ -629,7 +629,7 @@ window.RECETAS_SEED.push({
     "Sirve caliente en platos hondos."
   ],
   nutricion: { kcal: 630, prot: 21, hc: 87, grasa: 22 },
-  etiquetas: ["creativa", "económica", "sin gluten", "picante", "batch cooking", "de cuchara"],
+  etiquetas: ["creativa", "económica", "sin gluten", "picante", "batch cooking", "de cuchara", "verduras escondidas"],
   consejo: "En Nigeria se hace con honey beans (oloyin), unas alubias pequeñas y dulces, y con ñame (ewa ati isu); las alubias pintas y el boniato recuerdan ese dulzor. Se acompaña con plátano macho frito o con pan. Sin las gambas secas es apto para veganos. Aguanta 4 días en la nevera y se congela bien; al recalentarlo, añade agua porque espesa mucho.",
   tupper: true,
   contundencia: "media",

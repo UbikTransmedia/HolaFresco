@@ -8,7 +8,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu kung pao con cacahuetes, pimientos y arroz jazmín",
   subtitulo: "salteado al wok con salsa agridulce de soja, vinagre de arroz y guindilla",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -54,7 +54,7 @@ window.RECETAS_SEED.push({
   nombre: "Chana masala exprés con espinacas y naan tostado",
   subtitulo: "garbanzos en salsa de tomate especiada con jengibre, garam masala y lima",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -88,7 +88,7 @@ window.RECETAS_SEED.push({
     "Tuesta el naan en una sartén seca 1 minuto por lado o directamente sobre la llama, córtalo en tiras y sírvelo junto al chana con cilantro picado y gajos de lima."
   ],
   nutricion: { kcal: 595, prot: 25, hc: 76, grasa: 21 },
-  etiquetas: ["rápida", "económica", "una sola sartén", "batch cooking"],
+  etiquetas: ["rápida", "económica", "una sola sartén", "batch cooking", "superalimentos", "bajo en colesterol"],
   consejo: "Revisa la etiqueta del naan: muchos llevan yogur o mantequilla. Si no encuentras uno vegano, una tortilla de trigo tostada o arroz basmati funcionan igual de bien.",
   contundencia: "media",
   coste: "económica"
@@ -99,7 +99,7 @@ window.RECETAS_SEED.push({
   nombre: "Fideos soba fríos con tofu al jengibre, pepino, edamame y aliño de miso",
   subtitulo: "con sésamo tostado y cebolleta",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
     "Mezcla los fideos y el edamame con la mitad del aliño, reparte en dos boles y coloca encima las verduras y el tofu. Riega con el resto del aliño y espolvorea el sésamo."
   ],
   nutricion: { kcal: 445, prot: 28, hc: 45, grasa: 17 },
-  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar"],
+  etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Los soba 100 % trigo sarraceno son más delicados: enjuágalos con agua muy fría y aliña justo antes de comer.",
   contundencia: "ligera",
   coste: "media"
@@ -142,7 +142,7 @@ window.RECETAS_SEED.push({
   nombre: "Wraps de hummus de remolacha con garbanzos al comino, pepino y menta",
   subtitulo: "con lechuga crujiente y un toque de zumaque",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "oriente-medio",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -174,7 +174,7 @@ window.RECETAS_SEED.push({
     "Dobla los laterales hacia dentro, enrolla apretando y corta por la mitad en diagonal. Sirve el hummus sobrante para mojar."
   ],
   nutricion: { kcal: 455, prot: 18, hc: 57, grasa: 17 },
-  etiquetas: ["rápida", "ligera", "ideal para llevar", "sin horno"],
+  etiquetas: ["rápida", "ligera", "ideal para llevar", "sin horno", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Para llevar, envuelve cada wrap en papel de horno bien apretado: aguanta horas sin abrirse y se come a mordiscos sin manchar.",
   contundencia: "ligera",
   coste: "económica"
@@ -185,7 +185,7 @@ window.RECETAS_SEED.push({
   nombre: "Heura al limón y ajo con espárragos trigueros y cuscús de perejil",
   subtitulo: "salteado rápido con tomate cherry y ralladura de limón",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "heura",
@@ -215,7 +215,7 @@ window.RECETAS_SEED.push({
     "Esponja el cuscús con un tenedor, mézclalo con la mitad del perejil picado y sirve con la heura encima, el resto del perejil y gajos de limón."
   ],
   nutricion: { kcal: 455, prot: 33, hc: 38, grasa: 19 },
-  etiquetas: ["rápida", "ligera", "alta en proteína", "primavera"],
+  etiquetas: ["rápida", "ligera", "alta en proteína", "primavera", "poco especiada", "bajo en colesterol"],
   contundencia: "ligera",
   coste: "media"
 });
@@ -225,7 +225,7 @@ window.RECETAS_SEED.push({
   nombre: "Quesadillas de alubias negras, maíz y espinacas con salsa de tomate asado",
   subtitulo: "con queso vegetal fundido y un toque de chile",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "latinoamericana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -269,7 +269,7 @@ window.RECETAS_SEED.push({
   nombre: "Pipirrana de lentejas con pimientos, tomate, alcaparras y vinagreta de Jerez",
   subtitulo: "ensalada jienense de huerta con aceitunas y cebolleta",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -301,7 +301,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos (o 30 en la nevera) para que las lentejas absorban el aliño. Prueba de sal y vinagre y sirve con perejil picado."
   ],
   nutricion: { kcal: 400, prot: 20, hc: 42, grasa: 17 },
-  etiquetas: ["sin cocción", "rápida", "verano", "ideal para llevar", "ligera", "económica"],
+  etiquetas: ["sin cocción", "rápida", "verano", "ideal para llevar", "ligera", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Gana con unas horas de nevera, así que es perfecta para el táper. Si la llevas, guarda el tomate aparte y mézclalo al comer para que no suelte agua.",
   contundencia: "ligera",
   coste: "económica"
@@ -312,7 +312,7 @@ window.RECETAS_SEED.push({
   nombre: "Tofu katsu al horno con ensalada de col y salsa tonkatsu casera",
   subtitulo: "empanado en panko, crujiente sin freír, con arroz blanco",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "asiática",
   momentos: ["comida"],
   proteina: "tofu",
@@ -347,7 +347,7 @@ window.RECETAS_SEED.push({
     "Para la salsa tonkatsu, mezcla el kétchup, la salsa de soja, el azúcar moreno y 1 cucharadita de agua. Corta el katsu en tiras y sirve con el arroz, la col y la salsa por encima."
   ],
   nutricion: { kcal: 845, prot: 41, hc: 96, grasa: 33 },
-  etiquetas: ["al horno", "alta en proteína", "para niños", "crujiente"],
+  etiquetas: ["al horno", "alta en proteína", "para niños", "crujiente", "poco especiada"],
   consejo: "Con este mismo tofu katsu puedes hacer un curry japonés o un sándwich katsu sando entre dos rebanadas de pan de molde con la salsa y col.",
   contundencia: "contundente",
   coste: "económica"
@@ -358,7 +358,7 @@ window.RECETAS_SEED.push({
   nombre: "Orecchiette con brócoli, garbanzos, ajo y guindilla con migas crujientes",
   subtitulo: "al estilo de Puglia, con pan rallado tostado y levadura nutricional",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "italiana",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -387,7 +387,7 @@ window.RECETAS_SEED.push({
     "Riega con el resto del aceite crudo y el zumo de limón, prueba de sal y sirve con las migas crujientes por encima en el último momento."
   ],
   nutricion: { kcal: 795, prot: 28, hc: 99, grasa: 32 },
-  etiquetas: ["económica", "invierno", "picante", "rápida"],
+  etiquetas: ["económica", "invierno", "picante", "rápida", "superalimentos"],
   consejo: "No temas pasar el brócoli de punto: en esta receta tradicional se deshace a propósito y hace de salsa.",
   contundencia: "contundente",
   coste: "económica"
@@ -398,7 +398,7 @@ window.RECETAS_SEED.push({
   nombre: "Bowl de quinoa con alubias negras, maíz tostado y pico de gallo con crema de anacardos a la lima",
   subtitulo: "con aguacate y cebolla morada encurtida exprés",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "ensaladas",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -434,7 +434,7 @@ window.RECETAS_SEED.push({
     "Monta los boles con la quinoa de base y, en secciones, las alubias, el maíz, el pico de gallo, el aguacate en láminas y la cebolla encurtida. Riega con la crema de anacardos y termina con cilantro y lima."
   ],
   nutricion: { kcal: 630, prot: 26, hc: 79, grasa: 23 },
-  etiquetas: ["ideal para llevar", "batch cooking", "sin gluten", "bowl"],
+  etiquetas: ["ideal para llevar", "batch cooking", "sin gluten", "bowl", "superalimentos", "bajo en colesterol"],
   consejo: "Prepara quinoa, alubias y crema el domingo: aguantan 4 días en la nevera y montas el bowl en 3 minutos.",
   contundencia: "media",
   coste: "media"
@@ -445,7 +445,7 @@ window.RECETAS_SEED.push({
   nombre: "Seitán en pepitoria con almendras y azafrán y patatas fritas en dados",
   subtitulo: "salsa ligada con majado de almendra, pan frito y ajo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "española",
   momentos: ["comida"],
   proteina: "seitan",
@@ -478,7 +478,7 @@ window.RECETAS_SEED.push({
     "Prueba la salsa de sal y pimienta; si está muy espesa, alarga con un poco de caldo. Sirve el seitán con las patatas al lado y perejil picado por encima."
   ],
   nutricion: { kcal: 765, prot: 47, hc: 54, grasa: 40 },
-  etiquetas: ["alta en proteína", "para invitados", "invierno", "tradicional"],
+  etiquetas: ["alta en proteína", "para invitados", "invierno", "tradicional", "poco especiada"],
   consejo: "El majado es el alma del plato: tuesta bien el pan y las almendras, sin quemarlos, porque son los que dan cuerpo y sabor a la salsa.",
   contundencia: "contundente",
   coste: "premium"
@@ -489,7 +489,7 @@ window.RECETAS_SEED.push({
   nombre: "Shawarma de seitán al horno con pan de pita, gajos de patata, salsa de tahini y encurtidos",
   subtitulo: "marinado con siete especias, cebolla morada y pepino",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "oriente-medio",
   momentos: ["comida"],
   proteina: "seitan",
@@ -537,7 +537,7 @@ window.RECETAS_SEED.push({
   nombre: "Brochetas de tofu al limón y orégano con tzatziki vegetal y ensalada de tomate y pepino",
   subtitulo: "con calabacín a la plancha y aceitunas negras",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "griega",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -570,7 +570,7 @@ window.RECETAS_SEED.push({
     "Sirve las brochetas sobre la ensalada con una buena cucharada de tzatziki."
   ],
   nutricion: { kcal: 410, prot: 28, hc: 16, grasa: 26 },
-  etiquetas: ["ligera", "verano", "a la plancha", "alta en proteína"],
+  etiquetas: ["ligera", "verano", "a la plancha", "alta en proteína", "keto", "detox", "poco especiada"],
   consejo: "Si usas brochetas de madera, ponlas en remojo 20 minutos antes para que no se quemen. En barbacoa quedan aún mejor.",
   contundencia: "ligera",
   coste: "económica"
@@ -581,7 +581,7 @@ window.RECETAS_SEED.push({
   nombre: "Moussaka vegana de lentejas pardinas con berenjena, patata y bechamel de soja",
   subtitulo: "ragú de lentejas a la canela con nuez moscada y gratinado dorado",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "griega",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -616,7 +616,7 @@ window.RECETAS_SEED.push({
     "Hornea 20–25 minutos, hasta que la superficie esté dorada y burbujee en los bordes. Deja reposar 10 minutos antes de cortar para que las capas se asienten."
   ],
   nutricion: { kcal: 820, prot: 30, hc: 93, grasa: 36 },
-  etiquetas: ["al horno", "batch cooking", "invierno", "para invitados"],
+  etiquetas: ["al horno", "batch cooking", "invierno", "para invitados", "poco especiada"],
   consejo: "Al día siguiente está aún mejor y se corta en porciones perfectas. Se congela bien ya horneada, en raciones.",
   contundencia: "contundente",
   coste: "media"
@@ -627,7 +627,7 @@ window.RECETAS_SEED.push({
   nombre: "Biryani de verduras con garbanzos, anacardos y raita de yogur vegetal",
   subtitulo: "arroz basmati en capas con coliflor, zanahoria, guisantes y cebolla crujiente",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "pasta-arroces",
   cocina: "india",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -668,7 +668,7 @@ window.RECETAS_SEED.push({
     "Apaga y deja reposar 5 minutos sin destapar. Mezcla con cuidado desde el fondo para sacar capas de arroz y verduras, y sirve con el resto de cebolla crujiente, los anacardos y la raita."
   ],
   nutricion: { kcal: 610, prot: 23, hc: 85, grasa: 20 },
-  etiquetas: ["para invitados", "aromática", "batch cooking"],
+  etiquetas: ["para invitados", "aromática", "batch cooking", "superalimentos", "bajo en colesterol"],
   consejo: "Si tienes azafrán, infusiona una pizca en 2 cucharadas de bebida vegetal caliente y rocíalo sobre el arroz antes de sellar: le da las vetas doradas clásicas.",
   contundencia: "media",
   coste: "media"
@@ -679,7 +679,7 @@ window.RECETAS_SEED.push({
   nombre: "Pimientos rojos rellenos de arroz, soja texturizada y piñones al horno",
   subtitulo: "con sofrito de cebolla y pimentón y salsa de tomate al vino blanco",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
     "Hornea 30–35 minutos, hasta que los pimientos estén arrugados y tiernos y el arroz cocido. Sirve con la salsa de la fuente y perejil picado."
   ],
   nutricion: { kcal: 630, prot: 25, hc: 70, grasa: 27 },
-  etiquetas: ["al horno", "para invitados", "batch cooking"],
+  etiquetas: ["al horno", "para invitados", "batch cooking", "poco especiada"],
   consejo: "Si el arroz queda algo duro al final, tapa la fuente con papel de aluminio y dale 10 minutos más: el vapor termina de cocerlo.",
   contundencia: "media",
   coste: "premium"
@@ -725,7 +725,7 @@ window.RECETAS_SEED.push({
   nombre: "Goulash húngaro de seitán con patata, pimentón y alcaravea",
   subtitulo: "guiso rojo con pimiento y una cucharada de yogur vegetal ácido",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "europea",
   momentos: ["comida"],
   proteina: "seitan",
@@ -760,7 +760,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos fuera del fuego y sirve en plato hondo con una cucharada de yogur vegetal y perejil picado."
   ],
   nutricion: { kcal: 520, prot: 39, hc: 52, grasa: 17 },
-  etiquetas: ["de cuchara", "invierno", "batch cooking", "alta en proteína"],
+  etiquetas: ["de cuchara", "invierno", "batch cooking", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Como todos los guisos, sabe mejor al día siguiente. Si no tienes alcaravea, una pizca de comino da un fondo parecido.",
   contundencia: "media",
   coste: "media"
@@ -771,7 +771,7 @@ window.RECETAS_SEED.push({
   nombre: "Ratatouille al horno con alubias blancas y crujiente de pan al tomillo",
   subtitulo: "verduras de verano asadas lentamente con ajo y hierbas provenzales",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -806,7 +806,7 @@ window.RECETAS_SEED.push({
     "Vuelve a hornear 12–15 minutos, hasta que las alubias estén calientes y el pan, dorado y crujiente. Sirve con albahaca fresca rota con las manos."
   ],
   nutricion: { kcal: 450, prot: 21, hc: 57, grasa: 15 },
-  etiquetas: ["al horno", "ligera", "verano", "batch cooking", "económica"],
+  etiquetas: ["al horno", "ligera", "verano", "batch cooking", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "No amontones las verduras: si la fuente es pequeña, usa dos bandejas. Apiladas se cuecen al vapor y no se asan.",
   contundencia: "ligera",
   coste: "económica"
@@ -817,7 +817,7 @@ window.RECETAS_SEED.push({
   nombre: "Enchiladas rojas de calabaza asada y alubias negras con salsa de chile guajillo",
   subtitulo: "gratinadas con queso vegetal, cebolla morada y cilantro",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "verduras",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -853,7 +853,7 @@ window.RECETAS_SEED.push({
     "Sirve con cebolla morada en plumas finas, cilantro y gajos de lima."
   ],
   nutricion: { kcal: 600, prot: 21, hc: 84, grasa: 20 },
-  etiquetas: ["al horno", "para invitados", "batch cooking"],
+  etiquetas: ["al horno", "para invitados", "batch cooking", "bajo en colesterol"],
   consejo: "La salsa de guajillo se congela perfectamente: haz el doble y tendrás base para chilaquiles o un guiso de alubias otro día.",
   contundencia: "media",
   coste: "media"
@@ -864,7 +864,7 @@ window.RECETAS_SEED.push({
   nombre: "Curry verde de tofu y berenjena con judías verdes y arroz jazmín",
   subtitulo: "con leche de coco, albahaca y lima",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "proteina-vegetal",
   cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "tofu",
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
   nombre: "Cocido vegano de garbanzos con verduras, tofu ahumado y sopa de fideos",
   subtitulo: "en dos vuelcos: primero la sopa, después garbanzos, verdura y refrito de ajo y pimentón",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "española",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -940,7 +940,7 @@ window.RECETAS_SEED.push({
     "Sirve primero la sopa de fideos. Después, en una fuente, los garbanzos con las patatas, las zanahorias y el puerro en trozos, la col rehogada y el tofu ahumado."
   ],
   nutricion: { kcal: 865, prot: 40, hc: 113, grasa: 28 },
-  etiquetas: ["de cuchara", "invierno", "tradicional", "batch cooking", "económica"],
+  etiquetas: ["de cuchara", "invierno", "tradicional", "batch cooking", "económica", "poco especiada"],
   consejo: "Con los garbanzos y verduras que sobren haz ropa vieja: saltéalos en sartén con ajo, pimentón y un poco de tomate frito.",
   contundencia: "contundente",
   coste: "económica"
@@ -951,7 +951,7 @@ window.RECETAS_SEED.push({
   nombre: "Dal makhani vegano de lentejas beluga y alubias rojas cocinado a fuego lento con arroz basmati",
   subtitulo: "cremoso y especiado, terminado con nata vegetal y fenogreco opcional",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "india",
   momentos: ["comida"],
   proteina: "legumbre",
@@ -997,7 +997,7 @@ window.RECETAS_SEED.push({
   nombre: "Ragú de setas y lentejas al vino tinto con polenta cremosa al romero",
   subtitulo: "cocinado a fuego lento con shiitake seco y verduras de sofrito",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -1036,7 +1036,7 @@ window.RECETAS_SEED.push({
     "Sirve la polenta extendida en el plato hondo, haz un hueco en el centro con la cuchara y coloca el ragú encima con pimienta recién molida."
   ],
   nutricion: { kcal: 605, prot: 29, hc: 82, grasa: 18 },
-  etiquetas: ["invierno", "para invitados", "batch cooking", "sin gluten"],
+  etiquetas: ["invierno", "para invitados", "batch cooking", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "Si te sobra polenta, extiéndela en una bandeja, enfríala, córtala en bastones y dórala en sartén al día siguiente: queda crujiente por fuera y cremosa por dentro.",
   contundencia: "media",
   coste: "premium"
@@ -1047,7 +1047,7 @@ window.RECETAS_SEED.push({
   nombre: "Sopa cubana de frijoles negros con comino, sofrito de pimientos y totopos al horno",
   subtitulo: "con cebolla morada, cilantro, lima y yogur vegetal",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "sopas-cremas",
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -1082,7 +1082,7 @@ window.RECETAS_SEED.push({
     "Sirve la sopa con un hilo de yogur vegetal, cebolla morada picada, cilantro, un buen chorro de lima y los totopos al lado."
   ],
   nutricion: { kcal: 440, prot: 19, hc: 55, grasa: 16 },
-  etiquetas: ["de cuchara", "ligera", "económica", "batch cooking", "sin gluten"],
+  etiquetas: ["de cuchara", "ligera", "económica", "batch cooking", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "En Cuba se termina con un chorrito de vino seco o vinagre al final: la acidez despierta el sabor de los frijoles. No te lo saltes.",
   contundencia: "ligera",
   coste: "económica"
@@ -1093,7 +1093,7 @@ window.RECETAS_SEED.push({
   nombre: "Olla gitana murciana de garbanzos, calabaza, judías verdes y pera con hierbabuena",
   subtitulo: "potaje de huerta ligado con majado de almendra y ajo",
   origen: "inventada",
-  categoria: "vegano",
+  categoria: "legumbres",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
@@ -1126,7 +1126,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos fuera del fuego y sirve en plato hondo con hojas de hierbabuena fresca por encima."
   ],
   nutricion: { kcal: 460, prot: 17, hc: 65, grasa: 14.5 },
-  etiquetas: ["de cuchara", "ligera", "otoño", "tradicional", "económica"],
+  etiquetas: ["de cuchara", "ligera", "otoño", "tradicional", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "El contraste dulce de la pera y la calabaza con la hierbabuena es lo que hace única esta olla: no sustituyas la pera por manzana, se deshace demasiado.",
   contundencia: "ligera",
   coste: "económica"

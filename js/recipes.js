@@ -8,8 +8,9 @@
     { id: "legumbres", nombre: "Legumbres", icono: "🫘", desc: "Guisos, ensaladas y platos con lentejas, garbanzos y judías" },
     { id: "pescado", nombre: "Pescado", icono: "🐟", desc: "Pescado blanco, azul, marisco y conservas" },
     { id: "carnes", nombre: "Carnes", icono: "🍗", desc: "Pollo, pavo, cerdo, ternera y cordero" },
-    { id: "vegetariano", nombre: "Vegetariano", icono: "🥬", desc: "Sin carne ni pescado, con huevo o lácteos" },
-    { id: "vegano", nombre: "Vegano", icono: "🌱", desc: "Sin ningún producto animal" },
+    { id: "huevos", nombre: "Huevos", icono: "🍳", desc: "Tortillas, revueltos, huevos al plato, frittatas y shakshukas" },
+    { id: "verduras", nombre: "Verduras", icono: "🥦", desc: "Platos en los que la verdura es la protagonista: asados, guisos, rellenos, gratinados, currys" },
+    { id: "proteina-vegetal", nombre: "Tofu, tempeh y seitán", icono: "🫛", desc: "Platos con proteína vegetal (tofu, tempeh, seitán, heura, soja texturizada) como protagonista" },
     { id: "ensaladas", nombre: "Ensaladas", icono: "🥗", desc: "Ensaladas y bowls completos, frescos y templados" },
     { id: "pasta-arroces", nombre: "Pasta y arroces", icono: "🍝", desc: "Pasta, arroces, cuscús, quinoa y otros cereales" },
     { id: "sopas-cremas", nombre: "Sopas y cremas", icono: "🍲", desc: "Cremas, sopas completas, caldos y frías de verano" },
@@ -58,13 +59,25 @@
     propia: { id: "propia", nombre: "Mías", corto: "Mía", icono: "✍️", desc: "Añadida por ti" },
   };
 
+  /* Dieta: se elige una sola (excluyentes). Vegetariana y vegana se deducen de los ingredientes;
+     keto y detox las asignó una revisión de nutricionista (etiquetas «keto» y «detox»).
+     Las restricciones por alergia o intolerancia (sin gluten, sin lácteos, FODMAP…) van en Intolerancias. */
   const DIETAS = [
-    { id: "vegetariana", nombre: "Vegetariana", icono: "🥬" },
-    { id: "vegana", nombre: "Vegana", icono: "🌱" },
-    { id: "sin-gluten", nombre: "Sin gluten", icono: "🌾" },
-    { id: "sin-lactosa", nombre: "Sin lácteos", icono: "🥛" },
-    { id: "sin-frutos-secos", nombre: "Sin frutos secos", icono: "🥜" },
-    { id: "bajo-fodmap", nombre: "Bajo en FODMAP", icono: "🎈", desc: "Sin ajo, cebolla, trigo, legumbres, lactosa ni otros FODMAP altos (orientativo)" },
+    { id: "omnivora", nombre: "Omnívora", icono: "🍽️", desc: "Sin restricciones: de todo" },
+    { id: "vegetariana", nombre: "Vegetariana", icono: "🥬", desc: "Sin carne ni pescado ni marisco" },
+    { id: "vegana", nombre: "Vegana", icono: "🌱", desc: "Sin ningún producto animal" },
+    { id: "keto", nombre: "Keto", icono: "🥑", desc: "Cetogénica: muy pocos hidratos (≤ 20 g por ración) y la mayor parte de la energía de la grasa" },
+    { id: "detox", nombre: "Detox", icono: "🍃", desc: "Platos ligeros y vegetales, sin alcohol, azúcar, embutidos, fritos ni grasas pesadas (término popular, no médico)" },
+  ];
+  const dietaInfo = (id) => DIETAS.find((d) => d.id === id) || null;
+
+  /* Necesidades especiales (etiquetas asignadas en la revisión de nutricionista; se pueden poner a mano en «etiquetas») */
+  const NECESIDADES = [
+    { id: "verduras-escondidas", etiqueta: "verduras escondidas", nombre: "Verduras escondidas", icono: "🙈", desc: "La verdura va triturada o rallada y no se nota: ideal para niños o poco amigos de la verdura" },
+    { id: "sin-verduras", etiqueta: "sin verduras", nombre: "Sin verduras", icono: "🚫🥦", desc: "Sin verduras ni hortalizas visibles (solo aromáticos en el sofrito, hierbas o tomate en salsa)" },
+    { id: "superalimentos", etiqueta: "superalimentos", nombre: "Superalimentos", icono: "💪", desc: "Protagonizan al menos dos alimentos de alta densidad nutricional: pescado azul, legumbres, hoja verde, frutos rojos, semillas, cereales integrales…" },
+    { id: "poco-especiada", etiqueta: "poco especiada", nombre: "Poco especiada", icono: "🧂", desc: "Sabor suave, sin picante ni mezclas de especias intensas" },
+    { id: "bajo-colesterol", etiqueta: "bajo en colesterol", nombre: "Bajo en colesterol", icono: "❤️", desc: "Sin yema en cantidad, mantequilla, nata, quesos grasos, embutidos, carne roja ni marisco rico en colesterol" },
   ];
 
   /* Formas de cocinar. Se derivan del equipo y las etiquetas; una receta puede fijarlas en `coccion`. */
@@ -134,14 +147,14 @@
       for (const g of Catalogo.gruposDe(ing.n)) { grupos.add(g); if (!ing.opcional) gruposFijos.add(g); }
     }
     const dieta = [];
+    const etiq = (r.etiquetas || []).map((e) => Catalogo.normalizar(e));
     const vegetariana = !grupos.has("carne") && !grupos.has("pescado") && !grupos.has("marisco");
     if (vegetariana) dieta.push("vegetariana");
     if (vegetariana && !grupos.has("lacteos") && !grupos.has("huevo") && !grupos.has("miel")) dieta.push("vegana");
-    if (!grupos.has("gluten")) dieta.push("sin-gluten");
-    if (!grupos.has("lacteos")) dieta.push("sin-lactosa");
-    if (!grupos.has("frutos-secos")) dieta.push("sin-frutos-secos");
-    if (!grupos.has("fodmap")) dieta.push("bajo-fodmap");
+    if (etiq.includes("keto")) dieta.push("keto");
+    if (etiq.includes("detox")) dieta.push("detox");
     r.dieta = dieta;
+    r.necesidades = NECESIDADES.filter((n) => etiq.includes(Catalogo.normalizar(n.etiqueta))).map((n) => n.id);
     r.grupos = [...grupos];
     // Alérgenos e intolerancias: los de ingredientes obligatorios y, aparte, los que solo aparecen en opcionales
     r.alergenos = Catalogo.INTOLERANCIAS.filter((t) => t.grupos.some((g) => gruposFijos.has(g))).map((t) => t.id);
@@ -288,7 +301,9 @@
       if (f.categoria && f.categoria.length && !f.categoria.includes(r.categoria)) return false;
       if (f.origen && f.origen.length && !f.origen.includes(r.origen)) return false;
       if (f.momento && !r.momentos.includes(f.momento)) return false;
-      if (f.dieta && f.dieta.length && !f.dieta.every((d) => r.dieta.includes(d))) return false;
+      const dietas = Array.isArray(f.dieta) ? f.dieta : f.dieta ? [f.dieta] : [];
+      if (dietas.some((d) => d !== "omnivora" && !r.dieta.includes(d))) return false;
+      if (f.necesidades && f.necesidades.length && !f.necesidades.every((n) => r.necesidades.includes(n))) return false;
       if (f.cocina && f.cocina.length && !f.cocina.includes(r.cocina)) return false;
       if (f.contundencia && f.contundencia.length && !f.contundencia.includes(r.contundencia)) return false;
       if (f.coste && f.coste.length && !f.coste.includes(r.coste)) return false;
@@ -341,8 +356,9 @@
     L.push(datos.join(" · "));
     const momentos = r.momentos.map((m) => (MOMENTOS.find((x) => x.id === m) || {}).nombre).filter(Boolean).join(" o ");
     if (momentos) L.push("", `**Para:** ${momentos}`);
-    const dietas = r.dieta.filter((d) => d !== "sin-frutos-secos").map((d) => (DIETAS.find((x) => x.id === d) || {}).nombre).filter(Boolean);
-    if (dietas.length) L.push(`**Apta para:** ${dietas.join(", ")}`);
+    const dietas = r.dieta.map((d) => (dietaInfo(d) || {}).nombre).filter(Boolean);
+    if (dietas.length) L.push(`**Dieta:** ${dietas.join(", ")}`);
+    if (r.necesidades.length) L.push(`**Necesidades:** ${r.necesidades.map((n) => NECESIDADES.find((x) => x.id === n).nombre).join(", ")}`);
     if (r.alergenos.length) L.push(`**Contiene (alérgenos e intolerancias):** ${r.alergenos.map((a) => Catalogo.intolerancia(a).corto).join(", ")}`);
     if (r.alergenosOpcionales.length) L.push(`**Solo en ingredientes opcionales:** ${r.alergenosOpcionales.map((a) => Catalogo.intolerancia(a).corto).join(", ")}`);
     if (r.equipo.length) L.push(`**Equipo:** ${r.equipo.join(", ")}`);
@@ -375,7 +391,7 @@
   document.addEventListener("recetas:semilla-cargada", invalidar);
 
   window.Recetas = {
-    CATEGORIAS, categoria, COCINAS, cocina, COCCIONES, coccion, CONTUNDENCIAS, contundencia, contundenciaPorKcal, COSTES, coste, ORIGENES, DIETAS, MOMENTOS, DIFICULTADES, PROTEINAS,
+    CATEGORIAS, categoria, COCINAS, cocina, COCCIONES, coccion, CONTUNDENCIAS, contundencia, contundenciaPorKcal, COSTES, coste, ORIGENES, DIETAS, dietaInfo, NECESIDADES, MOMENTOS, DIFICULTADES, PROTEINAS,
     todas, porId, esSemilla, guardar, borrar, restaurar, restaurarTodas, ocultas, duplicar,
     esFavorita, enListaNegra, toggleFavorita, toggleListaNegra, usadasRecientemente, aMarkdown, copiarMarkdown,
     indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer, ingredientesCon, noAptaPara, listaNombres,

@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Mezcla la pasta escurrida con el ragú en la cazuela a fuego suave 1 minuto, con un chorrito de agua de cocción para que la salsa se abrace a las cintas. Sirve con el parmesano y pimienta recién molida."
   ],
   nutricion: { kcal: 960, prot: 66, hc: 91, grasa: 37 },
-  etiquetas: ["pasta fresca", "fin de semana", "batch cooking", "invierno", "alta en proteína"],
+  etiquetas: ["pasta fresca", "fin de semana", "batch cooking", "invierno", "alta en proteína", "poco especiada"],
   consejo: "El ragú mejora de un día para otro: hazlo doble y congela la mitad. La pasta fresca sin cocer también se congela extendida sobre una bandeja y luego en bolsa.",
   contundencia: "contundente",
   coste: "media"
@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     "Apaga, cubre con un paño y deja reposar 5 minutos. Sirve con gajos de limón."
   ],
   nutricion: { kcal: 475, prot: 16, hc: 84, grasa: 9 },
-  etiquetas: ["vegana", "ligera", "tradicional", "primavera", "una sola sartén", "sin gluten"],
+  etiquetas: ["vegana", "ligera", "tradicional", "primavera", "una sola sartén", "sin gluten", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "La proporción para arroz bomba seco es 1 parte de arroz por 3 de caldo. Si usas arroz redondo normal, baja a 2,5 y vigila los últimos minutos.",
   contundencia: "ligera",
   coste: "media"
@@ -135,7 +135,7 @@ window.RECETAS_SEED.push({
     "Apaga, cubre con un paño y deja reposar 5 minutos. Sirve con el alioli y gajos de limón."
   ],
   nutricion: { kcal: 680, prot: 36, hc: 71, grasa: 29 },
-  etiquetas: ["tradicional", "fin de semana", "una sola sartén", "sin gluten"],
+  etiquetas: ["tradicional", "fin de semana", "una sola sartén", "sin gluten", "poco especiada"],
   consejo: "Con prisa, sustituye el fumet casero por 500 ml de caldo de pescado de brik de buena calidad y ahorra 35 minutos; el azafrán y la ñora siguen marcando la diferencia.",
   contundencia: "contundente",
   coste: "premium"
@@ -176,7 +176,7 @@ window.RECETAS_SEED.push({
     "Sirve con el pan rallado tostado al limón repartido por encima; es el contraste crujiente que hace el plato."
   ],
   nutricion: { kcal: 600, prot: 28, hc: 82, grasa: 19 },
-  etiquetas: ["rápida", "económica", "una sola sartén", "invierno"],
+  etiquetas: ["rápida", "económica", "una sola sartén", "invierno", "superalimentos", "bajo en colesterol"],
   consejo: "Si te preocupa el sabor a anchoa, no lo notarás: al fundirse en el aceite solo dejan un fondo salado y umami. Para versión vegetariana, sustitúyelas por 1 cucharadita de alcaparras picadas.",
   contundencia: "media",
   coste: "económica"
@@ -223,7 +223,7 @@ window.RECETAS_SEED.push({
     "Suelta el bulgur con un tenedor, mezcla con la berenjena asada y el perejil picado. Sirve con la salsa de yogur por encima y gajos de limón."
   ],
   nutricion: { kcal: 600, prot: 23, hc: 82, grasa: 21 },
-  etiquetas: ["vegetariana", "al horno", "ideal para llevar", "económica", "batch cooking"],
+  etiquetas: ["vegetariana", "al horno", "ideal para llevar", "económica", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Es un plato que aguanta bien en la fiambrera: guarda la salsa aparte y añádela al momento de comer, frío o templado.",
   contundencia: "media",
   coste: "económica"
@@ -308,7 +308,7 @@ window.RECETAS_SEED.push({
     "Sirve con el pan rallado tostado, el perejil picado y las hojas del hinojo por encima."
   ],
   nutricion: { kcal: 630, prot: 29, hc: 75, grasa: 24 },
-  etiquetas: ["económica", "omega-3", "rápida", "despensa"],
+  etiquetas: ["económica", "omega-3", "rápida", "despensa", "superalimentos", "bajo en colesterol"],
   consejo: "El pan rallado tostado era el 'parmesano de los pobres' en Sicilia y aquí sustituye al queso con ventaja: el pescado azul y el queso no se llevan bien.",
   contundencia: "media",
   coste: "media"
@@ -353,7 +353,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 5 minutos para que el cuscús absorba el aliño y sirve con los granos de granada por encima."
   ],
   nutricion: { kcal: 470, prot: 18, hc: 71, grasa: 14 },
-  etiquetas: ["sin cocción", "rápida", "ligera", "verano", "vegana", "ideal para llevar", "económica"],
+  etiquetas: ["sin cocción", "rápida", "ligera", "verano", "vegana", "ideal para llevar", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Hecho con antelación gana sabor, pero añade el pepino y el tomate como mucho 1 hora antes para que no suelten agua y lo aguen.",
   contundencia: "ligera",
   coste: "económica"
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 3 minutos y sirve."
   ],
   nutricion: { kcal: 850, prot: 56, hc: 95, grasa: 27 },
-  etiquetas: ["para niños", "al horno", "alta en proteína", "batch cooking", "económica"],
+  etiquetas: ["para niños", "al horno", "alta en proteína", "batch cooking", "económica", "verduras escondidas", "poco especiada"],
   consejo: "El puré de boniato da color, cremosidad y dulzor con la mitad de queso que un mac and cheese clásico. Si sobra, se recalienta muy bien con un chorrito de leche.",
   contundencia: "contundente",
   coste: "económica"
@@ -441,7 +441,7 @@ window.RECETAS_SEED.push({
     "Reparte en platos sobre un lecho de canónigos, coloca encima las tiras de salmón ahumado y el aguacate y termina con cucharadas de la crema de yogur y pimienta."
   ],
   nutricion: { kcal: 470, prot: 26, hc: 45, grasa: 21 },
-  etiquetas: ["rápida", "ligera", "verano", "sin gluten", "ideal para llevar", "alta en proteína"],
+  etiquetas: ["rápida", "ligera", "verano", "sin gluten", "ideal para llevar", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si la llevas en fiambrera, guarda el salmón y el aguacate en un recipiente aparte y móntalo al momento: la quinoa aliñada aguanta 2 días en la nevera.",
   contundencia: "ligera",
   coste: "premium"
@@ -485,7 +485,7 @@ window.RECETAS_SEED.push({
     "Termina con lo verde de la cebolleta en rodajas, cilantro, chile en rodajas y gajos de lima."
   ],
   nutricion: { kcal: 430, prot: 23, hc: 62, grasa: 11 },
-  etiquetas: ["rápida", "ligera", "vegana", "de cuchara", "invierno", "sin gluten", "económica"],
+  etiquetas: ["rápida", "ligera", "vegana", "de cuchara", "invierno", "sin gluten", "económica", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Los fideos se sirven aparte y se añade el caldo encima: si los cueces dentro de la sopa, absorben el caldo y se pasan en minutos.",
   contundencia: "ligera",
   coste: "económica"
@@ -527,7 +527,7 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, mezcla con la rúcula y el perejil picado: el calor de la pasta los ablanda justo lo necesario. Sirve enseguida."
   ],
   nutricion: { kcal: 500, prot: 26, hc: 61, grasa: 18 },
-  etiquetas: ["rápida", "económica", "despensa", "una sola sartén"],
+  etiquetas: ["rápida", "económica", "despensa", "una sola sartén", "bajo en colesterol"],
   consejo: "Usa el atún en aceite de oliva de buena calidad y no lo cocines más de 1 minuto: si se recalienta mucho se seca y pierde su sabor.",
   contundencia: "media",
   coste: "económica"
@@ -575,7 +575,7 @@ window.RECETAS_SEED.push({
     "Deja reposar 10 minutos antes de cortar en porciones: la polenta cuaja al enfriar un poco y las capas se sostienen."
   ],
   nutricion: { kcal: 810, prot: 50, hc: 79, grasa: 33 },
-  etiquetas: ["al horno", "batch cooking", "invierno", "sin gluten", "para niños"],
+  etiquetas: ["al horno", "batch cooking", "invierno", "sin gluten", "para niños", "poco especiada"],
   consejo: "Montado el día anterior y guardado en la nevera, el pastel se corta en porciones perfectas; hornéalo 30 minutos a 190 °C desde frío.",
   contundencia: "contundente",
   coste: "media"
@@ -617,7 +617,7 @@ window.RECETAS_SEED.push({
     "Incorpora la rúcula y los gajos de naranja y reparte en platos. Desmenuza el feta por encima y termina con los pistachos y la menta en tiras."
   ],
   nutricion: { kcal: 465, prot: 17, hc: 60, grasa: 18 },
-  etiquetas: ["ligera", "vegetariana", "ideal para llevar", "otoño", "invierno"],
+  etiquetas: ["ligera", "vegetariana", "ideal para llevar", "otoño", "invierno", "superalimentos", "poco especiada"],
   consejo: "Si tienes remolacha cruda, ásala entera envuelta en papel de aluminio 50 minutos a 200 °C: queda más dulce y con más sabor que la cocida al vacío.",
   contundencia: "ligera",
   coste: "media"
@@ -663,7 +663,7 @@ window.RECETAS_SEED.push({
     "Sirve el mijo en la base y el curry encima, con cilantro picado y gajos de lima."
   ],
   nutricion: { kcal: 620, prot: 24, hc: 83, grasa: 22 },
-  etiquetas: ["vegana", "sin gluten", "económica", "batch cooking", "de cuchara", "especiado"],
+  etiquetas: ["vegana", "sin gluten", "económica", "batch cooking", "de cuchara", "especiado", "superalimentos"],
   consejo: "El mijo tostado antes de cocer no se apelmaza y gana sabor. Si te sobra, al día siguiente se saltea como un arroz frito.",
   contundencia: "media",
   coste: "económica"
@@ -761,7 +761,7 @@ window.RECETAS_SEED.push({
     "Sirve 3 arancini por persona sobre la salsa de tomate caliente, con la rúcula aliñada con unas gotas de limón y pimienta."
   ],
   nutricion: { kcal: 630, prot: 25, hc: 83, grasa: 22 },
-  etiquetas: ["al horno", "vegetariana", "para niños", "aprovechamiento", "ideal para llevar"],
+  etiquetas: ["al horno", "vegetariana", "para niños", "aprovechamiento", "ideal para llevar", "poco especiada"],
   consejo: "Es la receta perfecta para un risotto sobrante: con 350-400 g de arroz ya cocido te saltas el primer paso y lo tienes en 35 minutos.",
   contundencia: "media",
   coste: "media"
@@ -859,7 +859,7 @@ window.RECETAS_SEED.push({
     "Deja reposar el arroz 5 minutos tapado, suéltalo con un tenedor y sirve cada ración con 2 trozos de pollo y la salsa criolla encima."
   ],
   nutricion: { kcal: 750, prot: 45, hc: 92, grasa: 22 },
-  etiquetas: ["una sola cazuela", "fin de semana", "para niños", "batch cooking"],
+  etiquetas: ["una sola cazuela", "fin de semana", "para niños", "batch cooking", "bajo en colesterol"],
   consejo: "El cilantro es el alma del plato: no escatimes. Si lo tuyo no es el cilantro, la versión con perejil y albahaca también funciona, aunque será otro plato.",
   contundencia: "contundente",
   coste: "económica"
@@ -995,7 +995,7 @@ window.RECETAS_SEED.push({
     "Sirve enseguida con perejil picado, más pimienta y, si quieres, un poco más de parmesano. Prueba antes de salar: el jamón y el queso ya aportan."
   ],
   nutricion: { kcal: 620, prot: 40, hc: 62, grasa: 24 },
-  etiquetas: ["rápida", "alta en proteína", "sin nata", "una sola sartén"],
+  etiquetas: ["rápida", "alta en proteína", "sin nata", "una sola sartén", "poco especiada"],
   consejo: "El secreto de una carbonara sin grumos es la sartén fuera del fuego y el agua de cocción: si el huevo se cuaja, es que había demasiado calor.",
   contundencia: "media",
   coste: "media"
@@ -1043,7 +1043,7 @@ window.RECETAS_SEED.push({
     "Destapa, suelta el arroz de arriba con un tenedor en una fuente, despega el tahdig del fondo y colócalo encima a trozos. Sirve con los pistachos, gajos de limón y el yogur al eneldo."
   ],
   nutricion: { kcal: 780, prot: 38, hc: 82, grasa: 33 },
-  etiquetas: ["fin de semana", "especiado", "festivo", "sin gluten"],
+  etiquetas: ["fin de semana", "especiado", "festivo", "sin gluten", "sin verduras", "poco especiada"],
   consejo: "El paño en la tapa absorbe la condensación y es lo que diferencia un pilaf suelto de uno pastoso. Si la cazuela no es antiadherente, pon una capa de patata en rodajas finas en el fondo: el tahdig saldrá seguro.",
   contundencia: "contundente",
   coste: "premium"
@@ -1089,7 +1089,7 @@ window.RECETAS_SEED.push({
     "Sirve el risotto en platos hondos con la carrillada entera o partida en dos encima, napada con el resto de su salsa reducida."
   ],
   nutricion: { kcal: 840, prot: 50, hc: 73, grasa: 39 },
-  etiquetas: ["fin de semana", "festivo", "invierno", "de cuchara", "alta en proteína"],
+  etiquetas: ["fin de semana", "festivo", "invierno", "de cuchara", "alta en proteína", "poco especiada"],
   consejo: "La carrillada puedes estofarla el día anterior: al día siguiente solo tienes el risotto por delante (25 minutos) y la carne estará aún más melosa.",
   contundencia: "contundente",
   coste: "premium"
@@ -1134,7 +1134,7 @@ window.RECETAS_SEED.push({
     "Sirve con las avellanas, el resto del parmesano, la ralladura de limón y pimienta."
   ],
   nutricion: { kcal: 830, prot: 34, hc: 82, grasa: 40 },
-  etiquetas: ["pasta fresca", "vegetariana", "fin de semana", "otoño", "festivo"],
+  etiquetas: ["pasta fresca", "vegetariana", "fin de semana", "otoño", "festivo", "verduras escondidas", "poco especiada"],
   consejo: "Los raviolis crudos se congelan en la bandeja separados y luego en bolsa; cuécelos directamente del congelador 1-2 minutos más. Así una tarde de domingo da para 2 cenas.",
   contundencia: "contundente",
   coste: "media"
