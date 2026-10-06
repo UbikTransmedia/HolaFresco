@@ -63,6 +63,10 @@
     return receta.ingredientes.map((i) => ({ ...i, q: i.q == null ? null : i.q * f, qOriginal: i.q }));
   };
 
+  /* Orden alfabético en español, sin distinguir mayúsculas ni tildes (listas para ir comprobando) */
+  const compararNombre = (a, b) => a.localeCompare(b, "es", { sensitivity: "base", numeric: true });
+  const ordenarIngredientes = (lista) => [...lista].sort((a, b) => compararNombre(a.n, b.n));
+
   /* Unifica unidades convertibles dentro de un mismo ingrediente (cucharaditas → cucharadas) */
   const unificar = (cant) => {
     if (cant.has("cdta") && (cant.has("cda") || cant.get("cdta") >= 3)) {
@@ -102,7 +106,7 @@
         .map(([u, q]) => ({ u, q, qRedondeada: redondear(q, u) }));
       return { ...it, recetas: [...it.recetas], partes, soloAlGusto: !partes.length };
     });
-    const porPasillo = Catalogo.PASILLOS.map((p) => ({ ...p, items: lista.filter((i) => i.pasillo === p.id).sort((a, b) => a.n.localeCompare(b.n, "es")) })).filter((p) => p.items.length);
+    const porPasillo = Catalogo.PASILLOS.map((p) => ({ ...p, items: lista.filter((i) => i.pasillo === p.id).sort((a, b) => compararNombre(a.n, b.n)) })).filter((p) => p.items.length);
     return { items: lista, porPasillo };
   };
 
@@ -196,5 +200,5 @@
     return false;
   };
 
-  window.Compra = { construir, escalar, redondear, fmtCantidad, fmtNum, fmtUnidad, textoCantidad, textoItem, FORMATOS, exportarTexto, exportarHTML, copiarAlPortapapeles, compartir };
+  window.Compra = { construir, escalar, ordenarIngredientes, redondear, fmtCantidad, fmtNum, fmtUnidad, textoCantidad, textoItem, FORMATOS, exportarTexto, exportarHTML, copiarAlPortapapeles, compartir };
 })();

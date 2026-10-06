@@ -148,7 +148,7 @@
         for (const x of Recetas.noAptaPara(r, menu.personas || [])) doc.parrafo(`Atención: no apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")}).`, { f: "F2", size: 9, col: doc.colores.acento, despues: 0 });
         doc.enlaces([["Volver al plan", "plan"], ["Markdown de esta receta", "md-" + kSlot(s)]]);
         doc.titulo3(`Ingredientes (${String(raciones).replace(".", ",")} ${raciones === 1 ? "ración" : "raciones"})`);
-        for (const ing of Compra.escalar(r, raciones)) {
+        for (const ing of Compra.ordenarIngredientes(Compra.escalar(r, raciones))) {
           const q = ing.q == null ? null : Compra.redondear(ing.q, ing.u);
           doc.casilla(ing.n + (ing.opcional ? " (opcional)" : "") + (ing.nota ? " — " + ing.nota : ""), ing.u === "al gusto" || q == null ? "al gusto" : Compra.fmtCantidad(q, ing.u), { size: 9.5 });
         }

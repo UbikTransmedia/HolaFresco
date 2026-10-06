@@ -367,7 +367,7 @@
     if (r.tupper) L.push("**Apta para tupper:** sí, aguanta bien y se recalienta sin problema");
     const rac = String(raciones).replace(".", ",");
     L.push("", `## Ingredientes (${rac} ${raciones === 1 ? "ración" : "raciones"})`, "");
-    for (const ing of C.escalar(r, raciones)) {
+    for (const ing of C.ordenarIngredientes(C.escalar(r, raciones))) {
       const q = ing.q == null ? null : C.redondear(ing.q, ing.u);
       const cant = ing.u === "al gusto" || q == null ? "al gusto" : C.fmtCantidad(q, ing.u);
       L.push(`- [ ] ${ing.n} · ${cant}${ing.opcional ? " (opcional)" : ""}${ing.nota ? ` — ${ing.nota}` : ""}`);
