@@ -140,3 +140,28 @@ sopas-cremas      55   28   34   24   21   19   10   14   23   47   33   10   13
 olla-express      67   10   37   29   10   15   14   13   16   19   22   10   12   10    284
 total            706  295  428  264  221  186  156  227  244  334  214   94  149  120   3638
 ```
+
+## Fácil digestión: intestino irritable e hinchazón (4.503 recetas)
+
+Las personas con intestino irritable o tendencia a la hinchazón tenían muy poco donde elegir: unas 200 recetas bajas en
+FODMAP, muchas de ellas con picante, fritos o mucha grasa, y repartidas de forma muy desigual entre cocinas. Se añadió la
+necesidad **«Fácil digestión»** (🫶) y **700 recetas nuevas, 50 por cada una de las 14 cocinas**, con el mismo reparto en
+todas: 9 de pescado, 9 de carne, 5 de huevos, 4 de tofu o tempeh, 6 de verduras, 4 ensaladas, 7 de arroz o pasta y 6
+sopas o cremas.
+
+Criterios de cada receta:
+
+- **Baja en FODMAP** según las raciones de Monash: sin ajo, cebolla, puerro, legumbres, setas, coliflor, manzana, pera ni
+  miel; aromas con aceite de ajo, verde de la cebolleta, cebollino, jengibre y hierbas; lácteos sin lactosa o quesos curados;
+  pan, harina y pasta sin gluten; verduras y frutos secos «moderados» (calabacín, boniato, brócoli, maíz, pimiento rojo,
+  col, frutos secos…) por debajo de su ración máxima, vigilando también la suma en un mismo plato.
+- **Sin picante, alcohol, fritos ni rebozados**, grasa ≤ 25 g por ración y cocciones suaves (vapor, escalfado, horno,
+  plancha, guiso).
+- La mitad aproximada son platos **tradicionales adaptados** sin perder su alma (un tafelspitz, un chakhokhbili, un machboos,
+  un lobster roll…) y la otra mitad **creativos**.
+
+Cada cocina la escribieron dos cocineros especialistas en salud digestiva y la repasó un revisor (chef y
+dietista-nutricionista) que buscó platos repetidos frente a todo el recetario y entre bloques (reescribió decenas de
+recetas), corrigió raciones, grasa y nutrición, y validó cada bloque con reglas automáticas. Resultado: 700 recetas con la
+etiqueta «fácil digestión», todas sin gluten, 231 vegetarianas (80 veganas) y 228 de 30 minutos o menos. Las recetas sin
+FODMAP pasan de unas 200 a 903.
