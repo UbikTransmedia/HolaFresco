@@ -69,6 +69,11 @@
 
   // Orden importa: la primera regla que coincide gana.
   const REGLAS_PASILLO = [
+    // Excepciones que contienen «agua», «aceite de oliva», «sal» o «pimienta» pero no son básicos de despensa
+    ["frutas-verduras", ["espinacas de agua"]],
+    ["despensa", ["castañas de agua", "sardinas en*", "atun en*", "bonito en*", "caballa en*", "anchoas en*", "mejillones en*"]],
+    ["bebidas", ["agua de coco", "agua con gas"]],
+    ["especias", ["pimienta blanca*", "pimienta de*", "pimienta rosa*", "pimienta verde*", "sal negra*", "agua de azahar", "agua de rosas"]],
     ["basicos", ["aceite de oliva", "aceite de oliva virgen", "aceite de oliva virgen extra", "sal", "sal gruesa", "sal en escamas", "pimienta negra", "pimienta", "agua"]],
     ["congelados", ["congelad*", "edamame", "helado"]],
     ["especias", [

@@ -367,11 +367,20 @@
     if (r.tupper) L.push("**Apta para tupper:** sí, aguanta bien y se recalienta sin problema");
     const rac = String(raciones).replace(".", ",");
     L.push("", `## Ingredientes (${rac} ${raciones === 1 ? "ración" : "raciones"})`, "");
-    for (const ing of C.ordenarIngredientes(C.escalar(r, raciones))) {
-      const q = ing.q == null ? null : C.redondear(ing.q, ing.u);
-      const cant = ing.u === "al gusto" || q == null ? "al gusto" : C.fmtCantidad(q, ing.u);
-      L.push(`- [ ] ${ing.n} · ${cant}${ing.opcional ? " (opcional)" : ""}${ing.nota ? ` — ${ing.nota}` : ""}`);
+    // Agrupados por zona del supermercado (en el orden de la lista de la compra) y, dentro de cada una, por orden alfabético
+    const ings = C.ordenarIngredientes(C.escalar(r, raciones));
+    for (const pas of Catalogo.PASILLOS) {
+      const grupo = ings.filter((ing) => Catalogo.pasilloDe(ing.n) === pas.id);
+      if (!grupo.length) continue;
+      L.push(`**${pas.icono} ${pas.id === "basicos" ? "Básicos de despensa" : pas.nombre}**`, "");
+      for (const ing of grupo) {
+        const q = ing.q == null ? null : C.redondear(ing.q, ing.u);
+        const cant = ing.u === "al gusto" || q == null ? "al gusto" : C.fmtCantidad(q, ing.u);
+        L.push(`- [ ] ${ing.n} · ${cant}${ing.opcional ? " (opcional)" : ""}${ing.nota ? ` — ${ing.nota}` : ""}`);
+      }
+      L.push("");
     }
+    if (L[L.length - 1] === "") L.pop();
     L.push("", "## Preparación", "");
     r.pasos.forEach((p, i) => L.push(`${i + 1}. ${p}`));
     if (r.consejo) L.push("", `> 💡 **Consejo:** ${r.consejo}`);
