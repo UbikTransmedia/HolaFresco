@@ -63,7 +63,7 @@
      keto y detox las asignó una revisión de nutricionista (etiquetas «keto» y «detox»).
      Las restricciones por alergia o intolerancia (sin gluten, sin lácteos, FODMAP…) van en Intolerancias. */
   const DIETAS = [
-    { id: "omnivora", nombre: "Omnívora", icono: "🍽️", desc: "Sin restricciones: de todo" },
+    { id: "toda", nombre: "Toda", icono: "🍽️", desc: "Todas las recetas, sin filtrar por dieta" },
     { id: "vegetariana", nombre: "Vegetariana", icono: "🥬", desc: "Sin carne ni pescado ni marisco" },
     { id: "vegana", nombre: "Vegana", icono: "🌱", desc: "Sin ningún producto animal" },
     { id: "keto", nombre: "Keto", icono: "🥑", desc: "Cetogénica: muy pocos hidratos (≤ 20 g por ración) y la mayor parte de la energía de la grasa" },
@@ -303,7 +303,7 @@
       if (f.origen && f.origen.length && !f.origen.includes(r.origen)) return false;
       if (f.momento && !r.momentos.includes(f.momento)) return false;
       const dietas = Array.isArray(f.dieta) ? f.dieta : f.dieta ? [f.dieta] : [];
-      if (dietas.some((d) => d !== "omnivora" && !r.dieta.includes(d))) return false;
+      if (dietas.some((d) => d !== "toda" && d !== "omnivora" && !r.dieta.includes(d))) return false;
       if (f.necesidades && f.necesidades.length && !f.necesidades.every((n) => r.necesidades.includes(n))) return false;
       if (f.cocina && f.cocina.length && !f.cocina.includes(r.cocina)) return false;
       if (f.contundencia && f.contundencia.length && !f.contundencia.includes(r.contundencia)) return false;

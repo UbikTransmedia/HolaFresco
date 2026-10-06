@@ -4,15 +4,15 @@
   const { UI, Recetas, Compra, Catalogo, DB } = window;
   const { h } = UI;
 
-  const FILTROS_DEFECTO = { q: "", categoria: [], origen: [], momento: "", dieta: "omnivora", necesidades: [], cocina: [], contundencia: [], coste: [], coccion: [], sinAlergenos: [], aptaHogar: false, tupper: false, tiempoMax: 0, orden: "nombre", soloFavoritas: false, listaNegra: "" };
+  const FILTROS_DEFECTO = { q: "", categoria: [], origen: [], momento: "", dieta: "toda", necesidades: [], cocina: [], contundencia: [], coste: [], coccion: [], sinAlergenos: [], aptaHogar: false, tupper: false, tiempoMax: 0, orden: "nombre", soloFavoritas: false, listaNegra: "" };
   const estado = { ...FILTROS_DEFECTO, ...DB.leer("filtrosRecetas", {}) };
   // Antes «dieta» era una lista que mezclaba dietas e intolerancias: las intolerancias pasan a su filtro
   if (Array.isArray(estado.dieta)) {
     const aIntol = { "sin-gluten": "gluten", "sin-lactosa": "lactosa", "sin-frutos-secos": "frutos-secos", "bajo-fodmap": "fodmap" };
     estado.sinAlergenos = [...new Set([...(Array.isArray(estado.sinAlergenos) ? estado.sinAlergenos : []), ...estado.dieta.map((d) => aIntol[d]).filter(Boolean)])];
-    estado.dieta = estado.dieta.includes("vegana") ? "vegana" : estado.dieta.includes("vegetariana") ? "vegetariana" : "omnivora";
+    estado.dieta = estado.dieta.includes("vegana") ? "vegana" : estado.dieta.includes("vegetariana") ? "vegetariana" : "toda";
   }
-  if (!Recetas.DIETAS.some((d) => d.id === estado.dieta)) estado.dieta = "omnivora";
+  if (!Recetas.DIETAS.some((d) => d.id === estado.dieta)) estado.dieta = "toda";
   for (const k of ["categoria", "origen", "necesidades", "cocina", "contundencia", "coste", "coccion", "sinAlergenos"]) if (!Array.isArray(estado[k])) estado[k] = [];
   estado.categoria = estado.categoria.filter((c) => Recetas.CATEGORIAS.some((x) => x.id === c));
   // «Olla exprés» ya no está en la fila principal de categorías: se filtra desde Más filtros → Cocción
@@ -302,7 +302,7 @@
     const selNegra = h("select.input", { "aria-label": "Excluidas de menús", onChange: (e) => { estado.listaNegra = e.target.value; actualizar(); } }, [["", "Mostrar todas"], ["ocultar", "Ocultar excluidas de menús"], ["solo", "Solo excluidas de menús 🚫"]].map(([v, t]) => h("option", { value: v, selected: estado.listaNegra === v }, t)));
     const btnLimpiar = h("button.btn.btn-suave", { type: "button", onClick: () => { Object.assign(estado, JSON.parse(JSON.stringify({ ...FILTROS_DEFECTO, orden: estado.orden }))); inputQ.value = ""; selMomento.value = ""; selTiempo.value = "0"; selNegra.value = ""; chkFav.querySelector("input").checked = false; chkTupper.querySelector("input").checked = false; if (chkHogar) chkHogar.querySelector("input").checked = false; actualizar(); } }, "Limpiar filtros");
 
-    const filtrosAvanzados = h("details.filtros-avanzados", { open: !!(estado.origen.length || estado.dieta !== "omnivora" || estado.necesidades.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || estado.sinAlergenos.length || estado.aptaHogar || estado.tupper || estado.soloFavoritas || estado.listaNegra) }, h("summary", "Más filtros"), h("div.filtros-avanzados-cuerpo",
+    const filtrosAvanzados = h("details.filtros-avanzados", { open: !!(estado.origen.length || estado.dieta !== "toda" || estado.necesidades.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || estado.sinAlergenos.length || estado.aptaHogar || estado.tupper || estado.soloFavoritas || estado.listaNegra) }, h("summary", "Más filtros"), h("div.filtros-avanzados-cuerpo",
       h("div.filtro-grupo", h("span.filtro-titulo", "Cocina"), chipsCocina.cont),
       h("div.filtro-grupo", h("span.filtro-titulo", "Contundencia"), chipsCont.cont),
       h("div.filtro-grupo", h("span.filtro-titulo", "Coste"), chipsCoste.cont),
@@ -337,7 +337,7 @@
       lista.sort((a, b) => ord === "tiempo" ? a.tiempo - b.tiempo || porNombre(a, b) : ord === "kcal" ? (a.nutricion.kcal || 0) - (b.nutricion.kcal || 0) : ord === "prot" ? (b.nutricion.prot || 0) - (a.nutricion.prot || 0) : ord === "categoria" ? a.categoria.localeCompare(b.categoria) || porNombre(a, b) : ord === "favoritas" ? (b.favorita - a.favorita) || porNombre(a, b) : ord === "recientes" ? b.id.localeCompare(a.id) : porNombre(a, b));
       listaActual = lista;
       const total = Recetas.todas().length;
-      const hayFiltros = estado.q || estado.categoria.length || estado.origen.length || estado.momento || estado.dieta !== "omnivora" || estado.necesidades.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || sinAlergenos.length || estado.tupper || estado.tiempoMax || estado.soloFavoritas || estado.listaNegra;
+      const hayFiltros = estado.q || estado.categoria.length || estado.origen.length || estado.momento || estado.dieta !== "toda" || estado.necesidades.length || estado.cocina.length || estado.contundencia.length || estado.coste.length || estado.coccion.length || sinAlergenos.length || estado.tupper || estado.tiempoMax || estado.soloFavoritas || estado.listaNegra;
       contador.textContent = hayFiltros ? `${lista.length} de ${total} recetas` : `${total} recetas`;
       btnLimpiar.style.display = hayFiltros ? "" : "none";
       pintarGrid();

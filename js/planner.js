@@ -67,7 +67,7 @@
     frecuencias: Object.fromEntries(Recetas.CATEGORIAS.map((c) => [c.id, "normal"])),
     cocinasEvitar: [],
     cocinasPreferidas: [],
-    dieta: "omnivora",     // una de Recetas.DIETAS (excluyentes)
+    dieta: "toda",     // una de Recetas.DIETAS (excluyentes)
     necesidades: [],       // ids de Recetas.NECESIDADES que deben cumplir todas las recetas
     vetos: [],             // textos libres o ids de grupo
     obligatorias: [],      // { recetaId, dia?, momento? }
@@ -92,12 +92,12 @@
     for (const k of Object.keys(c.frecuencias)) if (!Recetas.CATEGORIAS.some((x) => x.id === k)) delete c.frecuencias[k]; // vegetariano/vegano ya no son tipos de comida
     // Versiones anteriores: «dietas» era una lista que mezclaba dietas e intolerancias
     if (Array.isArray(cfg.dietas)) {
-      if (!cfg.dieta) c.dieta = cfg.dietas.includes("vegana") ? "vegana" : cfg.dietas.includes("vegetariana") ? "vegetariana" : "omnivora";
+      if (!cfg.dieta) c.dieta = cfg.dietas.includes("vegana") ? "vegana" : cfg.dietas.includes("vegetariana") ? "vegetariana" : "toda";
       const aVeto = { "sin-gluten": "gluten", "sin-lactosa": "lacteos", "sin-frutos-secos": "frutos-secos", "bajo-fodmap": "fodmap" };
       c.vetos = [...new Set([...(c.vetos || []), ...cfg.dietas.map((d) => aVeto[d]).filter(Boolean)])];
       delete c.dietas;
     }
-    if (!Recetas.DIETAS.some((d) => d.id === c.dieta)) c.dieta = "omnivora";
+    if (!Recetas.DIETAS.some((d) => d.id === c.dieta)) c.dieta = "toda";
     c.necesidades = (Array.isArray(c.necesidades) ? c.necesidades : []).filter((n) => Recetas.NECESIDADES.some((x) => x.id === n));
     if (!c.tiempo || typeof c.tiempo !== "object") c.tiempo = { laborables: Number(cfg.tiempoMaxLaborables) || 0, finde: 0, estricto: true };
     c.tiempo = { ...base.tiempo, ...c.tiempo };
@@ -154,7 +154,7 @@
 
   const limiteTiempo = (cfg, diaId) => { const d = dia(diaId); return d && d.laborable ? cfg.tiempo.laborables : cfg.tiempo.finde; };
 
-  const cumpleDieta = (r, cfg) => (cfg.dieta === "omnivora" || r.dieta.includes(cfg.dieta)) && cfg.necesidades.every((n) => r.necesidades.includes(n));
+  const cumpleDieta = (r, cfg) => (cfg.dieta === "toda" || r.dieta.includes(cfg.dieta)) && cfg.necesidades.every((n) => r.necesidades.includes(n));
 
   /* Filtro duro de elegibilidad (las obligatorias se saltan este filtro) */
   const elegible = (r, cfg, momento, diaId, ctx = {}) => {

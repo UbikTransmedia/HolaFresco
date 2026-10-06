@@ -315,7 +315,7 @@
           h("dl.dl",
             h("dt", "Frecuencias"), h("dd", Recetas.CATEGORIAS.filter((c) => (cfg.frecuencias || {})[c.id] && cfg.frecuencias[c.id] !== "normal").map((c) => `${c.icono} ${c.nombre}: ${cfg.frecuencias[c.id]}`).join(" · ") || "Todas en «normal»"),
             h("dt", "Cocinas"), h("dd", [cfg.cocinasPreferidas.length ? "Preferidas: " + cfg.cocinasPreferidas.map(nombreCocina).join(", ") : "", cfg.cocinasEvitar.length ? "Evitadas: " + cfg.cocinasEvitar.map(nombreCocina).join(", ") : ""].filter(Boolean).join(" · ") || "Sin preferencia"),
-            h("dt", "Dieta"), h("dd", (Recetas.dietaInfo(cfg.dieta) || {}).nombre || "Omnívora"),
+            h("dt", "Dieta"), h("dd", (Recetas.dietaInfo(cfg.dieta) || {}).nombre || "Toda"),
             h("dt", "Necesidades"), h("dd", cfg.necesidades.length ? cfg.necesidades.map((n) => (Recetas.NECESIDADES.find((x) => x.id === n) || {}).nombre || n).join(", ") : "Ninguna"),
             h("dt", "Vetos"), h("dd", vetos.length ? vetos.join(", ") : "Ninguno"),
             h("dt", "Recetas fijas"), h("dd", (cfg.obligatorias || []).length ? cfg.obligatorias.map((o) => (Recetas.porId(o.recetaId) || {}).nombre || "?").join(", ") : "Ninguna"),

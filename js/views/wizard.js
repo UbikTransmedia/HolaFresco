@@ -109,7 +109,7 @@
     const dietas = UI.segmentado({ opciones: Recetas.DIETAS, valor: st.cfg.dieta, ariaLabel: "Dieta", alCambiar: (v) => { st.cfg.dieta = v; guardarBorrador(); refrescar(); } });
     const necesidades = chipsCheck({ opciones: Recetas.NECESIDADES, seleccion: st.cfg.necesidades, aria: "Necesidades", alCambiar: (id, on) => { st.cfg.necesidades = st.cfg.necesidades.filter((x) => x !== id); if (on) st.cfg.necesidades.push(id); guardarBorrador(); refrescar(); } });
     const compatibles = todas.filter((r) => Planificador.cumpleDieta(r, st.cfg)).length;
-    const hayFiltroDieta = st.cfg.dieta !== "omnivora" || st.cfg.necesidades.length;
+    const hayFiltroDieta = st.cfg.dieta !== "toda" || st.cfg.necesidades.length;
     const dietaSel = Recetas.dietaInfo(st.cfg.dieta);
 
     UI.append(cont,
