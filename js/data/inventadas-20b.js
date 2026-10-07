@@ -31,9 +31,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la olla exprés destapada a fuego medio y tuesta las almendras en seco 2-3 minutos, removiendo, hasta que huelan a turrón y estén doradas. Resérvalas en un plato.",
+    "Corta la cebolla en juliana, lamina los ajos y corta el calabacín en rodajas gruesas (con piel). Pon la olla exprés destapada a fuego medio y tuesta las almendras en seco 2-3 minutos, removiendo, hasta que huelan a turrón y estén doradas. Resérvalas en un plato.",
     "Añade 2 cucharadas de aceite a la olla y sofríe la cebolla en juliana y los ajos laminados 3 minutos, hasta que la cebolla empiece a ablandarse.",
-    "Incorpora el calabacín en rodajas gruesas (con piel), las judías blancas y el caldo. Sala ligeramente, cierra la olla y ponla a fuego fuerte.",
+    "Incorpora el calabacín, las judías blancas y el caldo. Sala ligeramente, cierra la olla y ponla a fuego fuerte.",
     "Cuando la olla alcance presión, baja a fuego mínimo y cuenta 4 minutos. Retírala del fuego y despresuriza de forma rápida abriendo la válvula con cuidado, con un paño.",
     "Añade las hojas de albahaca (reserva unas pocas), el parmesano y la ralladura de medio limón, y tritura con la batidora hasta obtener una crema muy fina. Si queda espesa, aligera con un chorrito de agua caliente.",
     "Ajusta de sal, pimienta y unas gotas de zumo de limón. Sirve en cuencos con las almendras tostadas, el resto de la ralladura, la albahaca reservada y la última cucharada de aceite en crudo."
@@ -119,7 +119,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla destapada a fuego medio, calienta el aceite y sofríe la cebolla picada fina 3 minutos, hasta que esté transparente. Añade el ajo picado y el orégano y remueve 30 segundos.",
+    "Pica fina la cebolla y pica el ajo. Con la olla destapada a fuego medio, calienta el aceite y sofríe la cebolla 3 minutos, hasta que esté transparente. Añade el ajo y el orégano y remueve 30 segundos.",
     "Incorpora el orzo y nacáralo 1 minuto removiendo. Vierte el vino y deja que se evapore casi del todo.",
     "Añade el tomate triturado y el caldo, sala con moderación y rasca bien el fondo con una cuchara de madera para que no quede nada pegado (evita que salte el aviso de quemado).",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 4 minutos. Despresuriza de forma rápida abriendo la válvula.",
@@ -164,7 +164,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el pollo con la ralladura del limón, el orégano, el pimentón, sal y pimienta.",
+    "Mezcla el pollo con la ralladura del limón, el orégano, el pimentón, sal y pimienta. Pica la cebolla, el pimiento y el ajo y ralla el tomate.",
     "Con la olla destapada a fuego fuerte, calienta el aceite y dora el pollo 3 minutos, hasta que tome color por fuera (no hace falta que se haga por dentro). Añade la cebolla y el pimiento picados y saltea 2 minutos.",
     "Incorpora el ajo picado, el tomate rallado y el bulgur y remueve 1 minuto. Vierte el caldo y el zumo de medio limón y rasca bien el fondo.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 4 minutos. Retira del fuego y deja que baje la presión de forma natural 3 minutos; después abre la válvula para liberar el resto.",
@@ -207,7 +207,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla destapada a fuego medio, calienta 2 cucharadas de aceite y sofríe la cebolleta picada 3 minutos. Añade el ajo laminado y, en cuanto se dore, el comino y el pimentón; remueve 15 segundos sin que se quemen.",
+    "Pica la cebolleta y lamina el ajo. Con la olla destapada a fuego medio, calienta 2 cucharadas de aceite y sofríe la cebolleta 3 minutos. Añade el ajo y, en cuanto se dore, el comino y el pimentón; remueve 15 segundos sin que se quemen.",
     "Incorpora el tomate triturado, los garbanzos y el caldo. Sala con moderación y rasca el fondo.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 3 minutos. Despresuriza de forma rápida abriendo la válvula.",
     "Abre y aplasta unos cuantos garbanzos contra la pared para espesar el caldo. Añade las espinacas a puñados y deja 2 minutos sin tapa a fuego suave, removiendo, hasta que se ablanden.",
@@ -249,9 +249,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia el hinojo y córtalo en láminas; reserva las barbas verdes. Lava el puerro y córtalo en rodajas. Pela la patata y córtala en dados.",
     "Con la olla destapada a fuego medio, calienta 1 cucharada de aceite y rehoga el puerro y el hinojo 4 minutos, hasta que estén brillantes y empiecen a ablandarse.",
-    "Añade la patata y el caldo, sala ligeramente y cierra la olla a fuego fuerte. Cuando alcance presión, baja a fuego mínimo y cuenta 5 minutos. Despresuriza de forma rápida abriendo la válvula.",
+    "Añade la patata y el caldo, sala ligeramente y cierra la olla a fuego fuerte. Cuando alcance presión, baja a fuego mínimo y cuenta 5 minutos. Mientras, corta el salmón ahumado en tiras y mézclalo con el eneldo y las barbas de hinojo picados y la ralladura de naranja. Despresuriza de forma rápida abriendo la válvula.",
     "Añade la mitad del yogur y tritura con la batidora hasta que la crema quede lisa y sedosa. Ajusta de sal y pimienta.",
-    "Corta el salmón ahumado en tiras y mézclalo con el eneldo y las barbas de hinojo picados y la ralladura de naranja.",
     "Sirve la crema caliente con el resto del yogur, el salmón aromatizado por encima y un hilo del aceite restante."
   ],
   nutricion: { kcal: 388, prot: 20, hc: 32, grasa: 20 },
@@ -291,7 +290,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla destapada a fuego medio, calienta el aceite y rehoga la cebolla y el hinojo en láminas finas con 2 ajos picados durante 4 minutos, hasta que estén tiernos y fragantes.",
+    "Pica la cebolla, corta el hinojo en láminas finas, pica 2 ajos y ralla el tomate. Con la olla destapada a fuego medio, calienta el aceite y rehoga la cebolla y el hinojo con los ajos durante 4 minutos, hasta que estén tiernos y fragantes.",
     "Añade el tomate rallado y el pimentón y cocina 2 minutos. Incorpora el caldo, las tiras de piel de naranja y el azafrán desmenuzado entre los dedos.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 4 minutos. Despresuriza de forma rápida abriendo la válvula.",
     "Abre, retira la piel de naranja y ajusta de sal. Añade la merluza y las gambas, pon la tapa sin cerrar y deja a fuego suave, sin que hierva a borbotones, 3-4 minutos, hasta que el pescado se separe en lascas y las gambas estén rosadas.",
@@ -335,7 +334,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la patata en rodajas de 1 cm y el calabacín en rodajas de 2 cm (más grueso para que no se deshaga). Corta la cebolla en gajos.",
+    "Corta la patata en rodajas de 1 cm y el calabacín en rodajas de 2 cm (más grueso para que no se deshaga). Corta la cebolla en gajos y lamina el ajo.",
     "Con la olla destapada a fuego medio, calienta 2 cucharadas de aceite y sofríe la cebolla 3 minutos con el ajo laminado. Añade el orégano y remueve.",
     "Pon una capa de patata, los garbanzos y encima el calabacín. Vierte el tomate mezclado con el agua, sal y pimienta. No remuevas.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 3 minutos. Despresuriza de forma rápida abriendo la válvula.",
@@ -377,8 +376,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla destapada a fuego fuerte, calienta el aceite y saltea el calamar 3 minutos, hasta que suelte el agua y esta casi se evapore. Sala.",
-    "Añade el pimiento en tiras y las judías verdes en trozos de 3 cm y rehoga 3 minutos. Incorpora el ajo picado y el tomate rallado y cocina 3 minutos más, hasta que el sofrito se oscurezca un poco.",
+    "Corta el pimiento en tiras y las judías verdes en trozos de 3 cm, pica el ajo y ralla el tomate. Con la olla destapada a fuego fuerte, calienta el aceite y saltea el calamar 3 minutos, hasta que suelte el agua y esta casi se evapore. Sala.",
+    "Añade el pimiento y las judías verdes y rehoga 3 minutos. Incorpora el ajo y el tomate y cocina 3 minutos más, hasta que el sofrito se oscurezca un poco.",
     "Aparta del fuego, añade el pimentón y remueve 10 segundos. Incorpora el arroz y remueve para que se impregne.",
     "Vierte el caldo caliente, ajusta de sal (debe quedar un pelín salado) y rasca bien el fondo.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Despresuriza de forma rápida abriendo la válvula.",
@@ -421,7 +420,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla destapada a fuego medio-alto, calienta el aceite y marca la sepia 3 minutos, hasta que pierda el agua y empiece a dorarse.",
+    "Pica la cebolla, el pimiento y el ajo. Con la olla destapada a fuego medio-alto, calienta el aceite y marca la sepia 3 minutos, hasta que pierda el agua y empiece a dorarse.",
     "Añade la cebolla y el pimiento picados y sofríe 5 minutos, hasta que estén blandos. Incorpora el ajo picado, el comino y el pimentón y remueve 20 segundos.",
     "Vierte el vino y deja que se evapore 1 minuto. Añade el tomate, el agua, el laurel, unas ramitas de hierbabuena y sal.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 10 minutos. Retira del fuego y deja que baje la presión de forma natural.",
@@ -466,12 +465,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta los contramuslos. Con la olla destapada a fuego fuerte, calienta el aceite y dóralos 2 minutos por cada lado, hasta que tengan buen color. Resérvalos.",
+    "Corta la cebolla en juliana y lamina los ajos. Salpimienta los contramuslos. Con la olla destapada a fuego fuerte, calienta el aceite y dóralos 2 minutos por cada lado, hasta que tengan buen color. Resérvalos.",
     "Baja a fuego medio y sofríe la cebolla en juliana 4 minutos. Añade los ajos laminados, el romero y el tomillo y remueve 30 segundos, hasta que huela intensamente.",
     "Vierte el vino y rasca el fondo para despegar todo lo tostado. Añade el tomate y el caldo, mezcla y coloca encima el pollo con su jugo.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 8 minutos. Retira del fuego y deja que baje la presión de forma natural 5 minutos; luego abre la válvula para liberar el resto.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 8 minutos. Retira del fuego y deja que baje la presión de forma natural 5 minutos; luego abre la válvula para liberar el resto. Mientras, pica el perejil y mézclalo con la ralladura de limón.",
     "Abre, retira las ramas de hierbas e incorpora las judías y las aceitunas. Cocina sin tapa 4 minutos a fuego suave, hasta que la salsa espese y las judías estén calientes.",
-    "Mezcla el perejil picado con la ralladura de limón y espárcelo por encima al servir."
+    "Esparce el perejil con la ralladura de limón por encima al servir."
   ],
   nutricion: { kcal: 670, prot: 55, hc: 45, grasa: 30 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "alta en proteína", "sin verduras", "poco especiada"],
@@ -555,7 +554,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las lentejas en un colador. Corta la berenjena en dados de 2 cm y sálala ligeramente.",
+    "Lava las lentejas en un colador. Corta la berenjena en dados de 2 cm y sálala ligeramente. Pica la cebolla, el pimiento y 2 ajos y ralla el tomate.",
     "Con la olla destapada a fuego medio-alto, calienta 2 cucharadas de aceite y dora la berenjena 4 minutos, removiendo, hasta que tome color. Añade la cebolla y el pimiento picados y sofríe 3 minutos.",
     "Incorpora 2 ajos picados, el tomate concentrado, el comino, el pimentón y la mitad de la menta y remueve 30 segundos. Añade el tomate rallado, las lentejas y el agua, y sala.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 10 minutos. Retira del fuego y deja que baje la presión de forma natural.",
@@ -601,11 +600,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol, mezcla la ternera con la ricotta, el pan rallado, el huevo, la mitad del parmesano, 1 ajo rallado, el perejil picado, sal y pimienta. Forma 12 albóndigas con las manos húmedas.",
+    "En un bol, mezcla la ternera con la ricotta, el pan rallado, el huevo, la mitad del parmesano, 1 ajo rallado, el perejil picado, sal y pimienta. Forma 12 albóndigas con las manos húmedas. Pica la cebolla, lamina el otro ajo y corta las judías verdes en trozos de 4 cm.",
     "Con la olla destapada a fuego medio-alto, calienta 2 cucharadas de aceite y dora las albóndigas 4 minutos, girándolas, hasta que tengan costra por todos lados. Resérvalas.",
     "En la misma grasa, sofríe la cebolla picada 4 minutos y el otro ajo laminado 30 segundos. Añade el tomate, el agua, las hojas de tomillo y sal, y rasca el fondo.",
-    "Vuelve a poner las albóndigas y coloca encima las judías verdes cortadas en trozos de 4 cm, sin remover.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Retira del fuego y deja que baje la presión de forma natural 5 minutos; después abre la válvula.",
+    "Vuelve a poner las albóndigas y coloca encima las judías verdes, sin remover.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Retira del fuego y deja que baje la presión de forma natural 5 minutos; después abre la válvula. Mientras, tuesta el pan.",
     "Sirve las albóndigas con la salsa y las judías, el resto del parmesano y un hilo de aceite, con el pan tostado para mojar."
   ],
   nutricion: { kcal: 724, prot: 46, hc: 45, grasa: 40 },
@@ -645,7 +644,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla destapada a fuego medio, calienta el aceite y sofríe la chalota y el ajo picados finos 3 minutos, sin que tomen color.",
+    "Pica finos la chalota y el ajo. Con la olla destapada a fuego medio, calienta el aceite y sofríelos 3 minutos, sin que tomen color.",
     "Añade el arroz y nacáralo 1-2 minutos removiendo, hasta que los granos estén translúcidos por los bordes. Vierte el vino y deja que se evapore.",
     "Incorpora el caldo caliente y la ralladura de medio limón, sala con moderación y rasca el fondo.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Despresuriza de forma rápida abriendo la válvula.",
@@ -689,11 +688,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Despunta las judías verdes y pártelas por la mitad. Pela la patata y córtala en gajos gruesos.",
+    "Despunta las judías verdes y pártelas por la mitad. Pela la patata y córtala en gajos gruesos. Pica la cebolla y lamina el ajo.",
     "Con la olla destapada a fuego medio, calienta 3 cucharadas de aceite y sofríe la cebolla picada 5 minutos, hasta que esté dorada y dulce. Añade el ajo laminado y el orégano y remueve 30 segundos.",
     "Incorpora las judías y la patata y rehoga 2 minutos para que se impregnen del aceite. Añade el tomate, el agua, sal y pimienta.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 5 minutos. Retira del fuego y deja que baje la presión de forma natural.",
-    "Abre: las judías deben estar muy tiernas y la salsa espesa y brillante. Si está caldosa, reduce 3 minutos sin tapa. Añade el perejil y la menta picados.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 5 minutos. Retira del fuego y deja que baje la presión de forma natural. Mientras, pica el perejil y la menta.",
+    "Abre: las judías deben estar muy tiernas y la salsa espesa y brillante. Si está caldosa, reduce 3 minutos sin tapa. Añade el perejil y la menta.",
     "Sirve templado con la feta en dados, la última cucharada de aceite en crudo y pan para mojar la salsa."
   ],
   nutricion: { kcal: 458, prot: 14, hc: 42, grasa: 26 },
@@ -734,11 +733,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el farro en un colador. Salpimienta el pollo.",
+    "Lava el farro en un colador. Salpimienta el pollo. Trocea las setas, pica la cebolla y la zanahoria y lamina el ajo.",
     "Con la olla destapada a fuego fuerte, calienta 2 cucharadas de aceite y saltea las setas troceadas 4 minutos, hasta que suelten el agua y se doren. Añade el pollo y dóralo 3 minutos más.",
     "Baja a fuego medio, incorpora la cebolla y la zanahoria picadas y el ajo laminado y sofríe 3 minutos. Añade el farro y remueve 1 minuto para tostarlo.",
     "Vierte el vino y deja que se evapore. Añade el caldo, el tomillo y el romero, sala y rasca el fondo.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 12 minutos. Retira del fuego y deja que baje la presión de forma natural 10 minutos; luego abre la válvula.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 12 minutos. Retira del fuego y deja que baje la presión de forma natural 10 minutos; luego abre la válvula. Mientras, pica el perejil.",
     "Abre, retira las ramas de hierbas y remueve: el farro debe quedar tierno pero con un punto al diente, en un caldo corto y cremoso. Añade el parmesano, el perejil picado y la última cucharada de aceite."
   ],
   nutricion: { kcal: 674, prot: 46, hc: 64, grasa: 26 },
@@ -778,10 +777,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la ternera y pásala por la harina. Con la olla destapada a fuego fuerte, calienta el aceite y dórala en dos tandas, 3 minutos cada una, hasta que tenga costra. Resérvala.",
+    "Pica la cebolleta y el ajo. Salpimienta la ternera y pásala por la harina. Con la olla destapada a fuego fuerte, calienta el aceite y dórala en dos tandas, 3 minutos cada una, hasta que tenga costra. Resérvala.",
     "Baja a fuego medio y sofríe la cebolleta picada 3 minutos y el ajo 30 segundos. Vierte el vino y rasca el fondo para despegar lo tostado.",
     "Devuelve la carne, añade el caldo y sal. Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 25 minutos. Despresuriza de forma rápida abriendo la válvula.",
-    "Mientras, limpia las alcachofas y guárdalas en agua con limón. Pela la patata y córtala en dados de 3 cm.",
+    "Mientras, limpia las alcachofas y guárdalas en agua con limón. Pela la patata y córtala en dados de 3 cm, y pica el eneldo.",
     "Abre la olla, añade las alcachofas escurridas y la patata, vuelve a cerrar y cuenta 5 minutos desde que alcance presión, a fuego mínimo. Despresuriza de forma rápida.",
     "Añade los guisantes y cocina sin tapa 3 minutos a fuego suave. Fuera del fuego, incorpora el zumo de un limón y el eneldo picado, remueve para que la salsa se emulsione y sirve."
   ],
@@ -825,11 +824,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la berenjena en dados de 3 cm. Salpimienta el cordero.",
+    "Corta la berenjena en dados de 3 cm y pica la cebolla, el pimiento y el ajo. Salpimienta el cordero.",
     "Con la olla destapada a fuego fuerte, calienta 2 cucharadas de aceite y dora el cordero en dos tandas, 3 minutos cada una, hasta que esté bien tostado. Resérvalo.",
     "En la misma olla, dora la berenjena con la última cucharada de aceite 4 minutos. Añade la cebolla y el pimiento picados y sofríe 3 minutos.",
     "Incorpora el ajo picado, el tomate concentrado, el comino, el pimentón y la canela y remueve 30 segundos. Añade el tomate triturado, el agua, el cordero con su jugo y sal, y rasca el fondo.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 25 minutos. Retira del fuego y deja que baje la presión de forma natural, unos 10 minutos.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 25 minutos. Retira del fuego y deja que baje la presión de forma natural, unos 10 minutos. Mientras, pica el perejil.",
     "Abre: si la salsa está ligera, redúcela 5 minutos sin tapa hasta que quede espesa y brillante. Calienta las pitas en una sartén o directamente sobre el fuego.",
     "Sirve el cordero con una buena cucharada de yogur, perejil picado y las pitas tostadas para acompañar."
   ],
@@ -871,11 +870,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pulpo en trozos de 4 cm (patas y cabeza).",
+    "Corta el pulpo en trozos de 4 cm (patas y cabeza). Pica la cebolla, el pimiento y el ajo.",
     "Con la olla destapada a fuego medio, calienta el aceite y sofríe la cebolla y el pimiento picados 6 minutos, hasta que estén blandos y dulces. Añade el ajo picado y el comino y remueve 30 segundos.",
     "Aparta del fuego, añade los dos pimentones y remueve 10 segundos para que no se quemen. Vuelve al fuego, vierte el vino y deja que hierva 1 minuto.",
     "Incorpora el tomate, el agua, el laurel y el pulpo (soltará bastante agua). Sala con moderación, que el pulpo ya es salino.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 12 minutos. Retira del fuego y deja que baje la presión de forma natural.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 12 minutos. Retira del fuego y deja que baje la presión de forma natural. Mientras, pica el perejil.",
     "Abre, comprueba que el pulpo se pincha sin resistencia, añade los garbanzos y cocina sin tapa 8 minutos a fuego medio, hasta que la salsa reduzca y quede roja y espesa.",
     "Sirve con perejil picado y un hilo de aceite en crudo."
   ],
@@ -915,13 +914,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las judías del remojo. Quita la piel a las salchichas y desmenúzalas en trozos grandes.",
+    "La víspera, pon las judías en remojo en abundante agua fría (8-12 h). Al día siguiente, escúrrelas. Quita la piel a las salchichas y desmenúzalas en trozos grandes, lamina 2 ajos y pica la cebolla.",
     "Con la olla destapada a fuego medio-alto, calienta 1 cucharada de aceite y dora la salchicha 4 minutos, hasta que esté bien tostada. Resérvala dejando la grasa en la olla.",
-    "Baja a fuego medio y fríe en esa grasa la salvia y 2 ajos laminados 1 minuto, hasta que la salvia esté crujiente y el ajo dorado. Añade la cebolla picada y sofríe 4 minutos.",
+    "Baja a fuego medio y fríe en esa grasa la salvia y los ajos laminados 1 minuto, hasta que la salvia esté crujiente y el ajo dorado. Añade la cebolla y sofríe 4 minutos.",
     "Incorpora las judías, el tomate, el agua, el romero, el laurel y la salchicha. Sala ligeramente.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 15 minutos. Retira del fuego y deja que baje la presión de forma natural, unos 15 minutos.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 15 minutos. Retira del fuego y deja que baje la presión de forma natural, unos 15 minutos. Mientras, tuesta el pan y frótalo con el último ajo.",
     "Abre, retira el romero y el laurel y comprueba que las judías estén cremosas. Si el caldo está ligero, aplasta unas cuantas y cuece 3 minutos sin tapa. Ajusta de sal y pimienta.",
-    "Tuesta el pan, frótalo con el último ajo y sirve las judías con un buen hilo de aceite en crudo y el pan al lado."
+    "Sirve las judías con un buen hilo de aceite en crudo y el pan al lado."
   ],
   nutricion: { kcal: 764, prot: 40, hc: 70, grasa: 36 },
   etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "batch cooking", "sin verduras", "poco especiada"],
@@ -959,11 +958,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el conejo. Con la olla destapada a fuego fuerte, calienta el aceite y dora el conejo en dos tandas, 4 minutos cada una, hasta que esté bien dorado. Resérvalo.",
-    "Baja a fuego medio y sofríe la cebolla en juliana 4 minutos. Añade los ajos enteros aplastados y el romero y remueve 1 minuto, hasta que huela intensamente.",
+    "Corta la cebolla en juliana y aplasta los ajos. Salpimienta el conejo. Con la olla destapada a fuego fuerte, calienta el aceite y dora el conejo en dos tandas, 4 minutos cada una, hasta que esté bien dorado. Resérvalo.",
+    "Baja a fuego medio y sofríe la cebolla en juliana 4 minutos. Añade los ajos aplastados y el romero y remueve 1 minuto, hasta que huela intensamente.",
     "Vierte el vino y el vinagre y rasca el fondo. Deja hervir 1 minuto, añade el caldo y devuelve el conejo con su jugo.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 8 minutos. Despresuriza de forma rápida abriendo la válvula.",
-    "Añade las patatas peladas en trozos de 3 cm y las aceitunas, vuelve a cerrar y cuenta 4 minutos desde que alcance presión a fuego mínimo. Deja que baje la presión de forma natural.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 8 minutos. Mientras, pela las patatas y córtalas en trozos de 3 cm. Despresuriza de forma rápida abriendo la válvula.",
+    "Añade las patatas y las aceitunas, vuelve a cerrar y cuenta 4 minutos desde que alcance presión a fuego mínimo. Deja que baje la presión de forma natural y, mientras, pica el perejil.",
     "Abre, retira el romero y, si la salsa está ligera, redúcela 3 minutos sin tapa. Sirve con perejil picado."
   ],
   nutricion: { kcal: 554, prot: 46, hc: 34, grasa: 26 },
@@ -1005,10 +1004,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla destapada a fuego medio, tuesta las almendras en seco 3 minutos y resérvalas. Corta el pollo en trozos grandes y sálalo.",
+    "Con la olla destapada a fuego medio, tuesta las almendras en seco 3 minutos y resérvalas. Corta el pollo en trozos grandes y sálalo. Corta la cebolla en juliana y la zanahoria en rodajas gruesas, y ralla el ajo y el jengibre.",
     "Calienta el aceite en la olla a fuego fuerte y dora el pollo 4 minutos. Baja a fuego medio, añade la cebolla en juliana y la zanahoria en rodajas gruesas y sofríe 3 minutos.",
-    "Incorpora el ajo y el jengibre rallados, el ras el hanout y la canela y remueve 30 segundos. Añade el caldo, los orejones y la ralladura del limón, y rasca el fondo.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 8 minutos. Retira del fuego y deja que baje la presión de forma natural 10 minutos; luego abre la válvula.",
+    "Incorpora el ajo y el jengibre, el ras el hanout y la canela y remueve 30 segundos. Añade el caldo, los orejones y la ralladura del limón, y rasca el fondo.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 8 minutos. Retira del fuego y deja que baje la presión de forma natural 10 minutos; luego abre la válvula. Mientras, pica el cilantro.",
     "Pon el cuscús en un bol con una pizca de sal y vierte encima 150 ml del caldo caliente de la olla. Tapa 5 minutos y desgrana con un tenedor.",
     "Mientras, añade los garbanzos a la olla y cocina sin tapa 4 minutos a fuego medio, hasta que la salsa espese. Agrega el zumo de medio limón.",
     "Sirve el tajín sobre el cuscús con las almendras y el cilantro picado por encima."
@@ -1052,8 +1051,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Remojo exprés: pon las judías lavadas en la olla con 1 litro de agua (aparte de la de la receta). Cierra a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 2 minutos. Apaga y deja reposar con la olla cerrada 1 hora. Despresuriza, escurre y enjuaga.",
-    "Con la olla vacía y destapada a fuego medio, calienta 2 cucharadas de aceite y sofríe la cebolla, la zanahoria y el apio en dados pequeños 5 minutos. Añade el ajo picado, el tomate concentrado y el orégano y remueve 1 minuto.",
+    "Remojo exprés: pon las judías lavadas en la olla con 1 litro de agua (aparte de la de la receta). Cierra a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 2 minutos. Apaga y deja reposar con la olla cerrada 1 hora; mientras, corta en dados pequeños la cebolla, la zanahoria y el apio y pica el ajo. Despresuriza, escurre y enjuaga.",
+    "Con la olla vacía y destapada a fuego medio, calienta 2 cucharadas de aceite y sofríe la cebolla, la zanahoria y el apio 5 minutos. Añade el ajo, el tomate concentrado y el orégano y remueve 1 minuto.",
     "Incorpora las judías escurridas, el tomate triturado, el laurel y los 800 ml de agua. No añadas sal todavía.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 15 minutos. Retira del fuego y deja que baje la presión de forma natural, unos 15 minutos.",
     "Abre, retira el laurel, sala y comprueba que las judías estén cremosas. Aplasta un cazo de ellas contra la pared y cuece 3 minutos sin tapa para espesar la sopa.",
@@ -1097,11 +1096,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol, cubre los jarretes con el vino, 4 ajos aplastados, el romero y el laurel. Deja marinar 1 hora en la nevera, girándolos a media marinada.",
+    "En un bol, cubre los jarretes con el vino, 4 ajos aplastados, el romero y el laurel. Deja marinar 1 hora en la nevera, girándolos a media marinada. Mientras, pica la cebolla y la zanahoria.",
     "Escurre los jarretes (reserva la marinada), sécalos, salpimiéntalos y pásalos por la harina. Con la olla destapada a fuego fuerte, calienta 3 cucharadas de aceite y dóralos 6-8 minutos, girándolos, hasta que tengan una costra oscura. Resérvalos.",
     "Baja a fuego medio y sofríe la cebolla y la zanahoria picadas 5 minutos. Vierte la marinada con sus aromáticos, rasca bien el fondo y deja hervir 2 minutos para que se evapore el alcohol. Añade el tomate y los jarretes.",
     "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 40 minutos. Retira del fuego y deja que baje la presión de forma natural, unos 15 minutos.",
-    "Mientras, calienta en una cazuela pequeña las judías con 2 cucharadas de aceite, el ajo restante rallado, la ralladura del limón y un chorro de agua 4 minutos. Aplástalas con un tenedor hasta obtener un puré rústico y añade unas gotas de zumo de limón y sal.",
+    "Mientras, calienta en una cazuela pequeña las judías con 2 cucharadas de aceite, el ajo restante rallado, la ralladura del limón y un chorro de agua 4 minutos. Aplástalas con un tenedor hasta obtener un puré rústico y añade unas gotas de zumo de limón y sal. Pica el perejil.",
     "Abre la olla: la carne debe separarse del hueso. Saca los jarretes, retira el romero y el laurel y reduce la salsa sin tapa 5 minutos a fuego fuerte, hasta que esté brillante y espesa.",
     "Sirve cada jarrete sobre el puré de judías, napado con la salsa y con perejil picado por encima."
   ],

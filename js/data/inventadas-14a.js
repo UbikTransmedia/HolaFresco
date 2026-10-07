@@ -170,10 +170,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz en un colador bajo el grifo, frotándolo, hasta que el agua salga casi transparente. Ponlo en un cazo con 190 ml de agua, lleva a ebullición, tapa y cuece 12 minutos a fuego mínimo. Apaga y deja reposar tapado 10 minutos.",
-    "Mientras, calienta el vinagre de arroz con el azúcar y una pizca de sal hasta que se disuelvan. Extiende el arroz en una fuente, riégalo con esta mezcla y remueve con cortes de espátula, abanicando, hasta que se temple y brille.",
-    "Hidrata la wakame 5 minutos en agua fría, escúrrela bien y alíñala con unas gotas de soja y de aceite de sésamo.",
+    "Mientras, hidrata la wakame 5 minutos en agua fría, escúrrela bien y alíñala con unas gotas de soja y de aceite de sésamo. Calienta el vinagre de arroz con el azúcar y una pizca de sal hasta que se disuelvan.",
+    "Cuando el arroz haya reposado, extiéndelo en una fuente, riégalo con esta mezcla y remueve con cortes de espátula, abanicando, hasta que se temple y brille.",
     "Corta el atún en dados de 2 cm con un cuchillo bien afilado. Mézclalo con 2 cucharadas de soja, el resto del aceite de sésamo, la ralladura de media lima y la parte verde de la cebolleta picada. Deja marinar en la nevera 10 minutos, no más, o la soja lo curará en exceso.",
-    "Lamina finos los rábanos y el pepino, y corta el aguacate en gajos. Riega el aguacate con zumo de lima.",
+    "Mientras marina, lamina finos los rábanos y el pepino, y corta el aguacate en gajos. Riega el aguacate con zumo de lima.",
     "Mezcla la mayonesa con la sriracha y un chorrito de zumo de lima hasta tener una salsa fluida.",
     "Monta los bowls: base de arroz templado, encima el atún con su marinada, y alrededor la wakame, el rábano, el pepino y el aguacate. Termina con la mayonesa picante en hilos, el sésamo tostado y la parte blanca de la cebolleta en aros."
   ],
@@ -304,9 +304,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga las lentejas y ponlas en un cazo con 3 veces su volumen de agua fría, la zanahoria en dados pequeños, el laurel y una rama de tomillo. Lleva a ebullición y cuece a fuego suave 20–25 minutos, hasta que estén tiernas pero enteras. Sala al final, escúrrelas y retira el laurel y el tomillo.",
-    "Mientras, prepara la vinagreta: pica la chalota muy fina y mézclala con el vinagre de Jerez, la mostaza, sal y pimienta. Deja que repose 5 minutos y añade 1 cucharada y media de aceite batiendo. Pica las avellanas gruesas e incorpóralas.",
+    "Mientras, prepara la vinagreta: pica la chalota muy fina y mézclala con el vinagre de Jerez, la mostaza, sal y pimienta. Deja que repose 5 minutos y añade 1 cucharada y media de aceite batiendo. Pica las avellanas gruesas e incorpóralas. Limpia las setas con un paño y trocéalas con las manos.",
     "Aliña las lentejas aún calientes con dos tercios de la vinagreta: así absorben mejor el sabor.",
-    "Limpia las setas con un paño y trocéalas con las manos. Saltéalas en una sartén muy caliente con unas gotas de aceite y las hojas de la otra rama de tomillo 4–5 minutos, sin removerlas demasiado al principio, hasta que suelten el agua y se doren. Sala al final y añádelas a las lentejas.",
+    "Saltea las setas en una sartén muy caliente con unas gotas de aceite y las hojas de la otra rama de tomillo 4–5 minutos, sin removerlas demasiado al principio, hasta que suelten el agua y se doren. Sala al final y añádelas a las lentejas.",
     "Seca las vieiras muy bien con papel de cocina y sálalas justo antes de cocinarlas. Limpia la sartén, caliéntala a fuego fuerte con el resto del aceite y marca las vieiras 1 minuto y medio por cada lado sin tocarlas, hasta que tengan una costra dorada y el centro quede todavía nacarado.",
     "Reparte los canónigos en dos platos, coloca encima las lentejas templadas con las setas y corona con 4 vieiras por plato. Riega con el resto de la vinagreta de avellanas y sirve enseguida."
   ],
@@ -352,13 +352,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias del remojo y ponlas en una cazuela con agua fría que las cubra 4 dedos, la media cebolla, un diente de ajo, el laurel y el comino. Lleva a ebullición, retira la espuma y cuece a fuego suave, tapado a medias, 1 h 30 min a 1 h 45 min, hasta que estén tiernas y cremosas por dentro. Sala en los últimos 15 minutos y déjalas enfriar en su caldo.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una cazuela con agua fría que las cubra 4 dedos, la media cebolla, un diente de ajo, el laurel y el comino. Lleva a ebullición, retira la espuma y cuece a fuego suave, tapado a medias, 1 h 30 min a 1 h 45 min, hasta que estén tiernas y cremosas por dentro. Sala en los últimos 15 minutos y déjalas enfriar en su caldo.",
     "Mientras, encurte la cebolla morada: córtala en plumas finas, cúbrela con el vinagre, 3 cucharadas de agua, una pizca de sal y otra de azúcar, y deja en la nevera al menos 30 minutos.",
     "Una hora antes de comer, precalienta el horno a 210 °C. Pela el boniato, córtalo en dados de 2 cm, mézclalo con 1 cucharada de aceite, el pimentón ahumado y sal, y ásalo 25–30 minutos, dándole la vuelta a mitad, hasta que esté tierno y con bordes tostados.",
-    "Cuece el arroz lavado con 200 ml de agua y una pizca de sal: tapado, a fuego mínimo, 12 minutos, y 5 de reposo. Desgránalo con un tenedor y mézclalo con la ralladura y el zumo de una lima.",
+    "Mientras se asa el boniato, lava el arroz y cuécelo con 200 ml de agua y una pizca de sal: tapado, a fuego mínimo, 12 minutos, y 5 de reposo. Desgránalo con un tenedor y mézclalo con la ralladura y el zumo de una lima.",
     "Escurre bien el maíz y tuéstalo en una sartén caliente con unas gotas de aceite 5–6 minutos, sin moverlo mucho, hasta que algunos granos se doren y chisporroteen.",
-    "Prepara el aliño de chipotle: tritura o machaca el chipotle con el yogur, el otro diente de ajo rallado, el zumo de media lima y sal. Debe quedar como una crema rosada; aclárala con agua si hace falta.",
-    "Monta los bowls: arroz a la lima, alubias escurridas aliñadas con unas gotas de aceite, boniato, maíz, aguacate en láminas y queso fresco desmenuzado. Termina con la cebolla encurtida, el aliño de chipotle y cilantro picado, y acompaña con gajos de lima."
+    "Prepara el aliño de chipotle: tritura o machaca el chipotle con el yogur, el otro diente de ajo rallado, el zumo de media lima y sal. Debe quedar como una crema rosada; aclárala con agua si hace falta. Pica el cilantro.",
+    "Monta los bowls: arroz a la lima, alubias escurridas aliñadas con unas gotas de aceite, boniato, maíz, aguacate en láminas y queso fresco desmenuzado. Termina con la cebolla encurtida, el aliño de chipotle y el cilantro, y acompaña con gajos de lima."
   ],
   nutricion: { kcal: 750, prot: 34, hc: 100, grasa: 24 },
   etiquetas: ["batch cooking", "económica", "ideal para llevar", "picante", "superalimentos"],
@@ -399,8 +399,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enjuaga la cebada y cuécela en abundante agua con sal a fuego medio 35–40 minutos, hasta que esté tierna pero con un punto de mordida, como una pasta al dente. Escúrrela y extiéndela en una bandeja para que se temple.",
     "Mientras, precalienta el horno a 200 °C. Mezcla los muslos con la ralladura de un limón, el zumo de medio, un ajo rallado, el orégano, 1 cucharada de aceite, sal y pimienta. Ásalos en una bandeja 25 minutos, hasta que estén dorados y suelten un jugo transparente al pincharlos.",
-    "A falta de 10 minutos, añade a la bandeja los espárragos sin la parte leñosa, con un hilo de aceite y sal, para que se asen junto al pollo hasta quedar tiernos y algo tostados.",
-    "Echa los guisantes en un cazo con agua hirviendo 2 minutos, escúrrelos y pásalos por agua fría para que mantengan el color.",
+    "A falta de 10 minutos, añade a la bandeja los espárragos sin la parte leñosa, con un hilo de aceite y sal, para que se asen junto al pollo hasta quedar tiernos y algo tostados. Mientras, pon a hervir un cazo con agua.",
+    "Echa los guisantes en el agua hirviendo 2 minutos, escúrrelos y pásalos por agua fría para que mantengan el color.",
     "Prepara el aliño: el yogur con el zumo del limón restante, el otro ajo muy rallado, unas hojas de menta picadas, sal, pimienta y un chorrito de agua hasta que quede fluido.",
     "Corta el pollo en tiras y los espárragos en trozos de 4 cm. Mezcla la cebada con los guisantes, los espárragos, la rúcula, el resto de la menta en hojas y los jugos que haya soltado la bandeja.",
     "Reparte la ensalada en dos platos, coloca encima el pollo, riega con el aliño de yogur y termina con lascas de parmesano y un poco más de ralladura de limón."
@@ -442,13 +442,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las zanahorias y córtalas en tiras largas y finas con un pelador en juliana o con un cuchillo. Corta el pepino a lo largo, retira las pepitas con una cucharilla y córtalo también en tiras.",
-    "Corta las judías verdes en trozos de 3 cm y escáldalas 1 minuto en agua hirviendo; pásalas a agua con hielo para que queden verdes y crujientes.",
+    "Pon a hervir un cazo con agua. Mientras, pela las zanahorias y córtalas en tiras largas y finas con un pelador en juliana o con un cuchillo. Corta el pepino a lo largo, retira las pepitas con una cucharilla y córtalo también en tiras.",
+    "Corta las judías verdes en trozos de 3 cm y escáldalas 1 minuto en el agua hirviendo; pásalas a agua con hielo para que queden verdes y crujientes.",
     "En un mortero grande, machaca el ajo con el chile y el azúcar moreno hasta hacer una pasta. Añade las judías y los tomates cherry partidos y golpéalos suavemente para que se abran y suelten jugo.",
-    "Incorpora el zumo de las limas y la salsa de pescado, y prueba: debe estar ácido, salado, dulce y picante a partes iguales. Ajusta con más lima o azúcar si hace falta.",
+    "Incorpora el zumo de las limas y la salsa de pescado, y prueba: debe estar ácido, salado, dulce y picante a partes iguales. Ajusta con más lima o azúcar si hace falta. Pica gruesos los cacahuetes.",
     "Calienta una sartén a fuego fuerte con la cucharadita de aceite y saltea las gambas secas y con una pizca de sal 1–2 minutos por lado, hasta que estén rosadas y curvadas.",
     "En un bol, mezcla la zanahoria y el pepino con el contenido del mortero, golpeando y removiendo con una cuchara para que se impregnen bien.",
-    "Sirve enseguida con las gambas calientes encima, los cacahuetes picados gruesos y el cilantro."
+    "Sirve enseguida con las gambas calientes encima, los cacahuetes y el cilantro."
   ],
   nutricion: { kcal: 370, prot: 26, hc: 30, grasa: 16 },
   etiquetas: ["rápida", "ligera", "picante", "verano", "sin horno"],
@@ -588,9 +588,9 @@ window.RECETAS_SEED.push({
     "Haz unos cortes superficiales en la carne de los contramuslos, embadúrnalos bien con la marinada y déjalos en la nevera, tapados, 2 horas (y hasta toda la noche).",
     "Mientras marina, prepara la zanahoria encurtida: córtala en bastones finos y cúbrela con el vinagre de arroz, 4 cucharadas de agua tibia, el azúcar y una pizca de sal. Déjala en la nevera hasta servir.",
     "Para el nuoc cham, mezcla el zumo de las limas, la cucharada restante de salsa de pescado y de azúcar moreno, 4 cucharadas de agua, el último ajo y el chile picados. Remueve hasta disolver el azúcar.",
-    "Media hora antes de comer, lava el arroz jazmín y cuécelo con 225 ml de agua: lleva a ebullición, tapa y deja 12 minutos a fuego mínimo y 10 de reposo.",
-    "Saca el pollo de la nevera 15 minutos antes. Cocínalo en una sartén a fuego medio con la piel hacia abajo, sin aceite, 8 minutos, hasta que la piel esté crujiente y caramelizada (baja el fuego si el azúcar se oscurece demasiado). Dale la vuelta y cocina 5–6 minutos más. Deja reposar 3 minutos y córtalo en tiras.",
-    "Monta los bowls: arroz, lechuga en tiras, pepino en bastones, la zanahoria encurtida escurrida y el pollo. Termina con menta, cilantro y cacahuetes picados, y sirve el nuoc cham aparte para regar al gusto."
+    "Media hora antes de comer, saca el pollo de la nevera, lava el arroz jazmín y cuécelo con 225 ml de agua: lleva a ebullición, tapa y deja 12 minutos a fuego mínimo y 10 de reposo. Mientras, corta la lechuga en tiras y el pepino en bastones, pica los cacahuetes y deshoja la menta y el cilantro.",
+    "Cocina el pollo en una sartén a fuego medio con la piel hacia abajo, sin aceite, 8 minutos, hasta que la piel esté crujiente y caramelizada (baja el fuego si el azúcar se oscurece demasiado). Dale la vuelta y cocina 5–6 minutos más. Deja reposar 3 minutos y córtalo en tiras.",
+    "Monta los bowls: arroz, lechuga, pepino, la zanahoria encurtida escurrida y el pollo. Termina con la menta, el cilantro y los cacahuetes, y sirve el nuoc cham aparte para regar al gusto."
   ],
   nutricion: { kcal: 760, prot: 44, hc: 96, grasa: 22 },
   etiquetas: ["marinado", "alta en proteína", "ideal para llevar", "sin horno", "bajo en colesterol"],
@@ -765,7 +765,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara el aliño ranchero: mezcla el yogur con la mayonesa, la mitad del cebollino picado, el eneldo picado, una pizca de ajo en polvo, el zumo del medio limón, sal y bastante pimienta. Aclara con 1–2 cucharadas de agua hasta que caiga en hilo. Guárdalo en la nevera.",
     "Abre las pechugas en filetes de 1 cm de grosor, sálalas y pásalas primero por la harina, luego por el huevo batido y por último por el panko mezclado con el pimentón y el resto del ajo en polvo, apretando para que se adhiera bien.",
-    "Dora el bacon en una sartén grande sin aceite a fuego medio 5 minutos, hasta que esté crujiente. Sácalo a papel de cocina. En su grasa, tuesta el pan en dados 2–3 minutos y resérvalo.",
+    "Dora el bacon en una sartén grande sin aceite a fuego medio 5 minutos, hasta que esté crujiente; mientras, corta el pan en dados. Saca el bacon a papel de cocina. En su grasa, tuesta el pan 2–3 minutos y resérvalo.",
     "Añade el aceite a la misma sartén y fríe los filetes empanados a fuego medio 3–4 minutos por lado, hasta que el rebozado esté dorado y el pollo hecho por dentro. Escúrrelos sobre una rejilla o papel y córtalos en tiras.",
     "Corta la lechuga romana en trozos grandes, lávala y sécala muy bien (si queda agua, el aliño no se pega). Corta los tomates en gajos.",
     "Mezcla la lechuga con la mitad del aliño, repártela en dos platos con el tomate y coloca encima el pollo crujiente, el bacon troceado y los picatostes. Riega con el resto del aliño y termina con cebollino."
@@ -814,11 +814,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el bulgur en un bol, añade el tomate concentrado, los piquillos triturados, el pimentón picante y una pizca de sal y vierte 180 ml de agua hirviendo. Mezcla bien, tapa con un plato y deja que se hidrate 20 minutos, hasta que esté tierno y haya absorbido todo el líquido.",
-    "Mientras, precalienta el horno a 210 °C. Ralla muy fina la cebolla y mézclala con el pavo, el comino, un ajo rallado, la mitad del perejil picado, 1 cucharadita de sal y pimienta. Amasa 1 minuto con las manos para que quede ligado.",
+    "Precalienta el horno a 210 °C. Pon el bulgur en un bol, añade el tomate concentrado, los piquillos triturados, el pimentón picante y una pizca de sal y vierte 180 ml de agua hirviendo. Mezcla bien, tapa con un plato y deja que se hidrate 20 minutos, hasta que esté tierno y haya absorbido todo el líquido.",
+    "Mientras, pica fino todo el perejil. Ralla muy fina la cebolla y mézclala con el pavo, el comino, un ajo rallado, la mitad del perejil, 1 cucharadita de sal y pimienta. Amasa 1 minuto con las manos para que quede ligado.",
     "Con las manos húmedas, forma 10–12 albóndigas alargadas, colócalas en una bandeja con papel, pincélalas con un poco de aceite y hornéalas 15–18 minutos, hasta que estén doradas y firmes al tacto.",
     "Desgrana la media granada golpeándola por la piel con una cuchara de madera sobre un bol.",
-    "Pica finos las cebolletas, el pepino, el tomate, el resto del perejil y la menta. Añádelos al bulgur ya frío junto con el zumo del limón, la melaza de granada, el resto del aceite y pimienta. Mezcla con las manos, apretando un poco para que el bulgur absorba el aliño, y prueba de sal y acidez.",
+    "Pica finos las cebolletas, el pepino, el tomate y la menta. Añádelos al bulgur ya frío junto con el resto del perejil, el zumo del limón, la melaza de granada, el resto del aceite y pimienta. Mezcla con las manos, apretando un poco para que el bulgur absorba el aliño, y prueba de sal y acidez.",
     "Mezcla el yogur con el otro ajo rallado y una pizca de sal.",
     "Sirve el kısır con las albóndigas calientes, los granos de granada por encima, el yogur aparte y hojas de lechuga para envolver un poco de cada cosa."
   ],
@@ -994,8 +994,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la marinada machacando en el mortero 2 dientes de ajo con el comino, el pimentón, el orégano, una cucharadita de sal y pimienta. Añade la soja, el zumo de una lima y el aceite. Embadurna bien los muslos, también bajo la piel, y deja marinar en la nevera 2 horas.",
-    "Precalienta el horno a 220 °C. Coloca el pollo con la piel hacia arriba en una bandeja y ásalo 30–35 minutos, hasta que la piel esté muy dorada y crujiente. Si quieres más tostado, dale 3 minutos de grill al final.",
+    "Prepara la marinada machacando en el mortero 2 dientes de ajo con el comino, el pimentón, el orégano, una cucharadita de sal y pimienta. Añade la soja, el zumo de una lima y el aceite. Embadurna bien los muslos, también bajo la piel, y deja marinar en la nevera 2 horas. Cuando falten 15 minutos, precalienta el horno a 220 °C.",
+    "Coloca el pollo con la piel hacia arriba en una bandeja y ásalo 30–35 minutos, hasta que la piel esté muy dorada y crujiente. Si quieres más tostado, dale 3 minutos de grill al final.",
     "Mientras, cuece las patatas peladas y en dados de 2 cm en agua con sal 12 minutos, hasta que estén tiernas pero firmes. Escúrrelas y deja templar.",
     "Prepara la salsa: tritura con la batidora la pasta de ají amarillo, el queso fresco, el yogur, el último diente de ajo, el zumo de media lima, una pizca de sal y unas hojas de cilantro, hasta obtener una crema amarilla y lisa.",
     "Corta la cebolla morada en plumas finas y déjala 5 minutos con el zumo de la otra media lima y una pizca de sal. Corta el tomate en gajos, el aguacate en dados y la lechuga en tiras. Escurre el maíz.",
@@ -1088,11 +1088,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a cocer el arroz integral en abundante agua con sal 35–40 minutos, hasta que esté tierno. Escúrrelo como si fuera pasta.",
     "Precalienta el horno a 210 °C. Corta el boniato con piel en dados de 2 cm, mézclalo con 1 cucharada de aceite, el pimentón ahumado y sal, y ásalo 25–30 minutos, girándolo a mitad, hasta que tenga bordes caramelizados.",
-    "Corta el tempeh en tiras de 1 cm y cuécelas al vapor o en agua hirviendo 8 minutos: le quita el amargor y le ayuda a absorber el glaseado. Escúrrelo y sécalo.",
-    "Retira los tallos duros del kale y trocea las hojas. Ponlas en un bol con el zumo de medio limón, unas gotas de aceite y una pizca de sal, y masajéalas con las manos 2 minutos, hasta que se reduzcan a la mitad y se pongan de un verde intenso.",
+    "Mientras se asa, corta el tempeh en tiras de 1 cm y cuécelas al vapor o en agua hirviendo 8 minutos: le quita el amargor y le ayuda a absorber el glaseado. Escúrrelo y sécalo.",
+    "Retira los tallos duros del kale y trocea las hojas. Ponlas en un bol con el zumo de medio limón, unas gotas de aceite y una pizca de sal, y masajéalas con las manos 2 minutos, hasta que se reduzcan a la mitad y se pongan de un verde intenso. Ralla la zanahoria y corta la col lombarda en hilos.",
     "Prepara la salsa de cacahuete: mezcla la crema de cacahuete con 1 cucharada de soja, el vinagre de arroz, el jengibre rallado, el zumo del otro medio limón y 3–4 cucharadas de agua caliente, hasta que quede fluida.",
     "Calienta una sartén con el resto del aceite a fuego medio-alto y dora el tempeh 3 minutos por lado. Añade 2 cucharadas de soja, el sirope de arce y el ajo rallado y deja que burbujee 1 minuto, dándole la vuelta, hasta que el glaseado se pegue y brille.",
-    "Monta los bowls por secciones: arroz, kale, boniato, zanahoria rallada, col lombarda en hilos y tempeh glaseado. Riega con la salsa de cacahuete y espolvorea sésamo."
+    "Monta los bowls por secciones: arroz, kale, boniato, zanahoria, col lombarda y tempeh glaseado. Riega con la salsa de cacahuete y espolvorea sésamo."
   ],
   nutricion: { kcal: 745, prot: 32, hc: 78, grasa: 34 },
   etiquetas: ["vegana", "batch cooking", "ideal para llevar", "al horno", "superalimentos", "poco especiada"],
@@ -1139,8 +1139,8 @@ window.RECETAS_SEED.push({
     "Mientras marina, cuece el arroz basmati lavado con 180 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos, y deja reposar 5. Extiéndelo en una bandeja para que se enfríe rápido y queden los granos sueltos.",
     "Corta la cebolla morada en plumas finas y ponla con el zumo de media lima y una pizca de sal.",
     "Prepara el chutney: tritura el cilantro con tallos, el chile, el otro ajo, el resto del yogur, el zumo de una lima y sal, hasta tener una salsa verde y fluida.",
-    "Saca el pollo de la marinada escurriendo el exceso. Calienta una sartén a fuego medio-alto con el aceite y dóralo 7–8 minutos, girándolo, hasta que tenga manchas tostadas y esté hecho por dentro. En el último minuto añade las semillas de mostaza: cuando empiecen a saltar, retira del fuego.",
     "Pela el mango y córtalo en dados; corta el pepino en medias lunas.",
+    "Saca el pollo de la marinada escurriendo el exceso. Calienta una sartén a fuego medio-alto con el aceite y dóralo 7–8 minutos, girándolo, hasta que tenga manchas tostadas y esté hecho por dentro. En el último minuto añade las semillas de mostaza: cuando empiecen a saltar, retira del fuego.",
     "Mezcla el arroz frío con las espinacas, el mango, el pepino y la cebolla con su jugo. Reparte en dos platos, coloca encima el pollo caliente con las semillas y riega con el chutney de cilantro."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 54, grasa: 10 },

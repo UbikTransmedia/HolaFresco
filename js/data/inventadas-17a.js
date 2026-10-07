@@ -121,7 +121,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C con calor arriba y abajo. Pica las cebolletas y saltéalas 3 minutos en una sartén grande con 1 cucharada de aceite.",
-    "Añade las espinacas por tandas y remueve hasta que se reduzcan, unos 4 minutos. Pásalas a un colador y presiona con una cuchara hasta sacar todo el líquido posible: es la clave para que la base no quede blanda.",
+    "Añade las espinacas por tandas y remueve hasta que se reduzcan, unos 4 minutos. Pásalas a un colador y presiona con una cuchara hasta sacar todo el líquido posible: es la clave para que la base no quede blanda. Después pícalas.",
     "En un bol mezcla las espinacas picadas con la feta desmenuzada, la ricotta, los huevos, el eneldo y el perejil picados, la ralladura de limón, la nuez moscada y pimienta. No hace falta sal: la feta ya aporta.",
     "Pinta una fuente de unos 20 x 20 cm con aceite. Coloca 3 láminas de filo superpuestas pintando cada una con un poco de aceite y dejando que sobresalgan por los lados.",
     "Extiende el relleno, dobla las puntas sobrantes hacia dentro y cubre con las otras 3 láminas arrugadas como un pañuelo, pintadas con el resto del aceite.",
@@ -167,8 +167,8 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén apta para horno a fuego fuerte y saltea los champiñones sin moverlos los 2 primeros minutos, para que se doren. Cocina 6 minutos en total, hasta que hayan soltado y evaporado su agua.",
     "Baja el fuego, añade el ajo, la guindilla y las hojas de tomillo y sofríe 1 minuto, hasta que el ajo empiece a dorarse. Riega con el vino y deja evaporar 1 minuto. Sala y añade la mitad del perejil picado.",
     "Haz 4 huecos entre los champiñones, casca un huevo en cada uno, salpimienta las claras y espolvorea el parmesano por encima.",
-    "Hornea 6 o 7 minutos, hasta que las claras estén cuajadas y las yemas sigan brillantes y líquidas.",
-    "Tuesta el pan, saca la sartén, esparce el resto del perejil y sirve en la misma sartén."
+    "Hornea 6 o 7 minutos, hasta que las claras estén cuajadas y las yemas sigan brillantes y líquidas. Mientras, tuesta el pan.",
+    "Saca la sartén, esparce el resto del perejil y sirve en la misma sartén."
   ],
   nutricion: { kcal: 430, prot: 26, hc: 20, grasa: 26 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "ligera", "invierno"],
@@ -339,8 +339,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la berenjena en dados de 2 cm. Calienta 1,5 cucharadas de aceite en una sartén amplia a fuego fuerte y dora la berenjena 7 minutos, removiendo poco, hasta que esté tostada y tierna.",
-    "Añade la cebolla y el pimiento en tiras con el resto del aceite y cocina 6 minutos a fuego medio, hasta que se ablanden. Incorpora 2 ajos picados, el comino y el pimentón y remueve 30 segundos, hasta que huela intensamente.",
+    "Corta la berenjena en dados de 2 cm, la cebolla y el pimiento en tiras y pica 2 ajos. Calienta 1,5 cucharadas de aceite en una sartén amplia a fuego fuerte y dora la berenjena 7 minutos, removiendo poco, hasta que esté tostada y tierna.",
+    "Añade la cebolla y el pimiento con el resto del aceite y cocina 6 minutos a fuego medio, hasta que se ablanden. Incorpora 2 ajos picados, el comino y el pimentón y remueve 30 segundos, hasta que huela intensamente.",
     "Vierte el tomate, sala y cuece 10 minutos a fuego suave, hasta que la salsa espese y la berenjena empiece a deshacerse.",
     "Haz 4 huecos con una cuchara, casca un huevo en cada uno, sala las claras, tapa y cuece a fuego bajo 6 o 7 minutos, hasta que las claras estén blancas y las yemas aún temblorosas.",
     "Mientras, mezcla el yogur con el último ajo rallado y una pizca de sal, y calienta las pitas en una sartén seca 1 minuto por lado.",
@@ -468,8 +468,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 9 minutos desde que el agua hierva, enfríalos en agua fría, pélalos y córtalos en rodajas.",
-    "Corta la berenjena en rodajas de 1 cm, sálalas y dóralas en una sartén con el aceite a fuego medio-alto 3 o 4 minutos por lado, hasta que estén doradas por fuera y cremosas por dentro. Escúrrelas sobre papel.",
+    "Cuece los huevos 9 minutos desde que el agua hierva; mientras, corta la berenjena en rodajas de 1 cm y sálalas. Enfría los huevos en agua fría, pélalos y córtalos en rodajas.",
+    "Dora las rodajas de berenjena en una sartén con el aceite a fuego medio-alto 3 o 4 minutos por lado, hasta que estén doradas por fuera y cremosas por dentro. Escúrrelas sobre papel.",
     "Prepara la salsa: bate el tahini con el zumo de medio limón, el ajo rallado, sal y agua fría a cucharadas, hasta que quede como una crema ligera y blanca.",
     "Pica en dados pequeños el tomate, el pepino y la cebolla, mezcla con el perejil picado, el zumo del otro medio limón, sal y el zumaque.",
     "Calienta las pitas en la sartén seca 30 segundos por lado y ábrelas en bolsillo.",
@@ -514,8 +514,8 @@ window.RECETAS_SEED.push({
     "Cubre el fondo de una fuente de barro pequeña con la mitad del tomate, la cebolla y los pimientos.",
     "Coloca el bloque de feta cortado en dos en el centro, cúbrelo con el resto del tomate y reparte las aceitunas. Espolvorea el orégano, la guindilla y pimienta y riega con el aceite. No añadas sal.",
     "Hornea 15 minutos, hasta que el tomate se ablande y la feta empiece a ablandarse por los bordes.",
-    "Saca la fuente, abre dos huecos entre las verduras, casca los huevos y hornea 8 minutos más, hasta que las claras estén cuajadas y la feta dorada en las puntas.",
-    "Tuesta el pan y sirve la cazuela en la mesa, aplastando un poco la feta con el tomate para mojar."
+    "Saca la fuente, abre dos huecos entre las verduras, casca los huevos y hornea 8 minutos más, hasta que las claras estén cuajadas y la feta dorada en las puntas. Mientras, tuesta el pan.",
+    "Sirve la cazuela en la mesa, aplastando un poco la feta con el tomate para mojar."
   ],
   nutricion: { kcal: 560, prot: 27, hc: 42, grasa: 32 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "verano"],
@@ -552,7 +552,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los espaguetis en agua con sal 1 minuto menos de lo que indique el paquete. Escúrrelos y déjalos templar 2 minutos.",
-    "Mientras, bate los huevos en un bol grande con el parmesano, el ajo rallado, la mitad de la albahaca picada, los tomates secos troceados, sal y abundante pimienta.",
+    "Mientras, pica las espinacas y bate los huevos en un bol grande con el parmesano, el ajo rallado, la mitad de la albahaca picada, los tomates secos troceados, sal y abundante pimienta.",
     "Mezcla la pasta con el huevo y las espinacas picadas, removiendo bien para que cada hebra quede cubierta.",
     "Calienta 1 cucharada de aceite en una sartén antiadherente de 22 cm a fuego medio, vierte la mezcla, aplánala y cocina 6 minutos, hasta que la base esté dorada y crujiente.",
     "Dale la vuelta con ayuda de un plato, añade el resto del aceite y cocina 4 o 5 minutos más, hasta que esté firme al presionar el centro.",
@@ -721,7 +721,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Parte las patatas por la mitad y ásalas con el aceite, el romero picado y sal 25 minutos, hasta que estén doradas.",
     "A falta de 10 minutos, añade a la bandeja los espárragos sin la parte leñosa, sacudiendo para que se impregnen del aceite.",
-    "Cuece los huevos 6 minutos y medio desde que el agua hierva, enfríalos en agua con hielo y pélalos con cuidado: la yema debe quedar cremosa.",
+    "Mientras se asan, cuece los huevos 6 minutos y medio desde que el agua hierva, enfríalos en agua con hielo y pélalos con cuidado: la yema debe quedar cremosa.",
     "Tuesta los piñones en una sartén seca 2 minutos, hasta que estén dorados, y resérvalos. En la misma sartén calienta la mantequilla hasta que huela a avellana y se ponga dorada; apaga y añade las alcaparras, la ralladura y el zumo de medio limón.",
     "Reparte las patatas y los espárragos en los platos, coloca encima los huevos abiertos por la mitad y riega con la mantequilla al limón.",
     "Termina con las lascas de parmesano, los piñones, sal en escamas y pimienta."
@@ -891,7 +891,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el yogur con la ralladura de medio limón, un chorrito de su zumo y una pizca de sal y reserva.",
+    "Lamina el ajo. Mezcla el yogur con la ralladura de medio limón, un chorrito de su zumo y una pizca de sal y reserva.",
     "Calienta 1,5 cucharadas de aceite en una sartén amplia a fuego medio-alto y dora los garbanzos bien secos 7 u 8 minutos, moviendo la sartén de vez en cuando, hasta que crujan y estén tostados.",
     "Baja el fuego, añade el ajo laminado, el comino y el pimentón y remueve 30 segundos, hasta que huela intensamente, sin que el ajo se queme.",
     "Incorpora las espinacas por tandas con una pizca de sal y remueve 2 minutos, hasta que se reduzcan. Exprime encima el resto del medio limón.",
@@ -976,7 +976,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Cuece la quinoa enjuagada en el doble de su volumen de agua con sal 12 minutos, tapada, y déjala reposar 5 minutos.",
-    "Corta el brócoli en ramilletes y el tallo pelado en rodajas. Mézclalo con 1 cucharada de aceite, un ajo laminado, la guindilla y sal y ásalo 15 minutos, hasta que tenga las puntas tostadas y esté tierno pero firme.",
+    "Mientras, corta el brócoli en ramilletes y el tallo pelado en rodajas. Mézclalo con 1 cucharada de aceite, un ajo laminado, la guindilla y sal y ásalo 15 minutos, hasta que tenga las puntas tostadas y esté tierno pero firme.",
     "Cuece los huevos 6 minutos y medio desde que el agua hierva, enfríalos en agua fría y pélalos.",
     "Pica las almendras y tuéstalas en una sartén con el pan rallado, el otro ajo rallado y el resto del aceite 2 o 3 minutos, hasta que estén doradas. Fuera del fuego añade la ralladura del limón.",
     "Aliña la quinoa con el zumo del limón, sal y pimienta y repártela en platos. Coloca encima el brócoli y los huevos abiertos por la mitad.",
@@ -1060,8 +1060,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pan en dados de 2 cm. Bate en un bol grande los huevos con la leche, el ajo rallado, el orégano, la mitad del parmesano, sal y pimienta.",
-    "Añade el pan y mezcla para que se empape. Deja reposar 20 minutos, removiendo un par de veces, hasta que el pan esté blando.",
-    "Precalienta el horno a 180 °C y pinta una fuente de unos 20 x 20 cm con el aceite.",
+    "Añade el pan y mezcla para que se empape. Deja reposar 20 minutos, removiendo un par de veces, hasta que el pan esté blando. Mientras, precalienta el horno a 180 °C, pinta una fuente de unos 20 x 20 cm con el aceite, pica las espinacas y parte los tomates por la mitad.",
     "Incorpora al bol las espinacas picadas, la mitad de los tomates partidos por la mitad, la mitad de la mozzarella troceada y casi toda la albahaca rota con las manos.",
     "Vierte en la fuente, reparte por encima el resto de los tomates, la mozzarella y el parmesano y hornea 35 minutos, hasta que esté hinchada, dorada y firme en el centro.",
     "Deja reposar 5 minutos y sirve con las últimas hojas de albahaca."

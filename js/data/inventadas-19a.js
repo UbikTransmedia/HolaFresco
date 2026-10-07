@@ -108,9 +108,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados de 2 cm, mézclalos en una bandeja con 1,5 cucharadas de aceite y una pizca de sal y ásalos 25 minutos, removiendo a mitad, hasta que estén dorados por fuera y cremosos por dentro.",
-    "Mientras, lamina el ajo y sofríelo con el resto del aceite y la guindilla en una sartén a fuego medio-bajo 2 minutos, sin que se queme.",
+    "Mientras, pon a hervir agua con sal para la pasta. Lamina el ajo y sofríelo con el resto del aceite y la guindilla en una sartén a fuego medio-bajo 2 minutos, sin que se queme.",
     "Añade el tomate triturado, sal y unos tallos de albahaca y cocina 15 minutos a fuego suave, hasta que la salsa espese. Retira los tallos.",
-    "Cuece los rigatoni 1 minuto menos de lo indicado y reserva un poco del agua de cocción.",
+    "Cuece los rigatoni en el agua hirviendo 1 minuto menos de lo indicado y reserva un poco del agua de cocción.",
     "Incorpora a la salsa dos tercios de la berenjena asada y la pasta escurrida con un chorrito de agua; mezcla 1 minuto a fuego medio, hasta que la salsa envuelva bien la pasta.",
     "Sirve con el resto de la berenjena por encima, cucharadas de ricotta, parmesano rallado, hojas de albahaca rotas con la mano y pimienta."
   ],
@@ -148,12 +148,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta. Pica un diente de ajo muy fino y lamina el otro. Parte los tomates cherry por la mitad y ralla la piel del limón.",
+    "Pon a hervir agua con sal para la pasta. Pica un diente de ajo muy fino y lamina el otro. Parte los tomates cherry por la mitad, ralla la piel del limón y pica el perejil.",
     "Haz las migas: en una sartén a fuego medio, tuesta el pan rallado con media cucharada de aceite, el ajo picado y el orégano 3-4 minutos, removiendo, hasta que esté dorado y crujiente. Reserva en un plato.",
     "Cuece los espaguetis 1 minuto menos de lo indicado y reserva un vaso de agua de cocción.",
     "En la misma sartén, calienta el resto del aceite y 1 cucharada del aceite de las sardinas con el ajo laminado y la guindilla. Añade los cherry y saltea 4-5 minutos a fuego vivo, hasta que empiecen a reventar y suelten su jugo.",
     "Incorpora las sardinas en trozos grandes, la pasta escurrida y medio vaso del agua reservada. Mezcla 1 minuto, hasta que se forme una salsa ligera.",
-    "Fuera del fuego añade la ralladura, un chorro de zumo de limón y el perejil picado. Sirve con las migas crujientes por encima en el último momento."
+    "Fuera del fuego añade la ralladura, un chorro de zumo de limón y el perejil. Sirve con las migas crujientes por encima en el último momento."
   ],
   nutricion: { kcal: 605, prot: 34, hc: 75, grasa: 19 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "despensa", "bajo en colesterol"],
@@ -191,9 +191,9 @@ window.RECETAS_SEED.push({
     "Pon a hervir agua con sal. Tuesta las nueces en una sartén seca a fuego medio 3 minutos, hasta que huelan; reserva unas pocas para servir.",
     "Tritura la rúcula con las nueces, el parmesano, el ajo, la ralladura y el zumo del medio limón, 2 cucharadas de aceite, sal y 2 cucharadas de agua fría hasta tener un pesto grueso.",
     "Cuece los fusilli según el paquete y reserva medio vaso de agua de cocción.",
-    "Mientras, corta la pechuga en filetes finos, salpimiéntala y hazla en la sartén con el resto del aceite a fuego fuerte 2-3 minutos por lado, hasta que esté dorada y jugosa. Córtala en tiras.",
+    "Mientras, corta la pechuga en filetes finos, salpimiéntala y hazla en la sartén con el resto del aceite a fuego fuerte 2-3 minutos por lado, hasta que esté dorada y jugosa. Córtala en tiras y parte los cherry por la mitad.",
     "Escurre la pasta, devuélvela a la olla fuera del fuego y mézclala con el pesto y un chorrito del agua de cocción, hasta que quede cremosa (sin fuego, para que la rúcula no se oscurezca).",
-    "Sirve con el pollo, los cherry partidos por la mitad y las nueces reservadas picadas por encima."
+    "Sirve con el pollo, los cherry y las nueces reservadas picadas por encima."
   ],
   nutricion: { kcal: 770, prot: 43, hc: 64, grasa: 38 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "verduras escondidas", "poco especiada"],
@@ -273,9 +273,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Pica fina la cebolla y el ajo.",
     "En una sartén apta para horno (o en una sartén normal y luego a una fuente), sofríe la cebolla en el aceite a fuego medio 5 minutos, hasta que esté blanda. Añade el ajo y el orzo y remueve 2 minutos, hasta que el orzo se nacare.",
-    "Agrega el tomate, el orégano, el caldo caliente, sal y pimienta. Lleva a ebullición y pasa al horno 15 minutos, sin tapar.",
+    "Agrega el tomate, el orégano, el caldo caliente, sal y pimienta. Lleva a ebullición y pasa al horno 15 minutos, sin tapar. Mientras, pica el eneldo.",
     "Saca la fuente, remueve, reparte las gambas por encima hundiéndolas un poco y desmenuza el feta encima. Hornea 8-10 minutos más, hasta que el orzo esté tierno, el líquido casi absorbido y las gambas rosadas.",
-    "Reposa 3 minutos fuera del horno. Termina con eneldo picado, ralladura de limón y un chorrito de su zumo."
+    "Reposa 3 minutos fuera del horno. Termina con el eneldo, ralladura de limón y un chorrito de su zumo."
   ],
   nutricion: { kcal: 630, prot: 39, hc: 67, grasa: 23 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "una sola sartén", "poco especiada"],
@@ -314,9 +314,9 @@ window.RECETAS_SEED.push({
     "Corta el pollo en dados de 2 cm y mézclalo con 1 cucharadita de orégano, la ralladura del limón, sal y pimienta. Corta las judías en trozos de 3 cm y pica la cebolla y el ajo.",
     "En una cazuela amplia con la mitad del aceite a fuego fuerte, dora el pollo 4 minutos, hasta que tome color por fuera. Sácalo y reserva.",
     "Baja a fuego medio, añade el resto del aceite, la cebolla y el ajo y cocina 3 minutos. Incorpora el orzo y tuéstalo 2 minutos removiendo, hasta que huela a pan tostado.",
-    "Vierte el caldo caliente con el resto del orégano, añade las judías y cuece tapado a fuego suave 8 minutos, removiendo un par de veces.",
+    "Vierte el caldo caliente con el resto del orégano, añade las judías y cuece tapado a fuego suave 8 minutos, removiendo un par de veces. Mientras, pica el perejil.",
     "Devuelve el pollo y cocina 3-4 minutos más destapado, hasta que el orzo esté tierno y el caldo casi absorbido.",
-    "Fuera del fuego, riega con el zumo de medio limón, prueba de sal y sirve con perejil picado."
+    "Fuera del fuego, riega con el zumo de medio limón, prueba de sal y sirve con el perejil."
   ],
   nutricion: { kcal: 470, prot: 37, hc: 58, grasa: 10 },
   etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "batch cooking", "ideal para llevar", "poco especiada", "bajo en colesterol"],
@@ -398,8 +398,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Corta el calabacín, el pimiento y la cebolla en dados de 2 cm.",
     "En una bandeja, mezcla las verduras y los garbanzos con el aceite, el zaatar, el comino y sal. Asa 25-30 minutos, removiendo a mitad, hasta que las verduras tengan bordes tostados y los garbanzos estén algo crujientes.",
     "Mientras, cuece el cuscús perlado en agua hirviendo con sal 8-10 minutos (o según el paquete), hasta que esté tierno pero entero. Escúrrelo.",
-    "Mezcla el yogur con el ajo rallado, la ralladura de medio limón, una pizca de sal y una cucharada de agua.",
-    "Junta el cuscús con las verduras y los garbanzos de la bandeja, el zumo de medio limón y las hierbas picadas. Prueba de sal.",
+    "Mezcla el yogur con el ajo rallado, la ralladura de medio limón, una pizca de sal y una cucharada de agua. Pica la menta y el perejil.",
+    "Junta el cuscús con las verduras y los garbanzos de la bandeja, el zumo de medio limón y las hierbas. Prueba de sal.",
     "Sirve tibio con el yogur por encima y una pizca extra de zaatar."
   ],
   nutricion: { kcal: 470, prot: 16, hc: 75, grasa: 12 },
@@ -437,7 +437,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pica la cebolla y el ajo y corta la berenjena en dados pequeños de 1 cm.",
+    "Precalienta el horno a 200 °C y pon a hervir agua con sal para la pasta. Pica la cebolla y el ajo y corta la berenjena en dados pequeños de 1 cm.",
     "En una sartén grande con el aceite a fuego medio-alto, dora el pavo picado 5 minutos, desmenuzándolo, hasta que pierda el color rosado. Añade la cebolla, el ajo y la berenjena con una pizca de sal y cocina 8 minutos, hasta que la berenjena esté blanda.",
     "Incorpora el tomate y el orégano y cocina a fuego suave 12 minutos, hasta que el ragú espese. Salpimienta.",
     "Mientras, cuece los macarrones 3 minutos menos de lo indicado (terminarán en el horno) y escúrrelos.",
@@ -481,7 +481,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Corta el calabacín, el pimiento y la cebolla en trozos de 2-3 cm.",
     "En una bandeja, mezcla las verduras, los cherry, los ajos con piel, las hojas de romero, el aceite, sal y pimienta. Asa 35 minutos, removiendo a mitad, hasta que estén tiernas y con bordes tostados.",
-    "Cuando falten 12 minutos, cuece los penne según el paquete y reserva un vaso de agua de cocción.",
+    "Cuando falten 20 minutos, pon a hervir agua con sal; cuando falten 12, cuece los penne según el paquete y reserva un vaso de agua de cocción.",
     "Saca la bandeja, aprieta los ajos asados para sacar la pulpa y aplástala con los cherry directamente en la bandeja, con el balsámico, para formar una salsa rústica.",
     "Añade la pasta escurrida a la bandeja con un chorrito de agua de cocción y mezcla hasta que todo quede bien impregnado.",
     "Sirve con el queso de cabra desmenuzado por encima, pimienta y albahaca."
@@ -561,11 +561,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece los rigatoni según el paquete. Reserva un vaso de agua de cocción.",
-    "Mientras, corta el rape en dados de 3 cm, sécalos con papel y salpimiéntalos. Lamina el ajo y parte los cherry por la mitad.",
+    "Mientras, corta el rape en dados de 3 cm, sécalos con papel y salpimiéntalos. Lamina el ajo, parte los cherry por la mitad y pica el perejil.",
     "En una sartén amplia, calienta el aceite a fuego medio-alto y marca el rape 2 minutos, dándole la vuelta, hasta que esté dorado por fuera pero crudo en el centro. Sácalo y reserva.",
     "En la misma sartén, dora el ajo 1 minuto, añade los cherry y cocina 4 minutos, hasta que empiecen a deshacerse. Vierte el vino y deja que se evapore 1 minuto.",
     "Añade las aceitunas, las alcaparras, el rape y la pasta escurrida con medio vaso de agua de cocción. Cocina 2 minutos removiendo con suavidad, hasta que el rape esté hecho y la salsa nape la pasta.",
-    "Termina con perejil picado, ralladura de limón y un chorrito de su zumo."
+    "Termina con el perejil, ralladura de limón y un chorrito de su zumo."
   ],
   nutricion: { kcal: 470, prot: 30, hc: 60, grasa: 12 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "una sola sartén", "poco especiada", "bajo en colesterol"],
@@ -599,9 +599,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta los piñones en una sartén seca a fuego medio 2-3 minutos, hasta que estén dorados. Deja enfriar.",
+    "Pon a hervir abundante agua con sal. Mientras, tuesta los piñones en una sartén seca a fuego medio 2-3 minutos, hasta que estén dorados. Deja enfriar.",
     "Tritura la albahaca con los piñones (reserva unos pocos), el ajo, el parmesano, el aceite, una pizca de sal y 1 cucharada de agua fría, con pulsos cortos, hasta tener un pesto grueso.",
-    "Pon a hervir abundante agua con sal. Pela la patata y córtala en dados de 1,5 cm; corta las judías en trozos de 3 cm.",
+    "Pela la patata y córtala en dados de 1,5 cm; corta las judías en trozos de 3 cm.",
     "Echa la patata al agua y, a los 5 minutos, añade la pasta. Cuando falten 5 minutos para que la pasta esté, agrega las judías.",
     "Reserva un vaso del agua de cocción y escurre todo. Mezcla en un bol con el pesto y 3-4 cucharadas del agua, hasta que la patata se deshaga un poco y lo vuelva todo cremoso.",
     "Sirve con los piñones reservados, pimienta y un poco más de parmesano si quieres."
@@ -641,12 +641,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Infusiona el azafrán en el caldo caliente mientras preparas lo demás. Pica fina la chalota y el ajo y corta el calabacín en bastones finos, como la pasta.",
-    "Pon a hervir agua con sal. En una sartén amplia con la mitad del aceite a fuego fuerte, saltea los langostinos salpimentados 1 minuto por lado, hasta que estén rosados. Sácalos.",
-    "Baja a fuego medio, añade el resto del aceite, la chalota y el ajo y pocha 3 minutos. Agrega el calabacín y saltea 2 minutos, hasta que esté tierno pero crujiente.",
+    "Pon a hervir agua con sal para la pasta. Infusiona el azafrán en el caldo caliente mientras preparas lo demás. Pica fina la chalota y el ajo y corta el calabacín en bastones finos, como la pasta. Pica el cebollino.",
+    "En una sartén amplia con la mitad del aceite a fuego fuerte, saltea los langostinos salpimentados 1 minuto por lado, hasta que estén rosados. Sácalos.",
+    "Echa los tagliatelle al agua hirviendo y cuécelos 1 minuto menos de lo indicado. Mientras, baja el fuego de la sartén a medio, añade el resto del aceite, la chalota y el ajo y pocha 3 minutos. Agrega el calabacín y saltea 2 minutos, hasta que esté tierno pero crujiente.",
     "Vierte el vino y deja evaporar 1 minuto; añade el caldo con azafrán y reduce 2 minutos.",
-    "Cuece los tagliatelle 1 minuto menos de lo indicado, pásalos a la sartén con un poco de agua de cocción y los langostinos, y mezcla 1 minuto, hasta que la salsa amarilla quede brillante y ligada.",
-    "Fuera del fuego, añade la ralladura de limón, unas gotas de zumo y el cebollino picado."
+    "Pasa los tagliatelle a la sartén con un poco de agua de cocción y los langostinos, y mezcla 1 minuto, hasta que la salsa amarilla quede brillante y ligada.",
+    "Fuera del fuego, añade la ralladura de limón, unas gotas de zumo y el cebollino."
   ],
   nutricion: { kcal: 450, prot: 34, hc: 56, grasa: 10 },
   etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "rápida", "poco especiada"],
@@ -690,7 +690,7 @@ window.RECETAS_SEED.push({
     "Pica muy fino la cebolla, la zanahoria, el apio, el ajo y el hinojo (guarda sus hojitas verdes). Machaca ligeramente las semillas de hinojo.",
     "En una cazuela con el aceite a fuego medio-alto, dora la carne salpimentada 6-8 minutos sin moverla mucho, hasta que esté bien tostada. Ese fondo es el sabor del ragú.",
     "Añade las verduras picadas y las semillas de hinojo y cocina 10 minutos a fuego medio, hasta que estén blandas y doradas.",
-    "Vierte el vino, rasca el fondo y deja reducir 3 minutos. Agrega el caldo, el romero y el laurel, tapa y cuece a fuego muy suave 1 hora y 20 minutos, removiendo de vez en cuando, hasta que la carne esté muy tierna y quede una salsa espesa. Si se seca, añade un poco de agua.",
+    "Vierte el vino, rasca el fondo y deja reducir 3 minutos. Agrega el caldo, el romero y el laurel, tapa y cuece a fuego muy suave 1 hora y 20 minutos, removiendo de vez en cuando, hasta que la carne esté muy tierna y quede una salsa espesa. Si se seca, añade un poco de agua. Cuando falten 15 minutos, pon a hervir agua con sal para la pasta.",
     "Cuece los rigatoni 1 minuto menos de lo indicado y reserva un vaso de agua de cocción. Retira el romero y el laurel del ragú.",
     "Mezcla la pasta con el ragú, la mitad del parmesano y un chorrito de agua de cocción 1-2 minutos a fuego medio, hasta que quede cremoso.",
     "Sirve con ralladura de limón, el resto del parmesano, pimienta y las hojitas de hinojo picadas."
@@ -731,7 +731,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 160 °C. Parte los tomates por la mitad a lo largo y colócalos con el corte hacia arriba en una fuente, con los ajos pelados entre ellos.",
     "Riega con el aceite, espolvorea sal, el azúcar, el orégano y las hojas de 2 ramas de tomillo. Hornea 80 minutos sin tocar, hasta que los tomates estén arrugados, concentrados y los ajos muy tiernos.",
-    "Mientras, mezcla la ricotta con las hojas de la última rama de tomillo, la ralladura del medio limón, sal y pimienta.",
+    "Mientras, mezcla la ricotta con las hojas de la última rama de tomillo, la ralladura del medio limón, sal y pimienta. Cuando falten unos 20 minutos de horno, pon a hervir agua con sal.",
     "Cuando falten 12 minutos de horno, cuece la pasta según el paquete y reserva un vaso de agua de cocción.",
     "Aplasta los tomates y los ajos en la propia fuente con un tenedor hasta tener una salsa rústica. Añade la pasta escurrida y un chorrito de agua de cocción y mezcla bien.",
     "Sirve con cucharadas de ricotta al tomillo y albahaca fresca."
@@ -770,13 +770,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el grill del horno a 220 °C. Mezcla la mayonesa con medio diente de ajo rallado y unas gotas de agua para hacer un alioli rápido y suave. Reserva en frío.",
+    "Precalienta el grill del horno a 220 °C. Mezcla la mayonesa con medio diente de ajo rallado y unas gotas de agua para hacer un alioli rápido y suave. Reserva en frío. Trocea las setas y pica el resto del ajo y el perejil.",
     "En una paella o sartén amplia apta para horno, tuesta los fideos en seco (o con unas gotas de aceite) a fuego medio 4-5 minutos, removiendo sin parar, hasta que estén dorados como avellanas. Sácalos.",
-    "Añade el aceite y dora la butifarra desmenuzada 4 minutos, hasta que tome color. Agrega las setas troceadas y saltea 4 minutos a fuego fuerte, hasta que pierdan el agua.",
-    "Incorpora el resto del ajo picado, cocina 30 segundos, añade el tomate rallado y sofríe 3 minutos, hasta que pierda el agua. Aparta del fuego, añade el pimentón y remueve.",
+    "Añade el aceite y dora la butifarra desmenuzada 4 minutos, hasta que tome color. Agrega las setas y saltea 4 minutos a fuego fuerte, hasta que pierdan el agua.",
+    "Incorpora el ajo picado, cocina 30 segundos, añade el tomate rallado y sofríe 3 minutos, hasta que pierda el agua. Aparta del fuego, añade el pimentón y remueve.",
     "Vuelve a poner al fuego, añade los fideos tostados, mezcla y vierte el caldo caliente. Cuece a fuego medio-alto 8-9 minutos sin remover, hasta que el caldo se haya absorbido casi por completo.",
     "Mete la sartén bajo el grill 3-4 minutos, hasta que los fideos se levanten de punta y queden crujientes por arriba.",
-    "Reposa 3 minutos y sirve con perejil picado y el alioli aparte."
+    "Reposa 3 minutos y sirve con el perejil y el alioli aparte."
   ],
   nutricion: { kcal: 730, prot: 26, hc: 67, grasa: 40 },
   etiquetas: ["mediterránea", "aromática", "invierno", "una sola sartén", "poco especiada"],
@@ -812,7 +812,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C con grill. Pica la cebolla, el pimiento y el ajo.",
+    "Precalienta el horno a 200 °C con grill y pon a hervir agua con sal para la pasta. Pica la cebolla, el pimiento y el ajo.",
     "En una sartén grande con el aceite a fuego medio, dora el chorizo 3 minutos, hasta que suelte su grasa roja. Añade la cebolla y el pimiento y pocha 8 minutos, hasta que estén blandos; agrega el ajo 1 minuto más.",
     "Aparta del fuego, añade el pimentón y remueve. Incorpora el tomate y el orégano y cocina 10 minutos a fuego suave, hasta que la salsa espese.",
     "Mientras, cuece los macarrones 2 minutos menos de lo indicado y escúrrelos.",
@@ -858,9 +858,9 @@ window.RECETAS_SEED.push({
     "Pica fina la cebolla, el pimiento y el ajo. Calienta el caldo con el azafrán en otro cazo.",
     "En una cazuela con el aceite a fuego medio, pocha la cebolla y el pimiento 8 minutos, hasta que estén blandos. Añade el ajo 1 minuto y luego el tomate rallado; sofríe 5 minutos, hasta que se oscurezca y pierda el agua.",
     "Aparta del fuego, añade el pimentón, remueve 10 segundos y vierte enseguida el caldo caliente. Lleva a ebullición.",
-    "Echa los fideos y cuece a fuego medio el tiempo que indique el paquete menos 3 minutos, removiendo de vez en cuando.",
+    "Echa los fideos y cuece a fuego medio el tiempo que indique el paquete menos 3 minutos, removiendo de vez en cuando. Mientras, pica el perejil.",
     "Añade las almejas y los tacos de merluza salados, tapa y cuece 3-4 minutos a fuego suave, hasta que las almejas se abran y la merluza esté blanca y se separe en lascas. Desecha las almejas que no se abran.",
-    "Prueba de sal, espolvorea perejil picado y sirve enseguida, con un gajo de limón, antes de que los fideos absorban todo el caldo."
+    "Prueba de sal, espolvorea el perejil y sirve enseguida, con un gajo de limón, antes de que los fideos absorban todo el caldo."
   ],
   nutricion: { kcal: 465, prot: 37, hc: 58, grasa: 9.5 },
   etiquetas: ["mediterránea", "ligera", "aromática", "de cuchara", "invierno", "poco especiada"],
@@ -899,12 +899,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el yogur con un diente de ajo rallado y una pizca de sal. Déjalo fuera de la nevera mientras cocinas para que no enfríe la pasta.",
-    "Pica fina la cebolla y el otro ajo. En una sartén a fuego medio-alto (sin aceite, el cordero suelta grasa), dora el cordero picado 5 minutos, desmenuzándolo, hasta que esté tostado.",
+    "Mezcla el yogur con un diente de ajo rallado y una pizca de sal. Déjalo fuera de la nevera mientras cocinas para que no enfríe la pasta. Pon a hervir agua con sal para la pasta.",
+    "Pica fina la cebolla y el otro ajo y pica el perejil. En una sartén a fuego medio-alto (sin aceite, el cordero suelta grasa), dora el cordero picado 5 minutos, desmenuzándolo, hasta que esté tostado.",
     "Añade la cebolla y el ajo y cocina 5 minutos, hasta que estén blandos. Incorpora el tomate concentrado, el comino, la canela, sal, pimienta y 4 cucharadas de agua; cocina 3 minutos más, hasta que quede jugoso.",
     "Cuece la pasta según el paquete y escúrrela reservando un chorrito de agua.",
     "En un cazo pequeño, funde la mantequilla a fuego suave hasta que espume, aparta del fuego y añade los dos pimentones y la menta seca. Remueve 20 segundos: debe quedar roja y perfumada, sin quemarse.",
-    "Reparte la pasta en los platos, cubre con el yogur al ajo, luego el cordero, y riega con la mantequilla de pimentón. Termina con perejil picado."
+    "Reparte la pasta en los platos, cubre con el yogur al ajo, luego el cordero, y riega con la mantequilla de pimentón. Termina con el perejil."
   ],
   nutricion: { kcal: 740, prot: 30, hc: 69, grasa: 38 },
   etiquetas: ["mediterránea", "aromática", "invierno", "sin verduras"],
@@ -942,12 +942,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, el pimiento y el ajo. Machaca ligeramente la alcaravea.",
+    "Pon a hervir agua con sal para la pasta. Pica la cebolla, el pimiento, el ajo y el cilantro. Machaca ligeramente la alcaravea.",
     "En una sartén honda con el aceite a fuego medio, pocha la cebolla y el pimiento 8 minutos, hasta que estén blandos. Añade el ajo, la harissa, el comino y la alcaravea y remueve 1 minuto, hasta que huela intensamente.",
     "Incorpora el tomate, los garbanzos, sal y un vaso pequeño de agua. Cocina 10 minutos a fuego suave, hasta que la salsa espese.",
     "Mientras, cuece los penne 2 minutos menos de lo indicado y escúrrelos reservando un poco de agua.",
     "Mezcla la pasta con la salsa y un chorrito de agua. Haz dos huecos, casca un huevo en cada uno, tapa y cocina 5-6 minutos a fuego suave, hasta que la clara esté cuajada y la yema aún líquida.",
-    "Sirve con cilantro picado y un chorrito de limón."
+    "Sirve con el cilantro y un chorrito de limón."
   ],
   nutricion: { kcal: 620, prot: 26, hc: 87, grasa: 19 },
   etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "vegetariana"],
@@ -984,9 +984,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece los linguine según el paquete. Reserva un vaso de agua de cocción.",
-    "Haz la gremolata: pica muy fino el perejil, un diente de ajo, las alcaparras y la ralladura del limón, y mézclalo todo.",
+    "Haz la gremolata: pica muy fino el perejil, un diente de ajo, las alcaparras y la ralladura del limón, y mézclalo todo. Lamina el otro ajo y parte los cherry por la mitad.",
     "Seca muy bien el calamar con papel. En una sartén con 1 cucharada de aceite muy caliente, saltea el calamar salpimentado 1-2 minutos, hasta que se vuelva blanco y opaco (más tiempo lo endurece). Sácalo.",
-    "Baja a fuego medio, añade el resto del aceite, el otro ajo laminado, la guindilla y los cherry partidos y cocina 3 minutos. Vierte el vino y deja evaporar 1 minuto.",
+    "Baja a fuego medio, añade el resto del aceite, el ajo laminado, la guindilla y los cherry y cocina 3 minutos. Vierte el vino y deja evaporar 1 minuto.",
     "Añade la pasta escurrida, el calamar y medio vaso de agua de cocción; saltea 1 minuto, hasta que quede jugosa.",
     "Fuera del fuego, mezcla con la mitad de la gremolata y un chorrito de zumo de limón; sirve con el resto por encima."
   ],
@@ -1025,11 +1025,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta y, en un cazo aparte, agua con el vinagre para los huevos. Pica la cebolleta y el ajo.",
+    "Pon a hervir agua con sal para la pasta y, en un cazo aparte, agua con el vinagre para los huevos. Pica la cebolleta, el ajo y la menta.",
     "Cuece la pasta según el paquete; en los 3 últimos minutos añade las habas congeladas a la misma olla. Reserva un vaso de agua de cocción y escurre.",
     "Mientras, en una sartén con el aceite a fuego medio, pocha la cebolleta y el ajo 4 minutos. Añade las alcachofas y dóralas 4 minutos, hasta que tengan bordes tostados.",
     "Escalfa los huevos: con el agua del cazo apenas temblando, haz un remolino, echa cada huevo y cuécelo 3 minutos, hasta que la clara cuaje y la yema siga líquida. Sácalos con una espumadera.",
-    "Añade la pasta y las habas a la sartén con medio vaso de agua de cocción, la ralladura del limón y la mitad de la menta picada. Mezcla 1 minuto, hasta que quede jugosa.",
+    "Añade la pasta y las habas a la sartén con medio vaso de agua de cocción, la ralladura del limón y la mitad de la menta. Mezcla 1 minuto, hasta que quede jugosa.",
     "Sirve con un huevo poché encima de cada plato, el parmesano rallado, el resto de la menta, unas gotas de zumo de limón y pimienta."
   ],
   nutricion: { kcal: 475, prot: 24, hc: 62, grasa: 14.5 },

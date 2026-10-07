@@ -79,8 +79,8 @@ window.RECETAS_SEED.push({
     "Corta la pechuga en tiras de un dedo y mézclala en un bol con el zaatar, 1 cucharada de aceite, la ralladura de medio limón, sal y pimienta. Déjala mientras preparas lo demás.",
     "Lleva el caldo a ebullición, viértelo sobre el cuscús con una pizca de sal, tapa y deja reposar 5 minutos. Luego desgránalo con un tenedor y aliña con la otra cucharada de aceite y el zumo de medio limón.",
     "Ralla el ajo sobre el yogur, añade una pizca de sal y unas hojas de menta picada y mezcla.",
-    "Calienta una sartén a fuego fuerte y dora el pollo 5–6 minutos, dándole la vuelta a mitad, hasta que esté dorado por fuera y jugoso por dentro.",
-    "Corta el pepino y el tomate en dados y pica el perejil y el resto de la menta. Mézclalos con el cuscús.",
+    "Calienta una sartén a fuego fuerte y dora el pollo 5–6 minutos, dándole la vuelta a mitad, hasta que esté dorado por fuera y jugoso por dentro. Mientras se dora, corta el pepino y el tomate en dados y pica el perejil y el resto de la menta.",
+    "Mezcla el pepino, el tomate y las hierbas con el cuscús.",
     "Sirve el cuscús con el pollo encima, una cucharada generosa de yogur al ajo, el zumaque espolvoreado y un gajo de limón."
   ],
   nutricion: { kcal: 545, prot: 42, hc: 60, grasa: 15 },
@@ -124,7 +124,7 @@ window.RECETAS_SEED.push({
     "Pica la cebolleta y lamina los ajos. En una sartén amplia con 1 cucharada de aceite, póchalos a fuego medio 3 minutos, hasta que estén blandos, con la guindilla si te gusta.",
     "Añade los tomates cherry partidos por la mitad y el orégano y cocina 3 minutos, hasta que empiecen a soltar jugo. Vierte el vino y deja que se evapore el alcohol 1 minuto.",
     "Incorpora el bulgur, remueve para que se impregne y añade el caldo caliente con una pizca de sal. Tapa y cuece a fuego suave 10–12 minutos, hasta que el grano esté tierno y haya absorbido el líquido.",
-    "Mientras, seca los langostinos, sálalos y mézclalos con la ralladura del limón y la otra cucharada de aceite.",
+    "Mientras, seca los langostinos, sálalos y mézclalos con la ralladura del limón y la otra cucharada de aceite. Pica el perejil.",
     "Coloca los langostinos sobre el bulgur, tapa y deja 3 minutos a fuego suave, hasta que estén rosados y opacos.",
     "Apaga, desmenuza el feta por encima, añade el perejil picado, un buen chorro de zumo de limón y pimienta. Sirve directamente de la sartén."
   ],
@@ -207,10 +207,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon los mejillones en una cazuela con el vino, tapa y cuece a fuego fuerte 3–4 minutos, moviendo la cazuela, hasta que se abran. Sácalos, cuela el jugo con un colador fino y reserva. Desecha los que no se hayan abierto.",
+    "Pica la chalota y el ajo y ralla el tomate. Pon los mejillones en una cazuela con el vino, tapa y cuece a fuego fuerte 3–4 minutos, moviendo la cazuela, hasta que se abran. Sácalos, cuela el jugo con un colador fino y reserva. Desecha los que no se hayan abierto.",
     "Separa la carne de casi todos los mejillones (deja unos cuantos en su concha para decorar).",
     "En la misma cazuela, con el aceite, sofríe a fuego medio la chalota y el ajo picados 3 minutos. Añade el tomate rallado y la guindilla y cocina 4 minutos, hasta que espese. Retira del fuego, incorpora el pimentón y remueve.",
-    "Añade el bulgur y el jugo de los mejillones completado con agua hasta 300 ml. Prueba antes de salar: el jugo ya es salado. Tapa y cuece a fuego suave 12 minutos, hasta que el grano esté tierno.",
+    "Añade el bulgur y el jugo de los mejillones completado con agua hasta 300 ml. Prueba antes de salar: el jugo ya es salado. Tapa y cuece a fuego suave 12 minutos, hasta que el grano esté tierno. Mientras, pica el perejil.",
     "Incorpora la carne de los mejillones, tapa 1 minuto para que se calienten y termina con mucho perejil picado, ralladura y un chorro de limón."
   ],
   nutricion: { kcal: 440, prot: 28, hc: 58, grasa: 10 },
@@ -249,7 +249,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el hinojo en láminas finas (guarda las barbas verdes) y el limón en dos: una mitad en rodajas finas y la otra para zumo.",
+    "Corta el hinojo en láminas finas (guarda las barbas verdes), lamina el ajo y corta el limón en dos: una mitad en rodajas finas y la otra para zumo.",
     "En una sartén con tapa, calienta el aceite a fuego medio y saltea el hinojo con el ajo laminado y las semillas de hinojo 5 minutos, hasta que esté tierno y algo dorado.",
     "Añade las aceitunas y el vino, deja evaporar 1 minuto y coloca encima los lomos de merluza salpimentados, con las rodajas de limón sobre ellos.",
     "Tapa y cocina a fuego suave 6–7 minutos, hasta que la merluza esté opaca y se separe en lascas al presionarla.",
@@ -295,7 +295,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y el pimiento en dados pequeños. En una sartén honda con el aceite, póchalos a fuego medio-alto 5 minutos, hasta que la cebolla esté transparente.",
+    "Pica la cebolla y el pimiento en dados pequeños y pica el ajo. En una sartén honda con el aceite, póchalos a fuego medio-alto 5 minutos, hasta que la cebolla esté transparente.",
     "Sube el fuego, añade el pavo y deshazlo con la cuchara; cocina 4 minutos, hasta que pierda el color rosado y empiece a dorarse.",
     "Agrega el ajo picado, el comino, el pimentón y el tomate concentrado y remueve 1 minuto, hasta que huela intensamente a especias.",
     "Incorpora el bulgur y el caldo caliente, sala, tapa y cuece a fuego suave 10–12 minutos, hasta que absorba el líquido. Apaga y deja reposar 2 minutos tapado.",
@@ -339,7 +339,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Seca muy bien los garbanzos con papel de cocina. Saltéalos en una sartén con 1,5 cucharadas de aceite a fuego medio-alto 8 minutos, moviendo de vez en cuando, hasta que estén dorados y crujientes por fuera.",
-    "Mientras, hidrata el cuscús con el caldo hirviendo, la ralladura de la naranja y una pizca de sal, tapado, 5 minutos.",
+    "Mientras, hidrata el cuscús con el caldo hirviendo, la ralladura de la naranja y una pizca de sal, tapado, 5 minutos. Trocea las almendras, lamina el ajo y pica el perejil.",
     "Cuando los garbanzos estén crujientes, añade las almendras troceadas y el ajo laminado y saltea 1 minuto más. Apaga y espolvorea el pimentón y el comino; remueve para que se impregnen sin quemarse.",
     "En la misma sartén caliente y fuera del fuego, echa las espinacas y remueve 1 minuto hasta que se ablanden.",
     "Pela la naranja a lo vivo y córtala en gajos. Desgrana el cuscús, alíñalo con el resto del aceite y el zumo que suelte la naranja y mézclalo con las espinacas.",
@@ -425,7 +425,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla grueso uno de los calabacines y corta el otro en dados pequeños. Tuesta los piñones en una sartén seca 2 minutos y resérvalos; en la misma sartén, dora los dados de calabacín con 1 cucharada de aceite y sal 5 minutos a fuego fuerte. Reserva.",
+    "Ralla grueso uno de los calabacines, corta el otro en dados pequeños y pica la chalota y el ajo. Tuesta los piñones en una sartén seca 2 minutos y resérvalos; en la misma sartén, dora los dados de calabacín con 1 cucharada de aceite y sal 5 minutos a fuego fuerte. Reserva.",
     "En una cazuela, sofríe la chalota y el ajo picados con el resto del aceite 3 minutos a fuego medio. Añade el arroz y nácaralo 1 minuto, hasta que los bordes se vuelvan translúcidos.",
     "Vierte el vino y deja que se evapore. Añade el calabacín rallado y la mitad del caldo caliente, sala ligeramente y cuece a fuego medio-suave 8 minutos, removiendo solo cada 2–3 minutos.",
     "Ve añadiendo el resto del caldo en dos veces y cocina 8–10 minutos más, hasta que el grano esté tierno pero con un punto firme en el centro y el conjunto quede suelto, como una ola.",
@@ -468,11 +468,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las alcachofas quitando las hojas duras, córtalas en octavos y frótalas con limón para que no se oscurezcan.",
+    "Limpia las alcachofas quitando las hojas duras, córtalas en octavos y frótalas con limón para que no se oscurezcan. Pica 2 ajos y ralla el tomate.",
     "En una sartén ancha o paellera con 1 cucharada de aceite, tuesta los fideos a fuego medio 3–4 minutos, removiendo, hasta que tomen color avellana. Retíralos.",
     "Añade el resto del aceite y dora el pollo salado a fuego fuerte 5 minutos. Incorpora las alcachofas y el romero y saltea 3 minutos más.",
     "Agrega 2 ajos picados y el tomate rallado y cocina 4 minutos, hasta que el sofrito se oscurezca. Aparta, añade el pimentón y el azafrán y remueve 20 segundos.",
-    "Vierte el caldo caliente, prueba de sal, incorpora los fideos repartidos y cuece a fuego medio-fuerte sin remover 8–9 minutos, hasta que se absorba el caldo.",
+    "Vierte el caldo caliente, prueba de sal, incorpora los fideos repartidos y cuece a fuego medio-fuerte sin remover 8–9 minutos, hasta que se absorba el caldo. Si vas a usar el grill, enciéndelo ahora para que esté muy caliente.",
     "Para que las puntas se ricen, mete la sartén 3 minutos bajo el grill del horno muy caliente o termina 1 minuto a fuego fuerte. Deja reposar 3 minutos.",
     "Mientras, mezcla la mayonesa con el ajo restante rallado, la ralladura del limón y unas gotas de zumo. Sirve la fideuá con el alioli de limón."
   ],
@@ -511,7 +511,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las alcachofas, córtalas en cuartos y frótalas con el limón.",
+    "Limpia las alcachofas, córtalas en cuartos y frótalas con el limón. Pica la cebolla y ralla el tomate.",
     "En una cazuela baja con 2 cucharadas de aceite, dora la sepia salada a fuego fuerte 5 minutos, hasta que suelte su agua y empiece a caramelizarse.",
     "Añade las alcachofas y la cebolla picada y cocina 5 minutos a fuego medio. Incorpora el tomate rallado y sofríe 4 minutos más, hasta que se reduzca. Aparta del fuego, añade el pimentón y remueve.",
     "Agrega el arroz, nacáralo 1 minuto y vierte 700 ml de caldo caliente. Cuece a fuego medio 16–17 minutos, removiendo de vez en cuando y añadiendo el resto del caldo si se queda seco: debe quedar meloso, con caldo espeso que lo envuelva.",
@@ -554,7 +554,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz en un colador bajo el grifo hasta que el agua salga casi clara y déjalo escurrir.",
+    "Lava el arroz en un colador bajo el grifo hasta que el agua salga casi clara y déjalo escurrir. Pica la cebolla y el ajo y pon el caldo a calentar.",
     "Salpimienta el pollo con la mitad del orégano y la ralladura del limón. Dóralo en una cazuela con el aceite a fuego fuerte 5 minutos, hasta que tome color. Retíralo.",
     "En la misma grasa, pocha la cebolla picada 5 minutos a fuego medio, hasta que esté transparente. Añade el ajo picado y el resto del orégano y remueve 30 segundos.",
     "Incorpora el arroz y remueve 1 minuto para que se impregne. Añade el caldo caliente, el zumo de medio limón, las aceitunas y el pollo con su jugo; prueba de sal.",
@@ -598,10 +598,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el farro en abundante agua con sal 25–30 minutos, hasta que esté tierno pero con un mordisco agradable. Escúrrelo.",
-    "Mientras, limpia las setas con papel y trocéalas. Calienta una sartén grande con el aceite a fuego fuerte y saltéalas sin moverlas los primeros 3 minutos, hasta que se doren; luego remueve 3 minutos más.",
-    "Añade la chalota y el ajo picados y las hojas de tomillo y cocina 2 minutos a fuego medio. Incorpora las espinacas y remueve hasta que se ablanden.",
+    "Mientras, limpia las setas con papel y trocéalas, y pica la chalota y el ajo. Calienta una sartén grande con el aceite a fuego fuerte y saltéalas sin moverlas los primeros 3 minutos, hasta que se doren; luego remueve 3 minutos más.",
+    "Añade la chalota y el ajo picados y las hojas de tomillo y cocina 2 minutos a fuego medio. Incorpora las espinacas y remueve hasta que se ablanden. Pon a calentar agua con el vinagre en un cazo para los huevos.",
     "Agrega el farro escurrido, la ralladura del limón y la mitad del parmesano, mezcla 1 minuto y prueba de sal.",
-    "Para escalfar los huevos, hierve agua con el vinagre en un cazo, baja a fuego suave, crea un remolino y desliza cada huevo cascado en una taza. Cuécelos 3 minutos, hasta que la clara cuaje y la yema siga líquida.",
+    "Para escalfar los huevos, cuando el agua hierva, baja a fuego suave, crea un remolino y desliza cada huevo cascado en una taza. Cuécelos 3 minutos, hasta que la clara cuaje y la yema siga líquida.",
     "Sirve el farro con el huevo encima, el resto del parmesano, pimienta y unas gotas de limón."
   ],
   nutricion: { kcal: 450, prot: 22, hc: 58, grasa: 14 },
@@ -641,7 +641,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca la burrata de la nevera. En una sartén con 1 cucharada de aceite, cocina los tomates cherry enteros con 1 ajo laminado y sal a fuego medio-alto 8 minutos, hasta que la piel se arrugue y estallen. Reserva.",
+    "Saca la burrata de la nevera. En una sartén con 1 cucharada de aceite, cocina los tomates cherry enteros con 1 ajo laminado y sal a fuego medio-alto 8 minutos, hasta que la piel se arrugue y estallen. Mientras, pica la cebolla y el otro ajo. Reserva los tomates.",
     "En una cazuela con el resto del aceite, pocha la cebolla y el otro ajo picados 4 minutos. Añade el arroz y nacáralo 1 minuto.",
     "Vierte el vino y deja evaporar. Añade el tomate triturado, sala ligeramente y remueve 2 minutos, hasta que se pegue al grano.",
     "Ve añadiendo el caldo caliente por cazos, removiendo de vez en cuando, durante 16–18 minutos, hasta que el arroz esté al dente y cremoso.",
@@ -684,7 +684,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela los langostinos dejando las colas aparte. En una paellera o sartén ancha con el aceite, dora las cabezas y cáscaras a fuego fuerte 3 minutos, aplastándolas para que suelten su jugo. Retíralas.",
-    "Corta los espárragos en trozos de 3 cm, reservando las puntas. Saltea los tallos en la misma sartén 3 minutos.",
+    "Corta los espárragos en trozos de 3 cm, reservando las puntas, pica el ajo y ralla el tomate. Saltea los tallos en la misma sartén 3 minutos.",
     "Añade el ajo picado y el tomate rallado y sofríe 4 minutos, hasta que espese. Aparta del fuego, añade el pimentón y el azafrán y remueve 20 segundos.",
     "Incorpora el arroz, remueve 1 minuto y vierte el caldo caliente. Prueba de sal y cuece a fuego medio-fuerte 10 minutos sin remover.",
     "Reparte por encima las puntas de espárrago y las colas de langostino saladas, baja el fuego y cocina 7–8 minutos más, hasta que el caldo se absorba y el grano esté en su punto. Sube el fuego el último minuto para crear un poco de socarrat.",
@@ -727,7 +727,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y dóralo en una cazuela con 1 cucharada de aceite a fuego fuerte 4 minutos. Retíralo.",
+    "Lamina los champiñones, corta el puerro en rodajas finas y pica el ajo. Salpimienta el pollo y dóralo en una cazuela con 1 cucharada de aceite a fuego fuerte 4 minutos. Retíralo.",
     "Añade el resto del aceite y los champiñones laminados y saltéalos 4 minutos, hasta que se doren. Incorpora el puerro en rodajas finas, el ajo y las hojas de tomillo y pocha 4 minutos a fuego medio.",
     "Agrega el arroz y nacáralo 1 minuto. Vierte el vino y deja evaporar.",
     "Añade el caldo caliente en tres tandas, removiendo cada 2–3 minutos, durante 16–18 minutos. A mitad de cocción, devuelve el pollo a la cazuela.",
@@ -770,9 +770,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y corta el hinojo en dados pequeños (guarda las barbas). Póchalos en una cazuela con el aceite a fuego medio 6 minutos, hasta que estén tiernos.",
+    "Pica la cebolla y corta el hinojo en dados pequeños (guarda las barbas). Póchalos en una cazuela con el aceite a fuego medio 6 minutos, hasta que estén tiernos. Mientras, pica el ajo y ralla el tomate.",
     "Añade el ajo picado y el tomate rallado y cocina 5 minutos, hasta que el sofrito se oscurezca. Aparta del fuego, incorpora el pimentón y el azafrán y remueve.",
-    "Agrega el arroz, remueve 1 minuto y vierte el caldo caliente con la tira de piel de naranja. Prueba de sal y cuece a fuego medio 12 minutos.",
+    "Agrega el arroz, remueve 1 minuto y vierte el caldo caliente con la tira de piel de naranja. Prueba de sal y cuece a fuego medio 12 minutos. Mientras, pica el perejil y las barbas de hinojo.",
     "Incorpora la merluza salada y cocina 5–6 minutos más, sin remover para que no se rompa, hasta que el arroz esté tierno y el pescado opaco.",
     "Retira la piel de naranja, apaga y deja reposar 2 minutos: el arroz debe quedar nadando en caldo. Sirve en plato hondo con perejil y las barbas de hinojo picadas."
   ],
@@ -813,11 +813,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Adoba el pollo con sal, pimienta, la mitad del orégano, la ralladura y el zumo de medio limón.",
+    "Precalienta el horno a 200 °C. Adoba el pollo con sal, pimienta, la mitad del orégano, la ralladura y el zumo de medio limón. Pica la cebolla y lamina el ajo.",
     "En una sartén apta para horno (o cazuela de barro) con el aceite, dora el pollo a fuego fuerte 5 minutos por todas las caras. Retíralo.",
     "Pocha la cebolla picada 5 minutos a fuego medio. Añade el ajo laminado, el resto del orégano y el tomate triturado y cocina 5 minutos, hasta que se reduzca.",
     "Incorpora el arroz y remueve 1 minuto. Vierte el caldo caliente, prueba de sal y reparte encima el pollo, las aceitunas y el otro medio limón en rodajas finas.",
-    "Hornea sin tapar 20–22 minutos, hasta que el arroz absorba el caldo y el pollo esté dorado por arriba.",
+    "Hornea sin tapar 20–22 minutos, hasta que el arroz absorba el caldo y el pollo esté dorado por arriba. Mientras, pica el perejil.",
     "Saca del horno, desmenuza el feta por encima, cubre con un paño 5 minutos y sirve con perejil picado."
   ],
   nutricion: { kcal: 760, prot: 44, hc: 80, grasa: 30 },
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta la berenjena en dados de 2 cm y la cebolla en gajos finos. Mézclalos en una fuente con los tomates cherry, el aceite, el orégano, sal y pimienta.",
-    "Asa 15 minutos, hasta que la berenjena empiece a dorarse y los tomates se arruguen.",
+    "Asa 15 minutos, hasta que la berenjena empiece a dorarse y los tomates se arruguen. Mientras, lamina el ajo.",
     "Saca la fuente, añade el farro lavado, el ajo laminado, el tomate triturado y el caldo caliente. Mezcla, prueba de sal y cubre bien con papel de aluminio.",
     "Baja el horno a 190 °C y hornea 30–35 minutos, hasta que el farro esté tierno y haya absorbido casi todo el líquido.",
     "Destapa, reparte la mozzarella en trozos y gratina 5–8 minutos, hasta que se funda y burbujee.",
@@ -899,11 +899,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C con calor arriba y abajo.",
+    "Precalienta el horno a 210 °C con calor arriba y abajo. Mientras se calienta, lamina los ajos, pica la cebolla, ralla el tomate y corta los piquillos en tiras.",
     "En una sartén apta para horno o cazuela de barro con el aceite, dora los ajos laminados a fuego suave 1 minuto, hasta que estén dorados, y retíralos.",
     "En ese aceite perfumado, pocha la cebolla picada 5 minutos. Añade el tomate rallado y cocina 4 minutos. Aparta del fuego e incorpora el pimentón.",
     "Agrega el arroz, remueve 1 minuto y vierte el caldo caliente. Prueba de sal con cuidado, porque el bacalao aporta salinidad.",
-    "Reparte por encima los tacos de bacalao, los piquillos en tiras, las aceitunas y los ajos dorados. Hornea 18–20 minutos, hasta que el arroz esté seco y suelto.",
+    "Reparte por encima los tacos de bacalao, los piquillos en tiras, las aceitunas y los ajos dorados. Hornea 18–20 minutos, hasta que el arroz esté seco y suelto. Mientras, pica el perejil.",
     "Saca, cubre con un paño 5 minutos y sirve con perejil picado y unas gotas de limón."
   ],
   nutricion: { kcal: 470, prot: 34, hc: 62, grasa: 9 },
@@ -942,7 +942,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Sazona el salmón con sal, pimienta y la ralladura del limón.",
+    "Precalienta el horno a 190 °C. Sazona el salmón con sal, pimienta y la ralladura del limón. Corta el puerro en rodajas finas y pica el ajo.",
     "En una cazuela apta para horno con el aceite, pocha el puerro en rodajas finas y el ajo picado a fuego medio 6 minutos, hasta que estén muy tiernos.",
     "Añade el arroz, remueve 1 minuto y vierte el vino; deja evaporar. Agrega el caldo caliente, prueba de sal y lleva a ebullición.",
     "Tapa la cazuela y hornea 15 minutos.",
@@ -988,7 +988,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el cordero y dóralo en una cazuela con el aceite a fuego fuerte, en dos tandas, 5 minutos, hasta que esté bien tostado.",
+    "Corta la cebolla en juliana y pica el ajo. Salpimienta el cordero y dóralo en una cazuela con el aceite a fuego fuerte, en dos tandas, 5 minutos, hasta que esté bien tostado.",
     "Baja el fuego, añade la cebolla en juliana y pocha 8 minutos, hasta que esté dorada. Incorpora el ajo, el comino, el cilantro y la canela y remueve 30 segundos.",
     "Vierte 280 ml del caldo, tapa y cuece a fuego suave 35 minutos, hasta que el cordero esté tierno al pincharlo.",
     "Mientras, lava el basmati hasta que el agua salga clara y escúrrelo. Tuesta los pistachos en una sartén seca 2 minutos y trocéalos.",
@@ -1076,8 +1076,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz dos o tres cortes en la membrana del borde del ossobuco para que no se curve. Salpimiéntalo, pásalo por la harina y dóralo en una cazuela con el aceite a fuego fuerte 4 minutos por cada lado. Retíralo.",
-    "En la misma cazuela, pocha a fuego medio la cebolla, la zanahoria y el apio picados finos 8 minutos, hasta que estén blandos. Añade 2 ajos picados y una tira de piel de limón.",
+    "Pica finos la cebolla, la zanahoria, el apio y 2 ajos. Haz dos o tres cortes en la membrana del borde del ossobuco para que no se curve. Salpimiéntalo, pásalo por la harina y dóralo en una cazuela con el aceite a fuego fuerte 4 minutos por cada lado. Retíralo.",
+    "En la misma cazuela, pocha a fuego medio la cebolla, la zanahoria y el apio picados finos 8 minutos, hasta que estén blandos. Añade los 2 ajos picados y una tira de piel de limón.",
     "Vierte el vino, rasca el fondo y deja reducir 2 minutos. Incorpora el tomate, el laurel, 400 ml de caldo y el ossobuco. Tapa y cuece a fuego muy suave 1 h 30 min, hasta que la carne se separe del hueso.",
     "Saca la carne con cuidado y añade el farro lavado y el resto del caldo. Cuece tapado 30 minutos, removiendo de vez en cuando, hasta que esté tierno y la salsa lo envuelva; añade un poco de agua si se seca.",
     "Devuelve el ossobuco a la cazuela y caliéntalo 5 minutos sobre el farro.",

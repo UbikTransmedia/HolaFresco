@@ -79,9 +79,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el cuscús en un bol con la ralladura del limón, una pizca de sal y 1 cucharadita de aceite. Vierte el agua hirviendo, tapa con un plato y deja reposar 5 minutos. Después desgránalo con un tenedor hasta que quede suelto.",
     "Tuesta las almendras en una sartén sin aceite a fuego medio 2-3 minutos, removiendo, hasta que huelan y estén doradas. Resérvalas.",
-    "Pica el tomate, el pepino y la cebolleta en dados pequeños y el perejil fino (con los tallos tiernos). Añádelos al cuscús con el zumo de medio limón.",
+    "Pica el tomate, el pepino y la cebolleta en dados pequeños y el perejil fino (con los tallos tiernos). Añádelos al cuscús con el zumo de medio limón. Lamina los ajos y seca las gambas con papel de cocina y sálalas.",
     "En la misma sartén calienta el resto del aceite con los ajos laminados y la guindilla a fuego medio-bajo 1-2 minutos, hasta que los ajos empiecen a dorarse por los bordes.",
-    "Sube el fuego, añade las gambas secas y saladas y saltéalas 1 minuto por cada lado, solo hasta que se vuelvan rosadas y se curven. Aparta del fuego, espolvorea el pimentón y riega con el zumo del otro medio limón.",
+    "Sube el fuego, añade las gambas y saltéalas 1 minuto por cada lado, solo hasta que se vuelvan rosadas y se curven. Aparta del fuego, espolvorea el pimentón y riega con el zumo del otro medio limón.",
     "Vierte las gambas con todo su aceite sobre el cuscús, mezcla con cuidado y termina con las almendras tostadas. Sirve templada."
   ],
   nutricion: { kcal: 590, prot: 33, hc: 58, grasa: 25 },
@@ -124,8 +124,8 @@ window.RECETAS_SEED.push({
     "Cuece los huevos en agua hirviendo 10 minutos y pásalos a agua fría. Pélalos y córtalos en cuartos.",
     "Mientras, enjuaga las lentejas, escúrrelas bien y caliéntalas 1 minuto en el microondas o en un cazo con una cucharada de agua: templadas absorben mucho mejor el aliño.",
     "Prepara la vinagreta: machaca el ajo con una pizca de sal, añade la mostaza, el vinagre, el orégano, las alcaparras picadas gruesas y 2 cucharadas de aceite (puedes usar parte del aceite del tomate seco). Bate con un tenedor hasta que emulsione.",
-    "Mezcla las lentejas templadas con la mitad de la vinagreta y deja reposar 5 minutos.",
-    "Pica la cebolla morada fina, corta los cherry por la mitad y el tomate seco en tiras. Añádelos a las lentejas junto con la rúcula.",
+    "Mezcla las lentejas templadas con la mitad de la vinagreta y deja reposar 5 minutos. Mientras, pica la cebolla morada fina, corta los cherry por la mitad y el tomate seco en tiras.",
+    "Añade a las lentejas la cebolla, los cherry y el tomate seco junto con la rúcula.",
     "Reparte en platos, coloca los cuartos de huevo encima, riega con el resto de la vinagreta y termina con pimienta negra recién molida."
   ],
   nutricion: { kcal: 430, prot: 23, hc: 36, grasa: 21 },
@@ -289,9 +289,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 7 minutos en agua hirviendo para que la yema quede melosa, pásalos a agua fría y pélalos.",
+    "Cuece los huevos 7 minutos en agua hirviendo para que la yema quede melosa, pásalos a agua fría y pélalos. Mientras se cuecen, lamina los ajos, corta el pan en dados y la cebolleta en juliana.",
     "Calienta el aceite en una sartén a fuego medio y fríe los ajos laminados y el pan en dados 2-3 minutos, hasta que estén dorados. Sácalos y machácalos en el mortero (o pícalos muy finos) con el comino, el pimentón y el vinagre: será la vinagreta.",
-    "En el mismo aceite saltea la cebolleta en juliana 2 minutos y añade los garbanzos con una pizca de sal. Saltéalos 4 minutos a fuego medio-alto, hasta que se doren un poco.",
+    "En el mismo aceite saltea la cebolleta 2 minutos y añade los garbanzos con una pizca de sal. Saltéalos 4 minutos a fuego medio-alto, hasta que se doren un poco.",
     "Aparta del fuego, incorpora las espinacas crudas y remueve 30 segundos: el calor residual las dejará apenas lacias.",
     "Añade el majado de pan, ajo y especias y mezcla bien. Reparte en platos, coloca encima los huevos partidos por la mitad y un pellizco de sal sobre la yema."
   ],
@@ -505,7 +505,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas con piel en agua con sal 15-20 minutos, hasta que un cuchillo entre sin resistencia. En los últimos 6 minutos añade las judías verdes despuntadas y partidas por la mitad, para que queden tiernas pero crujientes.",
+    "Cuece las patatas con piel en agua con sal 15-20 minutos, hasta que un cuchillo entre sin resistencia. Mientras, despunta las judías verdes y pártelas por la mitad; en los últimos 6 minutos añádelas a la cazuela, para que queden tiernas pero crujientes.",
     "Mientras, prepara la salsa verde: pica muy fino el perejil, las alcaparras, las anchoas y el ajo y mézclalo con la mostaza, la ralladura de medio limón y su zumo y 3 cucharadas de aceite. Debe quedar una salsa espesa y brillante.",
     "Escurre las patatas y las judías, parte las patatas por la mitad y alíñalas aún calientes con la mitad de la salsa verde.",
     "Seca muy bien los lomos de lubina, sálalos y hazles un par de cortes en la piel. Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y cocínalos con la piel hacia abajo 4 minutos, apretándolos con una espátula los primeros 30 segundos para que no se curven.",
@@ -549,8 +549,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece la pasta en abundante agua con sal el tiempo del paquete menos 1 minuto. Escúrrela, guarda medio vaso del agua de cocción y enfríala bajo el grifo; mézclala con unas gotas de aceite para que no se pegue.",
     "Mientras, tuesta las nueces en una sartén sin aceite 2-3 minutos. Tritura 50 g de rúcula con 20 g de nueces, el parmesano, el ajo, el zumo del medio limón, 3 cucharadas de aceite, sal y 2-3 cucharadas del agua de cocción, hasta tener un pesto cremoso.",
-    "Sala el pollo, píntalo con unas gotas de aceite y hazlo en la misma sartén a fuego medio-alto 4-5 minutos por cada lado, hasta que esté dorado y sin rastro rosado en el centro. Déjalo reposar 3 minutos y córtalo en tiras.",
-    "Mezcla la pasta con el pesto hasta que quede bien envuelta. Añade los cherry partidos por la mitad, las aceitunas y el resto de la rúcula.",
+    "Sala el pollo, píntalo con unas gotas de aceite y hazlo en la misma sartén a fuego medio-alto 4-5 minutos por cada lado, hasta que esté dorado y sin rastro rosado en el centro. Mientras se hace, parte los cherry por la mitad. Déjalo reposar 3 minutos y córtalo en tiras.",
+    "Mezcla la pasta con el pesto hasta que quede bien envuelta. Añade los cherry, las aceitunas y el resto de la rúcula.",
     "Reparte en platos o tápers, coloca el pollo encima y termina con el resto de las nueces picadas y pimienta recién molida."
   ],
   nutricion: { kcal: 790, prot: 44, hc: 62, grasa: 41 },
@@ -843,7 +843,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Corta las patatas con piel en gajos y mézclalas en una bandeja con 1,5 cucharadas de aceite, 1 cucharadita de orégano, sal y pimienta. Hornea 20 minutos.",
     "Mientras, marina el pollo con el zumo de medio limón, la ralladura del limón, 2 ajos picados, el resto del orégano, 1 cucharada de aceite y sal.",
     "Saca la bandeja, da la vuelta a las patatas, haz hueco y coloca el pollo con su marinada. Hornea 25-30 minutos más, hasta que el pollo esté dorado y las patatas crujientes por los bordes. En los últimos 5 minutos añade las aceitunas.",
-    "Mezcla el yogur con el ajo restante rallado, una pizca de sal y unas gotas de aceite.",
+    "Mientras se hornea, mezcla el yogur con el ajo restante rallado, una pizca de sal y unas gotas de aceite.",
     "Trocea la lechuga, corta los cherry por la mitad, el pepino en medias lunas y la cebolla en pluma fina. Alíñalo con el zumo del otro medio limón, el resto del aceite y sal.",
     "Corta el pollo en tiras y sírvelo con las patatas sobre la ensalada, regado con los jugos de la bandeja y con el yogur al ajo por encima."
   ],
@@ -886,7 +886,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C. Corta el calabacín y el pimiento en dados de 2 cm y la cebolla en gajos. Mézclalos en una bandeja con 1 cucharada de aceite, sal y pimienta y hornea 15 minutos.",
     "Mientras, enjuaga la quinoa en un colador hasta que el agua salga clara y cuécela en el doble de su volumen de agua con sal, tapada, 15 minutos a fuego suave, hasta que absorba el agua. Déjala reposar tapada 5 minutos y suéltala con un tenedor.",
     "Haz hueco en la bandeja, coloca el salmón con la piel hacia abajo, úntalo con unas gotas de aceite, sal y el pimentón y hornea 10-12 minutos, hasta que se separe en lascas pero siga jugoso en el centro.",
-    "Mezcla el yogur con la ralladura del limón, la mitad del eneldo picado, una pizca de sal y una cucharada de agua para aligerarlo.",
+    "Mientras se hace el salmón, pica el eneldo y mezcla el yogur con la ralladura del limón, la mitad del eneldo, una pizca de sal y una cucharada de agua para aligerarlo.",
     "Aliña la quinoa con el zumo del limón, el resto del aceite, las alcaparras y el resto del eneldo, y mézclala con las verduras asadas y sus jugos.",
     "Reparte en platos, coloca el salmón en lascas grandes encima y termina con el yogur al limón."
   ],

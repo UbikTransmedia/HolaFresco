@@ -154,8 +154,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolleta y el ajo y rehógalos en la cazuela con 1 cucharada de aceite a fuego medio 3 minutos, hasta que estén blandos.",
-    "Añade el calabacín en rodajas, sala y saltea 2 minutos. Cubre con el caldo y cuece 8 minutos, solo hasta que el calabacín esté tierno pero siga verde.",
+    "Pica la cebolleta y el ajo y corta el calabacín en rodajas. Rehoga la cebolleta y el ajo en la cazuela con 1 cucharada de aceite a fuego medio 3 minutos, hasta que estén blandos.",
+    "Añade el calabacín, sala y saltea 2 minutos. Cubre con el caldo y cuece 8 minutos, solo hasta que el calabacín esté tierno pero siga verde.",
     "Retira del fuego, añade 4 cubitos de hielo para cortar la cocción y tritura con el yogur, la mitad de las hojas de menta, la ralladura de medio limón y un chorrito de su zumo, hasta obtener una crema lisa. Enfría en la nevera.",
     "Mientras, dora los garbanzos en la sartén con 1 cucharada de aceite a fuego medio-alto 6-7 minutos, moviéndolos de vez en cuando, hasta que estén crujientes. Apaga, añade el zaatar y una pizca de sal y mezcla.",
     "Sirve la crema fría o templada con los garbanzos encima, el resto de la menta picada, la ralladura restante y la última cucharada de aceite."
@@ -286,8 +286,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el puerro y córtalo en medias lunas finas; pela la zanahoria y córtala en dados pequeños. Rehógalos en la cazuela con 1 cucharadita de aceite y una pizca de sal a fuego medio 6 minutos, hasta que el puerro esté blando y brillante.",
-    "Añade el caldo y lleva a ebullición. Cuece 8 minutos con la zanahoria.",
-    "Corta el calabacín en dados y los espárragos en trozos de 2 cm (sin la parte dura). Añádelos a la cazuela con las habas y cuece 5 minutos.",
+    "Añade el caldo y lleva a ebullición. Cuece 8 minutos con la zanahoria. Mientras, corta el calabacín en dados y los espárragos en trozos de 2 cm (sin la parte dura).",
+    "Añade el calabacín y los espárragos a la cazuela con las habas y cuece 5 minutos.",
     "Incorpora los guisantes y las judías blancas y cuece 3 minutos más, hasta que todo esté tierno pero verde. Prueba de sal.",
     "Mientras, prepara el pesto: tritura las hojas de menta con las almendras, el parmesano, el ajo, la ralladura del limón, un chorrito de su zumo y el resto del aceite hasta obtener una pasta gruesa.",
     "Sirve la sopa bien caliente y pon una cucharada generosa de pesto en el centro de cada plato, para mezclar en la mesa."
@@ -379,8 +379,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el hinojo en láminas finas (guarda las hojitas verdes), el puerro en rodajas y lamina los ajos. Rehógalos en la cazuela con 2 cucharadas de aceite y las semillas de hinojo a fuego medio 7 minutos, hasta que estén tiernos y fragantes.",
     "Añade el tomate triturado y cocina 3 minutos. Incorpora las patatas peladas y cortadas en trozos irregulares (cascadas), dos tiras de piel de naranja sin la parte blanca y el caldo.",
-    "Lleva a ebullición y cuece a fuego medio 15 minutos, hasta que las patatas estén tiernas y empiecen a espesar el caldo. Prueba de sal.",
-    "Corta la merluza en tacos grandes, sálalos y añádelos a la sopa con las aceitunas. Apaga a los 3 minutos, cuando el pescado esté opaco y se separe en lascas.",
+    "Lleva a ebullición y cuece a fuego medio 15 minutos, hasta que las patatas estén tiernas y empiecen a espesar el caldo. Mientras, corta la merluza en tacos grandes y sálalos. Prueba de sal.",
+    "Añade la merluza a la sopa con las aceitunas. Apaga a los 3 minutos, cuando el pescado esté opaco y se separe en lascas.",
     "Añade el zumo de media naranja, retira las tiras de piel y deja reposar 2 minutos tapado.",
     "Sirve con perejil y las hojas de hinojo picadas, pimienta y la última cucharada de aceite crudo."
   ],
@@ -467,9 +467,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Parte los pimientos por la mitad, quita las semillas y colócalos con la piel hacia arriba en una bandeja con los tomates partidos, la cebolla en cuartos y los ajos. Riega con 1 cucharada de aceite, sala y asa 30 minutos, hasta que la piel de los pimientos esté ampollada y negra en algunos puntos.",
-    "Tapa los pimientos con un paño 5 minutos y pélalos; pela también los ajos.",
+    "Tapa los pimientos con un paño 5 minutos y pélalos; pela también los ajos. Pon a calentar un cazo de agua con el vinagre para los huevos.",
     "Pasa todas las verduras a la cazuela con el caldo, las almendras, el pimentón y la mitad del orégano. Calienta 3 minutos y tritura hasta obtener una crema lisa. Prueba de sal y mantén caliente.",
-    "Para los huevos, lleva un cazo de agua con el vinagre a un hervor muy suave. Casca cada huevo en un vaso, crea un remolino con una cuchara y deslízalo en el centro. Cuécelo 3 minutos, hasta que la clara esté cuajada y la yema líquida, y sácalo con una espumadera.",
+    "Para los huevos, deja el agua con el vinagre a un hervor muy suave. Casca cada huevo en un vaso, crea un remolino con una cuchara y deslízalo en el centro. Cuécelo 3 minutos, hasta que la clara esté cuajada y la yema líquida, y sácalo con una espumadera.",
     "Desmenuza el feta y mézclalo con el resto del orégano y el último chorrito de aceite.",
     "Sirve la crema con dos huevos poché por plato, el feta aliñado por encima y pimienta recién molida."
   ],
@@ -509,7 +509,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las lentejas y ponlas en la cazuela con el agua fría. Lleva a ebullición, cuece 5 minutos, escúrrelas y tira esa primera agua (así quedan más limpias y digestivas).",
+    "Lava las lentejas y ponlas en la cazuela con el agua fría. Lleva a ebullición, cuece 5 minutos, escúrrelas y tira esa primera agua (así quedan más limpias y digestivas). Mientras, pica finas la cebolla y la zanahoria y lamina los ajos.",
     "En la misma cazuela, sofríe la cebolla y la zanahoria picadas finas con 1 cucharada de aceite a fuego medio 6 minutos. Añade los ajos laminados y cocina 1 minuto más, hasta que huelan.",
     "Incorpora las lentejas, el tomate, el laurel, el orégano y 800 ml de agua caliente. Cuece tapado a fuego suave 30-35 minutos, hasta que las lentejas estén tiernas y el caldo haya espesado ligeramente.",
     "Sala, añade 1 cucharada de aceite y cuece 3 minutos más destapado para que el caldo se una.",
@@ -553,8 +553,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el pollo, sálalo y dóralo entero en la cazuela con 1 cucharada de aceite a fuego medio-alto 3 minutos por lado, hasta que tenga costra dorada. Sácalo a un plato.",
-    "En la misma grasa, sofríe la cebolla, la zanahoria y el apio picados finos 5 minutos, rascando el fondo. Añade el ajo picado y la ralladura de medio limón y cocina 30 segundos.",
+    "Pica finos la cebolla, la zanahoria, el apio y el ajo. Seca el pollo, sálalo y dóralo entero en la cazuela con 1 cucharada de aceite a fuego medio-alto 3 minutos por lado, hasta que tenga costra dorada. Sácalo a un plato.",
+    "En la misma grasa, sofríe la cebolla, la zanahoria y el apio picados finos 5 minutos, rascando el fondo. Añade el ajo y la ralladura de medio limón y cocina 30 segundos.",
     "Vierte el caldo, devuelve el pollo y cuece a fuego suave 12 minutos, hasta que esté hecho y tierno.",
     "Saca el pollo, añade el orzo a la cazuela y cuece 8-9 minutos removiendo de vez en cuando, hasta que esté al dente. Mientras, desmenuza el pollo con dos tenedores.",
     "Devuelve el pollo con las espinacas y el zumo de medio limón y cuece 1 minuto, hasta que las espinacas se ablanden. Prueba de sal y limón.",
@@ -595,8 +595,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el puerro en rodajas y rehógalo en la cazuela con 1 cucharada de aceite, el ajo laminado y las hojas de una rama de tomillo a fuego medio 5 minutos, hasta que esté blando.",
-    "Añade la patata pelada en dados pequeños, las alcachofas escurridas (reserva 2 para decorar) y el caldo. Cuece 15 minutos, hasta que la patata se deshaga al pincharla.",
+    "Corta el puerro en rodajas, lamina el ajo y rehógalos en la cazuela con 1 cucharada de aceite y las hojas de una rama de tomillo a fuego medio 5 minutos, hasta que el puerro esté blando. Mientras, pela la patata y córtala en dados pequeños.",
+    "Añade la patata, las alcachofas escurridas (reserva 2 para decorar) y el caldo. Cuece 15 minutos, hasta que la patata se deshaga al pincharla.",
     "Incorpora las judías blancas y la ralladura de medio limón y cuece 2 minutos más. Tritura hasta obtener una crema muy fina; aclara con un poco de agua si queda espesa. Ajusta de sal y añade un chorrito de zumo de limón.",
     "Mientras, coloca las lonchas de jamón en una sartén fría sin aceite y calienta a fuego medio 3-4 minutos, dándoles la vuelta, hasta que estén crujientes. Escúrrelas sobre papel y rómpelas en trozos.",
     "Dora en la misma sartén las alcachofas reservadas, cortadas en cuartos, 2 minutos.",
@@ -810,10 +810,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 160 °C. Seca y salpimienta el cordero y dóralo en una cazuela apta para horno con 1 cucharada de aceite a fuego fuerte, en dos tandas, 4 minutos por tanda, hasta que esté bien tostado. Sácalo a un plato.",
-    "Baja a fuego medio y sofríe en la misma cazuela la cebolla, las zanahorias y el apio en dados 6 minutos. Añade 5 ajos laminados y cocina 1 minuto.",
+    "Precalienta el horno a 160 °C. Corta en dados la cebolla, las zanahorias y el apio y lamina 5 ajos. Seca y salpimienta el cordero y dóralo en una cazuela apta para horno con 1 cucharada de aceite a fuego fuerte, en dos tandas, 4 minutos por tanda, hasta que esté bien tostado. Sácalo a un plato.",
+    "Baja a fuego medio y sofríe en la misma cazuela la cebolla, las zanahorias y el apio 6 minutos. Añade los ajos laminados y cocina 1 minuto.",
     "Vierte el vino y rasca el fondo hasta que se evapore el alcohol, unos 2 minutos. Añade el tomate, el romero, el tomillo, el cordero con su jugo y el caldo, y lleva a ebullición.",
-    "Tapa y mete la cazuela en el horno 1 h 30 min, sin tocarla, hasta que el cordero se deshaga al presionarlo con una cuchara.",
+    "Tapa y mete la cazuela en el horno 1 h 30 min, sin tocarla, hasta que el cordero se deshaga al presionarlo con una cuchara. Mientras, pica el kale.",
     "Saca la cazuela, retira las ramas de hierbas y desgrasa la superficie con un cucharón si hace falta. Añade las alubias y el kale picado y cuece en el fuego 8 minutos, hasta que el kale esté tierno. Ajusta de sal.",
     "Para la gremolata, pica muy fino el perejil con el último ajo y la ralladura del limón y mézclalo con el resto del aceite.",
     "Sirve la sopa bien caliente con una cucharada de gremolata por encima y unas gotas de zumo de limón."
@@ -1069,10 +1069,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien el calamar con papel de cocina y saltéalo en la cazuela con 1 cucharada de aceite a fuego fuerte 2-3 minutos, hasta que pierda el agua y se dore ligeramente. Sácalo a un plato.",
-    "Baja a fuego medio y sofríe la cebolla picada fina con 2 ajos picados 6 minutos, hasta que esté blanda y dorada.",
-    "Devuelve el calamar, vierte el vino y deja evaporar 2 minutos. Añade el tomate y el caldo, tapa y cuece a fuego suave 20 minutos, hasta que el calamar empiece a estar tierno.",
-    "Incorpora las patatas peladas y cascadas en trozos pequeños y cuece 12 minutos más, hasta que estén tiernas y suelten almidón. Añade los guisantes en los últimos 4 minutos. Prueba de sal.",
+    "Pica fina la cebolla y 2 ajos. Seca bien el calamar con papel de cocina y saltéalo en la cazuela con 1 cucharada de aceite a fuego fuerte 2-3 minutos, hasta que pierda el agua y se dore ligeramente. Sácalo a un plato.",
+    "Baja a fuego medio y sofríe la cebolla con los ajos picados 6 minutos, hasta que esté blanda y dorada.",
+    "Devuelve el calamar, vierte el vino y deja evaporar 2 minutos. Añade el tomate y el caldo, tapa y cuece a fuego suave 20 minutos, hasta que el calamar empiece a estar tierno. Mientras, pela las patatas y cáscalas en trozos pequeños.",
+    "Incorpora las patatas y cuece 12 minutos más, hasta que estén tiernas y suelten almidón. Añade los guisantes en los últimos 4 minutos. Prueba de sal.",
     "Mientras, tritura las hojas de albahaca con el último ajo, las 2 cucharadas de aceite restantes, una pizca de sal y unas gotas de limón, hasta obtener un aceite verde.",
     "Sirve la sopa caliente con un buen chorro de aceite de albahaca por encima y pimienta recién molida."
   ],

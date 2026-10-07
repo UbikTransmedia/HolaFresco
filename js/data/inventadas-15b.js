@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica finas las patas y aletas de los calamares, 1 ajo y la mitad de la cebolla. Sofríe todo en una sartén con 1 cucharada de aceite a fuego medio 5 minutos, hasta que el calamar deje de soltar agua.",
+    "Pica finas las patas y aletas de los calamares, los 2 ajos y la cebolla, y reserva aparte 1 ajo y la mitad de la cebolla para la salsa. Sofríe el resto en una sartén con 1 cucharada de aceite a fuego medio 5 minutos, hasta que el calamar deje de soltar agua.",
     "Tuesta los piñones en seco 2 minutos hasta que estén dorados. En un bol mezcla el sofrito, el pan rallado, los piñones, el parmesano, el huevo, la menta y la mitad del perejil picados, la ralladura de medio limón, sal y pimienta.",
     "Rellena los tubos de calamar hasta 3/4 de su capacidad (encogen al cocinarse) y ciérralos con un palillo.",
     "En una cazuela ancha dora los calamares rellenos con 1 cucharada de aceite a fuego medio-alto 1 minuto por lado. Retíralos.",
@@ -340,8 +340,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las almejas en un bol con agua fría y una cucharada de sal 20 minutos para que suelten la arena. Escúrrelas y desecha las que estén abiertas o rotas.",
-    "Mientras, corta los tomates en rodajas, cúbrelos con la cebolla morada en plumas finas y aliña con sal, orégano y unas gotas de aceite.",
-    "En una cazuela ancha calienta el resto del aceite a fuego suave y pocha la cebolla y los ajos picados muy finos 5 minutos, sin que se doren.",
+    "Mientras, pica muy finos la cebolla, los ajos y el perejil. Corta los tomates en rodajas, cúbrelos con la cebolla morada en plumas finas y aliña con sal, orégano y unas gotas de aceite.",
+    "En una cazuela ancha calienta el resto del aceite a fuego suave y pocha la cebolla y los ajos picados 5 minutos, sin que se doren.",
     "Añade la harina y remueve 1 minuto; aparta del fuego, incorpora el pimentón y la guindilla y remueve 10 segundos.",
     "Vuelve al fuego, vierte el vino y 50 ml de agua y remueve hasta que la salsa ligue. Añade las almejas, tapa y cocina a fuego medio-alto 3 o 4 minutos, meneando la cazuela, hasta que se abran.",
     "Retira las que no se hayan abierto, espolvorea mucho perejil picado y sirve enseguida con el pan para mojar y la ensalada de tomate."
@@ -382,9 +382,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los mejillones en una cazuela con el vino, tapa y cocina a fuego fuerte 3 o 4 minutos, meneando, hasta que se abran. Desecha los que sigan cerrados.",
+    "Precalienta el grill del horno a 220 °C. Pon los mejillones en una cazuela con el vino, tapa y cocina a fuego fuerte 3 o 4 minutos, meneando, hasta que se abran. Desecha los que sigan cerrados.",
     "Cuando se templen, quita la concha vacía de cada uno y colócalos en una bandeja de horno sobre la media concha con la carne.",
-    "Precalienta el grill del horno a 220 °C. Mezcla el pan rallado, el parmesano, los ajos y el perejil muy picados, la ralladura del limón, 2 cucharadas de aceite y pimienta: debe quedar como arena húmeda.",
+    "Mezcla el pan rallado, el parmesano, los ajos y el perejil muy picados, la ralladura del limón, 2 cucharadas de aceite y pimienta: debe quedar como arena húmeda.",
     "Cubre cada mejillón con una cucharadita de la mezcla, apretando un poco, y gratina 5 o 6 minutos, hasta que la costra esté dorada y crujiente.",
     "Mientras, mezcla la rúcula, los tomates partidos y las judías blancas. Aliña con el vinagre, la última cucharada de aceite, sal y pimienta.",
     "Sirve los mejillones calientes con gajos de limón por encima y la ensalada al lado."
@@ -815,11 +815,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela calienta 2 cucharadas de aceite a fuego medio-alto y saltea la sepia 5 minutos, hasta que suelte el agua y esta se evapore. Retírala.",
+    "Pica la cebolla, el pimiento y 2 ajos. En una cazuela calienta 2 cucharadas de aceite a fuego medio-alto y saltea la sepia 5 minutos, hasta que suelte el agua y esta se evapore. Retírala.",
     "En la misma cazuela pocha la cebolla, el pimiento y 2 ajos picados con una pizca de sal 10 minutos, hasta que estén tiernos y dorados.",
     "Aparta del fuego, añade el pimentón, remueve 10 segundos y vierte el vino. Vuelve al fuego y deja reducir 3 minutos. Incorpora el tomate y cocina 5 minutos.",
     "Devuelve la sepia, añade el romero, el laurel y agua justo hasta cubrir. Tapa y cuece a fuego suave 45 minutos, hasta que la sepia esté casi tierna.",
-    "Mientras, fríe el pan en la última cucharada de aceite y májalo en un mortero con las almendras, el ajo restante y el perejil hasta tener una pasta gruesa.",
+    "Mientras, pela las patatas. Fríe el pan en la última cucharada de aceite y májalo en un mortero con las almendras, el ajo restante y el perejil hasta tener una pasta gruesa.",
     "Añade a la cazuela las patatas chascadas en trozos (rompiéndolas con el cuchillo para que suelten almidón) y la picada. Cuece 25 minutos más, hasta que las patatas estén tiernas y la salsa trabada.",
     "Retira el romero y el laurel, rectifica de sal y deja reposar 5 minutos antes de servir."
   ],
@@ -994,7 +994,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Parte las berenjenas por la mitad a lo largo, haz cortes en rejilla en la pulpa sin llegar a la piel, pinta con 1 cucharada de aceite y sal y hornea boca arriba 30 minutos, hasta que estén muy tiernas.",
     "Mientras, pica la cebolla y los ajos y póchalos en una sartén con 1 cucharada de aceite a fuego medio 8 minutos.",
-    "Con una cuchara vacía las berenjenas dejando 1 cm de pulpa pegada a la piel. Pica la pulpa extraída y añádela a la sartén; cocina 4 minutos.",
+    "Saca las berenjenas y sube el horno a 220 °C. Con una cuchara vacíalas dejando 1 cm de pulpa pegada a la piel. Pica la pulpa extraída y añádela a la sartén; cocina 4 minutos.",
     "Agrega el tomate y el orégano y cocina 5 minutos hasta que espese. Fuera del fuego, incorpora el atún desmigado y la albahaca picada; salpimienta.",
     "Rellena las barcas de berenjena, cubre con la mozzarella en trozos y el pan rallado, y gratina 10 minutos a 220 °C, hasta que el queso burbujee y se dore.",
     "Sirve con la rúcula aliñada con el aceite restante y sal, y el pan tostado."
@@ -1077,7 +1077,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca las gambas, salpimiéntalas y saltéalas en una sartén amplia con 1 cucharada de aceite a fuego fuerte 1 minuto por lado, hasta que estén rosadas. Retíralas.",
+    "Lamina los ajos. Seca las gambas, salpimiéntalas y saltéalas en una sartén amplia con 1 cucharada de aceite a fuego fuerte 1 minuto por lado, hasta que estén rosadas. Retíralas.",
     "Baja a fuego medio, añade el resto del aceite, los ajos laminados, las hojas de salvia y la guindilla, y fríe 1 minuto, hasta que el ajo empiece a dorarse y la salvia esté crujiente.",
     "Incorpora los tomates cherry y cocina 4 minutos, aplastando algunos con la cuchara, hasta que revienten y suelten su jugo.",
     "Vierte el vino y deja reducir 1 minuto. Añade las alubias con 4 cucharadas de agua y cocina 3 minutos, chafando unas pocas para que la salsa espese.",

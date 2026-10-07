@@ -33,13 +33,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, el ajo y el jengibre. Separa la coliflor en ramilletes y trocea también el tronco tierno.",
+    "Pica la cebolla, el ajo, el jengibre y el cilantro. Separa la coliflor en ramilletes y trocea también el tronco tierno.",
     "Calienta 1 cucharada de aceite en la olla sin tapar a fuego medio y rehoga la cebolla 3 minutos, hasta que esté transparente. Añade ajo, jengibre y curry y remueve 30 segundos, hasta que huela.",
     "Incorpora la coliflor y el caldo, rascando el fondo para que no quede nada pegado. Cierra la olla, pon fuego fuerte y, cuando alcance presión alta, baja a fuego medio-bajo y cuenta 4 minutos.",
     "Mientras, seca bien los garbanzos con papel, saltéalos en una sartén con 1 cucharada de aceite a fuego medio-alto 6-7 minutos, moviendo a menudo, hasta que estén dorados y suenen crujientes. Fuera del fuego, espolvorea pimentón y sal.",
     "Despresuriza de forma rápida (mueve la válvula con un paño, lejos de la cara) y abre la olla.",
     "Añade la leche de coco y tritura con la batidora hasta que la crema quede lisa y sedosa. Prueba de sal; si está muy espesa, aligera con un chorrito de agua caliente.",
-    "Mezcla el yogur con la mitad del cilantro picado, el zumo de la lima y una pizca de sal. Sirve la crema con una cucharada de yogur, los garbanzos crujientes y el resto del cilantro."
+    "Mezcla el yogur con la mitad del cilantro, el zumo de la lima y una pizca de sal. Sirve la crema con una cucharada de yogur, los garbanzos crujientes y el resto del cilantro."
   ],
   nutricion: { kcal: 380, prot: 15, hc: 38, grasa: 18 },
   etiquetas: ["rápida", "ligera", "económica", "de cuchara", "olla exprés"],
@@ -77,11 +77,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas en rodajas de 1 cm. Corta el pimiento en tiras anchas y la cebolla en gajos.",
-    "Pon en la olla el agua con el laurel y una cucharadita de sal. Coloca las patatas, el pimiento y la cebolla en el cestillo, ciérrala y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego medio y cuenta 4 minutos.",
+    "Pon en la olla el agua con el laurel y una cucharadita de sal. Coloca las patatas, el pimiento y la cebolla en el cestillo, ciérrala y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego medio y cuenta 4 minutos. Mientras, lamina los ajos y pica el perejil.",
     "Sala los lomos de merluza. Despresuriza de forma rápida, abre y coloca la merluza sobre las verduras, con la piel hacia abajo.",
     "Vuelve a cerrar, lleva a presión baja (o alta si tu olla no tiene dos niveles) y cuenta 1 minuto. Despresuriza de forma rápida en cuanto pase el minuto para que el pescado no se pase: debe lascarse al presionarlo.",
-    "Para la ajada, lamina los ajos y dóralos en una sartén con el aceite a fuego medio-bajo 2-3 minutos, hasta que estén apenas rubios. Retira del fuego, espera 20 segundos, añade el pimentón y el vinagre (con cuidado, salpica) y remueve.",
-    "Sirve las patatas y el pimiento con la merluza encima, riega con la ajada todavía caliente y termina con perejil picado y unos granos de sal gruesa."
+    "Para la ajada, dora los ajos en una sartén con el aceite a fuego medio-bajo 2-3 minutos, hasta que estén apenas rubios. Retira del fuego, espera 20 segundos, añade el pimentón y el vinagre (con cuidado, salpica) y remueve.",
+    "Sirve las patatas y el pimiento con la merluza encima, riega con la ajada todavía caliente y termina con el perejil y unos granos de sal gruesa."
   ],
   nutricion: { kcal: 420, prot: 32, hc: 38, grasa: 15 },
   etiquetas: ["rápida", "ligera", "al vapor", "olla exprés", "sin gluten", "poco especiada", "bajo en colesterol"],
@@ -120,8 +120,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara el chimichurri: pica muy fino el perejil y el ajo y mézclalos en un bol con el orégano, la guindilla, el vinagre, el aceite y una pizca de sal. Déjalo reposar mientras cocinas.",
-    "Corta el pollo en dados de 3 cm, salpimiéntalo y mézclalo con 2 cucharadas del chimichurri.",
-    "Pon en la olla la quinoa lavada y el caldo. Reparte encima el pollo y el calabacín cortado en medias lunas gruesas, sin remover, para que la quinoa no se pegue al fondo.",
+    "Corta el pollo en dados de 3 cm, salpimiéntalo y mézclalo con 2 cucharadas del chimichurri. Corta el calabacín en medias lunas gruesas.",
+    "Pon en la olla la quinoa lavada y el caldo. Reparte encima el pollo y el calabacín, sin remover, para que la quinoa no se pegue al fondo.",
     "Cierra la olla, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego medio-bajo y cuenta 3 minutos.",
     "Retira del fuego y deja que baje la presión de forma natural 5 minutos; luego libera el resto de forma rápida.",
     "Abre, suelta la quinoa con un tenedor mezclando el pollo y el calabacín: los granos deben verse con el germen en espiral y sin líquido en el fondo.",
@@ -294,9 +294,9 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en la olla destapada a fuego medio-alto y rehoga la verdura 3 minutos. Sube el fuego, añade la carne con sal y pimienta y deshazla con la cuchara 4 minutos, hasta que pierda el color rosado.",
     "Vierte el vino y deja que hierva 1 minuto rascando el fondo: es importante que no quede nada pegado para que la olla no se queme al subir presión.",
     "Añade el agua y los macarrones, remueve para que queden sumergidos y vierte el tomate triturado encima SIN remover, en una capa. Espolvorea el orégano.",
-    "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego medio-bajo y cuenta 5 minutos (la mitad del tiempo del paquete menos 1 minuto).",
+    "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego medio-bajo y cuenta 5 minutos (la mitad del tiempo del paquete menos 1 minuto). Mientras, ralla el parmesano.",
     "Despresuriza de forma rápida, con un paño sobre la válvula por si sale algo de almidón. Abre y remueve: la salsa debe quedar espesa y la pasta al dente; si queda caldosa, deja 1-2 minutos destapada a fuego medio.",
-    "Sirve con el parmesano rallado por encima y pimienta recién molida."
+    "Sirve con el parmesano por encima y pimienta recién molida."
   ],
   nutricion: { kcal: 740, prot: 42, hc: 85, grasa: 26 },
   etiquetas: ["rápida", "para niños", "una sola olla", "olla exprés", "poco especiada"],
@@ -339,10 +339,10 @@ window.RECETAS_SEED.push({
     "Corta el pollo en trozos de 4 cm y sálalo. Pica la cebolla y ralla el ajo y el jengibre. Abre las vainas de cardamomo aplastándolas con la hoja del cuchillo.",
     "Calienta el aceite en la olla destapada a fuego medio y rehoga la cebolla 5 minutos, hasta que esté dorada. Añade ajo, jengibre, cardamomo, garam masala y cúrcuma y remueve 30 segundos.",
     "Incorpora el pollo, los anacardos y el caldo, rasca bien el fondo y cierra. Lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego medio-bajo y cuenta 7 minutos.",
-    "Mientras, lava el arroz basmati y cuécelo en una cazuela con 280 ml de agua y sal: cuando hierva, tapa y deja a fuego mínimo 11 minutos; reposa 5 minutos tapado.",
+    "Mientras, lava el arroz basmati y cuécelo en una cazuela con 280 ml de agua y sal: cuando hierva, tapa y deja a fuego mínimo 11 minutos; reposa 5 minutos tapado. Pica el cilantro.",
     "Deja bajar la presión de forma natural 5 minutos y luego libera el resto de forma rápida.",
     "Saca el pollo con una espumadera. Retira las vainas de cardamomo y tritura la salsa con los anacardos hasta que quede lisa; si queda líquida, redúcela destapada 3 minutos a fuego medio.",
-    "Fuera del fuego, añade el yogur y la nata (así no se corta), vuelve a meter el pollo y calienta a fuego muy bajo sin que hierva. Sirve con el arroz y cilantro picado."
+    "Fuera del fuego, añade el yogur y la nata (así no se corta), vuelve a meter el pollo y calienta a fuego muy bajo sin que hierva. Sirve con el arroz y el cilantro."
   ],
   nutricion: { kcal: 760, prot: 44, hc: 70, grasa: 34 },
   etiquetas: ["para niños", "olla exprés", "alta en proteína"],
@@ -372,7 +372,7 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "tomate triturado", q: 400, u: "g" },
-    { n: "agua", q: 150, u: "ml" },
+    { n: "agua", q: 300, u: "ml", nota: "150 ml para la salsa y 150 ml para el cuscús" },
     { n: "canela molida", q: 0.25, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "cuscús", q: 120, u: "g" },
@@ -382,12 +382,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Ralla la mitad de la cebolla y pica fina la otra mitad. En un bol mezcla el pavo con la cebolla rallada, 1 ajo picado, el comino, el pan rallado, el huevo, la mitad del perejil picado y sal. Forma 10-12 albóndigas alargadas con las manos húmedas.",
+    "Ralla la mitad de la cebolla y pica fina la otra mitad. Pica los ajos y el perejil. En un bol mezcla el pavo con la cebolla rallada, 1 ajo, el comino, el pan rallado, el huevo, la mitad del perejil y sal. Forma 10-12 albóndigas alargadas con las manos húmedas.",
     "Calienta el aceite en la olla destapada a fuego medio-alto y dora las koftas 3 minutos por tandas, girándolas, hasta que tengan costra. Resérvalas.",
-    "En la misma grasa rehoga la cebolla picada y el otro ajo 3 minutos. Añade el pimentón y la canela, remueve 20 segundos y vierte el agua rascando el fondo; después el tomate y sal.",
+    "En la misma grasa rehoga la cebolla picada y el otro ajo 3 minutos. Añade el pimentón y la canela, remueve 20 segundos y vierte 150 ml de agua rascando el fondo; después el tomate y sal.",
     "Vuelve a meter las koftas en la salsa, cierra y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego bajo y cuenta 5 minutos. Deja bajar la presión de forma natural 5 minutos y libera el resto.",
-    "Mientras, pon el cuscús en un bol con sal y un hilo de aceite, cúbrelo con 150 ml de agua hirviendo, tapa 5 minutos y suéltalo con un tenedor.",
-    "Mezcla el yogur con la menta picada y una pizca de sal. Sirve el cuscús con las koftas y la salsa, el yogur a la menta y el resto del perejil."
+    "Mientras, pon el cuscús en un bol con sal y un hilo de aceite, cúbrelo con el resto del agua, hirviendo, tapa 5 minutos y suéltalo con un tenedor. Pica la menta.",
+    "Mezcla el yogur con la menta y una pizca de sal. Sirve el cuscús con las koftas y la salsa, el yogur a la menta y el resto del perejil."
   ],
   nutricion: { kcal: 600, prot: 45, hc: 66, grasa: 17 },
   etiquetas: ["alta en proteína", "para niños", "batch cooking", "olla exprés", "sin verduras", "poco especiada", "bajo en colesterol"],
@@ -425,11 +425,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer el arroz lavado en una cazuela con 180 ml de agua: cuando hierva, tapa y deja a fuego mínimo 12 minutos y reposa tapado.",
-    "Lamina las chalotas muy finas y fríelas en la olla destapada con el aceite a fuego medio 4-5 minutos, hasta que estén doradas. Retira la mitad para servir.",
-    "Sube el fuego, añade el cerdo y el ajo picado y saltea 3 minutos hasta que se dore. Agrega el azúcar y deja que caramelice 30 segundos; incorpora el vino, la soja, las cinco especias y el agua, rascando el fondo.",
-    "Coloca los huevos enteros con cáscara encima del guiso, cierra y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego bajo y cuenta 15 minutos. Deja bajar la presión de forma natural 5 minutos y libera el resto.",
+    "Pica el ajo. Lamina las chalotas muy finas y fríelas en la olla destapada con el aceite a fuego medio 4-5 minutos, hasta que estén doradas. Retira la mitad para servir.",
+    "Sube el fuego, añade el cerdo y el ajo y saltea 3 minutos hasta que se dore. Agrega el azúcar y deja que caramelice 30 segundos; incorpora el vino, la soja, las cinco especias y el agua, rascando el fondo.",
+    "Coloca los huevos enteros con cáscara encima del guiso, cierra y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego bajo y cuenta 15 minutos. Deja bajar la presión de forma natural 5 minutos y libera el resto. Mientras, pon a hervir un cazo de agua con sal.",
     "Saca los huevos, pásalos por agua fría, pélalos y devuélvelos a la salsa para que se tiñan mientras reduces el guiso destapado a fuego medio 4-5 minutos, hasta que brille y espese.",
-    "Abre el pak choi por la mitad y escáldalo 1 minuto en agua hirviendo con sal, hasta que el tallo esté tierno pero crujiente.",
+    "Abre el pak choi por la mitad y escáldalo 1 minuto en el agua hirviendo, hasta que el tallo esté tierno pero crujiente.",
     "Sirve el arroz cubierto de cerdo con su salsa, el huevo partido por la mitad, el pak choi y la chalota crujiente."
   ],
   nutricion: { kcal: 585, prot: 32, hc: 64, grasa: 22 },
@@ -474,8 +474,8 @@ window.RECETAS_SEED.push({
     "Pon el arroz en una cazuela con 1 cucharada de aceite, 1 ajo machacado y sal; nácaralo 1 minuto, añade 300 ml de agua, tapa cuando hierva y cuece a fuego mínimo 15 minutos.",
     "Pica la cebolla, el pimiento y el otro ajo. Calienta el resto del aceite en la olla destapada a fuego medio y sofríe 5 minutos, hasta que estén blandos.",
     "Sube el fuego, añade la ternera con sal, pimienta, comino y orégano y deshazla 4 minutos, hasta que se dore. Moja con el vino y rasca el fondo.",
-    "Incorpora el agua, el tomate, las pasas y el laurel. Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego medio-bajo y cuenta 8 minutos.",
-    "Despresuriza de forma rápida, abre, añade las aceitunas en rodajas y deja reducir destapado a fuego medio 3 minutos, hasta que el picadillo esté jugoso pero sin caldo.",
+    "Incorpora el agua, el tomate, las pasas y el laurel. Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego medio-bajo y cuenta 8 minutos. Mientras, corta las aceitunas en rodajas.",
+    "Despresuriza de forma rápida, abre, añade las aceitunas y deja reducir destapado a fuego medio 3 minutos, hasta que el picadillo esté jugoso pero sin caldo.",
     "Retira el laurel, prueba de sal y sirve junto al arroz blanco."
   ],
   nutricion: { kcal: 710, prot: 36, hc: 82, grasa: 26 },
@@ -564,10 +564,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia el puerro y córtalo en rodajas; pela la patata y córtala en dados pequeños.",
     "Rehoga el puerro en la olla destapada con el aceite a fuego medio 3 minutos. Añade la patata y el caldo, cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 4 minutos.",
-    "Mientras, pon las lonchas de jamón en una sartén sin aceite a fuego medio 2-3 minutos por lado, hasta que estén crujientes. Déjalas enfriar y desmigájalas. Tuesta el pan en la misma sartén.",
+    "Mientras, pon las lonchas de jamón en una sartén sin aceite a fuego medio 2-3 minutos por lado, hasta que estén crujientes. Déjalas enfriar y desmigájalas. Tuesta el pan en la misma sartén. Pon a calentar una cazuela de agua con el vinagre.",
     "Despresuriza de forma rápida, abre y añade los guisantes todavía congelados. Deja hervir destapado 2 minutos: así conservan el color verde.",
     "Añade casi toda la menta y tritura hasta que la crema esté lisa. Salpimienta y mantén caliente.",
-    "Para los huevos poché, lleva a un hervor suave una cazuela de agua con el vinagre, crea un remolino y casca cada huevo dentro; cuece 3 minutos, hasta que la clara esté cuajada y la yema líquida. Sácalos con una espumadera.",
+    "Para los huevos poché, deja el agua de la cazuela en un hervor suave, crea un remolino y casca cada huevo dentro; cuece 3 minutos, hasta que la clara esté cuajada y la yema líquida. Sácalos con una espumadera.",
     "Sirve la crema con el huevo en el centro, el jamón crujiente, unas hojas de menta y el pan tostado."
   ],
   nutricion: { kcal: 425, prot: 25, hc: 52, grasa: 13 },
@@ -605,13 +605,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Abre la ñora, quita las semillas y remójala en agua caliente 10 minutos; raspa la carne con un cuchillo. Pela los langostinos dejando la cola y reserva cabezas y cuerpos.",
+    "Abre la ñora, quita las semillas y remójala en agua caliente 10 minutos. Mientras, pon el caldo a calentar, pela los langostinos dejando la cola y reserva cabezas y cuerpos, pica el pimiento y el ajo y ralla el tomate. Raspa la carne de la ñora con un cuchillo.",
     "Calienta el aceite en la olla destapada a fuego fuerte y marca los cuerpos de los langostinos 30 segundos por lado; retíralos. Dora las cabezas 2 minutos aplastándolas para que suelten su jugo y retíralas también.",
-    "En ese aceite rehoga el pimiento picado 3 minutos, añade el ajo picado, el tomate rallado y la carne de ñora y cocina 4 minutos, hasta que el sofrito esté oscuro y brillante. Añade el pimentón y remueve 10 segundos.",
+    "En ese aceite rehoga el pimiento 3 minutos, añade el ajo, el tomate y la carne de ñora y cocina 4 minutos, hasta que el sofrito esté oscuro y brillante. Añade el pimentón y remueve 10 segundos.",
     "Incorpora el arroz, nácaralo 1 minuto y vierte el caldo caliente con el azafrán desmenuzado. Prueba de sal: debe quedar algo salado.",
-    "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego medio-bajo y cuenta 6 minutos. Despresuriza de forma rápida.",
+    "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego medio-bajo y cuenta 6 minutos. Mientras, pica el perejil. Despresuriza de forma rápida.",
     "Abre, añade las almejas y los langostinos, remueve con energía y deja a fuego medio destapado 2-3 minutos, hasta que las almejas se abran y el arroz quede meloso. Descarta las almejas que sigan cerradas.",
-    "Reposa 1 minuto, espolvorea perejil picado y sirve en plato hondo."
+    "Reposa 1 minuto, espolvorea el perejil y sirve en plato hondo."
   ],
   nutricion: { kcal: 545, prot: 32, hc: 68, grasa: 16 },
   etiquetas: ["marisco", "olla exprés", "sin gluten", "fin de semana", "poco especiada"],
@@ -650,11 +650,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pulpo en trozos de 4-5 cm (separa las patas y trocea la cabeza).",
-    "Calienta el aceite en la olla destapada a fuego medio y dora las cebollitas enteras 5 minutos, moviendo, hasta que tengan manchas tostadas. Añade el ajo laminado 30 segundos.",
+    "Corta el pulpo en trozos de 4-5 cm (separa las patas y trocea la cabeza) y lamina el ajo.",
+    "Calienta el aceite en la olla destapada a fuego medio y dora las cebollitas enteras 5 minutos, moviendo, hasta que tengan manchas tostadas. Añade el ajo 30 segundos.",
     "Sube el fuego, incorpora el pulpo y saltéalo 3 minutos: soltará bastante agua. Vierte el vino y el vinagre y deja hervir 2 minutos para que se evapore el alcohol.",
     "Añade el tomate, el agua, la canela, los clavos, el laurel y pimienta. No sales: el pulpo ya aporta sal. Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 15 minutos.",
-    "Retira del fuego y deja que la presión baje de forma natural (unos 10-12 minutos): así el pulpo queda tierno y no se encoge.",
+    "Retira del fuego y deja que la presión baje de forma natural (unos 10-12 minutos): así el pulpo queda tierno y no se encoge. Mientras, pica el perejil.",
     "Abre, comprueba que un tenedor entra sin resistencia en la parte gruesa de las patas. Retira canela, clavos y laurel. Si te falta líquido, completa hasta tener unos 400 ml de salsa.",
     "Añade el orzo y cuece destapado a fuego medio 9-10 minutos, removiendo a menudo para que no se pegue, hasta que esté al dente y haya absorbido casi toda la salsa. Prueba de sal y sirve con perejil."
   ],
@@ -702,7 +702,7 @@ window.RECETAS_SEED.push({
     "Deja bajar la presión de forma natural 15 minutos. Mientras, pica la otra media cebolla, el pimiento, el ajo y el chipotle, y pela el boniato y córtalo en dados de 2 cm.",
     "Abre y comprueba que las alubias están tiernas (si no, 5 minutos más de presión). Retira la media cebolla y deja unos 300 ml de caldo con ellas; reserva el resto.",
     "Añade a la olla la cebolla, el pimiento, el ajo, el chipotle, el comino, el pimentón, sal, el boniato y, por encima y sin remover, el tomate triturado.",
-    "Cierra, lleva a presión alta y cuenta 4 minutos a fuego bajo. Despresuriza de forma rápida.",
+    "Cierra, lleva a presión alta y cuenta 4 minutos a fuego bajo. Mientras, corta el aguacate en dados y pica el cilantro. Despresuriza de forma rápida.",
     "Abre, añade el maíz y deja hervir destapado 5 minutos, removiendo, hasta que el chili espese; aplasta algunos trozos de boniato contra la pared para ligarlo. Si queda seco, usa el caldo reservado.",
     "Sirve con una cucharada de yogur, aguacate en dados, cilantro y gajos de lima."
   ],
@@ -747,12 +747,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los garbanzos del remojo. Pica la cebolla, ralla el ajo y el jengibre y pica el chile (sin semillas si lo quieres suave).",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, escúrrelos. Pica la cebolla, ralla el ajo y el jengibre y pica el chile (sin semillas si lo quieres suave).",
     "Calienta el aceite en la olla destapada a fuego medio y sofríe la cebolla 6-7 minutos, hasta que esté bien dorada: es la base del sabor. Añade ajo, jengibre, chile y todas las especias y remueve 40 segundos.",
     "Incorpora el tomate y cocina 2 minutos, rascando el fondo. Añade los garbanzos, el agua y sal.",
-    "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 18 minutos. Retira del fuego y deja bajar la presión de forma natural, unos 15 minutos.",
+    "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 18 minutos. Retira del fuego y deja bajar la presión de forma natural, unos 15 minutos. Mientras, pica el cilantro.",
     "Abre y aplasta un cucharón de garbanzos contra la pared para espesar la salsa. Deja hervir destapado 3-4 minutos, hasta que esté untuosa, y añade las espinacas hasta que se ablanden, 1 minuto.",
-    "Calienta el pan naan en una sartén seca 1 minuto por lado. Termina el chana con el zumo de limón y cilantro picado y sírvelo con el yogur y el naan."
+    "Calienta el pan naan en una sartén seca 1 minuto por lado. Termina el chana con el zumo de limón y el cilantro y sírvelo con el yogur y el naan."
   ],
   nutricion: { kcal: 700, prot: 27, hc: 102, grasa: 20 },
   etiquetas: ["económica", "vegetariana", "de cuchara", "batch cooking", "olla exprés", "superalimentos", "bajo en colesterol"],
@@ -831,13 +831,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pincha la piel de los muslos sin llegar a la carne y salpimiéntalos. Ponlos con la piel hacia abajo en la olla fría y enciende a fuego medio: cocina 8 minutos, hasta que suelten grasa y la piel esté dorada. Retíralos y guarda la grasa en un bote, dejando 1 cucharada.",
-    "Pica la chalota, la zanahoria y el ajo y rehógalos en esa grasa 3 minutos. Añade 400 ml de caldo, el tomillo y una tira de piel de naranja, rascando el fondo.",
-    "Coloca los muslos con la piel hacia arriba, cierra y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego bajo y cuenta 22 minutos. Deja bajar la presión de forma natural 10 minutos.",
+    "Pincha la piel de los muslos sin llegar a la carne y salpimiéntalos. Ponlos con la piel hacia abajo en la olla fría y enciende a fuego medio: cocina 8 minutos, hasta que suelten grasa y la piel esté dorada. Mientras, pica la chalota, la zanahoria y el ajo. Retira los muslos y guarda la grasa en un bote, dejando 1 cucharada.",
+    "Rehoga la chalota, la zanahoria y el ajo en esa grasa 3 minutos. Añade 400 ml de caldo, el tomillo y una tira de piel de naranja, rascando el fondo.",
+    "Coloca los muslos con la piel hacia arriba, cierra y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego bajo y cuenta 22 minutos. Deja bajar la presión de forma natural 10 minutos. Mientras, pela a vivo media naranja y sepárala en gajos.",
     "Saca los muslos. Añade a la olla las lentejas lavadas y el resto del caldo, cierra de nuevo, lleva a presión alta y cuenta 7 minutos; despresuriza de forma rápida.",
     "Mientras, dora los muslos con la piel hacia abajo en una sartén caliente sin aceite 3-4 minutos, hasta que crujan.",
     "Abre la olla: las lentejas deben estar tiernas y enteras con poco caldo. Retira el tomillo y la piel de naranja, añade el balsámico, el zumo de media naranja y ajusta de sal.",
-    "Sirve las lentejas con el muslo encima y unos gajos de naranja pelados a vivo."
+    "Sirve las lentejas con el muslo encima y los gajos de naranja."
   ],
   nutricion: { kcal: 735, prot: 48, hc: 50, grasa: 38 },
   etiquetas: ["fin de semana", "alta en proteína", "olla exprés", "invierno", "poco especiada"],
@@ -921,11 +921,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Frota el cordero con sal, pimienta, el orégano, 3 ajos machacados, el zumo de medio limón y 1 cucharada de aceite. Deja marinar 15 minutos mientras preparas el resto.",
-    "Calienta 1 cucharada de aceite en la olla destapada a fuego fuerte y dora los trozos de cordero 3 minutos por lado. Añade la cebolla en gajos y los otros ajos enteros y moja con el vino, rascando el fondo, y el agua.",
-    "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 40 minutos. Deja bajar la presión de forma natural 15 minutos.",
-    "Precalienta el horno a 220 °C. Pela las patatas, córtalas en gajos gruesos y añádelas a la olla con sal; cierra, lleva de nuevo a presión alta y cuenta 5 minutos. Despresuriza de forma rápida.",
-    "Pasa el cordero y las patatas a una fuente de horno, rocía con el jugo de la olla, el resto del aceite, el tomate en rodajas y el otro medio limón en rodajas finas.",
+    "Frota el cordero con sal, pimienta, el orégano, 3 ajos machacados, el zumo de medio limón y 1 cucharada de aceite. Deja marinar 15 minutos mientras cortas la cebolla en gajos.",
+    "Calienta 1 cucharada de aceite en la olla destapada a fuego fuerte y dora los trozos de cordero 3 minutos por lado. Añade la cebolla y los otros ajos enteros y moja con el vino, rascando el fondo, y el agua.",
+    "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 40 minutos. Deja bajar la presión de forma natural 15 minutos. Mientras, pela las patatas y córtalas en gajos gruesos, y corta en rodajas finas el tomate y el otro medio limón.",
+    "Precalienta el horno a 220 °C. Abre la olla y añade las patatas con sal; cierra, lleva de nuevo a presión alta y cuenta 5 minutos. Despresuriza de forma rápida.",
+    "Pasa el cordero y las patatas a una fuente de horno, rocía con el jugo de la olla y el resto del aceite, y reparte por encima el tomate y el limón.",
     "Hornea 15 minutos, hasta que las patatas estén doradas por los bordes. Desmenuza la feta por encima y hornea 5 minutos más, hasta que se tueste.",
     "Sirve la carne, que debe separarse sola del hueso, con las patatas y el jugo de la fuente."
   ],
@@ -966,9 +966,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la olla el morcillo, la panceta y el agua fría. Lleva a ebullición destapada y retira la espuma durante 3 minutos. Cierra, lleva a presión alta y, cuando suba, baja a fuego bajo y cuenta 15 minutos. Despresuriza de forma rápida.",
-    "Añade los garbanzos escurridos dentro de una malla, el pollo, las zanahorias peladas y el puerro limpio. Cierra, lleva a presión alta y cuenta 20 minutos a fuego bajo. Deja bajar la presión de forma natural 10 minutos.",
-    "Abre, añade las patatas peladas y partidas en dos y el chorizo entero. Sala, cierra y cuenta 5 minutos más de presión; despresuriza de forma rápida.",
+    "La víspera, pon los garbanzos en remojo en agua templada con sal. Al día siguiente, pon en la olla el morcillo, la panceta y el agua fría. Lleva a ebullición destapada y retira la espuma durante 3 minutos. Cierra, lleva a presión alta y, cuando suba, baja a fuego bajo y cuenta 15 minutos. Mientras, pela las zanahorias y limpia el puerro. Despresuriza de forma rápida.",
+    "Añade los garbanzos escurridos dentro de una malla, el pollo, las zanahorias y el puerro. Cierra, lleva a presión alta y cuenta 20 minutos a fuego bajo. Deja bajar la presión de forma natural 10 minutos. Mientras, pela las patatas y pártelas en dos.",
+    "Abre, añade las patatas y el chorizo entero. Sala, cierra y cuenta 5 minutos más de presión; despresuriza de forma rápida.",
     "Mientras, cuece el repollo en tiras en una cazuela con agua y sal 12 minutos, escúrrelo y rehógalo en una sartén con el aceite y el ajo laminado 2 minutos.",
     "Cuela el caldo a otra cazuela (deberías tener 1 litro largo) y mantén las carnes, garbanzos y verduras tapados en la olla para que no se enfríen.",
     "Lleva el caldo a ebullición, prueba de sal y cuece los fideos 3-4 minutos.",
@@ -1019,9 +1019,9 @@ window.RECETAS_SEED.push({
     "Blanquea los huesos: cúbrelos de agua en la olla, hierve destapado 5 minutos, escúrrelos y lávalos bajo el grifo junto con la olla. Así el caldo sale limpio.",
     "Parte la cebolla y el jengibre por la mitad y tuéstalos en una sartén seca a fuego fuerte 6-8 minutos, hasta que estén muy negros por la cara del corte. Tuesta en la misma sartén el anís, la canela, los clavos y el cilantro 1 minuto.",
     "Vuelve a poner los huesos en la olla con la cebolla, el jengibre, las especias y 1,6 litros de agua (sin pasar de dos tercios de la olla). Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 60 minutos.",
-    "Deja bajar la presión de forma natural, unos 20 minutos: si la liberas rápido, el caldo se enturbia.",
+    "Deja bajar la presión de forma natural, unos 20 minutos: si la liberas rápido, el caldo se enturbia. Mientras, corta la ternera en láminas finísimas, la cebolleta en aros y la lima en gajos, y deshoja el cilantro y la albahaca.",
     "Cuela el caldo a una cazuela, desgrasa con una cuchara y sazona con la salsa de pescado, el azúcar y sal. Mantén a punto de hervor.",
-    "Remoja los fideos de arroz en agua caliente 8 minutos, escúrrelos y repártelos en dos boles grandes. Corta la ternera en láminas finísimas y colócalas crudas sobre los fideos.",
+    "Remoja los fideos de arroz en agua caliente 8 minutos, escúrrelos y repártelos en dos boles grandes. Coloca encima las láminas de ternera crudas.",
     "Vierte el caldo hirviendo encima: cocerá la carne al momento. Sirve con los brotes de soja, la cebolleta, el cilantro, la albahaca, gajos de lima y sriracha para que cada uno ajuste."
   ],
   nutricion: { kcal: 430, prot: 36, hc: 48, grasa: 10 },
@@ -1061,12 +1061,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la costilla. Dora el bacon en tiras en la olla destapada a fuego medio-alto 3 minutos; añade la costilla y dórala 5 minutos, hasta que tenga color por todos lados.",
-    "Incorpora la cebolla picada y 2 ajos picados y rehoga 3 minutos. Añade las alubias escurridas, el chorizo entero, el laurel y el agua, rascando el fondo.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas, pica la cebolla y 2 ajos y salpimienta la costilla. Dora el bacon en tiras en la olla destapada a fuego medio-alto 3 minutos; añade la costilla y dórala 5 minutos, hasta que tenga color por todos lados.",
+    "Incorpora la cebolla y el ajo picados y rehoga 3 minutos. Añade las alubias, el chorizo entero, el laurel y el agua, rascando el fondo.",
     "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 30 minutos. Deja bajar la presión de forma natural, unos 15 minutos.",
-    "Mientras, cuece el arroz lavado en una cazuela con 1 ajo machacado, sal y 240 ml de agua: cuando hierva, tapa y deja a fuego mínimo 12 minutos.",
+    "Mientras, cuece el arroz lavado en una cazuela con 1 ajo machacado, sal y 240 ml de agua: cuando hierva, tapa y deja a fuego mínimo 12 minutos. Corta el kale en tiras finas, lamina el último ajo y pela la naranja.",
     "Abre la olla, saca el chorizo y córtalo en rodajas. Aplasta un cucharón de alubias y devuélvelo a la olla con el chorizo; cuece destapado a fuego medio 8-10 minutos, hasta que el caldo espese y se vuelva oscuro y untuoso. Ajusta de sal.",
-    "Corta el kale en tiras finas y saltéalo en una sartén con el aceite y el último ajo laminado 2 minutos, hasta que esté brillante y apenas tierno.",
+    "Saltea el kale en una sartén con el aceite y el ajo laminado 2 minutos, hasta que esté brillante y apenas tierno.",
     "Sirve la feijoada con el arroz, el kale y gajos de naranja pelada al lado."
   ],
   nutricion: { kcal: 920, prot: 50, hc: 90, grasa: 40 },
@@ -1106,12 +1106,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en la olla la carcasa, los contramuslos, la cebolla partida, la zanahoria, el apio, el laurel, el agua y una cucharadita de sal. Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 40 minutos.",
-    "Deja bajar la presión de forma natural, unos 20 minutos, para que el caldo quede limpio.",
+    "Deja bajar la presión de forma natural, unos 20 minutos, para que el caldo quede limpio. Mientras, exprime los limones y pica el eneldo.",
     "Cuela el caldo y vuelve a ponerlo en la olla destapada; desmenuza la carne de los contramuslos y pica la zanahoria. Desecha huesos y carcasa.",
     "Lleva el caldo a ebullición, añade el arroz y cuece destapado a fuego medio 15 minutos, hasta que esté tierno. Baja el fuego al mínimo y añade el pollo y la zanahoria.",
-    "En un bol bate los huevos con el zumo de los limones hasta que espumen. Sin dejar de batir, añade poco a poco 2 cucharones de caldo caliente para atemperarlos.",
+    "En un bol bate los huevos con el zumo de limón hasta que espumen. Sin dejar de batir, añade poco a poco 2 cucharones de caldo caliente para atemperarlos.",
     "Vierte la mezcla en la olla removiendo con suavidad y calienta a fuego muy bajo 2-3 minutos, sin que llegue a hervir, hasta que la sopa espese ligeramente y quede cremosa y opaca.",
-    "Salpimienta y sirve con eneldo picado por encima."
+    "Salpimienta y sirve con el eneldo por encima."
   ],
   nutricion: { kcal: 410, prot: 33, hc: 36, grasa: 15 },
   etiquetas: ["ligera", "económica", "de cuchara", "invierno", "olla exprés", "sin gluten", "poco especiada"],

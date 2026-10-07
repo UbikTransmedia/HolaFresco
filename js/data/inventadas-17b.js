@@ -32,7 +32,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca la burrata de la nevera nada más empezar para que pierda el frío. Pica la cebolla y los pimientos en dados de 1 cm y el calabacín en dados algo más pequeños: cuanto más pequeño, antes se hace.",
+    "Saca la burrata de la nevera nada más empezar para que pierda el frío. Pica la cebolla y los pimientos en dados de 1 cm y el calabacín en dados algo más pequeños: cuanto más pequeño, antes se hace. Pica 2 dientes de ajo.",
     "Calienta 2 cucharadas de aceite en una sartén amplia a fuego medio-alto. Añade la cebolla y los pimientos con una pizca de sal y saltea 6 minutos, hasta que la cebolla esté transparente y los pimientos empiecen a ablandarse.",
     "Incorpora 2 dientes de ajo picados y el calabacín y saltea 4 minutos más a fuego fuerte, hasta que el calabacín se dore por los bordes pero siga entero.",
     "Aparta un momento del fuego, añade el pimentón, remueve 10 segundos y vierte el tomate triturado. Cocina 5 minutos a fuego medio, hasta que la salsa espese y el aceite asome por los bordes. Salpimienta.",
@@ -75,7 +75,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la salsa: mezcla en un bol el yogur con la mitad del eneldo picado, la ralladura de medio limón, una cucharada de su zumo, medio diente de ajo rallado y una pizca de sal. Reserva en la nevera.",
-    "Limpia las setas con un papel húmedo (no las laves bajo el grifo) y trocea las grandes en tiras. Seca bien los garbanzos con papel de cocina.",
+    "Limpia las setas con un papel húmedo (no las laves bajo el grifo) y trocea las grandes en tiras. Seca bien los garbanzos con papel de cocina y lamina el ajo restante.",
     "Calienta el aceite en una sartén grande a fuego fuerte. Añade los garbanzos y dóralos 4 minutos, moviendo la sartén, hasta que estén ligeramente crujientes. Sácalos y resérvalos.",
     "En la misma sartén, echa las setas extendidas en una sola capa y no las toques durante 3 minutos, hasta que se doren por debajo. Saltea 3 minutos más con las hojas de tomillo y el ajo restante laminado, hasta que el ajo esté dorado y huela a tostado.",
     "Devuelve los garbanzos, espolvorea el pimentón, salpimienta y riega con el zumo del resto del limón. Remueve 30 segundos fuera del fuego.",
@@ -158,7 +158,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta los piñones en una sartén grande sin aceite a fuego medio 2-3 minutos, moviéndolos sin parar, hasta que estén dorados y huelan a tostado. Sácalos a un plato enseguida para que no se quemen.",
-    "Parte los espárragos por donde se quiebren de forma natural (desecha la parte dura) y córtalos en trozos de 4 cm.",
+    "Parte los espárragos por donde se quiebren de forma natural (desecha la parte dura) y córtalos en trozos de 4 cm. Lamina el ajo y pica el perejil.",
     "Calienta 2 cucharadas de aceite en la misma sartén a fuego fuerte y saltea los espárragos 4 minutos con una pizca de sal, hasta que estén verde intenso, con puntos dorados y aún crujientes.",
     "Baja a fuego medio, añade el ajo laminado y la guindilla y sofríe 1 minuto. Incorpora las judías con 2 cucharadas de agua y la ralladura del limón y calienta 2 minutos, removiendo con suavidad para no romperlas.",
     "Fuera del fuego, añade el zumo de medio limón, el perejil picado, la mitad del parmesano rallado y la última cucharada de aceite. Mezcla hasta que se forme una salsita ligeramente cremosa.",
@@ -242,7 +242,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el cuscús en un bol con una pizca de sal, la ralladura del limón y 1 cucharada de aceite. Vierte el agua hirviendo, tapa con un plato y deja reposar 5 minutos. Desgrana con un tenedor.",
-    "Corta los pimientos en tiras finas y la cebolla en plumas. Calienta 1 cucharada de aceite en una sartén grande a fuego medio-alto y saltea las verduras 7 minutos con una pizca de sal, hasta que estén tiernas y con los bordes tostados.",
+    "Corta los pimientos en tiras finas y la cebolla en plumas y lamina el ajo. Calienta 1 cucharada de aceite en una sartén grande a fuego medio-alto y saltea las verduras 7 minutos con una pizca de sal, hasta que estén tiernas y con los bordes tostados.",
     "Añade el ajo laminado y las alcaparras y saltea 1 minuto más. Riega con el zumo de medio limón, salpimienta y pasa todo sobre el cuscús.",
     "Corta el halloumi en 6 lonchas de 1 cm y sécalas con papel. En la misma sartén, con la última cucharada de aceite y a fuego medio-alto, dóralas 1-2 minutos por lado, hasta que tengan una costra dorada y estén blandas por dentro.",
     "Mezcla la mitad de la menta picada con el cuscús y los pimientos. Coloca el halloumi caliente encima, riega con unas gotas de limón y termina con el resto de la menta en hojas. Sirve enseguida: el halloumi se endurece al enfriarse."
@@ -282,9 +282,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara la gremolata: pica muy fino el perejil con 1 diente de ajo y la ralladura de medio limón. Mézclalo con 1 cucharada de aceite y una pizca de sal.",
     "Mezcla la ricotta con la ralladura del otro medio limón, una cucharada de su zumo, sal y pimienta hasta que quede cremosa.",
-    "Escurre bien las alcachofas, pártelas por la mitad y sécalas con papel de cocina. Calienta 2 cucharadas de aceite en una sartén a fuego fuerte y colócalas con el corte hacia abajo. Dóralas 4 minutos sin moverlas, hasta que estén caramelizadas, y dales la vuelta 1 minuto.",
-    "Baja el fuego, añade el otro diente de ajo laminado y las judías con 3 cucharadas de agua. Calienta 3 minutos, removiendo suave, hasta que el líquido se reduzca y las judías brillen. Riega con el resto del zumo de limón.",
-    "Tuesta el pan. Extiende la ricotta en los platos, coloca encima las alcachofas con las judías y corona con la gremolata. Acompaña con el pan tostado."
+    "Escurre bien las alcachofas, pártelas por la mitad y sécalas con papel de cocina. Lamina el otro diente de ajo. Calienta 2 cucharadas de aceite en una sartén a fuego fuerte y colócalas con el corte hacia abajo. Dóralas 4 minutos sin moverlas, hasta que estén caramelizadas, y dales la vuelta 1 minuto.",
+    "Baja el fuego, añade el otro diente de ajo laminado y las judías con 3 cucharadas de agua. Calienta 3 minutos, removiendo suave, hasta que el líquido se reduzca y las judías brillen; mientras, tuesta el pan. Riega con el resto del zumo de limón.",
+    "Extiende la ricotta en los platos, coloca encima las alcachofas con las judías y corona con la gremolata. Acompaña con el pan tostado."
   ],
   nutricion: { kcal: 530, prot: 26, hc: 48, grasa: 26 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "primavera", "poco especiada"],
@@ -366,7 +366,7 @@ window.RECETAS_SEED.push({
     "En una sartén con 1 cucharada de aceite, sofríe 1 diente de ajo laminado 30 segundos, añade el tomate, unas hojas de albahaca y una pizca de sal y cocina 10 minutos a fuego medio, hasta que espese.",
     "Mientras, saltea las espinacas en otra sartén sin aceite 2 minutos, hasta que mermen. Escúrrelas apretando bien, pícalas y mézclalas con la ricotta, la mitad del parmesano, el otro ajo rallado, la nuez moscada, sal y pimienta.",
     "Pon una cucharada de relleno en el extremo ancho de cada lámina de berenjena y enróllala. Extiende la salsa de tomate en una fuente pequeña y coloca los rollitos encima, con el cierre hacia abajo.",
-    "Reparte la mozzarella troceada y el resto del parmesano por encima y hornea 15 minutos, hasta que la salsa borbotee y el queso esté dorado.",
+    "Reparte la mozzarella troceada y el resto del parmesano por encima y hornea 15 minutos, hasta que la salsa borbotee y el queso esté dorado. Mientras, tuesta el pan.",
     "Termina con albahaca fresca y un hilo de aceite en crudo. Sirve con pan tostado para la salsa."
   ],
   nutricion: { kcal: 512, prot: 25, hc: 40, grasa: 28 },
@@ -407,7 +407,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Pon las pasas en remojo en agua templada. Mezcla los ramilletes de coliflor con 2 cucharadas de aceite, sal y pimienta y extiéndelos en una bandeja sin amontonar.",
     "Asa 20 minutos, hasta que la coliflor esté dorada por los bordes y tierna al pincharla.",
-    "Mientras, mezcla en un bol el pan rallado con el parmesano rallado, la ralladura del limón, 1 diente de ajo rallado, la mitad del perejil picado y la última cucharada de aceite, hasta que tenga textura de arena húmeda.",
+    "Mientras, mezcla en un bol el pan rallado con el parmesano rallado, la ralladura del limón, 1 diente de ajo rallado, la mitad del perejil picado y la última cucharada de aceite, hasta que tenga textura de arena húmeda. Lamina el otro diente de ajo.",
     "Saca la bandeja y añade las judías, las pasas escurridas, las alcaparras, el otro ajo laminado y la guindilla. Mezcla y reparte por encima la costra de pan y parmesano.",
     "Vuelve al horno 10-12 minutos, hasta que la costra esté dorada y crujiente.",
     "Riega con el zumo de medio limón y termina con el resto del perejil."
@@ -447,8 +447,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Mezcla la calabaza con 1,5 cucharadas de aceite, las hojas de romero picadas, los ajos aplastados con piel, sal y pimienta. Extiéndela en una bandeja y asa 30 minutos, dándole la vuelta a mitad, hasta que esté tierna y caramelizada por los bordes.",
-    "Mientras, cuece el farro en una cazuela con abundante agua con sal 25 minutos, hasta que esté tierno pero con un punto de mordida. Escúrrelo y alíñalo con la ralladura del limón, una cucharada de su zumo y media cucharada de aceite.",
+    "Precalienta el horno a 210 °C y pon a hervir abundante agua con sal en una cazuela para el farro. Mezcla la calabaza con 1,5 cucharadas de aceite, las hojas de romero picadas, los ajos aplastados con piel, sal y pimienta. Extiéndela en una bandeja y asa 30 minutos, dándole la vuelta a mitad, hasta que esté tierna y caramelizada por los bordes.",
+    "Mientras, cuece el farro en el agua hirviendo 25 minutos, hasta que esté tierno pero con un punto de mordida. Escúrrelo y alíñalo con la ralladura del limón, una cucharada de su zumo y media cucharada de aceite.",
     "Tuesta las avellanas en una sartén sin aceite 3 minutos y pícalas gruesas. En la misma sartén, calienta la última cucharada de aceite y fríe las hojas de salvia 20-30 segundos, hasta que estén crujientes. Escúrrelas sobre papel.",
     "Bate la ricotta con una pizca de sal, pimienta y un chorrito de limón hasta que esté cremosa.",
     "Extiende la ricotta en la base de los platos, pon encima el farro y luego la calabaza. Riega con la miel y el aceite aromatizado de la salvia y termina con las avellanas y las hojas crujientes."
@@ -527,10 +527,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas, corta las puntas y pela el tallo. Pártelas en cuartos, quita la pelusa si la tienen y frótalas con limón o déjalas en agua con zumo para que no se oscurezcan.",
-    "Escalda las habas 2 minutos en agua hirviendo con sal, escúrrelas y, si quieres, quítales la piel apretándolas entre los dedos.",
-    "Calienta 2 cucharadas de aceite en una sartén a fuego medio, añade las alcachofas bien secas con una pizca de sal y cocina 10-12 minutos, tapando los primeros 5 con un chorrito de agua, hasta que estén tiernas y doradas.",
-    "Añade los ajos tiernos cortados en trozos de 3 cm y saltea 3 minutos, hasta que se ablanden. Incorpora las habas y saltea 2 minutos más. Riega con zumo de limón y salpimienta.",
+    "Pon a hervir un cazo de agua con sal para las habas. Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas, corta las puntas y pela el tallo. Pártelas en cuartos, quita la pelusa si la tienen y frótalas con limón o déjalas en agua con zumo para que no se oscurezcan.",
+    "Escalda las habas 2 minutos en el agua hirviendo, escúrrelas y, si quieres, quítales la piel apretándolas entre los dedos.",
+    "Calienta 2 cucharadas de aceite en una sartén a fuego medio, añade las alcachofas bien secas con una pizca de sal y cocina 10-12 minutos, tapando los primeros 5 con un chorrito de agua, hasta que estén tiernas y doradas. Mientras, corta los ajos tiernos en trozos de 3 cm.",
+    "Añade los ajos tiernos y saltea 3 minutos, hasta que se ablanden. Incorpora las habas y saltea 2 minutos más. Riega con zumo de limón y salpimienta.",
     "Tuesta el pan y riégalo con la última cucharada de aceite. Pon encima el queso fresco en lonchas y cubre con el salteado templado y abundante menta picada."
   ],
   nutricion: { kcal: 442, prot: 25, hc: 45, grasa: 18 },
@@ -610,10 +610,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Parte las patatas por la mitad (en cuartos si son grandes), mézclalas en la bandeja con 2 cucharadas de aceite, los ajos aplastados con piel, sal y pimienta, y colócalas con el corte hacia abajo.",
-    "Asa 20 minutos, hasta que la parte de abajo esté dorada.",
-    "Quita la parte dura de los espárragos. Añádelos a la bandeja junto con los tomates cherry, riega con la última cucharada de aceite y sala ligeramente.",
-    "Coloca el bloque de feta en el centro, en trozos grandes, ralla por encima la piel del limón y hornea 12-15 minutos más, hasta que los espárragos estén tiernos, los tomates arrugados y el feta dorado por los bordes.",
-    "Exprime medio limón sobre la bandeja, espolvorea abundante eneldo picado y pimienta negra y mezcla un poco para que el feta se desmigue entre las verduras."
+    "Asa 20 minutos, hasta que la parte de abajo esté dorada. Mientras, quita la parte dura de los espárragos.",
+    "Añade los espárragos a la bandeja junto con los tomates cherry, riega con la última cucharada de aceite y sala ligeramente.",
+    "Coloca el bloque de feta en el centro, en trozos grandes, ralla por encima la piel del limón y hornea 12-15 minutos más, hasta que los espárragos estén tiernos, los tomates arrugados y el feta dorado por los bordes. Mientras, pica el eneldo.",
+    "Exprime medio limón sobre la bandeja, espolvorea abundante eneldo y pimienta negra y mezcla un poco para que el feta se desmigue entre las verduras."
   ],
   nutricion: { kcal: 463, prot: 19, hc: 45, grasa: 23 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "primavera", "detox", "poco especiada"],
@@ -653,10 +653,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la berenjena a tiras (dejando franjas de piel) y córtala en dados de 2 cm. Ralla los tomates desechando la piel.",
     "Calienta 2 cucharadas de aceite en una cazuela a fuego medio, añade 2 dientes de ajo picados y, en cuanto huelan (30 segundos), incorpora 1 cucharadita de comino y el pimentón. Remueve 10 segundos y añade enseguida el tomate y la berenjena con sal.",
-    "Tapa y cuece 15 minutos a fuego medio-bajo, removiendo de vez en cuando, hasta que la berenjena esté completamente blanda.",
+    "Tapa y cuece 15 minutos a fuego medio-bajo, removiendo de vez en cuando, hasta que la berenjena esté completamente blanda. Mientras, mezcla el yogur con el diente de ajo restante rallado, el resto del comino y una pizca de sal, y pica el cilantro.",
     "Destapa y aplasta la berenjena con un tenedor o un pasapurés dentro de la cazuela. Añade los garbanzos y la cayena y cocina 8 minutos más sin tapa, removiendo, hasta que el aceite se separe y el guiso quede espeso como una mermelada.",
-    "Mientras, mezcla el yogur con el diente de ajo restante rallado, el resto del comino y una pizca de sal.",
-    "Apaga, añade el zumo de limón, la mayor parte del cilantro picado y la última cucharada de aceite. Sirve templado con una cucharada de yogur, el resto del cilantro y la pita caliente."
+    "Apaga, añade el zumo de limón, la mayor parte del cilantro y la última cucharada de aceite. Sirve templado con una cucharada de yogur, el resto del cilantro y la pita caliente."
   ],
   nutricion: { kcal: 534, prot: 22, hc: 62, grasa: 22 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "verano", "económica", "bajo en colesterol"],
@@ -697,7 +696,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 190 °C. Corta una tapa a los tomates y a los pimientos. Vacía los tomates con una cucharilla, reservando la pulpa, y quita las semillas a los pimientos. Sala el interior de los tomates y ponlos boca abajo 5 minutos.",
     "Tritura o pica muy fina la pulpa de tomate. En una sartén con 2 cucharadas de aceite, pocha la cebolla picada 6 minutos, hasta que esté transparente, añade el ajo y el tomate concentrado y sofríe 1 minuto.",
-    "Agrega el arroz, remueve 1 minuto, incorpora la pulpa de tomate y cocina 5 minutos, hasta que el arroz absorba parte del líquido (quedará a medio hacer). Fuera del fuego, añade las hierbas picadas, sal y pimienta.",
+    "Agrega el arroz, remueve 1 minuto, incorpora la pulpa de tomate y cocina 5 minutos, hasta que el arroz absorba parte del líquido (quedará a medio hacer); mientras, pica las hierbas. Fuera del fuego, añádelas con sal y pimienta.",
     "Coloca las verduras en una fuente y rellénalas hasta tres cuartos (el arroz crece). Pon sus tapas, reparte alrededor los gajos de patata salados, añade 100 ml de agua al fondo y riega todo con el aceite restante.",
     "Tapa con papel de aluminio y hornea 35 minutos. Destapa y hornea 15-20 minutos más, hasta que el arroz esté tierno, las tapas tostadas y las patatas doradas.",
     "Deja reposar 10 minutos y sirve con el feta desmenuzado por encima y un hilo de aceite en crudo."
@@ -783,12 +782,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Pocha la cebolla en plumas finas con 1 cucharada de aceite y una pizca de sal en una sartén a fuego medio-bajo 8 minutos, hasta que esté blanda y dulce. Añade el ajo picado al final, 1 minuto.",
+    "Precalienta el horno a 190 °C. Pocha la cebolla en plumas finas con 1 cucharada de aceite y una pizca de sal en una sartén a fuego medio-bajo 8 minutos, hasta que esté blanda y dulce. Añade el ajo picado al final, 1 minuto. Mientras se pocha, corta el calabacín, la berenjena y los tomates en rodajas finas de 3-4 mm, procurando que tengan un diámetro parecido.",
     "Extiende la cebolla en el fondo de una fuente redonda u ovalada mediana.",
-    "Corta el calabacín, la berenjena y los tomates en rodajas finas de 3-4 mm, procurando que tengan un diámetro parecido.",
-    "Colócalas encima de la cebolla alternando berenjena, tomate y calabacín, de pie y muy apretadas, en espiral o en filas. Riega con 2 cucharadas de aceite, salpimienta y reparte las hojas de 3 ramas de tomillo.",
-    "Cubre con papel de aluminio y hornea 30 minutos. Destapa y hornea 15 minutos más, hasta que las verduras estén muy tiernas y doradas por los bordes.",
-    "Reparte el queso de cabra en rodajas por encima y gratina 5 minutos, hasta que se dore. Termina con el tomillo restante y sirve con el pan tostado."
+    "Coloca las rodajas encima de la cebolla alternando berenjena, tomate y calabacín, de pie y muy apretadas, en espiral o en filas. Riega con 2 cucharadas de aceite, salpimienta y reparte las hojas de 3 ramas de tomillo.",
+    "Cubre con papel de aluminio y hornea 30 minutos. Destapa y hornea 15 minutos más, hasta que las verduras estén muy tiernas y doradas por los bordes. Mientras, tuesta el pan.",
+    "Reparte el queso de cabra en rodajas por encima y gratina 5 minutos, hasta que se dore. Termina con el tomillo restante y sirve con el pan."
   ],
   nutricion: { kcal: 444, prot: 17, hc: 40, grasa: 24 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "verano", "económica", "poco especiada"],
@@ -828,12 +826,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala la berenjena en dados y déjala en un colador 10 minutos. Mientras, pon las pasas en remojo con agua templada y tuesta los piñones en una sartén sin aceite 2 minutos, hasta que estén dorados.",
+    "Sala la berenjena en dados y déjala en un colador 10 minutos. Mientras, pon las pasas en remojo con agua templada y tuesta los piñones en una sartén sin aceite 2 minutos, hasta que estén dorados. Pica la cebolla y el apio.",
     "Seca la berenjena con papel. Calienta 3 cucharadas de aceite en la sartén a fuego medio-alto y dórala 10 minutos, removiendo de vez en cuando, hasta que esté dorada por fuera y cremosa por dentro. Reserva.",
-    "En una cazuela con la última cucharada de aceite, pocha la cebolla y el apio picados 6 minutos, hasta que estén tiernos. Añade el tomate y cocina 5 minutos.",
+    "En una cazuela con la última cucharada de aceite, pocha la cebolla y el apio 6 minutos, hasta que estén tiernos. Añade el tomate y cocina 5 minutos.",
     "Incorpora la berenjena, las aceitunas en rodajas, las alcaparras y las pasas escurridas. Disuelve el azúcar en el vinagre, viértelo y cocina 5 minutos a fuego suave, hasta que se evapore el olor fuerte del vinagre y todo quede brillante.",
-    "Apaga, añade la mitad de la albahaca rota y los piñones y deja templar al menos 10 minutos: la caponata se sirve tibia o a temperatura ambiente.",
-    "Reparte en los platos, pon media burrata abierta encima de cada uno, termina con el resto de la albahaca y acompaña con el pan tostado."
+    "Apaga, añade la mitad de la albahaca rota y los piñones y deja templar al menos 10 minutos: la caponata se sirve tibia o a temperatura ambiente. Mientras, tuesta el pan.",
+    "Reparte en los platos, pon media burrata abierta encima de cada uno, termina con el resto de la albahaca y acompaña con el pan."
   ],
   nutricion: { kcal: 612, prot: 20, hc: 52, grasa: 36 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "verano", "ideal para llevar", "poco especiada"],

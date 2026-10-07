@@ -34,9 +34,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la crema: en un bol mezcla el tahini con el zumo de medio limón, una pizca de sal y 3-4 cucharadas de agua fría, batiendo con un tenedor hasta que pase de cortada a lisa y fluida como un yogur líquido.",
-    "Calienta el aceite en una sartén amplia a fuego medio-alto. Añade los garbanzos bien secos en una sola capa y déjalos 5-6 minutos, moviéndolos solo de vez en cuando, hasta que estén dorados y la piel cruja.",
+    "Calienta el aceite en una sartén amplia a fuego medio-alto. Añade los garbanzos bien secos en una sola capa y déjalos 5-6 minutos, moviéndolos solo de vez en cuando, hasta que estén dorados y la piel cruja. Mientras, lamina los ajos, parte los tomates cherry por la mitad y pica el perejil.",
     "Baja a fuego medio, añade los ajos laminados, el zaatar y el comino y remueve 30 segundos, hasta que huela intensamente sin que el ajo se tueste.",
-    "Incorpora los tomates cherry partidos por la mitad y saltea 3 minutos, hasta que empiecen a soltar jugo y se arruguen.",
+    "Incorpora los tomates cherry y saltea 3 minutos, hasta que empiecen a soltar jugo y se arruguen.",
     "Añade las espinacas a puñados, removiendo, y cocina 2 minutos hasta que se reduzcan. Salpimienta y rocía con el zumo del resto del limón.",
     "Sirve con la crema de tahini por encima, la ralladura de limón y el perejil picado. Acompaña con pan de pita tostado si quieres mojar."
   ],
@@ -75,9 +75,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el tofu con papel de cocina apretando bien y desmígalo con las manos en trozos irregulares, como un revuelto grueso.",
-    "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y saltea la cebolleta picada 2 minutos. Añade el tofu y déjalo 5-6 minutos, removiendo poco, hasta que tenga zonas doradas.",
-    "Incorpora uno de los ajos picado, el tomate seco en tiras, las alcaparras, el orégano y los cherry partidos. Saltea 3 minutos, hasta que los tomates se ablanden. Salpimienta.",
+    "Seca el tofu con papel de cocina apretando bien y desmígalo con las manos en trozos irregulares, como un revuelto grueso. Pica la cebolleta.",
+    "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y saltea la cebolleta 2 minutos. Añade el tofu y déjalo 5-6 minutos, removiendo poco, hasta que tenga zonas doradas. Mientras, pica uno de los ajos, corta el tomate seco en tiras y parte los cherry.",
+    "Incorpora el ajo picado, el tomate seco, las alcaparras, el orégano y los cherry. Saltea 3 minutos, hasta que los tomates se ablanden. Salpimienta.",
     "Mientras, tuesta el pan, frótalo con el otro diente de ajo partido y riégalo con el resto del aceite.",
     "Apaga el fuego, añade la albahaca en hojas rotas con la mano y reparte el tofu sobre las tostadas. Sirve enseguida."
   ],
@@ -115,9 +115,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta los pistachos en una sartén seca a fuego medio 3 minutos, hasta que huelan, y pícalos gruesos. Reserva.",
-    "Cuece el orzo en agua con sal el tiempo del paquete (unos 9 minutos). Antes de escurrir, reserva un vaso del agua de cocción.",
-    "En la misma sartén, calienta el aceite a fuego suave y dora los ajos laminados con la guindilla 1 minuto, hasta que estén apenas dorados.",
+    "Pon a hervir agua con sal para el orzo. Mientras, tuesta los pistachos en una sartén seca a fuego medio 3 minutos, hasta que huelan, y pícalos gruesos. Reserva. Lamina los ajos.",
+    "Cuece el orzo en el agua hirviendo el tiempo del paquete (unos 9 minutos). Antes de escurrir, reserva un vaso del agua de cocción.",
+    "Mientras, en la misma sartén, calienta el aceite a fuego suave y dora los ajos laminados con la guindilla 1 minuto, hasta que estén apenas dorados.",
     "Añade las judías y caliéntalas 2 minutos. Incorpora el orzo escurrido, la levadura nutricional, la ralladura y el zumo de limón y 80 ml del agua de cocción. Remueve con energía 1 minuto, hasta que quede cremoso.",
     "Apaga, mezcla la rúcula para que se ablande con el calor residual, salpimienta y sirve con los pistachos por encima."
   ],
@@ -203,9 +203,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Abre las pitas en dos, píntalas con 1 cucharada de aceite y espolvorea un poco de zumaque. Hornéalas 6-7 minutos, hasta que estén doradas y crujientes, y rómpelas en trozos.",
     "Mezcla la heura con 1 cucharada de aceite, el ajo rallado, el comino, la mitad del zumaque restante y sal.",
-    "Calienta una sartén a fuego fuerte y dora la heura 5-6 minutos, removiendo de vez en cuando, hasta que tenga bordes tostados.",
     "Para el aliño, bate la melaza de granada con el zumo de limón, la última cucharada de aceite, el resto del zumaque y sal.",
-    "Trocea la lechuga, el tomate, el pepino, los rábanos y la cebolleta; añade las hojas de perejil y menta. Justo antes de servir, mezcla con el aliño y la pita crujiente y corona con la heura caliente."
+    "Trocea la lechuga, el tomate, el pepino, los rábanos y la cebolleta en un bol grande; añade las hojas de perejil y menta.",
+    "Calienta una sartén a fuego fuerte y dora la heura 5-6 minutos, removiendo de vez en cuando, hasta que tenga bordes tostados.",
+    "Justo antes de servir, mezcla la ensalada con el aliño y la pita crujiente y corona con la heura caliente."
   ],
   nutricion: { kcal: 575, prot: 32, hc: 48, grasa: 28 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "alta en proteína", "verano", "poco especiada"],
@@ -244,10 +245,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir agua con sal para la pasta. En una sartén con 1 cucharada de aceite a fuego medio-alto, dora los garbanzos secos 6 minutos, hasta que crujan. Sálalos y resérvalos.",
     "En la misma sartén, con media cucharada de aceite, tuesta el pan rallado con un ajo rallado 2 minutos, removiendo sin parar, hasta que esté dorado. Reserva en un plato.",
-    "Cuece los espaguetis el tiempo del paquete menos 1 minuto.",
-    "Mientras, calienta el resto del aceite y sofríe los otros dos ajos laminados y la guindilla 1 minuto. Añade el tomate, las aceitunas en rodajas, las alcaparras y el orégano y cuece a fuego vivo 8-10 minutos, hasta que la salsa espese.",
+    "Cuece los espaguetis el tiempo del paquete menos 1 minuto. En cuanto estén en el agua, lamina los otros dos ajos, corta las aceitunas en rodajas y pica el perejil.",
+    "Mientras, calienta el resto del aceite y sofríe los ajos laminados y la guindilla 1 minuto. Añade el tomate, las aceitunas, las alcaparras y el orégano y cuece a fuego vivo 8-10 minutos, hasta que la salsa espese.",
     "Escurre la pasta reservando medio vaso de agua, échala a la salsa con un chorrito de esa agua y saltea 1 minuto, hasta que la salsa quede brillante y pegada a la pasta.",
-    "Sirve con los garbanzos crujientes, el pan rallado al ajo y el perejil picado por encima."
+    "Sirve con los garbanzos crujientes, el pan rallado al ajo y el perejil por encima."
   ],
   nutricion: { kcal: 730, prot: 23, hc: 96, grasa: 28 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "picante", "económica"],
@@ -287,10 +288,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el cuscús en un bol con la ralladura de limón y una pizca de sal, vierte el caldo hirviendo, tapa con un plato y deja reposar 5 minutos.",
-    "Corta el tempeh en dados de 1,5 cm y el calabacín en medias lunas. Tuesta las almendras picadas en una sartén seca 2 minutos y resérvalas.",
+    "Corta el tempeh en dados de 1,5 cm y el calabacín en medias lunas, pica el ajo y las hierbas. Tuesta las almendras picadas en una sartén seca 2 minutos y resérvalas.",
     "Calienta 1 cucharada de aceite en la sartén a fuego medio-alto y dora el tempeh 6 minutos, girándolo, hasta que esté dorado por todas las caras.",
-    "Añade el calabacín, el ajo picado, el comino y el pimentón y saltea 4 minutos, hasta que el calabacín esté tostado pero firme. Riega con el zumo de limón y salpimienta.",
-    "Esponja el cuscús con un tenedor, mézclalo con el resto del aceite y las hierbas picadas, y sirve con el tempeh, el calabacín y las almendras por encima."
+    "Añade el calabacín, el ajo, el comino y el pimentón y saltea 4 minutos, hasta que el calabacín esté tostado pero firme. Riega con el zumo de limón y salpimienta.",
+    "Esponja el cuscús con un tenedor, mézclalo con el resto del aceite y las hierbas, y sirve con el tempeh, el calabacín y las almendras por encima."
   ],
   nutricion: { kcal: 635, prot: 31, hc: 62, grasa: 29 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "alta en proteína", "ideal para llevar", "poco especiada"],
@@ -368,11 +369,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las lentejas en una cazuela con 700 ml de agua sin sal a fuego medio 15 minutos, hasta que estén casi tiernas pero enteras.",
-    "Mientras, corta las cebollas en pluma fina. Calienta 3 cucharadas de aceite en una sartén y fríe la cebolla a fuego medio 20 minutos, removiendo a menudo, hasta que esté muy dorada y crujiente en los bordes. Sálala al final.",
+    "Corta las cebollas en pluma fina. Calienta 3 cucharadas de aceite en una sartén y fríe la cebolla a fuego medio 20 minutos, removiendo a menudo, hasta que esté muy dorada y crujiente en los bordes. Sálala al final.",
+    "En cuanto la cebolla esté al fuego, cuece las lentejas en una cazuela con 700 ml de agua sin sal a fuego medio 15 minutos, hasta que estén casi tiernas pero enteras.",
     "Cuando las lentejas lleven 15 minutos, comprueba que les quede agua justa para cubrirlas (unos 250 ml); añade el bulgur, el comino, la canela, sal y la mitad de la cebolla frita.",
     "Tapa y cuece a fuego mínimo 12 minutos, hasta que el bulgur haya absorbido el líquido. Apaga y deja reposar tapado 5 minutos.",
-    "Para la ensalada, corta el pepino en dados y mézclalo con la menta picada, el zumo de limón, la última cucharada de aceite y sal.",
+    "Mientras, prepara la ensalada: corta el pepino en dados y mézclalo con la menta picada, el zumo de limón, la última cucharada de aceite y sal.",
     "Sirve la mujaddara coronada con el resto de la cebolla crujiente y la ensalada de pepino al lado."
   ],
   nutricion: { kcal: 690, prot: 23, hc: 82, grasa: 30 },
@@ -495,11 +496,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica fina la cebolla, la zanahoria y el apio. Póchalos en la cazuela con 1,5 cucharadas de aceite a fuego medio 8 minutos, hasta que estén blandos y dulces.",
+    "Pica fina la cebolla, la zanahoria y el apio. Póchalos en la cazuela con 1,5 cucharadas de aceite a fuego medio 8 minutos, hasta que estén blandos y dulces. Mientras, lamina dos ajos.",
     "Añade dos ajos laminados, el romero y la guindilla y rehoga 1 minuto. Incorpora el tomate y cocina 3 minutos.",
-    "Agrega las judías y el caldo. Con un tenedor, aplasta un cucharón de judías contra la pared de la cazuela para espesar la sopa. Cuece a fuego suave 10 minutos.",
-    "Añade el kale picado y cuece 5-6 minutos más, hasta que esté tierno. Retira el romero y salpimienta.",
-    "Tuesta el pan, frótalo con el ajo restante y ponlo en el fondo de los platos. Sirve la sopa encima con un hilo del aceite restante en crudo."
+    "Agrega las judías y el caldo. Con un tenedor, aplasta un cucharón de judías contra la pared de la cazuela para espesar la sopa. Cuece a fuego suave 10 minutos. Mientras, pica el kale.",
+    "Añade el kale y cuece 5-6 minutos más, hasta que esté tierno; mientras, tuesta el pan. Retira el romero y salpimienta.",
+    "Frota el pan con el ajo restante y ponlo en el fondo de los platos. Sirve la sopa encima con un hilo del aceite restante en crudo."
   ],
   nutricion: { kcal: 430, prot: 20, hc: 52, grasa: 16 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "invierno", "batch cooking", "detox", "superalimentos", "bajo en colesterol"],
@@ -539,7 +540,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en láminas de medio centímetro. Corta una cebolla en juliana y el pimiento en tiras. Sala.",
     "Calienta 2,5 cucharadas de aceite en una sartén grande a fuego medio, añade patata, cebolla y pimiento, tapa y cocina 20 minutos, dando la vuelta de vez en cuando, hasta que la patata esté tierna y algo dorada.",
-    "Mientras, corta el tempeh en dados y la otra cebolla en pluma. En otra sartén con el resto del aceite, dora el tempeh 5 minutos a fuego medio-alto y retíralo.",
+    "Mientras, corta el tempeh en dados y la otra cebolla en pluma y lamina los ajos. En otra sartén con el resto del aceite, dora el tempeh 5 minutos a fuego medio-alto y retíralo.",
     "En la misma sartén, pocha la cebolla con los ajos laminados, el tomillo y el laurel 10 minutos, hasta que esté dorada y melosa. Añade el pimentón, remueve 10 segundos y vierte el vino.",
     "Deja reducir el vino 2 minutos, devuelve el tempeh, añade 80 ml de agua y cuece 5 minutos, hasta que la salsa se ligue y el tempeh esté glaseado. Salpimienta.",
     "Sirve el tempeh encebollado sobre las patatas a lo pobre."
@@ -575,6 +576,7 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "zumaque", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "agua", q: 250, u: "ml" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
@@ -622,8 +624,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita la parte leñosa de los espárragos, corta las puntas y reserva; trocea los tallos en rodajas. Tuesta las almendras en una sartén seca 2 minutos y reserva.",
-    "En una cazuela con 1,5 cucharadas de aceite, pocha la chalota picada 3 minutos. Añade el arroz y nácaralo 1 minuto, hasta que los granos estén brillantes.",
+    "Quita la parte leñosa de los espárragos, corta las puntas y reserva; trocea los tallos en rodajas. Pica la chalota. Tuesta las almendras en una sartén seca 2 minutos y reserva.",
+    "En una cazuela con 1,5 cucharadas de aceite, pocha la chalota 3 minutos. Añade el arroz y nácaralo 1 minuto, hasta que los granos estén brillantes.",
     "Vierte el vino y deja que se evapore. Añade los tallos de espárrago y ve incorporando el caldo caliente cucharón a cucharón, removiendo a menudo y esperando a que se absorba, durante 16 minutos.",
     "A los 12 minutos añade las puntas de espárrago, los guisantes y las judías, aplastando unas cuantas con la cuchara para que den cremosidad.",
     "Cuando el arroz esté al dente y el conjunto fluya como una ola, apaga y añade la levadura nutricional, la ralladura y el zumo de limón y el resto del aceite. Remueve con energía 1 minuto y deja reposar tapado 2 minutos.",
@@ -669,8 +671,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece las lentejas rojas en 400 ml de agua a fuego medio 12-15 minutos, removiendo, hasta que se deshagan y quede un puré espeso casi sin líquido.",
     "Apaga, añade el bulgur y una cucharadita de sal, mezcla bien, tapa y deja reposar 15 minutos: el bulgur absorberá la humedad y se ablandará.",
-    "Mientras, pocha la cebolla muy picada en 2 cucharadas de aceite a fuego medio 8 minutos, hasta que esté dorada. Añade el tomate concentrado, el pimentón y el comino y remueve 1 minuto.",
-    "Incorpora el sofrito a la mezcla de lentejas, junto con la cebolleta y el perejil muy picados, el zumo de medio limón y el resto del aceite. Amasa con las manos hasta que quede compacto; prueba de sal.",
+    "Mientras, pocha la cebolla muy picada en 2 cucharadas de aceite a fuego medio 8 minutos, hasta que esté dorada. Añade el tomate concentrado, el pimentón y el comino y remueve 1 minuto. Pica muy fino la cebolleta y el perejil.",
+    "Incorpora el sofrito a la mezcla de lentejas, junto con la cebolleta y el perejil, el zumo de medio limón y el resto del aceite. Amasa con las manos hasta que quede compacto; prueba de sal.",
     "Con las manos húmedas, forma croquetas alargadas apretándolas en el puño para que queden con la marca de los dedos.",
     "Sirve cada köfte sobre una hoja de lechuga, con granos de granada, un chorrito de melaza de granada y gajos de limón para envolver y comer con la mano."
   ],
@@ -884,9 +886,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Parte los calabacines a lo largo y vacíalos con una cuchara dejando 1 cm de pared. Pica la pulpa. Pinta las barcas con un poco de aceite, sálalas y hornéalas boca abajo 10 minutos.",
-    "Cubre el bulgur con 160 ml de agua hirviendo con sal, tapa y deja 10 minutos. Tuesta los piñones en una sartén seca 2 minutos, hasta que estén dorados, y resérvalos.",
-    "En la sartén, con 1 cucharada de aceite, pocha la cebolla picada 6 minutos. Añade el ajo, la pulpa del calabacín, el comino y la canela y cocina 5 minutos, hasta que la pulpa pierda el agua.",
-    "Añade la mitad del tomate, los garbanzos chafados ligeramente, el bulgur, dos tercios de los piñones, la menta y el perejil picados y el zumo de limón. Salpimienta.",
+    "Cubre el bulgur con 160 ml de agua hirviendo con sal, tapa y deja 10 minutos. Tuesta los piñones en una sartén seca 2 minutos, hasta que estén dorados, y resérvalos. Pica la cebolla y el ajo.",
+    "En la sartén, con 1 cucharada de aceite, pocha la cebolla 6 minutos. Añade el ajo, la pulpa del calabacín, el comino y la canela y cocina 5 minutos, hasta que la pulpa pierda el agua. Mientras, pica la menta y el perejil.",
+    "Añade la mitad del tomate, los garbanzos chafados ligeramente, el bulgur, dos tercios de los piñones, la menta, el perejil y el zumo de limón. Salpimienta.",
     "Reparte el resto del tomate en una fuente, coloca las barcas boca arriba, rellénalas apretando y espolvorea la levadura nutricional y el resto de piñones. Riega con el aceite restante.",
     "Hornea 20 minutos, hasta que los calabacines estén tiernos y la superficie dorada. Sirve con más menta fresca."
   ],

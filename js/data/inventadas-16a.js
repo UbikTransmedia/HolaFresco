@@ -30,7 +30,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Sazona los filetes de pollo con sal, pimienta, la mitad del orégano y la ralladura de medio limón.",
+    "Lamina el ajo. Sazona los filetes de pollo con sal, pimienta, la mitad del orégano y la ralladura de medio limón.",
     "Calienta 1 cucharada de aceite en una sartén amplia a fuego medio-alto y dora el pollo 3 minutos por cada lado, hasta que esté dorado y casi hecho. Resérvalo en un plato.",
     "En la misma sartén, añade la otra cucharada de aceite y el ajo laminado; sofríe 30 segundos sin que se queme. Incorpora el orzo y nácaralo 1 minuto removiendo.",
     "Vierte el caldo caliente y el resto del orégano, raspando el fondo para despegar los jugos del pollo. Cuece 8–9 minutos a fuego medio, removiendo de vez en cuando, hasta que el orzo esté casi tierno y el caldo espese.",
@@ -327,7 +327,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo. Calienta 1 cucharada de aceite en una sartén amplia a fuego fuerte y dora los dados 4–5 minutos, hasta que estén tostados por fuera. Resérvalos.",
+    "Lamina el ajo. Salpimienta el pollo. Calienta 1 cucharada de aceite en una sartén amplia a fuego fuerte y dora los dados 4–5 minutos, hasta que estén tostados por fuera. Resérvalos.",
     "Baja a fuego medio, añade el resto del aceite, el ajo laminado, las anchoas y la guindilla y remueve 1 minuto, hasta que las anchoas se deshagan.",
     "Incorpora los tomates cherry enteros, tapa 3 minutos y luego aplástalos con una cuchara para que revienten y suelten su jugo.",
     "Añade las aceitunas y las alcaparras, devuelve el pollo a la sartén y cocina 4 minutos sin tapar, hasta que la salsa espese y el pollo esté hecho por dentro.",
@@ -414,7 +414,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 160 °C. Seca la ternera, salpiméntala y dórala en una cazuela apta para horno con el aceite a fuego fuerte, en dos tandas, 5 minutos por tanda, hasta que esté bien tostada. Resérvala.",
+    "Precalienta el horno a 160 °C y lamina el ajo. Seca la ternera, salpiméntala y dórala en una cazuela apta para horno con el aceite a fuego fuerte, en dos tandas, 5 minutos por tanda, hasta que esté bien tostada. Resérvala.",
     "En la misma cazuela, dora las cebollitas enteras 5 minutos a fuego medio, hasta que tengan manchas doradas. Añade el ajo laminado 30 segundos.",
     "Vierte el vino y el vinagre, raspando el fondo, y deja hervir 2 minutos. Añade el tomate, la canela, el clavo, el laurel, la carne con su jugo y agua justo hasta cubrir.",
     "Lleva a ebullición, tapa y mete al horno 1 h 30 min sin tocar.",
@@ -540,7 +540,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y dóralo en una cazuela con 1 cucharada de aceite a fuego medio-alto 6 minutos, hasta que esté dorado por todos los lados. Resérvalo.",
+    "Pica las cebolletas y lamina el ajo. Salpimienta el pollo y dóralo en una cazuela con 1 cucharada de aceite a fuego medio-alto 6 minutos, hasta que esté dorado por todos los lados. Resérvalo.",
     "Añade el resto del aceite, las cebolletas picadas y el ajo laminado y póchalos 5 minutos a fuego medio, hasta que estén blandos.",
     "Vierte el vino, raspa el fondo y deja reducir 2 minutos. Devuelve el pollo, añade el caldo, tapa y cocina 12 minutos a fuego suave.",
     "Incorpora las alcachofas y las habas, sala ligeramente y cocina 8 minutos más sin tapar, hasta que las habas estén tiernas y la salsa haya espesado.",
@@ -626,7 +626,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 170 °C. Salpimienta el cordero y dóralo en una cazuela apta para horno con el aceite a fuego fuerte 6–8 minutos, hasta que esté bien tostado.",
+    "Precalienta el horno a 170 °C y pica la cebolla y el ajo. Salpimienta el cordero y dóralo en una cazuela apta para horno con el aceite a fuego fuerte 6–8 minutos, hasta que esté bien tostado.",
     "Añade la cebolla picada y el ajo y cocina 5 minutos a fuego medio, hasta que la cebolla esté blanda.",
     "Vierte el vino y deja reducir 2 minutos. Incorpora el tomate, la canela, el laurel, el orégano y 200 ml del caldo. Tapa y hornea 1 hora, hasta que el cordero esté tierno.",
     "Saca la cazuela, añade el orzo y el resto del caldo caliente, mezcla bien y comprueba de sal.",
@@ -707,7 +707,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el bulgur en un cazo con 250 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 10 minutos; apaga y deja reposar tapado.",
+    "Pon el bulgur en un cazo con 250 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 10 minutos; apaga y deja reposar tapado. Mientras, corta el calabacín en medias lunas y lamina el ajo.",
     "Tuesta los piñones en una sartén seca 2 minutos, moviendo, hasta que estén dorados. Resérvalos.",
     "En la misma sartén, calienta 1 cucharada de aceite a fuego fuerte y saltea el pavo salpimentado 3–4 minutos, hasta que esté dorado. Resérvalo.",
     "Añade el resto del aceite, el calabacín en medias lunas y el ajo laminado y saltea 4 minutos a fuego fuerte, hasta que el calabacín esté dorado pero aún firme.",
@@ -835,7 +835,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas en agua con sal 6 minutos; añade las judías verdes despuntadas y cuece 5–6 minutos más, hasta que estén tiernas pero aún verdes y crujientes. Escurre.",
-    "Mientras, tuesta las almendras en una sartén seca 2 minutos, hasta que estén doradas, y resérvalas.",
+    "Mientras, lamina el ajo y tuesta las almendras en una sartén seca 2 minutos, hasta que estén doradas, y resérvalas.",
     "Salpimienta el pollo y hazlo en la misma sartén con 1 cucharada de aceite a fuego medio-alto 3–4 minutos por lado, hasta que esté dorado y jugoso. Resérvalo.",
     "Baja el fuego, añade el resto del aceite y el ajo laminado, y saltea 1 minuto las patatas y las judías con la ralladura y el zumo del limón.",
     "Sirve el pollo en tiras sobre las verduras, con las almendras y el eneldo picado por encima."
@@ -874,7 +874,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Sazona los filetes con sal, pimienta, las hojas de una rama de tomillo y la ralladura de medio limón.",
+    "Lamina el ajo. Sazona los filetes con sal, pimienta, las hojas de una rama de tomillo y la ralladura de medio limón.",
     "Calienta 1 cucharada de aceite en una sartén a fuego fuerte y haz los filetes 1,5–2 minutos por lado, hasta que estén dorados pero aún jugosos. Resérvalos tapados con un chorrito de zumo de limón.",
     "En la misma sartén, añade el resto del aceite, el ajo laminado y el resto del tomillo y sofríe 30 segundos.",
     "Incorpora los garbanzos bien secos y saltéalos 4 minutos a fuego medio-alto, hasta que estén algo crujientes. Añade el pimentón y remueve 10 segundos.",
@@ -915,10 +915,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Mezcla las patatas con 1 cucharada de aceite, las hojas de romero picadas y sal y hornéalas en una bandeja 25 minutos, girándolas a mitad, hasta que estén doradas y crujientes.",
+    "Saca la carne de la nevera. Precalienta el horno a 220 °C. Mezcla las patatas con 1 cucharada de aceite, las hojas de romero picadas y sal y hornéalas en una bandeja 25 minutos, girándolas a mitad, hasta que estén doradas y crujientes.",
     "Prepara el salmoriglio: mezcla 1,5 cucharadas de aceite con el zumo de medio limón, la ralladura del limón, el orégano, el ajo rallado, el perejil picado y una pizca de sal. Bate con un tenedor hasta que emulsione.",
-    "Saca la carne de la nevera 15 minutos antes de cocinarla y salpiméntala.",
-    "Calienta el resto del aceite en una sartén a fuego muy fuerte y marca los medallones 2–3 minutos por lado, hasta que tengan costra dorada y el interior quede rosado. Déjalos reposar 3 minutos.",
+    "Salpimienta la carne. Calienta el resto del aceite en una sartén a fuego muy fuerte y marca los medallones 2–3 minutos por lado, hasta que tengan costra dorada y el interior quede rosado. Déjalos reposar 3 minutos.",
     "Sirve los medallones con las patatas y la rúcula y cubre la carne con el salmoriglio."
   ],
   nutricion: { kcal: 545, prot: 36, hc: 35, grasa: 29 },
@@ -959,7 +958,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura los garbanzos con el tahini, el zumo del limón, 1 diente de ajo, media cucharadita de comino, sal y 4–5 cucharadas del líquido del bote hasta obtener un hummus muy fino. Templa en un cazo o 1 minuto en el microondas.",
-    "Tuesta los piñones en una sartén seca 2 minutos, hasta que estén dorados, y resérvalos.",
+    "Pica fina la cebolla y el otro ajo. Tuesta los piñones en una sartén seca 2 minutos, hasta que estén dorados, y resérvalos.",
     "En la misma sartén, calienta 1 cucharada de aceite y sofríe la cebolla picada fina 4 minutos a fuego medio, hasta que esté blanda.",
     "Sube el fuego, añade la ternera, el otro ajo picado, el resto del comino, la canela, el pimentón y sal, y cocina 5–6 minutos deshaciéndola con la cuchara, hasta que esté dorada y suelta.",
     "Extiende el hummus caliente en dos platos haciendo un hueco, rellénalo con la carne y termina con los piñones, el perejil picado y el resto del aceite.",

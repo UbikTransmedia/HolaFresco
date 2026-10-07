@@ -30,12 +30,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien los lomos de merluza con papel de cocina, sálalos y ralla por encima la piel de medio limón.",
+    "Seca bien los lomos de merluza con papel de cocina, sálalos y ralla por encima la piel de medio limón. Lamina los ajos y pica el perejil.",
     "Calienta 1,5 cucharadas de aceite en una sartén amplia a fuego medio-alto y dora la merluza por el lado de la piel 3 minutos, sin moverla, hasta que se vea blanca casi hasta la mitad. Dale la vuelta, cocina 1 minuto más y resérvala en un plato.",
-    "En la misma sartén añade el resto del aceite, los ajos laminados y la rama de romero. Sofríe 1 minuto a fuego medio, hasta que el ajo empiece a dorarse y huela intensamente.",
+    "En la misma sartén añade el resto del aceite, los ajos y la rama de romero. Sofríe 1 minuto a fuego medio, hasta que el ajo empiece a dorarse y huela intensamente.",
     "Incorpora los tomates cherry enteros con una pizca de sal y cocina 4-5 minutos, aplastando algunos con la espátula cuando revienten, hasta formar una salsa rústica.",
     "Añade las judías blancas, las alcaparras y 3 cucharadas de agua. Calienta 2 minutos removiendo con suavidad, hasta que las judías brillen y la salsa se ligue.",
-    "Vuelve a poner la merluza encima, tapa y deja 2 minutos a fuego bajo para que termine de hacerse por dentro. Riega con el zumo de medio limón, pimienta y perejil picado y sirve."
+    "Vuelve a poner la merluza encima, tapa y deja 2 minutos a fuego bajo para que termine de hacerse por dentro. Riega con el zumo de medio limón, pimienta y el perejil y sirve."
   ],
   nutricion: { kcal: 515, prot: 36, hc: 38, grasa: 24 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "alta en proteína", "poco especiada", "bajo en colesterol"],
@@ -198,8 +198,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la cebolla morada en juliana fina y los piquillos en tiras. Pica el perejil.",
-    "Calienta 1 cucharada de aceite en una sartén a fuego medio, añade el ajo picado y el comino y remueve 30 segundos, hasta que huela. Incorpora los garbanzos y saltéalos 4 minutos, hasta que estén calientes y algo dorados.",
+    "Corta la cebolla morada en juliana fina y los piquillos en tiras. Pica el ajo y el perejil.",
+    "Calienta 1 cucharada de aceite en una sartén a fuego medio, añade el ajo y el comino y remueve 30 segundos, hasta que huela. Incorpora los garbanzos y saltéalos 4 minutos, hasta que estén calientes y algo dorados.",
     "Pasa los garbanzos a un bol con los piquillos, la cebolla, el perejil, el zumo de medio limón, un chorrito de aceite y sal. Mezcla y reserva templado.",
     "Seca la caballa, espolvorea la carne con pimentón y sal. Limpia la sartén, añade el aceite restante y ponla a fuego fuerte.",
     "Cocina los lomos con la piel hacia abajo 2-3 minutos, aplastándolos los primeros segundos con la espátula para que no se curven, hasta que la piel esté crujiente. Dales la vuelta 30 segundos y apaga.",
@@ -325,10 +325,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata, córtala en dados de 1,5 cm y ponla a cocer en agua con sal. A los 3 minutos añade los huevos con cuidado y cuece todo 10 minutos, hasta que la patata esté tierna y los huevos duros. Enfría los huevos en agua fría.",
-    "Escurre la patata y aliña en caliente con el zumo de limón, el comino, 1 cucharada de aceite, sal y el perejil picado.",
-    "Mezcla la harissa con el resto del aceite para aligerarla.",
-    "Corta el tomate en dados pequeños, las aceitunas en rodajas y pela y lamina los huevos.",
+    "Pela la patata, córtala en dados de 1,5 cm y ponla a cocer en agua con sal. A los 3 minutos añade los huevos con cuidado y cuece todo 10 minutos, hasta que la patata esté tierna y los huevos duros. Mientras, pica el perejil, corta el tomate en dados pequeños y las aceitunas en rodajas, y mezcla la harissa con 1 cucharada de aceite para aligerarla. Enfría los huevos en agua fría.",
+    "Escurre la patata y aliña en caliente con el zumo de limón, el comino, el resto del aceite, sal y el perejil.",
+    "Pela y lamina los huevos.",
     "Abre el pan a lo largo y úntalo por dentro con el aceite de harissa. Rellena con la patata aliñada, el atún en lascas, el huevo, el tomate, las aceitunas y las alcaparras.",
     "Cierra, aprieta con la mano y deja reposar 5 minutos para que el pan se empape de los jugos antes de cortar en dos."
   ],
@@ -451,11 +450,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las pasas en remojo en un poco de agua caliente. Tuesta los piñones en la sartén seca a fuego medio 2 minutos, removiendo, hasta que estén dorados, y resérvalos.",
-    "En la misma sartén calienta el aceite y pocha la cebolla picada fina 5 minutos a fuego medio, hasta que esté transparente. Añade el ajo laminado y sofríe 1 minuto.",
-    "Incorpora el tomate triturado, el orégano, sal y pimienta y cocina 8 minutos, hasta que la salsa espese y el aceite asome por los bordes.",
-    "Añade las aceitunas en rodajas, las alcaparras y las pasas escurridas y mezcla.",
-    "Sala ligeramente los lomos de bacalao, acomódalos dentro de la salsa, tapa y cocina a fuego suave 6-7 minutos, hasta que el pescado esté opaco y se separe en lascas.",
+    "Pon las pasas en remojo en un poco de agua caliente. Pica fina la cebolla y lamina el ajo. Tuesta los piñones en la sartén seca a fuego medio 2 minutos, removiendo, hasta que estén dorados, y resérvalos.",
+    "En la misma sartén calienta el aceite y pocha la cebolla 5 minutos a fuego medio, hasta que esté transparente. Añade el ajo y sofríe 1 minuto.",
+    "Incorpora el tomate triturado, el orégano, sal y pimienta y cocina 8 minutos, hasta que la salsa espese y el aceite asome por los bordes. Mientras, corta las aceitunas en rodajas.",
+    "Añade las aceitunas, las alcaparras y las pasas escurridas y mezcla.",
+    "Sala ligeramente los lomos de bacalao, acomódalos dentro de la salsa, tapa y cocina a fuego suave 6-7 minutos, hasta que el pescado esté opaco y se separe en lascas. Mientras, tuesta el pan.",
     "Esparce los piñones y la albahaca rota por encima y sirve con el pan tostado para mojar en la salsa."
   ],
   nutricion: { kcal: 460, prot: 34, hc: 36, grasa: 20 },
@@ -537,8 +536,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 12-15 minutos, hasta que estén tiernas. Escúrrelas y aliña con el orégano, una cucharadita de aceite y sal.",
-    "Mientras, corta los pimientos y la cebolla en tiras. Calienta 1,5 cucharadas de aceite en una sartén y sofríelos a fuego medio 12 minutos, removiendo de vez en cuando, hasta que estén blandos y dulces.",
-    "Añade el ajo laminado y el tomate rallado y cocina 5 minutos más. Incorpora las alcaparras y el vinagre, deja que se evapore 1 minuto y apaga. Termina con la albahaca rota.",
+    "Mientras, corta los pimientos y la cebolla en tiras. Calienta 1,5 cucharadas de aceite en una sartén y sofríelos a fuego medio 12 minutos, removiendo de vez en cuando, hasta que estén blandos y dulces. Mientras, lamina el ajo y ralla el tomate.",
+    "Añade el ajo y el tomate y cocina 5 minutos más. Incorpora las alcaparras y el vinagre, deja que se evapore 1 minuto y apaga. Termina con la albahaca rota.",
     "Seca los lomos de caballa y sálalos. Calienta la plancha a fuego fuerte con unas gotas de aceite.",
     "Pon la caballa con la piel hacia abajo 2-3 minutos, presionando al principio, hasta que la piel esté crujiente; dale la vuelta solo 30 segundos.",
     "Sirve la peperonata templada con la caballa encima y las patatas al orégano al lado."
@@ -581,10 +580,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la berenjena en dados de 2 cm, sálala y déjala 10 minutos en un colador; sécala bien con papel de cocina.",
+    "Corta la berenjena en dados de 2 cm, sálala y déjala 10 minutos en un colador. Mientras, pica el apio y la cebolla, parte los tomates cherry, corta las aceitunas en rodajas y tuesta los piñones 2 minutos en la sartén seca. Seca bien la berenjena con papel de cocina.",
     "Calienta 2 cucharadas de aceite en una sartén amplia a fuego medio-alto y saltea la berenjena 8 minutos, removiendo, hasta que esté dorada por fuera y cremosa por dentro.",
-    "Añade el apio y la cebolla picados y cocina 3 minutos. Incorpora los tomates cherry partidos, las aceitunas en rodajas y las alcaparras y cocina 4 minutos, hasta que el tomate se ablande.",
-    "Disuelve el azúcar en el vinagre, viértelo en la sartén y deja que se evapore 1 minuto: notarás el aroma agridulce. Apaga, añade los piñones tostados y la albahaca y deja templar.",
+    "Añade el apio y la cebolla y cocina 3 minutos. Incorpora los tomates cherry, las aceitunas y las alcaparras y cocina 4 minutos, hasta que el tomate se ablande.",
+    "Disuelve el azúcar en el vinagre, viértelo en la sartén y deja que se evapore 1 minuto: notarás el aroma agridulce. Apaga, añade los piñones y la albahaca y deja templar. Mientras, tuesta el pan.",
     "Seca el atún, úntalo con el resto del aceite, sal y pimienta. Marca en la plancha muy caliente 1 minuto por lado, hasta que tenga costra fuera y siga rosado dentro.",
     "Corta el atún en tiras gruesas y sírvelo sobre la caponata templada con el pan tostado."
   ],
@@ -625,10 +624,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el bacalao en dados de 3-4 cm. Mézclalo en un bol con la ralladura y el zumo de medio limón, el pimentón, el ajo rallado, 1 cucharada de aceite y sal. Deja marinar 15 minutos (no más, o el limón lo cocinará).",
+    "Corta el bacalao en dados de 3-4 cm. Mézclalo en un bol con la ralladura y el zumo de medio limón, el pimentón, el ajo rallado, 1 cucharada de aceite y sal. Deja marinar 15 minutos (no más, o el limón lo cocinará). Si usas brochetas de madera, ponlas en remojo en agua.",
     "Mientras, lleva el caldo a ebullición, viértelo sobre el cuscús con 1 cucharada de aceite, tapa y deja 5 minutos. Esponja con un tenedor.",
     "Pica el pepino y el tomate en dados pequeños y las hierbas finas. Añádelo al cuscús con el comino, el zumo del otro medio limón, el resto del aceite, sal y pimienta.",
-    "Ensarta el bacalao en brochetas (si son de madera, remójalas antes en agua).",
+    "Ensarta el bacalao en las brochetas.",
     "Cocina las brochetas en la plancha bien caliente 2 minutos por cada uno de sus cuatro lados, hasta que estén doradas y el pescado opaco. Gíralas con cuidado para que no se rompan.",
     "Sirve los pinchos sobre la ensalada de cuscús con un poco más de limón exprimido al momento."
   ],
@@ -667,10 +666,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela baja, fríe a fuego medio en el aceite las almendras, los ajos pelados enteros y la rebanada de pan 3-4 minutos, hasta que estén dorados (vigila que no se quemen). Sácalos con una espumadera.",
-    "En el mismo aceite pocha la cebolla picada 5 minutos, hasta que esté transparente.",
+    "Pica la cebolla; pela las patatas y córtalas en rodajas de 1 cm. En una cazuela baja, fríe a fuego medio en el aceite las almendras, los ajos pelados enteros y la rebanada de pan 3-4 minutos, hasta que estén dorados (vigila que no se quemen). Sácalos con una espumadera.",
+    "En el mismo aceite pocha la cebolla 5 minutos, hasta que esté transparente.",
     "Tritura en la batidora las almendras, los ajos, el pan, el azafrán, el perejil (reserva un poco) y el vino blanco hasta obtener una pasta fina: es la picada.",
-    "Pela las patatas, córtalas en rodajas de 1 cm y añádelas a la cazuela con el caldo y sal. Cuece tapado 15 minutos a fuego medio, hasta que estén casi tiernas.",
+    "Añade las patatas a la cazuela con el caldo y sal. Cuece tapado 15 minutos a fuego medio, hasta que estén casi tiernas.",
     "Incorpora la picada, remueve y cocina 3 minutos para que la salsa espese y pierda el alcohol.",
     "Coloca los lomos de merluza salados encima, tapa y cocina 6 minutos a fuego suave, meneando la cazuela de vez en cuando para que la salsa se ligue, hasta que el pescado esté opaco.",
     "Espolvorea el perejil reservado y sirve en la misma cazuela."
@@ -710,9 +709,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta dos rectángulos grandes de papel de horno (unos 40 x 30 cm).",
-    "Pela las patatas y córtalas en láminas muy finas, de 2 mm (con mandolina si tienes). Cuécelas 4 minutos en agua con sal o 4 minutos en el microondas con un chorrito de agua, tapadas, hasta que estén flexibles.",
+    "Pela las patatas y córtalas en láminas muy finas, de 2 mm (con mandolina si tienes). Cuécelas 4 minutos en agua con sal o 4 minutos en el microondas con un chorrito de agua, tapadas, hasta que estén flexibles. Mientras, corta el limón en rodajas finas, lamina el ajo y corta los tomates secos en tiras.",
     "Reparte las patatas en el centro de cada papel formando una cama, con sal y un hilo de aceite. Coloca encima los lomos de dorada salados, con la piel hacia abajo.",
-    "Cubre el pescado con rodajas finas de limón, el ajo laminado, los tomates secos en tiras, las aceitunas y las ramas de tomillo. Riega con el vino y el resto del aceite y añade pimienta.",
+    "Cubre el pescado con las rodajas de limón, el ajo, los tomates secos, las aceitunas y las ramas de tomillo. Riega con el vino y el resto del aceite y añade pimienta.",
     "Cierra los paquetes doblando los bordes varias veces para que queden herméticos y ponlos en una bandeja.",
     "Hornea 15-18 minutos, hasta que el papel se hinche. Sirve el paquete cerrado en el plato y ábrelo en la mesa para liberar todo el aroma."
   ],
@@ -752,11 +751,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la cebolla, el pimiento y el calabacín en dados de 1,5 cm.",
-    "Calienta el aceite en una sartén amplia con tapa a fuego medio y sofríe la cebolla y el pimiento 6 minutos, hasta que se ablanden. Añade el calabacín y el ajo picado y cocina 5 minutos más, removiendo.",
+    "Corta la cebolla, el pimiento y el calabacín en dados de 1,5 cm y pica el ajo.",
+    "Calienta el aceite en una sartén amplia con tapa a fuego medio y sofríe la cebolla y el pimiento 6 minutos, hasta que se ablanden. Añade el calabacín y el ajo y cocina 5 minutos más, removiendo.",
     "Incorpora el tomate triturado, el tomillo, sal y pimienta y cocina 8 minutos a fuego medio-bajo, hasta que las verduras estén tiernas y la salsa espesa.",
     "Reparte el bonito en lascas grandes sobre el pisto, haz dos huecos con una cuchara y casca un huevo en cada uno. Sala los huevos.",
-    "Tapa y cocina 4-5 minutos a fuego suave, hasta que la clara esté cuajada y la yema siga líquida.",
+    "Tapa y cocina 4-5 minutos a fuego suave, hasta que la clara esté cuajada y la yema siga líquida. Mientras, tuesta el pan.",
     "Termina con la albahaca rota y sirve directamente en la sartén con el pan tostado para mojar la yema."
   ],
   nutricion: { kcal: 435, prot: 27, hc: 30, grasa: 23 },
@@ -926,9 +925,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C con calor arriba y abajo.",
     "Corta la calabaza en dados de 2,5 cm y la cebolla en gajos. Mézclalos en una bandeja grande con los garbanzos, el comino, el pimentón, el aceite y sal y extiéndelos en una sola capa.",
     "Hornea 25 minutos, removiendo a mitad, hasta que la calabaza esté tierna y caramelizada por los bordes y los garbanzos algo crujientes.",
-    "Mientras, mezcla el yogur con el eneldo picado, el ajo rallado, la ralladura de medio limón, sal y unas gotas de zumo.",
+    "Mientras, mezcla el yogur con el eneldo picado, el ajo rallado, la ralladura de medio limón, sal y unas gotas de zumo. Tuesta las semillas de calabaza 2 minutos en una sartén seca.",
     "Haz hueco en la bandeja, coloca el salmón salado con la piel hacia abajo, ralla por encima la otra mitad de la piel de limón y hornea 10-12 minutos, hasta que el salmón se separe en lascas pero siga jugoso en el centro.",
-    "Tuesta las semillas de calabaza 2 minutos en una sartén seca. Sirve la bandeja con cucharadas de yogur al eneldo, las semillas por encima y un chorrito de limón."
+    "Sirve la bandeja con cucharadas de yogur al eneldo, las semillas por encima y un chorrito de limón."
   ],
   nutricion: { kcal: 720, prot: 44, hc: 50, grasa: 38 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "alta en proteína", "superalimentos", "poco especiada"],
@@ -1010,8 +1009,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Sala el bonito por todos lados y déjalo 20 minutos en la nevera. Precalienta el horno a 100 °C.",
     "Pon el bonito en una fuente de horno pequeña donde quepa justo. Añade los ajos aplastados con piel, tiras de piel de limón (sin la parte blanca), el romero, el laurel y la pimienta en grano, y cúbrelo con el aceite.",
-    "Hornea 50-60 minutos, sin tocar, hasta que el bonito esté rosado pálido de lado a lado y se separe en láminas al presionarlo. Saca la fuente y deja que temple en el aceite.",
-    "Sube el horno a 210 °C. Corta las patatas en gajos, mézclalas en una bandeja con 2 cucharadas del aceite del confitado y sal y ásalas 30-35 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes.",
+    "Hornea 50-60 minutos, sin tocar, hasta que el bonito esté rosado pálido de lado a lado y se separe en láminas al presionarlo (mientras se confita, corta las patatas en gajos). Saca la fuente y deja que temple en el aceite.",
+    "Sube el horno a 210 °C y, cuando llegue, mezcla las patatas en una bandeja con 2 cucharadas del aceite del confitado y sal y ásalas 30-35 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes.",
     "Mientras, corta los tomates en gajos y la cebolleta en rodajas finas y aliña con sal, orégano, 1 cucharada del aceite del confitado y el zumo de medio limón.",
     "Sirve el bonito en lascas grandes, rociado con una cucharada de su aceite aromático, junto a las patatas y la ensalada."
   ],
@@ -1054,9 +1053,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara la chermoula: tritura la mitad del cilantro, el perejil, el ajo, 1 cucharadita de comino, el pimentón, el zumo de medio limón, 1 cucharada de aceite y sal hasta tener una pasta verde y fragante.",
     "Unta bien los lomos de caballa con dos tercios de la chermoula, colócalos en una fuente, tapa y deja marinar en la nevera 2 horas (hasta 6 horas como máximo).",
-    "Al final de la marinada, precalienta el horno a 210 °C. Corta las zanahorias en bastones, mézclalas con el resto del comino, la canela, un chorrito de aceite y sal y ásalas 20 minutos, hasta que estén tiernas y caramelizadas.",
+    "Cuando falten 15 minutos para acabar la marinada, precalienta el horno a 210 °C y corta las zanahorias en bastones. Mézclalas con el resto del comino, la canela, un chorrito de aceite y sal y ásalas 20 minutos, hasta que estén tiernas y caramelizadas. Mientras, pica el resto del cilantro.",
     "Coloca la caballa con la piel hacia arriba en la misma bandeja junto a las zanahorias y hornea 8-10 minutos, hasta que la piel esté tersa y la carne opaca.",
-    "Mientras, hierve el caldo, viértelo sobre el cuscús con las pasas y el resto del aceite, tapa 5 minutos y esponja con un tenedor. Mezcla con las zanahorias asadas y el resto del cilantro picado.",
+    "Mientras, hierve el caldo, viértelo sobre el cuscús con las pasas y el resto del aceite, tapa 5 minutos y esponja con un tenedor. Mezcla con las zanahorias asadas y el resto del cilantro.",
     "Sirve la caballa sobre el cuscús con la chermoula reservada por encima y cuñas de limón."
   ],
   nutricion: { kcal: 615, prot: 35, hc: 56, grasa: 28 },

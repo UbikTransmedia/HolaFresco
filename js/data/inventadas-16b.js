@@ -195,8 +195,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pan en dados y tuéstalo en el horno a 200 °C (o en una sartén seca) 6–8 minutos, hasta que esté dorado y crujiente.",
-    "Trocea los tomates sobre un bol grande para aprovechar el jugo, sálalos y déjalos reposar 5 minutos: soltarán un caldo que será la base del aliño.",
+    "Precalienta el horno a 200 °C. Trocea los tomates sobre un bol grande para aprovechar el jugo, sálalos y déjalos reposar 5 minutos: soltarán un caldo que será la base del aliño.",
+    "Mientras, corta el pan en dados y tuéstalo en el horno (o en una sartén seca) 6–8 minutos, hasta que esté dorado y crujiente.",
     "Añade al jugo del tomate el ajo rallado, el vinagre, el aceite y pimienta, y bate con un tenedor.",
     "Corta el pepino en medias lunas y la cebolla en juliana muy fina. Incorpóralos al bol con las alubias y las alcaparras.",
     "Agrega el pan tostado y la albahaca rota con la mano, mezcla bien y deja reposar 5 minutos para que el pan se empape sin perder todo el crujiente."
@@ -278,7 +278,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Reserva un tercio de los garbanzos. Calienta el resto 3 minutos en un cazo con un poco de su líquido; calientes se trituran mucho más cremosos.",
     "Tritúralos con el tahini, el zumo de medio limón, el ajo, media cucharadita de comino, sal y 3–4 cucharadas de agua fría, hasta que el hummus quede liso y esponjoso.",
-    "Calienta los garbanzos reservados en el mismo cazo con 2 cucharadas de agua, una pizca de sal, el resto del comino y unas gotas de limón, 2 minutos.",
+    "Calienta los garbanzos reservados en el mismo cazo con 2 cucharadas de agua, una pizca de sal, el resto del comino y unas gotas de limón, 2 minutos. Mientras, pica el tomate y el perejil y tuesta la pita.",
     "Templa el aceite en una sartén pequeña, aparta del fuego y añade el pimentón; remueve 10 segundos para que tiña el aceite sin quemarse.",
     "Extiende el hummus en platos hondos, pon en el centro los garbanzos calientes, el tomate picado y el perejil, y riega con el aceite al pimentón. Sirve con la pita tostada en triángulos."
   ],
@@ -533,7 +533,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, corta las puntas, pártelas en cuartos y sumérgelas en agua con el zumo de medio limón para que no se oscurezcan.",
     "Pica las cebolletas y sofríelas en el aceite en una cazuela a fuego medio 4 minutos, hasta que estén blandas.",
-    "Añade las alcachofas escurridas, sala y saltea 3 minutos. Vierte el vino y deja que se evapore 1 minuto. Añade el caldo, tapa y cuece 10 minutos, hasta que estén tiernas al pincharlas.",
+    "Añade las alcachofas escurridas, sala y saltea 3 minutos. Vierte el vino y deja que se evapore 1 minuto. Añade el caldo, tapa y cuece 10 minutos, hasta que estén tiernas al pincharlas. Mientras, pon a calentar agua en un cazo para los huevos.",
     "Incorpora las habas, los guisantes y la lechuga en tiras. Cocina destapado 5 minutos, hasta que estén tiernos y verde brillante. Salpimienta y añade la mitad de la menta picada.",
     "Mientras, escalfa los huevos 3 minutos en agua a punto de hervir con un chorrito de vinagre o de limón, hasta que la clara esté cuajada y la yema líquida.",
     "Sirve el estofado en platos hondos con el huevo encima, parmesano rallado, ralladura de limón, la menta restante y un hilo de aceite."
@@ -708,7 +708,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los contramuslos en trozos grandes, salpimiéntalos y espolvoréalos con la mitad del orégano y la ralladura del limón.",
+    "Corta la cebolla en pluma y el pimiento en tiras y lamina los ajos. Corta los contramuslos en trozos grandes, salpimiéntalos y espolvoréalos con la mitad del orégano y la ralladura del limón.",
     "Calienta el aceite en una sartén amplia a fuego medio-alto y dora el pollo 6–7 minutos, sin moverlo demasiado, hasta que esté bien tostado por todos lados. Sácalo a un plato.",
     "En la misma grasa sofríe la cebolla en pluma y el pimiento en tiras 6 minutos, hasta que estén blandos y algo dorados. Añade los ajos laminados y cocina 1 minuto.",
     "Vierte el vino y raspa el fondo para despegar lo tostado. Deja reducir 1 minuto.",
@@ -754,10 +754,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, la zanahoria y el apio en dados pequeños. Sofríelos en 2 cucharadas de aceite en una cazuela grande a fuego medio-bajo 10 minutos, hasta que estén muy blandos y fragantes. Añade el ajo picado y cocina 1 minuto.",
+    "Pica la cebolla, la zanahoria y el apio en dados pequeños. Sofríelos en 2 cucharadas de aceite en una cazuela grande a fuego medio-bajo 10 minutos, hasta que estén muy blandos y fragantes; mientras, pica el ajo y pela y corta la patata en dados. Añade el ajo picado y cocina 1 minuto.",
     "Agrega la patata en dados, el tomate triturado, el romero y el tomillo, y cocina 3 minutos.",
-    "Vierte el caldo y la mitad de las alubias. Aplasta la otra mitad con un tenedor hasta hacer un puré grueso y añádelo: dará cuerpo a la sopa. Cuece a fuego suave 20 minutos.",
-    "Quita los tallos duros del kale, córtalo en tiras y añádelo a la cazuela. Cuece 10 minutos más, hasta que esté tierno. Retira las ramas de hierbas y salpimienta.",
+    "Vierte el caldo y la mitad de las alubias. Aplasta la otra mitad con un tenedor hasta hacer un puré grueso y añádelo: dará cuerpo a la sopa. Cuece a fuego suave 20 minutos. Mientras, quita los tallos duros del kale y córtalo en tiras.",
+    "Añade el kale a la cazuela. Cuece 10 minutos más, hasta que esté tierno. Retira las ramas de hierbas y salpimienta.",
     "Trocea el pan en dados grandes, incorpóralo a la sopa, apaga el fuego, tapa y deja reposar 10 minutos para que el pan se empape y la ribollita quede muy espesa.",
     "Sirve en platos hondos con parmesano rallado, pimienta recién molida y la última cucharada de aceite en crudo."
   ],
@@ -798,9 +798,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla y sofríela en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el ajo picado y cocina 1 minuto.",
-    "Incorpora los guisantes partidos, el laurel y 600 ml de agua. Lleva a ebullición, retira la espuma blanca que suba y cuece tapado a fuego suave 40 minutos, removiendo de vez en cuando, hasta que estén deshechos y la mezcla espesa. Añade agua si se seca.",
+    "Incorpora los guisantes partidos, el laurel y 600 ml de agua. Lleva a ebullición, retira la espuma blanca que suba y cuece tapado a fuego suave 40 minutos, removiendo de vez en cuando, hasta que estén deshechos y la mezcla espesa. Añade agua si se seca. Mientras, corta la cebolla morada en pluma fina y los tomates en cuartos, y alíñalos con las alcaparras, el orégano, unas gotas de limón y sal.",
     "Retira el laurel y tritura con 1 cucharada de aceite, el zumo de medio limón y sal hasta obtener un puré muy liso y sedoso, como un hummus suelto.",
-    "Mientras, corta la cebolla morada en pluma fina y los tomates en cuartos, y alíñalos con las alcaparras, el orégano, unas gotas de limón y sal.",
     "Tuesta la pita en una sartén o tostadora y córtala en triángulos.",
     "Sirve el puré templado en platos, con la cebolla, el tomate y las alcaparras encima, el aceite restante en crudo y pimienta. Acompaña con la pita."
   ],
@@ -840,7 +839,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los garbanzos del remojo y cuécelos en una cazuela con agua abundante y el laurel a fuego suave 55–60 minutos, hasta que estén muy tiernos. Sala en los últimos 10 minutos y reserva un vaso del caldo.",
+    "La víspera, pon los garbanzos en remojo en agua fría abundante. Al día siguiente, escúrrelos y cuécelos en una cazuela con agua abundante y el laurel a fuego suave 55–60 minutos, hasta que estén muy tiernos. Sala en los últimos 10 minutos y reserva un vaso del caldo.",
     "Mientras, precalienta el horno a 200 °C. Corta las pitas en cuadrados, píntalas con 1 cucharada de aceite y hornéalas 8–10 minutos, hasta que estén doradas y crujientes.",
     "Bate el yogur con un ajo rallado, el tahini, el zumo de medio limón y una pizca de sal. Déjalo a temperatura ambiente.",
     "Calienta los garbanzos escurridos con 4 cucharadas de su caldo, el comino, el otro ajo rallado y unas gotas de limón 2 minutos.",
@@ -922,7 +921,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la panceta en tiras y la butifarra en rodajas gruesas. Dóralas en una cazuela con el aceite a fuego medio 5–6 minutos, hasta que la panceta suelte su grasa y la butifarra esté tostada. Saca la butifarra y reserva.",
+    "Pica las cebolletas y lamina el ajo. Corta la panceta en tiras y la butifarra en rodajas gruesas. Dóralas en una cazuela con el aceite a fuego medio 5–6 minutos, hasta que la panceta suelte su grasa y la butifarra esté tostada. Saca la butifarra y reserva.",
     "En la misma grasa sofríe las cebolletas picadas 6 minutos, hasta que estén tiernas. Añade el ajo laminado y cocina 1 minuto.",
     "Ralla el tomate, incorpóralo y cocina 4 minutos, hasta que pierda el agua.",
     "Vierte el vino y deja que se evapore 2 minutos. Añade las habas, el laurel, la mitad de la menta en hojas enteras y 100 ml de agua. Salpimienta con prudencia.",
@@ -1008,7 +1007,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias y ponlas en una cazuela con agua fría que las cubra 3 dedos, media cebolla, el laurel y 2 dientes de ajo enteros. Lleva a ebullición, espuma y cuece a fuego muy suave 70–80 minutos, hasta que estén tiernas y cremosas. Sala al final.",
+    "La víspera, pon las alubias en remojo en agua fría abundante. Al día siguiente, escúrrelas y ponlas en una cazuela con agua fría que las cubra 3 dedos, media cebolla, el laurel y 2 dientes de ajo enteros. Lleva a ebullición, espuma y cuece a fuego muy suave 70–80 minutos, hasta que estén tiernas y cremosas. Sala al final. Mientras, pica la otra media cebolla y lamina los ajos restantes.",
     "Precalienta el horno a 180 °C. Calienta el aceite en una cazuela apta para horno y fríe la salvia 20 segundos, hasta que esté crujiente; resérvala.",
     "En el mismo aceite dora las salchichas en trozos 5 minutos, hasta que estén tostadas. Añade la otra media cebolla picada, los ajos restantes laminados y la guindilla, y sofríe 4 minutos.",
     "Incorpora el tomate triturado, salpimienta y cocina 5 minutos. Añade las alubias escurridas y un cazo de su caldo; deben quedar jugosas.",
@@ -1053,11 +1052,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 160 °C. Salpimienta el cordero y dóralo en el aceite en una cazuela apta para horno a fuego fuerte 6–8 minutos, en tandas, hasta que esté bien tostado. Reserva.",
+    "Precalienta el horno a 160 °C y pica la cebolla y el ajo. Salpimienta el cordero y dóralo en el aceite en una cazuela apta para horno a fuego fuerte 6–8 minutos, en tandas, hasta que esté bien tostado. Reserva.",
     "Baja el fuego y sofríe la cebolla picada 5 minutos, hasta que esté blanda. Añade el ajo, la canela y el orégano y remueve 30 segundos.",
     "Vierte el vino y raspa el fondo para despegar lo tostado; deja reducir 2 minutos. Añade el tomate, 200 ml de agua, el romero y el cordero con su jugo. Lleva a ebullición.",
-    "Tapa y mete al horno 1 hora 15 minutos, sin tocar.",
-    "Corta la berenjena en dados grandes y añádela con los garbanzos. Mezcla, comprueba que queda algo de líquido (añade un poco de agua si hace falta) y hornea destapado 45 minutos más, hasta que el cordero se deshaga con el tenedor y la berenjena esté melosa.",
+    "Tapa y mete al horno 1 hora 15 minutos, sin tocar. Mientras, corta la berenjena en dados grandes.",
+    "Añade la berenjena y los garbanzos. Mezcla, comprueba que queda algo de líquido (añade un poco de agua si hace falta) y hornea destapado 45 minutos más, hasta que el cordero se deshaga con el tenedor y la berenjena esté melosa.",
     "Retira el romero, prueba de sal y termina con la ralladura de limón y el perejil picado."
   ],
   nutricion: { kcal: 744, prot: 47, hc: 49, grasa: 40 },
