@@ -31,11 +31,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon los filetes de lomo entre dos hojas de papel de horno y golpéalos con el culo de un cazo hasta dejarlos muy finos, de unos 3 mm. Sálalos ligeramente (poco, que el jamón ya aporta sal).",
     "Coloca una loncha de jamón sobre cada filete y enróllalos bien apretados desde el lado más estrecho. Si se abren, sujétalos con un palillo.",
-    "Pasa cada rollo por harina, sacude el exceso, luego por huevo batido y por último por pan rallado, apretando con las manos para que quede bien cubierto. Para una costra más gruesa, repite huevo y pan rallado. Deja reposar 10 minutos en la nevera mientras haces las patatas.",
+    "Pasa cada rollo por harina, sacude el exceso, luego por huevo batido y por último por pan rallado, apretando con las manos para que quede bien cubierto. Para una costra más gruesa, repite huevo y pan rallado. Deja reposar 10 minutos en la nevera mientras cortas la lechuga en tiras y haces las patatas.",
     "Pela las patatas, córtalas en bastones, lávalas y sécalas muy bien con un paño. Fríelas en abundante aceite a fuego medio 8 minutos, hasta que estén blandas pero sin color; sácalas.",
     "Sube el fuego y vuelve a freírlas 3-4 minutos, hasta que estén doradas y crujientes. Escurre sobre papel y sala.",
     "En el mismo aceite, bien caliente (unos 175 °C: una miga de pan debe burbujear al instante), fríe los flamenquines 4-5 minutos dándoles la vuelta, hasta que estén dorados por todos lados. Escúrrelos sobre papel absorbente.",
-    "Sirve los flamenquines enteros o cortados al bies, con las patatas, la lechuga en tiras aliñada con aceite y sal y una cucharada de mayonesa al lado."
+    "Sirve los flamenquines enteros o cortados al bies, con las patatas, la lechuga aliñada con aceite y sal y una cucharada de mayonesa al lado."
   ],
   nutricion: { kcal: 895, prot: 52, hc: 70, grasa: 45 },
   etiquetas: ["tradicional", "saciante", "para niños", "frito", "de domingo", "poco especiada"],
@@ -73,7 +73,7 @@ window.RECETAS_SEED.push({
     "Estira los filetes entre dos papeles de horno golpeándolos con un cazo hasta que queden finos y del mismo tamaño. Sálalos por una cara.",
     "Monta cada cachopo: un filete, encima 2 lonchas de jamón y 2 de queso dejando un dedo de borde libre, y tápalo con otro filete. Aprieta bien los bordes con los dedos para sellarlos.",
     "Pásalos con cuidado por harina, huevo batido y pan rallado, presionando los bordes otra vez para que el queso no se escape. Déjalos 15 minutos en la nevera para que el rebozado se asiente.",
-    "Mientras, corta las patatas en bastones, lávalas, sécalas y fríelas en dos tandas: primero 8 minutos a fuego medio y luego 3 minutos a fuego fuerte, hasta que estén doradas. Sala y reserva al calor.",
+    "Mientras, pela las patatas, córtalas en bastones, lávalas, sécalas y fríelas en dos tandas: primero 8 minutos a fuego medio y luego 3 minutos a fuego fuerte, hasta que estén doradas. Sala y reserva al calor.",
     "Calienta en una sartén grande un dedo y medio de aceite a fuego medio-alto. Fríe cada cachopo 3-4 minutos por cara, dándole la vuelta con dos espátulas, hasta que esté dorado y el queso empiece a asomar fundido.",
     "Escúrrelo sobre papel absorbente un minuto y mientras saltea los piquillos 2 minutos en una sartén con unas gotas de aceite.",
     "Sirve cada cachopo entero, con las patatas y los pimientos al lado. Córtalo en la mesa para ver el queso fundirse."
@@ -197,9 +197,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Remoja el pan en la leche 5 minutos y desmenúzalo con un tenedor.",
+    "Pon a hervir agua con sal en una cazuela para el arroz. Mientras, remoja el pan en la leche 5 minutos y desmenúzalo con un tenedor.",
     "En un bol, mezcla las dos carnes con el pan escurrido, el huevo, el ajo y el perejil muy picados, sal y pimienta. Amasa con las manos solo hasta que esté todo unido.",
-    "Pon a hervir agua con sal en una cazuela, echa el arroz y cuécelo 16-18 minutos, hasta que esté tierno. Escúrrelo y saltéalo 1 minuto con una cucharada de aceite y un ajo laminado si te gusta.",
+    "Cuando hierva el agua, echa el arroz y cuécelo 16-18 minutos, hasta que esté tierno. Escúrrelo y saltéalo 1 minuto con una cucharada de aceite y un ajo laminado si te gusta.",
     "Con las manos húmedas, forma 6 filetes ovalados y planos de un dedo de grosor. Pásalos por harina sacudiendo el exceso.",
     "Fríelos en una sartén con un dedo de aceite a fuego medio 3 minutos por cada lado, hasta que estén dorados por fuera y hechos por dentro. Escúrrelos sobre papel.",
     "Calienta el tomate frito en un cazo 2-3 minutos.",
@@ -237,11 +237,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas en rodajas finas de medio centímetro. Corta la cebolla en juliana y el pimiento en tiras.",
-    "Calienta el aceite en una sartén amplia a fuego medio. Añade las patatas, la cebolla y el pimiento con sal, tapa y deja que se pochen 20-25 minutos, removiendo de vez en cuando sin romperlas, hasta que las patatas estén muy tiernas.",
+    "Pela las patatas y córtalas en rodajas finas de medio centímetro. Corta la cebolla en juliana y el pimiento en tiras, y lamina los ajos.",
+    "Calienta el aceite en una sartén amplia a fuego medio. Añade las patatas, la cebolla y el pimiento con sal, tapa y deja que se pochen 20-25 minutos, removiendo de vez en cuando sin romperlas, hasta que las patatas estén muy tiernas. Mientras, saca las chuletillas de la nevera para que se atemperen.",
     "Destapa, sube el fuego los últimos 5 minutos para que se doren un poco por los bordes y añade un chorrito de vinagre. Escúrrelas con una espumadera y resérvalas al calor.",
-    "En un poco del aceite de las patatas, fríe los ajos laminados a fuego suave hasta que estén dorados claros. Reserva el ajo y el aceite.",
-    "Saca las chuletillas de la nevera 15 minutos antes. Calienta la plancha o una sartén de fondo grueso a fuego muy fuerte, sin aceite, hasta que humee ligeramente.",
+    "En un poco del aceite de las patatas, fríe los ajos a fuego suave hasta que estén dorados claros. Reserva el ajo y el aceite.",
+    "Calienta la plancha o una sartén de fondo grueso a fuego muy fuerte, sin aceite, hasta que humee ligeramente.",
     "Asa las chuletillas en tandas, sin amontonarlas, 1,5-2 minutos por cada lado, hasta que estén doradas por fuera y rosadas por dentro. Sálalas con sal gruesa al darles la vuelta.",
     "Sirve las chuletillas sobre las patatas a lo pobre y riega todo con el ajo frito y su aceite."
   ],
@@ -283,9 +283,9 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una cazuela ancha a fuego medio y fríe los ajos con la guindilla 2 minutos. Sácalos antes de que se tuesten y resérvalos.",
     "En ese aceite, dora el pollo a fuego medio-alto en una sola capa, unos 12-15 minutos, dándole la vuelta, hasta que la piel esté bien dorada por todos lados.",
     "Baja el fuego, devuelve los ajos y la guindilla, añade el laurel, tapa y deja que se haga 15 minutos, moviendo la cazuela de vez en cuando.",
-    "Mientras, pela las patatas, córtalas en dados de 1,5 cm y fríelas en una sartén con aceite a fuego medio 10-12 minutos, hasta que estén doradas. Sálalas.",
+    "Mientras, pela las patatas, córtalas en dados de 1,5 cm y fríelas en una sartén con aceite a fuego medio 10-12 minutos, hasta que estén doradas. Sálalas y pica el perejil.",
     "Destapa el pollo, sube el fuego y añade el vino blanco. Deja que hierva 4-5 minutos moviendo la cazuela en vaivén, hasta que el alcohol se evapore y quede una salsita corta y brillante.",
-    "Añade el perejil picado y las patatas, mezcla y sirve enseguida con pan para mojar en el jugo de ajo."
+    "Añade el perejil y las patatas, mezcla y sirve enseguida con pan para mojar en el jugo de ajo."
   ],
   nutricion: { kcal: 715, prot: 48, hc: 45, grasa: 38 },
   etiquetas: ["tradicional", "saciante", "económica", "de domingo", "fácil", "sin verduras"],
@@ -361,11 +361,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas con piel en gajos, alíñalas con 1 cucharada de aceite, el pimentón y sal y hornéalas 30-35 minutos, dándoles la vuelta a mitad, hasta que estén doradas.",
-    "Corta la cebolla en aros finos y pócha a fuego suave en una sartén con 1 cucharada de aceite y una pizca de sal 15 minutos, hasta que esté blanda y dorada.",
-    "Sazona la carne con sal y pimienta, divídela en dos y forma bolas sin amasar en exceso. Aplástalas hasta tener hamburguesas de 2 cm de grosor y haz un pequeño hueco en el centro con el pulgar para que no se abomben.",
+    "Corta la cebolla en aros finos y póchala a fuego suave en una sartén con 1 cucharada de aceite y una pizca de sal 15 minutos, hasta que esté blanda y dorada.",
+    "Sazona la carne con sal y pimienta, divídela en dos y forma bolas sin amasar en exceso. Aplástalas hasta tener hamburguesas de 2 cm de grosor y haz un pequeño hueco en el centro con el pulgar para que no se abomben. Lava la lechuga y corta el tomate en rodajas.",
     "Fríe el bacon en una sartén sin aceite hasta que esté crujiente y resérvalo. En su grasa, a fuego fuerte, haz las hamburguesas 3-4 minutos por cada lado. Pon el queso encima el último minuto y tapa para que se funda.",
     "En la misma sartén fríe los huevos, con los bordes puntilla y la yema blanda.",
-    "Tuesta el pan abierto en la sartén unos segundos. Monta: pan, lechuga, tomate en rodajas, hamburguesa con queso, cebolla, bacon y huevo frito. Sirve con las patatas y el kétchup."
+    "Tuesta el pan abierto en la sartén unos segundos. Monta: pan, lechuga, tomate, hamburguesa con queso, cebolla, bacon y huevo frito. Sirve con las patatas y el kétchup."
   ],
   nutricion: { kcal: 1000, prot: 52, hc: 75, grasa: 55 },
   etiquetas: ["tradicional", "saciante", "para niños", "de domingo", "fácil", "poco especiada"],
@@ -404,11 +404,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Con un cuchillo largo y fino, haz 5 o 6 cortes profundos en el redondo a lo largo e introduce en ellos las tiras de jamón y unos bastones de una zanahoria. Ata la pieza con hilo de cocina para que no pierda la forma y salpimiéntala.",
+    "Precalienta el horno a 180 °C. Con un cuchillo largo y fino, haz 5 o 6 cortes profundos en el redondo a lo largo e introduce en ellos las tiras de jamón y unos bastones de una zanahoria. Ata la pieza con hilo de cocina para que no pierda la forma y salpimiéntala. Corta la cebolla en trozos grandes y la otra zanahoria en rodajas, y pela los ajos.",
     "Dora la carne en una cazuela apta para horno con el aceite a fuego fuerte, unos 8 minutos, hasta que esté bien dorada por todos lados. Sácala.",
-    "En la misma cazuela, rehoga la cebolla en trozos grandes, los ajos enteros y la otra zanahoria en rodajas 5 minutos. Vierte el vino, raspa el fondo y deja hervir 2 minutos.",
+    "En la misma cazuela, rehoga la cebolla, los ajos enteros y la zanahoria en rodajas 5 minutos. Vierte el vino, raspa el fondo y deja hervir 2 minutos.",
     "Devuelve la carne, añade el caldo y el laurel, tapa y mete al horno 1 h 45 min, dándole la vuelta cada 30 minutos y regándola con su jugo, hasta que al pincharla entre la aguja sin resistencia.",
-    "En los últimos 30 minutos, cuece las patatas peladas y troceadas en agua con sal 20 minutos. Escúrrelas y aplástalas con la leche caliente y la mantequilla hasta tener un puré fino.",
+    "En los últimos 30 minutos, pela y trocea las patatas y cuécelas en agua con sal 20 minutos. Escúrrelas y aplástalas con la leche caliente y la mantequilla hasta tener un puré fino.",
     "Saca la carne, quítale el hilo y déjala reposar 10 minutos tapada. Tritura las verduras con el jugo de la cazuela hasta obtener una salsa fina; si está muy líquida, redúcela unos minutos al fuego.",
     "Corta la carne en rodajas finas (se verá el mechado de colores), sírvela con su salsa por encima y el puré al lado."
   ],
@@ -449,11 +449,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el relleno: pocha las cebollas y los pimientos en tiras finas con el ajo picado en 5 cucharadas de aceite a fuego suave 25 minutos, hasta que estén muy blandos y dulces.",
+    "Prepara el relleno: corta las cebollas y los pimientos en tiras finas y pica el ajo. Póchalos en 5 cucharadas de aceite a fuego suave 25 minutos, hasta que estén muy blandos y dulces.",
     "Sube el fuego, añade el lomo en dados y la ternera picada con sal y saltea 5 minutos, hasta que pierdan el color rosado. Agrega el pimentón, remueve 20 segundos, vierte el vino y deja reducir 3 minutos. Escurre el relleno en un colador sobre un bol, guardando el aceite, y deja que se enfríe.",
     "Para la masa, disuelve la levadura en el agua templada. En un bol mezcla la harina con una pizca de sal, el agua con levadura y 3 cucharadas del aceite rojo del sofrito. Amasa 8-10 minutos hasta que esté lisa y elástica.",
-    "Tapa la masa con un paño y déjala reposar en un sitio templado 45-60 minutos, hasta que casi doble su volumen.",
-    "Precalienta el horno a 190 °C. Divide la masa en dos partes, una algo mayor. Estira la grande muy fina sobre papel de horno, en la bandeja, dejando que sobresalga un poco. Reparte el relleno frío encima dejando un borde libre.",
+    "Tapa la masa con un paño y déjala reposar en un sitio templado 45-60 minutos, hasta que casi doble su volumen. Cuando falten 15 minutos, precalienta el horno a 190 °C.",
+    "Divide la masa en dos partes, una algo mayor. Estira la grande muy fina sobre papel de horno, en la bandeja, dejando que sobresalga un poco. Reparte el relleno frío encima dejando un borde libre.",
     "Estira la otra mitad, tapa la empanada, une los bordes y haz un cordón retorciéndolos hacia dentro. Haz un agujero en el centro para que salga el vapor y decora con tiras de masa si te sobra.",
     "Pinta con huevo batido y hornea 35-40 minutos, hasta que esté bien dorada por encima y por debajo. Déjala templar 10 minutos antes de cortar."
   ],
@@ -609,9 +609,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava los pimientos, sécalos bien y haz un pequeño corte en cada uno para que no exploten al freírlos.",
+    "Saca los filetes de lomo de la nevera para que se atemperen. Lava los pimientos, sécalos bien y haz un pequeño corte en cada uno para que no exploten al freírlos.",
     "Fríelos enteros en una sartén con 1,5 cucharadas de aceite a fuego medio 8-10 minutos, tapando a ratos, hasta que estén blandos y con la piel arrugada y tostada. Sálalos con sal gruesa.",
-    "Saca los filetes de lomo de la nevera un rato antes y frótalos con el diente de ajo cortado por la mitad.",
+    "Frota los filetes de lomo con el diente de ajo cortado por la mitad.",
     "Calienta la plancha o una sartén a fuego fuerte con media cucharada de aceite, extendida con papel de cocina.",
     "Asa los filetes 1,5-2 minutos por cada lado, hasta que estén dorados y apenas blancos en el centro. Sálalos al darles la vuelta.",
     "Sirve el lomo con los pimientos fritos por encima."
@@ -689,9 +689,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lamina los ajos y dóralos a fuego suave en una sartén con 1 cucharada de aceite. Añade los piquillos con una pizca de azúcar y de sal y confítalos 8-10 minutos a fuego bajo, hasta que estén muy tiernos.",
-    "Lava la lechuga, córtala en tiras y mézclala con la cebolleta en aros finos. Aliña con aceite, vinagre y sal justo antes de servir.",
-    "Saca los filetes de la nevera 10 minutos antes y sécalos con papel de cocina.",
+    "Saca los filetes de la nevera para que se atemperen. Lamina los ajos y dóralos a fuego suave en una sartén con 1 cucharada de aceite. Añade los piquillos con una pizca de azúcar y de sal y confítalos 8-10 minutos a fuego bajo, hasta que estén muy tiernos.",
+    "Mientras, lava la lechuga, córtala en tiras y mézclala con la cebolleta en aros finos. Aliña con aceite, vinagre y sal justo antes de servir.",
+    "Seca los filetes con papel de cocina.",
     "Calienta la plancha a fuego muy fuerte con unas gotas de aceite. Asa los filetes 1-1,5 minutos por cada lado, hasta que estén dorados por fuera y jugosos por dentro.",
     "Sálalos con sal gruesa al sacarlos y sírvelos con los piquillos y su ajo por encima y la ensalada al lado."
   ],
@@ -810,12 +810,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Si el pollo está crudo, cuécelo 15 minutos en agua con sal; escúrrelo y pícalo muy fino a cuchillo junto con el jamón.",
-    "En una cazuela, derrite la mantequilla con 2 cucharadas de aceite y pocha la cebolla muy picada a fuego suave 8 minutos. Añade el jamón y el pollo y rehoga 2 minutos.",
+    "Si el pollo está crudo, cuécelo 15 minutos en agua con sal; escúrrelo y pícalo muy fino a cuchillo junto con el jamón. Pica muy fina la cebolla y calienta la leche.",
+    "En una cazuela, derrite la mantequilla con 2 cucharadas de aceite y pocha la cebolla a fuego suave 8 minutos. Añade el jamón y el pollo y rehoga 2 minutos.",
     "Agrega la harina y tuéstala 3 minutos removiendo, hasta que huela a galleta. Ve añadiendo la leche caliente poco a poco, sin dejar de remover con varillas, para que no haga grumos.",
     "Cocina la masa a fuego suave 12-15 minutos removiendo constantemente, hasta que se despegue de las paredes. Prueba de sal y añade la nuez moscada.",
     "Extiende la masa en una fuente, tápala con film a piel (tocando la masa) y déjala enfriar en la nevera al menos 2 horas, hasta que esté firme.",
-    "Forma las croquetas con dos cucharas o con las manos untadas en aceite. Pásalas por huevo batido y por pan rallado.",
+    "Lava y corta la lechuga. Forma las croquetas con dos cucharas o con las manos untadas en aceite. Pásalas por huevo batido y por pan rallado.",
     "Fríelas en tandas en abundante aceite bien caliente (180 °C) 1-2 minutos, hasta que estén doradas. Escurre sobre papel y sirve con la lechuga aliñada."
   ],
   nutricion: { kcal: 760, prot: 30, hc: 65, grasa: 42 },
@@ -975,10 +975,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los champiñones con un papel húmedo (sin mojarlos) y córtalos en láminas o en cuartos. Lamina los ajos.",
+    "Limpia los champiñones con un papel húmedo (sin mojarlos) y córtalos en láminas o en cuartos. Lamina los ajos y pica el perejil.",
     "En una sartén con 1,5 cucharadas de aceite a fuego medio, dora los ajos con la guindilla 1 minuto, sin que se quemen.",
     "Sube el fuego, añade los champiñones con una pizca de sal y saltéalos 6-8 minutos, hasta que suelten el agua, ésta se evapore y empiecen a dorarse.",
-    "Vierte el vino, deja que se evapore 2 minutos, añade el perejil picado y aparta.",
+    "Vierte el vino, deja que se evapore 2 minutos, añade el perejil y aparta.",
     "Mientras, salpimienta los filetes de pavo y ásalos en la plancha muy caliente con unas gotas de aceite 2-3 minutos por cada lado, hasta que estén dorados y blancos por dentro.",
     "Sirve los filetes con unas gotas de limón y los champiñones al ajillo por encima."
   ],

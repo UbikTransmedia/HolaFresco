@@ -33,12 +33,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela, dora el bacon a fuego medio 3 minutos sin aceite, hasta que suelte la grasa.",
-    "Añade la cebolla picada y el puerro en rodajas y pocha 5 minutos. Incorpora la zanahoria y el apio en dados pequeños y rehoga 3 minutos más.",
-    "Agrega las lentejas lavadas, el laurel y el caldo. Lleva a ebullición, baja el fuego y cuece tapado a medias 20 minutos.",
-    "Añade la patata pelada en dados y cuece 15 minutos más, hasta que lentejas y patata estén tiernas.",
+    "Pica la cebolla, corta el puerro en rodajas y la zanahoria y el apio en dados pequeños, y lava las lentejas. En la cazuela, dora el bacon a fuego medio 3 minutos sin aceite, hasta que suelte la grasa.",
+    "Añade la cebolla y el puerro y pocha 5 minutos. Incorpora la zanahoria y el apio y rehoga 3 minutos más.",
+    "Agrega las lentejas, el laurel y el caldo. Lleva a ebullición, baja el fuego y cuece tapado a medias 20 minutos. Mientras, pela la patata y córtala en dados, y pica el perejil.",
+    "Añade la patata y cuece 15 minutos más, hasta que lentejas y patata estén tiernas.",
     "Corta las salchichas en rodajas gruesas, échalas a la cazuela y calienta 5 minutos sin que hierva fuerte.",
-    "Fuera del fuego, añade el vinagre, salpimienta y espolvorea perejil picado. Sirve con pan de centeno."
+    "Fuera del fuego, añade el vinagre, salpimienta y espolvorea el perejil. Sirve con pan de centeno."
   ],
   nutricion: { kcal: 614, prot: 34, hc: 70, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "batch cooking", "poco especiada"],
@@ -76,9 +76,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Raspa la grasa de los muslos de confit y pon 2 cucharadas en la cazuela. Pocha a fuego suave el puerro en rodajas y los ajos picados 6 minutos.",
-    "Añade la zanahoria, el nabo y la patata en dados grandes, el tomillo, el laurel y 1,2 litros de agua. Lleva a ebullición y cuece tapado a fuego suave 20 minutos.",
-    "Corta el repollo en tiras y añádelo con los muslos de confit enteros. Cuece 30 minutos más, hasta que la col esté muy tierna y la carne se despegue del hueso.",
+    "Corta el puerro en rodajas y pica los ajos. Raspa la grasa de los muslos de confit y pon 2 cucharadas en la cazuela. Pocha a fuego suave el puerro y los ajos 6 minutos. Mientras, pela la patata y corta la zanahoria, el nabo y la patata en dados grandes.",
+    "Añade la zanahoria, el nabo y la patata, el tomillo, el laurel y 1,2 litros de agua. Lleva a ebullición y cuece tapado a fuego suave 20 minutos. Mientras, corta el repollo en tiras.",
+    "Añade el repollo con los muslos de confit enteros. Cuece 30 minutos más, hasta que la col esté muy tierna y la carne se despegue del hueso.",
     "Saca los muslos, desmenuza la carne descartando piel y huesos y devuélvela a la cazuela con las judías escurridas.",
     "Cuece 10 minutos más, hasta que el potaje esté tan espeso que la cuchara casi se tenga de pie. Salpimienta.",
     "Sirve sobre una rebanada de pan de centeno tostado en el fondo del plato."
@@ -117,10 +117,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la costilla en la cazuela con 1 litro de agua, el laurel y la patata pelada en trozos. Lleva a ebullición, retira la espuma y cuece a fuego suave 30 minutos.",
-    "Mientras, enjuaga el chucrut si lo quieres menos ácido y escúrrelo.",
+    "Pela la patata y córtala en trozos. Pon la costilla en la cazuela con 1 litro de agua, el laurel y la patata. Lleva a ebullición, retira la espuma y cuece a fuego suave 30 minutos.",
+    "Mientras, enjuaga el chucrut si lo quieres menos ácido y escúrrelo, y lamina los ajos.",
     "Saca la patata, aplástala con un tenedor y devuélvela a la cazuela junto con las alubias escurridas y el chucrut.",
-    "En la sartén, calienta el aceite con los ajos laminados y el comino a fuego suave 2 minutos. Añade la harina y remueve 1 minuto hasta que tueste ligeramente.",
+    "En la sartén, calienta el aceite con los ajos y el comino a fuego suave 2 minutos. Añade la harina y remueve 1 minuto hasta que tueste ligeramente.",
     "Vierte este refrito en la cazuela, remueve y cuece 15 minutos más a fuego suave, hasta que el potaje quede espeso.",
     "Salpimienta y sirve con la costilla. Está mejor reposada de un día para otro."
   ],
@@ -155,8 +155,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pincha las salchichas con un tenedor y dóralas en la cazuela con 1 cucharada de aceite a fuego medio 6 minutos, girándolas. Retíralas y córtalas en trozos.",
-    "En la misma grasa, añade el resto del aceite, los ajos chafados y la salvia, y deja a fuego suave 2 minutos, hasta que el ajo esté dorado y la salvia crujiente.",
+    "Chafa los ajos. Pincha las salchichas con un tenedor y dóralas en la cazuela con 1 cucharada de aceite a fuego medio 6 minutos, girándolas. Retíralas y córtalas en trozos.",
+    "En la misma grasa, añade el resto del aceite, los ajos y la salvia, y deja a fuego suave 2 minutos, hasta que el ajo esté dorado y la salvia crujiente.",
     "Incorpora el tomate triturado, sala y cocina 8 minutos, hasta que espese.",
     "Añade las alubias escurridas con 100 ml de agua y las salchichas. Cuece tapado a fuego suave 15 minutos, hasta que las alubias se hayan empapado de tomate.",
     "Salpimienta, riega con un hilo de aceite crudo y sirve con pan tostado."
@@ -195,9 +195,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela con el aceite y la mantequilla, dora la ternera a fuego fuerte 4 minutos, desmenuzándola, hasta que pierda el color rosado.",
-    "Baja a fuego medio, añade la cebolla y el pimiento picados y pocha 6 minutos.",
-    "Incorpora el tomate concentrado y el pimentón y remueve 1 minuto, hasta que la pasta oscurezca. Añade el tomate rallado y cocina 3 minutos.",
+    "Pica la cebolla y el pimiento y ralla el tomate. En la cazuela con el aceite y la mantequilla, dora la ternera a fuego fuerte 4 minutos, desmenuzándola, hasta que pierda el color rosado.",
+    "Baja a fuego medio, añade la cebolla y el pimiento y pocha 6 minutos.",
+    "Incorpora el tomate concentrado y el pimentón y remueve 1 minuto, hasta que la pasta oscurezca. Añade el tomate y cocina 3 minutos.",
     "Agrega las alubias escurridas y 300 ml de agua caliente. Cuece tapado a fuego suave 15 minutos, hasta que la salsa espese y se ponga roja y brillante.",
     "Salpimienta y sirve con pan o, como en Turquía, con arroz pilaf y un encurtido al lado."
   ],
@@ -236,9 +236,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el cordero y dóralo en la cazuela con el aceite a fuego fuerte 6 minutos, en una sola capa, hasta que esté bien tostado.",
-    "Baja a fuego medio, añade la mantequilla, la cebolla y el pimiento picados y pocha 8 minutos.",
-    "Agrega el tomate concentrado, el pimentón y el comino y remueve 1 minuto. Incorpora el tomate rallado y cocina 3 minutos.",
+    "Pica la cebolla y el pimiento y ralla el tomate. Salpimienta el cordero y dóralo en la cazuela con el aceite a fuego fuerte 6 minutos, en una sola capa, hasta que esté bien tostado.",
+    "Baja a fuego medio, añade la mantequilla, la cebolla y el pimiento y pocha 8 minutos.",
+    "Agrega el tomate concentrado, el pimentón y el comino y remueve 1 minuto. Incorpora el tomate y cocina 3 minutos.",
     "Cubre con 600 ml de agua caliente, tapa y cuece a fuego suave 1 hora, hasta que el cordero esté tierno al pincharlo.",
     "Añade los garbanzos escurridos y cuece 15 minutos más sin tapa, hasta que la salsa reduzca y quede espesa.",
     "Rectifica de sal y sirve con arroz pilaf o pan, y un bol de yogur al lado."
@@ -277,8 +277,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las lentejas en agua sin sal 20 minutos, hasta que estén tiernas pero enteras. Escúrrelas.",
-    "Mientras, lava el arroz en agua fría hasta que salga casi transparente. Deja el azafrán en remojo en 2 cucharadas de agua caliente.",
-    "En la sartén con la mitad de la mantequilla, dora la cebolla en juliana a fuego medio 12 minutos, hasta que esté marrón y dulce. Añade la cúrcuma, los dátiles troceados, las pasas y la canela y rehoga 2 minutos.",
+    "Mientras, lava el arroz en agua fría hasta que salga casi transparente. Deja el azafrán en remojo en 2 cucharadas de agua caliente, corta la cebolla en juliana y trocea los dátiles.",
+    "En la sartén con la mitad de la mantequilla, dora la cebolla a fuego medio 12 minutos, hasta que esté marrón y dulce. Añade la cúrcuma, los dátiles, las pasas y la canela y rehoga 2 minutos.",
     "En la cazuela, pon el arroz con 280 ml de agua y sal, lleva a ebullición y cuece tapado a fuego mínimo 10 minutos.",
     "Incorpora con un tenedor las lentejas y la mitad de la cebolla con fruta. Pon el resto de la mantequilla en trocitos por encima, tapa con un paño bajo la tapa y deja 10 minutos más a fuego mínimo.",
     "Sirve el arroz en una fuente, riega una parte con el azafrán para que quede dorada y corona con el resto de la cebolla, dátiles y pasas."
@@ -316,9 +316,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el bacon en tiras y dóralo en la cazuela a fuego medio 4 minutos, hasta que esté crujiente y suelte la grasa.",
-    "Añade la cebolla, el pimiento y los ajos picados y pocha en esa grasa 6 minutos. Incorpora el comino y el orégano.",
-    "Agrega el arroz lavado y nácaralo 1 minuto, removiendo. Añade las alubias escurridas, el laurel, 300 ml de agua y sal.",
+    "Pica la cebolla, el pimiento y los ajos, y lava el arroz. Corta el bacon en tiras y dóralo en la cazuela a fuego medio 4 minutos, hasta que esté crujiente y suelte la grasa.",
+    "Añade la cebolla, el pimiento y los ajos y pocha en esa grasa 6 minutos. Incorpora el comino y el orégano.",
+    "Agrega el arroz y nácaralo 1 minuto, removiendo. Añade las alubias escurridas, el laurel, 300 ml de agua y sal.",
     "Lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos, hasta que el arroz absorba el agua y quede suelto.",
     "Apaga y deja reposar tapado 5 minutos. Esponja con un tenedor y sirve con plátano frito o una ensalada de tomate."
   ],
@@ -357,8 +357,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz en agua con sal 12 minutos, escúrrelo y extiéndelo para que se enfríe un poco (mejor aún si es arroz del día anterior).",
-    "Mientras, prepara la salsa criolla: corta la cebolla morada en pluma muy fina, lávala en agua fría, escúrrela y alíñala con el zumo de la lima, cilantro picado y sal.",
-    "En la sartén con 1 cucharada de aceite, pocha la cebolla y los ajos picados 4 minutos y añade la pasta de ají. Agrega las judías y aplasta la mitad con el tenedor.",
+    "Mientras, prepara la salsa criolla: corta la cebolla morada en pluma muy fina, lávala en agua fría, escúrrela y alíñala con el zumo de la lima, cilantro picado y sal. Pica también la cebolla y los ajos.",
+    "En la sartén con 1 cucharada de aceite, pocha la cebolla y los ajos 4 minutos y añade la pasta de ají. Agrega las judías y aplasta la mitad con el tenedor.",
     "Mezcla el arroz con las judías hasta tener una masa compacta. Sala.",
     "Calienta 1 cucharada de aceite en la sartén a fuego medio-alto, pon la mitad de la masa y dale forma de tortilla alargada sacudiendo la sartén. Dórala 3 minutos por lado, hasta que tenga costra. Repite con el resto.",
     "Fríe los huevos en el aceite restante y sirve cada tacu tacu con su huevo encima y la salsa criolla al lado."
@@ -397,10 +397,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela con el aceite, sofríe la cebolla, el pimiento y los ajos picados a fuego medio 6 minutos.",
+    "Pica la cebolla, el pimiento y los ajos. En la cazuela con el aceite, sofríelos a fuego medio 6 minutos. Mientras, pela la calabaza, córtala en dados pequeños y parte los espaguetis en trozos.",
     "Añade el pimentón, el comino y el orégano y remueve 20 segundos.",
-    "Incorpora la calabaza en dados pequeños y 800 ml de agua caliente. Cuece 10 minutos, hasta que la calabaza esté blanda y empiece a deshacerse.",
-    "Añade los porotos escurridos y los espaguetis partidos. Cuece 9–10 minutos, removiendo de vez en cuando para que no se peguen, hasta que la pasta esté hecha y el guiso espeso.",
+    "Incorpora la calabaza y 800 ml de agua caliente. Cuece 10 minutos, hasta que la calabaza esté blanda y empiece a deshacerse.",
+    "Añade los porotos escurridos y los espaguetis. Cuece 9–10 minutos, removiendo de vez en cuando para que no se peguen, hasta que la pasta esté hecha y el guiso espeso.",
     "Sala al gusto y sirve con una ensalada de tomate y cebolla (ensalada chilena)."
   ],
   nutricion: { kcal: 596, prot: 24, hc: 98, grasa: 12 },
@@ -436,8 +436,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela con el aceite, sofríe la cebolla y los ajos picados a fuego medio 8 minutos, hasta que estén dorados. Añade el pimentón y el orégano.",
-    "Incorpora la calabaza en dados y 600 ml de agua caliente. Cuece 15 minutos, hasta que la calabaza se deshaga al tocarla.",
+    "Pica la cebolla y los ajos. En la cazuela con el aceite, sofríelos a fuego medio 8 minutos, hasta que estén dorados; mientras, pela la calabaza y córtala en dados. Añade el pimentón y el orégano.",
+    "Incorpora la calabaza y 600 ml de agua caliente. Cuece 15 minutos, hasta que la calabaza se deshaga al tocarla.",
     "Añade los porotos escurridos y cuece 10 minutos más, aplastando parte de la calabaza para espesar.",
     "Tritura la mitad del maíz con un poco de caldo hasta hacer una pasta (la pastelera) y añádela a la cazuela con el resto de granos enteros.",
     "Cuece 5 minutos, removiendo, hasta que el guiso quede cremoso. Sala.",
@@ -476,10 +476,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon los frijoles escurridos en la cazuela con la zanahoria entera y agua fría que los cubra tres dedos. Lleva a ebullición y cuece a fuego suave tapado a medias 1 h 45 min, hasta que estén blandos.",
-    "Mientras, prepara el hogao: pocha en la sartén con el aceite la cebolleta y los ajos picados 6 minutos, añade los tomates rallados y el comino y cocina 10 minutos, hasta que espese.",
+    "La víspera, pon los frijoles en remojo en abundante agua fría. Al día siguiente, escúrrelos y ponlos en la cazuela con la zanahoria entera y agua fría que los cubra tres dedos. Lleva a ebullición y cuece a fuego suave tapado a medias 1 h 45 min, hasta que estén blandos.",
+    "Mientras, prepara el hogao: pica la cebolleta y los ajos y ralla los tomates. Pocha la cebolleta y los ajos en la sartén con el aceite 6 minutos, añade los tomates y el comino y cocina 10 minutos, hasta que espese.",
     "Saca la zanahoria, tritúrala con un cazo de frijoles y caldo y devuélvela. Añade la mitad del hogao, sala y cuece 15 minutos más, hasta que el caldo esté espeso.",
-    "Corta la panceta en tiras gruesas, hazles cortes en la piel y fríelas en la sartén limpia a fuego medio-bajo 15 minutos con un chorrito de agua, hasta que el agua se evapore y la panceta se fría en su grasa y quede crujiente.",
+    "Mientras, corta la panceta en tiras gruesas, hazles cortes en la piel y fríelas en la sartén limpia a fuego medio-bajo 15 minutos con un chorrito de agua, hasta que el agua se evapore y la panceta se fría en su grasa y quede crujiente.",
     "Pela el plátano, córtalo en rodajas al bies y fríelo en la grasa del chicharrón 2 minutos por lado, hasta que esté caramelizado.",
     "Sirve los frijoles con el resto del hogao por encima, el chicharrón y las tajadas de plátano maduro."
   ],
@@ -519,10 +519,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la cazuela el cerdo y la panceta en dados con 1,5 litros de agua. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 hora.",
-    "Añade el maíz, la calabaza en trozos y la cebolla picada, y cuece 1 hora más a fuego suave, removiendo cada 15 minutos con cuchara de madera para que no se pegue: la calabaza debe deshacerse por completo.",
-    "Incorpora el chorizo en rodajas, las judías escurridas, el comino y el pimentón dulce, y cuece 30 minutos más, hasta que el locro esté tan espeso que la cuchara deje surco.",
-    "Para la salsa (quiquirimichi), calienta el aceite en la sartén con la cebolleta picada 3 minutos, aparta del fuego y añade el pimentón picante.",
+    "Corta la panceta en dados. Pon en la cazuela el cerdo y la panceta con 1,5 litros de agua. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 hora. Mientras, pela la calabaza y córtala en trozos y pica la cebolla.",
+    "Añade el maíz, la calabaza y la cebolla, y cuece 1 hora más a fuego suave, removiendo cada 15 minutos con cuchara de madera para que no se pegue: la calabaza debe deshacerse por completo. Mientras, corta el chorizo en rodajas y pica la cebolleta.",
+    "Incorpora el chorizo, las judías escurridas, el comino y el pimentón dulce, y cuece 30 minutos más, hasta que el locro esté tan espeso que la cuchara deje surco.",
+    "Para la salsa (quiquirimichi), calienta el aceite en la sartén con la cebolleta 3 minutos, aparta del fuego y añade el pimentón picante.",
     "Sala el locro, deja reposar 10 minutos y sirve en cuenco con una cucharada de la salsa roja por encima."
   ],
   nutricion: { kcal: 940, prot: 46, hc: 90, grasa: 44 },
@@ -559,9 +559,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon las alubias escurridas en una olla con agua fría que las cubra dos dedos y lleva a ebullición. Baja a fuego mínimo y cuécelas 1 h 30 min, asustándolas con agua fría dos o tres veces.",
-    "Mientras, sala la perdiz y dórala en la cazuela con el aceite a fuego fuerte 6 minutos, hasta que esté tostada por todos lados.",
-    "Añade la cebolla y la zanahoria en trozos y los ajos enteros con piel. Rehoga 5 minutos a fuego medio.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una olla con agua fría que las cubra dos dedos y lleva a ebullición. Baja a fuego mínimo y cuécelas 1 h 30 min, asustándolas con agua fría dos o tres veces.",
+    "Mientras, trocea la cebolla y la zanahoria. Sala la perdiz y dórala en la cazuela con el aceite a fuego fuerte 6 minutos, hasta que esté tostada por todos lados.",
+    "Añade la cebolla, la zanahoria y los ajos enteros con piel. Rehoga 5 minutos a fuego medio.",
     "Vierte el vino, deja que se evapore el alcohol 3 minutos y añade el laurel, el tomillo, la pimienta y 300 ml de agua. Tapa y estofa a fuego suave 1 hora, hasta que la carne se despegue del hueso.",
     "Saca la perdiz, tritura la salsa con las verduras (sin el laurel, el tomillo ni la piel de los ajos) y devuélvela a la cazuela.",
     "Añade las alubias escurridas con un cazo de su caldo y la perdiz. Cuece todo junto 10 minutos a fuego suave, para que las alubias se empapen de la salsa. Sala y sirve."
@@ -596,10 +596,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pincha las butifarras con un tenedor y hazlas en la sartén con un hilo de aceite a fuego medio 12 minutos, girándolas, hasta que estén doradas por fuera y hechas por dentro. Resérvalas calientes.",
-    "Escurre y seca bien las judías con papel de cocina.",
-    "En la misma sartén, con la grasa de la butifarra y el resto del aceite, saltea los ajos picados 30 segundos a fuego medio sin que se quemen.",
+    "Mientras, escurre y seca bien las judías con papel de cocina, y pica los ajos y el perejil.",
+    "En la misma sartén, con la grasa de la butifarra y el resto del aceite, saltea los ajos 30 segundos a fuego medio sin que se quemen.",
     "Añade las judías y saltéalas a fuego medio-alto 5–6 minutos, sin remover demasiado, hasta que se doren y tengan algunas partes tostadas.",
-    "Sala, espolvorea el perejil picado y sirve las judías con la butifarra encima. Acompaña con all i oli si quieres."
+    "Sala, espolvorea el perejil y sirve las judías con la butifarra encima. Acompaña con all i oli si quieres."
   ],
   nutricion: { kcal: 730, prot: 40, hc: 48, grasa: 42 },
   etiquetas: ["tradicional", "fácil", "rápida", "saciante", "una sola sartén", "sin verduras", "poco especiada"],
@@ -634,11 +634,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el bacon en tiras y fríelo en la sartén a fuego medio 6 minutos, hasta que esté crujiente. Retíralo y deja la grasa.",
+    "Pica la cebolla, los ajos y el cebollino y corta el kale en tiras muy finas. Corta el bacon en tiras y fríelo en la sartén a fuego medio 6 minutos, hasta que esté crujiente. Retíralo y deja la grasa.",
     "Bate los huevos con sal y cuájalos en revuelto en esa grasa 1 minuto, dejándolos jugosos. Retíralos.",
-    "En la misma sartén, pocha la cebolla y los ajos picados 6 minutos. Añade la col en tiras muy finas y saltea 2 minutos, hasta que brille y se ablande un poco.",
+    "En la misma sartén, pocha la cebolla y los ajos 6 minutos. Añade la col y saltea 2 minutos, hasta que brille y se ablande un poco.",
     "Incorpora las alubias escurridas y saltea 3 minutos. Añade la harina de mandioca poco a poco, removiendo sin parar 3–4 minutos, hasta que se tueste y absorba la grasa.",
-    "Devuelve el bacon y el huevo, mezcla, salpimienta y termina con el cebollino picado. Sirve enseguida."
+    "Devuelve el bacon y el huevo, mezcla, salpimienta y termina con el cebollino. Sirve enseguida."
   ],
   nutricion: { kcal: 788, prot: 34, hc: 82, grasa: 36 },
   etiquetas: ["tradicional", "fácil", "saciante", "una sola sartén", "poco especiada"],
@@ -677,10 +677,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el caldo en la cazuela con el pollo, la zanahoria en rodajas y el azafrán. Lleva a ebullición y cuece a fuego suave 20 minutos.",
+    "Corta la zanahoria en rodajas. Pon el caldo en la cazuela con el pollo, la zanahoria y el azafrán. Lleva a ebullición y cuece a fuego suave 20 minutos.",
     "Mientras, en un bol, mezcla la carne picada con el pan rallado, el huevo, los piñones, el ajo y el perejil muy picados, la ralladura de limón y sal. Amasa hasta que esté homogénea.",
-    "Con las manos húmedas, forma 4 pelotas grandes y alargadas.",
-    "Añade al caldo la patata pelada en trozos y las pelotas con cuidado. Cuece a fuego suave sin remover 20 minutos, hasta que las pelotas estén firmes.",
+    "Con las manos húmedas, forma 4 pelotas grandes y alargadas. Pela la patata y córtala en trozos.",
+    "Añade al caldo la patata y las pelotas con cuidado. Cuece a fuego suave sin remover 20 minutos, hasta que las pelotas estén firmes.",
     "Incorpora los garbanzos escurridos y cuece 8 minutos más. Saca el pollo, desmenúzalo y devuélvelo. Sala al gusto.",
     "Sirve primero el caldo y luego los garbanzos con una pelota por plato, o todo junto en plato hondo."
   ],
@@ -717,10 +717,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava bien los chícharos en un colador hasta que el agua salga limpia.",
+    "Lava bien los chícharos en un colador hasta que el agua salga limpia. Pica la cebolla, corta la zanahoria en rodajas y machaca los ajos con el comino en el mortero.",
     "Pon en la cazuela la costilla con 1,2 litros de agua, lleva a ebullición y retira la espuma.",
-    "Añade los chícharos, la cebolla picada, la zanahoria en rodajas y los ajos machacados con el comino. Cuece a fuego suave 25 minutos, removiendo de vez en cuando porque tienden a pegarse.",
-    "Incorpora la patata cascada, la calabaza en dados y el pimentón. Cuece 15 minutos más, hasta que los chícharos se deshagan y el potaje esté espeso y cremoso.",
+    "Añade los chícharos, la cebolla, la zanahoria y el majado de ajo y comino. Cuece a fuego suave 25 minutos, removiendo de vez en cuando porque tienden a pegarse. Mientras, pela la patata y cáscala y corta la calabaza en dados.",
+    "Incorpora la patata, la calabaza y el pimentón. Cuece 15 minutos más, hasta que los chícharos se deshagan y el potaje esté espeso y cremoso.",
     "Sala al gusto y sirve con la costilla. Aguanta muy bien hecho de víspera."
   ],
   nutricion: { kcal: 610, prot: 34, hc: 78, grasa: 18 },
@@ -757,11 +757,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Derrite la mantequilla en la cazuela a fuego suave y pocha la cebolla picada 10 minutos, hasta que esté transparente y dulce, sin que tome color.",
-    "Añade los ajos picados y cocina 1 minuto. Vierte el vino y deja que se evapore 2 minutos.",
+    "Pica la cebolla. Derrite la mantequilla en la cazuela a fuego suave y pocha la cebolla 10 minutos, hasta que esté transparente y dulce, sin que tome color. Mientras, pica los ajos.",
+    "Añade los ajos y cocina 1 minuto. Vierte el vino y deja que se evapore 2 minutos.",
     "Incorpora el tomate triturado, el tomillo y el laurel, y cuece 10 minutos a fuego suave, hasta que la salsa espese.",
-    "Añade las judías escurridas y 150 ml de agua, tapa y cuece 12 minutos a fuego suave, removiendo con cuidado.",
-    "Retira el laurel y el tomillo, salpimienta y espolvorea perejil picado. Sirve sola o como guarnición de un asado."
+    "Añade las judías escurridas y 150 ml de agua, tapa y cuece 12 minutos a fuego suave, removiendo con cuidado. Mientras, pica el perejil.",
+    "Retira el laurel y el tomillo, salpimienta y espolvorea el perejil. Sirve sola o como guarnición de un asado."
   ],
   nutricion: { kcal: 420, prot: 20, hc: 58, grasa: 12 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "sin verduras", "poco especiada"],
@@ -797,10 +797,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos.",
-    "En la cazuela con el aceite, pocha la cebolla y los ajos picados a fuego medio 7 minutos. Aparta del fuego y añade el pimentón y el comino.",
-    "Añade las lentejas lavadas, el laurel y 1 litro de agua. Lleva a ebullición y cuece tapado a medias 20 minutos.",
-    "Incorpora la calabaza en dados y cuece 12 minutos más, hasta que lentejas y calabaza estén tiernas.",
+    "Cuece los huevos 10 minutos en agua hirviendo; mientras, pica la cebolla y los ajos y lava las lentejas. Enfría los huevos en agua fría y pélalos.",
+    "En la cazuela con el aceite, pocha la cebolla y los ajos a fuego medio 7 minutos. Aparta del fuego y añade el pimentón y el comino.",
+    "Añade las lentejas, el laurel y 1 litro de agua. Lleva a ebullición y cuece tapado a medias 20 minutos. Mientras, pela la calabaza y córtala en dados.",
+    "Incorpora la calabaza y cuece 12 minutos más, hasta que lentejas y calabaza estén tiernas.",
     "Añade las espinacas y deja 2 minutos, hasta que se ablanden. Sala al gusto.",
     "Sirve en plato hondo con el huevo duro picado o en cuartos por encima."
   ],
@@ -879,9 +879,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos y córtalos en cuartos. Pon las pasas en remojo en agua templada.",
+    "Cuece los huevos 10 minutos; mientras, pica la cebolla y ralla el tomate. Enfría los huevos y córtalos en cuartos. Pon las pasas en remojo en agua templada.",
     "Quita la piel a la butifarra, desmígala y dórala en la cazuela con el aceite a fuego medio 4 minutos. Retírala.",
-    "En la misma grasa, sofríe la cebolla picada 8 minutos, hasta que esté dorada. Añade el tomate rallado y cocina 5 minutos, hasta que esté espeso.",
+    "En la misma grasa, sofríe la cebolla 8 minutos, hasta que esté dorada. Añade el tomate y cocina 5 minutos, hasta que esté espeso.",
     "Machaca en el mortero el ajo, las almendras y el perejil con un poco de agua (la picada).",
     "Añade a la cazuela los garbanzos escurridos, la butifarra, los piñones, las pasas escurridas, la picada y 150 ml de agua. Cuece 8 minutos a fuego suave, hasta que la salsa quede trabada. Sala.",
     "Sirve con los cuartos de huevo duro por encima."
@@ -924,7 +924,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las lentejas en 700 ml de agua a fuego suave 25 minutos, hasta que estén tiernas.",
-    "Mientras, en la sartén con la mitad del aceite, pocha la cebolla y los ajos picados 6 minutos. Añade el tomate rallado, el ají amarillo, el comino y el orégano y cocina 5 minutos.",
+    "Mientras, pica la cebolla y los ajos y ralla el tomate. En la sartén con la mitad del aceite, pocha la cebolla y los ajos 6 minutos. Añade el tomate, el ají amarillo, el comino y el orégano y cocina 5 minutos.",
     "Cuece el arroz en agua con sal 12 minutos y escúrrelo. Prepara la salsa criolla: cebolla morada en pluma fina, lavada, con zumo de lima, cilantro y sal.",
     "Añade el aderezo a las lentejas, aplasta una parte con la cuchara y cuece 10 minutos, hasta que la menestra quede espesa y cremosa. Sala.",
     "Sala la carne y márcala en la sartén bien caliente con el resto del aceite 1 minuto por lado.",
@@ -965,9 +965,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos y pélalos.",
-    "En la cazuela con el aceite, pocha la cebolla picada 5 minutos. Añade 2 ajos laminados y dóralos 1 minuto. Aparta del fuego y agrega el pimentón.",
-    "Vierte el caldo con el laurel, añade la patata pelada y cascada y cuece 12 minutos.",
+    "Cuece los huevos 10 minutos; mientras, pica la cebolla, lamina 2 ajos y pela y casca la patata. Enfría los huevos y pélalos.",
+    "En la cazuela con el aceite, pocha la cebolla 5 minutos. Añade los ajos laminados y dóralos 1 minuto. Aparta del fuego y agrega el pimentón.",
+    "Vierte el caldo con el laurel, añade la patata y cuece 12 minutos.",
     "Machaca en el mortero el ajo restante con el comino y un poco de sal, y añádelo a la cazuela con las alubias escurridas. Cuece 6 minutos.",
     "Incorpora las espinacas y deja 2 minutos, hasta que estén tiernas. Aplasta unos trozos de patata para espesar y sala.",
     "Sirve con los huevos duros en cuartos sobre cada plato."
@@ -1006,11 +1006,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon los frijoles escurridos en la cazuela con media cebolla, 2 ajos y agua fría que los cubra tres dedos. Lleva a ebullición y cuece a fuego suave 1 hora.",
+    "La víspera, pon los frijoles en remojo en abundante agua fría. Al día siguiente, escúrrelos y ponlos en la cazuela con media cebolla, 2 ajos y agua fría que los cubra tres dedos. Lleva a ebullición y cuece a fuego suave 1 hora.",
     "Añade el cerdo en trozos y el orégano, y cuece 1 hora más, hasta que la carne esté tierna y los frijoles cremosos. Sala.",
     "Mientras, asa los tomates, la otra media cebolla, el ajo restante y el chile en la sartén seca a fuego fuerte 8–10 minutos, girándolos, hasta que estén tostados por fuera.",
     "Tritura las verduras asadas con sal hasta tener una salsa rústica (chiltomate).",
-    "Pica los rábanos y el cilantro y corta la lima en cuartos.",
+    "Mientras se cuece, pica los rábanos y el cilantro y corta la lima en cuartos.",
     "Sirve en cuenco la carne con los frijoles y su caldo, con la salsa, el rábano, el cilantro y la lima para que cada uno añada al gusto. Acompaña con arroz blanco o tortillas."
   ],
   nutricion: { kcal: 798, prot: 56, hc: 76, grasa: 30 },

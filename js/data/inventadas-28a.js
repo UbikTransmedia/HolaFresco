@@ -33,7 +33,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Frota la oreja con sal gruesa o un chorrito de vinagre, aclárala bien y córtala en tiras de 2 cm. Ponla en la olla con agua que la cubra, lleva a hervor 3 minutos y tira esa primera agua: así pierde el olor fuerte.",
     "Devuelve la oreja a la olla con 500 ml de agua, media cebolla y el laurel. Cierra, pon a fuego fuerte y, cuando suba la válvula, baja a fuego medio-bajo y cuenta 15 minutos. Despresuriza de forma rápida abriendo la válvula poco a poco.",
-    "Mientras, pica fina la otra media cebolla, el pimiento, la zanahoria y los ajos y póchalos en una sartén con el aceite a fuego medio 10 minutos, hasta que estén blandos. Añade el chorizo en rodajas y dale 2 minutos, hasta que suelte su grasa roja.",
+    "Mientras, pica fina la otra media cebolla, el pimiento, la zanahoria y los ajos, y corta el chorizo en rodajas. Pocha las verduras en una sartén con el aceite a fuego medio 10 minutos, hasta que estén blandas. Añade el chorizo y dale 2 minutos, hasta que suelte su grasa roja.",
     "Aparta la sartén del fuego, añade el pimentón y remueve 20 segundos para que no se queme.",
     "Abre la olla, añade las alubias escurridas, el sofrito y 400 ml de agua: el líquido debe cubrirlas un dedo. Cierra y, cuando alcance presión, cuenta 25 minutos a fuego medio-bajo.",
     "Deja que la olla pierda la presión de forma natural (unos 15 minutos): así las alubias no se rompen ni se pelan.",
@@ -119,9 +119,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Calienta el agua en la olla y, cuando hierva, echa los garbanzos escurridos, la costilla, la panceta y el chorizo. Retira la espuma 5 minutos con la olla destapada.",
     "Cierra la olla; cuando alcance presión, baja a fuego medio-bajo y cuenta 25 minutos. Deja que baje la presión de forma natural.",
-    "Mientras, prepara el relleno: bate el huevo con 1 diente de ajo y el perejil muy picados, una pizca de sal y el pan rallado hasta tener una masa blanda que se pueda moldear (si está seca, añade 1 cucharada de agua). Forma 2 bollos ovalados y fríelos en una sartén con 2 cucharadas de aceite, 2 minutos por lado, hasta que estén dorados.",
-    "Corta el repollo en tiras finas y cuécelo en una cazuela con agua hirviendo y sal 15 minutos. Escúrrelo bien.",
-    "En la misma sartén, añade el resto del aceite, dora los 2 ajos restantes laminados, aparta del fuego, añade el pimentón y saltea ahí el repollo 2 minutos.",
+    "Mientras, prepara el relleno: pica muy finos 1 diente de ajo y el perejil y bátelos con el huevo, una pizca de sal y el pan rallado hasta tener una masa blanda que se pueda moldear (si está seca, añade 1 cucharada de agua). Forma 2 bollos ovalados y fríelos en una sartén con 2 cucharadas de aceite, 2 minutos por lado, hasta que estén dorados.",
+    "Corta el repollo en tiras finas y cuécelo en una cazuela con agua hirviendo y sal 15 minutos. Mientras, lamina los 2 ajos restantes. Escurre bien el repollo.",
+    "En la misma sartén, añade el resto del aceite, dora los ajos laminados, aparta del fuego, añade el pimentón y saltea ahí el repollo 2 minutos.",
     "Abre la olla, prueba los garbanzos (deben estar mantecosos) y sala. Añade la morcilla entera y los rellenos y deja hervir suave, destapado, 10 minutos para que el relleno se empape de caldo.",
     "Sirve primero una taza de caldo bien caliente. Después, los garbanzos con el repollo, las carnes troceadas y el relleno cortado en rodajas."
   ],
@@ -204,10 +204,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la olla los garbanzos escurridos, la costilla, la panceta y el agua caliente. Lleva a hervor y retira la espuma 3 minutos.",
+    "Calienta el agua en la olla y, cuando hierva, echa los garbanzos escurridos, la costilla y la panceta. Lleva a hervor y retira la espuma 3 minutos.",
     "Cierra la olla; cuando alcance presión, baja a fuego medio-bajo y cuenta 20 minutos. Despresuriza de forma rápida abriendo la válvula poco a poco.",
-    "Mientras, lava el hinojo y pícalo fino, tallos y hojas incluidos. Pela la patata y la calabaza y córtalas en trozos de 3 cm.",
-    "Dora los ajos laminados en una sartén con el aceite a fuego medio 1 minuto. Aparta del fuego, añade el comino, el pimentón y el azafrán y májalo todo en un mortero con un cazo de caldo de la olla.",
+    "Mientras, lava el hinojo y pícalo fino, tallos y hojas incluidos. Pela la patata y la calabaza y córtalas en trozos de 3 cm. Lamina los ajos.",
+    "Dora los ajos en una sartén con el aceite a fuego medio 1 minuto. Aparta del fuego, añade el comino, el pimentón y el azafrán y májalo todo en un mortero con un cazo de caldo de la olla.",
     "Abre la olla y añade el hinojo, la patata, la calabaza, el maíz y el majado. Sala, cierra y cuenta 6 minutos desde que alcance presión a fuego medio-bajo. Deja que la presión baje de forma natural.",
     "Abre y aplasta unos trozos de calabaza y de patata contra el fondo para espesar. Hierve 3 minutos destapado, prueba de sal y deja reposar 5 minutos.",
     "Sirve en plato hondo con la costilla y el millo; cada uno roe su mazorca con la mano."
@@ -245,8 +245,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas en trozos de 4 cm. Ponlas en la olla con el agua, el laurel y sal. Cierra a fuego fuerte y, cuando alcance presión, baja a fuego medio y cuenta 6 minutos. Despresuriza de forma rápida.",
-    "Mientras, pon las tiras de panceta en una sartén fría con el aceite y enciende a fuego medio. Fríelas 10-12 minutos, dándoles la vuelta, hasta que estén doradas y crujientes por fuera. Sácalas a un plato con papel de cocina.",
-    "En la grasa que queda en la sartén, dora los ajos laminados 1 minuto a fuego suave, sin que se quemen.",
+    "Mientras, pon las tiras de panceta en una sartén fría con el aceite y enciende a fuego medio. Fríelas 10-12 minutos, dándoles la vuelta, hasta que estén doradas y crujientes por fuera; entre vuelta y vuelta, pela y lamina los ajos. Saca la panceta a un plato con papel de cocina.",
+    "En la grasa que queda en la sartén, dora los ajos 1 minuto a fuego suave, sin que se quemen.",
     "Aparta la sartén del fuego, espera 30 segundos y añade los dos pimentones removiendo: debe quedar un aceite rojo intenso que huela a pimentón, no a quemado.",
     "Escurre las patatas guardando un vaso del agua de cocción y retira el laurel. Machácalas con un tenedor o un pasapurés (nunca con batidora, que se ponen chiclosas).",
     "Vierte el aceite rojo con los ajos sobre las patatas y mezcla, añadiendo agua de cocción poco a poco hasta tener un puré rústico, cremoso y de color anaranjado. Prueba de sal.",
@@ -330,13 +330,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos en una cazuela con agua hirviendo 10 minutos, enfríalos en agua fría y pélalos.",
+    "Cuece los huevos en una cazuela con agua hirviendo 10 minutos. Mientras, trocea la cebolla y las zanahorias y pela los ajos. Enfría los huevos en agua fría y pélalos.",
     "Extiende la aleta abierta sobre la tabla y salpiméntala. Cúbrela con las lonchas de jamón, coloca los huevos enteros en fila en el centro y reparte las aceitunas. Enróllala apretando y átala con hilo de cocina cada 3 cm. Pásala por la harina.",
     "Calienta el aceite en la olla a fuego fuerte y dora el rollo por todos los lados, 8 minutos, hasta que tenga buen color. Resérvalo.",
-    "Baja a fuego medio y sofríe la cebolla y las zanahorias troceadas y los ajos 8 minutos. Añade el brandy y el vino y rasca el fondo; deja hervir 2 minutos.",
-    "Devuelve la carne, añade el caldo, el laurel y el tomillo. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 30 minutos. Deja que pierda la presión de forma natural.",
+    "Baja a fuego medio y sofríe la cebolla, las zanahorias y los ajos 8 minutos. Añade el brandy y el vino y rasca el fondo; deja hervir 2 minutos.",
+    "Devuelve la carne, añade el caldo, el laurel y el tomillo. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 30 minutos. Deja que pierda la presión de forma natural. Mientras, pela las patatas y córtalas en trozos de 4 cm.",
     "Saca la carne a una tabla y deja que repose 10 minutos tapada. Retira el laurel y tritura la salsa con la batidora hasta que quede fina.",
-    "Vuelve a poner la salsa en la olla con las patatas peladas en trozos de 4 cm (si hace falta, añade un poco de agua hasta casi cubrirlas). Cierra y cuenta 5 minutos desde que alcance presión. Despresuriza de forma rápida.",
+    "Vuelve a poner la salsa en la olla con las patatas (si hace falta, añade un poco de agua hasta casi cubrirlas). Cierra y cuenta 5 minutos desde que alcance presión. Despresuriza de forma rápida.",
     "Quita el hilo, corta la aleta en rodajas de 1,5 cm con cuchillo bien afilado y sírvela con las patatas y la salsa por encima."
   ],
   nutricion: { kcal: 916, prot: 73, hc: 52, grasa: 46 },
@@ -373,9 +373,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la carne en la olla con la cebolla partida en dos, los ajos aplastados, el laurel y el agua fría. Lleva a hervor destapada y retira la espuma 3 o 4 minutos.",
-    "Añade sal, cierra y, cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Deja que pierda la presión de forma natural.",
+    "Añade sal, cierra y, cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Deja que pierda la presión de forma natural. Mientras, pela las patatas.",
     "Pincha un trozo de carne: debe entrar el tenedor sin esfuerzo. Si no, ciérrala 5 minutos más.",
-    "Saca la carne a una fuente y tápala. Pela las patatas y cuécelas enteras en el mismo caldo: cierra y cuenta 6 minutos desde que alcance presión. Despresuriza de forma rápida.",
+    "Saca la carne a una fuente y tápala. Cuece las patatas enteras en el mismo caldo: cierra y cuenta 6 minutos desde que alcance presión. Despresuriza de forma rápida.",
     "Coloca las patatas partidas por la mitad y la carne en trozos sobre una tabla o plato de madera.",
     "Espolvorea sal gruesa y los dos pimentones y riega generosamente con el aceite crudo justo antes de servir."
   ],
@@ -413,8 +413,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el lomo. Calienta el aceite y la mantequilla en la olla a fuego medio-fuerte y dora la pieza por todos los lados, 6-8 minutos, hasta que esté bien dorada. Resérvala.",
-    "Baja a fuego medio y sofríe la cebolla en juliana y los ajos laminados 6 minutos, hasta que estén blandos.",
+    "Corta la cebolla en juliana y lamina los ajos. Salpimienta el lomo. Calienta el aceite y la mantequilla en la olla a fuego medio-fuerte y dora la pieza por todos los lados, 6-8 minutos, hasta que esté bien dorada. Resérvala.",
+    "Baja a fuego medio y sofríe la cebolla y los ajos 6 minutos, hasta que estén blandos.",
     "Devuelve el lomo, vierte la leche, añade el laurel y la nuez moscada. Cierra; cuando alcance presión, baja a fuego mínimo y cuenta 20 minutos. Deja que pierda la presión de forma natural.",
     "Mientras, pela las patatas, córtalas en trozos y cuécelas en una cazuela con agua y sal 18-20 minutos, hasta que estén tiernas.",
     "Saca el lomo y deja que repose 10 minutos envuelto en papel de aluminio. La leche se habrá cortado: es normal.",
@@ -457,11 +457,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el conejo. Calienta el aceite en la olla destapada a fuego fuerte y dóralo en dos tandas, 4 minutos cada una, hasta que tenga buen color. Resérvalo.",
-    "Baja a fuego medio y sofríe la cebolla y el pimiento picados 7 minutos. Añade los ajos laminados y dales 1 minuto, hasta que huelan.",
+    "Pica la cebolla y el pimiento y lamina los ajos. Salpimienta el conejo. Calienta el aceite en la olla destapada a fuego fuerte y dóralo en dos tandas, 4 minutos cada una, hasta que tenga buen color. Resérvalo.",
+    "Baja a fuego medio y sofríe la cebolla y el pimiento 7 minutos. Añade los ajos y dales 1 minuto, hasta que huelan.",
     "Vierte el vino, rasca el fondo y deja que hierva 2 minutos. Añade el tomate, la pizca de azúcar, el laurel y el tomillo y cocina 3 minutos.",
-    "Devuelve el conejo con su jugo y remueve para que quede cubierto de salsa. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 10 minutos. Despresuriza de forma rápida.",
-    "Añade las patatas peladas en dados de 3 cm y, si la salsa está muy espesa, medio vaso de agua. Cierra y cuenta 4 minutos desde que alcance presión. Deja que pierda la presión de forma natural.",
+    "Devuelve el conejo con su jugo y remueve para que quede cubierto de salsa. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 10 minutos. Mientras, pela las patatas y córtalas en dados de 3 cm. Despresuriza de forma rápida.",
+    "Añade las patatas y, si la salsa está muy espesa, medio vaso de agua. Cierra y cuenta 4 minutos desde que alcance presión. Deja que pierda la presión de forma natural.",
     "Abre, retira el laurel y, si la salsa está ligera, redúcela 3 minutos destapada. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 617, prot: 54, hc: 44, grasa: 25 },
@@ -545,11 +545,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Ata las patas de las perdices con hilo para que no se deformen y salpiméntalas por dentro y por fuera.",
+    "Ata las patas de las perdices con hilo para que no se deformen y salpiméntalas por dentro y por fuera. Corta la cebolla en cuartos y las zanahorias en rodajas gruesas.",
     "Calienta el aceite en la olla a fuego medio-fuerte y dora las perdices por todos los lados, 8 minutos, hasta que estén bien doradas.",
-    "Añade la cebolla en cuartos, las zanahorias en rodajas gruesas, los ajos enteros, el laurel, la pimienta y los clavos, y rehoga 3 minutos.",
-    "Vierte el vino, el vinagre y el agua. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 25 minutos (20 si son de granja). Deja que pierda la presión de forma natural.",
-    "Saca las perdices y añade a la salsa las patatas peladas y cascadas en trozos medianos. Cierra y cuenta 5 minutos desde que alcance presión. Despresuriza de forma rápida.",
+    "Añade la cebolla, las zanahorias, los ajos enteros, el laurel, la pimienta y los clavos, y rehoga 3 minutos.",
+    "Vierte el vino, el vinagre y el agua. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 25 minutos (20 si son de granja). Deja que pierda la presión de forma natural. Mientras, pela las patatas y cáscalas en trozos medianos.",
+    "Saca las perdices y añade las patatas a la salsa. Cierra y cuenta 5 minutos desde que alcance presión. Despresuriza de forma rápida.",
     "Devuelve las perdices, quita el hilo y deja hervir todo 5 minutos destapado para que la salsa se concentre. Prueba de sal.",
     "Sirve media perdiz o una entera por persona con las patatas, las verduras y los ajos, que se aplastan sobre el pan."
   ],
@@ -595,8 +595,8 @@ window.RECETAS_SEED.push({
     "Escurre la carne guardando el vino y las verduras por separado. Sécala con papel, sálala y enharínala ligeramente.",
     "Calienta el aceite en la olla a fuego fuerte y dora la carne en dos tandas, 4 minutos cada una. Resérvala.",
     "Baja a fuego medio y rehoga las verduras del marinado 6 minutos. Añade el brandy, rasca el fondo y vierte el vino del marinado; deja hervir 3 minutos para que pierda el alcohol.",
-    "Devuelve la carne, cierra y, cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Deja que pierda la presión de forma natural.",
-    "Saca la carne, retira el laurel y el tomillo y tritura la salsa con las verduras. Devuélvela a la olla con la carne, el chocolate y las patatas peladas en trozos de 4 cm.",
+    "Devuelve la carne, cierra y, cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Deja que pierda la presión de forma natural. Mientras, pela las patatas y córtalas en trozos de 4 cm.",
+    "Saca la carne, retira el laurel y el tomillo y tritura la salsa con las verduras. Devuélvela a la olla con la carne, el chocolate y las patatas.",
     "Cierra y cuenta 5 minutos desde que alcance presión. Despresuriza de forma rápida, prueba de sal y deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 784, prot: 70, hc: 54, grasa: 32 },
@@ -637,8 +637,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pincha la piel de los muslos con un tenedor y salpimiéntalos. Ponlos con la piel hacia abajo en la olla fría y enciende a fuego medio: dóralos 8 minutos hasta que la piel esté crujiente y hayan soltado su grasa. Dales la vuelta 1 minuto y resérvalos.",
-    "Retira la grasa de la olla dejando 2 cucharadas (guarda 1 cucharada aparte). Sofríe la cebolla, la zanahoria y los ajos picados 8 minutos. Añade los tomates rallados y cocina 5 minutos más.",
+    "Pincha la piel de los muslos con un tenedor y salpimiéntalos. Ponlos con la piel hacia abajo en la olla fría y enciende a fuego medio: dóralos 8 minutos hasta que la piel esté crujiente y hayan soltado su grasa. Mientras, pica la cebolla, la zanahoria y los ajos y ralla los tomates. Dales la vuelta a los muslos 1 minuto y resérvalos.",
+    "Retira la grasa de la olla dejando 2 cucharadas (guarda 1 cucharada aparte). Sofríe la cebolla, la zanahoria y los ajos 8 minutos. Añade el tomate rallado y cocina 5 minutos más.",
     "Vierte el brandy y el vino y deja que hiervan 2 minutos. Añade el caldo, la canela y los muslos. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 30 minutos. Deja que pierda la presión de forma natural.",
     "Mientras, pela las peras, pártelas por la mitad y quítales el corazón. Dóralas en una sartén con la cucharada de grasa de pato y el azúcar a fuego medio 6-8 minutos, dándoles la vuelta, hasta que estén caramelizadas y tiernas.",
     "Saca los muslos y la canela. Tritura la salsa con las almendras hasta que quede fina.",
@@ -680,10 +680,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo. Calienta 2 cucharadas del aceite en la olla a fuego fuerte y dóralo en dos tandas, 4 minutos cada una. Resérvalo.",
-    "Baja a fuego medio y sofríe la cebolla picada 8 minutos, hasta que esté dorada. Añade los tomates rallados y cocina 5 minutos más, hasta que el sofrito se oscurezca un poco.",
+    "Pica la cebolla y ralla los tomates. Salpimienta el pollo. Calienta 2 cucharadas del aceite en la olla a fuego fuerte y dóralo en dos tandas, 4 minutos cada una. Resérvalo.",
+    "Baja a fuego medio y sofríe la cebolla 8 minutos, hasta que esté dorada. Añade el tomate rallado y cocina 5 minutos más, hasta que el sofrito se oscurezca un poco.",
     "Vierte el vino, rasca el fondo y deja hervir 2 minutos. Añade el caldo, el laurel y el pollo. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 10 minutos. Deja que pierda la presión de forma natural.",
-    "Mientras, calienta el resto del aceite en una sartén y fríe las patatas en dados de 2 cm a fuego medio 12 minutos, hasta que estén doradas. Escúrrelas sobre papel y sálalas.",
+    "Mientras, pela las patatas y córtalas en dados de 2 cm. Calienta el resto del aceite en una sartén y fríelas a fuego medio 12 minutos, hasta que estén doradas. Escúrrelas sobre papel y sálalas.",
     "En una cucharada de ese aceite, tuesta las almendras y 2 dientes de ajo 2 minutos, hasta que estén dorados. Májalos en un mortero con el perejil y un cazo del caldo del guiso.",
     "Abre la olla, añade la picada y las patatas fritas y deja hervir suave, destapado, 5 minutos, para que las patatas se empapen y la salsa espese. Prueba de sal y sirve."
   ],
@@ -728,10 +728,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y la costilla. Calienta el aceite en la olla a fuego fuerte y dóralos 6 minutos, hasta que tengan buen color.",
-    "Baja a fuego medio, añade la cebolla y los ajos picados y sofríe 6 minutos. Agrega los tomates rallados y cocina 5 minutos más.",
-    "Añade el pimentón, la canela, la nuez moscada, el azafrán y una buena pizca de pimienta, remueve 20 segundos y vierte el caldo. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 12 minutos. Despresuriza de forma rápida.",
-    "Abre y añade las judías verdes troceadas, las setas, los guisantes, la sobrasada en trocitos y el arroz. Prueba el caldo y ajusta de sal: debe estar sabroso.",
+    "Pica la cebolla y los ajos y ralla los tomates. Salpimienta el pollo y la costilla. Calienta el aceite en la olla a fuego fuerte y dóralos 6 minutos, hasta que tengan buen color.",
+    "Baja a fuego medio, añade la cebolla y los ajos y sofríe 6 minutos. Agrega el tomate rallado y cocina 5 minutos más.",
+    "Añade el pimentón, la canela, la nuez moscada, el azafrán y una buena pizca de pimienta, remueve 20 segundos y vierte el caldo. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 12 minutos. Mientras, trocea las judías verdes y la sobrasada. Despresuriza de forma rápida.",
+    "Abre y añade las judías verdes, las setas, los guisantes, la sobrasada y el arroz. Prueba el caldo y ajusta de sal: debe estar sabroso.",
     "Cierra de nuevo y cuenta 5 minutos desde que alcance presión a fuego medio-bajo. Despresuriza de forma rápida.",
     "Remueve, deja reposar 3 minutos con la olla destapada y sirve enseguida: debe quedar bien caldoso, casi como una sopa espesa."
   ],
@@ -769,10 +769,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en la olla a fuego medio y fríe la ñora 20 segundos, sin que se queme. Sácala. Fríe después las almendras, 3 dientes de ajo enteros y el pan hasta que estén dorados, 2-3 minutos, y sácalos.",
+    "Pela las patatas y córtalas en rodajas de 1,5 cm. Pela los ajos y lamina 3 de ellos.",
+    "Calienta el aceite en la olla a fuego medio y fríe la ñora 20 segundos, sin que se queme. Sácala. Fríe después las almendras, los 3 dientes de ajo enteros y el pan hasta que estén dorados, 2-3 minutos, y sácalos.",
     "Maja en un mortero la ñora, las almendras, los ajos fritos y el pan con un poco de agua hasta tener una pasta.",
-    "En el aceite de la olla, dora los otros 3 ajos laminados y la guindilla 1 minuto. Aparta del fuego, añade el pimentón y remueve 20 segundos.",
-    "Vierte enseguida el agua, añade las patatas peladas en rodajas de 1,5 cm y sala. Cierra; cuando alcance presión, baja a fuego medio y cuenta 4 minutos. Despresuriza de forma rápida.",
+    "En el aceite de la olla, dora los ajos laminados y la guindilla 1 minuto. Aparta del fuego, añade el pimentón y remueve 20 segundos.",
+    "Vierte enseguida el agua, añade las patatas y sala. Cierra; cuando alcance presión, baja a fuego medio y cuenta 4 minutos. Despresuriza de forma rápida.",
     "Abre, añade la picada y remueve. Coloca encima los tacos de rape salados, tapa la olla sin cerrarla y cocina a fuego suave 5 minutos, moviendo la olla de vez en cuando, hasta que el rape esté opaco y la salsa ligada.",
     "Deja reposar 2 minutos y sirve en plato hondo con su salsa roja."
   ],
@@ -812,9 +813,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en la olla a fuego medio y sofríe la cebolla y los pimientos en tiras 8 minutos, hasta que estén blandos. Añade los ajos laminados y dales 1 minuto.",
+    "Corta la cebolla y los pimientos en tiras y lamina los ajos. Pela las patatas y córtalas en rodajas finas (medio centímetro).",
+    "Calienta el aceite en la olla a fuego medio y sofríe la cebolla y los pimientos 8 minutos, hasta que estén blandos. Añade los ajos y dales 1 minuto.",
     "Vierte el vino y deja que hierva 2 minutos. Añade el tomate, el laurel y el tomillo y sala.",
-    "Incorpora las patatas peladas en rodajas finas (medio centímetro) y remueve para que queden cubiertas de salsa. Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Despresuriza de forma rápida.",
+    "Incorpora las patatas y remueve para que queden cubiertas de salsa. Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Despresuriza de forma rápida.",
     "Salpimienta los lomos de pescado y colócalos con la piel hacia arriba sobre la salsa.",
     "Tapa la olla sin cerrarla y cocina a fuego suave 5-6 minutos, hasta que el pescado esté opaco y se separe en lascas.",
     "Deja reposar 2 minutos fuera del fuego y sirve cada lomo sobre su cama de patatas y salsa."
@@ -902,9 +904,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol mezcla las dos carnes con el huevo, la miga de pan escurrida, 1 ajo y la mitad del perejil muy picados, sal y pimienta. Forma 12 albóndigas y pásalas por la harina.",
+    "Pica la cebolla y ralla los tomates. En un bol mezcla las dos carnes con el huevo, la miga de pan escurrida, 1 ajo y la mitad del perejil muy picados, sal y pimienta. Forma 12 albóndigas y pásalas por la harina.",
     "Calienta el aceite en la olla a fuego medio-fuerte y dora las albóndigas 4-5 minutos, sin que se hagan por dentro. Resérvalas. En el mismo aceite saltea la sepia 3 minutos y resérvala aparte.",
-    "Baja a fuego medio y sofríe la cebolla picada 8 minutos, hasta que esté dorada. Añade los tomates rallados y cocina 5 minutos más.",
+    "Baja a fuego medio y sofríe la cebolla 8 minutos, hasta que esté dorada. Añade el tomate rallado y cocina 5 minutos más.",
     "Vierte el vino, deja hervir 2 minutos y añade el caldo y la sepia. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 12 minutos. Despresuriza de forma rápida.",
     "Añade las albóndigas, cierra de nuevo y cuenta 6 minutos desde que alcance presión. Deja que pierda la presión de forma natural.",
     "Mientras, maja en un mortero las almendras con los 2 ajos restantes y el resto del perejil y un poco del caldo.",
@@ -944,9 +946,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas, corta las puntas y pela el tallo. Pártelas en cuartos y échalas a un bol con agua y el zumo del limón para que no se oscurezcan.",
-    "Calienta el aceite en la olla a fuego medio-suave y dora los ajos picados 1 minuto, sin que tomen color oscuro. Añade la harina y remueve 1 minuto.",
-    "Vierte el vino, remueve para que no queden grumos y deja hervir 1 minuto. Añade las alcachofas escurridas, las patatas peladas en dados de 2 cm, el agua y la mitad del perejil picado. Sala ligeramente.",
+    "Una hora antes, pon las almejas en agua con sal para que suelten la arena. Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas, corta las puntas y pela el tallo. Pártelas en cuartos y échalas a un bol con agua y el zumo del limón para que no se oscurezcan. Pela las patatas y córtalas en dados de 2 cm, y pica los ajos y el perejil.",
+    "Calienta el aceite en la olla a fuego medio-suave y dora los ajos 1 minuto, sin que tomen color oscuro. Añade la harina y remueve 1 minuto.",
+    "Vierte el vino, remueve para que no queden grumos y deja hervir 1 minuto. Añade las alcachofas escurridas, las patatas, el agua y la mitad del perejil. Sala ligeramente.",
     "Cierra; cuando alcance presión, baja a fuego medio y cuenta 3 minutos. Despresuriza de forma rápida.",
     "Añade las almejas escurridas, tapa la olla sin cerrarla y cocina a fuego medio 3 minutos, moviendo la olla, hasta que se abran todas. Desecha las que sigan cerradas.",
     "Esparce el resto del perejil, menea la olla en vaivén 30 segundos para que la salsa ligue y sirve enseguida."
@@ -984,7 +986,7 @@ window.RECETAS_SEED.push({
     "Limpia la borraja: quita las hojas grandes (aprovecha solo las tiernas), pasa un paño por los tallos para quitarles la pelusilla y retira los hilos como en el apio. Córtala en trozos de 4 cm y lávala bien.",
     "Pela las patatas y cáscalas en trozos medianos. Ponlas en la olla con la borraja encima, el agua y sal.",
     "Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Despresuriza de forma rápida.",
-    "Mientras, calienta el aceite en una sartén a fuego medio y dora los ajos laminados 1 minuto. Añade el jamón y saltéalo 1 minuto más, sin que se reseque.",
+    "Mientras, lamina los ajos, calienta el aceite en una sartén a fuego medio y dóralos 1 minuto. Añade el jamón y saltéalo 1 minuto más, sin que se reseque.",
     "Escurre la borraja y las patatas (guarda el caldo, es excelente para una sopa) y repártelas en los platos.",
     "Riega con el refrito de ajo y jamón y sirve caliente."
   ],
@@ -1023,9 +1025,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en la olla a fuego medio y sofríe la cebolla y los pimientos picados 7 minutos, hasta que estén blandos. Añade el ajo picado 1 minuto.",
+    "Pica la cebolla, los pimientos y el ajo y ralla el tomate. Pela las patatas y cáscalas en trozos medianos.",
+    "Calienta el aceite en la olla a fuego medio y sofríe la cebolla y los pimientos 7 minutos, hasta que estén blandos. Añade el ajo 1 minuto.",
     "Agrega el tomate rallado y cocina 4 minutos. Aparta del fuego, añade el pimentón y remueve 20 segundos.",
-    "Incorpora las patatas peladas y cascadas en trozos medianos y rehógalas 1 minuto. Añade el agua (deben quedar justo cubiertas), el laurel y sal.",
+    "Incorpora las patatas y rehógalas 1 minuto. Añade el agua (deben quedar justo cubiertas), el laurel y sal.",
     "Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Despresuriza de forma rápida.",
     "Abre y aplasta unos trozos de patata para espesar el caldo. Con el guiso hirviendo suave, casca los huevos encima, separados.",
     "Tapa la olla sin cerrarla y deja 4 minutos a fuego suave, hasta que la clara esté cuajada y la yema líquida. Sirve un huevo por plato con sus patatas."

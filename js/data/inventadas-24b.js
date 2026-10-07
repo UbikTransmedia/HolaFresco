@@ -28,7 +28,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece un huevo 10 minutos, enfríalo y pícalo. Pica también las aceitunas y la media cebolla muy fina.",
+    "Cuece un huevo 10 minutos. Mientras, pica las aceitunas y la media cebolla muy fina. Enfría el huevo, pélalo y pícalo.",
     "Pocha la cebolla en una sartén con 1 cucharada de aceite 6 minutos a fuego suave. Fuera del fuego mezcla con el atún desmigado, el tomate frito, el huevo duro y las aceitunas.",
     "Coloca una cucharada de relleno en el centro de cada oblea, sin pasarte para que cierre bien.",
     "Pinta el borde con el otro huevo batido, dobla en media luna y sella apretando con un tenedor.",
@@ -70,10 +70,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pocha la mitad de la cebolla picada fina con el ajo en 2 cucharadas de aceite 6 minutos. Añade el bacalao desmigado y rehoga 2 minutos.",
-    "Agrega 2 cucharadas de harina, remueve 1 minuto y vierte la leche poco a poco sin dejar de remover. Cuece 6-8 minutos hasta tener una bechamel espesa. Deja templar.",
+    "Pica fina la cebolla y el ajo. Pocha la mitad de la cebolla con el ajo en 2 cucharadas de aceite 6 minutos. Añade el bacalao desmigado y rehoga 2 minutos.",
+    "Agrega 2 cucharadas de harina, remueve 1 minuto y vierte la leche poco a poco sin dejar de remover. Cuece 6-8 minutos hasta tener una bechamel espesa. Deja templar y, mientras, bate el huevo en un plato.",
     "Rellena 8 pimientos con la bechamel ayudándote de una cucharilla, sin llenarlos del todo.",
-    "Pasa la abertura de cada pimiento por la harina restante y luego todo por huevo batido. Dóralos en una sartén con 3 cucharadas de aceite 1 minuto por cada lado y colócalos en una cazuela.",
+    "Pasa la abertura de cada pimiento por la harina restante y luego todo por el huevo batido. Dóralos en una sartén con 3 cucharadas de aceite 1 minuto por cada lado y colócalos en una cazuela.",
     "Para la salsa, pocha la otra media cebolla 8 minutos en la misma sartén. Añade los 2 pimientos restantes, el jugo del bote, el caldo y la nata y cuece 5 minutos.",
     "Tritura la salsa con la batidora hasta que esté fina y sala si hace falta.",
     "Vierte la salsa sobre los pimientos y calienta todo a fuego suave 5 minutos, meneando la cazuela."
@@ -113,12 +113,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir una olla grande de agua con el laurel. Coge el pulpo por la cabeza y 'asústalo': mételo y sácalo del agua hirviendo 3 veces.",
-    "Déjalo dentro y cuece a fuego medio 40-50 minutos, hasta que al pincharlo en la parte gruesa del tentáculo entre sin resistencia. Apaga y deja reposar en el agua 10 minutos.",
+    "La víspera, pasa el pulpo del congelador a la nevera para que se descongele. El día de la receta, pon a hervir una olla grande de agua con el laurel. Coge el pulpo por la cabeza y 'asústalo': mételo y sácalo del agua hirviendo 3 veces.",
+    "Déjalo dentro y cuece a fuego medio 40-50 minutos, hasta que al pincharlo en la parte gruesa del tentáculo entre sin resistencia. Mientras, pica la cebolla, el pimiento y los ajos, y pela y cacha las patatas. Apaga y deja reposar el pulpo en el agua 10 minutos.",
     "Saca el pulpo, córtalo en trozos con tijera y reserva 400 ml del agua de cocción.",
-    "En una cazuela pocha la cebolla, el pimiento y los ajos picados con el aceite 10 minutos a fuego medio.",
+    "En una cazuela pocha la cebolla, el pimiento y los ajos con el aceite 10 minutos a fuego medio.",
     "Añade el tomate y cocina 8 minutos. Aparta del fuego, añade los pimentones y el vino, y vuelve al fuego 2 minutos.",
-    "Agrega las patatas peladas y cachadas y el agua de cocción reservada. Cuece 20 minutos, hasta que estén tiernas.",
+    "Agrega las patatas y el agua de cocción reservada. Cuece 20 minutos, hasta que estén tiernas.",
     "Incorpora el pulpo y cuece todo junto 10 minutos a fuego suave para que tome sabor. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 460, prot: 38, hc: 40, grasa: 16 },
@@ -155,8 +155,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hierve un litro de agua con la sal gruesa. Echa los langostinos y, cuando vuelva a hervir, cuenta 1 minuto. Sácalos a un bol con agua y hielo para cortar la cocción y pélalos.",
-    "Abre los mejillones limpios en una cazuela tapada con un chorrito de agua a fuego fuerte 3 minutos. Sácalos de la concha.",
+    "Pon a hervir un litro de agua con la sal gruesa. Mientras se calienta, limpia los mejillones (quítales las barbas y raspa las conchas). Echa los langostinos y, cuando vuelva a hervir, cuenta 1 minuto. Sácalos a un bol con agua y hielo para cortar la cocción y pélalos.",
+    "Abre los mejillones en una cazuela tapada con un chorrito de agua a fuego fuerte 3 minutos. Sácalos de la concha.",
     "Pica en dados muy pequeños (brunoise) los pimientos, la cebolleta y el tomate sin semillas.",
     "Prepara la vinagreta batiendo en un bol el aceite, el vinagre y una pizca de sal.",
     "Corta el pulpo en rodajas y los langostinos en trozos grandes, y mézclalos con los mejillones y el picadillo.",
@@ -198,12 +198,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica el bonito a cuchillo bien fino y mézclalo en un bol con el huevo, el pan rallado, un ajo picado, el perejil picado y sal.",
+    "Pica el bonito a cuchillo bien fino y mézclalo en un bol con el huevo, el pan rallado, un ajo picado, el perejil picado y sal. Pica también la cebolla, el pimiento y el otro ajo.",
     "Forma con las manos húmedas un rollo compacto de unos 5 cm de grosor. Pásalo por harina y dóralo por todos los lados en la cazuela con 2 cucharadas de aceite, unos 6 minutos, girándolo con dos espátulas. Retíralo.",
-    "En la misma cazuela pocha la cebolla, el pimiento y el otro ajo picados 10 minutos a fuego medio.",
+    "En la misma cazuela pocha la cebolla, el pimiento y el ajo 10 minutos a fuego medio.",
     "Vierte el vino y deja reducir 2 minutos. Añade el tomate y medio vaso de agua y cuece 10 minutos.",
     "Vuelve a meter el rollo en la salsa y cuece tapado a fuego suave 25 minutos, dándole la vuelta a mitad.",
-    "Mientras, corta las patatas en dados y fríelas en una sartén con 2 cucharadas de aceite a fuego medio 15 minutos, hasta que estén doradas y tiernas. Sálalas.",
+    "Mientras, pela las patatas, córtalas en dados y fríelas en una sartén con 2 cucharadas de aceite a fuego medio 15 minutos, hasta que estén doradas y tiernas. Sálalas.",
     "Deja templar el rollo 5 minutos, córtalo en rodajas gruesas y sírvelo napado con la salsa y con las patatas."
   ],
   nutricion: { kcal: 625, prot: 42, hc: 45, grasa: 30 },
@@ -240,11 +240,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Deja las almejas en agua fría con sal 30 minutos para que suelten la arena.",
-    "Pela las patatas, córtalas en rodajas de 1 cm y cuécelas en agua con sal 12 minutos, hasta que estén casi tiernas. Escúrrelas.",
-    "En una cazuela ancha pocha la cebolla picada fina y los ajos con el aceite a fuego suave 10 minutos, hasta que estén transparentes.",
+    "Mientras, pela las patatas, córtalas en rodajas de 1 cm y cuécelas en agua con sal 12 minutos, hasta que estén casi tiernas. Mientras cuecen, pica fina la cebolla, pica los ajos y el perejil. Escurre las patatas.",
+    "En una cazuela ancha pocha la cebolla y los ajos con el aceite a fuego suave 10 minutos, hasta que estén transparentes.",
     "Añade la harina y remueve 1 minuto. Vierte la sidra y deja hervir 3 minutos, hasta que la salsa espese ligeramente.",
     "Coloca las patatas en la cazuela, encima la merluza salada y las almejas escurridas. Tapa y cuece a fuego suave 6-7 minutos, meneando la cazuela, hasta que las almejas se abran y la merluza esté hecha.",
-    "Espolvorea perejil picado y sirve en la misma cazuela."
+    "Espolvorea el perejil picado y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 560, prot: 38, hc: 45, grasa: 25 },
   etiquetas: ["tradicional", "fácil", "para invitados", "de domingo", "sin verduras", "poco especiada"],
@@ -363,10 +363,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Fríe en la cazuela con el aceite la rebanada de pan y 2 ajos hasta que estén dorados. Sácalos y májalos en el mortero con el azafrán y una pizca de sal.",
-    "En el mismo aceite pocha la cebolla, el pimiento y el otro ajo picados 10 minutos a fuego medio.",
+    "Pica la cebolla, el pimiento y un ajo. Fríe en la cazuela con el aceite la rebanada de pan y los otros 2 ajos hasta que estén dorados. Sácalos y májalos en el mortero con el azafrán y una pizca de sal.",
+    "En el mismo aceite pocha la cebolla, el pimiento y el ajo picado 10 minutos a fuego medio. Mientras, pela y cacha las patatas.",
     "Añade el vino y deja que se evapore 2 minutos.",
-    "Agrega las patatas peladas y cachadas y el laurel, rehoga 1 minuto y cubre justo con agua. Cuece 15 minutos a fuego medio.",
+    "Agrega las patatas y el laurel, rehoga 1 minuto y cubre justo con agua. Cuece 15 minutos a fuego medio.",
     "Disuelve el majado en un poco del caldo y añádelo a la cazuela: el caldo tomará un color amarillo intenso. Prueba de sal.",
     "Incorpora los tacos de cazón salados y cuece 8-10 minutos más a fuego suave, hasta que las patatas estén tiernas y el pescado hecho.",
     "Deja reposar 5 minutos y sirve en plato hondo."
@@ -403,8 +403,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas en rodajas finas y la cebolla en juliana. Fríelas en una sartén con 4 cucharadas de aceite a fuego medio 15-18 minutos, tapadas, hasta que estén tiernas (patatas a lo pobre). Sala y pásalas a una fuente de horno.",
+    "Mientras se hacen las patatas, prepara el alioli: pon en el vaso de la batidora el huevo, los ajos, unas gotas de limón y una pizca de sal. Añade el resto del aceite (reserva 2 cucharadas para el bacalao) y bate sin mover la batidora del fondo; después súbela poco a poco hasta que emulsione.",
     "En una sartén con 2 cucharadas de aceite, cocina el bacalao a fuego muy suave 3 minutos por cada lado, empezando por la piel, sin que llegue a freírse. Colócalo sobre las patatas.",
-    "Prepara el alioli: pon en el vaso de la batidora el huevo, los ajos, unas gotas de limón y una pizca de sal. Añade el resto del aceite y bate sin mover la batidora del fondo; después súbela poco a poco hasta que emulsione.",
     "Cubre cada lomo de bacalao con una capa generosa de alioli.",
     "Gratina en la parte alta del horno con el grill 5-6 minutos, hasta que el alioli esté dorado a manchas.",
     "Sirve enseguida, directamente de la fuente."
@@ -443,9 +443,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Sala la cola de rape y átala con hilo de cocina dando vueltas cada 2 cm, para que tome forma de cola de langosta.",
     "Mezcla el pimentón con 1 cucharada de aceite y un ajo machacado, y unta el rape por todas partes con esta pasta.",
-    "Corta las patatas en gajos, alíñalas con 1 cucharada de aceite y sal, y colócalas en una fuente de horno. Hornea 15 minutos.",
+    "Corta las patatas en gajos, alíñalas con 1 cucharada de aceite y sal, y colócalas en una fuente de horno. Hornea 15 minutos. Mientras, pica la cebolla y el otro ajo y empieza a pocharlos en una cazuela con 2 cucharadas de aceite 10 minutos.",
     "Coloca el rape sobre las patatas y hornea 20-25 minutos, hasta que al pincharlo en el centro la carne esté blanca y opaca.",
-    "Mientras, pocha la cebolla y el otro ajo picados en una cazuela con 2 cucharadas de aceite 10 minutos. Añade el brandy (si lo usas), deja evaporar y agrega el tomate. Cuece 15 minutos y tritura hasta tener una salsa fina.",
+    "Mientras, añade a la cebolla el brandy (si lo usas), deja evaporar y agrega el tomate. Cuece 15 minutos y tritura hasta tener una salsa fina.",
     "Vierte el jugo que haya soltado el rape en la salsa y remueve.",
     "Quita el hilo, corta el rape en medallones gruesos y sírvelo con la salsa y las patatas."
   ],
@@ -482,11 +482,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas y la cebolla en rodajas finas, colócalas en una fuente, sala, riega con 2 cucharadas de aceite y medio vaso de agua y hornea 20 minutos.",
-    "Sala las doradas por dentro y por fuera y haz 2 cortes en cada costado.",
-    "Colócalas sobre las patatas, rocía con 1 cucharada de aceite y hornea 15-18 minutos, hasta que el ojo esté blanco y la carne se separe de la espina.",
-    "Mientras, lamina los ajos y dóralos en una sartén con 3 cucharadas de aceite y la guindilla en aros a fuego suave, unos 3 minutos.",
+    "Mientras, sala las doradas por dentro y por fuera y haz 2 cortes en cada costado. Lamina los ajos, corta la guindilla en aros y pica el perejil.",
+    "Coloca las doradas sobre las patatas, rocía con 1 cucharada de aceite y hornea 15-18 minutos, hasta que el ojo esté blanco y la carne se separe de la espina.",
+    "Mientras, dora los ajos en una sartén con 3 cucharadas de aceite y la guindilla a fuego suave, unos 3 minutos.",
     "Aparta la sartén del fuego y añade el vinagre con cuidado, que salpica.",
-    "Riega las doradas con el refrito, espolvorea perejil picado y sirve con las patatas."
+    "Riega las doradas con el refrito, espolvorea el perejil picado y sirve con las patatas."
   ],
   nutricion: { kcal: 615, prot: 38, hc: 45, grasa: 31 },
   etiquetas: ["tradicional", "al horno", "fácil", "de domingo"],
@@ -524,12 +524,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece la merluza 4 minutos en la leche a fuego suave. Sácala, desmígala quitando pieles y espinas, y reserva la leche. Pica las gambas en trocitos.",
-    "Pocha la cebolla muy picada en la mantequilla con 1 cucharada de aceite a fuego suave 6 minutos. Añade las gambas y rehoga 1 minuto.",
+    "Cuece la merluza 4 minutos en la leche a fuego suave. Mientras, pica muy fina la cebolla. Saca la merluza, desmígala quitando pieles y espinas, y reserva la leche. Pica las gambas en trocitos.",
+    "Pocha la cebolla en la mantequilla con 1 cucharada de aceite a fuego suave 6 minutos. Añade las gambas y rehoga 1 minuto.",
     "Agrega la harina y tuéstala 2 minutos removiendo. Vierte la leche templada poco a poco sin dejar de remover con varillas.",
     "Añade la merluza, sal y nuez moscada y cuece 10 minutos a fuego suave, removiendo con cuchara de madera, hasta que la masa se despegue de las paredes.",
-    "Extiende la masa en una fuente, cubre con film a piel y deja enfriar en la nevera al menos 1 hora y media.",
-    "Forma las croquetas con dos cucharas o con las manos, pásalas por huevo batido y luego por pan rallado.",
+    "Extiende la masa en una fuente, cubre con film a piel y deja enfriar en la nevera al menos 1 hora y media. Mientras, lava y trocea la lechuga, corta el tomate y bate los huevos.",
+    "Forma las croquetas con dos cucharas o con las manos, pásalas por el huevo batido y luego por pan rallado.",
     "Fríelas en aceite bien caliente, de pocas en pocas, 1-2 minutos hasta que estén doradas. Escurre sobre papel.",
     "Sírvelas con la lechuga y el tomate aliñados."
   ],
@@ -609,9 +609,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta las patatas en rodajas muy finas y extiéndelas en una fuente untada con aceite. Sala y hornea 15 minutos.",
-    "Mientras, lava las acelgas y pícalas (pencas y hojas). Pica la cebolla y los ajos.",
+    "Mientras, lava las acelgas y pícalas (pencas y hojas). Pica la cebolla y los ajos y corta los tomates en rodajas.",
     "Pocha la cebolla y los ajos en una sartén con 2 cucharadas de aceite 8 minutos. Añade las acelgas, rehoga 5 minutos hasta que reduzcan, y agrega las pasas, los piñones y el pimentón. Sala.",
-    "Coloca la merluza salada sobre las patatas, cúbrela con las acelgas y termina con rodajas de tomate.",
+    "Coloca la merluza salada sobre las patatas, cúbrela con las acelgas y termina con las rodajas de tomate.",
     "Espolvorea con el pan rallado y riega con el resto del aceite.",
     "Hornea 20-25 minutos, hasta que el tomate esté asado y la merluza se separe en lascas."
   ],
@@ -651,12 +651,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el bonito en tacos de 3-4 cm, sálalo y márcalo en una sartén muy caliente con 1 cucharada de aceite, 1 minuto por cara. Colócalo en un recipiente de cristal.",
-    "En una cazuela, pocha la cebolla en juliana, la zanahoria en rodajas finas y los ajos enteros con el resto del aceite a fuego suave 10 minutos.",
+    "Corta la cebolla en juliana y la zanahoria, pelada, en rodajas finas; pela los ajos. Corta el bonito en tacos de 3-4 cm, sálalo y márcalo en una sartén muy caliente con 1 cucharada de aceite, 1 minuto por cara. Colócalo en un recipiente de cristal.",
+    "En una cazuela, pocha la cebolla, la zanahoria y los ajos enteros con el resto del aceite a fuego suave 10 minutos.",
     "Añade el laurel, la pimienta en grano y el pimentón (fuera del fuego) y remueve.",
     "Vierte el vinagre, el vino y 100 ml de agua, sala y cuece 10 minutos a fuego suave.",
     "Vierte el escabeche caliente sobre el bonito hasta cubrirlo. Deja templar a temperatura ambiente.",
-    "Cuando esté templado, guárdalo en la nevera al menos 20 minutos (mejor de un día para otro).",
+    "Cuando esté templado, guárdalo en la nevera al menos 20 minutos (mejor de un día para otro). Mientras, lava y trocea la lechuga y corta la cebolleta en aros.",
     "Sírvelo con la lechuga y la cebolleta aliñadas con un poco del propio escabeche."
   ],
   nutricion: { kcal: 470, prot: 36, hc: 22, grasa: 26 },
@@ -690,7 +690,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en bastones y fríelas en abundante aceite: 8 minutos a fuego medio y 2-3 minutos a fuego fuerte hasta que estén doradas. Sálalas y resérvalas en el horno tibio.",
+    "Enciende el horno a 80 °C. Pela las patatas, córtalas en bastones y fríelas en abundante aceite: 8 minutos a fuego medio y 2-3 minutos a fuego fuerte hasta que estén doradas. Sálalas y resérvalas en el horno tibio.",
     "Sala las pescadillas por dentro y por fuera.",
     "Introduce la cola de cada una en su boca (o sujétala con un palillo), formando un aro.",
     "Pásalas por harina sacudiendo bien el exceso.",
@@ -810,13 +810,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala las rodajas de pescado y déjalas 15 minutos mientras preparas el caldo.",
-    "Dora los ajos enteros pelados en una cazuela con el aceite a fuego suave. Retíralos.",
-    "En el mismo aceite pocha la cebolla en juliana 10 minutos, sin que tome color.",
-    "Vierte el agua caliente, añade los ajos y una pizca de sal y cuece 10 minutos.",
+    "Sala las rodajas de pescado y déjalas 15 minutos mientras preparas el caldo. Pela los ajos, corta la cebolla en juliana y pon el agua a calentar en un cazo.",
+    "Dora los ajos enteros en una cazuela con el aceite a fuego suave. Retíralos.",
+    "En el mismo aceite pocha la cebolla 10 minutos, sin que tome color.",
+    "Vierte el agua caliente, añade los ajos y una pizca de sal y cuece 10 minutos. Mientras, pica el perejil y exprime la naranja (y el limón).",
     "Introduce las rodajas de pescado y cuece a fuego suave 6 minutos.",
     "Apaga el fuego y añade el zumo de la naranja (y el del limón si la naranja es dulce). Prueba de sal.",
-    "Sirve en plato hondo sobre rebanadas de pan, con perejil picado por encima."
+    "Sirve en plato hondo sobre rebanadas de pan, con el perejil picado por encima."
   ],
   nutricion: { kcal: 420, prot: 34, hc: 36, grasa: 15 },
   etiquetas: ["tradicional", "de cuchara", "ligera", "económica", "fácil", "invierno", "sin verduras", "poco especiada", "bajo en colesterol"],
@@ -892,7 +892,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava los bocartes abiertos, sécalos muy bien con papel de cocina y sálalos.",
-    "Corta los pimientos en tiras y saltéalos 3 minutos con el ajo laminado y 1 cucharada de aceite. Reserva.",
+    "Corta los pimientos en tiras y lamina el ajo. Saltéalos 3 minutos con 1 cucharada de aceite. Reserva.",
     "Bate los huevos en un plato hondo y pon la harina en otro.",
     "Calienta el aceite en una sartén a fuego medio-alto.",
     "Pasa cada bocarte por harina, sacude, después por huevo, y fríelo 1 minuto por cada lado, hasta que esté dorado.",
@@ -933,8 +933,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta las patatas en rodajas finas, sálalas, colócalas en una fuente con 1 cucharada de aceite y hornea 15 minutos.",
-    "Mientras, corta la cebolla y los pimientos en tiras y los ajos en láminas. Póchalos en una sartén con 3 cucharadas de aceite y el laurel a fuego medio 12 minutos.",
-    "Añade los tomates pelados y troceados y cocina 8 minutos más, hasta que esté todo blando. Vierte el vino y deja hervir 2 minutos. Sala.",
+    "Mientras, corta la cebolla y los pimientos en tiras y los ajos en láminas. Póchalos en una sartén con 3 cucharadas de aceite y el laurel a fuego medio 12 minutos. Mientras se pochan, pela y trocea los tomates.",
+    "Añade los tomates y cocina 8 minutos más, hasta que esté todo blando. Vierte el vino y deja hervir 2 minutos. Sala.",
     "Extiende la verdura sobre las patatas y coloca encima los lomos de corvina salados, con la piel hacia arriba.",
     "Hornea 15-18 minutos, hasta que la corvina esté opaca y se separe en lascas.",
     "Sirve en la misma fuente con el jugo de la verdura por encima."
@@ -973,8 +973,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras con piel y la zanahoria pelada en agua con sal 25 minutos, hasta que estén tiernas. Añade 2 huevos los últimos 10 minutos y los guisantes los últimos 3.",
+    "Mientras cuecen, haz la mayonesa con la batidora: el huevo crudo, unas gotas de limón, sal y el aceite, batiendo desde el fondo sin mover hasta que emulsione.",
     "Escurre y enfría todo en agua fría. Pela las patatas y los huevos.",
-    "Haz la mayonesa con la batidora: el huevo crudo, unas gotas de limón, sal y el aceite, batiendo desde el fondo sin mover hasta que emulsione.",
     "Corta las patatas y la zanahoria en dados pequeños y pica uno de los huevos duros.",
     "Mezcla en un bol las patatas, la zanahoria, los guisantes, el huevo picado y el bonito desmigado con dos tercios de la mayonesa. Prueba de sal.",
     "Alisa la ensaladilla en una fuente, cúbrela con el resto de la mayonesa y decora con el otro huevo en rodajas, las aceitunas y tiras de piquillo.",
@@ -1014,9 +1014,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en rodajas y cuécelas en agua con sal 15 minutos, hasta que estén tiernas. Escurre y deja templar.",
-    "Limpia los mejillones y ábrelos en una cazuela tapada con el laurel y un chorrito de agua a fuego fuerte 3-4 minutos. Desecha la concha vacía de cada uno y deja que se enfríen.",
-    "Pica en dados muy pequeños los pimientos, la cebolla y el tomate sin semillas, y el perejil.",
+    "Pela las patatas, córtalas en rodajas y cuécelas en agua con sal 15 minutos, hasta que estén tiernas. Mientras, limpia los mejillones y pica en dados muy pequeños los pimientos, la cebolla y el tomate sin semillas, y el perejil. Escurre las patatas y deja que templen.",
+    "Abre los mejillones en una cazuela tapada con el laurel y un chorrito de agua a fuego fuerte 3-4 minutos. Desecha la concha vacía de cada uno y deja que se enfríen.",
     "Mezcla el picadillo con el aceite, el vinagre, 2 cucharadas del caldo de los mejillones colado y una pizca de sal.",
     "Coloca los mejillones en su media concha en una fuente y reparte el picadillo por encima con una cucharilla.",
     "Aliña las patatas con un poco de la vinagreta sobrante y sírvelas junto a los mejillones, bien fríos."

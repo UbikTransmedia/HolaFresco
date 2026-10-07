@@ -25,10 +25,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal (algo menos de lo habitual, porque el guanciale y el queso ya son salados).",
-    "En un bol, bate el huevo entero y las 2 yemas con el pecorino y la mitad de la pimienta hasta tener una crema espesa.",
-    "En una sartén grande sin aceite, dora el guanciale a fuego medio-bajo 8 minutos, hasta que la grasa sea transparente y los bordes estén crujientes. Apaga el fuego.",
-    "Cuece los espaguetis 1 minuto menos de lo que indique el paquete. Guarda una taza del agua de cocción antes de escurrir.",
+    "Pon a hervir abundante agua con sal (algo menos de lo habitual, porque el guanciale y el queso ya son salados). Mientras se calienta, bate en un bol el huevo entero y las 2 yemas con el pecorino y la mitad de la pimienta hasta tener una crema espesa.",
+    "Cuando hierva, cuece los espaguetis 1 minuto menos de lo que indique el paquete.",
+    "Mientras se cuece la pasta, dora el guanciale en una sartén grande sin aceite a fuego medio-bajo 8 minutos, hasta que la grasa sea transparente y los bordes estén crujientes. Apaga el fuego.",
+    "Guarda una taza del agua de cocción y escurre la pasta.",
     "Echa la pasta en la sartén con el guanciale y su grasa, sin fuego, y mezcla 30 segundos para que se impregne. Espera 1 minuto a que baje un poco la temperatura.",
     "Vierte la crema de huevo y 3-4 cucharadas del agua de cocción y remueve con energía, levantando la pasta con unas pinzas, hasta que se forme una salsa cremosa y brillante. Si queda espesa, añade más agua; si queda líquida, sigue removiendo.",
     "Sirve enseguida con el resto de la pimienta y un poco más de pecorino por encima."
@@ -64,10 +64,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una sartén amplia con la cucharadita de aceite, dora el guanciale a fuego medio-bajo 7 minutos, hasta que suelte la grasa y esté dorado. Sácalo y reserva la mitad para el final.",
+    "Pon a hervir abundante agua con sal para la pasta. Mientras, en una sartén amplia con la cucharadita de aceite, dora el guanciale a fuego medio-bajo 7 minutos, hasta que suelte la grasa y esté dorado. Sácalo y reserva la mitad para el final.",
     "Añade la guindilla desmenuzada, vierte el vino y deja que se evapore 1 minuto, raspando el fondo.",
     "Incorpora el tomate triturado y una pizca de sal y cocina a fuego suave 15 minutos, hasta que la salsa espese. Devuelve la mitad del guanciale.",
-    "Mientras, cuece los espaguetis en agua con sal 1 minuto menos de lo indicado. Guarda un poco del agua de cocción.",
+    "Mientras, cuece los espaguetis en el agua hirviendo 1 minuto menos de lo indicado. Guarda un poco del agua de cocción.",
     "Pasa la pasta a la salsa con 2-3 cucharadas de agua de cocción y saltea 1 minuto a fuego vivo, hasta que la salsa se agarre.",
     "Apaga, añade la mitad del pecorino, mezcla y sirve con el guanciale crujiente reservado y el resto del queso por encima."
   ],
@@ -101,10 +101,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para la pasta.",
-    "En una sartén amplia, calienta el aceite a fuego suave con los ajos laminados y las guindillas desmenuzadas 2 minutos, hasta que el ajo empiece a dorarse (si se tuesta, amargará).",
+    "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, lamina los ajos, desmenuza las guindillas y pica el perejil.",
+    "En una sartén amplia, calienta el aceite a fuego suave con los ajos y las guindillas 2 minutos, hasta que el ajo empiece a dorarse (si se tuesta, amargará).",
     "Añade el tomate triturado y una pizca de sal y cocina a fuego medio 12 minutos, hasta que la salsa espese y el aceite se separe por los bordes.",
-    "Cuece los penne 1 minuto menos de lo que indica el paquete y escúrrelos guardando un poco del agua.",
+    "Mientras, cuece los penne 1 minuto menos de lo que indica el paquete y escúrrelos guardando un poco del agua.",
     "Pásalos a la salsa con un chorrito del agua de cocción y saltea 1 minuto a fuego vivo, hasta que la salsa se pegue a la pasta.",
     "Apaga, añade el perejil picado y sirve enseguida."
   ],
@@ -145,11 +145,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Remoja el pan en la leche 5 minutos y escúrrelo un poco. En un bol, mézclalo con las dos carnes, el huevo, la mitad del parmesano, 1 ajo muy picado, sal y pimienta. Amasa con las manos 1 minuto y forma albóndigas del tamaño de una nuez grande (salen unas 12).",
+    "Remoja el pan en la leche 5 minutos y, mientras, pica la cebolla y los 3 ajos (uno de ellos muy fino, para las albóndigas). Escurre un poco el pan y, en un bol, mézclalo con las dos carnes, el huevo, la mitad del parmesano, el ajo muy picado, sal y pimienta. Amasa con las manos 1 minuto y forma albóndigas del tamaño de una nuez grande (salen unas 12).",
     "Dóralas en una sartén con 2 cucharadas de aceite a fuego medio 6 minutos, girándolas, hasta que tengan costra por todos lados. No hace falta que se hagan por dentro.",
-    "En una cazuela con el resto del aceite, pocha la cebolla picada y los otros 2 ajos 6 minutos. Añade el tomate triturado, sal y unas hojas de albahaca y cuece 10 minutos.",
-    "Mete las albóndigas en la salsa, tapa y cuece a fuego suave 25 minutos, moviendo la cazuela de vez en cuando, hasta que estén tiernas y la salsa espesa.",
-    "Cuece los espaguetis en agua con sal según el paquete, escúrrelos y mézclalos con unos cucharones de la salsa.",
+    "En una cazuela con el resto del aceite, pocha la cebolla y los otros 2 ajos 6 minutos. Añade el tomate triturado, sal y unas hojas de albahaca y cuece 10 minutos.",
+    "Mete las albóndigas en la salsa, tapa y cuece a fuego suave 25 minutos, moviendo la cazuela de vez en cuando, hasta que estén tiernas y la salsa espesa. Mientras, pon a hervir abundante agua con sal para la pasta.",
+    "Cuece los espaguetis según el paquete, escúrrelos y mézclalos con unos cucharones de la salsa.",
     "Sirve la pasta con las albóndigas encima, más salsa, el resto del parmesano y albahaca fresca."
   ],
   nutricion: { kcal: 794, prot: 40, hc: 82, grasa: 34 },
@@ -192,11 +192,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las carnes en dados de 3 cm y salpimiéntalas. En una cazuela con el aceite, dóralas a fuego medio 10 minutos. Añade la cebolla en juliana, los ajos y el tomate troceado, tapa y cocina a fuego suave 1 hora y 15 minutos, removiendo de vez en cuando y añadiendo un chorrito de agua si se pega, hasta que la carne esté muy tierna y la cebolla caramelizada.",
+    "Corta las carnes en dados de 3 cm y salpimiéntalas. Corta la cebolla en juliana, pela los ajos y trocea el tomate.",
+    "En una cazuela con el aceite, dora las carnes a fuego medio 10 minutos. Añade la cebolla, los ajos y el tomate, tapa y cocina a fuego suave 1 hora y 15 minutos, removiendo de vez en cuando y añadiendo un chorrito de agua si se pega, hasta que la carne esté muy tierna y la cebolla caramelizada.",
+    "Durante los últimos 20 minutos del guiso, cuece las placas de canelón en agua hirviendo con sal según el paquete y extiéndelas sobre un paño limpio.",
     "Vierte el brandy, deja evaporar 2 minutos y apaga. Tritura todo (con la batidora o picadora) junto con el pan escurrido hasta obtener una farsa fina pero con algo de textura. Rectifica de sal.",
-    "Cuece las placas de canelón en agua hirviendo con sal según el paquete y extiéndelas sobre un paño limpio.",
-    "Para la bechamel, derrite la mantequilla, añade la harina y tuéstala 2 minutos removiendo. Vierte la leche caliente poco a poco sin dejar de batir y cuece 10 minutos a fuego suave, hasta que napé la cuchara. Sala y añade la nuez moscada.",
-    "Precalienta el horno a 200 °C. Pon una cucharada de farsa en cada placa, enróllala y colócalas en una fuente untada con una capa fina de bechamel.",
+    "Precalienta el horno a 200 °C. Para la bechamel, derrite la mantequilla, añade la harina y tuéstala 2 minutos removiendo. Vierte la leche caliente poco a poco sin dejar de batir y cuece 10 minutos a fuego suave, hasta que napé la cuchara. Sala y añade la nuez moscada.",
+    "Pon una cucharada de farsa en cada placa, enróllala y colócalas en una fuente untada con una capa fina de bechamel.",
     "Cubre con el resto de la bechamel, espolvorea el queso rallado y hornea 15 minutos; termina 3-4 minutos con el grill, hasta que la superficie esté gratinada y dorada.",
     "Deja reposar 5 minutos antes de servir."
   ],
@@ -235,11 +236,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos, pélalos y pícalos. Cuece las placas de canelón en agua hirviendo con sal según el paquete y extiéndelas sobre un paño.",
-    "En una sartén con el aceite, pocha la cebolla picada fina a fuego medio-bajo 10 minutos, hasta que esté dorada y dulce.",
-    "Añade el atún desmigado, el huevo picado y 100 g del tomate frito. Mezcla 2 minutos a fuego suave y prueba de sal: el relleno debe quedar jugoso.",
+    "Pon a hervir agua en un cazo para los huevos y abundante agua con sal en una cazuela para las placas. Mientras se calientan, pica la cebolla fina.",
+    "Cuece los huevos 10 minutos. Mientras, en una sartén con el aceite, pocha la cebolla a fuego medio-bajo 10 minutos, hasta que esté dorada y dulce.",
+    "Enfría los huevos, pélalos y pícalos. Cuece las placas de canelón según el paquete y extiéndelas sobre un paño. Precalienta el horno a 200 °C.",
+    "Añade a la cebolla el atún desmigado, el huevo picado y 100 g del tomate frito. Mezcla 2 minutos a fuego suave y prueba de sal: el relleno debe quedar jugoso.",
     "Para la bechamel, derrite la mantequilla en un cazo, añade la harina y tuéstala 2 minutos. Vierte la leche caliente poco a poco sin dejar de remover con varillas y cuece 8 minutos, hasta que espese. Sala y añade la nuez moscada.",
-    "Precalienta el horno a 200 °C. Rellena cada placa con una cucharada de relleno, enróllala y colócala en una fuente con el resto del tomate frito en el fondo.",
+    "Rellena cada placa con una cucharada de relleno, enróllala y colócala en una fuente con el resto del tomate frito en el fondo.",
     "Cubre con la bechamel, espolvorea el queso y hornea 15 minutos, más 3 minutos de grill, hasta que esté dorado. Reposa 5 minutos antes de servir."
   ],
   nutricion: { kcal: 588, prot: 32, hc: 52, grasa: 28 },
@@ -274,9 +276,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C con grill.",
-    "En una cazuela con el aceite, dora el ajo chafado 1 minuto, añade el tomate triturado, sal y unas hojas de albahaca y cuece a fuego suave 15 minutos, hasta que la salsa espese.",
-    "Cuece los ñoquis en agua hirviendo con sal y sácalos con una espumadera en cuanto suban a la superficie (1-2 minutos).",
-    "Pásalos directamente a la salsa, retira el ajo y mezcla con cuidado. Añade la mitad de la mozzarella en dados.",
+    "En una cazuela con el aceite, dora el ajo chafado 1 minuto, añade el tomate triturado, sal y unas hojas de albahaca y cuece a fuego suave 15 minutos, hasta que la salsa espese. Mientras, pon a hervir abundante agua con sal y corta la mozzarella en dados.",
+    "Cuece los ñoquis en el agua hirviendo y sácalos con una espumadera en cuanto suban a la superficie (1-2 minutos).",
+    "Pásalos directamente a la salsa, retira el ajo y mezcla con cuidado. Añade la mitad de la mozzarella.",
     "Vuelca en una fuente de horno (o en dos cazuelitas individuales), cubre con el resto de la mozzarella y el parmesano.",
     "Gratina 8-10 minutos, hasta que el queso burbujee y se dore. Sirve con albahaca fresca por encima."
   ],
@@ -353,10 +355,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela con el aceite, dora la costilla salada a fuego medio 10 minutos.",
-    "Añade la cebolla, el pimiento y los ajos picados y pocha 8 minutos. Incorpora el tomate rallado y sofríe 6 minutos, hasta que esté concentrado.",
-    "Fuera del fuego, añade el pimentón y remueve. Vierte el agua caliente con el laurel y el azafrán, sala y cuece tapado a fuego suave 35 minutos, hasta que la costilla esté tierna.",
-    "Añade las patatas peladas y chascadas (rompiendo el último corte con el cuchillo para que suelten almidón) y cuece 12 minutos.",
+    "En la cazuela con el aceite, dora la costilla salada a fuego medio 10 minutos, dándole la vuelta de vez en cuando. Mientras, pica la cebolla, el pimiento y los ajos y pon el agua a calentar en un cazo.",
+    "Añade la cebolla, el pimiento y los ajos y pocha 8 minutos. Incorpora el tomate rallado y sofríe 6 minutos, hasta que esté concentrado.",
+    "Fuera del fuego, añade el pimentón y remueve. Vierte el agua caliente con el laurel y el azafrán, sala y cuece tapado a fuego suave 35 minutos, hasta que la costilla esté tierna. Mientras, pela las patatas.",
+    "Añade las patatas chascadas (rompiendo el último corte con el cuchillo para que suelten almidón) y cuece 12 minutos.",
     "Incorpora los fideos y cuece 8-10 minutos más, hasta que estén tiernos. Debe quedar caldoso y espeso; si se seca, añade un poco de agua caliente.",
     "Apaga, deja reposar 3 minutos y sirve en plato hondo."
   ],
@@ -396,8 +398,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela con el aceite, fríe a fuego medio la rebanada de pan, las almendras y 1 ajo hasta que estén dorados (2-3 minutos). Sácalos y májalos en el mortero con un poco de agua.",
-    "En el mismo aceite, pocha la cebolla, el pimiento y el otro ajo picados 8 minutos. Añade el tomate y sofríe 5 minutos.",
+    "Pica la cebolla, el pimiento y uno de los ajos, y pela las patatas. En la cazuela con el aceite, fríe a fuego medio la rebanada de pan, las almendras y el otro ajo hasta que estén dorados (2-3 minutos). Sácalos y májalos en el mortero con un poco de agua.",
+    "En el mismo aceite, pocha la cebolla, el pimiento y el ajo picados 8 minutos. Añade el tomate y sofríe 5 minutos.",
     "Fuera del fuego, añade el pimentón y remueve. Vierte el agua, añade las patatas chascadas en trozos y cuece 15 minutos.",
     "Incorpora los fideos y la picada, prueba de sal (con prudencia, por el bacalao) y cuece 6 minutos.",
     "Añade los tacos de bacalao y cuece 3-4 minutos más a fuego suave, hasta que los fideos estén tiernos y el bacalao se separe en lascas.",
@@ -436,8 +438,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para la pasta.",
-    "En una sartén amplia con el aceite, pocha la cebolla picada y el ajo a fuego medio-bajo 8 minutos, hasta que estén transparentes.",
+    "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, pica la cebolla y el ajo.",
+    "En una sartén amplia con el aceite, pocha la cebolla y el ajo a fuego medio-bajo 8 minutos, hasta que estén transparentes.",
     "Añade el tomate triturado, el orégano, la pizca de azúcar y sal. Cocina a fuego suave 15 minutos, removiendo de vez en cuando, hasta que espese.",
     "Mientras, cuece los macarrones según el paquete y escúrrelos.",
     "Apaga el fuego de la salsa, añade el atún desmigado y mezcla con los macarrones.",
@@ -474,9 +476,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C con grill. Pon a hervir agua con sal y cuece los macarrones 1 minuto menos de lo indicado. Escúrrelos.",
-    "Corta las salchichas en rodajas y dóralas en una sartén con el aceite a fuego medio 5 minutos. Sácalas.",
-    "En la misma grasa, pocha la cebolla picada 8 minutos, hasta que esté dorada.",
+    "Precalienta el horno a 210 °C con grill y pon a hervir agua con sal. Mientras se calienta, pica la cebolla y corta las salchichas en rodajas.",
+    "Cuece los macarrones 1 minuto menos de lo indicado y escúrrelos. Mientras se cuecen, dora las salchichas en una sartén con el aceite a fuego medio 5 minutos. Sácalas.",
+    "En la misma grasa, pocha la cebolla 8 minutos, hasta que esté dorada.",
     "Devuelve las salchichas, añade el tomate frito y el orégano y calienta 3 minutos.",
     "Mezcla la salsa con los macarrones, vuelca en una fuente de horno y cubre con el queso rallado.",
     "Gratina 8-10 minutos, hasta que el queso esté dorado y crujiente por los bordes."
@@ -516,12 +518,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon los mejillones limpios en una cazuela con el vino blanco, tapa y cuece a fuego fuerte 3 minutos, hasta que se abran. Cuela y guarda el caldo; quita media concha a los mejillones.",
-    "Pela las gambas dejando la cola y reserva las cabezas. En una sartén amplia con el aceite, dora las cabezas 2 minutos aplastándolas para que suelten su jugo, y retíralas.",
-    "En ese aceite, sofríe los ajos laminados y la guindilla 1 minuto. Añade las gambas, marca 30 segundos, vierte el brandy y deja evaporar. Saca las gambas.",
-    "Añade el tomate triturado y el caldo de los mejillones y cocina 10 minutos a fuego medio, hasta que espese un poco.",
+    "Pon a hervir abundante agua con sal para la pasta. Mientras, pon los mejillones limpios en una cazuela con el vino blanco, tapa y cuece a fuego fuerte 3 minutos, hasta que se abran. Cuela y guarda el caldo; quita media concha a los mejillones.",
+    "Pela las gambas dejando la cola y reserva las cabezas. Lamina los ajos y pica el perejil. En una sartén amplia con el aceite, dora las cabezas 2 minutos aplastándolas para que suelten su jugo, y retíralas.",
+    "En ese aceite, sofríe los ajos y la guindilla 1 minuto. Añade las gambas, marca 30 segundos, vierte el brandy y deja evaporar. Saca las gambas.",
+    "Añade el tomate triturado y el caldo de los mejillones y cocina 10 minutos a fuego medio, hasta que espese un poco. Mientras, cuece la pasta en el agua hirviendo 1 minuto menos de lo indicado.",
     "Incorpora las almejas, tapa y cuece 2-3 minutos, hasta que se abran. Devuelve las gambas y los mejillones.",
-    "Cuece la pasta en agua con sal 1 minuto menos de lo indicado, pásala a la sartén con un chorrito de su agua y saltea 1 minuto. Sirve con perejil picado."
+    "Escurre la pasta guardando un chorrito de su agua, pásala a la sartén con ese chorrito y saltea 1 minuto. Sirve con el perejil picado."
   ],
   nutricion: { kcal: 584, prot: 36, hc: 74, grasa: 16 },
   etiquetas: ["tradicional", "para invitados", "de domingo", "fácil", "sin verduras"],
@@ -555,11 +557,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para la pasta.",
-    "En una sartén amplia con el aceite, dora el bacon a fuego medio 4 minutos. Añade la cebolla picada fina y pocha 5 minutos.",
-    "Incorpora los champiñones laminados, sube el fuego y saltea 5 minutos, hasta que suelten el agua y se doren.",
+    "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, pica fina la cebolla y lamina los champiñones.",
+    "En una sartén amplia con el aceite, dora el bacon a fuego medio 4 minutos. Añade la cebolla y pocha 5 minutos.",
+    "Incorpora los champiñones, sube el fuego y saltea 5 minutos, hasta que suelten el agua y se doren. Mientras, cuece los tallarines según el paquete.",
     "Vierte la nata, salpimienta y deja reducir a fuego suave 3 minutos, hasta que espese ligeramente.",
-    "Cuece los tallarines según el paquete, escúrrelos guardando un poco del agua y pásalos a la sartén. Mezcla 1 minuto, añadiendo agua de cocción si la salsa queda muy espesa.",
+    "Escurre los tallarines guardando un poco del agua y pásalos a la sartén. Mezcla 1 minuto, añadiendo agua de cocción si la salsa queda muy espesa.",
     "Sirve con el queso rallado y pimienta negra recién molida."
   ],
   nutricion: { kcal: 752, prot: 24, hc: 74, grasa: 40 },
@@ -632,8 +634,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica muy finos la cebolla, el apio y la zanahoria. Póchalos en la cazuela con el aceite a fuego medio-bajo 8 minutos.",
-    "Añade las patatas peladas en dados de 1,5 cm y los tomates cherry partidos y rehoga 3 minutos.",
+    "Pica muy finos la cebolla, el apio y la zanahoria. Póchalos en la cazuela con el aceite a fuego medio-bajo 8 minutos. Mientras, pela las patatas y córtalas en dados de 1,5 cm, parte los tomates cherry y calienta el caldo en un cazo.",
+    "Añade las patatas y los tomates cherry y rehoga 3 minutos.",
     "Cubre con el caldo caliente, sala y cuece 15 minutos, hasta que las patatas estén tiernas y algunas empiecen a deshacerse. Aplasta unas cuantas con la cuchara para espesar.",
     "Añade la pasta cruda y cuécela en la misma cazuela, removiendo a menudo para que no se pegue, el tiempo del paquete. Si se queda seca, añade caldo o agua caliente a cucharones: debe quedar cremosa y densa.",
     "Apaga, incorpora el parmesano y los dados de provolone y remueve 1 minuto, hasta que el queso se funda en hilos. Tapa y reposa 2 minutos.",
@@ -670,11 +672,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para la pasta.",
-    "En una sartén amplia con el aceite, pocha la cebolleta picada fina y el ajo 5 minutos a fuego medio-bajo, hasta que estén tiernos.",
-    "Añade los guisantes, un chorrito de agua y rehoga tapado 6 minutos, hasta que estén tiernos pero verdes.",
+    "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, pica fina la cebolleta y el ajo.",
+    "En una sartén amplia con el aceite, pocha la cebolleta y el ajo 5 minutos a fuego medio-bajo, hasta que estén tiernos.",
+    "Añade los guisantes, un chorrito de agua y rehoga tapado 6 minutos, hasta que estén tiernos pero verdes. Mientras, cuece los espaguetis según el paquete.",
     "Incorpora el jamón y saltea 1 minuto, solo para que suelte su grasa y su aroma (si se cocina más, se endurece).",
-    "Cuece los espaguetis según el paquete, escúrrelos guardando un poco de agua y pásalos a la sartén con 3 cucharadas de esa agua. Saltea 1 minuto para que todo se una.",
+    "Escurre los espaguetis guardando un poco de agua y pásalos a la sartén con 3 cucharadas de esa agua. Saltea 1 minuto para que todo se una.",
     "Sirve con pimienta negra recién molida."
   ],
   nutricion: { kcal: 443, prot: 20, hc: 66, grasa: 11 },
@@ -710,12 +712,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una sartén amplia con el aceite, pocha la cebolla picada fina y el ajo a fuego medio-bajo 12 minutos, hasta que estén muy blandos y dorados.",
+    "Pica fina la cebolla y el ajo. En una sartén amplia con el aceite, póchalos a fuego medio-bajo 12 minutos, hasta que estén muy blandos y dorados.",
     "Sube el fuego, añade el calamar salado y saltea 3 minutos.",
-    "Vierte el vino y deja evaporar 2 minutos. Añade el tomate triturado y cocina tapado a fuego suave 20 minutos, hasta que el calamar esté tierno (añade un chorrito de agua si se seca).",
+    "Vierte el vino y deja evaporar 2 minutos. Añade el tomate triturado y cocina tapado a fuego suave 20 minutos, hasta que el calamar esté tierno (añade un chorrito de agua si se seca). Mientras, pon a hervir abundante agua con sal y pica el perejil.",
     "Disuelve la tinta en 3 cucharadas de agua caliente y añádela a la salsa. Cocina 2 minutos: quedará negra y brillante.",
     "Cuece los espaguetis 1 minuto menos de lo indicado, pásalos a la salsa con un chorrito de su agua y saltea 1 minuto, hasta que estén bien teñidos.",
-    "Sirve con perejil picado. Si te gusta, acompaña con una cucharadita de alioli."
+    "Sirve con el perejil picado. Si te gusta, acompaña con una cucharadita de alioli."
   ],
   nutricion: { kcal: 552, prot: 30, hc: 72, grasa: 16 },
   etiquetas: ["tradicional", "fácil", "para invitados", "alta en proteína", "sin verduras", "poco especiada"],
@@ -750,12 +752,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol, mezcla la harina, los huevos, la leche, la nuez moscada y una pizca de sal. Bate con una cuchara de madera 3-4 minutos, hasta que la masa esté elástica y haga burbujas. Deja reposar 10 minutos.",
-    "Corta las cebollas en aros finos y fríelas en una sartén con la mitad de la mantequilla a fuego medio 15 minutos, removiendo, hasta que estén muy doradas y crujientes por los bordes.",
-    "Pon a hervir abundante agua con sal. Precalienta el horno a 200 °C.",
+    "En un bol, mezcla la harina, los huevos, la leche, la nuez moscada y una pizca de sal. Bate con una cuchara de madera 3-4 minutos, hasta que la masa esté elástica y haga burbujas. Deja reposar 10 minutos y, mientras, corta las cebollas en aros finos.",
+    "Fríe las cebollas en una sartén con la mitad de la mantequilla a fuego medio 15 minutos, removiendo, hasta que estén muy doradas y crujientes por los bordes. Mientras, pon a hervir abundante agua con sal, precalienta el horno a 200 °C y pica el cebollino.",
     "Pon la masa sobre una tabla mojada y, con un cuchillo, raspa tiras finas directamente al agua hirviendo (o pásala por un colador de agujeros grandes). Cuando suban a la superficie, en 1-2 minutos, sácalas con una espumadera.",
     "En una fuente untada con el resto de la mantequilla, alterna capas de spätzle y queso, salpimentando cada capa.",
-    "Hornea 8-10 minutos, hasta que el queso se funda. Cubre con la cebolla frita y el cebollino picado y sirve."
+    "Hornea 8-10 minutos, hasta que el queso se funda. Cubre con la cebolla frita y el cebollino y sirve."
   ],
   nutricion: { kcal: 826, prot: 34, hc: 78, grasa: 42 },
   etiquetas: ["tradicional", "al horno", "invierno", "saciante", "vegetariano", "para niños", "sin verduras", "poco especiada"],
@@ -789,10 +790,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Remoja el pan en la leche 5 minutos.",
-    "Escalda las nueces 1 minuto en agua hirviendo y frota con un paño para quitar parte de la piel (así la salsa no amarga).",
-    "Tritura las nueces con el pan y su leche, el ajo, el parmesano, el aceite, la mejorana y una pizca de sal hasta tener una crema espesa y fina.",
-    "Cuece la pasta en agua con sal según el paquete. Guarda un vaso de agua de cocción antes de escurrir.",
+    "Pon a hervir abundante agua con sal para la pasta y remoja el pan en la leche 5 minutos.",
+    "Escalda las nueces 1 minuto en el agua hirviendo, sácalas con una espumadera y frótalas con un paño para quitar parte de la piel (así la salsa no amarga).",
+    "Cuece la pasta en esa agua según el paquete. Mientras, tritura las nueces con el pan y su leche, el ajo, el parmesano, el aceite, la mejorana y una pizca de sal hasta tener una crema espesa y fina.",
+    "Guarda un vaso de agua de cocción antes de escurrir la pasta.",
     "Mezcla la pasta con la salsa fuera del fuego, añadiendo agua de cocción a cucharadas hasta que quede cremosa y envuelva bien.",
     "Sirve con un poco más de parmesano y unas nueces troceadas por encima."
   ],
@@ -829,10 +830,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una sartén amplia con la cucharadita de aceite, dora el chorizo a fuego medio 3 minutos, hasta que suelte su grasa roja. Sácalo y deja la grasa.",
-    "En esa grasa, pocha la cebolla, los pimientos y el ajo picados a fuego medio-bajo 10 minutos, hasta que estén blandos.",
+    "Pon a hervir abundante agua con sal para la pasta. Pica la cebolla, los pimientos y el ajo. En una sartén amplia con la cucharadita de aceite, dora el chorizo a fuego medio 3 minutos, hasta que suelte su grasa roja. Sácalo y deja la grasa.",
+    "En esa grasa, pocha la cebolla, los pimientos y el ajo a fuego medio-bajo 10 minutos, hasta que estén blandos.",
     "Añade el tomate triturado y la carne de pimiento choricero, sala y cocina a fuego suave 12 minutos, hasta que espese. Devuelve el chorizo.",
-    "Cuece los espaguetis según el paquete y escúrrelos guardando un poco del agua.",
+    "Mientras se hace la salsa, cuece los espaguetis según el paquete y escúrrelos guardando un poco del agua.",
     "Mezcla la pasta con la salsa y un chorrito del agua de cocción y saltea 1 minuto a fuego vivo. Sirve enseguida."
   ],
   nutricion: { kcal: 608, prot: 24, hc: 74, grasa: 24 },
@@ -873,10 +874,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la ternera con el pan rallado, 1 huevo, la mitad del parmesano, sal y pimienta. Forma albondiguitas del tamaño de una avellana y dóralas en una sartén con 2 cucharadas de aceite 4 minutos. Resérvalas.",
-    "En una cazuela con el resto del aceite, pocha la cebolla y el ajo picados 6 minutos. Vierte el vino, deja evaporar y añade el tomate y unas hojas de albahaca. Cuece 30 minutos a fuego suave. Añade las albondiguitas los últimos 10 minutos.",
-    "Cuece los otros 2 huevos 10 minutos, pélalos y córtalos en rodajas. Corta la mozzarella en dados y mezcla la ricotta con 2 cucharadas de salsa.",
-    "Cuece los rigatoni la mitad del tiempo del paquete, escúrrelos y mézclalos con dos tercios de la salsa. Precalienta el horno a 190 °C.",
+    "Pica la cebolla y el ajo. Mezcla la ternera con el pan rallado, 1 huevo, la mitad del parmesano, sal y pimienta. Forma albondiguitas del tamaño de una avellana y dóralas en una sartén con 2 cucharadas de aceite 4 minutos. Resérvalas.",
+    "En una cazuela con el resto del aceite, pocha la cebolla y el ajo 6 minutos. Vierte el vino, deja evaporar y añade el tomate y unas hojas de albahaca. Cuece 30 minutos a fuego suave. Añade las albondiguitas los últimos 10 minutos.",
+    "Mientras cuece la salsa, cuece los otros 2 huevos 10 minutos, pélalos y córtalos en rodajas. Corta la mozzarella en dados, pon a hervir agua con sal para la pasta y precalienta el horno a 190 °C.",
+    "Cuece los rigatoni la mitad del tiempo del paquete, escúrrelos y mézclalos con dos tercios de la salsa. Mezcla la ricotta con 2 cucharadas de salsa.",
     "En una fuente, pon la mitad de la pasta; reparte encima la ricotta a cucharadas, el huevo, la mitad de la mozzarella y las albondiguitas. Cubre con el resto de la pasta, el resto de la salsa, la mozzarella y el parmesano.",
     "Hornea 25 minutos, hasta que los bordes estén crujientes y el queso dorado. Deja reposar 10 minutos antes de cortar para que se asiente."
   ],
@@ -915,11 +916,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala las carnes. En una cazuela de fondo grueso con el aceite, dora la ternera, la costilla y las salchichas a fuego medio 12 minutos, hasta que estén bien tostadas por todos lados.",
-    "Añade la cebolla picada fina y pocha 10 minutos a fuego suave, raspando el fondo.",
+    "Pica fina la cebolla y sala las carnes. En una cazuela de fondo grueso con el aceite, dora la ternera, la costilla y las salchichas a fuego medio 12 minutos, hasta que estén bien tostadas por todos lados.",
+    "Añade la cebolla y pocha 10 minutos a fuego suave, raspando el fondo.",
     "Incorpora el tomate concentrado, remueve 1 minuto y vierte el vino tinto poco a poco, dejando que se evapore cada chorrito (unos 8 minutos en total).",
-    "Añade el tomate triturado, unas hojas de albahaca y un vaso de agua. Cuando empiece a hervir, baja al mínimo, tapa dejando una rendija y cuece 2 horas y media, removiendo cada 20 minutos. La salsa debe quedar oscura y espesa y la carne, que se deshaga con el tenedor.",
-    "Saca las carnes, rectifica la salsa de sal y cuece los rigatoni en agua con sal según el paquete.",
+    "Añade el tomate triturado, unas hojas de albahaca y un vaso de agua. Cuando empiece a hervir, baja al mínimo, tapa dejando una rendija y cuece 2 horas y media, removiendo cada 20 minutos. La salsa debe quedar oscura y espesa y la carne, que se deshaga con el tenedor. Cuando falte un cuarto de hora, pon a hervir abundante agua con sal para la pasta.",
+    "Saca las carnes, rectifica la salsa de sal y cuece los rigatoni según el paquete.",
     "Mezcla la pasta con la salsa y sirve con parmesano y albahaca. Las carnes se sirven después como segundo, o troceadas sobre la pasta si lo quieres como plato único."
   ],
   nutricion: { kcal: 826, prot: 50, hc: 80, grasa: 34 },
@@ -963,11 +964,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz dos cortes en la piel del borde de cada ossobuco para que no se arqueen. Salpimiéntalos, pásalos por harina y dóralos en la cazuela con el aceite a fuego medio 4 minutos por lado. Sácalos.",
-    "En la misma cazuela, pocha la mitad de la cebolla, la zanahoria y el apio picados finos 10 minutos. Vierte el vino y deja reducir a la mitad.",
+    "Pica finos la cebolla, la zanahoria y el apio, y aparta media cebolla para el risotto. Haz dos cortes en la piel del borde de cada ossobuco para que no se arqueen. Salpimiéntalos, pásalos por harina y dóralos en la cazuela con el aceite a fuego medio 4 minutos por lado. Sácalos.",
+    "En la misma cazuela, pocha la otra media cebolla, la zanahoria y el apio 10 minutos. Vierte el vino y deja reducir a la mitad.",
     "Añade el tomate y 300 ml de caldo, devuelve los ossobucos, tapa y cuece a fuego muy suave 1 hora y 45 minutos, dándoles la vuelta a mitad, hasta que la carne se separe del hueso. Añade caldo si la salsa se seca.",
-    "Para la gremolata, pica muy fino el perejil con el ajo y la piel rallada del limón. Reserva.",
-    "Cuando falten 25 minutos, empieza el risotto: calienta el resto del caldo con el azafrán. En un cazo con la mitad de la mantequilla, pocha la otra media cebolla picada 5 minutos, añade el arroz y nácaralo 1 minuto.",
+    "Mientras se cuece, prepara la gremolata: pica muy fino el perejil con el ajo y la piel rallada del limón. Reserva.",
+    "Cuando falten 25 minutos, empieza el risotto: calienta el resto del caldo con el azafrán. En un cazo con la mitad de la mantequilla, pocha la media cebolla reservada 5 minutos, añade el arroz y nácaralo 1 minuto.",
     "Añade el caldo caliente cucharón a cucharón, removiendo a menudo, durante 17-18 minutos, hasta que el arroz esté cremoso y al dente.",
     "Apaga y manteca el risotto con el resto de la mantequilla y el parmesano, removiendo con energía 30 segundos. Sirve el risotto con un ossobuco encima, su salsa y la gremolata espolvoreada al final."
   ],
@@ -1003,9 +1004,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los calabacines en rodajas finas (2-3 mm). Calienta el aceite con el ajo chafado en una sartén amplia a fuego medio-fuerte.",
+    "Pon a hervir abundante agua con sal para la pasta. Corta los calabacines en rodajas finas (2-3 mm). Calienta el aceite con el ajo chafado en una sartén amplia a fuego medio-fuerte.",
     "Fríe el calabacín en dos tandas 5-6 minutos por tanda, hasta que esté dorado. Sácalo a un plato, sálalo y añade unas hojas de albahaca rotas. Retira el ajo; guarda el aceite en la sartén.",
-    "Cuece los espaguetis en agua con sal 2 minutos menos de lo indicado. Guarda un vaso de agua de cocción.",
+    "Cuece los espaguetis 2 minutos menos de lo indicado. Guarda un vaso de agua de cocción.",
     "Devuelve dos tercios del calabacín a la sartén con un cucharón de agua de cocción y aplástalo un poco con la cuchara para que se convierta en crema.",
     "Añade la pasta y termina de cocerla en la sartén 2 minutos, removiendo y añadiendo agua de cocción si hace falta.",
     "Apaga el fuego, incorpora el provolone y el parmesano y remueve con energía hasta que la salsa quede cremosa y elástica. Sirve con el calabacín reservado, albahaca y pimienta."

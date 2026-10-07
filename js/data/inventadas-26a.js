@@ -32,10 +32,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una cazuela grande 2,5 litros de agua fría con la ternera, el pollo, la panceta y los huesos. Lleva a ebullición a fuego fuerte y, durante los primeros 10 minutos, retira con una espumadera toda la espuma gris que suba.",
-    "Cuando el agua hierva limpia, echa los garbanzos escurridos dentro de una malla o red (así no se pierden al sacar la sopa). Baja a fuego suave: debe hervir a borbotón lento, nunca a lo loco.",
-    "Pasada 1 hora, añade las zanahorias peladas, el puerro limpio y el apio, enteros. Si el agua baja de nivel, añade agua caliente (nunca fría, que encallece los garbanzos).",
-    "Deja cocer 1 hora y media más, hasta que los garbanzos estén mantecosos y la ternera se deshaga con el tenedor. Sala a mitad de cocción. En los últimos 25 minutos, mete las patatas peladas y partidas por la mitad.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. El día del puchero, pon en una cazuela grande 2,5 litros de agua fría con la ternera, el pollo, la panceta y los huesos. Lleva a ebullición a fuego fuerte y, durante los primeros 10 minutos, retira con una espumadera toda la espuma gris que suba.",
+    "Cuando el agua hierva limpia, echa los garbanzos escurridos dentro de una malla o red (así no se pierden al sacar la sopa). Baja a fuego suave: debe hervir a borbotón lento, nunca a lo loco. Mientras cuece, pela las zanahorias y limpia el puerro y el apio; pela las patatas, pártelas por la mitad y guárdalas en agua.",
+    "Pasada 1 hora, añade las zanahorias, el puerro y el apio, enteros. Si el agua baja de nivel, añade agua caliente (nunca fría, que encallece los garbanzos).",
+    "Deja cocer 1 hora y media más, hasta que los garbanzos estén mantecosos y la ternera se deshaga con el tenedor. Sala a mitad de cocción. En los últimos 25 minutos, mete las patatas.",
     "Saca carnes, verduras y garbanzos a una fuente y tapa con papel de aluminio para que no se sequen. Cuela el caldo: necesitarás unos 800 ml para la sopa.",
     "Lleva ese caldo a ebullición, añade los fideos y cuécelos 3-4 minutos, hasta que estén tiernos. Si te gusta, exprime medio limón y añade unas hojas de hierbabuena justo al apagar.",
     "Para la pringá, desmenuza la ternera, el pollo sin hueso ni piel y la panceta y mézclalos con un tenedor hasta que queden como una pasta jugosa.",
@@ -83,11 +83,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una olla grande 3 litros de agua fría con la ternera, el pollo y los huesos. Lleva a ebullición y desespuma durante 10 minutos, hasta que el caldo hierva limpio.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. El día de la escudella, pon en una olla grande 3 litros de agua fría con la ternera, el pollo y los huesos. Lleva a ebullición y desespuma durante 10 minutos, hasta que el caldo hierva limpio.",
     "Añade los garbanzos escurridos en una malla, baja el fuego al mínimo y deja que cueza tapado a medias durante 1 hora.",
-    "Mientras, prepara la pilota: mezcla en un bol el cerdo y la ternera picados con el huevo, el pan rallado, el ajo y el perejil muy picados y sal. Dale forma de pelota alargada (como un pequeño pan) y pásala por harina.",
-    "Pasada la hora, incorpora la pilota, las zanahorias, el puerro y el apio. Cuece 1 hora más a fuego suave.",
-    "Añade la col en un trozo, las patatas peladas y la butifarra pinchada con un palillo. Cuece 40 minutos más, hasta que los garbanzos estén tiernos y la col se deje atravesar fácilmente. Sala al final.",
+    "Mientras, prepara la pilota: mezcla en un bol el cerdo y la ternera picados con el huevo, el pan rallado, el ajo y el perejil muy picados y sal. Dale forma de pelota alargada (como un pequeño pan) y pásala por harina. Pela las zanahorias y limpia el puerro y el apio.",
+    "Pasada la hora, incorpora la pilota, las zanahorias, el puerro y el apio. Cuece 1 hora más a fuego suave. Mientras, pela las patatas y lava la col.",
+    "Añade la col en un trozo, las patatas y la butifarra pinchada con un palillo. Cuece 40 minutos más, hasta que los garbanzos estén tiernos y la col se deje atravesar fácilmente. Sala al final.",
     "Saca todo a una fuente (es la carn d'olla), tapa con papel de aluminio y cuela el caldo. Reserva 800 ml para la sopa.",
     "Lleva el caldo a ebullición y cuece los galets el tiempo que indique el paquete (unos 12-14 minutos), hasta que estén tiernos pero enteros.",
     "Sirve primero la escudella bien caliente; después la carn d'olla en trozos, con la pilota cortada en rodajas, la butifarra, las verduras y los garbanzos, con un chorrito de aceite crudo."
@@ -125,11 +125,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon las alubias escurridas en una cazuela con la panceta y 1,5 litros de agua fría. Lleva a ebullición, retira la espuma y baja a fuego suave. Cuece 1 hora, asustando con un chorrito de agua fría un par de veces para que no se encallezcan.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. El día del pote, ponlas escurridas en una cazuela con la panceta y 1,5 litros de agua fría. Lleva a ebullición, retira la espuma y baja a fuego suave. Cuece 1 hora, asustando con un chorrito de agua fría un par de veces para que no se encallezcan.",
     "Mientras, lava el repollo, quita las pencas más duras y córtalo en tiras. Escáldalo 5 minutos en otra cazuela con agua hirviendo y escúrrelo: así pierde el amargor y no repite.",
-    "Añade a las alubias el chorizo y la morcilla enteros (pinchados con un palillo para que no revienten) y el repollo escurrido. Cuece 40 minutos más a fuego suave, sin remover con cuchara: mueve la cazuela por las asas.",
-    "Pela las patatas y cáchalas en trozos medianos (corta un poco y tira para que se rompan; así sueltan almidón y espesan el caldo). Añádelas y cuece 25 minutos más, hasta que estén tiernas.",
-    "Dora los ajos laminados en una sartén pequeña con el aceite a fuego suave hasta que estén rubios. Aparta del fuego, añade el pimentón, remueve 10 segundos y vierte el refrito sobre el pote.",
+    "Añade a las alubias el chorizo y la morcilla enteros (pinchados con un palillo para que no revienten) y el repollo escurrido. Cuece 40 minutos más a fuego suave, sin remover con cuchara: mueve la cazuela por las asas. Mientras, pela las patatas y lamina los ajos.",
+    "Cacha las patatas en trozos medianos (corta un poco y tira para que se rompan; así sueltan almidón y espesan el caldo). Añádelas y cuece 25 minutos más, hasta que estén tiernas.",
+    "Dora los ajos en una sartén pequeña con el aceite a fuego suave hasta que estén rubios. Aparta del fuego, añade el pimentón, remueve 10 segundos y vierte el refrito sobre el pote.",
     "Prueba de sal (el compango ya sala bastante), deja reposar 10 minutos con el fuego apagado y sirve con el compango cortado en rodajas encima."
   ],
   nutricion: { kcal: 880, prot: 40, hc: 82, grasa: 42 },
@@ -169,12 +169,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las gambas y reserva las colas. En una cazuela con 1 cucharada de aceite, dora a fuego fuerte las cabezas y cáscaras 3 minutos, aplastando las cabezas con la cuchara para que suelten su jugo.",
-    "Añade las espinas y cabezas de pescado, el puerro troceado y 1,2 litros de agua fría. Lleva a ebullición, desespuma y cuece 25 minutos a fuego suave (no más, o el caldo amarga). Cuela apretando bien.",
-    "En la misma cazuela limpia, pocha la cebolla y un ajo picados con 2 cucharadas de aceite a fuego medio 10 minutos, hasta que estén blandos y dorados.",
+    "Una hora antes, pon las almejas en agua con sal para que suelten la arena. Pela las gambas y reserva las colas. En una cazuela con 1 cucharada de aceite, dora a fuego fuerte las cabezas y cáscaras 3 minutos, aplastando las cabezas con la cuchara para que suelten su jugo.",
+    "Añade las espinas y cabezas de pescado, el puerro troceado y 1,2 litros de agua fría. Lleva a ebullición, desespuma y cuece 25 minutos a fuego suave (no más, o el caldo amarga). Mientras, pica la cebolla y un ajo, ralla los tomates, corta el pan en dados y pica el perejil. Cuela el caldo apretando bien.",
+    "En la misma cazuela limpia, pocha la cebolla y el ajo picados con 2 cucharadas de aceite a fuego medio 10 minutos, hasta que estén blandos y dorados.",
     "Añade los tomates rallados y cocina 8 minutos, hasta que pierdan el agua. Echa el brandy y deja que se evapore 1 minuto; aparta del fuego, añade el pimentón, remueve y vierte el caldo colado.",
-    "Mientras, fríe el pan en dados con el último ajo y la cucharada de aceite restante en una sartén hasta que esté dorado. Reserva la mitad de los dados y machaca la otra mitad con el ajo; añade esta picada a la sopa y cuece 10 minutos para que espese ligeramente.",
-    "Corta el rape en tacos y sálalos. Añádelos a la sopa con las almejas escurridas y cuece 3 minutos a fuego medio, hasta que las almejas se abran (descarta las que sigan cerradas).",
+    "Mientras, fríe el pan con el último ajo y la cucharada de aceite restante en una sartén hasta que esté dorado. Reserva la mitad de los dados y machaca la otra mitad con el ajo; añade esta picada a la sopa y cuece 10 minutos para que espese ligeramente. Mientras, corta el rape en tacos y sálalos.",
+    "Añade el rape a la sopa con las almejas escurridas y cuece 3 minutos a fuego medio, hasta que las almejas se abran (descarta las que sigan cerradas).",
     "Añade las colas de gamba, apaga el fuego y deja reposar 2 minutos: se cocinan con el calor del caldo y quedan jugosas.",
     "Prueba de sal y sirve con el perejil picado y los picatostes por encima."
   ],
@@ -214,11 +214,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla, el ajo, el pimiento y el tomate. Sofríelos en una cazuela con el aceite a fuego medio 8 minutos, hasta que estén blandos.",
-    "Pela las patatas y «cháscalas»: corta trozos de bocado tirando del cuchillo al final para que se rompan. Así sueltan almidón y espesan el caldo.",
-    "Añade las patatas al sofrito con el comino, remueve un minuto y cubre con el caldo. Sala ligeramente y cuece 18-20 minutos a fuego medio, hasta que las patatas estén muy tiernas.",
+    "Mientras, pela las patatas y «cháscalas»: corta trozos de bocado tirando del cuchillo al final para que se rompan. Así sueltan almidón y espesan el caldo.",
+    "Añade las patatas al sofrito con el comino, remueve un minuto y cubre con el caldo. Sala ligeramente y cuece 18-20 minutos a fuego medio, hasta que las patatas estén muy tiernas. Mientras, corta el queso fresco en dados y pica el cilantro.",
     "Bate 1 huevo y viértelo en hilo sobre el caldo hirviendo, removiendo, para que cuaje en hebras.",
     "Casca los otros 2 huevos directamente en el caldo, tapa y deja 3-4 minutos a fuego suave, hasta que la clara cuaje y la yema siga jugosa.",
-    "Sirve en platos hondos con un huevo en cada uno, el queso fresco en dados y mucho cilantro picado por encima."
+    "Sirve en platos hondos con un huevo en cada uno, el queso fresco y mucho cilantro por encima."
   ],
   nutricion: { kcal: 470, prot: 22, hc: 50, grasa: 20 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "ligera", "poco especiada"],
@@ -255,9 +255,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, el pimiento y los ajos en trozos pequeños. Póchalos en una cazuela con el aceite a fuego medio-bajo 12 minutos, hasta que la cebolla esté transparente y blanda.",
-    "Pela los tomates (escáldalos 30 segundos en agua hirviendo y la piel sale sola) y trocéalos. Añádelos con el laurel y una pizca de sal y cocina 15 minutos a fuego medio, aplastando con la cuchara, hasta que se deshagan.",
-    "Aparta 10 segundos del fuego, añade el pimentón y remueve. Vierte 500 ml de agua caliente, prueba (si está ácida, añade la pizca de azúcar) y cuece 5 minutos más.",
+    "Pon a hervir agua en un cazo. Pica la cebolla, el pimiento y los ajos en trozos pequeños y póchalos en una cazuela con el aceite a fuego medio-bajo 12 minutos, hasta que la cebolla esté transparente y blanda.",
+    "Mientras, pela los tomates (escáldalos 30 segundos en el agua hirviendo y la piel sale sola) y trocéalos.",
+    "Añade los tomates a la cazuela con el laurel y una pizca de sal y cocina 15 minutos a fuego medio, aplastando con la cuchara, hasta que se deshagan. Mientras, calienta 500 ml de agua.",
+    "Aparta 10 segundos del fuego, añade el pimentón y remueve. Vierte el agua caliente, prueba (si está ácida, añade la pizca de azúcar) y cuece 5 minutos más.",
     "Baja el fuego al mínimo y casca los huevos con cuidado sobre la sopa, separados. Tapa y deja 3-4 minutos, hasta que la clara cuaje y la yema siga jugosa.",
     "Coloca las rebanadas de pan en el fondo de dos platos hondos. Vierte la sopa por encima con un huevo en cada plato y deja reposar 2 minutos para que el pan se empape.",
     "Sirve con los higos o unas uvas al lado, como se hace en Extremadura: el contraste dulce le sienta de maravilla."
@@ -294,12 +295,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Dora en una sartén con el aceite, a fuego medio, los ajos pelados y 1 rebanada de pan en trozos, unos 3 minutos, hasta que estén dorados. Sácalos a la batidora.",
+    "Pon 800 ml de agua en una cazuela con la piel de media naranja (sin la parte blanca) y llévala a ebullición. Mientras, dora en una sartén con el aceite, a fuego medio, los ajos pelados y 1 rebanada de pan en trozos, unos 3 minutos, hasta que estén dorados. Sácalos a la batidora.",
     "Aparta la sartén del fuego, añade el pimentón y el comino, remueve 10 segundos y échalo también a la batidora con un cazo de agua. Tritura hasta tener una pasta fina.",
-    "Pon 800 ml de agua en una cazuela con la piel de media naranja (sin la parte blanca) y lleva a ebullición. Añade la pasta de pan y ajo y cuece 10 minutos a fuego medio.",
-    "Desmiga el bacalao en lascas gruesas y añádelo a la sopa. Cuece 4 minutos, sin que hierva fuerte, hasta que esté blanco y se separe.",
+    "Añade la pasta de pan y ajo al agua hirviendo y cuece 10 minutos a fuego medio. Mientras, desmiga el bacalao en lascas gruesas y corta las otras 2 rebanadas de pan en tiras finas.",
+    "Añade el bacalao a la sopa. Cuece 4 minutos, sin que hierva fuerte, hasta que esté blanco y se separe.",
     "Retira la piel de naranja, añade el zumo de la naranja y del medio limón y prueba de sal (el bacalao ya sala).",
-    "Corta las otras 2 rebanadas de pan en tiras finas, ponlas en el fondo de los platos y vierte la sopa por encima."
+    "Pon las tiras de pan en el fondo de los platos y vierte la sopa por encima."
   ],
   nutricion: { kcal: 390, prot: 26, hc: 40, grasa: 14 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "sin verduras", "poco especiada", "bajo en colesterol"],
@@ -337,9 +338,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolleta, el pimiento y los ajos. Póchalos en una cazuela ancha con el aceite a fuego medio 10 minutos, hasta que estén blandos.",
+    "Mientras, ralla el tomate, corta el repollo en tiras y la coliflor en ramitos pequeños, separa los tallos de las hojas de acelga, trocea los tallos y pica las hojas. Calienta el caldo.",
     "Añade el tomate rallado y cocina 5 minutos. Aparta del fuego, añade el pimentón y remueve 10 segundos.",
-    "Incorpora el repollo en tiras, la coliflor en ramitos pequeños y los tallos de acelga troceados. Rehoga 5 minutos removiendo, hasta que la col empiece a ablandarse.",
-    "Vierte el caldo caliente, sala y cuece tapado a fuego suave 20 minutos. En los últimos 5 minutos añade las hojas de acelga picadas.",
+    "Incorpora el repollo, la coliflor y los tallos de acelga. Rehoga 5 minutos removiendo, hasta que la col empiece a ablandarse.",
+    "Vierte el caldo caliente, sala y cuece tapado a fuego suave 20 minutos. En los últimos 5 minutos añade las hojas de acelga.",
     "Coloca las rebanadas de pan en capas en una cazuela de barro o en los platos hondos. Vierte encima la sopa con las verduras hasta cubrir bien el pan.",
     "Deja reposar 5 minutos tapado para que el pan absorba el caldo: las sopes deben quedar jugosas, casi sin caldo suelto, y se comen con cuchara."
   ],
@@ -374,8 +376,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y pócha en una cazuela con el aceite a fuego medio 8 minutos, hasta que esté transparente.",
-    "Añade el chorizo entero, el caldo y la patata pelada y cachada en trozos. Lleva a ebullición y cuece 15 minutos a fuego suave.",
+    "Pica la cebolla y pócha en una cazuela con el aceite a fuego medio 8 minutos, hasta que esté transparente. Mientras, pela la patata y cáchala en trozos.",
+    "Añade el chorizo entero, el caldo y la patata. Lleva a ebullición y cuece 15 minutos a fuego suave.",
     "Mientras, lava el repollo y córtalo en tiras finas. Añádelo a la cazuela con las castañas.",
     "Cuece 20 minutos más, hasta que el repollo esté tierno y la patata se deshaga en los bordes. Aplasta unas cuantas castañas y trozos de patata contra la pared de la cazuela para espesar el caldo.",
     "Saca el chorizo, córtalo en rodajas y devuélvelo a la cazuela. Prueba de sal y deja reposar 5 minutos antes de servir."
@@ -413,12 +415,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el bacalao en una cazuela con el caldo frío y caliéntalo a fuego suave hasta justo antes de que hierva (verás que empieza a temblar). Sácalo con una espumadera, quítale pieles y espinas y desmígalo. Reserva el caldo.",
-    "En otra cazuela, dora los ajos laminados en el aceite con la guindilla a fuego suave, hasta que estén dorados.",
-    "Añade el pan cortado en láminas finas y rehógalo 2 minutos, hasta que se empape del aceite y se tueste un poco.",
+    "Pon el bacalao en una cazuela con el caldo frío y caliéntalo a fuego suave hasta justo antes de que hierva (verás que empieza a temblar). Mientras se calienta, lamina los ajos, corta el pan en láminas finas y pica el perejil. Saca el bacalao con una espumadera, quítale pieles y espinas y desmígalo. Reserva el caldo.",
+    "En otra cazuela, dora los ajos en el aceite con la guindilla a fuego suave, hasta que estén dorados.",
+    "Añade el pan y rehógalo 2 minutos, hasta que se empape del aceite y se tueste un poco.",
     "Incorpora la carne de pimiento choricero, remueve 1 minuto y vierte el caldo de cocer el bacalao. Cuece 15 minutos a fuego suave, removiendo de vez en cuando, hasta que el pan se deshaga y la sopa espese.",
     "Añade el bacalao desmigado y cuece 2 minutos más. Prueba de sal.",
-    "Casca los huevos sobre la sopa, tapa y deja 3 minutos a fuego mínimo hasta que la clara cuaje. Sirve con perejil picado."
+    "Casca los huevos sobre la sopa, tapa y deja 3 minutos a fuego mínimo hasta que la clara cuaje. Sirve con el perejil picado."
   ],
   nutricion: { kcal: 560, prot: 42, hc: 38, grasa: 26 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "saciante", "sin verduras"],
@@ -454,10 +456,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los huevos en un cazo con agua fría, llévalos a ebullición y cuécelos 10 minutos. Pásalos a agua fría y pélalos.",
-    "Mientras, limpia el puerro y córtalo en rodajas. Rehógalo en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos, hasta que esté blando.",
-    "Añade el calabacín en trozos (con la piel, que da color) y la patata pelada y en dados. Rehoga 3 minutos, cubre con el caldo caliente justo a ras y sala.",
-    "Cuece 15 minutos a fuego medio, hasta que la patata esté tierna. Añade los quesitos y tritura con la batidora hasta que quede muy fina. Si está espesa, alarga con un poco de caldo o agua.",
-    "Corta el pan en dados y dóralos en una sartén con el resto del aceite a fuego medio, removiendo, 3-4 minutos.",
+    "Mientras, limpia el puerro y córtalo en rodajas, trocea el calabacín (con la piel, que da color), pela la patata y córtala en dados y calienta el caldo. Rehoga el puerro en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos, hasta que esté blando.",
+    "Añade el calabacín y la patata. Rehoga 3 minutos, cubre con el caldo caliente justo a ras y sala.",
+    "Cuece 15 minutos a fuego medio, hasta que la patata esté tierna. Mientras, corta el pan en dados y dóralos en una sartén con el resto del aceite a fuego medio, removiendo, 3-4 minutos.",
+    "Añade los quesitos y tritura con la batidora hasta que quede muy fina. Si está espesa, alarga con un poco de caldo o agua.",
     "Sirve la crema con el huevo duro picado, los picatostes y un poco de pimienta negra recién molida."
   ],
   nutricion: { kcal: 410, prot: 18, hc: 36, grasa: 22 },
@@ -494,11 +496,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Rehoga el puerro en rodajas en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos. Añade la patata pelada en dados pequeños y el caldo, sala y cuece 12 minutos, hasta que la patata esté tierna.",
-    "Añade las espinacas lavadas a puñados, removiendo hasta que se encojan, y cuece solo 2 minutos más: así conservan su verde intenso.",
+    "Limpia el puerro y córtalo en rodajas; pela la patata y córtala en dados pequeños. Rehoga el puerro en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos. Añade la patata y el caldo, sala y cuece 12 minutos, hasta que la patata esté tierna.",
+    "Mientras, lava las espinacas, pon un cazo con agua y el vinagre a calentar para los huevos, y dora el pan en dados en una sartén con el resto del aceite 3-4 minutos, hasta que esté crujiente.",
+    "Añade las espinacas a puñados, removiendo hasta que se encojan, y cuece solo 2 minutos más: así conservan su verde intenso.",
     "Agrega la leche y la nuez moscada y tritura con la batidora hasta que quede fina. Mantén caliente sin que hierva.",
-    "Para escalfar los huevos, pon un cazo con agua y el vinagre a hervir suave. Remueve el agua formando un remolino, deja caer un huevo en el centro y cuécelo 3 minutos. Sácalo con una espumadera y repite con el otro.",
-    "Dora el pan en dados en una sartén con el resto del aceite 3-4 minutos, hasta que esté crujiente.",
+    "Con el agua del cazo hirviendo suave, remuévela formando un remolino, deja caer un huevo en el centro y cuécelo 3 minutos. Sácalo con una espumadera y repite con el otro.",
     "Sirve la crema con un huevo poché en el centro de cada plato y los picatostes alrededor."
   ],
   nutricion: { kcal: 400, prot: 20, hc: 40, grasa: 18 },
@@ -537,9 +539,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las lentejas y ponlas en una cazuela con 1,2 litros de agua fría, la cebolla, la zanahoria y el pimiento enteros o en trozos grandes, los ajos pelados, el laurel y 1 cucharada de aceite.",
     "Lleva a ebullición y cuece a fuego suave 45 minutos, hasta que las lentejas estén muy tiernas. Sala a mitad de cocción.",
-    "Retira el laurel. Añade el pimentón y tritura con la batidora (o pasa por el pasapurés, que queda más fino) hasta tener un puré cremoso. Si queda muy espeso, añade agua caliente.",
-    "Corta el chorizo en dados pequeños y fríelo en una sartén sin aceite a fuego medio 3 minutos, hasta que suelte su grasa roja. Sácalo y reserva la grasa.",
-    "En esa misma grasa, dora el pan en dados con el resto del aceite, removiendo, hasta que esté crujiente.",
+    "Mientras, corta el chorizo en dados pequeños y fríelo en una sartén sin aceite a fuego medio 3 minutos, hasta que suelte su grasa roja. Sácalo y reserva la grasa.",
+    "En esa misma grasa, dora el pan cortado en dados con el resto del aceite, removiendo, hasta que esté crujiente.",
+    "Cuando las lentejas estén tiernas, retira el laurel. Añade el pimentón y tritura con la batidora (o pasa por el pasapurés, que queda más fino) hasta tener un puré cremoso. Si queda muy espeso, añade agua caliente.",
     "Calienta el puré 5 minutos más y sírvelo con el chorizo y los picatostes por encima y un hilo de la grasa del chorizo."
   ],
   nutricion: { kcal: 760, prot: 36, hc: 86, grasa: 30 },
@@ -579,12 +581,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el conejo y el pollo. Dóralos en una cazuela ancha con el aceite a fuego medio-alto 8 minutos, hasta que estén bien dorados por todos los lados. Sácalos.",
-    "En el mismo aceite, sofríe la cebolla, el pimiento y los ajos picados a fuego medio 10 minutos. Añade los tomates rallados y cocina 8 minutos más, hasta que el sofrito esté oscuro y meloso.",
-    "Devuelve la carne, añade el tomillo, el romero, el laurel y 1,2 litros de agua. Lleva a ebullición, desespuma y cuece tapado a fuego suave 50 minutos, hasta que la carne se separe del hueso.",
+    "Pica la cebolla, el pimiento y los ajos y ralla los tomates. Salpimienta el conejo y el pollo. Dóralos en una cazuela ancha con el aceite a fuego medio-alto 8 minutos, hasta que estén bien dorados por todos los lados. Sácalos.",
+    "En el mismo aceite, sofríe la cebolla, el pimiento y los ajos a fuego medio 10 minutos. Añade los tomates rallados y cocina 8 minutos más, hasta que el sofrito esté oscuro y meloso.",
+    "Devuelve la carne, añade el tomillo, el romero, el laurel y 1,2 litros de agua. Lleva a ebullición, desespuma y cuece tapado a fuego suave 50 minutos, hasta que la carne se separe del hueso. Mientras, limpia las setas y parte la torta en trozos del tamaño de un sello.",
     "Saca la carne, deshuésala y desmenúzala en trozos medianos. Retira las ramas de hierbas.",
     "Si usas setas, saltéalas aparte 3 minutos y añádelas al caldo. Devuelve la carne y comprueba que queda caldo abundante (unos 800 ml); si no, añade agua caliente.",
-    "Parte la torta en trozos del tamaño de un sello y échalos al caldo hirviendo. Cuece 8-10 minutos removiendo con cuidado, hasta que la torta esté tierna pero sin deshacerse y el caldo haya espesado.",
+    "Echa los trozos de torta al caldo hirviendo. Cuece 8-10 minutos removiendo con cuidado, hasta que la torta esté tierna pero sin deshacerse y el caldo haya espesado.",
     "Prueba de sal, deja reposar 5 minutos y sirve en plato hondo, que debe quedar jugoso y de cuchara."
   ],
   nutricion: { kcal: 760, prot: 58, hc: 60, grasa: 32 },
@@ -622,11 +624,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Haz la masa: mezcla en un bol la harina con una pizca de sal y unos 80 ml de agua templada, añadiendo poco a poco, y amasa 5 minutos hasta que esté lisa y no se pegue. Tápala y deja reposar 15 minutos.",
-    "Mientras, pocha la cebolla, el pimiento y los ajos picados en una cazuela con el aceite a fuego medio 10 minutos. Añade los tomates rallados y la guindilla y cocina 8 minutos.",
+    "Mientras, pica la cebolla, el pimiento y los ajos, ralla los tomates y pocha la cebolla, el pimiento y los ajos en una cazuela con el aceite a fuego medio 10 minutos. Añade los tomates y la guindilla y cocina 8 minutos.",
     "Aparta del fuego, añade el pimentón, remueve y vierte 1 litro de agua. Lleva a ebullición y cuece 5 minutos.",
     "Estira la masa sobre la encimera enharinada con un rodillo, lo más fina posible (como 2 mm), y córtala en trozos irregulares del tamaño de la palma de la mano: esos son los andrajos.",
-    "Echa los andrajos al caldo hirviendo de uno en uno para que no se peguen y cuece 10 minutos, removiendo de vez en cuando, hasta que estén tiernos y el caldo haya espesado con su harina.",
-    "Añade el bacalao desmigado y unas hojas de hierbabuena y cuece 4 minutos más. Prueba de sal y sirve con más hierbabuena por encima."
+    "Echa los andrajos al caldo hirviendo de uno en uno para que no se peguen y cuece 10 minutos, removiendo de vez en cuando, hasta que estén tiernos y el caldo haya espesado con su harina. Mientras, desmiga el bacalao.",
+    "Añade el bacalao y unas hojas de hierbabuena y cuece 4 minutos más. Prueba de sal y sirve con más hierbabuena por encima."
   ],
   nutricion: { kcal: 700, prot: 42, hc: 84, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "bajo en colesterol"],
@@ -667,11 +669,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una cazuela grande el pollo, la panceta y los huesos con 2,5 litros de agua fría. Lleva a ebullición y desespuma 10 minutos, hasta que hierva limpio.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. El día del cocido, pon en una cazuela grande el pollo, la panceta y los huesos con 2,5 litros de agua fría. Lleva a ebullición y desespuma 10 minutos, hasta que hierva limpio.",
     "Añade los garbanzos escurridos en una malla, baja el fuego y cuece a borbotón suave 1 hora y media. Si baja el nivel, añade agua caliente.",
-    "Mientras, prepara las pelotas: mezcla en un bol el cerdo picado con el pan rallado, el huevo, el ajo y el perejil muy picados, los piñones, la canela, la ralladura de limón, sal y 2 cucharadas de caldo del cocido. Debe quedar una masa blanda pero manejable.",
+    "Mientras, prepara las pelotas: mezcla en un bol el cerdo picado con el pan rallado, el huevo, el ajo y el perejil muy picados, los piñones, la canela, la ralladura de limón, sal y 2 cucharadas de caldo del cocido. Debe quedar una masa blanda pero manejable. Pela la zanahoria y las patatas y córtalas en trozos grandes.",
     "Escalda las hojas de col 2 minutos en el caldo para que se ablanden. Forma 4 pelotas alargadas con las manos mojadas y envuelve cada una en una hoja de col.",
-    "Añade al cocido las pelotas, la zanahoria y las patatas peladas en trozos grandes. Cuece 45 minutos más a fuego suave, sin remover con cuchara, hasta que garbanzos y patatas estén tiernos. Sala al final.",
+    "Añade al cocido las pelotas, la zanahoria y las patatas. Cuece 45 minutos más a fuego suave, sin remover con cuchara, hasta que garbanzos y patatas estén tiernos. Sala al final.",
     "Saca las pelotas, la carne y las verduras a una fuente. Desmenuza el pollo sin piel ni huesos.",
     "Sirve el cocido en plato hondo con su caldo, los garbanzos y la patata, una pelota y media por persona y el pollo y la panceta por encima."
   ],
@@ -710,10 +712,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon las judías escurridas en una cazuela grande con las costillas, la panceta y 2 litros de agua fría. Lleva a ebullición, desespuma y cuece a fuego suave 1 hora.",
-    "Asusta las judías con un vasito de agua fría cada 20 minutos para que la piel no se rompa.",
-    "Limpia las judías verdes y córtalas en trozos. Pica las pencas de las acelgas y las hojas por separado.",
-    "Añade las judías verdes, las pencas de acelga, la patata y el boniato pelados en trozos grandes, el pimentón disuelto en el aceite y el azafrán. Cuece 40 minutos más.",
+    "La víspera, pon las judías secas en remojo en abundante agua fría. El día de la olla, ponlas escurridas en una cazuela grande con las costillas, la panceta y 2 litros de agua fría. Lleva a ebullición, desespuma y cuece a fuego suave 1 hora, asustándolas con un vasito de agua fría cada 20 minutos para que la piel no se rompa.",
+    "Mientras, limpia las judías verdes y córtalas en trozos. Pica las pencas de las acelgas y las hojas por separado. Pela la patata y el boniato y córtalos en trozos grandes.",
+    "Añade las judías verdes, las pencas de acelga, la patata, el boniato, el pimentón disuelto en el aceite y el azafrán. Cuece 40 minutos más.",
     "Incorpora la morcilla entera y las hojas de acelga. Cuece 15 minutos, hasta que las judías estén mantecosas y la patata tierna. Sala al final.",
     "Apaga, deja reposar 10 minutos y sirve en plato hondo con su caldo, con la morcilla y la panceta en trozos."
   ],
@@ -754,9 +755,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las costillas en una cazuela con 1,5 litros de agua fría y la mazorca. Lleva a ebullición, desespuma y cuece a fuego suave 40 minutos.",
-    "Mientras, lava bien los berros y quítales los tallos más gruesos. Pica la cebolla y el tomate.",
+    "Mientras, lava bien los berros y quítales los tallos más gruesos. Pica la cebolla y el tomate. Pela las patatas y cáchalas, y pela la calabaza y córtala en trozos.",
     "Machaca en el mortero los ajos con el comino y una pizca de sal hasta tener una pasta (el majado). Disuélvela con un poco del caldo.",
-    "Añade a la cazuela la cebolla, el tomate, los berros, las patatas cachadas y la calabaza en trozos. Cuece 25 minutos, hasta que la patata esté tierna.",
+    "Añade a la cazuela la cebolla, el tomate, los berros, las patatas y la calabaza. Cuece 25 minutos, hasta que la patata esté tierna.",
     "Incorpora las judías cocidas escurridas, el majado y el pimentón disuelto en el aceite. Cuece 10 minutos más para que todo se una. Aplasta unos trozos de calabaza y patata para espesar.",
     "Prueba de sal y sirve con la costilla y el millo en el plato."
   ],
@@ -796,10 +797,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Dora la carne salada en una cazuela con el aceite a fuego medio-alto 5 minutos. Añade la cebolla picada y pocha 8 minutos, hasta que esté blanda.",
-    "Añade el tomate rallado y el chorizo en rodajas y cocina 5 minutos. Aparta del fuego, añade el pimentón y remueve.",
-    "Vierte 1,2 litros de agua, lleva a ebullición y cuece tapado a fuego suave 45 minutos, hasta que la carne esté tierna.",
-    "Machaca los ajos con el comino y el azafrán en el mortero, disuelve con un poco de caldo y añádelo. Incorpora las patatas cachadas y cuece 15 minutos.",
+    "Pica la cebolla, ralla el tomate y corta el chorizo en rodajas. Dora la carne salada en una cazuela con el aceite a fuego medio-alto 5 minutos. Añade la cebolla y pocha 8 minutos, hasta que esté blanda.",
+    "Añade el tomate rallado y el chorizo y cocina 5 minutos. Aparta del fuego, añade el pimentón y remueve.",
+    "Vierte 1,2 litros de agua, lleva a ebullición y cuece tapado a fuego suave 45 minutos, hasta que la carne esté tierna. Mientras, machaca los ajos con el comino y el azafrán en el mortero y pela las patatas.",
+    "Disuelve el majado con un poco de caldo y añádelo. Cacha las patatas en trozos, incorpóralas y cuece 15 minutos.",
     "Añade los garbanzos escurridos y los fideos. Cuece 8-10 minutos más, hasta que los fideos estén tiernos. Si espesa demasiado, añade agua caliente: el rancho debe quedar caldoso.",
     "Prueba de sal, deja reposar 5 minutos y sirve bien caliente."
   ],
@@ -835,12 +836,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala la merluza en trozos y déjala 10 minutos mientras preparas el resto.",
-    "Dora los ajos enteros y aplastados en una cazuela con el aceite a fuego medio hasta que estén dorados; sácalos y resérvalos.",
-    "En ese aceite pocha la cebolla en juliana fina a fuego suave 8 minutos, hasta que esté transparente pero sin dorarse.",
-    "Vierte 800 ml de agua caliente, devuelve los ajos, sala ligeramente y cuece 5 minutos.",
+    "Sala la merluza en trozos y déjala 10 minutos. Mientras, pela y aplasta los ajos, corta la cebolla en juliana fina, exprime la naranja y el medio limón, pica el perejil y calienta 800 ml de agua.",
+    "Dora los ajos en una cazuela con el aceite a fuego medio hasta que estén dorados; sácalos y resérvalos.",
+    "En ese aceite pocha la cebolla a fuego suave 8 minutos, hasta que esté transparente pero sin dorarse.",
+    "Vierte el agua caliente, devuelve los ajos, sala ligeramente y cuece 5 minutos.",
     "Añade la merluza y cuece 4-5 minutos a fuego suave, hasta que se separe en lascas. Apaga el fuego.",
-    "Añade el zumo de la naranja y del medio limón, prueba de sal y sirve con perejil picado y pan tostado para mojar."
+    "Añade el zumo de naranja y limón, prueba de sal y sirve con el perejil picado y pan tostado para mojar."
   ],
   nutricion: { kcal: 390, prot: 32, hc: 30, grasa: 16 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "rápida", "ligera", "sin verduras", "poco especiada", "bajo en colesterol"],
@@ -876,12 +877,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos en un cazo con agua hirviendo, enfríalos en agua fría y pélalos.",
-    "Pica en daditos pequeños la zanahoria, el puerro, el apio y la patata, y corta las judías verdes en trocitos.",
-    "Rehoga el puerro y el apio en una cazuela con el aceite a fuego medio 4 minutos. Añade el resto de verduras y rehoga 2 minutos más.",
-    "Vierte el caldo caliente y cuece a fuego medio 12 minutos, hasta que la patata y la zanahoria estén tiernas.",
+    "Pon a hervir agua en un cazo para los huevos y calienta el caldo en otro. Mientras, pica en daditos pequeños la zanahoria, el puerro, el apio y la patata, y corta las judías verdes en trocitos.",
+    "Cuece los huevos 10 minutos en el agua hirviendo. Mientras, rehoga el puerro y el apio en una cazuela con el aceite a fuego medio 4 minutos. Añade el resto de verduras y rehoga 2 minutos más.",
+    "Vierte el caldo caliente y cuece a fuego medio 12 minutos, hasta que la patata y la zanahoria estén tiernas. Mientras, enfría los huevos en agua fría, pélalos y pícalos, y pica el perejil.",
     "Añade los fideos y cuece 3-4 minutos, hasta que estén en su punto. Prueba de sal.",
-    "Sirve con el huevo duro picado y perejil fresco por encima."
+    "Sirve con el huevo duro picado y el perejil por encima."
   ],
   nutricion: { kcal: 420, prot: 20, hc: 58, grasa: 12 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "para niños", "invierno", "poco especiada"],
@@ -917,9 +917,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, el pimiento y los ajos y póchalos en una cazuela con el aceite a fuego medio 10 minutos, hasta que estén blandos.",
-    "Añade el chorizo en rodajas gruesas y rehoga 3 minutos, hasta que suelte su grasa.",
-    "Incorpora las patatas peladas y cachadas en trozos medianos (mete el cuchillo y tira para que se rompan: así sueltan almidón). Rehoga 3 minutos removiendo.",
+    "Pica la cebolla, el pimiento y los ajos y póchalos en una cazuela con el aceite a fuego medio 10 minutos, hasta que estén blandos. Mientras, corta el chorizo en rodajas gruesas y pela las patatas.",
+    "Añade el chorizo y rehoga 3 minutos, hasta que suelte su grasa.",
+    "Cacha las patatas en trozos medianos (mete el cuchillo y tira para que se rompan: así sueltan almidón) e incorpóralas. Rehoga 3 minutos removiendo.",
     "Añade la carne de pimiento choricero y los pimentones, remueve 30 segundos y cubre con agua justo a ras (unos 800 ml). Echa el laurel y sal.",
     "Cuece a fuego medio-suave 25-30 minutos, moviendo la cazuela de vez en cuando, hasta que las patatas estén tiernas y el caldo haya espesado.",
     "Aplasta 2 o 3 trozos de patata contra la pared, apaga y deja reposar 10 minutos antes de servir."
@@ -959,9 +959,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pollo en una cazuela con el puerro, la zanahoria, la cebolla y 1,2 litros de agua fría. Lleva a ebullición, desespuma y cuece a fuego suave 40 minutos, hasta que la carne se separe del hueso.",
+    "Pon el pollo en una cazuela con el puerro, la zanahoria, la cebolla y 1,2 litros de agua fría. Lleva a ebullición, desespuma y cuece a fuego suave 40 minutos, hasta que la carne se separe del hueso. Mientras, cuece el huevo 10 minutos, enfríalo y pícalo.",
     "Cuela el caldo (debe quedar unos 700 ml). Desmenuza el pollo sin piel ni huesos y reserva la mitad en tiras para la guarnición.",
-    "Cuece el huevo 10 minutos, enfríalo y pícalo.",
     "En la cazuela limpia, derrite la mantequilla a fuego medio, añade la harina y remueve 2 minutos sin que se dore. Añade la leche poco a poco batiendo con varillas y después el caldo caliente, sin dejar de batir para que no se formen grumos.",
     "Añade la otra mitad del pollo y la zanahoria cocida, tritura con la batidora hasta que quede fino y cuece 5 minutos a fuego suave. Sazona con sal, pimienta blanca y nuez moscada.",
     "Sirve la crema con las tiras de pollo, el huevo picado y el jamón en taquitos por encima."
@@ -1003,8 +1002,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una cazuela grande los garbanzos y las judías escurridos con la costilla, la panceta y 2 litros de agua caliente. Lleva a ebullición, desespuma y cuece a fuego suave 1 hora y cuarto.",
-    "Añade la col en trozos, las judías verdes troceadas y la calabaza en dados. Cuece 30 minutos más.",
+    "La víspera, pon los garbanzos y las judías en remojo en abundante agua fría. El día de la berza, ponlos escurridos en una cazuela grande con la costilla, la panceta y 2 litros de agua caliente. Lleva a ebullición, desespuma y cuece a fuego suave 1 hora y cuarto.",
+    "Mientras, corta la col en trozos, trocea las judías verdes y corta la calabaza en dados.",
+    "Añade la col, las judías verdes y la calabaza. Cuece 30 minutos más.",
     "Incorpora el chorizo y la morcilla enteros, pinchados con un palillo, y cuece 20 minutos, hasta que las legumbres estén tiernas.",
     "Mientras, machaca en el mortero los ajos con el comino y una pizca de sal. Sofríe la pasta en una sartén con el aceite 1 minuto, aparta, añade el pimentón y vierte en la cazuela.",
     "Cuece 5 minutos más, prueba de sal y deja reposar tapado 10 minutos.",
@@ -1044,11 +1044,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Trocea todas las verduras en trozos medianos. Rehoga la cebolla y el puerro en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos.",
+    "Trocea todas las verduras en trozos medianos y calienta el caldo. Rehoga la cebolla y el puerro en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos.",
     "Añade la zanahoria, la patata, las judías verdes y el calabacín y rehoga 3 minutos más.",
-    "Cubre con el caldo caliente, sala y cuece tapado a fuego medio 15 minutos, hasta que la zanahoria se deje atravesar fácilmente.",
+    "Cubre con el caldo caliente, sala y cuece tapado a fuego medio 15 minutos, hasta que la zanahoria se deje atravesar fácilmente. Mientras, corta el pan en dados y dóralos en una sartén con 1 cucharada de aceite a fuego medio hasta que estén crujientes.",
     "Tritura con la batidora hasta que quede fina y sedosa. Ajusta de sal y pimienta y, si queda espesa, alarga con un poco de agua.",
-    "Corta el pan en dados y dóralos en una sartén con 1 cucharada de aceite a fuego medio hasta que estén crujientes.",
     "Sirve la crema con los picatostes y un hilo de aceite de oliva crudo por encima."
   ],
   nutricion: { kcal: 410, prot: 12, hc: 54, grasa: 16 },

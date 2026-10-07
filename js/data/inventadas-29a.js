@@ -34,13 +34,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien el cordero con papel de cocina, salpimiéntalo y pásalo por la harina sacudiendo el exceso.",
+    "Pon el caldo a calentar. Corta la cebolla en plumas y el puerro en rodajas. Pela las patatas y corta un tercio en rodajas finas (se desharán y espesarán el caldo); reserva el resto enteras en agua. Seca bien el cordero con papel de cocina, salpimiéntalo y pásalo por la harina sacudiendo el exceso.",
     "Calienta un chorro de aceite en la cazuela a fuego fuerte y dora la carne en dos tandas, 5 minutos por tanda, hasta que tenga costra tostada por todos los lados. Resérvala.",
-    "Baja a fuego medio, añade la mantequilla, la cebolla en plumas y el puerro en rodajas y póchalos 8 minutos, rascando el fondo, hasta que estén blandos y doraditos.",
-    "Pela las patatas. Corta un tercio en rodajas finas (se desharán y espesarán el caldo) y el resto en trozos grandes. Corta las zanahorias en rodajas gruesas.",
-    "Devuelve el cordero, añade las patatas en rodajas finas, el tomillo, el laurel y el caldo caliente. Lleva a ebullición, tapa y cuece a fuego muy suave 1 hora.",
+    "Baja a fuego medio, añade la mantequilla, la cebolla y el puerro y póchalos 8 minutos, rascando el fondo, hasta que estén blandos y doraditos.",
+    "Devuelve el cordero, añade las patatas en rodajas finas, el tomillo, el laurel y el caldo caliente. Lleva a ebullición, tapa y cuece a fuego muy suave 1 hora. Mientras, corta el resto de las patatas en trozos grandes y las zanahorias en rodajas gruesas, y pica el perejil.",
     "Incorpora las zanahorias y las patatas grandes, empújalas para que queden cubiertas y cuece tapado 45 minutos más, hasta que el cordero se deshaga con el tenedor y el caldo esté trabado.",
-    "Retira el tomillo y el laurel, rectifica de sal y pimienta y deja reposar 10 minutos con el fuego apagado. Sirve en plato hondo con mucho perejil picado."
+    "Retira el tomillo y el laurel, rectifica de sal y pimienta y deja reposar 10 minutos con el fuego apagado. Sirve en plato hondo con mucho perejil."
   ],
   nutricion: { kcal: 740, prot: 42, hc: 62, grasa: 36 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "de domingo", "poco especiada"],
@@ -85,12 +84,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos, hasta que se deshagan al pincharlas.",
-    "Mientras, lamina el pepino muy fino y mézclalo en un bol con el vinagre, el azúcar y una pizca de sal. Deja que se encurte mientras cocinas.",
+    "Mientras, lamina el pepino muy fino y mézclalo en un bol con el vinagre, el azúcar y una pizca de sal. Deja que se encurte mientras cocinas. Ralla la cebolla.",
     "En otro bol remoja el pan rallado con 50 ml de leche 5 minutos. Añade las dos carnes, el huevo, la cebolla rallada, la pimienta de Jamaica, sal y pimienta y amasa hasta que esté homogéneo. Forma unas 20 albóndigas pequeñas con las manos mojadas.",
     "Dora las albóndigas en la sartén con la mitad de la mantequilla a fuego medio 8-10 minutos, moviendo la sartén, hasta que estén doradas por todos lados. Sácalas.",
     "En la misma grasa tuesta la harina 1 minuto, vierte el caldo poco a poco sin dejar de remover y añade la nata y la soja. Cuece 3 minutos hasta que la salsa napé la cuchara.",
     "Devuelve las albóndigas a la salsa y cocina a fuego suave 6 minutos para que se terminen por dentro.",
-    "Escurre las patatas, cháfalas con el resto de la mantequilla y 150 ml de leche caliente hasta tener un puré liso. Sirve el puré con las albóndigas y su salsa, el pepino escurrido y una cucharada de mermelada de arándanos al lado."
+    "Calienta los 150 ml de leche restantes. Escurre las patatas y cháfalas con el resto de la mantequilla y la leche caliente hasta tener un puré liso. Sirve el puré con las albóndigas y su salsa, el pepino escurrido y una cucharada de mermelada de arándanos al lado."
   ],
   nutricion: { kcal: 780, prot: 40, hc: 60, grasa: 42 },
   etiquetas: ["tradicional", "saciante", "para niños", "batch cooking", "invierno", "poco especiada"],
@@ -129,11 +128,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla muy fina y póchala en la cazuela con el aceite a fuego medio-bajo 10 minutos, hasta que esté transparente y blanda, sin que se queme.",
+    "Pica la cebolla muy fina y póchala en la cazuela con el aceite a fuego medio-bajo 10 minutos, hasta que esté transparente y blanda, sin que se queme. Mientras, corta el pimiento verde en tiras y trocea el tomate.",
     "Corta el pollo en trozos grandes, salpiméntalo y añádelo. Marca 4 minutos a fuego medio hasta que pierda el color crudo.",
-    "Aparta la cazuela del fuego, añade el pimentón y remueve 20 segundos. Incorpora el pimiento verde en tiras, el tomate troceado y el caldo. Tapa y cuece a fuego suave 25 minutos, hasta que el pollo esté tierno.",
-    "Mientras, prepara la masa de nokedli: bate la harina con el huevo, el agua y una pizca de sal hasta tener una masa espesa y pegajosa que caiga despacio de la cuchara. Deja reposar 10 minutos.",
-    "Pon a hervir agua con sal en una olla. Pasa la masa por un colador de agujeros grandes (o córtala en tiritas desde una tabla con un cuchillo) directamente al agua. Cuando suban a la superficie, unos 2 minutos, escúrrelos y saltéalos con la mantequilla.",
+    "Aparta la cazuela del fuego, añade el pimentón y remueve 20 segundos. Incorpora el pimiento, el tomate y el caldo. Tapa y cuece a fuego suave 25 minutos, hasta que el pollo esté tierno.",
+    "Mientras, prepara la masa de nokedli: bate la harina con el huevo, el agua y una pizca de sal hasta tener una masa espesa y pegajosa que caiga despacio de la cuchara. Deja reposar 10 minutos y, entretanto, pon a hervir agua con sal en una olla.",
+    "Pasa la masa por un colador de agujeros grandes (o córtala en tiritas desde una tabla con un cuchillo) directamente al agua hirviendo. Cuando suban a la superficie, unos 2 minutos, escúrrelos y saltéalos con la mantequilla.",
     "Mezcla el yogur con 1 cucharadita de harina y un cucharón de salsa caliente para templarlo. Viértelo en la cazuela fuera del fuego, remueve y calienta 2 minutos a fuego mínimo sin que hierva.",
     "Rectifica de sal y sirve el pollo con mucha salsa por encima de los nokedli."
   ],
@@ -177,11 +176,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela, dora el bacon en tiras a fuego medio 4 minutos hasta que suelte la grasa. Añade el cerdo salpimentado y dóralo 6 minutos, hasta que tenga costra.",
-    "Incorpora la cebolla picada y los champiñones laminados y cocina 8 minutos, hasta que la cebolla esté blanda y los champiñones hayan soltado el agua.",
+    "Corta el bacon en tiras, pica la cebolla y lamina los champiñones. En la cazuela, dora el bacon a fuego medio 4 minutos hasta que suelte la grasa. Añade el cerdo salpimentado y dóralo 6 minutos, hasta que tenga costra.",
+    "Incorpora la cebolla y los champiñones y cocina 8 minutos, hasta que la cebolla esté blanda y los champiñones hayan soltado el agua. Mientras, corta la col en tiras finas y trocea las ciruelas.",
     "Añade el tomate concentrado, remueve 1 minuto y moja con el vino tinto. Deja reducir 3 minutos.",
-    "Agrega el chucrut escurrido, la col cortada en tiras finas, las ciruelas troceadas, el laurel, la pimienta de Jamaica y el caldo. Mezcla bien, tapa y cuece a fuego muy suave 1 h 45 min, removiendo de vez en cuando y añadiendo un chorrito de agua si se pega.",
-    "Dora la salchicha en rodajas en una sartén con unas gotas de aceite 4 minutos e incorpórala a la cazuela.",
+    "Agrega el chucrut escurrido, la col, las ciruelas, el laurel, la pimienta de Jamaica y el caldo. Mezcla bien, tapa y cuece a fuego muy suave 1 h 45 min, removiendo de vez en cuando y añadiendo un chorrito de agua si se pega. Mientras, corta la salchicha en rodajas.",
+    "Dora la salchicha en una sartén con unas gotas de aceite 4 minutos e incorpórala a la cazuela.",
     "Cuece 20 minutos más destapado, hasta que el guiso esté oscuro, meloso y sin apenas caldo. Rectifica de sal y pimienta.",
     "Sirve bien caliente con el pan de centeno."
   ],
@@ -226,12 +225,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Extiende los filetes, salpimiéntalos y úntalos con la mostaza. Coloca encima 2 lonchas de bacon, media cebolla en tiras y un pepinillo cortado a lo largo. Enróllalos apretando y ciérralos con palillos o hilo.",
+    "Corta media cebolla en tiras, pica la cebolla restante y corta la zanahoria en dados. Extiende los filetes, salpimiéntalos y úntalos con la mostaza. Coloca encima 2 lonchas de bacon, la cebolla en tiras y un pepinillo cortado a lo largo. Enróllalos apretando y ciérralos con palillos o hilo.",
     "Dora los rollitos en la cazuela con un chorro de aceite a fuego fuerte 6 minutos, girándolos, hasta que estén bien tostados. Resérvalos.",
-    "En la misma cazuela, sofríe la cebolla restante picada y la zanahoria en dados 8 minutos a fuego medio. Añade el tomate concentrado, remueve 1 minuto y moja con el vino; deja reducir a la mitad.",
+    "En la misma cazuela, sofríe la cebolla picada y la zanahoria 8 minutos a fuego medio. Añade el tomate concentrado, remueve 1 minuto y moja con el vino; deja reducir a la mitad.",
     "Devuelve los rollitos, cubre con el caldo, tapa y cuece a fuego muy suave 1 h 30 min, girándolos a mitad, hasta que se corten con el tenedor.",
     "Mientras, corta la lombarda en tiras finas y la manzana en dados. Ponlas en otra cazuela con la mantequilla, el vinagre, el azúcar, sal y 100 ml de agua. Tapa y cuece a fuego suave 45 minutos, hasta que esté tierna y brillante.",
-    "Cuece las patatas peladas en agua con sal 20 minutos, hasta que estén tiernas.",
+    "Pela las patatas y cuécelas en agua con sal 20 minutos, hasta que estén tiernas.",
     "Saca los rollitos, quita los palillos y tritura la salsa con la batidora (o pásala por un colador) hasta que quede lisa. Si está líquida, redúcela 5 minutos. Sirve los rollitos napados con la salsa, la lombarda y las patatas."
   ],
   nutricion: { kcal: 720, prot: 46, hc: 58, grasa: 34 },
@@ -272,11 +271,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que se deshagan al pincharlas.",
-    "Mientras, dora las salchichas en la sartén con unas gotas de aceite a fuego medio-bajo 15 minutos, girándolas a menudo, hasta que estén doradas por todos lados y hechas por dentro. Resérvalas tapadas.",
-    "En la misma sartén, con la grasa que han soltado y 10 g de mantequilla, pocha la cebolla en plumas finas con el azúcar moreno y una pizca de sal 12 minutos a fuego medio, hasta que esté blanda y dorada oscura.",
+    "Mientras, dora las salchichas en la sartén con unas gotas de aceite a fuego medio-bajo 15 minutos, girándolas a menudo, hasta que estén doradas por todos lados y hechas por dentro. Entre vuelta y vuelta, corta la cebolla en plumas finas y pon el caldo a calentar. Reserva las salchichas tapadas.",
+    "En la misma sartén, con la grasa que han soltado y 10 g de mantequilla, pocha la cebolla con el azúcar moreno y una pizca de sal 12 minutos a fuego medio, hasta que esté blanda y dorada oscura.",
     "Espolvorea la harina, remueve 1 minuto y vierte el caldo caliente poco a poco sin dejar de remover. Añade la salsa worcestershire y deja hervir 4 minutos, hasta que el gravy tenga textura de salsa ligera. Vuelve a meter las salchichas para que se calienten.",
     "Cuece los guisantes 3 minutos en agua hirviendo, escúrrelos y añade una nuez de mantequilla.",
-    "Escurre las patatas, cháfalas con el resto de la mantequilla, la leche caliente y la mostaza hasta que el puré quede cremoso. Salpimienta.",
+    "Calienta la leche. Escurre las patatas, cháfalas con el resto de la mantequilla, la leche caliente y la mostaza hasta que el puré quede cremoso. Salpimienta.",
     "Sirve una montaña de puré, las salchichas encima, mucho gravy de cebolla y los guisantes al lado."
   ],
   nutricion: { kcal: 795, prot: 30, hc: 70, grasa: 44 },
@@ -320,9 +319,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la carne en la cazuela, cúbrela con agua fría, lleva a ebullición y hierve 2 minutos. Escurre y enjuaga la carne: así el caldo y la salsa quedarán blancos.",
-    "Vuelve a ponerla en la cazuela con 1 litro de agua, la cebolla pinchada con los clavos, las zanahorias en trozos grandes, el verde del puerro, el laurel, el tomillo y sal. Cuece tapado a fuego muy suave 1 h 30 min, hasta que la carne esté tierna.",
+    "Vuelve a ponerla en la cazuela con 1 litro de agua, la cebolla pinchada con los clavos, las zanahorias en trozos grandes, el verde del puerro, el laurel, el tomillo y sal. Cuece tapado a fuego muy suave 1 h 30 min, hasta que la carne esté tierna. Mientras, limpia los champiñones y córtalos en cuartos y pela las cebollitas.",
     "A falta de 20 minutos, cuece el arroz en agua con sal 16-18 minutos y escúrrelo.",
-    "Saca la carne y las zanahorias y cuela el caldo. Saltea los champiñones en cuartos y las cebollitas peladas con 10 g de mantequilla 6 minutos, y luego cuécelos 8 minutos con un cucharón de caldo.",
+    "Saca la carne y las zanahorias y cuela el caldo. Saltea los champiñones y las cebollitas con 10 g de mantequilla 6 minutos, y luego cuécelos 8 minutos con un cucharón de caldo.",
     "En la cazuela limpia, derrite el resto de la mantequilla, tuesta la harina 1 minuto sin que coja color y añade 400 ml del caldo poco a poco, batiendo. Cuece 5 minutos hasta que espese.",
     "Bate la yema con la nata y el zumo del medio limón, templa con un cucharón de salsa y viértelo en la cazuela fuera del fuego. Añade la carne, la zanahoria, los champiñones y las cebollitas y calienta 3 minutos a fuego mínimo, sin que hierva.",
     "Rectifica de sal y pimienta blanca y sirve con el arroz blanco."
@@ -367,9 +366,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon las carnes en una olla grande con 2,5 litros de agua fría. Lleva a ebullición a fuego medio y retira con una espumadera toda la espuma gris que suba durante los primeros 10 minutos.",
     "Añade la cebolla entera pinchada con los clavos, el laurel, el tomillo, la pimienta en grano y una cucharada de sal gruesa. Baja a fuego mínimo, semitapa y cuece 2 h 30 min con un hervor apenas perceptible.",
-    "Pela las zanahorias y el nabo y córtalos en trozos grandes; ata los puerros limpios en un manojo para que no se deshagan; corta el apio en dos.",
+    "Mientras, pela las zanahorias y el nabo y córtalos en trozos grandes; ata los puerros limpios en un manojo para que no se deshagan; corta el apio en dos. Pela también las patatas.",
     "Añade las verduras a la olla y cuece 30 minutos más.",
-    "Pela las patatas y cuécelas aparte en un poco del caldo 20 minutos, para que no enturbien la olla.",
+    "Mientras, cuece las patatas aparte en un poco del caldo 20 minutos, para que no enturbien la olla.",
     "Cuela un par de tazas de caldo y sírvelo bien caliente de primero. Corta la carne en trozos y sírvela con las verduras y las patatas, con sal gruesa, mostaza y pepinillos al lado. Unta el tuétano en pan si te gusta."
   ],
   nutricion: { kcal: 550, prot: 44, hc: 48, grasa: 20 },
@@ -410,12 +409,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta. Corta la ternera en tiras finas de un dedo de ancho, sécalas y espolvoréalas con la harina.",
+    "Pon a hervir agua con sal para la pasta. Mientras, pica la chalota y el perejil y lamina los champiñones. Corta la ternera en tiras finas de un dedo de ancho, sécalas y espolvoréalas con la harina.",
     "Calienta un chorro de aceite en la sartén a fuego muy fuerte y saltea la carne en dos tandas 1 minuto por tanda, solo hasta que se dore por fuera. Sácala a un plato con su jugo y sálala.",
-    "Baja a fuego medio, añade la mantequilla, la chalota picada y los champiñones laminados y saltea 6 minutos, hasta que se doren y se evapore el agua.",
+    "Baja a fuego medio, añade la mantequilla, la chalota y los champiñones y saltea 6 minutos, hasta que se doren y se evapore el agua.",
     "Cuece las tagliatelle según el paquete, unos 8 minutos.",
     "Vierte el vino en la sartén y deja reducir a la mitad 2 minutos. Añade el caldo y la nata y cuece 4 minutos, hasta que la salsa napé la cuchara.",
-    "Devuelve la carne con su jugo y caliéntala 1 minuto sin que hierva para que no se endurezca. Termina con unas gotas de limón, pimienta, el pimentón y el perejil picado.",
+    "Devuelve la carne con su jugo y caliéntala 1 minuto sin que hierva para que no se endurezca. Termina con unas gotas de limón, pimienta, el pimentón y el perejil.",
     "Escurre la pasta, mézclala con una nuez de mantequilla y sírvela con la ternera y su salsa por encima."
   ],
   nutricion: { kcal: 770, prot: 44, hc: 72, grasa: 34 },
@@ -454,12 +453,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Adoba la carne: mézclala en un bol con el vino, el pimentón, 3 ajos machacados, el laurel y sal. Tápala y déjala en la nevera al menos 1 hora.",
-    "Pon las almejas en agua fría con sal 30 minutos para que suelten la arena.",
+    "Mientras se adoba, pon las almejas en agua fría con sal 30 minutos para que suelten la arena.",
     "Precalienta el horno a 220 °C. Corta las patatas en dados de 2 cm, mézclalas con 2 cucharadas de aceite y sal y ásalas en una bandeja 30 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes.",
     "Escurre la carne guardando el adobo. Dórala en la cazuela con 2 cucharadas de aceite a fuego fuerte 5 minutos, hasta que esté tostada.",
-    "Vierte el adobo colado y cuece a fuego medio 10 minutos, hasta que la carne esté tierna y el líquido reducido a la mitad.",
-    "Añade las almejas escurridas y el ajo restante picado, tapa y cocina 3-4 minutos, hasta que se abran. Desecha las que sigan cerradas.",
-    "Incorpora las patatas asadas, mezcla con cuidado para que se empapen de salsa y termina con mucho cilantro picado y un chorrito de limón. Sirve enseguida."
+    "Vierte el adobo colado y cuece a fuego medio 10 minutos, hasta que la carne esté tierna y el líquido reducido a la mitad. Mientras, pica el ajo restante y el cilantro.",
+    "Añade las almejas escurridas y el ajo picado, tapa y cocina 3-4 minutos, hasta que se abran. Desecha las que sigan cerradas.",
+    "Incorpora las patatas asadas, mezcla con cuidado para que se empapen de salsa y termina con mucho cilantro y un chorrito de limón. Sirve enseguida."
   ],
   nutricion: { kcal: 735, prot: 48, hc: 50, grasa: 38 },
   etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "poco especiada"],
@@ -588,10 +587,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Bate la harina con los huevos, la leche, el tomillo y una pizca de sal hasta tener una masa lisa como de crepes. Déjala reposar mientras haces el resto (al menos 15 minutos).",
-    "Precalienta el horno a 220 °C. Pon el aceite y las salchichas en una fuente de horno pequeña y hornéalas 10 minutos, hasta que se doren y la grasa esté muy caliente.",
+    "Precalienta el horno a 220 °C. Bate la harina con los huevos, la leche, el tomillo y una pizca de sal hasta tener una masa lisa como de crepes. Déjala reposar mientras haces el resto (al menos 15 minutos).",
+    "Pon el aceite y las salchichas en una fuente de horno pequeña y hornéalas 10 minutos, hasta que se doren y la grasa esté muy caliente.",
     "Saca la fuente con cuidado y vierte la masa de golpe alrededor de las salchichas: debe chisporrotear. Hornea 25 minutos sin abrir la puerta, hasta que la masa haya subido y esté dorada y crujiente.",
-    "Mientras, pocha la cebolla en plumas con la mantequilla a fuego medio 10 minutos, hasta que esté dorada. Espolvorea 1 cucharada de harina, remueve y añade el caldo y la worcestershire. Cuece 4 minutos hasta que espese.",
+    "Mientras, corta la cebolla en plumas y pon a hervir agua con sal para el brócoli. Pocha la cebolla con la mantequilla a fuego medio 10 minutos, hasta que esté dorada. Espolvorea 1 cucharada de harina, remueve y añade el caldo y la worcestershire. Cuece 4 minutos hasta que espese.",
     "Cuece el brócoli en ramitos en agua con sal 4 minutos, hasta que esté tierno pero verde.",
     "Sirve el toad in the hole recién salido del horno, cortado en porciones, con el gravy por encima y el brócoli al lado."
   ],
@@ -632,8 +631,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Machaca en el mortero (o tritura) las guindillas, los ajos, el pimentón, el orégano y sal. Añade el zumo de medio limón, el vinagre y el aceite y mezcla hasta tener una pasta.",
-    "Haz unos cortes en la piel del pollo y úntalo bien con la pasta, también por debajo. Deja reposar 20 minutos (o toda la noche en la nevera).",
-    "Precalienta el horno a 210 °C. Corta las patatas en gajos, sálalas y ponlas en la bandeja con un chorrito de aceite.",
+    "Haz unos cortes en la piel del pollo y úntalo bien con la pasta, también por debajo. Deja reposar 20 minutos (o toda la noche en la nevera). Mientras, precalienta el horno a 210 °C y corta las patatas en gajos.",
+    "Sala las patatas y ponlas en la bandeja con un chorrito de aceite.",
     "Coloca el pollo encima de las patatas con la piel hacia arriba y hornea 40 minutos, rociando a mitad con los jugos, hasta que la piel esté tostada y el jugo salga transparente al pinchar.",
     "Mientras, prepara una ensalada de lechuga, tomate y cebolla morada aliñada con el resto del limón, aceite y sal.",
     "Sirve el pollo con las patatas empapadas en los jugos picantes y la ensalada fresca al lado."
@@ -675,8 +674,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pescado en trozos grandes y sálalo. Pela las patatas y córtalas en rodajas de medio dedo; corta la cebolla y los pimientos en aros y los tomates en rodajas.",
-    "Unta el fondo de la cazuela con el aceite. Monta capas: primero la cebolla, luego las patatas, después los pimientos y el tomate, con el ajo laminado, el laurel, el pimentón, sal y perejil picado entre capa y capa.",
+    "Corta el pescado en trozos grandes y sálalo. Pela las patatas y córtalas en rodajas de medio dedo; corta la cebolla y los pimientos en aros y los tomates en rodajas. Lamina el ajo y pica el perejil.",
+    "Unta el fondo de la cazuela con el aceite. Monta capas: primero la cebolla, luego las patatas, después los pimientos y el tomate, con el ajo, el laurel, el pimentón, sal y perejil entre capa y capa.",
     "Riega con el vino y 150 ml de agua, tapa y cuece a fuego medio-suave 20 minutos, hasta que las patatas estén casi tiernas.",
     "Coloca el pescado encima, sin remover, espolvorea más perejil y tapa de nuevo.",
     "Cuece 8-10 minutos más, moviendo la cazuela por las asas en lugar de remover, hasta que el pescado esté opaco y se separe en lascas.",
@@ -720,11 +719,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Pon el bacalao en un cazo con la leche y el laurel y caliéntalo a fuego suave hasta que esté a punto de hervir; apaga y deja 5 minutos. Sácalo, desmígalo quitando piel y espinas y guarda la leche.",
+    "Pon el bacalao en un cazo con la leche y el laurel y caliéntalo a fuego suave hasta que esté a punto de hervir; apaga y deja 5 minutos. Mientras, corta la cebolla en plumas finas, lamina el ajo y pica el perejil. Saca el bacalao, desmígalo quitando piel y espinas y guarda la leche.",
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en dados pequeños y fríelas o saltéalas en la sartén con el aceite a fuego medio-alto 15 minutos, hasta que estén doradas y tiernas. Sálalas poco.",
-    "Retira las patatas y, en la misma sartén, pocha la cebolla en plumas finas y el ajo laminado 8 minutos, hasta que estén blandos. Añade el bacalao y saltea 2 minutos.",
+    "Retira las patatas y, en la misma sartén, pocha la cebolla y el ajo 8 minutos, hasta que estén blandos. Añade el bacalao y saltea 2 minutos.",
     "Prepara la bechamel: derrite la mantequilla en un cazo, tuesta la harina 1 minuto y añade la leche colada poco a poco, batiendo. Cuece 5 minutos hasta que espese y añade la nata, la nuez moscada, sal y pimienta.",
-    "Mezcla las patatas y el bacalao con dos tercios de la bechamel y el perejil picado y extiéndelo en una fuente. Cubre con el resto de la bechamel y el queso rallado.",
+    "Mezcla las patatas y el bacalao con dos tercios de la bechamel y el perejil y extiéndelo en una fuente. Cubre con el resto de la bechamel y el queso rallado.",
     "Gratina 15-20 minutos, hasta que la superficie esté dorada y burbujee por los bordes. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 745, prot: 40, hc: 52, grasa: 42 },
@@ -761,12 +760,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y cuécelas enteras en agua con sal 12 minutos, hasta que estén casi hechas pero firmes. Déjalas templar y córtalas en rodajas finas.",
-    "Pocha la cebolla en plumas finas con 5 g de mantequilla a fuego medio 8 minutos, hasta que esté blanda.",
-    "Precalienta el horno a 200 °C y unta una fuente pequeña con mantequilla. Haz capas: patata, salmón en tiras, cebolla y eneldo picado, terminando con una capa de patata.",
+    "Pela las patatas y cuécelas enteras en agua con sal 12 minutos, hasta que estén casi hechas pero firmes. Mientras, corta la cebolla en plumas finas y pica el eneldo. Deja templar las patatas y córtalas en rodajas finas.",
+    "Mientras templan, precalienta el horno a 200 °C y pocha la cebolla con 5 g de mantequilla a fuego medio 8 minutos, hasta que esté blanda.",
+    "Unta una fuente pequeña con mantequilla. Haz capas: patata, salmón en tiras, cebolla y eneldo, terminando con una capa de patata.",
     "Bate los huevos con la leche, una pizca de sal (el salmón ya es salado) y pimienta blanca y viértelo sobre las capas.",
     "Reparte unas bolitas de mantequilla por encima y hornea 35-40 minutos, hasta que el huevo esté cuajado y la superficie dorada.",
-    "Mientras, cuece los guisantes 3 minutos. Derrite el resto de la mantequilla con un poco de eneldo picado y unas gotas de limón.",
+    "Mientras, cuece los guisantes 3 minutos. Derrite el resto de la mantequilla con un poco de eneldo y unas gotas de limón.",
     "Sirve el laxpudding en porciones, regado con la mantequilla al eneldo y con los guisantes al lado."
   ],
   nutricion: { kcal: 600, prot: 30, hc: 52, grasa: 30 },
@@ -804,11 +803,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 18-20 minutos, hasta que se dejen pinchar sin resistencia. Escúrrelas.",
-    "Mientras, calienta el aceite en una sartén amplia con tapa a fuego medio y dora los ajos laminados y la guindilla 1 minuto, sin que se quemen.",
-    "Añade los cherrys partidos por la mitad y saltea 3 minutos a fuego fuerte, aplastando algunos con la cuchara, hasta que suelten jugo.",
+    "Mientras, lamina los ajos, parte los cherrys por la mitad y pica el perejil. Calienta el aceite en una sartén amplia con tapa a fuego medio y dora los ajos y la guindilla 1 minuto, sin que se quemen.",
+    "Añade los cherrys y saltea 3 minutos a fuego fuerte, aplastando algunos con la cuchara, hasta que suelten jugo.",
     "Vierte el vino y 150 ml de agua, añade las alcaparras y las aceitunas y deja hervir 2 minutos.",
     "Coloca la merluza salada con la piel hacia abajo, tapa y cuece a fuego medio-bajo 6-8 minutos, rociándola con el caldo de vez en cuando, hasta que la carne esté opaca y se separe en lascas.",
-    "Esparce mucho perejil picado, chafa ligeramente las patatas y ponlas en la sartén para que se empapen del caldo. Sirve en plato hondo con un hilo de aceite crudo."
+    "Esparce mucho perejil, chafa ligeramente las patatas y ponlas en la sartén para que se empapen del caldo. Sirve en plato hondo con un hilo de aceite crudo."
   ],
   nutricion: { kcal: 420, prot: 34, hc: 40, grasa: 14 },
   etiquetas: ["tradicional", "ligera", "rápida", "una sola sartén", "verano", "bajo en colesterol"],
@@ -846,9 +845,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que estén muy tiernas.",
-    "Pon el bacalao en una sartén honda con la leche, el laurel y la cebolla. Calienta a fuego suave hasta que tiemble sin hervir y cuece 6-7 minutos, hasta que el pescado esté opaco. Sácalo con una espumadera, tápalo y cuela la leche.",
+    "Mientras, pon el bacalao en una sartén honda con la leche, el laurel y la cebolla. Calienta a fuego suave hasta que tiemble sin hervir y cuece 6-7 minutos, hasta que el pescado esté opaco; entretanto, pica muy fino el perejil. Saca el bacalao con una espumadera, tápalo y cuela la leche.",
     "Derrite 15 g de mantequilla en un cazo, añade la harina y remueve 1 minuto. Incorpora 300 ml de la leche de cocer el pescado poco a poco, batiendo, y cuece 4 minutos hasta que esté espesa y lisa.",
-    "Fuera del fuego, añade el perejil muy picado, unas gotas de limón, sal y pimienta blanca.",
+    "Fuera del fuego, añade el perejil, unas gotas de limón, sal y pimienta blanca.",
     "Cuece los guisantes 3 minutos. Escurre las patatas y cháfalas con el resto de la mantequilla y un chorrito de la leche sobrante.",
     "Sirve el bacalao sobre el puré, cubierto con la salsa de perejil, y los guisantes al lado."
   ],
@@ -886,8 +885,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pocha la cebolla en plumas finas con 3 cucharadas de aceite a fuego suave 15 minutos, hasta que esté muy blanda. Añade las anchoas picadas y el perejil picado y remueve hasta que se deshagan.",
-    "Corta el bacalao en trozos medianos, quítale piel y espinas y enharínalos ligeramente.",
+    "Corta la cebolla en plumas finas y pica las anchoas y el perejil. Pocha la cebolla con 3 cucharadas de aceite a fuego suave 15 minutos, hasta que esté muy blanda; mientras, corta el bacalao en trozos medianos y quítale piel y espinas. Añade a la cebolla las anchoas y el perejil y remueve hasta que se deshagan.",
+    "Enharina ligeramente los trozos de bacalao.",
     "Extiende la mitad de la cebolla en el fondo de una cazuela estrecha, coloca el bacalao en una capa apretada, cubre con el resto de la cebolla y espolvorea el parmesano y pimienta.",
     "Vierte la leche y el resto del aceite hasta casi cubrir el pescado. Tapa y cuece a fuego mínimo 2 h 30 min, sin remover, moviendo la cazuela de vez en cuando, hasta que la salsa esté cremosa y el bacalao se deshaga.",
     "A falta de 40 minutos, lleva a ebullición 600 ml de agua con sal y añade la polenta en lluvia, batiendo. Cuece a fuego mínimo 35-40 minutos, removiendo cada pocos minutos, hasta que se despegue de las paredes (o según el paquete si es precocida).",
@@ -927,10 +926,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas peladas en agua con sal 20 minutos, hasta que estén muy tiernas.",
-    "Mientras, machaca los ajos con una pizca de sal en el mortero hasta tener una pasta. Escurre las patatas guardando un poco del agua y cháfalas con el ajo, las almendras, el vinagre y 3 cucharadas de aceite, añadiendo agua de cocción hasta tener un puré suave. Esa es la skordalia.",
-    "Corta la remolacha en gajos y alíñala con 1 cucharada de aceite, unas gotas de vinagre y sal.",
-    "Corta el bacalao en trozos de dos bocados y sécalo bien con papel de cocina.",
+    "Pela las patatas y cuécelas en agua con sal 20 minutos, hasta que estén muy tiernas.",
+    "Mientras, machaca los ajos con una pizca de sal en el mortero hasta tener una pasta. Corta la remolacha en gajos y alíñala con 1 cucharada de aceite, unas gotas de vinagre y sal. Corta el bacalao en trozos de dos bocados y sécalo bien con papel de cocina.",
+    "Escurre las patatas guardando un poco del agua y cháfalas con el ajo, las almendras, el vinagre y 3 cucharadas de aceite, añadiendo agua de cocción hasta tener un puré suave. Esa es la skordalia.",
     "Bate la harina con la cerveza fría hasta tener una masa espesa como de yogur líquido.",
     "Calienta dos dedos de aceite en la sartén a fuego medio-alto. Pasa el bacalao por la masa y fríelo en tandas 3-4 minutos, girándolo, hasta que esté dorado e hinchado. Escúrrelo sobre papel.",
     "Sirve el bacalao recién frito con la skordalia a temperatura ambiente, la remolacha y gajos de limón."
@@ -968,12 +966,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las habas, ponlas en la cazuela con la patata pelada y troceada, el laurel y agua que las cubra justo un dedo. Lleva a ebullición y retira la espuma.",
-    "Cuece a fuego muy suave, tapado, 1 h 45 min a 2 horas, removiendo de vez en cuando y añadiendo un poco de agua caliente si se secan, hasta que las habas se deshagan solas.",
-    "Retira el laurel, sala y bate con una varilla o tenedor añadiendo 2 cucharadas de aceite hasta tener un puré cremoso, como un puré de patata suelto.",
-    "Mientras, lava las acelgas, córtalas en tiras y cuécelas en agua con sal 5 minutos. Escúrrelas bien.",
-    "Dora el ajo laminado con la guindilla en 1 cucharada de aceite, añade las acelgas y saltea 3 minutos.",
-    "Tuesta el pan. Sirve el puré de habas en un lado del plato y la verdura en el otro, con un buen chorro de aceite crudo por encima, el pan y, si quieres, unos aros finos de cebolla morada."
+    "Escurre las habas. Pela y trocea la patata y ponla en la cazuela con las habas, el laurel y agua que las cubra justo un dedo. Lleva a ebullición y retira la espuma.",
+    "Cuece a fuego muy suave, tapado, 1 h 45 min a 2 horas, removiendo de vez en cuando y añadiendo un poco de agua caliente si se secan, hasta que las habas se deshagan solas. Mientras, lava las acelgas, córtalas en tiras y lamina el ajo; si la usas, corta la cebolla morada en aros finos.",
+    "Cuando a las habas les falten unos 10 minutos, cuece las acelgas en agua con sal 5 minutos y escúrrelas bien. Dora el ajo con la guindilla en 1 cucharada de aceite, añade las acelgas y saltea 3 minutos.",
+    "Retira el laurel de las habas, sala y bate con una varilla o tenedor añadiendo 2 cucharadas de aceite hasta tener un puré cremoso, como un puré de patata suelto.",
+    "Tuesta el pan. Sirve el puré de habas en un lado del plato y la verdura en el otro, con un buen chorro de aceite crudo por encima, el pan y, si quieres, los aros de cebolla morada."
   ],
   nutricion: { kcal: 440, prot: 22, hc: 52, grasa: 16 },
   etiquetas: ["tradicional", "económica", "ligera", "batch cooking", "invierno", "detox", "superalimentos", "bajo en colesterol"],
@@ -1011,8 +1008,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las lentejas, cúbrelas de agua en la cazuela, lleva a ebullición 3 minutos y escúrrelas (así quedan más digestivas, como hacen en Grecia).",
-    "En la misma cazuela, pocha la cebolla picada, la zanahoria en dados y el ajo con el aceite a fuego medio 8 minutos, hasta que estén blandos.",
+    "Lava las lentejas, cúbrelas de agua en la cazuela, lleva a ebullición 3 minutos y escúrrelas (así quedan más digestivas, como hacen en Grecia). Mientras se calienta el agua, pica la cebolla y el ajo y corta la zanahoria en dados.",
+    "En la misma cazuela, pocha la cebolla, la zanahoria y el ajo con el aceite a fuego medio 8 minutos, hasta que estén blandos.",
     "Añade las lentejas, el tomate triturado, el laurel, el orégano y 800 ml de agua. Lleva a ebullición y cuece a fuego suave 30-35 minutos, hasta que las lentejas estén tiernas y el caldo espeso.",
     "Sala a mitad de la cocción y añade agua si se quedan secas: deben quedar caldosas pero espesas.",
     "Apaga el fuego, añade el vinagre y remueve: es el toque que da la gracia a la fakes.",
@@ -1056,10 +1053,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica muy fina la cebolla y póchala con el ajo y el aceite en un cazo a fuego medio 6 minutos, hasta que esté blanda.",
+    "Pica muy finos la cebolla y el ajo y póchalos con el aceite en un cazo a fuego medio 6 minutos, hasta que la cebolla esté blanda.",
     "Añade el tomate triturado, el concentrado, el azúcar, el vinagre, la worcestershire y el pimentón. Cuece 8 minutos, hasta que la salsa espese.",
     "Tritura la salsa con la batidora si la quieres fina como la de lata. Incorpora las judías escurridas y enjuagadas y cuece a fuego suave 10 minutos, removiendo con cuidado, hasta que la salsa las envuelva.",
-    "Tuesta el pan y, si quieres, úntalo con un poco de mantequilla.",
+    "Mientras, tuesta el pan y, si quieres, úntalo con un poco de mantequilla.",
     "Fríe los huevos en la sartén con unas gotas de aceite a fuego medio, hasta que la clara esté cuajada y la yema líquida.",
     "Pon las judías encima de las tostadas, ralla el cheddar por encima, corona con el huevo frito y pimienta negra."
   ],
@@ -1100,8 +1097,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Dora el bacon en tiras en la cazuela a fuego medio 4 minutos hasta que suelte la grasa. Añade la salchicha en medias lunas y dórala 4 minutos más.",
-    "Incorpora la cebolla picada y póchala en esa grasa 8 minutos, hasta que esté blanda y dorada. Añade el ajo picado 1 minuto.",
+    "Corta el bacon en tiras y la salchicha en medias lunas, y pica la cebolla y el ajo. Dora el bacon en la cazuela a fuego medio 4 minutos hasta que suelte la grasa. Añade la salchicha y dórala 4 minutos más.",
+    "Incorpora la cebolla y póchala en esa grasa 8 minutos, hasta que esté blanda y dorada. Añade el ajo 1 minuto.",
     "Aparta del fuego, añade el pimentón y la mejorana y remueve. Agrega el tomate concentrado, el triturado, el laurel y el caldo.",
     "Lleva a ebullición y cuece a fuego suave 20 minutos, removiendo de vez en cuando, hasta que la salsa espese.",
     "Incorpora las judías escurridas y cuece 15 minutos más a fuego mínimo para que tomen sabor, añadiendo un chorrito de agua si se espesa demasiado.",

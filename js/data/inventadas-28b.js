@@ -29,9 +29,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en la olla a fuego medio y fríe las almendras, los ajos pelados enteros y el pan, 2-3 minutos, dándoles la vuelta, hasta que estén dorados. Sácalos.",
+    "Pela las patatas y cáscalas en trozos medianos. Calienta el aceite en la olla a fuego medio y fríe las almendras, los ajos pelados enteros y el pan, 2-3 minutos, dándoles la vuelta, hasta que estén dorados. Sácalos.",
     "Maja en un mortero (o tritura con un poco de agua) las almendras, los ajos, el pan, el perejil y el azafrán hasta tener una pasta espesa: es el ajopollo.",
-    "En el aceite que queda en la olla, rehoga 1 minuto las patatas peladas y cascadas en trozos medianos.",
+    "En el aceite que queda en la olla, rehoga 1 minuto las patatas.",
     "Añade el agua, el laurel, el majado desleído en un poco de agua y sal. Remueve bien.",
     "Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Deja que pierda la presión de forma natural.",
     "Abre, remueve con cuidado y, si el caldo está muy ligero, hierve 3 minutos destapado. Debe quedar una salsa espesa, dorada y con sabor a almendra. Reposa 5 minutos y sirve."
@@ -69,9 +69,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Quita las hojas exteriores y el troncho del repollo y córtalo en tiras de 2 cm. Pela las patatas y córtalas en trozos de 3 cm.",
-    "Pon en la olla el agua, el laurel y sal, las patatas al fondo y el repollo encima. Cierra; cuando alcance presión, baja a fuego medio y cuenta 4 minutos. Despresuriza de forma rápida.",
+    "Pon en la olla el agua, el laurel y sal, las patatas al fondo y el repollo encima. Cierra; cuando alcance presión, baja a fuego medio y cuenta 4 minutos. Mientras, lamina los ajos y corta el chorizo en rodajas. Despresuriza de forma rápida.",
     "Escurre bien la verdura y las patatas, guardando el caldo.",
-    "En una sartén grande, calienta el aceite a fuego medio y dora los ajos laminados 1 minuto. Añade el chorizo en rodajas y dale 2 minutos, hasta que suelte la grasa.",
+    "En una sartén grande, calienta el aceite a fuego medio y dora los ajos 1 minuto. Añade el chorizo y dale 2 minutos, hasta que suelte la grasa.",
     "Aparta la sartén del fuego, añade el pimentón y remueve 20 segundos.",
     "Vuelve a ponerla al fuego, incorpora el repollo y las patatas y rehoga 3 minutos, aplastando un poco las patatas, hasta que todo quede bien impregnado. Si se seca, añade un chorrito del caldo. Prueba de sal y sirve."
   ],
@@ -104,8 +104,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos grandes y ponlas en la olla con el agua y sal. Cierra; cuando alcance presión, baja a fuego medio y cuenta 6 minutos. Despresuriza de forma rápida, escúrrelas y resérvalas tapadas.",
-    "Pincha los chorizos con un tenedor en varios sitios para que suelten grasa y se empapen de sidra.",
+    "Pela las patatas, córtalas en trozos grandes y ponlas en la olla con el agua y sal. Cierra; cuando alcance presión, baja a fuego medio y cuenta 6 minutos. Mientras, pincha los chorizos con un tenedor en varios sitios para que suelten grasa y se empapen de sidra. Despresuriza de forma rápida, escurre las patatas y resérvalas tapadas.",
     "Pon en la olla limpia los chorizos, la sidra y el laurel. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 5 minutos. Despresuriza de forma rápida.",
     "Abre y deja hervir destapado a fuego medio-fuerte 8 minutos, hasta que la sidra se reduzca a la mitad y quede un jugo rojizo y algo espeso.",
     "Añade las patatas a la olla y dales 2 minutos en la salsa, moviendo la olla, para que se empapen.",
@@ -151,10 +150,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las cebollas, corta una tapa fina por arriba y un poco de la base para que se sostengan. Vacíalas con una cucharilla dejando 2 o 3 capas de pared. Pica el interior que has sacado.",
-    "En un bol mezcla las carnes con el huevo, el pan rallado, 1 ajo y el perejil picados, sal y pimienta. Rellena las cebollas apretando bien y pasa la boca rellena por la harina.",
+    "Pela las cebollas, corta una tapa fina por arriba y un poco de la base para que se sostengan. Vacíalas con una cucharilla dejando 2 o 3 capas de pared. Pica el interior que has sacado, los ajos y el perejil, y corta la zanahoria en rodajas.",
+    "En un bol mezcla las carnes con el huevo, el pan rallado, 1 ajo picado, el perejil, sal y pimienta. Rellena las cebollas apretando bien y pasa la boca rellena por la harina.",
     "Calienta el aceite en la olla a fuego medio y dora las cebollas por la parte del relleno 3 minutos, hasta que se forme una costra. Dales la vuelta y resérvalas.",
-    "En el mismo aceite sofríe la cebolla picada, la zanahoria en rodajas y el otro ajo 8 minutos. Añade el tomate frito y el vino y deja hervir 2 minutos.",
+    "En el mismo aceite sofríe la cebolla picada, la zanahoria y el otro ajo 8 minutos. Añade el tomate frito y el vino y deja hervir 2 minutos.",
     "Agrega el caldo y el laurel y coloca las cebollas de pie, con el relleno hacia arriba. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 12 minutos. Deja que pierda la presión de forma natural.",
     "Saca con cuidado las cebollas a una fuente. Retira el laurel y tritura la salsa hasta que quede fina; si está líquida, redúcela 3 minutos.",
     "Napa las cebollas con la salsa y sírvelas con pan."
@@ -197,9 +196,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Revisa las manitas y quema con la llama los pelos que queden. Ponlas en la olla con agua que las cubra, hierve 5 minutos y tira el agua.",
-    "Vuelve a ponerlas en la olla con el litro de agua, media cebolla, un laurel y sal. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 40 minutos. Deja que pierda la presión de forma natural.",
+    "Vuelve a ponerlas en la olla con el litro de agua, media cebolla, un laurel y sal. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 40 minutos. Deja que pierda la presión de forma natural. Mientras, pica la otra media cebolla, el pimiento y los ajos, corta el chorizo en rodajas y ralla los tomates.",
     "Saca las manitas, deja que templen y quítales los huesos grandes, dejando la carne y la piel en trozos. Cuela el caldo y guarda 600 ml.",
-    "En la olla limpia, calienta el aceite y sofríe la otra media cebolla, el pimiento y los ajos picados 8 minutos a fuego medio. Añade el chorizo en rodajas 2 minutos y los tomates rallados 5 minutos más.",
+    "En la olla limpia, calienta el aceite y sofríe la media cebolla, el pimiento y los ajos 8 minutos a fuego medio. Añade el chorizo 2 minutos y el tomate rallado 5 minutos más.",
     "Aparta del fuego, añade el pimentón y la guindilla, remueve y vierte el vino. Hierve 2 minutos.",
     "Añade los garbanzos escurridos, las manitas y el caldo reservado (deben quedar cubiertos) y el otro laurel. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 20 minutos. Deja que pierda la presión de forma natural.",
     "Abre, prueba de sal y hierve destapado 5-10 minutos, removiendo con cuidado, hasta que el caldo quede espeso y pegajoso por la gelatina. Reposa 10 minutos antes de servir."
@@ -319,11 +318,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los níscalos con un paño húmedo o un cepillo (sin dejarlos en remojo) y córtalos en trozos grandes.",
+    "Limpia los níscalos con un paño húmedo o un cepillo (sin dejarlos en remojo) y córtalos en trozos grandes. Pica la cebolla, el pimiento y el ajo, ralla el tomate y pela las patatas y cáscalas en trozos.",
     "Calienta el aceite en la olla a fuego medio-fuerte y saltea la panceta 2 minutos. Añade las setas y saltéalas 4 minutos, hasta que suelten el agua y se doren. Resérvalas.",
-    "Baja a fuego medio y sofríe la cebolla y el pimiento picados 7 minutos. Añade el ajo y el tomate rallado y cocina 4 minutos más.",
+    "Baja a fuego medio y sofríe la cebolla y el pimiento 7 minutos. Añade el ajo y el tomate rallado y cocina 4 minutos más.",
     "Aparta del fuego, añade el pimentón y remueve 20 segundos. Vierte el vino y deja hervir 1 minuto.",
-    "Incorpora las patatas cascadas, las setas con la panceta, el laurel, el agua y sal. Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Deja que pierda la presión de forma natural.",
+    "Incorpora las patatas, las setas con la panceta, el laurel, el agua y sal. Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Deja que pierda la presión de forma natural.",
     "Abre, aplasta un par de patatas para espesar el caldo, prueba de sal y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 633, prot: 16, hc: 68, grasa: 33 },
@@ -367,12 +366,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece un huevo en una cazuela con agua hirviendo 10 minutos, enfríalo y pélalo. Remoja la miga de pan en 50 ml de leche.",
+    "Cuece un huevo en una cazuela con agua hirviendo 10 minutos. Mientras, remoja la miga de pan en 50 ml de leche, pica el ajo y el perejil y trocea la cebolla y las zanahorias. Enfría el huevo y pélalo.",
     "En un bol mezcla las carnes con el otro huevo, la miga escurrida, el ajo y el perejil picados, sal y pimienta. Extiende la masa sobre papel de horno, pon el huevo duro en el centro y envuélvelo con la carne formando un rulo compacto. Pásalo por la harina.",
     "Calienta el aceite en la olla a fuego medio y dora el albondigón con cuidado por todos los lados, 6 minutos, girándolo con dos espátulas.",
-    "Añade alrededor la cebolla y las zanahorias troceadas y rehoga 3 minutos. Vierte el vino, deja hervir 2 minutos y añade el caldo y el laurel.",
+    "Añade alrededor la cebolla y las zanahorias y rehoga 3 minutos. Vierte el vino, deja hervir 2 minutos y añade el caldo y el laurel.",
     "Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 15 minutos. Deja que pierda la presión de forma natural.",
-    "Mientras, cuece las patatas peladas en trozos en la cazuela con agua y sal 18-20 minutos. Escúrrelas y aplástalas con la mantequilla y 80 ml de leche caliente hasta tener un puré fino.",
+    "Mientras, pela las patatas, trocéalas y cuécelas en la cazuela con agua y sal 18-20 minutos. Calienta los 80 ml de leche. Escurre las patatas y aplástalas con la mantequilla y la leche caliente hasta tener un puré fino.",
     "Saca el albondigón y deja que repose 5 minutos. Retira el laurel y tritura la salsa con las verduras. Corta en rodajas gruesas y sirve con el puré y la salsa por encima."
   ],
   nutricion: { kcal: 940, prot: 49, hc: 69, grasa: 52 },
@@ -412,8 +411,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Ata las patas de las codornices con hilo y salpimiéntalas. Calienta 3 cucharadas del aceite en la olla a fuego medio-fuerte y dóralas por todos los lados, 5 minutos.",
-    "Añade la zanahoria en rodajas, la cebolla en juliana, los ajos enteros ligeramente aplastados, el laurel, el tomillo y la pimienta, y rehoga 3 minutos.",
+    "Corta la zanahoria en rodajas y la cebolla en juliana. Ata las patas de las codornices con hilo y salpiméntalas. Calienta 3 cucharadas del aceite en la olla a fuego medio-fuerte y dóralas por todos los lados, 5 minutos.",
+    "Añade la zanahoria, la cebolla, los ajos enteros ligeramente aplastados, el laurel, el tomillo y la pimienta, y rehoga 3 minutos.",
     "Vierte el resto del aceite, el vinagre, el vino y el agua. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 8 minutos. Deja que pierda la presión de forma natural.",
     "Abre y deja que las codornices reposen en su escabeche al menos 15 minutos fuera del fuego (mejor varias horas o de un día para otro en la nevera).",
     "Mientras, lava y corta la lechuga y los tomates y alíñalos con sal y un par de cucharadas del propio escabeche.",
@@ -456,9 +455,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en la olla las alubias escurridas con media cebolla, el laurel, 1 cucharada de aceite y el agua fría. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 25 minutos. Deja que pierda la presión de forma natural.",
-    "Mientras, corta los cuerpos de los chipirones en anillas y deja las patas enteras. Sécalos bien con papel.",
+    "Mientras, corta los cuerpos de los chipirones en anillas y deja las patas enteras. Sécalos bien con papel. Pica la otra media cebolla, el pimiento y los ajos y ralla el tomate.",
     "Calienta 1 cucharada de aceite en una sartén a fuego fuerte y saltea los chipirones 2 minutos, hasta que se pongan blancos y suelten su jugo. Sácalos con su jugo a un plato.",
-    "En la misma sartén, con el resto del aceite, sofríe la otra media cebolla, el pimiento y los ajos picados 8 minutos a fuego medio. Añade la guindilla y el tomate rallado y cocina 4 minutos.",
+    "En la misma sartén, con el resto del aceite, sofríe la media cebolla, el pimiento y los ajos 8 minutos a fuego medio. Añade la guindilla y el tomate rallado y cocina 4 minutos.",
     "Vierte el vino (y la tinta, si la usas) y deja hervir 1 minuto.",
     "Abre la olla, retira la cebolla y el laurel y añade el sofrito y los chipirones con su jugo. Sala y deja hervir suave, destapado, 10 minutos, moviendo la olla para que el caldo engorde sin romper las alubias.",
     "Deja reposar 5 minutos antes de servir."
@@ -503,10 +502,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon en la olla el maíz y las alubias escurridos, la falda, la panceta en un trozo y el agua. Lleva a hervor destapado y retira la espuma 3 minutos.",
     "Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 40 minutos. Deja que pierda la presión de forma natural.",
-    "Mientras, sofríe la cebolla y el ajo picados en una sartén con 1 cucharada de aceite 8 minutos. Aparta del fuego y añade el comino y 1 cucharadita de pimentón.",
-    "Abre la olla, añade el sofrito, la calabaza pelada en dados y el chorizo en rodajas, y sala. Cierra y cuenta 10 minutos desde que alcance presión. Deja que pierda la presión de forma natural.",
+    "Mientras, pica la cebolla y el ajo y sofríelos en una sartén con 1 cucharada de aceite 8 minutos. Aparta del fuego y añade el comino y 1 cucharadita de pimentón. Pela la calabaza y córtala en dados, y corta el chorizo en rodajas.",
+    "Abre la olla, añade el sofrito, la calabaza y el chorizo, y sala. Cierra y cuenta 10 minutos desde que alcance presión. Deja que pierda la presión de forma natural. Mientras, pica muy fina la cebolleta y desmenuza la guindilla.",
     "Abre y cocina destapado a fuego suave 15 minutos, removiendo a menudo con cuchara de madera, hasta que la calabaza se deshaga y el locro quede espeso como un puré con tropezones. Saca la panceta, córtala y devuélvela.",
-    "Para la salsa, calienta el resto del aceite fuera del fuego con el resto del pimentón, la cebolleta muy picada y la guindilla desmenuzada.",
+    "Para la salsa, calienta el resto del aceite fuera del fuego con el resto del pimentón, la cebolleta y la guindilla.",
     "Sirve el locro en cuencos con una cucharada de la salsa roja por encima."
   ],
   nutricion: { kcal: 1010, prot: 49, hc: 82, grasa: 54 },
@@ -544,13 +543,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la olla el pollo, las cebolletas partidas en dos, los ajos, los tallos del cilantro atados, el agua y sal. Cierra; cuando alcance presión, baja a fuego medio y cuenta 10 minutos. Despresuriza de forma rápida.",
+    "Pon en la olla el pollo, las cebolletas partidas en dos, los ajos, los tallos del cilantro atados, el agua y sal. Cierra; cuando alcance presión, baja a fuego medio y cuenta 10 minutos. Mientras, pela las patatas harinosas y córtalas en rodajas finas: son las que se deshacen y espesan el ajiaco. Las pequeñas, pártelas por la mitad. Despresuriza de forma rápida.",
     "Saca el pollo y retira las cebolletas y los tallos de cilantro.",
-    "Pela las patatas harinosas y córtalas en rodajas finas: son las que se deshacen y espesan el ajiaco. Las pequeñas, pártelas por la mitad. Échalas al caldo con la mazorca y el orégano.",
+    "Echa las patatas al caldo con la mazorca y el orégano.",
     "Cierra y cuenta 8 minutos desde que alcance presión a fuego medio. Deja que pierda la presión de forma natural.",
-    "Mientras, desmenuza el pollo con dos tenedores, quitando piel y huesos.",
+    "Mientras, desmenuza el pollo con dos tenedores, quitando piel y huesos, y corta el aguacate en láminas.",
     "Abre, remueve con energía para que las patatas finas se deshagan y espesen la sopa. Añade el pollo y deja hervir suave 5 minutos. Prueba de sal.",
-    "Sirve en cuencos con un trozo de mazorca y lleva a la mesa la nata, las alcaparras, el aguacate en láminas y las hojas de cilantro para que cada uno se las ponga."
+    "Sirve en cuencos con un trozo de mazorca y lleva a la mesa la nata, las alcaparras, el aguacate y las hojas de cilantro para que cada uno se las ponga."
   ],
   nutricion: { kcal: 572, prot: 47, hc: 60, grasa: 16 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "poco especiada"],
@@ -591,12 +590,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el ossobuco y dóralo en la olla con el aceite a fuego fuerte, 3 minutos por lado.",
-    "Añade la cebolla en juliana, la zanahoria en rodajas, el pimiento en tiras y los ajos, y rehoga 4 minutos. Agrega el orégano y el comino y remueve 30 segundos.",
-    "Vierte el agua y sala. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 25 minutos. Despresuriza de forma rápida.",
-    "Abre y añade las patatas peladas enteras, la calabaza, la mazorca y el arroz. Cierra y cuenta 6 minutos desde que alcance presión. Despresuriza de forma rápida.",
-    "Añade las judías verdes troceadas y deja hervir destapado 4 minutos, hasta que estén tiernas pero verdes. Prueba de sal.",
-    "Sirve en platos hondos grandes: en cada uno, un trozo de carne, una papa, un trozo de zapallo y de choclo, cubiertos de caldo, y cilantro picado por encima."
+    "Corta la cebolla en juliana, la zanahoria en rodajas y el pimiento en tiras. Sala el ossobuco y dóralo en la olla con el aceite a fuego fuerte, 3 minutos por lado.",
+    "Añade la cebolla, la zanahoria, el pimiento y los ajos, y rehoga 4 minutos. Agrega el orégano y el comino y remueve 30 segundos.",
+    "Vierte el agua y sala. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 25 minutos. Mientras, pela las patatas (enteras), trocea las judías verdes y pica el cilantro. Despresuriza de forma rápida.",
+    "Abre y añade las patatas, la calabaza, la mazorca y el arroz. Cierra y cuenta 6 minutos desde que alcance presión. Despresuriza de forma rápida.",
+    "Añade las judías verdes y deja hervir destapado 4 minutos, hasta que estén tiernas pero verdes. Prueba de sal.",
+    "Sirve en platos hondos grandes: en cada uno, un trozo de carne, una papa, un trozo de zapallo y de choclo, cubiertos de caldo, y el cilantro por encima."
   ],
   nutricion: { kcal: 620, prot: 46, hc: 73, grasa: 16 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "poco especiada"],
@@ -636,9 +635,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en la olla la carne, los huesos, media cebolla, los ajos y el agua. Lleva a hervor destapado y retira la espuma 3-4 minutos.",
-    "Sala, cierra y, cuando alcance presión, baja a fuego medio-bajo y cuenta 30 minutos. Deja que pierda la presión de forma natural.",
-    "Retira los huesos y la cebolla. Añade las zanahorias en trozos grandes, las patatas peladas en mitades y la mazorca. Cierra y cuenta 4 minutos desde que alcance presión. Despresuriza de forma rápida.",
-    "Añade el calabacín en trozos grandes y la col en gajos y deja hervir destapado 3-4 minutos, hasta que estén tiernos.",
+    "Sala, cierra y, cuando alcance presión, baja a fuego medio-bajo y cuenta 30 minutos. Deja que pierda la presión de forma natural. Mientras, corta las zanahorias en trozos grandes, pela las patatas y pártelas en mitades, y corta el calabacín en trozos grandes y la col en gajos.",
+    "Retira los huesos y la cebolla. Añade las zanahorias, las patatas y la mazorca. Cierra y cuenta 4 minutos desde que alcance presión. Despresuriza de forma rápida.",
+    "Añade el calabacín y la col y deja hervir destapado 3-4 minutos, hasta que estén tiernos.",
     "Mientras, pica fina la otra media cebolla, el cilantro y el chile, y corta la lima en cuartos.",
     "Sirve en cuencos grandes con carne, verduras y mucho caldo, y que cada uno añada cebolla, cilantro, chile y un buen chorro de lima."
   ],
@@ -680,13 +679,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol, adoba la costilla con el zumo de la lima, 1 ajo machacado, sal y pimienta y deja 10 minutos.",
+    "En un bol, adoba la costilla con el zumo de la lima, 1 ajo machacado, sal y pimienta y deja 10 minutos. Mientras, pica la cebolla, el pimiento y los otros 2 ajos y trocea los tomates.",
     "Escurre y seca la carne. Calienta el aceite en la olla a fuego fuerte y dórala en dos tandas, 4 minutos cada una, hasta que esté bien tostada. Resérvala.",
-    "Baja a fuego medio y sofríe la cebolla, el pimiento y los otros 2 ajos picados 6 minutos. Añade los tomates troceados, el pimentón y el comino y cocina 4 minutos.",
-    "Devuelve la costilla y vierte el agua. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Deja que pierda la presión de forma natural.",
-    "Abre, retira con un cazo la grasa que flote y añade la yuca en trozos de 4 cm (quítale la fibra central). Cierra y cuenta 8 minutos desde que alcance presión. Deja que pierda la presión de forma natural.",
+    "Baja a fuego medio y sofríe la cebolla, el pimiento y los ajos 6 minutos. Añade los tomates, el pimentón y el comino y cocina 4 minutos.",
+    "Devuelve la costilla y vierte el agua. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Deja que pierda la presión de forma natural. Mientras, corta la yuca en trozos de 4 cm (quítale la fibra central) y pica el cilantro y la cebolleta.",
+    "Abre, retira con un cazo la grasa que flote y añade la yuca. Cierra y cuenta 8 minutos desde que alcance presión. Deja que pierda la presión de forma natural.",
     "Abre y remueve con energía: la yuca debe deshacerse en parte y dejar un guiso espeso y cremoso, como embarrado (atolado). Prueba de sal.",
-    "Sirve con el cilantro y la cebolleta picados por encima."
+    "Sirve con el cilantro y la cebolleta por encima."
   ],
   nutricion: { kcal: 922, prot: 39, hc: 88, grasa: 46 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "poco especiada"],
@@ -765,11 +764,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el pollo en la olla cubierto de agua, hierve 3 minutos y tira el agua: así el caldo queda limpio.",
-    "En un bol mezcla el gochujang, la soja, el azúcar, el pimentón, los ajos y el jengibre rallados y el agua.",
-    "Vuelve a poner el pollo en la olla con la patata pelada en trozos grandes, la zanahoria en trozos y la cebolla en gajos. Vierte la salsa por encima y remueve.",
-    "Cierra; cuando alcance presión, baja a fuego medio y cuenta 10 minutos. Deja que pierda la presión de forma natural.",
+    "Mientras, en un bol mezcla el gochujang, la soja, el azúcar, el pimentón, los ajos y el jengibre rallados y el agua. Pela la patata y córtala en trozos grandes, trocea la zanahoria y corta la cebolla en gajos.",
+    "Vuelve a poner el pollo en la olla con la patata, la zanahoria y la cebolla. Vierte la salsa por encima y remueve.",
+    "Cierra; cuando alcance presión, baja a fuego medio y cuenta 10 minutos. Deja que pierda la presión de forma natural. Mientras, corta la cebolleta en rodajas.",
     "Abre y deja hervir destapado 5 minutos a fuego medio, removiendo con cuidado, hasta que la salsa espese y se pegue a las patatas.",
-    "Sirve con la cebolleta en rodajas y el sésamo por encima."
+    "Sirve con la cebolleta y el sésamo por encima."
   ],
   nutricion: { kcal: 598, prot: 53, hc: 65, grasa: 14 },
   etiquetas: ["tradicional", "fácil", "económica", "picante", "alta en proteína", "bajo en colesterol"],
@@ -812,10 +811,10 @@ window.RECETAS_SEED.push({
     "Pon las costillas en un bol con agua fría 30 minutos para que suelten la sangre. Escúrrelas, hiérvelas 5 minutos en la olla con agua, tira el agua y enjuágalas.",
     "Mientras, tritura la pera pelada con el ajo, el jengibre, la soja, el azúcar, el mirin, el aceite de sésamo y el agua.",
     "Vuelve a poner las costillas en la olla con la salsa. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 25 minutos. Deja que pierda la presión de forma natural.",
-    "Mientras, cuece el arroz en una cazuela con el doble de agua 18 minutos a fuego suave tapado, y déjalo reposar.",
-    "Abre la olla y retira con un cazo la grasa de la superficie. Añade la zanahoria en trozos grandes, las castañas y las setas. Cierra y cuenta 4 minutos desde que alcance presión. Despresuriza de forma rápida.",
+    "Mientras, cuece el arroz en una cazuela con el doble de agua 18 minutos a fuego suave tapado, y déjalo reposar. Pela la zanahoria y córtala en trozos grandes, y pica la cebolleta.",
+    "Abre la olla y retira con un cazo la grasa de la superficie. Añade la zanahoria, las castañas y las setas. Cierra y cuenta 4 minutos desde que alcance presión. Despresuriza de forma rápida.",
     "Hierve destapado a fuego medio 5-8 minutos, rociando las costillas, hasta que la salsa se reduzca y quede brillante y espesa.",
-    "Sirve con el arroz, la cebolleta picada y el sésamo por encima."
+    "Sirve con el arroz, la cebolleta y el sésamo por encima."
   ],
   nutricion: { kcal: 1014, prot: 49, hc: 98, grasa: 48 },
   etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "poco especiada"],
@@ -857,13 +856,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta la mantequilla y el aceite en la olla a fuego medio y fríe una cebolla en juliana fina 12-15 minutos, removiendo, hasta que esté bien dorada. Saca la mitad para servir.",
-    "Sube el fuego, añade la carne salada y dórala 5 minutos. Agrega el ajo y 20 g de jengibre rallados y la otra cebolla picada, y rehoga 3 minutos.",
+    "Corta una cebolla en juliana fina y pica la otra; ralla el ajo y 20 g de jengibre. Calienta la mantequilla y el aceite en la olla a fuego medio y fríe la cebolla en juliana 12-15 minutos, removiendo, hasta que esté bien dorada. Saca la mitad para servir.",
+    "Sube el fuego, añade la carne salada y dórala 5 minutos. Agrega el ajo y el jengibre rallados y la cebolla picada, y rehoga 3 minutos.",
     "Baja el fuego, añade todas las especias secas y remueve 30 segundos, sin que se quemen. Vierte el agua y rasca el fondo.",
-    "Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 45 minutos. Deja que pierda la presión de forma natural.",
+    "Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 45 minutos. Deja que pierda la presión de forma natural. Mientras, corta en juliana los 10 g de jengibre restantes, pica el cilantro y corta la lima en cuartos.",
     "En un bol, deslíe la harina en 100 ml del caldo de la olla, sin grumos. Viértela en la olla abierta y cocina a fuego suave 8-10 minutos, removiendo, hasta que la salsa espese y brille.",
     "Calienta los naan en una sartén seca 1 minuto por lado.",
-    "Sirve el nihari con la cebolla frita reservada, el jengibre en juliana, el cilantro picado y la lima en cuartos, con el pan para mojar."
+    "Sirve el nihari con la cebolla frita reservada, el jengibre en juliana, el cilantro y la lima, con el pan para mojar."
   ],
   nutricion: { kcal: 826, prot: 62, hc: 63, grasa: 36 },
   etiquetas: ["tradicional", "saciante", "fácil", "picante", "invierno", "sin verduras"],
@@ -904,12 +903,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la olla los guisantes partidos lavados con la cúrcuma y 500 ml de agua. Cierra; cuando alcance presión, baja a fuego medio y cuenta 10 minutos. Deja que pierda la presión de forma natural.",
+    "Pon en la olla los guisantes partidos lavados con la cúrcuma y 500 ml de agua. Cierra; cuando alcance presión, baja a fuego medio y cuenta 10 minutos. Deja que pierda la presión de forma natural. Mientras, corta la berenjena, la calabaza y la zanahoria en dados de 3 cm, trocea las judías verdes, pica el tomate, la cebolla y el cilantro.",
     "Abre y bate el dal con unas varillas hasta que quede cremoso.",
-    "Añade la berenjena, la calabaza y la zanahoria en dados de 3 cm, las judías verdes troceadas, el tomate y la cebolla picados, el curry, la pasta de tamarindo, sal y los 300 ml de agua restantes.",
+    "Añade la berenjena, la calabaza, la zanahoria, las judías verdes, el tomate y la cebolla, el curry, la pasta de tamarindo, sal y los 300 ml de agua restantes.",
     "Cierra y cuenta 3 minutos desde que alcance presión a fuego medio. Despresuriza de forma rápida para que las verduras queden enteras.",
     "Prepara el tadka: calienta el aceite en una sartén pequeña a fuego medio-fuerte y echa las semillas de mostaza; cuando empiecen a saltar (30 segundos), añade la guindilla desmenuzada y apaga.",
-    "Vierte el tadka chisporroteando sobre el sambar, remueve, prueba de sal y sirve con cilantro picado."
+    "Vierte el tadka chisporroteando sobre el sambar, remueve, prueba de sal y sirve con el cilantro."
   ],
   nutricion: { kcal: 404, prot: 18, hc: 65, grasa: 8 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "vegana", "batch cooking", "detox", "bajo en colesterol"],
@@ -948,12 +947,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Corta el puerro, las zanahorias y el apio en bastoncitos finos y las patatas en dados de 2 cm.",
+    "Corta el puerro, las zanahorias y el apio en bastoncitos finos y las patatas en dados de 2 cm. Pica el perejil.",
     "Derrite la mantequilla en la olla a fuego medio y rehoga las verduras en bastones (no las patatas) 4 minutos, sin que tomen color.",
     "Añade el pollo salpimentado, las patatas, el caldo y el laurel. Cierra; cuando alcance presión, baja a fuego medio y cuenta 10 minutos. Despresuriza de forma rápida.",
     "Saca el pollo, quítale los huesos y desmenúzalo en trozos grandes. Devuélvelo a la olla.",
     "En un bol bate la nata con la yema. Añade un cazo de caldo caliente sin dejar de batir para templarla.",
-    "Con la olla fuera del fuego, vierte la mezcla y remueve hasta que el caldo se vuelva cremoso; no dejes que hierva o la yema se cuajará. Añade un chorrito de limón, prueba de sal y sirve con perejil picado."
+    "Con la olla fuera del fuego, vierte la mezcla y remueve hasta que el caldo se vuelva cremoso; no dejes que hierva o la yema se cuajará. Añade un chorrito de limón, prueba de sal y sirve con el perejil."
   ],
   nutricion: { kcal: 560, prot: 40, hc: 42, grasa: 25 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "para niños", "invierno", "poco especiada"],
@@ -992,10 +991,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita el troncho del repollo con un cuchillo y escáldalo entero en una cazuela con agua hirviendo 5 minutos; ve separando las hojas exteriores a medida que se ablandan. Saca 8 hojas grandes y recorta la vena central gruesa.",
-    "Sofríe la cebolla picada en la olla con el aceite 5 minutos. Pasa la mitad a un bol y mézclala con las carnes, el arroz lavado, el pimentón, sal y pimienta.",
+    "Quita el troncho del repollo con un cuchillo y escáldalo entero en una cazuela con agua hirviendo 5 minutos; ve separando las hojas exteriores a medida que se ablandan. Mientras, pica la cebolla y trocea el bacon. Saca 8 hojas grandes y recorta la vena central gruesa.",
+    "Sofríe la cebolla en la olla con el aceite 5 minutos. Pasa la mitad a un bol y mézclala con las carnes, el arroz lavado, el pimentón, sal y pimienta.",
     "Pon una cucharada grande de relleno en la base de cada hoja, dobla los laterales hacia dentro y enrolla apretando, como un paquetito.",
-    "Pica el resto del repollo y extiéndelo en el fondo de la olla, sobre la cebolla que quedaba. Coloca encima los rollitos apretados, con el cierre hacia abajo, y reparte el bacon troceado y el laurel.",
+    "Pica el resto del repollo y extiéndelo en el fondo de la olla, sobre la cebolla que quedaba. Coloca encima los rollitos apretados, con el cierre hacia abajo, y reparte el bacon y el laurel.",
     "Disuelve el tomate concentrado en el agua con una pizca de sal y viértelo por encima: debe llegar casi a cubrirlos. Pon un plato pequeño encima para que no se muevan.",
     "Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 20 minutos. Deja que pierda la presión de forma natural.",
     "Sirve 4 rollitos por persona con el repollo y su caldo, y una cucharada de yogur por encima."
@@ -1034,11 +1033,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la carne. Derrite la mitad de la mantequilla en la olla a fuego medio-fuerte y dórala 3 minutos por cada lado.",
-    "Añade 1 cebolla en juliana y rehoga 3 minutos. Vierte el caldo y añade el laurel y los clavos.",
-    "Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Despresuriza de forma rápida.",
-    "Añade alrededor de la carne las patatas peladas en trozos, las zanahorias en rodajas gruesas y la otra cebolla en gajos. Cierra y cuenta 6 minutos desde que alcance presión. Deja que pierda la presión de forma natural.",
-    "Saca la carne y deja que repose tapada. Retira el laurel y los clavos. Escurre las verduras guardando el jugo.",
+    "Corta 1 cebolla en juliana. Salpimienta la carne. Derrite la mitad de la mantequilla en la olla a fuego medio-fuerte y dórala 3 minutos por cada lado.",
+    "Añade la cebolla en juliana y rehoga 3 minutos. Vierte el caldo y añade el laurel y los clavos.",
+    "Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Mientras, pela las patatas y trocéalas, corta las zanahorias en rodajas gruesas y la otra cebolla en gajos. Despresuriza de forma rápida.",
+    "Añade alrededor de la carne las patatas, las zanahorias y la cebolla en gajos. Cierra y cuenta 6 minutos desde que alcance presión. Deja que pierda la presión de forma natural.",
+    "Saca la carne y deja que repose tapada. Retira el laurel y los clavos. Escurre las verduras guardando el jugo. Calienta la leche.",
     "Machaca las verduras con un pasapurés o tenedor con el resto de la mantequilla, la leche caliente y un poco del jugo, hasta tener un puré grueso, con trozos. Salpimienta.",
     "Corta la carne en lonchas contra la fibra y sírvela sobre el hutspot, regada con el jugo restante."
   ],
@@ -1080,8 +1079,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y el cerdo en trozos grandes. Calienta el aceite en la olla a fuego fuerte y dóralos 5 minutos.",
-    "Añade la cebolla picada y rehoga 4 minutos a fuego medio. Agrega el pimentón y remueve 20 segundos.",
+    "Pica la cebolla. Salpimienta el pollo y el cerdo en trozos grandes. Calienta el aceite en la olla a fuego fuerte y dóralos 5 minutos.",
+    "Añade la cebolla y rehoga 4 minutos a fuego medio. Agrega el pimentón y remueve 20 segundos.",
     "Incorpora el tomate, el caldo, el kétchup, la salsa worcestershire, el vinagre y el azúcar, y remueve rascando el fondo.",
     "Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 15 minutos. Deja que pierda la presión de forma natural.",
     "Saca las carnes y desmenúzalas con dos tenedores. Devuélvelas a la olla con el maíz escurrido y las habas.",

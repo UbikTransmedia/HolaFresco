@@ -73,11 +73,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos. En el mismo cazo, los últimos 10 minutos, cuece el huevo. Escurre, pela el huevo y aplasta las patatas con la leche caliente y la mantequilla hasta tener un puré firme.",
-    "Mientras, pocha la cebolla y el pimiento picados en una sartén con el aceite a fuego medio 10 minutos, hasta que estén blandos.",
+    "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos. En el mismo cazo, los últimos 10 minutos, cuece el huevo.",
+    "Mientras, pica la cebolla y el pimiento y póchalos en una sartén con el aceite a fuego medio 10 minutos, hasta que estén blandos. Precalienta el horno a 200 °C con grill.",
     "Sube el fuego, añade la carne con sal y pimienta y deshazla con la cuchara 6-8 minutos, hasta que pierda el color rosado. Añade el pimentón y el comino y cocina 1 minuto más.",
-    "Precalienta el horno a 200 °C con grill. Extiende la carne en una fuente pequeña, reparte encima el huevo duro picado y las aceitunas en rodajas.",
-    "Cubre con el puré, alisa con un tenedor dejando surcos y espolvorea el queso rallado.",
+    "Escurre las patatas, pela el huevo y aplasta las patatas con la leche caliente y la mantequilla hasta tener un puré firme. Pica el huevo duro y corta las aceitunas en rodajas.",
+    "Extiende la carne en una fuente pequeña, reparte encima el huevo duro picado y las aceitunas. Cubre con el puré, alisa con un tenedor dejando surcos y espolvorea el queso rallado.",
     "Hornea 15 minutos, hasta que la superficie esté dorada. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 590, prot: 34, hc: 50, grasa: 28 },
@@ -114,12 +114,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece un huevo 10 minutos, enfríalo y pícalo. Corta las aceitunas en trocitos.",
-    "Derrite la manteca en una sartén y pocha la cebolla picada fina a fuego medio 10 minutos, hasta que esté transparente.",
+    "Cuece un huevo 10 minutos. Mientras, pica fina la cebolla y la cebolleta y corta la carne en daditos muy pequeños si no lo están. Enfría el huevo, pélalo y pícalo. Corta las aceitunas en trocitos.",
+    "Derrite la manteca en una sartén y pocha la cebolla a fuego medio 10 minutos, hasta que esté transparente.",
     "Añade la carne en daditos y saltea 4-5 minutos a fuego fuerte, solo hasta que pierda el color. Aparta del fuego, sazona con sal, pimienta, pimentón y comino y añade la cebolleta picada.",
-    "Extiende el relleno en una fuente y deja que se enfríe del todo (mejor 30 minutos en la nevera); así la grasa se solidifica y las empanadas quedan jugosas.",
-    "Precalienta el horno a 210 °C. Pon una cucharada de relleno en el centro de cada tapa, añade huevo duro y aceituna, moja el borde con agua y cierra en media luna.",
-    "Haz el repulgue pellizcando y doblando el borde sobre sí mismo, o sella con un tenedor. Ponlas en una bandeja con papel y píntalas con huevo batido.",
+    "Extiende el relleno en una fuente y deja que se enfríe del todo (mejor 30 minutos en la nevera); así la grasa se solidifica y las empanadas quedan jugosas. Hacia el final del enfriado, precalienta el horno a 210 °C y bate el otro huevo para pintar.",
+    "Pon una cucharada de relleno en el centro de cada tapa, añade huevo duro y aceituna, moja el borde con agua y cierra en media luna.",
+    "Haz el repulgue pellizcando y doblando el borde sobre sí mismo, o sella con un tenedor. Ponlas en una bandeja con papel y píntalas con el huevo batido.",
     "Hornea 15-18 minutos, hasta que estén bien doradas. Déjalas reposar 5 minutos: el relleno sale muy caliente."
   ],
   nutricion: { kcal: 770, prot: 32, hc: 70, grasa: 40 },
@@ -159,11 +159,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que estén tiernas. Escúrrelas y aplástalas con la leche caliente y la mantequilla hasta tener un puré fino. Resérvalo tapado.",
-    "Bate el huevo con el ajo y el perejil muy picados y una pizca de sal. Pasa los filetes por el huevo y luego por el pan rallado, apretando bien.",
+    "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que estén tiernas.",
+    "Mientras cuecen, pica muy finos el ajo y el perejil y bátelos con el huevo y una pizca de sal. Pasa los filetes por el huevo y luego por el pan rallado, apretando bien. Corta la mozzarella en lonchas y sazona el tomate triturado con sal y orégano.",
+    "Escurre las patatas y aplástalas con la leche caliente y la mantequilla hasta tener un puré fino. Resérvalo tapado. Precalienta el grill del horno.",
     "Fríe las milanesas en una sartén con un dedo de aceite a fuego medio-alto 2 minutos por cada lado, hasta que estén doradas. Escúrrelas sobre papel.",
-    "Precalienta el grill del horno. Sazona el tomate triturado con sal y orégano.",
-    "Coloca las milanesas en una bandeja, cubre cada una con una loncha de jamón, unas cucharadas de tomate y la mozzarella en lonchas.",
+    "Coloca las milanesas en una bandeja, cubre cada una con una loncha de jamón, unas cucharadas de tomate y la mozzarella.",
     "Gratina 4-5 minutos, hasta que el queso esté fundido y con puntos dorados. Sirve enseguida con el puré."
   ],
   nutricion: { kcal: 800, prot: 50, hc: 60, grasa: 40 },
@@ -198,9 +198,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C con calor arriba y abajo.",
     "En un bol, mezcla los ajos machacados, el pimentón, el orégano, el zumo de medio limón, 1 cucharada de aceite, sal y pimienta. Añade las alitas secas y embadúrnalas bien. Si tienes tiempo, déjalas así una hora en la nevera.",
-    "Lava las patatas con piel y córtalas en gajos. Alíñalas con el resto del aceite y sal.",
+    "Precalienta el horno a 210 °C con calor arriba y abajo.",
+    "Mientras se calienta, lava las patatas con piel y córtalas en gajos. Alíñalas con el resto del aceite y sal.",
     "Reparte alitas y patatas en una o dos bandejas con papel de horno, sin que se amontonen, con las alitas con la piel hacia arriba.",
     "Hornea 40-45 minutos, dando la vuelta a todo a mitad de cocción, hasta que las alitas estén doradas y crujientes y las patatas tiernas por dentro.",
     "Sirve todo en una fuente con unas gotas de limón por encima."
@@ -278,8 +278,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava bien las papas sin pelarlas y ponlas en una olla con agua justo para cubrirlas y la sal gruesa. Cuécelas 20-25 minutos, hasta que se pinchen con facilidad.",
-    "Mientras, precalienta el horno a 210 °C. Unta el pollo con 1 cucharada de aceite, sal y la mitad del comino y hornéalo 25 minutos, hasta que esté dorado y jugoso.",
+    "Precalienta el horno a 210 °C. Lava bien las papas sin pelarlas y ponlas en una olla con agua justo para cubrirlas y la sal gruesa. Cuécelas 20-25 minutos, hasta que se pinchen con facilidad.",
+    "Mientras, unta el pollo con 1 cucharada de aceite, sal y la mitad del comino y hornéalo 25 minutos, hasta que esté dorado y jugoso.",
     "Para el mojo, tritura los ajos, la guindilla, el resto del comino, el pimentón, el pan, el vinagre, 3 cucharadas de aceite, una pizca de sal y 2 cucharadas de agua hasta tener una salsa espesa. Si queda muy densa, añade un poco más de agua.",
     "Cuando las papas estén cocidas, tira el agua, devuélvelas a la olla y ponlas a fuego suave sin tapa 3-4 minutos, moviendo la olla, hasta que se sequen y la piel se arrugue cubierta de sal blanca.",
     "Sirve el pollo cortado en trozos con las papas arrugadas enteras y el mojo picón para mojar."
@@ -316,10 +316,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el lomo en un bol con 2 ajos picados, el pimentón, sal y la mitad del vino. Mezcla y deja reposar mientras haces las patatas.",
+    "Pon el lomo en un bol con 2 ajos picados, el pimentón, sal y la mitad del vino. Mezcla y deja reposar mientras preparas el resto. Corta los pimientos verdes en tiras, lamina los otros 2 ajos y pica el perejil.",
     "Pela las patatas, córtalas en bastones o en dados y fríelas en abundante aceite: 8 minutos a fuego medio y 3 minutos a fuego fuerte, hasta que estén doradas. Sala y reserva.",
-    "En una sartén con 2 cucharadas de aceite, fríe los pimientos verdes en tiras a fuego medio 6-7 minutos, hasta que estén blandos. Sálalos y resérvalos.",
-    "En la misma sartén, a fuego fuerte, fríe los otros 2 ajos laminados 30 segundos y añade el raxo escurrido. Saltéalo 5-6 minutos, hasta que esté dorado por fuera.",
+    "En una sartén con 2 cucharadas de aceite, fríe los pimientos a fuego medio 6-7 minutos, hasta que estén blandos. Sálalos y resérvalos.",
+    "En la misma sartén, a fuego fuerte, fríe los ajos laminados 30 segundos y añade el raxo escurrido. Saltéalo 5-6 minutos, hasta que esté dorado por fuera.",
     "Vierte el resto del vino y la marinada, deja que hierva 2 minutos hasta que quede un jugo corto, y añade el perejil picado.",
     "Sirve el raxo con su jugo, las patatas fritas y los pimientos, todo junto en la misma fuente como en las tabernas gallegas."
   ],
@@ -397,9 +397,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 190 °C. Corta las patatas en rodajas finas y la cebolla en juliana; ponlas en una fuente con sal y 2 cucharadas de aceite, cubre con papel de aluminio y hornea 25 minutos.",
     "Pon el pimiento rojo entero en otra bandeja y hornéalo a la vez, dándole la vuelta a mitad, 40 minutos, hasta que la piel esté tostada.",
-    "Destapa las patatas y hornéalas 15-20 minutos más, hasta que estén tiernas y doradas por los bordes.",
+    "Destapa las patatas y hornéalas 15-20 minutos más, hasta que estén tiernas y doradas por los bordes. Mientras, saca los medallones de la nevera para que se atemperen unos 20 minutos y lamina el ajo.",
     "Mete el pimiento en un recipiente tapado 10 minutos, pélalo, quítale las semillas y córtalo en tiras. Alíñalo con el ajo laminado, sal y un hilo de aceite.",
-    "Saca los medallones de la nevera 20 minutos antes. Calienta la plancha a fuego muy fuerte, unta los medallones con unas gotas de aceite y ásalos 3 minutos por cada lado para un punto jugoso (4 minutos si los quieres más hechos).",
+    "Calienta la plancha a fuego muy fuerte, unta los medallones con unas gotas de aceite y ásalos 3 minutos por cada lado para un punto jugoso (4 minutos si los quieres más hechos).",
     "Déjalos reposar 3 minutos sobre una tabla y sírvelos con sal en escamas y pimienta recién molida, las patatas panadera y los pimientos asados."
   ],
   nutricion: { kcal: 535, prot: 40, hc: 40, grasa: 24 },
@@ -431,8 +431,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", u: "al gusto", nota: "para freír" }
   ],
   pasos: [
-    "Saca el chuletón de la nevera al menos 1 hora antes para que esté a temperatura ambiente. Sécalo bien con papel de cocina.",
-    "Fríe las patatas en bastones en abundante aceite, 8 minutos a fuego medio y 3-4 minutos a fuego fuerte, hasta que estén doradas. Sala y resérvalas al calor.",
+    "Saca el chuletón de la nevera al menos 1 hora antes para que esté a temperatura ambiente. Sécalo bien con papel de cocina. Mientras se atempera, pela las patatas, córtalas en bastones, lávalas y sécalas, y lamina el ajo.",
+    "Fríe las patatas en abundante aceite, 8 minutos a fuego medio y 3-4 minutos a fuego fuerte, hasta que estén doradas. Sala y resérvalas al calor.",
     "Confita los piquillos con el ajo laminado y 2 cucharadas de aceite en una sartén a fuego suave 10 minutos, hasta que estén tiernos.",
     "Calienta una sartén de hierro o plancha gruesa a fuego máximo durante 5 minutos, hasta que humee. Pon primero el chuletón de pie, apoyado sobre la grasa del borde, 2 minutos para que se derrita.",
     "Túmbalo y ásalo 4-5 minutos por cada lado sin moverlo, hasta que tenga una costra oscura. Para un punto más hecho, añade 1-2 minutos por lado.",
@@ -471,10 +471,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas con piel en gajos, alíñalas con 1 cucharada de aceite, sal y las hojas de romero y hornéalas 35-40 minutos, hasta que estén doradas y tiernas.",
-    "Corta los tomates en gajos y la cebolleta en aros finos; aliña con el resto del aceite y sal en el momento de servir.",
-    "Saca la presa de la nevera 15 minutos antes. Calienta la plancha a fuego muy fuerte, sin aceite.",
+    "Mientras, corta los tomates en gajos y la cebolleta en aros finos; los aliñarás con el resto del aceite y sal en el momento de servir. Unos 15 minutos antes de que acaben las patatas, saca la presa de la nevera.",
+    "Calienta la plancha a fuego muy fuerte, sin aceite.",
     "Asa la presa entera 4 minutos por cada lado, hasta que esté dorada por fuera y rosada y jugosa por dentro.",
-    "Déjala reposar 3 minutos, córtala en tiras gruesas y sírvela con sal en escamas, las patatas al romero y la ensalada de tomate."
+    "Déjala reposar 3 minutos, aliña la ensalada, corta la presa en tiras gruesas y sírvela con sal en escamas, las patatas al romero y la ensalada de tomate."
   ],
   nutricion: { kcal: 580, prot: 34, hc: 35, grasa: 34 },
   etiquetas: ["tradicional", "fácil", "para invitados", "al horno", "verano", "poco especiada"],
@@ -512,8 +512,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 180 °C. Salpimienta bien el muslo, úntalo con el aceite y frótalo con las hojas de tomillo.",
     "Pon en una fuente la cebolla en gajos y los ajos con piel, coloca el muslo encima y vierte el vino y el caldo.",
-    "Tapa la fuente con papel de aluminio y hornea 1 hora.",
-    "Destapa, riega el muslo con su jugo y añade alrededor las manzanas en cuartos sin corazón y las castañas.",
+    "Tapa la fuente con papel de aluminio y hornea 1 hora. Mientras, corta las manzanas en cuartos y quítales el corazón.",
+    "Destapa, riega el muslo con su jugo y añade alrededor las manzanas y las castañas.",
     "Hornea destapado 50-60 minutos más, regando cada 20 minutos, hasta que la piel esté dorada, la carne se separe del hueso con facilidad y las manzanas estén blandas.",
     "Deja reposar 10 minutos, separa la carne del hueso en trozos grandes y sírvela con las manzanas, las castañas, la cebolla y el jugo de la fuente."
   ],
@@ -553,12 +553,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el magro. Calienta 2 cucharadas de aceite en una cazuela a fuego fuerte y dora la carne por tandas 4-5 minutos, hasta que tenga costra. Resérvala.",
-    "Baja a fuego medio, añade la cebolla y el ajo picados y pocha 8 minutos, hasta que la cebolla esté blanda y dorada.",
+    "Pica la cebolla y el ajo. Salpimienta el magro. Calienta 2 cucharadas de aceite en una cazuela a fuego fuerte y dora la carne por tandas 4-5 minutos, hasta que tenga costra. Resérvala.",
+    "Baja a fuego medio, añade la cebolla y el ajo y pocha 8 minutos, hasta que la cebolla esté blanda y dorada.",
     "Incorpora el pimentón y la cayena, remueve 20 segundos sin que se queme y vierte el vino. Deja que evapore el alcohol 2 minutos.",
     "Añade el tomate, el laurel y la carne con sus jugos. Tapa y cuece a fuego suave 35 minutos, removiendo de vez en cuando, hasta que el magro esté tierno y la salsa espesa. Si se seca, añade un chorrito de agua.",
+    "Mientras se guisa, corta el pan en triángulos y fríelo en una sartén con el resto del aceite hasta que esté dorado y crujiente. Escúrrelo sobre papel.",
     "Echa los guisantes y cuece 5 minutos más, destapado. Prueba de sal.",
-    "Mientras, corta el pan en triángulos y fríelo en una sartén con el resto del aceite hasta que esté dorado y crujiente.",
     "Sirve las carcamusas en cazuelitas de barro, bien calientes, con el pan frito clavado alrededor para mojar."
   ],
   nutricion: { kcal: 720, prot: 46, hc: 42, grasa: 38 },
@@ -593,8 +593,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pincha las butifarras con un tenedor en varios puntos para que no revienten.",
     "Ásalas en la plancha o en una sartén a fuego medio con unas gotas de aceite 12-15 minutos, dándoles la vuelta, hasta que estén bien doradas por todos lados y hechas por dentro.",
-    "Mientras, en otra sartén con 2 cucharadas de aceite, dora a fuego medio 2 ajos laminados.",
-    "Añade las judías escurridas y saltéalas a fuego medio-alto 5-6 minutos, moviendo la sartén, hasta que algunas se tuesten y queden doraditas. Sala y añade perejil picado.",
+    "Mientras, lamina 2 ajos y pica el perejil. En otra sartén con 2 cucharadas de aceite, dora a fuego medio los ajos laminados.",
+    "Añade las judías escurridas y saltéalas a fuego medio-alto 5-6 minutos, moviendo la sartén, hasta que algunas se tuesten y queden doraditas. Sala y añade el perejil picado.",
     "Para el allioli rápido, machaca el otro ajo en el mortero con una pizca de sal, añade la mayonesa y un hilo de aceite y mezcla.",
     "Sirve la butifarra entera sobre las mongetes con el allioli al lado."
   ],
@@ -630,7 +630,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pincha los chorizos con un tenedor y córtalos en trozos de 3 cm (o déjalos enteros si son pequeños).",
     "Ponlos en una cazuela de barro o un cazo con la sidra y el laurel. Lleva a ebullición y cuece a fuego medio 15-20 minutos, hasta que la sidra se reduzca a la mitad y el chorizo suelte su grasa roja.",
-    "Mientras, fríe las patatas en dados o bastones en abundante aceite, 8 minutos a fuego medio y 3 a fuego fuerte, hasta que estén doradas. Sala.",
+    "Mientras, pela las patatas, córtalas en dados o bastones y fríelas en abundante aceite, 8 minutos a fuego medio y 3 a fuego fuerte, hasta que estén doradas. Sala.",
     "Prueba el jugo: si está ácido o muy líquido, déjalo reducir unos minutos más hasta que quede ligeramente meloso.",
     "Sirve los chorizos en su cazuela con el jugo, las patatas al lado y el pan para mojar."
   ],
@@ -668,8 +668,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el pollo y dóralo en una cazuela con el aceite a fuego medio-alto 8-10 minutos, hasta que esté dorado por todos lados. Sácalo.",
-    "En el mismo aceite, añade los ajos con piel, la cebolla en juliana y las zanahorias en rodajas y rehoga 5 minutos a fuego medio, hasta que la cebolla esté transparente.",
+    "Corta la cebolla en juliana y las zanahorias, peladas, en rodajas. Sala el pollo y dóralo en una cazuela con el aceite a fuego medio-alto 8-10 minutos, hasta que esté dorado por todos lados. Sácalo.",
+    "En el mismo aceite, añade los ajos con piel, la cebolla y las zanahorias y rehoga 5 minutos a fuego medio, hasta que la cebolla esté transparente.",
     "Incorpora el laurel, el tomillo y la pimienta en grano, y remueve 30 segundos.",
     "Devuelve el pollo, vierte el vinagre, el vino y 150 ml de agua. Lleva a ebullición, tapa y cuece a fuego suave 35-40 minutos, hasta que el pollo esté tierno y se separe del hueso.",
     "Prueba de sal y deja templar en la cazuela. Lo ideal es dejarlo reposar al menos unas horas o de un día para otro en la nevera para que coja sabor.",
@@ -710,13 +710,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir el caldo, añade los filetes de pechuga y cuécelos a fuego suave 8 minutos. Sácalos, sécalos con papel y deja que se enfríen. Guarda 100 ml del caldo.",
+    "Pon a hervir el caldo, añade los filetes de pechuga y cuécelos a fuego suave 8 minutos. Mientras, calienta la leche en otro cazo. Saca los filetes, sécalos con papel y deja que se enfríen. Guarda 100 ml del caldo.",
     "Para la bechamel, derrite la mantequilla en un cazo, añade la harina y tuéstala 2 minutos. Ve añadiendo la leche y el caldo reservado, calientes, poco a poco y sin dejar de remover con varillas.",
     "Cocina a fuego suave 10 minutos removiendo, hasta que esté muy espesa (que al pasar la cuchara se vea el fondo). Sazona con sal, pimienta y nuez moscada.",
-    "Con un tenedor, baña cada filete en la bechamel caliente por los dos lados y colócalo en una bandeja con papel engrasado. Déjalos enfriar 1 hora en la nevera, hasta que la bechamel esté firme.",
-    "Pasa cada filete con cuidado por huevo batido y pan rallado.",
+    "Con un tenedor, baña cada filete en la bechamel caliente por los dos lados y colócalo en una bandeja con papel engrasado. Déjalos enfriar 1 hora en la nevera, hasta que la bechamel esté firme. Mientras, bate los huevos en un plato y corta el tomate en rodajas.",
+    "Pasa cada filete con cuidado por el huevo batido y el pan rallado.",
     "Fríelos en abundante aceite caliente (175 °C) 2 minutos por cada lado, hasta que estén dorados. Escúrrelos sobre papel.",
-    "Sirve con el tomate en rodajas aliñado con aceite y sal."
+    "Sirve con el tomate aliñado con aceite y sal."
   ],
   nutricion: { kcal: 670, prot: 46, hc: 45, grasa: 34 },
   etiquetas: ["tradicional", "saciante", "económica", "para niños", "de domingo", "batch cooking", "poco especiada"],
@@ -751,10 +751,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava la berenjena, el pimiento y la cebolla con piel, úntalos con un poco de aceite y ponlos enteros en una bandeja.",
-    "Ásalos 50-60 minutos, dándoles la vuelta a mitad, hasta que la berenjena esté blanda y arrugada y el pimiento con la piel tostada. Saca antes la cebolla si ya está tierna.",
+    "Ásalos 50-60 minutos, dándoles la vuelta a mitad, hasta que la berenjena esté blanda y arrugada y el pimiento con la piel tostada. Saca antes la cebolla si ya está tierna. Mientras, pica el ajo muy fino y sazona los contramuslos con sal y pimentón.",
     "Mete las verduras en un recipiente tapado 10 minutos para que suden; así se pelan fácilmente.",
-    "Pela las verduras y córtalas en tiras con las manos. Colócalas en una fuente, alíñalas con el ajo picado muy fino, 1 cucharada de aceite y sal en escamas.",
-    "Sazona los contramuslos con sal y pimentón y ásalos en la plancha caliente con unas gotas de aceite 5-6 minutos por cada lado, hasta que estén dorados y hechos por dentro.",
+    "Pela las verduras y córtalas en tiras con las manos. Colócalas en una fuente, alíñalas con el ajo picado, 1 cucharada de aceite y sal en escamas.",
+    "Asa los contramuslos en la plancha caliente con unas gotas de aceite 5-6 minutos por cada lado, hasta que estén dorados y hechos por dentro.",
     "Sirve el pollo sobre la escalivada templada."
   ],
   nutricion: { kcal: 415, prot: 34, hc: 20, grasa: 22 },
@@ -840,8 +840,8 @@ window.RECETAS_SEED.push({
     "Haz unos cortes en la carne del pollo, úntalo bien con el adobo (también bajo la piel) y déjalo marinar en la nevera al menos 1 hora, mejor toda la noche.",
     "Precalienta el horno a 200 °C. Coloca las mitades de pollo con la piel hacia arriba sobre una rejilla, con una bandeja debajo con un poco de agua para recoger el jugo.",
     "Asa 50-60 minutos, pintando con el adobo sobrante a mitad de cocción, hasta que la piel esté muy dorada y al pinchar el muslo salga jugo transparente. Los últimos 5 minutos, pon el grill para que la piel quede crujiente.",
-    "Mientras, mezcla la mayonesa con la pasta de ají amarillo y el zumo de la otra media lima para hacer la salsa.",
-    "Fríe las patatas en bastones en abundante aceite: 8 minutos a fuego medio y 3-4 minutos a fuego fuerte. Sala.",
+    "Mientras, mezcla la mayonesa con la pasta de ají amarillo y el zumo de la otra media lima para hacer la salsa. Pela las patatas, córtalas en bastones, lávalas y sécalas.",
+    "Fríe las patatas en abundante aceite: 8 minutos a fuego medio y 3-4 minutos a fuego fuerte. Sala.",
     "Sirve medio pollo por persona con las papas fritas y la salsa de ají al lado."
   ],
   nutricion: { kcal: 865, prot: 60, hc: 55, grasa: 45 },
@@ -963,10 +963,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el pavo con el ajo machacado, el pimentón, el zumo de medio limón, el aceite, sal y pimienta y deja que repose mientras cortas las verduras. Si usas palillos de madera, ponlos en remojo.",
-    "Pon a cocer el arroz en agua con sal 16-18 minutos, hasta que esté tierno. Escúrrelo.",
-    "Corta los pimientos, la cebolla y el calabacín en trozos del mismo tamaño que el pavo.",
-    "Monta las brochetas alternando pavo y verduras.",
+    "Mezcla el pavo con el ajo machacado, el pimentón, el zumo de medio limón, el aceite, sal y pimienta y deja que repose mientras preparas lo demás. Si usas palillos de madera, ponlos en remojo.",
+    "Pon a cocer el arroz en agua con sal 16-18 minutos, hasta que esté tierno.",
+    "Mientras cuece, corta los pimientos, la cebolla y el calabacín en trozos del mismo tamaño que el pavo y monta las brochetas alternando pavo y verduras. Escurre el arroz cuando esté listo.",
     "Ásalas en la plancha caliente 8-10 minutos, dándoles la vuelta cada 2 minutos, hasta que el pavo esté dorado y hecho y las verduras tostadas por los bordes.",
     "Sirve las brochetas sobre el arroz blanco con unas gotas de limón."
   ],
@@ -1006,9 +1005,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Machaca los ajos con sal en el mortero y mezcla con 1 cucharadita de pimentón, el orégano y el vinagre. Unta el lomo con este adobo y déjalo en la nevera al menos 1 hora.",
     "Derrite la manteca en una cazuela pequeña donde quepa justo el lomo. Añade el laurel y la carne con todo su adobo; debe quedar casi cubierta.",
-    "Cocina a fuego muy suave, sin que hierva (solo pequeñas burbujas), 45 minutos, dando la vuelta a la pieza a mitad.",
+    "Cocina a fuego muy suave, sin que hierva (solo pequeñas burbujas), 45 minutos, dando la vuelta a la pieza a mitad. Mientras, pela las patatas, córtalas en bastones, lávalas y sécalas.",
     "Retira del fuego, añade la otra cucharadita de pimentón a la manteca y deja reposar el lomo dentro 20 minutos para que se asiente y coja color.",
-    "Mientras, fríe las patatas en bastones en abundante aceite: 8 minutos a fuego medio y 3 a fuego fuerte. Sala. Tuesta el pan.",
+    "Mientras reposa, fríe las patatas en abundante aceite: 8 minutos a fuego medio y 3 a fuego fuerte. Sala. Tuesta el pan.",
     "Saca el lomo, córtalo en rodajas finas y sírvelo templado con las patatas y el pan tostado untado con un poco de la manteca colorá."
   ],
   nutricion: { kcal: 715, prot: 44, hc: 40, grasa: 42 },

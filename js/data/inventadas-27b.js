@@ -35,8 +35,8 @@ window.RECETAS_SEED.push({
     "Lava las lentejas (las pardinas no necesitan remojo). Pica la cebolla, el pimiento y el ajo; corta la zanahoria en rodajas y ralla el tomate.",
     "En una cazuela, pocha la cebolla, el pimiento y el ajo con el aceite a fuego medio 8 minutos, hasta que estén blandos. Añade el tomate rallado y cocina 4 minutos.",
     "Aparta del fuego, añade el pimentón, remueve 10 segundos y agrega las lentejas, la zanahoria y el laurel. Cubre con 1 litro de agua fría.",
-    "Lleva a ebullición, baja a fuego suave y cuece tapado 25 minutos.",
-    "Añade la patata cascada en trozos pequeños y sal, y cuece 15-20 minutos más, hasta que lentejas y patata estén tiernas y el caldo haya espesado. Si se quedan secas, añade un chorrito de agua caliente.",
+    "Lleva a ebullición, baja a fuego suave y cuece tapado 25 minutos. Mientras, pela la patata y cáscala en trozos pequeños.",
+    "Añade la patata y sal, y cuece 15-20 minutos más, hasta que lentejas y patata estén tiernas y el caldo haya espesado. Si se quedan secas, añade un chorrito de agua caliente.",
     "Mientras, cuece los huevos 10 minutos, enfríalos y pélalos.",
     "Sirve las lentejas con un huevo duro en cuartos por plato y, si te gusta, unas gotas de vinagre."
   ],
@@ -77,10 +77,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre los garbanzos del remojo. Pon a hervir 1,5 litros de agua con el laurel y media cebolla; cuando hierva, echa los garbanzos (siempre en agua caliente) y cuece a fuego suave 1 h 45 min-2 h, tapado, hasta que estén tiernos. Si hace falta, añade agua caliente, nunca fría.",
-    "Mientras, cuece los huevos 10 minutos, enfríalos, pélalos y pícalos. Lava las acelgas y trocea pencas y hojas.",
+    "Mientras, cuece los huevos 10 minutos, enfríalos, pélalos y pícalos. Lava las acelgas y trocea pencas y hojas. Pica la otra media cebolla y el ajo restante, ralla el tomate y pela la patata y cáscala en trozos.",
     "En una sartén, fríe la rebanada de pan y 2 ajos con 2 cucharadas de aceite hasta que estén dorados. Májalos en el mortero o tritúralos con un poco de caldo de los garbanzos.",
-    "En la misma sartén, con el resto del aceite, pocha la otra media cebolla y el ajo restante picados 8 minutos; añade el tomate rallado y cocina 5 minutos. Aparta y añade el pimentón y el comino.",
-    "Cuando los garbanzos estén casi tiernos, añade el sofrito, la patata cascada y las pencas de acelga. Cuece 15 minutos; añade las hojas y la picada de pan y cuece 10 minutos más, hasta que la patata esté tierna y el caldo trabado. Sala al final.",
+    "En la misma sartén, con el resto del aceite, pocha la media cebolla y el ajo picados 8 minutos; añade el tomate rallado y cocina 5 minutos. Aparta y añade el pimentón y el comino.",
+    "Cuando los garbanzos estén casi tiernos, añade el sofrito, la patata y las pencas de acelga. Cuece 15 minutos; añade las hojas y la picada de pan y cuece 10 minutos más, hasta que la patata esté tierna y el caldo trabado. Sala al final.",
     "Retira el laurel y la media cebolla y sirve en plato hondo con el huevo duro picado por encima."
   ],
   nutricion: { kcal: 730, prot: 32, hc: 92, grasa: 26 },
@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Escurre las alubias y ponlas en una cazuela con 1,2 litros de agua fría, el laurel, media cebolla, el puerro limpio en trozos grandes y 1 zanahoria entera. Lleva a ebullición y retira la espuma.",
     "Baja a fuego mínimo y cuece tapado 1 h 30 min-1 h 45 min, hasta que las alubias estén tiernas y mantecosas. Cada 30 minutos, 'asústalas' con medio vaso de agua fría.",
-    "Mientras, pica la otra media cebolla, el pimiento, el ajo y la otra zanahoria en dados. Pocha todo con el aceite en una sartén a fuego medio 12 minutos. Añade el tomate rallado y cocina 5 minutos; aparta y mezcla el pimentón.",
+    "Mientras, pica la otra media cebolla, el pimiento, el ajo y la otra zanahoria en dados, y ralla el tomate. Pocha las verduras picadas con el aceite en una sartén a fuego medio 12 minutos. Añade el tomate rallado y cocina 5 minutos; aparta y mezcla el pimentón.",
     "Saca de la cazuela las verduras enteras, tritúralas con un cazo de caldo y unas alubias, y devuélvelas a la cazuela junto con el sofrito. Cuece 10 minutos más para que el caldo espese. Sala.",
     "Casca los huevos con cuidado sobre las alubias, tapa y cuece a fuego suave 4 minutos, hasta que las claras estén cuajadas.",
     "Sirve en plato hondo con un huevo por ración."
@@ -156,10 +156,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pan en rebanadas muy finas. Pela los ajos y lamínalos.",
+    "Pon el caldo a calentar en un cazo. Mientras, corta el pan en rebanadas muy finas, pela los ajos y lamínalos.",
     "En una cazuela, preferiblemente de barro, calienta el aceite a fuego medio-bajo y dora los ajos 2 minutos, hasta que estén dorados claros.",
     "Añade el pan y rehógalo 2-3 minutos, removiendo, hasta que absorba el aceite y se tueste un poco.",
-    "Aparta del fuego, espolvorea el pimentón, remueve rápido y vierte enseguida el caldo caliente. Sala y cuece a fuego suave 10 minutos, hasta que el pan se ablande y la sopa espese ligeramente.",
+    "Aparta del fuego, espolvorea el pimentón, remueve rápido y vierte enseguida el caldo caliente. Sala y cuece a fuego suave 10 minutos, hasta que el pan se ablande y la sopa espese ligeramente. Mientras, pica el perejil si lo usas.",
     "Casca los huevos sobre la sopa con cuidado, separados, tapa y deja 3-4 minutos a fuego mínimo, hasta que las claras cuajen. Sirve muy caliente, con perejil picado si quieres."
   ],
   nutricion: { kcal: 462, prot: 22, hc: 44, grasa: 22 },
@@ -234,9 +234,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta los pimientos y la cebolla en tiras finas y lamina el ajo. Ralla los tomates desechando la piel.",
     "Calienta el aceite en una sartén amplia a fuego medio y pocha la cebolla y el ajo 5 minutos. Añade los pimientos con sal y cocina 12 minutos, removiendo, hasta que estén muy blandos.",
-    "Incorpora el tomate y la pizca de azúcar y cocina 8 minutos a fuego medio, hasta que la salsa espese y no quede agua.",
+    "Incorpora el tomate y la pizca de azúcar y cocina 8 minutos a fuego medio, hasta que la salsa espese y no quede agua. Mientras, tuesta el pan.",
     "Bate ligeramente los huevos con sal, viértelos sobre las verduras y remueve suavemente a fuego bajo 1-2 minutos, hasta que cuajen cremosos.",
-    "Tuesta el pan y sirve la piperrada caliente con las tostadas."
+    "Sirve la piperrada caliente con las tostadas."
   ],
   nutricion: { kcal: 474, prot: 20, hc: 40, grasa: 26 },
   etiquetas: ["tradicional", "verano", "fácil", "una sola sartén", "ligera", "poco especiada"],
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia el puerro y córtalo en rodajas; trocea el calabacín con piel y la patata pelada.",
+    "Pon el caldo a calentar en un cazo. Mientras, limpia el puerro y córtalo en rodajas; trocea el calabacín con piel y la patata pelada.",
     "En una cazuela, rehoga el puerro con 1 cucharada de aceite a fuego medio 5 minutos, hasta que esté blando.",
     "Añade el calabacín y la patata, rehoga 2 minutos y cubre con el caldo caliente. Cuece 15 minutos a fuego medio, hasta que la patata esté tierna.",
     "Mientras, corta el pan en dados y dóralo en una sartén con la otra cucharada de aceite a fuego medio 4 minutos, hasta que esté crujiente.",
@@ -311,11 +311,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos en agua fría, pélalos y córtalos por la mitad.",
-    "Lava las espinacas y escáldalas en una cazuela grande con un dedo de agua 2 minutos, hasta que se ablanden. Escúrrelas apretando bien y pícalas.",
-    "En la misma cazuela, funde la mantequilla con el ajo muy picado 1 minuto a fuego medio. Añade la harina y tuéstala 1 minuto.",
+    "Cuece los huevos 10 minutos. Mientras, lava las espinacas y pica muy fino el ajo. Enfría los huevos en agua fría, pélalos y córtalos por la mitad.",
+    "Escalda las espinacas en una cazuela grande con un dedo de agua 2 minutos, hasta que se ablanden. Escúrrelas apretando bien y pícalas.",
+    "Precalienta el grill del horno. En la misma cazuela, funde la mantequilla con el ajo picado 1 minuto a fuego medio. Añade la harina y tuéstala 1 minuto.",
     "Vierte la leche poco a poco removiendo con varillas y cuece 5 minutos, hasta que espese. Sazona con sal, pimienta y nuez moscada e incorpora las espinacas. Cocina 2 minutos.",
-    "Precalienta el grill del horno. Pon las espinacas a la crema en una fuente, coloca encima los huevos con la yema hacia arriba y espolvorea el queso.",
+    "Pon las espinacas a la crema en una fuente, coloca encima los huevos con la yema hacia arriba y espolvorea el queso.",
     "Gratina 5-6 minutos, hasta que el queso se dore. Sirve con el pan."
   ],
   nutricion: { kcal: 562, prot: 30, hc: 34, grasa: 34 },
@@ -351,9 +351,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia los puerros quitando la parte verde dura y córtalos en trozos de 8 cm; lávalos bien por dentro. Pela la patata y córtala en rodajas de 1 cm.",
-    "Cuece las patatas en agua con sal 8 minutos; añade los puerros y cuece 10 minutos más, hasta que ambos estén tiernos. Escurre muy bien sobre papel de cocina.",
+    "Precalienta el horno a 220 °C con grill. Cuece las patatas en agua con sal 8 minutos; añade los puerros y cuece 10 minutos más, hasta que ambos estén tiernos. Escurre muy bien sobre papel de cocina.",
     "Prepara la bechamel: funde la mantequilla, tuesta la harina 1 minuto, añade la leche poco a poco con varillas y cuece 6 minutos a fuego suave, hasta que espese. Sazona con sal, pimienta y nuez moscada y añade la mitad del queso.",
-    "Precalienta el horno a 220 °C con grill. Coloca las rodajas de patata en el fondo de una fuente y los puerros encima.",
+    "Coloca las rodajas de patata en el fondo de una fuente y los puerros encima.",
     "Cubre con la bechamel y espolvorea el resto del queso.",
     "Gratina 10-12 minutos, hasta que la superficie esté dorada y burbujeante. Deja reposar 5 minutos y sirve."
   ],
@@ -391,7 +391,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Separa la coliflor en ramilletes medianos y cuécelos en agua con sal 8 minutos, hasta que estén tiernos pero firmes. Escúrrelos muy bien y deja que se sequen y enfríen 10 minutos.",
-    "Mientras, prepara la salsa: pocha la cebolla y el ajo picados con 2 cucharadas de aceite en un cazo 6 minutos; añade el tomate, la pizca de azúcar y sal y cocina 15 minutos a fuego suave, hasta que espese.",
+    "Mientras, prepara la salsa: pica la cebolla y el ajo y pochalos con 2 cucharadas de aceite en un cazo 6 minutos; añade el tomate, la pizca de azúcar y sal y cocina 15 minutos a fuego suave, hasta que espese.",
     "Pasa los ramilletes por harina, sacudiendo el exceso, y luego por los huevos batidos con una pizca de sal.",
     "Calienta el aceite en una sartén a fuego medio-alto y fríe los ramilletes por tandas 2-3 minutos, girándolos, hasta que el rebozado esté dorado. Escúrrelos sobre papel.",
     "Sirve la coliflor rebozada con la salsa de tomate caliente por encima o al lado, y el pan."
@@ -427,8 +427,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la col en tiras quitando el tronco duro y pela y trocea las patatas.",
-    "Cuece las patatas en abundante agua con sal 10 minutos; añade la col y cuece 15 minutos más, hasta que todo esté muy tierno. Escurre a conciencia en un colador, presionando para que suelte el agua.",
-    "En una sartén de 22 cm, dora los ajos laminados con 3 cucharadas de aceite a fuego medio 2 minutos.",
+    "Cuece las patatas en abundante agua con sal 10 minutos; añade la col y cuece 15 minutos más, hasta que todo esté muy tierno. Mientras, pela los ajos y lamínalos. Escurre a conciencia en un colador, presionando para que suelte el agua.",
+    "En una sartén de 22 cm, dora los ajos con 3 cucharadas de aceite a fuego medio 2 minutos.",
     "Añade la col y la patata, salpimienta y aplasta con un tenedor o un pasapurés mientras rehogas 5 minutos, hasta formar una masa gruesa, no un puré fino.",
     "Extiéndela en la sartén formando una torta, aprieta con la espátula y dórala a fuego medio-alto 5-6 minutos sin tocar, hasta que tenga costra. Dale la vuelta con un plato y dora el otro lado 4-5 minutos con 1 cucharada más de aceite.",
     "En otra sartén con el aceite restante fríe los huevos y sírvelos sobre las porciones de trinxat."
@@ -469,10 +469,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la lombarda en juliana fina, quitando el tronco. Ponla en una cazuela con agua hirviendo, sal, el laurel y 1 cucharada del vinagre (mantiene el color morado) y cuece 40 minutos a fuego medio, hasta que esté tierna. Escurre.",
-    "Mientras, cuece las patatas peladas y en trozos en otro cazo con agua y sal 18-20 minutos, hasta que estén tiernas. Escúrrelas.",
-    "Pon las pasas a remojar en agua templada 10 minutos.",
-    "En una sartén grande, dora los ajos laminados y los piñones con el aceite a fuego medio-bajo 1-2 minutos, hasta que los piñones estén dorados. Añade la cebolla en juliana y póchala 8 minutos.",
-    "Incorpora la manzana pelada en dados y las pasas escurridas y rehoga 4 minutos. Añade la lombarda y el resto del vinagre y saltea 5 minutos a fuego medio para que todo se mezcle. Rectifica de sal.",
+    "Mientras, pela las patatas, trocéalas y cuécelas en otro cazo con agua y sal 18-20 minutos, hasta que estén tiernas. Escúrrelas.",
+    "Pon las pasas a remojar en agua templada 10 minutos. Mientras, pela y lamina los ajos, corta la cebolla en juliana y pela la manzana y córtala en dados.",
+    "En una sartén grande, dora los ajos y los piñones con el aceite a fuego medio-bajo 1-2 minutos, hasta que los piñones estén dorados. Añade la cebolla y póchala 8 minutos.",
+    "Incorpora la manzana y las pasas escurridas y rehoga 4 minutos. Añade la lombarda y el resto del vinagre y saltea 5 minutos a fuego medio para que todo se mezcle. Rectifica de sal.",
     "Escalfa los huevos 3 minutos en un cazo con agua hirviendo suave y un chorrito de vinagre, sacándolos con espumadera.",
     "Sirve la lombarda con las patatas al lado y dos huevos escalfados por ración."
   ],
@@ -511,7 +511,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 170 °C. Frota una fuente de horno con el ajo partido por la mitad y úntala con la mantequilla.",
+    "Precalienta el horno a 170 °C. Frota una fuente de horno con el ajo partido por la mitad, úntala con la mantequilla y pica después el ajo.",
     "Pela las patatas y córtalas en láminas muy finas, de 2-3 mm (con mandolina si tienes). No las laves: su almidón espesará la salsa.",
     "En una cazuela, calienta la nata con la leche, el ajo picado, sal, pimienta y nuez moscada. Añade las patatas y cuece a fuego suave 10 minutos, removiendo con cuidado, hasta que la crema empiece a espesar.",
     "Pasa las patatas con la crema a la fuente, colocándolas en capas, y alisa la superficie. Espolvorea el queso.",
@@ -553,10 +553,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Bate 100 g de harina con los huevos, 250 ml de leche, una pizca de sal y 10 g de mantequilla fundida hasta tener una masa lisa y fluida. Deja reposar 15 minutos.",
+    "Mientras reposa, pica la cebolla y pochala con 10 g de mantequilla en una sartén 6 minutos. Añade las espinacas lavadas y cocina 4 minutos, hasta que se reduzcan y se evapore el agua. Escurre, pica y mezcla con el requesón, sal, pimienta y nuez moscada.",
     "Calienta una sartén antiadherente de 20 cm a fuego medio, úntala con un poco de mantequilla y vierte un cazo pequeño de masa, girando la sartén para cubrir el fondo. Cocina 1 minuto, dale la vuelta y 30 segundos más. Haz 6 crepes.",
-    "Pica la cebolla y pochala con 10 g de mantequilla en una sartén 6 minutos. Añade las espinacas lavadas y cocina 4 minutos, hasta que se reduzcan y se evapore el agua. Escurre, pica y mezcla con el requesón, sal, pimienta y nuez moscada.",
-    "Prepara la bechamel con el resto de la mantequilla, 20 g de harina y 300 ml de leche: tuesta la harina 1 minuto, añade la leche poco a poco con varillas y cuece 5 minutos. Sazona.",
-    "Precalienta el horno a 200 °C. Rellena cada crepe con el relleno de espinacas, enróllala y colócala en una fuente engrasada.",
+    "Precalienta el horno a 200 °C. Prepara la bechamel con el resto de la mantequilla, 20 g de harina y 300 ml de leche: tuesta la harina 1 minuto, añade la leche poco a poco con varillas y cuece 5 minutos. Sazona.",
+    "Rellena cada crepe con el relleno de espinacas, enróllala y colócala en una fuente engrasada.",
     "Cubre con la bechamel, espolvorea el gruyère y hornea 15 minutos, hasta que estén doradas y burbujeantes."
   ],
   nutricion: { kcal: 796, prot: 36, hc: 64, grasa: 44 },
@@ -590,9 +590,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Quita a los espárragos la parte dura del tallo (dóblalos: se parten solos por donde empieza lo tierno) y córtalos en trozos de 2 cm, dejando las yemas aparte. Limpia los ajetes y córtalos igual.",
     "Calienta 2 cucharadas de aceite en una sartén de 20 cm a fuego medio y saltea los tallos de espárrago con los ajetes 5 minutos. Añade las yemas y saltea 2 minutos más, hasta que estén tiernos pero aún verdes. Sala.",
-    "Bate los huevos con sal en un bol y añade las verduras calientes. Mezcla y deja reposar 2 minutos.",
+    "Bate los huevos con sal en un bol y añade las verduras calientes. Mezcla y deja reposar 2 minutos. Mientras, tuesta el pan.",
     "Calienta la sartén con la cucharada de aceite restante a fuego medio-alto, vierte la mezcla y cuaja 2-3 minutos despegando los bordes.",
-    "Dale la vuelta con un plato y cuaja 1-2 minutos más, hasta que esté dorada por fuera y jugosa por dentro. Sirve con el pan tostado."
+    "Dale la vuelta con un plato y cuaja 1-2 minutos más, hasta que esté dorada por fuera y jugosa por dentro. Sirve con el pan."
   ],
   nutricion: { kcal: 536, prot: 26, hc: 36, grasa: 32 },
   etiquetas: ["tradicional", "rápida", "fácil", "ideal para llevar", "poco especiada"],
@@ -633,8 +633,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal 20 minutos, hasta que se deshagan al pincharlas. Escúrrelas.",
     "Mientras, pica la cebolla, la zanahoria, el pimiento y el calabacín en dados pequeños. Pocha la cebolla, la zanahoria y el pimiento con el aceite en una sartén a fuego medio 10 minutos; añade el calabacín y cocina 6 minutos más. Agrega el tomate frito, salpimienta y cocina 3 minutos.",
-    "Aplasta las patatas con un pasapurés o tenedor (no con batidora, se volvería chiclosa) y mezcla con la mantequilla, la leche caliente, el huevo batido, sal y nuez moscada hasta tener un puré cremoso.",
-    "Precalienta el horno a 200 °C. Extiende la mitad del puré en una fuente, cubre con las verduras y tapa con el resto del puré, alisándolo con una espátula.",
+    "Precalienta el horno a 200 °C y calienta la leche. Aplasta las patatas con un pasapurés o tenedor (no con batidora, se volvería chiclosa) y mezcla con la mantequilla, la leche caliente, el huevo batido, sal y nuez moscada hasta tener un puré cremoso.",
+    "Extiende la mitad del puré en una fuente, cubre con las verduras y tapa con el resto del puré, alisándolo con una espátula.",
     "Espolvorea el queso y hornea 20 minutos; pon el grill los últimos 5 minutos para que quede dorado.",
     "Deja reposar 5 minutos antes de cortar en porciones."
   ],
@@ -669,8 +669,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, cáscalas en trozos y cuécelas en agua con sal y el laurel 20-25 minutos, hasta que estén muy tiernas. Escúrrelas reservando un vaso del agua de cocción.",
-    "En una sartén amplia, calienta 4 cucharadas de aceite a fuego medio y dora los ajos laminados 2 minutos, hasta que estén dorados.",
+    "Pela las patatas, cáscalas en trozos y cuécelas en agua con sal y el laurel 20-25 minutos, hasta que estén muy tiernas. Mientras, pela los ajos y lamínalos. Escurre las patatas reservando un vaso del agua de cocción.",
+    "En una sartén amplia, calienta 4 cucharadas de aceite a fuego medio y dora los ajos 2 minutos, hasta que estén dorados.",
     "Aparta la sartén del fuego, añade los dos pimentones y remueve 10 segundos para que tiñan el aceite sin quemarse.",
     "Echa las patatas en la sartén y machácalas con un tenedor o una espátula a fuego bajo, añadiendo poco a poco el agua de cocción reservada, hasta tener un puré rústico, rojizo y cremoso. Rectifica de sal.",
     "Fríe los huevos en otra sartén con el resto del aceite bien caliente.",
@@ -709,11 +709,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas enteras con piel en agua con sal 12 minutos (deben quedar a medio hacer, aún firmes). Escúrrelas y déjalas enfriar por completo, mejor en la nevera.",
-    "Pélalas y rállalas con el lado grueso del rallador. Mezcla con la cebolla rallada, sal y pimienta.",
-    "Calienta la mitad de la mantequilla con 1 cucharada de aceite en una sartén antiadherente de 24 cm a fuego medio. Echa la patata, aplánala ligeramente formando una torta y cocina 10-12 minutos sin remover, hasta que la base esté dorada y crujiente.",
+    "Cuece las patatas enteras con piel en agua con sal 12 minutos (deben quedar a medio hacer, aún firmes). Escúrrelas y déjalas enfriar por completo, mejor en la nevera. Mientras, ralla la cebolla.",
+    "Pélalas y rállalas con el lado grueso del rallador. Mezcla con la cebolla, sal y pimienta.",
+    "Calienta la mitad de la mantequilla con 1 cucharada de aceite en una sartén antiadherente de 24 cm a fuego medio. Echa la patata, aplánala ligeramente formando una torta y cocina 10-12 minutos sin remover, hasta que la base esté dorada y crujiente. Mientras, prepara la ensalada de lechuga y tomate aliñada con sal, vinagre y un hilo de aceite.",
     "Dale la vuelta con ayuda de un plato, añade el resto de la mantequilla por los bordes y dora el otro lado 8-10 minutos.",
-    "Mientras, fríe los huevos en otra sartén con el aceite restante y prepara la ensalada de lechuga y tomate aliñada con sal, vinagre y un hilo de aceite.",
+    "Mientras, fríe los huevos en otra sartén con el aceite restante.",
     "Corta el rösti en porciones y sírvelo con dos huevos encima y la ensalada al lado."
   ],
   nutricion: { kcal: 694, prot: 22, hc: 66, grasa: 38 },
@@ -789,8 +789,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las berenjenas en rodajas o bastones de medio centímetro, ponlas en un bol cubiertas con la leche y una pizca de sal y deja reposar 30 minutos (les quita el amargor y hace que absorban menos aceite).",
-    "Mientras, prepara el salmorejo: tritura los tomates troceados con el ajo hasta que estén líquidos; añade el pan troceado y deja que se empape 10 minutos. Tritura de nuevo añadiendo en hilo 4 cucharadas del aceite, el vinagre y sal, hasta que esté espeso y fino. Enfría en la nevera.",
-    "Cuece los huevos 10 minutos, enfríalos, pélalos y pícalos.",
+    "Mientras, prepara el salmorejo: tritura los tomates troceados con el ajo hasta que estén líquidos; añade el pan troceado y deja que se empape 10 minutos. Mientras se empapa, cuece los huevos 10 minutos. Tritura de nuevo añadiendo en hilo 4 cucharadas del aceite, el vinagre y sal, hasta que esté espeso y fino. Enfría en la nevera.",
+    "Enfría los huevos, pélalos y pícalos.",
     "Escurre las berenjenas, sécalas ligeramente y pásalas por la harina, sacudiendo el exceso.",
     "Calienta el resto del aceite en una sartén a fuego medio-alto y fríe las berenjenas por tandas 2-3 minutos, hasta que estén doradas y crujientes. Escúrrelas sobre papel y sálalas.",
     "Sirve las berenjenas recién fritas con un hilo de miel de caña por encima y el salmorejo frío en un cuenco aparte, coronado con el huevo picado."
@@ -827,10 +827,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la berenjena a tiras (deja algo de piel) y córtala en dados de 1,5 cm. Corta la cebolla en juliana.",
-    "Calienta 3 cucharadas de aceite en una sartén de 20-22 cm a fuego medio, añade la cebolla y la berenjena con sal, tapa y cocina 15-18 minutos, removiendo de vez en cuando, hasta que la berenjena esté melosa y la cebolla dorada.",
+    "Calienta 3 cucharadas de aceite en una sartén de 20-22 cm a fuego medio, añade la cebolla y la berenjena con sal, tapa y cocina 15-18 minutos, removiendo de vez en cuando, hasta que la berenjena esté melosa y la cebolla dorada. Mientras, corta los piquillos en tiras y lamina el ajo.",
     "Bate los huevos con sal en un bol, añade las verduras escurridas del exceso de aceite y deja reposar 3 minutos.",
     "Limpia la sartén, caliéntala con unas gotas de aceite a fuego medio-alto, vierte la mezcla y cuaja 3 minutos despegando los bordes. Dale la vuelta con un plato y cuaja 2 minutos más.",
-    "Mientras, saltea los piquillos en tiras con el ajo laminado y el resto del aceite 3 minutos a fuego medio.",
+    "Pasa la tortilla a un plato y, en la misma sartén, saltea los piquillos con el ajo y el resto del aceite 3 minutos a fuego medio.",
     "Sirve la tortilla en porciones con los piquillos por encima y el pan."
   ],
   nutricion: { kcal: 562, prot: 24, hc: 40, grasa: 34 },
@@ -867,8 +867,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos en agua fría y pélalos.",
-    "En una cazuela baja, pocha la cebolla, el pimiento y el ajo picados con 3 cucharadas de aceite a fuego medio 10 minutos, hasta que estén blandos.",
+    "Cuece los huevos 10 minutos. Mientras, pica la cebolla, el pimiento y el ajo. Enfría los huevos en agua fría y pélalos.",
+    "En una cazuela baja, pocha la cebolla, el pimiento y el ajo con 3 cucharadas de aceite a fuego medio 10 minutos, hasta que estén blandos.",
     "Añade el pimentón, remueve unos segundos y vierte el vino; deja evaporar 2 minutos. Incorpora el tomate, el laurel y sal y cocina 12 minutos a fuego suave, hasta que la salsa espese.",
     "Mientras, pela las patatas, córtalas en bastones, sécalas y fríelas en el resto del aceite a fuego medio 10 minutos y luego a fuego fuerte 3 minutos, hasta que estén doradas. Escúrrelas y sálalas.",
     "Parte los huevos por la mitad, colócalos en la salsa con la yema hacia arriba y calienta 3 minutos a fuego suave, echándoles salsa por encima con una cuchara.",
@@ -908,7 +908,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, el pimiento y el ajo. Pela las patatas y cáscalas en trozos medianos.",
+    "Pon el caldo a calentar en un cazo. Pica la cebolla, el pimiento y el ajo. Pela las patatas y cáscalas en trozos medianos.",
     "En una cazuela, pocha la cebolla, el pimiento y el ajo con el aceite a fuego medio 10 minutos, hasta que estén blandos y dorados.",
     "Añade la carne de pimiento choricero y rehoga 1 minuto. Aparta del fuego, añade el pimentón y remueve unos segundos.",
     "Incorpora las patatas y el laurel, rehoga 2 minutos para que se impregnen y cubre con el caldo caliente. Sala.",
@@ -949,8 +949,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava las patatas y córtalas en gajos con piel. Mézclalas en una bandeja con 2 cucharadas de aceite, el romero deshojado, sal y pimienta, y hornea 20 minutos.",
-    "Mientras, limpia los champiñones con un paño, quítales el pie y pica los pies muy finos.",
-    "En un bol, mezcla los pies picados con el ajo y el perejil muy picados, el queso, el pan rallado, 1 cucharada de aceite, sal y pimienta.",
+    "Mientras, limpia los champiñones con un paño, quítales el pie y pica muy finos los pies, el ajo y el perejil.",
+    "En un bol, mezcla los pies, el ajo y el perejil picados con el queso, el pan rallado, 1 cucharada de aceite, sal y pimienta.",
     "Rellena los sombreros de champiñón con la mezcla, apretando un poco.",
     "Saca la bandeja, da la vuelta a las patatas, haz hueco y coloca los champiñones. Riégalos con el aceite restante y hornea 18-20 minutos más, hasta que los champiñones estén tiernos, el relleno gratinado y las patatas doradas.",
     "Sirve todo junto, bien caliente."
@@ -995,8 +995,8 @@ window.RECETAS_SEED.push({
     "Pon las pasas en remojo en agua templada. Cuece las placas de canelón en abundante agua con sal el tiempo del paquete, escúrrelas y extiéndelas sobre un paño limpio.",
     "Pica la cebolla y pochala con el aceite en una sartén grande a fuego medio 8 minutos. Añade los piñones y dóralos 1 minuto.",
     "Agrega las espinacas lavadas y cocina 4-5 minutos, hasta que se reduzcan y no quede agua. Incorpora las pasas escurridas, salpimienta y deja templar. Mezcla con el requesón.",
-    "Prepara la bechamel: funde la mantequilla, tuesta la harina 1 minuto, añade la leche poco a poco con varillas y cuece 8 minutos a fuego suave, hasta que napé. Sazona con sal y nuez moscada.",
-    "Precalienta el horno a 200 °C. Mezcla 3 cucharadas de bechamel con el relleno. Pon una cucharada de relleno en cada placa y enróllala.",
+    "Precalienta el horno a 200 °C. Prepara la bechamel: funde la mantequilla, tuesta la harina 1 minuto, añade la leche poco a poco con varillas y cuece 8 minutos a fuego suave, hasta que napé. Sazona con sal y nuez moscada.",
+    "Mezcla 3 cucharadas de bechamel con el relleno. Pon una cucharada de relleno en cada placa y enróllala.",
     "Extiende una capa fina de bechamel en una fuente, coloca los canelones con la juntura hacia abajo y cúbrelos con el resto de la bechamel. Espolvorea el parmesano.",
     "Hornea 15 minutos y gratina 3-4 minutos más, hasta que estén dorados. Reposa 5 minutos antes de servir."
   ],

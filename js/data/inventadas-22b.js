@@ -34,9 +34,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece la pechuga en 500 ml de agua con sal a fuego suave 15 minutos, hasta que esté hecha. Deja templar en el caldo, sácala y deshiláchala con dos tenedores. Guarda el caldo.",
+    "Cuece la pechuga en 500 ml de agua con sal a fuego suave 15 minutos, hasta que esté hecha; mientras, pica la cebolla y el ajo. Deja templar en el caldo, sácala y deshiláchala con dos tenedores. Guarda el caldo.",
     "Remoja el pan en la leche. Cuece las patatas con piel y el huevo en otra cazuela (el huevo 10 minutos, las patatas 20) y el arroz en agua con sal 16-18 minutos.",
-    "Pocha la cebolla y el ajo picados en el aceite a fuego suave 10 minutos, hasta que estén muy blandos. Añade el ají amarillo y cocina 3 minutos.",
+    "Pocha la cebolla y el ajo en el aceite a fuego suave 10 minutos, hasta que estén muy blandos. Añade el ají amarillo y cocina 3 minutos.",
     "Tritura el pan con la leche y las nueces y añádelo a la cazuela. Cocina 5 minutos removiendo, añadiendo caldo poco a poco, hasta tener una crema espesa que cubra la cuchara.",
     "Incorpora el pollo deshilachado y el parmesano, remueve 3 minutos y ajusta de sal y pimienta. Debe quedar cremoso, ni seco ni caldoso.",
     "Sirve el ají sobre las patatas cortadas en rodajas, con el arroz al lado, el huevo en cuartos y las aceitunas."
@@ -79,9 +79,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Marina el pollo troceado con el zumo de la lima, el orégano, 2 ajos machacados, sal y la mitad del cilantro picado al menos 15 minutos.",
+    "Marina el pollo troceado con el zumo de la lima, el orégano, 2 ajos machacados, sal y la mitad del cilantro picado al menos 15 minutos. Mientras, corta la cebolla y los pimientos en tiras y pica el resto del ajo.",
     "Calienta el aceite en la cazuela a fuego fuerte, añade el azúcar y espera a que se haga caramelo oscuro, 1 minuto. Echa el pollo escurrido (cuidado, salpica) y dóralo 6 minutos, girándolo, hasta que tome color tostado.",
-    "Añade la cebolla, los pimientos en tiras y el resto del ajo y rehoga 5 minutos.",
+    "Añade la cebolla, los pimientos y el resto del ajo y rehoga 5 minutos.",
     "Incorpora el tomate concentrado, las aceitunas, el jugo de la marinada y 200 ml de agua. Tapa y cuece a fuego suave 25 minutos, hasta que el pollo esté tierno y la salsa espesa.",
     "Mientras, cuece el arroz en el doble de agua con sal, tapado a fuego mínimo, 18 minutos.",
     "Sirve el pollo con el resto del cilantro por encima junto al arroz."
@@ -122,13 +122,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pincha la carne por todas partes con un cuchillo y úntala con 1 ajo machacado, la salsa worcestershire, sal y pimienta. Déjala 20 minutos (o toda la noche en la nevera).",
+    "Pincha la carne por todas partes con un cuchillo y úntala con 1 ajo machacado, la salsa worcestershire, sal y pimienta. Déjala 20 minutos (o toda la noche en la nevera). Mientras, trocea la cebolla, el pimiento, los ajos restantes y el tomate.",
     "Calienta el aceite en una cazuela de su tamaño, añade el azúcar y deja que se derrita y oscurezca a fuego medio 2-3 minutos, hasta que esté color café.",
     "Pon la carne y dórala en el caramelo girándola 8 minutos, hasta que quede casi negra por fuera. Ten cuidado con las salpicaduras.",
-    "Añade la cebolla, el pimiento, los ajos y el tomate troceados, rehoga 3 minutos y vierte el vino y el agua caliente.",
-    "Tapa y cuece a fuego muy suave 2 h 15 min, dándole la vuelta cada 30 minutos y añadiendo agua si baja, hasta que la carne esté muy tierna.",
+    "Añade la cebolla, el pimiento, los ajos y el tomate, rehoga 3 minutos y vierte el vino y el agua caliente.",
+    "Tapa y cuece a fuego muy suave 2 h 15 min, dándole la vuelta cada 30 minutos y añadiendo agua si baja, hasta que la carne esté muy tierna. A falta de 20 minutos, cuece el arroz en el doble de agua con sal 18 minutos.",
     "Saca la carne y tritura las verduras con el líquido; reduce la salsa a fuego medio 5-10 minutos hasta que espese y brille.",
-    "Cuece el arroz en el doble de agua con sal 18 minutos. Corta la carne en lonchas finas y sírvela bañada en la salsa con el arroz."
+    "Corta la carne en lonchas finas y sírvela bañada en la salsa con el arroz."
   ],
   nutricion: { kcal: 710, prot: 48, hc: 62, grasa: 30 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "batch cooking", "verduras escondidas", "poco especiada"],
@@ -165,8 +165,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas.",
-    "Mientras, pincha las salchichas y dóralas en la sartén con el aceite a fuego medio 5 minutos, girándolas. Sácalas.",
-    "En la grasa que han soltado, pocha la cebolla, el pimiento y el ajo picados 6 minutos.",
+    "Mientras, pica la cebolla, el pimiento y el ajo. Pincha las salchichas y dóralas en la sartén con el aceite a fuego medio 5 minutos, girándolas. Sácalas.",
+    "En la grasa que han soltado, pocha la cebolla, el pimiento y el ajo 6 minutos.",
     "Vierte el vino y deja hervir 1 minuto. Añade el tomate, el azúcar, el laurel y sal y cocina 5 minutos.",
     "Mete las salchichas y cuece tapado a fuego suave 8 minutos, hasta que estén hechas por dentro y la salsa espesa.",
     "Sirve las salchichas con su salsa sobre las patatas."
@@ -205,11 +205,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y dóralo ligeramente en la cazuela con el aceite a fuego medio-alto 3 minutos. Sácalo.",
-    "Baja el fuego y pocha la cebolla y los ajos muy picados 5 minutos, sin que se doren.",
+    "Pica muy finos la cebolla, los ajos y el perejil. Salpimienta el pollo y dóralo ligeramente en la cazuela con el aceite a fuego medio-alto 3 minutos. Sácalo.",
+    "Baja el fuego y pocha la cebolla y los ajos 5 minutos, sin que se doren.",
     "Añade la harina y remueve 1 minuto. Vierte el vino y luego el caldo poco a poco, removiendo, hasta que la salsa espese ligeramente.",
     "Incorpora el pollo y los guisantes y cuece a fuego suave 8 minutos, meneando la cazuela, hasta que el pollo esté hecho.",
-    "Fuera del fuego, añade el perejil muy picado (abundante), remueve y prueba de sal. Sirve enseguida, con la salsa bien verde."
+    "Fuera del fuego, añade el perejil (abundante), remueve y prueba de sal. Sirve enseguida, con la salsa bien verde."
   ],
   nutricion: { kcal: 395, prot: 42, hc: 20, grasa: 16 },
   etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "alta en proteína", "poco especiada", "bajo en colesterol"],
@@ -246,8 +246,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en dados y cuécelas en agua con sal 12-15 minutos, hasta que estén tiernas.",
-    "Salpimienta el pavo y márcalo en la sartén con 1 cucharada de aceite a fuego fuerte 1 minuto por lado. Sácalo.",
-    "Añade el resto del aceite y pocha la cebolla y el ajo picados 5 minutos. Incorpora los piquillos (reserva 2 para decorar) y rehoga 2 minutos.",
+    "Mientras, pica la cebolla y el ajo. Salpimienta el pavo y márcalo en la sartén con 1 cucharada de aceite a fuego fuerte 1 minuto por lado. Sácalo.",
+    "Añade el resto del aceite y pocha la cebolla y el ajo 5 minutos. Incorpora los piquillos (reserva 2 para decorar) y rehoga 2 minutos.",
     "Vierte el vino y el caldo, cuece 3 minutos y tritura hasta tener una salsa fina. Devuélvela a la sartén con la nata.",
     "Mete los filetes de pavo y cocina a fuego suave 4 minutos, hasta que estén hechos. Prueba de sal.",
     "Sirve el pavo con la salsa, los piquillos reservados en tiras y las patatas."
@@ -289,9 +289,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las patatas en dados, sécalas y fríelas en una sartén con 2 cucharadas de aceite (o en abundante aceite) a fuego medio 12-15 minutos, hasta que estén doradas. Sala y reserva.",
-    "En otra sartén con el resto del aceite, fríe a fuego medio las almendras, los ajos pelados y el pan hasta que estén dorados, 2-3 minutos. Sácalos.",
+    "Mientras, pela los ajos y pica la cebolla y el perejil. En otra sartén con el resto del aceite, fríe a fuego medio las almendras, los ajos y el pan hasta que estén dorados, 2-3 minutos. Sácalos.",
     "Salpimienta el lomo y dóralo en ese aceite a fuego fuerte 1 minuto por lado. Sácalo.",
-    "Pocha la cebolla picada 4 minutos y vierte el vino; deja reducir 1 minuto.",
+    "Pocha la cebolla 4 minutos y vierte el vino; deja reducir 1 minuto.",
     "Tritura las almendras, los ajos, el pan, el azafrán y la cebolla con el caldo hasta tener una salsa fina. Viértela en la sartén y cuece 3 minutos.",
     "Mete el lomo en la salsa y cocina 3-4 minutos a fuego suave, hasta que esté hecho pero jugoso. Sirve con perejil y las patatas."
   ],
@@ -332,8 +332,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer el arroz en abundante agua con sal 16-18 minutos y escúrrelo.",
-    "Salpimienta los filetes, córtalos en dos si son grandes y pásalos por harina. Márcalos en la sartén con el aceite a fuego fuerte 30 segundos por lado. Sácalos.",
-    "En el mismo aceite pocha la cebolla, el pimiento y el ajo picados 7 minutos, a fuego medio.",
+    "Mientras, pica la cebolla, el pimiento y el ajo. Salpimienta los filetes, córtalos en dos si son grandes y pásalos por harina. Márcalos en la sartén con el aceite a fuego fuerte 30 segundos por lado. Sácalos.",
+    "En el mismo aceite pocha la cebolla, el pimiento y el ajo 7 minutos, a fuego medio.",
     "Vierte el vino y deja hervir 1 minuto. Añade el tomate, el azúcar, el orégano y sal y cocina 7 minutos, hasta que espese.",
     "Mete los filetes en la salsa y cocina a fuego suave 4-5 minutos, hasta que estén tiernos. Sirve con el arroz."
   ],
@@ -372,9 +372,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y dóralo en una sartén grande con 1 cucharada de aceite a fuego fuerte 4 minutos. Sácalo.",
-    "Añade el resto del aceite y pocha la cebolla y el ajo picados 5 minutos a fuego medio. Incorpora los pimientos en dados y cocina 5 minutos más.",
-    "Añade el calabacín en dados y rehoga 5 minutos, hasta que empiece a ablandarse.",
+    "Pica la cebolla y el ajo y corta los pimientos y el calabacín en dados. Salpimienta el pollo y dóralo en una sartén grande con 1 cucharada de aceite a fuego fuerte 4 minutos. Sácalo.",
+    "Añade el resto del aceite y pocha la cebolla y el ajo 5 minutos a fuego medio. Incorpora los pimientos y cocina 5 minutos más.",
+    "Añade el calabacín y rehoga 5 minutos, hasta que empiece a ablandarse.",
     "Agrega el tomate, el azúcar y sal y cocina 6 minutos, hasta que todo esté tierno y el tomate haya espesado.",
     "Mete el pollo y cuece 4 minutos a fuego suave, hasta que esté hecho. Sirve con pan."
   ],
@@ -412,11 +412,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo, pásalo por harina y dóralo en la cazuela con el aceite a fuego fuerte 7 minutos. Sácalo.",
-    "A fuego medio, pocha la cebolla en juliana y los ajos laminados 10 minutos, hasta que estén dorados.",
+    "Corta la cebolla en juliana y lamina los ajos. Salpimienta el pollo, pásalo por harina y dóralo en la cazuela con el aceite a fuego fuerte 7 minutos. Sácalo.",
+    "A fuego medio, pocha la cebolla y los ajos 10 minutos, hasta que estén dorados. Mientras, pela las patatas y córtalas en rodajas gruesas.",
     "Mete el pollo, vierte la sidra y el laurel y deja que hierva 2 minutos.",
-    "Añade las patatas en rodajas gruesas y un poco de agua si no quedan cubiertas. Tapa y cuece a fuego suave 20 minutos.",
-    "Incorpora la manzana en gajos con piel y cuece 8 minutos más, destapado, hasta que la manzana esté tierna pero entera y la salsa haya espesado.",
+    "Añade las patatas y un poco de agua si no quedan cubiertas. Tapa y cuece a fuego suave 20 minutos. Mientras, corta la manzana en gajos con piel.",
+    "Incorpora la manzana y cuece 8 minutos más, destapado, hasta que la manzana esté tierna pero entera y la salsa haya espesado.",
     "Prueba de sal y sirve."
   ],
   nutricion: { kcal: 560, prot: 40, hc: 36, grasa: 28 },
@@ -459,12 +459,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta las carrilleras, pásalas por harina y dóralas en la cazuela con el aceite a fuego fuerte 3 minutos por lado. Sácalas.",
-    "Rehoga la cebolla, la zanahoria, el puerro y el ajo troceados a fuego medio 12 minutos, hasta que estén blandos y dorados.",
+    "Trocea la cebolla, la zanahoria, el puerro y el ajo. Salpimienta las carrilleras, pásalas por harina y dóralas en la cazuela con el aceite a fuego fuerte 3 minutos por lado. Sácalas.",
+    "Rehoga la cebolla, la zanahoria, el puerro y el ajo a fuego medio 12 minutos, hasta que estén blandos y dorados.",
     "Mete las carrilleras, riega con el brandy y deja evaporar 1 minuto. Añade el vino, el caldo, el laurel y el tomillo.",
     "Tapa y cuece a fuego muy suave 2 h 30 min, dándoles la vuelta cada 40 minutos y añadiendo agua si baja, hasta que se puedan cortar con una cuchara.",
     "Saca las carrilleras, retira el laurel y tritura las verduras con el líquido. Si la salsa queda clara, redúcela a fuego medio 10 minutos hasta que napee.",
-    "Mientras, cuece las patatas peladas en agua con sal 20 minutos, escúrrelas y aplástalas con la leche caliente y la mantequilla.",
+    "Mientras, pela las patatas y cuécelas en agua con sal 20 minutos, escúrrelas y aplástalas con la leche caliente y la mantequilla.",
     "Devuelve las carrilleras a la salsa, calienta 5 minutos y sírvelas sobre el puré bien bañadas."
   ],
   nutricion: { kcal: 730, prot: 46, hc: 42, grasa: 42 },
@@ -503,10 +503,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la carne y dórala en la cazuela con 2 cucharadas de aceite a fuego fuerte 6 minutos. Sácala.",
-    "Pocha la cebolla, la zanahoria y el ajo picados a fuego medio 10 minutos. Fuera del fuego, añade el pimentón y remueve.",
+    "Pica la cebolla, la zanahoria y el ajo. Salpimienta la carne y dórala en la cazuela con 2 cucharadas de aceite a fuego fuerte 6 minutos. Sácala.",
+    "Pocha la cebolla, la zanahoria y el ajo a fuego medio 10 minutos. Fuera del fuego, añade el pimentón y remueve.",
     "Mete la carne, vierte el vino y deja hervir 2 minutos. Añade el caldo y el laurel, tapa y cuece a fuego suave 50 minutos.",
-    "Mientras, saltea las setas troceadas en una sartén con el resto del aceite a fuego fuerte 4 minutos, hasta que se doren.",
+    "Mientras, trocea las setas y saltéalas en una sartén con el resto del aceite a fuego fuerte 4 minutos, hasta que se doren.",
     "Añade las setas y las castañas a la cazuela y cuece 20 minutos más, destapado, hasta que la carne esté tierna y algunas castañas se deshagan espesando la salsa.",
     "Prueba de sal y sirve."
   ],
@@ -546,11 +546,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el cordero y dóralo en la cazuela con el aceite a fuego fuerte 8 minutos. Sácalo.",
-    "Pocha la cebolla, el pimiento y los ajos picados a fuego medio 10 minutos. Añade el tomate rallado y cocina 4 minutos.",
+    "Pica la cebolla, el pimiento y los ajos y ralla el tomate. Sala el cordero y dóralo en la cazuela con el aceite a fuego fuerte 8 minutos. Sácalo.",
+    "Pocha la cebolla, el pimiento y los ajos a fuego medio 10 minutos. Añade el tomate y cocina 4 minutos.",
     "Fuera del fuego, añade el pimentón y el tomillo. Vuelve al fuego con el cordero y el vino y deja hervir 2 minutos.",
-    "Cubre justo con agua, añade el laurel, tapa y cuece a fuego suave 45 minutos.",
-    "Incorpora las patatas cascadas en trozos y un poco más de agua si hace falta. Cuece 25 minutos, hasta que estén tiernas y la carne se separe del hueso.",
+    "Cubre justo con agua, añade el laurel, tapa y cuece a fuego suave 45 minutos. Mientras, pela las patatas y cáscalas en trozos.",
+    "Incorpora las patatas y un poco más de agua si hace falta. Cuece 25 minutos, hasta que estén tiernas y la carne se separe del hueso.",
     "Deja reposar 5 minutos fuera del fuego, prueba de sal y sirve."
   ],
   nutricion: { kcal: 760, prot: 42, hc: 46, grasa: 45 },
@@ -589,9 +589,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C con calor arriba y abajo.",
+    "Precalienta el horno a 180 °C con calor arriba y abajo. Mientras se calienta, corta la cebolla en gajos, la zanahoria en trozos y el pimiento en tiras, y pela las patatas y córtalas en rodajas gruesas.",
     "Salpimienta el pavo y dóralo en una cazuela apta para horno con el aceite a fuego fuerte 3 minutos por lado. Sácalo.",
-    "Añade la cebolla en gajos, la zanahoria en trozos, el pimiento en tiras, las patatas en rodajas gruesas y los ajos enteros con piel. Rehoga 5 minutos.",
+    "Añade la cebolla, la zanahoria, el pimiento, las patatas y los ajos enteros con piel. Rehoga 5 minutos.",
     "Coloca el pavo encima, vierte el vino y el caldo y añade el tomillo y el laurel.",
     "Tapa (con su tapa o con papel de aluminio) y hornea 50 minutos. Destapa y hornea 20 minutos más, hasta que el pavo esté tierno y dorado y las verduras blandas.",
     "Sirve el pavo con las verduras y el jugo de la cazuela, aplastando los ajos asados sobre la carne."
@@ -636,11 +636,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Extiende los filetes, salpimiéntalos y úntalos con la mostaza. Coloca encima 2 lonchas de bacon, un poco de cebolla en juliana fina (usa media cebolla) y un pepinillo en tiras.",
-    "Enrolla cada filete desde el lado estrecho, metiendo los bordes, y ciérralo con palillos o hilo de cocina.",
+    "Enrolla cada filete desde el lado estrecho, metiendo los bordes, y ciérralo con palillos o hilo de cocina. Pica la cebolla restante y la zanahoria.",
     "Dora los rollos en la cazuela con el aceite a fuego fuerte 6 minutos, girándolos. Sácalos.",
-    "Rehoga la cebolla restante y la zanahoria picadas 8 minutos. Añade el tomate concentrado, remueve 1 minuto y vierte el vino; deja reducir 2 minutos.",
+    "Rehoga la cebolla restante y la zanahoria 8 minutos. Añade el tomate concentrado, remueve 1 minuto y vierte el vino; deja reducir 2 minutos.",
     "Mete los rollos, añade el caldo y el laurel, tapa y cuece a fuego muy suave 1 h 15 min, girándolos a mitad, hasta que estén tiernos.",
-    "Mientras, cuece las patatas peladas en agua con sal 20 minutos y aplástalas con la leche caliente y la mantequilla.",
+    "Mientras, pela las patatas y cuécelas en agua con sal 20 minutos y aplástalas con la leche caliente y la mantequilla.",
     "Saca los rollos, quita los palillos y, si quieres la salsa fina, tritúrala. Redúcela unos minutos hasta que napee y sirve los rollos bañados junto al puré."
   ],
   nutricion: { kcal: 700, prot: 44, hc: 40, grasa: 40 },
@@ -679,11 +679,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la carne, pásala por la harina y dórala en la cazuela con el aceite y la mantequilla a fuego fuerte 6 minutos. Sácala.",
-    "Añade las cebollas en medias lunas gruesas y póchalas a fuego medio 15 minutos, removiendo, hasta que estén doradas y blandas.",
+    "Corta las cebollas en medias lunas gruesas. Salpimienta la carne, pásala por la harina y dórala en la cazuela con el aceite y la mantequilla a fuego fuerte 6 minutos. Sácala.",
+    "Añade las cebollas y póchalas a fuego medio 15 minutos, removiendo, hasta que estén doradas y blandas.",
     "Mete la carne, añade el vinagre, el azúcar, los clavos, el laurel y el caldo.",
     "Tapa y cuece a fuego mínimo 2 horas, removiendo de vez en cuando, hasta que la carne se deshaga y la cebolla forme una salsa espesa y oscura.",
-    "A falta de 25 minutos, cuece las patatas peladas en agua con sal 20 minutos y escúrrelas.",
+    "A falta de 25 minutos, pela las patatas y cuécelas en agua con sal 20 minutos y escúrrelas.",
     "Retira el laurel y los clavos, prueba de sal y sirve el estofado sobre las patatas, aplastándolas un poco para que se empapen."
   ],
   nutricion: { kcal: 600, prot: 42, hc: 44, grasa: 28 },
@@ -722,11 +722,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas gruesas y cuécelas en agua con sal 15 minutos. Escúrrelas.",
-    "Mientras, rehoga en la cazuela con el aceite el ajo picado, el ají amarillo y el comino 1 minuto a fuego medio.",
+    "Mientras, pica el ajo y el cilantro y corta la cebolla morada en gajos gruesos y el tomate en gajos. Rehoga en la cazuela con el aceite el ajo, el ají amarillo y el comino 1 minuto a fuego medio.",
     "Coloca el pollo salpimentado y dóralo ligeramente 2 minutos por lado.",
-    "Cubre el pollo con la cebolla morada en gajos gruesos y el tomate en gajos, sala y vierte la cerveza.",
+    "Cubre el pollo con la cebolla morada y el tomate, sala y vierte la cerveza.",
     "Tapa bien y cuece a fuego suave 25 minutos sin destapar: el pollo se hace con el vapor y el jugo de las verduras.",
-    "Añade el cilantro picado, incorpora las patatas para que se empapen 2 minutos y sirve con todo su caldito."
+    "Añade el cilantro, incorpora las patatas para que se empapen 2 minutos y sirve con todo su caldito."
   ],
   nutricion: { kcal: 455, prot: 38, hc: 34, grasa: 18 },
   etiquetas: ["tradicional", "fácil", "económica", "ligera", "una sola sartén", "bajo en colesterol"],
@@ -765,10 +765,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y dóralo en la cazuela con el aceite a fuego fuerte 5 minutos. Sácalo.",
-    "Pocha la cebolla y los ajos picados 6 minutos a fuego medio. Añade el tomate rallado y cocina 4 minutos.",
-    "Mete el pollo, vierte el vino y deja hervir 1 minuto. Añade el caldo, el laurel, la zanahoria en rodajas y la patata en dados.",
-    "Tapa y cuece a fuego suave 15 minutos. Añade las judías verdes en trozos y cuece 8 minutos más.",
+    "Pica la cebolla y los ajos, ralla el tomate, corta la zanahoria en rodajas y pela la patata y córtala en dados. Salpimienta el pollo y dóralo en la cazuela con el aceite a fuego fuerte 5 minutos. Sácalo.",
+    "Pocha la cebolla y los ajos 6 minutos a fuego medio. Añade el tomate y cocina 4 minutos.",
+    "Mete el pollo, vierte el vino y deja hervir 1 minuto. Añade el caldo, el laurel, la zanahoria y la patata.",
+    "Tapa y cuece a fuego suave 15 minutos; mientras, corta las judías verdes en trozos. Añádelas y cuece 8 minutos más.",
     "Incorpora los guisantes y cuece 4 minutos, hasta que todas las verduras estén tiernas. Prueba de sal y sirve."
   ],
   nutricion: { kcal: 450, prot: 40, hc: 36, grasa: 16 },
@@ -805,10 +805,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las patatas en bastones, sécalas y fríelas en abundante aceite (o en una sartén con 1 cucharada y tapa) a fuego medio 12 minutos, hasta que estén doradas. Sala y reserva.",
-    "Mientras, pocha la cebolla en juliana y el ajo en láminas en otra sartén con 1 cucharada de aceite a fuego medio 12 minutos, con una pizca de sal, hasta que esté dorada y dulce. Sácala.",
-    "Corta el hígado en tiras, pásalo por la harina y saltéalo en la misma sartén con el resto del aceite a fuego fuerte 1 minuto y medio, hasta que pierda el color crudo por fuera.",
+    "Mientras, corta la cebolla en juliana y el ajo en láminas y póchalos en otra sartén con 1 cucharada de aceite a fuego medio 12 minutos, con una pizca de sal, hasta que esté dorada y dulce; mientras se pocha, corta el hígado en tiras y pica el perejil. Saca la cebolla.",
+    "Pasa el hígado por la harina y saltéalo en la misma sartén con el resto del aceite a fuego fuerte 1 minuto y medio, hasta que pierda el color crudo por fuera.",
     "Vuelve a meter la cebolla, vierte el vino y cocina 1 minuto más, removiendo. No lo pases: debe quedar rosado por dentro.",
-    "Sala justo al final, añade perejil picado y sirve enseguida con las patatas."
+    "Sala justo al final, añade el perejil y sirve enseguida con las patatas."
   ],
   nutricion: { kcal: 555, prot: 32, hc: 48, grasa: 26 },
   etiquetas: ["tradicional", "fácil", "económica", "rápida", "alta en proteína", "poco especiada"],
@@ -847,12 +847,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la carne y dórala en la cazuela con el aceite a fuego fuerte 6 minutos. Espolvorea la harina y remueve 1 minuto.",
-    "Añade la cebolla en gajos y los ajos y rehoga 4 minutos. Vierte el vino y raspa el fondo.",
-    "Agrega el caldo, el tomillo y el laurel. Tapa y cuece a fuego muy suave 1 h 30 min.",
-    "Incorpora las zanahorias en rodajas gruesas al bies y cuece tapado 1 hora más, hasta que la carne se deshaga y las zanahorias estén muy tiernas y dulces.",
-    "A falta de 25 minutos, cuece las patatas peladas en agua con sal y escúrrelas.",
-    "Retira el tomillo y el laurel, prueba de sal y sirve con las patatas y perejil picado."
+    "Corta la cebolla en gajos y pela los ajos. Salpimienta la carne y dórala en la cazuela con el aceite a fuego fuerte 6 minutos. Espolvorea la harina y remueve 1 minuto.",
+    "Añade la cebolla y los ajos y rehoga 4 minutos. Vierte el vino y raspa el fondo.",
+    "Agrega el caldo, el tomillo y el laurel. Tapa y cuece a fuego muy suave 1 h 30 min. Mientras, pela las zanahorias y córtalas en rodajas gruesas al bies.",
+    "Incorpora las zanahorias y cuece tapado 1 hora más, hasta que la carne se deshaga y las zanahorias estén muy tiernas y dulces.",
+    "A falta de 25 minutos, pela las patatas, cuécelas en agua con sal y escúrrelas, y pica el perejil.",
+    "Retira el tomillo y el laurel, prueba de sal y sirve con las patatas y el perejil."
   ],
   nutricion: { kcal: 590, prot: 44, hc: 40, grasa: 28 },
   etiquetas: ["tradicional", "fácil", "invierno", "batch cooking", "de cuchara", "poco especiada"],
@@ -889,8 +889,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y dóralo en la cazuela con el aceite a fuego fuerte 5 minutos. Sácalo.",
-    "Pocha la cebolla, el pimiento y el ajo picados a fuego medio 8 minutos.",
+    "Pica la cebolla, el pimiento y el ajo. Salpimienta el pollo y dóralo en la cazuela con el aceite a fuego fuerte 5 minutos. Sácalo.",
+    "Pocha la cebolla, el pimiento y el ajo a fuego medio 8 minutos.",
     "Mete el pollo, vierte el vino y deja hervir 2 minutos. Añade el tomate y el laurel.",
     "Tapa y cuece a fuego suave 20 minutos. Añade las aceitunas y cuece 5 minutos más destapado, hasta que la salsa espese.",
     "Mientras, cuece el arroz en agua con sal 16-18 minutos y escúrrelo.",
@@ -930,9 +930,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y dóralo en la cazuela con el aceite a fuego fuerte 3 minutos. Sácalo.",
-    "Pocha la cebolla y el ajo picados 5 minutos a fuego medio. Añade el tomate rallado y cocina 3 minutos.",
-    "Fuera del fuego, añade el pimentón y remueve. Incorpora la patata cascada en trozos, las judías verdes en trozos y el caldo.",
+    "Pica la cebolla y el ajo, ralla el tomate, pela y casca la patata en trozos y corta las judías verdes en trozos. Salpimienta el pollo y dóralo en la cazuela con el aceite a fuego fuerte 3 minutos. Sácalo.",
+    "Pocha la cebolla y el ajo 5 minutos a fuego medio. Añade el tomate y cocina 3 minutos.",
+    "Fuera del fuego, añade el pimentón y remueve. Incorpora la patata, las judías verdes y el caldo.",
     "Tapa y cuece a fuego suave 15 minutos, hasta que la patata esté casi tierna.",
     "Mete el pollo y cuece 6 minutos más, hasta que esté hecho y el caldo algo espeso. Prueba de sal y sirve."
   ],
@@ -971,10 +971,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pocha la cebolla muy picada en la cazuela con el aceite a fuego medio-suave 15 minutos, hasta que esté dorada y casi deshecha.",
+    "Pica muy fina la cebolla y póchala en la cazuela con el aceite a fuego medio-suave 15 minutos, hasta que esté dorada y casi deshecha. Mientras, pica el ajo, corta el pimiento en tiras y trocea el tomate.",
     "Añade la carne y rehoga 5 minutos, hasta que pierda el color crudo.",
-    "Aparta del fuego, añade el pimentón, el ajo picado y la alcaravea y remueve 30 segundos.",
-    "Vuelve al fuego, agrega el pimiento en tiras, el tomate troceado, sal y el agua. Tapa y cuece a fuego muy suave 1 h 15 min, removiendo de vez en cuando, hasta que la carne esté tierna y la salsa espesa y roja.",
+    "Aparta del fuego, añade el pimentón, el ajo y la alcaravea y remueve 30 segundos.",
+    "Vuelve al fuego, agrega el pimiento, el tomate, sal y el agua. Tapa y cuece a fuego muy suave 1 h 15 min, removiendo de vez en cuando, hasta que la carne esté tierna y la salsa espesa y roja.",
     "Mientras, cuece la pasta en agua con sal según el paquete y escúrrela.",
     "Prueba de sal y pimienta y sirve el pörkölt sobre la pasta."
   ],
@@ -1015,11 +1015,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la carne, pásala por la harina y dórala en la cazuela con el aceite a fuego fuerte 5 minutos. Sácala.",
-    "Pocha la cebolla, la zanahoria y el apio muy picados (el soffritto) a fuego medio 10 minutos. Añade el tomate concentrado y remueve 1 minuto.",
+    "Pica muy finos la cebolla, la zanahoria y el apio. Salpimienta la carne, pásala por la harina y dórala en la cazuela con el aceite a fuego fuerte 5 minutos. Sácala.",
+    "Pocha la cebolla, la zanahoria y el apio (el soffritto) a fuego medio 10 minutos. Añade el tomate concentrado y remueve 1 minuto.",
     "Mete la carne, vierte el vino y deja reducir 2 minutos. Añade el caldo y el romero.",
-    "Tapa y cuece a fuego suave 1 hora, hasta que la carne esté casi tierna.",
-    "Incorpora las patatas en dados grandes y cuece 20 minutos. Añade los guisantes y cuece 5 minutos más, hasta que todo esté tierno y la salsa espesa.",
+    "Tapa y cuece a fuego suave 1 hora, hasta que la carne esté casi tierna. Mientras, pela las patatas y córtalas en dados grandes.",
+    "Incorpora las patatas y cuece 20 minutos. Añade los guisantes y cuece 5 minutos más, hasta que todo esté tierno y la salsa espesa.",
     "Retira el romero, prueba de sal y sirve."
   ],
   nutricion: { kcal: 600, prot: 42, hc: 40, grasa: 30 },
@@ -1058,11 +1058,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las patatas en bastones, sécalas y fríelas en una sartén con 2 cucharadas de aceite (o en abundante aceite) a fuego medio 15 minutos, dándoles la vuelta, hasta que estén doradas. Sala.",
-    "Mientras, salpimienta las chuletas y dóralas en otra sartén con el resto del aceite a fuego fuerte 2 minutos por lado. Sácalas.",
-    "En la misma sartén pocha la cebolla en juliana y los ajos laminados a fuego medio 7 minutos, hasta que estén dorados.",
+    "Mientras, corta la cebolla en juliana, lamina los ajos y pica el perejil. Salpimienta las chuletas y dóralas en otra sartén con el resto del aceite a fuego fuerte 2 minutos por lado. Sácalas.",
+    "En la misma sartén pocha la cebolla y los ajos a fuego medio 7 minutos, hasta que estén dorados.",
     "Espolvorea la harina, remueve 30 segundos y vierte el vino; deja reducir 1 minuto. Añade el caldo y el laurel.",
     "Mete las chuletas, tapa y cocina a fuego suave 6-8 minutos, dándoles la vuelta a mitad, hasta que estén hechas y la salsa haya espesado.",
-    "Sirve las chuletas con su salsa, perejil picado y las patatas fritas."
+    "Sirve las chuletas con su salsa, el perejil y las patatas fritas."
   ],
   nutricion: { kcal: 715, prot: 40, hc: 44, grasa: 42 },
   etiquetas: ["tradicional", "fácil", "económica", "saciante", "rápida", "sin verduras", "poco especiada"],

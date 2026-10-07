@@ -29,11 +29,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas, sécalas con un trapo y córtalas en láminas finas e irregulares (de unos 3 mm), cascándolas con el cuchillo para que suelten almidón. Pica la cebolla en juliana fina. Sala ambas y mézclalas.",
     "Calienta el aceite en una sartén de 22-24 cm a fuego medio (no debe humear). Echa la patata y la cebolla y confita 20-25 minutos, removiendo de vez en cuando, hasta que la patata esté blanda y se rompa con la espumadera, con algún borde dorado pero sin freírse.",
-    "Mientras, bate los huevos en un bol grande con una pizca de sal, sin montarlos, solo hasta que la yema y la clara se mezclen.",
+    "Mientras, bate los huevos en un bol grande con una pizca de sal, sin montarlos, solo hasta que la yema y la clara se mezclen. Corta también los tomates en gajos para la ensalada.",
     "Escurre bien las patatas en un colador sobre un recipiente (guarda el aceite para otros guisos) y échalas aún calientes sobre el huevo. Mezcla, aplasta un poco algunas y deja reposar 5 minutos para que la patata absorba el huevo.",
     "Pon la sartén limpia a fuego medio-alto con 1 cucharada del aceite reservado. Vierte la mezcla, remueve 10 segundos con la espátula y despega los bordes. Baja a fuego medio y cuaja 2-3 minutos, moviendo la sartén para que no se pegue.",
     "Tapa la sartén con un plato llano más grande que ella, dale la vuelta con decisión y desliza la tortilla de nuevo a la sartén. Cuaja 1 minuto más por el otro lado si la quieres jugosa, o 3 si la prefieres cuajada.",
-    "Corta los tomates en gajos, alíñalos con sal, el vinagre y un chorrito del aceite reservado, y sirve la tortilla templada con la ensalada y el pan."
+    "Aliña los tomates con sal, el vinagre y un chorrito del aceite reservado, y sirve la tortilla templada con la ensalada y el pan."
   ],
   nutricion: { kcal: 712, prot: 26, hc: 62, grasa: 40 },
   etiquetas: ["tradicional", "saciante", "económica", "de domingo", "ideal para llevar", "poco especiada"],
@@ -70,12 +70,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata y córtala en láminas finas; corta el calabacín (con piel) en medias lunas de medio centímetro y la cebolla en juliana.",
-    "Calienta 3 cucharadas de aceite en una sartén de 22 cm a fuego medio y pocha la patata con la cebolla, tapada, 12 minutos, removiendo de vez en cuando, hasta que la patata esté tierna.",
+    "Calienta 3 cucharadas de aceite en una sartén de 22 cm a fuego medio y pocha la patata con la cebolla, tapada, 12 minutos, removiendo de vez en cuando, hasta que la patata esté tierna. Mientras, bate los huevos en un bol con sal y pimienta, y trocea la lechuga y el tomate.",
     "Añade el calabacín con una pizca de sal y cocina destapado 8-10 minutos a fuego medio-alto, hasta que esté blando y haya evaporado casi todo su agua (si queda caldo, la tortilla saldrá aguada).",
-    "Bate los huevos en un bol con sal y pimienta, incorpora las verduras escurridas y deja reposar 3 minutos.",
+    "Incorpora las verduras escurridas al huevo batido y deja reposar 3 minutos.",
     "Limpia la sartén, caliéntala con 1 cucharada de aceite a fuego medio-alto, vierte la mezcla y cuaja 3 minutos despegando los bordes con la espátula.",
     "Dale la vuelta con ayuda de un plato y cuaja 2 minutos más por el otro lado, hasta que al presionar el centro esté firme pero tierno.",
-    "Trocea la lechuga y el tomate, alíñalos con sal, vinagre y un chorrito de aceite y sirve la tortilla con la ensalada y el pan."
+    "Aliña la lechuga y el tomate con sal, vinagre y un chorrito de aceite y sirve la tortilla con la ensalada y el pan."
   ],
   nutricion: { kcal: 564, prot: 24, hc: 45, grasa: 32 },
   etiquetas: ["tradicional", "fácil", "económica", "verano", "ideal para llevar", "poco especiada"],
@@ -108,8 +108,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas en bastones gruesos o en rodajas de medio centímetro. Lávalas para quitar el almidón y sécalas muy bien con un trapo.",
-    "Calienta el aceite en una sartén honda a fuego medio y fríe las patatas 12 minutos, hasta que estén tiernas por dentro. Sube el fuego a fuerte los últimos 3 minutos para que se doren y queden crujientes. Escúrrelas sobre papel y sálalas.",
-    "En el mismo aceite (retira parte, deja unos 3 dedos) fríe los pimientos cortados en tiras anchas con los ajos laminados a fuego medio 6-7 minutos, hasta que estén blandos y con la piel arrugada. Escúrrelos y sálalos.",
+    "Calienta el aceite en una sartén honda a fuego medio y fríe las patatas 12 minutos, hasta que estén tiernas por dentro. Mientras, corta los pimientos en tiras anchas y lamina los ajos. Sube el fuego a fuerte los últimos 3 minutos para que las patatas se doren y queden crujientes. Escúrrelas sobre papel y sálalas.",
+    "En el mismo aceite (retira parte, deja unos 3 dedos) fríe los pimientos con los ajos a fuego medio 6-7 minutos, hasta que estén blandos y con la piel arrugada. Escúrrelos y sálalos.",
     "Sube el fuego del aceite y fríe los huevos de uno en uno, echándoles aceite caliente por encima con la espumadera para que la clara quede con puntilla y la yema cruda, unos 40 segundos cada uno.",
     "Pon en una fuente las patatas, los pimientos encima y los huevos coronando. Rompe las yemas con un cuchillo y un tenedor delante de los comensales, mezcla un poco y termina con sal en escamas."
   ],
@@ -148,10 +148,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas en rodajas de 1 cm. Sálalas, pásalas por harina (sacude el exceso) y luego por el huevo batido.",
+    "Pica finos la cebolla y los ajos, pica el perejil y calienta el caldo con el azafrán desmenuzado. Pela las patatas y córtalas en rodajas de 1 cm. Bate los huevos. Sala las rodajas, pásalas por harina (sacude el exceso) y luego por el huevo batido.",
     "Calienta el aceite en una sartén a fuego medio y fríe las rodajas por tandas 2-3 minutos por cada lado, hasta que el rebozado esté dorado (la patata aún estará cruda por dentro). Escúrrelas sobre papel.",
-    "En una cazuela ancha, con 3 cucharadas de ese aceite, pocha la cebolla y los ajos picados finos a fuego medio-bajo 10 minutos, hasta que estén transparentes. Añade 1 cucharada de la harina sobrante y remueve 1 minuto.",
-    "Vierte el vino y deja que se evapore el alcohol 2 minutos. Añade el caldo caliente con el azafrán desmenuzado y la mitad del perejil picado, y lleva a ebullición.",
+    "En una cazuela ancha, con 3 cucharadas de ese aceite, pocha la cebolla y los ajos a fuego medio-bajo 10 minutos, hasta que estén transparentes. Añade 1 cucharada de la harina sobrante y remueve 1 minuto.",
+    "Vierte el vino y deja que se evapore el alcohol 2 minutos. Añade el caldo caliente con el azafrán y la mitad del perejil, y lleva a ebullición.",
     "Coloca las rodajas en la cazuela en una o dos capas, que queden casi cubiertas por la salsa. Cuece a fuego suave 25 minutos, moviendo la cazuela por las asas (no remuevas con cuchara o se romperán).",
     "Añade los guisantes y cuece 5 minutos más, hasta que la patata esté tierna al pincharla y la salsa haya espesado. Rectifica de sal.",
     "Reposa 5 minutos fuera del fuego y sirve espolvoreado con el resto de perejil, con pan para mojar."
@@ -235,11 +235,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece 2 huevos 10 minutos en agua hirviendo, enfríalos en agua fría, pélalos y córtalos en cuartos.",
-    "Limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, corta las puntas y pártelas en cuartos. Frótalas con limón para que no se oscurezcan.",
-    "Pon a hervir agua con sal y cuece por separado (con espumadera, en tandas) las verduras: zanahoria en rodajas y judías verdes troceadas 8 minutos, alcachofas 10 minutos, espárragos en trozos de 4 cm 3 minutos y guisantes 2 minutos. Escurre y guarda 1 vaso del agua de cocción.",
-    "Seca bien las alcachofas, pásalas por 1 cucharada de harina y por el huevo batido y dóralas en una sartén con 2 cucharadas de aceite a fuego medio 1 minuto por lado. Reserva.",
-    "En una cazuela, pocha la cebolla y el ajo picados con 2 cucharadas de aceite 8 minutos a fuego medio-bajo, hasta que estén transparentes. Añade la otra cucharada de harina y tuéstala 1 minuto removiendo.",
+    "Pon a hervir dos cazos: uno pequeño con agua para los huevos y otro grande con agua y sal para las verduras. Mientras se calientan, limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, corta las puntas y pártelas en cuartos; frótalas con limón para que no se oscurezcan. Corta la zanahoria en rodajas, trocea las judías verdes, corta los espárragos en trozos de 4 cm y pica la cebolla y el ajo.",
+    "Cuece 2 huevos 10 minutos, enfríalos en agua fría, pélalos y córtalos en cuartos. A la vez, cuece por separado (con espumadera, en tandas) las verduras: zanahoria y judías verdes 8 minutos, alcachofas 10 minutos, espárragos 3 minutos y guisantes 2 minutos. Escurre y guarda 1 vaso del agua de cocción.",
+    "Seca bien las alcachofas, pásalas por 1 cucharada de harina y por el huevo restante batido y dóralas en una sartén con 2 cucharadas de aceite a fuego medio 1 minuto por lado. Reserva.",
+    "En una cazuela, pocha la cebolla y el ajo con 2 cucharadas de aceite 8 minutos a fuego medio-bajo, hasta que estén transparentes. Añade la otra cucharada de harina y tuéstala 1 minuto removiendo.",
     "Vierte el vino, deja evaporar 1 minuto y añade el caldo y medio vaso del agua de cocción poco a poco, removiendo, hasta tener una salsa ligera. Cuece 3 minutos.",
     "Incorpora todas las verduras y las alcachofas rebozadas, mueve la cazuela por las asas y calienta 5 minutos a fuego suave para que se impregnen. Rectifica de sal y sirve con los cuartos de huevo duro por encima."
   ],
@@ -276,11 +275,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Separa la coliflor en ramilletes medianos y pela y corta la patata en trozos de 3 cm.",
-    "Pon agua con sal a hervir en una cazuela y cuece la patata 8 minutos; añade la coliflor y cuece 8-10 minutos más, hasta que ambas estén tiernas pero enteras al pincharlas. Escurre bien.",
-    "En una sartén grande, calienta el aceite a fuego medio y dora los ajos laminados 1-2 minutos, hasta que empiecen a tomar color dorado claro.",
+    "Pon agua con sal a hervir en una cazuela y cuece la patata 8 minutos; añade la coliflor y cuece 8-10 minutos más, hasta que ambas estén tiernas pero enteras al pincharlas. Mientras, lamina los ajos, bate los huevos con una pizca de sal y pica el perejil. Escurre bien la verdura.",
+    "En una sartén grande, calienta el aceite a fuego medio y dora los ajos 1-2 minutos, hasta que empiecen a tomar color dorado claro.",
     "Aparta la sartén del fuego, añade el pimentón y remueve 10 segundos (no debe quemarse), y echa enseguida el vinagre.",
     "Vuelve al fuego, incorpora la coliflor y la patata escurridas y saltea 2 minutos para que se impregnen del refrito.",
-    "Bate los huevos con una pizca de sal, viértelos sobre la verdura y remueve con suavidad a fuego bajo 1-2 minutos, hasta que el huevo cuaje cremoso. Sirve con perejil picado."
+    "Vierte los huevos batidos sobre la verdura y remueve con suavidad a fuego bajo 1-2 minutos, hasta que el huevo cuaje cremoso. Sirve con el perejil picado."
   ],
   nutricion: { kcal: 440, prot: 18, hc: 38, grasa: 24 },
   etiquetas: ["tradicional", "fácil", "económica", "invierno", "ligera", "poco especiada"],
@@ -315,8 +314,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "pizca" }
   ],
   pasos: [
-    "Quita las puntas e hilos a las judías y córtalas en trozos de 4 cm. Cuécelas en agua hirviendo con sal 8-10 minutos, hasta que estén tiernas pero aún verdes. Escúrrelas.",
-    "En una sartén honda o cazuela baja, pocha la cebolla y el ajo picados con el aceite a fuego medio 8 minutos, hasta que estén blandos.",
+    "Pon a hervir agua con sal. Mientras, quita las puntas e hilos a las judías y córtalas en trozos de 4 cm, y pica la cebolla y el ajo.",
+    "Cuece las judías en el agua hirviendo 8-10 minutos, hasta que estén tiernas pero aún verdes, y escúrrelas. Mientras, en una sartén honda o cazuela baja, pocha la cebolla y el ajo con el aceite a fuego medio 8 minutos, hasta que estén blandos.",
     "Aparta del fuego, añade el pimentón, remueve unos segundos y vierte el tomate con la pizca de azúcar y sal. Cocina 8 minutos a fuego medio, hasta que espese.",
     "Incorpora las judías, mezcla y deja que tomen sabor 2 minutos.",
     "Haz tres huecos en la salsa con una cuchara, casca un huevo en cada uno, sala ligeramente y tapa. Cocina a fuego suave 4-5 minutos, hasta que la clara esté blanca y cuajada y la yema siga líquida.",
@@ -403,14 +402,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Descongela las espinacas, escúrrelas apretando con las manos hasta que no suelten agua y pícalas.",
-    "Funde la mantequilla en una cazuela a fuego medio-bajo y pocha la cebolla muy picada 6 minutos, hasta que esté transparente. Añade las espinacas y rehoga 2 minutos.",
+    "Descongela las espinacas con antelación (en la nevera desde la víspera o unos minutos en el microondas en modo descongelar), escúrrelas apretando con las manos hasta que no suelten agua y pícalas. Pica la cebolla muy fina y templa la leche.",
+    "Funde la mantequilla en una cazuela a fuego medio-bajo y pocha la cebolla 6 minutos, hasta que esté transparente. Añade las espinacas y rehoga 2 minutos.",
     "Agrega la harina y tuéstala 2 minutos removiendo, hasta que huela a galleta. Vierte la leche templada poco a poco sin dejar de remover con varillas.",
     "Cocina la masa a fuego suave 12-15 minutos removiendo con una cuchara de madera, hasta que se despegue de las paredes. Añade el queso, la sal y la nuez moscada y mezcla hasta que se funda.",
-    "Extiende la masa en una fuente, cúbrela con film a piel (tocando la masa) y deja enfriar 15 minutos fuera y al menos 1 hora en la nevera, hasta que esté firme.",
-    "Forma las croquetas con dos cucharas o con las manos untadas de aceite, pásalas por huevo batido y luego por pan rallado.",
+    "Extiende la masa en una fuente, cúbrela con film a piel (tocando la masa) y deja enfriar 15 minutos fuera y al menos 1 hora en la nevera, hasta que esté firme. Mientras, bate los huevos en un plato hondo, pon el pan rallado en otro y lava y trocea la lechuga y el tomate.",
+    "Forma las croquetas con dos cucharas o con las manos untadas de aceite, pásalas por el huevo batido y luego por el pan rallado.",
     "Calienta el aceite en una sartén pequeña y honda a fuego medio-alto (que un trozo de pan dore en 30 segundos) y fríe las croquetas de 4 en 4, 1-2 minutos, hasta que estén doradas. Escúrrelas sobre papel.",
-    "Sirve con la lechuga y el tomate troceados y aliñados con sal y un hilo de aceite."
+    "Sirve con la lechuga y el tomate aliñados con sal y un hilo de aceite."
   ],
   nutricion: { kcal: 786, prot: 26, hc: 76, grasa: 42 },
   etiquetas: ["tradicional", "saciante", "batch cooking", "para niños", "de domingo", "poco especiada"],
@@ -449,7 +448,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava bien las patatas, pínchalas con un tenedor, úntalas con un poco de aceite y sal y ásalas sobre la rejilla 45-50 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, pica la cebolla y el ajo y trocea las setas. Pocha la cebolla con el aceite en una sartén a fuego medio 8 minutos; añade ajo y setas y saltea a fuego fuerte 5 minutos, hasta que estén doradas y sin agua. Salpimienta.",
+    "Mientras, pica la cebolla, el ajo y el perejil y trocea las setas. Pocha la cebolla con el aceite en una sartén a fuego medio 8 minutos; añade ajo y setas y saltea a fuego fuerte 5 minutos, hasta que estén doradas y sin agua. Salpimienta.",
     "Prepara la bechamel: funde la mantequilla en un cazo, tuesta la harina 1 minuto, añade la leche poco a poco removiendo con varillas y cuece 5 minutos a fuego suave hasta que espese. Sazona con sal y nuez moscada.",
     "Corta una tapa a lo largo de cada patata y vacíalas con una cuchara dejando medio centímetro de pared. Aplasta la pulpa con un tenedor.",
     "Mezcla la pulpa con las setas, la mitad de la bechamel y el perejil picado, y rellena las patatas formando un pequeño montículo.",
@@ -486,10 +485,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia las setas con un paño húmedo (no las laves bajo el grifo) y córtalas en tiras. Quita la parte dura y la primera capa de los ajetes y córtalos en trozos de 2 cm.",
-    "Calienta 2 cucharadas de aceite en una sartén a fuego medio y rehoga los ajetes 4 minutos, hasta que estén tiernos.",
+    "Calienta 2 cucharadas de aceite en una sartén a fuego medio y rehoga los ajetes 4 minutos, hasta que estén tiernos. Mientras, bate los huevos ligeramente con sal (sin que hagan espuma), tuesta las rebanadas de pan y pica el perejil.",
     "Sube el fuego, añade las setas con una pizca de sal y saltea 5 minutos, hasta que se doren y se evapore el agua que sueltan.",
-    "Bate los huevos ligeramente con sal (sin que hagan espuma). Baja el fuego al mínimo, vierte el huevo y remueve despacio con una espátula 1-2 minutos, retirando la sartén del fuego antes de que cuaje del todo: debe quedar jugoso.",
-    "Tuesta las rebanadas de pan, rocíalas con el aceite restante y sirve el revuelto encima o al lado, con perejil picado."
+    "Baja el fuego al mínimo, vierte el huevo y remueve despacio con una espátula 1-2 minutos, retirando la sartén del fuego antes de que cuaje del todo: debe quedar jugoso.",
+    "Rocía el pan tostado con el aceite restante y sirve el revuelto encima o al lado, con el perejil picado."
   ],
   nutricion: { kcal: 436, prot: 20, hc: 26, grasa: 28 },
   etiquetas: ["tradicional", "rápida", "fácil", "ligera", "poco especiada"],
@@ -527,11 +526,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 180 °C. Unta un molde rectangular de cerámica o de plum-cake con mantequilla y espolvorea el pan rallado.",
-    "Pica la cebolla, ralla la zanahoria y corta el calabacín en dados pequeños. Pocha la cebolla con el aceite en una sartén a fuego medio 6 minutos; añade zanahoria y calabacín con sal y cocina 12 minutos, hasta que estén blandos y sin agua.",
+    "Pica la cebolla, ralla la zanahoria y corta el calabacín en dados pequeños. Pocha la cebolla con el aceite en una sartén a fuego medio 6 minutos; añade zanahoria y calabacín con sal y cocina 12 minutos, hasta que estén blandos y sin agua. Mientras, calienta agua para el baño maría.",
     "Bate los huevos en un bol con la nata, el queso, sal y pimienta. Incorpora las verduras escurridas y mezcla.",
-    "Vierte en el molde y colócalo dentro de una fuente más grande con 2 cm de agua caliente (baño maría).",
+    "Vierte en el molde y colócalo dentro de una fuente más grande con 2 cm del agua caliente (baño maría).",
     "Hornea 40 minutos, hasta que al pinchar el centro con un cuchillo salga limpio y la superficie esté dorada.",
-    "Deja templar 10 minutos, desmolda y sirve en porciones con el tomate frito caliente por encima."
+    "Deja templar 10 minutos y, mientras, calienta el tomate frito. Desmolda y sirve en porciones con el tomate por encima."
   ],
   nutricion: { kcal: 524, prot: 24, hc: 26, grasa: 36 },
   etiquetas: ["tradicional", "al horno", "fácil", "para niños", "ideal para llevar", "verduras escondidas", "poco especiada"],
@@ -564,11 +563,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava las acelgas, separa las pencas de las hojas, quítales los hilos y córtalas en trozos de 3 cm; trocea las hojas. Pela la patata y córtala en trozos.",
-    "Cuece en agua hirviendo con sal la patata y las pencas 10 minutos; añade las hojas y cuece 4 minutos más. Escurre bien.",
-    "En una sartén grande, dora los ajos laminados con el aceite a fuego medio 1-2 minutos. Aparta, añade el pimentón y remueve unos segundos.",
+    "Pon a hervir agua con sal en una cazuela. Mientras, lava las acelgas, separa las pencas de las hojas, quítales los hilos y córtalas en trozos de 3 cm; trocea las hojas. Pela la patata y córtala en trozos.",
+    "Cuece en el agua hirviendo la patata y las pencas 10 minutos; añade las hojas y cuece 4 minutos más. Mientras, lamina los ajos y pon a calentar un cazo con agua y el vinagre para escalfar. Escurre bien la verdura.",
+    "En una sartén grande, dora los ajos con el aceite a fuego medio 1-2 minutos. Aparta, añade el pimentón y remueve unos segundos.",
     "Vuelve al fuego, añade las acelgas y la patata y rehoga 3 minutos, aplastando un poco la patata. Rectifica de sal.",
-    "Para escalfar, lleva a hervor suave un cazo con agua y el vinagre. Casca cada huevo en una taza, crea un remolino con una cuchara y desliza el huevo en el centro. Cuece 3 minutos y sácalo con una espumadera.",
+    "Con el agua del cazo a hervor suave, casca cada huevo en una taza, crea un remolino con una cuchara y desliza el huevo en el centro. Cuece 3 minutos y sácalo con una espumadera.",
     "Sirve las acelgas en plato hondo con dos huevos escalfados encima de cada ración."
   ],
   nutricion: { kcal: 465, prot: 22, hc: 38, grasa: 25 },
@@ -603,8 +602,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la cebolla en juliana fina y el calabacín en láminas finas o medias lunas (con piel).",
     "Calienta el aceite en una sartén amplia a fuego medio y pocha la cebolla 6 minutos, hasta que esté transparente.",
-    "Añade el calabacín con sal, tapa y cocina a fuego medio-bajo 15 minutos, removiendo de vez en cuando, hasta que esté muy blando, casi deshecho, y haya perdido el agua. Destapa los últimos minutos si queda caldo.",
-    "Bate los huevos con una pizca de sal y el orégano.",
+    "Añade el calabacín con sal, tapa y cocina a fuego medio-bajo 15 minutos, removiendo de vez en cuando, hasta que esté muy blando, casi deshecho, y haya perdido el agua. Destapa los últimos minutos si queda caldo. Mientras, bate los huevos con una pizca de sal y el orégano.",
     "Vierte el huevo sobre las verduras y remueve a fuego suave 1-2 minutos, hasta que cuaje en grumos jugosos, como un revuelto. Sirve enseguida con el pan."
   ],
   nutricion: { kcal: 456, prot: 20, hc: 40, grasa: 24 },
@@ -641,11 +639,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua con hielo y pélalos. Pártelos por la mitad a lo largo y saca las yemas.",
-    "Pica la cebolla muy fina y pochala con el aceite en una sartén pequeña 8 minutos, hasta que esté dorada clara.",
+    "Cuece los huevos 10 minutos desde que el agua hierva. Mientras, pica la cebolla muy fina y pochala con el aceite en una sartén pequeña 8 minutos, hasta que esté dorada clara.",
+    "Enfría los huevos en agua con hielo y pélalos. Pártelos por la mitad a lo largo y saca las yemas.",
     "Aplasta las yemas con un tenedor y mézclalas con la cebolla y 4 cucharadas de tomate frito hasta tener una pasta. Rellena las claras con ella, formando una pequeña cúpula.",
-    "Prepara la bechamel: funde la mantequilla, tuesta la harina 1 minuto, añade la leche poco a poco con varillas y cuece 6 minutos a fuego suave hasta que napé la cuchara. Sala y añade nuez moscada.",
-    "Precalienta el grill del horno a 220 °C. Extiende el resto del tomate en el fondo de una fuente, coloca los huevos con el relleno hacia abajo y cúbrelos con la bechamel.",
+    "Precalienta el grill del horno a 220 °C. Prepara la bechamel: funde la mantequilla, tuesta la harina 1 minuto, añade la leche poco a poco con varillas y cuece 6 minutos a fuego suave hasta que napé la cuchara. Sala y añade nuez moscada.",
+    "Extiende el resto del tomate en el fondo de una fuente, coloca los huevos con el relleno hacia abajo y cúbrelos con la bechamel.",
     "Espolvorea el queso y gratina 8-10 minutos, hasta que esté dorado y burbujeante. Sirve con el pan."
   ],
   nutricion: { kcal: 590, prot: 30, hc: 32, grasa: 38 },
@@ -681,10 +679,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las judías verdes troceadas en agua con sal 6 minutos; añade los guisantes los últimos 2 minutos. Escurre.",
-    "Pela la patata y córtala en dados pequeños de 1 cm; pica la cebolla y los pimientos en dados del mismo tamaño.",
-    "Calienta el aceite en una sartén de 22 cm a fuego medio y pocha la patata, la cebolla y los pimientos con sal 18-20 minutos, removiendo, hasta que la patata esté tierna y algo dorada. Escurre en un colador, reservando el aceite.",
-    "Bate los huevos con sal en un bol grande, añade todas las verduras y mezcla. Reposa 3 minutos.",
+    "Pon a hervir agua con sal. Mientras, trocea las judías verdes, pela la patata y córtala en dados pequeños de 1 cm, y pica la cebolla y los pimientos en dados del mismo tamaño.",
+    "Cuece las judías verdes 6 minutos; añade los guisantes los últimos 2 minutos. Escurre.",
+    "Calienta el aceite en una sartén de 22 cm a fuego medio y pocha la patata, la cebolla y los pimientos con sal 18-20 minutos, removiendo, hasta que la patata esté tierna y algo dorada. Mientras, bate los huevos con sal en un bol grande. Escurre las verduras en un colador, reservando el aceite.",
+    "Añade todas las verduras al huevo batido y mezcla. Reposa 3 minutos.",
     "Calienta la sartén limpia con 1 cucharada del aceite a fuego medio-alto, vierte la mezcla y cuaja 3 minutos despegando los bordes.",
     "Dale la vuelta con un plato y cuaja 2-3 minutos por el otro lado. Sirve templada con el pan."
   ],
@@ -722,8 +720,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en rodajas finas de 3-4 mm. Corta la cebolla en juliana, los pimientos en tiras y lamina los ajos.",
     "Calienta el aceite en una sartén grande a fuego medio. Añade las patatas, la cebolla, los pimientos y los ajos con sal, y mezcla.",
-    "Tapa y cocina a fuego medio-bajo 25 minutos, removiendo con cuidado cada 5 minutos, hasta que las patatas estén muy tiernas y la cebolla se deshaga.",
-    "Destapa, sube el fuego a medio-alto y cocina 5 minutos más para que se doren algunas patatas. Si quieres, rocía con el vinagre y el perejil picado.",
+    "Tapa y cocina a fuego medio-bajo 25 minutos, removiendo con cuidado cada 5 minutos, hasta que las patatas estén muy tiernas y la cebolla se deshaga. Mientras, pica el perejil si lo usas.",
+    "Destapa, sube el fuego a medio-alto y cocina 5 minutos más para que se doren algunas patatas. Si quieres, rocía con el vinagre y el perejil.",
     "Escurre las patatas con una espumadera a una fuente. En el aceite que queda en la sartén, bien caliente, fríe los huevos con puntilla.",
     "Sirve las patatas con los huevos encima para romperlos en la mesa."
   ],
@@ -760,11 +758,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Asa los pimientos enteros en el horno a 200 °C 40 minutos, dándoles la vuelta a mitad, hasta que la piel esté negra. Tápalos 10 minutos, pélalos, córtalos en tiras y alíñalos con el ajo picado, sal y 2 cucharadas de aceite.",
+    "Precalienta el horno a 200 °C y asa los pimientos enteros 40 minutos, dándoles la vuelta a mitad, hasta que la piel esté negra.",
     "Mientras, haz una bechamel espesa: funde la mantequilla, tuesta 40 g de harina 2 minutos, añade la leche poco a poco con varillas y cuece 8 minutos a fuego suave, hasta que esté muy espesa. Sazona con sal y nuez moscada y deja templar.",
     "Fríe 4 huevos en aceite no muy caliente, sin puntilla, solo hasta que la clara cuaje (la yema debe quedar cruda). Sácalos a un plato y recórtales la clara en forma redonda.",
-    "Con una cuchara, cubre cada huevo por ambos lados con una capa de bechamel templada, colocándolos sobre una bandeja engrasada. Deja que se asienten en la nevera 20 minutos.",
-    "Pásalos con cuidado por harina, por los 2 huevos batidos y por pan rallado.",
+    "Con una cuchara, cubre cada huevo por ambos lados con una capa de bechamel templada, colocándolos sobre una bandeja engrasada. Deja que se asienten en la nevera 20 minutos. Mientras, saca los pimientos, tápalos 10 minutos, pélalos, córtalos en tiras y alíñalos con el ajo picado, sal y 2 cucharadas de aceite.",
+    "Pasa los huevos con cuidado por harina, por los 2 huevos batidos y por pan rallado.",
     "Calienta abundante aceite a fuego medio-alto y fríe los huevos encapotados de dos en dos, 1 minuto por lado, hasta que estén dorados. Escurre sobre papel.",
     "Sirve dos por persona con la ensalada de pimientos asados al lado."
   ],
@@ -803,11 +801,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Quita a las pencas de cardo los hilos y la piel exterior con un pelador, córtalas en trozos de 4 cm y échalas en un bol con agua y el zumo de medio limón para que no se oscurezcan.",
     "En una cazuela grande, disuelve 1 cucharada de harina en 2 litros de agua fría con el resto del limón exprimido y sal (así el cardo queda blanco). Lleva a ebullición, añade el cardo escurrido y cuece a fuego medio 1 h 15 min-1 h 30 min, hasta que esté muy tierno. Escurre.",
-    "Mientras, cuece los huevos 10 minutos, enfríalos y pélalos.",
-    "En una sartén honda o cazuela baja, dora las almendras y los ajos laminados con el aceite a fuego medio-bajo 3 minutos, hasta que estén dorados. Sácalos y májalos en el mortero (o tritúralos) con un poco de caldo.",
+    "Mientras, cuece los huevos 10 minutos, enfríalos y pélalos. Lamina los ajos, pica el perejil y calienta el caldo.",
+    "También durante la cocción del cardo, dora las almendras y los ajos con el aceite en una sartén honda o cazuela baja a fuego medio-bajo 3 minutos, hasta que estén dorados. Sácalos y májalos en el mortero (o tritúralos) con un poco de caldo.",
     "En el mismo aceite, tuesta la otra cucharada de harina 1 minuto. Añade el caldo caliente poco a poco removiendo y luego el majado de almendras. Cuece 5 minutos, hasta que la salsa espese ligeramente.",
     "Incorpora el cardo, mezcla con cuidado y cocina 5 minutos a fuego suave para que tome sabor. Rectifica de sal.",
-    "Sirve con los huevos duros en cuartos y perejil picado por encima."
+    "Sirve con los huevos duros en cuartos y el perejil picado por encima."
   ],
   nutricion: { kcal: 452, prot: 20, hc: 30, grasa: 28 },
   etiquetas: ["tradicional", "invierno", "de cuchara", "para invitados", "ligera", "poco especiada"],
@@ -845,9 +843,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia las alcachofas quitando las hojas exteriores duras, recorta el tallo y las puntas y córtalas en cuartos. Sumérgelas en agua con el zumo del limón mientras preparas lo demás.",
-    "Pela la patata y cáscala en trozos medianos (corta un poco y tira para que se rompa: así espesa la salsa).",
-    "En una cazuela ancha, pocha la cebolla y el ajo picados con el aceite a fuego medio-bajo 8 minutos, hasta que estén blandos.",
-    "Añade la harina, remueve 1 minuto, vierte el vino y deja evaporar 2 minutos. Incorpora las alcachofas escurridas, la patata, el caldo caliente, la mitad del perejil picado y sal.",
+    "Pela la patata y cáscala en trozos medianos (corta un poco y tira para que se rompa: así espesa la salsa). Pica la cebolla, el ajo y el perejil, y calienta el caldo.",
+    "En una cazuela ancha, pocha la cebolla y el ajo con el aceite a fuego medio-bajo 8 minutos, hasta que estén blandos.",
+    "Añade la harina, remueve 1 minuto, vierte el vino y deja evaporar 2 minutos. Incorpora las alcachofas escurridas, la patata, el caldo caliente, la mitad del perejil y sal.",
     "Tapa y cuece a fuego suave 25 minutos, moviendo la cazuela por las asas de vez en cuando, hasta que patatas y alcachofas estén tiernas y la salsa haya ligado.",
     "Haz cuatro huecos en el guiso, casca un huevo en cada uno, tapa y cuece 4-5 minutos, hasta que las claras cuajen y las yemas sigan jugosas.",
     "Espolvorea el resto del perejil y sirve en la misma cazuela."
@@ -886,11 +884,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos en agua fría, pélalos y pártelos por la mitad.",
-    "Pica la cebolla y los ajos muy finos, y el perejil (hojas y tallos tiernos) lo más fino que puedas.",
-    "En una cazuela, pocha la cebolla y el ajo con el aceite a fuego medio-bajo 8 minutos, hasta que estén transparentes sin dorarse.",
+    "Cuece los huevos 10 minutos y calienta el caldo. Mientras, pica la cebolla y los ajos muy finos, y el perejil (hojas y tallos tiernos) lo más fino que puedas. Enfría los huevos en agua fría, pélalos y pártelos por la mitad.",
+    "En una cazuela, pocha la cebolla y el ajo con el aceite a fuego medio-bajo 8 minutos, hasta que estén transparentes sin dorarse. Mientras, pela la patata y cáscala en trozos.",
     "Añade la harina y remueve 1 minuto; vierte el vino y deja que se evapore el alcohol 2 minutos.",
-    "Incorpora la patata pelada y cascada en trozos, dos tercios del perejil, el caldo caliente y sal. Cuece a fuego medio, tapado, 20 minutos, hasta que la patata esté tierna y la salsa haya espesado.",
+    "Incorpora la patata, dos tercios del perejil, el caldo caliente y sal. Cuece a fuego medio, tapado, 20 minutos, hasta que la patata esté tierna y la salsa haya espesado.",
     "Añade los guisantes y el resto del perejil y cuece 3 minutos más. Coloca los huevos encima, deja reposar 5 minutos fuera del fuego y sirve."
   ],
   nutricion: { kcal: 574, prot: 22, hc: 72, grasa: 22 },
@@ -929,10 +926,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece 2 huevos 10 minutos, enfríalos, pélalos y córtalos en rodajas.",
-    "Corta las cebollas y los pimientos en tiras finas y pica el ajo. Pocha todo con el aceite y sal en una sartén a fuego bajo 30 minutos, hasta que esté muy blando y dulce. Añade el tomate y cocina 10 minutos más hasta que no quede líquido. Aparta del fuego, mezcla el pimentón y escurre el relleno en un colador, guardando el aceite.",
-    "Para la masa, mezcla en un bol la harina con la levadura y una pizca de sal. Añade el agua, el vino y 2 cucharadas del aceite del sofrito (ya templado) y amasa 8-10 minutos, hasta tener una masa lisa y elástica. Tapa y deja reposar 1 hora en un sitio templado, hasta que doble su tamaño.",
-    "Precalienta el horno a 190 °C. Divide la masa en dos partes, una algo mayor. Estira la grande con el rodillo muy fina (2-3 mm) y colócala sobre papel de horno en una bandeja.",
+    "Corta las cebollas y los pimientos en tiras finas y pica el ajo. Pocha todo con el aceite y sal en una sartén a fuego bajo 30 minutos, hasta que esté muy blando y dulce. Mientras, cuece 2 huevos 10 minutos, enfríalos, pélalos y córtalos en rodajas.",
+    "Añade el tomate al sofrito y cocina 10 minutos más hasta que no quede líquido. Aparta del fuego, mezcla el pimentón y escurre el relleno en un colador, guardando el aceite.",
+    "Para la masa, mezcla en un bol la harina con la levadura y una pizca de sal. Añade el agua, el vino y 2 cucharadas del aceite del sofrito (ya templado) y amasa 8-10 minutos, hasta tener una masa lisa y elástica. Tapa y deja reposar 1 hora en un sitio templado, hasta que doble su tamaño. Cuando falten 15 minutos, precalienta el horno a 190 °C.",
+    "Divide la masa en dos partes, una algo mayor. Estira la grande con el rodillo muy fina (2-3 mm) y colócala sobre papel de horno en una bandeja.",
     "Extiende el relleno dejando 2 cm libres en el borde, reparte encima las rodajas de huevo y cubre con la otra mitad de masa estirada. Une los bordes haciendo un cordón (repulgo) y haz un agujero en el centro para que salga el vapor.",
     "Pinta la superficie con el huevo batido y hornea 35-40 minutos, hasta que esté bien dorada por arriba y por debajo.",
     "Deja templar al menos 10 minutos sobre una rejilla antes de cortar."
@@ -970,11 +967,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Para el tomate: pocha la cebolla y 1 ajo picados con 2 cucharadas de aceite en un cazo a fuego medio 6 minutos. Añade el tomate, el azúcar y sal y cuece a fuego suave 20 minutos, removiendo de vez en cuando, hasta que espese. Tritúralo si lo quieres fino.",
-    "Mientras, dora 2 ajos enteros aplastados con 1 cucharada de aceite en una cazuela 1 minuto, añade el arroz y nácaralo 1 minuto. Vierte el triple de su volumen en agua hirviendo con sal y el laurel.",
-    "Cuece a fuego medio 16-18 minutos, hasta que el grano esté tierno. Escurre si queda agua, retira ajos y laurel y deja reposar tapado.",
-    "Pela los plátanos, córtalos por la mitad a lo largo y fríelos en una sartén con el aceite a fuego medio 1-2 minutos por lado, hasta que estén dorados y caramelizados. Escúrrelos.",
-    "En el mismo aceite, bien caliente, fríe los huevos con puntilla.",
+    "Pon a hervir agua con sal para el arroz y pica la cebolla y 1 ajo. Para el tomate: pocha la cebolla y el ajo picados con 2 cucharadas de aceite en un cazo a fuego medio 6 minutos. Añade el tomate, el azúcar y sal y cuece a fuego suave 20 minutos, removiendo de vez en cuando, hasta que espese. Tritúralo si lo quieres fino.",
+    "Mientras, dora 2 ajos enteros aplastados con 1 cucharada de aceite en una cazuela 1 minuto, añade el arroz y nácaralo 1 minuto. Vierte el triple de su volumen del agua hirviendo y el laurel.",
+    "Cuece a fuego medio 16-18 minutos, hasta que el grano esté tierno. Mientras, pela los plátanos, córtalos por la mitad a lo largo y fríelos en una sartén con el aceite a fuego medio 1-2 minutos por lado, hasta que estén dorados y caramelizados. Escúrrelos.",
+    "Escurre el arroz si queda agua, retira ajos y laurel y deja reposar tapado.",
+    "En el aceite de los plátanos, bien caliente, fríe los huevos con puntilla.",
     "Moldea el arroz con una taza o un cuenco engrasado en el centro del plato, rodéalo con el tomate y coloca los huevos y los plátanos al lado."
   ],
   nutricion: { kcal: 876, prot: 26, hc: 112, grasa: 36 },
@@ -1010,7 +1007,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pan en dados pequeños o láminas finas, ponlo en un bol y rocíalo con el agua con una pizca de sal disuelta, mezclando con las manos para que se humedezca por igual sin empaparse. Tápalo con un paño húmedo y deja reposar 20 minutos.",
-    "Corta los pimientos en tiras y fríelos en una sartén grande con 1 cucharada de aceite a fuego medio 6 minutos, hasta que estén blandos. Resérvalos.",
+    "Mientras, corta los pimientos en tiras y fríelos en una sartén grande con 1 cucharada de aceite a fuego medio 6 minutos, hasta que estén blandos. Resérvalos.",
     "Añade 4 cucharadas de aceite y los ajos sin pelar, ligeramente aplastados, y dóralos 2 minutos a fuego medio.",
     "Echa el pan, espolvorea el pimentón y remueve sin parar con una espátula, cortando y volteando las migas, durante 15 minutos a fuego medio-bajo, hasta que estén sueltas, doradas y crujientes por fuera pero tiernas por dentro.",
     "Incorpora los pimientos a las migas y mantén al calor. En otra sartén con el resto del aceite, fríe los huevos.",

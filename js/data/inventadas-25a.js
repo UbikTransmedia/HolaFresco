@@ -30,9 +30,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica fina la cebolla y 1 ajo y póchalos en un cazo con 2 cucharadas de aceite a fuego medio-bajo 6 minutos, hasta que estén transparentes. Añade el tomate triturado, el azúcar y una pizca de sal y deja hacer a fuego suave, removiendo de vez en cuando, 20 minutos, hasta que espese y el aceite asome por los bordes.",
-    "Mientras, en una cazuela calienta 1 cucharada de aceite con los otros 2 ajos chafados y sin pelar. Cuando bailen, añade el arroz y nácaralo 1 minuto removiendo.",
-    "Vierte 400 ml de agua hirviendo, el laurel y sal. Cuece 16-18 minutos a fuego suave, tapado, hasta que el agua se haya absorbido. Apaga y deja reposar 5 minutos tapado; retira ajos y laurel.",
-    "Pela los plátanos, córtalos por la mitad a lo largo y fríelos en una sartén con 1 cucharada de aceite a fuego medio 2 minutos por lado, hasta que estén dorados y caramelizados. Reserva sobre papel.",
+    "Mientras, pon a hervir 400 ml de agua. En una cazuela calienta 1 cucharada de aceite con los otros 2 ajos chafados y sin pelar. Cuando bailen, añade el arroz y nácaralo 1 minuto removiendo.",
+    "Vierte el agua hirviendo, el laurel y sal. Cuece 16-18 minutos a fuego suave, tapado, hasta que el agua se haya absorbido. Mientras, pela los plátanos y córtalos por la mitad a lo largo. Apaga el arroz y deja reposar 5 minutos tapado; retira ajos y laurel.",
+    "Fríe los plátanos en una sartén con 1 cucharada de aceite a fuego medio 2 minutos por lado, hasta que estén dorados y caramelizados. Reserva sobre papel.",
     "En la misma sartén, añade el resto del aceite y fríe los huevos de uno en uno a fuego fuerte, echándoles aceite caliente por encima con la cuchara hasta que la clara haga puntilla y la yema siga líquida.",
     "Moldea el arroz en un tazón engrasado y desmóldalo en cada plato. Sirve con el tomate caliente al lado, dos huevos y los plátanos fritos."
   ],
@@ -71,8 +71,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon una paella de 32-34 cm bien nivelada sobre el fuego más grande con el aceite. Cuando esté caliente, sala la carne y dórala a fuego medio, dándole vueltas, 15 minutos, hasta que esté bien tostada por todos lados (de ese dorado sale el sabor).",
-    "Aparta la carne hacia los bordes, pon en el centro las judías verdes troceadas y el garrofó y rehógalos 5 minutos.",
+    "Despunta las judías verdes y trocéalas; ralla el tomate. Pon una paella de 32-34 cm bien nivelada sobre el fuego más grande con el aceite. Cuando esté caliente, sala la carne y dórala a fuego medio, dándole vueltas, 15 minutos, hasta que esté bien tostada por todos lados (de ese dorado sale el sabor).",
+    "Aparta la carne hacia los bordes, pon en el centro las judías verdes y el garrofó y rehógalos 5 minutos.",
     "Haz un hueco en el centro, echa el tomate rallado y sofríe 4 minutos, hasta que pierda el agua. Añade el pimentón, remueve 10 segundos sin que se queme y vierte enseguida el agua.",
     "Añade el azafrán y sal (el caldo debe quedar algo salado). Cuece a fuego medio 25 minutos para que la carne se ablande y se haga el caldo. Si ha reducido mucho, repón agua hasta tener unos 600 ml (llega a los remaches de las asas).",
     "Reparte el arroz en forma de cruz y extiéndelo con la espumadera para que quede uniforme. A partir de aquí no se remueve más. Cuece 10 minutos a fuego fuerte.",
@@ -117,9 +117,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon los mejillones limpios en una cazuela con un dedo de agua, tapa y cuécelos a fuego fuerte 3 minutos, hasta que se abran. Cuela el líquido y añádelo al caldo de pescado; caliéntalo con el azafrán. Quita media concha a los mejillones.",
+    "Corta el pimiento en tiras y pica los ajos. Pon los mejillones limpios en una cazuela con un dedo de agua, tapa y cuécelos a fuego fuerte 3 minutos, hasta que se abran. Cuela el líquido y añádelo al caldo de pescado; caliéntalo con el azafrán. Quita media concha a los mejillones.",
     "En la paella de 30 cm, con el aceite caliente, marca las gambas 30 segundos por lado y resérvalas. En el mismo aceite, dora el pollo salado 6 minutos.",
-    "Añade el calamar y el pimiento en tiras y saltea 4 minutos. Incorpora los ajos picados y, en 30 segundos, el tomate rallado; sofríe 4 minutos hasta que pierda el agua.",
+    "Añade el calamar y el pimiento y saltea 4 minutos. Incorpora los ajos y, en 30 segundos, el tomate rallado; sofríe 4 minutos hasta que pierda el agua.",
     "Fuera del fuego, añade el pimentón, remueve y echa el arroz. Nácaralo 1 minuto removiendo para que se impregne del sofrito.",
     "Vierte el caldo hirviendo (debe estar sabroso, pruébalo de sal), reparte bien el arroz y añade los guisantes. Cuece 10 minutos a fuego fuerte sin remover.",
     "Baja a fuego medio, coloca encima las gambas y los mejillones y cuece 8 minutos más, hasta que el caldo se haya absorbido y el grano esté al dente.",
@@ -158,8 +158,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la cazuela las alubias escurridas y las costillas, cubre con el agua fría y lleva a ebullición. Retira la espuma, baja el fuego y cuece tapado a borbotón suave 1 hora.",
-    "Pela los nabos, córtalos en dados grandes y añádelos a la cazuela junto con el azafrán. Sigue cociendo 40 minutos, hasta que las alubias estén tiernas y los nabos se dejen atravesar con facilidad.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, ponlas escurridas en la cazuela con las costillas, cubre con el agua fría y lleva a ebullición. Retira la espuma, baja el fuego y cuece tapado a borbotón suave 1 hora. Mientras, pela los nabos y córtalos en dados grandes.",
+    "Añade los nabos a la cazuela junto con el azafrán. Sigue cociendo 40 minutos, hasta que las alubias estén tiernas y los nabos se dejen atravesar con facilidad.",
     "En una sartén pequeña, calienta el aceite, aparta del fuego, añade el pimentón y remueve 10 segundos. Vierte este aceite rojo en la cazuela y sala.",
     "Añade la morcilla entera y el arroz. Comprueba que hay caldo suficiente (debe cubrir el arroz unos 2 dedos; si no, añade agua caliente).",
     "Cuece 17-18 minutos a fuego medio, removiendo solo un par de veces, hasta que el arroz esté hecho y el conjunto quede caldoso y espeso.",
@@ -201,9 +201,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela de barro (o apta para horno) de unos 26 cm, dora con el aceite el pollo y la costilla salados a fuego medio 10 minutos. Añade el agua, lleva a ebullición, espuma y cuece tapado a fuego suave 50 minutos para hacer el caldo.",
+    "En una cazuela de barro (o apta para horno) de unos 26 cm, dora con el aceite el pollo y la costilla salados a fuego medio 10 minutos. Añade el agua, lleva a ebullición, espuma y cuece tapado a fuego suave 50 minutos para hacer el caldo. Mientras, corta la butifarra y la morcilla en rodajas gruesas, pica el ajo y ralla el tomate.",
     "Saca la carne y cuela el caldo: necesitas unos 550 ml. Precalienta el horno a 200 °C.",
-    "En la misma cazuela, dora la butifarra y la morcilla cortadas en rodajas gruesas 3 minutos. Sácalas. Sofríe el ajo picado y el tomate rallado 4 minutos.",
+    "En la misma cazuela, dora las rodajas de butifarra y de morcilla 3 minutos. Sácalas. Sofríe el ajo y el tomate rallado 4 minutos.",
     "Añade el arroz, nacaralo 1 minuto, devuelve el pollo y la costilla, incorpora los garbanzos y vierte el caldo hirviendo con el azafrán. Ajusta de sal. Cuece 12 minutos a fuego medio sin remover.",
     "Coloca encima las rodajas de embutido. Bate los huevos con una pizca de sal y viértelos por encima cubriendo toda la superficie.",
     "Mete la cazuela en la parte alta del horno 12-15 minutos, hasta que el huevo haya cuajado formando una costra dorada e hinchada.",
@@ -244,8 +244,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el conejo y la costilla. En una cazuela ancha o paella con el aceite caliente, dóralos a fuego medio 15 minutos, hasta que estén bien tostados por todas partes.",
-    "Añade las setas troceadas y los ajos laminados y saltea 5 minutos, hasta que las setas suelten el agua y se doren.",
+    "Limpia y trocea las setas, lamina los ajos y ralla el tomate. Salpimienta el conejo y la costilla. En una cazuela ancha o paella con el aceite caliente, dóralos a fuego medio 15 minutos, hasta que estén bien tostados por todas partes. Mientras, pon el caldo a calentar.",
+    "Añade las setas y los ajos y saltea 5 minutos, hasta que las setas suelten el agua y se doren.",
     "Incorpora el tomate rallado y sofríe 5 minutos. Retira del fuego, añade el pimentón, remueve y vierte el caldo caliente con la rama de romero.",
     "Cuece 20 minutos a fuego suave para que el conejo se ablande y el caldo coja el sabor del monte. Retira el romero y prueba de sal.",
     "Echa el arroz repartiéndolo bien y cuece 10 minutos a fuego fuerte y 8 minutos a fuego suave, sin remover, hasta que el caldo se haya absorbido.",
@@ -285,12 +285,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el bacalao en un cazo con el agua fría, calienta hasta que empiece a temblar (sin que llegue a hervir) y apaga. Saca el bacalao, desmígalo en lascas sin piel ni espinas y guarda el agua: será el caldo.",
-    "En la cazuela con el aceite, dora los ajos picados 1 minuto a fuego medio sin que se quemen. Añade el tomate rallado y sofríe 8 minutos, hasta que esté concentrado y oscuro.",
+    "Pon el bacalao en un cazo con el agua fría, calienta hasta que empiece a temblar (sin que llegue a hervir) y apaga. Mientras se calienta, pica los ajos y el perejil y ralla los tomates. Saca el bacalao, desmígalo en lascas sin piel ni espinas y guarda el agua: será el caldo.",
+    "En la cazuela con el aceite, dora los ajos 1 minuto a fuego medio sin que se quemen. Añade el tomate rallado y sofríe 8 minutos, hasta que esté concentrado y oscuro.",
     "Aparta del fuego, añade el pimentón, remueve y echa el arroz. Vuelve al fuego y nácaralo 1 minuto.",
     "Vierte el agua del bacalao caliente con el azafrán y prueba: si hace falta, añade sal con prudencia. Cuece 10 minutos a fuego medio.",
     "Reparte por encima las alubias y las lascas de bacalao, como piedras de un empedrado, y cuece 7-8 minutos más a fuego suave sin remover, hasta que el arroz esté meloso y casi seco.",
-    "Apaga, espolvorea perejil picado, tapa y deja reposar 4 minutos antes de servir."
+    "Apaga, espolvorea el perejil picado, tapa y deja reposar 4 minutos antes de servir."
   ],
   nutricion: { kcal: 608, prot: 38, hc: 78, grasa: 16 },
   etiquetas: ["tradicional", "fácil", "cuaresma", "alta en proteína", "sin verduras", "poco especiada", "bajo en colesterol"],
@@ -327,8 +327,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela con el aceite, dora la costilla salada y la panceta a fuego medio 10 minutos, hasta que estén bien doradas y hayan soltado su grasa.",
-    "Añade la cebolla picada y los ajos y pocha 8 minutos, hasta que la cebolla esté blanda. Incorpora el nabo pelado en dados y rehoga 3 minutos.",
+    "Pica la cebolla y los ajos; pela el nabo y córtalo en dados. En una cazuela con el aceite, dora la costilla salada y la panceta a fuego medio 10 minutos, hasta que estén bien doradas y hayan soltado su grasa.",
+    "Añade la cebolla y los ajos y pocha 8 minutos, hasta que la cebolla esté blanda. Incorpora el nabo y rehoga 3 minutos.",
     "Aparta del fuego, añade el pimentón y remueve. Vierte el caldo, echa el laurel y cuece tapado a fuego suave 30 minutos, hasta que la costilla esté tierna.",
     "Añade el chorizo y el arroz, prueba de sal y cuece 17-18 minutos a fuego medio, removiendo un par de veces, hasta que el arroz esté en su punto y quede jugoso pero no caldoso.",
     "Retira el laurel, apaga y deja reposar 5 minutos tapado antes de servir."
@@ -366,9 +366,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava las acelgas, separa las pencas de las hojas y córtalas: las pencas en trozos de 1 cm y las hojas en tiras.",
-    "En la cazuela con el aceite, sofríe los ajos laminados y las pencas a fuego medio 5 minutos, hasta que empiecen a ablandarse.",
-    "Añade el tomate rallado y sofríe 5 minutos. Retira del fuego, incorpora el pimentón, remueve y vierte el caldo caliente con el azafrán.",
+    "Pon el caldo a calentar con el azafrán. Lava las acelgas, separa las pencas de las hojas y córtalas: las pencas en trozos de 1 cm y las hojas en tiras. Lamina los ajos.",
+    "En la cazuela con el aceite, sofríe los ajos y las pencas a fuego medio 5 minutos, hasta que empiecen a ablandarse.",
+    "Añade el tomate rallado y sofríe 5 minutos. Retira del fuego, incorpora el pimentón, remueve y vierte el caldo caliente.",
     "Cuando hierva, añade el arroz y las hojas de acelga. Cuece 12 minutos a fuego medio.",
     "Incorpora las alubias, prueba de sal y cuece 5-6 minutos más, hasta que el arroz esté tierno y el caldo haya espesado ligeramente.",
     "Apaga y deja reposar 2 minutos: debe quedar caldoso. Sirve enseguida en plato hondo."
@@ -407,7 +407,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica fina la cebolla, el pimiento verde y el ajo. Póchalos en la cazuela con el aceite a fuego medio 7 minutos, hasta que estén blandos.",
+    "Pon a hervir el agua. Pica fina la cebolla, el pimiento verde y el ajo. Póchalos en la cazuela con el aceite a fuego medio 7 minutos, hasta que estén blandos.",
     "Añade el tomate triturado y una pizca de sal y cocina 6 minutos, hasta que espese. Retira del fuego y añade el pimentón.",
     "Incorpora el arroz y remueve 1 minuto para que se empape del sofrito.",
     "Vierte el agua hirviendo, sala y cuece 10 minutos a fuego medio. Añade los guisantes y cuece 6-7 minutos más, hasta que el arroz esté tierno y casi seco.",
@@ -449,10 +449,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela con el aceite, fríe a fuego suave la ñora abierta y sin semillas 30 segundos (sin que se queme), y después las almendras, la rebanada de pan y 2 ajos, hasta que estén dorados. Sácalo todo y májalo en el mortero con el perejil y un poco de caldo hasta tener una picada.",
+    "Pon el caldo a calentar con el azafrán y pica el ajo que no vas a freír entero. En la cazuela con el aceite, fríe a fuego suave la ñora abierta y sin semillas 30 segundos (sin que se queme), y después las almendras, la rebanada de pan y 2 ajos, hasta que estén dorados. Sácalo todo y májalo en el mortero con el perejil y un poco de caldo hasta tener una picada.",
     "En el mismo aceite, marca los tacos de rape salados 1 minuto por lado y resérvalos.",
-    "Sofríe el ajo restante picado y el tomate rallado 6 minutos, hasta que el tomate esté oscuro y concentrado.",
-    "Añade el arroz, nácaralo 1 minuto y vierte el caldo hirviendo con el azafrán. Prueba de sal y cuece 10 minutos a fuego medio.",
+    "Sofríe el ajo picado y el tomate rallado 6 minutos, hasta que el tomate esté oscuro y concentrado.",
+    "Añade el arroz, nácaralo 1 minuto y vierte el caldo hirviendo. Prueba de sal y cuece 10 minutos a fuego medio.",
     "Incorpora la picada, las almejas y el rape y cuece 6-7 minutos más, hasta que las almejas se abran y el arroz esté en su punto, con mucho caldo.",
     "Apaga, deja reposar 2 minutos y sirve en plato hondo enseguida."
   ],
@@ -490,10 +490,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el magro. En una paella de 30 cm con el aceite caliente, dóralo a fuego medio-fuerte 8 minutos, hasta que esté bien tostado.",
-    "Añade los pimientos en tiras y sofríe 8 minutos, hasta que estén blandos y con algún tostado.",
-    "Incorpora los ajos picados y, enseguida, el tomate rallado. Sofríe 5 minutos hasta que pierda el agua.",
-    "Aparta del fuego, añade el pimentón y el arroz, remueve 1 minuto y vierte el caldo hirviendo con el azafrán. Prueba de sal.",
+    "Pon el caldo a calentar con el azafrán. Sala el magro. En una paella de 30 cm con el aceite caliente, dóralo a fuego medio-fuerte 8 minutos, hasta que esté bien tostado. Mientras, corta los pimientos en tiras y pica los ajos.",
+    "Añade los pimientos y sofríe 8 minutos, hasta que estén blandos y con algún tostado.",
+    "Incorpora los ajos y, enseguida, el tomate rallado. Sofríe 5 minutos hasta que pierda el agua.",
+    "Aparta del fuego, añade el pimentón y el arroz, remueve 1 minuto y vierte el caldo hirviendo. Prueba de sal.",
     "Reparte bien el arroz y cuece 10 minutos a fuego fuerte y 8 minutos a fuego suave, sin remover, hasta que el caldo se absorba.",
     "Apaga, cubre con un paño y deja reposar 5 minutos."
   ],
@@ -534,11 +534,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica fina la cebolla, los pimientos y el ajo y póchalos en la cazuela con el aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y dulces.",
+    "Pica fina la cebolla, los pimientos y el ajo y póchalos en la cazuela con el aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y dulces. Mientras, pon el caldo a calentar.",
     "Añade el tomate rallado y sofríe 5 minutos. Vierte el vino blanco y deja que se evapore el alcohol 2 minutos.",
     "Retira del fuego, añade los dos pimentones, remueve y echa el caldo caliente y el laurel. Lleva a ebullición.",
-    "Añade el arroz y cuece 12 minutos a fuego medio, removiendo de vez en cuando.",
-    "Corta el pulpo en rodajas de 1 cm, añádelo y cuece 5 minutos más, hasta que el arroz esté tierno y el pulpo caliente. Prueba de sal.",
+    "Añade el arroz y cuece 12 minutos a fuego medio, removiendo de vez en cuando. Mientras, corta el pulpo en rodajas de 1 cm.",
+    "Añade el pulpo y cuece 5 minutos más, hasta que el arroz esté tierno y el pulpo caliente. Prueba de sal.",
     "Sirve caldoso en plato hondo con una pizca más de pimentón y un hilo de aceite crudo por encima."
   ],
   nutricion: { kcal: 460, prot: 24, hc: 64, grasa: 12 },
@@ -575,10 +575,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, córtalas en cuartos y frótalas con medio limón para que no se oscurezcan.",
-    "En la cazuela con el aceite, sofríe las alcachofas a fuego medio 6 minutos, hasta que estén doradas. Añade los ajos tiernos en trozos de 2 cm y rehoga 3 minutos.",
+    "Pon el caldo a calentar con el azafrán. Limpia los ajos tiernos y córtalos en trozos de 2 cm. Limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, córtalas en cuartos y frótalas con medio limón para que no se oscurezcan.",
+    "En la cazuela con el aceite, sofríe las alcachofas a fuego medio 6 minutos, hasta que estén doradas. Añade los ajos tiernos y rehoga 3 minutos.",
     "Incorpora el tomate rallado y sofríe 5 minutos. Fuera del fuego, añade el pimentón y el arroz y remueve 1 minuto.",
-    "Vierte el caldo caliente con el azafrán, sala y cuece 10 minutos a fuego medio, removiendo de vez en cuando.",
+    "Vierte el caldo caliente, sala y cuece 10 minutos a fuego medio, removiendo de vez en cuando.",
     "Añade las habas y cuece 7-8 minutos más, hasta que el arroz esté tierno y meloso, con algo de caldo ligado.",
     "Apaga, ralla un poco de piel del limón por encima y deja reposar 2 minutos antes de servir."
   ],
@@ -615,11 +615,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Si no tienes arroz del día anterior, cuécelo en agua con sal 10 minutos, escúrrelo, extiéndelo en una bandeja y déjalo enfriar al menos 15 minutos para que se seque.",
-    "Cuece los guisantes y la zanahoria en dados pequeños 3 minutos en agua hirviendo y escúrrelos.",
+    "Si no tienes arroz del día anterior, cuécelo en agua con sal 10 minutos, escúrrelo, extiéndelo en una bandeja y déjalo enfriar al menos 15 minutos para que se seque. Mientras, pela la zanahoria y córtala en dados pequeños y pica la cebolleta.",
+    "Cuece los guisantes y la zanahoria 3 minutos en agua hirviendo y escúrrelos.",
     "Bate los huevos con una pizca de sal. En el wok con media cucharada de aceite, cuájalos en una tortilla fina, enróllala y córtala en tiras finas. Reserva.",
     "Con otra media cucharada de aceite a fuego fuerte, saltea las gambas 1 minuto y el jamón 1 minuto más. Reserva.",
-    "Pon el resto del aceite, saltea la cebolleta picada 30 segundos y añade el arroz frío. Saltea a fuego fuerte 3 minutos, moviendo sin parar, hasta que el grano esté suelto y caliente.",
+    "Pon el resto del aceite, saltea la cebolleta 30 segundos y añade el arroz frío. Saltea a fuego fuerte 3 minutos, moviendo sin parar, hasta que el grano esté suelto y caliente.",
     "Incorpora las verduras, las gambas, el jamón y la tortilla, riega con la salsa de soja y saltea 1 minuto más. Sirve enseguida."
   ],
   nutricion: { kcal: 590, prot: 26, hc: 72, grasa: 22 },
@@ -660,10 +660,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz: sofríe 1 ajo picado en 1 cucharada de aceite, añade el arroz, remueve y cubre con 400 ml de agua hirviendo con sal. Cuece tapado 16 minutos a fuego suave y deja reposar 5 minutos.",
-    "Mientras, cuece el huevo 10 minutos, enfríalo y pícalo. Remoja las pasas en agua tibia.",
-    "En una sartén con el resto del aceite, pocha la cebolla morada picada y los otros 2 ajos 6 minutos. Añade el ají amarillo y el comino y remueve 1 minuto.",
-    "Sube el fuego, añade la ternera picada salpimentada y dórala 5 minutos, deshaciéndola con la cuchara. Incorpora el tomate picado y cocina 5 minutos, hasta que el picadillo quede jugoso pero sin caldo.",
-    "Fuera del fuego, mezcla las pasas escurridas, las aceitunas en rodajas, el huevo duro picado y el perejil.",
+    "Mientras, cuece el huevo 10 minutos, enfríalo y pícalo. Remoja las pasas en agua tibia. Pica la cebolla morada, los otros 2 ajos, el tomate y el perejil, y corta las aceitunas en rodajas.",
+    "En una sartén con el resto del aceite, pocha la cebolla morada y los ajos 6 minutos. Añade el ají amarillo y el comino y remueve 1 minuto.",
+    "Sube el fuego, añade la ternera picada salpimentada y dórala 5 minutos, deshaciéndola con la cuchara. Incorpora el tomate y cocina 5 minutos, hasta que el picadillo quede jugoso pero sin caldo.",
+    "Fuera del fuego, mezcla las pasas escurridas, las aceitunas, el huevo duro picado y el perejil.",
     "Engrasa un bol pequeño, pon una capa de arroz apretándola, una capa de picadillo y cierra con más arroz. Presiona y desmolda en el plato. Repite para la segunda ración."
   ],
   nutricion: { kcal: 750, prot: 36, hc: 84, grasa: 30 },
@@ -703,11 +703,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el agua a hervir con la mitad del jengibre en rodajas, 2 ajos chafados, la parte verde de las cebolletas y 1 cucharada de sal. Añade el pollo, deja que vuelva a hervir, baja al mínimo y escalfa tapado 30 minutos sin que llegue a borbotear.",
+    "Mientras, lava el arroz hasta que el agua salga clara, pica los otros 2 ajos, ralla el jengibre restante, pica fina la parte blanca de las cebolletas y el chile, y corta el pepino en rodajas.",
     "Apaga y deja el pollo en el caldo 15 minutos más. Sácalo y sumérgelo 5 minutos en agua con hielo: así la piel queda tersa y la carne jugosa. Úntalo con el aceite de sésamo.",
-    "Lava el arroz hasta que el agua salga clara. Retira algo de grasa del caldo y sofríe en ella (o en el aceite) los otros 2 ajos picados y la mitad del jengibre restante rallado 1 minuto. Añade el arroz y nácaralo 1 minuto.",
-    "Cubre el arroz con 300 ml del caldo del pollo, tapa y cuece a fuego mínimo 12 minutos; reposa 10 minutos tapado.",
-    "Para la salsa, maja o ralla el jengibre que queda con la parte blanca de las cebolletas picada fina y una pizca de sal, y vierte por encima 2 cucharadas de caldo muy caliente. Aparte, mezcla el chile picado con el zumo de la lima y la soja.",
-    "Deshuesa el pollo y córtalo en tiras. Sirve con el arroz, rodajas de pepino, las dos salsas y un tazón del caldo caliente."
+    "Retira algo de grasa del caldo y sofríe en ella (o en el aceite) los ajos picados y la mitad del jengibre rallado 1 minuto. Añade el arroz y nácaralo 1 minuto. Cubre con 300 ml del caldo del pollo, tapa y cuece a fuego mínimo 12 minutos; reposa 10 minutos tapado.",
+    "Mientras, para la salsa, maja el jengibre rallado que queda con la cebolleta picada y una pizca de sal, y vierte por encima 2 cucharadas de caldo muy caliente. Aparte, mezcla el chile picado con el zumo de la lima y la soja.",
+    "Deshuesa el pollo y córtalo en tiras. Sirve con el arroz, las rodajas de pepino, las dos salsas y un tazón del caldo caliente."
   ],
   nutricion: { kcal: 620, prot: 38, hc: 72, grasa: 20 },
   etiquetas: ["tradicional", "económica", "de domingo", "batch cooking", "bajo en colesterol"],
@@ -745,11 +745,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla la salsa de soja con el azúcar moreno en un vaso hasta que se disuelva: es tu salsa dulce de soja.",
-    "Pica muy finas las chalotas, el ajo y el chile (sin semillas si no quieres mucho picante).",
+    "Pica muy finas las chalotas, el ajo y el chile (sin semillas si no quieres mucho picante). Corta el tomate y el pepino en rodajas.",
     "En el wok con 1 cucharada de aceite a fuego fuerte, saltea el pollo salado 4 minutos, hasta que esté dorado. Añade el picadillo de chalota, ajo y chile y saltea 1 minuto, hasta que huela.",
     "Incorpora el arroz frío y saltea 3 minutos, separando los granos. Vierte la salsa dulce de soja y saltea 1 minuto más, hasta que todo el arroz quede brillante y tostado.",
     "En una sartén con el resto del aceite, fríe los huevos con la puntilla crujiente y la yema líquida.",
-    "Sirve el arroz con un huevo encima y rodajas de tomate y pepino al lado para refrescar."
+    "Sirve el arroz con un huevo encima y las rodajas de tomate y pepino al lado para refrescar."
   ],
   nutricion: { kcal: 596, prot: 32, hc: 72, grasa: 20 },
   etiquetas: ["tradicional", "rápida", "fácil", "económica", "picante"],
@@ -787,10 +787,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la merluza en una sartén con la leche, el laurel y 200 ml de agua. Calienta hasta que empiece a temblar y escalfa 5 minutos a fuego suave, hasta que se separe en lascas. Saca el pescado y guarda el líquido colado.",
-    "Cuece los huevos 8 minutos, enfríalos y córtalos en cuartos.",
-    "En una cazuela, derrite la mantequilla y pocha la cebolla picada fina a fuego medio-bajo 8 minutos, hasta que esté dorada y blanda. Añade el curry y remueve 1 minuto.",
-    "Incorpora el arroz lavado y remueve para que se impregne. Vierte 300 ml del líquido de escalfar (completa con agua si falta), sala y cuece tapado a fuego suave 12 minutos. Reposa 5 minutos.",
-    "Desmenuza la merluza en lascas grandes y mézclala con el arroz con un tenedor, con suavidad. Añade el perejil picado, pimienta y el zumo de medio limón.",
+    "Cuece los huevos 8 minutos. Mientras, pica fina la cebolla y el perejil y lava el arroz. Enfría los huevos, pélalos y córtalos en cuartos.",
+    "En una cazuela, derrite la mantequilla y pocha la cebolla a fuego medio-bajo 8 minutos, hasta que esté dorada y blanda. Añade el curry y remueve 1 minuto.",
+    "Incorpora el arroz y remueve para que se impregne. Vierte 300 ml del líquido de escalfar (completa con agua si falta), sala y cuece tapado a fuego suave 12 minutos. Mientras, desmenuza la merluza en lascas grandes. Deja reposar el arroz 5 minutos.",
+    "Mezcla la merluza con el arroz con un tenedor, con suavidad. Añade el perejil picado, pimienta y el zumo de medio limón.",
     "Sirve con los cuartos de huevo encima y gajos de limón."
   ],
   nutricion: { kcal: 468, prot: 30, hc: 60, grasa: 12 },
@@ -826,8 +826,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo y mantenlo a fuego mínimo. Tritura 100 g de guisantes con un cucharón de caldo hasta tener una crema.",
-    "En la cazuela con la mitad de la mantequilla, dora la panceta a fuego medio 3 minutos. Añade la cebolla picada fina y pocha 5 minutos, hasta que esté transparente.",
+    "Calienta el caldo y mantenlo a fuego mínimo. Tritura 100 g de guisantes con un cucharón de caldo hasta tener una crema. Pica fina la cebolla y el perejil.",
+    "En la cazuela con la mitad de la mantequilla, dora la panceta a fuego medio 3 minutos. Añade la cebolla y pocha 5 minutos, hasta que esté transparente.",
     "Incorpora el arroz y nácaralo 1 minuto. Añade los guisantes enteros y la crema de guisantes.",
     "Vierte el caldo de dos en dos cucharones, removiendo a menudo, durante 16-17 minutos. Debe quedar más caldoso que un risotto: casi una sopa espesa que se come con cuchara.",
     "Fuera del fuego, añade el resto de la mantequilla, el parmesano y el perejil picado. Remueve con energía 30 segundos, salpimienta y deja reposar 1 minuto antes de servir."
@@ -867,12 +867,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pollo en un cazo con 500 ml de agua, un trozo de cebolla y sal. Cuece a fuego suave 15 minutos, sácalo, desmenúzalo con dos tenedores y guarda el caldo.",
-    "Tritura los tomates con el resto de la cebolla y los ajos hasta tener un puré fino. Cuélalo si quieres que quede más fino.",
+    "Pon el pollo en un cazo con 500 ml de agua, un trozo de cebolla y sal. Cuece a fuego suave 15 minutos.",
+    "Mientras, tritura los tomates con el resto de la cebolla y los ajos hasta tener un puré fino (cuélalo si quieres que quede más fino). Pela la zanahoria y córtala en dados pequeños. Saca el pollo, desmenúzalo con dos tenedores y guarda el caldo.",
     "En la cazuela con el aceite, sofríe el arroz seco a fuego medio 4-5 minutos, removiendo, hasta que esté ligeramente dorado y suene a arena.",
     "Añade el puré de tomate y cocina 3 minutos, removiendo, hasta que se reduzca y se pegue al grano.",
-    "Vierte 350 ml del caldo del pollo, la zanahoria en dados pequeños, los guisantes y el chile entero. Sala, tapa y cuece a fuego mínimo 18 minutos sin destapar. Reposa 5 minutos.",
-    "Ahueca el arroz con un tenedor, mezcla el pollo desmenuzado y sirve con cilantro picado y gajos de lima."
+    "Vierte 350 ml del caldo del pollo, la zanahoria, los guisantes y el chile entero. Sala, tapa y cuece a fuego mínimo 18 minutos sin destapar. Mientras, pica el cilantro y corta la lima en gajos. Reposa 5 minutos.",
+    "Ahueca el arroz con un tenedor, mezcla el pollo desmenuzado y sirve con el cilantro picado y los gajos de lima."
   ],
   nutricion: { kcal: 472, prot: 29, hc: 62, grasa: 12 },
   etiquetas: ["tradicional", "fácil", "económica", "ligera", "ideal para llevar", "bajo en colesterol"],
@@ -909,9 +909,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela con el aceite, sofríe la cebolla y los ajos picados a fuego medio 6 minutos. Añade la calabaza y rehoga 5 minutos, hasta que empiece a dorarse por los bordes.",
+    "Pica la cebolla y los ajos y pon el caldo a calentar. En la cazuela con el aceite, sofríe la cebolla y los ajos a fuego medio 6 minutos. Añade la calabaza y rehoga 5 minutos, hasta que empiece a dorarse por los bordes.",
     "Incorpora el tomate triturado y cocina 4 minutos. Fuera del fuego, añade el pimentón y el comino y remueve.",
-    "Echa el arroz, remueve 1 minuto y vierte el caldo caliente. Sala y cuece 12 minutos a fuego medio, removiendo de vez en cuando.",
+    "Echa el arroz, remueve 1 minuto y vierte el caldo caliente. Sala y cuece 12 minutos a fuego medio, removiendo de vez en cuando. Mientras, lava las espinacas.",
     "Añade los garbanzos y las espinacas en tandas y cuece 5-6 minutos más, hasta que las espinacas se rindan y el arroz quede meloso.",
     "Apaga, tapa y deja reposar 2 minutos. Sirve con un hilo de aceite crudo."
   ],
@@ -950,9 +950,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Abre la ñora, quítale las semillas y remójala en agua caliente 10 minutos. Raspa la carne con una cuchara y resérvala.",
+    "Abre la ñora, quítale las semillas y remójala en agua caliente 10 minutos. Mientras, despunta y trocea las judías verdes, corta el pimiento en tiras, pica el ajo y ralla el tomate. Raspa la carne de la ñora con una cuchara y resérvala.",
     "En una paella de 30 cm con el aceite, dora la costilla salada a fuego medio 10 minutos, hasta que esté bien tostada.",
-    "Añade las judías verdes troceadas y el pimiento en tiras y rehoga 6 minutos. Incorpora el ajo picado, el tomate rallado y la carne de ñora y sofríe 5 minutos.",
+    "Añade las judías verdes y el pimiento y rehoga 6 minutos. Incorpora el ajo, el tomate rallado y la carne de ñora y sofríe 5 minutos.",
     "Aparta del fuego, añade el pimentón y vierte enseguida el agua con el azafrán. Sala y cuece 20 minutos para que la costilla se ablande y el caldo coja sabor.",
     "Comprueba que quedan unos 550 ml de caldo (añade agua si hace falta). Echa el arroz repartido y cuece 10 minutos a fuego fuerte y 8 a fuego suave, sin remover.",
     "Apaga, cubre con un paño y deja reposar 5 minutos."
@@ -1037,9 +1037,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una sartén con 2 cucharadas de aceite, pocha la cebolla y los pimientos picados en dados pequeños a fuego medio-bajo 12 minutos, hasta que estén muy blandos.",
-    "Añade el calabacín en dados y cocina 8 minutos más. Incorpora el tomate triturado, la pizca de azúcar y sal y deja hacer a fuego suave 15 minutos, removiendo, hasta que el pisto esté espeso y sin agua.",
-    "Mientras, cuece el arroz: en una cazuela, dora los ajos chafados en unas gotas de aceite, añade el arroz, remueve y cubre con 380 ml de agua hirviendo con sal. Cuece tapado 16 minutos a fuego suave y reposa 5.",
+    "Pica la cebolla y los pimientos en dados pequeños. En una sartén con 2 cucharadas de aceite, póchalos a fuego medio-bajo 12 minutos, hasta que estén muy blandos. Mientras, corta el calabacín en dados.",
+    "Añade el calabacín y cocina 8 minutos más. Incorpora el tomate triturado, la pizca de azúcar y sal y deja hacer a fuego suave 15 minutos, removiendo, hasta que el pisto esté espeso y sin agua.",
+    "Mientras, pon a hervir 380 ml de agua con sal y cuece el arroz: en una cazuela, dora los ajos chafados en unas gotas de aceite, añade el arroz, remueve y cubre con el agua hirviendo. Cuece tapado 16 minutos a fuego suave y reposa 5.",
     "Fríe los huevos en el resto del aceite bien caliente, con puntilla y la yema jugosa.",
     "Sirve el arroz en un lado del plato, el pisto al lado y el huevo encima del pisto para que, al romper la yema, lo una todo."
   ],
