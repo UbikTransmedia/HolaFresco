@@ -123,9 +123,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta el azafrán 20 segundos en una sartén seca y disuélvelo en 50 ml de caldo caliente. Calienta el resto del caldo en un cazo y mantenlo a punto de hervir.",
+    "Tuesta el azafrán 20 segundos en una sartén seca y disuélvelo en 50 ml de caldo caliente. Calienta el resto del caldo en un cazo y mantenlo a punto de hervir. Mientras, corta el pimiento en dados, pica la cebolla y el ajo, ralla el tomate y trocea las judías.",
     "Corta el pollo en trozos de 3 cm y salpimiéntalo. Calienta el aceite en una cazuela amplia a fuego fuerte y dóralo 5-6 minutos hasta que tome color por todos lados. Resérvalo.",
-    "Baja a fuego medio y sofríe el pimiento en dados, la cebolla y el ajo picados 6 minutos. Añade el tomate rallado y cuece 4 minutos hasta que oscurezca y se separe del aceite. Incorpora el pimentón y remueve 20 segundos.",
+    "Baja a fuego medio y sofríe el pimiento, la cebolla y el ajo 6 minutos. Añade el tomate rallado y cuece 4 minutos hasta que oscurezca y se separe del aceite. Incorpora el pimentón y remueve 20 segundos.",
     "Añade el arroz y nácaralo 1 minuto removiendo. Vierte el caldo caliente, el azafrán con su líquido, el romero y el pollo con sus jugos. Lleva a ebullición y cuece 10 minutos a fuego medio-alto sin remover demasiado.",
     "Añade las judías troceadas y los guisantes y cuece 8 minutos más a fuego medio, hasta que el arroz esté tierno pero con un punto de resistencia y quede caldo abundante.",
     "Rectifica de sal, retira el romero y sirve inmediatamente en platos hondos: el arroz caldoso sigue absorbiendo líquido y no espera."
@@ -216,7 +216,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta los contramuslos y dóralos con el aceite en una cazuela a fuego medio-alto, 5 minutos por el lado de la piel y 3 por el otro, hasta que estén muy dorados. Resérvalos.",
+    "Pica la cebolla, la zanahoria y el ajo y corta el bacon en dados. Salpimienta los contramuslos y dóralos con el aceite en una cazuela a fuego medio-alto, 5 minutos por el lado de la piel y 3 por el otro, hasta que estén muy dorados. Resérvalos.",
     "Dora el bacon en dados 2 minutos y añade la cebolla y la zanahoria picadas; sofríe 6-7 minutos hasta que se ablanden. Añade el ajo picado y el tomate concentrado y rehoga 1 minuto.",
     "Espolvorea la harina y remueve 1 minuto. Vierte el vino poco a poco removiendo, raspando el fondo, y deja hervir 3 minutos para que evapore el alcohol.",
     "Devuelve el pollo con sus jugos, añade el caldo, el laurel y el tomillo. Tapa y cuece a fuego muy bajo 45 minutos, hasta que la carne se separe del hueso.",
@@ -263,7 +263,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata, córtala en dados de 2 cm y cuécela en agua con sal 6 minutos. Añade las judías verdes troceadas y cuece 6 minutos más, hasta que estén tiernas pero verdes. Escurre.",
-    "Si los filetes son gruesos, aplánalos entre dos papeles de horno hasta 0,5 cm. Salpimiéntalos y pásalos por la harina, sacudiendo el exceso.",
+    "Mientras se cuecen, si los filetes son gruesos, aplánalos entre dos papeles de horno hasta 0,5 cm. Salpimiéntalos y pásalos por la harina, sacudiendo el exceso.",
     "Calienta el aceite en una sartén amplia a fuego fuerte y dora el pavo 2 minutos por lado, hasta que esté dorado. Resérvalo en un plato.",
     "Baja a fuego medio, añade el ajo laminado 30 segundos y vierte el vino, raspando el fondo. Deja reducir 1 minuto, añade el caldo, el zumo de medio limón y las alcaparras y cuece 2 minutos.",
     "Apaga el fuego y añade la mantequilla fría en trozos, moviendo la sartén hasta que la salsa brille y ligue. Devuelve el pavo y dale la vuelta en la salsa.",
@@ -306,7 +306,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en 260 ml de agua con sal, tapado y a fuego bajo, 12 minutos. Déjalo reposar tapado.",
-    "Corta el pollo en tiras gruesas y sázonalo con sal, pimienta y el comino. Corta la cebolla en gajos gruesos, los tomates en gajos sin semillas y el chile en tiras finas.",
+    "Mientras se cuece, corta el pollo en tiras gruesas y sázonalo con sal, pimienta y el comino. Corta la cebolla en gajos gruesos, los tomates en gajos sin semillas y el chile en tiras finas, y pica el ajo y el cilantro.",
     "Calienta el wok a fuego muy fuerte con 1 cda de aceite hasta que humee. Saltea el pollo 3-4 minutos, sin moverlo al principio, hasta que esté dorado. Resérvalo.",
     "Añade el aceite restante, la cebolla, el ajo picado y el chile y saltea 1 minuto: la cebolla debe quedar crujiente.",
     "Devuelve el pollo, vierte la soja y el vinagre por los bordes del wok para que chisporroteen y añade el tomate. Saltea 1 minuto, justo hasta que el tomate se caliente sin deshacerse.",
@@ -522,7 +522,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta las almendras en una cazuela seca 3 minutos hasta que doren y resérvalas. Infusiona el azafrán en 50 ml del caldo caliente.",
+    "Tuesta las almendras en una cazuela seca 3 minutos hasta que doren y resérvalas. Infusiona el azafrán en 50 ml del caldo caliente. Corta la cebolla en juliana.",
     "Corta el pollo en trozos grandes, salpimiéntalo y dóralo con 1 cda de aceite en la cazuela a fuego fuerte 5 minutos. Resérvalo.",
     "Baja a fuego medio y sofríe la cebolla en juliana 7 minutos hasta que esté blanda y dorada. Añade el ajo y el jengibre rallados, el comino y la canela, y remueve 30 segundos.",
     "Devuelve el pollo, añade los garbanzos escurridos, los dátiles deshuesados y partidos, el caldo y el azafrán. Tapa y cuece 20 minutos a fuego suave, hasta que la salsa espese y los dátiles se deshagan en parte.",
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pollo en dados y mézclalo con el yogur, 1 cdta de garam masala, la cúrcuma, la mitad del ajo y el jengibre rallados y sal. Deja marinar mientras preparas el resto (mínimo 10 minutos).",
-    "Lava el arroz y cuécelo en 240 ml de agua con sal, tapado, 12 minutos a fuego bajo. Reposa tapado.",
+    "Lava el arroz y cuécelo en 240 ml de agua con sal, tapado, 12 minutos a fuego bajo. Reposa tapado. Mientras se cuece, pica la cebolla.",
     "Derrite la mitad de la mantequilla en una sartén y sofríe la cebolla picada 7 minutos. Añade el ajo y jengibre restantes, el comino y el resto del garam masala y remueve 30 segundos.",
     "Añade el tomate y cuece 8 minutos a fuego medio hasta que espese. Tritura la salsa hasta que quede lisa.",
     "En otra sartén muy caliente, dora el pollo escurrido de marinada 5 minutos hasta que tome puntos tostados.",
@@ -611,8 +611,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pollo en trozos grandes, salpimiéntalo y dóralo con el aceite en una cazuela a fuego fuerte 5 minutos. Resérvalo.",
-    "En la misma cazuela, a fuego medio, sofríe la cebolla, los pimientos en tiras y el ajo laminado 6 minutos. Añade los champiñones en cuartos y cocina 3 minutos más.",
+    "Pica la cebolla, corta los pimientos en tiras, lamina el ajo y corta los champiñones en cuartos. Corta el pollo en trozos grandes, salpimiéntalo y dóralo con el aceite en una cazuela a fuego fuerte 5 minutos. Resérvalo.",
+    "En la misma cazuela, a fuego medio, sofríe la cebolla, los pimientos y el ajo laminado 6 minutos. Añade los champiñones en cuartos y cocina 3 minutos más.",
     "Vierte el vino y deja que hierva 2 minutos. Añade el tomate, el romero, las aceitunas y el pollo con sus jugos. Tapa y cuece 20 minutos a fuego suave, hasta que el pollo esté tierno y la salsa espesa.",
     "Mientras, lleva a ebullición 450 ml de agua con sal. Añade la polenta en forma de lluvia batiendo con varillas y cuece 5 minutos removiendo, hasta que esté cremosa (añade agua si espesa demasiado).",
     "Retira el romero y rectifica de sal y pimienta el guiso.",
@@ -740,7 +740,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta los contramuslos y dóralos con el aceite en una cazuela a fuego medio-alto 4 minutos por lado, hasta que estén bien dorados. Resérvalos.",
+    "Pica la cebolla, corta los pimientos en tiras y lamina el ajo. Salpimienta los contramuslos y dóralos con el aceite en una cazuela a fuego medio-alto 4 minutos por lado, hasta que estén bien dorados. Resérvalos.",
     "En la misma cazuela, rehoga el jamón 1 minuto. Añade la cebolla picada y los pimientos en tiras y sofríe a fuego medio 10 minutos, hasta que estén blandos y algo dorados. Añade el ajo laminado 1 minuto.",
     "Incorpora la carne de pimiento choricero y el tomate y cuece 5 minutos hasta que el tomate oscurezca.",
     "Vierte el vino, deja hervir 2 minutos y devuelve el pollo con el laurel. Añade un chorrito de agua si la salsa no cubre la mitad del pollo.",
@@ -788,8 +788,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pollo en trozos y marínalo con el yogur, el ajo y el jengibre rallados, el garam masala, la cúrcuma, el comino y sal al menos 20 minutos. Lava el arroz y déjalo en remojo ese tiempo.",
-    "Corta las cebollas en juliana muy fina y fríelas con el aceite en una sartén a fuego medio 15 minutos, removiendo, hasta que estén doradas y crujientes. Reserva la mitad sobre papel.",
-    "Precalienta el horno a 180 °C. Lleva a ebullición 1,5 l de agua con sal, el cardamomo abierto y el laurel. Cuece el arroz escurrido 5 minutos: debe quedar a medio hacer. Escúrrelo.",
+    "Precalienta el horno a 180 °C. Corta las cebollas en juliana muy fina y fríelas con el aceite en una sartén a fuego medio 15 minutos, removiendo, hasta que estén doradas y crujientes. Reserva la mitad sobre papel. Mientras se fríen, pon a hervir 1,5 l de agua con sal, el cardamomo abierto y el laurel.",
+    "Cuece el arroz escurrido en el agua hirviendo 5 minutos: debe quedar a medio hacer. Escúrrelo.",
     "En una cazuela apta para horno, pon el pollo con su marinada y la mitad de la cebolla frita. Cocina 5 minutos a fuego medio para que empiece a hacerse.",
     "Cubre con el arroz, reparte las pasas, la mantequilla en trocitos y la mitad de la menta y el cilantro picados. Rocía con 4 cdas de agua.",
     "Tapa herméticamente con papel de aluminio y la tapa y hornea 30 minutos, hasta que el arroz esté suelto y tierno y el pollo hecho.",
@@ -880,7 +880,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos y pélalos. Separa las yemas de las claras.",
+    "Cuece los huevos 10 minutos, enfríalos y pélalos. Separa las yemas de las claras. Mientras se cuecen, pica la cebolla.",
     "Corta el pavo en dados de 4 cm, salpimiéntalo y pásalo por la harina. Dóralo con el aceite en una cazuela a fuego fuerte 4 minutos y resérvalo.",
     "En el mismo aceite fríe los ajos enteros y las almendras 2 minutos a fuego medio hasta que doren. Sácalos y resérvalos. Sofríe la cebolla picada 8 minutos hasta que esté transparente.",
     "Vierte el vino y deja evaporar 2 minutos. Añade el caldo, el laurel, el pavo y las patatas peladas y chascadas en trozos. Cuece tapado 20 minutos a fuego suave.",
@@ -964,7 +964,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 35-40 minutos, hasta que esté tierno. Escúrrelo.",
-    "Mientras, corta el pavo en medallones de 2 cm, salpimiéntalo y dóralo en una sartén con 0,5 cda de aceite a fuego fuerte 2 minutos por lado. Resérvalo.",
+    "Mientras, trocea las setas y corta el puerro en rodajas finas. Corta el pavo en medallones de 2 cm, salpimiéntalo y dóralo en una sartén con 0,5 cda de aceite a fuego fuerte 2 minutos por lado. Resérvalo.",
     "Añade el aceite restante y saltea las setas troceadas a fuego fuerte 4 minutos, hasta que doren. Añade el puerro en rodajas finas y cocina 5 minutos a fuego medio hasta que esté blando.",
     "Vierte el vino y deja reducir 2 minutos. Añade el caldo, la mostaza y las hojas de tomillo y remueve.",
     "Devuelve el pavo, tapa y cuece a fuego suave 8 minutos, hasta que esté hecho pero jugoso y la salsa haya reducido ligeramente.",
@@ -1011,7 +1011,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pavo y frótalo con 1 cdta de pimentón. Dóralo en una cazuela con el aceite a fuego fuerte 3 minutos por lado. Resérvalo.",
+    "Pica la cebolla y el ajo. Salpimienta el pavo y frótalo con 1 cdta de pimentón. Dóralo en una cazuela con el aceite a fuego fuerte 3 minutos por lado. Resérvalo.",
     "Sofríe la cebolla picada 6 minutos a fuego medio. Añade el ajo, el resto del pimentón y el tomate concentrado y remueve 1 minuto.",
     "Añade el tomate triturado, el azúcar, 1 cda de vinagre, la mostaza, la soja y 150 ml de agua. Devuelve el pavo, tapa y cuece a fuego muy suave 80-90 minutos, girándolo de vez en cuando, hasta que se deshaga al tocarlo.",
     "Mientras, prepara la ensalada: corta la lombarda en juliana muy fina y ralla la zanahoria. Mézclalas con la mayonesa, el yogur, el vinagre restante, sal y pimienta. Reserva en la nevera.",
@@ -1058,7 +1058,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon los contramuslos en una olla con el agua fría, la cebolla y el puerro en trozos, la mitad del jengibre en láminas y los ajos aplastados. Lleva a ebullición, retira la espuma y cuece a fuego muy suave, sin tapar del todo, 2 horas.",
     "Mientras, cuece los huevos 6 minutos y medio en agua hirviendo, enfríalos en agua con hielo y pélalos. Marínalos en 2 cdas de soja con 4 cdas de agua al menos 1 hora, girándolos.",
-    "Saca el pollo del caldo, quítale piel y huesos y desmenuza la carne. Cuela el caldo: deberían quedar unos 800 ml (reduce o añade agua si hace falta).",
+    "Pon a hervir agua para los fideos. Saca el pollo del caldo, quítale piel y huesos y desmenuza la carne. Cuela el caldo: deberían quedar unos 800 ml (reduce o añade agua si hace falta).",
     "Dora la carne desmenuzada en una sartén sin aceite a fuego fuerte 3 minutos con 1 cda de soja, hasta que tenga bordes crujientes.",
     "Disuelve el miso en un cazo de caldo y devuélvelo a la olla con el jengibre restante rallado. Prueba y ajusta de sal; no dejes que hierva tras añadir el miso.",
     "Cuece los fideos según el paquete y el pak choi partido por la mitad 2 minutos en la misma agua. Escurre y reparte en cuencos.",

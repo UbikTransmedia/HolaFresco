@@ -166,8 +166,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 160 °C. Salpimienta las carrilladas y enharínalas ligeramente. Calienta el aceite en una cazuela apta para horno a fuego fuerte y dóralas 3 min por lado hasta que tengan costra. Resérvalas.",
-    "Baja a fuego medio. Pica cebolla, zanahoria, puerro y ajo en dados pequeños y sofríelos en la misma cazuela 10 min, raspando el fondo, hasta que estén blandos y dorados.",
+    "Precalienta el horno a 160 °C. Pica la cebolla, la zanahoria, el puerro y el ajo en dados pequeños. Salpimienta las carrilladas y enharínalas ligeramente. Calienta el aceite en una cazuela apta para horno a fuego fuerte y dóralas 3 min por lado hasta que tengan costra. Resérvalas.",
+    "Baja a fuego medio y sofríe las verduras picadas en la misma cazuela 10 min, raspando el fondo, hasta que estén blandos y dorados.",
     "Vierte el Pedro Ximénez, sube el fuego y deja reducir 3 min hasta que pierda el alcohol y espese un poco. Devuelve la carne, añade el caldo, el laurel y el tomillo; el líquido debe cubrir casi toda la carne.",
     "Tapa y mete al horno 2 h 30 min. A mitad de cocción da la vuelta a las carrilladas. Están listas cuando al pincharlas con un tenedor se deshagan sin resistencia.",
     "Mientras, pela el boniato, córtalo en trozos y cuécelo en agua con sal 20 min hasta que esté muy tierno. Escúrrelo y tritúralo con la mantequilla, sal y pimienta hasta obtener un puré liso.",
@@ -480,11 +480,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los pimientos choriceros en un bol con agua muy caliente 15 min. Ábrelos y raspa la carne con una cuchara; desecha la piel.",
+    "Pon los pimientos choriceros en un bol con agua muy caliente 15 min. Mientras, pica la cebolla, el pimiento verde y los ajos y ralla los tomates. Abre los choriceros y raspa la carne con una cuchara; desecha la piel.",
     "Salpimienta los dados de cerdo. Calienta el aceite en una cazuela a fuego fuerte y dóralos en 2 tandas, 3-4 min por tanda, hasta que tengan costra. Resérvalos.",
     "Baja a fuego medio y sofríe la cebolla, el pimiento verde y los ajos picados 8 min hasta que estén blandos. Añade los tomates rallados y cocina 5 min hasta que pierdan el agua. Incorpora el pimentón y la carne del choricero y remueve 30 segundos.",
-    "Devuelve la carne, vierte el vino y deja reducir 2 min. Cubre con el caldo, añade el laurel y la guindilla, tapa y cuece a fuego muy suave 60 min, removiendo de vez en cuando.",
-    "Pela las patatas y cáscalas (clava el cuchillo y rompe el trozo) para que suelten almidón. Añádelas a la cazuela, sala y cuece 25 min más destapado, hasta que estén tiernas y la salsa haya trabado.",
+    "Devuelve la carne, vierte el vino y deja reducir 2 min. Cubre con el caldo, añade el laurel y la guindilla, tapa y cuece a fuego muy suave 60 min, removiendo de vez en cuando. Mientras, pela las patatas.",
+    "Casca las patatas (clava el cuchillo y rompe el trozo) para que suelten almidón. Añádelas a la cazuela, sala y cuece 25 min más destapado, hasta que estén tiernas y la salsa haya trabado.",
     "Deja reposar 5 min fuera del fuego, retira el laurel y sirve con el perejil picado."
   ],
   nutricion: { kcal: 710, prot: 55, hc: 55, grasa: 30 },
@@ -526,7 +526,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta las semillas de hinojo 1 min en la sartén seca y machácalas en el mortero. Mézclalas en un bol con el cerdo, 1 ajo picado, el pan rallado, el huevo, el parmesano rallado, la mitad del perejil picado, sal y pimienta. Forma 12 albóndigas.",
+    "Pica la cebolla y lamina uno de los ajos. Tuesta las semillas de hinojo 1 min en la sartén seca y machácalas en el mortero. Mézclalas en un bol con el cerdo, 1 ajo picado, el pan rallado, el huevo, el parmesano rallado, la mitad del perejil picado, sal y pimienta. Forma 12 albóndigas.",
     "Calienta 1 cda de aceite en la sartén a fuego medio-alto y dora las albóndigas 5-6 min girándolas. Resérvalas en un plato.",
     "En la misma sartén sofríe la cebolla picada 6 min. Añade el otro ajo laminado y la guindilla, y a los 30 segundos el tomate triturado, el orégano y sal. Cocina 10 min a fuego medio hasta que la salsa espese.",
     "Devuelve las albóndigas a la salsa, tapa y cuece 12 min a fuego suave, girándolas una vez.",
@@ -614,12 +614,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala las carrilladas. Calienta el aceite en una cazuela a fuego fuerte y dóralas 3 min por lado. Resérvalas.",
-    "Baja a fuego medio y sofríe la cebolla picada, el ajo y el jengibre rallados 5 min. Añade la pasta de curry y fríela 1 min removiendo hasta que huela intensamente.",
-    "Vierte la leche de coco, el caldo, la salsa de pescado y el azúcar. Devuelve las carrilladas, tapa y cuece a fuego mínimo 2 h, girándolas a mitad; la salsa debe apenas burbujear.",
-    "Pela la calabaza y córtala en dados de 3 cm. Añádela a la cazuela y cuece 20 min más tapado.",
-    "Incorpora las judías verdes en trozos y cuece 10 min destapado para que la salsa reduzca un poco. Las carrilladas deben deshacerse al presionarlas con una cuchara.",
-    "Mientras, cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado a fuego mínimo y 5 min de reposo.",
+    "Pica la cebolla y ralla el ajo y el jengibre. Sala las carrilladas. Calienta el aceite en una cazuela a fuego fuerte y dóralas 3 min por lado. Resérvalas.",
+    "Baja a fuego medio y sofríe la cebolla, el ajo y el jengibre 5 min. Añade la pasta de curry y fríela 1 min removiendo hasta que huela intensamente.",
+    "Vierte la leche de coco, el caldo, la salsa de pescado y el azúcar. Devuelve las carrilladas, tapa y cuece a fuego mínimo 2 h, girándolas a mitad; la salsa debe apenas burbujear. Mientras, pela la calabaza y córtala en dados de 3 cm, y trocea las judías verdes.",
+    "Añade la calabaza a la cazuela y cuece 20 min más tapado. Mientras, cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado a fuego mínimo y 5 min de reposo.",
+    "Incorpora las judías verdes y cuece 10 min destapado para que la salsa reduzca un poco. Las carrilladas deben deshacerse al presionarlas con una cuchara.",
     "Apaga el fuego, exprime media lima sobre el curry y rectifica de sal. Sirve con el arroz, el cilantro picado, los cacahuetes troceados y gajos de la lima restante."
   ],
   nutricion: { kcal: 780, prot: 48, hc: 75, grasa: 32 },
@@ -707,8 +706,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla en un bol la soja, 2 cda de miel, las cinco especias, el ajo y el jengibre rallados, el tomate concentrado, el vinagre y el aceite de sésamo. Reserva 3 cda de la marinada y embadurna las tiras de lomo con el resto. Deja marinar 1 h en la nevera (o toda la noche).",
-    "Precalienta el horno a 200 °C. Pon una rejilla sobre una bandeja con un dedo de agua (evita que los goteos se quemen) y coloca encima las tiras escurridas.",
+    "Mezcla en un bol la soja, 2 cda de miel, las cinco especias, el ajo y el jengibre rallados, el tomate concentrado, el vinagre y el aceite de sésamo. Reserva 3 cda de la marinada y embadurna las tiras de lomo con el resto. Deja marinar 1 h en la nevera (o toda la noche). Precalienta el horno a 200 °C unos 15 min antes de que termine el marinado.",
+    "Pon una rejilla sobre una bandeja con un dedo de agua (evita que los goteos se quemen) y coloca encima las tiras escurridas.",
     "Hornea 12 min, dales la vuelta, píntalas con la marinada reservada y hornea 10 min más. Mezcla la cda de miel restante con la marinada que quede, pinta otra vez y gratina 3 min vigilando hasta que los bordes estén oscuros y brillantes.",
     "Mientras, cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado a fuego mínimo y 5 min de reposo.",
     "Corta el pak choi a lo largo en cuartos. Saltéalo 3 min en una sartén muy caliente con 2 cda de agua y una pizca de sal, hasta que el tallo esté tierno pero crujiente.",
@@ -795,11 +794,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala las costillas. Calienta el aceite en una cazuela amplia a fuego fuerte y dóralas en 2 tandas, 4 min por tanda, hasta que estén bien tostadas. Resérvalas.",
-    "Baja a fuego medio y sofríe la cebolla, el pimiento y las zanahorias en dados y los ajos picados 10 min, raspando el fondo. Añade los tomates rallados y cocina 5 min.",
+    "Corta la cebolla, el pimiento y las zanahorias en dados, pica los ajos y ralla los tomates. Sala las costillas. Calienta el aceite en una cazuela amplia a fuego fuerte y dóralas en 2 tandas, 4 min por tanda, hasta que estén bien tostadas. Resérvalas.",
+    "Baja a fuego medio y sofríe la cebolla, el pimiento, las zanahorias y los ajos 10 min, raspando el fondo. Añade los tomates rallados y cocina 5 min.",
     "Aparta del fuego, agrega los pimentones y el comino y remueve 30 segundos para que no se quemen. Devuelve las costillas, vierte el vino y deja reducir 2 min al fuego.",
-    "Cubre con el caldo, añade el laurel, tapa y cuece a fuego mínimo 75 min, hasta que la carne se despegue del hueso.",
-    "Añade la patata pelada en trozos pequeños y cuece 15 min. Incorpora las alubias escurridas y enjuagadas y cuece 10 min más destapado, moviendo la cazuela en vaivén para que la salsa engorde sin romper las alubias.",
+    "Cubre con el caldo, añade el laurel, tapa y cuece a fuego mínimo 75 min, hasta que la carne se despegue del hueso. Mientras, pela la patata y córtala en trozos pequeños.",
+    "Añade la patata y cuece 15 min. Incorpora las alubias escurridas y enjuagadas y cuece 10 min más destapado, moviendo la cazuela en vaivén para que la salsa engorde sin romper las alubias.",
     "Rectifica de sal, deja reposar 5 min y sirve en platos hondos con el perejil picado."
   ],
   nutricion: { kcal: 940, prot: 58, hc: 60, grasa: 52 },
@@ -978,10 +977,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas con piel en una cazuela con agua y sal 18-20 min, hasta que un cuchillo entre sin resistencia. Escúrrelas, pélalas en cuanto puedas tocarlas y córtalas en rodajas de 1 cm.",
-    "Calienta en un bol el caldo con la mostaza, el vinagre, 1 cda del aceite, sal y pimienta. Mezcla con las patatas aún tibias, los pepinillos en rodajas y la cebolla morada en juliana fina. Deja que se empapen mientras preparas la carne.",
-    "Pon los filetes entre dos trozos de film y aplánalos con el fondo de un cazo hasta medio centímetro. Salpimiéntalos.",
+    "Cuece las patatas con piel en una cazuela con agua y sal 18-20 min, hasta que un cuchillo entre sin resistencia.",
+    "Mientras se cuecen, pon los filetes entre dos trozos de film y aplánalos con el fondo de un cazo hasta medio centímetro. Salpimiéntalos.",
     "Prepara tres platos: harina, huevos batidos y pan rallado. Pasa cada filete por los tres en ese orden, presionando el pan rallado sin apretar demasiado.",
+    "Escurre las patatas, pélalas en cuanto puedas tocarlas y córtalas en rodajas de 1 cm. Calienta en un bol el caldo con la mostaza, el vinagre, 1 cda del aceite, sal y pimienta. Mezcla con las patatas aún tibias, los pepinillos en rodajas y la cebolla morada en juliana fina. Deja que se empapen mientras fríes la carne.",
     "Calienta el resto del aceite (un dedo) en una sartén amplia a 170 °C: una miga de pan debe burbujear al instante. Fríe los schnitzel de dos en dos 2-3 min por lado moviendo la sartén en círculos para que el rebozado se ondule, hasta que estén dorados. Escúrrelos en papel.",
     "Mezcla el cebollino picado con la ensalada de patata y sírvela con los schnitzel y gajos de limón para exprimir encima."
   ],
@@ -1025,10 +1024,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta los dados de cerdo y espolvoréalos con la harina. Calienta el aceite en una cazuela a fuego fuerte y dóralos en 2 tandas, 4 min por tanda. Resérvalos.",
-    "Baja a fuego medio y añade la cebolla picada, las zanahorias en rodajas gruesas, la parte blanca de los puerros en trozos de 3 cm y los ajos. Sofríe 8 min raspando el fondo.",
-    "Vierte la sidra, sube el fuego y deja reducir 3 min para que pierda el alcohol. Devuelve la carne, añade el caldo, el laurel y el tomillo; el líquido debe cubrir casi todo. Tapa y cuece a fuego mínimo 75 min.",
-    "Pela las patatas, córtalas en trozos grandes y añádelas a la cazuela. Cuece 30 min más tapado, hasta que estén tiernas y la carne se deshaga.",
+    "Pica la cebolla y los ajos, corta las zanahorias en rodajas gruesas y la parte blanca de los puerros en trozos de 3 cm. Salpimienta los dados de cerdo y espolvoréalos con la harina. Calienta el aceite en una cazuela a fuego fuerte y dóralos en 2 tandas, 4 min por tanda. Resérvalos.",
+    "Baja a fuego medio y añade la cebolla, las zanahorias, los puerros y los ajos. Sofríe 8 min raspando el fondo.",
+    "Vierte la sidra, sube el fuego y deja reducir 3 min para que pierda el alcohol. Devuelve la carne, añade el caldo, el laurel y el tomillo; el líquido debe cubrir casi todo. Tapa y cuece a fuego mínimo 75 min. Mientras, pela las patatas y córtalas en trozos grandes.",
+    "Añade las patatas a la cazuela. Cuece 30 min más tapado, hasta que estén tiernas y la carne se deshaga.",
     "Incorpora la mostaza antigua y la nata, remueve con cuidado y cuece 5 min destapado para que la salsa espese ligeramente. Rectifica de sal y pimienta.",
     "Retira el laurel y las ramas de tomillo y sirve bien caliente con el perejil picado."
   ],
@@ -1070,7 +1069,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el lomo con 1 cda de salsa de pescado, 1 cdta de azúcar, 1 ajo rallado, el aceite y pimienta. Deja marinar 5 min mientras preparas el resto.",
+    "Mezcla el lomo con 1 cda de salsa de pescado, 1 cdta de azúcar, 1 ajo rallado, el aceite y pimienta. Deja marinar 5 min mientras preparas el resto. Pon a hervir agua para los fideos.",
     "Prepara el nuoc cham: disuelve el azúcar restante en el zumo de las 2 limas con 2 cda de salsa de pescado, 4 cda de agua, el otro ajo picado muy fino y el chile en rodajitas.",
     "Cuece los fideos de arroz en agua hirviendo 3-4 min (o según el paquete), escúrrelos y pásalos por agua fría para que no se peguen.",
     "Corta el pepino y la zanahoria en bastones finos y la lechuga en tiras. Deshoja la menta y el cilantro.",

@@ -121,10 +121,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y cuécelas enteras con piel en agua con sal desde frío, 20-25 minutos desde que hierva, hasta que un cuchillo entre sin resistencia. En los últimos 10 minutos añade los huevos a la misma cazuela.",
-    "Saca los huevos a agua fría y pélalos. Escurre las patatas, pélalas en cuanto puedas tocarlas y córtalas en dados de 2 cm. Alíñalas aún templadas con el vinagre y una pizca de sal: así lo absorben.",
-    "Corta el pimiento verde en daditos, el tomate en dados, la cebolleta en rodajas finas y los huevos en cuartos.",
-    "Prepara el aliño: mezcla el aceite con el pimentón, pimienta y una pizca de sal (añádelo a la patata cuando ya no queme para que el pimentón no amargue).",
-    "Mezcla las patatas con el pimiento, el tomate, la cebolleta, las aceitunas y el aliño. Deja reposar 10 minutos en la nevera.",
+    "Mientras cuecen, corta el pimiento verde en daditos, el tomate en dados y la cebolleta en rodajas finas. Prepara el aliño: mezcla el aceite con el pimentón, pimienta y una pizca de sal.",
+    "Saca los huevos a agua fría, pélalos y córtalos en cuartos. Escurre las patatas, pélalas en cuanto puedas tocarlas y córtalas en dados de 2 cm. Alíñalas aún templadas con el vinagre y una pizca de sal: así lo absorben.",
+    "Cuando la patata ya no queme (para que el pimentón no amargue), mézclala con el pimiento, el tomate, la cebolleta, las aceitunas y el aliño. Deja reposar 10 minutos en la nevera.",
     "Reparte en dos platos, pon encima el bonito escurrido en lascas grandes y los huevos, y termina con el perejil picado."
   ],
   nutricion: { kcal: 605, prot: 34, hc: 52, grasa: 29 },
@@ -168,8 +167,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la ternera en tiras finas. Mézclala con 3 cucharadas de soja, el azúcar, media cucharada de aceite de sésamo, 2 ajos rallados, el jengibre rallado, la pera rallada y la parte blanca de la cebolleta picada. Deja marinar 20 minutos (la pera ablanda la carne).",
-    "Lava el arroz y cuécelo en 210 ml de agua con sal, tapado y a fuego mínimo, 11 minutos; reposa 5 minutos tapado.",
-    "Corta la zanahoria en juliana y los champiñones en láminas. Saltéalos por separado en el wok con unas gotas de aceite de oliva, 2 minutos cada uno, con una pizca de sal. Resérvalos.",
+    "Mientras marina, lava el arroz y cuécelo en 210 ml de agua con sal, tapado y a fuego mínimo, 11 minutos; reposa 5 minutos tapado.",
+    "Mientras se cuece el arroz, corta la zanahoria en juliana y los champiñones en láminas. Saltéalos por separado en el wok con unas gotas de aceite de oliva, 2 minutos cada uno, con una pizca de sal. Resérvalos.",
     "Escalda las espinacas 1 minuto, escúrrelas, estrújalas y alíñalas con el resto del aceite de sésamo, la soja restante, el otro ajo rallado y la mitad del sésamo.",
     "Calienta el wok a fuego máximo con el resto del aceite y saltea la ternera escurrida en dos tandas, 2 minutos cada una, hasta que esté dorada y caramelizada. Si la pones toda junta hervirá en lugar de dorarse.",
     "Fríe los huevos con la yema líquida. Monta los bowls: arroz, la ternera, y alrededor la zanahoria, los champiñones y las espinacas. Corona con el huevo, el resto del sésamo, la cebolleta verde en rodajas y una cucharadita de gochujang si lo quieres picante."
@@ -348,7 +347,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre y enjuaga los garbanzos del remojo. Ponlos en una cazuela cubiertos con 3 dedos de agua fría (sin sal) y llévalos a ebullición. Retira la espuma, baja el fuego y cuécelos tapados 75-90 minutos, hasta que se aplasten sin esfuerzo entre dos dedos. Sala los últimos 10 minutos.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría con el bicarbonato (12 horas). Al día siguiente, escúrrelos y enjuágalos. Ponlos en una cazuela cubiertos con 3 dedos de agua fría (sin sal) y llévalos a ebullición. Retira la espuma, baja el fuego y cuécelos tapados 75-90 minutos, hasta que se aplasten sin esfuerzo entre dos dedos. Sala los últimos 10 minutos.",
     "Mientras cuecen, corta los pimientos en daditos, el tomate en dados pequeños y la cebolleta en rodajas finas. Pica el perejil y la menta.",
     "Machaca los ajos con una pizca de sal en el mortero hasta hacer una pasta y mézclala con el zumo del limón y medio, el comino, el pimentón, el aceite y pimienta.",
     "Tuesta las pitas en una sartén seca o en el tostador y córtalas en triángulos.",
@@ -575,9 +574,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos en agua hirviendo, pásalos a agua fría, pélalos y córtalos en cuartos.",
-    "Pela los tomates (si están muy maduros la piel sale tirando con un cuchillo; si no, escáldalos 20 segundos) y córtalos en trozos irregulares de bocado, recogiendo todo el jugo.",
-    "Corta la cebolleta en rodajas finas. Escurre el bonito y sepáralo en lascas grandes con los dedos.",
+    "Cuece los huevos 10 minutos en agua hirviendo.",
+    "Mientras, pela los tomates (si están muy maduros la piel sale tirando con un cuchillo; si no, escáldalos 20 segundos) y córtalos en trozos irregulares de bocado, recogiendo todo el jugo. Tuesta el pan.",
+    "Pasa los huevos a agua fría, pélalos y córtalos en cuartos. Corta la cebolleta en rodajas finas. Escurre el bonito y sepáralo en lascas grandes con los dedos.",
     "Mezcla en una fuente el tomate con su jugo, la cebolleta, las aceitunas, las alcaparras, el vinagre, sal y pimienta. Deja reposar 5 minutos.",
     "Reparte el bonito y los huevos por encima, riega con el aceite generosamente y sirve con el pan tostado para mojar en el jugo del fondo, que es lo mejor del plato."
   ],
@@ -619,8 +618,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 8 minutos en agua hirviendo (yema cremosa pero cuajada), pásalos a agua fría, pélalos y córtalos en mitades.",
-    "Corta el pepino en rodajas muy finas con mandolina, sálalas ligeramente y déjalas 10 minutos en un colador; escúrrelas y sécalas. Lamina los rábanos y corta la cebolla morada en plumas finísimas.",
+    "Cuece los huevos 8 minutos en agua hirviendo (yema cremosa pero cuajada). Mientras, corta el pepino en rodajas muy finas con mandolina, sálalas ligeramente y déjalas 10 minutos en un colador.",
+    "Pasa los huevos a agua fría, pélalos y córtalos en mitades. Lamina los rábanos y corta la cebolla morada en plumas finísimas. Escurre el pepino y sécalo.",
     "Prepara la salsa: mezcla el yogur con la mostaza, la ralladura y el zumo de medio limón, la mitad del eneldo picado, pimienta y una pizca de sal.",
     "Tuesta el pan de centeno y córtalo en bastones; úntalo con unas gotas de aceite.",
     "Reparte los canónigos en dos platos y encima el pepino, los rábanos y la cebolla. Dispón el salmón en ondas y los huevos.",
@@ -666,9 +665,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 230 °C. Pincha las berenjenas enteras con un tenedor y ásalas 35-40 minutos directamente sobre la rejilla, dándoles la vuelta a mitad, hasta que estén completamente arrugadas y hundidas. Si tienes fuego de gas, chamúscalas 5 minutos sobre la llama antes de hornearlas: gana en ahumado.",
     "Al mismo tiempo, en una bandeja, hornea los garbanzos bien secos con media cucharada de aceite, el comino, el pimentón y sal, 20-25 minutos, hasta que crujan.",
-    "Abre las berenjenas por la mitad, saca la pulpa con una cuchara desechando la piel y déjala escurrir 5 minutos en un colador. Trocéala gruesa y alíñala con el zumo de medio limón, media cucharada de aceite, sal y pimienta.",
-    "Mezcla el yogur con el tahini, el ajo rallado, el zumo del otro medio limón y una pizca de sal; aligera con 1 cucharada de agua.",
-    "Desgrana la granada y corta la cebolla morada en plumas finas. Pica la menta y el perejil.",
+    "Mientras se asan, mezcla el yogur con el tahini, el ajo rallado, el zumo de medio limón y una pizca de sal; aligera con 1 cucharada de agua. Desgrana la granada, corta la cebolla morada en plumas finas y pica la menta y el perejil.",
+    "Abre las berenjenas por la mitad, saca la pulpa con una cuchara desechando la piel y déjala escurrir 5 minutos en un colador. Trocéala gruesa y alíñala con el zumo del otro medio limón, media cucharada de aceite, sal y pimienta.",
     "Extiende la crema de yogur en el fondo de dos platos, pon encima la berenjena templada, luego los garbanzos crujientes, la cebolla, la granada y las hierbas. Termina con el resto del aceite en hilo."
   ],
   nutricion: { kcal: 460, prot: 18, hc: 45, grasa: 23 },
@@ -708,10 +706,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los huevos en agua hirviendo 10 minutos, enfríalos en agua fría y pélalos. Córtalos en cuartos.",
-    "Enjuaga las lentejas en un colador bajo el grifo hasta que el agua salga clara y déjalas escurrir bien: el líquido del bote apaga el sabor.",
+    "Pon los huevos en agua hirviendo 10 minutos.",
+    "Mientras, enjuaga las lentejas en un colador bajo el grifo hasta que el agua salga clara y déjalas escurrir bien: el líquido del bote apaga el sabor.",
     "Prepara la vinagreta en el fondo de un bol grande: bate la mostaza con el vinagre, el comino, sal y pimienta, y añade el aceite en hilo sin dejar de batir hasta que emulsione.",
-    "Corta el tomate en dados, el pepino en medias lunas, el pimiento en daditos, la cebolleta en rodajas finas y ralla la zanahoria gruesa.",
+    "Corta el tomate en dados, el pepino en medias lunas, el pimiento en daditos, la cebolleta en rodajas finas y ralla la zanahoria gruesa. Enfría los huevos en agua fría, pélalos y córtalos en cuartos.",
     "Añade las lentejas y las verduras al bol de la vinagreta y mezcla bien. Deja reposar 5 minutos (o hasta 2 días en la nevera: mejora).",
     "Reparte en dos platos, coloca los cuartos de huevo encima y termina con el perejil picado y una vuelta de pimienta."
   ],
@@ -1023,8 +1021,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que el agua hierva, pásalos a agua fría, pélalos y córtalos en cuartos.",
-    "Pon el bacon en una sartén fría, enciende a fuego medio y deja que suelte la grasa 6-8 minutos, dándole la vuelta, hasta que esté crujiente. Escúrrelo sobre papel y trocéalo.",
+    "Cuece los huevos 10 minutos desde que el agua hierva.",
+    "Mientras, pon el bacon en una sartén fría, enciende a fuego medio y deja que suelte la grasa 6-8 minutos, dándole la vuelta, hasta que esté crujiente. Escúrrelo sobre papel y trocéalo. Pasa los huevos a agua fría, pélalos y córtalos en cuartos.",
     "Abre la pechuga en filetes de 1,5 cm, salpimiéntalos y hazlos en la grasa que ha quedado en la sartén, 3-4 minutos por cara a fuego medio-alto, hasta que estén dorados y jugosos. Reposa 5 minutos y córtalos en dados.",
     "Bate la mostaza con el vinagre, el aceite, sal, pimienta y la mitad del cebollino picado hasta que emulsione.",
     "Corta la lechuga en tiras finas, los tomates por la mitad y el aguacate en dados; rocía el aguacate con unas gotas de vinagreta para que no se oscurezca.",
@@ -1067,9 +1065,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Deshaz la pasta de achiote en el zumo de naranja con el ajo rallado y una pizca de sal. Unta bien el solomillo y déjalo marinar 20 minutos a temperatura ambiente.",
-    "Corta la cebolla morada en plumas finas y cúbrela con el zumo de una lima y una pizca de sal; en 20 minutos estará encurtida y rosa.",
-    "Precalienta el horno a 210 °C. Enjuaga la quinoa y cuécela en el doble de su volumen de agua con sal, tapada y a fuego suave, 12-14 minutos, hasta que se abra. Destápala y deja que se seque y temple.",
+    "Precalienta el horno a 210 °C. Deshaz la pasta de achiote en el zumo de naranja con el ajo rallado y una pizca de sal. Unta bien el solomillo y déjalo marinar 20 minutos a temperatura ambiente.",
+    "Mientras, corta la cebolla morada en plumas finas y cúbrela con el zumo de una lima y una pizca de sal; en 20 minutos estará encurtida y rosa.",
+    "Enjuaga la quinoa y cuécela en el doble de su volumen de agua con sal, tapada y a fuego suave, 12-14 minutos, hasta que se abra. Destápala y deja que se seque y temple.",
     "Pon el solomillo en una bandeja con media cucharada de aceite y las rodajas de piña al lado. Ásalo 18-20 minutos, dándole la vuelta a mitad, hasta que llegue a 63 °C en el centro y la piña tenga bordes caramelizados. Reposa la carne 5 minutos tapada.",
     "Mezcla la quinoa con las alubias enjuagadas, el resto del aceite, el zumo de la segunda lima, sal, pimienta y la mitad del cilantro picado.",
     "Corta el solomillo en medallones finos y la piña en trozos. Reparte los canónigos en los platos, encima la quinoa con alubias, el cerdo y la piña, y termina con la cebolla encurtida escurrida y el resto del cilantro."

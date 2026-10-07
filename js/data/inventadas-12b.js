@@ -69,10 +69,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el aliño en un bol: la salsa de soja, el zumo de naranja, el zumo de la lima, el jengibre rallado y la mitad del aceite de sésamo. Remueve y reserva.",
-    "Corta el pepino en bastones finos y la cebolleta en rodajas al bies, separando la parte verde para decorar.",
-    "Cuece los fideos soba en abundante agua hirviendo sin sal el tiempo del paquete (4–5 minutos). En el último minuto añade el edamame. Escurre y enfría bajo el grifo frotando los fideos con las manos para quitarles el almidón.",
-    "Calienta una sartén a fuego fuerte con el resto del aceite de sésamo. Saltea el ajo laminado y la parte blanca de la cebolleta 30 segundos, añade los langostinos secos con una pizca de sal y cocínalos 1 minuto por lado, hasta que estén rosados y curvados.",
+    "Pon a hervir abundante agua sin sal para los fideos. Mientras, prepara el aliño en un bol: la salsa de soja, el zumo de naranja, el zumo de la lima, el jengibre rallado y la mitad del aceite de sésamo. Remueve y reserva.",
+    "Corta el pepino en bastones finos y la cebolleta en rodajas al bies, separando la parte verde para decorar. Lamina el ajo.",
+    "Cuece los fideos soba en el agua hirviendo el tiempo del paquete (4–5 minutos). En el último minuto añade el edamame. Escurre y enfría bajo el grifo frotando los fideos con las manos para quitarles el almidón.",
+    "Calienta una sartén a fuego fuerte con el resto del aceite de sésamo. Saltea el ajo y la parte blanca de la cebolleta 30 segundos, añade los langostinos secos con una pizca de sal y cocínalos 1 minuto por lado, hasta que estén rosados y curvados.",
     "Vierte 2 cucharadas del aliño sobre los langostinos en la sartén, deja que burbujee 20 segundos y apaga.",
     "Mezcla los fideos y el edamame con el resto del aliño, reparte en dos boles y coloca encima el pepino, los langostinos con su jugo y el verde de la cebolleta."
   ],
@@ -152,11 +152,11 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cdta" }
   ],
   pasos: [
-    "Disuelve el miso en la salsa de soja con la sriracha y 3 cucharadas de agua. Reserva.",
+    "Pon a hervir agua para los udon. Mientras, disuelve el miso en la salsa de soja con la sriracha y 3 cucharadas de agua. Reserva.",
     "Cuece los udon en agua hirviendo el tiempo del paquete (los precocidos solo 1 minuto para soltarlos). Escurre y pasa por agua fría.",
-    "Corta la col en tiras de 1 cm y la cebolleta en trozos, separando la parte verde.",
+    "Corta la col en tiras de 1 cm y la cebolleta en trozos, separando la parte verde. Pica el ajo y el jengibre.",
     "Calienta el wok a fuego fuerte con el aceite. Añade el cerdo picado aplastándolo contra el fondo y déjalo sin tocar 2 minutos para que se dore; luego desmenúzalo y cocina 2 minutos más, hasta que esté crujiente en los bordes.",
-    "Incorpora el ajo, el jengibre picado y la parte blanca de la cebolleta 30 segundos. Añade la col y saltea 3 minutos, hasta que esté brillante y algo tostada pero aún crujiente.",
+    "Incorpora el ajo, el jengibre y la parte blanca de la cebolleta 30 segundos. Añade la col y saltea 3 minutos, hasta que esté brillante y algo tostada pero aún crujiente.",
     "Agrega los udon y la salsa de miso y saltea 1–2 minutos removiendo con pinzas hasta que la salsa se reduzca y glasee los fideos.",
     "Sirve con el verde de la cebolleta y el sésamo tostado por encima."
   ],
@@ -279,9 +279,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hidrata los fideos de arroz en un bol con agua caliente del grifo 8–10 minutos, hasta que estén flexibles pero firmes. Escúrrelos bien y córtalos un par de veces con tijera.",
-    "Corta el pimiento en tiras finas y la cebolleta en trozos de 3 cm. Mezcla la salsa de soja con el curry y 2 cucharadas de agua.",
+    "Mientras, corta el pimiento en tiras finas, la cebolleta en trozos de 3 cm y pica el ajo. Mezcla la salsa de soja con el curry y 2 cucharadas de agua.",
     "Calienta el wok a fuego fuerte con 1 cucharadita de aceite. Bate los huevos con una pizca de sal, viértelos y remueve 30 segundos hasta tener un revuelto jugoso. Sácalo y reserva.",
-    "Añade el resto del aceite y saltea las gambas 1 minuto, hasta que cambien de color. Incorpora el ajo picado, el pimiento y la cebolleta y saltea 2 minutos más a fuego máximo.",
+    "Añade el resto del aceite y saltea las gambas 1 minuto, hasta que cambien de color. Incorpora el ajo, el pimiento y la cebolleta y saltea 2 minutos más a fuego máximo.",
     "Echa los fideos y la mezcla de soja y curry y remueve con pinzas 2 minutos, levantando para que se repartan el color amarillo y la salsa sin que se peguen.",
     "Añade los brotes de soja y el huevo, saltea 30 segundos más y sirve con un gajo de lima."
   ],
@@ -319,13 +319,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Si no tienes arroz cocido del día anterior, cuécelo con 240 ml de agua y una pizca de sal, tapado a fuego mínimo 12 minutos. Extiéndelo en una bandeja para que se enfríe y se seque al menos 10 minutos.",
+    "Si no tienes arroz cocido del día anterior, cuécelo con 240 ml de agua y una pizca de sal, tapado a fuego mínimo 12 minutos. Extiéndelo en una bandeja para que se enfríe y se seque al menos 10 minutos. Mientras, pica muy finos el jengibre y el ajo, corta el pimiento en daditos y pica la cebolleta separando la parte blanca de la verde.",
     "Bate los huevos con una pizca de sal y cuájalos en el wok con unas gotas de aceite como una tortilla fina, 1 minuto por lado. Enróllala, córtala en tiras y reserva.",
     "Corta el pollo en dados de 1,5 cm y sálalo. Calienta el wok a fuego máximo con la mitad del aceite de oliva y dora el pollo 4–5 minutos, hasta que esté dorado por fuera. Retira.",
-    "Añade el resto del aceite, el jengibre y el ajo picados muy finos y la parte blanca de la cebolleta con el pimiento en daditos. Saltea 1 minuto sin que se queme.",
+    "Añade el resto del aceite, el jengibre y el ajo y la parte blanca de la cebolleta con el pimiento. Saltea 1 minuto sin que se queme.",
     "Incorpora el arroz frío desmenuzándolo con la espátula y saltea 3 minutos a fuego vivo, aplastando y volteando para que se tueste ligeramente.",
     "Devuelve el pollo, vierte la salsa de soja por los bordes del wok para que chisporrotee y se caramelice, y saltea 1 minuto más.",
-    "Apaga, añade el aceite de sésamo, las tiras de tortilla y el verde de la cebolleta picado. Mezcla y sirve muy caliente."
+    "Apaga, añade el aceite de sésamo, las tiras de tortilla y el verde de la cebolleta. Mezcla y sirve muy caliente."
   ],
   nutricion: { kcal: 620, prot: 42, hc: 70, grasa: 18 },
   etiquetas: ["aprovechamiento", "económica", "alta en proteína", "para niños", "poco especiada"],
@@ -364,9 +364,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece las lentejas en abundante agua con sal 20–25 minutos, hasta que estén tiernas pero enteras. Escurre.",
     "Mientras, corta las cebollas en juliana muy fina. Fríelas en una sartén con 2 cucharadas de aceite a fuego medio 15–18 minutos, removiendo a menudo, hasta que estén de color caoba y crujientes. Sácalas sobre papel y sálalas; reserva el aceite.",
-    "En un cazo, tuesta el arroz 1 minuto con 1 cucharadita del aceite de las cebollas, añade 160 ml de agua y una pizca de sal y cuece tapado a fuego mínimo 12 minutos. Deja reposar tapado.",
-    "Cuece la pasta en agua con sal el tiempo del paquete y escúrrela.",
-    "Para la salsa, sofríe 2 dientes de ajo picados en el resto del aceite de las cebollas 30 segundos, añade el comino, el cilantro molido y la cayena, y enseguida el tomate triturado y 1 cucharada de vinagre. Cocina 12 minutos a fuego medio hasta que espese.",
+    "En un cazo, tuesta el arroz 1 minuto con 1 cucharadita del aceite de las cebollas, añade 160 ml de agua y una pizca de sal y cuece tapado a fuego mínimo 12 minutos. Deja reposar tapado. Pon a hervir agua con sal para la pasta.",
+    "Mientras se cuece el arroz, cuece la pasta en el agua hirviendo el tiempo del paquete y escúrrela.",
+    "Al mismo tiempo, prepara la salsa: sofríe 2 dientes de ajo picados en el resto del aceite de las cebollas 30 segundos, añade el comino, el cilantro molido y la cayena, y enseguida el tomate triturado y 1 cucharada de vinagre. Cocina 12 minutos a fuego medio hasta que espese.",
     "Prepara el aliño: el ajo restante machacado con el resto del vinagre, 2 cucharadas de agua y una pizca de sal y comino.",
     "Mezcla las lentejas, el arroz y la pasta, reparte en platos hondos y cubre con la salsa de tomate. Termina con un buen montón de cebolla crujiente y unas cucharadas del aliño de ajo al gusto."
   ],
@@ -405,7 +405,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Parte los espárragos por donde se quiebren solos. Corta las puntas (5 cm) y resérvalas. Trocea los tallos y cuécelos 4 minutos en el caldo caliente; sácalos y tritúralos con un cazo de ese caldo hasta tener un puré verde fino.",
+    "Calienta el caldo en un cazo. Parte los espárragos por donde se quiebren solos. Corta las puntas (5 cm) y resérvalas. Trocea los tallos y cuécelos 4 minutos en el caldo caliente; sácalos y tritúralos con un cazo de ese caldo hasta tener un puré verde fino.",
     "Pica la chalota y póchala en una cazuela con 1 cucharadita de aceite a fuego medio 3 minutos. Añade el arroz y nácaralo 2 minutos removiendo, hasta que los granos estén translúcidos en los bordes.",
     "Vierte el vino y deja que se evapore. Añade el caldo caliente cazo a cazo, removiendo con frecuencia y sin añadir más hasta que el anterior casi se absorba, durante 16–17 minutos.",
     "A los 14 minutos incorpora el puré de espárragos y las puntas troceadas, y continúa hasta que el arroz esté al dente y el risotto fluya como una ola al mover la cazuela.",
@@ -535,10 +535,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las setas con un paño o papel húmedo (sin lavarlas) y trocéalas en piezas grandes.",
+    "Pon a hervir agua con sal para la pasta. Limpia las setas con un paño o papel húmedo (sin lavarlas) y trocéalas en piezas grandes. Pica la chalota y el ajo.",
     "Calienta el aceite de oliva en una sartén amplia a fuego fuerte. Añade las setas en una sola capa y déjalas 3 minutos sin tocar, hasta que se doren por abajo; luego saltea 2 minutos más. Sala solo al final.",
-    "Pon a hervir agua con sal y cuece los tagliatelle el tiempo del paquete.",
-    "Baja el fuego de la sartén, añade la chalota y el ajo picados y las hojas de tomillo y rehoga 2 minutos. Vierte el vino y deja reducir a la mitad, 1 minuto.",
+    "Cuece los tagliatelle en el agua hirviendo el tiempo del paquete.",
+    "Baja el fuego de la sartén, añade la chalota, el ajo y las hojas de tomillo y rehoga 2 minutos. Vierte el vino y deja reducir a la mitad, 1 minuto.",
     "Añade la nata y un cazo de agua de cocción de la pasta y deja hervir suave 2 minutos.",
     "Incorpora la pasta escurrida y el parmesano, y mezcla 1 minuto a fuego suave hasta que la salsa ligue y brille. Ajusta con más agua de cocción si queda espesa.",
     "Fuera del fuego, rocía con el aceite de trufa y termina con perejil picado y pimienta recién molida."
@@ -622,8 +622,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C con calor arriba y abajo.",
-    "Cuece los macarrones en agua con sal 3 minutos menos de lo que indique el paquete. En los 2 últimos minutos añade el brócoli. Escurre.",
+    "Precalienta el horno a 200 °C con calor arriba y abajo y pon a hervir una cazuela de agua con sal.",
+    "Cuece los macarrones en el agua hirviendo 3 minutos menos de lo que indique el paquete. En los 2 últimos minutos añade el brócoli. Escurre.",
     "En la misma cazuela, derrite 20 g de mantequilla a fuego medio, añade la harina y cocina 1 minuto removiendo sin que tome color. Vierte la leche templada poco a poco batiendo con varillas y cocina 4–5 minutos, hasta que la bechamel nape la cuchara.",
     "Fuera del fuego, añade el cheddar (reserva un puñado), la mostaza, el pimentón, la nuez moscada, sal y pimienta, y remueve hasta que el queso se funda en una salsa lisa.",
     "Mezcla la salsa con los macarrones y el brócoli y pásalo a una fuente de horno de unos 20 × 20 cm.",
@@ -668,10 +668,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava juntos el arroz y las lentejas en un colador hasta que el agua salga casi clara. Déjalos en remojo 10 minutos mientras preparas el resto.",
-    "Escúrrelos y ponlos en una cazuela con 900 ml de agua, la cúrcuma, el jengibre rallado y una cucharadita de sal. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 20–25 minutos, removiendo de vez en cuando, hasta obtener una textura de gachas espesas en la que las lentejas se hayan deshecho.",
+    "Escúrrelos y ponlos en una cazuela con 900 ml de agua, la cúrcuma, el jengibre rallado y una cucharadita de sal. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 20–25 minutos, removiendo de vez en cuando, hasta obtener una textura de gachas espesas en la que las lentejas se hayan deshecho. Mientras, corta la cebolla en juliana fina, lamina el ajo y pica el chile y el tomate.",
     "Añade las espinacas troceadas en los últimos 3 minutos y remueve hasta que se reduzcan. Si queda muy espeso, aligera con un poco de agua caliente: debe caer de la cuchara.",
     "Para el tadka, derrite la mantequilla en una sartén pequeña a fuego medio, añade el comino en grano y deja que chisporrotee 20 segundos.",
-    "Agrega la cebolla en juliana fina, el ajo laminado y el chile y fríe 6–7 minutos hasta que la cebolla esté dorada. Añade el tomate picado y cocina 3 minutos más.",
+    "Agrega la cebolla, el ajo y el chile y fríe 6–7 minutos hasta que la cebolla esté dorada. Añade el tomate y cocina 3 minutos más.",
     "Vierte el tadka humeante sobre el khichdi justo antes de servir, sin mezclar del todo.",
     "Sirve en boles con una cucharada de yogur y cilantro picado."
   ],
@@ -709,8 +709,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el secreto en tiras de 2 cm y sálalo. Calienta el aceite en una paella de 30 cm a fuego fuerte y dóralo 4–5 minutos, hasta que esté bien tostado y haya soltado parte de su grasa. Retira la mitad para el final y deja el resto en la paella.",
-    "Añade las setas troceadas y saltea 4 minutos hasta que pierdan el agua y se doren. Incorpora los ajos tiernos en trozos de 3 cm y el pimiento en tiras y rehoga 3 minutos.",
+    "Trocea las setas, corta los ajos tiernos en trozos de 3 cm y el pimiento en tiras. Corta el secreto en tiras de 2 cm y sálalo. Calienta el aceite en una paella de 30 cm a fuego fuerte y dóralo 4–5 minutos, hasta que esté bien tostado y haya soltado parte de su grasa. Retira la mitad para el final y deja el resto en la paella.",
+    "Añade las setas y saltea 4 minutos hasta que pierdan el agua y se doren. Incorpora los ajos tiernos y el pimiento y rehoga 3 minutos.",
     "Agrega el tomate rallado y sofríe 5 minutos, hasta que se oscurezca. Aparta del fuego, añade el pimentón y remueve 10 segundos.",
     "Vuelve al fuego, añade el arroz y nacáralo 1 minuto. Vierte el caldo caliente, reparte el arroz de forma homogénea y ajusta de sal. Coloca la rama de romero encima.",
     "Cocina 8 minutos a fuego fuerte y 9 minutos a fuego medio-bajo sin remover. A los 10 minutos retira el romero para que no amargue.",
@@ -758,11 +758,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo en agua templada 20 minutos.",
     "Precalienta el horno a 220 °C. Corta la berenjena en rodajas de 1 cm y la coliflor en ramilletes, úntalas con 1 cucharada de aceite y sal y ásalas en una bandeja 20 minutos, dándoles la vuelta a mitad, hasta que estén doradas.",
-    "Mientras, corta el pollo en trozos grandes y mézclalo con todas las especias y sal. Dóralo en una cazuela de unos 20 cm con el resto del aceite a fuego medio-alto 5 minutos. Añade la cebolla en juliana y el ajo y rehoga 5 minutos más.",
+    "Mientras, corta el pollo en trozos grandes y mézclalo con todas las especias y sal. Dóralo en una cazuela de unos 20 cm con el resto del aceite a fuego medio-alto 5 minutos. Añade la cebolla en juliana y el ajo y rehoga 5 minutos más. Pon a calentar el caldo.",
     "Saca el pollo y la cebolla a un plato. Cubre el fondo de la cazuela con rodajas de tomate; encima coloca en capas el pollo con la cebolla, la berenjena y la coliflor, apretando un poco.",
     "Escurre el arroz y extiéndelo por encima nivelándolo. Vierte el caldo caliente con cuidado por un lateral hasta que lo cubra 1 cm; ajusta de sal.",
-    "Lleva a ebullición, tapa y cocina a fuego mínimo 25 minutos, hasta que el arroz esté tierno y sin caldo. Apaga y deja reposar tapada 10 minutos.",
-    "Tuesta las almendras en una sartén seca 3 minutos. Coloca una fuente grande sobre la cazuela y dale la vuelta de un golpe firme; espera 1 minuto y levanta la cazuela. Sirve con las almendras por encima y el yogur aparte."
+    "Lleva a ebullición, tapa y cocina a fuego mínimo 25 minutos, hasta que el arroz esté tierno y sin caldo. Apaga y deja reposar tapada 10 minutos. Mientras, tuesta las almendras en una sartén seca 3 minutos.",
+    "Coloca una fuente grande sobre la cazuela y dale la vuelta de un golpe firme; espera 1 minuto y levanta la cazuela. Sirve con las almendras por encima y el yogur aparte."
   ],
   nutricion: { kcal: 800, prot: 43, hc: 77, grasa: 35 },
   etiquetas: ["para invitados", "de fin de semana", "al horno", "sin gluten"],
@@ -802,9 +802,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30–35 minutos, hasta que esté tierno pero con el grano entero. Escúrrelo y extiéndelo para que se seque.",
     "Mientras, corta el tempeh en dados de 1,5 cm y cuécelo al vapor o en agua hirviendo 8 minutos: le quita el amargor y lo prepara para absorber la salsa. Escurre y seca.",
-    "Prepara la teriyaki: mezcla la salsa de soja, la miel, el vinagre, el jengibre y el ajo rallados, la maicena y 4 cucharadas de agua.",
+    "Prepara la teriyaki: mezcla la salsa de soja, la miel, el vinagre, el jengibre y el ajo rallados, la maicena y 4 cucharadas de agua. Corta la zanahoria en tiras finas y trocea el kale.",
     "Calienta 1 cucharadita de aceite de sésamo en el wok a fuego medio-alto y dora el tempeh 5 minutos, girándolo, hasta que esté crujiente por todas las caras. Vierte la mitad de la teriyaki y remueve 1 minuto hasta que se espese y glasee. Retira.",
-    "Añade el resto del aceite, la zanahoria en tiras finas y el kale troceado, y saltea 3 minutos hasta que el kale esté brillante y algo tierno.",
+    "Añade el resto del aceite, la zanahoria y el kale, y saltea 3 minutos hasta que el kale esté brillante y algo tierno.",
     "Incorpora el arroz y el resto de la salsa y saltea 2 minutos hasta que el arroz esté caliente y bien impregnado.",
     "Sirve con el tempeh glaseado encima, el sésamo tostado y la cebolleta picada."
   ],
@@ -848,7 +848,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el arroz con 200 ml de agua y una pizca de sal, tapado a fuego mínimo 12 minutos. Extiéndelo en una bandeja para que se enfríe y se seque (lo ideal es usar arroz del día anterior).",
     "Prepara el pico de gallo: pica los tomates sin semillas, la cebolla morada y el chile muy finos, mézclalos con la mitad del cilantro picado, el zumo de media lima y sal. Reserva en la nevera.",
-    "Pica la cebolla y el pimiento y sofríelos en una sartén amplia con 1 cucharada de aceite a fuego medio 7–8 minutos, hasta que estén tiernos. Añade el ajo picado y el comino y rehoga 1 minuto.",
+    "Pica la cebolla, el pimiento y el ajo. Sofríe la cebolla y el pimiento en una sartén amplia con 1 cucharada de aceite a fuego medio 7–8 minutos, hasta que estén tiernos. Añade el ajo y el comino y rehoga 1 minuto.",
     "Agrega las alubias con 4 cucharadas de su líquido y la salsa worcestershire, y cocina 3 minutos aplastando unas pocas con la cuchara: el caldo oscuro es lo que tiñe el arroz.",
     "Incorpora el arroz frío y saltea 4–5 minutos a fuego medio, mezclando hasta que todo esté caliente, uniforme y ligeramente tostado. Añade el resto del cilantro y ajusta de sal.",
     "Fríe los huevos en otra sartén con un poco de aceite bien caliente, hasta que la clara esté crujiente en los bordes y la yema líquida.",
@@ -872,7 +872,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "sartén", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "cebada perlada", q: 120, u: "g" },
@@ -889,13 +889,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la cebada en un colador. Tritura la mitad de la remolacha con un cazo del caldo hasta obtener un puré fino; corta la otra mitad en dados pequeños.",
+    "Calienta el caldo en un cazo. Lava la cebada en un colador. Tritura la mitad de la remolacha con un cazo del caldo hasta obtener un puré fino; corta la otra mitad en dados pequeños.",
     "Pica la cebolla y póchala en una cazuela con el aceite a fuego medio 6 minutos, hasta que esté blanda y transparente.",
     "Añade la cebada y las hojas de tomillo y tuesta 2 minutos removiendo.",
-    "Vierte la mitad del caldo caliente, lleva a ebullición y cocina a fuego suave 25 minutos, removiendo de vez en cuando y añadiendo más caldo cuando se vea seca.",
+    "Vierte la mitad del caldo caliente, lleva a ebullición y cocina a fuego suave 25 minutos, removiendo de vez en cuando y añadiendo más caldo cuando se vea seca. Mientras, trocea las nueces y tuéstalas en una sartén seca 2–3 minutos.",
     "Incorpora el puré de remolacha y sigue cocinando 15–20 minutos más, añadiendo caldo poco a poco, hasta que la cebada esté tierna pero con un punto de mordida y la salsa sea cremosa y fluida.",
     "Añade los dados de remolacha y el vinagre balsámico, salpimienta y cocina 2 minutos más.",
-    "Sirve en platos hondos con el queso de cabra desmigado, las nueces troceadas y tostadas, y un puñado de rúcula por encima."
+    "Sirve en platos hondos con el queso de cabra desmigado, las nueces tostadas y un puñado de rúcula por encima."
   ],
   nutricion: { kcal: 440, prot: 15, hc: 60, grasa: 14 },
   etiquetas: ["ligera", "alta en fibra", "otoño", "batch cooking", "económica", "poco especiada"],
@@ -940,8 +940,8 @@ window.RECETAS_SEED.push({
     "Pica muy fina la cebolla, la zanahoria y el apio. Póchalos en una cazuela con el aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y dorados.",
     "Sube el fuego, añade las dos carnes y cocina 6–8 minutos desmenuzándolas, hasta que pierdan el agua y empiecen a dorarse. Salpimienta.",
     "Vierte el vino y deja que se evapore 3 minutos. Añade el tomate triturado, el laurel y 150 ml de agua. Tapa dejando una rendija y cocina a fuego mínimo 1 h 30 min, removiendo de vez en cuando y añadiendo un chorro de agua si se seca. Debe quedar un ragú espeso y oscuro.",
-    "Para la bechamel, funde la mantequilla, añade la harina y cocina 1 minuto. Incorpora la leche caliente poco a poco con varillas y cocina 6 minutos, hasta que espese. Sazona con sal y nuez moscada.",
-    "Precalienta el horno a 190 °C. Hidrata las placas en agua caliente si el fabricante lo indica.",
+    "Cuando falten 15 minutos para el ragú, precalienta el horno a 190 °C y calienta la leche. Para la bechamel, funde la mantequilla, añade la harina y cocina 1 minuto. Incorpora la leche caliente poco a poco con varillas y cocina 6 minutos, hasta que espese. Sazona con sal y nuez moscada.",
+    "Hidrata las placas en agua caliente si el fabricante lo indica.",
     "Monta en una fuente de unos 20 × 15 cm: una capa fina de bechamel, placas, ragú, un poco de bechamel y parmesano, y repite hasta acabar con placas cubiertas de bechamel y el resto del parmesano.",
     "Hornea 30–35 minutos, hasta que la superficie esté dorada y burbujeante. Deja reposar 10 minutos antes de cortar para que las capas se asienten."
   ],
@@ -983,8 +983,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el rabo y pásalo ligeramente por la harina. Dóralo en una cazuela con el aceite a fuego fuerte 8–10 minutos, por todas las caras, hasta que tenga una costra marrón oscura. Retira.",
-    "En la misma grasa, rehoga la cebolla, la zanahoria, el puerro y el ajo picados 10 minutos a fuego medio, hasta que estén dorados. Añade el tomate concentrado y remueve 1 minuto.",
+    "Pica la cebolla, la zanahoria, el puerro y el ajo. Salpimienta el rabo y pásalo ligeramente por la harina. Dóralo en una cazuela con el aceite a fuego fuerte 8–10 minutos, por todas las caras, hasta que tenga una costra marrón oscura. Retira.",
+    "En la misma grasa, rehoga la cebolla, la zanahoria, el puerro y el ajo 10 minutos a fuego medio, hasta que estén dorados. Añade el tomate concentrado y remueve 1 minuto.",
     "Vierte el vino, rasca el fondo para despegar lo tostado y deja reducir a la mitad, 4 minutos. Devuelve el rabo, añade el laurel, el tomillo y 800 ml del caldo. Tapa y cocina a fuego mínimo 2 h 15 min, hasta que la carne se separe del hueso sin esfuerzo.",
     "Saca el rabo, deja templar y deshilacha la carne descartando huesos y grasa. Cuela el caldo de la cocción apretando las verduras y desgrásalo retirando con un cazo la capa de grasa de la superficie.",
     "Mide el caldo y completa con caldo de carne hasta tener unos 650 ml. Ponlo a calentar en la cazuela limpia.",
@@ -1033,9 +1033,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla y el ajo y sofríelos en una cazuela con el aceite a fuego medio 6 minutos. Sube el fuego, añade el cordero y dóralo 6 minutos desmenuzándolo.",
     "Agrega la canela, la pimienta de Jamaica y el orégano, remueve 30 segundos y vierte el vino. Deja evaporar 2 minutos, añade el tomate y 100 ml de agua, salpimienta y cocina tapado a fuego suave 40 minutos, hasta que el ragú esté espeso.",
-    "Cuece los macarrones 3 minutos menos de lo indicado, escúrrelos y mézclalos con una cucharada del queso.",
-    "Prepara la bechamel: funde la mantequilla, tuesta la harina 1 minuto, añade la leche caliente poco a poco con varillas y cocina 6–8 minutos, hasta que quede bastante espesa. Fuera del fuego, añade la mitad del queso restante, sal y, cuando haya templado 2 minutos, el huevo batido, removiendo deprisa.",
-    "Precalienta el horno a 180 °C. En una fuente de unos 20 × 15 cm, coloca la mitad de los macarrones bien alineados, cubre con todo el ragú y después con el resto de la pasta.",
+    "Mientras se hace el ragú, precalienta el horno a 180 °C y cuece los macarrones en agua hirviendo con sal 3 minutos menos de lo indicado; escúrrelos y mézclalos con una cucharada del queso.",
+    "Prepara la bechamel: calienta la leche, funde la mantequilla en otro cazo, tuesta la harina 1 minuto, añade la leche caliente poco a poco con varillas y cocina 6–8 minutos, hasta que quede bastante espesa. Fuera del fuego, añade la mitad del queso restante, sal y, cuando haya templado 2 minutos, el huevo batido, removiendo deprisa.",
+    "En una fuente de unos 20 × 15 cm, coloca la mitad de los macarrones bien alineados, cubre con todo el ragú y después con el resto de la pasta.",
     "Extiende la bechamel por encima hasta los bordes, espolvorea el resto del queso y hornea 40 minutos, hasta que la superficie esté dorada e hinchada.",
     "Deja reposar 15 minutos fuera del horno antes de cortar: así sale en porciones limpias con sus tres capas."
   ],

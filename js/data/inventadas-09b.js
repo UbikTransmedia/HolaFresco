@@ -36,12 +36,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Empieza por el ragú. Seca y salpimienta la ternera. Dórala en una cazuela con 1 cucharada de aceite a fuego fuerte en 2 tandas, 4-5 minutos por tanda, hasta que esté bien tostada. Resérvala.",
-    "Baja el fuego, añade el resto del aceite y la cebolla, la zanahoria y el apio picados finos. Pocha 10 minutos; agrega el ajo picado y el tomate concentrado y cocina 1 minuto más.",
+    "Empieza por el ragú. Pica finos la cebolla, la zanahoria, el apio y el ajo. Seca y salpimienta la ternera. Dórala en una cazuela con 1 cucharada de aceite a fuego fuerte en 2 tandas, 4-5 minutos por tanda, hasta que esté bien tostada. Resérvala.",
+    "Baja el fuego, añade el resto del aceite y la cebolla, la zanahoria y el apio. Pocha 10 minutos; agrega el ajo y el tomate concentrado y cocina 1 minuto más.",
     "Devuelve la carne, vierte el vino y deja reducir a la mitad. Añade el tomate triturado, el caldo, el laurel y el romero. Tapa a medias y cuece a fuego mínimo 2 horas, removiendo cada 30 minutos, hasta que la carne se deshaga con un tenedor. Desmenúzala dentro de la salsa y rectifica de sal.",
     "Mientras el ragú se hace, prepara la pasta: forma un volcán con la harina, casca los huevos en el centro y bátelos con un tenedor incorporando la harina poco a poco. Amasa 8-10 minutos hasta que la masa esté lisa y elástica. Envuélvela en film y deja reposar 30 minutos.",
-    "Divide la masa en 2, enharina la mesa y estira cada parte con rodillo hasta que casi se vea la mano a través (1 mm). Enharina la lámina, enróllala sin apretar y córtala en tiras de 2-3 cm. Desenrolla las pappardelle y deja que se sequen 10 minutos sobre un paño enharinado.",
-    "Cuece las pappardelle en abundante agua hirviendo con sal 2-3 minutos: suben a la superficie cuando están listas. Reserva un vaso del agua de cocción.",
+    "Divide la masa en 2, enharina la mesa y estira cada parte con rodillo hasta que casi se vea la mano a través (1 mm). Enharina la lámina, enróllala sin apretar y córtala en tiras de 2-3 cm. Desenrolla las pappardelle y deja que se sequen 10 minutos sobre un paño enharinado mientras pones a hervir abundante agua con sal.",
+    "Cuece las pappardelle en el agua hirviendo 2-3 minutos: suben a la superficie cuando están listas. Reserva un vaso del agua de cocción.",
     "Mezcla la pasta escurrida con el ragú en la cazuela a fuego suave 1 minuto, con un chorrito de agua de cocción para que la salsa se abrace a las cintas. Sirve con el parmesano y pimienta recién molida."
   ],
   nutricion: { kcal: 960, prot: 66, hc: 91, grasa: 37 },
@@ -81,9 +81,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las alcachofas quitando las hojas exteriores duras, corta la punta, pela el tallo y pártelas en cuartos. Mételas en agua con el zumo de medio limón. Calienta el caldo con la rama de romero.",
+    "Limpia las alcachofas quitando las hojas exteriores duras, corta la punta, pela el tallo y pártelas en cuartos. Mételas en agua con el zumo de medio limón. Calienta el caldo con la rama de romero y pica el ajo.",
     "Calienta el aceite en una paella o sartén amplia de 28-30 cm a fuego medio-alto. Sofríe el pimiento en tiras 4 minutos, luego añade las alcachofas escurridas y las judías verdes y saltéalas 6-8 minutos hasta que tomen color. Aparta las verduras a los bordes.",
-    "En el centro, sofríe el ajo picado 30 segundos, añade el tomate rallado y cocina 3-4 minutos hasta que espese y oscurezca. Añade el pimentón y la cúrcuma, remueve 20 segundos sin que se quemen.",
+    "En el centro, sofríe el ajo 30 segundos, añade el tomate rallado y cocina 3-4 minutos hasta que espese y oscurezca. Añade el pimentón y la cúrcuma, remueve 20 segundos sin que se quemen.",
     "Echa el arroz y los garbanzos, remueve 1 minuto para que el grano se impregne y repártelo en una capa uniforme con las verduras.",
     "Vierte el caldo caliente (retira el romero), rectifica de sal y cuece a fuego fuerte 8 minutos y a fuego medio-bajo 9-10 minutos más, sin remover. Sube el fuego el último minuto para el socarrat.",
     "Apaga, cubre con un paño y deja reposar 5 minutos. Sirve con gajos de limón."
@@ -127,9 +127,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Haz el fumet: en una cazuela con 1 cucharada de aceite dora las espinas y cabezas 3 minutos, añade la cebolla troceada, el tomate troceado, 1 ñora sin pepitas y el laurel. Cubre con el agua, lleva a ebullición, espuma y cuece 30 minutos a fuego suave. Cuela y mide: necesitas unos 500 ml.",
-    "Mientras, prepara el alioli mezclando la mayonesa con 1 ajo rallado y unas gotas de limón. Remoja la otra ñora en agua caliente 15 minutos y raspa su carne con un cuchillo.",
+    "Mientras, prepara el alioli mezclando la mayonesa con 1 ajo rallado y unas gotas de limón. Remoja la otra ñora en agua caliente 15 minutos y raspa su carne con un cuchillo. Pica los 4 ajos y ralla el otro tomate.",
     "Infusiona el azafrán en el fumet caliente. Salpimienta el rape.",
-    "En una paella o sartén amplia, calienta el resto del aceite a fuego medio y sofríe los 4 ajos picados 1 minuto. Añade el tomate rallado y la carne de la ñora y cocina 4-5 minutos hasta que oscurezca. Agrega el pimentón, remueve 20 segundos.",
+    "En una paella o sartén amplia, calienta el resto del aceite a fuego medio y sofríe los 4 ajos 1 minuto. Añade el tomate rallado y la carne de la ñora y cocina 4-5 minutos hasta que oscurezca. Agrega el pimentón, remueve 20 segundos.",
     "Echa el arroz, remueve 1 minuto, vierte 500 ml de fumet caliente, rectifica de sal y cuece a fuego fuerte 8 minutos sin remover.",
     "Reparte los medallones de rape sobre el arroz, baja a fuego medio-bajo y cuece 9-10 minutos más hasta que el caldo se absorba y el rape esté blanco y firme.",
     "Apaga, cubre con un paño y deja reposar 5 minutos. Sirve con el alioli y gajos de limón."
@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir una cazuela grande con agua y sal. Tuesta el pan rallado en una sartén seca a fuego medio 3-4 minutos, removiendo, hasta que esté dorado; mézclalo con la ralladura de limón y resérvalo en un plato.",
+    "Pon a hervir una cazuela grande con agua y sal. Tuesta el pan rallado en una sartén seca a fuego medio 3-4 minutos, removiendo, hasta que esté dorado; mézclalo con la ralladura de limón y resérvalo en un plato. Lamina el ajo.",
     "Cuece las orecchiette según el paquete. A falta de 4 minutos, añade el brócoli (ramilletes y tallo) a la misma agua. Reserva un vaso del agua de cocción antes de escurrir.",
     "Mientras, calienta el aceite en la sartén a fuego medio-bajo con el ajo en láminas y la guindilla desmenuzada. Cuando el ajo empiece a tomar color, añade las anchoas y aplástalas con la cuchara 1 minuto hasta que se deshagan en el aceite.",
     "Vierte la pasta con el brócoli en la sartén, sube el fuego y saltea 2 minutos aplastando un poco el brócoli para que se mezcle con la salsa. Añade agua de cocción a chorritos hasta que quede jugoso.",
@@ -216,11 +216,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Mezcla los dados de berenjena con 1 cucharada de aceite, sal y la mitad del pimentón y ásalos en una bandeja 20-25 minutos, hasta que estén dorados y blandos por dentro.",
-    "Mientras, pocha la cebolla picada con el resto del aceite en una cazuela a fuego medio 6 minutos. Añade el ajo picado, el comino, el resto del pimentón y la canela y remueve 1 minuto.",
+    "Mientras, pica la cebolla y el ajo y pocha la cebolla con el resto del aceite en una cazuela a fuego medio 6 minutos. Añade el ajo, el comino, el resto del pimentón y la canela y remueve 1 minuto.",
     "Agrega el tomate en dados y los garbanzos escurridos, cocina 2 minutos, incorpora el bulgur y remueve para que se impregne.",
     "Vierte el caldo caliente, salpimienta, lleva a ebullición, tapa y cuece a fuego mínimo 12 minutos. Apaga y deja reposar tapado 5 minutos.",
-    "Prepara la salsa: bate el yogur con el tahini, el zumo de medio limón, 1-2 cucharadas de agua y una pizca de sal hasta que quede fluida.",
-    "Suelta el bulgur con un tenedor, mezcla con la berenjena asada y el perejil picado. Sirve con la salsa de yogur por encima y gajos de limón."
+    "Mientras el bulgur se cuece, prepara la salsa: bate el yogur con el tahini, el zumo de medio limón, 1-2 cucharadas de agua y una pizca de sal hasta que quede fluida. Pica el perejil.",
+    "Suelta el bulgur con un tenedor, mezcla con la berenjena asada y el perejil. Sirve con la salsa de yogur por encima y gajos de limón."
   ],
   nutricion: { kcal: 600, prot: 23, hc: 82, grasa: 21 },
   etiquetas: ["vegetariana", "al horno", "ideal para llevar", "económica", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -300,12 +300,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las pasas en remojo en agua templada. Tuesta los piñones en una sartén seca 2 minutos y resérvalos; en la misma sartén tuesta el pan rallado 3 minutos hasta que dore y resérvalo aparte.",
-    "Pon a hervir agua con sal y cuece los espaguetis integrales según el paquete (suelen necesitar 10-11 minutos). Reserva un vaso del agua de cocción.",
-    "Calienta el aceite en la sartén a fuego medio y pocha la cebolla y el hinojo en láminas con una pizca de sal 10 minutos, hasta que estén muy tiernos y empiecen a dorarse. Añade el ajo picado y la guindilla el último minuto.",
+    "Pon a hervir agua con sal. Pon las pasas en remojo en agua templada y pica la cebolla, el ajo y el perejil. Tuesta los piñones en una sartén seca 2 minutos y resérvalos; en la misma sartén tuesta el pan rallado 3 minutos hasta que dore y resérvalo aparte.",
+    "Cuando hierva el agua, cuece los espaguetis integrales según el paquete (suelen necesitar 10-11 minutos). Reserva un vaso del agua de cocción.",
+    "Calienta el aceite en la sartén a fuego medio y pocha la cebolla y el hinojo en láminas con una pizca de sal 10 minutos, hasta que estén muy tiernos y empiecen a dorarse. Añade el ajo y la guindilla el último minuto.",
     "Incorpora las sardinas desmenuzadas en trozos grandes, las pasas escurridas y los piñones. Calienta 2 minutos con suavidad para no deshacer el pescado.",
     "Añade los espaguetis escurridos con medio vaso de agua de cocción, la ralladura del limón y 1 cucharada de su zumo. Saltea 1 minuto a fuego vivo hasta que la salsa envuelva la pasta. Pimienta y, si hace falta, sal.",
-    "Sirve con el pan rallado tostado, el perejil picado y las hojas del hinojo por encima."
+    "Sirve con el pan rallado tostado, el perejil y las hojas del hinojo por encima."
   ],
   nutricion: { kcal: 630, prot: 29, hc: 75, grasa: 24 },
   etiquetas: ["económica", "omega-3", "rápida", "despensa", "superalimentos", "bajo en colesterol"],
@@ -390,9 +390,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una cazuela grande con agua y sal. Cuece el boniato en ella 10 minutos hasta que esté blando; sácalo con una espumadera al vaso de la batidora. En la misma agua cuece los macarrones 2 minutos menos de lo que indique el paquete y escurre.",
-    "Mientras, mezcla el pollo con 1 cucharadita de pimentón ahumado, sal y pimienta. Dóralo en una sartén con el aceite a fuego fuerte 5-6 minutos hasta que esté hecho. Añade el ajo picado y las espinacas y saltea 2 minutos hasta que se bajen.",
+    "Mientras, precalienta el grill del horno a 220 °C y mezcla el pollo con 1 cucharadita de pimentón ahumado, sal y pimienta. Dóralo en una sartén con el aceite a fuego fuerte 5-6 minutos hasta que esté hecho. Añade el ajo picado y las espinacas y saltea 2 minutos hasta que se bajen.",
     "Tritura el boniato con la leche caliente, la mostaza, el resto del pimentón, sal y pimienta hasta obtener un puré fino. Pásalo a la cazuela a fuego bajo e incorpora 60 g del queso removiendo hasta que se funda: es la salsa.",
-    "Precalienta el grill del horno a 220 °C. Mezcla los macarrones con la salsa, el pollo y las espinacas. Pasa a una fuente de horno.",
+    "Mezcla los macarrones con la salsa, el pollo y las espinacas. Pasa a una fuente de horno.",
     "Mezcla el pan rallado con el resto del queso y la mantequilla fundida y repártelo por encima. Gratina 6-8 minutos hasta que la costra esté dorada y burbujee.",
     "Deja reposar 3 minutos y sirve."
   ],
@@ -519,12 +519,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir una cazuela grande con agua y sal y cuece los espaguetis el tiempo del paquete menos 1 minuto. Reserva un vaso del agua de cocción antes de escurrir.",
+    "Pon a hervir una cazuela grande con agua y sal. Mientras se calienta, lamina el ajo, parte los cherry por la mitad y pica el perejil. Cuando hierva, cuece los espaguetis el tiempo del paquete menos 1 minuto. Reserva un vaso del agua de cocción antes de escurrir.",
     "Mientras, calienta el aceite en una sartén amplia a fuego medio-bajo con el ajo en láminas y la guindilla desmenuzada 2 minutos, hasta que el ajo empiece a dorarse sin quemarse.",
-    "Añade los cherry partidos por la mitad y las alcaparras escurridas, sube a fuego medio y saltea 3 minutos hasta que los tomates se arruguen.",
+    "Añade los cherry y las alcaparras escurridas, sube a fuego medio y saltea 3 minutos hasta que los tomates se arruguen.",
     "Incorpora el atún desmenuzado en trozos grandes y la ralladura del limón y calienta 1 minuto, sin remover demasiado.",
     "Añade los espaguetis escurridos con medio vaso de agua de cocción y el zumo de medio limón. Saltea 1 minuto a fuego vivo hasta que la salsa quede ligada y brillante. Pimienta y rectifica de sal.",
-    "Fuera del fuego, mezcla con la rúcula y el perejil picado: el calor de la pasta los ablanda justo lo necesario. Sirve enseguida."
+    "Fuera del fuego, mezcla con la rúcula y el perejil: el calor de la pasta los ablanda justo lo necesario. Sirve enseguida."
   ],
   nutricion: { kcal: 500, prot: 26, hc: 61, grasa: 18 },
   etiquetas: ["rápida", "económica", "despensa", "una sola sartén", "bajo en colesterol"],
@@ -567,10 +567,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz el ragú: pocha la cebolla y la zanahoria picadas finas con el aceite a fuego medio 8 minutos. Sube el fuego, añade la ternera picada y dórala 5-6 minutos deshaciendo los grumos. Agrega el ajo picado 1 minuto.",
+    "Haz el ragú: pica finas la cebolla, la zanahoria y el ajo y pocha la cebolla y la zanahoria con el aceite a fuego medio 8 minutos. Sube el fuego, añade la ternera picada y dórala 5-6 minutos deshaciendo los grumos. Agrega el ajo 1 minuto.",
     "Moja con el vino, deja evaporar, añade el tomate, el orégano, el laurel, sal y pimienta. Cocina a fuego suave 20 minutos hasta que espese. Añade las espinacas en tandas los últimos 3 minutos hasta que se bajen. Retira el laurel.",
-    "Mientras, lleva a ebullición el caldo con la leche en una cazuela, salpimienta y vierte la polenta en lluvia batiendo. Cuece a fuego mínimo removiendo a menudo 8-10 minutos (instantánea) o 35 (tradicional), hasta que espese y se despegue de las paredes. Fuera del fuego añade la nuez moscada y la mitad del parmesano.",
-    "Precalienta el horno a 200 °C. Engrasa una fuente de horno de unos 20 x 15 cm. Extiende la mitad de la polenta, cubre con el ragú y termina con el resto de la polenta alisando con una espátula mojada.",
+    "Mientras, precalienta el horno a 200 °C y lleva a ebullición el caldo con la leche en una cazuela, salpimienta y vierte la polenta en lluvia batiendo. Cuece a fuego mínimo removiendo a menudo 8-10 minutos (instantánea) o 35 (tradicional), hasta que espese y se despegue de las paredes. Fuera del fuego añade la nuez moscada y la mitad del parmesano.",
+    "Engrasa una fuente de horno de unos 20 x 15 cm. Extiende la mitad de la polenta, cubre con el ragú y termina con el resto de la polenta alisando con una espátula mojada.",
     "Reparte la mozzarella y el resto del parmesano por encima y hornea 20-25 minutos hasta que la superficie esté dorada y los bordes burbujeen.",
     "Deja reposar 10 minutos antes de cortar en porciones: la polenta cuaja al enfriar un poco y las capas se sostienen."
   ],
@@ -657,7 +657,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta el mijo en una cazuela seca a fuego medio 2-3 minutos, removiendo, hasta que huela a frutos secos. Añade el agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos. Apaga y deja reposar tapado 5 minutos; suéltalo con un tenedor.",
-    "Mientras, pocha la cebolla picada con el aceite en otra cazuela a fuego medio 6 minutos. Añade el ajo y el jengibre rallados, el curry, la cúrcuma y el comino y remueve 1 minuto para que las especias se tuesten.",
+    "Mientras, pica la cebolla, ralla el ajo y el jengibre y pocha la cebolla con el aceite en otra cazuela a fuego medio 6 minutos. Añade el ajo y el jengibre, el curry, la cúrcuma y el comino y remueve 1 minuto para que las especias se tuesten.",
     "Agrega el tomate triturado y cocina 5 minutos hasta que espese y oscurezca. Incorpora los garbanzos escurridos y la leche de coco y cuece 8 minutos a fuego suave, aplastando unos cuantos garbanzos con la cuchara para que la salsa ligue.",
     "Añade las espinacas en tandas y deja que se bajen 2-3 minutos. Termina con el garam masala, el zumo de media lima y sal al gusto.",
     "Sirve el mijo en la base y el curry encima, con cilantro picado y gajos de lima."
@@ -705,9 +705,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el pimentón, el tomillo, el orégano, la cayena, sal y pimienta. Reboza el pollo con la mitad de esta mezcla de especias.",
+    "Corta la cebolla, el pimiento verde y el apio en dados pequeños y pica el ajo. Mezcla el pimentón, el tomillo, el orégano, la cayena, sal y pimienta. Reboza el pollo con la mitad de esta mezcla de especias.",
     "Calienta el aceite en una cazuela ancha a fuego medio-alto y dora el chorizo 2-3 minutos hasta que suelte su grasa roja. Sácalo a un plato. Dora el pollo en esa grasa 5-6 minutos y resérvalo con el chorizo.",
-    "Baja a fuego medio y sofríe la cebolla, el pimiento verde y el apio picados en dados pequeños 8 minutos, hasta que estén blandos. Añade el ajo picado y el resto de las especias y remueve 1 minuto.",
+    "Baja a fuego medio y sofríe la cebolla, el pimiento verde y el apio 8 minutos, hasta que estén blandos. Añade el ajo y el resto de las especias y remueve 1 minuto.",
     "Agrega el tomate triturado y cocina 3 minutos. Echa el arroz y remueve 1 minuto para que se impregne.",
     "Devuelve el pollo y el chorizo, añade el caldo caliente y el laurel, rectifica de sal y lleva a ebullición. Tapa y cuece a fuego mínimo 15 minutos sin remover.",
     "Reparte las gambas por encima, tapa de nuevo y cuece 4-5 minutos más hasta que estén rosadas y el líquido se haya absorbido. Apaga y deja reposar tapado 5 minutos.",
@@ -752,10 +752,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz un risotto sencillo: pocha la cebolla picada muy fina con media cucharada de aceite 4 minutos, añade el arroz, nacáralo 1 minuto y ve añadiendo el caldo caliente cazo a cazo removiendo 16-17 minutos. A los 12 minutos incorpora los guisantes. Debe quedar más seco de lo normal. Fuera del fuego, añade el parmesano, sal y pimienta.",
+    "Haz un risotto sencillo: calienta el caldo en un cazo y mantenlo a fuego mínimo. Pica la cebolla muy fina y póchala con media cucharada de aceite 4 minutos, añade el arroz, nacáralo 1 minuto y ve añadiendo el caldo caliente cazo a cazo removiendo 16-17 minutos. A los 12 minutos incorpora los guisantes. Debe quedar más seco de lo normal. Fuera del fuego, añade el parmesano, sal y pimienta.",
     "Extiende el risotto en una bandeja y deja que se enfríe del todo (20 minutos; en la nevera, 10). Frío es cuando se puede moldear.",
-    "Mientras enfría, haz la salsa: calienta media cucharada de aceite con el ajo laminado a fuego bajo 2 minutos, añade el tomate triturado, sal y pimienta y cocina 15 minutos a fuego suave. Al final, albahaca troceada.",
-    "Precalienta el horno a 220 °C. Con las manos húmedas, forma 6 bolas con el arroz frío; hunde un dado de mozzarella en el centro de cada una y ciérralas bien.",
+    "Mientras enfría, precalienta el horno a 220 °C y haz la salsa: calienta media cucharada de aceite con el ajo laminado a fuego bajo 2 minutos, añade el tomate triturado, sal y pimienta y cocina 15 minutos a fuego suave. Al final, albahaca troceada.",
+    "Con las manos húmedas, forma 6 bolas con el arroz frío; hunde un dado de mozzarella en el centro de cada una y ciérralas bien.",
     "Pasa cada bola por el huevo batido y luego por el pan rallado. Colócalas en una bandeja con papel de horno y riégalas con el resto del aceite.",
     "Hornea 20-25 minutos, girándolas a mitad, hasta que estén doradas y crujientes por fuera y el queso se haya fundido.",
     "Sirve 3 arancini por persona sobre la salsa de tomate caliente, con la rúcula aliñada con unas gotas de limón y pimienta."
@@ -850,9 +850,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Tritura el cilantro con las espinacas y 100 ml del caldo hasta obtener un licuado verde intenso. Reserva. Salpimienta el pollo.",
+    "Tritura el cilantro con las espinacas y 100 ml del caldo hasta obtener un licuado verde intenso. Reserva. Pica la cebolla y el ajo y salpimienta el pollo.",
     "Calienta 1 cucharada de aceite en una cazuela ancha a fuego medio-alto y dora el pollo 4 minutos por lado hasta que la piel exterior esté tostada. Resérvalo.",
-    "Baja a fuego medio, añade el resto del aceite y pocha la cebolla picada 6 minutos. Agrega el ajo picado, el pimiento, la zanahoria, el ají amarillo si lo usas y el comino y sofríe 3 minutos.",
+    "Baja a fuego medio, añade el resto del aceite y pocha la cebolla 6 minutos. Agrega el ajo, el pimiento, la zanahoria, el ají amarillo si lo usas y el comino y sofríe 3 minutos.",
     "Vierte la cerveza y deja que reduzca 2 minutos. Añade el licuado verde y el resto del caldo, lleva a ebullición y rectifica de sal (debe estar algo salado).",
     "Echa el arroz y remueve una vez. Coloca el pollo encima, tapa y cuece a fuego mínimo 15 minutos. Añade los guisantes y el maíz por encima, tapa de nuevo y cuece 5 minutos más hasta que el arroz esté tierno y seco.",
     "Mientras, prepara la salsa criolla: cebolla morada en juliana muy fina con el zumo de la lima, sal y pimienta. Déjala 10 minutos.",
@@ -898,7 +898,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el bulgur fino en un bol con una pizca de sal, cúbrelo con el agua hirviendo, tapa con un plato y deja 10 minutos. Suéltalo con un tenedor y añade el zumo del medio limón.",
-    "Mientras, pocha la cebolla picada con el aceite en una sartén grande con tapa a fuego medio 5 minutos. Añade el ajo picado, el comino, el pimentón y la cayena y remueve 1 minuto.",
+    "Mientras, pica la cebolla y el ajo y pocha la cebolla con el aceite en una sartén grande con tapa a fuego medio 5 minutos. Añade el ajo, el comino, el pimentón y la cayena y remueve 1 minuto.",
     "Agrega el tomate en dados y cocina 3 minutos hasta que se ablande. Incorpora las espinacas en tandas y deja que se bajen 2-3 minutos. Salpimienta.",
     "Haz 3 huecos en las verduras con la cuchara, casca un huevo en cada uno, salpimienta, tapa y cuece a fuego medio-bajo 4-5 minutos hasta que la clara cuaje y la yema siga líquida.",
     "Sirve el bulgur en platos, encima las verduras con los huevos (uno y medio por persona), el feta desmenuzado, el eneldo picado y pimienta."
@@ -1035,8 +1035,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Machaca el azafrán con una pizca de sal en un mortero y disuélvelo en 3 cucharadas de agua caliente. Lava el arroz hasta que el agua salga clara y déjalo en remojo 30 minutos en agua con sal.",
-    "Mientras, salpimienta el pollo y mézclalo con la cúrcuma, la canela, el ajo rallado y la mitad del agua de azafrán. Pocha la cebolla picada con el aceite en una sartén a fuego medio 8 minutos; sube el fuego, añade el pollo y dóralo 8-10 minutos hasta que esté hecho. Añade los arándanos y resérvalo.",
-    "Escurre el arroz y cuécelo en abundante agua hirviendo con sal y las vainas de cardamomo abiertas 5-6 minutos: debe quedar tierno por fuera y duro en el centro. Escúrrelo y aclara con agua tibia.",
+    "Mientras, salpimienta el pollo y mézclalo con la cúrcuma, la canela, el ajo rallado y la mitad del agua de azafrán. Pon a hervir abundante agua con sal para el arroz. Pocha la cebolla picada con el aceite en una sartén a fuego medio 8 minutos; sube el fuego, añade el pollo y dóralo 8-10 minutos hasta que esté hecho. Añade los arándanos y resérvalo.",
+    "Escurre el arroz y cuécelo en el agua hirviendo con las vainas de cardamomo abiertas 5-6 minutos: debe quedar tierno por fuera y duro en el centro. Escúrrelo y aclara con agua tibia.",
     "Funde la mantequilla en una cazuela antiadherente de fondo grueso a fuego medio con 1 cucharada del agua de azafrán. Extiende una capa fina de arroz en el fondo y presiónala: será el tahdig, la costra crujiente.",
     "Añade el resto del arroz en forma de montaña alternando con el pollo y la cebolla, y riega con el agua de azafrán restante. Haz 4 agujeros con el mango de una cuchara hasta el fondo para que salga el vapor.",
     "Envuelve la tapa en un paño limpio, tapa bien y cuece 3 minutos a fuego medio-alto y después 35-40 minutos a fuego mínimo, sin destapar. Mezcla el yogur con el eneldo picado, el zumo de medio limón y sal.",
@@ -1080,8 +1080,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca y salpimienta las carrilladas. Dóralas en una cazuela con 1 cucharada de aceite a fuego fuerte 3-4 minutos por cada lado hasta que estén bien tostadas. Resérvalas.",
-    "Baja el fuego, añade 1 cebolla y la zanahoria picadas y pocha 8 minutos. Agrega 2 ajos picados y el tomate concentrado, remueve 1 minuto, vierte 150 ml de vino y deja reducir a la mitad.",
+    "Seca y salpimienta las carrilladas. Dóralas en una cazuela con 1 cucharada de aceite a fuego fuerte 3-4 minutos por cada lado hasta que estén bien tostadas. Resérvalas. Mientras se doran, pica 1 cebolla, la zanahoria y 2 ajos.",
+    "Baja el fuego, añade la cebolla y la zanahoria picadas y pocha 8 minutos. Agrega los 2 ajos y el tomate concentrado, remueve 1 minuto, vierte 150 ml de vino y deja reducir a la mitad.",
     "Devuelve las carrilladas, añade 400 ml de caldo, el laurel y el romero. Tapa y cuece a fuego mínimo 2 horas, dándoles la vuelta a mitad, hasta que se deshagan al presionar con una cuchara. Sácalas, cuela el jugo y redúcelo 5 minutos a fuego fuerte hasta que nape. Mantén la carne caliente dentro de esa salsa.",
     "Calienta el resto del caldo (500 ml) y mantenlo a fuego mínimo. En otra cazuela, pocha la otra cebolla picada muy fina con el resto del aceite 6 minutos. Añade el ajo restante picado y el arroz y nacáralo 2 minutos.",
     "Vierte los otros 150 ml de vino tinto y deja que se evaporen (el arroz tomará un color granate). Añade el caldo cazo a cazo removiendo, esperando a que se absorba, durante 17-18 minutos hasta que esté al dente y cremoso. Incorpora 3 cucharadas de la salsa de la carrillada en los últimos minutos.",
@@ -1127,9 +1127,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Mezcla la calabaza con el aceite y sal y ásala 30 minutos hasta que esté muy tierna y dorada en los bordes. Aplástala con un tenedor y déjala escurrir y enfriar en un colador 10 minutos: el relleno debe quedar seco.",
     "Mientras se asa, haz la masa: forma un volcán con la harina, casca los huevos en el centro y bátelos incorporando la harina poco a poco. Amasa 8-10 minutos hasta que esté lisa y elástica. Envuélvela en film y deja reposar 30 minutos.",
     "Mezcla la calabaza fría con la ricotta, la mitad del parmesano, la nuez moscada, sal y pimienta. Debe quedar un relleno espeso que se sostenga en la cuchara; si está húmedo, añade otra cucharada de parmesano.",
-    "Divide la masa en 2 y estira cada parte con rodillo sobre la mesa enharinada hasta que quede muy fina (1 mm, casi transparente), en láminas rectangulares.",
+    "Pon a hervir una cazuela grande con agua y sal. Mientras, divide la masa en 2 y estira cada parte con rodillo sobre la mesa enharinada hasta que quede muy fina (1 mm, casi transparente), en láminas rectangulares.",
     "Pon montoncitos de relleno (1 cucharadita colmada) en una lámina cada 5 cm, pinta alrededor con agua, cubre con la otra lámina y presiona con los dedos alrededor de cada montón sacando el aire. Corta los raviolis con un cuchillo o cortapastas y colócalos en una bandeja enharinada. Saldrán unos 24.",
-    "Pon a hervir agua con sal. En una sartén amplia, funde la mantequilla a fuego medio con las hojas de salvia hasta que la mantequilla huela a avellana y la salvia esté crujiente (3-4 minutos). Apaga.",
+    "En una sartén amplia, funde la mantequilla a fuego medio con las hojas de salvia hasta que la mantequilla huela a avellana y la salvia esté crujiente (3-4 minutos). Apaga.",
     "Cuece los raviolis 3-4 minutos en el agua hirviendo (flotan cuando están listos) y pásalos con una espumadera a la sartén con 2 cucharadas del agua de cocción. Saltea 30 segundos con suavidad.",
     "Sirve con las avellanas, el resto del parmesano, la ralladura de limón y pimienta."
   ],

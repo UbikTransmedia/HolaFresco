@@ -35,11 +35,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 180 ml de agua y una pizca de sal: tapado, a fuego mínimo 12 minutos y luego 5 minutos de reposo sin destapar.",
-    "Mientras, seca el tofu con papel de cocina apretando bien y córtalo en dados de 2 cm. Rebózalos con 1 cucharadita de maicena para que doren crujientes.",
+    "Mientras, seca el tofu con papel de cocina apretando bien y córtalo en dados de 2 cm. Rebózalos con 1 cucharadita de maicena para que doren crujientes. Pica el ajo y el jengibre, parte las guindillas, corta los pimientos en cuadrados y la cebolleta en rodajas, separando la parte blanca de la verde.",
     "Prepara la salsa en un vaso: salsa de soja, vinagre de arroz, azúcar moreno, la otra cucharadita de maicena y 4 cucharadas de agua. Remueve hasta que no queden grumos.",
     "Calienta el wok a fuego fuerte con el aceite y dora el tofu 5–6 minutos, moviéndolo solo cada minuto, hasta que tenga todas las caras doradas. Resérvalo.",
-    "En el mismo wok, saltea 30 segundos las guindillas partidas, el ajo y el jengibre picados sin que se quemen. Añade los pimientos en cuadrados y la parte blanca de la cebolleta y saltea 3 minutos: deben quedar tiernos pero crujientes.",
-    "Devuelve el tofu, vierte la salsa y remueve 1 minuto, hasta que espese y brille. Apaga, añade los cacahuetes, el aceite de sésamo y la parte verde de la cebolleta en rodajas.",
+    "En el mismo wok, saltea 30 segundos las guindillas, el ajo y el jengibre sin que se quemen. Añade los pimientos y la parte blanca de la cebolleta y saltea 3 minutos: deben quedar tiernos pero crujientes.",
+    "Devuelve el tofu, vierte la salsa y remueve 1 minuto, hasta que espese y brille. Apaga, añade los cacahuetes, el aceite de sésamo y la parte verde de la cebolleta.",
     "Sirve sobre el arroz recién esponjado con un tenedor."
   ],
   nutricion: { kcal: 630, prot: 32, hc: 64, grasa: 27 },
@@ -80,8 +80,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una sartén honda a fuego medio y tuesta el comino en grano 30 segundos, hasta que chisporrotee y huela.",
-    "Añade la cebolla picada fina con una pizca de sal y póchala 6 minutos, hasta que esté dorada en los bordes. Incorpora el ajo y el jengibre rallados y cocina 1 minuto más.",
+    "Pica fina la cebolla y ralla el ajo y el jengibre. Calienta el aceite en una sartén honda a fuego medio y tuesta el comino en grano 30 segundos, hasta que chisporrotee y huela.",
+    "Añade la cebolla con una pizca de sal y póchala 6 minutos, hasta que esté dorada en los bordes. Incorpora el ajo y el jengibre y cocina 1 minuto más.",
     "Agrega la cúrcuma, el pimentón y la mitad del garam masala, remueve 20 segundos y vierte el tomate triturado. Cocina 4 minutos a fuego vivo, hasta que la salsa espese y el aceite asome por los bordes.",
     "Incorpora los garbanzos y 100 ml de agua. Aplasta un puñado de garbanzos con el dorso de la cuchara para que la salsa quede espesa y cuece 5 minutos a fuego medio.",
     "Añade las espinacas a puñados, removiendo hasta que se reduzcan (1–2 minutos). Termina con el resto del garam masala y el zumo de media lima y prueba de sal.",
@@ -208,9 +208,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el cuscús en un bol, añade la ralladura de medio limón y una pizca de sal, vierte el caldo hirviendo, tapa con un plato y deja hidratar 5 minutos.",
-    "Corta la parte dura de los espárragos (se parte sola al doblarla) y trocéalos en tres. Parte los tomates cherry por la mitad.",
+    "Mientras, corta la parte dura de los espárragos (se parte sola al doblarla) y trocéalos en tres. Parte los tomates cherry por la mitad, lamina el ajo y pica el perejil.",
     "Calienta media cucharada de aceite en una sartén grande a fuego alto y dora la heura 4–5 minutos sin moverla demasiado, hasta que tenga costra tostada. Retírala.",
-    "Añade el resto del aceite y los espárragos con sal y saltea 3 minutos. Incorpora el ajo laminado y los tomates y cocina 2 minutos más, hasta que los tomates empiecen a arrugarse.",
+    "Añade el resto del aceite y los espárragos con sal y saltea 3 minutos. Incorpora el ajo y los tomates y cocina 2 minutos más, hasta que los tomates empiecen a arrugarse.",
     "Devuelve la heura, añade el zumo de medio limón y 2 cucharadas de agua y remueve 30 segundos para que se forme una salsita que lo envuelva todo. Pimienta al gusto.",
     "Esponja el cuscús con un tenedor, mézclalo con la mitad del perejil picado y sirve con la heura encima, el resto del perejil y gajos de limón."
   ],
@@ -379,10 +379,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir una olla grande con agua y sal. Separa el brócoli en ramilletes pequeños y pela y pica el tronco: también se aprovecha.",
+    "Pon a hervir una olla grande con agua y sal. Separa el brócoli en ramilletes pequeños y pela y pica el tronco: también se aprovecha. Lamina el ajo.",
     "Tuesta el pan rallado en una sartén con 1 cucharada de aceite y una pizca de sal a fuego medio, removiendo sin parar, 3 minutos hasta que esté dorado. Mézclalo con la ralladura del limón y la levadura nutricional y reserva.",
     "Cuece la pasta en el agua hirviendo. A falta de 5 minutos para el final, añade el brócoli a la misma olla.",
-    "Mientras, en la sartén con 2 cucharadas de aceite a fuego medio-bajo, dora suavemente el ajo laminado y la guindilla desmenuzada 2 minutos, sin que se tuesten. Añade los garbanzos y saltea 3 minutos.",
+    "Mientras, en la sartén con 2 cucharadas de aceite a fuego medio-bajo, dora suavemente el ajo y la guindilla desmenuzada 2 minutos, sin que se tuesten. Añade los garbanzos y saltea 3 minutos.",
     "Escurre pasta y brócoli reservando un vaso del agua de cocción. Pásalos a la sartén con 100 ml de esa agua y saltea 2 minutos a fuego fuerte, aplastando parte del brócoli con la cuchara para que forme una salsa verde cremosa.",
     "Riega con el resto del aceite crudo y el zumo de limón, prueba de sal y sirve con las migas crujientes por encima en el último momento."
   ],
@@ -470,9 +470,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela con 2 cucharadas de aceite a fuego medio, fríe los ajos enteros pelados, las almendras y la rebanada de pan, 2–3 minutos, hasta que estén dorados. Sácalos y májalos en el mortero (o tritúralos) con el azafrán tostado y unas hojas de perejil y un chorrito de caldo hasta tener una pasta.",
+    "Pica fina la cebolla y reserva. En una cazuela con 2 cucharadas de aceite a fuego medio, fríe los ajos enteros pelados, las almendras y la rebanada de pan, 2–3 minutos, hasta que estén dorados. Sácalos y májalos en el mortero (o tritúralos) con el azafrán tostado y unas hojas de perejil y un chorrito de caldo hasta tener una pasta.",
     "En la misma cazuela, dora el seitán salpimentado 4 minutos a fuego fuerte, hasta que tenga costra. Resérvalo.",
-    "Baja el fuego, añade la cebolla picada fina y póchala 8 minutos, hasta que esté blanda y dorada.",
+    "Baja el fuego, añade la cebolla y póchala 8 minutos, hasta que esté blanda y dorada.",
     "Vierte el vino y deja que se evapore el alcohol 2 minutos. Añade el caldo, el laurel y el majado, remueve y devuelve el seitán. Cuece tapado a fuego suave 15 minutos, hasta que la salsa engorde y tenga color dorado.",
     "Mientras, pela la patata y córtala en dados de 1,5 cm. Sécalos y fríelos en una sartén con 2 cucharadas de aceite a fuego medio, removiendo de vez en cuando, 15 minutos, hasta que estén dorados por fuera y tiernos por dentro. Sala al final.",
     "Prueba la salsa de sal y pimienta; si está muy espesa, alarga con un poco de caldo. Sirve el seitán con las patatas al lado y perejil picado por encima."
@@ -752,10 +752,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego fuerte y dora el seitán 5 minutos, hasta que tenga las caras tostadas. Sácalo.",
-    "Baja a fuego medio y pocha las cebollas picadas con una pizca de sal 12–15 minutos, hasta que estén muy blandas y doradas: son la base de la salsa.",
-    "Añade el ajo picado y la alcaravea machacada, remueve 1 minuto. Aparta la cazuela del fuego, incorpora los dos pimentones y remueve 20 segundos sin que se quemen.",
-    "Vuelve al fuego, añade el tomate y el pimiento en tiras y cocina 5 minutos. Vierte el caldo, el laurel y el seitán, tapa y cuece a fuego suave 20 minutos.",
+    "Pica las cebollas y el ajo y corta el pimiento en tiras. Calienta el aceite en una cazuela a fuego fuerte y dora el seitán 5 minutos, hasta que tenga las caras tostadas. Sácalo.",
+    "Baja a fuego medio y pocha las cebollas con una pizca de sal 12–15 minutos, hasta que estén muy blandas y doradas: son la base de la salsa.",
+    "Añade el ajo y la alcaravea machacada, remueve 1 minuto. Aparta la cazuela del fuego, incorpora los dos pimentones y remueve 20 segundos sin que se quemen.",
+    "Vuelve al fuego, añade el tomate y el pimiento y cocina 5 minutos. Vierte el caldo, el laurel y el seitán, tapa y cuece a fuego suave 20 minutos.",
     "Agrega las patatas peladas y chascadas en trozos medianos y cuece 20 minutos más, hasta que estén tiernas y suelten almidón que espese el guiso. Salpimienta.",
     "Deja reposar 5 minutos fuera del fuego y sirve en plato hondo con una cucharada de yogur vegetal y perejil picado."
   ],
@@ -845,7 +845,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta la calabaza en dados de 1,5 cm, mézclala con media cucharada de aceite, sal y la mitad del comino y ásala 20–25 minutos, hasta que esté tierna y dorada.",
-    "Abre los guajillos, quítales semillas y venas y tuéstalos en una sartén seca 20 segundos por lado, solo hasta que huelan (si se queman, amargan). Ponlos en remojo en el caldo caliente 10 minutos.",
+    "Abre los guajillos, quítales semillas y venas y tuéstalos en una sartén seca 20 segundos por lado, solo hasta que huelan (si se queman, amargan). Calienta el caldo y ponlos en remojo en él 10 minutos.",
     "Tritura los guajillos con el caldo, los tomates, la media cebolla, el ajo, el orégano, el resto del comino y sal hasta tener una salsa muy fina. Cuélala, fríela en un cazo con media cucharada de aceite y cuece 8 minutos a fuego medio, hasta que espese y oscurezca.",
     "Mezcla la calabaza asada con las alubias, aplastando ligeramente algunas, y 3 cucharadas de salsa.",
     "Calienta las tortillas 20 segundos por lado en una sartén con unas gotas de aceite para que estén flexibles y no se rompan. Pasa cada una por la salsa, rellénala y enróllala.",
@@ -932,7 +932,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Llena una olla grande con 2,5 litros de agua, añade la cebolla entera, el puerro, el apio, las zanahorias y el laurel y llévala a ebullición. Echa entonces los garbanzos escurridos dentro de una malla (para sacarlos fácil) y retira la espuma.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. El día de la comida, llena una olla grande con 2,5 litros de agua, añade la cebolla entera, el puerro, el apio, las zanahorias y el laurel y llévala a ebullición. Echa entonces los garbanzos escurridos dentro de una malla (para sacarlos fácil) y retira la espuma.",
     "Cuece a fuego suave, con hervor tranquilo y tapado a medias, 2 horas, hasta que los garbanzos estén mantecosos. Si tienes que añadir agua, que sea caliente para que no se encallen. Sala a mitad de cocción.",
     "A falta de 30 minutos, añade las patatas peladas y partidas por la mitad. Cuece la col en trozos aparte, en agua con sal, 15 minutos, y escúrrela.",
     "Corta el tofu ahumado en lonchas gruesas. En una sartén con 1 cucharada de aceite dora el tofu 2 minutos por lado y resérvalo. En el resto del aceite dora los ajos laminados, aparta del fuego, añade el pimentón y vuelca sobre la col escurrida (refrito).",
@@ -1032,7 +1032,7 @@ window.RECETAS_SEED.push({
     "Baja el fuego, añade el resto del aceite y pocha cebolla, zanahoria, apio y ajo picados muy finos 10 minutos, hasta que estén blandos. Incorpora el tomate concentrado y tuéstalo 2 minutos.",
     "Moja con el vino y deja reducir a la mitad, unos 3 minutos. Añade las setas, el shiitake, las lentejas lavadas, el tomate triturado, el agua de remojo, el tamari, una rama de romero y el laurel.",
     "Cuece tapado a fuego muy suave 50–60 minutos, removiendo de vez en cuando y añadiendo agua si hace falta, hasta que las lentejas estén tiernas y el ragú sea espeso y oscuro. Salpimienta.",
-    "Para la polenta, lleva a ebullición la bebida vegetal con 300 ml de agua, sal y la otra rama de romero (retírala después). Echa la polenta en lluvia batiendo y cuece removiendo según el paquete (5 minutos la rápida, 40 la tradicional), hasta que se despegue de las paredes. Termina con la levadura nutricional.",
+    "Para la polenta (empieza a falta de 5 minutos del ragú si es rápida, o de 40 si es tradicional), lleva a ebullición la bebida vegetal con 300 ml de agua, sal y la otra rama de romero (retírala después). Echa la polenta en lluvia batiendo y cuece removiendo según el paquete (5 minutos la rápida, 40 la tradicional), hasta que se despegue de las paredes. Termina con la levadura nutricional.",
     "Sirve la polenta extendida en el plato hondo, haz un hueco en el centro con la cuchara y coloca el ragú encima con pimienta recién molida."
   ],
   nutricion: { kcal: 605, prot: 29, hc: 82, grasa: 18 },
@@ -1074,11 +1074,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias y ponlas en una cazuela con 1,5 litros de agua fría, el laurel y media cebolla. Lleva a ebullición, retira la espuma y cuece a fuego suave semitapado 1 h 30 min, hasta que estén muy tiernas. Sala en la última media hora.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una cazuela con 1,5 litros de agua fría, el laurel y media cebolla. Lleva a ebullición, retira la espuma y cuece a fuego suave semitapado 1 h 30 min, hasta que estén muy tiernas. Sala en la última media hora.",
     "Mientras se cuecen, prepara el sofrito: pica la otra media cebolla, los pimientos y el ajo y póchalos en una sartén con el aceite a fuego medio-bajo 15 minutos, hasta que estén muy blandos. Añade el comino y el orégano y remueve 1 minuto.",
-    "Vierte el sofrito en la cazuela de las alubias junto con el vinagre y cuece todo junto 15 minutos más.",
+    "Vierte el sofrito en la cazuela de las alubias junto con el vinagre y cuece todo junto 15 minutos más. Mientras, precalienta el horno a 190 °C.",
     "Retira el laurel y la media cebolla. Tritura un tercio de la sopa y devuélvelo a la cazuela: debe quedar espesa pero con alubias enteras. Ajusta de sal y de agua.",
-    "Para los totopos, corta las tortillas en triángulos, pincélalos con unas gotas de aceite, sala y hornéalos a 190 °C 8–10 minutos, hasta que estén dorados y crujientes.",
+    "Para los totopos, corta las tortillas en triángulos, pincélalos con unas gotas de aceite, sala y hornéalos 8–10 minutos, hasta que estén dorados y crujientes.",
     "Sirve la sopa con un hilo de yogur vegetal, cebolla morada picada, cilantro, un buen chorro de lima y los totopos al lado."
   ],
   nutricion: { kcal: 440, prot: 19, hc: 55, grasa: 16 },
@@ -1118,7 +1118,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir 1,5 litros de agua con el laurel y echa los garbanzos escurridos cuando hierva. Retira la espuma y cuece a fuego suave 1 h 15 min, hasta que estén casi tiernos.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, pon a hervir 1,5 litros de agua con el laurel y echa los garbanzos escurridos cuando hierva. Retira la espuma y cuece a fuego suave 1 h 15 min, hasta que estén casi tiernos.",
     "Mientras, en una sartén con el aceite, fríe los ajos enteros y las almendras 2 minutos, hasta que estén dorados; sácalos y májalos en el mortero con una pizca de sal.",
     "En el mismo aceite, pocha la cebolla picada 8 minutos. Añade el tomate rallado y cocina 5 minutos. Aparta del fuego, añade el pimentón, remueve y vuelca el sofrito en la olla.",
     "Incorpora la calabaza en dados grandes y las judías verdes troceadas y cuece 15 minutos.",

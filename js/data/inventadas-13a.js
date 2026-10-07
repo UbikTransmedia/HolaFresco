@@ -118,8 +118,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Pon el agua a calentar con las setas shiitake secas y el jengibre en láminas. Cuando hierva, baja el fuego y deja infusionar 10 minutos tapado. Mientras, hidrata el wakame en un bol con agua fría 5 minutos y escúrrelo.",
-    "Cuece los huevos 6 minutos y medio en agua hirviendo, enfríalos en agua con hielo y pélalos: tendrán la yema melosa.",
+    "Pon el agua a calentar con las setas shiitake secas y el jengibre en láminas. Cuando hierva, baja el fuego y deja infusionar 10 minutos tapado. Mientras, hidrata el wakame en un bol con agua fría 5 minutos y escúrrelo, y pon a hervir un cazo de agua para los huevos.",
+    "Cuece los huevos 6 minutos y medio en ese agua hirviendo, enfríalos en agua con hielo y pélalos: tendrán la yema melosa.",
     "Seca bien el tofu con papel, córtalo en triángulos de 1 cm de grosor y dóralo en la sartén con el aceite de oliva a fuego medio-alto 3 minutos por lado, hasta que esté crujiente.",
     "Añade 1 cucharada de soja, el azúcar y 1 de mirin a la sartén caliente con el tofu: dale vueltas 30 segundos hasta que el glaseado brille y se pegue. Apaga.",
     "Saca las setas del caldo, córtalas en tiras y devuélvelas. Añade el resto de la soja y del mirin; prueba: debe quedar sabroso pero ligero. Echa los udon y cuécelos 2-3 minutos, solo hasta que se separen y estén calientes.",
@@ -213,8 +213,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz el roux: en una cazuela de fondo grueso calienta el aceite a fuego medio-bajo, añade la harina y remueve sin parar con una espátula de madera 15-20 minutos, hasta que tenga color de chocolate con leche y huela a avellana tostada. Si ves puntos negros, se ha quemado: empieza de nuevo.",
-    "Añade de golpe la cebolla, el pimiento y el apio picados en dados pequeños (frenan la cocción del roux) y rehoga 8 minutos, hasta que estén blandos. Incorpora el ajo picado 1 minuto.",
+    "Antes de empezar, pica en dados pequeños la cebolla, el pimiento y el apio, pica el ajo y pon el caldo a calentar. Haz el roux: en una cazuela de fondo grueso calienta el aceite a fuego medio-bajo, añade la harina y remueve sin parar con una espátula de madera 15-20 minutos, hasta que tenga color de chocolate con leche y huela a avellana tostada. Si ves puntos negros, se ha quemado: empieza de nuevo.",
+    "Añade de golpe la cebolla, el pimiento y el apio (frenan la cocción del roux) y rehoga 8 minutos, hasta que estén blandos. Incorpora el ajo 1 minuto.",
     "Agrega el pimentón, el tomillo y la cayena, remueve 30 segundos y vierte el tomate y el caldo caliente poco a poco, sin dejar de remover para que no se formen grumos. Echa el laurel.",
     "Corta el pollo en dados grandes y la salchicha en rodajas de 1 cm. Dora la salchicha en una sartén seca 3 minutos y añádela a la cazuela junto con el pollo.",
     "Cuece a fuego suave, semitapado, 40 minutos, removiendo de vez en cuando, hasta que el gumbo esté espeso y brillante y el pollo se deshaga. Añade la salsa worcestershire y ajusta sal y pimienta.",
@@ -254,8 +254,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el agua a calentar en una cazuela. Cuando empiece a temblar (sin llegar a hervir), mete el bacalao 4 minutos, sácalo con una espumadera y reserva el agua: será tu caldo. Desmiga el bacalao en lascas, retirando pieles y espinas.",
-    "Limpia bien los puerros, quédate con la parte blanca y verde clara y córtalos en rodajas de 2 cm. Pela la zanahoria y córtala en rodajas finas.",
-    "En la cazuela limpia, dora los ajos laminados en el aceite a fuego suave 1-2 minutos, hasta que estén apenas dorados. Sácalos y resérvalos.",
+    "Limpia bien los puerros, quédate con la parte blanca y verde clara y córtalos en rodajas de 2 cm. Pela la zanahoria y córtala en rodajas finas. Pela las patatas y lamina los ajos.",
+    "En la cazuela limpia, dora los ajos en el aceite a fuego suave 1-2 minutos, hasta que estén apenas dorados. Sácalos y resérvalos.",
     "En ese aceite rehoga el puerro y la zanahoria 6 minutos a fuego medio, hasta que el puerro esté blando sin tomar color.",
     "Añade las patatas chascadas (rompiéndolas con el cuchillo para que suelten almidón) y cubre con el agua del bacalao. Cuece a fuego suave 20-25 minutos, hasta que las patatas estén tiernas y el caldo haya engordado un poco.",
     "Prueba antes de salar: el agua del bacalao ya aporta sal. Apaga, incorpora las lascas de bacalao y deja reposar 3 minutos tapado para que se templen sin secarse.",
@@ -382,9 +382,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita la piel a las salchichas y desmenuza la carne. Dórala en una cazuela con la cucharadita de aceite a fuego medio-alto 6-7 minutos, rompiéndola con la cuchara, hasta que esté dorada y suelte su grasa. Sácala y deja 1 cucharada de grasa en la cazuela.",
-    "Rehoga en esa grasa la cebolla picada 6 minutos, hasta que esté transparente. Añade el ajo laminado y la guindilla desmenuzada y cocina 1 minuto más.",
-    "Incorpora las patatas cortadas en medias lunas de 1 cm y el caldo. Lleva a ebullición y cuece a fuego medio 15 minutos, hasta que las patatas estén tiernas.",
+    "Pica la cebolla y lamina el ajo. Quita la piel a las salchichas y desmenuza la carne. Dórala en una cazuela con la cucharadita de aceite a fuego medio-alto 6-7 minutos, rompiéndola con la cuchara, hasta que esté dorada y suelte su grasa. Sácala y deja 1 cucharada de grasa en la cazuela.",
+    "Rehoga en esa grasa la cebolla 6 minutos, hasta que esté transparente; mientras, pela las patatas y córtalas en medias lunas de 1 cm. Añade el ajo y la guindilla desmenuzada y cocina 1 minuto más.",
+    "Incorpora las patatas y el caldo. Lleva a ebullición y cuece a fuego medio 15 minutos, hasta que las patatas estén tiernas.",
     "Mientras, quita los tallos duros del kale y corta las hojas en tiras.",
     "Machaca unas cuantas patatas contra la pared de la cazuela para espesar. Devuelve la salchicha, añade el kale y la nata y cuece 5 minutos a fuego suave, hasta que el kale esté tierno pero verde.",
     "Ajusta de sal y pimienta y sirve con parmesano rallado por encima."
@@ -479,9 +479,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite y la mitad de la mantequilla en una cazuela a fuego medio y tuesta la canela, el cardamomo abierto, los clavos y 1 cucharadita de comino 1 minuto, hasta que huelan intensamente.",
-    "Añade la cebolla en juliana fina y dórala 12 minutos, removiendo, hasta que esté bien tostada. Incorpora el ajo y el jengibre rallados y cocina 1 minuto.",
-    "Sube el fuego, añade el cordero salado y séllalo 5 minutos por todos los lados. Agrega la cúrcuma, los tomates rallados y el yogur y cocina 5 minutos, hasta que la salsa se reduzca y brille.",
+    "Corta la cebolla en juliana fina, ralla el ajo, el jengibre y los tomates, y pon a calentar el agua, salvo 180 ml que reservas para el arroz. Calienta el aceite y la mitad de la mantequilla en una cazuela a fuego medio y tuesta la canela, el cardamomo abierto, los clavos y 1 cucharadita de comino 1 minuto, hasta que huelan intensamente.",
+    "Añade la cebolla y dórala 12 minutos, removiendo, hasta que esté bien tostada. Incorpora el ajo y el jengibre y cocina 1 minuto.",
+    "Sube el fuego, añade el cordero salado y séllalo 5 minutos por todos los lados. Agrega la cúrcuma, los tomates y el yogur y cocina 5 minutos, hasta que la salsa se reduzca y brille.",
     "Vierte el agua caliente y las lentejas lavadas. Lleva a ebullición, retira la espuma, tapa y cuece a fuego muy suave 1 h 15 min, hasta que el cordero esté muy tierno y las lentejas se hayan deshecho espesando el caldo.",
     "A falta de 20 minutos, lava el arroz hasta que el agua salga clara. Tuesta el resto del comino en la mantequilla restante 30 segundos en un cazo, añade el arroz, 180 ml de agua y sal, tapa y cuece a fuego mínimo 12 minutos. Reposa 5 minutos tapado.",
     "Retira las especias enteras que encuentres, añade el garam masala y la mitad de la menta y el cilantro picados y ajusta de sal. Termina con el zumo de medio limón.",
@@ -526,9 +526,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el paneer en dados de 2 cm y dóralo en una sartén antiadherente sin aceite a fuego medio-alto 4-5 minutos, girándolo, hasta que tenga caras doradas. Reserva.",
-    "En una cazuela calienta el aceite y añade la mostaza y el comino. Cuando la mostaza empiece a saltar (unos 30 segundos), echa la cebolla picada y rehoga 6 minutos, hasta que esté dorada.",
-    "Incorpora el ajo y el jengibre rallados, la cúrcuma y el garam masala y remueve 1 minuto, sin que se queme.",
+    "Pica la cebolla y ralla el ajo y el jengibre. Corta el paneer en dados de 2 cm y dóralo en una sartén antiadherente sin aceite a fuego medio-alto 4-5 minutos, girándolo, hasta que tenga caras doradas. Reserva.",
+    "En una cazuela calienta el aceite y añade la mostaza y el comino. Cuando la mostaza empiece a saltar (unos 30 segundos), echa la cebolla y rehoga 6 minutos, hasta que esté dorada.",
+    "Incorpora el ajo y el jengibre, la cúrcuma y el garam masala y remueve 1 minuto, sin que se queme.",
     "Añade el tomate triturado y cocina 5 minutos a fuego medio, hasta que espese y el aceite asome en los bordes. Vierte el caldo y la leche de coco y lleva a hervor suave.",
     "Echa los garbanzos escurridos y cuece 8 minutos. Si quieres una textura más cremosa, tritura un par de cazos y devuélvelos a la cazuela.",
     "Agrega las espinacas y el paneer y cocina 1-2 minutos, hasta que las hojas se ablanden. Ajusta de sal y sirve con cilantro picado."
@@ -573,11 +573,11 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" }
   ],
   pasos: [
-    "Limpia los mejillones, quítales las barbas y descarta los que estén abiertos. Corta el calamar en anillas o tiras y la col china, la cebolla y la zanahoria en juliana.",
-    "Calienta el aceite de oliva en el wok a fuego fuerte y saltea el ajo y el jengibre picados 30 segundos. Añade la cebolla, la zanahoria y la parte blanca de la col y saltea 3 minutos, hasta que se tuesten los bordes.",
+    "Limpia los mejillones, quítales las barbas y descarta los que estén abiertos. Corta el calamar en anillas o tiras y la col china, la cebolla y la zanahoria en juliana. Pica el ajo y el jengibre y pon a hervir una cazuela de agua para los noodles.",
+    "Calienta el aceite de oliva en el wok a fuego fuerte y saltea el ajo y el jengibre 30 segundos. Añade la cebolla, la zanahoria y la parte blanca de la col y saltea 3 minutos, hasta que se tuesten los bordes.",
     "Baja a fuego medio y agrega el pimentón picante y el gochujang. Remueve 1 minuto: el aceite se teñirá de rojo intenso. Cuidado de que no se queme.",
     "Vierte el caldo de pescado, la soja y la salsa de pescado y lleva a ebullición. Echa los mejillones, tapa y cuece 3-4 minutos, hasta que se abran (descarta los que sigan cerrados).",
-    "Mientras, cuece los noodles en una cazuela con agua hirviendo según el paquete (unos 4 minutos), escúrrelos y repártelos en dos boles grandes.",
+    "Mientras, cuece los noodles en el agua hirviendo según el paquete (unos 4 minutos), escúrrelos y repártelos en dos boles grandes.",
     "Añade al caldo el calamar, las gambas y las hojas verdes de la col y cuece solo 2 minutos, hasta que el marisco esté opaco. Termina con el aceite de sésamo y prueba de sal.",
     "Vierte el caldo con el marisco sobre los noodles y corona con cebolleta en aros."
   ],
@@ -665,7 +665,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el codillo en una cazuela grande con 1,5 litros de agua fría y el laurel. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 hora.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, pon el codillo en una cazuela grande con 1,5 litros de agua fría y el laurel. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 hora.",
     "Añade las alubias escurridas del remojo y cuece todo junto 50-60 minutos más, a borbotón muy suave, hasta que las alubias estén tiernas y el codillo se separe del hueso.",
     "Saca el codillo, deja que temple, desecha piel, grasa y hueso y corta la carne en trozos pequeños.",
     "Incorpora al caldo la zanahoria, la chirivía y el apio en dados y cuece 15 minutos, hasta que estén tiernos.",
@@ -713,10 +713,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la ternera en dados grandes en una cazuela con 1,3 litros de agua fría, el laurel y sal. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 1 h 30 min, hasta que la carne esté tierna.",
-    "Mientras, pela la remolacha (usa guantes) y córtala en tiras finas. Ralla la zanahoria y pica la cebolla.",
+    "Mientras, pela la remolacha (usa guantes) y córtala en tiras finas. Ralla la zanahoria y pica la cebolla y el ajo.",
     "En una sartén, rehoga la cebolla y la zanahoria en el aceite 6 minutos. Añade la remolacha, el tomate concentrado y el vinagre y cocina 10 minutos a fuego suave, removiendo: el vinagre fija el color rojo intenso.",
     "Cuando la carne esté tierna, añade al caldo la patata en dados y cuece 10 minutos. Incorpora la col en tiras finas y cuece 5 minutos más.",
-    "Agrega el sofrito de remolacha y el ajo picado, cuece 10 minutos más y ajusta de sal, pimienta y un chorrito extra de vinagre si lo quieres más ácido. Apaga y deja reposar 10 minutos tapado.",
+    "Agrega el sofrito de remolacha y el ajo, cuece 10 minutos más y ajusta de sal, pimienta y un chorrito extra de vinagre si lo quieres más ácido. Apaga y deja reposar 10 minutos tapado.",
     "Mezcla el yogur con la mitad del eneldo picado y una pizca de sal.",
     "Sirve el borsch muy caliente con una cucharada de yogur al eneldo, el resto del eneldo por encima y el pan de centeno al lado."
   ],
@@ -800,9 +800,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos, pélalos y pícalos.",
-    "En una cazuela, calienta el aceite y dora los taquitos de jamón 1 minuto a fuego medio. Añade la cebolla y el ajo picados y rehoga 5 minutos, hasta que la cebolla esté blanda.",
-    "Incorpora el tomate rallado y cocina 4 minutos, hasta que pierda el agua. Retira del fuego, añade el pimentón, remueve unos segundos y vierte el vino. Vuelve al fuego y deja reducir 1 minuto.",
+    "Cuece los huevos 10 minutos; mientras, pica la cebolla y el ajo, ralla el tomate y pon el caldo a calentar. Enfría los huevos, pélalos y pícalos.",
+    "En una cazuela, calienta el aceite y dora los taquitos de jamón 1 minuto a fuego medio. Añade la cebolla y el ajo y rehoga 5 minutos, hasta que la cebolla esté blanda.",
+    "Incorpora el tomate y cocina 4 minutos, hasta que pierda el agua. Retira del fuego, añade el pimentón, remueve unos segundos y vierte el vino. Vuelve al fuego y deja reducir 1 minuto.",
     "Agrega el caldo caliente y, cuando hierva, el arroz. Cuece a fuego medio 14 minutos, hasta que el arroz esté tierno.",
     "Echa las almejas, tapa y cuece 2-3 minutos, hasta que se abran (descarta las que sigan cerradas). Añade las gambas y deja 1 minuto más, solo hasta que se pongan rosadas.",
     "Prueba de sal (el jamón y las almejas ya salan), apaga y sirve con el huevo picado y abundante perejil por encima."
@@ -936,7 +936,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Rehoga la cebolla picada y el jengibre rallado en una cazuela con el aceite a fuego medio 4 minutos. Añade el boniato pelado en dados y el caldo, lleva a ebullición y cuece tapado 15 minutos, hasta que el boniato se deshaga al pincharlo.",
-    "Precalienta el horno con el grill a 220 °C. Mezcla 1 cucharada de miso con la miel y la soja hasta que quede una pasta lisa.",
+    "Mientras, precalienta el horno con el grill a 220 °C. Mezcla 1 cucharada de miso con la miel y la soja hasta que quede una pasta lisa.",
     "Coloca el salmón en una bandeja forrada, con la piel hacia abajo, y píntalo con la mezcla de miso. Gratínalo 7-9 minutos en la parte alta, hasta que el glaseado burbujee y se caramelice en los bordes y el centro siga jugoso.",
     "Disuelve la otra cucharada de miso en la leche de coco, añádela a la cazuela fuera del fuego y tritura hasta obtener una crema muy fina. Prueba: el miso ya sala, así que añade sal solo si hace falta, y un chorrito de lima.",
     "Sirve la crema en platos hondos, coloca encima el salmón en lascas grandes y termina con sésamo y cebolleta en aros finos."
@@ -979,8 +979,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla en un bol el pollo picado con el pan rallado, la clara, la mitad del jengibre rallado, la parte blanca de las cebolletas muy picada, el ajo rallado y la soja. Con las manos húmedas, forma unas 14 albóndigas pequeñas.",
     "Lleva el caldo a ebullición con el resto del jengibre en láminas y los tomates cherry partidos por la mitad. Cuece 5 minutos para que los tomates suelten su jugo.",
-    "Baja a fuego suave y echa las albóndigas. Cuécelas 6-7 minutos, sin que el caldo borbotee fuerte, hasta que floten y estén firmes.",
-    "Añade las setas laminadas y el pak choi cortado en cuartos a lo largo y cuece 3 minutos, hasta que los tallos estén tiernos pero crujientes.",
+    "Baja a fuego suave y echa las albóndigas. Cuécelas 6-7 minutos, sin que el caldo borbotee fuerte, hasta que floten y estén firmes. Mientras, lamina las setas y corta el pak choi en cuartos a lo largo.",
+    "Añade las setas y el pak choi y cuece 3 minutos, hasta que los tallos estén tiernos pero crujientes.",
     "Aparta del fuego, disuelve el miso en un cazo de caldo y devuélvelo a la cazuela. Prueba de sal.",
     "Sirve en boles con la parte verde de la cebolleta en aros y unas gotas de aceite de sésamo."
   ],
@@ -1019,8 +1019,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta 2 cucharadas de aceite en una cazuela y rehoga la cebolla picada fina 6 minutos a fuego medio, hasta que esté blanda y dorada.",
-    "Añade el ajo laminado y la rama de romero y cocina 1 minuto, hasta que huela.",
+    "Pica fina la cebolla y lamina el ajo. Calienta 2 cucharadas de aceite en una cazuela y rehoga la cebolla 6 minutos a fuego medio, hasta que esté blanda y dorada.",
+    "Añade el ajo y la rama de romero y cocina 1 minuto, hasta que huela.",
     "Incorpora los garbanzos y el caldo y lleva a ebullición. Cuece a fuego suave 8 minutos.",
     "Retira el romero. Saca un cazo de garbanzos con caldo, aplástalos con un tenedor hasta hacer un puré y devuélvelo a la cazuela: espesará la sopa sin necesidad de batidora.",
     "Apaga y añade la ralladura y el zumo del limón, el orégano, sal y abundante pimienta. Debe quedar claramente cítrica.",
@@ -1062,9 +1062,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "En una cazuela, calienta 1 cucharada de aceite y sofríe a fuego suave 2 dientes de ajo picados 1 minuto, sin que tomen color. Añade 1 cucharadita de comino y la harissa y remueve 30 segundos.",
-    "Incorpora los garbanzos y el caldo, lleva a ebullición y cuece 8 minutos a fuego medio.",
+    "Incorpora los garbanzos y el caldo, lleva a ebullición y cuece 8 minutos a fuego medio. Pon a hervir un cazo de agua para los huevos.",
     "Mientras, machaca los otros 2 ajos con una pizca de sal y el resto del comino hasta hacer una pasta. Añádela al caldo en el último minuto y prueba de sal.",
-    "Cuece los huevos 6 minutos y medio, enfríalos y pélalos: la yema debe quedar líquida.",
+    "Cuece los huevos 6 minutos y medio en ese agua hirviendo, enfríalos y pélalos: la yema debe quedar líquida.",
     "Trocea el pan en dados y repártelo en el fondo de dos cuencos. Vierte encima los garbanzos con su caldo para que el pan se empape.",
     "Coloca en cada cuenco un huevo abierto por la mitad, el atún escurrido en lascas y las alcaparras. Termina con un hilo del aceite restante, una pizca de comino y un buen chorro de limón. Mezcla todo al comer para que la yema ligue el caldo."
   ],
@@ -1106,8 +1106,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Separa el brócoli en ramilletes pequeños y pela y trocea el tallo. Reserva un puñado de ramilletes muy pequeños para dar textura.",
-    "Derrite la mantequilla en una cazuela a fuego medio y rehoga la cebolla picada y la zanahoria rallada 5 minutos. Añade la harina y remueve 1 minuto sin que tome color.",
+    "Separa el brócoli en ramilletes pequeños y pela y trocea el tallo. Reserva un puñado de ramilletes muy pequeños para dar textura. Pica la cebolla y ralla la zanahoria.",
+    "Derrite la mantequilla en una cazuela a fuego medio y rehoga la cebolla y la zanahoria 5 minutos. Añade la harina y remueve 1 minuto sin que tome color.",
     "Vierte poco a poco la leche y el caldo batiendo con varillas para que no haya grumos. Añade el brócoli (menos los reservados) y cuece a fuego suave 12 minutos, removiendo a menudo para que no se pegue, hasta que esté muy tierno.",
     "Mientras, sazona la pechuga, píntala con el aceite y hazla a la plancha a fuego medio-alto 4-5 minutos por lado, hasta que esté dorada y sin rosa en el centro. Déjala reposar 3 minutos y córtala en tiras. En la misma plancha tuesta el pan en dados hasta que esté crujiente.",
     "Tritura la crema de forma grosera (que queden trocitos), añade los ramilletes reservados y cuece 3 minutos más.",

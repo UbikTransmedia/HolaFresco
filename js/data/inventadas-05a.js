@@ -116,7 +116,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Pela la patata y córtala en láminas de 3 mm. Cuécela 6 minutos en agua hirviendo con sal, hasta que esté casi tierna, y escúrrela.",
+    "Precalienta el horno a 190 °C y pon a hervir agua con sal. Pela la patata y córtala en láminas de 3 mm. Cuécela 6 minutos en el agua hirviendo, hasta que esté casi tierna, y escúrrela.",
     "Corta el puerro en rodajas finas. En una sartén apta para horno (20-22 cm) calienta 1 cucharada de aceite y póchalo 6-7 minutos a fuego medio con una pizca de sal y las hojas de tomillo, hasta que esté tierno.",
     "Bate los huevos con la leche, sal y pimienta. Reparte las patatas sobre el puerro en la sartén, vierte el huevo y reparte el queso de cabra en trozos por encima.",
     "Cocina 2 minutos en el fuego para que cuaje la base y pasa la sartén al horno 15-18 minutos, hasta que el centro esté firme al tocarlo y el queso dorado.",
@@ -162,8 +162,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la berenjena, el calabacín, el pimiento y la cebolla en dados de 1,5 cm y pica el ajo.",
     "Calienta el aceite en una sartén grande a fuego medio-alto y sofríe la cebolla y el pimiento 5 minutos. Añade la berenjena y el calabacín con sal y cocina 8 minutos más, removiendo, hasta que tomen color.",
-    "Agrega el ajo, el pimentón y el comino, remueve 30 segundos y vierte el tomate triturado. Cocina a fuego medio 10 minutos, hasta que el pisto espese y el aceite asome por los bordes. Rectifica de sal y pimienta.",
-    "Precalienta el horno a 200 °C. Reparte el pisto en dos cazuelitas de barro o una fuente pequeña y haz cuatro huecos.",
+    "Agrega el ajo, el pimentón y el comino, remueve 30 segundos y vierte el tomate triturado. Cocina a fuego medio 10 minutos, hasta que el pisto espese y el aceite asome por los bordes; mientras, precalienta el horno a 200 °C. Rectifica de sal y pimienta.",
+    "Reparte el pisto en dos cazuelitas de barro o una fuente pequeña y haz cuatro huecos.",
     "Casca un huevo en cada hueco, sala las yemas y hornea 8-10 minutos, hasta que la clara esté blanca y la yema aún tiemble.",
     "Tuesta el pan, pícale el perejil al plato y sirve enseguida para mojar."
   ],
@@ -204,10 +204,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la masa: mezcla la harina con media cucharadita de sal, añade la mantequilla fría y frótala con las yemas de los dedos hasta tener una arena gruesa. Incorpora 1 huevo, junta la masa sin amasar, forma un disco, envuélvelo y refrigéralo 30 minutos.",
-    "Mientras, corta el brócoli en ramilletes pequeños y escáldalos 2 minutos en agua hirviendo con sal. Escúrrelos y refréscalos. Pica la cebolla y póchala en el aceite a fuego medio 8 minutos, hasta que esté dorada.",
-    "Precalienta el horno a 190 °C. Estira la masa sobre papel de horno hasta 3 mm y forra un molde de 20 cm, dejando que sobresalga un poco el borde. Pincha la base con un tenedor.",
+    "Mientras, corta el brócoli en ramilletes pequeños y escáldalos 2 minutos en agua hirviendo con sal. Escúrrelos y refréscalos. Pica la cebolla y póchala en el aceite a fuego medio 8 minutos, hasta que esté dorada. Unos 15 minutos antes de que acabe el reposo de la masa, precalienta el horno a 190 °C.",
+    "Estira la masa sobre papel de horno hasta 3 mm y forra un molde de 20 cm, dejando que sobresalga un poco el borde. Pincha la base con un tenedor.",
     "Cubre la masa con papel de horno y legumbres secas o bolas de cerámica y hornea 15 minutos. Retira el peso y hornea 5 minutos más, hasta que la base esté seca y empiece a dorarse.",
-    "Bate los 2 huevos con la nata, la leche, la mostaza, la nuez moscada, sal y pimienta.",
+    "Mientras se hornea la base, bate los 2 huevos con la nata, la leche, la mostaza, la nuez moscada, sal y pimienta.",
     "Reparte la cebolla y el brócoli sobre la base, espolvorea dos tercios del cheddar, vierte la mezcla de huevo y termina con el queso restante.",
     "Hornea 30-35 minutos a 180 °C, hasta que el relleno esté cuajado (al mover el molde tiembla ligeramente solo en el centro) y la superficie dorada. Deja reposar 10 minutos antes de desmoldar y cortar."
   ],
@@ -287,9 +287,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lleva el caldo a ebullición en un cazo, añade el bulgur y una pizca de sal, tapa y cuece a fuego mínimo 10-12 minutos hasta que absorba el líquido. Apaga y deja reposar tapado 5 minutos; suéltalo con un tenedor.",
+    "Lleva el caldo a ebullición en un cazo, añade el bulgur y una pizca de sal, tapa y cuece a fuego mínimo 10-12 minutos hasta que absorba el líquido. Apaga y deja reposar tapado 5 minutos; suéltalo con un tenedor. Mientras se cuece, pon a calentar 1,5 litros de agua con el vinagre en una cazuela.",
     "Mezcla el yogur con el ajo rallado muy fino, una pizca de sal y un chorrito de limón. Déjalo a temperatura ambiente: recién sacado de la nevera corta el contraste con la mantequilla caliente.",
-    "Pon a hervir suavemente 1,5 litros de agua con el vinagre en una cazuela. Casca cada huevo en una taza. Haz un remolino con una cuchara, desliza un huevo en el centro y cuece 3 minutos, hasta que la clara esté firme y la yema líquida. Sácalo con espumadera a papel de cocina y repite con el resto, de dos en dos.",
+    "Cuando el agua hierva suavemente, casca cada huevo en una taza. Haz un remolino con una cuchara, desliza un huevo en el centro y cuece 3 minutos, hasta que la clara esté firme y la yema líquida. Sácalo con espumadera a papel de cocina y repite con el resto, de dos en dos.",
     "Funde la mantequilla en una sartén pequeña a fuego medio hasta que espume y empiece a oler a avellana, unos 2 minutos. Aparta del fuego y añade el pimentón y la cayena: se tiñe de rojo al instante. No la devuelvas al fuego o el pimentón amargará.",
     "Reparte el yogur en el fondo de dos platos hondos y extiéndelo. Coloca el bulgur a un lado y los huevos escalfados sobre el yogur.",
     "Riega con la mantequilla roja, espolvorea el eneldo picado y pimienta recién molida y sirve enseguida."
@@ -480,10 +480,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en dados de 2 cm, mézclala con una cucharadita de aceite y sal y ásala 25 minutos, hasta que esté tierna y con los bordes dorados. Aplástala con un tenedor hasta tener un puré grueso.",
-    "Pica la cebolla muy fina y póchala con la mantequilla en una cazuela a fuego medio-bajo 8 minutos, sin que tome color. Añade la harina y remueve 2 minutos para que se cocine sin dorarse.",
+    "Pica la cebolla muy fina y póchala con la mantequilla en una cazuela a fuego medio-bajo 8 minutos, sin que tome color; mientras, calienta la leche. Añade la harina y remueve 2 minutos para que se cocine sin dorarse.",
     "Vierte la leche caliente poco a poco sin dejar de remover. Cuece 8-10 minutos a fuego medio hasta que la masa se despegue de las paredes. Incorpora el puré de calabaza y el parmesano rallado, salpimienta, añade la nuez moscada y cocina 3 minutos más: debe quedar una masa muy espesa.",
-    "Extiende la masa en una fuente, cúbrela con film tocando la superficie y enfríala al menos 1 hora en la nevera (o 30 minutos en el congelador), hasta que esté firme.",
-    "Precalienta el horno a 210 °C. Con las manos ligeramente aceitadas, forma 12 croquetas. Pásalas por el huevo batido y después por el pan rallado, presionando para que se adhiera.",
+    "Extiende la masa en una fuente, cúbrela con film tocando la superficie y enfríala al menos 1 hora en la nevera (o 30 minutos en el congelador), hasta que esté firme. Unos 15 minutos antes de formar las croquetas, precalienta el horno a 210 °C.",
+    "Con las manos ligeramente aceitadas, forma 12 croquetas. Pásalas por el huevo batido y después por el pan rallado, presionando para que se adhiera.",
     "Colócalas en una bandeja con papel de horno, rocíalas con una cucharada de aceite y hornea 20-22 minutos, girándolas a mitad, hasta que estén doradas y crujientes por todos lados.",
     "Aliña los canónigos y los cherry partidos con el aceite restante, el vinagre y sal.",
     "Sirve 6 croquetas por persona con la ensalada al lado."
@@ -619,7 +619,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el arroz lavado en un cazo con 260 ml de agua y sal, lleva a ebullición, tapa, cuece 10 minutos al mínimo y déjalo reposar tapado otros 10.",
     "Cuece los huevos 9 minutos desde agua hirviendo, pásalos a agua fría y pélalos. Hazles 2-3 cortes superficiales a lo largo para que absorban la salsa.",
-    "Pica la cebolla fina, ralla el ajo y el jengibre y corta los tomates en dados pequeños.",
+    "Mientras se cuecen los huevos, pica la cebolla fina, ralla el ajo y el jengibre y corta los tomates en dados pequeños.",
     "Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla 7-8 minutos, hasta que esté bien dorada: ese dorado es la base del sabor. Añade ajo y jengibre y remueve 1 minuto.",
     "Agrega cúrcuma, comino, cilantro molido y cayena, remueve 30 segundos y añade el tomate con sal. Cocina 5 minutos aplastándolo con la cuchara, hasta que se deshaga y el aceite se separe por los bordes.",
     "Vierte la leche de coco y 100 ml de agua, lleva a hervor suave y cuece 5 minutos. Incorpora los huevos y el garam masala y cocina 3 minutos más, girándolos para que se bañen. Rectifica de sal.",
@@ -707,8 +707,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Salsa: calienta media cucharada de aceite en una sartén y sofríe la mitad de la cebolla picada con un diente de ajo 4 minutos. Añade el tomate triturado, el chipotle picado con su adobo, media cucharadita de comino, el orégano y sal; cuece 10 minutos a fuego medio. Tritura hasta que quede lisa y reserva.",
-    "Precalienta el horno a 200 °C. En la misma sartén con el aceite restante sofríe la otra mitad de la cebolla, el pimiento verde en dados y el otro ajo 5 minutos. Añade las alubias escurridas, el maíz, el comino restante y sal; cocina 3 minutos aplastando un tercio de las alubias con el tenedor para que el relleno ligue. Mezcla con la mitad del cilantro picado.",
+    "Pica la cebolla y los ajos y corta el pimiento verde en dados. Salsa: calienta media cucharada de aceite en una sartén y sofríe la mitad de la cebolla con un diente de ajo 4 minutos. Añade el tomate triturado, el chipotle picado con su adobo, media cucharadita de comino, el orégano y sal; cuece 10 minutos a fuego medio. Tritura hasta que quede lisa y reserva.",
+    "Precalienta el horno a 200 °C. En la misma sartén con el aceite restante sofríe la otra mitad de la cebolla, el pimiento verde y el otro ajo 5 minutos. Añade las alubias escurridas, el maíz, el comino restante y sal; cocina 3 minutos aplastando un tercio de las alubias con el tenedor para que el relleno ligue. Mezcla con la mitad del cilantro picado.",
     "Calienta las tortillas 20 segundos por cara en una sartén seca, o 30 segundos en el microondas envueltas en un paño húmedo, para que se doblen sin romperse.",
     "Extiende una capa fina de salsa en el fondo de una fuente. Pasa cada tortilla por la salsa, rellénala con dos cucharadas de alubias y una pizca de queso, enróllala y colócala con el cierre hacia abajo.",
     "Cubre con el resto de la salsa y espolvorea el queso restante. Hornea 15 minutos, hasta que el queso burbujee y los bordes de las tortillas se tuesten.",
@@ -798,8 +798,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Separa la coliflor en ramilletes medianos, corta la patata pelada en rodajas de 1 cm y el puerro en rodajas finas.",
-    "Cuece las patatas en agua hirviendo con sal 8 minutos; añade la coliflor y cuece 5 minutos más, hasta que todo esté tierno pero firme. Escurre muy bien y déjalo 2 minutos en el colador para que suelte el vapor.",
+    "Precalienta el horno a 200 °C y pon a hervir agua con sal. Separa la coliflor en ramilletes medianos, corta la patata pelada en rodajas de 1 cm y el puerro en rodajas finas.",
+    "Cuece las patatas en el agua hirviendo 8 minutos; añade la coliflor y cuece 5 minutos más, hasta que todo esté tierno pero firme. Escurre muy bien y déjalo 2 minutos en el colador para que suelte el vapor.",
     "Mientras, funde la mantequilla en un cazo a fuego medio, pocha el puerro 4 minutos, añade la harina y remueve 1 minuto. Vierte la leche poco a poco batiendo y cuece 5 minutos hasta que espese.",
     "Fuera del fuego añade la mostaza, dos tercios del queso, la nuez moscada, sal y pimienta y remueve hasta que el queso se funda.",
     "Dispón la coliflor y la patata en una fuente de horno, nápalas con la salsa y mezcla con cuidado para que llegue a todos los huecos.",
@@ -890,7 +890,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Corta los calabacines por la mitad a lo largo y vacíalos con una cuchara dejando una pared de 1 cm. Pica la pulpa.",
     "Sala las barcas por dentro, déjalas boca abajo sobre papel de cocina 10 minutos y sécalas. Colócalas boca arriba en una fuente, píntalas con un poco de aceite y hornéalas 12 minutos.",
-    "Pica la cebolla y el ajo y sofríelos con el aceite restante a fuego medio 5 minutos. Añade la pulpa de calabacín y cocina 5 minutos más, hasta que evapore su agua.",
+    "Mientras se hornean, calienta el caldo en un cazo, pica la cebolla y el ajo y sofríelos con el aceite restante a fuego medio 5 minutos. Añade la pulpa de calabacín y cocina 5 minutos más, hasta que evapore su agua.",
     "Añade el arroz, remueve 1 minuto y vierte el caldo caliente. Cuece a fuego medio-bajo 14-15 minutos removiendo de vez en cuando, hasta que el arroz esté casi hecho y cremoso; quedará algo suelto porque termina en el horno.",
     "Fuera del fuego incorpora el tomate seco picado, la mitad de la mozzarella en dados, el parmesano rallado, la albahaca troceada, el orégano, sal y pimienta.",
     "Extiende el tomate frito en el fondo de la fuente, coloca las barcas encima y rellénalas con el arroz. Corona con la mozzarella restante.",
@@ -1112,8 +1112,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara. Cuécelo con 270 ml de agua y una pizca de sal: lleva a ebullición, tapa, 12 minutos al mínimo y 10 de reposo tapado.",
-    "Salsa: mezcla el gochujang con una cucharada de soja, el vinagre de arroz, el azúcar, una cucharadita de aceite de sésamo y una cucharada de agua.",
-    "Corta la zanahoria y el calabacín en bastones finos, lamina los champiñones y pica el ajo. Escalda los brotes de soja 1 minuto en agua hirviendo, escúrrelos y alíñalos con sal, una cucharadita de aceite de sésamo y la mitad del sésamo.",
+    "Pon a hervir agua en un cazo para escaldar. Salsa: mezcla el gochujang con una cucharada de soja, el vinagre de arroz, el azúcar, una cucharadita de aceite de sésamo y una cucharada de agua.",
+    "Corta la zanahoria y el calabacín en bastones finos, lamina los champiñones y pica el ajo. Escalda los brotes de soja 1 minuto en el agua hirviendo, escúrrelos y alíñalos con sal, una cucharadita de aceite de sésamo y la mitad del sésamo.",
     "En la misma agua escalda las espinacas 30 segundos, escúrrelas apretando y alíñalas con la mitad del ajo, sal y unas gotas de aceite de sésamo.",
     "Calienta media cucharada de aceite de oliva en una sartén a fuego fuerte y saltea por separado, 2 minutos cada una con una pizca de sal: primero la zanahoria, luego el calabacín y por último los champiñones con el resto del ajo y la otra cucharada de soja. Reserva cada verdura aparte.",
     "Fríe los huevos en la misma sartén con el aceite restante a fuego medio, hasta que la clara cuaje y la yema quede líquida.",

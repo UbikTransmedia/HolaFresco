@@ -32,8 +32,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela la zanahoria y córtala en bastones muy finos (o rállala gruesa); lamina los rábanos. Mezcla en un bol el vinagre de arroz, el azúcar y una pizca de sal hasta que se disuelvan, añade las verduras y deja encurtir 10 minutos removiendo de vez en cuando.",
-    "Precalienta el horno a 200 °C. Abre las barritas a lo largo sin separar las mitades y caliéntalas 4 minutos, hasta que la corteza cruja al apretarla.",
+    "Precalienta el horno a 200 °C. Pela la zanahoria y córtala en bastones muy finos (o rállala gruesa); lamina los rábanos. Mezcla en un bol el vinagre de arroz, el azúcar y una pizca de sal hasta que se disuelvan, añade las verduras y deja encurtir 10 minutos removiendo de vez en cuando.",
+    "Abre las barritas a lo largo sin separar las mitades y caliéntalas 4 minutos, hasta que la corteza cruja al apretarla.",
     "Mezcla la mayonesa con la sriracha. Escurre la caballa, desmígala en lascas grandes y aliña con la salsa de soja.",
     "Corta el pepino en tiras finas a lo largo con un pelador y deshoja el cilantro.",
     "Unta el interior del pan con la mayonesa picante, reparte la caballa, el pepino y la zanahoria y rábano bien escurridos.",
@@ -383,8 +383,8 @@ window.RECETAS_SEED.push({
     "Lleva a ebullición la leche y el agua con una pizca de sal. Vierte la polenta en forma de lluvia batiendo con varillas y cocina a fuego bajo 5–8 minutos (según el envase), removiendo, hasta que esté espesa y cremosa.",
     "Fuera del fuego, añade la mantequilla y el cheddar y bate hasta que estén fundidos. Tapa y reserva; si espesa demasiado, aligérala con un chorrito de leche caliente.",
     "Corta el bacon en tiras y dóralo en una sartén sin aceite a fuego medio 5 minutos, hasta que esté crujiente. Sácalo y deja la grasa en la sartén.",
-    "Mezcla las gambas secas con el pimentón, el tomillo, la cayena, sal y pimienta.",
-    "En la grasa del bacon, sofríe el pimiento y la parte blanca de la cebolleta picados 4 minutos. Añade el ajo laminado 30 segundos y luego las gambas: 1 minuto por lado, hasta que estén rosadas.",
+    "Pica el pimiento y la parte blanca de la cebolleta y lamina el ajo. Mezcla las gambas secas con el pimentón, el tomillo, la cayena, sal y pimienta.",
+    "En la grasa del bacon, sofríe el pimiento y la parte blanca de la cebolleta 4 minutos. Añade el ajo 30 segundos y luego las gambas: 1 minuto por lado, hasta que estén rosadas.",
     "Riega con el zumo del limón y 2 cucharadas de agua y raspa el fondo para formar una salsa corta.",
     "Sirve la polenta en plato hondo con las gambas y su salsa encima, el bacon desmenuzado y la parte verde de la cebolleta."
   ],
@@ -470,9 +470,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela el boniato, córtalo en dados de 2 cm y cuécelo en agua con sal 10–12 minutos, hasta que se pinche fácil sin deshacerse. Escúrrelo.",
-    "Dora el boniato en una sartén con media cucharada de aceite y el azúcar moreno a fuego medio 3–4 minutos, hasta que quede glaseado. Saltea el maíz 2 minutos en la misma sartén para que se tueste. Deja templar.",
-    "Prepara la crema: tritura o mezcla muy bien el zumo de las limas, la pasta de ají amarillo, el ajo y el jengibre rallados, unos tallos de cilantro y sal. Debe quedar ácida, picante y fluida. Enfríala en la nevera.",
+    "Pela el boniato, córtalo en dados de 2 cm y cuécelo en agua con sal 10–12 minutos, hasta que se pinche fácil sin deshacerse.",
+    "Mientras se cuece, prepara la crema: tritura o mezcla muy bien el zumo de las limas, la pasta de ají amarillo, el ajo y el jengibre rallados, unos tallos de cilantro y sal. Debe quedar ácida, picante y fluida. Enfríala en la nevera.",
+    "Escurre el boniato y dóralo en una sartén con media cucharada de aceite y el azúcar moreno a fuego medio 3–4 minutos, hasta que quede glaseado. Saltea el maíz 2 minutos en la misma sartén para que se tueste. Deja templar.",
     "Con un cuchillo bien afilado, corta la lubina en láminas finas de medio centímetro, en un solo movimiento y en sentido contrario a la fibra.",
     "Reparte las láminas en platos fríos, sin solaparlas mucho. Sálalas ligeramente.",
     "Justo antes de servir, napa el pescado con la crema de ají y espera 1–2 minutos, hasta que los bordes se vuelvan blanquecinos.",
@@ -515,7 +515,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara el aliño: machaca en un mortero el ajo y el chile con el azúcar hasta hacer una pasta. Añade el zumo de las limas, la salsa de pescado y 2 cucharadas de agua caliente. Debe ser ácido, salado y picante a partes iguales.",
     "Pon a hervir 3 dedos de agua en una cazuela ancha con una vaporera o colador metálico encima, y unas láminas de jengibre en el agua.",
-    "Despunta las judías verdes y corta el brócoli en ramilletes. Cuécelos al vapor tapados 6–7 minutos, hasta que estén tiernos pero verdes y crujientes. Resérvalos tapados.",
+    "Mientras el agua se calienta, despunta las judías verdes y corta el brócoli en ramilletes. Cuécelos al vapor tapados 6–7 minutos, hasta que estén tiernos pero verdes y crujientes. Resérvalos tapados.",
     "Pon los lomos de dorada sobre un plato que quepa en la vaporera, con la piel hacia arriba y unas tiras de jengibre encima.",
     "Cuece al vapor tapado 6–8 minutos, hasta que la carne esté blanca y se separe en láminas al presionar.",
     "Sirve el pescado sobre las verduras, riega todo con el aliño, unas gotas de aceite de sésamo, cebolleta en aros y cilantro."
@@ -560,8 +560,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el abadejo en tacos de 4 cm, mézclalo con la cúrcuma y una pizca de sal y resérvalo en la nevera.",
-    "Pica la cebolla y póchala en la cazuela con el aceite a fuego medio 8 minutos, hasta que esté dorada. Añade el ajo, el jengibre y el chile picados y rehoga 1 minuto.",
-    "Incorpora el comino, el cilantro molido y el pimentón, remueve 30 segundos y añade los tomates rallados. Cocina 6 minutos, hasta que la salsa se espese y el aceite asome por los bordes.",
+    "Pica la cebolla y póchala en la cazuela con el aceite a fuego medio 8 minutos, hasta que esté dorada; mientras, pica el ajo, el jengibre y el chile y ralla los tomates. Añade el ajo, el jengibre y el chile y rehoga 1 minuto.",
+    "Incorpora el comino, el cilantro molido y el pimentón, remueve 30 segundos y añade los tomates. Cocina 6 minutos, hasta que la salsa se espese y el aceite asome por los bordes.",
     "Vierte la leche de coco, 100 ml de agua y la pasta de tamarindo. Añade las judías verdes cortadas en trozos de 3 cm y cuece a fuego suave 8 minutos, hasta que estén casi tiernas.",
     "Prueba y ajusta: debe ser ácido, picante y ligeramente dulce. Corrige de sal.",
     "Introduce el pescado en la salsa, tapa y cuece a fuego muy suave 5–6 minutos sin remover (mueve la cazuela por las asas), hasta que los tacos estén opacos y se separen en láminas.",
@@ -604,9 +604,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el bonito en dados de 3 cm, sálalo ligeramente y resérvalo en la nevera.",
-    "Pica la cebolla, los pimientos y el ajo. Pocha todo en la cazuela con el aceite a fuego medio-bajo 12 minutos, hasta que esté muy blando.",
+    "Pica la cebolla, los pimientos y el ajo. Pocha todo en la cazuela con el aceite a fuego medio-bajo 12 minutos, hasta que esté muy blando. Mientras, calienta el caldo en un cazo y pela las patatas.",
     "Añade la carne de pimiento choricero, la guindilla y el tomate triturado y cocina 5 minutos, removiendo, hasta que se integre.",
-    "Pela las patatas y cáchalas: mete la punta del cuchillo y rompe en trozos irregulares de 3–4 cm para que suelten almidón. Rehógalas 2 minutos en el sofrito.",
+    "Cacha las patatas: mete la punta del cuchillo y rompe en trozos irregulares de 3–4 cm para que suelten almidón. Rehógalas 2 minutos en el sofrito.",
     "Cubre con el caldo caliente, sala y cuece a fuego medio 20–25 minutos, hasta que las patatas estén tiernas y el caldo haya espesado. Aplasta un par de trozos contra la pared de la cazuela si lo quieres más ligado.",
     "Apaga el fuego, introduce el bonito, menea la cazuela y tápala. Deja reposar 5 minutos: el calor residual lo cocina sin secarlo, debe quedar rosado en el centro.",
     "Sirve en plato hondo con perejil picado y el pan para mojar."
@@ -648,7 +648,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el bacalao en un cazo cubierto de agua fría, caliéntalo hasta que empiece a hervir y retíralo. Escúrrelo, guardando un vaso del agua, y desmígalo sin piel ni espinas.",
     "Pela las patatas, córtalas en rodajas de 1 cm y ponlas en una sartén con 2 cucharadas de aceite y una pizca de sal. Tapa y cocina a fuego bajo 20 minutos, volteando a media cocción, hasta que estén tiernas y algo doradas.",
-    "Mientras, en una cazuela con el resto del aceite, dora los ajos laminados y la guindilla 1 minuto. Añade la cebolla y los pimientos en tiras y pocha a fuego medio 12 minutos, hasta que estén blandos.",
+    "Mientras, lamina los ajos y corta la cebolla y los pimientos en tiras. En una cazuela con el resto del aceite, dora los ajos y la guindilla 1 minuto. Añade la cebolla y los pimientos y pocha a fuego medio 12 minutos, hasta que estén blandos.",
     "Agrega la carne de pimiento choricero y el tomate triturado, sala con prudencia y cocina 8 minutos, hasta que la salsa espese.",
     "Incorpora el bacalao desmigado y medio vaso del agua de cocción, mezcla y cocina 4 minutos a fuego suave para que el pescado se impregne y la salsa quede jugosa.",
     "Sirve el ajoarriero sobre las patatas confitadas con perejil picado."
@@ -735,10 +735,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas con piel en bastones de 1 cm, lávalas, sécalas muy bien y mézclalas con el aceite, el pimentón y sal. Extiéndelas en una bandeja con papel, sin amontonar.",
     "Hornea las patatas 35–40 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes por fuera.",
-    "Mientras, limpia los mejillones: arranca las barbas tirando hacia la punta y raspa las conchas. Desecha los que estén rotos o abiertos que no se cierran al golpearlos.",
-    "A falta de 10 minutos para las patatas, derrite la mantequilla en una cazuela grande y pocha la chalota, el apio y el ajo picados finos a fuego medio 4 minutos, hasta que estén blandos.",
+    "Mientras, limpia los mejillones: arranca las barbas tirando hacia la punta y raspa las conchas. Desecha los que estén rotos o abiertos que no se cierran al golpearlos. Pica finos la chalota, el apio, el ajo y el perejil.",
+    "A falta de 10 minutos para las patatas, derrite la mantequilla en una cazuela grande y pocha la chalota, el apio y el ajo a fuego medio 4 minutos, hasta que estén blandos.",
     "Sube el fuego al máximo, añade los mejillones y el vino, tapa y cocina 3–4 minutos sacudiendo la cazuela, hasta que se abran casi todos.",
-    "Destapa, vierte la nata, añade pimienta y el perejil picado y cocina 1 minuto más. Desecha los mejillones que sigan cerrados.",
+    "Destapa, vierte la nata, añade pimienta y el perejil y cocina 1 minuto más. Desecha los mejillones que sigan cerrados.",
     "Sirve los mejillones en boles con su caldo y las patatas al lado para mojar en la salsa."
   ],
   nutricion: { kcal: 720, prot: 30, hc: 64, grasa: 38 },
@@ -824,7 +824,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica las sardinas a cuchillo hasta obtener una pasta gruesa (o dales unos golpes de picadora). Mezcla con el pan rallado, el huevo, un ajo rallado, la mitad del cilantro y el perejil picados, 1 cucharadita de comino, 1 de pimentón y sal.",
     "Con las manos húmedas, forma albóndigas del tamaño de una nuez (salen unas 16) y déjalas en la nevera 15 minutos para que se asienten.",
-    "En la cazuela con 1,5 cucharadas de aceite, pocha la cebolla picada a fuego medio 8 minutos. Añade los otros ajos picados, el resto del comino y del pimentón y la cayena y remueve 30 segundos.",
+    "Mientras reposan, pica la cebolla y los otros ajos. En la cazuela con 1,5 cucharadas de aceite, pocha la cebolla a fuego medio 8 minutos. Añade los ajos, el resto del comino y del pimentón y la cayena y remueve 30 segundos.",
     "Agrega el tomate triturado, sal y medio vaso de agua y cuece 10 minutos, hasta que la salsa espese ligeramente.",
     "Coloca las albóndigas en la salsa en una sola capa, tapa y cuece a fuego suave 12 minutos sin remover; a mitad, gíralas con cuidado con una cuchara.",
     "Mientras, lleva el caldo a ebullición con el resto del aceite y una pizca de sal, viértelo sobre el cuscús, tapa 5 minutos y suéltalo con un tenedor. Mezcla con cilantro picado.",
@@ -1094,8 +1094,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela los langostinos dejando la cola y reserva las cabezas y cáscaras. Dóralas en una cazuela con un hilo de aceite 3 minutos aplastando las cabezas, cubre con el agua y cuece 20 minutos a fuego suave. Cuela y reserva el caldo (unos 350 ml).",
-    "Limpia los mejillones. Ábrelos en una sartén tapada con un chorrito del vino a fuego fuerte 2–3 minutos, retira una de las conchas y cuela el jugo sobre el caldo.",
-    "En la cazuela ancha con el resto del aceite, pocha la cebolla y el pimiento picados a fuego medio-bajo 15 minutos, hasta que estén muy tiernos. Añade 1 ajo picado 1 minuto.",
+    "Mientras se hace el caldo, limpia los mejillones y pica la cebolla, el pimiento y 1 ajo. Abre los mejillones en una sartén tapada con un chorrito del vino a fuego fuerte 2–3 minutos, retira una de las conchas y cuela el jugo sobre el caldo.",
+    "En la cazuela ancha con el resto del aceite, pocha la cebolla y el pimiento a fuego medio-bajo 15 minutos, hasta que estén muy tiernos. Añade el ajo picado 1 minuto.",
     "Sube el fuego, vierte el brandy y flambea con cuidado o deja que se evapore 1 minuto. Añade el resto del vino y el tomate triturado y cocina 10 minutos, hasta que la salsa espese.",
     "Machaca en un mortero las almendras, el otro ajo, el azafrán tostado y un poco de perejil con una pizca de sal, y dilúyelo con un poco de caldo. Incorpora la picada y el caldo a la cazuela y hierve 5 minutos.",
     "Añade la merluza en trozos de 4 cm sazonados y las almejas, tapa y cuece 3 minutos. Agrega los langostinos y los mejillones y cuece 2 minutos más, hasta que las almejas se abran y los langostinos estén rosados.",

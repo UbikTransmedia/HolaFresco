@@ -76,10 +76,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la ricotta con la ralladura de medio limón, una cucharada de su zumo, sal y pimienta. Reserva.",
+    "Pon a calentar un cazo con 1 litro de agua y el vinagre. Mientras, mezcla la ricotta con la ralladura de medio limón, una cucharada de su zumo, sal y pimienta, y reserva. Pica el ajo.",
     "Desmiga el pan en trozos pequeños. Dóralo en una sartén con 1 cucharada de aceite y el ajo picado a fuego medio, 3-4 minutos, removiendo hasta que esté crujiente y dorado. Sala y reserva sobre papel.",
     "Corta los calabacines a lo largo en láminas de medio centímetro. Úntalas con el resto del aceite y hazlas en la plancha muy caliente 2 minutos por lado, hasta que tengan marcas y estén tiernas pero firmes. Sala.",
-    "Lleva a hervir suave un cazo con 1 litro de agua y el vinagre. Casca cada huevo en un colador fino para quitar la clara líquida y luego en un vaso.",
+    "Baja el agua del cazo a un hervor suave. Casca cada huevo en un colador fino para quitar la clara líquida y luego en un vaso.",
     "Crea un remolino en el agua y deja caer los huevos de uno en uno. Cuécelos 3 minutos, hasta que la clara esté opaca y la yema siga blanda al tacto. Sácalos con una espumadera.",
     "Extiende la ricotta en la base de cada plato, coloca encima las láminas de calabacín en ondas y corona con el huevo poché.",
     "Termina con las migas, la albahaca rota con las manos, el resto de la ralladura de limón y un hilo de aceite crudo."
@@ -160,7 +160,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 210 ml de agua y una pizca de sal: lleva a hervor, tapa y deja 12 minutos a fuego mínimo. Apaga y deja reposar tapado 5 minutos.",
-    "Corta los tomates en gajos, pica el blanco de la cebolleta y el jengibre y corta el verde en aros. Bate los huevos con una pizca de sal y unas gotas de aceite de sésamo.",
+    "Mientras se cuece el arroz, corta los tomates en gajos, pica el blanco de la cebolleta y el jengibre y corta el verde en aros. Bate los huevos con una pizca de sal y unas gotas de aceite de sésamo.",
     "Calienta el wok a fuego fuerte con 1 cucharada de aceite hasta que humee. Vierte los huevos, deja que se inflen 10 segundos y remueve en grandes pliegues 30-40 segundos: sácalos aún babosos.",
     "Añade el resto del aceite, el jengibre y el blanco de la cebolleta y saltea 30 segundos.",
     "Incorpora el tomate, el tomate concentrado, el azúcar y la soja. Saltea 3-4 minutos, hasta que los gajos empiecen a romperse y suelten una salsa brillante; si queda seco, añade 3 cucharadas de agua.",
@@ -246,10 +246,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el yogur con la sriracha y una pizca de sal. Corta los rábanos en láminas muy finas y alíñalos con unas gotas de lima.",
+    "Pon a calentar un cazo con agua y el vinagre. Mientras, mezcla el yogur con la sriracha y una pizca de sal. Corta los rábanos en láminas muy finas y alíñalos con unas gotas de lima.",
     "Tuesta las semillas de calabaza en una sartén seca 2 minutos, hasta que empiecen a saltar.",
     "Machaca el aguacate con un tenedor junto con el zumo de media lima, sal y pimienta, dejando algún tropezón.",
-    "Pon a hervir suave un cazo con agua y el vinagre. Haz un remolino y escalfa los huevos 3 minutos, hasta que la clara esté cuajada y la yema líquida. Escúrrelos sobre papel.",
+    "Cuando el agua hierva suave, haz un remolino y escalfa los huevos 3 minutos, hasta que la clara esté cuajada y la yema líquida. Escúrrelos sobre papel.",
     "Mientras, tuesta el pan de centeno en la tostadora o en una sartén, hasta que esté bien crujiente.",
     "Monta: una capa de yogur picante, el aguacate, los canónigos, el huevo poché y los rábanos. Termina con las semillas, pimienta y gajos de lima."
   ],
@@ -373,7 +373,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las tortillas en 6 triángulos, píntalas con 2 cucharadas de aceite y sal y hornéalas 10-12 minutos en una bandeja, dándoles la vuelta a mitad, hasta que estén crujientes.",
-    "Mientras, quita el rabo y las semillas a los guajillos y tuéstalos 20 segundos por lado en una sartén seca; remójalos 5 minutos en agua caliente.",
+    "Mientras, quita el rabo y las semillas a los guajillos y tuéstalos 20 segundos por lado en una sartén seca; remójalos 5 minutos en agua caliente. Corta la cebolla morada en aros finos.",
     "Tritura los guajillos escurridos con los tomates, la cebolla, el ajo y el caldo hasta obtener una salsa fina.",
     "Vierte la salsa en una sartén grande con 1 cucharadita de aceite y cocínala a fuego medio 8 minutos, hasta que oscurezca y espese un poco. Sala.",
     "Fríe los huevos en otra sartén con el aceite restante, dejando la yema líquida.",
@@ -508,11 +508,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia y corta el puerro en rodajas y pela y trocea la patata en dados pequeños. Rehógalos en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos, sin que se doren.",
-    "Añade el caldo, lleva a ebullición y cuece 10 minutos, hasta que la patata esté tierna. Agrega los guisantes y cuece solo 3 minutos más para que conserven el color.",
+    "Añade el caldo, lleva a ebullición y cuece 10 minutos, hasta que la patata esté tierna. Mientras, pon a hervir un cazo de agua para los huevos, corta el pan en dados y dóralo en una sartén con unas gotas de aceite 3 minutos, hasta que esté crujiente. Agrega los guisantes a la crema y cuece solo 3 minutos más para que conserven el color.",
     "Retira del fuego, añade las hojas de menta y tritura hasta obtener una crema fina. Prueba de sal y pimienta.",
     "Cuece los huevos en agua hirviendo exactamente 6 minutos y pásalos a agua con hielo 2 minutos. Pélalos con cuidado.",
-    "Corta el pan en dados y dóralo en una sartén con unas gotas de aceite 3 minutos, hasta que esté crujiente.",
-    "Tritura el cebollino con el resto del aceite y una pizca de sal para hacer un aceite verde.",
+    "Mientras se cuecen los huevos, tritura el cebollino con el resto del aceite y una pizca de sal para hacer un aceite verde.",
     "Sirve la crema caliente con una cucharada de queso fresco, dos huevos abiertos por la mitad (la yema debe fluir), los picatostes y unas gotas de aceite de cebollino."
   ],
   nutricion: { kcal: 420, prot: 22, hc: 40, grasa: 18 },
@@ -640,9 +639,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla el calabacín, mézclalo con media cucharadita de sal y déjalo en un colador 10 minutos. Después escúrrelo con las manos o en un paño, apretando fuerte: debe quedar casi seco.",
-    "Precalienta el horno a 210 °C con aire y cubre una bandeja con papel.",
-    "Mezcla el calabacín con el feta desmenuzado, el huevo, la cebolleta picada, la mitad del eneldo y la menta picados, el pan rallado y pimienta. Debe quedar una pasta que se pueda moldear.",
+    "Precalienta el horno a 210 °C con aire y cubre una bandeja con papel. Ralla el calabacín, mézclalo con media cucharadita de sal y déjalo en un colador 10 minutos.",
+    "Mientras, pica la cebolleta, el eneldo y la menta y desmenuza el feta. Después escurre el calabacín con las manos o en un paño, apretando fuerte: debe quedar casi seco.",
+    "Mezcla el calabacín con el feta, el huevo, la cebolleta, la mitad del eneldo y la menta, el pan rallado y pimienta. Debe quedar una pasta que se pueda moldear.",
     "Forma 8 tortitas de 1,5 cm de grosor, colócalas en la bandeja y píntalas con 1 cucharada de aceite.",
     "Hornéalas 22-25 minutos, dándoles la vuelta a mitad, hasta que estén doradas por las dos caras y firmes.",
     "Mientras, haz el tzatziki: ralla y escurre el pepino y mézclalo con el yogur, el ajo rallado, el resto del eneldo y sal. Corta el tomate en gajos y alíñalo con las aceitunas, el orégano, el resto del aceite y sal.",
@@ -730,10 +729,10 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", opcional: true, nota: "para mojar" }
   ],
   pasos: [
-    "Pela la patata, córtala en dados de 1,5 cm y fríela a fuego medio en una sartén con 2 cucharadas de aceite, tapada los primeros 8 minutos y destapada 5 más, hasta que esté tierna y dorada. Sala y reserva.",
-    "En la misma sartén, pocha la cebolla, el pimiento y el ajo picados con el resto del aceite 10 minutos, hasta que estén blandos.",
-    "Aparta del fuego, añade el pimentón, remueve unos segundos y vierte el tomate y el caldo. Cocina 10 minutos a fuego medio, hasta que espese. Sala.",
-    "Precalienta el horno a 200 °C. Corta los espárragos en trozos de 3 cm, desechando la parte dura, y saltéalos 2 minutos en una sartén con unas gotas de aceite junto con los guisantes.",
+    "Pela la patata, córtala en dados de 1,5 cm y fríela a fuego medio en una sartén con 2 cucharadas de aceite, tapada los primeros 8 minutos y destapada 5 más, hasta que esté tierna y dorada. Mientras, pica la cebolla, el pimiento y el ajo. Sala la patata y reserva.",
+    "En la misma sartén, pocha la cebolla, el pimiento y el ajo con el resto del aceite 10 minutos, hasta que estén blandos.",
+    "Aparta del fuego, añade el pimentón, remueve unos segundos y vierte el tomate y el caldo. Cocina 10 minutos a fuego medio, hasta que espese. Sala. Mientras, precalienta el horno a 200 °C.",
+    "Corta los espárragos en trozos de 3 cm, desechando la parte dura, y saltéalos 2 minutos en una sartén con unas gotas de aceite junto con los guisantes.",
     "Reparte el sofrito en dos cazuelitas de barro o una fuente, añade las patatas, los espárragos y los guisantes, y haz cuatro huecos.",
     "Casca un huevo en cada hueco, sala las claras y hornea 8-10 minutos, hasta que la clara esté blanca y cuajada y la yema todavía tiemble.",
     "Saca del horno, espolvorea perejil picado y sirve en la misma cazuela, con pan para mojar."
@@ -820,7 +819,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 190 °C. Pela las patatas y córtalas en rodajas de medio centímetro; corta la cebolla en juliana y el pimiento en tiras.",
     "Mezcla en una fuente las patatas, la cebolla y el pimiento con 3 cucharadas de aceite, sal y pimienta. Riega con el vino y hornea 35-40 minutos, removiendo a mitad, hasta que las patatas estén tiernas y doradas por los bordes.",
-    "Cuando falten 10 minutos, limpia las setas con un paño y córtalas en tiras. Saltéalas en una sartén muy caliente con el resto del aceite 4-5 minutos, sin remover al principio para que se doren. Añade el ajo laminado 1 minuto al final, sala y retira.",
+    "Cuando falten 10 minutos, limpia las setas con un paño, córtalas en tiras y lamina el ajo. Saltea las setas en una sartén muy caliente con el resto del aceite 4-5 minutos, sin remover al principio para que se doren. Añade el ajo 1 minuto al final, sala y retira.",
     "Mezcla las setas con las patatas en la fuente y haz cuatro huecos.",
     "Casca los huevos en los huecos y vuelve a hornear 6-8 minutos, hasta que las claras estén cuajadas y las yemas líquidas. (También puedes freírlos aparte con puntilla y ponerlos encima.)",
     "Saca la fuente, rompe las yemas con un tenedor sobre las patatas para que lo empapen todo, rocía con el aceite de trufa y espolvorea perejil picado. Sirve enseguida."
@@ -917,10 +916,10 @@ window.RECETAS_SEED.push({
     "Pon los anacardos en remojo en agua caliente. Cuece la patata con piel en agua con sal 20-25 minutos, hasta que esté tierna; pélala y deja que se enfríe y pierda el vapor.",
     "Precalienta el horno a 210 °C. Ralla el paneer y mézclalo con la patata chafada, la maicena, la mitad del cilantro picado, media cucharadita de garam masala y sal. Forma 10 bolas, mete una pasa en el centro de cada una y ciérralas bien.",
     "Coloca las koftas en una bandeja con papel, píntalas con 1 cucharada de aceite y hornéalas 20 minutos, girándolas a mitad, hasta que estén doradas y firmes.",
-    "Mientras, pica la cebolla y póchala en una cazuela con el resto del aceite y la mantequilla 8 minutos. Añade el ajo y el jengibre rallados y las vainas de cardamomo aplastadas y cocina 1 minuto.",
+    "Mientras se hornean las koftas, lava el arroz y cuécelo con 210 ml de agua y sal: hervor, tapa, 12 minutos a fuego mínimo y 5 de reposo.",
+    "Al mismo tiempo, pica la cebolla y póchala en una cazuela con el resto del aceite y la mantequilla 8 minutos. Añade el ajo y el jengibre rallados y las vainas de cardamomo aplastadas y cocina 1 minuto.",
     "Agrega el pimentón, el resto del garam masala y el tomate. Cuece 10 minutos a fuego medio. Retira las vainas de cardamomo, añade los anacardos escurridos y tritura todo hasta obtener una salsa muy fina.",
     "Devuelve la salsa a la cazuela con la nata, el azúcar, 100 ml de agua y sal. Cuece 5 minutos a fuego suave, hasta que napé el dorso de una cuchara.",
-    "Lava el arroz y cuécelo con 210 ml de agua y sal: hervor, tapa, 12 minutos a fuego mínimo y 5 de reposo.",
     "Pon las koftas en el plato y vierte la salsa caliente justo al servir (si las dejas en ella, se deshacen). Termina con cilantro y acompaña con el arroz."
   ],
   nutricion: { kcal: 820, prot: 30, hc: 78, grasa: 44 },
@@ -964,12 +963,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las setas y los champiñones y pícalos a cuchillo en trozos pequeños. Pica las chalotas y el ajo.",
+    "Pon a calentar una cazuela grande de agua con sal para los canelones. Limpia las setas y los champiñones y pícalos a cuchillo en trozos pequeños. Pica las chalotas y el ajo.",
     "Saltea las setas en una sartén grande con el aceite a fuego fuerte 8-10 minutos, en dos tandas si no caben, hasta que suelten el agua, se evapore y empiecen a dorarse. Añade las chalotas, el ajo y las hojas de tomillo y cocina 4 minutos más a fuego medio.",
     "Vierte el vino y deja que se evapore. Sala, pimienta y deja templar. Mezcla con la ricotta y la mitad del queso azul desmenuzado: será el relleno.",
-    "Cuece las placas de canelón en abundante agua con sal según el envase (o hidrátalas si son precocidas) y extiéndelas sobre un paño limpio.",
+    "Precalienta el horno a 200 °C. Cuece las placas de canelón en el agua hirviendo según el envase (o hidrátalas si son precocidas) y extiéndelas sobre un paño limpio. Mientras, calienta la leche en un cazo.",
     "Haz la bechamel: derrite la mantequilla, añade la harina y cocina 2 minutos. Incorpora la leche caliente poco a poco batiendo y cuece 8 minutos, hasta que esté cremosa. Añade el resto del queso azul, la nuez moscada y sal; remueve hasta que se funda.",
-    "Precalienta el horno a 200 °C. Rellena cada placa con una línea de relleno, enróllala y colócala con el cierre hacia abajo en una fuente con una capa fina de bechamel.",
+    "Rellena cada placa con una línea de relleno, enróllala y colócala con el cierre hacia abajo en una fuente con una capa fina de bechamel.",
     "Cubre con el resto de la bechamel, espolvorea el parmesano rallado y hornea 20 minutos, gratinando al final 3-4 minutos, hasta que la superficie esté dorada y burbujeante.",
     "Mientras, tuesta las avellanas en una sartén seca, pícalas gruesas y repártelas sobre los canelones al servir. Deja reposar 5 minutos antes de cortarlos."
   ],
@@ -1062,11 +1061,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos en agua hirviendo, enfríalos y pélalos.",
-    "Pica las cebollas y el ajo y póchalos en una sartén con el aceite a fuego medio-bajo 15 minutos, hasta que estén muy blandos y dorados.",
+    "Cuece los huevos 10 minutos en agua hirviendo, enfríalos y pélalos. Mientras se cuecen, pica las cebollas y el ajo.",
+    "Pocha las cebollas y el ajo en una sartén con el aceite a fuego medio-bajo 15 minutos, hasta que estén muy blandos y dorados.",
     "Añade el comino, el pimentón y el orégano, remueve 30 segundos e incorpora las lentejas escurridas y el caldo. Cocina 8-10 minutos, hasta que el líquido casi desaparezca y quede un pino jugoso. Sala.",
-    "Tritura el maíz con la leche, la maicena y las hojas de albahaca, dejándolo algo rústico. Cuécelo en un cazo con la mantequilla y una pizca de sal a fuego medio 8-10 minutos, removiendo sin parar, hasta que espese como un puré denso que se despega del fondo.",
-    "Precalienta el horno a 200 °C. Reparte el pino de lentejas en dos cazuelitas de barro o una fuente pequeña. Distribuye las pasas, las aceitunas y los huevos duros en cuartos.",
+    "Precalienta el horno a 200 °C. Tritura el maíz con la leche, la maicena y las hojas de albahaca, dejándolo algo rústico. Cuécelo en un cazo con la mantequilla y una pizca de sal a fuego medio 8-10 minutos, removiendo sin parar, hasta que espese como un puré denso que se despega del fondo.",
+    "Reparte el pino de lentejas en dos cazuelitas de barro o una fuente pequeña. Distribuye las pasas, las aceitunas y los huevos duros en cuartos.",
     "Cubre con la pasta de choclo, alisa con una espátula y espolvorea el azúcar por encima.",
     "Hornea 25-30 minutos y gratina los últimos 3 minutos, hasta que la superficie esté dorada y caramelizada en algunos puntos. Deja reposar 5 minutos antes de servir."
   ],

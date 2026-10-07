@@ -161,9 +161,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la carne en una cazuela con 1 cebolla partida, 1 ajo, el laurel, sal y agua que la cubra. Lleva a ebullición, espuma y cuece tapada a fuego suave 90 min, hasta que se deshaga al pincharla. Reserva 300 ml del caldo.",
+    "Pon la carne en una cazuela con 1 cebolla partida, 1 ajo, el laurel, sal y agua que la cubra. Lleva a ebullición, espuma y cuece tapada a fuego suave 90 min, hasta que se deshaga al pincharla. Mientras, corta la otra cebolla en juliana y los pimientos en tiras y pica los 3 ajos. Reserva 300 ml del caldo.",
     "Saca la carne, deja que se temple y deshiláchala con dos tenedores siguiendo la fibra.",
-    "En la cazuela limpia calienta el aceite y sofríe la otra cebolla en juliana, los pimientos en tiras y los 3 ajos picados 10 min a fuego medio, hasta que estén blandos y dorados.",
+    "En la cazuela limpia calienta el aceite y sofríe la cebolla, los pimientos y los ajos 10 min a fuego medio, hasta que estén blandos y dorados.",
     "Añade el comino y el orégano, remueve 30 segundos y vierte el vino. Cuando evapore, agrega el tomate triturado y cocina 8 min.",
     "Incorpora la carne deshilachada y el caldo reservado, salpimienta y cuece 20 min destapado, removiendo de vez en cuando, hasta que la salsa esté espesa y envuelva la carne.",
     "Mientras, cuece el arroz basmati lavado con 1,5 veces su volumen de agua y sal: 12 min tapado y 5 de reposo.",
@@ -210,11 +210,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el cordero. Calienta el aceite en una cazuela de fondo grueso a fuego fuerte y dóralo en 2 tandas, 4 min por tanda. Resérvalo.",
-    "Baja a fuego medio y sofríe las cebollas en juliana 10 min hasta que estén muy blandas. Añade el ajo y el jengibre rallados, la cúrcuma, el comino y el pimentón y remueve 1 min.",
+    "Corta las cebollas en juliana y ralla el ajo y el jengibre. Salpimienta el cordero. Calienta el aceite en una cazuela de fondo grueso a fuego fuerte y dóralo en 2 tandas, 4 min por tanda. Resérvalo.",
+    "Baja a fuego medio y sofríe las cebollas 10 min hasta que estén muy blandas. Añade el ajo y el jengibre, la cúrcuma, el comino y el pimentón y remueve 1 min.",
     "Devuelve el cordero, añade la rama de canela y el caldo caliente. Tapa y cuece a fuego mínimo 1 h 45 min, removiendo de vez en cuando; la carne debe quedar muy tierna.",
     "Agrega las ciruelas y la miel y cuece 20 min más destapado para que la salsa espese y las ciruelas se hinchen.",
-    "Tuesta las almendras en una sartén seca 3 min hasta que estén doradas y pícalas gruesas. Tuesta también el sésamo 30 segundos.",
+    "Mientras, tuesta las almendras en una sartén seca 3 min hasta que estén doradas y pícalas gruesas. Tuesta también el sésamo 30 segundos.",
     "Pon el cuscús en un bol, cúbrelo con 150 ml de agua hirviendo con sal, tapa 5 min y desgránalo con un tenedor.",
     "Retira la canela, rectifica de sal y sirve el tajine sobre el cuscús con las almendras, el sésamo y el cilantro picado."
   ],
@@ -303,8 +303,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz basmati hasta que el agua salga clara y cuécelo en una cazuela tapada con 1,5 veces su volumen de agua y sal: 12 min a fuego mínimo y 5 min de reposo.",
-    "Calienta el aceite en una sartén honda a fuego medio y sofríe la cebolla picada 8 min hasta que esté dorada. Añade el ajo y el jengibre rallados y, a 1 min, el garam masala, la cúrcuma, el comino, el cilantro molido y la cayena. Remueve 30 segundos.",
+    "Lava el arroz basmati hasta que el agua salga clara y cuécelo en una cazuela tapada con 1,5 veces su volumen de agua y sal: 12 min a fuego mínimo y 5 min de reposo. Mientras se cuece, pica la cebolla y ralla el ajo, el jengibre y los tomates.",
+    "Calienta el aceite en una sartén honda a fuego medio y sofríe la cebolla 8 min hasta que esté dorada. Añade el ajo y el jengibre y, a 1 min, el garam masala, la cúrcuma, el comino, el cilantro molido y la cayena. Remueve 30 segundos.",
     "Sube el fuego, añade la ternera picada y saltéala 6 min desmenuzándola hasta que esté dorada y suelta.",
     "Agrega los tomates rallados, sal y 100 ml de agua. Tapa y cuece 10 min a fuego medio-bajo, hasta que la salsa se haya reducido y la grasa asome por los bordes.",
     "Incorpora los guisantes y cuece 4 min. Aparta del fuego y añade el yogur removiendo.",
@@ -396,7 +396,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz en una cazuela con agua hirviendo y sal 12 min, escúrrelo y resérvalo. Precalienta el horno a 190 °C.",
-    "Corta la tapa de los pimientos y retira las semillas y las venas blancas con cuidado de no romperlos.",
+    "Mientras se cuece el arroz, corta la tapa de los pimientos y retira las semillas y las venas blancas con cuidado de no romperlos. Pica la cebolla, los ajos y el perejil.",
     "Calienta el aceite en una sartén y sofríe la cebolla y los ajos picados 6 min. Sube el fuego, añade la ternera y saltéala 5 min desmenuzándola. Incorpora el pimentón, el comino, la mitad del tomate frito, el arroz, el perejil picado, sal y pimienta.",
     "Rellena los pimientos con la mezcla sin apretar, pon las tapas y colócalos de pie en una fuente ajustada. Mezcla el resto del tomate frito con el caldo y viértelo en el fondo.",
     "Cubre con papel de aluminio y hornea 30 min, hasta que los pimientos estén tiernos al pincharlos.",
@@ -442,11 +442,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la carne. Calienta el aceite en una cazuela a fuego fuerte y dórala en 2 tandas, 3 min por tanda. Resérvala.",
-    "Baja a fuego medio-bajo y pocha las cebollas en juliana 12 min, removiendo, hasta que estén muy blandas y doradas. Añade el ajo picado y el pimiento en dados y sofríe 3 min más.",
+    "Corta las cebollas en juliana y el pimiento en dados y pica el ajo. Salpimienta la carne. Calienta el aceite en una cazuela a fuego fuerte y dórala en 2 tandas, 3 min por tanda. Resérvala.",
+    "Baja a fuego medio-bajo y pocha las cebollas 12 min, removiendo, hasta que estén muy blandas y doradas. Añade el ajo y el pimiento y sofríe 3 min más.",
     "Aparta la cazuela del fuego, añade los pimentones, el comino y el tomate concentrado y remueve 30 segundos: el pimentón amarga si se quema.",
-    "Devuelve la carne, añade el caldo caliente y el laurel. Tapa y cuece a fuego mínimo 1 h 45 min, removiendo de vez en cuando.",
-    "Añade la patata en dados grandes y la zanahoria en rodajas y cuece 30 min más, hasta que estén tiernas y la carne se deshaga con el tenedor. Si la salsa está clara, destapa los últimos 10 min.",
+    "Devuelve la carne, añade el caldo caliente y el laurel. Tapa y cuece a fuego mínimo 1 h 45 min, removiendo de vez en cuando. Mientras, pela la patata y córtala en dados grandes y corta la zanahoria en rodajas.",
+    "Añade la patata y la zanahoria y cuece 30 min más, hasta que estén tiernas y la carne se deshaga con el tenedor. Si la salsa está clara, destapa los últimos 10 min.",
     "Rectifica de sal, retira el laurel y sirve con una cucharada de yogur en cada plato y el perejil picado."
   ],
   nutricion: { kcal: 550, prot: 48, hc: 40, grasa: 22 },
@@ -486,11 +486,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el cordero. Calienta el aceite en una cazuela a fuego fuerte y dóralo en 2 tandas, 4 min por tanda, hasta que tome color. Resérvalo.",
-    "Baja a fuego medio, añade los taquitos de jamón y sofríelos 1 min. Incorpora la cebolla picada, los pimientos en tiras y los ajos laminados y pocha 10 min hasta que estén blandos.",
+    "Pica la cebolla, corta los pimientos en tiras y lamina los ajos. Salpimienta el cordero. Calienta el aceite en una cazuela a fuego fuerte y dóralo en 2 tandas, 4 min por tanda, hasta que tome color. Resérvalo.",
+    "Baja a fuego medio, añade los taquitos de jamón y sofríelos 1 min. Incorpora la cebolla, los pimientos y los ajos y pocha 10 min hasta que estén blandos.",
     "Añade el tomate triturado y cocina 5 min hasta que reduzca. Espolvorea el pimentón y remueve 30 segundos.",
-    "Devuelve el cordero, vierte el vino y deja reducir 2 min. Añade el laurel y 200 ml de agua caliente, tapa y cuece a fuego suave 45 min, removiendo de vez en cuando.",
-    "Pela las patatas, córtalas en trozos medianos y añádelas a la cazuela con un poco de sal. Cuece 25 min más tapado, hasta que estén tiernas y el cordero se deshaga.",
+    "Devuelve el cordero, vierte el vino y deja reducir 2 min. Añade el laurel y 200 ml de agua caliente, tapa y cuece a fuego suave 45 min, removiendo de vez en cuando. Mientras, pela las patatas y córtalas en trozos medianos.",
+    "Añade las patatas a la cazuela con un poco de sal. Cuece 25 min más tapado, hasta que estén tiernas y el cordero se deshaga.",
     "Deja reposar 5 min fuera del fuego, retira el laurel y sirve bien caliente."
   ],
   nutricion: { kcal: 720, prot: 50, hc: 48, grasa: 36 },
@@ -537,8 +537,7 @@ window.RECETAS_SEED.push({
     "Tuesta el coco rallado en una sartén seca a fuego medio 3-4 min removiendo hasta que esté dorado. Resérvalo.",
     "Calienta el aceite en una cazuela amplia y fríe la pasta a fuego medio 8 min, removiendo, hasta que oscurezca y huela a especias cocinadas.",
     "Añade la carne, la leche de coco, la canela, el azúcar, 200 ml de agua y sal. Lleva a ebullición y baja a fuego mínimo, sin tapar. Cuece 2 h 30 min removiendo cada 20 min, hasta que el líquido se haya evaporado casi por completo y la grasa del coco se separe.",
-    "Cuando la salsa esté muy espesa, sigue removiendo 15 min a fuego suave: la carne se 'fríe' en su propia grasa y toma un color marrón oscuro. Añade el coco tostado en los últimos 10 min.",
-    "Cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado y 5 de reposo.",
+    "Cuando la salsa esté muy espesa, sigue removiendo 15 min a fuego suave: la carne se 'fríe' en su propia grasa y toma un color marrón oscuro. Añade el coco tostado en los últimos 10 min. Mientras, cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado y 5 de reposo.",
     "Retira la canela y sirve el rendang con el arroz, rodajas de pepino y gajos de la lima."
   ],
   nutricion: { kcal: 630, prot: 48, hc: 52, grasa: 26 },
@@ -624,12 +623,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el cordero en un bol con el yogur, la mitad del pimentón, del garam masala, del cilantro y del comino, y sal. Déjalo marinar 30 min a temperatura ambiente (o toda la noche en la nevera).",
-    "Calienta el aceite en una cazuela a fuego medio y dora las cebollas picadas 12 min hasta que estén bien doradas. Añade el ajo y el jengibre rallados, la canela, el cardamomo ligeramente aplastado y el laurel y sofríe 1 min.",
+    "Mezcla el cordero en un bol con el yogur, la mitad del pimentón, del garam masala, del cilantro y del comino, y sal. Déjalo marinar 30 min a temperatura ambiente (o toda la noche en la nevera). Mientras, pica las cebollas y ralla el ajo y el jengibre.",
+    "Calienta el aceite en una cazuela a fuego medio y dora las cebollas 12 min hasta que estén bien doradas. Añade el ajo y el jengibre, la canela, el cardamomo ligeramente aplastado y el laurel y sofríe 1 min.",
     "Incorpora el resto de las especias y la cúrcuma, remueve 30 segundos y añade el tomate triturado. Cocina 5 min hasta que espese.",
     "Añade el cordero con toda su marinada y 150 ml de agua caliente. Tapa y cuece a fuego mínimo 75 min, removiendo de vez en cuando, hasta que la carne esté muy tierna.",
-    "Destapa y cuece 15 min más para que la salsa espese y tome un color rojo intenso. Rectifica de sal.",
-    "Lava el arroz basmati y cuécelo con 1,5 veces su volumen de agua y sal: 12 min tapado y 5 de reposo.",
+    "Destapa y cuece 15 min más para que la salsa espese y tome un color rojo intenso. Rectifica de sal. Mientras, lava el arroz basmati y cuécelo con 1,5 veces su volumen de agua y sal: 12 min tapado y 5 de reposo.",
     "Retira la canela, las vainas y el laurel y sirve el rogan josh con el arroz y el cilantro picado."
   ],
   nutricion: { kcal: 740, prot: 48, hc: 60, grasa: 34 },
@@ -671,9 +669,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz basmati y cuécelo en una cazuela tapada con 1,5 veces su volumen de agua y sal: 12 min a fuego mínimo y 5 min de reposo.",
+    "Lava el arroz basmati y cuécelo en una cazuela tapada con 1,5 veces su volumen de agua y sal: 12 min a fuego mínimo y 5 min de reposo. Mientras se cuece, pica la cebolla y el ajo y lamina los champiñones.",
     "Salpimienta las tiras de ternera. Calienta el aceite en una sartén amplia a fuego muy fuerte y saltéalas 1 min en 2 tandas, solo hasta que se doren por fuera. Resérvalas.",
-    "Baja a fuego medio, funde la mantequilla y sofríe la cebolla picada 5 min. Añade los champiñones laminados y saltéalos 5 min hasta que doren y pierdan el agua. Incorpora el ajo picado.",
+    "Baja a fuego medio, funde la mantequilla y sofríe la cebolla 5 min. Añade los champiñones y saltéalos 5 min hasta que doren y pierdan el agua. Incorpora el ajo.",
     "Espolvorea la harina y el pimentón, remueve 30 segundos y vierte el caldo y la nata. Añade la mostaza y cuece 3 min hasta que la salsa espese.",
     "Devuelve la carne con sus jugos y añade los pepinillos en rodajas. Calienta 1 min sin que hierva para que la ternera no se endurezca. Rectifica de sal y pimienta.",
     "Sirve sobre el arroz con el perejil picado."
@@ -768,10 +766,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en una cazuela con agua y sal 20 min, hasta que estén muy tiernas.",
-    "Mientras, calienta el aceite en una sartén y sofríe la cebolla, las zanahorias y el apio en dados pequeños 8 min. Añade el ajo picado 1 min más.",
-    "Sube el fuego, añade el cordero picado y dóralo 6 min desmenuzándolo. Incorpora el tomate concentrado y la harina, remueve 1 min y vierte el caldo, la soja, el tomillo y el romero picado. Cuece 15 min a fuego suave hasta que espese. Añade los guisantes, salpimienta y retira del fuego.",
+    "Mientras, corta la cebolla, las zanahorias y el apio en dados pequeños y pica el ajo. Calienta el aceite en una sartén y sofríe la cebolla, las zanahorias y el apio 8 min. Añade el ajo 1 min más.",
+    "Sube el fuego, añade el cordero picado y dóralo 6 min desmenuzándolo. Incorpora el tomate concentrado y la harina, remueve 1 min y vierte el caldo, la soja, el tomillo y el romero picado. Cuece 15 min a fuego suave hasta que espese; mientras, precalienta el horno a 200 °C. Añade los guisantes, salpimienta y retira del fuego.",
     "Escurre las patatas, pásalas por el pasapurés o aplástalas y mézclalas con la mantequilla, la leche caliente, la nuez moscada, sal y pimienta hasta tener un puré cremoso.",
-    "Precalienta el horno a 200 °C. Extiende la carne en una fuente, cúbrela con el puré y márcalo con un tenedor para que haga surcos crujientes. Reparte el queso rallado.",
+    "Extiende la carne en una fuente, cúbrela con el puré y márcalo con un tenedor para que haga surcos crujientes. Reparte el queso rallado.",
     "Hornea 20-25 min hasta que la superficie esté dorada y la salsa burbujee por los bordes.",
     "Deja reposar 5 min antes de servir en porciones."
   ],
@@ -813,7 +811,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla las tiras de ternera en un bol con 1 cda de soja, la maicena y pimienta. Déjalas 5 min mientras preparas el resto.",
-    "Separa el brócoli en ramilletes pequeños y pela y corta el tronco en rodajas finas. Mezcla en un vaso la soja restante, el vinagre, la miel, el aceite de sésamo y 2 cda de agua.",
+    "Separa el brócoli en ramilletes pequeños y pela y corta el tronco en rodajas finas. Pica el ajo y el jengibre y corta el chile y la cebolleta en rodajas. Mezcla en un vaso la soja restante, el vinagre, la miel, el aceite de sésamo y 2 cda de agua.",
     "Calienta 1 cda de aceite en el wok a fuego máximo hasta que humee. Saltea la carne en 2 tandas, 1 min cada una, solo hasta que se dore. Resérvala.",
     "Añade la otra cda de aceite, el brócoli y 3 cda de agua, tapa y cuece 3 min; destapa y saltea 1 min hasta que el agua evapore y el brócoli esté verde intenso y al dente.",
     "Aparta el brócoli a los lados, pon en el centro el ajo y el jengibre picados y el chile en rodajas y saltea 20 segundos. Vierte la salsa y mezcla todo 1 min hasta que brille.",
@@ -996,8 +994,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 160 °C. Haz 3-4 cortes en la membrana del borde de cada rodaja para que no se curve. Salpimienta y enharina ligeramente. Calienta el aceite en una cazuela apta para horno y dora las rodajas 4 min por lado. Resérvalas.",
-    "Baja a fuego medio y sofríe la cebolla, la zanahoria y el apio en dados pequeños con 2 ajos picados 10 min, hasta que estén blandos.",
+    "Precalienta el horno a 160 °C. Corta la cebolla, la zanahoria y el apio en dados pequeños y pica 2 ajos. Haz 3-4 cortes en la membrana del borde de cada rodaja para que no se curve. Salpimienta y enharina ligeramente. Calienta el aceite en una cazuela apta para horno y dora las rodajas 4 min por lado. Resérvalas.",
+    "Baja a fuego medio y sofríe la cebolla, la zanahoria y el apio con los ajos picados 10 min, hasta que estén blandos.",
     "Vierte el vino y deja reducir 3 min raspando el fondo. Añade el tomate, el caldo, el laurel y el tomillo. Acomoda la carne en una sola capa: el líquido debe llegar casi hasta arriba.",
     "Tapa y mete al horno 2 h, dando la vuelta a las rodajas a mitad. La carne debe despegarse del hueso al tocarla.",
     "Mientras, cuece las patatas peladas en agua con sal 20 min, escúrrelas y aplástalas con la mantequilla, la leche caliente, sal y pimienta.",
@@ -1136,7 +1134,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una sartén amplia a fuego medio-alto y sofríe la cebolla y el pimiento en dados 5 min. Añade el ajo picado, el comino, el pimentón y el orégano y remueve 30 segundos.",
+    "Corta la cebolla y el pimiento en dados y pica el ajo. Calienta el aceite en una sartén amplia a fuego medio-alto y sofríe la cebolla y el pimiento 5 min. Añade el ajo, el comino, el pimentón y el orégano y remueve 30 segundos.",
     "Sube el fuego, añade la ternera picada y saltéala 5 min desmenuzándola hasta que esté dorada.",
     "Incorpora el tomate triturado, el chipotle, las alubias escurridas y enjuagadas, el maíz y sal. Cuece 8 min hasta que la salsa espese y envuelva todo.",
     "Mientras, corta el aguacate en dados y alíñalo con el zumo de media lima y sal. Corta la lechuga en tiras.",

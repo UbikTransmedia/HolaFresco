@@ -35,7 +35,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el bulgur en un cazo con 160 ml de agua y una pizca de sal, lleva a ebullición, tapa y apaga el fuego. Déjalo reposar 12 minutos sin destapar y luego suéltalo con un tenedor.",
-    "Corta el pepino en medias lunas finas y la cebolla morada en plumas. Mézclalos en un bol con el vinagre, el azúcar y una pizca de sal; deja encurtir 15 minutos mientras sigues.",
+    "Mientras reposa el bulgur, corta el pepino en medias lunas finas y la cebolla morada en plumas. Mézclalos en un bol con el vinagre, el azúcar y una pizca de sal; deja encurtir 15 minutos mientras sigues.",
     "Abre las pechugas por la mitad a lo largo para tener 4 filetes finos. Sálalos y rebózalos con el za'atar presionando con las manos.",
     "Calienta el aceite en una sartén a fuego medio-alto y haz el pollo 3 minutos por cada lado, hasta que esté dorado y al pincharlo salga jugo claro. Déjalo reposar 3 minutos y córtalo en tiras.",
     "Mezcla el yogur con el ajo rallado, la ralladura de media piel de limón, 1 cucharada de su zumo, la mitad de la menta picada, sal y pimienta.",
@@ -82,8 +82,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz en un colador bajo el grifo hasta que el agua salga casi clara. Ponlo en un cazo con 180 ml de agua, lleva a ebullición, tapa y cuece a fuego mínimo 12 minutos. Apaga y deja reposar 10 minutos tapado.",
     "Mientras, disuelve el azúcar y media cucharadita de sal en el vinagre de arroz calentándolo 20 segundos en el microondas. Extiende el arroz en una bandeja, riégalo con el vinagre y mézclalo con movimientos de corte; déjalo enfriar a temperatura ambiente (unos 15 minutos).",
-    "Corta el salmón en dados de 2 cm. Mézclalo en un bol con la soja, el aceite de sésamo y el jengibre rallado; tápalo y déjalo marinar en la nevera 15 minutos (no más de 30, o la soja lo cura demasiado).",
-    "Cuece el edamame 4 minutos en agua hirviendo con sal, escúrrelo y refréscalo bajo el grifo.",
+    "Mientras se enfría el arroz, corta el salmón en dados de 2 cm. Mézclalo en un bol con la soja, el aceite de sésamo y el jengibre rallado; tápalo y déjalo marinar en la nevera 15 minutos (no más de 30, o la soja lo cura demasiado). Pon a hervir agua con sal para el edamame.",
+    "Cuece el edamame 4 minutos en el agua hirviendo, escúrrelo y refréscalo bajo el grifo.",
     "Pela y corta el mango en dados, el pepino en medias lunas, el aguacate en láminas y la cebolleta en rodajas finas. Tuesta el sésamo 1 minuto en una sartén seca.",
     "Reparte el arroz templado en dos bowls y coloca encima, por zonas, el salmón escurrido, el edamame, el mango, el pepino y el aguacate. Riega con un poco de la marinada, espolvorea sésamo, cebolleta y nori, y añade sriracha si te gusta picante."
   ],
@@ -124,11 +124,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pon los pimientos enteros en una bandeja y ásalos 35 minutos, dándoles la vuelta a mitad, hasta que la piel esté arrugada y con manchas negras. Mételos en un bol tapado 10 minutos, pélalos, quítales las semillas y córtalos en tiras; guarda el jugo que suelten.",
-    "Mientras, lava las lentejas y ponlas en una cazuela con agua fría que las cubra 3 dedos, el laurel y 1 diente de ajo entero. Lleva a ebullición, baja a fuego suave y cuece 25-30 minutos, hasta que estén tiernas pero enteras. Sala al final y escúrrelas.",
-    "Cuece los huevos en agua hirviendo exactamente 6 minutos y medio, pásalos a agua con hielo y pélalos con cuidado: la yema debe quedar cremosa.",
+    "Mientras, lava las lentejas y ponlas en una cazuela con agua fría que las cubra 3 dedos, el laurel y 1 diente de ajo entero. Lleva a ebullición, baja a fuego suave y cuece 25-30 minutos, hasta que estén tiernas pero enteras; entretanto, pon a hervir un cazo de agua para los huevos. Sala las lentejas al final y escúrrelas.",
+    "Cuece los huevos en el agua hirviendo exactamente 6 minutos y medio, pásalos a agua con hielo y pélalos con cuidado: la yema debe quedar cremosa.",
     "Corta el chorizo en rodajas y dóralo en una sartén sin aceite a fuego medio 4 minutos, hasta que suelte su grasa y esté crujiente por los bordes. Retíralo y aparta la grasa de la sartén.",
-    "Prepara la vinagreta: machaca el otro ajo con sal, mézclalo con el vinagre, el pimentón, el aceite, 1 cucharada del jugo de los pimientos y 1 cucharada de la grasa del chorizo.",
-    "Mezcla las lentejas templadas con la vinagreta, la cebolla morada en plumas finas y la mitad del perejil picado. Reparte en dos platos, pon encima las tiras de pimiento y el chorizo, abre el huevo mollet sobre cada ración y termina con el resto del perejil y pimienta."
+    "Prepara la vinagreta: machaca el otro ajo con sal, mézclalo con el vinagre, el pimentón, el aceite, 1 cucharada del jugo de los pimientos y 1 cucharada de la grasa del chorizo. Corta la cebolla morada en plumas finas y pica el perejil.",
+    "Mezcla las lentejas templadas con la vinagreta, la cebolla morada y la mitad del perejil. Reparte en dos platos, pon encima las tiras de pimiento y el chorizo, abre el huevo mollet sobre cada ración y termina con el resto del perejil y pimienta."
   ],
   nutricion: { kcal: 720, prot: 40, hc: 54, grasa: 38 },
   etiquetas: ["invierno", "batch cooking", "alta en proteína", "de cuchara y tenedor", "poco especiada"],
@@ -219,7 +219,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el pollo en tiras gruesas y mézclalo con el chipotle, el comino, el pimentón, 1 ajo rallado, sal y media cucharada de aceite. Déjalo marinar mientras preparas el resto (mínimo 10 minutos).",
     "Lava el arroz, ponlo en un cazo con 280 ml de agua y sal, lleva a ebullición, tapa y cuece a fuego mínimo 11 minutos. Deja reposar 5 minutos y mézclalo con la ralladura y el zumo de 1 lima y la mitad del cilantro picado.",
-    "Prepara el pico de gallo: pica el tomate en dados pequeños, la cebolla morada muy fina y el chile sin semillas; mezcla con el zumo de media lima, sal y el resto del cilantro.",
+    "Mientras se cuece el arroz, prepara el pico de gallo: pica el tomate en dados pequeños, la cebolla morada muy fina y el chile sin semillas; mezcla con el zumo de media lima, sal y el resto del cilantro.",
     "Calienta las alubias escurridas en un cazo con 3 cucharadas de agua, el otro ajo picado y una pizca de comino, 5 minutos a fuego suave; machaca algunas con el tenedor para que queden cremosas.",
     "Calienta el resto del aceite en una sartén a fuego fuerte y haz el pollo 8-10 minutos, removiendo poco, hasta que esté dorado y con los bordes tostados.",
     "Mezcla el yogur con el zumo de la media lima restante y una pizca de sal. Monta los bowls con el arroz, la lechuga en tiras, las alubias, el maíz escurrido, el pollo, el pico de gallo y la crema de yogur."
@@ -263,11 +263,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y cuécelas con piel en agua con sal desde frío: 18-20 minutos desde que hierva, hasta que un cuchillo entre sin resistencia. Escúrrelas y, en cuanto puedas tocarlas, pélalas y córtalas en rodajas de 1 cm.",
-    "En el mismo tiempo, cuece los huevos 9 minutos en agua hirviendo, enfríalos en agua fría, pélalos y córtalos en cuartos.",
+    "Mientras, pon a hervir agua en otro cazo y cuece los huevos 9 minutos; enfríalos en agua fría, pélalos y córtalos en cuartos. Corta la cebolla en pluma fina y los pepinillos en rodajas, y pica el cebollino y el perejil.",
     "Dora el bacon en una sartén a fuego medio 5 minutos sin aceite, hasta que esté crujiente. Sácalo a un papel absorbente y deja 1 cucharada de su grasa en la sartén.",
-    "En esa grasa añade el aceite y la cebolla en pluma fina y póchala 6 minutos a fuego medio, hasta que esté transparente. Añade el vinagre, el caldo, el azúcar y las dos mostazas, lleva a ebullición y deja reducir 2 minutos: es la vinagreta caliente.",
-    "Vierte la vinagreta sobre las patatas aún templadas en un bol grande, añade los pepinillos en rodajas y salpimienta. Remueve con suavidad y deja que las patatas absorban el aliño 5 minutos.",
-    "Sirve templada con los cuartos de huevo encima, el bacon crujiente y un buen puñado de cebollino y perejil picados."
+    "En esa grasa añade el aceite y la cebolla y póchala 6 minutos a fuego medio, hasta que esté transparente. Añade el vinagre, el caldo, el azúcar y las dos mostazas, lleva a ebullición y deja reducir 2 minutos: es la vinagreta caliente.",
+    "Vierte la vinagreta sobre las patatas aún templadas en un bol grande, añade los pepinillos y salpimienta. Remueve con suavidad y deja que las patatas absorban el aliño 5 minutos.",
+    "Sirve templada con los cuartos de huevo encima, el bacon crujiente y un buen puñado de cebollino y perejil."
   ],
   nutricion: { kcal: 610, prot: 24, hc: 62, grasa: 30 },
   etiquetas: ["invierno", "ideal para llevar", "sin horno", "económica", "poco especiada"],
@@ -524,7 +524,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa en un colador fino bajo el grifo 30 segundos para quitarle el amargor. Cuécela en 200 ml de agua con sal, tapada y a fuego mínimo, 13-15 minutos, hasta que absorba el agua y se vea el anillo blanco del germen. Extiéndela en un plato para que se enfríe rápido.",
-    "Seca los langostinos con papel y mézclalos con el ajo rallado, el comino, la ralladura de 1 lima, sal y pimienta.",
+    "Mientras se cuece la quinoa, seca los langostinos con papel y mézclalos con el ajo rallado, el comino, la ralladura de 1 lima, sal y pimienta.",
     "Calienta media cucharada de aceite en una sartén a fuego fuerte y saltea los langostinos 1 minuto y medio por cara, hasta que estén rosados y curvados. Riégalos con el zumo de media lima fuera del fuego.",
     "Corta los cherry por la mitad, la cebolla en plumas finas, el chile en rodajas sin semillas y el aguacate en dados; rocía el aguacate con un poco de lima para que no se oscurezca.",
     "Prepara el aliño con el zumo de la lima y media restantes, el resto del aceite, el cilantro picado, sal y pimienta.",
@@ -567,8 +567,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas con piel en agua con sal 15-18 minutos desde que hierva, hasta que estén tiernas al pincharlas. Escúrrelas, pártelas por la mitad y resérvalas templadas.",
-    "Corta la base leñosa de los espárragos (se rompe sola al doblarlos). Escáldalos 3 minutos en agua hirviendo con sal y pásalos a agua con hielo para fijar el color verde. Escúrrelos y córtalos en trozos de 4 cm.",
+    "Cuece las patatas con piel en agua con sal 15-18 minutos desde que hierva, hasta que estén tiernas al pincharlas. Mientras, pon a hervir otra cazuela con agua y sal y corta la base leñosa de los espárragos (se rompe sola al doblarlos). Escurre las patatas, pártelas por la mitad y resérvalas templadas.",
+    "Escalda los espárragos 3 minutos en la cazuela de agua hirviendo y pásalos a agua con hielo para fijar el color verde. Escúrrelos y córtalos en trozos de 4 cm.",
     "En la misma agua hirviendo, cuece los huevos exactamente 6 minutos y medio y enfríalos 2 minutos en agua con hielo; pélalos con cuidado para que la yema quede líquida.",
     "Prepara el aliño: pica finas las alcaparras, los pepinillos, el eneldo y el cebollino y mézclalos con la mostaza, la ralladura y el zumo de medio limón, el aceite, sal y pimienta.",
     "Lamina los rábanos muy finos. Mezcla en un bol las patatas templadas y los espárragos con dos tercios del aliño.",
@@ -655,9 +655,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pon los cherry enteros en una bandeja con media cucharada de aceite, sal y pimienta y ásalos 20 minutos, hasta que la piel se arrugue y empiecen a reventar.",
-    "Tuesta las almendras 4 minutos en la misma bandeja del horno al principio (sácalas antes de que se oscurezcan) o en una sartén seca.",
-    "Cuece la pasta en abundante agua con sal 1 minuto menos de lo que indique el paquete. Antes de escurrir, guarda medio vaso del agua de cocción. Escúrrela y refréscala rápidamente con agua fría para que no siga cociendo.",
+    "Precalienta el horno a 200 °C y pon a hervir abundante agua con sal para la pasta. Pon los cherry enteros en una bandeja con media cucharada de aceite, sal y pimienta y ásalos 20 minutos, hasta que la piel se arrugue y empiecen a reventar.",
+    "Mientras, tuesta las almendras 4 minutos en una sartén seca, sin que se oscurezcan.",
+    "Cuece la pasta en el agua hirviendo 1 minuto menos de lo que indique el paquete. Antes de escurrir, guarda medio vaso del agua de cocción. Escúrrela y refréscala rápidamente con agua fría para que no siga cociendo.",
     "Haz el pesto: tritura las espinacas, la albahaca, las almendras, el parmesano, el ajo, la ralladura y el zumo del medio limón, el resto del aceite y una pizca de sal, añadiendo agua de la pasta a cucharadas hasta que quede cremoso pero no líquido.",
     "Mezcla la pasta templada con el pesto en un bol grande hasta que esté toda verde.",
     "Añade los cherry asados con su jugo y la mozzarella troceada o las perlas, remueve con cuidado y termina con pimienta y unas hojas de albahaca. Se come templada o fría."
@@ -705,7 +705,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Pela las zanahorias y córtalas en bastones del grosor de un dedo. Mézclalas con media cucharada de aceite, el comino, la canela, el pimentón y sal, y ásalas 25 minutos en una bandeja, hasta que estén tiernas y con los bordes caramelizados.",
     "A los 15 minutos de horno añade a la bandeja los garbanzos escurridos y secos y las almendras, para que se tuesten los últimos 10 minutos.",
-    "Pon las pasas en remojo en agua caliente 10 minutos para que se hidraten; escúrrelas.",
+    "Mientras se asan, pon las pasas en remojo en agua caliente 10 minutos para que se hidraten; escúrrelas.",
     "Lleva el caldo a ebullición con una pizca de sal, viértelo sobre el cuscús en un bol, tapa y deja reposar 5 minutos. Suelta los granos con un tenedor y añade una cucharadita de aceite.",
     "Prepara el aliño con el zumo del limón, la miel, el resto del aceite, sal y pimienta. Pica la cebolla morada muy fina y las hierbas.",
     "Mezcla el cuscús con la cebolla, las pasas, las hierbas y la mitad del aliño. Reparte en dos platos y coloca encima las zanahorias, los garbanzos y las almendras calientes. Riega con el resto del aliño justo antes de servir."
@@ -796,8 +796,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz integral y cuécelo en abundante agua con sal 35 minutos, hasta que esté tierno pero con mordida. Escúrrelo y déjalo reposar tapado.",
-    "Corta la col en tiras de 1 cm, mézclala con 1 cucharadita de sal y déjala 15 minutos en un colador; después estrújala para sacar el agua. Alíñala con 1 cucharada de gochujang, el vinagre, el azúcar, 1 ajo y el jengibre rallados: es tu encurtido exprés.",
-    "Escalda las espinacas 1 minuto en agua hirviendo, escúrrelas, enfríalas y estrújalas bien. Pícalas gruesas y alíñalas con 1 cucharadita de aceite de sésamo, 1 cucharada de soja, el otro ajo rallado y la mitad del sésamo.",
+    "Mientras se cuece el arroz, corta la col en tiras de 1 cm, mézclala con 1 cucharadita de sal y déjala 15 minutos en un colador; mientras tanto, pon a hervir un cazo de agua para las espinacas. Después estruja la col para sacar el agua y alíñala con 1 cucharada de gochujang, el vinagre, el azúcar, 1 ajo y el jengibre rallados: es tu encurtido exprés.",
+    "Escalda las espinacas 1 minuto en el agua hirviendo, escúrrelas, enfríalas y estrújalas bien. Pícalas gruesas y alíñalas con 1 cucharadita de aceite de sésamo, 1 cucharada de soja, el otro ajo rallado y la mitad del sésamo.",
     "Corta la zanahoria en juliana fina y saltéala 2 minutos en una sartén con 1 cucharadita de aceite de oliva y una pizca de sal; debe quedar crujiente.",
     "Mezcla la otra cucharada de gochujang con la soja restante, la otra cucharadita de aceite de sésamo y 1 cucharada de agua para tener la salsa del bowl.",
     "Fríe los huevos de dos en dos en la sartén con el resto del aceite bien caliente, echando aceite por encima con una cuchara, hasta que los bordes estén dorados y crujientes y la yema líquida.",
@@ -840,12 +840,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las lentejas y cuécelas en agua fría con el laurel desde el principio: 25 minutos a fuego suave desde que hierva, hasta que estén tiernas pero enteras. Sala al final y escúrrelas.",
-    "Precalienta el horno a 200 °C. Salpimienta el salmón, úntalo con una cucharadita de aceite y colócalo con la piel hacia abajo en una bandeja. Hornéalo 12-14 minutos, hasta que al presionarlo se separe en lascas pero siga jugoso en el centro.",
+    "Lava las lentejas y cuécelas en agua fría con el laurel desde el principio: 25 minutos a fuego suave desde que hierva, hasta que estén tiernas pero enteras; sala al final.",
+    "Mientras se cuecen, precalienta el horno a 200 °C. Salpimienta el salmón, úntalo con una cucharadita de aceite y colócalo con la piel hacia abajo en una bandeja. Hornéalo 12-14 minutos, hasta que al presionarlo se separe en lascas pero siga jugoso en el centro.",
     "Corta el bulbo de hinojo en láminas finísimas (mejor con mandolina) y la cebolla morada en plumas. Ponlos en agua con hielo 10 minutos para que queden crujientes.",
     "Pela las naranjas a lo vivo sobre un bol para recoger el zumo y saca los gajos. Exprime las membranas en el bol.",
     "Prepara la vinagreta con 2 cucharadas del zumo de naranja, el vinagre, la mostaza, la miel, el resto del aceite, sal y pimienta.",
-    "Mezcla las lentejas templadas con la mitad de la vinagreta y el eneldo picado. Reparte en dos platos, pon encima el hinojo y la cebolla escurridos, los gajos de naranja y los canónigos. Trocea el salmón en lascas grandes sobre todo, riega con el resto de la vinagreta y adorna con las barbas del hinojo."
+    "Escurre las lentejas y mézclalas templadas con la mitad de la vinagreta y el eneldo picado. Reparte en dos platos, pon encima el hinojo y la cebolla escurridos, los gajos de naranja y los canónigos. Trocea el salmón en lascas grandes sobre todo, riega con el resto de la vinagreta y adorna con las barbas del hinojo."
   ],
   nutricion: { kcal: 610, prot: 45, hc: 48, grasa: 26 },
   etiquetas: ["al horno", "alta en proteína", "invierno", "omega 3", "superalimentos", "poco especiada"],
@@ -934,8 +934,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara la marinada: mezcla 150 g de yogur con el garam masala, la cúrcuma, el pimentón, el comino, la cayena, el jengibre y los ajos rallados, el zumo de medio limón, media cucharada de aceite y 1 cucharadita de sal.",
     "Haz 2 o 3 cortes en cada muslo, embadúrnalos bien con la marinada y déjalos tapados en la nevera un mínimo de 2 horas (hasta 12 si te organizas la víspera): el yogur ablanda la carne y las especias penetran.",
-    "Ralla la mitad del pepino, estrújalo con las manos para quitarle el agua y mézclalo con el resto del yogur, la mitad de la menta picada, una pizca de comino y sal: es la raita. Resérvala en frío.",
-    "Precalienta el horno a 240 °C con el grill. Coloca el pollo escurrido de marinada sobre una rejilla con bandeja debajo y ásalo 10 minutos; dale la vuelta y hornea 8-10 minutos más, hasta que esté tostado con puntos oscuros y al pincharlo salga jugo claro. Deja reposar 5 minutos.",
+    "Ralla la mitad del pepino, estrújalo con las manos para quitarle el agua y mézclalo con el resto del yogur, la mitad de la menta picada, una pizca de comino y sal: es la raita. Resérvala en frío. Cuando falte un cuarto de hora para terminar el marinado, precalienta el horno a 240 °C con el grill.",
+    "Coloca el pollo escurrido de marinada sobre una rejilla con bandeja debajo y ásalo 10 minutos; dale la vuelta y hornea 8-10 minutos más, hasta que esté tostado con puntos oscuros y al pincharlo salga jugo claro. Deja reposar 5 minutos.",
     "Mientras, tuesta la pita en el horno 3 minutos y córtala en triángulos. Corta el resto del pepino en medias lunas, los tomates en gajos, la cebolla en plumas finas y la lechuga en tiras.",
     "Aliña las verduras con el zumo del medio limón restante, el resto del aceite y sal. Repártelas en dos platos, pon encima el pollo en tiras gruesas, cucharadas de raita, el resto de la menta y el cilantro, y la pita tostada a un lado."
   ],
@@ -1021,9 +1021,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las judías del remojo y ponlas en una cazuela cubiertas con 3 dedos de agua fría y el laurel. Lleva a ebullición, retira la espuma, baja a fuego mínimo y cuece sin que borboteen 75-90 minutos, hasta que estén tiernas y enteras. Añade medio vaso de agua fría a mitad de cocción para que no se les rompa la piel. Sala solo al final.",
+    "La víspera, pon las judías en remojo en abundante agua fría (12 horas). Al día siguiente, escúrrelas y ponlas en una cazuela cubiertas con 3 dedos de agua fría y el laurel. Lleva a ebullición, retira la espuma, baja a fuego mínimo y cuece sin que borboteen 75-90 minutos, hasta que estén tiernas y enteras. Añade medio vaso de agua fría a mitad de cocción para que no se les rompa la piel. Sala solo al final.",
     "Escúrrelas y extiéndelas en una bandeja para que se enfríen sin deshacerse (unos 20 minutos). Pueden hacerse la víspera.",
-    "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría, pélalos y córtalos en cuartos.",
+    "Mientras se enfrían, cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría, pélalos y córtalos en cuartos.",
     "Seca el bacalao con papel y desmígalo con los dedos en lascas, retirando cualquier espina. Si prefieres, escáldalo 1 minuto en agua caliente sin hervir y escúrrelo; crudo es lo tradicional.",
     "Corta el tomate en dados, la cebolleta en rodajas finas y los pimientos en daditos pequeños. Pica el perejil.",
     "Mezcla en un bol las judías con el tomate, los pimientos, la cebolleta, las aceitunas, el vinagre, el aceite, pimienta y poca sal (el bacalao ya aporta). Deja reposar 10 minutos.",
@@ -1070,7 +1070,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el solomillo en filetes finos (1 cm) y mézclalo con 1 cucharada de salsa de pescado, 1 cucharada de azúcar moreno, 2 ajos picados, la parte blanca de la cebolleta picada, pimienta y el aceite. Deja marinar 20-30 minutos a temperatura ambiente.",
-    "Prepara el nuoc cham: disuelve la otra cucharada de azúcar en 4 cucharadas de agua caliente y añade el resto de la salsa de pescado, el zumo de las limas, el vinagre, el otro ajo muy picado y el chile en rodajas. Prueba: dulce, salado, ácido y picante en equilibrio.",
+    "Mientras se marina, pon a hervir agua para los fideos y prepara el nuoc cham: disuelve la otra cucharada de azúcar en 4 cucharadas de agua caliente y añade el resto de la salsa de pescado, el zumo de las limas, el vinagre, el otro ajo muy picado y el chile en rodajas. Prueba: dulce, salado, ácido y picante en equilibrio.",
     "Pon los fideos de arroz en un bol, cúbrelos con agua hirviendo y déjalos 3-4 minutos (según el paquete), hasta que estén blandos pero con mordida. Escúrrelos y refréscalos con agua fría.",
     "Corta el pepino en bastones, la zanahoria en juliana fina y la lechuga en tiras. Deshoja la menta y el cilantro.",
     "Calienta la plancha hasta que humee y haz el cerdo 2 minutos por cara en tandas sin amontonar, hasta que esté dorado con los bordes caramelizados del azúcar.",

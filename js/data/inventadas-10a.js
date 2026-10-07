@@ -163,9 +163,9 @@ window.RECETAS_SEED.push({
     "Pon en una cazuela grande la carcasa, los contramuslos, el agua fría, el jengibre en rodajas, 3 dientes de ajo aplastados, el puerro en trozos, la parte verde de las cebolletas y los shiitake. Lleva a ebullición, retira la espuma gris de los primeros 10 minutos y baja a fuego mínimo.",
     "Cuece el caldo a borbotón muy suave, destapado, 2 horas y media. A los 45 minutos saca los contramuslos, desmenuza la carne (desecha la piel y los huesos, que vuelven al caldo) y resérvala tapada.",
     "Mientras el caldo hace chup-chup, prepara los huevos marinados: cuécelos 6 minutos y medio en agua hirviendo, enfríalos en agua con hielo, pélalos y sumérgelos en un bol con 40 ml de soja, el vinagre, el azúcar y 60 ml de agua. Déjalos marinar al menos 1 hora dándoles la vuelta a mitad.",
-    "Prepara el tare: en un cazo pequeño calienta los 20 ml de soja restantes con el diente de ajo picado y los shiitake rehidratados del caldo laminados, 2 minutos. Repártelo entre los dos boles de servir.",
+    "Pon a hervir abundante agua para los fideos. Prepara el tare: saca los shiitake rehidratados del caldo con una espumadera y lamínalos; en un cazo pequeño calienta los 20 ml de soja restantes con el diente de ajo picado y los shiitake, 2 minutos. Repártelo entre los dos boles de servir.",
     "Cuela el caldo con un colador fino: debes obtener unos 1200 ml. Si hay más, redúcelo a fuego vivo; prueba y sala con cuidado (el tare ya lleva soja).",
-    "Blanquea el pak choi partido a lo largo 1 minuto en el caldo hirviendo y sácalo. Cuece los fideos ramen en abundante agua según el envase (2-3 minutos), escúrrelos bien y repártelos en los boles.",
+    "Blanquea el pak choi partido a lo largo 1 minuto en el caldo hirviendo y sácalo. Cuece los fideos ramen en el agua hirviendo según el envase (2-3 minutos), escúrrelos bien y repártelos en los boles.",
     "Vierte unos 600 ml de caldo hirviendo en cada bol sobre el tare, remueve y coloca encima el pollo desmenuzado, el huevo partido por la mitad, el pak choi, el maíz y la parte blanca de las cebolletas en aros finos.",
     "Termina con unas gotas de aceite de sésamo, el sésamo y, si quieres, un trozo de nori clavado en el borde. Sírvelo inmediatamente, hirviendo."
   ],
@@ -216,8 +216,8 @@ window.RECETAS_SEED.push({
     "Cubre los huesos con agua fría en una cazuela grande, hierve 5 minutos a fuego vivo y tira ese agua: así el caldo saldrá limpio. Enjuaga los huesos y la cazuela.",
     "Parte la cebolla por la mitad y el jengibre a lo largo y chamúscalos en una sartén seca a fuego fuerte 5 minutos por la cara cortada, hasta que estén negros en puntos. Tuesta en la misma sartén el anís, la canela, los clavos y las semillas de cilantro 1 minuto, hasta que huelan.",
     "Vuelve a poner los huesos en la cazuela con la pieza de ternera para guisar, los 2500 ml de agua, la cebolla, el jengibre y las especias. Lleva a hervor, espuma y baja al mínimo: debe temblar, no borbotear. Cuece 2 horas destapado, retirando la grasa de vez en cuando.",
-    "A la hora y media, saca la pieza de ternera guisada, déjala templar y córtala en lonchas finas. Cuela el caldo (debes tener unos 1300 ml), sazónalo con la salsa de pescado, el azúcar y sal hasta que esté sabroso y mantenlo hirviendo.",
-    "Remoja los fideos de arroz en agua caliente del grifo 10 minutos (o según el envase), escúrrelos y repártelos en dos boles grandes. Coloca encima las lonchas de ternera cocida y las láminas de filete crudo bien extendidas.",
+    "A la hora y media, saca la pieza de ternera guisada, déjala templar y córtala en lonchas finas. Mientras el caldo termina, corta el filete semicongelado en láminas casi transparentes y remoja los fideos de arroz en agua caliente del grifo 10 minutos (o según el envase). A las 2 horas, cuela el caldo (debes tener unos 1300 ml), sazónalo con la salsa de pescado, el azúcar y sal hasta que esté sabroso y mantenlo hirviendo.",
+    "Escurre los fideos y repártelos en dos boles grandes. Coloca encima las lonchas de ternera cocida y las láminas de filete crudo bien extendidas.",
     "Vierte el caldo hirviendo directamente sobre la carne cruda: se cocinará al instante y quedará rosada. Remueve con los palillos para soltar los fideos.",
     "Sirve con los brotes de soja, la cebolleta en aros, el cilantro y la albahaca en hojas, el chile en rodajas y la lima en gajos para que cada uno aliñe su bol."
   ],
@@ -302,8 +302,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el puerro en rodajas finas y lávalo en un bol con agua para soltar la tierra. Pela la patata y córtala en dados de 2 cm. Pica la cebolla.",
     "Funde la mantequilla en una cazuela a fuego medio-bajo y pocha el puerro y la cebolla con una pizca de sal 10 minutos, removiendo de vez en cuando, sin que cojan color.",
-    "Añade la patata y el caldo, lleva a ebullición y cuece a fuego medio 20 minutos, hasta que la patata se deshaga al apretarla contra la pared de la cazuela.",
-    "Mientras, pincela el pan con el aceite y tuéstalo en el horno a 180 °C unos 8 minutos, hasta que cruja. Corta el salmón en tiras y pica el cebollino.",
+    "Añade la patata y el caldo, lleva a ebullición y cuece a fuego medio 20 minutos, hasta que la patata se deshaga al apretarla contra la pared de la cazuela. Precalienta el horno a 180 °C.",
+    "Mientras, pincela el pan con el aceite y tuéstalo en el horno unos 8 minutos, hasta que cruja. Corta el salmón en tiras y pica el cebollino.",
     "Tritura la crema con la nata y la leche hasta que quede muy fina; si quieres textura de seda, pásala por un colador. Sazona con nuez moscada, sal y pimienta.",
     "Sírvela templada, o enfríala 2 horas en la nevera para la versión clásica. Corona cada bol con el salmón, el cebollino y el pan crujiente partido con las manos."
   ],
@@ -390,10 +390,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la coliflor en ramilletes pequeños y la cebolla en gajos; mézclalos en una bandeja con el aceite, el curry, la cúrcuma y sal. Asa 25 minutos dándoles la vuelta a mitad, hasta que los bordes estén tostados. A los 10 minutos añade los ajos con piel.",
-    "Tuesta las avellanas en una sartén seca a fuego medio 3 minutos, frótalas con un paño para quitar la piel suelta y pícalas.",
-    "Calienta el caldo en una cazuela. Reserva un puñado de ramilletes asados para decorar y pasa el resto de la verdura a la cazuela con los ajos pelados. Hierve 5 minutos.",
+    "Mientras se asa, tuesta las avellanas en una sartén seca a fuego medio 3 minutos, frótalas con un paño para quitar la piel suelta y pícalas. Calienta el caldo en una cazuela.",
+    "Reserva un puñado de ramilletes asados para decorar y pasa el resto de la verdura a la cazuela con los ajos pelados. Hierve 5 minutos; mientras, pon a calentar un cazo con agua y el vinagre para escalfar.",
     "Tritura con la leche de coco hasta obtener una crema fina. Ajusta de sal, pimienta y unas gotas de lima; si está espesa, añade un poco de agua caliente.",
-    "Escalfa los huevos: en un cazo con agua a punto de hervir y el vinagre, haz un remolino con una cuchara, casca dentro un huevo y cuécelo 3 minutos; sácalo con una espumadera a un plato con papel. Repite con el otro.",
+    "Escalfa los huevos: cuando el agua del cazo esté a punto de hervir, haz un remolino con una cuchara, casca dentro un huevo y cuécelo 3 minutos; sácalo con una espumadera a un plato con papel. Repite con el otro.",
     "Sirve la crema con el huevo en el centro, los ramilletes reservados, las avellanas, el cilantro y pimienta recién molida. Rompe la yema al comer."
   ],
   nutricion: { kcal: 400, prot: 17, hc: 20, grasa: 28 },
@@ -431,8 +431,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud", opcional: true }
   ],
   pasos: [
-    "Remoja el wakame en un bol con agua fría 5 minutos y escúrrelo. Corta el tofu en dados de 2 cm, el pak choi en cuartos a lo largo, la cebolleta en aros finos y ralla el jengibre.",
-    "Cuece los soba en abundante agua hirviendo sin sal 4-5 minutos (según el envase), escúrrelos y enjuágalos bajo el grifo frío para quitarles el almidón.",
+    "Pon a hervir abundante agua para los soba. Remoja el wakame en un bol con agua fría 5 minutos y escúrrelo. Corta el tofu en dados de 2 cm, el pak choi en cuartos a lo largo, la cebolleta en aros finos y ralla el jengibre.",
+    "Cuece los soba en el agua hirviendo, sin sal, 4-5 minutos (según el envase), escúrrelos y enjuágalos bajo el grifo frío para quitarles el almidón.",
     "Calienta el caldo con el jengibre en una cazuela a fuego medio hasta que hierva suavemente. Añade el pak choi y el tofu y cuece 3 minutos.",
     "Baja el fuego al mínimo: el miso no debe hervir o pierde aroma. Disuelve el miso en un cazo con un cucharón de caldo y devuélvelo a la cazuela con la soja y el wakame.",
     "Reparte los fideos en dos boles y vierte encima la sopa con el tofu y el pak choi.",
@@ -571,8 +571,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica muy finas las gambas a cuchillo (deben quedar en trocitos, no en puré). Mézclalas en un bol con el cerdo, la mitad del jengibre rallado, 2 cebolletas picadas, 1,5 cucharadas de soja, 1 cucharadita de aceite de sésamo, el vinagre, la maicena y la pimienta blanca. Amasa con la mano 1 minuto hasta que quede pegajoso.",
     "Pon una cucharadita colmada de relleno en el centro de cada oblea, moja los bordes con el dedo húmedo, dóblala en triángulo apretando para sacar el aire y une las dos puntas inferiores por detrás. Ve dejándolos sobre un plato enharinado sin que se toquen.",
-    "Calienta el caldo en una cazuela con el resto del jengibre en láminas y la parte verde de las cebolletas restantes. Hierve suave 15 minutos para que infusione y después cuélalo. Sazona con la soja restante y sal si falta.",
-    "En otra cazuela con abundante agua hirviendo cuece los wonton en dos tandas: 4 minutos, hasta que floten y la masa se vea translúcida. Sácalos con una espumadera.",
+    "Calienta el caldo en una cazuela con el resto del jengibre en láminas y la parte verde de las cebolletas restantes. Hierve suave 15 minutos para que infusione y después cuélalo. Sazona con la soja restante y sal si falta. Mientras infusiona, pon a hervir abundante agua en otra cazuela.",
+    "En la otra cazuela, con el agua hirviendo, cuece los wonton en dos tandas: 4 minutos, hasta que floten y la masa se vea translúcida. Sácalos con una espumadera.",
     "Blanquea el pak choi partido por la mitad 1 minuto en la misma agua y escúrrelo.",
     "Reparte los wonton y el pak choi en dos boles, vierte el caldo hirviendo y termina con la parte blanca de las cebolletas en aros, el resto del aceite de sésamo y pimienta blanca."
   ],
@@ -668,8 +668,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica el hinojo, el puerro y la cebolla en juliana fina y lamina 3 dientes de ajo. Rehógalos en la cazuela con el aceite a fuego medio-bajo 15 minutos con una pizca de sal, hasta que estén muy blandos y dulces.",
     "Añade el tomate triturado, el azafrán, dos tiras de piel de naranja, el tomillo y el laurel; cuece 5 minutos. Riega con el vino y deja reducir a la mitad.",
-    "Incorpora el caldo de pescado y la patata pelada en rodajas de 1 cm. Lleva a ebullición y cuece 20 minutos a fuego medio, hasta que la patata esté tierna.",
-    "Mientras, prepara la rouille: mezcla la mayonesa con el diente de ajo restante rallado, el pimentón, la cayena y una cucharadita del caldo con azafrán. Tuesta el pan en el horno a 200 °C 6 minutos.",
+    "Incorpora el caldo de pescado y la patata pelada en rodajas de 1 cm. Lleva a ebullición y cuece 20 minutos a fuego medio, hasta que la patata esté tierna. Precalienta el horno a 200 °C.",
+    "Mientras, prepara la rouille: mezcla la mayonesa con el diente de ajo restante rallado, el pimentón, la cayena y una cucharadita del caldo con azafrán. Tuesta el pan en el horno 6 minutos.",
     "Sala los medallones de rape y añádelos a la cazuela; cuece 4 minutos a fuego suave. Sube el fuego, echa los mejillones y los langostinos, tapa y cuece 3 minutos, hasta que los mejillones se abran y los langostinos estén rosados. Desecha los que no se abran.",
     "Retira el laurel y la piel de naranja, prueba de sal y pimienta y sirve en platos hondos repartiendo el pescado y el marisco.",
     "Lleva a la mesa el pan tostado con la rouille para untar y mojar en la sopa."
@@ -712,9 +712,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Dora el bacon en la cazuela seca a fuego medio 5 minutos, hasta que esté crujiente. Sácalo a un papel y deja la grasa en la cazuela.",
-    "Añade la mantequilla, la cebolla y el apio picados finos y rehoga 6 minutos, hasta que estén transparentes. Espolvorea la harina y remueve 1 minuto para que pierda el sabor a crudo.",
-    "Vierte el caldo de pescado poco a poco sin dejar de remover para que no salgan grumos. Añade la patata en dados de 1,5 cm, el laurel y el tomillo. Cuece 12 minutos a fuego medio, hasta que la patata esté casi tierna.",
+    "Pica finos la cebolla y el apio y pela la patata y córtala en dados de 1,5 cm. Dora el bacon en la cazuela seca a fuego medio 5 minutos, hasta que esté crujiente. Sácalo a un papel y deja la grasa en la cazuela.",
+    "Añade la mantequilla, la cebolla y el apio y rehoga 6 minutos, hasta que estén transparentes. Espolvorea la harina y remueve 1 minuto para que pierda el sabor a crudo.",
+    "Vierte el caldo de pescado poco a poco sin dejar de remover para que no salgan grumos. Añade la patata, el laurel y el tomillo. Cuece 12 minutos a fuego medio, hasta que la patata esté casi tierna.",
     "Incorpora el maíz y la leche, y calienta sin que llegue a hervir fuerte (la leche se corta). Aplasta unos dados de patata contra la pared con la cuchara para espesar la sopa.",
     "Sala los dados de bacalao, mételos en la sopa y cuece 4 minutos a fuego suave, hasta que se vuelvan opacos y se separen en lascas al tocarlos.",
     "Retira el laurel y el tomillo, prueba de sal y pimienta y sirve con el bacon crujiente desmenuzado y el cebollino picado por encima."
@@ -808,13 +808,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Sala el cordero y dóralo en la cazuela con el aceite a fuego fuerte 4 minutos, hasta que tome color por todos lados. Baja a fuego medio y añade la cebolla y el apio picados finos; rehoga 6 minutos.",
-    "Agrega el jengibre rallado, la cúrcuma, la canela, el pimentón y pimienta; remueve 1 minuto hasta que las especias huelan. Incorpora el tomate triturado, el concentrado y la mitad del cilantro y del perejil picados.",
+    "Pica finos la cebolla y el apio, ralla el jengibre y pica el cilantro y el perejil. Sala el cordero y dóralo en la cazuela con el aceite a fuego fuerte 4 minutos, hasta que tome color por todos lados. Baja a fuego medio y añade la cebolla y el apio; rehoga 6 minutos.",
+    "Agrega el jengibre, la cúrcuma, la canela, el pimentón y pimienta; remueve 1 minuto hasta que las especias huelan. Incorpora el tomate triturado, el concentrado y la mitad del cilantro y del perejil.",
     "Vierte el caldo y las lentejas lavadas. Lleva a ebullición, baja al mínimo y cuece tapado 50 minutos, hasta que el cordero esté tierno y las lentejas enteras pero blandas.",
     "Añade los garbanzos y cuece 10 minutos más destapado.",
     "Disuelve la harina en 100 ml de agua fría sin grumos y viértela en la sopa en hilo, removiendo. Cuece 5 minutos a fuego suave: la harira espesa y se vuelve aterciopelada.",
     "Añade los fideos partidos con la mano y cuécelos 3 minutos. Prueba de sal.",
-    "Sirve con el resto del cilantro y perejil picados y gajos de limón para exprimir en el plato."
+    "Sirve con el resto del cilantro y perejil y gajos de limón para exprimir en el plato."
   ],
   nutricion: { kcal: 740, prot: 46, hc: 79, grasa: 26 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "especiada", "alta en proteína"],
@@ -901,8 +901,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la ternera con papel, sálala y dórala en la cazuela con 1 cucharada de aceite a fuego fuerte, en dos tandas para que no suelte agua, 3 minutos por tanda. Resérvala.",
-    "Baja a fuego medio, añade el resto del aceite y rehoga la cebolla, la zanahoria y el apio en dados 8 minutos, raspando el fondo para despegar lo tostado. Añade el ajo picado, el pimentón y el tomate concentrado y remueve 1 minuto.",
+    "Corta en dados la cebolla, la zanahoria y el apio y pica el ajo. Seca la ternera con papel, sálala y dórala en la cazuela con 1 cucharada de aceite a fuego fuerte, en dos tandas para que no suelte agua, 3 minutos por tanda. Resérvala.",
+    "Baja a fuego medio, añade el resto del aceite y rehoga la cebolla, la zanahoria y el apio 8 minutos, raspando el fondo para despegar lo tostado. Añade el ajo, el pimentón y el tomate concentrado y remueve 1 minuto.",
     "Devuelve la carne a la cazuela, vierte el caldo y el agua, añade el laurel y el tomillo. Lleva a ebullición, baja al mínimo y cuece tapado 45 minutos.",
     "Lava la cebada bajo el grifo y échala a la sopa. Cuece 30 minutos más, removiendo de vez en cuando para que no se pegue; debe quedar tierna pero con un punto de mordida.",
     "Mientras, limpia las setas y trocea las grandes. Saltéalas en una sartén muy caliente sin aceite 4 minutos, hasta que suelten el agua y se doren; sálalas al final.",
@@ -1030,8 +1030,8 @@ window.RECETAS_SEED.push({
     "Funde la mantequilla con el aceite en una cazuela ancha a fuego medio y añade toda la cebolla con una cucharadita de sal. Tapa 10 minutos para que sude y suelte agua.",
     "Destapa y baja a fuego medio-bajo. Cocina 50 minutos removiendo cada 5 minutos y raspando el fondo: la cebolla pasa de transparente a dorada y por fin a un marrón brillante y dulce. Si se agarra, añade una cucharada de agua.",
     "Espolvorea la harina y remueve 1 minuto. Riega con el vino, sube el fuego y deja que reduzca a la mitad raspando bien el fondo.",
-    "Añade el caldo, el tomillo y el laurel. Cuece 20 minutos a fuego suave. Prueba de sal y pimienta y retira las hierbas.",
-    "Precalienta el grill del horno. Tuesta las rebanadas de pan 3 minutos por lado bajo el grill y úntalas con la mostaza.",
+    "Añade el caldo, el tomillo y el laurel. Cuece 20 minutos a fuego suave; mientras, precalienta el grill del horno. Prueba de sal y pimienta y retira las hierbas.",
+    "Tuesta las rebanadas de pan 3 minutos por lado bajo el grill y úntalas con la mostaza.",
     "Reparte la sopa en dos boles aptos para horno, coloca el pan encima y cubre con el gruyer. Gratina 4-5 minutos, hasta que el queso burbujee y tenga manchas doradas. Sirve con cuidado, que quema."
   ],
   nutricion: { kcal: 700, prot: 24, hc: 77, grasa: 33 },
@@ -1067,7 +1067,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lamina los ajos y dóralos despacio en la cazuela con el aceite a fuego medio-bajo 3 minutos, hasta que estén dorados pero no quemados (amargarían). Añade el jamón y la cayena y remueve 1 minuto.",
+    "Calienta el caldo en un cazo. Lamina los ajos y dóralos despacio en la cazuela con el aceite a fuego medio-bajo 3 minutos, hasta que estén dorados pero no quemados (amargarían). Añade el jamón y la cayena y remueve 1 minuto.",
     "Echa el pan y tuéstalo en el aceite 2 minutos, removiendo para que se impregne.",
     "Aparta la cazuela del fuego, añade el pimentón y remueve 10 segundos para que no se queme.",
     "Vierte el caldo caliente y el laurel, vuelve al fuego y cuece 10 minutos a fuego medio, removiendo un par de veces: el pan se deshace y la sopa espesa. Prueba de sal (el jamón ya sala).",
@@ -1113,10 +1113,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon la carcasa y los contramuslos en una cazuela grande con la cebolla partida por la mitad, 1 zanahoria, 1 rama de apio, la parte verde del puerro, el laurel y el agua fría. Lleva a ebullición, espuma los primeros 10 minutos y baja al mínimo.",
     "Cuece destapado 1 hora y 45 minutos, sin que hierva a borbotones. A los 40 minutos saca los contramuslos, desmenuza la carne sin piel y resérvala tapada; devuelve los huesos al caldo.",
-    "Cuela el caldo con un colador fino, desgrásalo bien y déjalo templar 10 minutos. Debes tener unos 1300 ml.",
+    "Cuela el caldo con un colador fino, desgrásalo bien y déjalo templar 10 minutos. Debes tener unos 1300 ml. Mientras templa, corta en juliana finísima la zanahoria, el apio y la parte blanca del puerro restantes.",
     "Clarifica: bate ligeramente las claras con un tenedor y mézclalas con 100 ml del caldo frío. Vierte la mezcla en la cazuela con el resto del caldo y calienta a fuego medio removiendo despacio hasta que esté a punto de hervir. Deja de remover: las claras cuajan en una costra que atrapa las impurezas.",
-    "Cuece 20 minutos a fuego muy suave sin tocar la costra. Haz un pequeño agujero en el centro y saca el caldo con un cacillo pasándolo por un colador forrado con papel de cocina: debe salir completamente transparente. Sazónalo con sal, pimienta y el vino.",
-    "Corta en juliana finísima la zanahoria, el apio y la parte blanca del puerro restantes y cuécelos en el consomé 3 minutos. Cuece los tortellini en agua hirviendo con sal según el envase (3-4 minutos) y escúrrelos.",
+    "Cuece 20 minutos a fuego muy suave sin tocar la costra; mientras, pon a hervir agua con sal para los tortellini. Haz un pequeño agujero en el centro y saca el caldo con un cacillo pasándolo por un colador forrado con papel de cocina: debe salir completamente transparente. Sazónalo con sal, pimienta y el vino.",
+    "Cuece la juliana en el consomé 3 minutos. Cuece los tortellini en el agua hirviendo según el envase (3-4 minutos) y escúrrelos.",
     "Reparte los tortellini y el pollo desmenuzado en dos platos hondos, vierte el consomé hirviendo con su juliana y termina con cebollino picado."
   ],
   nutricion: { kcal: 455, prot: 34, hc: 44, grasa: 16 },

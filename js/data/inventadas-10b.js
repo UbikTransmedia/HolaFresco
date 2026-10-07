@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Sala el pollo y dóralo en la cazuela con la mitad de la mantequilla a fuego medio-alto 5 minutos. Añade la cebolla, la zanahoria y el apio en dados y el ajo picado, y rehoga 6 minutos más.",
+    "Corta en dados la cebolla, la zanahoria y el apio y pica el ajo. Sala el pollo y dóralo en la cazuela con la mitad de la mantequilla a fuego medio-alto 5 minutos. Añade la cebolla, la zanahoria, el apio y el ajo, y rehoga 6 minutos más.",
     "Espolvorea 1 cucharada de harina, remueve 1 minuto y vierte el caldo poco a poco sin dejar de remover. Añade el tomillo y el laurel, lleva a ebullición y cuece a fuego suave 20 minutos, hasta que el pollo esté tierno.",
     "Mientras, prepara la masa: mezcla en un bol 120 g de harina, la levadura, media cucharadita de sal y pimienta. Frota con los dedos el resto de la mantequilla fría hasta que parezca arena y añade la leche y la mitad del perejil picado; mezcla lo justo hasta que no quede harina seca (masa pegajosa, no la amases).",
     "Añade a la sopa los guisantes y la nata, prueba de sal y pimienta y mantén un hervor suave y constante.",
@@ -83,10 +83,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las setas con un paño y trocéalas; lamina los champiñones. Reserva un puñado de las setas más bonitas para el topping.",
+    "Limpia las setas con un paño y trocéalas; lamina los champiñones. Reserva un puñado de las setas más bonitas para el topping. Pica la cebolla, el puerro y el ajo y pela la patata y córtala en dados pequeños.",
     "Calienta media cucharada de aceite en una sartén a fuego fuerte y saltea las setas y los champiñones en dos tandas, sin mover mucho, 4 minutos por tanda, hasta que se doren y dejen de soltar agua. Sálalas al final y pásalas a la cazuela (menos las reservadas).",
-    "En la misma sartén, con el resto del aceite a fuego medio, rehoga la cebolla, el puerro y el ajo picados 6 minutos. Riega con el vino y deja evaporar 1 minuto. Pásalo todo a la cazuela.",
-    "Añade la patata en dados pequeños y el caldo con una rama de tomillo. Cuece 15 minutos a fuego medio, hasta que la patata esté tierna.",
+    "En la misma sartén, con el resto del aceite a fuego medio, rehoga la cebolla, el puerro y el ajo 6 minutos. Riega con el vino y deja evaporar 1 minuto. Pásalo todo a la cazuela.",
+    "Añade la patata y el caldo con una rama de tomillo. Cuece 15 minutos a fuego medio, hasta que la patata esté tierna.",
     "Mientras, cuece los huevos 6 minutos y medio en agua hirviendo, pásalos a agua fría y pélalos con cuidado (la yema queda cremosa). Tuesta los dados de pan en la sartén con las hojas del tomillo restante 3 minutos, hasta que crujan.",
     "Retira la rama de tomillo y tritura la crema con la nata hasta que quede muy fina. Ajusta de sal y pimienta.",
     "Sirve la crema con el huevo partido por la mitad, las setas reservadas, los picatostes y perejil picado."
@@ -260,8 +260,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon la pechuga en la cazuela con el caldo, lleva a ebullición suave y cuécela 12 minutos. Sácala, desmenúzala con dos tenedores y mézclala en un bol con 1 cucharadita de chipotle, el zumo de media lima y una pizca de sal. Reserva el caldo.",
-    "En otra cazuela calienta 1 cucharada de aceite a fuego medio y rehoga la cebolla, el ajo y el pimiento picados 6 minutos. Añade el comino y el resto del chipotle y remueve 30 segundos.",
+    "Pon la pechuga en la cazuela con el caldo, lleva a ebullición suave y cuécela 12 minutos; mientras, pica la cebolla, el ajo y el pimiento. Sácala, desmenúzala con dos tenedores y mézclala en un bol con 1 cucharadita de chipotle, el zumo de media lima y una pizca de sal. Reserva el caldo.",
+    "En otra cazuela calienta 1 cucharada de aceite a fuego medio y rehoga la cebolla, el ajo y el pimiento 6 minutos. Añade el comino y el resto del chipotle y remueve 30 segundos.",
     "Incorpora el boniato y el maíz (menos el reservado) y vierte el caldo del pollo. Cuece 15 minutos, hasta que el boniato esté tierno.",
     "Tritura con la leche hasta que la crema quede fina; si prefieres textura rústica, deja algunos granos de maíz enteros. Prueba de sal y añade zumo de lima al gusto.",
     "Saltea el maíz reservado en una sartén con el resto del aceite a fuego fuerte 2 minutos, hasta que algunos granos se tuesten.",
@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias y ponlas en una cazuela grande con el lacón, la cebolla entera pelada, los ajos y el agua fría. Lleva a ebullición, retira la espuma y baja el fuego al mínimo. Cuece tapado 1 hora y 15 minutos, hasta que las alubias estén casi tiernas (si usas chorizo, añádelo a la media hora).",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una cazuela grande con el lacón, la cebolla entera pelada, los ajos y el agua fría. Lleva a ebullición, retira la espuma y baja el fuego al mínimo. Cuece tapado 1 hora y 15 minutos, hasta que las alubias estén casi tiernas (si usas chorizo, añádelo a la media hora).",
     "Mientras, lava los grelos, quita los tallos duros y trocea las hojas. Si son muy amargos, escáldalos 2 minutos en agua hirviendo y escúrrelos.",
     "Saca el lacón, retira la piel y la grasa si las tiene y córtalo en tacos. Saca también la cebolla y tírala (o aplástala y devuélvela si te gusta más espeso).",
     "Añade a la cazuela la patata pelada y cortada en trozos irregulares (cascada, no cortada del todo, para que suelte almidón) y la manteca. Cuece 15 minutos.",
@@ -576,9 +576,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los mejillones en una cazuela grande con el vino, tapa y cuece a fuego fuerte 4 minutos, sacudiendo la cazuela, hasta que se abran. Cuela el jugo por un colador fino (reserva) y saca la carne de las conchas, dejando 8 mejillones con media concha para decorar. Desecha los que no se abran.",
-    "Pica el hinojo, el puerro, la cebolla y el ajo. Rehógalos en la cazuela limpia con el aceite a fuego medio-bajo 10 minutos con una pizca de sal, hasta que estén blandos.",
-    "Añade el tomate y el azafrán y cuece 3 minutos. Incorpora la patata en dados de 1,5 cm, el jugo de los mejillones y el caldo de pescado. Cuece 15 minutos, hasta que la patata esté tierna.",
-    "Tuesta el pan en el horno a 200 °C 6 minutos o en una sartén.",
+    "Pica el hinojo, el puerro, la cebolla y el ajo y pela la patata y córtala en dados de 1,5 cm. Rehoga la verdura en la cazuela limpia con el aceite a fuego medio-bajo 10 minutos con una pizca de sal, hasta que estén blandos.",
+    "Añade el tomate y el azafrán y cuece 3 minutos. Incorpora la patata, el jugo de los mejillones y el caldo de pescado. Cuece 15 minutos, hasta que la patata esté tierna; mientras, precalienta el horno a 200 °C.",
+    "Tuesta el pan en el horno 6 minutos o en una sartén.",
     "Añade los mejillones pelados a la sopa y caliéntalos 1 minuto sin hervir para que no se endurezcan. Prueba de sal (el jugo ya es salado) y pimienta.",
     "Sirve con los mejillones de media concha encima, perejil picado abundante y el pan tostado al lado."
   ],
@@ -621,8 +621,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lo primero, el arroz: lávalo hasta que el agua salga clara y cuécelo tapado con 200 ml de agua y una pizca de sal, 12 minutos a fuego mínimo desde que hierve y 5 de reposo.",
-    "Calienta el aceite de oliva en una cazuela a fuego medio-alto y saltea el cerdo con el ajo y el jengibre picados 3 minutos, hasta que pierda el color rosado.",
-    "Añade el kimchi escurrido y troceado (reserva el jugo) y la cebolla en juliana. Sofríe 3 minutos: el kimchi se ablanda y suelta su aroma.",
+    "Mientras, pica el ajo y el jengibre, corta la cebolla en juliana y trocea el kimchi escurrido (reserva el jugo). Calienta el aceite de oliva en una cazuela a fuego medio-alto y saltea el cerdo con el ajo y el jengibre 3 minutos, hasta que pierda el color rosado.",
+    "Añade el kimchi y la cebolla. Sofríe 3 minutos: el kimchi se ablanda y suelta su aroma.",
     "Incorpora el gochujang, la soja y el azúcar, remueve, y vierte el caldo y el jugo del kimchi. Lleva a ebullición y cuece 8 minutos a fuego medio.",
     "Corta el tofu en lonchas gruesas y colócalas encima sin remover mucho; cuece 3 minutos más para que se calienten. Prueba de sal.",
     "Termina con la cebolleta en aros y el aceite de sésamo. Sírvelo hirviendo en la propia cazuela, con el arroz en cuencos aparte."
@@ -669,8 +669,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el pollo y dóralo en la cazuela con el aceite a fuego medio-alto 4 minutos. Sácalo y resérvalo.",
-    "En el mismo aceite rehoga la cebolla, la zanahoria y el apio picados 8 minutos a fuego medio. Añade el ajo y el jengibre rallados, el curry, la cúrcuma y el garam masala, y remueve 1 minuto hasta que las especias huelan.",
+    "Pica la cebolla, la zanahoria y el apio y ralla el ajo y el jengibre. Sala el pollo y dóralo en la cazuela con el aceite a fuego medio-alto 4 minutos. Sácalo y resérvalo.",
+    "En el mismo aceite rehoga la cebolla, la zanahoria y el apio 8 minutos a fuego medio. Añade el ajo y el jengibre, el curry, la cúrcuma y el garam masala, y remueve 1 minuto hasta que las especias huelan.",
     "Incorpora el tomate, la manzana, las lentejas lavadas y el caldo. Lleva a ebullición y cuece a fuego suave 25 minutos, hasta que las lentejas se deshagan.",
     "Mientras, cuece el arroz basmati lavado en agua hirviendo con sal 10 minutos, escúrrelo y resérvalo tapado.",
     "Tritura la sopa hasta que quede cremosa (si la prefieres con tropezones, tritura solo la mitad). Devuelve el pollo a la cazuela con la leche de coco y cuece 8 minutos más, hasta que esté tierno.",
@@ -805,9 +805,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las salchichas en rodajas de 2 cm y dóralas en la cazuela con el aceite a fuego medio-alto 5 minutos, hasta que estén tostadas. Sácalas y resérvalas, dejando la grasa.",
-    "Baja a fuego medio y rehoga la cebolla, la zanahoria y el ajo picados 6 minutos. Añade el tomate concentrado y el pimentón y remueve 1 minuto.",
-    "Incorpora la col, la patata en dados de 2 cm, el laurel y el caldo. Lleva a ebullición y cuece 15 minutos a fuego medio, hasta que la patata esté casi tierna y la col blanda.",
+    "Pica la cebolla, la zanahoria y el ajo y corta la patata en dados de 2 cm. Corta las salchichas en rodajas de 2 cm y dóralas en la cazuela con el aceite a fuego medio-alto 5 minutos, hasta que estén tostadas. Sácalas y resérvalas, dejando la grasa.",
+    "Baja a fuego medio y rehoga la cebolla, la zanahoria y el ajo 6 minutos. Añade el tomate concentrado y el pimentón y remueve 1 minuto.",
+    "Incorpora la col, la patata, el laurel y el caldo. Lleva a ebullición y cuece 15 minutos a fuego medio, hasta que la patata esté casi tierna y la col blanda.",
     "Añade las judías y las salchichas y cuece 8 minutos más para que todo tome sabor.",
     "Disuelve la mostaza en un cucharón de caldo y añádela; prueba de sal y pimienta.",
     "Retira el laurel y sirve bien caliente con perejil picado. Un trozo de pan de centeno al lado le va perfecto."
@@ -851,7 +851,7 @@ window.RECETAS_SEED.push({
     "Añade el caldo, lleva a ebullición y echa los guisantes congelados. Cuécelos solo 3 minutos desde que vuelva a hervir: así conservan el verde brillante.",
     "Aparta del fuego, añade las hojas de menta (reserva unas pocas) y tritura con la batidora hasta que quede muy fina. Pásala por un colador si quieres eliminar las pieles.",
     "Incorpora el yogur, el zumo del limón, sal y pimienta y vuelve a batir 10 segundos. Enfríala rápido: pasa la cazuela a un bol con agua y hielo 10 minutos, o déjala en la nevera si tienes tiempo.",
-    "Tuesta el pan en una sartén o tostadora y pincélalo con el resto del aceite.",
+    "Mientras se enfría, tuesta el pan en una sartén o tostadora y pincélalo con el resto del aceite.",
     "Sirve la crema fría con el feta desmenuzado, las hojas de menta reservadas, pimienta y el pan crujiente partido por encima."
   ],
   nutricion: { kcal: 440, prot: 21, hc: 44, grasa: 20 },
@@ -934,7 +934,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Rehoga la cebolla picada en la cazuela con el aceite a fuego medio 5 minutos. Añade el ajo y el jengibre rallados, el comino y la cayena y remueve 1 minuto.",
+    "Pica la cebolla y ralla el ajo y el jengibre. Rehoga la cebolla en la cazuela con el aceite a fuego medio 5 minutos. Añade el ajo y el jengibre, el comino y la cayena y remueve 1 minuto.",
     "Incorpora el tomate triturado y cuece 3 minutos. Añade el boniato, el caldo y los muslos de pollo enteros y salados. Lleva a ebullición y cuece a fuego suave 20 minutos, hasta que el boniato esté tierno y el pollo hecho.",
     "Saca el pollo y desmenúzalo con dos tenedores.",
     "Disuelve la mantequilla de cacahuete en un bol con un cucharón de caldo caliente hasta que no queden grumos y viértela en la cazuela. Tritura la sopa hasta que quede cremosa.",
@@ -983,9 +983,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Si tienes cabezas y cáscaras de langostino, sofríelas 3 minutos en una cazuela con un chorrito de aceite, cúbrelas con el caldo de pescado, hierve 15 minutos y cuela. Si no, calienta el caldo tal cual.",
-    "Rehoga la cebolla y el ajo picados en la cazuela con el aceite a fuego medio 6 minutos. Añade el pimentón, la cayena y el orégano, remueve 30 segundos e incorpora el tomate triturado; cuece 4 minutos hasta que espese.",
-    "Vierte el caldo, añade la patata en dados de 2 cm y el arroz lavado. Lleva a ebullición y cuece 18 minutos a fuego medio, hasta que la patata esté tierna y el arroz haya soltado almidón.",
+    "Si tienes cabezas y cáscaras de langostino, sofríelas 3 minutos en una cazuela con un chorrito de aceite, cúbrelas con el caldo de pescado, hierve 15 minutos y cuela. Si no, calienta el caldo tal cual. Mientras, pica la cebolla y el ajo y corta la patata en dados de 2 cm.",
+    "Rehoga la cebolla y el ajo en la cazuela con el aceite a fuego medio 6 minutos. Añade el pimentón, la cayena y el orégano, remueve 30 segundos e incorpora el tomate triturado; cuece 4 minutos hasta que espese.",
+    "Vierte el caldo, añade la patata y el arroz lavado. Lleva a ebullición y cuece 18 minutos a fuego medio, hasta que la patata esté tierna y el arroz haya soltado almidón.",
     "Añade el maíz y los guisantes y la leche, y calienta sin que hierva fuerte 3 minutos.",
     "Incorpora los langostinos salados y cuece 2 minutos. Casca los huevos sobre la sopa, en zonas separadas, tapa y cuece 3 minutos a fuego suave hasta que la clara cuaje.",
     "Prueba de sal y pimienta y sirve cada huevo con su sopa, con el queso fresco en dados y el cilantro picado por encima."

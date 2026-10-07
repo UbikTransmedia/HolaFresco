@@ -118,7 +118,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava bien las remolachas, córtales las hojas dejando 1 cm de tallo (no las peles, así no sangran) y pártelas por la mitad. Ponlas sobre el cestillo con el agua en el fondo de la olla.",
     "Cierra, fuego fuerte hasta que suba la válvula y luego fuego medio-bajo 10 min. Despresuriza rápido. Pincha con un cuchillo: debe entrar fácil. Si tus remolachas son grandes, dale 2 min más.",
-    "Mientras, mezcla el yogur con el eneldo picado (reserva unas ramitas), la mostaza, una pizca de sal y pimienta. Tuesta las nueces en una sartén seca 3 min y trocéalas.",
+    "Mientras, mezcla el yogur con el eneldo picado (reserva unas ramitas), la mostaza, una pizca de sal y pimienta. Tuesta las nueces en una sartén seca 3 min y trocéalas. Tuesta el pan.",
     "Prepara la vinagreta en un bol: vinagre, miel, aceite, sal y pimienta. Corta los rábanos y la manzana en láminas finas y déjalos en la vinagreta para que se maceren.",
     "Deja templar las remolachas 2-3 min y pélalas con las manos protegidas con papel de cocina: la piel sale sola. Córtalas en gajos y mézclalas aún tibias con la vinagreta, el rábano y la manzana.",
     "Extiende el yogur al eneldo en el fondo de dos platos, pon encima la remolacha, las nueces y el eneldo reservado. Acompaña con el pan tostado."
@@ -239,7 +239,7 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros, rallados" },
     { n: "leche de coco", q: 200, u: "ml" },
-    { n: "agua", q: 400, u: "ml" },
+    { n: "agua", q: 580, u: "ml" },
     { n: "cúrcuma molida", q: 1, u: "cdta" },
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "comino en grano", q: 1, u: "cdta" },
@@ -251,9 +251,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el arroz a cocer aparte según el paquete (unos 12 min) mientras haces el dal. Enjuaga las lentejas rojas hasta que el agua salga clara.",
+    "Pica la cebolla. Enjuaga el arroz y ponlo a cocer aparte en 180 ml de agua con sal, tapado y a fuego mínimo, unos 12 min, mientras haces el dal. Enjuaga las lentejas rojas hasta que el agua salga clara.",
     "Calienta 1 cda de aceite en la olla a fuego medio y sofríe la cebolla picada 4 min. Añade el ajo y el jengibre rallados y la cúrcuma, remueve 30 s y echa el tomate rallado. Cocina 2 min.",
-    "Agrega las lentejas, el agua, la leche de coco y sal. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 5 min.",
+    "Agrega las lentejas, 400 ml de agua, la leche de coco y sal. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 5 min.",
     "Aparta del fuego y deja despresurizar de forma natural 5 min (las lentejas rojas espuman y podrían salir por la válvula si abres rápido). Abre y remueve: las lentejas estarán deshechas y cremosas.",
     "Añade las espinacas y el garam masala y remueve 1 min hasta que se marchiten. Si está muy espeso, aclara con un poco de agua caliente.",
     "Haz el tadka: calienta la otra cda de aceite en una sartén pequeña a fuego fuerte, echa el comino en grano y la guindilla y, en cuanto chisporroteen (20 s), viértelo sobre el dal.",
@@ -296,9 +296,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca los contramuslos y salpimiéntalos. Calienta el aceite en la olla destapada a fuego fuerte y dóralos 4 min por el lado de la piel y 2 por el otro, hasta que la piel esté crujiente. Resérvalos.",
-    "Retira la mitad de la grasa. Baja a fuego medio y sofríe el puerro en rodajas y el ajo laminado 4 min hasta que ablanden. Añade el vino y raspa el fondo 1 min.",
-    "Incorpora el caldo, las dos mostazas, el estragón y los contramuslos con la piel hacia arriba. Pon las patatas peladas y en trozos grandes en el cestillo encima del pollo (o sobre él, sin sumergir).",
+    "Corta el puerro en rodajas, lamina el ajo y pela las patatas en trozos grandes. Seca los contramuslos y salpimiéntalos. Calienta el aceite en la olla destapada a fuego fuerte y dóralos 4 min por el lado de la piel y 2 por el otro, hasta que la piel esté crujiente. Resérvalos.",
+    "Retira la mitad de la grasa. Baja a fuego medio y sofríe el puerro y el ajo 4 min hasta que ablanden. Añade el vino y raspa el fondo 1 min.",
+    "Incorpora el caldo, las dos mostazas, el estragón y los contramuslos con la piel hacia arriba. Pon las patatas en el cestillo encima del pollo (o sobre él, sin sumergir).",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego mínimo y cuenta 8 min. Despresuriza rápido.",
     "Saca las patatas a un bol, machácalas con la mantequilla, sal y pimienta hasta un puré rústico. Saca el pollo y mantenlo caliente.",
     "Añade la nata a la salsa y redúcela destapada a fuego fuerte 3 min hasta que nape la cuchara. Rectifica de sal.",
@@ -343,11 +343,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien la sepia. Calienta el aceite en la olla a fuego fuerte y saltéala 3 min hasta que suelte el agua y empiece a dorar. Resérvala con su jugo.",
-    "Baja a fuego medio y sofríe la cebolla picada 5 min. Añade 2 ajos picados y el tomate rallado y cocina 3 min hasta que pierda el agua. Aparta un segundo, añade el pimentón y remueve 20 s.",
+    "Pica la cebolla y 2 ajos. Seca bien la sepia. Calienta el aceite en la olla a fuego fuerte y saltéala 3 min hasta que suelte el agua y empiece a dorar. Resérvala con su jugo.",
+    "Baja a fuego medio y sofríe la cebolla 5 min. Añade los 2 ajos picados y el tomate rallado y cocina 3 min hasta que pierda el agua. Aparta un segundo, añade el pimentón y remueve 20 s.",
     "Vuelve a poner la sepia, vierte el vino y deja que hierva 1 min. Añade el agua, el laurel, sal y pimienta: el líquido debe cubrir la sepia justo.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 8 min. Despresuriza rápido y comprueba la sepia: debe estar tierna al morder.",
-    "Añade las patatas peladas y cascadas en trozos de 3 cm. Cierra de nuevo y, desde que suba la válvula, cuenta 4 min a fuego mínimo. Despresuriza rápido.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 8 min. Mientras, pela las patatas y cáscalas en trozos de 3 cm. Despresuriza rápido y comprueba la sepia: debe estar tierna al morder.",
+    "Añade las patatas. Cierra de nuevo y, desde que suba la válvula, cuenta 4 min a fuego mínimo. Despresuriza rápido.",
     "Echa los guisantes congelados y cuece destapado 3 min a fuego medio. Aplasta un trozo de patata contra la pared para espesar la salsa.",
     "Mezcla la mayonesa con el ajo restante majado y unas gotas de limón. Sirve el guiso con perejil picado y una cucharada del alioli encima de cada plato."
   ],
@@ -388,9 +388,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las gambas reservando cabezas y cáscaras. Calienta 1 cda de aceite en la olla a fuego fuerte y fríe las cabezas y cáscaras 3 min aplastándolas con la cuchara. Añade el agua y sal, cierra y, cuando suba la válvula, cuenta 5 min a fuego medio.",
+    "Pela las gambas reservando cabezas y cáscaras. Calienta 1 cda de aceite en la olla a fuego fuerte y fríe las cabezas y cáscaras 3 min aplastándolas con la cuchara. Añade el agua y sal, cierra y, cuando suba la válvula, cuenta 5 min a fuego medio. Mientras, corta la cebolla y el pimiento en dados pequeños y pica el ajo.",
     "Despresuriza rápido, cuela el fumet a una jarra apretando bien las cabezas y limpia la olla. Tuesta las hebras de azafrán 10 s en una cuchara sobre la llama y échalas al fumet.",
-    "En la olla, con el resto del aceite a fuego medio, sofríe la cebolla y el pimiento en dados pequeños 6 min. Añade el ajo picado y el tomate rallado y cocina 3 min. Aparta del fuego, añade el pimentón y remueve 20 s.",
+    "En la olla, con el resto del aceite a fuego medio, sofríe la cebolla y el pimiento 6 min. Añade el ajo y el tomate rallado y cocina 3 min. Aparta del fuego, añade el pimentón y remueve 20 s.",
     "Echa el arroz, remueve 1 min para que coja el sofrito, vierte el vino y deja evaporar 1 min. Añade 600 ml del fumet caliente (guarda el resto) y prueba de sal.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 5 min. Despresuriza rápido.",
     "Pon la olla a fuego medio destapada, añade las gambas peladas y el fumet restante si lo quieres más caldoso, y cuece 2 min justos: las gambas deben quedar rosadas y jugosas.",
@@ -434,9 +434,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los huevos en el cestillo de la olla con 250 ml de agua. Cierra, y desde que suba la válvula cuenta 5 min a fuego medio. Despresuriza rápido y enfría los huevos en agua: quedan duros y se pelan solos. Vacía la olla.",
+    "Pon los huevos en el cestillo de la olla con 250 ml de agua. Cierra, y desde que suba la válvula cuenta 5 min a fuego medio. Mientras, pica la cebolla y 1 ajo. Despresuriza rápido y enfría los huevos en agua: quedan duros y se pelan solos. Vacía la olla.",
     "Calienta el aceite a fuego medio y fríe la rebanada de pan y 2 ajos enteros 2-3 min hasta que estén dorados. Sácalos y májalos en un mortero con el comino y una pizca de sal hasta hacer una pasta (la picada).",
-    "En el mismo aceite sofríe la cebolla picada 5 min. Añade el ajo restante picado y el tomate triturado y cocina 4 min hasta que oscurezca. Aparta, añade el pimentón y remueve 20 s.",
+    "En el mismo aceite sofríe la cebolla 5 min. Añade el ajo picado y el tomate triturado y cocina 4 min hasta que oscurezca. Aparta, añade el pimentón y remueve 20 s.",
     "Agrega los garbanzos, el caldo, el laurel, la picada y pimienta. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 4 min para que los garbanzos tomen sabor.",
     "Despresuriza rápido. Pon a fuego medio destapado, añade las espinacas por puñados y, cuando se marchiten (2 min), coloca los tacos de bacalao encima sin remover.",
     "Tapa sin cerrar a presión y cocina 4 min a fuego suave hasta que el bacalao se abra en lascas. Prueba de sal (el bacalao ya aporta).",
@@ -480,11 +480,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta las costillas. Calienta el aceite en la olla destapada a fuego fuerte y dóralas bien por todos lados, 6-8 min por tandas. Resérvalas.",
-    "Baja a fuego medio y sofríe la cebolla, el pimiento verde en dados y el ajo picado 5 min. Añade el tomate rallado y cocina 2 min.",
+    "Pica la cebolla y el ajo y corta el pimiento verde en dados. Salpimienta las costillas. Calienta el aceite en la olla destapada a fuego fuerte y dóralas bien por todos lados, 6-8 min por tandas. Resérvalas.",
+    "Baja a fuego medio y sofríe la cebolla, el pimiento verde y el ajo 5 min. Añade el tomate rallado y cocina 2 min.",
     "Aparta del fuego, añade los dos pimentones y la guindilla, remueve 20 s y vierte enseguida el vino para que no se queme. Hierve 1 min raspando el fondo.",
-    "Devuelve las costillas, añade el caldo y el laurel. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 12 min.",
-    "Despresuriza rápido. Pela las patatas y cáscalas (clava el cuchillo y rompe) en trozos de 4 cm: así sueltan almidón y espesan el guiso. Añádelas a la olla y comprueba que el líquido las cubre a ras; si no, añade un poco de agua caliente.",
+    "Devuelve las costillas, añade el caldo y el laurel. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 12 min. Mientras, pela las patatas y cáscalas (clava el cuchillo y rompe) en trozos de 4 cm: así sueltan almidón y espesan el guiso.",
+    "Despresuriza rápido. Añade las patatas a la olla y comprueba que el líquido las cubre a ras; si no, añade un poco de agua caliente.",
     "Cierra de nuevo y, desde que suba la válvula, cuenta 5 min a fuego mínimo. Despresuriza rápido.",
     "Rectifica de sal, deja reposar destapado 5 min para que la salsa se asiente y sirve en plato hondo."
   ],
@@ -516,7 +516,7 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 20, u: "g" },
     { n: "tomate triturado", q: 200, u: "g" },
     { n: "leche de coco", q: 200, u: "ml" },
-    { n: "agua", q: 100, u: "ml" },
+    { n: "agua", q: 280, u: "ml" },
     { n: "curry en polvo", q: 1, u: "cda" },
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
@@ -529,9 +529,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el arroz a cocer aparte (unos 12 min). Calienta el aceite en la olla a fuego medio y sofríe la cebolla picada 5 min hasta que esté dorada.",
+    "Pica la cebolla. Enjuaga el arroz y ponlo a cocer aparte en 180 ml de agua con sal, tapado y a fuego mínimo, unos 12 min. Calienta el aceite en la olla a fuego medio y sofríe la cebolla 5 min hasta que esté dorada.",
     "Añade el ajo y el jengibre rallados, el curry, la cúrcuma y el garam masala y remueve 1 min para que las especias se tuesten y perfumen. Echa el tomate triturado y cocina 3 min.",
-    "Agrega la calabaza, los garbanzos, la leche de coco, el agua y sal. Remueve y comprueba que hay líquido suficiente (debe cubrir casi todo).",
+    "Agrega la calabaza, los garbanzos, la leche de coco, 100 ml de agua y sal. Remueve y comprueba que hay líquido suficiente (debe cubrir casi todo).",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 4 min. Despresuriza rápido: la calabaza debe estar tierna pero entera.",
     "Aplasta unos dados de calabaza con la cuchara para ligar la salsa, añade las espinacas y remueve 1-2 min a fuego medio hasta que se marchiten. Prueba y ajusta de sal y lima.",
     "Sirve con el arroz, los anacardos tostados troceados, cilantro picado y gajos de lima."
@@ -574,8 +574,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga los garbanzos secos y retira los que floten. No hace falta remojo: el bicarbonato ablanda la piel y la presión hace el resto.",
-    "Calienta el aceite en la olla a fuego medio y sofríe el chorizo 2 min hasta que suelte grasa roja. Sácalo y resérvalo. En esa grasa sofríe la cebolla, la zanahoria en rodajas y el ajo picados 6 min.",
+    "Enjuaga los garbanzos secos y retira los que floten. No hace falta remojo: el bicarbonato ablanda la piel y la presión hace el resto. Pica la cebolla y el ajo y corta la zanahoria en rodajas.",
+    "Calienta el aceite en la olla a fuego medio y sofríe el chorizo 2 min hasta que suelte grasa roja. Sácalo y resérvalo. En esa grasa sofríe la cebolla, la zanahoria y el ajo 6 min.",
     "Añade el tomate rallado y cocina 2 min. Aparta del fuego, añade el pimentón y el comino, remueve 20 s y vierte el agua.",
     "Incorpora los garbanzos, el laurel y el bicarbonato. No añadas sal todavía (endurece la piel). El agua debe cubrir los garbanzos con 3 dedos de sobra.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo que mantenga la presión y cuenta 40 min.",
@@ -617,18 +617,18 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud", nota: "solo la ralladura" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "polenta", q: 120, u: "g", nota: "instantánea, para acompañar" },
+    { n: "agua", q: 500, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz 3 cortes en la membrana exterior de cada rodaja para que no se curve. Salpimienta y enharina ligeramente. Calienta el aceite y la mantequilla en la olla a fuego fuerte y dora el ossobuco 4 min por cara. Resérvalo.",
-    "Baja a fuego medio y sofríe la cebolla, la zanahoria y el apio en dados muy pequeños 8 min hasta que estén blandos y dulces. Añade 1 ajo picado y remueve 30 s.",
+    "Corta la cebolla, la zanahoria y el apio en dados muy pequeños. Haz 3 cortes en la membrana exterior de cada rodaja para que no se curve. Salpimienta y enharina ligeramente. Calienta el aceite y la mantequilla en la olla a fuego fuerte y dora el ossobuco 4 min por cara. Resérvalo.",
+    "Baja a fuego medio y sofríe la cebolla, la zanahoria y el apio 8 min hasta que estén blandos y dulces. Añade 1 ajo picado y remueve 30 s.",
     "Vierte el vino, deja que reduzca a la mitad raspando el fondo (2-3 min). Añade el tomate, el caldo y el laurel y devuelve la carne con sus jugos: el líquido debe llegar a dos tercios de las rodajas.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo que mantenga la presión y cuenta 30 min.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo que mantenga la presión y cuenta 30 min. Mientras, prepara la gremolata picando muy fino el perejil, el ajo restante y la ralladura de limón.",
     "Aparta y deja despresurizar de forma natural, 15 min: el colágeno se relaja y la carne queda melosa sin desprenderse del hueso. Abre con cuidado.",
-    "Saca la carne con una espumadera. Reduce la salsa destapada a fuego fuerte 5 min hasta que espese y brille. Rectifica de sal.",
-    "Prepara la gremolata picando muy fino el perejil, el ajo restante y la ralladura de limón. Cuece la polenta con agua y sal según el paquete (3-5 min).",
+    "Saca la carne con una espumadera. Reduce la salsa destapada a fuego fuerte 5 min hasta que espese y brille. Rectifica de sal. Al mismo tiempo, lleva el agua a ebullición con sal, echa la polenta en lluvia y cuécela removiendo 3-5 min (o según el paquete).",
     "Sirve la polenta, el ossobuco encima con su salsa y una buena cucharada de gremolata. Rebaña el tuétano con pan: es lo mejor del plato."
   ],
   nutricion: { kcal: 680, prot: 48, hc: 38, grasa: 36 },
@@ -673,8 +673,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta un limón en rodajas finas y escáldalo en la olla con agua hirviendo 2 min para quitarle el amargor; escúrrelo y seca la olla. Mezcla las especias (cúrcuma, comino, cilantro, canela) con sal y pimienta y frota el pollo con la mitad.",
     "Calienta el aceite en la olla a fuego fuerte y dora el pollo 4 min por el lado de la piel y 2 por el otro. Resérvalo.",
-    "Baja a fuego medio y sofríe la cebolla en juliana 8 min hasta que esté muy blanda y dorada. Añade el ajo y el jengibre rallados y el resto de especias, remueve 1 min.",
-    "Añade el caldo, el zumo del segundo limón, el azafrán y las rodajas de limón escaldadas. Coloca el pollo con la piel hacia arriba y las patatas peladas en trozos grandes alrededor, sin cubrirlas del todo.",
+    "Baja a fuego medio y sofríe la cebolla en juliana 8 min hasta que esté muy blanda y dorada; mientras, pela las patatas y córtalas en trozos grandes. Añade a la cebolla el ajo y el jengibre rallados y el resto de especias, remueve 1 min.",
+    "Añade el caldo, el zumo del segundo limón, el azafrán y las rodajas de limón escaldadas. Coloca el pollo con la piel hacia arriba y las patatas alrededor, sin cubrirlas del todo.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 10 min.",
     "Aparta y deja despresurizar de forma natural 8 min. Abre: las patatas deben estar tiernas y el pollo a punto de soltarse del hueso.",
     "Saca pollo y patatas a una fuente. Añade las aceitunas a la salsa y redúcela destapada a fuego fuerte 4 min hasta que espese un poco. Vierte sobre el pollo y termina con cilantro picado."
@@ -718,11 +718,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Dora las alitas en la olla con el aceite a fuego fuerte 5 min hasta que cojan color: eso oscurece y da cuerpo al caldo. Añade la cebolla partida por la mitad con la cara hacia abajo y tuéstala 2 min.",
-    "Añade el agua, 1 zanahoria, la parte verde del puerro, el apio, el ajo, el laurel, los tallos del perejil y una cucharadita de sal. Cierra a fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 25 min.",
+    "Añade el agua, 1 zanahoria, la parte verde del puerro, el apio, el ajo, el laurel, los tallos del perejil y una cucharadita de sal. Cierra a fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 25 min. Mientras, corta la otra zanahoria y la parte blanca del puerro en daditos y pica las hojas de perejil.",
     "Aparta y deja despresurizar de forma natural, unos 10 min (si abres rápido el caldo se enturbia). Cuela el caldo a una jarra, desgrásalo con una cuchara y desmenuza la carne de las alitas, desechando piel y huesos.",
-    "Limpia la olla y vierte el caldo de nuevo. Añade la otra zanahoria y la parte blanca del puerro en daditos y hierve destapado 6 min a fuego medio.",
+    "Limpia la olla y vierte el caldo de nuevo. Añade la zanahoria y el puerro en daditos y hierve destapado 6 min a fuego medio.",
     "Echa los fideos y la carne desmenuzada y cuece 4-5 min según indique el paquete. Prueba y rectifica de sal y pimienta.",
-    "Sirve con perejil picado, huevo duro picado y, si te gusta, unas hojas de hierbabuena."
+    "Sirve con el perejil picado, huevo duro picado y, si te gusta, unas hojas de hierbabuena."
   ],
   nutricion: { kcal: 400, prot: 34, hc: 40, grasa: 10 },
   etiquetas: ["sopa", "ligera", "invierno", "económica", "para niños", "batch cooking", "poco especiada"],
@@ -762,9 +762,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga las alubias. Ponlas en la olla con el agua fría, media cebolla entera, el pimiento verde entero, 1 ajo, el laurel y 1 cda de aceite. Sin sal.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 35 min. Aparta y deja despresurizar de forma natural, unos 15 min, para que la piel no se rompa.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 35 min. Aparta y deja despresurizar de forma natural, unos 15 min, para que la piel no se rompa. Mientras, pon las almejas a purgar 30 min en agua con sal y pica muy finos la otra media cebolla, 2 ajos y el perejil.",
     "Abre y prueba: la alubia debe estar tierna y entera. Si no, cierra y da 6-8 min más. Retira la cebolla, el pimiento y el ajo; pásalos por un pasapurés o aplástalos y devuélvelos al guiso para espesar. Sala ahora y deja a fuego muy suave.",
-    "En una sartén con 2 cda de aceite sofríe a fuego medio la otra media cebolla y 2 ajos muy picados 5 min. Añade la harina y el pimentón, remueve 30 s y vierte el vino; hierve 1 min.",
+    "En una sartén con 2 cda de aceite sofríe a fuego medio la media cebolla y los 2 ajos picados 5 min. Añade la harina y el pimentón, remueve 30 s y vierte el vino; hierve 1 min.",
     "Echa las almejas escurridas a la sartén, tapa y sube el fuego: en 2-3 min se abrirán. Desecha las que sigan cerradas. Añade el perejil picado y el azafrán.",
     "Vuelca el contenido de la sartén sobre las alubias, mueve la olla en vaivén (sin cuchara, para no romperlas) y deja reposar 5 min a fuego mínimo destapado.",
     "Sirve en plato hondo con el caldo ligado y las almejas repartidas."
@@ -859,8 +859,8 @@ window.RECETAS_SEED.push({
     "Baja a fuego medio y sofríe la cebolla en juliana con una pizca de sal 10 min hasta que esté dorada y blanda. Añade el azúcar moreno y deja caramelizar 2 min.",
     "Vierte la cerveza y el vinagre, raspa el fondo y hierve 2 min. Añade el caldo, el tomillo, el laurel y la carne con sus jugos.",
     "Unta las rebanadas de pan con la mostaza por una cara y colócalas sobre el guiso con la mostaza hacia abajo: se deshacen en la cocción y ligan la salsa.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 25 min. Aparta y deja despresurizar de forma natural 12 min.",
-    "Abre y remueve para integrar el pan. Pon las patatas peladas y en trozos grandes en el cestillo encima del guiso, cierra y, cuando suba la válvula, cuenta 5 min a fuego mínimo. Despresuriza rápido.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 25 min. Aparta y deja despresurizar de forma natural 12 min. Mientras, pela las patatas y córtalas en trozos grandes.",
+    "Abre y remueve para integrar el pan. Pon las patatas en el cestillo encima del guiso, cierra y, cuando suba la válvula, cuenta 5 min a fuego mínimo. Despresuriza rápido.",
     "Saca las patatas. Si la salsa está líquida, reduce destapado 5 min a fuego fuerte. Rectifica de sal, pimienta y un toque más de vinagre si lo quieres más vivo. Sirve con las patatas y tomillo fresco."
   ],
   nutricion: { kcal: 740, prot: 46, hc: 60, grasa: 34 },
@@ -897,7 +897,7 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "cayena", q: 1, u: "pizca" },
     { n: "canela en rama", q: 1, u: "ud" },
-    { n: "agua", q: 150, u: "ml" },
+    { n: "agua", q: 375, u: "ml" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "mantequilla", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
@@ -954,11 +954,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca los trozos de rabo, sálalos y enharínalos sacudiendo el exceso. Calienta el aceite en la olla a fuego fuerte y dóralos por todos lados, 10-12 min en dos tandas: la costra oscura es la base de la salsa. Resérvalos.",
-    "Baja a fuego medio y sofríe la cebolla, las zanahorias, el puerro y el ajo en trozos gruesos 10 min hasta que doren. Añade el tomate concentrado y remueve 1 min.",
+    "Corta la cebolla, las zanahorias, el puerro y el ajo en trozos gruesos. Seca los trozos de rabo, sálalos y enharínalos sacudiendo el exceso. Calienta el aceite en la olla a fuego fuerte y dóralos por todos lados, 10-12 min en dos tandas: la costra oscura es la base de la salsa. Resérvalos.",
+    "Baja a fuego medio y sofríe las verduras 10 min hasta que doren. Añade el tomate concentrado y remueve 1 min.",
     "Vierte el vino, sube el fuego y deja reducir a la mitad, unos 6 min, raspando el fondo. Añade el caldo, el laurel, el tomillo, la pimienta en grano y el clavo. Devuelve el rabo: el líquido debe cubrirlo casi del todo.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo que mantenga la presión y cuenta 55 min.",
-    "Aparta del fuego y deja despresurizar de forma completamente natural, 20-25 min: con esta carne tan gelatinosa es imprescindible para que quede melosa. Abre con cuidado.",
+    "Aparta del fuego y deja despresurizar de forma completamente natural, 20-25 min: con esta carne tan gelatinosa es imprescindible para que quede melosa. Mientras, pela las patatas y córtalas en trozos. Abre con cuidado.",
     "Saca los trozos de rabo a una fuente. Cuela la salsa a una cazuela aplastando las verduras, desgrásala con un cucharón y redúcela a fuego fuerte 12-15 min hasta que nape la cuchara y esté brillante. Vuelve a meter el rabo 5 min para que se glasee.",
     "Mientras reduce, cuece las patatas en la olla limpia con 250 ml de agua en el cestillo: 8 min desde que suba la válvula, despresurización rápida. Pásalas por el pasapurés con la mantequilla, la leche caliente, sal y el aceite de trufa.",
     "Sirve el puré, el rabo encima y salsea generosamente. Mejor aún al día siguiente."
@@ -999,6 +999,7 @@ window.RECETAS_SEED.push({
     { n: "tortillas de maíz", q: 1, u: "ud", nota: "tostada, para espesar" },
     { n: "caldo de pollo", q: 350, u: "ml" },
     { n: "arroz redondo", q: 120, u: "g" },
+    { n: "agua", q: 300, u: "ml" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" }
@@ -1010,7 +1011,7 @@ window.RECETAS_SEED.push({
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 35 min. Aparta y deja despresurizar de forma natural 15 min.",
     "Saca las carrilladas (deben ceder al presionar) y mantenlas tapadas. Pasa la salsa con las almendras, el sésamo y la tortilla tostada por la batidora hasta que quede fina. Devuélvela a la olla.",
     "Añade el chocolate troceado y cocina la salsa destapada a fuego medio 10 min removiendo hasta que espese, brille y oscurezca. Prueba: ajusta de sal, un poco más de chipotle si quieres picante, o una pizca de azúcar si está amarga.",
-    "Mientras reduce, cuece el arroz blanco (unos 15 min en cazo aparte). Devuelve la carrillada al mole y deja 5 min a fuego mínimo para que se impregne.",
+    "Mientras reduce, cuece el arroz en un cazo aparte con el agua y sal, tapado y a fuego suave, unos 15 min. Devuelve la carrillada al mole y deja 5 min a fuego mínimo para que se impregne.",
     "Sirve la carrillada bañada en mole sobre el arroz, con sésamo tostado y cilantro por encima."
   ],
   nutricion: { kcal: 820, prot: 48, hc: 50, grasa: 46 },
@@ -1055,9 +1056,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Primera cocción: pon la falda en la olla con el agua, 1 cebolla en cuartos, 2 ajos, 1 hoja de laurel y sal. Cierra a fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 45 min.",
-    "Aparta y deja despresurizar de forma natural 15 min. Saca la carne (debe deshilacharse con un tenedor) y deja templar 10 min. Cuela y guarda el caldo: usarás 300 ml en el guiso y el resto para el arroz.",
+    "Aparta y deja despresurizar de forma natural 15 min; mientras, corta la otra cebolla y los pimientos en tiras finas y pica los 2 ajos restantes. Saca la carne (debe deshilacharse con un tenedor) y deja templar 10 min. Cuela y guarda el caldo: usarás 300 ml en el guiso y el resto para el arroz.",
     "Desmecha la carne en hebras con dos tenedores siguiendo la fibra, desechando grasa y nervios.",
-    "Limpia la olla y calienta el aceite a fuego medio. Sofríe la otra cebolla y los pimientos en tiras finas 8 min hasta que estén blandos. Añade los 2 ajos restantes picados, el comino y el orégano, remueve 1 min.",
+    "Limpia la olla y calienta el aceite a fuego medio. Sofríe la cebolla y los pimientos 8 min hasta que estén blandos. Añade los ajos picados, el comino y el orégano, remueve 1 min.",
     "Añade el tomate concentrado y el triturado, cocina 3 min y vierte el vino. Hierve 1 min, incorpora la carne desmechada, 300 ml de caldo, el otro laurel y pimienta.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 10 min. Despresuriza rápido. Añade las aceitunas y las alcaparras y reduce destapado 5 min hasta que la salsa abrace la carne.",
     "Mientras, cuece el arroz blanco en 300 ml del caldo reservado (15 min a fuego suave tapado). Sirve la ropa vieja sobre el arroz."
@@ -1140,6 +1141,7 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 40, u: "g", nota: "enteras peladas" },
     { n: "caldo de pollo", q: 300, u: "ml" },
     { n: "cuscús", q: 140, u: "g" },
+    { n: "agua", q: 170, u: "ml" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
@@ -1148,8 +1150,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla las especias molidas (cúrcuma, comino, cilantro) con sal y pimienta y frota el cordero. Calienta el aceite en la olla a fuego fuerte y dora los tacos por tandas 6-8 min en total. Resérvalos.",
-    "Baja a fuego medio y sofríe la cebolla en juliana 8 min hasta que esté dorada. Añade el ajo y el jengibre rallados, la canela y el azafrán y remueve 1 min.",
+    "Corta la cebolla en juliana. Mezcla las especias molidas (cúrcuma, comino, cilantro) con sal y pimienta y frota el cordero. Calienta el aceite en la olla a fuego fuerte y dora los tacos por tandas 6-8 min en total. Resérvalos.",
+    "Baja a fuego medio y sofríe la cebolla 8 min hasta que esté dorada. Añade el ajo y el jengibre rallados, la canela y el azafrán y remueve 1 min.",
     "Devuelve el cordero, añade el caldo y raspa el fondo. El líquido debe llegar a dos tercios de la carne.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 25 min. Aparta y deja despresurizar de forma natural 15 min.",
     "Abre, añade las ciruelas y la miel y cocina destapado a fuego medio 10-12 min, removiendo de vez en cuando, hasta que la salsa espese y las ciruelas estén brillantes y melosas. Rectifica de sal.",

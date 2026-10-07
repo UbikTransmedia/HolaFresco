@@ -38,9 +38,8 @@ window.RECETAS_SEED.push({
     "Mezcla en un bol la harina, la levadura, el azúcar y la sal. Añade el agua tibia y una cucharada de aceite y remueve con una cuchara 2 minutos, hasta tener una masa pegajosa y sin grumos: no hace falta amasar.",
     "Tapa y deja fermentar 60 minutos. Con la mano mojada, estira la masa desde un lado y pliégala sobre sí misma; gira el bol y repite cuatro veces. Tapa y deja 45 minutos más, hasta que esté llena de burbujas.",
     "Mientras, limpia y trocea las setas. Saltéalas a fuego fuerte con una cucharadita de aceite 5-6 minutos, hasta que doren y pierdan el agua; añade el ajo picado, las hojas de tomillo, sal y pimienta el último minuto. Reserva: crudas soltarían agua y empaparían la masa.",
-    "Unta generosamente con el aceite restante una bandeja de horno de unos 30x40 cm. Vuelca la masa, déjala reposar 10 minutos y estírala con las yemas de los dedos aceitadas hasta cubrir la bandeja. Deja reposar otros 20 minutos.",
-    "Precalienta el horno a 250 °C con la rejilla en la parte baja.",
-    "Reparte la mozzarella escurrida y troceada sobre la masa, encima las setas y el parmesano rallado.",
+    "Unta generosamente con el aceite restante una bandeja de horno de unos 30x40 cm. Vuelca la masa, déjala reposar 10 minutos y estírala con las yemas de los dedos aceitadas hasta cubrir la bandeja. Deja reposar otros 20 minutos; mientras, precalienta el horno a 250 °C con la rejilla en la parte baja y escurre y trocea la mozzarella.",
+    "Reparte la mozzarella sobre la masa, encima las setas y el parmesano rallado.",
     "Hornea 15-18 minutos en la parte baja, hasta que la base esté dorada y crujiente (levántala con una espátula para comprobarlo) y el queso tenga manchas tostadas.",
     "Fuera del horno riega con el aceite de trufa, añade la rúcula y pimienta, corta en rectángulos y sirve."
   ],
@@ -83,8 +82,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla la harina, la levadura, el azúcar y la sal. Añade el agua tibia y una cucharada de aceite y mezcla hasta tener una masa muy blanda y pegajosa. Amasa 5 minutos dentro del bol con la mano mojada, estirando y plegando.",
     "Tapa y deja fermentar 90 minutos en un lugar templado, hasta que doble su volumen.",
-    "Unta con una cucharada de aceite una bandeja de unos 25x30 cm, vuelca la masa, dóblala sobre sí misma dos veces y déjala reposar 30 minutos tapada: se extenderá sola casi hasta los bordes.",
-    "Precalienta el horno a 230 °C. Corta la cebolla morada en juliana fina y deshuesa las aceitunas.",
+    "Unta con una cucharada de aceite una bandeja de unos 25x30 cm, vuelca la masa, dóblala sobre sí misma dos veces y déjala reposar 30 minutos tapada: se extenderá sola casi hasta los bordes. Mientras, precalienta el horno a 230 °C, corta la cebolla morada en juliana fina y deshuesa las aceitunas.",
     "Con los dedos aceitados hunde la masa por toda la superficie formando hoyuelos profundos. Riega con el aceite restante batido con dos cucharadas de agua y una pizca de sal (esa emulsión hace la corteza), y reparte la cebolla, las aceitunas y las hojas de romero.",
     "Hornea 20-25 minutos, hasta que esté dorada por arriba y la base suene hueca al golpearla. Déjala 10 minutos sobre una rejilla.",
     "Caprese: corta el tomate y la mozzarella en rodajas y alterna en los platos; sala, pimienta, albahaca y unas gotas de balsámico.",
@@ -132,7 +130,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Naan: mezcla la harina con la levadura química y media cucharadita de sal, añade el yogur y el agua y amasa 3 minutos hasta tener una masa suave. Tápala y déjala reposar 20 minutos.",
+    "Naan: mezcla la harina con la levadura química y media cucharadita de sal, añade el yogur y el agua y amasa 3 minutos hasta tener una masa suave. Tápala y déjala reposar 20 minutos. Mientras, pon a hervir agua con sal para las espinacas, pica la cebolla y ralla el ajo, el jengibre y el tomate.",
     "Lava las espinacas y escáldalas 1 minuto en agua hirviendo con sal. Escúrrelas, refréscalas bajo el grifo y apriétalas. Tritúralas con el chile y dos cucharadas de agua hasta tener un puré grueso, no fino.",
     "Corta el paneer en dados de 2 cm y dóralo en una sartén antiadherente con el aceite a fuego medio-alto 4-5 minutos, girándolo, hasta que tenga las caras doradas. Reserva.",
     "En una cazuela funde la mitad de la mantequilla, sofríe la cebolla picada 6 minutos, añade el ajo y el jengibre rallados, el comino y la cúrcuma y remueve 1 minuto. Agrega el tomate rallado y cocina 4 minutos hasta que se seque.",
@@ -178,9 +176,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara un bol con agua y el zumo de medio limón. Limpia las alcachofas: retira las hojas exteriores duras hasta llegar a las amarillas, pela el tallo, corta la punta y pártelas por la mitad; quita la pelusa central si la tienen y sumérgelas en el agua con limón para que no ennegrezcan.",
     "Escúrrelas y sécalas. Ponlas en un cazo pequeño donde queden ajustadas, con los ajos enteros aplastados, el tomillo, el laurel y el aceite: debe cubrirlas casi del todo.",
-    "Calienta a fuego muy suave hasta que el aceite apenas burbujee (80-90 °C) y confita 25-30 minutos, hasta que un cuchillo entre sin resistencia. Sácalas con espumadera a papel de cocina y sálalas.",
+    "Calienta a fuego muy suave hasta que el aceite apenas burbujee (80-90 °C) y confita 25-30 minutos, hasta que un cuchillo entre sin resistencia. Mientras, pon al fuego una cazuela con agua y el vinagre para escalfar y pica el perejil. Saca las alcachofas con espumadera a papel de cocina y sálalas.",
     "Sube el fuego al aceite del confit y, cuando esté bien caliente, devuelve las alcachofas con el corte hacia abajo 2 minutos para que se doren. Escúrrelas de nuevo.",
-    "Lleva a ebullición suave una cazuela con agua y el vinagre. Escalfa los huevos 3 minutos, de dos en dos, con el truco del remolino, y escúrrelos sobre papel.",
+    "Con el agua de la cazuela a ebullición suave, escalfa los huevos 3 minutos, de dos en dos, con el truco del remolino, y escúrrelos sobre papel.",
     "Tuesta el pan y frótalo con uno de los ajos del confit.",
     "Reparte las alcachofas en los platos, pon los huevos encima y sala las yemas. Saca lascas de parmesano con un pelador y termina con perejil picado, pimienta, ralladura del medio limón restante y una cucharadita del aceite del confit. Sirve con la tostada."
   ],
@@ -220,8 +218,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Extiende el hojaldre sobre papel de horno en un rectángulo de unos 20x30 cm, marca un borde de 1,5 cm con un cuchillo sin llegar a cortar y pincha el interior con un tenedor.",
-    "Hornea la base sola 10 minutos, hasta que empiece a dorarse. Si el centro ha subido, aplástalo con el dorso de una cuchara.",
-    "Corta los higos en cuartos y el queso de cabra en rodajas finas. Reparte el queso sobre la base, encima los higos con la piel hacia abajo, las nueces troceadas, las hojas de tomillo, pimienta y la mitad de la miel en hilo.",
+    "Hornea la base sola 10 minutos, hasta que empiece a dorarse; mientras, corta los higos en cuartos y el queso de cabra en rodajas finas. Si el centro ha subido, aplástalo con el dorso de una cuchara.",
+    "Reparte el queso sobre la base, encima los higos con la piel hacia abajo, las nueces troceadas, las hojas de tomillo, pimienta y la mitad de la miel en hilo.",
     "Pinta el borde con la leche y hornea 15-18 minutos más, hasta que el borde esté dorado, el queso fundido y los higos jugosos y empezando a caramelizar.",
     "Aliña la rúcula con el aceite, el balsámico y una pizca de sal.",
     "Deja reposar 5 minutos, riega con la miel restante y sirve la tarta partida en dos con la rúcula encima."
@@ -263,7 +261,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Salsa ranchera: pica la cebolla, el ajo y el chile. Sofríe la mitad de la cebolla con el ajo y el chile en una cucharadita de aceite 3 minutos, añade los tomates rallados, el comino y sal y cocina 8 minutos a fuego medio, hasta que espese. Mantén caliente.",
+    "Salsa ranchera: pica la cebolla, el ajo y el chile y ralla los tomates. Sofríe la mitad de la cebolla con el ajo y el chile en una cucharadita de aceite 3 minutos, añade los tomates rallados, el comino y sal y cocina 8 minutos a fuego medio, hasta que espese. Mantén caliente.",
     "Alubias refritas: en un cazo con otra cucharadita de aceite sofríe el resto de la cebolla 3 minutos, añade las alubias escurridas con cuatro cucharadas de agua y aplástalas con un tenedor a fuego medio 5 minutos, hasta tener un puré rústico. Sala.",
     "Calienta las tortillas en una sartén seca 30 segundos por lado, hasta que estén flexibles y con algún punto tostado. Mantenlas envueltas en un paño.",
     "Fríe los huevos en la sartén con el aceite restante a fuego medio 3 minutos, hasta que la clara cuaje y la yema siga líquida.",
@@ -349,8 +347,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enciende el grill del horno al máximo. Corta el queso de cabra en 4 rodajas de 1,5 cm y colócalas sobre papel de horno en una bandeja pequeña, con una gota de miel y las hojas de tomillo encima.",
-    "Prepara la vinagreta en un bol: mostaza, vinagre, el resto de la miel, el aceite, sal y pimienta.",
-    "Calienta las lentejas escurridas en un cazo 3 minutos con dos cucharadas de agua, hasta que estén tibias. Escúrrelas y mézclalas en caliente con la mitad de la vinagreta y la cebolla morada picada fina.",
+    "Prepara la vinagreta en un bol: mostaza, vinagre, el resto de la miel, el aceite, sal y pimienta. Pica fina la cebolla morada.",
+    "Calienta las lentejas escurridas en un cazo 3 minutos con dos cucharadas de agua, hasta que estén tibias. Escúrrelas y mézclalas en caliente con la mitad de la vinagreta y la cebolla morada.",
     "Corta la pera en láminas finas con piel y trocea las nueces.",
     "Gratina el queso 2-3 minutos, vigilando, hasta que burbujee y se dore por arriba sin llegar a derretirse.",
     "Reparte los canónigos en los platos, encima las lentejas tibias, la pera y las nueces; corona con las rodajas de queso gratinado y riega con el resto de la vinagreta."
@@ -485,7 +483,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Corta las berenjenas en rodajas de 1 cm y la patata pelada en rodajas de medio centímetro. Píntalas con una cucharada de aceite, sálalas y ásalas en dos bandejas 20 minutos, dando la vuelta a mitad, hasta que estén tiernas y doradas.",
     "Mientras, pica la cebolla, el ajo y la zanahoria en dados pequeños y sofríelos en una cazuela con el aceite restante a fuego medio 8 minutos.",
     "Añade las lentejas escurridas, el tomate triturado, el vino, la canela, el orégano, sal y pimienta. Cuece 15 minutos a fuego medio-bajo, hasta que la salsa espese y no quede líquida; aplasta parte de las lentejas con la cuchara para que ligue.",
-    "Bechamel de yogur: bate el yogur con el huevo, la mitad del parmesano rallado, la nuez moscada, sal y pimienta.",
+    "Mientras cuece, prepara la bechamel de yogur: bate el yogur con el huevo, la mitad del parmesano rallado, la nuez moscada, sal y pimienta.",
     "Baja el horno a 190 °C. En una fuente de unos 20x25 cm coloca la patata en el fondo, la mitad de las lentejas, una capa de berenjena, el resto de las lentejas y la berenjena restante.",
     "Extiende la mezcla de yogur por encima y espolvorea el parmesano restante.",
     "Hornea 30-35 minutos, hasta que la cobertura esté cuajada y dorada y los bordes burbujeen.",
@@ -530,9 +528,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la calabaza en dados de 2 cm, el pimiento en tiras, la cebolla en gajos y el calabacín en medias lunas gruesas. Mézclalos con media cucharada de aceite, el ajo laminado, el pimentón, sal y pimienta.",
-    "Ásalos en una bandeja 25-30 minutos, removiendo a mitad, hasta que estén tiernos y con los bordes caramelizados. Déjalos templar 5 minutos.",
-    "Baja el horno a 180 °C y forra un molde de cake (unos 22x10 cm) con papel de horno.",
-    "Bate los huevos con la leche, las hojas de tomillo, poca sal (la feta ya es salada) y pimienta.",
+    "Ásalos en una bandeja 25-30 minutos, removiendo a mitad, hasta que estén tiernos y con los bordes caramelizados. Mientras, forra un molde de cake (unos 22x10 cm) con papel de horno y bate los huevos con la leche, las hojas de tomillo, poca sal (la feta ya es salada) y pimienta.",
+    "Saca las verduras, déjalas templar 5 minutos y baja el horno a 180 °C.",
     "Dispón las verduras asadas en el molde, reparte la feta desmenuzada entre ellas y vierte el huevo, que debe quedar justo cubriendo. Golpea suavemente el molde para que llegue a todos los huecos.",
     "Hornea 30-35 minutos, hasta que el centro esté firme al presionarlo y la superficie dorada. Deja reposar 10 minutos y desmolda tirando del papel.",
     "Aliña los canónigos con el aceite restante, el vinagre y sal, y sirve el pastel en rodajas gruesas, templado o frío, con la ensalada."
@@ -795,11 +792,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas enteras y con piel en agua con sal 30-35 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y pélalas en caliente.",
+    "Cuece las patatas enteras y con piel en agua con sal 30-35 minutos, hasta que un cuchillo entre sin resistencia. Mientras, tuesta las avellanas en una sartén seca 3 minutos y pícalas gruesas. Escurre las patatas y pélalas en caliente.",
     "Pásalas por el pasapurés o aplástalas con un tenedor sobre la encimera y deja que suelten vapor 10 minutos: cuanto más secas, menos harina necesitarás.",
     "Añade el huevo batido, la nuez moscada, sal y dos tercios de la harina. Une con las manos sin amasar, solo hasta tener una masa suave que no se pegue; añade más harina poco a poco si hace falta.",
-    "Divide la masa en cuatro, forma cilindros de 2 cm de grosor sobre la encimera enharinada y córtalos en trozos de 2 cm. Pásalos por las púas de un tenedor si quieres marcarlos.",
-    "Tuesta las avellanas en una sartén seca 3 minutos y pícalas gruesas. Pon a hervir abundante agua con sal.",
+    "Pon a hervir abundante agua con sal. Mientras, divide la masa en cuatro, forma cilindros de 2 cm de grosor sobre la encimera enharinada y córtalos en trozos de 2 cm. Pásalos por las púas de un tenedor si quieres marcarlos.",
     "Cuece los ñoquis en dos tandas: cuando suban a la superficie, espera 30 segundos y sácalos con una espumadera.",
     "En la sartén derrite la mantequilla a fuego medio con las hojas de salvia hasta que haga espuma y huela a avellana, unos 2 minutos. Añade los ñoquis y dóralos 3-4 minutos sin moverlos demasiado.",
     "Apaga, añade las avellanas, unas gotas de limón, pimienta y la mitad del parmesano rallado. Sirve sobre la rúcula con el resto del parmesano por encima."
@@ -886,9 +882,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece los huevos 6 minutos y medio en agua hirviendo y pásalos a agua con hielo. Pélalos y déjalos en un vaso con la soja y 4 cucharadas de agua, girándolos de vez en cuando, mientras preparas el resto (mínimo 20 minutos).",
     "Pon el caldo en una cazuela con el ajo y el jengibre en láminas y la parte blanca de las cebolletas. Lleva a ebullición y deja a fuego suave 15 minutos para que se aromatice. Cuela.",
-    "Mientras, lamina las setas y corta los pak choi a lo largo en cuartos. Saltea las setas en una sartén con la mitad del aceite de sésamo a fuego fuerte 4 minutos, hasta que doren; añade el pak choi 1 minuto más.",
+    "Mientras, pon a hervir agua para los fideos, lamina las setas y corta los pak choi a lo largo en cuartos. Saltea las setas en una sartén con la mitad del aceite de sésamo a fuego fuerte 4 minutos, hasta que doren; añade el pak choi 1 minuto más.",
     "Disuelve el miso en un cazo con un poco de caldo caliente y devuélvelo a la cazuela. Añade un chorrito de la marinada de los huevos; no dejes que vuelva a hervir para que el miso no pierda aroma.",
-    "Cuece los fideos en agua aparte el tiempo del paquete (3-4 minutos), escúrrelos y repártelos en dos boles hondos.",
+    "Cuece los fideos en el agua hirviendo el tiempo del paquete (3-4 minutos), escúrrelos y repártelos en dos boles hondos.",
     "Vierte el caldo caliente, coloca encima las setas, el pak choi, el maíz y los huevos partidos por la mitad. Termina con la mantequilla, el resto del aceite de sésamo, el sésamo y la parte verde de la cebolleta picada."
   ],
   nutricion: { kcal: 600, prot: 24, hc: 72, grasa: 22 },
@@ -1014,8 +1010,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Retira las hojas exteriores de la coliflor y recorta la base para que se sostenga de pie.",
-    "Cuécela entera en una cazuela con agua hirviendo y sal 8 minutos, con el tronco hacia arriba. Escúrrela bocabajo 5 minutos para que suelte el agua.",
+    "Precalienta el horno a 220 °C y pon a hervir agua con sal en una cazuela grande. Retira las hojas exteriores de la coliflor y recorta la base para que se sostenga de pie.",
+    "Cuécela entera en el agua hirviendo 8 minutos, con el tronco hacia arriba. Escúrrela bocabajo 5 minutos para que suelte el agua.",
     "Mezcla dos tercios del aceite con la mitad del comino, el pimentón, sal y pimienta. Coloca la coliflor en una fuente y píntala por todas partes con la mezcla.",
     "Hornea 35-40 minutos, hasta que esté bien dorada por fuera y un cuchillo entre fácil hasta el centro.",
     "A los 20 minutos de horno, escurre y seca los garbanzos, mézclalos con el resto del aceite y del comino y una pizca de sal, y repártelos alrededor de la coliflor para que se tuesten.",
@@ -1058,9 +1054,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo y mantenlo a fuego mínimo. Tuesta las hebras de azafrán 20 segundos en una sartén seca, desmenúzalas con los dedos e infusiónalas en un cazo de caldo caliente.",
-    "Trocea las setas y saltéalas en la sartén con la mitad del aceite y 10 g de mantequilla a fuego fuerte 5 minutos, hasta que doren. Añade el ajo picado, sal y pimienta 30 segundos más y reserva.",
-    "En una cazuela ancha pocha la cebolla picada muy fina con el resto del aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el arroz y nácaralo 2 minutos, removiendo, hasta que los granos se vean translúcidos en los bordes.",
+    "Calienta el caldo y mantenlo a fuego mínimo. Tuesta las hebras de azafrán 20 segundos en una sartén seca, desmenúzalas con los dedos e infusiónalas en un cazo de caldo caliente. Pica la cebolla muy fina y el ajo.",
+    "Trocea las setas y saltéalas en la sartén con la mitad del aceite y 10 g de mantequilla a fuego fuerte 5 minutos, hasta que doren. Añade el ajo, sal y pimienta 30 segundos más y reserva.",
+    "En una cazuela ancha pocha la cebolla con el resto del aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el arroz y nácaralo 2 minutos, removiendo, hasta que los granos se vean translúcidos en los bordes.",
     "Vierte el vino y remueve hasta que se evapore. Añade el caldo con azafrán y luego el resto de caldo cazo a cazo, removiendo con frecuencia y esperando a que el arroz lo absorba antes de añadir más.",
     "A los 12 minutos incorpora dos tercios de las setas. Sigue añadiendo caldo 5-6 minutos más, hasta que el arroz esté al dente y la textura sea fluida, que forme una ola al mover la cazuela.",
     "Retira del fuego, añade la mantequilla restante fría en dados y el parmesano rallado y remueve enérgicamente 1 minuto para mantecar. Tapa y deja reposar 2 minutos.",
