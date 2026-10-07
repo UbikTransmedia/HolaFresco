@@ -79,12 +79,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Si la sepia viene entera, sepárale con cuidado las bolsitas de tinta (son plateadas y están junto a las vísceras) y resérvalas en un vasito. Corta el cuerpo en tiras finas de 1 cm y los tentáculos en trozos pequeños.",
-    "Calienta el caldo de pescado en un cazo y mantenlo al fuego mínimo durante toda la receta.",
-    "En una cazuela ancha, sofríe a fuego medio la cebolla y el ajo muy picados con el aceite durante 5 minutos, hasta que estén transparentes. Añade la sepia y saltéala 3 minutos, hasta que se vuelva blanca y opaca.",
-    "Vierte la mitad del vino, deja que se evapore el alcohol 1 minuto, tapa y cuece a fuego suave 15 minutos, hasta que la sepia esté tierna al pincharla; si se seca, añade un poco de caldo.",
+    "Calienta el caldo de pescado en un cazo y mantenlo al fuego mínimo durante toda la receta. Mientras se calienta, pica muy finos la cebolla y el ajo.",
+    "En una cazuela ancha, sofríe a fuego medio la cebolla y el ajo con el aceite durante 5 minutos, hasta que estén transparentes. Añade la sepia y saltéala 3 minutos, hasta que se vuelva blanca y opaca.",
+    "Vierte la mitad del vino, deja que se evapore el alcohol 1 minuto, tapa y cuece a fuego suave 15 minutos, hasta que la sepia esté tierna al pincharla; si se seca, añade un poco de caldo. Mientras, pica el perejil.",
     "Sube el fuego, añade el arroz y nacáralo 1 minuto con la sepia; riega con el resto del vino y deja que se evapore.",
     "Disuelve la tinta en un cazo de caldo caliente (si son bolsitas, apriétalas a través de un colador) y viértelo sobre el arroz, que se volverá negro y brillante. Sigue cocinando 16-17 minutos, añadiendo caldo cazo a cazo cuando se absorba y removiendo a menudo.",
-    "Cuando el grano esté al dente y la textura sea fluida, all'onda (se mueve como una ola al sacudir la cazuela), apaga el fuego. Añade la mantequilla fría y el perejil picado y remueve con energía 1 minuto para mantecar. Prueba de sal y pimienta, tapa y deja reposar 2 minutos antes de servir."
+    "Cuando el grano esté al dente y la textura sea fluida, all'onda (se mueve como una ola al sacudir la cazuela), apaga el fuego. Añade la mantequilla fría y el perejil y remueve con energía 1 minuto para mantecar. Prueba de sal y pimienta, tapa y deja reposar 2 minutos antes de servir."
   ],
   nutricion: { kcal: 620, prot: 36, hc: 69, grasa: 22 },
   etiquetas: ["tradicional", "sin gluten", "alta en proteína", "para invitados", "sin verduras", "poco especiada"],
@@ -127,10 +127,10 @@ window.RECETAS_SEED.push({
     "Pon el pan rallado en un bol, vierte encima el agua hirviendo, mezcla y deja que se hinche 5 minutos.",
     "Añade la harina y una pizca de sal y amasa 5 minutos, hasta obtener una masa lisa y firme, como la de los ñoquis; si se pega, añade un poco más de harina. Tápala y déjala reposar 15 minutos.",
     "Mientras, pica la cebolla, el ajo y la panceta. En una cazuela, dora la panceta con el aceite a fuego medio 3 minutos, añade la cebolla y el ajo y póchalos 5 minutos, hasta que estén transparentes.",
-    "Agrega el tomate triturado, las alubias escurridas y el caldo; sala ligeramente y cuece 15 minutos a fuego suave, aplastando unas cuantas alubias con la cuchara para espesar la salsa.",
-    "Forma cilindros de 1 cm de grosor con la masa y córtalos en trocitos del tamaño de un garbanzo. Aplasta cada uno con el pulgar sobre la tabla enharinada, arrastrándolo hacia ti para que se enrosque como una conchita.",
-    "Cuece los pisarei en abundante agua con sal 4-5 minutos, hasta que suban a la superficie y estén tiernos. Sácalos con una espumadera y pásalos a la cazuela del guiso.",
-    "Mezcla 1-2 minutos a fuego suave, añade el perejil picado y sirve con el parmesano rallado y pimienta negra."
+    "Agrega el tomate triturado, las alubias escurridas y el caldo; sala ligeramente y cuece 15 minutos a fuego suave, aplastando unas cuantas alubias con la cuchara para espesar la salsa. Mientras, pon a hervir abundante agua con sal.",
+    "Mientras se cuece la salsa, forma cilindros de 1 cm de grosor con la masa y córtalos en trocitos del tamaño de un garbanzo. Aplasta cada uno con el pulgar sobre la tabla enharinada, arrastrándolo hacia ti para que se enrosque como una conchita. Pica el perejil y ralla el parmesano.",
+    "Cuece los pisarei en el agua hirviendo 4-5 minutos, hasta que suban a la superficie y estén tiernos. Sácalos con una espumadera y pásalos a la cazuela del guiso.",
+    "Mezcla 1-2 minutos a fuego suave, añade el perejil y sirve con el parmesano y pimienta negra."
   ],
   nutricion: { kcal: 715, prot: 29, hc: 92, grasa: 25 },
   etiquetas: ["tradicional", "invierno", "económica", "pasta fresca", "aprovechamiento", "poco especiada"],
@@ -175,12 +175,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, o al menos 4 horas antes, corta el jabalí en dados de 2 cm y cúbrelo en un bol con 200 ml del vino, el enebro ligeramente aplastado, el laurel y una rama de romero. Tápalo y guárdalo en la nevera: la marinada suaviza el sabor a caza y ablanda la carne.",
-    "Escurre la carne, desecha la marinada y sécala muy bien con papel de cocina. Dórala en una cazuela con el aceite a fuego fuerte, en dos tandas de 5 minutos, hasta que tenga costra marrón por todos los lados; resérvala.",
-    "En la misma cazuela, baja el fuego y sofríe la cebolla, la zanahoria, el apio y el ajo picados muy finos durante 10 minutos, rascando el fondo, hasta que estén blandos y dorados.",
+    "Pica muy finos la cebolla, la zanahoria, el apio y el ajo. Escurre la carne, desecha la marinada y sécala muy bien con papel de cocina. Dórala en una cazuela con el aceite a fuego fuerte, en dos tandas de 5 minutos, hasta que tenga costra marrón por todos los lados; resérvala.",
+    "En la misma cazuela, baja el fuego y sofríe la cebolla, la zanahoria, el apio y el ajo durante 10 minutos, rascando el fondo, hasta que estén blandos y dorados.",
     "Devuelve la carne, añade el tomate concentrado, tuéstalo 1 minuto y moja con los 100 ml de vino restantes; deja evaporar 2 minutos.",
     "Añade el tomate triturado, la otra rama de romero y el caldo; sala ligeramente, tapa dejando una rendija y cuece a fuego muy suave 2 horas y media, removiendo de vez en cuando y añadiendo agua si se seca, hasta que la carne se deshaga al apretarla con una cuchara.",
-    "Retira el romero, deshilacha la carne con dos tenedores dentro de la salsa y deja reducir destapado 10 minutos, hasta que el ragú quede espeso y brillante. Ajusta de sal y pimienta.",
-    "Cuece las pappardelle en agua con sal 1 minuto menos de lo que indique el paquete, escúrrelas reservando un vaso del agua de cocción y saltéalas 1 minuto en la cazuela del ragú con un chorrito de esa agua, hasta que la salsa se adhiera. Sirve con parmesano rallado si te apetece."
+    "Retira el romero, deshilacha la carne con dos tenedores dentro de la salsa y deja reducir destapado 10 minutos, hasta que el ragú quede espeso y brillante. Ajusta de sal y pimienta. Mientras, pon a hervir agua con sal para la pasta y, si lo usas, ralla el parmesano.",
+    "Cuece las pappardelle en el agua hirviendo 1 minuto menos de lo que indique el paquete, escúrrelas reservando un vaso del agua de cocción y saltéalas 1 minuto en la cazuela del ragú con un chorrito de esa agua, hasta que la salsa se adhiera. Sirve con el parmesano si te apetece."
   ],
   nutricion: { kcal: 710, prot: 50, hc: 74, grasa: 23 },
   etiquetas: ["tradicional", "invierno", "otoño", "batch cooking", "alta en proteína", "poco especiada"],
@@ -225,9 +225,9 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una cazuela a fuego fuerte y dora el cordero en una sola capa 5-6 minutos, sin moverlo demasiado, hasta que esté bien tostado por todos los lados.",
     "Baja a fuego medio, añade la cebolla, el ajo, el romero, el laurel y la guindilla y rehoga 4 minutos, hasta que la cebolla esté transparente.",
     "Moja con el vino blanco y deja que se evapore 2 minutos, rascando el fondo. Añade el pimiento y saltéalo 3 minutos.",
-    "Agrega el tomate triturado y medio vaso de agua, tapa y cuece a fuego suave 1 hora y cuarto, removiendo de vez en cuando, hasta que el cordero esté muy tierno y el pimiento se haya deshecho en la salsa. Retira el romero, el laurel y la guindilla y ajusta de sal.",
-    "Cuece la pasta en abundante agua con sal (3-4 minutos si es fresca, 8-9 si es seca), escúrrela reservando un poco del agua de cocción y mézclala 1 minuto en la cazuela con el ragú.",
-    "Sirve con el pecorino rallado y pimienta negra recién molida."
+    "Agrega el tomate triturado y medio vaso de agua, tapa y cuece a fuego suave 1 hora y cuarto, removiendo de vez en cuando, hasta que el cordero esté muy tierno y el pimiento se haya deshecho en la salsa. Retira el romero, el laurel y la guindilla y ajusta de sal. En los últimos 15 minutos, pon a hervir abundante agua con sal para la pasta y ralla el pecorino.",
+    "Cuece la pasta en el agua hirviendo (3-4 minutos si es fresca, 8-9 si es seca), escúrrela reservando un poco del agua de cocción y mézclala 1 minuto en la cazuela con el ragú.",
+    "Sirve con el pecorino y pimienta negra recién molida."
   ],
   nutricion: { kcal: 750, prot: 48, hc: 72, grasa: 30 },
   etiquetas: ["tradicional", "alta en proteína", "batch cooking", "primavera"],
@@ -269,8 +269,8 @@ window.RECETAS_SEED.push({
     "En una cazuela de fondo grueso, calienta el aceite y marca la carne a fuego medio-fuerte 5 minutos, hasta que esté dorada por todos los lados.",
     "Añade la zanahoria, el apio, el laurel y toda la cebolla: parecerá muchísima, pero se reducirá a una cuarta parte. Sala ligeramente, remueve, tapa y deja que la cebolla suelte su agua a fuego suave durante 30 minutos.",
     "Destapa, moja con la mitad del vino, vuelve a tapar y sigue cociendo a fuego mínimo 2 horas y media, removiendo cada 20 minutos; si se agarra, añade un chorrito de agua. La cebolla debe acabar convertida en una crema color avellana y la carne, a punto de deshacerse.",
-    "Saca la carne, desmenúzala con dos tenedores y devuélvela a la cazuela. Añade el resto del vino y deja reducir 10 minutos destapado, hasta tener un ragú denso y brillante. Ajusta de sal y pimienta.",
-    "Cuece los paccheri en agua con sal 2 minutos menos de lo que indique el paquete, escúrrelos reservando un vaso del agua y termina de cocerlos 2 minutos dentro de la cazuela con la genovese y un chorrito de esa agua.",
+    "Saca la carne, desmenúzala con dos tenedores y devuélvela a la cazuela. Añade el resto del vino y deja reducir 10 minutos destapado, hasta tener un ragú denso y brillante. Ajusta de sal y pimienta. Mientras, pon a hervir agua con sal para la pasta y ralla el parmesano.",
+    "Cuece los paccheri en el agua hirviendo 2 minutos menos de lo que indique el paquete, escúrrelos reservando un vaso del agua y termina de cocerlos 2 minutos dentro de la cazuela con la genovese y un chorrito de esa agua.",
     "Fuera del fuego, añade la mitad del parmesano, mezcla y sirve con el resto del queso y pimienta negra recién molida."
   ],
   nutricion: { kcal: 830, prot: 51, hc: 96, grasa: 27 },
@@ -348,9 +348,9 @@ window.RECETAS_SEED.push({
     "En una sartén amplia, pocha la cebolla con el aceite y una pizca de sal a fuego medio-bajo 8-10 minutos, hasta que esté blanda y dulce, sin que llegue a tostarse.",
     "Añade la 'nduja desmenuzada (quítale la tripa si la tiene) y aplástala con una cuchara de madera 1-2 minutos, hasta que se funda y tiña de rojo la cebolla.",
     "Vierte el tomate triturado y cocina 10 minutos a fuego suave, hasta que la salsa espese. Prueba antes de salar: la 'nduja ya aporta sal y bastante picante.",
-    "Mientras, cuece la pasta el tiempo que indique el paquete y escúrrela reservando un vaso del agua de cocción.",
+    "Mientras, cuece la pasta el tiempo que indique el paquete y escúrrela reservando un vaso del agua de cocción. Mientras se cuece, ralla el pecorino.",
     "Mezcla la pasta con la salsa en la sartén 1 minuto, con un chorrito del agua de cocción, hasta que la salsa se adhiera y brille.",
-    "Sirve con el pecorino rallado y unas hojas de albahaca."
+    "Sirve con el pecorino y unas hojas de albahaca."
   ],
   nutricion: { kcal: 565, prot: 18, hc: 69, grasa: 24 },
   etiquetas: ["tradicional", "rápida", "picante"],
@@ -385,8 +385,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua con poca sal, porque la bottarga es muy salada, y cuece los espaguetis el tiempo que indique el paquete.",
-    "Mientras, quita la membrana a la bottarga (las huevas de mújol), ralla finamente dos tercios y corta el resto en láminas muy finas con un pelador. Ralla la piel del limón y pica el perejil.",
-    "En una sartén amplia, calienta el aceite a fuego suave con el ajo laminado y la guindilla 2-3 minutos, hasta que el ajo empiece a dorarse; si se tuesta, amargará. Retira del fuego.",
+    "Mientras, quita la membrana a la bottarga (las huevas de mújol), ralla finamente dos tercios y corta el resto en láminas muy finas con un pelador. Ralla la piel del limón pica el perejil y lamina el ajo.",
+    "En una sartén amplia, calienta el aceite a fuego suave con el ajo y la guindilla 2-3 minutos, hasta que el ajo empiece a dorarse; si se tuesta, amargará. Retira del fuego.",
     "Escurre la pasta reservando un vaso del agua de cocción y pásala a la sartén con 3-4 cda de esa agua. Saltea 1 minuto a fuego medio, removiendo, hasta que el aceite y el agua formen una salsa ligera que envuelva la pasta.",
     "Apaga el fuego y añade la bottarga rallada, la ralladura de limón, un chorrito de su zumo y el perejil; mezcla 30 segundos. Con el calor residual la bottarga se reparte por la salsa y la vuelve ligeramente cremosa, pero no llega a cocerse.",
     "Sirve enseguida con las láminas de bottarga por encima."
@@ -421,10 +421,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal y cuece los espaguetis el tiempo que indique el paquete (unos 9-10 minutos).",
+    "Pon a hervir agua con sal y cuece los espaguetis el tiempo que indique el paquete (unos 9-10 minutos). Mientras, ralla el pecorino.",
     "Cuando falten 5 minutos, calienta el aceite en una sartén grande a fuego medio. Casca los huevos uno a uno en la sartén y fríelos 3-4 minutos sin moverlos, hasta que la clara esté cuajada y con puntilla y la yema siga líquida. Sálalos y pásalos con cuidado a un plato, dejando el aceite en la sartén.",
     "Escurre la pasta reservando un vaso del agua de cocción y échala a la sartén, fuera del fuego, con un chorrito de esa agua y abundante pimienta. Remueve 30 segundos para que el aceite y el agua se emulsionen.",
-    "Añade la mitad del pecorino rallado y mezcla hasta que la pasta brille y quede ligada.",
+    "Añade la mitad del pecorino y mezcla hasta que la pasta brille y quede ligada.",
     "Reparte en platos y coloca encima dos huevos fritos en cada uno; espolvorea el resto del pecorino y más pimienta.",
     "En la mesa, rompe las yemas y mézclalas con la pasta: harán de salsa cremosa, como una carbonara campesina."
   ],
@@ -465,13 +465,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta. Corta la cebolla morada en juliana y el pollo en dados de 2 cm, y salpimienta el pollo.",
+    "Pon a hervir agua con sal para la pasta. Corta la cebolla morada en juliana y el pollo en dados de 2 cm, y salpimienta el pollo. Lamina el ajo y deshoja el romero.",
     "Calienta el aceite en una sartén amplia a fuego medio-fuerte y dora el pollo 6-7 minutos, hasta que esté tostado por fuera y hecho por dentro; sácalo a un plato.",
-    "En la misma sartén, baja el fuego y añade la cebolla con una pizca de sal, el ajo laminado y las hojas de romero; póchala 10 minutos, removiendo de vez en cuando, hasta que esté blanda y empiece a caramelizarse.",
-    "Mientras, echa la pasta a cocer (unos 11 minutos).",
+    "En la misma sartén, baja el fuego y añade la cebolla con una pizca de sal, el ajo y las hojas de romero; póchala 10 minutos, removiendo de vez en cuando, hasta que esté blanda y empiece a caramelizarse.",
+    "Mientras, echa la pasta a cocer (unos 11 minutos). Ralla la mitad del parmesano y corta el resto en lascas.",
     "Añade a la cebolla el vinagre balsámico y la miel y deja reducir 1-2 minutos, hasta que quede brillante y pegajosa. Devuelve el pollo, vierte el caldo y cuece 2 minutos rascando el fondo, hasta tener una salsa ligera.",
-    "Escurre la pasta reservando un poco del agua de cocción y mézclala en la sartén con la salsa y la mitad del parmesano rallado; añade un chorrito del agua si hace falta para que quede jugosa.",
-    "Fuera del fuego, incorpora la rúcula, que se ablandará con el calor, y sirve con el resto del parmesano en lascas y pimienta negra."
+    "Escurre la pasta reservando un poco del agua de cocción y mézclala en la sartén con la salsa y el parmesano rallado; añade un chorrito del agua si hace falta para que quede jugosa.",
+    "Fuera del fuego, incorpora la rúcula, que se ablandará con el calor, y sirve con las lascas de parmesano y pimienta negra."
   ],
   nutricion: { kcal: 610, prot: 40, hc: 67, grasa: 20 },
   etiquetas: ["creativa", "alta en proteína", "otoño", "económica", "poco especiada", "bajo en colesterol"],
@@ -508,11 +508,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol, mezcla el pavo con la ricotta, el pan rallado, la mitad del parmesano rallado, unas hojas de albahaca picadas, sal y pimienta, sin amasar en exceso.",
-    "Con las manos húmedas, forma bolitas de unos 2 cm (salen unas 60). Si tienes tiempo, déjalas 10 minutos en la nevera para que se asienten.",
-    "En una cazuela ancha, calienta el aceite con el ajo laminado a fuego medio 1 minuto, vierte el tomate triturado, sala y lleva a un hervor suave.",
-    "Introduce las albondiguitas crudas en la salsa en una sola capa, tapa y cuécelas a fuego suave 15 minutos. No las remuevas durante los primeros 5 minutos para que no se rompan; después, mueve la cazuela con suavidad.",
-    "Mientras, cuece las conchiglie 1 minuto menos de lo que indique el paquete y escúrrelas reservando un poco del agua de cocción.",
+    "Ralla el parmesano y pica unas hojas de albahaca. En un bol, mezcla el pavo con la ricotta, el pan rallado, la mitad del parmesano, la albahaca picada, sal y pimienta, sin amasar en exceso.",
+    "Con las manos húmedas, forma bolitas de unos 2 cm (salen unas 60). Si tienes tiempo, déjalas 10 minutos en la nevera para que se asienten; mientras, lamina el ajo.",
+    "En una cazuela ancha, calienta el aceite con el ajo a fuego medio 1 minuto, vierte el tomate triturado, sala y lleva a un hervor suave.",
+    "Introduce las albondiguitas crudas en la salsa en una sola capa, tapa y cuécelas a fuego suave 15 minutos. No las remuevas durante los primeros 5 minutos para que no se rompan; después, mueve la cazuela con suavidad. Mientras, pon a hervir agua con sal para la pasta.",
+    "Cuando hierva, cuece las conchiglie 1 minuto menos de lo que indique el paquete y escúrrelas reservando un poco del agua de cocción.",
     "Añade la pasta a la cazuela con un chorrito del agua y mezcla 1 minuto: la salsa y las albondiguitas se meterán dentro de las conchas.",
     "Sirve con el resto del parmesano y hojas de albahaca."
   ],
@@ -552,9 +552,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en rodajas de 1 cm, píntalas con 1 cda de aceite, sálalas y ásalas en una bandeja 20 minutos, dándoles la vuelta a mitad, hasta que estén doradas y tiernas.",
-    "Mientras, en una cazuela, dora el ajo laminado con el resto del aceite 1 minuto, añade el tomate triturado, sal, pimienta y unas hojas de albahaca y cocina 10 minutos.",
-    "Separa un tercio de la salsa. Al resto añade el arroz y el caldo, lleva a ebullición y cuece 12 minutos a fuego medio, removiendo de vez en cuando, hasta que el arroz esté meloso pero aún duro en el centro.",
-    "Fuera del fuego, mezcla el arroz con la mitad del parmesano rallado. Corta la scamorza en láminas finas y baja el horno a 200 °C.",
+    "Mientras, lamina el ajo y dóralo en una cazuela con el resto del aceite 1 minuto, añade el tomate triturado, sal, pimienta y unas hojas de albahaca y cocina 10 minutos.",
+    "Separa un tercio de la salsa. Al resto añade el arroz y el caldo, lleva a ebullición y cuece 12 minutos a fuego medio, removiendo de vez en cuando, hasta que el arroz esté meloso pero aún duro en el centro. Mientras, corta la scamorza en láminas finas y ralla el parmesano.",
+    "Fuera del fuego, mezcla el arroz con la mitad del parmesano y baja el horno a 200 °C.",
     "En una fuente de unos 20×20 cm, extiende la mitad del arroz y cúbrelo con la mitad de la berenjena, la mitad de la scamorza y unas hojas de albahaca; repite con el arroz y la berenjena restantes.",
     "Cubre con la salsa reservada, el resto de la scamorza y el parmesano. Hornea 15 minutos, hasta que el queso burbujee y se dore por los bordes.",
     "Deja reposar 10 minutos antes de cortar en porciones: así se asienta y no se desmorona."
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
     "Enjuaga la cebada y ponla a cocer en una cazuela con abundante agua fría, sal y el laurel. Cuando hierva, cuenta 10 minutos y añade las lentejas enjuagadas; cuece 20-25 minutos más, hasta que ambas estén tiernas pero enteras.",
     "Mientras, corta la berenjena en dados de 2 cm y la cebolla morada en gajos. Mézclalas en un bol con 2 cdta del aceite, sal y pimienta, frotando bien para que la berenjena se impregne.",
     "Ásalas en la airfryer a 200 °C durante 15-18 minutos, agitando la cesta a mitad; añade los tomates cherry en los últimos 5 minutos. La berenjena debe quedar melosa por dentro y dorada por fuera.",
-    "Prepara el salmoriglio: pica muy fino el ajo con una pizca de sal y mézclalo con el zumo y la ralladura del limón, el orégano frotado entre los dedos, el perejil picado y el resto del aceite; bate con un tenedor hasta que emulsione.",
+    "Mientras se asan, prepara el salmoriglio: pica muy fino el ajo con una pizca de sal y pica el perejil; mézclalos con el zumo y la ralladura del limón, el orégano frotado entre los dedos y el resto del aceite, y bate con un tenedor hasta que emulsione.",
     "Escurre la cebada y las lentejas, retira el laurel y, aún templadas, alíñalas con la mitad del salmoriglio: así absorben mejor el sabor.",
     "Mezcla con las verduras asadas y sirve templado o frío, con el resto del salmoriglio por encima."
   ],
@@ -639,13 +639,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C y pon a hervir agua con sal. Corta la merluza en dados de 3 cm y sálala ligeramente; parte los tomates cherry por la mitad.",
-    "En una sartén amplia, dora el ajo laminado en 1,5 cda de aceite a fuego medio 1 minuto. Añade los tomates, las aceitunas y las alcaparras y saltea 4 minutos, hasta que los tomates empiecen a soltar su jugo. Moja con el vino y deja evaporar 1 minuto. Añade pimienta.",
+    "Precalienta el horno a 200 °C y pon a hervir agua con sal. Corta la merluza en dados de 3 cm y sálala ligeramente; parte los tomates cherry por la mitad, lamina el ajo y pica el perejil.",
+    "En una sartén amplia, dora el ajo en 1,5 cda de aceite a fuego medio 1 minuto. Añade los tomates, las aceitunas y las alcaparras y saltea 4 minutos, hasta que los tomates empiecen a soltar su jugo. Moja con el vino y deja evaporar 1 minuto. Añade pimienta.",
     "Cuece los linguine solo la mitad del tiempo que indique el paquete (unos 5 minutos): deben quedar muy al dente. Escúrrelos reservando un vaso del agua de cocción.",
     "Mezcla la pasta con la salsa, 4 cda del agua de cocción y los dados de merluza crudos.",
     "Corta dos hojas grandes de papel de horno de unos 50 cm. Reparte la pasta en el centro de cada una, junta los bordes y dóblalos varias veces, retorciendo los extremos como un caramelo para que el paquete quede bien cerrado.",
-    "Hornea los paquetes en una bandeja 10-12 minutos, hasta que se inflen.",
-    "Sirve cada paquete en un plato y ábrelo en la mesa con unas tijeras; termina con el perejil picado, la ralladura de limón y el resto del aceite."
+    "Hornea los paquetes en una bandeja 10-12 minutos, hasta que se inflen. Mientras, ralla la piel del limón.",
+    "Sirve cada paquete en un plato y ábrelo en la mesa con unas tijeras; termina con el perejil, la ralladura de limón y el resto del aceite."
   ],
   nutricion: { kcal: 540, prot: 29, hc: 63, grasa: 19 },
   etiquetas: ["creativa", "al horno", "sin lácteos", "para invitados", "poco especiada", "bajo en colesterol"],
@@ -683,7 +683,7 @@ window.RECETAS_SEED.push({
     "Pon el guanciale en una cazuela ancha en frío y caliéntalo a fuego medio 6-8 minutos, removiendo, hasta que la grasa se funda y las tiras estén doradas y crujientes. Sácalas con una espumadera y deja en la cazuela unas 2 cucharadas de grasa (retira el exceso).",
     "Tuesta la mitad de la pimienta en la grasa 20 segundos, añade el arroz y nacáralo 2 minutos a fuego medio, hasta que los granos brillen. Moja con el vino y deja que se evapore.",
     "Añade el caldo caliente cazo a cazo, removiendo con frecuencia y esperando a que se absorba antes de echar el siguiente, durante 16-17 minutos, hasta que el grano esté al dente. Prueba antes de salar: el guanciale y el pecorino ya aportan sal.",
-    "Mientras, bate en un bol las yemas con 40 g de pecorino rallado, el resto de la pimienta y 2 cda de caldo templado hasta obtener una crema espesa.",
+    "Mientras, ralla el pecorino y bate en un bol las yemas con 40 g, el resto de la pimienta y 2 cda de caldo templado hasta obtener una crema espesa.",
     "Retira la cazuela del fuego, espera 1 minuto a que deje de borbotear y añade la crema de yemas removiendo con energía durante 1 minuto: el calor residual la espesará sin cuajarla. Debe quedar cremoso y fluido; si espesa demasiado, añade un chorrito de caldo.",
     "Incorpora la mitad del guanciale y sirve enseguida con el resto por encima y el pecorino restante."
   ],
@@ -722,9 +722,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta. Corta los filetes en tiras de 1 cm, sécalas con papel de cocina y salpimiéntalas. Corta la mozzarella en dados y déjala escurrir en un colador.",
+    "Pon a hervir agua con sal para la pasta. Corta los filetes en tiras de 1 cm, sécalas con papel de cocina y salpimiéntalas. Corta la mozzarella en dados y déjala escurrir en un colador. Lamina el ajo.",
     "Calienta la mitad del aceite en una sartén amplia a fuego muy fuerte y sella la ternera en una sola capa 1-2 minutos, solo hasta que se dore por fuera; sácala a un plato. Si la cueces más, quedará dura.",
-    "Baja a fuego medio, añade el resto del aceite y el ajo laminado y dóralo 1 minuto. Vierte el tomate triturado con el orégano y las alcaparras y cocina 10 minutos, hasta que la salsa espese y el aceite empiece a separarse por los bordes.",
+    "Baja a fuego medio, añade el resto del aceite y el ajo y dóralo 1 minuto. Vierte el tomate triturado con el orégano y las alcaparras y cocina 10 minutos, hasta que la salsa espese y el aceite empiece a separarse por los bordes.",
     "Mientras, cuece los fusilli 1 minuto menos de lo que indique el paquete.",
     "Escurre la pasta reservando un poco del agua de cocción y añádela a la salsa junto con la ternera y sus jugos; mezcla 1 minuto a fuego suave, con un chorrito de agua si hace falta.",
     "Reparte la mozzarella por encima, tapa la sartén y deja 2-3 minutos a fuego mínimo, hasta que se funda. Sirve con hojas de albahaca."
@@ -764,10 +764,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir agua con sal y cuece los penne el tiempo que indique el paquete (unos 11 minutos).",
     "Mientras, tuesta las almendras en una sartén sin aceite a fuego medio 3-4 minutos, moviéndolas, hasta que huelan y se doren; reserva un puñadito para el final.",
-    "Escurre bien los pimientos y tritúralos con el resto de las almendras, el ajo, el tomate seco, la mitad de la albahaca, el aceite, sal y pimienta hasta obtener una crema espesa que conserve algo de textura.",
+    "Escurre bien los pimientos y tritúralos con el resto de las almendras, el ajo, el tomate seco, la mitad de la albahaca, el aceite, sal y pimienta hasta obtener una crema espesa que conserve algo de textura. Pica las almendras reservadas.",
     "Escurre la pasta reservando un vaso del agua de cocción.",
     "En la misma cazuela y fuera del fuego, mezcla la pasta con el pesto y 3-4 cda del agua de cocción, removiendo hasta que la salsa quede cremosa y envuelva bien los penne.",
-    "Sirve con las almendras reservadas picadas y el resto de la albahaca en hojas."
+    "Sirve con las almendras reservadas y el resto de la albahaca en hojas."
   ],
   nutricion: { kcal: 585, prot: 16, hc: 69, grasa: 27 },
   etiquetas: ["creativa", "rápida", "vegana", "económica", "ideal para llevar", "verduras escondidas", "poco especiada"],
@@ -803,12 +803,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el calabacín en medias lunas finas, pica el ajo, ralla la piel del limón y exprime la mitad.",
+    "Corta el calabacín en medias lunas finas, pica el ajo, ralla la piel del limón exprime la mitad y pica la menta.",
     "Calienta 1 cda de aceite en una sartén antiadherente grande a fuego medio-fuerte y echa los ñoquis directamente del paquete, sin hervir, en una sola capa. Dóralos 6-7 minutos, removiendo solo de vez en cuando, hasta que estén crujientes y dorados por fuera. Sácalos a un plato.",
     "En la misma sartén, añade el resto del aceite y saltea el calabacín 4 minutos a fuego fuerte, hasta que tenga puntos dorados pero siga firme. Sálalo.",
     "Agrega las gambas, el ajo y la guindilla y saltea 2 minutos, hasta que las gambas estén rosadas y opacas. Sálalas.",
     "Devuelve los ñoquis a la sartén, añade el zumo de limón y 2 cda de agua y mezcla 30 segundos para que se forme una salsita que lo una todo.",
-    "Fuera del fuego, añade la ralladura de limón y la menta picada y sirve enseguida."
+    "Fuera del fuego, añade la ralladura de limón y la menta y sirve enseguida."
   ],
   nutricion: { kcal: 470, prot: 27, hc: 61, grasa: 13 },
   etiquetas: ["creativa", "rápida", "una sola sartén", "sin lácteos", "ligera", "verano"],
@@ -849,9 +849,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal en una cazuela ancha. Limpia las setas con papel de cocina y trocéalas; pica la chalota y el ajo y desmenuza las castañas en trozos grandes.",
-    "Calienta el aceite y la mitad de la mantequilla en una sartén a fuego fuerte y saltea las setas 6-7 minutos, sin removerlas demasiado, hasta que se doren y se evapore su agua. Añade la chalota, el ajo, las castañas y 4 hojas de salvia picadas y rehoga 3 minutos. Moja con el vino, deja que se evapore y salpimienta.",
-    "Para la crema, disuelve la maicena en un poco de leche fría. Calienta el resto de la leche en un cazo, añade la maicena y remueve sin parar hasta que hierva; cuece 1-2 minutos a fuego suave, hasta que espese y napee la cuchara. Fuera del fuego, añade 40 g de parmesano rallado y la nuez moscada y remueve hasta que se funda.",
+    "Pon a hervir agua con sal en una cazuela ancha. Limpia las setas con papel de cocina y trocéalas; pica la chalota y el ajo y desmenuza las castañas en trozos grandes. Pica 4 hojas de salvia y ralla el parmesano.",
+    "Calienta el aceite y la mitad de la mantequilla en una sartén a fuego fuerte y saltea las setas 6-7 minutos, sin removerlas demasiado, hasta que se doren y se evapore su agua. Añade la chalota, el ajo, las castañas y la salvia picada y rehoga 3 minutos. Moja con el vino, deja que se evapore y salpimienta.",
+    "Para la crema, disuelve la maicena en un poco de leche fría. Calienta el resto de la leche en un cazo, añade la maicena y remueve sin parar hasta que hierva; cuece 1-2 minutos a fuego suave, hasta que espese y napee la cuchara. Fuera del fuego, añade 40 g del parmesano y la nuez moscada y remueve hasta que se funda.",
     "Fríe las 4 hojas de salvia restantes en el resto de la mantequilla 1 minuto, hasta que estén crujientes.",
     "Corta las placas en cuadrados de 10 cm y cuécelas en el agua hirviendo 1-2 minutos (si son secas, el tiempo del paquete). Sácalas con una espumadera y escúrrelas sobre un paño limpio.",
     "Monta en platos calientes: una cucharada de crema, una placa, setas con castañas y otra cucharada de crema; repite dos veces y termina con una placa, crema, el resto del parmesano, la salvia crujiente y pimienta negra."

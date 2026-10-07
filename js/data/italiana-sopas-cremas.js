@@ -44,11 +44,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la costilla en una cazuela con 1,2 litros de agua fría, el laurel y una pizca de sal. Llévala a ebullición y retira con una espumadera la espuma gris que sube durante los primeros 5 minutos. Baja el fuego, tapa y cuece 40 minutos a borbotón suave.",
-    "Mientras, pica la cebolla, el puerro, la zanahoria y el apio en dados pequeños. Corta la patata en dados de 1,5 cm y la col en tiras finas, descartando el tronco duro.",
-    "En una sartén con el aceite, sofríe la cebolla, el puerro, la zanahoria y el apio con las hojas de romero picadas 10 minutos a fuego medio-bajo, hasta que estén blandos y brillantes. Añade el tomate concentrado y remueve 1 minuto.",
-    "Pasa el sofrito a la cazuela de la costilla y añade los garbanzos, la patata y la col. Cuece 25 minutos más, sin tapar, hasta que la patata empiece a deshacerse por los bordes.",
+    "Mientras, pica la cebolla, el puerro, la zanahoria y el apio en dados pequeños. Corta la patata en dados de 1,5 cm y la col en tiras finas, descartando el tronco duro. Pica las hojas de romero.",
+    "En una sartén con el aceite, sofríe la cebolla, el puerro, la zanahoria y el apio con el romero 10 minutos a fuego medio-bajo, hasta que estén blandos y brillantes. Añade el tomate concentrado y remueve 1 minuto.",
+    "Pasa el sofrito a la cazuela de la costilla y añade los garbanzos, la patata y la col. Cuece 25 minutos más, sin tapar, hasta que la patata empiece a deshacerse por los bordes. Mientras, tuesta el pan y, si lo usas, ralla el parmesano.",
     "Saca la costilla, deja que se temple 2 minutos, desmenuza la carne y desecha huesos y cartílagos. Devuelve la carne a la cazuela y aplasta un cucharón de garbanzos contra la pared para espesar el caldo. Prueba de sal y pimienta.",
-    "Tuesta el pan, ponlo en el fondo de los platos hondos y vierte la sopa por encima. Termina con un hilo de aceite crudo y, si quieres, parmesano rallado."
+    "Pon el pan tostado en el fondo de los platos hondos y vierte la sopa por encima. Termina con un hilo de aceite crudo y, si quieres, parmesano rallado."
   ],
   nutricion: { kcal: 820, prot: 36, hc: 78, grasa: 38 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "otoño", "batch cooking", "económica", "poco especiada"],
@@ -90,11 +90,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los callos en una olla con agua fría y el vinagre, lleva a ebullición y cuécelos 10 minutos. Escúrrelos, enjuágalos con agua fría y córtalos en tiras de 1 cm de ancho y 5 cm de largo. Este blanqueado elimina olores y deja la sopa limpia.",
-    "Pica la cebolla, la zanahoria y el apio en dados pequeños. En la cazuela, derrite la mantequilla con la panceta a fuego medio 4 minutos, hasta que la panceta suelte la grasa y empiece a dorarse.",
+    "Pon los callos en una olla con agua fría y el vinagre, lleva a ebullición y cuécelos 10 minutos; mientras, pica la cebolla, la zanahoria y el apio en dados pequeños. Escúrrelos, enjuágalos con agua fría y córtalos en tiras de 1 cm de ancho y 5 cm de largo. Este blanqueado elimina olores y deja la sopa limpia.",
+    "En la cazuela, derrite la mantequilla con la panceta a fuego medio 4 minutos, hasta que la panceta suelte la grasa y empiece a dorarse.",
     "Añade las verduras picadas y la salvia y rehoga 10 minutos, hasta que la cebolla esté transparente y la zanahoria tierna.",
     "Incorpora los callos y rehoga 5 minutos removiendo para que se impregnen. Añade el tomate y el laurel y cocina 5 minutos más, hasta que el tomate oscurezca un poco.",
-    "Vierte el caldo caliente, lleva a ebullición, baja al mínimo y cuece con la tapa entreabierta 1 h 45 min. Remueve de vez en cuando y añade un poco de caldo o agua si baja demasiado. Los callos están listos cuando una tira se corta con el canto de la cuchara.",
+    "Vierte el caldo caliente, lleva a ebullición, baja al mínimo y cuece con la tapa entreabierta 1 h 45 min. Remueve de vez en cuando y añade un poco de caldo o agua si baja demasiado. Los callos están listos cuando una tira se corta con el canto de la cuchara. Mientras, ralla el parmesano.",
     "Añade las alubias en los últimos 15 minutos para que se calienten y espesen el caldo sin deshacerse. Prueba de sal y pimienta y retira el laurel.",
     "Tuesta el pan y sirve la busecca muy caliente, con una lluvia generosa de parmesano por encima y el pan al lado para mojar."
   ],
@@ -137,10 +137,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pan en dados de 1 cm y ponlo en un bol amplio. Bate los huevos con la leche, la nuez moscada y pimienta, viértelo sobre el pan, mezcla y deja que se empape 15 minutos, removiendo una vez.",
-    "Mientras, pica fina la cebolla. En una sartén con la mantequilla, rehógala 5 minutos a fuego medio, hasta que esté transparente; añade el speck y saltea 2 minutos más. Deja templar.",
+    "Mientras, pica fina la cebolla y pica el cebollino y el perejil. En una sartén con la mantequilla, rehógala 5 minutos a fuego medio, hasta que esté transparente; añade el speck y saltea 2 minutos más. Deja templar.",
     "Añade al pan la cebolla con el speck, el cebollino y el perejil picados (reserva un poco de cebollino), el parmesano y la harina. Amasa con las manos hasta que la masa se mantenga unida al apretarla: si se desmorona, añade una cucharada de leche; si se pega mucho, un poco más de harina. Sala con prudencia, porque el speck ya es salado.",
-    "Con las manos mojadas, forma 6 u 8 bolas compactas de unos 5 cm, apretándolas bien para que no se abran al cocer.",
-    "Calienta el caldo en una cazuela y, en otra, agua con sal hasta que hierva suavemente. Cuece las bolas en el agua 12–15 minutos, a fuego suave para que no se rompan, hasta que estén firmes. Abre una: el centro debe estar caliente y esponjoso.",
+    "Pon a calentar el caldo en una cazuela y, en otra, agua con sal. Mientras se calientan, con las manos mojadas, forma 6 u 8 bolas compactas de unos 5 cm, apretándolas bien para que no se abran al cocer.",
+    "Cuando el agua hierva suavemente, cuece las bolas en el agua 12–15 minutos, a fuego suave para que no se rompan, hasta que estén firmes. Abre una: el centro debe estar caliente y esponjoso.",
     "Sácalas con una espumadera, pon 3 o 4 en cada plato hondo, cúbrelas con el caldo bien caliente y termina con el cebollino reservado."
   ],
   nutricion: { kcal: 590, prot: 33, hc: 51, grasa: 26 },
@@ -184,9 +184,9 @@ window.RECETAS_SEED.push({
     "Pica la cebolla, la zanahoria, el apio y 2 dientes de ajo. Ralla los tomates y desecha la piel. Separa las hojas del perejil y reserva los tallos.",
     "En la cazuela, calienta 2 cucharadas de aceite y sofríe las verduras picadas con los tallos de perejil 10 minutos a fuego medio, hasta que estén tiernas y doradas por los bordes.",
     "Sube el fuego, añade el pescado de roca y rehógalo 3 minutos. Vierte el vino y deja que hierva 2 minutos, hasta que ya no huela a alcohol.",
-    "Añade los tomates rallados y 1 litro de agua caliente con una pizca de sal. Cuece 30 minutos a fuego suave, hasta que la carne del pescado se separe sola de las espinas.",
+    "Añade los tomates rallados y 1 litro de agua caliente con una pizca de sal. Cuece 30 minutos a fuego suave, hasta que la carne del pescado se separe sola de las espinas. Mientras, corta la merluza en dados de 3 cm y pica las hojas de perejil.",
     "Retira las cabezas y las espinas grandes con una espumadera. Pasa el resto por el pasapurés o, si no tienes, tritúralo brevemente con la batidora; después cuélalo por un colador fino (chino) apretando con el dorso del cucharón: debe quedar una crema anaranjada, espesa y sin espinas.",
-    "Vuelve a poner la crema al fuego, añade la merluza en dados de 3 cm y cuécela 4 minutos a fuego suave, hasta que esté opaca y se separe en lascas.",
+    "Vuelve a poner la crema al fuego, añade la merluza y cuécela 4 minutos a fuego suave, hasta que esté opaca y se separe en lascas.",
     "Tuesta el pan, frótalo con el ajo restante y rocíalo con el resto del aceite. Sirve la sopa sobre las tostas o con ellas al lado, con perejil picado y pimienta."
   ],
   nutricion: { kcal: 590, prot: 44, hc: 40, grasa: 26 },
@@ -266,8 +266,8 @@ window.RECETAS_SEED.push({
     "Corta las cebollas en juliana fina y la zanahoria y el apio en dados muy pequeños.",
     "En la cazuela, con 2 cucharadas de aceite y una pizca de sal, pocha la cebolla, la zanahoria y el apio tapados a fuego bajo 35 minutos, removiendo cada 5. La cebolla debe quedar muy blanda, dulce y de color dorado claro, nunca quemada.",
     "Vierte el caldo caliente y cuece 15 minutos sin tapar. Prueba de sal y pimienta y añade la albahaca en trozos.",
-    "Mientras, precalienta el horno con el grill a 220 °C y tuesta el pan 5 minutos, hasta que esté crujiente.",
-    "Pon el pan en el fondo de dos cuencos aptos para horno, vierte la sopa encima y cubre con el pecorino rallado. Gratina 4 o 5 minutos, hasta que el queso se funda y burbujee.",
+    "Mientras, precalienta el horno con el grill a 220 °C y tuesta el pan 5 minutos, hasta que esté crujiente. Ralla el pecorino.",
+    "Pon el pan en el fondo de dos cuencos aptos para horno, vierte la sopa encima y cubre con el pecorino. Gratina 4 o 5 minutos, hasta que el queso se funda y burbujee.",
     "Sirve con un hilo del aceite restante en crudo."
   ],
   nutricion: { kcal: 580, prot: 15, hc: 60, grasa: 30 },
@@ -304,10 +304,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol, bate los huevos con una pizca de sal. Añade la harina poco a poco batiendo con varillas y después el agua, hasta tener una masa líquida y sin grumos. Incorpora el perejil muy picado y deja reposar 10 minutos.",
-    "Calienta el caldo en la cazuela hasta que esté a punto de hervir y prueba de sal.",
+    "Pica muy fino el perejil. En un bol, bate los huevos con una pizca de sal. Añade la harina poco a poco batiendo con varillas y después el agua, hasta tener una masa líquida y sin grumos. Incorpora el perejil y deja reposar 10 minutos.",
+    "Mientras reposa, calienta el caldo en la cazuela hasta que esté a punto de hervir y prueba de sal. Mezcla el pecorino y el parmesano con pimienta.",
     "Unta una sartén antiadherente de 20 cm con un poco de mantequilla y ponla a fuego medio. Vierte medio cucharón de masa girando la sartén para cubrir el fondo en capa fina. Cuando los bordes se despeguen, a los 40–60 segundos, dale la vuelta y cocina 20 segundos más. Repite hasta tener 6 u 8 crepes.",
-    "Mezcla el pecorino y el parmesano con pimienta. Espolvorea cada crepe con una cucharada de la mezcla y enróllala apretada.",
+    "Espolvorea cada crepe con una cucharada de la mezcla de quesos y enróllala apretada.",
     "Pon 3 o 4 rollos en cada plato hondo, espolvoréalos con el queso restante y vierte el caldo hirviendo por encima. Tapa los platos 2 minutos para que las crepes se empapen y el queso se funda."
   ],
   nutricion: { kcal: 370, prot: 21, hc: 23, grasa: 21 },
@@ -383,11 +383,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las habas remojadas y enjuágalas. Pica la cebolla y el bulbo de hinojo y reserva las barbas verdes para el final.",
+    "La víspera (al menos 8 horas antes), pon las habas en remojo en abundante agua fría. Al día siguiente, escúrrelas y enjuágalas. Pica la cebolla y el bulbo de hinojo y reserva las barbas verdes para el final.",
     "En la cazuela, con 1 cucharada de aceite, rehoga la cebolla y el hinojo 8 minutos a fuego suave, hasta que estén tiernos y sin color.",
-    "Añade las habas y 1,2 litros de agua. Cuando hierva, retira la espuma, baja el fuego y cuece tapado 60 minutos, removiendo a menudo porque tienden a pegarse. Están listas cuando se deshacen solas en un puré espeso; ayúdalas con unas varillas.",
+    "Añade las habas y 1,2 litros de agua. Cuando hierva, retira la espuma, baja el fuego y cuece tapado 60 minutos, removiendo a menudo porque tienden a pegarse. Están listas cuando se deshacen solas en un puré espeso; ayúdalas con unas varillas. Mientras cuecen, pica las barbas de hinojo.",
     "Sala y, si el puré está demasiado espeso, añade agua caliente hasta que tenga textura de crema. Echa los espaguetis partidos y cuécelos 10 minutos, removiendo, hasta que estén al dente.",
-    "Sirve con las barbas de hinojo picadas, pimienta, la guindilla desmenuzada si te gusta y 2 cucharadas de aceite crudo repartidas por encima."
+    "Sirve con las barbas de hinojo, pimienta, la guindilla desmenuzada si te gusta y 2 cucharadas de aceite crudo repartidas por encima."
   ],
   nutricion: { kcal: 640, prot: 27, hc: 82, grasa: 24 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "primavera", "económica", "batch cooking", "bajo en colesterol"],
@@ -429,11 +429,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en una cazuela el agua fría con la cebolla, el apio, los tallos del perejil y sal. Cuando hierva, añade la raya y cuécela a fuego suave 15 minutos, hasta que la carne se separe sola del cartílago.",
-    "Saca la raya, desmenuza la carne en lascas y resérvala. Devuelve los cartílagos y la piel al caldo y cuécelo 15 minutos más: así coge cuerpo y una textura ligeramente gelatinosa. Cuélalo.",
-    "En la cazuela limpia, calienta 2 cucharadas de aceite con el ajo laminado, la guindilla y las anchoas a fuego suave 2 minutos, hasta que las anchoas se deshagan. Añade el vino y deja que hierva 2 minutos; incorpora el tomate y cocina 5 minutos.",
+    "Saca la raya, desmenuza la carne en lascas y resérvala. Devuelve los cartílagos y la piel al caldo y cuécelo 15 minutos más: así coge cuerpo y una textura ligeramente gelatinosa. Mientras, lamina el ajo y pica las hojas de perejil. Cuélalo.",
+    "En la cazuela limpia, calienta 2 cucharadas de aceite con el ajo, la guindilla y las anchoas a fuego suave 2 minutos, hasta que las anchoas se deshagan. Añade el vino y deja que hierva 2 minutos; incorpora el tomate y cocina 5 minutos.",
     "Vierte el caldo colado y, cuando hierva, añade el brócoli. Cuece 4 minutos, hasta que empiece a ablandarse.",
     "Echa los espaguetis partidos y cuécelos 9–10 minutos, hasta que estén al dente y el brócoli muy tierno. Añade las lascas de raya en el último minuto solo para calentarlas.",
-    "Prueba de sal y pimienta, retira la guindilla y sirve con las hojas de perejil picadas y el resto del aceite en crudo."
+    "Prueba de sal y pimienta, retira la guindilla y sirve con el perejil y el resto del aceite en crudo."
   ],
   nutricion: { kcal: 585, prot: 37, hc: 48, grasa: 25 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "bajo en colesterol"],
@@ -473,7 +473,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta los tomates por la mitad, el pimiento en tiras y la cebolla en gajos. Ponlos en una bandeja con los ajos con piel, 2 cucharadas de aceite y sal y ásalos 35 minutos, hasta que los tomates estén arrugados y con los bordes tostados y el pimiento blando.",
-    "Corta el pan en dados de 1,5 cm, mézclalos con 1 cucharadita de aceite y el orégano y hornéalos en otra bandeja los últimos 8 minutos, hasta que estén dorados.",
+    "Mientras se asan, corta el pan en dados de 1,5 cm, mézclalos con 1 cucharadita de aceite y el orégano y hornéalos en otra bandeja los últimos 8 minutos, hasta que estén dorados.",
     "Pela los ajos asados y tritura todo el contenido de la bandeja, con sus jugos, junto con el vinagre, la mitad de la albahaca y el agua fría, hasta obtener una crema muy fina. Pásala por un colador si la quieres sedosa y prueba de sal.",
     "Enfríala: ponla en un bol dentro de otro con agua y hielo y remueve 15 minutos, o déjala 1 hora en la nevera.",
     "Sirve la crema en platos hondos con la stracciatella en el centro, los picatostes, el resto de la albahaca, pimienta y un hilo del aceite restante."
@@ -515,11 +515,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el calabacín en rodajas finas, la patata en dados de 1 cm y la cebolleta en juliana. Pon el caldo a hervir.",
+    "Pon el caldo a hervir y, mientras, corta el calabacín en rodajas finas, la patata en dados de 1 cm y la cebolleta en juliana.",
     "En la cazuela, con 1 cucharada de aceite, rehoga la cebolleta 3 minutos. Añade la patata y el caldo hirviendo y cuece 6 minutos; incorpora el calabacín y cuece 4 minutos más, hasta que esté tierno pero de un verde intenso.",
     "Pasa todo a un bol colocado dentro de otro con agua y hielo y remueve 5 minutos: cortar la cocción de golpe mantiene el color verde.",
     "Tritura con la albahaca, la mayor parte de la menta, el yogur, 1 cucharada de aceite y el zumo de medio limón hasta obtener una crema muy fina. Prueba de sal y pimienta y vuelve a ponerla en el baño de hielo, removiendo de vez en cuando, 15 minutos más, hasta que esté bien fría; mientras, prepara las gambas.",
-    "Pela las gambas dejándoles la punta de la cola. En una sartén muy caliente con el resto del aceite y el ajo laminado, saltéalas con sal 1 minuto por cada lado, hasta que estén rosadas. Fuera del fuego, añade la ralladura y el zumo del resto del limón y unas hojas de menta.",
+    "Pela las gambas dejándoles la punta de la cola, lamina el ajo y ralla la piel del medio limón restante. En una sartén muy caliente con el resto del aceite y el ajo, saltéalas con sal 1 minuto por cada lado, hasta que estén rosadas. Fuera del fuego, añade la ralladura y el zumo del resto del limón y unas hojas de menta.",
     "Sirve la crema fría con las gambas y su jugo encima, hojas de albahaca y pimienta recién molida."
   ],
   nutricion: { kcal: 420, prot: 22, hc: 20, grasa: 27 },
@@ -561,8 +561,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hidrata los boletus en el agua caliente 15 minutos. Escúrrelos apretando, pícalos y cuela el agua del remojo por un papel de cocina: guárdala, tiene muchísimo sabor.",
-    "Mientras, tuesta las avellanas en una sartén sin grasa 4 minutos, hasta que huelan. Frótalas con un paño para quitarles la piel y pícalas gruesas.",
-    "En la cazuela, derrite la mantequilla y rehoga la chalota picada 5 minutos. Añade el ajo picado y los champiñones laminados y cocina 6 minutos a fuego fuerte, hasta que se doren y se evapore su agua. Añade los boletus y remueve 1 minuto.",
+    "Mientras, tuesta las avellanas en una sartén sin grasa 4 minutos, hasta que huelan. Frótalas con un paño para quitarles la piel y pícalas gruesas. Pica las chalotas y el ajo y lamina los champiñones.",
+    "En la cazuela, derrite la mantequilla y rehoga la chalota 5 minutos. Añade el ajo y los champiñones y cocina 6 minutos a fuego fuerte, hasta que se doren y se evapore su agua. Añade los boletus y remueve 1 minuto.",
     "Incorpora las castañas desmigadas, 2 ramas de tomillo, el caldo y el agua de los boletus. Cuece 15 minutos a fuego suave.",
     "Mientras, calienta el aceite con las hojas de las otras 2 ramas de tomillo 3 minutos a fuego muy bajo, sin que lleguen a freírse, y aparta para que infusione.",
     "Retira las ramas de tomillo de la cazuela, añade el parmesano y tritura 2 minutos, hasta que la crema esté muy sedosa. Ajusta el espesor con caldo y prueba de sal y pimienta.",
@@ -607,12 +607,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los contramuslos en dados de 2 cm, salpimiéntalos y espolvoréalos con la harina, sacudiendo el exceso.",
+    "Lamina los champiñones y pica las chalotas y el ajo. Corta los contramuslos en dados de 2 cm, salpimiéntalos y espolvoréalos con la harina, sacudiendo el exceso.",
     "En la cazuela, con el aceite a fuego fuerte, dora el pollo 5 minutos en una sola capa, hasta que tenga costra por todos los lados; no hace falta que se haga por dentro. Sácalo.",
-    "Baja a fuego medio, añade la mantequilla y los champiñones laminados y cocínalos 6 minutos, hasta que estén dorados y sin agua. Añade la chalota y el ajo picados y rehoga 3 minutos.",
+    "Baja a fuego medio, añade la mantequilla y los champiñones y cocínalos 6 minutos, hasta que estén dorados y sin agua. Añade la chalota y el ajo y rehoga 3 minutos.",
     "Vierte el marsala y raspa el fondo con una cuchara de madera para despegar lo tostado. Deja que reduzca 2 minutos, hasta la mitad.",
-    "Añade el farro enjuagado, el caldo, el tomillo y el pollo. Cuece tapado a fuego suave 20–25 minutos, hasta que el farro esté tierno pero con mordida.",
-    "Retira las ramas de tomillo, prueba de sal y pimienta y sirve con el parmesano rallado y el perejil picado."
+    "Añade el farro enjuagado, el caldo, el tomillo y el pollo. Cuece tapado a fuego suave 20–25 minutos, hasta que el farro esté tierno pero con mordida. Mientras, ralla el parmesano y pica el perejil.",
+    "Retira las ramas de tomillo, prueba de sal y pimienta y sirve con el parmesano y el perejil."
   ],
   nutricion: { kcal: 660, prot: 46, hc: 50, grasa: 28 },
   etiquetas: ["creativa", "alta en proteína", "otoño", "invierno", "batch cooking", "poco especiada"],
@@ -651,7 +651,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las berenjenas en dados de 3 cm, mézclalos con 2 cucharadas de aceite y sal y ásalos en una bandeja 25 minutos, dándoles la vuelta a mitad, hasta que estén dorados y muy blandos.",
-    "Mientras, en la cazuela con el resto del aceite, rehoga la cebolla picada 5 minutos y el ajo 1 minuto. Añade el tomate y cocina 10 minutos, hasta que espese un poco.",
+    "Mientras, pica la cebolla y el ajo. En la cazuela con el resto del aceite, rehoga la cebolla 5 minutos y el ajo 1 minuto. Añade el tomate y cocina 10 minutos, hasta que espese un poco.",
     "Reserva un puñado de dados de berenjena y añade el resto a la cazuela con el caldo y la mitad de la albahaca. Cuece 5 minutos y tritura hasta obtener una crema fina. Incorpora 20 g de parmesano y prueba de sal y pimienta.",
     "Enciende el grill del horno a 230 °C. Reparte la crema en dos cuencos aptos para horno, añade los dados de berenjena reservados y cubre cada uno con una rebanada de pan, la mozzarella y el resto del parmesano.",
     "Gratina 5–6 minutos, hasta que la mozzarella burbujee y se dore en algunos puntos. Sirve con albahaca fresca por encima."
@@ -694,11 +694,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita la piel a las salchichas. En la cazuela, con el aceite a fuego medio-fuerte, dora la carne 5 minutos deshaciéndola con la cuchara, hasta que esté dorada y sin rastro rosado. Sácala y deja la grasa en la cazuela.",
-    "Pica la cebolla, el hinojo (reserva sus barbas) y el ajo. Rehógalos en la grasa de la salchicha con las semillas de hinojo machacadas 6 minutos, hasta que estén tiernos.",
+    "Pica la cebolla, el hinojo (pica también sus barbas y resérvalas) y el ajo, y machaca las semillas de hinojo. Quita la piel a las salchichas. En la cazuela, con el aceite a fuego medio-fuerte, dora la carne 5 minutos deshaciéndola con la cuchara, hasta que esté dorada y sin rastro rosado. Sácala y deja la grasa en la cazuela.",
+    "Rehoga la cebolla, el hinojo y el ajo en la grasa de la salchicha con las semillas de hinojo 6 minutos, hasta que estén tiernos.",
     "Vierte el caldo y, cuando hierva, añade los gnocchi. Cuécelos 2–3 minutos, hasta que suban a la superficie.",
     "Baja el fuego, añade la nata, la salchicha y las espinacas y cocina 2 minutos sin que hierva fuerte, hasta que las espinacas se arruguen.",
-    "Fuera del fuego, añade el parmesano, prueba de sal y termina con pimienta y la cayena si quieres un punto picante. Sirve enseguida con las barbas de hinojo picadas."
+    "Fuera del fuego, añade el parmesano, prueba de sal y termina con pimienta y la cayena si quieres un punto picante. Sirve enseguida con las barbas de hinojo."
   ],
   nutricion: { kcal: 710, prot: 30, hc: 58, grasa: 38 },
   etiquetas: ["creativa", "rápida", "invierno", "para niños"],
@@ -740,11 +740,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En la cazuela, con el aceite a fuego fuerte, extiende la ternera y déjala 2 minutos sin tocar para que se tueste; después desmenúzala y dórala 4 minutos más.",
-    "Añade la cebolla, la zanahoria y el ajo picados y rehoga 6 minutos a fuego medio. Incorpora el tomate concentrado, remueve 1 minuto y vierte el vino; deja que hierva 2 minutos, hasta que casi se evapore.",
-    "Añade el tomate triturado, el caldo y el orégano. Tapa y cuece a fuego suave 15 minutos.",
+    "Pica la cebolla, la zanahoria y el ajo. En la cazuela, con el aceite a fuego fuerte, extiende la ternera y déjala 2 minutos sin tocar para que se tueste; después desmenúzala y dórala 4 minutos más.",
+    "Añade la cebolla, la zanahoria y el ajo y rehoga 6 minutos a fuego medio. Incorpora el tomate concentrado, remueve 1 minuto y vierte el vino; deja que hierva 2 minutos, hasta que casi se evapore.",
+    "Añade el tomate triturado, el caldo y el orégano. Tapa y cuece a fuego suave 15 minutos. Mientras, pica la mitad de la albahaca y mézclala en un bol con la ricotta, el parmesano y pimienta.",
     "Echa las placas partidas y cuécelas 10–12 minutos removiendo a menudo para que no se peguen, hasta que estén tiernas. Si la sopa espesa demasiado, añade un poco de caldo o agua. Prueba de sal y pimienta.",
-    "Mientras, mezcla en un bol la ricotta con el parmesano, la mitad de la albahaca picada y pimienta.",
     "Sirve la sopa con una cucharada generosa de la mezcla de ricotta y unas hojas de albahaca: al removerla en el plato, la sopa se vuelve cremosa como el relleno de una lasaña."
   ],
   nutricion: { kcal: 720, prot: 44, hc: 52, grasa: 35 },
@@ -786,9 +785,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia el puerro y córtalo en rodajas; corta la patata en dados de 1 cm. En la cazuela, con el aceite, rehoga el puerro 4 minutos, añade la patata y el caldo y cuece 10 minutos, hasta que la patata esté tierna.",
     "Mientras, haz el crujiente: en una sartén antiadherente a fuego medio, forma dos discos finos de parmesano de unos 8 cm y déjalos 2 minutos, hasta que se fundan y se doren por los bordes. Sácalos con una espátula; se endurecen al enfriarse.",
-    "Añade las espinacas a la cazuela y cocina 2 minutos, solo hasta que se arruguen y estén de un verde intenso.",
+    "Pon a calentar un cazo con 5 cm de agua y el vinagre. Añade las espinacas a la cazuela y cocina 2 minutos, solo hasta que se arruguen y estén de un verde intenso.",
     "Tritura con 100 g de ricotta, la nuez moscada y la ralladura de limón hasta obtener una crema lisa. Prueba de sal y pimienta y mantenla caliente sin que llegue a hervir.",
-    "Escalfa los huevos: en un cazo con 5 cm de agua y el vinagre a hervor muy suave, desliza cada huevo desde un vaso y cuécelo 3 minutos, hasta que la clara esté cuajada y la yema siga líquida. Escúrrelos con una espumadera.",
+    "Escalfa los huevos: con el agua del cazo a hervor muy suave, desliza cada huevo desde un vaso y cuécelo 3 minutos, hasta que la clara esté cuajada y la yema siga líquida. Escúrrelos con una espumadera.",
     "Sirve la crema con el huevo en el centro, una cucharadita del resto de la ricotta, el crujiente de parmesano partido y un poco más de pimienta y nuez moscada."
   ],
   nutricion: { kcal: 420, prot: 25, hc: 23, grasa: 24 },
@@ -830,9 +829,9 @@ window.RECETAS_SEED.push({
     "Enjuaga las lentejas en un colador hasta que el agua salga casi transparente.",
     "Pica la cebolla, la zanahoria y el ajo. En la cazuela, con 1 cucharada de aceite, rehógalos 6 minutos a fuego medio, hasta que estén tiernos.",
     "Añade la mitad de la 'nduja y deshazla 1 minuto con la cuchara: la grasa se volverá roja y picante.",
-    "Incorpora las lentejas, el tomate y el caldo. Cuando hierva, cuece 15 minutos a fuego medio, removiendo de vez en cuando, hasta que las lentejas se deshagan.",
+    "Incorpora las lentejas, el tomate y el caldo. Cuando hierva, cuece 15 minutos a fuego medio, removiendo de vez en cuando, hasta que las lentejas se deshagan. Mientras, tuesta el pan y ralla el pecorino.",
     "Tritura la sopa a medias, o del todo si la quieres fina. Añade el zumo de limón y prueba de sal.",
-    "Tuesta el pan y úntalo con el resto de la 'nduja. Sirve la sopa con el pecorino rallado, un hilo del aceite restante y las tostas al lado."
+    "Unta las tostas con el resto de la 'nduja. Sirve la sopa con el pecorino, un hilo del aceite restante y las tostas al lado."
   ],
   nutricion: { kcal: 650, prot: 27, hc: 72, grasa: 27 },
   etiquetas: ["creativa", "picante", "de cuchara", "invierno", "batch cooking", "económica"],
@@ -872,11 +871,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la coliflor con 1 cucharada de aceite y una pizca de sal y ásala en la airfryer a 190 °C 15–18 minutos, agitando a mitad, hasta que tenga los bordes bien tostados. Reserva 6 ramilletes pequeños para decorar. Mientras, pon las pasas en agua tibia.",
-    "En la cazuela, con 1 cucharadita de aceite, rehoga la cebolla picada 5 minutos. Añade la patata en dados pequeños y el caldo y cuece 12 minutos, hasta que la patata esté tierna.",
+    "Mezcla la coliflor con 1 cucharada de aceite y una pizca de sal y ásala en la airfryer a 190 °C 15–18 minutos, agitando a mitad, hasta que tenga los bordes bien tostados. Reserva 6 ramilletes pequeños para decorar. Mientras, pon las pasas en agua tibia, pica la cebolla y el perejil y corta la patata en dados pequeños.",
+    "En la cazuela, con 1 cucharadita de aceite, rehoga la cebolla 5 minutos. Añade la patata y el caldo y cuece 12 minutos, hasta que la patata esté tierna.",
     "Calienta la leche en una sartén pequeña hasta que humee y escalfa el bacalao a fuego mínimo 5–6 minutos, sin que hierva, hasta que se separe en lascas. Sácalo y reserva la leche.",
     "Añade a la cazuela la coliflor asada y la leche del bacalao, cuece 3 minutos y tritura hasta obtener una crema fina. Ajusta el espesor con caldo y prueba antes de salar.",
-    "Limpia la sartén y dora los piñones con el resto del aceite 1–2 minutos. Añade las pasas escurridas y las alcaparras 30 segundos y, fuera del fuego, la ralladura de limón y el perejil picado.",
+    "Limpia la sartén y dora los piñones con el resto del aceite 1–2 minutos. Añade las pasas escurridas y las alcaparras 30 segundos y, fuera del fuego, la ralladura de limón y el perejil.",
     "Sirve la crema con las lascas de bacalao, los ramilletes reservados, el aliño de piñones y pasas por encima y pimienta."
   ],
   nutricion: { kcal: 560, prot: 34, hc: 38, grasa: 29 },

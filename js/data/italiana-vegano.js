@@ -80,7 +80,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga las lentejas en un colador y escúrrelas. Ni las de Castelluccio ni las pardinas necesitan remojo.",
-    "Pica muy fina la cebolla, la zanahoria y el apio. Calienta 2 cda de aceite en la cazuela a fuego medio-bajo y sofríe el picadillo con 1 diente de ajo picado y la salvia 8–10 minutos, hasta que la verdura esté blanda y brillante, sin que llegue a dorarse.",
+    "Pica muy fina la cebolla, la zanahoria, el apio y 1 diente de ajo. Calienta 2 cda de aceite en la cazuela a fuego medio-bajo y sofríe el picadillo con el ajo y la salvia 8–10 minutos, hasta que la verdura esté blanda y brillante, sin que llegue a dorarse.",
     "Añade el tomate concentrado y remueve 1 minuto, hasta que se oscurezca un poco. Agrega el tomate triturado y cocina 3 minutos más.",
     "Incorpora las lentejas, el laurel y el agua. Lleva a ebullición, baja a fuego suave y cuece con la tapa entreabierta 30–35 minutos, removiendo de vez en cuando, hasta que las lentejas estén tiernas y el caldo haya espesado: debe quedar un guiso jugoso, no una sopa. Sala en los últimos 10 minutos de cocción.",
     "Mientras, tuesta el pan en una sartén seca a fuego medio 2 minutos por cada lado, hasta que esté dorado y crujiente, y frota cada rebanada con el otro diente de ajo partido por la mitad.",
@@ -125,9 +125,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla, el apio y 1 diente de ajo. Calienta 1 cda de aceite en la cazuela a fuego medio y sofríe la verdura con 1 rama de romero 6–7 minutos, hasta que esté tierna y transparente.",
     "Añade el tomate concentrado y la guindilla desmenuzada y remueve 1 minuto. Incorpora los garbanzos, las castañas partidas en trozos grandes y el caldo caliente.",
-    "Lleva a ebullición, baja el fuego y cuece 15 minutos a fuego suave, hasta que las castañas empiecen a deshacerse y el caldo tome un color tostado.",
+    "Lleva a ebullición, baja el fuego y cuece 15 minutos a fuego suave, hasta que las castañas empiecen a deshacerse y el caldo tome un color tostado. Mientras, lamina el otro diente de ajo y ponlo en una sartén pequeña con la otra cucharada de aceite y las agujas de la segunda rama de romero; calienta a fuego bajo 2 minutos, hasta que el ajo esté apenas dorado. Retira el ajo y tuesta el pan en esa misma sartén 1 minuto por lado.",
     "Retira la rama de romero. Saca un tercio de la sopa, tritúralo con la batidora y devuélvelo a la cazuela: así espesa y queda cremosa pero con tropezones. Prueba de sal y pimienta.",
-    "Mientras, pon la otra cucharada de aceite en una sartén pequeña con el otro diente de ajo laminado y las agujas de la segunda rama de romero, y calienta a fuego bajo 2 minutos, hasta que el ajo esté apenas dorado. Retira el ajo y tuesta el pan en esa misma sartén 1 minuto por lado.",
     "Sirve la sopa con el aceite de romero por encima y el pan tostado al lado o en el fondo del plato."
   ],
   nutricion: { kcal: 610, prot: 20, hc: 86, grasa: 20 },
@@ -166,7 +165,7 @@ window.RECETAS_SEED.push({
     "Haz una bola, ponla en el bol untado con unas gotas de aceite, tapa y deja levar 1 hora y media en un sitio templado, hasta que doble su volumen.",
     "Divide la masa en 2 bolas, boléalas tensando la superficie, colócalas separadas en una bandeja enharinada, tápalas y déjalas levar 1 hora más.",
     "Media hora antes de que acabe el segundo levado, precalienta el horno al máximo (250–275 °C) con la bandeja del horno dada la vuelta (o una piedra) en el nivel bajo.",
-    "Prepara la salsa sin cocinarla: aplasta el tomate con un tenedor y añade una pizca de sal. Lamina el ajo muy fino.",
+    "Mientras se calienta el horno, prepara la salsa sin cocinarla: aplasta el tomate con un tenedor y añade una pizca de sal. Lamina el ajo muy fino.",
     "Estira cada bola con los dedos desde el centro hacia fuera, dejando un borde de 1 cm más grueso sin aplastar (la cornisa), hasta tener un disco de unos 28 cm. No uses rodillo: echaría fuera el aire.",
     "Extiende la mitad del tomate, reparte la mitad del ajo, 1 cdta de orégano y 1 cda de aceite. Desliza la pizza sobre la bandeja caliente con ayuda de un papel de horno y hornea 7–9 minutos, hasta que el borde esté inflado y con manchas tostadas. Repite con la segunda.",
     "Termina cada pizza con un hilo del aceite restante en crudo y sírvela enseguida."
@@ -244,11 +243,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Quita el rabo y las semillas de los pimientos secos y límpialos con un paño seco: no los mojes, porque con agua no se vuelven crujientes. Córtalos en trozos de 3–4 cm.",
-    "Pon a hervir abundante agua con sal para la pasta.",
+    "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, pica fino 1 diente de ajo, lamina el otro y, si lo usas, pica el perejil.",
     "Calienta 3 cda de aceite en una sartén a fuego medio, hasta que un trozo de pimiento chisporrotee al entrar. Fríe los pimientos por tandas solo 5–10 segundos, hasta que se inflen y se pongan rojo brillante; si se oscurecen, amargan. Sácalos a un papel de cocina: al enfriarse quedan crujientes. Guarda el aceite, que habrá tomado color y sabor.",
-    "En otra sartén, calienta 1 cda de aceite con 1 diente de ajo picado fino 30 segundos, añade el pan rallado y tuéstalo removiendo sin parar 2–3 minutos, hasta que tenga color de arena tostada. Sálalo y pásalo a un plato.",
-    "Cuece las orecchiette 1 minuto menos de lo que indique el paquete (unos 11 minutos). Mientras, calienta el aceite rojo de los pimientos con el otro diente de ajo laminado 1 minuto.",
-    "Escurre la pasta reservando medio vaso de agua de cocción, échala a la sartén del aceite rojo con un chorro de esa agua y saltea 1 minuto hasta que quede brillante. Añade el perejil picado si lo usas.",
+    "En otra sartén, calienta 1 cda de aceite con el ajo picado 30 segundos, añade el pan rallado y tuéstalo removiendo sin parar 2–3 minutos, hasta que tenga color de arena tostada. Sálalo y pásalo a un plato.",
+    "Cuece las orecchiette 1 minuto menos de lo que indique el paquete (unos 11 minutos). Mientras, calienta el aceite rojo de los pimientos con el ajo laminado 1 minuto.",
+    "Escurre la pasta reservando medio vaso de agua de cocción, échala a la sartén del aceite rojo con un chorro de esa agua y saltea 1 minuto hasta que quede brillante. Añade el perejil si lo usas.",
     "Sirve con las migas por encima y los pimientos desmenuzados con las manos en el último momento, para que crujan."
   ],
   nutricion: { kcal: 680, prot: 15, hc: 87, grasa: 30 },
@@ -291,11 +290,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata las setas secas en 300 ml del agua, templada, durante 15 minutos. Escúrrelas apretando, pícalas y cuela el agua del remojo por un papel de cocina: es el caldo de la sopa.",
-    "Pica la cebolla, la zanahoria, el apio y el ajo. Calienta 2 cda de aceite en una cazuela grande a fuego medio y sofríe la verdura con la guindilla 8 minutos, hasta que esté blanda.",
+    "Hidrata las setas secas en 300 ml del agua, templada, durante 15 minutos. Mientras, pica la cebolla, la zanahoria, el apio y el ajo. Escúrrelas apretando, pícalas y cuela el agua del remojo por un papel de cocina: es el caldo de la sopa.",
+    "Calienta 2 cda de aceite en una cazuela grande a fuego medio y sofríe la verdura con la guindilla 8 minutos, hasta que esté blanda.",
     "Añade las setas picadas, rehoga 2 minutos, incorpora el tomate triturado y cocina 3 minutos más.",
-    "Agrega las lentejas enjuagadas, el agua de las setas y los 700 ml de agua restantes. Cuece 15 minutos a fuego suave.",
-    "Incorpora el repollo cortado en tiras finas y los garbanzos y las alubias escurridos y enjuagados. Cuece 10 minutos más, hasta que la col esté tierna y las lentejas casi hechas.",
+    "Agrega las lentejas enjuagadas, el agua de las setas y los 700 ml de agua restantes. Cuece 15 minutos a fuego suave. Mientras, corta el repollo en tiras finas y escurre y enjuaga los garbanzos y las alubias.",
+    "Incorpora el repollo, los garbanzos y las alubias. Cuece 10 minutos más, hasta que la col esté tierna y las lentejas casi hechas.",
     "Echa la pasta y cuécela 9–10 minutos, removiendo a menudo para que no se pegue al fondo; si espesa demasiado, añade un poco de agua caliente. Debe quedar una sopa muy espesa.",
     "Prueba de sal y pimienta, deja reposar 5 minutos fuera del fuego y sirve con un hilo del aceite restante en crudo."
   ],
@@ -334,8 +333,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las pasas a remojo en un vaso de agua templada. Disuelve el azafrán en 2 cda de agua caliente.",
-    "Separa la coliflor en ramilletes y cuécelos en una olla grande con abundante agua con sal 8–10 minutos, hasta que estén muy tiernos. Sácalos con una espumadera y guarda el agua: la pasta se cocerá en ella.",
-    "En una sartén grande, calienta 2 cda de aceite a fuego medio-bajo y pocha la cebolla picada fina 8 minutos, hasta que esté blanda y dorada.",
+    "Separa la coliflor en ramilletes y cuécelos en una olla grande con abundante agua con sal 8–10 minutos, hasta que estén muy tiernos. Sácalos con una espumadera y guarda el agua: la pasta se cocerá en ella. Mientras se cuece la coliflor, pica fina la cebolla.",
+    "En una sartén grande, calienta 2 cda de aceite a fuego medio-bajo y pocha la cebolla 8 minutos, hasta que esté blanda y dorada.",
     "Añade la coliflor, las pasas escurridas, los piñones y el azafrán con su agua. Cocina 8–10 minutos removiendo y aplastando con la cuchara de madera («arriminare» es remover): debe quedar una salsa amarilla y cremosa con algunos trozos. Añade algún cazo del agua de cocción si se seca.",
     "Mientras, tuesta el pan rallado en una sartén pequeña con 1 cda de aceite, removiendo 2–3 minutos hasta que esté dorado. Sálalo.",
     "Lleva de nuevo a ebullición el agua de la coliflor y cuece los bucatini 1 minuto menos de lo que indique el paquete. Escúrrelos reservando un vaso de agua.",
@@ -377,9 +376,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Llena un bol con agua y el zumo de medio limón. Limpia las alcachofas: arranca las hojas exteriores duras hasta llegar a las amarillo claro, corta las puntas y pela el tallo. Pártelas en cuartos, quita la pelusa del centro si la tienen y córtalas en láminas de medio centímetro. Échalas al agua con limón para que no se ennegrezcan.",
+    "Llena un bol con agua y el zumo de medio limón. Limpia las alcachofas: arranca las hojas exteriores duras hasta llegar a las amarillo claro, corta las puntas y pela el tallo. Pártelas en cuartos, quita la pelusa del centro si la tienen y córtalas en láminas de medio centímetro. Échalas al agua con limón para que no se ennegrezcan. Pica la cebolla, el ajo y el perejil.",
     "Calienta el caldo con el azafrán y mantenlo caliente a fuego mínimo.",
-    "En la cazuela, calienta 2 cda de aceite a fuego medio y pocha la cebolla y el ajo picados 5 minutos. Añade las alcachofas bien escurridas y la mitad del perejil picado y rehoga 5–6 minutos, hasta que empiecen a dorarse.",
+    "En la cazuela, calienta 2 cda de aceite a fuego medio y pocha la cebolla y el ajo 5 minutos. Añade las alcachofas bien escurridas y la mitad del perejil y rehoga 5–6 minutos, hasta que empiecen a dorarse.",
     "Agrega la fregola, remueve 1 minuto para que se impregne y vierte el vino blanco; deja que se evapore 1 minuto.",
     "Añade el caldo caliente poco a poco, como en un risotto, un cazo cada vez que se absorba el anterior, durante 15–18 minutos, hasta que la fregola esté tierna pero con mordida y la alcachofa melosa. Debe quedar jugosa, algo caldosa.",
     "Fuera del fuego, añade el resto del perejil, 1 cda de aceite crudo, la ralladura del otro medio limón, sal y pimienta. Deja reposar 2 minutos y sirve."
@@ -416,9 +415,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava los tomates y corta la parte de arriba (1,5 cm) para usarla de tapa. Vacíalos con una cucharilla sin romper la piel, dejando una pared de medio centímetro, y echa la pulpa en un bol. Sala ligeramente el interior y déjalos boca abajo 10 minutos para que escurran.",
-    "Tritura la pulpa con la batidora y mézclala en el bol con el arroz crudo, el ajo picado, la albahaca troceada, 2 cda de aceite, sal y pimienta. Deja reposar 30 minutos: el arroz empieza a hidratarse con el jugo.",
-    "Precalienta el horno a 180 °C con calor arriba y abajo. Pela las patatas, córtalas en gajos y alíñalas con 1 cda de aceite, sal y pimienta.",
+    "Lava los tomates y corta la parte de arriba (1,5 cm) para usarla de tapa. Vacíalos con una cucharilla sin romper la piel, dejando una pared de medio centímetro, y echa la pulpa en un bol. Sala ligeramente el interior y déjalos boca abajo 10 minutos para que escurran. Mientras, pica el ajo y trocea la albahaca.",
+    "Tritura la pulpa con la batidora y mézclala en el bol con el arroz crudo, el ajo, la albahaca, 2 cda de aceite, sal y pimienta. Deja reposar 30 minutos: el arroz empieza a hidratarse con el jugo.",
+    "Mientras reposa, precalienta el horno a 180 °C con calor arriba y abajo. Pela las patatas, córtalas en gajos y alíñalas con 1 cda de aceite, sal y pimienta.",
     "Coloca los tomates boca arriba en una fuente de horno untada con unas gotas de aceite. Rellénalos con el arroz solo hasta tres cuartos de su altura (el arroz crece) y reparte por encima el líquido que quede en el bol. Ponles su tapa.",
     "Reparte los gajos de patata entre los tomates, encajándolos para que los sujeten, y riega todo con el resto del aceite.",
     "Hornea 60–70 minutos, hasta que los tomates estén arrugados y tostados en los bordes, las patatas doradas y el arroz tierno. Prueba uno: si el arroz sigue duro, añade un poco de agua al fondo de la fuente y hornea 10 minutos más.",
@@ -462,12 +461,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las patatas, córtalas en dados de 2 cm y ponlas en un recipiente apto para microondas con 2 cda de agua y una pizca de sal. Tapa y cocina a máxima potencia 6–7 minutos, hasta que estén casi tiernas. Escúrrelas.",
+    "Lava las patatas, córtalas en dados de 2 cm y ponlas en un recipiente apto para microondas con 2 cda de agua y una pizca de sal. Tapa y cocina a máxima potencia 6–7 minutos, hasta que estén casi tiernas; mientras, lamina los dos dientes de ajo y pica el perejil. Escúrrelas.",
     "Seca bien los filetes de seitán con papel de cocina, salpimiéntalos y pásalos por la harina, sacudiendo el exceso.",
     "Calienta 2 cda de aceite en una sartén grande a fuego medio-alto y dora el seitán 2 minutos por cada lado, hasta que tenga una costra dorada. Sácalo a un plato.",
-    "En la misma sartén, añade 1 cda de aceite, 1 diente de ajo laminado y las alcaparras, y enseguida el vino blanco. Raspa el fondo y deja reducir a la mitad, 1 minuto. Añade el caldo y el zumo de medio limón y cuece 2 minutos, hasta que la salsa espese ligeramente: la harina del seitán la liga.",
-    "Devuelve el seitán a la sartén y dale la vuelta en la salsa 1 minuto para que se glasee. Termina con el perejil picado, pásalo a una fuente y tápalo.",
-    "Limpia la sartén y dora las patatas con la última cucharada de aceite y la rama de romero 5 minutos a fuego fuerte, hasta que estén crujientes por fuera. Apártalas y, en la misma sartén, saltea las espinacas con el otro diente de ajo laminado 1–2 minutos, solo hasta que mermen. Sala.",
+    "En la misma sartén, añade 1 cda de aceite, la mitad del ajo y las alcaparras, y enseguida el vino blanco. Raspa el fondo y deja reducir a la mitad, 1 minuto. Añade el caldo y el zumo de medio limón y cuece 2 minutos, hasta que la salsa espese ligeramente: la harina del seitán la liga.",
+    "Devuelve el seitán a la sartén y dale la vuelta en la salsa 1 minuto para que se glasee. Termina con el perejil, pásalo a una fuente y tápalo.",
+    "Limpia la sartén y dora las patatas con la última cucharada de aceite y la rama de romero 5 minutos a fuego fuerte, hasta que estén crujientes por fuera. Apártalas y, en la misma sartén, saltea las espinacas con el resto del ajo 1–2 minutos, solo hasta que mermen. Sala.",
     "Sirve el seitán con su salsa, las patatas, las espinacas y rodajas del medio limón restante."
   ],
   nutricion: { kcal: 575, prot: 35, hc: 41, grasa: 30 },
@@ -509,11 +508,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Descongela las espinacas (unos minutos en el microondas o la víspera en la nevera) y escúrrelas apretando con las manos hasta que no suelten agua. Pícalas.",
-    "Salsa de tomate: en una cazuela, calienta 1 cda de aceite con 1 ajo laminado 1 minuto, añade el tomate triturado, sal y la mitad de la albahaca y cuece 15 minutos a fuego suave, hasta que espese.",
-    "Relleno: desmenuza el tofu con un tenedor hasta que parezca ricotta. En una sartén con 1 cda de aceite, rehoga el otro ajo picado 30 segundos, añade las espinacas y saltea 3 minutos. Mézclalo en un bol con el tofu, 2 cda de levadura nutricional, la ralladura del limón, 1 cda de su zumo, nuez moscada, sal y pimienta. Prueba: debe estar sabroso y con un punto ácido.",
-    "Bechamel: en un cazo, calienta 2 cda de aceite, añade la harina y remueve 2 minutos a fuego medio sin que tome color. Vierte la bebida vegetal fría poco a poco, batiendo con varillas, y cuece 5–6 minutos hasta que cubra el dorso de la cuchara. Sazona con sal, nuez moscada y la cucharada restante de levadura nutricional.",
-    "Precalienta el horno a 190 °C. Si las placas lo necesitan, hidrátalas según el paquete. Pon 2 cucharadas de relleno en cada una y enróllalas.",
+    "Descongela las espinacas (unos minutos en el microondas o la víspera en la nevera) y escúrrelas apretando con las manos hasta que no suelten agua. Pícalas. Lamina un diente de ajo y pica el otro.",
+    "Salsa de tomate: en una cazuela, calienta 1 cda de aceite con el ajo laminado 1 minuto, añade el tomate triturado, sal y la mitad de la albahaca y cuece 15 minutos a fuego suave, hasta que espese.",
+    "Relleno: mientras cuece la salsa, desmenuza el tofu con un tenedor hasta que parezca ricotta. En una sartén con 1 cda de aceite, rehoga el ajo picado 30 segundos, añade las espinacas y saltea 3 minutos. Mézclalo en un bol con el tofu, 2 cda de levadura nutricional, la ralladura del limón, 1 cda de su zumo, nuez moscada, sal y pimienta. Prueba: debe estar sabroso y con un punto ácido.",
+    "Precalienta el horno a 190 °C. Bechamel: en un cazo, calienta 2 cda de aceite, añade la harina y remueve 2 minutos a fuego medio sin que tome color. Vierte la bebida vegetal fría poco a poco, batiendo con varillas, y cuece 5–6 minutos hasta que cubra el dorso de la cuchara. Sazona con sal, nuez moscada y la cucharada restante de levadura nutricional.",
+    "Si las placas lo necesitan, hidrátalas según el paquete. Pon 2 cucharadas de relleno en cada una y enróllalas.",
     "Extiende la salsa de tomate en el fondo de una fuente, coloca los canelones con el cierre hacia abajo, cúbrelos con la bechamel y espolvorea el pan rallado.",
     "Hornea 25 minutos, hasta que la bechamel burbujee y la superficie esté dorada (dale 2–3 minutos de grill al final si hace falta). Deja reposar 5 minutos y sirve con la albahaca restante por encima."
   ],
@@ -604,13 +603,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tempeh en dados y cuécelo en una cazuela con agua hirviendo 8 minutos: así pierde el amargor y se ablanda. Escúrrelo y deja que se temple.",
+    "Corta el tempeh en dados y cuécelo en una cazuela con agua hirviendo 8 minutos: así pierde el amargor y se ablanda. Mientras, pica la cebolla y el tercer diente de ajo. Escúrrelo y deja que se temple.",
     "Mezcla la harina de garbanzo con 3 cda de agua hasta tener una pasta. Tritura en la picadora de la batidora el tempeh con 2 dientes de ajo, el perejil, las semillas de hinojo machacadas, la guindilla desmenuzada (la mitad si no te gusta el picante), la levadura nutricional, sal y pimienta, a golpes, hasta que quede como carne picada, no como un puré.",
     "Pásalo a un bol, añade el pan rallado y la pasta de garbanzo y amasa con las manos. Forma 12 bolas del tamaño de una nuez grande, apretando bien; si se agrietan, añade 1 cda de agua.",
     "Calienta 2 cda de aceite en una sartén amplia a fuego medio y dora las polpette 6–8 minutos, girándolas con cuidado, hasta que estén doradas por todos lados. Sácalas.",
-    "En la misma sartén, añade el resto del aceite, la cebolla picada y el último ajo, y pocha 5 minutos. Agrega el tomate triturado, sal y la mitad de la albahaca, y cuece 10 minutos a fuego suave.",
-    "Devuelve las polpette a la salsa y cuécelas tapadas 8 minutos a fuego muy suave, moviendo la sartén en vez de removerlas con la cuchara para que no se rompan.",
-    "Tuesta el pan. Sirve las polpette con su salsa, el resto de la albahaca, la rúcula al lado y el pan para mojar."
+    "En la misma sartén, añade el resto del aceite, la cebolla y el ajo picados, y pocha 5 minutos. Agrega el tomate triturado, sal y la mitad de la albahaca, y cuece 10 minutos a fuego suave.",
+    "Devuelve las polpette a la salsa y cuécelas tapadas 8 minutos a fuego muy suave, moviendo la sartén en vez de removerlas con la cuchara para que no se rompan. Mientras, tuesta el pan.",
+    "Sirve las polpette con su salsa, el resto de la albahaca, la rúcula al lado y el pan para mojar."
   ],
   nutricion: { kcal: 790, prot: 39, hc: 75, grasa: 37 },
   etiquetas: ["creativa", "alta en proteína", "batch cooking"],
@@ -649,9 +648,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo en un cazo y mantenlo a fuego mínimo. Corta el radicchio en cuartos, retira el corazón duro y córtalo en tiras finas; guarda un puñado de tiras crudas para el final.",
+    "Calienta el caldo en un cazo y mantenlo a fuego mínimo. Corta el radicchio en cuartos, retira el corazón duro y córtalo en tiras finas; guarda un puñado de tiras crudas para el final. Pica fina la chalota.",
     "Corta la pera en gajos sin pelar, quitando el corazón. Dóralos en una sartén con 1 cdta de aceite 3 minutos por cada lado, hasta que se caramelicen; añade el balsámico, remueve y apártalos. En la misma sartén tuesta las nueces 2 minutos y pícalas.",
-    "En una cazuela ancha, calienta 1 cda de aceite a fuego medio y pocha la chalota picada fina con la rama de romero 4 minutos, sin que se dore. Añade el arroz y nacáralo 2 minutos, removiendo, hasta que los granos estén translúcidos por los bordes.",
+    "En una cazuela ancha, calienta 1 cda de aceite a fuego medio y pocha la chalota con la rama de romero 4 minutos, sin que se dore. Añade el arroz y nacáralo 2 minutos, removiendo, hasta que los granos estén translúcidos por los bordes.",
     "Vierte el vino tinto y remueve hasta que se evapore. Añade el radicchio y remueve 1 minuto: se oscurecerá y se ablandará.",
     "Ve añadiendo el caldo caliente cazo a cazo, removiendo con frecuencia y esperando a que se absorba antes de añadir el siguiente, durante 16–18 minutos, hasta que el arroz esté tierno pero con un punto firme en el centro. Retira el romero.",
     "Fuera del fuego, añade la levadura nutricional y el resto del aceite y remueve con energía 1 minuto: es el mantecado. Debe quedar cremoso y ondulado, «all'onda». Prueba de sal y pimienta y deja reposar 1 minuto tapado.",
@@ -699,12 +698,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon las setas secas a hidratar en 150 ml de agua templada. Parte la calabaza por la mitad a lo largo, quita las semillas con una cuchara y haz cortes en cuadrícula en la pulpa sin llegar a la piel. Pincélala con 1 cda de aceite, salpimienta, ralla un poco de nuez moscada, esparce las agujas de 1 rama de romero y ásala boca arriba 45–50 minutos, hasta que un cuchillo entre sin resistencia y los bordes estén caramelizados.",
-    "Mientras, enjuaga el farro y cuécelo en abundante agua con sal 25–30 minutos (o lo que indique el paquete), hasta que esté tierno pero con mordida. Escúrrelo.",
+    "Mientras, enjuaga el farro y cuécelo en abundante agua con sal 25–30 minutos (o lo que indique el paquete), hasta que esté tierno pero con mordida. Mientras cuece, trocea las setas frescas; pica la chalota, el ajo, las agujas de la otra rama de romero y el perejil, y escurre y pica las setas secas, guardando su agua. Escurre el farro.",
     "Tuesta las avellanas en una sartén seca 3 minutos, removiendo, hasta que la piel se agriete y huelan. Frótalas con un paño para quitarles parte de la piel, pícalas groseramente y apártalas.",
-    "En la misma sartén, calienta 1 cda de aceite a fuego fuerte y saltea las setas frescas troceadas 5 minutos sin removerlas demasiado, hasta que se doren y se evapore su agua. Baja el fuego y añade la chalota y el ajo picados, las setas secas escurridas y picadas y las agujas picadas de la otra rama de romero; cocina 3 minutos. Moja con el vino blanco y un chorrito del agua de las setas colada, y deja que se evapore.",
+    "En la misma sartén, calienta 1 cda de aceite a fuego fuerte y saltea las setas frescas 5 minutos sin removerlas demasiado, hasta que se doren y se evapore su agua. Baja el fuego y añade la chalota, el ajo, las setas secas y el romero picado; cocina 3 minutos. Moja con el vino blanco y un chorrito del agua de las setas colada, y deja que se evapore.",
     "Añade el farro, la levadura nutricional, la ralladura del medio limón y la mitad de las avellanas; mezcla y prueba de sal y pimienta.",
     "Saca la calabaza, vacía con una cuchara parte de la pulpa dejando 1,5 cm de pared, cháfala y mézclala con el relleno. Rellena las mitades formando una montaña y hornea 10 minutos más.",
-    "Mezcla el perejil picado con el resto de las avellanas, unas gotas de zumo de limón y la última cucharada de aceite. Reparte esta picada sobre la calabaza recién salida del horno y sirve."
+    "Mezcla el perejil con el resto de las avellanas, unas gotas de zumo de limón y la última cucharada de aceite. Reparte esta picada sobre la calabaza recién salida del horno y sirve."
   ],
   nutricion: { kcal: 760, prot: 22, hc: 91, grasa: 34 },
   etiquetas: ["creativa", "al horno", "otoño", "invierno", "para invitados", "fin de semana", "poco especiada"],
@@ -742,8 +741,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las berenjenas a lo largo en filetes de 1 cm. Sálalas ligeramente y déjalas 10 minutos sobre papel de cocina; después sécalas bien presionando con más papel.",
-    "En un plato hondo, mezcla la harina de garbanzo con el agua, una pizca de sal y pimienta hasta tener una crema como de rebozado. En otro plato, mezcla el pan rallado con la levadura nutricional y la ralladura del limón.",
+    "Corta las berenjenas a lo largo en filetes de 1 cm. Sálalas ligeramente y déjalas 10 minutos sobre papel de cocina.",
+    "Mientras sueltan agua, en un plato hondo mezcla la harina de garbanzo con el agua, una pizca de sal y pimienta hasta tener una crema como de rebozado. En otro plato, mezcla el pan rallado con la levadura nutricional y la ralladura del limón. Después, seca bien las berenjenas presionando con más papel.",
     "Pasa cada filete por la crema de garbanzo, deja escurrir el exceso y luego por el pan rallado, apretando con la mano para que se adhiera bien por ambos lados.",
     "Pincela las cotolette por los dos lados con 1,5 cda de aceite. Colócalas en la cesta de la airfryer sin amontonarlas (en 2 tandas si hace falta) y cocínalas a 190 °C 12–14 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes y la berenjena tierna al pincharla.",
     "Mientras, parte los tomates cherry por la mitad y mézclalos con la rúcula, las alcaparras, el resto del aceite, el zumo de medio limón y sal.",
@@ -784,8 +783,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta.",
-    "Tritura con la batidora el tofu sedoso con la levadura nutricional, la cúrcuma, la sal negra, media cucharadita de pimienta y 2 cda de agua hasta tener una crema lisa y amarilla. Reserva.",
-    "Corta el tofu ahumado en bastoncitos de 1 cm, como si fuera guanciale. Dóralo en una sartén amplia con el aceite a fuego medio 6–8 minutos, removiendo, hasta que esté crujiente por todos lados. Añade el ajo laminado el último minuto y retira la sartén del fuego.",
+    "Mientras se calienta, lamina el ajo y tritura con la batidora el tofu sedoso con la levadura nutricional, la cúrcuma, la sal negra, media cucharadita de pimienta y 2 cda de agua hasta tener una crema lisa y amarilla. Reserva.",
+    "Corta el tofu ahumado en bastoncitos de 1 cm, como si fuera guanciale. Dóralo en una sartén amplia con el aceite a fuego medio 6–8 minutos, removiendo, hasta que esté crujiente por todos lados. Añade el ajo el último minuto y retira la sartén del fuego.",
     "Cuece los espaguetis 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua de cocción y escúrrelos.",
     "Echa la pasta a la sartén del tofu, a fuego mínimo, añade la crema y 3–4 cda del agua de cocción y mezcla con unas pinzas 1 minuto, hasta que la salsa envuelva cada espagueti y quede brillante y fluida. Si espesa, añade un poco más de agua.",
     "Sirve enseguida con el resto de la pimienta recién molida, generosa, por encima."
@@ -830,10 +829,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla en un bol la harina, la levadura química y media cucharadita de sal. Añade 2 cda de aceite y el agua tibia poco a poco y amasa 3–4 minutos, hasta tener una masa lisa y suave que no se pegue. Divídela en 2 bolas, tápalas y déjalas reposar 10 minutos.",
     "Mientras, corta el calabacín en láminas a lo largo de medio centímetro y el pimiento en tiras. Hazlos por tandas en una sartén muy caliente con unas gotas de aceite, 3–4 minutos por lado, hasta que tengan marcas tostadas. Sálalos.",
-    "Tritura con la batidora (o aplasta con un tenedor) las judías escurridas con el ajo, las hojas de romero picadísimas, el zumo del medio limón, 1 cda de aceite, sal, pimienta y 1–2 cda de agua, hasta tener una crema untable.",
+    "Pica muy finas las hojas de romero y corta el tomate seco en tiras. Tritura con la batidora (o aplasta con un tenedor) las judías escurridas con el ajo, el romero, el zumo del medio limón, 1 cda de aceite, sal, pimienta y 1–2 cda de agua, hasta tener una crema untable.",
     "Estira cada bola con el rodillo en un disco fino de unos 22–24 cm (2–3 mm de grosor) y pincha la superficie con un tenedor.",
     "Limpia la sartén y caliéntala sin aceite a fuego medio-alto. Cuece cada piadina 1–2 minutos por lado, hasta que tenga manchas tostadas y se infle a ratos, aplastando con una espátula. Guárdalas envueltas en un paño para que sigan flexibles.",
-    "Unta media piadina con la crema de alubias, reparte las verduras, el tomate seco en tiras y la rúcula, dobla por la mitad y sirve caliente."
+    "Unta media piadina con la crema de alubias, reparte las verduras, el tomate seco y la rúcula, dobla por la mitad y sirve caliente."
   ],
   nutricion: { kcal: 750, prot: 21, hc: 97, grasa: 31 },
   etiquetas: ["creativa", "económica", "verano", "para niños", "poco especiada"],
@@ -872,8 +871,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre el tofu, envuélvelo en un paño limpio y ponle un peso encima (una sartén con un par de latas) 10 minutos para que suelte agua. Córtalo en 4 filetes de 1,5 cm.",
-    "Prepara el salmoriglio: en un bol, maja o ralla el ajo con una pizca de sal, añade el zumo y la ralladura del limón, 2 cda de aceite, 1 cda de agua caliente, el orégano y el perejil picado, y bate con un tenedor hasta que emulsione y quede turbio. Añade pimienta.",
+    "Escurre el tofu, envuélvelo en un paño limpio y ponle un peso encima (una sartén con un par de latas) 10 minutos para que suelte agua; mientras, pica el perejil. Córtalo en 4 filetes de 1,5 cm.",
+    "Prepara el salmoriglio: en un bol, maja o ralla el ajo con una pizca de sal, añade el zumo y la ralladura del limón, 2 cda de aceite, 1 cda de agua caliente, el orégano y el perejil, y bate con un tenedor hasta que emulsione y quede turbio. Añade pimienta.",
     "Pinta los filetes de tofu con 1 cda de salmoriglio y déjalos reposar mientras preparas las verduras.",
     "Corta el calabacín en rodajas al bies de 1 cm, los pimientos en tiras anchas y la cebolla morada en gajos. Úntalos con la cucharada de aceite restante y sálalos.",
     "Calienta la plancha a fuego fuerte y haz las verduras por tandas 3–4 minutos por lado, hasta que tengan marcas tostadas y estén tiernas. Pásalas a una fuente y riégalas con 2 cda de salmoriglio mientras están calientes.",

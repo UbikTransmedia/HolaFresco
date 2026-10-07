@@ -34,8 +34,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla en media luna y dórala en la sartén con el aceite a fuego medio 10 minutos, hasta que esté bien tostada: ese color es el que da el sabor profundo al cholent, así que no la dejes solo transparente.",
-    "Aparta la sartén del fuego, añade el ajo laminado, el pimentón, el comino y el azúcar y remueve 20 segundos con el calor residual para que el pimentón no se queme y amargue.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, pica la cebolla en media luna y dórala en la sartén con el aceite a fuego medio 10 minutos, hasta que esté bien tostada: ese color es el que da el sabor profundo al cholent, así que no la dejes solo transparente. Mientras, lamina el ajo y corta la patata en trozos grandes.",
+    "Aparta la sartén del fuego, añade el ajo, el pimentón, el comino y el azúcar y remueve 20 segundos con el calor residual para que el pimentón no se queme y amargue.",
     "Pon en la olla lenta, por capas, la patata abajo (es lo que más tarda), luego las alubias escurridas, la cebada y el sofrito. Salpimienta.",
     "Lava los huevos y entiérralos enteros, con cáscara, entre las alubias. Vierte el caldo caliente hasta cubrir todo por un dedo.",
     "Tapa y cocina en LOW 9-10 horas, por ejemplo toda la noche. No abras la tapa: cada vez que la levantas pierdes unos 20 minutos de calor.",
@@ -82,9 +82,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los garbanzos del remojo y ponlos en la olla lenta con la zanahoria en rodajas, el laurel y el tomillo.",
-    "Saltea las setas troceadas en la sartén con 1 cucharada de aceite a fuego fuerte 5 minutos, sin moverlas al principio, hasta que se doren. Dorarlas antes es clave: en la olla lenta solo soltarían agua y quedarían gomosas. Pásalas a un plato.",
-    "En la misma sartén, con el resto del aceite, pocha la cebolla y el ajo picados a fuego medio 8 minutos. Añade el pimentón fuera del fuego, el tomate y el vino y deja que hierva 2 minutos para que se evapore el alcohol.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, corta la zanahoria en rodajas, trocea las setas y pica la cebolla y el ajo. Escurre los garbanzos del remojo y ponlos en la olla lenta con la zanahoria, el laurel y el tomillo.",
+    "Saltea las setas en la sartén con 1 cucharada de aceite a fuego fuerte 5 minutos, sin moverlas al principio, hasta que se doren. Dorarlas antes es clave: en la olla lenta solo soltarían agua y quedarían gomosas. Pásalas a un plato.",
+    "En la misma sartén, con el resto del aceite, pocha la cebolla y el ajo a fuego medio 8 minutos. Añade el pimentón fuera del fuego, el tomate y el vino y deja que hierva 2 minutos para que se evapore el alcohol.",
     "Vuelca el sofrito sobre los garbanzos y cubre con el caldo caliente; deben quedar 2 dedos por encima. No eches sal todavía.",
     "Tapa y cocina en LOW 7 horas o en HIGH 4 horas, hasta que los garbanzos se aplasten fácilmente entre dos dedos.",
     "Añade las setas, las castañas desmigadas en trozos grandes y la sal. Cocina en HIGH 30 minutos más: las castañas se deshacen un poco y espesan el caldo de forma natural.",
@@ -130,9 +130,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las judías mungo y ponlas en la olla lenta con la cebolla y el tomate picados, el ajo y el jengibre rallados, la cúrcuma y 800 ml de agua caliente.",
-    "Tapa y cocina en LOW 6 horas (o HIGH 3 horas y media), hasta que las judías estén tan tiernas que empiecen a abrirse.",
-    "Bate con varillas un minuto dentro de la olla para romper parte de los granos: así el dal se vuelve cremoso sin necesidad de nata. Sala y añade el garam masala y las espinacas troceadas; tapa 15 minutos en HIGH para que se ablanden.",
+    "Con 4 horas de antelación, pon las judías mungo en remojo en abundante agua fría. Pasado ese tiempo, pica la cebolla y el tomate y ralla el ajo y el jengibre. Escurre las judías y ponlas en la olla lenta con la cebolla, el tomate, el ajo, el jengibre, la cúrcuma y 800 ml de agua caliente.",
+    "Tapa y cocina en LOW 6 horas (o HIGH 3 horas y media), hasta que las judías estén tan tiernas que empiecen a abrirse. Antes de que termine, lava y trocea las espinacas.",
+    "Bate con varillas un minuto dentro de la olla para romper parte de los granos: así el dal se vuelve cremoso sin necesidad de nata. Sala y añade el garam masala y las espinacas; tapa 15 minutos en HIGH para que se ablanden.",
     "Mientras, lava el arroz hasta que el agua salga clara (quitas el almidón suelto y los granos quedan sueltos) y cuécelo en 280 ml de agua con sal, tapado y a fuego mínimo, 12 minutos. Deja reposar 5 minutos sin destapar.",
     "Para la tadka, calienta el aceite en una sartén pequeña a fuego medio, añade el comino en grano y la guindilla y fríe 30-40 segundos, hasta que el comino chisporrotee y huela tostado.",
     "Vierte la tadka caliente sobre el dal justo antes de servir: el aceite caliente despierta los aromas que la cocción larga había apagado. Termina con unas gotas de limón y sirve con el arroz."
@@ -177,10 +177,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, el pimiento verde y el apio en dados pequeños: es la «santísima trinidad» de la cocina del sur de EE. UU., el equivalente a nuestro sofrito.",
+    "Con 6 horas de antelación, pon las judías carillas en remojo en abundante agua fría. Pasado ese tiempo, pica el ajo y pica la cebolla, el pimiento verde y el apio en dados pequeños: es la «santísima trinidad» de la cocina del sur de EE. UU., el equivalente a nuestro sofrito.",
     "Pon en la olla lenta las judías escurridas, las verduras picadas, el ajo, el pimentón ahumado, el tomillo, la cayena, el laurel, el aceite y el caldo caliente.",
-    "Tapa y cocina en LOW 6 horas o en HIGH 3 horas, hasta que las judías estén tiernas pero enteras. Las carillas se cuecen más rápido que otras alubias, así que no hace falta más.",
-    "En la última media hora, añade el kale troceado y la sal y cocina en HIGH 20-30 minutos, hasta que esté tierno y verde oscuro.",
+    "Tapa y cocina en LOW 6 horas o en HIGH 3 horas, hasta que las judías estén tiernas pero enteras. Las carillas se cuecen más rápido que otras alubias, así que no hace falta más. Antes de que termine, trocea el kale.",
+    "En la última media hora, añade el kale y la sal y cocina en HIGH 20-30 minutos, hasta que esté tierno y verde oscuro.",
     "Mientras, cuece el arroz en una cazuela con 240 ml de agua y sal, tapado, a fuego mínimo 15 minutos, y déjalo reposar 5 minutos.",
     "Termina las judías con el vinagre: un toque ácido final ilumina los guisos ahumados y largos. Sirve el arroz en el fondo del plato y las judías con su caldo por encima."
   ],
@@ -219,11 +219,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las habas y ponlas en la olla lenta con la cebolleta en rodajas, el ajo laminado, 2 cucharadas de aceite y el caldo caliente.",
+    "La víspera, pon las habas en remojo en abundante agua fría (8 horas). Al día siguiente, corta la cebolleta en rodajas y lamina el ajo. Escurre las habas y ponlas en la olla lenta con la cebolleta, el ajo, 2 cucharadas de aceite y el caldo caliente.",
     "Tapa y cocina en HIGH 3 horas, hasta que las habas empiecen a deshacerse en los bordes.",
     "Mientras, limpia las alcachofas: quita las hojas duras hasta llegar a las tiernas y amarillas, corta las puntas, pártelas en cuartos y quítales la pelusa. Échalas en un bol con agua y el zumo de medio limón para que no se oxiden y ennegrezcan.",
-    "Escurre las alcachofas y añádelas a la olla con sal y pimienta, hundiéndolas en el caldo. Cocina en HIGH 1 hora y media más, hasta que se atraviesen fácilmente con un cuchillo.",
-    "Apaga, añade el eneldo picado, el zumo del otro medio limón y el resto del aceite en crudo, y remueve con suavidad. Las habas se cremarán y ligarán el caldo.",
+    "Escurre las alcachofas y añádelas a la olla con sal y pimienta, hundiéndolas en el caldo. Cocina en HIGH 1 hora y media más, hasta que se atraviesen fácilmente con un cuchillo. Mientras, pica el eneldo.",
+    "Apaga, añade el eneldo, el zumo del otro medio limón y el resto del aceite en crudo, y remueve con suavidad. Las habas se cremarán y ligarán el caldo.",
     "Deja reposar 10 minutos tapado antes de servir, templado: en Grecia este tipo de guiso con aceite (lathera) se come tibio, cuando los sabores están más redondos."
   ],
   nutricion: { kcal: 540, prot: 21, hc: 53, grasa: 27 },
@@ -262,7 +262,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las patatas y pártelas por la mitad sin pelar. Ponlas en la olla lenta con la chalota en rodajas, el laurel, el vino, el caldo y una pizca de sal.",
+    "Lava las patatas y pártelas por la mitad sin pelar. Corta la chalota en rodajas. Pon las patatas en la olla lenta con la chalota, el laurel, el vino, el caldo y una pizca de sal.",
     "Tapa y cocina en HIGH 2 horas, hasta que las patatas se atraviesen fácilmente con un cuchillo. Ese caldo aromático será el líquido donde se escalfa el salmón.",
     "Baja la olla a LOW. Corta medio limón en rodajas y colócalas sobre las patatas a modo de cama, para que el salmón no toque el fondo, que es la zona más caliente.",
     "Salpimienta los lomos y ponlos sobre el limón. Tapa y cocina en LOW 45-60 minutos, hasta que el centro esté opaco pero aún rosado y se separe en lascas al presionarlo (unos 50 °C dentro si tienes termómetro).",
@@ -310,10 +310,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la cebolla en juliana fina, el jengibre y el ajo en bastoncitos y el chile en aros (sin semillas si lo quieres suave). En el moilee las verduras se ven, no se trituran.",
     "Pon en la olla lenta el aceite, las semillas de mostaza, la cebolla, el ajo, el jengibre, el chile, la cúrcuma y una pizca de sal. Vierte la leche de coco y 100 ml de agua y remueve.",
-    "Tapa y cocina en LOW 3 horas, hasta que la cebolla esté muy tierna. La leche de coco se cocina en LOW porque a hervor fuerte se separa y queda granulosa.",
-    "Añade el tomate en gajos, sala la merluza y colócala en una sola capa, hundida en la salsa. Tapa y cocina en LOW 30-40 minutos, hasta que el pescado esté opaco y se separe en lascas. No remuevas: así los trozos llegan enteros.",
-    "Mientras se hace el pescado, lava el arroz hasta que el agua salga clara y cuécelo en una cazuela con 280 ml de agua y sal, tapado, a fuego mínimo 12 minutos. Reposa 5 minutos.",
-    "Termina el moilee con el zumo de media lima y el cilantro picado, y sírvelo sobre el arroz con gajos de lima."
+    "Tapa y cocina en LOW 3 horas, hasta que la cebolla esté muy tierna. La leche de coco se cocina en LOW porque a hervor fuerte se separa y queda granulosa. Antes de que termine, corta el tomate en gajos.",
+    "Añade el tomate, sala la merluza y colócala en una sola capa, hundida en la salsa. Tapa y cocina en LOW 30-40 minutos, hasta que el pescado esté opaco y se separe en lascas. No remuevas: así los trozos llegan enteros.",
+    "Mientras se hace el pescado, lava el arroz hasta que el agua salga clara y cuécelo en una cazuela con 280 ml de agua y sal, tapado, a fuego mínimo 12 minutos. Reposa 5 minutos. Pica el cilantro y corta la lima en gajos.",
+    "Termina el moilee con el zumo de media lima y el cilantro, y sírvelo sobre el arroz con el resto de gajos de lima."
   ],
   nutricion: { kcal: 689, prot: 33, hc: 65, grasa: 33 },
   etiquetas: ["olla lenta", "slow cooker", "sin gluten", "sin lactosa", "curry", "tupper"],
@@ -359,8 +359,8 @@ window.RECETAS_SEED.push({
     "Ponlas en la olla lenta con el aceite, el tomate, el vino, el comino, el orégano, el laurel y una pizca de sal. Remueve.",
     "Tapa y cocina en HIGH 2 horas (o LOW 4 horas), hasta que la salsa esté espesa y el pimiento se deshaga al apretarlo con la cuchara.",
     "Media hora antes de terminar, cuece el arroz en una cazuela con 280 ml de agua, una cucharadita de aceite y sal, tapado a fuego mínimo 15 minutos, y déjalo reposar.",
-    "Seca las gambas con papel, sálalas y añádelas a la salsa. Tapa y cocina en HIGH 15-20 minutos, solo hasta que estén rosadas y curvadas en forma de C. Si se cierran en O, se han pasado y quedarán duras.",
-    "Termina con el zumo de media lima y perejil picado y sirve con el arroz blanco y gajos de lima."
+    "Seca las gambas con papel, sálalas y añádelas a la salsa. Tapa y cocina en HIGH 15-20 minutos, solo hasta que estén rosadas y curvadas en forma de C. Si se cierran en O, se han pasado y quedarán duras. Mientras, pica el perejil y corta la lima en gajos.",
+    "Termina con el zumo de media lima y el perejil y sirve con el arroz blanco y el resto de gajos de lima."
   ],
   nutricion: { kcal: 681, prot: 40, hc: 65, grasa: 29 },
   etiquetas: ["olla lenta", "slow cooker", "marisco", "sin gluten", "sin lactosa", "alta en proteína"],
@@ -399,11 +399,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la patata y córtala en dados de 2 cm. Ponla en la olla lenta con los ajos enteros, el laurel, el aceite y 100 ml de agua.",
     "Tapa y cocina en HIGH 2 horas, hasta que la patata y los ajos estén muy tiernos. Los ajos, cocinados así en aceite, se vuelven dulces y untuosos: se llaman ajos confitados.",
-    "Baja a LOW, retira la piel del bacalao si la tiene y coloca los lomos encima de la patata, untándolos con el aceite. Tapa y cocina en LOW 40-50 minutos, hasta que se separe en láminas al tocarlo.",
+    "Baja a LOW, retira la piel del bacalao si la tiene y coloca los lomos encima de la patata, untándolos con el aceite. Tapa y cocina en LOW 40-50 minutos, hasta que se separe en láminas al tocarlo. Mientras, pica el perejil.",
     "Saca el bacalao a un bol y desmígalo con un tenedor, quitando cualquier espina. Añade la patata y los ajos escurridos (reserva el aceite) y aplasta todo.",
     "Ve añadiendo el aceite reservado en hilo y la leche templada, alternando, mientras bates enérgicamente con una cuchara de madera. Los dos líquidos deben estar tibios: si uno está frío, la emulsión se corta y queda grasienta.",
     "Ajusta con pimienta y unas gotas de limón (prueba antes de salar: el bacalao ya aporta sal). Debe quedar una crema untable y esponjosa.",
-    "Tuesta el pan y sirve la brandada tibia con perejil picado por encima, para untar en las tostas."
+    "Tuesta el pan y sirve la brandada tibia con el perejil por encima, para untar en las tostas."
   ],
   nutricion: { kcal: 841, prot: 40, hc: 60, grasa: 49 },
   etiquetas: ["olla lenta", "slow cooker", "confitado", "para compartir", "tupper", "técnica", "sin verduras", "poco especiada"],
@@ -442,12 +442,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata y cháscala en trozos medianos: clava el cuchillo y rómpela en vez de cortarla limpia, así suelta almidón y espesa el caldo.",
-    "Pon en la olla lenta la patata, la cebolleta picada, el ajo laminado, el aceite, el vino y el caldo caliente. Sala ligeramente.",
+    "Pela la patata y cháscala en trozos medianos: clava el cuchillo y rómpela en vez de cortarla limpia, así suelta almidón y espesa el caldo. Pica la cebolleta y lamina el ajo.",
+    "Pon en la olla lenta la patata, la cebolleta, el ajo, el aceite, el vino y el caldo caliente. Sala ligeramente.",
     "Tapa y cocina en HIGH 2 horas y media, hasta que la patata esté tierna.",
     "Añade las habas (directamente congeladas) y cocina en HIGH 30 minutos más, hasta que estén tiernas.",
-    "Salpimienta el rape y colócalo sobre el guiso, hundido a medias en el caldo. Tapa y cocina en HIGH 20-25 minutos, hasta que esté blanco y firme por dentro.",
-    "Apaga, añade la hierbabuena y el perejil picados y mueve la olla en círculos, sin remover con cuchara, para no romper el pescado. Sirve en plato hondo."
+    "Salpimienta el rape y colócalo sobre el guiso, hundido a medias en el caldo. Tapa y cocina en HIGH 20-25 minutos, hasta que esté blanco y firme por dentro. Mientras, pica la hierbabuena y el perejil.",
+    "Apaga, añade la hierbabuena y el perejil y mueve la olla en círculos, sin remover con cuchara, para no romper el pescado. Sirve en plato hondo."
   ],
   nutricion: { kcal: 506, prot: 39, hc: 38, grasa: 22 },
   etiquetas: ["olla lenta", "slow cooker", "sin gluten", "sin lactosa", "primavera", "de cuchara", "alta en proteína", "poco especiada", "bajo en colesterol"],
@@ -488,13 +488,12 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 2, u: "ud", nota: "solo la parte verde" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño, ponle un peso encima (una sartén con un par de latas) y déjalo 15 minutos. Al quitarle agua, absorbe mejor la salsa y no se rompe en el guiso.",
-    "Córtalo en dados de 3 cm y dóralo en la sartén con el aceite de oliva a fuego medio-alto 6-8 minutos, girándolo, hasta que tenga costra por varias caras. Esa piel dorada es la que mantiene el dado entero durante horas.",
-    "En la olla lenta mezcla la soja, el mirin, el azúcar y 250 ml de agua. Añade el jengibre, el ajo aplastado, el anís, la canela y las shiitake sin el pie, partidas por la mitad.",
+    "Envuelve el tofu en un paño, ponle un peso encima (una sartén con un par de latas) y déjalo 15 minutos. Al quitarle agua, absorbe mejor la salsa y no se rompe en el guiso. Mientras, en la olla lenta mezcla la soja, el mirin, el azúcar y 250 ml de agua. Aplasta el ajo, quita el pie a las shiitake y pártelas por la mitad, y añádelos a la olla con el jengibre, el anís y la canela.",
+    "Corta el tofu en dados de 3 cm y dóralo en la sartén con el aceite de oliva a fuego medio-alto 6-8 minutos, girándolo, hasta que tenga costra por varias caras. Esa piel dorada es la que mantiene el dado entero durante horas.",
     "Incorpora el tofu y dale la vuelta para que se impregne. Tapa y cocina en LOW 3 horas, girando el tofu una vez a mitad si puedes.",
-    "Mientras, lava el arroz jazmín y cuécelo en una cazuela con 210 ml de agua, tapado y a fuego mínimo 12 minutos; deja reposar 10 minutos sin destapar.",
-    "Para espesar, disuelve la maicena en 1 cucharada de agua fría, añádela a la olla, sube a HIGH y cocina destapado 15 minutos, hasta que la salsa nape la cuchara y el tofu brille.",
-    "Retira el anís y la canela, rocía con el aceite de sésamo y sirve sobre el arroz con la cebolleta en aros."
+    "Unos 30 minutos antes de terminar, lava el arroz jazmín y cuécelo en una cazuela con 210 ml de agua, tapado y a fuego mínimo 12 minutos; deja reposar 10 minutos sin destapar.",
+    "Mientras, para espesar, disuelve la maicena en 1 cucharada de agua fría, añádela a la olla, sube a HIGH y cocina destapado 15 minutos, hasta que la salsa nape la cuchara y el tofu brille. Corta la parte verde de la cebolleta en aros.",
+    "Retira el anís y la canela, rocía con el aceite de sésamo y sirve sobre el arroz con la cebolleta."
   ],
   nutricion: { kcal: 755, prot: 38, hc: 81, grasa: 31 },
   etiquetas: ["olla lenta", "slow cooker", "vegana", "alta en proteína", "tupper", "batch cooking"],
@@ -534,12 +533,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta una tapa a cada pimiento por el lado del tallo, saca las semillas y los nervios blancos y guarda las tapas.",
-    "En un bol, mezcla el arroz crudo, las alubias, el maíz, la cebolla picada fina, la mitad del tomate, el comino, el pimentón, el orégano, el aceite, 100 ml de agua y sal.",
+    "Corta una tapa a cada pimiento por el lado del tallo, saca las semillas y los nervios blancos y guarda las tapas. Pica fina la cebolla.",
+    "En un bol, mezcla el arroz crudo, las alubias, el maíz, la cebolla, la mitad del tomate, el comino, el pimentón, el orégano, el aceite, 100 ml de agua y sal.",
     "Rellena los pimientos solo hasta tres cuartos y sin apretar: el arroz crudo casi duplica su volumen al cocerse y, si no tiene sitio, queda duro y apelmazado.",
     "Vierte el resto del tomate con 100 ml de agua y sal en el fondo de la olla lenta. Coloca los pimientos de pie, apoyados unos en otros, y ponles su tapa.",
-    "Tapa la olla y cocina en LOW 5 horas o en HIGH 3 horas, hasta que el pimiento esté muy tierno y el arroz del centro esté hecho (pruébalo con una cucharilla).",
-    "Sirve cada pimiento con la salsa del fondo por encima, cilantro picado y un gajo de lima para exprimir."
+    "Tapa la olla y cocina en LOW 5 horas o en HIGH 3 horas, hasta que el pimiento esté muy tierno y el arroz del centro esté hecho (pruébalo con una cucharilla). Antes de servir, pica el cilantro y corta la lima en gajos.",
+    "Sirve cada pimiento con la salsa del fondo por encima, el cilantro y un gajo de lima para exprimir."
   ],
   nutricion: { kcal: 575, prot: 18, hc: 92, grasa: 15 },
   etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "tupper", "económica", "para niños", "bajo en colesterol"],
@@ -578,12 +577,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta las berenjenas en dados grandes de 3 cm, ponlas en un bol con una cucharadita de sal y déjalas 20 minutos. Escúrrelas y sécalas con papel: la sal saca agua y la berenjena no dejará el guiso aguado.",
-    "Mezcla las berenjenas con el aceite y colócalas en la olla lenta. Encima pon la cebolla en juliana y los ajos enteros pelados.",
+    "Corta las berenjenas en dados grandes de 3 cm, ponlas en un bol con una cucharadita de sal y déjalas 20 minutos. Escúrrelas y sécalas con papel: la sal saca agua y la berenjena no dejará el guiso aguado. Mientras, corta la cebolla en juliana y pela los ajos.",
+    "Mezcla las berenjenas con el aceite y colócalas en la olla lenta. Encima pon la cebolla y los ajos enteros.",
     "Añade los garbanzos, el tomate, la menta seca, la pimienta de Jamaica, el pimentón y una pizca de sal (poca: la berenjena ya lleva). No añadas agua; la verdura soltará la suya.",
-    "Tapa y cocina en LOW 4 horas y media o en HIGH 2 horas y media, hasta que la berenjena esté melosa y casi deshecha.",
+    "Tapa y cocina en LOW 4 horas y media o en HIGH 2 horas y media, hasta que la berenjena esté melosa y casi deshecha. Antes de que termine, pica el perejil.",
     "Remueve con suavidad, aplastando los ajos contra la pared para que se integren en la salsa. Si quedara líquido, cocina destapado 20 minutos en HIGH.",
-    "Sírvelo templado, como se toma en el Líbano, con perejil picado por encima y el pan de pita para coger el guiso con la mano."
+    "Sírvelo templado, como se toma en el Líbano, con el perejil por encima y el pan de pita para coger el guiso con la mano."
   ],
   nutricion: { kcal: 592, prot: 21, hc: 82, grasa: 20 },
   etiquetas: ["olla lenta", "slow cooker", "vegana", "tupper", "económica", "verano", "batch cooking", "poco especiada", "bajo en colesterol"],
@@ -628,8 +627,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre la jaca, enjuágala bien para quitar el sabor a salmuera y córtale la parte dura del centro de cada triángulo. Es la pieza que no se deshilacha.",
-    "En la olla lenta mezcla el kétchup, el tomate concentrado, 2 cucharadas de vinagre, el azúcar, la mostaza, la soja, el pimentón, el comino, el aceite y 200 ml de agua. Añade la cebolla en juliana, el ajo picado, la jaca y la soja texturizada en seco.",
+    "Escurre la jaca, enjuágala bien para quitar el sabor a salmuera y córtale la parte dura del centro de cada triángulo. Es la pieza que no se deshilacha. Corta la cebolla en juliana y pica el ajo.",
+    "En la olla lenta mezcla el kétchup, el tomate concentrado, 2 cucharadas de vinagre, el azúcar, la mostaza, la soja, el pimentón, el comino, el aceite y 200 ml de agua. Añade la cebolla, el ajo, la jaca y la soja texturizada en seco.",
     "Tapa y cocina en LOW 4 horas o en HIGH 2 horas. La soja texturizada se hidrata con la salsa y aporta la proteína y la textura de carne picada que a la jaca le falta.",
     "Mientras, corta la col en tiras muy finas y ralla la zanahoria. Alíñalas en un bol con la veganesa, el resto del vinagre y sal, y deja reposar en la nevera: la col se ablanda un poco sin perder el crujiente.",
     "Destapa la olla y deshilacha la jaca con dos tenedores, directamente en la salsa. Cocina destapado en HIGH 20 minutos para que la salsa se pegue a las hebras.",
@@ -672,12 +671,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Unta el fondo de la olla lenta con 1 cucharada de aceite y enciéndela en HIGH 10 minutos para que se caliente mientras preparas el resto.",
+    "Unta el fondo de la olla lenta con 1 cucharada de aceite y enciéndela en HIGH 10 minutos para que se caliente. Mientras, pica la cebolleta y el ajo y lava y trocea las espinacas.",
     "Añade el arroz y remuévelo con el aceite caliente para nacararlo: cada grano queda envuelto en grasa y se cuece más suelto.",
-    "Incorpora la cebolleta picada, el ajo, el tomate concentrado, el caldo caliente, sal y pimienta. Pon encima las espinacas lavadas y troceadas, sin remover: se irán bajando con el vapor.",
-    "Tapa y cocina en HIGH 1 hora y media. Sin levantar la tapa: en la olla lenta el arroz se cuece con el vapor atrapado y cada vez que abres se escapa.",
+    "Incorpora la cebolleta, el ajo, el tomate concentrado, el caldo caliente, sal y pimienta. Pon encima las espinacas, sin remover: se irán bajando con el vapor.",
+    "Tapa y cocina en HIGH 1 hora y media. Sin levantar la tapa: en la olla lenta el arroz se cuece con el vapor atrapado y cada vez que abres se escapa. Mientras, pica el eneldo.",
     "Remueve para integrar las espinacas y comprueba el grano: si está duro y seco, añade 50 ml de caldo caliente y cocina 15 minutos más.",
-    "Apaga, incorpora el eneldo picado, el zumo de medio limón y el resto del aceite en crudo. Sirve con la feta desmigada y gajos de limón."
+    "Apaga, incorpora el eneldo, el zumo de medio limón y el resto del aceite en crudo. Sirve con la feta desmigada y gajos de limón."
   ],
   nutricion: { kcal: 610, prot: 17, hc: 68, grasa: 30 },
   etiquetas: ["olla lenta", "slow cooker", "vegetariana", "sin gluten", "tupper", "primavera", "poco especiada"],
@@ -717,9 +716,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las espinacas apretándolas con las manos hasta que no suelten ni una gota: el agua que quede aguaría el relleno y lo haría salir de las conchas.",
-    "En un bol mezcla la ricotta, las espinacas picadas, el parmesano, el huevo, la nuez moscada, sal y pimienta. El huevo actúa de pegamento y hace que el relleno cuaje.",
-    "Mezcla el tomate con 200 ml de agua, el ajo picado, el aceite, la mitad de la albahaca y sal. Ese agua extra es la que absorberá la pasta cruda al cocerse.",
+    "Escurre las espinacas apretándolas con las manos hasta que no suelten ni una gota: el agua que quede aguaría el relleno y lo haría salir de las conchas. Pícalas y pica también el ajo.",
+    "En un bol mezcla la ricotta, las espinacas, el parmesano, el huevo, la nuez moscada, sal y pimienta. El huevo actúa de pegamento y hace que el relleno cuaje.",
+    "Mezcla el tomate con 200 ml de agua, el ajo, el aceite, la mitad de la albahaca y sal. Ese agua extra es la que absorberá la pasta cruda al cocerse.",
     "Vierte un tercio de la salsa en el fondo de la olla lenta. Rellena cada concha cruda con una cucharilla y colócalas boca arriba en una sola capa, bien juntas.",
     "Cubre con el resto de la salsa, asegurándote de que toda la pasta queda sumergida: lo que asome quedará duro.",
     "Tapa y cocina en LOW 3 horas, hasta que la pasta esté tierna al pincharla con un cuchillo. Añade la mozzarella en trozos los últimos 15 minutos y deja que se funda con la tapa puesta.",
@@ -759,7 +758,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la olla lenta la coliflor, la patata en dados, la cebolla troceada, los ajos, las almendras, 1 cucharada de aceite y sal. Cubre con el caldo caliente justo a ras, sin pasarte: siempre puedes aclarar al final, pero no espesar.",
+    "Pela la patata y córtala en dados, trocea la cebolla y pela los ajos. Ponlos en la olla lenta con la coliflor, las almendras, 1 cucharada de aceite y sal. Cubre con el caldo caliente justo a ras, sin pasarte: siempre puedes aclarar al final, pero no espesar.",
     "Tapa y cocina en LOW 4 horas o en HIGH 2 horas y media, hasta que la coliflor se deshaga al tocarla.",
     "Tritura con la batidora al menos 2 minutos, hasta que no quede ningún grumo de almendra. Cuanto más tiempo batas, más sedosa queda: la almendra se emulsiona con el líquido como si fuera nata.",
     "Prueba la textura: si está muy espesa, añade caldo o agua caliente poco a poco. Ajusta de sal.",
@@ -804,7 +803,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz salvaje en un colador. Ponlo en la olla lenta con los champiñones, la cebolla, la zanahoria y el apio en dados pequeños, el ajo picado, el tomillo y el caldo caliente.",
+    "Corta la cebolla, la zanahoria y el apio en dados pequeños y pica el ajo. Lava el arroz salvaje en un colador y ponlo en la olla lenta con los champiñones, las verduras, el ajo, el tomillo y el caldo caliente.",
     "Tapa y cocina en LOW 6 horas o en HIGH 3 horas y media, hasta que muchos granos de arroz se hayan abierto mostrando el interior blanco: esa es la señal de que está tierno.",
     "Cuando falte poco, funde la mantequilla en una sartén a fuego medio, añade la harina y remueve 2 minutos, hasta que huela a galleta. Esta mezcla se llama roux y es la que espesará la sopa.",
     "Fuera del fuego, añade la nata poco a poco, batiendo con varillas para que no se formen grumos, hasta tener una crema lisa.",
@@ -847,8 +846,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela el apionabo con un cuchillo, no con pelador: su piel es gruesa y llena de raíces. Córtalo en dados de 2 cm.",
-    "Pon en la olla lenta el apionabo, la manzana pelada en trozos, el puerro en rodajas (solo la parte blanca y verde clara, bien lavado), la patata, el tomillo, el aceite y sal. Cubre a ras con el caldo caliente.",
+    "Pela el apionabo con un cuchillo, no con pelador: su piel es gruesa y llena de raíces. Córtalo en dados de 2 cm. Pela la manzana y trocéala, corta el puerro en rodajas (solo la parte blanca y verde clara, bien lavado) y pela y trocea la patata.",
+    "Pon en la olla lenta el apionabo, la manzana, el puerro, la patata, el tomillo, el aceite y sal. Cubre a ras con el caldo caliente.",
     "Tapa y cocina en LOW 4 horas o en HIGH 2 horas y media, hasta que el apionabo se aplaste con una cuchara.",
     "Mientras, tuesta las avellanas en una sartén sin aceite a fuego medio 4-5 minutos, moviéndolas, hasta que huelan y la piel se cuartee. Frótalas en un paño para quitarles la piel, que amarga, y pícalas groseramente.",
     "Retira el tomillo y tritura la crema hasta que esté muy fina. Ajusta de sal y pimienta y aclara con caldo si hace falta.",
@@ -894,12 +893,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la olla lenta la patata en dados, la zanahoria en rodajas, la cebolla picada, la mantequilla, el laurel, sal y el caldo caliente.",
+    "Pela la patata y córtala en dados, corta la zanahoria en rodajas y pica la cebolla. Ponlas en la olla lenta con la mantequilla, el laurel, sal y el caldo caliente.",
     "Tapa y cocina en HIGH 3 horas (o LOW 5 horas), hasta que la patata esté tierna.",
     "Añade las judías verdes y las alubias y cocina en HIGH 45 minutos más, hasta que las judías estén tiernas pero aún verdes. Si las pones al principio, se quedan grises y blandas.",
     "En un bol, bate la nata agria con la harina hasta que no haya grumos. Añade un cazo de caldo caliente de la olla y mezcla bien: así templas la nata y no se cortará al llegar a la sopa hirviendo.",
-    "Vierte la mezcla en la olla, remueve y cocina 15 minutos más en HIGH, hasta que la sopa espese ligeramente.",
-    "Termina con el vinagre, el eneldo picado y pimienta. Sirve con el pan de centeno."
+    "Vierte la mezcla en la olla, remueve y cocina 15 minutos más en HIGH, hasta que la sopa espese ligeramente. Mientras, pica el eneldo.",
+    "Termina con el vinagre, el eneldo y pimienta. Sirve con el pan de centeno."
   ],
   nutricion: { kcal: 542, prot: 19, hc: 76, grasa: 18 },
   etiquetas: ["olla lenta", "slow cooker", "vegetariana", "de cuchara", "tupper", "económica", "verano", "poco especiada"],
@@ -943,11 +942,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "En un bol grande pon el bulgur fino con el tomate concentrado, los dos pimentones, el comino, la cebolla y el ajo rallados y una cucharadita de sal.",
     "Añade 100 ml de agua fría y empieza a amasar con la mano, apretando y frotando la mezcla contra el bol durante 10 minutos. El roce, la sal y el ácido del tomate rompen la capa exterior del grano y lo ablandan como si se cociera.",
-    "Deja reposar tapado 20 minutos y vuelve a amasar 5 minutos más. Si al apretar un puñado se desmorona, añade una cucharada de agua; debe quedar como una masa de plastilina que se mantiene unida.",
-    "Incorpora las nueces, el aceite, la mitad del perejil y la cebolleta picados muy finos y 1 cucharada de melaza de granada. Amasa hasta integrar.",
+    "Deja reposar tapado 20 minutos; mientras, pica muy finos el perejil y la cebolleta y corta el limón en gajos. Vuelve a amasar 5 minutos más. Si al apretar un puñado se desmorona, añade una cucharada de agua; debe quedar como una masa de plastilina que se mantiene unida.",
+    "Incorpora las nueces, el aceite, la mitad del perejil, la cebolleta y 1 cucharada de melaza de granada. Amasa hasta integrar.",
     "Prueba: el grano debe estar tierno, sin centro duro. Ajusta de sal, comino o picante.",
     "Toma porciones del tamaño de una nuez y apriétalas en el puño para darles forma alargada con la marca de los dedos.",
-    "Sirve las köfte sobre hojas de lechuga con el resto del perejil, gajos de limón y la melaza restante. Se comen envolviéndolas en la hoja con unas gotas de limón."
+    "Sirve las köfte sobre hojas de lechuga con el resto del perejil, los gajos de limón y la melaza restante. Se comen envolviéndolas en la hoja con unas gotas de limón."
   ],
   nutricion: { kcal: 599, prot: 14, hc: 75, grasa: 27 },
   etiquetas: ["sin fuego", "sin cocción", "vegana", "ideal para llevar", "tupper", "verano", "económica", "técnica", "superalimentos"],
@@ -988,9 +987,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Parte los tomates por la mitad y rállalos por el lado del corte sobre un bol; la piel se queda en la mano. Añade 120 ml de agua fría, el vinagre, 1 cucharada de aceite, el comino y una cucharadita de sal. Debes tener unos 300 ml de líquido.",
     "Vierte el cuscús en ese líquido, remueve para que todos los granos se mojen y tapa el bol. Déjalo 30-40 minutos en la nevera: en frío el grano tarda más que con agua hirviendo, pero se hidrata igual y queda más suelto.",
-    "Mientras, pica el pepino, el pimiento verde y la cebolleta en dados pequeños, todos del mismo tamaño que la aceituna para que en cada cucharada haya de todo.",
+    "Mientras, pica el pepino, el pimiento verde y la cebolleta en dados pequeños, todos del mismo tamaño que la aceituna para que en cada cucharada haya de todo. Corta las aceitunas en rodajas.",
     "Comprueba el cuscús: debe estar tierno y sin líquido en el fondo. Suéltalo con un tenedor, rascando, para separar los granos sin aplastarlos.",
-    "Mezcla las verduras, las aceitunas en rodajas y el resto del aceite. Prueba de sal y vinagre: los platos fríos necesitan algo más de aliño porque el frío apaga los sabores.",
+    "Mezcla las verduras, las aceitunas y el resto del aceite. Prueba de sal y vinagre: los platos fríos necesitan algo más de aliño porque el frío apaga los sabores.",
     "Reparte en dos platos, pon por encima el bonito en lascas grandes y termina con hojas de hierbabuena."
   ],
   nutricion: { kcal: 589, prot: 29, hc: 62, grasa: 25 },
@@ -1031,10 +1030,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cubre los fideos en un bol con agua del grifo templada, lo más caliente que salga, y déjalos 20-25 minutos, hasta que estén flexibles y tiernos al morderlos. Los fideos finos de arroz ya vienen cocidos y secados: solo necesitan rehidratarse.",
-    "Escúrrelos y lávalos bajo agua fría frotándolos con las manos: quitas el almidón de la superficie y no se apelmazan.",
-    "Para el caldo, pica el kimchi y mézclalo en un bol con su jugo, el vinagre, la soja, el azúcar, la mitad del aceite de sésamo y 400 ml de agua muy fría. Remueve hasta que se disuelva el azúcar y prueba: debe ser ácido, dulce y algo picante.",
+    "Mientras, prepara el caldo: pica el kimchi y mézclalo en un bol con su jugo, el vinagre, la soja, el azúcar, la mitad del aceite de sésamo y 400 ml de agua muy fría. Remueve hasta que se disuelva el azúcar y prueba: debe ser ácido, dulce y algo picante.",
     "Corta el tofu en dados, sécalos con papel y aliñalos con el gochujang y el resto del aceite de sésamo.",
     "Corta el pepino en bastones finos y la cebolleta en aros.",
+    "Cuando los fideos estén tiernos, escúrrelos y lávalos bajo agua fría frotándolos con las manos: quitas el almidón de la superficie y no se apelmazan.",
     "Reparte los fideos en dos boles hondos, vierte el caldo frío por encima y coloca el tofu, el pepino y la cebolleta. Termina con el sésamo y unos cubitos de hielo si hace mucho calor."
   ],
   nutricion: { kcal: 566, prot: 23, hc: 78, grasa: 18 },
@@ -1072,9 +1071,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ralla el pepino con la piel por el lado grueso del rallador, ponlo en un colador con una pizca de sal y déjalo 10 minutos. Aprieta un poco con la mano: así suelta el agua amarga y la sopa no queda aguada ni insípida.",
-    "Machaca el ajo con una pizca de sal hasta hacer una pasta (con el lado plano del cuchillo o en mortero). Así se reparte por toda la sopa en vez de dar bocados picantes.",
-    "En un bol bate el yogur con el ajo y el aceite hasta que esté liso. Ve añadiendo el agua muy fría poco a poco, hasta que tenga textura de sopa ligera.",
-    "Incorpora el pepino escurrido, el eneldo picado y la mitad de las nueces picadas. Prueba de sal.",
+    "Mientras, machaca el ajo con una pizca de sal hasta hacer una pasta (con el lado plano del cuchillo o en mortero). Así se reparte por toda la sopa en vez de dar bocados picantes.",
+    "En un bol bate el yogur con el ajo y el aceite hasta que esté liso. Ve añadiendo el agua muy fría poco a poco, hasta que tenga textura de sopa ligera. Pica el eneldo y las nueces.",
+    "Incorpora el pepino escurrido, el eneldo y la mitad de las nueces. Prueba de sal.",
     "Enfría en la nevera al menos 10 minutos (o hasta el momento de servir).",
     "Sirve en boles con el resto de las nueces, un hilo de aceite y el pan de centeno al lado. Añade un cubito de hielo en cada plato si hace mucho calor."
   ],

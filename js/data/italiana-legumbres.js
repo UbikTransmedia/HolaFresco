@@ -83,13 +83,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los boletus en un bol con 200 ml de agua templada y déjalos 15 minutos, hasta que estén blandos. Sácalos, pícalos y cuela el agua de remojo por un papel de cocina para quitarle la arenilla; resérvala.",
-    "Lava las acelgas y separa las pencas de las hojas: corta las pencas en dados y las hojas en tiras anchas.",
-    "Pica la cebolla, la zanahoria, el apio y el ajo y sofríelos en una cazuela con 2 cda de aceite a fuego medio-bajo 8 minutos, hasta que estén blandos y brillantes.",
+    "Pon los boletus en un bol con 200 ml de agua templada y déjalos 15 minutos, hasta que estén blandos.",
+    "Mientras, lava las acelgas y separa las pencas de las hojas: corta las pencas en dados y las hojas en tiras anchas. Pica la cebolla, la zanahoria, el apio y el ajo.",
+    "Saca los boletus, pícalos y cuela el agua de remojo por un papel de cocina para quitarle la arenilla; resérvala. Sofríe la cebolla, la zanahoria, el apio y el ajo en una cazuela con 2 cda de aceite a fuego medio-bajo 8 minutos, hasta que estén blandos y brillantes.",
     "Añade los boletus y las pencas de acelga y rehoga 3 minutos. Incorpora el tomate triturado y cocina 5 minutos más, hasta que se oscurezca un poco.",
-    "Agrega los garbanzos, el agua de los boletus y el caldo, y cuece 10 minutos a fuego suave para que los garbanzos tomen sabor.",
+    "Agrega los garbanzos, el agua de los boletus y el caldo, y cuece 10 minutos a fuego suave para que los garbanzos tomen sabor. Mientras, tuesta el pan.",
     "Añade las hojas de acelga y cuece 8 minutos más, hasta que estén tiernas y el guiso haya espesado. Aplasta unos cuantos garbanzos contra la pared de la cazuela para ligarlo y sazona con sal y pimienta.",
-    "Tuesta el pan, ponlo en el fondo de los platos y sirve el zimino encima con la cucharada de aceite restante en crudo."
+    "Pon el pan tostado en el fondo de los platos y sirve el zimino encima con la cucharada de aceite restante en crudo."
   ],
   nutricion: { kcal: 620, prot: 24, hc: 68, grasa: 26 },
   etiquetas: ["tradicional", "de cuchara", "vegana", "económica", "batch cooking", "otoño", "superalimentos", "poco especiada"],
@@ -128,9 +128,9 @@ window.RECETAS_SEED.push({
     "Pon el guanciale en una sartén amplia en frío y enciende a fuego medio: en 5 minutos soltará su grasa y los bordes estarán dorados y crujientes. Saca la mitad y resérvala.",
     "En la grasa que queda, rehoga la cebolleta 3 minutos, hasta que esté blanda y transparente.",
     "Añade las habas, remueve para que se impregnen y vierte el vino blanco. Deja que se evapore 1 minuto y añade 100 ml de agua caliente.",
-    "Tapa y cuece a fuego suave 8–10 minutos (6 si son habas baby congeladas), hasta que estén tiernas pero enteras y de un verde intenso. Si se secan, añade un chorrito más de agua.",
-    "Mientras, tuesta el pan. Destapa las habas, prueba y sazona con pimienta y, solo si hace falta, con sal: el guanciale ya es salado.",
-    "Reparte en los platos, pon encima el guanciale crujiente reservado y, si quieres, un poco de pecorino rallado, y sirve con el pan tostado."
+    "Tapa y cuece a fuego suave 8–10 minutos (6 si son habas baby congeladas), hasta que estén tiernas pero enteras y de un verde intenso. Si se secan, añade un chorrito más de agua. Mientras, tuesta el pan y, si lo usas, ralla el pecorino.",
+    "Destapa las habas, prueba y sazona con pimienta y, solo si hace falta, con sal: el guanciale ya es salado.",
+    "Reparte en los platos, pon encima el guanciale crujiente reservado y, si quieres, un poco de pecorino, y sirve con el pan tostado."
   ],
   nutricion: { kcal: 545, prot: 25, hc: 56, grasa: 24 },
   etiquetas: ["tradicional", "rápida", "primavera", "una sola sartén", "poco especiada"],
@@ -167,12 +167,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los mejillones: raspa las conchas, arranca las barbas tirando hacia la parte estrecha y descarta los que estén abiertos y no se cierren al golpearlos.",
+    "Limpia los mejillones: raspa las conchas, arranca las barbas tirando hacia la parte estrecha y descarta los que estén abiertos y no se cierren al golpearlos. Lamina el ajo y parte los cherrys por la mitad.",
     "Ponlos en una cazuela grande con un chorrito de agua, tapa y cocina a fuego fuerte 3–4 minutos, agitando la cazuela, hasta que se abran. Sácalos, cuela el líquido por un colador con papel de cocina y resérvalo. Separa la carne de casi todos y deja unos pocos en su concha para decorar.",
-    "En la misma cazuela, ya limpia, dora el ajo laminado y la guindilla con 1 cda de aceite a fuego medio, 1 minuto, sin que se queme. Añade los cherrys partidos por la mitad y cocina 5 minutos, hasta que se ablanden y suelten su jugo.",
+    "En la misma cazuela, ya limpia, dora el ajo y la guindilla con 1 cda de aceite a fuego medio, 1 minuto, sin que se queme. Añade los cherrys y cocina 5 minutos, hasta que se ablanden y suelten su jugo.",
     "Añade las alubias y el caldo de los mejillones completado con agua caliente hasta unos 700 ml. Cuece 5 minutos y aplasta un tercio de las alubias contra la pared de la cazuela: darán la cremosidad.",
-    "Echa la pasta directamente en la sopa y cuécela 10–12 minutos (lo que indique el envase), removiendo a menudo para que no se pegue y añadiendo agua caliente si se espesa demasiado. Debe quedar densa, entre sopa y plato de pasta.",
-    "Prueba de sal al final, porque el agua de los mejillones ya es salada. Fuera del fuego, añade los mejillones y el perejil picado y tapa 1 minuto para que se calienten.",
+    "Echa la pasta directamente en la sopa y cuécela 10–12 minutos (lo que indique el envase), removiendo a menudo para que no se pegue y añadiendo agua caliente si se espesa demasiado. Mientras, pica el perejil. Debe quedar densa, entre sopa y plato de pasta.",
+    "Prueba de sal al final, porque el agua de los mejillones ya es salada. Fuera del fuego, añade los mejillones y el perejil y tapa 1 minuto para que se calienten.",
     "Sirve con la cucharada de aceite restante en crudo y pimienta negra recién molida."
   ],
   nutricion: { kcal: 650, prot: 37, hc: 79, grasa: 19 },
@@ -212,10 +212,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca el bacalao con papel de cocina, retira las espinas que encuentres y córtalo en 4–6 trozos.",
     "En una cazuela baja, calienta 2 cda de aceite con los ajos aplastados y la rama de romero a fuego suave 2–3 minutos, hasta que el ajo esté dorado y el aceite huela a romero.",
-    "Añade el tomate triturado y la guindilla, si la usas, y cocina 10 minutos a fuego medio, hasta que la salsa espese y el aceite empiece a separarse en los bordes.",
+    "Añade el tomate triturado y la guindilla, si la usas, y cocina 10 minutos a fuego medio, hasta que la salsa espese y el aceite empiece a separarse en los bordes. Mientras, pica el perejil.",
     "Incorpora los garbanzos con 100 ml de agua y cuece 5 minutos para que tomen sabor. Prueba de sal pensando que el bacalao también aporta.",
     "Coloca los trozos de bacalao encima, con la piel hacia arriba y medio hundidos en la salsa. Tapa y cuece a fuego suave 6–8 minutos, hasta que la carne se separe en lascas al presionarla.",
-    "Retira el romero, espolvorea el perejil picado y termina con la cucharada de aceite restante en crudo y pimienta negra."
+    "Retira el romero, espolvorea el perejil y termina con la cucharada de aceite restante en crudo y pimienta negra."
   ],
   nutricion: { kcal: 570, prot: 42, hc: 38, grasa: 26 },
   etiquetas: ["tradicional", "sin gluten", "alta en proteína", "de cuchara"],
@@ -263,10 +263,10 @@ window.RECETAS_SEED.push({
     "Escurre los garbanzos y ponlos en una olla grande con la costilla y 2 litros de agua fría. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 30 minutos. Añade entonces las alubias escurridas y sigue 1 hora más.",
     "Incorpora las lentejas y cuece 30–40 minutos, hasta que las tres legumbres estén tiernas. Mantenlas siempre cubiertas, añadiendo agua caliente si hace falta.",
     "Mientras, pica la cebolla, la zanahoria y el apio y sofríelos en una sartén con el aceite a fuego medio-bajo 10 minutos. Añade el tomate triturado y cocina 10 minutos más, hasta que espese.",
-    "Lava las acelgas y separa las pencas de las hojas: corta las pencas en dados y las hojas en tiras.",
+    "Mientras siguen cociendo las legumbres, lava las acelgas y separa las pencas de las hojas: corta las pencas en dados y las hojas en tiras.",
     "Saca la costilla, deshuésala y desmenuza la carne. Devuélvela a la olla con el sofrito, las pencas de acelga y las habas, sala y cuece 10 minutos.",
-    "Añade la pasta y las hojas de acelga y cuece 10–12 minutos, removiendo a menudo para que no se pegue; los últimos 4 minutos, incorpora los guisantes. Debe quedar una sopa muy espesa: aclárala con agua caliente si hace falta.",
-    "Fuera del fuego, añade la menta picada, la mitad del pecorino rallado y pimienta negra. Deja reposar 10 minutos tapada y sirve con el resto del pecorino por encima."
+    "Añade la pasta y las hojas de acelga y cuece 10–12 minutos, removiendo a menudo para que no se pegue; los últimos 4 minutos, incorpora los guisantes. Debe quedar una sopa muy espesa: aclárala con agua caliente si hace falta. Mientras, pica la menta y ralla el pecorino.",
+    "Fuera del fuego, añade la menta, la mitad del pecorino y pimienta negra. Deja reposar 10 minutos tapada y sirve con el resto del pecorino por encima."
   ],
   nutricion: { kcal: 830, prot: 42, hc: 86, grasa: 33 },
   etiquetas: ["tradicional", "de cuchara", "primavera", "batch cooking", "fin de semana", "poco especiada"],
@@ -302,13 +302,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un cazo, fuera del fuego, bate la harina de garbanzo con el agua fría con unas varillas hasta que no quede ningún grumo. Añade sal y pimienta.",
-    "Pon el cazo a fuego medio y cocina sin dejar de remover 10–12 minutos: primero espesará de golpe y después se volverá una masa lisa, como una polenta densa, que se despega de las paredes. Añade el perejil picado.",
+    "Pica el perejil. En un cazo, fuera del fuego, bate la harina de garbanzo con el agua fría con unas varillas hasta que no quede ningún grumo. Añade sal y pimienta.",
+    "Pon el cazo a fuego medio y cocina sin dejar de remover 10–12 minutos: primero espesará de golpe y después se volverá una masa lisa, como una polenta densa, que se despega de las paredes. Añade el perejil.",
     "Vierte la masa en una bandeja de horno de unos 30 × 35 cm (o en dos fuentes) untada con unas gotas del aceite y extiéndela rápido, antes de que cuaje, con una espátula mojada hasta que tenga 5 mm de grosor. Deja que se enfríe 30 minutos (15 en la nevera), hasta que esté firme.",
-    "Mientras, prepara la ensalada: parte los tomates cherry por la mitad y mézclalos con la rúcula, 1 cda del aceite y sal.",
+    "Mientras, prepara la ensalada: parte los tomates cherry por la mitad y mézclalos con la rúcula, 1 cda del aceite y sal. Corta el limón en gajos.",
     "Desmolda la masa y córtala en rectángulos de unos 5 × 7 cm.",
     "Calienta el resto del aceite en una sartén mediana (debe cubrir el fondo con medio centímetro) a 175 °C: un trozo de pan debe dorarse en 30 segundos. Fríe las panelle en tandas 2–3 minutos por lado, hasta que estén doradas y algo hinchadas, y escúrrelas sobre papel de cocina.",
-    "Abre los panes, rellénalos con las panelle calientes, unas gotas de limón y una pizca de sal, y sírvelos con la ensalada y el resto del limón en gajos."
+    "Abre los panes, rellénalos con las panelle calientes, unas gotas de un gajo de limón y una pizca de sal, y sírvelos con la ensalada y el resto de los gajos de limón."
   ],
   nutricion: { kcal: 735, prot: 26, hc: 92, grasa: 29 },
   etiquetas: ["tradicional", "vegana", "económica", "frito", "poco especiada"],
@@ -348,12 +348,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon las habas a remojo en abundante agua fría 12 horas (24 si tienen piel). Si la tienen, pélalas apretándolas entre los dedos: tardarás unos 15 minutos, pero se volverán cremosas.",
-    "Corta la salchicha en rodajas de 2 cm. Pica la cebolla y el ajo y corta el bulbo de hinojo en dados; reserva sus hojitas.",
+    "Corta la salchicha en rodajas de 2 cm. Pica la cebolla y el ajo y corta el bulbo de hinojo en dados; reserva sus hojitas. Pica el tomate seco.",
     "En una cazuela grande (de barro, si tienes), calienta el aceite a fuego medio-alto y dora la costilla 6–8 minutos, hasta que esté bien dorada por todas partes. Añade la salchicha y dórala 2 minutos más.",
-    "Baja el fuego, añade la cebolla, el ajo y el hinojo y rehoga 8 minutos, hasta que estén blandos. Incorpora las semillas de hinojo y el tomate seco picado y remueve 1 minuto.",
-    "Añade las habas escurridas y 1,2 litros de agua. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 1 hora y 30 minutos, removiendo de vez en cuando.",
-    "Añade la col rizada cortada en tiras y cuece 30 minutos más, destapado, hasta que las habas empiecen a deshacerse y el caldo espese. Si se pega, añade un poco de agua caliente.",
-    "Sazona al final con sal y pimienta (la salchicha y el tomate seco ya aportan sal), deja reposar 10 minutos y sirve con las hojas de hinojo picadas por encima."
+    "Baja el fuego, añade la cebolla, el ajo y el hinojo y rehoga 8 minutos, hasta que estén blandos. Incorpora las semillas de hinojo y el tomate seco y remueve 1 minuto.",
+    "Añade las habas escurridas y 1,2 litros de agua. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 1 hora y 30 minutos, removiendo de vez en cuando. Mientras, corta la col rizada en tiras y pica las hojitas de hinojo.",
+    "Añade la col rizada y cuece 30 minutos más, destapado, hasta que las habas empiecen a deshacerse y el caldo espese. Si se pega, añade un poco de agua caliente.",
+    "Sazona al final con sal y pimienta (la salchicha y el tomate seco ya aportan sal), deja reposar 10 minutos y sirve con las hojitas de hinojo picadas por encima."
   ],
   nutricion: { kcal: 770, prot: 45, hc: 59, grasa: 37 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking", "fin de semana", "poco especiada"],
@@ -395,11 +395,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon a remojo en un bol grande los garbanzos, las alubias, las habas y el trigo con abundante agua fría (12 horas). Las lentejas no necesitan remojo.",
-    "Escúrrelo todo y ponlo en una olla grande con 2 litros de agua fría y el laurel. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 1 hora.",
-    "Añade las lentejas enjuagadas, la patata pelada en dados, la cebolla morada en juliana, el apio picado, los tomates cherry partidos por la mitad y 1 cda de aceite.",
+    "Escúrrelo todo y ponlo en una olla grande con 2 litros de agua fría y el laurel. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 1 hora. Mientras, pela la patata y córtala en dados, corta la cebolla morada en juliana, pica el apio y parte los cherry por la mitad.",
+    "Añade las lentejas enjuagadas, la patata, la cebolla, el apio, los tomates cherry y 1 cda de aceite.",
     "Cuece 40–45 minutos más, hasta que todas las legumbres estén tiernas y el trigo se abra. Sala al final y añade agua caliente si hace falta: debe quedar caldosa pero con mucho cuerpo.",
-    "Retira el laurel y deja reposar la sopa 10 minutos tapada.",
-    "Tuesta el pan y pon una rebanada en el fondo de cada plato.",
+    "Retira el laurel y deja reposar la sopa 10 minutos tapada. Mientras, tuesta el pan y pon una rebanada en el fondo de cada plato.",
     "Sirve la crapiata encima, riega cada plato con 1 cda de aceite crudo y, si te gusta, desmenuza la guindilla por encima."
   ],
   nutricion: { kcal: 700, prot: 26, hc: 95, grasa: 24 },
@@ -445,8 +444,8 @@ window.RECETAS_SEED.push({
     "Pon las alubias escurridas, las tiras de corteza y el laurel en una cazuela con 1,2 litros de agua fría. Lleva a ebullición, desespuma y cuece tapado a fuego suave 1 hora y 15 minutos, hasta que las alubias estén tiernas y la corteza se corte con la cuchara.",
     "Mientras, pica muy fino la panceta, la cebolla, el ajo y la mitad del perejil, casi hasta formar una pasta: es el battuto romano. Sofríelo en otra cazuela con el aceite a fuego medio-bajo 8 minutos, hasta que esté dorado.",
     "Añade el tomate triturado y la guindilla y cocina 15 minutos, hasta que la salsa espese y el aceite empiece a separarse en los bordes.",
-    "Pasa a la salsa las alubias y la corteza con una espumadera, junto con 300 ml de su caldo de cocción. Sala y guisa 20 minutos a fuego suave, removiendo con cuidado, hasta que la salsa trabe y quede melosa.",
-    "Retira el laurel, espolvorea el resto del perejil picado y la pimienta y sirve con el pan tostado."
+    "Pasa a la salsa las alubias y la corteza con una espumadera, junto con 300 ml de su caldo de cocción. Sala y guisa 20 minutos a fuego suave, removiendo con cuidado, hasta que la salsa trabe y quede melosa. Mientras, pica el resto del perejil y tuesta el pan.",
+    "Retira el laurel, espolvorea el resto del perejil y la pimienta y sirve con el pan tostado."
   ],
   nutricion: { kcal: 760, prot: 45, hc: 71, grasa: 31 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "económica"],
@@ -490,7 +489,7 @@ window.RECETAS_SEED.push({
     "Mientras, limpia las alcachofas: quítales las hojas duras de fuera hasta llegar a las de color claro, corta la punta, pela el tallo y córtalas en cuartos, retirando la pelusa del centro. Ve echándolas en un bol con agua y el zumo de medio limón para que no se ennegrezcan.",
     "Pica muy fino el ajo, el perejil y la mitad de la menta (reserva unas hojas enteras para el final).",
     "En una sartén con tapa, calienta 1 cda de aceite a fuego medio, añade las alcachofas escurridas, la mitad de la picada y sal, y rehoga 2 minutos. Vierte el vino blanco y 50 ml de agua, tapa y cuece a fuego suave 12–15 minutos, hasta que la punta de un cuchillo entre sin resistencia en la base.",
-    "Prepara el aliño batiendo el resto del aceite con el zumo del otro medio limón, el resto de la picada, sal y pimienta.",
+    "Mientras se cuecen, prepara el aliño batiendo el resto del aceite con el zumo del otro medio limón, el resto de la picada, sal y pimienta.",
     "Mezcla las lentejas templadas con el aliño y las alcachofas con su jugo: las lentejas absorben el sabor mientras están calientes.",
     "Sirve sobre una base de rúcula con las lascas de parmesano y las hojas de menta reservadas por encima."
   ],
@@ -529,9 +528,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una cazuela con agua y sal. Pela la patata y córtala en dados de 2 cm; despunta las judías verdes y córtalas en trozos de 4 cm.",
-    "Tuesta la mitad de los piñones en una sartén sin aceite 2 minutos, moviéndolos, hasta que estén dorados. Resérvalos.",
-    "Prepara el pesto: tritura en la batidora las hojas de albahaca con el resto de los piñones, el ajo, el aceite y una pizca de sal, a golpes cortos para no calentar la albahaca. Añade el parmesano rallado y mézclalo con una cuchara.",
-    "Cuece la patata 10 minutos, añade las judías verdes y sigue 6–7 minutos más, hasta que la patata esté tierna y las judías, tiernas pero firmes.",
+    "Cuando hierva, cuece la patata 10 minutos, añade las judías verdes y sigue 6–7 minutos más, hasta que la patata esté tierna y las judías, tiernas pero firmes.",
+    "Mientras, tuesta la mitad de los piñones en una sartén sin aceite 2 minutos, moviéndolos, hasta que estén dorados. Resérvalos.",
+    "Prepara el pesto: ralla el parmesano y tritura en la batidora las hojas de albahaca con el resto de los piñones, el ajo, el aceite y una pizca de sal, a golpes cortos para no calentar la albahaca. Añade el parmesano y mézclalo con una cuchara.",
     "Echa los garbanzos los últimos 2 minutos, solo para que se calienten. Reserva un cazo del agua de cocción y escurre.",
     "En un bol grande, mezcla todo con el pesto y 2–3 cda del agua de cocción: la patata se deshace un poco y forma una salsa cremosa y verde.",
     "Sirve templado con los piñones tostados por encima."
@@ -576,7 +575,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta los pimientos por la mitad a lo largo, conservando el rabito, y quítales las semillas y los nervios. Úntalos por fuera con 1 cdta de aceite y sala el interior.",
     "Colócalos en la cesta de la airfryer con el hueco hacia abajo y cocínalos a 180 °C 8 minutos, para que empiecen a ablandarse.",
-    "Mientras, prepara el relleno en un bol: mezcla las lentejas con el tomate triturado, las alcaparras, las aceitunas picadas, las anchoas picadas si las usas, el ajo y el perejil picados, la mitad del pan rallado, la mitad del pecorino rallado, 1 cda de aceite y pimienta. Aplasta un poco con un tenedor para que ligue.",
+    "Mientras, pica las aceitunas, las anchoas si las usas, el ajo y el perejil, y ralla el pecorino. Prepara el relleno en un bol: mezcla las lentejas con el tomate triturado, las alcaparras, las aceitunas, las anchoas, el ajo, el perejil, la mitad del pan rallado, la mitad del pecorino, 1 cda de aceite y pimienta. Aplasta un poco con un tenedor para que ligue.",
     "Da la vuelta a los pimientos y rellénalos con la mezcla, apretando ligeramente.",
     "Mezcla el resto del pan rallado y del pecorino con el aceite que queda y repártelo por encima del relleno.",
     "Cocina en la airfryer a 180 °C 12–15 minutos, hasta que los pimientos estén tiernos al pincharlos y la superficie, dorada y crujiente.",
@@ -665,9 +664,9 @@ window.RECETAS_SEED.push({
     "Pica las hojas de una rama de romero. Pon las chuletillas en un plato con 1 diente de ajo laminado, el romero picado, la ralladura de medio limón, 1 cda de aceite y pimienta, y deja que tomen sabor mientras haces las lentejas.",
     "Pica la cebolla, la zanahoria y los otros 2 dientes de ajo y sofríelos en una cazuela con el resto del aceite a fuego medio 6 minutos, hasta que estén blandos.",
     "Añade el tomate concentrado, remueve 1 minuto y vierte el vino tinto. Deja que hierva 2 minutos, hasta que se evapore el olor a alcohol.",
-    "Incorpora las lentejas enjuagadas, la otra rama de romero entera y el caldo. Cuece tapado a fuego suave 30–35 minutos, hasta que estén tiernas y en una salsa espesa. Retira el romero y sazona con sal y pimienta.",
+    "Incorpora las lentejas enjuagadas, la otra rama de romero entera y el caldo. Cuece tapado a fuego suave 30–35 minutos, hasta que estén tiernas y en una salsa espesa. Mientras, corta en gajos el limón restante. Retira el romero y sazona con sal y pimienta.",
     "Calienta la plancha a fuego fuerte hasta que humee. Retira el ajo de las chuletillas y márcalas 2 minutos por cada lado, hasta que estén bien doradas por fuera y rosadas por dentro. Sálalas al sacarlas.",
-    "Sirve las lentejas con las chuletillas encima, recién hechas, y el limón restante en gajos para exprimir por encima."
+    "Sirve las lentejas con las chuletillas encima, recién hechas, y los gajos de limón para exprimir por encima."
   ],
   nutricion: { kcal: 640, prot: 33, hc: 44, grasa: 35 },
   etiquetas: ["creativa", "sin gluten", "alta en proteína", "primavera", "poco especiada"],
@@ -751,13 +750,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las pasas a remojo en agua templada y el azafrán en 2 cda de agua caliente. Corta el bulbo de hinojo en dados pequeños y pica fina la cebolla; reserva las hojas del hinojo.",
+    "Pon las pasas a remojo en agua templada y el azafrán en 2 cda de agua caliente. Corta el bulbo de hinojo en dados pequeños y pica fina la cebolla; pica las hojas del hinojo y resérvalas.",
     "En una sartén a fuego medio, tuesta el pan rallado con 1 cdta de aceite 3 minutos, removiendo sin parar, hasta que esté dorado. Resérvalo en un plato.",
     "En una cazuela baja con 1 cda de aceite a fuego medio, rehoga la cebolla y el hinojo 8 minutos, hasta que estén tiernos y dulces. Añade las anchoas y deshazlas con la cuchara 1 minuto.",
     "Trocea la mitad de las sardinas y añádelas a la cazuela con los piñones, las pasas escurridas y el vino blanco. Cocina 3 minutos, hasta que el vino se evapore y las sardinas se deshagan en una salsa.",
     "Incorpora los garbanzos y el agua de azafrán y cuece 5 minutos a fuego suave, removiendo, hasta que tomen un color dorado. Sazona con sal y pimienta.",
     "Mientras, en la sartén con el aceite restante a fuego fuerte, marca los filetes de sardina que quedan, primero por la piel, 1 minuto por lado.",
-    "Sirve los garbanzos con las sardinas marcadas encima, el pan rallado tostado y las hojas de hinojo picadas."
+    "Sirve los garbanzos con las sardinas marcadas encima, el pan rallado tostado y las hojas de hinojo."
   ],
   nutricion: { kcal: 720, prot: 40, hc: 58, grasa: 35 },
   etiquetas: ["creativa", "alta en proteína", "verano", "superalimentos", "poco especiada"],
@@ -796,11 +795,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en dados de 2 cm, mézclala con 1 cda de aceite, sal y la nuez moscada y ásala en una bandeja 25 minutos, hasta que esté tierna y dorada por los bordes.",
-    "Calienta el caldo en un cazo y mantenlo caliente a fuego mínimo.",
-    "En una cazuela ancha, rehoga la chalota picada con el resto del aceite 3 minutos. Añade las lentejas enjuagadas y escurridas y remueve 1–2 minutos para que se impregnen. Vierte el vino y deja que se evapore.",
+    "Calienta el caldo en un cazo y mantenlo caliente a fuego mínimo. Mientras, pica la chalota y ralla el parmesano.",
+    "En una cazuela ancha, rehoga la chalota con el resto del aceite 3 minutos. Añade las lentejas enjuagadas y escurridas y remueve 1–2 minutos para que se impregnen. Vierte el vino y deja que se evapore.",
     "Añade 2 cazos de caldo caliente y, a medida que se absorba, ve añadiendo más, cazo a cazo, removiendo de vez en cuando. En 35–40 minutos las lentejas estarán tiernas y envueltas en un líquido espeso, sin caldo suelto.",
     "Mientras, derrite la mantequilla en una sartén pequeña a fuego medio y fríe las hojas de salvia 1–2 minutos, hasta que estén crujientes y la mantequilla huela a avellana. Saca las hojas a un papel y reserva la mantequilla.",
-    "Fuera del fuego, añade a las lentejas la mantequilla a la salvia, el parmesano rallado y la mitad de la calabaza aplastada con un tenedor. Remueve con energía 1 minuto: es la mantecatura, que las vuelve cremosas. Ajusta de sal y pimienta.",
+    "Fuera del fuego, añade a las lentejas la mantequilla a la salvia, el parmesano y la mitad de la calabaza aplastada con un tenedor. Remueve con energía 1 minuto: es la mantecatura, que las vuelve cremosas. Ajusta de sal y pimienta.",
     "Sirve con el resto de la calabaza por encima y las hojas de salvia crujientes."
   ],
   nutricion: { kcal: 615, prot: 28, hc: 56, grasa: 28 },
@@ -841,10 +840,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga los guisantes partidos en un colador hasta que el agua salga limpia. No necesitan remojo.",
-    "Limpia el puerro y córtalo en rodajas (la parte blanca y la verde clara) y pica el apio. Rehógalos en una cazuela con 1 cda de aceite a fuego medio 6 minutos, sin que se doren.",
-    "Añade los guisantes, la patata pelada en dados y el caldo. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 40 minutos, hasta que los guisantes se deshagan al aplastarlos.",
+    "Limpia el puerro y córtalo en rodajas (la parte blanca y la verde clara) y pica el apio. Pela la patata y córtala en dados. Rehógalos en una cazuela con 1 cda de aceite a fuego medio 6 minutos, sin que se doren.",
+    "Añade los guisantes, la patata y el caldo. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 40 minutos, hasta que los guisantes se deshagan al aplastarlos.",
     "Mientras, pica muy fina la menta y mézclala con el resto del aceite y una pizca de sal. Aparte, mezcla la ricotta con la ralladura del limón, sal y pimienta.",
-    "Tuesta las lonchas de jamón en una sartén sin aceite a fuego medio 2–3 minutos por lado, hasta que estén crujientes. Escúrrelas en papel y desmenúzalas cuando se enfríen.",
+    "Después, tuesta las lonchas de jamón en una sartén sin aceite a fuego medio 2–3 minutos por lado, hasta que estén crujientes. Escúrrelas en papel y desmenúzalas cuando se enfríen.",
     "Tritura la crema hasta que quede muy fina. Ajusta la textura con agua caliente y sazona con pimienta y, con cuidado, sal: el jamón ya aporta.",
     "Sirve la crema con una cucharada de ricotta al limón, el jamón crujiente por encima y unas gotas del aceite de menta."
   ],
@@ -885,7 +884,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una cazuela con agua y sal y prepara un bol con agua muy fría (con hielo, si tienes).",
-    "Dobla los trigueros hasta que se partan solos: la parte dura se queda en la base y la descartas. Corta el resto en trozos de 4 cm.",
+    "Mientras se calienta el agua, dobla los trigueros hasta que se partan solos: la parte dura se queda en la base y la descartas. Corta el resto en trozos de 4 cm.",
     "Escalda los trigueros 2 minutos y sácalos al agua fría. En la misma agua, cuece las habas 3 minutos y pásalas también al agua fría: así conservan el verde intenso. Escurre todo.",
     "Para el pesto, tritura la menta, las almendras, la ralladura y el zumo de medio limón, medio diente de ajo, 1 cda y media de aceite y una pizca de sal, hasta tener una salsa con algo de textura.",
     "Tuesta el pan y frótalo con el medio diente de ajo restante.",

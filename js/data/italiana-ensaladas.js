@@ -36,9 +36,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas sin pelarlas, cúbrelas con agua fría con sal y cuécelas 20-25 minutos desde que hierva, hasta que la punta de un cuchillo entre sin resistencia.",
-    "Mientras, prepara el aliño: pon en un bol el aceite con el diente de ajo aplastado, la ralladura de medio limón, su zumo, el perejil picado y la guindilla desmenuzada si la usas. Déjalo infusionar 10 minutos y retira el ajo.",
-    "Corta el pulpo en rodajas de 1 cm. Si está frío de la nevera, mételo en un colador y sumérgelo 1 minuto en el agua caliente de las patatas justo antes de escurrirlas: recupera su textura melosa.",
-    "Corta el apio en rodajas finas al bies y reserva las hojas más tiernas.",
+    "Mientras, prepara el aliño: pica el perejil y ponlo en un bol con el aceite, el diente de ajo aplastado, la ralladura de medio limón, su zumo y la guindilla desmenuzada si la usas. Déjalo infusionar 10 minutos y retira el ajo.",
+    "Corta el apio en rodajas finas al bies, reservando las hojas más tiernas, y el pulpo en rodajas de 1 cm. Si el pulpo está frío de la nevera, mételo en un colador y sumérgelo 1 minuto en el agua caliente de las patatas justo antes de escurrirlas: recupera su textura melosa.",
     "Escurre las patatas y pélalas aún calientes, sujetándolas con un paño; la piel sale casi sola. Córtalas en trozos irregulares de unos 3 cm.",
     "Mezcla en una fuente la patata templada con el pulpo, el apio, las aceitunas y el aliño. La patata caliente absorbe el aceite y el limón como una esponja. Deja reposar 5 minutos y ajusta de sal, pimienta y limón.",
     "Sirve templada o a temperatura ambiente, con las hojas de apio y un poco más de perejil por encima."
@@ -83,11 +82,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el pollo en una cazuela con la zanahoria, el apio, la cebolla, el laurel y sal, y cúbrelo con agua fría. Llévalo a ebullición, retira la espuma y cuécelo 25 minutos a fuego muy suave, con un temblor apenas visible: si hierve a borbotones, la carne se queda seca y fibrosa.",
     "Mientras, pon las pasas en un cuenco con el vinagre y 2 cucharadas del caldo caliente para que se hidraten 15 minutos.",
-    "Tuesta los piñones en una sartén sin aceite a fuego medio 2-3 minutos, moviéndolos, hasta que estén dorados claros. Sácalos enseguida: se queman en segundos.",
+    "Mientras sigue cociendo el pollo, tuesta los piñones en una sartén sin aceite a fuego medio 2-3 minutos, moviéndolos, hasta que estén dorados claros. Sácalos enseguida: se queman en segundos.",
     "Corta la piel de naranja escarchada en daditos de 3 mm.",
     "Saca el pollo, déjalo templar 5 minutos sobre una tabla y deshilacha la carne en tiras gruesas con los dedos o con dos tenedores. Cuela el caldo y guárdalo para otro plato.",
     "Mezcla el pollo templado con las pasas y su vinagre, el aceite, los piñones, la naranja, sal y pimienta. Deja que repose al menos 15 minutos a temperatura ambiente para que la carne tome el agridulce.",
-    "Tuesta las rebanadas de pan en la sartén 1-2 minutos por cara, hasta que estén doradas y crujientes.",
+    "Mientras reposa, tuesta las rebanadas de pan en la sartén 1-2 minutos por cara, hasta que estén doradas y crujientes.",
     "Sirve el pollo sobre una cama de canónigos, con todo su aliño por encima y el pan al lado."
   ],
   nutricion: { kcal: 640, prot: 40, hc: 42, grasa: 35 },
@@ -124,10 +123,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos en agua hirviendo y pásalos a agua fría. Pélalos y córtalos en cuartos.",
-    "Separa las hojas de la escarola, lávalas y sécalas muy bien con una centrifugadora o un paño: el agua que quede diluye el aliño. Trocéalas con las manos.",
-    "Enjuaga y escurre las alubias. Ponlas en una fuente grande con la escarola y la cebolleta en rodajas finas, y sala ligeramente.",
-    "Corta la panceta en dados de 1 cm y ponla en una sartén fría con el aceite y el ajo laminado. Enciende a fuego medio y cocínala 6-8 minutos, hasta que haya soltado su grasa y esté dorada y crujiente.",
+    "Cuece los huevos 10 minutos en agua hirviendo.",
+    "Mientras, separa las hojas de la escarola, lávalas y sécalas muy bien con una centrifugadora o un paño: el agua que quede diluye el aliño. Trocéalas con las manos. Corta la cebolleta en rodajas finas y la panceta en dados de 1 cm, y lamina el ajo.",
+    "Pasa los huevos a agua fría, pélalos y córtalos en cuartos.",
+    "Enjuaga y escurre las alubias. Ponlas en una fuente grande con la escarola y la cebolleta, y sala ligeramente.",
+    "Pon la panceta en una sartén fría con el aceite y el ajo. Enciende a fuego medio y cocínala 6-8 minutos, hasta que haya soltado su grasa y esté dorada y crujiente.",
     "Aparta la sartén del fuego, añade el vinagre (salpica, échalo con cuidado) y vuelve a ponerla al fuego 30 segundos raspando el fondo, hasta que hierva.",
     "Vierte enseguida la panceta con toda su grasa y el vinagre hirviendo sobre la escarola y las alubias, y mezcla rápido: las hojas se ablandan un poco con el calor y pierden parte del amargor.",
     "Reparte el huevo, muele pimienta negra por encima y sirve al momento, templada."
@@ -174,12 +174,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir una cazuela grande de agua con sal. Cuece los huevos 10 minutos y pásalos a agua fría. En la misma agua cuece las verduras por tandas, sacándolas con una espumadera cuando estén tiernas pero firmes: la patata en rodajas de 1 cm (12 minutos), la zanahoria en bastones y la coliflor en ramilletes pequeños (6-7 minutos) y las judías verdes (6 minutos). Extiéndelas en una bandeja para que se enfríen sin pasarse.",
-    "Baja el fuego al mínimo, sin borbotones, y escalfa la merluza 5-6 minutos, hasta que se separe en lascas. Sácala. Sube el fuego y cuece los langostinos 2 minutos, hasta que estén rosados y curvados; enfríalos en agua con hielo y pela las colas.",
+    "Pon a hervir una cazuela grande de agua con sal. Mientras se calienta, pela la patata y córtala en rodajas de 1 cm, corta la zanahoria en bastones y la coliflor en ramilletes pequeños, y despunta las judías verdes. Cuece los huevos 10 minutos y pásalos a agua fría. En la misma agua cuece las verduras por tandas, sacándolas con una espumadera cuando estén tiernas pero firmes: la patata (12 minutos), la zanahoria y la coliflor (6-7 minutos) y las judías verdes (6 minutos). Extiéndelas en una bandeja para que se enfríen sin pasarse.",
+    "Baja el fuego al mínimo, sin borbotones, y escalfa la merluza 5-6 minutos, hasta que se separe en lascas. Sácala. Sube el fuego y cuece los langostinos 2 minutos, hasta que estén rosados y curvados; enfríalos en agua con hielo y pela las colas. Pela los huevos y corta la remolacha en dados.",
     "Aliña cada verdura por separado con unas gotas de vinagre, un hilo de aceite y sal. Es el secreto del plato: cada capa tiene que estar sazonada por sí misma.",
     "Prepara la salsa verde: en el vaso de la batidora pon las hojas de perejil, los piñones, las alcaparras, 2 anchoas, el ajo sin germen, la yema de un huevo duro, 2 regañas remojadas en 1 cucharada de vinagre, otras 2 cucharadas de vinagre y el resto del aceite. Tritura hasta una pasta densa y verde intensa; si queda demasiado espesa, añade una cucharada de agua.",
     "Pon el resto de las regañas en el fondo de una fuente honda y rocíalas con el vinagre que quede y 2 cucharadas de agua: deben ablandarse un poco sin deshacerse.",
-    "Monta capas formando una pequeña cúpula y unta cada una con una cucharada de salsa verde: regañas, patata, merluza en lascas, judías verdes, coliflor y, por último, zanahoria y remolacha en dados.",
+    "Monta capas formando una pequeña cúpula y unta cada una con una cucharada de salsa verde: regañas, patata, merluza en lascas, judías verdes, coliflor y, por último, zanahoria y remolacha.",
     "Cubre la cúpula con el resto de la salsa verde y decórala con los langostinos, las aceitunas, el otro huevo en cuartos, la clara sobrante picada y las 2 anchoas restantes.",
     "Déjala en la nevera al menos 30 minutos para que las capas se asienten y sácala 10 minutos antes de servir, para que el aceite no esté frío."
   ],
@@ -225,8 +225,8 @@ window.RECETAS_SEED.push({
     "Mientras, pica muy fino el romero y caliéntalo con el aceite en un cazo 2 minutos a fuego muy suave, sin que llegue a freír. Apaga y deja que se aromatice.",
     "Corta el apio y la zanahoria en dados de 5 mm. Corta la cebolla morada en juliana fina y ponla en un bol con el vinagre: en 10 minutos pierde el picor y se vuelve rosa intenso. Parte los cherry por la mitad.",
     "Escurre las lentejas, retira el laurel y el ajo, y alíñalas aún calientes con el aceite de romero, la cebolla con su vinagre, sal y pimienta. En caliente absorben mucho mejor el aliño.",
-    "Cuando estén templadas, al cabo de unos 10 minutos, añade el apio, la zanahoria y los cherry, y mezcla.",
-    "Tuesta el pan en una sartén 1-2 minutos por cara y frótalo con el otro diente de ajo partido.",
+    "Mientras se templan, unos 10 minutos, tuesta el pan en una sartén 1-2 minutos por cara y frótalo con el otro diente de ajo partido.",
+    "Cuando las lentejas estén templadas, añade el apio, la zanahoria y los cherry, y mezcla.",
     "Sirve las lentejas con lascas de pecorino por encima y el pan al lado."
   ],
   nutricion: { kcal: 620, prot: 29, hc: 62, grasa: 28 },
@@ -264,12 +264,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon las almejas 20 minutos en agua fría con un buen puñado de sal para que suelten la arena. Enjuágalas y escúrrelas.",
-    "Cuece la fregola en abundante agua con sal 10-12 minutos, hasta que esté al dente. Escúrrela y extiéndela en una fuente con 1 cucharada de aceite para que no se pegue.",
-    "En una sartén amplia con tapa, calienta 1 cucharada de aceite con el ajo laminado y la guindilla 1 minuto a fuego medio, sin que el ajo se dore. Añade las almejas y el vino, tapa y cocina 3-4 minutos a fuego fuerte, hasta que se abran. Desecha las que sigan cerradas.",
+    "Pon las almejas 20 minutos en agua fría con un buen puñado de sal para que suelten la arena. Mientras, pon a hervir abundante agua con sal para la fregola, lamina el ajo, pica el perejil y parte los cherry por la mitad. Enjuaga las almejas y escúrrelas.",
+    "Cuece la fregola en el agua hirviendo 10-12 minutos, hasta que esté al dente. Escúrrela y extiéndela en una fuente con 1 cucharada de aceite para que no se pegue.",
+    "En una sartén amplia con tapa, calienta 1 cucharada de aceite con el ajo y la guindilla 1 minuto a fuego medio, sin que el ajo se dore. Añade las almejas y el vino, tapa y cocina 3-4 minutos a fuego fuerte, hasta que se abran. Desecha las que sigan cerradas.",
     "Saca las almejas. Deja la mitad en su concha y retira la carne del resto. Cuela el jugo de la sartén por un colador fino o un paño, por si queda arena.",
-    "En la misma sartén, ya limpia, saltea los cherry partidos por la mitad con la última cucharada de aceite 2-3 minutos, hasta que empiecen a romperse. Añade el jugo colado y deja que reduzca 2 minutos, hasta la mitad.",
-    "Vuelca la fregola en la sartén y mézclala 1 minuto fuera del fuego para que absorba el jugo. Añade todas las almejas, el perejil picado, la ralladura del limón y un buen chorro de su zumo. Prueba antes de salar: las almejas ya aportan sal.",
+    "En la misma sartén, ya limpia, saltea los cherry con la última cucharada de aceite 2-3 minutos, hasta que empiecen a romperse. Añade el jugo colado y deja que reduzca 2 minutos, hasta la mitad.",
+    "Vuelca la fregola en la sartén y mézclala 1 minuto fuera del fuego para que absorba el jugo. Añade todas las almejas, el perejil, la ralladura del limón y un buen chorro de su zumo. Prueba antes de salar: las almejas ya aportan sal.",
     "Sirve templada y, si la usas, ralla la hueva de atún por encima en el último momento."
   ],
   nutricion: { kcal: 518, prot: 20, hc: 60, grasa: 22 },
@@ -349,11 +349,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas con piel en agua con sal 20-25 minutos, hasta que estén tiernas. Escúrrelas, pélalas templadas y córtalas en rodajas gruesas.",
+    "Cuece las patatas con piel en agua con sal 20-25 minutos, hasta que estén tiernas.",
     "Mientras, pon el bacalao en una cazuela con agua fría y el laurel. Calienta a fuego medio y, justo cuando empiece a hervir, apaga el fuego y déjalo 5 minutos dentro: así queda jugoso y se separa en lascas. Escúrrelo y desmígalo en lascas grandes, quitando piel y espinas.",
-    "Limpia las ñoras con un paño seco, córtales el tallo, ábrelas con unas tijeras, quítales las semillas y córtalas en trozos de unos 3 cm. Tienen que estar muy secas.",
-    "Calienta el aceite en una sartén pequeña a fuego medio con el ajo laminado. Cuando el ajo empiece a dorarse, sácalo. Fríe las ñoras por tandas solo 5-10 segundos, hasta que se inflen y se vuelvan rojo brillante; si se oscurecen, amargan. Sácalas a un papel: al enfriarse quedan crujientes.",
-    "Deja templar el aceite rojizo de la sartén y mézclalo con el zumo del limón, el perejil picado, sal y pimienta.",
+    "Mientras, limpia las ñoras con un paño seco, córtales el tallo, ábrelas con unas tijeras, quítales las semillas y córtalas en trozos de unos 3 cm. Tienen que estar muy secas. Lamina el ajo y pica el perejil.",
+    "Calienta el aceite en una sartén pequeña a fuego medio con el ajo. Cuando el ajo empiece a dorarse, sácalo. Fríe las ñoras por tandas solo 5-10 segundos, hasta que se inflen y se vuelvan rojo brillante; si se oscurecen, amargan. Sácalas a un papel: al enfriarse quedan crujientes.",
+    "Escurre las patatas, pélalas templadas y córtalas en rodajas gruesas.",
+    "Deja templar el aceite rojizo de la sartén y mézclalo con el zumo del limón, el perejil, sal y pimienta.",
     "Coloca la patata y el bacalao en una fuente, riégalos con el aceite aliñado, añade las aceitunas y el ajo frito, y reparte por encima las ñoras crujientes, desmenuzando alguna con los dedos. Sirve templada."
   ],
   nutricion: { kcal: 475, prot: 32, hc: 31, grasa: 25 },
@@ -391,9 +392,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las habitas 3 minutos en agua hirviendo con sal y pásalas a un bol con agua y hielo para fijar el color verde. Si son grandes, pellízcales la piel y sácalas: por dentro son más dulces y tiernas.",
-    "Prepara el aliño en un bol: la ralladura y el zumo de medio limón, el aceite, abundante pimienta negra y la menta picada.",
-    "Lava y seca la lechuga y córtala en tiras de 2 cm. Corta la cebolleta en rodajas finas.",
+    "Pon a hervir agua con sal. Mientras, lava y seca la lechuga y córtala en tiras de 2 cm, y corta la cebolleta en rodajas finas.",
+    "Cuece las habitas 3 minutos en el agua hirviendo y pásalas a un bol con agua y hielo para fijar el color verde. Si son grandes, pellízcales la piel y sácalas: por dentro son más dulces y tiernas.",
+    "Prepara el aliño en un bol: pica la menta y mézclala con la ralladura y el zumo de medio limón, el aceite y abundante pimienta negra.",
     "Corta el pecorino en dados pequeños o en lascas y el salami en tiras.",
     "Mezcla la lechuga, la cebolleta y las habas escurridas con el aliño. Reparte encima el pecorino y el salami, y prueba antes de añadir sal: el queso y el embutido ya salan bastante.",
     "Tuesta el pan en una sartén sin aceite 1-2 minutos por cara y sirve la ensalada con el resto del limón en gajos."
@@ -441,11 +442,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir 2 litros de agua con una rama de apio, la cebolla partida, el laurel y sal. Cuando hierva, mete el morcillo entero: así se hace en el Piamonte cuando lo que importa es la carne, y no el caldo. Baja a fuego muy suave, con apenas un temblor, y cuécelo 2 horas y 30 minutos con la tapa entreabierta, retirando la espuma de vez en cuando, hasta que un tenedor entre sin resistencia. Añade la zanahoria entera en los últimos 25 minutos, para que quede tierna pero no se deshaga.",
-    "Mientras, cuece los huevos 10 minutos y enfríalos en agua fría. Desmiga el pan en un cuenco y rocíalo con el vinagre.",
+    "Mientras, cuece los huevos 10 minutos y enfríalos en agua fría. Desmiga el pan en un cuenco y rocíalo con el vinagre. Corta en rodajas finas la otra rama de apio y los pepinillos, la cebolla morada en juliana, y despunta las judías verdes.",
     "Haz el bagnet vert: tritura las hojas de perejil, las anchoas, las alcaparras, el ajo sin germen, la miga escurrida (guarda el vinagre) y la yema de un huevo duro, añadiendo el aceite en hilo hasta tener una salsa densa. Ajusta la acidez con el vinagre reservado y deja reposar al menos 30 minutos para que se asienten los sabores.",
-    "En los últimos 7 minutos de cocción de la carne, añade las judías verdes despuntadas al caldo. Sácalas cuando estén tiernas pero aún verdes brillantes.",
+    "En los últimos 7 minutos de cocción de la carne, añade las judías verdes al caldo. Sácalas cuando estén tiernas pero aún verdes brillantes.",
     "Saca la carne y la zanahoria y deja reposar la carne 10 minutos tapada sobre una tabla. Córtala en lonchas de 1 cm a contrapelo y después en tiras; corta la zanahoria en rodajas. Cuela el caldo y guárdalo.",
-    "Corta en rodajas finas la otra rama de apio y los pepinillos, y la cebolla morada en juliana.",
     "Mezcla la carne templada con la zanahoria, el apio, la cebolla, los pepinillos, las judías verdes y la mitad del bagnet vert, y ajusta de sal y pimienta. Reparte por encima el huevo entero en cuartos y la clara del otro picada, y sirve el resto de la salsa aparte."
   ],
   nutricion: { kcal: 628, prot: 54, hc: 22, grasa: 36 },
@@ -486,9 +486,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Enjuaga la cebada y cuécela en abundante agua con sal 25-30 minutos, hasta que esté tierna pero con mordida. Escúrrela.",
-    "Pon las uvas en racimitos y la cebolla morada en gajos en una bandeja de horno con 1 cucharadita de aceite, el tomillo y sal. Hornéalas 15-18 minutos, hasta que las uvas se arruguen y empiecen a soltar jugo.",
+    "Mientras se cuece, corta la cebolla morada en gajos y ponla con las uvas en racimitos en una bandeja de horno con 1 cucharadita de aceite, el tomillo y sal. Hornéalas 15-18 minutos, hasta que las uvas se arruguen y empiecen a soltar jugo.",
     "Añade las avellanas a la bandeja en los últimos 6 minutos para tostarlas. Después pícalas groseramente.",
-    "Corta las endibias rojas a lo largo en cuartos, sin separar la base. Píntalas con 1 cucharadita de aceite y márcalas en una sartén muy caliente 2 minutos por cara, hasta que los bordes se doren y se ablanden un poco: el calor suaviza su amargor.",
+    "Mientras se asan, corta las endibias rojas a lo largo en cuartos, sin separar la base. Píntalas con 1 cucharadita de aceite y márcalas en una sartén muy caliente 2 minutos por cara, hasta que los bordes se doren y se ablanden un poco: el calor suaviza su amargor.",
     "Prepara el aliño con el balsámico, la miel, el aceite restante, sal, pimienta y el jugo que hayan soltado las uvas en la bandeja.",
     "Mezcla la cebada templada con la mitad del aliño y la rúcula. Coloca encima las endibias, las uvas, la cebolla, el gorgonzola en trozos y las avellanas, y riega con el resto del aliño. Sirve templado, para que el queso empiece a fundirse."
   ],
@@ -528,11 +528,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el orzo en agua con sal 9-10 minutos, hasta que esté al dente. Escúrrelo, enjuágalo un momento bajo el grifo para cortar la cocción y alíñalo con 1 cucharadita de aceite para que no se apelmace.",
-    "Haz la gremolata: pica muy fino el perejil y el ajo y mézclalos con la ralladura de todo el limón.",
+    "Pon a hervir agua con sal. Mientras, haz la gremolata: pica muy fino el perejil y el ajo y mézclalos con la ralladura de todo el limón. Corta el calabacín en medias lunas de 1 cm y pica la menta.",
+    "Cuece el orzo en el agua hirviendo 9-10 minutos, hasta que esté al dente. Escúrrelo, enjuágalo un momento bajo el grifo para cortar la cocción y alíñalo con 1 cucharadita de aceite para que no se apelmace.",
     "Abre la pechuga en filetes de 1 cm y salpimiéntala. Dórala en una sartén con 1 cucharada de aceite a fuego medio-fuerte 3-4 minutos por cara, hasta que no quede rosa en el centro. Fuera del fuego, espolvoréala con la mitad de la gremolata, déjala reposar 3 minutos y córtala en tiras.",
-    "En la misma sartén, marca el calabacín cortado en medias lunas de 1 cm 2-3 minutos por cara, hasta que esté dorado, y sálalo.",
-    "Mezcla la ricotta con el zumo de medio limón, la menta picada, sal y pimienta.",
+    "En la misma sartén, marca el calabacín 2-3 minutos por cara, hasta que esté dorado, y sálalo.",
+    "Mezcla la ricotta con el zumo de medio limón, la menta, sal y pimienta.",
     "Junta el orzo con el calabacín, la rúcula, el resto de la gremolata, el zumo del otro medio limón y el aceite restante. Reparte el pollo por encima y termina con cucharadas de ricotta."
   ],
   nutricion: { kcal: 625, prot: 49, hc: 57, grasa: 22 },
@@ -573,9 +573,9 @@ window.RECETAS_SEED.push({
     "Precalienta la airfryer a 200 °C. Corta la calabaza en dados de 2 cm y mézclala con 1 cucharada de aceite, sal y la nuez moscada.",
     "Escurre y enjuaga los garbanzos y sécalos muy bien con papel de cocina: cuanto más secos, más crujientes. Mézclalos con 1 cucharadita de aceite y sal.",
     "Cocina la calabaza 12 minutos, sacude la cesta, añade los garbanzos y cocina 10-12 minutos más, agitando a mitad, hasta que la calabaza esté dorada en los bordes y los garbanzos suenen crujientes al mover la cesta.",
-    "Mientras, calienta el resto del aceite en una sartén pequeña a fuego medio y fríe las hojas de salvia 20-30 segundos, hasta que dejen de burbujear y estén crujientes. Sácalas a un papel. En ese mismo aceite tuesta las semillas de calabaza 1 minuto, hasta que empiecen a saltar, y sácalas.",
+    "Mientras, corta la cebolla morada en juliana fina. Calienta el resto del aceite en una sartén pequeña a fuego medio y fríe las hojas de salvia 20-30 segundos, hasta que dejen de burbujear y estén crujientes. Sácalas a un papel. En ese mismo aceite tuesta las semillas de calabaza 1 minuto, hasta que empiecen a saltar, y sácalas.",
     "Deja templar el aceite aromatizado de la sartén y bátelo con el balsámico, sal y pimienta.",
-    "Corta la cebolla morada en juliana fina. Monta los platos con la rúcula, la cebolla, la calabaza y los garbanzos templados; riega con la vinagreta y termina con las semillas y la salvia crujiente desmenuzada."
+    "Monta los platos con la rúcula, la cebolla, la calabaza y los garbanzos templados; riega con la vinagreta y termina con las semillas y la salvia crujiente desmenuzada."
   ],
   nutricion: { kcal: 576, prot: 18, hc: 60, grasa: 29 },
   etiquetas: ["creativa", "vegana", "sin gluten", "sin lácteos", "económica", "otoño", "ideal para llevar", "poco especiada"],
@@ -657,11 +657,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las patatas en una cazuela con agua fría y sal y cuécelas 15-20 minutos desde que hierva, según su tamaño. En los últimos 6 minutos añade las judías verdes despuntadas y troceadas: deben quedar tiernas pero verde brillante.",
-    "Mientras, cuece los huevos 9 minutos en agua hirviendo, para que la yema quede justo cuajada, y enfríalos en agua fría.",
+    "Pon las patatas en una cazuela con agua fría y sal y cuécelas 15-20 minutos desde que hierva, según su tamaño. Mientras, despunta las judías verdes y trocéalas; añádelas en los últimos 6 minutos: deben quedar tiernas pero verde brillante.",
+    "Mientras, cuece los huevos 9 minutos en agua hirviendo, para que la yema quede justo cuajada, y enfríalos en agua fría. Parte los cherry por la mitad y pica el perejil.",
     "Prepara la salsa tonnata: tritura el atún escurrido, las anchoas, 1 cucharada de alcaparras, la mayonesa, el yogur y el zumo del limón hasta tener una crema lisa. Si queda espesa, aligérala con 1-2 cucharadas del agua de cocción. Prueba antes de salar: las anchoas ya aportan sal.",
-    "Escurre las patatas y las judías. Corta las patatas por la mitad aún templadas, pela los huevos y córtalos en cuartos, y parte los cherry por la mitad.",
-    "Extiende una capa de salsa en el fondo de los platos y coloca encima la patata, las judías, los cherry y el huevo. Termina con más salsa, el resto de las alcaparras, perejil picado y pimienta negra. Sirve tibia."
+    "Escurre las patatas y las judías. Corta las patatas por la mitad aún templadas, pela los huevos y córtalos en cuartos.",
+    "Extiende una capa de salsa en el fondo de los platos y coloca encima la patata, las judías, los cherry y el huevo. Termina con más salsa, el resto de las alcaparras, el perejil y pimienta negra. Sirve tibia."
   ],
   nutricion: { kcal: 522, prot: 31, hc: 46, grasa: 24 },
   etiquetas: ["creativa", "sin gluten", "económica", "ideal para llevar", "alta en proteína", "poco especiada"],
@@ -700,11 +700,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga el arroz y cuécelo en abundante agua con sal 35-40 minutos (o lo que indique el paquete), hasta que esté tierno pero con mordida. Escúrrelo y extiéndelo en una bandeja para que se enfríe sin pegarse.",
-    "Mientras, ralla la piel de media naranja. Pela la naranja a lo vivo, quitando toda la parte blanca, y saca los gajos con un cuchillo sobre un bol para recoger el zumo.",
+    "Mientras, ralla la piel de media naranja. Pela la naranja a lo vivo, quitando toda la parte blanca, y saca los gajos con un cuchillo sobre un bol para recoger el zumo. Corta el calabacín en dados de 1 cm, lamina el ajo y pica la menta.",
     "Tuesta las almendras en una sartén sin aceite 2 minutos a fuego medio, hasta que estén doradas, y sácalas.",
-    "Corta el calabacín en dados de 1 cm y saltéalo en la misma sartén con 2 cucharaditas de aceite a fuego fuerte 4 minutos, hasta que se dore pero siga firme. Sálalo y sácalo.",
-    "Pon 1 cucharadita de aceite en la sartén con el ajo laminado y la guindilla 30 segundos, añade los langostinos bien secos y saltéalos 2 minutos, hasta que estén rosados y curvados. Fuera del fuego, añade la ralladura de naranja.",
-    "Prepara el aliño con el zumo de naranja recogido, el zumo del limón, el aceite restante, sal y pimienta. Mezcla el arroz con el calabacín, los langostinos, los gajos de naranja, la menta picada y el aliño, y termina con las almendras."
+    "Saltea el calabacín en la misma sartén con 2 cucharaditas de aceite a fuego fuerte 4 minutos, hasta que se dore pero siga firme. Sálalo y sácalo.",
+    "Pon 1 cucharadita de aceite en la sartén con el ajo y la guindilla 30 segundos, añade los langostinos bien secos y saltéalos 2 minutos, hasta que estén rosados y curvados. Fuera del fuego, añade la ralladura de naranja.",
+    "Prepara el aliño con el zumo de naranja recogido, el zumo del limón, el aceite restante, sal y pimienta. Mezcla el arroz con el calabacín, los langostinos, los gajos de naranja, la menta y el aliño, y termina con las almendras."
   ],
   nutricion: { kcal: 598, prot: 36, hc: 65, grasa: 22 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "verano", "ideal para llevar", "alta en proteína"],
@@ -747,8 +747,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Parte las coles de Bruselas por la mitad, corta las zanahorias en bastones de 1 cm y la cebolla en gajos. Mézclalo todo en una bandeja con 1 cucharada de aceite y sal y ásalo 22-25 minutos, dándole la vuelta a mitad, hasta que las coles estén tostadas por el corte y la zanahoria tierna.",
     "Mientras, pela los ajos, pártelos por la mitad y quítales el germen. Cuécelos en un cazo con la leche a fuego muy suave 10-12 minutos, hasta que se aplasten con un tenedor: la leche les quita el picor. Escúrrelos y tira la leche.",
     "Seca el cazo y pon en él las 2 cucharadas de aceite restantes, los ajos y las anchoas. Caliéntalo a fuego mínimo 5 minutos, aplastando con un tenedor, hasta que las anchoas se deshagan y tengas una salsa espesa; debe templarse sin llegar a freír. Fuera del fuego añade el vinagre y pimienta y bate con el tenedor.",
-    "Cuece los huevos en agua hirviendo 6 minutos y medio, pásalos a un bol con agua y hielo 2 minutos y pélalos con cuidado: la clara queda cuajada y la yema, cremosa.",
-    "Tuesta el pan en el horno los últimos 5 minutos o en una sartén. Corta la remolacha en gajos y separa las hojas de la endibia.",
+    "Cuece los huevos en agua hirviendo 6 minutos y medio; mientras, corta la remolacha en gajos y separa las hojas de la endibia. Pasa los huevos a un bol con agua y hielo 2 minutos y pélalos con cuidado: la clara queda cuajada y la yema, cremosa.",
+    "Tuesta el pan en el horno los últimos 5 minutos o en una sartén.",
     "Reparte en los platos la endibia y la remolacha, pon encima las verduras asadas templadas y los huevos partidos por la mitad, riega con la bagna cauda templada y sirve con el pan para mojar."
   ],
   nutricion: { kcal: 630, prot: 30, hc: 51, grasa: 34 },
@@ -790,7 +790,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Machaca en un mortero las semillas de hinojo, las hojas de una rama de romero, un diente de ajo, sal y abundante pimienta negra. Mézclalo con 1 cucharada de aceite y la ralladura de medio limón, y unta el solomillo por todas partes.",
     "Dora el solomillo en una sartén a fuego fuerte 1 minuto por cada lado, hasta que esté bien marcado, y pásalo a una bandeja. Hornéalo 12-15 minutos, hasta que alcance 63 °C en el centro o, sin termómetro, hasta que al presionarlo esté firme pero elástico. Déjalo reposar 5 minutos tapado con papel de aluminio.",
     "Mientras, corta el pan en dados de 2 cm y mézclalos con 1 cucharada de aceite, el otro diente de ajo machacado y la otra rama de romero picada. Hornéalos en otra bandeja 8 minutos junto al solomillo, hasta que estén dorados.",
-    "Corta el hinojo en láminas muy finas, reservando sus hojitas, y la manzana en bastones finos. Mézclalos enseguida con el zumo de medio limón para que no se oscurezcan.",
+    "Mientras se hornea, corta el hinojo en láminas muy finas, reservando sus hojitas, y la manzana en bastones finos. Mézclalos enseguida con el zumo de medio limón para que no se oscurezcan.",
     "Prepara el aliño con el zumo del otro medio limón, el aceite restante, sal, pimienta y el jugo que haya soltado la carne al reposar.",
     "Corta el solomillo en medallones finos. Mezcla la rúcula, el hinojo y la manzana con el aliño, y coloca encima la carne, los picatostes y las hojitas de hinojo."
   ],
@@ -832,7 +832,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el farro en abundante agua con sal 20-25 minutos, hasta que esté tierno pero con mordida. Escúrrelo y extiéndelo en una fuente para que se temple.",
-    "Prepara el pesto: tritura 20 g de pistachos con la albahaca, el parmesano, el ajo, el zumo del limón, el aceite y 3 cucharadas de agua fría, hasta tener una crema con algo de textura.",
+    "Mientras se cuece, prepara el pesto: tritura 20 g de pistachos con la albahaca, el parmesano, el ajo, el zumo del limón, el aceite y 3 cucharadas de agua fría, hasta tener una crema con algo de textura.",
     "Corta la mortadela en dados o tiras, la mozzarella en trozos y los cherry por la mitad. Pica groseramente el resto de los pistachos.",
     "Mezcla el farro aún templado con el pesto: en templado lo absorbe mejor. Añade los cherry y la rúcula.",
     "Reparte por encima la mortadela y la mozzarella, y termina con los pistachos picados y pimienta negra."
@@ -873,7 +873,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Dobla cada espárrago hasta que se parta solo y desecha la parte leñosa. Cuécelos en agua hirviendo con sal 3-4 minutos, hasta que estén tiernos pero firmes; pásalos 1 minuto a agua fría y escúrrelos.",
+    "Pon a hervir agua con sal. Mientras, dobla cada espárrago hasta que se parta solo y desecha la parte leñosa. Cuécelos en el agua hirviendo 3-4 minutos, hasta que estén tiernos pero firmes; pásalos 1 minuto a agua fría y escúrrelos.",
     "Haz las migas: calienta la mantequilla con el ajo aplastado en una sartén a fuego medio. Cuando espume, añade el pan rallado y tuéstalo 3-4 minutos removiendo, hasta que esté dorado y crujiente. Fuera del fuego, retira el ajo y añade la ralladura del limón y una pizca de sal. Pásalas a un plato.",
     "Para los huevos poché, calienta agua en un cazo hasta que salgan burbujas pequeñas, sin hervir a borbotones, y añade el vinagre. Casca cada huevo en un cuenco, remueve el agua en círculo y desliza el huevo en el centro. Cuécelo 3 minutos, hasta que la clara esté cuajada y la yema siga líquida, y sácalo con una espumadera a un papel. Hazlos de dos en dos.",
     "Limpia la sartén y marca los espárragos con media cucharada de aceite 1-2 minutos a fuego fuerte, hasta que tengan puntos tostados.",

@@ -48,8 +48,8 @@ window.RECETAS_SEED.push({
     "En la cazuela, calienta un chorrito de aceite con la mitad de la mantequilla a fuego fuerte y dora la carne 8–10 minutos, girándola, hasta que tenga una costra marrón por todos los lados. Sácala a un plato.",
     "Baja a fuego medio, añade las verduras y rehógalas 8 minutos, hasta que la cebolla esté blanda y algo dorada. Devuelve la carne, vierte el vino con las especias y deja hervir 3 minutos para que se vaya el alcohol.",
     "Tapa, baja al mínimo y guisa de 2 horas y media a 3 horas, girando la pieza cada 40 minutos y añadiendo un chorrito de agua caliente si el líquido baja de un tercio de la altura de la carne. Está lista cuando un tenedor la atraviesa sin resistencia.",
-    "Saca la carne y déjala reposar tapada. Retira el romero, el laurel, el clavo y la canela, y tritura la salsa con sus verduras con la batidora hasta que quede lisa y brillante; si está líquida, redúcela 5 minutos a fuego medio. Añade el resto de la mantequilla y rectifica de sal.",
     "Prepara la polenta mientras termina el guiso: lleva a hervor 600 ml de agua con sal, echa la polenta en forma de lluvia batiendo con unas varillas y cuécela a fuego suave, removiendo a menudo, el tiempo que indique el paquete (de 5 a 40 minutos según el tipo), hasta que se despegue de las paredes. Fuera del fuego, mezcla el parmesano.",
+    "Saca la carne y déjala reposar tapada. Retira el romero, el laurel, el clavo y la canela, y tritura la salsa con sus verduras con la batidora hasta que quede lisa y brillante; si está líquida, redúcela 5 minutos a fuego medio. Añade el resto de la mantequilla y rectifica de sal.",
     "Corta la carne en lonchas de 1 cm, sírvelas sobre la polenta y cúbrelas con abundante salsa caliente."
   ],
   nutricion: { kcal: 665, prot: 46, hc: 60, grasa: 25 },
@@ -91,9 +91,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Si usas corteza, hiérvela 10 minutos en agua, escúrrela y córtala en tiras de 2 cm. Pincha las salchichas con un tenedor.",
+    "Si usas corteza, hiérvela 10 minutos en agua, escúrrela y córtala en tiras de 2 cm. Pica la cebolla, la zanahoria y el apio (si usas corteza, mientras hierve). Pincha las salchichas con un tenedor.",
     "En la cazuela con un chorrito de aceite, dora la costilla salpimentada a fuego medio-fuerte 8 minutos, hasta que esté bien tostada. Añade las salchichas, dóralas 3 minutos por todos los lados y saca toda la carne a un plato.",
-    "En la grasa que queda, añade la mantequilla y rehoga la cebolla, la zanahoria y el apio picados 10 minutos a fuego medio, hasta que estén blandos y empiecen a dorarse.",
+    "En la grasa que queda, añade la mantequilla y rehoga la cebolla, la zanahoria y el apio 10 minutos a fuego medio, hasta que estén blandos y empiecen a dorarse.",
     "Añade el tomate concentrado, remueve 1 minuto, vierte el vino y déjalo evaporar 2 minutos raspando el fondo para despegar lo tostado.",
     "Devuelve la costilla y la corteza (las salchichas, todavía no), cubre con el caldo, tapa y guisa a fuego suave 45 minutos.",
     "Mientras, separa las hojas de la col, quítales el nervio central duro y córtalas en tiras anchas. Lávalas y escúrrelas sin secarlas del todo.",
@@ -136,10 +136,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las cebollas, pártelas por la mitad y córtalas en juliana muy fina, casi transparente.",
     "En una sartén amplia, calienta el aceite con la mitad de la mantequilla a fuego medio-bajo, añade la cebolla con una pizca de sal y póchala tapada 20–25 minutos, removiendo de vez en cuando, hasta que esté blanda, dulce y apenas dorada. Si se pega, añade una cucharada de agua.",
-    "Mientras, corta el hígado en tiras de 1 cm de ancho y 4–5 cm de largo y sécalo con papel de cocina. No lo sales todavía: la sal en crudo lo endurece.",
+    "Mientras, pica el perejil y corta el hígado en tiras de 1 cm de ancho y 4–5 cm de largo y sécalo con papel de cocina. No lo sales todavía: la sal en crudo lo endurece.",
     "Para la polenta, lleva el agua a hervor con sal, échala en forma de lluvia batiendo con unas varillas y cuécela removiendo los minutos que indique el paquete (unos 5 la instantánea), hasta que esté espesa. Añade la otra mitad de la mantequilla y tápala.",
     "Sube el fuego de la cebolla al máximo, apártala a un lado de la sartén y pon el hígado en una sola capa. Saltéalo 2 minutos, removiendo, solo hasta que pierda el color rosado por fuera y siga jugoso por dentro.",
-    "Vierte el vino, mezcla el hígado con la cebolla y deja que el vino se evapore 1 minuto. Sala, añade pimienta y el perejil picado.",
+    "Vierte el vino, mezcla el hígado con la cebolla y deja que el vino se evapore 1 minuto. Sala, añade pimienta y el perejil.",
     "Sirve enseguida sobre la polenta: el hígado que espera o se pasa de punto se vuelve gomoso y amargo."
   ],
   nutricion: { kcal: 575, prot: 37, hc: 62, grasa: 19 },
@@ -177,13 +177,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Si el lomo no viene atado, átalo con hilo de cocina para que mantenga la forma. Sécalo y salpimiéntalo.",
-    "En una cazuela justa para la pieza, derrite la mantequilla con la mitad del aceite a fuego medio-fuerte y dora el lomo 8 minutos, girándolo, hasta que esté dorado por todos los lados.",
-    "Añade 2 dientes de ajo chafados, la salvia, el romero y la piel del limón (solo la parte amarilla, en tiras) y deja 1 minuto para que perfumen la grasa.",
-    "Calienta la leche y viértela: debe cubrir la carne hasta la mitad. Cuando rompa a hervir, baja al mínimo, tapa dejando una rendija y guisa 1 hora y media, girando la pieza cada 20 minutos.",
+    "Si el lomo no viene atado, átalo con hilo de cocina para que mantenga la forma. Sécalo y salpimiéntalo. Saca la piel del limón en tiras (solo la parte amarilla) y chafa 2 dientes de ajo.",
+    "En una cazuela justa para la pieza, derrite la mantequilla con la mitad del aceite a fuego medio-fuerte y dora el lomo 8 minutos, girándolo, hasta que esté dorado por todos los lados. Mientras, calienta la leche en un cazo.",
+    "Añade los ajos chafados, la salvia, el romero y la piel del limón y deja 1 minuto para que perfumen la grasa.",
+    "Vierte la leche caliente: debe cubrir la carne hasta la mitad. Cuando rompa a hervir, baja al mínimo, tapa dejando una rendija y guisa 1 hora y media, girando la pieza cada 20 minutos. Mientras, lava las espinacas y lamina el ajo restante.",
     "Verás que la leche se corta y forma grumos que se van dorando: es lo que tiene que pasar. Destapa los últimos 20 minutos para que la salsa se reduzca a unos grumos tostados y espesos de color avellana. Vigila el fondo para que no se queme.",
     "Saca la carne, déjala reposar 10 minutos tapada y quita el hilo. Retira de la salsa el romero y la piel de limón; puedes dejar los grumos, a la manera rústica, o aplastarlos con un tenedor para afinarla.",
-    "Mientras reposa, saltea las espinacas en una sartén con el resto del aceite y el ajo que queda laminado, 2–3 minutos a fuego fuerte, hasta que bajen. Sálalas.",
+    "Mientras reposa, saltea las espinacas en una sartén con el resto del aceite y el ajo laminado, 2–3 minutos a fuego fuerte, hasta que bajen. Sálalas.",
     "Corta el lomo en lonchas de 1 cm, cúbrelas con la salsa caliente y sírvelas con las espinacas."
   ],
   nutricion: { kcal: 550, prot: 48, hc: 15, grasa: 33 },
@@ -223,9 +223,9 @@ window.RECETAS_SEED.push({
     "Si el picantón no viene abierto, ponlo boca abajo y corta con unas tijeras a ambos lados del espinazo para retirarlo. Dale la vuelta y aplasta el esternón con la palma de la mano hasta que quede plano. Haz un par de cortes en la parte gruesa de los muslos.",
     "Chafa los ajos con su piel, pica las hojas de una rama de romero y mézclalo todo con la ralladura y el zumo de medio limón, 1 cda y media de aceite, la guindilla desmenuzada, sal y pimienta. Unta el pollo por ambas caras y déjalo 15 minutos (o hasta 12 horas en la nevera).",
     "Calienta a fuego medio una sartén grande de fondo grueso. Coloca el pollo con la piel hacia abajo, cúbrelo con un papel de horno y pon encima un peso: otra sartén con 2 o 3 latas dentro, o un ladrillo envuelto en papel de aluminio, como se hace en Toscana.",
-    "Cocina 15 minutos sin moverlo, hasta que la piel esté muy dorada y crujiente. Si se tuesta demasiado deprisa, baja un poco el fuego.",
+    "Cocina 15 minutos sin moverlo, hasta que la piel esté muy dorada y crujiente. Si se tuesta demasiado deprisa, baja un poco el fuego. Mientras, parte los cherrys por la mitad.",
     "Quita el peso, da la vuelta al pollo, añade la otra rama de romero y los ajos de la marinada, vuelve a poner el peso y cocina 12–15 minutos más. Está hecho cuando, al pinchar el muslo, el jugo sale transparente (74 °C en el centro).",
-    "Deja reposar el pollo 5 minutos sobre una tabla. Mientras, aliña la rúcula y los cherrys partidos por la mitad con el zumo del resto del limón, el aceite que queda y sal.",
+    "Deja reposar el pollo 5 minutos sobre una tabla. Mientras, aliña la rúcula y los cherrys con el zumo del resto del limón, el aceite que queda y sal.",
     "Trincha el pollo en 4 piezas y sírvelo con la ensalada y un poco de la grasa de la sartén por encima."
   ],
   nutricion: { kcal: 590, prot: 42, hc: 7, grasa: 42 },
@@ -264,8 +264,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Llena un bol con agua fría y el zumo de medio limón. Quita a las alcachofas las hojas exteriores duras hasta llegar a las tiernas de color amarillo pálido, corta el tercio superior y pela el tallo. Pártelas por la mitad, retira la pelusa del centro si tienen, córtalas en láminas de medio centímetro y échalas al agua con limón para que no se oscurezcan.",
-    "En una sartén con 1 cda de aceite, dora 2 dientes de ajo chafados 1 minuto a fuego medio. Añade las alcachofas escurridas, sal y 4 cucharadas de agua, tapa y cuécelas 12–15 minutos, removiendo de vez en cuando, hasta que estén tiernas al pincharlas. Destapa, deja que se evapore el agua, retira el ajo, añade la mitad del perejil picado y resérvalas tapadas.",
+    "Llena un bol con agua fría y el zumo de medio limón. Quita a las alcachofas las hojas exteriores duras hasta llegar a las tiernas de color amarillo pálido, corta el tercio superior y pela el tallo. Pártelas por la mitad, retira la pelusa del centro si tienen, córtalas en láminas de medio centímetro y échalas al agua con limón para que no se oscurezcan. Pica el perejil.",
+    "En una sartén con 1 cda de aceite, dora 2 dientes de ajo chafados 1 minuto a fuego medio. Añade las alcachofas escurridas, sal y 4 cucharadas de agua, tapa y cuécelas 12–15 minutos, removiendo de vez en cuando, hasta que estén tiernas al pincharlas. Destapa, deja que se evapore el agua, retira el ajo, añade la mitad del perejil y resérvalas tapadas.",
     "Mientras, corta los filetes de ternera en tiras de 1 cm de ancho y 5 cm de largo y sécalas bien con papel de cocina.",
     "En otra sartén amplia, calienta el resto del aceite con la mantequilla, el ajo restante chafado y el laurel a fuego medio 1 minuto, hasta que la mantequilla espume y el laurel perfume la grasa.",
     "Sube el fuego al máximo y añade la ternera en una sola capa (si no cabe holgada, hazla en dos tandas y júntalas al final). Saltéala 1–2 minutos, solo hasta que pierda el color rosado por fuera, y salpimiéntala.",
@@ -308,10 +308,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Corta las patatas en gajos, mézclalas con 1 cda de aceite, sal y unas hojas de romero y ásalas en una bandeja 35–40 minutos, girándolas a mitad, hasta que estén doradas.",
+    "Precalienta el horno a 210 °C. Corta las patatas en gajos y mézclalas en una bandeja con 1 cda de aceite, sal y unas hojas de romero.",
     "Seca el cordero con papel de cocina y sálalo. En la cazuela con el resto del aceite, dóralo a fuego fuerte 8–10 minutos, sin amontonarlo, hasta que tenga una costra dorada por todos los lados.",
     "Añade 2 dientes de ajo chafados, una rama de romero y la salvia, y rehoga 1 minuto. Vierte el vino y deja que se evapore 2 minutos.",
-    "Baja el fuego, tapa y guisa 40–45 minutos, añadiendo un chorrito de agua caliente si se queda seco. El cordero debe quedar tierno y casi sin líquido.",
+    "Baja el fuego, tapa y guisa 40–45 minutos, añadiendo un chorrito de agua caliente si se queda seco. El cordero debe quedar tierno y casi sin líquido. Mientras, asa las patatas 35–40 minutos, girándolas a mitad, hasta que estén doradas.",
     "Mientras, machaca en un mortero (o pica muy fino con el cuchillo) el ajo restante, las hojas de la otra rama de romero y las anchoas hasta formar una pasta, y dilúyela con el vinagre.",
     "Cuando el cordero esté tierno, sube el fuego, vierte la mezcla de anchoa y vinagre y remueve 2–3 minutos, hasta que el vinagre pierda el olor punzante y la salsa envuelva la carne.",
     "Prueba antes de salar, porque la anchoa ya aporta sal; añade pimienta y sirve el cordero con las patatas."
@@ -396,13 +396,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Tuesta el pan rallado en una sartén con 1 cda de aceite a fuego medio 2–3 minutos, removiendo, hasta que esté dorado.",
-    "Pásalo a un bol y mézclalo con el queso, las pasas picadas, los piñones, el perejil y el ajo picados muy finos, pimienta y 1 cda más de aceite: debe quedar como arena húmeda. Aparta 3 cucharadas para rebozar.",
+    "Precalienta el horno a 200 °C. Pica las pasas y pica muy finos el perejil y el ajo. Tuesta el pan rallado en una sartén con 1 cda de aceite a fuego medio 2–3 minutos, removiendo, hasta que esté dorado.",
+    "Pásalo a un bol y mézclalo con el queso, las pasas, los piñones, el perejil, el ajo, pimienta y 1 cda más de aceite: debe quedar como arena húmeda. Aparta 3 cucharadas para rebozar.",
     "Aplana los filetes de ternera con un rodillo entre dos hojas de papel de horno hasta dejarlos muy finos y córtalos por la mitad (unos 12 trozos). Sálalos ligeramente.",
     "Pon una cucharada de relleno sobre cada trozo, enróllalo apretando y mete los extremos hacia dentro.",
     "Corta la cebolla en gajos y separa las capas. Ensarta los rollitos en dos brochetas dobles (dos palillos paralelos, para que no giren), alternando rollito, hoja de laurel y trozo de cebolla.",
-    "Pinta las brochetas con media cucharada de aceite y pásalas por el pan reservado, apretando para que se pegue. Ásalas en una bandeja con papel 12–15 minutos y 2 minutos más con el grill, hasta que el pan esté dorado y crujiente. No las pases: la carne tan fina se seca enseguida.",
-    "Aliña la lechuga cortada en tiras con el zumo de medio limón, el resto del aceite y sal, y sirve las brochetas con el otro medio limón en gajos para exprimir por encima."
+    "Pinta las brochetas con media cucharada de aceite y pásalas por el pan reservado, apretando para que se pegue. Ásalas en una bandeja con papel 12–15 minutos y 2 minutos más con el grill, hasta que el pan esté dorado y crujiente. No las pases: la carne tan fina se seca enseguida. Mientras, corta la lechuga en tiras y el otro medio limón en gajos.",
+    "Aliña la lechuga con el zumo de medio limón, el resto del aceite y sal, y sirve las brochetas con los gajos de limón para exprimir por encima."
   ],
   nutricion: { kcal: 590, prot: 41, hc: 31, grasa: 34 },
   etiquetas: ["tradicional", "al horno", "alta en proteína", "para invitados", "poco especiada"],
@@ -440,7 +440,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Si usas palitos de madera, déjalos en remojo en agua 15 minutos para que no se quemen.",
-    "Corta el cordero en dados pequeños, de 1 a 1,5 cm, alternando si puedes trozos magros y trozos con algo de grasa: la grasa es la que da jugosidad. Ensártalos bien apretados, unos 8 o 10 por palito.",
+    "Mientras, corta el cordero en dados pequeños, de 1 a 1,5 cm, alternando si puedes trozos magros y trozos con algo de grasa: la grasa es la que da jugosidad. Ensártalos bien apretados, unos 8 o 10 por palito.",
     "Mezcla 1 cda de aceite con las hojas de romero muy picadas y pimienta, y pinta las brochetas.",
     "Prepara la ensalada: corta los tomates en gajos y la cebolla en pluma fina y alíñalos con un poco de aceite, sal gruesa y el orégano.",
     "Calienta la plancha a fuego fuerte hasta que humee. Asa las brochetas 2 minutos por cada lado (4–5 minutos en total), hasta que estén doradas por fuera y algo rosadas por dentro. Sálalas con sal gruesa justo al sacarlas.",
@@ -487,7 +487,7 @@ window.RECETAS_SEED.push({
     "Corta los tomates en trozos grandes sobre otro bol para no perder su jugo, sálalos y déjalos reposar: soltarán un caldo que luego empapará el pan.",
     "Corta el pan en dados de 2 cm y tuéstalo en la airfryer a 190 °C 4–5 minutos, sacudiendo la cesta a mitad, hasta que esté dorado y seco.",
     "Ensarta el pollo en 4 brochetas cortas que quepan en la cesta y ásalas a 200 °C 10–12 minutos, dándoles la vuelta a mitad, hasta que estén doradas por fuera y blancas y jugosas por dentro.",
-    "Mientras, añade a los tomates el pepino en medias lunas, la cebolla en pluma muy fina, el vinagre, el aceite y el pan tostado. Mezcla y deja 5 minutos: el pan debe quedar jugoso por fuera y todavía algo crujiente por dentro.",
+    "Mientras, corta el pepino en medias lunas y la cebolla en pluma muy fina y añádelos a los tomates con el vinagre, el aceite y el pan tostado. Mezcla y deja 5 minutos: el pan debe quedar jugoso por fuera y todavía algo crujiente por dentro.",
     "Diluye el pesto restante con el zumo de medio limón. Sirve la panzanella con las brochetas encima, un hilo de ese pesto y unas hojas de albahaca."
   ],
   nutricion: { kcal: 545, prot: 41, hc: 33, grasa: 27 },
@@ -527,13 +527,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el brócoli en ramilletes pequeños y pela y trocea el tallo. Cuécelo en agua hirviendo con sal 3 minutos, hasta que esté tierno pero firme, y escúrrelo bien.",
-    "Mientras, aplana un poco los filetes de pavo, sálalos ligeramente (el pecorino ya es salado) y pásalos por la harina, sacudiendo el exceso.",
+    "Pon a hervir agua con sal en la cazuela. Mientras, corta el brócoli en ramilletes pequeños y pela y trocea el tallo. Cuécelo en el agua hirviendo 3 minutos, hasta que esté tierno pero firme, y escúrrelo bien.",
+    "Mientras, aplana un poco los filetes de pavo, sálalos ligeramente (el pecorino ya es salado) y pásalos por la harina, sacudiendo el exceso. Lamina el ajo.",
     "Tuesta la pimienta en la sartén en seco a fuego medio 30 segundos, hasta que huela: así suelta todo su aroma. Pásala a un plato.",
     "En la misma sartén, calienta casi todo el aceite con la mitad de la mantequilla a fuego medio-fuerte y dora los filetes 2 minutos por cada lado. Sácalos a un plato.",
     "Baja el fuego, vierte el caldo, raspa el fondo y añade la mitad de la pimienta tostada. Deja que reduzca a la mitad, unos 2 minutos, y aparta la sartén del fuego 1 minuto: si el caldo hierve, el queso se agrumará.",
     "Añade el resto de la mantequilla y el pecorino poco a poco, removiendo con energía hasta tener una salsa cremosa y lisa. Devuelve el pavo con su jugo y dale la vuelta para que se cubra bien.",
-    "Seca la cazuela, dora en ella el ajo laminado y la guindilla desmenuzada con unas gotas de aceite 1 minuto a fuego medio, añade el brócoli y saltéalo 2 minutos. Termínalo con la ralladura y el zumo del limón.",
+    "Seca la cazuela, dora en ella el ajo y la guindilla desmenuzada con unas gotas de aceite 1 minuto a fuego medio, añade el brócoli y saltéalo 2 minutos. Termínalo con la ralladura y el zumo del limón.",
     "Sirve el pavo con su salsa, el resto de la pimienta por encima y el brócoli al lado."
   ],
   nutricion: { kcal: 440, prot: 46, hc: 11, grasa: 23 },
@@ -576,8 +576,8 @@ window.RECETAS_SEED.push({
     "En un bol, aplasta con un tenedor la 'nduja con la miel, el zumo del limón y el orégano hasta tener una pasta untable.",
     "Seca los contramuslos, sálalos ligeramente y úntalos con dos tercios de la pasta, metiendo una parte bajo la piel.",
     "En una bandeja de horno grande, mezcla las patatas, los pimientos y la cebolla con el aceite y sal, y repártelos en una sola capa. Coloca el pollo entre las verduras, con la piel hacia arriba, sin taparlas del todo para que se tuesten.",
-    "Hornea 40 minutos, hasta que la piel esté dorada y crujiente, las patatas tiernas y tostadas por los bordes y el jugo salga transparente al pinchar el muslo. A mitad de cocción, pinta el pollo con el resto de la pasta y da la vuelta a las verduras.",
-    "Deja reposar 5 minutos, mezcla las verduras con los jugos rojos de la bandeja y sirve con el perejil picado por encima."
+    "Hornea 40 minutos, hasta que la piel esté dorada y crujiente, las patatas tiernas y tostadas por los bordes y el jugo salga transparente al pinchar el muslo. A mitad de cocción, pinta el pollo con el resto de la pasta y da la vuelta a las verduras. Mientras, pica el perejil.",
+    "Deja reposar 5 minutos, mezcla las verduras con los jugos rojos de la bandeja y sirve con el perejil por encima."
   ],
   nutricion: { kcal: 775, prot: 41, hc: 51, grasa: 45 },
   etiquetas: ["creativa", "al horno", "picante", "alta en proteína"],
@@ -618,7 +618,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las espinacas, ponlas en un bol apto para microondas tapado y cuécelas 1 minuto y medio a máxima potencia. Escúrrelas apretando con las manos hasta quitarles toda el agua.",
-    "En otro bol, mezcla el pavo con el huevo, el pan rallado, la leche, el parmesano, el ajo y el perejil muy picados, sal y pimienta. Amasa solo hasta integrar; si la masa se pega, mójate las manos.",
+    "Pica muy finos el ajo y el perejil. En otro bol, mezcla el pavo con el huevo, el pan rallado, la leche, el parmesano, el ajo, el perejil, sal y pimienta. Amasa solo hasta integrar; si la masa se pega, mójate las manos.",
     "Sobre un papel de horno, extiende la masa en un rectángulo de 1,5 cm de grosor (unos 20 x 15 cm). Cúbrela con las espinacas y el provolone, dejando libres 2 cm en los bordes.",
     "Enróllala por el lado largo con ayuda del papel y sella bien los extremos para que no se salga el queso. Ponla en una fuente apta para microondas con la unión hacia abajo.",
     "Mezcla el tomate triturado con el orégano, el aceite y una pizca de sal, y viértelo alrededor del rollo.",
@@ -661,10 +661,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Parte las peras por la mitad a lo largo, quítales el corazón con una cucharilla y colócalas en una bandeja con el corte hacia arriba. Reparte encima la mantequilla en trocitos y las hojas de romero y ásalas 20 minutos, hasta que estén tiernas y doradas por los bordes. Añade las nueces troceadas a la bandeja los últimos 4 minutos para que se tuesten.",
-    "Mientras, seca las chuletas con papel de cocina, haz unos cortes en la grasa del borde para que no se curven al cocinarse y salpimiéntalas.",
+    "Precalienta el horno a 200 °C y trocea las nueces. Parte las peras por la mitad a lo largo, quítales el corazón con una cucharilla y colócalas en una bandeja con el corte hacia arriba. Reparte encima la mantequilla en trocitos y las hojas de romero y ásalas 20 minutos, hasta que estén tiernas y doradas por los bordes. Añade las nueces a la bandeja los últimos 4 minutos para que se tuesten.",
+    "Mientras, seca las chuletas con papel de cocina, haz unos cortes en la grasa del borde para que no se curven al cocinarse y salpimiéntalas. Corta el radicchio en cuartos.",
     "Calienta la sartén con un hilo de aceite a fuego fuerte y dora las chuletas 4–5 minutos por cada lado, hasta que estén bien doradas y el centro llegue a 63 °C (jugoso y apenas rosado). Sácalas a un plato y tápalas.",
-    "En la misma sartén, a fuego medio, marca el radicchio cortado en cuartos 2 minutos por cada lado, hasta que esté tostado y algo blando. Sálalo y resérvalo junto a la carne.",
+    "En la misma sartén, a fuego medio, marca el radicchio 2 minutos por cada lado, hasta que esté tostado y algo blando. Sálalo y resérvalo junto a la carne.",
     "Baja el fuego, vierte el vino y raspa el fondo 1 minuto. Añade la nata y el gorgonzola en trozos y remueve 2 minutos a fuego suave, sin que llegue a hervir con fuerza, hasta que el queso se funda en una salsa lisa. Añade el jugo que hayan soltado las chuletas y pimienta.",
     "Sirve las chuletas con la salsa por encima, el radicchio y las peras asadas al lado, y esparce las nueces tostadas."
   ],
@@ -708,8 +708,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Corta la calabaza en dados de 2 cm, mézclala en una bandeja con la salvia, un hilo de aceite y sal, y ásala 25 minutos, hasta que esté tierna y con los bordes dorados.",
     "En una fuente pequeña, mezcla las uvas con el romero, la miel y 1 cda de balsámico. Mételas en el horno junto a la calabaza los últimos 15 minutos, hasta que empiecen a reventar.",
     "Mientras, saca el magret de la nevera, sécalo y haz cortes en rombo en la grasa sin llegar a la carne. Salpimiéntalo.",
-    "Pon el magret con la grasa hacia abajo en la sartén fría, enciende a fuego medio y cocínalo 8–10 minutos, retirando la grasa que suelta, hasta que la piel quede fina, dorada y crujiente. Dale la vuelta y cocina 3–4 minutos más, para un punto rosado (57 °C en el centro). Déjalo reposar 5 minutos sobre una tabla.",
-    "Quita casi toda la grasa de la sartén, rehoga la chalota picada 2 minutos, añade el vino y el resto del balsámico y deja reducir 2 minutos, hasta que espese como un almíbar. Añade el jugo de las uvas asadas.",
+    "Pon el magret con la grasa hacia abajo en la sartén fría, enciende a fuego medio y cocínalo 8–10 minutos, retirando la grasa que suelta (mientras, pica la chalota), hasta que la piel quede fina, dorada y crujiente. Dale la vuelta y cocina 3–4 minutos más, para un punto rosado (57 °C en el centro). Déjalo reposar 5 minutos sobre una tabla.",
+    "Quita casi toda la grasa de la sartén, rehoga la chalota 2 minutos, añade el vino y el resto del balsámico y deja reducir 2 minutos, hasta que espese como un almíbar. Añade el jugo de las uvas asadas.",
     "Aplasta la calabaza con un tenedor junto con la mantequilla y la salvia asada hasta tener un puré rústico. Rectifica de sal.",
     "Corta el magret en lonchas al bies y sírvelo sobre el puré, con las uvas y la salsa por encima."
   ],
@@ -749,7 +749,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre bien la ricotta; si suelta suero, déjala 5 minutos en un colador. Mézclala en un bol con la ralladura del limón, el cebollino picado, una pizca de sal y pimienta hasta que quede cremosa.",
+    "Escurre bien la ricotta; si suelta suero, déjala 5 minutos en un colador y, mientras, pica el cebollino. Mézclala en un bol con la ralladura del limón, el cebollino, una pizca de sal y pimienta hasta que quede cremosa.",
     "Extiende las lonchas de bresaola de dos en dos, ligeramente solapadas. Pon una cucharada de ricotta en un extremo y enrolla formando un canutillo. Salen unos 8 rollitos.",
     "Escurre las alcachofas y córtalas en cuartos. Trocea las nueces con las manos.",
     "Aliña la rúcula con el aceite, el zumo de medio limón, sal y pimienta.",
@@ -836,12 +836,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la ternera y el cerdo picados con el parmesano, el orégano, sal y pimienta. Amasa lo justo, porque si la trabajas mucho queda dura, y divide en 4 bolas.",
-    "Aplasta cada bola en un disco de 1 cm, algo más ancho que el pan. Pon la mozzarella en dados en el centro de dos discos, cúbrelos con los otros dos y sella bien los bordes pellizcándolos para que el queso no se escape.",
+    "Corta la mozzarella en dados. Mezcla la ternera y el cerdo picados con el parmesano, el orégano, sal y pimienta. Amasa lo justo, porque si la trabajas mucho queda dura, y divide en 4 bolas.",
+    "Aplasta cada bola en un disco de 1 cm, algo más ancho que el pan. Pon la mozzarella en el centro de dos discos, cúbrelos con los otros dos y sella bien los bordes pellizcándolos para que el queso no se escape.",
     "Haz con el pulgar un pequeño hueco en el centro de cada hamburguesa: así no se abomban al cocinarse.",
     "Abre los panes y tuéstalos por el lado del corte en la sartén caliente, 1 minuto. Resérvalos.",
-    "Pon unas gotas de aceite en la sartén y cocina las hamburguesas a fuego medio-fuerte 4–5 minutos por cada lado, hasta que estén bien doradas por fuera y hechas por dentro, sin rastro rosado por llevar cerdo. Tápalas el último minuto para que el queso se funda.",
-    "Corta el tomate en rodajas. Unta la base del pan con el pesto rojo y monta con la rúcula, la hamburguesa y el tomate. Sirve enseguida."
+    "Pon unas gotas de aceite en la sartén y cocina las hamburguesas a fuego medio-fuerte 4–5 minutos por cada lado, hasta que estén bien doradas por fuera y hechas por dentro, sin rastro rosado por llevar cerdo. Tápalas el último minuto para que el queso se funda. Mientras, corta el tomate en rodajas.",
+    "Unta la base del pan con el pesto rojo y monta con la rúcula, la hamburguesa y el tomate. Sirve enseguida."
   ],
   nutricion: { kcal: 775, prot: 44, hc: 52, grasa: 43 },
   etiquetas: ["creativa", "rápida", "para niños", "una sola sartén", "poco especiada"],
@@ -879,9 +879,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el muslo de pavo en 4 trozos grandes, sécalo con papel de cocina y salpimiéntalo. Corta la panceta en tiras.",
+    "Corta el muslo de pavo en 4 trozos grandes, sécalo con papel de cocina y salpimiéntalo. Corta la panceta en tiras, la cebolla en gajos y las zanahorias en rodajas gruesas.",
     "En la sartén con el aceite, dora la panceta a fuego medio 3 minutos y sácala. En la misma grasa, dora el pavo a fuego fuerte 3 minutos por cada lado, hasta que esté bien tostado, y pásalo a la olla lenta.",
-    "En la misma sartén, rehoga la cebolla en gajos y las zanahorias en rodajas gruesas 4 minutos. Vierte el vino, raspa el fondo y deja hervir 2 minutos para que se evapore el alcohol, que en la olla lenta no se iría.",
+    "En la misma sartén, rehoga la cebolla y las zanahorias 4 minutos. Vierte el vino, raspa el fondo y deja hervir 2 minutos para que se evapore el alcohol, que en la olla lenta no se iría.",
     "Vuelca todo en la olla lenta con la panceta, las castañas, la salvia, el romero y el caldo. El líquido debe cubrir la carne solo hasta la mitad.",
     "Tapa y cocina 6 horas en modo bajo (o 3 horas y media en alto), hasta que el pavo se deshaga al presionarlo con un tenedor.",
     "Si la salsa ha quedado muy líquida, pásala a la sartén y redúcela 5 minutos a fuego fuerte; las castañas que se deshagan la espesarán. Retira el romero.",

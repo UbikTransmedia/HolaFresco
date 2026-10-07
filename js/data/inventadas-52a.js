@@ -36,12 +36,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C con calor arriba y abajo. Desmiga el pollo con dos tenedores en hebras finas: así se enrolla bien y no rompe la tortilla.",
-    "Pica media cebolla y póchala en la sartén con 1 cucharada de aceite a fuego medio 5 minutos. Añade el comino y el pimentón, remueve 20 segundos y agrega uno de los tomates rallado. Cocina 4 minutos, hasta que espese.",
+    "Pica media cebolla y ralla uno de los tomates. Pocha la cebolla en la sartén con 1 cucharada de aceite a fuego medio 5 minutos. Añade el comino y el pimentón, remueve 20 segundos y agrega el tomate rallado. Cocina 4 minutos, hasta que espese.",
     "Incorpora el pollo y 2 cucharadas de agua y remueve 2 minutos: el pollo asado ya está hecho, solo quieres que se empape de la salsa y recupere jugosidad. Prueba de sal.",
     "Calienta las tortillas 30 segundos en el microondas envueltas en un paño húmedo, para que estén flexibles y no se agrieten al enrollarlas.",
     "Pon una tira de relleno en el borde de cada tortilla, enróllala bien apretada y colócala en la bandeja con el cierre hacia abajo, que así no se abre. Pinta por encima con el resto del aceite.",
     "Hornea 12-15 minutos, hasta que estén doradas y crujientes en los extremos.",
-    "Mientras, prepara el pico de gallo con el otro tomate, la otra media cebolla y la mitad del cilantro picados, zumo de media lima y sal. Machaca el aguacate con el resto de la lima y una pizca de sal para el guacamole.",
+    "Mientras, pica en dados el otro tomate y la otra media cebolla, pica el cilantro y prepara el pico de gallo mezclándolos con la mitad del cilantro, el zumo de media lima y sal. Machaca el aguacate con el resto de la lima y una pizca de sal para el guacamole.",
     "Sirve las flautas recién salidas con el guacamole, la nata agria, el pico de gallo, el queso fresco desmenuzado y el cilantro restante."
   ],
   nutricion: { kcal: 760, prot: 45, hc: 58, grasa: 38 },
@@ -81,12 +81,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los huevos en un cazo con agua fría, llévalos a ebullición y cuécelos 10 minutos. Enfríalos en agua con hielo para que se pelen fácil y la yema no se ponga verde.",
-    "Pica la cebolla, el pimiento y los ajos y póchalos en la cazuela con el aceite a fuego medio 8 minutos, hasta que la cebolla esté transparente. Así la base queda dulce y no cruda.",
-    "Ralla los tomates (desecha la piel), añádelos con una pizca de sal y cocina 8 minutos, hasta que pierdan el agua y el aceite asome por los bordes.",
+    "Pica la cebolla, el pimiento y los ajos y póchalos en la cazuela con el aceite a fuego medio 8 minutos, hasta que la cebolla esté transparente. Así la base queda dulce y no cruda. Mientras, ralla los tomates (desecha la piel).",
+    "Añade los tomates con una pizca de sal y cocina 8 minutos, hasta que pierdan el agua y el aceite asome por los bordes.",
     "Aparta del fuego, añade el pimentón y remueve 20 segundos: fuera del fuego no se quema ni amarga.",
     "Vierte el caldo, lleva a ebullición y cuece 5 minutos. Incorpora el arroz cocido y deja 2 minutos solo para calentarlo; si lo hierves más, se pasa y engorda la sopa.",
-    "Prueba de sal y apaga. Añade la mitad de la hierbabuena en hojas y deja reposar 2 minutos tapado para que perfume.",
-    "Sirve en plato hondo con el huevo duro picado por encima y el resto de la hierbabuena."
+    "Prueba de sal y apaga. Añade la mitad de la hierbabuena en hojas y deja reposar 2 minutos tapado para que perfume. Mientras, pela y pica los huevos.",
+    "Sirve en plato hondo con el huevo duro por encima y el resto de la hierbabuena."
   ],
   nutricion: { kcal: 410, prot: 12, hc: 50, grasa: 18 },
   etiquetas: ["aprovechamiento", "de cuchara", "ligera", "verano", "económica", "tradicional", "poco especiada"],
@@ -126,9 +126,9 @@ window.RECETAS_SEED.push({
     "Lamina los ajos y dóralos en la cazuela con el aceite a fuego medio-bajo 2 minutos, hasta que estén de color avellana claro. Si se oscurecen amargan, así que vigílalos.",
     "Añade el jamón y saltea 1 minuto. Incorpora el pan y remueve 2 minutos para que se empape del aceite y se tueste un poco.",
     "Aparta la cazuela del fuego, espolvorea el pimentón y remueve 20 segundos para que no se queme.",
-    "Vierte el caldo caliente, lleva a ebullición y cuece a fuego suave 10 minutos, hasta que el pan se haya hinchado y la sopa tenga cuerpo. Prueba de sal (el jamón ya sala).",
+    "Vierte el caldo caliente, lleva a ebullición y cuece a fuego suave 10 minutos, hasta que el pan se haya hinchado y la sopa tenga cuerpo. Prueba de sal (el jamón ya sala). Mientras, pica el perejil.",
     "Casca los huevos sobre la sopa con cuidado, tapa y cuece a fuego mínimo 3-4 minutos, hasta que la clara esté cuajada y la yema siga líquida.",
-    "Sirve en cuenco con cuidado de no romper el huevo y con un poco de perejil picado por encima."
+    "Sirve en cuenco con cuidado de no romper el huevo y con un poco del perejil por encima."
   ],
   nutricion: { kcal: 430, prot: 21, hc: 30, grasa: 25 },
   etiquetas: ["aprovechamiento", "de cuchara", "invierno", "tradicional", "económica", "rápida", "sin verduras", "poco especiada"],
@@ -167,14 +167,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica a cuchillo muy fina la carne del cocido y el jamón. A cuchillo y no con picadora: así quedan trocitos que se notan al morder y no una pasta.",
-    "Funde la mantequilla con 1 cucharada de aceite en una cazuela a fuego medio y pocha la cebolla muy picada 5 minutos. Añade la carne y el jamón y rehoga 2 minutos.",
+    "Pica muy fina la cebolla y pon a calentar la leche en un cazo. Pica a cuchillo muy fina la carne del cocido y el jamón. A cuchillo y no con picadora: así quedan trocitos que se notan al morder y no una pasta.",
+    "Funde la mantequilla con 1 cucharada de aceite en una cazuela a fuego medio y pocha la cebolla 5 minutos. Añade la carne y el jamón y rehoga 2 minutos.",
     "Agrega 60 g de harina y remueve 2 minutos sin parar para que se tueste: la harina cruda deja sabor a engrudo.",
     "Vierte la leche caliente poco a poco sin dejar de remover con varillas, para que no salgan grumos. Cocina 10-12 minutos a fuego medio-bajo, hasta que la masa se despegue de las paredes. Sazona con nuez moscada y sal.",
-    "Extiende la masa en una fuente, cúbrela con film a piel (tocando la masa, así no hace costra) y déjala enfriar al menos 2 horas en la nevera, hasta que esté firme.",
+    "Extiende la masa en una fuente, cúbrela con film a piel (tocando la masa, así no hace costra) y déjala enfriar al menos 2 horas en la nevera, hasta que esté firme. Antes de sacarla, bate los huevos, lava la lechuga y córtala en tiras y corta el tomate en gajos.",
     "Forma las croquetas con dos cucharas o con las manos untadas en aceite. Pásalas por la harina restante, por el huevo batido y por el pan rallado.",
     "Fríelas en abundante aceite a 180 °C (una miga de pan debe burbujear al instante), pocas a la vez para que no baje la temperatura, 2 minutos, hasta que estén doradas. Escúrrelas sobre papel.",
-    "Sirve con la lechuga en tiras y el tomate en gajos aliñados con aceite y sal."
+    "Sirve con la lechuga y el tomate aliñados con aceite y sal."
   ],
   nutricion: { kcal: 850, prot: 42, hc: 70, grasa: 45 },
   etiquetas: ["aprovechamiento", "tradicional", "frito", "para niños", "congelable", "poco especiada"],
@@ -213,7 +213,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Si la pasta sobrante está apelmazada, sepárala con las manos mojadas: no la recuezas, que ya está hecha y se pasaría.",
-    "Mezcla en un bol el tomate triturado con el ajo rallado, el orégano, el aceite, sal y pimienta. Es una salsa cruda: se cocinará en el horno y quedará más fresca.",
+    "Ralla el ajo y mézclalo en un bol con el tomate triturado, el orégano, el aceite, sal y pimienta. Es una salsa cruda: se cocinará en el horno y quedará más fresca.",
     "Trocea las verduras asadas en dados de 2 cm y la mozzarella en cubos pequeños.",
     "Bate los huevos con la mitad del parmesano y añádelos al bol con la pasta, la salsa, las verduras y dos tercios de la mozzarella. Mezcla bien: el huevo es el que liga el timbal para que se pueda cortar en porciones.",
     "Pasa la mezcla a una fuente pequeña untada con unas gotas de aceite, aprieta un poco con la cuchara y cubre con el resto de mozzarella y parmesano.",
@@ -259,11 +259,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca el queso crema de la nevera 10 minutos antes: a temperatura ambiente se mezcla sin grumos.",
-    "Lamina el pepino muy fino y mézclalo con el vinagre, el azúcar, una pizca de sal y la mitad del eneldo picado. Déjalo 10 minutos: es un encurtido rápido que pone el contrapunto ácido a la grasa del salmón.",
+    "Saca el queso crema de la nevera 10 minutos antes: a temperatura ambiente se mezcla sin grumos. Mientras, pica el eneldo, el cebollino y las alcaparras.",
+    "Lamina el pepino muy fino y mézclalo con el vinagre, el azúcar, una pizca de sal y la mitad del eneldo. Déjalo 10 minutos: es un encurtido rápido que pone el contrapunto ácido a la grasa del salmón.",
     "Desmiga el salmón asado con un tenedor en lascas, sin aplastarlo: la gracia de las rillettes es que se note la textura del pescado.",
     "Pica el salmón ahumado en tiras finas. Aporta el sabor ahumado y la sal, así que no añadas más sal hasta el final.",
-    "En un bol, mezcla el queso crema con el yogur, la ralladura del limón y 1 cucharada de su zumo. Incorpora los dos salmones, las alcaparras picadas, el resto del eneldo y el cebollino picados, y pimienta. Mezcla con movimientos envolventes.",
+    "En un bol, mezcla el queso crema con el yogur, la ralladura del limón y 1 cucharada de su zumo. Incorpora los dos salmones, las alcaparras, el resto del eneldo y el cebollino, y pimienta. Mezcla con movimientos envolventes.",
     "Prueba y ajusta de limón y sal. Si tienes tiempo, déjalo 10 minutos en la nevera para que se asiente.",
     "Tuesta el pan de centeno y sirve las rillettes en un cuenco con las tostas y el pepino escurrido al lado."
   ],
@@ -390,12 +390,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz en un colador hasta que el agua salga clara, para quitarle el almidón suelto y que quede suelto. Cuécelo en 200 ml de agua con sal, tapado y a fuego mínimo 12 minutos; reposa 5 minutos sin destapar.",
-    "Mientras, pon en una cazuela seca a fuego medio el curry y el garam masala y tuéstalos 30 segundos, hasta que huelan. Tostar las especias en seco despierta sus aceites aromáticos.",
-    "Añade 2 cucharadas de la leche de coco, el ajo y el jengibre rallados y remueve 1 minuto: la grasa del coco sofríe las especias como lo haría el aceite.",
-    "Incorpora las lentejas con su caldo y el resto de la leche de coco. Cuece 8 minutos a fuego suave, removiendo, hasta que espese. Si tus lentejas llevaban chorizo, retíralo y pícalo para añadirlo al final.",
+    "Mientras, ralla el ajo y el jengibre y pon en una cazuela seca a fuego medio el curry y el garam masala y tuéstalos 30 segundos, hasta que huelan. Tostar las especias en seco despierta sus aceites aromáticos.",
+    "Añade 2 cucharadas de la leche de coco, el ajo y el jengibre y remueve 1 minuto: la grasa del coco sofríe las especias como lo haría el aceite.",
+    "Incorpora las lentejas con su caldo y el resto de la leche de coco. Cuece 8 minutos a fuego suave, removiendo, hasta que espese. Si tus lentejas llevaban chorizo, retíralo y pícalo para añadirlo al final. Mientras cuece, pica el cilantro.",
     "Aplasta un tercio de las lentejas contra la pared de la cazuela con una cuchara: el almidón liga la salsa y la vuelve cremosa como un dal.",
     "Añade las espinacas a puñados y remueve 1 minuto, hasta que se encojan. Ajusta de sal y termina con el zumo de la lima.",
-    "Sirve el curry junto al arroz con cilantro picado por encima."
+    "Sirve el curry junto al arroz con el cilantro por encima."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 78, grasa: 22 },
   etiquetas: ["aprovechamiento", "de cuchara", "picante suave", "económica", "una sola olla", "rápida"],
@@ -430,11 +430,10 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta", nota: "tostado" }
   ],
   pasos: [
-    "Calienta el agua hasta que empiece a humear, sin que hierva (unos 80 °C). Apaga, añade el té y deja infusionar 2 minutos; cuela. El agua hirviendo amarga el té verde.",
+    "Calienta el agua hasta que empiece a humear, sin que hierva (unos 80 °C). Mientras se calienta, corta la cebolleta en aros finos, ralla el jengibre y corta el alga nori en tiras finas con unas tijeras. Apaga, añade el té y deja infusionar 2 minutos; cuela. El agua hirviendo amarga el té verde.",
     "Añade la salsa de soja al té: será el caldo, ligero y aromático.",
     "Calienta el arroz en el microondas 1 minuto con una cucharada de agua por encima, tapado, para que recupere humedad sin secarse.",
     "Desmiga el salmón en lascas y caliéntalo 20 segundos en el microondas, solo para templarlo; si lo calientas mucho, se reseca.",
-    "Corta la cebolleta en aros finos, ralla el jengibre y corta el alga nori en tiras finas con unas tijeras.",
     "Reparte el arroz en dos cuencos, coloca encima el salmón y vierte el té caliente hasta cubrir a medias el arroz.",
     "Termina con la nori, la cebolleta, el jengibre y el sésamo, y come enseguida, antes de que el arroz se empape del todo."
   ],
@@ -474,9 +473,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta todas las verduras en tiras finas como cerillas, de unos 5 cm. El corte fino hace que se cocinen a la vez y que la tortita quede plana y crujiente.",
+    "Corta todas las verduras en tiras finas como cerillas, de unos 5 cm, y la cebolleta en tramos de 4 cm. El corte fino hace que se cocinen a la vez y que la tortita quede plana y crujiente.",
     "En un bol, mezcla la harina con una pizca de sal, los huevos y el agua muy fría, solo hasta que no queden grumos secos. El agua fría y no batir de más evitan que se desarrolle el gluten: así la tortita queda crujiente y no correosa.",
-    "Añade las verduras y la cebolleta en tramos de 4 cm y mezcla: debe haber más verdura que masa, la masa solo la une.",
+    "Añade las verduras y la cebolleta y mezcla: debe haber más verdura que masa, la masa solo la une.",
     "Prepara la salsa mezclando la soja, el vinagre de arroz, el sésamo, la guindilla y 1 cucharada de agua.",
     "Calienta 1 cucharada y media de aceite en una sartén grande a fuego medio-alto. Vierte la mitad de la masa y extiéndela con la espátula en una capa fina de unos 20 cm.",
     "Cocina 3-4 minutos, hasta que los bordes estén dorados y crujientes, presionando con la espátula para que toda la superficie toque el aceite. Dale la vuelta con ayuda de un plato y cocina 3 minutos más.",
@@ -518,14 +517,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Trocea la carcasa con las manos o unas tijeras y ponla en una cazuela con el agua fría, la zanahoria, el puerro y el apio en trozos grandes y el laurel. Empezar en frío extrae mejor el sabor de los huesos.",
+    "Corta en trozos grandes la zanahoria, el puerro y el apio. Trocea la carcasa con las manos o unas tijeras y ponla en una cazuela con el agua fría, la zanahoria, el puerro y el apio y el laurel. Empezar en frío extrae mejor el sabor de los huesos.",
     "Lleva a ebullición y retira la espuma con una cuchara: son proteínas que enturbian el caldo.",
     "Baja a fuego suave, que apenas borbotee, y cuece 40 minutos destapado. Si hierve fuerte, la grasa se emulsiona y el caldo queda turbio.",
-    "Mientras, cuece el huevo 10 minutos, enfríalo en agua fría y pícalo.",
+    "Mientras, cuece el huevo 10 minutos, enfríalo en agua fría, pélalo y pícalo. Pica también el perejil.",
     "Cuela el caldo, sálalo y prueba: deberías tener cerca de 1 litro. Reserva la zanahoria cocida y córtala en rodajas.",
     "Vuelve a llevar el caldo a ebullición, añade los fideos y cuece el tiempo del paquete, unos 4 minutos.",
     "Incorpora el pollo desmigado y la zanahoria en el último minuto, solo para calentar.",
-    "Sirve con el huevo duro y el perejil picados por encima."
+    "Sirve con el huevo duro y el perejil por encima."
   ],
   nutricion: { kcal: 310, prot: 22, hc: 30, grasa: 11 },
   etiquetas: ["aprovechamiento", "de cuchara", "ligera", "invierno", "para niños", "económica", "reconfortante", "poco especiada", "bajo en colesterol"],
@@ -564,12 +563,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 1,5 cm y cuécelas en el microondas 6 minutos tapadas con 2 cucharadas de agua, hasta que estén casi tiernas. Precocerlas permite que luego se doren sin quemarse por fuera y quedar crudas por dentro.",
+    "Pela las patatas, córtalas en dados de 1,5 cm y cuécelas en el microondas 6 minutos tapadas con 2 cucharadas de agua, hasta que estén casi tiernas. Mientras, corta la cebolla y el pimiento en dados, la carne en dados pequeños y pica el perejil. Precocerlas permite que luego se doren sin quemarse por fuera y quedar crudas por dentro.",
     "Sécalas bien y ponlas en una sartén grande con el aceite a fuego medio-alto. No las muevas durante 4 minutos para que hagan costra; luego dales la vuelta y repite.",
-    "Añade la cebolla y el pimiento en dados y cocina 6 minutos, removiendo de vez en cuando, hasta que estén blandos y con los bordes tostados.",
-    "Corta la carne en dados pequeños e incorpórala con la mantequilla, el pimentón y la salsa worcestershire. Aplasta todo ligeramente con la espátula y deja 3 minutos sin tocar para que la carne se tueste sin resecarse.",
+    "Añade la cebolla y el pimiento y cocina 6 minutos, removiendo de vez en cuando, hasta que estén blandos y con los bordes tostados.",
+    "Incorpora la carne con la mantequilla, el pimentón y la salsa worcestershire. Aplasta todo ligeramente con la espátula y deja 3 minutos sin tocar para que la carne se tueste sin resecarse.",
     "Salpimienta, haz dos huecos en el hash y casca un huevo en cada uno. Tapa y cocina a fuego medio-bajo 3-4 minutos, hasta que la clara cuaje y la yema siga líquida.",
-    "Sirve directamente en la sartén con perejil picado y pimienta recién molida."
+    "Sirve directamente en la sartén con el perejil y pimienta recién molida."
   ],
   nutricion: { kcal: 680, prot: 40, hc: 50, grasa: 35 },
   etiquetas: ["aprovechamiento", "una sola sartén", "brunch", "saciante", "económica", "poco especiada"],
@@ -605,13 +604,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre muy bien los garbanzos y sécalos con papel: si llegan húmedos a la sartén, se cuecen en vez de dorarse.",
-    "Calienta 1 cucharada de aceite en una sartén grande a fuego fuerte y saltea las setas troceadas 4 minutos, sin removerlas al principio, hasta que suelten el agua y se doren. Sálalas al final, porque la sal temprana les hace soltar agua y cocerse.",
-    "Añade los ajos laminados y el jamón y saltea 1 minuto.",
+    "Escurre muy bien los garbanzos y sécalos con papel: si llegan húmedos a la sartén, se cuecen en vez de dorarse. Trocea las setas, lamina los ajos y pica el perejil.",
+    "Calienta 1 cucharada de aceite en una sartén grande a fuego fuerte y saltea las setas 4 minutos, sin removerlas al principio, hasta que suelten el agua y se doren. Sálalas al final, porque la sal temprana les hace soltar agua y cocerse.",
+    "Añade los ajos y el jamón y saltea 1 minuto.",
     "Incorpora los garbanzos con el resto del aceite y deja 3 minutos sin tocar para que se tuesten; luego saltea 3 minutos más, hasta que algunos estén crujientes.",
     "Aparta del fuego, espolvorea el pimentón y mezcla. Prueba de sal (el jamón y los garbanzos del cocido ya llevan).",
     "Fríe los huevos en una sartén pequeña con aceite bien caliente, echándoles aceite por encima con la cuchara para que la clara haga puntilla y la yema quede líquida.",
-    "Reparte los garbanzos en dos platos, coloca el huevo encima y termina con perejil picado. Rompe la yema en la mesa: hace de salsa."
+    "Reparte los garbanzos en dos platos, coloca el huevo encima y termina con el perejil. Rompe la yema en la mesa: hace de salsa."
   ],
   nutricion: { kcal: 520, prot: 30, hc: 42, grasa: 26 },
   etiquetas: ["aprovechamiento", "una sola sartén", "rápida", "tradicional", "económica", "alta en proteína", "poco especiada"],
@@ -693,8 +692,8 @@ window.RECETAS_SEED.push({
     "Enciende el grill del horno a 220 °C. Mezcla el puré frío con la harina, el huevo, el parmesano y una pizca de sal hasta tener una masa que se despegue del bol. Si está muy blanda añade otra cucharada de harina: depende de cuánta leche llevaba el puré.",
     "Calienta 1 cucharada de aceite en una sartén antiadherente de 26 cm apta para horno, a fuego medio. Extiende la masa con una cuchara mojada en agua en una capa uniforme de 1 cm.",
     "Cocina 8 minutos sin tocar, hasta que la base esté dorada y se despegue al mover la sartén. Ese tiempo forma la costra que sujetará los ingredientes.",
-    "Mientras, saltea los champiñones en otra sartén a fuego fuerte 3 minutos con unas gotas de aceite, para que suelten el agua antes de ir a la pizza y no la empapen.",
-    "Unta la base con el tomate frito dejando 1 cm de borde, reparte la mozzarella escurrida y troceada, los champiñones y las aceitunas, y espolvorea el orégano.",
+    "Mientras, saltea los champiñones en otra sartén a fuego fuerte 3 minutos con unas gotas de aceite, para que suelten el agua antes de ir a la pizza y no la empapen. Escurre y trocea la mozzarella.",
+    "Unta la base con el tomate frito dejando 1 cm de borde, reparte la mozzarella, los champiñones y las aceitunas, y espolvorea el orégano.",
     "Mete la sartén bajo el grill 6-8 minutos, hasta que el queso se funda y burbujee.",
     "Riega con el aceite restante, deja reposar 2 minutos y córtala en porciones."
   ],
@@ -733,10 +732,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el huevo 10 minutos y enfríalo en agua fría. En el mismo cazo con agua hirviendo y sal, cuece los langostinos 1 minuto, hasta que se curven y se pongan rosados, y pásalos a agua con hielo para cortar la cocción y que queden tersos.",
-    "Pica la cebolleta, los pimientos y el tomate (sin semillas, para que no agüe) en dados muy pequeños, todos del mismo tamaño: es lo que hace elegante un salpicón.",
-    "Separa la yema del huevo duro y aplástala en un bol con el vinagre y una pizca de sal hasta hacer una pasta. Añade el aceite en hilo batiendo con un tenedor: la yema emulsiona la vinagreta y la hace más cremosa.",
-    "Incorpora la clara picada y el perejil picado a la vinagreta.",
+    "Pon a cocer el huevo 10 minutos. Mientras, pica la cebolleta, los pimientos y el tomate (sin semillas, para que no agüe) en dados muy pequeños, todos del mismo tamaño: es lo que hace elegante un salpicón. Pica también el perejil.",
+    "Saca el huevo y enfríalo en agua fría. En el mismo cazo con agua hirviendo y sal, cuece los langostinos 1 minuto, hasta que se curven y se pongan rosados, y pásalos a agua con hielo para cortar la cocción y que queden tersos.",
+    "Pela el huevo, separa la yema y aplástala en un bol con el vinagre y una pizca de sal hasta hacer una pasta. Añade el aceite en hilo batiendo con un tenedor: la yema emulsiona la vinagreta y la hace más cremosa.",
+    "Pica la clara e incorpórala a la vinagreta con el perejil.",
     "Desmiga la merluza en lascas grandes, sin aplastarla, y trocea los langostinos.",
     "Mezcla las verduras con la vinagreta, añade la merluza y los langostinos y remueve con suavidad para no deshacer el pescado.",
     "Deja reposar 10 minutos en la nevera para que se integren los sabores y sirve frío."
@@ -782,12 +781,12 @@ window.RECETAS_SEED.push({
     { n: "sriracha", q: 1, u: "cdta", opcional: true }
   ],
   pasos: [
-    "Prepara la salsa en un bol: crema de cacahuete, soja, vinagre de arroz, zumo de lima, aceite de sésamo, el ajo y el jengibre rallados, la sriracha si la usas y 3 cucharadas de agua caliente. Bate hasta que esté lisa. En el wok todo va muy rápido, por eso la salsa se prepara antes.",
+    "Ralla el ajo y el jengibre y prepara la salsa en un bol: crema de cacahuete, soja, vinagre de arroz, zumo de lima, aceite de sésamo, el ajo, el jengibre, la sriracha si la usas y 3 cucharadas de agua caliente. Bate hasta que esté lisa. En el wok todo va muy rápido, por eso la salsa se prepara antes. Corta también la zanahoria y el pimiento en tiras finas, la col en juliana y la cebolleta en aros, y pica los cacahuetes.",
     "Seca el tofu con papel, córtalo en dados y dóralo en el wok con el aceite de oliva a fuego fuerte 5 minutos, moviéndolo poco, hasta que tenga costra por varias caras. Sácalo.",
-    "Corta la zanahoria y el pimiento en tiras finas y la col en juliana. Saltéalos en el wok muy caliente 3 minutos: deben quedar crujientes, no blandos.",
+    "Saltea la zanahoria, el pimiento y la col en el wok muy caliente 3 minutos: deben quedar crujientes, no blandos.",
     "Separa la pasta con las manos mojadas y añádela al wok. Saltea 2 minutos sin remover demasiado, para que coja algo de tostado en los bordes.",
     "Vierte la salsa, devuelve el tofu y mezcla 1 minuto a fuego fuerte, hasta que la salsa envuelva todo. Si queda espesa, añade un chorrito de agua.",
-    "Sirve con la cebolleta en aros y los cacahuetes picados por encima."
+    "Sirve con la cebolleta y los cacahuetes por encima."
   ],
   nutricion: { kcal: 730, prot: 30, hc: 86, grasa: 30 },
   etiquetas: ["aprovechamiento", "wok", "picante suave", "económica", "rápida", "batch cooking"],
@@ -825,13 +824,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pocha la cebolla y el ajo picados en una sartén con media cucharada de aceite a fuego medio 5 minutos.",
+    "Pica la cebolla y el ajo y póchalos en una sartén con media cucharada de aceite a fuego medio 5 minutos.",
     "Pásalos al vaso de la batidora con las alubias, el caldo y el chipotle, y tritura hasta tener una salsa fina con textura de nata líquida. Si queda espesa, añade más caldo: las tortillas absorben bastante.",
-    "Vierte la salsa en la sartén y cuece 3 minutos a fuego suave, removiendo. Prueba de sal. Cocinarla un poco tras triturar le quita el sabor a crudo y la espesa.",
+    "Vierte la salsa en la sartén y cuece 3 minutos a fuego suave, removiendo. Prueba de sal. Cocinarla un poco tras triturar le quita el sabor a crudo y la espesa. Mientras, desmenuza el queso y pica el cilantro.",
     "Calienta las tortillas de una en una en otra sartén seca 20 segundos por lado, para que estén flexibles.",
     "Pasa cada tortilla por la salsa caliente para empaparla, dóblala en cuatro y colócala en el plato. Tres por persona.",
     "Fríe los huevos con el resto del aceite.",
-    "Cubre las enfrijoladas con más salsa, el queso fresco desmenuzado, un huevo frito, la nata agria y cilantro picado."
+    "Cubre las enfrijoladas con más salsa, el queso fresco, un huevo frito, la nata agria y el cilantro."
   ],
   nutricion: { kcal: 575, prot: 30, hc: 62, grasa: 23 },
   etiquetas: ["aprovechamiento", "vegetariana", "sin gluten", "picante suave", "económica", "rápida", "sin verduras"],
@@ -866,10 +865,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Cuece uno de los huevos 10 minutos, enfríalo y pícalo.",
-    "Pocha la cebolla picada en la sartén con el aceite a fuego medio 8 minutos, hasta que esté dorada. Añade el pimentón fuera del fuego.",
-    "Pica la carne del cocido a cuchillo y añádela a la sartén con 3 cucharadas de tomate frito. Rehoga 3 minutos: el tomate une el relleno y le devuelve jugosidad a la carne.",
-    "Fuera del fuego, mezcla el huevo duro y las aceitunas picadas. Deja templar el relleno 5 minutos: caliente ablandaría la masa y rompería las obleas.",
+    "Precalienta el horno a 200 °C. Cuece uno de los huevos 10 minutos; mientras, pica la cebolla y las aceitunas. Enfría el huevo, pélalo y pícalo.",
+    "Pocha la cebolla en la sartén con el aceite a fuego medio 8 minutos, hasta que esté dorada. Añade el pimentón fuera del fuego. Mientras se pocha, pica la carne del cocido a cuchillo.",
+    "Añade la carne a la sartén con 3 cucharadas de tomate frito. Rehoga 3 minutos: el tomate une el relleno y le devuelve jugosidad a la carne.",
+    "Fuera del fuego, mezcla el huevo duro y las aceitunas. Deja templar el relleno 5 minutos: caliente ablandaría la masa y rompería las obleas. Mientras, bate el otro huevo.",
     "Pon una cucharada de relleno en el centro de cada oblea, sin pasarte, para que cierre bien. Dobla, presiona los bordes y repúlgalos con un tenedor para sellarlos.",
     "Colócalas en una bandeja con papel, píntalas con el otro huevo batido y pínchalas una vez con un palillo para que salga el vapor y no revienten.",
     "Hornea 15-18 minutos, hasta que estén doradas. Mientras, calienta el resto del tomate frito y sírvelo como salsa para mojar."
@@ -951,11 +950,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno con grill a 220 °C. Pela la patata, córtala en trozos y cuécela en agua con sal 15 minutos, hasta que se deshaga al pincharla.",
-    "Mientras, calienta la leche con los ajos laminados a fuego suave 5 minutos sin que hierva, para que la leche coja el aroma del ajo y este pierda su punto picante.",
-    "Escurre las patatas y aplástalas con un tenedor o pasapurés (no con batidora, que las vuelve chiclosas).",
+    "Pela la patata, córtala en trozos y cuécela en agua con sal 15 minutos, hasta que se deshaga al pincharla.",
+    "Mientras, lamina los ajos y calienta la leche con ellos a fuego suave 5 minutos sin que hierva, para que la leche coja el aroma del ajo y este pierda su punto picante. Pica el perejil.",
+    "Enciende el grill del horno a 220 °C. Escurre las patatas y aplástalas con un tenedor o pasapurés (no con batidora, que las vuelve chiclosas).",
     "Desmiga el pescado y añádelo a la patata. Incorpora la leche con los ajos poco a poco, alternando con el aceite en hilo y batiendo con energía: el aceite emulsiona con la patata y la leche y da la textura cremosa típica de la brandada.",
-    "Sazona con sal, pimienta y nuez moscada, y añade la mitad del perejil picado.",
+    "Sazona con sal, pimienta y nuez moscada, y añade la mitad del perejil.",
     "Pásala a una fuente, alisa la superficie con un tenedor dejando surcos (se doran mejor) y cubre con el queso rallado. Gratina 6-8 minutos, hasta que esté dorada.",
     "Mientras, corta los tomates en rodajas y alíñalos con sal y el resto del perejil. Sirve la brandada caliente con la ensalada."
   ],
@@ -998,7 +997,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pica la cebolla, la zanahoria en dados pequeños y los champiñones en cuartos.",
-    "Funde la mantequilla en una sartén a fuego medio y rehoga la cebolla y la zanahoria 6 minutos. Añade los champiñones y cocina 3 minutos más, hasta que suelten el agua.",
+    "Funde la mantequilla en una sartén a fuego medio y rehoga la cebolla y la zanahoria 6 minutos. Añade los champiñones y cocina 3 minutos más, hasta que suelten el agua. Mientras, calienta el caldo con la leche en un cazo.",
     "Espolvorea la harina y remueve 1 minuto para que se tueste. Es un roux sobre las propias verduras: espesará la salsa sin grumos.",
     "Vierte poco a poco el caldo y la leche calientes sin dejar de remover y cuece 4 minutos, hasta que la salsa nape la cuchara. Añade el tomillo, el pollo y los guisantes, y salpimienta.",
     "Pasa el relleno a una fuente pequeña (o a dos cuencos aptos para horno) y déjalo templar 5 minutos: si el hojaldre se pone sobre un relleno hirviendo, se ablanda por debajo y no sube.",
@@ -1041,13 +1040,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C y unta con unas gotas de aceite un molde de unos 20 cm.",
-    "Saltea la cebolleta picada y el ajo con el aceite a fuego medio 3 minutos. Añade las espinacas y cocina 2 minutos, hasta que se encojan.",
+    "Precalienta el horno a 190 °C y unta con unas gotas de aceite un molde de unos 20 cm. Pica la cebolleta y el ajo.",
+    "Saltea la cebolleta y el ajo con el aceite a fuego medio 3 minutos. Añade las espinacas y cocina 2 minutos, hasta que se encojan.",
     "Pásalas a un colador y apriétalas con una cuchara para quitarles el agua: si no, la torta quedaría húmeda y no cuajaría bien. Pícalas.",
     "En un bol, bate los huevos con la leche, tres cuartas partes del parmesano, la nuez moscada, sal y pimienta.",
     "Añade el arroz separando los granos con un tenedor y las espinacas, y mezcla bien.",
-    "Vierte en el molde, alisa y espolvorea el resto del parmesano. Hornea 22-25 minutos, hasta que esté dorada y al pinchar el centro con un cuchillo salga limpio.",
-    "Deja reposar 5 minutos, desmolda y sirve en porciones con los tomates en rodajas aliñados con aceite y sal. Está buena caliente, templada o fría."
+    "Vierte en el molde, alisa y espolvorea el resto del parmesano. Hornea 22-25 minutos, hasta que esté dorada y al pinchar el centro con un cuchillo salga limpio. Mientras, corta los tomates en rodajas.",
+    "Deja reposar 5 minutos, desmolda y sirve en porciones con los tomates aliñados con aceite y sal. Está buena caliente, templada o fría."
   ],
   nutricion: { kcal: 505, prot: 26, hc: 52, grasa: 21 },
   etiquetas: ["aprovechamiento", "al horno", "para llevar", "batch cooking", "vegetariana", "económica", "poco especiada"],
@@ -1087,9 +1086,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lleva el caldo a ebullición con las pasas y una pizca de sal. Apaga, añade el cuscús, remueve, tapa y deja reposar 5 minutos. El cuscús no se cuece: se hidrata con su mismo volumen de líquido caliente.",
-    "Mientras, tuesta las almendras en una sartén seca a fuego medio 2 minutos, hasta que huelan. Sácalas.",
+    "Mientras, trocea las verduras asadas y tuesta las almendras en una sartén seca a fuego medio 2 minutos, hasta que huelan. Sácalas.",
     "En la misma sartén, calienta el aceite con el comino 20 segundos y añade los garbanzos escurridos y la harissa. Saltea 3 minutos para que se impregnen.",
-    "Incorpora las verduras asadas troceadas y calienta 2 minutos.",
+    "Incorpora las verduras asadas y calienta 2 minutos.",
     "Esponja el cuscús con un tenedor, rascando para separar los granos: así queda suelto y no apelmazado.",
     "Mezcla el cuscús con las verduras y los garbanzos, añade el zumo de limón y prueba de sal.",
     "Sirve con las almendras tostadas y la menta en hojas por encima."

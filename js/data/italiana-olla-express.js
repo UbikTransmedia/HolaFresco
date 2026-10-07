@@ -42,10 +42,10 @@ window.RECETAS_SEED.push({
     "Calienta 1 cda de aceite en la olla exprés destapada a fuego medio-fuerte y dora los contramuslos por el lado de la piel 5 min, hasta que esté dorada, y 2 min más por el otro lado.",
     "Añade el ajo y, cuando huela (30 s), vierte el brandy y deja que se evapore 1 min raspando el fondo. Moja con el vino blanco y hierve 2 min. Incorpora el tomate y los champiñones, sala ligeramente y mueve la olla para que la salsa cubra el fondo.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 10 min. Deja que la presión baje sola, unos 8 min.",
-    "Mientras, corta el pan en dados y dóralos en la sartén con 1 cda de aceite 3-4 min, hasta que estén crujientes. Resérvalos.",
+    "Mientras, corta el pan en dados y dóralos en la sartén con 1 cda de aceite 3-4 min, hasta que estén crujientes. Resérvalos. Pica el perejil.",
     "Abre la olla: la carne debe separarse del hueso al pincharla. Si la salsa está aguada, redúcela destapada a fuego fuerte 3-5 min hasta que napee. Coloca los langostinos encima, tapa con una tapa normal (sin presión) y cuécelos 3 min, hasta que estén rosados.",
     "En la sartén, con la última cucharada de aceite, fríe los huevos a fuego medio-alto 2-3 min, hasta que la clara tenga puntilla y la yema siga líquida.",
-    "Sirve el pollo con su salsa, los langostinos, el huevo frito encima y los picatostes alrededor, con el perejil picado por encima."
+    "Sirve el pollo con su salsa, los langostinos, el huevo frito encima y los picatostes alrededor, con el perejil por encima."
   ],
   nutricion: { kcal: 780, prot: 57, hc: 26, grasa: 50 },
   etiquetas: ["tradicional", "alta en proteína", "para invitados", "fin de semana", "poco especiada"],
@@ -130,10 +130,10 @@ window.RECETAS_SEED.push({
     "Escurre las alubias del remojo. Lava la cebada en un colador bajo el grifo hasta que el agua salga clara. Pica fina la cebolla, la zanahoria, el apio y el ajo; corta la panceta en dados pequeños y la patata pelada en dados de 2 cm.",
     "En la olla exprés destapada calienta 1 cda de aceite a fuego medio y dora la panceta 3 min, hasta que suelte la grasa. Añade las verduras picadas y rehoga 6 min, hasta que la cebolla esté blanda y dorada en los bordes.",
     "Agrega las alubias, la cebada, la patata, el laurel, el romero y el agua. No sales todavía: con la panceta es fácil pasarse, así que ajusta la sal al final.",
-    "Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 20 min. Deja que la presión baje sola, unos 12 min.",
+    "Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 20 min. Deja que la presión baje sola, unos 12 min. Mientras, ralla el parmesano si lo usas.",
     "Abre y prueba: las alubias deben estar cremosas y la cebada tierna pero entera. Retira el laurel y el romero, saca dos cazos de alubias con patata, tritúralos con la batidora y devuélvelos a la olla: así la sopa espesa sin harina.",
     "Sala, deja hervir 2-3 min destapado para que la sopa ligue y, si la quieres más caldosa, añade agua caliente. Reposa 5 min.",
-    "Sirve con el resto del aceite en crudo, pimienta recién molida y, si quieres, parmesano rallado."
+    "Sirve con el resto del aceite en crudo, pimienta recién molida y, si quieres, el parmesano."
   ],
   nutricion: { kcal: 700, prot: 27, hc: 88, grasa: 27 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
@@ -178,8 +178,8 @@ window.RECETAS_SEED.push({
     "En la olla exprés destapada calienta el aceite a fuego medio y rehoga la cebolla 5 min, hasta que esté transparente. Añade el ajo, las anchoas y el perejil picado y remueve 1 min, hasta que la anchoa se deshaga.",
     "Moja con el vino y deja que hierva 1 min. Añade el tomate, las patatas, las aceitunas, los piñones, las alcaparras y el agua; mezcla y sala poco, porque el bacalao y la anchoa ya aportan sal.",
     "Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 5 min. Despresuriza rápido.",
-    "Abre y coloca el bacalao sobre las patatas con la piel hacia arriba. Tapa con una tapa normal (sin cerrar la olla) y cuece a fuego suave 6-7 min, hasta que las lascas se separen al presionarlas con un tenedor.",
-    "Mueve la olla en vaivén para que la salsa ligue con la gelatina del bacalao sin romperlo. Sirve con el resto del perejil picado y pimienta recién molida."
+    "Abre y coloca el bacalao sobre las patatas con la piel hacia arriba. Tapa con una tapa normal (sin cerrar la olla) y cuece a fuego suave 6-7 min, hasta que las lascas se separen al presionarlas con un tenedor. Mientras, pica el resto del perejil.",
+    "Mueve la olla en vaivén para que la salsa ligue con la gelatina del bacalao sin romperlo. Sirve con el resto del perejil y pimienta recién molida."
   ],
   nutricion: { kcal: 565, prot: 40, hc: 44, grasa: 25 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "una sola olla", "poco especiada", "bajo en colesterol"],
@@ -264,7 +264,7 @@ window.RECETAS_SEED.push({
     "Como manda la tradición, no hace falta dorar la carne: métela en la olla exprés con el ajo aplastado, toda la pimienta, el tomate concentrado y el vino, y remueve para que quede casi cubierta. Si tienes tiempo, déjala marinar así 1 h en la nevera.",
     "Lleva a hervor con la olla destapada y deja que hierva 3 min: con la olla cerrada el alcohol no se evapora y el guiso sabría a vino crudo. Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 40 min. Deja que la presión baje sola, unos 12 min.",
     "Abre: la carne debe deshacerse al apretarla con una cuchara; si resiste, cierra y da 5 min más. Si la salsa está aguada, cuécela destapada a fuego medio 8-10 min, hasta que espese y quede oscura y brillante. Prueba de sal.",
-    "Tuesta el pan en una sartén o tostador, frótalo con el diente de ajo restante y riégalo con el aceite.",
+    "Mientras baja la presión, tuesta el pan en una sartén o tostador, frótalo con el diente de ajo restante y riégalo con el aceite.",
     "Sirve el peposo sobre las tostadas, con su salsa por encima y una vuelta más de pimienta."
   ],
   nutricion: { kcal: 530, prot: 45, hc: 35, grasa: 22.5 },
@@ -311,9 +311,9 @@ window.RECETAS_SEED.push({
     "Lava los trozos de rabo con agua fría, sécalos bien y salpimiéntalos. Pon las pasas a remojar en agua templada. Pica la cebolla, la zanahoria, el ajo y 1 rama de apio; corta el guanciale en tiras.",
     "En la olla exprés destapada calienta el aceite a fuego fuerte y dora el rabo en dos tandas, 4-5 min por tanda, hasta que tenga una costra marrón por todas partes. Retíralo.",
     "En la grasa que queda dora el guanciale 2 min, añade las verduras picadas y rehoga 6 min, hasta que la cebolla esté blanda. Devuelve el rabo, moja con el vino y deja reducir 2 min raspando el fondo.",
-    "Añade el tomate, los clavos, el agua y sal. Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 50 min. Deja que la presión baje sola, unos 15 min.",
+    "Añade el tomate, los clavos, el agua y sal. Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 50 min. Deja que la presión baje sola, unos 15 min. Mientras, corta el resto del apio en bastones de 6 cm.",
     "Abre: la carne debe separarse del hueso sin esfuerzo; si no, cierra y da 10 min más. Retira con un cucharón la capa de grasa de la superficie.",
-    "Corta el resto del apio en bastones de 6 cm y añádelo a la salsa con las pasas escurridas, los piñones y el cacao.",
+    "Añade a la salsa el apio en bastones, las pasas escurridas, los piñones y el cacao.",
     "Cuece destapado a fuego suave 15 min, moviendo la olla de vez en cuando, hasta que el apio esté tierno pero entero y la salsa espesa y oscura, que napee la carne. Prueba de sal y sirve con pan para la salsa."
   ],
   nutricion: { kcal: 830, prot: 47, hc: 32, grasa: 57 },
@@ -355,10 +355,10 @@ window.RECETAS_SEED.push({
     "Lava el pulpo bajo el grifo frotando bien las ventosas y córtalo en trozos de 4-5 cm (la cabeza, en tiras). Pela las patatas y córtalas en trozos de 4 cm. Corta la cebolla en pluma, lamina el ajo y parte los cherry por la mitad.",
     "En la olla exprés destapada calienta 2 cda de aceite a fuego medio y rehoga la cebolla, el ajo, la guindilla desmenuzada y el laurel 4 min, hasta que la cebolla se ablande.",
     "Sube el fuego, añade el pulpo y saltéalo 3 min: se encoge, toma un color morado intenso y suelta un líquido rosado. Moja con el vino y añade la mitad de los cherry. No pongas agua ni sal: el pulpo suelta su propio caldo, ya salado.",
-    "Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 12 min. Deja que la presión baje sola, unos 10 min.",
+    "Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 12 min. Deja que la presión baje sola, unos 10 min. Mientras, pica el perejil.",
     "Abre y pincha un trozo grueso: el tenedor debe entrar sin resistencia; si no, cierra y da 3 min más. Añade las patatas y el resto de los cherry; deben quedar casi cubiertas por el jugo (si no, añade un chorrito de agua).",
     "Cierra de nuevo, cuenta 5 min desde que suba la válvula y despresuriza rápido. Prueba de sal: casi nunca hace falta.",
-    "Sirve con el perejil picado, el resto del aceite en crudo y pimienta recién molida."
+    "Sirve con el perejil, el resto del aceite en crudo y pimienta recién molida."
   ],
   nutricion: { kcal: 640, prot: 57, hc: 50, grasa: 24 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "picante"],
@@ -449,9 +449,9 @@ window.RECETAS_SEED.push({
     "Lava el cordero con agua fría y retira los trozos de grasa más gruesos. Ponlo en la olla exprés con las cebollas enteras peladas, la zanahoria, el apio, el laurel, los tomates secos y el agua fría.",
     "Lleva a hervor destapada a fuego fuerte y retira la espuma con una espumadera durante 5 min, hasta que el caldo quede limpio. Sala.",
     "Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 25 min. Retira del fuego, espera 5 min y libera el resto de la presión poco a poco (con tanto caldo, la válvula abierta de golpe salpica). Mientras, pela las patatas y córtalas por la mitad (en cuartos si son grandes).",
-    "Añade las patatas y el perejil atado en un ramillete, cierra de nuevo, cuenta 8 min desde que suba la válvula y deja que la presión baje sola. La carne debe separarse del hueso y las patatas estar tiernas.",
+    "Añade las patatas y el perejil atado en un ramillete, cierra de nuevo, cuenta 8 min desde que suba la válvula y deja que la presión baje sola. Mientras, tuesta el pan. La carne debe separarse del hueso y las patatas estar tiernas.",
     "Saca la carne y las verduras a una fuente y tápala. Cuela el caldo y desgrásalo con una cuchara, o pasando por la superficie un cubito de hielo envuelto en papel de cocina, que atrapa la grasa.",
-    "Tuesta el pan. Sirve primero el caldo bien caliente en platos hondos sobre el pan, con el pecorino rallado si quieres, y después la carne con las patatas, las cebollas y los tomates secos, con pimienta recién molida."
+    "Sirve primero el caldo bien caliente en platos hondos sobre el pan, con el pecorino rallado si quieres, y después la carne con las patatas, las cebollas y los tomates secos, con pimienta recién molida."
   ],
   nutricion: { kcal: 730, prot: 48, hc: 66, grasa: 30.5 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "poco especiada"],
@@ -492,9 +492,9 @@ window.RECETAS_SEED.push({
     "Corta el hinojo por la mitad, quita el troncho duro y córtalo en dados pequeños; guarda las hojas verdes. Pica la chalota. Ralla la piel de la naranja y exprime la mitad. Pica grueso los pistachos.",
     "En la olla exprés destapada funde 10 g de mantequilla a fuego medio y rehoga la chalota y el hinojo 5 min, hasta que el hinojo esté translúcido y empiece a dorarse en los bordes.",
     "Añade el arroz y nacáralo 2 min, removiendo. Moja con el vino y deja que se evapore 1 min. Vierte el caldo caliente y el zumo de media naranja, sala ligeramente y remueve una vez despegando el fondo.",
-    "Cierra a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 6 min. Despresuriza rápido.",
+    "Cierra a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 6 min. Mientras, pica las hojas de hinojo. Despresuriza rápido.",
     "Fuera del fuego añade el resto de la mantequilla, fría, el parmesano y la mitad de la ralladura de naranja, y bate con energía 1 min hasta que quede cremoso y suelto. Si espesa demasiado, añade un chorrito de agua caliente.",
-    "Sirve en platos llanos, rompe media burrata encima de cada uno y termina con los pistachos, el resto de la ralladura, las hojas de hinojo picadas y pimienta."
+    "Sirve en platos llanos, rompe media burrata encima de cada uno y termina con los pistachos, el resto de la ralladura, las hojas de hinojo y pimienta."
   ],
   nutricion: { kcal: 640, prot: 21, hc: 74, grasa: 29 },
   etiquetas: ["creativa", "sin gluten", "para invitados", "invierno", "poco especiada"],
@@ -580,9 +580,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la merluza a cuchillo muy fina (o con 3-4 golpes de picadora, sin llegar a pasta). En un bol mézclala con la ricotta, el huevo, el pan rallado, el parmesano, la ralladura del limón, el perejil picado, sal y pimienta. Si la masa queda muy blanda, añade 1 cda más de pan rallado.",
+    "Pica el perejil y lamina el ajo. Pica la merluza a cuchillo muy fina (o con 3-4 golpes de picadora, sin llegar a pasta). En un bol mézclala con la ricotta, el huevo, el pan rallado, el parmesano, la ralladura del limón, el perejil, sal y pimienta. Si la masa queda muy blanda, añade 1 cda más de pan rallado.",
     "Con las manos húmedas forma 12 albóndigas del tamaño de una nuez y déjalas en la nevera mientras haces la salsa: se compactan y no se rompen al cocerse.",
-    "En la olla exprés destapada calienta el aceite a fuego medio y dora el ajo laminado 1 min sin que se queme. Añade el tomate, las alcaparras, el agua, la mitad de la albahaca y sal, y deja que hierva 3 min.",
+    "En la olla exprés destapada calienta el aceite a fuego medio y dora el ajo 1 min sin que se queme. Añade el tomate, las alcaparras, el agua, la mitad de la albahaca y sal, y deja que hierva 3 min.",
     "Coloca las albóndigas en la salsa en una sola capa y mueve la olla para que queden medio cubiertas; no remuevas con cuchara.",
     "Cierra a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 3 min. Despresuriza rápido.",
     "Abre: las albóndigas deben estar firmes y blancas por dentro. Si la salsa está líquida, déjala 2-3 min destapada a fuego medio. Añade un chorrito de zumo de limón.",
@@ -630,8 +630,8 @@ window.RECETAS_SEED.push({
     "En la olla exprés destapada calienta 1 cda de aceite a fuego medio-fuerte y dora el seitán 4-5 min, dándole la vuelta, hasta que tenga una costra tostada. Retíralo y resérvalo.",
     "Añade otra cucharada de aceite y rehoga la cebolla 5 min, hasta que esté blanda. Agrega el ajo, la salvia picada y el tomate concentrado y remueve 1 min. Moja con el vino, raspa el fondo y deja que hierva 2 min, hasta que pierda el olor a alcohol.",
     "Añade la calabaza, las patatas, el romero y el caldo, y sala con prudencia (el seitán suele venir sazonado). Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 5 min. Despresuriza rápido.",
-    "Mientras, calienta la última cucharada de aceite en la sartén a fuego medio y fríe las hojas de salvia enteras 30-40 s, hasta que estén crujientes y translúcidas. Sácalas a un papel y guarda el aceite aromatizado.",
-    "Abre: la calabaza debe estar tierna y algunos trozos empezar a deshacerse. Retira el romero, devuelve el seitán, añade las castañas partidas por la mitad y cuece destapado a fuego medio 4-5 min, moviendo la olla, hasta que la calabaza deshecha espese la salsa.",
+    "Mientras, calienta la última cucharada de aceite en la sartén a fuego medio y fríe las hojas de salvia enteras 30-40 s, hasta que estén crujientes y translúcidas. Sácalas a un papel y guarda el aceite aromatizado. Parte las castañas por la mitad.",
+    "Abre: la calabaza debe estar tierna y algunos trozos empezar a deshacerse. Retira el romero, devuelve el seitán, añade las castañas y cuece destapado a fuego medio 4-5 min, moviendo la olla, hasta que la calabaza deshecha espese la salsa.",
     "Prueba de sal, añade pimienta recién molida y sirve con la salvia crujiente y un hilo del aceite de salvia por encima."
   ],
   nutricion: { kcal: 625, prot: 37, hc: 65, grasa: 23.5 },
@@ -677,10 +677,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Escurre los garbanzos del remojo. Pica la cebolla, lamina el ajo y trocea las anchoas.",
     "En la olla exprés destapada calienta 1 cda de aceite a fuego medio y rehoga la cebolla 4 min. Añade el ajo, la guindilla desmenuzada y las anchoas y remueve 1 min, hasta que las anchoas se deshagan en el aceite.",
-    "Agrega el tomate, el orégano, el laurel, los garbanzos y el agua, y sala poco (anchoas y aceitunas ya salan). Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 22 min. Deja que la presión baje sola, unos 12 min.",
+    "Agrega el tomate, el orégano, el laurel, los garbanzos y el agua, y sala poco (anchoas y aceitunas ya salan). Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 22 min. Deja que la presión baje sola, unos 12 min. Mientras, pica el perejil.",
     "Abre y prueba un garbanzo: debe estar tierno y mantecoso; si no, cierra y da 4 min más. Añade las aceitunas y las alcaparras y cuece destapado 5 min a fuego medio, hasta que la salsa espese y envuelva los garbanzos.",
     "Haz dos huecos con una cuchara, casca un huevo en cada uno y sala la clara. Tapa con una tapa normal (no la de presión) y cuece a fuego suave 5-6 min, hasta que la clara esté cuajada y la yema siga líquida.",
-    "Mientras, tuesta el pan. Sirve en la misma olla con el perejil picado, el resto del aceite en crudo y pimienta."
+    "Mientras, tuesta el pan. Sirve en la misma olla con el perejil, el resto del aceite en crudo y pimienta."
   ],
   nutricion: { kcal: 640, prot: 30, hc: 63, grasa: 30 },
   etiquetas: ["creativa", "económica", "picante", "sin lácteos", "invierno"],
@@ -726,9 +726,9 @@ window.RECETAS_SEED.push({
     "En la olla exprés destapada calienta el aceite con 10 g de mantequilla a fuego medio-fuerte y dora el pavo 5 min, en una sola capa, hasta que esté dorado por fuera. Retíralo.",
     "En la misma grasa rehoga la cebolla 4 min a fuego medio, hasta que esté transparente. Sube el fuego, añade los champiñones y saltéalos 4-5 min, hasta que suelten el agua y empiecen a dorarse; agrega el ajo y la mejorana y remueve 30 s.",
     "Moja con el vino, raspa el fondo y deja que hierva 2 min. Devuelve el pavo, añade las patatas, el caldo, el laurel y sal. Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 10 min. Despresuriza rápido.",
-    "Mientras, bate en un bol las yemas con el zumo de medio limón, la ralladura de la mitad de la piel y la mitad del perejil picado.",
+    "Mientras, pica el perejil y corta en gajos el limón restante. Bate en un bol las yemas con el zumo de medio limón, la ralladura de la mitad de la piel y la mitad del perejil.",
     "Abre la olla y retira el laurel. Si queda más de un dedo de caldo en el fondo, redúcelo destapado 3 min. Apaga el fuego y espera 1 min a que deje de hervir. Echa 2 cucharadas del caldo caliente sobre las yemas, batiendo, para templarlas, y vierte la mezcla en la olla con la mantequilla restante.",
-    "Mueve la olla con suavidad 1-2 min, sin volver a ponerla al fuego, hasta que la salsa espese, brille y quede amarilla y sedosa; si sigue líquida, dale 20-30 s a fuego mínimo removiendo, sin que llegue a hervir. Sirve con el resto del perejil, pimienta y el limón restante en gajos."
+    "Mueve la olla con suavidad 1-2 min, sin volver a ponerla al fuego, hasta que la salsa espese, brille y quede amarilla y sedosa; si sigue líquida, dale 20-30 s a fuego mínimo removiendo, sin que llegue a hervir. Sirve con el resto del perejil, pimienta y los gajos de limón."
   ],
   nutricion: { kcal: 600, prot: 45, hc: 40, grasa: 28 },
   etiquetas: ["creativa", "alta en proteína", "sin gluten", "una sola olla", "otoño", "poco especiada"],
@@ -769,8 +769,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca la panceta con papel. Con un cuchillo afilado haz cortes en rombo de 1 cm de profundidad en la carne, no en la piel. En el mortero machaca las semillas de hinojo con 3 ajos, las hojas de 1 rama de romero, la salvia, la ralladura del limón, 1 cdta de sal y pimienta abundante.",
     "Unta la pasta por el lado de la carne, enrolla la panceta a lo largo con la piel hacia fuera y átala firme con cordel de cocina cada 2-3 cm. Sala bien la piel. Si tienes tiempo, déjala destapada en la nevera de 2 h a una noche: la piel seca cruje más.",
-    "Pon la rejilla o el cestillo en la olla exprés, coloca encima el rollo y vierte alrededor el vino y el agua, sin que lleguen a la piel. Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 40 min. Deja que la presión baje sola, unos 15 min.",
-    "Saca el rollo con cuidado y sécale bien la piel con papel de cocina: cuanto más seca, más cruje. Precalienta la airfryer a 200 °C.",
+    "Pon la rejilla o el cestillo en la olla exprés, coloca encima el rollo y vierte alrededor el vino y el agua, sin que lleguen a la piel. Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 40 min. Deja que la presión baje sola, unos 15 min; mientras, precalienta la airfryer a 200 °C.",
+    "Saca el rollo con cuidado y sécale bien la piel con papel de cocina: cuanto más seca, más cruje.",
     "Cocina el rollo en la airfryer a 200 °C 15-18 min, girándolo a mitad, hasta que la piel se hinche en burbujas doradas y suene hueca al golpearla.",
     "Mientras, cuela el líquido de la olla y retira con una cuchara casi toda la grasa de arriba. En la sartén calienta el aceite con el ajo restante laminado y la otra rama de romero 1 min, añade las alubias y 100 ml del jugo desgrasado y cuece 5 min, hasta que espese. Ajusta de sal.",
     "Deja reposar la porchetta 5 min, quita el cordel y córtala en rodajas de 1 cm con un cuchillo de sierra. Sírvela sobre las alubias, con la rúcula aliñada con el zumo del limón."
@@ -908,8 +908,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ralla el calabacín por la parte gruesa del rallador, mézclalo con media cucharadita de sal y déjalo en un colador 10 min. Apriétalo después a puñados, o dentro de un paño limpio, hasta quitarle toda el agua que puedas. Pica fina la cebolleta.",
-    "Calienta media cucharada de aceite en la sartén a fuego medio y rehoga la cebolleta 3 min; añade el calabacín y saltéalo 5-6 min, hasta que no quede líquido y empiece a dorarse. Pásalo a un bol y deja que temple 5 min.",
-    "Añade al calabacín los huevos, la ricotta, el parmesano (reserva 1 cda), la nuez moscada, la mitad de la albahaca picada y pimienta, y mezcla bien. Unta con la mantequilla 4 flaneras o moldes individuales de unos 150 ml, espolvoréalos con el pan rallado, rellénalos hasta 1 cm del borde y tápalos con papel de aluminio.",
+    "Calienta media cucharada de aceite en la sartén a fuego medio y rehoga la cebolleta 3 min; añade el calabacín y saltéalo 5-6 min, hasta que no quede líquido y empiece a dorarse. Pásalo a un bol y deja que temple 5 min. Mientras, pica la mitad de la albahaca.",
+    "Añade al calabacín los huevos, la ricotta, el parmesano (reserva 1 cda), la nuez moscada, la albahaca picada y pimienta, y mezcla bien. Unta con la mantequilla 4 flaneras o moldes individuales de unos 150 ml, espolvoréalos con el pan rallado, rellénalos hasta 1 cm del borde y tápalos con papel de aluminio.",
     "Pon la rejilla o el cestillo en la olla exprés con el agua y coloca encima las flaneras. Cierra a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 10 min. Deja que la presión baje sola, unos 10 min: los flanes deben estar firmes al tocarlos y un palillo debe salir limpio.",
     "Mientras, calienta en un cazo media cucharada de aceite con el ajo laminado 1 min, añade el tomate y sal y cuécelo a fuego suave 12-15 min, hasta que espese; al final rompe dentro unas hojas de albahaca. Tuesta el pan.",
     "Saca las flaneras con cuidado y deja que reposen 3 min. Pasa un cuchillo fino por el borde y desmolda cada flan sobre un charco de salsa de tomate.",

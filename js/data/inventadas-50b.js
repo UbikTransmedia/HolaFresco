@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "Pon en el vaso de la batidora la pulpa de los aguacates, el pepino pelado, la mitad de la cebolleta, el ajo, el chile sin semillas, la mitad del cilantro, el zumo de una lima y media y sal.",
     "Añade el caldo muy frío y tritura 1 minuto, hasta que quede una crema lisa. El caldo debe estar frío de nevera: si está templado, la sopa se oscurece antes y sabe más plana.",
     "Prueba y ajusta: si está muy espesa, añade agua fría; si le falta chispa, más lima y sal. Las sopas frías necesitan un punto más de sal y ácido que las calientes.",
-    "Mezcla en un bol las gambas troceadas con el maíz, el resto de la cebolleta y del cilantro picados, el aceite y el zumo de la media lima restante.",
+    "Trocea las gambas y pica el resto de la cebolleta y del cilantro. Mézclalos en un bol con el maíz, el aceite y el zumo de la media lima restante.",
     "Sirve la sopa enseguida en platos hondos, con el salpicón de gambas en el centro y los totopos partidos por encima en el último momento para que crujan."
   ],
   nutricion: { kcal: 567, prot: 29, hc: 34, grasa: 35 },
@@ -80,8 +80,8 @@ window.RECETAS_SEED.push({
     "Prueba antes de añadir sal: el atún, las anchoas y las alcaparras ya son salados y casi nunca hace falta. Si la salsa queda muy espesa, aclárala con una cucharada de agua o del aceite del atún.",
     "Extiende una capa fina de salsa en el fondo de una fuente y coloca encima las lonchas de pavo, ligeramente solapadas.",
     "Cubre el pavo con el resto de la salsa, de forma que quede todo tapado: la salsa hidrata la carne fría y la vuelve jugosa.",
-    "Si puedes, deja reposar 30 minutos en la nevera tapado con film para que los sabores se mezclen.",
-    "Reparte las alcaparras restantes por encima con pimienta recién molida y sirve con la rúcula, los tomates cherry partidos y el pan."
+    "Si puedes, deja reposar 30 minutos en la nevera tapado con film para que los sabores se mezclen. Mientras, parte los tomates cherry por la mitad.",
+    "Reparte las alcaparras restantes por encima con pimienta recién molida y sirve con la rúcula, los tomates cherry y el pan."
   ],
   nutricion: { kcal: 704, prot: 48, hc: 47, grasa: 36 },
   etiquetas: ["sin fuego", "sin cocción", "rápida", "alta en proteína", "tupper", "verano", "para invitados", "poco especiada"],
@@ -124,7 +124,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica a cuchillo las aceitunas, los pimientos, el apio y las alcaparras en trozos pequeños. Mézclalos en un bol con el ajo rallado, el orégano, el vinagre, el aceite y pimienta. Es la «olive salad», el alma de la muffuletta.",
     "Deja la ensalada de aceitunas al menos 15 minutos para que el ajo y el orégano se hidraten en el aliño (si la haces la víspera, mucho mejor).",
-    "Abre el pan por la mitad en horizontal y quita un poco de miga de cada tapa: así cabe el relleno y el bocadillo no se desmorona al morderlo.",
+    "Mientras, abre el pan por la mitad en horizontal y quita un poco de miga de cada tapa: así cabe el relleno y el bocadillo no se desmorona al morderlo.",
     "Extiende la mitad de la ensalada con su aceite sobre la base, para que empape la miga. Encima coloca capas de mortadela, provolone y salami, y termina con el resto de la ensalada.",
     "Tapa con la otra mitad, envuelve bien apretado en film y pon encima un peso (una tabla con un par de latas). Déjalo en la nevera al menos 1 hora.",
     "Corta en cuñas con un cuchillo de sierra y sirve. Sácalo 15 minutos antes de la nevera para que el queso y los embutidos recuperen su sabor."
@@ -166,11 +166,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el yogur con la mostaza, la mitad del eneldo picado, sal y pimienta. Es la salsa que une todos los elementos.",
-    "Corta la remolacha en dados pequeños y alíñala con el vinagre y una pizca de sal. El vinagre realza su dulzor terroso y equilibra la grasa del rosbif.",
+    "Pica el eneldo. Mezcla el yogur con la mostaza, la mitad del eneldo, sal y pimienta. Es la salsa que une todos los elementos.",
+    "Corta la remolacha en dados pequeños y alíñala con el vinagre y una pizca de sal. El vinagre realza su dulzor terroso y equilibra la grasa del rosbif. Corta los pepinillos en abanico.",
     "Unta cada rebanada de pan de centeno con una capa fina de mantequilla hasta los bordes: hace de barrera y evita que la miga se empape con los ingredientes húmedos.",
     "Pon unas hojas de canónigos sobre cada rebanada y encima el rosbif, doblando las lonchas en ondas para que tengan volumen.",
-    "Añade una cucharada de crema de mostaza, unos dados de remolacha y los pepinillos en abanico.",
+    "Añade una cucharada de crema de mostaza, unos dados de remolacha y los pepinillos.",
     "Termina con el resto del eneldo y pimienta. Se comen con cuchillo y tenedor, como en Dinamarca."
   ],
   nutricion: { kcal: 513, prot: 32, hc: 58, grasa: 17 },
@@ -209,12 +209,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las sardinas y quítales la espina central si es gruesa (la fina se puede dejar: es blanda y aporta calcio).",
+    "Escurre las sardinas y quítales la espina central si es gruesa (la fina se puede dejar: es blanda y aporta calcio). Pica muy fina la chalota y pica las alcaparras y el cebollino.",
     "En un bol, aplasta con un tenedor la mantequilla y el queso crema hasta que estén lisos. Deben estar a temperatura ambiente: si están fríos, harán grumos y no se integrarán.",
     "Añade las sardinas y desmenúzalas con el tenedor, sin triturar: las rillettes deben tener hebras, no ser un paté liso.",
-    "Incorpora la chalota picadísima, las alcaparras picadas, la ralladura de medio limón, una cucharada de su zumo, el cebollino picado y bastante pimienta. Mezcla y prueba; normalmente no necesita sal.",
-    "Pásalo a un tarro o cuenco, alisa la superficie y déjalo en la nevera 10 minutos para que tome cuerpo.",
-    "Sirve con el pan, los pepinillos y los rábanos partidos por la mitad, y gajos de limón."
+    "Incorpora la chalota, las alcaparras, la ralladura de medio limón, una cucharada de su zumo, el cebollino y bastante pimienta. Mezcla y prueba; normalmente no necesita sal.",
+    "Pásalo a un tarro o cuenco, alisa la superficie y déjalo en la nevera 10 minutos para que tome cuerpo. Mientras, parte los rábanos por la mitad y corta el resto del limón en gajos.",
+    "Sirve con el pan, los pepinillos y los rábanos y los gajos de limón."
   ],
   nutricion: { kcal: 539, prot: 29, hc: 45, grasa: 27 },
   etiquetas: ["sin fuego", "sin cocción", "rápida", "económica", "omega 3", "tupper", "para compartir", "poco especiada"],
@@ -253,8 +253,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Monta las gildas en palillos largos: una aceituna, una anchoa doblada en zigzag, dos guindillas, otra anchoa y otra aceituna. El orden importa: la anchoa entre la aceituna y la guindilla hace que en un solo bocado haya salado, ácido y picante.",
-    "Pica la cebolleta muy fina y ponla 5 minutos en un bol con agua fría y el vinagre: así pierde el picor crudo y queda crujiente. Escúrrela bien.",
-    "Corta los piquillos en tiras y alíñalos con 1 cucharada de aceite y una pizca de sal.",
+    "Pica la cebolleta muy fina y ponla 5 minutos en un bol con agua fría y el vinagre: así pierde el picor crudo y queda crujiente. Después, escúrrela bien.",
+    "Mientras, corta los piquillos en tiras y alíñalos con 1 cucharada de aceite y una pizca de sal.",
     "Corta el pan en rebanadas al bies, de 1,5 cm. Ralla el tomate, quítale la piel y úntalo sobre el pan con un hilo de aceite.",
     "Coloca sobre cada tosta tiras de piquillo, la ventresca en lascas grandes (sin desmenuzarla: es la parte más jugosa del bonito) y la cebolleta escurrida por encima.",
     "Termina con el resto del aceite y unas escamas de sal, y sirve las tostas junto a las gildas."
@@ -296,9 +296,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga bien los garbanzos de bote bajo el grifo: quitas el líquido espeso y salado del envase, que da sabor metálico.",
+    "Enjuaga bien los garbanzos de bote bajo el grifo: quitas el líquido espeso y salado del envase, que da sabor metálico. Pica fina la cebolleta.",
     "Aplástalos en un bol con un tenedor, sin hacer puré: deben quedar mitad cremosos y mitad en trozos, para que la tosta tenga textura.",
-    "Añade la pulpa del aguacate, el zumo de medio limón, el comino, el aceite, la cebolleta picada fina y sal. Mezcla aplastando un poco más hasta que se integre.",
+    "Añade la pulpa del aguacate, el zumo de medio limón, el comino, el aceite, la cebolleta y sal. Mezcla aplastando un poco más hasta que se integre.",
     "Corta los rábanos en láminas muy finas y alíñalos con unas gotas de limón y sal: en 5 minutos se vuelven ligeramente encurtidos y crujientes.",
     "Unta generosamente las rebanadas de pan (tuéstalas si tienes tostadora) con la mezcla de garbanzos.",
     "Corona con los rábanos, las semillas de calabaza, hojas de cilantro y una pizca de pimentón picante. Sirve con gajos de limón."
@@ -342,9 +342,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Para el pico de gallo, pica el tomate (sin las semillas, que son lo más acuoso), la cebolla morada, el chile y la mitad del cilantro. Mézclalo con el zumo de media lima y sal y déjalo escurrir en un colador: el líquido que suelta es lo que empaparía el wrap.",
+    "Para el pico de gallo, pica el tomate (sin las semillas, que son lo más acuoso), la cebolla morada, el chile y el cilantro. Mezcla las verduras con la mitad del cilantro, el zumo de media lima y sal y déjalo escurrir en un colador: el líquido que suelta es lo que empaparía el wrap.",
     "Machaca las alubias en un bol con un tenedor, junto con el ajo rallado, el comino, el aceite, el zumo de media lima y sal, hasta tener una pasta untable con algunos trozos.",
-    "Aliña la quinoa con el resto del cilantro picado, el zumo de otra media lima y sal.",
+    "Aliña la quinoa con el resto del cilantro, el zumo de otra media lima y sal.",
     "Extiende una tortilla y unta la pasta de alubias por el centro, dejando 4 cm libres en los bordes: hace de «pegamento» y de barrera para que los ingredientes húmedos no mojen la tortilla.",
     "Encima pon una franja de quinoa, el maíz, el pico de gallo escurrido y láminas de aguacate rociadas con lima.",
     "Dobla los laterales hacia dentro y enrolla desde abajo apretando. Envuelve cada wrap en papel de aluminio o film y córtalo por la mitad en diagonal al servirlo."
@@ -477,13 +477,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la zanahoria, el puerro, el apio, las judías y el repollo en juliana: tiras finas de unos 5 cm y 2-3 mm de grosor. Que todas tengan el mismo tamaño es lo que hace que se cuezan a la vez y la sopa quede elegante.",
+    "Corta la zanahoria, el puerro, el apio, las judías y el repollo en juliana: tiras finas de unos 5 cm y 2-3 mm de grosor. Que todas tengan el mismo tamaño es lo que hace que se cuezan a la vez y la sopa quede elegante. Pela la patata y córtala en dados pequeños.",
     "Calienta el aceite en la olla abierta a fuego medio y rehoga el puerro y la zanahoria 3 minutos, sin que tomen color, para que suelten su dulzor.",
-    "Añade el resto de verduras, la patata en dados pequeños, el caldo y sal. Coloca el cestillo o la rejilla encima y pon los huevos crudos dentro.",
+    "Añade el resto de verduras, la patata, el caldo y sal. Coloca el cestillo o la rejilla encima y pon los huevos crudos dentro.",
     "Cierra la olla y, cuando suba la válvula, cuenta 4 minutos a presión alta con el fuego bajo, solo lo justo para mantener la presión.",
     "Apaga y despresuriza de forma rápida (abriendo la válvula o enfriando la tapa bajo el grifo): si dejas que baje sola, las verduras se pasan y los huevos tendrán un aro verde en la yema.",
-    "Pasa los huevos a un bol con agua fría para cortar la cocción. Con la olla abierta, lleva la sopa a ebullición, añade los fideos y cuécelos 3 minutos.",
-    "Pela los huevos, pícalos y sirve la sopa con el huevo y el perejil picado por encima."
+    "Pasa los huevos a un bol con agua fría para cortar la cocción. Con la olla abierta, lleva la sopa a ebullición, añade los fideos y cuécelos 3 minutos. Mientras, pica el perejil.",
+    "Pela los huevos, pícalos y sirve la sopa con el huevo y el perejil por encima."
   ],
   nutricion: { kcal: 427, prot: 14, hc: 50, grasa: 19 },
   etiquetas: ["olla exprés", "ligera", "de cuchara", "cena ligera", "económica", "tupper", "rápida", "poco especiada"],
@@ -524,7 +524,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la olla el caldo, el laurel, la patata en rodajas gruesas y las pechugas saladas encima. Coloca el cestillo y pon dentro las judías verdes sin las puntas.",
+    "Pela la patata y córtala en rodajas gruesas; quita las puntas a las judías verdes. Pon en la olla el caldo, el laurel, la patata y las pechugas saladas encima. Coloca el cestillo y pon dentro las judías.",
     "Cierra y, cuando suba la válvula, cocina 6 minutos a presión alta con el fuego bajo.",
     "Apaga y deja que la presión baje sola 5 minutos (despresurización natural) antes de abrir la válvula para soltar el resto. Si abres de golpe, la carne se contrae bruscamente y suelta su jugo: queda seca.",
     "Mientras, prepara la salsa verde: pica muy fino a cuchillo el perejil, la albahaca, las alcaparras, las anchoas y el ajo. Mézclalo con la mostaza, el zumo de limón y el aceite. Picar a cuchillo en vez de triturar mantiene el color verde vivo y una textura rústica.",
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en la olla 200 ml de agua, el vino, unas rodajas de limón y las patatas partidas por la mitad. Cierra y, cuando suba la válvula, cuenta 5 minutos a presión alta. Despresuriza rápido.",
-    "Mientras, mezcla la mantequilla blanda con la ralladura de medio limón, una cucharadita de su zumo, el cebollino picado y una pizca de sal.",
+    "Mientras, pica el cebollino y mézclalo con la mantequilla blanda, la ralladura de medio limón, una cucharadita de su zumo y una pizca de sal.",
     "Quita la parte leñosa de los espárragos doblándolos con las manos: se parten justo donde empieza la parte tierna.",
     "Salpimienta el rodaballo y colócalo en el cestillo sobre unas rodajas de limón, con los espárragos alrededor. Pon el cestillo sobre las patatas, ya fuera del líquido.",
     "Cierra y, en cuanto suba la válvula, cuenta 2 minutos a presión baja (o 1 minuto a presión alta). Apaga y despresuriza rápido de inmediato: el pescado se pasa en segundos con el calor residual.",
@@ -608,11 +608,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las coles de Bruselas quitando las hojas exteriores feas y córtalas por la mitad a lo largo. Partidas se cuecen por igual por dentro y por fuera, y no queda un centro duro.",
-    "Pon 250 ml de agua en la olla con la patata en dados grandes. Coloca el cestillo y dentro las coles. Cierra y, cuando suba la válvula, cuenta 3 minutos a presión alta. Despresuriza rápido.",
+    "Limpia las coles de Bruselas quitando las hojas exteriores feas y córtalas por la mitad a lo largo. Partidas se cuecen por igual por dentro y por fuera, y no queda un centro duro. Pela la patata y córtala en dados grandes.",
+    "Pon 250 ml de agua en la olla con la patata. Coloca el cestillo y dentro las coles. Cierra y, cuando suba la válvula, cuenta 3 minutos a presión alta. Despresuriza rápido.",
     "Aparta las coles y la patata a una fuente y alíñalas con el aceite, sal y pimienta. Cocerlas poco tiempo es lo que evita el olor a azufre: aparece cuando la col se cuece de más.",
     "Salpimienta los lomos de lubina y ponlos en el cestillo, con la piel hacia abajo, sobre rodajas de limón. Cierra y, al subir la válvula, cuenta 1 minuto a presión alta. Despresuriza rápido.",
-    "Mientras, mezcla el yogur con la mostaza, el eneldo picado, el zumo de medio limón, sal y pimienta.",
+    "Mientras, pica el eneldo y mézclalo con el yogur, la mostaza, el zumo de medio limón, sal y pimienta.",
     "Sirve la lubina sobre las coles y la patata, con la salsa de yogur por encima y gajos de limón."
   ],
   nutricion: { kcal: 413, prot: 38, hc: 27, grasa: 17 },
@@ -654,11 +654,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla abierta, calienta el aceite y rehoga la cebolla, el pimiento verde y el chile en tiras con el ajo picado 4 minutos, hasta que se ablanden.",
-    "Añade el tomate en dados, el orégano y el comino y cocina 2 minutos más, hasta que el tomate empiece a deshacerse.",
-    "Incorpora la patata pelada en dados de 2 cm, el caldo y sal. Cierra y, cuando suba la válvula, cuenta 5 minutos a presión alta.",
+    "Corta la cebolla, el pimiento verde y el chile en tiras, pica el ajo, corta el tomate en dados y pela la patata y córtala en dados de 2 cm. Con la olla abierta, calienta el aceite y rehoga la cebolla, el pimiento y el chile con el ajo 4 minutos, hasta que se ablanden.",
+    "Añade el tomate, el orégano y el comino y cocina 2 minutos más, hasta que el tomate empiece a deshacerse.",
+    "Incorpora la patata, el caldo y sal. Cierra y, cuando suba la válvula, cuenta 5 minutos a presión alta.",
     "Despresuriza rápido y abre. Aplasta unos cuantos dados de patata contra la pared con el cucharón: el almidón espesa ligeramente el caldo.",
-    "Baja el fuego al mínimo y añade la leche. Calienta sin que llegue a hervir: si hierve con fuerza, la leche se corta con la acidez del tomate.",
+    "Baja el fuego al mínimo y añade la leche. Calienta sin que llegue a hervir: si hierve con fuerza, la leche se corta con la acidez del tomate. Mientras, pica el cilantro.",
     "Reparte los dados de queso fresco en los platos, vierte el caldo muy caliente por encima y espera un minuto: el queso se ablanda sin fundirse del todo. Termina con cilantro."
   ],
   nutricion: { kcal: 452, prot: 18, hc: 50, grasa: 20 },
@@ -700,10 +700,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz hasta que el agua salga clara y ponlo en la olla con 150 ml de agua. Cierra y, al subir la válvula, cuenta 3 minutos a presión alta. Apaga y deja que baje sola 10 minutos: el arroz termina de hacerse con el vapor y queda suelto.",
     "Mientras, corta las berenjenas en bastones gruesos de 8 cm, con la piel. La piel sujeta la carne y evita que se deshaga al vapor.",
-    "Prepara la salsa en un bol: el ajo y el jengibre rallados, la soja, el vinagre, el azúcar, el aceite de sésamo y el aceite de chile. Remueve hasta disolver el azúcar.",
+    "Prepara la salsa en un bol: el ajo y el jengibre rallados, la soja, el vinagre, el azúcar, el aceite de sésamo y el aceite de chile. Remueve hasta disolver el azúcar. Corta la cebolleta en aros.",
     "Saca el arroz a un recipiente tapado. Pon 250 ml de agua en la olla, el cestillo y las berenjenas con la piel hacia abajo. Cierra y, al subir la válvula, cuenta 2 minutos a presión alta. Despresuriza rápido.",
     "Pasa las berenjenas a una fuente y riégalas con la salsa todavía calientes: la berenjena es una esponja y absorbe el aliño mucho mejor recién hecha.",
-    "Corta el tofu sedoso en dados grandes con cuidado y repártelo junto a la berenjena. Termina con la cebolleta en aros y el sésamo, y sirve con el arroz."
+    "Corta el tofu sedoso en dados grandes con cuidado y repártelo junto a la berenjena. Termina con la cebolleta y el sésamo, y sirve con el arroz."
   ],
   nutricion: { kcal: 444, prot: 16, hc: 59, grasa: 16 },
   etiquetas: ["olla exprés", "al vapor", "ligera", "vegana", "económica", "tupper", "picante", "bajo en colesterol"],
@@ -743,10 +743,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon 250 ml de agua en la olla, el cestillo y las hojas de repollo. Cierra y, al subir la válvula, cuenta 1 minuto a presión alta; despresuriza rápido. Las hojas quedarán flexibles para enrollar sin romperse.",
-    "Con un cuchillo, rebaja el nervio central grueso de cada hoja en horizontal, sin cortarla: así se dobla igual que el resto.",
-    "En un bol mezcla el pavo, el arroz crudo, la mitad de la cebolla rallada, el ajo picado, la mitad del eneldo picado, sal y pimienta. El arroz crudo se cocerá dentro con el jugo de la carne.",
+    "Con un cuchillo, rebaja el nervio central grueso de cada hoja en horizontal, sin cortarla: así se dobla igual que el resto. Ralla la mitad de la cebolla y pica la otra mitad; pica el ajo y el eneldo.",
+    "En un bol mezcla el pavo, el arroz crudo, la cebolla rallada, el ajo, la mitad del eneldo, sal y pimienta. El arroz crudo se cocerá dentro con el jugo de la carne.",
     "Pon una cucharada generosa de relleno en la base de cada hoja, dobla los laterales hacia dentro y enrolla apretando, como un burrito. Deja el cierre hacia abajo.",
-    "Vacía la olla. Rehoga el resto de la cebolla picada en el aceite 3 minutos, añade el pimentón, el tomate y el caldo, y sala. Coloca los rollitos dentro de la salsa, muy juntos y con el cierre hacia abajo para que no se abran.",
+    "Vacía la olla. Rehoga la cebolla picada en el aceite 3 minutos, añade el pimentón, el tomate y el caldo, y sala. Coloca los rollitos dentro de la salsa, muy juntos y con el cierre hacia abajo para que no se abran.",
     "Cierra y, cuando suba la válvula, cuenta 12 minutos a presión alta. Deja que la presión baje sola 10 minutos: los rollitos se asientan y el arroz termina de hacerse.",
     "Sirve los rollitos con la salsa y el resto del eneldo por encima."
   ],
@@ -785,12 +785,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz jazmín lavado en una cazuela con 180 ml de agua y sal, tapado y a fuego mínimo 12 minutos, y déjalo reposar tapado.",
-    "Bate los huevos con un tenedor sin hacer espuma: muévelo de lado a lado, sin levantarlo. El aire batido se convierte en agujeros en el flan.",
+    "Mientras, bate los huevos con un tenedor sin hacer espuma: muévelo de lado a lado, sin levantarlo. El aire batido se convierte en agujeros en el flan.",
     "Añade el caldo frío, la soja, el mirin y una pizca de sal. La proporción es 1 parte de huevo por 1,5 de caldo: es lo que da la textura temblorosa.",
     "Cuela la mezcla por un colador fino: elimina las chalazas (los filamentos blancos) y el flan queda liso como la seda.",
     "Reparte los langostinos y las setas en 4 tazas o cuencos resistentes al calor, vierte la mezcla encima y tapa cada uno con papel de aluminio para que no caigan gotas de condensación.",
-    "Pon 250 ml de agua en la olla y la rejilla, y los cuencos encima. Cierra y, al subir la válvula, cuenta 5 minutos a presión baja (o 1 minuto a presión alta). Apaga y deja bajar la presión sola 5 minutos.",
-    "Comprueba que el centro tiembla al mover el cuenco pero no está líquido. Sirve con la cebolleta en aros finos por encima y el arroz al lado."
+    "Pon 250 ml de agua en la olla y la rejilla, y los cuencos encima. Cierra y, al subir la válvula, cuenta 5 minutos a presión baja (o 1 minuto a presión alta). Apaga y deja bajar la presión sola 5 minutos. Mientras, corta la cebolleta en aros finos.",
+    "Comprueba que el centro tiembla al mover el cuenco pero no está líquido. Sirve con la cebolleta por encima y el arroz al lado."
   ],
   nutricion: { kcal: 431, prot: 28, hc: 55, grasa: 11 },
   etiquetas: ["olla exprés", "al vapor", "ligera", "cena ligera", "técnica", "marisco", "poco especiada"],
@@ -828,12 +828,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla abierta, calienta 1 cucharada de aceite y rehoga la cebolla picada, los ajos laminados y la guindilla 3 minutos, hasta que el ajo empiece a dorarse.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, pica la cebolla y lamina los ajos. Con la olla abierta, calienta 1 cucharada de aceite y rehoga la cebolla, los ajos y la guindilla 3 minutos, hasta que el ajo empiece a dorarse.",
     "Añade las alubias escurridas, el romero y el caldo. No llenes la olla más de la mitad: las legumbres hacen espuma y podrían tapar la válvula.",
-    "Cierra y, cuando suba la válvula, cuenta 12 minutos a presión alta. Deja que la presión baje sola, sin abrir la válvula: si despresurizas de golpe, la piel de las alubias se rompe y se deshacen.",
+    "Cierra y, cuando suba la válvula, cuenta 12 minutos a presión alta. Deja que la presión baje sola, sin abrir la válvula: si despresurizas de golpe, la piel de las alubias se rompe y se deshacen. Mientras, lava y trocea la escarola y ralla el parmesano.",
     "Abre, retira el romero, sala y aplasta un cucharón de alubias contra la pared para espesar el caldo.",
-    "Añade la escarola lavada y troceada y deja hervir con la olla abierta 3-4 minutos, solo hasta que se ablande pero conserve algo de mordida.",
-    "Sirve con el parmesano rallado, unas gotas de limón y un hilo del resto del aceite en crudo."
+    "Añade la escarola y deja hervir con la olla abierta 3-4 minutos, solo hasta que se ablande pero conserve algo de mordida.",
+    "Sirve con el parmesano, unas gotas de limón y un hilo del resto del aceite en crudo."
   ],
   nutricion: { kcal: 440, prot: 22, hc: 45, grasa: 19 },
   etiquetas: ["olla exprés", "ligera", "de cuchara", "sin gluten", "económica", "tupper", "invierno", "bajo en colesterol"],
@@ -876,12 +876,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Con la olla abierta y a fuego fuerte, calienta el aceite y dora el pavo picado 5 minutos, chafándolo con la cuchara y sin removerlo demasiado: necesita tiempo de contacto con el fondo para tostarse en vez de cocerse.",
-    "Añade la cebolla, el pimiento y el ajo picados y cocina 3 minutos. Incorpora el comino, el pimentón y el orégano y remueve 30 segundos para tostar las especias.",
+    "Pica la cebolla, el pimiento y el ajo. Con la olla abierta y a fuego fuerte, calienta el aceite y dora el pavo picado 5 minutos, chafándolo con la cuchara y sin removerlo demasiado: necesita tiempo de contacto con el fondo para tostarse en vez de cocerse.",
+    "Añade la cebolla, el pimiento y el ajo y cocina 3 minutos. Incorpora el comino, el pimentón y el orégano y remueve 30 segundos para tostar las especias.",
     "Vierte un poco de caldo y rasca bien el fondo con la cuchara: esos restos dorados son sabor y, si se quedan pegados, la olla puede detectar que se quema y no subir la presión.",
-    "Añade el tomate, el resto del caldo, las alubias, el maíz y sal. Cierra y, cuando suba la válvula, cuenta 5 minutos a presión alta.",
+    "Añade el tomate, el resto del caldo, las alubias, el maíz y sal. Cierra y, cuando suba la válvula, cuenta 5 minutos a presión alta. Mientras, pica el cilantro y corta la otra media lima en gajos.",
     "Despresuriza rápido, abre y prueba de sal. Exprime media lima dentro de la olla.",
-    "Sirve con una cucharada de yogur, cilantro picado y gajos de lima."
+    "Sirve con una cucharada de yogur, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 455, prot: 32, hc: 39, grasa: 17 },
   etiquetas: ["olla exprés", "ligera", "alta en proteína", "sin gluten", "tupper", "batch cooking", "rápida", "bajo en colesterol"],
@@ -922,12 +922,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava las lentejas rojas en un colador hasta que el agua salga casi clara: quitas el polvillo de almidón que hace espuma en la olla.",
-    "Pon en la olla las lentejas, el calabacín en dados (con piel), el tomate picado, la cebolla, el ajo y el jengibre rallados, la cúrcuma, sal y 700 ml de agua. No llenes más de la mitad.",
-    "Cierra y, cuando suba la válvula, cuenta 5 minutos a presión alta. Deja bajar la presión sola 10 minutos: las lentejas rojas hacen mucha espuma y, si abres de golpe, saldría por la válvula.",
+    "Lava las lentejas rojas en un colador hasta que el agua salga casi clara: quitas el polvillo de almidón que hace espuma en la olla. Corta el calabacín en dados (con piel), pica el tomate y la cebolla y ralla el ajo y el jengibre.",
+    "Pon en la olla las lentejas, el calabacín, el tomate, la cebolla, el ajo, el jengibre, la cúrcuma, sal y 700 ml de agua. No llenes más de la mitad.",
+    "Cierra y, cuando suba la válvula, cuenta 5 minutos a presión alta. Deja bajar la presión sola 10 minutos: las lentejas rojas hacen mucha espuma y, si abres de golpe, saldría por la válvula. Mientras, pica el cilantro.",
     "Abre y bate con varillas 30 segundos: la lenteja se deshace y el calabacín queda en trocitos dentro de una crema espesa. Aclara con agua caliente si está demasiado espeso.",
     "Para la tadka, calienta el aceite en una sartén pequeña a fuego medio y añade las semillas de mostaza. Cuando empiecen a saltar (unos 30 segundos), añade el comino y la guindilla y fríe 20 segundos más.",
-    "Vierte la tadka chisporroteando sobre el dal, termina con el zumo de limón y el cilantro picado, y sirve."
+    "Vierte la tadka chisporroteando sobre el dal, termina con el zumo de limón y el cilantro, y sirve."
   ],
   nutricion: { kcal: 390, prot: 19, hc: 42, grasa: 15 },
   etiquetas: ["olla exprés", "ligera", "vegana", "sin gluten", "económica", "tupper", "cena ligera", "de cuchara", "detox", "bajo en colesterol"],
@@ -965,11 +965,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la olla los garbanzos escurridos, los ajos enteros pelados, 1 cucharadita de comino y el caldo. Llena como máximo hasta la mitad.",
-    "Cierra y, cuando suba la válvula, cuenta 15 minutos a presión alta. Deja bajar la presión sola: los garbanzos terminan de ablandarse y no se pelan.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, pela los ajos y ponlos enteros en la olla con los garbanzos escurridos, 1 cucharadita de comino y el caldo. Llena como máximo hasta la mitad.",
+    "Cierra y, cuando suba la válvula, cuenta 15 minutos a presión alta. Deja bajar la presión sola: los garbanzos terminan de ablandarse y no se pelan. Mientras, trocea el pan duro y repártelo en el fondo de dos boles hondos: en el leblebi el pan se empapa del caldo y lo espesa.",
     "Abre, saca los ajos, aplástalos con la harissa y el resto del comino hasta hacer una pasta y devuélvela a la olla. Sala y lleva a hervor suave con la olla abierta.",
     "Casca los huevos en una taza, de uno en uno, y deslízalos en el caldo apenas burbujeante. Escálfalos 3-4 minutos, hasta que la clara esté cuajada y la yema líquida. Si el caldo hierve fuerte, la clara se deshilacha.",
-    "Mientras, trocea el pan duro y repártelo en el fondo de dos boles hondos: en el leblebi el pan se empapa del caldo y lo espesa.",
     "Vierte los garbanzos con su caldo sobre el pan, coloca un huevo en cada bol y termina con las alcaparras, el zumo de medio limón y un hilo de aceite. Sirve con limón al lado."
   ],
   nutricion: { kcal: 445, prot: 18, hc: 42, grasa: 22 },
@@ -1012,9 +1011,8 @@ window.RECETAS_SEED.push({
     "Pica las espinacas crudas y mézclalas en un bol con la feta desmenuzada, el ajo rallado y la ralladura de medio limón. La feta ya es salada: no añadas sal al relleno.",
     "Extiende los filetes de pavo, salpimiéntalos por fuera, reparte el relleno y enróllalos apretados. Ciérralos con un palillo.",
     "Pon 300 ml de agua en la olla, la rejilla o el cestillo y coloca los rollitos con el cierre hacia abajo y el calabacín alrededor.",
-    "Cierra y, cuando suba la válvula, cuenta 4 minutos a presión alta. Deja bajar la presión sola 3 minutos y luego abre la válvula: así el pavo, que es muy magro, no se seca.",
+    "Cierra y, cuando suba la válvula, cuenta 4 minutos a presión alta. Deja bajar la presión sola 3 minutos y luego abre la válvula: así el pavo, que es muy magro, no se seca. Mientras, pica la menta y mézclala con el yogur, la harissa y el zumo de medio limón.",
     "Saca el cestillo. Pon el cuscús en un bol, cúbrelo con 60 ml del agua caliente de la olla (que ya tiene el sabor del pavo), tapa 5 minutos y suéltalo con un tenedor.",
-    "Mezcla el yogur con la harissa, el zumo de medio limón y la menta picada.",
     "Quita los palillos, corta los rollitos en rodajas y sírvelos sobre el cuscús con el calabacín y la salsa de yogur."
   ],
   nutricion: { kcal: 415, prot: 47, hc: 28, grasa: 12 },
@@ -1054,12 +1052,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Pela los nabos y córtalos en dados. Elige nabos pequeños y pesados: los grandes suelen ser fibrosos y más amargos.",
-    "Con la olla abierta, funde la mantequilla con el aceite a fuego medio y rehoga el puerro en rodajas 5 minutos, hasta que esté blando. Añade el nabo y rehógalo 2 minutos más: este paso suaviza su sabor picante.",
-    "Incorpora la patata en dados, el caldo y sal. Cierra y, cuando suba la válvula, cuenta 6 minutos a presión alta. Despresuriza rápido.",
-    "Mientras, tuesta las avellanas en una sartén sin aceite 4 minutos, frótalas en un paño para pelarlas y pícalas.",
+    "Pela los nabos y córtalos en dados. Elige nabos pequeños y pesados: los grandes suelen ser fibrosos y más amargos. Corta el puerro en rodajas y pela la patata y córtala en dados.",
+    "Con la olla abierta, funde la mantequilla con el aceite a fuego medio y rehoga el puerro 5 minutos, hasta que esté blando. Añade el nabo y rehógalo 2 minutos más: este paso suaviza su sabor picante.",
+    "Incorpora la patata, el caldo y sal. Cierra y, cuando suba la válvula, cuenta 6 minutos a presión alta. Despresuriza rápido.",
+    "Mientras, tuesta las avellanas en una sartén sin aceite 4 minutos, frótalas en un paño para pelarlas y pícalas. Pica el cebollino.",
     "Añade la leche y la nuez moscada a la olla y tritura con la batidora hasta que la crema esté muy fina. Ajusta de sal y pimienta blanca (la negra dejaría puntitos en una crema clara).",
-    "Sirve con las avellanas y el cebollino picado por encima."
+    "Sirve con las avellanas y el cebollino por encima."
   ],
   nutricion: { kcal: 415, prot: 9, hc: 44, grasa: 22 },
   etiquetas: ["olla exprés", "ligera", "vegetariana", "sin gluten", "económica", "tupper", "invierno", "cena ligera", "poco especiada"],
@@ -1098,12 +1096,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las almejas en un bol con agua fría y sal (como agua de mar) durante 30 minutos para que suelten la arena.",
-    "Limpia las pencas del cardo: quita las hojas y las hebras de los lados con un pelador y córtalas en trozos de 4 cm. Échalos en un bol con agua y el zumo del limón para que no se ennegrezcan.",
-    "Pon el cardo escurrido en la olla con la patata en trozos grandes, 500 ml de agua y sal. Cierra y, cuando suba la válvula, cuenta 12 minutos a presión alta. Deja bajar la presión sola 5 minutos y abre.",
+    "Mientras, limpia las pencas del cardo: quita las hojas y las hebras de los lados con un pelador y córtalas en trozos de 4 cm. Échalos en un bol con agua y el zumo del limón para que no se ennegrezcan. Pela la patata y córtala en trozos grandes.",
+    "Pon el cardo escurrido en la olla con la patata, 500 ml de agua y sal. Cierra y, cuando suba la válvula, cuenta 12 minutos a presión alta; mientras, lamina los ajos y pica el perejil. Deja bajar la presión sola 5 minutos y abre.",
     "Escurre el cardo y la patata y reserva 250 ml de su caldo: tiene la gelatina natural del cardo y ligará la salsa.",
-    "En una sartén amplia, dora los ajos laminados y la guindilla en el aceite a fuego medio. Añade la harina y remueve 1 minuto para que se tueste y no sepa a crudo.",
+    "En una sartén amplia, dora los ajos y la guindilla en el aceite a fuego medio. Añade la harina y remueve 1 minuto para que se tueste y no sepa a crudo.",
     "Vierte el vino y deja que hierva 1 minuto. Añade el caldo reservado poco a poco, removiendo, y después las almejas escurridas. Tapa y cocina 3-4 minutos, hasta que se abran (descarta las que sigan cerradas).",
-    "Incorpora el cardo y la patata, mueve la sartén en vaivén para que la salsa ligue y termina con abundante perejil picado."
+    "Incorpora el cardo y la patata, mueve la sartén en vaivén para que la salsa ligue y termina con abundante perejil."
   ],
   nutricion: { kcal: 395, prot: 16, hc: 35, grasa: 20 },
   etiquetas: ["olla exprés", "ligera", "marisco", "invierno", "navidad", "de cuchara"],

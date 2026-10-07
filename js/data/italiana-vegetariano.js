@@ -33,13 +33,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo en un cazo y mantenlo a fuego mínimo, sin que llegue a hervir. Pica la chalota muy fina.",
+    "Calienta el caldo en un cazo y mantenlo a fuego mínimo, sin que llegue a hervir. Pica la chalota muy fina y ralla el parmesano.",
     "En una cazuela ancha, calienta el aceite con 10 g de mantequilla a fuego medio-bajo y rehoga la chalota 5 minutos, hasta que esté transparente pero sin dorar.",
     "Sube el fuego, añade el arroz y nacáralo 2 minutos removiendo: los granos deben quedar brillantes y calientes al tacto.",
     "Vierte la mitad del vino y deja que se evapore casi por completo, removiendo, 2–3 minutos. El arroz empezará a teñirse de morado.",
     "Ve añadiendo el resto del vino y el caldo caliente, un cazo cada vez, y remueve a menudo; agrega el siguiente cuando el anterior casi se haya absorbido. Son unos 17–18 minutos a fuego medio.",
     "Prueba el grano: debe estar tierno pero con un punto firme en el centro, y el conjunto suelto, que ondule al mover la cazuela. Sala con prudencia, porque el queso también aporta sal.",
-    "Retira del fuego, añade los 20 g de mantequilla restantes, fría y en dados, y el parmesano rallado, y bate con energía 1 minuto hasta que quede cremoso. Tapa y deja reposar 2 minutos.",
+    "Retira del fuego, añade los 20 g de mantequilla restantes, fría y en dados, y el parmesano, y bate con energía 1 minuto hasta que quede cremoso. Tapa y deja reposar 2 minutos.",
     "Sirve en platos llanos calientes con pimienta recién molida."
   ],
   nutricion: { kcal: 600, prot: 16, hc: 71, grasa: 27 },
@@ -78,13 +78,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla en un bol las dos harinas con una pizca de sal y añade el agua poco a poco hasta tener una masa firme y lisa. Amásala 5 minutos, envuélvela en film y déjala reposar 30 minutos: el trigo sarraceno no tiene gluten y la harina de trigo es la que le da elasticidad.",
-    "Estira la masa sobre la encimera enharinada hasta dejarla de 2–3 mm de grosor. Córtala en tiras de 7 cm de ancho y después cada tira en cintas de 1 cm.",
-    "Pela la patata y córtala en dados de 2 cm. Corta la col en tiras de 2 cm, quitando el tronco duro.",
-    "Pon a hervir abundante agua con sal en una cazuela grande, echa la patata y la col y cuécelas 5 minutos.",
+    "Mezcla en un bol las dos harinas con una pizca de sal y añade el agua poco a poco hasta tener una masa firme y lisa. Amásala 5 minutos, envuélvela en film y déjala reposar 30 minutos: el trigo sarraceno no tiene gluten y la harina de trigo es la que le da elasticidad. Mientras reposa, pela la patata y córtala en dados de 2 cm, corta la col en tiras de 2 cm quitando el tronco duro, lamina los ajos, corta la fontina en láminas finas y ralla el parmesano.",
+    "Pon a hervir abundante agua con sal en una cazuela grande. Mientras se calienta, estira la masa sobre la encimera enharinada hasta dejarla de 2–3 mm de grosor. Córtala en tiras de 7 cm de ancho y después cada tira en cintas de 1 cm.",
+    "Cuando hierva el agua, echa la patata y la col y cuécelas 5 minutos.",
     "Añade los pizzoccheri a la misma cazuela y cuece todo junto 8–10 minutos, hasta que la pasta esté tierna y la patata se deje atravesar con un cuchillo.",
     "Mientras, funde la mantequilla en una sartén a fuego medio con los ajos laminados y las hojas de salvia, 3–4 minutos, hasta que la mantequilla huela a avellana y el ajo esté dorado claro.",
-    "Corta la fontina en láminas finas y ralla el parmesano. Saca pasta y verdura con una espumadera y colócalas por capas en una fuente caliente, alternando con la fontina y el parmesano.",
+    "Saca pasta y verdura con una espumadera y colócalas por capas en una fuente caliente, alternando con la fontina y el parmesano.",
     "Riega con la mantequilla de salvia, espera 2 minutos a que el queso se funda y sirve con pimienta negra recién molida."
   ],
   nutricion: { kcal: 870, prot: 37, hc: 100, grasa: 36 },
@@ -162,11 +161,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y rállalas con el rallador grueso, o córtalas en bastoncitos muy finos. No las laves: su almidón ayuda a que todo se ligue.",
     "Corta la cebolla en juliana fina. En una sartén antiadherente de 22–24 cm, funde la mantequilla a fuego medio y pocha la cebolla 6–7 minutos, hasta que esté blanda y dorada clara.",
-    "Añade la patata y una pizca de sal, mezcla y cocina 12–15 minutos a fuego medio-bajo, removiendo de vez en cuando y aplastando un poco, hasta que esté tierna.",
-    "Corta el queso en dados pequeños, añádelo y mezcla hasta que se funda y forme una masa compacta con la patata. Aplánala con la espátula.",
+    "Añade la patata y una pizca de sal, mezcla y cocina 12–15 minutos a fuego medio-bajo, removiendo de vez en cuando y aplastando un poco, hasta que esté tierna. Mientras, corta el queso en dados pequeños y el radicchio en tiras.",
+    "Añade el queso y mezcla hasta que se funda y forme una masa compacta con la patata. Aplánala con la espátula.",
     "Cocina sin tocar 6–8 minutos, hasta que la base forme una costra dorada oscura y los bordes se despeguen solos. Retira con papel de cocina la grasa que suelte el queso.",
     "Dale la vuelta con ayuda de un plato, como una tortilla, y dora la otra cara 5–6 minutos.",
-    "Corta el radicchio en tiras y alíñalo con el aceite, el vinagre, sal y pimienta. Sirve el frico en porciones con la ensalada, cuyo amargor corta la grasa del queso."
+    "Aliña el radicchio con el aceite, el vinagre, sal y pimienta. Sirve el frico en porciones con la ensalada, cuyo amargor corta la grasa del queso."
   ],
   nutricion: { kcal: 630, prot: 28, hc: 42, grasa: 39 },
   etiquetas: ["tradicional", "friuli", "sin gluten", "invierno", "poco especiada"],
@@ -205,11 +204,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Pela las patatas, trocéalas y cuécelas en agua con sal 15 minutos. Pela las cebollas y cuécelas enteras en la misma agua los últimos 10 minutos.",
-    "Mientras, parte los calabacines por la mitad a lo largo y vacíalos con una cucharilla dejando 5 mm de pared. Corta el pimiento en cuartos y quítale las semillas. Escalda las barquitas de calabacín 2 minutos en el agua de las patatas.",
-    "Parte las cebollas cocidas por la mitad en horizontal y saca las capas interiores, dejando dos o tres de pared. Pica la pulpa del calabacín y de la cebolla.",
-    "En una sartén con 1 cda de aceite, rehoga la pulpa picada con el ajo picado 8 minutos a fuego medio, hasta que se evapore el agua y empiece a dorarse.",
-    "En un bol, chafa las patatas escurridas con un tenedor y mézclalas con el sofrito, el huevo, 40 g de parmesano rallado, la mitad del pan rallado, la mejorana y el perejil picado. Salpimienta: debe quedar una pasta sabrosa y firme.",
+    "Pela las patatas, trocéalas y cuécelas en agua con sal 15 minutos. Pela las cebollas y cuécelas enteras en la misma agua los últimos 10 minutos.",
+    "Mientras, parte los calabacines por la mitad a lo largo y vacíalos con una cucharilla dejando 5 mm de pared. Corta el pimiento en cuartos y quítale las semillas. Pica el ajo y el perejil y ralla el parmesano. Escalda las barquitas de calabacín 2 minutos en el agua de las patatas.",
+    "Precalienta el horno a 190 °C. Parte las cebollas cocidas por la mitad en horizontal y saca las capas interiores, dejando dos o tres de pared. Pica la pulpa del calabacín y de la cebolla.",
+    "En una sartén con 1 cda de aceite, rehoga la pulpa picada con el ajo 8 minutos a fuego medio, hasta que se evapore el agua y empiece a dorarse.",
+    "En un bol, chafa las patatas escurridas con un tenedor y mézclalas con el sofrito, el huevo, 40 g de parmesano, la mitad del pan rallado, la mejorana y el perejil. Salpimienta: debe quedar una pasta sabrosa y firme.",
     "Rellena las verduras formando una pequeña cúpula, colócalas en una bandeja untada con aceite y espolvorea el resto del pan rallado y del parmesano. Riega con un hilo del aceite restante.",
     "Hornea 35–40 minutos, hasta que la superficie esté gratinada y los pimientos tengan la piel arrugada y los bordes tostados.",
     "Déjalas reposar 10 minutos antes de servir: están mejor templadas que ardiendo, y frías al día siguiente."
@@ -253,9 +252,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla en un bol la harina, una pizca de sal, 2 cda de aceite y el agua tibia, y amasa 5 minutos hasta tener una masa lisa y blanda que no se pegue. Tápala y déjala reposar 30 minutos.",
-    "Lava las acelgas y las espinacas y separa las pencas de las acelgas. Escalda las pencas picadas 3 minutos y las hojas 1 minuto en agua hirviendo con sal. Escúrrelo todo, enfríalo y estrújalo con las manos hasta que no suelte más agua; después pica las hojas.",
-    "En una sartén, funde la mantequilla y rehoga la cebolleta y el ajo picados 4 minutos. Añade la verdura y saltéala 5 minutos para secarla bien. Deja que se temple.",
-    "Mezcla la verdura con el parmesano rallado (reserva 1 cucharada), el huevo, el pan rallado, el perejil picado, sal y pimienta. Precalienta el horno a 200 °C.",
+    "Mientras reposa, pon a hervir agua con sal y lava las acelgas y las espinacas; separa las pencas de las acelgas y pícalas. Escalda las pencas 3 minutos y las hojas 1 minuto en el agua hirviendo. Escúrrelo todo, enfríalo y estrújalo con las manos hasta que no suelte más agua; después pica las hojas. Pica también la cebolleta, el ajo y el perejil y ralla el parmesano.",
+    "En una sartén, funde la mantequilla y rehoga la cebolleta y el ajo 4 minutos. Añade la verdura y saltéala 5 minutos para secarla bien. Deja que se temple.",
+    "Mezcla la verdura con el parmesano (reserva 1 cucharada), el huevo, el pan rallado, el perejil, sal y pimienta. Precalienta el horno a 200 °C.",
     "Divide la masa en dos partes, una algo mayor, y estíralas muy finas, de 1–2 mm. Unta un molde de 24 cm con un poco del aceite restante y fórralo con la lámina mayor, dejando que sobresalga.",
     "Extiende el relleno, cúbrelo con la otra lámina, sella los bordes enrollándolos hacia dentro y pincha toda la superficie con un tenedor.",
     "Pinta con el resto del aceite, espolvorea el parmesano reservado y hornea 35–40 minutos, hasta que la superficie esté dorada y crujiente, con burbujas tostadas.",
@@ -299,10 +298,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Trocea el pan y remójalo en la leche 5 minutos. Estrújalo bien con las manos para quitarle el exceso.",
-    "En un bol, mezcla el pan con los huevos, los quesos rallados, 1 diente de ajo y el perejil muy picados, y pimienta. Amasa con las manos: debe quedar una pasta blanda que se pueda formar; si está pegajosa, déjala 10 minutos en la nevera. Forma 10–12 bolitas algo aplanadas, del tamaño de una nuez grande.",
+    "Trocea el pan y remójalo en la leche 5 minutos. Mientras, ralla los quesos, pica muy finos 1 diente de ajo y el perejil, pica la cebolla y lamina el otro ajo. Estrújalo bien con las manos para quitarle el exceso.",
+    "En un bol, mezcla el pan con los huevos, los quesos rallados, el ajo y el perejil picados, y pimienta. Amasa con las manos: debe quedar una pasta blanda que se pueda formar; si está pegajosa, déjala 10 minutos en la nevera. Forma 10–12 bolitas algo aplanadas, del tamaño de una nuez grande.",
     "Calienta el aceite en una sartén a fuego medio-alto (unos 170 °C) y fríe las pallotte 2 minutos por cada lado, hasta que estén doradas. Escúrrelas sobre papel de cocina.",
-    "En una cazuela, calienta 1 cda de ese aceite y sofríe la cebolla picada, el otro ajo laminado y la guindilla, si la usas, 5 minutos. Añade el tomate y sal y cuece 10 minutos a fuego suave.",
+    "En una cazuela, calienta 1 cda de ese aceite y sofríe la cebolla, el ajo laminado y la guindilla, si la usas, 5 minutos. Añade el tomate y sal y cuece 10 minutos a fuego suave.",
     "Mete las pallotte en la salsa, tapa y cuécelas 10–12 minutos a fuego muy suave, sin remover (mueve la cazuela por las asas), hasta que se hinchen y absorban parte de la salsa.",
     "Sirve con hojas de albahaca por encima."
   ],
@@ -346,10 +345,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las lentejas. Pica fina la cebolla, la zanahoria y el apio.",
     "En una cazuela, calienta 2 cda de aceite y rehoga la verdura picada con el ajo entero pelado 6–7 minutos a fuego medio, hasta que esté blanda.",
-    "Añade los tomates cherry partidos y el laurel, cocina 2 minutos y agrega las lentejas y 1 litro de agua. Cuece tapado a fuego suave 30–35 minutos, hasta que estén tiernas. Retira el ajo y el laurel.",
+    "Añade los tomates cherry partidos y el laurel, cocina 2 minutos y agrega las lentejas y 1 litro de agua. Cuece tapado a fuego suave 30–35 minutos, hasta que estén tiernas. Mientras, ralla el parmesano. Retira el ajo y el laurel.",
     "Sala y comprueba que queda caldo de sobra: las lentejas deben estar cubiertas por tres o cuatro dedos de líquido; si no, añade agua caliente. Lleva a ebullición.",
     "Echa la pasta directamente en la cazuela y cuécela el tiempo del paquete más 1 minuto, unos 10 minutos, removiendo a menudo para que no se pegue: su almidón espesará el conjunto.",
-    "Apaga cuando la pasta esté al dente y tengas una sopa espesa y cremosa. Añade el parmesano rallado y deja reposar 3 minutos.",
+    "Apaga cuando la pasta esté al dente y tengas una sopa espesa y cremosa. Añade el parmesano y deja reposar 3 minutos.",
     "Sirve con un hilo del aceite restante en crudo, pimienta y la guindilla desmenuzada si te gusta el picante."
   ],
   nutricion: { kcal: 715, prot: 31, hc: 88, grasa: 26 },
@@ -388,10 +387,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta.",
     "Mientras, corta los tomates cherry en cuartos y ponlos en un bol grande con el ajo aplastado, el orégano, la albahaca rota con las manos, el aceite y sal. Mezcla y deja macerar mientras se cuece la pasta, al menos 10 minutos: soltarán su jugo.",
-    "Cuece las orecchiette el tiempo del paquete, unos 12–14 minutos, hasta que estén al dente pero sin el centro blanco.",
+    "Cuece las orecchiette el tiempo del paquete, unos 12–14 minutos, hasta que estén al dente pero sin el centro blanco. Mientras, ralla la ricotta salada.",
     "Retira el ajo del bol. Escurre la pasta reservando un poco del agua y échala muy caliente sobre los tomates; mezcla 1 minuto para que el calor ablande el tomate y se forme una salsa. Si queda seca, añade una cucharada de agua de cocción.",
     "Incorpora la rúcula y mezcla justo para que se marchite un poco.",
-    "Sirve con la ricotta salada rallada por encima y pimienta recién molida."
+    "Sirve con la ricotta salada por encima y pimienta recién molida."
   ],
   nutricion: { kcal: 575, prot: 18, hc: 63, grasa: 27 },
   etiquetas: ["tradicional", "apulia", "rápida", "verano", "económica", "poco especiada"],
@@ -516,10 +515,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en dados de 3 cm, mézclala con el aceite y sal y ásala 25–30 minutos, hasta que esté tierna y con los bordes caramelizados.",
-    "Mientras, pica la cebolla y pela y trocea la patata. Rehógalas en una cazuela con 5 g de mantequilla 5 minutos, añade el caldo y cuece 15 minutos, hasta que la patata esté tierna.",
-    "Añade la calabaza asada a la cazuela, cuece 3 minutos más y tritura con la batidora hasta obtener una crema muy fina. Incorpora la mitad del parmesano rallado y la nuez moscada, y ajusta de sal y pimienta. Si está muy espesa, aligérala con agua caliente.",
+    "Mientras, pica la cebolla y pela y trocea la patata. Rehógalas en una cazuela con 5 g de mantequilla 5 minutos, añade el caldo y cuece 15 minutos, hasta que la patata esté tierna. Mientras cuece, ralla el parmesano y desmenuza los amaretti con los dedos en trozos irregulares.",
+    "Añade la calabaza asada a la cazuela, cuece 3 minutos más y tritura con la batidora hasta obtener una crema muy fina. Incorpora la mitad del parmesano y la nuez moscada, y ajusta de sal y pimienta. Si está muy espesa, aligérala con agua caliente.",
     "En una sartén pequeña, calienta el resto de la mantequilla a fuego medio y fríe las hojas de salvia 30–40 segundos, hasta que dejen de burbujear y estén crujientes. Escúrrelas sobre papel.",
-    "Desmenuza los amaretti con los dedos en trozos irregulares.",
     "Sirve la crema caliente con los amaretti, el resto del parmesano, la salvia crujiente y un hilo de la mantequilla de la sartén."
   ],
   nutricion: { kcal: 470, prot: 14, hc: 57, grasa: 20 },
@@ -559,10 +557,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece la fregola en abundante agua con sal 10–12 minutos (mira el paquete), hasta que esté tierna pero con mordida. Escúrrela y extiéndela en una bandeja para que se temple sin apelmazarse.",
     "Mientras, corta el calabacín en medias lunas de 1 cm, úntalo con 1 cda de aceite y hazlo en la plancha muy caliente 3 minutos por lado, hasta que tenga marcas tostadas y el centro siga firme.",
-    "Escurre y enjuaga los garbanzos y sécalos con papel de cocina.",
+    "Escurre y enjuaga los garbanzos y sécalos con papel de cocina. Parte los tomates por la mitad y pica la menta.",
     "En un bol grande, bate la ralladura y el zumo del limón con el resto del aceite, el ajo rallado, sal y pimienta.",
-    "Añade al bol la fregola templada, los garbanzos, el calabacín y los tomates partidos por la mitad, y mezcla para que la fregola absorba el aliño.",
-    "Termina con la menta picada y el pecorino en lascas. Sirve templada o a temperatura ambiente."
+    "Añade al bol la fregola templada, los garbanzos, el calabacín y los tomates, y mezcla para que la fregola absorba el aliño.",
+    "Termina con la menta y el pecorino en lascas. Sirve templada o a temperatura ambiente."
   ],
   nutricion: { kcal: 635, prot: 23, hc: 67, grasa: 30 },
   etiquetas: ["creativa", "verano", "ideal para llevar", "batch cooking", "poco especiada"],
@@ -645,10 +643,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre muy bien las lentejas y sécalas con papel de cocina. Tritura la mitad con la batidora hasta hacer una pasta y mézclala en un bol con el resto de lentejas enteras, el huevo, el parmesano rallado, el pan rallado, 1 ajo rallado, media cucharadita de orégano, sal y pimienta.",
-    "Deja reposar la masa 10 minutos en la nevera para que el pan rallado absorba la humedad. Con las manos húmedas, forma 4 hamburguesas de 2 cm de grosor.",
+    "Deja reposar la masa 10 minutos en la nevera para que el pan rallado absorba la humedad; mientras, lamina el otro ajo y corta la mozzarella en lonchas. Con las manos húmedas, forma 4 hamburguesas de 2 cm de grosor.",
     "Calienta 1 cda de aceite en una sartén amplia a fuego medio y dora las hamburguesas 4 minutos por lado, hasta que tengan costra. Sácalas a un plato.",
-    "En la misma sartén, con casi todo el aceite restante, dora el otro ajo laminado 1 minuto, añade el tomate, las alcaparras, el resto del orégano y sal, y cuece 6–8 minutos hasta que espese.",
-    "Devuelve las hamburguesas a la salsa, pon encima la mozzarella en lonchas, tapa y cocina a fuego suave 4–5 minutos, hasta que el queso se funda.",
+    "En la misma sartén, con casi todo el aceite restante, dora el ajo laminado 1 minuto, añade el tomate, las alcaparras, el resto del orégano y sal, y cuece 6–8 minutos hasta que espese.",
+    "Devuelve las hamburguesas a la salsa, pon encima la mozzarella, tapa y cocina a fuego suave 4–5 minutos, hasta que el queso se funda.",
     "Sirve con la rúcula al lado, aliñada con un hilo de aceite y sal."
   ],
   nutricion: { kcal: 745, prot: 43, hc: 66, grasa: 35 },
@@ -692,8 +690,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Lamina los champiñones, corta el puerro en rodajas finas (lávalo bien entre las capas) y lamina los ajos.",
     "En una fuente de horno de unos 25 × 20 cm, mezcla los champiñones, el puerro y el ajo con el aceite, las hojas de tomillo y sal. Ásalo 15 minutos, removiendo a mitad, hasta que los champiñones hayan soltado su agua y empiecen a dorarse.",
     "Mientras, calienta el caldo hasta que hierva (en un cazo o en el microondas). Saca la fuente, riega con el vino blanco y raspa el fondo. Añade el orzo crudo y el caldo hirviendo y mezcla para que quede sumergido. Baja el horno a 200 °C.",
-    "Cubre con papel de aluminio y hornea 15 minutos. Destapa, añade las espinacas y la mitad del parmesano y remueve: las espinacas se marchitan con el calor. Si se ha secado, añade un chorrito de agua caliente; debe quedar meloso.",
-    "Reparte por encima el taleggio en lonchas y el resto del parmesano y gratina 8 minutos, hasta que burbujee y se dore en algunos puntos.",
+    "Cubre con papel de aluminio y hornea 15 minutos; mientras, corta el taleggio en lonchas. Destapa, añade las espinacas y la mitad del parmesano y remueve: las espinacas se marchitan con el calor. Si se ha secado, añade un chorrito de agua caliente; debe quedar meloso.",
+    "Reparte por encima el taleggio y el resto del parmesano y gratina 8 minutos, hasta que burbujee y se dore en algunos puntos.",
     "Deja reposar 5 minutos y termina con la ralladura del limón y pimienta recién molida."
   ],
   nutricion: { kcal: 705, prot: 31, hc: 74, grasa: 31 },
@@ -734,12 +732,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para la pasta. Pica muy finos la chalota y el ajo.",
+    "Pon a hervir abundante agua con sal para la pasta. Pica muy finos la chalota y el ajo y ralla el parmesano.",
     "En una sartén amplia, calienta el aceite y la mantequilla a fuego medio y rehoga la chalota 3 minutos, hasta que esté transparente. Añade el ajo y la guindilla desmenuzada y cocina 30 segundos.",
     "Agrega el tomate concentrado y tuéstalo 2 minutos removiendo, hasta que oscurezca y se pegue un poco al fondo: ahí está buena parte del sabor.",
     "Retira la sartén del fuego, vierte el vodka (sin llamas cerca) y vuelve a ponerla; deja que se evapore 1 minuto raspando el fondo. Añade el tomate triturado y cuece 5 minutos.",
     "Cuece los penne 1 minuto menos de lo que indique el paquete. Mientras, añade la nata a la salsa y cocina 2 minutos a fuego suave, hasta que tenga un color rosa anaranjado uniforme.",
-    "Pasa la pasta escurrida a la sartén con medio vaso del agua de cocción y el parmesano rallado, y saltea 1–2 minutos a fuego vivo hasta que la salsa quede brillante y envuelva cada penne.",
+    "Pasa la pasta escurrida a la sartén con medio vaso del agua de cocción y el parmesano, y saltea 1–2 minutos a fuego vivo hasta que la salsa quede brillante y envuelva cada penne.",
     "Sirve con la albahaca rota por encima y pimienta recién molida."
   ],
   nutricion: { kcal: 595, prot: 19, hc: 70, grasa: 25 },
@@ -781,12 +779,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la masa: en un bol, bate el huevo con 70 g de harina y una pizca de sal y añade 175 ml de leche poco a poco, batiendo con varillas, hasta tener una crema lisa y fluida, sin grumos. Déjala reposar 15 minutos.",
-    "Mientras, separa el brócoli en ramilletes pequeños y pela y lamina el tronco. Cuécelo 3 minutos en una cazuela con agua hirviendo y sal, y escúrrelo bien.",
+    "Mientras, separa el brócoli en ramilletes pequeños y pela y lamina el tronco. Cuécelo 3 minutos en una cazuela con agua hirviendo y sal, y escúrrelo bien. Lamina el ajo, ralla el parmesano y pica gruesas las nueces.",
     "En una sartén antiadherente de unos 20 cm, calienta el aceite con el ajo laminado y la guindilla desmenuzada 1 minuto a fuego medio. Añade el brócoli y saltéalo 4–5 minutos, aplastándolo un poco con la cuchara, hasta que esté tierno y algo dorado. Salpimienta y pásalo a un bol.",
-    "Limpia la sartén con papel, úntala con los 5 g de mantequilla y ponla a fuego medio. Vierte un cacito de masa (unos 50 ml), gira la sartén para cubrir el fondo y cuaja la crespella 1 minuto, hasta que los bordes se despeguen; dale la vuelta y cocina 30 segundos más. Repite hasta tener 6 y apílalas en un plato.",
-    "Para la bechamel, funde 15 g de mantequilla en un cazo, añade 15 g de harina y cocina 1 minuto removiendo. Vierte 250 ml de leche fría de golpe y bate con varillas a fuego medio 5–6 minutos, hasta que espese y cubra la cuchara. Sazona con sal y la nuez moscada. Precalienta el horno a 200 °C.",
+    "Precalienta el horno a 200 °C. Limpia la sartén con papel, úntala con los 5 g de mantequilla y ponla a fuego medio. Vierte un cacito de masa (unos 50 ml), gira la sartén para cubrir el fondo y cuaja la crespella 1 minuto, hasta que los bordes se despeguen; dale la vuelta y cocina 30 segundos más. Repite hasta tener 6 y apílalas en un plato.",
+    "Para la bechamel, funde 15 g de mantequilla en un cazo, añade 15 g de harina y cocina 1 minuto removiendo. Vierte 250 ml de leche fría de golpe y bate con varillas a fuego medio 5–6 minutos, hasta que espese y cubra la cuchara. Sazona con sal y la nuez moscada.",
     "Corta la scamorza en dados pequeños y mézclala con el brócoli y 3 cucharadas de bechamel. Reparte el relleno sobre las crespelle, enróllalas y colócalas en una fuente untada con un poco de bechamel, con el cierre hacia abajo.",
-    "Cúbrelas con el resto de la bechamel, el parmesano rallado y las nueces picadas gruesas, y hornea 15–18 minutos, hasta que la superficie esté dorada y burbujee.",
+    "Cúbrelas con el resto de la bechamel, el parmesano y las nueces, y hornea 15–18 minutos, hasta que la superficie esté dorada y burbujee.",
     "Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 770, prot: 36, hc: 53, grasa: 46 },
@@ -823,9 +821,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los calabacines en rodajas de 4–5 mm. Extiéndelas sobre papel de cocina, sálalas ligeramente y déjalas 10 minutos para que suelten agua; luego sécalas bien.",
+    "Corta los calabacines en rodajas de 4–5 mm. Extiéndelas sobre papel de cocina, sálalas ligeramente y déjalas 10 minutos para que suelten agua; mientras, lamina muy fino el ajo. Luego sécalas bien.",
     "Calienta el aceite en una sartén amplia a fuego medio-alto (unos 175 °C) y fríe las rodajas en tandas, sin amontonarlas, 2–3 minutos por lado, hasta que estén doradas con manchas tostadas. Escúrrelas sobre papel.",
-    "Colócalas por capas en una fuente, intercalando el ajo en láminas muy finas, hojas de menta rotas, una pizca de sal y unas gotas de vinagre. Riega con el resto del vinagre y 1 cucharada del aceite de freír.",
+    "Colócalas por capas en una fuente, intercalando el ajo, hojas de menta rotas, una pizca de sal y unas gotas de vinagre. Riega con el resto del vinagre y 1 cucharada del aceite de freír.",
     "Deja reposar al menos 10 minutos a temperatura ambiente; si tienes tiempo, unas horas: cuanto más repose, mejor sabe.",
     "Mientras, tuesta las almendras en una sartén limpia 3–4 minutos, hasta que huelan, y pícalas gruesas. Tuesta el pan en la misma sartén.",
     "Sirve el calabacín con la mozzarella de búfala abierta con las manos, las almendras, menta fresca, pimienta y el pan para recoger el jugo."
@@ -867,9 +865,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 18–20 minutos, hasta que se deshagan al pincharlas.",
-    "Mientras, limpia los portobello con papel húmedo y quítales el pie (pícalo). Si las láminas están muy oscuras, ráspalas con una cucharilla para que no tiñan la salsa.",
+    "Mientras, limpia los portobello con papel húmedo y quítales el pie (pícalo). Si las láminas están muy oscuras, ráspalas con una cucharilla para que no tiñan la salsa. Lamina el ajo.",
     "Calienta 15 g de mantequilla en una sartén amplia a fuego medio-alto y pon los portobello con las láminas hacia arriba. Dóralos 4 minutos, dales la vuelta y cocina 3 minutos más, hasta que suelten su jugo y estén tiernos. Salpimienta.",
-    "Vuelve a ponerlos con las láminas hacia arriba y añade a la sartén los pies picados y el ajo laminado. Coloca sobre cada seta una loncha de provolone y dos hojas de salvia, tapa y cocina 2 minutos a fuego bajo, hasta que el queso se funda.",
+    "Vuelve a ponerlos con las láminas hacia arriba y añade a la sartén los pies picados y el ajo. Coloca sobre cada seta una loncha de provolone y dos hojas de salvia, tapa y cocina 2 minutos a fuego bajo, hasta que el queso se funda.",
     "Pasa las setas a un plato caliente. Sube el fuego, vierte el vino blanco y deja que reduzca a la mitad, 2 minutos, raspando el fondo. Fuera del fuego, añade el resto de la mantequilla fría y mueve la sartén hasta que la salsa se ligue y brille.",
     "Escurre las patatas, calienta la leche en la misma cazuela, devuelve las patatas y cháfalas con la leche, el aceite, la ralladura del limón, sal y pimienta hasta tener un puré liso.",
     "Sirve el puré con los saltimbocca encima y la salsa de vino por encima."

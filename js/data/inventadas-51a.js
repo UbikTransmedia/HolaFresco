@@ -35,15 +35,15 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escalda las cebollitas 1 minuto en agua hirviendo: así la piel sale sola al pelarlas. Lamina los champiñones y pica el ajo.",
+    "Escalda las cebollitas 1 minuto en agua hirviendo: así la piel sale sola: pélalas. Lamina los champiñones y pica el ajo.",
     "Lleva a ebullición el vino con el caldo, el ajo, el tomillo y el laurel en un cazo y deja reducir a fuego medio 12-15 minutos, hasta la mitad: se evapora el alcohol y se concentra el sabor.",
     "Mientras, dora las cebollitas y los champiñones en una sartén con la mitad de la mantequilla a fuego medio-alto 8 minutos, sin removerlos todo el rato, para que tomen color en lugar de cocerse en su agua. Salpimienta al final.",
     "Amasa con un tenedor el resto de la mantequilla con la harina (beurre manié). Cuela el vino reducido, ponlo a fuego suave y añade la pasta poco a poco batiendo: la harina envuelta en grasa se dispersa sin grumos y liga la salsa en 2 minutos. Incorpora las setas y las cebollitas.",
-    "Para escalfar, llena una cazuela con 8 cm de agua, añade el vinagre (sin sal, que afloja la clara) y caliéntala hasta que tiemble con burbujas pequeñas en el fondo, a unos 85-90 °C: si hierve a borbotones, la clara se deshilacha.",
+    "Para escalfar, llena una cazuela con 8 cm de agua, añade el vinagre (sin sal, que afloja la clara) y caliéntala hasta que tiemble con burbujas pequeñas en el fondo, a unos 85-90 °C: si hierve a borbotones, la clara se deshilacha. Mientras se calienta, pica el perejil.",
     "Casca cada huevo en un colador fino y déjalo 10 segundos para que escurra la clara más líquida, la que forma hilos; pásalo a un cuenco pequeño.",
     "Remueve el agua formando un remolino suave y desliza el huevo en el centro, desde muy cerca de la superficie. Escalfa de 2 en 2 durante 3 minutos: la clara debe estar opaca y firme y la yema temblar al tocarla.",
     "Sácalos con una espumadera y apóyalos un segundo sobre papel de cocina para que no agüen la salsa. Tuesta el pan.",
-    "Sirve cada tostada con un huevo encima, napa con la salsa de vino, setas y cebollitas, y termina con perejil picado y pimienta."
+    "Sirve cada tostada con un huevo encima, napa con la salsa de vino, setas y cebollitas, y termina con el perejil y pimienta."
   ],
   nutricion: { kcal: 390, prot: 19, hc: 34, grasa: 19 },
   etiquetas: ["técnica", "escalfar", "huevos", "francesa", "para invitados", "poco especiada"],
@@ -83,10 +83,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el caldo corto: pon en una cazuela 1 litro de agua con el vino, la zanahoria y el puerro en rodajas, el apio, el laurel, la pimienta en grano, una rodaja de limón y 2 cucharaditas de sal. Hierve 15 minutos para que las verduras suelten su aroma: el ácido del vino y del limón mantiene el pescado firme y blanco.",
-    "Mientras, cuece las patatas con piel en agua con sal 15-20 minutos, hasta que una brocheta entre sin resistencia. Escúrrelas y pártelas por la mitad.",
-    "Prepara la vinagreta: bate la mostaza con el zumo de medio limón y una pizca de sal y añade el aceite en hilo sin dejar de batir, para que emulsione. Incorpora las alcaparras y el perejil picados.",
-    "Corta el rape en medallones de 3 cm, todos iguales para que se hagan a la vez, y sálalos ligeramente.",
+    "Prepara el caldo corto: corta la zanahoria y el puerro en rodajas y ponlos en una cazuela con 1 litro de agua, el vino, el apio, el laurel, la pimienta en grano, una rodaja de limón y 2 cucharaditas de sal. Hierve 15 minutos para que las verduras suelten su aroma: el ácido del vino y del limón mantiene el pescado firme y blanco.",
+    "Mientras, cuece las patatas con piel en agua con sal 15-20 minutos, hasta que una brocheta entre sin resistencia.",
+    "Mientras se cuecen las patatas, prepara la vinagreta: bate la mostaza con el zumo de medio limón y una pizca de sal y añade el aceite en hilo sin dejar de batir, para que emulsione. Pica las alcaparras y el perejil e incorpóralos.",
+    "Corta el rape en medallones de 3 cm, todos iguales para que se hagan a la vez, y sálalos ligeramente. Escurre las patatas y pártelas por la mitad.",
     "Baja el fuego del caldo hasta que deje de burbujear: debe estar a unos 75-80 °C, con apenas un leve temblor. Si hierve, las proteínas se contraen de golpe y el pescado queda seco y fibroso.",
     "Sumerge los medallones y escálfalos 6-7 minutos sin tapar. Están listos cuando la carne pasa de translúcida a blanca nacarada y cede en lascas al presionarla (55 °C en el centro).",
     "Sácalos con una espumadera y escúrrelos bien. Sirve el rape sobre las patatas, riégalo con la vinagreta y añade unas cucharadas de caldo caliente."
@@ -128,11 +128,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Saca de la nevera el huevo de la mayonesa 30 minutos antes: con todos los ingredientes a la misma temperatura la emulsión se forma antes y se corta menos.",
     "Cuece las patatas con piel en agua fría con sal; desde que hierva, 20-25 minutos, hasta que el cuchillo entre sin resistencia. En los últimos 10 minutos añade los 2 huevos para que cuezan a la vez y enfríalos luego en agua fría para que se pelen bien.",
-    "Para la mayonesa, pon en un bol la yema, la mostaza, una pizca de sal y una cucharadita de zumo de limón. Apoya el bol sobre un paño húmedo enrollado para que no baile.",
+    "Mientras se cuecen las patatas, prepara la mayonesa: pon en un bol la yema, la mostaza, una pizca de sal y una cucharadita de zumo de limón. Apoya el bol sobre un paño húmedo enrollado para que no baile.",
     "Bate con varillas y añade el aceite gota a gota al principio: la yema solo puede envolver un poco de aceite cada vez y, si echas demasiado, se corta. Cuando espese y brille (tras unos 30 ml), ya puedes verterlo en un hilo fino.",
-    "Cuando esté espesa, aclárala con el resto del zumo de limón y ajusta de sal. Si se corta (se ve líquida y granulosa), pon otra yema en un bol limpio y añade la mayonesa cortada poco a poco, batiendo: se recupera.",
+    "Cuando esté espesa, aclárala con el resto del zumo de limón y ajusta de sal. Si se corta (se ve líquida y granulosa), pon otra yema en un bol limpio y añade la mayonesa cortada poco a poco, batiendo: se recupera. Pica fina la cebolleta y el perejil y corta los piquillos en tiras.",
     "Pela las patatas aún templadas, córtalas en rodajas gruesas y sálalas: en tibio absorben mejor el aliño.",
-    "Mezcla con suavidad las patatas con la cebolleta picada fina, el bonito en lascas y la mitad de la mayonesa. Reparte encima los huevos en cuartos, los piquillos en tiras, las aceitunas y el resto de la mayonesa, y termina con perejil."
+    "Mezcla con suavidad las patatas con la cebolleta, el bonito en lascas y la mitad de la mayonesa. Reparte encima los huevos en cuartos, los piquillos, las aceitunas y el resto de la mayonesa, y termina con perejil."
   ],
   nutricion: { kcal: 840, prot: 30, hc: 45, grasa: 60 },
   etiquetas: ["técnica", "emulsionar", "mayonesa casera", "verano", "tradicional", "poco especiada"],
@@ -168,13 +168,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela los ajos, pártelos por la mitad y retira el germen verde central: es lo que repite y amarga. Machácalos en el mortero con la sal gruesa hasta obtener una pasta muy fina, sin trocitos: la pasta de ajo es el emulsionante y, si quedan grumos, el aceite no se agarra.",
+    "Pon a hervir agua para cocer al vapor. Mientras, pela las patatas y córtalas en trozos de 4 cm; corta la zanahoria en rodajas y las judías verdes en tramos de 4 cm.",
+    "Cuece las patatas y la zanahoria al vapor sobre el agua hirviendo, tapadas, 18-20 minutos; las judías van solo los últimos 8, hasta que estén tiernas pero con algo de mordida. Al vapor no se aguan y sujetan mejor la salsa.",
+    "Mientras se cuecen, prepara el allioli: pela los ajos, pártelos por la mitad y retira el germen verde central: es lo que repite y amarga. Machácalos en el mortero con la sal gruesa hasta obtener una pasta muy fina, sin trocitos: la pasta de ajo es el emulsionante y, si quedan grumos, el aceite no se agarra.",
     "Añade el aceite gota a gota, girando la maza siempre en el mismo sentido y sin parar, con movimientos suaves y constantes. Los primeros 2-3 minutos son los críticos: no aceleres.",
     "Cuando la pasta empiece a espesar y se vuelva blanquecina y brillante, puedes añadir el aceite en un hilo muy fino. Si ves que se corta (aparecen gotas de aceite sueltas), añade unas gotas de agua o de zumo de limón y sigue girando: ayudan a reconstruir la emulsión.",
-    "Sigue hasta incorporar todo el aceite o hasta que la maza se sostenga de pie, unos 10-12 minutos en total. Reserva en un lugar fresco.",
-    "Pela las patatas y córtalas en trozos de 4 cm; corta la zanahoria en rodajas y las judías verdes en tramos de 4 cm.",
-    "Cuece las verduras al vapor sobre agua hirviendo, tapadas: patatas y zanahoria 18-20 minutos y las judías solo los últimos 8, hasta que estén tiernas pero con algo de mordida. Al vapor no se aguan y sujetan mejor la salsa.",
-    "Sala las verduras en caliente y sírvelas templadas con el allioli por encima, una pizca de pimentón y perejil picado."
+    "Sigue hasta incorporar todo el aceite o hasta que la maza se sostenga de pie, unos 10-12 minutos en total. Reserva en un lugar fresco. No olvides echar las judías al vapor cuando falten 8 minutos y pica el perejil.",
+    "Sala las verduras en caliente y sírvelas templadas con el allioli por encima, una pizca de pimentón y el perejil."
   ],
   nutricion: { kcal: 550, prot: 8, hc: 51, grasa: 35 },
   etiquetas: ["técnica", "emulsionar", "allioli", "sin huevo", "sin gluten", "tradicional", "poco especiada"],
@@ -212,13 +212,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta los puerros en rodajas de 1 cm, lávalos bien y cuécelos con la patata en dados en agua con sal 12 minutos, hasta que estén tiernos. Escúrrelos y mantenlos calientes.",
-    "Pica la chalota muy fina y ponla en un cazo pequeño con el vino y el vinagre. Reduce a fuego medio 6-8 minutos, hasta que queden solo unas 2 cucharadas de líquido casi almibarado: esa reducción ácida es la base del sabor y, con poco líquido, la emulsión será estable.",
+    "Mientras, pica la chalota muy fina y ponla en un cazo pequeño con el vino y el vinagre. Reduce a fuego medio 6-8 minutos, hasta que queden solo unas 2 cucharadas de líquido casi almibarado: esa reducción ácida es la base del sabor y, con poco líquido, la emulsión será estable.",
     "Saca la mantequilla de la nevera justo ahora. Baja el fuego al mínimo y añade 2 dados batiendo con varillas sin parar.",
     "Cuando casi se hayan fundido, añade 2 más, y así sucesivamente. La mantequilla debe fundirse cremosa, no derretirse en aceite: si el cazo se calienta demasiado, apártalo del fuego unos segundos sin dejar de batir. La salsa queda nacarada, con textura de nata ligera.",
     "Sazona con sal y pimienta blanca, cuélala si la quieres fina y mantenla al baño maría tibio, nunca por encima de 60 °C o se separa.",
-    "Seca muy bien los lomos de lubina, haz 2-3 cortes superficiales en la piel para que no se curve y sálalos. Calienta la sartén con el aceite a fuego medio-alto.",
+    "Seca muy bien los lomos de lubina, haz 2-3 cortes superficiales en la piel para que no se curve y sálalos. Pica el cebollino. Calienta la sartén con el aceite a fuego medio-alto.",
     "Pon la lubina con la piel hacia abajo y presiónala con una espátula los primeros 20 segundos. Cocina 3-4 minutos, hasta que la carne se vea blanca casi hasta arriba; dale la vuelta 30 segundos y retira.",
-    "Sirve los puerros y la patata de base, la lubina con la piel crujiente hacia arriba y la beurre blanc alrededor, con cebollino picado."
+    "Sirve los puerros y la patata de base, la lubina con la piel crujiente hacia arriba y la beurre blanc alrededor, con el cebollino."
   ],
   nutricion: { kcal: 600, prot: 34, hc: 35, grasa: 36 },
   etiquetas: ["técnica", "emulsionar", "salsa francesa", "para invitados", "sin gluten", "poco especiada"],
@@ -258,12 +258,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua fría con sal; desde que hierva, 20-25 minutos, hasta que el cuchillo entre justo. Enteras y con piel absorben menos agua y no se deshacen.",
-    "Mientras, prepara la vinagreta en un bote con tapa: pon las dos mostazas, el vinagre, el azúcar, sal y pimienta y agita; añade el aceite y agita con fuerza 20 segundos. La mostaza actúa de emulsionante: envuelve las gotas de aceite y evita que se separe.",
-    "Calienta el caldo y mézclalo con la cebolla morada picada muy fina: el calor suaviza su picor.",
+    "Mientras, prepara la vinagreta en un bote con tapa: pon las dos mostazas, el vinagre, el azúcar, sal y pimienta y agita; añade el aceite y agita con fuerza 20 segundos. La mostaza actúa de emulsionante: envuelve las gotas de aceite y evita que se separe. Pica muy fina la cebolla morada y pica los pepinillos y el cebollino.",
+    "Calienta el caldo y mézclalo con la cebolla morada: el calor suaviza su picor.",
     "Pela las patatas todavía calientes (sujétalas con un tenedor) y córtalas en rodajas de medio centímetro directamente en un bol.",
     "Vierte encima el caldo con la cebolla y deja reposar 10 minutos, removiendo con cuidado: la patata caliente absorbe el líquido y queda jugosa por dentro, no seca.",
-    "Corta la salchicha en rodajas y dórala en una sartén sin aceite a fuego medio 4-5 minutos, hasta que se tueste.",
-    "Agita otra vez la vinagreta, viértela sobre la patata con los pepinillos picados y la salchicha y mezcla con suavidad. Termina con cebollino picado. Sírvela tibia o a temperatura ambiente."
+    "Mientras, corta la salchicha en rodajas y dórala en una sartén sin aceite a fuego medio 4-5 minutos, hasta que se tueste.",
+    "Agita otra vez la vinagreta, viértela sobre la patata con los pepinillos y la salchicha y mezcla con suavidad. Termina con el cebollino. Sírvela tibia o a temperatura ambiente."
   ],
   nutricion: { kcal: 630, prot: 16, hc: 47, grasa: 42 },
   etiquetas: ["técnica", "emulsionar", "vinagreta", "tupper", "ideal para llevar", "poco especiada"],
@@ -303,14 +303,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien los contramuslos con papel y salpimiéntalos. Calienta el aceite en una cazuela ancha a fuego medio-alto y dóralos con la piel hacia abajo 6-7 minutos sin moverlos, hasta que la piel esté dorada y se despegue sola; dales la vuelta 2 minutos y sácalos. Ese dorado (reacción de Maillard) dará sabor y color a la salsa.",
-    "Retira parte de la grasa si hay mucha (deja unas 2 cucharadas), baja a fuego medio y añade la cebolla en juliana con una pizca de sal. Cocina 10 minutos raspando el fondo, hasta que esté dorada y blanda: la sal le hace soltar agua, que despega los tostados del fondo.",
+    "Seca bien los contramuslos con papel y salpimiéntalos. Calienta el aceite en una cazuela ancha a fuego medio-alto y dóralos con la piel hacia abajo 6-7 minutos sin moverlos, hasta que la piel esté dorada y se despegue sola; dales la vuelta 2 minutos y sácalos. Mientras se dora, corta la cebolla en juliana. Ese dorado (reacción de Maillard) dará sabor y color a la salsa.",
+    "Retira parte de la grasa si hay mucha (deja unas 2 cucharadas), baja a fuego medio y añade la cebolla con una pizca de sal. Cocina 10 minutos raspando el fondo, hasta que esté dorada y blanda: la sal le hace soltar agua, que despega los tostados del fondo.",
     "Espolvorea la harina y el azúcar moreno y remueve 1 minuto para tostar la harina, que después espesará la salsa.",
     "Vierte la cerveza poco a poco, raspando con una cuchara de madera, y deja hervir 2 minutos para que se vaya el alcohol. Añade el caldo, la mostaza, el tomillo y el laurel.",
     "Devuelve el pollo con la piel hacia arriba: el líquido debe cubrir solo hasta la mitad de la carne. Así la parte de abajo se guisa y la de arriba conserva el dorado.",
-    "Tapa, baja a fuego suave (un leve burbujeo) y brasea 30 minutos. A los 10 minutos, añade las patatas en trozos de 4 cm alrededor del pollo.",
-    "Destapa los últimos 10 minutos para que la salsa reduzca y espese. El pollo está listo cuando la carne se separa del hueso al empujarla con un tenedor y las patatas están tiernas.",
-    "Prueba de sal, retira el laurel y sirve con perejil picado."
+    "Tapa, baja a fuego suave (un leve burbujeo) y brasea 30 minutos. Mientras, pela las patatas y córtalas en trozos de 4 cm; a los 10 minutos, añádelas alrededor del pollo.",
+    "Destapa los últimos 10 minutos para que la salsa reduzca y espese; mientras, pica el perejil. El pollo está listo cuando la carne se separa del hueso al empujarla con un tenedor y las patatas están tiernas.",
+    "Prueba de sal, retira el laurel y sirve con el perejil."
   ],
   nutricion: { kcal: 710, prot: 38, hc: 52, grasa: 39 },
   etiquetas: ["técnica", "brasear", "de domingo", "tupper", "batch cooking", "invierno", "poco especiada"],
@@ -352,13 +352,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca el solomillo de la nevera 20 minutos antes, retira la telilla blanca con un cuchillo fino (si no, se encoge y se curva) y sécalo muy bien con papel: una superficie húmeda hierve en vez de dorarse.",
-    "Pon a cocer el arroz lavado con 1,5 veces su volumen de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos sin destapar.",
+    "Mientras se atempera, pon a cocer el arroz lavado con 1,5 veces su volumen de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos sin destapar.",
     "Pela las zanahorias, córtalas en bastones y cuécelas 4 minutos en agua con sal; escúrrelas.",
-    "Mezcla el zumo de naranja, la soja, la miel, el vinagre, el jengibre rallado y el ajo picado.",
+    "Ralla el jengibre, pica el ajo y mézclalos con el zumo de naranja, la soja, la miel y el vinagre. Pica la cebolleta.",
     "Calienta la sartén con el aceite a fuego alto hasta que humee ligeramente. Salpimienta el solomillo y séllalo 2 minutos por cada cara, sin moverlo, hasta que tenga costra dorada por todos lados. Sellar no «cierra los poros», pero crea una costra con mucho sabor.",
     "Baja a fuego medio, añade la mezcla de naranja y las zanahorias y deja que hierva suave 6-8 minutos, dando la vuelta a la carne y regándola con la salsa.",
     "Cuando la salsa se reduzca a un almíbar que napa la cuchara y forma burbujas grandes y brillantes, añade la mantequilla y mueve la sartén: ese es el glaseado. La carne está en su punto a 63 °C en el centro, o cuando al presionarla está firme pero con algo de rebote.",
-    "Deja reposar el solomillo 5 minutos tapado con papel de aluminio para que los jugos se repartan, córtalo en medallones y sírvelo con el arroz, las zanahorias glaseadas, sésamo y cebolleta picada."
+    "Deja reposar el solomillo 5 minutos tapado con papel de aluminio para que los jugos se repartan, córtalo en medallones y sírvelo con el arroz, las zanahorias glaseadas, sésamo y la cebolleta."
   ],
   nutricion: { kcal: 605, prot: 41, hc: 70, grasa: 18 },
   etiquetas: ["técnica", "sellar", "glasear", "alta en proteína", "para invitados", "poco especiada"],
@@ -396,12 +396,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pon a cocer el arroz lavado con 1,5 veces su volumen de agua, tapado y a fuego mínimo, 12 minutos, y deja reposar.",
-    "Corta el calabacín y la zanahoria en tiras finas tipo tallarín (con pelador o cuchillo) y la cebolleta en tiras. En papillote todo se hace a la vez, así que las verduras deben ser finas para estar listas al mismo tiempo que el pescado.",
+    "Corta el calabacín y la zanahoria en tiras finas tipo tallarín (con pelador o cuchillo) y la cebolleta en tiras. Corta el jengibre en tiras finas. En papillote todo se hace a la vez, así que las verduras deben ser finas para estar listas al mismo tiempo que el pescado.",
     "Corta dos rectángulos de papel de horno de unos 40 x 30 cm. Reparte las verduras en el centro de una mitad de cada uno y coloca encima el salmón, ligeramente salado.",
-    "Mezcla la soja, el zumo de media lima, el aceite de sésamo y el jengibre en tiras finas y viértelo sobre el salmón. Añade 2 rodajas de lima encima.",
+    "Mezcla la soja, el zumo de media lima, el aceite de sésamo y el jengibre y viértelo sobre el salmón. Añade 2 rodajas de lima encima.",
     "Dobla el papel y cierra los bordes con pliegues pequeños, apretados y solapados, como una empanadilla: tiene que quedar hermético para que el vapor no escape y cocine el pescado.",
-    "Hornea en una bandeja 12-14 minutos para lomos de 3 cm. La señal es que el paquete se infla como un globo. Si quieres comprobarlo, el centro del salmón debe estar a 50-52 °C, rosado y jugoso.",
-    "Abre los paquetes en la mesa con cuidado (sale vapor muy caliente) y sirve con el arroz, regando con el jugo del fondo y con cilantro picado."
+    "Hornea en una bandeja 12-14 minutos para lomos de 3 cm. La señal es que el paquete se infla como un globo. Si quieres comprobarlo, el centro del salmón debe estar a 50-52 °C, rosado y jugoso. Mientras, pica el cilantro.",
+    "Abre los paquetes en la mesa con cuidado (sale vapor muy caliente) y sirve con el arroz, regando con el jugo del fondo y con el cilantro."
   ],
   nutricion: { kcal: 545, prot: 34, hc: 55, grasa: 21 },
   etiquetas: ["técnica", "papillote", "al horno", "sin lácteos", "omega 3", "poco especiada", "bajo en colesterol"],
@@ -446,8 +446,8 @@ window.RECETAS_SEED.push({
     "Tapa y deja pochar 20 minutos, removiendo cada 5. Si se pega, añade una cucharada de agua, pero no subas el fuego. Rehogar es a fuego medio y unos minutos, con algo de color; pochar es lento y sin dorar, hasta que la cebolla está translúcida, blanda y dulce.",
     "Añade los pimientos y el ajo y sigue pochando destapado 10 minutos más, hasta que los pimientos estén blandos.",
     "Aparta del fuego, incorpora el comino y el pimentón y remueve 20 segundos para que no se quemen; añade el tomate y cocina 5 minutos a fuego medio, hasta que espese.",
-    "Agrega los garbanzos escurridos y enjuagados, el laurel y el caldo. Cuece a fuego suave 15 minutos, hasta que el caldo espese y los garbanzos tomen sabor. Si lo quieres más ligado, aplasta unos cuantos garbanzos contra la pared de la cazuela.",
-    "Prueba de sal, retira el laurel y sirve con perejil picado y el pan tostado para mojar."
+    "Agrega los garbanzos escurridos y enjuagados, el laurel y el caldo. Cuece a fuego suave 15 minutos (mientras, pica el perejil), hasta que el caldo espese y los garbanzos tomen sabor. Si lo quieres más ligado, aplasta unos cuantos garbanzos contra la pared de la cazuela.",
+    "Prueba de sal, retira el laurel y sirve con el perejil y el pan tostado para mojar."
   ],
   nutricion: { kcal: 600, prot: 20, hc: 68, grasa: 28 },
   etiquetas: ["técnica", "pochar", "de cuchara", "tupper", "batch cooking", "económica", "poco especiada"],
@@ -491,10 +491,10 @@ window.RECETAS_SEED.push({
     "Limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, corta las puntas y pártelas en cuartos; frótalas con el limón para que no se oscurezcan.",
     "Calienta el aceite en una cazuela ancha a fuego medio-alto, sala el pollo y dóralo 5 minutos; añade las alcachofas y dóralas 3 minutos. Sácalo todo.",
     "En el mismo aceite, a fuego bajo, pocha la cebolla 10 minutos y añade el ajo 1 minuto. Incorpora el tomate y la carne de la ñora, raspada con un cuchillo.",
-    "Cocina el sofrito a fuego bajo 25-30 minutos, removiendo de vez en cuando. Primero suelta agua, luego se concentra y al final se oscurece a color teja y el aceite se separa por los bordes: esa es la señal. El sofrito largo pierde la acidez del tomate y concentra sus azúcares; es lo que da el sabor de fondo al arroz.",
+    "Cocina el sofrito a fuego bajo 25-30 minutos, removiendo de vez en cuando; mientras, calienta el caldo con el azafrán desmenuzado y pica el perejil. Primero suelta agua, luego se concentra y al final se oscurece a color teja y el aceite se separa por los bordes: esa es la señal. El sofrito largo pierde la acidez del tomate y concentra sus azúcares; es lo que da el sabor de fondo al arroz.",
     "Añade el pimentón, remueve 20 segundos y agrega el arroz. Nacáralo 1 minuto, removiendo para que se impregne del sofrito.",
-    "Vierte el caldo caliente con el azafrán desmenuzado, devuelve el pollo y las alcachofas y prueba de sal: el caldo debe estar un punto salado. Cuece 10 minutos a fuego medio-alto y 8 más a fuego medio, removiendo de vez en cuando: el arroz caldoso debe quedar suelto en un caldo ligeramente espeso.",
-    "Apaga, deja reposar solo 2 minutos (el arroz sigue bebiendo caldo) y sirve enseguida con perejil picado."
+    "Vierte el caldo caliente con el azafrán, devuelve el pollo y las alcachofas y prueba de sal: el caldo debe estar un punto salado. Cuece 10 minutos a fuego medio-alto y 8 más a fuego medio, removiendo de vez en cuando: el arroz caldoso debe quedar suelto en un caldo ligeramente espeso.",
+    "Apaga, deja reposar solo 2 minutos (el arroz sigue bebiendo caldo) y sirve enseguida con el perejil."
   ],
   nutricion: { kcal: 790, prot: 37, hc: 81, grasa: 35 },
   etiquetas: ["técnica", "sofrito", "arroz caldoso", "de cuchara", "tradicional", "poco especiada"],
@@ -544,9 +544,9 @@ window.RECETAS_SEED.push({
     "Pasa todo a una olla, desglasa la bandeja con el vino tinto rascando los jugos pegados y añádelo. Cubre con 2,5 litros de agua fría, el laurel y el tomillo: el agua fría extrae mejor la gelatina y hace subir las impurezas.",
     "Lleva a ebullición, retira la espuma y baja a fuego mínimo: debe burbujear apenas, 2 horas, sin tapar y sin remover. Si hierve fuerte, la grasa se emulsiona y el fondo queda turbio. No lo sales: lo vas a reducir.",
     "Cuela el fondo por un colador fino, desgrasa la superficie con un cucharón y redúcelo a fuego medio hasta tener unos 400 ml. Debe quedar oscuro, brillante y algo meloso al enfriarse en una cuchara.",
-    "Mientras se hace el fondo, prepara las albóndigas: remoja la miga de pan en la leche y mézclala con la carne, el huevo, un ajo y el perejil picados, sal y pimienta. Forma bolas de 3 cm sin apretarlas (si se compactan, quedan duras) y pásalas por harina.",
+    "Mientras se hace el fondo, prepara las albóndigas: pica los ajos, el perejil y la otra cebolla. Remoja la miga de pan en la leche y mézclala con la carne, el huevo, un ajo, el perejil, sal y pimienta. Forma bolas de 3 cm sin apretarlas (si se compactan, quedan duras) y pásalas por harina.",
     "Dora las albóndigas en una cazuela con 1 cucharada de aceite a fuego medio-alto 4-5 minutos, por tandas y sin amontonarlas. Sácalas.",
-    "En la misma cazuela, pocha la otra cebolla y el otro ajo picados 8 minutos, añade las setas y saltéalas 3 minutos. Espolvorea 1 cucharadita de la harina sobrante, remueve 1 minuto y vierte el fondo reducido.",
+    "En la misma cazuela, pocha la cebolla y el otro ajo 8 minutos, añade las setas y saltéalas 3 minutos. Espolvorea 1 cucharadita de la harina sobrante, remueve 1 minuto y vierte el fondo reducido.",
     "Devuelve las albóndigas, tapa y cuece a fuego suave 15 minutos, hasta que la salsa nape una cuchara. Prueba de sal ahora, al final.",
     "Mientras, corta las patatas en dados y dóralas en una sartén con el resto del aceite a fuego medio 15-18 minutos, hasta que estén crujientes; sálalas. Sirve las albóndigas con su salsa y las patatas al lado."
   ],
@@ -590,9 +590,9 @@ window.RECETAS_SEED.push({
     "Calienta a fuego medio sin tapar. Al acercarse al hervor sube una espuma gris (proteínas que coagulan): retírala con una espumadera durante 5-10 minutos. Empezar en frío hace que se suelten poco a poco y se puedan quitar.",
     "Añade una zanahoria, el puerro, el apio, la cebolla partida y la pimienta en grano. Baja el fuego hasta que el caldo apenas tiemble (unos 90 °C) y cuece 1 h 30 min sin remover. Un hervor fuerte emulsiona la grasa y el caldo queda turbio.",
     "A los 30 minutos, saca el contramuslo, desmígalo y reserva la carne.",
-    "Mientras, cuece el huevo 10 minutos, enfríalo y pícalo.",
+    "Mientras, cuece el huevo 10 minutos, enfríalo y pícalo. Corta la otra zanahoria en dados pequeños.",
     "Cuela el caldo por un colador fino forrado con papel de cocina, sin apretar las verduras. Desgrásalo con un cucharón o apoyando un segundo una hoja de papel absorbente en la superficie. Ahora sí, sala al gusto.",
-    "Lleva a ebullición 1 litro de caldo con la otra zanahoria en dados pequeños 5 minutos, añade los fideos y cuécelos el tiempo del paquete (2-4 minutos).",
+    "Lleva a ebullición 1 litro de caldo con la zanahoria en dados 5 minutos, añade los fideos y cuécelos el tiempo del paquete (2-4 minutos).",
     "Sirve con el pollo desmigado, el huevo picado y perejil fresco."
   ],
   nutricion: { kcal: 320, prot: 26, hc: 28, grasa: 11 },
@@ -637,9 +637,9 @@ window.RECETAS_SEED.push({
     "Añade la harina de golpe y remueve con varillas 2-3 minutos, hasta que huela a galleta y tome un tono pajizo: es un roux rubio. Cocinar la harina elimina su sabor a crudo; si la tuestas más (roux oscuro), liga menos pero da más sabor.",
     "Vierte el caldo caliente en tres veces, batiendo con energía tras cada adición hasta que quede liso: cada gránulo de almidón, envuelto en grasa, se hincha sin pegarse a los demás.",
     "Añade la coliflor, lleva a ebullición y cuece a fuego suave 15 minutos, hasta que esté muy tierna. Verás que la crema espesa al llegar al hervor: el almidón liga a partir de unos 90 °C.",
-    "Mientras, corta el pan en dados y dóralo en una sartén con el aceite y el ajo laminado 4 minutos, hasta que esté crujiente.",
+    "Mientras, corta el pan en dados, lamina el ajo y dóralos en una sartén con el aceite 4 minutos, hasta que el pan esté crujiente. Pica el cebollino.",
     "Añade la leche, tritura hasta que quede muy fina y pásala por un colador si la quieres sedosa. Sazona con sal, pimienta blanca y nuez moscada.",
-    "Sirve con los picatostes y cebollino picado."
+    "Sirve con los picatostes y el cebollino."
   ],
   nutricion: { kcal: 420, prot: 13, hc: 45, grasa: 21 },
   etiquetas: ["técnica", "roux", "crema", "tupper", "invierno", "poco especiada"],
@@ -680,10 +680,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer el arroz lavado con 1,5 veces su volumen de agua, tapado y a fuego mínimo, 12 minutos, y deja reposar.",
-    "Corta las berenjenas en bastones de 1,5 x 6 cm, sálalas y déjalas 15 minutos en un colador; sécalas con papel. La sal les saca agua y así chupan menos aceite.",
-    "Mezcla en un bol la soja, el vinagre, el azúcar y el caldo. En un vaso aparte, disuelve la maicena en 2 cucharadas de agua fría: siempre en frío, porque echada directamente en caliente forma grumos al instante.",
+    "Mientras, corta las berenjenas en bastones de 1,5 x 6 cm, sálalas y déjalas 15 minutos en un colador; sécalas con papel. La sal les saca agua y así chupan menos aceite.",
+    "Mientras se escurren, pica el ajo y el jengibre y corta la cebolleta en rodajas, separando la parte blanca de la verde. Mezcla en un bol la soja, el vinagre, el azúcar y el caldo. En un vaso aparte, disuelve la maicena en 2 cucharadas de agua fría: siempre en frío, porque echada directamente en caliente forma grumos al instante.",
     "Calienta el wok con 1,5 cucharadas de aceite a fuego alto y saltea la berenjena 6-8 minutos, por tandas si no cabe en una capa, hasta que esté dorada y tierna. Sácala.",
-    "Baja a fuego medio, añade el resto del aceite, el ajo y el jengibre picados, la parte blanca de la cebolleta y la pasta de judía picante. Sofríe 1 minuto, hasta que el aceite se tiña de rojo y huela.",
+    "Baja a fuego medio, añade el resto del aceite, el ajo, el jengibre, la parte blanca de la cebolleta y la pasta de judía picante. Sofríe 1 minuto, hasta que el aceite se tiña de rojo y huela.",
     "Vierte la salsa, devuelve la berenjena y lleva a ebullición.",
     "Remueve el vaso de maicena (se deposita en el fondo) y viértela en hilo sin dejar de remover. En 30 segundos de hervor la salsa pasa de turbia a brillante y espesa: es la señal de que el almidón ha ligado. No la hiervas más de 1-2 minutos o perderá cuerpo.",
     "Apaga, añade el aceite de sésamo y la parte verde de la cebolleta y sirve sobre el arroz."
@@ -728,7 +728,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer el arroz lavado con 1,2 veces su volumen de agua, tapado y a fuego mínimo, 12 minutos, y deja reposar tapado.",
-    "Prepara el tentsuyu: hierve el caldo de pescado con la soja y el mirin 1 minuto y deja templar. Ralla el jengibre y los rábanos.",
+    "Mientras, prepara el tentsuyu: hierve el caldo de pescado con la soja y el mirin 1 minuto y deja templar. Ralla el jengibre y los rábanos.",
     "Haz 3-4 cortes pequeños en la parte interior de los langostinos y estíralos con los dedos para que no se curven al freír. Corta el calabacín y el pimiento en tiras y el boniato en rodajas de medio centímetro. Sécalo todo muy bien: el agua salpica y despega la masa.",
     "Calienta abundante aceite (4-5 cm) en una cazuela a 175 °C: con termómetro, o hasta que una gota de masa baje al fondo y suba enseguida burbujeando. Más frío, la tempura absorbe aceite; más caliente, se quema antes de hacerse.",
     "Justo antes de freír, mezcla la harina y 15 g de maicena en un bol frío y vierte el agua con gas helada (con un cubito). Mezcla con palillos solo 10 segundos: deben quedar grumos. Si la bates mucho, desarrollas el gluten y la tempura queda gruesa y correosa en lugar de fina y quebradiza.",
@@ -772,8 +772,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Asa los pimientos enteros bajo el grill del horno a máxima potencia 10-12 minutos, girándolos, hasta que la piel esté ampollada y negra a trozos. Mételos en un bol tapado 10 minutos: el vapor despega la piel.",
-    "Pélalos con cuidado sin romperlos, haz un corte lateral de 5 cm y retira las semillas con una cucharita. Rellena cada uno con bastones de queso y ciérralos superponiendo los bordes (sujétalos con un palillo si hace falta).",
-    "Para el caldillo, tritura los tomates con la cebolla, el ajo y el orégano. Calienta 1 cucharada de aceite en una cazuela, vierte el triturado (salpica) y cocina a fuego medio 10 minutos, hasta que oscurezca. Añade el caldo, sala y cuece 5 minutos más: debe quedar ligero, como una sopa espesa.",
+    "Mientras sudan, prepara el caldillo: tritura los tomates con la cebolla, el ajo y el orégano. Calienta 1 cucharada de aceite en una cazuela, vierte el triturado (salpica) y cocina a fuego medio 10 minutos, hasta que oscurezca. Añade el caldo, sala y cuece 5 minutos más: debe quedar ligero, como una sopa espesa.",
+    "Pela los pimientos con cuidado sin romperlos, haz un corte lateral de 5 cm y retira las semillas con una cucharita. Rellena cada uno con bastones de queso y ciérralos superponiendo los bordes (sujétalos con un palillo si hace falta).",
     "Seca los pimientos con papel y pásalos por harina, sacudiendo el exceso. La harina absorbe la humedad de la superficie y hace de pegamento para el capeado.",
     "Separa las claras de las yemas. Monta las claras con una pizca de sal a punto de nieve firme (al girar el bol no se caen) y añade las yemas una a una con movimientos envolventes, justo hasta integrarlas: si bates de más, pierdes el aire que hace ligero el rebozado.",
     "Calienta 2 cm de aceite en una sartén a 170 °C. Sujeta un pimiento por el rabo, cúbrelo con el capeado ayudándote de una cuchara y deslízalo en el aceite. Riega la parte de arriba con aceite caliente para que se infle.",
@@ -820,7 +820,7 @@ window.RECETAS_SEED.push({
     "Mezcla la sal gruesa con la clara y 3-4 cucharadas de agua hasta que tenga textura de arena mojada: así la costra se compacta y no se desmorona.",
     "Pon una capa de 1 cm de sal en una fuente, coloca encima el pavo con las ramas de romero y tomillo pegadas y cúbrelo por completo con el resto de la sal, apretando con las manos. No debe quedar ningún hueco por donde escape el vapor.",
     "Hornea 35-40 minutos. La costra aísla la carne y la cocina en su propio vapor; por eso queda jugosa y nada salada: la sal compactada apenas penetra. Si tienes termómetro, pínchalo atravesando la costra y retira a 65 °C en el centro.",
-    "Mientras, cuece las patatas con piel en agua con sal 20 minutos, pélalas y córtalas en rodajas. Alíñalas en caliente con 2 cucharadas de aceite, el zumo de limón y pimienta, y añade los cherrys partidos, la cebolla en juliana fina y las aceitunas.",
+    "Mientras, cuece las patatas con piel en agua con sal 20 minutos; entretanto, parte los cherrys por la mitad y corta la cebolla en juliana fina. Pela las patatas y córtalas en rodajas. Alíñalas en caliente con 2 cucharadas de aceite, el zumo de limón y pimienta, y añade los cherrys, la cebolla y las aceitunas.",
     "Saca la fuente y deja reposar el pavo 10 minutos dentro de la costra: termina de hacerse con el calor residual y los jugos se reparten.",
     "Rompe la costra con el mango de un cuchillo, retira la sal y limpia la pieza con una brocha o papel. Córtala en lonchas finas, riégala con el resto del aceite y sírvela con la ensalada tibia."
   ],
@@ -863,13 +863,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara el mojo: machaca los ajos con 1 cucharadita de sal, el comino, el orégano y pimienta, y mézclalo con el zumo de naranja, el de la lima y 1 cucharada de aceite. El mojo cubano se hace con naranja agria; la mezcla de naranja y lima la imita.",
-    "Pon los filetes en un recipiente plano en una sola capa, cúbrelos con el mojo y la mitad de la cebolla en aros. Marina en la nevera entre 1 y 3 horas, dándoles la vuelta a mitad. La sal penetra y hace la carne más jugosa; el ácido da sabor en la superficie. Pasadas 4 horas, el cítrico empieza a «cocer» la carne y la deja harinosa.",
-    "Cuece el arroz lavado con 1,5 veces su volumen de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
-    "Mientras, calienta las alubias negras enjuagadas con el laurel, un chorrito de agua, una pizca de comino y sal, 8 minutos a fuego suave, aplastando unas cuantas para que espesen.",
+    "Corta media cebolla en aros. Pon los filetes en un recipiente plano en una sola capa, cúbrelos con el mojo y la cebolla. Marina en la nevera entre 1 y 3 horas, dándoles la vuelta a mitad. La sal penetra y hace la carne más jugosa; el ácido da sabor en la superficie. Pasadas 4 horas, el cítrico empieza a «cocer» la carne y la deja harinosa.",
+    "Unos 20 minutos antes de terminar el marinado, cuece el arroz lavado con 1,5 veces su volumen de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
+    "Mientras, calienta las alubias negras enjuagadas con el laurel, un chorrito de agua, una pizca de comino y sal, 8 minutos a fuego suave, aplastando unas cuantas para que espesen. Pica el cilantro.",
     "Saca los filetes del mojo, escúrrelos y sécalos con papel (guarda el líquido). Una carne mojada no se dora: se cuece.",
     "Calienta una plancha o sartén con el resto del aceite a fuego alto y cocina los filetes 2 minutos por cada lado, hasta que estén dorados y el centro apenas rosado (63 °C). Sácalos a reposar.",
     "En la misma sartén, saltea 3 minutos los aros de cebolla del marinado y vierte el mojo sobrante; hiérvelo 2 minutos (ha estado en contacto con carne cruda) hasta que reduzca a una salsa.",
-    "Sirve el lomo con la cebolla y su salsa por encima, el arroz y las alubias negras, con cilantro picado."
+    "Sirve el lomo con la cebolla y su salsa por encima, el arroz y las alubias negras, con el cilantro."
   ],
   nutricion: { kcal: 620, prot: 42, hc: 61, grasa: 23 },
   etiquetas: ["técnica", "marinar", "alta en proteína", "cubana", "sin gluten", "sin verduras", "poco especiada"],
@@ -910,11 +910,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Importante: usa caballa congelada al menos 5 días a -20 °C (o pescado comprado ya congelado) y descongélala en la nevera. Curar no elimina el anisakis; la congelación sí.",
     "Retira las espinas centrales de los lomos con unas pinzas, localizándolas al pasar el dedo. Deja la piel.",
-    "Mezcla la sal gruesa, el azúcar, la pimienta machacada y la mitad del eneldo picado. Pon un tercio en un recipiente, coloca los lomos con la piel hacia abajo y cúbrelos con el resto. La sal saca agua de las células y desnaturaliza las proteínas, que pasan de translúcidas a opacas y firmes; el azúcar suaviza el golpe salado.",
-    "Tapa y deja en la nevera 1 hora para lomos finos como los de caballa (2-3 horas para un salmón grueso). Está curada cuando la carne se nota firme al tacto y algo más opaca.",
+    "Machaca la pimienta y pica el eneldo. Mezcla la sal gruesa, el azúcar, la pimienta y la mitad del eneldo. Pon un tercio en un recipiente, coloca los lomos con la piel hacia abajo y cúbrelos con el resto. La sal saca agua de las células y desnaturaliza las proteínas, que pasan de translúcidas a opacas y firmes; el azúcar suaviza el golpe salado.",
+    "Tapa y deja en la nevera 1 hora para lomos finos como los de caballa (2-3 horas para un salmón grueso). Está curada cuando la carne se nota firme al tacto y algo más opaca. Mientras, cuece las patatas con piel en agua con sal 20 minutos, pélalas y córtalas en rodajas. Corta el pepino en medias lunas finas y la cebolla en juliana.",
     "Lava los lomos con agua fría para quitar toda la mezcla y sécalos muy bien. Si te pasas de tiempo y queda salada, remójala 10 minutos en agua fría.",
-    "Cuece las patatas con piel en agua con sal 20 minutos, pélalas y córtalas en rodajas. Corta el pepino en medias lunas finas y la cebolla en juliana.",
-    "Mezcla el yogur con la mostaza, el vinagre, el aceite y el resto del eneldo, y aliña con ello las patatas templadas, el pepino y la cebolla.",
+    "Mezcla el yogur con la mostaza, el vinagre, el aceite y el resto del eneldo, y aliña con ello las patatas, el pepino y la cebolla.",
     "Corta la caballa en lonchas al bies, sin la piel, y sírvela sobre la ensalada con unas gotas de limón."
   ],
   nutricion: { kcal: 470, prot: 29, hc: 33, grasa: 25 },
@@ -953,9 +952,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el entrecot en tiras de medio centímetro contra la fibra (perpendicular a las vetas): así cada bocado queda tierno aunque se haga rápido. Mézclalas con la soja y la maicena y deja 10 minutos: la maicena forma una película que protege la carne y la mantiene jugosa.",
-    "Prepara todo antes de encender el fuego, porque el salteado dura 5 minutos: cebolletas en tramos de 4 cm separando lo blanco de lo verde, jengibre en bastoncitos, ajo laminado y pak choi con las hojas separadas de los tallos. Mezcla la salsa de ostras con 3 cucharadas de agua.",
-    "Cuece los fideos el tiempo del paquete, escúrrelos, pásalos por agua fría y mézclalos con el aceite de sésamo para que no se peguen.",
+    "Pon a hervir agua para los fideos. Corta el entrecot en tiras de medio centímetro contra la fibra (perpendicular a las vetas): así cada bocado queda tierno aunque se haga rápido. Mézclalas con la soja y la maicena y deja 10 minutos: la maicena forma una película que protege la carne y la mantiene jugosa.",
+    "Mientras, prepara todo antes de encender el fuego, porque el salteado dura 5 minutos: cebolletas en tramos de 4 cm separando lo blanco de lo verde, jengibre en bastoncitos, ajo laminado y pak choi con las hojas separadas de los tallos. Mezcla la salsa de ostras con 3 cucharadas de agua.",
+    "Cuece los fideos en el agua hirviendo el tiempo del paquete, escúrrelos, pásalos por agua fría y mézclalos con el aceite de sésamo para que no se peguen.",
     "Calienta el wok vacío a fuego máximo hasta que humee ligeramente, añade 1 cucharada de aceite y gíralo para cubrir las paredes. Un wok muy caliente evapora el agua al instante y la comida se tuesta en lugar de cocerse.",
     "Saltea la carne en 2 tandas, extendida en una capa: 1 minuto sin tocarla y 30 segundos removiendo, hasta que esté dorada por fuera y rosada dentro. Sácala. Si la metes toda a la vez, el wok se enfría, la carne suelta jugo y se hierve.",
     "Añade el resto del aceite y saltea a fuego máximo los tallos de pak choi y la parte blanca de la cebolleta 2 minutos, moviendo sin parar; agrega el jengibre, el ajo y las hojas de pak choi y saltea 30 segundos, hasta que huela y las hojas se ablanden.",
@@ -999,13 +998,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava las lentejas en un colador y escúrrelas. Las pardinas no necesitan remojo.",
-    "Ponlas en una cazuela con 1 litro de agua fría, el laurel, la zanahoria y la chirivía en rodajas gruesas, el pimiento verde y el tomate enteros y la cebolla partida por la mitad. Empezar en frío hace que la lenteja se hidrate de forma pareja y no se le despegue la piel.",
+    "Lava las lentejas en un colador y escúrrelas. Las pardinas no necesitan remojo. Pela la zanahoria y la chirivía y córtalas en rodajas gruesas.",
+    "Pon las lentejas en una cazuela con 1 litro de agua fría, el laurel, la zanahoria, la chirivía, el pimiento verde y el tomate enteros y la cebolla partida por la mitad. Empezar en frío hace que la lenteja se hidrate de forma pareja y no se le despegue la piel.",
     "Lleva a ebullición y, en cuanto hierva, baja a fuego mínimo: el caldo debe moverse apenas, con alguna burbuja suelta. Guisar es cocer lentamente en poco líquido; el hervor fuerte rompe la lenteja y la deja con la piel suelta.",
-    "Cuece 25 minutos tapado a medias, sin remover con cuchara (mueve la cazuela por las asas). Si hace falta, añade agua caliente, nunca fría, para no cortar la cocción.",
-    "Añade la patata cascada en trozos de 3 cm (al cascarla, rompiendo el último corte, suelta almidón que espesa el caldo) y cuece 15-20 minutos más, hasta que la lenteja esté tierna y la patata se deshaga por los bordes.",
+    "Cuece 25 minutos tapado a medias, sin remover con cuchara (mueve la cazuela por las asas). Si hace falta, añade agua caliente, nunca fría, para no cortar la cocción. Mientras, pela la patata y lamina el ajo.",
+    "Casca la patata en trozos de 3 cm (al cascarla, rompiendo el último corte, suelta almidón que espesa el caldo), añádela y cuece 15-20 minutos más, hasta que la lenteja esté tierna y la patata se deshaga por los bordes.",
     "Saca el pimiento, el tomate y la cebolla, tritúralos con un cazo de caldo y devuélvelos: espesan el guiso de forma natural.",
-    "Calienta el aceite en un cazo con el ajo laminado hasta que se dore, aparta del fuego, añade el pimentón y el comino, remueve 10 segundos y viértelo sobre las lentejas. Sala, añade el vinagre y deja reposar 10 minutos antes de servir."
+    "Calienta el aceite en un cazo con el ajo hasta que se dore, aparta del fuego, añade el pimentón y el comino, remueve 10 segundos y viértelo sobre las lentejas. Sala, añade el vinagre y deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 615, prot: 23, hc: 79, grasa: 23 },
   etiquetas: ["técnica", "guisar", "de cuchara", "tupper", "batch cooking", "económica", "invierno", "sin gluten", "poco especiada", "bajo en colesterol"],
@@ -1045,13 +1044,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Calienta el caldo y mantenlo a fuego mínimo durante toda la receta: el caldo frío corta la cocción y el grano se hace de forma desigual.",
-    "Limpia las alcachofas hasta llegar a las hojas tiernas y frótalas con limón. Lamina una muy fina y fríela en una sartén con 1 cucharada de aceite 2-3 minutos, hasta que esté crujiente: son los chips. Corta el resto en láminas de medio centímetro.",
-    "En una cazuela ancha, rehoga la chalota y el ajo picados con la otra cucharada de aceite a fuego medio 3 minutos, añade las láminas de alcachofa y cocina 4 minutos.",
+    "Limpia las alcachofas hasta llegar a las hojas tiernas y frótalas con limón. Lamina una muy fina y fríela en una sartén con 1 cucharada de aceite 2-3 minutos, hasta que esté crujiente: son los chips. Corta el resto en láminas de medio centímetro. Pica la chalota, el ajo y el perejil y ralla el parmesano.",
+    "En una cazuela ancha, rehoga la chalota y el ajo con la otra cucharada de aceite a fuego medio 3 minutos, añade las láminas de alcachofa y cocina 4 minutos.",
     "Añade el arroz sin lavar (necesitas su almidón superficial) y tuéstalo 2 minutos, removiendo, hasta que los granos se vean translúcidos por los bordes con un punto blanco en el centro. Este nacarado sella la superficie y el grano aguanta entero.",
     "Vierte el vino y remueve hasta que se evapore. Añade un cazo de caldo y remueve con suavidad hasta que casi se absorba; repite cazo a cazo durante 16-18 minutos. Remover frota los granos entre sí y libera el almidón que da cremosidad sin necesidad de nata.",
     "Prueba el grano a partir del minuto 15: está listo cuando está tierno con un punto firme en el centro y el conjunto ondula como una ola al mover la cazuela. Déjalo algo más suelto de lo que te gusta, porque espesa al reposar.",
-    "Aparta del fuego, añade la mantequilla fría, el parmesano rallado y la ralladura de medio limón y remueve con energía 1 minuto: es el mantecado, que emulsiona la grasa con el almidón y le da brillo. Tapa y deja reposar 2 minutos.",
-    "Sirve en plato llano con los chips de alcachofa, perejil picado y pimienta recién molida."
+    "Aparta del fuego, añade la mantequilla fría, el parmesano y la ralladura de medio limón y remueve con energía 1 minuto: es el mantecado, que emulsiona la grasa con el almidón y le da brillo. Tapa y deja reposar 2 minutos.",
+    "Sirve en plato llano con los chips de alcachofa, el perejil y pimienta recién molida."
   ],
   nutricion: { kcal: 690, prot: 19, hc: 74, grasa: 35 },
   etiquetas: ["técnica", "risotto", "italiana", "vegetariano", "sin gluten", "poco especiada"],
@@ -1092,10 +1091,10 @@ window.RECETAS_SEED.push({
     "La víspera, pon las alubias en remojo en el triple de su volumen de agua fría, entre 8 y 12 horas. El remojo rehidrata el grano de forma pareja y acorta la cocción; sin él, la piel se cuece antes que el interior y se abren.",
     "Escúrrelas y ponlas en una cazuela con la cebolla, la zanahoria, el pimiento y el tomate enteros, el laurel, 1 cucharada de aceite y agua fría que las cubra dos dedos.",
     "Lleva a ebullición a fuego medio, retira la espuma y baja a fuego mínimo. Deben cocer con un temblor suave, tapadas a medias: los borbotones rompen la piel y hacen que el grano se pele.",
-    "A los 30 y a los 60 minutos, «asústalas» con medio vaso de agua fría: el cambio de temperatura relaja la piel y ayuda a que se cuezan por igual sin abrirse. Mueve la cazuela por las asas en lugar de remover con cuchara.",
+    "A los 30 y a los 60 minutos, «asústalas» con medio vaso de agua fría: el cambio de temperatura relaja la piel y ayuda a que se cuezan por igual sin abrirse. Mueve la cazuela por las asas en lugar de remover con cuchara. Mientras cuecen, corta la calabaza en dados, las judías verdes en tramos y lamina el ajo.",
     "A los 70-80 minutos, prueba unas cuantas: deben estar cremosas por dentro y con la piel tierna, sin grano harinoso. Ahora, y no antes, sala.",
-    "Retira las verduras enteras, tritúralas con un cazo de caldo y devuélvelas para espesar. Añade la calabaza en dados y las judías verdes en tramos y cuece 15 minutos más.",
-    "Haz el refrito: dora el ajo laminado en el resto del aceite, aparta del fuego, añade el pimentón y viértelo sobre las alubias. Deja reposar 10 minutos antes de servir."
+    "Retira las verduras enteras, tritúralas con un cazo de caldo y devuélvelas para espesar. Añade la calabaza y las judías verdes y cuece 15 minutos más.",
+    "Haz el refrito: dora el ajo en el resto del aceite, aparta del fuego, añade el pimentón y viértelo sobre las alubias. Deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 440, prot: 20, hc: 54, grasa: 16 },
   etiquetas: ["técnica", "legumbre desde seco", "de cuchara", "vegano", "tupper", "batch cooking", "económica", "sin gluten", "detox", "poco especiada", "bajo en colesterol"],
@@ -1132,12 +1131,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Haz un volcán con la harina sobre la encimera (o en un bol grande), casca los huevos en el centro y bátelos con un tenedor, incorporando poco a poco la harina de los bordes hasta formar una masa grumosa.",
     "Amasa con las palmas 8-10 minutos, empujando y doblando, hasta que la masa esté lisa, elástica y no se pegue: así se desarrolla el gluten, que da a la pasta su mordida. Si está muy seca y se agrieta, mójate las manos; si se pega, añade harina a cucharaditas.",
-    "Envuélvela en film y déjala reposar 30 minutos a temperatura ambiente. El reposo relaja el gluten: sin él, la masa encoge al estirarla y no hay manera de dejarla fina.",
+    "Envuélvela en film y déjala reposar 30 minutos a temperatura ambiente. El reposo relaja el gluten: sin él, la masa encoge al estirarla y no hay manera de dejarla fina. Mientras, ralla el parmesano y la piel del limón.",
     "Divide la masa en dos y estira cada parte con el rodillo sobre la encimera enharinada, girándola un cuarto de vuelta cada pocas pasadas, hasta 1 mm de grosor: debe transparentarse un poco la mano por detrás. Con máquina, pásala por los rodillos de más ancho a más fino.",
-    "Espolvorea la lámina con harina, enróllala sin apretar y córtala con cuchillo en tiras de 7-8 mm. Desenróllalas enseguida y forma nidos sueltos enharinados para que no se peguen.",
-    "Hierve abundante agua con sal (10 g por litro). Cuece la pasta 2-3 minutos con los guisantes: la pasta fresca se hace en un momento y está lista cuando sube a la superficie y está tierna pero con cuerpo.",
+    "Pon a hervir abundante agua con sal (10 g por litro). Mientras, espolvorea la lámina con harina, enróllala sin apretar y córtala con cuchillo en tiras de 7-8 mm. Desenróllalas enseguida y forma nidos sueltos enharinados para que no se peguen.",
+    "Cuece la pasta en el agua hirviendo 2-3 minutos con los guisantes: la pasta fresca se hace en un momento y está lista cuando sube a la superficie y está tierna pero con cuerpo.",
     "Mientras, funde la mantequilla en una sartén amplia a fuego bajo con la ralladura del limón. Pasa la pasta escurrida con 2 cazos de agua de cocción y mueve la sartén con energía: el almidón del agua emulsiona la mantequilla en una salsa cremosa.",
-    "Fuera del fuego, añade el parmesano rallado, un chorrito de zumo de limón y pimienta, mezcla hasta que la salsa brille y sirve con albahaca."
+    "Fuera del fuego, añade el parmesano, un chorrito de zumo de limón y pimienta, mezcla hasta que la salsa brille y sirve con albahaca."
   ],
   nutricion: { kcal: 635, prot: 25, hc: 80, grasa: 24 },
   etiquetas: ["técnica", "pasta fresca", "casera", "italiana", "vegetariano", "de domingo", "poco especiada"],

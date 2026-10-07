@@ -42,8 +42,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca los entrecots de la nevera 30 minutos antes y sécalos con papel de cocina.",
-    "Prepara la mantequilla Café de París: pica muy fino la chalota, 1 diente de ajo, las anchoas, las alcaparras, el estragón y el perejil, y mézclalo con 40 g de mantequilla blanda, la mostaza, el curry, la cayena y pimienta. Forma un cilindro con film y mételo en el congelador mientras cocinas.",
-    "Para las espinacas, saltea el otro ajo laminado con los 10 g de mantequilla restantes 1 minuto, añade las espinacas a puñados y remueve hasta que pierdan volumen, unos 3 minutos. Escúrrelas en un colador apretando con una cuchara: el agua que sueltan aguaría la crema.",
+    "Mientras se atemperan, prepara la mantequilla Café de París: pica muy fino la chalota, 1 diente de ajo, las anchoas, las alcaparras, el estragón y el perejil, y mézclalo con 40 g de mantequilla blanda, la mostaza, el curry, la cayena y pimienta. Forma un cilindro con film y mételo en el congelador mientras cocinas. Lamina el otro diente de ajo.",
+    "Para las espinacas, saltea en una cazuela el ajo laminado con los 10 g de mantequilla restantes 1 minuto, añade las espinacas a puñados y remueve hasta que pierdan volumen, unos 3 minutos. Escúrrelas en un colador apretando con una cuchara: el agua que sueltan aguaría la crema.",
     "En la misma cazuela reduce la nata a fuego medio 3-4 minutos, hasta que nape la cuchara. Vuelve a meter las espinacas, añade el parmesano, la nuez moscada, sal y pimienta, y mantén caliente a fuego mínimo.",
     "Calienta una sartén de fondo grueso a fuego fuerte con el aceite hasta que humee. Sala la carne justo antes de ponerla y márcala 3 minutos por cada lado sin moverla, hasta que forme una costra marrón oscura; dora también el borde de grasa apoyándola de canto 1 minuto.",
     "Para un punto al punto, el centro debe ceder al presionarlo como la base del pulgar (unos 54 °C con termómetro). Deja reposar la carne 5 minutos sobre una tabla.",
@@ -133,9 +133,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Marina la carne: mezcla el zumo de 1 lima, el ajo rallado, el comino, la mitad del aceite y pimienta, embadurna la falda y déjala 30 minutos a temperatura ambiente (no más de 2 horas en la nevera: la lima acaba \"cociendo\" la superficie).",
-    "Asa los chiles poblanos directamente sobre la llama del fuego o bajo el grill, girándolos, hasta que la piel esté negra y ampollada por todos lados, unos 8 minutos. Mételos en un bol tapado 10 minutos para que suden; pélalos con los dedos, quita semillas y córtalos en tiras (rajas).",
-    "Pocha la cebolla en tiras con el resto del aceite a fuego medio 6 minutos, hasta que esté transparente. Añade las rajas, la nata y sal, cuece 3 minutos hasta que espese y apaga el fuego con la mozzarella por encima, tapado, para que se funda.",
-    "Para el guacamole, machaca el aguacate con un tenedor dejándolo con tropezones. Mezcla la cebolla morada muy picada, el jalapeño sin semillas picado, la mitad del cilantro, el zumo de media lima y sal.",
+    "Mientras marina, asa los chiles poblanos directamente sobre la llama del fuego o bajo el grill, girándolos, hasta que la piel esté negra y ampollada por todos lados, unos 8 minutos. Mételos en un bol tapado 10 minutos para que suden y, mientras, corta la cebolla en tiras; pélalos con los dedos, quita semillas y córtalos en tiras (rajas).",
+    "Pocha la cebolla con el resto del aceite a fuego medio 6 minutos, hasta que esté transparente. Añade las rajas, la nata y sal, cuece 3 minutos hasta que espese y apaga el fuego con la mozzarella por encima, tapado, para que se funda.",
+    "Para el guacamole, pica muy fina la cebolla morada, pica el jalapeño sin semillas y el cilantro, y machaca el aguacate con un tenedor dejándolo con tropezones. Mezcla la cebolla morada, el jalapeño, la mitad del cilantro, el zumo de media lima y sal.",
     "Calienta la plancha a fuego muy fuerte. Escurre la carne de la marinada, sécala, sálala y ásala 3 minutos por cada lado si es una pieza de 2 cm (2 minutos si son filetes finos), hasta que se dore bien. La falda queda mejor poco hecha.",
     "Déjala reposar 5 minutos y córtala en tiras finas en contra de la fibra, que es lo que la hace tierna. Sirve con las rajas con crema, el guacamole, el resto del cilantro y gajos de lima."
   ],
@@ -180,9 +180,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Machaca el azafrán con una pizca de sal en un mortero e hidrátalo en 2 cucharadas de agua caliente 10 minutos.",
-    "Ralla la media cebolla y exprímela en un colador: usa solo el jugo. Mézclalo con 30 g de yogur, el azafrán con su agua, el zumo de medio limón, el aceite y pimienta. Embadurna las chuletas y déjalas marinar al menos 1 hora en la nevera (mejor toda la noche).",
-    "Prepara el mast-o-khiar: ralla el pepino, apriétalo con las manos para quitarle el agua y mézclalo con 200 g de yogur, el ajo rallado, las nueces picadas, la menta seca desmenuzada entre los dedos y sal. Reserva en frío.",
+    "Machaca el azafrán con una pizca de sal en un mortero e hidrátalo en 2 cucharadas de agua caliente 10 minutos. Mientras, ralla la media cebolla y exprímela en un colador: usa solo el jugo.",
+    "Mezcla el jugo de cebolla con 30 g de yogur, el azafrán con su agua, el zumo de medio limón, el aceite y pimienta. Embadurna las chuletas y déjalas marinar al menos 1 hora en la nevera (mejor toda la noche).",
+    "Mientras marinan, prepara el mast-o-khiar: ralla el pepino, apriétalo con las manos para quitarle el agua y mézclalo con 200 g de yogur, el ajo rallado, las nueces picadas, la menta seca desmenuzada entre los dedos y sal. Reserva en frío.",
     "Prepara el sabzi khordan: en una fuente dispón la menta y la albahaca en ramitas, las cebolletas cortadas a lo largo, los rábanos partidos y el feta en dados.",
     "Saca las chuletas 20 minutos antes de asar, retira el exceso de marinada y sálalas. Calienta la plancha a fuego fuerte y ásalas 3 minutos por cada lado, hasta que estén bien doradas y con alguna marca tostada; la grasa del borde debe quedar crujiente.",
     "Déjalas reposar 3 minutos, riégalas con el resto del zumo de limón y sírvelas con el mast-o-khiar y la fuente de hierbas: en Irán se come un bocado de carne con una hoja de menta, un trocito de feta y un rábano."
@@ -274,12 +274,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Corta los contramuslos en dados de 4 cm. Primera marinada: frótalos con el jengibre y 2 ajos rallados, sal y el zumo de media lima, y déjalos 10 minutos.",
-    "Segunda marinada: bate la nata con el queso crema, 30 g de yogur, medio chile verde picado muy fino, el cardamomo, la nuez moscada y la pimienta blanca hasta que quede liso. Mezcla con el pollo y deja marinar al menos 20 minutos (o hasta 1 día en la nevera).",
-    "Precalienta el horno a 240 °C con grill. Ensarta el pollo en brochetas sin apretar los trozos y colócalas sobre una rejilla con una bandeja debajo.",
+    "Ralla el jengibre y 2 ajos. Corta los contramuslos en dados de 4 cm. Primera marinada: frótalos con el jengibre y el ajo rallados, sal y el zumo de media lima, y déjalos 10 minutos. Mientras, pica muy fino medio chile verde.",
+    "Segunda marinada: bate la nata con el queso crema, 30 g de yogur, el chile picado, el cardamomo, la nuez moscada y la pimienta blanca hasta que quede liso. Mezcla con el pollo y deja marinar al menos 20 minutos (o hasta 1 día en la nevera).",
+    "Mientras marina, precalienta el horno a 240 °C con grill y prepara el chutney: tritura la menta, la mitad del cilantro, el resto del chile verde, el otro ajo, el zumo de media lima y una pizca de sal con 100 g de yogur hasta que quede verde y liso.",
+    "Ensarta el pollo en brochetas sin apretar los trozos y colócalas sobre una rejilla con una bandeja debajo.",
     "Hornea 10 minutos, pincela con la mantequilla clarificada derretida, dales la vuelta y hornea 6-8 minutos más, hasta que tengan puntos tostados en los bordes y el jugo salga transparente al pinchar.",
-    "Para el chutney, tritura la menta, la mitad del cilantro, el resto del chile verde, el otro ajo, el zumo de media lima y una pizca de sal con 100 g de yogur hasta que quede verde y liso.",
-    "Para el kachumber, corta en dados pequeños el pepino y el tomate y en juliana fina la cebolla morada; aliña con sal, el resto del cilantro picado y unas gotas de lima.",
+    "Mientras se hornea, prepara el kachumber: corta en dados pequeños el pepino y el tomate y en juliana fina la cebolla morada; aliña con sal, el resto del cilantro picado y unas gotas de lima.",
     "Sirve las brochetas aún chisporroteando con el kachumber y el chutney de menta."
   ],
   nutricion: { kcal: 680, prot: 54, hc: 12, grasa: 46 },
@@ -314,10 +314,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los grelos: quita los tallos duros y las hojas estropeadas y quédate con las hojas tiernas, los brotes y los tallos finos. Lávalos bien.",
-    "Blanquéalos 2 minutos en abundante agua hirviendo con sal y escúrrelos, apretando un poco. Así pierden parte del amargor sin perder el color.",
+    "Pon a hervir abundante agua con sal. Mientras, limpia los grelos: quita los tallos duros y las hojas estropeadas y quédate con las hojas tiernas, los brotes y los tallos finos. Lávalos bien.",
+    "Blanquéalos 2 minutos en el agua hirviendo y escúrrelos, apretando un poco. Así pierden parte del amargor sin perder el color.",
     "Pincha las salchichas un par de veces y dóralas en una sartén con 1 cucharada de aceite a fuego medio, 8 minutos, girándolas, hasta que estén doradas por todos lados.",
-    "Riega con el vino blanco, tapa y deja que se hagan por dentro 5 minutos más. Destapa y deja que se evapore el líquido y se vuelvan a dorar en su grasa.",
+    "Riega con el vino blanco, tapa y deja que se hagan por dentro 5 minutos más; mientras, lamina los ajos. Destapa y deja que se evapore el líquido y se vuelvan a dorar en su grasa.",
     "En otra sartén grande, calienta el resto del aceite con los ajos laminados y la guindilla rota a fuego suave, 2 minutos, sin que el ajo llegue a tostarse.",
     "Añade los grelos escurridos, sube el fuego y saltéalos 6-8 minutos, removiendo, hasta que estén tiernos y brillantes de aceite. Sálalos.",
     "Mete las salchichas en la sartén de los grelos con todo su jugo, mezcla 1 minuto para que los sabores se unan y sirve con unas gotas de limón."
@@ -359,9 +359,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Unta los pimientos con un poco de aceite y ásalos enteros en una bandeja 40 minutos, dándoles la vuelta a mitad, hasta que la piel esté arrugada y tostada.",
     "Mientras, seca los contramuslos y sálalos. Ponlos con la piel hacia abajo en una sartén fría con 1 cucharada de aceite y enciende a fuego medio: así la grasa de la piel se funde poco a poco y queda muy crujiente. Déjalos 12-15 minutos sin moverlos, hasta que la piel esté dorada.",
     "Dales la vuelta y cocina 8-10 minutos más por el otro lado, hasta que el jugo salga transparente al pincharlos junto al hueso.",
-    "Prepara el ajo cabañil: machaca en el mortero los ajos pelados con una pizca de sal hasta hacer una pasta. Añade el pimentón y el comino, y después el vinagre y el resto del aceite poco a poco, removiendo para ligarlo.",
+    "Mientras termina el pollo, prepara el ajo cabañil: machaca en el mortero los ajos pelados con una pizca de sal hasta hacer una pasta. Añade el pimentón y el comino, y después el vinagre y el resto del aceite poco a poco, removiendo para ligarlo. Pica el perejil.",
     "Mete los pimientos asados en un bol tapado 10 minutos, pélalos, quítales las semillas y córtalos en tiras; alíñalos con su propio jugo, sal y un hilo de aceite.",
-    "Retira casi toda la grasa de la sartén, vierte el ajo cabañil sobre el pollo a fuego suave y dale 1 minuto para que el ajo pierda el punto crudo sin quemarse. Sirve el pollo con su salsa, los pimientos y perejil picado."
+    "Retira casi toda la grasa de la sartén, vierte el ajo cabañil sobre el pollo a fuego suave y dale 1 minuto para que el ajo pierda el punto crudo sin quemarse. Sirve el pollo con su salsa, los pimientos y el perejil."
   ],
   nutricion: { kcal: 690, prot: 42, hc: 13, grasa: 52 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "económica"],
@@ -398,9 +398,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Corta la coliflor en ramilletes y cuécela al vapor 12-15 minutos, hasta que un cuchillo entre sin resistencia. Escúrrela muy bien y déjala 2 minutos en el colador para que suelte el vapor: el agua es lo que deja los purés de coliflor aguados.",
+    "Corta la coliflor en ramilletes y cuécela al vapor 12-15 minutos, hasta que un cuchillo entre sin resistencia. Mientras, pela el limón a lo vivo con un cuchillo, saca los gajos sin piel y córtalos en dados pequeños; escurre las alcaparras, pica el perejil y calienta la nata. Escúrrela muy bien y déjala 2 minutos en el colador para que suelte el vapor: el agua es lo que deja los purés de coliflor aguados.",
     "Tritúrala con la nata caliente, 15 g de mantequilla, nuez moscada, sal y pimienta blanca hasta que esté completamente lisa. Tápala.",
-    "Pela el limón a lo vivo con un cuchillo y saca los gajos sin piel; córtalos en dados pequeños. Escurre las alcaparras y pica el perejil.",
     "Seca bien los lomos de salmón y sálalos. Ponlos con la piel hacia abajo en una sartén caliente con el aceite y aprieta 10 segundos con una espátula para que no se curven. Cocina 5-6 minutos a fuego medio, hasta que el color opaco suba tres cuartas partes del lomo.",
     "Dales la vuelta, cocina 1 minuto más y sácalos a los platos: el centro debe quedar jugoso y algo rosado.",
     "Limpia la sartén, añade los 40 g de mantequilla restantes a fuego medio y déjala espumar hasta que deje de chisporrotear, huela a avellana y se vea color dorado tostado, unos 2 minutos.",
@@ -443,8 +442,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta el calabacín en medias lunas de 1 cm y los tomates cherry por la mitad.",
-    "En una bandeja de horno mezcla el calabacín, los ajos laminados, la mitad de la mejorana, 2 cucharadas de aceite, sal y pimienta. Hornea 12 minutos, hasta que el calabacín empiece a dorarse por los bordes.",
+    "Precalienta el horno a 200 °C. Corta el calabacín en medias lunas de 1 cm y los tomates cherry por la mitad, y lamina los ajos.",
+    "En una bandeja de horno mezcla el calabacín, los ajos, la mitad de la mejorana, 2 cucharadas de aceite, sal y pimienta. Hornea 12 minutos, hasta que el calabacín empiece a dorarse por los bordes.",
     "Mientras, tuesta los piñones en una sartén sin grasa a fuego medio 2-3 minutos, moviéndolos, hasta que estén dorados. Retíralos enseguida, que se queman en segundos.",
     "Saca la bandeja, añade los tomates, las aceitunas y las alcaparras, y coloca encima los lomos de rodaballo salpimentados. Riega con el vino blanco y el resto del aceite.",
     "Hornea 12-14 minutos, hasta que el pescado esté opaco y se separe en lascas al presionarlo con un tenedor, y los tomates estén arrugados y jugosos.",
@@ -531,12 +530,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la mitad de la cúrcuma y del pimentón con sal y el zumo de media lima y frota las doradas por dentro y por fuera, metiéndolo en los cortes. Déjalas 15 minutos.",
+    "Mezcla la mitad de la cúrcuma y del pimentón con sal y el zumo de media lima y frota las doradas por dentro y por fuera, metiéndolo en los cortes. Déjalas 15 minutos. Mientras, corta las chalotas en juliana, pica el jengibre, los ajos y el tomate, corta 1 chile en rodajas y pica el otro, y corta el repollo muy fino.",
     "Dóralas en una sartén con 1 cucharada de aceite de coco a fuego medio-alto 2 minutos por cada lado, solo para sellar la piel. Retíralas.",
-    "En la misma sartén, con 2 cucharadas más de aceite de coco, sofríe las chalotas en juliana, el jengibre y 2 ajos picados, 1 chile en rodajas y una rama de hojas de curry 8 minutos a fuego medio, hasta que la chalota esté dorada.",
-    "Añade el resto de la cúrcuma y del pimentón, remueve 30 segundos, incorpora el tomate picado y cocina 4 minutos hasta que se deshaga. Vierte la leche de coco y reduce 3 minutos hasta tener una pasta espesa. Sala.",
+    "En la misma sartén, con 2 cucharadas más de aceite de coco, sofríe las chalotas, el jengibre, 2 ajos, el chile en rodajas y una rama de hojas de curry 8 minutos a fuego medio, hasta que la chalota esté dorada.",
+    "Añade el resto de la cúrcuma y del pimentón, remueve 30 segundos, incorpora el tomate y cocina 4 minutos hasta que se deshaga. Vierte la leche de coco y reduce 3 minutos hasta tener una pasta espesa. Sala.",
     "Pasa las hojas de plátano unos segundos por la llama para que se ablanden. Pon en cada una una cucharada de masala, la dorada encima y cúbrela con más masala. Envuelve en paquete y cocina en la sartén tapada a fuego medio-bajo 7-8 minutos por cada lado, hasta que la hoja esté tostada.",
-    "Mientras, haz el thoran: en un wok calienta la última cucharada de aceite de coco, añade las semillas de mostaza y, cuando salten, el otro ajo, el otro chile picado y las hojas de curry restantes. Agrega el repollo cortado muy fino y sal, y saltea 5 minutos a fuego fuerte.",
+    "Mientras, haz el thoran: en un wok calienta la última cucharada de aceite de coco, añade las semillas de mostaza y, cuando salten, el otro ajo, el chile picado y las hojas de curry restantes. Agrega el repollo y sal, y saltea 5 minutos a fuego fuerte.",
     "Añade el coco rallado al repollo, mezcla 1 minuto y apaga. Sirve cada paquete de pescado abierto en el plato, con el thoran y gajos de lima."
   ],
   nutricion: { kcal: 700, prot: 37, hc: 17, grasa: 54 },
@@ -579,7 +578,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta los lomos de lubina al bies en láminas de 1 cm. Mézclalas con la clara, el vino y una pizca de sal y masajéalas con los dedos hasta que la clara desaparezca y el pescado brille. Déjalas 15 minutos en la nevera: esa película las mantiene sedosas en el caldo.",
-    "Tuesta las guindillas abiertas y sin semillas y la pimienta de Sichuan en una sartén sin grasa a fuego bajo 2-3 minutos, removiendo, hasta que huelan y las guindillas se oscurezcan sin llegar a quemarse. Pícalas gruesas a cuchillo y reserva.",
+    "Mientras, tuesta las guindillas abiertas y sin semillas y la pimienta de Sichuan en una sartén sin grasa a fuego bajo 2-3 minutos, removiendo, hasta que huelan y las guindillas se oscurezcan sin llegar a quemarse. Pícalas gruesas a cuchillo y reserva.",
     "Corta la col china en tiras anchas y el apio en bastones finos al bies. Separa la parte blanca de las cebolletas (en trozos) de la verde (en aros) y pica el ajo y el jengibre.",
     "Calienta 1 cucharada de aceite en el wok a fuego fuerte y saltea la col y el apio con una pizca de sal 2 minutos, solo hasta que pierdan rigidez. Repártelos en el fondo de dos cuencos grandes y hondos.",
     "Baja a fuego medio, añade otra cucharada de aceite y fríe la pasta de judía picante 1 minuto, hasta que el aceite se tiña de rojo. Incorpora el ajo, el jengibre y la cebolleta blanca, sofríe 1 minuto y vierte el caldo. Lleva a hervor suave y prueba de sal.",
@@ -619,12 +618,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Despunta las judías verdes y cuécelas en agua hirviendo con sal 5-6 minutos, hasta que estén tiernas pero aún crujientes. Pásalas a un bol con agua helada para fijar el color y escúrrelas.",
+    "Pon a hervir agua con sal y, mientras, despunta las judías verdes y pica el perejil. Cuece las judías 5-6 minutos, hasta que estén tiernas pero aún crujientes. Pásalas a un bol con agua helada para fijar el color y escúrrelas.",
     "Seca bien las truchas con papel de cocina y salpiméntalas por ambos lados.",
     "Calienta el aceite con 10 g de mantequilla en una sartén grande a fuego medio-alto. Pon las truchas con la piel hacia abajo y cocina 3 minutos, hasta que la piel esté dorada y crujiente; dales la vuelta con cuidado y cocina 1-2 minutos más. Pásalas a los platos.",
     "En la misma sartén saltea las judías 2 minutos con sal y pimienta, hasta que se calienten y brillen. Repártelas junto al pescado.",
     "Limpia la sartén con papel, añade los 40 g de mantequilla restantes y las almendras a fuego medio. Remueve sin parar 2-3 minutos, hasta que la mantequilla huela a avellana y las almendras estén doradas.",
-    "Fuera del fuego, exprime el zumo de medio limón (chisporroteará) y añade el perejil picado. Vierte la salsa con las almendras sobre las truchas y sirve con el otro medio limón en gajos."
+    "Fuera del fuego, exprime el zumo de medio limón (chisporroteará) y añade el perejil. Vierte la salsa con las almendras sobre las truchas y sirve con el otro medio limón en gajos."
   ],
   nutricion: { kcal: 625, prot: 39, hc: 8, grasa: 48 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "rápida"],
@@ -660,12 +659,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Prepara el ladolemono: bate 4 cucharadas de aceite con el zumo de 1 limón, el orégano, 1 ajo rallado, sal y pimienta hasta que emulsione.",
-    "Coloca las sardinas en una bandeja en una sola capa, apretadas. Intercala rodajas finas del segundo limón y los otros ajos laminados. Riega con dos tercios del ladolemono.",
+    "Precalienta el horno a 200 °C. Prepara el ladolemono: bate 4 cucharadas de aceite con el zumo de 1 limón, el orégano, 1 ajo rallado, sal y pimienta hasta que emulsione. Lamina los otros 2 ajos.",
+    "Coloca las sardinas en una bandeja en una sola capa, apretadas. Intercala rodajas finas del segundo limón y los ajos laminados. Riega con dos tercios del ladolemono.",
     "Hornea 15-18 minutos, hasta que la piel esté dorada y empiece a abrirse y la carne se separe de la espina con facilidad.",
-    "Mientras, separa las pencas de las hojas de las acelgas. Corta las pencas en trozos y cuécelas en agua hirviendo con sal 4 minutos; añade las hojas troceadas y cuece 3 minutos más.",
+    "Mientras, pon a hervir agua con sal, separa las pencas de las hojas de las acelgas y pica el perejil. Corta las pencas en trozos y cuécelas en el agua hirviendo 4 minutos; añade las hojas troceadas y cuece 3 minutos más.",
     "Escurre las acelgas muy bien y alíñalas en caliente con el resto del ladolemono y la cucharada de aceite restante: es la horta, la verdura de hoja que acompaña a todo en Grecia.",
-    "Sirve las sardinas rociadas con el jugo de la bandeja, las aceitunas y el perejil picado, con la horta templada al lado."
+    "Sirve las sardinas rociadas con el jugo de la bandeja, las aceitunas y el perejil, con la horta templada al lado."
   ],
   nutricion: { kcal: 690, prot: 46, hc: 8, grasa: 53 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "al horno", "superalimentos", "económica"],
@@ -710,7 +709,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 180 °C. Corta el pollo en dados de 1 cm y pica fina la cebolla y el ajo.",
     "Calienta 1 cucharada de aceite en una sartén a fuego medio y pocha la cebolla 6 minutos, hasta que esté transparente. Sube el fuego, añade el pollo, el ajo, la cúrcuma, la canela, sal y pimienta y saltea 5-6 minutos, hasta que el pollo esté dorado y hecho y no quede jugo en la sartén. Deja templar 5 minutos: si está muy caliente, cuaja el huevo antes de tiempo.",
-    "Pica muy fino el perejil, hojas y tallos tiernos: tiene que salir una montaña verde, es lo que da carácter al plato.",
+    "Mientras se templa, pica muy fino el perejil, hojas y tallos tiernos: tiene que salir una montaña verde, es lo que da carácter al plato.",
     "Bate los huevos en un bol con sal y pimienta y mezcla el pollo, el perejil, el queso rallado y dos tercios del parmesano.",
     "Unta con la mantequilla una fuente de horno de unos 20 cm, vierte la mezcla, alisa, espolvorea el resto del parmesano y riega con 1 cucharada de aceite. Hornea 25-30 minutos, hasta que esté inflado y dorado y un palillo salga limpio del centro.",
     "Mientras, prepara la salata tounsia: corta el tomate y el pepino en dados pequeños y alíñalos con la última cucharada de aceite, el zumo de medio limón, la menta seca desmenuzada entre los dedos y sal.",
@@ -793,11 +792,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la cecina en tiras finas y machácala en el mortero o deshébrala con los dedos hasta dejarla en hebras. Si es muy salada, remójala antes 10 minutos en agua templada y sécala bien.",
-    "Pica la cebolla, los chiles (sin semillas si los quieres más suaves) y el tomate en dados pequeños.",
+    "Pica la cebolla, los chiles (sin semillas si los quieres más suaves) y el tomate en dados pequeños. Corta el aguacate en láminas y alíñalo con el zumo de media lima y una pizca de sal; corta los rábanos en láminas finas y pica el cilantro.",
     "Calienta la manteca en una sartén a fuego medio y fríe la cecina 2-3 minutos, removiendo, hasta que se tueste por los bordes. Añade la cebolla y el chile y cocina 3 minutos, hasta que la cebolla esté transparente; incorpora el tomate y cocina 3-4 minutos más, hasta que se evapore su jugo.",
     "Bate ligeramente los huevos sin sal y viértelos en la sartén a fuego medio-bajo. Remueve con una espátula 2-3 minutos, hasta que cuajen en grumos jugosos que envuelvan la carne.",
-    "Mientras, corta el aguacate en láminas y aliña con el zumo de media lima y una pizca de sal; corta los rábanos en láminas finas.",
-    "Sirve el machacado con el cilantro picado por encima, el aguacate, los rábanos y gajos de lima."
+    "Sirve el machacado con el cilantro por encima, el aguacate, los rábanos y gajos de lima."
   ],
   nutricion: { kcal: 530, prot: 37, hc: 10, grasa: 38 },
   etiquetas: ["keto", "tradicional", "sin gluten", "picante", "rápida", "una sola sartén", "alta en proteína"],
@@ -834,13 +832,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien los langostinos con papel, ábrelos por el lomo para quitarles el intestino y mézclalos con una pizca de sal, pimienta blanca y el vino. Déjalos 10 minutos.",
-    "Bate los huevos con media cucharadita de sal, el aceite de sésamo y la parte blanca de la cebolleta picada, solo hasta que clara y yema se unan, sin hacer espuma.",
-    "Blanquea el brócoli 1 minuto en agua hirviendo con sal y escúrrelo. Saltéalo en una sartén con 1 cucharada de aceite y el ajo laminado 2 minutos a fuego fuerte, riégalo con el tamari y repártelo en los platos.",
+    "Seca bien los langostinos con papel, ábrelos por el lomo para quitarles el intestino y mézclalos con una pizca de sal, pimienta blanca y el vino. Déjalos 10 minutos. Mientras, pon a hervir agua con sal, pica la parte blanca de la cebolleta, corta la verde en aros y lamina el ajo.",
+    "Bate los huevos con media cucharadita de sal, el aceite de sésamo y la parte blanca de la cebolleta, solo hasta que clara y yema se unan, sin hacer espuma.",
+    "Blanquea el brócoli 1 minuto en el agua hirviendo y escúrrelo. Saltéalo en una sartén con 1 cucharada de aceite y el ajo 2 minutos a fuego fuerte, riégalo con el tamari y repártelo en los platos.",
     "Calienta 1 cucharada de aceite en el wok a fuego fuerte y saltea los langostinos 1 minuto, solo hasta que se curven y se vuelvan rosados; no tienen que hacerse del todo. Échalos al bol de los huevos.",
     "Limpia el wok, calienta las 2 cucharadas de aceite restantes a fuego medio-alto hasta que brillen y vierte la mezcla. Cuenta cinco segundos y empuja despacio con una espátula ancha el huevo cuajado desde el borde hacia el centro, formando pliegues grandes; inclina el wok para que el huevo líquido ocupe el hueco. Repite alrededor.",
     "Apaga el fuego cuando aún quede un tercio del huevo líquido y brillante: en 30 segundos, con el calor del wok, termina de cuajar en capas suaves. Pásalo enseguida a los platos.",
-    "Termina con la parte verde de la cebolleta en aros y pimienta blanca, y sirve junto al brócoli."
+    "Termina con la parte verde de la cebolleta y pimienta blanca, y sirve junto al brócoli."
   ],
   nutricion: { kcal: 640, prot: 48, hc: 9, grasa: 46 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "rápida", "alta en proteína"],
@@ -877,10 +875,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C con grill. Corta la coliflor en ramilletes grandes y cuécelos en agua hirviendo con sal 5-6 minutos, hasta que estén tiernos pero firmes.",
     "Escúrrela y déjala humear en el colador 5 minutos, para que pierda el agua: si no, aguará la salsa en el horno.",
-    "Lleva la nata a ebullición suave en un cazo y redúcela 5 minutos, removiendo, hasta que espese y cubra la cuchara.",
+    "Mientras, lleva la nata a ebullición suave en un cazo y redúcela 5 minutos, removiendo, hasta que espese y cubra la cuchara.",
     "Fuera del fuego, añade 100 g de cheddar en dos veces, removiendo hasta que se funda, y luego la mostaza, la nuez moscada y pimienta. Prueba de sal (el queso ya sala).",
     "Coloca la coliflor en una fuente de horno en una sola capa, cúbrela con la salsa y espolvorea el resto del cheddar mezclado con el parmesano.",
-    "Gratina 15-20 minutos, hasta que la salsa burbujee por los bordes y la superficie esté dorada con manchas tostadas. Deja reposar 5 minutos y sirve con cebollino picado."
+    "Gratina 15-20 minutos, hasta que la salsa burbujee por los bordes y la superficie esté dorada con manchas tostadas. Mientras, pica el cebollino. Deja reposar 5 minutos y sirve con el cebollino por encima."
   ],
   nutricion: { kcal: 700, prot: 28, hc: 14, grasa: 59 },
   etiquetas: ["keto", "creativa", "sin gluten", "poco especiada", "al horno", "invierno"],
@@ -963,8 +961,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Escurre los piquillos guardando su jugo y elige los 10 más enteros para rellenar; los 2 rotos irán a la salsa.",
-    "Pica la chalota y el ajo y sofríelos con 1 cucharada de aceite 3 minutos a fuego medio. Sube el fuego, añade las setas picadas y las hojas de tomillo y saltea 6-7 minutos, hasta que se evapore el agua y estén doradas. Salpimienta.",
+    "Precalienta el horno a 200 °C. Escurre los piquillos guardando su jugo y elige los 10 más enteros para rellenar; los 2 rotos irán a la salsa. Pica la chalota, el ajo y las setas.",
+    "Sofríe la chalota y el ajo con 1 cucharada de aceite 3 minutos a fuego medio. Sube el fuego, añade las setas y las hojas de tomillo y saltea 6-7 minutos, hasta que se evapore el agua y estén doradas. Salpimienta.",
     "Deja templar las setas y mézclalas con 120 g del queso de cabra desmenuzado y los piñones, reservando unos cuantos. Rellena los piquillos con una cucharilla sin llenarlos del todo.",
     "Tritura los 2 piquillos reservados con el jugo del bote y la nata hasta tener una salsa rosada y lisa. Calienta en la sartén 3 minutos para que espese un poco y sala.",
     "Pon la salsa en una fuente, coloca encima los piquillos, reparte el resto del queso y de los piñones, y hornea 12 minutos, hasta que el queso se dore y la salsa burbujee.",
@@ -1007,8 +1005,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mete la lechuga entera en la nevera o 10 minutos en el congelador: tiene que estar helada y crujiente.",
-    "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua helada, pélalos y pícalos gruesos.",
-    "Corta el bacon en tiras y ponlo en una sartén fría a fuego medio. Deja que suelte la grasa y se dore 7-8 minutos, hasta que esté crujiente. Escúrrelo sobre papel de cocina.",
+    "Pon los huevos a cocer 10 minutos desde que hierva el agua. Mientras, corta el bacon en tiras y ponlo en una sartén fría a fuego medio; deja que suelte la grasa y se dore 7-8 minutos, hasta que esté crujiente, y escúrrelo sobre papel de cocina. Enfría los huevos en agua helada, pélalos y pícalos gruesos.",
     "Para el aliño, aplasta con un tenedor 50 g del queso azul con la mayonesa, el yogur, el zumo de limón y abundante pimienta, dejando algunos grumos. Si está muy espeso, añade una cucharada de agua fría.",
     "Corta los tomates cherry en cuartos y la cebolla morada en aros finísimos.",
     "Quita las hojas exteriores de la lechuga y córtala en cuartos a lo largo, sin quitar el tronco para que se mantengan unidos. Pon dos cuartos en cada plato.",
@@ -1100,9 +1097,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Saca el magret 20 minutos antes. Haz cortes en rombo en la grasa sin llegar a la carne, cada centímetro, y sálalo por ambos lados.",
     "Cuece las judías verdes en agua hirviendo con sal 5 minutos, enfríalas en agua helada y córtalas en trozos de 4 cm.",
-    "Pon el magret con la grasa hacia abajo en una sartén fría y enciende a fuego medio-bajo. Deja que la grasa se funda 10-12 minutos, retirando la que sobre con una cuchara (guárdala), hasta que la piel esté fina, dorada y crujiente.",
+    "Pon el magret con la grasa hacia abajo en una sartén fría y enciende a fuego medio-bajo. Deja que la grasa se funda 10-12 minutos, retirando la que sobre con una cuchara (guárdala), hasta que la piel esté fina, dorada y crujiente. Mientras, pica muy fina la chalota y pica el cebollino.",
     "Dale la vuelta y cocina 3-4 minutos por el lado de la carne para un punto rosado (unos 55 °C dentro). Déjalo reposar 8 minutos sobre una tabla, con la piel hacia arriba.",
-    "Mientras, tuesta las nueces 3 minutos en una sartén limpia y pícalas gruesas. Para la vinagreta, bate la chalota muy picada con el vinagre, la mostaza, sal, el aceite de nuez y 1 cucharada de la grasa de pato tibia.",
+    "Mientras, tuesta las nueces 3 minutos en una sartén limpia y pícalas gruesas. Para la vinagreta, bate la chalota con el vinagre, la mostaza, sal, el aceite de nuez y 1 cucharada de la grasa de pato tibia.",
     "Aliña la escarola y las judías con la vinagreta y repártelas en los platos con las nueces.",
     "Corta el magret en lonchas finas y colócalas sobre la ensalada. Termina con escamas de sal, pimienta, cebollino y, si quieres, unas frambuesas partidas, que dan un punto ácido."
   ],

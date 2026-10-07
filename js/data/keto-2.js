@@ -37,12 +37,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca las chuletas de la nevera 20 minutos antes, sécalas con papel de cocina y haz dos cortes en la franja de grasa del borde para que no se curven al dorarse. Salpimiéntalas justo antes de cocinarlas.",
-    "Corta el repollo en tiras finas, pica la chalota muy fina y corta los pepinillos en bastoncitos.",
+    "Mientras se atemperan, corta el repollo en tiras finas, pica la chalota muy fina, corta los pepinillos en bastoncitos y pica el perejil.",
     "Calienta el aceite en una sartén grande a fuego medio-fuerte y dora las chuletas 4 minutos por lado sin moverlas; ponlas también un minuto de canto, apoyadas sobre la grasa, para que se derrita. Están cuando el centro llega a 63 °C o el jugo sale apenas rosado. Pásalas a un plato tapadas con papel de aluminio.",
     "Quita casi toda la grasa de la sartén, baja el fuego, añade 10 g de mantequilla y la chalota y rehógala 2 minutos sin que se dore. Vierte el vino y raspa el fondo para despegar lo tostado; deja que reduzca a la mitad, 2 minutos.",
     "Añade el caldo y el jugo que hayan soltado las chuletas y reduce 3-4 minutos, hasta que queden unas 4 cucharadas de líquido brillante. Fuera del fuego, añade la mostaza (si hierve se vuelve granulosa y amarga), los pepinillos y 15 g de mantequilla fría en dados, moviendo la sartén hasta que la salsa quede ligada. Prueba de sal.",
     "En otra sartén, derrite el resto de la mantequilla a fuego medio-fuerte, añade la alcaravea 20 segundos y después el repollo con una pizca de sal. Saltéalo 6-7 minutos: debe quedar tierno pero con un punto crujiente y algunas hebras doradas.",
-    "Sirve las chuletas sobre la col, napadas con la salsa charcutière y con perejil picado por encima."
+    "Sirve las chuletas sobre la col, napadas con la salsa charcutière y con el perejil por encima."
   ],
   nutricion: { kcal: 660, prot: 40, hc: 12, grasa: 50 },
   etiquetas: ["keto", "tradicional", "sin gluten", "alta en proteína", "otoño", "invierno"],
@@ -85,10 +85,10 @@ window.RECETAS_SEED.push({
     "La víspera, escalda la pieza 2 minutos en agua hirviendo solo por el lado de la corteza, para tensar la piel. Sécala y pincha la corteza por toda la superficie con un tenedor o una brocheta, muy junto y sin llegar a la carne: de esos agujeros depende el crujiente.",
     "Da la vuelta a la pieza y haz cortes de 1 cm en la carne. Frota la carne (nunca la piel) con las cinco especias, la pimienta blanca, el sake y una cucharadita de sal. Deja la panceta en la nevera, destapada y con la piel hacia arriba, toda la noche para que la corteza se seque como un pergamino.",
     "Precalienta el horno a 180 °C. Envuelve la carne con papel de aluminio dejando solo la corteza al aire, como una caja. Pinta la piel con 1 cucharada de vinagre y cúbrela con una capa de sal gruesa de medio centímetro humedecida con otra cucharada de vinagre.",
-    "Asa 60 minutos. Retira la costra de sal (saldrá en bloque) y limpia la piel con una brocha.",
+    "Asa 60 minutos. Mientras, aplasta el pepino con el lado plano del cuchillo, córtalo en trozos irregulares, sálalo 10 minutos y escúrrelo; machaca 1 diente de ajo, lamina los otros 2 y parte el pak choi a lo largo. Retira la costra de sal (saldrá en bloque) y limpia la piel con una brocha.",
     "Sube el horno a 230 °C con grill y asa 15-20 minutos más, vigilando: la corteza se hinchará en burbujas doradas. Si alguna zona se ennegrece, tápala con un trocito de aluminio. Deja reposar 10 minutos.",
-    "Mientras, aplasta el pepino con el lado plano del cuchillo, córtalo en trozos irregulares, sálalo 10 minutos y escúrrelo. Alíñalo con 1 diente de ajo machacado, la última cucharada de vinagre, el aceite de sésamo y el chile.",
-    "Saltea el pak choi partido a lo largo 2-3 minutos en una sartén muy caliente con el aceite y 2 dientes de ajo laminados y sal.",
+    "Mientras reposa, aliña el pepino con el ajo machacado, la última cucharada de vinagre, el aceite de sésamo y el chile.",
+    "Saltea el pak choi 2-3 minutos en una sartén muy caliente con el aceite, el ajo laminado y sal.",
     "Corta la panceta con la piel hacia abajo, con un cuchillo pesado, en bastones de 2 cm. Sirve con el pepino, el pak choi y la mostaza."
   ],
   nutricion: { kcal: 735, prot: 28, hc: 7, grasa: 66 },
@@ -181,9 +181,9 @@ window.RECETAS_SEED.push({
     "La víspera (o al menos 4 horas antes), machaca en el mortero 4 dientes de ajo con una cucharadita de sal, el pimentón dulce y el picante, el tomillo, el orégano y media cucharadita de comino. Añade 2 cucharadas de vinagre y el vino y mezcla con la carne. Tapa y deja en la nevera.",
     "Prepara el mojo verde: tritura el cilantro (con sus tallos), el pimiento verde, 2 dientes de ajo, el resto del comino, una pizca de sal y el resto del vinagre, añadiendo 3 cucharadas de aceite en hilo hasta tener una salsa espesa y brillante.",
     "Saca la carne del adobo escurriéndola bien (guarda el líquido) y sécala un poco con papel; si entra mojada en la sartén se cuece en vez de dorarse.",
-    "Calienta 2 cucharadas de aceite en una sartén amplia a fuego fuerte y fríe la carne en una sola capa, en dos tandas si hace falta, 8-10 minutos, removiendo solo de vez en cuando, hasta que los tacos estén dorados y crujientes por fuera.",
+    "Calienta 2 cucharadas de aceite en una sartén amplia a fuego fuerte y fríe la carne en una sola capa, en dos tandas si hace falta, 8-10 minutos, removiendo solo de vez en cuando, hasta que los tacos estén dorados y crujientes por fuera. Mientras, corta el tomate en gajos.",
     "Vierte el adobo reservado y deja que hierva 2 minutos, raspando el fondo, hasta que se evapore y quede una grasa roja y perfumada que envuelva la carne.",
-    "Aliña los berros y el tomate en gajos con una pizca de sal y un poco del mojo.",
+    "Aliña los berros y el tomate con una pizca de sal y un poco del mojo.",
     "Sirve la carne caliente con su grasa roja, el mojo verde aparte y la ensalada al lado."
   ],
   nutricion: { kcal: 775, prot: 36, hc: 9, grasa: 66 },
@@ -226,9 +226,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el niter kibbeh: derrite la mantequilla a fuego muy bajo con un cuarto de cebolla en trozos, 2 dientes de ajo y la mitad del jengibre machacados, ½ cucharadita de cardamomo, el fenogreco, la cúrcuma y la albahaca. Déjala 20 minutos sin que llegue a dorarse, hasta que la espuma se aclare y huela intensamente. Cuélala por un paño.",
+    "Prepara el niter kibbeh: derrite la mantequilla a fuego muy bajo con un cuarto de cebolla en trozos, 2 dientes de ajo y la mitad del jengibre machacados, ½ cucharadita de cardamomo, el fenogreco, la cúrcuma y la albahaca. Déjala 20 minutos sin que llegue a dorarse, hasta que la espuma se aclare y huela intensamente. Mientras infusiona, pica el resto de la cebolla, los otros 2 dientes de ajo y el resto del jengibre, corta el chile verde en tiras y quita los tallos duros a la col rizada y córtala en tiras. Cuela la mantequilla por un paño.",
     "Mitmita casera: mezcla el chile en copos con el resto del cardamomo, los clavos molidos y ½ cucharadita de sal.",
-    "Para el gomen, quita los tallos duros a la col rizada y córtala en tiras. Rehoga el resto de la cebolla picada, 2 dientes de ajo y el resto del jengibre en el aceite 4 minutos, añade la col, el chile verde en tiras, sal y un chorrito de agua y cuece tapado 10-12 minutos, hasta que esté tierna. Termina con 1 cucharada de niter kibbeh.",
+    "Para el gomen, rehoga la cebolla, el ajo y el jengibre picados en el aceite 4 minutos, añade la col, el chile verde, sal y un chorrito de agua y cuece tapado 10-12 minutos, hasta que esté tierna. Termina con 1 cucharada de niter kibbeh.",
     "Sala ligeramente el requesón y desmígalo: es el ayib, el queso fresco que suaviza el picante.",
     "Justo antes de servir, pica la carne a cuchillo, muy fina: primero en láminas, luego en tiras y después en dados diminutos. No uses carne picada comprada para esta receta.",
     "Calienta el resto del niter kibbeh en una sartén a fuego medio con la mitmita 30 segundos. Fuera del fuego, añade la carne y mézclala 1 minuto, solo hasta que esté templada y apenas cambie de color por fuera: eso es el leb leb. Si lo prefieres hecho (yebesele), deja la sartén al fuego 2-3 minutos más.",
@@ -273,11 +273,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Quita tallos y semillas a los chiles secos y tuéstalos en una sartén seca a fuego medio, 20-30 segundos por lado, solo hasta que huelan y se ablanden; si humean, amargan. Cúbrelos con 250 ml del caldo caliente y déjalos remojar 20 minutos.",
+    "Quita tallos y semillas a los chiles secos y tuéstalos en una sartén seca a fuego medio, 20-30 segundos por lado, solo hasta que huelan y se ablanden; si humean, amargan. Cúbrelos con 250 ml del caldo caliente y déjalos remojar 20 minutos. Mientras, pica la cebolla y el ajo.",
     "Seca bien la carne y sálala. Calienta la manteca en una cazuela de fondo grueso a fuego fuerte y dora la carne en dos tandas, 4-5 minutos por tanda, hasta que tenga costra oscura. Resérvala.",
-    "Baja el fuego, añade la cebolla y el ajo picados y rehoga 4 minutos. Incorpora el comino y el orégano y remueve 30 segundos.",
+    "Baja el fuego, añade la cebolla y el ajo y rehoga 4 minutos. Incorpora el comino y el orégano y remueve 30 segundos.",
     "Tritura los chiles con su caldo de remojo hasta tener una pasta lisa y viértela en la cazuela. Fríela 3-4 minutos removiendo: se oscurece y pierde el sabor a crudo.",
-    "Devuelve la carne con su jugo, añade el resto del caldo y una pizca de sal y lleva a hervor. Tapa dejando una rendija y cuece a fuego muy suave 1 hora y 45 minutos - 2 horas, removiendo de vez en cuando, hasta que la carne se deshaga con la cuchara y la salsa esté espesa y brillante. Si se seca, añade un chorrito de agua.",
+    "Devuelve la carne con su jugo, añade el resto del caldo y una pizca de sal y lleva a hervor. Tapa dejando una rendija y cuece a fuego muy suave 1 hora y 45 minutos - 2 horas, removiendo de vez en cuando, hasta que la carne se deshaga con la cuchara y la salsa esté espesa y brillante. Si se seca, añade un chorrito de agua. Mientras cuece, corta el jalapeño en rodajas si lo usas.",
     "Añade el vinagre, prueba y ajusta de sal. Deja reposar 10 minutos fuera del fuego.",
     "Sirve en cuencos con el cheddar rallado, una cucharada de nata agria y, si te gusta, rodajas de jalapeño."
   ],
@@ -324,12 +324,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela los langostinos dejando la cabeza y la cola, retírales el intestino y frótalos con ½ cucharadita de cúrcuma y sal. Deja 10 minutos.",
-    "Tritura la cebolla, el jengibre, el ajo y 1 chile verde con 2 cucharadas de agua hasta tener una pasta fina.",
+    "Mientras, tritura la cebolla, el jengibre, el ajo y 1 chile verde con 2 cucharadas de agua hasta tener una pasta fina. Ralla la coliflor con el rallador grueso.",
     "Calienta el aceite en una cazuela a fuego fuerte y marca los langostinos 40 segundos por lado, solo hasta que cambien de color. Sácalos: se terminarán en la salsa. Aprieta las cabezas contra el fondo con la espátula para que suelten su jugo, que dará sabor a todo el curry.",
     "Baja el fuego, añade el ghee, el cardamomo, la canela y el laurel y deja 30 segundos hasta que huelan. Incorpora la pasta de cebolla y fríela 8-10 minutos, removiendo, hasta que pierda el agua, se dore y el ghee se separe por los bordes.",
-    "Añade el resto de la cúrcuma, el pimentón y el comino, remueve 30 segundos y vierte la leche de coco con sal. Cuece 5 minutos a fuego suave hasta que espese.",
+    "Añade el resto de la cúrcuma, el pimentón y el comino, remueve 30 segundos y vierte la leche de coco con sal. Cuece 5 minutos a fuego suave hasta que espese. Mientras, tuesta las semillas de comino 20 segundos en una sartén con unas gotas de ghee, añade la coliflor y sal y saltéala 4-5 minutos, hasta que esté tierna pero suelta.",
     "Devuelve los langostinos con su jugo, añade el otro chile abierto y el garam masala y cocina 2-3 minutos, hasta que estén opacos y firmes. No los pases o se pondrán gomosos.",
-    "Mientras, ralla la coliflor con el rallador grueso. Tuesta las semillas de comino 20 segundos en una sartén con unas gotas de ghee, añade la coliflor y sal y saltéala 4-5 minutos, hasta que esté tierna pero suelta.",
     "Sirve el curry con el arroz de coliflor al lado."
   ],
   nutricion: { kcal: 553, prot: 36, hc: 15, grasa: 39 },
@@ -368,12 +367,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela los ajos y pícalos finos, del tamaño de un grano de arroz, sin triturarlos.",
+    "Pela los ajos y pícalos finos, del tamaño de un grano de arroz, sin triturarlos. Pica el cilantro.",
     "Pon el ajo en un cazo pequeño con el aceite y la mitad de la mantequilla a fuego bajo. Confítalo 10-12 minutos, removiendo a menudo, hasta que esté dorado claro y huela a avellana. Retíralo antes de que se oscurezca: sigue tostándose con el calor residual. Añade el chile si lo usas, el zumo de 1 lima y una pizca de sal.",
-    "Mientras, prepara la ensalada: aguacate en dados, pepino en medias lunas, rábanos en rodajas finas, el zumo de media lima, sal y un poco de cilantro picado.",
+    "Mientras, prepara la ensalada: corta el aguacate en dados, el pepino en medias lunas y los rábanos en rodajas finas, y alíñalos con el zumo de media lima, sal y un poco del cilantro.",
     "Seca muy bien el pescado y sálalo. Calienta una sartén con 1 cucharada de la grasa del mojo (sin el ajo) a fuego medio-fuerte y pon los lomos con la piel hacia abajo, presionando 10 segundos con una espátula para que no se curven.",
     "Cocina 4 minutos sin moverlos, hasta que la piel esté crujiente y el pescado opaco casi hasta arriba. Dales la vuelta, añade el resto de la mantequilla y riega 1 minuto con ella.",
-    "Sirve la corvina con la piel hacia arriba, cubierta con el mojo de ajo templado, cilantro picado, gajos de lima y la ensalada al lado."
+    "Sirve la corvina con la piel hacia arriba, cubierta con el mojo de ajo templado, el resto del cilantro, gajos de lima y la ensalada al lado."
   ],
   nutricion: { kcal: 585, prot: 35, hc: 10, grasa: 45 },
   etiquetas: ["keto", "tradicional", "sin gluten"],
@@ -410,11 +409,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Retira las espinas centrales de los lomos de caballa con unas pinzas, sécalos y sálalos ligeramente por la piel. Corta 3 de las hojas de lima en hilos finísimos, quitando el nervio central, y el chile en tiras.",
+    "Retira las espinas centrales de los lomos de caballa con unas pinzas, sécalos y sálalos ligeramente por la piel. Corta 3 de las hojas de lima en hilos finísimos, quitando el nervio central, y el chile en tiras. Lamina el ajo.",
     "Calienta 1 cucharada de aceite en una sartén antiadherente a fuego medio-fuerte y cocina la caballa con la piel hacia abajo 3 minutos, hasta que esté crujiente; dale la vuelta 30 segundos y retírala. Debe quedar apenas hecha.",
     "Abre la lata sin agitarla y saca las 4 cucharadas de crema espesa de arriba. Ponlas en el wok a fuego medio y hiérvelas 2-3 minutos, removiendo, hasta que la grasa se separe y brille: es el «cortar» la crema que pide la cocina tailandesa.",
     "Añade la pasta de curry y fríela en esa grasa 1-2 minutos, hasta que huela intensamente. Agrega el resto de la leche de coco, las hojas de lima enteras y la salsa de pescado y reduce 4-5 minutos, hasta tener una salsa espesa como una crema pastelera ligera.",
-    "Mientras, parte los pak choi a lo largo y saltéalos 3 minutos en una sartén con el resto del aceite, el ajo laminado y una pizca de sal.",
+    "Mientras, parte los pak choi a lo largo y saltéalos 3 minutos en una sartén con el resto del aceite, el ajo y una pizca de sal.",
     "Pon la caballa en la salsa, con la piel hacia arriba para que siga crujiente, y deja 1 minuto solo para calentarla. Prueba y ajusta con salsa de pescado.",
     "Sirve con el pak choi y termina con los hilos de lima kaffir, el chile y las hojas de albahaca."
   ],
@@ -453,11 +452,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el bacalao en una cazuela con la leche, agua hasta cubrir, el laurel y el ajo pelado. Llévalo a un hervor suave y cuécelo 15-20 minutos a fuego mínimo, sin que borbotee, hasta que se separe en lascas al tocarlo.",
+    "Pon el bacalao en una cazuela con la leche, agua hasta cubrir, el laurel y el ajo pelado. Llévalo a un hervor suave y cuécelo 15-20 minutos a fuego mínimo, sin que borbotee, hasta que se separe en lascas al tocarlo. Mientras, pica el perejil, ralla la piel del limón y corta el radicchio en cuartos a lo largo, sin separar la base.",
     "Escúrrelo (guarda un vaso del líquido de cocción y el ajo), quítale la piel y cualquier espina y desmígalo todavía caliente en un bol amplio o en el vaso de la batidora con varillas.",
     "Machaca el ajo cocido y añádelo. Empieza a batir con una cuchara de madera o con las varillas a velocidad baja e incorpora 110 ml de aceite en un hilo finísimo, como para una mayonesa. El pescado irá deshaciéndose en fibras y se volverá una crema blanca y esponjosa. Tarda unos 8-10 minutos.",
-    "Si queda demasiado firme, añade 2-3 cucharadas del líquido de cocción. Termina con pimienta, la ralladura de limón y el perejil picado; prueba antes de salar porque el bacalao ya aporta sal.",
-    "Corta el radicchio en cuartos a lo largo, sin separar la base. Úntalo con el resto del aceite y una pizca de sal y márcalo en la plancha muy caliente 2 minutos por lado, hasta que los bordes se tuesten y el centro empiece a ablandarse. Riégalo con unas gotas de balsámico.",
+    "Si queda demasiado firme, añade 2-3 cucharadas del líquido de cocción. Termina con pimienta, la ralladura de limón y el perejil; prueba antes de salar porque el bacalao ya aporta sal.",
+    "Unta el radicchio con el resto del aceite y una pizca de sal y márcalo en la plancha muy caliente 2 minutos por lado, hasta que los bordes se tuesten y el centro empiece a ablandarse. Riégalo con unas gotas de balsámico.",
     "Sirve el mantecato templado en quenelles generosas junto al radicchio; el amargor tostado de la hoja equilibra la riqueza del bacalao."
   ],
   nutricion: { kcal: 666, prot: 31, hc: 5, grasa: 58 },
@@ -498,9 +497,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Abre los mejillones en una cazuela tapada con 50 ml de vino a fuego fuerte, 3-4 minutos. Sácalos de las conchas y cuela su jugo por un paño: será la base de la salsa.",
-    "Lamina los champiñones y saltéalos en una sartén con 10 g de mantequilla, sal y unas gotas de limón 4 minutos, hasta que estén dorados. Resérvalos.",
-    "Cuece las judías verdes 5 minutos en agua con sal; escúrrelas y mantenlas calientes.",
-    "Unta una sartén amplia con 10 g de mantequilla y esparce la chalota picada. Coloca los filetes de lenguado salpimentados doblados por la mitad, con la cara de la piel hacia dentro. Vierte el resto del vino y el jugo de los mejillones, tapa y escalfa a fuego muy suave 5-6 minutos, hasta que estén blancos y opacos. Pásalos a los platos calientes y tápalos.",
+    "Pon a hervir agua con sal para las judías. Lamina los champiñones, pica la chalota y el perejil y saltea los champiñones en una sartén con 10 g de mantequilla, sal y unas gotas de limón 4 minutos, hasta que estén dorados. Resérvalos.",
+    "Cuece las judías verdes 5 minutos en el agua hirviendo; escúrrelas y mantenlas calientes.",
+    "Unta una sartén amplia con 10 g de mantequilla y esparce la chalota. Coloca los filetes de lenguado salpimentados doblados por la mitad, con la cara de la piel hacia dentro. Vierte el resto del vino y el jugo de los mejillones, tapa y escalfa a fuego muy suave 5-6 minutos, hasta que estén blancos y opacos. Pásalos a los platos calientes y tápalos.",
     "Sube el fuego y reduce el líquido de la sartén a la mitad, unos 3 minutos. Añade la nata y reduce 4-5 minutos más, hasta que nape la cuchara.",
     "Fuera del fuego, mezcla la yema con 2 cucharadas de la salsa y añádela a la sartén batiendo; incorpora el resto de la mantequilla fría en dados, los mejillones y los champiñones. Calienta 30 segundos sin que hierva (la yema se cuajaría). Ajusta con sal, pimienta blanca y unas gotas de limón.",
     "Napa el lenguado con la salsa y sus guarniciones, espolvorea perejil y sirve con las judías verdes."
@@ -537,10 +536,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua fría y pélalos. Separa las yemas y pica las claras finas.",
-    "Pela los tomates (escáldalos 15 segundos si la piel se resiste) y córtalos en dados pequeños sin perder su jugo. Pica el pimiento verde en dados aún más menudos y ponlo todo en un bol con sal.",
+    "Cuece los huevos 10 minutos desde que el agua hierva. Mientras, pela los tomates (escáldalos 15 segundos si la piel se resiste) y córtalos en dados pequeños sin perder su jugo. Pica el pimiento verde en dados aún más menudos y ponlo todo en un bol con sal.",
+    "Enfría los huevos en agua fría y pélalos. Separa las yemas y pica las claras finas.",
     "Machaca el ajo en el mortero con una pizca de sal hasta hacer una pasta, añade las yemas y ve incorporando 3 cucharadas de aceite poco a poco, removiendo, hasta tener una crema espesa. Mézclala con el tomate y el pimiento, añade las claras y deja la pipirrana en la nevera al menos 10 minutos: se sirve fresca y con su caldo.",
-    "Saca la ventresca de la nevera 10 minutos antes, sécala bien con papel de cocina y úntala con la última cucharada de aceite.",
+    "Mientras reposa la pipirrana, saca la ventresca de la nevera, sécala bien con papel de cocina y úntala con la última cucharada de aceite.",
     "Calienta la plancha a fuego muy fuerte hasta que humee. Marca la ventresca 1 minuto por cada lado (minuto y medio si la quieres menos rosada): la grasa debe dorarse por fuera y el centro quedar rosado y tibio. Si se pasa, se seca y sabe a lata.",
     "Sálala con escamas, córtala en tacos gruesos y sírvela con la pipirrana bien fría, regada con su caldo."
   ],
@@ -580,12 +579,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla en juliana fina, el pimiento en tiras finas y el ajo en láminas. Desmenuza el bacalao con los dedos, buscando espinas.",
-    "Pon 3 cucharadas de aceite en una sartén de 22-24 cm a fuego medio-bajo y pocha la cebolla y el pimiento 15 minutos, removiendo de vez en cuando, hasta que estén blandos, dulces y apenas dorados.",
+    "Pon 3 cucharadas de aceite en una sartén de 22-24 cm a fuego medio-bajo y pocha la cebolla y el pimiento 15 minutos, removiendo de vez en cuando, hasta que estén blandos, dulces y apenas dorados. Mientras, pica el perejil, corta la cebolleta en aros y los cogollos en cuartos.",
     "Sube a fuego medio, añade el ajo y el bacalao y saltea 2 minutos, solo hasta que el pescado se vuelva opaco; si se pasa, se pone duro.",
-    "Bate los huevos sin espumarlos, con el perejil picado y muy poca sal (el bacalao ya tiene). Vierte el sofrito con el bacalao en el huevo y deja 1 minuto para que se integre.",
+    "Bate los huevos sin espumarlos, con el perejil y muy poca sal (el bacalao ya tiene). Vierte el sofrito con el bacalao en el huevo y deja 1 minuto para que se integre.",
     "Limpia la sartén, caliéntala con 1 cucharada de aceite a fuego medio-fuerte y vierte la mezcla. Mueve la sartén y remueve 30 segundos el centro con una espátula, como un revuelto, y deja cuajar 1 minuto más, hasta que los bordes estén hechos y el centro siga líquido.",
     "Dale la vuelta con un plato y cocina 30 segundos por el otro lado. La de sidrería se sirve doblada o muy jugosa: debe derramarse un poco al cortarla.",
-    "Sirve con los cogollos en cuartos aliñados con la cebolleta en aros, el resto del aceite, el vinagre y sal."
+    "Sirve con los cogollos aliñados con la cebolleta, el resto del aceite, el vinagre y sal."
   ],
   nutricion: { kcal: 590, prot: 34, hc: 10, grasa: 46 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "alta en proteína"],
@@ -619,9 +618,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta los pimientos en tiras anchas. Fríelos en una sartén con 1 cucharada de aceite a fuego medio 8 minutos, hasta que estén blandos y con la piel ampollada. Sálalos con escamas y resérvalos en un plato.",
-    "Corta la panceta en dados pequeños y el chorizo, sin piel, en rodajas finas o desmigado.",
-    "En la misma sartén, con el resto del aceite, pon la panceta a fuego medio y deja que suelte su grasa 4 minutos, hasta que esté dorada. Añade el chorizo y el ajo laminado y cocina 2 minutos más, hasta que el aceite se tiña de rojo.",
+    "Corta los pimientos en tiras anchas. Fríelos en una sartén con 1 cucharada de aceite a fuego medio 8 minutos, hasta que estén blandos y con la piel ampollada. Mientras, corta la panceta en dados pequeños y el chorizo, sin piel, en rodajas finas o desmigado, y lamina el ajo. Sala los pimientos con escamas y resérvalos en un plato.",
+    "En la misma sartén, con el resto del aceite, pon la panceta a fuego medio y deja que suelte su grasa 4 minutos, hasta que esté dorada. Añade el chorizo y el ajo y cocina 2 minutos más, hasta que el aceite se tiña de rojo.",
     "Bate ligeramente los huevos con una pizca de sal (poca: el embutido ya es salado).",
     "Baja el fuego al mínimo, vierte los huevos y remueve despacio con una espátula, despegando del fondo, 2-3 minutos. Retira la sartén del fuego cuando aún estén brillantes y algo líquidos: terminan de cuajar con el calor residual y quedan cremosos.",
     "Sirve en seguida con los pimientos fritos al lado."
@@ -704,12 +702,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Cuece 4 huevos 6 minutos y medio desde que el agua vuelva a hervir y pásalos a un bol con agua y hielo 10 minutos. Pélalos con cuidado: la yema estará melosa y la clara, tierna.",
-    "Mezcla la carne de las salchichas con la salvia picada, la nuez moscada, 1 cucharadita de mostaza y pimienta, amasando 1 minuto para que ligue. Divídela en 4 bolas de unos 60 g.",
+    "Mientras se cuecen y se enfrían, pica la salvia y mézclala con la carne de las salchichas, la nuez moscada, 1 cucharadita de mostaza y pimienta, amasando 1 minuto para que ligue. Divídela en 4 bolas de unos 60 g.",
     "Tritura las cortezas con el parmesano en la batidora hasta tener una arena gruesa y extiéndela en un plato. Bate el huevo restante en otro.",
     "Con las manos húmedas, aplasta una bola de carne en la palma formando una torta fina, pon un huevo en el centro y ciérrala a su alrededor, sellando bien las juntas sin dejar grietas ni bolsas de aire. Repite con los demás.",
     "Pásalos por el huevo batido y después por la arena de cortezas, apretando para que se adhiera bien. Colócalos en una bandeja con papel de horno.",
-    "Hornea 22-25 minutos, girándolos a mitad, hasta que la costra esté dorada y la carne firme al presionarla (72 °C en la carne si tienes termómetro). Déjalos reposar 5 minutos.",
-    "Aliña los berros con el aceite, el vinagre y una pizca de sal y pica los pepinillos por encima. Sirve los Scotch eggs partidos por la mitad, con la yema a la vista, junto a la ensalada y el resto de la mostaza."
+    "Hornea 22-25 minutos, girándolos a mitad, hasta que la costra esté dorada y la carne firme al presionarla (72 °C en la carne si tienes termómetro). Mientras, pica los pepinillos. Déjalos reposar 5 minutos.",
+    "Aliña los berros con el aceite, el vinagre y una pizca de sal y esparce los pepinillos por encima. Sirve los Scotch eggs partidos por la mitad, con la yema a la vista, junto a la ensalada y el resto de la mostaza."
   ],
   nutricion: { kcal: 740, prot: 51, hc: 5, grasa: 57 },
   etiquetas: ["keto", "creativa", "poco especiada", "al horno", "alta en proteína", "ideal para llevar", "económica"],
@@ -746,8 +744,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en papel de cocina, ponle un peso encima y déjalo escurrir 15 minutos: debe quedar firme para dorarse sin deshacerse.",
-    "Parte el melón amargo a lo largo, raspa con una cuchara las semillas y la parte blanca esponjosa y córtalo en medias lunas de 3-4 mm. Mézclalo con media cucharadita de sal, déjalo 10 minutos, apriétalo con las manos, aclara y escurre: pierde parte del amargor y queda crujiente.",
-    "Corta la panceta en tiras de 3 cm y bate los huevos con una pizca de sal.",
+    "Mientras, parte el melón amargo a lo largo, raspa con una cuchara las semillas y la parte blanca esponjosa y córtalo en medias lunas de 3-4 mm. Mézclalo con media cucharadita de sal, déjalo 10 minutos, apriétalo con las manos, aclara y escurre: pierde parte del amargor y queda crujiente.",
+    "Mientras reposa el melón, corta la panceta en tiras de 3 cm y bate los huevos con una pizca de sal.",
     "Calienta el aceite en el wok a fuego medio-alto y rompe el tofu con las manos en trozos irregulares directamente sobre él. Dóralo 5-6 minutos, girándolo poco, hasta que tenga costra por varias caras. Sácalo a un plato.",
     "En el mismo wok dora la panceta 3-4 minutos, hasta que suelte su grasa y esté crujiente por los bordes. Añade el melón amargo y saltéalo 2 minutos a fuego fuerte: debe seguir verde brillante y crujiente.",
     "Devuelve el tofu, riega con el tamari y saltea 1 minuto. Vierte el huevo por encima, déjalo cuajar 20 segundos y remueve una o dos veces, solo hasta que envuelva todo en trozos blandos.",
@@ -791,12 +789,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle peso encima 15 minutos para que suelte agua y córtalo en 6 rectángulos gruesos.",
-    "Tuesta las semillas de calabaza en una sartén seca a fuego medio, removiendo, 4-5 minutos: se hinchan y empiezan a saltar. Reserva 2 cucharadas para decorar.",
-    "Cuece los tomates verdes (si son frescos, sin la cáscara de papel), los jalapeños sin tallo, la cebolla y el ajo en un cazo con agua 8 minutos, hasta que los tomates cambien a verde oliva.",
+    "Mientras, tuesta las semillas de calabaza en una sartén seca a fuego medio, removiendo, 4-5 minutos: se hinchan y empiezan a saltar. Reserva 2 cucharadas para decorar.",
+    "Cuece los tomates verdes (si son frescos, sin la cáscara de papel), los jalapeños sin tallo, la cebolla y el ajo en un cazo con agua 8 minutos, hasta que los tomates cambien a verde oliva. Mientras, corta los rábanos en láminas finas.",
     "Tritura las semillas con los tomates, los jalapeños, la cebolla, el ajo escurridos, el cilantro con sus tallos, la lechuga, el comino y el caldo hasta tener una salsa fina y de un verde intenso.",
     "Calienta 1 cucharada de aceite en una cazuela a fuego medio y vierte la salsa de golpe (salpica). Cocínala 10 minutos removiendo a menudo y sin dejar que hierva fuerte, porque las semillas se cortan y la salsa se vuelve granulosa. Debe espesar hasta napar la cuchara. Sala.",
     "Mientras, dora el tofu salado en una sartén antiadherente con el resto del aceite a fuego medio-fuerte, 3-4 minutos por lado, hasta que tenga costra dorada.",
-    "Sirve el tofu sobre una cama generosa de pipián, con las semillas reservadas y los rábanos en láminas finas."
+    "Sirve el tofu sobre una cama generosa de pipián, con las semillas reservadas y los rábanos."
   ],
   nutricion: { kcal: 635, prot: 38, hc: 15, grasa: 47 },
   etiquetas: ["keto", "creativa", "picante", "sin gluten"],
@@ -835,13 +833,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en papel de cocina, ponle un plato con peso encima 10 minutos y córtalo en 4 filetes de 2 cm. Haz cortes en rejilla poco profundos en una cara para que absorba la salsa.",
-    "Mezcla el tamari con el sake y el jengibre rallado. Lamina el ajo, trocea las setas y parte los pak choi a lo largo.",
+    "Envuelve el tofu en papel de cocina y ponle un plato con peso encima 10 minutos. Mientras, ralla el jengibre y mézclalo con el tamari y el sake; lamina el ajo, trocea las setas, parte los pak choi a lo largo y pica la cebolleta.",
+    "Corta el tofu en 4 filetes de 2 cm y haz cortes en rejilla poco profundos en una cara para que absorba la salsa.",
     "Calienta el aceite en una sartén grande a fuego medio-fuerte y dora el tofu, empezando por la cara con cortes, 4 minutos por lado, sin moverlo, hasta que tenga una costra dorada y firme.",
     "Aparta el tofu a un lado, añade 10 g de mantequilla y el ajo y dóralo 30 segundos; incorpora las setas y saltéalas 4 minutos, hasta que estén doradas.",
     "Vierte la mezcla de tamari y añade el resto de la mantequilla. Deja que burbujee 1 minuto, dando la vuelta al tofu y regándolo con la salsa hasta que quede glaseado y brillante.",
     "Saca el tofu y las setas a los platos y, en la misma sartén, saltea el pak choi 2-3 minutos con lo que quede de salsa.",
-    "Sirve el tofu con las setas y el pak choi, la cebolleta picada, el sésamo tostado y pimienta recién molida."
+    "Sirve el tofu con las setas y el pak choi, la cebolleta, el sésamo tostado y pimienta recién molida."
   ],
   nutricion: { kcal: 528, prot: 35, hc: 12, grasa: 38 },
   etiquetas: ["keto", "tradicional", "sin gluten", "rápida", "poco especiada", "una sola sartén"],
@@ -880,13 +878,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las costillas en un bol grande con agua fría y déjalas 1 hora, cambiando el agua un par de veces, para que suelten la sangre: así el caldo sale limpio.",
+    "Pon las costillas en un bol grande con agua fría y déjalas 1 hora, cambiando el agua un par de veces, para que suelten la sangre: así el caldo sale limpio. Mientras, corta el jengibre en láminas, separa la parte blanca de las cebolletas de la verde y corta la verde en aros.",
     "Escúrrelas, cúbrelas de agua en una cazuela, lleva a hervor y cuécelas 5 minutos. Tira esa agua, aclara las costillas bajo el grifo y lava la cazuela.",
-    "Vuelve a poner las costillas con 2 litros de agua, la media cebolla, 4 dientes de ajo enteros, el jengibre en láminas, la parte blanca de las cebolletas y el daikon entero. Lleva a hervor, baja al mínimo y cuece con la tapa entreabierta 1 hora y 45 minutos - 2 horas, retirando la espuma de vez en cuando, hasta que la carne se separe del hueso con facilidad.",
+    "Vuelve a poner las costillas con 2 litros de agua, la media cebolla, 4 dientes de ajo enteros, el jengibre, la parte blanca de las cebolletas y el daikon entero. Lleva a hervor, baja al mínimo y cuece con la tapa entreabierta 1 hora y 45 minutos - 2 horas, retirando la espuma de vez en cuando, hasta que la carne se separe del hueso con facilidad. Mientras cuece, pica los 2 dientes de ajo restantes.",
     "Saca el daikon a los 40 minutos, cuando un cuchillo lo atraviese sin esfuerzo, y córtalo en láminas de 3 mm. Al terminar, retira la cebolla, el ajo, el jengibre y la cebolleta. Deja reposar el caldo 5 minutos y quita con un cazo solo la capa de grasa más gruesa (unas 2-3 cucharadas): el resto le da cuerpo.",
     "Mientras, bate el huevo con una pizca de sal y cuájalo en una sartén untada con el aceite, a fuego bajo, como una tortilla finísima, 1 minuto por lado. Enróllalo y córtalo en tiras finas.",
-    "Sazona el caldo con el tamari, la salsa de pescado, los 2 ajos restantes picados y sal. Devuelve el daikon y calienta 2 minutos.",
-    "Sirve en cuencos grandes las costillas con el caldo y el daikon, y termina con las tiras de huevo, la parte verde de la cebolleta en aros, unas gotas de aceite de sésamo y pimienta."
+    "Sazona el caldo con el tamari, la salsa de pescado, el ajo picado y sal. Devuelve el daikon y calienta 2 minutos.",
+    "Sirve en cuencos grandes las costillas con el caldo y el daikon, y termina con las tiras de huevo, la parte verde de la cebolleta, unas gotas de aceite de sésamo y pimienta."
   ],
   nutricion: { kcal: 670, prot: 42, hc: 8, grasa: 52 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "de cuchara", "invierno", "batch cooking", "fin de semana"],
@@ -925,12 +923,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Asa los chiles directamente sobre la llama del fuego o bajo el grill del horno a máxima potencia, girándolos, 8-10 minutos, hasta que la piel esté negra y ampollada por todos lados. Mételos en un bol tapado 10 minutos para que suden.",
-    "Mientras, cuece los contramuslos en el caldo con una pizca de sal a fuego suave 15 minutos. Sácalos, deshébralos con dos tenedores y reserva el caldo.",
+    "Mientras, cuece los contramuslos en el caldo con una pizca de sal a fuego suave 15 minutos. Mientras se cuecen, pica la cebolla y el ajo. Saca el pollo, deshébralo con dos tenedores y reserva el caldo.",
     "Pela los chiles frotando con papel de cocina (sin lavarlos bajo el grifo, que se pierde el sabor ahumado), quítales tallo y semillas y córtalos en tiras. Reserva unas tiras para decorar.",
-    "Derrite la mantequilla en la cazuela y rehoga la cebolla y el ajo picados 5 minutos. Añade los chiles y el caldo reservado y cuece 10 minutos.",
+    "Derrite la mantequilla en la cazuela y rehoga la cebolla y el ajo 5 minutos. Añade los chiles y el caldo reservado y cuece 10 minutos. Mientras, tuesta las semillas de calabaza en una sartén seca 3 minutos, hasta que salten, y corta el queso fresco y el aguacate en dados.",
     "Tritura con la nata hasta que quede muy fina, prueba y ajusta de sal. Si está demasiado espesa, aligérala con agua.",
-    "Tuesta las semillas de calabaza en una sartén seca 3 minutos, hasta que salten.",
-    "Sirve la crema caliente con el pollo deshebrado, el queso fresco en dados (se ablanda con el calor sin fundirse), el aguacate en dados, las tiras de chile, las semillas y el cilantro."
+    "Sirve la crema caliente con el pollo deshebrado, el queso fresco (se ablanda con el calor sin fundirse), el aguacate, las tiras de chile, las semillas y el cilantro."
   ],
   nutricion: { kcal: 645, prot: 38, hc: 17, grasa: 47 },
   etiquetas: ["keto", "creativa", "sin gluten", "invierno", "de cuchara"],
@@ -971,12 +968,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en una cazuela 1 litro de agua con la cebolla en mitad, la zanahoria y el apio en trozos grandes, el laurel y la pimienta de Jamaica. Lleva a hervor y añade las salchichas enteras.",
-    "Cuece a fuego suave, sin que hierva fuerte, 20 minutos: las salchichas se hacen y dan sabor al caldo. Mientras, cuece los huevos 10 minutos, enfríalos y pélalos.",
+    "Cuece a fuego suave, sin que hierva fuerte, 20 minutos: las salchichas se hacen y dan sabor al caldo. Mientras, cuece los huevos 10 minutos, enfríalos y pélalos, y pica el cebollino.",
     "Saca las salchichas y córtalas en rodajas gruesas. Retira y desecha las verduras, el laurel y la pimienta: solo han servido para aromatizar.",
     "Machaca el ajo con una pizca de sal y añádelo al caldo junto con la mejorana. Cuece 3 minutos.",
     "En un bol, mezcla la nata agria con el rábano picante y unos cazos de caldo caliente para atemperarla. Viértela en la cazuela, removiendo, y calienta a fuego bajo 3-4 minutos sin que llegue a hervir, o la nata se cortará y el rábano perderá su picor.",
     "Devuelve la salchicha, ajusta de sal y pimienta y prueba: debe picar en la nariz de forma agradable; si quieres más intensidad, añade rábano al final.",
-    "Sirve en platos hondos con medio huevo duro por persona dentro (o en cuartos) y cebollino picado."
+    "Sirve en platos hondos con medio huevo duro por persona dentro (o en cuartos) y el cebollino."
   ],
   nutricion: { kcal: 630, prot: 28, hc: 9, grasa: 54 },
   etiquetas: ["keto", "tradicional", "primavera", "de cuchara"],
@@ -1013,10 +1010,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela los espárragos con un pelador desde 2 cm por debajo de la yema hasta la base, girándolos, y corta el extremo leñoso. Deben quedar blancos y lisos: si queda piel, quedarán fibrosos.",
     "Pon a hervir agua abundante en una cazuela ancha con sal, 10 g de mantequilla y las pieles de los espárragos (dan sabor al agua). Retira las pieles, añade los espárragos y cuécelos a fuego suave 12-15 minutos según grosor, hasta que la punta de un cuchillo entre sin resistencia en la base.",
-    "Mientras, derrite 100 g de mantequilla y mantenla caliente pero no hirviendo. Separa las yemas.",
+    "Mientras, derrite 100 g de mantequilla y mantenla caliente pero no hirviendo. Separa las yemas y pica el perejil.",
     "Pon las yemas en un bol con 2 cucharadas de agua y una pizca de sal sobre un cazo con agua que apenas tiemble, sin que el bol toque el agua. Bate con varillas 3-4 minutos, hasta que espesen y dejen rastro, como una crema ligera; si ves que cuajan en los bordes, aparta el bol del calor unos segundos.",
     "Fuera del fuego, añade la mantequilla en un hilo fino sin dejar de batir, hasta que la salsa esté espesa y brillante. Termina con el zumo del medio limón y pimienta blanca. Mantenla templada sobre el agua caliente con el fuego apagado.",
-    "Escurre los espárragos con cuidado sobre un paño y sírvelos en platos calientes con las lonchas de jamón cocido y serrano al lado, la holandesa por encima de los espárragos y perejil picado."
+    "Escurre los espárragos con cuidado sobre un paño y sírvelos en platos calientes con las lonchas de jamón cocido y serrano al lado, la holandesa por encima de los espárragos y el perejil."
   ],
   nutricion: { kcal: 685, prot: 32, hc: 8, grasa: 58 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "primavera", "para invitados"],
@@ -1054,8 +1051,8 @@ window.RECETAS_SEED.push({
     "Corta los calabacines a lo largo en láminas de medio centímetro, sálalas y déjalas 20 minutos en un colador para que suelten agua. Sécalas bien con papel.",
     "Mientras, haz la salsa: dora el ajo aplastado en 1 cucharada de aceite, añade el tomate, unas hojas de albahaca y sal, y cuece 15 minutos a fuego suave hasta que espese. Retira el ajo.",
     "Corta la mozzarella en lonchas finas y déjala escurrir sobre papel: si entra húmeda, la parmigiana queda aguada.",
-    "Calienta el resto del aceite en una sartén a fuego medio-fuerte y fríe las láminas en tandas, 1-2 minutos por lado, hasta que estén doradas. Escúrrelas sobre papel absorbente.",
-    "Precalienta el horno a 190 °C. En una fuente pequeña, extiende una capa fina de salsa, una de calabacín, mozzarella, parmesano, albahaca y pimienta. Repite hasta terminar, acabando con salsa, mozzarella y parmesano.",
+    "Precalienta el horno a 190 °C. Calienta el resto del aceite en una sartén a fuego medio-fuerte y fríe las láminas en tandas, 1-2 minutos por lado, hasta que estén doradas. Escúrrelas sobre papel absorbente.",
+    "En una fuente pequeña, extiende una capa fina de salsa, una de calabacín, mozzarella, parmesano, albahaca y pimienta. Repite hasta terminar, acabando con salsa, mozzarella y parmesano.",
     "Hornea 25 minutos, hasta que burbujee por los bordes y la superficie esté gratinada.",
     "Deja reposar al menos 15 minutos antes de cortar: así las capas se asientan y no se desmorona. Sirve templada con albahaca fresca."
   ],
@@ -1097,11 +1094,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C con grill. Limpia los champiñones y las setas con papel (sin mojarlos) y córtalos en tiras finas, de ahí el nombre «julienne».",
-    "Derrite la mantequilla en una sartén amplia a fuego medio y pocha la cebolla picada 5 minutos, hasta que esté transparente.",
-    "Sube el fuego, añade las setas y el ajo picado y saltéalas 8-10 minutos: primero soltarán agua y después se dorarán. No las sales hasta que estén doradas, o soltarán todavía más líquido.",
-    "Baja el fuego, añade la nata agria, sal, pimienta, la nuez moscada y la mitad del eneldo picado y cocina 3 minutos, hasta que la salsa envuelva las setas.",
-    "Reparte la mezcla en dos cazuelitas o en una fuente pequeña, cubre con el queso rallado y gratina 8-10 minutos, hasta que el queso burbujee y se dore en manchas.",
+    "Precalienta el horno a 220 °C con grill. Limpia los champiñones y las setas con papel (sin mojarlos) y córtalos en tiras finas, de ahí el nombre «julienne». Pica la cebolla, el ajo y el eneldo y ralla el queso.",
+    "Derrite la mantequilla en una sartén amplia a fuego medio y pocha la cebolla 5 minutos, hasta que esté transparente.",
+    "Sube el fuego, añade las setas y el ajo y saltéalas 8-10 minutos: primero soltarán agua y después se dorarán. No las sales hasta que estén doradas, o soltarán todavía más líquido.",
+    "Baja el fuego, añade la nata agria, sal, pimienta, la nuez moscada y la mitad del eneldo y cocina 3 minutos, hasta que la salsa envuelva las setas.",
+    "Reparte la mezcla en dos cazuelitas o en una fuente pequeña, cubre con el queso y gratina 8-10 minutos, hasta que el queso burbujee y se dore en manchas.",
     "Mientras, corta el pepino y los rábanos en rodajas finas y alíñalos con el aceite, sal y el resto del eneldo.",
     "Sirve el zhulien muy caliente con la ensalada fresca al lado."
   ],

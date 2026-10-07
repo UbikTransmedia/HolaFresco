@@ -37,10 +37,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca los langostinos, sálalos y saltéalos en la cazuela con 1 cucharada de aceite a fuego fuerte 1 minuto, solo hasta que cambien de color. Sácalos: terminarán en el arroz y así no quedan gomosos.",
-    "En la misma cazuela, con el resto del aceite, sofríe la cebolla, el pimiento y el ajo picados finos 7 minutos, hasta que estén blandos.",
+    "Pica finos la cebolla, el pimiento y el ajo. Seca los langostinos, sálalos y saltéalos en la cazuela con 1 cucharada de aceite a fuego fuerte 1 minuto, solo hasta que cambien de color. Sácalos: terminarán en el arroz y así no quedan gomosos.",
+    "En la misma cazuela, con el resto del aceite, sofríe la cebolla, el pimiento y el ajo 7 minutos, hasta que estén blandos.",
     "Añade la pasta de ají amarillo, el pimentón y el comino y cocina 2 minutos, removiendo: el ají amarillo es el chile emblema de Perú, más afrutado que picante, y necesita freírse un poco para perder el sabor crudo.",
-    "Incorpora el arroz, nacáralo 1 minuto y vierte el caldo caliente. Sala con cuidado y cuece a fuego medio-bajo, tapado, 15 minutos.",
+    "Incorpora el arroz, nacáralo 1 minuto y vierte el caldo caliente. Sala con cuidado y cuece a fuego medio-bajo, tapado, 15 minutos. Mientras, pica el cilantro y corta la lima en gajos.",
     "Añade los guisantes y el maíz, remueve una vez y cuece 3 minutos más. El arroz con camarones debe quedar jugoso, ni seco ni caldoso: si se ha secado, un chorrito de caldo.",
     "Devuelve los langostinos con su jugo, añade el parmesano y la mitad del cilantro picado y mezcla con suavidad. Tapa y deja reposar 3 minutos.",
     "Sirve con el resto del cilantro y gajos de lima. En Perú se acompaña de una sarsa criolla de cebolla morada con lima."
@@ -81,8 +81,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las habas en agua hirviendo con sal 4 minutos y pásalas a agua fría. Si tienes tiempo, quítales la piel apretándolas entre los dedos: quedan más tiernas, dulces y de un verde precioso.",
-    "Corta la cebolla morada en dados pequeños y déjala 5 minutos en el vinagre con una pizca de sal. Este 'curado' le quita el picor y a la vez prepara la base del aliño.",
+    "Pon a hervir agua con sal. Mientras, corta la cebolla morada en dados pequeños y déjala en el vinagre con una pizca de sal. Este 'curado' le quita el picor y a la vez prepara la base del aliño.",
+    "Cuece las habas en el agua hirviendo 4 minutos y pásalas a agua fría. Si tienes tiempo, quítales la piel apretándolas entre los dedos: quedan más tiernas, dulces y de un verde precioso.",
     "Corta el tomate y el queso fresco en dados del mismo tamaño que las habas, para que cada bocado lleve de todo.",
     "Pica el chile sin semillas y el perejil. Parte las aceitunas por la mitad.",
     "En un bol, mezcla las habas, el maíz escurrido, el tomate, las aceitunas, el chile y el perejil. Añade la cebolla con su vinagre, el aceite, sal y pimienta y remueve.",
@@ -125,11 +125,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría y pártelos en cuartos.",
-    "Prepara la salsa golf mezclando la mayonesa, el kétchup, el zumo de naranja y unas gotas de lima. Es una salsa inventada en Mar del Plata en los años 20: el cítrico la aligera y evita que resulte empalagosa.",
-    "Corta los palmitos en rodajas gruesas al bies y los cherrys por la mitad.",
+    "Mientras se cuecen, prepara la salsa golf mezclando la mayonesa, el kétchup, el zumo de naranja y unas gotas de lima. Es una salsa inventada en Mar del Plata en los años 20: el cítrico la aligera y evita que resulte empalagosa.",
+    "Corta los palmitos en rodajas gruesas al bies y los cherrys por la mitad. Corta la lechuga en tiras.",
     "Si los langostinos están crudos, cuécelos 2 minutos en agua hirviendo con sal y enfríalos. Sécalos bien para que la salsa se adhiera.",
     "Corta el aguacate en dados y rocíalo con zumo de lima para que no se oscurezca.",
-    "Monta en los platos una cama de lechuga en tiras, reparte los palmitos, los cherrys, el aguacate, los huevos y los langostinos, y sirve la salsa golf por encima o aparte."
+    "Monta en los platos una cama de lechuga, reparte los palmitos, los cherrys, el aguacate, los huevos y los langostinos, y sirve la salsa golf por encima o aparte."
   ],
   nutricion: { kcal: 410, prot: 32, hc: 14, grasa: 25 },
   etiquetas: ["cocinas del mundo", "argentina", "marisco", "sin cocción", "rápida", "ligera", "sin gluten", "verano", "alta en proteína", "poco especiada"],
@@ -167,10 +167,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien el maíz con papel de cocina. Calienta una sartén grande a fuego fuerte sin grasa y tuesta el maíz en una sola capa 5-6 minutos, removiendo poco, hasta que algunos granos estén dorados y otros salten. Ese tostado imita el elote a la brasa.",
-    "Baja a fuego medio, añade la mantequilla, la cebolla picada fina, el ajo y el chile picados y saltea 3 minutos, hasta que la cebolla esté tierna.",
-    "Pasa el maíz a un bol y déjalo templar 2 minutos: si la mayonesa toca el maíz muy caliente se separa y queda aceitosa.",
-    "Mezcla con la mayonesa, el zumo de la lima, el cilantro picado y la mitad del queso desmenuzado. Prueba de sal (el feta ya es salado).",
+    "Pica fina la cebolla y pica el ajo y el chile. Seca bien el maíz con papel de cocina. Calienta una sartén grande a fuego fuerte sin grasa y tuesta el maíz en una sola capa 5-6 minutos, removiendo poco, hasta que algunos granos estén dorados y otros salten. Ese tostado imita el elote a la brasa.",
+    "Baja a fuego medio, añade la mantequilla, la cebolla, el ajo y el chile y saltea 3 minutos, hasta que la cebolla esté tierna.",
+    "Pasa el maíz a un bol y déjalo templar 2 minutos: si la mayonesa toca el maíz muy caliente se separa y queda aceitosa. Mientras, pica el cilantro y desmenuza el queso.",
+    "Mezcla con la mayonesa, el zumo de la lima, el cilantro y la mitad del queso. Prueba de sal (el feta ya es salado).",
     "Sirve en vasos o cuencos con el resto del queso y el pimentón picante por encima, y las tostadas al lado para acompañar."
   ],
   nutricion: { kcal: 565, prot: 14, hc: 54, grasa: 33 },
@@ -208,13 +208,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hogao: pica la cebolleta y ralla los tomates. Sofríe la cebolleta y un ajo en 1/2 cucharada de aceite 4 minutos, añade el tomate y el comino y cocina 10 minutos a fuego medio, hasta que esté espeso y brillante. Es el sofrito básico de Colombia.",
-    "Pasa la mitad del hogao a otro cazo con las alubias, el otro ajo machacado y 100 ml de agua y cuece 10 minutos, aplastando algunas alubias para que espese.",
-    "Pela los plátanos verdes: corta los extremos, haz cortes a lo largo de la piel y despégala con el pulgar (el plátano verde no se pela como el maduro). Córtalos en trozos de 4 cm.",
+    "Hogao: pica la cebolleta y un ajo y ralla los tomates. Sofríe la cebolleta y el ajo en 1/2 cucharada de aceite 4 minutos, añade el tomate y el comino y cocina 10 minutos a fuego medio, hasta que esté espeso y brillante. Es el sofrito básico de Colombia. Mientras, pela los plátanos verdes: corta los extremos, haz cortes a lo largo de la piel y despégala con el pulgar (el plátano verde no se pela como el maduro). Córtalos en trozos de 4 cm.",
+    "Pasa la mitad del hogao a otro cazo con las alubias, el otro ajo machacado y 100 ml de agua y cuece 10 minutos, aplastando algunas alubias para que espese. Mientras, corta el aguacate en dados, rocíalo con la lima y pica el cilantro.",
     "Primera fritura: fríe los trozos en el resto del aceite a fuego medio 3 minutos por lado, hasta que estén tiernos pero sin color. Sácalos.",
     "Aplasta cada trozo con el fondo de un vaso o entre dos papeles de horno hasta dejarlo de 1 cm. Si se agrietan los bordes, mejor: más superficie crujiente.",
     "Segunda fritura: sube el fuego y fríelos de nuevo 2 minutos por lado, hasta que estén dorados y crujientes. Escúrrelos sobre papel y sala enseguida, en caliente, para que la sal se pegue.",
-    "Sirve los patacones con los frijoles, el resto del hogao por encima, el aguacate en dados con lima y cilantro picado."
+    "Sirve los patacones con los frijoles, el resto del hogao por encima, el aguacate y el cilantro."
   ],
   nutricion: { kcal: 575, prot: 16, hc: 81, grasa: 21 },
   etiquetas: ["cocinas del mundo", "colombiana", "vegano", "sin gluten", "sin lácteos", "económica", "para compartir", "poco especiada", "bajo en colesterol"],
@@ -256,8 +255,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela el plátano macho cortando los extremos y haciendo un corte a lo largo de la piel; sácala con los dedos. Córtalo en rodajas gruesas al bies y rocíalo con el zumo de media lima y sal.",
     "Pon a cocer el arroz lavado en el doble de su volumen de agua con sal, tapado a fuego mínimo, 15 minutos.",
-    "Corta la cebolla, los pimientos y el tomate en rodajas o tiras. La moqueca se monta en capas, sin sofrito previo: las verduras se cuecen en su propio jugo y el de la leche de coco.",
-    "En la cazuela, pon el aceite y el ajo laminado, y encima una capa de la mitad de la cebolla, los pimientos y el tomate. Coloca el plátano y los palmitos en trozos, y cubre con el resto de verduras y la mitad del cilantro picado.",
+    "Mientras, corta la cebolla, los pimientos y el tomate en rodajas o tiras, lamina el ajo y pica el cilantro. La moqueca se monta en capas, sin sofrito previo: las verduras se cuecen en su propio jugo y el de la leche de coco.",
+    "En la cazuela, pon el aceite y el ajo laminado, y encima una capa de la mitad de la cebolla, los pimientos y el tomate. Coloca el plátano y los palmitos en trozos, y cubre con el resto de verduras y la mitad del cilantro.",
     "Mezcla la leche de coco con el pimentón (en Bahía se usa aceite de palma, que aporta color rojizo) y viértela por encima. Sala.",
     "Tapa y cuece a fuego medio-bajo 20 minutos sin remover, solo moviendo la cazuela de vez en cuando, hasta que el plátano esté tierno y la salsa haya reducido.",
     "Termina con el zumo de la otra media lima y el resto del cilantro y sirve con el arroz blanco."
@@ -298,7 +297,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga clara: quitar el almidón superficial es lo que hace que el rice and peas quede suelto a pesar de la leche de coco.",
+    "Lava el arroz hasta que el agua salga clara: quitar el almidón superficial es lo que hace que el rice and peas quede suelto a pesar de la leche de coco. Corta la cebolleta en rodajas y machaca el ajo.",
     "En una cazuela, lleva a ebullición la leche de coco con el agua, las alubias, la cebolleta en rodajas, el ajo machacado, el tomillo, la pimienta de Jamaica y sal.",
     "Añade el arroz y coloca encima el chile entero sin abrir. Así perfuma con su aroma afrutado sin soltar todo su picante; si se rompe, el plato picará muchísimo.",
     "Cuando vuelva a hervir, tapa y cuece a fuego mínimo 18 minutos, sin destapar. Apaga y deja reposar 5 minutos más.",
@@ -345,12 +344,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer el arroz jazmín lavado con 150 ml de agua y una pizca de sal, tapado a fuego mínimo, 12 minutos. Reposa 5 minutos.",
-    "Corta el tempeh en bastoncitos finos como cerillas gruesas. Cuanto más finos, más superficie crujiente y mejor absorben la salsa.",
+    "Mientras, corta el tempeh en bastoncitos finos como cerillas gruesas. Cuanto más finos, más superficie crujiente y mejor absorben la salsa. Lamina las chalotas, pica el ajo y el jengibre, corta los chiles en tiras y el pepino en bastones.",
     "Fríe el tempeh en la sartén con el aceite a fuego medio-alto 6-7 minutos, removiendo, hasta que esté dorado y crujiente. Sácalo sobre papel. Fríe los cacahuetes 1 minuto en el mismo aceite y sácalos.",
-    "Retira casi todo el aceite, deja 1 cucharada y sofríe las chalotas en láminas, el ajo, el jengibre y los chiles en tiras con el laurel 3 minutos, hasta que estén dorados.",
+    "Retira casi todo el aceite, deja 1 cucharada y sofríe las chalotas, el ajo, el jengibre y los chiles con el laurel 3 minutos, hasta que estén dorados.",
     "Añade la soja, el azúcar, el tamarindo y 2 cucharadas de agua y deja burbujear 1 minuto, hasta que se forme un jarabe espeso. Este jarabe imita el kecap manis, la soja dulce indonesia.",
     "Devuelve el tempeh y los cacahuetes y saltea a fuego fuerte 2 minutos, hasta que el glaseado se pegue y no quede líquido en el fondo.",
-    "Sirve con el arroz y el pepino en bastones aliñado con lima y sal, que refresca el dulzor y el picante."
+    "Sirve con el arroz y el pepino aliñado con lima y sal, que refresca el dulzor y el picante."
   ],
   nutricion: { kcal: 610, prot: 28, hc: 66, grasa: 27 },
   etiquetas: ["cocinas del mundo", "indonesia", "vegano", "alta en proteína", "sin lácteos", "picante", "ideal para llevar"],
@@ -387,9 +386,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las judías mungo remojadas y frótalas entre las manos bajo el agua: muchas pieles se sueltan y flotan. Retíralas; no hace falta quitarlas todas, pero cuantas menos, más clara y fina la masa.",
+    "Con 4 horas de antelación, pon las judías mungo en remojo en abundante agua fría. Pasado ese tiempo, escúrrelas y frótalas entre las manos bajo el agua: muchas pieles se sueltan y flotan. Retíralas; no hace falta quitarlas todas, pero cuantas menos, más clara y fina la masa.",
     "Tritura las judías con 120 ml de agua fría hasta tener una masa espesa y algo granulada, como unas gachas. No se cuecen antes: se cocinan directamente en la sartén.",
-    "Escalda los brotes de soja 30 segundos y escúrrelos apretando. Mezcla en un bol la masa con la harina de arroz, el kimchi, los brotes, la cebolleta en rodajas, el ajo rallado y sal.",
+    "Corta la cebolleta en rodajas y ralla el ajo. Escalda los brotes de soja 30 segundos y escúrrelos apretando. Mezcla en un bol la masa con la harina de arroz, el kimchi, los brotes, la cebolleta, el ajo y sal.",
     "Prepara la salsa mezclando la soja, el vinagre y el sésamo.",
     "Calienta 2 cucharadas de aceite en la sartén a fuego medio-alto. Pon cucharones de masa y aplánalos en tortitas de 10 cm y 1 cm de grosor. El aceite generoso es parte del plato: fríe los bordes y los deja crujientes.",
     "Cocina 3-4 minutos por lado, hasta que estén bien doradas, añadiendo el resto del aceite para la segunda tanda.",
@@ -432,12 +431,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño y pon un peso encima 10 minutos para que suelte agua: así se dora mejor y absorbe más salsa. Córtalo en lonchas de 1 cm.",
-    "Lava el arroz hasta que el agua salga casi clara y cuécelo con 180 ml de agua, tapado a fuego mínimo, 15 minutos. Reposa 5 minutos.",
-    "Mezcla la soja, el gochujang, el pimentón, el azúcar, 2 ajos rallados, la parte blanca de la cebolleta picada, la mitad del sésamo y 80 ml de agua.",
+    "Envuelve el tofu en un paño y pon un peso encima 10 minutos para que suelte agua: así se dora mejor y absorbe más salsa.",
+    "Mientras, lava el arroz hasta que el agua salga casi clara y cuécelo con 180 ml de agua, tapado a fuego mínimo, 15 minutos. Reposa 5 minutos.",
+    "Corta el tofu en lonchas de 1 cm. Ralla los ajos y pica la cebolleta, separando la parte blanca de la verde. Mezcla la soja, el gochujang, el pimentón, el azúcar, 2 de los ajos, la parte blanca de la cebolleta, la mitad del sésamo y 80 ml de agua.",
     "Dora las lonchas de tofu en la sartén con el aceite a fuego medio-alto 3 minutos por lado, hasta que estén doradas. No las muevas antes: se pegarían y se romperían.",
     "Vierte la salsa sobre el tofu, baja a fuego medio y cuece 6-8 minutos, dándole la vuelta y regándolo con la salsa con una cuchara, hasta que la salsa se reduzca a un glaseado brillante.",
-    "Mientras, escalda las espinacas 30 segundos, enfríalas en agua fría y escúrrelas apretando. Alíñalas con el aceite de sésamo, el último ajo rallado, sal y el resto del sésamo: es el namul de espinacas, un banchan clásico.",
+    "Mientras, escalda las espinacas 30 segundos, enfríalas en agua fría y escúrrelas apretando. Alíñalas con el aceite de sésamo, el último ajo, sal y el resto del sésamo: es el namul de espinacas, un banchan clásico.",
     "Sirve el tofu con su salsa sobre el arroz, la parte verde de la cebolleta por encima y las espinacas al lado."
   ],
   nutricion: { kcal: 600, prot: 33, hc: 60, grasa: 26 },
@@ -475,8 +474,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz jazmín lavado con 150 ml de agua, tapado a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
-    "Bate los huevos con una pizca de sal y 1 cucharada de agua hasta que estén espumosos: el agua se convierte en vapor al cocinarse y hace el revuelto más esponjoso.",
-    "Corta los tomates en gajos y la cebolleta en rodajas, separando la parte blanca de la verde. Disuelve la maicena en 3 cucharadas de agua.",
+    "Mientras, bate los huevos con una pizca de sal y 1 cucharada de agua hasta que estén espumosos: el agua se convierte en vapor al cocinarse y hace el revuelto más esponjoso.",
+    "Corta los tomates en gajos, pica el ajo y la cebolleta en rodajas, separando la parte blanca de la verde. Disuelve la maicena en 3 cucharadas de agua.",
     "Calienta 1 cucharada de aceite en el wok a fuego fuerte hasta que humee ligeramente y vierte el huevo. Déjalo 5 segundos, empuja los bordes hacia el centro y sácalo cuando esté cuajado en grandes nubes pero aún brillante. Se terminará de hacer después.",
     "En el mismo wok, con el resto del aceite, saltea la parte blanca de la cebolleta y el ajo 20 segundos. Añade el tomate y saltea 3 minutos, aplastando algunos gajos, hasta que suelten jugo pero conserven forma.",
     "Añade el azúcar, sal y la maicena disuelta y remueve 30 segundos, hasta que la salsa espese y brille. El azúcar no endulza el plato: equilibra la acidez del tomate.",
@@ -565,9 +564,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz jazmín lavado con 150 ml de agua, tapado a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
-    "Salsa: mezcla en un cazo el caldo, 1 cucharada de soja y la maicena disuelta en un poco de agua fría. Calienta removiendo hasta que hierva y espese, 2 minutos. Añade el aceite de sésamo fuera del fuego, porque su aroma se pierde con el calor.",
-    "Saltea las setas en láminas en la sartén con unas gotas de aceite a fuego fuerte 3 minutos, hasta que suelten el agua y se doren. Déjalas templar: si las añades calientes al huevo, lo cuajarían antes de tiempo.",
-    "Bate los huevos con la otra cucharada de soja y pimienta blanca. Añade los brotes, las setas, la zanahoria rallada fina y la cebolleta picada. La mezcla debe ser más verdura que huevo: el huevo solo une.",
+    "Mientras, prepara la salsa: mezcla en un cazo el caldo, 1 cucharada de soja y la maicena disuelta en un poco de agua fría. Calienta removiendo hasta que hierva y espese, 2 minutos. Añade el aceite de sésamo fuera del fuego, porque su aroma se pierde con el calor. Lamina las setas, ralla fina la zanahoria y pica la cebolleta.",
+    "Saltea las setas en la sartén con unas gotas de aceite a fuego fuerte 3 minutos, hasta que suelten el agua y se doren. Déjalas templar: si las añades calientes al huevo, lo cuajarían antes de tiempo.",
+    "Bate los huevos con la otra cucharada de soja y pimienta blanca. Añade los brotes, las setas, la zanahoria y la cebolleta. La mezcla debe ser más verdura que huevo: el huevo solo une.",
     "Calienta el resto del aceite en la sartén a fuego medio-alto. Vierte cucharones de mezcla formando tortillitas de 12 cm y cocina 2 minutos por lado, hasta que estén doradas y cuajadas.",
     "Sirve 2-3 tortillitas por persona sobre el arroz, napadas con la salsa caliente."
   ],
@@ -608,12 +607,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica el pollo a cuchillo muy fino (casi como carne picada) y mézclalo con 1 cucharadita de maicena, la soja y 1 cucharada de agua. Esta técnica china se llama 'velveting': la maicena protege la carne y la deja tierna y sedosa en el caldo.",
-    "Tritura la mitad del maíz con un poco de caldo hasta tener una crema: dará cuerpo a la sopa. El resto lo dejas en grano para el bocado.",
-    "Lleva el caldo a ebullición con el jengibre en láminas, el maíz triturado y el maíz en grano. Cuece 5 minutos.",
+    "Tritura la mitad del maíz con un poco de caldo hasta tener una crema: dará cuerpo a la sopa. El resto lo dejas en grano para el bocado. Corta el jengibre en láminas.",
+    "Lleva el caldo a ebullición con el jengibre, el maíz triturado y el maíz en grano. Cuece 5 minutos y, mientras, pica la cebolleta.",
     "Añade el pollo poco a poco, separándolo con un tenedor para que no se apelotone, y cuece 3 minutos, hasta que esté blanco.",
     "Disuelve el resto de la maicena en 3 cucharadas de agua fría y añádela removiendo; hierve 1 minuto hasta que la sopa espese ligeramente.",
     "Baja el fuego al mínimo. Bate los huevos y viértelos en hilo fino desde cierta altura mientras remueves la sopa despacio en círculos con un palillo. El huevo cuaja al instante formando hilos finos como pétalos; si remueves fuerte, se deshacen en grumos.",
-    "Apaga, retira el jengibre, ajusta de sal y pimienta blanca y sirve con la cebolleta picada y unas gotas de aceite de sésamo."
+    "Apaga, retira el jengibre, ajusta de sal y pimienta blanca y sirve con la cebolleta y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 385, prot: 36, hc: 35, grasa: 11 },
   etiquetas: ["cocinas del mundo", "china", "cantonesa", "de cuchara", "rápida", "ligera", "económica", "alta en proteína", "sin lácteos", "poco especiada"],
@@ -649,11 +648,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la wakame en un bol con agua fría 10 minutos: crecerá unas diez veces. Escúrrela, aclárala, apriétala para quitar el agua y córtala en trozos de 3-4 cm.",
-    "Cuece el arroz lavado con 150 ml de agua, tapado a fuego mínimo, 15 minutos; reposa tapado.",
+    "Hidrata la wakame en un bol con agua fría 10 minutos: crecerá unas diez veces. Mientras, lava el arroz y ponlo a cocer con 150 ml de agua, tapado a fuego mínimo, 15 minutos; luego deja que repose tapado. Machaca el ajo.",
+    "Escurre la wakame, aclárala, apriétala para quitar el agua y córtala en trozos de 3-4 cm.",
     "En la cazuela, calienta el aceite de sésamo a fuego medio y saltea la ternera 2 minutos, hasta que pierda el color rosado.",
     "Añade la wakame y saltéala con la carne 2 minutos más. Este paso, poco habitual en una sopa, es la clave del miyeok guk: el sésamo tuesta el alga y le da un sabor más profundo y menos 'a mar'.",
-    "Vierte el agua, la soja, la salsa de pescado y el ajo machacado. Lleva a ebullición y cuece a fuego medio-bajo 25 minutos, hasta que el caldo esté turbio y sabroso y la carne tierna.",
+    "Vierte el agua, la soja, la salsa de pescado y el ajo. Lleva a ebullición y cuece a fuego medio-bajo 25 minutos, hasta que el caldo esté turbio y sabroso y la carne tierna.",
     "Prueba y ajusta con sal (en Corea se usa una soja específica para sopas, más clara y salada).",
     "Sirve muy caliente con el arroz en un cuenco aparte; se come alternando cucharadas o echando el arroz dentro de la sopa."
   ],
@@ -696,12 +695,12 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Mete la carne 15 minutos en el congelador antes de cortarla: firme, se corta en tiras finísimas mucho más fácil. Córtala a contrapelo (perpendicular a las fibras) para que quede tierna.",
-    "Marina el cerdo con el gochujang, la soja, el azúcar, el ajo y el jengibre rallados y el aceite de sésamo, al menos 15 minutos.",
-    "Corta la col lombarda en juliana muy fina y alíñala con el zumo de media lima y una pizca de sal. Mezcla la mayonesa con la ralladura de la lima y el zumo de la otra media.",
+    "Mete la carne 15 minutos en el congelador antes de cortarla: firme, se corta en tiras finísimas mucho más fácil. Mientras, ralla el ajo y el jengibre. Córtala a contrapelo (perpendicular a las fibras) para que quede tierna.",
+    "Marina el cerdo con el gochujang, la soja, el azúcar, el ajo y el jengibre y el aceite de sésamo, al menos 15 minutos.",
+    "Mientras se marina, corta la col lombarda en juliana muy fina y alíñala con el zumo de media lima y una pizca de sal. Mezcla la mayonesa con la ralladura de la lima y el zumo de la otra media. Pica el kimchi y corta la cebolleta en rodajas.",
     "Calienta el aceite en la sartén a fuego muy fuerte y saltea el cerdo en dos tandas, 3-4 minutos cada una, sin removerlo demasiado, hasta que los bordes se caramelicen. Si la sartén se llena, la carne cuece en su jugo en lugar de dorarse.",
-    "En la misma sartén, saltea el kimchi picado 1 minuto para que se caliente y absorba los jugos de la carne.",
-    "Calienta las tortillas 20 segundos por lado. Monta los tacos con dos tortillas superpuestas (más resistentes): col, cerdo, kimchi, un hilo de mayonesa de lima, cebolleta en rodajas y sésamo."
+    "En la misma sartén, saltea el kimchi 1 minuto para que se caliente y absorba los jugos de la carne.",
+    "Calienta las tortillas 20 segundos por lado. Monta los tacos con dos tortillas superpuestas (más resistentes): col, cerdo, kimchi, un hilo de mayonesa de lima, cebolleta y sésamo."
   ],
   nutricion: { kcal: 775, prot: 37, hc: 61, grasa: 43 },
   etiquetas: ["cocinas del mundo", "fusión coreano-mexicana", "picante", "sin lácteos", "para compartir", "street food"],
@@ -740,12 +739,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el boniato pelado en rodajas gruesas en agua con sal 12 minutos, hasta que esté tierno. Enfríalo: en el ceviche peruano, el boniato dulce compensa la acidez.",
-    "Corta la cebolla morada en pluma finísima y déjala en agua con hielo 5 minutos: queda crujiente y menos picante.",
+    "Pela el boniato, córtalo en rodajas gruesas y cuécelo en agua con sal 12 minutos, hasta que esté tierno. Enfríalo: en el ceviche peruano, el boniato dulce compensa la acidez.",
+    "Mientras, corta la cebolla morada en pluma finísima y déjala en agua con hielo 5 minutos: queda crujiente y menos picante.",
     "Leche de tigre nikkei: exprime las limas (sin apretar en exceso, que la piel amarga) y mezcla el zumo con la soja, el jengibre rallado, el aceite de sésamo, unos tallos de cilantro picados y un trozo de chile. Cuélala y guárdala en la nevera.",
-    "Corta el salmón muy frío en dados de 2 cm con un cuchillo bien afilado, de un solo corte, para que no se deshilache.",
+    "Corta el salmón muy frío en dados de 2 cm con un cuchillo bien afilado, de un solo corte, para que no se deshilache. Corta el resto del chile en rodajas, pica el cilantro, corta el aguacate en dados y la cebolleta en rodajas.",
     "Justo antes de servir, mezcla el salmón con una pizca de sal y vierte la leche de tigre. Deja 2-3 minutos: el estilo nikkei lo prefiere casi crudo por dentro, solo 'cocido' por fuera por el ácido.",
-    "Añade la cebolla escurrida, el chile en rodajas y el cilantro. Sirve en platos hondos con el boniato, el aguacate en dados, el sésamo y la cebolleta por encima, y un poco de leche de tigre en cada plato."
+    "Añade la cebolla escurrida, el chile y el cilantro. Sirve en platos hondos con el boniato, el aguacate, el sésamo y la cebolleta por encima, y un poco de leche de tigre en cada plato."
   ],
   nutricion: { kcal: 465, prot: 30, hc: 28, grasa: 26 },
   etiquetas: ["cocinas del mundo", "nikkei", "fusión peruano-japonesa", "sin horno", "omega 3", "ligera", "verano", "para invitados", "superalimentos"],
@@ -786,13 +785,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en la cazuela a fuego fuerte y dora la carne picada 5 minutos, aplastándola y sin remover demasiado, hasta que esté bien tostada. Ese color es sabor: no te conformes con que esté gris.",
-    "Baja a fuego medio, añade la cebolla y el pimiento picados y cocina 7 minutos, hasta que estén blandos. Agrega el ajo y el comino 1 minuto.",
+    "Pica la cebolla, el pimiento y el ajo. Calienta el aceite en la cazuela a fuego fuerte y dora la carne picada 5 minutos, aplastándola y sin remover demasiado, hasta que esté bien tostada. Ese color es sabor: no te conformes con que esté gris.",
+    "Baja a fuego medio, añade la cebolla y el pimiento y cocina 7 minutos, hasta que estén blandos. Agrega el ajo y el comino 1 minuto.",
     "Incorpora el gochujang y remueve 1 minuto para que se tueste ligeramente. Hace el papel de los chiles secos del chili tradicional: aporta picor, dulzor y profundidad fermentada.",
     "Añade el tomate, la soja y 150 ml de agua y cuece 15 minutos a fuego suave.",
     "Agrega las alubias y cuece 15 minutos más, hasta que el chili espese. Aplasta unas cuantas alubias contra la pared de la cazuela para ligar la salsa.",
-    "Mientras, cuece el arroz lavado con 180 ml de agua, tapado a fuego mínimo, 12 minutos, y deja reposar.",
-    "Sirve el chili con el arroz, la cebolleta picada y el sésamo tostado por encima."
+    "Mientras, cuece el arroz lavado con 180 ml de agua, tapado a fuego mínimo, 12 minutos, y deja reposar. Pica la cebolleta.",
+    "Sirve el chili con el arroz, la cebolleta y el sésamo tostado por encima."
   ],
   nutricion: { kcal: 770, prot: 42, hc: 98, grasa: 23 },
   etiquetas: ["cocinas del mundo", "fusión coreano-americana", "picante", "sin lácteos", "batch cooking", "ideal para llevar", "invierno", "alta en proteína"],
@@ -837,11 +836,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 230 °C con la bandeja dentro: la base caliente hará que el naan quede crujiente por debajo, como en un horno de pizza.",
     "Marina el paneer con el yogur, 1 cucharadita de garam masala, el pimentón, la cúrcuma, el ajo y el jengibre rallados, el zumo de limón y sal. 10 minutos bastan: el paneer no absorbe tanto como la carne, la marinada actúa sobre todo como costra.",
-    "Mezcla el tomate frito con el resto del garam masala: es una 'makhani' exprés.",
+    "Mientras, mezcla el tomate frito con el resto del garam masala: es una 'makhani' exprés.",
     "Corta el pimiento y la cebolla en tiras finas y alíñalas con el aceite.",
     "Unta los naan con la salsa, reparte la mozzarella en trozos, el paneer con su marinada y las verduras.",
-    "Pasa los naan a la bandeja caliente y hornea 8-10 minutos, hasta que el queso burbujee y el paneer tenga puntas tostadas.",
-    "Sirve con el cilantro picado por encima, cortada en porciones."
+    "Pasa los naan a la bandeja caliente y hornea 8-10 minutos, hasta que el queso burbujee y el paneer tenga puntas tostadas. Mientras, pica el cilantro.",
+    "Sirve con el cilantro por encima, cortada en porciones."
   ],
   nutricion: { kcal: 710, prot: 33, hc: 59, grasa: 38 },
   etiquetas: ["cocinas del mundo", "fusión indo-italiana", "vegetariana", "al horno", "para niños", "rápida", "cena de viernes"],
@@ -884,9 +883,9 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Prensa el tofu entre papel de cocina con un peso encima 10 minutos y córtalo en bastones de 1,5 cm. Rebózalo en la maicena: la capa fina se tuesta en la sartén y después atrapa la salsa.",
-    "Teriyaki casera: mezcla la soja, el mirin, el azúcar moreno, el jengibre y el ajo rallados y 2 cucharadas de agua. Teriyaki significa 'brillo asado': la salsa debe reducirse sobre el ingrediente hasta glasearlo.",
+    "Prensa el tofu entre papel de cocina con un peso encima 10 minutos. Mientras, prepara la teriyaki casera: mezcla la soja, el mirin, el azúcar moreno, el jengibre y el ajo rallados y 2 cucharadas de agua. Teriyaki significa 'brillo asado': la salsa debe reducirse sobre el ingrediente hasta glasearlo.",
     "Salsa de mango: pica el mango, la cebolla morada y el chile en dados pequeños y alíñalos con el zumo de media lima, cilantro picado y una pizca de sal. Corta la col en juliana finísima y alíñala con el zumo de la otra media lima.",
+    "Corta el tofu en bastones de 1,5 cm y rebózalo en la maicena: la capa fina se tuesta en la sartén y después atrapa la salsa.",
     "Dora el tofu en la sartén con el aceite a fuego medio-alto 6-8 minutos, girándolo, hasta que esté crujiente por todos los lados.",
     "Vierte la teriyaki y mueve la sartén 1-2 minutos, hasta que la salsa se reduzca y cubra el tofu con una capa brillante y pegajosa. Apaga enseguida: el azúcar pasa de glaseado a quemado en segundos.",
     "Calienta las tortillas 20 segundos por lado. Monta con una base de col, el tofu, la salsa de mango, una línea de veganesa y sésamo por encima."
@@ -929,7 +928,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Marina el pollo con la soja, el jengibre y un ajo rallados 15 minutos. Los contramuslos, más jugosos que la pechuga, son la pieza clásica del karaage.",
-    "Aliño: mezcla el miso, la mayonesa, la mitad del parmesano rallado fino, el otro ajo rallado, el zumo de limón y 2 cucharadas de agua hasta que quede cremoso. El miso aporta la profundidad salada que en la César clásica dan las anchoas.",
+    "Mientras, prepara el aliño: mezcla el miso, la mayonesa, la mitad del parmesano rallado fino, el otro ajo rallado, el zumo de limón y 2 cucharadas de agua hasta que quede cremoso. El miso aporta la profundidad salada que en la César clásica dan las anchoas.",
     "Corta el pan en dados y tuéstalo en la sartén con 1 cucharada de aceite a fuego medio 4 minutos, hasta que esté dorado. Reserva los picatostes.",
     "Escurre el pollo y rebózalo en la maicena, apretando para que se adhiera y sacudiendo el exceso. Deja reposar 3 minutos: la maicena se humedece y forma una costra más crujiente y rugosa.",
     "Calienta el resto del aceite en la sartén a fuego medio-alto (que haga burbujas alrededor de un palillo) y fríe el pollo en una capa 3 minutos por lado. Sácalo, sube el fuego y vuelve a freírlo 1 minuto: la doble fritura es el truco japonés para un karaage muy crujiente.",
@@ -972,12 +971,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal (algo menos de lo habitual, porque la soja sala) y cuece los espaguetis 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua de cocción.",
-    "Limpia las setas con un paño, sin mojarlas, y córtalas en láminas o separa en ramilletes. Quita los pies duros de los shiitake.",
-    "Calienta el aceite en una sartén grande a fuego fuerte y saltea las setas en una capa 4-5 minutos, sin sal y sin remover al principio, hasta que estén doradas. La sal al principio les haría soltar agua y se cocerían en vez de dorarse.",
-    "Baja a fuego medio, añade la mitad de la mantequilla y el ajo laminado y remueve 1 minuto, hasta que el ajo esté dorado.",
+    "Pon a hervir abundante agua con sal (algo menos de lo habitual, porque la soja sala). Mientras, limpia las setas con un paño, sin mojarlas, y córtalas en láminas o separa en ramilletes; quita los pies duros de los shiitake. Lamina el ajo y corta la cebolleta en rodajas finas.",
+    "Cuece los espaguetis 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua de cocción.",
+    "Mientras se cuece la pasta, calienta el aceite en una sartén grande a fuego fuerte y saltea las setas en una capa 4-5 minutos, sin sal y sin remover al principio, hasta que estén doradas. La sal al principio les haría soltar agua y se cocerían en vez de dorarse.",
+    "Baja a fuego medio, añade la mitad de la mantequilla y el ajo y remueve 1 minuto, hasta que el ajo esté dorado.",
     "Añade la pasta escurrida, la soja, el mirin, el resto de la mantequilla y un chorrito del agua de cocción. Saltea 1-2 minutos, moviendo la sartén, hasta que la salsa emulsione y envuelva la pasta con brillo.",
-    "Sirve con la cebolleta en rodajas finas, la nori cortada en tiras con tijera y pimienta negra."
+    "Sirve con la cebolleta, la nori cortada en tiras con tijera y pimienta negra."
   ],
   nutricion: { kcal: 555, prot: 18, hc: 74, grasa: 21 },
   etiquetas: ["cocinas del mundo", "fusión japonés-italiana", "wafu", "vegetariana", "rápida", "una sola sartén", "poco especiada"],
@@ -1015,11 +1014,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Huevos de ramen: hiérvelos exactamente 6 minutos y medio y pásalos a agua con hielo. Pélalos con cuidado: tendrán la clara cuajada y la yema líquida y espesa.",
-    "En la cazuela, sofríe la cebolla y el ajo picados en el aceite 5 minutos, hasta que estén blandos.",
-    "Añade el tomate y cocina 5 minutos, hasta que se oscurezca un poco. Vierte el caldo y la soja y cuece 8 minutos. La soja aporta el umami del caldo de ramen y se entiende de maravilla con el tomate.",
-    "Aparta del fuego y añade el parmesano rallado removiendo hasta que se funda: espesa y redondea el caldo como el tare en un ramen japonés. Prueba de sal.",
-    "Cuece los fideos de ramen en otra cazuela con agua abundante, sin sal, 3 minutos (o lo que diga el paquete). Cuécelos aparte para que el almidón no enturbie y espese el caldo.",
+    "Huevos de ramen: hiérvelos exactamente 6 minutos y medio y pásalos a agua con hielo. Pélalos con cuidado: tendrán la clara cuajada y la yema líquida y espesa. Mientras se cuecen, pica la cebolla y el ajo.",
+    "En la cazuela, sofríe la cebolla y el ajo en el aceite 5 minutos, hasta que estén blandos.",
+    "Añade el tomate y cocina 5 minutos, hasta que se oscurezca un poco. Vierte el caldo y la soja y cuece 8 minutos; mientras, pon a hervir agua abundante en otra cazuela para los fideos y ralla el parmesano. La soja aporta el umami del caldo de ramen y se entiende de maravilla con el tomate.",
+    "Aparta del fuego y añade el parmesano removiendo hasta que se funda: espesa y redondea el caldo como el tare en un ramen japonés. Prueba de sal.",
+    "Cuece los fideos de ramen en esa agua, sin sal, 3 minutos (o lo que diga el paquete). Cuécelos aparte para que el almidón no enturbie y espese el caldo.",
     "Reparte los fideos escurridos en cuencos calientes, vierte el caldo hirviendo, pon la mozzarella en trozos (se fundirá con el calor), el huevo partido por la mitad, hojas de albahaca y pimienta negra."
   ],
   nutricion: { kcal: 635, prot: 31, hc: 69, grasa: 26 },
@@ -1061,12 +1060,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 200 ml de agua, tapado a fuego mínimo, 15 minutos; deja reposar tapado.",
-    "Forma dos hamburguesas de 2 cm de grosor sin amasar mucho la carne (si la trabajas en exceso, queda compacta y seca). Haz un hueco con el pulgar en el centro: así no se abomban al cocinarse. Sálalas por fuera justo antes de la sartén.",
+    "Mientras, lamina los champiñones, pica la cebolla y la cebolleta. Forma dos hamburguesas de 2 cm de grosor sin amasar mucho la carne (si la trabajas en exceso, queda compacta y seca). Haz un hueco con el pulgar en el centro: así no se abomban al cocinarse. Sálalas por fuera justo antes de la sartén.",
     "Cocínalas en la sartén con unas gotas de aceite a fuego medio-alto 4 minutos por lado. Sácalas y deja reposar en un plato.",
-    "Gravy: en la misma sartén, sin limpiarla, derrite la mantequilla y saltea los champiñones laminados y la cebolla picada 5 minutos, hasta que se doren. Espolvorea la harina y remueve 1 minuto.",
+    "Gravy: en la misma sartén, sin limpiarla, derrite la mantequilla y saltea los champiñones y la cebolla 5 minutos, hasta que se doren. Espolvorea la harina y remueve 1 minuto.",
     "Vierte el caldo poco a poco removiendo, añade la soja, la worcestershire y el jugo que hayan soltado las hamburguesas y cuece 3 minutos, hasta que la salsa nape la cuchara. Los restos tostados del fondo de la sartén son la base de sabor de la gravy.",
     "Fríe los huevos en otra sartén con el resto del aceite, con la yema líquida.",
-    "Monta en cuencos: arroz, hamburguesa, mucha gravy y el huevo frito encima. Termina con cebolleta picada y pimienta."
+    "Monta en cuencos: arroz, hamburguesa, mucha gravy y el huevo frito encima. Termina con la cebolleta y pimienta."
   ],
   nutricion: { kcal: 805, prot: 42, hc: 67, grasa: 41 },
   etiquetas: ["cocinas del mundo", "hawaiana", "fusión americano-japonesa", "saciante", "para niños", "de domingo", "poco especiada"],
@@ -1114,11 +1113,11 @@ window.RECETAS_SEED.push({
     "Abre los guajillos, quítales las semillas y tuéstalos en la sartén seca 20 segundos por lado, solo hasta que huelan (si se queman, amargan). Remójalos 10 minutos en agua caliente.",
     "Tuesta en la misma sartén los tomates, media cebolla y los ajos 6 minutos, hasta que tengan manchas negras. Tritúralos con los guajillos escurridos, el chipotle, el comino, el orégano, el vinagre y 200 ml del caldo hasta tener un adobo liso.",
     "Seca y sala la carrillada y dórala en la olla exprés con el aceite a fuego fuerte 2 minutos por lado. Dorar antes de presurizar es lo que da sabor a un guiso exprés: dentro de la olla no hay evaporación ni tostado.",
-    "Vierte el adobo, el resto del caldo, la canela, el clavo y el laurel. Cierra la olla y cuece 40 minutos desde que suba la válvula, a fuego medio-bajo.",
-    "Deja que la presión baje sola (10 minutos): si abres de golpe, la carne se contrae y queda más seca. Saca la carne, desmenúzala con dos tenedores y retira la canela, el clavo y el laurel.",
+    "Vierte el adobo, el resto del caldo, la canela, el clavo y el laurel. Cierra la olla y cuece 40 minutos desde que suba la válvula, a fuego medio-bajo. Mientras, pica fina la otra media cebolla, pica el cilantro y corta la lima en gajos.",
+    "Deja que la presión baje sola (10 minutos): si abres de golpe, la carne se contrae y queda más seca. Mientras, pon a hervir agua para los fideos. Saca la carne, desmenúzala con dos tenedores y retira la canela, el clavo y el laurel.",
     "Desgrasa el consomé recogiendo con un cazo la grasa roja de la superficie (resérvala) y prueba de sal.",
-    "Cuece los fideos de ramen aparte 3 minutos y escúrrelos. Opcional pero muy recomendable: dora la carne desmenuzada 2 minutos en la sartén con una cucharada de la grasa roja para que tenga bordes crujientes.",
-    "Sirve los fideos en cuencos, cubre con el consomé hirviendo y la carne, y termina con la otra media cebolla picada fina, cilantro y gajos de lima."
+    "Cuece los fideos de ramen en esa agua 3 minutos y escúrrelos. Opcional pero muy recomendable: dora la carne desmenuzada 2 minutos en la sartén con una cucharada de la grasa roja para que tenga bordes crujientes.",
+    "Sirve los fideos en cuencos, cubre con el consomé hirviendo y la carne, y termina con la cebolla picada, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 705, prot: 50, hc: 69, grasa: 25 },
   etiquetas: ["cocinas del mundo", "fusión mexicano-japonesa", "olla exprés", "picante", "sin lácteos", "invierno", "para invitados", "de domingo", "sin verduras"],

@@ -33,9 +33,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la chirivía, córtala en rodajas y cuécela en agua con sal 15 minutos, hasta que esté muy tierna.",
-    "Mientras, saca las vieiras de la nevera, sécalas a conciencia con papel de cocina y déjalas sobre papel seco. La humedad es lo que impide que se doren: sin costra, una vieira sabe a hervida.",
+    "Mientras, saca las vieiras de la nevera, sécalas a conciencia con papel de cocina y déjalas sobre papel seco. La humedad es lo que impide que se doren: sin costra, una vieira sabe a hervida. Ralla la piel de media naranja y exprime su zumo, pica las avellanas y el cebollino, y calienta la leche.",
     "Escurre la chirivía y tritúrala con la leche caliente y la mitad de la mantequilla hasta que quede muy fina. Sal y pimienta blanca. Tápala para que no haga piel.",
-    "Ralla la piel de media naranja y exprime su zumo. Pica las avellanas y el cebollino.",
     "Calienta una sartén de fondo grueso a fuego fuerte hasta que humee ligeramente, añade el aceite y coloca las vieiras saladas en el último momento, separadas entre sí. No las muevas en 90 segundos: así forman la costra.",
     "Dales la vuelta, añade el resto de la mantequilla y cocina 1 minuto más regándolas con la mantequilla espumosa. Deben quedar firmes por fuera y algo translúcidas en el centro. Sácalas.",
     "Fuera del fuego, vierte el zumo y la ralladura de naranja en la sartén y raspa el fondo: en 20 segundos tienes una salsa brillante con todo el sabor tostado.",
@@ -78,11 +77,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca la carne de la nevera 20 minutos antes: si está fría, por fuera se pasa antes de que el centro se temple.",
-    "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas.",
-    "Pela las chalotas y pártelas por la mitad. Dóralas en una sartén con 1 cucharadita de aceite a fuego medio 5 minutos, por la cara cortada. Añade el azúcar, 3 cucharadas de vino y tapa 4 minutos: se glasean y quedan tiernas por dentro. Sácalas.",
+    "Mientras, pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas.",
+    "Mientras se cuecen, pela las chalotas y pártelas por la mitad. Dóralas en una sartén con 1 cucharadita de aceite a fuego medio 5 minutos, por la cara cortada. Añade el azúcar, 3 cucharadas de vino y tapa 4 minutos: se glasean y quedan tiernas por dentro. Sácalas.",
     "Seca los medallones, salpimiéntalos y séllalos en la misma sartén muy caliente con 1 cucharadita de aceite 3 minutos por cada lado para un punto rosado. Déjalos reposar sobre una tabla tapados con papel de aluminio.",
-    "Con la sartén aún caliente, vierte el resto del vino y raspa el fondo tostado. Añade el caldo y el tomillo y reduce a fuego fuerte 5 minutos, hasta que quede un tercio.",
-    "Apaga, añade la mantequilla fría en dados y mueve la sartén hasta que se funda: la mantequilla fría liga la salsa y le da brillo. Devuelve las chalotas y el jugo que haya soltado la carne en reposo.",
+    "Con la sartén aún caliente, vierte el resto del vino y raspa el fondo tostado. Añade el caldo y el tomillo y reduce a fuego fuerte 5 minutos, hasta que quede un tercio. Mientras, corta la mantequilla fría en dados.",
+    "Apaga, añade la mantequilla fría y mueve la sartén hasta que se funda: la mantequilla fría liga la salsa y le da brillo. Devuelve las chalotas y el jugo que haya soltado la carne en reposo.",
     "Escurre las patatas y aplástalas con un tenedor con el resto del aceite, sal y pimienta.",
     "Sirve el puré, los medallones encima, las chalotas y la salsa alrededor, con escamas de sal sobre la carne."
   ],
@@ -121,11 +120,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Parte las patatas por la mitad y cuécelas en el microondas 6 minutos tapadas con 2 cucharadas de agua.",
-    "Haz cortes en rombo en la piel del magret sin llegar a la carne: así la grasa se funde y la piel queda crujiente sin abombarse. Salpimienta.",
-    "Ponlo con la piel hacia abajo en una sartén fría y enciende a fuego medio. Cocina 10-12 minutos sin moverlo, retirando la grasa que suelta con una cuchara a un cuenco. Empezar en frío funde la grasa poco a poco antes de que la piel se queme.",
+    "Mientras, haz cortes en rombo en la piel del magret sin llegar a la carne: así la grasa se funde y la piel queda crujiente sin abombarse. Salpimienta.",
+    "Ponlo con la piel hacia abajo en una sartén fría y enciende a fuego medio. Cocina 10-12 minutos sin moverlo, retirando la grasa que suelta con una cuchara a un cuenco. Empezar en frío funde la grasa poco a poco antes de que la piel se queme. Mientras, parte las endivias a lo largo.",
     "Dale la vuelta y cocina 3 minutos por el lado de la carne para un punto rosado. Déjalo reposar 5 minutos sobre una tabla, con la piel hacia arriba para que no se ablande.",
     "Mientras reposa, dora las patatas con 2 cucharadas de la grasa del pato y el romero a fuego medio-alto 6 minutos, hasta que estén crujientes. Sálalas.",
-    "Parte las endivias a lo largo y márcalas por la cara cortada en otra sartén con unas gotas de grasa de pato 3 minutos, hasta que estén doradas.",
+    "Marca las endivias por la cara cortada en otra sartén con unas gotas de grasa de pato 3 minutos, hasta que estén doradas.",
     "Para la salsa, retira la grasa de la sartén del pato, añade los frutos rojos, el balsámico y la miel y cocina 3 minutos aplastando un poco la fruta, hasta que espese.",
     "Corta el magret en lonchas de 1 cm y sírvelo con la salsa, las endivias, las patatas y escamas de sal sobre la piel."
   ],
@@ -165,8 +164,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas peladas y troceadas en agua con sal 15 minutos. Escúrrelas y aplástalas con la leche caliente, sal y pimienta blanca. Añade el cebollino picado y tapa.",
-    "Parte las uvas por la mitad. Pica muy fina la chalota.",
+    "Pela y trocea las patatas y cuécelas en agua con sal 15 minutos. Mientras, calienta la leche, parte las uvas por la mitad, pica muy fina la chalota y pica el cebollino. Escurre las patatas y aplástalas con la leche caliente, sal y pimienta blanca. Añade el cebollino y tapa.",
     "Seca la piel de la lubina con papel y haz 2 cortes superficiales: así no se encoge ni se curva en la sartén. Sala justo antes de cocinar.",
     "Calienta el aceite en una sartén antiadherente a fuego medio-alto y pon la lubina con la piel hacia abajo, presionando 10 segundos con la espátula. Cocina 3-4 minutos, hasta que la carne se vuelva blanca casi hasta arriba. Dale la vuelta, 1 minuto más, y sácala.",
     "En la misma sartén, a fuego medio, rehoga la chalota con la mitad de la mantequilla 2 minutos. Vierte el vino y reduce 2 minutos, hasta que quede la mitad: así se evapora el alcohol y se concentra la acidez.",
@@ -208,14 +206,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para la pasta. Pela los langostinos, reserva las cabezas y las cáscaras, y quítales el intestino con un palillo.",
+    "Pon a hervir abundante agua con sal para la pasta. Pela los langostinos, reserva las cabezas y las cáscaras, y quítales el intestino con un palillo. Lamina el ajo, parte los cherry por la mitad y pica el perejil.",
     "Calienta 2 cucharadas de aceite en una sartén grande a fuego fuerte y saltea las cabezas y cáscaras 3 minutos, aplastando las cabezas con una espátula para que suelten su jugo. El aceite se tiñe de rojo: ahí está el sabor.",
     "Añade el tomate concentrado, remueve 30 segundos y vierte el brandy. Deja que se evapore 1 minuto. Añade 150 ml de agua de la pasta, cuece 3 minutos y cuela apretando bien. Desecha las cáscaras.",
     "Cuece la pasta 2 minutos menos de lo que indica el paquete: terminará de hacerse en la salsa.",
-    "En la misma sartén limpia, dora el ajo laminado y la guindilla en el resto del aceite. Añade los cherry partidos y cocina 3 minutos, hasta que se ablanden.",
+    "Mientras se cuece, en la misma sartén limpia, dora el ajo y la guindilla en el resto del aceite. Añade los cherry y cocina 3 minutos, hasta que se ablanden.",
     "Vierte el caldo de cabezas, incorpora la pasta escurrida y saltea 2 minutos con un cucharón de agua de cocción, moviendo la sartén: el almidón emulsiona el aceite y la salsa se vuelve cremosa.",
     "Añade los langostinos salados en el último minuto y saltea hasta que se curven y estén rosados: así quedan jugosos.",
-    "Termina con perejil picado y ralladura de limón y sirve enseguida."
+    "Termina con el perejil y ralladura de limón y sirve enseguida."
   ],
   nutricion: { kcal: 600, prot: 32, hc: 64, grasa: 23 },
   etiquetas: ["para invitados", "sin lactosa", "elegante", "marisco", "verano"],
@@ -252,12 +250,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Parte el extremo leñoso de cada espárrago doblándolo: se rompe solo por donde empieza la parte tierna.",
+    "Parte el extremo leñoso de cada espárrago doblándolo: se rompe solo por donde empieza la parte tierna. Parte los cherry por la mitad.",
     "Tuesta los piñones en una sartén seca a fuego medio 2-3 minutos, moviéndolos, hasta que estén dorados. Sácalos enseguida a un plato: en la sartén caliente se siguen tostando y se queman en segundos.",
     "Prepara la vinagreta en un bote: ralladura y zumo de medio limón, la mostaza, 2 cucharadas de aceite, pimienta y una pizca de sal. Agita hasta que emulsione; la mostaza ayuda a que no se separe.",
     "Unta los espárragos con el resto del aceite y márcalos en la sartén muy caliente 4-5 minutos, girándolos, hasta que tengan rayas tostadas y sigan crujientes por dentro.",
     "Alíñalos en caliente con la mitad de la vinagreta: templados absorben mejor el aliño.",
-    "Monta en una fuente: rúcula y cherry partidos, los espárragos, el jamón en pliegues sueltos (no aplastado, para que se vea y no se cueza con el calor), las lascas de parmesano y los piñones.",
+    "Monta en una fuente: rúcula y cherry, los espárragos, el jamón en pliegues sueltos (no aplastado, para que se vea y no se cueza con el calor), las lascas de parmesano y los piñones.",
     "Riega con el resto de la vinagreta, unas escamas de sal y ralladura de limón por encima."
   ],
   nutricion: { kcal: 470, prot: 22, hc: 10, grasa: 38 },
@@ -295,7 +293,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las navajas de pie, con la abertura hacia abajo, en un vaso alto con agua fría y un puñado de sal gruesa durante al menos 30 minutos (puedes hacerlo antes de empezar). Así sueltan la arena que llevan dentro.",
-    "Prepara el aliño: pica muy finos el ajo y el perejil y mézclalos con 2 cucharadas de aceite y el zumo de medio limón. Déjalo reposar mientras haces lo demás para que el ajo pierda agresividad.",
+    "Mientras, prepara el aliño: pica muy finos el ajo y el perejil y mézclalos con 2 cucharadas de aceite y el zumo de medio limón. Déjalo reposar mientras haces lo demás para que el ajo pierda agresividad.",
     "Corta los tomates en gajos y la cebolleta en aros finos, y alíñalos con sal y el resto del aceite.",
     "Escurre las navajas, enjuágalas bajo el grifo y sécalas.",
     "Calienta la plancha o una sartén grande a fuego fuerte hasta que humee. Coloca las navajas en una sola capa: se abren solas en 1 minuto. En cuanto se abran, dales la vuelta para que la carne toque la plancha 30 segundos más. Más tiempo las vuelve gomosas.",
@@ -338,11 +336,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia los mejillones bajo el grifo: arranca las barbas tirando hacia la parte estrecha y raspa la concha con un cuchillo. Desecha los que estén abiertos y no se cierren al golpearlos.",
-    "Pica finas las chalotas y el ajo y rehógalos en una cazuela grande y ancha con la mantequilla a fuego medio 3 minutos, hasta que estén blandos sin tomar color.",
+    "Pica el perejil y pica finas las chalotas y el ajo y rehógalos en una cazuela grande y ancha con la mantequilla a fuego medio 3 minutos, hasta que estén blandos sin tomar color.",
     "Sube el fuego al máximo, añade el vino y el estragón y deja hervir 1 minuto para que se evapore el alcohol.",
-    "Echa los mejillones, tapa y cuece 3-4 minutos, sacudiendo la cazuela un par de veces, hasta que se abran. No añadas sal: los mejillones sueltan su agua de mar.",
+    "Echa los mejillones, tapa y cuece 3-4 minutos, sacudiendo la cazuela un par de veces, hasta que se abran. No añadas sal: los mejillones sueltan su agua de mar. Mientras, tuesta el pan.",
     "Sácalos con una espumadera a una fuente honda y desecha los que no se hayan abierto.",
-    "Añade la nata al caldo, hierve 2 minutos para que espese un poco, pimienta y perejil picado. Prueba antes de corregir de sal.",
+    "Añade la nata al caldo, hierve 2 minutos para que espese un poco, pimienta y el perejil. Prueba antes de corregir de sal.",
     "Vierte la salsa sobre los mejillones y sirve enseguida con el pan tostado para mojar."
   ],
   nutricion: { kcal: 415, prot: 26, hc: 38, grasa: 16 },
@@ -381,7 +379,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta las patatas por la mitad y cuécelas en el microondas 7 minutos tapadas con 2 cucharadas de agua, hasta que estén casi tiernas.",
     "Pela las manzanas, quítales el corazón y córtalas en dados. Ponlas en un cazo con la sidra y la mantequilla y cuece a fuego medio 10 minutos, hasta que se deshagan. Aplástalas con un tenedor: debe quedar una compota con trozos.",
-    "Saca el secreto de la nevera, sécalo y córtalo en 2 o 3 piezas. Sálalo justo antes de cocinarlo.",
+    "Mientras se hace la compota, saca el secreto de la nevera, sécalo y córtalo en 2 o 3 piezas. Sálalo justo antes de cocinarlo.",
     "Dora las patatas por la cara cortada en una sartén con el aceite y el romero a fuego medio-alto 6-8 minutos, hasta que estén crujientes. Sácalas y sálalas.",
     "En la misma sartén, a fuego fuerte y sin añadir grasa (el secreto lleva la suya), marca la carne 3 minutos por lado. Debe quedar dorada por fuera y rosada en el centro: el ibérico se puede comer al punto.",
     "Déjalo reposar 3 minutos sobre una tabla y córtalo en tiras al bies, contra la fibra, para que quede tierno.",
@@ -424,7 +422,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz jazmín hasta que el agua salga clara y cuécelo con 150 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos. Deja reposar 5 minutos sin destapar.",
-    "Seca los langostinos y mézclalos con la maicena y una pizca de sal. Esa fina capa los protege del calor fuerte: quedan tersos y jugosos y además espesa la salsa.",
+    "Mientras, seca los langostinos y mézclalos con la maicena y una pizca de sal. Esa fina capa los protege del calor fuerte: quedan tersos y jugosos y además espesa la salsa.",
     "Corta los espárragos en tramos de 4 cm al bies, el jengibre y el ajo en láminas finas y la cebolleta en tramos, separando lo blanco de lo verde.",
     "Mezcla en un vaso la salsa de ostras, la soja, el aceite de sésamo y 3 cucharadas de agua.",
     "Calienta el wok a fuego máximo hasta que humee, añade el aceite y saltea los langostinos 1 minuto por lado, hasta que estén casi rosados. Sácalos.",
@@ -466,11 +464,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal. Corta la berenjena en dados de 1,5 cm, sálala y déjala 10 minutos en un colador: la sal le saca agua y luego se dora en lugar de empaparse de aceite. Sécala con papel.",
+    "Pon a hervir abundante agua con sal. Corta la berenjena en dados de 1,5 cm, sálala y déjala 10 minutos en un colador: la sal le saca agua y luego se dora en lugar de empaparse de aceite. Mientras, lamina el ajo y parte los cherry por la mitad. Pasado ese tiempo, seca la berenjena con papel.",
     "Dora la berenjena en una sartén grande con 1 cucharada de aceite a fuego medio-alto 8 minutos, hasta que esté tostada por fuera y cremosa por dentro. Sácala.",
     "Cuece la pasta 1 minuto menos de lo que indique el paquete.",
-    "En la misma sartén, a fuego fuerte, dora los dados de pez espada salados con un poco de aceite 2 minutos, solo para sellarlos: terminarán en la salsa. Sácalos.",
-    "Añade el resto del aceite, el ajo laminado y la guindilla, y a los 30 segundos los cherry partidos y las alcaparras. Cocina 4 minutos aplastando algunos tomates, hasta que formen una salsa.",
+    "Mientras, en la misma sartén, a fuego fuerte, dora los dados de pez espada salados con un poco de aceite 2 minutos, solo para sellarlos: terminarán en la salsa. Sácalos.",
+    "Añade el resto del aceite, el ajo y la guindilla, y a los 30 segundos los cherry y las alcaparras. Cocina 4 minutos aplastando algunos tomates, hasta que formen una salsa.",
     "Incorpora la pasta escurrida con un cucharón de agua de cocción, la berenjena y el pez espada, y saltea 1-2 minutos moviendo la sartén, hasta que la salsa se adhiera.",
     "Apaga, añade la menta en hojas rotas con la mano y la ralladura de limón, y sirve."
   ],
@@ -511,13 +509,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece la patata pelada y troceada en agua con sal 15 minutos. Escúrrela y tritúrala con la leche caliente y la mantequilla hasta tener una crema fina y fluida. Salpimienta y tapa.",
-    "Saltea las setas troceadas en una sartén muy caliente con el aceite 4 minutos, sin removerlas al principio, hasta que estén doradas. Añade el ajo picado al final, 30 segundos, y sálalas.",
+    "Pela y trocea la patata y cuécela en agua con sal 15 minutos. Mientras, trocea las setas, pica el ajo y el cebollino y calienta la leche. Escurre la patata y tritúrala con la leche caliente y la mantequilla hasta tener una crema fina y fluida. Salpimienta y tapa.",
+    "Saltea las setas en una sartén muy caliente con el aceite 4 minutos, sin removerlas al principio, hasta que estén doradas. Añade el ajo al final, 30 segundos, y sálalas.",
     "Pon a calentar un cazo con 8 cm de agua y el vinagre hasta que tenga burbujas pequeñas en el fondo, sin hervir a borbotones: el hervor fuerte deshilacha la clara.",
     "Casca cada huevo en un colador fino y deja escurrir 10 segundos la parte más líquida de la clara: así el poché queda redondo y sin hilos.",
     "Pásalo a una taza, haz un remolino suave en el agua con una cuchara y desliza el huevo en el centro. Cuécelo 3 minutos, hasta que la clara esté cuajada y la yema tiemble. Haz los huevos de dos en dos.",
     "Sácalos con una espumadera y apóyalos sobre papel de cocina para que escurran.",
-    "Sirve una base de crema de patata, las setas, dos huevos poché encima, unas gotas de aceite de trufa, cebollino picado, escamas de sal y pimienta."
+    "Sirve una base de crema de patata, las setas, dos huevos poché encima, unas gotas de aceite de trufa, el cebollino, escamas de sal y pimienta."
   ],
   nutricion: { kcal: 465, prot: 20, hc: 32, grasa: 28 },
   etiquetas: ["para invitados", "vegetariana", "sin gluten", "elegante", "otoño", "entrante", "poco especiada"],
@@ -556,11 +554,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Corta las cebollas en juliana fina.",
     "Ponlas en una sartén ancha con el aceite y una pizca de sal a fuego medio-alto 5 minutos, removiendo. Añade el azúcar y baja a fuego medio 10 minutos más, añadiendo un chorrito de agua cada vez que se peguen. La sal les hace soltar agua y el azúcar acelera el dorado: es la forma rápida de caramelizar.",
-    "Añade el balsámico y las hojas de tomillo, remueve 1 minuto y deja templar.",
+    "Añade el balsámico y las hojas de tomillo, remueve 1 minuto y deja templar. Mientras, lamina muy fina la manzana, desmenuza el queso azul y trocea las nueces.",
     "Extiende el hojaldre sobre papel de horno en una bandeja. Marca un borde de 1,5 cm con la punta de un cuchillo sin llegar a cortar y pincha el centro con un tenedor: el centro no subirá y el borde sí, como un marco.",
-    "Reparte la cebolla dentro del marco, la manzana en láminas muy finas y el queso azul desmenuzado.",
+    "Reparte la cebolla dentro del marco, la manzana y el queso azul.",
     "Hornea 15 minutos, hasta que el borde esté inflado y dorado y la base crujiente.",
-    "Sirve recién salida con la rúcula y las nueces troceadas por encima."
+    "Sirve recién salida con la rúcula y las nueces por encima."
   ],
   nutricion: { kcal: 730, prot: 16, hc: 62, grasa: 46 },
   etiquetas: ["para invitados", "vegetariana", "al horno", "otoño", "para picar", "poco especiada"],
@@ -600,7 +598,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en papel de cocina y pon un peso encima 10 minutos (un cazo con agua): al soltar agua se dora mejor y absorbe el glaseado. Mientras, cuece el arroz con 100 ml de agua tapado a fuego mínimo 12 minutos.",
-    "Prepara el glaseado (tare) en un cazo con la soja, el mirin, el azúcar y el jengibre rallado. Hierve 3 minutos, hasta que espese y cubra la cuchara.",
+    "Ralla el jengibre y prepara el glaseado (tare) en un cazo con la soja, el mirin, el azúcar y el jengibre. Hierve 3 minutos, hasta que espese y cubra la cuchara.",
     "Lamina el pepino fino y alíñalo con el vinagre de arroz, una pizca de sal y la mitad del sésamo.",
     "Corta el tofu en dados de 3 cm, las shiitake por la mitad (sin el pie, que es duro) y la cebolleta en tramos de 3 cm. Ensártalos alternando en brochetas.",
     "Dóralas en una sartén grande con el aceite a fuego medio-alto 6-8 minutos, girándolas, hasta que estén tostadas por todos los lados.",
@@ -646,11 +644,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el edamame 3 minutos en agua con sal y enfríalo en agua fría para que conserve el color verde.",
     "Escalda los tomates 15 segundos en agua hirviendo y pásalos a agua con hielo: la piel saldrá sola. Quítales las semillas y el agua (resérvala) y córtalos en dados de 5 mm. Sin el agua, el tartar no se encharca.",
-    "Pica la chalota muy fina y las alcaparras.",
+    "Pica la chalota muy fina, las alcaparras y el cebollino.",
     "Prepara el aliño con la soja, el zumo de media lima, el aceite de sésamo, el de oliva y 1 cucharada del agua de los tomates.",
-    "Corta el aguacate en dados del mismo tamaño que el tomate y riégalo con el zumo de la otra media lima para que no se oxide.",
+    "Corta el aguacate en dados del mismo tamaño que el tomate y riégalo con el zumo de la otra media lima para que no se oxide. Tuesta el pan.",
     "Mezcla con suavidad el tomate, la chalota, las alcaparras, el edamame y el aliño. Añade el aguacate al final para no aplastarlo.",
-    "Monta en el plato con un aro presionando ligeramente, retira el aro y termina con sésamo, cebollino picado y escamas de sal. Sirve con el pan tostado."
+    "Monta en el plato con un aro presionando ligeramente, retira el aro y termina con sésamo, el cebollino y escamas de sal. Sirve con el pan tostado."
   ],
   nutricion: { kcal: 465, prot: 14, hc: 46, grasa: 25 },
   etiquetas: ["para invitados", "vegana", "ligera", "sin cocción", "verano", "entrante", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -689,13 +687,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla en un bol el ajo rallado, el comino, el orégano, el vinagre, la mitad de la pasta de ají, 1 cucharada de aceite y sal. Añade la carne y deja marinar 15 minutos mientras preparas el resto. El vinagre ablanda la superficie y el comino es la firma del anticucho.",
+    "Ralla el ajo y mézclalo en un bol con el comino, el orégano, el vinagre, la mitad de la pasta de ají, 1 cucharada de aceite y sal. Añade la carne y deja marinar 15 minutos mientras preparas el resto. El vinagre ablanda la superficie y el comino es la firma del anticucho.",
     "Parte las patatas por la mitad y cuécelas en el microondas 7 minutos tapadas con 2 cucharadas de agua.",
-    "Prepara la salsa mezclando la mayonesa con el resto de la pasta de ají, el zumo de media lima y cilantro picado.",
+    "Pica el cilantro y corta la otra media lima en gajos. Prepara la salsa mezclando la mayonesa con el resto de la pasta de ají, el zumo de media lima y parte del cilantro.",
     "Ensarta la carne en brochetas, 4 o 5 dados por brocheta, sin apretarlos para que el calor llegue a todos los lados.",
     "Calienta la plancha a fuego fuerte y dora las patatas por la cara cortada con el resto del aceite 6 minutos. Apártalas a un lado y saltea el maíz 2 minutos, hasta que tenga puntos tostados.",
     "Marca las brochetas 2 minutos por cada lado, pintándolas con el adobo sobrante, hasta que estén tostadas por fuera y jugosas por dentro.",
-    "Sirve los anticuchos sobre las patatas y el maíz, con la salsa de ají, gajos de lima y cilantro."
+    "Sirve los anticuchos sobre las patatas y el maíz, con la salsa de ají, los gajos de lima y el resto del cilantro."
   ],
   nutricion: { kcal: 710, prot: 44, hc: 48, grasa: 38 },
   etiquetas: ["para invitados", "sin gluten", "picante suave", "brochetas", "verano", "alta en proteína"],
@@ -734,8 +732,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hierve 80 ml de agua con una pizca de sal, viértela sobre el cuscús, tapa y deja 5 minutos. Esponja con un tenedor y mezcla con el perejil y la menta picados, la ralladura del limón y 1 cucharadita de aceite.",
-    "Para el tarator, mezcla el tahini con el ajo rallado, el zumo de medio limón y una pizca de sal. Se pondrá espeso y como cortado: es normal. Añade agua fría a cucharadas batiendo, hasta que quede cremoso y fluido como un yogur líquido.",
+    "Hierve 80 ml de agua con una pizca de sal, viértela sobre el cuscús, tapa y deja 5 minutos; mientras, pica el perejil y la menta. Esponja con un tenedor y mezcla con el perejil y la menta, la ralladura del limón y 1 cucharadita de aceite.",
+    "Para el tarator, ralla el ajo y mézclalo con el tahini, el zumo de medio limón y una pizca de sal. Se pondrá espeso y como cortado: es normal. Añade agua fría a cucharadas batiendo, hasta que quede cremoso y fluido como un yogur líquido.",
     "Desgrana la granada golpeando la media fruta boca abajo con una cuchara de madera sobre un bol. Pica los pistachos.",
     "Seca el salmón, sálalo y espolvorea la carne con el comino.",
     "Ponlo con la piel hacia abajo en una sartén con el resto del aceite a fuego medio-alto y cocina 5 minutos sin moverlo, hasta que la piel esté crujiente y el color opaco suba dos tercios. Dale la vuelta 1 minuto: el centro debe quedar ligeramente rosado.",
@@ -774,9 +772,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el aceite en un cazo pequeño con los ajos chafados y la guindilla y caliéntalo a fuego muy suave hasta unos 65-70 °C (meter el dedo un instante debe ser posible pero molesto). A esa temperatura el bacalao se cocina sin endurecerse y se separa en lascas.",
-    "Mientras, pocha la cebolla picada en una sartén con 1 cucharada del aceite 6 minutos. Añade los piquillos con su jugo y cocina 3 minutos.",
+    "Mientras, pica la cebolla y póchala en una sartén con 1 cucharada del aceite 6 minutos. Añade los piquillos con su jugo y cocina 3 minutos.",
     "Tritura los piquillos con 2 cucharadas de agua hasta tener una salsa fina. Prueba de sal y mantenla caliente.",
-    "Seca bien el bacalao, sumérgelo en el aceite con la piel hacia arriba y confítalo 8-10 minutos sin que el aceite borbotee, hasta que las lascas se separen al presionar con el dedo.",
+    "Seca bien el bacalao, sumérgelo en el aceite con la piel hacia arriba y confítalo 8-10 minutos sin que el aceite borbotee, hasta que las lascas se separen al presionar con el dedo. Mientras, pon a hervir agua en un cazo y prepara un bol con agua y hielo.",
     "Escalda el perejil 10 segundos en agua hirviendo, enfríalo en agua con hielo, escúrrelo y tritúralo con 4 cucharadas del aceite del confitado. El escaldado fija el verde y evita que se oscurezca.",
     "Saca el bacalao con una espumadera y quítale la piel con cuidado.",
     "Sirve una base de salsa de piquillos, el bacalao encima y unos puntos de aceite de perejil alrededor."
@@ -818,12 +816,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas con piel, pártelas por la mitad y cuécelas en el microondas 7 minutos tapadas con 2 cucharadas de agua, hasta que estén tiernas.",
-    "Tuesta el azafrán 10 segundos en una cuchara sobre el fuego, machácalo y disuélvelo en el caldo caliente. Tostarlo libera su color y aroma.",
+    "Mientras, calienta el caldo, tuesta el azafrán 10 segundos en una cuchara sobre el fuego, machácalo y disuélvelo en el caldo. Tostarlo libera su color y aroma. Lamina el ajo, corta los espárragos en tramos y pica el perejil.",
     "Sala el rape, pásalo ligeramente por la harina y sacude el exceso. Dóralo en la cazuela con 2 cucharadas de aceite a fuego medio-alto 1 minuto por cada lado y sácalo: terminará de hacerse en la salsa. La harina que queda en el fondo ayudará a ligarla.",
-    "En la misma cazuela, dora el ajo laminado 30 segundos, añade el vino y deja reducir 1 minuto.",
+    "En la misma cazuela, dora el ajo 30 segundos, añade el vino y deja reducir 1 minuto.",
     "Vierte el caldo con el azafrán y la nata y cuece 3 minutos, hasta que la salsa empiece a espesar.",
-    "Devuelve el rape y añade los espárragos en tramos y las patatas. Cocina 4-5 minutos a fuego suave, moviendo la cazuela en vaivén en lugar de remover, para que la salsa se ligue sin romper el pescado.",
-    "Prueba de sal, espolvorea perejil picado y sirve en la misma cazuela."
+    "Devuelve el rape y añade los espárragos y las patatas. Cocina 4-5 minutos a fuego suave, moviendo la cazuela en vaivén en lugar de remover, para que la salsa se ligue sin romper el pescado.",
+    "Prueba de sal, espolvorea el perejil y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 550, prot: 36, hc: 40, grasa: 26 },
   etiquetas: ["para invitados", "una sola olla", "primavera", "tradicional", "alta en proteína", "poco especiada"],
@@ -860,8 +858,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta 2 cucharadas de aceite en una sartén a fuego medio con el ajo laminado, la guindilla y las anchoas. Aplasta las anchoas con la cuchara: en 1 minuto se deshacen y aportan sabor salado y profundo sin que se note a pescado.",
-    "Añade los cherry partidos por la mitad, las aceitunas y las alcaparras. Cocina 8 minutos a fuego medio-alto, aplastando algunos tomates, hasta que formen una salsa con trozos. No añadas sal: anchoas, aceitunas y alcaparras ya salan.",
+    "Lamina el ajo y parte los cherry por la mitad. Calienta 2 cucharadas de aceite en una sartén a fuego medio con el ajo, la guindilla y las anchoas. Aplasta las anchoas con la cuchara: en 1 minuto se deshacen y aportan sabor salado y profundo sin que se note a pescado.",
+    "Añade los cherry, las aceitunas y las alcaparras. Cocina 8 minutos a fuego medio-alto, aplastando algunos tomates, hasta que formen una salsa con trozos. No añadas sal: anchoas, aceitunas y alcaparras ya salan.",
     "Mientras, corta el pan en rebanadas, rocíalas con unas gotas de aceite y tuéstalas en otra sartén o en el horno.",
     "Seca la piel de la corvina y haz 2 cortes superficiales. Sala ligeramente.",
     "Cocínala con el resto del aceite en una sartén antiadherente a fuego medio-alto, con la piel hacia abajo, 4 minutos presionando al principio, y 1-2 minutos por el otro lado, hasta que se separe en lascas.",
@@ -905,13 +903,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta. Seca los muslos, salpimiéntalos y dóralos en una sartén con el aceite a fuego medio-alto con la piel (o el lado liso) hacia abajo 5 minutos sin moverlos, hasta que estén muy dorados. Dales la vuelta 3 minutos y sácalos.",
+    "Pon a hervir agua con sal para la pasta. Seca los muslos, salpimiéntalos y dóralos en una sartén con el aceite a fuego medio-alto con la piel (o el lado liso) hacia abajo 5 minutos sin moverlos, hasta que estén muy dorados. Mientras se doran, pica la chalota, el ajo y el perejil. Dales la vuelta 3 minutos y sácalos.",
     "En la misma sartén, con la grasa del pollo, saltea los champiñones a fuego fuerte 4 minutos, hasta que se doren. La grasa que ha soltado el pollo les da más sabor que cualquier aceite.",
-    "Añade la mantequilla, la chalota y el ajo picados y rehoga 2 minutos.",
+    "Añade la mantequilla, la chalota y el ajo y rehoga 2 minutos.",
     "Vierte el vino y raspa el fondo de la sartén con una cuchara de madera: ese tostado pegado es la base de sabor de la salsa. Reduce 2 minutos.",
     "Incorpora la nata, la mostaza y el estragón, devuelve el pollo con sus jugos y cuece a fuego suave 6-8 minutos, hasta que el pollo esté hecho por dentro y la salsa nape la cuchara.",
     "Mientras, cuece los tagliatelle según el paquete y escúrrelos reservando un poco de agua.",
-    "Corta el pollo en tiras gruesas, mezcla la pasta con la mitad de la salsa (aclara con agua de cocción si hace falta) y sirve el pollo encima con el resto de la salsa y perejil picado."
+    "Corta el pollo en tiras gruesas, mezcla la pasta con la mitad de la salsa (aclara con agua de cocción si hace falta) y sirve el pollo encima con el resto de la salsa y el perejil."
   ],
   nutricion: { kcal: 755, prot: 44, hc: 62, grasa: 36 },
   etiquetas: ["para invitados", "reconfortante", "clásico francés", "tupper", "una sola sartén", "poco especiada"],
@@ -951,12 +949,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 200 ml de agua, una pizca de sal y las vainas de cardamomo abiertas, tapado y a fuego mínimo 12 minutos. Reposa 5 minutos sin destapar.",
-    "Pon los anacardos en remojo con 100 ml de agua caliente: ablandados se trituran en una crema fina que espesa la salsa sin nata.",
+    "Pon los anacardos en remojo con 100 ml de agua caliente: ablandados se trituran en una crema fina que espesa la salsa sin nata. Mientras, pica la cebolla, ralla el ajo y el jengibre y pica el cilantro.",
     "Sala el cordero y dóralo en una sartén con el aceite a fuego fuerte 2 minutos, en una sola capa, sin moverlo al principio. Sácalo: las tiras finas se endurecen si se cocinan de más.",
-    "En la misma sartén, a fuego medio, pocha la cebolla picada 6 minutos. Añade el ajo y el jengibre rallados, el garam masala y la cúrcuma y remueve 1 minuto para tostar las especias.",
+    "En la misma sartén, a fuego medio, pocha la cebolla 6 minutos. Añade el ajo y el jengibre, el garam masala y la cúrcuma y remueve 1 minuto para tostar las especias.",
     "Tritura los anacardos con su agua y añádelos a la sartén. Cuece 3 minutos.",
     "Baja el fuego al mínimo e incorpora el yogur poco a poco, removiendo: a fuego fuerte el yogur se corta. Añade agua si queda muy espesa y prueba de sal.",
-    "Devuelve el cordero con sus jugos y calienta 2 minutos sin que hierva. Sirve con el arroz y cilantro picado."
+    "Devuelve el cordero con sus jugos y calienta 2 minutos sin que hierva. Sirve con el arroz y el cilantro."
   ],
   nutricion: { kcal: 625, prot: 38, hc: 56, grasa: 27 },
   etiquetas: ["para invitados", "sin gluten", "especiado", "tupper", "invierno", "sin verduras"],
@@ -996,8 +994,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Deshaz la pasta de achiote en el zumo de naranja con el ajo rallado, el comino, el orégano y sal. Mezcla con el solomillo y deja marinar 15 minutos. El ácido de la naranja ayuda a que el adobo penetre.",
-    "Pica la cebolla morada fina y cúbrela con el zumo de una lima y una pizca de sal: en 10 minutos se encurte, pierde el picor y se vuelve rosa.",
+    "Ralla el ajo. Deshaz la pasta de achiote en el zumo de naranja con el ajo, el comino, el orégano y sal. Mezcla con el solomillo y deja marinar 15 minutos. El ácido de la naranja ayuda a que el adobo penetre.",
+    "Mientras marina, pica la cebolla morada fina y cúbrela con el zumo de una lima y una pizca de sal: en 10 minutos se encurte, pierde el picor y se vuelve rosa.",
     "Tritura la mitad del cilantro con el chile, el zumo de la otra lima, 2 cucharadas de agua y sal hasta tener una salsa verde fluida.",
     "Ensarta la carne alternando con los dados de piña en las brochetas.",
     "Calienta la plancha a fuego fuerte, úntala con el aceite y marca las brochetas 8-10 minutos, girándolas cada 2 minutos, hasta que la carne esté tostada y la piña caramelizada. El solomillo debe quedar jugoso, ligeramente rosado en el centro.",
@@ -1039,13 +1037,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite con el romero y un ajo chafado en un cazo pequeño a fuego muy suave 5 minutos, sin que frían. Apaga y deja infusionar: es un aceite aromático rápido para terminar el plato.",
+    "Calienta el aceite con el romero y un ajo chafado en un cazo pequeño a fuego muy suave 5 minutos, sin que frían. Apaga y deja infusionar: es un aceite aromático rápido para terminar el plato. Mientras, lamina el otro ajo, corta los piquillos en tiras y pica el perejil.",
     "Enjuaga las alubias en un colador con agua fría: así pierden el líquido de conserva, que sabe a metal y espesa demasiado.",
-    "Pon en una cazuela 1 cucharada del aceite de romero con el otro ajo laminado, dóralo 30 segundos y añade los piquillos en tiras. Rehoga 2 minutos.",
+    "Pon en una cazuela 1 cucharada del aceite de romero con el otro ajo, dóralo 30 segundos y añade los piquillos. Rehoga 2 minutos.",
     "Incorpora las alubias y el caldo y cuece a fuego suave 5 minutos. Aplasta unas pocas alubias con la cuchara para que el caldo engorde. Añade el vinagre y prueba de sal.",
-    "Seca la presa y márcala en una sartén muy caliente sin grasa 3 minutos por lado: el ibérico tiene grasa infiltrada suficiente y se come jugoso, rosado por dentro.",
+    "Mientras, seca la presa y márcala en una sartén muy caliente sin grasa 3 minutos por lado: el ibérico tiene grasa infiltrada suficiente y se come jugoso, rosado por dentro.",
     "Déjala reposar 3 minutos y córtala en lonchas al bies.",
-    "Sirve las alubias en plato hondo, la presa encima con escamas de sal, el perejil picado y un hilo del aceite de romero."
+    "Sirve las alubias en plato hondo, la presa encima con escamas de sal, el perejil y un hilo del aceite de romero."
   ],
   nutricion: { kcal: 600, prot: 36, hc: 36, grasa: 34 },
   etiquetas: ["para invitados", "sin gluten", "sin lactosa", "de cuchara", "rápida", "alta en proteína", "poco especiada"],
@@ -1083,7 +1081,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Tuesta los piñones en una sartén seca a fuego medio 2 minutos, hasta que estén dorados, y sácalos a un plato.",
-    "Prepara una ensalada con la rúcula y los cherry partidos aliñados con el aceite, sal y unas gotas de limón.",
+    "Parte los cherry por la mitad y prepara una ensalada con ellos y la rúcula, aliñada con el aceite, sal y unas gotas de limón.",
     "Cuece los tortellini el tiempo del paquete (2-4 minutos), hasta que floten y estén tiernos. Reserva un vaso de agua de cocción antes de escurrir.",
     "Mientras, funde la mantequilla en la sartén a fuego medio con las hojas de salvia. Deja que espume y cocina 2-3 minutos, hasta que la mantequilla se vuelva color avellana y huela a fruto seco, y la salvia esté crujiente. Retira del fuego enseguida: de avellana a quemada hay segundos.",
     "Añade los tortellini escurridos y 2 cucharadas del agua de cocción y mueve la sartén 30 segundos: el agua con almidón emulsiona la mantequilla en una salsa ligera que se pega a la pasta.",

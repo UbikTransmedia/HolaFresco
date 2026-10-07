@@ -33,12 +33,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre la ricotta en un colador forrado con papel de cocina, en la nevera, al menos 30 minutos (mejor 2 horas): el suero sobrante es el enemigo del ñoqui ligero, porque obliga a añadir más harina.",
-    "Saltea las espinacas en una sartén seca 2 minutos hasta que se reduzcan, déjalas templar y escúrrelas apretándolas con las manos hasta que no suelten ni una gota. Pícalas muy finas.",
-    "Mezcla la ricotta, las espinacas, el huevo, 30 g de parmesano rallado, la nuez moscada, sal y pimienta. Añade la harina tamizada y mezcla lo justo con una espátula: la masa debe quedar blanda y apenas pegajosa. Cuanto menos la trabajes y menos harina lleve, más tiernos saldrán.",
-    "Haz una prueba: forma un ñoqui y cuécelo en agua hirviendo. Si se deshace, añade 1 cucharada más de harina; si aguanta, sigue.",
-    "Con dos cucharas o con las manos enharinadas, forma bolitas de unos 3 cm y rebózalas ligeramente en harina sobre una bandeja. Déjalas 10 minutos en la nevera para que se asienten.",
-    "Para la salsa, dora el ajo laminado en el aceite, añade el tomate y una pizca de sal y cuece a fuego medio 12 minutos, hasta que espese. Añade la mitad de la albahaca rota con las manos.",
-    "Cuece los ñoquis en abundante agua con sal a fuego medio, con un hervor suave y por tandas: cuando suban a la superficie, déjalos 1 minuto más y sácalos con una espumadera. Un hervor fuerte los golpea y los rompe.",
+    "Saltea las espinacas en una sartén seca 2 minutos hasta que se reduzcan, déjalas templar y escúrrelas apretándolas con las manos hasta que no suelten ni una gota. Pícalas muy finas y ralla el parmesano.",
+    "Mezcla la ricotta, las espinacas, el huevo, 30 g del parmesano, la nuez moscada, sal y pimienta. Añade la harina tamizada y mezcla lo justo con una espátula: la masa debe quedar blanda y apenas pegajosa. Cuanto menos la trabajes y menos harina lleve, más tiernos saldrán.",
+    "Pon a hervir abundante agua con sal en una cazuela y haz una prueba: forma un ñoqui y cuécelo en agua hirviendo. Si se deshace, añade 1 cucharada más de harina; si aguanta, sigue.",
+    "Con dos cucharas o con las manos enharinadas, forma bolitas de unos 3 cm y rebózalas ligeramente en harina sobre una bandeja. Déjalas 10 minutos en la nevera para que se asienten. Mientras, lamina el ajo.",
+    "Para la salsa, dora el ajo en el aceite, añade el tomate y una pizca de sal y cuece a fuego medio 12 minutos, hasta que espese. Añade la mitad de la albahaca rota con las manos.",
+    "Cuece los ñoquis en el agua con sal a fuego medio, con un hervor suave y por tandas: cuando suban a la superficie, déjalos 1 minuto más y sácalos con una espumadera. Un hervor fuerte los golpea y los rompe.",
     "Pásalos a la sartén de la salsa, muévelos con suavidad y sirve con el resto del parmesano y la albahaca."
   ],
   nutricion: { kcal: 625, prot: 34, hc: 41, grasa: 36 },
@@ -75,14 +75,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos iguales y cuécelas en agua fría con sal 20 minutos desde que hierva, hasta que se deshagan al pincharlas. Escúrrelas y reserva un vaso del agua de cocción.",
+    "Pela las patatas, córtalas en trozos iguales y cuécelas en agua fría con sal 20 minutos desde que hierva, hasta que se deshagan al pincharlas. Mientras, saca el salmón de la nevera para que se atempere y lamina el ajo. Escúrrelas y reserva un vaso del agua de cocción.",
     "Pásalas por el pasapurés (la batidora rompe el almidón y las vuelve chiclosas) y añade 3 cucharadas de aceite, la ralladura del limón, la nuez moscada y agua de cocción a chorritos hasta que quede cremoso. Sala y mantén caliente.",
-    "Saca el salmón de la nevera 15 minutos antes y seca la piel a conciencia con papel; ráspala con el lomo del cuchillo para quitar la humedad. Sala solo la piel, justo antes de cocinar.",
+    "Seca la piel del salmón a conciencia con papel; ráspala con el lomo del cuchillo para quitar la humedad. Sala solo la piel, justo antes de cocinar.",
     "Calienta una sartén con un hilo de aceite a fuego medio-alto. Pon el salmón con la piel hacia abajo y presiona con una espátula 30 segundos para que la piel no se arquee y toque toda la sartén.",
     "Cocina sin mover 5-6 minutos a fuego medio: verás cómo el color opaco sube por el lateral. Hacerlo casi todo por el lado de la piel la vuelve crujiente mientras protege la carne del calor directo.",
     "Pincha el termómetro en la parte más gruesa, por un lateral. Retira a 48-50 °C para un salmón jugoso y rosado en el centro (52-55 °C si lo prefieres más hecho; por encima de 60 °C queda seco y suelta albúmina blanca).",
     "Dale la vuelta solo 20 segundos para marcar la carne y pásalo a un plato con la piel hacia arriba. Deja reposar 2 minutos: la temperatura subirá 2 grados.",
-    "Mientras reposa, saltea las espinacas con el ajo laminado y el resto del aceite a fuego alto 2 minutos, hasta que se reduzcan; sálalas al final.",
+    "Mientras reposa, saltea las espinacas con el ajo y el resto del aceite a fuego alto 2 minutos, hasta que se reduzcan; sálalas al final.",
     "Sirve el salmón con la piel hacia arriba sobre el puré, con las espinacas al lado, unas gotas de limón y escamas de sal sobre la piel."
   ],
   nutricion: { kcal: 730, prot: 38, hc: 37, grasa: 48 },
@@ -121,7 +121,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca el entrecot de la nevera 40 minutos antes: si está frío por dentro, el exterior se pasa antes de que el centro llegue a su punto. Sécalo bien y sálalo con la sal gruesa 10 minutos antes de cocinarlo.",
-    "Precalienta el horno a 220 °C. Corta las patatas en gajos, mézclalas con 2 cucharadas de aceite, sal y pimienta y ásalas 30 minutos, dándoles la vuelta a mitad, hasta que estén doradas.",
+    "Precalienta el horno a 220 °C. Corta las patatas en gajos, mézclalas con 2 cucharadas de aceite, sal y pimienta y ásalas 30 minutos, dándoles la vuelta a mitad, hasta que estén doradas. Empieza con la carne cuando a las patatas les falten unos 15 minutos.",
     "Calienta una sartén gruesa (de hierro, si tienes) a fuego alto hasta que humee. Añade un hilo de aceite y la carne. Déjala 2 minutos sin tocarla, hasta que se despegue sola con una costra oscura; dale la vuelta y repite.",
     "Baja a fuego medio y añade la mantequilla, los ajos aplastados y las hierbas. Inclina la sartén y riega la carne sin parar con la mantequilla espumosa durante 1-2 minutos: arrosar aromatiza y cocina la parte de arriba con suavidad.",
     "Mide con el termómetro en el centro de la pieza, entrando por el lateral: retira a 46 °C para poco hecho, 50-52 °C al punto y 56 °C para hecho. Subirá 3-5 grados al reposar.",
@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la salmuera: calienta el vinagre con 120 ml de agua, el azúcar, 1 cucharadita de sal, las semillas de mostaza y el laurel hasta que hierva y todo se disuelva. La proporción 1:1 de vinagre y agua da un encurtido equilibrado; el azúcar suaviza la acidez.",
-    "Pela la remolacha y córtala en bastones finos; corta la cebolla en aros finos y la coliflor en ramilletes muy pequeños o en láminas. Cuanto más fino el corte, más rápido se encurte.",
+    "Mientras se calienta, pela la remolacha y córtala en bastones finos; corta la cebolla en aros finos y la coliflor en ramilletes muy pequeños o en láminas. Cuanto más fino el corte, más rápido se encurte.",
     "Reparte las verduras en dos tarros limpios (la remolacha aparte, que lo tiñe todo) y cúbrelas con la salmuera hirviendo. El calor ablanda ligeramente las paredes de las verduras y acelera la entrada del vinagre.",
     "Deja enfriar destapado 30 minutos: ya están listas, crujientes y ácidas. Tapadas en la nevera aguantan hasta 2 semanas y ganan sabor.",
     "Mientras, lava la quinoa en un colador frotándola bajo el grifo para quitar la saponina, que amarga. Cuécela en el doble de agua con sal, tapada, 12 minutos; apaga, deja reposar 5 minutos y extiéndela para que se enfríe.",
@@ -206,13 +206,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas, pártelas por la mitad y mantenlas calientes.",
-    "Si las kokotxas son congeladas, descongélalas en la nevera. Sécalas muy bien con papel y sálalas ligeramente. Deben estar a temperatura ambiente: en frío no sueltan su gelatina.",
-    "En una cazuela de barro o de fondo grueso, calienta el aceite a fuego suave con los ajos laminados y la guindilla hasta que los ajos empiecen a dorarse (3-4 minutos). Sácalos y resérvalos. Deja templar el aceite 2-3 minutos: debe estar a unos 60-70 °C, no caliente.",
+    "Si las kokotxas son congeladas, pásalas la víspera a la nevera para que se descongelen despacio. Cuece las patatas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas, pártelas por la mitad y mantenlas calientes.",
+    "Mientras se cuecen las patatas, seca muy bien las kokotxas con papel y sálalas ligeramente: deben estar a temperatura ambiente, porque en frío no sueltan su gelatina. Lamina los ajos y pica el perejil.",
+    "En una cazuela de barro o de fondo grueso, calienta el aceite a fuego suave con los ajos y la guindilla hasta que los ajos empiecen a dorarse (3-4 minutos). Sácalos y resérvalos. Deja templar el aceite 2-3 minutos: debe estar a unos 60-70 °C, no caliente.",
     "Coloca las kokotxas en la cazuela con la piel hacia arriba, en una capa, a fuego muy suave. En 1-2 minutos empezarán a soltar un líquido blanquecino: es la gelatina, el emulsionante del pil pil.",
     "Mueve la cazuela en círculos o con un vaivén suave y constante, sin parar, durante 5-8 minutos. Retírala del fuego a ratos si el aceite chisporrotea: con exceso de calor la gelatina se cuaja en vez de emulsionar.",
     "Verás cómo el aceite pasa de transparente a amarillo pálido y luego a una salsa espesa y opaca, como una mayonesa ligera. Dales la vuelta con cuidado a media cocción para que se hagan por ambos lados.",
-    "Cuando la salsa esté ligada y las kokotxas blancas y temblorosas, añade el perejil picado, los ajos y la guindilla y mueve 30 segundos más.",
+    "Cuando la salsa esté ligada y las kokotxas blancas y temblorosas, añade el perejil, los ajos y la guindilla y mueve 30 segundos más.",
     "Sirve al momento con las patatas, napándolo todo con la salsa."
   ],
   nutricion: { kcal: 505, prot: 26, hc: 26, grasa: 33 },
@@ -252,12 +252,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Retira las hojas exteriores estropeadas de las endivias y córtalas por la mitad a lo largo. Quita un pequeño cono de la base, que es la parte más amarga.",
-    "Funde 10 g de mantequilla en una sartén a fuego medio y dora las endivias por el lado del corte 4 minutos. Añade el caldo, el zumo de limón y la pizca de azúcar, tapa y braséalas a fuego suave 12 minutos, hasta que estén tiernas al pincharlas. Destapa y deja evaporar el líquido.",
+    "Funde 10 g de mantequilla en una sartén a fuego medio y dora las endivias por el lado del corte 4 minutos. Añade el caldo, el zumo de limón y la pizca de azúcar, tapa y braséalas a fuego suave 12 minutos, hasta que estén tiernas al pincharlas; mientras, ralla el gruyère y pica las nueces. Destapa y deja evaporar el líquido.",
     "Precalienta el horno con el grill a 220 °C. Calienta la leche sin que llegue a hervir.",
     "Para la bechamel, funde el resto de la mantequilla en un cazo a fuego medio-bajo, añade la harina y cocínala 2 minutos removiendo con varillas, sin que tome color (roux blanco): así pierde el sabor a crudo.",
     "Vierte la leche caliente de una vez y bate con energía, llegando bien a las esquinas del cazo. Sigue removiendo a fuego medio 6-8 minutos: la salsa espesa cuando arranca a hervir. Está en su punto cuando napa la cuchara y al pasar el dedo deja un rastro limpio.",
-    "Fuera del fuego, añade la mitad del gruyère rallado, la nuez moscada, sal y pimienta blanca. Prueba: si notas sabor a harina, cocina 2 minutos más.",
-    "Coloca las endivias en una fuente, cúbrelas con la bechamel, espolvorea el resto del queso y las nueces picadas y gratina 8-10 minutos, hasta que la superficie esté dorada y burbujee."
+    "Fuera del fuego, añade la mitad del gruyère, la nuez moscada, sal y pimienta blanca. Prueba: si notas sabor a harina, cocina 2 minutos más.",
+    "Coloca las endivias en una fuente, cúbrelas con la bechamel, espolvorea el resto del queso y las nueces y gratina 8-10 minutos, hasta que la superficie esté dorada y burbujee."
   ],
   nutricion: { kcal: 460, prot: 20, hc: 28, grasa: 30 },
   etiquetas: ["técnica", "bechamel", "gratinado", "tupper", "invierno", "poco especiada"],
@@ -298,9 +298,9 @@ window.RECETAS_SEED.push({
     "Frota los contramuslos con la sal gruesa, la pimienta machacada, 2 ramas de tomillo y 1 hoja de laurel. Tápalos y déjalos en la nevera 2 horas (o toda la noche). La sal saca algo de agua y sazona la carne en profundidad; después, el confitado ya no puede salar.",
     "Lava los contramuslos con agua fría para quitar la sal y sécalos muy bien con papel.",
     "Precalienta el horno a 100 °C. Coloca los contramuslos en una cazuela apta para horno en la que queden justos, con los ajos sin pelar, el resto del tomillo y el laurel, y cúbrelos por completo con el aceite.",
-    "Calienta al fuego hasta que el aceite llegue a 85-90 °C (burbujitas finas alrededor de la carne, nunca un borboteo de fritura) y pasa la cazuela al horno 2 h 30 min. A esta temperatura el colágeno se convierte en gelatina sin que la carne pierda su jugo: queda tierna y jugosa, no frita.",
+    "Calienta al fuego hasta que el aceite llegue a 85-90 °C (burbujitas finas alrededor de la carne, nunca un borboteo de fritura) y pasa la cazuela al horno 2 h 30 min. A esta temperatura el colágeno se convierte en gelatina sin que la carne pierda su jugo: queda tierna y jugosa, no frita. Mientras se confita, pela las patatas y córtalas en dados.",
     "El confit está listo cuando la carne se separa del hueso al empujarla con una cuchara. Sácalo del aceite y escúrrelo.",
-    "A falta de 40 minutos, asa en otra bandeja las patatas en dados mezcladas con 3 cucharadas del aceite del confit, sal y pimienta, a 200 °C (sube el horno al sacar el pollo) unos 35 minutos, hasta que estén doradas.",
+    "Sube el horno a 200 °C y asa en una bandeja las patatas mezcladas con 3 cucharadas del aceite del confit, sal y pimienta unos 35 minutos, hasta que estén doradas. Mientras, lava y escurre bien la escarola.",
     "Para terminar, dora los contramuslos en una sartén sin aceite, con la piel hacia abajo, a fuego medio 4-5 minutos, hasta que la piel esté muy crujiente.",
     "Aliña la escarola con la mostaza, el vinagre y 1 cucharada del aceite del confit, y sírvela con el pollo, las patatas y los ajos confitados para untar."
   ],
@@ -344,11 +344,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta el pimiento, el calabacín y la cebolla en trozos de 2 cm, mézclalos con 2 cucharadas de aceite, el pimentón y sal y ásalos 25 minutos en una bandeja amplia, en una sola capa, hasta que tengan los bordes tostados. Amontonadas, las verduras se cuecen en su vapor y no se doran.",
-    "Escurre los garbanzos sobre un bol reservando el líquido del bote: eso es la aquafaba. Enjuaga los garbanzos y sécalos.",
+    "Mientras se asan, escurre los garbanzos sobre un bol reservando el líquido del bote: eso es la aquafaba. Enjuaga los garbanzos y sécalos, parte los tomates cherry por la mitad y pica el perejil.",
     "Para la mayonesa, pon en el vaso de la batidora 50 ml de aquafaba, la mostaza, el vinagre, el ajo y una pizca de sal. Bate 20 segundos hasta que haga espuma: sus proteínas y almidones se comportan como la yema y rodean las gotas de aceite.",
     "Con la batidora en marcha y apoyada en el fondo, añade el aceite restante en un hilo muy fino. Cuando empiece a espesar, súbela despacio. Es más lenta que la de huevo: dale tiempo.",
     "Cuando esté espesa y brillante, añade unas gotas de limón y ajusta de sal. Si queda líquida, sigue añadiendo aceite: necesita más proporción que la de huevo, unas 3-4 partes de aceite por una de aquafaba.",
-    "Mezcla los garbanzos con las verduras asadas templadas, los tomates cherry partidos y el perejil picado.",
+    "Mezcla los garbanzos con las verduras asadas templadas, los tomates cherry y el perejil.",
     "Aliña con 4 cucharadas de mayonesa de aquafaba aclarada con el resto del zumo de limón, y pimienta. Guarda la mayonesa sobrante en un bote en la nevera."
   ],
   nutricion: { kcal: 615, prot: 18, hc: 52, grasa: 37 },
@@ -391,14 +391,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua templada con el bicarbonato, 12 horas. El remojo es imprescindible también en olla exprés: sin él, se cuecen por fuera y quedan duros por dentro.",
-    "Escúrrelos y enjuágalos bien para quitar el bicarbonato. En la olla sin tapar, calienta el aceite y rehoga la cebolla picada y la zanahoria en rodajas a fuego medio 6 minutos, hasta que la cebolla esté blanda.",
-    "Añade el ajo picado y el ras el hanout y remueve 30 segundos, hasta que huela. Incorpora el tomate y cocina 3 minutos.",
+    "Escúrrelos y enjuágalos bien para quitar el bicarbonato. Pica la cebolla y el ajo y corta la zanahoria en rodajas. En la olla sin tapar, calienta el aceite y rehoga la cebolla y la zanahoria a fuego medio 6 minutos, hasta que la cebolla esté blanda.",
+    "Añade el ajo y el ras el hanout y remueve 30 segundos, hasta que huela. Incorpora el tomate y cocina 3 minutos.",
     "Agrega los garbanzos, el laurel y 700 ml de agua caliente: a diferencia de las alubias, a los garbanzos no se les «asusta», porque el agua fría los encallece. No llenes la olla más de la mitad: la legumbre hace espuma y puede taponar la válvula.",
-    "Cierra, lleva a presión alta y, cuando suba la válvula, baja el fuego al mínimo que la mantenga. Cuece 20 minutos.",
+    "Cierra, lleva a presión alta y, cuando suba la válvula, baja el fuego al mínimo que la mantenga. Cuece 20 minutos. Mientras, pela la calabaza, córtala en dados de 2 cm y pica el cilantro.",
     "Apaga y deja que la presión baje sola, unos 10 minutos. Si abres la válvula de golpe, el cambio brusco rompe la piel de los garbanzos.",
-    "Abre, comprueba que estén tiernos (si no, 5 minutos más de presión), añade la calabaza en dados de 2 cm y las pasas y cuece sin tapa a fuego medio 12 minutos, hasta que la calabaza esté tierna y el caldo espese. Sala al final.",
+    "Abre, comprueba que estén tiernos (si no, 5 minutos más de presión), añade la calabaza y las pasas y cuece sin tapa a fuego medio 12 minutos, hasta que la calabaza esté tierna y el caldo espese. Sala al final.",
     "Mientras, pon el cuscús en un bol con una pizca de sal, vierte encima el mismo volumen de agua hirviendo, tapa 5 minutos y suéltalo con un tenedor. Tuesta las almendras en una sartén seca.",
-    "Sirve el guiso sobre el cuscús con las almendras y el cilantro picado."
+    "Sirve el guiso sobre el cuscús con las almendras y el cilantro."
   ],
   nutricion: { kcal: 770, prot: 27, hc: 107, grasa: 26 },
   etiquetas: ["técnica", "legumbre desde seco", "olla exprés", "vegano", "tupper", "batch cooking", "económica"],
@@ -441,14 +441,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca las costillas y salpimiéntalas. En la olla exprés sin tapar, calienta el aceite a fuego alto y dóralas por tandas 3-4 minutos por lado, hasta que tengan una costra oscura. Sácalas.",
-    "Baja a fuego medio y rehoga la cebolla, la zanahoria y el ajo picados 5 minutos, raspando el fondo. Añade el tomate concentrado y el pimentón y remueve 1 minuto.",
+    "Pica la cebolla, la zanahoria y el ajo. Seca las costillas y salpimiéntalas. En la olla exprés sin tapar, calienta el aceite a fuego alto y dóralas por tandas 3-4 minutos por lado, hasta que tengan una costra oscura. Sácalas.",
+    "Baja a fuego medio y rehoga la cebolla, la zanahoria y el ajo 5 minutos, raspando el fondo. Añade el tomate concentrado y el pimentón y remueve 1 minuto.",
     "Vierte la cerveza, raspa todo el tostado del fondo (es sabor puro) y añade la worcestershire. Devuelve las costillas con la carne hacia abajo: el líquido debe llegar a media altura, no cubrirlas. En olla exprés casi no hay evaporación, así que no hace falta más líquido.",
-    "Cierra y cuece a presión alta 45 minutos desde que suba la válvula, a fuego mínimo; deja que baje la presión sola 10 minutos. La presión sube la temperatura de ebullición a unos 120 °C y acelera la conversión del colágeno en gelatina.",
+    "Cierra y cuece a presión alta 45 minutos desde que suba la válvula, a fuego mínimo; deja que baje la presión sola 10 minutos. La presión sube la temperatura de ebullición a unos 120 °C y acelera la conversión del colágeno en gelatina. Mientras, pela las patatas y córtalas en trozos.",
     "Comprueba que la carne se separa del hueso (si no, 10 minutos más) y pasa las costillas con cuidado a una bandeja de horno.",
-    "Cuela el líquido de cocción, desgrásalo con un cucharón y redúcelo en un cazo con la melaza, la mostaza y el vinagre a fuego fuerte 8-10 minutos, hasta que espese, brille y nape la cuchara: es el glaseado.",
-    "Mientras, cuece las patatas peladas en agua con sal 20 minutos, escúrrelas y aplástalas con la mantequilla y la leche caliente. Salpimienta.",
-    "Precalienta el horno con el grill a 220 °C. Pinta las costillas con el glaseado y gratínalas 4 minutos; repite dos veces más, hasta que estén lacadas y oscuras sin llegar a quemarse.",
+    "Precalienta el horno con el grill a 220 °C. Cuela el líquido de cocción, desgrásalo con un cucharón y redúcelo en un cazo con la melaza, la mostaza y el vinagre a fuego fuerte 8-10 minutos, hasta que espese, brille y nape la cuchara: es el glaseado.",
+    "Mientras, cuece las patatas en agua con sal 20 minutos, escúrrelas y aplástalas con la mantequilla y la leche caliente. Salpimienta.",
+    "Pinta las costillas con el glaseado y gratínalas 4 minutos; repite dos veces más, hasta que estén lacadas y oscuras sin llegar a quemarse.",
     "Sirve las costillas con el puré y el glaseado sobrante caliente aparte."
   ],
   nutricion: { kcal: 885, prot: 45, hc: 64, grasa: 50 },
@@ -530,13 +530,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia el alga kombu con un paño húmedo (no la laves: el polvillo blanco es sabor) y ponla en una cazuela con 1 litro de agua fría 30 minutos. En frío suelta el glutamato sin el sabor viscoso y amargo que daría al hervir. Mientras, pon las almejas en agua fría con sal para que suelten la arena.",
-    "Calienta a fuego medio-bajo y retira el kombu justo antes de que hierva, cuando aparezcan burbujas pequeñas en el fondo (unos 10 minutos).",
+    "Calienta a fuego medio-bajo y retira el kombu justo antes de que hierva, cuando aparezcan burbujas pequeñas en el fondo (unos 10 minutos). Mientras, pon a hervir agua en un cazo para los huevos y pica el cebollino.",
     "Lleva el agua a ebullición, apaga y añade los copos de bonito de golpe. Déjalos 3 minutos, hasta que se hundan, sin remover. Cuela por un colador con papel de cocina sin apretar: si lo estrujas, el dashi se enturbia y amarga.",
     "Ya tienes el dashi: el kombu aporta glutamato y el bonito inosinato, y juntos multiplican el umami. Añade la soja y el mirin, prueba y ajusta con sal.",
     "Para el huevo mollet, cuece los huevos 6 minutos y medio en agua hirviendo, pásalos a agua con hielo 3 minutos y pélalos con cuidado: clara cuajada y yema líquida y espesa.",
     "Hidrata los fideos de arroz en agua hirviendo fuera del fuego 5 minutos y escúrrelos.",
     "Lleva el dashi a un hervor suave, añade las almejas escurridas y tapa 2-3 minutos, hasta que se abran (descarta las que sigan cerradas). Añade las espinacas el último minuto.",
-    "Reparte los fideos en dos cuencos, vierte encima el caldo con las almejas y las espinacas y termina con el huevo partido, el cebollino picado y el sésamo."
+    "Reparte los fideos en dos cuencos, vierte encima el caldo con las almejas y las espinacas y termina con el huevo partido, el cebollino y el sésamo."
   ],
   nutricion: { kcal: 320, prot: 20, hc: 42, grasa: 8 },
   etiquetas: ["técnica", "fondo", "dashi", "japonesa", "umami", "ligera", "poco especiada"],
@@ -581,11 +581,11 @@ window.RECETAS_SEED.push({
     "Mezcla en un bol el gluten, la harina de garbanzo, la levadura nutricional y el ajo en polvo. Aparte, mezcla 1 cucharada de soja con 150 ml de agua.",
     "Vierte el líquido sobre los secos y mezcla con una espátula: en segundos se formará una masa elástica. Amásala solo 1-2 minutos, hasta que esté unida. Cuanto más la amases, más se desarrolla la red de gluten y más dura y gomosa quedará.",
     "Forma un cilindro de unos 5 cm de grosor, déjalo reposar 10 minutos para que se relaje y córtalo en 2 piezas.",
-    "Calienta el caldo con las otras 2 cucharadas de soja y el laurel hasta que esté caliente pero sin hervir. Introduce el seitán y cuécelo 45 minutos a fuego muy suave, sin que llegue a borbotear, girándolo a mitad. Si hierve fuerte, se forman burbujas dentro y queda esponjoso como el pan.",
+    "Calienta el caldo con las otras 2 cucharadas de soja y el laurel hasta que esté caliente pero sin hervir. Introduce el seitán y cuécelo 45 minutos a fuego muy suave, sin que llegue a borbotear, girándolo a mitad. Si hierve fuerte, se forman burbujas dentro y queda esponjoso como el pan. Mientras, pica la cebolla, lamina los champiñones y despunta las judías verdes.",
     "Deja templar el seitán en el caldo 15 minutos para que absorba sabor y se asiente. Sácalo y córtalo en filetes de 1 cm. Reserva el caldo.",
-    "Cuece las judías verdes en agua con sal 6 minutos, hasta que estén tiernas pero crujientes, y escúrrelas.",
+    "Mientras se templa, cuece las judías verdes en agua con sal 6 minutos, hasta que estén tiernas pero crujientes, y escúrrelas.",
     "Dora los filetes de seitán en una sartén con 1 cucharada de aceite a fuego medio-alto 2 minutos por lado. Sácalos.",
-    "En la misma sartén, rehoga la cebolla picada con el resto del aceite 5 minutos, añade los champiñones laminados y saltéalos a fuego alto 4 minutos. Vierte el vino, deja reducir 1 minuto y añade 200 ml del caldo de cocción con la maicena disuelta en un poco de agua fría. Hierve 1 minuto, hasta que espese.",
+    "En la misma sartén, rehoga la cebolla con el resto del aceite 5 minutos, añade los champiñones y saltéalos a fuego alto 4 minutos. Vierte el vino, deja reducir 1 minuto y añade 200 ml del caldo de cocción con la maicena disuelta en un poco de agua fría. Hierve 1 minuto, hasta que espese.",
     "Devuelve el seitán a la salsa 2 minutos para que se impregne y sirve con las judías verdes, el tomillo y pimienta."
   ],
   nutricion: { kcal: 455, prot: 53, hc: 25, grasa: 16 },
@@ -627,12 +627,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon la pechuga en un cazo con el jengibre en rodajas, la parte blanca de la cebolleta, 1 cucharadita de sal y agua fría que la cubra 3 cm. Empezar en frío hace que el centro y el exterior se calienten a la vez.",
-    "Calienta a fuego medio hasta que aparezcan las primeras burbujas en el fondo, sin llegar a hervir (8-10 minutos). Apaga, tapa y deja la pechuga dentro 15-18 minutos. El calor residual la lleva a 70-74 °C sin que el exterior se reseque: es la forma más jugosa de cocinar pechuga.",
+    "Corta el jengibre en rodajas y separa la parte blanca de la verde de las cebolletas. Pon la pechuga en un cazo con el jengibre, la parte blanca de la cebolleta, 1 cucharadita de sal y agua fría que la cubra 3 cm. Empezar en frío hace que el centro y el exterior se calienten a la vez.",
+    "Calienta a fuego medio hasta que aparezcan las primeras burbujas en el fondo, sin llegar a hervir (8-10 minutos). Apaga, tapa y deja la pechuga dentro 15-18 minutos. El calor residual la lleva a 70-74 °C sin que el exterior se reseque: es la forma más jugosa de cocinar pechuga. Mientras, corta el pepino y la zanahoria en bastones finos y pica la parte verde de la cebolleta, la menta y el cilantro.",
     "Comprueba el punto: 72 °C en el centro con termómetro o, sin él, jugo transparente al pincharla e interior blanco y brillante. Sácala y deja que se temple; reserva el caldo.",
     "Hidrata los fideos de arroz en agua hirviendo fuera del fuego 5-6 minutos, escúrrelos y pásalos por agua fría para cortar la cocción y quitar el almidón que los pega.",
     "Prepara la salsa batiendo la mantequilla de cacahuete con la soja, el zumo de la lima, la sriracha, el azúcar y 3-4 cucharadas del caldo templado, hasta que quede cremosa.",
-    "Corta el pepino y la zanahoria en bastones finos y desmenuza la pechuga con dos tenedores, a favor de la fibra.",
+    "Desmenuza la pechuga con dos tenedores, a favor de la fibra.",
     "Monta los cuencos con los fideos, las verduras y el pollo, riega con la salsa y termina con la parte verde de la cebolleta, la menta, el cilantro y el sésamo."
   ],
   nutricion: { kcal: 450, prot: 43, hc: 45, grasa: 11 },
@@ -674,9 +674,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor (o en agua hirviendo) 10 minutos. Este paso, que casi nadie hace, le quita el amargor y abre su estructura para que absorba la marinada como una esponja.",
-    "Mezcla el zumo de medio limón, la soja, 1 cucharada de aceite, el ajo rallado, el pimentón y el comino. Escurre el tempeh aún caliente y mézclalo con la marinada: en caliente absorbe mucho más.",
+    "Mientras, ralla el ajo y mezcla el zumo de medio limón, la soja, 1 cucharada de aceite, el ajo, el pimentón y el comino. Escurre el tempeh aún caliente y mézclalo con la marinada: en caliente absorbe mucho más.",
     "Deja marinar al menos 1 hora (o toda la noche en la nevera), removiendo un par de veces. El tempeh no tiene fibras que el ácido pueda deshacer, así que aquí la marinada solo aporta sabor y puedes alargarla sin riesgo.",
-    "Pon el bulgur en un bol con los tomates rallados, una pizca de sal y 100 ml de agua hirviendo; tapa y deja 15 minutos, hasta que absorba el líquido. Suéltalo con un tenedor y añade el perejil picado.",
+    "Mientras marina, ralla los tomates, pica el perejil y corta el pimiento y la cebolla morada en trozos de 2,5 cm. Pon el bulgur en un bol con los tomates, una pizca de sal y 100 ml de agua hirviendo; tapa y deja 15 minutos, hasta que absorba el líquido. Suéltalo con un tenedor y añade el perejil.",
     "Prepara la salsa batiendo el tahini con el zumo del otro medio limón, una pizca de sal y agua fría a cucharadas: primero se espesa y luego, al seguir añadiendo agua, queda cremosa y clara.",
     "Ensarta el tempeh en brochetas alternando con trozos de pimiento y de cebolla morada.",
     "Calienta una sartén o plancha con el resto del aceite a fuego medio-alto y dora las brochetas 8-10 minutos, girándolas y pintándolas con la marinada sobrante, hasta que estén tostadas por todos lados.",
@@ -720,13 +720,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala los filetes de trucha, pásalos por harina sacudiendo el exceso y séllalos en una sartén con 2 cucharadas de aceite a fuego medio-alto, 1 minuto por la piel y 30 segundos por la carne: solo dorados, sin hacerse del todo, porque terminarán de cocinarse con el escabeche caliente. Pásalos a una fuente de cristal en una capa.",
-    "En la misma sartén, añade el resto del aceite y pocha a fuego suave los ajos enteros pelados, la zanahoria en rodajas finas y la cebolla en juliana 10 minutos, hasta que estén blandas pero sin dorarse.",
+    "Pela los ajos, corta la zanahoria en rodajas finas y la cebolla en juliana. Sala los filetes de trucha, pásalos por harina sacudiendo el exceso y séllalos en una sartén con 2 cucharadas de aceite a fuego medio-alto, 1 minuto por la piel y 30 segundos por la carne: solo dorados, sin hacerse del todo, porque terminarán de cocinarse con el escabeche caliente. Pásalos a una fuente de cristal en una capa.",
+    "En la misma sartén, añade el resto del aceite y pocha a fuego suave los ajos enteros, la zanahoria y la cebolla 10 minutos, hasta que estén blandas pero sin dorarse.",
     "Añade el laurel, la pimienta en grano y el pimentón, remueve 10 segundos fuera del fuego y vierte el vino y el vinagre con 50 ml de agua y una pizca de sal.",
     "Lleva a ebullición y cuece 5 minutos para que el vinagre se suavice y se integre con el aceite. La proporción clásica de un escabeche suave es 2 partes de aceite, 1 de vinagre y 1 de vino o agua.",
     "Vierte el escabeche hirviendo sobre el pescado hasta cubrirlo: el calor termina de cocinarlo y el ácido penetra en la carne, la afirma y la conserva.",
     "Deja enfriar a temperatura ambiente, tapa y guarda en la nevera al menos 12 horas (mejor 24) antes de comer: el escabeche necesita tiempo para equilibrar sabores.",
-    "Cuece las patatas con piel en agua con sal 20 minutos, pélalas y córtalas en rodajas. Sirve la trucha a temperatura ambiente sobre la patata, con las verduras del escabeche, un par de cucharadas de su jugo y perejil picado."
+    "Cuece las patatas con piel en agua con sal 20 minutos (mientras, pica el perejil), pélalas y córtalas en rodajas. Sirve la trucha a temperatura ambiente sobre la patata, con las verduras del escabeche, un par de cucharadas de su jugo y el perejil."
   ],
   nutricion: { kcal: 460, prot: 34, hc: 34, grasa: 21 },
   etiquetas: ["técnica", "escabechar", "marinar", "omega 3", "tupper", "económica", "poco especiada", "bajo en colesterol"],
@@ -763,9 +763,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hidrata los fideos en agua templada, no hirviendo, 20-25 minutos, hasta que estén flexibles pero firmes. Escúrrelos y mézclalos con 1 cucharadita de aceite. Si los cueces del todo antes, se rompen y se pegan en el wok.",
-    "Prensa el tofu entre papel de cocina con un peso encima 10 minutos y córtalo en dados. Separa el brócoli en ramilletes pequeños y pela y lamina el tallo. Mezcla la soja, el azúcar y el vinagre en un vaso.",
+    "Mientras, prensa el tofu entre papel de cocina con un peso encima 10 minutos y córtalo en dados. Separa el brócoli en ramilletes pequeños y pela y lamina el tallo. Pica el ajo y mezcla la soja, el azúcar y el vinagre en un vaso.",
     "Calienta el wok a fuego máximo hasta que humee, añade 1 cucharada de aceite y dora el tofu 4 minutos, sin removerlo continuamente para que haga costra. Sácalo.",
-    "Añade el ajo picado y el brócoli con 2 cucharadas de agua: el vapor lo hace en 2 minutos sin que pierda el verde ni el crujiente. Sácalo cuando el agua se haya evaporado.",
+    "Añade el ajo y el brócoli con 2 cucharadas de agua: el vapor lo hace en 2 minutos sin que pierda el verde ni el crujiente. Sácalo cuando el agua se haya evaporado.",
     "Añade el resto del aceite, sube al máximo y echa los fideos extendidos. Déjalos 30-40 segundos sin tocar para que se tuesten en algunas zonas (ese toque ahumado es el «aliento del wok») y vierte la mitad de la salsa. Saltea 1 minuto.",
     "Empuja los fideos a un lado, casca los huevos en el hueco, déjalos cuajar 20 segundos y revuélvelos; luego mézclalos con los fideos.",
     "Devuelve el tofu y el brócoli con el resto de la salsa y saltea 1 minuto más, levantando con dos espátulas para no romper los fideos. Sirve con pimienta blanca."
@@ -810,9 +810,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca el yogur de la nevera 30 minutos antes. Bátelo con la harina de garbanzo, la cúrcuma, el cilantro molido y una pizca de sal hasta que esté liso. La harina (o 1 cucharadita de maicena) estabiliza las proteínas de la leche y evita que se agrupen en grumos al calentarse; la grasa del yogur entero también ayuda.",
-    "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos.",
+    "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Mientras, pica la otra cebolla, el ajo y el chile y ralla el jengibre.",
     "Corta una cebolla en juliana muy fina y fríela en una sartén con 2 cucharadas de aceite a fuego medio 10-12 minutos, removiendo, hasta que esté dorada oscura y crujiente. Escúrrela sobre papel.",
-    "En una cazuela con el resto del aceite (y el que sobre de la cebolla), tuesta el comino en grano 30 segundos, añade la otra cebolla picada y rehógala 8 minutos. Incorpora el ajo, el jengibre rallado y el chile picado y cocina 1 minuto.",
+    "En una cazuela con el resto del aceite (y el que sobre de la cebolla), tuesta el comino en grano 30 segundos, añade la otra cebolla y rehógala 8 minutos. Incorpora el ajo, el jengibre y el chile y cocina 1 minuto.",
     "Sube el fuego, añade el pollo salado y séllalo 4-5 minutos, hasta que pierda el color rosado.",
     "Baja el fuego al mínimo y espera 1 minuto. Templa el yogur: añádele 3 cucharadas del jugo caliente de la cazuela y remueve; luego viértelo en la cazuela poco a poco, sin dejar de remover. El cambio brusco de temperatura es lo que corta el yogur.",
     "Cuece a fuego muy suave, sin borbotones, tapado a medias, 20-25 minutos, removiendo de vez en cuando, hasta que el pollo esté tierno y la salsa espese con el aceite brillando en la superficie. Añade el garam masala al final.",
@@ -854,12 +854,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla la harina con una pizca de sal en un bol, haz un hueco y añade el agua templada y 1 cucharada de aceite. Intégralo con un tenedor y después con las manos hasta formar una bola.",
     "Amasa 10 minutos sobre la encimera, hasta que la masa esté lisa y elástica. Sin huevo, son el agua y el amasado los que desarrollan el gluten: la masa debe quedar firme, como plastilina, no pegajosa. Si se agrieta, mójate las manos.",
-    "Envuélvela en film y déjala reposar 30 minutos para que el gluten se relaje y se pueda rodar sin que encoja.",
+    "Envuélvela en film y déjala reposar 30 minutos para que el gluten se relaje y se pueda rodar sin que encoja. Mientras, lamina los ajos y pica el perejil.",
     "Estírala con el rodillo hasta 1 cm de grosor y córtala en tiras de 1 cm. Rueda cada tira sobre la encimera sin harina (necesitas agarre) con las palmas, de dentro hacia fuera, hasta formar espaguetis gruesos e irregulares de unos 3 mm y 20-25 cm. Déjalos en una bandeja con sémola o harina para que no se peguen.",
-    "Para la salsa, calienta 2 cucharadas de aceite en una sartén a fuego bajo con los ajos laminados y la guindilla, y deja que los ajos se confiten 8-10 minutos sin dorarse: así se vuelven dulces y suaves. Añade el tomate y una pizca de sal y cuece 15 minutos a fuego suave, hasta que espese; aplasta los ajos con el tenedor.",
+    "Para la salsa, calienta 2 cucharadas de aceite en una sartén a fuego bajo con los ajos y la guindilla, y deja que los ajos se confiten 8-10 minutos sin dorarse: así se vuelven dulces y suaves. Añade el tomate y una pizca de sal y cuece 15 minutos a fuego suave, hasta que espese; aplasta los ajos con el tenedor. Mientras se hace la salsa, pon a hervir abundante agua con sal para la pasta.",
     "Tuesta el pan rallado en una sartén con unas gotas de aceite 2-3 minutos, removiendo, hasta que esté dorado: es el pangrattato, que hace las veces de queso.",
-    "Cuece los pici en abundante agua con sal 4-6 minutos; prueba uno: deben estar tiernos pero con mordida. Escúrrelos reservando un vaso del agua de cocción.",
-    "Pásalos a la salsa con un chorrito del agua de cocción y saltea 1 minuto para que la salsa se agarre. Sirve con el pangrattato y perejil picado."
+    "Cuece los pici en el agua hirviendo 4-6 minutos; prueba uno: deben estar tiernos pero con mordida. Escúrrelos reservando un vaso del agua de cocción.",
+    "Pásalos a la salsa con un chorrito del agua de cocción y saltea 1 minuto para que la salsa se agarre. Sirve con el pangrattato y el perejil."
   ],
   nutricion: { kcal: 605, prot: 14, hc: 88, grasa: 22 },
   etiquetas: ["técnica", "pasta fresca", "casera", "italiana", "económica", "sin verduras", "bajo en colesterol"],
@@ -895,12 +895,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pide en la pescadería que te saquen los lomos de la dorada y te den la cabeza y la espina. Lava cabeza y espinas bajo el grifo, quitando agallas y restos de sangre: son lo que amarga y enturbia el caldo.",
-    "Quita el rabo y las semillas a las ñoras. En una olla con 2 cucharadas de aceite, fríelas a fuego bajo 30 segundos por lado, sin que se oscurezcan (quemadas amargan), y sácalas. En ese aceite sofríe 2 ajos laminados y los tomates rallados 8 minutos.",
+    "Pide en la pescadería que te saquen los lomos de la dorada y te den la cabeza y la espina. Lava cabeza y espinas bajo el grifo, quitando agallas y restos de sangre: son lo que amarga y enturbia el caldo. Lamina 2 ajos y ralla los tomates.",
+    "Quita el rabo y las semillas a las ñoras. En una olla con 2 cucharadas de aceite, fríelas a fuego bajo 30 segundos por lado, sin que se oscurezcan (quemadas amargan), y sácalas. En ese aceite sofríe los ajos laminados y el tomate 8 minutos.",
     "Machaca las ñoras en el mortero (o tritúralas con un poco de agua) y devuélvelas a la olla. Añade la cabeza y la espina de la dorada y las espinas extra y cubre con 1,2 litros de agua fría.",
-    "Lleva a ebullición, espuma y cuece a fuego suave 20-25 minutos, no más: el fumet se cuece poco, porque con más tiempo las espinas sueltan sabores amargos y a cola. Cuela por un colador fino apretando ligeramente con un cazo para aprovechar la pulpa del sofrito.",
+    "Lleva a ebullición, espuma y cuece a fuego suave 20-25 minutos, no más: el fumet se cuece poco, porque con más tiempo las espinas sueltan sabores amargos y a cola.",
+    "Mientras cuece el fumet, prepara el alioli: machaca los otros 2 ajos con una pizca de sal en el mortero, añade la yema y ve incorporando 60 ml de aceite gota a gota y luego en hilo, girando siempre en el mismo sentido, hasta que espese.",
+    "Cuela el fumet por un colador fino apretando ligeramente con un cazo para aprovechar la pulpa del sofrito.",
     "Vuelve a poner el fumet a hervir suave, sálalo y escalfa en él los lomos de dorada en trozos 4-5 minutos, hasta que estén blancos y nacarados. Sácalos y resérvalos tapados con un poco de caldo.",
-    "Para el alioli, machaca los otros 2 ajos con una pizca de sal en el mortero, añade la yema y ve incorporando 60 ml de aceite gota a gota y luego en hilo, girando siempre en el mismo sentido, hasta que espese.",
     "Pon 700 ml del fumet en una cazuela ancha con el azafrán. Cuando hierva, añade el arroz repartido y cuece 10 minutos a fuego fuerte y 8 a fuego medio, sin remover: el caldero queda meloso y con algo de caldo.",
     "Apaga, reposa 2 minutos y sirve el arroz con la dorada aparte, unas cucharadas de caldo caliente y el alioli para mezclar al gusto, como se hace en el Mar Menor."
   ],
@@ -936,8 +937,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas peladas en rodajas gruesas al vapor 15-18 minutos, hasta que estén tiernas. Mantenlas calientes.",
-    "Prepara la picada: machaca en el mortero el ajo y el perejil con una pizca de sal y añade 2 cucharadas de aceite y unas gotas de limón.",
+    "Pela las patatas, córtalas en rodajas gruesas y cuécelas al vapor 15-18 minutos, hasta que estén tiernas. Mantenlas calientes.",
+    "Mientras, prepara la picada: machaca en el mortero el ajo y el perejil con una pizca de sal y añade 2 cucharadas de aceite y unas gotas de limón.",
     "Abre el tubo del calamar en un rectángulo, sécalo bien por las dos caras y haz cortes en cuadrícula sobre la cara interior, sin atravesarlo. La cuadrícula evita que se enrosque, hace que se cocine parejo y atrapa la picada.",
     "Corta el calamar en piezas de 5 cm y sécalas de nuevo justo antes de cocinar: cualquier humedad hace que se cueza en vez de marcarse. No lo sales todavía, porque la sal saca agua.",
     "Calienta la plancha o una sartén de hierro a fuego máximo 3-4 minutos, hasta que una gota de agua se evapore al instante. Unta con el resto del aceite el calamar, no la plancha.",
@@ -978,9 +979,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara una salmuera rápida disolviendo 30 g de sal y el azúcar en 1 litro de agua fría. Sumerge las chuletas 30-45 minutos en la nevera. La sal penetra, relaja las proteínas y hace que la carne retenga más jugo: el cerdo magro deja de quedar seco.",
-    "Precalienta el horno a 200 °C. Asa los pimientos enteros con 1 cucharada de aceite y los ajos sin pelar 35-40 minutos, dándoles la vuelta, hasta que la piel esté arrugada y tostada. Tápalos 10 minutos para que suden y se pelen con facilidad.",
-    "Mientras, cuece las patatas en dados al vapor o en agua con sal 15 minutos, hasta que estén tiernas.",
+    "Precalienta el horno a 200 °C. Prepara una salmuera rápida disolviendo 30 g de sal y el azúcar en 1 litro de agua fría. Sumerge las chuletas 30-45 minutos en la nevera. La sal penetra, relaja las proteínas y hace que la carne retenga más jugo: el cerdo magro deja de quedar seco.",
+    "Mientras, asa los pimientos enteros con 1 cucharada de aceite y los ajos sin pelar 35-40 minutos, dándoles la vuelta, hasta que la piel esté arrugada y tostada. Tápalos 10 minutos para que suden y se pelen con facilidad.",
+    "Mientras, pela las patatas, córtalas en dados y cuécelas al vapor o en agua con sal 15 minutos, hasta que estén tiernas.",
     "Saca las chuletas de la salmuera, sécalas muy bien con papel y déjalas atemperar 15 minutos. Ponles pimienta, pero no sal: ya la llevan de la salmuera.",
     "Haz cortes en la grasa del borde cada 2 cm para que no se curven. Sujeta las chuletas de pie con unas pinzas, con la grasa contra una sartén a fuego medio, 3-4 minutos, hasta que esté dorada y haya soltado su grasa: será el aceite para cocinarlas.",
     "Túmbalas, sube a fuego medio-alto y cocínalas 3-4 minutos por lado con el tomillo. Retíralas cuando el centro marque 60-62 °C: el cerdo es seguro a 63 °C y sube 2-3 grados en el reposo. Quedará rosado pálido y jugoso, no blanco y seco.",
@@ -1024,12 +1025,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir 3 litros de agua con 2 cucharadas de sal y prepara al lado un bol grande con agua y mucho hielo. Mucha agua hace que no deje de hervir al echar las verduras: si el hervor se corta, se cuecen despacio y se vuelven pardas.",
-    "Despunta las judías verdes y córtalas en tramos de 5 cm. Separa el brócoli en ramilletes pequeños y pela y lamina el tallo.",
+    "Mientras se calienta el agua, despunta las judías verdes y córtalas en tramos de 5 cm. Separa el brócoli en ramilletes pequeños y pela y lamina el tallo. Pica fina la cebolleta y pica las almendras.",
     "Blanquea cada verdura por separado, porque cada una tiene su tiempo: judías 4 minutos, brócoli 2 minutos, guisantes y edamame 1 minuto. Sácalas con una espumadera.",
     "Pásalas al momento al agua con hielo 2-3 minutos: el choque térmico detiene la cocción y fija la clorofila, que da ese verde intenso. Sin él, el calor residual las sigue cocinando y se apagan.",
     "Escúrrelas bien y sécalas con un paño: el agua diluiría el aliño.",
-    "Tuesta las almendras picadas en una sartén seca a fuego medio 3 minutos, removiendo, hasta que huelan y estén doradas.",
-    "Bate el zumo y la ralladura del limón con la mostaza, sal y pimienta, y añade el aceite batiendo. Aliña las verduras justo antes de servir (el ácido del limón amarillea el verde con el tiempo) con la cebolleta picada fina, la menta y las almendras."
+    "Tuesta las almendras en una sartén seca a fuego medio 3 minutos, removiendo, hasta que huelan y estén doradas.",
+    "Bate el zumo y la ralladura del limón con la mostaza, sal y pimienta, y añade el aceite batiendo. Aliña las verduras justo antes de servir (el ácido del limón amarillea el verde con el tiempo) con la cebolleta, la menta y las almendras."
   ],
   nutricion: { kcal: 415, prot: 16, hc: 18, grasa: 31 },
   etiquetas: ["técnica", "blanquear", "vegano", "tupper", "ideal para llevar", "sin gluten", "detox", "superalimentos", "poco especiada"],
@@ -1075,8 +1076,8 @@ window.RECETAS_SEED.push({
     "Asa 25-30 minutos, removiendo a mitad, hasta que los bordes estén bien dorados; añade el tomate concentrado los últimos 5 minutos. El tostado aporta los sabores profundos que le faltan a un caldo de verduras normal, y la piel de la cebolla le da color dorado.",
     "Pasa las verduras a una olla, echa un vaso de agua caliente en la bandeja, rasca los jugos pegados y añádelo. Cubre con 1,5 litros de agua fría, el laurel y la pimienta en grano.",
     "Lleva a ebullición y cuece a fuego suave 35-40 minutos, sin tapar. No más: las verduras no tienen colágeno que extraer y, con más tiempo, el caldo se vuelve amargo y sabe a col.",
-    "Cuela presionando ligeramente las verduras y sala al gusto. Tendrás algo más de 1 litro.",
     "Mientras, corta en juliana fina (bastoncitos de 5 cm) la otra zanahoria, la parte blanca del otro puerro, el nabo y el repollo. Cortarlo todo del mismo grosor hace que se cueza a la vez.",
+    "Cuela presionando ligeramente las verduras y sala al gusto. Tendrás algo más de 1 litro.",
     "Lleva 1 litro de fondo a ebullición, añade la juliana y cuece 6-8 minutos, hasta que esté tierna pero entera. Incorpora los garbanzos escurridos los últimos 3 minutos.",
     "Tritura el perejil con 2 cucharadas de aceite y una pizca de sal hasta obtener un aceite verde. Sirve la sopa con unas gotas por encima."
   ],
@@ -1118,10 +1119,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita la piel a las salchichas y desmenuza la carne. Dórala en una cazuela con el aceite a fuego medio-alto 6-8 minutos, deshaciéndola con la cuchara, hasta que esté tostada y haya soltado su grasa.",
-    "Añade la cebolla y el hinojo picados finos, las semillas de hinojo y el ajo, y pocha en la grasa de la salchicha 8 minutos a fuego medio. Vierte el vino, raspa el fondo y deja evaporar 2 minutos.",
+    "Pica finos la cebolla, el hinojo y el ajo. Quita la piel a las salchichas y desmenuza la carne. Dórala en una cazuela con el aceite a fuego medio-alto 6-8 minutos, deshaciéndola con la cuchara, hasta que esté tostada y haya soltado su grasa.",
+    "Añade la cebolla, el hinojo, las semillas de hinojo y el ajo, y pocha en la grasa de la salchicha 8 minutos a fuego medio. Vierte el vino, raspa el fondo y deja evaporar 2 minutos.",
     "Incorpora el tomate y el romero, sala ligeramente y cuece a fuego suave, tapado a medias, 30 minutos, removiendo de vez en cuando, hasta que el ragú esté espeso y brillante.",
-    "Para la polenta, lleva a ebullición 600 ml de agua con 1 cucharadita de sal y baja a fuego medio.",
+    "Mientras se hace el ragú, prepara la polenta: lleva a ebullición 600 ml de agua con 1 cucharadita de sal y baja a fuego medio.",
     "Echa la polenta en lluvia fina, dejándola caer entre los dedos, mientras bates sin parar con unas varillas. Si la echas de golpe, la capa exterior de los grumos se gelatiniza y deja el interior seco: esos grumos ya no se deshacen.",
     "Cuando espese (1-2 minutos), cambia a una cuchara de madera, baja a fuego mínimo y tapa. Cocina 30-40 minutos (5-8 si es instantánea), removiendo cada 5 minutos y raspando el fondo; cuidado, que borbotea y salpica. Si espesa demasiado, añade agua caliente a chorritos.",
     "Está lista cuando se despega de las paredes, ya no sabe a harina cruda y tiene textura de puré suave. Fuera del fuego, añade la mantequilla y el parmesano y remueve hasta que brille.",

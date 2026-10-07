@@ -40,14 +40,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los mejillones raspando la concha y tirando de la barba hacia la parte estrecha; descarta los que estén rotos o abiertos y no se cierren al golpearlos. Corta el cazón en dados de 4 cm y el calamar en anillas de 1 cm.",
-    "Calienta 2 cucharadas de aceite en una cazuela ancha a fuego medio y sofríe 2 dientes de ajo laminados con la salvia y la guindilla durante 1 minuto, hasta que el ajo empiece a tomar color.",
+    "Limpia los mejillones raspando la concha y tirando de la barba hacia la parte estrecha; descarta los que estén rotos o abiertos y no se cierren al golpearlos. Corta el cazón en dados de 4 cm y el calamar en anillas de 1 cm. Lamina 2 dientes de ajo.",
+    "Calienta 2 cucharadas de aceite en una cazuela ancha a fuego medio y sofríe el ajo laminado con la salvia y la guindilla durante 1 minuto, hasta que el ajo empiece a tomar color.",
     "Añade el calamar y rehógalo 5 minutos: primero soltará agua y luego volverá a chisporrotear. Vierte el vino tinto, sube el fuego y deja que se evapore el alcohol durante 3 minutos.",
-    "Incorpora el tomate triturado y una pizca de sal, tapa a medias y cuece 20 minutos a fuego suave, hasta que el calamar esté tierno y la salsa haya oscurecido y espesado.",
+    "Incorpora el tomate triturado y una pizca de sal, tapa a medias y cuece 20 minutos a fuego suave, hasta que el calamar esté tierno y la salsa haya oscurecido y espesado. Mientras, pica el perejil.",
     "Vierte el caldo caliente, lleva a un hervor suave y añade el cazón. Cuece 5 minutos sin remover; mueve la cazuela por las asas para que el pescado no se rompa.",
     "Reparte los mejillones y los langostinos por encima, tapa y cuece 4 minutos, hasta que los mejillones se abran y los langostinos estén rosados. Retira los mejillones que sigan cerrados y prueba de sal.",
     "Mientras, tuesta el pan en una sartén con 1 cucharada de aceite, 2 minutos por cada lado, y frótalo con el diente de ajo crudo que te queda.",
-    "Coloca el pan en el fondo de dos platos hondos, sirve encima el pescado y el marisco con todo su caldo y termina con el perejil picado."
+    "Coloca el pan en el fondo de dos platos hondos, sirve encima el pescado y el marisco con todo su caldo y termina con el perejil."
   ],
   nutricion: { kcal: 635, prot: 51, hc: 48, grasa: 26 },
   etiquetas: ["tradicional", "de cuchara", "para invitados", "alta en proteína", "invierno"],
@@ -84,9 +84,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto", nota: "mejor en grano" }
   ],
   pasos: [
-    "Pon las pasas a remojo en un vaso con 2 cucharadas del vinagre. Lava las sardinas, quítales las escamas con los dedos bajo el grifo y sécalas muy bien con papel de cocina.",
+    "Pon las pasas a remojo en un vaso con 2 cucharadas del vinagre. Lava las sardinas, quítales las escamas con los dedos bajo el grifo y sécalas muy bien con papel de cocina. Corta la cebolla en juliana fina.",
     "Sala las sardinas y pásalas por la harina, sacudiendo el exceso. Calienta 4 cucharadas de aceite en una sartén a fuego medio-alto y fríelas en tandas, 2 minutos por cada lado, hasta que estén doradas. Escúrrelas sobre papel.",
-    "Limpia la sartén con papel, añade 2 cucharadas de aceite y la cebolla cortada en juliana fina con una pizca de sal. Póchala a fuego suave 20 minutos, removiendo de vez en cuando, hasta que esté transparente y muy blanda, pero sin dorarse.",
+    "Limpia la sartén con papel, añade 2 cucharadas de aceite y la cebolla con una pizca de sal. Póchala a fuego suave 20 minutos, removiendo de vez en cuando, hasta que esté transparente y muy blanda, pero sin dorarse.",
     "Vierte el resto del vinagre, el azúcar, el laurel y unos granos de pimienta. Sube el fuego y hierve 2 minutos para suavizar el golpe ácido; añade las pasas con su vinagre y los piñones.",
     "En una fuente de cristal o de loza coloca una capa de sardinas, cúbrela con cebolla caliente y su líquido, y repite hasta terminar con cebolla.",
     "Deja templar, tapa y refrigera al menos 12 horas, mejor 24, para que el saor penetre en el pescado.",
@@ -134,8 +134,8 @@ window.RECETAS_SEED.push({
     "Pica la cebolla, el apio y el ajo y rehógalos en la cazuela con el aceite a fuego medio-suave durante 8 minutos, hasta que la cebolla esté transparente.",
     "Sube el fuego, añade la sepia y la guindilla y saltea 5 minutos, hasta que la sepia suelte su agua y esta casi se evapore.",
     "Vierte el vino y deja que se evapore el alcohol 2 minutos. Añade el tomate, sal y pimienta, tapa y cuece a fuego suave 20 minutos.",
-    "Incorpora las pencas y, 5 minutos después, las hojas de acelga: parecerán muchas, pero en 2 minutos se reducen. Tapa y cuece 15 minutos más, hasta que la sepia se deje cortar con una cuchara y la salsa esté espesa. Si se seca, añade un chorrito de agua.",
-    "Prueba de sal, espolvorea el perejil picado y deja reposar 5 minutos fuera del fuego. Sirve en plato hondo con el pan tostado para mojar."
+    "Incorpora las pencas y, 5 minutos después, las hojas de acelga: parecerán muchas, pero en 2 minutos se reducen. Tapa y cuece 15 minutos más, hasta que la sepia se deje cortar con una cuchara y la salsa esté espesa. Si se seca, añade un chorrito de agua. Mientras, pica el perejil y tuesta el pan.",
+    "Prueba de sal, espolvorea el perejil y deja reposar 5 minutos fuera del fuego. Sirve en plato hondo con el pan tostado para mojar."
   ],
   nutricion: { kcal: 555, prot: 45, hc: 37, grasa: 23 },
   etiquetas: ["tradicional", "alta en proteína", "batch cooking", "otoño", "invierno"],
@@ -173,9 +173,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir 1 litro de agua con sal, el laurel y 1 cucharada del vinagre. Añade el cazón, baja el fuego para que apenas borbotee y cuécelo 8 minutos, hasta que la carne se separe con facilidad de la espina central.",
+    "Pon a hervir 1 litro de agua con sal, el laurel y 1 cucharada del vinagre. Añade el cazón, baja el fuego para que apenas borbotee y cuécelo 8 minutos, hasta que la carne se separe con facilidad de la espina central. Mientras, pica las nueces en trozos pequeños, lamina el ajo muy fino y pica el perejil.",
     "Escúrrelo y, cuando puedas tocarlo, retira la piel y la espina con los dedos dejando trozos grandes. Colócalos en una fuente de cristal.",
-    "Pica las nueces en trozos pequeños, lamina el ajo muy fino y pica el perejil.",
     "Calienta el aceite en una sartén a fuego suave y dora el ajo 1 minuto, sin que llegue a tostarse. Añade las nueces y el pan rallado y remueve 2 minutos, hasta que huela a fruto seco tostado.",
     "Aparta la sartén del fuego, vierte con cuidado el resto del vinagre (salpica) y 50 ml de agua, y vuelve a ponerla al fuego 2 minutos, hasta tener una salsa ligada que cubra la cuchara. Salpimienta y añade el perejil.",
     "Vierte la salsa caliente sobre el cazón, deja templar, tapa y refrigera al menos 6 horas, mejor de un día para otro, dándole la vuelta a los trozos una vez.",
@@ -219,7 +218,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia los mejillones raspando la concha y quitando la barba. Ábrelos en crudo sobre un bol, introduciendo un cuchillo pequeño por el lado recto, y deja cada uno en su media concha; guarda toda el agua que suelten. Si te resulta difícil, ponlos 1 minuto en una cazuela tapada a fuego fuerte, solo hasta que se entreabran.",
     "Cuela el agua de los mejillones con un colador fino o papel de cocina para eliminar la arena. Precalienta el horno a 200 °C con calor arriba y abajo.",
-    "Pela las patatas y córtalas en rodajas de 3 mm; corta la cebolla en juliana fina y los cherrys por la mitad. Pica el ajo y el perejil y mézclalos con el pecorino rallado y pimienta.",
+    "Pela las patatas y córtalas en rodajas de 3 mm; corta la cebolla en juliana fina y los cherrys por la mitad. Pica el ajo y el perejil, ralla el pecorino y mézclalo todo con pimienta.",
     "Unta con 1 cucharada de aceite una fuente de unos 22 cm. Haz una capa con la cebolla, la mitad de la patata y la mitad de los tomates; sala ligeramente y espolvorea un tercio de la mezcla de queso.",
     "Coloca encima los mejillones con la carne hacia arriba, reparte el arroz en crudo, lavado, por los huecos y espolvorea otro tercio del queso.",
     "Cubre con el resto de patata y tomate, el queso que queda y 2 cucharadas de aceite. Vierte por un lado el agua de los mejillones y añade agua hasta que el líquido llegue justo por debajo de la última capa de patata (unos 400 ml en total).",
@@ -259,7 +258,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Limpia los boquerones: quita la cabeza tirando hacia abajo para arrastrar la tripa, ábrelos en libro con el pulgar y retira la espina central. Lávalos y sécalos.",
-    "Separa las hojas de la escarola, lávalas bien, escúrrelas a conciencia y córtalas en tiras de 1 cm. Mézclalas en un bol con el ajo laminado, la guindilla desmenuzada, 1 cucharada de aceite y una pizca de sal.",
+    "Separa las hojas de la escarola, lávalas bien, escúrrelas a conciencia y córtalas en tiras de 1 cm. Lamina el ajo y mézclalo en un bol con la escarola, la guindilla desmenuzada, 1 cucharada de aceite y una pizca de sal.",
     "Unta una fuente de horno con un poco de aceite y cubre el fondo con la mitad de la escarola. Coloca encima la mitad de los boquerones abiertos, con la piel hacia arriba, y sálalos ligeramente.",
     "Repite con el resto de la escarola y termina con una capa de boquerones. Espolvorea el pan rallado y pimienta y riega con el aceite que queda.",
     "Hornea 25 minutos, hasta que la escarola se haya reducido a la mitad y esté tierna, y los boquerones estén dorados y crujientes en los bordes.",
@@ -304,9 +303,9 @@ window.RECETAS_SEED.push({
     "Pica el ajo y el perejil muy finos.",
     "Calienta el aceite en una sartén amplia a fuego medio y añade el ajo, la mitad del perejil y la guindilla, si la usas. Cocina 1 minuto, hasta que el ajo huela sin llegar a dorarse.",
     "Sube el fuego, añade las cigalas en una sola capa y saltéalas 1 minuto por cada lado, hasta que cambien de color.",
-    "Vierte el vino y deja que se evapore 2 minutos. Añade el tomate, sal y pimienta, tapa y cuece 5 minutos a fuego medio, moviendo la sartén de vez en cuando.",
+    "Vierte el vino y deja que se evapore 2 minutos. Añade el tomate, sal y pimienta, tapa y cuece 5 minutos a fuego medio, moviendo la sartén de vez en cuando. Mientras, tuesta el pan.",
     "Espolvorea el pan rallado y cuece 2 minutos más sin tapa, sacudiendo la sartén: la salsa espesa y se vuelve cremosa.",
-    "Mientras, tuesta el pan. Termina con el resto del perejil y sirve en la misma sartén, con el pan para mojar."
+    "Termina con el resto del perejil y sirve en la misma sartén, con el pan para mojar."
   ],
   nutricion: { kcal: 470, prot: 25, hc: 40, grasa: 22 },
   etiquetas: ["tradicional", "rápida", "una sola sartén", "para invitados", "sin verduras"],
@@ -348,8 +347,8 @@ window.RECETAS_SEED.push({
     "Pon el calamar y los langostinos en un bol con 1 cucharada de aceite y mezcla para que queden brillantes: es lo que hará que el pan se pegue.",
     "Ensártalos alternando en 4 brochetas y pásalas por la mezcla de pan rallado, presionando con las manos para formar una capa uniforme.",
     "Calienta la plancha a fuego medio-alto con 1 cucharada de aceite. Cocina las brochetas 2-3 minutos por cada lado, sin moverlas hasta que el pan esté dorado; el calamar debe quedar blanco y tierno, no gomoso.",
-    "Mientras, aliña la rúcula y los cherrys partidos por la mitad con el zumo de medio limón, la última cucharada de aceite y sal.",
-    "Sirve las brochetas recién hechas con la ensalada y el resto del limón en gajos."
+    "Mientras, parte los cherrys por la mitad y alíñalos con la rúcula, el zumo de medio limón, la última cucharada de aceite y sal. Corta en gajos el resto del limón.",
+    "Sirve las brochetas recién hechas con la ensalada y los gajos de limón."
   ],
   nutricion: { kcal: 450, prot: 39, hc: 26, grasa: 21 },
   etiquetas: ["tradicional", "alta en proteína", "ligera", "para niños", "verano", "poco especiada"],
@@ -387,8 +386,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas en rodajas de 1 cm. Corta el rape en trozos de 4-5 cm y sálalo.",
-    "Calienta el aceite en una cazuela ancha a fuego medio y sofríe la cebolla picada fina 5 minutos, hasta que esté transparente. Añade el ajo laminado, las hojas picadas de una rama de romero, la otra rama entera y la guindilla, y cocina 1 minuto.",
+    "Pela las patatas y córtalas en rodajas de 1 cm. Corta el rape en trozos de 4-5 cm y sálalo. Pica fina la cebolla, lamina el ajo y pica las hojas de una rama de romero.",
+    "Calienta el aceite en una cazuela ancha a fuego medio y sofríe la cebolla 5 minutos, hasta que esté transparente. Añade el ajo, el romero picado, la otra rama entera y la guindilla, y cocina 1 minuto.",
     "Sube el fuego, vierte el vino y deja que se evapore el alcohol 2 minutos. Añade el tomate, el agua, sal y pimienta.",
     "Incorpora las patatas, tapa y cuece a fuego suave 15 minutos, hasta que estén casi tiernas.",
     "Coloca los trozos de rape entre las patatas, medio sumergidos, tapa y cuece 8-10 minutos, girándolos a mitad, hasta que estén opacos y firmes. La salsa debe quedar espesa y brillante; si está muy líquida, destapa los últimos minutos.",
@@ -432,11 +431,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las gambas y reserva las cabezas y las cáscaras. Corta la merluza en 4 trozos y sálala ligeramente.",
-    "Tuesta las almendras en una sartén sin aceite 3 minutos, removiendo, hasta que estén doradas. Májalas en un mortero, o pícalas, con 1 diente de ajo y la mitad del perejil hasta tener una pasta gruesa.",
-    "Calienta 2 cucharadas de aceite en una cazuela y sofríe la cebolla picada 6 minutos, hasta que esté transparente. Añade el otro ajo picado y las cabezas y cáscaras de las gambas, y aplástalas con una cuchara de madera durante 3 minutos para que suelten su jugo rojo.",
-    "Añade el tomate, el laurel, la guindilla y el caldo, y cuece a fuego suave 15 minutos. Cuela el caldo apretando bien las cabezas y devuélvelo a la cazuela.",
-    "Disuelve en el caldo la pasta de almendras, prueba de sal y pimienta y mantenlo caliente. Separa 150 ml en una jarra.",
+    "Pela las gambas y reserva las cabezas y las cáscaras. Corta la merluza en 4 trozos y sálala ligeramente. Pica la cebolla y uno de los ajos.",
+    "Calienta 2 cucharadas de aceite en una cazuela y sofríe la cebolla 6 minutos, hasta que esté transparente. Añade el ajo picado y las cabezas y cáscaras de las gambas, y aplástalas con una cuchara de madera durante 3 minutos para que suelten su jugo rojo.",
+    "Añade el tomate, el laurel, la guindilla y el caldo, y cuece a fuego suave 15 minutos.",
+    "Mientras, tuesta las almendras en una sartén sin aceite 3 minutos, removiendo, hasta que estén doradas. Májalas en un mortero, o pícalas, con el otro diente de ajo y la mitad del perejil hasta tener una pasta gruesa. Pica el resto del perejil.",
+    "Cuela el caldo apretando bien las cabezas y devuélvelo a la cazuela. Disuelve en él la pasta de almendras, prueba de sal y pimienta y mantenlo caliente. Separa 150 ml en una jarra.",
     "Pon el cuscús en un bol con la cucharada de aceite restante y una pizca de sal, vierte encima los 150 ml de caldo hirviendo, tapa con un plato y deja reposar 5 minutos. Desgránalo con un tenedor.",
     "Mientras reposa el cuscús, cuece la merluza en el caldo 4 minutos a fuego suave y añade las gambas 2 minutos más, hasta que estén rosadas.",
     "Sirve el cuscús en platos hondos con la merluza y las gambas encima, riega con un cazo de caldo y termina con el resto del perejil. Lleva a la mesa el caldo que sobre para añadir al gusto."
@@ -479,9 +478,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el rape en 4 medallones de unos 3 cm de grosor y sécalos con papel. Sazona con poca sal, porque el jamón ya sala, y con pimienta.",
+    "Corta el rape en 4 medallones de unos 3 cm de grosor y sécalos con papel. Sazona con poca sal, porque el jamón ya sala, y con pimienta. Lamina el ajo.",
     "Apoya una hoja de salvia en el lateral de cada medallón y rodéalo con una loncha de jamón, apretando para que se pegue; si hace falta, sujétalo con un palillo. Enharina ligeramente las dos caras del corte, que quedan a la vista, y sacude el exceso.",
-    "Para el puré, calienta 1 cucharada de aceite en un cazo con el ajo laminado y la rama de romero durante 1 minuto. Añade las judías y el caldo y calienta 5 minutos. Retira el romero, tritura con el zumo del medio limón hasta tener una crema lisa, salpimienta y tapa.",
+    "Para el puré, calienta 1 cucharada de aceite en un cazo con el ajo y la rama de romero durante 1 minuto. Añade las judías y el caldo y calienta 5 minutos. Retira el romero, tritura con el zumo del medio limón hasta tener una crema lisa, salpimienta y tapa.",
     "Calienta la otra cucharada de aceite en una sartén a fuego medio-alto y dora los medallones 2-3 minutos por cada cara, girándolos también por el lado del jamón, hasta que este cruja y el rape esté opaco en el centro. Sácalos a un plato.",
     "Baja el fuego, añade a la sartén las 4 hojas de salvia restantes y el vino, y raspa el fondo con una cuchara de madera. Deja reducir a la mitad, 1-2 minutos.",
     "Aparta la sartén del fuego y añade la mantequilla fría, moviendo la sartén en círculos hasta que la salsa quede brillante y ligada.",
@@ -524,11 +523,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Deja la lubina descongelándose en la nevera desde la víspera. Antes de cortarla, métela 15 minutos en el congelador: firme, se lamina mucho mejor.",
     "Tritura las hojas de albahaca, reservando unas pocas, con 2 cucharadas de aceite y una pizca de sal en escamas durante 30 segundos. Cuélalo si quieres un aceite limpio.",
-    "Pela la naranja a vivo y saca los gajos sin piel. Ralla la piel del limón y exprime la mitad. Corta el hinojo en láminas finísimas, con mandolina si tienes.",
+    "Pela la naranja a vivo y saca los gajos sin piel. Ralla la piel del limón y exprime la mitad. Corta el hinojo en láminas finísimas, con mandolina si tienes. Tuesta el pan en una sartén con la cucharada de aceite restante, 1 minuto por cada lado, y frótalo con el ajo.",
     "Con un cuchillo muy afilado y de un solo trazo, corta la lubina en láminas de 3-4 mm al bies y repártelas en platos fríos, sin solaparlas.",
     "Justo antes de servir, riega el pescado con el zumo de limón (si lo dejas más de 2 o 3 minutos, el ácido lo «cuece» y lo vuelve opaco) y reparte por encima el hinojo, los gajos de naranja, las alcaparras y la ralladura de limón.",
-    "Termina con el aceite de albahaca, las hojas reservadas, sal en escamas y pimienta recién molida.",
-    "Tuesta el pan en una sartén con la cucharada de aceite restante, 1 minuto por cada lado, frótalo con el ajo y sírvelo al lado."
+    "Termina con el aceite de albahaca, las hojas reservadas, sal en escamas y pimienta recién molida, y sirve con el pan tostado al lado."
   ],
   nutricion: { kcal: 565, prot: 35, hc: 42, grasa: 28 },
   etiquetas: ["creativa", "rápida", "para invitados", "verano", "alta en proteína", "poco especiada"],
@@ -572,8 +570,8 @@ window.RECETAS_SEED.push({
     "Pasa cada pieza por harina, huevo y panko, presionando para que quede bien cubierta.",
     "Precalienta la airfryer a 200 °C durante 3 minutos. Pinta la cesta con un poco del aceite, coloca una sola capa de piezas sin amontonar y píntalas o rocíalas con aceite.",
     "Cocina primero el calabacín 10 minutos, girándolo a mitad, y resérvalo en un plato. Haz después los chipirones y las gambas en una segunda tanda, 7-8 minutos, girándolos a mitad, hasta que estén dorados: así el marisco llega a la mesa recién hecho.",
-    "Mientras se hacen, mezcla la mayonesa con el yogur, el zumo de medio limón, las alcaparras picadas y el perejil picado.",
-    "Sirve el fritto misto enseguida, con la salsa y el resto del limón en gajos."
+    "Mientras se hacen, pica las alcaparras y el perejil y mézclalos con la mayonesa, el yogur y el zumo de medio limón. Corta el resto del limón en gajos.",
+    "Sirve el fritto misto enseguida, con la salsa y los gajos de limón."
   ],
   nutricion: { kcal: 510, prot: 40, hc: 41, grasa: 20 },
   etiquetas: ["creativa", "para niños", "alta en proteína", "verano", "poco especiada"],
@@ -615,9 +613,9 @@ window.RECETAS_SEED.push({
     "Enjuaga el farro y cuécelo en agua abundante con sal 25 minutos (20 si es perlado), hasta que esté tierno pero con mordida. Escúrrelo y alíñalo en caliente con 1 cucharada de aceite.",
     "Mientras, precalienta el horno a 200 °C. Coloca el salmón con la piel hacia abajo en una bandeja con papel, salpimiéntalo y pon las avellanas en una esquina de la bandeja.",
     "Hornea 6 minutos, saca las avellanas y sigue horneando el salmón 6-8 minutos más, hasta que se separe en lascas pero siga jugoso y rosado en el centro.",
-    "Pela la naranja a vivo y saca los gajos sobre un bol para recoger el zumo; exprime después la membrana. Bate ese zumo con el vinagre, la miel, la otra cucharada de aceite, sal y pimienta.",
-    "Corta el radicchio en tiras finas y el hinojo en láminas muy finas. Mézclalos con el farro templado, la rúcula y la mitad de la vinagreta.",
-    "Reparte en platos, coloca encima el salmón en lascas grandes y sin piel, los gajos de naranja y las avellanas picadas, y riega con el resto de la vinagreta."
+    "Mientras se hornea, pela la naranja a vivo y saca los gajos sobre un bol para recoger el zumo; exprime después la membrana. Bate ese zumo con el vinagre, la miel, la otra cucharada de aceite, sal y pimienta.",
+    "Corta el radicchio en tiras finas y el hinojo en láminas muy finas, y pica las avellanas. Mézclalos con el farro templado, la rúcula y la mitad de la vinagreta.",
+    "Reparte en platos, coloca encima el salmón en lascas grandes y sin piel, los gajos de naranja y las avellanas, y riega con el resto de la vinagreta."
   ],
   nutricion: { kcal: 665, prot: 33, hc: 52, grasa: 35 },
   etiquetas: ["creativa", "ideal para llevar", "batch cooking", "otoño", "invierno", "superalimentos", "poco especiada"],
@@ -657,9 +655,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Raspa la superficie de las cortezas de parmesano con un cuchillo y lávalas. Ponlas en una cazuela con el agua, la chalota partida por la mitad, 1 diente de ajo aplastado y el laurel.",
-    "Cuece a fuego suave 30 minutos, removiendo de vez en cuando para que las cortezas no se peguen al fondo, hasta que el caldo esté turbio, sabroso y reducido a unos 500 ml. Cuélalo.",
-    "Mientras, calienta el aceite en una sartén pequeña con la rama de romero y el otro ajo laminado a fuego mínimo durante 5 minutos; apártalo y deja que infusione.",
-    "Quita el tallo central de la kale y corta las hojas en tiras. Devuelve el caldo colado a la cazuela con las judías y la kale y cuece 5 minutos, hasta que la kale esté tierna. Prueba antes de salar: el queso ya sala.",
+    "Cuece a fuego suave 30 minutos, removiendo de vez en cuando para que las cortezas no se peguen al fondo, hasta que el caldo esté turbio, sabroso y reducido a unos 500 ml.",
+    "Mientras, calienta el aceite en una sartén pequeña con la rama de romero y el otro ajo laminado a fuego mínimo durante 5 minutos; apártalo y deja que infusione. Quita el tallo central de la kale y corta las hojas en tiras.",
+    "Cuela el caldo, devuélvelo a la cazuela con las judías y la kale y cuece 5 minutos, hasta que la kale esté tierna. Prueba antes de salar: el queso ya sala.",
     "Salpimienta el bacalao y colócalo sobre las verduras, medio sumergido en el caldo. Tapa y cuece a fuego muy suave 6-7 minutos, hasta que esté opaco y se separe en lascas.",
     "Sirve en platos hondos el caldo con las alubias y la kale, el bacalao encima, un chorrito del aceite de romero, unas gotas de limón y pimienta."
   ],
@@ -702,9 +700,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 3 mm y mézclalas en una fuente con 1 cucharada de aceite, sal y pimienta. Hornéalas 20 minutos, hasta que empiecen a ablandarse.",
-    "Mientras, prepara el relleno: mezcla en un bol el pan rallado, el parmesano rallado, las alcaparras picadas, el perejil y el ajo muy picados, la ralladura del limón, 1 cucharada de aceite y el zumo de medio limón. Debe quedar como arena húmeda que se apelmaza al apretarla.",
-    "Seca los filetes de gallo y salpimiéntalos. Reparte encima dos tercios del relleno, presiónalo y enrolla cada filete desde la parte más ancha. Sujétalos con un palillo si se abren.",
-    "Saca la fuente, reparte los cherrys partidos por la mitad sobre las patatas y coloca los rollitos con las hojas de laurel entre ellos. Espolvorea por encima el resto del relleno y riega con el vino y la última cucharada de aceite.",
+    "Mientras, ralla el parmesano, pica las alcaparras y pica muy finos el perejil y el ajo. Prepara el relleno: mezcla en un bol el pan rallado, el parmesano, las alcaparras, el perejil, el ajo, la ralladura del limón, 1 cucharada de aceite y el zumo de medio limón. Debe quedar como arena húmeda que se apelmaza al apretarla.",
+    "Seca los filetes de gallo y salpimiéntalos. Reparte encima dos tercios del relleno, presiónalo y enrolla cada filete desde la parte más ancha. Sujétalos con un palillo si se abren. Parte los cherrys por la mitad.",
+    "Saca la fuente, reparte los cherrys sobre las patatas y coloca los rollitos con las hojas de laurel entre ellos. Espolvorea por encima el resto del relleno y riega con el vino y la última cucharada de aceite.",
     "Hornea 15 minutos, hasta que los rollitos estén opacos y firmes al tocarlos y la costra esté dorada.",
     "Sirve con unas gotas de zumo del medio limón que queda."
   ],
@@ -784,11 +782,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Despunta las judías verdes y cuécelas en agua hirviendo con sal 6-7 minutos, hasta que estén tiernas pero con un punto crujiente. Escúrrelas.",
-    "Mezcla en un plato la polenta con el parmesano rallado, la ralladura de medio limón y pimienta. Bate el huevo en otro plato.",
+    "Pon a hervir agua con sal y, mientras, despunta las judías verdes. Cuécelas 6-7 minutos, hasta que estén tiernas pero con un punto crujiente. Escúrrelas.",
+    "Mientras se cuecen, ralla el parmesano y mézclalo en un plato con la polenta, la ralladura de medio limón y pimienta. Bate el huevo en otro plato y lamina el ajo.",
     "Seca los filetes de trucha con papel y sálalos. Pasa solo la cara de la carne por el huevo y después por la mezcla de polenta, presionando para que se adhiera bien.",
     "Calienta el aceite en una sartén amplia a fuego medio. Coloca la trucha con la costra hacia abajo y cocina 3 minutos sin moverla, hasta que esté dorada y crujiente; dale la vuelta y cocina 2 minutos por el lado de la piel.",
-    "Saca la trucha. En la misma sartén, a fuego medio, funde la mantequilla con el ajo laminado y las alcaparras 1 minuto, añade las judías y saltéalas 2 minutos con el zumo de medio limón y sal.",
+    "Saca la trucha. En la misma sartén, a fuego medio, funde la mantequilla con el ajo y las alcaparras 1 minuto, añade las judías y saltéalas 2 minutos con el zumo de medio limón y sal.",
     "Sirve la trucha sobre las judías, con el resto del limón en gajos."
   ],
   nutricion: { kcal: 550, prot: 41, hc: 23, grasa: 31 },
@@ -826,10 +824,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la calabaza en lonchas de 1 cm. Calienta 1 cucharada de aceite en una sartén amplia a fuego medio y dórala 4-5 minutos por cada lado, hasta que esté tierna y con manchas tostadas; hazlo en dos tandas si no cabe, con un chorrito más de aceite. Sálala y pásala a una fuente.",
-    "En la misma sartén, a fuego suave, dora el ajo laminado 1 minuto. Añade el vinagre y el azúcar y remueve 1 minuto, hasta que el azúcar se disuelva y el líquido espese un poco.",
+    "Corta la calabaza en lonchas de 1 cm y lamina el ajo. Calienta 1 cucharada de aceite en una sartén amplia a fuego medio y dórala 4-5 minutos por cada lado, hasta que esté tierna y con manchas tostadas; hazlo en dos tandas si no cabe, con un chorrito más de aceite. Sálala y pásala a una fuente.",
+    "En la misma sartén, a fuego suave, dora el ajo 1 minuto. Añade el vinagre y el azúcar y remueve 1 minuto, hasta que el azúcar se disuelva y el líquido espese un poco.",
     "Vierte el agridulce caliente sobre la calabaza, añade la mitad de las hojas de menta y deja que repose mientras haces el pescado (si la preparas con 30 minutos o una noche de antelación, mejor).",
-    "Tuesta las almendras en una sartén sin aceite 2-3 minutos, removiendo, hasta que estén doradas.",
+    "Tuesta las almendras en una sartén sin aceite 2-3 minutos, removiendo, hasta que estén doradas, y tuesta el pan.",
     "Seca muy bien los filetes de caballa, haz 2 o 3 cortes superficiales en la piel y sálalos. Calienta la plancha a fuego fuerte, úntala con unas gotas de aceite y cocina la caballa con la piel hacia abajo 3 minutos, hasta que la piel cruja y la carne esté opaca casi hasta arriba; dale la vuelta y deja 30 segundos.",
     "Sirve la calabaza con su jugo, la caballa encima con la piel hacia arriba, las almendras, el resto de la menta y pimienta, con el pan tostado al lado."
   ],
@@ -873,7 +871,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas, córtalas en rodajas de 5 mm y ponlas en un recipiente apto para microondas con 2 cucharadas de agua y sal. Tapa y cocina a 800 W durante 6-7 minutos, hasta que estén tiernas.",
-    "Para el pesto, tritura los pistachos con la albahaca (reserva unas hojas), el parmesano, el ajo, 1 cucharada de aceite y 2 cucharadas de agua hasta tener una pasta untuosa con algo de textura.",
+    "Mientras, para el pesto, tritura los pistachos con la albahaca (reserva unas hojas), el parmesano, el ajo, 1 cucharada de aceite y 2 cucharadas de agua hasta tener una pasta untuosa con algo de textura.",
     "Corta el calabacín en rodajas de 3 mm, los cherrys por la mitad, las aceitunas en rodajas y la mitad del limón en rodajas finas.",
     "Recorta 2 hojas de papel de horno de 40 x 30 cm. En el centro de cada una pon las patatas y el calabacín, sal y un hilo con la cucharada de aceite que queda.",
     "Coloca encima los filetes de salmonete con la piel hacia arriba, salpimienta y reparte la mitad del pesto, los cherrys, las aceitunas, las rodajas de limón y el vino.",
