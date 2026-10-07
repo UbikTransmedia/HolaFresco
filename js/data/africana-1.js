@@ -31,10 +31,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla muy fina, casi en puré. Ponla en una cazuela a fuego medio sin nada de grasa y remueve 6-7 minutos, hasta que pierda el agua y empiece a pegarse un poco: es la técnica etíope para que la cebolla se funda en la salsa.",
+    "Pica la cebolla muy fina, casi en puré, pica el ajo y ralla el tomate. Disuelve la harina de garbanzo en 250 ml de agua fría con unas varillas, sin grumos.",
+    "Pon la cebolla en una cazuela a fuego medio sin nada de grasa y remueve 6-7 minutos, hasta que pierda el agua y empiece a pegarse un poco: es la técnica etíope para que la cebolla se funda en la salsa.",
     "Añade el aceite, el ajo picado y el tomate rallado y cocina 4 minutos, hasta que el tomate se oscurezca.",
     "Agrega el berbere y remueve 1 minuto a fuego suave, sin dejar que se queme: debe oler tostado, no amargo.",
-    "Mientras, disuelve la harina de garbanzo en 250 ml de agua fría con unas varillas, sin grumos.",
     "Vierte el resto del agua en la cazuela y, cuando hierva, añade la harina disuelta en un hilo sin dejar de batir.",
     "Cuece 12-15 minutos a fuego bajo, removiendo a menudo, hasta que la crema esté lisa, brillante y burbujee despacio como lava. Si espesa demasiado, añade un chorrito de agua caliente; sal al final.",
     "Calienta el pan de pita en una sartén seca y sirve el shiro muy caliente para comerlo con el pan, a pellizcos."
@@ -74,8 +74,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
+    "Pica la cebolla y el ajo, ralla el jengibre y pica el habanero sin semillas.",
     "Calienta el aceite de palma en una cazuela a fuego medio y sofríe la cebolla picada 6-7 minutos, hasta que esté blanda y teñida de naranja.",
-    "Añade el ajo, el jengibre rallado y el habanero picado sin semillas y cocina 1 minuto.",
+    "Añade el ajo, el jengibre y el habanero y cocina 1 minuto.",
     "Incorpora el tomate triturado y cuece 8 minutos, hasta que espese y el aceite asome rojo por los bordes.",
     "Echa las alubias y el caldo, aplasta un puñado con la cuchara para que la salsa trabe y cuece 8 minutos a fuego suave. Sala.",
     "Mientras, pela el plátano, córtalo en rodajas al bies de 1 cm y sálalo ligeramente.",
@@ -115,7 +116,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias remojadas, cúbrelas con agua fría dos dedos por encima y cuécelas a fuego suave 50-60 minutos, hasta que se deshagan al apretarlas. Sala a mitad de cocción.",
+    "La víspera (o al menos 4 horas antes), pon las alubias en remojo en abundante agua fría. Escúrrelas, cúbrelas con agua fría dos dedos por encima y cuécelas a fuego suave 50-60 minutos, hasta que se deshagan al apretarlas. Sala a mitad de cocción.",
     "Mientras, hidrata las ñoras y las guindillas en agua muy caliente 15 minutos. Escúrrelas y tritúralas con 1/4 de cebolla, el ajo y 3 cucharadas de su agua hasta tener una pasta fina.",
     "Corta el resto de la cebolla en juliana fina.",
     "Calienta el aceite de palma en una sartén a fuego medio-bajo 3-4 minutos, hasta que huela intensamente y se aclare un poco, sin que llegue a humear.",
@@ -203,10 +204,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava los guisantes partidos hasta que el agua salga clara. Cuécelos en 750 ml de agua, retirando la espuma, 35-40 minutos a fuego suave, hasta que estén tiernos y empiecen a deshacerse.",
-    "Mientras, pica muy fina la cebolla y cuécela en una cazuela sin grasa a fuego medio 5 minutos, removiendo, hasta que pierda el agua.",
-    "Añade el aceite, el ajo y el jengibre rallados y cocina 2 minutos, sin que tomen color. Agrega la cúrcuma y remueve 30 segundos.",
+    "Mientras, pica muy fina la cebolla, ralla el ajo y el jengibre, y cuece la cebolla en una cazuela sin grasa a fuego medio 5 minutos, removiendo, hasta que pierda el agua.",
+    "Añade el aceite, el ajo y el jengibre y cocina 2 minutos, sin que tomen color. Agrega la cúrcuma y remueve 30 segundos.",
     "Vierte los guisantes con su líquido, añade el chile entero y cuece 10 minutos más a fuego bajo, removiendo, hasta que el guiso espese como unas lentejas cremosas. Sala.",
-    "Lava el arroz y cuécelo con 250 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
+    "Mientras el guiso cuece, lava el arroz y cuécelo con 250 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
     "Retira el chile y sirve el alicha con el arroz."
   ],
   nutricion: { kcal: 615, prot: 23, hc: 98, grasa: 15 },
@@ -245,12 +246,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las alubias remojadas: frótalas entre las manos dentro de un bol con agua, deja que las pieles suban y retíralas, cambiando el agua varias veces. Tarda unos 15 minutos y es lo que hace el akara esponjoso y blanco.",
+    "La víspera (o al menos 6 horas antes), pon las alubias en remojo en abundante agua fría. Escúrrelas y pélalas: frótalas entre las manos dentro de un bol con agua, deja que las pieles suban y retíralas, cambiando el agua varias veces. Tarda unos 15 minutos y es lo que hace el akara esponjoso y blanco.",
     "Tritura las alubias peladas con la cebolla, el habanero sin semillas y 3-4 cucharadas de agua hasta tener una pasta espesa y fina, que caiga de la cuchara a golpes.",
     "Pasa la pasta a un bol y bátela con varillas 2-3 minutos para airearla: debe aclararse y ganar volumen. Sala justo antes de freír.",
-    "Mezcla la col en tiras finas y la zanahoria rallada con el zumo de media lima y una pizca de sal. Mezcla la mayonesa con el pimentón picante y el zumo de la otra media lima.",
-    "Calienta el aceite en un cazo hondo a 175 °C (una gota de masa sube enseguida burbujeando). Fríe cucharadas de masa en tandas, 3-4 minutos, dándoles la vuelta, hasta que estén dorado oscuro. Escurre sobre papel.",
-    "Abre el pan, úntalo con la mayonesa de chile, pon rodajas de tomate, la ensalada de col y 4-5 akara aplastados ligeramente. Come al momento."
+    "Pon a calentar el aceite en un cazo hondo a 175 °C. Mientras se calienta, corta la col en tiras finas, ralla la zanahoria y mézclalas con el zumo de media lima y una pizca de sal. Mezcla la mayonesa con el pimentón picante y el zumo de la otra media lima y corta el tomate en rodajas.",
+    "Cuando el aceite esté a 175 °C (una gota de masa sube enseguida burbujeando), fríe cucharadas de masa en tandas, 3-4 minutos, dándoles la vuelta, hasta que estén dorado oscuro. Escurre sobre papel.",
+    "Abre el pan, úntalo con la mayonesa de chile, pon las rodajas de tomate, la ensalada de col y 4-5 akara aplastados ligeramente. Come al momento."
   ],
   nutricion: { kcal: 800, prot: 28, hc: 105, grasa: 30 },
   etiquetas: ["creativa", "frito", "picante", "económica"],
@@ -292,9 +293,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y aparta una cuarta parte para la rougaille. Machaca en el mortero 2 dientes de ajo con el jengibre y una pizca de sal; lamina un tercer diente para la rougaille y guarda el último para el chutney.",
+    "Pica la cebolla y aparta una cuarta parte para la rougaille. Machaca en el mortero 2 dientes de ajo con el jengibre y una pizca de sal; lamina un tercer diente para la rougaille y guarda el último para el chutney. Ralla un tomate.",
     "Calienta 2 cucharadas de aceite en una cazuela a fuego medio, añade el comino y deja que chisporrotee 30 segundos. Sofríe el resto de la cebolla 6 minutos, hasta que esté dorada. Añade el majado de ajo y jengibre y el curry desleído en 2 cucharadas de agua (así no se quema) y remueve 2 minutos, hasta que el aceite se separe.",
-    "Incorpora un tomate rallado y cocina 3 minutos. Añade los judiones y el resto del agua, sala y cuece a fuego suave 10 minutos, aplastando unos pocos con la cuchara para que la salsa espese sin romper los demás.",
+    "Incorpora el tomate rallado y cocina 3 minutos. Añade los judiones y el resto del agua, sala y cuece a fuego suave 10 minutos, aplastando unos pocos con la cuchara para que la salsa espese sin romper los demás.",
     "Mientras, prepara la rougaille: en una sartén con el resto del aceite, rehoga la cebolla reservada y el ajo laminado 3 minutos; añade los otros dos tomates picados, el tomillo y medio chile en rodajas y cuece 8 minutos, aplastando, hasta tener una salsa espesa. Sala y retira el tomillo.",
     "Para el chutney, tritura el cilantro (guarda unas hojas), la hierbabuena, el último diente de ajo, el otro medio chile, el zumo de la lima, 3 cucharadas de agua y sal hasta tener una salsa verde y fluida.",
     "Limpia la sartén y calienta en ella las tortillas en seco, 30 segundos por lado, hasta que estén flexibles y con alguna mancha tostada. Envuélvelas en un paño para que no se sequen.",
@@ -338,12 +339,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, corta los pimientos en dados pequeños y ralla las zanahorias por el lado grueso.",
+    "Pica la cebolla, corta los pimientos en dados pequeños y ralla las zanahorias por el lado grueso. Pica el ajo, el jengibre y el chile.",
     "Calienta el aceite en una sartén amplia con tapa y sofríe la cebolla y los pimientos 6 minutos a fuego medio, hasta que estén blandos.",
-    "Añade el ajo, el jengibre y el chile picados y el curry y remueve 1 minuto, hasta que huela.",
+    "Añade el ajo, el jengibre, el chile y el curry y remueve 1 minuto, hasta que huela.",
     "Incorpora la zanahoria rallada y cocina 3 minutos; agrega el tomate triturado y cuece 5 minutos, hasta que espese.",
     "Añade las judías, sala y cuece 3 minutos. Haz cuatro huecos con la cuchara y casca un huevo en cada uno.",
-    "Tapa y cuece a fuego bajo 5-6 minutos, hasta que las claras estén cuajadas y las yemas sigan brillantes y temblorosas.",
+    "Tapa y cuece a fuego bajo 5-6 minutos, hasta que las claras estén cuajadas y las yemas sigan brillantes y temblorosas. Mientras, pica el cilantro.",
     "Sirve directamente de la sartén con cilantro picado."
   ],
   nutricion: { kcal: 545, prot: 29, hc: 51, grasa: 25 },
@@ -424,8 +425,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela el boniato y la calabaza y córtalos en trozos de 3 cm. Corta la col en tiras anchas.",
-    "Calienta el aceite en una cazuela y sofríe la cebolla picada 6 minutos a fuego medio. Añade el ajo picado y el tomate rallado y cocina 4 minutos más.",
+    "Pela el boniato y la calabaza y córtalos en trozos de 3 cm. Corta la col en tiras anchas. Pica la cebolla y el ajo y ralla el tomate.",
+    "Calienta el aceite en una cazuela y sofríe la cebolla 6 minutos a fuego medio. Añade el ajo y el tomate y cocina 4 minutos más.",
     "Incorpora el maíz, las alubias, el laurel y el agua, sala y lleva a ebullición.",
     "Añade el boniato y la calabaza y cuece tapado a fuego suave 20 minutos, hasta que estén tiernos.",
     "Añade la col y cuece 10 minutos más, destapado, hasta que esté blanda y el caldo haya espesado con la calabaza deshecha.",
@@ -472,11 +473,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el rof: machaca en el mortero el perejil, 2 dientes de ajo, el habanero sin semillas y sal hasta tener una pasta verde. Haz dos cortes profundos en cada rodaja de pescado y rellénalos con la mitad del rof.",
+    "Prepara el rof: machaca en el mortero el perejil, 2 dientes de ajo, el habanero sin semillas y sal hasta tener una pasta verde. Haz dos cortes profundos en cada rodaja de pescado y rellénalos con la mitad del rof. Pica la cebolla y el ajo restante, y corta en trozos grandes la yuca, la zanahoria y la col.",
     "Calienta el aceite en una cazuela ancha y dora el pescado 2 minutos por cada lado a fuego fuerte. Sácalo y resérvalo.",
-    "En el mismo aceite, sofríe la cebolla picada 8 minutos a fuego medio. Añade el resto del ajo y del rof y el tomate concentrado diluido en 100 ml de agua, y fríe 6 minutos, hasta que la salsa oscurezca y el aceite suba a la superficie.",
-    "Vierte el resto del agua, añade el pescado seco y sala bien. Cuando hierva, echa la yuca, la zanahoria y la col en trozos grandes y cuece 15 minutos.",
-    "Añade la berenjena y la calabaza en trozos grandes y el pescado, y cuece 10-12 minutos más. Saca el pescado y las verduras a una fuente, cúbrelos con un cucharón de caldo y tápalos.",
+    "En el mismo aceite, sofríe la cebolla 8 minutos a fuego medio. Añade el resto del ajo y del rof y el tomate concentrado diluido en 100 ml de agua, y fríe 6 minutos, hasta que la salsa oscurezca y el aceite suba a la superficie.",
+    "Vierte el resto del agua, añade el pescado seco y sala bien. Cuando hierva, echa la yuca, la zanahoria y la col y cuece 15 minutos. Mientras, corta la berenjena y la calabaza en trozos grandes y lava el arroz.",
+    "Añade la berenjena, la calabaza y el pescado, y cuece 10-12 minutos más. Saca el pescado y las verduras a una fuente, cúbrelos con un cucharón de caldo y tápalos.",
     "Mide el caldo que queda: deja unos 400 ml en la cazuela. Echa el arroz lavado, remueve una sola vez y cuece tapado a fuego bajo 20 minutos, hasta que absorba el caldo.",
     "Sube el fuego los últimos 2 minutos sin remover para que se forme en el fondo la costra tostada (xooñ).",
     "Sirve el arroz en una fuente, coloca encima el pescado y las verduras y acompaña con cuartos de lima y la costra rascada del fondo."
@@ -562,12 +563,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Machaca el ajo, el jengibre y el chile con sal hasta tener una pasta. Unta el pescado con la mitad, la cúrcuma y el zumo de medio limón y deja 10 minutos.",
-    "Mientras, lava el arroz y cuécelo con 280 ml de agua y sal, tapado a fuego mínimo, 12 minutos; deja reposar.",
+    "Mientras, lava el arroz y cuécelo con 280 ml de agua y sal, tapado a fuego mínimo, 12 minutos; deja reposar. Pica la cebolla y ralla el tomate.",
     "Calienta el aceite en un cazo y sofríe la cebolla picada 4 minutos. Añade el resto de la pasta de ajo y el tomate rallado y cocina 3 minutos.",
-    "Agrega la leche de coco y el tamarindo y cuece 8 minutos a fuego suave, hasta que la salsa espese y cubra la cuchara. Ajusta de sal y de limón: debe quedar ácida.",
-    "Enciende el grill del horno a máxima potencia. Pon el pescado en una bandeja aceitada a 10 cm del grill y ásalo 4 minutos.",
+    "Agrega la leche de coco y el tamarindo y cuece 8 minutos a fuego suave, hasta que la salsa espese y cubra la cuchara. Ajusta de sal y de limón: debe quedar ácida. Mientras, enciende el grill del horno a máxima potencia y pica el cilantro.",
+    "Pon el pescado en una bandeja aceitada a 10 cm del grill y ásalo 4 minutos.",
     "Dale la vuelta, úntalo con dos cucharadas de salsa y gratínalo 3-4 minutos más, hasta que la superficie tenga manchas tostadas.",
-    "Sirve el pescado sobre el resto de la salsa caliente, con el arroz y cilantro picado."
+    "Sirve el pescado sobre el resto de la salsa caliente, con el arroz y el cilantro."
   ],
   nutricion: { kcal: 695, prot: 39, hc: 67, grasa: 30 },
   etiquetas: ["tradicional", "sin gluten", "picante"],
@@ -653,11 +654,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 280 ml de agua y una pizca de sal, tapado a fuego mínimo, 12 minutos; deja reposar.",
-    "Seca el bacalao y córtalo en trozos grandes. Machaca el ajo y el jengibre en el mortero hasta tener una pasta.",
+    "Seca el bacalao y córtalo en trozos grandes. Machaca el ajo y el jengibre en el mortero hasta tener una pasta. Corta la cebolla en juliana, el chile en rodajas y trocea los tomates.",
     "Calienta el aceite en una cazuela y sofríe la cebolla en juliana 6 minutos a fuego medio, hasta que esté dorada. Añade la pasta de ajo y jengibre, el tomillo y el chile en rodajas y cocina 1 minuto.",
     "Incorpora los tomates troceados y cuece 8 minutos a fuego medio, aplastándolos, hasta que se deshagan en una salsa espesa.",
-    "Coloca el bacalao en la salsa, tapa y cuece 6-7 minutos a fuego suave, hasta que se separe en lascas. Prueba antes de salar: el bacalao ya aporta sal.",
-    "Esparce la cebolleta y el perejil picados por encima y sirve con el arroz."
+    "Coloca el bacalao en la salsa, tapa y cuece 6-7 minutos a fuego suave, hasta que se separe en lascas. Prueba antes de salar: el bacalao ya aporta sal. Mientras, pica la cebolleta y el perejil.",
+    "Esparce la cebolleta y el perejil por encima y sirve con el arroz."
   ],
   nutricion: { kcal: 605, prot: 35, hc: 67, grasa: 22 },
   etiquetas: ["tradicional", "sin gluten", "batch cooking", "bajo en colesterol"],
@@ -782,8 +783,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el boniato con piel en gajos, úntalos con 1/2 cucharada de aceite y sal y ásalos 35 minutos, hasta que estén tiernos y caramelizados.",
-    "Mientras, tritura los pimientos, los tomates, 3/4 de la cebolla, el habanero sin semillas, el ajo y el jengibre hasta tener un puré liso.",
-    "Calienta el resto del aceite en una cazuela y sofríe la cebolla restante picada 3 minutos. Añade el curry, el tomillo y el laurel y remueve 30 segundos.",
+    "Mientras, tritura los pimientos, los tomates, 3/4 de la cebolla, el habanero sin semillas, el ajo y el jengibre hasta tener un puré liso. Pica la cebolla restante.",
+    "Calienta el resto del aceite en una cazuela y sofríe la cebolla restante 3 minutos. Añade el curry, el tomillo y el laurel y remueve 30 segundos.",
     "Vierte el puré y cuece a fuego medio-bajo, removiendo de vez en cuando, 20 minutos, hasta que reduzca a la mitad, pierda el sabor a crudo y el aceite asome por los bordes. Sala.",
     "Extiende el obe ata en una fuente de horno, coloca encima los lomos de merluza salados y hornea 10-12 minutos junto al boniato, hasta que el pescado esté opaco y se separe en lascas.",
     "Sirve la merluza con su salsa y los gajos de boniato."
@@ -828,8 +829,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Tritura el pimiento, los tomates, la mitad de la cebolla, el habanero, el ajo y el jengibre hasta tener un puré liso.",
-    "Calienta 2 cucharadas de aceite en una cazuela apta para horno y sofríe la otra mitad de la cebolla picada 4 minutos. Añade el tomate concentrado y fríelo 3 minutos, removiendo, hasta que se oscurezca.",
+    "Precalienta el horno a 180 °C. Tritura el pimiento, los tomates, la mitad de la cebolla, el habanero, el ajo y el jengibre hasta tener un puré liso. Pica la otra mitad de la cebolla.",
+    "Calienta 2 cucharadas de aceite en una cazuela apta para horno y sofríe la cebolla picada 4 minutos. Añade el tomate concentrado y fríelo 3 minutos, removiendo, hasta que se oscurezca.",
     "Vierte el puré, el curry, el tomillo y el laurel y cuece 12-15 minutos a fuego medio, hasta que reduzca a la mitad y el aceite se separe.",
     "Lava el arroz hasta que el agua salga clara, añádelo a la salsa con el caldo caliente y sal, remueve una vez y lleva a ebullición.",
     "Tapa bien (con papel de aluminio bajo la tapa) y hornea 25 minutos.",
@@ -966,8 +967,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Remoja el pan en 50 ml de la leche.",
-    "Sofríe la cebolla picada en el aceite 6 minutos a fuego medio. Añade el ajo, el curry y la mitad de la cúrcuma y remueve 1 minuto.",
+    "Precalienta el horno a 180 °C. Remoja el pan en 50 ml de la leche. Pica la cebolla y el ajo.",
+    "Sofríe la cebolla en el aceite 6 minutos a fuego medio. Añade el ajo, el curry y la mitad de la cúrcuma y remueve 1 minuto.",
     "Incorpora la carne y cocínala 6-7 minutos, deshaciéndola con la cuchara, hasta que pierda el color rosado.",
     "Fuera del fuego, añade el pan escurrido y desmigado, el chutney, las pasas, las almendras, la ralladura y el zumo del medio limón y sal. Mezcla bien y extiende en una fuente de horno pequeña, apretando.",
     "Bate los huevos con el resto de la leche y una pizca de sal y viértelo sobre la carne. Clava las hojas de laurel en la superficie.",
@@ -1061,9 +1062,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la calabaza, córtala en dados de 3 cm y cuécela en agua con sal 15 minutos, hasta que esté muy tierna. A los 10 minutos añade a la misma olla las judías verdes despuntadas y partidas por la mitad, y sácalas con una espumadera a los 5 minutos, verdes y aún crujientes.",
+    "Mientras se cuece, pica muy fina la cebolla, ralla el ajo y el jengibre y salpimienta los filetes.",
     "Escurre la calabaza y cháfala con un tenedor con la mantequilla, la canela, sal y pimienta: la calabaza a la canela es la guarnición de domingo en Sudáfrica.",
-    "Mientras se cuece, salpimienta los filetes. Calienta 1 cucharada de aceite en una sartén a fuego fuerte y márcalos 2 minutos por cada lado, hasta que estén dorados y apenas hechos en el centro. Resérvalos en un plato.",
-    "Baja a fuego medio, añade el resto del aceite y rehoga la cebolla picada muy fina 5 minutos, rascando el fondo, hasta que esté blanda y dorada. Añade el ajo y el jengibre rallados y la cayena y remueve 1 minuto.",
+    "Calienta 1 cucharada de aceite en una sartén a fuego fuerte y marca los filetes 2 minutos por cada lado, hasta que estén dorados y apenas hechos en el centro. Resérvalos en un plato.",
+    "Baja a fuego medio, añade el resto del aceite y rehoga la cebolla 5 minutos, rascando el fondo, hasta que esté blanda y dorada. Añade el ajo, el jengibre y la cayena y remueve 1 minuto.",
     "Incorpora el tomate triturado, el chutney, la salsa worcestershire, el vinagre y 3 cucharadas de agua. Cuece 6-8 minutos, removiendo, hasta que la salsa esté espesa y brillante, entre dulce y ácida. Prueba de sal.",
     "Devuelve el pavo con su jugo a la sartén y deja que termine de hacerse 2 minutos en la salsa, dándole la vuelta para que quede glaseado y blanco por dentro.",
     "Sirve los filetes con la salsa por encima, el puré de calabaza y las judías verdes."
@@ -1106,11 +1108,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 250 ml de agua y sal, tapado a fuego mínimo, 12 minutos; deja reposar.",
-    "Abre la vaina de vainilla a lo largo y raspa las semillas con la punta de un cuchillo. Corta el solomillo en medallones de 3 cm y sálalos.",
+    "Abre la vaina de vainilla a lo largo y raspa las semillas con la punta de un cuchillo. Corta el solomillo en medallones de 3 cm y sálalos. Pica las chalotas, el ajo y el tomate y ralla el jengibre.",
     "Calienta la mitad del aceite en una sartén a fuego fuerte y dora los medallones 2-3 minutos por cada lado. Sácalos a un plato.",
-    "Baja el fuego y sofríe en la misma sartén las chalotas picadas y la mitad del jengibre rallado 2 minutos. Añade la leche de coco, las semillas y la vaina de vainilla y la pimienta machacada, y cuece 4-5 minutos raspando el fondo, hasta que la salsa espese.",
+    "Baja el fuego y sofríe en la misma sartén las chalotas y la mitad del jengibre 2 minutos. Añade la leche de coco, las semillas y la vaina de vainilla y la pimienta machacada, y cuece 4-5 minutos raspando el fondo, hasta que la salsa espese.",
     "Devuelve los medallones con su jugo y cocina 2-3 minutos más, girándolos, hasta que estén rosados en el centro. Sala y retira la vaina.",
-    "Mientras, en una cazuela con el resto del aceite sofríe el ajo y el resto del jengibre 30 segundos, añade el tomate picado 2 minutos y luego las espinacas, salteando hasta que se ablanden. Sala.",
+    "Mientras, en una cazuela con el resto del aceite sofríe el ajo y el resto del jengibre 30 segundos, añade el tomate 2 minutos y luego las espinacas, salteando hasta que se ablanden. Sala.",
     "Sirve los medallones con la salsa, el arroz y las brèdes."
   ],
   nutricion: { kcal: 670, prot: 50, hc: 54, grasa: 28 },

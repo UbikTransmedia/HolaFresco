@@ -125,7 +125,7 @@ window.RECETAS_SEED.push({
     "Añade la merluza y escáldala 6-7 minutos a fuego muy suave, sin que el caldo llegue a borbotear, hasta que esté opaca. Sácala con una espumadera, quítale la piel y sepárala en trozos grandes. Saca también la zanahoria.",
     "Cuela el caldo por un colador forrado con un paño o papel de cocina para que quede limpio y transparente; necesitas 400 ml (si falta, completa con agua). Mientras, cuece el huevo 10 minutos y pásalo a agua fría.",
     "Remoja las hojas de gelatina 5 minutos en agua fría. Escúrrelas y disuélvelas en el caldo caliente (sin que hierva), removiendo hasta que no quede ningún filamento. Prueba de sal y añade el zumo de medio limón: debe quedar algo salado, porque en frío se nota menos.",
-    "Corta la zanahoria en rodajas finas (puedes darles forma de estrella), el huevo en rodajas y medio limón en medias lunas muy finas. Vierte un dedo de caldo en dos moldes o cuencos hondos y mételos 15 minutos en la nevera, hasta que cuaje.",
+    "Vierte un dedo de caldo en dos moldes o cuencos hondos y mételos 15 minutos en la nevera, hasta que cuaje. Mientras, corta la zanahoria en rodajas finas (puedes darles forma de estrella), el huevo en rodajas y medio limón en medias lunas muy finas.",
     "Coloca sobre esa capa las rodajas de zanahoria, huevo y limón y unas hojas de perejil, en dibujo; encima, los trozos de merluza. Cubre con el resto del caldo templado y refrigera al menos 3 horas, hasta que esté firme.",
     "Antes de servir, cuece las patatas peladas y en trozos 18 minutos en agua con sal, escúrrelas y alíñalas con el aceite de oliva y el eneldo picado. Pasa un cuchillo por el borde de los moldes, sumérgelos 5 segundos en agua caliente y desmóldalos sobre el plato, junto a las patatas templadas."
   ],
@@ -210,8 +210,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en rodajas de medio centímetro y cuécelas 8 minutos en agua con sal, hasta que estén tiernas pero enteras. A la vez, cuece los huevos 10 minutos, enfríalos y córtalos en rodajas.",
-    "Precalienta el horno a 200 °C. Corta el pescado en 4 trozos, sálalo y pásalo por la harina de arroz.",
+    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de medio centímetro y cuécelas 8 minutos en agua con sal, hasta que estén tiernas pero enteras. A la vez, cuece los huevos 10 minutos, enfríalos y córtalos en rodajas.",
+    "Corta el pescado en 4 trozos, sálalo y pásalo por la harina de arroz.",
     "Calienta el aceite en una sartén antiadherente a fuego medio-alto y marca el pescado 1 minuto por cada lado, solo para dorarlo por fuera: terminará de hacerse en el horno.",
     "Mezcla la nata con el yogur, la mitad del eneldo picado, sal y pimienta. Debe quedar una salsa espesa como una nata agria.",
     "En una fuente pequeña, extiende las rodajas de patata solapadas y sálalas. Coloca encima el pescado y, alrededor y sobre él, las rodajas de huevo.",
@@ -297,7 +297,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas.",
-    "Corta el salmón en dados de 3 cm. Mézclalo con el zumo de medio limón, el cilantro molido, el pimentón, la mitad del aceite y sal, y déjalo marinar 10 minutos. Si usas palillos de madera, ponlos en remojo.",
+    "Mientras, corta el salmón en dados de 3 cm. Mézclalo con el zumo de medio limón, el cilantro molido, el pimentón, la mitad del aceite y sal, y déjalo marinar 10 minutos. Si usas palillos de madera, ponlos en remojo.",
     "Corta los tomates en gajos y el pepino en medias lunas. Alíñalos con el resto del aceite, sal, el cilantro y la albahaca picados y unas gotas de limón: es la ensalada georgiana de tomate y pepino de todas las comidas.",
     "Ensarta el salmón en 4 brochetas sin apretar los dados, para que se hagan por igual.",
     "Calienta una plancha o sartén antiadherente a fuego medio-alto y cocina las brochetas 2 minutos por cada uno de sus cuatro lados, hasta que estén doradas por fuera y aún rosadas y jugosas en el centro.",
@@ -424,8 +424,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta una cazuela de fondo grueso a fuego medio-alto sin grasa. Sala el pollo y dóralo 6-8 minutos por todos los lados en su propia grasa, como se hace en Georgia, hasta que esté bien marcado.",
-    "Escalda los tomates 30 segundos en agua hirviendo, pélalos y pícalos. Añade a la cazuela el aceite de ajo y la parte verde de la cebolleta en rodajas, rehoga 1 minuto y agrega el tomate, el cilantro molido, el fenogreco, el pimentón y el laurel.",
+    "Escalda los tomates 30 segundos en agua hirviendo, pélalos y pícalos. Calienta una cazuela de fondo grueso a fuego medio-alto sin grasa. Sala el pollo y dóralo 6-8 minutos por todos los lados en su propia grasa, como se hace en Georgia, hasta que esté bien marcado.",
+    "Añade a la cazuela el aceite de ajo y la parte verde de la cebolleta en rodajas, rehoga 1 minuto y agrega el tomate, el cilantro molido, el fenogreco, el pimentón y el laurel.",
     "Tapa y cuece a fuego suave 25 minutos, removiendo de vez en cuando, hasta que el pollo esté tierno y el tomate se haya convertido en una salsa espesa. Si se seca, añade un chorrito de agua.",
     "Mientras, prepara el mchadi: mezcla la harina de maíz con una pizca de sal y unos 150 ml de agua templada, añadiendo poco a poco, hasta lograr una masa blanda que no se pegue. Forma 4 tortitas ovaladas de 1 cm de grosor, mojándote las manos.",
     "Unta una sartén antiadherente con el aceite de oliva y cocina las tortitas a fuego medio-bajo 5-6 minutos por cada lado, hasta que tengan costra dorada y suenen huecas al golpearlas.",
@@ -466,12 +466,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas. Cuece 250 g de ellas enteras en agua con sal 20 minutos y aplástalas en puré sin nada más. Ralla el resto (550 g) por la parte más fina del rallador.",
+    "Pela las patatas. Cuece 250 g de ellas enteras en agua con sal 20 minutos y aplástalas en puré sin nada más. Mientras se cuecen, ralla el resto (550 g) por la parte más fina del rallador.",
     "Pon la patata rallada en un paño limpio y retuércelo sobre un cuenco para sacar todo el líquido que puedas. Deja reposar ese líquido 5 minutos, tira el agua con cuidado y quédate con el almidón blanco del fondo.",
     "En un bol, mezcla la patata rallada escurrida, el puré, el almidón recuperado, la fécula de patata y 1 cucharadita de sal. Amasa hasta tener una masa gris clara, firme y moldeable.",
-    "Para el relleno, mezcla el cerdo picado con la mitad de la parte verde de la cebolleta picada, la mejorana, sal, pimienta y 1 cucharada de agua fría.",
+    "Pon a calentar una cazuela grande con agua y sal para cocer los cepelinai. Para el relleno, mezcla el cerdo picado con la mitad de la parte verde de la cebolleta picada, la mejorana, sal, pimienta y 1 cucharada de agua fría.",
     "Divide la masa en 4 porciones. Con las manos mojadas, aplana cada una en la palma, pon en el centro una cuarta parte del relleno y cierra dándole forma de dirigible alargado, sin grietas.",
-    "Lleva a ebullición una cazuela grande con agua y sal, baja el fuego para que solo tiemble y sumerge los cepelinai. Remueve con cuidado para que no se peguen al fondo y cuécelos 25 minutos, hasta que floten y la masa esté translúcida.",
+    "Cuando el agua hierva, baja el fuego para que solo tiemble y sumerge los cepelinai. Remueve con cuidado para que no se peguen al fondo y cuécelos 25 minutos, hasta que floten y la masa esté translúcida.",
     "Mientras, corta la panceta en tiras y dórala en una sartén sin grasa a fuego medio 5 minutos, hasta que esté crujiente. Añade el resto de la cebolleta 30 segundos, retira del fuego y deja templar; mezcla con el yogur y el eneldo picado.",
     "Saca los cepelinai con una espumadera, escúrrelos bien y sírvelos con la salsa por encima."
   ],
@@ -601,9 +601,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el cordero en una cazuela con 300 ml de agua y sal. Lleva a ebullición, retira la espuma que suba y cuece tapado a fuego suave 35 minutos.",
     "Mientras, separa las hojas del estragón y del cilantro (guarda algunas enteras para el final) y pícalas groseramente con los tallos tiernos. Corta la parte verde de la cebolleta en rodajas.",
-    "Añade al cordero el aceite de ajo, la cebolleta y todas las hierbas picadas; parecerá muchísimo, pero se reducen enseguida. Remueve, tapa y cuece 15 minutos más.",
+    "Añade al cordero el aceite de ajo, la cebolleta y todas las hierbas picadas; parecerá muchísimo, pero se reducen enseguida. Remueve, tapa y cuece 15 minutos más. Mientras, pela las patatas, córtalas en trozos grandes y cuécelas 18-20 minutos en agua con sal; escúrrelas.",
     "Parte las uvas por la mitad y añádelas con el zumo de medio limón. Cuece 10 minutos sin tapa, hasta que el cordero esté muy tierno y el caldo, verde y aromático, se haya reducido a la mitad. Prueba: debe quedar claramente ácido; ajusta con más limón y sal.",
-    "Mientras, pela las patatas, córtalas en trozos grandes y cuécelas 18-20 minutos en agua con sal. Escúrrelas.",
     "Sirve el chakapuli en platos hondos con su caldo, las patatas al lado para mojar y las hojas de estragón y cilantro reservadas por encima, con una vuelta de pimienta."
   ],
   nutricion: { kcal: 465, prot: 35, hc: 36, grasa: 20 },
@@ -685,7 +684,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Saca la carne de la nevera 20 minutos antes. Pela la chirivía y la patata, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos, hasta que estén muy tiernas.",
     "Para la salsa, pon en un cazo los arándanos, el azúcar, el zumo de naranja y la mejorana. Cuece a fuego medio 8-10 minutos, hasta que las bayas revienten y la salsa espese y brille. Sala ligeramente.",
-    "Escurre las raíces y aplástalas con la leche caliente, 3 cucharaditas de aceite y sal hasta tener un puré fino. Tápalo.",
+    "Calienta la leche. Escurre las raíces y aplástalas con la leche caliente, 3 cucharaditas de aceite y sal hasta tener un puré fino. Tápalo.",
     "Seca bien los medallones, sálalos y úntalos con el aceite restante. Márcalos en una sartén muy caliente 3 minutos por cada lado para un punto rosado (4 si los quieres más hechos), sin moverlos, para que se forme costra.",
     "Deja reposar la carne 3 minutos sobre una tabla; vierte en la sartén 2 cucharadas de agua, raspa el fondo y añade ese jugo a la salsa.",
     "Sirve el puré en la base, el solomillo encima o al lado con su jugo, la salsa de arándanos por encima y una vuelta de pimienta."

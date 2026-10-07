@@ -39,8 +39,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas con piel en agua con sal y el laurel 15 minutos desde que hierva: deben estar casi tiernas, no deshechas. Escúrrelas y déjalas humear 5 minutos para que se sequen.",
-    "Precalienta el horno a 220 °C. Pon las patatas en una bandeja y dales un golpe seco con el puño o con la base de un vaso para abrirlas sin romperlas: son las batatas a murro. Riégalas con el aceite de oliva, espolvorea sal gorda y ásalas 20 minutos, hasta que los bordes estén dorados y crujientes.",
+    "Precalienta el horno a 220 °C. Cuece las patatas con piel en agua con sal y el laurel 15 minutos desde que hierva: deben estar casi tiernas, no deshechas. Escúrrelas y déjalas humear 5 minutos para que se sequen.",
+    "Pon las patatas en una bandeja y dales un golpe seco con el puño o con la base de un vaso para abrirlas sin romperlas: son las batatas a murro. Riégalas con el aceite de oliva, espolvorea sal gorda y ásalas 20 minutos, hasta que los bordes estén dorados y crujientes.",
     "Seca bien las patas de pulpo con papel de cocina y úntalas con 1 cucharadita del aceite de ajo. Ponlas en la bandeja entre las patatas y asa 10-12 minutos más, hasta que la piel esté tostada y las ventosas se ricen.",
     "Mientras, quita los tallos duros del kale y trocea las hojas. Escáldalas 3 minutos en agua hirviendo con sal y escúrrelas apretando un poco.",
     "Calienta 1 cucharadita del aceite de ajo en una sartén a fuego medio y saltea el kale 2 minutos, hasta que brille. Sálalo.",
@@ -82,7 +82,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Arroz pilaf: lava el arroz hasta que el agua salga casi clara y escúrrelo. Calienta el aceite en un cazo, nacara el arroz 1 minuto removiendo, añade el agua caliente, sal y el laurel, tapa y cuece 12 minutos a fuego mínimo. Apaga y deja reposar tapado 5 minutos.",
-    "Reduce el caldo de pescado en un cazo pequeño a fuego vivo con una tira de piel de limón, 8-10 minutos, hasta que quede un tercio. Retira la piel.",
+    "Mientras se cuece el arroz, reduce el caldo de pescado en un cazo pequeño a fuego vivo con una tira de piel de limón, 8-10 minutos, hasta que quede un tercio. Retira la piel.",
     "Añade la nata y deja hervir suavemente 3-4 minutos, hasta que la salsa napé el dorso de una cuchara. Prueba y ajusta de sal y pimienta.",
     "Quita los tallos duros de la acedera, enrolla las hojas y córtalas en tiras finas. No las añadas aún: se cuecen en segundos.",
     "Corta el lomo de salmón en horizontal en 2 escalopes de 1 cm de grosor y salpimiéntalos. Calienta una sartén antiadherente sin grasa a fuego fuerte y marca los escalopes 30-40 segundos por cada lado: deben quedar rosados y jugosos en el centro.",
@@ -297,8 +297,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata y el colinabo y córtalos en dados, el colinabo algo más pequeño porque tarda más. Cuécelos juntos en agua con sal 18-20 minutos, hasta que se deshagan al pincharlos.",
-    "Precalienta el horno a 200 °C. Pica gruesos los copos de avena con un cuchillo y mézclalos con el eneldo picado, la ralladura del limón, 1 cucharada de aceite, sal y pimienta.",
+    "Precalienta el horno a 200 °C. Pela la patata y el colinabo y córtalos en dados, el colinabo algo más pequeño porque tarda más. Cuécelos juntos en agua con sal 18-20 minutos, hasta que se deshagan al pincharlos.",
+    "Mientras se cuecen, pica gruesos los copos de avena con un cuchillo y mézclalos con el eneldo picado, la ralladura del limón, 1 cucharada de aceite, sal y pimienta.",
     "Seca los lomos de bacalao, sálalos ligeramente y colócalos en una bandeja con papel. Unta la parte de arriba con la mostaza y presiona encima la mezcla de avena para formar una costra.",
     "Hornea 12-14 minutos, hasta que la costra esté dorada y el pescado se separe en lascas blancas y opacas.",
     "Escurre la patata y el colinabo y cháfalos con un tenedor con la leche caliente, el resto del aceite, la nuez moscada, pimienta y el cebollino picado: debe quedar un puré rústico, no liso.",
@@ -382,9 +382,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la quinoa en un colador y cuécela 12-14 minutos en abundante agua con sal. Escúrrela y déjala reposar tapada.",
-    "Corta las zanahorias y el hinojo en juliana fina. Ponlos en una sartén con la mitad del aceite, sal y 3 cucharadas de agua, tapa y cocina a fuego suave 15 minutos, removiendo de vez en cuando, hasta que estén muy tiernos y brillantes, sin tomar color. Añade al final la ralladura de media naranja.",
-    "Precalienta el horno a 200 °C. Seca el rape y sálalo. Dóralo en una sartén apta para horno con el resto del aceite 2 minutos por cada lado y termínalo en el horno 6-8 minutos, hasta que esté opaco y firme pero jugoso.",
+    "Precalienta el horno a 200 °C. Lava la quinoa en un colador y cuécela 12-14 minutos en abundante agua con sal. Escúrrela y déjala reposar tapada.",
+    "Mientras se cuece la quinoa, corta las zanahorias y el hinojo en juliana fina. Ponlos en una sartén con la mitad del aceite, sal y 3 cucharadas de agua, tapa y cocina a fuego suave 15 minutos, removiendo de vez en cuando, hasta que estén muy tiernos y brillantes, sin tomar color. Añade al final la ralladura de media naranja.",
+    "Seca el rape y sálalo. Dóralo en una sartén apta para horno con el resto del aceite 2 minutos por cada lado y termínalo en el horno 6-8 minutos, hasta que esté opaco y firme pero jugoso.",
     "Mientras, exprime la naranja. Pon el zumo en un cazo con el azafrán y redúcelo a fuego medio 3-4 minutos, hasta que quede la mitad.",
     "Retira el cazo del fuego y añade la mantequilla fría dado a dado, batiendo con varillas: la salsa debe quedar ligada, brillante y amarilla. Salpimienta y añade el estragón picado.",
     "Sirve la quinoa y la fondue de verduras, coloca encima el rape en medallones gruesos y napa con la salsa de azafrán."
@@ -568,7 +568,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el lacón en una cazuela cubierto de agua fría, llévalo a ebullición y tira el agua: así se va el exceso de sal. Cúbrelo de nuevo con agua limpia, añade el laurel y la pimienta en grano y cuece a fuego suave 1 hora, hasta que una brocheta entre sin esfuerzo.",
+    "Desala el lacón con antelación: 24 horas en agua fría, cambiando el agua dos veces. Pon el lacón en una cazuela cubierto de agua fría, llévalo a ebullición y tira el agua: así se va el exceso de sal. Cúbrelo de nuevo con agua limpia, añade el laurel y la pimienta en grano y cuece a fuego suave 1 hora, hasta que una brocheta entre sin esfuerzo.",
     "Pela las patatas, pártelas en trozos iguales y cuécelas aparte en agua sin sal 20 minutos (el lacón ya aporta la sal del plato).",
     "Saca el lacón, tápalo con papel de aluminio y aparta un litro de su caldo en otra cazuela. Corta la col en gajos finos, quitando el tronco, y cuécela en ese caldo 6-8 minutos, hasta que esté tierna pero aún verde.",
     "Salsa de perejil: funde la mantequilla, añade la harina de arroz y remueve 1 minuto. Vierte la leche templada poco a poco batiendo con varillas y 4 cucharadas del caldo de cocción, y hierve suave 4 minutos, hasta que espese.",
@@ -875,7 +875,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Ensalada: disuelve el azúcar y una pizca de sal en 100 ml de agua fría con el vinagre y mételo en la nevera. Lava la lechuga, trocéala y sécala bien.",
     "Masa de nokedli: mezcla la harina de arroz, el almidón de tapioca y media cucharadita de sal. Añade 1 huevo y el agua y bate con una cuchara de madera hasta tener una masa espesa y lisa que caiga despacio. Déjala reposar 10 minutos.",
-    "Lleva a ebullición una olla grande de agua con sal. Pon la masa en una tabla mojada y, con un cuchillo también mojado, ve raspando tiras pequeñas directamente al agua (o usa un rallador de spätzle). Cuando suban a la superficie, deja 1 minuto más y sácalos con una espumadera.",
+    "Mientras reposa, lleva a ebullición una olla grande de agua con sal. Pon la masa en una tabla mojada y, con un cuchillo también mojado, ve raspando tiras pequeñas directamente al agua (o usa un rallador de spätzle). Cuando suban a la superficie, deja 1 minuto más y sácalos con una espumadera.",
     "Funde la mantequilla en una sartén grande a fuego medio y saltea los nokedli escurridos 2 minutos.",
     "Bate los 3 huevos restantes con sal y pimienta, viértelos sobre los nokedli y remueve con suavidad 1-2 minutos, hasta que el huevo cuaje en grumos cremosos que los envuelvan. Apaga y añade el cebollino picado.",
     "Justo antes de servir, vierte el aliño frío sobre la lechuga y espolvorea el pimentón. Sirve los nokedli bien calientes con la ensalada al lado."

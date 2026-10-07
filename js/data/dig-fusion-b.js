@@ -520,10 +520,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el aliño: mezcla el tamari, el vinagre de arroz, el azúcar (menos una pizca), el agua y el aceite de sésamo hasta que el azúcar se disuelva, y mételo en la nevera.",
+    "Pon a hervir una olla de agua para los brotes y los fideos. Mientras, prepara el aliño: mezcla el tamari, el vinagre de arroz, el azúcar (menos una pizca), el agua y el aceite de sésamo hasta que el azúcar se disuelva, y mételo en la nevera.",
     "Bate los huevos con una pizca de sal y la pizca de azúcar. Unta una sartén antiadherente con el aceite de girasol a fuego medio-bajo y cuaja dos tortillas finísimas, 1 minuto por cada lado, sin que se doren. Enróllalas y córtalas en hilos finos.",
-    "Escalda los brotes de soja 1 minuto en agua hirviendo y enfríalos en agua fría. Corta el pepino y el jamón en bastones finos y el tomate en gajos. Tuesta el sésamo en la sartén 2 minutos.",
-    "Cuece los fideos según el paquete, pásalos por agua muy fría frotándolos con las manos para quitar el almidón y escúrrelos a conciencia: si quedan húmedos, aguan el aliño.",
+    "Escalda los brotes de soja 1 minuto en el agua hirviendo, sácalos con una espumadera y enfríalos en agua fría. Corta el pepino y el jamón en bastones finos y el tomate en gajos. Tuesta el sésamo en la sartén 2 minutos.",
+    "Cuece los fideos en la misma agua según el paquete, pásalos por agua muy fría frotándolos con las manos para quitar el almidón y escúrrelos a conciencia: si quedan húmedos, aguan el aliño.",
     "Reparte los fideos en platos hondos y coloca encima, en sectores como los radios de una rueda, el pepino, el jamón, la tortilla, el tomate y los brotes.",
     "Riega con el aliño frío y termina con el jengibre rallado y el sésamo tostado."
   ],
@@ -567,10 +567,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los fideos de arroz según el paquete (3-4 minutos), pásalos por agua fría frotándolos con las manos para quitarles el almidón y escúrrelos a conciencia.",
+    "Pon a hervir agua y escalda en ella los brotes de soja 1 minuto; sácalos con una espumadera y enfríalos en agua fría. En la misma agua, cuece los fideos de arroz según el paquete (3-4 minutos), pásalos por agua fría frotándolos con las manos para quitarles el almidón y escúrrelos a conciencia.",
     "Prepara la teriyaki: mezcla el tamari, el azúcar, el jengibre rallado, la maicena y 3 cucharadas de agua.",
     "Pela una naranja a lo vivo y saca los gajos; exprime sobre un bol las membranas y la otra naranja. Añade al zumo el vinagre de arroz, el aceite de oliva y una pizca de sal: es el aliño.",
-    "Corta la zanahoria y el pepino en cintas con el pelador y la lechuga en tiras. Escalda los brotes de soja 1 minuto y enfríalos en agua fría.",
+    "Corta la zanahoria y el pepino en cintas con el pelador y la lechuga en tiras.",
     "Corta el halloumi en 6 lonchas de 1 cm y sécalas. Dóralas en una sartén antiadherente sin aceite a fuego medio-alto 2 minutos por cada lado, hasta que tengan marcas doradas.",
     "Baja el fuego, vierte la teriyaki y gira las lonchas 1 minuto, hasta que la salsa espese y las deje lacadas.",
     "Mezcla los fideos con las verduras, los gajos de naranja y el aliño, coloca encima el halloumi caliente con el resto de la salsa y termina con el sésamo y el cebollino picado."
@@ -659,8 +659,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el kétchup casero: pon en un cazo el tomate concentrado, el tomate triturado, el azúcar, el vinagre y el tamari y cuece a fuego suave 5 minutos, removiendo, hasta que espese y brille.",
-    "Cuece los espaguetis en abundante agua con sal 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua de cocción y escúrrelos.",
+    "Pon a hervir abundante agua con sal para la pasta. Mientras, prepara el kétchup casero: pon en un cazo el tomate concentrado, el tomate triturado, el azúcar, el vinagre y el tamari y cuece a fuego suave 5 minutos, removiendo, hasta que espese y brille.",
+    "Cuece los espaguetis en el agua hirviendo 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua de cocción y escúrrelos.",
     "Mientras, corta el pimiento verde en tiras finas y la parte verde de la cebolleta en trozos de 2 cm.",
     "Calienta el aceite en una sartén amplia y dora el bacon a fuego medio 3 minutos, hasta que suelte su grasa. Añade el pimiento y saltea 3 minutos, hasta que se ablande pero siga verde.",
     "Incorpora el kétchup casero y deja que se tueste un poco contra el fondo 1 minuto: ese punto caramelizado es el sabor del napolitan.",
@@ -704,8 +704,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el pesto: tritura en el vaso de la batidora (o maja en el mortero) dos tercios de los cacahuetes, las hojas de albahaca, cilantro y menta, el jengibre pelado, el aceite de ajo, 2 cucharaditas de aceite de girasol, el zumo de una lima, la salsa de pescado, el azúcar y 2 cucharadas de agua, hasta tener una pasta verde con algo de textura.",
-    "Corta las judías en trozos de 4 cm y cuécelas en abundante agua con sal 5 minutos. Sácalas con una espumadera y, en la misma agua, cuece los fideos según el paquete. Reserva medio vaso del agua y escurre.",
+    "Pon a hervir abundante agua con sal. Mientras, prepara el pesto: tritura en el vaso de la batidora (o maja en el mortero) dos tercios de los cacahuetes, las hojas de albahaca, cilantro y menta, el jengibre pelado, el aceite de ajo, 2 cucharaditas de aceite de girasol, el zumo de una lima, la salsa de pescado, el azúcar y 2 cucharadas de agua, hasta tener una pasta verde con algo de textura.",
+    "Corta las judías en trozos de 4 cm y cuécelas en el agua hirviendo 5 minutos. Sácalas con una espumadera y, en la misma agua, cuece los fideos según el paquete. Reserva medio vaso del agua y escurre.",
     "Abre los tubos de calamar, haz cortes en rombo en la cara interior sin llegar a atravesarla y córtalos en trozos de 4 cm. Sécalos muy bien.",
     "Calienta una sartén a fuego muy fuerte con el resto del aceite y marca el calamar con sal 1 minuto por cada lado, hasta que se enrosque y se dore. Ni un minuto más: se pondría correoso.",
     "Mezcla fuera del fuego los fideos y las judías con el pesto y un chorrito del agua de cocción, hasta que quede una salsa cremosa que los envuelva.",
@@ -802,7 +802,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la salsa roja: tritura los piquillos con el pimentón, el azúcar, 1 cucharadita de tamari y unas gotas del aceite de sésamo hasta que quede lisa. Resérvala.",
+    "Pon a hervir un cazo de agua para los namul. Mientras, prepara la salsa roja: tritura los piquillos con el pimentón, el azúcar, 1 cucharadita de tamari y unas gotas del aceite de sésamo hasta que quede lisa. Resérvala.",
     "Haz los namul: escalda las espinacas 30 segundos y los brotes de soja 1 minuto en agua hirviendo y escúrrelos, apretando bien las espinacas. Corta la zanahoria y el calabacín en juliana y saltéalos por separado en la paellera con el aceite de ajo, 2 minutos cada uno, con sal. Aliña cada verdura con unas gotas de tamari y de aceite de sésamo y resérvalas.",
     "Corta el tofu en dados de 2 cm, sécalos y dóralos en la paellera con 1 cucharadita del aceite de oliva 5 minutos, hasta que estén dorados por todas las caras. Riégalos con 1 cucharada de tamari y resérvalos.",
     "Pon el resto del aceite de oliva en la paellera, añade el arroz y nacáralo 1 minuto. Vierte el caldo caliente con el resto del tamari, reparte el arroz de forma uniforme y no lo remuevas más.",

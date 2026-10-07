@@ -316,9 +316,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas, pártelas por la mitad y alíñalas con 1 cucharadita de aceite, ralladura de limón y sal.",
-    "Saca el pez espada de la nevera 10 minutos antes, sécalo bien y úntalo con 1 cucharadita de aceite.",
-    "En una sartén con 1 cucharadita de aceite, saltea el maíz 3 minutos a fuego vivo hasta que algunos granos se tuesten. Añade los tomates cherry partidos y la cebolleta en aros y cocina 1 minuto.",
+    "Saca el pez espada de la nevera. Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas; mientras, parte los tomates cherry por la mitad y corta la cebolleta en aros y la albahaca en tiras. Escurre las patatas, pártelas por la mitad y alíñalas con 1 cucharadita de aceite, ralladura de limón y sal.",
+    "Seca bien el pez espada y úntalo con 1 cucharadita de aceite.",
+    "En una sartén con 1 cucharadita de aceite, saltea el maíz 3 minutos a fuego vivo hasta que algunos granos se tuesten. Añade los tomates cherry y la cebolleta y cocina 1 minuto.",
     "Agrega los arándanos, el vinagre y una pizca de sal, y retira del fuego en cuanto los primeros arándanos empiecen a reventar (1-2 minutos): la salsa debe quedar templada, con fruta entera y algo de jugo morado. Termina con la otra cucharadita de aceite, el zumo de medio limón y la albahaca en tiras.",
     "Calienta la plancha a fuego fuerte. Sala el pez espada y márcalo 2-3 minutos por lado, sin moverlo, hasta que tenga marcas doradas y el centro esté apenas rosado: el pez espada pasado se vuelve seco y fibroso.",
     "Deja reposar el pescado 2 minutos, sírvelo con la salsa de arándanos por encima, las patatas al lado y pimienta recién molida."
@@ -456,7 +456,7 @@ window.RECETAS_SEED.push({
     "Dora el bacon en una sartén sin aceite a fuego medio, 3-4 minutos por lado, hasta que esté crujiente. Escúrrelo sobre papel de cocina y limpia la sartén.",
     "En la misma sartén, con el aceite, marca los filetes de pavo salados 2 minutos por lado, hasta que estén dorados y sin rastro rosado. Córtalos en lonchas.",
     "Para la Mornay, derrite la mantequilla en un cazo, añade la harina de arroz, remueve 1 minuto y vierte la leche poco a poco batiendo. Cuece 4-5 minutos a fuego suave hasta que espese; fuera del fuego, añade dos tercios del parmesano, la nuez moscada y pimienta blanca.",
-    "Precalienta el grill del horno a 230 °C. Tuesta ligeramente el pan y colócalo en una fuente de horno (2 rebanadas por persona, una junto a otra).",
+    "Precalienta el grill del horno a 230 °C. Tuesta ligeramente el pan y colócalo en una fuente de horno (2 rebanadas por persona, una junto a otra). Corta el tomate en 4 rodajas.",
     "Reparte el pavo sobre el pan, pon encima 2 rodajas de tomate por ración y cubre todo con la salsa, dejando que caiga por los lados. Espolvorea el resto del parmesano y una pizca de pimentón.",
     "Gratina 4-5 minutos, hasta que la salsa tenga manchas doradas y burbujee.",
     "Coloca encima el bacon cruzado en aspa, espolvorea perejil picado y sirve enseguida con la rúcula al lado."
@@ -500,9 +500,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos, hasta que se deshagan al pincharlas.",
-    "Mientras, calienta el aceite en una sartén y dora la ternera picada a fuego fuerte, separándola con una cuchara, 5-6 minutos, hasta que pierda el color rosado y tenga zonas tostadas. Añade la zanahoria rallada, la cebolleta en aros, el pimentón y el tomillo, y cocina 3 minutos más. Sala y pimienta.",
-    "Prepara el maíz cremoso: tritura la mitad del maíz con 3 cucharadas de la leche hasta tener una crema y mézclala con los granos enteros restantes y una pizca de sal.",
-    "Precalienta el horno a 200 °C. Escurre las patatas y cháfalas con la mantequilla y el resto de la leche caliente hasta tener un puré liso; salpimiéntalo.",
+    "Mientras, ralla la zanahoria y corta la cebolleta en aros. Calienta el aceite en una sartén y dora la ternera picada a fuego fuerte, separándola con una cuchara, 5-6 minutos, hasta que pierda el color rosado y tenga zonas tostadas. Añade la zanahoria, la cebolleta, el pimentón y el tomillo, y cocina 3 minutos más. Sala y pimienta.",
+    "Precalienta el horno a 200 °C. Prepara el maíz cremoso: tritura la mitad del maíz con 3 cucharadas de la leche hasta tener una crema y mézclala con los granos enteros restantes y una pizca de sal.",
+    "Escurre las patatas y cháfalas con la mantequilla y el resto de la leche caliente hasta tener un puré liso; salpimiéntalo.",
     "Monta el pastel en una fuente pequeña: la carne en el fondo bien apretada, el maíz cremoso encima y el puré cubriendo todo. Marca surcos en la superficie con un tenedor.",
     "Hornea 20 minutos y pon el grill los últimos 3-4 minutos, hasta que las crestas del puré estén doradas.",
     "Deja reposar 5 minutos antes de cortar para que las capas se mantengan, y sirve con una ensalada de lechuga y pepino."
@@ -594,11 +594,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara la salsa: mezcla el zumo de piña, el tamari, el azúcar moreno, el jengibre rallado, el aceite de ajo, el tomate concentrado y el vinagre. Reserva un tercio para glasear.",
     "Pon los contramuslos en una bolsa o fiambrera con los otros dos tercios y marínalos al menos 30 minutos en la nevera (mejor toda la noche).",
-    "Lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Precalienta el horno a 220 °C con el grill. Escurre el pollo (desecha esa marinada) y colócalo abierto sobre una rejilla con una bandeja debajo.",
+    "Mientras se marina, lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Unos 15 minutos antes de terminar el marinado, precalienta el horno a 220 °C con el grill.",
+    "Escurre el pollo (desecha esa marinada) y colócalo abierto sobre una rejilla con una bandeja debajo.",
     "Mientras, hierve en un cazo la salsa reservada 3-4 minutos, hasta que espese y brille como un jarabe.",
     "Asa el pollo 18-20 minutos dándole la vuelta a mitad y pintándolo con la salsa reducida cada vez que lo gires, hasta que esté lacado, con los bordes caramelizados, y su jugo salga transparente.",
-    "Marca las rodajas de piña en la plancha caliente 2 minutos por lado, hasta que tengan rayas doradas.",
+    "Mientras se asa el pollo, marca las rodajas de piña en la plancha caliente 2 minutos por lado, hasta que tengan rayas doradas.",
     "Sirve el pollo en tiras sobre el arroz, con la piña, la cebolleta en aros y el sésamo, y el resto de la salsa por encima."
   ],
   nutricion: { kcal: 660, prot: 42, hc: 83, grasa: 18 },
@@ -777,9 +777,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas y pártelas por la mitad.",
-    "Prepara la salsa: tritura el yogur, la mayonesa, las anchoas, las hojas de estragón, el perejil, la mitad del cebollino, la cebolleta, el zumo de medio limón y pimienta hasta que quede lisa y de un verde intenso. Prueba antes de salar: las anchoas ya salan.",
-    "Seca los filetes de pavo, úntalos con el aceite, sálalos y déjalos a temperatura ambiente mientras se calienta la plancha.",
+    "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas.",
+    "Mientras, prepara la salsa: tritura el yogur, la mayonesa, las anchoas, las hojas de estragón, el perejil, la mitad del cebollino, la cebolleta, el zumo de medio limón y pimienta hasta que quede lisa y de un verde intenso. Prueba antes de salar: las anchoas ya salan.",
+    "Escurre las patatas y pártelas por la mitad. Seca los filetes de pavo, úntalos con el aceite, sálalos y déjalos a temperatura ambiente mientras se calienta la plancha.",
     "Asa el pavo a fuego medio-alto 3 minutos por lado sin moverlo, hasta que tenga marcas doradas y el centro esté blanco pero jugoso. Déjalo reposar 3 minutos y córtalo en tiras.",
     "Abre los cogollos en cuartos y corta el pepino y los rábanos en láminas finas. Alíñalos con unas gotas de limón y sal.",
     "Sirve el pavo con las patatas y la ensalada, con la salsa Green Goddess por encima y el resto del cebollino picado."
@@ -822,10 +822,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Corta las patatas en dados de 2 cm, mézclalas con 2 cucharaditas de aceite, las hojas de tomillo y sal, y ásalas 30 minutos, removiendo a mitad, hasta que estén doradas.",
+    "Saca las chuletas de la nevera. Precalienta el horno a 210 °C. Corta las patatas en dados de 2 cm, mézclalas con 2 cucharaditas de aceite, las hojas de tomillo y sal, y ásalas 30 minutos, removiendo a mitad, hasta que estén doradas.",
     "Para el chow-chow, pica la col, los pimientos y la zanahoria en dados muy pequeños (de 0,5 cm) y mézclalos con 1 cucharadita de sal. Déjalos 10 minutos para que suelten agua y escúrrelos apretando.",
     "En un cazo, hierve el vinagre con el azúcar, las semillas de mostaza y la cúrcuma. Añade las verduras escurridas y cuece 5 minutos a fuego suave, hasta que estén tiernas pero con algo de mordida y de color amarillo dorado. Deja que se enfríe en su líquido.",
-    "Saca las chuletas de la nevera 15 minutos antes, sécalas y haz unos cortes en el borde para que no se curven. Úntalas con el resto del aceite y salpimiéntalas.",
+    "Seca las chuletas y haz unos cortes en el borde para que no se curven. Úntalas con el resto del aceite y salpimiéntalas.",
     "Asa las chuletas en la plancha muy caliente 3-4 minutos por lado, sin moverlas, hasta que estén doradas y el centro alcance 63 °C (ligeramente rosado y jugoso). Déjalas reposar 3 minutos.",
     "Sirve cada chuleta con las patatas y un buen montón de chow-chow escurrido por encima."
   ],
@@ -865,8 +865,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Asa los tomates enteros en la plancha o sartén muy caliente 8-10 minutos, girándolos, hasta que la piel esté ennegrecida a trozos. Tritúralos con la cebolleta, la mitad del cilantro, el zumo de media lima, el comino y sal: salsa roja sin picante.",
-    "Corta la patata en dados de 1 cm y cuécelos 4 minutos en agua con sal; escúrrelos y sécalos bien.",
+    "Pon a calentar un cazo con agua y sal. Asa los tomates enteros en la plancha o sartén muy caliente 8-10 minutos, girándolos, hasta que la piel esté ennegrecida a trozos; entretanto, corta la patata en dados de 1 cm. Tritura los tomates con la cebolleta, la mitad del cilantro, el zumo de media lima, el comino y sal: salsa roja sin picante.",
+    "Cuece los dados de patata 4 minutos en el agua hirviendo; escúrrelos y sécalos bien.",
     "Dora el bacon en una sartén sin aceite hasta que esté crujiente; sácalo, escúrrelo en papel y desmenúzalo. Retira casi toda la grasa de la sartén, añade el aceite y dora la patata a fuego medio 6-8 minutos, hasta que esté dorada por todas sus caras. Sala.",
     "Bate los huevos con una pizca de sal, viértelos sobre la patata y remueve a fuego suave con una espátula, formando pliegues grandes. Retira del fuego cuando aún estén brillantes: terminan de cuajar con el calor residual.",
     "Calienta las tortillas en una sartén seca 20-30 segundos por lado, hasta que tengan alguna mancha tostada, y guárdalas en un paño.",
@@ -952,12 +952,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las espinacas, escúrrelas bien y pícalas grueso. Corta en aros los tallos verdes de la cebolleta y reserva un puñado para el final.",
+    "Lava las espinacas, escúrrelas bien y pícalas grueso. Corta en aros los tallos verdes de la cebolleta y reserva un puñado para el final. Corta los tomates en rodajas con una pizca de sal.",
     "Calienta el aceite de ajo en una sartén grande a fuego fuerte y extiende la ternera picada; déjala 2 minutos sin moverla para que se tueste y después sepárala con la espátula 2-3 minutos más, hasta que no quede rastro rosado y tenga zonas doradas.",
     "Añade la cebolleta, el orégano, la nuez moscada, sal y pimienta y remueve 1 minuto.",
     "Echa las espinacas a puñados, removiendo, y cocínalas 3-4 minutos, hasta que se hayan arrugado y no quede líquido en el fondo: si queda agua, el revuelto se aguará.",
     "Bate los huevos con la mitad del parmesano y una pizca de sal. Baja el fuego a medio-bajo, viértelos sobre la carne y las espinacas y remueve despacio con la espátula 2-3 minutos, formando pliegues grandes. Retíralo cuando aún brille: termina de cuajar con el calor de la sartén.",
-    "Mientras, tuesta el pan y corta los tomates en rodajas con una pizca de sal.",
+    "Tuesta el pan.",
     "Sirve el revuelto con el resto del parmesano y de la cebolleta por encima, con las tostas y el tomate al lado."
   ],
   nutricion: { kcal: 440, prot: 38, hc: 21, grasa: 23 },
@@ -1138,8 +1138,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tempeh en lonchas de 3-4 mm, como tiras de bacon. Cuécelas 5 minutos en agua hirviendo: así se ablanda, pierde el amargor y absorbe mejor la marinada.",
-    "Mezcla el tamari, el sirope de arce, el pimentón ahumado, el comino, el vinagre y pimienta. Escurre el tempeh, báñalo en la marinada y déjalo 10 minutos, dándole la vuelta.",
+    "Pon a hervir un cazo con agua y, mientras, corta el tempeh en lonchas de 3-4 mm, como tiras de bacon. Cuécelas 5 minutos en el agua hirviendo: así se ablanda, pierde el amargor y absorbe mejor la marinada.",
+    "Mientras, mezcla el tamari, el sirope de arce, el pimentón ahumado, el comino, el vinagre y pimienta. Escurre el tempeh, báñalo en la marinada y déjalo 10 minutos, dándole la vuelta.",
     "Calienta una sartén antiadherente a fuego medio con el aceite y dora las lonchas 2-3 minutos por lado, hasta que estén oscuras y crujientes en los bordes. En el último minuto, vierte la marinada sobrante para que las glasee. Ojo: el sirope se quema rápido.",
     "Tuesta el pan y unta cada rebanada con media cucharadita de mayonesa.",
     "Monta los sándwiches: lechuga, rodajas gruesas de tomate con una pizca de sal, el tempeh y la otra rebanada. Aprieta un poco y córtalos en diagonal.",

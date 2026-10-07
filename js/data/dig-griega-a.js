@@ -36,8 +36,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C con calor arriba y abajo. Pela las patatas, córtalas en rodajas de medio centímetro y cuécelas 8 minutos en agua con sal: deben quedar tiernas por fuera y aún firmes en el centro. Escúrrelas.",
-    "Corta los tomates en rodajas finas, parte las aceitunas en aros y aclara las alcaparras. Pica el perejil.",
+    "Precalienta el horno a 200 °C con calor arriba y abajo. Pela las patatas, córtalas en rodajas de medio centímetro y cuécelas 8 minutos en agua con sal: deben quedar tiernas por fuera y aún firmes en el centro.",
+    "Mientras se cuecen, corta los tomates en rodajas finas, parte las aceitunas en aros y aclara las alcaparras. Pica el perejil. Escurre las patatas.",
     "Recorta dos rectángulos de papel de horno de unos 40 × 50 cm. En el centro de cada uno coloca la mitad de las patatas, ligeramente solapadas, sala y riega con un chorrito de aceite de ajo.",
     "Seca los lomos de lubina, sálalos por ambos lados y ponlos sobre las patatas con la piel hacia abajo. Cúbrelos con las rodajas de tomate, las aceitunas, las alcaparras, el orégano desmenuzado entre los dedos, dos rodajas finas de limón y el resto del aceite de ajo.",
     "Junta los dos lados largos del papel por encima del pescado y dóblalos juntos varias veces hacia abajo; después retuerce los extremos como un caramelo para que el paquete quede bien cerrado y el vapor no se escape.",
@@ -78,8 +78,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 1 cm y cuécelas 10 minutos en agua con sal, hasta que estén casi tiernas pero enteras. Escúrrelas.",
-    "Ralla los tomates por la parte gruesa del rallador hasta quedarte con la piel en la mano. Mezcla la pulpa con el aceite de ajo, la mitad del perejil picado, el orégano desmenuzado entre los dedos, sal y pimienta.",
+    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 1 cm y cuécelas 10 minutos en agua con sal, hasta que estén casi tiernas pero enteras.",
+    "Mientras se cuecen, pica el perejil y ralla los tomates por la parte gruesa del rallador hasta quedarte con la piel en la mano. Escurre las patatas. Mezcla la pulpa con el aceite de ajo, la mitad del perejil picado, el orégano desmenuzado entre los dedos, sal y pimienta.",
     "Extiende las patatas en una fuente de horno, riégalas con la mitad del aceite de oliva y el zumo de medio limón, sálalas y hornéalas 15 minutos, hasta que empiecen a dorarse por los bordes.",
     "Saca la fuente y coloca encima los boquerones abiertos, con la piel hacia abajo y solapados como tejas. Cúbrelos con la salsa de tomate, extendiéndola con el dorso de una cuchara.",
     "Hornea 12-15 minutos, hasta que la carne del pescado esté blanca y opaca y la salsa haya espesado y burbujee en los bordes de la fuente.",
@@ -122,9 +122,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon 4 brochetas de madera en remojo. Lava el arroz bajo el grifo hasta que el agua salga casi clara. En un cazo, lleva a ebullición el agua con sal, la hoja de laurel y una tira de piel de limón; añade el arroz, tapa y cuece 12 minutos a fuego mínimo. Apaga y deja reposar 5 minutos sin destapar.",
-    "Prepara el ladolemono: bate con un tenedor el aceite de oliva con el zumo de 1 limón, el orégano, sal y pimienta hasta que la mezcla quede turbia y algo espesa.",
+    "Mientras se cuece el arroz, prepara el ladolemono: bate con un tenedor el aceite de oliva con el zumo de 1 limón, el orégano, sal y pimienta hasta que la mezcla quede turbia y algo espesa.",
     "Quita la piel al pez espada y córtalo en dados de 3 cm. Pon los dados en un bol con un tercio del ladolemono y deja reposar 10 minutos.",
-    "Corta el pimiento verde en cuadrados de 3 cm. Ensarta en las brochetas el pescado alternado con el pimiento y los tomates cherry.",
+    "Mientras, corta el pimiento verde en cuadrados de 3 cm y pica el perejil. Ensarta en las brochetas el pescado alternado con el pimiento y los tomates cherry.",
     "Calienta la plancha a fuego medio-alto y cocina las brochetas 6-7 minutos en total, girándolas cada 2 minutos y pintándolas con el ladolemono del bol. Están listas cuando el pescado esté dorado por fuera y, al partir un dado, blanco pero jugoso dentro; si se pasa, queda seco.",
     "Retira el laurel y la piel de limón del arroz, suéltalo con un tenedor y añade la mitad del perejil picado.",
     "Sirve las brochetas sobre el arroz, riégalas con el resto del ladolemono y termina con el perejil restante y gajos del medio limón."
@@ -165,7 +165,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia los mejillones bajo el grifo, raspa las conchas con un cuchillo y arranca las barbas tirando hacia la punta. Desecha los que estén rotos o abiertos que no se cierren al darles un golpecito.",
-    "Ralla los tomates por la parte gruesa del rallador hasta que solo quede la piel en la mano. Quita las semillas al pimiento y córtalo en tiras finas.",
+    "Ralla los tomates por la parte gruesa del rallador hasta que solo quede la piel en la mano. Quita las semillas al pimiento y córtalo en tiras finas. Pica el perejil.",
     "Calienta el aceite de ajo en una sartén amplia y honda a fuego medio y cocina el pimiento 5 minutos, removiendo, hasta que esté blando. Añade las semillas de hinojo y remueve 30 segundos, hasta que huelan.",
     "Vierte el tomate rallado, sala con prudencia (los mejillones y la feta ya son salados) y cuece 6 minutos, hasta que la salsa espese y cambie a un rojo más oscuro.",
     "Sube el fuego, añade los mejillones, tapa y cuece 4-5 minutos, sacudiendo la sartén de vez en cuando. Retira el fuego en cuanto la mayoría se hayan abierto; desecha los que sigan cerrados.",
@@ -292,8 +292,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas nuevas y cuécelas con piel en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, ralla los tomates por la parte gruesa del rallador y deja escurrir la pulpa 5 minutos en un colador fino. Mézclala en un bol con 1 cucharada de aceite de oliva, el orégano, las alcaparras picadas y una pizca de sal.",
-    "Saca el atún de la nevera 10 minutos antes, sécalo bien con papel de cocina y frótalo con el resto del aceite, sal y pimienta.",
+    "Mientras, saca el atún de la nevera para que pierda el frío, pica el cebollino y ralla los tomates por la parte gruesa del rallador; deja escurrir la pulpa 5 minutos en un colador fino. Mézclala en un bol con 1 cucharada de aceite de oliva, el orégano, las alcaparras picadas y una pizca de sal.",
+    "Seca bien el atún con papel de cocina y frótalo con el resto del aceite, sal y pimienta.",
     "Calienta una sartén a fuego fuerte hasta que humee ligeramente y marca el atún 1 minuto por cada una de sus cuatro caras: debe formarse una costra fina y gris de 2-3 mm y el centro seguir rojo. Si lo prefieres más hecho, dale 1 minuto más por cara a fuego medio.",
     "Deja reposar el atún 2 minutos y córtalo en lonchas de 1 cm con un cuchillo bien afilado.",
     "Escurre las patatas, cháfalas ligeramente con un tenedor y alíñalas con el zumo de medio limón y el cebollino picado.",
@@ -469,8 +469,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca los tacos de ternera con papel de cocina y salpimiéntalos. Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora la carne en dos tandas, 4-5 minutos por tanda, hasta que esté tostada por todas las caras.",
     "Devuelve toda la carne a la cazuela, añade el zumo de 1 limón y rasca el fondo con una cuchara de madera para despegar lo dorado; deja que hierva 1 minuto.",
-    "Incorpora la mostaza, el romero, el laurel y 450 ml de agua caliente. Tapa y cuece a fuego muy suave 70 minutos, hasta que la carne ceda al presionarla con una cuchara.",
-    "Pela las patatas y córtalas en cuartos a lo largo. Añádelas a la cazuela con el orégano, el resto del agua y sal, y remueve para que se impregnen.",
+    "Incorpora la mostaza, el romero, el laurel y 450 ml de agua caliente. Tapa y cuece a fuego muy suave 70 minutos, hasta que la carne ceda al presionarla con una cuchara. Al final de la cocción, pela las patatas y córtalas en cuartos a lo largo.",
+    "Añade las patatas a la cazuela con el orégano, el resto del agua y sal, y remueve para que se impregnen.",
     "Tapa y cuece 25-30 minutos más, hasta que las patatas estén tiernas y hayan espesado la salsa con su almidón.",
     "Fuera del fuego, añade el zumo del segundo limón, retira el romero y el laurel, y prueba: debe notarse claramente el limón. Deja reposar 5 minutos tapado y sirve con una vuelta de pimienta."
   ],
@@ -642,7 +642,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ralla la piel de una naranja (solo la parte de color) y exprímela: saldrán unos 100 ml de zumo. Mézclalo en un bol con la ralladura, el aceite de ajo, el orégano, sal y pimienta. Añade los contramuslos, dales la vuelta para que se impregnen y deja marinar 20 minutos (o hasta 4 horas en la nevera).",
-    "Precalienta el horno a 200 °C. Pela las patatas y las zanahorias; corta las patatas en gajos y las zanahorias en bastones gruesos. Mézclalas en una bandeja con el aceite de oliva, sal y el agua, y hornea 15 minutos.",
+    "Mientras el pollo se marina, precalienta el horno a 200 °C. Pela las patatas y las zanahorias; corta las patatas en gajos y las zanahorias en bastones gruesos. Mézclalas en una bandeja con el aceite de oliva, sal y el agua, y hornea 15 minutos.",
     "Corta la segunda naranja en medias rodajas finas, con piel.",
     "Saca la bandeja, coloca los contramuslos sobre las verduras con su marinada, reparte por encima las medias rodajas de naranja y las ramas de romero, y hornea 30-35 minutos, regando el pollo con el jugo a mitad de cocción.",
     "Está listo cuando el pollo está dorado por arriba, el jugo sale transparente al pincharlo y las naranjas se han caramelizado en los bordes. Si la salsa del fondo queda muy líquida, pásala a un cazo y redúcela 2-3 minutos, hasta que nape la cuchara.",
@@ -733,7 +733,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla en un bol el yogur con la ralladura de medio limón, el zumo de medio limón, 1 cucharadita de orégano, el pimentón, 1 cucharadita de aceite de ajo, sal y pimienta. Embadurna el solomillo y déjalo marinar 30 minutos en la nevera (o hasta 12 horas): el ácido suave del yogur ablanda la carne.",
-    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en gajos y mézclalas en una bandeja con media cucharada de aceite de oliva, el zumo de medio limón, el resto del orégano, sal y el agua. Hornea 20 minutos.",
+    "Mientras el pavo se marina, precalienta el horno a 200 °C. Pela las patatas, córtalas en gajos y mézclalas en una bandeja con media cucharada de aceite de oliva, el zumo de medio limón, el resto del orégano, sal y el agua. Hornea 20 minutos.",
     "Retira el exceso de marinada del pavo con una cuchara, dejando solo una capa fina, y colócalo en el centro de la bandeja entre las patatas. Hornea 20-25 minutos, hasta que esté dorado por fuera y, al pincharlo en la parte más gruesa, el jugo salga transparente (70 °C en el centro).",
     "Mientras, despunta las judías verdes, quítales los hilos, córtalas en trozos de 4 cm y cuécelas 8-10 minutos en agua hirviendo con sal, hasta que estén tiernas, no al dente. Escúrrelas.",
     "Bate el resto del aceite de ajo y del aceite de oliva con el zumo restante del limón y una pizca de sal hasta que emulsione: es el ladolemono. Aliña las judías en caliente y añade el eneldo picado.",
@@ -819,8 +819,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata, córtala en dados de 1,5 cm y cuécela en agua con sal 7-8 minutos, hasta que esté tierna pero entera. Escúrrela bien.",
-    "Quita las semillas al pimiento y córtalo en tiras finas. Corta el tomate en dados y deja que suelten el agua en un colador.",
+    "Pela la patata, córtala en dados de 1,5 cm y cuécela en agua con sal 7-8 minutos, hasta que esté tierna pero entera.",
+    "Mientras se cuece, quita las semillas al pimiento y córtalo en tiras finas. Corta el tomate en dados y deja que suelten el agua en un colador. Escurre bien la patata.",
     "Calienta el aceite de oliva en una sartén antiadherente de 24 cm a fuego medio y saltea el pimiento 3 minutos. Añade la patata y dórala 5 minutos, removiendo, hasta que tenga los bordes tostados.",
     "Bate los huevos con sal, pimienta y la mitad del orégano, sin llegar a espumar.",
     "Esparce el tomate sobre las verduras, vierte el huevo y baja el fuego al mínimo. Desmenuza la feta por encima, tapa y cuaja 5-6 minutos, hasta que los bordes estén firmes y el centro apenas tiemble.",
@@ -991,8 +991,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta una tapa a cada tomate por el lado del tallo y guárdala. Vacía los tomates con una cucharilla dejando 1 cm de pared, sala el interior y ponlos boca abajo a escurrir 10 minutos.",
-    "Tritura la pulpa con un tenedor y mézclala con el aceite de ajo, el orégano, el azúcar, sal y la mitad de la menta y el perejil picados.",
-    "Pela las patatas y córtalas en gajos finos. Ponlas en una fuente de horno con el aceite de oliva, sal y la pulpa de tomate aliñada, y mézclalas bien.",
+    "Mientras escurren, pela las patatas y córtalas en gajos finos. Pica la menta y el perejil. Tritura la pulpa con un tenedor y mézclala con el aceite de ajo, el orégano, el azúcar, sal y la mitad de la menta y el perejil picados.",
+    "Pon las patatas en una fuente de horno con el aceite de oliva, sal y la pulpa de tomate aliñada, y mézclalas bien.",
     "Coloca los tomates vacíos boca arriba entre las patatas, con sus tapas al lado, y hornea 25 minutos: los tomates deben ablandarse sin perder la forma y las patatas empezar a dorarse.",
     "Saca la fuente, ralla un poco de queso en el fondo de cada tomate y casca dentro un huevo. Cubre con el resto del queso y pon las tapas apoyadas al lado.",
     "Hornea 10-12 minutos más, hasta que la clara esté cuajada y la yema algo jugosa. Sirve con el resto de la menta y el perejil picados por encima."
@@ -1033,9 +1033,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño limpio, pon un peso encima 10 minutos para que suelte el agua y córtalo en dados de 2,5 cm. Sécalo y sálalo ligeramente.",
+    "Envuelve el tofu en un paño limpio, pon un peso encima 10 minutos para que suelte el agua. Mientras, pela la patata y córtala en dados de 3 cm, corta la zanahoria en rodajas de 1 cm y pica la parte verde de la cebolleta. Corta el tofu en dados de 2,5 cm, sécalo y sálalo ligeramente.",
     "Calienta el aceite de oliva en una cazuela ancha a fuego medio-alto y dora el tofu 6-8 minutos, girándolo con una espátula, hasta que tenga una costra dorada por varias caras. Resérvalo en un plato.",
-    "Baja el fuego a medio, añade el aceite de ajo y la parte verde de la cebolleta picada y remueve 1 minuto. Incorpora la zanahoria en rodajas de 1 cm y la patata en dados de 3 cm y rehógalas 2 minutos, hasta que brillen.",
+    "Baja el fuego a medio, añade el aceite de ajo y la parte verde de la cebolleta picada y remueve 1 minuto. Incorpora la zanahoria y la patata y rehógalas 2 minutos, hasta que brillen.",
     "Vierte el caldo caliente y el zumo de 1 limón, sala y añade pimienta. Tapa y cuece a fuego suave 20 minutos, hasta que la patata y la zanahoria estén tiernas al pincharlas.",
     "Devuelve el tofu a la cazuela. Disuelve la maicena en 2 cucharadas de agua fría, añádela y mueve la cazuela en círculos 2-3 minutos, sin cuchara para no romper nada, hasta que la salsa espese, se vuelva brillante y nape las verduras.",
     "Fuera del fuego, añade el eneldo picado (sin miedo, es el alma del plato) y deja reposar 5 minutos tapado. Sirve en platos hondos con gajos del medio limón restante."
@@ -1081,7 +1081,7 @@ window.RECETAS_SEED.push({
     "Machaca las semillas de cilantro en un mortero hasta romperlas en trozos gruesos. Mezcla la mitad con el vinagre, el tamari y bastante pimienta en un bol, añade el tofu y deja marinar 20 minutos, dándole la vuelta a mitad.",
     "Mientras, lava las patatas y cháfalas una a una con el fondo de un vaso hasta que se agrieten sin romperse: así son las antinahtes.",
     "Calienta la mitad del aceite en una sartén amplia a fuego medio y dora las patatas 5 minutos, sacudiendo la sartén para que se tuesten por todos lados. Añade el resto del cilantro, el laurel, el agua y sal, tapa y cuece 15 minutos, hasta que estén tiernas y el líquido casi evaporado.",
-    "Prepara la salsa: ralla el pepino, exprímelo bien y mézclalo con el yogur, la mitad de la menta picada y sal.",
+    "Mientras se cuecen, prepara la salsa: ralla el pepino, exprímelo bien y mézclalo con el yogur, la mitad de la menta picada y sal.",
     "Pasa las patatas a un plato. En la misma sartén, con el resto del aceite a fuego medio-alto, dora el tofu escurrido 6-8 minutos, girándolo, hasta que esté tostado. Vierte la marinada y deja que se reduzca 1 minuto hasta glasear el tofu.",
     "Sirve el tofu con las patatas, la salsa de yogur al lado y el resto de la menta por encima."
   ],

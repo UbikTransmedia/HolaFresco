@@ -41,9 +41,9 @@ window.RECETAS_SEED.push({
     "Pela las zanahorias y córtalas en rodajas gruesas. Pela la cebolla, pártela por la mitad y clava en ella los clavos. Aplasta los ajos sin pelar.",
     "Lava las lentejas y escúrrelas. En la misma cazuela, seca, calienta el aceite y dora la panceta 4-5 minutos por todas las caras, hasta que suelte grasa y tome color.",
     "Añade las lentejas, la zanahoria, la cebolla con los clavos, los ajos, el laurel y el tomillo. Cubre con 900 ml de agua fría y lleva a ebullición a fuego medio; retira la espuma que suba.",
-    "Baja el fuego y cuece tapado a fuego suave 30-35 minutos, hasta que las lentejas estén tiernas pero enteras. Si se quedan secas, añade un poco de agua caliente: deben quedar jugosas, no caldosas.",
+    "Baja el fuego y cuece tapado a fuego suave 30-35 minutos, hasta que las lentejas estén tiernas pero enteras. Si se quedan secas, añade un poco de agua caliente: deben quedar jugosas, no caldosas. Mientras, pica el perejil.",
     "Saca la cebolla, el laurel y las ramas de tomillo. Prueba antes de salar (la panceta ya aporta sal), añade pimienta y unas gotas de limón y deja reposar 5 minutos fuera del fuego.",
-    "Corta la panceta en lonchas gruesas y sirve las lentejas con la carne encima, perejil picado y un hilo de aceite crudo."
+    "Corta la panceta en lonchas gruesas y sirve las lentejas con la carne encima, el perejil y un hilo de aceite crudo."
   ],
   nutricion: { kcal: 670, prot: 34, hc: 52, grasa: 36 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "de cuchara", "invierno", "poco especiada"],
@@ -86,12 +86,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Remoja el chana dal 1 hora en agua fría (o desde la noche anterior). Escúrrelo y lávalo hasta que el agua salga limpia.",
-    "Ponlo en la cazuela con 800 ml de agua, la cúrcuma y una pizca de sal. Cuando hierva, retira la espuma y cuece tapado a fuego suave 25 minutos.",
-    "Pela la calabaza, córtala en dados de 2 cm y añádela al dal. Cuece 15-20 minutos más, hasta que el grano se aplaste entre los dedos pero conserve la forma y la calabaza empiece a deshacerse.",
+    "Ponlo en la cazuela con 800 ml de agua, la cúrcuma y una pizca de sal. Cuando hierva, retira la espuma y cuece tapado a fuego suave 25 minutos. Mientras, pela la calabaza y córtala en dados de 2 cm, pica fina la cebolla, pica el ajo, el chile y el cilantro, y ralla el jengibre y el tomate.",
+    "Añade la calabaza al dal. Cuece 15-20 minutos más, hasta que el grano se aplaste entre los dedos pero conserve la forma y la calabaza empiece a deshacerse.",
     "Mientras, lava el arroz basmati tres veces y cuécelo en 260 ml de agua con sal, tapado, 12 minutos a fuego mínimo; deja reposar 5 minutos sin destapar.",
-    "Para la tadka, calienta el aceite en la sartén y echa el comino; cuando chisporrotee y huela a tostado (unos 30 segundos), añade la cebolla picada fina y dórala 6-7 minutos.",
-    "Añade el ajo, el jengibre rallado y el chile picado, 1 minuto; luego el tomate rallado y el cilantro molido, y cocina 5 minutos hasta que el aceite se separe del tomate.",
-    "Vuelca la tadka sobre el dal, añade el garam masala y aplasta un poco la calabaza con el cucharón para espesarlo. Cuece 3 minutos, ajusta de sal y termina con zumo de limón y cilantro picado. Sírvelo con el arroz."
+    "Para la tadka, calienta el aceite en la sartén y echa el comino; cuando chisporrotee y huela a tostado (unos 30 segundos), añade la cebolla y dórala 6-7 minutos.",
+    "Añade el ajo, el jengibre y el chile, 1 minuto; luego el tomate y el cilantro molido, y cocina 5 minutos hasta que el aceite se separe del tomate.",
+    "Vuelca la tadka sobre el dal, añade el garam masala y aplasta un poco la calabaza con el cucharón para espesarlo. Cuece 3 minutos, ajusta de sal y termina con zumo de limón y el cilantro. Sírvelo con el arroz."
   ],
   nutricion: { kcal: 640, prot: 23, hc: 105, grasa: 14 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "batch cooking", "económica", "bajo en colesterol"],
@@ -129,10 +129,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Corta las cebollas en medias lunas finas.",
+    "Precalienta el horno a 190 °C. Corta las cebollas en medias lunas finas, lamina el ajo y pica el perejil.",
     "Calienta 3 cucharadas de aceite en una sartén amplia y pocha la cebolla con una pizca de sal a fuego medio-bajo 15 minutos, removiendo de vez en cuando, hasta que esté blanda y dorada.",
     "Añade el ajo laminado 1 minuto. Aparta la sartén del fuego, espolvorea los dos pimentones y remueve rápido para que no se quemen; vierte enseguida 150 ml de agua.",
-    "Mezcla las alubias con sal, pimienta y el perejil picado. En una fuente de barro o de horno pequeña, alterna capas de alubias y de cebolla, terminando con cebolla, y mete las hojas de laurel entre las capas.",
+    "Mezcla las alubias con sal, pimienta y el perejil. En una fuente de barro o de horno pequeña, alterna capas de alubias y de cebolla, terminando con cebolla, y mete las hojas de laurel entre las capas.",
     "Riega con el agua del sofrito que haya quedado en la sartén y un hilo de aceite: las alubias deben quedar húmedas, con el líquido a media altura. Hornea 35-40 minutos, hasta que la superficie esté tostada y el líquido casi absorbido.",
     "Mientras, corta el repollo en juliana muy fina, sálalo y amásalo con las manos 1 minuto para que se ablande; alíñalo con el zumo del limón, pimienta y el resto del aceite.",
     "Deja reposar el prebranac 10 minutos fuera del horno y sírvelo templado con la ensalada de col."
@@ -174,12 +174,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el cerdo y dóralo en la cazuela con el aceite a fuego fuerte 5-6 minutos, hasta que tenga costra por todos los lados.",
-    "Añade la parte blanca de las cebolletas y el ajo picados y rehoga 3 minutos. Incorpora el tomate picado y la pimienta de Jamaica.",
+    "Pica la parte blanca de las cebolletas, el ajo y el tomate, y corta la parte verde de las cebolletas en aros. Sala el cerdo y dóralo en la cazuela con el aceite a fuego fuerte 5-6 minutos, hasta que tenga costra por todos los lados.",
+    "Añade la parte blanca de las cebolletas y el ajo y rehoga 3 minutos. Incorpora el tomate y la pimienta de Jamaica.",
     "Cubre con 500 ml de agua, añade el tomillo y el chile entero sin abrir y cuece tapado a fuego suave 30 minutos, hasta que el cerdo esté tierno al pincharlo.",
     "Mientras, lava el arroz y cuécelo en 240 ml de agua con sal, tapado y a fuego mínimo 12 minutos; deja reposar 5 minutos.",
     "Añade a la cazuela las alubias y la leche de coco. Cuece destapado 12-15 minutos, aplastando unas cuantas alubias contra la pared para que la salsa espese y quede cremosa.",
-    "Retira el chile (con cuidado de no romperlo, o picará mucho) y las ramas de tomillo, ajusta de sal y pimienta y termina con la parte verde de la cebolleta en aros. Sirve sobre el arroz."
+    "Retira el chile (con cuidado de no romperlo, o picará mucho) y las ramas de tomillo, ajusta de sal y pimienta y termina con la parte verde de la cebolleta. Sirve sobre el arroz."
   ],
   nutricion: { kcal: 800, prot: 42, hc: 80, grasa: 35 },
   etiquetas: ["creativa", "sin gluten", "apta para alergias", "sin lácteos", "de cuchara", "invierno"],
@@ -223,9 +223,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Marina el pollo con la cúrcuma, media cucharadita de sal y la mitad del ajo y del jengibre rallados mientras preparas el masala (mínimo 10 minutos).",
     "Tuesta en una sartén seca a fuego medio-bajo las semillas de cilantro, el comino, el hinojo, la pimienta, las guindillas y la canela troceada, 2-3 minutos, removiendo, hasta que huelan y el cilantro tome color. Añade el coco y tuesta 2 minutos más, hasta que esté dorado claro.",
-    "Deja templar y tritura en la batidora o el molinillo con 4-5 cucharadas de agua hasta tener una pasta espesa y algo granulosa.",
-    "Calienta el aceite en la cazuela y dora la cebolla picada fina 8-10 minutos, hasta que esté bien tostada: de ella depende el color oscuro del plato.",
-    "Añade el resto del ajo y del jengibre, 1 minuto, y el tomate picado. Cocina 5 minutos hasta que se deshaga.",
+    "Deja templar y tritura en la batidora o el molinillo con 4-5 cucharadas de agua hasta tener una pasta espesa y algo granulosa. Mientras templa, pica fina la cebolla y pica el tomate.",
+    "Calienta el aceite en la cazuela y dora la cebolla 8-10 minutos, hasta que esté bien tostada: de ella depende el color oscuro del plato.",
+    "Añade el resto del ajo y del jengibre, 1 minuto, y el tomate. Cocina 5 minutos hasta que se deshaga.",
     "Incorpora el pollo y dóralo 5 minutos en el sofrito. Añade la pasta de especias y 200 ml de agua, tapa y cuece a fuego suave 20 minutos, removiendo de vez en cuando.",
     "Mientras, cuece el arroz basmati lavado en 260 ml de agua con sal, tapado y a fuego mínimo 12 minutos; deja reposar 5.",
     "Destapa el curry los últimos 5 minutos para que la salsa quede espesa y brillante y se pegue al pollo. Ajusta de sal y sirve con el arroz."
@@ -270,11 +270,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz jazmín y cuécelo en 210 ml de agua con sal, tapado y a fuego mínimo 12 minutos; deja reposar 5 minutos sin destapar.",
-    "Mezcla el cordero con la maicena, media cucharadita de sal, el azúcar y una cucharada de agua, y déjalo 10 minutos. La maicena forma una película que mantiene la carne jugosa en el fuego fuerte.",
+    "Mezcla el cordero con la maicena, media cucharadita de sal, el azúcar y una cucharada de agua, y déjalo 10 minutos. La maicena forma una película que mantiene la carne jugosa en el fuego fuerte. Mientras, parte las guindillas, lamina el ajo y el jengibre, corta la cebolla morada en gajos, el pimiento en tiras y la cebolleta en trozos.",
     "Tuesta el comino y la pimienta de Sichuan en el wok seco 1 minuto, hasta que huelan. Machaca en el mortero la mitad del comino con la pimienta y deja el resto entero.",
     "Calienta el wok a fuego muy fuerte con 1,5 cucharadas de aceite y saltea el cordero en una sola capa, en dos tandas si hace falta, 2 minutos, hasta que se dore. Sácalo.",
-    "Añade el resto del aceite, las guindillas partidas, el ajo y el jengibre en láminas, 20 segundos; luego la cebolla morada en gajos y el pimiento en tiras, 2 minutos a fuego vivo: deben quedar tostados pero crujientes.",
-    "Devuelve el cordero, añade todo el comino y la cebolleta en trozos y saltea 1 minuto más. Prueba de sal.",
+    "Añade el resto del aceite, las guindillas, el ajo y el jengibre, 20 segundos; luego la cebolla morada y el pimiento, 2 minutos a fuego vivo: deben quedar tostados pero crujientes.",
+    "Devuelve el cordero, añade todo el comino y la cebolleta y saltea 1 minuto más. Prueba de sal.",
     "Fuera del fuego, añade el cilantro en ramitas y sirve enseguida con el arroz."
   ],
   nutricion: { kcal: 680, prot: 37, hc: 70, grasa: 28 },
@@ -363,8 +363,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el arroz: sofríe medio diente de ajo picado en 1 cucharadita de aceite, añade el arroz, remueve 1 minuto, cubre con 200 ml de agua caliente con sal y cuece tapado a fuego mínimo 15 minutos.",
     "Para el vinagrete, pica muy fino el tomate, el pimiento y un cuarto de la cebolla. Mezcla con el zumo de la lima, el resto del aceite, el perejil picado y sal. Resérvalo en la nevera.",
-    "Corta la picaña en filetes de 2 cm de grosor, a contrapelo y sin quitar la grasa, y sálalos con sal gruesa por las dos caras 10 minutos antes de cocinarlos.",
-    "Para la farofa, dora la panceta en dados en una sartén a fuego medio 4 minutos, hasta que suelte la grasa. Añade el resto de la cebolla picada y el ajo restante y cocina 5 minutos.",
+    "Corta la picaña en filetes de 2 cm de grosor, a contrapelo y sin quitar la grasa, y sálalos con sal gruesa por las dos caras 10 minutos antes de cocinarlos. Mientras, corta la panceta en dados y pica el resto de la cebolla y del ajo.",
+    "Para la farofa, dora la panceta en una sartén a fuego medio 4 minutos, hasta que suelte la grasa. Añade la cebolla y el ajo y cocina 5 minutos.",
     "Incorpora la harina de mandioca y tuéstala removiendo sin parar 3-4 minutos, hasta que huela a tostado y tenga color de galleta. Sálala al gusto.",
     "Calienta la plancha muy fuerte y marca los filetes primero por el lado de la grasa 2 minutos, para que se funda y se dore; luego 2 minutos por cada cara para un punto rosado. Déjalos reposar 3 minutos.",
     "Sirve la carne con el arroz, la farofa por encima del arroz y el vinagrete fresco."
@@ -405,12 +405,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el cordero 10 minutos antes de cocinarlo. Pica la cebolla fina y lamina los ajos.",
+    "Salpimienta el cordero 10 minutos antes de cocinarlo. Pica la cebolla fina y lamina los ajos. Trocea la lechuga, corta la cebolleta en aros finos y el tomate en gajos, y pica el perejil.",
     "Calienta 2 cucharadas de aceite en una cazuela baja y dora el cordero a fuego fuerte, en una sola capa, 8-10 minutos, dándole la vuelta hasta que esté bien tostado por todos los lados.",
     "Baja el fuego a medio, añade la cebolla y los ajos y cocina 8 minutos, removiendo, hasta que la cebolla esté dorada y el cordero hecho por dentro.",
     "Aparta del fuego, espolvorea el pimentón, remueve 10 segundos y riega enseguida con el zumo de tres cuartos del limón y 2 cucharadas de agua. Vuelve al fuego 2 minutos, rascando el fondo, hasta que la salsa se ligue con la grasa.",
-    "Mientras, trocea la lechuga, corta la cebolleta en aros finos y el tomate en gajos; alíñalos con sal, el resto del aceite y el zumo del cuarto de limón restante.",
-    "Espolvorea el cordero con perejil picado y sírvelo en la misma cazuela con la ensalada al lado."
+    "Aliña la lechuga, la cebolleta y el tomate con sal, el resto del aceite y el zumo del cuarto de limón restante.",
+    "Espolvorea el cordero con el perejil y sírvelo en la misma cazuela con la ensalada al lado."
   ],
   nutricion: { kcal: 540, prot: 33, hc: 12, grasa: 40 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "alta en proteína", "una sola sartén", "keto", "poco especiada"],
@@ -450,9 +450,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo. Calienta el aceite en la cazuela y dóralo a fuego medio-fuerte 8-10 minutos, empezando con la piel hacia abajo, hasta que esté bien dorado. Sácalo.",
-    "En la misma grasa, rehoga el jamón en dados 1 minuto, añade la cebolla en juliana y los pimientos en tiras y cocina 10 minutos a fuego medio, hasta que estén blandos.",
-    "Añade el ajo laminado y, al minuto, el tomate pelado y troceado, el pimentón, el tomillo y el laurel. Cocina 5 minutos.",
+    "Corta la cebolla en juliana y los pimientos en tiras, lamina el ajo y pela y trocea el tomate. Salpimienta el pollo, calienta el aceite en la cazuela y dóralo a fuego medio-fuerte 8-10 minutos, empezando con la piel hacia abajo, hasta que esté bien dorado. Sácalo.",
+    "En la misma grasa, rehoga el jamón en dados 1 minuto, añade la cebolla y los pimientos y cocina 10 minutos a fuego medio, hasta que estén blandos.",
+    "Añade el ajo y, al minuto, el tomate, el pimentón, el tomillo y el laurel. Cocina 5 minutos.",
     "Devuelve el pollo con sus jugos, encajándolo entre las verduras. Tapa y cuece a fuego suave 25 minutos, hasta que la carne se separe del hueso. Si la salsa se espesa demasiado, añade un poco de agua.",
     "Mientras, cuece el arroz en abundante agua hirviendo con sal 12-15 minutos y escúrrelo.",
     "Destapa la cazuela los últimos 5 minutos para que la salsa reduzca. Ajusta de sal y sirve el pollo con la piperade y el arroz."
@@ -586,10 +586,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla, el pimiento y el ajo y sofríelos en una cazuela con 1 cucharada de aceite 8 minutos, hasta que estén blandos.",
     "Añade el comino, las alubias, el azúcar, sal y 100 ml de agua. Cuece 10 minutos a fuego suave, aplastando un tercio de las alubias con el tenedor para que queden cremosas y espesas (no caldosas, para que no empapen la arepa).",
-    "Para la masa, mezcla el agua templada con media cucharadita de sal, añade la harina de maíz poco a poco y amasa 2 minutos hasta que esté lisa y no se pegue a las manos. Déjala reposar 5 minutos y forma 4 bolas; aplánalas a 1,5 cm de grosor.",
+    "Mientras se cuecen, prepara la masa: mezcla el agua templada con media cucharadita de sal, añade la harina de maíz poco a poco y amasa 2 minutos hasta que esté lisa y no se pegue a las manos. Déjala reposar 5 minutos y forma 4 bolas; aplánalas a 1,5 cm de grosor.",
     "Cocina las arepas en una sartén antiadherente untada con unas gotas de aceite, a fuego medio, 6-7 minutos por cada lado, hasta que tengan costra dorada y suenen huecas al golpearlas.",
-    "Mientras, pela el plátano y córtalo en tajadas en diagonal. Fríelas en otra sartén con el resto del aceite 3 minutos por lado, hasta que estén caramelizadas.",
-    "Abre las arepas por el canto con un cuchillo, como un pan de pita, y rellénalas de caraotas, tajadas, láminas de aguacate y cilantro."
+    "Mientras, pela el plátano y córtalo en tajadas en diagonal. Fríelas en otra sartén con el resto del aceite 3 minutos por lado, hasta que estén caramelizadas. Corta el aguacate en láminas y deshoja el cilantro.",
+    "Abre las arepas por el canto con un cuchillo, como un pan de pita, y rellénalas de caraotas, tajadas, aguacate y cilantro."
   ],
   nutricion: { kcal: 800, prot: 19, hc: 118, grasa: 28 },
   etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "para niños", "poco especiada"],
@@ -631,9 +631,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Quita el troncho del repollo con un cuchillo puntiagudo y escáldalo entero en una olla grande de agua hirviendo con sal 5 minutos, separando las hojas exteriores a medida que se ablanden. Necesitas 8 hojas. Rebaja con el cuchillo el nervio grueso de cada una.",
-    "Cuece el arroz en agua con sal 10 minutos (quedará a medio hacer) y escúrrelo.",
-    "En una sartén con 2 cucharadas de aceite, sofríe la cebolla picada y la zanahoria rallada 8 minutos; añade los champiñones picados y el ajo y cocina 8 minutos más, hasta que se evapore el agua de las setas.",
-    "Mezcla el sofrito con el arroz, la mitad del eneldo picado, sal y pimienta. Pon 2 cucharadas de relleno en la base de cada hoja, dobla los laterales hacia dentro y enrolla bien apretado.",
+    "Cuece el arroz en agua con sal 10 minutos (quedará a medio hacer) y escúrrelo. Mientras, pica la cebolla, los champiñones, el ajo y el eneldo y ralla la zanahoria.",
+    "En una sartén con 2 cucharadas de aceite, sofríe la cebolla y la zanahoria 8 minutos; añade los champiñones y el ajo y cocina 8 minutos más, hasta que se evapore el agua de las setas.",
+    "Mezcla el sofrito con el arroz, la mitad del eneldo, sal y pimienta. Pon 2 cucharadas de relleno en la base de cada hoja, dobla los laterales hacia dentro y enrolla bien apretado.",
     "Pica el repollo sobrante y repártelo en el fondo de la cazuela. Coloca encima los rollitos con el cierre hacia abajo, bien juntos.",
     "Mezcla el tomate triturado con el concentrado, el pimentón, el azúcar, el laurel, sal, el resto del aceite y 250 ml de agua. Viértelo sobre los rollitos: deben quedar casi cubiertos.",
     "Tapa y cuece a fuego suave 40 minutos, hasta que la col esté muy tierna y el arroz hecho. Sirve con la salsa y el resto del eneldo por encima."
@@ -681,10 +681,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer el arroz jazmín lavado con 200 ml de agua y sal, tapado y a fuego mínimo 12 minutos; deja reposar 5.",
-    "Para la pasta, quita la capa exterior de la hierba limón y corta la parte tierna en rodajas finas. Tritúrala con las chalotas, el ajo, el jengibre, las guindillas remojadas 5 minutos en agua caliente, la cúrcuma, el cilantro, el comino, una cucharadita de sal y 3 cucharadas de agua, hasta tener una pasta lo más fina posible.",
+    "Remoja las guindillas 5 minutos en agua caliente. Mientras, corta la calabaza en dados de 2 cm y las judías verdes en trozos. Para la pasta, quita la capa exterior de la hierba limón y corta la parte tierna en rodajas finas. Tritúrala con las chalotas, el ajo, el jengibre, las guindillas escurridas, la cúrcuma, el cilantro, el comino, una cucharadita de sal y 3 cucharadas de agua, hasta tener una pasta lo más fina posible.",
     "Calienta el aceite en la cazuela y fríe la pasta a fuego medio 3-4 minutos, removiendo, hasta que oscurezca un poco y huela muy aromática.",
     "Añade la parte espesa de la leche de coco (la de arriba de la lata) y cocina 2 minutos, hasta que veas brillar el aceite. Incorpora el resto de la leche de coco y 200 ml de agua.",
-    "Añade la calabaza en dados de 2 cm y cuece 8 minutos. Incorpora las judías verdes en trozos y los garbanzos y cuece 6 minutos más, hasta que la calabaza esté tierna.",
+    "Añade la calabaza y cuece 8 minutos. Incorpora las judías verdes y los garbanzos y cuece 6 minutos más, hasta que la calabaza esté tierna.",
     "Ajusta con el azúcar, sal y el zumo de media lima: debe quedar salado, ligeramente dulce y ácido. Sirve con el arroz, hojas de albahaca y gajos del resto de la lima."
   ],
   nutricion: { kcal: 700, prot: 19, hc: 92, grasa: 28 },
@@ -770,12 +770,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Empieza por el pilav: lava el arroz, dóralo 1 minuto en una cazuela pequeña con 1 cucharadita de aceite, añade 200 ml de agua hirviendo con sal y cuece tapado a fuego mínimo 12 minutos; deja reposar 10 minutos con un paño bajo la tapa.",
+    "Empieza por el pilav: pon a hervir 200 ml de agua con sal; lava el arroz, dóralo 1 minuto en una cazuela pequeña con 1 cucharadita de aceite, añade el agua hirviendo y cuece tapado a fuego mínimo 12 minutos; deja reposar 10 minutos con un paño bajo la tapa.",
     "Corta la zanahoria y la patata en dados de 1,5 cm y la cebolleta en rodajas finas.",
     "En una cazuela ancha, rehoga la cebolleta con 1,5 cucharadas de aceite 3 minutos. Añade la zanahoria, la patata y las habas y remueve 2 minutos.",
     "Coloca encima los corazones de alcachofa con el hueco hacia arriba. Mezcla el zumo de 1 limón con la harina de arroz, el azúcar, una cucharadita de sal y 250 ml de agua, y viértelo por encima.",
-    "Riega con el resto del aceite, tapa (o cubre con un círculo de papel de horno) y cuece a fuego suave 18-20 minutos, hasta que la alcachofa y la patata estén tiernas y el líquido se haya reducido a un jugo ligado.",
-    "Deja templar en la cazuela (en Turquía se come a temperatura ambiente) y sirve con eneldo picado, gajos del otro limón y el pilav."
+    "Riega con el resto del aceite, tapa (o cubre con un círculo de papel de horno) y cuece a fuego suave 18-20 minutos, hasta que la alcachofa y la patata estén tiernas y el líquido se haya reducido a un jugo ligado. Mientras, pica el eneldo.",
+    "Deja templar en la cazuela (en Turquía se come a temperatura ambiente) y sirve con el eneldo, gajos del otro limón y el pilav."
   ],
   nutricion: { kcal: 620, prot: 18, hc: 92, grasa: 20 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "primavera", "ideal para llevar", "poco especiada", "bajo en colesterol"],
@@ -817,8 +817,8 @@ window.RECETAS_SEED.push({
     "Corta la berenjena y la patata en trozos irregulares de 3 cm y el pimiento en trozos grandes. Sala la berenjena, déjala 10 minutos, sécala con papel y espolvoréala con 1 cucharada de maicena.",
     "Calienta 3 cucharadas de aceite en el wok y fríe la patata a fuego medio 8-10 minutos, hasta que esté dorada y tierna. Sácala.",
     "En el mismo aceite, con un poco más si hace falta, dora la berenjena a fuego medio-fuerte 6-7 minutos, hasta que esté dorada por fuera y cremosa por dentro. Sácala sobre papel. Pasa el pimiento 1 minuto, solo para que se ampolle, y sácalo.",
-    "Escurre las setas guardando el agua, quítales el pie y córtalas en láminas. Mezcla 150 ml de su agua colada con el resto de la maicena, el azúcar, media cucharadita de sal y pimienta blanca.",
-    "Retira casi todo el aceite del wok y saltea el ajo picado, la parte blanca de la cebolleta y las setas 1 minuto. Vierte la salsa y remueve hasta que espese y brille, unos 30 segundos.",
+    "Escurre las setas guardando el agua, quítales el pie y córtalas en láminas. Mezcla 150 ml de su agua colada con el resto de la maicena, el azúcar, media cucharadita de sal y pimienta blanca. Pica el ajo y la cebolleta, separando la parte blanca de la verde.",
+    "Retira casi todo el aceite del wok y saltea el ajo, la parte blanca de la cebolleta y las setas 1 minuto. Vierte la salsa y remueve hasta que espese y brille, unos 30 segundos.",
     "Devuelve la patata, la berenjena y el pimiento, saltea 1 minuto para que se impregnen y termina con la parte verde de la cebolleta. Sirve enseguida con el arroz."
   ],
   nutricion: { kcal: 630, prot: 12, hc: 106, grasa: 18 },
@@ -861,9 +861,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la ternera en la cazuela con la cebolla, el ajo, el laurel, una cucharada de sal y agua que la cubra holgadamente. Cuando hierva, quita la espuma, baja el fuego y cuece tapado 1 hora y 20 minutos, hasta que se deshaga al pincharla.",
-    "Déjala templar 15 minutos dentro de su caldo, para que no se seque. Escúrrela y guarda el caldo para una sopa.",
+    "Déjala templar 15 minutos dentro de su caldo, para que no se seque. Mientras, pica muy finos la cebolla morada, los rábanos, la hierbabuena, el cilantro y el chile sin semillas. Escurre la carne y guarda el caldo para una sopa.",
     "Desmenuza la carne con los dedos y luego pícala a cuchillo muy fina, casi como carne picada.",
-    "Pica muy finos la cebolla morada, los rábanos, la hierbabuena, el cilantro y el chile sin semillas.",
     "En un bol, mezcla la carne con las verduras y las hierbas, el zumo de las limas y de la naranja, sal y pimienta. Déjalo 10 minutos en la nevera para que la carne absorba el aliño: debe quedar jugosa y ácida.",
     "Calienta las tortillas en una sartén seca y sirve el salpicón frío con el aguacate en láminas."
   ],
@@ -945,10 +944,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el pavo con el comino, el chipotle, el orégano, el zumo de media lima, 1 cucharadita de aceite y sal. Déjalo 10 minutos.",
+    "Mezcla el pavo con el comino, el chipotle, el orégano, el zumo de media lima, 1 cucharadita de aceite y sal. Déjalo 10 minutos. Mientras, corta el pimiento en tiras y la cebolla morada en gajos.",
     "Corta las tortillas en tiras finas y tuéstalas en una sartén con 1 cucharadita de aceite a fuego medio 4-5 minutos, removiendo, hasta que estén crujientes. Sálalas y resérvalas en un plato.",
     "En la misma sartén, a fuego fuerte, dora el maíz escurrido 3-4 minutos sin moverlo mucho, hasta que algunos granos se tuesten. Sácalo.",
-    "Añade 1 cucharadita de aceite y saltea el pimiento en tiras y la cebolla morada en gajos 3 minutos a fuego vivo; incorpora el pavo y cocina 4-5 minutos, hasta que esté dorado y hecho por dentro.",
+    "Añade 1 cucharadita de aceite y saltea el pimiento y la cebolla morada 3 minutos a fuego vivo; incorpora el pavo y cocina 4-5 minutos, hasta que esté dorado y hecho por dentro.",
     "Prepara el aliño con el zumo de 1 lima, 1 cucharada de aceite, sal y la mitad del cilantro picado.",
     "Monta en una fuente la lechuga troceada, las alubias enjuagadas, los tomates partidos, el maíz y el aguacate en dados. Pon encima el pavo con los pimientos aún calientes, riega con el aliño y termina con las tiras de tortilla, el resto del cilantro y gajos de la lima restante."
   ],
@@ -1034,12 +1033,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava bien la quinoa en un colador bajo el grifo, frotándola, para quitarle el amargor. Calienta el caldo.",
-    "Corta la calabaza en dados de 1 cm. En una cazuela con 1,5 cucharadas de aceite, sofríe la cebolla picada 4 minutos, añade la calabaza y el ajo y cocina 3 minutos.",
+    "Corta la calabaza en dados de 1 cm y pica la cebolla, el ajo y el perejil. En una cazuela con 1,5 cucharadas de aceite, sofríe la cebolla 4 minutos, añade la calabaza y el ajo y cocina 3 minutos.",
     "Añade la quinoa escurrida y tuéstala 2 minutos removiendo. Vierte dos tercios del caldo caliente y el tomillo, y cuece a fuego medio 12 minutos, removiendo de vez en cuando.",
     "Mientras, saltea las setas troceadas en una sartén muy caliente con 1 cucharada de aceite 5-6 minutos, sin removerlas al principio, hasta que estén doradas. Salpimiéntalas y resérvalas.",
     "En la misma sartén, fríe las hojas de salvia en el resto del aceite 30 segundos, hasta que estén crujientes; escúrrelas sobre papel.",
     "Cuando la quinoa esté casi hecha (verás el germen blanco en espiral), añade el resto del caldo poco a poco y remueve con energía 3-4 minutos: soltará almidón y la calabaza se deshará en parte, dejando el plato cremoso.",
-    "Retira el tomillo, incorpora la mitad de las setas, la ralladura de limón y el perejil picado, ajusta de sal y sirve con el resto de las setas y la salvia crujiente por encima."
+    "Retira el tomillo, incorpora la mitad de las setas, la ralladura de limón y el perejil, ajusta de sal y sirve con el resto de las setas y la salvia crujiente por encima."
   ],
   nutricion: { kcal: 545, prot: 16, hc: 68, grasa: 23 },
   etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "otoño", "poco especiada", "bajo en colesterol"],
@@ -1079,9 +1078,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la ternera en dados de 3 cm, sécala, salpimiéntala y pásala por la maicena sacudiendo el exceso.",
+    "Pica la cebolla, la zanahoria y el ajo. Corta la ternera en dados de 3 cm, sécala, salpimiéntala y pásala por la maicena sacudiendo el exceso.",
     "Dora la carne en la cazuela con 2 cucharadas de aceite a fuego fuerte, en dos tandas de 5 minutos, hasta que tenga costra. Sácala.",
-    "Baja el fuego, añade la cebolla, la zanahoria y el ajo picados y sofríe 8 minutos, rascando el fondo. Incorpora el tomate concentrado 1 minuto y luego el tomate triturado.",
+    "Baja el fuego, añade la cebolla, la zanahoria y el ajo y sofríe 8 minutos, rascando el fondo. Incorpora el tomate concentrado 1 minuto y luego el tomate triturado.",
     "Devuelve la carne, añade el romero, el laurel y unos 400 ml de agua, hasta casi cubrir. Tapa y cuece a fuego suave 1 hora y 15 minutos, hasta que la carne se deshaga con la cuchara. Añade agua si se seca.",
     "Añade los guisantes los últimos 10 minutos y deja la salsa espesa y brillante. Retira el romero y el laurel y ajusta de sal.",
     "Para la polenta, lleva a ebullición 600 ml de agua con sal y el resto del aceite. Echa la harina de maíz en forma de lluvia batiendo con varillas para que no se formen grumos y cuece a fuego mínimo removiendo a menudo: 5 minutos si es instantánea o 40 si es tradicional (en ese caso, empiézala con el guiso a media cocción). Debe quedar cremosa y despegarse de las paredes; si espesa demasiado, añade agua caliente.",
@@ -1127,13 +1126,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pollo en una cazuela con la mitad del jengibre en láminas, 2 chalotas partidas, 1 cucharadita de sal y 800 ml de agua fría. Lleva a ebullición, quita la espuma y cuece a fuego muy suave 25 minutos, sin que borbotee, hasta que el pollo esté hecho y jugoso.",
+    "Pon el pollo en una cazuela con la mitad del jengibre en láminas, 2 chalotas partidas, 1 cucharadita de sal y 800 ml de agua fría. Lleva a ebullición, quita la espuma y cuece a fuego muy suave 25 minutos, sin que borbotee, hasta que el pollo esté hecho y jugoso. Mientras, pica la chalota restante y el ajo, corta la cebolla morada en juliana muy fina y el pepino en rodajas, deshoja la menta y el cilantro y ralla el resto del jengibre.",
     "Pasa el pollo a un bol con agua fría 2 minutos (así la piel queda firme), escúrrelo y cuela el caldo.",
-    "Lava el arroz hasta que el agua salga clara. En otra cazuela con el aceite, sofríe la chalota restante y el ajo picados 2 minutos, añade la cúrcuma y el arroz y remueve 1 minuto hasta que el arroz esté amarillo y brillante.",
+    "Lava el arroz hasta que el agua salga clara. En otra cazuela con el aceite, sofríe la chalota y el ajo 2 minutos, añade la cúrcuma y el arroz y remueve 1 minuto hasta que el arroz esté amarillo y brillante.",
     "Cubre con 220 ml del caldo caliente, ajusta de sal, tapa y cuece a fuego mínimo 12 minutos; deja reposar 5 minutos sin destapar.",
-    "Mientras, deshuesa el pollo, desmígalo en tiras y mézclalo con la cebolla morada en juliana muy fina, la mitad de la menta y del cilantro, el zumo de media lima, sal y pimienta.",
-    "Para la salsa, machaca el chile con el resto del jengibre rallado, el azúcar y una pizca de sal; añade el zumo de 1 lima y 2 cucharadas de caldo.",
-    "Sirve el arroz con el pollo aliñado encima, el pepino en rodajas, el resto de las hierbas, la salsa de lima aparte y un cuenco de caldo caliente al lado."
+    "Mientras, deshuesa el pollo, desmígalo en tiras y mézclalo con la cebolla morada, la mitad de la menta y del cilantro, el zumo de media lima, sal y pimienta.",
+    "Para la salsa, machaca el chile con el jengibre rallado, el azúcar y una pizca de sal; añade el zumo de 1 lima y 2 cucharadas de caldo.",
+    "Sirve el arroz con el pollo aliñado encima, el pepino, el resto de las hierbas, la salsa de lima aparte y un cuenco de caldo caliente al lado."
   ],
   nutricion: { kcal: 590, prot: 38, hc: 67, grasa: 19 },
   etiquetas: ["creativa", "sin gluten", "apta para alergias", "sin lácteos", "alta en proteína", "bajo en colesterol"],
@@ -1172,10 +1171,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los níscalos con un paño húmedo o un cepillo, sin remojarlos, y córtalos en trozos grandes. Pon a calentar el agua.",
-    "Sala el pavo y dóralo en la cazuela con el aceite a fuego fuerte 6-7 minutos, hasta que esté bien tostado. Añade el pimiento en tiras y cocina 4 minutos.",
-    "Añade la cebolla y el ajo picados, 3 minutos, y luego los níscalos, 4 minutos más a fuego vivo para que suelten su agua y se doren.",
-    "Incorpora el pimentón, remueve 10 segundos y añade enseguida el tomate rallado. Sofríe 5 minutos, hasta que el tomate pierda el agua y el aceite brille.",
+    "Limpia los níscalos con un paño húmedo o un cepillo, sin remojarlos, y córtalos en trozos grandes. Pon a calentar el agua. Corta el pimiento en tiras, pica la cebolla y el ajo y ralla el tomate.",
+    "Sala el pavo y dóralo en la cazuela con el aceite a fuego fuerte 6-7 minutos, hasta que esté bien tostado. Añade el pimiento y cocina 4 minutos.",
+    "Añade la cebolla y el ajo, 3 minutos, y luego los níscalos, 4 minutos más a fuego vivo para que suelten su agua y se doren.",
+    "Incorpora el pimentón, remueve 10 segundos y añade enseguida el tomate. Sofríe 5 minutos, hasta que el tomate pierda el agua y el aceite brille.",
     "Vierte el agua caliente, añade el azafrán desmenuzado y el romero y cuece a fuego medio 15 minutos para que el caldo tome sabor. Prueba y sala: debe quedar un punto salado. Retira el romero para que no amargue.",
     "Echa el arroz repartido y cuece 17-18 minutos a fuego medio-suave, sin remover apenas.",
     "Debe quedar caldoso, con el grano entero y el caldo suelto. Deja reposar 2 minutos y sirve enseguida en plato hondo."
@@ -1216,12 +1215,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las zanahorias y córtalas en rodajas finas: cuanto más finas, antes se cuecen. Limpia el puerro y córtalo en rodajas con la cebolla.",
+    "Pela las zanahorias y córtalas en rodajas finas: cuanto más finas, antes se cuecen. Limpia el puerro y córtalo en rodajas con la cebolla. Pon a calentar 900 ml de agua.",
     "Rehoga la cebolla y el puerro en la cazuela con 1,5 cucharadas de aceite a fuego medio 5 minutos, sin que se doren.",
     "Añade la zanahoria, la pizca de azúcar y sal, y rehoga 3 minutos más.",
-    "Incorpora el arroz, el tomillo, el laurel y 900 ml de agua caliente. Cuece tapado a fuego medio 18-20 minutos, hasta que la zanahoria se aplaste con facilidad y el arroz esté muy pasado.",
+    "Incorpora el arroz, el tomillo, el laurel y el agua caliente. Cuece tapado a fuego medio 18-20 minutos, hasta que la zanahoria se aplaste con facilidad y el arroz esté muy pasado. Mientras, tuesta las pipas en una sartén seca 2-3 minutos y pica el cebollino.",
     "Retira el laurel y las ramas de tomillo y tritura hasta que la crema esté muy fina: el arroz le da cuerpo y la deja sedosa. Si queda espesa, añade agua caliente.",
-    "Tuesta las pipas en una sartén seca 2-3 minutos. Sirve la crema con las pipas, el cebollino picado, pimienta recién molida y un hilo del resto del aceite."
+    "Sirve la crema con las pipas, el cebollino, pimienta recién molida y un hilo del resto del aceite."
   ],
   nutricion: { kcal: 410, prot: 10, hc: 48, grasa: 20 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "ligera", "económica", "poco especiada", "bajo en colesterol"],
@@ -1258,10 +1257,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon la costilla en la cazuela, cúbrela de agua fría y llévala a ebullición; cuece 3 minutos, tira el agua y lava los trozos bajo el grifo. Es el truco cantonés para un caldo limpio y transparente.",
     "Vuelve a ponerla en la cazuela limpia con el jengibre en láminas, la parte blanca de las cebolletas y 1,5 litros de agua. Lleva a ebullición y cuece tapado a fuego muy suave 45 minutos, retirando la espuma y la grasa que suban.",
-    "Pela el daikon y la zanahoria y córtalos en trozos de 3 cm, en cuñas irregulares: así cuecen igual y absorben más caldo.",
+    "Mientras, pela el daikon y la zanahoria y córtalos en trozos de 3 cm, en cuñas irregulares: así cuecen igual y absorben más caldo. Pica la parte verde de las cebolletas y el cilantro.",
     "Añádelos a la cazuela con una cucharadita de sal y cuece 25-30 minutos más, hasta que el daikon esté translúcido y se pinche sin resistencia.",
     "Mientras, cuece el arroz jazmín lavado en 180 ml de agua, tapado y a fuego mínimo 12 minutos.",
-    "Ajusta de sal, añade la pimienta blanca y sirve el caldo con la costilla y las verduras, la parte verde de las cebolletas y el cilantro picados por encima, y el arroz aparte."
+    "Ajusta de sal, añade la pimienta blanca y sirve el caldo con la costilla y las verduras, la parte verde de las cebolletas y el cilantro por encima, y el arroz aparte."
   ],
   nutricion: { kcal: 590, prot: 30, hc: 63, grasa: 24 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "de cuchara", "invierno", "poco especiada"],
@@ -1302,8 +1301,8 @@ window.RECETAS_SEED.push({
     "Rellena la cavidad con el arroz, 4 dientes de ajo enteros y unas láminas de jengibre, sin apretar, porque el arroz se hinchará. Cruza las patas y átalas con cordel para que no se salga el relleno.",
     "Ponlo en una cazuela justa con el resto del ajo y del jengibre, la parte blanca de las cebolletas y 1,5 litros de agua fría. Lleva a ebullición y quita la espuma.",
     "Tapa y cuece a fuego suave 50 minutos, hasta que la carne se separe del hueso con la cuchara y el arroz del interior esté tierno.",
-    "Mientras, corta el pepino en rodajas finas, mézclalo con sal y déjalo 10 minutos; escúrrelo y alíñalo con el zumo de limón, la pizca de azúcar y los copos de chile.",
-    "Sirve el picantón en un cuenco grande con su caldo sin salar: en la mesa cada uno lo sazona con sal y pimienta y añade la parte verde de la cebolleta picada. El pepino va aparte."
+    "Mientras, corta el pepino en rodajas finas, mézclalo con sal y déjalo 10 minutos; escúrrelo y alíñalo con el zumo de limón, la pizca de azúcar y los copos de chile. Pica la parte verde de la cebolleta.",
+    "Sirve el picantón en un cuenco grande con su caldo sin salar: en la mesa cada uno lo sazona con sal y pimienta y añade la parte verde de la cebolleta. El pepino va aparte."
   ],
   nutricion: { kcal: 440, prot: 37, hc: 34, grasa: 17 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "ligera", "de cuchara", "bajo en colesterol"],
@@ -1345,12 +1344,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Quita el tallo y las semillas a los chiles y tuéstalos en una sartén seca 20-30 segundos por lado, hasta que huelan y se ablanden, sin que se quemen (amargarían). Remójalos en 400 ml de agua recién hervida 15 minutos.",
-    "Mientras, sala el cerdo y dóralo en la olla exprés destapada con el aceite a fuego fuerte, en dos tandas, 6-7 minutos. Añade la mitad de la cebolla picada y cocina 3 minutos.",
+    "Mientras, pica la cebolla. Sala el cerdo y dóralo en la olla exprés destapada con el aceite a fuego fuerte, en dos tandas, 6-7 minutos. Añade la mitad de la cebolla picada y cocina 3 minutos.",
     "Tritura los chiles con su agua, el ajo, el resto de la cebolla, el comino y el orégano hasta obtener una salsa muy fina. Cuélala sobre la olla apretando con una cuchara para quitar los restos de piel.",
     "Remueve raspando el fondo, sala y cierra la olla. Cuece 25 minutos a presión alta desde que suba la válvula y deja que baje la presión de forma natural.",
-    "Mientras, cuece el arroz en agua hirviendo con sal 12 minutos y escúrrelo. Corta los rábanos en láminas.",
+    "Mientras, cuece el arroz en agua hirviendo con sal 12 minutos y escúrrelo. Corta los rábanos en láminas y pica el cilantro.",
     "Abre la olla, deslíe la harina de maíz en 3 cucharadas de la salsa y añádela; cuece destapado 5 minutos, removiendo, hasta que la salsa espese y cubra la carne. Ajusta de sal.",
-    "Calienta las tortillas en la sartén seca y sirve el chile colorado con el arroz, los rábanos, el cilantro picado y gajos de lima."
+    "Calienta las tortillas en la sartén seca y sirve el chile colorado con el arroz, los rábanos, el cilantro y gajos de lima."
   ],
   nutricion: { kcal: 720, prot: 42, hc: 70, grasa: 30 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "picante", "batch cooking"],

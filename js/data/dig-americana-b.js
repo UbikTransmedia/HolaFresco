@@ -136,7 +136,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 8-10 minutos, solo hasta que un cuchillo entre con una ligera resistencia: terminarán en el horno. Escúrrelas y deja que pierdan el vapor en el colador. Precalienta el horno a 190 °C.",
+    "Precalienta el horno a 190 °C. Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 8-10 minutos, solo hasta que un cuchillo entre con una ligera resistencia: terminarán en el horno. Escúrrelas y deja que pierdan el vapor en el colador.",
     "Para la salsa, derrite 10 g de mantequilla en un cazo a fuego medio, añade la harina de arroz y remueve 1 minuto. Vierte el caldo y la leche calientes poco a poco, batiendo con varillas, y cuece 3-4 minutos, hasta que cubra la cuchara: es la «crema de pollo» casera del plato.",
     "Fuera del fuego, añade la crema agria, tres cuartas partes del cheddar, el cebollino y los tallos verdes de cebolleta picados, sal y pimienta blanca.",
     "Mezcla con cuidado las patatas con la salsa, sin romperlas, y pásalas a una fuente de horno de unos 20 cm.",
@@ -374,7 +374,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Quita las semillas a la calabaza y córtala en gajos de 2 cm con la piel, que es comestible. Mézclala con la mitad del aceite, sal y las hojas de tomillo y ásala 30 minutos, hasta que esté tierna y dorada.",
-    "Corta el tempeh en dados de 2,5 cm y cuécelo 10 minutos en agua hirviendo: pierde el punto amargo, se ablanda y luego absorbe mejor la salsa.",
+    "Mientras, pon a hervir un cazo con agua, corta el tempeh en dados de 2,5 cm y cuécelo 10 minutos en el agua hirviendo: pierde el punto amargo, se ablanda y luego absorbe mejor la salsa.",
     "Para la barbacoa, pon en un cazo el tomate triturado, el concentrado, el sirope de arce, el azúcar, el vinagre, la mostaza, el pimentón ahumado, el tamari y 3 cucharadas de agua. Cuece 8 minutos a fuego suave, removiendo, hasta que esté espesa y brillante.",
     "Escurre el tempeh, mézclalo con el resto del aceite y un tercio de la salsa y extiéndelo en una bandeja con papel de horno. Hornéalo 12 minutos.",
     "Sácalo, píntalo con otro tercio de la salsa y hornéalo 8-10 minutos más, hasta que los bordes estén oscuros y caramelizados: esas son las «puntas quemadas».",
@@ -419,7 +419,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas con piel en una cazuela con agua fría y sal, lleva a hervor y cuécelas 20-25 minutos, hasta que un cuchillo entre con una ligera resistencia: si se pasan, se deshacen al mezclar.",
-    "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos.",
+    "Mientras, cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos.",
     "Pela las patatas aún templadas, córtalas en dados de 2 cm y rocíalas en un bol con el vinagre y una pizca de sal. Déjalas 10 minutos: en caliente absorben el aliño y quedan sabrosas por dentro.",
     "Bate la mayonesa con el yogur, la mostaza, la cucharada de líquido de los pepinillos, el azúcar y pimienta.",
     "Pica finos los pepinillos, el pimiento verde y los tallos verdes de la cebolleta. Pica dos huevos y corta el tercero en rodajas.",
@@ -792,10 +792,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua abundante con sal. Mezcla el pimentón, el tomillo, el orégano, una pizca de pimienta y media cucharadita de sal: es tu mezcla cajún suave. Espolvorea una cucharadita sobre las gambas.",
+    "Pon a hervir agua abundante con sal. Corta los pimientos en tiras, los tallos verdes de cebolleta en aros y el tomate en dados. Mezcla el pimentón, el tomillo, el orégano, una pizca de pimienta y media cucharadita de sal: es tu mezcla cajún suave. Espolvorea una cucharadita sobre las gambas.",
     "Calienta una sartén grande a fuego fuerte con la mitad del aceite de ajo y marca las gambas 1 minuto por cada lado, hasta que se curven y estén rosadas. Sácalas: terminarán de hacerse en la salsa.",
-    "Baja el fuego a medio, añade el resto del aceite y rehoga los pimientos en tiras y los tallos verdes de cebolleta 6 minutos, hasta que estén tiernos. Añade el resto de la mezcla de especias, remueve 30 segundos e incorpora el tomate en dados. Cocina 4 minutos, hasta que se deshaga en salsa.",
-    "Cuece la pasta 1 minuto menos de lo que indique el envase y reserva un vaso del agua de cocción.",
+    "Echa la pasta en el agua hirviendo y cuécela 1 minuto menos de lo que indique el envase; al escurrirla, reserva un vaso del agua de cocción.",
+    "Mientras, baja el fuego de la sartén a medio, añade el resto del aceite y rehoga los pimientos y la cebolleta 6 minutos, hasta que estén tiernos. Añade el resto de la mezcla de especias, remueve 30 segundos e incorpora el tomate. Cocina 4 minutos, hasta que se deshaga en salsa.",
     "Vierte la nata en la sartén y deja hervir 1 minuto. Añade la pasta escurrida, las gambas, el parmesano rallado y un chorrito del agua reservada, y mezcla 1-2 minutos, hasta que la salsa anaranjada cubra la pasta.",
     "Termina con el zumo del limón y el perejil picado y sirve enseguida."
   ],
@@ -834,10 +834,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua abundante con sal. Corta los filetes de ternera en tiras de 3 mm, a contrapelo de la fibra: así quedan tiernas aunque se hagan en un minuto.",
-    "Calienta una sartén grande a fuego fuerte con la mitad del aceite de ajo y saltea el pimiento verde en tiras 6-7 minutos, hasta que esté blando y con puntos tostados. Añade los tallos verdes de la cebolleta en el último minuto y resérvalo todo.",
+    "Pon a hervir agua abundante con sal. Corta los filetes de ternera en tiras de 3 mm, a contrapelo de la fibra: así quedan tiernas aunque se hagan en un minuto. Corta el pimiento verde en tiras.",
+    "Cuando hierva el agua, cuece la pasta 1 minuto menos de lo que indique el envase; al escurrirla, reserva un poco del agua.",
+    "Mientras, calienta una sartén grande a fuego fuerte con la mitad del aceite de ajo y saltea el pimiento verde 6-7 minutos, hasta que esté blando y con puntos tostados. Añade los tallos verdes de la cebolleta en el último minuto y resérvalo todo.",
     "Con la sartén al máximo y el resto del aceite, extiende la ternera en una sola capa y déjala 1 minuto sin moverla; saltéala 1 minuto más con el tamari y pimienta y júntala con los pimientos.",
-    "Cuece la pasta 1 minuto menos de lo que indique el envase y reserva un poco del agua.",
     "Para la salsa, disuelve la maicena en la leche fría en un cazo y caliéntala removiendo 2 minutos, hasta que espese un poco. Fuera del fuego, añade el provolone rallado y remueve hasta que se funda y quede lisa.",
     "Junta en la sartén la pasta escurrida, la carne con los pimientos y la salsa y mezcla 1 minuto a fuego bajo, con un chorrito del agua de la pasta si se espesa. Sirve con pimienta recién molida."
   ],
@@ -879,9 +879,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las almejas 10 minutos en agua fría con sal para que suelten la arena que les quede y enjuágalas. Pon a hervir agua con sal para la pasta.",
-    "En una sartén grande con 1 cucharadita del aceite de ajo, tuesta el pan rallado 3 minutos a fuego medio, removiendo, hasta que esté dorado y crujiente. Mézclalo con la ralladura del limón y apártalo.",
+    "Cuando hierva el agua, cuece los linguine 1 minuto menos de lo que indique el envase. Mientras, en una sartén grande con 1 cucharadita del aceite de ajo, tuesta el pan rallado 3 minutos a fuego medio, removiendo, hasta que esté dorado y crujiente. Mézclalo con la ralladura del limón y apártalo.",
     "En la misma sartén, con 1 cucharada de aceite de ajo, rehoga los tallos verdes de cebolleta y el tomillo 30 segundos. Añade las almejas y 100 ml de agua, tapa y cocina a fuego fuerte 3-4 minutos, hasta que se abran. Desecha las que sigan cerradas y saca la mitad de su concha.",
-    "Cuece los linguine 1 minuto menos de lo que indique el envase.",
     "Saca las almejas de la sartén y, si el jugo tiene arena, cuélalo y devuélvelo. Añade los tomates partidos por la mitad y el maíz y cocina 2 minutos.",
     "Incorpora la pasta escurrida, la mantequilla, el resto del aceite de ajo y el zumo de medio limón, y saltea 1-2 minutos con un chorrito del agua de cocción, hasta que la salsa ligue y brille. Devuelve todas las almejas y el perejil picado.",
     "Sirve con las migas crujientes por encima y gajos del otro medio limón."
@@ -922,9 +921,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el pollo en una cazuela con el caldo y llévalo a un hervor suave. Cuécelo 25 minutos con la tapa entreabierta, desespumando, hasta que esté muy tierno. Sácalo y desmenúzalo con dos tenedores.",
-    "Mientras, cuece un huevo 10 minutos, enfríalo, pélalo y pícalo.",
+    "Mientras, cuece un huevo 10 minutos, enfríalo, pélalo y pícalo, y corta la zanahoria en dados pequeños.",
     "Para los rivels, pon la harina con una pizca de sal en un bol, añade el otro huevo batido y frota la mezcla entre las yemas de los dedos hasta tener grumitos irregulares del tamaño de un grano de arroz grande.",
-    "Añade al caldo la zanahoria en dados pequeños y el azafrán y cuece 8 minutos.",
+    "Añade al caldo la zanahoria y el azafrán y cuece 8 minutos.",
     "Sube el fuego hasta que el caldo hierva con alegría y deja caer los rivels poco a poco, removiendo para que no se peguen entre sí. Cuécelos 7-8 minutos, hasta que estén tiernos y el caldo haya espesado ligeramente.",
     "Añade el maíz y el pollo desmenuzado y cuece 3 minutos más. Salpimienta y sirve con el huevo picado, el perejil y los tallos verdes de cebolleta en aros."
   ],
@@ -1057,9 +1056,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol mezcla el pavo con el pan rallado, el huevo, el parmesano, la mitad de la salvia picada muy fina, la ralladura de la media naranja, sal y pimienta. Con las manos húmedas forma unas 16 albóndigas de 3 cm y déjalas 10 minutos en la nevera para que se asienten.",
+    "En un bol mezcla el pavo con el pan rallado, el huevo, el parmesano, la mitad de la salvia picada muy fina, la ralladura de la media naranja, sal y pimienta. Con las manos húmedas forma unas 16 albóndigas de 3 cm y déjalas 10 minutos en la nevera para que se asienten. Mientras, pela la chirivía y la zanahoria y córtalas en dados.",
     "Calienta el aceite en una cazuela a fuego medio y dora las albóndigas 4 minutos, girándolas con cuidado. No hace falta que se hagan por dentro. Sácalas.",
-    "En la misma cazuela rehoga la chirivía y la zanahoria en dados y el tomillo 3 minutos. Vierte el caldo, raspa el fondo con una cuchara de madera para despegar el tostado y lleva a hervor.",
+    "En la misma cazuela rehoga la chirivía, la zanahoria y el tomillo 3 minutos. Vierte el caldo, raspa el fondo con una cuchara de madera para despegar el tostado y lleva a hervor.",
     "Añade el arroz lavado y cuece 10 minutos a fuego suave.",
     "Devuelve las albóndigas y añade el kale sin tallos cortado en tiras. Cuece 8 minutos, hasta que las albóndigas estén firmes y el arroz tierno.",
     "Termina con el resto de la salvia en tiras finas y un chorrito del zumo de la naranja. Ajusta de sal y sirve."

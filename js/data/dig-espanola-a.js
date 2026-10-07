@@ -409,11 +409,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto", nota: "4-5 granos" }
   ],
   pasos: [
-    "Quita a las codornices los restos de plumas y retira la piel tirando de ella con los dedos desde la pechuga: sale con facilidad y se lleva casi toda la grasa. Sálalas por dentro y por fuera y átales las patas con hilo para que guarden la forma.",
+    "Quita a las codornices los restos de plumas y retira la piel tirando de ella con los dedos desde la pechuga: sale con facilidad y se lleva casi toda la grasa. Sálalas por dentro y por fuera y átales las patas con hilo para que guarden la forma. Corta la zanahoria en rodajas de 1 cm y pica la cebolleta.",
     "En una cazuela de fondo grueso, calienta el aceite de ajo a fuego medio y dora las codornices 6-8 minutos, girándolas, hasta que tomen color por todos lados. Sácalas.",
-    "Añade a la cazuela la zanahoria en rodajas de 1 cm y la cebolleta picada y rehoga 4 minutos, rascando el fondo con una cuchara de madera para despegar lo tostado.",
-    "Devuelve las codornices, riega con el vinagre y deja que se evapore 1 minuto. Vierte el caldo caliente y añade el laurel, el tomillo y los granos de pimienta. Tapa y cuece a fuego suave 25 minutos.",
-    "Añade las patatas peladas y cascadas en trozos de 3 cm y cuece 20 minutos más, hasta que estén tiernas, la carne se separe del hueso y la salsa se haya reducido.",
+    "Añade a la cazuela la zanahoria y la cebolleta y rehoga 4 minutos, rascando el fondo con una cuchara de madera para despegar lo tostado.",
+    "Devuelve las codornices, riega con el vinagre y deja que se evapore 1 minuto. Vierte el caldo caliente y añade el laurel, el tomillo y los granos de pimienta. Tapa y cuece a fuego suave 25 minutos. Mientras, pela las patatas y cáscalas en trozos de 3 cm.",
+    "Añade las patatas y cuece 20 minutos más, hasta que estén tiernas, la carne se separe del hueso y la salsa se haya reducido.",
     "Retira el laurel, el tomillo, los granos de pimienta y el hilo, deja reposar 5 minutos y sirve 2 codornices por persona con las verduras y su salsa."
   ],
   nutricion: { kcal: 460, prot: 44, hc: 37, grasa: 15 },
@@ -450,8 +450,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el pollo. En una cazuela, calienta el aceite de ajo a fuego medio-alto y dora el pollo 5-6 minutos, hasta que esté tostado por todas las caras. Sácalo.",
-    "Baja el fuego, añade la zanahoria en rodajas finas y la cebolleta picada, tapa y póchalas 10 minutos, removiendo de vez en cuando, hasta que la zanahoria esté muy tierna: hace el papel de la cebolla pochada de la salsa original.",
+    "Corta la zanahoria en rodajas finas y pica la cebolleta. Sala el pollo. En una cazuela, calienta el aceite de ajo a fuego medio-alto y dora el pollo 5-6 minutos, hasta que esté tostado por todas las caras. Sácalo.",
+    "Baja el fuego, añade la zanahoria y la cebolleta, tapa y póchalas 10 minutos, removiendo de vez en cuando, hasta que la zanahoria esté muy tierna: hace el papel de la cebolla pochada de la salsa original.",
     "Añade la carne de choricero, remueve 1 minuto y vierte el caldo con el laurel. Cuece 10 minutos a fuego suave.",
     "Retira el laurel y tritura la salsa hasta que quede fina y de color teja; si quieres una textura de restaurante, pásala por un colador.",
     "Devuelve la salsa y el pollo a la cazuela, tapa y guisa a fuego suave 20 minutos, hasta que el pollo esté tierno y la salsa untuosa. Si espesa demasiado, añade un poco de agua.",
@@ -578,8 +578,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la carne con papel, retira la grasa visible y salpimiéntala. En una cazuela de fondo grueso, calienta el aceite de ajo a fuego alto y dora la carne en dos tandas, 4-5 minutos cada una, hasta que tenga costra marrón. Sácala.",
-    "Baja a fuego medio, añade la cebolleta picada y la zanahoria en rodajas gruesas y rehoga 4 minutos, rascando el fondo con una cuchara de madera para despegar lo tostado.",
+    "Pica la cebolleta y corta la zanahoria en rodajas gruesas. Seca la carne con papel, retira la grasa visible y salpimiéntala. En una cazuela de fondo grueso, calienta el aceite de ajo a fuego alto y dora la carne en dos tandas, 4-5 minutos cada una, hasta que tenga costra marrón. Sácala.",
+    "Baja a fuego medio, añade la cebolleta y la zanahoria y rehoga 4 minutos, rascando el fondo con una cuchara de madera para despegar lo tostado.",
     "Vuelve a meter la carne, añade el pimentón, remueve 10 segundos y vierte el caldo caliente con el laurel. Debe quedar casi cubierta.",
     "Tapa y guisa a fuego muy suave, con un hilo de burbujas, 1 hora y 20 minutos, removiendo cada 20 minutos y añadiendo un poco de agua si hace falta.",
     "Añade las patatas peladas y cascadas en trozos de 3 cm y cuece 25 minutos más, hasta que la carne se deshaga al apretarla y la salsa esté espesa.",

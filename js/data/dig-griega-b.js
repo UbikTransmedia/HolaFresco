@@ -259,7 +259,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Pela las zanahorias y córtalas a lo largo por la mitad (en cuartos si son gruesas).",
     "Machaca el cilantro en grano en un mortero, sin llegar a polvo. Mezcla las zanahorias en la bandeja con el aceite de oliva, el cilantro y sal, y ásalas 25-30 minutos, dándoles la vuelta a mitad, hasta que estén tiernas y caramelizadas en los bordes.",
-    "Prepara la tahinosalata: en un bol, mezcla el tahini con el zumo de media naranja, el del medio limón, el aceite de ajo y sal. Al principio se espesará y parecerá cortada; sigue removiendo y añade agua fría a cucharadas hasta que quede lisa y fluida como una crema ligera. Añade la ralladura de la naranja.",
+    "Mientras se asan, prepara la tahinosalata: en un bol, mezcla el tahini con el zumo de media naranja, el del medio limón, el aceite de ajo y sal. Al principio se espesará y parecerá cortada; sigue removiendo y añade agua fría a cucharadas hasta que quede lisa y fluida como una crema ligera. Añade la ralladura de la naranja.",
     "Cuece los huevos en agua hirviendo 6 minutos y medio y pásalos a agua muy fría 2 minutos. Pélalos con cuidado: la yema debe quedar cremosa.",
     "Tuesta el sésamo en una cazuela pequeña en seco 2 minutos, hasta que huela. Calienta la pita en el horno los últimos 3 minutos.",
     "Extiende la tahinosalata en los platos, coloca encima las zanahorias, los huevos abiertos por la mitad, el resto del zumo de naranja por encima, el sésamo y el eneldo picado. Sirve con la pita en triángulos."
@@ -343,7 +343,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el tempeh en 6 filetes finos y cuécelos al vapor (o en agua apenas agitándose) 10 minutos: pierde el amargor y queda más tierno y digestivo. Sécalos con papel.",
     "Cuece el arroz en abundante agua con sal y una tira de piel de limón 16-18 minutos, hasta que esté tierno. Escúrrelo.",
-    "Mientras, sala los filetes de tempeh y pásalos por la harina de arroz, sacudiendo el exceso.",
+    "Mientras, pica el perejil, sala los filetes de tempeh y pásalos por la harina de arroz, sacudiendo el exceso.",
     "Calienta el aceite de oliva en una sartén antiadherente a fuego medio y dora el tempeh 2-3 minutos por cada lado, hasta que tenga una costra fina y dorada.",
     "Baja el fuego, añade el aceite de ajo y la mitad del perejil picado y remueve 20 segundos. Vierte el vinagre (aparta la cara: el vapor es fuerte) y deja que reduzca a la mitad.",
     "Añade el caldo, abundante pimienta negra y cuece 8-10 minutos a fuego suave, dando la vuelta a los filetes, hasta que la harina espese la salsa y quede ligada y brillante.",
@@ -469,9 +469,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Si el arenque es muy salado, ponlo 20 minutos en un bol con agua fría y escúrrelo. Quítale la piel y las espinas visibles y desmígalo en trozos grandes.",
-    "Pela las naranjas a cuchillo, quitando toda la parte blanca, y córtalas en rodajas finas sobre un plato para recoger el zumo.",
-    "Corta el hinojo en láminas muy finas y la parte verde de la cebolleta en aros.",
+    "Si el arenque es muy salado, ponlo 20 minutos en un bol con agua fría.",
+    "Mientras, pela las naranjas a cuchillo, quitando toda la parte blanca, y córtalas en rodajas finas sobre un plato para recoger el zumo.",
+    "Corta el hinojo en láminas muy finas y la parte verde de la cebolleta en aros. Escurre el arenque, quítale la piel y las espinas visibles y desmígalo en trozos grandes.",
     "Bate el zumo recogido con el aceite, el vinagre y pimienta negra (no añadas sal: el arenque y las aceitunas ya la llevan).",
     "Monta los platos con la lechuga en tiras y la rúcula, encima las rodajas de naranja, el hinojo, el arenque y las aceitunas. Riega con el aliño y la cebolleta.",
     "Tuesta el pan y sírvelo al lado para mojar en el jugo de naranja del fondo."
@@ -731,7 +731,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C y asa los pimientos verdes enteros en una bandeja 20 minutos, dándoles la vuelta a mitad, hasta que la piel se ampolle. Mételos en un bol tapado 10 minutos, pélalos, quítales las semillas y córtalos en tiras.",
     "Mientras, prepara la salsa: calienta el aceite de ajo en un cazo a fuego medio, añade el tomate triturado, el orégano, el laurel, el azúcar y sal, y cuece 20 minutos a fuego suave, removiendo de vez en cuando, hasta que espese y pierda la acidez. Retira el laurel.",
-    "Para el katsamaki, lleva a ebullición el agua con la leche y una cucharadita rasa de sal. Echa la polenta en forma de lluvia, batiendo con unas varillas para que no se formen grumos.",
+    "A la vez, para el katsamaki, lleva a ebullición el agua con la leche y una cucharadita rasa de sal. Echa la polenta en forma de lluvia, batiendo con unas varillas para que no se formen grumos.",
     "Baja el fuego al mínimo y cuece 25-30 minutos (o el tiempo del paquete si es precocida), removiendo con una cuchara de madera cada pocos minutos, hasta que espese, pierda el sabor a crudo y se despegue de las paredes. Si se pone muy dura, añade un chorrito de agua caliente. Termina con el aceite de oliva.",
     "Sirve el katsamaki en platos hondos, haz un hueco en el centro con el dorso de la cuchara y llénalo de salsa de tomate. Coloca encima las tiras de pimiento, desmenuza la feta y termina con una vuelta de pimienta."
   ],
@@ -817,7 +817,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta.",
-    "Tuesta las nueces en una sartén en seco 3 minutos. Reserva un par de ellas para el final.",
+    "Mientras se calienta el agua, tuesta las nueces en una sartén en seco 3 minutos. Reserva un par de ellas para el final.",
     "Escalda las espinacas 20 segundos en el agua de la pasta, sácalas con una espumadera, enfríalas en agua fría y escúrrelas apretando: así el pesto queda verde intenso y más digestivo.",
     "Tritura las espinacas con el eneldo, la menta, las nueces, el queso rallado, el aceite de ajo, la ralladura del limón, un chorrito de su zumo y 3 cucharadas de agua fría hasta tener una crema lisa. Prueba de sal.",
     "Cuece los espaguetis el tiempo del paquete. Mientras, calienta el aceite de oliva en la sartén a fuego fuerte y saltea los tomates cherry enteros 4-5 minutos, hasta que se arruguen y algunos revienten. Sálalos.",
@@ -953,7 +953,7 @@ window.RECETAS_SEED.push({
     "Trocea los tomates. Pela el pepino, quítale las semillas y reserva un trozo de 3 cm; trocea el resto. Quita las semillas y las membranas blancas al pimiento, reserva un trozo pequeño y trocea el resto.",
     "Tritura los tomates, el pepino y el pimiento troceados con el aceite de ajo, el vinagre, la mitad del orégano, sal y 100 ml de agua muy fría hasta que esté muy fino. Cuélalo por un colador para quitar pieles y pepitas.",
     "Mételo en la nevera al menos 15 minutos (o en el congelador 10) para que esté bien frío.",
-    "Corta el pan en dados pequeños y tuéstalo en una sartén a fuego medio con 1 cucharadita del aceite de oliva y el resto del orégano, 3-4 minutos, hasta que esté crujiente.",
+    "Mientras se enfría, corta el pan en dados pequeños y tuéstalo en una sartén a fuego medio con 1 cucharadita del aceite de oliva y el resto del orégano, 3-4 minutos, hasta que esté crujiente.",
     "Pica en dados muy pequeños el pepino y el pimiento reservados, las aceitunas deshuesadas y la parte verde de la cebolleta.",
     "Sirve la sopa en cuencos fríos con la feta desmigada, la picadita de verduras y aceitunas, los dados de pan y el resto del aceite en hilo."
   ],
@@ -995,7 +995,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos.",
-    "Pela la patata y córtala en rodajas finas. Lava la lechuga y córtala en tiras gruesas.",
+    "Mientras se cuecen, pela la patata y córtala en rodajas finas. Lava la lechuga y córtala en tiras gruesas.",
     "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto. Añade la patata y el caldo caliente, sala y cuece 15 minutos, hasta que la patata esté tierna.",
     "Añade la lechuga y cuece solo 3 minutos más, hasta que se ablande pero siga verde. Apaga, incorpora el eneldo y tritura hasta que esté muy fina. Termina con el zumo del limón y pimienta.",
     "Para el aceite de menta, tritura las hojas de menta con el aceite de oliva y una pizca de sal hasta que esté verde intenso.",
@@ -1038,7 +1038,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Ralla el queso fino y repártelo en 4 montoncitos planos sobre una bandeja con papel. Hornéalo 6-7 minutos, hasta que se funda y se dore; déjalo enfriar para que se endurezca en tejas crujientes.",
-    "Pela la patata y el apionabo y córtalos en dados de 2 cm.",
+    "Mientras se hornea, pela la patata y el apionabo y córtalos en dados de 2 cm.",
     "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto. Añade la patata y el apionabo y remueve 2 minutos.",
     "Vierte el caldo caliente, sala ligeramente y cuece 20 minutos, hasta que el apionabo esté muy tierno.",
     "Añade la leche y tritura hasta obtener una crema lisa y aterciopelada; si está muy espesa, alárgala con un poco de caldo. Termina con la ralladura y el zumo del limón y pimienta blanca.",
@@ -1084,7 +1084,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura la merluza a impulsos con el huevo, la mitad del eneldo y el perejil, la parte verde de una cebolleta, la ralladura de medio limón, sal y pimienta hasta tener una pasta gruesa. Pásala a un bol, mézclala con el pan rallado y déjala 10 minutos en la nevera.",
-    "Pela la patata y córtala en dados de 1,5 cm; pela la zanahoria y córtala en rodajas finas.",
+    "Mientras reposa, pela la patata y córtala en dados de 1,5 cm; pela la zanahoria y córtala en rodajas finas.",
     "En una cazuela, calienta el aceite de ajo y el de oliva a fuego medio y rehoga la parte verde de las otras dos cebolletas picada 1 minuto. Añade la zanahoria y rehógala 3 minutos, hasta que brille.",
     "Añade el caldo caliente, la patata y el laurel y cuece 15 minutos a fuego medio, hasta que la patata esté casi tierna.",
     "Con las manos húmedas, forma bolitas de pescado del tamaño de una nuez (unas 14). Baja el fuego para que el caldo apenas tiemble y escálfalas 6-7 minutos, sin remover, hasta que estén firmes y blancas por dentro.",

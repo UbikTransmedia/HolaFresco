@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Frota la merluza con media cucharadita de cúrcuma y una pizca de sal y déjala 10 minutos: en Bengala nunca se cocina el pescado sin este paso, que lo sazona y le da firmeza.",
-    "Lava el arroz basmati hasta que el agua salga casi clara y cuécelo en 280 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; apaga y déjalo reposar 5 minutos sin destapar.",
+    "Mientras, lava el arroz basmati hasta que el agua salga casi clara y cuécelo en 280 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; apaga y déjalo reposar 5 minutos sin destapar.",
     "En un bol, bate el yogur con la harina de arroz, el resto de la cúrcuma, el comino, el azúcar y el jengibre rallado hasta que quede liso. La harina de arroz es tu seguro: impide que el yogur se corte al calentarse.",
     "Calienta 1 cucharada de aceite en una sartén antideslizante a fuego medio y dora los trozos de merluza 1 minuto y medio por cada lado, solo hasta que tengan una película dorada. Sácalos a un plato.",
     "En una cazuela, calienta el resto del aceite a fuego medio-bajo y añade el cardamomo, la canela, el clavo y el laurel. Remueve 30 segundos, hasta que el cardamomo se hinche y huela.",
@@ -311,8 +311,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Infusiona el azafrán en 1 cucharada de agua tibia 10 minutos, hasta que el agua tome un color naranja intenso.",
     "Mezcla el yogur con el agua de azafrán, el cardamomo molido, el jengibre rallado, la ralladura de medio limón y sal. Embadurna el rape y déjalo marinar 20 minutos en la nevera (no más: el ácido empezaría a cocinarlo).",
-    "Cuece las patatas nuevas enteras, con piel, en agua con sal 15 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y pártelas por la mitad.",
-    "Prepara el kachumber: pepino y tomate en dados pequeños, los granos de granada, menta picada, el zumo de medio limón y una pizca de sal. Resérvalo en la nevera.",
+    "Mientras se marina el rape, cuece las patatas nuevas enteras, con piel, en agua con sal 15 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y pártelas por la mitad.",
+    "Mientras se cuecen, prepara el kachumber: pepino y tomate en dados pequeños, los granos de granada, menta picada, el zumo de medio limón y una pizca de sal. Resérvalo en la nevera.",
     "Ensarta el rape en 4 brochetas dejando un poco de espacio entre trozos. Calienta la plancha a fuego medio-alto, píntala con unas gotas de aceite y cocina las brochetas 6 a 8 minutos girándolas cada 2 minutos, hasta que estén opacas y con los bordes ligeramente tostados.",
     "Mientras, calienta el resto del aceite en una sartén, añade el comino y, cuando chisporrotee, las patatas por la cara cortada. Dóralas 5 minutos, hasta que estén crujientes por esa cara, y sala.",
     "Sirve las brochetas con las patatas, el kachumber bien frío y el limón restante en cuñas."
@@ -353,7 +353,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la kabocha con piel en gajos de 2 cm, mézclala con la cúrcuma, sal y 1 cucharadita del aceite de ajo y ásala 22 minutos, hasta que los bordes se caramelicen.",
-    "Lava el mijo en un colador fino. Tuéstalo en una cazuela seca con el comino 2 minutos, hasta que huela a pan tostado, añade 300 ml de agua y sal, tapa y cuece a fuego mínimo 15 minutos. Apaga y deja reposar 5 minutos tapado; despréndelo con un tenedor.",
+    "Mientras, lava el mijo en un colador fino. Tuéstalo en una cazuela seca con el comino 2 minutos, hasta que huela a pan tostado, añade 300 ml de agua y sal, tapa y cuece a fuego mínimo 15 minutos. Apaga y deja reposar 5 minutos tapado; despréndelo con un tenedor.",
     "Sala el bacalao. Ponlo en un plato dentro de una vaporera (o sobre una rejilla en una cazuela con dos dedos de agua hirviendo) y cuécelo tapado 7 a 8 minutos, hasta que las lascas se separen al presionar.",
     "Prepara la tadka en el último momento: calienta el resto del aceite de ajo en una sartén pequeña a fuego medio, añade el hinojo y el jengibre y cocina 40 segundos, hasta que el jengibre esté dorado pálido y el hinojo huela dulce.",
     "Pon el bacalao en los platos y vierte la tadka caliente por encima: debe chisporrotear al tocar el pescado.",
@@ -395,8 +395,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal y la cúrcuma 8 minutos, hasta que estén tiernas pero enteras. Escúrrelas bien.",
-    "Para el chutney, tritura el cilantro con sus tallos tiernos, las hojas de menta, el jengibre, el zumo de media lima, el yogur, sal y 2 cucharadas de agua fría hasta que quede verde intenso y fluido. Guárdalo en la nevera: con el calor pierde el color.",
+    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal y la cúrcuma 8 minutos, hasta que estén tiernas pero enteras.",
+    "Mientras se cuecen, prepara el chutney: tritura el cilantro con sus tallos tiernos, las hojas de menta, el jengibre, el zumo de media lima, el yogur, sal y 2 cucharadas de agua fría hasta que quede verde intenso y fluido. Guárdalo en la nevera: con el calor pierde el color. Escurre bien las patatas.",
     "En una sartén amplia, calienta 2 cucharaditas de aceite a fuego medio, añade la pizca de mostaza y, cuando salte, las hojas de curry (cuidado, chisporrotean). Agrega las patatas y dóralas 6 minutos, moviéndolas poco, hasta que tengan costra.",
     "Seca bien los filetes de caballa con papel, haz dos cortes superficiales en la piel y sálalos. Pinta la plancha con el resto del aceite y caliéntala a fuego medio-alto.",
     "Pon la caballa con la piel hacia abajo, presiona 10 segundos con una espátula para que no se curve y cocina 3 minutos sin moverla, hasta que la carne se vea opaca casi hasta arriba. Dale la vuelta 30 segundos.",
@@ -440,11 +440,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Remoja las almendras en agua caliente 15 minutos y tritúralas con la leche de coco y el jengibre hasta obtener una crema blanca y lisa. Resérvala.",
+    "Pon las almendras en remojo en agua caliente: necesitan al menos 15 minutos.",
     "Calienta el aceite de ajo en una cazuela de fondo grueso a fuego medio-alto y sella el cordero en dos tandas, 2 minutos por tanda, solo hasta que pierda el color rosado (en el kid gosht la carne no se tuesta: el guiso debe quedar blanco).",
     "Baja el fuego, añade el cardamomo abierto, la canela, el clavo y la pimienta en grano y remueve 30 segundos. Agrega la parte verde de la cebolleta picada y remueve 1 minuto más.",
-    "Cubre con 500 ml de agua caliente, sala, tapa y cuece a fuego suave 60 minutos, hasta que el cordero esté casi tierno.",
-    "Pela las patatas, córtalas en trozos grandes y añádelas a la cazuela. Cuece tapado 20 minutos más, hasta que estén tiernas.",
+    "Cubre con 500 ml de agua caliente, sala, tapa y cuece a fuego suave 60 minutos, hasta que el cordero esté casi tierno. Mientras, escurre las almendras y tritúralas con la leche de coco y el jengibre hasta obtener una crema blanca y lisa; resérvala. Pela las patatas y córtalas en trozos grandes.",
+    "Añade las patatas a la cazuela. Cuece tapado 20 minutos más, hasta que estén tiernas.",
     "Mientras, lava el arroz y cuécelo en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos.",
     "Vierte la crema de almendra y coco en el guiso y cocina destapado a fuego muy suave 5 minutos, sin que hierva fuerte, hasta que la salsa espese y quede satinada. Prueba de sal, retira la canela y sirve con el arroz y el cilantro picado."
   ],
@@ -535,8 +535,8 @@ window.RECETAS_SEED.push({
     "Escurre el yogur en un colador con papel de cocina 15 minutos para que espese. Escalda las espinacas 30 segundos en agua hirviendo y enfríalas en agua helada: mantendrán el verde en el horno.",
     "Tuesta la harina de arroz en una sartén seca a fuego medio 1 minuto, hasta que huela a tostado, y añade el comino 10 segundos más. Así la marinada se agarra a la carne sin harina de garbanzo.",
     "Tritura las espinacas escurridas, el cilantro, la menta, el jengibre, el zumo de medio limón y sal hasta tener una pasta verde. Mézclala con el yogur, la harina tostada con comino, el fenogreco desmenuzado y media cucharada de aceite.",
-    "Embadurna el pollo y déjalo marinar al menos 30 minutos en la nevera (hasta 8 horas).",
-    "Precalienta el horno a 230 °C con grill y ventilador. Ensarta el pollo en brochetas y colócalas sobre una rejilla con una bandeja debajo. Ásalas 15 a 18 minutos, dándoles la vuelta a mitad y pintándolas con el resto del aceite, hasta que tengan los bordes tostados y el interior jugoso.",
+    "Embadurna el pollo y déjalo marinar al menos 30 minutos en la nevera (hasta 8 horas). Unos 15 minutos antes de asarlo, precalienta el horno a 230 °C con grill y ventilador.",
+    "Ensarta el pollo en brochetas y colócalas sobre una rejilla con una bandeja debajo. Ásalas 15 a 18 minutos, dándoles la vuelta a mitad y pintándolas con el resto del aceite, hasta que tengan los bordes tostados y el interior jugoso.",
     "Mientras, lava el arroz y cuécelo en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos.",
     "Prepara el kachumber con el pepino y el tomate en dados pequeños, sal y el zumo del medio limón restante. Sirve el tikka con el arroz y el kachumber."
   ],
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon los filetes entre dos hojas de papel de horno y golpéalos con un cazo hasta dejarlos de medio centímetro de grosor.",
     "Mezcla la piña rallada, el jengibre rallado, el aceite de ajo, el comino, el cilantro molido, una pizca de pimienta y el zumo de medio limón. Unta los filetes y déjalos marinar entre 30 y 45 minutos en la nevera, no más: la piña ablanda tanto que la carne quedaría harinosa.",
-    "Lava el arroz y cuécelo en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos.",
+    "Mientras la carne se marina, lava el arroz y cuécelo en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos.",
     "Corta el pepino en bastones y alíñalo con la cebolleta verde picada, la menta, el zumo del otro medio limón y sal.",
     "Calienta una plancha de hierro fundido o una piedra a fuego alto durante 5 minutos, hasta que una gota de agua baile y se evapore al instante.",
     "Retira el exceso de marinada de los filetes, sálalos y márcalos 1 minuto por cada lado, sin moverlos, hasta que tengan rayas tostadas. Hazlos en tandas para que no se cuezan.",
@@ -625,7 +625,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Tuesta el comino, el clavo, la canela y la pimienta en una sartén seca 1 minuto y muélelos. Mézclalos con la cúrcuma, el jengibre rallado, el vinagre y sal.",
     "Pincha el solomillo con un tenedor, úntalo con el adobo y déjalo marinar al menos 30 minutos (mejor toda la noche en la nevera).",
-    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en trozos de 3 cm y cuécelas 8 minutos en agua con sal; escúrrelas.",
+    "Mientras se marina, precalienta el horno a 200 °C. Pela las patatas, córtalas en trozos de 3 cm y cuécelas 8 minutos en agua con sal; escúrrelas.",
     "Escurre el solomillo reservando el adobo. Dóralo en una sartén con el aceite de ajo a fuego medio-alto 4 minutos, girándolo, hasta que esté dorado por todas sus caras.",
     "Pásalo a una fuente de horno con las patatas alrededor, riega con el adobo y 100 ml de agua y ásalo 18 a 20 minutos, hasta que el centro alcance 63 °C (rosado pálido). Da la vuelta a las patatas a mitad.",
     "Saca el solomillo y déjalo reposar 5 minutos tapado con papel de aluminio. Vierte el jugo de la fuente en la sartén, añade el azúcar moreno y redúcelo 2 minutos hasta que napee.",
@@ -672,8 +672,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica muy fino la cebolleta verde, el jengibre y la mitad del cilantro y de la menta. Mézclalos con el pavo, el comino molido, el cilantro molido, el cardamomo y sal, y amasa 3 minutos hasta que la mezcla esté pegajosa. Refrigérala 15 minutos.",
-    "Para la raita, ralla el pepino, escúrrelo apretando con las manos y mézclalo con el yogur, el resto de la menta picada y sal. Guárdala en la nevera.",
-    "Precalienta el horno a 220 °C con ventilador. Con las manos mojadas, forma 6 salchichas alargadas alrededor de brochetas planas, presionando para que se peguen. Colócalas en una bandeja forrada, píntalas con media cucharada de aceite y hornéalas 14 minutos, girándolas a mitad, hasta que estén doradas y firmes.",
+    "Mientras, precalienta el horno a 220 °C con ventilador. Para la raita, ralla el pepino, escúrrelo apretando con las manos y mézclalo con el yogur, el resto de la menta picada y sal. Guárdala en la nevera.",
+    "Con las manos mojadas, forma 6 salchichas alargadas alrededor de brochetas planas, presionando para que se peguen. Colócalas en una bandeja forrada, píntalas con media cucharada de aceite y hornéalas 14 minutos, girándolas a mitad, hasta que estén doradas y firmes.",
     "Para el akki roti, mezcla la harina de arroz con la zanahoria rallada fina, el comino en grano, el resto del cilantro picado y sal. Vierte poco a poco 160 ml de agua hirviendo, removiendo con una cuchara, y cuando se pueda tocar amasa 2 minutos hasta tener una masa lisa que no se agriete.",
     "Divide la masa en 4 bolas. Aplana cada una con los dedos aceitados sobre papel de horno hasta dejar un disco fino de 15 cm.",
     "Calienta una sartén a fuego medio con unas gotas de aceite, vuelca el disco y retira el papel. Cocina 2 minutos por cada lado, hasta que tenga manchas doradas.",
@@ -722,7 +722,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla el pollo con la cúrcuma, el cilantro molido, el jengibre rallado, el zumo de medio limón y sal, y déjalo 15 minutos mientras preparas lo demás.",
     "Lava el arroz basmati hasta que el agua salga casi clara y cuécelo en 280 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; apaga y deja reposar 5 minutos sin destapar.",
-    "Para la raita, ralla el calabacín, escáldalo 1 minuto en agua hirviendo, enfríalo bajo el grifo y exprímelo bien con las manos. Mézclalo con el yogur, la menta picada, una pizca de comino molido y sal, y guárdala en la nevera.",
+    "Para la raita, ralla el calabacín, escáldalo 1 minuto en agua hirviendo, enfríalo bajo el grifo y exprímelo bien con las manos. Mézclalo con el yogur, la menta picada, una pizca de comino molido y sal, y guárdala en la nevera. Pica el tomate y el cilantro y corta la cebolleta verde en rodajas.",
     "Calienta el aceite de ajo en una sartén amplia a fuego medio y añade las semillas de comino. Remueve 30 segundos, hasta que chisporroteen y se oscurezcan un tono: si llegan a negro, amargan.",
     "Sube el fuego a medio-alto y extiende el pollo en una sola capa. Déjalo 4 minutos sin moverlo, hasta que se dore por debajo, y dale la vuelta 3 minutos más.",
     "Añade el tomate picado, el jengibre en juliana y el resto del comino molido. Cocina 7 a 8 minutos a fuego medio, removiendo, hasta que el tomate se haya evaporado y el pollo quede envuelto en un masala seco y brillante, sin rastro rosado en el centro.",
@@ -766,10 +766,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla 60 g de yogur con el hinojo molido, el jengibre molido, el pimentón, la asafétida, 1 cucharadita de aceite de mostaza y sal. Embadurna la ternera y déjala marinar al menos 30 minutos en la nevera (mejor 4 horas): el yogur la ablanda.",
+    "Mezcla 60 g de yogur con el hinojo molido, el jengibre molido, el pimentón, la asafétida, 1 cucharadita de aceite de mostaza y sal. Embadurna la ternera y déjala marinar al menos 30 minutos en la nevera (mejor 4 horas): el yogur la ablanda. Si las brochetas son de madera, ponlas en remojo.",
     "Lava el arroz basmati y cuécelo en 280 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; reposa 5 minutos sin destapar.",
     "Para el muj chetin, pela y ralla el daikon, mézclalo con una pizca de sal y déjalo 10 minutos; después exprímelo con las manos: pierde el agua y el punto picante. Mézclalo con el resto del yogur, la menta picada, las nueces picadas finas y sal.",
-    "Ensarta la carne en 4 brochetas sin apretar los trozos (si son de madera, remójalas antes 20 minutos) y retira el exceso de marinada, que se quemaría.",
+    "Ensarta la carne en 4 brochetas sin apretar los trozos y retira el exceso de marinada, que se quemaría.",
     "Calienta la plancha a fuego alto 5 minutos y píntala con el resto del aceite. Asa las brochetas 6 a 7 minutos, girándolas cada minuto y medio, hasta que estén tostadas por fuera y aún jugosas dentro.",
     "Déjalas reposar 2 minutos, riégalas con el zumo de limón y la cebolleta verde picada y sírvelas con el arroz y el muj chetin bien frío."
   ],
@@ -811,7 +811,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la chirivía, córtala en rodajas y cuécela con el jengibre en láminas en agua con sal 15 minutos, hasta que esté muy tierna.",
-    "Machaca en el mortero el hinojo y las semillas de cardamomo con una pizca de pimienta, sin llegar a polvo. Sala los filetes y presiona la mezcla sobre las dos caras para formar una costra.",
+    "Mientras, calienta la leche y machaca en el mortero el hinojo y las semillas de cardamomo con una pizca de pimienta, sin llegar a polvo. Sala los filetes y presiona la mezcla sobre las dos caras para formar una costra.",
     "Escurre la chirivía con el jengibre y tritúrala con la leche sin lactosa caliente y el ghee hasta que quede fina y sedosa. Prueba de sal y tápala.",
     "Calienta 1 cucharadita de aceite en una sartén a fuego medio y cocina el lomo 3 minutos por cada lado, sin moverlo, hasta que la costra esté tostada y el centro apenas rosado. Déjalo reposar 3 minutos.",
     "En la misma sartén, añade el resto del aceite y el comino. Cuando chisporrotee, echa las espinacas y saltéalas 1 minuto, solo hasta que se ablanden. Sala y añade unas gotas de limón.",
@@ -858,7 +858,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la pechuga en una cazuela con agua fría, sal y unas láminas del jengibre; cuando hierva, baja el fuego y cuécela 8 minutos. Añade la patata pelada en dados de 1,5 cm y cuece 7 minutos más, hasta que el pollo esté blanco en el centro y la patata tierna. Escurre y desmenuza el pollo con dos tenedores.",
+    "Pon la pechuga en una cazuela con agua fría, sal y unas láminas del jengibre; cuando hierva, baja el fuego y cuécela 8 minutos. Añade la patata pelada en dados de 1,5 cm y cuece 7 minutos más, hasta que el pollo esté blanco en el centro y la patata tierna. Mientras, pica el resto del jengibre, el tomate y el cilantro y corta la cebolleta verde en rodajas. Escurre y desmenuza el pollo con dos tenedores.",
     "En una sartén antiadherente de 22 a 24 cm con tapa, calienta el aceite de ajo a fuego medio con el hinojo y las hojas de curry. A los 20 segundos añade el resto del jengibre picado y la cebolleta verde en rodajas y remueve 1 minuto.",
     "Agrega la cúrcuma y el tomate picado y cocina 4 minutos, hasta que se deshaga. Incorpora el pollo, la patata, la mitad del cilantro picado, sal y pimienta y remueve 2 minutos, hasta que el relleno quede seco. Pásalo a un bol y deja que temple 5 minutos.",
     "Bate los huevos con la leche sin lactosa y una pizca de sal hasta que hagan algo de espuma y mézclalos con el relleno templado.",
@@ -948,7 +948,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura el coco con 200 ml de agua 1 minuto, hasta que quede lechoso. Añade la harina de arroz, otros 220 ml de agua y sal y tritura de nuevo. La masa debe ser muy líquida, como leche entera: si no, añade agua a cucharadas. Déjala reposar 10 minutos.",
-    "Para el chutney, calienta media cucharadita de aceite en un cazo, añade la mostaza, el comino y las hojas de curry y, cuando chisporroteen, el tomate picado, la panela y sal. Cocina 10 minutos a fuego medio, aplastando, hasta tener una salsa espesa.",
+    "Mientras reposa, prepara el chutney: calienta media cucharadita de aceite en un cazo, añade la mostaza, el comino y las hojas de curry y, cuando chisporroteen, el tomate picado, la panela y sal. Cocina 10 minutos a fuego medio, aplastando, hasta tener una salsa espesa.",
     "Bate los huevos con la cebolleta verde y la mitad del cilantro picados, sal y pimienta.",
     "Calienta una sartén antiadherente de 24 cm a fuego medio-alto y úntala con papel apenas aceitado. Remueve la masa (el arroz se va al fondo) y vierte un cucharón desde el borde, girando la sartén para cubrirla: la crepe debe quedar fina y con agujeritos.",
     "Cuando los bordes se vean secos, al cabo de 1 minuto, reparte por encima un sexto del huevo batido, extiéndelo con el dorso de una cuchara, tapa y cocina 1 minuto, hasta que el huevo cuaje. Las neer dosa no se voltean.",
@@ -991,7 +991,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos.",
-    "Escalda las espinacas y el kale en agua hirviendo con sal 2 minutos y enfríalos en agua helada para fijar el color. Escúrrelos apretando y tritúralos a golpes con 3 cucharadas de agua: debe quedar un puré con algo de textura.",
+    "Escalda las espinacas y el kale en agua hirviendo con sal 2 minutos y enfríalos en agua helada para fijar el color. Escúrrelos apretando y tritúralos a golpes con 3 cucharadas de agua: debe quedar un puré con algo de textura. Ralla el jengibre y pica el tomate.",
     "En una sartén honda con tapa, calienta el aceite de ajo a fuego medio con el comino. Cuando chisporrotee, añade el jengibre rallado y la cúrcuma y remueve 30 segundos.",
     "Agrega el tomate picado y cocina 3 minutos, hasta que se ablande. Incorpora el puré verde y el fenogreco desmenuzado, sala y cocina 4 minutos a fuego suave.",
     "Aparta del fuego, añade el yogur y remueve: el saag quedará cremoso y de un verde más claro.",
@@ -1036,11 +1036,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata, córtala en dados de 1 cm y cuécela en agua con sal 7 minutos. Escúrrela.",
-    "Pica las espinacas y ralla la zanahoria. Bate los huevos con las claras, la cúrcuma, sal y pimienta, y mézclalos con la patata, las espinacas, la zanahoria y un tercio del cilantro picado.",
+    "Pela la patata, córtala en dados de 1 cm y cuécela en agua con sal 7 minutos.",
+    "Mientras se cuece, pica las espinacas y ralla la zanahoria. Escurre la patata. Bate los huevos con las claras, la cúrcuma, sal y pimienta, y mézclalos con la patata, las espinacas, la zanahoria y un tercio del cilantro picado.",
     "Unta con unas gotas de aceite 8 moldes de idli, flaneras o tazas pequeñas y llénalos tres cuartos.",
     "Cuécelos en una vaporera tapada sobre agua hirviendo a fuego medio 12 a 14 minutos, hasta que estén inflados y un palillo salga limpio. Déjalos 2 minutos antes de desmoldar.",
-    "Para el chutney, tritura el coco con el resto del cilantro, el jengibre, el zumo de media lima, sal y 5 cucharadas de agua hasta que quede fluido.",
+    "Mientras, prepara el chutney: tritura el coco con el resto del cilantro, el jengibre, el zumo de media lima, sal y 5 cucharadas de agua hasta que quede fluido.",
     "Calienta el resto del aceite en un cazo pequeño, añade la mostaza y, cuando salte, las hojas de curry. Vierte esta tadka sobre el chutney.",
     "Sirve los idli de huevo con el chutney y la otra media lima."
   ],
@@ -1134,7 +1134,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el tempeh en dados de 2 cm y cuécelo al vapor o en agua hirviendo 10 minutos: pierde el amargor y queda más tierno. Escúrrelo y sécalo.",
     "Lava el arroz y cuécelo en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; reposa 5 minutos sin destapar.",
-    "Pela la kabocha (o déjale la piel si es fina), la patata y la zanahoria y córtalas en bastones de 4 cm de largo y 1 cm de grosor, el corte típico del chorchori.",
+    "Mientras, pela la kabocha (o déjale la piel si es fina), la patata y la zanahoria y córtalas en bastones de 4 cm de largo y 1 cm de grosor, el corte típico del chorchori.",
     "Calienta el aceite de mostaza en una cazuela ancha a fuego medio-alto hasta que humee ligeramente y baja el fuego 30 segundos: así pierde su picor. Dora el tempeh 4 o 5 minutos, hasta que esté tostado, y sácalo.",
     "En el mismo aceite, añade el laurel, el comino, el hinojo, la nigella y la mostaza. Cuando chisporroteen (10 a 15 segundos), agrega el jengibre rallado y enseguida la patata y la zanahoria con la cúrcuma y sal. Rehoga 3 minutos.",
     "Añade la kabocha y 120 ml de agua, tapa y cuece a fuego medio-bajo 12 minutos, moviendo con suavidad una o dos veces, hasta que todo esté tierno y quede muy poco líquido.",

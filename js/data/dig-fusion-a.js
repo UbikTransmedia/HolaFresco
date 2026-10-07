@@ -48,7 +48,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz japonés frotándolo entre las manos y cambiando el agua hasta que salga casi clara. Ponlo en un cazo con 180 ml de agua, llévalo a ebullición, tapa y cuece 12 minutos a fuego mínimo. Apaga y deja reposar 10 minutos sin destapar. Mézclalo con 1 cucharada del vinagre de arroz, el azúcar y una pizca de sal.",
-    "Corta el pepino en rodajas muy finas, sálalas, espera 5 minutos, escúrrelas apretando con la mano y alíñalas con el resto del vinagre.",
+    "Mientras se cuece el arroz, corta el pepino en rodajas muy finas, sálalas, espera 5 minutos, escúrrelas apretando con la mano y alíñalas con el resto del vinagre.",
     "Saca la lubina de la nevera justo antes de cortarla: fría se lamina mejor. Con el cuchillo más afilado que tengas, corta láminas de 3 mm en un solo movimiento largo, sin serrar, y repártelas en dos platos planos sin que se monten.",
     "Ralla el jengibre muy fino y pica el cebollino. Pon una pizca de jengibre y un poco de cebollino sobre cada lámina.",
     "Mezcla el tamari con el zumo de la lima y el de la media naranja (hacen el papel del yuzu del original) y riega el pescado con una cuchara.",
@@ -135,7 +135,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que la punta de un cuchillo entre sin resistencia. Escúrrelas y pártelas por la mitad.",
-    "Mezcla el za'atar con el sésamo en un plato. Seca el atún, úntalo con 1 cucharadita del aceite y pásalo por la mezcla presionando para que la costra se pegue en todas las caras.",
+    "Mientras se cuecen, mezcla el za'atar con el sésamo en un plato. Seca el atún, úntalo con 1 cucharadita del aceite y pásalo por la mezcla presionando para que la costra se pegue en todas las caras.",
     "Calienta una sartén a fuego fuerte con el resto del aceite. Marca el atún 30-40 segundos por cada una de sus cuatro caras: la costra se tuesta y solo se cocina un milímetro por fuera. Pásalo a una rejilla y deja que se enfríe 5 minutos para que se pueda cortar limpio.",
     "Prepara la salsa batiendo el tahini con el tamari, el zumo de medio limón y 2-3 cucharadas de agua fría. Al principio parece que se corta; sigue batiendo y queda lisa, como una nata líquida.",
     "Corta el pepino en dados, pica la menta y alíñalos con el zumo del otro medio limón y una pizca de sal.",
@@ -180,10 +180,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas nuevas con piel en agua con sal y unos tallos de eneldo 15-18 minutos, hasta que estén tiernas.",
+    "Precalienta el horno a 200 °C. Cuece las patatas nuevas con piel en agua con sal y unos tallos de eneldo 15-18 minutos, hasta que estén tiernas.",
     "Prepara el pepino prensado (pressgurka): córtalo en rodajas finísimas, mézclalo con el vinagre, el azúcar, 2 cucharadas de agua, una pizca de sal y un poco de eneldo picado, y déjalo reposar mientras cocinas.",
     "Haz el dukkah: tuesta las avellanas en una sartén seca a fuego medio 4-5 minutos, hasta que la piel se agriete; frótalas dentro de un paño para quitarles la piel. Tuesta en la misma sartén el sésamo, el cilantro y el comino 1 minuto, hasta que huelan. Machácalo todo en el mortero con una pizca de sal hasta que tenga textura de arena gruesa, no de pasta.",
-    "Precalienta el horno a 200 °C. Pon la trucha con la piel hacia abajo en una bandeja con papel, píntala con el aceite, sálala y cubre la carne con el dukkah apretando con los dedos.",
+    "Pon la trucha con la piel hacia abajo en una bandeja con papel, píntala con el aceite, sálala y cubre la carne con el dukkah apretando con los dedos.",
     "Hornea 8-10 minutos, hasta que la carne esté opaca y se separe en lascas al presionarla con un tenedor.",
     "Mezcla el yogur con el resto del eneldo picado, la ralladura y el zumo del medio limón y una pizca de sal.",
     "Sirve la trucha con las patatas abiertas por la mitad, el pepino escurrido y el yogur al lado, con una vuelta de pimienta."
@@ -224,7 +224,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la chirivía, córtala en trozos y cuécela en agua con sal 15 minutos, hasta que esté muy tierna. Escúrrela y tritúrala con la leche caliente, sal y pimienta blanca hasta obtener un puré fino. Tápalo.",
-    "Corta las zanahorias en bastones. Saltéalas en una sartén con 1 cucharadita de aceite 2 minutos, añade 4 cucharadas de agua y sal, tapa y cuece 6-7 minutos; destapa y deja que el agua se evapore hasta que brillen.",
+    "Mientras se cuece la chirivía, corta las zanahorias en bastones. Saltéalas en una sartén con 1 cucharadita de aceite 2 minutos, añade 4 cucharadas de agua y sal, tapa y cuece 6-7 minutos; destapa y deja que el agua se evapore hasta que brillen.",
     "Tuesta la hoja de nori 10 segundos por cada cara en una sartén seca, hasta que cruja, y desmenúzala muy fina en el mortero.",
     "Seca el bacalao con papel y sálalo. Calienta una sartén antiadherente a fuego medio-alto con el resto del aceite y pon los lomos con la piel hacia abajo 4 minutos, sin moverlos, hasta que esté dorada. Dales la vuelta y cocina 2-3 minutos más: deben separarse en lascas nacaradas.",
     "En un cazo pequeño, funde la mantequilla a fuego medio 2-3 minutos: primero espuma, luego deja de chisporrotear, huele a avellana y los sólidos del fondo se doran. Retira del fuego y añade la nori y el zumo del medio limón; chisporroteará.",
@@ -319,7 +319,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Seca los langostinos y marínalos 10 minutos con 1 cucharada de tamari, el jengibre rallado, el comino y el azúcar moreno.",
-    "Prepara la salsa: pepino en dados pequeños, cilantro y cebolleta picados, el zumo de media lima y sal. Es un pico de gallo sin cebolla ni chile.",
+    "Mientras se marinan, prepara la salsa: pepino en dados pequeños, cilantro y cebolleta picados, el zumo de media lima y sal. Es un pico de gallo sin cebolla ni chile.",
     "Corta los pimientos en tiras de 1 cm y el calabacín en bastones.",
     "Calienta el wok a fuego máximo con la mitad del aceite de ajo. Saltea los pimientos 4-5 minutos, moviéndolos, hasta que tengan los bordes tostados pero sigan firmes; añade el calabacín 2 minutos más y reserva.",
     "Pon el resto del aceite y los langostinos en una sola capa: 1 minuto por cada lado, hasta que estén rosados y curvados en forma de C (si se cierran en O, se han pasado). Devuelve las verduras, añade el resto del tamari y el zumo de la otra media lima y saltea 30 segundos.",
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mete el solomillo 20 minutos en el congelador para que se endurezca y córtalo en filetes finísimos, de 3-4 mm.",
     "Marínalo con 2 cucharaditas del aceite de ajo, el zumo de 1 lima, el vinagre, el comino (reserva una pizca), el orégano, el tomillo, sal y pimienta. Déjalo al menos 20 minutos (mejor 2 horas en la nevera).",
-    "Para la salsa, asa los tomates enteros en una sartén seca a fuego medio-alto 8-10 minutos, girándolos, hasta que la piel esté negra a trozos. Pélalos, tritúralos con sal, la pizca de comino y el zumo de media lima y, si queda aguada, redúcela 3 minutos en la sartén.",
+    "Mientras se marina, prepara la salsa: asa los tomates enteros en una sartén seca a fuego medio-alto 8-10 minutos, girándolos, hasta que la piel esté negra a trozos. Pélalos, tritúralos con sal, la pizca de comino y el zumo de media lima y, si queda aguada, redúcela 3 minutos en la sartén.",
     "Calienta la sartén a fuego fuerte con el resto del aceite de ajo y dora la carne en tandas, sin amontonarla, 1-1½ minutos por lado, hasta que tenga los bordes tostados. Pícala en tiras finas sobre la tabla, como si saliera del trompo.",
     "Calienta las pitas en la sartén seca 30 segundos por cada lado para que se vuelvan flexibles; si son gruesas, ábrelas en dos discos.",
     "Rellena el pan con la carne, la salsa, el perejil y la cebolleta picados, enróllalo en forma de cono y sírvelo con gajos de la lima restante."
@@ -742,7 +742,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla el yogur con el pimentón, el comino, el cilantro, el garam masala (reserva una pizca), el jengibre rallado, el zumo de medio limón, 2 cucharaditas del aceite de ajo y sal. Haz unos cortes poco profundos en la pechuga y úntala bien. Déjala marinar 30 minutos (o toda la noche en la nevera).",
-    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en trozos grandes y cuécelas 8 minutos en agua con sal. Escúrrelas y sacúdelas en la olla tapada para que se rasguen los bordes: así salen crujientes.",
+    "Mientras se marina, precalienta el horno a 200 °C. Pela las patatas, córtalas en trozos grandes y cuécelas 8 minutos en agua con sal. Escúrrelas y sacúdelas en la olla tapada para que se rasguen los bordes: así salen crujientes.",
     "Corta la zanahoria y la chirivía en bastones gruesos. Pon todas las verduras en una bandeja grande con el aceite de oliva y sal y hornéalas 20 minutos.",
     "Aparta las verduras hacia los lados, coloca el pavo en el centro y hornea 25-30 minutos más, dando la vuelta a las verduras a mitad, hasta que el pavo alcance 68-70 °C en el centro y la marinada tenga los bordes tostados. Sácalo y deja que repose 10 minutos tapado.",
     "Para el gravy, vierte el caldo caliente en la bandeja vacía (o recoge los jugos en un cazo) y raspa el fondo tostado con una cuchara de madera. Cuélalo a un cazo, añade la maicena disuelta en 2 cucharadas de agua fría, la pizca de garam masala y el resto del aceite de ajo, y hierve 1-2 minutos hasta que nape la cuchara. Ajusta de sal y pimienta.",
@@ -1107,7 +1107,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prensa el tofu: envuélvelo en un paño, ponle un peso encima (una sartén con unas latas) y déjalo 15 minutos. Debe soltar mucha agua; si no, la masa queda blanda.",
-    "Lava el arroz japonés y cuécelo con 160 ml de agua: hervor, tapa, 12 minutos a fuego mínimo y 10 de reposo.",
+    "Mientras, lava el arroz japonés y cuécelo con 160 ml de agua: hervor, tapa, 12 minutos a fuego mínimo y 10 de reposo. Ralla fina la zanahoria, ralla el jengibre y pica la cebolleta.",
     "Desmenuza el tofu con las manos en un bol hasta que quede como requesón. Añade la zanahoria rallada fina, la cebolleta picada, el jengibre rallado, el huevo, el pan rallado, la fécula y sal, y amasa hasta que se compacte. Forma 4 hamburguesas ovaladas de 2 cm de grosor con un pequeño hundimiento en el centro, que evita que se abomben.",
     "Calienta el aceite en una sartén antiadherente a fuego medio y dora las hamburguesas 4-5 minutos por cada cara. Añade 3 cucharadas de agua, tapa y deja 3 minutos para que el vapor las cuaje por dentro. Sácalas.",
     "Mientras, corta las judías verdes en trozos y cuécelas 5-6 minutos en agua con sal; escúrrelas y espolvorea el sésamo.",

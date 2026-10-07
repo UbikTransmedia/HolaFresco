@@ -36,7 +36,7 @@ window.RECETAS_SEED.push({
     "Pela las patatas y córtalas en cachos irregulares de unos 4 cm, «cachándolas»: mete la punta del cuchillo y rompe el último tramo con un giro. Los bordes rotos sueltan almidón y agarran mejor la ajada.",
     "Ponlas en una cazuela con agua fría, sal y la hoja de laurel. Lleva a ebullición y cuece a fuego medio 18-20 minutos, hasta que la punta del cuchillo entre sin resistencia.",
     "Mientras, corta el repollo en tiras de 1 cm, quitando el tronco duro. Añádelo a la cazuela de las patatas a los 10 minutos de cocción: en 8-10 minutos estará tierno pero aún verde.",
-    "Cuece los huevos 10 minutos en un cazo con agua hirviendo, enfríalos en agua fría, pélalos y córtalos en cuartos.",
+    "Mientras se cuecen las patatas, cuece los huevos 10 minutos en un cazo con agua hirviendo, enfríalos en agua fría, pélalos y córtalos en cuartos.",
     "Prepara la ajada: calienta el aceite de ajo en un cazo pequeño a fuego bajo 1-2 minutos, solo hasta que esté tibio-caliente, sin que humee. Retíralo del fuego, espera 30 segundos y añade el pimentón y el vinagre removiendo. Si el aceite está demasiado caliente, el pimentón se quema y amarga.",
     "Escurre bien las patatas y el repollo, retira el laurel y déjalos 1 minuto en el escurridor para que se evapore el agua de la superficie.",
     "Sirve los cachelos y el repollo en una fuente de madera o en platos calientes, con los cuartos de huevo, la ajada por encima y unas escamas de sal."
@@ -73,8 +73,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava bien las espinacas en varias aguas y quita los tallos más gruesos.",
-    "Pon a hervir agua con sal en una cazuela grande, escalda las espinacas 1 minuto, justo hasta que se ablanden, y pásalas a un colador. Cuando puedas tocarlas, apriétalas con las manos para sacar toda el agua y pícalas groseramente.",
+    "Pon a hervir agua con sal en una cazuela grande. Mientras, lava bien las espinacas en varias aguas y quita los tallos más gruesos.",
+    "Escalda las espinacas en el agua hirviendo 1 minuto, justo hasta que se ablanden, y pásalas a un colador. Cuando puedas tocarlas, apriétalas con las manos para sacar toda el agua y pícalas groseramente.",
     "Tuesta los piñones en una sartén sin aceite a fuego medio-bajo 2-3 minutos, moviéndolos sin parar, hasta que estén dorados y huelan. Sácalos enseguida: pasan de dorados a quemados en segundos.",
     "Corta las uvas por la mitad y quita las pepitas si las tienen.",
     "En la misma sartén, calienta el aceite de ajo a fuego medio y saltea el jamón 1 minuto, hasta que se vuelva translúcido. Añade las uvas y saltea 1 minuto más, para que se templen sin deshacerse.",
@@ -246,7 +246,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer los huevos 10 minutos en agua hirviendo, enfríalos y pélalos. Separa las yemas y pica las claras.",
-    "Quita las puntas a las judías y córtalas en trozos de 4 cm. Pela la patata y la zanahoria y córtalas en rodajas de 1 cm.",
+    "Mientras, quita las puntas a las judías y córtalas en trozos de 4 cm. Pela la patata y la zanahoria y córtalas en rodajas de 1 cm.",
     "Cuece la patata y la zanahoria en 600 ml de agua con sal 8 minutos; añade las judías y cuece 8-10 minutos más, hasta que estén tiernas pero aún verdes. Escúrrelas reservando 250 ml del agua de cocción.",
     "Mientras, dora las almendras en la cazuela con el aceite de ajo a fuego bajo 3 minutos, removiendo, hasta que tomen color avellana.",
     "Tritura las almendras con su aceite, las yemas cocidas, el azafrán, unas hojas de perejil y el agua de cocción reservada hasta tener una salsa fina y amarilla.",
@@ -330,7 +330,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño limpio, pon un peso encima 10 minutos para que suelte agua y córtalo en tacos de 3 x 2 cm.",
-    "Pela las patatas y córtalas en rodajas de 1 cm. Pica muy fino el perejil (hojas y tallos tiernos) y la parte verde de la cebolleta.",
+    "Mientras, pela las patatas y córtalas en rodajas de 1 cm. Pica muy fino el perejil (hojas y tallos tiernos) y la parte verde de la cebolleta.",
     "Calienta el aceite de ajo en una cazuela baja a fuego medio-bajo y rehoga la cebolleta 1 minuto. Añade la harina de arroz y remueve 30 segundos, sin que tome color.",
     "Incorpora las patatas, el agua y sal. Lleva a ebullición y cuece a fuego suave 15 minutos, moviendo la cazuela en vaivén de vez en cuando, hasta que las patatas estén tiernas y su almidón haya espesado el caldo.",
     "Añade los tacos de tofu y dos tercios del perejil y cuece 5 minutos más, moviendo la cazuela en círculos para que la salsa ligue sin romper el tofu. Debe quedar verde, brillante y con consistencia de crema ligera.",
@@ -544,8 +544,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las gambas dejando 4 enteras para decorar. En una cazuela, dora las cabezas y cáscaras con el aceite de oliva a fuego vivo 3 minutos, aplastando las cabezas para que suelten su jugo. Cubre con el agua, añade el laurel y cuece 15 minutos. Cuela apretando bien: tendrás unos 650 ml de caldo.",
-    "Limpia los mejillones, ponlos en un cazo tapado con un dedo de agua a fuego fuerte 3 minutos, hasta que se abran, y quita una de las conchas. Cuela su agua y añádela al caldo, que debe quedar sabroso y algo salado.",
-    "En la paella, calienta el aceite de ajo a fuego medio y marca las 4 gambas enteras 1 minuto por lado; sácalas. Dora el calamar 3 minutos y añade el pimiento en tiras finas 2 minutos más.",
+    "Limpia los mejillones, ponlos en un cazo tapado con un dedo de agua a fuego fuerte 3 minutos, hasta que se abran, y quita una de las conchas. Cuela su agua y añádela al caldo, que debe quedar sabroso y algo salado. Corta el pimiento en tiras finas.",
+    "En la paella, calienta el aceite de ajo a fuego medio y marca las 4 gambas enteras 1 minuto por lado; sácalas. Dora el calamar 3 minutos y añade el pimiento 2 minutos más.",
     "Añade el tomate rallado y sofríe a fuego medio 6-8 minutos, hasta que pierda el agua y se oscurezca. Echa el pimentón, remueve 10 segundos y vierte enseguida el caldo caliente con el azafrán desmenuzado.",
     "Cuando hierva, prueba de sal y reparte el arroz en forma de cruz; extiéndelo con la cuchara y ya no lo vuelvas a remover. Cuece 10 minutos a fuego fuerte y 8 minutos a fuego suave.",
     "A los 15 minutos, coloca encima las gambas peladas, los mejillones y las gambas enteras. Cuando el caldo se haya consumido, sube el fuego 1 minuto escuchando el crepitar del fondo: es el socarrat. Si huele a quemado, retira.",
@@ -588,10 +588,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el pollo. Calienta el aceite de ajo en una cazuela ancha a fuego medio-alto y dora el pollo 5-6 minutos, hasta que esté tostado por todas las caras. Sácalo.",
-    "En la misma cazuela, a fuego medio, rehoga los pimientos en dados pequeños y la parte verde de la cebolleta picada 6 minutos, hasta que estén blandos.",
+    "Corta los pimientos en dados pequeños y las judías verdes en trozos de 3 cm, y pica la parte verde de la cebolleta. Sala el pollo. Calienta el aceite de ajo en una cazuela ancha a fuego medio-alto y dora el pollo 5-6 minutos, hasta que esté tostado por todas las caras. Sácalo.",
+    "En la misma cazuela, a fuego medio, rehoga los pimientos y la cebolleta 6 minutos, hasta que estén blandos.",
     "Añade el tomate rallado y cocina 5 minutos, hasta que espese y pierda el agua. Mientras, calienta el caldo con el azafrán desmenuzado.",
-    "Vuelve a meter el pollo, añade las judías verdes en trozos de 3 cm y el laurel, y remueve 1 minuto. Incorpora el arroz y nácaralo 1 minuto, removiendo, para que se impregne del sofrito.",
+    "Vuelve a meter el pollo, añade las judías verdes y el laurel, y remueve 1 minuto. Incorpora el arroz y nácaralo 1 minuto, removiendo, para que se impregne del sofrito.",
     "Vierte el caldo caliente, prueba de sal y cuece 18 minutos a fuego medio-suave, removiendo de vez en cuando, como un arroz meloso: al final debe quedar suelto pero envuelto en un caldo espeso y amarillo.",
     "Apaga, retira el laurel, tapa y deja reposar 3 minutos. Sirve con perejil picado por encima."
   ],
@@ -630,8 +630,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el conejo. Calienta el aceite de oliva en la paella a fuego medio y dora el conejo 12-15 minutos, dándole la vuelta, hasta que esté muy tostado por todos lados: ese dorado es el sabor del caldo.",
-    "Aparta el conejo a los bordes, añade el aceite de ajo y el pimiento en tiras finas al centro y rehógalo 4 minutos.",
+    "Sala el conejo. Calienta el aceite de oliva en la paella a fuego medio y dora el conejo 12-15 minutos, dándole la vuelta, hasta que esté muy tostado por todos lados: ese dorado es el sabor del caldo. Mientras, corta el pimiento en tiras finas.",
+    "Aparta el conejo a los bordes, añade el aceite de ajo y el pimiento al centro y rehógalo 4 minutos.",
     "Añade el tomate rallado y cocina 6 minutos, hasta que se oscurezca y se pegue un poco al fondo. Echa el pimentón, remueve 10 segundos y vierte el agua con el azafrán.",
     "Cuece el caldo con el conejo 15 minutos a fuego medio para que tome sabor. Prueba de sal: debe quedar algo salado, porque el arroz lo absorberá.",
     "Reparte el arroz por toda la paella, mueve solo para extenderlo y no lo vuelvas a tocar. Cuece 10 minutos a fuego fuerte y 8 a fuego suave, hasta que el grano esté seco y suelto.",
@@ -796,7 +796,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hidrata los fideos de arroz en agua caliente según el paquete (unos 8 minutos), hasta que estén flexibles pero firmes. Escúrrelos y pásalos por agua fría para que no se peguen.",
-    "Corta el pavo en tiras finas y sálalo. Corta el calabacín y el pimiento en bastones finos. Pica el perejil.",
+    "Mientras, corta el pavo en tiras finas y sálalo. Corta el calabacín y el pimiento en bastones finos. Pica el perejil.",
     "Calienta 1 cucharada de aceite de ajo en una sartén grande a fuego fuerte y dora el pavo 3-4 minutos, sin moverlo al principio, hasta que esté tostado. Sácalo.",
     "En la misma sartén, con el resto del aceite, saltea el pimiento y el calabacín 3 minutos a fuego fuerte: deben quedar tiernos pero con un punto crujiente.",
     "Devuelve el pavo, añade la mitad del perejil y el caldo, y deja que reduzca 1 minuto raspando el fondo: así se hace la salsita del ajillo sin vino.",
@@ -840,8 +840,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia los mejillones: arráncales las barbas y raspa las conchas bajo el grifo. Ponlos en una cazuela con 200 ml del agua y el laurel, tapa y cuece a fuego fuerte 3-4 minutos, moviendo la cazuela, hasta que se abran.",
     "Cuela el caldo por un colador cubierto con papel de cocina para quitar la arena y resérvalo. Saca la carne de los mejillones y desecha las conchas y los que no se hayan abierto.",
-    "Ralla el tomate y desecha la piel. En la misma cazuela limpia, calienta el aceite de ajo a fuego medio y rehoga la cebolleta picada y la zanahoria en daditos 4 minutos. Añade el tomate y cocina 5 minutos, hasta que se oscurezca.",
-    "Aparta del fuego, añade el pimentón y remueve 10 segundos. Vierte el caldo de los mejillones y el resto del agua, el azafrán desmenuzado y las patatas peladas y cascadas en trozos de 2 cm.",
+    "Ralla el tomate y desecha la piel, pica la cebolleta y corta la zanahoria en daditos. En la misma cazuela limpia, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y la zanahoria 4 minutos. Añade el tomate y cocina 5 minutos, hasta que se oscurezca. Mientras, pela las patatas y cáscalas en trozos de 2 cm.",
+    "Aparta del fuego, añade el pimentón y remueve 10 segundos. Vierte el caldo de los mejillones y el resto del agua, el azafrán desmenuzado y las patatas.",
     "Cuece a fuego medio 15-18 minutos, hasta que la patata esté muy tierna y empiece a deshacerse y espesar el caldo. Prueba antes de salar: el jugo del mejillón ya es salado.",
     "Añade la carne de los mejillones, deja 1 minuto solo para que se calienten y sirve con el perejil picado."
   ],
@@ -920,8 +920,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las gambas y guarda las colas en la nevera. Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora las cabezas y las cáscaras 4 minutos, aplastando las cabezas con una cuchara de madera para que suelten todo su jugo.",
-    "Añade la zanahoria en rodajas finas y la parte verde de la cebolleta y rehoga 4 minutos. Incorpora el tomate troceado y cocina 5 minutos, hasta que se deshaga.",
+    "Corta la zanahoria en rodajas finas, pica la parte verde de la cebolleta y trocea el tomate. Pela las gambas y guarda las colas en la nevera. Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora las cabezas y las cáscaras 4 minutos, aplastando las cabezas con una cuchara de madera para que suelten todo su jugo.",
+    "Añade la zanahoria y la cebolleta y rehoga 4 minutos. Incorpora el tomate y cocina 5 minutos, hasta que se deshaga.",
     "Echa el pimentón, remueve 10 segundos y añade enseguida el agua, el laurel y el arroz. Cuece 25 minutos a fuego suave, con la cazuela tapada a medias.",
     "Retira el laurel y tritura todo, cáscaras incluidas, con la batidora a máxima potencia 2 minutos. Pasa la crema por un colador fino apretando con una cuchara para extraer todo el sabor; descarta lo que quede en el colador.",
     "Vuelve a poner la crema en la cazuela, añade la leche y caliéntala sin que llegue a hervir. Prueba de sal. Debe napar la cuchara: si está muy espesa, aclárala con un poco de agua.",

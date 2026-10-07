@@ -41,8 +41,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Haz unos cortes al pollo, frótalo con el zumo del medio limón y una pizca de sal y déjalo reposar mientras preparas la base: el limón limpia el sabor y ayuda a que la salsa penetre.",
-    "Pon la cebolla picada muy fina en una cazuela sin grasa a fuego medio-bajo y remueve a menudo durante 20 minutos. Primero suelta su agua y luego se va secando y tomando color; si se pega, añade una cucharada de agua. Esta cebolla «en seco» es la base de todos los wat etíopes y es lo que espesa la salsa.",
-    "Añade la mantequilla, el cardamomo y el fenogreco y remueve 2 minutos. Incorpora el ajo y el jengibre rallados y cocina 2 minutos más.",
+    "Pon la cebolla picada muy fina en una cazuela sin grasa a fuego medio-bajo y remueve a menudo durante 20 minutos. Primero suelta su agua y luego se va secando y tomando color; si se pega, añade una cucharada de agua. Esta cebolla «en seco» es la base de todos los wat etíopes y es lo que espesa la salsa. Entre vuelta y vuelta, ralla el ajo y el jengibre.",
+    "Añade la mantequilla, el cardamomo y el fenogreco y remueve 2 minutos. Incorpora el ajo y el jengibre y cocina 2 minutos más.",
     "Agrega el berbere y el tomate concentrado y remueve 2 minutos a fuego suave, sin que se quemen: la pasta debe oscurecerse y oler a especia tostada.",
     "Vierte el agua, mete el pollo y dale vueltas para cubrirlo de salsa. Tapa y cuece a fuego suave 40 minutos, girando las piezas a mitad. Si lo acompañas de arroz, cuécelo en los últimos 15 minutos.",
     "Mientras, cuece los huevos 9 minutos, enfríalos en agua fría, pélalos y hazles 3 o 4 cortes superficiales a lo largo con la punta de un cuchillo.",
@@ -183,8 +183,8 @@ window.RECETAS_SEED.push({
     "Embadurna el pollo con la pasta y déjalo reposar mientras cortas las verduras.",
     "Corta la zanahoria en bastones, despunta las judías verdes, corta los pimientos en tiras y la cebolla en gajos. Pela el plátano y córtalo en rodajas oblicuas de 1,5 cm.",
     "Mezcla las verduras y el plátano en una bandeja grande con el resto del aceite, el tomillo, sal y pimienta, bien repartidos. Coloca el pollo encima y hornea 20 minutos.",
-    "Añade los tomates cherry y el caldo, remueve las verduras y hornea 15 minutos más, hasta que el pollo esté dorado y bien hecho, el plátano caramelizado y las verduras tiernas con puntas tostadas.",
-    "Espolvorea el resto del perejil picado y sirve directamente de la bandeja."
+    "Añade los tomates cherry y el caldo, remueve las verduras y hornea 15 minutos más, hasta que el pollo esté dorado y bien hecho, el plátano caramelizado y las verduras tiernas con puntas tostadas. Mientras, pica el resto del perejil.",
+    "Espolvorea el resto del perejil y sirve directamente de la bandeja."
   ],
   nutricion: { kcal: 590, prot: 41, hc: 46, grasa: 27 },
   etiquetas: ["creativa", "al horno", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking"],
@@ -227,13 +227,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz en varias aguas hasta que salga casi clara y escúrrelo.",
-    "Para el pilau, calienta media cucharada de aceite en un cazo y dora media cebolla en pluma fina 8 minutos, hasta que esté bien tostada: es lo que da al pilau su color marrón. Añade el comino, el cardamomo, el clavo y la canela y remueve 1 minuto.",
+    "Pon a hervir el agua. Lava el arroz en varias aguas hasta que salga casi clara y escúrrelo, y corta media cebolla en pluma fina.",
+    "Para el pilau, calienta media cucharada de aceite en un cazo y dora la media cebolla en pluma 8 minutos, hasta que esté bien tostada: es lo que da al pilau su color marrón. Añade el comino, el cardamomo, el clavo y la canela y remueve 1 minuto.",
     "Agrega el arroz, remueve 1 minuto y vierte el agua hirviendo con sal. Tapa y cuece a fuego mínimo 12 minutos; apaga y deja reposar 5 minutos sin destapar.",
-    "Mientras, corta el pavo en dados de 3 cm y sálalo. En una sartén con el resto del aceite, sofríe la otra media cebolla picada 5 minutos. Añade el ajo y el jengibre rallados y el curry y remueve 1 minuto.",
-    "Sube el fuego, añade el pavo y séllalo 4 minutos. Incorpora los tomates rallados y cocina 5 minutos.",
-    "Vierte la leche de coco y cuece a fuego suave 8 minutos, hasta que la salsa espese y el pavo esté hecho pero jugoso. Añade el zumo de media lima y rectifica de sal.",
-    "Sirve con el pilau, el cilantro picado y gajos de la otra media lima."
+    "Mientras, corta el pavo en dados de 3 cm y sálalo, pica la otra media cebolla y ralla el ajo, el jengibre y los tomates. En una sartén con el resto del aceite, sofríe la cebolla picada 5 minutos. Añade el ajo, el jengibre y el curry y remueve 1 minuto.",
+    "Sube el fuego, añade el pavo y séllalo 4 minutos. Incorpora los tomates y cocina 5 minutos.",
+    "Vierte la leche de coco y cuece a fuego suave 8 minutos, hasta que la salsa espese y el pavo esté hecho pero jugoso. Mientras, pica el cilantro. Añade el zumo de media lima y rectifica de sal.",
+    "Sirve con el pilau, el cilantro y gajos de la otra media lima."
   ],
   nutricion: { kcal: 685, prot: 40, hc: 71, grasa: 27 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking"],
@@ -310,8 +310,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las alubias remojadas: frótalas con fuerza entre las manos dentro del agua, deja que las pieles suban a la superficie y tíralas con el agua. Repite 4 o 5 veces hasta que casi todas estén blancas. Lleva unos 10 minutos y es lo que da al moi moi su textura fina.",
-    "Cuece los huevos 9 minutos, pélalos y córtalos por la mitad a lo largo.",
+    "La víspera (o al menos 4 horas antes), pon las alubias en remojo en abundante agua fría. Escúrrelas y pélalas: frótalas con fuerza entre las manos dentro del agua, deja que las pieles suban a la superficie y tíralas con el agua. Repite 4 o 5 veces hasta que casi todas estén blancas. Lleva unos 10 minutos y es lo que da al moi moi su textura fina.",
+    "Cuece los huevos 9 minutos, pélalos y córtalos por la mitad a lo largo. Mientras, calienta el caldo.",
     "Tritura las alubias peladas con el pimiento, la cebolla, el chile y el caldo caliente durante 2–3 minutos, hasta obtener una crema muy fina y algo aireada.",
     "Añade el aceite, el pimentón y una cucharadita de sal y bate 1 minuto más. Debe quedar una masa espesa pero que caiga de la cuchara.",
     "Engrasa 4 flaneras o tazas aptas para el calor. Reparte la mitad de la masa, coloca medio huevo en cada una, cubre con el resto y tapa cada molde con papel de aluminio bien ajustado.",
@@ -354,9 +354,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta los extremos de los plátanos, haz un corte a lo largo de la piel y retírala. Trocéalos en 3 y cuécelos en agua con sal 20–25 minutos, hasta que una punta de cuchillo entre sin resistencia.",
     "Mientras, cuece los huevos 9 minutos, enfríalos y pélalos.",
-    "Tritura las pipas de calabaza hasta obtener una harina y mézclala con 4 cucharadas de agua para formar una pasta.",
+    "Tritura las pipas de calabaza hasta obtener una harina y mézclala con 4 cucharadas de agua para formar una pasta. Pica la cebolla, el chile y los tomates y ralla el jengibre.",
     "Escalda las espinacas 1 minuto en agua hirviendo, escúrrelas apretando bien y pícalas.",
-    "Calienta el aceite de palma a fuego medio y sofríe la cebolla picada 5 minutos. Añade el jengibre rallado y el chile picado y remueve 1 minuto. Incorpora los tomates picados y cocina 8 minutos, hasta tener una salsa espesa.",
+    "Calienta el aceite de palma a fuego medio y sofríe la cebolla 5 minutos. Añade el jengibre y el chile y remueve 1 minuto. Incorpora los tomates y cocina 8 minutos, hasta tener una salsa espesa.",
     "Añade la pasta de pipas a cucharadas y no remuevas en 3 minutos: cuaja en grumos, como un huevo revuelto. Después remueve con suavidad.",
     "Incorpora las espinacas y cocina 5 minutos. Sala, coloca los huevos partidos por la mitad encima y calienta 2 minutos. Sirve con el plátano hervido."
   ],
@@ -399,10 +399,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece los fideos el tiempo que indique el paquete (3–4 minutos), escúrrelos, pásalos por agua fría y úntalos con unas gotas de aceite para que no se peguen.",
     "Bate los huevos con una pizca de sal. Cuájalos en el wok con unas gotas de aceite como una tortilla fina, 1–2 minutos, enróllala y córtala en tiras.",
-    "Corta la col en juliana, la zanahoria en bastones finos, las judías verdes en trozos oblicuos de 3 cm y la cebolleta en rodajas, separando la parte blanca de la verde.",
-    "Calienta el resto del aceite en el wok a fuego fuerte. Saltea el ajo y el jengibre picados con la parte blanca de la cebolleta 30 segundos. Añade la zanahoria y las judías y saltea 3 minutos; agrega la col y saltea 2 minutos más: las verduras deben quedar crujientes.",
+    "Corta la col en juliana, la zanahoria en bastones finos, las judías verdes en trozos oblicuos de 3 cm y la cebolleta en rodajas, separando la parte blanca de la verde. Pica el ajo y el jengibre y corta el chile en rodajas.",
+    "Calienta el resto del aceite en el wok a fuego fuerte. Saltea el ajo y el jengibre con la parte blanca de la cebolleta 30 segundos. Añade la zanahoria y las judías y saltea 3 minutos; agrega la col y saltea 2 minutos más: las verduras deben quedar crujientes.",
     "Incorpora los fideos, la salsa de soja y pimienta y saltea 2–3 minutos, levantándolos con unas pinzas, hasta que se impregnen y algunos se tuesten.",
-    "Sirve con las tiras de tortilla, la parte verde de la cebolleta y el chile en rodajas."
+    "Sirve con las tiras de tortilla, la parte verde de la cebolleta y el chile."
   ],
   nutricion: { kcal: 560, prot: 21, hc: 70, grasa: 22 },
   etiquetas: ["tradicional", "rápida", "para niños", "económica", "ideal para llevar"],
@@ -572,7 +572,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Sofríe la cebolla picada en 1 cucharada de aceite 5 minutos. Añade el ajo, el comino, el cilantro molido y el chile picado y remueve 1 minuto.",
+    "Precalienta el horno a 200 °C. Pica la cebolla, el ajo y el chile. Sofríe la cebolla en 1 cucharada de aceite 5 minutos. Añade el ajo, el comino, el cilantro molido y el chile y remueve 1 minuto.",
     "Agrega las espinacas y los guisantes y cocina 3–4 minutos, hasta que las espinacas se marchiten. Pasa a un colador y aprieta para eliminar todo el líquido: si el relleno está húmedo, las sambusas se ablandan. Deja templar y mezcla con el feta desmenuzado y la mitad del cilantro fresco picado.",
     "Corta cada lámina de filo por la mitad a lo largo, píntala con aceite y dóblala por la mitad a lo largo para tener una tira doble.",
     "Pon una cucharada de relleno en un extremo y dobla en triángulo, como una bandera, hasta el final de la tira. Coloca las sambusas en una bandeja con papel y píntalas con el aceite restante.",
@@ -618,11 +618,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en agua con sal 12 minutos; escúrrelo.",
-    "Mientras, sofríe la cebolla picada en el aceite en una sartén honda a fuego medio 5 minutos. Añade el ajo y el jengibre rallados y el chile picado y remueve 1 minuto. Incorpora el tomate y cocina 5 minutos.",
+    "Mientras, pica la cebolla y el chile, ralla el ajo y el jengibre y calienta el caldo. Sofríe la cebolla en el aceite en una sartén honda a fuego medio 5 minutos. Añade el ajo, el jengibre y el chile y remueve 1 minuto. Incorpora el tomate y cocina 5 minutos.",
     "Disuelve la crema de cacahuete en el caldo caliente batiendo con un tenedor y viértelo en la sartén. Cuece a fuego suave 10 minutos, removiendo a menudo porque tiende a pegarse, hasta tener una salsa cremosa, anaranjada y con gotitas de aceite en la superficie. Sala.",
     "Añade las espinacas y remueve 1 minuto, hasta que se marchiten.",
-    "Haz 4 huecos en la salsa con una cuchara, casca un huevo en cada uno, tapa y cocina a fuego suave 5–6 minutos, hasta que la clara esté cuajada y la yema siga líquida.",
-    "Espolvorea cilantro picado y sirve con el arroz."
+    "Haz 4 huecos en la salsa con una cuchara, casca un huevo en cada uno, tapa y cocina a fuego suave 5–6 minutos, hasta que la clara esté cuajada y la yema siga líquida. Mientras, pica el cilantro.",
+    "Espolvorea el cilantro y sirve con el arroz."
   ],
   nutricion: { kcal: 620, prot: 27, hc: 65, grasa: 28 },
   etiquetas: ["creativa", "sin gluten", "económica", "una sola sartén"],
@@ -664,8 +664,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas, córtalas en trozos de 4 cm y cuécelas en agua con sal 18–20 minutos, hasta que estén tiernas. Escúrrelas.",
     "Mientras, derrite la mantequilla a fuego bajo con el cardamomo, el comino y el fenogreco 2 minutos, sin que se dore. Es una versión exprés del niter kibbeh etíope.",
-    "Quita los tallos duros a la kale y córtala en tiras finas.",
-    "Pon dos tercios de la mantequilla especiada en una sartén y sofríe la cebolla picada 5 minutos. Añade el ajo, el jengibre y el chile picados y remueve 1 minuto.",
+    "Quita los tallos duros a la kale y córtala en tiras finas. Pica la cebolla, el ajo, el jengibre y el chile.",
+    "Pon dos tercios de la mantequilla especiada en una sartén y sofríe la cebolla 5 minutos. Añade el ajo, el jengibre y el chile y remueve 1 minuto.",
     "Incorpora la kale con 3 cucharadas de agua, tapa y cocina 5–6 minutos, hasta que esté tierna pero de un verde intenso. Sala y añade el zumo del medio limón.",
     "Desmenuza el requesón con una pizca de sal y el berbere.",
     "Sirve las patatas con la col por encima y el requesón al lado, y riega las patatas con el resto de la mantequilla especiada caliente."
@@ -709,10 +709,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Bate la harina de teff con 300 ml del agua y media cucharadita de sal hasta tener una masa lisa y líquida, como de crepes. Déjala reposar mientras haces el guiso.",
-    "Calienta el aceite en una cazuela y sofríe la cebolla en pluma 8 minutos a fuego medio, hasta que esté dorada. Añade el ajo y el jengibre picados, remueve 1 minuto y agrega la cúrcuma 30 segundos.",
-    "Incorpora la zanahoria en rodajas y la patata en dados de 2 cm, remueve 2 minutos, añade el resto del agua, tapa y cuece 10 minutos.",
-    "Añade la col en tiras de 2 cm y el chile en tiras. Tapa y cocina 12–15 minutos más, removiendo de vez en cuando, hasta que la patata esté tierna y la col melosa pero entera. Salpimienta.",
+    "Bate la harina de teff con 300 ml del agua y media cucharadita de sal hasta tener una masa lisa y líquida, como de crepes. Déjala reposar mientras haces el guiso. Corta la cebolla en pluma, pica el ajo y el jengibre, corta la zanahoria en rodajas y la patata en dados de 2 cm.",
+    "Calienta el aceite en una cazuela y sofríe la cebolla en pluma 8 minutos a fuego medio, hasta que esté dorada. Añade el ajo y el jengibre, remueve 1 minuto y agrega la cúrcuma 30 segundos.",
+    "Incorpora la zanahoria y la patata, remueve 2 minutos, añade el resto del agua, tapa y cuece 10 minutos. Mientras, corta la col en tiras de 2 cm y el chile en tiras.",
+    "Añade la col y el chile. Tapa y cocina 12–15 minutos más, removiendo de vez en cuando, hasta que la patata esté tierna y la col melosa pero entera. Salpimienta.",
     "Justo antes de hacer las injeras, añade el bicarbonato y el vinagre a la masa y remueve: hará espuma.",
     "Calienta una sartén antiadherente de 24 cm a fuego medio. Vierte un cazo de masa en espiral desde el borde hacia el centro, en capa fina. Cuando la superficie se llene de agujeritos (1 minuto), tapa y cocina 1–2 minutos, hasta que se vea seca. No se le da la vuelta.",
     "Deja cada injera en un plato sin amontonarlas mientras están calientes. Sirve el guiso sobre una injera y usa las demás para comer con la mano."
@@ -757,10 +757,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Para el ugali, lleva el agua a ebullición con una cucharadita de sal. Echa la harina en forma de lluvia removiendo con fuerza con una cuchara de madera. Tapa y cuece a fuego mínimo 15 minutos, aplastando la masa contra las paredes cada 3 minutos, hasta que esté firme, lisa y se despegue de la cazuela.",
-    "Mientras, calienta 1 cucharada de aceite en una sartén a fuego fuerte y saltea la okra sin descongelar 5–6 minutos, hasta que se dore un poco. Dorarla antes reduce mucho la textura babosa. Resérvala.",
-    "En una cazuela con el resto del aceite, sofríe la cebolla picada 5 minutos. Añade el ajo, el jengibre y el chile picados 1 minuto, y el curry, el comino y la cúrcuma 30 segundos.",
-    "Incorpora los tomates picados y cocina 8 minutos, hasta tener una salsa espesa.",
-    "Añade la okra y 100 ml de agua y cuece a fuego suave 8–10 minutos, hasta que esté tierna. Termina con el zumo de la media lima, sal y el cilantro picado.",
+    "Mientras, pica la cebolla, el ajo, el jengibre, el chile, los tomates y el cilantro. Calienta 1 cucharada de aceite en una sartén a fuego fuerte y saltea la okra sin descongelar 5–6 minutos, hasta que se dore un poco. Dorarla antes reduce mucho la textura babosa. Resérvala.",
+    "En una cazuela con el resto del aceite, sofríe la cebolla 5 minutos. Añade el ajo, el jengibre y el chile 1 minuto, y el curry, el comino y la cúrcuma 30 segundos.",
+    "Incorpora los tomates y cocina 8 minutos, hasta tener una salsa espesa.",
+    "Añade la okra y 100 ml de agua y cuece a fuego suave 8–10 minutos, hasta que esté tierna. Termina con el zumo de la media lima, sal y el cilantro.",
     "Vuelca el ugali en un bol mojado para darle forma de cúpula y sírvelo con el guiso."
   ],
   nutricion: { kcal: 560, prot: 13, hc: 89, grasa: 17 },
@@ -803,11 +803,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cubre las alubias con 1 litro de agua, lleva a ebullición y cuece 25 minutos, hasta que estén casi tiernas. No tires el agua.",
-    "Añade el bicarbonato (oscurece el caldo e imita el color que dan en Ghana las hojas de sorgo), el arroz lavado y sal. Ajusta el agua para que cubra 1 cm por encima, tapa y cuece a fuego mínimo 15 minutos. Deja reposar 5 minutos tapado: el arroz debe quedar suelto y de color pardo rojizo.",
-    "Mientras, tritura el pimiento con media cebolla, el ajo, el jengibre y el chile.",
-    "Calienta el aceite y sofríe la otra media cebolla picada 5 minutos. Añade el tomate concentrado y remueve 2 minutos.",
+    "La víspera (o al menos 4 horas antes), pon las alubias en remojo en abundante agua fría. Escúrrelas, cúbrelas con 1 litro de agua, lleva a ebullición y cuece 25 minutos, hasta que estén casi tiernas. No tires el agua.",
+    "Mientras, tritura el pimiento con media cebolla, el ajo, el jengibre y el chile, y pica la otra media cebolla.",
+    "Calienta el aceite en otra cazuela y sofríe la cebolla picada 5 minutos. Añade el tomate concentrado y remueve 2 minutos.",
     "Incorpora el triturado, el tomate, el tomillo, el curry y el laurel. Cuece 20 minutos a fuego medio-bajo semitapado, hasta que la salsa esté oscura y espesa y el aceite suba a la superficie. Sala y retira el laurel.",
+    "Cuando las alubias estén casi tiernas, añade el bicarbonato (oscurece el caldo e imita el color que dan en Ghana las hojas de sorgo), el arroz lavado y sal. Ajusta el agua para que cubra 1 cm por encima, tapa y cuece a fuego mínimo 15 minutos. Deja reposar 5 minutos tapado: el arroz debe quedar suelto y de color pardo rojizo.",
     "Sirve el waakye con la salsa por encima y el aguacate en láminas con una pizca de sal."
   ],
   nutricion: { kcal: 770, prot: 23, hc: 104, grasa: 29 },
@@ -847,10 +847,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en agua con sal 12 minutos; escúrrelo.",
-    "Para el maharagwe, sofríe media cebolla picada en una cucharada de aceite 5 minutos. Añade el ajo picado, el curry, la cúrcuma y el chile y remueve 1 minuto. Incorpora un tomate rallado y cocina 4 minutos.",
+    "Mientras, para el maharagwe, pica media cebolla y el ajo y ralla un tomate. Sofríe la cebolla picada en una cucharada de aceite 5 minutos. Añade el ajo, el curry, la cúrcuma y el chile y remueve 1 minuto. Incorpora el tomate rallado y cocina 4 minutos.",
     "Añade las alubias escurridas y la leche de coco y cuece a fuego suave 10 minutos, aplastando unas pocas alubias, hasta que la salsa quede espesa y cremosa. Sala.",
-    "Para el sukuma wiki, quita los tallos a la kale y córtala en tiras muy finas, como se hace en Kenia.",
-    "En una sartén con el resto del aceite, sofríe la otra media cebolla en pluma 3 minutos, añade el otro tomate en dados y cocina 3 minutos. Agrega la kale con un chorrito de agua y saltea 4–5 minutos sin tapar, hasta que esté tierna pero verde brillante. Sala.",
+    "Mientras, para el sukuma wiki, quita los tallos a la kale y córtala en tiras muy finas, como se hace en Kenia. Corta la otra media cebolla en pluma y el otro tomate en dados.",
+    "En una sartén con el resto del aceite, sofríe la cebolla en pluma 3 minutos, añade el tomate en dados y cocina 3 minutos. Agrega la kale con un chorrito de agua y saltea 4–5 minutos sin tapar, hasta que esté tierna pero verde brillante. Sala.",
     "Sirve el arroz con las alubias de coco y el sukuma wiki al lado."
   ],
   nutricion: { kcal: 750, prot: 26, hc: 100, grasa: 27 },
@@ -890,11 +890,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Si la yuca es fresca, córtala en trozos de 8 cm, haz un corte en la corteza y retírala. Parte cada trozo a lo largo y quita la fibra central. Cuécela en agua con sal 25–30 minutos (20 si es congelada), hasta que se abra y esté tierna. Escúrrela.",
-    "Mientras, descongela las espinacas en el microondas 4 minutos y escúrrelas un poco.",
-    "Calienta el aceite de palma en una cazuela a fuego medio y sofríe la cebolla y la cebolleta picadas 5 minutos. Añade el ajo picado y el pimiento verde en dados y cocina 3 minutos.",
-    "Incorpora la berenjena en dados de 1,5 cm y cocina 6 minutos, hasta que empiece a dorarse.",
+    "Mientras, descongela las espinacas en el microondas 4 minutos y escúrrelas un poco. Pica la cebolla, la cebolleta, el ajo y el chile, y corta el pimiento verde en dados y la berenjena en dados de 1,5 cm.",
+    "Calienta el aceite de palma en una cazuela a fuego medio y sofríe la cebolla y la cebolleta 5 minutos. Añade el ajo y el pimiento verde y cocina 3 minutos.",
+    "Incorpora la berenjena y cocina 6 minutos, hasta que empiece a dorarse.",
     "Añade las espinacas y el agua, tapa y cuece a fuego suave 15 minutos, removiendo de vez en cuando.",
-    "Disuelve la crema de cacahuete en 3 cucharadas de agua caliente, añádela con el chile picado y cocina 5 minutos más. Sala. Debe quedar espeso, verde oscuro y brillante.",
+    "Disuelve la crema de cacahuete en 3 cucharadas de agua caliente, añádela con el chile y cocina 5 minutos más. Sala. Debe quedar espeso, verde oscuro y brillante.",
     "Sirve el pondu con la yuca hervida."
   ],
   nutricion: { kcal: 645, prot: 14, hc: 96, grasa: 23 },
@@ -987,11 +987,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Escurre el tofu y déjalo 10 minutos envuelto en un paño con un peso encima. Mientras, lava el arroz y cuécelo en agua con sal 12 minutos; escúrrelo.",
     "Prepara el xawaash: mezcla el comino, el cilantro molido, la cúrcuma, la canela, el cardamomo y media cucharadita de pimienta negra.",
-    "Corta el tofu en dados de 1,5 cm y mézclalo con la mitad del xawaash y sal.",
+    "Corta el tofu en dados de 1,5 cm y mézclalo con la mitad del xawaash y sal. Corta la cebolla y los pimientos en tiras, pica el ajo y el cilantro y corta el tomate en dados.",
     "Calienta 1 cucharada de aceite en una sartén a fuego fuerte y dora el tofu 7–8 minutos, girándolo, hasta que esté dorado y crujiente. Resérvalo.",
-    "En la misma sartén, con el resto del aceite, saltea la cebolla en tiras 4 minutos. Añade el ajo picado y los pimientos en tiras y saltea 5 minutos: deben quedar algo firmes.",
-    "Añade el resto del xawaash, remueve 30 segundos e incorpora el tomate en dados. Cocina 3 minutos.",
-    "Devuelve el tofu, saltea 2 minutos, apaga y añade el cilantro picado y el zumo de media lima. Sirve con el arroz y gajos de lima."
+    "En la misma sartén, con el resto del aceite, saltea la cebolla 4 minutos. Añade el ajo y los pimientos y saltea 5 minutos: deben quedar algo firmes.",
+    "Añade el resto del xawaash, remueve 30 segundos e incorpora el tomate. Cocina 3 minutos.",
+    "Devuelve el tofu, saltea 2 minutos, apaga y añade el cilantro y el zumo de media lima. Sirve con el arroz y gajos de lima."
   ],
   nutricion: { kcal: 630, prot: 29, hc: 67, grasa: 27 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "alta en proteína", "una sola sartén"],
@@ -1033,12 +1033,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio, añade el comino en grano y la canela y deja que chisporroteen 30 segundos. Incorpora la cebolla picada y sofríe 7 minutos, hasta que esté dorada.",
-    "Añade el ajo y el jengibre rallados, el chile picado, el garam masala y la cúrcuma, y remueve 1 minuto.",
-    "Incorpora los tomates rallados y cocina 5 minutos, hasta que el aceite se separe de la salsa.",
-    "Agrega el boniato en dados de 2 cm, los garbanzos escurridos y el agua. Tapa y cuece 15–18 minutos, hasta que el boniato esté tierno. Destapa y cuece 5 minutos más: el curry tiene que quedar espeso porque el pan absorberá el jugo. Sala y retira la canela.",
-    "Mientras, precalienta el horno a 200 °C. Corta una tapa a cada pan y vacía la miga dejando paredes de 1,5 cm. Tuesta los panes y las tapas 5 minutos.",
-    "Rellena los panes con el curry, espolvorea el cilantro picado y sirve con la tapa al lado para mojar."
+    "Pica la cebolla y el chile, ralla el ajo, el jengibre y los tomates, y pela el boniato y córtalo en dados de 2 cm.",
+    "Calienta el aceite en una cazuela a fuego medio, añade el comino en grano y la canela y deja que chisporroteen 30 segundos. Incorpora la cebolla y sofríe 7 minutos, hasta que esté dorada.",
+    "Añade el ajo, el jengibre, el chile, el garam masala y la cúrcuma, y remueve 1 minuto.",
+    "Incorpora los tomates y cocina 5 minutos, hasta que el aceite se separe de la salsa.",
+    "Agrega el boniato, los garbanzos escurridos y el agua. Tapa y cuece 15–18 minutos, hasta que el boniato esté tierno. Destapa y cuece 5 minutos más: el curry tiene que quedar espeso porque el pan absorberá el jugo. Sala y retira la canela.",
+    "Mientras, precalienta el horno a 200 °C. Corta una tapa a cada pan y vacía la miga dejando paredes de 1,5 cm. Tuesta los panes y las tapas 5 minutos. Pica el cilantro.",
+    "Rellena los panes con el curry, espolvorea el cilantro y sirve con la tapa al lado para mojar."
   ],
   nutricion: { kcal: 820, prot: 28, hc: 128, grasa: 22 },
   etiquetas: ["creativa", "picante", "sin lácteos", "invierno", "bajo en colesterol"],
@@ -1078,9 +1079,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en agua con sal 12 minutos; escúrrelo.",
-    "Trocea las setas. Calienta una cucharada de aceite en una sartén a fuego fuerte y dóralas 3 minutos sin moverlas y 2 más removiendo. Sala y reserva.",
-    "En una cazuela con el resto del aceite, sofríe la cebolla picada 5 minutos. Machaca el ajo y el jengibre en el mortero, añádelos y remueve 1 minuto.",
-    "Agrega los tomates en dados y cocina 5 minutos, hasta que se ablanden.",
+    "Mientras, trocea las setas, pica la cebolla y corta los tomates en dados. Calienta una cucharada de aceite en una sartén a fuego fuerte y dora las setas 3 minutos sin moverlas y 2 más removiendo. Sala y reserva.",
+    "En una cazuela con el resto del aceite, sofríe la cebolla 5 minutos. Machaca el ajo y el jengibre en el mortero, añádelos y remueve 1 minuto.",
+    "Agrega los tomates y cocina 5 minutos, hasta que se ablanden.",
     "Vierte el caldo, cuece 5 minutos y añade las setas.",
     "Incorpora las espinacas y los berros sin los tallos gruesos y cocina sólo 2 minutos, hasta que se marchiten. Salpimienta.",
     "Sirve el romazava en cuencos, caldoso, con la pimienta de Sichuan por encima y el arroz aparte."

@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el mijo en un colador hasta que el agua salga clara. Tuéstalo en un cazo seco 2 minutos, añade el caldo y una pizca de sal y cuécelo tapado a fuego mínimo 15 minutos, hasta que absorba el líquido. Destápalo y deja que se temple.",
-    "Mientras, precalienta el horno a 190 °C. Corta una tapa a los pimientos por el lado del tallo, quítales las semillas y las venas blancas y reserva las tapas.",
+    "Mientras, precalienta el horno a 190 °C. Corta una tapa a los pimientos por el lado del tallo, quítales las semillas y las venas blancas y reserva las tapas. Ralla la zanahoria y pica la cebolleta.",
     "En una sartén, calienta el aceite de ajo con la mitad del aceite de oliva y rehoga la zanahoria rallada y la cebolleta picada 4 minutos. Añade 1 cucharadita de pimentón, remueve 10 segundos fuera del fuego y mézclalo con el mijo, el huevo batido, el gouda rallado, el perejil picado, sal y pimienta.",
     "Rellena los pimientos apretando ligeramente y tápalos con su tapa. Si sobra relleno, haz unas bolitas con él.",
     "En una fuente de horno, mezcla el tomate triturado con el resto del aceite y del pimentón, el azúcar, la mejorana, 100 ml de agua y sal. Coloca los pimientos de pie dentro de la salsa y las bolitas alrededor.",
@@ -317,7 +317,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño, ponle un peso encima 15 minutos para que suelte el agua y córtalo en dados de 2,5 cm.",
+    "Envuelve el tofu en un paño y ponle un peso encima 15 minutos para que suelte el agua. Mientras, ralla el tomate y pica la cebolleta. Después corta el tofu en dados de 2,5 cm.",
     "Para el arroz, calienta el aceite de oliva en una cazuela a fuego medio y rehoga la cebolleta picada 2 minutos. Añade el tomate rallado y el laurel y cocina 8 minutos, hasta que el tomate pierda el agua y oscurezca.",
     "Incorpora el arroz, remueve 1 minuto y vierte 500 ml de caldo caliente. Sala y cuece a fuego medio 16-17 minutos, removiendo de vez en cuando. Debe quedar meloso y con algo de caldo, como un risotto suelto; añade más caldo si se seca.",
     "Mientras, calienta la mitad del aceite de ajo en una sartén antiadherente a fuego medio-alto y dora los dados de tofu 7-8 minutos, girándolos, hasta que estén dorados por todas las caras. Sálalos.",
@@ -364,7 +364,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor 10 minutos: pierde el amargor y queda más tierno y digestivo.",
+    "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor 10 minutos: pierde el amargor y queda más tierno y digestivo. Mientras, pica la cebolleta, corta la zanahoria en rodajas gruesas y pela el nabo y córtalo en dados.",
     "Calienta el aceite en una cazuela a fuego medio y dora el tempeh 5 minutos, girándolo, hasta que tenga color por varias caras. Espolvorea la harina de arroz y remueve 1 minuto, como se hace con la carne del kalops.",
     "Añade la cebolleta picada, la zanahoria en rodajas gruesas y el nabo en dados y rehoga 2 minutos.",
     "Vierte el caldo caliente poco a poco, removiendo para que no se formen grumos, y añade la pimienta de Jamaica ligeramente machacada, el laurel, el tamari, el vinagre y el azúcar moreno.",
@@ -593,7 +593,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Tritura las espinacas crudas con los huevos y 50 ml de leche hasta obtener un líquido verde y liso.",
     "En un bol, mezcla la harina sin gluten con una cucharadita de sal y la nuez moscada. Vierte el líquido verde y bate con una cuchara de madera 2 minutos, hasta tener una masa espesa y elástica que caiga de la cuchara en una cinta lenta. Déjala reposar 15 minutos.",
-    "Pon a hervir una olla grande con agua y sal y baja a hervor suave. Pasa la masa por un rallador de spätzle o un colador de agujeros grandes, apretando con una espátula, en dos o tres tandas. Cuando los spätzle suban a la superficie, espera 1 minuto, sácalos con una espumadera a una fuente y mézclalos con el aceite para que no se peguen.",
+    "Mientras reposa, pon a hervir una olla grande con agua y sal; cuando hierva, baja a hervor suave. Pasa la masa por un rallador de spätzle o un colador de agujeros grandes, apretando con una espátula, en dos o tres tandas. Cuando los spätzle suban a la superficie, espera 1 minuto, sácalos con una espumadera a una fuente y mézclalos con el aceite para que no se peguen.",
     "Corta el salmón en dados de 3 cm y sálalo. Ralla la piel del limón y exprime la mitad.",
     "En una sartén amplia, calienta el resto de la leche y la nata con la maicena disuelta en una cucharada de agua fría, removiendo, hasta que espese y nape la cuchara, unos 2-3 minutos.",
     "Añade el salmón y cocínalo a fuego suave 3-4 minutos, dándole la vuelta con cuidado, hasta que esté opaco por fuera y jugoso en el centro.",
@@ -1132,7 +1132,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el morcillo en una olla con el agua fría, llévalo a ebullición y retira toda la espuma durante 5-10 minutos. Añade las hojas de cebolleta, el laurel, la pimienta en grano y los tallos del perejil, baja el fuego para que apenas tiemble y cuece 1 hora y 30 minutos con la olla entreabierta.",
     "Añade la zanahoria y la chirivía peladas y enteras y una cucharadita de sal, y cuece 40 minutos más, hasta que la carne esté muy tierna.",
-    "Eierstich: bate los huevos con la leche, la nuez moscada y una pizca de sal sin hacer espuma y cuela la mezcla. Unta con el aceite un molde pequeño o un táper apto para calor de unos 12 × 12 cm, vierte el huevo (debe tener unos 2 cm de altura) y tápalo con papel de aluminio.",
+    "Mientras se cuece el caldo, prepara el Eierstich: bate los huevos con la leche, la nuez moscada y una pizca de sal sin hacer espuma y cuela la mezcla. Unta con el aceite un molde pequeño o un táper apto para calor de unos 12 × 12 cm, vierte el huevo (debe tener unos 2 cm de altura) y tápalo con papel de aluminio.",
     "Pon el molde en una cazuela con agua caliente hasta la mitad de su altura y cuécelo tapado a fuego mínimo 20-25 minutos, sin que el agua llegue a hervir, hasta que esté cuajado y firme al tacto. Déjalo templar, desmóldalo y córtalo en dados o rombos de 1,5 cm.",
     "Mientras, cuece el arroz en agua con sal 15 minutos y escúrrelo.",
     "Cuela el caldo y desgrásalo con una cuchara. Desmiga la carne y corta la zanahoria y la chirivía en dados pequeños. Rectifica de sal.",

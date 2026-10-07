@@ -132,9 +132,9 @@ window.RECETAS_SEED.push({
     "Cuece los huevos 9 minutos desde que el agua vuelva a hervir, enfríalos en agua con hielo y pélalos.",
     "Pela las patatas y córtalas en dados de 2 cm. Déjalas 10 minutos en agua fría para quitarles el almidón de la superficie (así no se pegan ni se rompen al glasearlas) y escúrrelas. Corta la zanahoria en dados del mismo tamaño y el pimiento en cuadrados de 2 cm.",
     "Calienta el aceite de girasol y el aceite de ajo en una sartén honda a fuego medio y rehoga patata y zanahoria 4 minutos, hasta que los bordes de la patata se vean translúcidos.",
-    "Añade los 300 ml de agua, el tamari y el azúcar moreno. Cuando hierva, baja a fuego medio-bajo y cuece sin tapar 15 minutos, removiendo con cuidado de vez en cuando, hasta que la patata esté tierna y el líquido se haya reducido a un tercio.",
+    "Añade los 300 ml de agua, el tamari y el azúcar moreno. Cuando hierva, baja a fuego medio-bajo y cuece sin tapar 15 minutos, removiendo con cuidado de vez en cuando, hasta que la patata esté tierna y el líquido se haya reducido a un tercio. Mientras, pon a hervir agua con sal para las espinacas.",
     "Añade el pimiento y los huevos pelados, sube el fuego y mueve la sartén 3-4 minutos, rodando los huevos, hasta que la salsa se convierta en un almíbar oscuro que lo lacee todo. Apaga y añade 1 cucharadita de aceite de sésamo y la mitad del sésamo.",
-    "Para el namul, escalda las espinacas 30 segundos en agua hirviendo con sal, pásalas a agua fría y escúrrelas apretando con fuerza entre las manos. Córtalas en trozos de 5 cm y alíñalas con el resto del aceite de sésamo, la cebolleta picada, el resto del sésamo machacado entre los dedos y una pizca de sal.",
+    "Para el namul, escalda las espinacas 30 segundos en el agua hirviendo, pásalas a agua fría y escúrrelas apretando con fuerza entre las manos. Córtalas en trozos de 5 cm y alíñalas con el resto del aceite de sésamo, la cebolleta picada, el resto del sésamo machacado entre los dedos y una pizca de sal.",
     "Sirve las patatas con su glaseado, los huevos lacados partidos por la mitad y el namul al lado."
   ],
   nutricion: { kcal: 570, prot: 26, hc: 67, grasa: 22 },
@@ -224,8 +224,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 225 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Corta la zanahoria en bastones de medio centímetro, las judías en trozos de 5 cm y el calabacín en medias lunas gruesas. Corta el pak choi a lo largo en cuartos. Pela el jengibre y córtalo en hebras muy finas; corta la cebolleta en hebras de 5 cm.",
-    "Pon a hervir 3 dedos de agua en una cazuela con un cestillo de vapor encima. Cuece la zanahoria y las judías 6 minutos tapado. Añade el calabacín y el pak choi, con las pencas hacia abajo, y 2 minutos más.",
+    "Pon a hervir 3 dedos de agua en una cazuela con un cestillo de vapor encima. Mientras, corta la zanahoria en bastones de medio centímetro, las judías en trozos de 5 cm y el calabacín en medias lunas gruesas. Corta el pak choi a lo largo en cuartos. Pela el jengibre y córtalo en hebras muy finas; corta la cebolleta en hebras de 5 cm.",
+    "Cuece al vapor la zanahoria y las judías 6 minutos tapado. Añade el calabacín y el pak choi, con las pencas hacia abajo, y 2 minutos más.",
     "Coloca los langostinos sobre las verduras, sálalos ligeramente y cuece 3 minutos, hasta que estén rosados y opacos. Pasa todo a una fuente.",
     "Calienta el tamari con el azúcar y 2 cucharadas de agua en un cazo hasta que hierva, y riega con ello las verduras y los langostinos.",
     "Pon el jengibre y la cebolleta en un montoncito sobre la fuente. Calienta el aceite en una sartén pequeña hasta que esté muy caliente, justo antes de humear (una hebra de jengibre debe chisporrotear al echarla), y viértelo de golpe sobre las hierbas: chisporrotearán y soltarán todo su perfume.",
@@ -359,10 +359,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el kombu en remojo en el litro de agua 30 minutos. Sácalo, córtalo en 4 tiras largas y haz un nudo con cada una. Calienta el agua del remojo, añade el bonito justo antes de que hierva, deja hervir 1 minuto, apaga, espera 3 minutos y cuela.",
-    "Pela el daikon con un grosor generoso (la capa exterior es fibrosa), córtalo en rodajas de 2,5 cm, bisela los bordes y haz una cruz poco profunda en una cara. Cuécelo 15 minutos en agua: así pierde el amargor y luego absorbe mejor el caldo. Pela las patatas y déjalas enteras (o en mitades si son grandes) y corta la zanahoria pelada en trozos gruesos.",
-    "Cuece los huevos 9 minutos, enfríalos y pélalos. Corta el tempeh en triángulos y escáldalo 5 minutos en agua hirviendo: se suaviza su sabor y resulta más digestivo.",
-    "Prensa el tofu 10 minutos entre papel de cocina, córtalo en 4 lonchas gruesas y dóralo en una sartén antiadherente con el aceite 2-3 minutos por cada lado.",
+    "Pon el kombu en remojo en el litro de agua 30 minutos. Mientras, pela el daikon con un grosor generoso (la capa exterior es fibrosa), córtalo en rodajas de 2,5 cm, bisela los bordes y haz una cruz poco profunda en una cara. Cuécelo 15 minutos en agua: así pierde el amargor y luego absorbe mejor el caldo. Pela las patatas y déjalas enteras (o en mitades si son grandes) y corta la zanahoria pelada en trozos gruesos.",
+    "Mientras se cuece el daikon, cuece los huevos 9 minutos, enfríalos y pélalos. Corta el tempeh en triángulos y escáldalo 5 minutos en agua hirviendo: se suaviza su sabor y resulta más digestivo. Prensa el tofu 10 minutos entre papel de cocina.",
+    "Saca el kombu del remojo, córtalo en 4 tiras largas y haz un nudo con cada una. Calienta el agua del remojo, añade el bonito justo antes de que hierva, deja hervir 1 minuto, apaga, espera 3 minutos y cuela.",
+    "Corta el tofu en 4 lonchas gruesas y dóralo en una sartén antiadherente con el aceite 2-3 minutos por cada lado.",
     "En una cazuela ancha, mezcla el dashi con el tamari, el azúcar y una pizca de sal. Añade el daikon, la patata, la zanahoria y los nudos de kombu y cuece a fuego muy suave, sin que llegue a borbotear, 30 minutos: si hierve fuerte, el caldo se enturbia.",
     "Incorpora el tofu, el tempeh y los huevos y sigue 20 minutos más al mínimo. Si tienes tiempo, apaga y deja reposar 30 minutos: el oden mejora mucho al enfriarse y recalentarse.",
     "Sirve en cuencos hondos con abundante caldo y el jengibre rallado en un montoncito para ir añadiéndolo al gusto."
@@ -448,9 +448,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la wakame en agua fría 5 minutos, escúrrela y apriétala. Prepara la salsa: mezcla el tahini con el tamari, el vinagre, el azúcar, el jengibre rallado y 2 cucharadas de agua, batiendo hasta que quede lisa y fluida como una nata.",
+    "Pon a calentar agua con sal en una cazuela a fuego medio. Hidrata la wakame en agua fría 5 minutos, escúrrela y apriétala. Prepara la salsa: mezcla el tahini con el tamari, el vinagre, el azúcar, el jengibre rallado y 2 cucharadas de agua, batiendo hasta que quede lisa y fluida como una nata.",
     "Corta la lechuga en tiras, el pepino en bastones finos y el tomate en gajos. Reparte la lechuga y el pepino en platos hondos.",
-    "Pon a calentar agua con sal en una cazuela hasta que tiemble, a unos 80 °C: pequeñas burbujas en el fondo, sin hervir. Si hierve a borbotones, la carne se endurece.",
+    "Vigila el agua: debe quedar temblando, a unos 80 °C, con pequeñas burbujas en el fondo, sin hervir. Si hierve a borbotones, la carne se endurece.",
     "Escalda las lonchas de cerdo de 2 en 2, extendidas, 30-40 segundos, hasta que pierdan todo el color rosado. Sácalas a un colador y deja que se enfríen a temperatura ambiente: el agua con hielo, que se suele usar, endurece la carne y la grasa.",
     "Coloca el cerdo sobre la lechuga, añade el tomate y la wakame, riega con la salsa de sésamo y termina con el sésamo y la cebolleta cortada muy fina."
   ],
@@ -495,7 +495,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la wakame en agua fría 5 minutos y escúrrela. Cuece los fideos en agua hirviendo el tiempo del paquete (unos 3-4 minutos), pásalos por agua fría y escúrrelos bien.",
+    "Pon a hervir agua. Hidrata la wakame en agua fría 5 minutos y escúrrela. Cuece los fideos en el agua hirviendo el tiempo del paquete (unos 3-4 minutos), pásalos por agua fría y escúrrelos bien.",
     "Prepara el aliño: mezcla el vinagre, el tamari, el azúcar, el jengibre rallado, el aceite de sésamo y el aceite de ajo hasta que el azúcar se disuelva.",
     "Corta el pepino y la zanahoria en bastones finos, el rábano en láminas y la lechuga en tiras. Corta la cebolleta en hebras.",
     "Abre los tubos del calamar, haz cortes cruzados en la cara interior sin llegar a atravesarlos y córtalos en piezas de 4 cm. Sécalos muy bien con papel de cocina.",
@@ -721,8 +721,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara el caldo: calienta el kombu en los 400 ml de agua y retíralo justo antes de que hierva. Añade 15 g de bonito, hierve 1 minuto, apaga y cuela a los 3 minutos. Añade el tamari y el azúcar, hierve 2 minutos y enfríalo rápido con el cazo dentro de un bol con agua y hielo.",
     "Cuece los huevos 6 minutos y medio desde que hierva el agua, enfríalos en agua con hielo y pélalos.",
-    "Pela el daikon y rállalo fino. Déjalo escurrir en un colador sin apretar: debe conservar algo de jugo.",
-    "Cuece la soba en abundante agua hirviendo sin sal el tiempo que indique el paquete (4-5 minutos). Remueve con suavidad solo al principio, porque la soba sin trigo es frágil.",
+    "Pon a hervir abundante agua para la soba. Mientras, pela el daikon y rállalo fino. Déjalo escurrir en un colador sin apretar: debe conservar algo de jugo.",
+    "Cuece la soba en el agua hirviendo, sin sal, el tiempo que indique el paquete (4-5 minutos). Remueve con suavidad solo al principio, porque la soba sin trigo es frágil.",
     "Escúrrela y lávala bajo el grifo de agua fría frotándola con las manos para quitarle el almidón; después pásala a agua con hielo 30 segundos y escúrrela muy bien.",
     "Reparte la soba en platos hondos, riega con el caldo frío, pon encima un buen montón de daikon, el huevo partido, el resto del bonito, la nori cortada en tiras y la cebolleta en aros finos."
   ],
@@ -807,11 +807,11 @@ window.RECETAS_SEED.push({
     { n: "agua", q: 125, u: "ml", nota: "más la del vapor" }
   ],
   pasos: [
-    "Escurre el arroz remojado. Corta el pollo en dados de 2 cm y mézclalo con 1 cucharada de tamari, la maicena, el jengibre rallado, el aceite de sésamo y la pimienta blanca. Deja que repose 15 minutos.",
-    "Calienta el aceite de girasol en una sartén a fuego medio-alto y dora el pollo 3 minutos. Añade la zanahoria en daditos y rehoga 2 minutos. Vierte 80 ml de agua, 1 cucharada de tamari y el azúcar y deja reducir 2 minutos, hasta que quede un jugo brillante.",
+    "Con al menos 4 horas de antelación (o la noche anterior), pon el arroz glutinoso en remojo en agua fría. Escurre el arroz remojado. Corta el pollo en dados de 2 cm y mézclalo con 1 cucharada de tamari, la maicena, el jengibre rallado, el aceite de sésamo y la pimienta blanca. Deja que repose 15 minutos y, mientras, corta la zanahoria en daditos.",
+    "Pon a hervir agua en la cazuela del vapor. Calienta el aceite de girasol en una sartén a fuego medio-alto y dora el pollo 3 minutos. Añade la zanahoria y rehoga 2 minutos. Vierte 80 ml de agua, 1 cucharada de tamari y el azúcar y deja reducir 2 minutos, hasta que quede un jugo brillante.",
     "Mezcla el arroz con el resto del tamari y 3 cucharadas de agua.",
     "Reparte el pollo y la zanahoria en el fondo de dos cuencos resistentes al calor, cubre con el arroz, presiona ligeramente y vierte por encima el jugo de la sartén.",
-    "Pon los cuencos en un cestillo de vapor sobre una cazuela con agua hirviendo, tapa y cuece 35-40 minutos, hasta que el arroz esté translúcido y tierno. Si a los 20 minutos lo ves seco, rocíalo con 2 cucharadas de agua.",
+    "Pon los cuencos en un cestillo de vapor sobre la cazuela con agua hirviendo, tapa y cuece 35-40 minutos, hasta que el arroz esté translúcido y tierno. Si a los 20 minutos lo ves seco, rocíalo con 2 cucharadas de agua.",
     "En los últimos 4 minutos, añade al cestillo el pak choi cortado a lo largo.",
     "Vuelca cada cuenco sobre un plato, esparce la cebolleta en aros y sirve con el pak choi."
   ],
@@ -894,9 +894,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el kombu en remojo en los 900 ml de agua. Lava el arroz y cuécelo con 190 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Corta los lomos de besugo en 4 trozos, sálalos y déjalos 10 minutos. Sala también la cabeza y la espina 10 minutos, colócalas en un colador, escáldalas con agua hirviendo y pásalas enseguida a agua fría, frotando los restos de sangre y escamas. Este paso, el shimofuri, es el secreto de un caldo claro y sin olor fuerte.",
-    "Pon la cabeza y la espina en la cazuela con el agua y el kombu y calienta a fuego medio. Retira el kombu justo antes de que hierva, desespuma con cuidado y cuece a fuego muy suave 10 minutos. Cuela por un paño o un colador fino.",
-    "Pela los nabos, córtalos en gajos y cuécelos en el caldo 8 minutos, hasta que estén translúcidos. Mientras, escalda las espinacas 30 segundos en otra olla, enfríalas y escúrrelas.",
+    "Corta los lomos de besugo en 4 trozos, sálalos y déjalos 10 minutos. Sala también la cabeza y la espina 10 minutos y, mientras, pon a hervir un cazo con agua. Coloca la cabeza y la espina en un colador, escáldalas con agua hirviendo y pásalas enseguida a agua fría, frotando los restos de sangre y escamas. Este paso, el shimofuri, es el secreto de un caldo claro y sin olor fuerte.",
+    "Pon la cabeza y la espina en la cazuela con el agua y el kombu y calienta a fuego medio. Retira el kombu justo antes de que hierva, desespuma con cuidado y cuece a fuego muy suave 10 minutos; mientras, pela los nabos y córtalos en gajos. Cuela por un paño o un colador fino.",
+    "Cuece los nabos en el caldo 8 minutos, hasta que estén translúcidos. Mientras, escalda las espinacas 30 segundos en otra olla, enfríalas y escúrrelas.",
     "Añade al caldo el tamari y sal al gusto: debe saber limpio y salino, como el mar. Introduce los trozos de besugo y escálfalos 3-4 minutos a fuego mínimo, sin hervir, hasta que la carne esté opaca.",
     "Reparte en cuencos el besugo, el nabo y las espinacas, cubre con el caldo caliente y termina con unas tiras finísimas de piel de naranja y de jengibre. Sirve el arroz aparte."
   ],
@@ -1071,8 +1071,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el dashi: calienta el kombu en los 700 ml de agua y retíralo justo antes de que hierva; añade el bonito, hierve 1 minuto, apaga, espera 3 minutos y cuela. Sin bonito tendrás un dashi vegetal, más suave.",
-    "Calienta el aceite en una cazuela a fuego medio-bajo y rehoga la cebolleta picada 2 minutos, sin que coja color. Añade la patata pelada en láminas finas y rehoga 2 minutos más.",
+    "Prepara el dashi: calienta el kombu en los 700 ml de agua y retíralo justo antes de que hierva; añade el bonito, hierve 1 minuto, apaga, espera 3 minutos y cuela. Sin bonito tendrás un dashi vegetal, más suave. Mientras se calienta el agua, pica la cebolleta y pela la patata y córtala en láminas finas.",
+    "Calienta el aceite en una cazuela a fuego medio-bajo y rehoga la cebolleta picada 2 minutos, sin que coja color. Añade la patata y rehoga 2 minutos más.",
     "Vierte 600 ml de dashi, sala ligeramente y cuece 15 minutos, hasta que la patata se deshaga al apretarla.",
     "Añade las espinacas y cuece solo 2 minutos, hasta que se ablanden: así la crema conserva un verde brillante.",
     "Tritura con la leche hasta que quede muy fina. Deslíe el miso en un cazo con un poco de crema caliente, fuera del fuego, y mézclalo con el resto: el miso no debe hervir o pierde su aroma. Ajusta la textura con el dashi restante, la sal y la pimienta blanca.",
@@ -1118,8 +1118,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Pon los 900 ml de agua con el kombu y el jengibre en láminas en una cazuela y caliéntalos 10 minutos a fuego medio. Retira el kombu justo antes de que hierva.",
-    "Mientras, mezcla la ternera con 1/2 cucharada de tamari, 1 cucharadita de maicena, la pimienta blanca y 1 cucharada de agua, y déjala 10 minutos.",
-    "Echa la carne en otra olla con agua hirviendo, sepárala con palillos 30 segundos y escúrrela en un colador: así quedan granos sueltos y la sopa no se enturbia con la espuma.",
+    "Mientras, mezcla la ternera con 1/2 cucharada de tamari, 1 cucharadita de maicena, la pimienta blanca y 1 cucharada de agua, y déjala 10 minutos. Pon a hervir agua en otra olla.",
+    "Echa la carne en el agua hirviendo de la otra olla, sepárala con palillos 30 segundos y escúrrela en un colador: así quedan granos sueltos y la sopa no se enturbia con la espuma.",
     "Retira el jengibre del caldo, sazónalo con el resto del tamari y sal, añade la carne y lleva a ebullición. Disuelve el resto de la maicena en 4 cucharadas de agua fría y viértela poco a poco, removiendo, hasta que la sopa cubra el dorso de una cuchara como un almíbar ligero.",
     "Baja el fuego al mínimo. Bate las claras y viértelas en un hilo fino mientras remueves despacio en un solo sentido: se formarán cintas blancas y sedosas.",
     "Apaga, añade el aceite de sésamo, el cilantro picado y la cebolleta en aros. Sirve en cuencos con el arroz al lado."

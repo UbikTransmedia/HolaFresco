@@ -85,7 +85,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva, pásalos a agua fría y pélalos.",
-    "Prepara el aliño: bate la mayonesa con el vinagre, la mostaza, el azúcar, la leche, sal y pimienta hasta que quede una crema fluida que caiga en hilo, entre dulce y ácida.",
+    "Mientras se cuecen, prepara el aliño: bate la mayonesa con el vinagre, la mostaza, el azúcar, la leche, sal y pimienta hasta que quede una crema fluida que caiga en hilo, entre dulce y ácida.",
     "Corta la lechuga en tiras anchas y la col en juliana muy fina. Ralla la zanahoria, corta el pepino en rodajas finas, el tomate en gajos y la cebolla en aros.",
     "Cubre el fondo de una fuente con la lechuga y la col mezcladas. Reparte encima la zanahoria, el pepino, el tomate y la cebolla en zonas, como se hace en Ghana.",
     "Pon las alubias en montoncitos con un poco de su salsa, las sardinas en trozos grandes y los huevos en rodajas.",
@@ -126,8 +126,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las lentejas y cuécelas en abundante agua sin sal a fuego medio 20-25 minutos, hasta que estén tiernas pero enteras. Sala el agua en los últimos 5 minutos.",
-    "Escúrrelas y extiéndelas en una fuente para que se templen sin pasarse.",
-    "Mientras, pica la cebolla muy fina, corta los chiles en tiras finas (quita las semillas si los quieres suaves), el tomate en dados sin semillas y ralla el ajo.",
+    "Mientras se cuecen, pica la cebolla muy fina, corta los chiles en tiras finas (quita las semillas si los quieres suaves), el tomate en dados sin semillas y ralla el ajo.",
+    "Escurre las lentejas y extiéndelas en una fuente para que se templen sin pasarse.",
     "Bate en un bol el zumo de los limones con la mostaza, el ajo, el aceite, sal y pimienta hasta emulsionar.",
     "Mezcla las lentejas aún templadas con el aliño, la cebolla y el chile: templadas absorben mucho mejor el ácido.",
     "Deja reposar 10 minutos, añade el tomate y prueba: debe quedar claramente ácida, con la mostaza marcada y un picor vivo. Corrige de sal y limón."
@@ -175,9 +175,9 @@ window.RECETAS_SEED.push({
     "Ralla el jengibre y el ajo y mézclalos con el zumo de 1 lima, la cúrcuma, el curry y sal. Corta el pollo en dados de 3 cm, embadúrnalo con la marinada y déjalo 15 minutos mientras haces el resto.",
     "Lava el arroz hasta que el agua salga clara y cuécelo con 180 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Apaga y deja reposar tapado 5 minutos.",
     "Corta la piña en dados, el pepino en medias lunas y la cebolla en plumas finas.",
-    "Bate la leche de coco con el zumo de la otra lima, el chile picado muy fino y una pizca de sal: es el aliño.",
+    "Bate la leche de coco con el zumo de la otra lima, el chile picado muy fino y una pizca de sal: es el aliño. Pica el cilantro.",
     "Ensarta el pollo en brochetas y ásalo en la plancha muy caliente con el aceite 8-10 minutos, girando, hasta que esté dorado con puntos tostados y sin rosa en el centro.",
-    "Monta los boles: canónigos y arroz templado en la base, encima la piña, el pepino y la cebolla, las brochetas, el aliño de coco y el cilantro picado."
+    "Monta los boles: canónigos y arroz templado en la base, encima la piña, el pepino y la cebolla, las brochetas, el aliño de coco y el cilantro."
   ],
   nutricion: { kcal: 610, prot: 34, hc: 64, grasa: 24 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "alta en proteína", "ideal para llevar", "verano", "bajo en colesterol"],
@@ -217,12 +217,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Rehoga la cebolla picada en 1 cucharada de aceite 5 minutos a fuego medio. Añade el ajo picado y el curry y remueve 30 segundos.",
+    "Pica la cebolla y el ajo. Rehoga la cebolla en 1 cucharada de aceite 5 minutos a fuego medio. Añade el ajo y el curry y remueve 30 segundos.",
     "Ralla 2 tomates, añádelos y cocina 5 minutos hasta que se forme una salsa. Incorpora las alubias escurridas con 100 ml de agua y cuece 8 minutos, aplastando unas cuantas para que espese. Sala.",
-    "Mientras, corta la col en juliana fina, ralla la zanahoria, corta el pimiento en tiras finas y el otro tomate en dados. Aliña con el zumo de la lima, el resto del aceite y sal.",
+    "Mientras, corta la col en juliana fina, ralla la zanahoria, corta el pimiento en tiras finas y el otro tomate en dados. Aliña con el zumo de la lima, el resto del aceite y sal. Pica el chile si lo usas.",
     "Calienta las tortillas en una sartén seca 1 minuto por lado, hasta que tengan manchas tostadas. Enróllalas y córtalas en trozos de 2 cm: así se sirve el kikomando.",
     "Corta el aguacate en dados.",
-    "Monta los boles con el chapati troceado en la base, las alubias calientes encima, la ensalada de col al lado, el aguacate y el chile picado si te gusta el picante."
+    "Monta los boles con el chapati troceado en la base, las alubias calientes encima, la ensalada de col al lado, el aguacate y el chile si te gusta el picante."
   ],
   nutricion: { kcal: 680, prot: 25, hc: 75, grasa: 31 },
   etiquetas: ["creativa", "rápida", "vegana", "económica", "para niños"],
@@ -263,9 +263,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata, córtala en dados de 2 cm y cuécela en agua con sal 12 minutos, hasta que esté tierna. Escurre.",
-    "Corta el bacalao en 4 trozos, sécalo, salpimiéntalo y pásalo por la harina sacudiendo el exceso.",
+    "Mientras, corta la cebolla en aros. Corta el bacalao en 4 trozos, sécalo, salpimiéntalo y pásalo por la harina sacudiendo el exceso.",
     "Calienta 3 cucharadas de aceite en una sartén a fuego medio-alto y dora el pescado 3 minutos por lado, hasta que esté dorado y apenas hecho en el centro. Pásalo a una fuente honda.",
-    "En la misma sartén, con el resto del aceite, rehoga la cebolla cortada en aros 5 minutos a fuego medio: debe quedar blanda pero con algo de cuerpo, sin dorarse.",
+    "En la misma sartén, con el resto del aceite, rehoga la cebolla 5 minutos a fuego medio: debe quedar blanda pero con algo de cuerpo, sin dorarse.",
     "Añade el curry y la cúrcuma, remueve 30 segundos y vierte el vinagre, 60 ml de agua, el azúcar, el laurel, la pimienta de jamaica y sal. Hierve 3 minutos: el escabeche debe quedar amarillo intenso y agridulce.",
     "Coloca las patatas junto al pescado y vierte por encima la cebolla con su escabeche caliente, cubriéndolo todo. Deja que se impregne al menos 20 minutos.",
     "Sirve templado sobre la lechuga cortada en tiras, con el pescado, la patata y la cebolla y unas cucharadas del escabeche como aliño."
@@ -435,7 +435,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata, córtala en dados de 2 cm y cuécela en agua con sal 12 minutos, hasta que esté tierna sin deshacerse. Escúrrela y deja que se temple.",
-    "Cuece los huevos 10 minutos, enfríalos en agua fría y pélalos.",
+    "Mientras, cuece los huevos 10 minutos en otro cazo, enfríalos en agua fría y pélalos.",
     "Corta la remolacha en dados del mismo tamaño y guárdala aparte para que no tiña todo hasta el final.",
     "Corta la cebolla en plumas finas y el chile en tiras finas. Bate el zumo del limón con el aceite, el ajo rallado, sal y pimienta.",
     "Mezcla la patata templada con la cebolla, el chile y la mitad del aliño y deja reposar 10 minutos para que se impregne.",
@@ -482,9 +482,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Sazona los contramuslos con sal, la mitad del curry y la mitad del tomillo. Dóralos en la cazuela con 1 cucharada de aceite 4 minutos por lado y resérvalos.",
-    "Tritura los tomates, los pimientos, 1 cebolla, el ajo, el jengibre y el habanero hasta obtener un puré fino.",
-    "En la misma cazuela, con 1 cucharada de aceite, rehoga la otra cebolla en juliana 5 minutos. Añade el tomate concentrado y fríelo 3 minutos removiendo, hasta que oscurezca.",
-    "Vierte el puré con el laurel, el resto del curry y del tomillo, y cuece a fuego medio 20 minutos sin tapar, hasta que se reduzca a la mitad y el aceite aflore por los bordes: esa base frita es lo que da el sabor al jollof.",
+    "Tritura los tomates, los pimientos, 1 cebolla, el ajo, el jengibre y el habanero hasta obtener un puré fino. Corta la otra cebolla en juliana.",
+    "En la misma cazuela, con 1 cucharada de aceite, rehoga la cebolla en juliana 5 minutos. Añade el tomate concentrado y fríelo 3 minutos removiendo, hasta que oscurezca.",
+    "Vierte el puré con el laurel, el resto del curry y del tomillo, y cuece a fuego medio 20 minutos sin tapar, hasta que se reduzca a la mitad y el aceite aflore por los bordes: esa base frita es lo que da el sabor al jollof. Mientras, calienta el caldo.",
     "Lava el arroz hasta que el agua salga clara. Añádelo a la salsa con el caldo caliente y sal, remueve una vez, coloca el pollo encima y cubre con papel de aluminio y la tapa. Cuece a fuego mínimo 25-30 minutos, removiendo solo una vez a mitad de cocción, de abajo arriba.",
     "Cuando el arroz esté tierno y seco, sube el fuego 2 minutos sin tocarlo para que se tueste ligeramente el fondo. Apaga y deja reposar tapado 5 minutos.",
     "Mientras reposa, pela el plátano, córtalo en rodajas al bies y dóralo en una sartén con el resto del aceite 2-3 minutos por lado, hasta que esté caramelizado. Sala.",
@@ -523,9 +523,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en 400 ml de agua con sal, tapado y a fuego suave, 30-35 minutos, hasta que esté tierno y sin líquido. Deja reposar tapado.",
-    "Cuece los huevos 10 minutos, enfríalos y pélalos.",
-    "Tritura a golpes cortos los pimientos, el habanero y 1 cebolla, sin agua: debe quedar picado menudo, no un puré. Deja escurrir en un colador 5 minutos para que suelte el líquido.",
-    "Calienta el aceite en una cazuela y dora la otra cebolla en juliana 5 minutos a fuego medio.",
+    "Mientras, cuece los huevos 10 minutos, enfríalos y pélalos.",
+    "Tritura a golpes cortos los pimientos, el habanero y 1 cebolla, sin agua: debe quedar picado menudo, no un puré. Deja escurrir en un colador 5 minutos para que suelte el líquido y, mientras, corta la otra cebolla en juliana.",
+    "Calienta el aceite en una cazuela y dora la cebolla en juliana 5 minutos a fuego medio.",
     "Añade el picado de pimientos y cocina a fuego medio 15-20 minutos, removiendo a menudo, hasta que se evapore el agua, tome un color verde oliva y el aceite se separe por los bordes. Añade la pastilla desmenuzada y prueba de sal.",
     "Mete los huevos enteros en la salsa y dales vueltas 3 minutos para que se impregnen.",
     "Sirve el arroz con la ayamase por encima y los huevos partidos por la mitad."
@@ -571,10 +571,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la ternera en dados de 2 cm y cuécela en 700 ml de agua con sal, 2 ajos y la mitad del jengibre machacados, tapada y a fuego suave, 60 minutos, hasta que esté tierna. Cuela y guarda el caldo: necesitarás unos 330 ml.",
-    "Mientras, lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos.",
+    "Mientras, lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Corta la cebolla en juliana, pica el resto del ajo y del jengibre, pela la patata y córtala en dados de 2 cm y ralla el tomate.",
     "Tuesta en seco el comino, el cardamomo, el clavo, la canela y la pimienta 1-2 minutos, hasta que huelan. Abre las vainas de cardamomo y muele sus semillas con el comino y la pimienta en el mortero; deja enteros el clavo y la canela.",
     "En la cazuela, calienta el aceite y fríe la cebolla en juliana a fuego medio 15 minutos, removiendo, hasta que esté marrón oscuro sin quemarse: ese tostado es el que da al pilau su color.",
-    "Añade el resto del ajo y del jengibre picados y todas las especias, 1 minuto. Incorpora la ternera escurrida y la patata en dados de 2 cm y rehoga 3 minutos; añade el tomate rallado y cocina 2 minutos más.",
+    "Añade el ajo, el jengibre y todas las especias, 1 minuto. Incorpora la ternera escurrida y la patata y rehoga 3 minutos; añade el tomate y cocina 2 minutos más.",
     "Agrega el arroz escurrido, remueve 1 minuto para que se impregne y vierte el caldo caliente. Prueba de sal, lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos.",
     "Apaga y deja reposar tapado 10 minutos. Suelta el arroz con un tenedor y sírvelo con gajos de lima y cilantro."
   ],
@@ -619,11 +619,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara. Lleva a ebullición 180 ml de leche de coco con 100 ml de agua y sal, añade el arroz, remueve una vez, tapa y cuece a fuego mínimo 15 minutos. Apaga y deja reposar tapado 10 minutos: la capa tostada del fondo (ukoko) es la más apreciada.",
-    "Sazona las gambas con la cúrcuma y una pizca de sal y resérvalas.",
-    "En otra cazuela con el aceite, rehoga la cebolla picada 6 minutos a fuego medio hasta que esté dorada. Añade el ajo, el jengibre y el chile picados, 1 minuto, y después el curry y el comino, 30 segundos.",
-    "Incorpora el tomate rallado y cocina 6-8 minutos, hasta que la salsa espese y el aceite asome por los bordes.",
+    "Mientras, sazona las gambas con la cúrcuma y una pizca de sal y resérvalas. Pica la cebolla, el ajo, el jengibre, el chile y el cilantro y ralla el tomate.",
+    "En otra cazuela con el aceite, rehoga la cebolla 6 minutos a fuego medio hasta que esté dorada. Añade el ajo, el jengibre y el chile, 1 minuto, y después el curry y el comino, 30 segundos.",
+    "Incorpora el tomate y cocina 6-8 minutos, hasta que la salsa espese y el aceite asome por los bordes.",
     "Añade el resto de la leche de coco, la pasta de tamarindo y 50 ml de agua y cuece a fuego suave 5 minutos.",
-    "Echa las gambas y cocínalas solo 3 minutos, hasta que estén rosadas y curvadas. Prueba de sal y termina con el zumo de media lima y el cilantro picado.",
+    "Echa las gambas y cocínalas solo 3 minutos, hasta que estén rosadas y curvadas. Prueba de sal y termina con el zumo de media lima y el cilantro.",
     "Sirve el curry junto al arroz de coco, con gajos de lima."
   ],
   nutricion: { kcal: 780, prot: 40, hc: 73, grasa: 36 },
@@ -664,11 +664,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la ternera en dados de 3 cm, salpimiéntala y dórala en la cazuela con el aceite a fuego fuerte 6-8 minutos, en dos tandas, hasta que esté bien tostada.",
-    "Añade la cebolla en juliana y rehoga a fuego medio 15 minutos, hasta que esté blanda y dorada. Agrega el ajo machacado 1 minuto.",
-    "Incorpora el tomate concentrado y fríelo 3 minutos removiendo; añade el tomate rallado y cocina 5 minutos más, hasta que la salsa oscurezca.",
-    "Cubre con 700 ml de agua, añade el laurel y el habanero entero, tapa y cuece a fuego suave 45 minutos.",
-    "Añade la zanahoria y la patata en trozos grandes y cuece 15 minutos más, hasta que la carne esté tierna. Saca la carne y las verduras a una fuente tapada.",
+    "Corta la cebolla en juliana, machaca el ajo y ralla el tomate. Corta la ternera en dados de 3 cm, salpimiéntala y dórala en la cazuela con el aceite a fuego fuerte 6-8 minutos, en dos tandas, hasta que esté bien tostada.",
+    "Añade la cebolla en juliana y rehoga a fuego medio 15 minutos, hasta que esté blanda y dorada. Agrega el ajo 1 minuto.",
+    "Incorpora el tomate concentrado y fríelo 3 minutos removiendo; añade el tomate y cocina 5 minutos más, hasta que la salsa oscurezca.",
+    "Cubre con 700 ml de agua, añade el laurel y el habanero entero, tapa y cuece a fuego suave 45 minutos. Mientras, pela la zanahoria y la patata y córtalas en trozos grandes.",
+    "Añade la zanahoria y la patata y cuece 15 minutos más, hasta que la carne esté tierna. Saca la carne y las verduras a una fuente tapada.",
     "Mide el líquido: deja en la cazuela unos 380 ml (si falta, completa con agua) y retira el habanero. Lava el arroz, añádelo al caldo hirviendo, sala, tapa con papel de aluminio y la tapa, y cuece a fuego mínimo 20-25 minutos sin remover, hasta que esté tierno y seco.",
     "Sube el fuego los últimos 2-3 minutos para que se forme el xooñ, la costra tostada del fondo. Sirve el arroz con la carne y las verduras encima, gajos de lima y la costra rascada al lado."
   ],
@@ -710,13 +710,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el fonio en un colador fino (suele traer arenilla). Hierve 280 ml del caldo con sal, añade el fonio, remueve, tapa y apaga el fuego: en 5 minutos estará hecho. Suéltalo con un tenedor. Si usas mijo, tuéstalo 2 minutos, cuécelo tapado en todo el caldo 15 minutos y déjalo reposar 5.",
+    "Lava el fonio en un colador fino (suele traer arenilla). Hierve 280 ml del caldo con sal, añade el fonio, remueve, tapa y apaga el fuego: en 5 minutos estará hecho. Mientras, pica la cebolla, el ajo, el jengibre, el chile y los cacahuetes y corta el tomate en dados. Suelta el fonio con un tenedor. Si usas mijo, tuéstalo 2 minutos, cuécelo tapado en todo el caldo 15 minutos y déjalo reposar 5.",
     "Corta la berenjena en dados de 2 cm y saltéala en la sartén con 1 cucharada de aceite a fuego fuerte 6-7 minutos, hasta que esté dorada. Resérvala.",
     "Añade otra cucharada de aceite y saltea la okra, sin descongelar, a fuego fuerte 5 minutos sin tapar: así se dora y no suelta baba. Resérvala con la berenjena.",
-    "Baja el fuego y rehoga la cebolla picada con el ajo, el jengibre y el chile 4 minutos. Añade el tomate en dados y cocina 4 minutos más.",
+    "Baja el fuego y rehoga la cebolla con el ajo, el jengibre y el chile 4 minutos. Añade el tomate y cocina 4 minutos más.",
     "Diluye la crema de cacahuete en 4 cucharadas de agua caliente con el zumo de media lima y añádela a la sartén: debe quedar una salsa cremosa.",
     "Vuelve a poner la berenjena y la okra, incorpora el fonio y saltea 2 minutos para que se impregne. Prueba de sal.",
-    "Sirve con los cacahuetes picados por encima y gajos de lima."
+    "Sirve con los cacahuetes por encima y gajos de lima."
   ],
   nutricion: { kcal: 670, prot: 18, hc: 80, grasa: 31 },
   etiquetas: ["creativa", "vegana", "sin gluten", "ideal para llevar"],
@@ -755,8 +755,8 @@ window.RECETAS_SEED.push({
     "Lleva el agua a ebullición con sal. Baja el fuego y añade la harina en lluvia batiendo con varillas para que no se formen grumos.",
     "Cambia a una cuchara de madera y cocina a fuego bajo 8-10 minutos, aplastando la masa contra las paredes y dándole la vuelta, hasta que se despegue en un bloque compacto y huela a maíz tostado.",
     "Pásala a una fuente untada con unas gotas de aceite, extiéndela en una capa de 2 cm, alisa y deja que cuaje 20 minutos.",
-    "Mientras, quita los tallos duros a la col rizada, enrolla las hojas y córtalas en tiras muy finas.",
-    "Calienta 1 cucharada de aceite en una sartén y rehoga la cebolla picada 4 minutos. Añade el ajo y el chile 1 minuto, el tomate picado 3 minutos y la col 5-6 minutos, hasta que esté tierna pero de un verde vivo. Sala.",
+    "Mientras, quita los tallos duros a la col rizada, enrolla las hojas y córtalas en tiras muy finas. Pica la cebolla, el ajo, el chile y el tomate.",
+    "Calienta 1 cucharada de aceite en una sartén y rehoga la cebolla 4 minutos. Añade el ajo y el chile 1 minuto, el tomate 3 minutos y la col 5-6 minutos, hasta que esté tierna pero de un verde vivo. Sala.",
     "Corta el ugali en bastones y dóralo en la plancha con 1 cucharada de aceite a fuego medio-alto, 3-4 minutos por lado, hasta que tenga costra.",
     "Fríe los huevos con el resto del aceite y sirve cada plato con los bastones de ugali, el sukuma wiki y dos huevos."
   ],
@@ -796,11 +796,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla muy fina y rehógala en la cazuela sin grasa a fuego medio 8 minutos, removiendo, hasta que pierda el agua y empiece a tostarse: es la técnica de los guisos etíopes y eritreos.",
-    "Añade el aceite y la mantequilla, el ajo y el jengibre picados y rehoga 1 minuto. Agrega el berbere y remueve 1 minuto, sin dejar que se queme.",
+    "Pica la cebolla muy fina, el ajo, el jengibre y el pimiento verde. Rehoga la cebolla en la cazuela sin grasa a fuego medio 8 minutos, removiendo, hasta que pierda el agua y empiece a tostarse: es la técnica de los guisos etíopes y eritreos.",
+    "Añade el aceite y la mantequilla, el ajo y el jengibre y rehoga 1 minuto. Agrega el berbere y remueve 1 minuto, sin dejar que se queme.",
     "Sube el fuego, incorpora el cordero picado y cocínalo 6-7 minutos, desmenuzándolo, hasta que esté dorado.",
-    "Añade el tomate concentrado 1 minuto, luego el tomate triturado y el pimiento verde picado. Cuece a fuego suave semitapado 25 minutos, hasta que la salsa esté espesa, de un rojo oscuro y con la grasa brillando en la superficie. Sala.",
-    "Cuece los espaguetis en agua con sal 1 minuto menos de lo que indique el paquete y reserva un vaso del agua de cocción.",
+    "Añade el tomate concentrado 1 minuto, luego el tomate triturado y el pimiento verde. Cuece a fuego suave semitapado 25 minutos, hasta que la salsa esté espesa, de un rojo oscuro y con la grasa brillando en la superficie. Sala. Mientras, pon a hervir abundante agua con sal para la pasta.",
+    "Cuando a la salsa le queden unos 10 minutos, cuece los espaguetis en el agua hirviendo 1 minuto menos de lo que indique el paquete y reserva un vaso del agua de cocción.",
     "Escurre la pasta, mézclala con la salsa y un chorrito del agua de cocción y saltea 1 minuto a fuego medio para que se ligue. Sirve enseguida."
   ],
   nutricion: { kcal: 870, prot: 35, hc: 78, grasa: 47 },
@@ -839,11 +839,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura el ajo, los chiles, el zumo de 1 lima, el pimentón, sal y 80 ml de leche de coco. Embadurna los contramuslos con esta marinada y déjalos 30 minutos.",
-    "Lava el arroz. En una cazuela, sofríe la cebolla picada con la mitad del aceite 3 minutos, añade el arroz y remueve 1 minuto.",
+    "Lava el arroz y pica la cebolla. En una cazuela, sofríe la cebolla con la mitad del aceite 3 minutos, añade el arroz y remueve 1 minuto.",
     "Vierte 160 ml de leche de coco, 140 ml de agua y sal, lleva a ebullición, tapa y cuece a fuego mínimo 12 minutos. Apaga y deja reposar tapado 10 minutos.",
-    "Escurre el pollo (guarda la marinada) y dóralo en la sartén con el resto del aceite a fuego medio 6-7 minutos por lado, hasta que esté bien dorado y hecho por dentro.",
+    "Escurre el pollo (guarda la marinada) y dóralo en la sartén con el resto del aceite a fuego medio 6-7 minutos por lado, hasta que esté bien dorado y hecho por dentro. Mientras se dora, pica el cilantro.",
     "Vierte en la sartén la marinada reservada con el resto de la leche de coco y el zumo de la otra lima. Hierve 3-4 minutos, dando la vuelta al pollo, hasta que la salsa espese y lo glasee.",
-    "Sirve el arroz de coco con el pollo, la salsa por encima y cilantro picado."
+    "Sirve el arroz de coco con el pollo, la salsa por encima y el cilantro."
   ],
   nutricion: { kcal: 790, prot: 36, hc: 68, grasa: 42 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "picante", "sin verduras"],
@@ -886,9 +886,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el cordero en dados de 3 cm y sazónalo con el comino, el cilantro molido, la cúrcuma, sal y pimienta: es la base del xawaash, la mezcla de especias somalí.",
+    "Corta el cordero en dados de 3 cm y sazónalo con el comino, el cilantro molido, la cúrcuma, sal y pimienta: es la base del xawaash, la mezcla de especias somalí. Corta la cebolla en juliana, pica el ajo y el pimiento y ralla el tomate.",
     "En la cazuela, calienta el aceite y fríe la canela, el clavo y el cardamomo abierto 1 minuto. Añade la cebolla en juliana y dórala 8-10 minutos a fuego medio.",
-    "Incorpora el ajo picado y el cordero y dóralo 5 minutos. Añade el tomate rallado y el pimiento picado y cocina 3 minutos.",
+    "Incorpora el ajo y el cordero y dóralo 5 minutos. Añade el tomate y el pimiento y cocina 3 minutos.",
     "Cubre con 500 ml de agua, tapa y cuece a fuego suave 40 minutos, hasta que el cordero esté tierno.",
     "Mientras, lava el arroz y déjalo en remojo 20 minutos. Pon las pasas en remojo en agua templada.",
     "Mide el líquido de la cazuela: debe haber unos 300 ml (completa con agua o redúcelo). Añade el arroz escurrido, sala, lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos.",
@@ -934,8 +934,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la yuca quitando la corteza y la película rosada, córtala en trozos de 4 cm y cuécela en el agua con sal 15 minutos, hasta que empiece a estar tierna. Retira el nervio fibroso del centro si lo tiene.",
     "Mientras, machaca en el mortero el clavo y la pimienta de jamaica hasta dejarlos en polvo y mézclalos con la nuez moscada: sustituyen a las semillas de ehuru y uda de la mezcla nigeriana.",
-    "Tritura la cebolla, el ajo, el jengibre y el habanero (entero o la mitad, según el picante que quieras) con un chorrito de agua.",
-    "Añade a la olla la pasta triturada, las especias, la pastilla desmenuzada y el tomate rallado. Hierve suavemente 10 minutos.",
+    "Tritura la cebolla, el ajo, el jengibre y el habanero (entero o la mitad, según el picante que quieras) con un chorrito de agua y ralla el tomate.",
+    "Añade a la olla la pasta triturada, las especias, la pastilla desmenuzada y el tomate. Hierve suavemente 10 minutos.",
     "Incorpora la merluza y cuécela a fuego suave 6-8 minutos sin remover, moviendo la olla en círculos para que no se rompa.",
     "Rasga la albahaca y añádela al final. Prueba de sal y picante y sirve muy caliente."
   ],
@@ -1025,7 +1025,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y ponlas en una cazuela con agua fría, sal y los huevos. Cuando hierva, cuenta 10 minutos, saca los huevos a un bol con agua fría y deja las patatas 2-3 minutos más, hasta que estén tiernas. Escúrrelas y pela los huevos.",
-    "Pela el mango y corta la pulpa en dados pequeños. Machaca en el mortero el ajo, el jengibre y un chile con una pizca de sal. En otra cazuela, lleva a ebullición 800 ml de agua con el majado, la cúrcuma, el mango y el tamarindo y cuece 10 minutos, hasta que el mango se ablande.",
+    "Mientras, pela el mango y corta la pulpa en dados pequeños. Machaca en el mortero el ajo, el jengibre y un chile con una pizca de sal. En otra cazuela, lleva a ebullición 800 ml de agua con el majado, la cúrcuma, el mango y el tamarindo y cuece 10 minutos, hasta que el mango se ablande.",
     "Deslíe 20 g de la harina de garbanzo en el resto del agua fría y viértela en la cazuela batiendo con unas varillas. Cuece 5 minutos a fuego suave, removiendo, hasta que la sopa espese como unas natillas ligeras y tome un amarillo intenso. Añade el zumo de una lima y sal: tiene que quedar claramente ácida y picante.",
     "Para las bhajias, mezcla el resto de la harina de garbanzo con la cebolla cortada en juliana muy fina, el otro chile picado, la mitad del cilantro picado, sal y 4-5 cucharadas de agua, hasta tener una masa espesa que envuelva la cebolla.",
     "Calienta el aceite en una sartén pequeña (1 cm de altura) a fuego medio-alto y fríe cucharadas de masa 2 minutos por cada lado, hasta que estén doradas y crujientes. Escúrrelas sobre papel.",
@@ -1070,11 +1070,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir el caldo con el jengibre en láminas, el ajo machacado y la parte blanca de las cebolletas. Deja que hierva suave 10 minutos para que se perfume.",
-    "Cuece los huevos 7 minutos, enfríalos en agua fría y pélalos: la yema quedará melosa.",
+    "Mientras, cuece los huevos 7 minutos, enfríalos en agua fría y pélalos: la yema quedará melosa. Corta la zanahoria en juliana, trocea el pak choi y pica la parte verde de la cebolleta.",
     "Corta el cerdo en láminas finas, mézclalo con 1 cucharada de salsa de soja y pimienta y saltéalo en la sartén con el aceite a fuego fuerte 2 minutos, hasta que se dore.",
     "Cuece los fideos en agua aparte el tiempo que indique el paquete (3-4 minutos), escúrrelos y repártelos en dos cuencos grandes.",
-    "Añade al caldo la zanahoria en juliana y el pak choi troceado y cuece 3 minutos. Agrega el resto de la salsa de soja y prueba de sal.",
-    "Pon el cerdo sobre los fideos, vierte el caldo hirviendo con las verduras y termina con medio huevo por cuenco, la parte verde de la cebolleta picada y pimienta."
+    "Añade al caldo la zanahoria y el pak choi y cuece 3 minutos. Agrega el resto de la salsa de soja y prueba de sal.",
+    "Pon el cerdo sobre los fideos, vierte el caldo hirviendo con las verduras y termina con medio huevo por cuenco, la parte verde de la cebolleta y pimienta."
   ],
   nutricion: { kcal: 530, prot: 40, hc: 50, grasa: 19 },
   etiquetas: ["tradicional", "sin lácteos", "alta en proteína", "invierno", "poco especiada"],
@@ -1116,12 +1116,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en la cazuela y fríe la canela y el cardamomo abierto 1 minuto. Añade la cebolla picada y rehoga 5 minutos a fuego medio.",
-    "Agrega el ajo y el jengibre picados, el curry, el comino y la cúrcuma y remueve 1 minuto, sin que se quemen.",
+    "Pica la cebolla, el ajo y el jengibre. Calienta el aceite en la cazuela y fríe la canela y el cardamomo abierto 1 minuto. Añade la cebolla y rehoga 5 minutos a fuego medio.",
+    "Agrega el ajo y el jengibre, el curry, el comino y la cúrcuma y remueve 1 minuto, sin que se quemen.",
     "Incorpora el tomate triturado y cocina 3 minutos. Añade las lentejas lavadas y el caldo.",
-    "Cuece a fuego medio 15-18 minutos, removiendo de vez en cuando, hasta que las lentejas se deshagan y la sopa espese.",
+    "Cuece a fuego medio 15-18 minutos, removiendo de vez en cuando, hasta que las lentejas se deshagan y la sopa espese. Mientras, pica el cilantro.",
     "Retira la canela y las vainas de cardamomo. Sala y añade el zumo del limón; si la quieres más fina, tritura la mitad.",
-    "Sirve con una cucharada de chutney por encima y el cilantro picado."
+    "Sirve con una cucharada de chutney por encima y el cilantro."
   ],
   nutricion: { kcal: 470, prot: 21, hc: 60, grasa: 16 },
   etiquetas: ["creativa", "vegana", "sin gluten", "económica", "batch cooking", "de cuchara", "invierno", "bajo en colesterol"],

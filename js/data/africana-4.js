@@ -78,11 +78,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la ternera en dados de 2 cm y ponla en una cazuela con el agua, el ajo machacado, media cebolla y sal. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 60 minutos, hasta que la carne esté tierna.",
-    "Mientras, pela los plátanos: corta los extremos, haz un corte a lo largo de la piel y despréndela con el pulgar. Úntate las manos con unas gotas de aceite para que la savia no las manche. Córtalos en rodajas de 2 cm.",
-    "Añade a la cazuela el plátano, la otra media cebolla picada y el tomate troceado. Cuece 20 minutos, hasta que el plátano se deshaga al presionarlo con una cuchara.",
+    "Mientras, pela los plátanos: corta los extremos, haz un corte a lo largo de la piel y despréndela con el pulgar. Úntate las manos con unas gotas de aceite para que la savia no las manche. Córtalos en rodajas de 2 cm. Pica la otra media cebolla y el cilantro y trocea el tomate.",
+    "Añade a la cazuela el plátano, la cebolla picada y el tomate. Cuece 20 minutos, hasta que el plátano se deshaga al presionarlo con una cuchara.",
     "Saca la carne con una espumadera y reserva. Tritura todo lo demás con la batidora hasta tener una crema lisa; si queda demasiado espesa, aclárala con agua caliente: debe cubrir la cuchara como unas natillas.",
     "Vuelve a poner la carne en la cazuela, añade la mantequilla y pimienta, prueba de sal y calienta 2 minutos.",
-    "Sirve en cuencos con el cilantro picado por encima."
+    "Sirve en cuencos con el cilantro por encima."
   ],
   nutricion: { kcal: 510, prot: 29, hc: 63, grasa: 16 },
   etiquetas: ["tradicional", "sin gluten", "de cuchara", "invierno", "para niños", "sin verduras", "poco especiada"],
@@ -124,12 +124,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sazona la corvina con sal, el zumo de medio limón y un diente de ajo machacado, y déjala así mientras preparas el resto.",
-    "En una cazuela, sofríe en el aceite a fuego medio la cebolla en plumas, el pimiento en tiras y el resto del ajo laminado 5 minutos. Añade el tomate picado, el pimentón y el laurel y cocina 3 minutos más.",
-    "Vierte el agua y añade la patata y el boniato pelados en trozos de 3 cm y el plátano pelado en rodajas de 2 cm. Sala y cuece 10 minutos, hasta que estén casi tiernos.",
+    "Sazona la corvina con sal, el zumo de medio limón y un diente de ajo machacado, y déjala así mientras preparas el resto: corta la cebolla en plumas y el pimiento en tiras, lamina el resto del ajo, pica el tomate y el perejil, pela la patata y el boniato y córtalos en trozos de 3 cm, y pela el plátano y córtalo en rodajas de 2 cm.",
+    "En una cazuela, sofríe en el aceite a fuego medio la cebolla, el pimiento y el ajo laminado 5 minutos. Añade el tomate, el pimentón y el laurel y cocina 3 minutos más.",
+    "Vierte el agua y añade la patata, el boniato y el plátano. Sala y cuece 10 minutos, hasta que estén casi tiernos.",
     "Pasa 300 ml de caldo a un cazo. Coloca la corvina en la cazuela, baja el fuego para que el caldo apenas tiemble y cuece 6-7 minutos sin remover, hasta que la carne se separe de la espina.",
     "Mientras, lleva a ebullición el caldo del cazo y añade la harina de yuca en lluvia, batiendo con unas varillas, durante 2-3 minutos, hasta tener una crema espesa y brillante: es el pirão.",
-    "Sirve en platos hondos el pescado con los tubérculos y el caldo, el pirão al lado, perejil picado por encima y el otro medio limón en gajos."
+    "Sirve en platos hondos el pescado con los tubérculos y el caldo, el pirão al lado, el perejil por encima y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 615, prot: 39, hc: 86, grasa: 13 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "de cuchara", "poco especiada", "bajo en colesterol"],
@@ -168,12 +168,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Machaca en el mortero el ajo, el chile picado, el pimentón, una pizca de sal y el zumo de media lima hasta tener una pasta: es un piri-piri rápido. Mezcla la mitad con las gambas y déjalas tomar sabor mientras sigues.",
-    "Rehoga la cebolla picada en el aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el tomate rallado y el resto de la pasta de piri-piri y cocina 3 minutos.",
-    "Agrega el boniato pelado en dados de 1,5 cm y el caldo, tapa y cuece 10 minutos, hasta que el boniato esté tierno.",
+    "Machaca en el mortero el ajo, el chile picado, el pimentón, una pizca de sal y el zumo de media lima hasta tener una pasta: es un piri-piri rápido. Mezcla la mitad con las gambas y déjalas tomar sabor mientras sigues. Pica la cebolla, ralla el tomate y pela el boniato y córtalo en dados de 1,5 cm.",
+    "Rehoga la cebolla en el aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el tomate y el resto de la pasta de piri-piri y cocina 3 minutos.",
+    "Agrega el boniato y el caldo, tapa y cuece 10 minutos, hasta que el boniato esté tierno. Mientras, pica el cilantro.",
     "Aplasta unos cuantos dados contra la pared de la cazuela para espesar el caldo, vierte la leche de coco y calienta sin que llegue a hervir con fuerza.",
     "Añade las gambas y cuécelas 2 minutos, justo hasta que se vuelvan rosadas y se curven en forma de C: si se pasan, quedan gomosas.",
-    "Fuera del fuego, añade el zumo de la otra media lima, prueba de sal y sirve con el cilantro picado."
+    "Fuera del fuego, añade el zumo de la otra media lima, prueba de sal y sirve con el cilantro."
   ],
   nutricion: { kcal: 490, prot: 29, hc: 35, grasa: 26 },
   etiquetas: ["creativa", "rápida", "picante", "sin gluten", "sin lácteos"],
@@ -215,11 +215,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta el cilantro molido en la cazuela en seco a fuego medio 30-40 segundos, hasta que huela, y pásalo a un bol.",
-    "Añade al bol las dos carnes, la nuez moscada, la pimienta de Jamaica, el vinagre, sal y pimienta. Mezcla con las manos y forma albóndigas de unos 2 cm (salen unas 20). El cilantro tostado y el vinagre son el sello de la boerewors.",
-    "Derrite la mantequilla en la misma cazuela a fuego medio y rehoga la cebolla picada 5 minutos, hasta que esté blanda. Añade la patata en dados de 1,5 cm, dos tercios del maíz y el caldo, tapa y cuece 12 minutos, hasta que la patata esté tierna.",
+    "Añade al bol las dos carnes, la nuez moscada, la pimienta de Jamaica, el vinagre, sal y pimienta. Mezcla con las manos y forma albóndigas de unos 2 cm (salen unas 20). El cilantro tostado y el vinagre son el sello de la boerewors. Pica la cebolla y pela la patata y córtala en dados de 1,5 cm.",
+    "Derrite la mantequilla en la misma cazuela a fuego medio y rehoga la cebolla 5 minutos, hasta que esté blanda. Añade la patata, dos tercios del maíz y el caldo, tapa y cuece 12 minutos, hasta que la patata esté tierna.",
     "Agrega la leche y tritura con la batidora hasta tener una crema fina. Vuelve a ponerla a fuego suave.",
-    "Echa las albóndigas y el resto del maíz entero y cuece 6-7 minutos, con un hervor suave para que no se rompan, hasta que estén hechas por dentro (abre una para comprobarlo). Prueba de sal.",
-    "Sirve con el cebollino picado y pimienta negra recién molida."
+    "Echa las albóndigas y el resto del maíz entero y cuece 6-7 minutos, con un hervor suave para que no se rompan, hasta que estén hechas por dentro (abre una para comprobarlo). Prueba de sal. Mientras, pica el cebollino.",
+    "Sirve con el cebollino y pimienta negra recién molida."
   ],
   nutricion: { kcal: 610, prot: 30, hc: 51, grasa: 32 },
   etiquetas: ["creativa", "para niños", "de cuchara", "invierno", "económica", "poco especiada"],
@@ -259,11 +259,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la ternera en dados de 2,5 cm. Ponla en la olla exprés con los cacahuetes, media cebolla, 2 dientes de ajo, el jengibre en rodajas, el habanero si lo usas, el agua y sal. Cierra; cuando suba la válvula, baja el fuego y cuenta 25 minutos. Deja bajar la presión sola, unos 10 minutos.",
-    "Mientras, escalda las espinacas y la rúcula 1 minuto en agua hirviendo, escúrrelas apretando bien con las manos y pícalas.",
+    "Mientras, escalda las espinacas y la rúcula 1 minuto en agua hirviendo, escúrrelas apretando bien con las manos y pícalas. Corta la otra media cebolla en plumas y lamina el ajo restante.",
     "Abre la olla, saca la carne y reserva. Retira el habanero y tritura los cacahuetes con el caldo y los aromáticos hasta tener una crema fina, como un puré ligero.",
     "Vuelve a poner la crema y la carne en la olla destapada y cuece a fuego suave 10 minutos, removiendo a menudo porque se pega con facilidad, hasta que espese y huela a cacahuete tostado. Añade las verduras picadas y cuece 5 minutos más. Prueba de sal.",
     "Mientras, pela el plátano, córtalo en rodajas al bies de 1 cm y fríelo en la sartén con el aceite a fuego medio 2-3 minutos por lado, hasta que esté dorado y caramelizado. Escúrrelo sobre papel.",
-    "En el aceite que queda, dora la otra media cebolla en plumas y el ajo restante laminado 4 minutos. Añade las gambas y saltéalas 2 minutos, hasta que estén rosadas.",
+    "En el aceite que queda, dora la cebolla en plumas y el ajo laminado 4 minutos. Añade las gambas y saltéalas 2 minutos, hasta que estén rosadas.",
     "Vierte las gambas con la cebolla y su aceite sobre el ndolé: ese sofrito final es imprescindible en Camerún. Sirve con el plátano frito al lado."
   ],
   nutricion: { kcal: 860, prot: 58, hc: 54, grasa: 46 },
@@ -306,11 +306,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el cordero con papel de cocina y salpimiéntalo. Dóralo en la olla exprés destapada con el aceite a fuego fuerte, en dos tandas, 4 minutos por tanda, hasta que tenga costra. Resérvalo.",
-    "Baja a fuego medio y rehoga la cebolla en plumas 8 minutos, hasta que esté dorada. Añade el ajo y el jengibre picados, la canela, el clavo, el cardamomo y la guindilla y remueve 1 minuto.",
-    "Ralla los tomates por la parte gruesa del rallador, desechando la piel, y añádelos a la olla con el tomate concentrado, el azúcar y el agua, y rasca bien el fondo con una cuchara de madera para despegar lo tostado.",
-    "Vuelve a poner el cordero con su jugo. Cierra; cuando suba la válvula, baja el fuego y cuenta 25 minutos. Despresuriza rápido.",
-    "Pela las patatas, córtalas en cuartos y añádelas, hundiéndolas en la salsa. Cierra y cuenta 6 minutos desde que suba la válvula; deja bajar la presión sola.",
+    "Corta la cebolla en plumas y pica el ajo y el jengibre. Ralla los tomates por la parte gruesa del rallador, desechando la piel. Seca el cordero con papel de cocina y salpimiéntalo.",
+    "Dóralo en la olla exprés destapada con el aceite a fuego fuerte, en dos tandas, 4 minutos por tanda, hasta que tenga costra. Resérvalo.",
+    "Baja a fuego medio y rehoga la cebolla 8 minutos, hasta que esté dorada. Añade el ajo, el jengibre, la canela, el clavo, el cardamomo y la guindilla y remueve 1 minuto.",
+    "Añade a la olla los tomates rallados con el tomate concentrado, el azúcar y el agua, y rasca bien el fondo con una cuchara de madera para despegar lo tostado.",
+    "Vuelve a poner el cordero con su jugo. Cierra; cuando suba la válvula, baja el fuego y cuenta 25 minutos. Mientras, pela las patatas y córtalas en cuartos. Despresuriza rápido.",
+    "Añade las patatas, hundiéndolas en la salsa. Cierra y cuenta 6 minutos desde que suba la válvula; deja bajar la presión sola.",
     "Abre: la carne debe separarse del hueso y la salsa estar espesa y roja. Si queda caldosa, cuécela destapada 5 minutos. Retira la canela, el clavo y las vainas de cardamomo, prueba de sal y sirve."
   ],
   nutricion: { kcal: 595, prot: 36, hc: 43, grasa: 31 },
@@ -351,8 +352,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el cerdo en dados de 3 cm y sálalo. Dóralo en la olla exprés destapada con el aceite a fuego medio-fuerte 8 minutos, hasta que suelte la grasa y esté dorado por todos lados.",
-    "Mientras, quita los nervios gruesos a la col rizada, lávala junto con las espinacas y pícalas muy finas con el cuchillo o a golpes en la picadora. En Madagascar las hojas de yuca se machacan en un mortero de madera hasta casi hacerlas pasta.",
-    "Machaca en el mortero el ajo y el jengibre con una pizca de sal. Añade a la olla la cebolla picada y rehógala 3 minutos con el cerdo; agrega la mitad del majado y remueve 1 minuto.",
+    "Mientras, quita los nervios gruesos a la col rizada, lávala junto con las espinacas y pícalas muy finas con el cuchillo o a golpes en la picadora. En Madagascar las hojas de yuca se machacan en un mortero de madera hasta casi hacerlas pasta. Pica la cebolla y machaca en el mortero el ajo y el jengibre con una pizca de sal.",
+    "Añade a la olla la cebolla y rehógala 3 minutos con el cerdo; agrega la mitad del majado y remueve 1 minuto.",
     "Incorpora las hojas picadas, remueve hasta que se reduzcan y vierte 250 ml de agua. Cierra; cuando suba la válvula, baja el fuego y cuenta 20 minutos. Deja bajar la presión sola, unos 10 minutos.",
     "Mientras, lava el arroz y cuécelo en una cazuela con los 280 ml de agua restantes y sal, tapado y a fuego mínimo, 12 minutos. Apaga y deja reposar 5 minutos sin destapar.",
     "Abre la olla, añade la leche de coco y el resto del majado de ajo y cuece destapado 5 minutos, hasta que la salsa espese y las hojas queden de un verde oscuro, cremosas y pegadas a la carne. Salpimienta.",
@@ -398,13 +399,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el pulpo y ponlo en la olla exprés con 200 ml de agua, sin sal. Cierra; cuando suba la válvula, baja el fuego y cuenta 10 minutos. Deja bajar la presión sola.",
+    "Lava el pulpo y ponlo en la olla exprés con 200 ml de agua, sin sal. Cierra; cuando suba la válvula, baja el fuego y cuenta 10 minutos. Deja bajar la presión sola. Mientras, pica la cebolla y el perejil, machaca el ajo y el jengibre y ralla los tomates desechando la piel.",
     "Pincha la parte gruesa de un tentáculo: el cuchillo debe entrar sin resistencia. Saca el pulpo, guarda 100 ml de su caldo morado y córtalo en trozos de 3 cm. Desecha el resto del caldo y seca la olla.",
-    "En la olla destapada, calienta el aceite a fuego medio y sofríe la cebolla picada 6 minutos, hasta que esté dorada. Añade el ajo y el jengibre machacados, el clavo, la canela y el tomillo y remueve 1 minuto.",
-    "Incorpora el tomate concentrado 1 minuto, vierte el vino y deja que hierva 2 minutos para que se evapore el alcohol. Añade el tomate rallado (sin la piel) y el caldo del pulpo y cuece destapado 10 minutos, hasta que la salsa espese.",
+    "En la olla destapada, calienta el aceite a fuego medio y sofríe la cebolla 6 minutos, hasta que esté dorada. Añade el ajo y el jengibre, el clavo, la canela y el tomillo y remueve 1 minuto.",
+    "Incorpora el tomate concentrado 1 minuto, vierte el vino y deja que hierva 2 minutos para que se evapore el alcohol. Añade el tomate rallado y el caldo del pulpo y cuece destapado 10 minutos, hasta que la salsa espese.",
     "Mientras, lava el arroz y cuécelo en una cazuela con los 280 ml de agua restantes y sal, tapado y a fuego mínimo, 12 minutos. Deja reposar 5 minutos.",
     "Añade el pulpo a la salsa y cuece 8 minutos a fuego suave para que se impregne. Retira la canela, el clavo y las ramas de tomillo y salpimienta con prudencia: el caldo del pulpo ya es salado.",
-    "Sirve el daube con el arroz y el perejil picado por encima."
+    "Sirve el daube con el arroz y el perejil por encima."
   ],
   nutricion: { kcal: 705, prot: 60, hc: 76, grasa: 18 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "para invitados", "poco especiada"],
@@ -442,11 +443,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la carne en trozos grandes de 5 cm, dejando el hueso si lo tiene. Ponla en la olla exprés con media cebolla, el laurel, la pimienta en grano, 1 cucharadita de sal y 600 ml de agua.",
-    "Cierra; cuando suba la válvula, baja el fuego y cuenta 45 minutos. Deja bajar la presión sola, unos 15 minutos. La carne debe deshacerse al presionarla con un tenedor.",
+    "Cierra; cuando suba la válvula, baja el fuego y cuenta 45 minutos. Deja bajar la presión sola, unos 15 minutos. Mientras, pica la otra media cebolla, el ajo y el tomate. La carne debe deshacerse al presionarla con un tenedor.",
     "Abre y retira el hueso, el laurel, la cebolla y los granos de pimienta que veas. Cuece destapado a fuego medio 10 minutos, hasta que el caldo se reduzca a unas pocas cucharadas.",
     "Machaca la carne dentro de la olla con la mano de un mortero o con dos tenedores hasta deshilacharla por completo y que absorba el caldo. Prueba de sal: el seswaa solo lleva sal, y ese es su sello.",
     "Mientras se reduce la carne, prepara el pap: hierve los 480 ml de agua restantes con sal en una cazuela, añade la polenta en lluvia batiendo con varillas y cuece a fuego bajo 5 minutos, removiendo con una cuchara de madera, hasta que se despegue de las paredes.",
-    "Para el morogo, calienta el aceite en la sartén y rehoga la otra media cebolla picada 4 minutos; añade el ajo y el tomate picados y cocina 3 minutos; incorpora las espinacas y remueve 2 minutos, hasta que se reduzcan. Sala.",
+    "Para el morogo, calienta el aceite en la sartén y rehoga la cebolla 4 minutos; añade el ajo y el tomate y cocina 3 minutos; incorpora las espinacas y remueve 2 minutos, hasta que se reduzcan. Sala.",
     "Sirve el seswaa con el pap y las espinacas al lado."
   ],
   nutricion: { kcal: 620, prot: 49, hc: 53, grasa: 24 },
@@ -486,9 +487,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla muy fina, casi en puré. Ponla en la olla exprés destapada a fuego medio, sin grasa, y remueve 7-8 minutos, hasta que pierda el agua y empiece a pegarse un poco: es la técnica de Eritrea y Etiopía para que la cebolla se funda y espese la salsa.",
-    "Mientras, corta el pavo en dados de 3 cm y sálalo.",
-    "Añade a la cebolla la mantequilla, el cardamomo, el ajo y el jengibre rallados y el berbere, y remueve 1 minuto a fuego suave sin que se queme: debe oler tostado, no amargo.",
+    "Pica la cebolla muy fina, casi en puré, ralla el ajo y el jengibre, y corta el pavo en dados de 3 cm y sálalo.",
+    "Pon la cebolla en la olla exprés destapada a fuego medio, sin grasa, y remueve 7-8 minutos, hasta que pierda el agua y empiece a pegarse un poco: es la técnica de Eritrea y Etiopía para que la cebolla se funda y espese la salsa.",
+    "Añade a la cebolla la mantequilla, el cardamomo, el ajo, el jengibre y el berbere, y remueve 1 minuto a fuego suave sin que se queme: debe oler tostado, no amargo.",
     "Incorpora el tomate concentrado y remueve 1 minuto; añade el tomate triturado y cuece 3 minutos, rascando bien el fondo para que nada se agarre al coger presión.",
     "Añade el pavo y el agua y mezcla. Cierra; cuando suba la válvula, baja el fuego y cuenta 8 minutos. Despresuriza rápido.",
     "Abre: si la salsa está líquida, cuécela destapada 3-4 minutos, hasta que espese y brille. Prueba de sal.",
@@ -532,12 +533,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el awaze: mezcla el berbere con el vino, el aceite y una pizca de sal hasta tener una pasta roja y fluida. Reserva la mitad para servir.",
+    "Prepara el awaze: mezcla el berbere con el vino, el aceite y una pizca de sal hasta tener una pasta roja y fluida. Reserva la mitad para servir. Corta la cebolla morada en gajos y lamina el ajo.",
     "Seca el cordero, salpimiéntalo y dóralo en la olla exprés destapada con la mantequilla a fuego fuerte, en dos tandas, 3-4 minutos por tanda, hasta que tenga costra. Resérvalo.",
-    "En la misma grasa, rehoga la cebolla morada en gajos 4 minutos. Añade el ajo laminado, el romero y la mitad del awaze y remueve 1 minuto.",
+    "En la misma grasa, rehoga la cebolla 4 minutos. Añade el ajo, el romero y la mitad del awaze y remueve 1 minuto.",
     "Vuelve a poner el cordero con 150 ml de agua y rasca el fondo. Cierra; cuando suba la válvula, baja el fuego y cuenta 15 minutos. Deja bajar la presión sola, unos 10 minutos.",
-    "Mientras, lava el arroz y cuécelo en una cazuela con los 280 ml de agua restantes y sal, tapado y a fuego mínimo, 12 minutos. Deja reposar 5 minutos.",
-    "Abre la olla, añade el tomate en gajos y los chiles en tiras y cuece destapado a fuego fuerte 4-5 minutos, removiendo, hasta que la salsa se reduzca y glasee la carne y el chile siga algo crujiente: así recupera la textura de salteado del tibs.",
+    "Mientras, lava el arroz y cuécelo en una cazuela con los 280 ml de agua restantes y sal, tapado y a fuego mínimo, 12 minutos. Deja reposar 5 minutos. Corta el tomate en gajos y los chiles en tiras.",
+    "Abre la olla, añade el tomate y los chiles y cuece destapado a fuego fuerte 4-5 minutos, removiendo, hasta que la salsa se reduzca y glasee la carne y el chile siga algo crujiente: así recupera la textura de salteado del tibs.",
     "Retira el romero, prueba de sal y sirve con el arroz y el resto del awaze aparte para mojar."
   ],
   nutricion: { kcal: 760, prot: 43, hc: 66, grasa: 36 },
@@ -621,9 +622,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias y ponlas en la olla exprés con el agua, sin sal, y media cebolla. Cierra; cuando suba la válvula, baja el fuego y cuenta 15 minutos. Deja bajar la presión sola.",
-    "Mientras, tritura el pimiento rojo, el tomate, la otra media cebolla y el habanero sin semillas hasta tener un puré fino: es el ata, la base roja de la cocina nigeriana.",
-    "Abre la olla: las alubias deben estar casi tiernas. Añade el boniato pelado en dados de 3 cm y sal, cierra y cuenta 4 minutos. Despresuriza rápido.",
+    "La víspera, pon las alubias en remojo en abundante agua fría (8-12 horas). Escúrrelas y ponlas en la olla exprés con el agua, sin sal, y media cebolla. Cierra; cuando suba la válvula, baja el fuego y cuenta 15 minutos. Deja bajar la presión sola.",
+    "Mientras, tritura el pimiento rojo, el tomate, la otra media cebolla y el habanero sin semillas hasta tener un puré fino: es el ata, la base roja de la cocina nigeriana. Pela el boniato y córtalo en dados de 3 cm.",
+    "Abre la olla: las alubias deben estar casi tiernas. Añade el boniato y sal, cierra y cuenta 4 minutos. Despresuriza rápido.",
     "Mientras, calienta el aceite de palma en la sartén a fuego medio y sofríe el puré 10 minutos, removiendo, hasta que se reduzca a la mitad, se oscurezca y el aceite se separe por los bordes.",
     "Vierte la salsa en la olla con las alubias, añade las gambas secas molidas si las usas y cuece destapado 5-8 minutos a fuego suave, aplastando parte del boniato y de las alubias contra la pared, hasta que el potaje quede espeso y cremoso, con trozos enteros. Prueba de sal.",
     "Sirve caliente en platos hondos."
@@ -668,12 +669,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon los callos en una cazuela con agua fría, lleva a ebullición y cuece 5 minutos. Escúrrelos, acláralos y córtalos en tiras de 1 x 4 cm: así pierden el olor fuerte.",
-    "Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla picada 5 minutos. Añade el ajo, el jengibre y el chile picados y remueve 1 minuto; agrega el curry y la cúrcuma 30 segundos y después el tomate rallado, y cocina 4 minutos hasta que se espese.",
-    "Incorpora los callos, el agua y sal. Cierra; cuando suba la válvula, baja el fuego y cuenta 30 minutos. Deja bajar la presión sola, unos 10 minutos.",
-    "Abre y añade la patata pelada en dados de 2,5 cm y el pimiento en tiras. Cierra y cuenta 5 minutos; despresuriza rápido.",
+    "Pon los callos en una cazuela con agua fría, lleva a ebullición y cuece 5 minutos. Escúrrelos, acláralos y córtalos en tiras de 1 x 4 cm: así pierden el olor fuerte. Mientras cuecen, pica la cebolla, el ajo, el jengibre y el chile y ralla el tomate.",
+    "Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla 5 minutos. Añade el ajo, el jengibre y el chile y remueve 1 minuto; agrega el curry y la cúrcuma 30 segundos y después el tomate, y cocina 4 minutos hasta que se espese.",
+    "Incorpora los callos, el agua y sal. Cierra; cuando suba la válvula, baja el fuego y cuenta 30 minutos. Deja bajar la presión sola, unos 10 minutos. Mientras, pela la patata y córtala en dados de 2,5 cm, corta el pimiento en tiras y pica el cilantro.",
+    "Abre y añade la patata y el pimiento. Cierra y cuenta 5 minutos; despresuriza rápido.",
     "Vierte la leche de coco y cuece destapado a fuego suave 5 minutos, hasta que la salsa quede cremosa y cubra la cuchara. Los callos deben estar tiernos pero con un punto de mordida. Prueba de sal.",
-    "Fuera del fuego, añade el zumo de media lima y sirve con el cilantro picado y la otra media lima en gajos."
+    "Fuera del fuego, añade el zumo de media lima y sirve con el cilantro y la otra media lima en gajos."
   ],
   nutricion: { kcal: 605, prot: 35, hc: 40, grasa: 34 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "económica", "picante", "invierno"],

@@ -217,9 +217,9 @@ window.RECETAS_SEED.push({
     "Seca bien las doradas, sálalas por dentro y por fuera y frótalas con la cúrcuma y el zumo del limón.",
     "Calienta el aceite de oliva en una sartén amplia a fuego medio-alto y dora las doradas 3 minutos por cada lado, sin moverlas, hasta que la piel esté tostada. Sácalas.",
     "En la misma sartén, a fuego medio, añade el aceite de ajo, la mitad de la cebolleta y el tomate rallado. Cocina 10 minutos, aplastando, hasta que el tomate se convierta en una salsa espesa. Añade un vaso pequeño de agua, sal y pimienta.",
-    "Devuelve el pescado a la salsa, tapa y guisa a fuego suave 8-10 minutos, regándolo con la salsa. Termina con la mitad del cilantro picado.",
-    "Para el ugali, lleva a hervor 600 ml de agua con sal. Añade la harina de maíz en forma de lluvia removiendo, y trabaja con una cuchara de madera a fuego bajo 6-8 minutos, aplastando contra las paredes, hasta que la masa se despegue y huela a maíz tostado.",
-    "Para el sukuma wiki, quita los tallos duros del kale, córtalo en tiras muy finas y saltéalo en un cazo con el resto de la cebolleta, 3 cucharadas de agua y sal, 5 minutos, hasta que esté tierno.",
+    "Devuelve el pescado a la salsa, tapa y guisa a fuego suave 8-10 minutos, regándolo con la salsa. Mientras, lleva a hervor 600 ml de agua con sal para el ugali y quita los tallos duros del kale y córtalo en tiras muy finas. Termina el pescado con la mitad del cilantro picado.",
+    "Para el ugali, añade al agua hirviendo la harina de maíz en forma de lluvia removiendo, y trabaja con una cuchara de madera a fuego bajo 6-8 minutos, aplastando contra las paredes, hasta que la masa se despegue y huela a maíz tostado.",
+    "Para el sukuma wiki, saltea el kale en un cazo con el resto de la cebolleta, 3 cucharadas de agua y sal, 5 minutos, hasta que esté tierno.",
     "Vuelca el ugali sobre un plato mojado y dale forma de cúpula. Sirve el pescado con su salsa, el sukuma wiki y el ugali, y el resto del cilantro por encima."
   ],
   nutricion: { kcal: 640, prot: 45, hc: 70, grasa: 20 },
@@ -349,8 +349,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 18-20 minutos, hasta que estén tiernas.",
     "Mientras, prepara el sambal: ralla el pepino con piel, apriétalo en un colador para quitar el agua y mézclalo con el vinagre, la cebolleta verde muy picada y una pizca de sal.",
-    "Mezcla la mermelada con el jengibre rallado, una cucharadita de aceite de ajo y el zumo de medio limón hasta obtener un glaseado fluido.",
-    "Enciende el grill del horno al máximo. Coloca los filetes de caballa con la piel hacia arriba en una bandeja forrada, sálalos y pincha la piel 2-3 veces con un cuchillo.",
+    "Enciende el grill del horno al máximo. Mezcla la mermelada con el jengibre rallado, una cucharadita de aceite de ajo y el zumo de medio limón hasta obtener un glaseado fluido.",
+    "Coloca los filetes de caballa con la piel hacia arriba en una bandeja forrada, sálalos y pincha la piel 2-3 veces con un cuchillo.",
     "Gratina 4 minutos a 10 cm de la resistencia, pincela con el glaseado y gratina 2-3 minutos más, hasta que la piel burbujee y se tueste en los bordes. Vigila: el azúcar se quema rápido.",
     "Escurre las patatas, pártelas por la mitad y aliña con el resto del aceite de ajo, el perejil picado, sal y pimienta.",
     "Sirve la caballa con las patatas, el sambal de pepino y un gajo de limón."
@@ -395,7 +395,7 @@ window.RECETAS_SEED.push({
     "Para la costra, toma 4 cucharadas del fonio cocido y mézclalas con las hierbas picadas finas, la ralladura del limón, la mitad del aceite de oliva y una pizca de sal.",
     "Coloca la trucha con la piel hacia abajo en una bandeja con papel, sálala y reparte la costra por encima en una capa fina, apretando con los dedos. Hornea 10 minutos y gratina 2-3 minutos más, hasta que la carne esté opaca y la costra dorada y crujiente en los bordes.",
     "Aliña el resto del fonio con unas gotas de limón y mantenlo tapado.",
-    "Para la salsa, rehoga en una cazuela el aceite de ajo con el jengibre rallado y la cúrcuma 1 minuto, añade el tomate rallado y cocina 8 minutos, hasta que espese. Sala.",
+    "Mientras se hornea la trucha, prepara la salsa: rehoga en una cazuela el aceite de ajo con el jengibre rallado y la cúrcuma 1 minuto, añade el tomate rallado y cocina 8 minutos, hasta que espese. Sala.",
     "En una sartén, con el resto del aceite de oliva, saltea las espinacas 2 minutos, hasta que se ablanden. Sala.",
     "Sirve una cama de salsa de tomate, la trucha encima, el fonio y las espinacas al lado y un gajo de limón."
   ],
@@ -532,8 +532,8 @@ window.RECETAS_SEED.push({
     "Mezcla la ternera con el pan, el huevo, la nuez moscada, el cilantro molido, el clavo, la mitad del perejil picado, sal y pimienta. Amasa con las manos solo hasta que se una: si la trabajas demasiado, quedarán duras.",
     "Forma 10 albóndigas con las manos húmedas y colócalas en una bandeja con papel. Hornéalas 12 minutos, hasta que estén doradas por fuera.",
     "Mientras, calienta el aceite de ajo en una cazuela, añade el tomate triturado, el laurel, sal y un vaso pequeño de agua, y cocina 10 minutos a fuego suave.",
-    "Pasa las albóndigas a la salsa, tapa y cocina 15 minutos a fuego muy suave, hasta que estén jugosas y la salsa espesa.",
-    "Cuece la patata pelada y troceada en agua con sal 18 minutos. Escúrrela y aplástala con el resto de la leche caliente y una pizca de nuez moscada hasta obtener un puré fino.",
+    "Pasa las albóndigas a la salsa, tapa y cocina 15 minutos a fuego muy suave, hasta que estén jugosas y la salsa espesa. Mientras, cuece la patata pelada y troceada en agua con sal 18 minutos.",
+    "Escurre la patata y aplástala con el resto de la leche caliente y una pizca de nuez moscada hasta obtener un puré fino.",
     "Sirve las frikkadels con su salsa sobre el puré y el resto del perejil por encima."
   ],
   nutricion: { kcal: 570, prot: 41, hc: 52, grasa: 22 },
@@ -789,10 +789,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Para el sheba, calienta el aceite de ajo en un cazo, añade el verde de la cebolleta picado y el jengibre rallado y remueve 1 minuto. Incorpora el pimentón, el tomate rallado, el azúcar, la ralladura y el zumo de la media naranja y sal. Cocina 12 minutos a fuego suave, hasta que espese.",
-    "Para el pap, lleva a hervor 500 ml de agua con sal. Añade la harina de maíz en forma de lluvia batiendo con varillas para que no haga grumos.",
+    "Saca la carne de la nevera. Para el sheba, calienta el aceite de ajo en un cazo, añade el verde de la cebolleta picado y el jengibre rallado y remueve 1 minuto. Incorpora el pimentón, el tomate rallado, el azúcar, la ralladura y el zumo de la media naranja y sal. Cocina 12 minutos a fuego suave, hasta que espese. Mientras, lleva a hervor 500 ml de agua con sal para el pap.",
+    "Para el pap, añade al agua hirviendo la harina de maíz en forma de lluvia batiendo con varillas para que no haga grumos.",
     "Baja el fuego al mínimo, tapa y cocina 12 minutos, removiendo con una cuchara de madera cada 3 minutos, hasta que esté espeso y suave. Añade el cebollino picado.",
-    "Saca la carne de la nevera 10 minutos antes. Sécala, úntala con el aceite de oliva y salpimiéntala.",
+    "Seca la carne, úntala con el aceite de oliva y salpimiéntala.",
     "Calienta la plancha a fuego muy fuerte y marca los filetes 1 minuto y medio por cada lado, según su grosor. Déjalos reposar 2 minutos y córtalos en tiras.",
     "Sirve el pap con la ternera encima y el sheba caliente por encima y al lado."
   ],
@@ -1001,10 +1001,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la yuca en trozos, retira la fibra central y cuécela en agua con sal 25-30 minutos, hasta que esté muy tierna. Escúrrela y cháfala con un tenedor y una pizca de sal, dejando algunos trozos.",
-    "Precalienta el horno a 200 °C.",
+    "Corta la yuca en trozos, retira la fibra central y cuécela en agua con sal 25-30 minutos, hasta que esté muy tierna.",
     "Mientras se cuece la yuca, calienta el aceite de ajo en una cazuela, añade el jengibre rallado y remueve 30 segundos. Incorpora el tomate triturado y cocina 10 minutos a fuego suave, hasta que espese.",
-    "Añade las espinacas a la salsa y remueve hasta que se ablanden, 2 minutos. Sala y pimienta.",
+    "Precalienta el horno a 200 °C. Añade las espinacas a la salsa y remueve hasta que se ablanden, 2 minutos. Sala y pimienta.",
+    "Escurre la yuca y cháfala con un tenedor y una pizca de sal, dejando algunos trozos.",
     "Reparte la yuca en el fondo de una fuente o dos cazuelitas, cubre con la salsa de tomate y espinacas y haz 4 huecos con una cuchara.",
     "Casca un huevo en cada hueco, sala las claras y hornea 10-12 minutos, hasta que las claras estén cuajadas y las yemas sigan brillantes.",
     "Derrite el aceite de palma, riega con un hilo por encima y termina con el cebollino picado."
@@ -1048,9 +1048,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño, ponle un peso encima 10 minutos para que suelte el agua y córtalo en dados de 2,5 cm.",
-    "Para el pilau, tuesta en un cazo seco el comino, 2 vainas de cardamomo aplastadas y media rama de canela 1 minuto. Añade el arroz lavado, 280 ml de agua y sal; tapa y cocina a fuego mínimo 12 minutos. Reposa 5 minutos.",
-    "Mezcla el zumo de naranja, el tamari, el azúcar, el clavo, el jengibre rallado y las semillas de las otras 2 vainas de cardamomo.",
+    "Envuelve el tofu en un paño y ponle un peso encima 10 minutos para que suelte el agua.",
+    "Mientras, para el pilau, tuesta en un cazo seco el comino, 2 vainas de cardamomo aplastadas y media rama de canela 1 minuto. Añade el arroz lavado, 280 ml de agua y sal; tapa y cocina a fuego mínimo 12 minutos. Reposa 5 minutos.",
+    "Corta el tofu en dados de 2,5 cm. Mezcla el zumo de naranja, el tamari, el azúcar, el clavo, el jengibre rallado y las semillas de las otras 2 vainas de cardamomo.",
     "Calienta el aceite en una sartén antiadherente a fuego medio-alto y dora el tofu 8 minutos, girándolo, hasta que todas las caras estén doradas y firmes.",
     "Vierte la mezcla de naranja con la otra media rama de canela y deja que borbotee 4-5 minutos, moviendo la sartén, hasta que se reduzca a un glaseado espeso que envuelva el tofu. Retira la canela.",
     "Corta el pepino en rodajas finas y aliña con el zumo de la lima y una pizca de sal.",
@@ -1094,8 +1094,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta la zanahoria en bastones, mézclala con 1 cucharadita de aceite, el comino y sal y ásala 25 minutos, hasta que esté tierna y dorada en los bordes.",
-    "Corta el tempeh en láminas de 1 cm y cuécelo en agua hirviendo 8 minutos: lo ablanda, quita el amargor y lo hace más digestivo. Escúrrelo.",
+    "Precalienta el horno a 200 °C y pon a hervir un cazo de agua. Corta la zanahoria en bastones, mézclala con 1 cucharadita de aceite, el comino y sal y ásala 25 minutos, hasta que esté tierna y dorada en los bordes.",
+    "Corta el tempeh en láminas de 1 cm y cuécelo en el agua hirviendo 8 minutos: lo ablanda, quita el amargor y lo hace más digestivo. Escúrrelo.",
     "Mezcla el jengibre rallado, la cúrcuma, el tamari y el zumo de medio limón y marina el tempeh mientras haces el mijo.",
     "Lava el mijo, tuéstalo en un cazo seco 2 minutos, añade 300 ml de agua con sal y cocina tapado a fuego mínimo 15 minutos. Deja reposar 5 minutos y suéltalo con un tenedor.",
     "Tuesta las pipas en una sartén seca 2 minutos, hasta que se hinchen. Retíralas y, en la misma sartén, dora el tempeh con el resto del aceite 3 minutos por lado, añadiendo al final la marinada para que lo glasee.",

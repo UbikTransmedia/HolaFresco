@@ -313,7 +313,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Desmenuza el pan duro y remójalo en la leche 10 minutos; luego apriétalo con las manos para escurrirlo bien.",
-    "Pica muy fina la carne y la mortadela a cuchillo o con la picadora a golpes cortos, sin convertirla en pasta.",
+    "Mientras se remoja, pica muy fina la carne y la mortadela a cuchillo o con la picadora a golpes cortos, sin convertirla en pasta.",
     "En un bol mezcla la carne, la mortadela, el pan, el huevo, el parmesano rallado, el perejil picado, la ralladura del limón, la nuez moscada, sal y pimienta. Amasa hasta que esté compacta; si queda blanda, añade una cucharada del pan rallado.",
     "Forma 10-12 bolas, aplástalas un poco (los mondeghili son achatados) y rebózalas en el pan rallado.",
     "Prepara la ensalada: corta el hinojo en láminas finísimas, pela la naranja a vivo y saca los gajos, pica las barbas del hinojo y aliña con 1 cucharada de aceite, unas gotas de zumo de limón y sal.",
@@ -540,8 +540,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon los dados de pan en un bol grande. Calienta la leche hasta que esté tibia, sin que hierva, viértela por encima y mezcla. Déjalo 10 minutos para que el pan la absorba.",
     "Pica fina la cebolla. Pocha la mitad en una sartén con 10 g de mantequilla a fuego medio 5 minutos, hasta que esté transparente.",
-    "Añade al pan la cebolla pochada, los huevos, la mitad del perejil picado, la nuez moscada, sal y pimienta. Amasa con las manos hasta que todo se una en una masa que se pueda moldear; si está muy húmeda, añade 1 cucharada de harina. Déjala reposar 15 minutos.",
-    "Pon a hervir abundante agua con sal en una cazuela ancha. Con las manos mojadas, forma 6 bolas del tamaño de una mandarina, apretando bien para que no tengan grietas.",
+    "Añade al pan la cebolla pochada, los huevos, la mitad del perejil picado, la nuez moscada, sal y pimienta. Amasa con las manos hasta que todo se una en una masa que se pueda moldear; si está muy húmeda, añade 1 cucharada de harina. Déjala reposar 15 minutos y, mientras, pon a hervir abundante agua con sal en una cazuela ancha.",
+    "Con las manos mojadas, forma 6 bolas del tamaño de una mandarina, apretando bien para que no tengan grietas.",
     "Baja el fuego para que el agua apenas tiemble (si hierve a borbotones, se deshacen) y cuece las bolas 18-20 minutos. Están listas cuando suben a la superficie y al partir una el centro está firme.",
     "Mientras, prepara la salsa: funde el resto de la mantequilla en la sartén, pocha el resto de la cebolla 3 minutos y añade los champiñones laminados. Saltéalos a fuego fuerte 6 minutos, hasta que se doren y se evapore su agua.",
     "Espolvorea 1 cucharada de harina y el pimentón y remueve 1 minuto. Vierte el caldo y la nata y cuece 5 minutos, hasta que la salsa cubra el dorso de una cuchara. Sazona con sal, pimienta y unas gotas de zumo de limón.",
@@ -628,8 +628,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla en un bol la harina, la levadura y la sal. Añade el agua tibia y 2 cucharadas de aceite y amasa 8 minutos, hasta tener una masa lisa y elástica que no se pegue. Tápala y déjala levar 1 hora en un lugar templado, hasta que doble su volumen.",
-    "Mientras, corta la escalivada en tiras y alíñala con el ajo picado, el resto del aceite y una pizca de sal.",
-    "Precalienta el horno a 230 °C. Estira la masa sobre papel de horno en un rectángulo alargado de unos 35 x 20 cm y 4 mm de grosor, y pínchala con un tenedor para que no se hinche.",
+    "Mientras, corta la escalivada en tiras y alíñala con el ajo picado, el resto del aceite y una pizca de sal. Cuando falten 20 minutos de levado, precalienta el horno a 230 °C.",
+    "Estira la masa sobre papel de horno en un rectángulo alargado de unos 35 x 20 cm y 4 mm de grosor, y pínchala con un tenedor para que no se hinche.",
     "Reparte las verduras dejando 1 cm de borde libre y añade las aceitunas. Hornea 15 minutos en la parte baja del horno.",
     "Saca la coca, reparte el queso de cabra desmenuzado y el tomillo y hornea 5-7 minutos más, hasta que el borde esté dorado y la base suene crujiente al golpearla.",
     "Sirve caliente o templada con la rúcula por encima."

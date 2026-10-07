@@ -221,8 +221,8 @@ window.RECETAS_SEED.push({
     "Muele los cacahuetes en la batidora o el molinillo hasta obtener un polvo fino, sin llegar a pasta. Quita los tallos duros del kale y córtalo en tiras muy finas; pica gruesas las espinacas.",
     "En una cazuela, calienta el aceite de ajo a fuego medio-bajo y rehoga la cebolleta picada 2 minutos. Añade el tomate rallado y cocina 5 minutos, hasta que pierda el agua.",
     "Disuelve el cacahuete molido en 150 ml de agua caliente, viértelo en la cazuela y remueve sin parar 3 minutos: la salsa espesará y se volverá cremosa y anaranjada.",
-    "Incorpora el kale con una pizca de sal, tapa y cocina 8 minutos a fuego suave, removiendo de vez en cuando. Añade las espinacas y cocina 3 minutos más, hasta que todo esté tierno y envuelto en la salsa.",
-    "Para la nshima, pon a hervir 500 ml de agua con sal. Deslíe un tercio de la harina en un poco de agua fría, añádela al agua hirviendo y cuece 5 minutos removiendo, como unas gachas.",
+    "Incorpora el kale con una pizca de sal, tapa y cocina 8 minutos a fuego suave, removiendo de vez en cuando. Añade las espinacas y cocina 3 minutos más, hasta que todo esté tierno y envuelto en la salsa. Mientras, pon a hervir 500 ml de agua con sal para la nshima.",
+    "Para la nshima, deslíe un tercio de la harina en un poco de agua fría, añádela al agua hirviendo y cuece 5 minutos removiendo, como unas gachas.",
     "Añade el resto de la harina poco a poco, batiendo con fuerza con una cuchara de madera, hasta que la masa esté muy espesa y se despegue de las paredes. Baja el fuego al mínimo, tapa 5 minutos y vuelve a batir 1 minuto.",
     "Forma porciones de nshima con una cuchara mojada en agua y sirve al lado del ifisashi caliente."
   ],
@@ -311,9 +311,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 10 minutos. Córtalo en triángulos de 1,5 cm de grosor y sálalo.",
-    "Lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
-    "Calienta una sartén antiadherente con el aceite de oliva a fuego medio-alto y dora el tofu 3-4 minutos por cada lado, sin moverlo, hasta que tenga una costra dorada. Resérvalo.",
+    "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 10 minutos.",
+    "Mientras, lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
+    "Corta el tofu en triángulos de 1,5 cm de grosor y sálalo. Calienta una sartén antiadherente con el aceite de oliva a fuego medio-alto y dóralo 3-4 minutos por cada lado, sin moverlo, hasta que tenga una costra dorada. Resérvalo.",
     "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y el pimiento verde picados 4 minutos. Añade el jengibre rallado, el tomate rallado, el concentrado, el laurel y la nuez moscada.",
     "Cocina la salsa 15 minutos sin tapar, removiendo de vez en cuando, hasta que espese y cambie de rojo vivo a un rojo más oscuro. Sala.",
     "Mete el tofu en la salsa y cocina 5 minutos a fuego suave, dándole la vuelta con cuidado para que se empape. Apaga y añade la mitad de la albahaca en tiras.",
@@ -358,8 +358,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Corta la patata y el boniato en gajos, mézclalos con el aceite de oliva y sal, y ásalos 30 minutos en una bandeja con papel, dándoles la vuelta a mitad, hasta que estén dorados.",
-    "Corta el tempeh en lonchas de 1 cm y cuécelas 8 minutos en agua hirviendo: así se suaviza su amargor y absorbe mejor el adobo. Escúrrelo y adóbalo con el tamari, el zumo de una lima, el tomillo y la mitad del jengibre rallado.",
+    "Precalienta el horno a 210 °C y pon a hervir un cazo de agua. Corta la patata y el boniato en gajos, mézclalos con el aceite de oliva y sal, y ásalos 30 minutos en una bandeja con papel, dándoles la vuelta a mitad, hasta que estén dorados.",
+    "Corta el tempeh en lonchas de 1 cm y cuécelas 8 minutos en el agua hirviendo: así se suaviza su amargor y absorbe mejor el adobo. Escúrrelo y adóbalo con el tamari, el zumo de una lima, el tomillo y la mitad del jengibre rallado.",
     "Para el chatini, hidrata el coco rallado con 4 cucharadas de agua caliente 5 minutos. Tritúralo con la menta, el cilantro, la cebolleta, el resto del jengibre, el zumo de media lima y sal, hasta obtener una pasta verde y granulosa.",
     "Corta el tomate y el pepino en dados y alíñalos con sal y el zumo de la media lima restante.",
     "Calienta la plancha a fuego medio-alto y marca el tempeh 3 minutos por lado, pincelándolo con el adobo sobrante, hasta que esté dorado y ligeramente lacado.",
@@ -443,8 +443,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el fonio en un bol con agua, removiendo con la mano, y cambia el agua 3 veces hasta que salga limpia (puede tener arenilla). Escúrrelo en un colador fino.",
-    "Tuesta el fonio en un cazo sin grasa 1-2 minutos, removiendo. Añade 240 ml de agua hirviendo con sal, tapa, apaga el fuego y déjalo 5 minutos. Desgránalo con un tenedor y extiéndelo en una bandeja para que se enfríe.",
+    "Pon a hervir 240 ml de agua con sal. Lava el fonio en un bol con agua, removiendo con la mano, y cambia el agua 3 veces hasta que salga limpia (puede tener arenilla). Escúrrelo en un colador fino.",
+    "Tuesta el fonio en un cazo sin grasa 1-2 minutos, removiendo. Añade el agua hirviendo, tapa, apaga el fuego y déjalo 5 minutos. Desgránalo con un tenedor y extiéndelo en una bandeja para que se enfríe.",
     "Prepara la vinagreta batiendo la mostaza con el zumo de una lima y media, la ralladura de media lima, 1 cucharada y media de aceite, sal y pimienta.",
     "Corta el pepino y el tomate en dados pequeños y pica la menta, el perejil y el cebollino.",
     "Seca el atún con papel de cocina, úntalo con el resto del aceite y sálalo. Márcalo en una sartén muy caliente 1 minuto por cada lado: debe quedar dorado por fuera y rosado en el centro. Córtalo en lonchas.",
@@ -574,7 +574,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el solomillo en dados de 1,5 cm y sálalo. Separa los tallos del pak choi de las hojas y córtalos en trozos; pica las hojas, las espinacas y los berros gruesos.",
+    "Pon a calentar el agua en un cazo. Corta el solomillo en dados de 1,5 cm y sálalo. Separa los tallos del pak choi de las hojas y córtalos en trozos; pica las hojas, las espinacas y los berros gruesos.",
     "En una cazuela, calienta el aceite de ajo a fuego medio-alto y dora el cerdo 4 minutos, hasta que tome color por todos los lados.",
     "Baja el fuego, añade el jengibre en tiras finas, la cebolleta picada y el tomate rallado, y cocina 4 minutos, hasta que el tomate se vuelva salsa.",
     "Incorpora el arroz lavado y el agua caliente. Cuece 20 minutos a fuego suave, removiendo de vez en cuando para que no se pegue: el grano debe quedar muy tierno y el conjunto caldoso, como unas gachas sueltas.",
@@ -620,8 +620,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la salsa: calienta el aceite de ajo en una cazuela a fuego medio y rehoga la cebolleta y el pimiento verde picados 5 minutos. Añade el tomate pelado y troceado, el azúcar, el tomillo, sal y pimienta y cocina 15 minutos, hasta que quede una salsa espesa con tropezones.",
-    "Mientras, pon a hervir el agua con sal en otra cazuela. Echa la harina en forma de lluvia batiendo con varillas para que no se formen grumos, baja el fuego al mínimo, tapa y cuece 15 minutos, removiendo con una cuchara de madera cada 5 minutos, hasta que esté espesa y firme. Añade la mantequilla.",
-    "Precalienta el horno a 200 °C. Mezcla el maíz con la salsa de tomate.",
+    "Mientras, precalienta el horno a 200 °C y pon a hervir el agua con sal en otra cazuela. Echa la harina en forma de lluvia batiendo con varillas para que no se formen grumos, baja el fuego al mínimo, tapa y cuece 15 minutos, removiendo con una cuchara de madera cada 5 minutos, hasta que esté espesa y firme. Añade la mantequilla.",
+    "Mezcla el maíz con la salsa de tomate.",
     "Engrasa ligeramente una fuente de unos 20 x 15 cm. Extiende la mitad del pap aplanándolo con una espátula mojada, cúbrelo con la mitad de la salsa, pon encima el resto del pap y termina con el resto de la salsa.",
     "Reparte el queso rallado por encima y hornea 20 minutos, hasta que los bordes burbujeen y el queso esté dorado.",
     "Deja reposar 5 minutos para que asiente, corta en porciones y sirve con cebollino picado."
@@ -709,9 +709,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los espaguetis en abundante agua con sal 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua y escúrrelos.",
-    "Mientras, ralla la zanahoria, corta el pimiento en tiras finas y pica la cebolleta. Ralla el tomate y desecha la piel.",
-    "En una sartén grande, calienta el aceite de ajo a fuego medio y rehoga el pimiento, la zanahoria y la cebolleta 4 minutos. Añade el jengibre rallado, el tomate, el concentrado y el laurel y cocina 6 minutos, hasta que la salsa espese.",
+    "Pon a hervir abundante agua con sal para los espaguetis. Mientras, ralla la zanahoria, corta el pimiento en tiras finas y pica la cebolleta. Ralla el tomate y desecha la piel.",
+    "Cuece los espaguetis en el agua hirviendo 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua y escúrrelos.",
+    "Mientras se cuecen, en una sartén grande, calienta el aceite de ajo a fuego medio y rehoga el pimiento, la zanahoria y la cebolleta 4 minutos. Añade el jengibre rallado, el tomate, el concentrado y el laurel y cocina 6 minutos, hasta que la salsa espese.",
     "Incorpora las sardinas en trozos grandes y caliéntalas 1 minuto, sin remover demasiado para que no se deshagan.",
     "Añade los espaguetis y un chorrito del agua reservada y saltea 3 minutos a fuego medio-alto, levantándolos con unas pinzas, hasta que absorban la salsa y algunos tomen un ligero tostado en el fondo.",
     "Retira el laurel, rectifica de sal y pimienta y sirve con perejil picado."
@@ -848,8 +848,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Haz la mantequilla especiada: funde la mantequilla a fuego mínimo con el cardamomo aplastado, el clavo, el tomillo y la mitad del jengibre en láminas. Déjala 5 minutos, hasta que espume y huela, sin que se tueste. Cuélala y resérvala caliente.",
     "Tuesta el teff en una cazuela seca 2 minutos, hasta que crepite. Añade el caldo caliente y sal, y cuece tapado a fuego suave 15-18 minutos, removiendo de vez en cuando para que no se pegue, hasta que quede espeso y cremoso como una polenta.",
-    "Mientras, quita los tallos al kale y córtalo en tiras finas. En una sartén, calienta el aceite de ajo y rehoga la cebolleta y el resto del jengibre 2 minutos. Añade el tomate rallado y cocina 5 minutos; incorpora el kale con sal y cocina 6 minutos tapado, hasta que esté tierno.",
-    "Pon a hervir agua en un cazo con el vinagre y baja a un hervor muy suave. Casca cada huevo en una taza, crea un remolino con una cuchara y desliza el huevo en el centro. Escálfalo 3 minutos, hasta que la clara esté cuajada y la yema líquida. Sácalo con una espumadera.",
+    "Mientras, quita los tallos al kale y córtalo en tiras finas. En una sartén, calienta el aceite de ajo y rehoga la cebolleta y el resto del jengibre 2 minutos. Añade el tomate rallado y cocina 5 minutos; incorpora el kale con sal y cocina 6 minutos tapado, hasta que esté tierno. Mientras, pon a hervir agua en un cazo con el vinagre.",
+    "Cuando hierva el agua del cazo, baja a un hervor muy suave. Casca cada huevo en una taza, crea un remolino con una cuchara y desliza el huevo en el centro. Escálfalo 3 minutos, hasta que la clara esté cuajada y la yema líquida. Sácalo con una espumadera.",
     "Mezcla la mitad de la mantequilla especiada con el teff.",
     "Sirve el teff en platos hondos, el kale con tomate al lado, el huevo encima y el resto de la mantequilla especiada por encima, con pimienta."
   ],
@@ -1070,10 +1070,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta los tomates por la mitad, el pimiento en tiras y la zanahoria en rodajas finas. Colócalo todo en una bandeja con el jengibre en láminas y el tomillo, riega con el aceite de ajo y sala.",
-    "Asa 30 minutos, hasta que los tomates estén arrugados y con los bordes oscuros y la zanahoria tierna.",
+    "Asa 30 minutos, hasta que los tomates estén arrugados y con los bordes oscuros y la zanahoria tierna. Mientras, tuesta las pipas en una sartén sin grasa 2-3 minutos hasta que se hinchen.",
     "Pasa las verduras (sin las ramas de tomillo) a una cazuela con el caldo caliente y el laurel, y cuece 5 minutos. Retira el laurel y tritura hasta que quede muy fino.",
     "Cuela la crema por un colador para quitar pieles y semillas: quedará sedosa y más digestiva. Vuelve a ponerla al fuego, añade la cebolleta picada y deja que dé un hervor. Rectifica de sal.",
-    "Tuesta las pipas en una sartén sin grasa 2-3 minutos hasta que se hinchen. Templa el aceite de palma solo hasta que se funda. Tuesta el pan.",
+    "Templa el aceite de palma solo hasta que se funda. Tuesta el pan.",
     "Sirve la crema con una cucharada de yogur, las pipas, unas gotas del aceite de palma por encima y el pan al lado."
   ],
   nutricion: { kcal: 370, prot: 11, hc: 45, grasa: 16 },

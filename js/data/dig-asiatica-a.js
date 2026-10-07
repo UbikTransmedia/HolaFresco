@@ -88,10 +88,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Infusiona el té: pon las hojas en una taza, cúbrelas con los 100 ml de agua a 80 °C (si hierve, amarga) y déjalas 2 minutos. Cuela y reserva por separado las hojas y el líquido.",
-    "Seca las gambas con papel de cocina, sálalas y mézclalas con la clara batida y la maicena hasta que queden cubiertas por una película fina. Déjalas 10 minutos en la nevera: este «terciopelo» es lo que las mantiene jugosas.",
-    "Lleva a ebullición suave una cazuela con agua. Echa las gambas, sepáralas con unos palillos y sácalas a los 40-50 segundos, en cuanto se vuelvan rosa pálido. Escúrrelas bien. En los restaurantes se pasan por aceite tibio; el agua da la misma textura sin grasa.",
+    "Seca las gambas con papel de cocina, sálalas y mézclalas con la clara batida y la maicena hasta que queden cubiertas por una película fina. Déjalas 10 minutos en la nevera: este «terciopelo» es lo que las mantiene jugosas. Mientras, pon a calentar una cazuela con agua y corta el jengibre en hilos finos.",
+    "Cuando el agua hierva suavemente, echa las gambas, sepáralas con unos palillos y sácalas a los 40-50 segundos, en cuanto se vuelvan rosa pálido. Escúrrelas bien. En los restaurantes se pasan por aceite tibio; el agua da la misma textura sin grasa.",
     "Calienta el aceite de ajo en el wok a fuego medio-alto y saltea los brotes de soja con el tamari 2 minutos, hasta que estén calientes pero todavía crujientes. Pásalos a los platos.",
-    "Limpia el wok, pon el aceite de girasol con el jengibre en hilos finos 30 segundos, añade las gambas y las hojas de té y saltea 1 minuto. Riega con 3 cucharadas de la infusión, añade sal y una pizca de pimienta blanca y saltea 30 segundos más, hasta que el líquido se evapore y las gambas brillen.",
+    "Limpia el wok, pon el aceite de girasol con el jengibre 30 segundos, añade las gambas y las hojas de té y saltea 1 minuto. Riega con 3 cucharadas de la infusión, añade sal y una pizca de pimienta blanca y saltea 30 segundos más, hasta que el líquido se evapore y las gambas brillen.",
     "Sirve las gambas enseguida, con algunas hojas de té por encima, junto al arroz y los brotes."
   ],
   nutricion: { kcal: 490, prot: 38, hc: 61, grasa: 10 },
@@ -304,9 +304,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta el sésamo negro en una sartén seca a fuego medio 2 minutos, hasta que huela y salte. Muélelo en un mortero hasta que esté casi pastoso y mézclalo con el tamari, el vinagre, el azúcar y 3 cucharadas de agua caliente: tendrás una salsa espesa y negra.",
+    "Pon a hervir una olla con abundante agua. Tuesta el sésamo negro en una sartén seca a fuego medio 2 minutos, hasta que huela y salte. Muélelo en un mortero hasta que esté casi pastoso y mézclalo con el tamari, el vinagre, el azúcar y 3 cucharadas de agua caliente: tendrás una salsa espesa y negra.",
     "Corta la sepia en tiras de 1 cm, haz unos cortes en rombo en la cara interior para que no se encoja y sécala bien. Corta la zanahoria y el calabacín en bastones finos y el jengibre en hilos.",
-    "Cuece la soba en abundante agua hirviendo sin sal el tiempo del paquete (4-5 minutos), removiendo al principio. Escúrrela y lávala bajo el grifo frotándola con las manos para quitarle el almidón: así no se apelmaza.",
+    "Cuece la soba en el agua hirviendo, sin sal, el tiempo del paquete (4-5 minutos), removiendo al principio. Escúrrela y lávala bajo el grifo frotándola con las manos para quitarle el almidón: así no se apelmaza.",
     "Calienta el wok con la mitad del aceite a fuego medio-alto y saltea la zanahoria y el jengibre 3 minutos; añade el calabacín y 1 cucharada de agua y saltea 2 minutos más, hasta que estén tiernos. Retíralos.",
     "Sube el fuego al máximo, añade el resto del aceite y la sepia con una pizca de sal y saltéala solo 60-90 segundos, hasta que se vuelva blanca y se curve: más tiempo la endurece.",
     "Devuelve las verduras, añade la soba y la salsa de sésamo y mezcla 1 minuto, hasta que todo esté caliente y brillante.",
@@ -483,8 +483,8 @@ window.RECETAS_SEED.push({
     "Lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Pica muy fina la cebolleta y ralla el jengibre. Mezcla en un bol el pollo con la cebolleta, el jengibre, la fécula y media cucharadita de sal. Amasa con la mano 2 minutos, siempre en el mismo sentido, hasta que la mezcla esté pegajosa: así no se rompe.",
     "Con las manos mojadas, forma 6 cilindros alargados de unos 8 cm y ensártalos en brochetas (o haz 8 albóndigas aplastadas, sin palo).",
-    "Prepara el tare: hierve en un cazo el tamari, el azúcar y 3 cucharadas de agua 2 minutos, hasta que espese ligeramente.",
-    "Calienta la sartén con el aceite a fuego medio y cocina los tsukune 4 minutos, hasta que estén dorados por debajo. Gíralos, añade a los huecos los pimientos en tiras anchas, tapa y cocina 4-5 minutos más a fuego medio-bajo, hasta que la carne esté firme al tacto y sin rastro rosado en el centro.",
+    "Prepara el tare: hierve en un cazo el tamari, el azúcar y 3 cucharadas de agua 2 minutos, hasta que espese ligeramente. Corta los pimientos en tiras anchas.",
+    "Calienta la sartén con el aceite a fuego medio y cocina los tsukune 4 minutos, hasta que estén dorados por debajo. Gíralos, añade a los huecos los pimientos, tapa y cocina 4-5 minutos más a fuego medio-bajo, hasta que la carne esté firme al tacto y sin rastro rosado en el centro.",
     "Destapa, pinta los tsukune con el tare y gíralos 1 minuto, hasta que queden brillantes. Da la vuelta también a los pimientos para que tomen un poco de salsa.",
     "Sirve sobre el arroz con los pimientos, el sésamo y el resto del tare por encima."
   ],
@@ -529,8 +529,8 @@ window.RECETAS_SEED.push({
     "Corta la ternera en dados de 3 cm. Ponla en una cazuela con agua fría, lleva a ebullición y hierve 3 minutos; escúrrela y aclárala. Este blanqueado elimina impurezas y deja una salsa limpia.",
     "Haz un corte en cruz en la base de los tomates, escáldalos 30 segundos, pélalos y trocéalos. Corta el jengibre en láminas.",
     "Calienta el aceite en la cazuela limpia a fuego medio y rehoga el jengibre 1 minuto. Añade la mitad del tomate y el concentrado y cocina 5 minutos aplastando con la cuchara, hasta que se deshaga en una salsa.",
-    "Incorpora la ternera, el tamari, el azúcar, el anís y los 600 ml de agua caliente. Cuando hierva, tapa y cuece a fuego muy suave 1 hora y media, hasta que la carne esté casi tierna.",
-    "Añade la patata y la zanahoria en trozos grandes y el resto del tomate, y cuece destapado 25 minutos, hasta que la patata esté tierna y la salsa haya espesado.",
+    "Incorpora la ternera, el tamari, el azúcar, el anís y los 600 ml de agua caliente. Cuando hierva, tapa y cuece a fuego muy suave 1 hora y media, hasta que la carne esté casi tierna. En los últimos 10 minutos, pela la patata y la zanahoria y córtalas en trozos grandes.",
+    "Añade la patata, la zanahoria y el resto del tomate, y cuece destapado 25 minutos, hasta que la patata esté tierna y la salsa haya espesado.",
     "Mientras, lava el arroz y cuécelo con 150 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Retira el anís, rectifica de sal y sirve el guiso con la cebolleta picada por encima y el arroz al lado."
   ],
@@ -751,7 +751,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Abre las codornices en libro: con unas tijeras de cocina corta a lo largo de la columna, ábrelas y aplánalas con la palma de la mano. Sécalas muy bien y sálalas ligeramente.",
     "En un cazo, calienta el tamari, el sirope, el anís y la mitad del jengibre en láminas 2 minutos a fuego suave para que se infusione. Deja templar, pinta las codornices por ambos lados y déjalas 15 minutos.",
-    "Precalienta el horno a 220 °C. Lava el arroz y cuécelo con 210 ml de agua, el resto del jengibre en láminas y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
+    "Mientras reposan, precalienta el horno a 220 °C. Lava el arroz y cuécelo con 210 ml de agua, el resto del jengibre en láminas y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Coloca las codornices con la piel hacia arriba en una bandeja con papel untado con el aceite. Ásalas 15-18 minutos, pintándolas con la laca cada 5 minutos, hasta que la piel esté caoba y brillante y al pinchar el muslo salga un jugo claro.",
     "Mientras, corta el pak choi en cuartos y saltéalo en una sartén con el aceite de ajo, sal y 2 cucharadas de agua 3-4 minutos, hasta que esté tierno.",
     "Deja reposar las codornices 3 minutos. Sirve con el arroz (sin el jengibre), el pak choi, la cebolleta picada y el jugo de la bandeja por encima."
