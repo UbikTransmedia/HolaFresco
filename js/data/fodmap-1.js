@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 3–4 mm y mézclalas en un bol con el aceite de oliva y sal.",
@@ -160,7 +161,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 80, u: "ml", nota: "para freír; cada ración absorbe unas 1,5 cucharadas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y rállalas por la parte fina del rallador sobre un bol. Pásalas a un paño limpio y escúrrelas apretando fuerte sobre otro bol.",
@@ -450,7 +452,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas en gajos con piel, mézclalas con 1 cucharada de aceite de oliva y sal y hornéalas 30–35 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes.",
@@ -677,7 +680,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon agua a hervir, introduce los huevos fríos de la nevera con una cuchara y cuécelos 6 minutos exactos. Pásalos a agua con hielo 2 minutos y pélalos con cuidado: la yema debe quedar melosa.",
@@ -760,7 +764,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "aceitunas negras", q: 40, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas enteras y con piel en agua fría con sal y cuécelas 20–25 minutos desde que hierva, hasta que un cuchillo entre sin resistencia. Cuece los huevos 10 minutos y enfríalos.",
@@ -802,7 +807,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal; mientras se calienta, quita los tallos de la kale y ralla el pecorino y la piel del limón. Escalda la kale 1 minuto en el agua, sácala con una espumadera a un bol de agua fría y escúrrela apretando. Así queda verde y pierde el amargor.",

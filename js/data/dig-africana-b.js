@@ -39,7 +39,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo seco", q: 0.5, u: "cdta" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo en el doble de su volumen de agua con sal, tapado y a fuego mínimo, 12 minutos. Apaga y déjalo reposar tapado.",
@@ -83,7 +84,8 @@ window.RECETAS_SEED.push({
     { n: "cardamomo verde", q: 2, u: "ud" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y resérvalo escurrido.",
@@ -128,7 +130,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "pipas de calabaza", q: 30, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en cuartos y cuécelas en agua con sal 18-20 minutos, hasta que se deshagan al pincharlas.",
@@ -174,7 +177,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
@@ -308,7 +312,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 10 minutos.",
@@ -355,7 +360,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 1, u: "ud", nota: "solo las hojas verdes" },
     { n: "tomate pera", q: 150, u: "g" },
     { n: "pepino", q: 150, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C y pon a hervir un cazo de agua. Corta la patata y el boniato en gajos, mézclalos con el aceite de oliva y sal, y ásalos 30 minutos en una bandeja con papel, dándoles la vuelta a mitad, hasta que estén dorados.",
@@ -397,7 +403,8 @@ window.RECETAS_SEED.push({
     { n: "espinacas baby", q: 60, u: "g" },
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo las hojas verdes" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la yuca en trozos de 6 cm, retira la fibra dura del centro y cuécela en agua con sal 20-25 minutos, hasta que esté tierna pero firme (la yuca siempre debe ir bien cocida). Escúrrela y déjala enfriar extendida.",
@@ -440,7 +447,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir 240 ml de agua con sal. Lava el fonio en un bol con agua, removiendo con la mano, y cambia el agua 3 veces hasta que salga limpia (puede tener arenilla). Escúrrelo en un colador fino.",
@@ -483,7 +491,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 150, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Extiéndelo en una bandeja para que se enfríe.",
@@ -528,7 +537,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y córtalas por la mitad.",
@@ -706,7 +716,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para los espaguetis. Mientras, ralla la zanahoria y el jengibre, corta el pimiento en tiras finas y pica la cebolleta y el perejil. Ralla el tomate y desecha la piel.",
@@ -753,7 +764,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 300 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Deja reposar tapado 5 minutos.",
@@ -843,7 +855,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "vinagre de vino blanco", q: 1, u: "cda", nota: "para escalfar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Haz la mantequilla especiada: funde la mantequilla a fuego mínimo con el cardamomo aplastado, el clavo, el tomillo y la mitad del jengibre en láminas. Déjala 5 minutos, hasta que espume y huela, sin que se tueste; mientras, pica la cebolleta y el resto del jengibre y ralla el tomate. Cuela la mantequilla y resérvala caliente.",
@@ -1111,7 +1124,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la yuca en dados de 2 cm quitando la fibra central. Cuécela en agua con sal 10 minutos y escúrrela, desechando el agua. Mientras se cuece, pica la cebolleta, ralla el jengibre y el tomate y corta la zanahoria en rodajas.",

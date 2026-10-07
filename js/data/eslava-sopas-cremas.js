@@ -84,7 +84,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "smetana", q: 40, u: "g", nota: "o nata agria" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua fría y pélalos. Mientras se cuecen, pica la cebolla, ralla la zanahoria y pela la patata y córtala en dados de 1,5 cm.",
@@ -499,7 +500,8 @@ window.RECETAS_SEED.push({
     { n: "caballa ahumada", q: 140, u: "g", nota: "o trucha ahumada" },
     { n: "pan de centeno", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela la remolacha (con guantes, si no quieres teñirte las manos) y córtala en dados de 2 cm, y corta la cebolla en gajos. Ponlas en una bandeja con el aceite y sal y ásalas 35 o 40 minutos, dándoles la vuelta a mitad, hasta que la remolacha se pinche con facilidad y los bordes estén caramelizados.",
@@ -716,7 +718,8 @@ window.RECETAS_SEED.push({
     { n: "smetana", q: 80, u: "g", nota: "o nata agria" },
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la zanahoria en rodajas finas y pica la cebolla. Pon la pechuga entera en la cazuela con el caldo, el laurel, la zanahoria y la cebolla. Lleva a ebullición suave y cuece 12 minutos; saca la pechuga y deja que temple.",
@@ -762,7 +765,8 @@ window.RECETAS_SEED.push({
     { n: "pepinillos", q: 60, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la ternera en tiras finas de 1 cm, sécalas con papel y salpimiéntalas. Pica la cebolla, lamina los champiñones y corta los pepinillos en tiras finas.",
@@ -809,7 +813,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de girasol", q: 15, u: "g" },
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lamina los rábanos muy finos y ponlos en un bol con el vinagre, el azúcar, una pizca de sal y 2 cda de agua. Déjalos encurtir mientras haces la crema. Pica la cebolla, lamina el ajo y pela la patata y córtala en dados pequeños.",

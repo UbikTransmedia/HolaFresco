@@ -173,7 +173,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la zanahoria en rodajas y prepara el caldo corto: en una cazuela ancha, hierve 1,5 litros de agua con la zanahoria, el laurel, el tomillo, el vinagre y 1 cucharada de sal durante 10 minutos.",
@@ -261,7 +262,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 300, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 1 cm y cuécelas en agua con sal 10-12 minutos, hasta que estén casi tiernas.",
@@ -348,7 +350,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas y aplástalas un poco con la base de un vaso.",
@@ -431,7 +434,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "tomate", q: 200, u: "g", nota: "maduro, para la ensalada" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si los filetes no son muy finos, ponlos entre dos hojas de papel de horno y golpéalos con un rodillo hasta dejarlos de unos 3 mm. Salpimiéntalos y pica el perejil.",
@@ -739,7 +743,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga", q: 100, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea la zanahoria y pon el pavo en una cazuela con 1 litro de agua, la zanahoria, el laurel y sal. Lleva a ebullición, retira la espuma y cuece a fuego suave 35 minutos, hasta que la carne esté tierna; mientras, pica la cebolleta y corta la lechuga en tiras. Saca el pavo y cuela el caldo; necesitarás unos 400 ml. Cuando falten 15 minutos, precalienta el horno a 200 °C.",
@@ -785,7 +790,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escalda las aceitunas 2 minutos en agua hirviendo y escúrrelas: pierden el exceso de sal y el amargor. Pela las patatas, trocéalas y ponlas a cocer en agua con sal 18-20 minutos. Pela la zanahoria y córtala en rodajas finas.",
@@ -871,7 +877,8 @@ window.RECETAS_SEED.push({
     { n: "pan sin gluten", q: 100, u: "g" },
     { n: "rúcula", q: 40, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C y pon agua a hervir para el baño maría. Escalda los tomates 20 segundos, pélalos, quítales las semillas y pícalos.",
@@ -957,7 +964,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "rúcula", q: 40, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que el cuchillo entre sin resistencia.",
@@ -999,7 +1007,8 @@ window.RECETAS_SEED.push({
     { n: "canónigos", q: 80, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el calabacín en dados de 1 cm y rehógalo en una sartén con 1 cucharadita de aceite de ajo a fuego medio 6-8 minutos, hasta que esté tierno y sin tomar color. Sálalo.",
@@ -1040,7 +1049,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño limpio, ponle un peso encima 10 minutos para que suelte el agua y córtalo en dados de 2 cm. Mézclalo con las hierbas provenzales, la ralladura del limón, sal y 1 cucharadita de aceite de ajo.",
@@ -1083,7 +1093,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la chirivía y las patatas, trocéalas y cuécelas juntas en agua con sal 18-20 minutos, hasta que estén muy tiernas. Reserva un vaso del agua de cocción. Mientras se cuecen, pica las hojas de romero y el cebollino.",

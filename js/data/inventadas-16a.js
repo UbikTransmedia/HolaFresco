@@ -76,8 +76,8 @@ window.RECETAS_SEED.push({
     "Mientras, seca bien el conejo con papel y salpimiéntalo. Chafa los dientes de ajo con la piel con la hoja del cuchillo.",
     "Calienta el aceite en una cazuela ancha a fuego medio-alto y dora el conejo por tandas, 8–10 minutos en total, hasta que esté bien tostado por todos los lados.",
     "Añade los ajos chafados, el romero, el tomillo y la guindilla; baja a fuego medio y cocina 3 minutos removiendo, hasta que los ajos estén dorados y la cocina huela a ajo y romero.",
-    "Vierte el vino blanco, deja que evapore el alcohol 1 minuto, tapa y cocina a fuego suave 15 minutos, moviendo la cazuela, hasta que el conejo esté tierno y la salsa se reduzca a un jugo brillante.",
-    "Incorpora las tiras de pimiento asado con su jugo, mezcla 2 minutos y termina con perejil picado. Sirve con pan para mojar si quieres."
+    "Vierte el vino blanco, deja que evapore el alcohol 1 minuto, tapa y cocina a fuego suave 15 minutos, moviendo la cazuela, hasta que el conejo esté tierno y la salsa se reduzca a un jugo brillante. Mientras, pica el perejil.",
+    "Incorpora las tiras de pimiento asado con su jugo, mezcla 2 minutos y termina con el perejil picado. Sirve con pan para mojar si quieres."
   ],
   nutricion: { kcal: 425, prot: 43, hc: 13, grasa: 22 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "alta en proteína"],
@@ -249,9 +249,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C. Unta el pollo con 1 cucharada de zumaque, el comino, la canela, el zumo de medio limón, media cucharada de aceite, sal y pimienta.",
     "Corta las cebollas en pluma fina y póchalas en una sartén con 1 cucharada de aceite y una pizca de sal a fuego medio-bajo 15 minutos, removiendo a menudo, hasta que estén blandas, dulces y moradas oscuras.",
     "Mientras, coloca el pollo en una bandeja y hornéalo 20–22 minutos, hasta que esté dorado y suelte un jugo claro al pincharlo.",
-    "Tuesta las almendras en una sartén seca 2–3 minutos, hasta que huelan y estén doradas. Mezcla el yogur con la ralladura del limón y una pizca de sal.",
+    "Tuesta las almendras en una sartén seca 2–3 minutos, hasta que huelan y estén doradas. Mezcla el yogur con la ralladura del limón y una pizca de sal, y pica el perejil.",
     "Abre las pitas, píntalas con el resto del aceite, reparte encima la mitad de la cebolla, coloca el pollo cortado en tiras y cubre con el resto de la cebolla y del zumaque. Hornea 6–8 minutos, hasta que el borde del pan esté crujiente.",
-    "Termina con las almendras, perejil picado y unas gotas de limón, y sirve con el yogur."
+    "Termina con las almendras, el perejil picado y unas gotas de limón, y sirve con el yogur."
   ],
   nutricion: { kcal: 765, prot: 51, hc: 50, grasa: 40 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "alta en proteína", "poco especiada"],
@@ -283,7 +283,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el cuscús en un bol con una pizca de sal y la ralladura de medio limón, cúbrelo con 90 ml de agua hirviendo, tapa y deja reposar 5 minutos.",
@@ -369,12 +370,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Mezcla la calabaza y la cebolla en gajos con 1 cucharada de aceite, la miel, las hojas de una rama de tomillo y sal, y hornea 15 minutos.",
+    "Precalienta el horno a 210 °C. Corta la cebolla en gajos y mézclala con la calabaza, con 1 cucharada de aceite, la miel, las hojas de una rama de tomillo y sal, y hornea 15 minutos.",
     "Pica los pistachos con el perejil y las hojas del resto del tomillo hasta tener una mezcla gruesa, como pan rallado.",
     "Salpimienta el solomillo y márcalo en una sartén con el resto del aceite a fuego fuerte, 1 minuto por cada lado, hasta que esté dorado.",
     "Pinta el solomillo con la mostaza y presiona encima la mezcla de pistachos para que se adhiera bien.",
-    "Colócalo sobre la calabaza y hornea 15–18 minutos, hasta que la costra esté tostada y el interior quede jugoso (63 °C si tienes termómetro). Déjalo reposar 5 minutos antes de cortar.",
-    "Mezcla el yogur con el ajo rallado y una pizca de sal. Sirve el solomillo en medallones sobre la calabaza con el yogur al lado."
+    "Colócalo sobre la calabaza y hornea 15–18 minutos, hasta que la costra esté tostada y el interior quede jugoso (63 °C si tienes termómetro). Déjalo reposar 5 minutos antes de cortar. Mientras se hornea, ralla el ajo y mézclalo con el yogur y una pizca de sal.",
+    "Sirve el solomillo en medallones sobre la calabaza con el yogur al ajo al lado."
   ],
   nutricion: { kcal: 628, prot: 47, hc: 34, grasa: 34 },
   etiquetas: ["mediterránea", "al horno", "aromática", "alta en proteína", "invierno", "poco especiada"],
@@ -411,15 +412,16 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 160 °C y lamina el ajo. Seca la ternera, salpiméntala y dórala en una cazuela apta para horno con el aceite a fuego fuerte, en dos tandas, 5 minutos por tanda, hasta que esté bien tostada. Resérvala.",
     "En la misma cazuela, dora las cebollitas enteras 5 minutos a fuego medio, hasta que tengan manchas doradas. Añade el ajo laminado 30 segundos.",
     "Vierte el vino y el vinagre, raspando el fondo, y deja hervir 2 minutos. Añade el tomate, la canela, el clavo, el laurel, la carne con su jugo y agua justo hasta cubrir.",
     "Lleva a ebullición, tapa y mete al horno 1 h 30 min sin tocar.",
-    "Añade las patatas, sala ligeramente, tapa y hornea 25–30 minutos más, hasta que la carne se deshaga con la cuchara y la salsa esté espesa y brillante.",
-    "Retira la canela, el clavo y el laurel, espolvorea perejil picado y sirve con el pan para mojar."
+    "Añade las patatas, sala ligeramente, tapa y hornea 25–30 minutos más, hasta que la carne se deshaga con la cuchara y la salsa esté espesa y brillante. Mientras, pica el perejil.",
+    "Retira la canela, el clavo y el laurel, espolvorea el perejil picado y sirve con el pan para mojar."
   ],
   nutricion: { kcal: 692, prot: 49, hc: 61, grasa: 28 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "de cuchara", "poco especiada"],
@@ -458,8 +460,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En un bol, mezcla el pimentón, el comino, el cilantro molido, el orégano, el ajo rallado, el zumo de medio limón, 1 cucharada de aceite y sal. Añade el pollo, mezcla bien y deja reposar 10 minutos mientras preparas la ensalada.",
-    "Corta los tomates en gajos, los piquillos en tiras y la cebolleta en aros finos. Alíñalos con el resto del aceite, el zumo del otro medio limón, sal, una pizca de comino y el perejil picado.",
+    "Ralla el ajo. En un bol, mezcla el pimentón, el comino, el cilantro molido, el orégano, el ajo, el zumo de medio limón, 1 cucharada de aceite y sal. Añade el pollo, mezcla bien y deja reposar 10 minutos mientras preparas la ensalada.",
+    "Pica el perejil y corta los tomates en gajos, los piquillos en tiras y la cebolleta en aros finos. Alíñalos con el resto del aceite, el zumo del otro medio limón, sal, una pizca de comino y el perejil picado.",
     "Ensarta el pollo en 4 brochetas (si son de madera, mójalas antes).",
     "Haz los pinchitos en la plancha muy caliente 8–10 minutos, girándolos cada 2 minutos, hasta que estén dorados y algo tostados en las puntas y jugosos por dentro.",
     "Sirve los pinchitos sobre la ensalada con el pan tostado para recoger el jugo."
@@ -497,7 +499,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Extiende en una fuente las patatas y la cebolla en juliana, alíñalas con el aceite, sal, pimienta y las hojas de una rama de tomillo, y vierte el vino.",
+    "Precalienta el horno a 200 °C. Corta la cebolla en juliana. Extiende en una fuente las patatas y la cebolla, alíñalas con el aceite, sal, pimienta y las hojas de una rama de tomillo, y vierte el vino.",
     "Hornea las patatas 15 minutos para que vayan tomando ventaja.",
     "Mientras, mezcla la sobrasada con la miel hasta formar una pasta untable (si está fría, caliéntala 10 segundos en el microondas).",
     "Sala ligeramente el pollo y úntalo por arriba con la pasta de sobrasada y miel.",
@@ -582,8 +584,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Saltea las espinacas con el ajo picado y unas gotas de aceite 2 minutos, hasta que se ablanden; escúrrelas apretando y pícalas.",
-    "Mezcla las espinacas con la ricotta, el tomate seco, el parmesano, la albahaca picada, sal y pimienta.",
+    "Precalienta el horno a 200 °C. Pica el ajo y saltea las espinacas con él y unas gotas de aceite 2 minutos, hasta que se ablanden; escúrrelas apretando y pícalas.",
+    "Pica la albahaca y mezcla las espinacas con la ricotta, el tomate seco, el parmesano, la albahaca, sal y pimienta.",
     "Abre cada pechuga en libro con un corte horizontal sin llegar al final, rellénala con la mezcla y ciérrala con un par de palillos. Salpimienta por fuera.",
     "Dóralas en una sartén apta para horno con media cucharada de aceite 2 minutos por lado y hornea 15–18 minutos, hasta que el centro esté hecho y el relleno caliente.",
     "Deja reposar 3 minutos. Mientras, aliña la rúcula y los cherrys partidos con el resto del aceite, el balsámico y sal.",
@@ -668,11 +670,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Ralla la piel de la naranja y exprime la mitad; corta la otra mitad en rodajas finas.",
-    "En una fuente, mezcla el hinojo, la cebolla en gajos, las patatas, los ajos chafados, el tomillo, el aceite, sal y pimienta. Hornea 15 minutos.",
+    "Precalienta el horno a 200 °C. Ralla la piel de la naranja y exprime la mitad; corta la otra mitad en rodajas finas. Corta la cebolla morada en gajos y chafa los ajos.",
+    "En una fuente, mezcla el hinojo, la cebolla, las patatas, los ajos, el tomillo, el aceite, sal y pimienta. Hornea 15 minutos.",
     "Mientras, adoba el pollo con la ralladura de naranja, las semillas de hinojo machacadas, sal y pimienta.",
-    "Coloca el pollo sobre las verduras con las rodajas de naranja y las aceitunas, riega con el zumo de naranja y hornea 30–35 minutos, hasta que el pollo esté dorado y el hinojo caramelizado y tierno.",
-    "Deja reposar 5 minutos y sirve con el jugo de la fuente por encima y las hojas verdes del hinojo picadas."
+    "Coloca el pollo sobre las verduras con las rodajas de naranja y las aceitunas, riega con el zumo de naranja y hornea 30–35 minutos, hasta que el pollo esté dorado y el hinojo caramelizado y tierno. Mientras, pica las hojas verdes del hinojo.",
+    "Deja reposar 5 minutos y sirve con el jugo de la fuente por encima y las hojas de hinojo picadas."
   ],
   nutricion: { kcal: 452, prot: 34, hc: 34, grasa: 20 },
   etiquetas: ["mediterránea", "fácil", "al horno", "ligera", "aromática", "invierno", "poco especiada", "bajo en colesterol"],
@@ -704,7 +706,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un cazo con 250 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 10 minutos; apaga y deja reposar tapado. Mientras, corta el calabacín en medias lunas y lamina el ajo.",
@@ -746,7 +749,8 @@ window.RECETAS_SEED.push({
     { n: "canela molida", q: 1, u: "pizca" },
     { n: "cuscús", q: 120, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la chermoula: pica muy fino el cilantro, el perejil y el ajo y mézclalos con el comino, el pimentón, el zumo de medio limón, 2 cucharadas de aceite y sal.",
@@ -831,14 +835,15 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las patatas en agua con sal 6 minutos; añade las judías verdes despuntadas y cuece 5–6 minutos más, hasta que estén tiernas pero aún verdes y crujientes. Escurre.",
-    "Mientras, lamina el ajo y tuesta las almendras en una sartén seca 2 minutos, hasta que estén doradas, y resérvalas.",
+    "Cuece las patatas en agua con sal 6 minutos; mientras, despunta las judías verdes. Añádelas y cuece 5–6 minutos más, hasta que estén tiernas pero aún verdes y crujientes. Escurre.",
+    "Mientras, lamina el ajo, pica el eneldo y tuesta las almendras en una sartén seca 2 minutos, hasta que estén doradas, y resérvalas.",
     "Salpimienta el pollo y hazlo en la misma sartén con 1 cucharada de aceite a fuego medio-alto 3–4 minutos por lado, hasta que esté dorado y jugoso. Resérvalo.",
     "Baja el fuego, añade el resto del aceite y el ajo laminado, y saltea 1 minuto las patatas y las judías con la ralladura y el zumo del limón.",
-    "Sirve el pollo en tiras sobre las verduras, con las almendras y el eneldo picado por encima."
+    "Sirve el pollo en tiras sobre las verduras, con las almendras y el eneldo por encima."
   ],
   nutricion: { kcal: 442, prot: 42, hc: 28, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "ideal para llevar", "poco especiada", "bajo en colesterol"],
@@ -874,11 +879,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lamina el ajo. Sazona los filetes con sal, pimienta, las hojas de una rama de tomillo y la ralladura de medio limón.",
+    "Lamina el ajo y corta los piquillos en tiras. Sazona los filetes con sal, pimienta, las hojas de una rama de tomillo y la ralladura de medio limón.",
     "Calienta 1 cucharada de aceite en una sartén a fuego fuerte y haz los filetes 1,5–2 minutos por lado, hasta que estén dorados pero aún jugosos. Resérvalos tapados con un chorrito de zumo de limón.",
     "En la misma sartén, añade el resto del aceite, el ajo laminado y el resto del tomillo y sofríe 30 segundos.",
     "Incorpora los garbanzos bien secos y saltéalos 4 minutos a fuego medio-alto, hasta que estén algo crujientes. Añade el pimentón y remueve 10 segundos.",
-    "Añade los piquillos en tiras y las espinacas y saltea 1–2 minutos, hasta que las espinacas se ablanden. Sala.",
+    "Añade los piquillos y las espinacas y saltea 1–2 minutos, hasta que las espinacas se ablanden. Sala.",
     "Sirve los filetes sobre los garbanzos con el jugo que hayan soltado y un poco más de zumo de limón."
   ],
   nutricion: { kcal: 453, prot: 41, hc: 25, grasa: 21 },
@@ -915,8 +920,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca la carne de la nevera. Precalienta el horno a 220 °C. Mezcla las patatas con 1 cucharada de aceite, las hojas de romero picadas y sal y hornéalas en una bandeja 25 minutos, girándolas a mitad, hasta que estén doradas y crujientes.",
-    "Prepara el salmoriglio: mezcla 1,5 cucharadas de aceite con el zumo de medio limón, la ralladura del limón, el orégano, el ajo rallado, el perejil picado y una pizca de sal. Bate con un tenedor hasta que emulsione.",
+    "Saca la carne de la nevera. Precalienta el horno a 220 °C. Pica las hojas de romero. Mezcla las patatas con 1 cucharada de aceite, el romero y sal y hornéalas en una bandeja 25 minutos, girándolas a mitad, hasta que estén doradas y crujientes.",
+    "Mientras se hornean, ralla el ajo, pica el perejil y prepara el salmoriglio: mezcla 1,5 cucharadas de aceite con el zumo de medio limón, la ralladura del limón, el orégano, el ajo, el perejil y una pizca de sal. Bate con un tenedor hasta que emulsione.",
     "Salpimienta la carne. Calienta el resto del aceite en una sartén a fuego muy fuerte y marca los medallones 2–3 minutos por lado, hasta que tengan costra dorada y el interior quede rosado. Déjalos reposar 3 minutos.",
     "Sirve los medallones con las patatas y la rúcula y cubre la carne con el salmoriglio."
   ],
@@ -958,7 +963,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura los garbanzos con el tahini, el zumo del limón, 1 diente de ajo, media cucharadita de comino, sal y 4–5 cucharadas del líquido del bote hasta obtener un hummus muy fino. Templa en un cazo o 1 minuto en el microondas.",
-    "Pica fina la cebolla y el otro ajo. Tuesta los piñones en una sartén seca 2 minutos, hasta que estén dorados, y resérvalos.",
+    "Pica fina la cebolla y el otro ajo, y pica el perejil. Tuesta los piñones en una sartén seca 2 minutos, hasta que estén dorados, y resérvalos.",
     "En la misma sartén, calienta 1 cucharada de aceite y sofríe la cebolla picada fina 4 minutos a fuego medio, hasta que esté blanda.",
     "Sube el fuego, añade la ternera, el otro ajo picado, el resto del comino, la canela, el pimentón y sal, y cocina 5–6 minutos deshaciéndola con la cuchara, hasta que esté dorada y suelta.",
     "Extiende el hummus caliente en dos platos haciendo un hueco, rellénalo con la carne y termina con los piñones, el perejil picado y el resto del aceite.",
@@ -1000,11 +1005,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta la berenjena, el calabacín, la patata y la cebolla en rodajas de medio centímetro; ralla 1 tomate y corta los otros 2 en rodajas.",
-    "Mezcla las verduras en una fuente con el tomate rallado, el ajo laminado, la mitad del orégano, 1,5 cucharadas de aceite, sal y pimienta, y colócalas en capas algo apretadas. Cubre con papel de aluminio y hornea 20 minutos.",
+    "Precalienta el horno a 200 °C. Corta la berenjena, el calabacín, la patata y la cebolla en rodajas de medio centímetro; ralla 1 tomate y corta los otros 2 en rodajas. Lamina el ajo.",
+    "Mezcla las verduras en una fuente con el tomate rallado, el ajo, la mitad del orégano, 1,5 cucharadas de aceite, sal y pimienta, y colócalas en capas algo apretadas. Cubre con papel de aluminio y hornea 20 minutos.",
     "Mientras, sazona el pollo con el resto del orégano, sal, pimienta y el resto del aceite.",
-    "Destapa la fuente, coloca el pollo encima y hornea 30 minutos más, hasta que el pollo esté dorado y las verduras blandas y confitadas en su jugo.",
-    "Desmenuza el feta por encima, gratina 3 minutos y termina con perejil picado."
+    "Destapa la fuente, coloca el pollo encima y hornea 30 minutos más, hasta que el pollo esté dorado y las verduras blandas y confitadas en su jugo. Mientras, pica el perejil.",
+    "Desmenuza el feta por encima, gratina 3 minutos y termina con el perejil picado."
   ],
   nutricion: { kcal: 594, prot: 44, hc: 33, grasa: 32 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "ideal para llevar", "verano", "poco especiada"],
@@ -1040,7 +1045,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados grandes, alíñala con 1 cucharada de aceite y sal y ásala 20–25 minutos, hasta que esté dorada y cremosa por dentro.",

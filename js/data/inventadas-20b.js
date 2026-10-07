@@ -28,7 +28,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana, lamina los ajos y corta el calabacín en rodajas gruesas (con piel). Pon la olla exprés destapada a fuego medio y tuesta las almendras en seco 2-3 minutos, removiendo, hasta que huelan a turrón y estén doradas. Resérvalas en un plato.",
@@ -122,9 +123,9 @@ window.RECETAS_SEED.push({
     "Pica fina la cebolla y pica el ajo. Con la olla destapada a fuego medio, calienta el aceite y sofríe la cebolla 3 minutos, hasta que esté transparente. Añade el ajo y el orégano y remueve 30 segundos.",
     "Incorpora el orzo y nacáralo 1 minuto removiendo. Vierte el vino y deja que se evapore casi del todo.",
     "Añade el tomate triturado y el caldo, sala con moderación y rasca bien el fondo con una cuchara de madera para que no quede nada pegado (evita que salte el aviso de quemado).",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 4 minutos. Despresuriza de forma rápida abriendo la válvula.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 4 minutos. Mientras, pica el eneldo y desmiga la feta. Despresuriza de forma rápida abriendo la válvula.",
     "Abre, remueve el orzo (estará meloso) e incorpora los langostinos salpimentados. Pon la tapa sin cerrar y deja 3 minutos a fuego suave, removiendo una vez, hasta que estén rosados.",
-    "Apaga, añade la mitad del feta desmigado, el eneldo picado y la ralladura de limón y mezcla. Sirve con el resto del feta por encima y un hilo de aceite."
+    "Apaga, añade la mitad del feta, el eneldo picado y la ralladura de limón y mezcla. Sirve con el resto del feta por encima y un hilo de aceite."
   ],
   nutricion: { kcal: 586, prot: 40, hc: 66, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "sin verduras", "poco especiada"],
@@ -167,8 +168,8 @@ window.RECETAS_SEED.push({
     "Mezcla el pollo con la ralladura del limón, el orégano, el pimentón, sal y pimienta. Pica la cebolla, el pimiento y el ajo y ralla el tomate.",
     "Con la olla destapada a fuego fuerte, calienta el aceite y dora el pollo 3 minutos, hasta que tome color por fuera (no hace falta que se haga por dentro). Añade la cebolla y el pimiento picados y saltea 2 minutos.",
     "Incorpora el ajo picado, el tomate rallado y el bulgur y remueve 1 minuto. Vierte el caldo y el zumo de medio limón y rasca bien el fondo.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 4 minutos. Retira del fuego y deja que baje la presión de forma natural 3 minutos; después abre la válvula para liberar el resto.",
-    "Abre, esponja el bulgur con un tenedor y comprueba la sal. Sirve con perejil picado, una cucharada de yogur griego y unas gotas más de limón."
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 4 minutos. Retira del fuego y deja que baje la presión de forma natural 3 minutos; después abre la válvula para liberar el resto. Mientras, pica el perejil.",
+    "Abre, esponja el bulgur con un tenedor y comprueba la sal. Sirve con el perejil picado, una cucharada de yogur griego y unas gotas más de limón."
   ],
   nutricion: { kcal: 581, prot: 45, hc: 62, grasa: 17 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "batch cooking", "alta en proteína", "poco especiada", "bajo en colesterol"],
@@ -292,10 +293,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla, corta el hinojo en láminas finas, pica 2 ajos y ralla el tomate. Con la olla destapada a fuego medio, calienta el aceite y rehoga la cebolla y el hinojo con los ajos durante 4 minutos, hasta que estén tiernos y fragantes.",
     "Añade el tomate rallado y el pimentón y cocina 2 minutos. Incorpora el caldo, las tiras de piel de naranja y el azafrán desmenuzado entre los dedos.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 4 minutos. Despresuriza de forma rápida abriendo la válvula.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 4 minutos. Mientras, pica el perejil. Despresuriza de forma rápida abriendo la válvula.",
     "Abre, retira la piel de naranja y ajusta de sal. Añade la merluza y las gambas, pon la tapa sin cerrar y deja a fuego suave, sin que hierva a borbotones, 3-4 minutos, hasta que el pescado se separe en lascas y las gambas estén rosadas.",
     "Mientras, tuesta el pan y frótalo con el ajo restante cortado por la mitad.",
-    "Sirve la sopa en platos hondos con perejil picado y las tostas al ajo para mojar."
+    "Sirve la sopa en platos hondos con el perejil picado y las tostas al ajo para mojar."
   ],
   nutricion: { kcal: 374, prot: 36, hc: 26, grasa: 14 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "invierno", "poco especiada"],
@@ -337,7 +338,7 @@ window.RECETAS_SEED.push({
     "Corta la patata en rodajas de 1 cm y el calabacín en rodajas de 2 cm (más grueso para que no se deshaga). Corta la cebolla en gajos y lamina el ajo.",
     "Con la olla destapada a fuego medio, calienta 2 cucharadas de aceite y sofríe la cebolla 3 minutos con el ajo laminado. Añade el orégano y remueve.",
     "Pon una capa de patata, los garbanzos y encima el calabacín. Vierte el tomate mezclado con el agua, sal y pimienta. No remuevas.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 3 minutos. Despresuriza de forma rápida abriendo la válvula.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 3 minutos. Mientras, pica el perejil y la menta. Despresuriza de forma rápida abriendo la válvula.",
     "Abre, comprueba que la patata está tierna (si no, deja 2 minutos más sin tapa a fuego suave) y ajusta de sal.",
     "Sirve con la feta desmigada, el perejil y la menta picados y la última cucharada de aceite en crudo."
   ],
@@ -373,15 +374,16 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pimiento en tiras y las judías verdes en trozos de 3 cm, pica el ajo y ralla el tomate. Con la olla destapada a fuego fuerte, calienta el aceite y saltea el calamar 3 minutos, hasta que suelte el agua y esta casi se evapore. Sala.",
     "Añade el pimiento y las judías verdes y rehoga 3 minutos. Incorpora el ajo y el tomate y cocina 3 minutos más, hasta que el sofrito se oscurezca un poco.",
     "Aparta del fuego, añade el pimentón y remueve 10 segundos. Incorpora el arroz y remueve para que se impregne.",
     "Vierte el caldo caliente, ajusta de sal (debe quedar un pelín salado) y rasca bien el fondo.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Despresuriza de forma rápida abriendo la válvula.",
-    "Abre, remueve una vez y deja reposar 2 minutos: el arroz terminará de hacerse y el caldo espesará ligeramente. Sirve con perejil picado y cuñas de limón."
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Mientras, pica el perejil y corta el limón en cuñas. Despresuriza de forma rápida abriendo la válvula.",
+    "Abre, remueve una vez y deja reposar 2 minutos: el arroz terminará de hacerse y el caldo espesará ligeramente. Sirve con el perejil picado y las cuñas de limón."
   ],
   nutricion: { kcal: 552, prot: 30, hc: 72, grasa: 16 },
   etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "poco especiada"],
@@ -423,9 +425,9 @@ window.RECETAS_SEED.push({
     "Pica la cebolla, el pimiento y el ajo. Con la olla destapada a fuego medio-alto, calienta el aceite y marca la sepia 3 minutos, hasta que pierda el agua y empiece a dorarse.",
     "Añade la cebolla y el pimiento picados y sofríe 5 minutos, hasta que estén blandos. Incorpora el ajo picado, el comino y el pimentón y remueve 20 segundos.",
     "Vierte el vino y deja que se evapore 1 minuto. Añade el tomate, el agua, el laurel, unas ramitas de hierbabuena y sal.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 10 minutos. Retira del fuego y deja que baje la presión de forma natural.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 10 minutos. Retira del fuego y deja que baje la presión de forma natural. Mientras, pica unas hojas de hierbabuena fresca.",
     "Abre, retira el laurel y la hierbabuena cocida, añade los garbanzos y cocina sin tapa 5 minutos a fuego suave, hasta que la salsa trabe y los garbanzos se impregnen.",
-    "Sirve con hojas de hierbabuena fresca picada por encima."
+    "Sirve con la hierbabuena fresca picada por encima."
   ],
   nutricion: { kcal: 502, prot: 40, hc: 45, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "invierno", "poco especiada"],
@@ -508,12 +510,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica muy finos el ajo, la menta y el perejil y mézclalos con 2 cucharadas de aceite, sal y pimienta.",
+    "Pica muy finos el ajo, la menta y el perejil; reserva un poco de menta para servir y mezcla el resto con 2 cucharadas de aceite, sal y pimienta.",
     "Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas y amarillentas, corta un tercio de la punta, pela el tallo dejando unos 4 cm y frótalas con limón. Ábrelas un poco con los dedos y rellena el centro con la mezcla de hierbas.",
     "Coloca las alcachofas en la olla boca abajo, con el tallo hacia arriba, y rodéalas con las patatas enteras lavadas. Riega con el vino, el agua, el zumo de medio limón y las 2 cucharadas de aceite restantes. Coloca los huevos enteros (con cáscara) encima, entre las patatas.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Despresuriza de forma rápida abriendo la válvula.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Mientras, saca lascas al parmesano con un pelador. Despresuriza de forma rápida abriendo la válvula.",
     "Pasa los huevos a un bol con agua fría 2 minutos, pélalos y pártelos por la mitad. Comprueba que las alcachofas se atraviesan fácilmente con un cuchillo por la base.",
-    "Sirve las alcachofas y las patatas aplastadas ligeramente, riega con el jugo de la olla, añade los huevos y termina con lascas de parmesano y más menta picada."
+    "Sirve las alcachofas y las patatas aplastadas ligeramente, riega con el jugo de la olla, añade los huevos y termina con las lascas de parmesano y la menta picada reservada."
   ],
   nutricion: { kcal: 456, prot: 20, hc: 40, grasa: 24 },
   etiquetas: ["mediterránea", "aromática", "ligera", "invierno", "poco especiada"],
@@ -647,7 +649,7 @@ window.RECETAS_SEED.push({
     "Pica finos la chalota y el ajo. Con la olla destapada a fuego medio, calienta el aceite y sofríelos 3 minutos, sin que tomen color.",
     "Añade el arroz y nacáralo 1-2 minutos removiendo, hasta que los granos estén translúcidos por los bordes. Vierte el vino y deja que se evapore.",
     "Incorpora el caldo caliente y la ralladura de medio limón, sala con moderación y rasca el fondo.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Despresuriza de forma rápida abriendo la válvula.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Mientras, pica la menta. Despresuriza de forma rápida abriendo la válvula.",
     "Abre y, a fuego suave, añade los guisantes y las gambas salpimentadas. Remueve con energía 2-3 minutos, hasta que las gambas estén rosadas y el arroz suelte su almidón y quede meloso.",
     "Apaga y manteca con la mantequilla, el parmesano, el zumo de medio limón y la menta picada. Tapa 1 minuto y sirve con el resto de la ralladura por encima."
   ],
@@ -730,7 +732,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el farro en un colador. Salpimienta el pollo. Trocea las setas, pica la cebolla y la zanahoria y lamina el ajo.",
@@ -774,7 +777,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta y el ajo. Salpimienta la ternera y pásala por la harina. Con la olla destapada a fuego fuerte, calienta el aceite y dórala en dos tandas, 3 minutos cada una, hasta que tenga costra. Resérvala.",
@@ -1054,9 +1058,9 @@ window.RECETAS_SEED.push({
     "Remojo exprés: pon las judías lavadas en la olla con 1 litro de agua (aparte de la de la receta). Cierra a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 2 minutos. Apaga y deja reposar con la olla cerrada 1 hora; mientras, corta en dados pequeños la cebolla, la zanahoria y el apio y pica el ajo. Despresuriza, escurre y enjuaga.",
     "Con la olla vacía y destapada a fuego medio, calienta 2 cucharadas de aceite y sofríe la cebolla, la zanahoria y el apio 5 minutos. Añade el ajo, el tomate concentrado y el orégano y remueve 1 minuto.",
     "Incorpora las judías escurridas, el tomate triturado, el laurel y los 800 ml de agua. No añadas sal todavía.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 15 minutos. Retira del fuego y deja que baje la presión de forma natural, unos 15 minutos.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 15 minutos. Retira del fuego y deja que baje la presión de forma natural, unos 15 minutos. Mientras, pica el perejil.",
     "Abre, retira el laurel, sala y comprueba que las judías estén cremosas. Aplasta un cazo de ellas contra la pared y cuece 3 minutos sin tapa para espesar la sopa.",
-    "Fuera del fuego, añade el zumo de medio limón y las 2 cucharadas de aceite restantes en crudo. Sirve con perejil picado y aceitunas negras al lado."
+    "Fuera del fuego, añade el zumo de medio limón y las 2 cucharadas de aceite restantes en crudo. Sirve con el perejil picado y aceitunas negras al lado."
   ],
   nutricion: { kcal: 466, prot: 18, hc: 58, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "invierno", "batch cooking", "económica", "detox", "poco especiada", "bajo en colesterol"],
@@ -1093,7 +1097,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "En un bol, cubre los jarretes con el vino, 4 ajos aplastados, el romero y el laurel. Deja marinar 1 hora en la nevera, girándolos a media marinada. Mientras, pica la cebolla y la zanahoria.",

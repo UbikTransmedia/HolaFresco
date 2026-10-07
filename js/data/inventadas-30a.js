@@ -33,7 +33,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 6, u: "ud", nota: "mejor de botija" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la pechuga en una cazuela con 600 ml de agua, sal y media cebolla. Cuécela a fuego suave 20 minutos, hasta que esté hecha por dentro. Sácala, deja templar y deshiláchala con dos tenedores. Guarda el caldo.",
@@ -78,7 +79,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "más aceite de girasol para freír" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz: lávalo, ponlo con 240 ml de agua, sal y una gota de aceite, tapa y cuece 12 minutos a fuego mínimo. Deja reposar tapado. Mientras, corta la carne en tiras gruesas, la cebolla y el tomate en gajos, y pica el ajo y el cilantro.",
@@ -124,7 +126,9 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud", nota: "para la ensalada" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
+    { n: "vinagre de vino", u: "al gusto" },
   ],
   pasos: [
     "Haz la masa: en un bol mezcla la harina con 1 cucharadita de sal y la manteca, frotando con los dedos hasta que parezca arena. Añade unos 100 ml de agua tibia poco a poco y amasa 3 minutos hasta tener una masa lisa que no se pegue. Tápala y deja reposar 30 minutos.",
@@ -170,7 +174,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "queso fresco", q: 40, u: "g", opcional: true, nota: "rallado, para las caraotas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la falda en una cazuela con 1,5 l de agua, el laurel, sal y un trozo de cebolla. Cuécela a fuego suave, tapada a medias, 1 h 30 min, hasta que se deshaga en hebras al apretarla con un tenedor. Guarda el caldo. Mientras, pica la cebolla, el pimiento y el ajo y ralla el tomate.",
@@ -213,7 +218,8 @@ window.RECETAS_SEED.push({
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon en una cazuela el pollo, las cebolletas en trozos, el ajo machacado, unas ramas de cilantro y 1,5 l de agua con sal. Lleva a ebullición, espuma y cuece a fuego suave 30 minutos, hasta que el pollo esté tierno. Mientras, pela las patatas: corta la harinosa en rodajas finas y la firme en trozos más grandes.",
@@ -256,7 +262,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 4, u: "ud" },
     { n: "perejil fresco", q: 2, u: "rama", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 25-30 minutos, hasta que un cuchillo entre sin resistencia. A la vez, cuece el huevo 10 minutos y enfríalo en agua. Mientras se cuecen las patatas, exprime las limas, pica la cebolla morada muy fina y mézclala con el atún desmigado, la mayonesa y unas gotas de lima.",
@@ -301,7 +308,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 2, u: "ud", nota: "para la grasita" },
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "En una cazuela grande, dora la panceta a fuego medio 5 minutos sin aceite hasta que suelte su grasa; mientras, pica la cebolla y el ajo. Añade la falda y dórala por todos lados 5 minutos más.",
@@ -349,7 +357,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y el ajo y ralla el tomate. Salpimienta la carne y dórala en la cazuela con el aceite a fuego fuerte, en dos tandas, 4-5 minutos por tanda, hasta que tenga costra. Sácala.",
@@ -393,7 +402,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura el cilantro (hojas y tallos tiernos) con 100 ml de agua hasta tener un puré verde. Resérvalo y pica la cebolla y el ajo.",
@@ -436,7 +446,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 1, u: "ud" },
     { n: "aceitunas negras", q: 6, u: "ud" },
     { n: "lechuga romana", q: 4, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 25 minutos, hasta que estén tiernas pero enteras. En el mismo cazo, cuece el huevo los últimos 10 minutos.",
@@ -478,7 +489,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el cerdo en una cazuela con media cebolla, un diente de ajo, el orégano, sal y agua que lo cubra. Cuece tapado a fuego suave 45 minutos, hasta que esté tierno. Mientras, pica los rábanos y el cilantro y mézclalos con el zumo de media lima y sal.",
@@ -609,7 +621,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 3, u: "rama" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y escúrrelo muy bien. Tritura el tomate con la cebolla y el ajo hasta tener un puré fino. Pela la zanahoria y córtala en dados pequeños.",
@@ -698,7 +711,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "plátano macho", q: 0.5, u: "ud", nota: "muy maduro" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre los frijoles reservando su líquido y completa con agua hasta tener 260 ml. Lava el arroz y escúrrelo. Pica la cebolla, el pimiento y el ajo.",
@@ -743,7 +757,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 80, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado en 160 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y deja reposar.",
@@ -793,7 +808,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en gajos y ralla el tomate. En una cazuela grande, rehoga el cordero con el aceite, la cebolla, el jengibre, la cúrcuma, la canela, el azafrán, sal y pimienta a fuego medio 10 minutos, removiendo, hasta que la carne coja color y la cebolla se ablande.",
@@ -838,7 +854,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la cebolla o pícala muy fina y machaca el ajo. Pica juntos el perejil y el cilantro.",
@@ -880,7 +897,8 @@ window.RECETAS_SEED.push({
     { n: "granada", q: 0.25, u: "ud", opcional: true, nota: "granos, para decorar" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta las nueces en una sartén seca a fuego medio-bajo 5-6 minutos, removiendo, hasta que huelan. Deja enfriar y tritúralas hasta tener una harina húmeda, casi una pasta.",
@@ -960,7 +978,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "fideos finos", q: 20, u: "g" },
     { n: "menta seca", q: 0.5, u: "cdta", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre las alubias (puestas en remojo la víspera), cúbrelas con agua fría en una cazuela, lleva a ebullición, cuece 5 minutos y tira el agua. Vuelve a cubrirlas con 1 l de agua limpia y cuece a fuego suave 1 hora, hasta que estén casi tiernas. Mientras, pica la cebolla y el pimiento y ralla el tomate.",
@@ -1000,7 +1019,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 3, u: "rama" },
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para el agua de escalfar" },
     { n: "pan", q: 4, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el yogur con el ajo rallado y una pizca de sal. Repártelo en dos platos hondos y deja que pierda el frío mientras escalfas.",
@@ -1044,7 +1064,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "azafrán", q: 1, u: "pizca", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz en varias aguas hasta que salga clara y déjalo en remojo con agua y sal 20 minutos. Mientras, pon a hervir 1,5 l de agua con una cucharada de sal y pica muy finas todas las hierbas y el ajo.",
@@ -1089,7 +1110,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "menta seca", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cubre el bulgur con agua fría 15 minutos; mientras, pica una cebolla y trocea la otra. Escúrrelo y apriétalo con las manos para quitarle toda el agua.",

@@ -514,7 +514,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Lava las acelgas, separa las pencas de las hojas, corta las pencas en dados y las hojas en tiras, y pica el ajo. Saltéalas en una sartén con 1 cucharadita de aceite y el ajo: las pencas 4 minutos y las hojas 3 más, hasta que se reduzcan. Escúrrelas apretando bien para quitarles el agua y deja que templen. Mientras, pica la mejorana.",
@@ -555,7 +556,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 2, u: "ud", nota: "o pan plano tipo lavash" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las espinacas y escúrrelas; si las hojas son grandes, trocéalas. Corta la cebolla en juliana fina. Pica 2 dientes de ajo.",

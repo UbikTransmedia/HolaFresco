@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza, tostado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las judías en remojo en abundante agua fría. El día de la garbure, ponlas escurridas con la panceta en una cazuela grande con 1,8 litros de agua fría, el tomillo y el laurel. Lleva a ebullición, desespuma y cuece a fuego suave 1 hora.",
@@ -69,7 +70,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en una cazuela con 1,5 litros de agua fría, la parte verde de los puerros, la zanahoria entera, el tomillo y el laurel. Lleva a ebullición y desespuma bien.",
@@ -110,7 +112,8 @@ window.RECETAS_SEED.push({
     { n: "col blanca", q: 100, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el cordero en una cazuela con 1,8 litros de agua fría. Lleva a ebullición y retira la espuma durante 10 minutos.",
@@ -148,7 +151,8 @@ window.RECETAS_SEED.push({
     { n: "chorizo", q: 70, u: "g", nota: "ahumado" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 2, u: "rebanada", opcional: true, nota: "de maíz, para acompañar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea las patatas, la cebolla y los ajos. Ponlos en una cazuela con 1 litro de agua, 1 cucharada de aceite y sal y cuece 18 minutos, hasta que la patata esté muy tierna.",
@@ -188,7 +192,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. El día de la sopa, ponlas escurridas en una cazuela con la panceta, el laurel y 1,8 litros de agua fría. Lleva a ebullición, desespuma y cuece a fuego suave 1 hora. Mientras, pica la cebolla y los ajos y corta la zanahoria en rodajas.",
@@ -224,7 +229,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal gruesa", q: 1, u: "cdta" },
-    { n: "aceitunas negras", q: 1, u: "puñado", opcional: true, nota: "para acompañar" }
+    { n: "aceitunas negras", q: 1, u: "puñado", opcional: true, nota: "para acompañar" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon 1 litro de agua con sal a hervir en una cazuela. Mientras se calienta, machaca en el mortero (o pica muy fino) los ajos con la sal gruesa y el cilantro, tallos incluidos, hasta tener una pasta verde. Añade el aceite y mezcla. Reparte esta pasta en el fondo de dos cuencos hondos.",
@@ -261,7 +267,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "hierbabuena fresca", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en una cazuela con 1,3 litros de agua fría, la cebolla partida por la mitad y la zanahoria. Lleva a ebullición y desespuma.",
@@ -303,7 +310,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "yogur griego natural", q: 2, u: "cda", nota: "en lugar de la smetana" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la ternera en una cazuela con 1,5 litros de agua fría y el laurel. Lleva a ebullición, desespuma y cuece a fuego suave 50 minutos, hasta que esté tierna.",
@@ -430,7 +438,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 20, u: "g", nota: "o pecorino" },
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las cebollas en juliana fina y el apio en rodajas. Póchalos en una cazuela con el aceite y la guindilla a fuego suave 15 minutos, removiendo de vez en cuando, hasta que la cebolla esté muy blanda y dorada. Mientras, pon a calentar 700 ml de agua, pica las acelgas y ralla el queso.",
@@ -467,7 +476,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 20, u: "g" },
     { n: "parmesano", q: 30, u: "g", nota: "rallado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta dos cuencos de sopa con agua caliente (así el huevo se cocina mejor). Pon el caldo a hervir en una cazuela y sálalo.",
@@ -509,7 +519,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las espinas y cabezas en una cazuela con 1,3 litros de agua fría y media cebolla. Lleva a ebullición, desespuma y cuece 25 minutos a fuego suave. Mientras, pela las patatas y las zanahorias y córtalas en trozos grandes; trocea el apio y la otra media cebolla, y corta el rape en trozos grandes. Cuela el caldo.",
@@ -552,7 +563,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón picante", q: 0.5, u: "cdta" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta el caldo en un cazo. Lava las lentejas, el bulgur y el arroz en un colador hasta que el agua salga clara.",
@@ -596,7 +608,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "tortillas de maíz", q: 4, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la carne y los huesos en una cazuela grande con 2,5 litros de agua fría, media cebolla y los ajos. Lleva a ebullición y desespuma durante 10 minutos.",
@@ -682,7 +695,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 1, u: "ud" },
     { n: "caldo de pollo", q: 900, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el arroz en remojo en agua caliente 10 minutos. Mientras, pica la hierbabuena, corta la zanahoria en rodajas, pela la patata y córtala en dados y corta el calabacín en dados. Escurre el arroz.",
@@ -814,7 +828,8 @@ window.RECETAS_SEED.push({
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "aguacate", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en una cazuela con 1,5 litros de agua fría, las cebolletas enteras, los ajos y unos tallos de cilantro. Lleva a ebullición, desespuma y cuece a fuego suave 35 minutos.",
@@ -857,7 +872,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud", nota: "para la salsa" },
     { n: "guindilla seca", q: 1, u: "ud", nota: "para la salsa" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la ternera y la panceta en trozos en una cazuela grande con 1,5 litros de agua. Lleva a ebullición, desespuma y cuece a fuego suave 1 hora. Mientras, pela la calabaza y córtala en dados.",
@@ -901,7 +917,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pan", q: 2, u: "rebanada", nota: "tostado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Una hora antes, pon las almejas en agua con sal para que suelten la arena. Escúrrelas y ponlas en una cazuela con 300 ml de agua, tapa y cuece a fuego fuerte 3-4 minutos, hasta que se abran. Sácalas, separa la carne de las conchas y cuela el caldo con un paño o papel de cocina para quitar la arena.",
@@ -990,7 +1007,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.25, u: "cdta" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y el pimiento y la zanahoria en tiras, pela los ajos y pon a calentar 1,8 litros de agua. Sala la carne y dórala en una cazuela con el aceite a fuego fuerte 3 minutos por lado. Añade la cebolla, los ajos, el pimiento, la zanahoria, el orégano y el comino, y rehoga 5 minutos.",

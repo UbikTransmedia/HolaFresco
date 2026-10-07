@@ -31,16 +31,17 @@ window.RECETAS_SEED.push({
     { n: "yogur natural", q: 125, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Prepara la raita: ralla el pepino, apriétalo con las manos para quitarle el agua y mézclalo con el yogur, una pizca de sal y un poco de cilantro picado. Reserva en la nevera.",
+    "Pica el cilantro. Prepara la raita: ralla el pepino, apriétalo con las manos para quitarle el agua y mézclalo con el yogur, una pizca de sal y un poco del cilantro. Reserva en la nevera.",
     "Pica fina la cebolla, el tomate (sin las semillas) y el chile; ralla el jengibre y el ajo. Bate los huevos en un bol con una pizca de sal.",
     "Derrite la mantequilla en una sartén a fuego medio y tuesta el comino 30 segundos, hasta que chisporrotee y huela. Añade la cebolla y sofríe 4 minutos, hasta que esté blanda.",
     "Incorpora el jengibre, el ajo y el chile, remueve 1 minuto y añade el tomate, la cúrcuma y el garam masala. Cocina 3 minutos, hasta que el tomate se deshaga en una pasta.",
     "Baja el fuego al mínimo, vierte los huevos y remueve sin parar con una espátula durante 2-3 minutos, rascando el fondo: retíralos cuando estén cuajados pero todavía jugosos.",
     "Mientras, calienta los naan en otra sartén seca 1 minuto por lado, hasta que se inflen y tomen algún punto tostado.",
-    "Sirve el bhurji con cilantro picado por encima, el naan caliente para cogerlo con las manos y la raita fría al lado."
+    "Sirve el bhurji con el resto del cilantro por encima, el naan caliente para cogerlo con las manos y la raita fría al lado."
   ],
   nutricion: { kcal: 540, prot: 24, hc: 52, grasa: 26 },
   etiquetas: ["rápida", "económica", "una sola sartén", "picante"],
@@ -73,10 +74,11 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a calentar un cazo con 1 litro de agua y el vinagre. Mientras, mezcla la ricotta con la ralladura de medio limón, una cucharada de su zumo, sal y pimienta, y reserva. Pica el ajo.",
+    "Pon a calentar un cazo con 1 litro de agua y el vinagre. Mientras, ralla la piel del limón y mezcla la ricotta con la mitad de la ralladura, una cucharada de zumo, sal y pimienta, y reserva. Pica el ajo.",
     "Desmiga el pan en trozos pequeños. Dóralo en una sartén con 1 cucharada de aceite y el ajo picado a fuego medio, 3-4 minutos, removiendo hasta que esté crujiente y dorado. Sala y reserva sobre papel.",
     "Corta los calabacines a lo largo en láminas de medio centímetro. Úntalas con el resto del aceite y hazlas en la plancha muy caliente 2 minutos por lado, hasta que tengan marcas y estén tiernas pero firmes. Sala.",
     "Baja el agua del cazo a un hervor suave. Casca cada huevo en un colador fino para quitar la clara líquida y luego en un vaso.",
@@ -156,7 +158,8 @@ window.RECETAS_SEED.push({
     { n: "tomate concentrado", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "o aceite neutro" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 210 ml de agua y una pizca de sal: lleva a hervor, tapa y deja 12 minutos a fuego mínimo. Apaga y deja reposar tapado 5 minutos.",
@@ -200,7 +203,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con gratinador.",
@@ -208,8 +212,8 @@ window.RECETAS_SEED.push({
     "Pica fino el resto de la cebolla y el ajo y póchalos en la sartén con el aceite 4 minutos. Añade el comino y las alubias escurridas con 4 cucharadas de agua.",
     "Cocina 5 minutos aplastando las alubias con un tenedor o un machacador, hasta obtener un puré espeso y untuoso. Sala.",
     "Abre los panes por la mitad, retira un poco de miga y tuéstalos en el horno 2-3 minutos, hasta que estén firmes.",
-    "Unta cada mitad con una capa generosa de frijoles, cubre con el queso y gratina 4-5 minutos, hasta que burbujee y se dore por los bordes.",
-    "Sirve los molletes con el pico de gallo por encima, láminas de aguacate y gajos de lima."
+    "Unta cada mitad con una capa generosa de frijoles, cubre con el queso y gratina 4-5 minutos, hasta que burbujee y se dore por los bordes. Mientras, corta el aguacate en láminas y la otra media lima en gajos.",
+    "Sirve los molletes con el pico de gallo por encima, el aguacate y los gajos de lima."
   ],
   nutricion: { kcal: 700, prot: 30, hc: 80, grasa: 28 },
   etiquetas: ["rápida", "económica", "para niños", "al horno"],
@@ -243,7 +247,8 @@ window.RECETAS_SEED.push({
     { n: "canónigos", q: 1, u: "puñado" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a calentar un cazo con agua y el vinagre. Mientras, mezcla el yogur con la sriracha y una pizca de sal. Corta los rábanos en láminas muy finas y alíñalos con unas gotas de lima.",
@@ -329,11 +334,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Saca las burratas de la nevera 15 minutos antes para que no estén heladas.",
-    "Lamina los ajos y ponlos en una sartén con el aceite a fuego bajo. Cuando empiecen a burbujear, añade los pimientos escurridos y abiertos en tiras.",
+    "Saca las burratas de la nevera 15 minutos antes para que no estén heladas. Mientras, lamina los ajos, escurre los pimientos y ábrelos en tiras, y ralla el tomate.",
+    "Pon los ajos en una sartén con el aceite a fuego bajo. Cuando empiecen a burbujear, añade los pimientos.",
     "Confita los pimientos 8-10 minutos a fuego bajo, dándoles la vuelta, hasta que estén muy tiernos y brillantes. Añade el vinagre de Jerez, el azúcar y sal, y deja reducir 1 minuto.",
     "Tuesta los piñones en otra sartén seca a fuego medio 2-3 minutos, moviendo sin parar, hasta que estén dorados. Retíralos enseguida.",
-    "Tuesta el pan y frótalo con el tomate rallado; sala y añade unas gotas del aceite de confitar.",
+    "Tuesta el pan y frótalo con el tomate; sala y añade unas gotas del aceite de confitar.",
     "Reparte los pimientos templados con su jugo en dos platos, abre la burrata en el centro y termina con los piñones, la rúcula y el aceite de ajo. Sirve con el pan con tomate."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 48, grasa: 36 },
@@ -369,7 +374,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.25, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las tortillas en 6 triángulos, píntalas con 2 cucharadas de aceite y sal y hornéalas 10-12 minutos en una bandeja, dándoles la vuelta a mitad, hasta que estén crujientes.",
@@ -414,16 +420,17 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Parte los extremos leñosos de los espárragos. Corta las puntas y reserva; trocea los tallos en rodajas de 1 cm.",
+    "Parte los extremos leñosos de los espárragos. Corta las puntas y reserva; trocea los tallos en rodajas de 1 cm. Ralla el parmesano y pica la menta.",
     "Pica la chalota y el ajo y póchalos en la cazuela con el aceite a fuego medio 3 minutos, hasta que estén transparentes.",
     "Añade el orzo y nácaralo 1 minuto removiendo. Vierte el vino y deja que se evapore.",
     "Incorpora el caldo caliente en tres tandas, removiendo a menudo, como un risotto. A los 5 minutos añade los tallos de espárrago.",
     "A los 8 minutos añade las puntas y los guisantes. Cocina 3-4 minutos más, hasta que el orzo esté al dente y envuelto en una salsa cremosa; si se seca, añade un chorrito de agua caliente.",
-    "Fuera del fuego, incorpora la mantequilla, el parmesano rallado, la ralladura del limón y 2 cucharadas de su zumo. Remueve con energía 30 segundos para ligar.",
-    "Sirve con el feta desmenuzado, menta picada y pimienta recién molida."
+    "Fuera del fuego, incorpora la mantequilla, el parmesano, la ralladura del limón y 2 cucharadas de su zumo. Remueve con energía 30 segundos para ligar.",
+    "Sirve con el feta desmenuzado, la menta picada y pimienta recién molida."
   ],
   nutricion: { kcal: 610, prot: 26, hc: 76, grasa: 22 },
   etiquetas: ["primavera", "una sola cazuela", "para niños", "poco especiada"],
@@ -468,7 +475,7 @@ window.RECETAS_SEED.push({
     "Pica gruesas las nueces. Bate los huevos con la cúrcuma, la harina, la levadura y sal; añade las hierbas, las nueces y los arándanos y mezcla bien.",
     "Calienta el aceite en una sartén de 20 cm a fuego medio-bajo. Vierte la mezcla, alisa y tapa. Cocina 10-12 minutos, hasta que los bordes estén cuajados y el centro casi firme.",
     "Dale la vuelta con ayuda de un plato y cocina 4-5 minutos más por el otro lado, hasta que esté dorado y firme al presionar.",
-    "Mientras, mezcla el yogur con el ajo rallado y sal. Corta los tomates en gajos y alíñalos con sal y un hilo de aceite.",
+    "Mientras, ralla el ajo y mézclalo con el yogur y sal. Corta los tomates en gajos y alíñalos con sal y un hilo de aceite.",
     "Calienta la pita en la sartén o la tostadora.",
     "Corta el kuku en cuñas y sírvelo templado con el yogur al ajo, la ensalada de tomate y la pita."
   ],
@@ -504,7 +511,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia y corta el puerro en rodajas y pela y trocea la patata en dados pequeños. Rehógalos en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos, sin que se doren.",
@@ -546,15 +554,16 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda", nota: "o aceite neutro" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 190 ml de agua: lleva a hervor, tapa y deja 12 minutos a fuego mínimo y 10 de reposo tapado.",
-    "Corta el pepino en rodajas finas, sálalo 5 minutos, escúrrelo apretando y mézclalo con el vinagre de arroz, 1 cucharadita de azúcar y el sésamo.",
+    "Mientras, corta el pepino en rodajas finas, sálalo 5 minutos, escúrrelo apretando y mézclalo con el vinagre de arroz, 1 cucharadita de azúcar y el sésamo. Corta la cebolleta en aros.",
     "Bate los huevos sin hacer espuma con 1 cucharada de soja, el resto del azúcar y 2 cucharadas de agua. Cuélalos para una textura más fina.",
     "Calienta una sartén pequeña (mejor rectangular) a fuego medio-bajo y engrásala con papel empapado en aceite. Vierte una capa fina de huevo; cuando esté casi cuajada por encima, enróllala hacia ti con unos palillos o espátula.",
     "Empuja el rollo al fondo, engrasa, vierte otra capa levantando el rollo para que el huevo corra por debajo y enrolla de nuevo. Repite hasta acabar el huevo (5-6 capas). Deja reposar el rollo 3 minutos envuelto en papel de horno y córtalo en 8 piezas.",
-    "Calienta 500 ml de agua sin que hierva, disuelve el miso con un poco de ese agua y añade la wakame y la cebolleta en aros. No dejes que vuelva a hervir.",
+    "Calienta 500 ml de agua sin que hierva, disuelve el miso con un poco de ese agua y añade la wakame y la cebolleta. No dejes que vuelva a hervir.",
     "Sirve en cada bandeja un bol de arroz con unas gotas del resto de soja, las piezas de tamagoyaki, el pepino encurtido y el cuenco de caldo de miso."
   ],
   nutricion: { kcal: 470, prot: 20, hc: 70, grasa: 12 },
@@ -589,7 +598,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 25, u: "g" },
     { n: "yogur natural", q: 250, u: "g" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en trozos y cuécela en agua con sal 15 minutos, hasta que esté muy tierna. Escúrrela bien y deja que suelte el vapor.",
@@ -686,9 +696,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Pincha las berenjenas varias veces con un tenedor y ásalas enteras sobre una bandeja 40-45 minutos, dándoles la vuelta a mitad, hasta que la piel esté arrugada y la carne se hunda al presionar.",
     "Escurre y seca muy bien los garbanzos, mézclalos con el aceite, el pimentón y sal, y hornéalos en otra bandeja los últimos 20 minutos, hasta que estén crujientes.",
-    "Mezcla el yogur con el ajo rallado, el zumo del limón y sal.",
+    "Mientras se asan, ralla el ajo y mézclalo con el yogur, el zumo del limón y sal.",
     "Desgrana la granada y pica las hierbas.",
-    "Abre las berenjenas a lo largo sin llegar a separar las mitades, sala la carne y aplástala ligeramente con un tenedor.",
+    "Abre las berenjenas a lo largo sin llegar a separar las mitades, sala la carne y aplástala ligeramente con un tenedor. Mete la pita en el horno 2 minutos para calentarla.",
     "Justo antes de servir, derrite la mantequilla en una sartén pequeña con el comino a fuego medio 1-2 minutos, hasta que espume y huela tostado.",
     "Pon cada berenjena en un plato, cubre con el yogur, rocía la mantequilla de comino caliente y termina con los garbanzos, la granada y las hierbas. Acompaña con la pita caliente."
   ],
@@ -731,11 +741,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la patata, córtala en dados de 1,5 cm y fríela a fuego medio en una sartén con 2 cucharadas de aceite, tapada los primeros 8 minutos y destapada 5 más, hasta que esté tierna y dorada. Mientras, pica la cebolla, el pimiento y el ajo. Sala la patata y reserva.",
     "En la misma sartén, pocha la cebolla, el pimiento y el ajo con el resto del aceite 10 minutos, hasta que estén blandos.",
-    "Aparta del fuego, añade el pimentón, remueve unos segundos y vierte el tomate y el caldo. Cocina 10 minutos a fuego medio, hasta que espese. Sala. Mientras, precalienta el horno a 200 °C.",
-    "Corta los espárragos en trozos de 3 cm, desechando la parte dura, y saltéalos 2 minutos en una sartén con unas gotas de aceite junto con los guisantes.",
+    "Aparta del fuego, añade el pimentón, remueve unos segundos y vierte el tomate y el caldo. Cocina 10 minutos a fuego medio, hasta que espese. Sala. Mientras, precalienta el horno a 200 °C y corta los espárragos en trozos de 3 cm, desechando la parte dura.",
+    "Saltea los espárragos 2 minutos en una sartén con unas gotas de aceite junto con los guisantes.",
     "Reparte el sofrito en dos cazuelitas de barro o una fuente, añade las patatas, los espárragos y los guisantes, y haz cuatro huecos.",
-    "Casca un huevo en cada hueco, sala las claras y hornea 8-10 minutos, hasta que la clara esté blanca y cuajada y la yema todavía tiemble.",
-    "Saca del horno, espolvorea perejil picado y sirve en la misma cazuela, con pan para mojar."
+    "Casca un huevo en cada hueco, sala las claras y hornea 8-10 minutos, hasta que la clara esté blanca y cuajada y la yema todavía tiemble. Mientras, pica el perejil.",
+    "Saca del horno, espolvorea el perejil picado y sirve en la misma cazuela, con pan para mojar."
   ],
   nutricion: { kcal: 560, prot: 22, hc: 52, grasa: 28 },
   etiquetas: ["al horno", "económica", "primavera", "de cazuela", "poco especiada"],
@@ -771,16 +781,17 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las cebollas en plumas finas y cocínalas en una sartén con 15 g de mantequilla y una pizca de sal a fuego medio-bajo 25-30 minutos, removiendo de vez en cuando, hasta que estén muy blandas y de color caramelo.",
     "Mientras, bate en un bol la harina, los huevos, la leche, la nuez moscada y media cucharadita de sal con una cuchara de madera hasta que la masa haga burbujas y caiga en cintas espesas. Deja reposar 10 minutos.",
-    "Prepara la ensalada: corta el pepino en rodajas muy finas y mézclalo con el yogur, el vinagre, el eneldo picado, sal y pimienta. Reserva en frío.",
+    "Prepara la ensalada: pica el eneldo y el cebollino, corta el pepino en rodajas muy finas y mézclalo con el yogur, el vinagre, el eneldo, sal y pimienta. Reserva en frío.",
     "Precalienta el horno a 200 °C con gratinador. Lleva a ebullición una cazuela grande de agua con sal.",
     "Pasa la masa por un rallador de agujeros gruesos o un colador de agujeros grandes directamente sobre el agua, en dos tandas, empujando con una espátula. Cuando los spätzle suban a la superficie (1-2 minutos), sácalos con una espumadera.",
     "En una fuente untada con el resto de la mantequilla, alterna capas de spätzle escurridos y queso rallado, terminando con queso. Gratina 6-8 minutos, hasta que burbujee y esté dorado.",
-    "Sirve con la cebolla caramelizada por encima, cebollino picado y la ensalada de pepino fría al lado."
+    "Sirve con la cebolla caramelizada por encima, el cebollino picado y la ensalada de pepino fría al lado."
   ],
   nutricion: { kcal: 780, prot: 32, hc: 82, grasa: 36 },
   etiquetas: ["invierno", "comfort food", "al horno", "para niños", "poco especiada"],
@@ -821,8 +832,8 @@ window.RECETAS_SEED.push({
     "Mezcla en una fuente las patatas, la cebolla y el pimiento con 3 cucharadas de aceite, sal y pimienta. Riega con el vino y hornea 35-40 minutos, removiendo a mitad, hasta que las patatas estén tiernas y doradas por los bordes.",
     "Cuando falten 10 minutos, limpia las setas con un paño, córtalas en tiras y lamina el ajo. Saltea las setas en una sartén muy caliente con el resto del aceite 4-5 minutos, sin remover al principio para que se doren. Añade el ajo 1 minuto al final, sala y retira.",
     "Mezcla las setas con las patatas en la fuente y haz cuatro huecos.",
-    "Casca los huevos en los huecos y vuelve a hornear 6-8 minutos, hasta que las claras estén cuajadas y las yemas líquidas. (También puedes freírlos aparte con puntilla y ponerlos encima.)",
-    "Saca la fuente, rompe las yemas con un tenedor sobre las patatas para que lo empapen todo, rocía con el aceite de trufa y espolvorea perejil picado. Sirve enseguida."
+    "Casca los huevos en los huecos y vuelve a hornear 6-8 minutos, hasta que las claras estén cuajadas y las yemas líquidas. (También puedes freírlos aparte con puntilla y ponerlos encima.) Mientras, pica el perejil.",
+    "Saca la fuente, rompe las yemas con un tenedor sobre las patatas para que lo empapen todo, rocía con el aceite de trufa y espolvorea el perejil picado. Sirve enseguida."
   ],
   nutricion: { kcal: 630, prot: 20, hc: 56, grasa: 36 },
   etiquetas: ["al horno", "para invitados", "otoño", "poco especiada"],
@@ -910,17 +921,18 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon los anacardos en remojo en agua caliente. Cuece la patata con piel en agua con sal 20-25 minutos, hasta que esté tierna; pélala y deja que se enfríe y pierda el vapor.",
-    "Precalienta el horno a 210 °C. Ralla el paneer y mézclalo con la patata chafada, la maicena, la mitad del cilantro picado, media cucharadita de garam masala y sal. Forma 10 bolas, mete una pasa en el centro de cada una y ciérralas bien.",
+    "Pon los anacardos en remojo en agua caliente. Cuece la patata con piel en agua con sal 20-25 minutos, hasta que esté tierna; mientras, pica el cilantro y la cebolla y ralla el ajo y el jengibre. Pela la patata y deja que se enfríe y pierda el vapor.",
+    "Precalienta el horno a 210 °C. Chafa la patata, ralla el paneer y mézclalos con la maicena, la mitad del cilantro, media cucharadita de garam masala y sal. Forma 10 bolas, mete una pasa en el centro de cada una y ciérralas bien.",
     "Coloca las koftas en una bandeja con papel, píntalas con 1 cucharada de aceite y hornéalas 20 minutos, girándolas a mitad, hasta que estén doradas y firmes.",
     "Mientras se hornean las koftas, lava el arroz y cuécelo con 210 ml de agua y sal: hervor, tapa, 12 minutos a fuego mínimo y 5 de reposo.",
-    "Al mismo tiempo, pica la cebolla y póchala en una cazuela con el resto del aceite y la mantequilla 8 minutos. Añade el ajo y el jengibre rallados y las vainas de cardamomo aplastadas y cocina 1 minuto.",
+    "Al mismo tiempo, pocha la cebolla en una cazuela con el resto del aceite y la mantequilla 8 minutos. Añade el ajo, el jengibre y las vainas de cardamomo aplastadas y cocina 1 minuto.",
     "Agrega el pimentón, el resto del garam masala y el tomate. Cuece 10 minutos a fuego medio. Retira las vainas de cardamomo, añade los anacardos escurridos y tritura todo hasta obtener una salsa muy fina.",
     "Devuelve la salsa a la cazuela con la nata, el azúcar, 100 ml de agua y sal. Cuece 5 minutos a fuego suave, hasta que napé el dorso de una cuchara.",
-    "Pon las koftas en el plato y vierte la salsa caliente justo al servir (si las dejas en ella, se deshacen). Termina con cilantro y acompaña con el arroz."
+    "Pon las koftas en el plato y vierte la salsa caliente justo al servir (si las dejas en ella, se deshacen). Termina con el resto del cilantro y acompaña con el arroz."
   ],
   nutricion: { kcal: 820, prot: 30, hc: 78, grasa: 44 },
   etiquetas: ["al horno", "para invitados", "invierno", "comfort food"],
@@ -960,16 +972,17 @@ window.RECETAS_SEED.push({
     { n: "avellanas", q: 25, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a calentar una cazuela grande de agua con sal para los canelones. Limpia las setas y los champiñones y pícalos a cuchillo en trozos pequeños. Pica las chalotas y el ajo.",
     "Saltea las setas en una sartén grande con el aceite a fuego fuerte 8-10 minutos, en dos tandas si no caben, hasta que suelten el agua, se evapore y empiecen a dorarse. Añade las chalotas, el ajo y las hojas de tomillo y cocina 4 minutos más a fuego medio.",
-    "Vierte el vino y deja que se evapore. Sala, pimienta y deja templar. Mezcla con la ricotta y la mitad del queso azul desmenuzado: será el relleno.",
+    "Vierte el vino y deja que se evapore. Sala, pimienta y deja templar; mientras, ralla el parmesano. Mezcla las setas con la ricotta y la mitad del queso azul desmenuzado: será el relleno.",
     "Precalienta el horno a 200 °C. Cuece las placas de canelón en el agua hirviendo según el envase (o hidrátalas si son precocidas) y extiéndelas sobre un paño limpio. Mientras, calienta la leche en un cazo.",
     "Haz la bechamel: derrite la mantequilla, añade la harina y cocina 2 minutos. Incorpora la leche caliente poco a poco batiendo y cuece 8 minutos, hasta que esté cremosa. Añade el resto del queso azul, la nuez moscada y sal; remueve hasta que se funda.",
     "Rellena cada placa con una línea de relleno, enróllala y colócala con el cierre hacia abajo en una fuente con una capa fina de bechamel.",
-    "Cubre con el resto de la bechamel, espolvorea el parmesano rallado y hornea 20 minutos, gratinando al final 3-4 minutos, hasta que la superficie esté dorada y burbujeante.",
+    "Cubre con el resto de la bechamel, espolvorea el parmesano y hornea 20 minutos, gratinando al final 3-4 minutos, hasta que la superficie esté dorada y burbujeante.",
     "Mientras, tuesta las avellanas en una sartén seca, pícalas gruesas y repártelas sobre los canelones al servir. Deja reposar 5 minutos antes de cortarlos."
   ],
   nutricion: { kcal: 780, prot: 30, hc: 62, grasa: 46 },
@@ -1009,16 +1022,17 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "cacahuetes", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda", nota: "o aceite neutro" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla la harina, la levadura de panadería, 10 g de azúcar, la levadura química y una pizca de sal. Añade la leche y 1 cucharadita de aceite de sésamo y amasa 8 minutos, hasta tener una masa lisa y suave. Tápala y deja que doble su volumen en un sitio templado, unos 60 minutos.",
     "Corta el pepino en láminas finas y encúrtelo con el vinagre de arroz, el resto del azúcar y una pizca de sal mientras sube la masa.",
-    "Divide la masa en 6 bolas, estira cada una en un óvalo de unos 12 x 8 cm, píntalo con unas gotas de aceite y dóblalo por la mitad sobre sí mismo. Coloca cada bao sobre un cuadrado de papel de horno, tapa y deja reposar 20 minutos más.",
+    "Divide la masa en 6 bolas, estira cada una en un óvalo de unos 12 x 8 cm, píntalo con unas gotas de aceite y dóblalo por la mitad sobre sí mismo. Coloca cada bao sobre un cuadrado de papel de horno, tapa y deja reposar 20 minutos más. Mientras, pica los cacahuetes, corta la cebolleta en aros y deshoja el cilantro.",
     "Cuece los baos en una vaporera sobre una cazuela de agua hirviendo, sin que se toquen, 10-12 minutos. Apaga y espera 2 minutos antes de destapar para que no se arruguen.",
     "Mientras, lamina los shiitake y saltéalos en la sartén con el aceite a fuego fuerte 4 minutos, hasta que se doren. Añade la hoisin y la soja y glasea 1 minuto, hasta que brillen.",
     "Bate los huevos con una pizca de sal y el resto del aceite de sésamo y haz una tortilla fina a fuego medio; enróllala y córtala en tiras.",
-    "Abre cada bao y rellénalo con huevo, shiitake glaseado, pepino encurtido, cebolleta en aros, cilantro y cacahuetes picados. Sirve enseguida."
+    "Abre cada bao y rellénalo con huevo, shiitake glaseado, pepino encurtido, la cebolleta, el cilantro y los cacahuetes. Sirve enseguida."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 84, grasa: 20 },
   etiquetas: ["para invitados", "fin de semana", "para niños", "poco especiada"],
@@ -1058,7 +1072,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo, enfríalos y pélalos. Mientras se cuecen, pica las cebollas y el ajo.",
@@ -1105,7 +1120,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 150 °C. Corta los tomates por la mitad a lo largo y colócalos con el corte hacia arriba en una fuente donde quepan justos, con la cebolla en gajos y 3 dientes de ajo enteros con piel.",
+    "Precalienta el horno a 150 °C. Corta los tomates por la mitad a lo largo y la cebolla en gajos. Coloca los tomates con el corte hacia arriba en una fuente donde quepan justos, con la cebolla y 3 dientes de ajo enteros con piel.",
     "Rocía con 1,5 cucharadas de aceite, espolvorea sal, pimienta, la pizca de azúcar, el orégano y reparte las ramas de tomillo.",
     "Hornea 70-75 minutos, hasta que los tomates estén arrugados, concentrados y caramelizados por los bordes, y hayan soltado un jugo espeso.",
     "Saca la fuente, sube el horno a 200 °C, retira el tomillo y aplasta ligeramente unos tomates con un tenedor para formar una salsa rústica. Haz cuatro huecos.",

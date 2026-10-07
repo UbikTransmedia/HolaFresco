@@ -34,7 +34,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino blanco", q: 2, u: "cda" },
     { n: "pimentón dulce", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos de unos 4 cm y cuécelas 18-20 minutos en agua con sal, hasta que la punta de un cuchillo entre sin resistencia. Escúrrelas y déjalas tapadas.",
@@ -74,7 +75,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo. Machaca la alcaravea en un mortero solo un poco, lo justo para que se abran los granos y suelten su aroma anisado.",
@@ -118,7 +120,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la zanahoria y la chirivía. Ponlas enteras en una cazuela con 600 ml de agua, el laurel, los tallos del perejil, sal y unos granos de pimienta. Lleva a ebullición y cuece 15 minutos a fuego suave.",
@@ -164,7 +167,8 @@ window.RECETAS_SEED.push({
     { n: "yogur sin lactosa", q: 120, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Cuece 2 huevos 10 minutos y, mientras, pica el eneldo y el cebollino. Enfría los huevos en agua, pélalos y pícalos finos. Mézclalos con la mitad del eneldo, todo el cebollino, sal y pimienta: es el relleno.",
@@ -207,7 +211,8 @@ window.RECETAS_SEED.push({
     { n: "queso curado", q: 30, u: "g", nota: "rallado" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de medio centímetro y cuécelas 8 minutos en agua con sal, hasta que estén tiernas pero enteras. A la vez, cuece los huevos 10 minutos; mientras, pica el eneldo. Enfría los huevos y córtalos en rodajas.",
@@ -249,7 +254,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de calabaza", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo en un colador con agua caliente, frotándolo con la mano, hasta que el agua salga clara: así pierde el amargor.",
@@ -293,7 +299,8 @@ window.RECETAS_SEED.push({
     { n: "granada", q: 60, u: "g", nota: "en granos" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "albahaca fresca", q: 4, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas.",
@@ -335,7 +342,8 @@ window.RECETAS_SEED.push({
     { n: "patatas nuevas", q: 300, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las zanahorias y córtalas en tiras muy finas y largas, con un rallador de juliana o un pelador. Mézclalas en un bol con media cucharadita de sal, el azúcar y el vinagre, y amasa un minuto con las manos para que empiecen a soltar jugo.",
@@ -375,7 +383,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 25, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "pepino", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa las ramas gruesas del eneldo de las hojas tiernas; pica las hojas y resérvalas. En una cazuela grande pon 2 litros de agua con 1 cucharada de sal, los tallos de eneldo, el laurel y la pimienta en grano.",
@@ -421,7 +430,8 @@ window.RECETAS_SEED.push({
     { n: "harina de maíz", q: 120, u: "g", nota: "fina, para el mchadi" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escalda los tomates 30 segundos en agua hirviendo, pélalos y pícalos. Corta en rodajas la parte verde de la cebolleta. Calienta una cazuela de fondo grueso a fuego medio-alto sin grasa. Sala el pollo y dóralo 6-8 minutos por todos los lados en su propia grasa, como se hace en Georgia, hasta que esté bien marcado.",
@@ -463,7 +473,8 @@ window.RECETAS_SEED.push({
     { n: "yogur sin lactosa", q: 150, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas. Cuece 250 g de ellas enteras en agua con sal 20 minutos y aplástalas en puré sin nada más. Mientras se cuecen, ralla el resto (550 g) por la parte más fina del rallador.",
@@ -509,7 +520,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 40, u: "g" },
     { n: "pan sin gluten", q: 4, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el solomillo en dados de 3 cm, sálalo y márcalo en una plancha muy caliente sin grasa, 1 minuto por cada lado, hasta que tenga marcas tostadas: ese sabor a brasa es la base de la mućkalica. Reserva.",
@@ -554,7 +566,8 @@ window.RECETAS_SEED.push({
     { n: "naranja", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C. Cuece 2 huevos 10 minutos, enfríalos en agua y pélalos. Mientras se cuecen, remoja el pan en la leche 5 minutos y desmenúzalo con un tenedor, y pica el cebollino.",
@@ -596,7 +609,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "patata", q: 300, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el cordero en una cazuela con 300 ml de agua y sal. Lleva a ebullición, retira la espuma que suba y cuece tapado a fuego suave 35 minutos.",
@@ -679,7 +693,8 @@ window.RECETAS_SEED.push({
     { n: "zumo de naranja", q: 60, u: "ml" },
     { n: "mejorana seca", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la carne de la nevera 20 minutos antes. Pela la chirivía y la patata, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos, hasta que estén muy tiernas.",
@@ -719,7 +734,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "patatas nuevas", q: 350, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas.",
@@ -761,7 +777,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas en gajos, mézclalas en una bandeja con la mitad del aceite y sal, y hornéalas 10 minutos.",
@@ -805,7 +822,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "albahaca fresca", q: 6, u: "hoja" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla los tomates por la parte gruesa del rallador hasta quedarte con la piel en la mano. Quita las semillas al pimiento y córtalo en daditos. Pica la parte verde de la cebolleta, el cilantro y la albahaca. Muele las nueces en el mortero hasta tener una pasta gruesa.",
@@ -849,7 +867,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga", q: 1, u: "ud", nota: "un cogollo" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos. A la vez, cuece los huevos 9 minutos desde que el agua hierva, pásalos a agua con hielo y pélalos: la yema quedará cuajada pero tierna, sin cerco verde. Pica el eneldo.",
@@ -891,7 +910,8 @@ window.RECETAS_SEED.push({
     { n: "rabanitos", q: 6, u: "ud" },
     { n: "yogur sin lactosa", q: 120, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece 5 huevos 10 minutos, enfríalos en agua fría y pélalos. Pela las patatas, córtalas en trozos y cuécelas 18 minutos en agua con sal.",
@@ -932,7 +952,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "yogur sin lactosa", q: 100, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el alforfón y cuécelo en un cazo con 150 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12-15 minutos, hasta que absorba el agua y los granos estén sueltos.",
@@ -1018,7 +1039,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "granada", q: 40, u: "g", nota: "en granos" },
     { n: "patata", q: 300, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas 18 minutos en agua con sal. Mientras, escurre el tofu, envuélvelo en papel de cocina y ponle un peso encima 10 minutos.",
@@ -1061,7 +1083,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "vinagre de vino blanco", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta el tempeh en dados de 2 cm y cuécelo al vapor (o en agua apenas hirviendo) 10 minutos: pierde el amargor y absorbe mejor el aliño.",

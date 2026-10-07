@@ -28,7 +28,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo en un colador fino hasta que el agua salga clara (así no amarga). Tuéstalo en seco en una cazuela a fuego medio 2 minutos, hasta que huela a fruto seco.",
@@ -72,7 +73,8 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, hasta que esté tierno pero entero. Escúrrelo, pásalo por agua fría y extiéndelo para que se enfríe del todo.",
@@ -157,7 +159,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "edamame congelado", q: 120, u: "g", nota: "pelado" },
     { n: "jengibre fresco", q: 5, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz frotándolo con las manos y cambiando el agua hasta que salga casi clara. Ponlo en una cazuela con 220 ml de agua, lleva a ebullición, tapa y cuece a fuego mínimo 12 minutos. Apaga y deja reposar 10 minutos sin destapar.",
@@ -200,7 +203,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta el trigo sarraceno en seco en una cazuela 2 minutos. Cúbrelo con agua hirviendo con sal y cuécelo 10-12 minutos, hasta que esté tierno pero entero. Escúrrelo y enjuágalo con agua fría para que no se apelmace.",
@@ -242,7 +246,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras se calienta, pela el ajo y corta el tomate seco en tiras.",
@@ -284,7 +289,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "espinacas frescas", q: 2, u: "puñado" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el pollo con el pimentón, el comino, sal y 1 cucharadita de aceite. Saltéalo en una sartén a fuego fuerte 6-7 minutos, hasta que esté dorado y hecho por dentro. Déjalo enfriar del todo.",
@@ -326,7 +332,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la cebada y cuécela en agua abundante con sal 30-35 minutos, hasta que esté tierna pero con un punto firme. Escúrrela y extiéndela para que se enfríe.",
@@ -414,7 +421,8 @@ window.RECETAS_SEED.push({
     { n: "ajo en polvo", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino. Ponla en un bol grande apto para microondas con 240 ml de agua y sal, tapa sin cerrar del todo y cocina a 800 W 12 minutos. Deja reposar 5 minutos tapada, hasta que absorba el agua, y esponja con un tenedor.",
@@ -455,7 +463,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados de 2 cm. Ponla en un bol apto con 3 cucharadas de agua y sal, tapa y cocina en el microondas a 800 W 6 minutos.",
@@ -540,7 +549,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceitunas verdes", q: 8, u: "ud", nota: "sin hueso" },
     { n: "pimientos del piquillo", q: 2, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en un cazo y cuece los huevos 10 minutos; después pásalos a agua fría.",
@@ -582,7 +592,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 2, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "tamari", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 220 ml de agua, tapado, a fuego mínimo 12 minutos. Deja reposar 10 minutos sin destapar.",
@@ -628,7 +639,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente", nota: "pequeño" },
     { n: "sriracha", q: 1, u: "cdta", opcional: true },
-    { n: "aceite de oliva", q: 1, u: "cdta" }
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo y enfríalos en agua fría.",
@@ -671,7 +683,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimentón picante", q: 0.5, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon agua a hervir en un cazo. Mientras, corta la cebolla en pluma fina, mézclala con el zumaque y una pizca de sal y masájeala 1 minuto con las manos. Deja reposar 10 minutos para que pierda el picor.",
@@ -715,7 +728,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Sala el pollo, ponlo en un plato apto, tápalo y cocínalo en el microondas a 800 W 4-5 minutos, dándole la vuelta a mitad, hasta que no quede rosado en el centro. Reposa 3 minutos tapado y desmenúzalo con dos tenedores.",
@@ -762,7 +776,8 @@ window.RECETAS_SEED.push({
     { n: "ajo en polvo", q: 0.5, u: "cdta" },
     { n: "tamari", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y déjalo enfriar extendido.",
@@ -805,7 +820,8 @@ window.RECETAS_SEED.push({
     { n: "comino en grano", q: 0.5, u: "cdta" },
     { n: "cúrcuma molida", q: 0.25, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga los garbanzos y déjalos escurrir bien.",
@@ -851,7 +867,8 @@ window.RECETAS_SEED.push({
     { n: "harissa", q: 1, u: "cdta", opcional: true },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon en la cesta de la airfryer los pimientos enteros, los tomates y la cebolla partidos por la mitad y los ajos con piel. Ásalos a 200 °C 18-20 minutos, girándolos a mitad, hasta que la piel esté ampollada y tostada.",
@@ -938,7 +955,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la espelta y cuécela en abundante agua con sal 35-40 minutos, hasta que esté tierna pero con un punto firme. Escúrrela y deja que se enfríe.",
@@ -982,7 +1000,8 @@ window.RECETAS_SEED.push({
     { n: "col lombarda", q: 150, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cdta" }
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y extiéndelo para que se enfríe.",
@@ -1025,7 +1044,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras se calienta, corta los tomates en cuartos y sálalos ligeramente para que suelten su jugo, y pica el perejil.",
@@ -1068,7 +1088,8 @@ window.RECETAS_SEED.push({
     { n: "canónigos", q: 2, u: "puñado" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta el cuscús perlado en un cazo con 1 cucharadita de aceite 2 minutos. Añade 350 ml de agua hirviendo y sal y cuécelo 8-10 minutos, hasta que esté tierno. Escúrrelo y déjalo enfriar.",

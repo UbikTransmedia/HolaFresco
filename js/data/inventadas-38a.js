@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las rodajas de patata en una fuente honda apta para microondas con 2 cucharadas de agua y una pizca de sal. Tapa con tapa de microondas o film perforado y cocina a 800 W 5 minutos, hasta que se dejen pinchar.",
@@ -73,7 +74,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz, ponlo en un bol grande y alto con 400 ml de agua caliente y una pizca de sal. Cocina sin tapar a 800 W 10 minutos y después con la tapa entreabierta a 500 W 12 minutos más. Deja reposar tapado 5 minutos: absorberá el agua que quede.",
@@ -117,7 +119,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la coliflor en un bol apto con el ajo pelado y 3 cucharadas de agua. Tapa y cocina a 800 W 8 minutos, hasta que esté muy tierna al pincharla. Mientras, pica el cilantro si lo usas.",
@@ -203,7 +206,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino. Ponla en un bol grande con 240 ml de agua y sal, tapa con la tapa entreabierta y cocina a 800 W 6 minutos y luego a 500 W 6 minutos más. Reposa tapada 5 minutos.",
@@ -247,7 +251,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un bol apto con 300 ml de agua y sal. Tapa con la tapa entreabierta y cocina a 800 W 8 minutos. Deja reposar tapado 5 minutos y suéltalo con un tenedor.",
@@ -291,7 +296,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y ponla en un bol grande con 200 ml de agua y sal. Tapa entreabierto y cocina a 800 W 5 minutos y a 500 W 5 minutos más. Reposa 5 minutos tapada.",
@@ -335,7 +341,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara. Ponlo en un bol grande con el caldo, un tercio del jengibre en láminas y un diente de ajo aplastado. Tapa entreabierto y cocina a 800 W 10 minutos y luego a 400 W 5 minutos. Reposa tapado 5 minutos.",
@@ -381,7 +388,8 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 260 ml de agua y sal. Tapa entreabierto y cocina a 800 W 8 minutos y a 400 W 5 minutos. Deja reposar tapado.",
@@ -431,7 +439,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cda" },
     { n: "mermelada de arándanos rojos", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en cuartos y ponlas en una fuente apta con 3 cucharadas de agua y sal. Tapa y cocina a 800 W 8-9 minutos, hasta que un cuchillo las atraviese sin resistencia. Resérvalas tapadas.",
@@ -473,7 +482,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la patata en una fuente apta con 2 cucharadas de agua y sal. Tapa y cocina a 800 W 4 minutos. Mientras, quita la parte dura del tallo a los espárragos.",
@@ -516,7 +526,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava los boniatos, pínchalos 6-8 veces con un tenedor y ponlos en un plato apto sobre papel de cocina. Cocina a 800 W 8-10 minutos, dándoles la vuelta a mitad, hasta que un cuchillo entre sin resistencia hasta el centro.",
@@ -560,7 +571,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 50, u: "g" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el calabacín grueso, mézclalo con una pizca de sal y escúrrelo apretando con las manos para que suelte el agua. Pica la cebolleta.",
@@ -602,7 +614,8 @@ window.RECETAS_SEED.push({
     { n: "tortillas de maíz", q: 4, u: "ud" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el chile (sin semillas si no quieres mucho picante) y el tomate en dados pequeños, y pica el cilantro. Pon la cebolla y el chile en un bol amplio apto con el aceite, tapa y cocina a 800 W 2 minutos, hasta que la cebolla se ablande.",
@@ -646,7 +659,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y ponla en un bol grande con 240 ml de agua y sal. Tapa entreabierto y cocina a 800 W 6 minutos y a 500 W 6 minutos más. Reposa tapada 5 minutos.",
@@ -689,7 +703,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "chile fresco", q: 1, u: "ud", opcional: true }
+    { n: "chile fresco", q: 1, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 220 ml de agua. Tapa entreabierto y cocina a 800 W 7 minutos y a 400 W 4 minutos. Reposa tapado 5 minutos.",
@@ -734,7 +749,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata la soja texturizada en un bol con 150 ml de agua caliente y el tamari durante 10 minutos. Escúrrela apretando con las manos.",
@@ -780,7 +796,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "yogur natural", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 260 ml de agua y sal. Tapa entreabierto y cocina a 800 W 8 minutos y a 400 W 5 minutos. Reposa tapado.",
@@ -870,7 +887,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 80, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica finas la cebolla y la zanahoria, corta el apio en daditos y lamina el ajo. Ponlo todo en una fuente honda apta con el aceite. Tapa y cocina a 800 W 5 minutos, removiendo a mitad, hasta que la cebolla esté transparente. Mientras, pica el eneldo.",
@@ -957,7 +975,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la pasta en un bol grande y alto apto, cúbrela con agua hasta 3 cm por encima (unos 700 ml) y añade sal. Cocina sin tapar a 800 W el tiempo del paquete más 3 minutos (unos 12-14), removiendo cada 4 minutos para que no se pegue. Mientras, lamina el ajo y corta las aceitunas en rodajas.",
@@ -1045,7 +1064,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y ponla en un bol grande con 160 ml de agua y sal. Tapa entreabierto y cocina a 800 W 5 minutos y a 500 W 4 minutos. Reposa 5 minutos tapada y extiéndela en un plato para que se temple.",
@@ -1090,7 +1110,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cdta" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "sésamo", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la pechuga entera en una fuente apta con 3 cucharadas de agua, sal y 2 rodajas de jengibre. Tapa y cocina a 600 W 4 minutos, dale la vuelta y cocina 3-4 minutos más, hasta que el centro esté blanco.",

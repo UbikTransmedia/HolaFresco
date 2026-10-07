@@ -327,7 +327,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos en una cazuela con agua hirviendo 10 minutos. Mientras, trocea la cebolla y las zanahorias y pela los ajos. Enfría los huevos en agua fría y pélalos.",
@@ -410,7 +411,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "patata", q: 300, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y lamina los ajos. Salpimienta el lomo. Calienta el aceite y la mantequilla en la olla a fuego medio-fuerte y dora la pieza por todos los lados, 6-8 minutos, hasta que esté bien dorada. Resérvala.",
@@ -454,7 +456,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 300, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el pimiento y lamina los ajos. Salpimienta el conejo. Calienta el aceite en la olla destapada a fuego fuerte y dóralo en dos tandas, 4 minutos cada una, hasta que tenga buen color. Resérvalo.",
@@ -498,7 +501,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "patata", q: 600, u: "g", nota: "pequeñas, con piel" },
     { n: "sal gruesa", q: 2, u: "cda", nota: "para las papas" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Maja en un mortero los ajos pelados con una pizca de sal, el comino, los pimentones, el orégano y el tomillo hasta tener una pasta. Añade el vinagre y el vino y mezcla.",

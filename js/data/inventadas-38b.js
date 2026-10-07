@@ -24,7 +24,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 4, u: "diente" },
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 70, u: "ml" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas en una fuente apta con 2 cucharadas de agua y sal, tapa y cocina a 800 W 6-7 minutos, hasta que estén tiernas. Resérvalas tapadas. Mientras, lava y seca los pimientos, lamina los ajos y corta la guindilla en aros.",
@@ -67,7 +68,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el boniato, córtalo en rodajas de 1,5 cm y ponlo en una fuente apta con 2 cucharadas de agua y sal. Tapa y cocina a 800 W 6-7 minutos, hasta que esté tierno pero entero.",
@@ -111,7 +113,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "chile fresco", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta agua en una jarra apta a 800 W 3-4 minutos, hasta que hierva. Pon los fideos en un bol grande, cúbrelos con ella y déjalos 4-5 minutos, hasta que estén tiernos. Escúrrelos y pásalos por agua fría.",
@@ -201,7 +204,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 220 ml de agua y sal. Tapa entreabierto y cocina a 800 W 7 minutos y a 400 W 4 minutos. Reposa tapado.",
@@ -250,7 +254,8 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 60, u: "g", nota: "para servir" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande y alto con 350 ml de agua y sal. Cocina sin tapar a 800 W 10 minutos y después con la tapa entreabierta a 500 W 12 minutos más. Reposa tapado 5 minutos.",
@@ -295,7 +300,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 300 ml de agua, la mitad del comino y sal. Tapa entreabierto y cocina a 800 W 9 minutos y a 400 W 5 minutos. Reposa tapado 5 minutos.",
@@ -342,7 +348,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas, pínchalas 8 veces con un tenedor y ponlas en un plato apto sobre papel de cocina. Cocina a 800 W 10-12 minutos, dándoles la vuelta a mitad, hasta que un cuchillo entre sin resistencia. Reposa 3 minutos envueltas en un paño.",
@@ -440,7 +447,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "En un bol grande y alto apto mezcla la polenta con la leche, 300 ml de agua y sal usando unas varillas. Cocina sin tapar a 800 W 4 minutos, bate, y sigue 3-4 minutos más batiendo cada 90 segundos, hasta que esté espesa y cremosa. Añade el parmesano, tapa y reserva.",
@@ -484,7 +492,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Llena un bol con agua y el zumo de medio limón. Limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas y amarillentas, corta la punta y pela el tallo dejándolo de 2 cm. Pártelas por la mitad, retira la pelusilla con una cucharilla y échalas al agua para que no se oscurezcan.",
@@ -528,7 +537,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la coliflor y el brócoli en ramilletes medianos. Pon la coliflor en una fuente apta con 3 cucharadas de agua y sal, tapa y cocina a 800 W 4 minutos; añade el brócoli y cocina 3 minutos más, hasta que todo esté tierno pero firme. Escurre bien. Mientras se cuece, pica el cebollino.",
@@ -575,7 +585,8 @@ window.RECETAS_SEED.push({
     { n: "yogur natural", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 300 ml de agua y sal. Tapa entreabierto y cocina a 800 W 9 minutos y a 400 W 5 minutos. Reposa tapado.",
@@ -664,7 +675,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 290 ml de agua y sal. Tapa entreabierto y cocina a 800 W 9 minutos y a 400 W 5 minutos. Reposa tapado.",
@@ -752,7 +764,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla y el pimiento en dados pequeños y lamina el ajo. Ponlos en una fuente honda apta con el aceite. Tapa y cocina a 800 W 5 minutos, removiendo a mitad, hasta que el pimiento esté tierno.",
@@ -797,7 +810,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica finos la cebolla, la zanahoria, el apio y el ajo y ponlos en una fuente honda apta con el aceite. Tapa y cocina a 800 W 4 minutos.",
@@ -838,7 +852,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la pasta en un bol grande y alto apto, cúbrela con agua hasta 3 cm por encima (unos 700 ml) y añade sal. Cocina sin tapar a 800 W el tiempo del paquete más 3 minutos, removiendo cada 4 minutos.",
@@ -881,7 +896,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta las almendras en un plato a 800 W 2 minutos, removiendo a mitad.",
@@ -924,7 +940,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 2, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "alga nori", q: 1, u: "ud", opcional: true, nota: "una hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y ponlo en un bol grande con 280 ml de agua. Tapa entreabierto y cocina a 800 W 8 minutos y a 400 W 5 minutos. Reposa tapado 5 minutos y aliña con 1 cucharada del vinagre.",
@@ -970,7 +987,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande y alto con 400 ml de agua y sal. Cocina sin tapar a 800 W 10 minutos y después con la tapa entreabierta a 500 W 12 minutos más. Reposa tapado 5 minutos.",
@@ -1013,7 +1031,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, ralla el jengibre, pela la chirivía y córtala en rodajas finas, y pela la manzana y córtala en dados.",
@@ -1100,7 +1119,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la calabaza y córtala en dados de 2 cm. Ponla en una fuente apta con 2 cucharadas de agua, el tomillo y sal, tapa y cocina a 800 W 6-7 minutos, removiendo a mitad, hasta que esté tierna pero entera. Mientras, bate el aceite con el vinagre, la miel, sal y pimienta.",

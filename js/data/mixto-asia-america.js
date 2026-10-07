@@ -167,7 +167,8 @@ window.RECETAS_SEED.push({
     { n: "pak choi", q: 200, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "aceite de girasol", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre y enjuaga los garbanzos y ponlos en una cazuela con el caldo. Cuécelos a fuego suave y semitapados 15 minutos, aplastando un tercio con una cuchara de madera, hasta que estén muy tiernos y el caldo haya espesado. Sala ligeramente.",
@@ -263,7 +264,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "arroz largo", q: 80, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica en dados pequeños la cebolla, el pimiento verde y el apio, y lamina el ajo.",
@@ -306,7 +308,8 @@ window.RECETAS_SEED.push({
     { n: "patata nueva", q: 250, u: "g" },
     { n: "judías verdes", q: 300, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pon las patatas nuevas lavadas en una cazuela con agua fría y sal y cuécelas 15–18 minutos desde que hierva, hasta que un cuchillo entre sin resistencia.",
@@ -442,7 +445,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "vinagre de manzana", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre las pechugas en libro o aplánalas entre dos papeles de horno hasta un grosor parejo de 1,5 cm. Úntalas con el aceite, el pimentón ahumado, el tomillo, sal y pimienta.",
@@ -491,7 +495,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la carne de la nevera 20 minutos antes. Maja en el mortero la pimienta en grano y las semillas de cilantro hasta dejarlas partidas, no en polvo. Mézclalas con la sal gruesa, el ajo y la cebolla en polvo, el eneldo, el pimentón y los copos de chile.",
@@ -536,7 +541,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva, pásalos a agua fría y pélalos.",
@@ -583,7 +589,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 0.5, u: "diente" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas nuevas en agua fría con sal 15–18 minutos desde que hierva, hasta que estén tiernas. Mientras tanto, despunta las judías verdes y córtalas por la mitad; añádelas a la cazuela en los últimos 5 minutos. Escúrrelo todo y enfríalo con agua fría para que las judías conserven el verde.",

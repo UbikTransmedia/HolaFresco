@@ -78,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a calentar agua con sal en una cazuela. Pon las pasas en un vaso con agua tibia para que se hidraten mientras preparas lo demás. Lava las acelgas, separa las pencas de las hojas, corta las pencas en dados de 1 cm y las hojas en tiras anchas. Lamina el ajo.",
@@ -122,7 +123,8 @@ window.RECETAS_SEED.push({
     { n: "bicarbonato", q: 0.25, u: "cdta" },
     { n: "mantequilla", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La noche anterior pon las alubias en remojo con el triple de su volumen de agua fría.",
@@ -165,7 +167,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta los higos en cruz desde arriba sin llegar a la base, colócalos en una bandeja pequeña, riégalos con unas gotas de miel y esparce las hojas de una rama de tomillo. Hornéalos 8-10 minutos, hasta que se abran y empiecen a caramelizar.",
@@ -208,7 +211,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 3, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas de 1 cm y cuécelas en agua con sal 15 minutos, hasta que estén tiernas pero enteras. Escúrrelas.",
@@ -336,7 +340,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y un diente de ajo. Salpimienta el pollo y dóralo en una cazuela con el aceite a fuego medio-alto 8-10 minutos, hasta que esté bien dorado por todas partes. Sácalo y resérvalo.",
@@ -379,7 +384,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los boletus con un paño y un cuchillo, raspando la tierra del pie sin mojarlos, y córtalos en láminas de 5 mm. Pica el perejil.",
@@ -426,7 +432,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "yogur natural", q: 125, u: "g", nota: "para servir" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C. Frota los membrillos con un paño para quitarles la pelusa, pártelos por la mitad a lo largo y vacíalos con una cuchara o un sacabolas dejando 1 cm de pared. Ve sumergiendo las mitades en agua con el zumo de medio limón para que no se oscurezcan. Pica la pulpa sacada, sin el corazón ni las pepitas. Pica la cebolla y el perejil.",
@@ -467,7 +474,8 @@ window.RECETAS_SEED.push({
     { n: "sémola fina", q: 30, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la calabaza con la parte gruesa del rallador, mézclala con una pizca de sal y déjala en un colador 20 minutos. Mientras, precalienta el horno a 180 °C y pica las cebolletas y la menta. Después escurre la calabaza apretando con las manos: saldrá mucha agua, y si no la quitas la pita queda empapada.",
@@ -602,7 +610,8 @@ window.RECETAS_SEED.push({
     { n: "mango en polvo (amchur)", q: 1, u: "cdta", nota: "o 1 cda de zumo de limón" },
     { n: "panela", q: 1, u: "cda", nota: "o azúcar moreno" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y déjalo en remojo 10 minutos. Escúrrelo y cuécelo con 180 ml de agua y sal, tapado, 12 minutos a fuego mínimo. Apaga y deja reposar 5 minutos.",
@@ -645,7 +654,8 @@ window.RECETAS_SEED.push({
     { n: "bulgur", q: 100, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Llena un bol de agua con el zumo de medio limón. Pela el apionabo, córtalo en dados de 3 cm y ve echándolos al agua, porque se oxida enseguida. Pica la cebolla en dados y corta las zanahorias en rodajas.",
@@ -690,7 +700,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre la pechuga en filetes de 1,5 cm de grosor uniforme y sazónala con sal, pimienta y el pimentón ahumado. Hazla en la plancha a fuego medio 5-6 minutos por cada lado, hasta que los jugos salgan claros. Déjala reposar 5 minutos y córtala en tiras.",
@@ -776,7 +787,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud", nota: "solo la ralladura" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua abundante con sal. Limpia las coles quitando las hojas exteriores y lamínalas en rodajas de 3 mm. Lamina los ajos.",
@@ -821,7 +833,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los tupinambos (o frótalos con un cepillo si la piel es fina), córtalos en trozos de 2 cm y échalos en un bol con agua y el zumo del limón para que no se oscurezcan. Corta el puerro en rodajas y pela la patata y córtala en dados.",
@@ -867,7 +880,8 @@ window.RECETAS_SEED.push({
     { n: "tallarines", q: 80, u: "g" },
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los boletus secos en remojo con 400 ml de agua tibia durante 30 minutos. Mientras, corta la zanahoria y la chirivía en dados pequeños, pica la cebolla y el eneldo y lamina los champiñones. Saca los boletus, pícalos y filtra el agua del remojo por un papel de cocina para eliminar la arenilla.",

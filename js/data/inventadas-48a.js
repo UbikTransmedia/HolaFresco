@@ -34,7 +34,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el mijo en un colador fino y lávalo bajo el grifo frotándolo con los dedos hasta que el agua salga clara: así eliminas las saponinas de su superficie, que dan un punto amargo. Escúrrelo bien. Pica la cebolla y el ajo, corta la zanahoria en bastoncitos finos y pica el perejil.",
@@ -77,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si tu trigo sarraceno es crudo (de color verdoso claro), tuéstalo en la cazuela seca 4-5 minutos removiendo, hasta que se vuelva marrón y huela a avellana; si ya es kasha, sáltate este gesto. Cuece 2 huevos 10 minutos en agua hirviendo y pásalos a agua fría para que la yema no se ponga verdosa.",
@@ -306,7 +308,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga el arroz salvaje y cuécelo en 1 litro de agua con sal a fuego medio 45-50 minutos, como si fuera pasta, hasta que muchos granos se abran y enseñen el interior blanco: ese es el punto. Escúrrelo.",
@@ -394,7 +397,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.25, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las alubias carilla: no necesitan remojo porque su piel es muy fina. Cúbrelas con 1,5 litros de agua fría con el laurel, lleva a ebullición y cuece a fuego suave 35-45 minutos, hasta que estén tiernas pero enteras. Pruébalas a los 30: se pasan rápido, y para ensalada interesa que no se rompan.",
@@ -433,7 +437,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 2, u: "ud", nota: "para acompañar" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la menta. Hierve las habas 2 minutos en agua con sal y pásalas a un bol con agua y hielo: el choque frío fija el verde y corta la cocción.",
@@ -477,7 +482,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas beluga (no necesitan remojo). Ponlas en un cazo con 3 veces su volumen de agua fría, el laurel, el tomillo y la zanahoria en dados pequeños. Lleva a ebullición y baja a un hervor muy suave: el borboteo fuerte rompe la piel.",
@@ -570,7 +576,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 80, u: "ml" },
     { n: "caldo de pescado", q: 500, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos negros en remojo en abundante agua fría 12-24 horas: su piel es más gruesa que la del garbanzo común y necesitan más tiempo.",
@@ -614,7 +621,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo en un colador fino frotándolo hasta que el agua salga clara. Corta el puerro en rodajas, pica el ajo y separa la coliflor en ramilletes.",
@@ -658,7 +666,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata el shiitake seco en 200 ml de agua caliente 20 minutos. Mientras, pica la cebolla, ralla la zanahoria, pela la patata y córtala en dados de 1,5 cm y trocea las setas. Escúrrelo apretándolo, pícalo y guarda el agua: es un caldo concentrado de umami.",
@@ -749,7 +758,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 20, u: "g" },
     { n: "limón", q: 0.5, u: "ud", nota: "solo la ralladura" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el farro y cuécelo como la pasta, en abundante agua con sal, 25-30 minutos (el entero necesita remojo previo y 45-50 minutos), hasta que esté tierno con un punto elástico. Escúrrelo y guarda un vaso del agua de cocción.",
@@ -888,7 +898,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 800, u: "ml" },
     { n: "leche", q: 200, u: "ml", nota: "entera" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga el arroz salvaje y cuécelo en 1 litro de agua con sal a fuego medio 45-50 minutos, hasta que los granos se abran. Escúrrelo (puedes hacerlo la víspera).",
@@ -929,7 +940,8 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las azukis y cuécelas en 600 ml de agua, sin remojo, 25-30 minutos, hasta que estén tiernas por fuera pero aún firmes por dentro: terminarán de hacerse con el arroz. Escúrrelas y guarda el agua, que habrá tomado color granate.",
@@ -976,7 +988,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las alubias carilla y cuécelas sin remojo en 1,2 litros de agua con la cúrcuma 35-40 minutos, hasta que estén tiernas. Sala al final y guarda su caldo.",
@@ -1019,7 +1032,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 3.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta, el ajo y la menta. Hierve las habas en agua con sal 4-5 minutos: para puré deben quedar más tiernas que para ensalada. Aparta 4 cucharadas, enfríalas en agua con hielo y pélalas para decorar; escurre el resto.",
@@ -1112,7 +1126,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el trigo sarraceno como la pasta, en abundante agua hirviendo con sal, 8-10 minutos, hasta que esté tierno pero entero. Escúrrelo, pásalo por agua fría y extiéndelo en una bandeja 15 minutos para que se seque: como el arroz frito, debe entrar seco al wok o se apelmaza.",

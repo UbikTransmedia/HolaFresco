@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre la ricotta en un colador forrado con papel de cocina, en la nevera, al menos 30 minutos (mejor 2 horas): el suero sobrante es el enemigo del ñoqui ligero, porque obliga a añadir más harina.",
@@ -72,7 +73,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "sal en escamas", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua fría con sal 20 minutos desde que hierva, hasta que se deshagan al pincharlas. Mientras, saca el salmón de la nevera para que se atempere y lamina el ajo. Escúrrelas y reserva un vaso del agua de cocción.",
@@ -164,7 +166,8 @@ window.RECETAS_SEED.push({
     { n: "nueces", q: 30, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la salmuera: calienta el vinagre con 120 ml de agua, el azúcar, 1 cucharadita de sal, las semillas de mostaza y el laurel hasta que hierva y todo se disuelva. La proporción 1:1 de vinagre y agua da un encurtido equilibrado; el azúcar suaviza la acidez.",
@@ -203,7 +206,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "patata", q: 300, u: "g", nota: "nuevas y pequeñas" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si las kokotxas son congeladas, pásalas la víspera a la nevera para que se descongelen despacio. Cuece las patatas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas, pártelas por la mitad y mantenlas calientes.",
@@ -292,7 +296,8 @@ window.RECETAS_SEED.push({
     { n: "escarola", q: 150, u: "g" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Frota los contramuslos con la sal gruesa, la pimienta machacada, 2 ramas de tomillo y 1 hoja de laurel. Tápalos y déjalos en la nevera 2 horas (o toda la noche). La sal saca algo de agua y sazona la carne en profundidad; después, el confitado ya no puede salar.",
@@ -387,7 +392,8 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua templada con el bicarbonato, 12 horas. El remojo es imprescindible también en olla exprés: sin él, se cuecen por fuera y quedan duros por dentro.",
@@ -438,7 +444,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 80, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, la zanahoria y el ajo. Seca las costillas y salpimiéntalas. En la olla exprés sin tapar, calienta el aceite a fuego alto y dóralas por tandas 3-4 minutos por lado, hasta que tengan una costra oscura. Sácalas.",
@@ -526,7 +533,8 @@ window.RECETAS_SEED.push({
     { n: "mirin", q: 2, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia el alga kombu con un paño húmedo (no la laves: el polvillo blanco es sabor) y ponla en una cazuela con 1 litro de agua fría 30 minutos. En frío suelta el glutamato sin el sabor viscoso y amargo que daría al hervir. Mientras, pon las almejas en agua fría con sal para que suelten la arena.",
@@ -575,7 +583,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla en un bol el gluten, la harina de garbanzo, la levadura nutricional y el ajo en polvo. Aparte, mezcla 1 cucharada de soja con 150 ml de agua.",
@@ -624,7 +633,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el jengibre en rodajas y separa la parte blanca de la verde de las cebolletas. Pon la pechuga en un cazo con el jengibre, la parte blanca de la cebolleta, 1 cucharadita de sal y agua fría que la cubra 3 cm. Empezar en frío hace que el centro y el exterior se calienten a la vez.",
@@ -670,7 +680,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 2, u: "ud" },
     { n: "tahini", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor (o en agua hirviendo) 10 minutos. Este paso, que casi nadie hace, le quita el amargor y abre su estructura para que absorba la marinada como una esponja.",
@@ -717,7 +728,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "patata", q: 200, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los ajos, corta la zanahoria en rodajas finas y la cebolla en juliana. Sala los filetes de trucha, pásalos por harina sacudiendo el exceso y séllalos en una sartén con 2 cucharadas de aceite a fuego medio-alto, 1 minuto por la piel y 30 segundos por la carne: solo dorados, sin hacerse del todo, porque terminarán de cocinarse con el escabeche caliente. Pásalos a una fuente de cristal en una capa.",
@@ -759,7 +771,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "vinagre de arroz", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos en agua templada, no hirviendo, 20-25 minutos, hasta que estén flexibles pero firmes. Escúrrelos y mézclalos con 1 cucharadita de aceite. Si los cueces del todo antes, se rompen y se pegan en el wok.",
@@ -806,7 +819,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el yogur de la nevera 30 minutos antes. Bátelo con la harina de garbanzo, la cúrcuma, el cilantro molido y una pizca de sal hasta que esté liso. La harina (o 1 cucharadita de maicena) estabiliza las proteínas de la leche y evita que se agrupen en grumos al calentarse; la grasa del yogur entero también ayuda.",
@@ -892,7 +906,8 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "huevo", q: 1, u: "ud", nota: "solo la yema, para el alioli" },
     { n: "aceite de oliva", q: 90, u: "ml", nota: "30 ml para el sofrito y 60 ml para el alioli" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pide en la pescadería que te saquen los lomos de la dorada y te den la cabeza y la espina. Lava cabeza y espinas bajo el grifo, quitando agallas y restos de sangre: son lo que amarga y enturbia el caldo. Lamina 2 ajos y ralla los tomates.",
@@ -934,7 +949,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal en escamas", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas gruesas y cuécelas al vapor 15-18 minutos, hasta que estén tiernas. Mantenlas calientes.",
@@ -976,7 +992,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto", nota: "30 g para la salmuera" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Prepara una salmuera rápida disolviendo 30 g de sal y el azúcar en 1 litro de agua fría. Sumerge las chuletas 30-45 minutos en la nevera. La sal penetra, relaja las proteínas y hace que la carne retenga más jugo: el cerdo magro deja de quedar seco.",
@@ -1021,7 +1038,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir 3 litros de agua con 2 cucharadas de sal y prepara al lado un bol grande con agua y mucho hielo. Mucha agua hace que no deje de hervir al echar las verduras: si el hervor se corta, se cuecen despacio y se vuelven pardas.",
@@ -1069,7 +1087,8 @@ window.RECETAS_SEED.push({
     { n: "garbanzos cocidos", q: 200, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Trocea grueso la cebolla con su piel, 2 zanahorias, un puerro con su parte verde, el apio, el tomate y los champiñones, y ponlos en una bandeja con los ajos aplastados y 1 cucharada de aceite.",
@@ -1116,7 +1135,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica finos la cebolla, el hinojo y el ajo. Quita la piel a las salchichas y desmenuza la carne. Dórala en una cazuela con el aceite a fuego medio-alto 6-8 minutos, deshaciéndola con la cuchara, hasta que esté tostada y haya soltado su grasa.",

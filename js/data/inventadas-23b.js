@@ -70,7 +70,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos. En el mismo cazo, los últimos 10 minutos, cuece el huevo.",
@@ -111,7 +112,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "manteca de cerdo", q: 15, u: "g", nota: "o 1 cucharada de aceite" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece un huevo 10 minutos. Mientras, pica fina la cebolla y la cebolleta y corta la carne en daditos muy pequeños si no lo están. Enfría el huevo, pélalo y pícalo. Corta las aceitunas en trocitos.",
@@ -156,7 +158,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 80, u: "ml" },
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", u: "al gusto", nota: "para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que estén tiernas.",
@@ -275,7 +278,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 1, u: "rebanada", nota: "para espesar el mojo" },
     { n: "vinagre de vino", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Lava bien las papas sin pelarlas y ponlas en una olla con agua justo para cubrirlas y la sal gruesa. Cuécelas 20-25 minutos, hasta que se pinchen con facilidad.",
@@ -550,7 +554,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "del día anterior, para freír" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Salpimienta el magro. Calienta 2 cucharadas de aceite en una cazuela a fuego fuerte y dora la carne por tandas 4-5 minutos, hasta que tenga costra. Resérvala.",
@@ -665,7 +670,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 80, u: "ml" },
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y las zanahorias, peladas, en rodajas. Sala el pollo y dóralo en una cazuela con el aceite a fuego medio-alto 8-10 minutos, hasta que esté dorado por todos lados. Sácalo.",
@@ -833,7 +839,8 @@ window.RECETAS_SEED.push({
     { n: "mayonesa", q: 3, u: "cda" },
     { n: "patata", q: 400, u: "g" },
     { n: "aceite de oliva", u: "al gusto", nota: "2 cucharadas para el adobo y el resto para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura los ajos con el comino, el pimentón, el orégano, la salsa de soja, la cerveza, el zumo de media lima, 2 cucharadas de aceite y una cucharadita de sal.",
@@ -875,7 +882,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la carne de la nevera 1 hora antes. Precalienta el horno a 200 °C.",
@@ -918,7 +926,8 @@ window.RECETAS_SEED.push({
     { n: "guisantes congelados", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal 20 minutos, hasta que estén muy tiernas. Los últimos 3 minutos añade los guisantes al agua.",
@@ -960,7 +969,8 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 120, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el pavo con el ajo machacado, el pimentón, el zumo de medio limón, el aceite, sal y pimienta y deja que repose mientras preparas lo demás. Si usas palillos de madera, ponlos en remojo.",

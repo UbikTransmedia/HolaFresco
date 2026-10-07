@@ -66,7 +66,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "pan", q: 80, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en láminas finas; corta el calabacín (con piel) en medias lunas de medio centímetro y la cebolla en juliana.",
@@ -187,7 +188,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "pan", q: 100, u: "g", nota: "de hogaza" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y los ajos finos, los pimientos en dados de 1 cm y el calabacín en dados algo más grandes. Escalda los tomates 20 segundos en agua hirviendo, pélalos y trocéalos.",
@@ -232,7 +234,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "caldo de verduras", q: 200, u: "ml" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir dos cazos: uno pequeño con agua para los huevos y otro grande con agua y sal para las verduras. Mientras se calientan, limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, corta las puntas y pártelas en cuartos; frótalas con limón para que no se oscurezcan. Corta la zanahoria en rodajas, trocea las judías verdes, corta los espárragos en trozos de 4 cm y pica la cebolla y el ajo.",
@@ -271,7 +274,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 3, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa la coliflor en ramilletes medianos y pela y corta la patata en trozos de 3 cm.",
@@ -311,7 +315,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 60, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "azúcar", q: 1, u: "pizca" }
+    { n: "azúcar", q: 1, u: "pizca" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Mientras, quita las puntas e hilos a las judías y córtalas en trozos de 4 cm, y pica la cebolla y el ajo.",
@@ -356,7 +361,8 @@ window.RECETAS_SEED.push({
     { n: "piñones", q: 20, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Parte las berenjenas por la mitad a lo largo, hazles cortes en rejilla en la pulpa sin llegar a la piel, sálalas, riégalas con 1 cucharada de aceite y hornéalas boca arriba 25 minutos, hasta que la pulpa esté blanda.",
@@ -399,7 +405,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 300, u: "ml", nota: "para freír" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Descongela las espinacas con antelación (en la nevera desde la víspera o unos minutos en el microondas en modo descongelar), escúrrelas apretando con las manos hasta que no suelten agua y pícalas. Pica la cebolla muy fina y templa la leche.",
@@ -444,7 +451,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava bien las patatas, pínchalas con un tenedor, úntalas con un poco de aceite y sal y ásalas sobre la rejilla 45-50 minutos, hasta que un cuchillo entre sin resistencia.",
@@ -481,7 +489,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las setas con un paño húmedo (no las laves bajo el grifo) y córtalas en tiras. Quita la parte dura y la primera capa de los ajetes y córtalos en trozos de 2 cm.",
@@ -522,7 +531,8 @@ window.RECETAS_SEED.push({
     { n: "tomate frito", q: 200, u: "g", nota: "mejor casero" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C. Unta un molde rectangular de cerámica o de plum-cake con mantequilla y espolvorea el pan rallado.",
@@ -560,7 +570,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 4, u: "ud" },
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para escalfar" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal en una cazuela. Mientras, lava las acelgas, separa las pencas de las hojas, quítales los hilos y córtalas en trozos de 3 cm; trocea las hojas. Pela la patata y córtala en trozos.",
@@ -597,7 +608,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "orégano seco", q: 0.5, u: "cdta", opcional: true },
     { n: "pan", q: 80, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana fina y el calabacín en láminas finas o medias lunas (con piel).",
@@ -636,7 +648,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 40, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pan", q: 60, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva. Mientras, pica la cebolla muy fina y pochala con el aceite en una sartén pequeña 8 minutos, hasta que esté dorada clara.",
@@ -676,7 +689,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 5, u: "ud" },
     { n: "aceite de oliva", q: 200, u: "ml", nota: "para pochar; se recupera" },
     { n: "pan", q: 60, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Mientras, trocea las judías verdes, pela la patata y córtala en dados pequeños de 1 cm, y pica la cebolla y los pimientos en dados del mismo tamaño.",
@@ -796,7 +810,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 3, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita a las pencas de cardo los hilos y la piel exterior con un pelador, córtalas en trozos de 4 cm y échalas en un bol con agua y el zumo de medio limón para que no se oscurezcan.",
@@ -839,7 +854,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 4, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las alcachofas quitando las hojas exteriores duras, recorta el tallo y las puntas y córtalas en cuartos. Sumérgelas en agua con el zumo del limón mientras preparas lo demás.",
@@ -881,7 +897,8 @@ window.RECETAS_SEED.push({
     { n: "guisantes congelados", q: 80, u: "g" },
     { n: "huevo", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos y calienta el caldo. Mientras, pica la cebolla y los ajos muy finos, y el perejil (hojas y tallos tiernos) lo más fino que puedas. Enfría los huevos en agua fría, pélalos y pártelos por la mitad.",
@@ -964,7 +981,8 @@ window.RECETAS_SEED.push({
     { n: "plátano", q: 2, u: "ud", nota: "maduros pero firmes" },
     { n: "huevo", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 100, u: "ml", nota: "para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para el arroz y pica la cebolla y 1 ajo. Para el tomate: pocha la cebolla y el ajo picados con 2 cucharadas de aceite en un cazo a fuego medio 6 minutos. Añade el tomate, el azúcar y sal y cuece a fuego suave 20 minutos, removiendo de vez en cuando, hasta que espese. Tritúralo si lo quieres fino.",

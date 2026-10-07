@@ -33,7 +33,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta", nota: "tostado" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz frotándolo entre las manos y cambiando el agua hasta que salga casi clara. Cuécelo con 170 ml de agua tapado: hervor fuerte, fuego mínimo 12 minutos y 10 minutos de reposo sin destapar.",
@@ -74,7 +75,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pak choi", q: 300, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo desde que hierva y 5 de reposo.",
@@ -117,7 +119,8 @@ window.RECETAS_SEED.push({
     { n: "alga nori", q: 1, u: "ud", nota: "1 hoja" },
     { n: "sésamo", q: 1, u: "cda", nota: "tostado" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara, déjalo escurrir 10 minutos y cuécelo con 190 ml de agua: tapado, hervor, fuego mínimo 12 minutos y 10 de reposo. Tiene que estar muy caliente al montar el plato.",
@@ -164,7 +167,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 2, u: "cdta" },
     { n: "guisantes congelados", q: 40, u: "g" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 170 ml de agua, tapado: 12 minutos a fuego mínimo desde el hervor y 10 de reposo.",
@@ -210,7 +214,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "col china", q: 300, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los huevos en agua hirviendo, cuécelos 9 minutos y pásalos a agua con hielo. Pélalos y sécalos muy bien con papel: el agua hace que el aceite salte. Haz 3 o 4 cortes superficiales en cada uno para que la salsa entre.",
@@ -253,7 +258,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre negro", q: 1, u: "cda", nota: "de Chinkiang; o vinagre de arroz" },
     { n: "azúcar", q: 0.5, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
@@ -298,7 +304,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "azúcar", q: 0.5, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
@@ -342,7 +349,8 @@ window.RECETAS_SEED.push({
     { n: "naranja", q: 1, u: "ud", nota: "solo la piel; sustituye al yuzu" },
     { n: "aceite de girasol", q: 1, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el nabo en 4 rodajas de 3 cm y pélalas gruesas, unos 3 mm, para quitar la capa fibrosa bajo la piel. Bisela el borde de cada rodaja con el pelador (mentori): así no se desmoronan al cocer. Haz en una cara un corte en cruz de 1 cm de profundidad para que se cuezan y empapen por igual.",
@@ -391,7 +399,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "arroz jazmín", q: 100, u: "g" }
+    { n: "arroz jazmín", q: 100, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja las shiitake en 300 ml de agua caliente 30 minutos, con un plato encima para que no floten. Escúrrelas apretando, quítales el pie y córtalas por la mitad. Cuela el agua de remojo con un papel de cocina y resérvala: es el caldo del guiso.",
@@ -438,7 +447,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 3, u: "ud", nota: "solo la parte verde y la más tierna de la blanca" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "copos de chile coreano", q: 1, u: "cdta", nota: "gochugaru; o pimentón dulce con una pizca de cayena" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 170 ml de agua, tapado: 12 minutos a fuego mínimo y 10 de reposo.",
@@ -485,7 +495,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "chile rojo fresco", q: 1, u: "ud" },
     { n: "vinagre de arroz", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 8 minutos desde que el agua hierva, enfríalos y pélalos. Corta la panceta en dados de 3 cm y el tofu en cubos de 3 cm.",
@@ -527,7 +538,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 3, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "pepino", q: 1, u: "ud" }
+    { n: "pepino", q: 1, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
@@ -573,7 +585,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
@@ -620,7 +633,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "sriracha", q: 2, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
@@ -664,7 +678,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 2, u: "ud" },
     { n: "salsa de pescado", q: 1.5, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
-    { n: "arroz jazmín", q: 120, u: "g" }
+    { n: "arroz jazmín", q: 120, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
@@ -706,7 +721,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo. Remoja las gambas secas en agua caliente 10 minutos y escúrrelas.",
@@ -747,7 +763,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra en grano", q: 1, u: "cdta" },
     { n: "laurel", q: 2, u: "hoja" },
     { n: "azúcar", q: 0.5, u: "cdta" },
-    { n: "arroz jazmín", q: 140, u: "g" }
+    { n: "arroz jazmín", q: 140, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
@@ -792,7 +809,8 @@ window.RECETAS_SEED.push({
     { n: "cacahuetes", q: 25, u: "g", nota: "tostados sin sal" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
@@ -838,7 +856,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1.5, u: "cda" },
     { n: "azúcar de palma", q: 1, u: "cdta", nota: "o azúcar moreno" },
     { n: "albahaca tailandesa", q: 0.5, u: "manojo", nota: "o albahaca normal" },
-    { n: "arroz jazmín", q: 140, u: "g" }
+    { n: "arroz jazmín", q: 140, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
@@ -886,7 +905,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1.5, u: "cda" },
     { n: "pimienta blanca", u: "al gusto" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo. Cuece los huevos de codorniz 3 minutos, enfríalos y pélalos.",

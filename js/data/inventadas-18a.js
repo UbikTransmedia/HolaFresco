@@ -112,7 +112,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "guindilla seca", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para el orzo. Mientras, tuesta los pistachos en una sartén seca a fuego medio 3 minutos, hasta que huelan, y pícalos gruesos. Reserva. Lamina los ajos.",
@@ -153,14 +154,15 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en pluma muy fina y déjala en el zumo de medio limón con una pizca de sal mientras preparas lo demás: perderá el picor.",
-    "Con un pelador, saca cintas largas del calabacín hasta llegar a las semillas. Sálalas ligeramente.",
+    "Con un pelador, saca cintas largas del calabacín hasta llegar a las semillas. Sálalas ligeramente. Corta el tomate seco en tiras y pica las almendras.",
     "Tritura las hojas de albahaca con el aceite, el ajo, el zumo del resto del limón, sal y 2 cucharadas de agua hasta obtener un aliño verde y fluido.",
     "Tuesta las almendras picadas en una sartén seca 2-3 minutos, hasta que estén doradas.",
-    "En un bol mezcla las lentejas, las cintas de calabacín, el tomate seco en tiras, las alcaparras y la cebolla con su jugo. Riega con el aliño, remueve con cuidado y termina con las almendras y pimienta."
+    "En un bol mezcla las lentejas, las cintas de calabacín, el tomate seco, las alcaparras y la cebolla con su jugo. Riega con el aliño, remueve con cuidado y termina con las almendras y pimienta."
   ],
   nutricion: { kcal: 430, prot: 22, hc: 40, grasa: 20 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "sin cocción", "ideal para llevar", "verano", "detox", "poco especiada", "bajo en colesterol"],
@@ -240,7 +242,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 30, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. En una sartén con 1 cucharada de aceite a fuego medio-alto, dora los garbanzos secos 6 minutos, hasta que crujan. Sálalos y resérvalos.",
@@ -288,7 +291,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el cuscús en un bol con la ralladura de limón y una pizca de sal, vierte el caldo hirviendo, tapa con un plato y deja reposar 5 minutos.",
-    "Corta el tempeh en dados de 1,5 cm y el calabacín en medias lunas, pica el ajo y las hierbas. Tuesta las almendras picadas en una sartén seca 2 minutos y resérvalas.",
+    "Mientras reposa, corta el tempeh en dados de 1,5 cm y el calabacín en medias lunas, pica el ajo, las hierbas y las almendras. Tuesta las almendras picadas en una sartén seca 2 minutos y resérvalas.",
     "Calienta 1 cucharada de aceite en la sartén a fuego medio-alto y dora el tempeh 6 minutos, girándolo, hasta que esté dorado por todas las caras.",
     "Añade el calabacín, el ajo, el comino y el pimentón y saltea 4 minutos, hasta que el calabacín esté tostado pero firme. Riega con el zumo de limón y salpimienta.",
     "Esponja el cuscús con un tenedor, mézclalo con el resto del aceite y las hierbas, y sirve con el tempeh, el calabacín y las almendras por encima."
@@ -325,7 +328,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura las judías con el tahini, medio ajo, el zumo de limón, sal y 2-3 cucharadas de agua hasta obtener una crema lisa y untable.",
@@ -628,7 +632,7 @@ window.RECETAS_SEED.push({
     "En una cazuela con 1,5 cucharadas de aceite, pocha la chalota 3 minutos. Añade el arroz y nácaralo 1 minuto, hasta que los granos estén brillantes.",
     "Vierte el vino y deja que se evapore. Añade los tallos de espárrago y ve incorporando el caldo caliente cucharón a cucharón, removiendo a menudo y esperando a que se absorba, durante 16 minutos.",
     "A los 12 minutos añade las puntas de espárrago, los guisantes y las judías, aplastando unas cuantas con la cuchara para que den cremosidad.",
-    "Cuando el arroz esté al dente y el conjunto fluya como una ola, apaga y añade la levadura nutricional, la ralladura y el zumo de limón y el resto del aceite. Remueve con energía 1 minuto y deja reposar tapado 2 minutos.",
+    "Cuando el arroz esté al dente y el conjunto fluya como una ola, apaga y añade la levadura nutricional, la ralladura y el zumo de limón y el resto del aceite. Remueve con energía 1 minuto y deja reposar tapado 2 minutos. Mientras, pica la menta.",
     "Sirve con la menta picada, las almendras y pimienta recién molida."
   ],
   nutricion: { kcal: 600, prot: 24, hc: 81, grasa: 20 },
@@ -671,10 +675,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece las lentejas rojas en 400 ml de agua a fuego medio 12-15 minutos, removiendo, hasta que se deshagan y quede un puré espeso casi sin líquido.",
     "Apaga, añade el bulgur y una cucharadita de sal, mezcla bien, tapa y deja reposar 15 minutos: el bulgur absorberá la humedad y se ablandará.",
-    "Mientras, pocha la cebolla muy picada en 2 cucharadas de aceite a fuego medio 8 minutos, hasta que esté dorada. Añade el tomate concentrado, el pimentón y el comino y remueve 1 minuto. Pica muy fino la cebolleta y el perejil.",
+    "Mientras, pica muy fina la cebolla y póchala en 2 cucharadas de aceite a fuego medio 8 minutos, hasta que esté dorada. Añade el tomate concentrado, el pimentón y el comino y remueve 1 minuto. Pica muy fino la cebolleta y el perejil y desgrana la media granada.",
     "Incorpora el sofrito a la mezcla de lentejas, junto con la cebolleta y el perejil, el zumo de medio limón y el resto del aceite. Amasa con las manos hasta que quede compacto; prueba de sal.",
     "Con las manos húmedas, forma croquetas alargadas apretándolas en el puño para que queden con la marca de los dedos.",
-    "Sirve cada köfte sobre una hoja de lechuga, con granos de granada, un chorrito de melaza de granada y gajos de limón para envolver y comer con la mano."
+    "Sirve cada köfte sobre una hoja de lechuga, con los granos de granada, un chorrito de melaza de granada y gajos de limón para envolver y comer con la mano."
   ],
   nutricion: { kcal: 590, prot: 23, hc: 75, grasa: 22 },
   etiquetas: ["mediterránea", "aromática", "ideal para llevar", "batch cooking", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -707,11 +711,12 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "pizca", opcional: true },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece la pasta el tiempo indicado en el paquete.",
-    "Mientras, tuesta las almendras en una sartén seca a fuego medio 3-4 minutos, hasta que estén ligeramente doradas. Reserva un puñadito para servir.",
+    "Mientras, trocea los tomates y tuesta las almendras en una sartén seca a fuego medio 3-4 minutos, hasta que estén ligeramente doradas. Reserva un puñadito y pícalo para servir.",
     "Tritura el resto de las almendras con el ajo hasta que queden como arena gruesa. Añade los tomates troceados, casi toda la albahaca, la levadura nutricional, la guindilla, sal y el aceite y tritura a pulsos: debe quedar una salsa rústica, no un puré liso.",
     "Calienta los garbanzos 2 minutos en el agua de la pasta (añádelos al final de la cocción) y escurre todo junto, reservando medio vaso de agua.",
     "Mezcla la pasta y los garbanzos con el pesto fuera del fuego, añadiendo un chorrito del agua de cocción si queda espeso. Sirve con las almendras reservadas picadas, hojas de albahaca y pimienta."
@@ -755,7 +760,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C. Corta el hinojo en gajos finos (reserva las barbas) y la cebolla en gajos. Corta medio limón en rodajas finas.",
     "En una bandeja grande mezcla el hinojo, la cebolla, los garbanzos y las rodajas de limón con el aceite, el pimentón, las hojas de tomillo, sal y pimienta. Extiende en una sola capa.",
     "Hornea 20 minutos, añade los cherry, remueve y hornea 15-20 minutos más, hasta que el hinojo esté tierno y tostado en los bordes y los garbanzos crujan.",
-    "Mientras, bate el tahini con el zumo del otro medio limón, el ajo rallado, sal y agua fría poco a poco hasta que quede una salsa fluida.",
+    "Mientras, pica las barbas de hinojo y bate el tahini con el zumo del otro medio limón, el ajo rallado, sal y agua fría poco a poco hasta que quede una salsa fluida.",
     "Sirve la bandeja regada con la salsa de tahini y las barbas de hinojo picadas por encima."
   ],
   nutricion: { kcal: 435, prot: 17, hc: 44, grasa: 21 },
@@ -841,9 +846,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas en rodajas de medio centímetro, la berenjena y el calabacín en rodajas de 1 cm y los pimientos en tiras anchas.",
     "Extiende las verduras en dos bandejas con papel, píntalas con 2 cucharadas de aceite, sal y pimienta. Hornea 25-30 minutos, hasta que estén tiernas y doradas (la patata debe pincharse sin resistencia).",
-    "Mientras, pocha la cebolla picada y los ajos en la última cucharada de aceite 8 minutos. Añade el tomate, el tomillo, el azúcar y sal y cuece 15 minutos, hasta que la salsa espese.",
+    "Mientras, pica la cebolla y los ajos y póchalos en la última cucharada de aceite 8 minutos. Añade el tomate, el tomillo, el azúcar y sal y cuece 15 minutos, hasta que la salsa espese.",
     "Baja el horno a 190 °C. En una fuente monta capas: patata, la mitad de los garbanzos, berenjena, pimiento, el resto de garbanzos y calabacín, cubriendo cada dos capas con salsa de tomate. Termina con salsa.",
-    "Hornea 15 minutos, hasta que borbotee por los bordes. Deja reposar 5 minutos y sirve con perejil picado."
+    "Hornea 15 minutos, hasta que borbotee por los bordes; mientras, pica el perejil. Deja reposar 5 minutos y sirve con el perejil picado."
   ],
   nutricion: { kcal: 640, prot: 22, hc: 84, grasa: 24 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "verano", "poco especiada", "bajo en colesterol"],
@@ -927,8 +932,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita las puntas a las judías y córtalas en trozos de 5 cm. Pela la patata y córtala en dados grandes.",
-    "En una cazuela, pocha la cebolla picada con 1,5 cucharadas de aceite a fuego medio 7 minutos, hasta que esté transparente. Añade el ajo laminado y rehoga 1 minuto.",
+    "Quita las puntas a las judías y córtalas en trozos de 5 cm. Pela la patata y córtala en dados grandes. Pica la cebolla y lamina el ajo.",
+    "En una cazuela, pocha la cebolla con 1,5 cucharadas de aceite a fuego medio 7 minutos, hasta que esté transparente; mientras, pica el eneldo y el perejil. Añade el ajo laminado y rehoga 1 minuto.",
     "Incorpora el tomate, las judías, la patata, la mitad del eneldo picado, sal, pimienta y 150 ml de agua. Tapa y cuece a fuego suave 30 minutos, removiendo de vez en cuando, hasta que las judías estén muy tiernas y la salsa espesa.",
     "Añade los garbanzos y cuece 5 minutos más destapado para que se impregnen y la salsa se reduzca.",
     "Apaga, añade el resto del eneldo y el perejil y deja reposar 10 minutos. Sirve templado con un hilo del aceite restante en crudo."
@@ -1011,11 +1016,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Pica fina la cebolla, la zanahoria y el apio y póchalos en una sartén con 2 cucharadas de aceite a fuego medio 10 minutos, hasta que estén blandos.",
+    "Precalienta el horno a 180 °C. Pica fina la cebolla, la zanahoria y el apio y póchalos en una sartén con 2 cucharadas de aceite a fuego medio 10 minutos, hasta que estén blandos. Mientras, lamina los ajos y pica el eneldo y el perejil.",
     "Añade los ajos laminados, el orégano y la canela y rehoga 1 minuto. Incorpora el tomate, 150 ml de agua, sal y pimienta y cuece 5 minutos.",
     "Fuera del fuego, mezcla con cuidado los judiones, la mitad del eneldo y el perejil picados. Pasa a una fuente de horno no muy grande.",
     "Riega con el aceite restante y hornea sin tapar 60-70 minutos, hasta que la salsa esté espesa y caramelizada por los bordes y la superficie de los judiones tostada. Si se secara antes, añade un chorrito de agua.",
-    "Deja reposar 10 minutos y sirve templado con el resto del eneldo fresco por encima."
+    "Deja reposar 10 minutos y sirve templado con el resto del eneldo por encima."
   ],
   nutricion: { kcal: 430, prot: 18, hc: 42, grasa: 21 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "batch cooking", "invierno", "detox", "poco especiada", "bajo en colesterol"],
@@ -1056,11 +1061,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Corta la patata en rodajas finas y el calabacín, la berenjena, el pimiento y la cebolla en trozos de bocado. Ralla dos tomates y corta el tercero en rodajas.",
+    "Precalienta el horno a 190 °C. Corta la patata en rodajas finas y el calabacín, la berenjena, el pimiento y la cebolla en trozos de bocado. Ralla dos tomates y corta el tercero en rodajas. Lamina los ajos y pica el eneldo y el perejil.",
     "En una fuente grande mezcla las verduras troceadas con los garbanzos, el tomate rallado, los ajos laminados, el orégano, la mitad del eneldo y el perejil picados, el aceite, sal, pimienta y 100 ml de agua.",
     "Cubre con las rodajas de tomate, tapa con papel de aluminio y hornea 45 minutos.",
     "Destapa, remueve con cuidado y hornea 50-60 minutos más, removiendo una vez, hasta que las verduras estén melosas y tostadas por arriba y el jugo se haya reducido a un aceite rojizo.",
-    "Mientras, tuesta las almendras picadas en una sartén seca 2 minutos. Sirve el briam templado con el resto del eneldo y las almendras por encima."
+    "Mientras, pica las almendras y tuéstalas en una sartén seca 2 minutos. Sirve el briam templado con el resto del eneldo y las almendras por encima."
   ],
   nutricion: { kcal: 460, prot: 16, hc: 54, grasa: 20 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "al horno", "verano", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],

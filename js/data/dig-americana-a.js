@@ -40,7 +40,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "eneldo fresco", q: 2, u: "rama" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la carne del bogavante: separa la cola del cuerpo, corta la parte inferior del caparazón con unas tijeras y extrae la cola entera; rompe las pinzas y los nudillos con el dorso de un cuchillo y saca la carne con cuidado de no dejar trozos de cartílago.",
@@ -86,7 +87,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 3, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava las patatas nuevas y cuécelas enteras con piel en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. En los últimos 5 minutos añade a la misma olla las judías verdes despuntadas.",
@@ -131,7 +133,8 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 150, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y las zanahorias, córtalas en trozos de 3 cm y cuécelas en agua con sal (o al vapor) 18-20 minutos, hasta que estén tiernas.",
@@ -178,7 +181,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 140, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las gambas y guarda cabezas y cáscaras. Ponlas en un cazo con 500 ml de agua y el laurel, aplasta las cabezas con una cuchara, hierve 15 minutos a fuego suave y cuela apretando bien: tendrás unos 350 ml de caldo de marisco sin cebolla.",
@@ -224,7 +228,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 20, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal gruesa", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto", nota: "unos granos" }
+    { n: "pimienta negra", u: "al gusto", nota: "unos granos" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon al fuego una olla grande con 2,5 litros de agua, el laurel, las semillas de mostaza, 1,5 cucharaditas de pimentón dulce, el pimentón ahumado, el tomillo, unos granos de pimienta, un limón partido por la mitad y exprimido dentro, y sal gruesa (el agua debe estar sabrosa, como un caldo). Llévalo a ebullición y deja que hierva 5 minutos para que las especias suelten su aroma.",
@@ -313,7 +318,8 @@ window.RECETAS_SEED.push({
     { n: "patata nueva", q: 350, u: "g" },
     { n: "aceite de oliva", q: 4, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el pez espada de la nevera. Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas; mientras, parte los tomates cherry por la mitad y corta la cebolleta en aros y la albahaca en tiras. Escurre las patatas, pártelas por la mitad y alíñalas con 1 cucharadita de aceite, ralladura de limón y sal.",
@@ -404,7 +410,8 @@ window.RECETAS_SEED.push({
     { n: "nueces pecanas", q: 12, u: "g" },
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz salvaje en abundante agua con sal 40-45 minutos, hasta que algunos granos se abran y muestren el interior blanco. En los últimos 12 minutos, cuece aparte el basmati lavado con 160 ml de agua y sal, tapado a fuego mínimo. Escurre el salvaje y mezcla ambos.",
@@ -496,7 +503,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 4, u: "hoja" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos, hasta que se deshagan al pincharlas.",
@@ -544,7 +552,8 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 150, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta la harina de arroz en una sartén seca a fuego medio-bajo, removiendo sin parar 6-8 minutos, hasta que tenga color de avellana y huela a pan tostado. Pásala a un plato para que no siga oscureciéndose.",
@@ -589,7 +598,8 @@ window.RECETAS_SEED.push({
     { n: "piña", q: 160, u: "g", nota: "2 rodajas" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la salsa: ralla el jengibre y mézclalo con el zumo de piña, el tamari, el azúcar moreno, el aceite de ajo, el tomate concentrado y el vinagre. Reserva un tercio para glasear.",
@@ -774,7 +784,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "rábanos", q: 4, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas.",
@@ -819,7 +830,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "aceite de oliva", q: 3, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca las chuletas de la nevera. Precalienta el horno a 210 °C. Corta las patatas en dados de 2 cm, mézclalas con 2 cucharaditas de aceite, las hojas de tomillo y sal, y ásalas 30 minutos, removiendo a mitad, hasta que estén doradas.",
@@ -862,7 +874,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "comino molido", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a calentar un cazo con agua y sal. Asa los tomates enteros en la plancha o sartén muy caliente 8-10 minutos, girándolos, hasta que la piel esté ennegrecida a trozos; entretanto, corta la patata en dados de 1 cm. Tritura los tomates con la cebolleta, la mitad del cilantro, el zumo de media lima, el comino y sal: salsa roja sin picante.",
@@ -949,7 +962,8 @@ window.RECETAS_SEED.push({
     { n: "pan sin gluten", q: 2, u: "rebanada", nota: "grandes" },
     { n: "tomate pera", q: 2, u: "ud", nota: "maduros" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las espinacas, escúrrelas bien y pícalas grueso. Corta en aros los tallos verdes de la cebolleta y reserva un puñado para el final. Corta los tomates en rodajas con una pizca de sal.",
@@ -1043,7 +1057,8 @@ window.RECETAS_SEED.push({
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a calentar una cazuela con 1,5 litros de agua y el vinagre. Corta el pimiento verde y el calabacín en dados de 1 cm, el tomate en dados algo mayores, sin las semillas, y la parte verde de la cebolleta en aros.",
@@ -1088,7 +1103,8 @@ window.RECETAS_SEED.push({
     { n: "brócoli", q: 150, u: "g", nota: "solo los ramilletes" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo los tallos verdes" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño limpio, pon un peso encima y déjalo 15 minutos para que suelte el agua. Precalienta el horno a 220 °C.",
@@ -1135,7 +1151,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir un cazo con agua y, mientras, corta el tempeh en lonchas de 3-4 mm, como tiras de bacon. Cuécelas 5 minutos en el agua hirviendo: así se ablanda, pierde el amargor y absorbe mejor la marinada.",

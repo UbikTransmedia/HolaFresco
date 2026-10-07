@@ -39,7 +39,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 200, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en gajos con piel, ponlos en una bandeja con papel de horno y ásalos 35 minutos, hasta que la carne se hunda al apretarla con un tenedor. Asarla en lugar de hervirla evita que el budín suelte agua. Mientras, pica muy fina la cebolleta.",
@@ -84,7 +85,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 4, u: "ud" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Haz un corte en cruz en la base de los tomates, escáldalos 30 segundos en agua hirviendo, pásalos a agua fría, pélalos y pícalos con su jugo. Pela la patata y córtala en dados de 2 cm. Pica el pimiento en dados pequeños y la cebolleta en aros finos.",
@@ -129,7 +131,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava bien las patatas y cuécelas enteras con piel en agua con sal 20-25 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y déjalas secar 2 minutos en la misma olla destapada.",
@@ -175,7 +178,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "comino molido", q: 1, u: "pizca" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 280 ml de agua y una pizca de sal: lleva a ebullición, tapa y deja 15 minutos a fuego mínimo y 5 de reposo sin destapar.",
@@ -220,7 +224,8 @@ window.RECETAS_SEED.push({
     { n: "tortillas de maíz", q: 4, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enciende el grill del horno al máximo. Pon los pimientos enteros en la bandeja, a unos 10 cm del grill, y ásalos 12-15 minutos, dándoles la vuelta a mitad, hasta que la piel esté ampollada y con manchas negras.",
@@ -265,7 +270,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 60, u: "g" },
     { n: "pepitas de calabaza", q: 20, u: "g" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Coloca las tortillas en una bandeja sin que se solapen y hornéalas 8-10 minutos, dándoles la vuelta a mitad, hasta que estén rígidas y crujientes como una tostada.",
@@ -312,7 +318,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 140, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 280 ml de agua y una pizca de sal: 15 minutos tapado a fuego mínimo y 5 de reposo sin destapar.",
@@ -401,7 +408,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "lechuga romana", q: 100, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la pechuga en una cazuela con agua fría que la cubra, el laurel, la mitad de la zanahoria en trozos grandes y sal. Lleva a hervor suave y cuece 15 minutos a fuego bajo, sin que borbotee; apaga y deja el pollo 10 minutos más en el caldo para que quede jugoso.",
@@ -445,7 +453,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la yuca, córtala en trozos de 5 cm, ábrelos a lo largo y quítales la hebra fibrosa del centro. Cuécela en agua con sal y el laurel 20-25 minutos, hasta que esté tierna y algo translúcida. Pela la patata, córtala en trozos y cuécela aparte 15 minutos.",
@@ -491,7 +500,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 120, u: "g" },
     { n: "tortillas de maíz", q: 4, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pon en una cazuela agua que cubra el pescado con el laurel y sal. Cuando hierva, baja el fuego para que apenas tiemble, mete la merluza y escálfala 6-8 minutos, hasta que esté opaca y se separe en lascas. Sácala con una espumadera, déjala templar y desmenúzala con los dedos, buscando cualquier espina.",
@@ -534,7 +544,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela el boniato, córtalo en dados de 1,5 cm, mézclalo con el pimentón, una pizca de sal y 1 cucharadita del aceite, y ásalo 20 minutos, hasta que esté tierno y dorado por los bordes.",
@@ -580,7 +591,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 1, u: "manojo" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los mejillones en una cazuela con 100 ml de agua, tapa y cuécelos a fuego fuerte 3-4 minutos, hasta que se abran. Retíralos, desecha los que sigan cerrados, quita una de las conchas a cada uno y cuela el líquido que han soltado con un paño fino.",
@@ -626,7 +638,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 100, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la ternera en dados de 1,5 cm, quitando la grasa visible, y salpimiéntala. Pela y pica el tomate. Corta la cebolleta en aros y pica el perejil: juntos son el cheiro-verde brasileño.",
@@ -714,7 +727,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la yuca, córtala en trozos, ábrelos a lo largo y quita la hebra fibrosa del centro. Cuécela en agua con sal 25-30 minutos, hasta que esté muy tierna y empiece a abrirse. Escúrrela bien y déjala humear 5 minutos para que pierda agua.",
@@ -805,7 +819,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "parmesano", q: 20, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea la zanahoria y tritúrala con los tomates hasta tener un puré fino; pásalo por un colador apretando con una cuchara para quitar pieles y semillas. Pica la cebolleta y el perejil.",
@@ -847,7 +862,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara. Ponlo en una cazuela con la leche de coco, 200 ml de agua, el azúcar y una pizca de sal, lleva a ebullición y remueve una vez.",
@@ -1060,7 +1076,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la ternera en una cazuela con 1,2 litros de agua, el laurel y sal. Cuando hierva, espuma, baja el fuego y cuece tapado a fuego suave 45 minutos, hasta que la carne esté tierna.",
@@ -1104,7 +1121,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "lima", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Parte los tomates por la mitad, el pimiento en tiras anchas sin semillas y la zanahoria en rodajas de 1 cm. Extiéndelos en una bandeja, rocíalos con el aceite de ajo, el achiote, el comino y sal, y ásalos 30 minutos, hasta que los tomates estén arrugados y con los bordes tostados.",

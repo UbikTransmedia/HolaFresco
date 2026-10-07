@@ -33,7 +33,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la merluza en 4 trozos, sálala y riégala con el zumo de medio limón. Déjala en la nevera mientras preparas lo demás: el ácido la perfuma y afirma la carne.",
@@ -78,7 +79,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "yuca", q: 300, u: "g", nota: "pelada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pasa las hojas de plátano unos segundos por la llama o por agua hirviendo: se vuelven flexibles y brillantes y ya no se rompen al doblarlas.",
@@ -122,7 +124,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el atún en dados de 3 cm, sécalos con papel y úntalos con media cucharadita de cúrcuma y sal.",
@@ -211,7 +214,8 @@ window.RECETAS_SEED.push({
     { n: "kale", q: 200, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien las doradas, sálalas por dentro y por fuera y frótalas con la cúrcuma y el zumo del limón. Ralla el tomate y pica el verde de la cebolleta y el cilantro.",
@@ -254,7 +258,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo lo verde" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un cazo con la leche de coco, 180 ml de agua y sal. Lleva a hervor, tapa y cocina a fuego mínimo 12 minutos. Deja reposar tapado 5 minutos y suelta con un tenedor.",
@@ -301,7 +306,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la yuca en trozos de 5 cm, retira la fibra central y ponla a cocer en agua fría con sal. Cuando hierva, cuenta 10 minutos; mientras, pela el boniato y córtalo en trozos de 4 cm. Añádelo y cuece 15 minutos más, hasta que ambos se atraviesen sin resistencia. Escúrrelos y tápalos.",
@@ -344,7 +350,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino blanco", q: 1, u: "cda" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo lo verde" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 18-20 minutos, hasta que estén tiernas.",
@@ -388,7 +395,8 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
     { n: "espinacas frescas", q: 200, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava el fonio y tuéstalo en una cazuela seca a fuego medio 2 minutos, removiendo, hasta que huela a galleta. Añade el doble de su volumen de agua con sal, lleva a hervor, tapa, apaga el fuego y deja 5 minutos; mientras, pica finos el perejil y el cilantro y ralla la piel del limón. Suelta el fonio con un tenedor.",
@@ -432,7 +440,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pollo en trozos de 4 cm, sálalo y úntalo con la mitad de la cúrcuma. Ralla el jengibre y el tomate y corta el verde de la cebolleta en rodajas.",
@@ -478,7 +487,8 @@ window.RECETAS_SEED.push({
     { n: "bicarbonato", q: 1, u: "pizca" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla la harina de teff con 180 ml de agua y una pizca de sal hasta obtener una masa fluida como de crepe. Déjala reposar mientras haces el guiso.",
@@ -525,7 +535,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "patata", q: 400, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Remoja el pan sin gluten en 40 ml de la leche hasta que se deshaga. Mientras, pica el perejil.",
@@ -567,7 +578,8 @@ window.RECETAS_SEED.push({
     { n: "plátano macho", q: 300, u: "g", nota: "pelado, pintón: amarillo con alguna mancha" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pollo en dados de 3 cm y sálalo. Pasa las hojas de plátano por la llama o por agua hirviendo para que se vuelvan flexibles.",
@@ -610,7 +622,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino blanco", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre y ponlo en una cazuela con la ternera, sal y agua que la cubra justo. Lleva a hervor, desespuma, tapa y cuece a fuego suave 1 hora, hasta que esté tierna.",
@@ -654,7 +667,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo lo verde" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el verde de la cebolleta. Tritura el tomate con el jengibre, la mitad del perejil y la mitad de la albahaca hasta obtener una pasta verde rojiza.",
@@ -697,7 +711,8 @@ window.RECETAS_SEED.push({
     { n: "boniato", q: 150, u: "g" },
     { n: "judías verdes", q: 150, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Infusiona las bolsitas de rooibos en 200 ml de agua recién hervida 6 minutos. Retíralas apretándolas.",
@@ -785,7 +800,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la carne de la nevera. Pica el verde de la cebolleta y ralla el jengibre, los tomates y la piel de la media naranja. Para el sheba, calienta el aceite de ajo en un cazo, añade la cebolleta y el jengibre y remueve 1 minuto. Incorpora el pimentón, el tomate, el azúcar, la ralladura y el zumo de la media naranja y sal. Cocina 12 minutos a fuego suave, hasta que espese. Mientras, lleva a hervor 500 ml de agua con sal para el pap.",
@@ -825,7 +841,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "tomillo seco", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si la harina de mandioca no está tostada, tuéstala en una sartén seca a fuego medio 4-5 minutos, removiendo, hasta que esté dorada y huela a pan. Pásala a un bol.",
@@ -869,7 +886,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Deja reposar tapado 5 minutos.",
@@ -956,7 +974,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo lo verde" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Para el geelrys, lava el arroz. Funde la mantequilla en un cazo con la canela, añade el arroz, media cucharadita de cúrcuma y el azúcar y remueve 1 minuto. Vierte 240 ml de agua con sal, tapa y cuece a fuego mínimo 12 minutos. Reposa 5 minutos tapado y retira la canela.",
@@ -997,7 +1016,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de palma", q: 1, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la yuca en trozos, retira la fibra central y cuécela en agua con sal 25-30 minutos, hasta que esté muy tierna.",
@@ -1044,7 +1064,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño y ponle un peso encima 10 minutos para que suelte el agua.",
@@ -1090,7 +1111,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir un cazo de agua. Corta la zanahoria en bastones, mézclala con 1 cucharadita de aceite, el comino y sal y ásala 25 minutos, hasta que esté tierna y dorada en los bordes.",

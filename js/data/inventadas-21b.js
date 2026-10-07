@@ -73,7 +73,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pan de centeno", q: 2, u: "rebanada", opcional: true, nota: "tostado, para servir" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el puerro en rodajas y pica los ajos. Raspa la grasa de los muslos de confit y pon 2 cucharadas en la cazuela. Pocha a fuego suave el puerro y los ajos 6 minutos. Mientras, pela la patata y corta la zanahoria, el nabo y la patata en dados grandes.",
@@ -114,7 +115,8 @@ window.RECETAS_SEED.push({
     { n: "harina de trigo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en trozos. Pon la costilla en la cazuela con 1 litro de agua, el laurel y la patata. Lleva a ebullición, retira la espuma y cuece a fuego suave 30 minutos.",
@@ -152,7 +154,8 @@ window.RECETAS_SEED.push({
     { n: "salvia fresca", q: 6, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Chafa los ajos. Pincha las salchichas con un tenedor y dóralas en la cazuela con 1 cucharada de aceite a fuego medio 6 minutos, girándolas. Retíralas y córtalas en trozos.",
@@ -192,7 +195,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el pimiento y ralla el tomate. En la cazuela con el aceite y la mantequilla, dora la ternera a fuego fuerte 4 minutos, desmenuzándola, hasta que pierda el color rosado.",
@@ -233,7 +237,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el pimiento y ralla el tomate. Salpimienta el cordero y dóralo en la cazuela con el aceite a fuego fuerte 6 minutos, en una sola capa, hasta que esté bien tostado.",
@@ -273,7 +278,8 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "canela molida", q: 0.5, u: "cdta" },
     { n: "cúrcuma molida", q: 0.25, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las lentejas en agua sin sal 20 minutos, hasta que estén tiernas pero enteras. Escúrrelas.",
@@ -313,7 +319,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "laurel", q: 1, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y los ajos, y lava el arroz. Corta el bacon en tiras y dóralo en la cazuela a fuego medio 4 minutos, hasta que esté crujiente y suelte la grasa.",
@@ -353,7 +360,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz en agua con sal 12 minutos, escúrrelo y extiéndelo para que se enfríe un poco (mejor aún si es arroz del día anterior).",
@@ -394,7 +402,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y los ajos. En la cazuela con el aceite, sofríelos a fuego medio 6 minutos. Mientras, pela la calabaza, córtala en dados pequeños y parte los espaguetis en trozos.",
@@ -433,7 +442,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y los ajos. En la cazuela con el aceite, sofríelos a fuego medio 8 minutos, hasta que estén dorados; mientras, pela la calabaza y córtala en dados. Añade el pimentón y el orégano.",
@@ -473,7 +483,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los frijoles en remojo en abundante agua fría. Al día siguiente, escúrrelos y ponlos en la cazuela con la zanahoria entera y agua fría que los cubra tres dedos. Lleva a ebullición y cuece a fuego suave tapado a medias 1 h 45 min, hasta que estén blandos.",
@@ -516,7 +527,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón picante", q: 0.5, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la panceta en dados. Pon en la cazuela el cerdo y la panceta con 1,5 litros de agua. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 hora. Mientras, pela la calabaza y córtala en trozos y pica la cebolla.",
@@ -556,7 +568,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "pimienta negra en grano", q: 6, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una olla con agua fría que las cubra dos dedos y lleva a ebullición. Baja a fuego mínimo y cuécelas 1 h 30 min, asustándolas con agua fría dos o tres veces.",
@@ -714,7 +727,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava bien los chícharos en un colador hasta que el agua salga limpia. Pica la cebolla, corta la zanahoria en rodajas y machaca los ajos con el comino en el mortero.",
@@ -754,7 +768,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla. Derrite la mantequilla en la cazuela a fuego suave y pocha la cebolla 10 minutos, hasta que esté transparente y dulce, sin que tome color. Mientras, pica los ajos.",
@@ -794,7 +809,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo; mientras, pica la cebolla y los ajos y lava las lentejas. Enfría los huevos en agua fría y pélalos.",
@@ -876,7 +892,8 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 10, u: "g", nota: "tostadas, para la picada" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos; mientras, pica la cebolla y ralla el tomate. Enfría los huevos y córtalos en cuartos. Pon las pasas en remojo en agua templada.",
@@ -920,7 +937,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las lentejas en 700 ml de agua a fuego suave 25 minutos, hasta que estén tiernas.",
@@ -1003,7 +1021,8 @@ window.RECETAS_SEED.push({
     { n: "rábano", q: 4, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los frijoles en remojo en abundante agua fría. Al día siguiente, escúrrelos y ponlos en la cazuela con media cebolla, 2 ajos y agua fría que los cubra tres dedos. Lleva a ebullición y cuece a fuego suave 1 hora.",

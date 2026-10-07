@@ -116,7 +116,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el tofu, sécalo apretándolo entre papel de cocina y córtalo en dados de 2 cm. Rebózalo en un bol con la maicena y media cucharada de aceite de oliva.",
@@ -246,7 +247,8 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 125, u: "g" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las zanahorias y córtalas en bastones de 1 cm. Mézclalas con los garbanzos, media cucharada de aceite, el comino y sal, y cocina en la airfryer a 190 °C durante 6 minutos.",
@@ -287,7 +289,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Parte las berenjenas por la mitad a lo largo y haz cortes en rombo en la carne sin llegar a la piel. Píntalas con 1 cucharada de aceite y sal.",
@@ -417,7 +420,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en rodajas de medio centímetro y colócalas en una fuente apta para microondas con 2 cucharadas de agua y sal. Tapa y cocina a 800 W durante 5-6 minutos, hasta que estén casi tiernas.",
@@ -502,7 +506,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 2, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre las pechugas en libro o córtalas en filetes de 1,5 cm de grosor para que se hagan por igual. Sálalas ligeramente y colócalas en una fuente apta para microondas con 2 cucharadas de agua.",
@@ -669,7 +674,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 2, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "aceite de chile", q: 1, u: "cdta", opcional: true }
+    { n: "aceite de chile", q: 1, u: "cdta", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre con cuidado el tofu sedoso y colócalo entero en un plato hondo apto para microondas. Pon el edamame alrededor con 1 cucharada de agua.",
@@ -711,7 +717,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados sin sal" },
     { n: "cogollo", q: 2, u: "ud" },
-    { n: "pepino", q: 0.5, u: "ud" }
+    { n: "pepino", q: 0.5, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pavo picado en un bol apto para microondas con 2 cucharadas de agua y desmenúzalo con un tenedor. Tapa y cocina a 800 W durante 2 minutos.",
@@ -841,7 +848,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura las hojas de albahaca con las almendras, el parmesano, el ajo, el aceite, el zumo del medio limón, sal y 2 cucharadas de agua fría hasta tener un pesto fluido.",
@@ -883,7 +891,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "jengibre fresco", q: 5, u: "g" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "sriracha", q: 1, u: "cdta", opcional: true }
+    { n: "sriracha", q: 1, u: "cdta", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Bate la crema de cacahuete con el tamari, el zumo de la lima, el jengibre rallado, la sriracha y 3-4 cucharadas de agua tibia hasta tener una salsa fluida.",
@@ -1053,7 +1062,8 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 40, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "zumaque", q: 0.5, u: "cdta", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Machaca los garbanzos con un tenedor en un bol junto con el tahini, el zumo del medio limón, el comino, el aceite, sal y 1-2 cucharadas de agua hasta tener un hummus rústico.",

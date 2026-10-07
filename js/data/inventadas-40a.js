@@ -80,7 +80,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "yogur natural", q: 100, u: "g", opcional: true, nota: "para servir" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y ponlo en un cazo con 280 ml de agua y sal. Cuando hierva, tapa y cuece 12 minutos a fuego mínimo; deja reposar 5 minutos tapado.",
@@ -126,7 +127,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y los ajos y pocha todo en el aceite a fuego medio 10 minutos, hasta que esté blando.",
@@ -218,7 +220,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en 200 ml de agua con sal 12 minutos tapada; reposa 5 minutos y extiéndela en un plato para que se enfríe.",
@@ -349,7 +352,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 200, u: "ml" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos, como si fuera pasta. Seis minutos antes del final, añade las judías verdes. Escurre todo junto.",
@@ -395,7 +399,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de carne", q: 300, u: "ml" },
     { n: "cuscús", q: 140, u: "g", nota: "integral" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pica muy finas las espinacas y el perejil y ralla un ajo. Mezcla la ternera con las espinacas, el huevo, el pan rallado, el ajo rallado, la mitad del perejil y sal. Forma 14 albóndigas.",
@@ -441,7 +446,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo y corta la zanahoria en rodajas. Salpimienta el pavo y dóralo en el aceite a fuego fuerte 4 minutos. Sácalo a un plato.",
@@ -537,7 +543,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Seca la ternera con papel, salpimiéntala y dórala en el aceite a fuego fuerte, en dos tandas, 5 minutos en total. Resérvala.",
@@ -583,7 +590,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y cuécelas en 300 ml de agua 12 minutos a fuego suave, hasta que absorban el agua y queden como un puré espeso. Deja enfriar 10 minutos. Mientras, precalienta el horno a 190 °C y ralla la cebolla y la zanahoria.",
@@ -627,7 +635,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos, escúrrelo y deja que se temple.",
@@ -761,7 +770,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "semillas de calabaza", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Mezcla el pollo con el pimentón, sal y media cucharada de aceite, y el brócoli con otra media cucharada y sal. Ponlos en la misma bandeja y hornea 18-20 minutos, hasta que el pollo esté dorado y el brócoli tostado en las puntas.",
@@ -804,7 +814,8 @@ window.RECETAS_SEED.push({
     { n: "mozzarella", q: 80, u: "g" },
     { n: "parmesano", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir agua con sal para la pasta. Mientras, pica muy finos la cebolla, la zanahoria, el calabacín y el ajo.",
@@ -846,7 +857,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en 280 ml de agua con sal 12 minutos tapada. Deja reposar 5 minutos y extiéndela en una bandeja para que se seque. Mientras, lamina el ajo, corta los espárragos en trozos de 3 cm, pica el perejil y ralla y exprime el limón.",
@@ -1021,7 +1033,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 80, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz con 160 ml de agua y sal: 12 minutos tapado a fuego mínimo y 5 de reposo.",
@@ -1068,7 +1081,8 @@ window.RECETAS_SEED.push({
     { n: "arroz integral", q: 130, u: "g" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos y escúrrelo.",
@@ -1113,7 +1127,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 1, u: "ud", nota: "unos 200 g" },
     { n: "arroz largo", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata la soja en el caldo caliente 10 minutos. Mientras, pica la cebolla y el ajo y pela y corta la patata y la zanahoria en dados de 1,5 cm. Escurre la soja apretando y reserva el caldo.",

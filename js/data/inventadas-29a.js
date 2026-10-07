@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el caldo a calentar. Corta la cebolla en plumas y el puerro en rodajas. Pela las patatas y corta un tercio en rodajas finas (se desharán y espesarán el caldo); reserva el resto enteras en agua. Seca bien el cordero con papel de cocina, salpimiéntalo y pásalo por la harina sacudiendo el exceso.",
@@ -80,7 +81,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "mermelada de arándanos rojos", q: 2, u: "cda", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos, hasta que se deshagan al pincharlas.",
@@ -173,7 +175,8 @@ window.RECETAS_SEED.push({
     { n: "pan de centeno", q: 2, u: "rebanada" },
     { n: "aceite de oliva", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el bacon en tiras, pica la cebolla y lamina los champiñones. En la cazuela, dora el bacon a fuego medio 4 minutos hasta que suelte la grasa. Añade el cerdo salpimentado y dóralo 6 minutos, hasta que tenga costra.",
@@ -222,7 +225,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta media cebolla en tiras, pica la cebolla restante y corta la zanahoria en dados. Extiende los filetes, salpimiéntalos y úntalos con la mostaza. Coloca encima 2 lonchas de bacon, la cebolla en tiras y un pepinillo cortado a lo largo. Enróllalos apretando y ciérralos con palillos o hilo.",
@@ -267,7 +271,8 @@ window.RECETAS_SEED.push({
     { n: "guisantes congelados", q: 150, u: "g" },
     { n: "aceite de oliva", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que se deshagan al pincharlas.",
@@ -315,7 +320,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "arroz redondo", q: 140, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la carne en la cazuela, cúbrela con agua fría, lleva a ebullición y hierve 2 minutos. Escurre y enjuaga la carne: así el caldo y la salsa quedarán blancos.",
@@ -361,7 +367,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra en grano", q: 6, u: "ud" },
     { n: "mostaza de Dijon", q: 2, u: "cda", nota: "para servir" },
     { n: "pepinillos", q: 4, u: "ud", nota: "para servir" },
-    { n: "sal gruesa", u: "al gusto" }
+    { n: "sal gruesa", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las carnes en una olla grande con 2,5 litros de agua fría. Lleva a ebullición a fuego medio y retira con una espumadera toda la espuma gris que suba durante los primeros 10 minutos.",
@@ -406,7 +413,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "pizca" },
     { n: "aceite de oliva", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Mientras, pica la chalota y el perejil y lamina los champiñones. Corta la ternera en tiras finas de un dedo de ancho, sécalas y espolvoréalas con la harina.",
@@ -449,7 +457,8 @@ window.RECETAS_SEED.push({
     { n: "pepinillos", q: 3, u: "ud", opcional: true, nota: "en el Alentejo se ponen encurtidos variados" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Adoba la carne: mézclala en un bol con el vino, el pimentón, 3 ajos machacados, el laurel y sal. Tápala y déjala en la nevera al menos 1 hora.",
@@ -496,7 +505,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "patata", q: 350, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el cerdo en tiras finas y mézclalo en un bol con el orégano, el pimentón, el comino, 2 ajos picados, el zumo de medio limón, 2 cucharadas de aceite, sal y pimienta. Deja marinar mientras preparas lo demás (mínimo 15 minutos).",
@@ -584,7 +594,8 @@ window.RECETAS_SEED.push({
     { n: "brócoli", q: 250, u: "g" },
     { n: "tomillo seco", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Bate la harina con los huevos, la leche, el tomillo y una pizca de sal hasta tener una masa lisa como de crepes. Déjala reposar mientras haces el resto (al menos 15 minutos).",
@@ -671,7 +682,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pescado en trozos grandes y sálalo. Pela las patatas y córtalas en rodajas de medio dedo; corta la cebolla y los pimientos en aros y los tomates en rodajas. Lamina el ajo y pica el perejil.",
@@ -757,7 +769,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "guisantes congelados", q: 100, u: "g" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y cuécelas enteras en agua con sal 12 minutos, hasta que estén casi hechas pero firmes. Mientras, corta la cebolla en plumas finas y pica el eneldo. Deja templar las patatas y córtalas en rodajas finas.",
@@ -799,7 +812,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "patata", q: 350, u: "g", nota: "nuevas, pequeñas" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 18-20 minutos, hasta que se dejen pinchar sin resistencia. Escúrrelas.",
@@ -841,7 +855,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 500, u: "g" },
     { n: "guisantes congelados", q: 150, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que estén muy tiernas.",
@@ -882,7 +897,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 100, u: "ml" },
     { n: "polenta", q: 120, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en plumas finas y pica las anchoas y el perejil. Pocha la cebolla con 3 cucharadas de aceite a fuego suave 15 minutos, hasta que esté muy blanda; mientras, corta el bacalao en trozos medianos y quítale piel y espinas. Añade a la cebolla las anchoas y el perejil y remueve hasta que se deshagan.",
@@ -923,7 +939,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "remolacha cocida", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda", nota: "más el necesario para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y cuécelas en agua con sal 20 minutos, hasta que estén muy tiernas.",
@@ -963,7 +980,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza" },
     { n: "cebolla morada", q: 0.25, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre las habas. Pela y trocea la patata y ponla en la cazuela con las habas, el laurel y agua que las cubra justo un dedo. Lleva a ebullición y retira la espuma.",
@@ -1005,7 +1023,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 6, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas, cúbrelas de agua en la cazuela, lleva a ebullición 3 minutos y escúrrelas (así quedan más digestivas, como hacen en Grecia). Mientras se calienta el agua, pica la cebolla y el ajo y corta la zanahoria en dados.",
@@ -1094,7 +1113,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de carne", q: 200, u: "ml" },
     { n: "pan de centeno", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el bacon en tiras y la salchicha en medias lunas, y pica la cebolla y el ajo. Dora el bacon en la cazuela a fuego medio 4 minutos hasta que suelte la grasa. Añade la salchicha y dórala 4 minutos más.",

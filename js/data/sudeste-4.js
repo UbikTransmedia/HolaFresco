@@ -82,7 +82,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "aceite de girasol", q: 2, u: "cda" }
+    { n: "aceite de girasol", q: 2, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Desgrana con los dedos el arroz frío para que no queden terrones. Corta el pollo en tiras finas, las judías verdes en trozos de 2 cm y pica el ajo.",
@@ -463,7 +464,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de girasol", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la calabaza en dados de 2 cm y pica la cebolla, el ajo y el jengibre. Chafa la hierba limón con el lado del cuchillo.",
@@ -511,7 +513,8 @@ window.RECETAS_SEED.push({
     { n: "cacahuetes", q: 15, u: "g", nota: "tostados y picados" },
     { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
     { n: "aceite de girasol", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el boniato y córtalo en dados de 2 cm. Pica la cebolla, el ajo y el jengibre.",
@@ -554,7 +557,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 0.5, u: "ud" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "cacahuetes", q: 30, u: "g", nota: "tostados" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los pepinos dejando alguna tira de piel para el color, pártelos a lo largo, retira las semillas con una cucharilla y trocéalos. Reserva un trozo pequeño cortado en daditos para decorar.",

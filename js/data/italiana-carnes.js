@@ -614,7 +614,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las espinacas, ponlas en un bol apto para microondas tapado y cuécelas 1 minuto y medio a máxima potencia. Escúrrelas apretando con las manos hasta quitarles toda el agua.",

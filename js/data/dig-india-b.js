@@ -39,7 +39,8 @@ window.RECETAS_SEED.push({
     { n: "canela en rama", q: 1, u: "ud", nota: "un trozo de 4 cm" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Cuece las patatas enteras con piel en agua con sal unos 12 minutos, hasta que una brocheta entre con algo de resistencia en el centro. Escúrrelas, pélalas en caliente con ayuda de un paño y pínchalas por todas partes con un tenedor: así la salsa penetrará hasta dentro.",
@@ -81,7 +82,8 @@ window.RECETAS_SEED.push({
     { n: "nueces", q: 30, u: "g" },
     { n: "yogur sin lactosa", q: 150, u: "g" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el kale, quítale los nervios gruesos (son lo más fibroso y lo que peor se digiere) y corta las hojas en tiras de 3 cm, sin picarlas.",
@@ -123,7 +125,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 200, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las semillas de amapola en remojo en 80 ml de agua caliente durante 20 minutos; así se ablandan y se trituran mejor.",
@@ -168,7 +171,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de coco", q: 1, u: "cda" },
     { n: "hojas de curry", q: 15, u: "hoja" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta todas las verduras en bastones de 5 cm de largo y un dedo de grosor: es el corte que define el avial. Pela la patata, la zanahoria y la kabocha; el pepino, con piel pero sin semillas.",
@@ -213,7 +217,8 @@ window.RECETAS_SEED.push({
     { n: "hojas de curry", q: 12, u: "hoja" },
     { n: "semillas de calabaza", q: 30, u: "g" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Lava la kabocha, quítale las semillas y córtala en medias lunas de 2 cm, con piel (en la kabocha se ablanda y se come). Úntalas con la mitad del aceite, la cúrcuma, el cilantro molido y sal.",
@@ -260,7 +265,8 @@ window.RECETAS_SEED.push({
     { n: "cardamomo", q: 3, u: "ud" },
     { n: "yogur sin lactosa", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, trocéalas y cuécelas en agua con sal 15 minutos, hasta que estén tiernas. Mientras, envuelve el tofu en un paño, presiónalo 10 minutos bajo un peso y desmígalo con los dedos, como si fuera paneer. Aprovecha también para cortar la cebolleta en aros, picar el cilantro y rallar el jengibre.",
@@ -303,7 +309,8 @@ window.RECETAS_SEED.push({
     { n: "clavo", q: 2, u: "ud" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "arroz basmati", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el tofu, envuélvelo en un paño limpio y ponle un peso encima 10 minutos para que suelte el agua. Córtalo en dados de 2,5 cm.",
@@ -347,7 +354,8 @@ window.RECETAS_SEED.push({
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
     { n: "pimienta negra en grano", q: 0.5, u: "cdta", nota: "machacada gruesa en el mortero" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 2 cm y cuécelo al vapor o en agua hirviendo 10 minutos: pierde el amargor y queda más tierno y digestivo. Escúrrelo y sécalo con papel.",
@@ -394,7 +402,8 @@ window.RECETAS_SEED.push({
     { n: "granada", q: 60, u: "g", nota: "en granos" },
     { n: "cacahuetes", q: 30, u: "g", nota: "tostados, sin sal" },
     { n: "sal negra", u: "al gusto", nota: "kala namak, o sal normal" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 18-20 minutos, hasta que estén tiernas. Escúrrelas, déjalas templar, pélalas y córtalas en dados de 2 cm.",
@@ -486,7 +495,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 30, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo en un colador fino hasta que el agua salga limpia y tuéstalo en una cazuela seca 2 minutos, hasta que huela a pan. Añade 300 ml de agua con sal, tapa y cuece a fuego mínimo 15 minutos; reposa 5 minutos, suéltalo con un tenedor y extiéndelo en una bandeja para que se enfríe suelto.",
@@ -575,7 +585,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 150, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y cuécelo en 290 ml de agua con sal: 10 minutos tapado a fuego mínimo y 10 de reposo. Extiéndelo en una fuente para que se enfríe un poco y los granos queden sueltos. Mientras se cuece, pica muy fino el jengibre, corta el pepino y el tomate en dados pequeños y pica el cilantro.",
@@ -623,7 +634,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 150, u: "g" },
     { n: "cebolleta (parte verde)", q: 30, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el grill del horno a 230 °C. Parte los tomates por la mitad y ásalos con el corte hacia arriba 15-20 minutos, hasta que la piel se arrugue y se tueste en los bordes. Mientras, lava el arroz basmati y déjalo escurrir, pica el jengibre y corta la parte verde de la cebolleta en aros. Retira las pieles a los tomates y tritura la pulpa con un tenedor: necesitas unos 350 ml.",
@@ -713,7 +725,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y déjalo en remojo 15 minutos. Mientras, ralla el jengibre, pica la parte verde de la cebolleta y sala el cerdo.",
@@ -762,7 +775,8 @@ window.RECETAS_SEED.push({
     { n: "yogur sin lactosa", q: 150, u: "g" },
     { n: "pepino", q: 150, u: "g" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ata en un trozo de gasa (o mete en una bolsita de infusión) las semillas de cilantro, el hinojo, la pimienta, 2 vainas de cardamomo y 2 clavos. Es el «potli» del yakhni: perfuma el caldo sin dejar granos sueltos en el arroz. Corta el jengibre en rodajas.",
@@ -812,7 +826,8 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 9 minutos en agua hirviendo, enfríalos en agua con hielo y pélalos. Hazles unos cortes poco profundos a lo largo para que el masala entre. Deja el azafrán en remojo en 2 cucharadas de agua caliente.",
@@ -859,7 +874,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos de arroz en agua caliente según el envase (unos 5 minutos), hasta que estén flexibles pero firmes.",
@@ -905,7 +921,8 @@ window.RECETAS_SEED.push({
     { n: "hojas de curry", q: 12, u: "hoja" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati y cuécelo en 260 ml de agua con sal: 10 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -954,7 +971,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Maja en el mortero el hinojo, el cilantro en grano y la pimienta hasta romperlos, sin llegar a polvo. Pela el jengibre y córtalo en tiras finas, corta la cebolleta en aros y trocea el tomate.",
@@ -999,7 +1017,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cda" },
     { n: "limón", q: 1.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa las hojas del cilantro de los tallos. Pica muy finos los tallos: son los que dan el sabor al caldo; las hojas son para el final.",
@@ -1041,7 +1060,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "pepino", q: 150, u: "g" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en una cazuela con 1,2 litros de agua. Lleva a ebullición y cuece a fuego suave, semitapado, 35-40 minutos, removiendo de vez en cuando, hasta que los granos estén muy tiernos y abiertos y el agua se haya vuelto blanca y algo espesa. Sala al final.",
@@ -1082,7 +1102,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino", q: 1, u: "manojo" },
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo la parte verde" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati y cuécelo en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; reposa 5 minutos sin destapar.",
@@ -1128,7 +1149,8 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las gambas y guarda las cabezas y las cáscaras. Quítales el hilo intestinal y resérvalas en la nevera. Corta la mitad del jengibre en rodajas y machaca las semillas de cilantro en el mortero.",

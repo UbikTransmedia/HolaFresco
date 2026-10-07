@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 900, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, pica la cebolla en media luna y dórala en la sartén con el aceite a fuego medio 10 minutos, hasta que esté bien tostada: ese color es el que da el sabor profundo al cholent, así que no la dejes solo transparente. Mientras, lamina el ajo y corta la patata en trozos grandes.",
@@ -79,7 +80,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 700, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 60, u: "g", nota: "para mojar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, corta la zanahoria en rodajas, trocea las setas y pica la cebolla y el ajo. Escurre los garbanzos del remojo y ponlos en la olla lenta con la zanahoria, el laurel y el tomillo.",
@@ -174,7 +176,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 700, u: "ml" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Con 6 horas de antelación, pon las judías carillas en remojo en abundante agua fría. Pasado ese tiempo, pica el ajo y pica la cebolla, el pimiento verde y el apio en dados pequeños: es la «santísima trinidad» de la cocina del sur de EE. UU., el equivalente a nuestro sofrito.",
@@ -216,7 +219,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 600, u: "ml" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las habas en remojo en abundante agua fría (8 horas). Al día siguiente, corta la cebolleta en rodajas y lamina el ajo. Escurre las habas y ponlas en la olla lenta con la cebolleta, el ajo, 2 cucharadas de aceite y el caldo caliente.",
@@ -305,7 +309,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana fina, el jengibre y el ajo en bastoncitos y el chile en aros (sin semillas si lo quieres suave). En el moilee las verduras se ven, no se trituran.",
@@ -352,7 +357,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fino la cebolla, el pimiento, el ajo y el chile. Cuanto más pequeño, mejor: en la olla lenta no hay sofrito previo y el corte fino hace que las verduras se deshagan en la salsa.",
@@ -394,7 +400,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "pan", q: 120, u: "g", nota: "en rebanadas, para tostar" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados de 2 cm. Ponla en la olla lenta con los ajos enteros, el laurel, el aceite y 100 ml de agua.",
@@ -485,7 +492,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cda" },
-    { n: "cebolleta", q: 2, u: "ud", nota: "solo la parte verde" }
+    { n: "cebolleta", q: 2, u: "ud", nota: "solo la parte verde" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima (una sartén con un par de latas) y déjalo 15 minutos. Al quitarle agua, absorbe mejor la salsa y no se rompe en el guiso. Mientras, en la olla lenta mezcla la soja, el mirin, el azúcar y 250 ml de agua. Aplasta el ajo, quita el pie a las shiitake y pártelas por la mitad, y añádelos a la olla con el jengibre, el anís y la canela.",
@@ -530,7 +538,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta una tapa a cada pimiento por el lado del tallo, saca las semillas y los nervios blancos y guarda las tapas. Pica fina la cebolla.",
@@ -574,7 +583,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pan de pita", q: 2, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las berenjenas en dados grandes de 3 cm, ponlas en un bol con una cucharadita de sal y déjalas 20 minutos. Escúrrelas y sécalas con papel: la sal saca agua y la berenjena no dejará el guiso aguado. Mientras, corta la cebolla en juliana y pela los ajos.",
@@ -624,7 +634,8 @@ window.RECETAS_SEED.push({
     { n: "col blanca", q: 200, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "veganesa", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre la jaca, enjuágala bien para quitar el sabor a salmuera y córtale la parte dura del centro de cada triángulo. Es la pieza que no se deshilacha. Corta la cebolla en juliana y pica el ajo.",
@@ -713,7 +724,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre las espinacas apretándolas con las manos hasta que no suelten ni una gota: el agua que quede aguaría el relleno y lo haría salir de las conchas. Pícalas y pica también el ajo.",
@@ -755,7 +767,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 700, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados, trocea la cebolla y pela los ajos. Ponlos en la olla lenta con la coliflor, las almendras, 1 cucharada de aceite y sal. Cubre con el caldo caliente justo a ras, sin pasarte: siempre puedes aclarar al final, pero no espesar.",
@@ -937,7 +950,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "lechuga romana", q: 1, u: "ud", nota: "hojas enteras" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "En un bol grande pon el bulgur fino con el tomate concentrado, los dos pimentones, el comino, la cebolla y el ajo rallados y una cucharadita de sal.",
@@ -982,7 +996,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "hierbabuena fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Parte los tomates por la mitad y rállalos por el lado del corte sobre un bol; la piel se queda en la mano. Añade 120 ml de agua fría, el vinagre, 1 cucharada de aceite, el comino y una cucharadita de sal. Debes tener unos 300 ml de líquido.",

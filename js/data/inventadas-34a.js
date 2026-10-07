@@ -118,7 +118,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebolleta", q: 1, u: "ud", nota: "para servir" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Envuelve el tofu en un paño y ponle un peso encima 10 minutos para que suelte agua. Mientras, corta el boniato en dados de 2 cm y el brócoli en ramilletes pequeños.",
@@ -251,7 +252,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "En un bol deslíe la pasta de achiote con el zumo de la naranja, el zumo de media lima, los ajos rallados, el comino, el orégano y una buena pizca de sal. Unta bien las costillas; si tienes tiempo, déjalas marinar 1 hora en la nevera (o toda la noche).",
@@ -380,7 +382,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las berenjenas por la mitad a lo largo y haz cortes en rombo en la carne, sin llegar a la piel. Píntalas con 1 cucharada de aceite y sálalas ligeramente.",
@@ -469,7 +472,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta las patatas en gajos pequeños, mézclalas con 1 cucharada de aceite y sal y hornéalas 15 minutos en una bandeja con papel. Mientras, quita las puntas a las judías verdes.",
@@ -998,7 +1002,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Ralla la media cebolla y escúrrela apretando con las manos para quitarle el jugo. Pica el perejil.",
@@ -1087,7 +1092,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "granada", q: 0.5, u: "ud", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta el brócoli en ramilletes medianos y pela y trocea el tallo. Corta la cebolla morada en gajos. Enjuaga los garbanzos y sécalos bien.",

@@ -24,7 +24,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien el calamar y córtalo en anillas de 1 cm y los tentáculos en trozos. Seca también las gambas con papel de cocina. Salpimienta todo.",
@@ -173,7 +174,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las fresas, quítales el rabito y córtalas en cuartos. Corta los tomates cherry por la mitad. Mézclalos en un bol con una pizca de sal y el vinagre balsámico y deja macerar 10 minutos.",
@@ -213,7 +215,8 @@ window.RECETAS_SEED.push({
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el pepino y córtalo en rodajas muy finas con mandolina (puedes dejar la piel). Ponlo en un colador con una pizca de sal 10 minutos y escurre el agua que suelte.",
@@ -255,7 +258,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y cuécelas enteras con piel en agua con sal 20 minutos hasta que estén tiernas.",
@@ -295,7 +299,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el pan en dados de 2 cm, mézclalos con 1 cda de aceite, una pizca de sal y pimienta y hornéalos 8-10 minutos hasta que estén dorados y crujientes.",
@@ -338,7 +343,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 0.5, u: "ud", nota: "hojas para hacer bocados" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "aceite de oliva", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer 140 g de arroz jazmín: enjuágalo, cúbrelo con 280 ml de agua y una pizca de sal y cuécelo tapado 12 minutos a fuego mínimo desde que hierva. Deja reposar 5 minutos sin destapar.",
@@ -381,7 +387,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "almendras", q: 30, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava los pimientos, quítales las semillas y córtalos en dados pequeños de 1 cm. Corta la cebolla morada en plumas finas y las ramas de apio en láminas finas, reservando las hojas tiernas.",
@@ -493,7 +500,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 40, u: "g" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos en agua hirviendo 10 minutos. Mientras, corta la cebolla morada en plumas muy finas y déjala 10 minutos en agua fría para suavizarla.",
@@ -534,7 +542,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados de 3 cm y los pimientos en tiras anchas. Colócalos en una bandeja con 2 cda de aceite, el comino, sal y pimienta y hornea 25-30 minutos, removiendo a mitad, hasta que estén tiernos y con los bordes dorados.",

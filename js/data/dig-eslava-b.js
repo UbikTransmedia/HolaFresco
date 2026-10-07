@@ -88,7 +88,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y ralla la zanahoria por la parte fina del rallador. Muele los copos de avena en la batidora hasta que parezcan harina gruesa.",
@@ -133,7 +134,8 @@ window.RECETAS_SEED.push({
     { n: "yogur sin lactosa", q: 150, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los nabos y corta una tapa fina por arriba y otra por la base para que se sostengan de pie. Cuécelos en agua con sal 12-15 minutos, hasta que la punta de un cuchillo entre con algo de resistencia: así pierden el punto picante. Escúrrelos y deja que se templen.",
@@ -178,7 +180,8 @@ window.RECETAS_SEED.push({
     { n: "pipas de calabaza", q: 15, u: "g" },
     { n: "queso de oveja curado", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Lava la calabaza, quítale las semillas y córtala en gajos de 2 cm sin pelar; la piel de la kabocha se ablanda al asarse y se come.",
@@ -221,7 +224,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C y unta una fuente de unos 20 × 25 cm con la mitad de la mantequilla.",
@@ -265,7 +269,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 300, u: "g" },
     { n: "yogur sin lactosa", q: 100, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo en un colador con agua caliente hasta que salga clara. Tuéstalo en una cazuela en seco 3 minutos, removiendo, hasta que huela a pan; añade el caldo caliente y una pizca de sal, tapa y cuece a fuego mínimo 15 minutos. Déjalo reposar tapado 5 minutos.",
@@ -395,7 +400,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo las hojas verdes" },
     { n: "queso feta", q: 50, u: "g" },
     { n: "pan sin gluten", q: 100, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura las nueces con el aceite de ajo, el vinagre, el cilantro molido, el fenogreco, media cucharadita de sal y unos 60 ml de agua fría hasta tener una salsa espesa como un yogur. Si queda muy densa, añade agua a cucharadas.",
@@ -440,7 +446,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en agua abundante con sal 10-11 minutos, hasta que esté hecho pero entero. Escúrrelo, pásalo por agua fría y extiéndelo en una fuente para que se enfríe y se suelte.",
@@ -484,7 +491,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el trigo sarraceno en una cazuela con 280 ml de agua y una pizca de sal, lleva a hervor, tapa y cuece a fuego mínimo 12-15 minutos, hasta que absorba el agua y el grano esté tierno pero entero. Déjalo reposar tapado 5 minutos y suéltalo con un tenedor.",
@@ -573,7 +581,8 @@ window.RECETAS_SEED.push({
     { n: "queso de oveja curado", q: 20, u: "g", nota: "rallado" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la zanahoria y corta en aros la parte verde de la cebolleta. Seca el cordero con papel de cocina y sálalo. Calienta el aceite de ajo en una cazuela de fondo grueso a fuego fuerte y dora la carne por tandas, 5-6 minutos, hasta que esté bien tostada por todos los lados.",
@@ -614,7 +623,8 @@ window.RECETAS_SEED.push({
     { n: "panceta ahumada", q: 40, u: "g" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una olla grande con abundante agua y sal.",
@@ -660,7 +670,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 200, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el cordero en dados de 2 cm, sécalo con papel de cocina y sálalo. Corta la zanahoria en bastones y el pimiento en tiras, y pica la parte verde de la cebolleta. Lava el mijo en un colador con agua muy caliente hasta que salga clara.",
@@ -703,7 +714,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua abundante con sal y cuece los tallarines el tiempo del paquete, removiendo los primeros minutos para que no se peguen (la pasta sin gluten se pega más).",
@@ -747,7 +759,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "yogur sin lactosa", q: 100, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el trigo sarraceno con 140 ml de agua y una pizca de sal, tapado y a fuego mínimo, 15 minutos. Déjalo enfriar extendido en un plato.",
@@ -836,7 +849,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "yogur sin lactosa", q: 120, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la ternera en una cazuela con 900 ml de agua fría y el laurel. Lleva a ebullición, retira con una espumadera la espuma gris que suba, tapa dejando una rendija y cuece a fuego suave 60-70 minutos, hasta que la carne esté tierna.",
@@ -881,7 +895,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino blanco", q: 1.5, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "pan sin gluten", q: 60, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en una cazuela con 1 litro de agua fría, la zanahoria entera, el laurel y la pimienta en grano. Lleva a hervor, retira la espuma y cuece a fuego suave 35 minutos; mientras, pica la parte verde de la cebolleta y el cilantro fresco. Saca el pollo, desmígalo y cuela el caldo (quedarán unos 700 ml). Sálalo.",
@@ -923,7 +938,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa las hojas del eneldo de los tallos y ata los tallos con hilo de cocina.",
@@ -968,7 +984,8 @@ window.RECETAS_SEED.push({
     { n: "fideos de arroz", q: 40, u: "g", nota: "finos" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los hígados de nervios y de restos de grasa verdosa y pícalos muy finos con un cuchillo, o tritúralos unos segundos, hasta tener una pasta con algo de textura.",
@@ -1012,7 +1029,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la ternera en dados de 2 cm y ponla en una cazuela con 1,3 litros de agua fría. Lleva a hervor y retira con una espumadera la espuma gris que sube.",

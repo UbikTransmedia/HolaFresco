@@ -70,7 +70,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el ajo y deshaz la pasta de achiote con el zumo de media lima, el ajo, media cucharada de aceite y sal. Mezcla las gambas con la mitad de este adobo.",
@@ -160,7 +161,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Con 2 horas de antelación, pon las lentejas en remojo en agua fría. Escúrrelas y tritúralas con la batidora junto con el jengibre, el curry, el comino y sal hasta obtener una pasta espesa con algo de textura.",
@@ -205,7 +207,8 @@ window.RECETAS_SEED.push({
     { n: "arroz integral", q: 100, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal unos 30 minutos y escúrrelo.",
@@ -248,7 +251,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la remolacha y córtala en gajos finos; corta las zanahorias en bastones. Mézclalas con 1 cucharadita de aceite, el comino y sal (usa guantes o lávate las manos enseguida: la remolacha tiñe).",
@@ -291,7 +295,8 @@ window.RECETAS_SEED.push({
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el chimichurri: pica muy fino el perejil y el ajo y mézclalos con el orégano, la cayena, el vinagre, 1,5 cucharadas de aceite, 1 cucharada de agua y sal. Déjalo reposar mientras cocinas.",
@@ -375,7 +380,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a calentar abundante agua con sal en la cazuela. Mientras, corta la berenjena en dados de 2 cm y mézclala con 1 cucharada de aceite, el orégano y sal. Cocínala en la airfryer a 200 °C durante 10 minutos, agitando a mitad.",
@@ -417,7 +423,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 40, u: "g" },
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la coliflor (o tritúrala a impulsos) hasta que parezca arroz. Ponla en un bol tapado y cocínala en el microondas a máxima potencia 5 minutos.",
@@ -503,7 +510,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pincela las tortillas por ambos lados con el aceite y tuéstalas en la airfryer a 190 °C durante 5–6 minutos, de dos en dos y dándoles la vuelta a mitad, hasta que estén rígidas y crujientes. (Si se abomban, pon encima una rejilla apta.)",
@@ -549,7 +557,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las patatas en gajos, mézclalas con 1 cucharada de aceite y sal y cocínalas en la airfryer a 200 °C durante 20 minutos, agitando cada 7 minutos. Sácalas a un plato.",
@@ -881,7 +890,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura la albahaca con los piñones, el parmesano, el ajo, 2 cucharadas de aceite, el zumo del medio limón, 2 cucharadas de agua y una pizca de sal hasta obtener un pesto fluido.",
@@ -1059,7 +1069,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el bulgur en el doble de su volumen de agua con sal, tapado y a fuego bajo, 10 minutos. Deja reposar tapado.",

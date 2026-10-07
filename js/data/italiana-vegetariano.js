@@ -116,7 +116,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los espárragos con un pelador desde debajo de la yema hasta la base y corta el último centímetro, que es leñoso. Átalos en un manojo con hilo de cocina.",
@@ -201,7 +202,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal 15 minutos. Pela las cebollas y cuécelas enteras en la misma agua los últimos 10 minutos.",
@@ -382,7 +384,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva virgen extra", q: 3, u: "cda" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta.",
@@ -425,7 +428,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo y sofríelos en una sartén con el aceite 5 minutos a fuego medio. Añade el tomate triturado, sal y la mitad de la albahaca, y cuece 12–15 minutos a fuego suave, hasta que espese.",
@@ -467,7 +471,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pan rústico", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Quita las hojas exteriores de la coliflor y recorta la base para que se tenga en pie, sin separar los ramilletes.",
@@ -511,7 +516,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en dados de 3 cm, mézclala con el aceite y sal y ásala 25–30 minutos, hasta que esté tierna y con los bordes caramelizados.",
@@ -552,7 +558,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva virgen extra", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece la fregola en abundante agua con sal 10–12 minutos (mira el paquete), hasta que esté tierna pero con mordida. Escúrrela y extiéndela en una bandeja para que se temple sin apelmazarse.",
@@ -595,7 +602,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva virgen extra", q: 3, u: "cda" },
     { n: "pan de hogaza", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la burrata de la nevera para que se atempere. Corta las berenjenas por la mitad a lo largo y haz cortes en rombo en la pulpa sin llegar a la piel. Píntalas con la mitad del aceite y sálalas.",
@@ -684,7 +692,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Lamina los champiñones, corta el puerro en rodajas finas (lávalo bien entre las capas) y lamina los ajos.",
@@ -729,7 +738,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 6, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Pica muy finos la chalota y el ajo y ralla el parmesano.",
@@ -775,7 +785,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la masa: en un bol, bate el huevo con 70 g de harina y una pizca de sal y añade 175 ml de leche poco a poco, batiendo con varillas, hasta tener una crema lisa y fluida, sin grumos. Déjala reposar 15 minutos.",
@@ -818,7 +829,8 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 30, u: "g" },
     { n: "pan de hogaza", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los calabacines en rodajas de 4–5 mm. Extiéndelas sobre papel de cocina, sálalas ligeramente y déjalas 10 minutos para que suelten agua; mientras, lamina muy fino el ajo. Luego sécalas bien.",
@@ -861,7 +873,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva virgen extra", q: 2, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 18–20 minutos, hasta que se deshagan al pincharlas.",

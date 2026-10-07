@@ -37,7 +37,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 4, u: "rebanada", nota: "de hogaza, mejor del día anterior" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los mejillones raspando la concha y tirando de la barba hacia la parte estrecha; descarta los que estén rotos o abiertos y no se cierren al golpearlos. Corta el cazón en dados de 4 cm y el calamar en anillas de 1 cm. Lamina 2 dientes de ajo.",

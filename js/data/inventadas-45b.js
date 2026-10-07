@@ -32,7 +32,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el solomillo de la nevera 20 minutos antes y quítale la telilla plateada con la punta de un cuchillo: al calentarse se encoge y arquea la pieza. Sálalo. Precalienta el horno a 180 °C.",
@@ -83,7 +84,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la chirivía y, si es gruesa, quítale el corazón central, que es leñoso. Trocéala junto con las patatas y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas. Mientras se cuecen, pica la cebolla, la zanahoria y el apio.",
@@ -127,7 +129,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta la calabaza en dados de 1,5 cm, mézclala con 1 cucharada de aceite, sal y 4 hojas de salvia picadas y ásala 25 minutos, hasta que tenga los bordes tostados. Asada concentra su dulzor; hervida quedaría aguada. Mientras se asa, pon a calentar abundante agua con sal para la pasta, pica la chalota y el ajo y ralla el parmesano.",
@@ -171,7 +174,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "salsa picante", q: 1, u: "cdta", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el boniato y córtalo en dados de 1,5 cm. Ponlo en un recipiente con 2 cucharadas de agua, tapa y cocina en el microondas 4 minutos a máxima potencia. Precocinarlo garantiza que estará tierno por dentro cuando se dore por fuera.",
@@ -257,7 +261,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cdta" },
     { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el magret de la nevera 20 minutos antes de cocinarlo. Pela la chirivía, quítale el corazón si es leñoso y trocéala. Cuécela 15 minutos en la leche con agua hasta cubrir y una pizca de sal: la leche suaviza su sabor terroso.",
@@ -302,7 +307,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "de pueblo, gruesas" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir un cazo de agua para las cebollitas. Repasa las codornices quitando los cañones de plumas que queden, salpimiéntalas por dentro y por fuera y mete en cada una un diente de ajo chafado y una rama de tomillo.",
@@ -346,7 +352,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa las hojas de escarola, quédate con las más claras y trocéalas. Déjalas 10 minutos en agua con hielo: se rizan, quedan crujientes y pierden parte del amargor.",
@@ -388,7 +395,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 4, u: "rama" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Sala el lomo 30 minutos antes de asarlo y átalo con hilo de cocina cada 3 cm: una pieza de grosor regular se asa por igual.",
@@ -436,7 +444,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "cilantro fresco", q: 0.25, u: "manojo" }
+    { n: "cilantro fresco", q: 0.25, u: "manojo" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los fideos en un bol con agua caliente del grifo (no hirviendo) 8 minutos, hasta que estén flexibles pero firmes. Terminarán de hacerse en el wok; si los hierves, se rompen y se apelmazan.",
@@ -480,7 +489,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los nabos con un pelado grueso, porque la capa exterior es la más amarga, y córtalos en dados. Si son grandes o algo viejos, escáldalos 2 minutos en agua hirviendo y tira el agua: así pierden el punto azufrado.",
@@ -529,7 +539,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y déjalo en remojo 20 minutos: el grano se hidrata y luego se alarga sin romperse. Mientras, pica la cebolla, ralla el ajo y el jengibre y pela la chirivía y córtala en dados de 2 cm.",
@@ -571,7 +582,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 1, u: "rebanada" },
     { n: "caldo de verduras", q: 250, u: "ml" },
     { n: "aceite de oliva", u: "al gusto", nota: "para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa las pencas blancas de las hojas verdes. Quita a las pencas los hilos fibrosos tirando desde un extremo, como con el apio, y córtalas en trozos de 8-10 cm.",
@@ -617,7 +629,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y los ajos y ralla el tomate. Salpimienta el conejo. Con la olla destapada, dóralo con 1 cucharada y media de aceite a fuego fuerte en dos tandas, 6-8 minutos, hasta que tenga color. El dorado no «sella» los jugos, pero aporta el sabor tostado que hará rico el guiso. Reserva.",
@@ -705,7 +718,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la merluza en cuatro tacos, sálala y déjala 10 minutos: la sal penetra y la carne se afirma, así no se deshace en la cazuela.",
@@ -749,7 +763,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en dados, mézclala con 1 cucharadita de aceite, sal y la mitad de la salvia y ásala 25 minutos, hasta que esté tierna y con los bordes tostados.",
@@ -798,7 +813,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "yogur natural", q: 100, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz en varias aguas hasta que salga clara y déjalo en remojo 30 minutos con una cucharadita de sal: el grano se hidrata, se alarga y no se rompe.",
@@ -887,7 +903,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 80, u: "ml" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. En una fuente, mezcla las uvas desgranadas, la cebolla en gajos, el romero, el aceite y una pizca de sal.",
@@ -934,7 +951,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz frotándolo entre las manos y cambiando el agua hasta que salga clara. Escúrrelo 15 minutos y cuécelo con 160 ml de agua, tapado, 12 minutos a fuego mínimo; reposa 10 minutos sin destapar para que termine con su vapor.",
@@ -1110,7 +1128,8 @@ window.RECETAS_SEED.push({
     { n: "zumaque", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la calabaza en dados de 2 cm y las coles por la mitad. Mézclalas con 1 cucharada y media de aceite y sal y extiéndelas en una bandeja con las coles con el corte hacia abajo: el contacto con la bandeja las carameliza. Asa 25 minutos.",

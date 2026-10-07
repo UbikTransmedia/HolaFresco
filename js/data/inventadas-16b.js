@@ -69,7 +69,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 4, u: "cda", nota: "virgen extra" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien las gambas con papel de cocina y sálalas ligeramente. Lamina los ajos y pica el perejil.",
@@ -114,10 +115,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta los calabacines a lo largo en láminas de medio centímetro. Úntalas con media cucharada de aceite y sálalas.",
     "Calienta la plancha a fuego fuerte y asa las láminas 2–3 minutos por cada lado, hasta que estén marcadas y tiernas pero no deshechas.",
-    "Mientras, prepara el aliño: ralla el ajo muy fino y mézclalo con el zumo de medio limón, la ralladura, el resto del aceite, sal y pimienta.",
+    "Mientras, pica la mitad de la menta y prepara el aliño: ralla el ajo muy fino y mézclalo con el zumo de medio limón, la ralladura, el resto del aceite, sal y pimienta.",
     "Templa las lentejas 1 minuto en la plancha o 40 segundos en el microondas y mézclalas con la mitad del aliño.",
-    "Mezcla la ricotta con una pizca de sal, pimienta y la mitad de la menta picada.",
-    "Monta los platos: lentejas, calabacín troceado, cucharadas de ricotta, el resto del aliño, hojas de menta y, si te gusta, la guindilla."
+    "Mezcla la ricotta con una pizca de sal, pimienta y la menta picada.",
+    "Monta los platos: lentejas, calabacín troceado, cucharadas de ricotta, el resto del aliño, las hojas de menta restantes y, si te gusta, la guindilla."
   ],
   nutricion: { kcal: 422, prot: 27, hc: 38, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano", "ideal para llevar", "detox", "bajo en colesterol"],
@@ -233,7 +234,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 100, u: "g", nota: "de hogaza, en rebanadas" },
     { n: "aceite de oliva", q: 2.5, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Cuece los huevos 10 minutos, enfríalos en agua fría y pélalos.",
@@ -273,7 +275,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "pan de pita", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Reserva un tercio de los garbanzos. Calienta el resto 3 minutos en un cazo con un poco de su líquido; calientes se trituran mucho más cremosos.",
@@ -314,13 +317,14 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Templa las lentejas 2 minutos en un cazo con 2 cucharadas de agua y una pizca de sal. Escúrrelas.",
     "Aliña las lentejas aún calientes con el aceite, la mostaza, el zumo de medio limón y pimienta: así absorben mejor el aliño.",
-    "Pica el tomate y el pepino en dados y la cebolleta en rodajas finas. Mézclalos con las lentejas.",
-    "Bate el yogur con la ralladura del limón, la mitad del eneldo picado, una pizca de sal y unas gotas de zumo.",
+    "Pica el tomate y el pepino en dados y la cebolleta en rodajas finas. Mézclalos con las lentejas y pica el eneldo.",
+    "Bate el yogur con la ralladura del limón, la mitad del eneldo, una pizca de sal y unas gotas de zumo.",
     "Reparte las lentejas en dos platos, coloca encima la caballa en lascas, una cucharada generosa de yogur y el resto del eneldo."
   ],
   nutricion: { kcal: 458, prot: 37, hc: 37, grasa: 18 },
@@ -363,7 +367,7 @@ window.RECETAS_SEED.push({
     "Pica la cebolla, la zanahoria y el apio en dados pequeños y el ajo en láminas.",
     "Calienta 2 cucharadas de aceite en una cazuela a fuego medio y sofríe las verduras con una pizca de sal 8 minutos, hasta que la cebolla esté transparente y la zanahoria empiece a ablandarse. Añade el ajo y cocina 1 minuto.",
     "Incorpora el tomate concentrado y remueve 1 minuto, hasta que oscurezca un poco. Añade el tomate triturado y cocina 3 minutos.",
-    "Vierte el caldo, el laurel y las alubias. Lleva a ebullición y cuece a fuego suave 15 minutos, hasta que las verduras estén tiernas.",
+    "Vierte el caldo, el laurel y las alubias. Lleva a ebullición y cuece a fuego suave 15 minutos, hasta que las verduras estén tiernas. Mientras, pica el perejil.",
     "Aplasta con la cuchara un cucharón de alubias contra la pared de la cazuela para espesar el caldo. Salpimienta.",
     "Apaga el fuego y añade el perejil picado, la última cucharada de aceite en crudo y un chorrito de zumo de limón. Sirve bien caliente."
   ],
@@ -445,11 +449,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava los mejillones y desecha los que estén rotos o abiertos que no se cierren al golpearlos.",
-    "Pica fina la cebolla y lamina el ajo. Sofríelos en el aceite en una cazuela ancha a fuego medio 6 minutos, hasta que la cebolla esté transparente. Añade la guindilla.",
-    "Incorpora los tomates cherry partidos por la mitad y cocina 3 minutos, hasta que empiecen a deshacerse.",
+    "Pica fina la cebolla y lamina el ajo. Sofríelos en el aceite en una cazuela ancha a fuego medio 6 minutos, hasta que la cebolla esté transparente. Añade la guindilla. Mientras se sofríen, parte los tomates cherry por la mitad y pica el perejil.",
+    "Incorpora los tomates cherry y cocina 3 minutos, hasta que empiecen a deshacerse.",
     "Sube el fuego, añade los mejillones y el vino, y tapa. Cuece 4–5 minutos, moviendo la cazuela, hasta que todos se abran. Desecha los que sigan cerrados.",
     "Añade las alubias al caldo, mezcla con cuidado y cocina 3 minutos destapado para que se calienten y el jugo se concentre. Prueba de sal: los mejillones ya aportan bastante.",
-    "Termina con perejil picado, ralladura y unas gotas de limón. Sirve en platos hondos con el pan tostado para mojar."
+    "Termina con el perejil picado, ralladura y unas gotas de limón. Sirve en platos hondos con el pan tostado para mojar."
   ],
   nutricion: { kcal: 592, prot: 34, hc: 60, grasa: 24 },
   etiquetas: ["mediterránea", "fácil", "aromática", "de cuchara", "una sola sartén"],
@@ -484,14 +488,15 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Calienta el aceite en una cazuela y sofríe la cebolla a fuego medio 5 minutos, hasta que esté blanda. Añade el ajo, la guindilla y las hojas de tomillo y cocina 1 minuto.",
     "Incorpora el orzo y tuéstalo 1 minuto, removiendo, hasta que huela a pan tostado.",
-    "Vierte el caldo caliente, lleva a ebullición y cuece 8 minutos a fuego medio, removiendo a menudo para que no se pegue, como un risotto.",
+    "Vierte el caldo caliente, lleva a ebullición y cuece 8 minutos a fuego medio, removiendo a menudo para que no se pegue, como un risotto. Mientras, ralla el parmesano.",
     "Añade las lentejas y cocina 3 minutos más, hasta que el orzo esté al dente y casi todo el caldo absorbido. Si se seca, añade un poco de agua caliente.",
-    "Apaga el fuego, incorpora las espinacas y remueve hasta que se ablanden. Añade la mitad del parmesano rallado, la ralladura y el zumo de medio limón. Salpimienta.",
+    "Apaga el fuego, incorpora las espinacas y remueve hasta que se ablanden. Añade la mitad del parmesano, la ralladura y el zumo de medio limón. Salpimienta.",
     "Sirve enseguida con el resto del parmesano y un hilo de aceite crudo por encima."
   ],
   nutricion: { kcal: 689, prot: 36, hc: 89, grasa: 21 },
@@ -528,15 +533,16 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, corta las puntas, pártelas en cuartos y sumérgelas en agua con el zumo de medio limón para que no se oscurezcan.",
     "Pica las cebolletas y sofríelas en el aceite en una cazuela a fuego medio 4 minutos, hasta que estén blandas.",
-    "Añade las alcachofas escurridas, sala y saltea 3 minutos. Vierte el vino y deja que se evapore 1 minuto. Añade el caldo, tapa y cuece 10 minutos, hasta que estén tiernas al pincharlas. Mientras, pon a calentar agua en un cazo para los huevos.",
-    "Incorpora las habas, los guisantes y la lechuga en tiras. Cocina destapado 5 minutos, hasta que estén tiernos y verde brillante. Salpimienta y añade la mitad de la menta picada.",
+    "Añade las alcachofas escurridas, sala y saltea 3 minutos. Vierte el vino y deja que se evapore 1 minuto. Añade el caldo, tapa y cuece 10 minutos, hasta que estén tiernas al pincharlas. Mientras, pon a calentar agua en un cazo para los huevos, corta la lechuga en tiras, pica la menta y ralla el parmesano.",
+    "Incorpora las habas, los guisantes y la lechuga. Cocina destapado 5 minutos, hasta que estén tiernos y verde brillante. Salpimienta y añade la mitad de la menta.",
     "Mientras, escalfa los huevos 3 minutos en agua a punto de hervir con un chorrito de vinagre o de limón, hasta que la clara esté cuajada y la yema líquida.",
-    "Sirve el estofado en platos hondos con el huevo encima, parmesano rallado, ralladura de limón, la menta restante y un hilo de aceite."
+    "Sirve el estofado en platos hondos con el huevo encima, el parmesano, ralladura de limón, la menta restante y un hilo de aceite."
   ],
   nutricion: { kcal: 454, prot: 28, hc: 36, grasa: 22 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "primavera", "de cuchara", "poco especiada"],
@@ -572,13 +578,14 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 60, u: "g" },
     { n: "aceite de oliva", q: 4, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo.",
     "Pica la cebolla, la zanahoria y el apio en dados pequeños y el ajo fino. Sofríelos en 3 cucharadas de aceite en una sartén apta para horno a fuego medio 8 minutos, hasta que estén blandos y dulces.",
-    "Añade el tomate concentrado y el orégano y remueve 1 minuto. Incorpora el tomate triturado y 100 ml de agua, salpimienta y cocina 5 minutos.",
-    "Fuera del fuego, mezcla los judiones con la salsa, la mitad del eneldo y el perejil picados. Si no tienes sartén apta para horno, pasa todo a una fuente.",
+    "Añade el tomate concentrado y el orégano y remueve 1 minuto. Incorpora el tomate triturado y 100 ml de agua, salpimienta y cocina 5 minutos. Mientras, pica el eneldo y el perejil.",
+    "Fuera del fuego, mezcla los judiones con la salsa, la mitad del eneldo y el perejil. Si no tienes sartén apta para horno, pasa todo a una fuente.",
     "Riega con la última cucharada de aceite y hornea 20 minutos, hasta que la salsa esté espesa, burbujeante y los bordes algo tostados.",
     "Desmiga la feta por encima y termina con el resto del eneldo. Deja reposar 5 minutos antes de servir."
   ],
@@ -615,7 +622,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pon las lentejas en un cazo con el laurel y el triple de agua fría, lleva a ebullición y cuece a fuego suave 20–22 minutos, hasta que estén tiernas pero enteras. Sala al final y escurre.",
@@ -661,15 +669,16 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C y forra una bandeja con papel de horno.",
-    "Ralla el calabacín, sálalo ligeramente y déjalo 5 minutos en un colador. Después estrújalo con las manos para quitarle toda el agua posible: es la clave para que las tortitas no se deshagan.",
-    "Aplasta los garbanzos con un tenedor dejando algunos trozos. Mézclalos con el calabacín, el huevo, la harina de garbanzo, la cebolleta y el ajo picados, el comino, la ralladura del limón, la mitad del perejil, sal y pimienta.",
+    "Ralla el calabacín, sálalo ligeramente y déjalo 5 minutos en un colador. Mientras, pica la cebolleta, el ajo, el perejil y la menta. Después estruja el calabacín con las manos para quitarle toda el agua posible: es la clave para que las tortitas no se deshagan.",
+    "Aplasta los garbanzos con un tenedor dejando algunos trozos. Mézclalos con el calabacín, el huevo, la harina de garbanzo, la cebolleta, el ajo, el comino, la ralladura del limón, la mitad del perejil, sal y pimienta.",
     "Forma 8 tortitas de 1,5 cm de grosor con las manos húmedas, colócalas en la bandeja y píntalas con la mitad del aceite.",
     "Hornea 20 minutos, dándoles la vuelta a mitad, hasta que estén doradas y firmes por fuera.",
-    "Mientras, mezcla el yogur con la menta picada, sal y unas gotas de limón. Trocea tomate y pepino y alíñalos con el resto del aceite, perejil y sal. Sirve las tortitas con el yogur y la ensalada."
+    "Mientras, mezcla el yogur con la menta, sal y unas gotas de limón. Trocea tomate y pepino y alíñalos con el resto del aceite, el resto del perejil y sal. Sirve las tortitas con el yogur y la ensalada."
   ],
   nutricion: { kcal: 465, prot: 26, hc: 52, grasa: 17 },
   etiquetas: ["mediterránea", "aromática", "ligera", "al horno", "para niños", "ideal para llevar", "detox", "verduras escondidas", "poco especiada", "bajo en colesterol"],
@@ -712,8 +721,8 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén amplia a fuego medio-alto y dora el pollo 6–7 minutos, sin moverlo demasiado, hasta que esté bien tostado por todos lados. Sácalo a un plato.",
     "En la misma grasa sofríe la cebolla en pluma y el pimiento en tiras 6 minutos, hasta que estén blandos y algo dorados. Añade los ajos laminados y cocina 1 minuto.",
     "Vierte el vino y raspa el fondo para despegar lo tostado. Deja reducir 1 minuto.",
-    "Añade los garbanzos, el caldo, el resto del orégano, el zumo de medio limón y el pollo con su jugo. Tapa y cocina a fuego suave 12 minutos, hasta que el pollo esté hecho y la salsa haya espesado.",
-    "Incorpora las aceitunas, cocina 2 minutos más destapado y termina con perejil picado y unas rodajas finas de limón."
+    "Añade los garbanzos, el caldo, el resto del orégano, el zumo de medio limón y el pollo con su jugo. Tapa y cocina a fuego suave 12 minutos, hasta que el pollo esté hecho y la salsa haya espesado. Mientras, pica el perejil y corta unas rodajas finas del limón.",
+    "Incorpora las aceitunas, cocina 2 minutos más destapado y termina con el perejil y las rodajas de limón."
   ],
   nutricion: { kcal: 667, prot: 47, hc: 41, grasa: 35 },
   etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "alta en proteína", "batch cooking", "poco especiada"],
@@ -757,9 +766,9 @@ window.RECETAS_SEED.push({
     "Pica la cebolla, la zanahoria y el apio en dados pequeños. Sofríelos en 2 cucharadas de aceite en una cazuela grande a fuego medio-bajo 10 minutos, hasta que estén muy blandos y fragantes; mientras, pica el ajo y pela y corta la patata en dados. Añade el ajo picado y cocina 1 minuto.",
     "Agrega la patata en dados, el tomate triturado, el romero y el tomillo, y cocina 3 minutos.",
     "Vierte el caldo y la mitad de las alubias. Aplasta la otra mitad con un tenedor hasta hacer un puré grueso y añádelo: dará cuerpo a la sopa. Cuece a fuego suave 20 minutos. Mientras, quita los tallos duros del kale y córtalo en tiras.",
-    "Añade el kale a la cazuela. Cuece 10 minutos más, hasta que esté tierno. Retira las ramas de hierbas y salpimienta.",
-    "Trocea el pan en dados grandes, incorpóralo a la sopa, apaga el fuego, tapa y deja reposar 10 minutos para que el pan se empape y la ribollita quede muy espesa.",
-    "Sirve en platos hondos con parmesano rallado, pimienta recién molida y la última cucharada de aceite en crudo."
+    "Añade el kale a la cazuela. Cuece 10 minutos más, hasta que esté tierno. Mientras, trocea el pan en dados grandes y ralla el parmesano. Retira las ramas de hierbas y salpimienta.",
+    "Incorpora el pan a la sopa, apaga el fuego, tapa y deja reposar 10 minutos para que el pan se empape y la ribollita quede muy espesa.",
+    "Sirve en platos hondos con el parmesano, pimienta recién molida y la última cucharada de aceite en crudo."
   ],
   nutricion: { kcal: 707, prot: 30, hc: 86, grasa: 27 },
   etiquetas: ["mediterránea", "fácil", "aromática", "de cuchara", "invierno", "batch cooking", "económica", "superalimentos", "poco especiada"],
@@ -794,7 +803,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y sofríela en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el ajo picado y cocina 1 minuto.",
@@ -836,13 +846,14 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "La víspera, pon los garbanzos en remojo en agua fría abundante. Al día siguiente, escúrrelos y cuécelos en una cazuela con agua abundante y el laurel a fuego suave 55–60 minutos, hasta que estén muy tiernos. Sala en los últimos 10 minutos y reserva un vaso del caldo.",
+    "La víspera, pon los garbanzos en remojo en agua fría abundante. Al día siguiente, escúrrelos y cuécelos en una cazuela con agua abundante y el laurel a fuego suave 55–60 minutos, hasta que estén muy tiernos. Sala en los últimos 10 minutos y reserva un vaso del caldo. Durante la cocción, ralla los dos ajos y pica el perejil.",
     "Mientras, precalienta el horno a 200 °C. Corta las pitas en cuadrados, píntalas con 1 cucharada de aceite y hornéalas 8–10 minutos, hasta que estén doradas y crujientes.",
-    "Bate el yogur con un ajo rallado, el tahini, el zumo de medio limón y una pizca de sal. Déjalo a temperatura ambiente.",
-    "Calienta los garbanzos escurridos con 4 cucharadas de su caldo, el comino, el otro ajo rallado y unas gotas de limón 2 minutos.",
+    "Bate el yogur con la mitad del ajo, el tahini, el zumo de medio limón y una pizca de sal. Déjalo a temperatura ambiente.",
+    "Calienta los garbanzos escurridos con 4 cucharadas de su caldo, el comino, el resto del ajo y unas gotas de limón 2 minutos.",
     "Dora las almendras en una sartén con la cucharada de aceite restante a fuego medio 2 minutos, hasta que estén doradas. Aparta del fuego y añade el pimentón.",
     "Monta en una fuente: la pita crujiente, encima los garbanzos con algo de su caldo, el yogur, las almendras con su aceite rojo y el perejil picado. Sirve al momento para que la pita conserve algo de crujiente."
   ],
@@ -876,7 +887,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga las lentejas y ponlas en una cazuela con 800 ml de agua fría. Lleva a ebullición y cuece a fuego suave 20 minutos.",
@@ -918,14 +930,15 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica las cebolletas y lamina el ajo. Corta la panceta en tiras y la butifarra en rodajas gruesas. Dóralas en una cazuela con el aceite a fuego medio 5–6 minutos, hasta que la panceta suelte su grasa y la butifarra esté tostada. Saca la butifarra y reserva.",
     "En la misma grasa sofríe las cebolletas picadas 6 minutos, hasta que estén tiernas. Añade el ajo laminado y cocina 1 minuto.",
     "Ralla el tomate, incorpóralo y cocina 4 minutos, hasta que pierda el agua.",
     "Vierte el vino y deja que se evapore 2 minutos. Añade las habas, el laurel, la mitad de la menta en hojas enteras y 100 ml de agua. Salpimienta con prudencia.",
-    "Tapa y cuece a fuego suave 15 minutos, moviendo la cazuela de vez en cuando, hasta que las habas estén tiernas y melosas.",
+    "Tapa y cuece a fuego suave 15 minutos, moviendo la cazuela de vez en cuando, hasta que las habas estén tiernas y melosas. Mientras, pica el resto de la menta.",
     "Devuelve la butifarra, cocina 3 minutos más destapado y termina con el resto de la menta picada. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 706, prot: 38, hc: 35, grasa: 46 },
@@ -967,7 +980,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Parte los pimientos por la mitad a lo largo, conservando el tallo, y quítales las semillas. Úntalos con media cucharada de aceite, sálalos y hornéalos boca abajo 15 minutos, hasta que empiecen a ablandarse.",
     "Mientras, pica la cebolla y el ajo y sofríelos en una sartén con el resto del aceite a fuego medio 7 minutos, hasta que estén dorados. Añade el comino y el orégano y remueve 20 segundos.",
-    "Incorpora el tomate triturado y cocina 5 minutos, hasta que espese. Añade las lentejas, salpimienta y cocina 3 minutos más. Fuera del fuego, mezcla con la mitad de la feta desmigada y la mitad de la menta picada.",
+    "Incorpora el tomate triturado y cocina 5 minutos, hasta que espese; mientras, desmiga la feta y pica la menta. Añade las lentejas, salpimienta y cocina 3 minutos más. Fuera del fuego, mezcla con la mitad de la feta y la mitad de la menta.",
     "Da la vuelta a los pimientos, rellénalos con la mezcla apretando un poco y reparte el resto de la feta por encima.",
     "Hornea 20–25 minutos, hasta que los pimientos estén muy tiernos y la feta dorada en los bordes.",
     "Mezcla el yogur con unas gotas de limón, sal y la menta restante, y sirve los pimientos con una cucharada encima."
@@ -1004,7 +1017,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 1, u: "rebanada", nota: "para servir" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en agua fría abundante. Al día siguiente, escúrrelas y ponlas en una cazuela con agua fría que las cubra 3 dedos, media cebolla, el laurel y 2 dientes de ajo enteros. Lleva a ebullición, espuma y cuece a fuego muy suave 70–80 minutos, hasta que estén tiernas y cremosas. Sala al final. Mientras, pica la otra media cebolla y lamina los ajos restantes.",
@@ -1049,7 +1063,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 160 °C y pica la cebolla y el ajo. Salpimienta el cordero y dóralo en el aceite en una cazuela apta para horno a fuego fuerte 6–8 minutos, en tandas, hasta que esté bien tostado. Reserva.",

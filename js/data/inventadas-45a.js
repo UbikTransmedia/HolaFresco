@@ -30,7 +30,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los espárragos con un pelador desde justo debajo de la yema hacia la base, apretando cada vez más: la piel del espárrago blanco es fibrosa y, si queda, no hay cocción que la ablande. Corta 2 cm de la base y átalos en un manojo con hilo de cocina para que no se golpeen al hervir.",
@@ -72,7 +73,8 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "caldo de pescado", q: 1000, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el bacalao en dados de 3 cm, sálalo ligeramente y déjalo en la nevera mientras cocinas: la sal penetra y la carne se afirma, así no se deshace luego en el caldo.",
@@ -116,7 +118,8 @@ window.RECETAS_SEED.push({
     { n: "rábano", q: 6, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara un bol con agua y hielo. Escalda los guisantes 3 minutos en agua hirviendo con sal y pásalos al agua helada: el choque de frío fija la clorofila y la crema quedará verde brillante en lugar de verde oliva.",
@@ -206,7 +209,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el bonito de la nevera 15 minutos antes: si entra frío en la plancha, se pasa por fuera antes de templarse por dentro.",
@@ -296,7 +300,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 6, u: "hoja" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las cebolletas, córtalas en cuartos a lo largo y rehógalas en una cazuela con la mantequilla a fuego medio-bajo 3 minutos, sin que tomen color.",
@@ -340,7 +345,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo hasta que no haga espuma: así eliminas las saponinas, que dan sabor amargo. Tuéstala en el cazo seco 2 minutos, hasta que huela a nuez.",
@@ -431,7 +437,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las lentejas en agua fría con el laurel y un diente de ajo, sin sal, 20-25 minutos a fuego suave, hasta que estén tiernas pero enteras. Sala en los últimos 5 minutos y escúrrelas.",
@@ -472,7 +479,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla grueso un calabacín, mézclalo con una pizca de sal y déjalo 10 minutos en un colador; luego apriétalo con las manos. Al quitarle el agua, se concentra el sabor y no aguará la salsa. Corta el otro en medias lunas finas. Mientras escurre, pon a hervir abundante agua con sal (debe saber a agua de mar), lamina el ajo y pica la menta.",
@@ -516,7 +524,8 @@ window.RECETAS_SEED.push({
     { n: "hierbabuena fresca", q: 0.5, u: "manojo" },
     { n: "perejil fresco", q: 3, u: "rama" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Llena un bol con agua fría, el zumo de medio limón y las ramas de perejil. Las alcachofas se oxidan y ennegrecen en cuanto se cortan; el ácido lo frena.",
@@ -559,7 +568,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los ajos tiernos. Corta en aros finos la parte verde de dos de ellos y resérvala para decorar; el resto, en rodajas. Pica la cebolla.",
@@ -603,7 +613,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Forra el molde con la masa, pincha la base con un tenedor, cúbrela con papel de horno y llénala de garbanzos secos o arroz como peso.",
@@ -688,7 +699,8 @@ window.RECETAS_SEED.push({
     { n: "hierbabuena fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lamina el ajo. Corta las cebollas en juliana fina y póchalas en una cazuela con el aceite, el ajo laminado, el laurel y una pizca de sal a fuego suave 20 minutos, removiendo de vez en cuando, hasta que estén blandas y doradas. La sal al principio ayuda a que suelten su agua.",
@@ -778,7 +790,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle encima un peso (una sartén, unos libros) y déjalo 15 minutos. Al sacarle el agua, se dora en vez de cocerse y absorbe mejor la salsa.",
@@ -820,7 +833,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g", nota: "en pieza" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara un bol con agua fría y el zumo de un limón.",
@@ -864,7 +878,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla morada y déjala 5 minutos en agua fría: pierde el picor agresivo y queda crujiente.",
@@ -913,7 +928,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 20 minutos, hasta que estén tiernas; en los últimos 3 minutos, cuece también los guisantes. Mientras, pica fina la cebolla, ralla el jengibre y pica el chile y el cilantro.",
@@ -960,7 +976,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 40, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C y calienta la leche. Prepara la bechamel: funde la mantequilla en un cazo, añade la harina y remueve 2 minutos a fuego suave. Cocinar este roux elimina el sabor a harina cruda.",
@@ -1006,7 +1023,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 160, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 200 ml de agua y sal, tapado, 12 minutos a fuego mínimo; deja reposar 10 minutos sin destapar.",
@@ -1098,7 +1116,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "comino molido", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Deshuesa las cerezas y reserva un puñado para decorar. Trocea los tomates, el pepino pelado, el pimiento y la cebolleta.",

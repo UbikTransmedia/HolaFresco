@@ -31,10 +31,11 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Pela la calabaza y córtala en dados de 3 cm. Mézclala con media cucharada de aceite, el romero picado, el ajo laminado, sal y pimienta y ásala 25-30 minutos en una bandeja, hasta que esté tierna y dorada por los bordes.",
+    "Precalienta el horno a 210 °C. Pela la calabaza y córtala en dados de 3 cm, pica las hojas de romero y lamina el ajo. Mezcla la calabaza con media cucharada de aceite, el romero, el ajo, sal y pimienta y ásala 25-30 minutos en una bandeja, hasta que esté tierna y dorada por los bordes.",
     "Mientras, enjuaga el farro y cuécelo en abundante agua con sal 20-25 minutos, hasta que esté tierno pero con mordida. Escúrrelo y extiéndelo en una fuente para que se temple.",
     "Quita los tallos duros del kale, trocea las hojas y masajéalas 1 minuto con una pizca de sal hasta que se ablanden.",
     "Desgrana la granada golpeando la cáscara con una cuchara sobre un bol. Corta la cebolla morada en plumas finas. Tuesta las semillas de calabaza en el horno los últimos 4 minutos (en una esquina de la bandeja).",
@@ -117,11 +118,12 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y cuécelas enteras con piel en agua con sal desde frío, 20-25 minutos desde que hierva, hasta que un cuchillo entre sin resistencia. En los últimos 10 minutos añade los huevos a la misma cazuela.",
-    "Mientras cuecen, corta el pimiento verde en daditos, el tomate en dados y la cebolleta en rodajas finas. Prepara el aliño: mezcla el aceite con el pimentón, pimienta y una pizca de sal.",
+    "Mientras cuecen, corta el pimiento verde en daditos, el tomate en dados y la cebolleta en rodajas finas, y pica el perejil. Prepara el aliño: mezcla el aceite con el pimentón, pimienta y una pizca de sal.",
     "Saca los huevos a agua fría, pélalos y córtalos en cuartos. Escurre las patatas, pélalas en cuanto puedas tocarlas y córtalas en dados de 2 cm. Alíñalas aún templadas con el vinagre y una pizca de sal: así lo absorben.",
     "Cuando la patata ya no queme (para que el pimentón no amargue), mézclala con el pimiento, el tomate, la cebolleta, las aceitunas y el aliño. Deja reposar 10 minutos en la nevera.",
     "Reparte en dos platos, pon encima el bonito escurrido en lascas grandes y los huevos, y termina con el perejil picado."
@@ -163,7 +165,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "gochujang", q: 1, u: "cda", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la ternera en tiras finas. Mézclala con 3 cucharadas de soja, el azúcar, media cucharada de aceite de sésamo, 2 ajos rallados, el jengibre rallado, la pera rallada y la parte blanca de la cebolleta picada. Deja marinar 20 minutos (la pera ablanda la carne).",
@@ -256,15 +259,16 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el pollo en tiras y mézclalo con 1 cucharada de soja, la cúrcuma, el comino, 1 ajo y la mitad del jengibre rallados, el azúcar y el aceite. Deja marinar 15 minutos mientras preparas el resto (si tienes brochetas de madera, ensártalo).",
-    "Prepara la salsa satay: calienta en un cazo la crema de cacahuete con la leche de coco, el resto de la soja, el otro ajo y el jengibre rallados, la sriracha y el zumo de 1 lima, removiendo 2 minutos a fuego suave hasta que esté lisa. Aligera con agua hasta que caiga de la cuchara en hilo.",
+    "Ralla los ajos y el jengibre. Corta el pollo en tiras y mézclalo con 1 cucharada de soja, la cúrcuma, el comino, la mitad del ajo y del jengibre, el azúcar y el aceite. Deja marinar 15 minutos mientras preparas el resto (si tienes brochetas de madera, ensártalo).",
+    "Prepara la salsa satay: calienta en un cazo la crema de cacahuete con la leche de coco, el resto de la soja, el ajo y el jengibre restantes, la sriracha y el zumo de 1 lima, removiendo 2 minutos a fuego suave hasta que esté lisa. Aligera con agua hasta que caiga de la cuchara en hilo.",
     "Cubre los fideos de arroz con agua hirviendo 3-4 minutos, escúrrelos y refréscalos con agua fría.",
-    "Corta la col lombarda en tiras muy finas, la zanahoria en juliana y el pepino en bastones. Mezcla las verduras con el zumo de la otra lima y una pizca de sal.",
+    "Corta la col lombarda en tiras muy finas, la zanahoria en juliana y el pepino en bastones. Mezcla las verduras con el zumo de la otra lima y una pizca de sal. Pica los cacahuetes.",
     "Calienta la plancha hasta que humee y haz el pollo 4 minutos por cara, hasta que esté bien tostado y cocido por dentro.",
-    "Reparte los fideos y las verduras en dos bowls, pon encima el pollo, riega con la salsa satay y termina con los cacahuetes picados, el cilantro y la menta."
+    "Reparte los fideos y las verduras en dos bowls, pon encima el pollo, riega con la salsa satay y termina con los cacahuetes, el cilantro y la menta."
   ],
   nutricion: { kcal: 755, prot: 43, hc: 64, grasa: 36 },
   etiquetas: ["alta en proteína", "bowl", "picante", "ideal para llevar"],
@@ -344,7 +348,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría con el bicarbonato (12 horas). Al día siguiente, escúrrelos y enjuágalos. Ponlos en una cazuela cubiertos con 3 dedos de agua fría (sin sal) y llévalos a ebullición. Retira la espuma, baja el fuego y cuécelos tapados 75-90 minutos, hasta que se aplasten sin esfuerzo entre dos dedos. Sala los últimos 10 minutos.",
@@ -388,14 +393,15 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece el orzo en abundante agua con sal 8-9 minutos (al dente). Añade los guisantes en los últimos 2 minutos. Escurre, refresca brevemente con agua fría y mezcla con 1 cucharada de aceite para que no se pegue.",
+    "Cuece el orzo en abundante agua con sal 8-9 minutos (al dente). Añade los guisantes en los últimos 2 minutos. Mientras, ralla los ajos y la piel del limón, corta la cebolleta en rodajas y pica el eneldo y la menta. Escurre el orzo, refréscalo brevemente con agua fría y mézclalo con 1 cucharada de aceite para que no se pegue.",
     "Corta los calabacines en rodajas de 1 cm al bies. Hazlas en la plancha muy caliente con unas gotas de aceite, 2-3 minutos por cara, hasta que tengan marcas y estén tiernas. Sálalas al salir.",
-    "Seca los langostinos, mézclalos con 1 ajo rallado, sal, pimienta y la guindilla desmenuzada. Hazlos en la misma plancha 1 minuto y medio por cara, hasta que estén rosados.",
-    "Prepara el aliño con la ralladura y el zumo del limón, el otro ajo rallado, el resto del aceite, sal y pimienta.",
-    "Mezcla el orzo y los guisantes con el calabacín, la cebolleta en rodajas, el eneldo y la menta picados y el aliño.",
+    "Seca los langostinos, mézclalos con la mitad del ajo, sal, pimienta y la guindilla desmenuzada. Hazlos en la misma plancha 1 minuto y medio por cara, hasta que estén rosados.",
+    "Prepara el aliño con la ralladura y el zumo del limón, el resto del ajo, el resto del aceite, sal y pimienta.",
+    "Mezcla el orzo y los guisantes con el calabacín, la cebolleta, el eneldo, la menta y el aliño.",
     "Reparte en dos platos, coloca encima los langostinos y desmenuza el feta. Se come templado o frío."
   ],
   nutricion: { kcal: 625, prot: 41, hc: 65, grasa: 22 },
@@ -438,15 +444,16 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Envuelve el tofu en un paño limpio y presiónalo 5 minutos con un peso encima para sacarle el agua. Córtalo en dados de 2 cm y rebózalos con la maicena y una pizca de sal.",
+    "Pon a hervir agua con sal para el edamame. Envuelve el tofu en un paño limpio y presiónalo 5 minutos con un peso encima para sacarle el agua; mientras, ralla el jengibre y la piel de la lima. Corta el tofu en dados de 2 cm y rebózalos con la maicena y una pizca de sal.",
     "Cuece el edamame 4 minutos en agua hirviendo con sal, escúrrelo y refréscalo.",
     "Corta las dos coles en tiras muy finas (mandolina o cuchillo afilado), la zanahoria en juliana, el pimiento en tiras finas y la cebolleta al bies. Ponlo todo en un bol grande con el edamame.",
-    "Prepara el aliño: mezcla la soja, el vinagre, el zumo y la ralladura de la lima, la miel, el jengibre rallado y el aceite de sésamo. Vierte sobre las verduras, remueve bien con las manos y deja reposar 10 minutos para que la col se ablande un poco.",
+    "Prepara el aliño: mezcla la soja, el vinagre, el zumo de la lima, la ralladura, la miel, el jengibre y el aceite de sésamo. Vierte sobre las verduras, remueve bien con las manos y deja reposar 10 minutos para que la col se ablande un poco. Mientras, pica los cacahuetes y el cilantro y corta el chile en rodajas.",
     "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto y dora el tofu 7-8 minutos, dándole la vuelta a cada cara, hasta que esté crujiente y dorado.",
-    "Tuesta el sésamo 1 minuto en la sartén vacía. Reparte el slaw en dos cuencos, pon encima el tofu caliente y termina con los cacahuetes picados, el sésamo, el cilantro y el chile en rodajas."
+    "Tuesta el sésamo 1 minuto en la sartén vacía. Reparte el slaw en dos cuencos, pon encima el tofu caliente y termina con los cacahuetes, el sésamo, el cilantro y el chile."
   ],
   nutricion: { kcal: 450, prot: 27, hc: 29, grasa: 25 },
   etiquetas: ["ligera", "vegana", "rápida", "ideal para llevar", "sin horno", "superalimentos", "bajo en colesterol"],
@@ -485,14 +492,15 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Cuece las patatas enteras con piel en agua con sal 12 minutos (quedarán medio hechas). Escúrrelas y aplástalas ligeramente con el fondo de un vaso hasta que se abran sin romperse.",
     "Ponlas en una bandeja, riégalas con 1 cucharada de aceite, sal, pimienta y el pimentón, y hornéalas 25-30 minutos sin tocarlas, hasta que estén muy doradas y crujientes por los bordes.",
-    "Mientras, prepara la salsa: mezcla el yogur con el ajo rallado, el eneldo, el cebollino y el perejil picados, la mostaza, la ralladura y 1 cucharada de zumo de limón, el resto del aceite, sal y pimienta.",
-    "Lamina los rábanos y corta los pepinillos en rodajas.",
-    "Escalfa los huevos: lleva una cazuela de agua con el vinagre a hervor suave (burbujas pequeñas), casca cada huevo en una taza, haz un remolino con una cuchara y deja caer el huevo en el centro. Cuécelos 3 minutos de uno en uno o de dos en dos y sácalos con espumadera a un papel absorbente.",
+    "Mientras, ralla el ajo y la piel del limón y pica el eneldo, el cebollino y el perejil. Prepara la salsa: mezcla el yogur con el ajo, las hierbas, la mostaza, la ralladura y 1 cucharada de zumo de limón, el resto del aceite, sal y pimienta.",
+    "Lamina los rábanos y corta los pepinillos en rodajas. Pon al fuego una cazuela de agua con el vinagre para escalfar.",
+    "Escalfa los huevos: con el agua a hervor suave (burbujas pequeñas), casca cada huevo en una taza, haz un remolino con una cuchara y deja caer el huevo en el centro. Cuécelos 3 minutos de uno en uno o de dos en dos y sácalos con espumadera a un papel absorbente.",
     "Reparte la rúcula en dos platos, encima las patatas crujientes, los rábanos y los pepinillos. Corona con los huevos escalfados, un poco de sal en escamas y la salsa de yogur en cucharadas; el resto en la mesa."
   ],
   nutricion: { kcal: 470, prot: 20, hc: 41, grasa: 25 },
@@ -530,15 +538,16 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela el boniato, córtalo en dados de 2 cm, mézclalo con el aceite y sal y ásalo 30-35 minutos, hasta que esté tierno y con los bordes caramelizados. Déjalo templar.",
-    "Corta la cebolla morada en plumas muy finas y déjala 10 minutos en agua con hielo para quitarle fuerza. Escúrrela.",
-    "Prepara la leche de tigre: tritura el zumo de las limas con el ajo, el jengibre, el apio troceado, la mitad del chile, los tallos del cilantro, una pizca de sal y 3 dados de pescado. Cuela y reserva en frío.",
-    "Corta la lubina en dados de 2 cm, ponla en un bol frío con sal y pimienta y déjala 2 minutos para que se sazone. Vierte la leche de tigre y deja marinar 8-10 minutos: el exterior se vuelve opaco y el centro sigue nacarado.",
-    "Añade al ceviche la cebolla escurrida, el resto del chile en rodajas finas y las hojas de cilantro picadas. Prueba de sal y acidez.",
-    "Monta los bowls con la lechuga en tiras, el boniato templado, el maíz escurrido y el aguacate en dados. Reparte el ceviche encima con bastante leche de tigre, que hace de aliño del conjunto."
+    "Corta la cebolla morada en plumas muy finas y déjala 10 minutos en agua con hielo para quitarle fuerza; mientras, trocea el apio, pela el ajo y el jengibre, corta la mitad del chile en trozos y la otra mitad en rodajas finas, pica las hojas del cilantro (guarda los tallos) y corta la lechuga en tiras. Escurre la cebolla.",
+    "Prepara la leche de tigre: tritura el zumo de las limas con el ajo, el jengibre, el apio, la mitad del chile en trozos, los tallos del cilantro, una pizca de sal y 3 dados de pescado. Cuela y reserva en frío.",
+    "Corta la lubina en dados de 2 cm, ponla en un bol frío con sal y pimienta y déjala 2 minutos para que se sazone. Vierte la leche de tigre y deja marinar 8-10 minutos: el exterior se vuelve opaco y el centro sigue nacarado. Mientras, corta el aguacate en dados y escurre el maíz.",
+    "Añade al ceviche la cebolla escurrida, el resto del chile y las hojas de cilantro picadas. Prueba de sal y acidez.",
+    "Monta los bowls con la lechuga, el boniato templado, el maíz y el aguacate. Reparte el ceviche encima con bastante leche de tigre, que hace de aliño del conjunto."
   ],
   nutricion: { kcal: 455, prot: 32, hc: 47, grasa: 15 },
   etiquetas: ["ligera", "alta en proteína", "verano", "sin gluten", "para invitados", "detox", "bajo en colesterol"],
@@ -571,7 +580,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo.",
@@ -615,7 +625,8 @@ window.RECETAS_SEED.push({
     { n: "pan de centeno", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 8 minutos en agua hirviendo (yema cremosa pero cuajada). Mientras, corta el pepino en rodajas muy finas con mandolina, sálalas ligeramente y déjalas 10 minutos en un colador.",
@@ -660,7 +671,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 230 °C. Pincha las berenjenas enteras con un tenedor y ásalas 35-40 minutos directamente sobre la rejilla, dándoles la vuelta a mitad, hasta que estén completamente arrugadas y hundidas. Si tienes fuego de gas, chamúscalas 5 minutos sobre la llama antes de hornearlas: gana en ahumado.",
@@ -703,13 +715,14 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los huevos en agua hirviendo 10 minutos.",
     "Mientras, enjuaga las lentejas en un colador bajo el grifo hasta que el agua salga clara y déjalas escurrir bien: el líquido del bote apaga el sabor.",
     "Prepara la vinagreta en el fondo de un bol grande: bate la mostaza con el vinagre, el comino, sal y pimienta, y añade el aceite en hilo sin dejar de batir hasta que emulsione.",
-    "Corta el tomate en dados, el pepino en medias lunas, el pimiento en daditos, la cebolleta en rodajas finas y ralla la zanahoria gruesa. Enfría los huevos en agua fría, pélalos y córtalos en cuartos.",
+    "Corta el tomate en dados, el pepino en medias lunas, el pimiento en daditos, la cebolleta en rodajas finas, ralla la zanahoria gruesa y pica el perejil. Enfría los huevos en agua fría, pélalos y córtalos en cuartos.",
     "Añade las lentejas y las verduras al bol de la vinagreta y mezcla bien. Deja reposar 5 minutos (o hasta 2 días en la nevera: mejora).",
     "Reparte en dos platos, coloca los cuartos de huevo encima y termina con el perejil picado y una vuelta de pimienta."
   ],
@@ -750,15 +763,16 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el pollo en dados de 3 cm y mézclalo con el zumo de 1 limón, 2 ajos rallados, el orégano, 1 cucharada de aceite, sal y pimienta. Tápalo y déjalo marinar en la nevera 2 horas (si tienes brochetas de madera, ponlas en remojo).",
-    "Prepara el tzatziki: ralla la mitad del pepino, sálalo y estrújalo bien con las manos para sacarle el agua. Mézclalo con el yogur, el otro ajo rallado, el eneldo picado, 1 cucharadita de aceite, unas gotas de limón y sal. Guárdalo en frío.",
-    "Saca el pollo de la nevera 20 minutos antes de cocinarlo. Ensártalo en brochetas o déjalo suelto.",
+    "Ralla los 3 ajos. Corta el pollo en dados de 3 cm y mézclalo con el zumo de 1 limón, 2 de los ajos, el orégano, 1 cucharada de aceite, sal y pimienta. Tápalo y déjalo marinar en la nevera 2 horas (si tienes brochetas de madera, ponlas en remojo).",
+    "Mientras se marina, prepara el tzatziki: ralla la mitad del pepino, sálalo y estrújalo bien con las manos para sacarle el agua; pica el eneldo. Mezcla el pepino con el yogur, el otro ajo, el eneldo, 1 cucharadita de aceite, unas gotas de limón y sal. Guárdalo en frío.",
+    "Saca el pollo de la nevera 20 minutos antes de cocinarlo; mientras, pica el perejil. Ensarta el pollo en brochetas o déjalo suelto.",
     "Calienta la plancha hasta que humee y haz el pollo 3 minutos por cara (unos 10 en total), hasta que esté tostado por fuera y jugoso por dentro. Tuesta las pitas en la plancha 1 minuto por cara al final.",
-    "Mientras, corta el tomate en gajos, el resto del pepino en medias lunas, la cebolla en plumas finas y la lechuga en tiras. Alíñalos con el vinagre, el resto del aceite, el zumo del otro limón, sal y pimienta.",
-    "Reparte las verduras en dos platos, encima el pollo caliente, las aceitunas y el perejil picado. Sirve con el tzatziki y la pita cortada en triángulos."
+    "Mientras, corta el tomate en gajos, el resto del pepino en medias lunas y la cebolla en plumas finas; corta también la lechuga en tiras. Alíñalos con el vinagre, el resto del aceite, el zumo del otro limón, sal y pimienta.",
+    "Corta las pitas en triángulos. Reparte las verduras en dos platos, encima el pollo caliente, las aceitunas y el perejil. Sirve con el tzatziki y la pita."
   ],
   nutricion: { kcal: 560, prot: 42, hc: 43, grasa: 24 },
   etiquetas: ["marinado", "alta en proteína", "verano", "plancha", "poco especiada", "bajo en colesterol"],
@@ -795,15 +809,16 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon las pechugas en un cazo con agua fría que las cubra, la mitad del jengibre en rodajas, la parte verde de 1 cebolleta y 1 cucharadita de sal. Lleva a ebullición, baja a fuego mínimo y escalfa 12 minutos. Apaga y déjalas 5 minutos en el caldo.",
-    "Mientras, pon los pepinos sobre la tabla y golpéalos con el lateral de un cuchillo ancho o un rodillo hasta que se abran y agrieten. Trocéalos con las manos en pedazos irregulares, sálalos y déjalos escurrir 10 minutos en un colador.",
-    "Prepara la salsa: mezcla el tahini con la soja, el vinagre, el aceite de sésamo, la sriracha, el azúcar, los ajos y el resto del jengibre rallados, y 2-3 cucharadas del caldo del pollo hasta que quede cremosa y caiga de la cuchara.",
+    "Corta la mitad del jengibre en rodajas y separa la parte verde de 1 cebolleta. Pon las pechugas en un cazo con agua fría que las cubra, el jengibre en rodajas, la parte verde de la cebolleta y 1 cucharadita de sal. Lleva a ebullición, baja a fuego mínimo y escalfa 12 minutos. Apaga y déjalas 5 minutos en el caldo.",
+    "Mientras, pon los pepinos sobre la tabla y golpéalos con el lateral de un cuchillo ancho o un rodillo hasta que se abran y agrieten. Trocéalos con las manos en pedazos irregulares, sálalos y déjalos escurrir 10 minutos en un colador. Entretanto, ralla los ajos y el resto del jengibre.",
+    "Prepara la salsa: mezcla el tahini con la soja, el vinagre, el aceite de sésamo, la sriracha, el azúcar, el ajo y el jengibre rallados, y 2-3 cucharadas del caldo del pollo hasta que quede cremosa y caiga de la cuchara.",
     "Saca el pollo, deja que se temple y desmíguelo con dos tenedores en hebras gruesas.",
-    "Tuesta el sésamo 1 minuto en una sartén seca. Corta el resto de la cebolleta en rodajas finas.",
-    "Reparte el pepino escurrido en dos platos, pon encima el pollo, nápalo con la salsa y termina con los cacahuetes picados, el sésamo, la cebolleta y el cilantro."
+    "Tuesta el sésamo 1 minuto en una sartén seca. Corta el resto de la cebolleta en rodajas finas, pica los cacahuetes y deshoja el cilantro.",
+    "Reparte el pepino escurrido en dos platos, pon encima el pollo, nápalo con la salsa y termina con los cacahuetes, el sésamo, la cebolleta y el cilantro."
   ],
   nutricion: { kcal: 410, prot: 40, hc: 16, grasa: 21 },
   etiquetas: ["rápida", "ligera", "alta en proteína", "picante", "verano", "sin horno", "bajo en colesterol"],
@@ -836,7 +851,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en plumas finísimas y déjala 10 minutos en un bol con el zumo de la lima y una pizca de sal para que pierda el picor.",
@@ -887,7 +903,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 40, u: "g", nota: "tipo cheddar" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las tortillas en triángulos, extiéndelos en una bandeja con unas gotas de aceite y sal y hornéalos 8-10 minutos, hasta que estén dorados y crujientes.",
@@ -975,15 +992,16 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en dados de 1,5 cm y cuécela en agua hirviendo con sal 8-10 minutos, hasta que un cuchillo entre sin resistencia. Escúrrela y deja que se temple.",
-    "Mientras, tritura la menta y la mitad del cilantro con el zumo de media lima, 2 cucharadas de yogur, una pizca de sal y un chorrito de agua hasta tener una salsa verde fluida. Sazona el resto del yogur con sal.",
+    "Mientras, tritura la menta y la mitad del cilantro con el zumo de media lima, 2 cucharadas de yogur, una pizca de sal y un chorrito de agua hasta tener una salsa verde fluida. Sazona el resto del yogur con sal y pica los cacahuetes.",
     "Seca bien las gambas y mézclalas con la mitad del garam masala, el comino y sal. Calienta el aceite en una sartén a fuego fuerte y saltéalas 2 minutos, hasta que estén rosadas y opacas. Retíralas.",
     "En la misma sartén, saltea los garbanzos escurridos y la patata 3 minutos con el resto del garam masala, hasta que cojan algo de color.",
     "Corta el tomate, el pepino y la cebolla morada en dados pequeños y el chile en rodajas finas. Alíñalos con el zumo de la otra media lima y sal.",
-    "Monta los platos: garbanzos y patata templados, la verdura picada, las gambas, cucharadas de yogur y la salsa verde por encima. Termina con los cacahuetes picados y el resto del cilantro."
+    "Monta los platos: garbanzos y patata templados, la verdura picada, las gambas, cucharadas de yogur y la salsa verde por encima. Termina con los cacahuetes y el resto del cilantro."
   ],
   nutricion: { kcal: 545, prot: 41, hc: 52, grasa: 19 },
   etiquetas: ["rápida", "alta en proteína", "picante", "verano"],
@@ -1018,13 +1036,14 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1.5, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva.",
     "Mientras, pon el bacon en una sartén fría, enciende a fuego medio y deja que suelte la grasa 6-8 minutos, dándole la vuelta, hasta que esté crujiente. Escúrrelo sobre papel y trocéalo. Pasa los huevos a agua fría, pélalos y córtalos en cuartos.",
-    "Abre la pechuga en filetes de 1,5 cm, salpimiéntalos y hazlos en la grasa que ha quedado en la sartén, 3-4 minutos por cara a fuego medio-alto, hasta que estén dorados y jugosos. Reposa 5 minutos y córtalos en dados.",
-    "Bate la mostaza con el vinagre, el aceite, sal, pimienta y la mitad del cebollino picado hasta que emulsione.",
+    "Abre la pechuga en filetes de 1,5 cm, salpimiéntalos y hazlos en la grasa que ha quedado en la sartén, 3-4 minutos por cara a fuego medio-alto, hasta que estén dorados y jugosos. Déjalos reposar 5 minutos; mientras, pica el cebollino. Corta el pollo en dados.",
+    "Bate la mostaza con el vinagre, el aceite, sal, pimienta y la mitad del cebollino hasta que emulsione.",
     "Corta la lechuga en tiras finas, los tomates por la mitad y el aguacate en dados; rocía el aguacate con unas gotas de vinagreta para que no se oscurezca.",
     "Extiende la lechuga en una fuente y coloca encima, en franjas paralelas, el pollo, el bacon, el huevo, el aguacate, los tomates y el queso azul desmenuzado. Riega con la vinagreta y el resto del cebollino justo antes de servir."
   ],
@@ -1062,14 +1081,15 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Deshaz la pasta de achiote en el zumo de naranja con el ajo rallado y una pizca de sal. Unta bien el solomillo y déjalo marinar 20 minutos a temperatura ambiente.",
+    "Precalienta el horno a 210 °C. Ralla el ajo y deshaz la pasta de achiote en el zumo de naranja con el ajo y una pizca de sal. Unta bien el solomillo y déjalo marinar 20 minutos a temperatura ambiente.",
     "Mientras, corta la cebolla morada en plumas finas y cúbrela con el zumo de una lima y una pizca de sal; en 20 minutos estará encurtida y rosa.",
     "Enjuaga la quinoa y cuécela en el doble de su volumen de agua con sal, tapada y a fuego suave, 12-14 minutos, hasta que se abra. Destápala y deja que se seque y temple.",
-    "Pon el solomillo en una bandeja con media cucharada de aceite y las rodajas de piña al lado. Ásalo 18-20 minutos, dándole la vuelta a mitad, hasta que llegue a 63 °C en el centro y la piña tenga bordes caramelizados. Reposa la carne 5 minutos tapada.",
-    "Mezcla la quinoa con las alubias enjuagadas, el resto del aceite, el zumo de la segunda lima, sal, pimienta y la mitad del cilantro picado.",
+    "Pon el solomillo en una bandeja con media cucharada de aceite y las rodajas de piña al lado. Ásalo 18-20 minutos, dándole la vuelta a mitad, hasta que llegue a 63 °C en el centro y la piña tenga bordes caramelizados; mientras, pica el cilantro. Reposa la carne 5 minutos tapada.",
+    "Mezcla la quinoa con las alubias enjuagadas, el resto del aceite, el zumo de la segunda lima, sal, pimienta y la mitad del cilantro.",
     "Corta el solomillo en medallones finos y la piña en trozos. Reparte los canónigos en los platos, encima la quinoa con alubias, el cerdo y la piña, y termina con la cebolla encurtida escurrida y el resto del cilantro."
   ],
   nutricion: { kcal: 580, prot: 44, hc: 62, grasa: 17 },
@@ -1108,15 +1128,16 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Mezcla el miso con el yogur, el jengibre y el ajo rallados. Embadurna bien los contramuslos, tápalos y déjalos marinar en la nevera 2 horas (hasta 12 horas si los preparas la noche antes).",
+    "Ralla el jengibre y el ajo y mézclalos con el miso y el yogur. Embadurna bien los contramuslos, tápalos y déjalos marinar en la nevera 2 horas (hasta 12 horas si los preparas la noche antes).",
     "Precalienta el horno a 220 °C. Corta el boniato con piel en gajos, mézclalo con media cucharada de aceite y sal y ásalo 30-35 minutos, dándole la vuelta a mitad, hasta que esté tierno y con bordes caramelizados.",
     "Retira el exceso de marinada del pollo (el miso se quema si queda mucho), ponlo en otra bandeja forrada con papel, úntalo con el resto del aceite y ásalo en la parte alta del horno 20-22 minutos, hasta que esté dorado con puntos tostados y suelte jugo claro al pincharlo.",
     "Mientras, lava el arroz hasta que el agua salga clara y cuécelo con 1,5 veces su volumen de agua y sal, tapado y a fuego mínimo, 12 minutos. Reposa 5 minutos tapado y suéltalo con un tenedor.",
     "Bate el tahini con el zumo de limón, la soja y 2-3 cucharadas de agua fría hasta que quede una salsa cremosa y fluida.",
-    "Corta el pepino en medias lunas finas y la cebolleta en aros. Reposa el pollo 3 minutos y córtalo en tiras.",
+    "Corta el pepino en medias lunas finas y la cebolleta en aros. Reposa el pollo 3 minutos. Córtalo en tiras.",
     "Monta los bowls: arroz caliente con las espinacas crudas al lado, el boniato, el pepino y el pollo. Riega con la salsa de tahini y termina con la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 765, prot: 42, hc: 93, grasa: 25 },

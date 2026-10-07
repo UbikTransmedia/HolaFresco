@@ -134,7 +134,8 @@ window.RECETAS_SEED.push({
     { n: "cayena", q: 1, u: "pizca", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Corta el paneer en dados de 1,5 cm, pica la cebolla y el cilantro, corta el pimiento en dados y ralla el ajo y el jengibre.",

@@ -33,7 +33,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga la quinoa bajo el grifo hasta que el agua salga clara y cuécela en 250 ml de agua con una pizca de sal, tapada, 15 minutos a fuego suave. Apaga, deja reposar 5 minutos tapada y suéltala con un tenedor.",
@@ -117,7 +118,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "col lombarda", q: 150, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Separa la coliflor en ramilletes pequeños, del tamaño de un bocado. Pica el ajo. Mézclalos en la bandeja con el aceite, el chipotle picado, el pimentón, el comino, el ajo y sal.",
@@ -159,7 +161,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta dos rectángulos grandes de papel de horno (unos 40 cm). Abre cada pechuga por la mitad a lo largo para que queden filetes de 2 cm de grosor y salpimiéntalos.",
@@ -204,7 +207,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cacahuetes", q: 30, u: "g", nota: "tostados sin sal" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el arroz jazmín a cocer según el envase (unos 12 minutos en el doble de agua con sal, tapado, y reposo de 5 minutos).",
@@ -246,7 +250,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela el boniato y córtalo en dados de 2 cm. Seca bien los garbanzos. Mezcla ambos en una bandeja con 1 cda de aceite, el comino, sal y pimienta y asa 25 minutos, removiendo a la mitad, hasta que el boniato esté tierno y los garbanzos crujientes.",
@@ -287,7 +292,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos regulares y cuécelas al vapor (o en agua con sal) 15-18 minutos hasta que estén tiernas.",
@@ -332,7 +338,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica finos la cebolla, la zanahoria, el apio y el ajo, y corta los champiñones en cuartos. Seca los dados de ternera y salpimiéntalos. Calienta el aceite en la olla exprés destapada a fuego fuerte y dora la carne en dos tandas, sin moverla demasiado, hasta que tenga costra. Resérvala.",
@@ -375,7 +382,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el arroz integral a cocer en abundante agua con sal 30-35 minutos (o según el envase) y escúrrelo. Precalienta el horno a 220 °C.",

@@ -26,7 +26,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 6, u: "cda", nota: "para el tomate, el arroz y para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla y 1 ajo y póchalos en un cazo con 2 cucharadas de aceite a fuego medio-bajo 6 minutos, hasta que estén transparentes. Añade el tomate triturado, el azúcar y una pizca de sal y deja hacer a fuego suave, removiendo de vez en cuando, 20 minutos, hasta que espese y el aceite asome por los bordes.",
@@ -114,7 +115,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 700, u: "ml" },
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pimiento en tiras y pica los ajos. Pon los mejillones limpios en una cazuela con un dedo de agua, tapa y cuécelos a fuego fuerte 3 minutos, hasta que se abran. Cuela el líquido y añádelo al caldo de pescado; caliéntalo con el azafrán. Quita media concha a los mejillones.",
@@ -241,7 +243,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 700, u: "ml" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia y trocea las setas, lamina los ajos y ralla el tomate. Salpimienta el conejo y la costilla. En una cazuela ancha o paella con el aceite caliente, dóralos a fuego medio 15 minutos, hasta que estén bien tostados por todas partes. Mientras, pon el caldo a calentar.",
@@ -487,7 +490,8 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "caldo de pollo", q: 650, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el caldo a calentar con el azafrán. Sala el magro. En una paella de 30 cm con el aceite caliente, dóralo a fuego medio-fuerte 8 minutos, hasta que esté bien tostado. Mientras, corta los pimientos en tiras y pica los ajos.",
@@ -612,7 +616,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "o de girasol" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si no tienes arroz del día anterior, cuécelo en agua con sal 10 minutos, escúrrelo, extiéndelo en una bandeja y déjalo enfriar al menos 15 minutos para que se seque. Mientras, pela la zanahoria y córtala en dados pequeños y pica la cebolleta.",
@@ -656,7 +661,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz: sofríe 1 ajo picado en 1 cucharada de aceite, añade el arroz, remueve y cubre con 400 ml de agua hirviendo con sal. Cuece tapado 16 minutos a fuego suave y deja reposar 5 minutos.",
@@ -783,7 +789,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la merluza en una sartén con la leche, el laurel y 200 ml de agua. Calienta hasta que empiece a temblar y escalfa 5 minutos a fuego suave, hasta que se separe en lascas. Saca el pescado y guarda el líquido colado.",
@@ -864,7 +871,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en un cazo con 500 ml de agua, un trozo de cebolla y sal. Cuece a fuego suave 15 minutos.",
@@ -1034,7 +1042,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y los pimientos en dados pequeños. En una sartén con 2 cucharadas de aceite, póchalos a fuego medio-bajo 12 minutos, hasta que estén muy blandos. Mientras, corta el calabacín en dados.",

@@ -28,7 +28,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cdta", opcional: true, nota: "para servir" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga las lentejas bajo el grifo y escúrrelas (las pardinas no necesitan remojo). Pica fina la cebolla, el puerro y el pimiento verde; corta la zanahoria en rodajas y la patata en dados de 2 cm. Ralla el tomate y lamina los ajos.",
@@ -120,7 +121,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en papel de cocina y presiónalo con un peso 10 minutos para quitarle el agua. Mientras, corta el puerro en medias lunas, la zanahoria en dados pequeños, las judías verdes en trozos de 3 cm y pica el ajo.",
@@ -167,7 +169,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Empieza por los encurtidos: corta la cebolla morada en juliana muy fina y los rábanos y el pepino en rodajas finas. Mézclalos en un bol con el vinagre de manzana, el azúcar, 1 cucharadita de sal y 2 cucharadas de agua. Deja marinar al menos 20 minutos, removiendo de vez en cuando.",
@@ -216,7 +219,8 @@ window.RECETAS_SEED.push({
     { n: "anacardos", q: 30, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un bol, cúbrelo con 140 ml de agua hirviendo y una pizca de sal, tapa y deja hidratar 12 minutos. Luego ahuécalo con un tenedor y deja templar.",
@@ -263,7 +267,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", opcional: true, nota: "tostado, para acompañar" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo, corta el puerro en medias lunas finas y la zanahoria en dados pequeños. Limpia los champiñones con un paño y córtalos en cuartos.",

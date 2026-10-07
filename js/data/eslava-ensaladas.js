@@ -36,7 +36,8 @@ window.RECETAS_SEED.push({
     { n: "nata agria", q: 50, u: "g", nota: "smetana; aligera la mayonesa" },
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas con piel y las zanahorias enteras en una cazuela con agua fría y sal y cuécelas 20–25 minutos desde que hierva, hasta que un cuchillo las atraviese sin resistencia. En un cazo aparte, cuece los huevos 10 minutos y enfríalos en agua fría. Escurre las patatas y las zanahorias y deja que se enfríen del todo, unos 20 minutos: ralladas en caliente se convierten en puré.",
@@ -82,7 +83,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pan de centeno", q: 4, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto", nota: "unos granos para el caldo y molida" }
+    { n: "pimienta negra", u: "al gusto", nota: "unos granos para el caldo y molida" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la ternera en una cazuela, cúbrela con agua fría y llévala a ebullición. Retira la espuma gris que sube, añade el laurel, unos granos de pimienta y sal, baja el fuego al mínimo y cuécela 1 hora y media, hasta que se deje pinchar sin resistencia. Apaga el fuego y déjala templar 15 minutos dentro del caldo, así queda jugosa (el caldo te sirve para una sopa).",
@@ -169,7 +171,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre los filetes de arenque, sécalos con papel de cocina y córtalos en trozos de 2 cm. Prueba un trozo: si está muy salado, déjalos 30 minutos en un bol con agua fría y vuelve a secarlos.",
@@ -258,7 +261,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 2, u: "cda" },
     { n: "aceite de pepitas de calabaza", q: 2, u: "cda", nota: "o aceite de oliva virgen extra con semillas de calabaza tostadas y picadas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el diente de león en varias aguas frías hasta que no quede tierra en el fondo, quita los tallos duros y sécalo bien en una centrifugadora o con un paño.",
@@ -303,7 +307,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "pan", q: 4, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto", nota: "unos granos para la cocción y molida" }
+    { n: "pimienta negra", u: "al gusto", nota: "unos granos para la cocción y molida" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua sin sal con el laurel y unos granos de pimienta. Sujeta el pulpo por la cabeza y sumérgelo tres veces unos segundos para que se rice la piel; luego déjalo dentro y cuécelo a fuego suave 30–40 minutos (es una pieza pequeña), hasta que un cuchillo entre sin resistencia en la parte más gruesa del tentáculo.",
@@ -395,7 +400,8 @@ window.RECETAS_SEED.push({
     { n: "queso de oveja semicurado", q: 50, u: "g", nota: "sustituye al kashkaval búlgaro" },
     { n: "aceitunas negras", q: 6, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría y pélalos.",
@@ -529,7 +535,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "canónigos", q: 60, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 9 minutos desde que hierva el agua, enfríalos en agua fría, pélalos y córtalos en dados.",
@@ -668,7 +675,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 2, u: "ud" },
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el cerdo en dados de 3 cm. Ralla media cebolla y mézclala con el pimentón, la ajedrea, la mitad del aceite, el vinagre y pimienta (la sal, al final). Embadurna la carne y déjala marinar 30 minutos en la nevera o hasta la noche. Si usas brochetas de madera, ponlas en remojo.",
@@ -763,7 +771,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas en dados de 2 cm y la zanahoria en dados de 1,5 cm, mézclalas en la bandeja con la mitad del aceite y sal, y hornéalas 15 minutos.",
@@ -806,7 +815,8 @@ window.RECETAS_SEED.push({
     { n: "rábano", q: 6, u: "ud" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos; mientras, lleva a ebullición una cazuela de agua con sal, corta las judías verdes en trozos de 4 cm y la coliflor en ramilletes pequeños. Enfría los huevos en agua fría, pélalos y pícalos fino.",
@@ -852,7 +862,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "canónigos", q: 60, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en aros finos y ponla en un cuenco con 2 cucharadas de vinagre, el azúcar y una pizca de sal. Déjala 15 minutos: se vuelve rosa intenso y pierde el picor.",

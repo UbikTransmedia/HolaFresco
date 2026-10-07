@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "maicena", q: 2, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda", nota: "o aceite de girasol" },
-    { n: "aceite de sésamo", q: 1, u: "cdta" }
+    { n: "aceite de sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 180 ml de agua y una pizca de sal: tapado, a fuego mínimo 12 minutos y luego 5 minutos de reposo sin destapar.",
@@ -77,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "pan naan", q: 1, u: "ud", nota: "vegano, sin lácteos" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla y ralla el ajo y el jengibre. Calienta el aceite en una sartén honda a fuego medio y tuesta el comino en grano 30 segundos, hasta que chisporrotee y huela.",
@@ -120,14 +122,14 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 2, u: "cda" },
     { n: "sirope de arce", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 2, u: "cdta" },
-    { n: "sésamo", q: 1, u: "cda" }
+    { n: "sésamo", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon agua a hervir. Mientras, prepara el aliño batiendo el miso con la salsa de soja, el vinagre, el sirope, el aceite de sésamo, la mitad del jengibre rallado y 1 cucharada de agua, hasta que quede liso.",
-    "Seca el tofu, córtalo en bastones y dóralo en una sartén antiadherente sin aceite a fuego medio-alto 6 minutos, girándolo. Al final añade 1 cucharada de salsa de soja y el resto del jengibre y deja que se pegue y caramelice 30 segundos.",
+    "Pon agua a hervir para los soba. Mientras se calienta, ralla el jengibre y prepara el aliño batiendo el miso con la salsa de soja, el vinagre, el sirope, el aceite de sésamo, la mitad del jengibre y 1 cucharada de agua, hasta que quede liso. Corta el pepino y la zanahoria en juliana fina y la cebolleta en rodajas al bies.",
+    "Tuesta el sésamo en una sartén antiadherente seca 1–2 minutos, hasta que se dore y salte, y resérvalo.",
+    "Seca el tofu, córtalo en bastones y dóralo en la misma sartén sin aceite a fuego medio-alto 6 minutos, girándolo. Al final añade 1 cucharada de salsa de soja y el resto del jengibre y deja que se pegue y caramelice 30 segundos.",
     "Cuece los soba 4–5 minutos (según el paquete) y añade el edamame en el último minuto. Escurre y enfría bajo el grifo frotando los fideos con las manos para quitarles el almidón: así no se apelmazan.",
-    "Tuesta el sésamo en una sartén seca 1–2 minutos, hasta que se dore y salte.",
-    "Corta el pepino y la zanahoria en juliana fina y la cebolleta en rodajas al bies.",
     "Mezcla los fideos y el edamame con la mitad del aliño, reparte en dos boles y coloca encima las verduras y el tofu. Riega con el resto del aliño y espolvorea el sésamo."
   ],
   nutricion: { kcal: 445, prot: 28, hc: 45, grasa: 17 },
@@ -163,7 +165,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 4, u: "hoja" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa la mitad de los garbanzos y tritúralos con la remolacha, el tahini, el ajo, el zumo de medio limón, media cucharadita de comino, sal y 2–3 cucharadas de agua fría, hasta obtener un hummus rosa y muy cremoso (1–2 minutos de batidora).",
@@ -204,7 +207,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el cuscús en un bol, añade la ralladura de medio limón y una pizca de sal, vierte el caldo hirviendo, tapa con un plato y deja hidratar 5 minutos.",
@@ -250,7 +254,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Asa los tomates enteros, la media cebolla, el ajo con piel y el chile en una sartén seca a fuego fuerte 8 minutos, girándolos, hasta que la piel esté tostada y con manchas negras.",
+    "Asa los tomates enteros, la media cebolla, el ajo con piel y el chile en una sartén seca a fuego fuerte 8 minutos, girándolos, hasta que la piel esté tostada y con manchas negras. Mientras, pica las espinacas.",
     "Pela el ajo y tritura todo con el zumo de media lima, sal y unas hojas de cilantro, hasta tener una salsa rústica. Reserva.",
     "Machaca con un tenedor la mitad de las alubias con el comino y una pizca de sal hasta formar una pasta; mézclala con el resto de alubias enteras, el maíz y las espinacas picadas.",
     "Reparte el relleno sobre media tortilla, cubre con el queso vegetal y dobla en media luna apretando un poco.",
@@ -298,7 +302,7 @@ window.RECETAS_SEED.push({
     "Mientras, corta los tomates, el pepino y los pimientos en dados pequeños e iguales, de medio centímetro. Pica las aceitunas en rodajas.",
     "Machaca el ajo en el mortero con la pizca de comino y sal hasta hacer una pasta, añade el aceite y mezcla con la cebolleta y el vinagre.",
     "Junta en un bol las lentejas, las verduras, las aceitunas y las alcaparras, vierte la vinagreta y mezcla con cuidado para no romper las lentejas.",
-    "Deja reposar 5 minutos (o 30 en la nevera) para que las lentejas absorban el aliño. Prueba de sal y vinagre y sirve con perejil picado."
+    "Deja reposar 5 minutos (o 30 en la nevera) para que las lentejas absorban el aliño; mientras, pica el perejil. Prueba de sal y vinagre y sirve con perejil picado."
   ],
   nutricion: { kcal: 400, prot: 20, hc: 42, grasa: 17 },
   etiquetas: ["sin cocción", "rápida", "verano", "ideal para llevar", "ligera", "económica", "detox", "poco especiada", "bajo en colesterol"],
@@ -335,7 +339,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con aire. Corta el tofu en 4 filetes de 1,5 cm de grosor y sécalos muy bien con papel de cocina.",
@@ -376,7 +381,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "levadura nutricional", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 4, u: "cda", nota: "virgen extra" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una olla grande con agua y sal. Separa el brócoli en ramilletes pequeños y pela y pica el tronco: también se aprovecha. Lamina el ajo.",
@@ -422,7 +428,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 3, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los anacardos en remojo en agua caliente. Lava la quinoa en un colador y cuécela con 240 ml de agua y sal, tapada a fuego bajo 15 minutos; deja reposar 5 y esponja.",
@@ -474,7 +481,7 @@ window.RECETAS_SEED.push({
     "En la misma cazuela, dora el seitán salpimentado 4 minutos a fuego fuerte, hasta que tenga costra. Resérvalo.",
     "Baja el fuego, añade la cebolla y póchala 8 minutos, hasta que esté blanda y dorada.",
     "Vierte el vino y deja que se evapore el alcohol 2 minutos. Añade el caldo, el laurel y el majado, remueve y devuelve el seitán. Cuece tapado a fuego suave 15 minutos, hasta que la salsa engorde y tenga color dorado.",
-    "Mientras, pela la patata y córtala en dados de 1,5 cm. Sécalos y fríelos en una sartén con 2 cucharadas de aceite a fuego medio, removiendo de vez en cuando, 15 minutos, hasta que estén dorados por fuera y tiernos por dentro. Sala al final.",
+    "Mientras, pica el resto del perejil, pela la patata y córtala en dados de 1,5 cm. Sécalos y fríelos en una sartén con 2 cucharadas de aceite a fuego medio, removiendo de vez en cuando, 15 minutos, hasta que estén dorados por fuera y tiernos por dentro. Sala al final.",
     "Prueba la salsa de sal y pimienta; si está muy espesa, alarga con un poco de caldo. Sirve el seitán con las patatas al lado y perejil picado por encima."
   ],
   nutricion: { kcal: 765, prot: 47, hc: 54, grasa: 40 },
@@ -515,14 +522,15 @@ window.RECETAS_SEED.push({
     { n: "canela molida", q: 0.25, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la patata con piel en gajos, mézclala con 1 cucharada de aceite, sal y media cucharadita de pimentón y hornéala en una bandeja 30 minutos, girándola a mitad.",
-    "Mezcla en un bol 2 cucharadas de aceite, el zumo de medio limón, un ajo rallado, el comino, el resto del pimentón, el cilantro, la canela, la cúrcuma y sal. Embadurna bien las tiras de seitán con media cebolla morada en plumas.",
+    "Mientras se hornea, corta media cebolla morada en plumas y ralla un ajo. Mezcla en un bol 2 cucharadas de aceite, el zumo de medio limón, el ajo rallado, el comino, el resto del pimentón, el cilantro, la canela, la cúrcuma y sal. Embadurna bien las tiras de seitán junto con la cebolla.",
     "A los 15 minutos de horno, extiende el seitán con la cebolla en otra bandeja, en una sola capa, y hornea 12–15 minutos en la parte alta, hasta que los bordes estén tostados y crujientes.",
-    "Prepara la salsa batiendo el tahini con el otro ajo rallado, el zumo de medio limón, sal y 3–4 cucharadas de agua fría: primero se cortará y luego quedará una crema blanca y fluida.",
-    "Corta el tomate, el pepino, la otra media cebolla y los pepinillos; trocea la lechuga.",
+    "Mientras se hornea el seitán, prepara la salsa: ralla el otro ajo y bátelo con el tahini, el zumo de medio limón, sal y 3–4 cucharadas de agua fría: primero se cortará y luego quedará una crema blanca y fluida.",
+    "Corta también el tomate, el pepino, la otra media cebolla y los pepinillos; trocea la lechuga.",
     "Calienta las pitas 2 minutos en el horno, ábrelas y rellénalas con seitán, verduras y encurtidos, regando con la salsa de tahini. Sirve con los gajos de patata y más salsa para mojar."
   ],
   nutricion: { kcal: 805, prot: 47, hc: 80, grasa: 33 },
@@ -559,7 +567,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 30, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tofu en dados de 2,5 cm y marínalo 15 minutos con el zumo y la ralladura de medio limón, el orégano, un ajo rallado, media cucharada de aceite, sal y pimienta.",
@@ -605,13 +614,14 @@ window.RECETAS_SEED.push({
     { n: "queso vegetal rallado", q: 40, u: "g" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las lentejas en agua sin sal 20 minutos, hasta que estén tiernas pero enteras; escúrrelas. Mientras, precalienta el horno a 210 °C.",
-    "Corta las berenjenas en rodajas de 1 cm y las patatas en rodajas de medio centímetro. Extiéndelas en dos bandejas, pincélalas con 2 cucharadas de aceite, sala y hornéalas 20 minutos, hasta que la berenjena esté dorada y blanda y la patata tierna.",
-    "En una cazuela con 1 cucharada de aceite pocha la cebolla y el ajo picados 8 minutos. Añade la canela y el orégano, remueve, vierte el vino y deja evaporar. Incorpora el tomate y las lentejas y cuece 15 minutos a fuego suave, hasta tener un ragú espeso. Salpimienta.",
-    "Bechamel: en un cazo calienta la última cucharada de aceite, añade la harina y tuéstala 1 minuto. Vierte la bebida vegetal poco a poco sin dejar de batir y cuece 5 minutos, hasta que napa la cuchara. Sazona con sal, pimienta y nuez moscada.",
+    "Precalienta el horno a 210 °C. Cuece las lentejas en agua sin sal 20 minutos, hasta que estén tiernas pero enteras; escúrrelas.",
+    "Mientras se cuecen, corta las berenjenas en rodajas de 1 cm y las patatas en rodajas de medio centímetro. Extiéndelas en dos bandejas, pincélalas con 2 cucharadas de aceite, sala y hornéalas 20 minutos, hasta que la berenjena esté dorada y blanda y la patata tierna. Mientras tanto, pica la cebolla y el ajo.",
+    "En una cazuela con 1 cucharada de aceite pocha la cebolla y el ajo 8 minutos. Añade la canela y el orégano, remueve, vierte el vino y deja evaporar. Incorpora el tomate y las lentejas y cuece 15 minutos a fuego suave, hasta tener un ragú espeso. Salpimienta.",
+    "Mientras cuece el ragú, prepara la bechamel: en un cazo calienta la última cucharada de aceite, añade la harina y tuéstala 1 minuto. Vierte la bebida vegetal poco a poco sin dejar de batir y cuece 5 minutos, hasta que napa la cuchara. Sazona con sal, pimienta y nuez moscada.",
     "Baja el horno a 190 °C. Monta en una fuente pequeña: patatas en la base, la mitad de la berenjena, todo el ragú, el resto de berenjena y cubre con la bechamel. Espolvorea el queso vegetal.",
     "Hornea 20–25 minutos, hasta que la superficie esté dorada y burbujee en los bordes. Deja reposar 10 minutos antes de cortar para que las capas se asienten."
   ],
@@ -656,15 +666,17 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Mientras, corta una cebolla en plumas muy finas y fríela en una cazuela con 1 cucharada de aceite a fuego medio 12 minutos, removiendo, hasta que esté marrón y crujiente. Sácala sobre papel y dora los anacardos en ese aceite 1 minuto.",
-    "Pon a hervir 1 litro de agua con sal, el cardamomo, la canela y el laurel. Escurre el arroz, échalo y cuécelo solo 5 minutos: debe quedar al 70 %, con el centro duro. Escurre.",
-    "En la cazuela, con el resto del aceite, pocha la otra cebolla picada 5 minutos, añade el ajo y el jengibre rallados, la cúrcuma y el garam masala y remueve 30 segundos. Incorpora el tomate rallado y cocina 3 minutos.",
-    "Añade la coliflor en ramilletes pequeños, la zanahoria en dados, los garbanzos, 2 cucharadas de yogur vegetal, sal y 100 ml de agua. Tapa y cuece 8 minutos, hasta que la coliflor esté casi tierna. Agrega los guisantes.",
-    "Extiende el arroz por encima sin mezclar, espolvorea la mitad de la cebolla frita, menta y cilantro picados. Tapa con papel de aluminio y la tapa encima para sellar y cocina a fuego mínimo 15 minutos.",
-    "Mientras, prepara la raita: mezcla el resto del yogur con el pepino rallado y escurrido, menta picada y sal.",
+    "Pon a hervir 1 litro de agua con sal, el cardamomo, la canela y el laurel. Mientras termina el remojo y el agua llega a ebullición, pica la otra cebolla, ralla el ajo, el jengibre y el tomate, separa la coliflor en ramilletes pequeños, corta la zanahoria en dados y pica la menta y el cilantro.",
+    "Escurre el arroz, échalo al agua hirviendo y cuécelo solo 5 minutos: debe quedar al 70 %, con el centro duro. Escurre.",
+    "En la cazuela, con el resto del aceite, pocha la otra cebolla 5 minutos, añade el ajo y el jengibre, la cúrcuma y el garam masala y remueve 30 segundos. Incorpora el tomate y cocina 3 minutos.",
+    "Añade la coliflor, la zanahoria, los garbanzos, 2 cucharadas de yogur vegetal, sal y 100 ml de agua. Tapa y cuece 8 minutos, hasta que la coliflor esté casi tierna. Agrega los guisantes.",
+    "Extiende el arroz por encima sin mezclar, espolvorea la mitad de la cebolla frita, parte de la menta y el cilantro. Tapa con papel de aluminio y la tapa encima para sellar y cocina a fuego mínimo 15 minutos.",
+    "Mientras, prepara la raita: ralla el pepino, escúrrelo y mézclalo con el resto del yogur, el resto de la menta y sal.",
     "Apaga y deja reposar 5 minutos sin destapar. Mezcla con cuidado desde el fondo para sacar capas de arroz y verduras, y sirve con el resto de cebolla crujiente, los anacardos y la raita."
   ],
   nutricion: { kcal: 610, prot: 23, hc: 85, grasa: 20 },
@@ -702,16 +714,17 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Hidrata la soja texturizada cubriéndola con 150 ml del caldo caliente 10 minutos; luego escúrrela apretando bien. Precalienta el horno a 190 °C.",
+    "Hidrata la soja texturizada cubriéndola con 150 ml del caldo caliente 10 minutos; luego escúrrela apretando bien. Precalienta el horno a 190 °C y, mientras se hidrata, pica la cebolla y el ajo.",
     "Corta la parte superior de los pimientos como si fuera una tapa, vacía las semillas y hornéalos (con sus tapas) 10 minutos para que empiecen a ablandarse.",
-    "Tuesta los piñones en una sartén seca 2 minutos, hasta que estén dorados, y resérvalos. En la misma sartén, con el aceite, pocha la cebolla y el ajo picados 8 minutos.",
+    "Tuesta los piñones en una sartén seca 2 minutos, hasta que estén dorados, y resérvalos. En la misma sartén, con el aceite, pocha la cebolla y el ajo 8 minutos.",
     "Añade la soja y dórala 4 minutos a fuego vivo, hasta que pierda la humedad y se tueste ligeramente. Incorpora el pimentón y el tomillo, remueve 20 segundos y moja con el vino; deja evaporar 1 minuto.",
     "Agrega el arroz, la mitad del tomate frito y el resto del caldo. Cuece a fuego medio 10 minutos, removiendo de vez en cuando: el arroz debe quedar a medio hacer y caldoso. Mezcla con los piñones, salpimienta.",
     "Rellena los pimientos sin apretar demasiado (el arroz crece), ponles su tapa y colócalos en una fuente pequeña con el resto del tomate frito alargado con 100 ml de agua alrededor.",
-    "Hornea 30–35 minutos, hasta que los pimientos estén arrugados y tiernos y el arroz cocido. Sirve con la salsa de la fuente y perejil picado."
+    "Hornea 30–35 minutos, hasta que los pimientos estén arrugados y tiernos y el arroz cocido; mientras, pica el perejil. Sirve con la salsa de la fuente y perejil picado."
   ],
   nutricion: { kcal: 630, prot: 25, hc: 70, grasa: 27 },
   etiquetas: ["al horno", "para invitados", "batch cooking", "poco especiada"],
@@ -753,10 +766,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica las cebollas y el ajo y corta el pimiento en tiras. Calienta el aceite en una cazuela a fuego fuerte y dora el seitán 5 minutos, hasta que tenga las caras tostadas. Sácalo.",
-    "Baja a fuego medio y pocha las cebollas con una pizca de sal 12–15 minutos, hasta que estén muy blandas y doradas: son la base de la salsa.",
+    "Baja a fuego medio y pocha las cebollas con una pizca de sal 12–15 minutos, hasta que estén muy blandas y doradas: son la base de la salsa. Mientras, machaca la alcaravea en el mortero.",
     "Añade el ajo y la alcaravea machacada, remueve 1 minuto. Aparta la cazuela del fuego, incorpora los dos pimentones y remueve 20 segundos sin que se quemen.",
-    "Vuelve al fuego, añade el tomate y el pimiento y cocina 5 minutos. Vierte el caldo, el laurel y el seitán, tapa y cuece a fuego suave 20 minutos.",
-    "Agrega las patatas peladas y chascadas en trozos medianos y cuece 20 minutos más, hasta que estén tiernas y suelten almidón que espese el guiso. Salpimienta.",
+    "Vuelve al fuego, añade el tomate y el pimiento y cocina 5 minutos. Vierte el caldo, el laurel y el seitán, tapa y cuece a fuego suave 20 minutos. Mientras, pela las patatas, cháscalas en trozos medianos y pica el perejil.",
+    "Agrega las patatas y cuece 20 minutos más, hasta que estén tiernas y suelten almidón que espese el guiso. Salpimienta.",
     "Deja reposar 5 minutos fuera del fuego y sirve en plato hondo con una cucharada de yogur vegetal y perejil picado."
   ],
   nutricion: { kcal: 520, prot: 39, hc: 52, grasa: 17 },
@@ -795,7 +808,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la berenjena, el calabacín y los pimientos en dados de 2 cm y la cebolla en gajos.",
@@ -849,8 +863,8 @@ window.RECETAS_SEED.push({
     "Tritura los guajillos con el caldo, los tomates, la media cebolla, el ajo, el orégano, el resto del comino y sal hasta tener una salsa muy fina. Cuélala, fríela en un cazo con media cucharada de aceite y cuece 8 minutos a fuego medio, hasta que espese y oscurezca.",
     "Mezcla la calabaza asada con las alubias, aplastando ligeramente algunas, y 3 cucharadas de salsa.",
     "Calienta las tortillas 20 segundos por lado en una sartén con unas gotas de aceite para que estén flexibles y no se rompan. Pasa cada una por la salsa, rellénala y enróllala.",
-    "Colócalas juntas en una fuente con un poco de salsa en el fondo, cúbrelas con el resto de salsa y el queso vegetal y hornea 12–15 minutos a 200 °C, hasta que burbujeen.",
-    "Sirve con cebolla morada en plumas finas, cilantro y gajos de lima."
+    "Colócalas juntas en una fuente con un poco de salsa en el fondo, cúbrelas con el resto de salsa y el queso vegetal y hornea 12–15 minutos a 200 °C, hasta que burbujeen. Mientras, corta la cebolla morada en plumas finas, deshoja el cilantro y parte la lima en gajos.",
+    "Sirve con la cebolla morada, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 600, prot: 21, hc: 84, grasa: 20 },
   etiquetas: ["al horno", "para invitados", "batch cooking", "bajo en colesterol"],
@@ -885,15 +899,16 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "albahaca fresca", q: 0.5, u: "manojo", nota: "mejor albahaca thai" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta la berenjena en dados de 2 cm, sálalos y déjalos en un colador 15 minutos para que suelten agua. Prensa el tofu entre papel de cocina con peso encima y córtalo en dados.",
+    "Corta la berenjena en dados de 2 cm, sálalos y déjalos en un colador 15 minutos para que suelten agua; mientras, despunta las judías verdes y trocéalas. Prensa el tofu entre papel de cocina con peso encima y córtalo en dados.",
     "Lava el arroz y cuécelo con 165 ml de agua y sal, tapado a fuego mínimo 12 minutos; reposa 5 minutos sin destapar.",
     "Dora el tofu en el wok antiadherente con unas gotas de aceite a fuego alto 6 minutos, hasta que esté dorado por todas las caras. Resérvalo.",
     "Seca la berenjena y saltéala en el wok con el resto del aceite 6–7 minutos, hasta que esté dorada y tierna. Sácala.",
     "Pon en el wok 3 cucharadas de la parte espesa de la leche de coco y la pasta de curry y fríela 2 minutos, removiendo, hasta que huela intensamente y el aceite del coco se separe.",
-    "Añade el resto de la leche de coco, el caldo, la salsa de soja, el azúcar y las judías verdes troceadas y cuece 5 minutos. Incorpora el tofu y la berenjena y cocina 3 minutos más.",
+    "Añade el resto de la leche de coco, el caldo, la salsa de soja, el azúcar y las judías verdes y cuece 5 minutos. Incorpora el tofu y la berenjena y cocina 3 minutos más.",
     "Apaga, añade el zumo de media lima y la albahaca y sirve con el arroz y gajos de lima."
   ],
   nutricion: { kcal: 630, prot: 29, hc: 61, grasa: 30 },
@@ -929,13 +944,14 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "fideos finos", q: 60, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. El día de la comida, llena una olla grande con 2,5 litros de agua, añade la cebolla entera, el puerro, el apio, las zanahorias y el laurel y llévala a ebullición. Echa entonces los garbanzos escurridos dentro de una malla (para sacarlos fácil) y retira la espuma.",
-    "Cuece a fuego suave, con hervor tranquilo y tapado a medias, 2 horas, hasta que los garbanzos estén mantecosos. Si tienes que añadir agua, que sea caliente para que no se encallen. Sala a mitad de cocción.",
-    "A falta de 30 minutos, añade las patatas peladas y partidas por la mitad. Cuece la col en trozos aparte, en agua con sal, 15 minutos, y escúrrela.",
-    "Corta el tofu ahumado en lonchas gruesas. En una sartén con 1 cucharada de aceite dora el tofu 2 minutos por lado y resérvalo. En el resto del aceite dora los ajos laminados, aparta del fuego, añade el pimentón y vuelca sobre la col escurrida (refrito).",
+    "Cuece a fuego suave, con hervor tranquilo y tapado a medias, 2 horas, hasta que los garbanzos estén mantecosos. Si tienes que añadir agua, que sea caliente para que no se encallen. Sala a mitad de cocción. Durante la cocción, pela las patatas y pártelas por la mitad (guárdalas en agua fría), corta la col en trozos y lamina los ajos.",
+    "A falta de 30 minutos, añade las patatas. Cuece la col aparte, en agua con sal, 15 minutos, y escúrrela.",
+    "Corta el tofu ahumado en lonchas gruesas. En una sartén con 1 cucharada de aceite dora el tofu 2 minutos por lado y resérvalo. En el resto del aceite dora los ajos, aparta del fuego, añade el pimentón y vuelca sobre la col escurrida (refrito).",
     "Cuela 700 ml del caldo del cocido a un cazo, llévalo a ebullición, añade los fideos y cuécelos 3–4 minutos. Prueba de sal: esta es tu sopa.",
     "Sirve primero la sopa de fideos. Después, en una fuente, los garbanzos con las patatas, las zanahorias y el puerro en trozos, la col rehogada y el tofu ahumado."
   ],
@@ -974,14 +990,15 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y cuécelas en 1 litro de agua 30 minutos a fuego medio, hasta que estén tiernas. No escurras: el agua de cocción es parte de la salsa.",
-    "Mientras, en una cazuela de fondo grueso, calienta el aceite y tuesta el comino y la canela 30 segundos. Añade la cebolla picada fina y póchala 10 minutos, hasta que esté bien dorada.",
-    "Incorpora el ajo y el jengibre rallados y cocina 1 minuto. Añade el pimentón y la mitad del garam masala y, enseguida, el tomate. Cocina 8 minutos, hasta que el aceite se separe del tomate.",
+    "Mientras, pica fina la cebolla y ralla el ajo y el jengibre. En una cazuela de fondo grueso, calienta el aceite y tuesta el comino y la canela 30 segundos. Añade la cebolla y póchala 10 minutos, hasta que esté bien dorada.",
+    "Incorpora el ajo y el jengibre y cocina 1 minuto. Añade el pimentón y la mitad del garam masala y, enseguida, el tomate. Cocina 8 minutos, hasta que el aceite se separe del tomate.",
     "Vierte las lentejas con su agua y las alubias rojas, sala y lleva a hervor. Baja a fuego mínimo, semitapado, y cuece 60 minutos removiendo cada 10 minutos y aplastando las legumbres contra la pared: así el dal se vuelve cremoso y oscuro. Añade agua caliente si se espesa demasiado.",
-    "A falta de 20 minutos, lava el arroz y cuécelo con 180 ml de agua y sal, tapado a fuego mínimo 12 minutos; deja reposar.",
+    "A falta de 20 minutos, lava el arroz y cuécelo con 180 ml de agua y sal, tapado a fuego mínimo 12 minutos; deja reposar. Mientras, pica el cilantro.",
     "Retira la canela, añade la nata vegetal y el resto del garam masala y cuece 5 minutos más. Debe tener textura de crema espesa que cae lenta de la cuchara.",
     "Sirve con el arroz, un chorrito de nata vegetal por encima y cilantro picado."
   ],
@@ -1024,12 +1041,13 @@ window.RECETAS_SEED.push({
     { n: "levadura nutricional", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Hidrata el shiitake en 400 ml de agua caliente 20 minutos. Escúrrelo apretando, guarda el agua (colada) y pícalo fino.",
-    "Pica las setas variadas en trozos pequeños y saltéalas en la cazuela con 1 cucharada de aceite a fuego fuerte 8 minutos, sin remover al principio, hasta que suelten el agua y se doren bien. Sácalas.",
-    "Baja el fuego, añade el resto del aceite y pocha cebolla, zanahoria, apio y ajo picados muy finos 10 minutos, hasta que estén blandos. Incorpora el tomate concentrado y tuéstalo 2 minutos.",
+    "Hidrata el shiitake en 400 ml de agua caliente 20 minutos. Mientras, pica muy finos la cebolla, la zanahoria, el apio y el ajo, y trocea las setas variadas en trozos pequeños. Después escurre el shiitake apretando, guarda el agua (colada) y pícalo fino.",
+    "Saltea las setas variadas en la cazuela con 1 cucharada de aceite a fuego fuerte 8 minutos, sin remover al principio, hasta que suelten el agua y se doren bien. Sácalas.",
+    "Baja el fuego, añade el resto del aceite y pocha cebolla, zanahoria, apio y ajo 10 minutos, hasta que estén blandos. Incorpora el tomate concentrado y tuéstalo 2 minutos.",
     "Moja con el vino y deja reducir a la mitad, unos 3 minutos. Añade las setas, el shiitake, las lentejas lavadas, el tomate triturado, el agua de remojo, el tamari, una rama de romero y el laurel.",
     "Cuece tapado a fuego muy suave 50–60 minutos, removiendo de vez en cuando y añadiendo agua si hace falta, hasta que las lentejas estén tiernas y el ragú sea espeso y oscuro. Salpimienta.",
     "Para la polenta (empieza a falta de 5 minutos del ragú si es rápida, o de 40 si es tradicional), lleva a ebullición la bebida vegetal con 300 ml de agua, sal y la otra rama de romero (retírala después). Echa la polenta en lluvia batiendo y cuece removiendo según el paquete (5 minutos la rápida, 40 la tradicional), hasta que se despegue de las paredes. Termina con la levadura nutricional.",
@@ -1071,7 +1089,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "yogur vegetal", q: 2, u: "cda", nota: "natural sin azúcar" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una cazuela con 1,5 litros de agua fría, el laurel y media cebolla. Lleva a ebullición, retira la espuma y cuece a fuego suave semitapado 1 h 30 min, hasta que estén muy tiernas. Sala en la última media hora.",
@@ -1115,14 +1134,15 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "hierbabuena fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, pon a hervir 1,5 litros de agua con el laurel y echa los garbanzos escurridos cuando hierva. Retira la espuma y cuece a fuego suave 1 h 15 min, hasta que estén casi tiernos.",
-    "Mientras, en una sartén con el aceite, fríe los ajos enteros y las almendras 2 minutos, hasta que estén dorados; sácalos y májalos en el mortero con una pizca de sal.",
-    "En el mismo aceite, pocha la cebolla picada 8 minutos. Añade el tomate rallado y cocina 5 minutos. Aparta del fuego, añade el pimentón, remueve y vuelca el sofrito en la olla.",
-    "Incorpora la calabaza en dados grandes y las judías verdes troceadas y cuece 15 minutos.",
-    "Añade la pera pelada en gajos, el majado de almendra, el azafrán si lo usas y unas hojas de hierbabuena. Cuece 10 minutos más, hasta que la pera esté tierna pero entera y la calabaza empiece a deshacerse espesando el caldo. Prueba de sal.",
+    "Mientras, pica la cebolla, ralla el tomate, corta la calabaza en dados grandes y trocea las judías verdes. En una sartén con el aceite, fríe los ajos enteros y las almendras 2 minutos, hasta que estén dorados; sácalos y májalos en el mortero con una pizca de sal.",
+    "En el mismo aceite, pocha la cebolla 8 minutos. Añade el tomate y cocina 5 minutos. Aparta del fuego, añade el pimentón, remueve y vuelca el sofrito en la olla.",
+    "Incorpora la calabaza y las judías verdes y cuece 15 minutos. Mientras, pela la pera y córtala en gajos.",
+    "Añade la pera, el majado de almendra, el azafrán si lo usas y unas hojas de hierbabuena. Cuece 10 minutos más, hasta que la pera esté tierna pero entera y la calabaza empiece a deshacerse espesando el caldo. Prueba de sal.",
     "Deja reposar 5 minutos fuera del fuego y sirve en plato hondo con hojas de hierbabuena fresca por encima."
   ],
   nutricion: { kcal: 460, prot: 17, hc: 65, grasa: 14.5 },

@@ -28,7 +28,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda", nota: "suave" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz jazmín en un colador bajo el grifo hasta que el agua salga casi clara. Ponlo en un bol grande apto para microondas con 280 ml de agua y una pizca de sal: el bol debe quedar a menos de la mitad, porque hierve con fuerza.",
@@ -117,7 +118,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la chalota. En un bol grande y ancho apto para microondas pon la mantequilla, el aceite y la chalota y cocina 2 minutos a 800 W sin tapar, hasta que esté blanda y transparente.",
@@ -203,7 +205,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas, córtalas en rodajas de medio centímetro y ponlas en un recipiente apto para microondas con tapa, con 2 cucharadas de agua y sal. Tapa con la válvula abierta y cocina 5 minutos a 800 W.",
@@ -249,7 +252,8 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 60, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y ponlo en un bol grande apto para microondas con 260 ml de agua y sal. Cocina sin tapar 9 minutos a 800 W, tapa y cocina 3 minutos a 500 W. Déjalo reposar tapado mientras haces el curry.",
@@ -295,7 +299,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "pan sin gluten", q: 3, u: "rebanada" },
     { n: "aceite de oliva", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el yogur de la nevera 10 minutos antes para que no esté helado; mientras, corta el pepino y el tomate en dados y pica el eneldo. Mezcla el yogur con el ajo rallado muy fino y una pizca de sal y extiéndelo en 2 platos hondos con el dorso de una cuchara.",
@@ -336,7 +341,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en láminas finas. Ponlas en un plato hondo apto para microondas con 2 cucharadas de agua y sal, tapa y cocina 4 minutos a 800 W. Mientras, corta el calabacín en medias lunas finas.",
@@ -381,7 +387,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "rúcula", q: 1, u: "puñado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el calabacín con el rallador grueso, sálalo ligeramente y apriétalo entre las manos o en un paño para escurrir el agua: es la clave para que el pastel no quede gomoso. Pica los tomates secos.",
@@ -425,7 +432,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "cebolla morada", q: 0.25, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava los boniatos, sécalos y pínchalos por todos lados con un tenedor. Cocínalos en un plato sobre papel de cocina 5 minutos a 800 W, dales la vuelta y cocina 4-6 minutos más, hasta que cedan al apretarlos con un paño. Déjalos reposar 3 minutos envueltos.",
@@ -467,7 +475,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "vinagre de vino", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las judías verdes en trozos de 3 cm y la zanahoria en rodajas finas. Ponlas en un bol apto para microondas con 3 cucharadas de agua y sal, tapa y cocina 5 minutos a 800 W. Mientras, lamina el ajo.",
@@ -554,7 +563,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "cacahuetes", q: 20, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la pechuga en filetes de 1 cm para que se haga rápido y por igual y pela el jengibre y córtalo en rodajas. Sala la pechuga, ponla en un plato hondo con 3 cucharadas de agua y el jengibre en rodajas, tapa y cocina 3 minutos a 800 W. Da la vuelta a los filetes y cocina 2 minutos más, hasta que estén blancos por dentro. Deja reposar tapado. Mientras se hace, corta la zanahoria y el pepino en bastones finos, el pimiento en tiras y la cebolleta en aros.",
@@ -597,7 +607,8 @@ window.RECETAS_SEED.push({
     { n: "quinoa", q: 120, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino. Ponla en un bol grande con 270 ml de agua y sal y cocina sin tapar 8 minutos a 800 W; remueve, tapa y cocina 4 minutos a 500 W. Déjala reposar tapada 5 minutos: estará hecha cuando se vea el germen blanco en espiral.",
@@ -683,7 +694,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 200, u: "ml" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la calabaza y córtala en dados de 2 cm. Ponla en un bol grande apto para microondas con 2 cucharadas de agua, tapa y cocina 4 minutos a 800 W, hasta que esté casi tierna.",
@@ -728,7 +740,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cda" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en un bol grande con 280 ml de agua y sal: 10 minutos a 800 W sin tapar y 4 minutos a 500 W tapado. Déjalo reposar tapado mientras haces el resto.",
@@ -772,7 +785,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 8, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en rodajas de medio centímetro. Ponlas en un plato hondo con 2 cucharadas de agua y sal, tapa y cocina 6 minutos a 800 W, hasta que estén tiernas. Escúrrelas. Mientras se hacen, pica la cebolla, los pimientos y el ajo.",
@@ -819,7 +833,8 @@ window.RECETAS_SEED.push({
     { n: "yogur natural", q: 125, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati y cuécelo en un bol grande con 260 ml de agua y sal: 9 minutos a 800 W sin tapar y 3 minutos a 500 W tapado. Déjalo reposar tapado.",
@@ -909,7 +924,8 @@ window.RECETAS_SEED.push({
     { n: "hierbabuena fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en un bol grande con 200 ml de agua y sal: 7 minutos a 800 W destapada; remueve y cocina 3 minutos a 500 W tapada. Déjala reposar tapada 5 minutos.",
@@ -953,7 +969,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de calabaza", q: 20, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea la calabaza y la zanahoria en dados de 2 cm; pica la cebolla y ralla el jengibre.",
@@ -995,7 +1012,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado en un bol grande con 280 ml de agua y sal: 10 minutos a 800 W sin tapar y 4 minutos a 500 W tapado. Déjalo reposar tapado. Mientras se cuece, corta las judías verdes en trozos de 4 cm y el salmón en dados grandes (de 4 cm).",

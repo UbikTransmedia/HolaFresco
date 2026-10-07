@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre los garbanzos, enjuágalos bajo el grifo y déjalos escurrir bien en un colador: así pierden el sabor a conserva.",
@@ -71,7 +72,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "maíz dulce", q: 60, u: "g" },
     { n: "totopos de maíz", q: 40, u: "g", nota: "con sello sin gluten" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Asegúrate de que el pescado ha estado congelado al menos 5 días a -20 °C (o cómpralo ya ultracongelado) para eliminar el riesgo de anisakis. Descongélalo en la nevera.",
@@ -162,7 +164,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "miel", q: 1, u: "cdta" },
-    { n: "chile fresco", q: 0.5, u: "ud", opcional: true }
+    { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la zanahoria, el pepino y el mango en bastones finos de unos 8 cm. Trocea la lechuga y deshoja la menta y el cilantro. Si las gambas son grandes, ábrelas por la mitad a lo largo.",
@@ -205,7 +208,8 @@ window.RECETAS_SEED.push({
     { n: "queso de cabra", q: 80, u: "g" },
     { n: "pistachos", q: 20, u: "g", nota: "pelados" },
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea la remolacha, los tomates, el pepino pelado y el pimiento sin semillas.",
@@ -251,7 +255,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "lima", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata el wakame en un bol con agua fría 10 minutos; se multiplicará de tamaño.",
@@ -385,7 +390,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 100, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pan sin gluten", q: 4, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre los garbanzos y reserva unos 100 g enteros para decorar.",
@@ -513,7 +519,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 2, u: "ud" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "chile fresco", q: 1, u: "ud" },
-    { n: "aceite de sésamo", q: 1, u: "cdta" }
+    { n: "aceite de sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el tofu y envuélvelo en papel de cocina con un peso encima 10 minutos.",
@@ -556,7 +563,8 @@ window.RECETAS_SEED.push({
     { n: "salmón ahumado", q: 100, u: "g" },
     { n: "rábano", q: 4, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los pepinos (deja un poco de piel en uno para el color), quítales las semillas con una cucharilla y trocéalos.",
@@ -644,7 +652,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los tomates en rodajas finas, sálalos y déjalos sobre un colador 10 minutos para que suelten agua. Mientras, corta en aros finos el pimiento y la cebolla, en láminas los rábanos y deshuesa las aceitunas y córtalas en rodajas.",
@@ -815,7 +824,8 @@ window.RECETAS_SEED.push({
     { n: "ajo en polvo", q: 0.25, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el cebollino y prepara el aliño ranchero mezclando el yogur con la mayonesa, el cebollino, el ajo en polvo, el zumo del medio limón, sal, pimienta y 1-2 cucharadas de agua, hasta que quede napante.",
@@ -945,7 +955,8 @@ window.RECETAS_SEED.push({
     { n: "sirope de arce", q: 1, u: "cdta" },
     { n: "ajo en polvo", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita los tallos duros del kale y córtalo en tiras finas. Ponlo en un bol con el aceite, una pizca de sal y unas gotas de limón y masajéalo con las manos 2 minutos, hasta que se oscurezca y reduzca a la mitad: así deja de estar áspero.",
@@ -1028,7 +1039,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "gambas cocidas", q: 150, u: "g", nota: "peladas" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea los tomates, el pimiento amarillo sin semillas, el melocotón pelado y deshuesado y el pepino pelado.",
@@ -1074,7 +1086,8 @@ window.RECETAS_SEED.push({
     { n: "nueces", q: 30, u: "g" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el rosbif de la nevera para que no esté helado y pierda sabor. Pica fina la cebolla morada. Escurre y enjuaga las judías blancas, alíñalas con el vinagre, 1 cucharada de aceite, la cebolla, sal y pimienta, y déjalas reposar 10 minutos.",

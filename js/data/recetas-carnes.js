@@ -74,7 +74,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true, nota: "para servir" },
     { n: "aceite de oliva", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Encurte la cebolla: córtala en juliana muy fina y mézclala en un bol con 3 cda de vinagre de arroz, el azúcar y una pizca de sal. Deja reposar al menos 20 min, removiendo de vez en cuando.",
@@ -121,7 +122,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el ajo y ralla el jengibre. Corta los muslos en dados de 2-3 cm y mézclalos en un bol con la salsa de soja, 1 cda de miel, el ajo, el jengibre, el aceite de sésamo y la maicena. Deja marinar 15 min mientras preparas el resto.",
@@ -349,7 +351,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sriracha", q: 1, u: "cdta", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el arroz en una cazuela con 240 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 11 min. Apaga y deja reposar tapado.",
@@ -483,7 +486,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz, ponlo en una cazuela con 240 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 12 min. Apaga y deja reposar tapado.",
@@ -574,7 +578,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la media cebolla y escúrrela apretándola en la mano para quitar el agua. Pica muy fino 1 diente de ajo, el perejil, el cilantro y la mitad de la menta.",

@@ -349,7 +349,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el pulpo bajo el grifo frotando bien las ventosas y córtalo en trozos de 4-5 cm (la cabeza, en tiras). Pela las patatas y córtalas en trozos de 4 cm. Corta la cebolla en pluma, lamina el ajo y parte los cherry por la mitad.",
@@ -486,7 +487,8 @@ window.RECETAS_SEED.push({
     { n: "burrata", q: 1, u: "ud", nota: "de 125 g, a temperatura ambiente" },
     { n: "pistachos", q: 20, u: "g", nota: "pelados y sin sal" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el hinojo por la mitad, quita el troncho duro y córtalo en dados pequeños; guarda las hojas verdes. Pica la chalota. Ralla la piel de la naranja y exprime la mitad. Pica grueso los pistachos.",
@@ -719,7 +721,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca el pavo con papel de cocina y salpimiéntalo. Corta los champiñones en cuartos, pica fina la cebolla y el ajo, y pela las patatas y córtalas en trozos de 3 cm.",

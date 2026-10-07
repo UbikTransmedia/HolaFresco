@@ -118,7 +118,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 150, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Pon las rodajas de patata y las judías verdes troceadas en un recipiente apto para microondas con 3 cucharadas de agua y una pizca de sal. Tapa y cocina 8 minutos a 800 W, hasta que la patata se deje pinchar sin resistencia.",
@@ -160,7 +161,8 @@ window.RECETAS_SEED.push({
     { n: "yogur natural", q: 125, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en abundante agua con sal 11 minutos; añade las judías verdes en los últimos 6 minutos. Escurre todo junto.",
@@ -205,7 +207,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador y cuécela en el doble de su volumen de agua con sal 12 minutos tapada a fuego suave. Apaga y deja reposar 5 minutos tapada.",
@@ -248,7 +251,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "tomillo seco", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el farro en abundante agua con sal 25 minutos, hasta que esté tierno pero entero y con mordida. Escúrrelo y enfríalo bajo el grifo.",
@@ -291,7 +295,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece la pasta en abundante agua con sal el tiempo que marque el paquete menos 1 minuto. En los últimos 3 minutos añade el brócoli a la misma olla.",
@@ -332,7 +337,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "semillas de calabaza", q: 10, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela con los huevos en la misma cazuela, en abundante agua con sal, 11 minutos. Saca los huevos a un bol con agua fría y escurre la quinoa.",
@@ -374,7 +380,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de calabaza", q: 15, u: "g", nota: "tostadas" },
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el puerro en rodajas y pica el ajo. Calienta 1 cucharada de aceite en una cazuela a fuego medio y pocha ambos 6 minutos, hasta que estén blandos sin dorarse. Mientras, pela la patata y córtala en dados pequeños, y pica el tallo del brócoli.",
@@ -418,7 +425,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sésamo", q: 1, u: "cda", nota: "tostado" }
+    { n: "sésamo", q: 1, u: "cda", nota: "tostado" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos, hasta que esté tierno. Escúrrelo.",
@@ -463,7 +471,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Calienta el aceite en una sartén honda a fuego medio-alto y dora el pavo picado 5 minutos, deshaciéndolo con la cuchara, hasta que pierda el color rosado.",
@@ -506,7 +515,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "cebolleta", q: 1, u: "ud", opcional: true, nota: "la parte verde, para servir" }
+    { n: "cebolleta", q: 1, u: "ud", opcional: true, nota: "la parte verde, para servir" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos y escúrrelo.",
@@ -549,7 +559,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un bol, cúbrelo con 200 ml de agua hirviendo con una pizca de sal, tapa y deja que se hidrate 12 minutos. Suelta los granos con un tenedor.",
@@ -594,7 +605,8 @@ window.RECETAS_SEED.push({
     { n: "calabacín", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Ralla un ajo, pica el perejil y corta el calabacín en dados. En un bol mezcla el pollo con el huevo, el pan rallado, el ajo rallado, el perejil, sal y pimienta. Forma 14-16 albóndigas con las manos húmedas.",
@@ -636,7 +648,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la cebolla morada en pluma en agua fría con un chorrito de vinagre 5 minutos para suavizarla. Escúrrela.",
@@ -678,7 +691,8 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 5, u: "g" },
     { n: "tamari", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "aceite de sésamo", q: 1, u: "cdta" }
+    { n: "aceite de sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolleta en aros y pica el ajo y el jengibre. Bate los huevos con una pizca de sal. Calienta el wok con unas gotas de aceite a fuego alto, cuaja los huevos en una tortilla fina 1 minuto, sácala y córtala en tiras.",
@@ -721,7 +735,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta y ponla con el calabacín rallado en un bol apto para microondas, tapa y cocina 3 minutos a 800 W. Añade las espinacas, mezcla y cocina 1 minuto más, hasta que se reduzcan.",
@@ -765,7 +780,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "yogur natural", q: 60, u: "g", opcional: true, nota: "para servir" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en abundante agua con sal 11 minutos. Escúrrelo.",
@@ -854,7 +870,8 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 80, u: "g", nota: "para servir" },
     { n: "menta fresca", q: 6, u: "hoja" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un bol con 240 ml de agua hirviendo y una pizca de sal, tapa y deja hidratar 12 minutos.",
@@ -897,7 +914,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos. En los últimos 7 minutos añade las judías verdes. Escurre.",
@@ -939,7 +957,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las lentejas lavadas en agua fría con el laurel 20-22 minutos desde que hierva, hasta que estén tiernas pero enteras. Sala al final, espera 2 minutos y escurre.",
@@ -1027,7 +1046,8 @@ window.RECETAS_SEED.push({
     { n: "zumaque", q: 0.5, u: "cdta", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo y tuéstalo en seco en una cazuela 2 minutos a fuego medio, hasta que huela a nuez. Añade 250 ml de agua y una pizca de sal, tapa y cuece 15 minutos a fuego suave. Reposa tapado 5 minutos y suelta con un tenedor.",
@@ -1071,7 +1091,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "albahaca fresca", q: 6, u: "hoja", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica bien la cebolla, el apio y el ajo. Calienta el aceite en una cazuela a fuego medio y sofríelos 8 minutos, hasta que la cebolla esté transparente.",

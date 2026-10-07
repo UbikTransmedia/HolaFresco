@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca las chuletillas de la nevera al empezar. Pon a hervir agua en el hervidor y cubre el cuscús en un bol con 120 ml de agua hirviendo, sal, el zumo de medio limón y 1 cucharada de aceite. Tapa 5 minutos. Mientras reposa, ralla el ajo, corta el pepino en dados pequeños y pica la menta y el perejil.",
@@ -158,7 +159,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "pan", q: 4, u: "rebanada" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el solomillo en tiras de 1 cm de grosor. Trocea las setas y pica la chalota y el ajo. Seca las tiras con papel y salpimiéntalas justo antes de cocinarlas.",
@@ -246,7 +248,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca los entrecots de la nevera al empezar. Corta las patatas en rodajas de 1 cm y cuécelas tapadas con 2 cucharadas de agua y sal 8 minutos al microondas a máxima potencia.",
@@ -293,7 +296,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla, ralla el ajo y el jengibre y pica el cilantro. Seca los langostinos con papel y sálalos con una pizca de cúrcuma.",
@@ -340,7 +344,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pepino en medias lunas finas y mézclalo con una pizca de sal y unas gotas del vinagre de arroz: en 5 minutos estará encurtido y crujiente. Mientras, ralla el jengibre y corta la cebolleta en aros.",
@@ -381,7 +386,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas de 5 mm y cuécelas tapadas con 2 cucharadas de agua y sal 6-7 minutos al microondas.",
@@ -510,7 +516,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 250, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en rodajas de 5 mm. Quita las puntas a las judías y pártelas por la mitad. Ponlo todo en un recipiente apto para microondas con 3 cucharadas de agua y sal, tapa y cocina 7 minutos a máxima potencia.",
@@ -555,7 +562,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", q: 1, u: "pizca" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "pan", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el puerro (la parte blanca y la verde clara) en rodajas y lávalo en un bol con agua, porque guarda arena entre las capas. Pela el nabo y la patata y córtalos en dados de 2 cm: así bastan 5 minutos de presión.",
@@ -599,7 +607,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "grandes" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua del hervidor en un cazo con el vinagre y baja el fuego hasta que el agua solo tiemble: si hierve a borbotones, deshace la clara. Mientras se calienta, pica el ajo.",
@@ -685,7 +694,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cda" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados, sin sal" },
-    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" }
+    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara un kecap manis exprés: mezcla en una taza la soja, el azúcar moreno y 1 cucharada de agua y caliéntala 30-40 segundos en el microondas, hasta que el azúcar se disuelva y espese como un sirope ligero.",
@@ -731,7 +741,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla, ralla el ajo y el jengibre y pica el cilantro.",
@@ -778,7 +789,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 130, u: "ml" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las cebollas en pluma muy fina. Ponlas en una sartén con 1 cucharada de aceite y una pizca de sal a fuego medio y tapa 3 minutos: la sal les hace soltar agua y el vapor atrapado las ablanda en la mitad de tiempo.",
@@ -818,7 +830,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en pluma.",
@@ -862,7 +875,8 @@ window.RECETAS_SEED.push({
     { n: "curry en polvo", q: 1, u: "cdta" },
     { n: "espinacas frescas", q: 120, u: "g" },
     { n: "arroz cocido", q: 250, u: "g" },
-    { n: "cacahuetes", q: 15, u: "g", nota: "tostados, sin sal" }
+    { n: "cacahuetes", q: 15, u: "g", nota: "tostados, sin sal" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el ajo y el jengibre y pica los cacahuetes. En un bol, mezcla la crema de cacahuete con la soja, el zumo de media lima, el azúcar, el ajo y el jengibre y 3 cucharadas de agua caliente. Bate con un tenedor hasta que quede lisa: el agua caliente afloja la crema y evita grumos.",
@@ -897,7 +911,8 @@ window.RECETAS_SEED.push({
     { n: "guanciale", q: 80, u: "g", nota: "o panceta curada" },
     { n: "queso pecorino", q: 50, u: "g", nota: "rallado fino" },
     { n: "pimienta negra en grano", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hierve 1,5 litros de agua en el hervidor y pásala a una cazuela al fuego con poca sal: el guanciale y el pecorino ya son salados.",
@@ -943,7 +958,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua del hervidor en una cazuela con sal y cuece los tagliatelle 1 minuto menos de lo que indique el paquete. Mientras se cuecen, prepara el resto.",
@@ -988,7 +1004,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pimiento en tiras y la cebolleta en tramos de 4 cm, pica el ajo y el jengibre y separa las hojas del pak choi de los tallos; trocea los tallos.",

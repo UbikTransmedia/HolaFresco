@@ -39,7 +39,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta en dados la cebolla, la zanahoria y el apio y pica el ajo. Sala el pollo y dóralo en la cazuela con la mitad de la mantequilla a fuego medio-alto 5 minutos. Añade la cebolla, la zanahoria, el apio y el ajo, y rehoga 6 minutos más.",
     "Espolvorea 1 cucharada de harina, remueve 1 minuto y vierte el caldo poco a poco sin dejar de remover. Añade el tomillo y el laurel, lleva a ebullición y cuece a fuego suave 20 minutos, hasta que el pollo esté tierno.",
-    "Mientras, prepara la masa: mezcla en un bol 120 g de harina, la levadura, media cucharadita de sal y pimienta. Frota con los dedos el resto de la mantequilla fría hasta que parezca arena y añade la leche y la mitad del perejil picado; mezcla lo justo hasta que no quede harina seca (masa pegajosa, no la amases).",
+    "Mientras, pica el perejil y prepara la masa: mezcla en un bol 120 g de harina, la levadura, media cucharadita de sal y pimienta. Frota con los dedos el resto de la mantequilla fría hasta que parezca arena y añade la mitad del perejil y la leche; mezcla lo justo hasta que no quede harina seca (masa pegajosa, no la amases).",
     "Añade a la sopa los guisantes y la nata, prueba de sal y pimienta y mantén un hervor suave y constante.",
     "Con dos cucharas deja caer porciones de masa del tamaño de una nuez sobre la sopa, separadas. Tapa y cuece 15 minutos sin destapar: los dumplings se hinchan al vapor y doblan su tamaño. Pincha uno con un palillo; debe salir seco.",
     "Retira el laurel y el tomillo y sirve en platos hondos con el resto del perejil por encima."
@@ -80,7 +80,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las setas con un paño y trocéalas; lamina los champiñones. Reserva un puñado de las setas más bonitas para el topping. Pica la cebolla, el puerro y el ajo y pela la patata y córtala en dados pequeños.",
@@ -127,13 +128,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los puerros en rodajas y lávalos bien. Pela la patata y córtala en dados. Pica la cebolla y lamina un diente de ajo.",
-    "Rehoga el puerro, la cebolla y el ajo laminado en la cazuela con media cucharada de aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y sin color.",
+    "Corta los puerros en rodajas y lávalos bien. Pela la patata y córtala en dados. Pica la cebolla y lamina los dos dientes de ajo.",
+    "Rehoga el puerro, la cebolla y un ajo laminado en la cazuela con media cucharada de aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y sin color.",
     "Añade la patata, el caldo y el laurel. Cuece 20 minutos a fuego medio, hasta que la patata se deshaga.",
-    "Mientras, prepara el aceite de pimentón: calienta el resto del aceite en un cazo pequeño con el otro diente de ajo laminado a fuego suave 2 minutos, hasta que el ajo se dore. Aparta del fuego, añade el pimentón, remueve y resérvalo.",
+    "Mientras, pica el perejil y prepara el aceite de pimentón: calienta el resto del aceite en un cazo pequeño con el otro ajo laminado a fuego suave 2 minutos, hasta que el ajo se dore. Aparta del fuego, añade el pimentón, remueve y resérvalo.",
     "Retira el laurel y tritura la crema con la leche hasta que quede fina. Prueba de sal con cuidado (el bacalao aporta algo) y pimienta.",
     "Seca el bacalao, desmígalo en lascas grandes quitando pieles y espinas y húndelo en la crema caliente a fuego mínimo 3 minutos, sin que hierva: se cocina en su calor y queda jugoso.",
-    "Sirve la crema repartiendo el bacalao, riega con el aceite de pimentón y termina con perejil picado."
+    "Sirve la crema repartiendo el bacalao, termina con el perejil picado y riega con el aceite de pimentón."
   ],
   nutricion: { kcal: 445, prot: 34, hc: 45, grasa: 14 },
   etiquetas: ["de cuchara", "ligera", "invierno", "alta en proteína", "cuaresma", "detox", "poco especiada", "bajo en colesterol"],
@@ -167,15 +168,16 @@ window.RECETAS_SEED.push({
     { n: "nueces", q: 20, u: "g" },
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Mezcla en una bandeja la remolacha, la cebolla en gajos y los ajos con piel con el aceite, sal y pimienta. Asa 40 minutos, hasta que un cuchillo entre en la remolacha sin resistencia.",
-    "A los 25 minutos, añade a la bandeja la manzana pelada y en cuartos para que se ase los últimos 15 minutos.",
-    "Tuesta las nueces en una sartén seca 2 minutos y pícalas grueso.",
+    "Precalienta el horno a 200 °C. Corta la cebolla en gajos. Mezcla en una bandeja la remolacha, la cebolla y los ajos con piel con el aceite, sal y pimienta. Asa 40 minutos, hasta que un cuchillo entre en la remolacha sin resistencia.",
+    "A los 25 minutos, pela la manzana, córtala en cuartos y añádela a la bandeja para que se ase los últimos 15 minutos.",
+    "Mientras se asa, tuesta las nueces en una sartén seca 2 minutos y pica las nueces grueso. Pica también el eneldo.",
     "Pasa la verdura asada a una cazuela (pela los ajos apretándolos), añade el caldo y el vinagre y cuece 5 minutos.",
     "Tritura hasta obtener una crema muy lisa; añade un poco de agua caliente si está espesa. Rectifica de sal, pimienta y vinagre: debe tener un punto agridulce.",
-    "Sirve caliente con el queso de cabra desmenuzado por encima, las nueces y el eneldo picado."
+    "Sirve caliente con el queso de cabra desmenuzado por encima, las nueces y el eneldo."
   ],
   nutricion: { kcal: 425, prot: 13, hc: 41, grasa: 23 },
   etiquetas: ["de cuchara", "al horno", "ligera", "vegetariana", "otoño", "sin gluten", "poco especiada"],
@@ -212,7 +214,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las zanahorias en bastones gruesos y la cebolla en gajos; mézclalas en una bandeja con 1 cucharada de aceite, el comino, la miel, sal y pimienta. Asa 30 minutos, dándoles la vuelta a mitad, hasta que estén tiernas y con los bordes tostados. Añade los ajos con piel a los 10 minutos.",
@@ -307,8 +310,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Coloca en una bandeja los tomates con el corte hacia arriba, los pimientos en cuartos sin semillas, la cebolla en gajos y 4 dientes de ajo con piel. Riega con 1,5 cucharadas de aceite, sal y pimienta y asa 35 minutos, hasta que la piel de los pimientos se ennegrezca en puntos y los tomates estén arrugados.",
-    "Mientras, mezcla en un bol el pavo con el pan rallado, el huevo, el parmesano, el diente de ajo restante rallado, el perejil picado, sal y pimienta. Forma 12 albóndigas pequeñas con las manos mojadas y resérvalas en la nevera.",
+    "Precalienta el horno a 220 °C. Corta los pimientos en cuartos sin semillas y la cebolla en gajos. Coloca en una bandeja los tomates con el corte hacia arriba, los pimientos, la cebolla y 4 dientes de ajo con piel. Riega con 1,5 cucharadas de aceite, sal y pimienta y asa 35 minutos, hasta que la piel de los pimientos se ennegrezca en puntos y los tomates estén arrugados.",
+    "Mientras, ralla el diente de ajo restante y pica el perejil. Mezcla en un bol el pavo con el pan rallado, el huevo, el parmesano, el ajo, el perejil, sal y pimienta. Forma 12 albóndigas pequeñas con las manos mojadas y resérvalas en la nevera.",
     "Pela los pimientos asados (la piel sale fácil) y los ajos. Pasa toda la verdura con sus jugos a una cazuela con el caldo, el pimentón, el vinagre, el azúcar y la mitad de la albahaca. Cuece 5 minutos.",
     "Tritura hasta obtener una crema fina y pásala por un colador si no quieres restos de pepitas. Rectifica de sal.",
     "Dora las albóndigas en una sartén con el resto del aceite a fuego medio-alto 4 minutos, girándolas para que tomen color por todos lados.",
@@ -351,15 +354,16 @@ window.RECETAS_SEED.push({
     { n: "fideos de arroz", q: 80, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja los fideos de arroz en agua caliente del grifo según el envase (unos 8-10 minutos) y escúrrelos.",
-    "Golpea la hierba limón con el lomo del cuchillo y córtala en trozos; lamina el jengibre y el ajo; corta los chiles en rodajas. Ponlo todo en una cazuela con el caldo y la pasta de curry y lleva a ebullición. Hierve 5 minutos a fuego medio para que infusione.",
-    "Añade los champiñones en cuartos y los tomates cherry partidos por la mitad; cuece 3 minutos.",
+    "Golpea la hierba limón con el lomo del cuchillo y córtala en trozos; lamina el jengibre y el ajo; corta los chiles en rodajas. Ponlo todo en una cazuela con el caldo y la pasta de curry y lleva a ebullición. Hierve 5 minutos a fuego medio para que infusione. Mientras, corta los champiñones en cuartos, parte los cherry por la mitad, corta la cebolleta en aros y deshoja el cilantro.",
+    "Añade los champiñones y los tomates cherry; cuece 3 minutos.",
     "Incorpora las gambas y cuécelas 2 minutos, hasta que estén rosadas y curvadas. Apaga el fuego.",
     "Sazona con la salsa de pescado, el azúcar y el zumo de las limas. Prueba: debe estar claramente ácida y picante, con el salado detrás; ajusta.",
-    "Reparte los fideos en dos boles, vierte la sopa (retira los trozos de hierba limón si quieres) y termina con cilantro y cebolleta en aros."
+    "Reparte los fideos en dos boles, vierte la sopa (retira los trozos de hierba limón si quieres) y termina con el cilantro y la cebolleta."
   ],
   nutricion: { kcal: 350, prot: 35, hc: 44, grasa: 4 },
   etiquetas: ["de cuchara", "rápida", "picante", "ligera", "sin gluten", "alta en proteína"],
@@ -439,11 +443,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una cazuela grande con el lacón, la cebolla entera pelada, los ajos y el agua fría. Lleva a ebullición, retira la espuma y baja el fuego al mínimo. Cuece tapado 1 hora y 15 minutos, hasta que las alubias estén casi tiernas (si usas chorizo, añádelo a la media hora).",
-    "Mientras, lava los grelos, quita los tallos duros y trocea las hojas. Si son muy amargos, escáldalos 2 minutos en agua hirviendo y escúrrelos.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas, pela la cebolla y ponlas en una cazuela grande con el lacón, la cebolla entera, los ajos y el agua fría. Lleva a ebullición, retira la espuma y baja el fuego al mínimo. Cuece tapado 1 hora y 15 minutos, hasta que las alubias estén casi tiernas (si usas chorizo, añádelo a la media hora).",
+    "Mientras, lava los grelos, quita los tallos duros y trocea las hojas. Si son muy amargos, escáldalos 2 minutos en agua hirviendo y escúrrelos. Pela la patata y guárdala en agua fría.",
     "Saca el lacón, retira la piel y la grasa si las tiene y córtalo en tacos. Saca también la cebolla y tírala (o aplástala y devuélvela si te gusta más espeso).",
-    "Añade a la cazuela la patata pelada y cortada en trozos irregulares (cascada, no cortada del todo, para que suelte almidón) y la manteca. Cuece 15 minutos.",
-    "Incorpora los grelos y el lacón troceado y cuece 15 minutos más, hasta que la patata esté tierna y el caldo ligeramente ligado. Aplasta unas patatas contra la pared para espesar.",
+    "Casca la patata en trozos irregulares (sin cortarla del todo, para que suelte almidón) y añádela a la cazuela con la manteca. Cuece 15 minutos.",
+    "Incorpora los grelos y el lacón y cuece 15 minutos más, hasta que la patata esté tierna y el caldo ligeramente ligado. Aplasta unas patatas contra la pared para espesar.",
     "Disuelve el pimentón en un cacillo de caldo y añádelo. Prueba de sal (el lacón ya la aporta), deja reposar 5 minutos y sirve en cuencos hondos."
   ],
   nutricion: { kcal: 620, prot: 44, hc: 77, grasa: 15 },
@@ -487,10 +491,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla, el apio y la zanahoria en dados pequeños; ralla el jengibre y el ajo. Rehoga la verdura en la cazuela con el aceite a fuego medio 7 minutos, hasta que la cebolla esté transparente.",
     "Añade el jengibre, el ajo, la cúrcuma, la cayena y pimienta negra generosa (ayuda a aprovechar la cúrcuma). Remueve 1 minuto hasta que huela.",
-    "Vierte el caldo, añade el laurel y los muslos de pollo enteros. Lleva a ebullición suave y cuece 18 minutos, hasta que el pollo esté tierno.",
+    "Vierte el caldo, añade el laurel y los muslos de pollo enteros. Lleva a ebullición suave y cuece 18 minutos, hasta que el pollo esté tierno. Mientras, pica el perejil y corta medio limón en gajos.",
     "Saca el pollo, desmenúzalo con dos tenedores y devuélvelo a la cazuela.",
     "Añade los fideos de huevo y cuécelos el tiempo que indique el envase (unos 4 minutos).",
-    "Retira el laurel, sazona con sal y el zumo de medio limón y sirve con perejil picado y gajos del limón restante."
+    "Retira el laurel, sazona con sal y el zumo del otro medio limón y sirve con el perejil picado y los gajos de limón."
   ],
   nutricion: { kcal: 450, prot: 31, hc: 44, grasa: 16 },
   etiquetas: ["de cuchara", "ligera", "invierno", "reconfortante", "para niños", "económica", "bajo en colesterol"],
@@ -577,10 +581,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon los mejillones en una cazuela grande con el vino, tapa y cuece a fuego fuerte 4 minutos, sacudiendo la cazuela, hasta que se abran. Cuela el jugo por un colador fino (reserva) y saca la carne de las conchas, dejando 8 mejillones con media concha para decorar. Desecha los que no se abran.",
     "Pica el hinojo, el puerro, la cebolla y el ajo y pela la patata y córtala en dados de 1,5 cm. Rehoga la verdura en la cazuela limpia con el aceite a fuego medio-bajo 10 minutos con una pizca de sal, hasta que estén blandos.",
-    "Añade el tomate y el azafrán y cuece 3 minutos. Incorpora la patata, el jugo de los mejillones y el caldo de pescado. Cuece 15 minutos, hasta que la patata esté tierna; mientras, precalienta el horno a 200 °C.",
+    "Añade el tomate y el azafrán y cuece 3 minutos. Incorpora la patata, el jugo de los mejillones y el caldo de pescado. Cuece 15 minutos, hasta que la patata esté tierna; mientras, precalienta el horno a 200 °C y pica el perejil.",
     "Tuesta el pan en el horno 6 minutos o en una sartén.",
-    "Añade los mejillones pelados a la sopa y caliéntalos 1 minuto sin hervir para que no se endurezcan. Prueba de sal (el jugo ya es salado) y pimienta.",
-    "Sirve con los mejillones de media concha encima, perejil picado abundante y el pan tostado al lado."
+    "Añade la carne de los mejillones a la sopa y caliéntala 1 minuto sin hervir para que no se endurezca. Prueba de sal (el jugo ya es salado) y pimienta.",
+    "Sirve con los mejillones de media concha encima, el perejil picado abundante y el pan tostado al lado."
   ],
   nutricion: { kcal: 465, prot: 25, hc: 56, grasa: 15 },
   etiquetas: ["de cuchara", "ligera", "marisco", "elegante", "primavera", "poco especiada"],
@@ -617,15 +621,16 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "arroz jazmín", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lo primero, el arroz: lávalo hasta que el agua salga clara y cuécelo tapado con 200 ml de agua y una pizca de sal, 12 minutos a fuego mínimo desde que hierve y 5 de reposo.",
     "Mientras, pica el ajo y el jengibre, corta la cebolla en juliana y trocea el kimchi escurrido (reserva el jugo). Calienta el aceite de oliva en una cazuela a fuego medio-alto y saltea el cerdo con el ajo y el jengibre 3 minutos, hasta que pierda el color rosado.",
     "Añade el kimchi y la cebolla. Sofríe 3 minutos: el kimchi se ablanda y suelta su aroma.",
-    "Incorpora el gochujang, la soja y el azúcar, remueve, y vierte el caldo y el jugo del kimchi. Lleva a ebullición y cuece 8 minutos a fuego medio.",
+    "Incorpora el gochujang, la soja y el azúcar, remueve, y vierte el caldo y el jugo del kimchi. Lleva a ebullición y cuece 8 minutos a fuego medio. Mientras, corta la cebolleta en aros.",
     "Corta el tofu en lonchas gruesas y colócalas encima sin remover mucho; cuece 3 minutos más para que se calienten. Prueba de sal.",
-    "Termina con la cebolleta en aros y el aceite de sésamo. Sírvelo hirviendo en la propia cazuela, con el arroz en cuencos aparte."
+    "Termina con la cebolleta y el aceite de sésamo. Sírvelo hirviendo en la propia cazuela, con el arroz en cuencos aparte."
   ],
   nutricion: { kcal: 615, prot: 38, hc: 55, grasa: 26 },
   etiquetas: ["de cuchara", "picante", "rápida", "fermentado", "invierno"],
@@ -666,15 +671,16 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, la zanahoria y el apio y ralla el ajo y el jengibre. Sala el pollo y dóralo en la cazuela con el aceite a fuego medio-alto 4 minutos. Sácalo y resérvalo.",
     "En el mismo aceite rehoga la cebolla, la zanahoria y el apio 8 minutos a fuego medio. Añade el ajo y el jengibre, el curry, la cúrcuma y el garam masala, y remueve 1 minuto hasta que las especias huelan.",
     "Incorpora el tomate, la manzana, las lentejas lavadas y el caldo. Lleva a ebullición y cuece a fuego suave 25 minutos, hasta que las lentejas se deshagan.",
-    "Mientras, cuece el arroz basmati lavado en agua hirviendo con sal 10 minutos, escúrrelo y resérvalo tapado.",
+    "Mientras, cuece el arroz basmati lavado en agua hirviendo con sal 10 minutos, escúrrelo y resérvalo tapado. Pica el cilantro.",
     "Tritura la sopa hasta que quede cremosa (si la prefieres con tropezones, tritura solo la mitad). Devuelve el pollo a la cazuela con la leche de coco y cuece 8 minutos más, hasta que esté tierno.",
-    "Rectifica de sal y añade el zumo del limón. Sirve con una cucharada de arroz en cada bol y cilantro picado por encima."
+    "Rectifica de sal y añade el zumo del limón. Sirve con el cilantro picado por encima y una cucharada de arroz en cada bol."
   ],
   nutricion: { kcal: 640, prot: 36, hc: 70, grasa: 24 },
   etiquetas: ["de cuchara", "especiada", "invierno", "batch cooking", "sin gluten"],
@@ -709,13 +715,14 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra; la mitad para terminar" },
     { n: "parmesano", q: 30, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava la espelta bajo el grifo. Pica fina la cebolla, la zanahoria, el apio y el ajo.",
-    "Rehoga la verdura en la cazuela con 1 cucharada de aceite a fuego medio-bajo 10 minutos, con una pizca de sal, hasta que esté muy tierna. Añade las hojas de romero picadas y el tomate triturado y cuece 5 minutos.",
+    "Lava la espelta bajo el grifo. Pica fina la cebolla, la zanahoria, el apio, el ajo y las hojas de romero.",
+    "Rehoga la verdura en la cazuela con 1 cucharada de aceite a fuego medio-bajo 10 minutos, con una pizca de sal, hasta que esté muy tierna. Añade el romero y el tomate triturado y cuece 5 minutos.",
     "Tritura la mitad de las judías con un cucharón de caldo hasta obtener un puré y añádelo a la cazuela con el resto del caldo: es lo que da cremosidad a la sopa sin nata.",
-    "Incorpora la espelta, lleva a ebullición y cuece a fuego suave 35 minutos, removiendo de vez en cuando, hasta que el grano esté tierno pero firme al morder.",
+    "Incorpora la espelta, lleva a ebullición y cuece a fuego suave 35 minutos, removiendo de vez en cuando, hasta que el grano esté tierno pero firme al morder. Mientras, ralla el parmesano.",
     "Añade las judías enteras restantes y cuece 5 minutos. Si está muy espesa, afloja con agua caliente. Prueba de sal y pimienta.",
     "Sirve con el parmesano rallado, pimienta recién molida y el resto del aceite en crudo, generoso, por encima."
   ],
@@ -756,15 +763,16 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "brotes de soja", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja los fideos de arroz en agua caliente del grifo según el envase (unos 8-10 minutos) y escúrrelos.",
-    "Pica el ajo, el jengibre y la parte blanca de la cebolleta; golpea la hierba limón y córtala en trozos. Calienta el aceite en la cazuela a fuego medio-alto y saltea el pavo con el ajo y el jengibre 4 minutos, desmenuzándolo con la cuchara hasta que pierda el color rosado.",
-    "Vierte el caldo, añade la hierba limón y la mitad del chile en rodajas, y lleva a ebullición. Cuece 6 minutos a fuego medio.",
+    "Pica el ajo, el jengibre y la parte blanca de la cebolleta, corta el chile en rodajas y golpea la hierba limón y córtala en trozos. Calienta el aceite en la cazuela a fuego medio-alto y saltea el pavo con el ajo y el jengibre 4 minutos, desmenuzándolo con la cuchara hasta que pierda el color rosado.",
+    "Vierte el caldo, añade la hierba limón y la mitad del chile, y lleva a ebullición. Cuece 6 minutos a fuego medio. Mientras, corta en aros la parte verde de la cebolleta, deshoja el cilantro y la menta y corta media lima en gajos.",
     "Añade la zanahoria en juliana y cuece 2 minutos; debe quedar crujiente.",
-    "Sazona con la salsa de pescado, el azúcar y el zumo de media lima. Prueba y ajusta: fresco, salado y ácido a partes iguales.",
-    "Reparte los fideos en dos boles, vierte la sopa (retira la hierba limón) y corona con los brotes, el cilantro, la menta, la parte verde de la cebolleta, el resto del chile y gajos de lima."
+    "Sazona con la salsa de pescado, el azúcar y el zumo de la otra media lima. Prueba y ajusta: fresco, salado y ácido a partes iguales.",
+    "Reparte los fideos en dos boles, vierte la sopa (retira la hierba limón) y corona con los brotes, el cilantro, la menta, la parte verde de la cebolleta, el resto del chile y los gajos de lima."
   ],
   nutricion: { kcal: 445, prot: 31, hc: 60, grasa: 9 },
   etiquetas: ["de cuchara", "rápida", "ligera", "sin gluten", "fresca", "alta en proteína", "bajo en colesterol"],
@@ -807,10 +815,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla, la zanahoria y el ajo y corta la patata en dados de 2 cm. Corta las salchichas en rodajas de 2 cm y dóralas en la cazuela con el aceite a fuego medio-alto 5 minutos, hasta que estén tostadas. Sácalas y resérvalas, dejando la grasa.",
     "Baja a fuego medio y rehoga la cebolla, la zanahoria y el ajo 6 minutos. Añade el tomate concentrado y el pimentón y remueve 1 minuto.",
-    "Incorpora la col, la patata, el laurel y el caldo. Lleva a ebullición y cuece 15 minutos a fuego medio, hasta que la patata esté casi tierna y la col blanda.",
+    "Incorpora la col, la patata, el laurel y el caldo. Lleva a ebullición y cuece 15 minutos a fuego medio, hasta que la patata esté casi tierna y la col blanda. Mientras, pica el perejil.",
     "Añade las judías y las salchichas y cuece 8 minutos más para que todo tome sabor.",
     "Disuelve la mostaza en un cucharón de caldo y añádela; prueba de sal y pimienta.",
-    "Retira el laurel y sirve bien caliente con perejil picado. Un trozo de pan de centeno al lado le va perfecto."
+    "Retira el laurel y sirve bien caliente con el perejil picado. Un trozo de pan de centeno al lado le va perfecto."
   ],
   nutricion: { kcal: 730, prot: 38, hc: 62, grasa: 36 },
   etiquetas: ["de cuchara", "invierno", "una sola cazuela", "batch cooking", "rústica", "poco especiada"],
@@ -844,7 +852,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 80, u: "g" },
     { n: "pan", q: 60, u: "g", nota: "2 rebanadas finas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica las cebolletas y el ajo y rehógalos en la cazuela con media cucharada de aceite a fuego medio 3 minutos, sin que tomen color.",
@@ -889,11 +898,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y el ajo y rehógalos en la cazuela con media cucharada de aceite a fuego medio 3 minutos. Añade la patata en dados pequeños y el caldo, y lleva a ebullición.",
+    "Pica la cebolla y el ajo y pela la patata y córtala en dados pequeños. Rehoga la cebolla y el ajo en la cazuela con media cucharada de aceite a fuego medio 3 minutos. Añade la patata y el caldo, y lleva a ebullición.",
     "Corta el calabacín en rodajas (sin pelar) y añádelo cuando el caldo hierva. Cuece 12 minutos a fuego medio, hasta que esté tierno pero aún verde.",
-    "Mientras, abre la pechuga en dos filetes finos, sazónalos con sal, pimienta y el resto del aceite y hazlos en la plancha muy caliente 3 minutos por lado, hasta que estén dorados. Déjalos reposar 3 minutos y córtalos en tiras.",
-    "Añade a la cazuela casi toda la albahaca y 30 g de parmesano rallado y tritura hasta que quede una crema lisa. Sazona con sal, pimienta y unas gotas de limón.",
-    "Sirve la sopa con las tiras de pollo encima, el resto del parmesano en lascas y hojas de albahaca."
+    "Mientras, ralla 30 g de parmesano y saca el resto en lascas con un pelador. Abre la pechuga en dos filetes finos, sazónalos con sal, pimienta y el resto del aceite y hazlos en la plancha muy caliente 3 minutos por lado, hasta que estén dorados. Déjalos reposar 3 minutos y córtalos en tiras.",
+    "Añade a la cazuela el parmesano rallado y casi toda la albahaca y tritura hasta que quede una crema lisa. Sazona con sal, pimienta y unas gotas de limón.",
+    "Sirve la sopa con las tiras de pollo encima, las lascas de parmesano y hojas de albahaca."
   ],
   nutricion: { kcal: 445, prot: 42, hc: 30, grasa: 17 },
   etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "verano", "sin gluten", "poco especiada", "bajo en colesterol"],
@@ -935,11 +944,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla y ralla el ajo y el jengibre. Rehoga la cebolla en la cazuela con el aceite a fuego medio 5 minutos. Añade el ajo y el jengibre, el comino y la cayena y remueve 1 minuto.",
-    "Incorpora el tomate triturado y cuece 3 minutos. Añade el boniato, el caldo y los muslos de pollo enteros y salados. Lleva a ebullición y cuece a fuego suave 20 minutos, hasta que el boniato esté tierno y el pollo hecho.",
+    "Incorpora el tomate triturado y cuece 3 minutos. Añade el boniato, el caldo y los muslos de pollo enteros y salados. Lleva a ebullición y cuece a fuego suave 20 minutos, hasta que el boniato esté tierno y el pollo hecho. Mientras, pica los cacahuetes, deshoja el cilantro y corta media lima en gajos.",
     "Saca el pollo y desmenúzalo con dos tenedores.",
     "Disuelve la mantequilla de cacahuete en un bol con un cucharón de caldo caliente hasta que no queden grumos y viértela en la cazuela. Tritura la sopa hasta que quede cremosa.",
-    "Devuelve el pollo a la cazuela, añade las espinacas y cuece 2 minutos, hasta que se ablanden. Prueba de sal y añade el zumo de media lima.",
-    "Sirve con los cacahuetes picados, el cilantro y gajos de lima."
+    "Devuelve el pollo a la cazuela, añade las espinacas y cuece 2 minutos, hasta que se ablanden. Prueba de sal y añade el zumo de la otra media lima.",
+    "Sirve con los cacahuetes picados, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 630, prot: 36, hc: 56, grasa: 29 },
   etiquetas: ["de cuchara", "cremosa", "especiada", "sin gluten", "batch cooking", "invierno"],
@@ -985,10 +994,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si tienes cabezas y cáscaras de langostino, sofríelas 3 minutos en una cazuela con un chorrito de aceite, cúbrelas con el caldo de pescado, hierve 15 minutos y cuela. Si no, calienta el caldo tal cual. Mientras, pica la cebolla y el ajo y corta la patata en dados de 2 cm.",
     "Rehoga la cebolla y el ajo en la cazuela con el aceite a fuego medio 6 minutos. Añade el pimentón, la cayena y el orégano, remueve 30 segundos e incorpora el tomate triturado; cuece 4 minutos hasta que espese.",
-    "Vierte el caldo, añade la patata y el arroz lavado. Lleva a ebullición y cuece 18 minutos a fuego medio, hasta que la patata esté tierna y el arroz haya soltado almidón.",
+    "Vierte el caldo, añade la patata y el arroz lavado. Lleva a ebullición y cuece 18 minutos a fuego medio, hasta que la patata esté tierna y el arroz haya soltado almidón. Mientras, corta el queso fresco en dados y pica el cilantro.",
     "Añade el maíz y los guisantes y la leche, y calienta sin que hierva fuerte 3 minutos.",
     "Incorpora los langostinos salados y cuece 2 minutos. Casca los huevos sobre la sopa, en zonas separadas, tapa y cuece 3 minutos a fuego suave hasta que la clara cuaje.",
-    "Prueba de sal y pimienta y sirve cada huevo con su sopa, con el queso fresco en dados y el cilantro picado por encima."
+    "Prueba de sal y pimienta y sirve cada huevo con su sopa, con el queso fresco y el cilantro picado por encima."
   ],
   nutricion: { kcal: 740, prot: 53, hc: 69, grasa: 28 },
   etiquetas: ["de cuchara", "marisco", "fin de semana", "alta en proteína", "sin gluten", "para invitados"],
@@ -1023,14 +1032,15 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 0.5, u: "cdta" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "pimienta blanca", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Calienta la cazuela a fuego medio-alto con el aceite de sésamo, el jengibre y el ajo picados; a los 30 segundos añade los tomates y sofríelos 4 minutos, aplastándolos un poco, hasta que suelten jugo y se deshagan.",
+    "Pica el jengibre y el ajo y corta la cebolleta en aros finos. Calienta la cazuela a fuego medio-alto con el aceite de sésamo, el jengibre y el ajo; a los 30 segundos añade los tomates y sofríelos 4 minutos, aplastándolos un poco, hasta que suelten jugo y se deshagan.",
     "Vierte el caldo, la soja y el azúcar y lleva a ebullición. Añade el tofu y cuece 3 minutos.",
     "Disuelve la maicena en 3 cucharadas de agua fría y viértela removiendo; en 1 minuto la sopa espesa ligeramente y queda brillante.",
     "Bate los huevos en un vaso. Baja el fuego a mínimo, remueve la sopa en círculo con unos palillos o una cuchara y vierte el huevo en un hilo fino mientras sigue girando: se formarán hebras sedosas. No remuevas más.",
-    "Prueba de sal y añade la pimienta blanca. Sirve de inmediato con la cebolleta en aros finos."
+    "Prueba de sal y añade la pimienta blanca. Sirve de inmediato con la cebolleta."
   ],
   nutricion: { kcal: 300, prot: 22, hc: 19, grasa: 15 },
   etiquetas: ["rápida", "ligera", "de cuchara", "vegetariana", "cena ligera", "económica", "poco especiada"],
@@ -1068,15 +1078,16 @@ window.RECETAS_SEED.push({
     { n: "sriracha", q: 1, u: "cdta" },
     { n: "azúcar", q: 0.5, u: "cdta" },
     { n: "cebolleta", q: 2, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cubre los shiitake con agua hirviendo 10 minutos. Escúrrelos (cuela y guarda el agua), quítales el pie y lamínalos.",
-    "Pon el caldo en la cazuela con el agua de los shiitake y el jengibre en láminas y lleva a ebullición. Añade los shiitake, los champiñones y la zanahoria y cuece 5 minutos.",
+    "Cubre los shiitake con agua hirviendo 10 minutos. Mientras, lamina el jengibre, corta la cebolleta en aros y bate los huevos. Escurre los shiitake (cuela y guarda el agua), quítales el pie y lamínalos.",
+    "Pon el caldo en la cazuela con el agua de los shiitake y el jengibre y lleva a ebullición. Añade los shiitake, los champiñones y la zanahoria y cuece 5 minutos.",
     "Añade el tofu, la soja, la sriracha y el azúcar y cuece 2 minutos a fuego medio.",
     "Disuelve la maicena en 4 cucharadas de agua fría y viértela removiendo; cuece 1 minuto hasta que la sopa espese y quede brillante.",
     "Baja el fuego al mínimo, remueve en círculo y vierte los huevos batidos en un hilo fino para formar hebras. Para de remover en cuanto cuajen.",
-    "Fuera del fuego añade el vinagre, la pimienta blanca y el aceite de sésamo. Prueba: debe picar en la garganta y estar claramente ácida; ajusta con más vinagre o pimienta. Sirve con la cebolleta en aros."
+    "Fuera del fuego añade el vinagre, la pimienta blanca y el aceite de sésamo. Prueba: debe picar en la garganta y estar claramente ácida; ajusta con más vinagre o pimienta. Sirve con la cebolleta."
   ],
   nutricion: { kcal: 350, prot: 26, hc: 21, grasa: 17 },
   etiquetas: ["rápida", "picante", "ligera", "de cuchara", "cena ligera", "vegetariana"],
@@ -1113,14 +1124,15 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el puerro, la cebolla y el ajo y rehógalos en la cazuela con media cucharada de aceite a fuego medio-bajo 8 minutos, hasta que estén blandos.",
     "Añade el boniato, las castañas (reserva 4 para el topping), el tomillo y el caldo. Lleva a ebullición y cuece 18 minutos, hasta que el boniato esté tierno.",
-    "Mientras, dora el bacon en una sartén sin aceite a fuego medio 5 minutos, hasta que esté crujiente; sácalo a un papel. En la misma grasa saltea las setas troceadas a fuego fuerte 4 minutos, hasta que se doren; sálalas al final y desmenuza las castañas reservadas con ellas el último minuto.",
+    "Mientras, limpia y trocea las setas y pica el perejil. Dora el bacon en una sartén sin aceite a fuego medio 5 minutos, hasta que esté crujiente; sácalo a un papel. En la misma grasa saltea las setas a fuego fuerte 4 minutos, hasta que se doren; sálalas al final y desmenuza las castañas reservadas con ellas el último minuto.",
     "Retira el tomillo y tritura la crema con la nata hasta que quede sedosa; afloja con agua caliente si está espesa. Sazona con sal, pimienta y la nuez moscada.",
-    "Sirve la crema con las setas y castañas salteadas en el centro, el bacon crujiente, perejil picado y un hilo del aceite restante."
+    "Sirve la crema con las setas y castañas salteadas en el centro, el bacon crujiente, el perejil picado y un hilo del aceite restante."
   ],
   nutricion: { kcal: 600, prot: 16, hc: 76, grasa: 26 },
   etiquetas: ["de cuchara", "otoño", "cremosa", "sin gluten", "elegante", "poco especiada"],

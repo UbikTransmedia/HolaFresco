@@ -248,7 +248,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon agua con sal a hervir en una cazuela. Mientras se calienta, pela la patata y córtala en trozos de 3 cm; cuécela en el agua hirviendo 10 minutos.",
@@ -421,7 +422,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "pan", q: 80, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la maroulosalata: corta la lechuga en tiras muy finas, la cebolleta en rodajas y pica el eneldo. Ponlo todo en un bol y alíñalo con sal, el vinagre y 2 cucharadas de aceite justo antes de servir.",
@@ -555,7 +557,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y ponlas enteras, con piel, en una cazuela con agua fría y sal. Cuando hierva, cuenta 20-25 minutos, hasta que un cuchillo entre sin resistencia. Añade los huevos al agua los últimos 10 minutos.",
@@ -598,7 +601,8 @@ window.RECETAS_SEED.push({
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "pan de pita", q: 2, u: "ud", opcional: true, nota: "para acompañar" }
+    { n: "pan de pita", q: 2, u: "ud", opcional: true, nota: "para acompañar" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pasa la lubina del congelador a la nevera para que se descongele. Córtala en láminas de medio centímetro con un cuchillo bien afilado, de un solo corte cada una, y extiéndelas en una fuente sin amontonarlas.",

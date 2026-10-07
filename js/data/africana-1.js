@@ -243,7 +243,8 @@ window.RECETAS_SEED.push({
     { n: "mayonesa", q: 2, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "pimentón picante", q: 0.5, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera (o al menos 6 horas antes), pon las alubias en remojo en abundante agua fría. Escúrrelas y pélalas: frótalas entre las manos dentro de un bol con agua, deja que las pieles suban y retíralas, cambiando el agua varias veces. Tarda unos 15 minutos y es lo que hace el akara esponjoso y blanco.",
@@ -695,7 +696,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 2, u: "ud" },
     { n: "cebolla morada", q: 0.25, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura la cebolla, el ajo, el jengibre y las gambas secas hasta tener una pasta fina.",
@@ -826,7 +828,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 350, u: "ml" },
     { n: "aceite de girasol", q: 3, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C. Tritura el pimiento, los tomates, la mitad de la cebolla, el habanero, el ajo y el jengibre hasta tener un puré liso. Pica la otra mitad de la cebolla.",
@@ -1058,7 +1061,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la calabaza, córtala en dados de 3 cm y cuécela en agua con sal 15 minutos, hasta que esté muy tierna. A los 10 minutos añade a la misma olla las judías verdes despuntadas y partidas por la mitad, y sácalas con una espumadera a los 5 minutos, verdes y aún crujientes.",

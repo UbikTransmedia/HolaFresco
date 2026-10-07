@@ -77,7 +77,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 60, u: "g", nota: "en lugar del queso duro hondureño" },
     { n: "crema agria", q: 60, u: "g" },
     { n: "aguacate", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la cebolla y el ajo y sofríelos en una sartén con 1 cucharada de aceite a fuego medio 5 minutos, hasta que la cebolla esté blanda y transparente.",
@@ -124,7 +125,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre bien los garbanzos y sécalos con papel de cocina; si vienen de un guiso, enjuágalos antes para quitar la salsa. Ralla la cebolla y apriétala con las manos para eliminar el jugo: el agua es lo que hace que las croquetas se rompan. Pica el perejil, la menta y el eneldo.",
@@ -350,7 +352,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "huevo", q: 3, u: "ud" },
-    { n: "cebolleta", q: 1, u: "ud", nota: "solo la parte verde" }
+    { n: "cebolleta", q: 1, u: "ud", nota: "solo la parte verde" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz en un colador hasta que el agua salga casi clara. Ponlo en un cazo con 200 ml de agua, lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos. Apaga y deja reposar 10 minutos sin destapar.",
@@ -394,7 +397,8 @@ window.RECETAS_SEED.push({
     { n: "crema agria", q: 60, u: "g" },
     { n: "queso fresco", q: 60, u: "g" },
     { n: "cebolla morada", q: 0.25, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las tortillas en 6 triángulos, mézclalas en un bol con 1,5 cucharadas de aceite y sal y extiéndelas en una bandeja. Hornea 12-15 minutos, dándoles la vuelta a mitad, hasta que estén crujientes y doradas: son los totopos.",
@@ -441,7 +445,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en cuartos y cuécelas en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
@@ -488,7 +493,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Bate en un plato hondo los huevos con la leche, la mostaza, la nuez moscada, sal y pimienta. Pica el ajo y ralla el queso.",
@@ -534,7 +540,8 @@ window.RECETAS_SEED.push({
     { n: "nata para cocinar", q: 150, u: "ml" },
     { n: "limón", q: 0.25, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los dados de pan en un bol grande. Calienta la leche hasta que esté tibia, sin que hierva, viértela por encima y mezcla. Déjalo 10 minutos para que el pan la absorba; mientras, pica fina la cebolla y pica el perejil.",
@@ -579,7 +586,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "queso curado", q: 60, u: "g", nota: "restos de quesos que se estén secando, rallados" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa las pencas de las hojas de acelga. Quita las hebras de las pencas con un pelador y córtalas en trozos de 5 cm. Pela los tallos de brócoli (la capa exterior es fibrosa) y córtalos en bastones.",
@@ -713,7 +721,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de mostaza", q: 1, u: "cdta" },
     { n: "hojas de curry", q: 10, u: "hoja" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 280 ml de agua y sal: lleva a ebullición, tapa y deja 12 minutos a fuego mínimo y 5 de reposo.",
@@ -759,7 +768,8 @@ window.RECETAS_SEED.push({
     { n: "chile verde", q: 1, u: "ud" },
     { n: "cebolla morada", q: 0.25, u: "ud" },
     { n: "limón", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Rompe o corta el pan duro en trozos de 2-3 cm. Cuanto más seco esté, mejor aguantará la salsa sin deshacerse.",
@@ -806,7 +816,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud" },
-    { n: "menta fresca", q: 0.25, u: "manojo" }
+    { n: "menta fresca", q: 0.25, u: "manojo" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta el coco en una sartén seca a fuego medio 3-4 minutos, removiendo sin parar, hasta que esté dorado y huela a galleta. Pásalo a un plato.",
@@ -848,7 +859,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de jerez", q: 1, u: "cda" },
     { n: "mostaza antigua", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las hojas y los tallos de la remolacha dejando 2 cm pegados a la raíz (así no sangra al cocerla). Lava bien todo. Cuece las remolachas en agua con sal 35-40 minutos, hasta que un cuchillo entre sin resistencia; enfríalas un poco y pélalas frotando con los dedos.",
@@ -890,7 +902,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 55, u: "ml" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las zanahorias por la mitad a lo largo y el bulbo de hinojo en gajos (reserva sus barbas). Mézclalos con 1 cucharada del aceite y sal y ásalos 25 minutos, hasta que estén tiernos y caramelizados por los bordes.",
@@ -936,7 +949,8 @@ window.RECETAS_SEED.push({
     { n: "anacardos", q: 30, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta el arroz en el microondas con 2 cucharadas de agua 2-3 minutos, hasta que humee: así es seguro y vuelve a estar tierno. Aplástalo un poco con el dorso de una cuchara para que quede algo cremoso y déjalo templar 5 minutos. Mientras, pica finos el jengibre y el chile, corta el pepino en dados pequeños, ralla la zanahoria, desgrana la granada y pica el cilantro.",
@@ -978,7 +992,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con poca sal: las anchoas ya salan bastante. Remoja las pasas en agua caliente. Mientras se calienta el agua, lamina el ajo y pica el perejil.",
@@ -1068,7 +1083,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los tallos de brócoli con un pelador (la piel exterior es fibrosa) y córtalos en rodajas. Corta el puerro en rodajas, la patata en dados y lamina el ajo.",

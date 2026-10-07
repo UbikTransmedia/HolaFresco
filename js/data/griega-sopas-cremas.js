@@ -38,7 +38,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Parte los tomates por la mitad y rállalos por el lado del corte con un rallador de agujero grueso, sobre un bol, hasta que solo te quede la piel en la mano; desecha las pieles. Pica fina la cebolla y el ajo.",
@@ -351,7 +352,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Con guantes, lava las ortigas en agua fría y quédate con las hojas y las puntas tiernas; desecha los tallos duros. Escáldalas 1 minuto en agua hirviendo: pierden el picor al instante. Escúrrelas, pícalas groseramente y trocea también las espinacas.",
@@ -531,7 +533,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pollo en dados de 3 cm y mézclalo en un bol con 1 diente de ajo rallado, la ralladura del limón, el zumo de medio limón, 1 cucharadita de orégano, el pimentón, 1 cucharada de aceite, sal y pimienta. Déjalo marinar mientras preparas lo demás, al menos 10 minutos.",
@@ -622,7 +625,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en trozos de 3 cm; pela los ajos. Ponlos en una cazuela con las almendras y el caldo, lleva a ebullición y cuece 20 minutos a fuego medio, hasta que la patata se deshaga al pincharla.",
@@ -851,7 +855,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 600, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica las cebolletas separando la parte blanca de la verde, corta las zanahorias en rodajas y la patata pelada en dados de 1 cm. Separa las hojas del eneldo de los tallos y pica los tallos.",

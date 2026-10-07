@@ -392,7 +392,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "huevo", q: 2, u: "ud", opcional: true, nota: "duro, para hacerla más completa" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si la haces con huevo, cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos. Enjuaga las alubias y déjalas escurrir bien en un colador: si están secas, el aliño se adhiere en lugar de aguarse.",
@@ -480,7 +481,8 @@ window.RECETAS_SEED.push({
     { n: "kajmak", q: 60, u: "g", nota: "o queso crema batido con 10 g de mantequilla blanda" },
     { n: "pan de pita", q: 2, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien las alubias con papel de cocina: si llevan agua, los ćevapi se deshacen.",
@@ -745,7 +747,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta y el perejil, corta los pimientos en tiras finas y ralla los tomates, desechando la piel.",

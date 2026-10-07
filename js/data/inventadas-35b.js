@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "kale", q: 80, u: "g", nota: "en tiras finas" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y 2 ajos y lamina el otro ajo. En una cazuela a fuego medio dora el bacon sin aceite 3 minutos, hasta que suelte la grasa. Añade el lomo salpimentado y dóralo 4 minutos.",
@@ -117,7 +118,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 500, u: "ml", nota: "certificado sin gluten" },
     { n: "hierbabuena fresca", q: 4, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva y, mientras, pica la cebolla y los ajos. Enfría los huevos en agua fría y pélalos.",
@@ -202,7 +204,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz jazmín", q: 130, u: "g" },
-    { n: "aceite de oliva", q: 1, u: "cdta" }
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 200 ml de agua con sal, tapado a fuego mínimo, 12 minutos. Deja reposar 5 minutos tapado. Mientras, corta las judías en tramos y el calabacín en medias lunas y pica el cilantro.",
@@ -244,7 +247,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia.",
@@ -286,7 +290,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "sésamo", q: 1, u: "cdta" }
+    { n: "sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 220 ml de agua, tapado a fuego mínimo, 12 minutos. Deja reposar 5 minutos.",
@@ -332,7 +337,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las cebollas en juliana y las zanahorias en rodajas y pica el ajo. Salpimienta las carrilleras. Calienta el aceite en una cazuela a fuego fuerte y dóralas 3 minutos por cada lado, hasta que tengan costra. Sácalas.",
@@ -379,7 +385,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la cebolla y pica el ajo. Mezcla el cordero con el jengibre, la cúrcuma, el comino, sal y pimienta.",
@@ -422,7 +429,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en 190 ml de agua con sal, tapada a fuego suave, 12 minutos. Deja reposar 5 minutos. Mientras, pica la chalota y lamina los champiñones.",
@@ -466,7 +474,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 100, u: "g" },
     { n: "alubias negras cocidas", q: 200, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los pimientos, el chile y la cebolla en trozos grandes y pela los ajos. Sala la carne y dórala en una cazuela con el aceite a fuego fuerte 5 minutos. Sácala.",
@@ -509,7 +518,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C y pon los huevos a cocer 10 minutos desde que hierva el agua. A la vez, cuece las rodajas de patata en agua con sal 6 minutos; añade el brócoli y cuece 2 minutos más. Escurre bien.",
@@ -551,7 +561,8 @@ window.RECETAS_SEED.push({
     { n: "tomate triturado", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta la tapa de los pimientos, quítales las semillas y hornéalos 10 minutos boca abajo para que se ablanden.",
@@ -724,7 +735,8 @@ window.RECETAS_SEED.push({
     { n: "sirope de arce", q: 1, u: "cdta" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en 200 ml de agua con sal, tapada a fuego suave, 12 minutos. Deja reposar 5 minutos.",
@@ -766,7 +778,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1.5, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "chile fresco", q: 0.5, u: "ud" },
-    { n: "aceite de oliva", q: 1, u: "cdta" }
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon agua a hervir para los fideos. Mientras se calienta, pica el chile y mezcla el zumo de las limas con la salsa de pescado, el azúcar y el chile hasta disolver el azúcar.",
@@ -808,7 +821,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta el trigo sarraceno en un cazo seco 2 minutos, removiendo, hasta que huela a fruto seco.",
@@ -849,7 +863,8 @@ window.RECETAS_SEED.push({
     { n: "tomate seco en aceite", q: 40, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a calentar abundante agua con sal para la pasta. Mientras llega a ebullición, tritura la rúcula, la albahaca, las almendras, el parmesano, el ajo, el zumo de limón, 2 cucharadas de aceite y 2 cucharadas de agua hasta tener un pesto espeso. Sala.",
@@ -890,7 +905,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 2, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si no tienes arroz del día anterior, cuécelo en agua con sal 12 minutos, escúrrelo y extiéndelo en una bandeja en la nevera al menos 1 hora para que se seque.",

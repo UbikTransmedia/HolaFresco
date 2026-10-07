@@ -75,7 +75,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "caldo de verduras", q: 800, u: "ml", nota: "sin gluten" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría (12 horas). Al día siguiente, pela la zanahoria y córtala en rodajas. Escurre las alubias del remojo y ponlas en la olla lenta con la zanahoria, el laurel y el caldo caliente: deben quedar cubiertas por 2 dedos de líquido.",
@@ -121,7 +122,8 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 100, u: "g" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pollo en dados de 3 cm y sálalo. Pica fina la cebolla y el chile y ralla el ajo y el jengibre.",
@@ -168,7 +170,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 200, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y la zanahoria en rodajas. Salpimienta la carne y dórala en la sartén con el aceite a fuego fuerte, en una sola capa, 5 minutos hasta que tenga costra por todos los lados. Pásala a la olla lenta.",
@@ -211,7 +214,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 700, u: "ml", nota: "sin gluten" },
     { n: "semillas de calabaza", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas en un colador hasta que el agua salga casi clara. Trocea los pimientos sin semillas, la cebolla y los ajos.",
@@ -256,7 +260,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 140, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lamina los ajos y mézclalos en un bol con el orégano, el vinagre, el aceite, las ciruelas, las aceitunas, las alcaparras con un poco de su jugo, sal y pimienta. Añade el pollo y masajéalo para que se impregne.",
@@ -393,7 +398,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 0.5, u: "ud" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "En la olla lenta, deshaz la pasta de curry en la leche de coco con la salsa de pescado y el azúcar, hasta que no queden grumos.",
@@ -529,7 +535,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y ralla el ajo y el jengibre. Calienta el aceite en la sartén a fuego medio y echa las semillas de mostaza; cuando empiecen a saltar (30 segundos), añade la cebolla y rehógala 6 minutos hasta que esté dorada. Mientras, ralla los tomates.",
@@ -573,7 +580,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la berenjena, el calabacín, el pimiento y la patata pelada en dados de unos 2 cm. Pica la cebolla y lamina los ajos.",
@@ -619,7 +627,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Seca la carne con papel, salpimiéntala y dórala en la sartén con el aceite muy caliente, en dos tandas, hasta que tenga costra marrón. Pásala a la olla lenta.",
@@ -751,7 +760,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "arroz jazmín", q: 130, u: "g" }
+    { n: "arroz jazmín", q: 130, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre y los ajos y mézclalos en la olla lenta con el tamari, la miel y el vinagre de arroz.",
@@ -794,7 +804,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "semillas de calabaza", q: 15, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el boniato y las zanahorias y córtalos en trozos de 3 cm. Pica la cebolla y pela y lamina el jengibre.",
@@ -842,7 +853,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 60, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, la zanahoria, el apio y el ajo. Salpimienta las costillas y dóralas en la sartén con el aceite a fuego fuerte, 3 minutos por cara, hasta que estén muy tostadas. Pásalas a la olla lenta con el hueso hacia arriba.",
@@ -930,7 +942,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "arroz largo", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, pela el boniato y córtalo en dados de 3 cm y ralla el ajo y el jengibre. En la olla lenta, bate la crema de cacahuete con el caldo caliente hasta que se disuelva. Añade el tomate, el ajo, el jengibre y el chile entero pinchado.",
@@ -975,7 +988,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "parmesano", q: 25, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la zanahoria, la patata, el calabacín y el puerro en dados pequeños y las judías verdes en trozos de 2 cm. Pela y trocea el tomate.",

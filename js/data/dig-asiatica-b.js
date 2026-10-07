@@ -492,7 +492,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sésamo", q: 2, u: "cdta" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua. Hidrata la wakame en agua fría 5 minutos y escúrrela. Cuece los fideos en el agua hirviendo el tiempo del paquete (unos 3-4 minutos), pásalos por agua fría y escúrrelos bien.",
@@ -537,7 +538,8 @@ window.RECETAS_SEED.push({
     { n: "alga nori", q: 1, u: "hoja" },
     { n: "copos de bonito seco", q: 5, u: "g", opcional: true },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y cuécelas enteras, con piel, en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. En los últimos 5 minutos, añade las judías verdes en trozos de 4 cm.",

@@ -38,7 +38,8 @@ window.RECETAS_SEED.push({
     { n: "hoja de plátano", q: 2, u: "ud", opcional: true, nota: "o papel de horno" },
     { n: "arroz largo", q: 140, u: "g" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el recado: mezcla en un bol el achiote, el zumo de la naranja, el de 1 lima, el comino, el orégano, el aceite de ajo y una pizca de sal hasta tener una pasta fluida de color rojo anaranjado. La mezcla de naranja y lima imita a la naranja agria yucateca.",
@@ -81,7 +82,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 120, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal unos 20 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y déjalas templar.",
@@ -125,7 +127,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz largo", q: 100, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la yuca en trozos de 4-5 cm y cuécela en agua con sal 20-25 minutos, hasta que se abra y esté muy tierna. Retira la fibra dura del centro y reserva un vaso del agua de cocción.",
@@ -168,7 +171,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 120, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Sala los lomos de merluza, riégalos con el zumo de la lima y déjalos 10 minutos mientras preparas lo demás.",
@@ -212,7 +216,8 @@ window.RECETAS_SEED.push({
     { n: "achiote molido", q: 0.5, u: "cdta" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "hoja de plátano", q: 2, u: "ud", opcional: true, nota: "o papel de horno" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la yuca, la patata y el plátano macho pelado en trozos de 4-5 cm. Ponlos en una cazuela ancha con 1 litro de agua, sal y los tallos del cilantro, y cuece tapado 15 minutos desde que hierva.",
@@ -252,7 +257,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 3, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 20 minutos, hasta que estén tiernas. Escúrrelas y pélalas en caliente.",
@@ -293,7 +299,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 15-18 minutos, hasta que estén tiernas.",
@@ -334,7 +341,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo hasta que deje de hacer espuma. Ponla con 240 ml de agua y sal, y cuando hierva tapa y cuece 13 minutos a fuego suave; apaga y deja reposar 5 minutos.",
@@ -420,7 +428,8 @@ window.RECETAS_SEED.push({
     { n: "tortillas de maíz", q: 4, u: "ud" },
     { n: "rábano", q: 60, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Marina los filetes de cerdo con el zumo de naranja, el de 1 lima, el orégano, sal y pimienta. Déjalos 10 minutos (como mucho 30).",
@@ -467,7 +476,8 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 150, u: "g" },
     { n: "judías verdes", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en una cazuela con 600 ml de agua, sal y los tallos del cilantro. Cuando hierva, baja el fuego, espuma y cuece 20 minutos. Saca el pollo y reserva el caldo aparte.",
@@ -511,7 +521,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de palma rojo", q: 2, u: "cdta", nota: "dendê" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz largo", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre. Adoba el pollo con el zumo de la lima, el jengibre y sal, y déjalo 10 minutos.",
@@ -555,7 +566,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 2, u: "hoja" },
     { n: "patata", q: 300, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos, enfríalos en agua y pélalos. Corta la mitad de la zanahoria en bastones largos y el pimiento rojo en tiras.",
@@ -599,7 +611,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.25, u: "cdta" },
     { n: "parmesano", q: 35, u: "g", nota: "rallado" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la ternera en una cazuela con agua que la cubra, el laurel y sal. Cuando hierva, espuma, baja el fuego, tapa y cuece 1 hora y 15 minutos, hasta que se deshaga al pincharla. Reserva el caldo.",
@@ -644,7 +657,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y la calabaza y córtalas en dados de 2 cm; pica la cebolleta. En una cazuela ancha, calienta casi todo el aceite de ajo (guarda unas gotas para los huevos) a fuego medio y dora la carne 5 minutos, deshaciéndola con la cuchara, hasta que pierda el color rosado y se vea suelta.",
@@ -690,7 +704,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cubre las nueces con agua hirviendo y déjalas 10 minutos. Frótalas entre los dedos para quitar la piel que se suelte (no hace falta toda): así la nogada queda más blanca y menos amarga, como con la nuez fresca de Puebla.",
@@ -736,7 +751,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Usa una cazuela ancha y baja con tapa o una sartén honda, lo más parecido al disco. Corta los pimientos en tiras anchas, pica la cebolleta y ralla el tomate. Seca el cordero y sálalo. Calienta el aceite de ajo a fuego fuerte y dora la carne en una sola capa, sin moverla al principio, 5-6 minutos en total, hasta que esté tostada por todas las caras.",
@@ -914,7 +930,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata el wakame en un bol con agua fría 10 minutos: crecerá unas diez veces.",
@@ -959,7 +976,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 200, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa frotándola bajo el grifo hasta que deje de hacer espuma y cuécela con 150 ml de agua y sal, tapada y a fuego suave, 13 minutos. Deja que repose y se temple. Mientras, ralla la zanahoria, corta el pimiento en dados pequeños y pica la cebolleta y el cilantro.",
@@ -1049,7 +1067,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "plátano", q: 1, u: "ud", nota: "firme, con la punta aún verdosa" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el tempeh entero al vapor (en un cestillo sobre agua hirviendo) 10 minutos: le quita el amargor y lo vuelve más tierno. Mientras, pica la cebolleta y el perejil, corta el pimiento verde en dados pequeños y ralla el tomate. Corta el tempeh en dados de 1 cm.",
@@ -1095,7 +1114,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 15, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 15 minutos. Mientras, precalienta el horno a 220 °C y corta las patatas en gajos. Corta el tofu en dados de 3 cm.",

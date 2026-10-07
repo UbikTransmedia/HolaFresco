@@ -32,15 +32,16 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño limpio y presiónalo con una tabla encima 5 minutos para que suelte agua. Córtalo en dados de 2 cm, sálalos y rebózalos en la maicena sacudiendo el exceso.",
-    "Mientras, prepara la salsa: mezcla la crema de cacahuete con la salsa de soja, el sirope, el zumo de media lima y 3-4 cdas de agua caliente hasta que quede fluida como una nata ligera. Añade el chile en rodajas finas.",
-    "Calienta 1 cda de aceite en una sartén grande a fuego medio-alto. Dora el tofu 8 minutos dándole la vuelta cada 2 minutos hasta que todas las caras estén doradas y crujientes; entre vuelta y vuelta, lamina el ajo, ralla el jengibre y corta el pak choi a lo largo en cuartos. Reserva el tofu en un plato.",
+    "Mientras, prepara la salsa: mezcla la crema de cacahuete con la salsa de soja, el sirope, el zumo de media lima y 3-4 cdas de agua caliente hasta que quede fluida como una nata ligera. Corta el chile en rodajas finas y añádelo.",
+    "Calienta 1 cda de aceite en una sartén grande a fuego medio-alto. Dora el tofu 8 minutos dándole la vuelta cada 2 minutos hasta que todas las caras estén doradas y crujientes; entre vuelta y vuelta, lamina el ajo, ralla el jengibre, corta el pak choi a lo largo en cuartos, la cebolleta en aros y la otra media lima en gajos. Reserva el tofu en un plato.",
     "En la misma sartén, con la ½ cda de aceite restante, saltea el ajo y el jengibre 30 segundos. Añade el pak choi y saltéalo 3 minutos: las hojas tienen que ablandarse y los tallos quedar crujientes. Salpimienta.",
     "Vuelve a poner el tofu en la sartén, apaga el fuego y mezcla con suavidad para que se temple junto a la verdura.",
-    "Sirve el pak choi con el tofu encima, riega con la salsa de cacahuete y termina con la cebolleta en aros, el sésamo y la otra media lima en gajos."
+    "Sirve el pak choi con el tofu encima, riega con la salsa de cacahuete y termina con la cebolleta en aros, los gajos de lima y el sésamo."
   ],
   nutricion: { kcal: 465, prot: 27, hc: 26, grasa: 28 },
   etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "picante"],
@@ -75,7 +76,8 @@ window.RECETAS_SEED.push({
     { n: "granada", q: 0.5, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Quita las hojas exteriores de la coliflor y recorta el tronco para que se sostenga de pie, sin separar los ramilletes.",
@@ -123,16 +125,17 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela el boniato, córtalo en dados de 2 cm y cuécelo al vapor o en agua hirviendo 12 minutos hasta que esté muy tierno. Escúrrelo y déjalo secar en el escurridor.",
-    "Mientras, pocha la cebolla picada fina con el ajo en 1 cda de aceite a fuego medio 6-7 minutos hasta que esté transparente. Añade el comino y el pimentón y cocina 30 segundos más.",
-    "Escurre bien las alubias y sécalas. Aplástalas con un tenedor dejando algunos trozos enteros. Mezcla con el boniato chafado, el sofrito, el pan rallado, el cilantro picado, sal y pimienta hasta obtener una masa que se pueda moldear.",
-    "Forma 2 hamburguesas gruesas (unos 2,5 cm) con las manos húmedas y déjalas 15 minutos en la nevera para que se asienten. Mientras, mezcla la mayonesa vegetal con el chipotle picado y corta el tomate en rodajas y la cebolla morada en aros finos.",
+    "Pela el boniato, córtalo en dados de 2 cm y cuécelo al vapor o en agua hirviendo 12 minutos hasta que esté muy tierno; mientras, pica fina la cebolla y pica el ajo y el cilantro. Escurre el boniato y déjalo secar en el escurridor.",
+    "Pocha la cebolla con el ajo en 1 cda de aceite a fuego medio 6-7 minutos hasta que esté transparente. Añade el comino y el pimentón y cocina 30 segundos más.",
+    "Escurre bien las alubias y sécalas. Aplástalas con un tenedor dejando algunos trozos enteros, chafa el boniato y mézclalo todo con el sofrito, el pan rallado, el cilantro, sal y pimienta hasta obtener una masa que se pueda moldear.",
+    "Forma 2 hamburguesas gruesas (unos 2,5 cm) con las manos húmedas y déjalas 15 minutos en la nevera para que se asienten. Mientras, pica el chipotle y mézclalo con la mayonesa vegetal, y corta el tomate en rodajas, la cebolla morada en aros finos y el aguacate en láminas.",
     "Calienta la cucharada de aceite restante en una sartén antiadherente a fuego medio. Cocina las hamburguesas 4-5 minutos por cada lado sin moverlas hasta que estén doradas y con una costra firme.",
     "Tuesta los panes en la misma sartén 1 minuto por el lado del corte.",
-    "Monta: base con mayonesa de chipotle, lechuga, hamburguesa, tomate, aguacate en láminas y cebolla morada. Tapa y sirve enseguida."
+    "Monta: base con mayonesa de chipotle, lechuga, hamburguesa, tomate, aguacate y cebolla morada. Tapa y sirve enseguida."
   ],
   nutricion: { kcal: 725, prot: 22, hc: 92, grasa: 30 },
   etiquetas: ["contundente", "para niños", "económica", "batch cooking"],
@@ -170,15 +173,16 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo en 200 ml de agua con sal, tapado, 12 minutos a fuego mínimo. Apaga y déjalo reposar tapado.",
     "Pela la calabaza y córtala en dados de 2 cm. Pica la cebolla, el ajo y ralla el jengibre.",
     "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla 5 minutos. Añade el ajo, el jengibre, el curry, la cúrcuma y una pizca de sal y tuesta 1 minuto removiendo hasta que huela intenso.",
-    "Incorpora la calabaza y el tomate triturado, remueve 2 minutos y añade la leche de coco y 100 ml de agua. Lleva a ebullición, baja el fuego y cuece tapado 12 minutos hasta que la calabaza esté tierna pero entera.",
+    "Incorpora la calabaza y el tomate triturado, remueve 2 minutos y añade la leche de coco y 100 ml de agua. Lleva a ebullición, baja el fuego y cuece tapado 12 minutos hasta que la calabaza esté tierna pero entera. Mientras, pica el cilantro.",
     "Añade los garbanzos escurridos y el garam masala y cocina 5 minutos destapado para que la salsa espese. Agrega las espinacas por puñados y remueve 1-2 minutos hasta que se marchiten.",
-    "Rectifica de sal, exprime media lima dentro y sirve el curry sobre el arroz con el cilantro picado y gajos de la otra media lima."
+    "Rectifica de sal, exprime media lima dentro y sirve el curry sobre el arroz, con el cilantro picado y gajos de la otra media lima."
   ],
   nutricion: { kcal: 630, prot: 20, hc: 88, grasa: 22 },
   etiquetas: ["de cuchara", "económica", "batch cooking", "invierno", "una sola cazuela"],
@@ -217,13 +221,14 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el tempeh en lonchas de 1 cm y cuécelas 8 minutos en agua hirviendo con una pizca de sal: así pierde el amargor y absorbe mejor la marinada. Escúrrelo y sécalo.",
-    "Mezcla el tamarindo, la salsa de soja, el azúcar moreno, el ajo y el jengibre rallados y el zumo de media lima. Baña el tempeh en esta marinada y déjalo tapado en la nevera al menos 1 hora (hasta 12).",
+    "Corta el tempeh en lonchas de 1 cm y cuécelas 8 minutos en agua hirviendo con una pizca de sal: así pierde el amargor y absorbe mejor la marinada. Mientras, ralla el ajo y el jengibre. Escurre el tempeh y sécalo.",
+    "Mezcla el tamarindo, la salsa de soja, el azúcar moreno, el ajo, el jengibre y el zumo de media lima. Baña el tempeh en esta marinada y déjalo tapado en la nevera al menos 1 hora (hasta 12).",
     "Cuando falten 25 minutos, lava el arroz y cuécelo en 220 ml de agua con sal, tapado, 12 minutos a fuego mínimo; déjalo reposar 10 minutos sin destapar.",
-    "Corta el pepino en rodajas finas, mézclalo con el vinagre de arroz, el azúcar y una pizca de sal y déjalo encurtir 15 minutos. Tuesta los cacahuetes en una sartén seca 3 minutos y pícalos groseramente.",
+    "Corta el pepino en rodajas finas, mézclalo con el vinagre de arroz, el azúcar y una pizca de sal y déjalo encurtir 15 minutos. Mientras, tuesta los cacahuetes en una sartén seca 3 minutos y pícalos groseramente, corta la cebolleta y el chile en aros y deshoja el cilantro.",
     "Escurre el tempeh reservando la marinada. Calienta el aceite en la sartén a fuego medio-alto y dora las lonchas 2-3 minutos por lado hasta que estén caramelizadas en los bordes.",
     "Vierte la marinada reservada en la sartén y cocina 1-2 minutos dándole la vuelta al tempeh hasta que la salsa espese y lo envuelva como un glaseado brillante.",
     "Sirve el arroz con el tempeh glaseado, el pepino escurrido, los cacahuetes, la cebolleta y el chile en aros, el cilantro y la otra media lima."
@@ -263,11 +268,12 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el tofu, envuélvelo en un paño y apriétalo 2 minutos para quitarle agua. Desmenúzalo con las manos en trozos irregulares, unos pequeños y otros del tamaño de una nuez: así imita la textura de un revuelto.",
-    "Lamina los champiñones, pica la cebolleta (separa lo blanco de lo verde) y el ajo, y parte los tomates cherry por la mitad.",
+    "Lamina los champiñones, pica la cebolleta (separa lo blanco de lo verde) y el ajo, parte los tomates cherry por la mitad y pica el cebollino.",
     "Calienta el aceite en una sartén grande a fuego fuerte y saltea los champiñones 5 minutos sin remover demasiado, hasta que suelten el agua y se doren. Añade lo blanco de la cebolleta y el ajo y saltea 1 minuto más.",
     "Incorpora el tofu, la cúrcuma, el pimentón y la levadura nutricional. Saltea 4-5 minutos a fuego medio-alto hasta que el tofu se seque, coja color amarillo uniforme y se tueste un poco en los bordes.",
     "Añade las espinacas y los cherry y cocina 2 minutos justo hasta que las hojas se marchiten. Apaga el fuego, espolvorea la sal negra y la pimienta y remueve.",
@@ -358,7 +364,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Haz la masa: mezcla la harina con una pizca de sal, vierte el agua muy caliente y remueve con palillos o una cuchara hasta formar grumos. Amasa 8 minutos hasta obtener una bola lisa y elástica. Tápala con un paño húmedo y déjala reposar 30 minutos.",
-    "Mientras reposa, pica la col muy fina, mézclala con ½ cdta de sal y déjala 10 minutos; después apriétala con las manos para escurrir toda el agua. Pica los shiitake y la cebolleta, ralla el jengibre y el ajo y desmenuza el tofu bien escurrido.",
+    "Mientras reposa, pica la col muy fina, mézclala con ½ cdta de sal y déjala 10 minutos; después apriétala con las manos para escurrir toda el agua. Pica los shiitake y la cebolleta, ralla el jengibre y el ajo, desmenuza el tofu bien escurrido y corta el chile en aros.",
     "Mezcla todo el relleno con 2 cda de salsa de soja, 1 cdta de aceite de sésamo, la maicena y pimienta. Debe quedar jugoso pero no mojado.",
     "Divide la masa en 24 bolitas iguales. Sobre la encimera enharinada, estira cada una con un rodillo pequeño en un disco de 8-9 cm, dejando el centro un poco más grueso que los bordes.",
     "Pon una cucharadita colmada de relleno en el centro de cada disco, moja el borde con agua, dobla en media luna y ciérralo haciendo 5-6 pliegues en un lado y pegándolos al otro. Déjalas sobre papel de horno enharinado.",
@@ -406,9 +412,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza a lo largo por la mitad, retira las semillas con una cuchara y haz cortes en rejilla sobre la carne sin llegar a la piel. Píntala con 1 cda de aceite, sal, pimienta y las hojas de 2 ramas de tomillo. Ásala boca arriba 50-60 minutos hasta que un cuchillo entre sin resistencia.",
-    "Mientras, enjuaga la quinoa bajo el grifo y cuécela en el caldo 12 minutos a fuego suave y tapada. Apaga, déjala reposar 5 minutos y suéltala con un tenedor.",
-    "Tuesta las nueces en una sartén seca 3 minutos y pícalas gruesas. En la misma sartén, pocha la cebolla y el ajo picados con la otra cucharada de aceite a fuego medio 8 minutos hasta que estén blandos y dorados.",
-    "Añade el kale sin tallos y troceado y saltéalo 3 minutos hasta que se ablande. Incorpora las lentejas escurridas, la quinoa, los arándanos y las nueces. Salpimienta y ralla por encima la piel del medio limón.",
+    "Mientras, enjuaga la quinoa bajo el grifo y cuécela en el caldo 12 minutos a fuego suave y tapada; entretanto, pica la cebolla y el ajo y quita los tallos al kale y trocéalo. Apaga la quinoa, déjala reposar 5 minutos y suéltala con un tenedor.",
+    "Tuesta las nueces en una sartén seca 3 minutos y pícalas gruesas. En la misma sartén, pocha la cebolla y el ajo con la otra cucharada de aceite a fuego medio 8 minutos hasta que estén blandos y dorados.",
+    "Añade el kale y saltéalo 3 minutos hasta que se ablande. Incorpora las lentejas escurridas, la quinoa, los arándanos y las nueces. Salpimienta y ralla por encima la piel del medio limón.",
     "Mezcla en un vaso el sirope, la mostaza y el zumo del medio limón. Añade la mitad de esta salsa al relleno y remueve.",
     "Saca la calabaza, vacía con una cuchara parte de la carne dejando una pared de 1,5 cm. Trocea la pulpa retirada, mézclala con el relleno y colma generosamente las dos mitades.",
     "Vuelve a hornear 15 minutos hasta que la superficie esté tostada. Sirve cada mitad con el resto de la salsa de arce y mostaza por encima y el tomillo restante."
@@ -449,15 +455,16 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Mientras, separa el brócoli en ramilletes pequeños (pela y corta el tronco en rodajas, también se come). Escáldalo 2 minutos en el agua hirviendo, escúrrelo y pásalo por agua fría para que mantenga el verde.",
-    "Mezcla en un vaso el hoisin, la salsa de soja, el vinagre de arroz, la maicena y 3 cda de agua. Corta el pimiento en tiras, la cebolleta en trozos de 3 cm (separa lo verde), lamina el ajo y ralla el jengibre.",
+    "Mezcla en un vaso el hoisin, la salsa de soja, el vinagre de arroz, la maicena y 3 cda de agua. Corta el pimiento en tiras, la cebolleta en trozos de 3 cm (separa lo verde) y el chile en aros, lamina el ajo y ralla el jengibre.",
     "Calienta el wok a fuego máximo con el aceite de oliva. Tuesta los anacardos 1 minuto removiendo y retíralos. Saltea la heura 3-4 minutos hasta que esté dorada por todas partes y resérvala con los anacardos.",
     "En el mismo wok, saltea el ajo, el jengibre y lo blanco de la cebolleta 30 segundos. Añade el pimiento y saltéalo 2 minutos; incorpora el brócoli y dale 2 minutos más sin dejar de mover.",
     "Devuelve la heura y los anacardos al wok, remueve la salsa (la maicena se habrá posado) y viértela. Saltea 1-2 minutos hasta que espese y lo envuelva todo con brillo.",
-    "Apaga, añade el aceite de sésamo y sirve con lo verde de la cebolleta, el sésamo y el chile en aros."
+    "Apaga, añade el aceite de sésamo y sirve con lo verde de la cebolleta, el chile en aros y el sésamo."
   ],
   nutricion: { kcal: 468, prot: 30, hc: 33, grasa: 24 },
   etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "wok", "superalimentos", "bajo en colesterol"],
@@ -497,7 +504,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre bien las lentejas y sécalas con papel. Tritura la mitad con la batidora hasta una pasta gruesa y deja la otra mitad entera: la mezcla de texturas es lo que da cuerpo a la albóndiga.",
@@ -545,10 +553,11 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Prepara la marinada: mezcla en un bol el achiote desmenuzado, el chipotle picado, el zumo de naranja, el vinagre, el ajo rallado, ½ cdta de comino, el orégano y una pizca de sal hasta tener una pasta roja fluida.",
+    "Prepara la marinada: pica el chipotle, ralla el ajo y mézclalos en un bol con el achiote desmenuzado, el zumo de naranja, el vinagre, ½ cdta de comino, el orégano y una pizca de sal hasta tener una pasta roja fluida.",
     "Trocea las setas en tiras gruesas con las manos (así quedan irregulares, como la carne al pastor). Mézclalas con la marinada y déjalas 15 minutos.",
     "Mientras se marinan, calienta las alubias escurridas en un cazo con 3 cda de agua, ½ cdta de comino y sal. Cháfalas a medias con un tenedor para hacer unos frijoles rústicos y mantenlos calientes. Corta la cebolla morada en aros finos y pica el cilantro.",
     "Calienta 1 cda de aceite en una sartén grande a fuego fuerte. Extiende la mitad de las setas en una sola capa y no las muevas 3 minutos; después saltéalas 4-5 minutos más hasta que estén doradas y la marinada haya caramelizado. Repite con la otra mitad.",
@@ -594,16 +603,17 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 160 ml de agua con sal, tapado y a fuego mínimo, 12 minutos. Apaga y déjalo reposar tapado.",
     "Presiona el tofu entre dos platos 5 minutos, córtalo en dados de 2,5 cm, sálalos y rebózalos en 2 cda de maicena.",
-    "Mezcla la salsa en un vaso: vinagre de arroz, soja, azúcar moreno, tomate concentrado, zumo de naranja y 1 cda de maicena. Corta la cebolla en gajos y los pimientos en trozos de 2,5 cm y pica el ajo y el jengibre.",
+    "Mezcla la salsa en un vaso: vinagre de arroz, soja, azúcar moreno, tomate concentrado, zumo de naranja y 1 cda de maicena. Corta la cebolla en gajos y los pimientos en trozos de 2,5 cm, pica el ajo y el jengibre y corta la cebolleta en aros.",
     "Calienta 1 cda de aceite en el wok a fuego medio-alto y dora el tofu 8 minutos dándole la vuelta hasta que todas las caras crujan. Resérvalo.",
     "Añade la ½ cda de aceite restante y saltea la cebolla y los pimientos a fuego fuerte 4 minutos: tienen que coger color pero seguir crujientes. Añade el ajo y el jengibre y, 30 segundos después, la piña, 1 minuto más.",
     "Remueve la salsa y viértela en el wok. Deja que hierva 1-2 minutos removiendo hasta que espese y brille. Devuelve el tofu y mezcla para que se envuelva.",
-    "Sirve sobre el arroz con la cebolleta en aros y el sésamo."
+    "Sirve sobre el arroz, con la cebolleta en aros y el sésamo."
   ],
   nutricion: { kcal: 630, prot: 25, hc: 83, grasa: 22 },
   etiquetas: ["rápida", "para niños", "económica", "agridulce", "wok", "poco especiada", "bajo en colesterol"],
@@ -643,12 +653,13 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava las patatas, sécalas, pínchalas varias veces con un tenedor y frótalas con ½ cda de aceite y sal. Ásalas directamente sobre la rejilla 60-70 minutos hasta que la piel cruja y un cuchillo entre sin resistencia.",
-    "Mientras, prepara el chili: pica la cebolla, el pimiento y el ajo y póchalos en 1,5 cda de aceite a fuego medio 8 minutos. Añade el comino, el pimentón y el orégano y remueve 30 segundos.",
-    "Incorpora el tomate, el chipotle picado, las alubias escurridas, el maíz, sal y 100 ml de agua. Cuece destapado a fuego suave 25 minutos hasta que espese; chafa algunas alubias contra la pared de la cazuela para ligar.",
+    "Mientras, prepara el chili: pica la cebolla, el pimiento, el ajo y el chipotle y pocha los tres primeros en 1,5 cda de aceite a fuego medio 8 minutos. Añade el comino, el pimentón y el orégano y remueve 30 segundos.",
+    "Incorpora el tomate, el chipotle, las alubias escurridas, el maíz, sal y 100 ml de agua. Cuece destapado a fuego suave 25 minutos hasta que espese; chafa algunas alubias contra la pared de la cazuela para ligar. Mientras cuece, pica el cebollino.",
     "Saca las patatas, córtalas a lo largo por la mitad sin llegar al fondo y aprieta los extremos para abrirlas. Retira con una cuchara un poco de la pulpa del centro y mézclala con el chili.",
     "Rellena las patatas con el chili bien colmado, cubre con el queso vegetal y gratina 8-10 minutos hasta que funda y dore.",
     "Mientras se gratinan, mezcla el yogur vegetal con el zumo de media lima y una pizca de sal.",
@@ -701,7 +712,7 @@ window.RECETAS_SEED.push({
     "Prepara el rebozado justo antes de usarlo: mezcla la harina de garbanzo, la maicena y una pizca de sal y vierte el agua con gas muy fría removiendo con palillos solo hasta humedecer; tiene que quedar con grumos.",
     "Pasa cada pieza por la masa, deja escurrir el exceso y rebózala en panko. Colócalas en las bandejas sin que se toquen y riégalas con el resto del aceite de oliva en hilo.",
     "Hornea 20-25 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes. Las judías y el calabacín estarán antes: sácalos a los 15 minutos si ya han tomado color.",
-    "Mientras, haz el ponzu: mezcla la soja, el zumo de naranja, el zumo de la lima, 1 cda de vinagre de arroz y el jengibre rallado. Para la ensalada, corta la col lombarda en juliana muy fina, masajéala 1 minuto con una pizca de sal y la otra cucharada de vinagre y alíñala con el aceite de sésamo y el sésamo tostado.",
+    "Mientras, haz el ponzu: ralla el jengibre y mézclalo con la soja, el zumo de naranja, el zumo de la lima y 1 cda de vinagre de arroz. Para la ensalada, corta la col lombarda en juliana muy fina, masajéala 1 minuto con una pizca de sal y la otra cucharada de vinagre y alíñala con el aceite de sésamo y el sésamo tostado.",
     "Sirve la tempura recién salida del horno con el ponzu para mojar y la ensalada de col al lado."
   ],
   nutricion: { kcal: 573, prot: 28, hc: 68, grasa: 21 },
@@ -741,15 +752,16 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal. Mientras, saca tiras de zanahoria con el pelador y corta la col lombarda en juliana muy fina. Mézclalas con una pizca de sal y el vinagre de arroz y masajéalas 1 minuto: se ablandan y cogen brillo.",
+    "Pon a hervir agua con sal. Mientras, corta la col lombarda en juliana muy fina y saca tiras de zanahoria con el pelador. Mézclalas con una pizca de sal y el vinagre de arroz y masajéalas 1 minuto: se ablandan y cogen brillo.",
     "Cuece el edamame 4 minutos en el agua hirviendo, escúrrelo y pásalo por agua fría.",
-    "Escurre los garbanzos y sécalos muy bien con un paño. Calienta el aceite en una sartén a fuego medio-alto y tuéstalos 8-10 minutos moviendo la sartén de vez en cuando hasta que crujan y se abran un poco. En el último minuto añade el curry y sal.",
-    "Prepara el aliño: mezcla el miso, el jengibre rallado, el tahini, el sirope, el zumo de la lima y 2-3 cda de agua hasta que quede cremoso y se pueda verter.",
-    "Reparte en dos bowls la col y la zanahoria, el edamame, el pepino en medias lunas, el aguacate en láminas y los garbanzos recién hechos encima.",
-    "Riega con el aliño y termina con el sésamo y el cilantro picado."
+    "Escurre los garbanzos y sécalos muy bien con un paño. Calienta el aceite en una sartén a fuego medio-alto y tuéstalos 8-10 minutos moviendo la sartén de vez en cuando hasta que crujan y se abran un poco; entretanto, ralla el jengibre, corta el pepino en medias lunas y el aguacate en láminas y pica el cilantro. En el último minuto añade el curry y sal.",
+    "Prepara el aliño: mezcla el miso, el jengibre, el tahini, el sirope, el zumo de la lima y 2-3 cda de agua hasta que quede cremoso y se pueda verter.",
+    "Reparte en dos bowls la col y la zanahoria, el edamame, el pepino, el aguacate y los garbanzos recién hechos encima.",
+    "Riega con el aliño y termina con el cilantro picado y el sésamo."
   ],
   nutricion: { kcal: 444, prot: 23, hc: 43, grasa: 20 },
   etiquetas: ["rápida", "ligera", "ideal para llevar", "económica", "sin horno", "verano", "superalimentos", "bajo en colesterol"],
@@ -785,12 +797,13 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3.5, u: "cda", nota: "1,5 para las patatas y 2 para el ajillo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas y córtalas en rodajas de 3 mm, la cebolla en juliana y el pimiento verde en tiras. Mézclalo todo en una fuente con 1,5 cda de aceite, sal y el laurel, extiéndelo en una capa y vierte 50 ml de vino y 50 ml de agua.",
     "Hornea las patatas 30-35 minutos hasta que estén tiernas y los bordes dorados. A mitad de cocción, remuévelas con cuidado.",
-    "Mientras, seca la heura con papel (si son piezas grandes, trocéalas en bocados). Lamina los ajos.",
+    "Mientras, seca la heura con papel (si son piezas grandes, trocéalas en bocados). Lamina los ajos, corta los piquillos en tiras y pica el perejil.",
     "Pon 2 cda de aceite en una sartén amplia con los ajos y las guindillas a fuego medio-bajo y déjalos 3-4 minutos hasta que el ajo esté dorado claro, sin que se queme. Sácalos a un plato con una espumadera.",
     "Sube el fuego y dora la heura en ese aceite 4-5 minutos hasta que coja color por todas partes.",
     "Devuelve los ajos y las guindillas, aparta la sartén del fuego 10 segundos y añade el pimentón; vuelve al fuego, vierte los 30 ml de vino y deja reducir 1 minuto. Incorpora los piquillos en tiras y calienta 2 minutos.",
@@ -835,16 +848,17 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Presiona el tofu 10 minutos entre dos platos con peso y córtalo en dados de 3 cm. Mezcla 100 g de yogur vegetal con 1 cdta de garam masala, la mitad de la cúrcuma, el comino y el cilantro molido, el pimentón, la cayena, la mitad del jengibre y del ajo rallados, el zumo del medio limón y sal. Envuelve el tofu en esta marinada y déjalo en la nevera 30 minutos (o toda la noche). Mientras, pon los anacardos a remojo en agua muy caliente 20 minutos y, cuando falten 15 minutos de marinado, precalienta el horno a 230 °C.",
+    "Presiona el tofu 10 minutos entre dos platos con peso; mientras, ralla el jengibre y el ajo. Corta el tofu en dados de 3 cm. Mezcla 100 g de yogur vegetal con 1 cdta de garam masala, la mitad de la cúrcuma, el comino y el cilantro molido, el pimentón, la cayena, la mitad del jengibre y del ajo, el zumo del medio limón y sal. Envuelve el tofu en esta marinada y déjalo en la nevera 30 minutos (o toda la noche). Mientras, pon los anacardos a remojo en agua muy caliente 20 minutos y, cuando falten 15 minutos de marinado, precalienta el horno a 230 °C.",
     "Extiende el tofu marinado sobre papel de horno sin que se toquen los dados y hornéalo 15-18 minutos hasta que los bordes estén chamuscados.",
     "Mientras se hornea, lava el arroz hasta que el agua salga clara y cuécelo en 200 ml de agua con sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado. Pica la cebolla.",
-    "Para la salsa, pocha la cebolla en el aceite 8 minutos a fuego medio hasta que esté dorada. Añade el resto del jengibre y el ajo rallados y, 1 minuto después, las especias restantes; tuesta 30 segundos. Vierte el tomate, el azúcar y sal y cuece 15 minutos a fuego suave.",
+    "Para la salsa, pocha la cebolla en el aceite 8 minutos a fuego medio hasta que esté dorada. Añade el resto del jengibre y el ajo y, 1 minuto después, las especias restantes; tuesta 30 segundos. Vierte el tomate, el azúcar y sal y cuece 15 minutos a fuego suave; mientras, pica el cilantro.",
     "Tritura los anacardos escurridos con los 50 g de yogur restantes y 50 ml de agua hasta obtener una crema lisa. Incorpórala a la salsa y cocina 3 minutos más.",
     "Añade el tofu asado y déjalo 5 minutos a fuego mínimo para que absorba la salsa. Rectifica de sal.",
-    "Sirve sobre el arroz con el cilantro picado."
+    "Sirve sobre el arroz, con el cilantro picado."
   ],
   nutricion: { kcal: 616, prot: 31, hc: 60, grasa: 28 },
   etiquetas: ["al horno", "alta en proteína", "picante", "batch cooking", "económica"],
@@ -885,14 +899,15 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, trocéalas y ponlas a cocer en agua con sal 20 minutos hasta que estén muy tiernas. Mientras, corta el seitán en tiras de 1 x 5 cm, lamina gruesos los champiñones, corta la cebolla en juliana fina y pica el ajo.",
+    "Pela las patatas, trocéalas y ponlas a cocer en agua con sal 20 minutos hasta que estén muy tiernas. Mientras, corta el seitán en tiras de 1 x 5 cm, lamina gruesos los champiñones, corta la cebolla en juliana fina, pica el ajo y el perejil y corta los pepinillos en rodajitas.",
     "Enharina ligeramente las tiras de seitán. Dóralas en una sartén amplia con 1 cda de aceite a fuego fuerte 3-4 minutos y resérvalas.",
     "En la misma sartén, con otra cucharada de aceite, saltea los champiñones a fuego fuerte 5 minutos hasta que estén dorados. Añade la cebolla y el ajo y cocina 5 minutos más a fuego medio.",
     "Añade el pimentón y el tomate concentrado, remueve 30 segundos y vierte el vino raspando el fondo de la sartén. Deja reducir 1 minuto.",
-    "Incorpora el caldo, la nata vegetal, la mostaza y la salsa de soja. Cuece a fuego suave 5 minutos hasta que la salsa nape la cuchara. Devuelve el seitán, caliéntalo 2 minutos, pon pimienta generosa y rectifica de sal.",
+    "Incorpora el caldo, la nata vegetal, la mostaza y la salsa de soja. Cuece a fuego suave 5 minutos hasta que la salsa nape la cuchara; mientras, calienta la bebida vegetal. Devuelve el seitán, caliéntalo 2 minutos, pon pimienta generosa y rectifica de sal.",
     "Escurre las patatas y cháfalas con la bebida vegetal caliente, la ½ cda de aceite restante, sal y pimienta hasta un puré cremoso.",
     "Sirve el strogonoff sobre el puré con los pepinillos en rodajitas y el perejil picado por encima."
   ],
@@ -935,12 +950,13 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 4, u: "hoja" },
     { n: "queso vegetal rallado", q: 40, u: "g", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava el arroz y cuécelo en 160 ml de agua con sal, tapado, 12 minutos a fuego mínimo; mientras, pica la cebolla y el ajo. Déjalo reposar y mézclalo con el zumo de media lima y un puñado de cilantro picado.",
-    "Pocha la cebolla y el ajo en 1 cda de aceite 6 minutos. Añade el comino y el pimentón, remueve 30 segundos e incorpora las alubias escurridas, el chipotle, 80 ml de agua y sal. Cuece 8 minutos y chafa parte de las alubias para que liguen.",
-    "Pico de gallo: corta el tomate en dados pequeños y mézclalo con la cebolla morada picada, el chile en rodajitas, cilantro, el zumo de media lima y sal. Déjalo reposar 5 minutos y escúrrelo.",
+    "Lava el arroz y cuécelo en 160 ml de agua con sal, tapado, 12 minutos a fuego mínimo; mientras, pica la cebolla, el ajo y el cilantro. Déjalo reposar y mézclalo con un puñado de cilantro picado y el zumo de media lima.",
+    "Pocha la cebolla y el ajo en 1 cda de aceite 6 minutos. Añade el comino y el pimentón, remueve 30 segundos e incorpora las alubias escurridas, el chipotle, 80 ml de agua y sal. Cuece 8 minutos y chafa parte de las alubias para que liguen. Mientras cuecen, corta el tomate en dados pequeños, pica la cebolla morada y corta el chile en rodajitas.",
+    "Pico de gallo: mezcla el tomate con la cebolla morada, el chile, cilantro, el zumo de media lima y sal. Déjalo reposar 5 minutos; mientras, corta la lechuga en tiras. Escúrrelo.",
     "Guacamole: chafa el aguacate con el zumo de media lima, sal y cilantro picado.",
     "Escurre el maíz y tuéstalo 3 minutos en una sartén seca a fuego fuerte hasta que algunos granos se doren.",
     "Calienta las tortillas 20 segundos por lado. Coloca en el centro de cada una, en línea y sin llegar a los bordes: arroz, alubias, maíz, pico de gallo, guacamole, lechuga en tiras y el queso vegetal si lo usas.",
@@ -979,7 +995,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza, para tostar" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los portobellos con papel húmedo, retira los tallos (pícalos y resérvalos) y haz unos cortes en cruz poco profundos por dentro. Píntalos con 1 cda de aceite, las hojas de tomillo, sal y pimienta.",
@@ -1025,7 +1042,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Asa el pimiento entero, los tomates y los ajos con piel sobre una bandeja: los ajos 15 minutos y el pimiento y los tomates 25 minutos, hasta que la piel esté arrugada y tostada; los últimos 6 minutos, tuesta también las almendras y las avellanas en un rincón de la bandeja. Deja templar y pela el pimiento, los tomates y los ajos. Si usas ñora, ponla en remojo en agua caliente al empezar.",
@@ -1078,7 +1096,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 1, u: "ud", nota: "grande, en triángulos tostados" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea el seitán y tritúralo en la picadora a golpes cortos hasta que parezca carne picada gruesa (o pícalo a cuchillo muy fino). Pica la cebolla, el ajo y los pistachos, y pica la mitad del perejil y de la menta.",
@@ -1131,16 +1150,17 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el azafrán en 3 cda de agua caliente y déjalo infusionar 10 minutos para que suelte todo el color. Mientras, corta la cebolla en juliana, ralla el ajo y el jengibre, corta la zanahoria en rodajas gruesas y pela la calabaza y córtala en dados de 3 cm.",
     "Pocha la cebolla en 1 cda de aceite a fuego medio 8 minutos. Añade el ajo y el jengibre y, 1 minuto después, la canela, el comino, la cúrcuma y el cilantro molido; tuesta 30 segundos removiendo.",
     "Incorpora la zanahoria, la calabaza, el tomate, 300 ml de caldo, el azafrán con su agua, los orejones partidos por la mitad y sal. Tapa y cuece a fuego suave 20 minutos.",
     "Añade los garbanzos escurridos y las aceitunas, destapa y cuece 10-15 minutos más hasta que la salsa espese y la calabaza esté tierna pero sin deshacerse.",
-    "Mientras, pon el cuscús en un bol con ½ cdta de sal y la ½ cda de aceite restante, cúbrelo con 100 ml de caldo hirviendo, tapa con un plato y espera 5 minutos. Suéltalo con un tenedor.",
+    "Mientras, pon el cuscús en un bol con ½ cdta de sal y la ½ cda de aceite restante, cúbrelo con 100 ml de caldo hirviendo, tapa con un plato y espera 5 minutos; entretanto, pica el cilantro, ralla la piel del limón y corta medio limón en gajos. Suelta el cuscús con un tenedor.",
     "Tuesta las almendras laminadas en una sartén seca 2-3 minutos hasta que estén doradas.",
-    "Añade al tagine el zumo de medio limón y la ralladura, salpimienta y sírvelo sobre el cuscús con las almendras, el cilantro picado y gajos del limón restante."
+    "Añade al tagine la ralladura y el zumo de medio limón, salpimienta y sírvelo sobre el cuscús con las almendras, el cilantro picado y los gajos de limón."
   ],
   nutricion: { kcal: 699, prot: 25, hc: 98, grasa: 23 },
   etiquetas: ["de cuchara", "batch cooking", "invierno", "una sola cazuela", "agridulce", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -1181,7 +1201,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir un cazo con agua. Mientras, pica la cebolla, corta la zanahoria en rodajas gruesas y lamina el ajo. Corta el seitán en trozos de 3-4 cm y enharínalos ligeramente. Dóralos en una cazuela ancha con 1,5 cda de aceite a fuego fuerte, en dos tandas, 5 minutos hasta que tengan costra. Resérvalos.",
@@ -1189,7 +1210,7 @@ window.RECETAS_SEED.push({
     "Baja a fuego medio, añade la cucharada de aceite restante y pocha la cebolla, la zanahoria y el ajo 8 minutos. Incorpora el tomate concentrado y el pimentón y remueve 1 minuto.",
     "Vierte el vino, sube el fuego y déjalo hervir 5 minutos para que reduzca un tercio y pierda el alcohol. Añade el caldo, la salsa de soja, el tomillo, el laurel y el seitán. Tapa y cuece a fuego mínimo 60 minutos.",
     "A los 40 minutos de cocción, añade las cebollitas y los champiñones reservados y sigue cociendo tapado.",
-    "Mientras, cuece las patatas enteras con piel en agua con sal 25 minutos; pélalas, córtalas en trozos gruesos y mézclalas con la ½ cda de aceite restante y la mitad del perejil picado.",
+    "Mientras, cuece las patatas enteras con piel en agua con sal 25 minutos y pica el perejil. Pélalas, córtalas en trozos gruesos y mézclalas con la ½ cda de aceite restante y la mitad del perejil.",
     "Destapa el estofado los últimos 15 minutos para que la salsa espese y quede brillante. Retira el laurel, pon pimienta generosa y rectifica de sal.",
     "Sirve el bourguignon con las patatas y el resto del perejil."
   ],

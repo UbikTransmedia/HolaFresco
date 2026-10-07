@@ -915,7 +915,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Salpimienta los contramuslos. Pela las cebollitas: escáldalas 1 min en agua hirviendo, pásalas por agua fría y la piel saldrá sola; déjalas enteras. Lamina el ajo.",

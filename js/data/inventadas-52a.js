@@ -32,7 +32,8 @@ window.RECETAS_SEED.push({
     { n: "queso fresco", q: 50, u: "g", nota: "desmenuzado" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con calor arriba y abajo. Desmiga el pollo con dos tenedores en hebras finas: así se enrolla bien y no rompe la tortilla.",
@@ -77,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "hierbabuena fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los huevos en un cazo con agua fría, llévalos a ebullición y cuécelos 10 minutos. Enfríalos en agua con hielo para que se pelen fácil y la yema no se ponga verde.",
@@ -300,7 +302,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta las rebanadas de pan duro en una sartén seca a fuego medio 2 minutos por lado, hasta que estén doradas. El pan seco se tuesta mejor que el fresco porque tiene menos agua.",
@@ -342,7 +345,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de calabaza", q: 15, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca muy bien los garbanzos con papel de cocina: el agua es la enemiga del crujiente, porque hace que se cuezan en lugar de tostarse.",
@@ -386,7 +390,8 @@ window.RECETAS_SEED.push({
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz en un colador hasta que el agua salga clara, para quitarle el almidón suelto y que quede suelto. Cuécelo en 200 ml de agua con sal, tapado y a fuego mínimo 12 minutos; reposa 5 minutos sin destapar.",
@@ -560,7 +565,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 2, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 1,5 cm y cuécelas en el microondas 6 minutos tapadas con 2 cucharadas de agua, hasta que estén casi tiernas. Mientras, corta la cebolla y el pimiento en dados, la carne en dados pequeños y pica el perejil. Precocerlas permite que luego se doren sin quemarse por fuera y quedar crudas por dentro.",
@@ -601,7 +607,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "perejil fresco", q: 3, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre muy bien los garbanzos y sécalos con papel: si llegan húmedos a la sartén, se cuecen en vez de dorarse. Trocea las setas, lamina los ajos y pica el perejil.",
@@ -686,7 +693,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 30, u: "g" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enciende el grill del horno a 220 °C. Mezcla el puré frío con la harina, el huevo, el parmesano y una pizca de sal hasta tener una masa que se despegue del bol. Si está muy blanda añade otra cucharada de harina: depende de cuánta leche llevaba el puré.",
@@ -729,7 +737,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "perejil fresco", q: 3, u: "rama" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el huevo 10 minutos. Mientras, pica la cebolleta, los pimientos y el tomate (sin semillas, para que no agüe) en dados muy pequeños, todos del mismo tamaño: es lo que hace elegante un salpicón. Pica también el perejil.",
@@ -778,7 +787,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados" },
-    { n: "sriracha", q: 1, u: "cdta", opcional: true }
+    { n: "sriracha", q: 1, u: "cdta", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el ajo y el jengibre y prepara la salsa en un bol: crema de cacahuete, soja, vinagre de arroz, zumo de lima, aceite de sésamo, el ajo, el jengibre, la sriracha si la usas y 3 cucharadas de agua caliente. Bate hasta que esté lisa. En el wok todo va muy rápido, por eso la salsa se prepara antes. Corta también la zanahoria y el pimiento en tiras finas, la col en juliana y la cebolleta en aros, y pica los cacahuetes.",
@@ -947,7 +957,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 3, u: "rama" },
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en trozos y cuécela en agua con sal 15 minutos, hasta que se deshaga al pincharla.",
@@ -993,7 +1004,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo seco", q: 1, u: "cdta" },
     { n: "huevo", q: 1, u: "ud", nota: "para pintar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pica la cebolla, la zanahoria en dados pequeños y los champiñones en cuartos.",
@@ -1037,7 +1049,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 2, u: "ud", nota: "para la ensalada" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C y unta con unas gotas de aceite un molde de unos 20 cm. Pica la cebolleta y el ajo.",

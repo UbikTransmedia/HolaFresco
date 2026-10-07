@@ -182,7 +182,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la coliflor en ramilletes pequeños, sécalos bien y mézclalos en una bandeja con 2 cucharadas de aceite, la maicena y sal. Ásalos 20-25 minutos, girándolos a mitad, hasta que estén dorados y tostados en los bordes.",
@@ -362,7 +363,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1, u: "cda" },
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "gambas secas", q: 1, u: "cda", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cubre las hojas de té con agua caliente (unos 80 °C) y déjalas 10 minutos. Escúrrelas y lávalas con 3 o 4 cambios de agua fría, apretándolas cada vez, para quitar el exceso de amargor.",
@@ -405,7 +407,8 @@ window.RECETAS_SEED.push({
     { n: "cacahuetes", q: 30, u: "g" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sésamo", q: 1, u: "cdta" }
+    { n: "sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mete la ternera en el congelador mientras preparas lo demás (unos 15 minutos): firme, se corta mucho más fina.",
@@ -434,7 +437,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["sartén", "bol"],
+  equipo: ["sartén", "bol", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "piña", q: 200, u: "g" },
@@ -631,7 +634,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "cilantro fresco", q: 0.25, u: "manojo" }
+    { n: "cilantro fresco", q: 0.25, u: "manojo" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierve.",
@@ -674,7 +678,8 @@ window.RECETAS_SEED.push({
     { n: "pasta de chile", q: 1, u: "cdta", nota: "tipo sambal oelek" },
     { n: "chorizo chino", q: 60, u: "g", opcional: true, nota: "lap cheong, en rodajas finas" },
     { n: "aceite de girasol", q: 3, u: "cda" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja los fideos en agua templada 15-20 minutos (o según el envase), hasta que estén flexibles pero aún firmes; escúrrelos bien. Si se cocinan del todo antes de ir al wok, se romperán.",
@@ -812,7 +817,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "pasta de chile", q: 1, u: "cdta", opcional: true, nota: "para servir" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja los fideos en agua templada 10-15 minutos, hasta que estén flexibles. Escúrrelos y córtalos con unas tijeras en trozos de 5-6 cm, para imitar los fideos cortos y gorditos del lort cha.",
@@ -906,7 +912,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "cacahuetes", q: 30, u: "g" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo.",

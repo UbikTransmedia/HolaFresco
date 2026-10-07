@@ -32,7 +32,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas sin pelarlas, cúbrelas con agua fría con sal y cuécelas 20-25 minutos desde que hierva, hasta que la punta de un cuchillo entre sin resistencia.",
@@ -77,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "canónigos", q: 80, u: "g" },
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en una cazuela con la zanahoria, el apio, la cebolla, el laurel y sal, y cúbrelo con agua fría. Llévalo a ebullición, retira la espuma y cuécelo 25 minutos a fuego muy suave, con un temblor apenas visible: si hierve a borbotones, la carne se queda seca y fibrosa.",
@@ -120,7 +122,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino tinto", q: 3, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo.",
@@ -171,7 +174,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "vinagre de vino blanco", q: 4, u: "cda" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una cazuela grande de agua con sal. Mientras se calienta, pela la patata y córtala en rodajas de 1 cm, corta la zanahoria en bastones y la coliflor en ramilletes pequeños, y despunta las judías verdes. Cuece los huevos 10 minutos y pásalos a agua fría. En la misma agua cuece las verduras por tandas, sacándolas con una espumadera cuando estén tiernas pero firmes: la patata (12 minutos), la zanahoria y la coliflor (6-7 minutos) y las judías verdes (6 minutos). Extiéndelas en una bandeja para que se enfríen sin pasarse.",
@@ -218,7 +222,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino tinto", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga las lentejas y ponlas en una cazuela con el triple de su volumen de agua fría, el laurel y un diente de ajo entero. Lleva a ebullición y cuécelas a fuego suave 20-25 minutos, hasta que estén tiernas pero enteras. Sálalas en los últimos 5 minutos.",
@@ -261,7 +266,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "hueva de atún seca", q: 15, u: "g", opcional: true, nota: "para rallar; en Cerdeña, bottarga de mújol" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las almejas 20 minutos en agua fría con un buen puñado de sal para que suelten la arena. Mientras, pon a hervir abundante agua con sal para la fregola, lamina el ajo, pica el perejil y parte los cherry por la mitad. Enjuaga las almejas y escúrrelas.",
@@ -304,7 +310,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true },
     { n: "vinagre de vino tinto", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas, pínchalas varias veces con un tenedor y ponlas en un recipiente apto para microondas con 2 cucharadas de agua, tapado con una tapa con rendija. Cocínalas a máxima potencia (800 W) 8-10 minutos, dándoles la vuelta a mitad, hasta que un cuchillo entre sin resistencia. Déjalas 3 minutos tapadas.",
@@ -346,7 +353,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 20-25 minutos, hasta que estén tiernas.",
@@ -389,7 +397,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pan", q: 4, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Mientras, lava y seca la lechuga y córtala en tiras de 2 cm, y corta la cebolleta en rodajas finas.",
@@ -438,7 +447,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino blanco", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir 2 litros de agua con una rama de apio, la cebolla partida, el laurel y sal. Cuando hierva, mete el morcillo entero: así se hace en el Piamonte cuando lo que importa es la carne, y no el caldo. Baja a fuego muy suave, con apenas un temblor, y cuécelo 2 horas y 30 minutos con la tapa entreabierta, retirando la espuma de vez en cuando, hasta que un tenedor entre sin resistencia. Añade la zanahoria entera en los últimos 25 minutos, para que quede tierna pero no se deshaga.",
@@ -482,7 +492,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Enjuaga la cebada y cuécela en abundante agua con sal 25-30 minutos, hasta que esté tierna pero con mordida. Escúrrela.",
@@ -525,7 +536,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 40, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Mientras, haz la gremolata: pica muy fino el perejil y el ajo y mézclalos con la ralladura de todo el limón. Corta el calabacín en medias lunas de 1 cm y pica la menta.",
@@ -654,7 +666,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas en una cazuela con agua fría y sal y cuécelas 15-20 minutos desde que hierva, según su tamaño. Mientras, despunta las judías verdes y trocéalas; añádelas en los últimos 6 minutos: deben quedar tiernas pero verde brillante.",
@@ -696,7 +709,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga el arroz y cuécelo en abundante agua con sal 35-40 minutos (o lo que indique el paquete), hasta que esté tierno pero con mordida. Escúrrelo y extiéndelo en una bandeja para que se enfríe sin pegarse.",
@@ -741,7 +755,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza, unos 80 g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Parte las coles de Bruselas por la mitad, corta las zanahorias en bastones de 1 cm y la cebolla en gajos. Mézclalo todo en una bandeja con 1 cucharada de aceite y sal y ásalo 22-25 minutos, dándole la vuelta a mitad, hasta que las coles estén tostadas por el corte y la zanahoria tierna.",
@@ -828,7 +843,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 40, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el farro en abundante agua con sal 20-25 minutos, hasta que esté tierno pero con mordida. Escúrrelo y extiéndelo en una fuente para que se temple.",
@@ -870,7 +886,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino blanco", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Mientras, dobla cada espárrago hasta que se parta solo y desecha la parte leñosa. Cuécelos en el agua hirviendo 3-4 minutos, hasta que estén tiernos pero firmes; pásalos 1 minuto a agua fría y escúrrelos.",

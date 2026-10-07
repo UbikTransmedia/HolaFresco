@@ -41,7 +41,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "lechuga romana", q: 0.5, u: "ud", nota: "unas hojas para servir" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto", nota: "unos granos para el agua y molida" }
+    { n: "pimienta negra", u: "al gusto", nota: "unos granos para el agua y molida" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas con piel y la zanahoria entera en una cazuela, cúbrelas con agua fría con sal y cuécelas 20–25 minutos desde que hierva, hasta que un cuchillo las atraviese sin resistencia. Añade los guisantes los últimos 3 minutos. Escurre y deja enfriar.",
@@ -87,7 +88,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 2, u: "hoja" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si compras el pulpo fresco, congélalo al menos 2 días antes: el frío rompe las fibras y queda tierno. Descongélalo en la nevera la víspera, lávalo bien y quítale el pico del centro de los tentáculos.",
@@ -132,7 +134,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pan", q: 4, u: "rebanada", nota: "finas, de pan de pueblo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir 1 litro de agua con sal, el laurel y dos rodajas de limón. Mientras llega a ebullición, corta la lechuga en tiras muy finas, como se hace en Grecia, el pepino en medias lunas y la cebolleta en rodajas finas con parte del verde, y pica el eneldo.",
@@ -176,7 +179,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 100, u: "g" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los judiones en remojo en abundante agua fría, porque triplican su volumen. Déjalos al menos 12 horas.",
@@ -221,7 +225,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 10, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría y pélalos.",
@@ -310,7 +315,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y ponlas en una cazuela con agua fría abundante, el laurel y el diente de ajo entero pelado. Lleva a ebullición, baja el fuego y cuécelas 20–25 minutos, hasta que estén tiernas pero enteras: prueba varias, deben ceder al morder sin deshacerse. Sala el agua en los últimos 5 minutos.",
@@ -446,7 +452,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "pan", q: 4, u: "rebanada", nota: "finas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Empieza con al menos 6 días de antelación, porque el pescado se congela 5 días y se marina 6–8 horas (si lo compras ya congelado, basta con empezar la víspera). Limpia los boquerones: quítales la cabeza y la tripa tirando hacia abajo, ábrelos en libro y retira la espina central. Lávalos en un bol de agua muy fría con una pizca de sal, cambiándola hasta que salga limpia: así la carne queda más blanca.",
@@ -627,7 +634,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir abundante agua con sal. Pon el salmón en una bandeja con papel, con la piel hacia abajo, ralla por encima la piel de medio limón y añade el orégano, sal, pimienta y un hilo de aceite.",
@@ -713,7 +721,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "grandes, de pan de pueblo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal en una cazuela. Mientras, parte los espárragos por donde se quiebren solos y desecha la parte leñosa. Cuécelos en el agua hirviendo 3–4 minutos, según el grosor, hasta que estén tiernos pero firmes; añade los guisantes en el último minuto. Sácalos con una espumadera a un bol con agua fría y escúrrelos.",
@@ -849,7 +858,8 @@ window.RECETAS_SEED.push({
     { n: "copos de chile", q: 0.5, u: "cdta", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava los calabacines y, con un pelador, saca cintas finas a lo largo, girándolos, hasta llegar a la zona de las semillas (guarda el corazón para una tortilla o una crema). Ponlas en un colador con una pizca de sal 10 minutos: sueltan agua y se vuelven flexibles.",

@@ -40,7 +40,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla la leche con 1 cucharadita de zumo de limón y déjala 5 minutos: se espesará como un suero de mantequilla. Precalienta el horno a 200 °C.",
@@ -86,7 +87,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "vinagre de vino", q: 1, u: "cda", nota: "blanco" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el arroz en un cazo con 200 ml de agua y una pizca de sal y cuécelo a fuego suave 10 minutos, hasta que absorba casi toda el agua. Añade la leche y sigue cociendo a fuego mínimo 20-25 minutos, removiendo a menudo para que no se pegue, hasta tener unas gachas espesas.",
@@ -177,7 +179,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y cuécelas con piel en agua con sal 15-18 minutos, hasta que la punta de un cuchillo entre sin resistencia pero no se abran.",
@@ -270,7 +273,8 @@ window.RECETAS_SEED.push({
     { n: "mejorana seca", q: 0.5, u: "cdta" },
     { n: "yogur sin lactosa", q: 80, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo en un colador hasta que el agua salga clara. Tuéstalo en un cazo seco 2 minutos, añade el caldo y una pizca de sal y cuécelo tapado a fuego mínimo 15 minutos, hasta que absorba el líquido. Destápalo y deja que se temple.",
@@ -314,7 +318,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "caldo de verduras", q: 600, u: "ml", nota: "casero o sin cebolla ni ajo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño y ponle un peso encima 15 minutos para que suelte el agua. Mientras, ralla el tomate, pica la cebolleta y pica el cilantro. Después corta el tofu en dados de 2,5 cm.",
@@ -361,7 +366,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 500, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pepinillos", q: 4, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor 10 minutos: pierde el amargor y queda más tierno y digestivo. Mientras, pica la cebolleta, corta la zanahoria en rodajas gruesas y pela el nabo y córtalo en dados.",
@@ -407,7 +413,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos; mientras, limpia los mejillones quitándoles las barbas. Enfría los huevos en agua fría, pélalos y córtalos en cuartos.",
@@ -455,7 +462,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos; mientras, corta las judías verdes en trozos. Enfría los huevos en agua fría y pélalos. En la misma agua hirviendo, cuece las judías 7-8 minutos, hasta que estén tiernas, y escúrrelas.",
@@ -502,7 +510,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de semillas de calabaza", q: 1, u: "cda" },
     { n: "pipas de calabaza", q: 10, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la zanahoria. Pon el morcillo en una olla con 1,5 litros de agua fría, la zanahoria entera, las hojas de cebolleta, el laurel y la pimienta en grano. Lleva a ebullición, retira la espuma y cuece a fuego muy suave, con el agua apenas temblando, 2 horas, hasta que un tenedor entre sin resistencia. Sala a mitad de cocción. Déjalo templar dentro del caldo para que no se seque.",
@@ -545,7 +554,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Quita las semillas a la calabaza (la piel de la kabocha se come) y córtala en medias lunas de 2 cm. Mézclala en una bandeja con 1 cucharadita de aceite, las hojas de tomillo, sal y pimienta y ásala 25 minutos, dándole la vuelta a mitad, hasta que esté tierna y con los bordes dorados. Tuesta las nueces en la misma bandeja los últimos 4 minutos.",
@@ -588,7 +598,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura las espinacas crudas con los huevos y 50 ml de leche hasta obtener un líquido verde y liso.",
@@ -635,7 +646,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C con calor arriba y abajo. Parte las placas de lasaña en cuadrados irregulares de unos 2 cm, como los Fleckerl.",
@@ -681,7 +693,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la wakame en remojo en agua fría 5 minutos; mientras, pica la cebolleta y el cebollino y corta la zanahoria en daditos. Escurre la wakame y pícala. Pasa la hoja de nori unos segundos por encima del fuego, hasta que cruja y cambie a verde, y desmígala.",
@@ -818,7 +831,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los mejillones bajo el grifo, quítales las barbas y desecha los que estén rotos o abiertos. Pica la cebolleta y el perejil y pon el caldo a calentar.",
@@ -908,7 +922,8 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 60, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea los tomates y ponlos en una cazuela con el caldo, el laurel y los clavos. Cuece a fuego medio 15 minutos, hasta que estén deshechos.",

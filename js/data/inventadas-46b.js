@@ -33,7 +33,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si la sepia está entera, límpiala: separa la cabeza del cuerpo tirando, retira las vísceras y la bolsa de tinta, saca el hueso y la piel y quita ojos y pico. Córtala en tiras de 1 cm y los tentáculos en trozos. Pica la cebolla y ralla el ajo, el jengibre y el tomate.",
@@ -77,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "vinagre de Jerez", q: 1.5, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en dados de 2 cm y ponla a cocer en agua con sal. Mientras, corta las judías verdes en trozos de 4 cm; cuando la patata lleve 6 minutos, añádelas y cuece todo 8 minutos más, hasta que la patata esté tierna y las judías sigan crujientes.",
@@ -120,7 +122,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escalda las habas 1 minuto en agua hirviendo y pásalas a un bol con agua y hielo. Pellizca la piel de cada una por un extremo y aprieta: el haba verde y tierna saldrá sola. Es un trabajo de 10 minutos que cambia el plato: sin la piel, las habas son dulces y no amargan.",
@@ -205,7 +208,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Limpia los boquerones y ábrelos en libro, sin cabeza ni espina, dejando los lomos unidos por el dorso. Lávalos, sécalos y sálalos ligeramente.",
@@ -246,7 +250,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 20, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Limpia los boquerones (sin cabeza, tripas ni espina) y córtalos en trozos de 2 cm. Sécalos con papel.",
@@ -288,7 +293,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los boquerones quitándoles la cabeza y las tripas de un tirón y retirando la espina central; deja los lomos unidos o sepáralos, como prefieras. Lávalos, sécalos y sálalos.",
@@ -335,7 +341,8 @@ window.RECETAS_SEED.push({
     { n: "guisantes congelados", q: 120, u: "g" },
     { n: "arroz largo", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Desespina los filetes: pasa el dedo por el centro para localizar las espinitas y sácalas con pinzas. Quita la piel apoyando el filete con la piel abajo, sujetando la cola y deslizando el cuchillo plano entre piel y carne.",
@@ -380,7 +387,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Desespina los filetes con pinzas, buscando las espinitas con el dedo a lo largo del centro, y sécalos.",
@@ -469,7 +477,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 120, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el arroz con un diente de ajo aplastado, sal y el doble de su volumen de agua, tapado a fuego mínimo, 15 minutos. Deja reposar tapado.",
@@ -512,7 +521,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud", nota: "solo la parte verde" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Desescama las sardinas con el dorso del cuchillo bajo el grifo, córtales la cabeza en diagonal y saca las tripas tirando con el dedo. Lávalas por dentro y sécalas. Déjalas enteras, con la espina.",
@@ -556,7 +566,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 30, u: "g" },
     { n: "canela molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal gruesa", u: "al gusto" }
+    { n: "sal gruesa", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Desescama las sardinas bajo el grifo con el dorso del cuchillo. Para eviscerarlas sin abrirlas, tira de la cabeza hacia abajo y hacia fuera: arrastrará las tripas. Lava el interior con un dedo bajo el agua y sécalas.",
@@ -644,7 +655,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con aire. Limpia las sardinas y sácales los lomos: sin cabeza ni tripas, ábrelas por el vientre, retira la espina y separa los dos lomos. Sécalos y sálalos.",
@@ -685,7 +697,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Desespina los lomos de caballa: tienen una fila de espinas en el centro de la parte ancha. Lo más rápido es cortar en V a ambos lados de esa línea y retirar la tira estrecha con las espinas.",
@@ -728,7 +741,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 60, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Usa caballa que haya estado congelada al menos 5 días a -20 °C, por seguridad frente al anisakis, y descongélala en la nevera. Desespínala cortando en V la línea central de espinas.",
@@ -815,7 +829,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "lechuga romana", q: 4, u: "hoja" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 20-25 minutos, hasta que un cuchillo entre sin resistencia. Pélalas templadas y córtalas en rodajas gruesas.",
@@ -856,7 +871,8 @@ window.RECETAS_SEED.push({
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Descongela el pulpo en la nevera la víspera. El congelado no es un pulpo peor: el hielo rompe las fibras y lo ablanda, por eso en casa conviene comprarlo así o congelarlo tú.",
@@ -902,7 +918,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "arroz redondo", q: 140, u: "g" }
+    { n: "arroz redondo", q: 140, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el arroz lavado con 1,2 veces su volumen de agua, tapado a fuego mínimo, 13 minutos. Deja reposar tapado.",
@@ -944,7 +961,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "limón", q: 0.5, u: "ud" }
+    { n: "limón", q: 0.5, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y ponlas en un cazo pequeño con agua justo hasta cubrirlas y la sal gruesa. Cuece a fuego medio 20-25 minutos, hasta que estén tiernas.",
@@ -988,7 +1006,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "aceite de oliva", u: "al gusto", nota: "para freír" }
+    { n: "aceite de oliva", u: "al gusto", nota: "para freír" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca los lomos del jurel: quita la cabeza con un corte detrás de la agalla, apoya el pescado de lado y desliza el cuchillo desde la cabeza a la cola pegado a la espina, sintiendo el roce con los huesos. Da la vuelta y repite. Retira la línea de escamas duras del costado con el cuchillo plano.",
@@ -1031,7 +1050,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "cilantro fresco", q: 0.5, u: "manojo" }
+    { n: "cilantro fresco", q: 0.5, u: "manojo" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los mejillones bajo el grifo: arranca la barba tirando de ella hacia la punta estrecha de la concha y raspa las incrustaciones con el dorso de un cuchillo. Golpea los que estén abiertos contra la encimera: si no se cierran, están muertos y hay que tirarlos.",
@@ -1077,7 +1097,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Purga los berberechos: ponlos 1-2 horas en un bol con agua fría y sal (unos 35 g por litro, como el agua de mar), en la nevera. Cambia el agua a mitad. Abren la concha, filtran y sueltan la arena. Sácalos con la mano, sin volcar el bol, para que la arena se quede en el fondo.",

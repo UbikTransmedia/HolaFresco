@@ -71,7 +71,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "canónigos", q: 2, u: "puñado", nota: "para acompañar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta el aceite en una sartén a fuego medio-alto y saltea los champiñones 4 minutos, hasta que se doren y se evapore su agua. Añade el puerro con sal y cocina 5 minutos más, hasta que esté blando.",
@@ -116,7 +117,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata la soja texturizada en el caldo caliente 10 minutos. Mientras, cuece el arroz en abundante agua con sal 12 minutos y escúrrelo; aprovecha la espera para picar la cebolla, el pimiento y el ajo.",
@@ -158,7 +160,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el farro en abundante agua con sal 25 minutos, hasta que esté tierno con un punto de mordida. Escúrrelo y, aún caliente, mézclalo con las espinacas para que se reduzcan con el calor.",
@@ -200,7 +203,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "semillas de calabaza", q: 10, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el boniato con media cucharada de aceite, sal y la mitad del pimentón y ásalo en la airfryer a 200 °C 10 minutos.",
@@ -284,7 +288,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "menta fresca", q: 6, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el pollo con la harissa, el comino, el zumo de medio limón, media cucharada de aceite y sal. Deja marinar mientras preparas lo demás (o hasta una noche en la nevera).",
@@ -327,7 +332,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en el doble de agua con sal 12 minutos tapada a fuego suave. Reposa tapada 5 minutos y extiéndela en una fuente para que se enfríe.",
@@ -371,7 +377,8 @@ window.RECETAS_SEED.push({
     { n: "salsa worcestershire", q: 1, u: "cda" },
     { n: "kétchup", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sésamo", q: 1, u: "cdta" }
+    { n: "sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua para los noodles. Mientras se calienta, corta la cebolla en pluma y pica el ajo y el jengibre. Cuece los noodles el tiempo que marque el paquete menos 1 minuto, escúrrelos, pásalos por agua fría y mézclalos con unas gotas de aceite para que no se peguen.",
@@ -415,7 +422,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos y escúrrelo.",
@@ -458,7 +466,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 6, u: "hoja" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Parte las berenjenas por la mitad a lo largo, haz cortes en rejilla en la pulpa sin llegar a la piel, sálalas y colócalas boca abajo en un plato apto para microondas. Tapa y cocina 7-8 minutos a 800 W, hasta que la pulpa esté muy tierna.",
@@ -502,7 +511,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en el doble de agua con sal 12 minutos tapada a fuego suave. Reposa 5 minutos y suéltala con un tenedor.",
@@ -544,7 +554,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 2, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "cebolleta", q: 1, u: "ud", nota: "la parte verde" }
+    { n: "cebolleta", q: 1, u: "ud", nota: "la parte verde" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal 12 minutos tapado a fuego mínimo. Reposa 5 minutos sin destapar. Mientras, pica el ajo y el jengibre, trocea la guindilla y corta la parte verde de la cebolleta en aros.",
@@ -631,7 +642,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las judías verdes en tramos y ponlas con la patata en un recipiente apto para microondas con 3 cucharadas de agua y sal. Tapa y cocina 8-9 minutos a 800 W, hasta que la patata esté tierna. Mientras, corta la cebolla morada en pluma fina, parte los tomates y pica el perejil. Escurre la patata y las judías.",
@@ -675,7 +687,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece la pasta en abundante agua con sal según el paquete; añade los guisantes en los últimos 3 minutos. Escurre y enfría bajo el grifo.",
@@ -718,7 +731,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 12, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos, hasta que esté tierno. Escúrrelo.",
@@ -807,7 +821,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "albahaca fresca", q: 6, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Coloca las láminas de calabacín en un plato, sálalas y cocínalas tapadas 3 minutos a 800 W para que suelten agua. Mientras, pica la cebolla y el ajo. Seca el calabacín con papel de cocina.",
@@ -937,7 +952,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "chile fresco", q: 0.5, u: "ud", opcional: true }
+    { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos de arroz en agua caliente del grifo 8-10 minutos, hasta que estén flexibles pero firmes. Mientras, pica el ajo, el jengibre, el chile y el cilantro. Escurre los fideos.",
@@ -981,7 +997,8 @@ window.RECETAS_SEED.push({
     { n: "tomate concentrado", q: 1, u: "cda" },
     { n: "miel", q: 1, u: "cdta" },
     { n: "maicena", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 1.5, u: "cda" }
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal 12 minutos tapado a fuego mínimo. Reposa 5 minutos sin destapar.",
@@ -1026,7 +1043,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos y escúrrelo.",
@@ -1070,7 +1088,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el brócoli en un recipiente apto para microondas con 2 cucharadas de agua, tapa y cocina 2 minutos a 800 W: debe quedar verde brillante y crujiente. Pásalo por agua fría y escúrrelo bien.",

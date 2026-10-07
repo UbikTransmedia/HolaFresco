@@ -44,7 +44,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta", nota: "tostado" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz japonés frotándolo entre las manos y cambiando el agua hasta que salga casi clara. Ponlo en un cazo con 180 ml de agua, llévalo a ebullición, tapa y cuece 12 minutos a fuego mínimo. Apaga y deja reposar 10 minutos sin destapar. Mézclalo con 1 cucharada del vinagre de arroz, el azúcar y una pizca de sal.",
@@ -88,7 +89,8 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "vinagre de arroz", q: 1.5, u: "cda" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava el arroz jazmín, ponlo en un cazo con 210 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece 12 minutos a fuego mínimo; deja reposar 5 minutos tapado.",
@@ -131,7 +133,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que la punta de un cuchillo entre sin resistencia. Escúrrelas y pártelas por la mitad.",
@@ -177,7 +180,8 @@ window.RECETAS_SEED.push({
     { n: "yogur sin lactosa", q: 120, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Cuece las patatas nuevas con piel en agua con sal y unos tallos de eneldo 15-18 minutos, hasta que estén tiernas.",
@@ -220,7 +224,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la chirivía, córtala en trozos y cuécela en agua con sal 15 minutos, hasta que esté muy tierna; mientras, calienta la leche. Escúrrela y tritúrala con la leche caliente, sal y pimienta blanca hasta obtener un puré fino. Tápalo.",
@@ -267,7 +272,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 0.5, u: "cdta" },
     { n: "cebolleta (parte verde)", q: 15, u: "g" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz jazmín y cuécelo con 210 ml de agua y una pizca de sal: lleva a ebullición, tapa y deja 12 minutos a fuego mínimo y 5 de reposo.",
@@ -359,7 +365,8 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 200, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
-    { n: "sal gorda", u: "al gusto" }
+    { n: "sal gorda", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos grandes y cuécelas con el laurel en agua con sal 18-20 minutos, hasta que estén tiernas: son los cachelos.",
@@ -406,7 +413,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 6-7 minutos, hasta que estén casi tiernas; mientras, ralla el jengibre y ralla los tomates desechando la piel. Escurre las patatas.",
@@ -454,7 +462,8 @@ window.RECETAS_SEED.push({
     { n: "pimiento verde", q: 150, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pollo en dados de 3 cm y mézclalo con el zumo del medio limón, la cúrcuma, 1 cucharadita de pimentón, la mitad del cilantro molido y sal. Déjalo 15 minutos.",
@@ -502,7 +511,8 @@ window.RECETAS_SEED.push({
     { n: "arroz japonés", q: 130, u: "g" },
     { n: "col blanca", q: 140, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz japonés hasta que el agua salga casi clara y cuécelo con 170 ml de agua: hervor, tapa, 12 minutos a fuego mínimo y 10 de reposo.",
@@ -549,7 +559,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la ternera en dados de 2,5 cm y sécalos. Marínalos 15 minutos con 1 cucharada de tamari, la salsa de pescado, la mitad del azúcar, 1 cucharadita del aceite de ajo y una pizca de pimienta.",
@@ -640,7 +651,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas en gajos, mézclalas con 2 cucharaditas del aceite y sal y ásalas 30-35 minutos, dándoles la vuelta a mitad, hasta que estén doradas. Frota el solomillo con el tamari y pimienta y déjalo atemperar mientras preparas lo demás.",
@@ -689,7 +701,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "yogur sin lactosa", q: 100, u: "g" },
     { n: "zumaque", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati y cuécelo con 260 ml de agua y sal: hervor, tapa, 10-12 minutos a fuego mínimo. Mientras, pica el perejil y la menta y ralla el jengibre. Al final, mezcla el arroz con la mitad del perejil y de la menta.",
@@ -738,7 +751,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo casero", q: 250, u: "ml", nota: "sin cebolla ni ajo" },
     { n: "maicena", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre y mezcla el yogur con el pimentón, el comino, el cilantro, el garam masala (reserva una pizca), el jengibre, el zumo de medio limón, 2 cucharaditas del aceite de ajo y sal. Haz unos cortes poco profundos en la pechuga y úntala bien. Déjala marinar 30 minutos (o toda la noche en la nevera).",
@@ -784,7 +798,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 30, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pela las patatas, córtalas en dados de 1,5 cm, sécalas con un paño, mézclalas con 2 cucharaditas del aceite de oliva y sal y ásalas en una bandeja con papel 25 minutos, removiendo a mitad, hasta que estén doradas y crujientes por fuera.",
@@ -829,7 +844,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "arroz largo", q: 140, u: "g" },
     { n: "brotes de soja", q: 150, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la mitad del jengibre y corta el resto en tiras finas. Corta el pollo en trozos de 4 cm y marínalo 15 minutos con 1 cucharada de tamari y el jengibre rallado.",
@@ -874,7 +890,8 @@ window.RECETAS_SEED.push({
     { n: "alga nori", q: 0.5, u: "hoja" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
     { n: "col blanca", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en láminas de 3 mm y cuécelas al vapor 12-15 minutos (o en el microondas, tapadas con 2 cucharadas de agua, 8-10 minutos), hasta que estén tiernas. Mientras, corta la col en juliana finísima, pica la cebolleta y corta la nori en tiras con unas tijeras. Sala las patatas.",
@@ -918,7 +935,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 2, u: "cdta" },
     { n: "cacahuetes", q: 20, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "lima", q: 1, u: "ud" }
+    { n: "lima", q: 1, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja los fideos de arroz en agua muy caliente 8 minutos, hasta que estén flexibles; mientras, pica la cebolleta y deshoja el cilantro. Escúrrelos y córtalos con tijera en trozos de 8-10 cm.",
@@ -963,7 +981,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el dashi: pon el kombu en 100 ml de agua fría 20 minutos (o caliéntalo hasta que esté a punto de hervir y apágalo). Retira el alga y deja que el caldo se temple.",
@@ -1010,7 +1029,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 0.5, u: "cdta" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el kétchup casero: mezcla el tomate concentrado con el vinagre de arroz, 1 cucharadita del azúcar, 1 cucharada de agua y una pizca de sal hasta que quede liso y brillante.",
@@ -1103,7 +1123,8 @@ window.RECETAS_SEED.push({
     { n: "arroz japonés", q: 120, u: "g" },
     { n: "judías verdes", q: 140, u: "g" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prensa el tofu: envuélvelo en un paño, ponle un peso encima (una sartén con unas latas) y déjalo 15 minutos. Debe soltar mucha agua; si no, la masa queda blanda.",
@@ -1150,7 +1171,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "zumaque", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador bajo el grifo frotándola 1 minuto (quita las saponinas, que amargan). Cuécela con 240 ml de agua y sal 12 minutos tapada a fuego suave, deja reposar 5 minutos y suéltala con un tenedor.",

@@ -166,7 +166,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hierve el caldo, viértelo sobre el cuscús en un bol con una pizca de sal, tapa y deja reposar 5 minutos.",
-    "Prepara el aliño: machaca el ajo en un mortero con una pizca de sal y la mitad de las hojas de albahaca, añade el aceite, el zumo del limón y su ralladura y mezcla hasta tener una salsa verde y fragante.",
+    "Mientras reposa, prepara el aliño: machaca el ajo en un mortero con una pizca de sal y la mitad de las hojas de albahaca, añade el aceite, el zumo del limón y su ralladura y mezcla hasta tener una salsa verde y fragante.",
     "Corta los tomates cherry en cuartos, el pepino en dados, los tomates secos en tiras y las aceitunas en rodajas.",
     "Desgrana el cuscús con un tenedor, riégalo con el aliño y mezcla bien para que cada grano se perfume.",
     "Incorpora las verduras, las alcaparras y el atún en lascas grandes, sin deshacerlo demasiado. Termina con el resto de la albahaca rota con las manos y pimienta."
@@ -299,7 +299,7 @@ window.RECETAS_SEED.push({
     "Sube el fuego, añade el pavo y deshazlo con la cuchara; cocina 4 minutos, hasta que pierda el color rosado y empiece a dorarse.",
     "Agrega el ajo picado, el comino, el pimentón y el tomate concentrado y remueve 1 minuto, hasta que huela intensamente a especias.",
     "Incorpora el bulgur y el caldo caliente, sala, tapa y cuece a fuego suave 10–12 minutos, hasta que absorba el líquido. Apaga y deja reposar 2 minutos tapado.",
-    "Mientras, tuesta los pistachos en una sartén seca 2 minutos y pícalos. Mezcla el yogur con la mitad de la menta picada, una pizca de sal y unas gotas de limón.",
+    "Mientras, tuesta los pistachos en una sartén seca 2 minutos y pícalos, y pica la menta. Mezcla el yogur con la mitad de la menta picada, una pizca de sal y unas gotas de limón.",
     "Sirve el bulgur con un chorrito de limón, el yogur a la menta, los pistachos y el resto de la menta por encima."
   ],
   nutricion: { kcal: 580, prot: 40, hc: 64, grasa: 18 },
@@ -508,7 +508,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las alcachofas, córtalas en cuartos y frótalas con el limón. Pica la cebolla y ralla el tomate.",
@@ -551,14 +552,15 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 2, u: "cda", opcional: true, nota: "para servir" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz en un colador bajo el grifo hasta que el agua salga casi clara y déjalo escurrir. Pica la cebolla y el ajo y pon el caldo a calentar.",
     "Salpimienta el pollo con la mitad del orégano y la ralladura del limón. Dóralo en una cazuela con el aceite a fuego fuerte 5 minutos, hasta que tome color. Retíralo.",
     "En la misma grasa, pocha la cebolla picada 5 minutos a fuego medio, hasta que esté transparente. Añade el ajo picado y el resto del orégano y remueve 30 segundos.",
     "Incorpora el arroz y remueve 1 minuto para que se impregne. Añade el caldo caliente, el zumo de medio limón, las aceitunas y el pollo con su jugo; prueba de sal.",
-    "Cuando hierva, tapa y cuece a fuego mínimo 12 minutos sin destapar. Apaga y deja reposar 5 minutos tapado.",
+    "Cuando hierva, tapa y cuece a fuego mínimo 12 minutos sin destapar; mientras, pica el eneldo. Apaga y deja reposar 5 minutos tapado.",
     "Ahueca el arroz con un tenedor, añade el eneldo picado y sirve con gajos del limón restante y una cucharada de yogur."
   ],
   nutricion: { kcal: 590, prot: 36, hc: 70, grasa: 18 },
@@ -594,7 +596,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para escalfar" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el farro en abundante agua con sal 25–30 minutos, hasta que esté tierno pero con un mordisco agradable. Escúrrelo.",
@@ -644,8 +647,8 @@ window.RECETAS_SEED.push({
     "Saca la burrata de la nevera. En una sartén con 1 cucharada de aceite, cocina los tomates cherry enteros con 1 ajo laminado y sal a fuego medio-alto 8 minutos, hasta que la piel se arrugue y estallen. Mientras, pica la cebolla y el otro ajo. Reserva los tomates.",
     "En una cazuela con el resto del aceite, pocha la cebolla y el otro ajo picados 4 minutos. Añade el arroz y nacáralo 1 minuto.",
     "Vierte el vino y deja evaporar. Añade el tomate triturado, sala ligeramente y remueve 2 minutos, hasta que se pegue al grano.",
-    "Ve añadiendo el caldo caliente por cazos, removiendo de vez en cuando, durante 16–18 minutos, hasta que el arroz esté al dente y cremoso.",
-    "Fuera del fuego, incorpora la mantequilla fría, el parmesano y la mitad de la albahaca picada. Remueve enérgicamente para ligar y deja reposar 1 minuto.",
+    "Ve añadiendo el caldo caliente por cazos, removiendo de vez en cuando, durante 16–18 minutos, hasta que el arroz esté al dente y cremoso. Entre cazo y cazo, pica la mitad de la albahaca.",
+    "Fuera del fuego, incorpora la mantequilla fría, el parmesano y la albahaca picada. Remueve enérgicamente para ligar y deja reposar 1 minuto.",
     "Sirve el risotto con los tomates confitados por encima, media burrata abierta en cada plato, un hilo de aceite, hojas de albahaca y pimienta."
   ],
   nutricion: { kcal: 710, prot: 24, hc: 82, grasa: 32 },
@@ -943,9 +946,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Sazona el salmón con sal, pimienta y la ralladura del limón. Corta el puerro en rodajas finas y pica el ajo.",
-    "En una cazuela apta para horno con el aceite, pocha el puerro en rodajas finas y el ajo picado a fuego medio 6 minutos, hasta que estén muy tiernos.",
+    "En una cazuela apta para horno con el aceite, pocha el puerro y el ajo picado a fuego medio 6 minutos, hasta que estén muy tiernos.",
     "Añade el arroz, remueve 1 minuto y vierte el vino; deja evaporar. Agrega el caldo caliente, prueba de sal y lleva a ebullición.",
-    "Tapa la cazuela y hornea 15 minutos.",
+    "Tapa la cazuela y hornea 15 minutos. Mientras, pica el eneldo.",
     "Saca, remueve con suavidad, añade los guisantes y coloca encima los tacos de salmón. Hornea destapado 8–10 minutos más, hasta que el salmón esté rosado por dentro y el arroz meloso.",
     "Fuera del horno, mezcla el yogur con el zumo de medio limón y la mitad del eneldo picado y repártelo por encima. Termina con el resto del eneldo y pimienta."
   ],
@@ -985,15 +988,16 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y pica el ajo. Salpimienta el cordero y dóralo en una cazuela con el aceite a fuego fuerte, en dos tandas, 5 minutos, hasta que esté bien tostado.",
     "Baja el fuego, añade la cebolla en juliana y pocha 8 minutos, hasta que esté dorada. Incorpora el ajo, el comino, el cilantro y la canela y remueve 30 segundos.",
     "Vierte 280 ml del caldo, tapa y cuece a fuego suave 35 minutos, hasta que el cordero esté tierno al pincharlo.",
     "Mientras, lava el basmati hasta que el agua salga clara y escúrrelo. Tuesta los pistachos en una sartén seca 2 minutos y trocéalos.",
-    "Añade a la cazuela el arroz, las pasas y el resto del caldo caliente (320 ml); prueba de sal. Cuando hierva, tapa y cocina a fuego mínimo 12 minutos sin destapar. Reposa 5 minutos tapado.",
-    "Mezcla el yogur con el zumo de limón, sal y un poco de menta picada. Ahueca el pilaf con un tenedor y sirve con los pistachos, la menta y el yogur."
+    "Añade a la cazuela el arroz, las pasas y el resto del caldo caliente (320 ml); prueba de sal. Cuando hierva, tapa y cocina a fuego mínimo 12 minutos sin destapar; mientras, pica la menta. Reposa 5 minutos tapado.",
+    "Mezcla el yogur con el zumo de limón, sal y un poco de la menta picada. Ahueca el pilaf con un tenedor y sirve con los pistachos, el resto de la menta y el yogur."
   ],
   nutricion: { kcal: 770, prot: 42, hc: 82, grasa: 30 },
   etiquetas: ["mediterránea", "aromática", "invierno", "sin verduras"],
@@ -1030,8 +1034,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 170 °C. Frota los contramuslos con sal, pimienta, 1 cucharadita de pimentón, la ralladura del limón y 1 cucharada de aceite.",
-    "Colócalos con la piel hacia arriba en una fuente amplia con los ajos enteros, el pimiento en tiras, los tomates partidos por la mitad y el romero. Riega con el resto del aceite y el zumo de medio limón.",
+    "Precalienta el horno a 170 °C. Frota los contramuslos con sal, pimienta, 1 cucharadita de pimentón, la ralladura del limón y 1 cucharada de aceite. Corta el pimiento en tiras y parte los tomates por la mitad.",
+    "Coloca el pollo con la piel hacia arriba en una fuente amplia con los ajos enteros, el pimiento, los tomates y el romero. Riega con el resto del aceite y el zumo de medio limón.",
     "Asa 60 minutos sin tocar, hasta que el pollo esté muy tierno y la piel dorada, y el fondo de la fuente lleno de jugo.",
     "Saca la fuente y sube el horno a 200 °C. Retira el pollo a un plato, aplasta con un tenedor los tomates y tres ajos asados en el jugo y añade el resto del pimentón.",
     "Reparte el arroz en la fuente, vierte el caldo caliente, prueba de sal y vuelve a colocar el pollo encima con el resto de ajos.",
@@ -1073,7 +1077,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 1, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica finos la cebolla, la zanahoria, el apio y 2 ajos. Haz dos o tres cortes en la membrana del borde del ossobuco para que no se curve. Salpimiéntalo, pásalo por la harina y dóralo en una cazuela con el aceite a fuego fuerte 4 minutos por cada lado. Retíralo.",

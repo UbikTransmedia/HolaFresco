@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "suave, o de girasol" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el arroz lavado con 200 ml de agua y sal en un cazo, tapa y cuece 12 minutos a fuego mínimo; deja reposar tapado. Mientras, corta la coliflor en ramilletes pequeños y la patata en dados de 2 cm, y pica la cebolla, el ajo, el chile, el tomate y el cilantro fresco.",
@@ -76,7 +77,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "suave, o de girasol" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el pollo con el yogur, la cúrcuma y una pizca de sal y deja reposar mientras preparas el masala (si tienes tiempo, déjalo 1 hora en la nevera). Pica muy fina la cebolla y ralla el ajo, el jengibre y los tomates.",
@@ -121,7 +123,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "aceite de oliva", q: 2.5, u: "cda", nota: "suave" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 230 °C. Unta las berenjenas con un poco de aceite, pínchalas y ásalas 30-35 minutos (o sobre la llama del gas, girándolas), hasta que la piel esté quemada y estén blandísimas. Mientras se asan, cuece el arroz lavado en 200 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y pica la cebolla, el ajo, el jengibre, el chile, el tomate y el cilantro.",
@@ -166,7 +169,8 @@ window.RECETAS_SEED.push({
     { n: "nata para cocinar", q: 40, u: "ml" },
     { n: "arroz basmati", q: 90, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda", nota: "suave" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado en 180 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y deja reposar.",
@@ -210,7 +214,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos; mientras, pica la cebolla y ralla el ajo, el jengibre y el tomate. Enfría los huevos en agua fría y pélalos. Hazles 3 cortes superficiales a lo largo para que absorban la salsa.",
@@ -257,7 +262,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la legumbre y cuécela en 700 ml de agua con la cúrcuma a fuego suave 40-45 minutos, retirando la espuma, hasta que esté deshecha. Bátela con unas varillas para que quede cremosa.",
@@ -302,7 +308,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "pan de hamburguesa", q: 4, u: "ud", nota: "panecillos blandos" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados y separa la coliflor en ramilletes. Cuécelos con los guisantes en agua con sal 15 minutos, hasta que estén muy tiernos; mientras, pica la cebolla, el ajo, el pimiento, el tomate y el cilantro. Escurre y aplástalos con un pasapurés o un tenedor.",
@@ -344,7 +351,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 200, u: "ml" },
     { n: "maicena", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave, o de girasol" }
+    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave, o de girasol" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado en 180 ml de agua, tapado, 12 minutos a fuego mínimo, y deja reposar. Mientras, corta el tofu en dados de 2 cm y pica el ajo, el jengibre y la cebolleta, separando la parte blanca de la verde.",
@@ -384,7 +392,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 3, u: "cda" },
     { n: "mirin", q: 3, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
-    { n: "cebolleta", q: 1, u: "ud" }
+    { n: "cebolleta", q: 1, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo en 170 ml de agua, tapado, 12 minutos a fuego mínimo; reposa 10 minutos sin destapar. Mientras, corta la cebolla en plumas finas, el pollo en trozos y la cebolleta en aros finos.",
@@ -425,7 +434,8 @@ window.RECETAS_SEED.push({
     { n: "mirin", q: 2, u: "cda" },
     { n: "azúcar", q: 1, u: "cda" },
     { n: "arroz redondo", q: 80, u: "g" },
-    { n: "aceite de oliva", q: 1, u: "cda", nota: "suave" }
+    { n: "aceite de oliva", q: 1, u: "cda", nota: "suave" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en trozos grandes; redondea un poco las aristas con el cuchillo para que no se deshagan. Corta la zanahoria en rodajas al bies y la cebolla en gajos.",
@@ -471,7 +481,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1.5, u: "cda" },
     { n: "sésamo", q: 1, u: "cda", nota: "tostado" },
     { n: "aceite de oliva", q: 0.5, u: "cda", nota: "suave" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una olla grande de agua. Mezcla la soja, el azúcar, 1 cucharada de aceite de sésamo y el ajo rallado. Corta la ternera en tiras finas y marínala con 1 cucharada de esta salsa mientras preparas lo demás. Mientras el agua se calienta, corta la zanahoria en bastones finos, la cebolla en plumas, las setas en láminas y el pimiento en tiras.",
@@ -513,7 +524,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud", nota: "entero, largo y suave" },
     { n: "salsa de pescado", q: 2, u: "cda" },
     { n: "arroz jazmín", q: 80, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la costilla en una cazuela con agua fría, lleva a ebullición 3 minutos y tira el agua: así el caldo queda limpio. Enjuaga la carne.",
@@ -554,7 +566,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 60, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las judías mungo y cuécelas en 900 ml de agua a fuego suave 35-40 minutos, hasta que estén muy tiernas y algunas se abran. No escurras.",
@@ -598,7 +611,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 250, u: "ml" },
     { n: "limón", q: 1, u: "ud", nota: "en gajos" },
     { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua para los fideos. Mientras se calienta, corta el pollo en tiras finas, la col china en tiras, la zanahoria en bastones finos y las judías verdes en tiras al bies, y pica el ajo y la cebolla. Cuece los fideos 1 minuto menos de lo que indique el paquete, escúrrelos, pásalos por agua fría y reserva.",
@@ -637,7 +651,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda", nota: "suave" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado en 150 ml de agua, tapado, 12 minutos a fuego mínimo, y deja reposar.",
@@ -681,7 +696,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 400, u: "ml" },
     { n: "aceite de sésamo", q: 1, u: "cda" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "arroz jazmín", q: 80, u: "g", opcional: true, nota: "para acompañar" }
+    { n: "arroz jazmín", q: 80, u: "g", opcional: true, nota: "para acompañar" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si vas a acompañar con arroz, cuécelo lavado en 120 ml de agua, tapado, 12 minutos a fuego mínimo. Mientras, pica la cebolla, el ajo y la cebolleta y corta el calabacín en medias lunas.",
@@ -726,7 +742,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta y el ajo y ralla el tomate. Haz el hogao: sofríe la cebolleta y el ajo con el aceite a fuego medio 6 minutos, añade el tomate y el comino, sala y cocina 8 minutos hasta que espese.",
@@ -770,7 +787,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados y picados" },
-    { n: "aceite de oliva", q: 1, u: "cdta", nota: "suave" }
+    { n: "aceite de oliva", q: 1, u: "cdta", nota: "suave" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua sin sal. Mientras, prepara la salsa en el fondo de dos cuencos: reparte el tahini, 2 cucharadas de soja, el vinagre, el aceite de chile, el azúcar, el ajo rallado y la pimienta de Sichuan. Mezcla con una cucharada de agua caliente hasta tener una salsa ligada. Parte el pak choi en cuartos y corta la cebolleta en aros.",
@@ -814,7 +832,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cda" },
     { n: "maicena", q: 1.5, u: "cda" },
     { n: "arroz jazmín", q: 90, u: "g" },
-    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave, o de girasol" }
+    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave, o de girasol" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado en 135 ml de agua, tapado, 12 minutos a fuego mínimo, y deja reposar.",
@@ -904,7 +923,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pan", q: 4, u: "rebanada", nota: "de hogaza o integral" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 150 °C. En una cazuela que pueda ir al horno, dora el bacon a fuego medio 5 minutos, hasta que suelte la grasa; mientras, pica la cebolla. Añade la cebolla y rehoga 6 minutos, hasta que esté blanda.",
@@ -999,7 +1019,8 @@ window.RECETAS_SEED.push({
     { n: "pepinillos", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon agua a hervir con sal y, mientras se calienta, pica muy finos la cebolla, el pimiento y el ajo. Cuece las mazorcas 10-12 minutos, hasta que los granos estén tiernos.",
@@ -1044,7 +1065,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 3, u: "rama" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el apio y corta la patata en dados de 1,5 cm. Pon las almejas en una cazuela con 300 ml de agua, tapa y cuece a fuego fuerte 3-4 minutos, moviendo la cazuela, hasta que se abran. Sácalas, desecha las cerradas y cuela el caldo por un paño o papel de cocina para quitar la arena. Separa la carne de las conchas.",
@@ -1089,7 +1111,8 @@ window.RECETAS_SEED.push({
     { n: "salsa picante", q: 1, u: "cdta", opcional: true },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lleva a ebullición la leche con el caldo y una pizca de sal. Echa la polenta en forma de lluvia, batiendo con varillas para que no haga grumos.",

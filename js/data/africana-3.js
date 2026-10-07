@@ -81,7 +81,8 @@ window.RECETAS_SEED.push({
     { n: "alubias en salsa de tomate", q: 200, u: "g", nota: "las de desayuno inglés" },
     { n: "sardinas en conserva", q: 2, u: "lata", nota: "en aceite o en tomate, escurridas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva, pásalos a agua fría y pélalos.",
@@ -122,7 +123,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y cuécelas en abundante agua sin sal a fuego medio 20-25 minutos, hasta que estén tiernas pero enteras. Sala el agua en los últimos 5 minutos.",
@@ -169,7 +171,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre y el ajo y mézclalos con el zumo de 1 lima, la cúrcuma, el curry y sal. Corta el pollo en dados de 3 cm, embadúrnalo con la marinada y déjalo 15 minutos mientras haces el resto.",
@@ -214,7 +217,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Rehoga la cebolla en 1 cucharada de aceite 5 minutos a fuego medio. Añade el ajo y el curry y remueve 30 segundos.",
@@ -259,7 +263,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 300, u: "g" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en dados de 2 cm y cuécela en agua con sal 12 minutos, hasta que esté tierna. Escurre.",
@@ -303,7 +308,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el cuscús en un bol con sal y el zumo de media lima, cúbrelo con 130 ml de agua hirviendo, tapa y deja 5 minutos. Suéltalo con un tenedor y 1 cucharadita de aceite: quedará suelto y ligeramente ácido, como el attiéké de mandioca.",
@@ -390,7 +396,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la salsa: corta el tomate y la cebolla en dados muy pequeños, pica el habanero sin semillas finísimo (mejor con guantes) y ralla el ajo. Mezcla con el zumo de la lima, el aceite de oliva y sal, y deja reposar.",
@@ -431,7 +438,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en dados de 2 cm y cuécela en agua con sal 12 minutos, hasta que esté tierna sin deshacerse. Escúrrela y deja que se temple.",
@@ -478,7 +486,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 400, u: "ml" },
     { n: "aceite de girasol", q: 3, u: "cda" },
     { n: "plátano macho", q: 1, u: "ud", nota: "maduro" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Sazona los contramuslos con sal, la mitad del curry y la mitad del tomillo. Dóralos en la cazuela con 1 cucharada de aceite 4 minutos por lado y resérvalos.",
@@ -519,7 +528,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 4, u: "cda" },
     { n: "pastilla de caldo", q: 1, u: "ud" },
     { n: "huevo", q: 4, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 400 ml de agua con sal, tapado y a fuego suave, 30-35 minutos, hasta que esté tierno y sin líquido. Deja reposar tapado.",
@@ -567,7 +577,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 3, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la ternera en dados de 2 cm. Machaca 2 dientes de ajo y la mitad del jengibre y cuécelos con la ternera en 700 ml de agua con sal, tapada y a fuego suave, 60 minutos, hasta que esté tierna. Cuela y guarda el caldo: necesitarás unos 330 ml.",
@@ -615,7 +626,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara. Lleva a ebullición 180 ml de leche de coco con 100 ml de agua y sal, añade el arroz, remueve una vez, tapa y cuece a fuego mínimo 15 minutos. Apaga y deja reposar tapado 10 minutos: la capa tostada del fondo (ukoko) es la más apreciada.",
@@ -661,7 +673,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 3, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana, machaca el ajo y ralla el tomate. Corta la ternera en dados de 3 cm, salpimiéntala y dórala en la cazuela con el aceite a fuego fuerte 6-8 minutos, en dos tandas, hasta que esté bien tostada.",
@@ -707,7 +720,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cacahuetes tostados", q: 30, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el fonio en un colador fino (suele traer arenilla). Hierve 280 ml del caldo con sal, añade el fonio, remueve, tapa y apaga el fuego: en 5 minutos estará hecho. Mientras, pica la cebolla, el ajo, el jengibre, el chile y los cacahuetes y corta el tomate en dados. Suelta el fonio con un tenedor. Si usas mijo, tuéstalo 2 minutos, cuécelo tapado en todo el caldo 15 minutos y déjalo reposar 5.",
@@ -793,7 +807,8 @@ window.RECETAS_SEED.push({
     { n: "tomate concentrado", q: 1, u: "cda" },
     { n: "tomate triturado", q: 400, u: "g" },
     { n: "pimiento verde", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla muy fina, el ajo, el jengibre y el pimiento verde. Rehoga la cebolla en la cazuela sin grasa a fuego medio 8 minutos, removiendo, hasta que pierda el agua y empiece a tostarse: es la técnica de los guisos etíopes y eritreos.",
@@ -835,7 +850,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura el ajo, los chiles, el zumo de 1 lima, el pimentón, sal y 80 ml de leche de coco. Embadurna los contramuslos con esta marinada y déjalos 30 minutos.",
@@ -883,7 +899,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "plátano", q: 2, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el cordero en dados de 3 cm y sazónalo con el comino, el cilantro molido, la cúrcuma, sal y pimienta: es la base del xawaash, la mezcla de especias somalí. Corta la cebolla en juliana, pica el ajo y el pimiento y ralla el tomate.",
@@ -1066,7 +1083,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir el caldo con el jengibre en láminas, el ajo machacado y la parte blanca de las cebolletas. Deja que hierva suave 10 minutos para que se perfume.",

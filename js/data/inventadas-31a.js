@@ -211,7 +211,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo en una cazuela con 210 ml de agua y una pizca de sal: lleva a ebullición, tapa y deja 12 minutos a fuego mínimo. Apaga y reposa tapado 10 minutos.",
@@ -255,7 +256,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua sin sal 18-20 minutos, hasta que se deshagan al pincharlas. Los últimos 4 minutos añade el bacalao para que se cueza en el mismo agua. Mientras, pica muy finos el ajo y el perejil.",
@@ -303,7 +305,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "tortillas de maíz", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca los garbanzos con un paño. Tritúralos en la batidora con un cuarto de la cebolla, el ajo, las hierbas, el comino, el bicarbonato y sal, a golpes, hasta tener una pasta gruesa que se mantenga unida (no un puré).",
@@ -348,7 +351,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cda" },
     { n: "tomate concentrado", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz basmati lavado en 300 ml de agua con sal: hierve, tapa y deja 11 minutos a fuego mínimo y 5 de reposo. Mientras, prensa el tofu 10 minutos envuelto en un paño con un peso encima.",
@@ -434,7 +438,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en 250 ml de agua con sal, tapada a fuego suave, 13-15 minutos hasta que absorba el líquido y se vea el germen en espiral. Mientras, ralla el calabacín, sálalo ligeramente y estrújalo con las manos para quitarle toda el agua que puedas. Ralla el parmesano y 1 ajo y lamina el otro.",
@@ -516,7 +521,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "sal en escamas", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las patatas en bastones finos y ponlos en remojo en agua fría 10 minutos para quitarles almidón. Escúrrelos y sécalos muy bien con un paño.",
@@ -650,7 +656,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz jazmín lavado con 150 ml de agua y sal: hierve, tapa y deja 12 minutos a fuego mínimo y 5 de reposo.",
@@ -824,7 +831,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "vinagre de arroz", q: 2, u: "cda" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado con 200 ml de agua y una pizca de sal: hierve, tapa y deja 13 minutos a fuego mínimo y 10 de reposo. Si las brochetas son de madera, ponlas en remojo 10 minutos mientras tanto.",
@@ -869,7 +877,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la calabaza y córtala en dados de 2 cm. Mézclala con 1 cucharadita de aceite, el comino, sal y pimienta.",
@@ -912,7 +921,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla en un bol el chipotle, 1 cucharada de aceite, el pimentón, el comino y sal. Añade la coliflor y remueve hasta que quede bien untada.",
@@ -994,7 +1004,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1.5, u: "cda" },
     { n: "judías verdes", q: 250, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece las judías verdes 6-7 minutos, hasta que estén tiernas pero aún crujientes; mientras, pica muy fino el perejil y ralla el limón. Escurre las judías.",
@@ -1037,7 +1048,8 @@ window.RECETAS_SEED.push({
     { n: "crema de cacahuete", q: 2, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de sésamo", q: 1, u: "cda" },
-    { n: "menta fresca", q: 0.5, u: "manojo" }
+    { n: "menta fresca", q: 0.5, u: "manojo" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la zanahoria, corta la col en juliana fina, lamina las setas y pica la cebolleta. Hidrata los fideos de arroz en agua hirviendo 4 minutos, escúrrelos y córtalos con tijera en trozos cortos.",
@@ -1082,7 +1094,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz en abundante agua con sal 12 minutos (quedará algo entero, terminará en el pimiento); mientras, pica la cebolla y el ajo. Escúrrelo.",

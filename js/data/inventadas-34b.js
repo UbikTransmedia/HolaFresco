@@ -166,7 +166,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 2, u: "puñado" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lamina los ajos y ralla la piel del limón. En una fuente pon los tomates cherry enteros, los ajos, las hojas de romero, la ralladura, el aceite y sal. Mezcla y hornea 15 minutos, hasta que los tomates revienten. Mientras, enjuaga y escurre las judías.",
@@ -342,7 +343,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. En una fuente honda mezcla con unas varillas la polenta, el caldo, la leche, 1 cucharada de aceite y una pizca de sal. Tapa con papel de aluminio y hornea 20 minutos.",
@@ -563,7 +565,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pica fina la cebolla y ralla el ajo y el jengibre. En una fuente honda mézclalos con el comino en grano, la cúrcuma y 1 cucharada de aceite. Hornea 10 minutos, hasta que la cebolla esté blanda y huela a especias tostadas.",
@@ -610,7 +613,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cacahuetes", q: 20, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Ralla el ajo y el jengibre. Corta el tempeh en rodajas de 1 cm y mézclalo en un bol con 1 cucharada de tamari, el zumo de media lima, el ajo y el jengibre. Deja marinar 10 minutos.",
@@ -954,7 +958,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava el arroz en un bol con agua fría, frotándolo, y cambia el agua hasta que salga casi transparente. Escúrrelo bien. Pica la cebolla, corta la zanahoria en dados pequeños y chafa el cardamomo.",

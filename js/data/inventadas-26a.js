@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "fideos finos", q: 60, u: "g" },
     { n: "hierbabuena fresca", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud", opcional: true, nota: "para el caldo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. El día del puchero, pon en una cazuela grande 2,5 litros de agua fría con la ternera, el pollo, la panceta y los huesos. Lleva a ebullición a fuego fuerte y, durante los primeros 10 minutos, retira con una espumadera toda la espuma gris que suba.",
@@ -80,7 +81,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 2, u: "ud" },
     { n: "galets", q: 80, u: "g", nota: "pasta grande en forma de caracola" },
     { n: "harina de trigo", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. El día de la escudella, pon en una olla grande 3 litros de agua fría con la ternera, el pollo y los huesos. Lleva a ebullición y desespuma durante 10 minutos, hasta que el caldo hierva limpio.",
@@ -122,7 +124,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. El día del pote, ponlas escurridas en una cazuela con la panceta y 1,5 litros de agua fría. Lleva a ebullición, retira la espuma y baja a fuego suave. Cuece 1 hora, asustando con un chorrito de agua fría un par de veces para que no se encallezcan.",
@@ -166,7 +169,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "del día anterior" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Una hora antes, pon las almejas en agua con sal para que suelten la arena. Pela las gambas y reserva las colas. En una cazuela con 1 cucharada de aceite, dora a fuego fuerte las cabezas y cáscaras 3 minutos, aplastando las cabezas con la cuchara para que suelten su jugo.",
@@ -252,7 +256,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "azúcar", q: 1, u: "pizca", opcional: true, nota: "si el tomate está ácido" },
     { n: "higo fresco", q: 2, u: "ud", opcional: true, nota: "o uvas, para acompañar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en un cazo. Pica la cebolla, el pimiento y los ajos en trozos pequeños y póchalos en una cazuela con el aceite a fuego medio-bajo 12 minutos, hasta que la cebolla esté transparente y blanda.",
@@ -292,7 +297,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon 800 ml de agua en una cazuela con la piel de media naranja (sin la parte blanca) y llévala a ebullición. Mientras, dora en una sartén con el aceite, a fuego medio, los ajos pelados y 1 rebanada de pan en trozos, unos 3 minutos, hasta que estén dorados. Sácalos a la batidora.",
@@ -452,7 +458,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los huevos en un cazo con agua fría, llévalos a ebullición y cuécelos 10 minutos. Pásalos a agua fría y pélalos.",
@@ -493,7 +500,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para escalfar" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia el puerro y córtalo en rodajas; pela la patata y córtala en dados pequeños. Rehoga el puerro en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos. Añade la patata y el caldo, sala y cuece 12 minutos, hasta que la patata esté tierna.",
@@ -534,7 +542,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y ponlas en una cazuela con 1,2 litros de agua fría, la cebolla, la zanahoria y el pimiento enteros o en trozos grandes, los ajos pelados, el laurel y 1 cucharada de aceite.",
@@ -578,7 +587,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y los ajos y ralla los tomates. Salpimienta el conejo y el pollo. Dóralos en una cazuela ancha con el aceite a fuego medio-alto 8 minutos, hasta que estén bien dorados por todos los lados. Sácalos.",
@@ -620,7 +630,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "hierbabuena fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Haz la masa: mezcla en un bol la harina con una pizca de sal y unos 80 ml de agua templada, añadiendo poco a poco, y amasa 5 minutos hasta que esté lisa y no se pegue. Tápala y deja reposar 15 minutos.",
@@ -666,7 +677,8 @@ window.RECETAS_SEED.push({
     { n: "col blanca", q: 4, u: "hoja", nota: "grandes" },
     { n: "patata", q: 2, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. El día del cocido, pon en una cazuela grande el pollo, la panceta y los huesos con 2,5 litros de agua fría. Lleva a ebullición y desespuma 10 minutos, hasta que hierva limpio.",
@@ -709,7 +721,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "azafrán", q: 1, u: "pizca", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las judías secas en remojo en abundante agua fría. El día de la olla, ponlas escurridas en una cazuela grande con las costillas, la panceta y 2 litros de agua fría. Lleva a ebullición, desespuma y cuece a fuego suave 1 hora, asustándolas con un vasito de agua fría cada 20 minutos para que la piel no se rompa.",
@@ -751,7 +764,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las costillas en una cazuela con 1,5 litros de agua fría y la mazorca. Lleva a ebullición, desespuma y cuece a fuego suave 40 minutos.",
@@ -794,7 +808,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, ralla el tomate y corta el chorizo en rodajas. Dora la carne salada en una cazuela con el aceite a fuego medio-alto 5 minutos. Añade la cebolla y pocha 8 minutos, hasta que esté blanda.",
@@ -833,7 +848,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 2, u: "rebanada", nota: "tostado, para acompañar" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Sala la merluza en trozos y déjala 10 minutos. Mientras, pela y aplasta los ajos, corta la cebolla en juliana fina, exprime la naranja y el medio limón, pica el perejil y calienta 800 ml de agua.",
@@ -874,7 +890,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en un cazo para los huevos y calienta el caldo en otro. Mientras, pica en daditos pequeños la zanahoria, el puerro, el apio y la patata, y corta las judías verdes en trocitos.",
@@ -914,7 +931,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón picante", q: 0.5, u: "cdta", opcional: true },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y los ajos y póchalos en una cazuela con el aceite a fuego medio 10 minutos, hasta que estén blandos. Mientras, corta el chorizo en rodajas gruesas y pela las patatas.",
@@ -956,7 +974,8 @@ window.RECETAS_SEED.push({
     { n: "jamón serrano", q: 30, u: "g", nota: "en taquitos" },
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en una cazuela con el puerro, la zanahoria, la cebolla y 1,2 litros de agua fría. Lleva a ebullición, desespuma y cuece a fuego suave 40 minutos, hasta que la carne se separe del hueso. Mientras, cuece el huevo 10 minutos, enfríalo y pícalo.",
@@ -999,7 +1018,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos y las judías en remojo en abundante agua fría. El día de la berza, ponlos escurridos en una cazuela grande con la costilla, la panceta y 2 litros de agua caliente. Lleva a ebullición, desespuma y cuece a fuego suave 1 hora y cuarto.",
@@ -1041,7 +1061,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 3, u: "rebanada" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea todas las verduras en trozos medianos y calienta el caldo. Rehoga la cebolla y el puerro en una cazuela con 1 cucharada de aceite a fuego medio 5 minutos.",

@@ -33,7 +33,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo. Pela las patatas, córtalas en rodajas de medio centímetro y cuécelas 8 minutos en agua con sal: deben quedar tiernas por fuera y aún firmes en el centro.",
@@ -75,7 +76,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 1 cm y cuécelas 10 minutos en agua con sal, hasta que estén casi tiernas pero enteras.",
@@ -246,7 +248,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas y córtalas en rodajas de medio centímetro. Mézclalas en la bandeja del horno con el aceite de oliva, el orégano, sal y 4 cucharadas de agua, y hornea 20 minutos.",
@@ -288,7 +291,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas nuevas y cuécelas con piel en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
@@ -331,7 +335,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos, hasta que se deshagan al pincharlas. Guarda medio vaso del agua de cocción.",
@@ -549,7 +554,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "pan sin gluten", q: 4, u: "rebanada", nota: "unos 120 g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el redaño en un bol con agua tibia y el zumo de medio limón 10 minutos: se ablanda y se abre sin romperse.",
@@ -595,7 +601,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Cuece el arroz en agua con sal 10 minutos (quedará algo duro, terminará en el horno); mientras, trocea las castañas, parte las uvas en cuartos, pica la cebolleta y el perejil y corta las zanahorias en rodajas gruesas. Escurre el arroz. Tuesta los piñones en un cazo seco 2 minutos, hasta que estén dorados.",
@@ -684,7 +691,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "queso kefalotyri", q: 30, u: "g", nota: "o parmesano" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la zanahoria y rállala fina, y pica la parte verde de la cebolleta. Calienta el aceite de ajo en una sartén a fuego medio, añade la zanahoria y la cebolleta y cocina 4 minutos, hasta que la zanahoria se ablande.",
@@ -816,7 +824,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "menta fresca", q: 4, u: "hoja" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en dados de 1,5 cm y cuécela en agua con sal 7-8 minutos, hasta que esté tierna pero entera.",
@@ -1030,7 +1039,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño limpio, pon un peso encima 10 minutos para que suelte el agua. Mientras, pela la patata y córtala en dados de 3 cm, corta la zanahoria en rodajas de 1 cm y pica la parte verde de la cebolleta. Corta el tofu en dados de 2,5 cm, sécalo y sálalo ligeramente.",

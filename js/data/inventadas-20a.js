@@ -70,7 +70,8 @@ window.RECETAS_SEED.push({
     { n: "atún en conserva", q: 2, u: "lata", nota: "latas pequeñas, escurrido" },
     { n: "aceitunas negras", q: 30, u: "g" },
     { n: "pimentón ahumado", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los huevos en un cazo con agua fría, lleva a ebullición y cuécelos 10 minutos. Pásalos a agua con hielo y pélalos.",
@@ -239,7 +240,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Coloca los tomates bocarriba en una bandeja con la cebolla en gajos y los ajos con piel, riega con 1 cucharada de aceite, sala y asa 30 minutos, hasta que los tomates estén arrugados y con los bordes tostados.",
+    "Precalienta el horno a 210 °C. Corta la cebolla en gajos. Coloca los tomates bocarriba en una bandeja con la cebolla y los ajos con piel, riega con 1 cucharada de aceite, sala y asa 30 minutos, hasta que los tomates estén arrugados y con los bordes tostados.",
     "Mientras, mezcla en un bol la ricotta, 40 g de parmesano, el huevo, el pan rallado, la ralladura de limón, la nuez moscada, sal y pimienta. Forma 14-16 bolitas del tamaño de una nuez con las manos húmedas y déjalas en la nevera para que cojan cuerpo.",
     "Pasa las verduras asadas a la cazuela con su jugo, exprimiendo los ajos fuera de la piel. Añade el caldo y la mitad de la albahaca y tritura hasta obtener una sopa lisa.",
     "Lleva la sopa a un hervor muy suave, prueba de sal y baja el fuego al mínimo: no debe borbotear fuerte o las albóndigas se romperán.",
@@ -333,12 +334,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pincha las berenjenas con un tenedor y ásalas enteras en una bandeja 40-45 minutos, dándoles la vuelta a mitad, hasta que la piel esté arrugada y la carne se hunda al presionarla.",
-    "Mientras, pica la cebolla y 2 ajos y póchalos en la cazuela con 1 cucharada de aceite a fuego medio-bajo 10 minutos, hasta que estén dorados y dulces.",
+    "Mientras, pica la cebolla y 2 ajos y póchalos en la cazuela con 1 cucharada de aceite a fuego medio-bajo 10 minutos, hasta que estén dorados y dulces. Mientras se pochan, pica el último ajo y el perejil.",
     "Abre las berenjenas, saca la pulpa con una cuchara y añádela a la cazuela con el caldo. Cuece 5 minutos, retira del fuego y tritura con el tahini, el zumo de medio limón, sal y pimienta hasta obtener una crema sedosa y ahumada.",
     "Dora los piñones en la sartén seca 2 minutos, hasta que estén dorados, y resérvalos. En la misma sartén, con el resto del aceite a fuego fuerte, saltea el cordero picado 5-6 minutos, deshaciéndolo, hasta que esté dorado y crujiente.",
     "Añade al cordero el último ajo picado, el comino, el pimentón y la canela, saltea 30 segundos y apaga. Sala y mezcla con los piñones.",
     "Tuesta la pita en el horno apagado o en la sartén 2 minutos y córtala en triángulos. Mezcla el yogur con la ralladura del limón y una pizca de sal.",
-    "Sirve la crema en platos hondos con una cucharada de yogur, el cordero con piñones por encima, perejil picado y la pita para mojar."
+    "Sirve la crema en platos hondos con una cucharada de yogur, el cordero con piñones por encima, el perejil picado y la pita para mojar."
   ],
   nutricion: { kcal: 775, prot: 33, hc: 51, grasa: 49 },
   etiquetas: ["mediterránea", "aromática", "al horno", "invierno"],
@@ -377,12 +378,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el hinojo en láminas finas (guarda las hojitas verdes), el puerro en rodajas y lamina los ajos. Rehógalos en la cazuela con 2 cucharadas de aceite y las semillas de hinojo a fuego medio 7 minutos, hasta que estén tiernos y fragantes.",
-    "Añade el tomate triturado y cocina 3 minutos. Incorpora las patatas peladas y cortadas en trozos irregulares (cascadas), dos tiras de piel de naranja sin la parte blanca y el caldo.",
-    "Lleva a ebullición y cuece a fuego medio 15 minutos, hasta que las patatas estén tiernas y empiecen a espesar el caldo. Mientras, corta la merluza en tacos grandes y sálalos. Prueba de sal.",
+    "Corta el hinojo en láminas finas (guarda las hojitas verdes), el puerro en rodajas y lamina los ajos. Rehógalos en la cazuela con 2 cucharadas de aceite y las semillas de hinojo a fuego medio 7 minutos, hasta que estén tiernos y fragantes. Mientras, pela las patatas y córtalas en trozos irregulares (cascadas).",
+    "Añade el tomate triturado y cocina 3 minutos. Incorpora las patatas, dos tiras de piel de naranja sin la parte blanca y el caldo.",
+    "Lleva a ebullición y cuece a fuego medio 15 minutos, hasta que las patatas estén tiernas y empiecen a espesar el caldo. Mientras, corta la merluza en tacos grandes y sálalos, y pica el perejil y las hojas de hinojo. Prueba de sal.",
     "Añade la merluza a la sopa con las aceitunas. Apaga a los 3 minutos, cuando el pescado esté opaco y se separe en lascas.",
     "Añade el zumo de media naranja, retira las tiras de piel y deja reposar 2 minutos tapado.",
-    "Sirve con perejil y las hojas de hinojo picadas, pimienta y la última cucharada de aceite crudo."
+    "Sirve con el perejil y las hojas de hinojo picados, pimienta y la última cucharada de aceite crudo."
   ],
   nutricion: { kcal: 575, prot: 33, hc: 54, grasa: 25 },
   etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "poco especiada", "bajo en colesterol"],
@@ -423,9 +424,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica fino la cebolla, la zanahoria, el apio y 2 ajos. Sofríelos en la cazuela con 2 cucharadas de aceite y las ramas de romero a fuego medio 8 minutos, hasta que estén blandos y empiecen a dorarse.",
-    "Añade el tomate concentrado y remueve 1 minuto. Incorpora los garbanzos y el caldo, lleva a ebullición y cuece 12 minutos a fuego suave.",
+    "Añade el tomate concentrado y remueve 1 minuto. Incorpora los garbanzos y el caldo, lleva a ebullición y cuece 12 minutos a fuego suave. Mientras, tuesta el pan en la sartén o tostadora, frótalo con el ajo restante partido por la mitad y ralla el parmesano.",
     "Retira el romero y tritura solo la mitad de la sopa con la batidora, de forma que quede cremosa pero con garbanzos enteros. Añade las espinacas y cuece 1 minuto, hasta que se ablanden. Prueba de sal.",
-    "Mientras, tuesta el pan en la sartén o tostadora y frótalo con el ajo restante partido por la mitad.",
     "Calienta el resto del aceite en un cazo pequeño con la guindilla desmenuzada 1 minuto a fuego bajo, sin que se queme.",
     "Pon una tostada en el fondo de cada plato, vierte la sopa encima, cubre con el parmesano rallado y termina con el aceite de guindilla y pimienta. Sirve la otra tostada al lado."
   ],
@@ -463,7 +463,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 40, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Parte los pimientos por la mitad, quita las semillas y colócalos con la piel hacia arriba en una bandeja con los tomates partidos, la cebolla en cuartos y los ajos. Riega con 1 cucharada de aceite, sala y asa 30 minutos, hasta que la piel de los pimientos esté ampollada y negra en algunos puntos.",
@@ -555,7 +556,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica finos la cebolla, la zanahoria, el apio y el ajo. Seca el pollo, sálalo y dóralo entero en la cazuela con 1 cucharada de aceite a fuego medio-alto 3 minutos por lado, hasta que tenga costra dorada. Sácalo a un plato.",
     "En la misma grasa, sofríe la cebolla, la zanahoria y el apio picados finos 5 minutos, rascando el fondo. Añade el ajo y la ralladura de medio limón y cocina 30 segundos.",
-    "Vierte el caldo, devuelve el pollo y cuece a fuego suave 12 minutos, hasta que esté hecho y tierno.",
+    "Vierte el caldo, devuelve el pollo y cuece a fuego suave 12 minutos, hasta que esté hecho y tierno. Mientras, pica el eneldo y ralla el parmesano.",
     "Saca el pollo, añade el orzo a la cazuela y cuece 8-9 minutos removiendo de vez en cuando, hasta que esté al dente. Mientras, desmenuza el pollo con dos tenedores.",
     "Devuelve el pollo con las espinacas y el zumo de medio limón y cuece 1 minuto, hasta que las espinacas se ablanden. Prueba de sal y limón.",
     "Sirve con el eneldo picado, el parmesano rallado, la ralladura restante, pimienta y un hilo del aceite restante."
@@ -592,14 +593,13 @@ window.RECETAS_SEED.push({
     { n: "jamón serrano", q: 4, u: "loncha", nota: "unos 60 g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el puerro en rodajas, lamina el ajo y rehógalos en la cazuela con 1 cucharada de aceite y las hojas de una rama de tomillo a fuego medio 5 minutos, hasta que el puerro esté blando. Mientras, pela la patata y córtala en dados pequeños.",
-    "Añade la patata, las alcachofas escurridas (reserva 2 para decorar) y el caldo. Cuece 15 minutos, hasta que la patata se deshaga al pincharla.",
+    "Añade la patata, las alcachofas escurridas (reserva 2 para decorar) y el caldo. Cuece 15 minutos, hasta que la patata se deshaga al pincharla. Mientras, coloca las lonchas de jamón en una sartén fría sin aceite y calienta a fuego medio 3-4 minutos, dándoles la vuelta, hasta que estén crujientes. Escúrrelas sobre papel y rómpelas en trozos. Dora en la misma sartén las alcachofas reservadas, cortadas en cuartos, 2 minutos.",
     "Incorpora las judías blancas y la ralladura de medio limón y cuece 2 minutos más. Tritura hasta obtener una crema muy fina; aclara con un poco de agua si queda espesa. Ajusta de sal y añade un chorrito de zumo de limón.",
-    "Mientras, coloca las lonchas de jamón en una sartén fría sin aceite y calienta a fuego medio 3-4 minutos, dándoles la vuelta, hasta que estén crujientes. Escúrrelas sobre papel y rómpelas en trozos.",
-    "Dora en la misma sartén las alcachofas reservadas, cortadas en cuartos, 2 minutos.",
     "Sirve la crema con las alcachofas doradas, el jamón crujiente, las hojas del otro tomillo, la ralladura restante y un hilo de aceite."
   ],
   nutricion: { kcal: 440, prot: 22, hc: 48, grasa: 18 },
@@ -636,7 +636,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Revisa los mejillones y descarta los que estén rotos o abiertos y no se cierren al golpearlos.",
+    "Revisa los mejillones y descarta los que estén rotos o abiertos y no se cierren al golpearlos. Separa las hojas del perejil de los tallos y pica unas y otros por separado.",
     "Lamina 3 ajos y dóralos en una cazuela ancha con el aceite y la guindilla a fuego medio-bajo 2 minutos, hasta que estén apenas dorados.",
     "Sube el fuego, añade el tomate y los tallos de perejil picados y cocina 5 minutos, hasta que espese un poco. Prueba de sal con cuidado: los mejillones ya aportan.",
     "Añade los mejillones y el vino, tapa y cocina a fuego fuerte 4-5 minutos, moviendo la cazuela, hasta que se abran. Descarta los que sigan cerrados.",
@@ -676,15 +676,16 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "pan de pita", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los huevos en agua fría, lleva a ebullición y cuécelos 10 minutos. Enfríalos en agua y pélalos.",
     "Mientras, pica la cebolla y los ajos y rehógalos en la cazuela con 1 cucharada de aceite a fuego medio 5 minutos, hasta que estén transparentes. Añade 1 cucharadita de comino y remueve 30 segundos.",
-    "Incorpora las habas y el caldo, lleva a ebullición y cuece 12 minutos. Añade los guisantes y cuece 3 minutos más, hasta que todo esté muy tierno.",
+    "Incorpora las habas y el caldo, lleva a ebullición y cuece 12 minutos. Añade los guisantes y cuece 3 minutos más, hasta que todo esté muy tierno. Mientras, pica el cilantro y tuesta la pita.",
     "Tritura hasta obtener una crema espesa y lisa, con el zumo de medio limón y sal. Si queda demasiado densa, aclárala con un poco de agua caliente.",
     "Calienta las 2 cucharadas de aceite restantes en un cazo pequeño 1 minuto, aparta del fuego y añade el pimentón y el resto del comino; remueve 10 segundos.",
-    "Sirve la bissara con los huevos en cuartos, el aceite de pimentón por encima, cilantro picado y la pita tostada en triángulos para mojar."
+    "Sirve la bissara con los huevos en cuartos, el aceite de pimentón por encima, el cilantro picado y la pita tostada en triángulos para mojar."
   ],
   nutricion: { kcal: 540, prot: 26, hc: 51, grasa: 26 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "poco especiada"],
@@ -717,13 +718,14 @@ window.RECETAS_SEED.push({
     { n: "burrata", q: 2, u: "ud", nota: "de unos 125 g" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca las burratas de la nevera para que se atemperen. Escalda los tomates 30 segundos en agua hirviendo, pélalos y trocéalos.",
     "Pica la cebolla y los ajos y rehógalos en la cazuela con 2 cucharadas de aceite a fuego medio-bajo 5 minutos, hasta que estén blandos sin dorarse.",
-    "Añade los tomates troceados, el tomate triturado, los tallos de albahaca atados y una pizca de sal. Cocina 10 minutos, aplastando el tomate con la cuchara, hasta que espese.",
-    "Incorpora el caldo caliente y el pan en trozos, retira los tallos de albahaca y cuece 8 minutos a fuego suave, removiendo con varillas, hasta que el pan se deshaga y la sopa quede espesa como unas gachas.",
+    "Añade los tomates troceados, el tomate triturado, los tallos de albahaca atados y una pizca de sal. Cocina 10 minutos, aplastando el tomate con la cuchara, hasta que espese. Mientras, trocea el pan.",
+    "Incorpora el caldo caliente y el pan, retira los tallos de albahaca y cuece 8 minutos a fuego suave, removiendo con varillas, hasta que el pan se deshaga y la sopa quede espesa como unas gachas.",
     "Apaga, añade la mitad de las hojas de albahaca rotas, prueba de sal y deja reposar 5 minutos tapada.",
     "Sirve tibia con una burrata abierta en el centro de cada plato, el resto de la albahaca, pimienta y la última cucharada de aceite crudo."
   ],
@@ -761,14 +763,15 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Pela las zanahorias, córtalas en bastones gruesos y ponlas en una bandeja con la cebolla en gajos y los ajos. Mezcla con 1,5 cucharadas de aceite, el comino y sal.",
+    "Precalienta el horno a 210 °C. Pela las zanahorias, córtalas en bastones gruesos y la cebolla en gajos, y ponlas en una bandeja con los ajos. Mezcla con 1,5 cucharadas de aceite, el comino y sal.",
     "En la otra mitad de la bandeja (o en otra), coloca los garbanzos mezclados con 1 cucharada de aceite, el ras el hanout y una pizca de sal. Asa todo 35 minutos, removiendo a mitad, hasta que las zanahorias estén tiernas y caramelizadas y los garbanzos crujientes.",
+    "Mientras, mezcla en un bol el yogur con el tahini, la ralladura del limón, una pizca de sal y una cucharada de agua, hasta que quede una salsa fluida, y pica el cilantro.",
     "Pasa las zanahorias, la cebolla y los ajos pelados a la cazuela con el caldo. Calienta 3 minutos y tritura con el zumo de medio limón hasta obtener una crema muy lisa. Prueba de sal y pimienta.",
-    "En un bol, mezcla el yogur con el tahini, la ralladura del limón, una pizca de sal y una cucharada de agua, hasta que quede una salsa fluida.",
-    "Sirve la crema con una espiral de salsa de yogur y tahini, los garbanzos crujientes, cilantro picado y un hilo del aceite restante."
+    "Sirve la crema con una espiral de salsa de yogur y tahini, los garbanzos crujientes, el cilantro picado y un hilo del aceite restante."
   ],
   nutricion: { kcal: 610, prot: 19, hc: 59, grasa: 33 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "invierno"],
@@ -855,13 +858,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Frota los contramuslos con el pimentón, sal, pimienta y 1 cucharada de aceite.",
-    "Coloca en una bandeja los tomates partidos, el pimiento en tiras, la cebolla en gajos, los ajos con piel y el tomillo. Riega con el resto del aceite, sala y pon el pollo encima. Asa 50 minutos, hasta que el pollo esté dorado y las verduras tostadas en los bordes.",
+    "Precalienta el horno a 200 °C. Frota los contramuslos con el pimentón, sal, pimienta y 1 cucharada de aceite. Parte los tomates, corta el pimiento en tiras y la cebolla en gajos.",
+    "Coloca en una bandeja los tomates, el pimiento, la cebolla, los ajos con piel y el tomillo. Riega con el resto del aceite, sala y pon el pollo encima. Asa 50 minutos, hasta que el pollo esté dorado y las verduras tostadas en los bordes.",
     "Saca el pollo y deja que se temple. Exprime los ajos confitados fuera de la piel y pasa todas las verduras con el jugo de la bandeja a la cazuela (desecha los tallos de tomillo).",
     "Añade un poco de caldo a la bandeja caliente, rasca bien los restos tostados y vuélcalo en la cazuela con el resto del caldo. Tritura la mitad de las verduras para dar cuerpo y deja el resto en trozos.",
-    "Deshuesa el pollo, desmenúzalo y echa los huesos a la cazuela. Cuece a fuego suave 20 minutos para que el caldo coja sabor y retira los huesos.",
+    "Deshuesa el pollo, desmenúzalo y echa los huesos a la cazuela. Cuece a fuego suave 20 minutos para que el caldo coja sabor y retira los huesos. Mientras, pica el perejil.",
     "Lleva a ebullición, añade los fideos y el pollo desmenuzado y cuece 4-5 minutos, hasta que los fideos estén tiernos. Ajusta de sal.",
-    "Sirve con perejil picado, ralladura de limón y un chorrito de su zumo en cada plato."
+    "Sirve con el perejil picado, ralladura de limón y un chorrito de su zumo en cada plato."
   ],
   nutricion: { kcal: 680, prot: 44, hc: 59, grasa: 30 },
   etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "invierno", "poco especiada"],
@@ -901,11 +904,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y lamina los ajos. Rehógalos en la cazuela con 1 cucharada de aceite a fuego medio 4 minutos, hasta que estén blandos.",
-    "Añade los tomates cherry partidos por la mitad, las alcaparras y el orégano y cocina 3 minutos, aplastando algunos tomates con la cuchara para que suelten su jugo.",
-    "Incorpora las alubias y el caldo, lleva a ebullición y cuece 6 minutos. Aplasta un cucharón de alubias contra la pared de la cazuela para espesar el caldo.",
+    "Pica la cebolla y lamina los ajos. Rehógalos en la cazuela con 1 cucharada de aceite a fuego medio 4 minutos, hasta que estén blandos. Mientras, parte los tomates cherry por la mitad.",
+    "Añade los tomates cherry, las alcaparras y el orégano y cocina 3 minutos, aplastando algunos tomates con la cuchara para que suelten su jugo.",
+    "Incorpora las alubias y el caldo, lleva a ebullición y cuece 6 minutos; mientras, pica el perejil. Aplasta un cucharón de alubias contra la pared de la cazuela para espesar el caldo.",
     "Añade las espinacas y cuece 1 minuto, hasta que se ablanden. Apaga, incorpora el atún en lascas grandes, la ralladura del limón y el zumo de medio. Prueba de sal.",
-    "Tuesta el pan y sirve la sopa con perejil picado, pimienta y un hilo del aceite restante, con la tostada al lado."
+    "Tuesta el pan y sirve la sopa con el perejil picado, pimienta y un hilo del aceite restante, con la tostada al lado."
   ],
   nutricion: { kcal: 575, prot: 40, hc: 57, grasa: 21 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -938,14 +941,15 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 1, u: "rebanada" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos en agua 10 minutos desde que hierva, enfríalos en agua fría y pélalos.",
-    "Mientras, rehoga el puerro en rodajas y 1 ajo laminado en la cazuela con 1 cucharadita de aceite a fuego medio 4 minutos.",
-    "Añade el brócoli en ramilletes (y el tallo pelado en rodajas) y el caldo. Cuece tapado 7 minutos, solo hasta que esté tierno y siga verde brillante.",
-    "Tritura con las almendras, la ralladura del limón, un chorrito de su zumo, sal y pimienta hasta obtener una crema lisa.",
-    "Para las migas, desmenuza el pan en trocitos y dóralo en la sartén con el resto del aceite y el otro ajo picado fino a fuego medio 3 minutos, removiendo, hasta que esté dorado y crujiente.",
+    "Mientras, corta el puerro en rodajas, lamina 1 ajo y rehógalos en la cazuela con 1 cucharadita de aceite a fuego medio 4 minutos. Mientras se rehogan, corta el brócoli en ramilletes y el tallo pelado en rodajas.",
+    "Añade el brócoli y el caldo. Cuece tapado 7 minutos, solo hasta que esté tierno y siga verde brillante.",
+    "Mientras, haz las migas: desmenuza el pan en trocitos, pica fino el otro ajo y dóralos en la sartén con el resto del aceite a fuego medio 3 minutos, removiendo, hasta que estén dorados y crujientes. Pica los huevos duros.",
+    "Tritura el brócoli con su caldo, las almendras, la ralladura del limón, un chorrito de su zumo, sal y pimienta hasta obtener una crema lisa.",
     "Sirve la crema con el huevo duro picado, las migas al ajo y un poco más de ralladura de limón."
   ],
   nutricion: { kcal: 465, prot: 23, hc: 35, grasa: 26 },
@@ -986,7 +990,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla y lamina los ajos. Rehógalos en la cazuela con 1 cucharada de aceite a fuego medio 4 minutos, hasta que la cebolla esté transparente y el ajo apenas dorado.",
     "Añade el tomate triturado y el orégano y cocina 4 minutos, hasta que el tomate se oscurezca un poco.",
-    "Vierte el caldo y las judías y lleva a ebullición. Prueba de sal.",
+    "Vierte el caldo y las judías y lleva a ebullición; mientras, ralla el parmesano. Prueba de sal.",
     "Añade los tortellini y cuécelos el tiempo que indique el paquete (normalmente 3-4 minutos), hasta que floten y estén tiernos.",
     "Apaga, incorpora las espinacas y la mitad de la albahaca y remueve hasta que las espinacas se ablanden con el calor residual.",
     "Sirve con el parmesano rallado, el resto de la albahaca, pimienta y un hilo del aceite restante."
@@ -1066,7 +1070,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla y 2 ajos. Seca bien el calamar con papel de cocina y saltéalo en la cazuela con 1 cucharada de aceite a fuego fuerte 2-3 minutos, hasta que pierda el agua y se dore ligeramente. Sácalo a un plato.",

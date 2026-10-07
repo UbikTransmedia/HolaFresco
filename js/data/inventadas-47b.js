@@ -33,7 +33,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo tapado con 1,5 veces su volumen de agua 12 minutos a fuego mínimo; reposa 5 minutos sin destapar.",
@@ -78,7 +79,8 @@ window.RECETAS_SEED.push({
     { n: "granada", q: 0.5, u: "ud" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz frotándolo entre los dedos hasta que el agua salga clara y déjalo 30 minutos en remojo con sal: así los granos se alargan y no se rompen.",
@@ -126,7 +128,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 100, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hierve el tempeh 8 minutos; mientras, pica la cebolla, el ajo, el jengibre y el chile. Escurre el tempeh escúrrelo y dóralo en la sartén con el aceite a fuego medio-alto 5 minutos. Pásalo a la slow cooker con el boniato.",
@@ -170,7 +173,8 @@ window.RECETAS_SEED.push({
     { n: "mirin", q: 1, u: "cda" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 1, u: "cdta" }
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el kombu y las shiitake secas en una cazuela con 900 ml de agua fría y déjalos en remojo 20 minutos. El agua fría extrae el umami poco a poco. Mientras, corta las setas frescas en tiras y la cebolleta en aros finos.",
@@ -221,7 +225,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "caldo de verduras", q: 300, u: "ml", nota: "caliente" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata la soja en el caldo caliente con una pizca de sal 15 minutos y escúrrela apretando bien. Guarda el caldo. Mientras se hidrata, pica la cebolla y ralla los tomates.",
@@ -267,7 +272,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "vinagre de Jerez", q: 1.5, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Desala los altramuces 20 minutos en agua fría y pélalos apretándolos entre los dedos. Sécalos muy bien con un paño: cuanta menos agua, más crujientes.",
@@ -316,7 +322,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y cuécelas en una cazuela con 900 ml de agua, la mitad de la cúrcuma y los cacahuetes 20 minutos, hasta que se deshagan. Bátelas con unas varillas para tener un dal fino.",
@@ -360,7 +367,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para el orzo. Mientras, tritura los anacardos escurridos con el ajo, la levadura nutricional, el zumo de medio limón, 120 ml de agua y sal hasta que la crema esté completamente lisa, 1-2 minutos. El remojo ablanda el anacardo para que quede sedosa, sin grumos.",
@@ -406,7 +414,8 @@ window.RECETAS_SEED.push({
     { n: "ajo en polvo", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el boniato con piel en gajos de 2 cm, mézclalo con media cucharada de aceite, sal y pimienta y cocínalo en la airfryer a 190 °C 12 minutos.",
@@ -450,7 +459,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "canónigos", q: 60, u: "g", opcional: true, nota: "para servir" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la zanahoria y córtala en rodajas finas, corta la cebolleta en aros y pela los ajos. Sala el tofu y dóralo en una cazuela con 1 cucharada de aceite a fuego medio-alto 6-8 minutos, girándolo, hasta que tenga costra por varias caras. Sácalo: dorado aguanta el escabeche sin deshacerse.",
@@ -496,7 +506,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pincha los boniatos enteros con un tenedor y ásalos sobre papel de horno 40 minutos, hasta que estén muy blandos y caramelizados por debajo. Asados quedan más dulces y menos aguados que hervidos.",
@@ -545,7 +556,8 @@ window.RECETAS_SEED.push({
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y déjalo en remojo 10 minutos. Mientras, pica la cebolla, el ajo, el jengibre y el chile.",
@@ -633,7 +645,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 1000, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre las alubias del remojo, ponlas en una cazuela con agua limpia y hiérvelas a borbotones 10 minutos. Mientras, pica la cebolla, la zanahoria y el apio y lamina los ajos. Es imprescindible: la olla lenta no llega a la temperatura necesaria para destruir las lectinas de las alubias crudas, que sientan mal.",
@@ -677,7 +690,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 2, u: "ud" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las habas 3 minutos en agua hirviendo con sal y pásalas a agua con hielo. Si son grandes, pélalas: la piel interior es dura y amarga; las baby no lo necesitan.",
@@ -723,7 +737,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz largo", q: 100, u: "g" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hierve el tempeh 8 minutos, escúrrelo y mézclalo con el zumo de media lima, el comino y una pizca de sal. Déjalo 10 minutos: el ácido y la sal penetran mejor en el tempeh todavía caliente.",
@@ -767,7 +782,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 1, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara un bol con agua y el zumo de medio limón. Limpia las alcachofas quitando las hojas exteriores duras hasta llegar a las tiernas y amarillas, corta las puntas y pela el tallo. Pártelas en cuartos, quita la pelusa del centro y échalas al agua con limón según las cortes: el ácido evita que se oxiden y ennegrezcan.",
@@ -811,7 +827,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la yuca en bastones gruesos, quítale la fibra central y cuécela en agua fría con sal; desde que hierva, 15-20 minutos, hasta que empiece a abrirse. Es imprescindible cocerla antes: cruda es tóxica y nunca se debe dorar sin hervir.",
@@ -855,7 +872,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sésamo", q: 1, u: "cdta" }
+    { n: "sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el miso con el mirin hasta tener una pasta lisa y unta con ella los filetes de tofu. Déjalos marinar 15 minutos (o hasta una noche en la nevera): la sal del miso penetra y sazona el tofu por dentro.",
@@ -898,7 +916,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 0.5, u: "cdta" },
     { n: "vinagre de arroz", q: 1, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave, o de girasol" }
+    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave, o de girasol" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo tapado con 1,5 veces su volumen de agua 12 minutos a fuego mínimo; reposa 5 minutos. Mientras, pica el ajo y el jengibre, trocea las guindillas y corta la cebolleta en aros.",
@@ -940,7 +959,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 70, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo tapado con 1,5 veces su volumen de agua 12 minutos a fuego mínimo; reposa 5 minutos.",
@@ -990,7 +1010,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 500, u: "ml" },
     { n: "pan", q: 2, u: "rebanada", nota: "para mojar" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y los ajos. Dora el seitán en una cazuela con 1 cucharada de aceite a fuego medio-alto 4 minutos. Añade las setas y saltéalas 4 minutos más, hasta que se doren: las setas de cardo dan la textura melosa y gelatinosa que recuerda a los callos. Sácalo todo.",
@@ -1084,7 +1105,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga el freekeh y cuécelo en el triple de agua con sal 15-20 minutos (o lo que indique el paquete), hasta que esté tierno pero con mordida. Escúrrelo y extiéndelo en una bandeja para que se enfríe y quede suelto.",
@@ -1129,7 +1151,8 @@ window.RECETAS_SEED.push({
     { n: "romero fresco", q: 1, u: "rama" },
     { n: "caldo de verduras", q: 600, u: "ml", nota: "caliente" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las alcachofas hasta llegar a las hojas tiernas, córtalas en cuartos y déjalas en agua con el zumo del limón para que no se oxiden. Corta las setas y el pimiento en tiras, pica el ajo y ralla el tomate. Tuesta el azafrán unos segundos en la paella seca, machácalo y disuélvelo en el caldo caliente.",

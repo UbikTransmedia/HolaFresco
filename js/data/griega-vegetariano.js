@@ -121,7 +121,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el calabacín con la parte gruesa del rallador, mézclalo con media cucharadita de sal y déjalo en un colador 15 minutos.",
@@ -213,7 +214,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 25-30 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas, pélalas en caliente y cháfalas con un tenedor en un bol, sin dejar grumos grandes. Deja que se enfríen al menos 15 minutos: en caliente la masa queda pegajosa.",
@@ -476,7 +478,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud", nota: "solo la ralladura" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta el caldo y mantenlo caliente a fuego mínimo. Limpia las setas con un paño y córtalas en trozos grandes; pica fina la chalota y el ajo.",
@@ -571,7 +574,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla y el ajo. Pica los champiñones a cuchillo en trozos del tamaño de una lenteja (o en la picadora con pulsos cortos) y las nueces algo más gruesas.",
@@ -702,7 +706,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud", nota: "solo la ralladura" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta y el eneldo. Derrite la mitad de la mantequilla en una sartén amplia con tapa, a fuego medio. Arruga las hojas de filo en trozos irregulares, échalas y tuéstalas 2–3 minutos, removiendo, hasta que estén doradas y crujientes como copos. Sácalas a un plato.",

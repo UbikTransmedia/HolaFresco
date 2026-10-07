@@ -87,7 +87,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 40, u: "g" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los callos en una olla con agua fría y el vinagre, lleva a ebullición y cuécelos 10 minutos; mientras, pica la cebolla, la zanahoria y el apio en dados pequeños. Escúrrelos, enjuágalos con agua fría y córtalos en tiras de 1 cm de ancho y 5 cm de largo. Este blanqueado elimina olores y deja la sopa limpia.",
@@ -133,7 +134,8 @@ window.RECETAS_SEED.push({
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "caldo de carne", q: 1000, u: "ml" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pan en dados de 1 cm y ponlo en un bol amplio. Bate los huevos con la leche, la nuez moscada y pimienta, viértelo sobre el pan, mezcla y deja que se empape 15 minutos, removiendo una vez.",
@@ -512,7 +514,8 @@ window.RECETAS_SEED.push({
     { n: "gambas rojas", q: 300, u: "g", nota: "crudas y enteras, unas 10–12; o langostinos" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el caldo a hervir y, mientras, corta el calabacín en rodajas finas, la patata en dados de 1 cm y la cebolleta en juliana.",
@@ -604,7 +607,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 20, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lamina los champiñones y pica las chalotas y el ajo. Corta los contramuslos en dados de 2 cm, salpimiéntalos y espolvoréalos con la harina, sacudiendo el exceso.",
@@ -737,7 +741,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, la zanahoria y el ajo. En la cazuela, con el aceite a fuego fuerte, extiende la ternera y déjala 2 minutos sin tocar para que se tueste; después desmenúzala y dórala 4 minutos más.",
@@ -780,7 +785,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia el puerro y córtalo en rodajas; corta la patata en dados de 1 cm. En la cazuela, con el aceite, rehoga el puerro 4 minutos, añade la patata y el caldo y cuece 10 minutos, hasta que la patata esté tierna.",
@@ -823,7 +829,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "pecorino romano", q: 20, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga las lentejas en un colador hasta que el agua salga casi transparente.",
@@ -868,7 +875,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud", nota: "solo la ralladura" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto", nota: "con cuidado: el bacalao ya es salado" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla la coliflor con 1 cucharada de aceite y una pizca de sal y ásala en la airfryer a 190 °C 15–18 minutos, agitando a mitad, hasta que tenga los bordes bien tostados. Reserva 6 ramilletes pequeños para decorar. Mientras, pon las pasas en agua tibia, pica la cebolla y el perejil y corta la patata en dados pequeños.",

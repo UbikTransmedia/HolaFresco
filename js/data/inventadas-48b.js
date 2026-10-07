@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal y precalienta el horno a 200 °C. Cuando hierva, cuece la cebada 30 minutos, como la pasta, hasta que esté tierna pero con su característico punto elástico.",
@@ -76,7 +77,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de carne", q: 300, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las carrilladas de la telilla y la grasa exterior, sécalas y salpimiéntalas. Lava la cebada. Corta la cebolla en juliana y la zanahoria en rodajas y pica el ajo.",
@@ -120,7 +122,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la espelta y cuécela en abundante agua con sal 25 minutos (la integral, en remojo desde la víspera y 45 minutos), hasta que esté tierna pero con un mordisco firme. Escúrrela.",
@@ -210,7 +213,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, ralla el jengibre y pela y trocea la calabaza y las zanahorias. Pocha la cebolla y el jengibre con el aceite a fuego medio 5 minutos. Añade la calabaza y las zanahorias y el comino, y rehoga 3 minutos.",
@@ -255,7 +259,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 800, u: "ml" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz rojo y, si puedes, déjalo en remojo 1 hora. Al ser integral conserva su salvado rojo y tarda 35-40 minutos, el doble que un arroz blanco; el remojo le resta unos 10.",
@@ -301,7 +306,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre las azukis del remojo y cuécelas en 1 litro de agua 40-45 minutos, hasta que se aplasten fácilmente entre dos dedos: para refrito deben quedar más blandas que para ensalada. Sala al final y guarda un vaso del caldo.",
@@ -388,7 +394,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hierve las habas 2 minutos en agua con sal y enfríalas en agua con hielo para fijar el color verde.",
@@ -436,7 +443,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las habas secas peladas en remojo 12 horas en abundante agua: pueden llegar a triplicar su volumen.",
@@ -478,7 +486,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 2, u: "ud" },
     { n: "chile fresco", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y cuécelas en 3 veces su volumen de agua a hervor suave 20-22 minutos, hasta que estén tiernas pero enteras. Sala en los últimos 5 minutos.",
@@ -520,7 +529,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 40, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las zanahorias en bastones gruesos, mézclalas con media cucharada de aceite, el comino en grano y sal, y ásalas 25 minutos, hasta que estén tiernas y caramelizadas en los bordes.",
@@ -562,7 +572,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga los altramuces y déjalos 30 minutos en agua fría para quitarles el exceso de sal; mientras, lamina los ajos y pica el perejil. Pélalos apretándolos entre los dedos (opcional, pero la piel es dura) y sécalos con papel.",
@@ -607,7 +618,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre los garbanzos negros del remojo y échalos en una olla con agua hirviendo, el laurel, el romero, media cebolla, el apio y la zanahoria. Cuece tapado a fuego suave 2 horas (35-40 minutos en olla exprés), hasta que estén tiernos. Sala al final y guarda el caldo.",
@@ -744,7 +756,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo frotándolo bajo el grifo hasta que el agua salga clara y escúrrelo bien. Calienta el caldo. Trocea las setas y pica las chalotas, el ajo y el perejil.",
@@ -877,7 +890,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el trigo sarraceno como la pasta, en abundante agua hirviendo con sal, 8-10 minutos; pruébalo desde el minuto 8: debe estar tierno pero con los granos enteros. Escúrrelo y extiéndelo en una bandeja para que se temple sin pasarse.",
@@ -921,7 +935,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece la cebada en abundante agua con sal 30 minutos, hasta que esté tierna con un punto elástico. Escúrrela, pásala por agua fría y escúrrela muy bien: el agua sobrante diluiría el aliño.",

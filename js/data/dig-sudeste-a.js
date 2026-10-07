@@ -36,7 +36,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "hoja de plátano", q: 2, u: "ud", opcional: true, nota: "o solo papel de aluminio" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava el arroz hasta que el agua salga casi clara y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo sin destapar.",
@@ -82,7 +83,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo sin destapar.",
@@ -127,7 +129,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -171,7 +174,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -218,7 +222,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "tomate pera", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta el coco rallado en una sartén seca a fuego medio-bajo 3-4 minutos, removiendo, hasta que esté dorado claro y huela a galleta. Resérvalo en un bol.",
@@ -261,7 +266,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 30, u: "g" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "salsa de pescado", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si los jureles no vienen abiertos, ábrelos por el lomo en libro, retira la espina central y las vísceras, lávalos y sécalos. Machaca la pimienta en el mortero, sin dejarla en polvo.",
@@ -305,7 +311,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -347,7 +354,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 2, u: "cdta" },
     { n: "fideos de arroz", q: 120, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enciende el grill del horno a 230 °C con la bandeja en la parte alta.",
@@ -391,7 +399,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados, sin sal" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -437,7 +446,8 @@ window.RECETAS_SEED.push({
     { n: "pimiento rojo", q: 60, u: "g" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la parte tierna de la hierba limón y ralla el jengibre. Mézclalos con el zumo de una lima, el de naranja, 2 cucharadas de vinagre, el aceite de ajo, una cucharadita de sal y pimienta. Marina el pollo en esta mezcla al menos 1 hora en la nevera (o toda la noche).",
@@ -481,7 +491,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -528,7 +539,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Haz el kroeung: trocea la parte tierna de la hierba limón, la cúrcuma y el jengibre pelados y las hojas de lima sin el nervio, y tritúralos con el aceite de ajo hasta formar una pasta lo más fina posible.",
@@ -573,7 +585,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "fideos de arroz", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita la piel y la grasa visible de los muslos de pato tirando con un papel de cocina. Separa cada muslo en dos por la articulación. Ralla la mitad del jengibre y mézclalo con los muslos, la salsa de pescado, la mitad del azúcar, el aceite de ajo y pimienta, y deja reposar 15 minutos. Mientras, corta el resto del jengibre en láminas y saca tres tiras de piel de naranja sin la parte blanca.",
@@ -617,7 +630,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el arroz prensado: cuece el arroz con 300 ml de agua y una pizca de sal 18 minutos tapado a fuego suave, hasta que esté muy tierno y pegajoso. Pásalo a un táper pequeño forrado con film, aplánalo con una cuchara mojada y presiona con otro recipiente con peso encima. Déjalo enfriar al menos 30 minutos.",
@@ -661,7 +675,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar de palma", q: 2, u: "cdta", nota: "o azúcar moreno" },
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -704,7 +719,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pimienta blanca", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita la piel y la grasa visible de los muslos, hazles dos cortes hasta el hueso y sálalos ligeramente.",
@@ -750,7 +766,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela el boniato, córtalo en dados de 2 cm, mézclalo con la mitad del aceite de girasol y sal y ásalo en una bandeja 25 minutos, hasta que esté dorado en los bordes.",
@@ -796,7 +813,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados, sin sal" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las hojas de parra en un bol con agua templada 10 minutos para quitarles la salmuera, escúrrelas y sécalas con papel de cocina. Corta el rabito.",
@@ -840,7 +858,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "salsa de pescado", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los huevos en una cazuela pequeña, cúbrelos con agua fría y cuécelos 8 minutos desde que hierva. Pásalos a agua fría y, cuando se puedan tocar, golpéalos suavemente por toda la superficie con el dorso de una cuchara para cuartear la cáscara sin pelarla.",
@@ -885,7 +904,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 2, u: "cda" },
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -932,7 +952,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cacahuetes", q: 15, u: "g", nota: "tostados, sin sal" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la mitad del jengibre en láminas y ralla el resto. Escalfa el pollo: ponlo en un cazo con agua fría, el jengibre en láminas y sal, lleva a ebullición suave, tapa, apaga el fuego y deja 15 minutos. Sácalo, deja que temple y desmígalo en hebras.",
@@ -977,7 +998,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
     { n: "arroz jazmín", q: 100, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 150 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -1022,7 +1044,8 @@ window.RECETAS_SEED.push({
     { n: "arroz glutinoso", q: 140, u: "g", nota: "en remojo desde la víspera" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "lechuga romana", q: 4, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el arroz glutinoso remojado, extiéndelo sobre un paño limpio húmedo dentro de una vaporera o un colador sobre una cazuela con agua hirviendo, tapa y cuécelo 25 minutos, dándole la vuelta a mitad, hasta que los granos estén translúcidos y tiernos.",
@@ -1068,7 +1091,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "lechuga romana", q: 4, u: "hoja" },
     { n: "albahaca tailandesa", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el tofu, envuélvelo en un paño y ponle un peso encima 10 minutos para que suelte agua. Córtalo en 8 triángulos o rectángulos de 2 cm de grosor.",
@@ -1114,7 +1138,8 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "salsa de pescado", q: 1, u: "cdta", opcional: true, nota: "o una pizca de sal para que sea vegana" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el tempeh en 8 lonchas de 1 cm y cuécelo al vapor (o en un colador sobre agua hirviendo, tapado) 10 minutos: se ablanda, pierde el amargor y absorbe mejor la marinada.",

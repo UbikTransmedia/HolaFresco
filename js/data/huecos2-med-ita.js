@@ -71,7 +71,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 2, u: "ud", nota: "bien maduros, para el coulis" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pimiento en tiras finas y el calabacín en dados pequeños, y lamina un ajo. Prepara los rellenos en la misma sartén de 20 cm, uno detrás de otro, cada uno con un hilo de aceite: el pimiento, 10 minutos a fuego medio hasta que esté blando y dulce; el calabacín con el tomillo, 5 minutos hasta que pierda el agua; y las espinacas con el ajo laminado, 2 minutos hasta que se encojan. Escurre bien las espinacas apretándolas: el agua rompe la tortilla. Pica las aceitunas con la mitad de la albahaca.",
@@ -114,7 +115,8 @@ window.RECETAS_SEED.push({
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "cebolla morada", q: 0.25, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal y, mientras, pica el perejil y ralla el ajo. Cuece los fideos 1 minuto menos de lo que indique el paquete (unos 2 minutos): terminarán de hacerse en la sartén. Escúrrelos, pásalos por agua fría para cortar la cocción y déjalos escurrir bien: el agua que quede impediría que la froġa se dore.",
@@ -245,7 +247,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, corta las zanahorias en rodajas gruesas y aplasta los ajos. Seca bien los tacos de seitán con papel de cocina. Calienta 1 cucharada de aceite en una cazuela a fuego medio-alto y dóralos 5-6 minutos, girándolos, hasta que tengan costra tostada por todas las caras. Sácalos: el seitán no tiene grasa propia y todo su sabor de guiso sale de este dorado.",
@@ -290,7 +293,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 2 cm y cuécelo 10 minutos en agua hirviendo con sal. Este paso le quita el amargor y abre sus poros para que luego absorba la salsa. Mientras, corta la cebolla en pluma fina y lamina los ajos.",
@@ -336,7 +340,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima (una sartén con un bote) y prénsalo 15 minutos mientras preparas la verdura. Cuanta menos agua tenga, mejor costra hará.",
@@ -378,7 +383,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 300, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en trozos de 3 cm. Separa las pencas de las acelgas de las hojas: corta las pencas en trozos de 2 cm y las hojas en tiras anchas.",
@@ -422,7 +428,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 2, u: "hoja" },
     { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el caldo corto: pon a hervir 1 litro de agua con el laurel, el tomillo, la piel de medio limón y 1 cucharadita de sal. Mientras se calienta, corta el tofu en 4 bloques gruesos, pela las zanahorias y córtalas en bastones, quita los extremos a las judías verdes y pela los ajos.",
@@ -509,7 +516,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 6, u: "cda" },
     { n: "pimienta negra en grano", q: 0.5, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prensa el tofu 15 minutos entre papel de cocina con un peso encima; mientras, corta las cebollas en juliana fina y lamina los ajos. Corta el tofu en lonchas de 1 cm y el calabacín en rodajas de 1 cm al bies.",
@@ -555,7 +563,8 @@ window.RECETAS_SEED.push({
     { n: "polenta instantánea", q: 100, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en triángulos de 1 cm de grosor y cuécelo 10 minutos en agua hirviendo con sal para quitarle el amargor. Escúrrelo y sécalo.",
@@ -600,7 +609,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 30, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja las pasas en agua templada 10 minutos; mientras, corta las cebollas en medias lunas de 5 mm y pica la mitad de la menta. Tuesta los piñones en una sartén seca a fuego medio, 2-3 minutos, moviéndolos, hasta que estén dorados; sácalos enseguida porque se queman en segundos.",

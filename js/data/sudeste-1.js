@@ -37,7 +37,8 @@ window.RECETAS_SEED.push({
     { n: "concentrado de tamarindo", q: 1, u: "cdta", nota: "o el zumo de media lima" },
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "aceite de girasol", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas rojas en un colador hasta que el agua salga casi clara. Ponlas en una cazuela con 800 ml de agua, la cúrcuma y el jengibre en láminas y cuécelas 15 minutos a fuego medio, retirando la espuma, hasta que empiecen a deshacerse.",
@@ -85,7 +86,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 4, u: "rebanada" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de girasol", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre y enjuaga las habas. Aplasta un tercio con un tenedor: darán cuerpo al guiso.",
@@ -132,7 +134,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pollo en trozos grandes y salpimiéntalo. Pela el plátano y córtalo al bies en rodajas de 2 cm; pela la patata y córtala en cuartos; corta la col en gajos, despunta las judías, pica la cebolla, lamina el ajo y corta el chorizo en rodajas.",
@@ -178,7 +181,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "chile fresco", q: 1, u: "ud", opcional: true, nota: "para servir" }
+    { n: "chile fresco", q: 1, u: "ud", opcional: true, nota: "para servir" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la costilla en la cazuela, cúbrela con agua fría y llévala a ebullición; deja hervir 3 minutos, escurre y enjuágala. Así el caldo queda limpio.",
@@ -224,7 +228,8 @@ window.RECETAS_SEED.push({
     { n: "concentrado de tamarindo", q: 1, u: "cdta" },
     { n: "chile en polvo", q: 0.5, u: "cdta" },
     { n: "azúcar", q: 0.5, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "En un bol, bate la harina de garbanzo con la cúrcuma, 1 cucharadita de sal y 250 ml de agua hasta que no quede ningún grumo. Engrasa ligeramente un táper rectangular de unos 15 × 20 cm.",
@@ -318,7 +323,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "lima", q: 0.5, u: "ud" },
-    { n: "chile fresco", q: 1, u: "ud", opcional: true }
+    { n: "chile fresco", q: 1, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; déjalo reposar tapado 5 minutos.",
@@ -367,7 +373,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
@@ -411,7 +418,8 @@ window.RECETAS_SEED.push({
     { n: "cacahuetes", q: 20, u: "g" },
     { n: "albahaca tailandesa", q: 0.5, u: "manojo", nota: "o albahaca fresca" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "chile fresco", q: 1, u: "ud", opcional: true }
+    { n: "chile fresco", q: 1, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado 5 minutos.",
@@ -454,7 +462,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "salsa sambal", q: 1, u: "cdta", opcional: true, nota: "para servir" }
+    { n: "salsa sambal", q: 1, u: "cdta", opcional: true, nota: "para servir" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta el aceite en la cazuela a fuego medio y fríe la pasta de laksa 3 minutos, removiendo, hasta que oscurezca y suelte un aceite rojizo.",
@@ -497,7 +506,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra en grano", q: 1, u: "cdta" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "cebolleta", q: 1, u: "ud" }
+    { n: "cebolleta", q: 1, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
@@ -543,7 +553,8 @@ window.RECETAS_SEED.push({
     { n: "hoja de lima kaffir", q: 2, u: "hoja" },
     { n: "concentrado de tamarindo", q: 1, u: "cdta" },
     { n: "aceite de girasol", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados de 2 cm. Tritura las chalotas, el ajo, el jengibre, los chiles (sin semillas si lo quieres suave), la cúrcuma y el cilantro molido con 3 cucharadas de agua hasta obtener una pasta fina: es el bumbu.",
@@ -586,7 +597,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca las rodajas de caballa con papel de cocina. Pica la chalota y el ajo. Marina el pescado 15 minutos con 1 cucharada de salsa de pescado, 1 cucharadita de azúcar, la mitad de la chalota y el ajo y mucha pimienta.",
@@ -631,7 +643,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cda" },
     { n: "fideos de arroz", q: 120, u: "g", nota: "finos" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
-    { n: "pepino", q: 1, u: "ud" }
+    { n: "pepino", q: 1, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con calor arriba y abajo. Seca bien las doradas por fuera y por dentro sin quitarles las escamas: son las que protegen la carne de la sal.",
@@ -679,7 +692,8 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "chile fresco", q: 1, u: "ud", nota: "rojo" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "hoja de plátano", q: 2, u: "ud", opcional: true, nota: "para hacer los cuencos" }
+    { n: "hoja de plátano", q: 2, u: "ud", opcional: true, nota: "para hacer los cuencos" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el kroeung: limpia la hierba limón y corta en rodajas finas la parte tierna. Tritúrala con el jengibre, la cúrcuma, el ajo, las chalotas, 2 hojas de lima sin nervio y 2 cucharadas de leche de coco hasta obtener una pasta fina.",
@@ -727,7 +741,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 3, u: "cda" },
     { n: "cacahuetes", q: 15, u: "g" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Haz el ajat: calienta el vinagre con 1,5 cucharadas de azúcar, una pizca de sal y 2 cucharadas de agua hasta que se disuelva y deja enfriar. Mientras, corta el pepino en cuartos de rodaja fina, la chalota en pluma y el chile en rodajas, y pica los cacahuetes; añádelos al almíbar frío.",
@@ -773,7 +788,8 @@ window.RECETAS_SEED.push({
     { n: "fideos de arroz", q: 120, u: "g", nota: "finos (bún)" },
     { n: "cacahuetes", q: 30, u: "g" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "chile fresco", q: 1, u: "ud" }
+    { n: "chile fresco", q: 1, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre y el ajo y mézclalos con la cúrcuma, el yogur, 1 cucharada de salsa de pescado, 1 cucharadita de azúcar y 1 cucharada de aceite. Embadurna el rape y marínalo 20 minutos en la nevera.",
@@ -817,7 +833,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de girasol", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pasta de gambas", q: 0.5, u: "cdta", opcional: true, nota: "tostada; da el sabor balinés" }
+    { n: "pasta de gambas", q: 0.5, u: "cdta", opcional: true, nota: "tostada; da el sabor balinés" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y cuécelas enteras y con piel en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas.",
@@ -864,7 +881,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 160, u: "g", nota: "barra o bollos" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Con unas tijeras, abre los langostinos por el lomo y retira el intestino, dejando la cáscara: absorben mejor la salsa y quedan más jugosos.",
@@ -910,7 +928,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de girasol", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa 1 cucharada del arroz crudo. Lava el resto y cuécelo con 200 ml de agua, tapado y a fuego mínimo, 12 minutos; déjalo reposar tapado.",
@@ -957,7 +976,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; déjalo reposar tapado.",
@@ -1002,7 +1022,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "cebolleta", q: 1, u: "ud" }
+    { n: "cebolleta", q: 1, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja las gambas secas 10 minutos en agua templada, escúrrelas y pícalas finas. Mientras, lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
@@ -1049,7 +1070,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el cerdo en dados de 3 cm y masajéalo con la salsa de pescado, la cúrcuma y el pimentón. Déjalo reposar 10 minutos.",
@@ -1097,7 +1119,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el ajo y corta la ternera en dados de 2,5 cm. Mézclala con el ajo, la salsa de ostras, la soja, la salsa de pescado, el azúcar, la maicena y media cucharada de aceite, y déjala marinar 15 minutos.",
@@ -1144,7 +1167,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C con calor arriba y abajo.",

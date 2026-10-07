@@ -79,7 +79,8 @@ window.RECETAS_SEED.push({
     { n: "pak choi", q: 300, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "mostaza inglesa", q: 2, u: "cdta", nota: "o mostaza de Dijon, para mojar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, escalda la pieza 2 minutos en agua hirviendo solo por el lado de la corteza, para tensar la piel. Sécala y pincha la corteza por toda la superficie con un tenedor o una brocheta, muy junto y sin llegar a la carne: de esos agujeros depende el crujiente.",
@@ -223,7 +224,8 @@ window.RECETAS_SEED.push({
     { n: "col rizada", q: 300, u: "g" },
     { n: "chile verde", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el niter kibbeh: derrite la mantequilla a fuego muy bajo con un cuarto de cebolla en trozos, 2 dientes de ajo y la mitad del jengibre machacados, ½ cucharadita de cardamomo, el fenogreco, la cúrcuma y la albahaca. Déjala 20 minutos sin que llegue a dorarse, hasta que la espuma se aclare y huela intensamente. Mientras infusiona, pica el resto de la cebolla, los otros 2 dientes de ajo y el resto del jengibre, corta el chile verde en tiras y quita los tallos duros a la col rizada y córtala en tiras. Cuela la mantequilla por un paño.",
@@ -270,7 +272,8 @@ window.RECETAS_SEED.push({
     { n: "queso cheddar", q: 50, u: "g", nota: "rallado" },
     { n: "nata agria", q: 80, u: "g" },
     { n: "jalapeño", q: 1, u: "ud", opcional: true, nota: "en rodajas, para servir" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita tallos y semillas a los chiles secos y tuéstalos en una sartén seca a fuego medio, 20-30 segundos por lado, solo hasta que huelan y se ablanden; si humean, amargan. Cúbrelos con 250 ml del caldo caliente y déjalos remojar 20 minutos. Mientras, pica la cebolla y el ajo.",
@@ -320,7 +323,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "coliflor", q: 300, u: "g" },
     { n: "semillas de comino", q: 0.5, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los langostinos dejando la cabeza y la cola, retírales el intestino y frótalos con ½ cucharadita de cúrcuma y sal. Deja 10 minutos.",
@@ -449,7 +453,8 @@ window.RECETAS_SEED.push({
     { n: "radicchio", q: 300, u: "g", nota: "mejor alargado, de Treviso" },
     { n: "vinagre balsámico", q: 1, u: "cdta" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bacalao en una cazuela con la leche, agua hasta cubrir, el laurel y el ajo pelado. Llévalo a un hervor suave y cuécelo 15-20 minutos a fuego mínimo, sin que borbotee, hasta que se separe en lascas al tocarlo. Mientras, pica el perejil, ralla la piel del limón y corta el radicchio en cuartos a lo largo, sin separar la base.",
@@ -493,7 +498,8 @@ window.RECETAS_SEED.push({
     { n: "judías verdes", q: 200, u: "g", nota: "finas" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre los mejillones en una cazuela tapada con 50 ml de vino a fuego fuerte, 3-4 minutos. Sácalos de las conchas y cuela su jugo por un paño: será la base de la salsa.",
@@ -533,7 +539,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 4, u: "cda", nota: "virgen extra" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva. Mientras, pela los tomates (escáldalos 15 segundos si la piel se resiste) y córtalos en dados pequeños sin perder su jugo. Pica el pimiento verde en dados aún más menudos y ponlo todo en un bol con sal.",
@@ -655,7 +662,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para el agua de escalfar" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la fontina en dados pequeños, cúbrela con la leche y déjala al menos 15 minutos: se ablanda y fundirá sin hacer hilos.",
@@ -698,7 +706,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "vinagre de manzana", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Cuece 4 huevos 6 minutos y medio desde que el agua vuelva a hervir y pásalos a un bol con agua y hielo 10 minutos. Pélalos con cuidado: la yema estará melosa y la clara, tierna.",
@@ -785,7 +794,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "rábano", q: 4, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle peso encima 15 minutos para que suelte agua y córtalo en 6 rectángulos gruesos.",
@@ -875,7 +885,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las costillas en un bol grande con agua fría y déjalas 1 hora, cambiando el agua un par de veces, para que suelten la sangre: así el caldo sale limpio. Mientras, corta el jengibre en láminas, separa la parte blanca de las cebolletas de la verde y corta la verde en aros.",
@@ -919,7 +930,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "semillas de calabaza", q: 20, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Asa los chiles directamente sobre la llama del fuego o bajo el grill del horno a máxima potencia, girándolos, 8-10 minutos, hasta que la piel esté negra y ampollada por todos lados. Mételos en un bol tapado 10 minutos para que suden.",
@@ -964,7 +976,8 @@ window.RECETAS_SEED.push({
     { n: "mejorana seca", q: 1, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon en una cazuela 1 litro de agua con la cebolla en mitad, la zanahoria y el apio en trozos grandes, el laurel y la pimienta de Jamaica. Lleva a hervor y añade las salchichas enteras.",
@@ -1005,7 +1018,8 @@ window.RECETAS_SEED.push({
     { n: "jamón serrano", q: 80, u: "g", nota: "en lonchas finas" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela los espárragos con un pelador desde 2 cm por debajo de la yema hasta la base, girándolos, y corta el extremo leñoso. Deben quedar blancos y lisos: si queda piel, quedarán fibrosos.",
@@ -1045,7 +1059,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 60, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 150, u: "ml", nota: "para freír; se absorben unas 3 cucharadas, más 1 para la salsa" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los calabacines a lo largo en láminas de medio centímetro, sálalas y déjalas 20 minutos en un colador para que suelten agua. Sécalas bien con papel.",
@@ -1091,7 +1106,8 @@ window.RECETAS_SEED.push({
     { n: "rábano", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con grill. Limpia los champiñones y las setas con papel (sin mojarlos) y córtalos en tiras finas, de ahí el nombre «julienne». Pica la cebolla, el ajo y el eneldo y ralla el queso.",

@@ -41,7 +41,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo seco", q: 1, u: "pizca" },
     { n: "vinagre de sidra", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas con piel en gajos de 1,5 cm y déjalos 10 minutos en agua fría para que suelten el almidón de la superficie. Escúrrelos y sécalos muy bien con un paño: si van húmedos se cuecen al vapor en lugar de dorarse.",
@@ -86,7 +87,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "arroz de grano largo", q: 120, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Parte los tomates por la mitad a lo largo, vacía las semillas con una cucharilla, sala el interior y déjalos boca abajo sobre papel de cocina 10 minutos para que suelten el agua.",
@@ -133,7 +135,8 @@ window.RECETAS_SEED.push({
     { n: "judías verdes", q: 150, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 8-10 minutos, solo hasta que un cuchillo entre con una ligera resistencia: terminarán en el horno. Mientras se cuecen, pica el cebollino y los tallos verdes de la cebolleta. Escurre las patatas y deja que pierdan el vapor en el colador.",
@@ -182,7 +185,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo los tallos verdes" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -231,7 +235,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta los tomates en trozos grandes, sálalos y déjalos 10 minutos en un colador para que suelten agua: así el cobbler no queda aguado. Corta el pimiento en tiras y el calabacín en medias lunas gruesas.",
@@ -274,7 +279,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Frota las patatas nuevas bajo el grifo y deja la piel; parte por la mitad las más grandes. Pela las zanahorias y córtalas en trozos de 3 cm (las pequeñas, enteras). Quita las puntas a las judías y córtalas en trozos de 4 cm.",
@@ -322,7 +328,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si usas palillos de madera, ponlos en remojo. Envuelve el tofu en un paño limpio, pon un peso encima y déjalo 15 minutos para que suelte agua. Mientras, prepara la salsa blanca: bate el yogur con la mayonesa, el vinagre, la mostaza, el zumo del limón, sal y una pizca generosa de pimienta recién molida. Debe quedar fluida, como una vinagreta cremosa.",
@@ -369,7 +376,8 @@ window.RECETAS_SEED.push({
     { n: "pepinillos", q: 60, u: "g" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Quita las semillas a la calabaza y córtala en gajos de 2 cm con la piel, que es comestible. Mézclala con la mitad del aceite, sal y las hojas de tomillo y ásala 30 minutos, hasta que esté tierna y dorada.",
@@ -414,7 +422,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas con piel en una cazuela con agua fría y sal, lleva a hervor y cuécelas 20-25 minutos, hasta que un cuchillo entre con una ligera resistencia: si se pasan, se deshacen al mezclar.",
@@ -462,7 +471,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en una cazuela con agua fría que lo cubra, dos rodajas de jengibre y sal. Llévalo a un hervor suave, baja al mínimo y cuécelo 10 minutos sin que llegue a borbotear; apaga y déjalo 10 minutos más dentro, tapado. Quedará jugoso. Desmenúzalo en hebras.",
@@ -507,7 +517,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "pipas de girasol", q: 15, u: "g", nota: "peladas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa frotándola en un colador y cuécela con 200 ml de agua y sal: cuando hierva, tapa y deja 15 minutos a fuego mínimo y 5 de reposo. Extiéndela en una fuente para que se temple.",
@@ -554,7 +565,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 120, u: "g" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pavo en una cazuela con agua fría que lo cubra, el laurel, sal y unos granos de pimienta. Llévalo a un hervor suave, baja al mínimo y cuécelo 12-15 minutos, hasta que esté blanco por dentro y suelte jugos claros. Déjalo enfriar 10 minutos en el caldo y córtalo en dados de 1,5 cm.",
@@ -600,7 +612,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pollo en trozos de 4 cm y salpimiéntalo. Corta el bacon en tiras finas, pica en dados pequeños el pimiento verde y la zanahoria y pica los tallos verdes de la cebolleta.",
@@ -647,7 +660,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pimentón dulce", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 280 ml de agua y sal: cuando hierva, tapa y deja 12 minutos a fuego mínimo y 5 de reposo.",
@@ -693,7 +707,8 @@ window.RECETAS_SEED.push({
     { n: "piñones", q: 10, u: "g" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una olla grande de agua con sal: servirá para blanquear las verduras y después para la pasta.",
@@ -741,7 +756,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 1, u: "ud" },
     { n: "queso cheddar curado", q: 30, u: "g", nota: "rallado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pica el pimiento verde y corta en aros los tallos verdes de la cebolleta. Calienta el aceite de ajo en una sartén a fuego fuerte y dora la ternera 5 minutos, dejándola quieta los primeros 2 para que se tueste. Añade el pimiento y la cebolleta y cocina 4 minutos.",
@@ -788,7 +804,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua abundante con sal. Mientras se calienta, corta los pimientos en tiras, los tallos verdes de cebolleta en aros y el tomate en dados; ralla el parmesano y pica el perejil. Mezcla el pimentón, el tomillo, el orégano, una pizca de pimienta y media cucharadita de sal: es tu mezcla cajún suave. Espolvorea una cucharadita sobre las gambas.",
@@ -830,7 +847,8 @@ window.RECETAS_SEED.push({
     { n: "leche sin lactosa", q: 150, u: "ml" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua abundante con sal. Mientras se calienta, corta los filetes de ternera en tiras de 3 mm, a contrapelo de la fibra: así quedan tiernas aunque se hagan en un minuto. Corta el pimiento verde en tiras y los tallos verdes de la cebolleta en aros, y ralla el provolone.",
@@ -874,7 +892,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "pan rallado sin gluten", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las almejas 10 minutos en agua fría con sal para que suelten la arena que les quede y pon a hervir agua con sal para la pasta. Mientras, corta en aros los tallos verdes de la cebolleta, parte los tomates por la mitad y pica el perejil. Enjuaga las almejas.",
@@ -1006,7 +1025,8 @@ window.RECETAS_SEED.push({
     { n: "pak choi", q: 150, u: "g" },
     { n: "cebolleta (parte verde)", q: 4, u: "ud", nota: "solo los tallos verdes" },
     { n: "aceite de oliva", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pon el kombu en 1 litro de agua fría y déjalo 20 minutos. Caliéntalo a fuego medio y retíralo justo antes de que hierva. Añade el bonito, deja hervir 1 minuto, apaga y espera 5 minutos. Cuela sin apretar, añade dos tercios del tamari, el jengibre en láminas y sal, y mantén el caldo caliente.",
@@ -1099,7 +1119,8 @@ window.RECETAS_SEED.push({
     { n: "cheddar", q: 20, u: "g", nota: "curado, rallado" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los pimientos en dados de 1,5 cm y los tallos verdes de la cebolleta en aros, reservando un puñado para servir.",

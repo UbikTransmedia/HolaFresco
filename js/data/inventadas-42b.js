@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en un cazo con el laurel, sal y agua fría que lo cubra. Lleva a ebullición, baja al mínimo y cuécelo sin que hierva fuerte 12-14 minutos, hasta que esté blanco por dentro.",
@@ -72,7 +73,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "lechuga romana", q: 6, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande apto para microondas con 170 ml de agua y una pizca de sal. Tapa sin cerrar del todo y cocina a 800 W 9-10 minutos. Reposa 5 minutos tapado y extiéndelo para que se enfríe.",
@@ -160,7 +162,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados, sin sal" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
-    { n: "cilantro fresco", q: 0.5, u: "manojo" }
+    { n: "cilantro fresco", q: 0.5, u: "manojo" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en papel de cocina y ponle peso encima 10 minutos para que suelte agua. Mientras, ralla el jengibre y el ajo y mezcla 2 cucharadas de tamari con el zumo de una lima, el jengibre, el ajo, el azúcar y el aceite de sésamo.",
@@ -203,7 +206,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo y pásalos a agua fría.",
@@ -248,7 +252,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras se calienta, pica en dados pequeños los pepinillos, el apio, el pimiento y la cebolla.",
@@ -332,7 +337,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1.5, u: "cda" },
     { n: "jengibre fresco", q: 5, u: "g" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y déjalo enfriar extendido.",
@@ -374,7 +380,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las espinacas y los guisantes en un bol, tapa y cocina en el microondas a 800 W 2 minutos, hasta que las espinacas se ablanden. Mientras, pica la cebolleta y la menta. Escurre las verduras apretando bien para quitar el agua.",
@@ -417,7 +424,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un bol con sal, cúbrelo con 280 ml de agua hirviendo, tapa y deja 15 minutos, hasta que absorba el agua. Esponja con un tenedor y deja enfriar.",
@@ -504,7 +512,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza antigua", q: 1, u: "cda" },
     { n: "vinagre de manzana", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el trigo sarraceno en agua hirviendo con sal 10-12 minutos, hasta que esté tierno pero entero. Escúrrelo, enjuágalo con agua fría y déjalo escurrir.",
@@ -546,7 +555,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras se calienta, pica muy fina la cebolla.",
@@ -591,7 +601,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el edamame en un bol con 2 cucharadas de agua, tapa y cocina en el microondas a 800 W 3 minutos. Mientras, pica el chile, la cebolla y el cilantro, parte los tomates por la mitad y corta el queso fresco en dados. Escurre el edamame y pásalo por agua fría.",
@@ -637,7 +648,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara. Cuécelo con 180 ml de agua y sal, tapado, a fuego mínimo 10 minutos. Reposa 5 minutos y extiéndelo para que se enfríe.",
@@ -680,7 +692,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras se calienta, corta la cebolla en juliana fina, parte los tomates y bate la mostaza con el vinagre, el aceite, sal y pimienta.",
@@ -723,7 +736,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Salpimienta los filetes de pavo y cocínalos en una sartén caliente con unas gotas de aceite 2-3 minutos por lado, hasta que estén dorados y blancos por dentro. Enfríalos y córtalos en tiras.",
@@ -849,7 +863,8 @@ window.RECETAS_SEED.push({
     { n: "cayena", q: 1, u: "pizca" },
     { n: "vinagre de manzana", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y extiéndelo para que se enfríe.",
@@ -933,7 +948,8 @@ window.RECETAS_SEED.push({
     { n: "pasas", q: 15, u: "g" },
     { n: "tortillas de trigo", q: 2, u: "ud", nota: "integrales, grandes" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos en agua hirviendo 10 minutos. Mientras, pica el cebollino y ralla la zanahoria con el rallador grueso.",
@@ -975,7 +991,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1.5, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la patata en dados de 2 cm, ponla en un bol con 2 cucharadas de agua y sal, tapa y cocina en el microondas a 800 W 6-7 minutos, hasta que esté tierna. Deja enfriar.",
@@ -1017,7 +1034,8 @@ window.RECETAS_SEED.push({
     { n: "estragón seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Salpimienta el salmón, úntalo con unas gotas de aceite y cocínalo en la airfryer a 180 °C 9-10 minutos, hasta que se separe en lascas por dentro.",
@@ -1061,7 +1079,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "semillas de calabaza", q: 15, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien los garbanzos con papel, mézclalos con el aceite, el pimentón, el comino y sal, y ásalos en la airfryer a 200 °C 14-16 minutos, sacudiendo a mitad, hasta que estén crujientes. Déjalos enfriar.",

@@ -31,15 +31,16 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un cazo con 160 ml de agua y una pizca de sal, lleva a ebullición, tapa y apaga el fuego. Déjalo reposar 12 minutos sin destapar y luego suéltalo con un tenedor.",
-    "Mientras reposa el bulgur, corta el pepino en medias lunas finas y la cebolla morada en plumas. Mézclalos en un bol con el vinagre, el azúcar y una pizca de sal; deja encurtir 15 minutos mientras sigues.",
+    "Mientras reposa el bulgur, corta el pepino en medias lunas finas y la cebolla morada en plumas. Mézclalos en un bol con el vinagre, el azúcar y una pizca de sal; deja encurtir 15 minutos mientras sigues. Ralla el ajo y la piel de medio limón, pica la menta y parte los cherry.",
     "Abre las pechugas por la mitad a lo largo para tener 4 filetes finos. Sálalos y rebózalos con el za'atar presionando con las manos.",
     "Calienta el aceite en una sartén a fuego medio-alto y haz el pollo 3 minutos por cada lado, hasta que esté dorado y al pincharlo salga jugo claro. Déjalo reposar 3 minutos y córtalo en tiras.",
-    "Mezcla el yogur con el ajo rallado, la ralladura de media piel de limón, 1 cucharada de su zumo, la mitad de la menta picada, sal y pimienta.",
-    "Monta los bowls: bulgur en la base, pollo encima, el pepino y la cebolla escurridos a un lado, los tomates cherry partidos y la salsa de yogur. Termina con el resto de la menta y un chorrito del zumo de limón."
+    "Mezcla el yogur con el ajo, la ralladura de limón, 1 cucharada de su zumo, la mitad de la menta, sal y pimienta.",
+    "Monta los bowls: bulgur en la base, pollo encima, el pepino y la cebolla escurridos a un lado, los tomates cherry y la salsa de yogur. Termina con el resto de la menta y un chorrito del zumo de limón."
   ],
   nutricion: { kcal: 460, prot: 42, hc: 44, grasa: 13 },
   etiquetas: ["alta en proteína", "ligera", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
@@ -77,12 +78,13 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "alga nori", q: 1, u: "hoja", opcional: true, nota: "en tiras finas" },
     { n: "sriracha", u: "al gusto", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz en un colador bajo el grifo hasta que el agua salga casi clara. Ponlo en un cazo con 180 ml de agua, lleva a ebullición, tapa y cuece a fuego mínimo 12 minutos. Apaga y deja reposar 10 minutos tapado.",
     "Mientras, disuelve el azúcar y media cucharadita de sal en el vinagre de arroz calentándolo 20 segundos en el microondas. Extiende el arroz en una bandeja, riégalo con el vinagre y mézclalo con movimientos de corte; déjalo enfriar a temperatura ambiente (unos 15 minutos).",
-    "Mientras se enfría el arroz, corta el salmón en dados de 2 cm. Mézclalo en un bol con la soja, el aceite de sésamo y el jengibre rallado; tápalo y déjalo marinar en la nevera 15 minutos (no más de 30, o la soja lo cura demasiado). Pon a hervir agua con sal para el edamame.",
+    "Mientras se enfría el arroz, corta el salmón en dados de 2 cm y ralla el jengibre. Mezcla el salmón en un bol con la soja, el aceite de sésamo y el jengibre; tápalo y déjalo marinar en la nevera 15 minutos (no más de 30, o la soja lo cura demasiado). Pon a hervir agua con sal para el edamame.",
     "Cuece el edamame 4 minutos en el agua hirviendo, escúrrelo y refréscalo bajo el grifo.",
     "Pela y corta el mango en dados, el pepino en medias lunas, el aguacate en láminas y la cebolleta en rodajas finas. Tuesta el sésamo 1 minuto en una sartén seca.",
     "Reparte el arroz templado en dos bowls y coloca encima, por zonas, el salmón escurrido, el edamame, el mango, el pepino y el aguacate. Riega con un poco de la marinada, espolvorea sésamo, cebolleta y nori, y añade sriracha si te gusta picante."
@@ -120,7 +122,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pon los pimientos enteros en una bandeja y ásalos 35 minutos, dándoles la vuelta a mitad, hasta que la piel esté arrugada y con manchas negras. Mételos en un bol tapado 10 minutos, pélalos, quítales las semillas y córtalos en tiras; guarda el jugo que suelten.",
@@ -166,15 +169,16 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
-    { n: "aceite de oliva", q: 1, u: "cdta" }
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir una cazuela grande de agua. Seca el tofu con papel de cocina, córtalo en dados de 2 cm y mézclalo con 1 cucharada de soja y la maicena hasta que quede bien cubierto.",
+    "Pon a hervir una cazuela grande de agua. Seca el tofu con papel de cocina, córtalo en dados de 2 cm y mézclalo con 1 cucharada de soja y la maicena hasta que quede bien cubierto. Mientras se calienta el agua, ralla el jengibre y el ajo, corta el pepino en bastones finos, la cebolleta en rodajas al bies y el chile en rodajas.",
     "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto y dora el tofu 6-7 minutos, moviéndolo solo de vez en cuando, hasta que esté crujiente por todas las caras.",
     "Cuece los soba y el edamame juntos en el agua hirviendo 4-5 minutos (mira el paquete de los fideos). Escúrrelos y refréscalos bien bajo el grifo frío frotándolos con las manos para quitar el almidón; así no se pegan.",
-    "Prepara el aliño: mezcla en un bol grande el resto de la soja, el vinagre, el aceite de sésamo, la miel, el tahini, el jengibre y el ajo rallados y 2 cucharadas de agua, hasta tener una salsa lisa.",
-    "Corta el pepino en bastones finos y la cebolleta en rodajas al bies. Tuesta el sésamo 1 minuto en una sartén seca.",
-    "Añade los fideos y el edamame al bol del aliño y remueve bien. Reparte en dos cuencos, pon encima el tofu, el pepino y la cebolleta, y termina con el sésamo y el chile en rodajas."
+    "Prepara el aliño: mezcla en un bol grande el resto de la soja, el vinagre, el aceite de sésamo, la miel, el tahini, el jengibre, el ajo y 2 cucharadas de agua, hasta tener una salsa lisa.",
+    "Tuesta el sésamo 1 minuto en una sartén seca.",
+    "Añade los fideos y el edamame al bol del aliño y remueve bien. Reparte en dos cuencos, pon encima el tofu, el pepino y la cebolleta, y termina con el chile y el sésamo."
   ],
   nutricion: { kcal: 590, prot: 30, hc: 64, grasa: 24 },
   etiquetas: ["rápida", "verano", "ideal para llevar", "sin horno", "superalimentos", "bajo en colesterol"],
@@ -214,15 +218,16 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el pollo en tiras gruesas y mézclalo con el chipotle, el comino, el pimentón, 1 ajo rallado, sal y media cucharada de aceite. Déjalo marinar mientras preparas el resto (mínimo 10 minutos).",
-    "Lava el arroz, ponlo en un cazo con 280 ml de agua y sal, lleva a ebullición, tapa y cuece a fuego mínimo 11 minutos. Deja reposar 5 minutos y mézclalo con la ralladura y el zumo de 1 lima y la mitad del cilantro picado.",
-    "Mientras se cuece el arroz, prepara el pico de gallo: pica el tomate en dados pequeños, la cebolla morada muy fina y el chile sin semillas; mezcla con el zumo de media lima, sal y el resto del cilantro.",
-    "Calienta las alubias escurridas en un cazo con 3 cucharadas de agua, el otro ajo picado y una pizca de comino, 5 minutos a fuego suave; machaca algunas con el tenedor para que queden cremosas.",
+    "Corta el pollo en tiras gruesas, ralla 1 ajo y mézclalo todo con el chipotle, el comino, el pimentón, sal y media cucharada de aceite. Déjalo marinar mientras preparas el resto (mínimo 10 minutos).",
+    "Lava el arroz, ponlo en un cazo con 280 ml de agua y sal, lleva a ebullición, tapa y cuece a fuego mínimo 11 minutos. Deja reposar 5 minutos.",
+    "Mientras se cuece el arroz, pica todo el cilantro y el otro ajo, ralla la piel de 1 lima y corta la lechuga en tiras. Prepara el pico de gallo: pica el tomate en dados pequeños, la cebolla morada muy fina y el chile sin semillas; mezcla con el zumo de media lima, sal y la mitad del cilantro. Cuando el arroz haya reposado, mézclalo con la ralladura y el zumo de 1 lima y el resto del cilantro.",
+    "Calienta las alubias escurridas en un cazo con 3 cucharadas de agua, el otro ajo y una pizca de comino, 5 minutos a fuego suave; machaca algunas con el tenedor para que queden cremosas.",
     "Calienta el resto del aceite en una sartén a fuego fuerte y haz el pollo 8-10 minutos, removiendo poco, hasta que esté dorado y con los bordes tostados.",
-    "Mezcla el yogur con el zumo de la media lima restante y una pizca de sal. Monta los bowls con el arroz, la lechuga en tiras, las alubias, el maíz escurrido, el pollo, el pico de gallo y la crema de yogur."
+    "Mezcla el yogur con el zumo de la media lima restante y una pizca de sal. Monta los bowls con el arroz, la lechuga, las alubias, el maíz escurrido, el pollo, el pico de gallo y la crema de yogur."
   ],
   nutricion: { kcal: 790, prot: 53, hc: 96, grasa: 22 },
   etiquetas: ["alta en proteína", "picante", "ideal para llevar", "batch cooking", "bowl", "bajo en colesterol"],
@@ -259,7 +264,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y cuécelas con piel en agua con sal desde frío: 18-20 minutos desde que hierva, hasta que un cuchillo entre sin resistencia. Escúrrelas y, en cuanto puedas tocarlas, pélalas y córtalas en rodajas de 1 cm.",
@@ -432,15 +438,16 @@ window.RECETAS_SEED.push({
     { n: "semillas de calabaza", q: 15, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las pechugas en un cazo con agua fría que las cubra, el laurel y una cucharadita de sal. Lleva a ebullición, baja a fuego mínimo y escalfa 12 minutos sin que hierva a borbotones. Apaga y déjalas 5 minutos más en el caldo.",
     "Mientras, corta la col lombarda en tiras muy finas (con mandolina o cuchillo afilado), ponla en un bol con media cucharadita de sal y el vinagre y estrújala 1 minuto con las manos; déjala reposar 10 minutos para que se ablande.",
-    "Ralla la zanahoria, corta la manzana en bastones finos (con piel), la cebolleta en rodajas y el apio en láminas finas.",
+    "Ralla la zanahoria, corta la manzana en bastones finos (con piel), la cebolleta en rodajas y el apio en láminas finas. Pica el perejil.",
     "Mezcla el yogur con la mostaza, la mayonesa, la miel, sal y pimienta hasta tener un aliño cremoso.",
     "Saca el pollo, deja que se temple y desmíguelo con dos tenedores en hebras.",
-    "Tuesta las semillas de calabaza 2 minutos en una sartén seca. Junta en el bol la col escurrida, la zanahoria, la manzana, la cebolleta, el apio y el pollo; mezcla con el aliño y termina con las semillas y el perejil picado."
+    "Tuesta las semillas de calabaza 2 minutos en una sartén seca. Junta en el bol la col escurrida, la zanahoria, la manzana, la cebolleta, el apio y el pollo; mezcla con el aliño y termina con el perejil picado y las semillas."
   ],
   nutricion: { kcal: 465, prot: 43, hc: 31, grasa: 19 },
   etiquetas: ["alta en proteína", "ligera", "ideal para llevar", "sin horno", "invierno", "poco especiada"],
@@ -476,15 +483,16 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en plumas muy finas y ponla 10 minutos en un bol con agua fría y el vinagre: pierde el picor y queda crujiente.",
     "Enjuaga las judías blancas en un colador bajo el grifo hasta que no hagan espuma y escúrrelas bien.",
     "Corta los tomates en dados de 2 cm y el apio en láminas finas. Pica el perejil y rompe las hojas de albahaca con las manos.",
-    "Prepara la vinagreta: bate el aceite con el zumo de medio limón, la ralladura de su piel, sal y pimienta.",
+    "Prepara la vinagreta: ralla la piel de medio limón y bate el aceite con su zumo, la ralladura, sal y pimienta. Corta el otro medio limón en gajos.",
     "Mezcla en un bol grande las judías, el tomate, el apio, las alcaparras, la cebolla escurrida y las hierbas con la vinagreta. Deja reposar 5 minutos.",
-    "Sirve sobre un lecho de rúcula y reparte el atún escurrido en lascas grandes por encima, sin deshacerlo. Termina con el resto del limón en gajos para exprimir al gusto."
+    "Sirve sobre un lecho de rúcula y reparte el atún escurrido en lascas grandes por encima, sin deshacerlo. Termina con los gajos de limón para exprimir al gusto."
   ],
   nutricion: { kcal: 395, prot: 28, hc: 28, grasa: 19 },
   etiquetas: ["sin cocción", "rápida", "ligera", "ideal para llevar", "económica", "verano", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -520,13 +528,14 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino bajo el grifo 30 segundos para quitarle el amargor. Cuécela en 200 ml de agua con sal, tapada y a fuego mínimo, 13-15 minutos, hasta que absorba el agua y se vea el anillo blanco del germen. Extiéndela en un plato para que se enfríe rápido.",
-    "Mientras se cuece la quinoa, seca los langostinos con papel y mézclalos con el ajo rallado, el comino, la ralladura de 1 lima, sal y pimienta.",
+    "Mientras se cuece la quinoa, ralla el ajo y la piel de 1 lima, seca los langostinos con papel y mézclalos con el ajo, el comino, la ralladura, sal y pimienta. Corta los cherry por la mitad, la cebolla en plumas finas y el chile en rodajas sin semillas, y pica el cilantro.",
     "Calienta media cucharada de aceite en una sartén a fuego fuerte y saltea los langostinos 1 minuto y medio por cara, hasta que estén rosados y curvados. Riégalos con el zumo de media lima fuera del fuego.",
-    "Corta los cherry por la mitad, la cebolla en plumas finas, el chile en rodajas sin semillas y el aguacate en dados; rocía el aguacate con un poco de lima para que no se oscurezca.",
+    "Corta el aguacate en dados y rocíalo con un poco de lima para que no se oscurezca.",
     "Prepara el aliño con el zumo de la lima y media restantes, el resto del aceite, el cilantro picado, sal y pimienta.",
     "Mezcla la quinoa templada con el maíz escurrido, los cherry, la cebolla y el aliño. Reparte en dos cuencos y coloca encima los langostinos y el aguacate. Termina con unas hojas de cilantro y el chile."
   ],
@@ -564,7 +573,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 15-18 minutos desde que hierva, hasta que estén tiernas al pincharlas. Mientras, pon a hervir otra cazuela con agua y sal y corta la base leñosa de los espárragos (se rompe sola al doblarlos). Escurre las patatas, pártelas por la mitad y resérvalas templadas.",
@@ -613,12 +623,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca la carne de la nevera 15 minutos antes. Sécala bien, úntala con el aceite y pimienta (sin sal: la pondrá la salsa de pescado).",
+    "Saca la carne de la nevera 15 minutos antes; mientras, pica muy fino el ajo, corta el chile en rodajas finas y pica gruesos los cacahuetes. Pasado ese tiempo, seca bien la carne y úntala con el aceite y pimienta (sin sal: la pondrá la salsa de pescado).",
     "Calienta la plancha hasta que humee y marca la ternera 3 minutos por cara para que quede al punto (rosada en el centro). Pásala a una tabla y déjala reposar 5 minutos antes de cortarla en láminas finas a contrahílo.",
-    "Mientras reposa, prepara el aliño: mezcla la salsa de pescado, el zumo de las 2 limas, el azúcar, el ajo muy picado y el chile en rodajas finas, hasta que el azúcar se disuelva. Prueba: debe estar ácido, salado y picante a partes iguales.",
+    "Mientras reposa, prepara el aliño: mezcla la salsa de pescado, el zumo de las 2 limas, el azúcar, el ajo y el chile, hasta que el azúcar se disuelva. Prueba: debe estar ácido, salado y picante a partes iguales.",
     "Corta el pepino en medias lunas, los cherry por la mitad, la cebolla morada en plumas finísimas y la cebolleta al bies. Deshoja la menta y el cilantro.",
     "En un bol grande mezcla la carne en láminas con su jugo, las verduras y las hierbas, y riégalo todo con el aliño. Remueve con las manos para que se impregne.",
-    "Sirve sobre hojas de lechuga romana y termina con los cacahuetes picados gruesos."
+    "Sirve sobre hojas de lechuga romana y termina con los cacahuetes."
   ],
   nutricion: { kcal: 410, prot: 37, hc: 16, grasa: 22 },
   etiquetas: ["picante", "rápida", "ligera", "alta en proteína", "verano"],
@@ -652,15 +662,16 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir abundante agua con sal para la pasta. Pon los cherry enteros en una bandeja con media cucharada de aceite, sal y pimienta y ásalos 20 minutos, hasta que la piel se arrugue y empiecen a reventar.",
-    "Mientras, tuesta las almendras 4 minutos en una sartén seca, sin que se oscurezcan.",
+    "Mientras, tuesta las almendras 4 minutos en una sartén seca, sin que se oscurezcan. Ralla la piel del medio limón y trocea la mozzarella (si no usas perlas).",
     "Cuece la pasta en el agua hirviendo 1 minuto menos de lo que indique el paquete. Antes de escurrir, guarda medio vaso del agua de cocción. Escúrrela y refréscala rápidamente con agua fría para que no siga cociendo.",
     "Haz el pesto: tritura las espinacas, la albahaca, las almendras, el parmesano, el ajo, la ralladura y el zumo del medio limón, el resto del aceite y una pizca de sal, añadiendo agua de la pasta a cucharadas hasta que quede cremoso pero no líquido.",
     "Mezcla la pasta templada con el pesto en un bol grande hasta que esté toda verde.",
-    "Añade los cherry asados con su jugo y la mozzarella troceada o las perlas, remueve con cuidado y termina con pimienta y unas hojas de albahaca. Se come templada o fría."
+    "Añade los cherry asados con su jugo y la mozzarella, remueve con cuidado y termina con pimienta y unas hojas de albahaca. Se come templada o fría."
   ],
   nutricion: { kcal: 770, prot: 32, hc: 68, grasa: 41 },
   etiquetas: ["ideal para llevar", "batch cooking", "vegetariana", "verano", "al horno", "poco especiada"],
@@ -700,7 +711,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela las zanahorias y córtalas en bastones del grosor de un dedo. Mézclalas con media cucharada de aceite, el comino, la canela, el pimentón y sal, y ásalas 25 minutos en una bandeja, hasta que estén tiernas y con los bordes caramelizados.",
@@ -746,15 +758,16 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Separa la coliflor en ramilletes medianos (los pequeños se queman) y mézclalos en un bol con 1,5 cucharadas de aceite, el curry, la cúrcuma, el comino y sal.",
     "Extiéndela en una bandeja sin amontonar y ásala 25-30 minutos, dando la vuelta a mitad, hasta que esté tierna por dentro y muy dorada por los bordes.",
-    "Mientras, pon las pasas en agua caliente 10 minutos. Corta la cebolla morada en plumas finas y déjala 5 minutos con el zumo de medio limón y una pizca de sal para suavizarla.",
-    "Prepara la salsa: mezcla el yogur con el ajo rallado, la menta picada, una pizca de sal y 1 cucharada de agua para aligerarla.",
+    "Mientras, pon las pasas en agua caliente 10 minutos. Corta la cebolla morada en plumas finas y déjala 5 minutos con el zumo de medio limón y una pizca de sal para suavizarla. Ralla el ajo, pica la menta y el cilantro y corta el resto del limón en gajos.",
+    "Prepara la salsa: mezcla el yogur con el ajo, la menta, una pizca de sal y 1 cucharada de agua para aligerarla.",
     "Enjuaga y escurre las lentejas. Mézclalas con la cebolla y su limón, las pasas escurridas, el resto del aceite, el cilantro picado y pimienta.",
-    "Reparte las espinacas crudas en dos platos, encima las lentejas aliñadas y la coliflor recién salida del horno. Riega con la salsa de yogur y termina con el resto del limón en gajos."
+    "Reparte las espinacas crudas en dos platos, encima las lentejas aliñadas y la coliflor recién salida del horno. Riega con la salsa de yogur y termina con los gajos de limón."
   ],
   nutricion: { kcal: 470, prot: 23, hc: 55, grasa: 18 },
   etiquetas: ["al horno", "ligera", "económica", "vegetariana", "invierno", "detox", "superalimentos", "bajo en colesterol"],
@@ -792,16 +805,17 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz integral y cuécelo en abundante agua con sal 35 minutos, hasta que esté tierno pero con mordida. Escúrrelo y déjalo reposar tapado.",
-    "Mientras se cuece el arroz, corta la col en tiras de 1 cm, mézclala con 1 cucharadita de sal y déjala 15 minutos en un colador; mientras tanto, pon a hervir un cazo de agua para las espinacas. Después estruja la col para sacar el agua y alíñala con 1 cucharada de gochujang, el vinagre, el azúcar, 1 ajo y el jengibre rallados: es tu encurtido exprés.",
-    "Escalda las espinacas 1 minuto en el agua hirviendo, escúrrelas, enfríalas y estrújalas bien. Pícalas gruesas y alíñalas con 1 cucharadita de aceite de sésamo, 1 cucharada de soja, el otro ajo rallado y la mitad del sésamo.",
+    "Mientras se cuece el arroz, corta la col en tiras de 1 cm, mézclala con 1 cucharadita de sal y déjala 15 minutos en un colador; mientras tanto, pon a hervir un cazo de agua para las espinacas, ralla los ajos y el jengibre y corta la cebolleta en rodajas. Después estruja la col para sacar el agua y alíñala con 1 cucharada de gochujang, el vinagre, el azúcar, la mitad del ajo y el jengibre: es tu encurtido exprés.",
+    "Escalda las espinacas 1 minuto en el agua hirviendo, escúrrelas, enfríalas y estrújalas bien. Pícalas gruesas y alíñalas con 1 cucharadita de aceite de sésamo, 1 cucharada de soja, el resto del ajo y la mitad del sésamo.",
     "Corta la zanahoria en juliana fina y saltéala 2 minutos en una sartén con 1 cucharadita de aceite de oliva y una pizca de sal; debe quedar crujiente.",
     "Mezcla la otra cucharada de gochujang con la soja restante, la otra cucharadita de aceite de sésamo y 1 cucharada de agua para tener la salsa del bowl.",
     "Fríe los huevos de dos en dos en la sartén con el resto del aceite bien caliente, echando aceite por encima con una cuchara, hasta que los bordes estén dorados y crujientes y la yema líquida.",
-    "Monta los bowls: arroz en la base y, por zonas, la col, las espinacas y la zanahoria. Corona con los huevos, la salsa de gochujang, la cebolleta en rodajas y el resto del sésamo. Mezcla todo antes de comer."
+    "Monta los bowls: arroz en la base y, por zonas, la col, las espinacas y la zanahoria. Corona con los huevos, la salsa de gochujang, la cebolleta y el resto del sésamo. Mezcla todo antes de comer."
   ],
   nutricion: { kcal: 615, prot: 26, hc: 73, grasa: 24 },
   etiquetas: ["picante", "vegetariana", "bowl", "económica", "sin horno"],
@@ -837,15 +851,16 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y cuécelas en agua fría con el laurel desde el principio: 25 minutos a fuego suave desde que hierva, hasta que estén tiernas pero enteras; sala al final.",
     "Mientras se cuecen, precalienta el horno a 200 °C. Salpimienta el salmón, úntalo con una cucharadita de aceite y colócalo con la piel hacia abajo en una bandeja. Hornéalo 12-14 minutos, hasta que al presionarlo se separe en lascas pero siga jugoso en el centro.",
-    "Corta el bulbo de hinojo en láminas finísimas (mejor con mandolina) y la cebolla morada en plumas. Ponlos en agua con hielo 10 minutos para que queden crujientes.",
+    "Corta el bulbo de hinojo en láminas finísimas (mejor con mandolina) y la cebolla morada en plumas. Ponlos en agua con hielo 10 minutos para que queden crujientes; mientras, pica el eneldo.",
     "Pela las naranjas a lo vivo sobre un bol para recoger el zumo y saca los gajos. Exprime las membranas en el bol.",
     "Prepara la vinagreta con 2 cucharadas del zumo de naranja, el vinagre, la mostaza, la miel, el resto del aceite, sal y pimienta.",
-    "Escurre las lentejas y mézclalas templadas con la mitad de la vinagreta y el eneldo picado. Reparte en dos platos, pon encima el hinojo y la cebolla escurridos, los gajos de naranja y los canónigos. Trocea el salmón en lascas grandes sobre todo, riega con el resto de la vinagreta y adorna con las barbas del hinojo."
+    "Escurre las lentejas y mézclalas templadas con la mitad de la vinagreta y el eneldo. Reparte en dos platos, pon encima el hinojo y la cebolla escurridos, los gajos de naranja y los canónigos. Trocea el salmón en lascas grandes sobre todo, riega con el resto de la vinagreta y adorna con las barbas del hinojo."
   ],
   nutricion: { kcal: 610, prot: 45, hc: 48, grasa: 26 },
   etiquetas: ["al horno", "alta en proteína", "invierno", "omega 3", "superalimentos", "poco especiada"],
@@ -880,15 +895,16 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Seca muy bien los garbanzos escurridos, mézclalos con media cucharada de aceite, el pimentón y sal y hornéalos 20 minutos en una bandeja, hasta que crujan.",
-    "Corta el pan en dados de 2 cm, mézclalos con media cucharada de aceite y 1 ajo rallado y añádelos a la bandeja los últimos 8 minutos, hasta que estén dorados.",
-    "Quita los tallos gruesos del kale y corta las hojas en tiras. Ponlas en un bol grande con una pizca de sal y el zumo de medio limón y masajéalas 2 minutos con las manos, hasta que se ablanden y oscurezcan.",
-    "Prepara el aliño: machaca las anchoas con el otro ajo hasta hacer una pasta, mézclala con el yogur, la mostaza, el resto del aceite, la ralladura del limón, 1 cucharada de su zumo, la mitad del parmesano rallado y mucha pimienta. Debe quedar cremoso; aligera con 1 cucharada de agua si hace falta.",
+    "Precalienta el horno a 220 °C. Seca muy bien los garbanzos escurridos, mézclalos con media cucharada de aceite, el pimentón y sal y hornéalos 20 minutos en una bandeja, hasta que crujan. Mientras, ralla 1 ajo y la piel del limón, ralla la mitad del parmesano y saca lascas del resto.",
+    "Corta el pan en dados de 2 cm, mézclalos con media cucharada de aceite y el ajo rallado y añádelos a la bandeja los últimos 8 minutos, hasta que estén dorados.",
+    "Quita los tallos gruesos del kale. Corta las hojas en tiras, ponlas en un bol grande con una pizca de sal y el zumo de medio limón y masajéalas 2 minutos con las manos, hasta que se ablanden y oscurezcan.",
+    "Prepara el aliño: machaca las anchoas con el otro ajo hasta hacer una pasta, mézclala con el yogur, la mostaza, el resto del aceite, la ralladura del limón, 1 cucharada de su zumo, el parmesano rallado y mucha pimienta. Debe quedar cremoso; aligera con 1 cucharada de agua si hace falta.",
     "Mezcla el kale con dos tercios del aliño hasta que todas las hojas queden cubiertas.",
-    "Reparte en dos platos, añade los garbanzos y los picatostes calientes, el resto del aliño en hilos y el parmesano restante en lascas."
+    "Reparte en dos platos, añade los garbanzos y los picatostes calientes, el resto del aliño en hilos y las lascas de parmesano."
   ],
   nutricion: { kcal: 545, prot: 30, hc: 47, grasa: 26 },
   etiquetas: ["al horno", "alta en proteína", "invierno", "ideal para llevar", "superalimentos", "poco especiada"],
@@ -929,15 +945,16 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "pan de pita", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Prepara la marinada: mezcla 150 g de yogur con el garam masala, la cúrcuma, el pimentón, el comino, la cayena, el jengibre y los ajos rallados, el zumo de medio limón, media cucharada de aceite y 1 cucharadita de sal.",
+    "Prepara la marinada: ralla el jengibre y los ajos y mézclalos con 150 g de yogur, el garam masala, la cúrcuma, el pimentón, el comino, la cayena, el zumo de medio limón, media cucharada de aceite y 1 cucharadita de sal.",
     "Haz 2 o 3 cortes en cada muslo, embadúrnalos bien con la marinada y déjalos tapados en la nevera un mínimo de 2 horas (hasta 12 si te organizas la víspera): el yogur ablanda la carne y las especias penetran.",
-    "Ralla la mitad del pepino, estrújalo con las manos para quitarle el agua y mézclalo con el resto del yogur, la mitad de la menta picada, una pizca de comino y sal: es la raita. Resérvala en frío. Cuando falte un cuarto de hora para terminar el marinado, precalienta el horno a 240 °C con el grill.",
+    "Mientras se marina, ralla la mitad del pepino, estrújalo con las manos para quitarle el agua y pica la menta. Mezcla el pepino con el resto del yogur, la mitad de la menta, una pizca de comino y sal: es la raita. Resérvala en frío. Cuando falte un cuarto de hora para terminar el marinado, precalienta el horno a 240 °C con el grill.",
     "Coloca el pollo escurrido de marinada sobre una rejilla con bandeja debajo y ásalo 10 minutos; dale la vuelta y hornea 8-10 minutos más, hasta que esté tostado con puntos oscuros y al pincharlo salga jugo claro. Deja reposar 5 minutos.",
-    "Mientras, tuesta la pita en el horno 3 minutos y córtala en triángulos. Corta el resto del pepino en medias lunas, los tomates en gajos, la cebolla en plumas finas y la lechuga en tiras.",
-    "Aliña las verduras con el zumo del medio limón restante, el resto del aceite y sal. Repártelas en dos platos, pon encima el pollo en tiras gruesas, cucharadas de raita, el resto de la menta y el cilantro, y la pita tostada a un lado."
+    "Mientras, tuesta la pita en el horno 3 minutos y córtala en triángulos. Corta el resto del pepino en medias lunas, los tomates en gajos y la cebolla en plumas finas; corta la lechuga en tiras.",
+    "Corta el pollo en tiras gruesas. Aliña las verduras con el zumo del medio limón restante, el resto del aceite y sal. Repártelas en dos platos, pon encima el pollo, cucharadas de raita, el resto de la menta y el cilantro, y la pita tostada a un lado."
   ],
   nutricion: { kcal: 455, prot: 36, hc: 31, grasa: 21 },
   etiquetas: ["marinado", "al horno", "alta en proteína", "ligera", "picante", "bajo en colesterol"],
@@ -1018,7 +1035,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las judías en remojo en abundante agua fría (12 horas). Al día siguiente, escúrrelas y ponlas en una cazuela cubiertas con 3 dedos de agua fría y el laurel. Lleva a ebullición, retira la espuma, baja a fuego mínimo y cuece sin que borboteen 75-90 minutos, hasta que estén tiernas y enteras. Añade medio vaso de agua fría a mitad de cocción para que no se les rompa la piel. Sala solo al final.",
@@ -1066,15 +1084,16 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cacahuetes", q: 30, u: "g", nota: "tostados" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el solomillo en filetes finos (1 cm) y mézclalo con 1 cucharada de salsa de pescado, 1 cucharada de azúcar moreno, 2 ajos picados, la parte blanca de la cebolleta picada, pimienta y el aceite. Deja marinar 20-30 minutos a temperatura ambiente.",
-    "Mientras se marina, pon a hervir agua para los fideos y prepara el nuoc cham: disuelve la otra cucharada de azúcar en 4 cucharadas de agua caliente y añade el resto de la salsa de pescado, el zumo de las limas, el vinagre, el otro ajo muy picado y el chile en rodajas. Prueba: dulce, salado, ácido y picante en equilibrio.",
+    "Pica los ajos (uno de ellos muy fino, para el nuoc cham) y la parte blanca de la cebolleta. Corta el solomillo en filetes finos (1 cm) y mézclalo con 1 cucharada de salsa de pescado, 1 cucharada de azúcar moreno, 2 de los ajos, la parte blanca de la cebolleta, pimienta y el aceite. Deja marinar 20-30 minutos a temperatura ambiente.",
+    "Mientras se marina, pon a hervir agua para los fideos y prepara el nuoc cham: corta el chile en rodajas, disuelve la otra cucharada de azúcar en 4 cucharadas de agua caliente y añade el resto de la salsa de pescado, el zumo de las limas, el vinagre, el otro ajo y el chile. Prueba: dulce, salado, ácido y picante en equilibrio.",
     "Pon los fideos de arroz en un bol, cúbrelos con agua hirviendo y déjalos 3-4 minutos (según el paquete), hasta que estén blandos pero con mordida. Escúrrelos y refréscalos con agua fría.",
-    "Corta el pepino en bastones, la zanahoria en juliana fina y la lechuga en tiras. Deshoja la menta y el cilantro.",
+    "Corta el pepino en bastones, la zanahoria en juliana fina y la lechuga en tiras. Deshoja la menta y el cilantro, pica los cacahuetes y corta en rodajas la parte verde de la cebolleta.",
     "Calienta la plancha hasta que humee y haz el cerdo 2 minutos por cara en tandas sin amontonar, hasta que esté dorado con los bordes caramelizados del azúcar.",
-    "Monta los bowls: lechuga y fideos en la base, encima las verduras, las hierbas y el cerdo. Riega generosamente con el nuoc cham y termina con los cacahuetes picados y la parte verde de la cebolleta."
+    "Monta los bowls: lechuga y fideos en la base, encima las verduras, las hierbas y el cerdo. Riega generosamente con el nuoc cham y termina con los cacahuetes y la parte verde de la cebolleta."
   ],
   nutricion: { kcal: 590, prot: 41, hc: 71, grasa: 15 },
   etiquetas: ["verano", "alta en proteína", "sin horno", "picante", "bowl"],
@@ -1112,7 +1131,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de calabaza", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el aliño primero para que repose: bate el tahini con el zumo del limón (se espesará), añade el ajo rallado, el comino, la miel, el aceite, sal, pimienta y 2-3 cucharadas de agua fría hasta tener una crema ligera que caiga de la cuchara.",

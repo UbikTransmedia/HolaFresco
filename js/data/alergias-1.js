@@ -34,7 +34,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la panceta en 4 trozos gruesos, ponla en la cazuela cubierta de agua fría y llévala a ebullición; cuece 5 minutos y tira el agua. Así le quitas el exceso de sal, como se hace con el petit salé, y las lentejas no quedan saladas.",
@@ -82,7 +83,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 130, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja el chana dal 1 hora en agua fría (o desde la noche anterior). Escúrrelo y lávalo hasta que el agua salga limpia.",
@@ -126,7 +128,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta las cebollas en medias lunas finas, lamina el ajo y pica el perejil.",
@@ -171,7 +174,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la parte blanca de las cebolletas, el ajo y el tomate, y corta la parte verde de las cebolletas en aros. Sala el cerdo y dóralo en la cazuela con el aceite a fuego fuerte 5-6 minutos, hasta que tenga costra por todos los lados.",
@@ -218,7 +222,8 @@ window.RECETAS_SEED.push({
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "arroz basmati", q: 130, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el ajo y el jengibre. Marina el pollo con la cúrcuma, media cucharadita de sal y la mitad del ajo y del jengibre mientras preparas el masala (mínimo 10 minutos).",
@@ -266,7 +271,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz jazmín y cuécelo en 210 ml de agua con sal, tapado y a fuego mínimo 12 minutos; deja reposar 5 minutos sin destapar.",
@@ -313,7 +319,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el zumo de 1 limón, 3 dientes de ajo rallados, el pimentón, el comino, la canela, la pimienta de Jamaica, la mitad del aceite de oliva, sal y pimienta. Haz unos cortes en la carne del pollo y embadúrnalo bien; déjalo marinar al menos 30 minutos (o toda la noche en la nevera).",
@@ -358,7 +365,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal gruesa", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz: pica medio diente de ajo y sofríelo en 1 cucharadita de aceite, añade el arroz, remueve 1 minuto, cubre con 200 ml de agua caliente con sal y cuece tapado a fuego mínimo 15 minutos.",
@@ -402,7 +410,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Salpimienta el cordero 10 minutos antes de cocinarlo. Pica la cebolla fina y lamina los ajos. Trocea la lechuga, corta la cebolleta en aros finos y el tomate en gajos, y pica el perejil.",
@@ -447,7 +456,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 120, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y los pimientos en tiras, lamina el ajo y pela y trocea el tomate. Salpimienta el pollo, calienta el aceite en la cazuela y dóralo a fuego medio-fuerte 8-10 minutos, empezando con la piel hacia abajo, hasta que esté bien dorado. Sácalo.",
@@ -494,7 +504,8 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "aceite de girasol", q: 250, u: "ml", nota: "para freír" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el epis: tritura el pimiento verde, las cebolletas, el ajo, el perejil, las hojas del tomillo y medio chile habanero sin semillas con el zumo de la naranja y de 1 lima, una cucharadita de sal y pimienta. Embadurna el cerdo y déjalo marinar al menos 30 minutos (mejor toda la noche en la nevera).",
@@ -536,7 +547,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 60, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el lomo de la nevera 30 minutos antes. Precalienta el horno a 200 °C.",
@@ -627,7 +639,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita el troncho del repollo con un cuchillo puntiagudo y escáldalo entero en una olla grande de agua hirviendo con sal 5 minutos, separando las hojas exteriores a medida que se ablanden. Necesitas 8 hojas. Rebaja con el cuchillo el nervio grueso de cada una.",
@@ -677,7 +690,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 130, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el arroz jazmín lavado con 200 ml de agua y sal, tapado y a fuego mínimo 12 minutos; deja reposar 5.",
@@ -723,7 +737,8 @@ window.RECETAS_SEED.push({
     { n: "leche de coco", q: 200, u: "ml" },
     { n: "aceite de coco", q: 1, u: "cda" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 240 ml de agua con sal, tapado y a fuego mínimo 12 minutos; deja reposar 5.",
@@ -767,7 +782,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "arroz basmati", q: 100, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Empieza por el pilav: pon a hervir 200 ml de agua con sal; lava el arroz, dóralo 1 minuto en una cazuela pequeña con 1 cucharadita de aceite, añade el agua hirviendo y cuece tapado a fuego mínimo 12 minutos; deja reposar 10 minutos con un paño bajo la tapa.",
@@ -810,7 +826,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 4, u: "cda" },
     { n: "arroz jazmín", q: 130, u: "g" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata las setas shiitake en 200 ml de agua caliente 20 minutos. Mientras, cuece el arroz jazmín lavado en 200 ml de agua con sal, tapado y a fuego mínimo 12 minutos; deja reposar 5.",
@@ -857,7 +874,8 @@ window.RECETAS_SEED.push({
     { n: "tortillas de maíz", q: 6, u: "ud" },
     { n: "aguacate", q: 1, u: "ud" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la ternera en la cazuela con la cebolla, el ajo, el laurel, una cucharada de sal y agua que la cubra holgadamente. Cuando hierva, quita la espuma, baja el fuego y cuece tapado 1 hora y 20 minutos, hasta que se deshaga al pincharla.",
@@ -895,7 +913,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 300, u: "g", nota: "nuevas y pequeñas" },
     { n: "aceitunas verdes", q: 50, u: "g", nota: "mallorquinas partidas si las encuentras" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y cuécelas enteras con piel en agua con sal 15-18 minutos, hasta que se pinchen con facilidad. Escúrrelas, deja que templen y córtalas por la mitad.",
@@ -1075,7 +1094,8 @@ window.RECETAS_SEED.push({
     { n: "harina de maíz", q: 120, u: "g", nota: "para polenta, instantánea o tradicional" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, la zanahoria y el ajo. Corta la ternera en dados de 3 cm, sécala, salpimiéntala y pásala por la maicena sacudiendo el exceso.",
@@ -1123,7 +1143,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pollo en una cazuela con la mitad del jengibre en láminas, 2 chalotas partidas, 1 cucharadita de sal y 800 ml de agua fría. Lleva a ebullición, quita la espuma y cuece a fuego muy suave 25 minutos, sin que borbotee, hasta que el pollo esté hecho y jugoso. Mientras, pica la chalota restante y el ajo, corta la cebolla morada en juliana muy fina y el pepino en rodajas, deshoja la menta y el cilantro y ralla el resto del jengibre.",
@@ -1212,7 +1233,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las zanahorias y córtalas en rodajas finas: cuanto más finas, antes se cuecen. Limpia el puerro y córtalo en rodajas con la cebolla. Pon a calentar 900 ml de agua.",
@@ -1252,7 +1274,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", q: 0.5, u: "cdta" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la costilla en la cazuela, cúbrela de agua fría y llévala a ebullición; cuece 3 minutos, tira el agua y lava los trozos bajo el grifo. Es el truco cantonés para un caldo limpio y transparente.",
@@ -1294,7 +1317,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja el arroz glutinoso 30 minutos en agua fría y escúrrelo. Limpia el picantón por dentro y por fuera, quítale la grasa de la cavidad y sécalo.",
@@ -1340,7 +1364,8 @@ window.RECETAS_SEED.push({
     { n: "rábano", q: 6, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita el tallo y las semillas a los chiles y tuéstalos en una sartén seca 20-30 segundos por lado, hasta que huelan y se ablanden, sin que se quemen (amargarían). Remójalos en 400 ml de agua recién hervida 15 minutos.",

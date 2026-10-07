@@ -39,7 +39,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las gambas secas en remojo en agua templada 10 minutos. Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo sin destapar.",
@@ -85,7 +86,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "albahaca tailandesa", q: 0.5, u: "manojo" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera (o al menos 4 horas antes) pon el arroz glutinoso en remojo con agua abundante. Escúrrelo, aparta 20 g y cuece el resto al vapor en un colador tapado sobre una cazuela con agua hirviendo 20-25 minutos, dándole la vuelta a media cocción, hasta que los granos estén translúcidos y pegajosos.",
@@ -130,7 +132,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pepino", q: 200, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -177,7 +180,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", q: 0.5, u: "cdta", nota: "recién molida" },
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Pon las gambas secas en remojo en agua templada 10 minutos.",
@@ -220,7 +224,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -263,7 +268,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud", nota: "en lugar del calamansi" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -310,7 +316,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 200, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño y ponle un peso encima 10 minutos para que suelte el agua.",
@@ -357,7 +364,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "caldo de verduras", q: 400, u: "ml", nota: "casero o sin cebolla ni ajo" },
     { n: "arroz jazmín", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -406,7 +414,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "arroz jazmín", q: 100, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 150 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Extiéndelo en un plato para que quede tibio.",
@@ -451,7 +460,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 3, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el jengibre y córtalo en hilos lo más finos que puedas. Ponlo en un bol con el zumo de 1 lima y una pizca de sal y déjalo macerar 20 minutos: se vuelve rosado, pierde parte del picor y queda como un encurtido rápido.",
@@ -497,7 +507,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "cacahuetes", q: 30, u: "g", nota: "sin sal" },
-    { n: "arroz jazmín", q: 120, u: "g" }
+    { n: "arroz jazmín", q: 120, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Extiéndelo en un plato para que quede tibio.",
@@ -637,7 +648,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "salsa de pescado", q: 1, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 190 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Extiéndelo en una bandeja para que se temple: el nasi ulam se come a temperatura ambiente.",
@@ -685,7 +697,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "papel de arroz", q: 2, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los fideos en remojo en agua fría 20 minutos. Tuesta los cacahuetes en una sartén sin aceite 4 minutos y pícalos grueso.",
@@ -732,7 +745,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cebolleta (parte verde)", q: 30, u: "g" },
     { n: "pepino", q: 150, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pollo en dados de 1,5 cm y mézclalo con media cucharadita de cúrcuma, 1 cucharadita de salsa de pescado y una pizca de sal. Ralla el jengibre y el tomate, desechando la piel.",
@@ -781,7 +795,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "pepino", q: 150, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y déjalo escurrir 10 minutos. Ralla los tomates y desecha la piel; pica el jengibre. Corta la merluza en 4 trozos, sálala, ponle pimienta y unas gotas de salsa de pescado.",
@@ -829,7 +844,8 @@ window.RECETAS_SEED.push({
     { n: "pak choi", q: 250, u: "g" },
     { n: "albahaca tailandesa", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los fideos en remojo en agua fría 20 minutos. Pica muy fina la parte tierna de la hierba limón, ralla el jengibre, corta la zanahoria en dados pequeños y ralla los tomates desechando la piel.",
@@ -874,7 +890,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "pimienta blanca", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las almejas y déjalas en agua fría con sal mientras preparas lo demás. Corta la sepia en tiras finas. Pela el jengibre: corta la mitad en láminas y la otra mitad en hilos finísimos para servir.",
@@ -918,7 +935,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1.5, u: "cda" },
     { n: "albahaca limón", q: 1, u: "manojo", nota: "o albahaca tailandesa" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Pon las gambas secas en remojo en agua templada 10 minutos.",
@@ -1007,7 +1025,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 1, u: "cda" },
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -1053,7 +1072,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cacahuetes", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados de 2 cm; corta el calabacín en rodajas. Golpea la hierba limón y pica el jengibre.",
@@ -1143,7 +1163,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el cordero en dados de 3 cm. Escáldalo 3 minutos en agua hirviendo, escúrrelo y acláralo: así el caldo saldrá limpio y con menos grasa.",

@@ -36,7 +36,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "pepinillos", q: 4, u: "ud", opcional: true, nota: "para acompañar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Pela las cebollas y córtalas en medias lunas finas, y pica el ajo.",
@@ -120,7 +121,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 20, u: "g" },
     { n: "smetana", q: 80, u: "g", nota: "o nata agria" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si el requesón está muy húmedo, déjalo escurrir unos minutos en un colador con papel de cocina; después cháfalo con un tenedor hasta que no queden grumos.",
@@ -164,7 +166,8 @@ window.RECETAS_SEED.push({
     { n: "pepinillos", q: 4, u: "ud", nota: "para acompañar" },
     { n: "cebollino fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C, pon a hervir abundante agua con sal y unta una fuente pequeña (de unos 20 × 25 cm) con un poco de la mantequilla.",
@@ -207,7 +210,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "salchicha ahumada", q: 100, u: "g", opcional: true, nota: "en dados, dorada con la cebolla, para una versión más contundente" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 1,5 cm y cuécelas en agua con sal 10-12 minutos, hasta que estén tiernas pero enteras. Sácalas con una espumadera y, en la misma agua, cuece los macarrones el tiempo del paquete.",
@@ -351,7 +355,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g", nota: "rallado; o un queso de oveja curado (en Dalmacia, queso de Pag)" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla y pica el ajo. Corta la ternera en dados de 2 cm, salpimiéntala y dórala en la cazuela con el aceite a fuego fuerte, por tandas, 5-6 minutos, hasta que esté bien tostada. Retírala.",
@@ -442,7 +447,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "yogur natural", q: 250, u: "g", opcional: true, nota: "para acompañar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Seca los contramuslos, frótalos con sal, pimienta, 1 cucharadita de pimentón y la mitad de la ajedrea, y colócalos con la piel hacia arriba en una fuente de horno de unos 25 × 30 cm. Hornéalos 25 minutos, hasta que la piel empiece a dorarse.",
@@ -484,7 +490,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Corta el salmón en dados de 2-3 cm y pica la chalota, los pepinillos, las alcaparras y el eneldo (reserva unas ramitas).",
@@ -526,7 +533,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "guisantes congelados", q: 100, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Prepara la mantequilla de hierbas: chafa la mantequilla blanda con 2 dientes de ajo rallados, la mitad del eneldo y el perejil picados finos, la ralladura del medio limón, sal y pimienta. Es el relleno del pollo a la Kiev.",
@@ -569,7 +577,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 15, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con gratinador. Cuece los macarrones en abundante agua con sal 2 minutos menos de lo que indique el paquete y añade las espinacas al agua los últimos 30 segundos. Escurre.",
@@ -612,7 +621,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una cazuela grande con agua y sal para la pasta y otra pequeña con agua para los huevos. Parte los espárragos por donde se quiebren solos, desecha la parte dura y córtalos en trozos de 3-4 cm, dejando las yemas aparte.",
@@ -705,7 +715,8 @@ window.RECETAS_SEED.push({
     { n: "smetana", q: 80, u: "g", nota: "o nata agria; para una versión vegana, yogur de soja" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Pela la remolacha y rállala por la parte gruesa del rallador (usa guantes si no quieres teñirte las manos). Ralla también la zanahoria, pica la cebolla y el ajo y corta la col en tiras finas y cortas.",
@@ -795,7 +806,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pavo en dados de 2 cm y salpimiéntalo. Corta la cebolla en medias lunas, los pimientos en tiras cortas y el calabacín en medias rodajas de 1 cm, y lamina el ajo. Pon a calentar el caldo.",

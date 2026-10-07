@@ -126,7 +126,8 @@ window.RECETAS_SEED.push({
     { n: "judías verdes", q: 140, u: "g" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "rábano daikon", q: 120, u: "g", nota: "o rábanos rojos" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla en una fuente 2 cucharadas de tamari, el zumo de la media naranja, el de media lima y 1 cucharadita de azúcar. Añade unas rodajas finas de la otra media lima. Coloca el pez espada, dale la vuelta para que se impregne y déjalo marinar 30 minutos en la nevera, girándolo a mitad.",
@@ -170,7 +171,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "col china", q: 300, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -212,7 +214,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 3, u: "cda" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de girasol", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el miso con 2 cucharaditas de azúcar y 1 cucharada de agua hasta tener una pasta lisa. Seca el bacalao, sálalo muy ligeramente, úntalo por todas partes con la pasta, tápalo y déjalo en la nevera al menos 2 horas (mejor toda la noche).",
@@ -256,7 +259,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "arroz japonés", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja el kombu en agua fría 10 minutos para que se ablande. Precalienta el horno a 200 °C. Lava el arroz y cuécelo con 150 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -301,7 +305,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una olla con abundante agua. Tuesta el sésamo negro en una sartén seca a fuego medio 2 minutos, hasta que huela y salte. Muélelo en un mortero hasta que esté casi pastoso y mézclalo con el tamari, el vinagre, el azúcar y 3 cucharadas de agua caliente: tendrás una salsa espesa y negra.",
@@ -346,7 +351,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de girasol", q: 2, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si usas brochetas de madera, ponlas en remojo mientras cueces el arroz. Pela el jengibre: ralla la mitad y corta la otra mitad en láminas.",
@@ -391,7 +397,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -434,7 +441,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 1, u: "ud" },
     { n: "arroz japonés", q: 140, u: "g" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz japonés hasta que el agua salga clara y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -477,7 +485,8 @@ window.RECETAS_SEED.push({
     { n: "pimiento verde italiano", q: 2, u: "ud" },
     { n: "aceite de girasol", q: 2, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -614,7 +623,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "aceite de girasol", q: 1, u: "cdta" },
     { n: "arroz japonés", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el cordero en lonchas de medio centímetro, retirando la grasa visible. Ralla el jengibre y mézclalo con el tamari, el zumo de media naranja, el azúcar y el aceite de ajo. Marina la carne con la mitad de esta salsa 15 minutos y reserva la otra mitad para mojar.",
@@ -703,7 +713,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 2, u: "cdta" },
     { n: "arroz japonés", q: 140, u: "g" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -746,7 +757,8 @@ window.RECETAS_SEED.push({
     { n: "pak choi", q: 150, u: "g" },
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre las codornices en libro: con unas tijeras de cocina corta a lo largo de la columna, ábrelas y aplánalas con la palma de la mano. Sécalas muy bien y sálalas ligeramente.",
@@ -791,7 +803,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -929,7 +942,8 @@ window.RECETAS_SEED.push({
     { n: "alga nori", q: 0.5, u: "hoja" },
     { n: "arroz japonés", q: 120, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz japonés hasta que el agua salga clara y cuécelo con 150 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -1017,7 +1031,8 @@ window.RECETAS_SEED.push({
     { n: "naranja", q: 0.5, u: "ud" },
     { n: "vinagre de arroz", q: 1, u: "cdta" },
     { n: "jengibre fresco", q: 5, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C. Lava la calabaza, quítale las semillas y córtala con piel en dados de 1,5 cm. Cuécela al vapor en una cesta sobre una cazuela con agua hirviendo 8-10 minutos, hasta que esté tierna pero entera. Mientras, pica la cebolleta.",
@@ -1060,7 +1075,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de girasol", q: 1, u: "cdta" },
     { n: "arroz japonés", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en papel de cocina, ponle un plato con peso encima y déjalo escurrir 15 minutos. Mientras, lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
@@ -1102,7 +1118,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "alga nori", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",

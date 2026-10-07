@@ -257,7 +257,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 100, u: "ml", nota: "para freír; reserva 1 cda para la ensalada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pincha las berenjenas enteras con un tenedor y ásalas en una bandeja 40 minutos, dándoles la vuelta a mitad, hasta que la piel esté arrugada y se hundan al presionarlas.",
@@ -300,7 +301,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "pan", q: 100, u: "g", nota: "para mojar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las acelgas y las espinacas. Separa las pencas de acelga y córtalas en tiras de 1 cm; trocea las hojas. Corta el hinojo en láminas finas y pica y reserva sus hojitas; corta la cebolla en juliana y el ajo en láminas.",
@@ -516,7 +518,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las setas con papel de cocina y córtalas en trocitos, como se cortan las asaduras en la magiritsa. Lava la lechuga y córtala en tiras finas. Pica las cebolletas separando la parte blanca de la verde, y el eneldo con sus tallos tiernos. Calienta el caldo.",
@@ -840,7 +843,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 4, u: "rebanada" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el tofu, envuélvelo en papel de cocina y ponle encima un peso (una sartén o un par de latas) unos 10 minutos, mientras preparas lo demás, para que suelte el agua.",

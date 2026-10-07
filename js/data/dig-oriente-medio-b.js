@@ -40,7 +40,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 40, u: "g", nota: "mejor moradas o negras de Marruecos" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "pan sin gluten", q: 4, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los huevos en un cazo con agua fría y, cuando rompa a hervir, cuenta 10 minutos. Pásalos a agua fría y pélalos.",
@@ -89,7 +90,8 @@ window.RECETAS_SEED.push({
     { n: "quinoa", q: 80, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las zanahorias y las chirivías y córtalas en bastones gruesos de 6-7 cm (si la chirivía es gruesa, quítale el corazón leñoso); corta la patata en gajos. Ralla la piel de la naranja y exprime el zumo. Pica la parte verde de la cebolleta y ralla el jengibre.",
@@ -132,7 +134,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "yogur sin lactosa", q: 150, u: "g", nota: "natural, frío" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita a la col negra el nervio central, corta las hojas en tiras finas de 1 cm y lávalas en agua abundante. Escúrrelas sin secarlas del todo. Pica la parte verde de la cebolleta.",
@@ -180,7 +183,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en gajos, quítale las pepitas y ásala 30 minutos sobre papel de horno, hasta que la carne se hunda al pincharla. Mientras, lava la quinoa y cuécela en 160 ml de agua con sal, tapada, 12 minutos; destápala y deja que se seque.",
@@ -228,7 +232,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 15-18 minutos, hasta que estén muy tiernas. Mientras, pica el perejil y la parte verde de la cebolleta. Escúrrelas, déjalas evaporar 2 minutos en la cazuela caliente y cháfalas con un tenedor en un puré rústico. Precalienta el horno a 190 °C.",
@@ -275,7 +280,8 @@ window.RECETAS_SEED.push({
     { n: "almendras laminadas", q: 15, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "yogur sin lactosa", q: 150, u: "g", nota: "natural" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Maja el azafrán en un mortero con una pizca del azúcar y añade 3 cucharadas de agua caliente; déjalo reposar. Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos.",
@@ -322,7 +328,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 20-25 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas, pélalas y deja que se templen.",
@@ -369,7 +376,8 @@ window.RECETAS_SEED.push({
     { n: "pimiento verde", q: 2, u: "ud", nota: "tipo italiano" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en láminas finas de medio centímetro y cuécelas al vapor 10 minutos: pierde el amargor y queda más tierno y digestivo. Precalienta el horno a 200 °C.",
@@ -462,7 +470,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la pechuga en un cazo con agua fría que la cubra, el laurel y sal. Cuando empiece a hervir, baja el fuego al mínimo y cuécela 12-15 minutos sin borbotones. Déjala templar en el caldo y desmenúzala en tiras.",
@@ -508,7 +517,8 @@ window.RECETAS_SEED.push({
     { n: "agua de azahar", q: 1, u: "cdta" },
     { n: "canela molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo (le quita el amargor). Cuécela en 300 ml de agua con sal, tapada y a fuego suave, 12 minutos. Déjala reposar 5 minutos tapada y extiéndela en una bandeja para que se enfríe.",
@@ -552,7 +562,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava las patatas, córtalas con piel en dados de 2,5 cm y cuécelas en agua con sal 10-12 minutos, hasta que la punta de un cuchillo entre sin que se deshagan. Escúrrelas bien.",
@@ -598,7 +609,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "yogur sin lactosa", q: 150, u: "g", nota: "natural" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo con agua y sal 30 minutos. Maja el azafrán y disuélvelo en 3 cucharadas de agua caliente. Mientras el arroz está en remojo, pica la parte verde de la cebolleta y las hierbas (eneldo, albahaca, estragón y cebollino).",
@@ -647,7 +659,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo 15 minutos. Corta el pollo en dados de 2 cm, la zanahoria y el pimiento en dados pequeños y pica fino las espinacas, las hierbas y la parte verde de la cebolleta.",
@@ -741,7 +754,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Cuece la pasta en agua con sal 2 minutos menos de lo que indique el paquete, escúrrela y extiéndela para que no se pegue. Mientras se cuece, pica la parte verde de la cebolleta.",
@@ -788,7 +802,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Unta el pescado con media cucharadita de cúrcuma, sal y el zumo de medio limón, y déjalo 10 minutos. Mientras, ralla 2 tomates desechando la piel y pica la parte verde de la cebolleta.",
@@ -1106,7 +1121,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de calabaza", q: 30, u: "g" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la calabaza, quítale las pepitas y córtala en dados de 3 cm. Pela la zanahoria y córtala en rodajas finas. Pela y ralla el jengibre y pica la parte verde de la cebolleta.",

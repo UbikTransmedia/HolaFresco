@@ -39,7 +39,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Frota la merluza con media cucharadita de cúrcuma y una pizca de sal y déjala 10 minutos: en Bengala nunca se cocina el pescado sin este paso, que lo sazona y le da firmeza.",
@@ -84,7 +85,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 280 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos tapado.",
@@ -129,7 +131,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo la parte verde" },
     { n: "vinagre de vino blanco", q: 1, u: "cda" },
     { n: "arroz basmati", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Sala la corvina y resérvala en la nevera. Lava el arroz y cuécelo en 280 ml de agua con sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos tapado. Mientras se cuece, corta el pimiento verde en tiras finas y la parte verde de la cebolleta en rodajas.",
@@ -172,7 +175,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo la parte verde" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 280 ml de agua con sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos tapado. Mientras se cuece, pica la parte verde de la cebolleta y el cilantro.",
@@ -216,7 +220,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo la parte verde" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla los langostinos con la cúrcuma y una pizca de sal y déjalos en la nevera mientras preparas lo demás.",
@@ -260,7 +265,8 @@ window.RECETAS_SEED.push({
     { n: "cardamomo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "arroz basmati", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el daikon y córtalo en rodajas de 1 cm. Frota la trucha con la cúrcuma y sal y resérvala.",
@@ -306,7 +312,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 1, u: "ud" },
     { n: "granada", q: 50, u: "g", nota: "en granos" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Infusiona el azafrán en 1 cucharada de agua tibia 10 minutos, hasta que el agua tome un color naranja intenso. Mientras, ralla el jengibre y la piel de medio limón.",
@@ -349,7 +356,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1.5, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la kabocha con piel en gajos de 2 cm, mézclala con la cúrcuma, sal y 1 cucharadita del aceite de ajo y ásala 22 minutos, hasta que los bordes se caramelicen.",
@@ -392,7 +400,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "yogur sin lactosa", q: 60, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal y la cúrcuma 8 minutos, hasta que estén tiernas pero enteras.",
@@ -437,7 +446,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo la parte verde" },
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las almendras en remojo en agua caliente: necesitan al menos 15 minutos. Pica la parte verde de la cebolleta.",
@@ -482,7 +492,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla clarificada", q: 1, u: "cdta", nota: "ghee" },
     { n: "menta seca", q: 1, u: "cdta" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el cordero en un bol con sal, 1 cucharadita de hinojo molido, las semillas de 3 cardamomos molidas y 3 cucharadas de agua helada. Amasa y golpea la masa contra el bol 5 minutos, hasta que esté pegajosa y casi lisa, como una pasta: es lo que hace que la gushtaba quede esponjosa.",
@@ -529,7 +540,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el yogur en un colador con papel de cocina 15 minutos para que espese. Escalda las espinacas 30 segundos en agua hirviendo y enfríalas en agua helada: mantendrán el verde en el horno.",
@@ -574,7 +586,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo la parte verde" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los filetes entre dos hojas de papel de horno y golpéalos con un cazo hasta dejarlos de medio centímetro de grosor.",
@@ -620,7 +633,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre. Tuesta el comino, el clavo, la canela y la pimienta en una sartén seca 1 minuto y muélelos. Mézclalos con la cúrcuma, el jengibre, el vinagre y sal.",
@@ -668,7 +682,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fino la cebolleta verde, el jengibre y la mitad del cilantro y de la menta. Mézclalos con el pavo, el comino molido, el cilantro molido, el cardamomo y sal, y amasa 3 minutos hasta que la mezcla esté pegajosa. Refrigérala 15 minutos.",
@@ -717,7 +732,8 @@ window.RECETAS_SEED.push({
     { n: "yogur sin lactosa", q: 150, u: "g" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la mitad del jengibre. Mezcla el pollo con la cúrcuma, el cilantro molido, el jengibre rallado, el zumo de medio limón y sal, y déjalo 15 minutos mientras preparas lo demás.",
@@ -763,7 +779,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo la parte verde" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla 60 g de yogur con el hinojo molido, el jengibre molido, el pimentón, la asafétida, 1 cucharadita de aceite de mostaza y sal. Embadurna la ternera y déjala marinar al menos 30 minutos en la nevera (mejor 4 horas): el yogur la ablanda. Si las brochetas son de madera, ponlas en remojo.",
@@ -807,7 +824,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de comino", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la chirivía y córtala en rodajas; pela el jengibre y lamínalo. Cuécelos en agua con sal 15 minutos, hasta que la chirivía esté muy tierna.",
@@ -855,7 +873,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la pechuga en una cazuela con agua fría, sal y unas láminas del jengibre; cuando hierva, baja el fuego y cuécela 8 minutos. Mientras, pela la patata y córtala en dados de 1,5 cm; añádela y cuece 7 minutos más, hasta que el pollo esté blanco en el centro y la patata tierna. Mientras tanto, pica el resto del jengibre, el tomate y el cilantro y corta la cebolleta verde en rodajas. Escurre y desmenuza el pollo con dos tenedores.",
@@ -900,7 +919,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo la parte verde" },
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos. Mientras se cuece, ralla el jengibre y la zanahoria, corta la col en tiras muy finas y pica la parte verde de la cebolleta.",
@@ -944,7 +964,8 @@ window.RECETAS_SEED.push({
     { n: "panela", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura el coco con 200 ml de agua 1 minuto, hasta que quede lechoso. Añade la harina de arroz, otros 220 ml de agua y sal y tritura de nuevo. La masa debe ser muy líquida, como leche entera: si no, añade agua a cucharadas. Déjala reposar 10 minutos.",
@@ -987,7 +1008,8 @@ window.RECETAS_SEED.push({
     { n: "hojas de fenogreco secas", q: 1, u: "cdta" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos.",
@@ -1033,7 +1055,8 @@ window.RECETAS_SEED.push({
     { n: "hojas de curry", q: 8, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en dados de 1 cm y cuécela en agua con sal 7 minutos. Pon a calentar agua en la base de la vaporera.",
@@ -1082,7 +1105,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cdta" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el tofu, envuélvelo en un paño y presiónalo 10 minutos bajo un peso. Mientras, lava el arroz y cuécelo en 280 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; reposa 5 minutos sin destapar. Corta los pimientos en trozos grandes y pica el cilantro. Corta el tofu prensado en dados de 2,5 cm.",
@@ -1129,7 +1153,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de mostaza", q: 1, u: "cda", nota: "o aceite de oliva" },
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 2 cm y cuécelo al vapor o en agua hirviendo 10 minutos: pierde el amargor y queda más tierno. Escúrrelo y sécalo.",

@@ -38,7 +38,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca los entrecots de la nevera 30 minutos antes y sécalos con papel de cocina.",
@@ -83,7 +84,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cdta" },
     { n: "chile coreano en copos", q: 0.5, u: "cdta", nota: "o pimentón picante" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara las salsas: en un platito mezcla la mitad del aceite de sésamo con sal y pimienta (gireumjang). En otro, mezcla la pasta de miso con 1 diente de ajo rallado, unas gotas de aceite de sésamo y el sésamo, aclarado con 1 cucharada de agua.",
@@ -177,7 +179,8 @@ window.RECETAS_SEED.push({
     { n: "rábanos", q: 6, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Machaca el azafrán con una pizca de sal en un mortero e hidrátalo en 2 cucharadas de agua caliente 10 minutos. Mientras, ralla la media cebolla y exprímela en un colador: usa solo el jugo.",
@@ -221,7 +224,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 2, u: "rama" },
     { n: "apio", q: 3, u: "rama" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca las alitas a conciencia con papel de cocina y sálalas. Si tienes tiempo, déjalas destapadas en la nevera unas horas: la piel seca es la que se vuelve crujiente.",
@@ -311,7 +315,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras, limpia los grelos: quita los tallos duros y las hojas estropeadas y quédate con las hojas tiernas, los brotes y los tallos finos. Lávalos bien.",
@@ -395,7 +400,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la coliflor en ramilletes y cuécela al vapor 12-15 minutos, hasta que un cuchillo entre sin resistencia. Mientras, pela el limón a lo vivo con un cuchillo, saca los gajos sin piel y córtalos en dados pequeños; escurre las alcaparras, pica el perejil y calienta la nata. Escúrrela muy bien y déjala 2 minutos en el colador para que suelte el vapor: el agua es lo que deja los purés de coliflor aguados.",
@@ -615,7 +621,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal y, mientras, despunta las judías verdes y pica el perejil. Cuece las judías 5-6 minutos, hasta que estén tiernas pero aún crujientes. Pásalas a un bol con agua helada para fijar el color y escúrrelas.",
@@ -656,7 +663,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Prepara el ladolemono: bate 4 cucharadas de aceite con el zumo de 1 limón, el orégano, 1 ajo rallado, sal y pimienta hasta que emulsione. Lamina los otros 2 ajos.",
@@ -788,7 +796,8 @@ window.RECETAS_SEED.push({
     { n: "rábano", q: 4, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cecina en tiras finas y machácala en el mortero o deshébrala con los dedos hasta dejarla en hebras. Si es muy salada, remójala antes 10 minutos en agua templada y sécala bien.",
@@ -829,7 +838,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 3, u: "diente" },
     { n: "tamari", q: 1, u: "cda" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien los langostinos con papel, ábrelos por el lomo para quitarles el intestino y mézclalos con una pizca de sal, pimienta blanca y el vino. Déjalos 10 minutos. Mientras, pon a hervir agua con sal, pica la parte blanca de la cebolleta, corta la verde en aros y lamina el ajo.",
@@ -870,7 +880,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con grill. Corta la coliflor en ramilletes grandes y cuécelos en agua hirviendo con sal 5-6 minutos, hasta que estén tiernos pero firmes.",
@@ -958,7 +969,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Escurre los piquillos guardando su jugo y elige los 10 más enteros para rellenar; los 2 rotos irán a la salsa. Pica la chalota, el ajo y las setas.",
@@ -1001,7 +1013,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 30, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mete la lechuga entera en la nevera o 10 minutos en el congelador: tiene que estar helada y crujiente.",
@@ -1048,7 +1061,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "zumaque", q: 0.5, u: "cdta", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Frota los contramuslos con 1 cucharada de za'atar, sal, pimienta y media cucharada de aceite.",
@@ -1092,7 +1106,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el magret 20 minutos antes. Haz cortes en rombo en la grasa sin llegar a la carne, cada centímetro, y sálalo por ambos lados.",

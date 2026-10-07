@@ -127,7 +127,8 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 100, u: "g" },
     { n: "mantequilla", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C con calor arriba y abajo. Cuece los macarrones en agua con sal 2 minutos menos de lo que indique el paquete, porque terminarán de hacerse en el horno. Escúrrelos y enfríalos con un chorro de agua fría.",
@@ -349,7 +350,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si el bogavante está vivo, mételo 30 minutos en el congelador para adormecerlo. Pon a hervir agua abundante con sal para la pasta. Parte los tomates por la mitad y rállalos por la cara del corte; desecha la piel. Pica fina la cebolla, lamina el ajo y pica el perejil.",
@@ -472,7 +474,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla en un bol los dados de lomo con 1 cucharada de aceite, el zumo de medio limón, 1 diente de ajo rallado, la mitad del orégano, sal y pimienta. Déjalos marinar mientras preparas el resto.",
@@ -518,7 +521,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Pon las placas de lasaña en remojo en agua caliente 10 minutos para que se ablanden. Mientras, pica las cebolletas y el eneldo y desmiga la feta.",
@@ -559,7 +563,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua abundante con sal. Ralla la piel del limón y exprime su zumo. Pica el eneldo.",
@@ -602,7 +607,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pez espada en dados de 2 cm y rocíalos con el zumo del limón, sal y pimienta. Pon a hervir agua abundante con sal.",
@@ -648,7 +654,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Si tus placas de canelones no son precocidas, cuécelas en agua con sal el tiempo del paquete y extiéndelas sobre un paño limpio sin que se toquen.",
@@ -737,7 +744,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 60, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para los ñoquis. Corta las cebolletas en rodajas finas separando la parte blanca de la verde, pica el ajo, ralla la piel del limón y pica la menta y el eneldo.",
@@ -869,7 +877,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua abundante con sal y cuece los fusilli el tiempo que indique el paquete.",

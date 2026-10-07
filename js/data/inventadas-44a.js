@@ -75,7 +75,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "aceite de ajo", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con aire. Pela las patatas, córtalas en dados de 2 cm y sécalas muy bien con un paño: el agua en la superficie produce vapor y las patatas se cuecen en vez de tostarse.",
@@ -167,7 +168,8 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 50, u: "g" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon una sartén de hierro o antiadherente a fuego fuerte, sin aceite, y asa los tomates enteros, un chile y el pimiento verde 8-10 minutos, dándoles la vuelta, hasta que tengan manchas negras. Ese tostado aporta el sabor ahumado y profundo que normalmente daría la cebolla.",
@@ -214,7 +216,8 @@ window.RECETAS_SEED.push({
     { n: "asafétida", q: 1, u: "pizca", opcional: true, nota: "comprueba que no lleve harina de trigo" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz en un colador bajo el grifo hasta que el agua salga casi transparente. Así eliminas el almidón suelto y los granos quedan sueltos. Cuécelo con 225 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Apaga y déjalo reposar 5 minutos sin destapar.",
@@ -262,7 +265,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las patatas en dados de 1,5 cm y cuécelas en el microondas en un recipiente tapado con 2 cucharadas de agua 6 minutos, hasta que estén casi tiernas. Cocerlas antes asegura que el interior quede tierno; la sartén solo tendrá que dorarlas.",
@@ -305,7 +309,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cebolleta (parte verde)", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 150, u: "ml", nota: "suave, para freír; se absorbe solo una parte" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar 5 minutos más sin destapar.",
@@ -348,7 +353,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebolleta (parte verde)", q: 0.5, u: "manojo" },
     { n: "pimentón picante", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz con 180 ml de agua, tapado y a fuego mínimo, 13 minutos, y déjalo reposar tapado.",
@@ -393,7 +399,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que hierva el agua; mientras, pela las patatas y córtalas en rodajas de 1 cm. Enfría los huevos en agua fría, pélalos y pártelos por la mitad.",
@@ -438,7 +445,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 25-30 minutos, hasta que se dejen atravesar con facilidad. Con piel absorben menos agua y el puré queda firme, no pastoso.",
@@ -481,7 +489,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados de 2 cm, mézclala en un bol con el aceite de oliva y sal (así se reparte el aceite y la berenjena no lo absorbe como una esponja) y ásala en una bandeja 20 minutos, hasta que esté dorada y tierna.",
@@ -568,7 +577,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto", nota: "recién molida y abundante" }
+    { n: "pimienta negra", u: "al gusto", nota: "recién molida y abundante" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras, bate en un bol los 2 huevos y la yema con casi todo el pecorino, la ralladura de limón y mucha pimienta, hasta formar una crema espesa.",
@@ -612,7 +622,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Lava las patatas y sécalas. Coloca cada una entre dos palillos chinos o dos cucharas de madera y córtala en láminas de 3 mm: los palillos frenan el cuchillo y evitan que llegues a cortar la base.",
@@ -654,7 +665,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las patatas sin pelar en dados de 1,5 cm y cuécelas en el microondas en un recipiente tapado con un chorrito de agua 6 minutos, hasta que estén casi tiernas. Mientras, corta el pimiento en dados y pica el cebollino. Escurre las patatas y sécalas.",
@@ -741,7 +753,8 @@ window.RECETAS_SEED.push({
     { n: "zumaque", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la calabaza con piel en gajos de 2 cm (la piel de la japonesa se come). Mézclala con 1 cucharada de aceite, el comino, sal y pimienta, y ásala 25 minutos en una bandeja sin amontonar, hasta que los bordes estén caramelizados.",
@@ -783,7 +796,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "pizca" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Funde la mantequilla a fuego suave y déjala reposar 2 minutos. Retira con una cuchara la espuma blanca de arriba: así la clarificas, y la holandesa queda más estable.",
@@ -829,7 +843,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "chile fresco", q: 1, u: "ud", opcional: true }
+    { n: "chile fresco", q: 1, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 6 minutos y medio en agua hirviendo y pásalos enseguida a agua con hielo 5 minutos. Pélalos con cuidado bajo un hilo de agua.",
@@ -875,7 +890,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos medianos iguales y cuécelas en agua con sal 18-20 minutos, hasta que estén tiernas. Escúrrelas y déjalas en la cazuela tapadas.",
@@ -919,7 +935,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "arroz largo", q: 60, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz con 100 ml de agua y sal, tapado y a fuego mínimo, 12 minutos, y déjalo reposar.",
@@ -1000,7 +1017,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la chirivía, córtala en rodajas y cuécela en el caldo con sal, tapada, 20 minutos, hasta que esté muy tierna.",
@@ -1044,7 +1062,8 @@ window.RECETAS_SEED.push({
     { n: "yogur sin lactosa", q: 100, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas y aplástalas con el comino, el pimentón y sal. Deja que se templen y mezcla con la mozzarella.",
@@ -1088,7 +1107,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Mientras, prepara la compota: trocea las fresas y cuécelas con el azúcar y el zumo del limón a fuego medio 8-10 minutos, hasta que se ablanden y el jugo espese. Déjala templar.",

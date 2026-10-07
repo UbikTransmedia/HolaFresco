@@ -574,7 +574,8 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 20, u: "g", nota: "crudas, molidas o muy picadas" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en dados de 2 cm y cuécela con los ajos pelados en agua con sal 15 minutos, hasta que esté muy tierna.",
@@ -663,7 +664,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "pan de pita", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si usas palillos de madera, remójalos 10 minutos en agua mientras preparas el resto.",

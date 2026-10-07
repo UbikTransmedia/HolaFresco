@@ -27,7 +27,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre las pechugas por la mitad a lo largo para obtener 4 filetes de 1,5 cm. Salpimiéntalos y úntalos con unas gotas de aceite.",
@@ -71,13 +72,14 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
-    { n: "aceite de oliva", q: 1, u: "cda" }
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon agua a hervir y cuece los fideos de arroz según el envase (normalmente 3-4 minutos). Escúrrelos, refréscalos bajo el grifo y resérvalos con unas gotas de aceite para que no se peguen.",
+    "Pon agua a hervir y, mientras, pica el jengibre y el ajo y corta el chile en rodajas y la cebolleta en aros finos. Cuece los fideos de arroz según el envase (normalmente 3-4 minutos). Escúrrelos, refréscalos bajo el grifo y resérvalos con unas gotas de aceite para que no se peguen.",
     "Corta el pavo en tiras finas y mézclalo con 1 cda de salsa de soja y la maicena. Separa las hojas verdes del pak choi de los tallos blancos y corta estos en bastones; pela la zanahoria en cintas con el pelador.",
     "Calienta el wok con el aceite de oliva a fuego muy fuerte. Saltea el pavo 2-3 minutos sin moverlo demasiado, hasta que esté dorado por fuera. Sácalo a un plato.",
-    "En el mismo wok echa el jengibre y el ajo picados y el chile en rodajas; saltea 30 segundos y añade los tallos de pak choi y la zanahoria. Saltea 2 minutos.",
+    "En el mismo wok echa el jengibre, el ajo y el chile; saltea 30 segundos y añade los tallos de pak choi y la zanahoria. Saltea 2 minutos.",
     "Devuelve el pavo, añade las hojas verdes, los fideos, la salsa de soja restante y el vinagre. Remueve 1-2 minutos hasta que las hojas se ablanden y todo esté caliente.",
     "Apaga, riega con el aceite de sésamo y el zumo de lima. Sirve con la cebolleta en aros finos."
   ],
@@ -209,12 +211,13 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta los muslos en dados de 3-4 cm. Mezcla en un bol 120 g de yogur con el ajo y el jengibre rallados, el garam masala, la cúrcuma, el pimentón, el comino, la cayena, el zumo de medio limón, el aceite y 1 cdta de sal. Añade el pollo, cubre y marina en la nevera al menos 1 hora (mejor toda la noche).",
+    "Ralla el ajo y el jengibre y corta los muslos en dados de 3-4 cm. Mezcla en un bol 120 g de yogur con el ajo, el jengibre, el garam masala, la cúrcuma, el pimentón, el comino, la cayena, el zumo de medio limón, el aceite y 1 cdta de sal. Añade el pollo, cubre y marina en la nevera al menos 1 hora (mejor toda la noche).",
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Cuécelo en 240 ml de agua con sal, tapado, 10 minutos a fuego mínimo; apaga y deja reposar 10 minutos sin destapar.",
-    "Prepara la raita: ralla el pepino, escúrrelo apretando con las manos y mézclalo con el yogur restante, la mitad de la menta picada, una pizca de sal y unas gotas de limón.",
+    "Mientras el arroz está en remojo, prepara la raita: pica la menta y el cilantro, ralla el pepino, escúrrelo apretando con las manos y mézclalo con el yogur restante, la mitad de la menta, una pizca de sal y unas gotas de limón.",
     "Corta la cebolla morada en juliana muy fina y alíñala con el resto del zumo de limón y una pizca de sal; déjala macerar mientras se hace el pollo.",
     "Precalienta el grill del horno al máximo. Ensarta el pollo en brochetas (o extiéndelo sobre una rejilla) y colócalo en la parte alta del horno. Asa 7-8 minutos por cada lado, hasta que tenga bordes tostados y el centro esté hecho (74 °C).",
     "Suelta el arroz con un tenedor. Sirve el pollo tikka sobre el arroz con la raita, la cebolla al limón y el cilantro y la menta restantes picados."
@@ -250,7 +253,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en dados de 2 cm; despunta las judías y pártelas por la mitad. Ponlas juntas en una vaporera (o en una cazuela con dos dedos de agua con sal y el laurel), tapa y cuece 12 minutos, hasta que la patata se pinche sin resistencia.",
@@ -295,13 +299,14 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las pechugas en una cazuela con agua fría que las cubra, sal y el laurel. Lleva a ebullición suave y cuece 12 minutos a fuego mínimo, hasta que al cortar la parte más gruesa no quede rosa. Déjalas 5 minutos en el agua apagada y desmenúzalas con dos tenedores.",
     "Mientras, corta el pimiento en tiras y saltéalo en una sartén con el aceite a fuego medio-alto 5-6 minutos, hasta que se ablande y tenga bordes tostados. Añade los garbanzos escurridos, el comino, el pimentón y sal y saltea 2 minutos más.",
-    "Prepara la salsa: mezcla el tahini con el zumo de medio limón, el ajo rallado, una pizca de sal y 3-4 cdas de agua fría, removiendo hasta que quede cremosa y clara.",
-    "Corta el pepino en medias lunas finas y la cebolla morada en juliana muy fina; alíñalos con el resto del zumo de limón y una pizca de sal.",
+    "Prepara la salsa: ralla el ajo y mézclalo con el tahini, el zumo de medio limón, una pizca de sal y 3-4 cdas de agua fría, removiendo hasta que quede cremosa y clara.",
+    "Corta el pepino en medias lunas finas y la cebolla morada en juliana muy fina; alíñalos con el resto del zumo de limón y una pizca de sal. Pica el perejil.",
     "Mezcla en un bol grande el pollo desmenuzado aún tibio con los garbanzos y el pimiento calientes. Prueba y ajusta de sal y pimienta.",
     "Reparte en dos platos, corona con el pepino y la cebolla, riega con la salsa de tahini y termina con el perejil picado."
   ],
@@ -339,12 +344,13 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "aceite de oliva", q: 1, u: "cda" }
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 260 ml de agua con una pizca de sal, tapado, 12 minutos a fuego mínimo; apaga y deja reposar 5 minutos sin destapar.",
-    "Mientras, corta la zanahoria en bastones finos y saltéala 2 minutos en una sartén con unas gotas de aceite y una pizca de sal; resérvala. En la misma sartén, marchita las espinacas 1 minuto, escúrrelas y alíñalas con 1 cdta de aceite de sésamo y sal.",
-    "Sube el fuego, añade el aceite de oliva y saltea el pavo picado con el ajo y el jengibre picados 5-6 minutos, deshaciéndolo con la cuchara, hasta que pierda el color rosa y empiece a tostarse.",
+    "Mientras, pica el ajo y el jengibre y corta la cebolleta en aros. Corta la zanahoria en bastones finos y saltéala 2 minutos en una sartén con unas gotas de aceite y una pizca de sal; resérvala. En la misma sartén, marchita las espinacas 1 minuto, escúrrelas y alíñalas con 1 cdta de aceite de sésamo y sal.",
+    "Sube el fuego, añade el aceite de oliva y saltea el pavo picado con el ajo y el jengibre 5-6 minutos, deshaciéndolo con la cuchara, hasta que pierda el color rosa y empiece a tostarse.",
     "Añade 2 cdas de salsa de soja, la miel y la mitad de la sriracha; remueve 1 minuto hasta que la salsa se pegue a la carne y brille.",
     "Fríe los huevos en otra sartén con un poco de aceite a fuego medio-alto 2-3 minutos, hasta que la clara esté cuajada y la yema líquida.",
     "Monta los boles: arroz en la base, pavo en el centro y espinacas y zanahoria a los lados. Corona con el huevo frito, riega con el resto de la soja, el aceite de sésamo y la sriracha, y espolvorea el sésamo y la cebolleta en aros."
@@ -428,13 +434,14 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pavo en dados de 3 cm y sálalo. Pela la calabaza y córtala en dados de 2-3 cm. Pica la cebolla y ralla el ajo y el jengibre.",
     "Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla 6-7 minutos, hasta que esté transparente y empiece a dorarse. Añade el ajo, el jengibre, el curry y la cúrcuma y tuesta 1 minuto removiendo, hasta que huela intenso.",
     "Sube el fuego, incorpora el pavo y séllalo 3 minutos, dándole vueltas para que se impregne de las especias.",
-    "Añade la calabaza, el tomate triturado y la leche de coco con 100 ml de agua. Lleva a ebullición, baja el fuego y cuece tapado 15 minutos, hasta que la calabaza esté tierna pero sin deshacerse.",
+    "Añade la calabaza, el tomate triturado y la leche de coco con 100 ml de agua. Lleva a ebullición, baja el fuego y cuece tapado 15 minutos, hasta que la calabaza esté tierna pero sin deshacerse. Mientras, pica el cilantro.",
     "Añade las espinacas en dos tandas, removiendo hasta que se marchiten (1-2 minutos). Si la salsa está muy líquida, destapa y deja reducir 3-4 minutos.",
     "Apaga, exprime la lima y rectifica de sal. Sirve en platos hondos con el cilantro picado por encima."
   ],
@@ -472,7 +479,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Mezcla las dos mostazas con la miel, el ajo rallado, las hojas de tomillo, el aceite, sal y pimienta. Seca los contramuslos con papel y úntalos bien con la mezcla, también bajo la piel.",
@@ -558,11 +566,12 @@ window.RECETAS_SEED.push({
     { n: "brócoli", q: 300, u: "g" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "aceite de oliva", q: 1, u: "cda" }
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 260 ml de agua, tapado, 12 minutos a fuego mínimo; apaga y deja reposar 5 minutos sin destapar.",
-    "Mezcla la salsa: soja, miel, vinagre, jengibre y ajo rallados, la maicena y 3 cdas de agua. Remueve hasta disolver la maicena.",
+    "Mientras se cuece el arroz, ralla el jengibre y el ajo, corta la cebolleta en aros y mezcla la salsa: soja, miel, vinagre, el jengibre y el ajo, la maicena y 3 cdas de agua. Remueve hasta disolver la maicena.",
     "Corta los muslos en trozos de bocado. Calienta el aceite en una sartén amplia a fuego fuerte y dóralos 6-7 minutos, con la piel o el lado más graso hacia abajo primero, hasta que estén bien tostados.",
     "Separa el brócoli en ramilletes y cuécelo al vapor (o en 2 dedos de agua hirviendo, tapado) 4 minutos, hasta que esté verde intenso y al dente. Escúrrelo.",
     "Baja el fuego de la sartén a medio, vierte la salsa sobre el pollo y remueve 2-3 minutos, hasta que espese, burbujee y lo cubra con un brillo oscuro.",
@@ -604,10 +613,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Coloca los filetes de pavo entre dos trozos de papel de horno y aplánalos con el fondo de una cazuela hasta 1 cm de grosor. Salpimiéntalos y añade la ralladura de medio limón.",
-    "Prepara tres platos: harina, huevo batido y panko mezclado con el parmesano rallado fino. Pasa cada filete por harina (sacude el exceso), huevo y panko, presionando para que la costra se adhiera.",
+    "Ralla fino el parmesano y prepara tres platos: harina, huevo batido y panko mezclado con el parmesano. Pasa cada filete por harina (sacude el exceso), huevo y panko, presionando para que la costra se adhiera.",
     "Calienta 1,5 cdas de aceite en una sartén amplia a fuego medio-alto. Fríe los filetes 2-3 minutos por lado, hasta que la costra esté dorada y crujiente. Hazlo en dos tandas si no caben sin tocarse.",
     "Déjalos escurrir 1 minuto sobre papel de cocina.",
-    "Mezcla la rúcula con los cherrys partidos por la mitad y alíñalos con el aceite restante, el balsámico, el zumo de medio limón, sal y pimienta.",
+    "Parte los cherrys por la mitad, mézclalos con la rúcula y alíñalos con el aceite restante, el balsámico, el zumo de medio limón, sal y pimienta.",
     "Sirve los escalopines con la ensalada encima o al lado y gajos del limón restante para exprimir."
   ],
   nutricion: { kcal: 470, prot: 45, hc: 24, grasa: 21 },
@@ -648,16 +657,17 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Sala los contramuslos y dóralos en una cazuela con el aceite a fuego medio-alto, 4 minutos por el lado de la piel y 2 por el otro, hasta que estén tostados. Resérvalos.",
-    "En la misma grasa, sofríe la cebolla picada 6 minutos. Añade el ajo, las almendras, las pasas y el pan troceado y tuesta 2 minutos. Incorpora el pimentón, el comino y la canela y remueve 30 segundos.",
+    "Pica la cebolla y el ajo y trocea el pan. Sala los contramuslos y dóralos en una cazuela con el aceite a fuego medio-alto, 4 minutos por el lado de la piel y 2 por el otro, hasta que estén tostados. Resérvalos.",
+    "En la misma grasa, sofríe la cebolla 6 minutos. Añade el ajo, las almendras, las pasas y el pan y tuesta 2 minutos. Incorpora el pimentón, el comino y la canela y remueve 30 segundos.",
     "Añade el tomate, el chipotle y el caldo; cuece 5 minutos y tritura con la batidora hasta tener una salsa fina. Devuélvela a la cazuela.",
     "Vuelve a meter el pollo con sus jugos, tapa y cuece a fuego bajo 30 minutos, dando la vuelta a mitad, hasta que la carne se separe del hueso con facilidad.",
-    "Mientras, lava el arroz y cuécelo en 260 ml de agua con sal, tapado, 12 minutos a fuego mínimo; deja reposar 5 minutos.",
-    "Saca el pollo, añade el chocolate troceado a la salsa y remueve hasta que se funda. Prueba: debe estar equilibrada entre dulce, picante y ahumado; ajusta de sal. Si está muy espesa, alárgala con un poco de agua.",
-    "Tuesta el sésamo 1 minuto en una sartén seca. Sirve el pollo bañado en mole sobre el arroz, con el sésamo y el cilantro picado por encima."
+    "Mientras, lava el arroz y cuécelo en 260 ml de agua con sal, tapado, 12 minutos a fuego mínimo; deja reposar 5 minutos. Trocea el chocolate, pica el cilantro y tuesta el sésamo 1 minuto en una sartén seca.",
+    "Saca el pollo, añade el chocolate a la salsa y remueve hasta que se funda. Prueba: debe estar equilibrada entre dulce, picante y ahumado; ajusta de sal. Si está muy espesa, alárgala con un poco de agua.",
+    "Sirve el pollo bañado en mole sobre el arroz, con el sésamo y el cilantro picado por encima."
   ],
   nutricion: { kcal: 710, prot: 46, hc: 68, grasa: 30 },
   etiquetas: ["de cuchara", "especiado", "picante", "fin de semana", "batch cooking"],
@@ -697,15 +707,16 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Lava bien el boniato (sin pelar) y córtalo en gajos; mézclalos con 1 cda de aceite, el pimentón, sal y pimienta y hornéalos 25-30 minutos en una bandeja, dándoles la vuelta a mitad, hasta que estén tiernos y con bordes tostados.",
-    "Pica las espinacas finas y saltéalas 1 minuto en una sartén seca para que suelten el agua; escúrrelas apretando. Mézclalas en un bol con el pavo, el feta desmenuzado, la cebolleta y el ajo picados, el huevo, el pan rallado, el orégano, pimienta y poca sal (el feta ya sala).",
+    "Mientras se asa, pica finas las espinacas, la cebolleta y el ajo y desmenuza el feta. Saltea las espinacas 1 minuto en una sartén seca para que suelten el agua; escúrrelas apretando. Mézclalas en un bol con el pavo, el feta, la cebolleta, el ajo, el huevo, el pan rallado, el orégano, pimienta y poca sal (el feta ya sala).",
     "Forma 2 hamburguesas gruesas de unos 2 cm, con un pequeño hueco en el centro para que no se abomben. Déjalas 10 minutos en la nevera para que compacten.",
-    "Mezcla el yogur con el zumo de limón, una pizca de sal y pimienta para la salsa.",
+    "Mientras reposan, mezcla el yogur con el zumo de limón, una pizca de sal y pimienta para la salsa y corta el tomate en rodajas.",
     "Calienta el aceite restante en una sartén a fuego medio y cocina las hamburguesas 5-6 minutos por lado, hasta que estén bien doradas y firmes (74 °C en el centro). No las aplastes con la espátula.",
-    "Tuesta los panes 1 minuto en la sartén. Monta: salsa de yogur, lechuga, hamburguesa y tomate en rodajas. Sirve con los gajos de boniato."
+    "Tuesta los panes 1 minuto en la sartén. Monta: salsa de yogur, lechuga, hamburguesa y tomate. Sirve con los gajos de boniato."
   ],
   nutricion: { kcal: 635, prot: 44, hc: 62, grasa: 24 },
   etiquetas: ["al horno", "para niños", "alta en proteína", "fin de semana", "verduras escondidas", "poco especiada"],
@@ -748,11 +759,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla 100 g de yogur con el zumo de medio limón, 2 dientes de ajo rallados, el comino, el cilantro, la cúrcuma, el pimentón, la canela, la cayena, 1 cda de aceite, 1 cdta de sal y pimienta. Corta los muslos en tiras gruesas y embadúrnalos; tapa y marina en la nevera mínimo 90 minutos (ideal toda la noche).",
+    "Ralla 2 dientes de ajo y mézclalos con 100 g de yogur, el zumo de medio limón, el comino, el cilantro, la cúrcuma, el pimentón, la canela, la cayena, 1 cda de aceite, 1 cdta de sal y pimienta. Corta los muslos en tiras gruesas y embadúrnalos; tapa y marina en la nevera mínimo 90 minutos (ideal toda la noche).",
     "Precalienta el horno a 220 °C. Corta la cebolla en juliana gruesa y extiéndela en una bandeja con el aceite restante. Reparte el pollo encima en una sola capa.",
     "Hornea 20 minutos; luego pon el grill 4-5 minutos más, hasta que los bordes del pollo estén tostados y crujientes y la cebolla, blanda y dorada.",
-    "Mientras, prepara la salsa: mezcla el yogur restante con los otros 2 dientes de ajo rallados (o 1 si prefieres suave), unas gotas de limón y sal.",
-    "Corta el tomate en dados y el pepino en medias lunas; alíñalos con el resto del zumo de limón, sal y el perejil picado.",
+    "Mientras, prepara la salsa: ralla los otros 2 dientes de ajo (o 1 si prefieres suave) y mézclalos con el yogur restante, unas gotas de limón y sal.",
+    "Corta el tomate en dados y el pepino en medias lunas y pica el perejil; alíñalos con el resto del zumo de limón, sal y el perejil.",
     "Calienta las pitas 1 minuto en el horno. Corta el pollo en tiras finas y mézclalo con la cebolla asada. Sirve todo junto para que cada uno rellene su pita con pollo, salsa de ajo y ensalada."
   ],
   nutricion: { kcal: 625, prot: 50, hc: 50, grasa: 24 },
@@ -790,10 +801,11 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta. Corta el pollo en tiras de 2 cm y salpimiéntalo; lamina los champiñones y pica la cebolla y el ajo.",
+    "Pon a hervir agua con sal para la pasta. Corta el pollo en tiras de 2 cm y salpimiéntalo; lamina los champiñones, pica la cebolla, el ajo y el perejil y ralla el parmesano.",
     "Calienta el aceite en una sartén amplia a fuego fuerte y dora el pollo 4-5 minutos hasta que tome color. Sácalo a un plato.",
     "Añade la mantequilla y los champiñones y saltéalos 5-6 minutos sin remover demasiado, hasta que suelten el agua, esta evapore y empiecen a dorarse. Incorpora la cebolla y el ajo y sofríe 2 minutos.",
     "Cuece la pasta según el envase (unos 8-10 minutos), reservando un cazo del agua de cocción.",
@@ -835,14 +847,15 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Saltea las espinacas con el ajo picado en una sartén 2 minutos hasta que se marchiten; escúrrelas bien, pícalas y mézclalas con el queso de cabra desmenuzado, la nuez moscada y pimienta.",
+    "Precalienta el horno a 190 °C. Pica el ajo y pica muy fina la cebolla. Saltea las espinacas con el ajo en una sartén 2 minutos hasta que se marchiten; escúrrelas bien, pícalas y mézclalas con el queso de cabra desmenuzado, la nuez moscada y pimienta.",
     "Abre cada pechuga de pavo con un cuchillo por el lateral, como un libro, sin llegar al otro lado. Salpimiéntalas, reparte el relleno dentro, cierra y sujeta con 2-3 palillos.",
-    "Calienta el aceite en la sartén a fuego fuerte y dora las pechugas 2 minutos por cada lado. Pásalas a una fuente y hornéalas 18-20 minutos, hasta que el centro marque 72 °C o al pinchar salga jugo claro. Déjalas reposar 5 minutos tapadas. Mientras se hornean, pon a hervir agua con sal en la cazuela para las judías.",
-    "En la misma sartén, derrite la mantequilla y sofríe la cebolla picada muy fina 3 minutos. Añade el vino, deja reducir a la mitad, incorpora el caldo y el tomillo y cuece 4-5 minutos hasta que la salsa tenga cuerpo. Salpimienta.",
-    "Despunta las judías y cuécelas en agua hirviendo con sal 5-6 minutos, hasta que estén tiernas pero verdes. Escúrrelas y alíñalas con el zumo de limón y una pizca de sal.",
+    "Calienta el aceite en la sartén a fuego fuerte y dora las pechugas 2 minutos por cada lado. Pásalas a una fuente y hornéalas 18-20 minutos, hasta que el centro marque 72 °C o al pinchar salga jugo claro. Déjalas reposar 5 minutos tapadas. Mientras se hornean, pon a hervir agua con sal en la cazuela para las judías y despúntalas.",
+    "En la misma sartén, derrite la mantequilla y sofríe la cebolla 3 minutos. Añade el vino, deja reducir a la mitad, incorpora el caldo y el tomillo y cuece 4-5 minutos hasta que la salsa tenga cuerpo. Salpimienta.",
+    "Cuece las judías en el agua hirviendo con sal 5-6 minutos, hasta que estén tiernas pero verdes. Escúrrelas y alíñalas con el zumo de limón y una pizca de sal.",
     "Retira los palillos, corta cada pechuga en medallones gruesos y sírvelos con la salsa por encima y las judías al lado."
   ],
   nutricion: { kcal: 460, prot: 48, hc: 14, grasa: 23 },
@@ -880,7 +893,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 3.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 240 ml de agua, tapado, 12 minutos a fuego mínimo; deja reposar 5 minutos.",
@@ -928,13 +942,14 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Salpimienta los contramuslos y dóralos en una cazuela con el aceite a fuego medio-alto, 4 minutos por el lado de la piel y 2 por el otro. Resérvalos.",
-    "Baja el fuego y sofríe en la misma grasa la cebolla, el pimiento verde y el ajo picados 8 minutos, hasta que estén blandos. Añade el chorizo en rodajas y rehoga 2 minutos para que suelte su grasa roja.",
+    "Pica la cebolla, el pimiento verde y el ajo y corta el chorizo en rodajas. Salpimienta los contramuslos y dóralos en una cazuela con el aceite a fuego medio-alto, 4 minutos por el lado de la piel y 2 por el otro. Resérvalos.",
+    "Baja el fuego y sofríe en la misma grasa la cebolla, el pimiento y el ajo 8 minutos, hasta que estén blandos; mientras, pela la patata y córtala en dados de 2 cm. Añade el chorizo y rehoga 2 minutos para que suelte su grasa roja.",
     "Añade los pimentones, remueve 20 segundos fuera del fuego para que no amarguen y vierte el vino. Deja reducir 1 minuto.",
-    "Incorpora el tomate triturado y cuece 5 minutos hasta que pierda el agua. Añade el caldo, el laurel, la patata pelada en dados de 2 cm y el pollo con sus jugos. Lleva a ebullición, tapa y cuece a fuego bajo 30 minutos.",
+    "Incorpora el tomate triturado y cuece 5 minutos hasta que pierda el agua. Añade el caldo, el laurel, la patata y el pollo con sus jugos. Lleva a ebullición, tapa y cuece a fuego bajo 30 minutos. Mientras, pica el perejil.",
     "Añade los garbanzos escurridos y cuece destapado 10-15 minutos más, hasta que la salsa espese y el pollo se desprenda del hueso. Si se queda seco, añade un poco de agua caliente.",
     "Rectifica de sal, retira el laurel y sirve en platos hondos con el perejil picado."
   ],
@@ -976,13 +991,14 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "arroz jazmín", q: 110, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el pollo en tiras largas de 2 cm. Mézclalo con 1 cda de soja, el zumo de media lima, 1 diente de ajo y el jengibre rallados, la cúrcuma, el comino, el azúcar, 2 cdas de leche de coco y el aceite. Marina 30 minutos (o hasta 12 horas en la nevera).",
+    "Ralla 1 diente de ajo y el jengibre y corta el pollo en tiras largas de 2 cm. Mézclalo con 1 cda de soja, el zumo de media lima, el ajo y el jengibre, la cúrcuma, el comino, el azúcar, 2 cdas de leche de coco y el aceite. Marina 30 minutos (o hasta 12 horas en la nevera).",
     "Prepara la salsa: tritura los cacahuetes con el resto de la leche de coco, la soja restante, el otro diente de ajo, la sriracha y 2 cdas de agua hasta tener una crema con algo de textura. Caliéntala 2 minutos en un cazo y añade unas gotas de lima; si espesa demasiado, alárgala con agua.",
     "Lava el arroz y cuécelo en 220 ml de agua con sal, tapado, 12 minutos a fuego mínimo; deja reposar 5 minutos.",
-    "Corta el pepino en rodajas finas y la cebolla morada en juliana muy fina; alíñalos con el vinagre, una pizca de sal y otra de azúcar.",
+    "Corta el pepino en rodajas finas y la cebolla morada en juliana muy fina; alíñalos con el vinagre, una pizca de sal y otra de azúcar. Pica el cilantro.",
     "Ensarta el pollo en brochetas en zigzag. Calienta la plancha a fuego fuerte y ásalas 4-5 minutos por lado, hasta que estén doradas con puntos tostados y firmes.",
     "Sirve las brochetas sobre el arroz con la salsa de cacahuete, la ensalada de pepino al lado y el cilantro picado. Acompaña con el resto de la lima en gajos."
   ],
@@ -1021,12 +1037,13 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga la quinoa y cuécela en 180 ml de agua con sal, tapada, 13-15 minutos, hasta que se abra el germen y absorba el agua. Extiéndela en un plato para que se enfríe un poco.",
     "Abre las pechugas por la mitad en filetes de 1,5 cm, salpimiéntalas y frótalas con el pimentón y unas gotas de aceite. Ásalas en la plancha bien caliente 3-4 minutos por lado, hasta que estén doradas y firmes. Déjalas reposar 2 minutos y córtalas en tiras.",
-    "Pela la naranja a lo vivo y saca los gajos sobre un bol para recoger el jugo. Corta el aguacate en láminas y la cebolla en juliana muy fina.",
+    "Pela la naranja a lo vivo y saca los gajos sobre un bol para recoger el jugo. Corta el aguacate en láminas y la cebolla en juliana muy fina y pica la menta.",
     "Prepara la vinagreta con el jugo recogido de la naranja, el zumo de limón, la miel, la mostaza, el aceite, sal y pimienta; bate con un tenedor hasta emulsionar.",
     "Tuesta las semillas de calabaza 1 minuto en la plancha o una sartén seca, hasta que crujan.",
     "Mezcla en un bol los canónigos, la quinoa tibia, la cebolla y la mitad de la vinagreta. Reparte en platos, coloca encima el pollo, los gajos de naranja y el aguacate, riega con el resto de la vinagreta y termina con las semillas y la menta picada."
@@ -1071,10 +1088,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados de 3 cm, mézclala con 1 cda de aceite y sal y ásala en una bandeja 25 minutos, removiendo a mitad, hasta que esté dorada y blanda por dentro.",
-    "Mientras, calienta el aceite restante en una sartén a fuego medio y sofríe la cebolla picada 6 minutos. Añade el ajo picado, el comino, la canela y el pimentón y remueve 30 segundos.",
+    "Mientras, pica la cebolla y el ajo y ralla los tomates (desecha la piel). Calienta el aceite restante en una sartén a fuego medio y sofríe la cebolla 6 minutos. Añade el ajo, el comino, la canela y el pimentón y remueve 30 segundos.",
     "Sube el fuego, añade el pavo picado y saltéalo 6-7 minutos deshaciéndolo con la cuchara, hasta que pierda el rosa y empiece a dorarse.",
-    "Incorpora el tomate concentrado y los tomates rallados (desecha la piel). Cuece 8 minutos, hasta que la salsa reduzca y se separe la grasa. Salpimienta.",
-    "Tuesta las almendras 1-2 minutos en una sartén seca hasta que doren. Mezcla el yogur con la mitad de la menta picada, el zumo de limón y una pizca de sal.",
+    "Incorpora el tomate concentrado y los tomates rallados. Cuece 8 minutos, hasta que la salsa reduzca y se separe la grasa. Salpimienta.",
+    "Mientras se cuece, tuesta las almendras 1-2 minutos en una sartén seca hasta que doren. Pica la menta y mezcla el yogur con la mitad, el zumo de limón y una pizca de sal.",
     "Mezcla la berenjena asada con el pavo en la sartén y calienta 1 minuto. Sirve con el yogur a la menta por encima, las almendras y el resto de la menta."
   ],
   nutricion: { kcal: 450, prot: 40, hc: 22, grasa: 22 },
@@ -1117,7 +1134,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca el pollo de la nevera 30 minutos antes y sécalo muy bien. Precalienta el horno a 200 °C. Mezcla la mantequilla con el ajo rallado, las hojas de tomillo y romero picadas, el perejil, la ralladura del limón, sal y pimienta.",
+    "Saca el pollo de la nevera 30 minutos antes y sécalo muy bien. Mientras se atempera, precalienta el horno a 200 °C, ralla el ajo y la piel del limón y pica las hojas de tomillo y romero y el perejil. Mezcla la mantequilla con el ajo, las hierbas, la ralladura, sal y pimienta.",
     "Separa la piel de las pechugas con los dedos sin romperla y reparte dos tercios de la mantequilla debajo; unta el resto por fuera. Mete el limón partido en la cavidad y ata los muslos.",
     "Pela las zanahorias, el boniato y las patatas y córtalos en trozos grandes de 4 cm; corta la cebolla en cuartos. Mézclalos en la fuente con el aceite, sal y pimienta y coloca el pollo encima, pechuga hacia arriba.",
     "Asa 20 minutos a 200 °C, baja a 180 °C y continúa 60-70 minutos más, regando con los jugos cada 20 minutos y removiendo las verduras una vez. Está listo cuando el muslo marca 75 °C o el jugo sale transparente al pinchar.",

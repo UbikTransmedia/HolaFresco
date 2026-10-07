@@ -32,7 +32,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "tortillas de maíz", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita el rabo y las semillas a los chiles guajillo y ábrelos en plano. Tuéstalos en una sartén seca a fuego medio 10-15 segundos por cada lado, solo hasta que huelan y cambien de tono; si humean amargan. Remójalos en agua muy caliente 10 minutos.",
@@ -75,7 +76,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 300, u: "ml", nota: "para freír" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en bastones muy finos, de 2 mm, con mandolina o cuchillo. Lávalas en un bol con agua fría hasta que el agua salga clara: así pierden el almidón y no se pegan. Sécalas a conciencia con un paño.",
@@ -209,7 +211,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C y engrasa una fuente pequeña (unos 18 × 18 cm) con unas gotas del aceite.",
@@ -251,7 +254,8 @@ window.RECETAS_SEED.push({
     { n: "pan de molde", q: 2, u: "rebanada", nota: "tostado, para acompañar" },
     { n: "salsa picante", q: 1, u: "cdta", opcional: true, nota: "para servir" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el jamón, el pimiento verde y la cebolla en dados de medio centímetro: todo del mismo tamaño para que se cocine a la vez. Tuesta el pan de molde.",
@@ -295,7 +299,8 @@ window.RECETAS_SEED.push({
     { n: "cayena", q: 1, u: "pizca" },
     { n: "anchoas en aceite", q: 4, u: "ud", opcional: true, nota: "como en la receta original" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Funde 50 g de mantequilla a fuego suave y resérvala caliente. Pon agua a hervir en una cazuela ancha para escalfar y otra cazuela pequeña con dos dedos de agua para la salsa.",
@@ -339,7 +344,8 @@ window.RECETAS_SEED.push({
     { n: "pepinillos", q: 4, u: "ud", nota: "para acompañar" },
     { n: "pimentón dulce", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon agua a hervir, baja el fuego a hervor suave e introduce los huevos con una cuchara. Cuécelos 10 minutos exactos y pásalos a un bol con agua y hielo 5 minutos: la yema queda amarilla y cremosa, sin el anillo verde de la sobrecocción, y se pelan mejor.",
@@ -426,7 +432,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.25, u: "ud" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos en agua a hervor suave 10 minutos y enfríalos 5 minutos en agua con hielo. Pélalos bajo el chorro de agua fría.",
@@ -475,7 +482,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los tomates verdes en rodajas de 1 cm, descartando las puntas. Sálalas por ambos lados y déjalas sobre papel de cocina 10 minutos: sueltan agua y el rebozado se adhiere mejor.",

@@ -30,7 +30,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta el hinojo en gajos de 1 cm sin quitarles la base, para que no se deshagan, y la cebolla en plumas. Ponlos en una bandeja con media cucharada de aceite y sal y ásalos 25 minutos, hasta que tengan los bordes tostados.",
@@ -80,7 +81,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 300, u: "ml" },
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "cebolleta", q: 1, u: "ud", opcional: true, nota: "la parte verde, para servir" }
+    { n: "cebolleta", q: 1, u: "ud", opcional: true, nota: "la parte verde, para servir" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hierve los dados de tempeh 8 minutos en agua y escúrrelos: le quitas el amargor y lo preparas para empaparse del guiso. Mientras hierve, corta la cebolla en plumas, pica el ajo y el jengibre y ralla los tomates.",
@@ -126,7 +128,8 @@ window.RECETAS_SEED.push({
     { n: "veganesa", q: 2, u: "cda" },
     { n: "kétchup", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las láminas de tempeh 8 minutos en agua hirviendo y escúrrelas: así pierden el amargor y absorben mejor el adobo.",
@@ -174,7 +177,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo tapado con 1,5 veces su volumen de agua y sal 12 minutos a fuego mínimo; reposa 5 minutos sin destapar.",
@@ -219,7 +223,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 2, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true }
+    { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el tempeh 8 minutos en agua hirviendo y escúrrelo: pierde el amargor y queda más tierno.",
@@ -316,7 +321,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de chile", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "cebolleta", q: 2, u: "ud" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los fideos de arroz en remojo en agua caliente del grifo 10 minutos. Así no enturbian el caldo con su almidón al cocerlos dentro. Mientras, lamina el ajo y el jengibre, quita el pie a las shiitake y lamínalas, separa los tallos del pak choi de las hojas y trocea los tallos, y corta la cebolleta en aros. Escurre los fideos.",
@@ -360,7 +366,8 @@ window.RECETAS_SEED.push({
     { n: "estragón seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 15 minutos, hasta que un cuchillo entre casi sin esfuerzo. Los últimos 5 minutos, añade las judías verdes en tramos de 4 cm. Mientras, pica la chalota.",
@@ -406,7 +413,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle encima un peso (una sartén con dos latas) y déjalo 20 minutos. Al perder agua, dora mejor y absorbe la salsa en lugar de soltar líquido.",
@@ -452,7 +460,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Asa la calabaza en dados con la mitad del aceite y sal 25 minutos, hasta que tenga bordes caramelizados: asada concentra el dulzor que hervida se queda en el agua.",
@@ -500,7 +509,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados, sin sal" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el edamame 3 minutos en agua hirviendo, escúrrelo y sécalo bien con un paño. La humedad es el enemigo de las tortitas: hace que se abran en la cesta. Mientras se cuece, pela el jengibre, trocea el chile y pica la cebolleta y el cilantro.",
@@ -551,7 +561,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "para mojar" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata la soja texturizada en el caldo caliente con la salsa de soja 15 minutos: así absorbe un líquido con sabor en lugar de agua sola. Mientras, corta la cebolla en plumas, pela las patatas, córtalas con las zanahorias en trozos grandes y limpia los champiñones. Escurre la soja apretando con las manos y guarda el caldo.",
@@ -597,7 +608,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 1, u: "ud" },
     { n: "pimentón dulce", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los altramuces en un bol con agua fría 20 minutos para quitarles parte de la sal de la salmuera.",
@@ -642,7 +654,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica finos la cebolla y el ajo. Lamina los champiñones y saltéalos en una sartén con media cucharada de aceite a fuego fuerte 5 minutos, sin remover al principio, hasta que estén dorados. Sálalos al final: si los salas al principio sueltan el agua y se cuecen en vez de dorarse. Resérvalos.",
@@ -689,7 +702,8 @@ window.RECETAS_SEED.push({
     { n: "avellanas", q: 25, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la chirivía, córtala en rodajas (quita el corazón leñoso si es gruesa) y cuécela en agua con sal 15-18 minutos, hasta que esté muy tierna.",
@@ -739,7 +753,8 @@ window.RECETAS_SEED.push({
     { n: "kétchup", q: 1, u: "cdta" },
     { n: "caldo de verduras", q: 400, u: "ml" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Para la salsa: pica la cebolla, corta la zanahoria y la patata en dados pequeños y ralla la manzana. Rehoga la cebolla con 1 cucharada de aceite a fuego medio 8 minutos, hasta que esté dorada. Añade la zanahoria, la patata y la manzana y cocina 2 minutos.",
@@ -789,7 +804,8 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y ralla el ajo y el jengibre. Dora los dados de tofu en la sartén con la mitad del aceite a fuego medio-alto 6-8 minutos, girándolos, hasta que tengan costra por varias caras: así aguantan horas de cocción sin deshacerse. Ponlos en la slow cooker con la patata.",
@@ -833,7 +849,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Limpia los portobello con un papel húmedo (lavados chupan agua), quítales el pie, píntalos con 1 cucharada de aceite, salpimiéntalos, pon una rama de tomillo encima y ásalos 18-20 minutos boca abajo, hasta que estén tiernos y jugosos.",
@@ -878,7 +895,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el edamame 4 minutos en agua hirviendo con sal, pásalo a agua fría para que conserve el verde y escúrrelo.",
@@ -924,7 +942,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata la soja texturizada en el caldo caliente 10 minutos; mientras, pica finos la cebolla y el pimiento y pica las aceitunas. Escurre la soja apretando bien con las manos: si queda empapada, el relleno ablandará la masa.",
@@ -970,7 +989,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los altramuces a desalar en agua fría 20 minutos.",
@@ -1016,7 +1036,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda", nota: "suave, o de girasol" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo tapado con 1,5 veces su volumen de agua 12 minutos a fuego mínimo; reposa 5 minutos. A los 8 minutos, pon el edamame en una rejilla sobre el arroz o cuécelo 3 minutos aparte.",
@@ -1063,7 +1084,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y revisa que no tengan piedrecitas. Ponlas en la slow cooker. Pica la cebolla, el pimiento y el ajo, ralla el tomate y pica los tallos del cilantro (guarda las hojas para servir).",
@@ -1108,7 +1130,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "veganesa", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados irregulares de 3 cm y ponlas 10 minutos en agua fría: sale el almidón de la superficie y quedarán más crujientes. Mientras, lamina el ajo. Escúrrelas y sécalas muy bien con un paño.",
@@ -1151,7 +1174,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 4, u: "hoja" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hierve el tempeh 5 minutos y, en el mismo agua, las habas 2 minutos. Escurre todo y pasa las habas a agua fría para que mantengan el color.",

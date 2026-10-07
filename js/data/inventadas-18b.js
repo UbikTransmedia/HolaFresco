@@ -77,8 +77,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el cuscús en un bol con la ralladura del limón, una pizca de sal y 1 cucharadita de aceite. Vierte el agua hirviendo, tapa con un plato y deja reposar 5 minutos. Después desgránalo con un tenedor hasta que quede suelto.",
-    "Tuesta las almendras en una sartén sin aceite a fuego medio 2-3 minutos, removiendo, hasta que huelan y estén doradas. Resérvalas.",
+    "Pon el cuscús en un bol con la ralladura del limón, una pizca de sal y 1 cucharadita de aceite. Vierte el agua hirviendo, tapa con un plato y deja reposar 5 minutos. Mientras, tuesta las almendras en una sartén sin aceite a fuego medio 2-3 minutos, removiendo, hasta que huelan y estén doradas, y resérvalas. Después desgrana el cuscús con un tenedor hasta que quede suelto.",
     "Pica el tomate, el pepino y la cebolleta en dados pequeños y el perejil fino (con los tallos tiernos). Añádelos al cuscús con el zumo de medio limón. Lamina los ajos y seca las gambas con papel de cocina y sálalas.",
     "En la misma sartén calienta el resto del aceite con los ajos laminados y la guindilla a fuego medio-bajo 1-2 minutos, hasta que los ajos empiecen a dorarse por los bordes.",
     "Sube el fuego, añade las gambas y saltéalas 1 minuto por cada lado, solo hasta que se vuelvan rosadas y se curven. Aparta del fuego, espolvorea el pimentón y riega con el zumo del otro medio limón.",
@@ -118,7 +117,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos en agua hirviendo 10 minutos y pásalos a agua fría. Pélalos y córtalos en cuartos.",
@@ -286,7 +286,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 1, u: "cdta", nota: "dulce" },
     { n: "vinagre de Jerez", q: 1.5, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 7 minutos en agua hirviendo para que la yema quede melosa, pásalos a agua fría y pélalos. Mientras se cuecen, lamina los ajos, corta el pan en dados y la cebolleta en juliana.",
@@ -370,7 +371,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1.5, u: "cda", nota: "tinto" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta el pimiento en tiras anchas, ponlo en una bandeja con unas gotas de aceite y ásalo 20 minutos, hasta que la piel tenga manchas tostadas. A los 10 minutos añade el pan en dados grandes de 3 cm y tuéstalo hasta que esté dorado por fuera pero aún algo tierno por dentro.",
@@ -414,14 +416,15 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 125, u: "g" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 5, u: "cda", nota: "parte se recupera tras freír la cebolla" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon las lentejas en una cazuela con 700 ml de agua y cuécelas 10 minutos a fuego medio. Añade el arroz enjuagado, el comino, la canela y sal, y cuece 12-14 minutos más, hasta que ambos estén tiernos. Escurre el agua sobrante y extiende en una fuente para que se temple.",
-    "Mientras, corta las cebollas en juliana muy fina. Fríelas en una sartén con 4 cucharadas de aceite a fuego medio-alto 15 minutos, removiendo a menudo, hasta que estén de color caoba. En los últimos minutos vigila sin parar: pasan de doradas a quemadas en segundos.",
+    "Pon las lentejas en una cazuela con 700 ml de agua y cuécelas 10 minutos a fuego medio; mientras, corta las cebollas en juliana muy fina. Añade a las lentejas el arroz enjuagado, el comino, la canela y sal, y cuece 12-14 minutos más, hasta que ambos estén tiernos. Escurre el agua sobrante y extiende en una fuente para que se temple.",
+    "Mientras se cuece el arroz, fríe las cebollas en una sartén con 4 cucharadas de aceite a fuego medio-alto 15 minutos, removiendo a menudo, hasta que estén de color caoba. En los últimos minutos vigila sin parar: pasan de doradas a quemadas en segundos.",
     "Escurre la cebolla sobre papel de cocina con una pizca de sal: se pondrá crujiente al enfriarse. Guarda el aceite de freír, que ha quedado perfumado.",
     "Aliña las lentejas con arroz con 1 cucharada del aceite de la cebolla, el zumo de medio limón y la mitad de la cebolla frita, y mezcla.",
-    "Corta el pepino y el tomate en dados pequeños y pica el perejil y la mitad de la menta. Mézclalos con el zumo del otro medio limón y una pizca de sal.",
+    "Corta el pepino y el tomate en dados pequeños y pica el perejil y toda la menta. Mezcla el pepino, el tomate, el perejil y la mitad de la menta con el zumo del otro medio limón y una pizca de sal.",
     "Mezcla el yogur con el ajo rallado, el resto de la menta picada y una pizca de sal.",
     "Sirve la mujaddara templada con la ensalada de pepino al lado, una cucharada de yogur y el resto de la cebolla crujiente por encima."
   ],
@@ -502,7 +505,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 15-20 minutos, hasta que un cuchillo entre sin resistencia. Mientras, despunta las judías verdes y pártelas por la mitad; en los últimos 6 minutos añádelas a la cazuela, para que queden tiernas pero crujientes.",
@@ -544,11 +548,12 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 40, u: "g" },
     { n: "aceite de oliva", q: 3.5, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece la pasta en abundante agua con sal el tiempo del paquete menos 1 minuto. Escúrrela, guarda medio vaso del agua de cocción y enfríala bajo el grifo; mézclala con unas gotas de aceite para que no se pegue.",
-    "Mientras, tuesta las nueces en una sartén sin aceite 2-3 minutos. Tritura 50 g de rúcula con 20 g de nueces, el parmesano, el ajo, el zumo del medio limón, 3 cucharadas de aceite, sal y 2-3 cucharadas del agua de cocción, hasta tener un pesto cremoso.",
+    "Mientras, tuesta las nueces en una sartén sin aceite 2-3 minutos y pica gruesas las que no van al pesto. Tritura 50 g de rúcula con 20 g de nueces, el parmesano, el ajo, el zumo del medio limón, 3 cucharadas de aceite, sal y 2-3 cucharadas del agua de cocción, hasta tener un pesto cremoso.",
     "Sala el pollo, píntalo con unas gotas de aceite y hazlo en la misma sartén a fuego medio-alto 4-5 minutos por cada lado, hasta que esté dorado y sin rastro rosado en el centro. Mientras se hace, parte los cherry por la mitad. Déjalo reposar 3 minutos y córtalo en tiras.",
     "Mezcla la pasta con el pesto hasta que quede bien envuelta. Añade los cherry, las aceitunas y el resto de la rúcula.",
     "Reparte en platos o tápers, coloca el pollo encima y termina con el resto de las nueces picadas y pimienta recién molida."
@@ -585,7 +590,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos (mira el paquete), hasta que esté tierno pero entero. Escúrrelo y extiéndelo en una bandeja para que se enfríe rápido y quede suelto.",
@@ -631,7 +637,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. En una bandeja, mezcla los contramuslos con 1 cucharada de aceite, las hojas de una rama de romero picadas, los ajos aplastados con piel, sal y pimienta.",
+    "Precalienta el horno a 210 °C. Pica las hojas de una rama de romero. En una bandeja, mezcla los contramuslos con 1 cucharada de aceite, el romero picado, los ajos aplastados con piel, sal y pimienta.",
     "Hornea 10 minutos, añade las uvas en racimos pequeños y la otra rama de romero y hornea 12-15 minutos más, hasta que el pollo esté dorado y las uvas empiecen a arrugarse y soltar jugo.",
     "En los últimos 5 minutos pon el pan y las nueces en un hueco de la bandeja para que se tuesten.",
     "Saca el pollo, déjalo reposar 3 minutos y córtalo en tiras. Mezcla los jugos de la bandeja (con el ajo asado aplastado) con el balsámico, la miel y el resto del aceite: será la vinagreta.",
@@ -708,7 +714,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 40, u: "g", nota: "de Aragón si puedes" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita la piel y las espinas al bacalao y desmígalo con los dedos en hebras finas (esqueixar significa precisamente desgarrar). Escúrrelo apretándolo dentro de un paño limpio para quitarle el exceso de agua.",
@@ -750,7 +757,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "pizca", opcional: true },
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
-    { n: "sal en escamas", u: "al gusto" }
+    { n: "sal en escamas", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pincha la berenjena con un tenedor, unta las verduras enteras con unas gotas de aceite y ponlas en una bandeja; la cebolla, con piel.",
@@ -798,7 +806,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Corta la coliflor en ramilletes medianos, aprovechando también las hojas tiernas, y mézclala en una bandeja con 1 cucharada de aceite y sal.",
     "Hornea 30-35 minutos, dándole la vuelta a mitad, hasta que esté tierna y con los bordes bien tostados. Ese tostado es el que da el sabor dulce y avellanado.",
-    "Mientras, hidrata las pasas en el zumo del limón. Cuece los huevos 10 minutos, enfríalos y pélalos.",
+    "Mientras, hidrata las pasas en el zumo del limón y pica el perejil. Cuece los huevos 10 minutos, enfríalos y pélalos.",
     "Pica las almendras y el ajo. En una sartén con 1 cucharadita de aceite tuesta el pan rallado, el ajo y las almendras a fuego medio 3-4 minutos, removiendo sin parar, hasta que estén dorados. Añade la ralladura del limón y la guindilla.",
     "Saca la coliflor a un bol y alíñala aún caliente con las pasas y su zumo de limón, las alcaparras, el perejil picado, el resto del aceite y pimienta.",
     "Reparte en platos con los huevos en cuartos y cubre todo con el pan rallado crujiente justo antes de servir."
@@ -841,10 +849,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas con piel en gajos y mézclalas en una bandeja con 1,5 cucharadas de aceite, 1 cucharadita de orégano, sal y pimienta. Hornea 20 minutos.",
-    "Mientras, marina el pollo con el zumo de medio limón, la ralladura del limón, 2 ajos picados, el resto del orégano, 1 cucharada de aceite y sal.",
+    "Mientras, pica 2 ajos y marina el pollo con el zumo de medio limón, la ralladura del limón, los ajos picados, el resto del orégano, 1 cucharada de aceite y sal.",
     "Saca la bandeja, da la vuelta a las patatas, haz hueco y coloca el pollo con su marinada. Hornea 25-30 minutos más, hasta que el pollo esté dorado y las patatas crujientes por los bordes. En los últimos 5 minutos añade las aceitunas.",
-    "Mientras se hornea, mezcla el yogur con el ajo restante rallado, una pizca de sal y unas gotas de aceite.",
-    "Trocea la lechuga, corta los cherry por la mitad, el pepino en medias lunas y la cebolla en pluma fina. Alíñalo con el zumo del otro medio limón, el resto del aceite y sal.",
+    "Mientras se hornea, mezcla el yogur con el ajo restante rallado, una pizca de sal y unas gotas de aceite. Trocea la lechuga, corta los cherry por la mitad, el pepino en medias lunas y la cebolla en pluma fina.",
+    "Aliña la ensalada con el zumo del otro medio limón, el resto del aceite y sal.",
     "Corta el pollo en tiras y sírvelo con las patatas sobre la ensalada, regado con los jugos de la bandeja y con el yogur al ajo por encima."
   ],
   nutricion: { kcal: 770, prot: 50, hc: 52, grasa: 40 },
@@ -880,7 +888,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta el calabacín y el pimiento en dados de 2 cm y la cebolla en gajos. Mézclalos en una bandeja con 1 cucharada de aceite, sal y pimienta y hornea 15 minutos.",
@@ -921,7 +930,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza, unos 30 g cada una" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Llena un bol con agua y el zumo de medio limón. Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas y amarillentas, corta el tercio superior, pela el tallo y pártelas en cuartos. Ve echándolas al agua con limón para que no se oxiden.",
@@ -966,7 +976,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas con piel en dados de 2 cm y el resto de verduras en trozos de 3 cm. Repártelas en una o dos bandejas sin amontonar, con 1 cucharada de aceite, las hojas del tomillo, sal y pimienta.",
@@ -1009,14 +1020,15 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 2, u: "cda", nota: "blanco" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Sala los contramuslos generosamente por los dos lados y, si tienes tiempo, déjalos destapados en la nevera desde la mañana: la piel quedará mucho más crujiente.",
-    "Precalienta el horno a 180 °C. Coloca el pollo con la piel hacia arriba en una fuente con los ajos aplastados, el tomillo y el limón en rodajas. Hornea 60 minutos, hasta que la piel esté dorada y la carne se separe del hueso. No hace falta tocarlo.",
-    "Mientras, pon las pasas en remojo con 1 cucharada de vinagre y 1 de agua templada. Corta el pan en trozos grandes arrancados con las manos, sin corteza dura.",
+    "Precalienta el horno a 180 °C. Corta el limón en rodajas. Coloca el pollo con la piel hacia arriba en una fuente con los ajos aplastados, el tomillo y el limón. Hornea 60 minutos, hasta que la piel esté dorada y la carne se separe del hueso. No hace falta tocarlo.",
+    "Mientras, pon las pasas en remojo con 1 cucharada de vinagre y 1 de agua templada. Corta el pan en trozos grandes arrancados con las manos, sin corteza dura, y las cebolletas en rodajas finas.",
     "Saca el pollo a un plato. Mezcla el pan con 1 cucharada de aceite y repártelo en la fuente, sobre los jugos. Sube el horno a 220 °C y tuéstalo 10-12 minutos con los piñones en un rincón, hasta que el pan esté crujiente por fuera y empapado por debajo. Vigila los piñones.",
-    "Prepara la vinagreta con el resto del vinagre y del aceite, las cebolletas en rodajas finas, el ajo asado aplastado, sal y pimienta.",
+    "Prepara la vinagreta con el resto del vinagre y del aceite, las cebolletas, el ajo asado aplastado, sal y pimienta.",
     "Desmenuza el pollo en trozos grandes con la piel. En un bol, mezcla el pan, las pasas escurridas, los piñones, el pollo y la vinagreta; añade la rúcula al final y sirve enseguida, templado."
   ],
   nutricion: { kcal: 810, prot: 46, hc: 52, grasa: 46 },
@@ -1056,7 +1068,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 160 °C. Unta el cordero con 1 cucharadita de aceite, sal, pimienta y las hojas de una rama de romero picadas. Ponlo en una fuente pequeña con los ajos sin pelar, la otra rama de romero y el vino blanco.",
+    "Precalienta el horno a 160 °C. Pica las hojas de una rama de romero. Unta el cordero con 1 cucharadita de aceite, sal, pimienta y el romero picado. Ponlo en una fuente pequeña con los ajos sin pelar, la otra rama de romero y el vino blanco.",
     "Tapa la fuente con papel de aluminio bien cerrado y hornea 2 horas, hasta que la carne esté tan tierna que se deshaga al apretarla con un tenedor.",
     "En los últimos 20 minutos, destapa, sube el horno a 210 °C y añade alrededor los tomates cherry con 1 cucharadita de aceite y sal para que se arruguen y el cordero se dore por fuera.",
     "Mientras, prepara la salsa verde: pica muy fino el perejil, la menta y las alcaparras y mézclalos con la ralladura y el zumo del limón y el resto del aceite.",

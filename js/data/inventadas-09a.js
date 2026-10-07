@@ -27,7 +27,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud", nota: "ralladura y zumo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una cazuela grande con agua y sal. Cuece los espaguetis el tiempo del paquete menos 1 minuto y, en los últimos 2 minutos, añade los guisantes congelados a la misma agua. Reserva un vaso del agua de cocción antes de escurrir.",
@@ -67,12 +68,13 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Deja las almejas 15 minutos en un bol con agua fría y un puñado de sal para que suelten la arena (hazlo mientras preparas el resto). Escúrrelas y descarta las que estén rotas o abiertas y no se cierren al tocarlas.",
-    "Pon a hervir agua con sal y cuece los linguine 2 minutos menos de lo que indique el paquete: terminarán en la sartén. Reserva un vaso del agua de cocción.",
-    "Calienta el aceite en una sartén amplia a fuego medio con el ajo en láminas y la guindilla desmenuzada. Cuando el ajo empiece a dorarse (1-2 minutos), añade los cherry partidos por la mitad y saltea 2 minutos.",
+    "Pon a hervir agua abundante con sal para la pasta. Deja las almejas 15 minutos en un bol con agua fría y un puñado de sal para que suelten la arena. Mientras, lamina el ajo, desmenuza la guindilla, parte los cherry por la mitad y pica el perejil. Escurre las almejas y descarta las que estén rotas o abiertas y no se cierren al tocarlas.",
+    "Cuece los linguine en el agua hirviendo 2 minutos menos de lo que indique el paquete: terminarán en la sartén. Reserva un vaso del agua de cocción.",
+    "Mientras se cuece la pasta, calienta el aceite en una sartén amplia a fuego medio con el ajo y la guindilla. Cuando el ajo empiece a dorarse (1-2 minutos), añade los cherry y saltea 2 minutos.",
     "Sube el fuego, echa las almejas y el vino, tapa y deja 3-4 minutos, sacudiendo la sartén, hasta que se abran. Retira las que sigan cerradas.",
     "Añade la pasta escurrida a la sartén con medio vaso del agua de cocción y remueve 1-2 minutos a fuego vivo hasta que el jugo espese y envuelva los linguine.",
     "Apaga, añade el perejil picado, unas gotas de limón y pimienta. Rectifica de sal con cuidado (las almejas ya aportan) y sirve enseguida."
@@ -110,7 +112,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 60, u: "g" },
     { n: "pan rallado", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo. Pica la cebolla. Pon a hervir agua con sal y cuece los macarrones con los ramilletes de coliflor juntos durante 7 minutos (la pasta quedará al dente y la coliflor tierna pero entera). Escurre.",
@@ -154,11 +157,12 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Haz la salsa: sofríe la cebolla picada con 1 cucharada de aceite a fuego medio 6-7 minutos, añade 1 diente de ajo picado y, al minuto, el tomate triturado con el orégano, sal y una pizca de azúcar si lo ves ácido. Cocina 15 minutos a fuego suave hasta que espese.",
-    "Mientras cuece la salsa, saltea en una sartén grande a fuego alto las setas troceadas con el resto del aceite 6-8 minutos sin moverlas demasiado, hasta que doren y pierdan el agua. Salpimienta y añade el otro ajo picado en el último minuto.",
+    "Pica la cebolla y los 2 ajos, trocea las setas y ralla el parmesano. Haz la salsa: sofríe la cebolla con 1 cucharada de aceite a fuego medio 6-7 minutos, añade 1 diente de ajo y, al minuto, el tomate triturado con el orégano, sal y una pizca de azúcar si lo ves ácido. Cocina 15 minutos a fuego suave hasta que espese.",
+    "Mientras cuece la salsa, saltea en una sartén grande a fuego alto las setas con el resto del aceite 6-8 minutos sin moverlas demasiado, hasta que doren y pierdan el agua. Salpimienta y añade el otro ajo en el último minuto.",
     "Agrega las espinacas en tandas a la misma sartén y deja que se bajen 2-3 minutos. Escúrrelas bien apretándolas con una cuchara: cuanto menos agua, mejor cortará la lasaña. Precalienta el horno a 190 °C.",
     "Mezcla en un bol la ricotta con las espinacas y setas, la nuez moscada, la mitad del parmesano, sal y pimienta.",
     "En una fuente pequeña (unos 20 x 15 cm) pon una capa fina de salsa, 2 placas, un tercio del relleno, salsa; repite hasta terminar con placas cubiertas de salsa, la mozzarella y el parmesano restante.",
@@ -196,11 +200,12 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pincha las patatas con un tenedor y hornéalas enteras con piel 50-60 minutos, hasta que un cuchillo entre sin resistencia. Asarlas en vez de hervirlas deja la pulpa seca y harás gnocchi más ligeros.",
-    "Mientras, haz la salsa: calienta el aceite con los ajos aplastados a fuego bajo 3 minutos sin que tomen color, añade el tomate, sal y pimienta y cocina 20-25 minutos a fuego mínimo hasta que espese y tome un rojo oscuro. Al final, añade la mitad de la albahaca troceada.",
+    "Mientras, haz la salsa: calienta el aceite con los ajos aplastados a fuego bajo 3 minutos sin que tomen color, añade el tomate, sal y pimienta y cocina 20-25 minutos a fuego mínimo hasta que espese y tome un rojo oscuro. Mientras cuece, ralla el parmesano. Al final, trocea con las manos la mitad de la albahaca y añádela.",
     "Pela las patatas aún calientes (usa un paño) y pásalas por un pasapurés o aplástalas muy fino sobre la mesa enharinada. Extiéndelas y deja que pierdan vapor 5 minutos. Pon a hervir una cazuela grande de agua con sal para los gnocchi.",
     "Espolvorea la harina, la nuez moscada y una cucharadita de sal sobre la patata, añade la yema y mezcla con las manos lo justo para formar una masa homogénea. No amases más de 1 minuto o quedarán duros.",
     "Divide en 4 porciones, forma rulos de 2 cm de grosor y córtalos en trozos de 2 cm. Si quieres, pásalos por los dientes de un tenedor para marcarlos. Colócalos en una bandeja enharinada sin que se toquen.",
@@ -242,16 +247,17 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Prepara el alioli rápido: mezcla la mayonesa con 1 diente de ajo rallado muy fino y unas gotas de limón. Guárdalo en la nevera.",
+    "Prepara el alioli rápido: ralla muy fino 1 diente de ajo y mézclalo con la mayonesa y unas gotas de limón. Guárdalo en la nevera.",
     "Calienta el caldo de pescado en una cazuela y echa las hebras de azafrán para que infusionen. Mantenlo caliente a fuego mínimo. Mientras se calienta, pica fino el pimiento verde y lamina los 3 ajos.",
     "Seca bien la sepia con papel. En una paella o sartén amplia, calienta 1 cucharada de aceite a fuego fuerte y marca la sepia 3-4 minutos hasta que dore y suelte su agua. Sácala a un plato.",
     "Baja a fuego medio, añade el resto del aceite, el pimiento verde y los ajos. Sofríe 5 minutos; incorpora el tomate rallado y cocina 4 minutos más hasta que oscurezca y se separe del aceite. Añade el pimentón y remueve 20 segundos.",
     "Echa los fideos y tuéstalos 2 minutos removiendo hasta que tomen un color dorado uniforme: aquí está el sabor de la fideuá.",
-    "Vierte el caldo caliente, añade la sepia y sal. Hierve fuerte 5 minutos y luego a fuego medio otros 5-6, sin remover, hasta que el caldo casi se haya absorbido. Mientras, enciende el grill del horno a 220 °C.",
-    "Reparte las gambas por encima y mete la paella bajo el grill 3-4 minutos: los fideos se ponen de punta y las gambas se hacen justo. Deja reposar 3 minutos, espolvorea perejil picado y sirve con limón y el alioli."
+    "Vierte el caldo caliente, añade la sepia y sal. Hierve fuerte 5 minutos y luego a fuego medio otros 5-6, sin remover, hasta que el caldo casi se haya absorbido. Mientras, enciende el grill del horno a 220 °C y pica el perejil.",
+    "Reparte las gambas por encima y mete la paella bajo el grill 3-4 minutos: los fideos se ponen de punta y las gambas se hacen justo. Deja reposar 3 minutos, espolvorea el perejil picado y sirve con limón y el alioli."
   ],
   nutricion: { kcal: 720, prot: 50, hc: 63, grasa: 30 },
   etiquetas: ["marisco", "fin de semana", "al horno", "una sola sartén", "poco especiada"],
@@ -333,8 +339,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Mezcla los dados de calabaza con media cucharada de aceite, sal y pimienta y ásalos en una bandeja 25 minutos, hasta que estén tiernos y con bordes dorados. Aplasta la mitad con un tenedor y deja la otra mitad en dados.",
-    "Mientras, calienta el caldo en un cazo y mantenlo a fuego mínimo. Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que crepiten y resérvalas. Pica muy fina la cebolla y pica el ajo.",
-    "En una cazuela ancha, pocha la cebolla con el resto del aceite a fuego medio 6-7 minutos, hasta que esté transparente. Añade el ajo y 4 hojas de salvia troceadas y cocina 1 minuto.",
+    "Mientras, calienta el caldo en un cazo y mantenlo a fuego mínimo. Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que crepiten y resérvalas. Pica muy fina la cebolla, pica el ajo y trocea 4 hojas de salvia.",
+    "En una cazuela ancha, pocha la cebolla con el resto del aceite a fuego medio 6-7 minutos, hasta que esté transparente. Añade el ajo y la salvia troceada y cocina 1 minuto.",
     "Sube el fuego, echa el arroz y nacáralo 2 minutos removiendo hasta que los bordes se vean translúcidos. Vierte el vino y deja que se evapore por completo.",
     "Añade el caldo caliente cazo a cazo, removiendo a menudo y esperando a que se absorba antes de añadir más. A los 12 minutos incorpora el puré de calabaza y sigue hasta que el arroz esté al dente y cremoso (17-18 minutos en total).",
     "Fuera del fuego, añade el parmesano y la mitad del queso de cabra desmenuzado. Remueve con energía 30 segundos para que ligue (mantecar) y rectifica de sal y pimienta. Tapa 2 minutos.",
@@ -384,7 +390,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Corta el calabacín, el pimiento y la cebolla en trozos de 3 cm y la zanahoria en bastones finos. Ponlos en una bandeja grande con los garbanzos escurridos.",
     "Mezcla en un bol el pollo con el ras el hanout, el comino, el pimentón, 1 cucharada de aceite, sal y pimienta hasta que quede bien cubierto. Repártelo entre las verduras.",
     "Riega la bandeja con el resto del aceite, salpimienta y hornea 22-25 minutos, removiendo a mitad, hasta que el pollo esté dorado y las verduras tiernas con bordes tostados.",
-    "Mientras, lleva a ebullición el caldo con las pasas y una pizca de sal. Vierte sobre el cuscús en un bol, tapa con un plato y deja 5 minutos. Suelta los granos con un tenedor y añade la ralladura del limón.",
+    "Mientras, pica la menta y ralla la piel del limón. Lleva a ebullición el caldo con las pasas y una pizca de sal. Vierte sobre el cuscús en un bol, tapa con un plato y deja 5 minutos. Suelta los granos con un tenedor y añade la ralladura del limón.",
     "Mezcla el yogur con el zumo de medio limón, sal y la mitad de la menta picada.",
     "Sirve el cuscús en la base, encima el pollo, los garbanzos y las verduras con sus jugos, el resto de la menta y el yogur al lado."
   ],
@@ -422,15 +428,16 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
-    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" }
+    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Mezcla la ternera con 1 cucharada de soja y la maicena y déjala 10 minutos mientras preparas el resto: así quedará tierna y brillante.",
+    "Pon a hervir agua para los noodles. Mezcla la ternera con 1 cucharada de soja y la maicena y déjala 10 minutos mientras preparas el resto: así quedará tierna y brillante.",
     "Cuece los noodles según el paquete (normalmente 3-4 minutos), escúrrelos, pásalos por agua fría y mézclalos con el aceite de sésamo para que no se peguen.",
-    "Separa las hojas del pak choi de los tallos; corta los tallos en trozos de 3 cm. Corta el pimiento en tiras, la cebolleta en trozos de 3 cm y pica el ajo y el jengibre.",
+    "Separa las hojas del pak choi de los tallos; corta los tallos en trozos de 3 cm. Corta el pimiento en tiras, la cebolleta en trozos de 3 cm y el chile en rodajas, y pica el ajo y el jengibre.",
     "Calienta el wok a fuego muy fuerte con 1 cucharada de aceite. Saltea la ternera en una sola capa 1-2 minutos sin moverla al principio para que dore; retírala a un plato.",
     "Añade el resto del aceite, el ajo, el jengibre, el pimiento y los tallos del pak choi. Saltea 2 minutos; agrega las hojas y la cebolleta y saltea 1 minuto más.",
-    "Devuelve la ternera, añade los noodles, la salsa de ostras y el resto de la soja. Saltea 1-2 minutos mezclando bien hasta que todo esté caliente y brillante. Sirve con sésamo y chile en rodajas."
+    "Devuelve la ternera, añade los noodles, la salsa de ostras y el resto de la soja. Saltea 1-2 minutos mezclando bien hasta que todo esté caliente y brillante. Sirve con el chile en rodajas y el sésamo."
   ],
   nutricion: { kcal: 600, prot: 39, hc: 68, grasa: 19 },
   etiquetas: ["rápida", "una sola sartén", "alta en proteína", "para niños"],
@@ -466,7 +473,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el orzo en abundante agua con sal el tiempo del paquete (unos 9 minutos), hasta que esté al dente. Escúrrelo, pásalo por agua fría y escurre de nuevo muy bien.",
@@ -511,15 +519,16 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las alcachofas: quita las hojas duras exteriores hasta llegar a las tiernas, corta la punta, pela el tallo y pártelas en cuartos. Ve echándolas en un bol con agua y el zumo del limón para que no se oscurezcan. Pica el pimiento verde y lamina el ajo.",
     "Salpimienta el pollo. En una cazuela amplia, dóralo con el aceite a fuego medio-alto 6-7 minutos por todos los lados. Retíralo a un plato.",
     "En el mismo aceite, sofríe el pimiento verde y el ajo 4 minutos. Añade el tomate rallado y cocina 3-4 minutos hasta que espese. Agrega el pimentón, remueve 20 segundos y moja con el vino.",
-    "Devuelve el pollo, añade las alcachofas escurridas, el laurel y el caldo. Lleva a ebullición, baja el fuego y cuece tapado 15 minutos para que el pollo y las alcachofas se ablanden y el caldo tome sabor.",
+    "Devuelve el pollo, añade las alcachofas escurridas, el laurel y el caldo. Lleva a ebullición, baja el fuego y cuece tapado 15 minutos para que el pollo y las alcachofas se ablanden y el caldo tome sabor. Mientras, pica el perejil.",
     "Añade el arroz, rectifica de sal y cuece destapado a fuego medio 16-18 minutos, removiendo de vez en cuando. Debe quedar caldoso: si ves que se seca demasiado, añade un poco más de caldo o agua caliente.",
-    "Apaga, deja reposar 2 minutos y sirve enseguida en platos hondos con perejil picado. El caldoso no espera: el arroz sigue absorbiendo líquido."
+    "Apaga, deja reposar 2 minutos y sirve enseguida en platos hondos con el perejil picado. El caldoso no espera: el arroz sigue absorbiendo líquido."
   ],
   nutricion: { kcal: 630, prot: 36, hc: 72, grasa: 23 },
   etiquetas: ["de cuchara", "invierno", "primavera", "fin de semana", "poco especiada", "bajo en colesterol"],
@@ -557,7 +566,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 50, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy finos la cebolla, la zanahoria y el ajo y póchalos con el aceite a fuego medio 8 minutos, hasta que estén blandos. Sube el fuego, añade el pavo picado y dóralo 5-6 minutos deshaciendo los grumos.",
@@ -613,9 +623,9 @@ window.RECETAS_SEED.push({
     "Pica la cebolla y el ajo y calienta el caldo. Tuesta los piñones en una cazuela seca a fuego medio 2-3 minutos, moviendo, hasta que doren. Resérvalos.",
     "En la misma cazuela, calienta el aceite y pocha la cebolla 6 minutos. Sube el fuego, añade el cordero picado y dóralo 5-6 minutos, deshaciendo los grumos, hasta que pierda el color rosado y empiece a tostarse.",
     "Agrega el ajo, la canela, el comino, el pimentón y la cayena. Remueve 1 minuto para que las especias se tuesten en la grasa. Añade el tomate en dados y cocina 3 minutos.",
-    "Incorpora el bulgur y las pasas, remueve para que se impregnen, vierte el caldo caliente y salpimienta. Lleva a ebullición, baja al mínimo, tapa y cuece 12 minutos sin destapar.",
+    "Incorpora el bulgur y las pasas, remueve para que se impregnen, vierte el caldo caliente y salpimienta. Lleva a ebullición, baja al mínimo, tapa y cuece 12 minutos sin destapar. Mientras, pica la menta y el perejil.",
     "Apaga el fuego y deja reposar tapado 5 minutos. Mientras, mezcla el yogur con el zumo del medio limón y una pizca de sal.",
-    "Suelta el pilaf con un tenedor, añade la mitad de la menta y el perejil picados y los piñones. Sirve con el resto de las hierbas y el yogur por encima."
+    "Suelta el pilaf con un tenedor, añade la mitad de las hierbas picadas y los piñones. Sirve con el resto de las hierbas y el yogur por encima."
   ],
   nutricion: { kcal: 770, prot: 36, hc: 73, grasa: 37 },
   etiquetas: ["una sola cazuela", "especiado", "invierno", "fin de semana"],
@@ -649,7 +659,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Corta los puerros en medias lunas finas y lávalos bien. Saca el yogur de la nevera para que se atempere.",
@@ -693,15 +704,16 @@ window.RECETAS_SEED.push({
     { n: "sriracha", q: 1, u: "cdta" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Escurre y seca muy bien el tofu, córtalo en dados de 2 cm y mézclalo con 1 cucharada de soja, la maicena y 1 cucharadita de aceite hasta que quede cubierto.",
     "Extiende el tofu en una bandeja con papel de horno, junto al brócoli untado con el resto del aceite y una pizca de sal. Hornea 20 minutos, dando la vuelta a mitad, hasta que el tofu esté dorado y crujiente y el brócoli tostado en los bordes.",
-    "Mientras se hornea, enjuaga la quinoa bajo el grifo 1 minuto (quita el amargor) y cuécela con 200 ml de agua y sal: hierve, baja al mínimo, tapa y cuece 13 minutos. Apaga y deja reposar tapada 5 minutos.",
-    "Prepara la salsa: mezcla la crema de cacahuete con el resto de la soja, el zumo de media lima, el jengibre rallado, la sriracha y 2-3 cucharadas de agua caliente hasta que quede fluida como una nata ligera.",
+    "Mientras se hornea, enjuaga la quinoa bajo el grifo 1 minuto (quita el amargor) y cuécela con 200 ml de agua y sal: hierve, baja al mínimo, tapa y cuece 13 minutos. Apaga y deja reposar tapada 5 minutos. Mientras cuece, ralla el jengibre y pica el cilantro.",
+    "Prepara la salsa: mezcla la crema de cacahuete con el resto de la soja, el zumo de media lima, el jengibre, la sriracha y 2-3 cucharadas de agua caliente hasta que quede fluida como una nata ligera.",
     "Ralla la zanahoria gruesa y alíñala con el zumo de la otra media lima y una pizca de sal.",
-    "Monta los bowls: quinoa en la base, brócoli, zanahoria y tofu encima, salsa de cacahuete por encima, sésamo y cilantro picado para terminar."
+    "Monta los bowls: quinoa en la base, brócoli, zanahoria y tofu encima, salsa de cacahuete por encima, el cilantro picado y el sésamo para terminar."
   ],
   nutricion: { kcal: 470, prot: 27, hc: 49, grasa: 20 },
   etiquetas: ["ligera", "vegana", "al horno", "ideal para llevar", "alta en proteína", "detox", "superalimentos", "bajo en colesterol"],
@@ -780,15 +792,16 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Limpia las setas con un paño o cepillo (sin mojarlas) y trocéalas grandes. Pica la cebolla y el ajo.",
+    "Limpia las setas con un paño o cepillo (sin mojarlas) y trocéalas grandes. Pica la cebolla, el ajo y el perejil.",
     "Calienta 1 cucharada de aceite en una sartén grande a fuego fuerte y saltea las setas en una sola capa 6-8 minutos, moviendo poco, hasta que doren y pierdan el agua. Salpimienta y resérvalas.",
     "En la misma sartén, con el resto del aceite, pocha la cebolla 6 minutos a fuego medio, añade el ajo y el tomillo deshojado 1 minuto, devuelve las setas y moja con el vino. Deja evaporar y cocina 3-4 minutos a fuego bajo. Reserva caliente.",
     "Lleva el caldo a ebullición en una cazuela, salpimienta y vierte la polenta en lluvia batiendo sin parar. Baja al mínimo y cuece 8-10 minutos (si es instantánea) o 35-40 (si es tradicional), removiendo a menudo, hasta que se despegue de las paredes. Fuera del fuego añade el parmesano.",
     "Escalfa los huevos: en un cazo con agua a punto de hervir (sin borbotones) y el vinagre, crea un remolino, casca cada huevo en un vasito y deslízalo dentro. Cuece 3 minutos y saca con espumadera a papel de cocina.",
-    "Sirve la polenta en platos hondos, encima el ragú de setas con su jugo, el huevo escalfado, perejil picado y pimienta recién molida."
+    "Sirve la polenta en platos hondos, encima el ragú de setas con su jugo, el huevo escalfado, el perejil picado y pimienta recién molida."
   ],
   nutricion: { kcal: 475, prot: 22, hc: 59, grasa: 17 },
   etiquetas: ["vegetariana", "ligera", "otoño", "de cuchara", "sin gluten", "poco especiada"],
@@ -824,7 +837,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" }
+    { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja los fideos de arroz en agua muy caliente (del grifo, no hirviendo) 10-15 minutos hasta que estén flexibles pero aún firmes. Escúrrelos.",
@@ -870,14 +884,15 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Calienta el aceite en una sartén honda a fuego medio-alto, desmenuza las salchichas con los dedos directamente en la sartén y dóralas 5 minutos deshaciendo los grumos hasta que estén tostadas.",
     "Añade la cebolla, el hinojo en láminas, las semillas de hinojo y la guindilla desmenuzada. Baja a fuego medio y cocina 8 minutos hasta que el hinojo esté tierno. Agrega el ajo 1 minuto.",
-    "Moja con el vino, deja evaporar 1 minuto y añade el tomate triturado con sal y pimienta. Cocina a fuego suave 15 minutos, hasta que el ragú espese. Mientras, pon a hervir agua con sal para la pasta, precalienta el horno a 200 °C y pica las hojas verdes del hinojo.",
+    "Moja con el vino, deja evaporar 1 minuto y añade el tomate triturado con sal y pimienta. Cocina a fuego suave 15 minutos, hasta que el ragú espese. Mientras, pon a hervir agua con sal para la pasta, precalienta el horno a 200 °C, trocea la albahaca y pica las hojas verdes del hinojo.",
     "Cuece los rigatoni 3 minutos menos de lo que indique el paquete: terminarán en el horno. Escurre.",
-    "Mezcla la pasta con el ragú, la mitad de la mozzarella y la mitad de la albahaca troceada. Pásala a una fuente de horno, reparte el resto de la mozzarella y el parmesano por encima.",
+    "Mezcla la pasta con el ragú, la mitad de la mozzarella y la mitad de la albahaca. Pásala a una fuente de horno, reparte el resto de la mozzarella y el parmesano por encima.",
     "Hornea 15-18 minutos hasta que el queso burbujee y los bordes de los rigatoni queden crujientes. Sirve con el resto de la albahaca y las hojas de hinojo."
   ],
   nutricion: { kcal: 860, prot: 41, hc: 76, grasa: 44 },
@@ -921,17 +936,18 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Marina el pollo: mezcla 100 g de yogur con el ajo y el jengibre rallados, el garam masala, la cúrcuma, el comino, el chile picado, el zumo de medio limón y 1 cucharadita de sal. Añade el pollo y deja al menos 30 minutos (o toda la noche en la nevera).",
+    "Ralla el ajo y el jengibre y pica el chile. Marina el pollo: mezcla 100 g de yogur con el ajo, el jengibre, el garam masala, la cúrcuma, el comino, el chile, el zumo de medio limón y 1 cucharadita de sal. Añade el pollo y deja al menos 30 minutos (o toda la noche en la nevera).",
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Corta las cebollas en juliana fina.",
-    "Fríe la cebolla con el aceite en una sartén a fuego medio 15-18 minutos, removiendo de vez en cuando, hasta que esté dorada oscura y crujiente. Saca la mitad a papel absorbente y reserva.",
+    "Fríe la cebolla con el aceite en una sartén a fuego medio 15-18 minutos, removiendo de vez en cuando, hasta que esté dorada oscura y crujiente. Mientras, pica el cilantro y la menta y ralla el pepino y déjalo escurrir en un colador. Saca la mitad de la cebolla a papel absorbente y reserva.",
     "En la misma sartén con la otra mitad de la cebolla, añade el pollo con su marinada y el tomate. Cocina a fuego medio 10 minutos, hasta que la salsa espese y el pollo esté casi hecho. Pasa todo a una cazuela que pueda ir al horno. Mientras se cocina, precalienta el horno a 180 °C y pon a hervir abundante agua con sal.",
     "Cuece el arroz escurrido en el agua hirviendo con el laurel, el cardamomo y la canela durante 5 minutos exactos: debe quedar a medio hacer. Escúrrelo.",
     "Cubre el pollo con el arroz, reparte la mantequilla en trocitos, la mitad de la cebolla crujiente y la mitad del cilantro y la menta picados. Tapa con papel de aluminio y la tapa y hornea 25 minutos.",
-    "Mientras, prepara la raita: mezcla el resto del yogur con el pepino rallado y escurrido, el resto de la menta picada y una pizca de sal.",
-    "Deja reposar el biryani 5 minutos tapado, mezcla con suavidad desde el fondo y sirve con el resto de la cebolla crujiente, el cilantro, gajos de limón y la raita."
+    "Mientras, prepara la raita: aprieta el pepino para escurrirlo bien y mézclalo con el resto del yogur, el resto de la menta y una pizca de sal. Corta el otro medio limón en gajos.",
+    "Deja reposar el biryani 5 minutos tapado, mezcla con suavidad desde el fondo y sirve con el resto de la cebolla crujiente, el cilantro, los gajos de limón y la raita."
   ],
   nutricion: { kcal: 760, prot: 42, hc: 78, grasa: 31 },
   etiquetas: ["al horno", "especiado", "fin de semana", "batch cooking"],
@@ -965,14 +981,15 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 60, u: "g" },
     { n: "vinagre balsámico", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece la pasta en agua hirviendo con sal según el paquete, hasta que esté al dente. Reserva medio vaso del agua de cocción, escurre y refresca con agua fría.",
     "Mientras, tritura el tomate seco con su cucharada de aceite, las almendras, el ajo, la mitad de la albahaca, el parmesano y 3-4 cucharadas del agua de cocción hasta tener un pesto espeso pero untuoso. Salpimienta.",
     "Corta los cherry por la mitad y alíñalos con el vinagre balsámico y una pizca de sal.",
     "Mezcla la pasta fría con el pesto rojo hasta que quede bien cubierta; si está seca, añade otra cucharada de agua de cocción.",
-    "Incorpora los cherry, la mozzarella y el resto de la albahaca troceada. Añade la rúcula justo antes de servir y termina con pimienta."
+    "Trocea el resto de la albahaca e incorpórala con los cherry y la mozzarella. Añade la rúcula justo antes de servir y termina con pimienta."
   ],
   nutricion: { kcal: 465, prot: 21, hc: 59, grasa: 16 },
   etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "vegetariana", "pasta fría", "económica", "poco especiada"],
@@ -1012,12 +1029,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el alioli: mezcla la mayonesa con 1 diente de ajo rallado, la ralladura de medio limón y unas gotas de su zumo. Reserva en frío. Calienta el caldo y disuelve en él la tinta. Pica muy finos la cebolla, el pimiento verde y los 2 ajos.",
+    "Prepara el alioli: ralla 1 diente de ajo y mézclalo con la mayonesa, la ralladura de medio limón y unas gotas de su zumo. Reserva en frío. Calienta el caldo y disuelve en él la tinta. Pica muy finos la cebolla, el pimiento verde y los 2 ajos.",
     "Seca la sepia con papel. En una paella o sartén amplia, calienta 1 cucharada de aceite a fuego fuerte y saltea la sepia 3-4 minutos hasta que dore. Resérvala.",
     "Baja a fuego medio, añade el resto del aceite, la cebolla y el pimiento verde. Sofríe 8-10 minutos hasta que estén blandos y dulces. Agrega los ajos y, al minuto, el tomate rallado; cocina 4 minutos hasta que oscurezca.",
     "Añade el pimentón, remueve 20 segundos y moja con el vino. Deja evaporar, echa el arroz y remueve 1 minuto para que se impregne del sofrito.",
-    "Vierte el caldo negro caliente, reparte la sepia y rectifica de sal. Cuece a fuego fuerte 8 minutos y luego a fuego medio-bajo 9-10 minutos más, sin remover, hasta que el caldo se absorba. En el último minuto sube el fuego para que se forme un poco de socarrat.",
-    "Apaga, cubre con un paño limpio y deja reposar 4 minutos. Sirve con perejil picado, gajos de limón y el alioli."
+    "Vierte el caldo negro caliente, reparte la sepia y rectifica de sal. Cuece a fuego fuerte 8 minutos y luego a fuego medio-bajo 9-10 minutos más, sin remover, hasta que el caldo se absorba. Mientras, pica el perejil y corta el limón restante en gajos. En el último minuto sube el fuego para que se forme un poco de socarrat.",
+    "Apaga, cubre con un paño limpio y deja reposar 4 minutos. Sirve con el perejil picado, los gajos de limón y el alioli."
   ],
   nutricion: { kcal: 590, prot: 35, hc: 68, grasa: 20 },
   etiquetas: ["marisco", "tradicional", "fin de semana", "una sola sartén", "poco especiada"],
@@ -1054,7 +1071,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados, picados" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Marina el pollo 10 minutos con el zumo de 1 lima, 1 cucharada de salsa de pescado, 1 ajo rallado, el aceite y pimienta.",
@@ -1102,13 +1120,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo y mantenlo a fuego mínimo. Cuece la mitad de los guisantes 3 minutos en un poco de caldo, tritúralos con 5-6 hojas de menta hasta obtener un puré verde y reserva. Pica la cebolleta (reserva lo verde aparte) y lamina el ajo.",
+    "Calienta el caldo y mantenlo a fuego mínimo. Cuece la mitad de los guisantes 3 minutos en un poco de caldo, tritúralos con 5-6 hojas de menta hasta obtener un puré verde y reserva. Pica la cebolleta (reserva lo verde aparte), lamina el ajo y corta en tiras finas el resto de la menta.",
     "En una cazuela ancha, pocha lo blanco de la cebolleta con 1 cucharada de aceite a fuego medio 4 minutos. Añade el arroz y nacáralo 2 minutos removiendo.",
     "Vierte el vino y deja que se evapore. Añade el caldo caliente cazo a cazo, removiendo a menudo y esperando a que se absorba antes de añadir más, durante unos 15 minutos.",
     "Agrega el resto de los guisantes y el puré verde y sigue cociendo 3 minutos más hasta que el arroz esté al dente y cremoso.",
     "Mientras termina el arroz, calienta el resto del aceite en una sartén con el ajo y la guindilla. Cuando el ajo empiece a dorarse, sube el fuego y saltea las gambas salpimentadas 2 minutos hasta que estén rosadas. Añade la ralladura del limón.",
     "Fuera del fuego, añade al risotto la mantequilla y el parmesano y remueve con energía 30 segundos. Rectifica de sal y pimienta.",
-    "Sirve el risotto con las gambas y su aceite por encima, lo verde de la cebolleta, el resto de la menta en tiras y un chorrito de limón."
+    "Sirve el risotto con las gambas y su aceite por encima, lo verde de la cebolleta, la menta en tiras y un chorrito de limón."
   ],
   nutricion: { kcal: 630, prot: 40, hc: 74, grasa: 20 },
   etiquetas: ["marisco", "primavera", "alta en proteína", "de cuchara"],

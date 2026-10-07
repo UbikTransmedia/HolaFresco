@@ -68,7 +68,8 @@ window.RECETAS_SEED.push({
     { n: "quinoa", q: 100, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en una cazuela con el doble de su volumen de agua y sal, 12 minutos a fuego bajo y tapada. Apaga y deja reposar 5 minutos.",
@@ -151,7 +152,8 @@ window.RECETAS_SEED.push({
     { n: "tahini", q: 1.5, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "pan de pita", q: 2, u: "ud", nota: "integral" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre bien las judías y sécalas con papel de cocina, extendidas, durante un par de minutos: cuanto más secas, más crujientes.",
@@ -194,7 +196,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados sin sal" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "aceite de sésamo", q: 1, u: "cda" }
+    { n: "aceite de sésamo", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tofu prensado en dados de 2 cm, mézclalo con 1 cucharada de tamari y luego espolvorea la maicena removiendo hasta que quede bien cubierto.",
@@ -410,7 +413,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal unos 30 minutos (o lo que indique el paquete) y escúrrelo.",
@@ -542,7 +546,8 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz, ponlo en un recipiente apto para microondas con 300 ml de agua y sal, tápalo dejando una rendija y cocina 12 minutos a 800 W. Déjalo reposar tapado 5 minutos.",
@@ -583,7 +588,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en gajos y mézclala con la coliflor y los ajos con piel, 1 cucharada de aceite, el tomillo y sal.",
@@ -665,7 +671,8 @@ window.RECETAS_SEED.push({
     { n: "arroz integral", q: 120, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "aceite de sésamo", q: 1, u: "cdta" }
+    { n: "aceite de sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal unos 30 minutos. Añade el edamame congelado a la misma olla los últimos 4 minutos y escurre todo junto.",
@@ -708,7 +715,8 @@ window.RECETAS_SEED.push({
     { n: "edamame congelado", q: 200, u: "g", nota: "desvainado" },
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "sésamo", q: 2, u: "cdta" }
+    { n: "sésamo", q: 2, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz jazmín con 1,5 veces su volumen de agua y sal, tapado y a fuego bajo, 12 minutos. Añade el edamame encima los últimos 4 minutos y deja reposar tapado.",
@@ -751,7 +759,8 @@ window.RECETAS_SEED.push({
     { n: "sirope de arce", q: 1, u: "cdta" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela con el doble de agua y sal, tapada y a fuego bajo, 12 minutos. Reposa 5 minutos y suéltala con un tenedor.",
@@ -836,7 +845,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 2, u: "cda" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz jazmín con 1,5 veces su volumen de agua y sal, tapado y a fuego bajo, 12 minutos. Deja reposar tapado.",
@@ -883,7 +893,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre y el ajo y mézclalos con 3 cucharadas del yogur, las especias, el zumo del limón y sal. Reserva el resto del yogur para servir.",
@@ -1058,7 +1069,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela con el doble de agua y sal, tapada y a fuego bajo, 12 minutos. Reposa 5 minutos.",

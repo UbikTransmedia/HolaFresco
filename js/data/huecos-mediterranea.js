@@ -86,7 +86,8 @@ window.RECETAS_SEED.push({
     { n: "queso fresco", q: 100, u: "g", nota: "de oveja o de cabra si lo encuentras; sustituye a las ġbejniet maltesas" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla y lamina los ajos. Corta el queso fresco en 4 trozos gruesos y pica el perejil fresco. Calienta el caldo.",

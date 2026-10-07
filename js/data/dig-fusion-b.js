@@ -44,7 +44,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "huevo", q: 2, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir 3 dedos de agua en una cazuela con cestillo de vapor. Corta la kabocha en gajos de 2 cm (con piel, que se come), la patata en rodajas de 1,5 cm, la zanahoria en bastones y el nabo en medias lunas de 1 cm. Corta el pak choi a lo largo en cuartos.",
@@ -141,7 +142,8 @@ window.RECETAS_SEED.push({
     { n: "arroz japonés", q: 120, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz japonés hasta que el agua salga casi clara y cuécelo con 150 ml de agua: hervor, tapa, 12 minutos a fuego mínimo y 10 de reposo. A la vez, cuece los huevos 9 minutos, enfríalos en agua fría y pélalos.",
@@ -234,7 +236,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "semillas de calabaza", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati y cuécelo con 280 ml de agua y una pizca de sal: 10 minutos tapado a fuego mínimo y 5 de reposo.",
@@ -329,7 +332,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "sésamo blanco", q: 2, u: "cdta" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela el boniato, córtalo en dados de 2 cm, úntalo con 1 cucharadita del aceite y una pizca de sal y ásalo en una bandeja con papel 20-22 minutos, hasta que esté dorado en las aristas.",
@@ -378,7 +382,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Prensa el tofu 15 minutos entre papel de cocina con un peso encima; mientras, ralla el jengibre y pica el perejil. Corta el tofu en dados de 3 cm.",
@@ -423,7 +428,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 18-20 minutos, hasta que una brocheta entre sin resistencia. Escúrrelas, deja que se templen, pélalas y córtalas en rodajas gruesas.",
@@ -471,7 +477,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "alga nori", q: 0.5, u: "hoja" },
     { n: "sésamo", q: 1, u: "cdta", nota: "tostado" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa frotándola bajo el grifo 1 minuto y cuécela con 240 ml de agua y sal, tapada, 12 minutos a fuego suave; deja reposar 5 minutos, suéltala con un tenedor y extiéndela en una bandeja para que se temple.",
@@ -564,7 +571,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sésamo blanco", q: 2, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua; mientras, ralla el jengibre y pica el cebollino. Escalda en ella los brotes de soja 1 minuto; sácalos con una espumadera y enfríalos en agua fría. En la misma agua, cuece los fideos de arroz según el paquete (3-4 minutos), pásalos por agua fría frotándolos con las manos para quitarles el almidón y escúrrelos a conciencia.",
@@ -611,7 +619,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1.5, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los fideos 1 minuto menos de lo que indique el paquete, pásalos por agua fría, escúrrelos bien y úntalos con 1 cucharadita del aceite de girasol para que no se peguen.",
@@ -656,7 +665,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "parmesano", q: 20, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Mientras, prepara el kétchup casero: pon en un cazo el tomate concentrado, el tomate triturado, el azúcar, el vinagre y el tamari y cuece a fuego suave 5 minutos, removiendo, hasta que espese y brille.",
@@ -700,7 +710,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "aceite de girasol", q: 3, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras, prepara el pesto: tritura en el vaso de la batidora (o maja en el mortero) dos tercios de los cacahuetes, las hojas de albahaca, cilantro y menta, el jengibre pelado, el aceite de ajo, 2 cucharaditas de aceite de girasol, el zumo de una lima, la salsa de pescado, el azúcar y 2 cucharadas de agua, hasta tener una pasta verde con algo de textura.",
@@ -798,7 +809,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "sésamo blanco", q: 1, u: "cdta" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir un cazo de agua para los namul. Mientras, prepara la salsa roja: tritura los piquillos con el pimentón, el azúcar, 1 cucharadita de tamari y unas gotas del aceite de sésamo hasta que quede lisa. Resérvala.",
@@ -847,7 +859,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "mozzarella sin lactosa", q: 60, u: "g" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si no tienes arroz del día anterior, cuécelo con 210 ml de agua 12 minutos a fuego mínimo, extiéndelo en una bandeja y déjalo enfriar 15 minutos para que se seque.",
@@ -893,7 +906,8 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 200, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara, déjalo escurrir 10 minutos y cuécelo con 215 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo. Pásalo a un bol y deja que se temple hasta poder manipularlo.",
@@ -990,7 +1004,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1, u: "cdta" },
     { n: "fideos de arroz finos", q: 40, u: "g" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Parte los fideos de arroz en trozos de 4 cm, úntalos con el aceite de girasol y hornéalos extendidos en una bandeja 6-8 minutos, hasta que estén dorados y crujientes. Vigílalos: se tuestan de golpe.",
@@ -1033,7 +1048,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "maicena", q: 1, u: "cda" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el jengibre, corta la mitad en láminas y la otra mitad en hilos finísimos. Pon las láminas en una cazuela con el caldo y lleva a ebullición.",
@@ -1169,7 +1185,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los macarrones en abundante agua con sal el tiempo del paquete, escúrrelos y pásalos por agua caliente para quitarles el almidón: así el caldo queda limpio, como en Hong Kong.",

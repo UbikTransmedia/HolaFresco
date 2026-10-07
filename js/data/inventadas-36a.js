@@ -30,7 +30,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz jazmín hasta que el agua salga casi clara y cuécelo en una cazuela con 180 ml de agua y una pizca de sal: lleva a ebullición, tapa, baja al mínimo 12 minutos y deja reposar 5 minutos más sin destapar.",
@@ -164,7 +165,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "parte verde de cebolleta", q: 2, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz basmati lavado en una cazuela con 250 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo. Reserva tapado.",
@@ -296,7 +298,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los pimientos en tiras anchas y ponlos en el fondo de la slow cooker.",
@@ -341,7 +344,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el mojo mezclando el zumo de naranja, el zumo de la lima, el comino, el orégano, el aceite de ajo, sal y pimienta.",
@@ -433,7 +437,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "cacahuetes", q: 30, u: "g" }
+    { n: "cacahuetes", q: 30, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos de arroz en agua caliente del grifo 8–10 minutos (o según el paquete), hasta que estén flexibles pero firmes.",
@@ -564,7 +569,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo 1 minuto para quitar el amargor.",
@@ -605,7 +611,8 @@ window.RECETAS_SEED.push({
     { n: "estragón seco", q: 0.5, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 10 minutos; mientras, despunta y trocea las judías verdes. Añádelas y cuece 5 minutos más, hasta que las patatas estén tiernas y las judías conserven su verde intenso. Escurre.",
@@ -818,7 +825,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, pon un peso encima y deja que suelte agua 10 minutos. Mientras, corta las patatas en gajos y mézclalas con 1 cucharada de aceite de oliva, la mitad del pimentón y sal.",
@@ -862,7 +870,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado con 220 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo.",
@@ -904,7 +913,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 100, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava bien las patatas, pínchalas 6 u 8 veces con un tenedor y colócalas sobre papel de cocina en un plato apto.",
@@ -990,7 +1000,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela con 120 ml de agua y sal 12 minutos tapada a fuego bajo.",

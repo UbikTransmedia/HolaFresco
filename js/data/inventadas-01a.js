@@ -78,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla, el pimiento verde y los ajos; corta la zanahoria en medias lunas y el boniato pelado en dados de 2 cm. Enjuaga las lentejas (no necesitan remojo).",
@@ -169,7 +170,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimentón dulce", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en un cazo. Sumerge los huevos con cuidado y cuécelos exactamente 6 minutos y 30 segundos; pásalos a un bol de agua con hielo y pélalos bajo el grifo: la clara estará cuajada y la yema cremosa.",
@@ -215,7 +217,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la mitad del jengibre y pica un tomate. Enjuaga las lentejas rojas hasta que el agua salga clara y ponlas en una cazuela con 600 ml de agua, la cúrcuma, el jengibre rallado y el tomate picado. Lleva a ebullición, retira la espuma y cuece a fuego suave 20 minutos, hasta que se deshagan en una crema espesa. Sala al final.",
@@ -260,7 +263,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en plumas muy finas y déjala 10 minutos en un bol con agua fría y el zumo de medio limón: pierde el picor y queda crujiente. Mientras, pica el eneldo.",
@@ -309,7 +313,8 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga la quinoa bajo el grifo y cuécela en 120 ml de agua con sal, tapada, 12 minutos a fuego mínimo; apaga y déjala reposar tapada 5 minutos. Extiéndela en un plato para que se enfríe.",
@@ -356,7 +361,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C con calor arriba y abajo. Corta el limón por la mitad: exprime una mitad y corta la otra en rodajas finas. Machaca los ajos con piel y corta la cebolla morada en gajos gruesos.",
@@ -404,7 +410,8 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 15, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica en dados pequeños (1 cm) la cebolla, la zanahoria, el apio y el calabacín; lamina 1 ajo. Trocea el kale en tiras de 2 cm.",
@@ -451,7 +458,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 1, u: "ud" },
     { n: "queso fresco", q: 100, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el pico de gallo: pica en dados pequeños los tomates (sin semillas), la cebolla morada y el chile, y pica el cilantro; mezcla con la mitad del cilantro, el zumo de 1 lima y sal. Déjalo reposar mientras cocinas.",
@@ -543,7 +551,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "pan de pita", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua fría, pélalos y córtalos en cuartos.",
@@ -635,7 +644,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" }
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla en un vasito la salsa de soja, el vinagre, la miel, la maicena y 3 cucharadas de agua. Pica el ajo y el jengibre, corta el chile en aros y la cebolleta en trozos de 3 cm separando lo blanco de lo verde.",
@@ -680,7 +690,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 900, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, la zanahoria, la patata pelada y los ajos en trozos pequeños (se van a triturar, no hace falta precisión).",
@@ -724,7 +735,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en plumas finas y déjala 5 minutos en agua fría con el vinagre para suavizarla.",
@@ -820,7 +832,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento rojo y los ajos en dados pequeños. Sofríelos en la cazuela con el aceite a fuego medio 10 minutos, hasta que estén blandos y la cebolla dorada.",
@@ -865,7 +878,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela la calabaza y córtala en dados de 2,5 cm; mézclala en la bandeja con 1 cucharada de aceite, las hojas de tomillo, sal y pimienta. Asa 30 minutos, dándole la vuelta a mitad, hasta que esté tierna y dorada en los bordes.",
@@ -912,7 +926,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Separa la coliflor en ramilletes medianos (del tamaño de una nuez grande) y sécalos bien.",
@@ -956,7 +971,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 300, u: "ml" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados de 2 cm. Cuécela en la cazuela con agua con sal y el laurel 12-14 minutos, hasta que esté tierna pero entera. Escúrrela y reserva el laurel.",
@@ -1002,7 +1018,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados de 3 cm. Corta la cebolla en gajos gruesos y pica el ajo y el jengibre. Tritura o machaca la mitad de los cacahuetes.",
@@ -1092,7 +1109,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en plumas muy finas y déjala 10 minutos en agua fría con el vinagre: queda rosada, crujiente y sin picor.",

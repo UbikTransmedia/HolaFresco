@@ -27,7 +27,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las fabes en remojo en abundante agua fría. Al día siguiente, pon las almejas en un bol con agua fría y un buen puñado de sal durante 1 hora para que suelten la arena; cambia el agua un par de veces.",
@@ -68,11 +69,12 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon las habas en remojo en abundante agua fría 24 horas antes. Escúrrelas y ponlas en la cazuela con 1,5 litros de agua fría. Lleva a ebullición a fuego medio y retira la espuma que suba.",
-    "Añade el chorizo entero, el jamón en dados grandes, los ajos enteros sin pelar, el laurel y la guindilla.",
+    "Pon las habas en remojo en abundante agua fría 24 horas antes. Escúrrelas y ponlas en la cazuela con 1,5 litros de agua fría. Lleva a ebullición a fuego medio y retira la espuma que suba. Mientras se calienta, corta el jamón en dados grandes.",
+    "Añade el chorizo entero, el jamón, los ajos enteros sin pelar, el laurel y la guindilla.",
     "Disuelve el pimentón en el aceite templado (fuera del fuego, para que no se queme) y añádelo a la cazuela.",
     "Baja a fuego suave y deja cocer tapado a medias unas 2 h 30 min, hasta que las habas estén muy tiernas y el caldo haya espesado. Si se queda seco, añade agua caliente poco a poco.",
     "Saca el chorizo, córtalo en rodajas y devuélvelo a la cazuela. Prueba antes de salar: el jamón ya aporta mucha sal.",
@@ -108,13 +110,14 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "guindillas en vinagre", q: 6, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en la cazuela con la cebolla entera pelada, 2 cucharadas de aceite y agua fría que las cubra dos dedos. Lleva a ebullición a fuego medio.",
     "Cuando hiervan, baja al mínimo y deja que se hagan con un borbotón apenas visible unas 2 h 30 min. Asústalas con un chorrito de agua fría cada vez que dejen de hervir del todo.",
-    "Mientras, en otra olla con agua, cuece la panceta y el chorizo 30 minutos y añade la morcilla los últimos 10 minutos (pinchándola antes para que no reviente).",
-    "En la misma agua de los sacramentos, cuece el repollo cortado en tiras 15 minutos. Escúrrelo y rehógalo en una sartén con 1 cucharada de aceite y los ajos laminados hasta que estos se doren.",
+    "Mientras, en otra olla con agua, cuece la panceta y el chorizo 30 minutos y añade la morcilla los últimos 10 minutos (pinchándola antes para que no reviente). Durante la cocción, corta el repollo en tiras y lamina los ajos.",
+    "En la misma agua de los sacramentos, cuece el repollo 15 minutos. Escúrrelo y rehógalo en una sartén con 1 cucharada de aceite y los ajos laminados hasta que estos se doren.",
     "Cuando las alubias estén tiernas y el caldo oscuro y espeso, saca la cebolla, tritúrala con un poco de caldo y devuélvela a la cazuela. Sala al final.",
     "Sirve las alubias en plato hondo y, aparte, una fuente con el repollo rehogado, la morcilla, el chorizo y la panceta en trozos, más las guindillas en vinagre."
   ],
@@ -148,7 +151,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, pon en la cazuela las alubias escurridas, la costilla, la panceta y el chorizo. Cubre con agua fría (unos 1,5 litros) y lleva a ebullición a fuego medio retirando la espuma.",
@@ -190,7 +194,8 @@ window.RECETAS_SEED.push({
     { n: "puerro", q: 1, u: "ud" },
     { n: "apio", q: 1, u: "rama" },
     { n: "hierbabuena fresca", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua (mejor templada con una pizca de sal). Al día siguiente, pon en la cazuela la ternera, el pollo, la panceta y los huesos con 2 litros de agua fría. Lleva a ebullición a fuego medio y desespuma con paciencia hasta que el caldo quede limpio.",
@@ -234,7 +239,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon en remojo los garbanzos y las alubias, por separado, en abundante agua. Al día siguiente, pon en la cazuela 2 litros de agua con la costilla y la panceta y lleva a ebullición; retira la espuma. Cuando hierva, añade los garbanzos y las alubias escurridos.",
@@ -273,7 +279,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 1, u: "ud" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "azafrán", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las judías en remojo en abundante agua fría. Al día siguiente, pon en la cazuela las judías escurridas, la costilla y la panceta, cubre con 1,5 litros de agua fría y lleva a ebullición. Retira la espuma.",
@@ -313,7 +320,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los judiones en remojo en abundante agua fría 24 horas antes. Escúrrelos y ponlos en la cazuela con media cebolla, 1 diente de ajo, el laurel, el lacón y la panceta. Cubre con agua fría y lleva a ebullición a fuego medio retirando la espuma.",
@@ -357,7 +365,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "caldo de carne", q: 400, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava los callos con agua fría y córtalos en trozos de bocado. Enjuaga y escurre los garbanzos. Pica la cebolla y los ajos y corta el chorizo en rodajas.",
@@ -397,7 +406,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las judías en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en la cazuela con media cebolla, medio pimiento, el laurel y el chorizo entero. Cubre con agua fría y lleva a ebullición a fuego medio.",
@@ -438,14 +448,15 @@ window.RECETAS_SEED.push({
     { n: "carne de pimiento choricero", q: 1, u: "cda" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua (mejor templada con una pizca de sal). Al día siguiente, calienta 1,5 litros de agua en la cazuela con el laurel. Cuando hierva, añade los garbanzos escurridos, baja a fuego suave y cuece tapado a medias 1 h 30 min. Si necesitas añadir agua, que sea caliente.",
-    "Mientras, pica la cebolla, el pimiento y los ajos y póchalos en la sartén con el aceite a fuego suave 12 minutos, hasta que estén blandos.",
-    "Añade el tomate rallado y la carne de pimiento choricero y cocina 8 minutos más, hasta que el sofrito oscurezca y suelte el aceite.",
-    "Agrega el chorizo en rodajas gruesas al sofrito y rehoga 2 minutos.",
-    "Vuelca el sofrito con el chorizo en la cazuela de los garbanzos. Añade la patata cascada (córtala a medias y rómpela para que suelte almidón).",
+    "Mientras, pica la cebolla, el pimiento y los ajos, ralla el tomate y pocha la cebolla, el pimiento y los ajos en la sartén con el aceite a fuego suave 12 minutos, hasta que estén blandos.",
+    "Añade el tomate rallado y la carne de pimiento choricero y cocina 8 minutos más, hasta que el sofrito oscurezca y suelte el aceite. Mientras, corta el chorizo en rodajas gruesas y pela la patata y cáscala (córtala a medias y rómpela para que suelte almidón).",
+    "Agrega el chorizo al sofrito y rehoga 2 minutos.",
+    "Vuelca el sofrito con el chorizo en la cazuela de los garbanzos y añade la patata cascada.",
     "Cuece 20 minutos más, hasta que la patata esté tierna y el caldo haya espesado. Sala al final y deja reposar 5 minutos."
   ],
   nutricion: { kcal: 776, prot: 34, hc: 88, grasa: 32 },
@@ -480,14 +491,14 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y corta la zanahoria en rodajas. Dora la costilla salada en la cazuela con 1 cucharada de aceite a fuego medio-fuerte 5 minutos, hasta que tome color por todas partes.",
     "Añade las lentejas, la zanahoria, el laurel y 1,2 litros de agua fría. Lleva a ebullición, baja el fuego y cuece tapado a medias 25 minutos.",
-    "Mientras, pocha la cebolla, el pimiento y los ajos picados en la sartén con el otro poco de aceite 10 minutos. Aparta del fuego, añade el pimentón y remueve.",
-    "Añade a la cazuela el sofrito y la patata cascada en trozos pequeños. Cuece 15 minutos más.",
-    "Corta la morcilla en rodajas gruesas y dóralas en la sartén 1 minuto por lado, sin removerlas para que no se deshagan.",
+    "Mientras, pica la cebolla, el pimiento y los ajos y póchalos en la sartén con el otro poco de aceite 10 minutos; entretanto, pela la patata y cáscala en trozos pequeños. Aparta la sartén del fuego, añade el pimentón y remueve.",
+    "Añade a la cazuela el sofrito y la patata. Cuece 15 minutos más. Mientras, corta la morcilla en rodajas gruesas y dóralas en la sartén 1 minuto por lado, sin removerlas para que no se deshagan.",
     "Pon la morcilla sobre las lentejas los últimos 3 minutos, sin mezclar. Sala, deja reposar 5 minutos y sirve con una rodaja de morcilla en cada plato."
   ],
   nutricion: { kcal: 810, prot: 44, hc: 82, grasa: 34 },
@@ -520,7 +531,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "guindillas en vinagre", q: 4, u: "ud", opcional: true, nota: "para acompañar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las pochas en la cazuela con la mitad de la cebolla, medio pimiento, la zanahoria, medio puerro y el tomate, todo en trozos grandes. Cubre con agua fría justo un dedo por encima.",
@@ -561,12 +573,13 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Deja las almejas en agua fría con sal 30 minutos para que suelten la arena.",
     "Pon las pochas en la cazuela con media cebolla y el pimiento en trozos, cubre con agua fría un dedo y cuece a fuego suave 35 minutos, hasta que estén tiernas. Retira la cebolla y el pimiento.",
-    "Mientras, pica fina la otra media cebolla y los ajos y póchalos en la sartén con el aceite y la guindilla a fuego suave 8 minutos.",
+    "Mientras, pica fina la otra media cebolla y los ajos y póchalos en la sartén con el aceite y la guindilla a fuego suave 8 minutos. Mientras se pochan, pica el perejil.",
     "Añade la harina, rehoga 1 minuto, vierte el vino blanco y deja que hierva 1 minuto. Incorpora las almejas, tapa y cocina a fuego fuerte 2–3 minutos, hasta que se abran.",
     "Vuelca las almejas con su salsa sobre las pochas, añade el perejil picado y menea la cazuela con movimientos de vaivén para que la salsa ligue.",
     "Prueba de sal (las almejas ya salan) y sirve enseguida."
@@ -604,16 +617,17 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 500, u: "ml" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las verdinas en remojo en abundante agua fría. Al día siguiente, pon las almejas en agua con sal 1 hora. Pela los langostinos dejando la cola y reserva cabezas y cáscaras.",
     "Dora las cabezas y cáscaras en la cazuela con 1 cucharada de aceite 3 minutos, aplastándolas para que suelten el jugo. Añade el caldo de pescado, hierve 10 minutos y cuela.",
     "Pon las verdinas escurridas en la cazuela limpia con media cebolla, medio pimiento y el caldo colado; completa con agua fría hasta cubrirlas dos dedos. Lleva a ebullición y cuece a fuego muy suave 1 h 15 min, asustándolas dos veces con agua fría.",
-    "Mientras, pocha en la sartén el resto de la cebolla, el pimiento y los ajos picados 10 minutos; añade el tomate rallado y cocina 8 minutos más. Agrega el vino y el azafrán y deja reducir 2 minutos.",
+    "Mientras, pica el resto de la cebolla, el pimiento y los ajos, ralla el tomate y pica el perejil. Pocha en la sartén la cebolla, el pimiento y los ajos 10 minutos; añade el tomate rallado y cocina 8 minutos más. Agrega el vino y el azafrán y deja reducir 2 minutos.",
     "Cuando las verdinas estén tiernas, retira la cebolla y el pimiento enteros y añade el sofrito. Sala con prudencia.",
     "Incorpora las almejas y, cuando empiecen a abrirse (2 minutos), los langostinos. Cuece 2 minutos más, hasta que estén rosados.",
-    "Apaga, espolvorea perejil picado y deja reposar 5 minutos antes de servir."
+    "Apaga, espolvorea el perejil picado y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 568, prot: 42, hc: 64, grasa: 16 },
   etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "poco especiada"],
@@ -648,13 +662,14 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon la costilla en la cazuela con 1,2 litros de agua, lleva a ebullición y retira la espuma. Añade la mazorca cortada en 4 rodajas y cuece a fuego suave 20 minutos.",
+    "Pon la costilla en la cazuela con 1,2 litros de agua, lleva a ebullición y retira la espuma. Corta la mazorca en 4 rodajas, añádela y cuece a fuego suave 20 minutos.",
     "Mientras, lava bien los berros, desecha los tallos más duros y pícalos gruesos. Pela y casca las papas y corta la calabaza en dados.",
     "Añade a la cazuela las papas, la calabaza y los berros. Cuece 15 minutos.",
-    "Mientras, en la sartén, sofríe la cebolla picada con el aceite 5 minutos. Machaca en el mortero los ajos con el comino, el azafrán y una pizca de sal, y añádelos a la sartén con el pimentón fuera del fuego.",
+    "Mientras, pica la cebolla y sofríela en la sartén con el aceite 5 minutos. Machaca en el mortero los ajos con el comino, el azafrán y una pizca de sal, y añádelos a la sartén con el pimentón fuera del fuego.",
     "Incorpora este majado y las judías escurridas a la cazuela. Cuece 10 minutos más, hasta que la papa empiece a deshacerse y espese el potaje.",
     "Sala al gusto y sirve con la costilla y una rodaja de millo en cada plato. En Canarias se acompaña de gofio para espesar en el plato."
   ],
@@ -691,7 +706,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y los ajos, corta el chorizo en rodajas y ralla el tomate. Sala la carne y dórala en la cazuela con el aceite a fuego fuerte 5 minutos, hasta que tenga costra. Retírala.",
@@ -734,7 +750,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo seco", q: 0.5, u: "cdta" },
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los contramuslos en un cazo con agua con sal a fuego medio 15 minutos, hasta que estén hechos. Escúrrelos (guarda el caldo) y deshiláchalos con dos tenedores.",
@@ -772,15 +789,16 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 60, u: "ml" },
     { n: "hierbabuena fresca", q: 3, u: "hoja", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las habas en una olla con agua hirviendo con sal y cuécelas 5 minutos (8 si son frescas y grandes). Mientras, pica la cebolleta y los ajos. Escúrrelas.",
     "En la sartén con el aceite, pocha la cebolleta y los ajos picados a fuego medio-bajo 6 minutos, hasta que estén blandos.",
     "Sube el fuego, añade el jamón y saltea 1 minuto, solo hasta que la grasa se vuelva transparente.",
     "Incorpora las habas, riega con el vino blanco y deja que se evapore 2 minutos, removiendo.",
-    "Baja el fuego, tapa y deja 5 minutos para que las habas se impregnen. Prueba antes de salar: el jamón ya sala.",
-    "Sirve con unas hojas de hierbabuena picadas por encima. Si quieres un plato más completo, cuaja encima un huevo por persona tapando la sartén 3 minutos."
+    "Baja el fuego, tapa y deja 5 minutos para que las habas se impregnen; mientras, pica la hierbabuena. Prueba antes de salar: el jamón ya sala.",
+    "Sirve con la hierbabuena picada por encima. Si quieres un plato más completo, cuaja encima un huevo por persona tapando la sartén 3 minutos."
   ],
   nutricion: { kcal: 406, prot: 32, hc: 38, grasa: 14 },
   etiquetas: ["tradicional", "fácil", "rápida", "verano", "poco especiada"],
@@ -816,8 +834,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava las acelgas, separa las pencas de las hojas y corta las pencas en trocitos y las hojas en tiras.",
-    "Calienta el caldo en la cazuela, añade la patata pelada y cascada y las pencas, y cuece a fuego medio 10 minutos.",
+    "Lava las acelgas, separa las pencas de las hojas y corta las pencas en trocitos y las hojas en tiras. Pela la patata y cáscala en trozos.",
+    "Calienta el caldo en la cazuela, añade la patata y las pencas, y cuece a fuego medio 10 minutos.",
     "Mientras, en la sartén con el aceite, fríe los ajos pelados y el pan hasta que estén dorados (2–3 minutos). Retira del fuego y añade el pimentón y el comino.",
     "Machaca en el mortero el pan, los ajos y las especias con el vinagre y un cazo de caldo hasta hacer una pasta.",
     "Añade a la cazuela las hojas de acelga, los garbanzos escurridos y el majado. Cuece 10 minutos a fuego suave, hasta que la patata se deshaga en los bordes y el potaje espese.",
@@ -936,10 +954,11 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "pan", q: 2, u: "rebanada", nota: "del día anterior" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon las lentejas lavadas en la cazuela con la cebolla, la zanahoria y el puerro troceados, el ajo, el laurel y 1 litro de agua fría.",
+    "Trocea la cebolla, la zanahoria y el puerro y pela el ajo. Ponlos en la cazuela con las lentejas lavadas, el laurel y 1 litro de agua fría.",
     "Lleva a ebullición, baja el fuego y cuece tapado a medias 35 minutos, hasta que las lentejas estén muy blandas.",
     "Mientras, corta el pan en dados y dóralos en la sartén con el aceite a fuego medio 3 minutos, removiendo, hasta que estén crujientes. Escúrrelos en papel.",
     "Retira el laurel, añade el comino y la sal y tritura con la batidora hasta obtener un puré fino. Si queda espeso, añade agua caliente; si queda claro, hiérvelo destapado unos minutos.",
@@ -1019,7 +1038,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento, la zanahoria y los ajos. Salpimienta las codornices y dóralas en la cazuela con el aceite a fuego fuerte 2 minutos por cada lado, hasta que la piel esté tostada. Retíralas.",

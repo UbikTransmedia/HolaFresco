@@ -35,10 +35,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C con grill. Pica fina la cebolla y 2 ajos, y corta el calabacín en dados de 1 cm.",
     "En una sartén que pueda ir al horno, calienta el aceite a fuego medio y sofríe la cebolla, el calabacín y el ajo con una pizca de sal 5 minutos, hasta que la cebolla esté transparente.",
-    "Añade la guindilla, el orégano (frotándolo entre los dedos) y el tomate triturado. Cocina 8 minutos a fuego medio, hasta que la salsa espese y el aceite asome por los bordes.",
+    "Añade la guindilla, el orégano (frotándolo entre los dedos) y el tomate triturado. Cocina 8 minutos a fuego medio, hasta que la salsa espese y el aceite asome por los bordes. Mientras, pica el perejil.",
     "Seca las gambas, salpimiéntalas y repártelas sobre la salsa hundiéndolas un poco. Desmiga el feta por encima y ralla la piel del medio limón.",
     "Mete la sartén en el horno 6 o 7 minutos, hasta que las gambas estén rosadas y el feta empiece a dorarse.",
-    "Mientras, tuesta el pan y frótalo con el ajo restante partido por la mitad. Sirve las gambas con perejil picado, un chorrito de zumo de limón y el pan para mojar en la salsa."
+    "Mientras, tuesta el pan y frótalo con el ajo restante partido por la mitad. Sirve las gambas con el perejil picado, un chorrito de zumo de limón y el pan para mojar en la salsa."
   ],
   nutricion: { kcal: 526, prot: 40, hc: 42, grasa: 22 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "al horno"],
@@ -76,11 +76,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lamina el hinojo muy fino (reserva sus hojitas) y la cebolla morada en plumas finas. Pela la naranja a lo vivo y córtala en rodajas o gajos, recogiendo el zumo que suelte.",
+    "Lamina el hinojo muy fino (reserva sus hojitas) y la cebolla morada en plumas finas. Pela la naranja a lo vivo y córtala en rodajas o gajos, recogiendo el zumo que suelte. Pica el perejil.",
     "Mezcla en un bol el hinojo, la cebolla, la naranja y las aceitunas. Aliña con el zumo de naranja, el aceite, el zumo del medio limón, sal y pimienta, y deja reposar mientras haces las tostas.",
     "Tuesta el pan en una sartén seca a fuego medio-alto 2 minutos por lado, hasta que esté dorado y crujiente. Frótalo con el ajo pelado.",
     "Ralla los tomates por la parte gruesa del rallador, desecha la piel y sazona la pulpa con sal. Úntala generosamente sobre el pan.",
-    "Coloca encima las sardinas en lomos, las alcaparras, perejil picado y una vuelta de pimienta. Sirve con la ensalada de hinojo coronada con sus hojitas."
+    "Coloca encima las sardinas en lomos, las alcaparras, el perejil picado y una vuelta de pimienta. Sirve con la ensalada de hinojo coronada con sus hojitas."
   ],
   nutricion: { kcal: 434, prot: 28, hc: 40, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "invierno", "poco especiada", "bajo en colesterol"],
@@ -117,7 +117,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 160 °C. Pon el pulpo entero en una fuente honda con el laurel y 1 cucharada de aceite, sin agua ni sal. Tapa herméticamente con papel de aluminio.",
@@ -165,7 +166,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "para la salsa" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica finas las patas y aletas de los calamares, los 2 ajos y la cebolla, y reserva aparte 1 ajo y la mitad de la cebolla para la salsa. Sofríe el resto en una sartén con 1 cucharada de aceite a fuego medio 5 minutos, hasta que el calamar deje de soltar agua.",
@@ -212,11 +214,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los mejillones reservando 2 cucharadas de su escabeche. Corta los piquillos en tiras, la cebolleta en rodajas finas y los tomates por la mitad.",
+    "Escurre los mejillones reservando 2 cucharadas de su escabeche. Corta los piquillos en tiras, la cebolleta en rodajas finas y los tomates por la mitad, y pica el perejil.",
     "Calienta el aceite en una sartén a fuego medio y saltea los garbanzos 3 minutos, hasta que empiecen a tostarse. Aparta del fuego, añade el comino y el pimentón y remueve 20 segundos para que perfumen sin quemarse.",
     "Prepara el aliño mezclando el escabeche reservado, el vinagre de Jerez, el zumo del medio limón, sal y pimienta.",
     "En un bol pon las espinacas, vuelca encima los garbanzos calientes para que se ablanden un poco y añade los piquillos, la cebolleta y los tomates.",
-    "Riega con el aliño, mezcla, coloca los mejillones por encima y termina con perejil picado. Sirve templada."
+    "Riega con el aliño, mezcla, coloca los mejillones por encima y termina con el perejil picado. Sirve templada."
   ],
   nutricion: { kcal: 424, prot: 26, hc: 44, grasa: 16 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "ideal para llevar", "aromática", "superalimentos", "poco especiada"],
@@ -256,11 +258,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava bien las patatas, pínchalas con un tenedor por varios sitios, úntalas con media cucharada de aceite y sal y ásalas directamente sobre la rejilla 50 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, mezcla el yogur con la ralladura y el zumo de medio limón, una pizca de sal y la mitad del perejil picado.",
-    "En otro bol desmiga el atún y mézclalo con las aceitunas picadas, las alcaparras, la cebolleta en rodajas finas, el resto del perejil y una cucharada de aceite.",
+    "Mientras, pica el perejil y las aceitunas, corta la cebolleta en rodajas finas y trocea la lechuga y el tomate. Mezcla el yogur con la ralladura y el zumo de medio limón, una pizca de sal y la mitad del perejil.",
+    "En otro bol desmiga el atún y mézclalo con las aceitunas, las alcaparras, la cebolleta, el resto del perejil y una cucharada de aceite.",
     "Abre las patatas a lo largo, chafa un poco la pulpa con un tenedor y sazónala con sal, pimienta y un hilo de aceite.",
     "Rellena con el atún, corona con el yogur al limón y espolvorea el pimentón.",
-    "Sirve con la lechuga y el tomate troceados, aliñados con el zumo del otro medio limón y sal."
+    "Sirve con la lechuga y el tomate, aliñados con el zumo del otro medio limón y sal."
   ],
   nutricion: { kcal: 674, prot: 42, hc: 68, grasa: 26 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "batch cooking", "poco especiada"],
@@ -336,7 +338,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "pizca" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las almejas en un bol con agua fría y una cucharada de sal 20 minutos para que suelten la arena. Escúrrelas y desecha las que estén abiertas o rotas.",
@@ -465,7 +468,8 @@ window.RECETAS_SEED.push({
     { n: "zumaque", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un bol, cúbrelo con 200 ml de agua hirviendo con una pizca de sal, tápalo con un plato y deja 12 minutos, hasta que esté tierno y haya absorbido el agua. Esponja con un tenedor y deja templar.",
@@ -550,14 +554,15 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Parte los pimientos por la mitad a lo largo conservando el rabo, quita semillas y nervios, úntalos con un poco de aceite y sal y hornéalos boca abajo 15 minutos, hasta que empiecen a ablandarse.",
     "Mientras, cuece los huevos 10 minutos en agua hirviendo, enfríalos y pícalos.",
     "Pica la cebolla y los ajos y póchalos en una sartén con 1 cucharada de aceite a fuego medio 8 minutos, hasta que estén dorados y dulces. Pasa la mitad a un bol.",
-    "Al resto del sofrito añade el tomate, la mitad del orégano y sal, y cocina 10 minutos hasta que espese. Viértelo en el fondo de una fuente de horno.",
-    "En el bol con la otra mitad de la cebolla mezcla el bonito desmigado, el huevo, las aceitunas picadas, el perejil, el resto del orégano y pimienta.",
+    "Al resto del sofrito añade el tomate, la mitad del orégano y sal, y cocina 10 minutos hasta que espese; mientras, desmiga el bonito y pica las aceitunas y el perejil. Viértelo en el fondo de una fuente de horno.",
+    "En el bol con la otra mitad de la cebolla mezcla el bonito, el huevo, las aceitunas, el perejil, el resto del orégano y pimienta.",
     "Rellena las mitades de pimiento, colócalas sobre la salsa, cúbrelas con el pan rallado mezclado con la última cucharada de aceite y hornea 20 minutos, hasta que la superficie esté gratinada.",
     "Sirve con la salsa del fondo y el pan tostado para mojar."
   ],
@@ -594,13 +599,14 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el grill del horno a 220 °C. Ralla el calabacín por la parte gruesa, sálalo y apriétalo con las manos para quitarle el agua. Pica la cebolleta y el ajo.",
+    "Precalienta el grill del horno a 220 °C. Ralla el calabacín por la parte gruesa, sálalo y apriétalo con las manos para quitarle el agua. Pica la cebolleta, el ajo y la menta, y trocea las gambas.",
     "En una sartén de 22 cm apta para horno, calienta 1 cucharada de aceite a fuego medio y sofríe la cebolleta y el ajo 3 minutos. Añade el calabacín y saltea 4 minutos, hasta que pierda la humedad.",
-    "Agrega las gambas troceadas y saltéalas 1 minuto, solo hasta que cambien de color.",
-    "Bate los huevos con el parmesano, la menta picada, la ralladura del medio limón, sal y pimienta. Viértelos en la sartén con el resto del aceite y cuaja a fuego suave 5 minutos, sin remover, hasta que los bordes estén firmes.",
+    "Agrega las gambas y saltéalas 1 minuto, solo hasta que cambien de color.",
+    "Bate los huevos con el parmesano, la menta, la ralladura del medio limón, sal y pimienta. Viértelos en la sartén con el resto del aceite y cuaja a fuego suave 5 minutos, sin remover, hasta que los bordes estén firmes.",
     "Pasa la sartén bajo el grill 3 o 4 minutos, hasta que la superficie esté hinchada y dorada.",
     "Mientras, corta los tomates, aliña con sal, orégano, zumo de limón y un hilo de aceite. Sirve la frittata en cuñas con la ensalada y el pan."
   ],
@@ -636,15 +642,16 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 100, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura los garbanzos con el tahini, el zumo de medio limón, el ajo, el comino, sal y 3 o 4 cucharadas del líquido de la conserva (o agua) hasta lograr una crema lisa y untuosa.",
     "Seca bien el pulpo con papel de cocina y úntalo con unas gotas de aceite.",
     "Calienta la plancha a fuego fuerte y dora el pulpo 2 o 3 minutos por lado, hasta que la piel esté crujiente y tostada.",
-    "Mientras, mezcla en un cuenco 1 cucharada de aceite con el pimentón ahumado y la ralladura del limón.",
+    "Mientras, pica el perejil, parte los tomates cherry por la mitad y mezcla en un cuenco 1 cucharada de aceite con el pimentón ahumado y la ralladura del limón.",
     "Extiende la crema de garbanzos en los platos haciendo un hueco con el dorso de la cuchara. Corta el pulpo en rodajas gruesas, colócalo encima y riégalo con el aceite de pimentón.",
-    "Acompaña con la rúcula y los tomates aliñados con el zumo restante, sal y perejil picado."
+    "Acompaña con la rúcula y los tomates aliñados con el zumo restante, sal y el perejil picado."
   ],
   nutricion: { kcal: 442, prot: 38, hc: 32, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "para invitados", "poco especiada"],
@@ -677,7 +684,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal en escamas", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Coloca en una bandeja la berenjena, los pimientos, la cebolla con piel y 2 tomates, todo entero, pintado con 1 cucharada de aceite.",
@@ -728,7 +736,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el tomate y el pepino en trozos grandes, el pimiento en aros finos y la cebolla en plumas. Mézclalos en un bol con las aceitunas, el feta en un bloque o desmigado grueso, media cucharadita de orégano, 1 cucharada de aceite, sal y un chorrito de limón.",
     "Abre los tubos de calamar en planchas y hazles cortes superficiales en rejilla; deja las patas enteras. Sécalo todo muy bien.",
-    "Mezcla el ajo y el perejil muy picados con 1 cucharada de aceite, la ralladura del limón y el resto del orégano.",
+    "Pica muy finos el ajo y el perejil y mézclalos con 1 cucharada de aceite, la ralladura del limón y el resto del orégano.",
     "Calienta la plancha a fuego máximo con unas gotas de aceite y haz el calamar 1 o 2 minutos por lado, hasta que se enrosque y esté dorado. Sálalo al final.",
     "En la misma plancha tuesta la pita 1 minuto por lado y córtala en triángulos.",
     "Corta el calamar en tiras, ponlo caliente sobre la ensalada, riégalo con el aceite de ajo y perejil y sirve con la pita y gajos de limón."
@@ -766,7 +774,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 15 a 20 minutos, hasta que se pinchen con facilidad. Escúrrelas y pártelas por la mitad.",
@@ -812,7 +821,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y 2 ajos. En una cazuela calienta 2 cucharadas de aceite a fuego medio-alto y saltea la sepia 5 minutos, hasta que suelte el agua y esta se evapore. Retírala.",
@@ -901,7 +911,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Pela las patatas y córtalas en láminas de 3 mm; corta en rodajas finas los tomates, el calabacín y la cebolla.",
@@ -945,11 +956,12 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Prepara el tzatziki: ralla la mitad del pepino, apriétalo con las manos para quitarle el agua y mézclalo con el yogur, 1 ajo rallado, el eneldo picado, un chorrito de limón y sal.",
-    "Mezcla el calamar seco con 1 cucharada de aceite, el otro ajo picado, el pimentón, el orégano, la ralladura del limón, sal y pimienta. Deja 5 minutos.",
+    "Pica el eneldo, ralla un ajo y pica el otro. Prepara el tzatziki: ralla la mitad del pepino, apriétalo con las manos para quitarle el agua y mézclalo con el yogur, el ajo rallado, el eneldo, un chorrito de limón y sal.",
+    "Mezcla el calamar seco con 1 cucharada de aceite, el ajo picado, el pimentón, el orégano, la ralladura del limón, sal y pimienta. Deja 5 minutos.",
     "Corta el tomate en rodajas, el resto del pepino en bastones, la cebolla en plumas finas y la lechuga en juliana.",
     "Calienta la plancha a fuego máximo con la otra cucharada de aceite y haz el calamar 2 o 3 minutos, removiendo, hasta que esté dorado y opaco.",
     "Calienta las pitas en la plancha 30 segundos por lado para que estén flexibles.",
@@ -993,10 +1005,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Parte las berenjenas por la mitad a lo largo, haz cortes en rejilla en la pulpa sin llegar a la piel, pinta con 1 cucharada de aceite y sal y hornea boca arriba 30 minutos, hasta que estén muy tiernas.",
-    "Mientras, pica la cebolla y los ajos y póchalos en una sartén con 1 cucharada de aceite a fuego medio 8 minutos.",
+    "Mientras, pica la cebolla y los ajos y póchalos en una sartén con 1 cucharada de aceite a fuego medio 8 minutos. Mientras se pochan, desmiga el atún, pica la albahaca y corta la mozzarella en trozos.",
     "Saca las berenjenas y sube el horno a 220 °C. Con una cuchara vacíalas dejando 1 cm de pulpa pegada a la piel. Pica la pulpa extraída y añádela a la sartén; cocina 4 minutos.",
-    "Agrega el tomate y el orégano y cocina 5 minutos hasta que espese. Fuera del fuego, incorpora el atún desmigado y la albahaca picada; salpimienta.",
-    "Rellena las barcas de berenjena, cubre con la mozzarella en trozos y el pan rallado, y gratina 10 minutos a 220 °C, hasta que el queso burbujee y se dore.",
+    "Agrega el tomate y el orégano y cocina 5 minutos hasta que espese. Fuera del fuego, incorpora el atún y la albahaca; salpimienta.",
+    "Rellena las barcas de berenjena, cubre con la mozzarella y el pan rallado, y gratina 10 minutos a 220 °C, hasta que el queso burbujee y se dore.",
     "Sirve con la rúcula aliñada con el aceite restante y sal, y el pan tostado."
   ],
   nutricion: { kcal: 540, prot: 40, hc: 32, grasa: 28 },
@@ -1035,7 +1047,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el yogur con la mostaza, la mitad del eneldo picado, la ralladura del limón, sal y pimienta.",
+    "Pica el eneldo y mezcla el yogur con la mostaza, la mitad del eneldo, la ralladura del limón, sal y pimienta.",
     "Corta el pepino y los rábanos en rodajas muy finas y la cebolla en plumas. Alíñalos con el zumo de medio limón y una pizca de sal y deja 5 minutos para que se encurtan ligeramente.",
     "Tuesta el pan de centeno hasta que esté crujiente.",
     "Unta cada tosta con la crema de yogur, coloca encima el pepino y los rábanos escurridos, la caballa en lomos, las alcaparras y el resto del eneldo.",
@@ -1074,7 +1086,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lamina los ajos. Seca las gambas, salpimiéntalas y saltéalas en una sartén amplia con 1 cucharada de aceite a fuego fuerte 1 minuto por lado, hasta que estén rosadas. Retíralas.",

@@ -27,7 +27,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien los lomos de merluza con papel de cocina, sálalos y ralla por encima la piel de medio limón. Lamina los ajos y pica el perejil.",
@@ -69,7 +70,8 @@ window.RECETAS_SEED.push({
     { n: "zumaque", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un bol, cúbrelo con 150 ml de agua hirviendo y una pizca de sal, tapa con un plato y deja 12 minutos, hasta que absorba el agua y esté tierno.",
@@ -153,7 +155,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la mitad del pepino, apriétalo con las manos para quitarle el agua y mézclalo con el yogur, el ajo rallado, la mitad del eneldo picado, una cucharadita de aceite, sal y unas gotas de limón. Guarda el tzatziki en la nevera.",
@@ -237,7 +240,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las patatas en rodajas de 1 cm y las judías verdes en trozos de 4 cm. Cuece las patatas en agua con sal 8 minutos, añade las judías y cuece 5 minutos más, hasta que la patata se deje pinchar y las judías sigan verdes y algo firmes. Escurre.",
@@ -279,11 +283,12 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica el pepino, el tomate y la cebolla morada en dados muy pequeños, todos del mismo tamaño. Mézclalos con la menta picada, el zumo de la lima, 1 cucharada de aceite y sal. Deja reposar en la nevera.",
-    "Mezcla el yogur con el ajo rallado, una pizca de sal y un chorrito de agua hasta que quede una salsa fluida.",
+    "Pica el pepino, el tomate y la cebolla morada en dados muy pequeños, todos del mismo tamaño. Pica la menta y mézclala con las verduras, el zumo de la lima, 1 cucharada de aceite y sal. Deja reposar en la nevera.",
+    "Ralla el ajo y mézclalo con el yogur, una pizca de sal y un chorrito de agua hasta que quede una salsa fluida.",
     "Seca los lomos de merluza, sálalos y úntalos con media cucharada de aceite. Cubre la parte superior con el zaatar, presionando para que se adhiera.",
     "Calienta el resto del aceite en una sartén antiadherente a fuego medio. Pon la merluza con el lado sin especias hacia abajo y cocina 4 minutos tapada, hasta que esté blanca casi hasta arriba.",
     "Dale la vuelta con cuidado y deja 1 minuto solo para tostar el zaatar, sin que se queme (debe oler a tomillo y sésamo tostado).",
@@ -322,7 +327,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata, córtala en dados de 1,5 cm y ponla a cocer en agua con sal. A los 3 minutos añade los huevos con cuidado y cuece todo 10 minutos, hasta que la patata esté tierna y los huevos duros. Mientras, pica el perejil, corta el tomate en dados pequeños y las aceitunas en rodajas, y mezcla la harissa con 1 cucharada de aceite para aligerarla. Enfría los huevos en agua fría.",
@@ -447,7 +453,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las pasas en remojo en un poco de agua caliente. Pica fina la cebolla y lamina el ajo. Tuesta los piñones en la sartén seca a fuego medio 2 minutos, removiendo, hasta que estén dorados, y resérvalos.",
@@ -532,7 +539,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 12-15 minutos, hasta que estén tiernas. Escúrrelas y aliña con el orégano, una cucharadita de aceite y sal.",
@@ -621,7 +629,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el bacalao en dados de 3-4 cm. Mézclalo en un bol con la ralladura y el zumo de medio limón, el pimentón, el ajo rallado, 1 cucharada de aceite y sal. Deja marinar 15 minutos (no más, o el limón lo cocinará). Si usas brochetas de madera, ponlas en remojo en agua.",
@@ -705,7 +714,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta dos rectángulos grandes de papel de horno (unos 40 x 30 cm).",
@@ -874,7 +884,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 80, u: "ml" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo. Llena un bol con agua y el zumo de medio limón.",
@@ -925,7 +936,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C con calor arriba y abajo.",
     "Corta la calabaza en dados de 2,5 cm y la cebolla en gajos. Mézclalos en una bandeja grande con los garbanzos, el comino, el pimentón, el aceite y sal y extiéndelos en una sola capa.",
     "Hornea 25 minutos, removiendo a mitad, hasta que la calabaza esté tierna y caramelizada por los bordes y los garbanzos algo crujientes.",
-    "Mientras, mezcla el yogur con el eneldo picado, el ajo rallado, la ralladura de medio limón, sal y unas gotas de zumo. Tuesta las semillas de calabaza 2 minutos en una sartén seca.",
+    "Mientras, pica el eneldo, ralla el ajo y mézclalos con el yogur, la ralladura de medio limón, sal y unas gotas de zumo. Tuesta las semillas de calabaza 2 minutos en una sartén seca.",
     "Haz hueco en la bandeja, coloca el salmón salado con la piel hacia abajo, ralla por encima la otra mitad de la piel de limón y hornea 10-12 minutos, hasta que el salmón se separe en lascas pero siga jugoso en el centro.",
     "Sirve la bandeja con cucharadas de yogur al eneldo, las semillas por encima y un chorrito de limón."
   ],
@@ -962,13 +973,14 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C con calor arriba y abajo.",
     "Corta la berenjena, el pimiento y la cebolla en trozos de 3 cm. Mézclalos en una bandeja con 2 cucharadas de aceite, las hojas de tomillo, los ajos machacados con piel y sal. Hornea 25 minutos, hasta que estén tiernos y tostados por los bordes.",
     "Mientras, cuece el bulgur en 250 ml de agua con sal a fuego suave y tapado 12 minutos, hasta que absorba el líquido. Apaga, déjalo 5 minutos reposar y alíñalo con la ralladura y el zumo de medio limón y un chorrito de aceite.",
-    "Mezcla el yogur con la menta picada y una pizca de sal.",
+    "Mientras reposa el bulgur, pica la menta y mézclala con el yogur y una pizca de sal.",
     "Coloca los lomos de jurel salados con la piel hacia arriba sobre las verduras, úntalos con el resto del aceite y hornea 8-10 minutos, hasta que la piel brille y la carne esté opaca.",
     "Sirve el jurel sobre el bulgur con las verduras asadas, la salsa de yogur y cuñas de limón."
   ],

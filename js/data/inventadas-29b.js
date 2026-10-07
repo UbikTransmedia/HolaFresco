@@ -28,7 +28,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 12 minutos: deben quedar duras por dentro. Escúrrelas y déjalas enfriar (si es posible, cuécelas la víspera).",
@@ -155,7 +156,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla los calabacines con el rallador grueso, mézclalos con media cucharadita de sal y déjalos en un colador 10 minutos. Mientras, desmenuza el feta y pica la cebolleta, la menta y el eneldo. Después estrújalos con las manos o en un paño para sacar toda el agua posible.",
@@ -239,7 +241,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para escalfar" },
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que se deshagan al pincharlas.",
@@ -278,7 +281,8 @@ window.RECETAS_SEED.push({
     { n: "queso pecorino", q: 40, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua abundante con sal para la pasta.",
@@ -317,7 +321,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "parmesano", q: 30, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua abundante con sal para la pasta. Mientras se calienta, lamina el ajo y desmenuza las guindillas.",
@@ -358,7 +363,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Mientras se calienta, pica la chalota, lamina los champiñones y ralla el parmesano.",
@@ -444,7 +450,8 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 150, u: "g" },
     { n: "naranja", q: 0.5, u: "ud", opcional: true, nota: "la piel, para el caldo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los muslos de pato en una olla con 1,2 litros de agua, media cebolla, la zanahoria, el laurel, el clavo, la piel de naranja y sal. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 h 30 min, hasta que la carne se separe del hueso. Mientras, pica la otra media cebolla y el ajo, corta el bacon en dados, pica la mitad del chorizo y corta el resto en rodajas finas.",
@@ -488,7 +495,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el pescado en una sartén con la leche y el laurel, calienta a fuego suave hasta que tiemble y cuece 5 minutos, hasta que esté opaco. Sácalo, desmígalo en lascas grandes y guarda la leche colada.",
@@ -529,7 +537,8 @@ window.RECETAS_SEED.push({
     { n: "champiñones", q: 200, u: "g", nota: "o setas variadas" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lleva a ebullición 500 ml de agua con la leche y sal en una cazuela. Añade la polenta en forma de lluvia batiendo con varillas para que no se formen grumos.",
@@ -573,7 +582,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 40, u: "g", nota: "tipo kefalotyri o parmesano" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Pocha la cebolla en la sartén con el aceite a fuego medio 6 minutos. Añade el ajo y la carne y cocina a fuego fuerte 6 minutos, deshaciéndola con la cuchara, hasta que esté dorada y sin líquido.",
@@ -696,7 +706,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los contramuslos en una olla con 1,3 litros de agua fría, la parte verde de los puerros, la zanahoria, el apio, el laurel, el tomillo y sal. Lleva a ebullición y retira la espuma.",
@@ -742,7 +753,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 3, u: "rama" },
     { n: "yogur natural", q: 60, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la remolacha y córtala en láminas finas o rállala gruesa. Trocea la zanahoria, la cebolla y el apio.",
@@ -786,7 +798,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza, del día anterior" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre las alubias (puestas en remojo la víspera), ponlas en la olla con 1,5 litros de agua fría, la panceta entera, el laurel y el tomillo. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 hora. Mientras, trocea la cebolla, el puerro y la zanahoria, pica el ajo, pela las patatas y córtalas en trozos y corta el repollo en tiras gruesas.",
@@ -828,7 +841,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el cordero en la olla con 1,5 litros de agua fría y el laurel. Lleva a ebullición y retira bien la espuma durante 5 minutos.",
@@ -950,7 +964,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a calentar un cazo de agua con 1 cucharada de vinagre para escalfar. Mientras, lava la escarola, quédate con las hojas más blancas y tiernas, trocéalas y sécalas bien. Ponlas en un bol grande y pica la chalota.",
@@ -990,7 +1005,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C y tuesta el pan 8 minutos, hasta que esté muy seco y crujiente, como un biscote.",
@@ -1033,7 +1049,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 2, u: "rama", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las pechugas en un cazo con agua fría que las cubra, el laurel y sal. Lleva a hervor suave y cuece 12 minutos a fuego mínimo, hasta que estén hechas. Déjalas enfriar en el caldo.",

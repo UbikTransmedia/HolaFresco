@@ -170,7 +170,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas. Mientras, pon los boletus en remojo en 200 ml de agua caliente.",
@@ -215,7 +216,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 3, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los boletus en remojo en 200 ml de agua caliente 15 minutos. Mientras, lava la cebada en un colador hasta que el agua salga clara.",
@@ -260,7 +262,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "eneldo fresco", q: 1, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas por la mitad y ponlas a cocer en agua con sal 20 minutos, hasta que se dejen atravesar con un cuchillo.",
@@ -304,7 +307,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "semillas de calabaza", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos de 3 cm y cuécelas en una cazuela con agua con sal y el laurel 18-20 minutos, hasta que estén muy tiernas.",
@@ -564,7 +568,8 @@ window.RECETAS_SEED.push({
     { n: "kétchup", q: 2, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Lamina los champiñones finos y pica la cebolla y el ajo.",
@@ -609,7 +614,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas.",
@@ -707,7 +713,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "macarrones", q: 140, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto", nota: "en grano" }
+    { n: "pimienta negra", u: "al gusto", nota: "en grano" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la soja texturizada en un bol, cúbrela con 300 ml del caldo caliente y déjala hidratar 15 minutos. Mientras, pica la cebolla y corta la zanahoria y el apionabo en dados pequeños.",
@@ -885,7 +892,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1.5, u: "cda" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo en un colador con agua caliente, frotándolo con los dedos, hasta que el agua salga clara: así pierde el amargor. Pela la patata y córtala en dados de 2 cm; corta la zanahoria en rodajas finas.",

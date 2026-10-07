@@ -116,7 +116,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal desde frío unos 15 minutos hasta que estén tiernas. En los últimos 5 minutos añade el bacalao a la misma cazuela para que se cueza con las patatas. Escurre todo bien.",
@@ -158,7 +159,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos regulares y cuécelas en agua con sal desde frío 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
@@ -238,7 +240,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga el arroz hasta que el agua salga clara y cuécelo tapado en 280 ml de agua con una pizca de sal: 12 minutos a fuego mínimo desde que hierva y 5 minutos de reposo sin destapar.",
@@ -271,7 +274,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 4, u: "diente" },
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "patata", q: 300, u: "g", nota: "para acompañar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal unos 20 minutos hasta que estén tiernas.",
@@ -354,7 +358,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa la coliflor en ramilletes y cuécela en agua con sal junto con el diente de ajo pelado 12-15 minutos, hasta que esté muy tierna. Mientras, templa la nata en un cazo, pica fino el cebollino y seca muy bien los lomos de lubina con papel de cocina; haz 3 cortes superficiales en la piel para que no se curven y salpimiéntalos por ambos lados.",
@@ -396,7 +401,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 40, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Ralla los calabacines, mézclalos con 1 cdta de sal y déjalos reposar 10 minutos en un colador. Envuélvelos en un paño limpio y escúrrelos con fuerza hasta sacar todo el líquido posible.",

@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "vinagre de vino", q: 1, u: "cdta", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas (las pardinas no necesitan remojo). Pica la cebolla, el pimiento y el ajo; corta la zanahoria en rodajas y ralla el tomate.",
@@ -73,7 +74,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 1, u: "rebanada" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre los garbanzos del remojo. Pon a hervir 1,5 litros de agua con el laurel y media cebolla; cuando hierva, echa los garbanzos (siempre en agua caliente) y cuece a fuego suave 1 h 45 min-2 h, tapado, hasta que estén tiernos. Si hace falta, añade agua caliente, nunca fría.",
@@ -115,7 +117,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre las alubias y ponlas en una cazuela con 1,2 litros de agua fría, el laurel, media cebolla, el puerro limpio en trozos grandes y 1 zanahoria entera. Lleva a ebullición y retira la espuma.",
@@ -190,7 +193,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra, en crudo" },
     { n: "vinagre de vino", q: 1, u: "cdta", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en trozos grandes; pela la cebolla y córtala en cuartos; pela la zanahoria y córtala en tres trozos. Quita las puntas a las judías y trocéalas.",
@@ -229,7 +233,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "pan", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los pimientos y la cebolla en tiras finas y lamina el ajo. Ralla los tomates desechando la piel.",
@@ -267,7 +272,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pan", q: 60, u: "g", nota: "del día anterior, para los picatostes" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el caldo a calentar en un cazo. Mientras, limpia el puerro y córtalo en rodajas; trocea el calabacín con piel y la patata pelada.",
@@ -308,7 +314,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 40, u: "g" },
     { n: "pan", q: 40, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos. Mientras, lava las espinacas y pica muy fino el ajo. Enfría los huevos en agua fría, pélalos y córtalos por la mitad.",
@@ -347,7 +354,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "queso rallado", q: 60, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los puerros quitando la parte verde dura y córtalos en trozos de 8 cm; lávalos bien por dentro. Pela la patata y córtala en rodajas de 1 cm.",
@@ -387,7 +395,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "pan", q: 60, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa la coliflor en ramilletes medianos y cuécelos en agua con sal 8 minutos, hasta que estén tiernos pero firmes. Escúrrelos muy bien y deja que se sequen y enfríen 10 minutos.",
@@ -423,7 +432,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la col en tiras quitando el tronco duro y pela y trocea las patatas.",
@@ -465,7 +475,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 300, u: "g" },
     { n: "huevo", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la lombarda en juliana fina, quitando el tronco. Ponla en una cazuela con agua hirviendo, sal, el laurel y 1 cucharada del vinagre (mantiene el color morado) y cuece 40 minutos a fuego medio, hasta que esté tierna. Escurre.",
@@ -549,7 +560,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "queso gruyère", q: 50, u: "g", nota: "rallado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Bate 100 g de harina con los huevos, 250 ml de leche, una pizca de sal y 10 g de mantequilla fundida hasta tener una masa lisa y fluida. Deja reposar 15 minutos.",
@@ -628,7 +640,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 60, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal 20 minutos, hasta que se deshagan al pincharlas. Escúrrelas.",
@@ -666,7 +679,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón picante", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "huevo", q: 4, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, cáscalas en trozos y cuécelas en agua con sal y el laurel 20-25 minutos, hasta que estén muy tiernas. Mientras, pela los ajos y lamínalos. Escurre las patatas reservando un vaso del agua de cocción.",
@@ -706,7 +720,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 12 minutos (deben quedar a medio hacer, aún firmes). Escúrrelas y déjalas enfriar por completo, mejor en la nevera. Mientras, ralla la cebolla.",
@@ -745,7 +760,8 @@ window.RECETAS_SEED.push({
     { n: "pimientos del piquillo", q: 3, u: "ud" },
     { n: "aceitunas verdes", q: 12, u: "ud", nota: "sin hueso" },
     { n: "vinagre de vino", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y cuécelas enteras con piel en agua con sal, junto con las zanahorias peladas, 25 minutos, hasta que un cuchillo las atraviese sin esfuerzo. Añade los huevos los últimos 10 minutos y los guisantes los últimos 3.",
@@ -864,7 +880,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "patata", q: 400, u: "g" },
     { n: "aceite de oliva", q: 250, u: "ml", nota: "para freír; se recupera" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos. Mientras, pica la cebolla, el pimiento y el ajo. Enfría los huevos en agua fría y pélalos.",
@@ -989,7 +1006,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 40, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las pasas en remojo en agua templada. Cuece las placas de canelón en abundante agua con sal el tiempo del paquete, escúrrelas y extiéndelas sobre un paño limpio.",

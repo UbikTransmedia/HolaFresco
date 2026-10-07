@@ -73,7 +73,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de calabaza", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla la calabaza, la zanahoria y la cebolla con el aceite, la cúrcuma, sal y pimienta.",
@@ -160,7 +161,8 @@ window.RECETAS_SEED.push({
     { n: "avellanas", q: 5, u: "g", nota: "tostadas" },
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la ñora en remojo en agua caliente 15 minutos. Mientras, asa los tomates enteros y los ajos con piel en la airfryer a 200 °C 12 minutos, hasta que la piel se agriete, y corta el calabacín y el pimiento en trozos de unos 3 cm.",
@@ -247,7 +249,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el ajo y el jengibre y mézclalos con 120 g de yogur, el garam masala, el pimentón, la cúrcuma, el zumo de media lima y sal. Haz unos cortes en el pollo y úntalo con la marinada; deja reposar al menos 20 minutos (o toda la noche en la nevera).",
@@ -291,7 +294,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el chile. Mezcla en un bol la cebolla, las espinacas y la patata rallada y escurrida con el comino, la cúrcuma, la mitad del chile y sal. Deja 5 minutos para que suelten algo de agua.",
@@ -334,7 +338,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el tamari, el sirope, 1 cucharadita de pimentón y 1 cucharadita de aceite. Baña las tiras de tempeh y deja que absorban la marinada mientras haces el boniato.",
@@ -377,7 +382,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en 150 ml de agua con sal, tapada a fuego suave, 13 minutos. Deja que se enfríe destapada. Mientras se cuece, ralla la zanahoria y pica la cebolleta.",
@@ -421,7 +427,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en 180 ml de agua con sal, tapada a fuego suave, 13 minutos. Extiéndela en una fuente para que se enfríe.",
@@ -466,7 +473,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre la pechuga en dos filetes de grosor uniforme, úntalos con 1 cucharadita de aceite, el pimentón, sal y pimienta.",
@@ -509,7 +517,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 1, u: "puñado" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en 150 ml de agua con sal, tapada a fuego suave, 13 minutos.",
@@ -554,7 +563,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en la cazuela y, mientras, corta las patatas en dados y pica la salvia. Cuece 4 huevos en el agua hirviendo exactamente 6 minutos y pásalos a agua con hielo. Pélalos con cuidado: la yema debe quedar cremosa.",
@@ -729,7 +739,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos, hasta que esté tierno pero entero. Escúrrelo.",
@@ -815,7 +826,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lleva el caldo a ebullición, añade la polenta en forma de lluvia batiendo con varillas y cuece 5 minutos a fuego suave, removiendo, hasta que se despegue de las paredes. Mezcla la mitad del parmesano.",
@@ -860,7 +872,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "cacahuetes", q: 25, u: "g", nota: "tostados, troceados" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "aceite de sésamo", q: 1.5, u: "cda" }
+    { n: "aceite de sésamo", q: 1.5, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla los dados de tofu con 1 cucharada de tamari y luego rebózalos en la maicena hasta que queden secos al tacto.",
@@ -987,7 +1000,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "canónigos", q: 1, u: "puñado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Haz cortes en rombo en la grasa del magret sin llegar a la carne. Salpimiéntalo y déjalo atemperar 15 minutos.",
@@ -1031,7 +1045,8 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "vinagre de arroz", q: 2, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "azúcar", q: 1, u: "pizca" },
   ],
   pasos: [
     "Cuece el arroz jazmín lavado con 225 ml de agua y sal: hierve, tapa y deja 12 minutos a fuego mínimo y 5 de reposo.",
@@ -1077,7 +1092,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla las patatas con la mitad del aceite y sal y cocínalas en la airfryer a 190 °C 12 minutos, agitando a mitad. Mientras, cuece el huevo 10 minutos en agua hirviendo, enfríalo y pélalo; quita la parte dura a los espárragos y pica el eneldo.",

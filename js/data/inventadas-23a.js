@@ -107,7 +107,8 @@ window.RECETAS_SEED.push({
     { n: "mayonesa", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el lomo de la nevera 30 minutos antes para que no esté frío por dentro. Precalienta el horno a 200 °C con calor arriba y abajo.",
@@ -194,7 +195,8 @@ window.RECETAS_SEED.push({
     { n: "tomate frito", q: 200, u: "g" },
     { n: "aceite de oliva", u: "al gusto", nota: "para freír" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal en una cazuela para el arroz. Mientras, remoja el pan en la leche 5 minutos y desmenúzalo con un tenedor.",
@@ -313,7 +315,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 350, u: "g" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "aceite de oliva", u: "al gusto", nota: "para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en bastones y lávalas en agua fría para quitar el almidón. Sécalas bien.",
@@ -401,7 +404,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C. Con un cuchillo largo y fino, haz 5 o 6 cortes profundos en el redondo a lo largo e introduce en ellos las tiras de jamón y unos bastones de una zanahoria. Ata la pieza con hilo de cocina para que no pierda la forma y salpimiéntala. Corta la cebolla en trozos grandes y la otra zanahoria en rodajas, y pela los ajos.",
@@ -570,7 +574,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "patata", q: 400, u: "g" },
     { n: "aceite de oliva", u: "al gusto", nota: "4 cucharadas para el adobo y el resto para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el adobo: machaca los ajos con una pizca de sal en el mortero y mezcla con los dos pimentones, el orégano, el vinagre, 4 cucharadas de aceite y 2 de agua.",
@@ -724,7 +729,8 @@ window.RECETAS_SEED.push({
     { n: "romero fresco", q: 1, u: "rama" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Lava las manzanas, quítales el corazón con un descorazonador o un cuchillo y haz un corte superficial alrededor de la piel para que no revienten.",
@@ -807,7 +813,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 80, u: "g" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "aceite de oliva", u: "al gusto", nota: "para freír y aliñar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si el pollo está crudo, cuécelo 15 minutos en agua con sal; escúrrelo y pícalo muy fino a cuchillo junto con el jamón. Pica muy fina la cebolla y calienta la leche.",
@@ -849,7 +856,8 @@ window.RECETAS_SEED.push({
     { n: "canela en rama", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Pon las ciruelas en remojo en el vino mientras preparas lo demás.",
@@ -972,7 +980,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los champiñones con un papel húmedo (sin mojarlos) y córtalos en láminas o en cuartos. Lamina los ajos y pica el perejil.",

@@ -33,7 +33,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla, los ajos y el perejil y corta los champiñones en dados pequeños. Sofríe la mitad de la cebolla y 1 ajo en 1 cucharada de aceite a fuego medio 4 minutos; añade los champiñones y cocina 8 minutos a fuego fuerte, hasta que hayan soltado el agua y estén dorados. Deja templar.",
@@ -122,12 +123,13 @@ window.RECETAS_SEED.push({
     { n: "cayena", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la cebolla, la zanahoria y el apio (soffritto) y pica los ajos. Sofríe la cebolla, la zanahoria y el apio en la cazuela con 2 cucharadas de aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y dulces, sin que tomen color.",
     "Añade los ajos picados, la rama de romero entera, la cayena y el tomate concentrado; sofríe 1 minuto. Agrega el tomate triturado y cocina 4 minutos, hasta que espese.",
-    "Tritura la mitad de las alubias con 200 ml de caldo y añádelas a la cazuela junto con las alubias enteras y el resto del caldo. Lleva a ebullición y cuece 10 minutos a fuego suave.",
+    "Tritura la mitad de las alubias con 200 ml de caldo y añádelas a la cazuela junto con las alubias enteras y el resto del caldo. Lleva a ebullición y cuece 10 minutos a fuego suave. Mientras, ralla el parmesano.",
     "Añade la pasta directamente a la sopa, salpimienta y cuece el tiempo del paquete menos 1 minuto, removiendo con frecuencia para que no se pegue al fondo: la pasta suelta almidón y la sopa se vuelve cremosa. Si queda demasiado espesa, añade agua caliente.",
     "Retira la rama de romero, apaga el fuego y deja reposar 3 minutos: la pasta terminará de hacerse en el calor residual.",
     "Sirve en platos hondos con el parmesano rallado, pimienta negra recién molida y la cucharada de aceite restante en hilo por encima."
@@ -167,14 +169,15 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "semillas de calabaza", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las zanahorias en bastones de 1 cm y mézclalas con los garbanzos, la harissa, el comino, 1,5 cucharadas de aceite y sal. Extiende en una bandeja en una sola capa y asa 25 minutos, removiendo a mitad, hasta que los garbanzos estén crujientes y las zanahorias tiernas con bordes tostados.",
     "Mientras, enjuaga la quinoa y cuécela en 240 ml de agua con sal, tapada, 12 minutos a fuego mínimo; déjala reposar tapada 5 minutos y suéltala con un tenedor.",
     "Corta la cebolla morada en plumas muy finas y mézclala con el vinagre y una pizca de sal; déjala encurtir 15 minutos mientras se hace lo demás.",
-    "Prepara la salsa de tahini: bate el tahini con el zumo de medio limón, el ajo rallado, una pizca de sal y agua fría a cucharadas (unas 4) hasta tener una salsa lisa y fluida. Al principio se espesa; sigue añadiendo agua.",
-    "Corta el pepino en medias lunas finas. Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que empiecen a saltar.",
+    "Prepara la salsa de tahini: ralla el ajo y bate el tahini con el zumo de medio limón, el ajo, una pizca de sal y agua fría a cucharadas (unas 4) hasta tener una salsa lisa y fluida. Al principio se espesa; sigue añadiendo agua.",
+    "Corta el pepino en medias lunas finas y pica la menta. Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que empiecen a saltar.",
     "Monta los bowls: base de quinoa, encima los garbanzos y zanahorias calientes, el pepino, la cebolla encurtida escurrida, y riega generosamente con la salsa de tahini. Termina con la menta picada, las semillas, el resto del aceite y gajos del medio limón restante."
   ],
   nutricion: { kcal: 630, prot: 24, hc: 80, grasa: 24 },
@@ -216,15 +219,16 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la marinada jerk: tritura o machaca 1 cebolleta, el chile sin semillas, 2 ajos, el jengibre, la pimienta de Jamaica, la canela, la nuez moscada, el azúcar, la soja, el zumo de 1 lima, las hojas de 1 rama de tomillo, sal y pimienta. Embadurna el pollo y déjalo 15 minutos (o toda la noche en la nevera).",
-    "Precalienta el horno a 200 °C. Lava el arroz hasta que el agua salga clara.",
-    "En la cazuela, calienta el aceite y sofríe la otra cebolleta picada y el ajo restante 2 minutos. Añade el arroz y remueve 1 minuto para que se impregne.",
+    "Mientras se marina, precalienta el horno a 200 °C, lava el arroz hasta que el agua salga clara y pica la otra cebolleta y el ajo restante.",
+    "Coloca el pollo con la marinada en una bandeja pequeña y hornea 25 minutos, dándole la vuelta a mitad, hasta que esté dorado con puntas tostadas y los jugos salgan claros al pinchar. Si tienes grill, 2 minutos al final.",
+    "Mientras se hornea, calienta el aceite en la cazuela y sofríe la cebolleta picada y el ajo 2 minutos. Añade el arroz y remueve 1 minuto para que se impregne.",
     "Agrega las alubias, la leche de coco, 200 ml de agua, el laurel, las 2 ramas de tomillo restantes, sal y pimienta. Lleva a ebullición, baja al mínimo, tapa y cuece 12 minutos sin destapar. Apaga y deja reposar tapado 10 minutos: el arroz quedará suelto y perfumado.",
-    "Mientras, coloca el pollo con la marinada en una bandeja pequeña y hornea 25 minutos, dándole la vuelta a mitad, hasta que esté dorado con puntas tostadas y los jugos salgan claros al pinchar. Si tienes grill, 2 minutos al final.",
-    "Retira el laurel y el tomillo del arroz, suéltalo con un tenedor y sírvelo con el pollo troceado por encima, los jugos de la bandeja y gajos de la otra lima."
+    "Retira el laurel y el tomillo del arroz, suéltalo con un tenedor, trocea el pollo y sírvelo por encima del arroz con los jugos de la bandeja y gajos de la otra lima."
   ],
   nutricion: { kcal: 740, prot: 45, hc: 85, grasa: 25 },
   etiquetas: ["picante", "para invitados", "alta en proteína", "batch cooking", "sin verduras"],
@@ -260,10 +264,11 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "chile fresco", q: 0.5, u: "ud", opcional: true }
+    { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon el caldo en la cazuela con el jengibre en láminas y el ajo machacado y llévalo a ebullición suave; en otra cazuela, pon a hervir abundante agua para los fideos. Mientras, corta el tofu en dados de 2 cm, lamina los champiñones, separa las hojas del pak choi y corta la cebolleta en aros finos.",
+    "Pon el caldo en la cazuela con el jengibre en láminas y el ajo machacado y llévalo a ebullición suave; en otra cazuela, pon a hervir abundante agua para los fideos. Mientras, corta el tofu en dados de 2 cm, lamina los champiñones, separa las hojas del pak choi, corta la cebolleta en aros finos y, si lo usas, el chile en aros.",
     "Cuece los fideos soba en otra cazuela con abundante agua hirviendo el tiempo del paquete (unos 4-5 minutos), escúrrelos y enjuágalos bajo el grifo frío para quitarles el almidón. Repártelos en dos cuencos grandes.",
     "Añade al caldo los champiñones y el edamame y cuece 3 minutos. Agrega el tofu y los tallos del pak choi y cuece 2 minutos más; en el último minuto, las hojas.",
     "Retira la cazuela del fuego y espera 1 minuto. Disuelve el miso en un cucharón de caldo caliente en un bol pequeño y devuélvelo a la cazuela: el miso no debe hervir o pierde aroma y probióticos. Añade la soja y prueba: debe quedar sabroso pero no salado.",
@@ -308,13 +313,14 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 4, u: "hoja" },
     { n: "yogur griego natural", q: 60, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pela el boniato, córtalo en dados de 2 cm y mézclalo con 1 cucharada de aceite, el pimentón, sal y la mitad del comino. Asa 25 minutos, hasta que esté tierno y con bordes caramelizados.",
-    "Lava el arroz y cuécelo en 200 ml de agua con sal, tapado, 11 minutos a fuego mínimo; déjalo reposar tapado 5 minutos y mézclalo con el zumo de media lima y la mitad del cilantro picado.",
+    "Mientras se asa, pica el cilantro. Lava el arroz y cuécelo en 200 ml de agua con sal, tapado, 11 minutos a fuego mínimo; déjalo reposar tapado 5 minutos y mézclalo con el zumo de media lima y la mitad del cilantro picado.",
     "Pica la cebolla y los ajos y sofríelos en una sartén con la otra cucharada de aceite 6 minutos. Añade el resto del comino, el chipotle y las alubias con 3 cucharadas de su líquido; cocina 5 minutos aplastando una parte, hasta que queden espesas y cremosas. Sala.",
-    "Prepara el guacamole: machaca el aguacate con el zumo de media lima, el tomate en dados pequeños, el resto del cilantro y sal. Corta la lechuga en tiras finas.",
+    "Prepara el guacamole: corta el tomate en dados pequeños y machaca el aguacate con el zumo de media lima, el tomate, el resto del cilantro y sal. Corta la lechuga en tiras finas.",
     "Calienta las tortillas 20 segundos por lado en una sartén seca para que se vuelvan flexibles. En el centro de cada una pon, en el tercio inferior: arroz, alubias, boniato, queso, lechuga, una cucharada de yogur y guacamole. No lo llenes demasiado.",
     "Dobla los laterales hacia dentro y enrolla desde abajo apretando bien. Tuesta los burritos con la junta hacia abajo en la sartén seca a fuego medio 2 minutos por lado, hasta que estén dorados y el queso se funda.",
     "Córtalos por la mitad en diagonal y sirve con el guacamole sobrante y gajos de lima."
@@ -355,14 +361,15 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica en dados pequeños la cebolla, las zanahorias y el apio; pica los ajos. Dora el bacon en la cazuela seca a fuego medio 4 minutos, hasta que esté crujiente y haya soltado la grasa.",
     "Añade el aceite y las salchichas y dóralas 5 minutos por todos los lados; sácalas y resérvalas (por dentro aún estarán crudas).",
     "En la misma grasa, sofríe la cebolla, la zanahoria y el apio con una pizca de sal 8 minutos, hasta que estén blandos. Añade el ajo y sofríe 1 minuto.",
     "Vierte el vino y deja que reduzca a la mitad raspando el fondo. Añade las lentejas enjuagadas, el caldo, el laurel y el tomillo. Lleva a ebullición y baja a fuego suave.",
-    "Cuece semitapado 15 minutos; añade entonces las salchichas enteras hundidas en las lentejas y cuece 15 minutos más, hasta que las lentejas estén tiernas pero enteras y las salchichas hechas. Deben quedar jugosas, no secas ni sopa: ajusta con agua caliente.",
+    "Cuece semitapado 15 minutos; añade entonces las salchichas enteras hundidas en las lentejas y cuece 15 minutos más, hasta que las lentejas estén tiernas pero enteras y las salchichas hechas. Deben quedar jugosas, no secas ni sopa: ajusta con agua caliente. Mientras, pica el perejil.",
     "Retira el laurel y las ramas de tomillo, incorpora la mostaza antigua y salpimienta (cuidado: bacon y salchichas ya salan). Deja reposar 5 minutos.",
     "Sirve las lentejas con las salchichas enteras o en rodajas gruesas encima y el perejil picado."
   ],
@@ -406,7 +413,7 @@ window.RECETAS_SEED.push({
     "Tuesta los garbanzos en una sartén con 1 cucharadita de aceite a fuego medio-alto 8 minutos, moviéndolos de vez en cuando, hasta que estén dorados y algo crujientes. En el último minuto añade el pimentón, el comino y sal y remueve. Aparta.",
     "Tuesta las almendras en la misma sartén limpia 2 minutos, hasta que huelan. Reserva.",
     "Pela las naranjas a lo vivo con un cuchillo, quitando toda la parte blanca, y córtalas en rodajas o gajos sobre un bol para recoger el zumo que suelten.",
-    "Corta el hinojo por la mitad, retira el corazón duro y lamínalo lo más fino que puedas (con mandolina si tienes). Reserva las hojitas verdes. Corta la cebolla morada en plumas muy finas.",
+    "Corta el hinojo por la mitad, retira el corazón duro y lamínalo lo más fino que puedas (con mandolina si tienes). Reserva las hojitas verdes. Corta la cebolla morada en plumas muy finas y pica la menta.",
     "Prepara el aliño con el zumo recogido de la naranja, el vinagre, el aceite restante, sal y pimienta.",
     "Mezcla en una fuente los canónigos, el hinojo, la cebolla, la naranja y las aceitunas con el aliño. Reparte los garbanzos tibios por encima, las almendras, la menta picada y las hojitas de hinojo."
   ],
@@ -443,12 +450,13 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para el agua de pochar" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las cebolletas en aros finos (blanco y verde separados) y pica el ajo. Pon a calentar una cazuela con agua para pochar los huevos.",
     "Calienta el aceite en una sartén a fuego medio y sofríe el blanco de la cebolleta y el ajo 4 minutos, hasta que estén transparentes. Añade el jamón y saltea 1 minuto, lo justo para que suelte aroma sin endurecerse.",
-    "Vierte el vino, deja que evapore 1 minuto y añade los guisantes congelados directamente y el caldo. Tapa y estofa a fuego medio 6-7 minutos, hasta que los guisantes estén tiernos y de un verde intenso y el caldo se haya reducido a un fondo brillante. Salpimienta con cuidado (el jamón sala). Mientras se estofan, tuesta el pan y colócalo en el fondo de cada plato hondo.",
+    "Vierte el vino, deja que evapore 1 minuto y añade los guisantes congelados directamente y el caldo. Tapa y estofa a fuego medio 6-7 minutos, hasta que los guisantes estén tiernos y de un verde intenso y el caldo se haya reducido a un fondo brillante. Salpimienta con cuidado (el jamón sala). Mientras se estofan, tuesta el pan, colócalo en el fondo de cada plato hondo y pica la hierbabuena.",
     "Cuando el agua de la cazuela hierva suavemente, añade el vinagre, baja el fuego para que apenas burbujee, remueve para crear un remolino y echa un huevo cascado en un vasito en el centro. Cuécelo 3 minutos, sácalo con una espumadera y repite con el otro.",
     "Reparte los guisantes con su jugo sobre el pan, corona con el huevo poché, el verde de la cebolleta, la hierbabuena picada y pimienta negra. Rompe la yema al comer: es la salsa."
   ],
@@ -490,13 +498,14 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 4, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela el boniato, córtalo en dados y cuécelo al vapor o en agua hirviendo 10 minutos, hasta que esté muy tierno. Escúrrelo bien y deja que pierda el vapor 5 minutos (si está húmedo, la masa no compacta).",
+    "Pela el boniato, córtalo en dados y cuécelo al vapor o en agua hirviendo 10 minutos, hasta que esté muy tierno. Mientras, pica fina la cebolleta y el cilantro y ralla el ajo y la piel de la lima. Escurre bien el boniato y deja que pierda el vapor 5 minutos (si está húmedo, la masa no compacta).",
     "Aplasta los garbanzos con un tenedor o un machacador en un bol grande, dejando trozos. Añade el boniato aplastado, la cebolleta picada fina, el ajo rallado, el curry, el comino, la harina de garbanzo, el cilantro picado, la ralladura de la lima, sal y pimienta. Mezcla hasta que la masa se pegue al apretarla.",
     "Forma 4 hamburguesas ovaladas de 1,5 cm de grosor (así caben en la pita) y déjalas 10 minutos en la nevera.",
-    "Prepara la salsa: mezcla el yogur con la menta picada, el zumo de media lima, una pizca de sal y pimienta. Corta el pepino en bastones, el tomate en rodajas y la lechuga en tiras.",
+    "Mientras reposan, prepara la salsa: pica la menta y mézclala con el yogur, el zumo de media lima, una pizca de sal y pimienta. Corta el pepino en bastones, el tomate en rodajas y la lechuga en tiras.",
     "Calienta el aceite en una sartén antiadherente a fuego medio y cocina las hamburguesas 4 minutos por lado sin tocarlas hasta que estén doradas y con costra. Gíralas con una espátula ancha.",
     "Calienta las pitas 1 minuto por lado en una sartén seca, córtalas por la mitad y abre los bolsillos. Unta el interior con yogur a la menta, mete lechuga, una hamburguesa, tomate y pepino en cada mitad y termina con más salsa y unas gotas de la lima restante."
   ],
@@ -535,14 +544,15 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría (12 horas). Adoba también la costilla la víspera (o al menos 1 hora antes): mézclala con 2 ajos machacados, el pimentón, el orégano, el vinagre, sal y pimienta y guárdala tapada en la nevera.",
     "Pon las alubias escurridas en la cazuela con agua fría que las cubra 3 dedos, el laurel, la zanahoria entera y media cebolla. Lleva a ebullición, espuma, baja a fuego mínimo y cuece tapado 1 h 30 min, asustándolas con medio vaso de agua fría dos veces para que la piel no se rompa.",
     "Mientras, dora la costilla escurrida del adobo en una sartén con 1 cucharada de aceite a fuego fuerte 6 minutos, por todas sus caras. Añádela a la cazuela de las alubias cuando lleven 30 minutos de cocción.",
-    "En la misma sartén, con la otra cucharada de aceite, sofríe a fuego medio-bajo la otra media cebolla, el pimiento verde y los 2 ajos restantes picados finos 12 minutos, hasta que estén muy blandos. Añade la carne de pimiento choricero y cocina 2 minutos más.",
-    "Cuando las alubias lleven 1 h 30 min (deben estar tiernas pero enteras), saca la zanahoria y la media cebolla (trocea la zanahoria y devuélvela), añade el sofrito y las patatas peladas y cascadas en trozos irregulares (rómpelas con el cuchillo, no las cortes: sueltan almidón y espesan). Sala.",
+    "Pica finos la otra media cebolla, el pimiento verde y los 2 ajos restantes y sofríelos en la misma sartén, con la otra cucharada de aceite, a fuego medio-bajo 12 minutos, hasta que estén muy blandos. Añade la carne de pimiento choricero y cocina 2 minutos más. Mientras terminan las alubias, pela las patatas y cáscalas en trozos irregulares (rómpelas con el cuchillo, no las cortes: sueltan almidón y espesan).",
+    "Cuando las alubias lleven 1 h 30 min (deben estar tiernas pero enteras), saca la zanahoria y la media cebolla (trocea la zanahoria y devuélvela), añade el sofrito y las patatas cascadas. Sala.",
     "Cuece 30 minutos más a fuego suave, meneando la cazuela de vez en cuando sin remover, hasta que la patata esté tierna, la costilla se separe del hueso y el caldo esté espeso y rojo. Rectifica de sal y pimienta y deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 920, prot: 50, hc: 85, grasa: 42 },
@@ -586,10 +596,11 @@ window.RECETAS_SEED.push({
     { n: "dátiles", q: 4, u: "ud", opcional: true, nota: "para acompañar, como en Ramadán" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica la cebolla, corta el apio en dados pequeños (hojas incluidas) y ralla el ajo y el jengibre. Salpimienta el cordero y dóralo en la cazuela con el aceite a fuego fuerte 5 minutos, en dos tandas para que no suelte agua. Resérvalo.",
+    "Pica la cebolla, el cilantro y el perejil, corta el apio en dados pequeños (hojas incluidas) y ralla el ajo y el jengibre. Salpimienta el cordero y dóralo en la cazuela con el aceite a fuego fuerte 5 minutos, en dos tandas para que no suelte agua. Resérvalo.",
     "Baja a fuego medio y sofríe la cebolla, el apio, el ajo y el jengibre 8 minutos, hasta que estén blandos. Añade la cúrcuma, la canela y el pimentón y remueve 30 segundos.",
     "Devuelve el cordero, añade el tomate triturado, el concentrado, las lentejas enjuagadas, la mitad del cilantro y el perejil picados y 1,2 litros de agua caliente. Lleva a ebullición y cuece a fuego suave, semitapado, 1 hora, hasta que el cordero esté tierno y las lentejas hechas.",
     "Añade los garbanzos y sala. Disuelve la harina en 100 ml de agua fría sin grumos y viértela en hilo removiendo: es el tadouira que da a la harira su textura aterciopelada. Cuece 10 minutos removiendo de vez en cuando.",
@@ -634,11 +645,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Forra un molde rectangular pequeño (unos 20 x 15 cm) con papel de horno untado de aceite. Bate en frío la harina de garbanzo con el agua, 1 cucharada de aceite, 1 cucharadita de sal y pimienta hasta que no haya grumos.",
-    "Vierte la mezcla en una cazuela con las hojas de romero picadas y cuece a fuego medio removiendo sin parar con varillas 8-10 minutos: primero espesa de golpe y luego se vuelve una masa densa y brillante que se despega de las paredes, como una polenta muy espesa.",
+    "Forra un molde rectangular pequeño (unos 20 x 15 cm) con papel de horno untado de aceite y pica las hojas de romero. Bate en frío la harina de garbanzo con el agua, 1 cucharada de aceite, 1 cucharadita de sal y pimienta hasta que no haya grumos.",
+    "Vierte la mezcla en una cazuela con el romero picado y cuece a fuego medio removiendo sin parar con varillas 8-10 minutos: primero espesa de golpe y luego se vuelve una masa densa y brillante que se despega de las paredes, como una polenta muy espesa.",
     "Vuelca la masa en el molde, alísala con una espátula mojada hasta un grosor de 1,5 cm y deja que cuaje 1 hora en la nevera (o 30 minutos si vas con prisa), hasta que esté firme al tacto. Unos 15 minutos antes de que termine, precalienta el horno a 220 °C.",
     "Desmolda la masa, córtala en bastones de 1,5 x 7 cm, píntalos con 2 cucharadas de aceite por todos los lados y colócalos separados en una bandeja. Hornea 25-30 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes por fuera y cremosos por dentro.",
-    "Mientras, prepara el alioli rápido: mezcla la mayonesa con el ajo rallado, el zumo de medio limón y ralladura. Corta los tomates en gajos y la cebolla morada en plumas finas y alíñalos con el balsámico, la cucharada de aceite restante, sal y pimienta.",
+    "Mientras, prepara el alioli rápido: ralla el ajo y mézclalo con la mayonesa, el zumo de medio limón y ralladura. Corta los tomates en gajos y la cebolla morada en plumas finas y alíñalos con el balsámico, la cucharada de aceite restante, sal y pimienta. Saca lascas del parmesano con un pelador.",
     "Sirve los bastones de panisse calientes con sal en escamas, el alioli de limón para mojar, la ensalada de tomate con la rúcula y el parmesano en lascas por encima."
   ],
   nutricion: { kcal: 600, prot: 20, hc: 50, grasa: 35 },
@@ -672,11 +683,12 @@ window.RECETAS_SEED.push({
     { n: "cayena", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las habas congeladas en agua hirviendo con sal 3 minutos, escúrrelas y pásalas por agua fría. Si no son baby, pélalas pellizcando la piel: quedan de un verde brillante y mucho más tiernas.",
-    "Mezcla la ricotta con la ralladura de medio limón, una pizca de sal y pimienta hasta que quede cremosa.",
+    "Pon a hervir agua con sal y, mientras, lamina el ajo, pica la menta y pica gruesos los pistachos. Cuece las habas congeladas 3 minutos, escúrrelas y pásalas por agua fría. Si no son baby, pélalas pellizcando la piel: quedan de un verde brillante y mucho más tiernas.",
+    "Ralla la piel de medio limón y mézclala con la ricotta, una pizca de sal y pimienta hasta que quede cremosa.",
     "Calienta 1 cucharada de aceite en una sartén a fuego medio con el ajo laminado 1 minuto, hasta que empiece a dorarse. Añade las habas y la cayena y saltea 2 minutos. Fuera del fuego, aplasta la mitad con el tenedor y añade el zumo de medio limón, sal y la mitad de la menta picada.",
     "Tuesta el pan hasta que esté dorado y crujiente. Frótalo ligeramente con el ajo de la sartén si te gusta.",
     "Unta cada rebanada con una capa gruesa de ricotta y reparte las habas encima.",
@@ -721,12 +733,13 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 150, u: "ml", nota: "para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el chutney: tritura la mitad del cilantro con la menta, el zumo de media lima y 2 cucharadas de agua hasta tener una pasta; mézclala con el yogur y una pizca de sal. Reserva en frío.",
     "Prepara el kachumber: corta el pepino, el tomate y la cebolla morada en dados pequeños, alíñalos con el zumo de la otra media lima, sal y unas hojas de cilantro. Reserva.",
-    "Corta las cebollas en plumas finas, la patata pelada en bastones muy finos (o rállala gruesa) y las espinacas en tiras. Ponlo todo en un bol grande con el chile picado, el jengibre rallado, el comino, la cúrcuma, el cilantro molido, el garam masala, el resto del cilantro picado y 1 cucharadita de sal. Mezcla con las manos apretando 1 minuto para que la cebolla suelte agua.",
+    "Pica el chile y el resto del cilantro y ralla el jengibre. Corta las cebollas en plumas finas, la patata pelada en bastones muy finos (o rállala gruesa) y las espinacas en tiras. Ponlo todo en un bol grande con el chile, el jengibre, el comino, la cúrcuma, el cilantro molido, el garam masala, el cilantro picado y 1 cucharadita de sal. Mezcla con las manos apretando 1 minuto para que la cebolla suelte agua.",
     "Añade la harina de garbanzo y mezcla; después agrega agua a cucharadas (unas 4-6) hasta que la masa envuelva las verduras y quede espesa, pegajosa, no líquida: debe sostenerse en la cuchara.",
     "Calienta el aceite en una sartén honda a fuego medio-alto hasta que una gota de masa suba burbujeando de inmediato (unos 175 °C). Fríe cucharadas de masa del tamaño de una nuez grande, 6-7 por tanda sin amontonar, 3-4 minutos por lado, hasta que estén doradas oscuras y crujientes. Sácalas a papel absorbente y sala.",
     "Sirve las pakoras calientes con el chutney de yogur y menta para mojar y el kachumber al lado."
@@ -766,15 +779,16 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con grill si lo tiene. Pica la cebolla y los ajos y sofríelos en una sartén apta para horno (o pásalo luego a una fuente) con el aceite a fuego medio 6 minutos, hasta que estén dorados.",
-    "Añade el tomate triturado, el orégano, la cayena, sal y pimienta y cocina 8 minutos a fuego medio, hasta que la salsa espese y pierda acidez.",
+    "Añade el tomate triturado, el orégano, la cayena, sal y pimienta y cocina 8 minutos a fuego medio, hasta que la salsa espese y pierda acidez. Mientras, trocea la albahaca y ralla el parmesano.",
     "Incorpora las espinacas en dos tandas y remueve hasta que se rindan (2 minutos). Añade las alubias escurridas y la mitad de la albahaca troceada; mezcla con cuidado y cocina 3 minutos para que las alubias se calienten y tomen el sabor. Si la mezcla está muy seca, añade 3 cucharadas de agua.",
     "Escurre y seca la mozzarella y rómpela en trozos. Repártela por encima de las alubias y espolvorea el parmesano rallado mezclado con el pan rallado.",
-    "Hornea 12-15 minutos en la parte alta, hasta que el queso se funda y burbujee y la costra esté dorada. Si se dora demasiado pronto, baja la bandeja al centro.",
-    "Tuesta el pan. Deja reposar el gratinado 5 minutos, reparte el resto de la albahaca por encima y sirve con el pan para rebañar."
+    "Hornea 12-15 minutos en la parte alta, hasta que el queso se funda y burbujee y la costra esté dorada. Si se dora demasiado pronto, baja la bandeja al centro. Mientras, tuesta el pan.",
+    "Deja reposar el gratinado 5 minutos, reparte el resto de la albahaca por encima y sirve con el pan para rebañar."
   ],
   nutricion: { kcal: 580, prot: 34, hc: 62, grasa: 22 },
   etiquetas: ["al horno", "para niños", "batch cooking", "invierno", "una sola sartén"],
@@ -900,14 +914,15 @@ window.RECETAS_SEED.push({
     { n: "yogur griego natural", q: 60, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría (12 horas). Escúrrelas y ponlas en la cazuela con 1 litro de agua, el laurel y medio pimiento verde entero. Lleva a ebullición, espuma y cuece a fuego muy suave, tapado, 1 h a 1 h 15 min, hasta que estén tiernas (sin sal todavía).",
     "Cuando lleven 45 minutos, prepara el sofrito: pica fina la cebolla, el otro medio pimiento y los ajos y póchalos en una sartén con el aceite a fuego medio-bajo 12 minutos, hasta que estén muy blandos y dulces. Añade el comino y el orégano frotado y fríe 1 minuto.",
     "Saca el medio pimiento entero de la cazuela y añade el sofrito. Toma un cucharón de alubias con caldo, tritúralo o aplástalo con el tenedor y devuélvelo: espesará la sopa de forma natural. Sala, añade pimienta, el azúcar y el vinagre.",
     "Cuece destapado 20 minutos más a fuego suave, removiendo de vez en cuando, hasta que el caldo esté espeso, oscuro y brillante. Ajusta el punto: tiene que notarse el comino y un fondo agridulce apenas perceptible.",
-    "Mientras, lava el arroz y cuécelo en 160 ml de agua con sal, tapado, 11 minutos a fuego mínimo; déjalo reposar tapado 5 minutos.",
+    "Mientras, lava el arroz y cuécelo en 160 ml de agua con sal, tapado, 11 minutos a fuego mínimo; déjalo reposar tapado 5 minutos. Pica el cilantro y corta la lima en gajos.",
     "Sirve la sopa en cuencos con una cucharada de arroz en el centro (o al lado, a la cubana), una cucharada de yogur, cilantro picado y gajos de lima para exprimir al momento."
   ],
   nutricion: { kcal: 570, prot: 27, hc: 88, grasa: 12 },
@@ -945,15 +960,16 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Limpia las setas con un paño y córtalas en cuartos (o en láminas gruesas si son champiñones grandes). Pica la cebolleta y los ajos.",
+    "Limpia las setas con un paño y córtalas en cuartos (o en láminas gruesas si son champiñones grandes). Pica la cebolleta, los ajos y el cebollino y ralla el parmesano.",
     "Calienta el aceite con la mantequilla en una sartén grande a fuego fuerte. Cuando la mantequilla deje de espumar, añade las setas en una sola capa y no las muevas 2 minutos; luego saltéalas 3 minutos más, hasta que estén doradas y hayan perdido el agua. Sala al final.",
     "Baja a fuego medio, añade la cebolleta, el ajo y las hojas de tomillo y sofríe 2 minutos. Vierte el vino y deja que evapore casi del todo raspando el fondo.",
-    "Añade las alubias escurridas y la nata, salpimienta y cuece a fuego suave 5 minutos, hasta que la salsa espese y envuelva las alubias. Aplasta unas cuantas con la cuchara para ligar. Si queda demasiado espesa, añade un chorrito de agua o del líquido de las alubias.",
+    "Añade las alubias escurridas y la nata, salpimienta y cuece a fuego suave 5 minutos, hasta que la salsa espese y envuelva las alubias. Aplasta unas cuantas con la cuchara para ligar. Si queda demasiado espesa, añade un chorrito de agua o del líquido de las alubias. Mientras, tuesta el pan hasta que esté dorado y colócalo en los platos.",
     "Fuera del fuego, incorpora la mitad del parmesano rallado y el aceite de trufa. Prueba y ajusta de sal.",
-    "Tuesta el pan hasta que esté dorado y colócalo en los platos. Vierte las alubias cremosas encima y termina con el resto del parmesano, el cebollino picado y pimienta negra recién molida."
+    "Vierte las alubias cremosas sobre el pan y termina con el resto del parmesano, el cebollino picado y pimienta negra recién molida."
   ],
   nutricion: { kcal: 560, prot: 24, hc: 56, grasa: 26 },
   etiquetas: ["rápida", "para invitados", "otoño", "una sola sartén", "poco especiada"],
@@ -990,13 +1006,14 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las almejas en agua fría con sal 1 hora antes para que suelten la arena. Pica fina la cebolla y los ajos y póchalos en la cazuela con el aceite a fuego medio-bajo 10 minutos, hasta que estén muy blandos y empiecen a dorarse.",
     "Añade el tomate rallado con una pizca de sal y cocina 8 minutos, hasta que pierda el agua y el sofrito se oscurezca. Fuera del fuego, añade el pimentón y remueve 15 segundos.",
     "Tuesta las hebras de azafrán 10 segundos en una cuchara sobre la llama o en una sartén seca y disuélvelas en el vino. Vierte sobre el sofrito, sube el fuego y reduce 2 minutos.",
-    "Incorpora los garbanzos escurridos, el caldo de pescado caliente y el laurel. Cuece a fuego suave 12 minutos para que los garbanzos tomen el sabor y el caldo engorde. Salpimienta con moderación (las almejas salan).",
+    "Incorpora los garbanzos escurridos, el caldo de pescado caliente y el laurel. Cuece a fuego suave 12 minutos para que los garbanzos tomen el sabor y el caldo engorde. Salpimienta con moderación (las almejas salan). Mientras, pica el perejil.",
     "Sala ligeramente el rape y húndelo en el guiso. Cuece 4 minutos a fuego suave sin remover.",
     "Añade las almejas escurridas, tapa y cuece 3-4 minutos, hasta que se abran (desecha las que sigan cerradas). Apaga, menea la cazuela y deja reposar 2 minutos.",
     "Retira el laurel y sirve en plato hondo con el perejil picado por encima y un hilo de aceite crudo."
@@ -1039,10 +1056,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el aliño en el fondo del bol grande: bate el zumo de 1 lima y media, el aceite, el comino, el pimentón ahumado, la mitad del cilantro picado, sal y pimienta.",
+    "Pica el cilantro y prepara el aliño en el fondo del bol grande: bate el zumo de 1 lima y media, el aceite, el comino, el pimentón ahumado, la mitad del cilantro picado, sal y pimienta.",
     "Corta el pimiento rojo en dados pequeños, la cebolla morada en plumas finas y los cherry por la mitad. Pica el chile sin semillas si lo usas.",
     "Añade al bol las alubias, el maíz escurrido, el pimiento, la cebolla, el chile y los cherry y mezcla bien. Déjalo reposar 5 minutos para que las alubias absorban el aliño.",
-    "Corta la lechuga en tiras de 1 cm y repártela en dos platos o cuencos como base.",
+    "Mientras reposa, corta la lechuga en tiras de 1 cm y repártela en dos platos o cuencos como base.",
     "Corta el aguacate en dados justo antes de servir y rocíalo con el zumo de la media lima restante.",
     "Vuelca la mezcla de alubias sobre la lechuga, reparte el aguacate por encima y termina con el resto del cilantro y pimienta."
   ],
@@ -1084,13 +1101,14 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para el agua de pochar" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla, el puerro y los ajos; corta la zanahoria en dados pequeños. Sofríelos en la cazuela con 1 cucharada de aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y la cebolla dorada.",
     "Añade el tomate rallado y cocina 4 minutos, hasta que espese. Fuera del fuego, incorpora el pimentón y remueve 15 segundos. Vuelve al fuego, vierte el vino tinto y reduce 1 minuto.",
     "Agrega las lentejas enjuagadas, el laurel y el caldo caliente. Lleva a ebullición y cuece a fuego suave, semitapado, 30-35 minutos, hasta que estén tiernas pero enteras. Sala a mitad de cocción con cuidado: el jamón aportará sal.",
-    "Mientras, lamina las setas y saltéalas en una sartén con la otra cucharada de aceite a fuego fuerte 5 minutos, hasta que estén doradas. Añade la mitad del jamón en tiras y saltea 30 segundos. Incorpora todo a las lentejas en los últimos 5 minutos.",
+    "Mientras, lamina las setas, corta el jamón en tiras y pica el perejil. Saltea las setas en una sartén con la otra cucharada de aceite a fuego fuerte 5 minutos, hasta que estén doradas. Añade la mitad del jamón y saltea 30 segundos. Incorpora todo a las lentejas en los últimos 5 minutos. Pon a calentar agua en una cazuela para pochar los huevos.",
     "Pocha los huevos: en una cazuela con agua apenas hirviendo y el vinagre, crea un remolino y echa cada huevo (cascado antes en un vasito); cuécelo 3 minutos y sácalo con espumadera a papel absorbente.",
     "Retira el laurel y rectifica de sal y pimienta. Las lentejas deben quedar melosas, no caldosas: si sobra caldo, destapa y sube el fuego 2 minutos.",
     "Sirve en plato hondo con el huevo poché en el centro, el resto del jamón crudo por encima (se atempera con el calor) y el perejil picado."
@@ -1133,14 +1151,15 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si puedes, pon los guisantes en remojo en agua fría 8 horas antes (acorta la cocción). Pica en dados pequeños la cebolla, la zanahoria, el apio y el puerro; pica los ajos. Dora el bacon en la cazuela con el aceite a fuego medio 5 minutos, hasta que esté crujiente; saca la mitad de las tiras y resérvalas para decorar.",
     "En la grasa del bacon, sofríe las verduras con una pizca de sal 8 minutos, hasta que estén blandas. Añade el ajo y el tomillo y sofríe 1 minuto.",
     "Añade los guisantes escurridos, el laurel y el caldo. Lleva a ebullición, espuma y cuece a fuego muy suave, semitapado, 1 h 15 min (45 minutos si estaban en remojo), removiendo de vez en cuando para que no se peguen, hasta que los guisantes se deshagan y la sopa esté espesa. Añade agua caliente si se seca.",
+    "Mientras, pica el perejil y prepara los crutones: corta el pan en dados de 1,5 cm y dóralos en una sartén con la mantequilla a fuego medio 4-5 minutos, moviéndolos, hasta que estén crujientes por todos lados.",
     "Retira el laurel. Tritura con la batidora solo un tercio de la sopa (o aplasta con el cucharón) para que quede cremosa pero con textura. Incorpora la mostaza y el vinagre, salpimienta y cuece 5 minutos más.",
-    "Corta el pan en dados de 1,5 cm y dóralos en una sartén con la mantequilla a fuego medio 4-5 minutos, moviéndolos, hasta que estén crujientes por todos lados.",
     "Sirve la sopa en cuencos con el bacon reservado, los crutones, el perejil picado, pimienta negra y, al estilo sueco, un poco más de mostaza en el borde del plato para ir mezclando."
   ],
   nutricion: { kcal: 550, prot: 32, hc: 68, grasa: 16 },

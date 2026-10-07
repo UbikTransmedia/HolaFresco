@@ -30,7 +30,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en el hervidor. Si las pechugas son gruesas, ábrelas en libro y aplánalas con la palma hasta 1 cm: un filete fino se hace en 2 minutos por lado y no se seca.",
@@ -74,7 +75,8 @@ window.RECETAS_SEED.push({
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "fideos de arroz", q: 140, u: "g" },
-    { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" }
+    { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en el hervidor. Cubre los fideos de arroz con el agua hirviendo en un bol y déjalos 5-6 minutos, hasta que estén flexibles.",
@@ -163,7 +165,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 2, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "pimiento verde", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el chimichurri: pica muy fino el perejil y el ajo y mézclalos con el orégano, la guindilla desmenuzada, 1 cucharada y media de vinagre, 2 cucharadas de aceite, sal y 1 cucharada de agua caliente. El agua caliente hidrata el orégano seco y despierta su aroma. Déjalo reposar mientras cocinas.",
@@ -255,7 +258,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "pan naan", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pavo en dados de 2 cm y sálalo: a ese tamaño se hace en 5 minutos sin secarse. Pica fina la cebolla, corta los pimientos en cuadrados de 2 cm, ralla el ajo y el jengibre y pica el cilantro.",
@@ -299,7 +303,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "eneldo fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y córtalas en rodajas de 1 cm. Ponlas en un recipiente apto para microondas con 2 cucharadas de agua y sal, tapa dejando una rendija y cocina 8 minutos a máxima potencia, hasta que un cuchillo entre sin resistencia. El vapor atrapado las cuece como en una olla.",
@@ -341,7 +346,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas de 5 mm y ponlas en un plato hondo con 2 cucharadas de agua y sal. Tápalas y cocínalas al microondas 6-7 minutos a máxima potencia, hasta que estén tiernas.",
@@ -384,7 +390,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla y pica el ajo, el chipotle y el cilantro.",
@@ -428,7 +435,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los guisantes congelados en un recipiente apto para microondas con 2 cucharadas de agua, tapa y cocina 4 minutos a máxima potencia.",
@@ -472,7 +480,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en el hervidor. Pon el cuscús en un bol con sal y media cucharada de aceite, cúbrelo con 120 ml de agua hirviendo, tapa y deja 5 minutos.",
@@ -513,7 +522,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas de 5 mm y cuécelas en un plato tapado con 2 cucharadas de agua y sal, 6-7 minutos al microondas a máxima potencia.",
@@ -561,7 +571,8 @@ window.RECETAS_SEED.push({
     { n: "yogur natural", q: 4, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz en un colador bajo el grifo, removiendo con la mano, hasta que el agua salga casi transparente: quitas el almidón de la superficie y los granos quedan sueltos. Mientras escurre, corta la cebolla en pluma fina, ralla el ajo y el jengibre y sala el pollo.",
@@ -606,7 +617,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 500, u: "ml", nota: "o agua" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y cáscalas en trozos de 3 cm: clava el cuchillo un poco y haz palanca hasta que el trozo se rompa. La superficie irregular suelta almidón y espesa el caldo sin harina. Pica la cebolla, el pimiento y el ajo.",
@@ -694,7 +706,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "parmesano", q: 30, u: "g", nota: "rallado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta el aceite en una sartén antiadherente grande a fuego medio-alto y echa los gnocchi directamente del paquete, sin hervir, en una sola capa. Añade 2 cucharadas de agua y tapa 2 minutos: el vapor los hace por dentro.",
@@ -739,7 +752,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "pan naan", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el tomate, ralla el ajo y el jengibre, corta el chile en rodajas y pica el cilantro. Desmenuza el paneer con los dedos en migas irregulares, como si fuera un revuelto.",
@@ -785,7 +799,8 @@ window.RECETAS_SEED.push({
     { n: "sal negra kala namak", q: 1, u: "pizca", opcional: true },
     { n: "tortillas de maíz", q: 6, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tomate en dados pequeños y pica finos la cebolla morada, el chile y el cilantro. Haz el pico de gallo mezclando el tomate, la cebolla, el chile, la mitad del cilantro, el zumo de media lima y sal. Déjalo reposar para que suelte sus jugos.",
@@ -829,7 +844,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "fideos de arroz", q: 100, u: "g" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
-    { n: "aceite de oliva", q: 1, u: "cda" }
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en el hervidor y cubre los fideos de arroz con ella en un bol durante 5-6 minutos. Mientras, corta el calabacín en medias lunas. Escurre los fideos y pásalos por agua fría para que no se peguen.",
@@ -917,7 +933,8 @@ window.RECETAS_SEED.push({
     { n: "queso fresco", q: 60, u: "g" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el chile y el ajo. Haz la salsa: calienta 1 cucharada de aceite en una sartén a fuego medio y sofríe la cebolla y el chile 3 minutos; añade el ajo 30 segundos. Incorpora el tomate y sal y cuece 4 minutos; en los 2 últimos, añade los guisantes y el jamón.",
@@ -961,7 +978,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de ostras", q: 1.5, u: "cda" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" }
+    { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en el hervidor. Mientras, mezcla el pollo con 1 cucharada de soja y la maicena: esa capa lo protege del fuego fuerte y lo deja jugoso.",
@@ -1003,7 +1021,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 25, u: "g", nota: "rallado" },
     { n: "menta fresca", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua del hervidor en una cazuela grande con sal. Ralla la piel del limón y pica la menta.",
@@ -1088,7 +1107,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "pimienta blanca", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura la mitad del maíz con 100 ml del caldo hasta obtener una crema: dará cuerpo a la sopa sin nata.",

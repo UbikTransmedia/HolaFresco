@@ -26,7 +26,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón picante", q: 0.25, u: "cdta", opcional: true },
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en rodajas gruesas de 1,5 cm (cachelos). Ponlas en una cazuela con la media cebolla en un trozo, el laurel, sal y agua fría que las cubra justo.",
@@ -236,7 +237,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "pan", q: 60, u: "g", nota: "para la salsa" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las almejas en agua fría con sal 30 minutos para que suelten la arena. Mientras, pica fina la cebolla, ralla el tomate y pon el caldo de pescado a calentar.",
@@ -403,7 +405,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 150, u: "ml", nota: "para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas.",
@@ -481,7 +484,8 @@ window.RECETAS_SEED.push({
     { n: "nueces", q: 20, u: "g" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pan", q: 60, u: "g", nota: "para acompañar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos. Mientras, pela las patatas y córtalas en trozos. Enfría los huevos en agua fría y pélalos.",
@@ -561,7 +565,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y los ajos y póchalos en una cazuela con el aceite a fuego suave 15 minutos, hasta que estén muy blandos.",
@@ -642,7 +647,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en rodajas gruesas. Corta la cebolla en aros gruesos.",
@@ -728,7 +734,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 60, u: "g" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 300, u: "ml", nota: "para freír" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la cebolla. Limpia los mejillones y ábrelos en una cazuela tapada con un chorrito de agua a fuego fuerte 3-4 minutos. Saca la carne, pica los mejillones en trozos pequeños y guarda las mejores medias conchas. Cuela y reserva 100 ml del caldo.",
@@ -810,7 +817,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "aceite de oliva", q: 5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Pela las patatas y córtalas en rodajas finas; la cebolla, en juliana.",
@@ -891,7 +899,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 6, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas en rodajas de medio centímetro y la cebolla en juliana.",
@@ -1017,7 +1026,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "mantequilla", q: 5, u: "g", nota: "para engrasar el molde" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C. Cuece la merluza 5 minutos en agua con sal, la cebolla y el laurel; añade las gambas el último minuto. Escurre bien.",

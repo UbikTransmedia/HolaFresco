@@ -39,7 +39,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla en un plato llano el pimentón, el ajo en polvo, la cebolla en polvo, el tomillo, la cayena, 1 cucharadita de sal y media de pimienta negra. Es la mezcla para ennegrecer (blackening).",
@@ -423,7 +424,8 @@ window.RECETAS_SEED.push({
     { n: "sirope de arce", q: 2, u: "cdta" },
     { n: "nueces pecanas", q: 30, u: "g", nota: "o nueces normales" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la calabaza en dados de 1,5 cm y pica la cebolla y el ajo. Enjuaga la cebada en un colador con agua fría hasta que el agua salga casi clara. Calienta el caldo y reserva 50 ml aparte.",

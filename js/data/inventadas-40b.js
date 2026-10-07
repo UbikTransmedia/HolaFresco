@@ -77,7 +77,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 50, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Pica la cebolla y el ajo y saltéalos en media cucharada de aceite 5 minutos; añade las espinacas hasta que mermen, escúrrelas bien y deja enfriar.",
@@ -124,7 +125,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 240 ml de agua y sal: 12 minutos tapado a fuego mínimo y 5 de reposo. Mientras, corta la cebolla en pétalos, los pimientos en tiras y el tomate en dados, y pica el ajo, el jengibre, el chile y el cilantro.",
@@ -168,7 +170,8 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos; en los últimos 4 minutos añade el edamame. Escurre y deja enfriar.",
@@ -299,7 +302,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela en 200 ml de agua con sal 12 minutos tapada; deja reposar 5 minutos.",
@@ -344,7 +348,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz con 200 ml de agua y sal: 14 minutos tapado a fuego mínimo y 5 de reposo.",
@@ -388,7 +393,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "zumaque", q: 1, u: "cdta", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bulgur en un bol, cúbrelo con 240 ml de agua hirviendo con sal, tapa y deja 15 minutos. Espónjalo con un tenedor y deja enfriar.",
@@ -431,7 +437,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta y otro cazo con agua para los huevos. Mientras se calientan, corta las judías verdes en tramos de 3 cm.",
@@ -521,7 +528,8 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la pechuga en un cazo con agua fría, sal y unas láminas de jengibre. Cuando hierva, tapa, baja al mínimo y deja 12 minutos; apaga y reposa 5 minutos en el agua. Desmenúzala.",
@@ -565,7 +573,8 @@ window.RECETAS_SEED.push({
     { n: "queso cheddar", q: 50, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos; en los últimos 3 minutos añade el brócoli. Escurre todo.",
@@ -659,7 +668,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y el ajo y el jengibre en láminas. Salpimienta la carrillada y dórala en el aceite a fuego fuerte 6 minutos, hasta que tenga costra por todos los lados.",
@@ -707,7 +717,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y el ajo. Salpimienta el cordero y dóralo en el aceite a fuego fuerte 6 minutos. Resérvalo.",
@@ -792,7 +803,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 3, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo; mientras, pica el puerro y el ajo y corta el calabacín en rodajas. Enfría los huevos en agua fría y pélalos.",
@@ -924,7 +936,8 @@ window.RECETAS_SEED.push({
     { n: "bulgur", q: 80, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prensa el tofu 10 minutos entre dos paños con peso encima. Mientras, precalienta el horno a 210 °C, corta el calabacín, el pimiento y la cebolla en trozos de 3 cm y mézclalos con los cherry, el resto del aceite y sal.",
@@ -1013,7 +1026,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos y escúrrelo.",
@@ -1057,7 +1071,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C y, mientras se calienta, parte los tomates en mitades, la cebolla en gajos y el calabacín en medias lunas. Ponlos en una bandeja con los ajos, una cucharada de aceite, sal y el orégano. Asa 25 minutos.",

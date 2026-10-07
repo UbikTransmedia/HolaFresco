@@ -82,7 +82,8 @@ window.RECETAS_SEED.push({
     { n: "rábanos", q: 6, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Abre la pita en dos láminas, córtalas en triángulos, píntalas con la mitad del aceite de oliva, espolvorea el zumaque y hornéalas 6-8 minutos, hasta que estén doradas y crujientes.",
@@ -129,7 +130,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Sala el rape y resérvalo en la nevera. Pon el azafrán en remojo en 150 ml de agua caliente. Pica la parte verde de la cebolleta.",
@@ -263,7 +265,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 2, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y déjalo en remojo 15 minutos. Raspa las conchas de los mejillones, arráncales las barbas tirando hacia la parte estrecha y descarta los que estén abiertos y no se cierren al golpearlos. Guárdalos en agua fría. Pica la parte verde de la cebolleta y el perejil.",
@@ -308,7 +311,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "menta fresca", q: 4, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas.",
@@ -397,7 +401,8 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 12, u: "ud" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador hasta que el agua salga limpia y cuécela en 240 ml de agua con sal, tapada y a fuego suave, 15 minutos. Apaga y deja reposar tapada.",
@@ -488,7 +493,8 @@ window.RECETAS_SEED.push({
     { n: "fideos de arroz finos", q: 25, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pica el perejil y la parte verde de la cebolleta. Amasa la carne con la pimienta de Jamaica, la canela, la mitad del perejil picado, sal y pimienta, y forma 16 albóndigas del tamaño de una nuez.",
@@ -627,7 +633,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "zumaque", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18 minutos, hasta que estén muy tiernas.",
@@ -672,7 +679,8 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 16, u: "ud" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Infusiona el azafrán en 1 cucharada de agua caliente 5 minutos; mientras, ralla la piel de medio limón y exprímelo. Mezcla el azafrán con el yogur, la ralladura y el zumo de medio limón y sal. Embadurna los filetes de pavo y déjalos marinar mientras haces el puré (al menos 15 minutos).",
@@ -810,7 +818,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Asa la berenjena entera pinchada con un tenedor bajo el grill a 230 °C (o directamente sobre la llama del fogón) 15-20 minutos, dándole la vuelta, hasta que la piel esté negra y la pulpa se hunda al tocarla.",
@@ -856,7 +865,8 @@ window.RECETAS_SEED.push({
     { n: "menta seca", q: 0.5, u: "cdta" },
     { n: "pan de pita sin gluten", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las judías en trozos de 1 cm y escáldalas 4 minutos en agua hirviendo con sal. Escúrrelas y pásalas por agua fría. Pon el azafrán en remojo en 1 cucharada de agua caliente. Pica la parte verde de la cebolleta y el perejil.",
@@ -948,7 +958,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "zumaque", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Bate los huevos con la harina de arroz, la leche y una pizca de sal hasta obtener una masa lisa y fluida. Déjala reposar mientras haces el relleno. Pica la parte verde de la cebolleta y la menta.",
@@ -992,7 +1003,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "pan de pita sin gluten", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la calabaza (la japonesa puede quedarse con algo de piel) y córtala en dados de 2 cm. Pica la parte verde de la cebolleta y ralla el jengibre.",
@@ -1035,7 +1047,8 @@ window.RECETAS_SEED.push({
     { n: "za'atar", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C y pon a calentar agua para el baño maría. Infusiona el azafrán en 1 cucharada de agua caliente y mézclalo con el yogur y una pizca de sal. Pica el eneldo.",
@@ -1077,7 +1090,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima 10 minutos para que suelte el agua y córtalo en 4 filetes gruesos.",
@@ -1121,7 +1135,8 @@ window.RECETAS_SEED.push({
     { n: "yogur sin lactosa", q: 125, u: "g" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en tiras de 1 cm y cuécelo al vapor o en agua hirviendo 8 minutos: le quita el amargor y lo vuelve más tierno. Escúrrelo y sécalo.",

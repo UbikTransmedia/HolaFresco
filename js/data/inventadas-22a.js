@@ -28,7 +28,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 2, u: "rebanada", nota: "para mojar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento verde y los ajos. Seca bien los tacos de magro con papel de cocina y salpimiéntalos.",
@@ -124,7 +125,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la cebolla y ralla el tomate. Salpimienta los filetes y pásalos por harina, sacudiendo el exceso. Dóralos en la cazuela con 3 cucharadas de aceite a fuego fuerte, 1 minuto por lado, en tandas. Reserva.",
@@ -174,7 +176,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 60, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo y corta la zanahoria en rodajas gruesas. Seca la carne y salpimiéntala. En una cazuela gruesa, dora el bacon con 1 cucharada de aceite a fuego medio hasta que suelte la grasa; sácalo. En esa grasa dora la carne a fuego fuerte en dos tandas, 5 minutos, hasta que tenga costra oscura. Reserva.",
@@ -221,7 +224,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava los callos con agua fría y un chorro de vinagre, frotándolos bien, y córtalos en trozos de 3-4 cm.",
@@ -269,7 +273,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 350, u: "g", nota: "para freír" },
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea la cebolla, la zanahoria, el pimiento, el puerro, los ajos y el tomate. Salpimienta los trozos de rabo y pásalos por harina. Dóralos en la cazuela con 3 cucharadas de aceite a fuego fuerte, 8 minutos, hasta que estén bien tostados por todas las caras. Sácalos.",
@@ -356,7 +361,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el arroz en abundante agua con sal y la hoja de laurel 16-18 minutos, hasta que esté tierno. Escúrrelo.",
@@ -398,7 +404,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas gruesas y cuécelas en agua con sal 15 minutos, hasta que se puedan pinchar sin resistencia. Escúrrelas.",
@@ -620,7 +627,8 @@ window.RECETAS_SEED.push({
     { n: "harina de trigo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y los ajos. Salpimienta la carne, pásala por la harina y dórala en la cazuela con el aceite a fuego fuerte 5 minutos. Sácala.",
@@ -709,7 +717,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la cebolla y póchala en la cazuela con el aceite a fuego medio-suave 12 minutos, hasta que esté blanda y dorada. Mientras, corta el pimiento en tiras, trocea el tomate, pica el ajo y salpimienta el pollo.",
@@ -845,7 +854,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la carne en una cazuela, cúbrela con agua fría y lleva a ebullición; mientras, corta la zanahoria en trozos grandes, limpia el puerro y pincha el clavo en la cebolla. Cuando suba la espuma, escurre y enjuaga la carne: así el caldo queda blanco y limpio.",
@@ -977,7 +987,8 @@ window.RECETAS_SEED.push({
     { n: "jamón serrano", q: 40, u: "g", nota: "en taquitos" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 2, u: "rebanada", nota: "para mojar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Revisa las manitas y quema con la llama los pelillos que queden. Ponlas en una cazuela con agua fría, lleva a ebullición 5 minutos y tira el agua.",
@@ -1023,7 +1034,8 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 120, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el pollo picado con el huevo, el pan rallado mojado en la leche, 1 ajo y el perejil picados, sal y pimienta. Forma unas 14 bolitas con las manos húmedas y pásalas por harina. Pica también la cebolla y el otro ajo.",

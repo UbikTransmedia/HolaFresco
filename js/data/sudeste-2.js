@@ -219,7 +219,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "col blanca", q: 100, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura 4 chalotas, el ajo, el jengibre y el cilantro molido con 2 cucharadas de agua hasta tener una pasta fina (bumbu).",
@@ -266,7 +267,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "chile fresco", q: 1, u: "ud", opcional: true }
+    { n: "chile fresco", q: 1, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Machaca en el mortero o tritura el ajo, los tallos del cilantro y la pimienta blanca hasta tener una pasta. Mézclala en un bol con la soja, la salsa de ostras, la salsa de pescado, el azúcar de palma, el aceite y 2 cucharadas de la leche de coco hasta que el azúcar se disuelva.",
@@ -312,7 +314,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "aceite de girasol", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con el gratinador y forra una bandeja con papel. Pon en un lado los tomates, 1 chalota, 2 dientes de ajo con piel y los chiles.",
@@ -445,7 +448,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cda", nota: "en Filipinas, vinagre de caña" },
     { n: "kétchup", q: 2, u: "cda", nota: "en Filipinas se usa kétchup de plátano" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos, y déjalo reposar. Mientras, pica el tomate y la cebolla morada y mézclalos con el vinagre y sal.",
@@ -487,7 +491,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 4, u: "cda" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 9 minutos. A la vez, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos. Mientras, tritura los chiles, las chalotas, el ajo y los tomates hasta obtener una pasta gruesa, no un puré fino, y corta el pepino en rodajas.",
@@ -672,7 +677,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la zanahoria y el nabo en bastones muy finos. Mezcla el vinagre con el azúcar, una pizca de sal y 3 cucharadas de agua tibia hasta que se disuelva, y sumerge las verduras 15 minutos.",
@@ -717,7 +723,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 0.5, u: "ud" },
     { n: "albahaca tailandesa", q: 0.5, u: "manojo", nota: "o albahaca común con unas hojas de menta" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "aceite de girasol", q: 1, u: "cda" }
+    { n: "aceite de girasol", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado con 180 ml de agua, tapado y a fuego mínimo, 12 minutos, y déjalo reposar.",
@@ -859,7 +866,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cebolla frita", q: 2, u: "cda" },
     { n: "aceite de girasol", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las guindillas en remojo en agua caliente. Pela el boniato, córtalo en dados y cuécelo en el caldo 15 minutos, hasta que se deshaga. Tritúralo con el caldo hasta obtener un puré fluido.",
@@ -906,7 +914,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "aceite de girasol", q: 1, u: "cdta" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja los fideos de cristal en agua caliente 10 minutos. Mientras, pica fino las setas, ralla la zanahoria y pica la cebolleta. Escurre los fideos y córtalos con tijera en trozos de 3 cm.",
@@ -954,7 +963,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla frita", q: 2, u: "cda" },
     { n: "aceite de girasol", q: 1.5, u: "cda" },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el nabo y la zanahoria y córtalos en juliana fina (o rállalos grueso). Pica el ajo. Corta el tofu en bastones finos y sécalo con papel.",
@@ -1053,7 +1063,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado con 240 ml de agua, tapado y a fuego mínimo, 12 minutos. Extiéndelo en una bandeja y deja que se enfríe 15 minutos. Mientras, corta el tofu en dados y sécalo bien; corta las chalotas en rodajas finas y la cebolleta en aros, deshoja el cilantro y la menta, y mezcla en un bol el zumo de la lima, la soja y el azúcar hasta que se disuelva.",
@@ -1150,7 +1161,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "mayonesa vegana", q: 1, u: "cda", opcional: true },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; déjalo reposar tapado.",

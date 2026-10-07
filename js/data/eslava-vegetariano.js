@@ -32,7 +32,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla", q: 1, u: "ud" },
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Templa la leche hasta que esté tibia al dedo (unos 35 °C) y disuelve en ella la levadura y el azúcar. Espera 5 minutos, hasta que haga espuma: así sabes que la levadura está viva.",
@@ -116,7 +117,8 @@ window.RECETAS_SEED.push({
     { n: "nata agria", q: 100, u: "ml", nota: "smetana" },
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal 18–20 minutos, hasta que estén muy tiernas. Escúrrelas bien y déjalas 2 minutos en la cazuela caliente para que se evapore el vapor: el puré tiene que quedar seco.",
@@ -252,7 +254,8 @@ window.RECETAS_SEED.push({
     { n: "pepinillos", q: 40, u: "g" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y cuécelas con piel en agua con sal 20–25 minutos, hasta que un cuchillo entre sin resistencia.",
@@ -501,7 +504,8 @@ window.RECETAS_SEED.push({
     { n: "requesón", q: 100, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15–18 minutos, hasta que estén muy tiernas. Escúrrelas, déjalas 1 minuto en la cazuela caliente para que se sequen y aplástalas hasta obtener un puré sin grumos. Deja que se temple 10 minutos.",
@@ -678,7 +682,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 1, u: "ud" },
     { n: "hojas de pasta filo", q: 120, u: "g", nota: "6 láminas" },
     { n: "yogur natural", q: 200, u: "g", nota: "para acompañar" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta. Lava las espinacas y saltéalas con ella en una sartén con unas gotas de aceite 3–4 minutos, solo hasta que se ablanden. Pásalas a un colador y aprieta con una cuchara hasta que no suelten más agua: es la clave para que la filo no se empape. Pícalas.",
@@ -726,7 +731,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cdta" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Tuesta las semillas de calabaza en una sartén de unos 22 cm apta para horno, sin aceite, 3 minutos, hasta que se hinchen y salten. Resérvalas.",
@@ -816,7 +822,8 @@ window.RECETAS_SEED.push({
     { n: "harina de trigo", q: 60, u: "g", nota: "40 g para la masa y 20 g para rebozar" },
     { n: "nata agria", q: 80, u: "ml", nota: "smetana" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el calabacín, sálalo ligeramente y déjalo 10 minutos en un colador; después apriétalo con las manos para sacar toda el agua.",

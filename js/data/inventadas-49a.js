@@ -170,7 +170,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo en 280 ml de agua con sal, tapado a fuego mínimo, 12 minutos. Extiéndelo en una fuente para que se enfríe y se seque: el chitranna se hace con arroz frío para que los granos queden sueltos.",
@@ -223,7 +224,8 @@ window.RECETAS_SEED.push({
     { n: "yogur natural", q: 125, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "menta fresca", q: 4, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz en tres aguas y déjalo en remojo 20 minutos en agua fría; escúrrelo bien. El remojo hace que el basmati se alargue en vez de romperse.",
@@ -278,7 +280,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el ajo y el jengibre y marina los langostinos con ellos, 60 g de yogur, el garam masala, la cúrcuma, la cayena, sal y el zumo de limón. Deja en la nevera mientras preparas lo demás (no más de 30 minutos: el ácido empieza a 'cocinar' el marisco).",
@@ -326,7 +329,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de mostaza", q: 1, u: "cdta" },
     { n: "comino en grano", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga las judías mungo y cuécelas en abundante agua sin sal 20-25 minutos, hasta que estén tiernas pero enteras. Prueba varias: deben ceder al morder sin deshacerse. Escúrrelas y extiéndelas en una bandeja para que se enfríen rápido y no se pasen.",
@@ -372,7 +376,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece la patata con piel en agua con sal 20 minutos, hasta que un cuchillo entre sin resistencia. Pélala y córtala en dados pequeños cuando esté templada.",
@@ -417,7 +422,8 @@ window.RECETAS_SEED.push({
     { n: "comino en grano", q: 0.5, u: "cdta" },
     { n: "garam masala", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 9 minutos desde que hierva el agua y pásalos a agua con hielo: así la yema queda cremosa y amarilla, sin cerco verde.",
@@ -464,7 +470,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Frota el rape con media cucharadita de cúrcuma y sal y déjalo 10 minutos; mientras, pela la patata y córtala en bastones gruesos, trocea la berenjena, ralla el jengibre y pica el tomate. La cúrcuma con sal es el adobo básico bengalí: sazona y ayuda a que el pescado se dore sin pegarse.",
@@ -510,7 +517,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Hidrata el coco rallado 10 minutos en 4 cucharadas de agua caliente: así se tritura mejor y el chutney queda cremoso. Mientras, pon a cocer el arroz basmati lavado en 280 ml de agua con sal, tapado a fuego mínimo, 12 minutos.",
@@ -556,7 +564,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Machaca en el mortero el ajo y el jengibre con sal y mézclalos con el pimentón, la cayena, la cúrcuma, la pimienta, la harina de arroz y el zumo de medio limón hasta tener una pasta espesa. El pimentón dulce con un toque de cayena imita el chile de Cachemira: mucho color y picor moderado.",
@@ -602,7 +611,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "apio", q: 2, u: "rama" },
     { n: "zanahoria", q: 2, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con aire. Corta la coliflor en ramilletes del tamaño de una alita, lávalos y sécalos muy bien: el agua en la superficie genera vapor y la coliflor se cuece en vez de dorarse.",
@@ -693,7 +703,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la patata en dados de 1 cm y dales 4 minutos de microondas tapados con una cucharada de agua. Después dóralos en la sartén con 1 cucharada de aceite, el pimentón y sal a fuego medio-alto 6-8 minutos, hasta que estén crujientes.",
@@ -745,7 +756,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 100, u: "ml" },
     { n: "mantequilla", q: 15, u: "g", nota: "derretida" },
     { n: "azúcar", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pan de maíz: mezcla las dos harinas, la levadura, el azúcar y una pizca de sal; en otro bol, el huevo, la leche y la mantequilla. Une ambos con pocas vueltas: grumos pequeños están bien, porque batir de más desarrolla el gluten y el pan sale duro.",
@@ -1024,7 +1036,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla, la zanahoria y el apio en dados. Seca la carne con papel y salpimiéntala. Dórala en la cazuela con el aceite a fuego fuerte en una sola capa, 5 minutos, sin moverla al principio. Si llenas demasiado la cazuela, la carne suelta agua y se cuece en lugar de dorarse: hazlo en dos tandas si hace falta.",
@@ -1068,7 +1081,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la carne de la nevera 20 minutos antes: si entra fría a la plancha, se dora por fuera y queda cruda y fría por dentro.",
@@ -1119,7 +1133,8 @@ window.RECETAS_SEED.push({
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "caldo de pollo", q: 400, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las aceitunas en rodajas. Haz el sofrito boricua: tritura la cebolla, los pimientos, los ajos y el cilantro (con tallos) hasta tener una pasta gruesa. Es la base de casi toda la cocina puertorriqueña; triturarla hace que se integre en el arroz sin trozos.",

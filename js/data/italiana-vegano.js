@@ -239,7 +239,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Quita el rabo y las semillas de los pimientos secos y límpialos con un paño seco: no los mojes, porque con agua no se vuelven crujientes. Córtalos en trozos de 3–4 cm.",
@@ -329,7 +330,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 40, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las pasas a remojo en un vaso de agua templada. Disuelve el azafrán en 2 cda de agua caliente.",
@@ -373,7 +375,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Llena un bol con agua y el zumo de medio limón. Limpia las alcachofas: arranca las hojas exteriores duras hasta llegar a las amarillo claro, corta las puntas y pela el tallo. Pártelas en cuartos, quita la pelusa del centro si la tienen y córtalas en láminas de medio centímetro. Échalas al agua con limón para que no se ennegrezcan. Pica la cebolla, el ajo y el perejil.",
@@ -412,7 +415,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava los tomates y corta la parte de arriba (1,5 cm) para usarla de tapa. Vacíalos con una cucharilla sin romper la piel, dejando una pared de medio centímetro, y echa la pulpa en un bol. Sala ligeramente el interior y déjalos boca abajo 10 minutos para que escurran. Mientras, pica el ajo y trocea la albahaca.",
@@ -458,7 +462,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas, córtalas en dados de 2 cm y ponlas en un recipiente apto para microondas con 2 cda de agua y una pizca de sal. Tapa y cocina a máxima potencia 6–7 minutos, hasta que estén casi tiernas; mientras, lamina los dos dientes de ajo y pica el perejil. Escúrrelas.",
@@ -505,7 +510,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Descongela las espinacas (unos minutos en el microondas o la víspera en la nevera) y escúrrelas apretando con las manos hasta que no suelten agua. Pícalas. Lamina un diente de ajo y pica el otro.",
@@ -779,7 +785,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "pimienta negra", q: 1, u: "cdta", nota: "recién molida" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta.",

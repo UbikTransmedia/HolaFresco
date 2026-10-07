@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 900, u: "ml", nota: "sin gluten, caliente" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las alcachofas quitando las hojas duras, córtalas en cuartos y frótalas con el limón. Corta el pimiento en tiras, pica los ajos y ralla el tomate.",
@@ -439,7 +440,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 700, u: "ml", nota: "sin gluten" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y las lentejas juntas en un colador fino hasta que el agua salga clara. Pica la cebolla, ralla el ajo y el jengibre y ralla el tomate.",
@@ -1014,7 +1016,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lamina los champiñones, pica la cebolla y el ajo y pela las patatas y córtalas en dados de 2 cm.",

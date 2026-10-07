@@ -137,7 +137,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true, nota: "o albahaca thai si la encuentras" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta (reserva la parte verde para servir), el ajo y el jengibre. Corta las judías verdes en trozos de 2 cm. Seca los langostinos con papel de cocina y sálalos ligeramente.",

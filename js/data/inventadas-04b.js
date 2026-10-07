@@ -25,7 +25,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta el boniato con piel en gajos, alíñalo con 1 cda de aceite y sal y hornéalo 30 min, dándole la vuelta a mitad, hasta que esté tierno y con los bordes tostados.",
@@ -114,12 +115,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los calabacines en tiras finas tipo espagueti con un espiralizador o con un pelador, haciendo cintas largas. Resérvalos.",
+    "Corta los calabacines en tiras finas tipo espagueti con un espiralizador o con un pelador, haciendo cintas largas. Resérvalos. Lamina el ajo, pica el perejil y ralla la piel del limón.",
     "Aplana los filetes entre dos trozos de film hasta medio centímetro, salpimiéntalos y pásalos por la harina sacudiendo el exceso.",
     "Calienta 1 cda de aceite en una sartén amplia a fuego fuerte y dora los filetes 1 min por lado. Pásalos a un plato.",
     "En la misma sartén vierte el vino y deja que evapore 30 segundos. Añade el caldo, el zumo del limón y las alcaparras y reduce 2 min. Fuera del fuego incorpora la mantequilla en dados removiendo hasta que la salsa brille. Devuelve los filetes 30 segundos para que se impregnen.",
-    "Pasa la carne y la salsa a los platos. Limpia la sartén, calienta la otra cda de aceite con el ajo laminado y saltea los espaguetis de calabacín 2 min a fuego fuerte con sal: deben quedar al dente.",
-    "Sirve los escalopines con la salsa, el calabacín al lado, el perejil picado y la ralladura del limón."
+    "Pasa la carne y la salsa a los platos. Limpia la sartén, calienta la otra cda de aceite con el ajo y saltea los espaguetis de calabacín 2 min a fuego fuerte con sal: deben quedar al dente.",
+    "Sirve los escalopines con la salsa, el calabacín al lado, el perejil picado y la ralladura de limón."
   ],
   nutricion: { kcal: 430, prot: 38, hc: 16, grasa: 24 },
   etiquetas: ["rápida", "ligera", "alta en proteína", "una sola sartén", "poco especiada"],
@@ -158,7 +159,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la carne en una cazuela con 1 cebolla partida, 1 ajo, el laurel, sal y agua que la cubra. Lleva a ebullición, espuma y cuece tapada a fuego suave 90 min, hasta que se deshaga al pincharla. Mientras, corta la otra cebolla en juliana y los pimientos en tiras y pica los 3 ajos. Reserva 300 ml del caldo.",
@@ -166,8 +168,8 @@ window.RECETAS_SEED.push({
     "En la cazuela limpia calienta el aceite y sofríe la cebolla, los pimientos y los ajos 10 min a fuego medio, hasta que estén blandos y dorados.",
     "Añade el comino y el orégano, remueve 30 segundos y vierte el vino. Cuando evapore, agrega el tomate triturado y cocina 8 min.",
     "Incorpora la carne deshilachada y el caldo reservado, salpimienta y cuece 20 min destapado, removiendo de vez en cuando, hasta que la salsa esté espesa y envuelva la carne.",
-    "Mientras, cuece el arroz basmati lavado con 1,5 veces su volumen de agua y sal: 12 min tapado y 5 de reposo.",
-    "Añade a la ropa vieja las aceitunas en rodajas y las alcaparras, rectifica de sal y sírvela sobre el arroz con el perejil picado."
+    "Mientras, cuece el arroz basmati lavado con 1,5 veces su volumen de agua y sal: 12 min tapado y 5 de reposo. Corta las aceitunas en rodajas y pica el perejil.",
+    "Añade a la ropa vieja las aceitunas y las alcaparras, rectifica de sal y sírvela sobre el arroz con el perejil picado."
   ],
   nutricion: { kcal: 630, prot: 50, hc: 62, grasa: 20 },
   etiquetas: ["cocción lenta", "batch cooking", "ideal para llevar", "para niños", "poco especiada"],
@@ -207,14 +209,15 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las cebollas en juliana y ralla el ajo y el jengibre. Salpimienta el cordero. Calienta el aceite en una cazuela de fondo grueso a fuego fuerte y dóralo en 2 tandas, 4 min por tanda. Resérvalo.",
     "Baja a fuego medio y sofríe las cebollas 10 min hasta que estén muy blandas. Añade el ajo y el jengibre, la cúrcuma, el comino y el pimentón y remueve 1 min.",
     "Devuelve el cordero, añade la rama de canela y el caldo caliente. Tapa y cuece a fuego mínimo 1 h 45 min, removiendo de vez en cuando; la carne debe quedar muy tierna.",
     "Agrega las ciruelas y la miel y cuece 20 min más destapado para que la salsa espese y las ciruelas se hinchen.",
-    "Mientras, tuesta las almendras en una sartén seca 3 min hasta que estén doradas y pícalas gruesas. Tuesta también el sésamo 30 segundos.",
+    "Mientras, tuesta las almendras en una sartén seca 3 min hasta que estén doradas y pícalas gruesas. Tuesta también el sésamo 30 segundos y pica el cilantro.",
     "Pon el cuscús en un bol, cúbrelo con 150 ml de agua hirviendo con sal, tapa 5 min y desgránalo con un tenedor.",
     "Retira la canela, rectifica de sal y sirve el tajine sobre el cuscús con las almendras, el sésamo y el cilantro picado."
   ],
@@ -258,7 +261,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Ralla la remolacha con el rallador grueso y escúrrela un poco apretándola. Pica muy fina la cebolla morada.",
     "Mezcla en un bol la ternera con la remolacha, la cebolla, el pan rallado, el huevo, el comino, sal y pimienta. Amasa 1 min y forma 4 hamburguesas pequeñas de 2 cm de grosor con una hendidura en el centro.",
-    "Mezcla el yogur con la mitad del eneldo picado, el zumo del medio limón y una pizca de sal.",
+    "Pica el eneldo y mezcla el yogur con la mitad, el zumo del medio limón y una pizca de sal.",
     "Corta el pepino en medias lunas y los rábanos en rodajas finas. Alíñalos con los canónigos, 1 cda de aceite y sal.",
     "Calienta la otra cda de aceite en una sartén a fuego medio-alto y haz las hamburguesas 4 min por lado, hasta que estén doradas y firmes (la remolacha las mantiene de color rojizo por dentro aunque estén hechas).",
     "Sirve las hamburguesas con la salsa de yogur, la ensalada y el resto del eneldo por encima."
@@ -300,13 +303,14 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 130, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y cuécelo en una cazuela tapada con 1,5 veces su volumen de agua y sal: 12 min a fuego mínimo y 5 min de reposo. Mientras se cuece, pica la cebolla y ralla el ajo, el jengibre y los tomates.",
     "Calienta el aceite en una sartén honda a fuego medio y sofríe la cebolla 8 min hasta que esté dorada. Añade el ajo y el jengibre y, a 1 min, el garam masala, la cúrcuma, el comino, el cilantro molido y la cayena. Remueve 30 segundos.",
     "Sube el fuego, añade la ternera picada y saltéala 6 min desmenuzándola hasta que esté dorada y suelta.",
-    "Agrega los tomates rallados, sal y 100 ml de agua. Tapa y cuece 10 min a fuego medio-bajo, hasta que la salsa se haya reducido y la grasa asome por los bordes.",
+    "Agrega los tomates rallados, sal y 100 ml de agua. Tapa y cuece 10 min a fuego medio-bajo, hasta que la salsa se haya reducido y la grasa asome por los bordes. Mientras, pica el cilantro.",
     "Incorpora los guisantes y cuece 4 min. Aparta del fuego y añade el yogur removiendo.",
     "Sirve el keema sobre el arroz con el cilantro picado y un chorrito de limón."
   ],
@@ -348,13 +352,14 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon el bulgur en un bol, cúbrelo con 120 ml de agua hirviendo y sal, tapa y déjalo 15 min hasta que absorba el agua.",
-    "Mezcla el cordero con la media cebolla rallada, el ajo rallado, un cuarto del perejil y de la menta picados, el comino, el cilantro, el pimentón, la canela, sal y pimienta. Amasa 1 min y forma 6 koftas alargadas alrededor de brochetas o con las manos. Guárdalas en la nevera.",
+    "Pon el bulgur en un bol, cúbrelo con 120 ml de agua hirviendo y sal, tapa y déjalo 15 min hasta que absorba el agua. Mientras, ralla la media cebolla y el ajo y pica todo el perejil y la menta.",
+    "Mezcla el cordero con la cebolla y el ajo rallados, un cuarto del perejil y de la menta, el comino, el cilantro, el pimentón, la canela, sal y pimienta. Amasa 1 min y forma 6 koftas alargadas alrededor de brochetas o con las manos. Guárdalas en la nevera.",
     "Prepara la salsa: bate el tahini con el yogur, el zumo de 1 limón, 2-3 cda de agua y sal hasta que quede cremosa y clara.",
-    "Pica el resto del perejil y la menta, los tomates en dados pequeños y las cebolletas en rodajas finas. Mézclalos con el bulgur, el zumo del otro limón, 1 cda de aceite y sal.",
+    "Corta los tomates en dados pequeños y las cebolletas en rodajas finas. Mézclalos con el bulgur, el resto del perejil y la menta, el zumo del otro limón, 1 cda de aceite y sal.",
     "Calienta la plancha a fuego fuerte con la otra cda de aceite y haz las koftas 8-10 min girándolas cada 2 min, hasta que estén doradas por fuera y hechas por dentro.",
     "Sirve las koftas sobre el tabulé con la salsa de tahini por encima."
   ],
@@ -392,7 +397,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 100, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz en una cazuela con agua hirviendo y sal 12 min, escúrrelo y resérvalo. Precalienta el horno a 190 °C.",
@@ -445,7 +451,7 @@ window.RECETAS_SEED.push({
     "Corta las cebollas en juliana y el pimiento en dados y pica el ajo. Salpimienta la carne. Calienta el aceite en una cazuela a fuego fuerte y dórala en 2 tandas, 3 min por tanda. Resérvala.",
     "Baja a fuego medio-bajo y pocha las cebollas 12 min, removiendo, hasta que estén muy blandas y doradas. Añade el ajo y el pimiento y sofríe 3 min más.",
     "Aparta la cazuela del fuego, añade los pimentones, el comino y el tomate concentrado y remueve 30 segundos: el pimentón amarga si se quema.",
-    "Devuelve la carne, añade el caldo caliente y el laurel. Tapa y cuece a fuego mínimo 1 h 45 min, removiendo de vez en cuando. Mientras, pela la patata y córtala en dados grandes y corta la zanahoria en rodajas.",
+    "Devuelve la carne, añade el caldo caliente y el laurel. Tapa y cuece a fuego mínimo 1 h 45 min, removiendo de vez en cuando. Mientras, pela la patata y córtala en dados grandes, corta la zanahoria en rodajas y pica el perejil.",
     "Añade la patata y la zanahoria y cuece 30 min más, hasta que estén tiernas y la carne se deshaga con el tenedor. Si la salsa está clara, destapa los últimos 10 min.",
     "Rectifica de sal, retira el laurel y sirve con una cucharada de yogur en cada plato y el perejil picado."
   ],
@@ -483,7 +489,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, corta los pimientos en tiras y lamina los ajos. Salpimienta el cordero. Calienta el aceite en una cazuela a fuego fuerte y dóralo en 2 tandas, 4 min por tanda, hasta que tome color. Resérvalo.",
@@ -530,7 +537,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura las cebollas, los ajos, el jengibre, los chiles, la cúrcuma, el cilantro, el comino, la ralladura de la lima y 2 cda de agua hasta tener una pasta fina.",
@@ -576,8 +584,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas con piel en gajos, alíñalas con 1 cda de aceite, sal y las hojas de romero y hornéalas 30-35 min hasta que estén doradas y crujientes.",
-    "Corta las cebollas en juliana fina. Caliéntalas en una sartén amplia con 1 cda de aceite, el laurel y una pizca de sal a fuego medio-bajo, removiendo de vez en cuando, 20 min, hasta que estén muy blandas y doradas.",
-    "Añade los ajos laminados y, a los 2 min, el vino. Sube el fuego para que evapore el alcohol, baja de nuevo, añade el pimentón y cocina 5 min hasta que la cebolla quede melosa. Resérvala en la misma sartén apartada del fuego.",
+    "Corta las cebollas en juliana fina. Caliéntalas en una sartén amplia con 1 cda de aceite, el laurel y una pizca de sal a fuego medio-bajo, removiendo de vez en cuando, 20 min, hasta que estén muy blandas y doradas. Mientras, lamina los ajos y pica el perejil.",
+    "Añade los ajos y, a los 2 min, el vino. Sube el fuego para que evapore el alcohol, baja de nuevo, añade el pimentón y cocina 5 min hasta que la cebolla quede melosa. Resérvala en la misma sartén apartada del fuego.",
     "Seca los filetes y salpimiéntalos. Calienta la cda de aceite restante en otra sartén a fuego muy fuerte y márcalos 1 min por lado, hasta que estén dorados pero rosados en el centro.",
     "Pon los filetes sobre la cebolla, vuelve a poner la sartén al fuego 2 min para que se mezclen los jugos y cúbrelos con la cebolla.",
     "Sirve con las patatas asadas y el perejil picado por encima."
@@ -620,13 +628,14 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 130, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el cordero en un bol con el yogur, la mitad del pimentón, del garam masala, del cilantro y del comino, y sal. Déjalo marinar 30 min a temperatura ambiente (o toda la noche en la nevera). Mientras, pica las cebollas y ralla el ajo y el jengibre.",
     "Calienta el aceite en una cazuela a fuego medio y dora las cebollas 12 min hasta que estén bien doradas. Añade el ajo y el jengibre, la canela, el cardamomo ligeramente aplastado y el laurel y sofríe 1 min.",
     "Incorpora el resto de las especias y la cúrcuma, remueve 30 segundos y añade el tomate triturado. Cocina 5 min hasta que espese.",
-    "Añade el cordero con toda su marinada y 150 ml de agua caliente. Tapa y cuece a fuego mínimo 75 min, removiendo de vez en cuando, hasta que la carne esté muy tierna.",
+    "Añade el cordero con toda su marinada y 150 ml de agua caliente. Tapa y cuece a fuego mínimo 75 min, removiendo de vez en cuando, hasta que la carne esté muy tierna. Mientras, pica el cilantro.",
     "Destapa y cuece 15 min más para que la salsa espese y tome un color rojo intenso. Rectifica de sal. Mientras, lava el arroz basmati y cuécelo con 1,5 veces su volumen de agua y sal: 12 min tapado y 5 de reposo.",
     "Retira la canela, las vainas y el laurel y sirve el rogan josh con el arroz y el cilantro picado."
   ],
@@ -666,14 +675,15 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava el arroz basmati y cuécelo en una cazuela tapada con 1,5 veces su volumen de agua y sal: 12 min a fuego mínimo y 5 min de reposo. Mientras se cuece, pica la cebolla y el ajo y lamina los champiñones.",
+    "Lava el arroz basmati y cuécelo en una cazuela tapada con 1,5 veces su volumen de agua y sal: 12 min a fuego mínimo y 5 min de reposo. Mientras se cuece, pica la cebolla, el ajo y el perejil, lamina los champiñones y corta los pepinillos en rodajas.",
     "Salpimienta las tiras de ternera. Calienta el aceite en una sartén amplia a fuego muy fuerte y saltéalas 1 min en 2 tandas, solo hasta que se doren por fuera. Resérvalas.",
     "Baja a fuego medio, funde la mantequilla y sofríe la cebolla 5 min. Añade los champiñones y saltéalos 5 min hasta que doren y pierdan el agua. Incorpora el ajo.",
     "Espolvorea la harina y el pimentón, remueve 30 segundos y vierte el caldo y la nata. Añade la mostaza y cuece 3 min hasta que la salsa espese.",
-    "Devuelve la carne con sus jugos y añade los pepinillos en rodajas. Calienta 1 min sin que hierva para que la ternera no se endurezca. Rectifica de sal y pimienta.",
+    "Devuelve la carne con sus jugos y añade los pepinillos. Calienta 1 min sin que hierva para que la ternera no se endurezca. Rectifica de sal y pimienta.",
     "Sirve sobre el arroz con el perejil picado."
   ],
   nutricion: { kcal: 630, prot: 42, hc: 58, grasa: 26 },
@@ -712,10 +722,11 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Mezcla en un bol la ternera con media cebolla rallada, 1 ajo rallado, el pan rallado, el huevo, el comino, la mitad de la hierbabuena picada, sal y pimienta. Forma 12 albóndigas y resérvalas en la nevera.",
+    "Ralla media cebolla y 1 ajo y pica la hierbabuena. Mezcla en un bol la ternera con la cebolla y el ajo rallados, el pan rallado, el huevo, el comino, la mitad de la hierbabuena, sal y pimienta. Forma 12 albóndigas y resérvalas en la nevera.",
     "Tritura el tomate con el chipotle y su adobo, la otra media cebolla y el otro ajo hasta tener una salsa lisa.",
     "Calienta el aceite en una cazuela a fuego medio-alto y vierte la salsa con cuidado (salpica). Fríela 8 min removiendo hasta que oscurezca y espese. Añade el caldo, el orégano y sal.",
     "Introduce las albóndigas crudas en la salsa en una sola capa, tapa y cuece 20 min a fuego suave, girándolas a mitad con cuidado.",
@@ -762,12 +773,13 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en una cazuela con agua y sal 20 min, hasta que estén muy tiernas.",
-    "Mientras, corta la cebolla, las zanahorias y el apio en dados pequeños y pica el ajo. Calienta el aceite en una sartén y sofríe la cebolla, las zanahorias y el apio 8 min. Añade el ajo 1 min más.",
-    "Sube el fuego, añade el cordero picado y dóralo 6 min desmenuzándolo. Incorpora el tomate concentrado y la harina, remueve 1 min y vierte el caldo, la soja, el tomillo y el romero picado. Cuece 15 min a fuego suave hasta que espese; mientras, precalienta el horno a 200 °C. Añade los guisantes, salpimienta y retira del fuego.",
+    "Mientras, corta la cebolla, las zanahorias y el apio en dados pequeños y pica el ajo y las hojas de romero. Calienta el aceite en una sartén y sofríe la cebolla, las zanahorias y el apio 8 min. Añade el ajo 1 min más.",
+    "Sube el fuego, añade el cordero picado y dóralo 6 min desmenuzándolo. Incorpora el tomate concentrado y la harina, remueve 1 min y vierte el caldo, la soja, el tomillo y el romero. Cuece 15 min a fuego suave hasta que espese; mientras, precalienta el horno a 200 °C. Añade los guisantes, salpimienta y retira del fuego.",
     "Escurre las patatas, pásalas por el pasapurés o aplástalas y mézclalas con la mantequilla, la leche caliente, la nuez moscada, sal y pimienta hasta tener un puré cremoso.",
     "Extiende la carne en una fuente, cúbrela con el puré y márcalo con un tenedor para que haga surcos crujientes. Reparte el queso rallado.",
     "Hornea 20-25 min hasta que la superficie esté dorada y la salsa burbujee por los bordes.",
@@ -807,7 +819,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla las tiras de ternera en un bol con 1 cda de soja, la maicena y pimienta. Déjalas 5 min mientras preparas el resto.",
@@ -856,10 +869,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla en un bol 2 cda de yogur con los ajos rallados, el pimentón, el comino, el orégano, la cayena, el zumo de medio limón, 1 cda de aceite, sal y pimienta. Añade los dados de ternera y deja marinar 20 min (o unas horas en la nevera). Remoja 4 brochetas de madera.",
-    "Corta la cebolla morada en juliana fina, ponla en un bol con el zumaque, una pizca de sal y la mitad del perejil picado y masajéala 1 min con las manos para que se ablande.",
-    "Corta los tomates en gajos y alíñalos con la otra cda de aceite, el resto del zumo de limón y sal. Mézclalos con la cebolla justo antes de servir.",
-    "Ensarta la carne alternándola con trozos de pimiento verde, sin apretar los dados.",
+    "Ralla los ajos y mézclalos en un bol con 2 cda de yogur, el pimentón, el comino, el orégano, la cayena, el zumo de medio limón, 1 cda de aceite, sal y pimienta. Añade los dados de ternera y deja marinar 20 min (o unas horas en la nevera). Remoja 4 brochetas de madera.",
+    "Mientras marina, pica el perejil y corta la cebolla morada en juliana fina; ponla en un bol con el zumaque, una pizca de sal y la mitad del perejil y masajéala 1 min con las manos para que se ablande.",
+    "Corta los tomates en gajos y alíñalos con la otra cda de aceite, el resto del zumo de limón y sal. Mézclalos con la cebolla justo antes de servir. Corta el pimiento verde en trozos.",
+    "Ensarta la carne alternándola con los trozos de pimiento verde, sin apretar los dados.",
     "Calienta la plancha a fuego muy fuerte y haz las brochetas 8 min en total, girándolas cada 2 min, hasta que estén doradas por fuera y rosadas dentro.",
     "Sirve las brochetas con la ensalada, el resto del perejil y la cda de yogur restante aligerada con unas gotas de limón."
   ],
@@ -901,7 +914,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 160 °C. Maja 2 ajos con la mostaza, el orégano, el zumo de 1 limón, 2 cda de aceite, sal y pimienta. Haz unos cortes en la paletilla y frótala bien con la mezcla (ideal la víspera).",
-    "Extiende dos trozos grandes de papel de horno cruzados sobre una fuente honda. Pon en el centro las patatas en gajos gruesos, la cebolla en gajos, los tomates en cuartos, los 4 ajos restantes enteros y el laurel, aliñados con la cda de aceite restante y sal.",
+    "Corta las patatas en gajos gruesos, la cebolla en gajos y los tomates en cuartos. Extiende dos trozos grandes de papel de horno cruzados sobre una fuente honda y pon en el centro las patatas, la cebolla, los tomates, los 4 ajos restantes enteros y el laurel, aliñados con la cda de aceite restante y sal.",
     "Coloca el cordero encima, vierte el vino y cierra el papel como un paquete bien sellado; cúbrelo además con papel de aluminio para que no escape el vapor.",
     "Hornea 2 h 25 min sin abrir. La carne debe separarse del hueso al tocarla con un tenedor.",
     "Abre el paquete con cuidado del vapor, desmenuza el feta sobre las patatas y sube el horno a 220 °C. Hornea destapado 15 min para dorar la carne y las patatas.",
@@ -946,11 +959,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca los filetes de la nevera 10 min antes, sécalos, úntalos con el aceite y muele pimienta por encima.",
-    "Prepara el aliño en un bol grande: zumo de las 2 limas, salsa de pescado, azúcar, el chile en rodajitas y el ajo picado muy fino. Remueve hasta disolver el azúcar.",
+    "Mientras se atemperan, prepara el aliño: corta el chile en rodajitas y pica muy fino el ajo; mézclalos en un bol grande con el zumo de las 2 limas, la salsa de pescado y el azúcar. Remueve hasta disolver el azúcar.",
     "Corta los tomates cherry por la mitad, el pepino en medias lunas finas y la cebolla morada en juliana. Deshoja el cilantro y la menta y corta la lechuga en tiras.",
-    "Calienta la plancha a fuego máximo y marca los filetes 2 min por lado: deben quedar dorados por fuera y rojos en el centro. Déjalos reposar 5 min en una tabla.",
+    "Calienta la plancha a fuego máximo y marca los filetes 2 min por lado: deben quedar dorados por fuera y rojos en el centro. Déjalos reposar 5 min en una tabla; mientras, trocea los cacahuetes.",
     "Corta la carne en láminas finas al bies, contra la fibra, y mézclala aún tibia con el aliño 2 min para que lo absorba.",
-    "Añade al bol las verduras y las hierbas, mezcla con suavidad y sirve sobre la lechuga con los cacahuetes troceados por encima."
+    "Añade al bol las verduras y las hierbas, mezcla con suavidad y sirve sobre la lechuga con los cacahuetes por encima."
   ],
   nutricion: { kcal: 400, prot: 38, hc: 14, grasa: 22 },
   etiquetas: ["rápida", "ligera", "verano", "picante", "fresca"],
@@ -991,15 +1004,16 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 160 °C. Corta la cebolla, la zanahoria y el apio en dados pequeños y pica 2 ajos. Haz 3-4 cortes en la membrana del borde de cada rodaja para que no se curve. Salpimienta y enharina ligeramente. Calienta el aceite en una cazuela apta para horno y dora las rodajas 4 min por lado. Resérvalas.",
     "Baja a fuego medio y sofríe la cebolla, la zanahoria y el apio con los ajos picados 10 min, hasta que estén blandos.",
     "Vierte el vino y deja reducir 3 min raspando el fondo. Añade el tomate, el caldo, el laurel y el tomillo. Acomoda la carne en una sola capa: el líquido debe llegar casi hasta arriba.",
     "Tapa y mete al horno 2 h, dando la vuelta a las rodajas a mitad. La carne debe despegarse del hueso al tocarla.",
-    "Mientras, cuece las patatas peladas en agua con sal 20 min, escúrrelas y aplástalas con la mantequilla, la leche caliente, sal y pimienta.",
-    "Prepara la gremolata: pica fino el perejil con el ajo restante y mézclalo con la ralladura del limón.",
+    "Mientras, pela las patatas y cuécelas en agua con sal 20 min; escúrrelas y aplástalas con la mantequilla, la leche caliente, sal y pimienta.",
+    "Mientras termina el horno, prepara la gremolata: pica fino el perejil con el ajo restante y mézclalo con la ralladura del limón.",
     "Saca la carne con cuidado. Si la salsa está clara, redúcela 5 min a fuego fuerte. Sirve el ossobuco sobre el puré, salsea y espolvorea la gremolata por encima."
   ],
   nutricion: { kcal: 580, prot: 48, hc: 42, grasa: 24 },
@@ -1043,8 +1057,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla en un bol 2 cda de yogur con 1 ajo rallado, el comino, el cilantro, el pimentón, la cúrcuma, la canela, el zumo de medio limón, el aceite, sal y pimienta. Añade las tiras de cordero y deja marinar 20 min (o toda la noche).",
-    "Prepara la salsa: mezcla el yogur restante con el otro ajo rallado, unas gotas de limón, sal y la mitad del perejil picado.",
+    "Ralla los 2 ajos. Mezcla en un bol 2 cda de yogur con 1 ajo, el comino, el cilantro, el pimentón, la cúrcuma, la canela, el zumo de medio limón, el aceite, sal y pimienta. Añade las tiras de cordero y deja marinar 20 min (o toda la noche).",
+    "Mientras marina, pica el perejil y prepara la salsa: mezcla el yogur restante con el otro ajo, unas gotas de limón, sal y la mitad del perejil.",
     "Corta la cebolla morada en juliana, los tomates en gajos finos, el pepino en bastones y la lechuga en tiras. Alíñalos con el resto del limón, sal y el perejil restante.",
     "Calienta una sartén amplia a fuego muy fuerte sin aceite. Saltea el cordero escurrido en 2 tandas, 2-3 min cada una, sin mover demasiado, hasta que esté dorado con bordes crujientes.",
     "Calienta las pitas 30 segundos por lado en la misma sartén o directamente sobre la llama.",

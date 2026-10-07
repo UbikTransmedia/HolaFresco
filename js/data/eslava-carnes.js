@@ -82,7 +82,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 500, u: "g" },
     { n: "leche", q: 80, u: "ml" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la mantequilla de hierbas: ralla el ajo y pica muy finos el eneldo y el perejil. Mézclalos con 30 g de mantequilla blanda y una pizca de sal. Forma 2 cilindros de 6 cm, envuélvelos en film y congélalos 20 minutos, hasta que estén duros.",
@@ -728,7 +729,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 80, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en plumas y el pimiento en tiras, lamina los champiñones y pica el tomate y el perejil. Corta el lomo en tiras de 1 cm y salpiméntalo. Calienta el aceite en una sartén grande con tapa a fuego fuerte y saltea la carne 3 minutos, hasta que esté dorada por fuera. Resérvala.",

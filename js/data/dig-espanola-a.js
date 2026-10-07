@@ -32,7 +32,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en rodajas de 1,5 cm; la zanahoria, en rodajas de 1 cm para que se hagan a la vez. Cuécelas al vapor (en un cestillo sobre una cazuela con agua hirviendo) 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
@@ -71,7 +72,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1.5, u: "cda" },
     { n: "vinagre de Jerez", q: 2, u: "cdta" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en láminas de 3-4 mm y el pimiento verde en tiras finas sin semillas.",
@@ -113,7 +115,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva virgen extra", q: 1.5, u: "cda" },
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "vinagre de Jerez", q: 2, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos de 4 cm y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas.",
@@ -156,7 +159,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas de 1,5 cm y cuécelas en agua con sal y el laurel 15 minutos, hasta que estén tiernas. Precalienta el horno a 220 °C con el grill.",
@@ -201,7 +205,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 100, u: "ml", nota: "casero, sin cebolla ni puerro" },
     { n: "arroz redondo", q: 120, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fino las patas y las aletas de los calamares, el huevo duro, el perejil y la cebolleta, y corta el pimiento asado en tiras. Saltea las patas y las aletas 3 minutos en una sartén con media cucharada de aceite de ajo, hasta que suelten el agua y esta se evapore.",
@@ -241,7 +246,8 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas.",
@@ -283,7 +289,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de ajo", q: 1.5, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Pela las patatas y córtalas en láminas de 3-4 mm. Lava las espinacas, quítales los tallos gruesos y pícalas groseramente. Corta los tomates en rodajas de medio centímetro.",
@@ -323,7 +330,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "judías verdes", q: 150, u: "g" },
     { n: "patata", q: 300, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas y córtalas en dados de 3 cm. Quita las puntas a las judías verdes y córtalas en trozos de 4 cm.",
@@ -364,7 +372,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva virgen extra", q: 1.5, u: "cda" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "comino molido", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 20 minutos. Mientras, precalienta el horno a 220 °C con el grill.",
@@ -447,7 +456,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "patata", q: 300, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la zanahoria en rodajas finas y pica la cebolleta. Sala el pollo. En una cazuela, calienta el aceite de ajo a fuego medio-alto y dora el pollo 5-6 minutos, hasta que esté tostado por todas las caras. Sácalo.",
@@ -492,7 +502,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y la zanahoria, córtalas en trozos (la zanahoria más pequeña) y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas.",
@@ -575,7 +586,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 2, u: "hoja" },
     { n: "caldo de carne", q: 400, u: "ml", nota: "casero, sin cebolla ni ajo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta y corta la zanahoria en rodajas gruesas. Seca la carne con papel, retira la grasa visible y salpimiéntala. En una cazuela de fondo grueso, calienta el aceite de ajo a fuego alto y dora la carne en dos tandas, 4-5 minutos cada una, hasta que tenga costra marrón. Sácala.",
@@ -616,7 +628,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 1, u: "cda" },
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela la chirivía, córtala en trozos y cuécela en agua con sal 15-18 minutos, hasta que esté muy tierna.",
@@ -660,7 +673,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 300, u: "ml", nota: "casero, sin cebolla ni ajo" },
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Ralla fino el calabacín y la zanahoria, ponlos en un paño limpio y escúrrelos con fuerza hasta que no suelten más agua.",
@@ -788,7 +802,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 250, u: "ml", nota: "casero, sin cebolla ni ajo" },
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en láminas de 3 mm. Ponlas en un recipiente apto con sal y 2 cucharadas de agua, tapa y cocínalas en el microondas 8-10 minutos a máxima potencia, removiendo a mitad, hasta que estén tiernas. Mientras, pica la cebolleta y el perejil y ralla el tomate, desechando la piel.",
@@ -831,7 +846,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva virgen extra", q: 1, u: "cdta" },
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 20 minutos. En otro cazo, cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua con hielo y pélalos.",
@@ -869,7 +885,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca las gambas con papel de cocina y córtalas por la mitad si son grandes. Bate ligeramente los huevos con una pizca de sal, pica el cebollino y pon el pan a tostar.",
@@ -952,7 +969,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "vinagre de Jerez", q: 1, u: "cda", nota: "para el agua de escalfar" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la calabaza, la zanahoria y la patata, córtalas en dados y cuécelas en el caldo 18-20 minutos, hasta que estén muy tiernas.",
@@ -996,7 +1014,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 300, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima (una sartén) y déjalo 15 minutos para que suelte el agua. Córtalo en dados de 2,5 cm.",
@@ -1040,7 +1059,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "comino molido", q: 1, u: "pizca" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 35-40 minutos, hasta que esté tierno; escúrrelo.",

@@ -22,7 +22,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 3, u: "ud", nota: "1 entero y 2 yemas" },
     { n: "queso pecorino", q: 50, u: "g", nota: "rallado fino" },
     { n: "pimienta negra", q: 1, u: "cdta", nota: "recién molida" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal (algo menos de lo habitual, porque el guanciale y el queso ya son salados). Mientras se calienta, bate en un bol el huevo entero y las 2 yemas con el pecorino y la mitad de la pimienta hasta tener una crema espesa.",
@@ -61,7 +62,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "queso pecorino", q: 30, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Mientras, en una sartén amplia con la cucharadita de aceite, dora el guanciale a fuego medio-bajo 7 minutos, hasta que suelte la grasa y esté dorado. Sácalo y reserva la mitad para el final.",
@@ -98,7 +100,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 2, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, lamina los ajos, desmenuza las guindillas y pica el perejil.",
@@ -142,7 +145,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja el pan en la leche 5 minutos y, mientras, pica la cebolla y los 3 ajos (uno de ellos muy fino, para las albóndigas). Escurre un poco el pan y, en un bol, mézclalo con las dos carnes, el huevo, la mitad del parmesano, el ajo muy picado, sal y pimienta. Amasa con las manos 1 minuto y forma albóndigas del tamaño de una nuez grande (salen unas 12).",
@@ -189,7 +193,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 40, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las carnes en dados de 3 cm y salpimiéntalas. Corta la cebolla en juliana, pela los ajos y trocea el tomate.",
@@ -233,7 +238,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "queso rallado", q: 30, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua en un cazo para los huevos y abundante agua con sal en una cazuela para las placas. Mientras se calientan, pica la cebolla fina.",
@@ -272,7 +278,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con grill.",
@@ -310,7 +317,8 @@ window.RECETAS_SEED.push({
     { n: "nueces", q: 25, u: "g" },
     { n: "parmesano", q: 15, u: "g", nota: "rallado" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Trocea las nueces y tuéstalas en una sartén seca 2 minutos, hasta que huelan. Resérvalas.",
@@ -435,7 +443,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "queso rallado", q: 30, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, pica la cebolla y el ajo.",
@@ -473,7 +482,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "queso rallado", q: 50, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C con grill y pon a hervir agua con sal. Mientras se calienta, pica la cebolla y corta las salchichas en rodajas.",
@@ -515,7 +525,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Mientras, pon los mejillones limpios en una cazuela con el vino blanco, tapa y cuece a fuego fuerte 3 minutos, hasta que se abran. Cuela y guarda el caldo; quita media concha a los mejillones.",
@@ -554,7 +565,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 30, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, pica fina la cebolla y lamina los champiñones.",
@@ -589,7 +601,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 35, u: "g", nota: "a temperatura ambiente" },
     { n: "parmesano", q: 60, u: "g", nota: "rallado muy fino" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal (menos cantidad de la habitual, unos 2 litros, para que quede más almidonada).",
@@ -631,7 +644,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 800, u: "ml" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy finos la cebolla, el apio y la zanahoria. Póchalos en la cazuela con el aceite a fuego medio-bajo 8 minutos. Mientras, pela las patatas y córtalas en dados de 1,5 cm, parte los tomates cherry y calienta el caldo en un cazo.",
@@ -669,7 +683,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, pica fina la cebolleta y el ajo.",
@@ -709,7 +724,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 80, u: "ml" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla y el ajo. En una sartén amplia con el aceite, póchalos a fuego medio-bajo 12 minutos, hasta que estén muy blandos y dorados.",
@@ -749,7 +765,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 25, u: "g" },
     { n: "cebollino fresco", q: 0.5, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "En un bol, mezcla la harina, los huevos, la leche, la nuez moscada y una pizca de sal. Bate con una cuchara de madera 3-4 minutos, hasta que la masa esté elástica y haga burbujas. Deja reposar 10 minutos y, mientras, corta las cebollas en aros finos.",
@@ -787,7 +804,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "mejorana seca", q: 0.5, u: "cdta", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta y remoja el pan en la leche 5 minutos.",
@@ -827,7 +845,8 @@ window.RECETAS_SEED.push({
     { n: "tomate triturado", q: 300, u: "g" },
     { n: "carne de pimiento choricero", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Pica la cebolla, los pimientos y el ajo. En una sartén amplia con la cucharadita de aceite, dora el chorizo a fuego medio 3 minutos, hasta que suelte su grasa roja. Sácalo y deja la grasa.",
@@ -871,7 +890,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Mezcla la ternera con el pan rallado, 1 huevo, la mitad del parmesano, sal y pimienta. Forma albondiguitas del tamaño de una avellana y dóralas en una sartén con 2 cucharadas de aceite 4 minutos. Resérvalas.",
@@ -913,7 +933,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla y sala las carnes. En una cazuela de fondo grueso con el aceite, dora la ternera, la costilla y las salchichas a fuego medio 12 minutos, hasta que estén bien tostadas por todos lados.",
@@ -1001,7 +1022,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Corta los calabacines en rodajas finas (2-3 mm). Calienta el aceite con el ajo chafado en una sartén amplia a fuego medio-fuerte.",

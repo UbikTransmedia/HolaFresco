@@ -30,7 +30,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 80, u: "ml" },
     { n: "aceite de oliva", q: 60, u: "ml" },
     { n: "patata", q: 300, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si compras el conejo entero, pide que te lo trocee o hazlo tú: separa las patas traseras cortando por la articulación de la cadera (busca el hueco con la punta del cuchillo, no fuerces el hueso), corta el lomo en 3 trozos con un golpe seco y separa las delanteras. Retira el hígado y los riñones y guárdalos para otro guiso.",
@@ -77,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 450, u: "g", nota: "harinosa" },
     { n: "leche", q: 100, u: "ml" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca el conejo con papel, salpimiéntalo y úntalo con la mostaza de Dijon. La mostaza en crudo forma una capa que se carameliza al dorar y da sabor a la salsa desde el principio. Pica las chalotas.",
@@ -167,7 +169,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "pan", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Deshuesa las patas: con un cuchillo pequeño y afilado, haz un corte a lo largo del hueso por la cara interior. Ve separando la carne pegando siempre la hoja al hueso, con cortes cortos, hasta liberar el fémur; repite con el hueso de la pierna. Guarda los huesos para un caldo.",
@@ -215,7 +218,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "patata", q: 400, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y la zanahoria en rodajas. Seca el conejo, salpimiéntalo y pásalo ligeramente por la harina, sacudiendo el exceso. Esa fina capa se tuesta al dorar y luego espesará la salsa sin grumos.",
@@ -262,7 +266,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el conejo con la mitad del yogur, la cúrcuma, 1 cucharadita de garam masala y sal. Deja marinar al menos 30 minutos (mejor 2 horas en la nevera): el ácido suave del yogur ablanda la carne sin resecarla. Mientras, pica muy fina la cebolla, ralla el ajo y el jengibre y pica el chile.",
@@ -310,7 +315,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "parmesano", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Salpimienta el conejo y dóralo en el aceite a fuego medio-alto en una cazuela 6-8 minutos, hasta que tenga color. Sácalo.",
@@ -354,7 +360,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 80, u: "ml" },
     { n: "mantequilla", q: 25, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el magret de la nevera 20 minutos antes. Con un cuchillo afilado, haz cortes en rombo en la piel cada centímetro, sin llegar a la carne: así la grasa se funde y sale, y la piel no se encoge.",
@@ -399,7 +406,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "salsa hoisin", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 160 °C. Seca muy bien los muslos con papel de cocina y pincha la piel por todas partes con la punta de un cuchillo, sin llegar a la carne. Por esos agujeros saldrá la grasa y la piel quedará crujiente.",
@@ -443,7 +451,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "caldo de pollo", q: 750, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta cada muslo de pato en dos por la articulación (busca el punto donde el cuchillo entra sin tocar hueso). Sálalos.",
@@ -489,7 +498,8 @@ window.RECETAS_SEED.push({
     { n: "cuscús", q: 140, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Salpimienta los muslos y ponlos con la piel hacia abajo en una cazuela en frío. Enciende a fuego medio y deja que la piel se dore 10-12 minutos, soltando su grasa. Mientras, corta la cebolla en juliana. Dales la vuelta 2 minutos y sácalos.",
@@ -534,7 +544,8 @@ window.RECETAS_SEED.push({
     { n: "mirin", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Retira la piel del magret: levanta una esquina y despégala tirando con una mano mientras pasas el cuchillo plano entre la piel y la carne. Corta la piel en tiras finas.",
@@ -581,7 +592,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 350, u: "g" },
     { n: "leche", q: 60, u: "ml" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Revisa las codornices: si les quedan plumillas, pásalas un segundo por la llama del fuego o retíralas con unas pinzas. Mira dentro de la cavidad y retira cualquier resto de vísceras. Sécalas bien y átales las patas con hilo de cocina para que conserven la forma y se hagan por igual. Pica la cebolla, la zanahoria y el ajo.",
@@ -671,7 +683,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "yogur natural", q: 125, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre las codornices en mariposa: ponlas con la pechuga hacia abajo y, con unas tijeras de cocina, corta a ambos lados de la columna vertebral para retirarla. Dales la vuelta y aplasta con la palma de la mano sobre la pechuga hasta oír un crujido: quedarán planas y se cocinarán de forma uniforme.",
@@ -719,7 +732,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Parte las codornices por la mitad a lo largo con unas tijeras (cortando por el esternón y por la columna). Haz 2 cortes superficiales en cada muslo y pechuga: así el adobo penetra en la carne y no se queda solo en la piel.",
@@ -806,7 +820,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla", q: 1, u: "ud" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "hierbabuena fresca", q: 4, u: "rama" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la gallina en una olla grande con 2,5 litros de agua fría. Empezar en frío hace que la carne suelte poco a poco sus proteínas y su sabor al caldo; en agua hirviendo se sellaría y daría menos.",
@@ -852,7 +867,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia la sepia en el fregadero: tira con suavidad de la cabeza para separarla del cuerpo; saldrán las vísceras. Busca entre ellas una bolsita plateada alargada (la tinta) y sepárala con cuidado sin pincharla; guárdala en un vasito para otro plato o congélala. Aparta la bolsa amarillenta (es la glándula digestiva): se tira.",
@@ -897,7 +913,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "albahaca fresca", q: 1, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "aceite de oliva", q: 1.5, u: "cda" }
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 1,25 veces su volumen de agua, tapado y a fuego mínimo, 12 minutos. Deja reposar tapado. Pon a hervir un cazo de agua para las judías.",
@@ -938,7 +955,8 @@ window.RECETAS_SEED.push({
     { n: "mayonesa", q: 2, u: "cda" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", u: "al gusto", nota: "abundante, para freír, y 1 cucharada para la ensalada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C y asa los pimientos enteros 35-40 minutos, dándoles la vuelta a mitad, hasta que la piel esté negra en zonas. Mételos en un bol tapado 10 minutos: el vapor despega la piel y se pelan solos.",
@@ -981,7 +999,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pasa la yema del dedo por el centro de cada filete, de la cabeza a la cola: notarás una fila de espinitas. Tira de cada una con unas pinzas de depilar limpias en la dirección en que apuntan, sujetando la carne con la otra mano para no romperla.",
@@ -1025,7 +1044,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Desescama las sardinas bajo un hilo de agua fría pasando el dorso del cuchillo (o el pulgar) de la cola a la cabeza; las escamas saltan con facilidad. Corta la cabeza y tira de ella hacia el vientre para sacar las tripas.",
@@ -1116,7 +1136,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre los chiles guajillo, quítales el rabo, las semillas y las venas (ahí está el amargor) y tuéstalos 20 segundos por lado en una sartén seca, hasta que huelan, sin que se quemen. Remójalos en agua caliente 15 minutos para rehidratarlos. Mientras, corta la cebolla morada muy fina y ponla en un bol con el zumo de media lima y sal: en 10 minutos pierde el picor y se vuelve rosa. Corta también la piña en dados y el pulpo en rodajas de 1 cm.",

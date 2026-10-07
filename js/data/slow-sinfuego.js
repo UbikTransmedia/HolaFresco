@@ -411,7 +411,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La noche anterior, pon los garbanzos en remojo con abundante agua.",
@@ -461,7 +462,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 2, u: "hoja" },
     { n: "arroz basmati", q: 130, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Por la mañana, pica la cebolla, el pimiento, el apio y el ajo. Haz el roux: calienta el aceite en la sartén a fuego medio-bajo, añade la harina y remueve sin parar 15-20 minutos, hasta que tenga color de chocolate con leche y huela a avellana tostada. Si ves puntos negros, se ha quemado y hay que empezar de nuevo.",
@@ -645,7 +647,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "parmesano", q: 30, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Por la mañana, pica muy finos la cebolla, la zanahoria, el apio y el ajo. Salpimienta el conejo y dóralo en la sartén con 2 cucharadas de aceite a fuego fuerte, 6-8 minutos, hasta que esté dorado por todos los lados. Pásalo a la olla lenta.",
@@ -779,7 +782,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 100, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre las habitas, pásalas con cuidado por agua fría para quitar el líquido de la conserva y déjalas escurrir sobre papel de cocina.",
@@ -988,7 +992,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "lechuga romana", q: 1, u: "ud" },
-    { n: "tortitas de arroz", q: 4, u: "ud" }
+    { n: "tortitas de arroz", q: 4, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Usa salmón que haya estado congelado al menos 5 días a -20 °C, por el anisakis. Córtalo en dados de 1 cm.",
@@ -1032,7 +1037,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sriracha", q: 1, u: "cdta" },
-    { n: "cacahuetes", q: 20, u: "g" }
+    { n: "cacahuetes", q: 20, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la salsa: mezcla la crema de cacahuete con la soja, el zumo de la lima, la sriracha y 3-4 cucharadas de agua hasta que quede como una crema ligera. Pica los cacahuetes y espárcelos por encima.",
@@ -1214,7 +1220,8 @@ window.RECETAS_SEED.push({
     { n: "remolacha cocida", q: 150, u: "g" },
     { n: "patata cocida", q: 150, u: "g", nota: "envasada, ya cocida" },
     { n: "queso rallado", q: 60, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Para el chutney verde, tritura en la batidora el cilantro con sus tallos tiernos, la menta, el chile, el jengibre, el zumo de limón, sal y 2 cucharadas de agua fría hasta obtener una pasta lisa.",
@@ -1344,7 +1351,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 1, u: "ud" },
     { n: "tostadas de maíz", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre y enjuaga los garbanzos y sécalos con un paño.",

@@ -30,7 +30,8 @@ window.RECETAS_SEED.push({
     { n: "guisantes congelados", q: 100, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo, corta el pimiento en dados y las zanahorias en rodajas gruesas. Seca la carne con papel de cocina, salpimiéntala y espolvoréala con la harina. Calienta 1 cda de aceite en la olla express destapada a fuego fuerte y dora la carne por tandas 2-3 min por lado, sin amontonarla. Resérvala.",
@@ -118,7 +119,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga las lentejas. Pica una cebolla, el ajo, la zanahoria y el pimiento en dados pequeños. Corta la otra cebolla en juliana muy fina y resérvala para el topping.",
@@ -211,7 +213,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el arroz en una cazuela con 240 ml de agua y sal, lleva a ebullición, tapa y cuece a fuego mínimo 11 min; apaga y deja reposar tapado hasta servir.",
@@ -258,7 +261,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el puerro y las zanahorias en trozos regulares y lamina el ajo. Seca las carrilladas, salpimiéntalas y pásalas por la harina sacudiendo el exceso. Calienta el aceite en la olla destapada a fuego fuerte y dóralas 2-3 min por lado hasta que tengan una costra oscura. Resérvalas.",
@@ -301,7 +305,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la calabaza en dados de 3 cm, pica la cebolla, el puerro (solo la parte blanca y verde clara) y el ajo, y corta la zanahoria y la patata peladas en rodajas.",
@@ -348,7 +353,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fino el ajo y todo el perejil, pica la cebolla y lamina los champiñones. Remoja el pan rallado con la leche en un bol 5 min. Añade la carne, el huevo, 1 diente de ajo picado, la mitad del perejil, 1 cdta de sal y pimienta. Mezcla con las manos sin amasar demasiado y forma 12 albóndigas del tamaño de una nuez grande.",
@@ -396,7 +402,8 @@ window.RECETAS_SEED.push({
     { n: "tortillas de maíz", q: 8, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el adobo: tritura o desmenuza con un tenedor la pasta de achiote con el zumo de naranja, el zumo de 1 lima, el vinagre de manzana, el ajo, el comino, 1 cdta de orégano, la canela, 1 cdta de sal y pimienta hasta obtener una salsa roja lisa.",

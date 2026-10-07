@@ -34,7 +34,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo. Pinta una bandeja de unos 25 × 30 cm (o un molde redondo de 26 cm) con 2 cucharaditas de aceite.",
@@ -78,7 +79,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 170 °C. Unta 4 flaneras individuales (o 2 grandes) con un poco de la mantequilla y pon a calentar agua para el baño maría.",
@@ -163,7 +165,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga", q: 60, u: "g" },
     { n: "tomate", q: 150, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos; mientras, despunta las judías verdes. Añádelas y cuece todo 10 minutos más, hasta que las patatas se deshagan y las judías estén muy tiernas. Mientras, precalienta el horno a 190 °C, pica las hojas de mejorana y corta el tomate en gajos. Escurre bien y deja que suelten el vapor 5 minutos.",
@@ -207,7 +210,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador hasta que el agua salga limpia y cuécela en el doble de su volumen de agua con sal, tapada y a fuego suave, 15 minutos, hasta que absorba el agua. Déjala reposar tapada 5 minutos.",
@@ -249,7 +253,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre blanco", q: 1, u: "cda", nota: "para escalfar" },
     { n: "pecorino", q: 20, u: "g", nota: "en lascas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Arranca las hojas del kale del nervio central, que es duro y fibroso, y córtalas en tiras de 2 cm. Escáldalas 4 minutos en agua hirviendo con sal y escúrrelas apretándolas un poco.",
@@ -291,7 +296,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "rúcula", q: 40, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Envuelve el tofu en un paño, ponle un peso encima (una sartén) y déjalo 10 minutos para que suelte el agua; así se dora en vez de cocerse. Mientras, machaca las semillas de hinojo en el mortero, pica muy finas la salvia y las hojas de una rama de romero y ralla la piel del limón.",
@@ -335,7 +341,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 30, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 2 cm y cuécelo al vapor (o en agua hirviendo) 10 minutos: le quita el punto amargo y lo vuelve más tierno y digestivo. Mientras, pela la patata y la zanahoria y córtalas en dados de 2 cm, y pica el verde de la cebolleta. Escurre el tempeh y sécalo.",
@@ -379,7 +386,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "pan sin gluten", q: 60, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva. Mientras, corta los tomates en gajos, sálalos en el bol y déjalos que suelten su jugo, que será parte del aliño. Enfría los huevos en agua fría y pélalos.",
@@ -418,7 +426,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pan sin gluten", q: 60, u: "g" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si el arenque es muy salado, ponlo 10 minutos en un bol con agua fría. Mientras, pela las naranjas a lo vivo: corta las tapas, apóyalas en la tabla y retira piel y parte blanca con el cuchillo siguiendo su curva. Córtalas en rodajas finas sobre un plato para recoger el zumo.",
@@ -506,7 +515,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 20, u: "g", nota: "en lascas" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas nuevas, pártelas por la mitad y cuécelas en agua con sal 15 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas.",
@@ -628,7 +638,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "mantequilla", q: 20, u: "g" },
     { n: "salvia fresca", q: 10, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en dados de 3 cm, ponla en una bandeja con papel, tápala con papel de aluminio y ásala 30–35 minutos, hasta que esté muy tierna. Asarla en seco, sin agua, es la clave: cuanta menos humedad, menos harina pedirá la masa.",
@@ -670,7 +681,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua abundante con sal y cuece los penne el tiempo del envase menos 1 minuto. La pasta sin gluten se pasa enseguida: pruébala antes de escurrir y guarda un vaso del agua de cocción.",
@@ -714,7 +726,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado sin gluten", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "pecorino", q: 15, u: "g", nota: "rallado" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta el pan rallado con 1 cucharadita de aceite de oliva en una sartén a fuego medio 3–4 minutos, removiendo, hasta que esté dorado y huela a tostado. Resérvalo en un plato.",
@@ -756,7 +769,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g", nota: "rallado" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava muy bien la quinoa en un colador fino bajo el grifo hasta que el agua salga sin espuma. Calienta el caldo y pica el verde de la cebolleta.",
@@ -842,7 +856,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "caldo de carne casero", q: 900, u: "ml", nota: "sin cebolla, ajo ni apio" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Separa con cuidado 12 hojas grandes de la lechuga, sin romperlas. Escáldalas por tandas 10 segundos en agua hirviendo con sal, solo hasta que se ablanden, pásalas a agua fría y extiéndelas sobre un paño para que se sequen. Recorta un poco el nervio de la base si es grueso.",
@@ -971,7 +986,8 @@ window.RECETAS_SEED.push({
     { n: "canela", q: 1, u: "pizca" },
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta las hojas de col en tiras de 1 cm y cuécelas en agua con sal 8-10 minutos, hasta que estén muy tiernas. Escúrrelas bien.",
@@ -1012,7 +1028,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "parmesano", q: 40, u: "g", nota: "rallado grueso" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Asa el pimiento entero 30 minutos, dándole la vuelta a mitad, hasta que la piel esté arrugada y con manchas oscuras.",

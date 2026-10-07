@@ -33,7 +33,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 40, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Empieza por el ragú. Pica finos la cebolla, la zanahoria, el apio y el ajo. Seca y salpimienta la ternera. Dórala en una cazuela con 1 cucharada de aceite a fuego fuerte en 2 tandas, 4-5 minutos por tanda, hasta que esté bien tostada. Resérvala.",
@@ -78,7 +79,8 @@ window.RECETAS_SEED.push({
     { n: "romero fresco", q: 1, u: "rama" },
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las alcachofas quitando las hojas exteriores duras, corta la punta, pela el tallo y pártelas en cuartos. Mételas en agua con el zumo de medio limón. Calienta el caldo con la rama de romero y pica el ajo.",
@@ -126,13 +128,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Haz el fumet: en una cazuela con 1 cucharada de aceite dora las espinas y cabezas 3 minutos, añade la cebolla troceada, el tomate troceado, 1 ñora sin pepitas y el laurel. Cubre con el agua, lleva a ebullición, espuma y cuece 30 minutos a fuego suave. Cuela y mide: necesitas unos 500 ml.",
-    "Mientras, prepara el alioli mezclando la mayonesa con 1 ajo rallado y unas gotas de limón. Remoja la otra ñora en agua caliente 15 minutos y raspa su carne con un cuchillo. Pica los 4 ajos y ralla el otro tomate.",
+    "Haz el fumet: trocea la cebolla. En una cazuela con 1 cucharada de aceite dora las espinas y cabezas 3 minutos, añade la cebolla, el tomate troceado, 1 ñora sin pepitas y el laurel. Cubre con el agua, lleva a ebullición, espuma y cuece 30 minutos a fuego suave. Cuela y mide: necesitas unos 500 ml.",
+    "Mientras, prepara el alioli: ralla 1 ajo y mézclalo con la mayonesa y unas gotas de limón. Remoja la otra ñora en agua caliente 15 minutos y raspa su carne con un cuchillo. Pica los 4 ajos, ralla el otro tomate y corta el resto del limón en gajos.",
     "Infusiona el azafrán en el fumet caliente. Salpimienta el rape.",
     "En una paella o sartén amplia, calienta el resto del aceite a fuego medio y sofríe los 4 ajos 1 minuto. Añade el tomate rallado y la carne de la ñora y cocina 4-5 minutos hasta que oscurezca. Agrega el pimentón, remueve 20 segundos.",
     "Echa el arroz, remueve 1 minuto, vierte 500 ml de fumet caliente, rectifica de sal y cuece a fuego fuerte 8 minutos sin remover.",
     "Reparte los medallones de rape sobre el arroz, baja a fuego medio-bajo y cuece 9-10 minutos más hasta que el caldo se absorba y el rape esté blanco y firme.",
-    "Apaga, cubre con un paño y deja reposar 5 minutos. Sirve con el alioli y gajos de limón."
+    "Apaga, cubre con un paño y deja reposar 5 minutos. Sirve con el alioli y los gajos de limón."
   ],
   nutricion: { kcal: 680, prot: 36, hc: 71, grasa: 29 },
   etiquetas: ["tradicional", "fin de semana", "una sola sartén", "sin gluten", "poco especiada"],
@@ -165,7 +167,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una cazuela grande con agua y sal. Tuesta el pan rallado en una sartén seca a fuego medio 3-4 minutos, removiendo, hasta que esté dorado; mézclalo con la ralladura de limón y resérvalo en un plato. Lamina el ajo.",
@@ -212,7 +215,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Mezcla los dados de berenjena con 1 cucharada de aceite, sal y la mitad del pimentón y ásalos en una bandeja 20-25 minutos, hasta que estén dorados y blandos por dentro.",
@@ -253,7 +257,8 @@ window.RECETAS_SEED.push({
     { n: "gochujang", q: 1, u: "cda", opcional: true, nota: "pasta de chile coreana" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 1, u: "cda", nota: "suave" }
+    { n: "aceite de oliva", q: 1, u: "cda", nota: "suave" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el kimchi en trozos de 1 cm reservando su jugo. Corta la cebolleta en rodajas separando lo blanco de lo verde y pica el ajo.",
@@ -297,7 +302,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Pon las pasas en remojo en agua templada y pica la cebolla, el ajo y el perejil. Tuesta los piñones en una sartén seca 2 minutos y resérvalos; en la misma sartén tuesta el pan rallado 3 minutos hasta que dore y resérvalo aparte.",
@@ -346,11 +352,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el cuscús en un bol grande con una pizca de sal y el comino, vierte el agua hirviendo, tapa con un plato y deja 5 minutos. Suéltalo con un tenedor y deja que se enfríe un poco.",
-    "Mientras, corta el pepino en dados pequeños (quita las pepitas si tiene muchas), los tomates en dados y la cebolleta en rodajas finas. Escurre y enjuaga los garbanzos.",
+    "Mientras, corta la cebolleta en rodajas finas y el pepino en dados pequeños (quita las pepitas si tiene muchas), y los tomates en dados. Escurre y enjuaga los garbanzos.",
     "Pica el perejil y la menta finos, pero sin convertirlos en puré: en un tabulé la hierba es protagonista, no adorno.",
     "Prepara el aliño en un vaso: el zumo del limón y medio, el aceite, el pimentón, sal y pimienta. Bate con un tenedor.",
     "Mezcla el cuscús con los garbanzos, las verduras, las hierbas y el aliño. Prueba: debe estar claramente ácido y fresco; añade más limón o sal si hace falta.",
-    "Deja reposar 5 minutos para que el cuscús absorba el aliño y sirve con los granos de granada por encima."
+    "Deja reposar 5 minutos para que el cuscús absorba el aliño; mientras, desgrana la granada. Sirve con los granos de granada por encima."
   ],
   nutricion: { kcal: 470, prot: 18, hc: 71, grasa: 14 },
   etiquetas: ["sin cocción", "rápida", "ligera", "verano", "vegana", "ideal para llevar", "económica", "detox", "poco especiada", "bajo en colesterol"],
@@ -386,7 +392,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una cazuela grande con agua y sal. Cuece el boniato en ella 10 minutos hasta que esté blando; sácalo con una espumadera al vaso de la batidora. En la misma agua cuece los macarrones 2 minutos menos de lo que indique el paquete y escurre.",
@@ -431,14 +438,15 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga la quinoa bajo el grifo 1 minuto y cuécela en 240 ml de agua con sal: lleva a ebullición, baja al mínimo, tapa y cuece 13 minutos. Apaga, deja reposar 5 minutos tapada y extiéndela en una bandeja para que se enfríe rápido.",
-    "Mientras, corta el pepino en medias lunas finas, los rábanos en rodajas, la cebolla morada en juliana muy fina (déjala 5 minutos en agua fría para suavizarla) y el aguacate en dados.",
+    "Mientras, corta el pepino en medias lunas finas, los rábanos en rodajas y la cebolla morada en juliana muy fina (déjala 5 minutos en agua fría para suavizarla), y pica el eneldo.",
     "Prepara la crema: mezcla el yogur con la mostaza, el zumo de medio limón, la mitad del eneldo picado, sal y pimienta.",
     "Aliña la quinoa templada con el aceite, el zumo del otro medio limón, su ralladura, sal y pimienta. Añade el pepino, los rábanos, la cebolla escurrida, las alcaparras y el resto del eneldo.",
-    "Reparte en platos sobre un lecho de canónigos, coloca encima las tiras de salmón ahumado y el aguacate y termina con cucharadas de la crema de yogur y pimienta."
+    "Reparte en platos sobre un lecho de canónigos y coloca encima las tiras de salmón ahumado. Corta el aguacate en dados, repártelo por encima y termina con cucharadas de la crema de yogur y pimienta."
   ],
   nutricion: { kcal: 470, prot: 26, hc: 45, grasa: 21 },
   etiquetas: ["rápida", "ligera", "verano", "sin gluten", "ideal para llevar", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -474,15 +482,16 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
-    { n: "cilantro fresco", q: 0.5, u: "manojo" }
+    { n: "cilantro fresco", q: 0.5, u: "manojo" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el caldo en una cazuela con el jengibre en láminas, el ajo aplastado y lo blanco de la cebolleta. Lleva a ebullición y cuece 8 minutos a fuego medio para que se perfume.",
-    "Mientras, separa las hojas del pak choi y corta los tallos en trozos de 3 cm. Pon los fideos de arroz en un bol y cúbrelos con agua hirviendo 3-4 minutos (o según el paquete); escurre.",
+    "Mientras, separa las hojas del pak choi y corta los tallos en trozos de 3 cm. Corta en rodajas lo verde de la cebolleta y el chile, deshoja el cilantro y corta media lima en gajos. Pon los fideos de arroz en un bol y cúbrelos con agua hirviendo 3-4 minutos (o según el paquete); escurre.",
     "Añade al caldo la soja, los champiñones y los tallos de pak choi y cuece 3 minutos. Agrega el tofu y las hojas de pak choi y cuece 2 minutos más, justo hasta que las hojas se bajen.",
-    "Apaga el fuego. Disuelve el miso en un cacillo de caldo caliente y devuélvelo a la cazuela (si hierve pierde aroma). Añade el aceite de sésamo y el zumo de media lima. Prueba y ajusta de soja.",
+    "Apaga el fuego. Disuelve el miso en un cacillo de caldo caliente y devuélvelo a la cazuela (si hierve pierde aroma). Añade el aceite de sésamo y el zumo de la otra media lima. Prueba y ajusta de soja.",
     "Reparte los fideos en dos boles hondos, vierte encima el caldo con el tofu y las verduras (retira las láminas de jengibre si quieres).",
-    "Termina con lo verde de la cebolleta en rodajas, cilantro, chile en rodajas y gajos de lima."
+    "Termina con lo verde de la cebolleta, el cilantro, el chile y los gajos de lima."
   ],
   nutricion: { kcal: 430, prot: 23, hc: 62, grasa: 11 },
   etiquetas: ["rápida", "ligera", "vegana", "de cuchara", "invierno", "sin gluten", "económica", "detox", "superalimentos", "bajo en colesterol"],
@@ -516,7 +525,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una cazuela grande con agua y sal. Mientras se calienta, lamina el ajo, parte los cherry por la mitad y pica el perejil. Cuando hierva, cuece los espaguetis el tiempo del paquete menos 1 minuto. Reserva un vaso del agua de cocción antes de escurrir.",
@@ -607,14 +617,15 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga el farro y cuécelo en abundante agua con sal 25-30 minutos (perlado), hasta que esté tierno pero con un punto de mordida. Escúrrelo y déjalo templar en un bol.",
-    "Mientras, pela la naranja a lo vivo con un cuchillo y saca los gajos sin piel; exprime el resto de la pulpa para obtener el zumo. Corta la cebolla morada en juliana fina y déjala 5 minutos en el vinagre con una pizca de sal.",
+    "Mientras, pela la naranja a lo vivo con un cuchillo y saca los gajos sin piel; exprime el resto de la pulpa para obtener el zumo. Corta la cebolla morada en juliana fina y déjala 5 minutos en el vinagre con una pizca de sal. Corta la menta en tiras.",
     "Prepara el aliño: mezcla el vinagre con la cebolla, el zumo de naranja reservado, el aceite, el comino, sal y pimienta.",
     "Aliña el farro aún tibio: absorbe mejor el sabor. Añade la remolacha en gajos y mezcla con suavidad (teñirá un poco el grano, es normal).",
-    "Incorpora la rúcula y los gajos de naranja y reparte en platos. Desmenuza el feta por encima y termina con los pistachos y la menta en tiras."
+    "Incorpora la rúcula y los gajos de naranja y reparte en platos. Desmenuza el feta por encima y termina con los pistachos y la menta."
   ],
   nutricion: { kcal: 465, prot: 17, hc: 60, grasa: 18 },
   etiquetas: ["ligera", "vegetariana", "ideal para llevar", "otoño", "invierno", "superalimentos", "poco especiada"],
@@ -658,9 +669,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Tuesta el mijo en una cazuela seca a fuego medio 2-3 minutos, removiendo, hasta que huela a frutos secos. Añade el agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos. Apaga y deja reposar tapado 5 minutos; suéltalo con un tenedor.",
     "Mientras, pica la cebolla, ralla el ajo y el jengibre y pocha la cebolla con el aceite en otra cazuela a fuego medio 6 minutos. Añade el ajo y el jengibre, el curry, la cúrcuma y el comino y remueve 1 minuto para que las especias se tuesten.",
-    "Agrega el tomate triturado y cocina 5 minutos hasta que espese y oscurezca. Incorpora los garbanzos escurridos y la leche de coco y cuece 8 minutos a fuego suave, aplastando unos cuantos garbanzos con la cuchara para que la salsa ligue.",
-    "Añade las espinacas en tandas y deja que se bajen 2-3 minutos. Termina con el garam masala, el zumo de media lima y sal al gusto.",
-    "Sirve el mijo en la base y el curry encima, con cilantro picado y gajos de lima."
+    "Agrega el tomate triturado y cocina 5 minutos hasta que espese y oscurezca. Incorpora los garbanzos escurridos y la leche de coco y cuece 8 minutos a fuego suave, aplastando unos cuantos garbanzos con la cuchara para que la salsa ligue. Mientras, pica el cilantro y corta media lima en gajos.",
+    "Añade las espinacas en tandas y deja que se bajen 2-3 minutos. Termina con el garam masala, el zumo de la otra media lima y sal al gusto.",
+    "Sirve el mijo en la base y el curry encima, con el cilantro picado y los gajos de lima."
   ],
   nutricion: { kcal: 620, prot: 24, hc: 83, grasa: 22 },
   etiquetas: ["vegana", "sin gluten", "económica", "batch cooking", "de cuchara", "especiado", "superalimentos"],
@@ -709,9 +720,9 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una cazuela ancha a fuego medio-alto y dora el chorizo 2-3 minutos hasta que suelte su grasa roja. Sácalo a un plato. Dora el pollo en esa grasa 5-6 minutos y resérvalo con el chorizo.",
     "Baja a fuego medio y sofríe la cebolla, el pimiento verde y el apio 8 minutos, hasta que estén blandos. Añade el ajo y el resto de las especias y remueve 1 minuto.",
     "Agrega el tomate triturado y cocina 3 minutos. Echa el arroz y remueve 1 minuto para que se impregne.",
-    "Devuelve el pollo y el chorizo, añade el caldo caliente y el laurel, rectifica de sal y lleva a ebullición. Tapa y cuece a fuego mínimo 15 minutos sin remover.",
+    "Devuelve el pollo y el chorizo, añade el caldo caliente y el laurel, rectifica de sal y lleva a ebullición. Tapa y cuece a fuego mínimo 15 minutos sin remover. Mientras, corta la cebolleta en rodajas y pica el perejil.",
     "Reparte las gambas por encima, tapa de nuevo y cuece 4-5 minutos más hasta que estén rosadas y el líquido se haya absorbido. Apaga y deja reposar tapado 5 minutos.",
-    "Retira el laurel, mezcla con suavidad y sirve con la cebolleta en rodajas y el perejil picado."
+    "Retira el laurel, mezcla con suavidad y sirve con la cebolleta y el perejil."
   ],
   nutricion: { kcal: 820, prot: 56, hc: 78, grasa: 31 },
   etiquetas: ["picante", "una sola cazuela", "fin de semana", "alta en proteína", "invierno"],
@@ -754,7 +765,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Haz un risotto sencillo: calienta el caldo en un cazo y mantenlo a fuego mínimo. Pica la cebolla muy fina y póchala con media cucharada de aceite 4 minutos, añade el arroz, nacáralo 1 minuto y ve añadiendo el caldo caliente cazo a cazo removiendo 16-17 minutos. A los 12 minutos incorpora los guisantes. Debe quedar más seco de lo normal. Fuera del fuego, añade el parmesano, sal y pimienta.",
     "Extiende el risotto en una bandeja y deja que se enfríe del todo (20 minutos; en la nevera, 10). Frío es cuando se puede moldear.",
-    "Mientras enfría, precalienta el horno a 220 °C y haz la salsa: calienta media cucharada de aceite con el ajo laminado a fuego bajo 2 minutos, añade el tomate triturado, sal y pimienta y cocina 15 minutos a fuego suave. Al final, albahaca troceada.",
+    "Mientras enfría, precalienta el horno a 220 °C, lamina el ajo, bate el huevo en un plato hondo y haz la salsa: calienta media cucharada de aceite con el ajo a fuego bajo 2 minutos, añade el tomate triturado, sal y pimienta y cocina 15 minutos a fuego suave. Al final, trocea la albahaca y añádela.",
     "Con las manos húmedas, forma 6 bolas con el arroz frío; hunde un dado de mozzarella en el centro de cada una y ciérralas bien.",
     "Pasa cada bola por el huevo batido y luego por el pan rallado. Colócalas en una bandeja con papel de horno y riégalas con el resto del aceite.",
     "Hornea 20-25 minutos, girándolas a mitad, hasta que estén doradas y crujientes por fuera y el queso se haya fundido.",
@@ -797,13 +808,14 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda", nota: "suave" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga clara y cuécelo con 220 ml de agua y una pizca de sal: hierve, tapa, fuego mínimo 12 minutos y reposo tapado 10 minutos.",
-    "Marina la ternera picada con 2 cucharadas de soja, 1 ajo rallado, el azúcar y 1 cucharadita de aceite de sésamo. Prepara la salsa mezclando el gochujang con el vinagre de arroz, 1 cucharadita de aceite de sésamo y 1 cucharada de agua.",
+    "Lava el arroz hasta que el agua salga clara y cuécelo con 220 ml de agua y una pizca de sal: hierve, tapa, fuego mínimo 12 minutos y reposo tapado 10 minutos. Mientras se cuece, ralla 1 ajo y pica otro ajo.",
+    "Marina la ternera picada con 2 cucharadas de soja, el ajo rallado, el azúcar y 1 cucharadita de aceite de sésamo. Prepara la salsa mezclando el gochujang con el vinagre de arroz, 1 cucharadita de aceite de sésamo y 1 cucharada de agua.",
     "Las verduras se saltean por separado, cada una 1-2 minutos en la misma sartén con unas gotas de aceite y una pizca de sal, y se van reservando en montoncitos: primero la zanahoria, luego el calabacín, luego los champiñones (3 minutos, hasta dorar) y los brotes de soja (1 minuto).",
-    "Saltea las espinacas con 1 ajo picado 1 minuto hasta que se bajen, escúrrelas y alíñalas con el resto de la soja y unas gotas de aceite de sésamo.",
+    "Saltea el ajo picado y las espinacas 1 minuto hasta que se bajen, escúrrelas y alíñalas con el resto de la soja y unas gotas de aceite de sésamo.",
     "Sube el fuego, añade el resto del aceite y saltea la ternera marinada 4-5 minutos deshaciendo los grumos hasta que esté dorada y sin líquido. Resérvala.",
     "Fríe los huevos a fuego medio con la yema líquida.",
     "Monta cada bowl con el arroz caliente en la base y las verduras y la carne dispuestas en montones alrededor, el huevo en el centro, sésamo por encima y la salsa de gochujang aparte. Se mezcla todo en la mesa antes de comer."
@@ -898,10 +910,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el bulgur fino en un bol con una pizca de sal, cúbrelo con el agua hirviendo, tapa con un plato y deja 10 minutos. Suéltalo con un tenedor y añade el zumo del medio limón.",
-    "Mientras, pica la cebolla y el ajo y pocha la cebolla con el aceite en una sartén grande con tapa a fuego medio 5 minutos. Añade el ajo, el comino, el pimentón y la cayena y remueve 1 minuto.",
+    "Mientras, pica la cebolla, el ajo y el eneldo y pocha la cebolla con el aceite en una sartén grande con tapa a fuego medio 5 minutos. Añade el ajo, el comino, el pimentón y la cayena y remueve 1 minuto.",
     "Agrega el tomate en dados y cocina 3 minutos hasta que se ablande. Incorpora las espinacas en tandas y deja que se bajen 2-3 minutos. Salpimienta.",
     "Haz 3 huecos en las verduras con la cuchara, casca un huevo en cada uno, salpimienta, tapa y cuece a fuego medio-bajo 4-5 minutos hasta que la clara cuaje y la yema siga líquida.",
-    "Sirve el bulgur en platos, encima las verduras con los huevos (uno y medio por persona), el feta desmenuzado, el eneldo picado y pimienta."
+    "Sirve el bulgur en platos, encima las verduras con los huevos (uno y medio por persona), el feta desmenuzado, el eneldo y pimienta."
   ],
   nutricion: { kcal: 465, prot: 25, hc: 52, grasa: 18 },
   etiquetas: ["rápida", "ligera", "vegetariana", "económica", "una sola sartén"],
@@ -946,12 +958,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta la cebolla y el jengibre con la cara cortada hacia abajo en una sartén seca a fuego fuerte 5-6 minutos, hasta que estén bien chamuscados: es lo que da al caldo su color y aroma. Tuesta también 1 minuto las especias (anís, canela, clavo, cardamomo) en la misma sartén.",
-    "Pon la ternera en una cazuela grande con el caldo y el agua, lleva a ebullición y espuma bien los primeros 5 minutos. Añade la cebolla, el jengibre y las especias, baja a fuego mínimo (un hervor apenas perceptible) y cuece destapado 2 horas, hasta que la carne esté muy tierna.",
+    "Tuesta la cebolla y el jengibre en una sartén seca, con el corte hacia abajo, a fuego fuerte 5-6 minutos, hasta que estén bien chamuscados: es lo que da al caldo su color y aroma. Tuesta también 1 minuto las especias (anís, canela, clavo, cardamomo) en la misma sartén.",
+    "Pon la ternera en una cazuela grande con el caldo y el agua, lleva a ebullición y espuma bien los primeros 5 minutos. Añade la cebolla, el jengibre y las especias, baja a fuego mínimo (un hervor apenas perceptible) y cuece destapado 2 horas, hasta que la carne esté muy tierna. En los últimos 15 minutos, corta la cebolleta en rodajas finas y el chile en rodajas, deshoja la albahaca y el cilantro y corta la lima en gajos.",
     "Saca la carne y déjala templar 10 minutos. Cuela el caldo, desgrásalo si hace falta y sazónalo con la salsa de pescado, el azúcar y sal: debe quedar sabroso y limpio. Mantenlo muy caliente.",
     "Mientras, remoja o cuece los fideos de arroz según el paquete (unos 5 minutos en agua hirviendo), escúrrelos y repártelos en 2 boles grandes.",
-    "Corta la carne en lonchas finas a contrafibra y colócala sobre los fideos con los brotes de soja y la cebolleta en rodajas finas.",
-    "Vierte el caldo hirviendo por encima (debe cubrir todo) y sirve con las hierbas, el chile en rodajas, gajos de lima y sriracha para que cada uno termine su bol."
+    "Corta la carne en lonchas finas a contrafibra y colócala sobre los fideos con los brotes de soja y la cebolleta.",
+    "Vierte el caldo hirviendo por encima (debe cubrir todo) y sirve con las hierbas, el chile, los gajos de lima y sriracha para que cada uno termine su bol."
   ],
   nutricion: { kcal: 550, prot: 43, hc: 64, grasa: 14 },
   etiquetas: ["de cuchara", "fin de semana", "invierno", "sin gluten", "alta en proteína"],
@@ -984,15 +996,16 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimienta negra", u: "al gusto", nota: "mucha, recién molida" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece los penne según el paquete. Reserva un vaso del agua de cocción antes de escurrir.",
-    "Bate en un bol los 2 huevos y la yema con el parmesano, la ralladura de limón y mucha pimienta negra. Reserva.",
-    "Seca bien los corazones de alcachofa. Calienta el aceite en una sartén amplia a fuego fuerte y dóralos 5-6 minutos sin moverlos mucho, hasta que estén tostados. Añade el ajo picado y las tiras de jamón y saltea 1 minuto más, justo hasta que el jamón cambie de color. Apaga el fuego.",
+    "Mientras se cuece, pica el ajo y el perejil. Bate en un bol los 2 huevos y la yema con el parmesano, la ralladura de limón y mucha pimienta negra. Reserva.",
+    "Seca bien los corazones de alcachofa. Calienta el aceite en una sartén amplia a fuego fuerte y dóralos 5-6 minutos sin moverlos mucho, hasta que estén tostados. Añade el ajo y las tiras de jamón y saltea 1 minuto más, justo hasta que el jamón cambie de color. Apaga el fuego.",
     "Añade la pasta escurrida a la sartén apagada y mezcla 30 segundos para que baje un poco la temperatura.",
     "Vierte la crema de huevo y remueve con energía, añadiendo agua de cocción a cucharadas, hasta que forme una salsa cremosa que cubra los penne. El calor residual la cuaja sin que llegue a hacerse huevo revuelto.",
-    "Sirve enseguida con perejil picado, más pimienta y, si quieres, un poco más de parmesano. Prueba antes de salar: el jamón y el queso ya aportan."
+    "Sirve enseguida con el perejil picado, más pimienta y, si quieres, un poco más de parmesano. Prueba antes de salar: el jamón y el queso ya aportan."
   ],
   nutricion: { kcal: 620, prot: 40, hc: 62, grasa: 24 },
   etiquetas: ["rápida", "alta en proteína", "sin nata", "una sola sartén", "poco especiada"],
@@ -1031,16 +1044,17 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Machaca el azafrán con una pizca de sal en un mortero y disuélvelo en 3 cucharadas de agua caliente. Lava el arroz hasta que el agua salga clara y déjalo en remojo 30 minutos en agua con sal.",
-    "Mientras, salpimienta el pollo y mézclalo con la cúrcuma, la canela, el ajo rallado y la mitad del agua de azafrán. Pon a hervir abundante agua con sal para el arroz. Pocha la cebolla picada con el aceite en una sartén a fuego medio 8 minutos; sube el fuego, añade el pollo y dóralo 8-10 minutos hasta que esté hecho. Añade los arándanos y resérvalo.",
+    "Mientras, pica la cebolla y ralla el ajo. Salpimienta el pollo y mézclalo con la cúrcuma, la canela, el ajo y la mitad del agua de azafrán. Pon a hervir abundante agua con sal para el arroz. Pocha la cebolla con el aceite en una sartén a fuego medio 8 minutos; sube el fuego, añade el pollo y dóralo 8-10 minutos hasta que esté hecho. Añade los arándanos y resérvalo.",
     "Escurre el arroz y cuécelo en el agua hirviendo con las vainas de cardamomo abiertas 5-6 minutos: debe quedar tierno por fuera y duro en el centro. Escúrrelo y aclara con agua tibia.",
     "Funde la mantequilla en una cazuela antiadherente de fondo grueso a fuego medio con 1 cucharada del agua de azafrán. Extiende una capa fina de arroz en el fondo y presiónala: será el tahdig, la costra crujiente.",
     "Añade el resto del arroz en forma de montaña alternando con el pollo y la cebolla, y riega con el agua de azafrán restante. Haz 4 agujeros con el mango de una cuchara hasta el fondo para que salga el vapor.",
-    "Envuelve la tapa en un paño limpio, tapa bien y cuece 3 minutos a fuego medio-alto y después 35-40 minutos a fuego mínimo, sin destapar. Mezcla el yogur con el eneldo picado, el zumo de medio limón y sal.",
-    "Destapa, suelta el arroz de arriba con un tenedor en una fuente, despega el tahdig del fondo y colócalo encima a trozos. Sirve con los pistachos, gajos de limón y el yogur al eneldo."
+    "Envuelve la tapa en un paño limpio, tapa bien y cuece 3 minutos a fuego medio-alto y después 35-40 minutos a fuego mínimo, sin destapar. Mientras, pica el eneldo y mézclalo con el yogur, el zumo de medio limón y sal; corta el otro medio limón en gajos.",
+    "Destapa, suelta el arroz de arriba con un tenedor en una fuente, despega el tahdig del fondo y colócalo encima a trozos. Sirve con los pistachos, los gajos de limón y el yogur al eneldo."
   ],
   nutricion: { kcal: 780, prot: 38, hc: 82, grasa: 33 },
   etiquetas: ["fin de semana", "especiado", "festivo", "sin gluten", "sin verduras", "poco especiada"],
@@ -1121,7 +1135,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud", nota: "ralladura" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Mezcla la calabaza con el aceite y sal y ásala 30 minutos hasta que esté muy tierna y dorada en los bordes. Aplástala con un tenedor y déjala escurrir y enfriar en un colador 10 minutos: el relleno debe quedar seco.",

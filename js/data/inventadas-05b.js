@@ -37,8 +37,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla en un bol la harina, la levadura, el azúcar y la sal. Añade el agua tibia y una cucharada de aceite y remueve con una cuchara 2 minutos, hasta tener una masa pegajosa y sin grumos: no hace falta amasar.",
     "Tapa y deja fermentar 60 minutos. Con la mano mojada, estira la masa desde un lado y pliégala sobre sí misma; gira el bol y repite cuatro veces. Tapa y deja 45 minutos más, hasta que esté llena de burbujas.",
-    "Mientras, limpia y trocea las setas. Saltéalas a fuego fuerte con una cucharadita de aceite 5-6 minutos, hasta que doren y pierdan el agua; añade el ajo picado, las hojas de tomillo, sal y pimienta el último minuto. Reserva: crudas soltarían agua y empaparían la masa.",
-    "Unta generosamente con el aceite restante una bandeja de horno de unos 30x40 cm. Vuelca la masa, déjala reposar 10 minutos y estírala con las yemas de los dedos aceitadas hasta cubrir la bandeja. Deja reposar otros 20 minutos; mientras, precalienta el horno a 250 °C con la rejilla en la parte baja y escurre y trocea la mozzarella.",
+    "Mientras, limpia y trocea las setas y pica el ajo. Saltea las setas a fuego fuerte con una cucharadita de aceite 5-6 minutos, hasta que doren y pierdan el agua; añade el ajo, las hojas de tomillo, sal y pimienta el último minuto. Reserva: crudas soltarían agua y empaparían la masa.",
+    "Unta generosamente con el aceite restante una bandeja de horno de unos 30x40 cm. Vuelca la masa, déjala reposar 10 minutos y estírala con las yemas de los dedos aceitadas hasta cubrir la bandeja. Deja reposar otros 20 minutos; mientras, precalienta el horno a 250 °C con la rejilla en la parte baja, escurre y trocea la mozzarella y ralla el parmesano.",
     "Reparte la mozzarella sobre la masa, encima las setas y el parmesano rallado.",
     "Hornea 15-18 minutos en la parte baja, hasta que la base esté dorada y crujiente (levántala con una espátula para comprobarlo) y el queso tenga manchas tostadas.",
     "Fuera del horno riega con el aceite de trufa, añade la rúcula y pimienta, corta en rectángulos y sirve."
@@ -134,7 +134,7 @@ window.RECETAS_SEED.push({
     "Lava las espinacas y escáldalas 1 minuto en agua hirviendo con sal. Escúrrelas, refréscalas bajo el grifo y apriétalas. Tritúralas con el chile y dos cucharadas de agua hasta tener un puré grueso, no fino.",
     "Corta el paneer en dados de 2 cm y dóralo en una sartén antiadherente con el aceite a fuego medio-alto 4-5 minutos, girándolo, hasta que tenga las caras doradas. Reserva.",
     "En una cazuela funde la mitad de la mantequilla, sofríe la cebolla picada 6 minutos, añade el ajo y el jengibre rallados, el comino y la cúrcuma y remueve 1 minuto. Agrega el tomate rallado y cocina 4 minutos hasta que se seque.",
-    "Incorpora el puré de espinacas, sal y 100 ml de agua y cuece 8 minutos a fuego medio-bajo. Añade la nata, el garam masala y el paneer y cocina 3 minutos más. Prueba de sal.",
+    "Incorpora el puré de espinacas, sal y 100 ml de agua y cuece 8 minutos a fuego medio-bajo; mientras, pica el cilantro. Añade la nata, el garam masala y el paneer y cocina 3 minutos más. Prueba de sal.",
     "Divide la masa en 4 bolas y estíralas con rodillo en óvalos de 3 mm. Calienta una sartén de fondo grueso a fuego fuerte sin aceite y cocina cada naan 1-2 minutos por lado, hasta que se hinche y tenga manchas tostadas. Píntalos con la mantequilla restante fundida.",
     "Sirve el saag paneer en platos hondos con el cilantro picado y los naan calientes para mojar."
   ],
@@ -171,16 +171,17 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para escalfar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara un bol con agua y el zumo de medio limón. Limpia las alcachofas: retira las hojas exteriores duras hasta llegar a las amarillas, pela el tallo, corta la punta y pártelas por la mitad; quita la pelusa central si la tienen y sumérgelas en el agua con limón para que no ennegrezcan.",
     "Escúrrelas y sécalas. Ponlas en un cazo pequeño donde queden ajustadas, con los ajos enteros aplastados, el tomillo, el laurel y el aceite: debe cubrirlas casi del todo.",
-    "Calienta a fuego muy suave hasta que el aceite apenas burbujee (80-90 °C) y confita 25-30 minutos, hasta que un cuchillo entre sin resistencia. Mientras, pon al fuego una cazuela con agua y el vinagre para escalfar y pica el perejil. Saca las alcachofas con espumadera a papel de cocina y sálalas.",
+    "Calienta a fuego muy suave hasta que el aceite apenas burbujee (80-90 °C) y confita 25-30 minutos, hasta que un cuchillo entre sin resistencia. Mientras, pon al fuego una cazuela con agua y el vinagre para escalfar, pica el perejil y saca lascas de parmesano con un pelador. Saca las alcachofas con espumadera a papel de cocina y sálalas.",
     "Sube el fuego al aceite del confit y, cuando esté bien caliente, devuelve las alcachofas con el corte hacia abajo 2 minutos para que se doren. Escúrrelas de nuevo.",
     "Con el agua de la cazuela a ebullición suave, escalfa los huevos 3 minutos, de dos en dos, con el truco del remolino, y escúrrelos sobre papel.",
     "Tuesta el pan y frótalo con uno de los ajos del confit.",
-    "Reparte las alcachofas en los platos, pon los huevos encima y sala las yemas. Saca lascas de parmesano con un pelador y termina con perejil picado, pimienta, ralladura del medio limón restante y una cucharadita del aceite del confit. Sirve con la tostada."
+    "Reparte las alcachofas en los platos, pon los huevos encima, sala las yemas y añade las lascas de parmesano. Termina con el perejil picado, pimienta, ralladura del medio limón restante y una cucharadita del aceite del confit. Sirve con la tostada."
   ],
   nutricion: { kcal: 460, prot: 24, hc: 29, grasa: 27 },
   etiquetas: ["ligera", "alta en proteína", "invierno", "poco especiada"],
@@ -218,7 +219,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Extiende el hojaldre sobre papel de horno en un rectángulo de unos 20x30 cm, marca un borde de 1,5 cm con un cuchillo sin llegar a cortar y pincha el interior con un tenedor.",
-    "Hornea la base sola 10 minutos, hasta que empiece a dorarse; mientras, corta los higos en cuartos y el queso de cabra en rodajas finas. Si el centro ha subido, aplástalo con el dorso de una cuchara.",
+    "Hornea la base sola 10 minutos, hasta que empiece a dorarse; mientras, corta los higos en cuartos y el queso de cabra en rodajas finas y trocea las nueces. Si el centro ha subido, aplástalo con el dorso de una cuchara.",
     "Reparte el queso sobre la base, encima los higos con la piel hacia abajo, las nueces troceadas, las hojas de tomillo, pimienta y la mitad de la miel en hilo.",
     "Pinta el borde con la leche y hornea 15-18 minutos más, hasta que el borde esté dorado, el queso fundido y los higos jugosos y empezando a caramelizar.",
     "Aliña la rúcula con el aceite, el balsámico y una pizca de sal.",
@@ -258,7 +259,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Salsa ranchera: pica la cebolla, el ajo y el chile y ralla los tomates. Sofríe la mitad de la cebolla con el ajo y el chile en una cucharadita de aceite 3 minutos, añade los tomates rallados, el comino y sal y cocina 8 minutos a fuego medio, hasta que espese. Mantén caliente.",
@@ -300,13 +302,14 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta los cherry por la mitad. Calienta media cucharada de aceite en una sartén a fuego fuerte y saltéalos 2 minutos con sal, hasta que se arruguen y suelten algo de jugo. Resérvalos en un plato.",
+    "Corta los cherry por la mitad, lamina el ajo, pica el cebollino y ralla la piel del medio limón. Calienta media cucharada de aceite en una sartén a fuego fuerte y saltea los cherry 2 minutos con sal, hasta que se arruguen y suelten algo de jugo. Resérvalos en un plato.",
     "En la misma sartén con el resto del aceite dora el ajo laminado 30 segundos y añade las espinacas en dos tandas; saltea 2 minutos hasta que se bajen. Si han soltado agua, escúrrela inclinando la sartén.",
     "Tuesta el pan.",
-    "Bate los huevos ligeramente con sal, pimienta, la nuez moscada y la ralladura de limón. Baja el fuego al mínimo, viértelos sobre las espinacas y remueve despacio 2 minutos, hasta que cuajen pero sigan brillantes y cremosos.",
+    "Bate los huevos ligeramente con sal, pimienta, la ralladura de limón y la nuez moscada. Baja el fuego al mínimo, viértelos sobre las espinacas y remueve despacio 2 minutos, hasta que cuajen pero sigan brillantes y cremosos.",
     "Fuera del fuego incorpora el requesón a cucharadas sin deshacerlo del todo, para que queden tropezones cremosos.",
     "Sirve el revuelto sobre las tostadas, con los cherry por encima y el cebollino picado."
   ],
@@ -343,7 +346,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 1, u: "rama" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enciende el grill del horno al máximo. Corta el queso de cabra en 4 rodajas de 1,5 cm y colócalas sobre papel de horno en una bandeja pequeña, con una gota de miel y las hojas de tomillo encima.",
@@ -430,10 +434,11 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud", nota: "maduro, para el pan" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon las pasas en remojo en agua tibia 10 minutos. Tuesta los piñones en una sartén seca a fuego medio 2 minutos, moviéndolos, hasta que estén dorados; resérvalos.",
+    "Pon las pasas en remojo en agua tibia 10 minutos. Mientras, lamina el ajo, corta el queso fresco en dados y tuesta los piñones en una sartén seca a fuego medio 2 minutos, moviéndolos, hasta que estén dorados; resérvalos.",
     "En la misma sartén calienta una cucharadita de aceite, dora el ajo laminado 30 segundos y añade las espinacas en tandas; saltea 3 minutos hasta que se bajen y evapore el agua. Añade las pasas escurridas y los piñones, salpimienta y pasa todo a un bol.",
     "Bate los huevos con sal y pimienta y mézclalos con las espinacas y el queso fresco en dados.",
     "Limpia la sartén antiadherente de 20 cm, calienta la otra cucharadita de aceite a fuego medio-alto y vierte la mezcla. Baja a fuego medio y cocina 3-4 minutos, moviendo la sartén y despegando los bordes, hasta que la base esté cuajada y dorada y la superficie aún húmeda.",
@@ -483,7 +488,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Corta las berenjenas en rodajas de 1 cm y la patata pelada en rodajas de medio centímetro. Píntalas con una cucharada de aceite, sálalas y ásalas en dos bandejas 20 minutos, dando la vuelta a mitad, hasta que estén tiernas y doradas.",
     "Mientras, pica la cebolla, el ajo y la zanahoria en dados pequeños y sofríelos en una cazuela con el aceite restante a fuego medio 8 minutos.",
     "Añade las lentejas escurridas, el tomate triturado, el vino, la canela, el orégano, sal y pimienta. Cuece 15 minutos a fuego medio-bajo, hasta que la salsa espese y no quede líquida; aplasta parte de las lentejas con la cuchara para que ligue.",
-    "Mientras cuece, prepara la bechamel de yogur: bate el yogur con el huevo, la mitad del parmesano rallado, la nuez moscada, sal y pimienta.",
+    "Mientras cuece, ralla el parmesano y prepara la bechamel de yogur: bate el yogur con el huevo, la mitad del parmesano, la nuez moscada, sal y pimienta.",
     "Baja el horno a 190 °C. En una fuente de unos 20x25 cm coloca la patata en el fondo, la mitad de las lentejas, una capa de berenjena, el resto de las lentejas y la berenjena restante.",
     "Extiende la mezcla de yogur por encima y espolvorea el parmesano restante.",
     "Hornea 30-35 minutos, hasta que la cobertura esté cuajada y dorada y los bordes burbujeen.",
@@ -572,13 +577,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Salsa: pica la cebolla y sofríela en media cucharada de aceite 5 minutos a fuego medio. Añade el tomate triturado, el pimentón, el azúcar y sal y cocina 10 minutos, hasta que espese.",
-    "Saltea las espinacas con el ajo picado y el resto del aceite a fuego fuerte 2 minutos, hasta que se bajen. Escúrrelas apretando y pícalas.",
+    "Precalienta el horno a 200 °C. Salsa: pica la cebolla y sofríela en media cucharada de aceite 5 minutos a fuego medio. Añade el tomate triturado, el pimentón, el azúcar y sal y cocina 10 minutos, hasta que espese; mientras, pica el ajo.",
+    "Saltea las espinacas con el ajo y el resto del aceite a fuego fuerte 2 minutos, hasta que se bajen. Escúrrelas apretando y pícalas.",
     "Mezcla en un bol las espinacas con el queso fresco desmenuzado, el huevo, la mitad del queso rallado, la nuez moscada, sal y pimienta.",
     "Escurre los piquillos con cuidado de no romperlos y rellénalos con una cucharilla (o con una bolsa de congelar con una esquina cortada), sin llenarlos a tope para que no revienten.",
     "Extiende la salsa de tomate en una fuente, coloca los piquillos encima y espolvorea el queso rallado restante.",
-    "Hornea 15 minutos, hasta que el relleno esté cuajado y el queso dorado.",
-    "Tuesta el pan y sirve seis piquillos por persona con la salsa y la tostada para mojar."
+    "Hornea 15 minutos, hasta que el relleno esté cuajado y el queso dorado. Mientras, tuesta el pan.",
+    "Sirve seis piquillos por persona con la salsa y la tostada para mojar."
   ],
   nutricion: { kcal: 455, prot: 24, hc: 36, grasa: 24 },
   etiquetas: ["al horno", "ligera", "para niños", "ideal para llevar", "poco especiada"],
@@ -617,15 +622,16 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Corta la calabaza en dados de 2 cm, mézclala con el aceite, la cebolla en gajos, el ajo entero con piel y sal, y ásala 25 minutos, hasta que esté muy tierna y dorada.",
+    "Precalienta el horno a 220 °C. Corta la calabaza en dados de 2 cm y la cebolla en gajos; mézclalas con el aceite, el ajo entero con piel y sal, y ásalo todo 25 minutos, hasta que la calabaza esté muy tierna y dorada.",
     "Mientras, cuece la pasta en abundante agua con sal 2 minutos menos de lo que indique el paquete. Escúrrela reservando un vaso del agua.",
     "Tritura la calabaza asada con la cebolla, el ajo pelado y 100 ml de la leche hasta tener un puré liso.",
     "En la misma cazuela de la pasta funde la mantequilla a fuego medio, añade la harina y remueve 1 minuto. Vierte el resto de la leche poco a poco batiendo y cuece 4 minutos, hasta que espese.",
     "Fuera del fuego añade el puré de calabaza, el cheddar, la mostaza, el pimentón, la nuez moscada, sal y pimienta y remueve hasta que el queso se funda. Incorpora la pasta y, si queda muy espeso, afloja con el agua reservada: debe quedar cremoso y algo suelto, porque espesa en el horno.",
-    "Pasa a una fuente, espolvorea el queso rallado mezclado con el panko y gratina 10-12 minutos a 220 °C, hasta que la costra esté dorada y burbujee.",
+    "Pasa a una fuente, espolvorea el queso rallado mezclado con el panko y gratina 10-12 minutos a 220 °C, hasta que la costra esté dorada y burbujee. Mientras, pica el cebollino.",
     "Deja reposar 5 minutos y sirve con el cebollino picado."
   ],
   nutricion: { kcal: 810, prot: 33, hc: 87, grasa: 36 },
@@ -660,15 +666,16 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C y engrasa con la mitad del aceite cuatro huecos de una bandeja de muffins grandes (o cuatro moldes individuales).",
-    "Pela y ralla el boniato con el rallador grueso. Sálalo, déjalo 5 minutos y apriétalo con las manos para sacarle el agua. Mézclalo con un huevo batido, la harina, la cebolleta picada, el pimentón, sal y pimienta.",
+    "Pela y ralla el boniato con el rallador grueso. Sálalo y déjalo 5 minutos; mientras, pica la cebolleta y bate un huevo. Aprieta el boniato con las manos para sacarle el agua y mézclalo con el huevo batido, la harina, la cebolleta, el pimentón, sal y pimienta.",
     "Reparte la mezcla en los moldes y presiónala contra el fondo y las paredes formando nidos con un hueco en el centro. Pinta con el aceite restante.",
-    "Hornea 18-20 minutos, hasta que los bordes estén dorados y crujientes.",
+    "Hornea 18-20 minutos, hasta que los bordes estén dorados y crujientes. Mientras, pica el cebollino y desmenuza la feta.",
     "Saca la bandeja, casca un huevo en cada nido (si el hueco es pequeño, retira un poco de clara), sala la yema y reparte la feta desmenuzada alrededor. Hornea 8-10 minutos más, hasta que la clara cuaje y la yema siga blanda.",
-    "Mientras, mezcla los canónigos con los cherry partidos, sal y unas gotas de aceite.",
+    "Mientras, parte los cherry por la mitad y mézclalos con los canónigos, sal y unas gotas de aceite.",
     "Desmolda los nidos con una cuchara, espolvorea el cebollino picado y sirve dos por persona con la ensalada."
   ],
   nutricion: { kcal: 460, prot: 23, hc: 44, grasa: 21 },
@@ -704,11 +711,12 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 210 ml de agua y una pizca de sal: tapado, a fuego mínimo, 12 minutos. Apaga y déjalo reposar tapado 5 minutos; extiéndelo en un plato para que se enfríe y se seque un poco.",
-    "Mientras, pica la cebolla y la zanahoria en daditos pequeños y lamina los champiñones.",
+    "Mientras, pica la cebolla y la zanahoria en daditos pequeños, lamina los champiñones y pica el cebollino.",
     "Calienta el aceite en una sartén grande a fuego medio-alto y sofríe la cebolla y la zanahoria 4 minutos. Añade los champiñones y los guisantes y saltea 4 minutos más, hasta que los champiñones doren.",
     "Incorpora el arroz, sube el fuego y saltea 2 minutos separando los granos. Añade dos cucharadas de tomate frito y la soja y mezcla hasta que el arroz quede teñido y suelto. Reparte en dos platos dándole forma ovalada.",
     "Bate dos huevos con una pizca de sal. En una sartén antiadherente de 20 cm derrite la mitad de la mantequilla a fuego medio, vierte el huevo y remueve con palillos 20 segundos, hasta que esté cuajado por abajo y cremoso por arriba.",
@@ -747,7 +755,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el pico de gallo: pica el tomate en dados pequeños, media cebolla morada muy fina, el chile sin semillas y el cilantro. Mezcla con el zumo de media lima y sal y reserva.",
@@ -789,11 +798,12 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 40, u: "g" },
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 30-35 minutos, hasta que un cuchillo entre sin resistencia. Mientras, tuesta las avellanas en una sartén seca 3 minutos y pícalas gruesas. Escurre las patatas y pélalas en caliente.",
-    "Pásalas por el pasapurés o aplástalas con un tenedor sobre la encimera y deja que suelten vapor 10 minutos: cuanto más secas, menos harina necesitarás.",
+    "Pásalas por el pasapurés o aplástalas con un tenedor sobre la encimera y deja que suelten vapor 10 minutos: cuanto más secas, menos harina necesitarás. Mientras, ralla el parmesano.",
     "Añade el huevo batido, la nuez moscada, sal y dos tercios de la harina. Une con las manos sin amasar, solo hasta tener una masa suave que no se pegue; añade más harina poco a poco si hace falta.",
     "Pon a hervir abundante agua con sal. Mientras, divide la masa en cuatro, forma cilindros de 2 cm de grosor sobre la encimera enharinada y córtalos en trozos de 2 cm. Pásalos por las púas de un tenedor si quieres marcarlos.",
     "Cuece los ñoquis en dos tandas: cuando suban a la superficie, espera 30 segundos y sácalos con una espumadera.",
@@ -877,7 +887,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de sésamo", q: 1, u: "cda" },
-    { n: "sésamo", q: 1, u: "cda" }
+    { n: "sésamo", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 6 minutos y medio en agua hirviendo y pásalos a agua con hielo. Pélalos y déjalos en un vaso con la soja y 4 cucharadas de agua, girándolos de vez en cuando, mientras preparas el resto (mínimo 20 minutos).",
@@ -963,12 +974,13 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "guindilla seca", q: 1, u: "pizca", opcional: true, nota: "en escamas" }
+    { n: "guindilla seca", q: 1, u: "pizca", opcional: true, nota: "en escamas" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon los fideos en un bol, cúbrelos con agua muy caliente y déjalos 8-10 minutos, hasta que estén flexibles pero aún firmes. Escúrrelos.",
-    "Mezcla en un vaso el tamarindo, la soja, el azúcar moreno y el zumo de media lima hasta disolver el azúcar.",
-    "Seca el tofu con papel y córtalo en dados de 1,5 cm. Pica el ajo, corta las cebolletas en trozos de 3 cm separando lo blanco de lo verde y pica gruesos los cacahuetes.",
+    "Pon los fideos en un bol, cúbrelos con agua muy caliente y déjalos 8-10 minutos, hasta que estén flexibles pero aún firmes.",
+    "Mientras se hidratan, mezcla en un vaso el tamarindo, la soja, el azúcar moreno y el zumo de media lima hasta disolver el azúcar.",
+    "Seca el tofu con papel. Córtalo en dados de 1,5 cm, pica el ajo, corta las cebolletas en trozos de 3 cm separando lo blanco de lo verde, pica gruesos los cacahuetes y corta la otra media lima en gajos. Escurre los fideos.",
     "Calienta el wok a fuego fuerte con el aceite y dora el tofu 4 minutos, moviéndolo poco, hasta que esté crujiente por varias caras. Añade el ajo y la parte blanca de la cebolleta 30 segundos.",
     "Aparta todo a un lado, casca los huevos en el hueco libre y revuélvelos 30 segundos hasta que estén casi cuajados; mézclalos con el tofu.",
     "Añade los fideos y la salsa y saltea 2 minutos removiendo con dos espátulas, hasta que los fideos absorban la salsa. Incorpora los brotes de soja y la parte verde de la cebolleta y saltea 30 segundos: deben quedar crujientes.",
@@ -1007,7 +1019,8 @@ window.RECETAS_SEED.push({
     { n: "granada", q: 0.5, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C y pon a hervir agua con sal en una cazuela grande. Retira las hojas exteriores de la coliflor y recorta la base para que se sostenga de pie.",
@@ -1015,8 +1028,8 @@ window.RECETAS_SEED.push({
     "Mezcla dos tercios del aceite con la mitad del comino, el pimentón, sal y pimienta. Coloca la coliflor en una fuente y píntala por todas partes con la mezcla.",
     "Hornea 35-40 minutos, hasta que esté bien dorada por fuera y un cuchillo entre fácil hasta el centro.",
     "A los 20 minutos de horno, escurre y seca los garbanzos, mézclalos con el resto del aceite y del comino y una pizca de sal, y repártelos alrededor de la coliflor para que se tuesten.",
-    "Mientras, bate el yogur con el tahini, el zumo de medio limón, el ajo rallado, sal y una o dos cucharadas de agua, hasta tener una salsa cremosa que caiga del cazo.",
-    "Desgrana la granada y pica el perejil. Extiende la salsa en una fuente, coloca encima la coliflor con los garbanzos y termina con la granada, el perejil y el otro medio limón en gajos. Córtala en cuñas en la mesa."
+    "Mientras, ralla el ajo y bate el yogur con el tahini, el zumo de medio limón, el ajo, sal y una o dos cucharadas de agua, hasta tener una salsa cremosa que caiga del cazo. Desgrana la granada, pica el perejil y corta el otro medio limón en gajos.",
+    "Extiende la salsa en una fuente, coloca encima la coliflor con los garbanzos y termina con la granada, el perejil y los gajos de limón. Córtala en cuñas en la mesa."
   ],
   nutricion: { kcal: 425, prot: 20, hc: 42, grasa: 19 },
   etiquetas: ["al horno", "ligera", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -1054,7 +1067,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo y mantenlo a fuego mínimo. Tuesta las hebras de azafrán 20 segundos en una sartén seca, desmenúzalas con los dedos e infusiónalas en un cazo de caldo caliente. Pica la cebolla muy fina y el ajo.",
+    "Calienta el caldo y mantenlo a fuego mínimo. Tuesta las hebras de azafrán 20 segundos en una sartén seca, desmenúzalas con los dedos e infusiónalas en un cazo de caldo caliente. Pica la cebolla muy fina y el ajo, ralla el parmesano y pica el perejil.",
     "Trocea las setas y saltéalas en la sartén con la mitad del aceite y 10 g de mantequilla a fuego fuerte 5 minutos, hasta que doren. Añade el ajo, sal y pimienta 30 segundos más y reserva.",
     "En una cazuela ancha pocha la cebolla con el resto del aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el arroz y nácaralo 2 minutos, removiendo, hasta que los granos se vean translúcidos en los bordes.",
     "Vierte el vino y remueve hasta que se evapore. Añade el caldo con azafrán y luego el resto de caldo cazo a cazo, removiendo con frecuencia y esperando a que el arroz lo absorba antes de añadir más.",
@@ -1094,15 +1107,16 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal en una cazuela. Despunta las judías verdes y córtalas por la mitad. Corta la cebolla morada en juliana muy fina y déjala en agua fría para suavizarla.",
-    "Cuece las judías 5-6 minutos, hasta que estén tiernas pero aún crujientes. Sácalas con una espumadera y pásalas por agua fría para fijar el color.",
+    "Cuece las judías 5-6 minutos, hasta que estén tiernas pero aún crujientes; mientras, pica las alcaparras y parte los cherry por la mitad. Saca las judías con una espumadera y pásalas por agua fría para fijar el color.",
     "En la misma agua hirviendo cuece los huevos 6 minutos exactos, pásalos a agua fría 2 minutos y pélalos con cuidado: la yema debe quedar melosa.",
     "Mientras, corta el pan en dados y tuéstalos en una sartén con media cucharada de aceite a fuego medio 3-4 minutos, hasta que estén dorados.",
     "Bate el resto del aceite con el vinagre, la mostaza, las alcaparras picadas, sal y pimienta hasta emulsionar.",
-    "Mezcla las judías templadas con los cherry partidos, las aceitunas y la cebolla escurrida, y aliña con la vinagreta.",
+    "Mezcla las judías templadas con los cherry, las aceitunas y la cebolla escurrida, y aliña con la vinagreta.",
     "Reparte en dos platos, coloca encima los huevos abiertos por la mitad y los picatostes, y termina con pimienta recién molida."
   ],
   nutricion: { kcal: 420, prot: 18, hc: 27, grasa: 25 },

@@ -646,7 +646,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "pan de centeno", q: 2, u: "rebanada", opcional: true, nota: "para acompañar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las alubias en remojo la víspera con el triple de agua fría y escúrrelas antes de empezar. Pica la cebolla y el ajo y ralla la zanahoria.",
@@ -741,7 +742,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1.5, u: "cda" },
     { n: "nata agria", q: 60, u: "g", nota: "smetana" },
     { n: "pan de centeno", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata las setas secas en 200 ml de agua caliente 10 min. Sácalas, pícalas y cuela el agua con un papel de cocina para quitar la arena: será el caldo del guiso. Mientras se hidratan, corta los champiñones y las setas en cuartos, pica la cebolla y el ajo, machaca la alcaravea, corta el pimiento en dados y pela la patata y córtala en dados de 2,5 cm.",
@@ -790,7 +792,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas en un colador hasta que el agua salga clara. Pica la cebolla, la zanahoria, el pimiento y 2 dientes de ajo. Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla, la zanahoria y el pimiento picados 5 min, hasta que se ablanden.",
@@ -883,7 +886,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 80, u: "ml" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla y el pimiento en tiras y lamina el ajo. Limpia las carrilleras de la telilla exterior más gruesa, sécalas y salpimiéntalas. Dóralas en la olla exprés destapada con el aceite a fuego fuerte 3 min por cada lado. Resérvalas.",

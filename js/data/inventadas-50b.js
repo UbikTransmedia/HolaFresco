@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "maíz dulce", q: 100, u: "g" },
     { n: "totopos de maíz", q: 40, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon en el vaso de la batidora la pulpa de los aguacates, el pepino pelado, la mitad de la cebolleta, el ajo, el chile sin semillas, la mitad del cilantro, el zumo de una lima y media y sal.",
@@ -73,7 +74,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 50, u: "g" },
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "pan", q: 160, u: "g" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon en el vaso de la batidora el atún, las anchoas, la mitad de las alcaparras, la mayonesa, el yogur y el zumo del limón. Tritura hasta obtener una salsa lisa y espesa, como una crema.",
@@ -249,7 +251,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 160, u: "g", nota: "barra rústica" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
-    { n: "sal en escamas", u: "al gusto" }
+    { n: "sal en escamas", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Monta las gildas en palillos largos: una aceituna, una anchoa doblada en zigzag, dos guindillas, otra anchoa y otra aceituna. El orden importa: la anchoa entre la aceituna y la guindilla hace que en un solo bocado haya salado, ácido y picante.",
@@ -430,7 +433,8 @@ window.RECETAS_SEED.push({
     { n: "apio", q: 1, u: "rama" },
     { n: "mostaza antigua", q: 2, u: "cdta" },
     { n: "canónigos", q: 40, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en aros muy finos y ponla en un bol con el vinagre, el azúcar, una pizca de sal y 2 cucharadas de agua. Remueve y deja 15 minutos: el ácido y la sal ablandan la cebolla y la vuelven rosa brillante y suave.",
@@ -474,7 +478,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la zanahoria, el puerro, el apio, las judías y el repollo en juliana: tiras finas de unos 5 cm y 2-3 mm de grosor. Que todas tengan el mismo tamaño es lo que hace que se cuezan a la vez y la sopa quede elegante. Pela la patata y córtala en dados pequeños.",
@@ -563,7 +568,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon en la olla 200 ml de agua, el vino, unas rodajas de limón y las patatas partidas por la mitad. Cierra y, cuando suba la válvula, cuenta 5 minutos a presión alta. Despresuriza rápido.",
@@ -605,7 +611,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia las coles de Bruselas quitando las hojas exteriores feas y córtalas por la mitad a lo largo. Partidas se cuecen por igual por dentro y por fuera, y no queda un centro duro. Pela la patata y córtala en dados grandes.",
@@ -695,7 +702,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cda" },
     { n: "aceite de chile", q: 1, u: "cdta" },
     { n: "cebolleta", q: 2, u: "ud" },
-    { n: "sésamo", q: 1, u: "cda" }
+    { n: "sésamo", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y ponlo en la olla con 150 ml de agua. Cierra y, al subir la válvula, cuenta 3 minutos a presión alta. Apaga y deja que baje sola 10 minutos: el arroz termina de hacerse con el vapor y queda suelto.",
@@ -739,7 +747,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 200, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon 250 ml de agua en la olla, el cestillo y las hojas de repollo. Cierra y, al subir la válvula, cuenta 1 minuto a presión alta; despresuriza rápido. Las hojas quedarán flexibles para enrollar sin romperse.",
@@ -781,7 +790,8 @@ window.RECETAS_SEED.push({
     { n: "setas shiitake", q: 60, u: "g", nota: "frescas, en láminas" },
     { n: "cebolleta", q: 1, u: "ud", nota: "solo la parte verde" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz jazmín lavado en una cazuela con 180 ml de agua y sal, tapado y a fuego mínimo 12 minutos, y déjalo reposar tapado.",
@@ -825,7 +835,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, pica la cebolla y lamina los ajos. Con la olla abierta, calienta 1 cucharada de aceite y rehoga la cebolla, los ajos y la guindilla 3 minutos, hasta que el ajo empiece a dorarse.",
@@ -919,7 +930,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas rojas en un colador hasta que el agua salga casi clara: quitas el polvillo de almidón que hace espuma en la olla. Corta el calabacín en dados (con piel), pica el tomate y la cebolla y ralla el ajo y el jengibre.",
@@ -962,7 +974,8 @@ window.RECETAS_SEED.push({
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, pela los ajos y ponlos enteros en la olla con los garbanzos escurridos, 1 cucharadita de comino y el caldo. Llena como máximo hasta la mitad.",
@@ -1005,7 +1018,8 @@ window.RECETAS_SEED.push({
     { n: "harissa", q: 1, u: "cdta" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica las espinacas crudas y mézclalas en un bol con la feta desmenuzada, el ajo rallado y la ralladura de medio limón. La feta ya es salada: no añadas sal al relleno.",
@@ -1092,7 +1106,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las almejas en un bol con agua fría y sal (como agua de mar) durante 30 minutos para que suelten la arena.",

@@ -110,7 +110,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón picante", q: 0.25, u: "cdta", opcional: true },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pasa el pulpo del congelador a la nevera para que se descongele. El día de la receta, pon a hervir una olla grande de agua con el laurel. Coge el pulpo por la cabeza y 'asústalo': mételo y sácalo del agua hirviendo 3 veces.",
@@ -152,7 +153,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal gruesa", q: 1, u: "cda", nota: "para cocer el marisco" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir un litro de agua con la sal gruesa. Mientras se calienta, limpia los mejillones (quítales las barbas y raspa las conchas). Echa los langostinos y, cuando vuelva a hervir, cuenta 1 minuto. Sácalos a un bol con agua y hielo para cortar la cocción y pélalos.",
@@ -195,7 +197,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 80, u: "ml" },
     { n: "patata", q: 300, u: "g" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el bonito a cuchillo bien fino y mézclalo en un bol con el huevo, el pan rallado, un ajo picado, el perejil picado y sal. Pica también la cebolla, el pimiento y el otro ajo.",
@@ -236,7 +239,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 350, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Deja las almejas en agua fría con sal 30 minutos para que suelten la arena.",
@@ -478,7 +482,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 6, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas y la cebolla en rodajas finas, colócalas en una fuente, sala, riega con 2 cucharadas de aceite y medio vaso de agua y hornea 20 minutos.",
@@ -563,7 +568,8 @@ window.RECETAS_SEED.push({
     { n: "harina de trigo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas y cuécelas en agua con sal 15 minutos, hasta que estén tiernas.",
@@ -648,7 +654,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "cebolleta", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y la zanahoria, pelada, en rodajas finas; pela los ajos. Corta el bonito en tacos de 3-4 cm, sálalo y márcalo en una sartén muy caliente con 1 cucharada de aceite, 1 minuto por cara. Colócalo en un recipiente de cristal.",
@@ -767,7 +774,8 @@ window.RECETAS_SEED.push({
     { n: "comino en grano", q: 0.5, u: "cdta" },
     { n: "vinagre de vino", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 4, u: "cda" },
-    { n: "sal gruesa", u: "al gusto" }
+    { n: "sal gruesa", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el mojo rojo: tritura con la batidora (o maja en el mortero) los ajos, la guindilla, el comino, el pimentón y una pizca de sal gruesa. Añade el vinagre y el aceite poco a poco hasta tener una salsa espesa. Si queda muy densa, añade una cucharada de agua.",
@@ -969,7 +977,8 @@ window.RECETAS_SEED.push({
     { n: "pimientos del piquillo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 100, u: "ml", nota: "suave, para la mayonesa" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel y la zanahoria pelada en agua con sal 25 minutos, hasta que estén tiernas. Añade 2 huevos los últimos 10 minutos y los guisantes los últimos 3.",
@@ -1011,7 +1020,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "laurel", q: 1, u: "hoja" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas y cuécelas en agua con sal 15 minutos, hasta que estén tiernas. Mientras, limpia los mejillones y pica en dados muy pequeños los pimientos, la cebolla y el tomate sin semillas, y el perejil. Escurre las patatas y deja que templen.",

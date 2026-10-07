@@ -84,7 +84,8 @@ window.RECETAS_SEED.push({
     { n: "garam masala", q: 0.5, u: "cdta" },
     { n: "pimienta negra", q: 0.5, u: "cdta", nota: "recién molida" },
     { n: "arroz basmati", q: 140, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva; mientras, corta las cebollas en juliana fina, machaca las semillas de hinojo y abre los chiles verdes a lo largo. Enfría los huevos en agua fría y pélalos. Hazles 3 o 4 cortes superficiales a lo largo: así el masala se agarra y penetra.",
@@ -270,7 +271,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "pan tipo bollo", q: 4, u: "ud", nota: "pav: panecillos blandos" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata la soja en el caldo caliente 10 minutos; mientras, pica fina la cebolla, pica el ajo, el jengibre y los chiles y ralla el tomate. Escurre la soja en un colador y apriétala con fuerza con las manos o con un cucharón: cuanto más seca quede, más sabor absorberá después y menos esponjosa será.",
@@ -318,7 +320,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor (o en agua hirviendo) 10 minutos: le quita el amargor y lo abre para que absorba el adobo.",
@@ -368,7 +371,8 @@ window.RECETAS_SEED.push({
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Machaca en el mortero la pimienta y el hinojo, gruesos. Corta el seitán en dados de 2 cm y mézclalo con la cúrcuma, el chile kashmiri, el cilantro molido, la mitad de la mezcla machacada, el jengibre y el ajo rallados, el zumo de media lima y sal. Déjalo 10 minutos; mientras, corta las chalotas en láminas finas y abre los chiles a lo largo.",
@@ -417,7 +421,8 @@ window.RECETAS_SEED.push({
     { n: "kétchup", q: 1, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el arroz lavado en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
@@ -512,7 +517,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "plátano macho", q: 2, u: "ud", nota: "a medio madurar, con la piel amarilla" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Corta los extremos de los plátanos, pártelos en dos y hazles un corte a lo largo en la piel. Cuécelos con piel 20-25 minutos, hasta que un cuchillo entre sin resistencia; pélalos al servir.",
@@ -559,7 +565,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1.5, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 9 minutos desde que el agua hierva, enfríalos y pélalos. Pon el arroz lavado a cocer en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos. Mientras se cuecen, pica la cebolla, el chile y el cilantro, ralla el ajo y el jengibre y ralla el tomate, desechando la piel.",
@@ -606,7 +613,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "chile verde", q: 1, u: "ud" },
     { n: "tortitas de teff", q: 2, u: "ud", nota: "o injera; si no encuentras, pan rústico tostado" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara un niter kibbeh rápido: funde la mantequilla en un cazo pequeño a fuego bajo con 1 diente de ajo machacado, unas láminas de jengibre, el fenogreco, el cardamomo y la albahaca. Cocina 8 minutos sin que llegue a dorarse, hasta que la espuma se asiente y huela muy especiado; mientras, pica muy fina la cebolla y pica el resto del ajo y del jengibre. Cuela la mantequilla.",
@@ -698,7 +706,8 @@ window.RECETAS_SEED.push({
     { n: "mayonesa", q: 2, u: "cda" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Para la salsa de cebolla, corta 250 g de la cebolla en juliana. Calienta 1 cucharada de aceite en una sartén a fuego medio y cocínala 12-15 minutos, removiendo a menudo, hasta que esté blanda y dorada clara.",
@@ -788,7 +797,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien el tofu y córtalo en placas de 1,5 cm. Corta la cebolla en juliana gruesa. En un bol mezcla el zumo de los limones, la mostaza, el ajo machacado, el laurel, la pastilla de caldo desmenuzada, pimienta y una pizca de sal. Añade el tofu y la cebolla, mezcla con las manos y deja marinar al menos 30 minutos.",
@@ -880,7 +890,8 @@ window.RECETAS_SEED.push({
     { n: "vino tinto", q: 30, u: "ml" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "tortitas de teff", q: 2, u: "ud", nota: "o injera; si no encuentras, pan plano" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el awaze: en un bol mezcla el berbere con el vino tinto, el zumo del medio limón, 1 diente de ajo rallado, una pizca de sal y una cucharadita de agua, hasta tener una pasta roja espesa. Déjala reposar mientras cocinas: el vino hidrata la especia y suaviza su aspereza.",
@@ -929,7 +940,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1.5, u: "cda" },
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata la soja en el caldo caliente 10 minutos; mientras, pica la cebolla y el ajo. Escurre la soja y apriétala bien. Remoja el pan en 75 ml de la leche. Precalienta el horno a 180 °C.",

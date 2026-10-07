@@ -464,7 +464,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 2, u: "cdta" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados sin sal" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "chile fresco", q: 0.5, u: "ud", opcional: true }
+    { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta 1 litro de agua en una jarra en el microondas a 800 W durante 5-6 minutos, hasta que hierva. Mientras, pela y ralla el jengibre. Pon los fideos en un bol, cúbrelos con el agua y déjalos 6-8 minutos, hasta que estén tiernos. Escúrrelos y pásalos por agua fría.",
@@ -547,7 +548,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas en una fuente apta para microondas con 3 cucharadas de agua y sal. Tapa y cocina a 800 W durante 6 minutos.",
@@ -672,7 +674,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "rúcula", q: 60, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tritura los piquillos con las almendras, el ajo, el pimentón, el vinagre, 1 cucharada de aceite, sal y 3 cucharadas de agua hasta tener una salsa lisa.",
@@ -711,7 +714,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 450, u: "g" },
     { n: "pimientos asados en conserva", q: 150, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la patata en rodajas finas y ponla en un plato hondo apto para microondas con 2 cucharadas de agua y sal. Tapa y cocina a 800 W durante 6-7 minutos, hasta que esté tierna. Reserva tapada. Mientras se cuece, lamina los ajos y pica el perejil.",
@@ -755,7 +759,8 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cacahuetes", q: 15, u: "g", nota: "tostados sin sal" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sriracha", q: 1, u: "cdta", opcional: true }
+    { n: "sriracha", q: 1, u: "cdta", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el tempeh en un bol apto para microondas con 4 cucharadas de agua, tapa y cocina a 800 W durante 3 minutos: así pierde el amargor. Escurre el agua.",
@@ -878,7 +883,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "pistachos", q: 20, u: "g", nota: "pelados" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la piel de la naranja, pélala a lo vivo y saca la mitad en gajos. Exprime la otra mitad.",

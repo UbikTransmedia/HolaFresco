@@ -32,7 +32,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para el agua de escalfar" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escalda las cebollitas 1 minuto en agua hirviendo: así la piel sale sola: pélalas. Lamina los champiñones y pica el ajo.",
@@ -80,7 +81,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el caldo corto: corta la zanahoria y el puerro en rodajas y ponlos en una cazuela con 1 litro de agua, el vino, el apio, el laurel, la pimienta en grano, una rodaja de limón y 2 cucharaditas de sal. Hierve 15 minutos para que las verduras suelten su aroma: el ácido del vino y del limón mantiene el pescado firme y blanco.",
@@ -123,7 +125,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas verdes", q: 10, u: "ud" },
     { n: "cebolleta", q: 0.5, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca de la nevera el huevo de la mayonesa 30 minutos antes: con todos los ingredientes a la misma temperatura la emulsión se forma antes y se corta menos.",
@@ -165,7 +168,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.25, u: "ud" },
     { n: "pimentón dulce", q: 1, u: "pizca" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua para cocer al vapor. Mientras, pela las patatas y córtalas en trozos de 4 cm; corta la zanahoria en rodajas y las judías verdes en tramos de 4 cm.",
@@ -208,7 +212,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los puerros en rodajas de 1 cm, lávalos bien y cuécelos con la patata en dados en agua con sal 12 minutos, hasta que estén tiernos. Escúrrelos y mantenlos calientes.",
@@ -254,7 +259,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua fría con sal; desde que hierva, 20-25 minutos, hasta que el cuchillo entre justo. Enteras y con piel absorben menos agua y no se deshacen.",
@@ -300,7 +306,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien los contramuslos con papel y salpimiéntalos. Calienta el aceite en una cazuela ancha a fuego medio-alto y dóralos con la piel hacia abajo 6-7 minutos sin moverlos, hasta que la piel esté dorada y se despegue sola; dales la vuelta 2 minutos y sácalos. Mientras se dora, corta la cebolla en juliana. Ese dorado (reacción de Maillard) dará sabor y color a la salsa.",
@@ -348,7 +355,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el solomillo de la nevera 20 minutos antes, retira la telilla blanca con un cuchillo fino (si no, se encoge y se curva) y sécalo muy bien con papel: una superficie húmeda hierve en vez de dorarse.",
@@ -392,7 +400,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pon a cocer el arroz lavado con 1,5 veces su volumen de agua, tapado y a fuego mínimo, 12 minutos, y deja reposar.",
@@ -438,7 +447,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "pan", q: 2, u: "rebanada", nota: "tostado, para mojar" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las cebollas en juliana fina y los pimientos en tiras finas; pica los ajos.",
@@ -484,7 +494,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre la ñora, quítale las semillas y ponla en remojo en agua caliente 15 minutos. Ralla los tomates y pica muy finos la cebolla y los ajos.",
@@ -537,7 +548,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Para el fondo, precalienta el horno a 220 °C. Extiende los huesos en una bandeja y ásalos 40 minutos, dándoles la vuelta a mitad, hasta que estén bien dorados (no negros). Añade la zanahoria, una cebolla en cuartos con piel y el apio, unta los huesos con el tomate concentrado y hornea 15 minutos más. Este tostado es lo que da al fondo su color y su sabor «oscuro».",
@@ -583,7 +595,8 @@ window.RECETAS_SEED.push({
     { n: "fideos finos", q: 60, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las carcasas bajo el grifo y retira la piel y la grasa visibles: la grasa enturbia el caldo. Ponlas en una olla con el contramuslo entero y cúbrelas con 2 litros de agua fría.",
@@ -676,7 +689,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el arroz lavado con 1,5 veces su volumen de agua, tapado y a fuego mínimo, 12 minutos, y deja reposar.",
@@ -813,7 +827,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 10, u: "ud" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el pavo de la nevera 30 minutos antes para que se haga de forma uniforme. Precalienta el horno a 200 °C.",
@@ -859,7 +874,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el mojo: machaca los ajos con 1 cucharadita de sal, el comino, el orégano y pimienta, y mézclalo con el zumo de naranja, el de la lima y 1 cucharada de aceite. El mojo cubano se hace con naranja agria; la mezcla de naranja y lima la imita.",
@@ -905,7 +921,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "limón", q: 0.5, u: "ud" }
+    { n: "limón", q: 0.5, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Importante: usa caballa congelada al menos 5 días a -20 °C (o pescado comprado ya congelado) y descongélala en la nevera. Curar no elimina el anisakis; la congelación sí.",
@@ -949,7 +966,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua para los fideos. Corta el entrecot en tiras de medio centímetro contra la fibra (perpendicular a las vetas): así cada bocado queda tierno aunque se haga rápido. Mézclalas con la soja y la maicena y deja 10 minutos: la maicena forma una película que protege la carne y la mantiene jugosa.",
@@ -995,7 +1013,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas en un colador y escúrrelas. Las pardinas no necesitan remojo. Pela la zanahoria y la chirivía y córtalas en rodajas gruesas.",
@@ -1085,7 +1104,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en el triple de su volumen de agua fría, entre 8 y 12 horas. El remojo rehidrata el grano de forma pareja y acorta la cocción; sin él, la piel se cuece antes que el interior y se abren.",
@@ -1126,7 +1146,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Haz un volcán con la harina sobre la encimera (o en un bol grande), casca los huevos en el centro y bátelos con un tenedor, incorporando poco a poco la harina de los bordes hasta formar una masa grumosa.",

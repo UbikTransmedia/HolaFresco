@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la chirivía, córtala en rodajas y cuécela en agua con sal 15 minutos, hasta que esté muy tierna.",
@@ -73,7 +74,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la carne de la nevera 20 minutos antes: si está fría, por fuera se pasa antes de que el centro se temple.",
@@ -116,7 +118,8 @@ window.RECETAS_SEED.push({
     { n: "romero fresco", q: 1, u: "rama" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Parte las patatas por la mitad y cuécelas en el microondas 6 minutos tapadas con 2 cucharadas de agua.",
@@ -161,7 +164,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea las patatas y cuécelas en agua con sal 15 minutos. Mientras, calienta la leche, parte las uvas por la mitad, pica muy fina la chalota y pica el cebollino. Escurre las patatas y aplástalas con la leche caliente, sal y pimienta blanca. Añade el cebollino y tapa.",
@@ -203,7 +207,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Pela los langostinos, reserva las cabezas y las cáscaras, y quítales el intestino con un palillo. Lamina el ajo, parte los cherry por la mitad y pica el perejil.",
@@ -289,7 +294,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 80, u: "g", nota: "para acompañar" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal gruesa", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las navajas de pie, con la abertura hacia abajo, en un vaso alto con agua fría y un puñado de sal gruesa durante al menos 30 minutos (puedes hacerlo antes de empezar). Así sueltan la arena que llevan dentro.",
@@ -374,7 +380,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las patatas por la mitad y cuécelas en el microondas 7 minutos tapadas con 2 cucharadas de agua, hasta que estén casi tiernas.",
@@ -418,7 +425,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz jazmín hasta que el agua salga clara y cuécelo con 150 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos. Deja reposar 5 minutos sin destapar.",
@@ -461,7 +469,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Corta la berenjena en dados de 1,5 cm, sálala y déjala 10 minutos en un colador: la sal le saca agua y luego se dora en lugar de empaparse de aceite. Mientras, lamina el ajo y parte los cherry por la mitad. Pasado ese tiempo, seca la berenjena con papel.",
@@ -506,7 +515,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela y trocea la patata y cuécela en agua con sal 15 minutos. Mientras, trocea las setas, pica el ajo y el cebollino y calienta la leche. Escurre la patata y tritúrala con la leche caliente y la mantequilla hasta tener una crema fina y fluida. Salpimienta y tapa.",
@@ -549,7 +559,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 40, u: "g" },
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las cebollas en juliana fina.",
@@ -594,7 +605,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en papel de cocina y pon un peso encima 10 minutos (un cazo con agua): al soltar agua se dora mejor y absorbe el glaseado. Mientras, cuece el arroz con 100 ml de agua tapado a fuego mínimo 12 minutos.",
@@ -639,7 +651,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "pan", q: 4, u: "rebanada", nota: "finas, para tostar" },
-    { n: "sal en escamas", u: "al gusto" }
+    { n: "sal en escamas", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el edamame 3 minutos en agua con sal y enfríalo en agua fría para que conserve el color verde.",
@@ -684,7 +697,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el ajo y mézclalo en un bol con el comino, el orégano, el vinagre, la mitad de la pasta de ají, 1 cucharada de aceite y sal. Añade la carne y deja marinar 15 minutos mientras preparas el resto. El vinagre ablanda la superficie y el comino es la firma del anticucho.",
@@ -729,7 +743,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hierve 80 ml de agua con una pizca de sal, viértela sobre el cuscús, tapa y deja 5 minutos; mientras, pica el perejil y la menta. Esponja con un tenedor y mezcla con el perejil y la menta, la ralladura del limón y 1 cucharadita de aceite.",
@@ -768,7 +783,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el aceite en un cazo pequeño con los ajos chafados y la guindilla y caliéntalo a fuego muy suave hasta unos 65-70 °C (meter el dedo un instante debe ser posible pero molesto). A esa temperatura el bacalao se cocina sin endurecerse y se separa en lascas.",
@@ -812,7 +828,8 @@ window.RECETAS_SEED.push({
     { n: "nata para cocinar", q: 60, u: "ml" },
     { n: "perejil fresco", q: 3, u: "rama" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas con piel, pártelas por la mitad y cuécelas en el microondas 7 minutos tapadas con 2 cucharadas de agua, hasta que estén tiernas.",
@@ -900,7 +917,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 3, u: "rama" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Seca los muslos, salpimiéntalos y dóralos en una sartén con el aceite a fuego medio-alto con la piel (o el lado liso) hacia abajo 5 minutos sin moverlos, hasta que estén muy dorados. Mientras se doran, pica la chalota, el ajo y el perejil. Dales la vuelta 3 minutos y sácalos.",
@@ -945,7 +963,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 200 ml de agua, una pizca de sal y las vainas de cardamomo abiertas, tapado y a fuego mínimo 12 minutos. Reposa 5 minutos sin destapar.",
@@ -991,7 +1010,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "lima", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el ajo. Deshaz la pasta de achiote en el zumo de naranja con el ajo, el comino, el orégano y sal. Mezcla con el solomillo y deja marinar 15 minutos. El ácido de la naranja ayuda a que el adobo penetre.",
@@ -1034,7 +1054,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 3, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta el aceite con el romero y un ajo chafado en un cazo pequeño a fuego muy suave 5 minutos, sin que frían. Apaga y deja infusionar: es un aceite aromático rápido para terminar el plato. Mientras, lamina el otro ajo, corta los piquillos en tiras y pica el perejil.",
@@ -1077,7 +1098,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Tuesta los piñones en una sartén seca a fuego medio 2 minutos, hasta que estén dorados, y sácalos a un plato.",

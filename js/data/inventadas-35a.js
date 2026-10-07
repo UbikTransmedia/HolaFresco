@@ -78,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y cuécelo en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos. Apaga y deja reposar 5 minutos sin destapar.",
@@ -107,7 +108,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "sartén"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -122,7 +123,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 400, u: "ml", nota: "certificado sin gluten" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre las ñoras, quítales las semillas e hidrátalas 15 minutos en un vaso de agua caliente. Mientras, pica la cebolla y el ajo. Después raspa la carne de las ñoras con una cucharilla y resérvala.",
@@ -170,7 +172,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 1, u: "ud", opcional: true, nota: "para servir" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y el ajo.",
@@ -214,7 +217,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las zanahorias en bastones, mézclalas con 1 cucharadita de aceite, el comino y sal y ásalas en una bandeja 20-25 minutos, hasta que estén tiernas y con los bordes tostados.",
@@ -342,7 +346,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava la quinoa en un colador fino y cuécela en 250 ml de agua con sal, tapada a fuego suave, 12 minutos. Apaga y deja reposar 5 minutos.",
@@ -385,7 +390,8 @@ window.RECETAS_SEED.push({
     { n: "harina de arroz", q: 1, u: "cda", nota: "para enharinar" },
     { n: "arroz largo", q: 120, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el calabacín, sálalo y déjalo 10 minutos en un colador. Mientras, pica la merluza a cuchillo bien fina, ralla 1 ajo, pica el perejil y pica la cebolla y el otro ajo para la salsa. Estruja bien el calabacín con las manos para quitarle el agua.",
@@ -474,7 +480,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 80, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Salpimienta los contramuslos. Calienta el aceite en una cazuela a fuego medio-alto y dóralos por la piel 5 minutos y 2 minutos por el otro lado, hasta que estén bien dorados. Mientras, corta la cebolla y los pimientos en tiras, lamina los ajos y pela la patata y córtala en dados de 2 cm. Saca el pollo.",
@@ -521,7 +528,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta en trozos la cebolla, el pimiento y la zanahoria y pica el ajo.",
@@ -565,7 +573,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 120, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. En un bol mezcla el pollo picado, los copos de avena sin gluten, el huevo, el parmesano, 1 ajo rallado, sal y pimienta. Deja reposar 5 minutos para que la avena se hidrate; mientras, pica la cebolla y el otro ajo.",
@@ -610,7 +619,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el pollo con la mitad del yogur, 1 cucharadita de garam masala y sal. Déjalo marinar mientras preparas la salsa (mínimo 10 minutos). Pica la cebolla y ralla el ajo y el jengibre.",
@@ -654,7 +664,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y los ajos. Salpimienta la carne.",
@@ -783,7 +794,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava la quinoa y cuécela en 200 ml de agua con sal, tapada a fuego suave, 12 minutos.",
@@ -828,7 +840,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y ralla el ajo y el jengibre. Calienta el aceite en una cazuela a fuego medio y pocha la cebolla 6 minutos. Añade el ajo, el jengibre y el curry, y remueve 1 minuto.",
@@ -872,7 +885,8 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sésamo", q: 1, u: "cdta" }
+    { n: "sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos, hasta que esté tierno, y escúrrelo.",
@@ -915,7 +929,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz en abundante agua con sal 11-12 minutos, hasta que esté hecho pero suelto. Mientras, pica en daditos el pimiento, el pepino y la cebolleta y corta las aceitunas en rodajas. Escurre el arroz y enfríalo bajo el grifo; extiéndelo en una bandeja para que se seque.",
@@ -958,7 +973,8 @@ window.RECETAS_SEED.push({
     { n: "zumaque", q: 1, u: "cdta", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Unta el pollo con 1 cucharadita de aceite, el comino, el pimentón, sal y pimienta y ásalo en una bandeja 18-20 minutos, hasta que el jugo salga transparente al pincharlo.",
@@ -1001,7 +1017,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 15, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy finos la cebolla, la zanahoria y el ajo.",
@@ -1091,7 +1108,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "menta seca", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, la zanahoria y la patata.",

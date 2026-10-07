@@ -78,7 +78,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1.5, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Mientras, corta la cebolla morada en dados pequeños y déjala en el vinagre con una pizca de sal. Este 'curado' le quita el picor y a la vez prepara la base del aliño.",
@@ -121,7 +122,8 @@ window.RECETAS_SEED.push({
     { n: "zumo de naranja", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría y pártelos en cuartos.",
@@ -205,7 +207,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda", nota: "para freír en poca cantidad" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hogao: pica la cebolleta y un ajo y ralla los tomates. Sofríe la cebolleta y el ajo en 1/2 cucharada de aceite 4 minutos, añade el tomate y el comino y cocina 10 minutos a fuego medio, hasta que esté espeso y brillante. Es el sofrito básico de Colombia. Mientras, pela los plátanos verdes: corta los extremos, haz cortes a lo largo de la piel y despégala con el pulgar (el plátano verde no se pela como el maduro). Córtalos en trozos de 4 cm.",
@@ -250,7 +253,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "arroz largo", q: 80, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el plátano macho cortando los extremos y haciendo un corte a lo largo de la piel; sácala con los dedos. Córtalo en rodajas gruesas al bies y rocíalo con el zumo de media lima y sal.",
@@ -340,7 +344,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 100, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "lima", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el arroz jazmín lavado con 150 ml de agua y una pizca de sal, tapado a fuego mínimo, 12 minutos. Reposa 5 minutos.",
@@ -383,7 +388,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Con 4 horas de antelación, pon las judías mungo en remojo en abundante agua fría. Pasado ese tiempo, escúrrelas y frótalas entre las manos bajo el agua: muchas pieles se sueltan y flotan. Retíralas; no hace falta quitarlas todas, pero cuantas menos, más clara y fina la masa.",
@@ -428,7 +434,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "arroz redondo", q: 120, u: "g" },
     { n: "espinacas frescas", q: 250, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño y pon un peso encima 10 minutos para que suelte agua: así se dora mejor y absorbe más salsa.",
@@ -470,7 +477,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "arroz jazmín", q: 100, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz jazmín lavado con 150 ml de agua, tapado a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
@@ -560,7 +568,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 100, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz jazmín lavado con 150 ml de agua, tapado a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
@@ -603,7 +612,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el pollo a cuchillo muy fino (casi como carne picada) y mézclalo con 1 cucharadita de maicena, la soja y 1 cucharada de agua. Esta técnica china se llama 'velveting': la maicena protege la carne y la deja tierna y sedosa en el caldo.",
@@ -736,7 +746,8 @@ window.RECETAS_SEED.push({
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el boniato, córtalo en rodajas gruesas y cuécelo en agua con sal 12 minutos, hasta que esté tierno. Enfríalo: en el ceviche peruano, el boniato dulce compensa la acidez.",
@@ -782,7 +793,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 120, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y el ajo. Calienta el aceite en la cazuela a fuego fuerte y dora la carne picada 5 minutos, aplastándola y sin remover demasiado, hasta que esté bien tostada. Ese color es sabor: no te conformes con que esté gris.",
@@ -880,7 +892,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "col lombarda", q: 100, u: "g" },
     { n: "veganesa", q: 1, u: "cda" },
-    { n: "sésamo", q: 1, u: "cdta" }
+    { n: "sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prensa el tofu entre papel de cocina con un peso encima 10 minutos. Mientras, prepara la teriyaki casera: mezcla la soja, el mirin, el azúcar moreno, el jengibre y el ajo rallados y 2 cucharadas de agua. Teriyaki significa 'brillo asado': la salsa debe reducirse sobre el ingrediente hasta glasearlo.",
@@ -924,7 +937,8 @@ window.RECETAS_SEED.push({
     { n: "mayonesa", q: 1, u: "cda" },
     { n: "parmesano", q: 25, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Marina el pollo con la soja, el jengibre y un ajo rallados 15 minutos. Los contramuslos, más jugosos que la pechuga, son la pieza clásica del karaage.",
@@ -968,7 +982,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "alga nori", q: 1, u: "hoja" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal (algo menos de lo habitual, porque la soja sala). Mientras, limpia las setas con un paño, sin mojarlas, y córtalas en láminas o separa en ramilletes; quita los pies duros de los shiitake. Lamina el ajo y corta la cebolleta en rodajas finas.",
@@ -1011,7 +1026,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Huevos de ramen: hiérvelos exactamente 6 minutos y medio y pásalos a agua con hielo. Pélalos con cuidado: tendrán la clara cuajada y la yema líquida y espesa. Mientras se cuecen, pica la cebolla y el ajo.",
@@ -1056,7 +1072,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 200 ml de agua, tapado a fuego mínimo, 15 minutos; deja reposar tapado.",
@@ -1107,7 +1124,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre los guajillos, quítales las semillas y tuéstalos en la sartén seca 20 segundos por lado, solo hasta que huelan (si se queman, amargan). Remójalos 10 minutos en agua caliente.",

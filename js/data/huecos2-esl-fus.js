@@ -32,7 +32,8 @@ window.RECETAS_SEED.push({
     { n: "pan de centeno", q: 4, u: "rebanada" },
     { n: "pepinillos en salmuera", q: 2, u: "ud", nota: "mejor ogórki kiszone, los fermentados en salmuera" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los rebozuelos con un pincel o un papel húmedo, sin lavarlos bajo el grifo: absorben agua y luego cuecen en vez de dorarse. Parte por la mitad los más grandes. Pica la cebolla fina y el cebollino.",
@@ -156,7 +157,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos grandes y cuécelas en agua con sal unos 20 minutos, hasta que la punta de un cuchillo entre sin resistencia.",
@@ -200,7 +202,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "patata", q: 400, u: "g", nota: "nuevas, pequeñas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas con piel a cocer en agua con sal, 20 minutos. En otro cazo, lleva agua a ebullición, mete los huevos con cuidado y cuécelos 10 minutos exactos; pásalos a agua fría 2 minutos: deben estar duros pero sin el anillo verde de la yema pasada. Mientras se cuecen, pica el eneldo y el cebollino.",
@@ -248,7 +251,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 300, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos.",
@@ -344,7 +348,8 @@ window.RECETAS_SEED.push({
     { n: "nata agria", q: 100, u: "g" },
     { n: "patata", q: 400, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 2 cm y cuécelo al vapor 10 minutos: se ablanda, pierde el ligero amargor y absorberá mejor la salsa. Mientras, pica finas las cebollas y el ajo.",
@@ -391,7 +396,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja los boletus en 250 ml de agua caliente 20 minutos. A la vez, prensa el tofu 15 minutos entre papel de cocina con un peso encima (una tabla y un par de latas): cuanta menos agua tenga, mejor se dora.",
@@ -478,7 +484,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "albahaca fresca", q: 0.5, u: "manojo", nota: "mejor albahaca tailandesa" },
     { n: "arroz jazmín", q: 100, u: "g" },
-    { n: "chile fresco", q: 1, u: "ud", opcional: true, nota: "para servir" }
+    { n: "chile fresco", q: 1, u: "ud", opcional: true, nota: "para servir" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 150 ml de agua: fuego fuerte hasta que hierva, tapa, fuego mínimo 12 minutos y 10 de reposo sin destapar.",
@@ -520,7 +527,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 2, u: "ud", nota: "la parte verde" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas en bastones de 1 cm, sécalas bien con un paño, mézclalas con 1,5 cucharadas de aceite y sal y extiéndelas sobre papel de horno en una capa sin amontonar. Hornea 30-35 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes.",
@@ -568,7 +576,8 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en plumas muy finas y mézclala con el zumo de media lima y una pizca de sal. En 15 minutos estará rosa y crujiente.",
@@ -612,7 +621,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 2, u: "cda" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz en abundante agua con sal 14 minutos (si usas arroz del día anterior, sáltate este paso), escúrrelo y extiéndelo en una bandeja para que se enfríe y se seque: un arroz seco se saltea suelto; uno húmedo se apelmaza.",
@@ -656,7 +666,8 @@ window.RECETAS_SEED.push({
     { n: "alga nori", q: 1, u: "hoja" },
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza, grandes" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 180 °C y pon agua a hervir para el baño maría. Saca 12 g de mantequilla para que se ablande. Mientras se calientan, pica el ajo y el cebollino.",
@@ -701,7 +712,8 @@ window.RECETAS_SEED.push({
     { n: "zaatar", q: 1, u: "cda" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "pan de pita", q: 2, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Parte las berenjenas por la mitad a lo largo y haz en la carne cortes profundos en rombo, cada 1,5 cm, sin llegar a la piel: el calor entra mejor y el glaseado se mete en las grietas. Píntalas con 2 cucharaditas de aceite y sálalas.",
@@ -749,7 +761,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una olla grande de agua con sal y precalienta el horno a 220 °C. Mientras, quita las hojas exteriores duras de la coliflor y recorta el tronco para que se asiente plana. Cuécela entera en el agua hirviendo con sal 6-7 minutos y escúrrela boca abajo 5 minutos para que se seque. Esta precocción hace que el corazón quede tierno cuando el exterior ya está tostado.",
@@ -837,7 +850,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pon en una bandeja los tomates y el pimiento enteros y los ajos con piel, con unas gotas de aceite, y ásalos 35-40 minutos; en el último cuarto de hora, saca los ajos para que no se quemen.",
@@ -886,7 +900,8 @@ window.RECETAS_SEED.push({
     { n: "cacahuetes", q: 25, u: "g", nota: "tostados, sin sal" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en plumas finas y mézclala con el zumo de la lima (guarda unas gotas) y una pizca de sal. Déjala 15 minutos.",
@@ -930,7 +945,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "maicena", q: 2, u: "cdta" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 180 ml de agua: fuego fuerte hasta que hierva, tapa, fuego mínimo 12 minutos y 10 de reposo sin destapar.",
@@ -977,7 +993,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz jazmín", q: 100, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en bastones de 1 × 1 × 5 cm y cuécelos al vapor 8 minutos: se abre el poro, pierde el amargor y absorberá el adobo como una esponja.",
@@ -1072,7 +1089,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "repollo", q: 150, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas y ponlas en un cazo, justo cubiertas de agua, con la sal gorda. Cuécelas 20 minutos hasta que estén tiernas, tira casi toda el agua y déjalas a fuego bajo, agitando el cazo, 5 minutos más: el agua se evapora y la piel se arruga con una costra blanca de sal.",
@@ -1115,7 +1133,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prensa el tofu 15 minutos entre papel de cocina con un peso encima. Mientras, lava la quinoa en un colador y cuécela en 150 ml de agua con sal, tapada, a fuego bajo 12 minutos; añade los edamame encima los últimos 4 minutos, apaga y deja reposar 5 minutos.",

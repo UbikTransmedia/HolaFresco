@@ -37,7 +37,8 @@ window.RECETAS_SEED.push({
     { n: "pan sin gluten", q: 100, u: "g" },
     { n: "canónigos", q: 60, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Parte la berenjena a lo largo, haz cortes en rejilla en la pulpa, pincélala con 1 cucharadita de aceite de ajo, sálala y ásala boca abajo 25-30 minutos, hasta que esté muy tierna. Saca la pulpa con una cuchara y desecha la piel.",
@@ -79,7 +80,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "pan rallado sin gluten", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Cuece el arroz en abundante agua con sal 12 minutos: debe quedar algo entero, porque terminará en el horno. Escúrrelo sin enjuagar.",
@@ -122,7 +124,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava las patatas nuevas, pártelas por la mitad y mézclalas en una bandeja con el aceite de oliva, las hojas de romero y sal. Hornéalas 15 minutos mientras preparas los tomates.",
@@ -166,7 +169,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 40, u: "g" },
     { n: "sal en escamas", u: "al gusto" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta la calabaza en gajos de 2 cm, mézclala en una bandeja con el aceite de oliva, las hojas de tomillo, sal y pimienta, y ásala 30-35 minutos, dándole la vuelta a mitad, hasta que esté tierna y con los bordes tostados.",
@@ -209,7 +213,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "naranja", q: 0.5, u: "ud", nota: "la ralladura" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela las zanahorias (si son de manojo, basta con frotarlas) y pártelas a lo largo si son gruesas. Parte las patatas por la mitad.",
@@ -299,7 +304,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Escurre el tofu, envuélvelo en papel de cocina, ponle un peso encima 10 minutos y, mientras, lamina el hinojo muy fino, parte los tomates cherry por la mitad y pica el perejil. Corta el tofu en 4 lonchas gruesas.",
@@ -342,7 +348,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor (o en agua apenas hirviendo) 10 minutos: se ablanda, pierde el amargor y absorbe mejor la marinada.",
@@ -429,7 +436,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cdta" },
     { n: "semillas de hinojo", q: 0.25, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 15-18 minutos, hasta que el cuchillo entre sin resistencia.",
@@ -603,7 +611,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los contramuslos en trozos de 4 cm, sécalos y salpimiéntalos. Pica la cebolleta.",
@@ -689,7 +698,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el mijo en un colador fino con agua fría hasta que salga limpia: así pierde el ligero amargor. Calienta el caldo.",
@@ -734,7 +744,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 50, u: "g" },
     { n: "parmesano", q: 20, u: "g" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con poca sal: la tapenade ya es salada.",
@@ -821,7 +832,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "queso de oveja curado", q: 30, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena, el calabacín y el pimiento en dados de 1,5 cm, todos del mismo tamaño para que se hagan a la vez.",
@@ -1086,7 +1098,8 @@ window.RECETAS_SEED.push({
     { n: "pan sin gluten", q: 60, u: "g" },
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados; pela la zanahoria y córtala en rodajas, y pica la cebolleta. Calienta 2 cucharaditas de aceite de ajo en una cazuela a fuego medio y rehoga la cebolleta y 4 hojas de salvia 1 minuto.",

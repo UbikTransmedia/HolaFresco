@@ -196,7 +196,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "pan rallado sin gluten", q: 10, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos, hasta que se deshagan al pincharlas. Mientras, pela las zanahorias, córtalas en bastones finos y cuécelas al vapor 10-12 minutos, hasta que estén tiernas.",
@@ -238,7 +239,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon agua a hervir en la base de una vaporera. Pela las patatas, córtalas en dados de 2 cm y cuécelas al vapor 12 minutos tapadas.",
@@ -542,7 +544,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "patata", q: 300, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el cordero en dados de 3 cm, retira cualquier resto de grasa o tendón, sécalo con papel y sálalo.",
@@ -586,7 +589,8 @@ window.RECETAS_SEED.push({
     { n: "pan rallado sin gluten", q: 10, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca bien la pieza de ternera, átala con hilo de cocina si tiende a abrirse y salpimiéntala. Calienta el aceite de oliva en una cazuela de fondo grueso, justa para la pieza, y dórala a fuego medio-alto 8 minutos, girándola, hasta que tenga costra por todas las caras.",
@@ -715,7 +719,8 @@ window.RECETAS_SEED.push({
     { n: "judías verdes", q: 150, u: "g" },
     { n: "patata", q: 200, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la patata y córtala en dados de 2 cm. Cuécela al vapor 15 minutos, añadiendo las judías verdes despuntadas y partidas a los 5 minutos, hasta que todo esté tierno.",
@@ -847,7 +852,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "pan sin gluten", q: 2, u: "rebanada", nota: "unos 60 g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las acelgas, separa las pencas de las hojas, pica las pencas en daditos y corta las hojas en tiras finas.",
@@ -1016,7 +1022,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 25, u: "g", nota: "rallado" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en papel de cocina, ponle un peso encima (una sartén) y déjalo 15 minutos para que suelte el agua. Precalienta el horno a 200 °C.",
@@ -1059,7 +1066,8 @@ window.RECETAS_SEED.push({
     { n: "calabacín", q: 130, u: "g", nota: "1 calabacín pequeño" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en lonchas de 1 cm y cuécelo al vapor 10 minutos: le quita el amargor, lo hidrata y lo hace más digestivo. Sécalo con papel de cocina.",

@@ -31,7 +31,7 @@ window.RECETAS_SEED.push({
     "Exprime medio limón en un bol con agua fría. Quita a las alcachofas las hojas exteriores duras hasta llegar a las amarillas, corta la punta y pela el tallo. Pártelas en cuartos y mételas en el agua con limón para que no se oxiden.",
     "Pon en la olla los 300 ml de agua, el zumo del otro medio limón y una pizca de sal. Coloca el cestillo de vapor y encima las alcachofas escurridas.",
     "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja a fuego medio-bajo y cuenta 5 min.",
-    "Mientras, lamina los ajos y dóralos en una sartén pequeña con el aceite a fuego suave 3-4 min hasta que estén dorados, no quemados. Aparta del fuego y añade el vinagre, el perejil picado y pimienta.",
+    "Mientras, pica el perejil, lamina los ajos y dóralos en una sartén pequeña con el aceite a fuego suave 3-4 min hasta que estén dorados, no quemados. Aparta del fuego y añade el vinagre, el perejil y pimienta.",
     "Despresuriza rápido abriendo la válvula (o bajo el grifo). Abre, comprueba pinchando el corazón: debe entrar el cuchillo sin resistencia. Si no, cierra y da 1 min más.",
     "Sirve las alcachofas calientes rociadas con la vinagreta de ajo y, si quieres, con las tiras de jamón por encima."
   ],
@@ -74,10 +74,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el tronco de la coliflor a ras para que se apoye plana. Vierte el agua en la olla, coloca el cestillo y la coliflor encima con el tallo hacia abajo. Sálala por encima.",
     "Cierra, pon fuego fuerte y, cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min. Despresuriza rápido y abre: debe estar tierna pero firme, que no se deshaga.",
-    "Mientras cuece, mezcla en un bol el tahini, el yogur, el zumo de medio limón, el ajo majado y una pizca de sal. Si queda muy espesa, aclárala con 1-2 cda de agua hasta textura de crema.",
+    "Mientras cuece, maja el ajo, pica el perejil y corta medio limón en gajos. Mezcla en un bol el tahini, el yogur, el zumo del otro medio limón, el ajo y una pizca de sal. Si queda muy espesa, aclárala con 1-2 cda de agua hasta textura de crema.",
     "En otro bol pequeño mezcla el aceite con el comino, el pimentón, la cúrcuma y sal. Pinta toda la coliflor con esta mezcla.",
     "Calienta una sartén grande a fuego fuerte y marca la coliflor 2 min por cada lado apoyándola en distintas caras hasta que se tueste y huela a especias (o 5 min en el horno con grill).",
-    "Sirve entera en una fuente, nápala con la salsa de tahini y reparte por encima los granos de granada, el perejil picado, el resto del limón en gajos y los piñones."
+    "Sirve entera en una fuente, nápala con la salsa de tahini y reparte por encima los granos de granada, el perejil picado, los gajos de limón y los piñones."
   ],
   nutricion: { kcal: 340, prot: 11, hc: 30, grasa: 19 },
   etiquetas: ["rápida", "ligera", "vegetariano", "para compartir", "al vapor", "detox", "superalimentos", "bajo en colesterol"],
@@ -118,7 +118,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava bien las remolachas, córtales las hojas dejando 1 cm de tallo (no las peles, así no sangran) y pártelas por la mitad. Ponlas sobre el cestillo con el agua en el fondo de la olla.",
     "Cierra, fuego fuerte hasta que suba la válvula y luego fuego medio-bajo 10 min. Despresuriza rápido. Pincha con un cuchillo: debe entrar fácil. Si tus remolachas son grandes, dale 2 min más.",
-    "Mientras, mezcla el yogur con el eneldo picado (reserva unas ramitas), la mostaza, una pizca de sal y pimienta. Tuesta las nueces en una sartén seca 3 min y trocéalas. Tuesta el pan.",
+    "Mientras, pica el eneldo (reserva unas ramitas) y mézclalo con el yogur, la mostaza, una pizca de sal y pimienta. Tuesta las nueces en una sartén seca 3 min y trocéalas. Tuesta el pan.",
     "Prepara la vinagreta en un bol: vinagre, miel, aceite, sal y pimienta. Corta los rábanos y la manzana en láminas finas y déjalos en la vinagreta para que se maceren.",
     "Deja templar las remolachas 2-3 min y pélalas con las manos protegidas con papel de cocina: la piel sale sola. Córtalas en gajos y mézclalas aún tibias con la vinagreta, el rábano y la manzana.",
     "Extiende el yogur al eneldo en el fondo de dos platos, pon encima la remolacha, las nueces y el eneldo reservado. Acompaña con el pan tostado."
@@ -155,7 +155,8 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los champiñones con un paño y lamínalos. Pica fina la cebolla y el ajo.",
@@ -201,7 +202,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta la cebolla en cuartos y las rodajas de jengibre en la olla destapada a fuego fuerte 3 min, sin aceite, hasta que se chamusquen un poco: eso da el sabor ahumado del pho.",
@@ -251,10 +253,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla. Enjuaga el arroz y ponlo a cocer aparte en 180 ml de agua con sal, tapado y a fuego mínimo, unos 12 min, mientras haces el dal. Enjuaga las lentejas rojas hasta que el agua salga clara.",
-    "Calienta 1 cda de aceite en la olla a fuego medio y sofríe la cebolla picada 4 min. Añade el ajo y el jengibre rallados y la cúrcuma, remueve 30 s y echa el tomate rallado. Cocina 2 min.",
+    "Pica la cebolla y ralla el ajo y el jengibre. Enjuaga el arroz y ponlo a cocer aparte en 180 ml de agua con sal, tapado y a fuego mínimo, unos 12 min, mientras haces el dal. Enjuaga las lentejas rojas hasta que el agua salga clara.",
+    "Calienta 1 cda de aceite en la olla a fuego medio y sofríe la cebolla 4 min. Añade el ajo, el jengibre y la cúrcuma, remueve 30 s y echa el tomate rallado. Cocina 2 min.",
     "Agrega las lentejas, 400 ml de agua, la leche de coco y sal. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 5 min.",
-    "Aparta del fuego y deja despresurizar de forma natural 5 min (las lentejas rojas espuman y podrían salir por la válvula si abres rápido). Abre y remueve: las lentejas estarán deshechas y cremosas.",
+    "Aparta del fuego y deja despresurizar de forma natural 5 min (las lentejas rojas espuman y podrían salir por la válvula si abres rápido); mientras, pica el cilantro. Abre y remueve: las lentejas estarán deshechas y cremosas.",
     "Añade las espinacas y el garam masala y remueve 1 min hasta que se marchiten. Si está muy espeso, aclara con un poco de agua caliente.",
     "Haz el tadka: calienta la otra cda de aceite en una sartén pequeña a fuego fuerte, echa el comino en grano y la guindilla y, en cuanto chisporroteen (20 s), viértelo sobre el dal.",
     "Sirve con el arroz, cilantro picado y un chorro de lima."
@@ -348,8 +350,8 @@ window.RECETAS_SEED.push({
     "Vuelve a poner la sepia, vierte el vino y deja que hierva 1 min. Añade el agua, el laurel, sal y pimienta: el líquido debe cubrir la sepia justo.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 8 min. Mientras, pela las patatas y cáscalas en trozos de 3 cm. Despresuriza rápido y comprueba la sepia: debe estar tierna al morder.",
     "Añade las patatas. Cierra de nuevo y, desde que suba la válvula, cuenta 4 min a fuego mínimo. Despresuriza rápido.",
-    "Echa los guisantes congelados y cuece destapado 3 min a fuego medio. Aplasta un trozo de patata contra la pared para espesar la salsa.",
-    "Mezcla la mayonesa con el ajo restante majado y unas gotas de limón. Sirve el guiso con perejil picado y una cucharada del alioli encima de cada plato."
+    "Echa los guisantes congelados y cuece destapado 3 min a fuego medio. Aplasta un trozo de patata contra la pared para espesar la salsa. Mientras, pica el perejil y maja el ajo restante.",
+    "Mezcla la mayonesa con el ajo majado y unas gotas de limón. Sirve el guiso con el perejil picado y una cucharada del alioli encima de cada plato."
   ],
   nutricion: { kcal: 500, prot: 34, hc: 42, grasa: 22 },
   etiquetas: ["de cuchara", "marinero", "alta en proteína", "primavera", "poco especiada"],
@@ -392,9 +394,9 @@ window.RECETAS_SEED.push({
     "Despresuriza rápido, cuela el fumet a una jarra apretando bien las cabezas y limpia la olla. Tuesta las hebras de azafrán 10 s en una cuchara sobre la llama y échalas al fumet.",
     "En la olla, con el resto del aceite a fuego medio, sofríe la cebolla y el pimiento 6 min. Añade el ajo y el tomate rallado y cocina 3 min. Aparta del fuego, añade el pimentón y remueve 20 s.",
     "Echa el arroz, remueve 1 min para que coja el sofrito, vierte el vino y deja evaporar 1 min. Añade 600 ml del fumet caliente (guarda el resto) y prueba de sal.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 5 min. Despresuriza rápido.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 5 min; mientras, pica el perejil y corta el limón en gajos. Despresuriza rápido.",
     "Pon la olla a fuego medio destapada, añade las gambas peladas y el fumet restante si lo quieres más caldoso, y cuece 2 min justos: las gambas deben quedar rosadas y jugosas.",
-    "Sirve enseguida en plato hondo con perejil picado y limón al lado."
+    "Sirve enseguida en plato hondo con el perejil picado y los gajos de limón al lado."
   ],
   nutricion: { kcal: 560, prot: 30, hc: 72, grasa: 16 },
   etiquetas: ["arroz", "marinero", "de cuchara", "fin de semana", "poco especiada"],
@@ -431,7 +433,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 350, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los huevos en el cestillo de la olla con 250 ml de agua. Cierra, y desde que suba la válvula cuenta 5 min a fuego medio. Mientras, pica la cebolla y 1 ajo. Despresuriza rápido y enfría los huevos en agua: quedan duros y se pelan solos. Vacía la olla.",
@@ -477,7 +480,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo y corta el pimiento verde en dados. Salpimienta las costillas. Calienta el aceite en la olla destapada a fuego fuerte y dóralas bien por todos lados, 6-8 min por tandas. Resérvalas.",
@@ -529,12 +533,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla. Enjuaga el arroz y ponlo a cocer aparte en 180 ml de agua con sal, tapado y a fuego mínimo, unos 12 min. Calienta el aceite en la olla a fuego medio y sofríe la cebolla 5 min hasta que esté dorada.",
-    "Añade el ajo y el jengibre rallados, el curry, la cúrcuma y el garam masala y remueve 1 min para que las especias se tuesten y perfumen. Echa el tomate triturado y cocina 3 min.",
+    "Pica la cebolla y ralla el ajo y el jengibre. Enjuaga el arroz y ponlo a cocer aparte en 180 ml de agua con sal, tapado y a fuego mínimo, unos 12 min. Calienta el aceite en la olla a fuego medio y sofríe la cebolla 5 min hasta que esté dorada.",
+    "Añade el ajo, el jengibre, el curry, la cúrcuma y el garam masala y remueve 1 min para que las especias se tuesten y perfumen. Echa el tomate triturado y cocina 3 min.",
     "Agrega la calabaza, los garbanzos, la leche de coco, 100 ml de agua y sal. Remueve y comprueba que hay líquido suficiente (debe cubrir casi todo).",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 4 min. Despresuriza rápido: la calabaza debe estar tierna pero entera.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 4 min; mientras, trocea los anacardos, pica el cilantro y corta media lima en gajos. Despresuriza rápido: la calabaza debe estar tierna pero entera.",
     "Aplasta unos dados de calabaza con la cuchara para ligar la salsa, añade las espinacas y remueve 1-2 min a fuego medio hasta que se marchiten. Prueba y ajusta de sal y lima.",
-    "Sirve con el arroz, los anacardos tostados troceados, cilantro picado y gajos de lima."
+    "Sirve con el arroz, los anacardos, el cilantro picado y los gajos de lima."
   ],
   nutricion: { kcal: 560, prot: 18, hc: 62, grasa: 26 },
   etiquetas: ["vegano", "económica", "batch cooking", "de cuchara", "otoño", "superalimentos"],
@@ -668,16 +672,17 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta un limón en rodajas finas y escáldalo en la olla con agua hirviendo 2 min para quitarle el amargor; escúrrelo y seca la olla. Mezcla las especias (cúrcuma, comino, cilantro, canela) con sal y pimienta y frota el pollo con la mitad.",
     "Calienta el aceite en la olla a fuego fuerte y dora el pollo 4 min por el lado de la piel y 2 por el otro. Resérvalo.",
-    "Baja a fuego medio y sofríe la cebolla en juliana 8 min hasta que esté muy blanda y dorada; mientras, pela las patatas y córtalas en trozos grandes. Añade a la cebolla el ajo y el jengibre rallados y el resto de especias, remueve 1 min.",
+    "Baja a fuego medio y sofríe la cebolla en juliana 8 min hasta que esté muy blanda y dorada; mientras, pela las patatas y córtalas en trozos grandes y ralla el ajo y el jengibre. Añade a la cebolla el ajo, el jengibre y el resto de especias, remueve 1 min.",
     "Añade el caldo, el zumo del segundo limón, el azafrán y las rodajas de limón escaldadas. Coloca el pollo con la piel hacia arriba y las patatas alrededor, sin cubrirlas del todo.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 10 min.",
-    "Aparta y deja despresurizar de forma natural 8 min. Abre: las patatas deben estar tiernas y el pollo a punto de soltarse del hueso.",
-    "Saca pollo y patatas a una fuente. Añade las aceitunas a la salsa y redúcela destapada a fuego fuerte 4 min hasta que espese un poco. Vierte sobre el pollo y termina con cilantro picado."
+    "Aparta y deja despresurizar de forma natural 8 min; mientras, pica el cilantro. Abre: las patatas deben estar tiernas y el pollo a punto de soltarse del hueso.",
+    "Saca pollo y patatas a una fuente. Añade las aceitunas a la salsa y redúcela destapada a fuego fuerte 4 min hasta que espese un poco. Vierte la salsa sobre el pollo. Termina con el cilantro picado."
   ],
   nutricion: { kcal: 620, prot: 44, hc: 48, grasa: 28 },
   etiquetas: ["una sola olla", "económica", "especiado", "fin de semana"],
@@ -808,13 +813,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en la olla destapada a fuego medio-fuerte y fríe la cebolla en juliana con una pizca de sal 15-18 min removiendo a menudo, hasta que esté marrón oscuro y crujiente en los bordes. Saca dos tercios a papel absorbente (la cobertura) y deja el resto en la olla.",
-    "Añade el ajo picado, el comino, la canela y el cilantro al tercio de cebolla que queda y remueve 30 s. Agrega las lentejas enjuagadas, 450 ml de agua y el laurel.",
+    "Calienta el aceite en la olla destapada a fuego medio-fuerte y fríe la cebolla en juliana con una pizca de sal 15-18 min removiendo a menudo, hasta que esté marrón oscuro y crujiente en los bordes; entre vuelta y vuelta, pica el ajo. Saca dos tercios a papel absorbente (la cobertura) y deja el resto en la olla.",
+    "Añade el ajo, el comino, la canela y el cilantro al tercio de cebolla que queda y remueve 30 s. Agrega las lentejas enjuagadas, 450 ml de agua y el laurel.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 6 min. Despresuriza rápido: las lentejas estarán casi hechas.",
-    "Añade el arroz enjuagado, los 200 ml de agua restantes, sal y pimienta. Nivela sin remover mucho. Cierra de nuevo y, cuando suba la válvula, cuenta 4 min a fuego mínimo.",
+    "Añade el arroz enjuagado, los 200 ml de agua restantes, sal y pimienta. Nivela sin remover mucho. Cierra de nuevo y, cuando suba la válvula, cuenta 4 min a fuego mínimo. Mientras, ralla el pepino y escúrrelo, pica la menta y corta medio limón en gajos.",
     "Aparta y deja despresurizar de forma natural 8 min: el arroz termina de absorber el líquido y queda suelto. Abre, retira el laurel y ahueca con un tenedor.",
-    "Mientras reposa, mezcla el yogur con el pepino rallado y escurrido, la menta picada, sal y unas gotas de limón.",
-    "Sirve la mujaddara con la cebolla crujiente por encima, la salsa de yogur al lado y gajos de limón."
+    "Mientras reposa, mezcla el yogur con el pepino, la menta, sal y unas gotas de limón.",
+    "Sirve la mujaddara con la cebolla crujiente por encima, la salsa de yogur al lado y los gajos de limón."
   ],
   nutricion: { kcal: 580, prot: 20, hc: 90, grasa: 16 },
   etiquetas: ["vegetariano", "económica", "batch cooking", "ideal para llevar", "especiado", "poco especiada", "bajo en colesterol"],
@@ -904,11 +909,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el pollo con el yogur, la mitad del garam masala, la cúrcuma y sal; déjalo marinar mientras preparas el resto (10 min bastan). Enjuaga el arroz hasta que el agua salga clara y ponlo en un bol de metal que quepa en la olla con 225 ml de agua y una pizca de sal.",
-    "Calienta el aceite y la mantequilla en la olla a fuego medio y sofríe la cebolla picada 8 min hasta que esté dorada. Añade el ajo y el jengibre rallados, el comino, el pimentón, la cayena y la canela y remueve 1 min.",
+    "Mezcla el pollo con el yogur, la mitad del garam masala, la cúrcuma y sal; déjalo marinar mientras preparas el resto (10 min bastan). Enjuaga el arroz hasta que el agua salga clara y ponlo en un bol de metal que quepa en la olla con 225 ml de agua y una pizca de sal. Pica la cebolla y ralla el ajo y el jengibre.",
+    "Calienta el aceite y la mantequilla en la olla a fuego medio y sofríe la cebolla 8 min hasta que esté dorada. Añade el ajo, el jengibre, el comino, el pimentón, la cayena y la canela y remueve 1 min.",
     "Añade el tomate triturado y cocina 3 min hasta que el aceite se separe en los bordes. Incorpora el pollo con la marinada y los 150 ml de agua. Remueve y nivela.",
     "Coloca un salvamanteles o el cestillo invertido sobre el curry y encima el bol con el arroz y su agua, sin tapar el bol.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 8 min. Aparta y deja despresurizar de forma natural 5 min; luego libera el resto rápido.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 8 min; mientras, pica el cilantro. Aparta y deja despresurizar de forma natural 5 min; luego libera el resto rápido.",
     "Saca el bol de arroz con un trapo (quema) y ahuécalo con un tenedor. Remueve el curry, retira la canela, añade el resto del garam masala y, si está líquido, reduce 3 min destapado a fuego fuerte.",
     "Sirve el arroz y el pollo masala al lado con cilantro picado por encima."
   ],
@@ -951,7 +956,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 30, u: "g" },
     { n: "aceite de trufa", q: 1, u: "cdta", opcional: true },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla, las zanahorias, el puerro y el ajo en trozos gruesos. Seca los trozos de rabo, sálalos y enharínalos sacudiendo el exceso. Calienta el aceite en la olla a fuego fuerte y dóralos por todos lados, 10-12 min en dos tandas: la costra oscura es la base de la salsa. Resérvalos.",
@@ -1005,12 +1011,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca las carrilladas y sálalas. Calienta el aceite en la olla a fuego fuerte y dóralas 3 min por cara hasta que estén bien tostadas. Resérvalas.",
-    "En la misma olla, a fuego medio, tuesta las almendras, el sésamo y la tortilla troceada 2 min y resérvalos. Sofríe la cebolla en cuartos, los ajos enteros y los tomates partidos 8 min hasta que se chamusquen por los bordes.",
+    "Corta la cebolla en cuartos y parte los tomates. Seca las carrilladas y sálalas. Calienta el aceite en la olla a fuego fuerte y dóralas 3 min por cara hasta que estén bien tostadas. Resérvalas.",
+    "En la misma olla, a fuego medio, trocea la tortilla y tuéstala con las almendras y el sésamo 2 min; resérvalos. Sofríe la cebolla, los ajos enteros y los tomates 8 min hasta que se chamusquen por los bordes.",
     "Añade el chipotle, las pasas, la canela, el comino, el orégano y el caldo. Devuelve la carrillada: el líquido debe cubrirla a dos tercios.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 35 min. Aparta y deja despresurizar de forma natural 15 min.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 35 min; mientras, trocea el chocolate y pica el cilantro. Aparta y deja despresurizar de forma natural 15 min.",
     "Saca las carrilladas (deben ceder al presionar) y mantenlas tapadas. Pasa la salsa con las almendras, el sésamo y la tortilla tostada por la batidora hasta que quede fina. Devuélvela a la olla.",
-    "Añade el chocolate troceado y cocina la salsa destapada a fuego medio 10 min removiendo hasta que espese, brille y oscurezca. Prueba: ajusta de sal, un poco más de chipotle si quieres picante, o una pizca de azúcar si está amarga.",
+    "Añade el chocolate y cocina la salsa destapada a fuego medio 10 min removiendo hasta que espese, brille y oscurezca. Prueba: ajusta de sal, un poco más de chipotle si quieres picante, o una pizca de azúcar si está amarga.",
     "Mientras reduce, cuece el arroz en un cazo aparte con el agua y sal, tapado y a fuego suave, unos 15 min. Devuelve la carrillada al mole y deja 5 min a fuego mínimo para que se impregne.",
     "Sirve la carrillada bañada en mole sobre el arroz, con sésamo tostado y cilantro por encima."
   ],
@@ -1098,9 +1104,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga las fabes. Pon en la olla el agua fría, las fabes, la cebolla entera pelada, los ajos enteros, el laurel, el aceite y el pimentón. Deja la morcilla y el chorizo pinchados con un palillo y la panceta para añadir después.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo que mantenga la presión y cuenta 30 min. Aparta y despresuriza de forma natural, unos 15 min.",
-    "Abre, retira la espuma, añade el chorizo, la morcilla y la panceta enteros y el azafrán tostado. Si falta agua para cubrir, añádela fría (asustar las fabes ayuda a que no se rompan).",
+    "Enjuaga las fabes y pela la cebolla. Pon en la olla el agua fría, las fabes, la cebolla entera, los ajos enteros, el laurel, el aceite y el pimentón. Deja la morcilla y el chorizo pinchados con un palillo y la panceta para añadir después.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo que mantenga la presión y cuenta 30 min. Aparta y despresuriza de forma natural, unos 15 min; mientras, tuesta el azafrán 10 s en una cuchara sobre la llama.",
+    "Abre, retira la espuma, añade el chorizo, la morcilla y la panceta enteros y el azafrán. Si falta agua para cubrir, añádela fría (asustar las fabes ayuda a que no se rompan).",
     "Cierra de nuevo y, desde que suba la válvula, cuenta 20 min más a fuego mínimo. Aparta y deja despresurizar natural otros 15 min.",
     "Prueba una faba: debe estar mantecosa y entera. Si se resiste, 8 min más de presión. Saca la cebolla y los ajos, aplástalos con un poco de caldo y devuélvelos para espesar. Sala ahora.",
     "Deja reposar la fabada destapada a fuego mínimo 20 min moviendo la olla en vaivén (nunca con cuchara). El caldo debe quedar espeso y anaranjado.",
@@ -1150,13 +1156,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la cebolla en juliana. Mezcla las especias molidas (cúrcuma, comino, cilantro) con sal y pimienta y frota el cordero. Calienta el aceite en la olla a fuego fuerte y dora los tacos por tandas 6-8 min en total. Resérvalos.",
-    "Baja a fuego medio y sofríe la cebolla 8 min hasta que esté dorada. Añade el ajo y el jengibre rallados, la canela y el azafrán y remueve 1 min.",
+    "Corta la cebolla en juliana y ralla el ajo y el jengibre. Mezcla las especias molidas (cúrcuma, comino, cilantro) con sal y pimienta y frota el cordero. Calienta el aceite en la olla a fuego fuerte y dora los tacos por tandas 6-8 min en total. Resérvalos.",
+    "Baja a fuego medio y sofríe la cebolla 8 min hasta que esté dorada. Añade el ajo, el jengibre, la canela y el azafrán y remueve 1 min.",
     "Devuelve el cordero, añade el caldo y raspa el fondo. El líquido debe llegar a dos tercios de la carne.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 25 min. Aparta y deja despresurizar de forma natural 15 min.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 25 min; mientras, pica el cilantro. Aparta y deja despresurizar de forma natural 15 min.",
     "Abre, añade las ciruelas y la miel y cocina destapado a fuego medio 10-12 min, removiendo de vez en cuando, hasta que la salsa espese y las ciruelas estén brillantes y melosas. Rectifica de sal.",
     "Mientras, tuesta las almendras y el sésamo en una sartén seca 3 min. Prepara el cuscús: cúbrelo con 170 ml de agua hirviendo con sal, tapa 5 min y suéltalo con la mantequilla y un tenedor.",
-    "Sirve el cordero con su salsa sobre el cuscús, con las almendras, el sésamo y cilantro picado por encima."
+    "Sirve el cordero con su salsa sobre el cuscús, con el cilantro picado, las almendras y el sésamo por encima."
   ],
   nutricion: { kcal: 780, prot: 44, hc: 68, grasa: 36 },
   etiquetas: ["fin de semana", "especiado", "agridulce", "contundente", "guiso", "sin verduras"],

@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 40, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el bacalao desmigado, repásalo con los dedos para quitar pieles y espinas y sécalo bien con papel de cocina.",
@@ -75,7 +76,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "zumaque", q: 1, u: "cdta", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas con piel en agua fría con sal y cuécelas unos 20 minutos, hasta que la punta de un cuchillo entre sin resistencia.",
@@ -163,7 +165,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 1, u: "ud" },
     { n: "coco rallado", q: 20, u: "g" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre y mézclalo en un bol con la pasta de tamarindo, la pimienta molida gruesa, la cúrcuma y sal. Unta bien los dados de pez espada y déjalos 15 minutos.",
@@ -208,7 +211,8 @@ window.RECETAS_SEED.push({
     { n: "tortillas de maíz", q: 6, u: "ud" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre los chiles guajillo y ancho, quítales rabos y semillas y tuéstalos en una sartén seca 20 segundos por cada lado, hasta que huelan sin llegar a quemarse. Remójalos 15 minutos en agua muy caliente.",
@@ -253,7 +257,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1, u: "cdta" },
     { n: "cebolleta (parte verde)", q: 0.25, u: "manojo" },
     { n: "arroz redondo", q: 120, u: "g" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara, escúrrelo y cuécelo con 145 ml de agua, tapado a fuego mínimo, 12 minutos; déjalo reposar 10 minutos sin destapar.",
@@ -297,7 +302,8 @@ window.RECETAS_SEED.push({
     { n: "zumaque", q: 1, u: "cdta" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Maja el azafrán en el mortero con una pizca de sal y déjalo 10 minutos en 2 cucharadas de agua caliente. Mientras, corta el pollo en dados de 4 cm.",
@@ -344,7 +350,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "azúcar", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas 18-20 minutos en agua con sal, hasta que estén tiernas.",
@@ -389,7 +396,8 @@ window.RECETAS_SEED.push({
     { n: "judías verdes", q: 150, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos. Saca las chuletas de la nevera mientras tanto.",
@@ -435,7 +443,8 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 200, u: "g" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 12-15 minutos.",
@@ -482,7 +491,8 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 140, u: "g" },
     { n: "espinacas frescas", q: 200, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo con 170 ml de agua, tapado a fuego mínimo, 12 minutos; déjalo reposar 10 minutos.",
@@ -747,7 +757,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta el caldo con el azafrán, tostado unos segundos en una sartén y desmenuzado con los dedos, y mantenlo a fuego mínimo. Mientras se calienta, corta el pimiento y el calabacín en dados pequeños, ralla el tomate y pica el perejil.",
@@ -884,7 +895,8 @@ window.RECETAS_SEED.push({
     { n: "nabo", q: 1, u: "ud" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la parte verde del puerro y córtala en rodajas. Seca la carne y salpimiéntala con generosidad. Calienta el aceite de oliva en la olla exprés abierta a fuego fuerte y dora la pieza 3-4 minutos por cada cara, hasta que tenga una costra oscura. Sácala.",

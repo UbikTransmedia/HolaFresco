@@ -79,7 +79,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la pita en triángulos y tuéstala en la plancha seca a fuego medio 2–3 minutos por lado, hasta que esté dorada y crujiente. Resérvala.",
-    "Mezcla el yogur con el ajo rallado, la mitad de la menta picada, una pizca de sal y unas gotas de limón.",
+    "Ralla el ajo y pica la menta. Mezcla el yogur con el ajo, la mitad de la menta, una pizca de sal y unas gotas de limón.",
     "Trocea el tomate, el pepino y la lechuga, lamina el rábano y corta la cebolla morada en plumas finas. Mezcla en un bol con el perejil y el resto de la menta.",
     "Aliña la ensalada con 1 cucharada de aceite, el zumo de medio limón, el zumaque y sal. Añade la pita rota con las manos justo antes de servir para que no se ablande del todo.",
     "Seca bien la merluza con papel, salpimienta y úntala con la otra cucharada de aceite. Ponla en la plancha muy caliente por el lado de la piel 3–4 minutos, sin moverla, hasta que la piel se despegue sola.",
@@ -161,7 +161,8 @@ window.RECETAS_SEED.push({
     { n: "pak choi", q: 300, u: "g" },
     { n: "salsa de ostras", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 3, u: "cda", nota: "suave, o de girasol" }
+    { n: "aceite de oliva", q: 3, u: "cda", nota: "suave, o de girasol" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca muy bien los langostinos con papel. Mezcla la maicena con la pimienta y la sal y reboza ligeramente los langostinos, sacudiendo el exceso.",
@@ -205,16 +206,17 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 1, u: "ud" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 1, u: "cda" }
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Mezcla en un bol el gochujang, la soja, el azúcar, el ajo y el jengibre rallados y 1 cucharada de agua.",
+    "Ralla el ajo y el jengibre y mézclalos en un bol con el gochujang, la soja, el azúcar y 1 cucharada de agua.",
     "Abre los tubos de calamar, haz cortes en rombo por el interior sin llegar a atravesar y córtalos en tiras de 2 cm. Sécalos bien.",
-    "Corta el calabacín en medias lunas, la cebolla en gajos y la zanahoria en bastones finos.",
+    "Corta la cebolleta en aros, el calabacín en medias lunas, la cebolla en gajos y la zanahoria en bastones finos. Separa las hojas de lechuga, lávalas y guárdalas en la nevera.",
     "Calienta el wok a fuego fuerte con el aceite y saltea la cebolla y la zanahoria 2 minutos. Añade el calabacín y saltea 2 minutos más, hasta que esté dorado por fuera y firme.",
     "Agrega el calamar y saltea 1 minuto, hasta que se enrosque y se vuelva blanco opaco. Vierte la salsa y remueve 1 minuto más para que lo napee; no lo alargues o el calamar se endurece.",
-    "Apaga, añade el aceite de sésamo, la cebolleta en aros y el sésamo.",
-    "Sirve con las hojas de lechuga lavadas y frías para que cada uno envuelva el salteado al gusto."
+    "Apaga, añade el aceite de sésamo, la cebolleta y el sésamo.",
+    "Sirve con las hojas de lechuga frías para que cada uno envuelva el salteado al gusto."
   ],
   nutricion: { kcal: 380, prot: 34, hc: 32, grasa: 12 },
   etiquetas: ["rápida", "ligera", "picante", "económica", "alta en proteína"],
@@ -247,7 +249,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Desmiga el bacalao con los dedos, retirando espinas y pieles. Pica la cebolleta y el ajo.",
@@ -287,16 +290,17 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 200, u: "ml", nota: "para freír; absorben unas 3 cucharadas" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas y córtalas en bastones muy finos (paja) con mandolina o cuchillo. Lávalas en agua fría para quitar el almidón y sécalas muy bien con un paño.",
+    "Pela las patatas y córtalas en bastones muy finos (paja) con mandolina o cuchillo. Lávalas en agua fría para quitar el almidón y sécalas muy bien con un paño. Corta la cebolla en juliana fina, lamina el ajo, pica el perejil y desmiga el bacalao sin piel ni espinas.",
     "Calienta el aceite en una sartén a 175 °C y fríe las patatas en dos tandas 3–4 minutos, hasta que estén doradas y crujientes. Escúrrelas sobre papel y sala ligeramente.",
-    "Retira casi todo el aceite, dejando 2 cucharadas. Pocha la cebolla en juliana fina con el ajo laminado a fuego medio 10 minutos, hasta que esté blanda y dorada.",
-    "Añade el bacalao desmigado sin piel ni espinas y remueve 2 minutos, hasta que se impregne y se ponga opaco.",
+    "Retira casi todo el aceite, dejando 2 cucharadas. Pocha la cebolla con el ajo a fuego medio 10 minutos, hasta que esté blanda y dorada.",
+    "Añade el bacalao y remueve 2 minutos, hasta que se impregne y se ponga opaco.",
     "Incorpora las patatas paja y mezcla. Baja el fuego al mínimo.",
     "Bate los huevos con pimienta y viértelos sobre la sartén removiendo sin parar 1 minuto, como un revuelto muy cremoso: retíralo cuando aún esté brillante, porque se termina de cuajar fuera del fuego.",
-    "Sirve enseguida con las aceitunas negras y perejil picado por encima."
+    "Sirve enseguida con el perejil picado y las aceitunas negras por encima."
   ],
   nutricion: { kcal: 680, prot: 35, hc: 48, grasa: 38 },
   etiquetas: ["una sola sartén", "clásico reinventado", "poco especiada"],
@@ -334,12 +338,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el boniato con piel en dados de 2 cm, mézclalo con el aceite y una pizca de sal y ásalo en una bandeja 15 minutos.",
-    "Prepara el teriyaki: mezcla la soja, la miel, el vinagre de arroz, el jengibre y el ajo rallados.",
+    "Mientras se asa, prepara el teriyaki: ralla el jengibre y el ajo y mézclalos con la soja, la miel y el vinagre de arroz.",
     "Corta el brócoli en ramilletes pequeños y lamina los shiitake.",
     "Recorta dos rectángulos de papel de horno de 40 x 30 cm. Pon en cada uno la mitad del brócoli y las setas, el lomo de salmón encima y riega con el teriyaki.",
     "Cierra los paquetes doblando los bordes varias veces para que queden herméticos y colócalos junto al boniato.",
-    "Hornea 12–14 minutos: el paquete debe inflarse y el salmón quedar rosado en el centro.",
-    "Abre los paquetes en la mesa con cuidado con el vapor, sirve con el boniato y espolvorea sésamo y cebolleta picada."
+    "Hornea 12–14 minutos: el paquete debe inflarse y el salmón quedar rosado en el centro. Mientras, pica la cebolleta.",
+    "Abre los paquetes en la mesa con cuidado con el vapor, sirve con el boniato y espolvorea la cebolleta picada y el sésamo."
   ],
   nutricion: { kcal: 590, prot: 37, hc: 50, grasa: 27 },
   etiquetas: ["al horno", "sin ensuciar", "alta en proteína", "superalimentos", "poco especiada"],
@@ -430,11 +434,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ensalada de col: corta la col en juliana muy fina y ralla la zanahoria. Mezcla con la mitad del yogur, el vinagre, sal y pimienta y deja reposar en la nevera mientras haces el resto.",
-    "Salsa tártara: mezcla 2 cucharadas de mayonesa con el resto del yogur, los pepinillos y las alcaparras picados, un poco de perejil y unas gotas de limón.",
-    "Pica la merluza a cuchillo en dados pequeños y desmenuza el surimi con los dedos. Junta en un bol con la cebolleta y el perejil picados, el huevo, la cucharada de mayonesa restante, la mostaza, el pimentón, la mitad del panko, ralladura de limón y pimienta.",
-    "Mezcla sin amasar demasiado y forma 6 pastelitos de 2 cm de grosor con las manos húmedas. Pásalos por el resto del panko presionando y déjalos 10 minutos en la nevera para que se asienten.",
+    "Pica los pepinillos, las alcaparras, la cebolleta y el perejil. Salsa tártara: mezcla 2 cucharadas de mayonesa con el resto del yogur, los pepinillos, las alcaparras, un poco de perejil y unas gotas de limón.",
+    "Pica la merluza a cuchillo en dados pequeños y desmenuza el surimi con los dedos. Junta en un bol con la cebolleta, el resto del perejil, el huevo, la cucharada de mayonesa restante, la mostaza, el pimentón, la mitad del panko, ralladura de limón y pimienta.",
+    "Mezcla sin amasar demasiado y forma 6 pastelitos de 2 cm de grosor con las manos húmedas. Pásalos por el resto del panko presionando y déjalos 10 minutos en la nevera para que se asienten. Mientras, corta el limón en gajos.",
     "Calienta el aceite en una sartén antiadherente a fuego medio y dora los pastelitos 3–4 minutos por lado, hasta que estén bien dorados y firmes al tacto.",
-    "Sirve los pastelitos con la ensalada de col, la salsa tártara y gajos de limón."
+    "Sirve los pastelitos con la ensalada de col, la salsa tártara y los gajos de limón."
   ],
   nutricion: { kcal: 580, prot: 29, hc: 43, grasa: 32 },
   etiquetas: ["para niños", "económica", "batch cooking", "poco especiada"],
@@ -467,16 +471,17 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "maíz dulce", q: 80, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela el boniato, córtalo en dados de 2 cm y cuécelo en agua con sal 10–12 minutos, hasta que se pinche fácil sin deshacerse.",
-    "Mientras se cuece, prepara la crema: tritura o mezcla muy bien el zumo de las limas, la pasta de ají amarillo, el ajo y el jengibre rallados, unos tallos de cilantro y sal. Debe quedar ácida, picante y fluida. Enfríala en la nevera.",
+    "Mientras se cuece, ralla el ajo y el jengibre y corta la cebolla morada en plumas muy finas. Prepara la crema: tritura o mezcla muy bien el zumo de las limas, la pasta de ají amarillo, el ajo, el jengibre, unos tallos de cilantro y sal. Debe quedar ácida, picante y fluida. Enfríala en la nevera.",
     "Escurre el boniato y dóralo en una sartén con media cucharada de aceite y el azúcar moreno a fuego medio 3–4 minutos, hasta que quede glaseado. Saltea el maíz 2 minutos en la misma sartén para que se tueste. Deja templar.",
     "Con un cuchillo bien afilado, corta la lubina en láminas finas de medio centímetro, en un solo movimiento y en sentido contrario a la fibra.",
     "Reparte las láminas en platos fríos, sin solaparlas mucho. Sálalas ligeramente.",
     "Justo antes de servir, napa el pescado con la crema de ají y espera 1–2 minutos, hasta que los bordes se vuelvan blanquecinos.",
-    "Termina con la cebolla morada en plumas muy finas, hojas de cilantro, unas gotas del resto de aceite, y coloca el boniato y el maíz al lado."
+    "Termina con la cebolla morada, hojas de cilantro, unas gotas del resto de aceite, y coloca el boniato y el maíz al lado."
   ],
   nutricion: { kcal: 390, prot: 30, hc: 42, grasa: 11 },
   etiquetas: ["ligera", "sin horno", "verano", "para invitados", "bajo en colesterol"],
@@ -510,15 +515,16 @@ window.RECETAS_SEED.push({
     { n: "brócoli", q: 200, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "aceite de sésamo", q: 1, u: "cdta" }
+    { n: "aceite de sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el aliño: machaca en un mortero el ajo y el chile con el azúcar hasta hacer una pasta. Añade el zumo de las limas, la salsa de pescado y 2 cucharadas de agua caliente. Debe ser ácido, salado y picante a partes iguales.",
-    "Pon a hervir 3 dedos de agua en una cazuela ancha con una vaporera o colador metálico encima, y unas láminas de jengibre en el agua.",
+    "Lamina el jengibre. Pon a hervir 3 dedos de agua en una cazuela ancha con una vaporera o colador metálico encima, y unas láminas de jengibre en el agua.",
     "Mientras el agua se calienta, despunta las judías verdes y corta el brócoli en ramilletes. Cuécelos al vapor tapados 6–7 minutos, hasta que estén tiernos pero verdes y crujientes. Resérvalos tapados.",
     "Pon los lomos de dorada sobre un plato que quepa en la vaporera, con la piel hacia arriba y unas tiras de jengibre encima.",
-    "Cuece al vapor tapado 6–8 minutos, hasta que la carne esté blanca y se separe en láminas al presionar.",
-    "Sirve el pescado sobre las verduras, riega todo con el aliño, unas gotas de aceite de sésamo, cebolleta en aros y cilantro."
+    "Cuece al vapor tapado 6–8 minutos, hasta que la carne esté blanca y se separe en láminas al presionar. Mientras, corta la cebolleta en aros y deshoja el cilantro.",
+    "Sirve el pescado sobre las verduras, riega todo con el aliño, unas gotas de aceite de sésamo, la cebolleta y el cilantro."
   ],
   nutricion: { kcal: 300, prot: 36, hc: 16, grasa: 10 },
   etiquetas: ["ligera", "picante", "alta en proteína", "sin gluten", "bajo en colesterol"],
@@ -556,13 +562,14 @@ window.RECETAS_SEED.push({
     { n: "pan naan", q: 2, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el abadejo en tacos de 4 cm, mézclalo con la cúrcuma y una pizca de sal y resérvalo en la nevera.",
-    "Pica la cebolla y póchala en la cazuela con el aceite a fuego medio 8 minutos, hasta que esté dorada; mientras, pica el ajo, el jengibre y el chile y ralla los tomates. Añade el ajo, el jengibre y el chile y rehoga 1 minuto.",
+    "Pica la cebolla y póchala en la cazuela con el aceite a fuego medio 8 minutos, hasta que esté dorada; mientras, pica el ajo, el jengibre y el chile, ralla los tomates y corta las judías verdes en trozos de 3 cm. Añade el ajo, el jengibre y el chile y rehoga 1 minuto.",
     "Incorpora el comino, el cilantro molido y el pimentón, remueve 30 segundos y añade los tomates. Cocina 6 minutos, hasta que la salsa se espese y el aceite asome por los bordes.",
-    "Vierte la leche de coco, 100 ml de agua y la pasta de tamarindo. Añade las judías verdes cortadas en trozos de 3 cm y cuece a fuego suave 8 minutos, hasta que estén casi tiernas.",
+    "Vierte la leche de coco, 100 ml de agua y la pasta de tamarindo. Añade las judías verdes y cuece a fuego suave 8 minutos, hasta que estén casi tiernas.",
     "Prueba y ajusta: debe ser ácido, picante y ligeramente dulce. Corrige de sal.",
     "Introduce el pescado en la salsa, tapa y cuece a fuego muy suave 5–6 minutos sin remover (mueve la cazuela por las asas), hasta que los tacos estén opacos y se separen en láminas.",
     "Calienta los naan en una sartén seca 1 minuto por lado y sirve el curry con cilantro fresco por encima."
@@ -607,9 +614,9 @@ window.RECETAS_SEED.push({
     "Pica la cebolla, los pimientos y el ajo. Pocha todo en la cazuela con el aceite a fuego medio-bajo 12 minutos, hasta que esté muy blando. Mientras, calienta el caldo en un cazo y pela las patatas.",
     "Añade la carne de pimiento choricero, la guindilla y el tomate triturado y cocina 5 minutos, removiendo, hasta que se integre.",
     "Cacha las patatas: mete la punta del cuchillo y rompe en trozos irregulares de 3–4 cm para que suelten almidón. Rehógalas 2 minutos en el sofrito.",
-    "Cubre con el caldo caliente, sala y cuece a fuego medio 20–25 minutos, hasta que las patatas estén tiernas y el caldo haya espesado. Aplasta un par de trozos contra la pared de la cazuela si lo quieres más ligado.",
+    "Cubre con el caldo caliente, sala y cuece a fuego medio 20–25 minutos, hasta que las patatas estén tiernas y el caldo haya espesado. Aplasta un par de trozos contra la pared de la cazuela si lo quieres más ligado. Mientras, pica el perejil.",
     "Apaga el fuego, introduce el bonito, menea la cazuela y tápala. Deja reposar 5 minutos: el calor residual lo cocina sin secarlo, debe quedar rosado en el centro.",
-    "Sirve en plato hondo con perejil picado y el pan para mojar."
+    "Sirve en plato hondo con el perejil picado y el pan para mojar."
   ],
   nutricion: { kcal: 730, prot: 46, hc: 72, grasa: 29 },
   etiquetas: ["de cuchara", "clásico", "invierno"],
@@ -643,15 +650,16 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el bacalao en un cazo cubierto de agua fría, caliéntalo hasta que empiece a hervir y retíralo. Escúrrelo, guardando un vaso del agua, y desmígalo sin piel ni espinas.",
     "Pela las patatas, córtalas en rodajas de 1 cm y ponlas en una sartén con 2 cucharadas de aceite y una pizca de sal. Tapa y cocina a fuego bajo 20 minutos, volteando a media cocción, hasta que estén tiernas y algo doradas.",
     "Mientras, lamina los ajos y corta la cebolla y los pimientos en tiras. En una cazuela con el resto del aceite, dora los ajos y la guindilla 1 minuto. Añade la cebolla y los pimientos y pocha a fuego medio 12 minutos, hasta que estén blandos.",
-    "Agrega la carne de pimiento choricero y el tomate triturado, sala con prudencia y cocina 8 minutos, hasta que la salsa espese.",
+    "Agrega la carne de pimiento choricero y el tomate triturado, sala con prudencia y cocina 8 minutos, hasta que la salsa espese. Mientras, pica el perejil.",
     "Incorpora el bacalao desmigado y medio vaso del agua de cocción, mezcla y cocina 4 minutos a fuego suave para que el pescado se impregne y la salsa quede jugosa.",
-    "Sirve el ajoarriero sobre las patatas confitadas con perejil picado."
+    "Sirve el ajoarriero sobre las patatas confitadas con el perejil picado."
   ],
   nutricion: { kcal: 540, prot: 34, hc: 52, grasa: 22 },
   etiquetas: ["clásico", "batch cooking", "ideal para llevar", "bajo en colesterol"],
@@ -691,8 +699,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas en rodajas de medio centímetro, mézclalas con 1 cucharada de aceite, sal y 2 hojas de laurel y hornéalas en una fuente 15 minutos.",
-    "Pon las pasas a remojar en el zumo de media naranja. Tuesta el pan rallado en una sartén seca a fuego medio 3 minutos, removiendo, hasta que esté dorado; añade los piñones el último minuto.",
-    "Mezcla el pan tostado con los piñones, las pasas escurridas (guarda el zumo), el parmesano, el perejil picado, la ralladura del limón, pimienta y un chorrito del aceite restante.",
+    "Mientras, pon las pasas a remojar en el zumo de media naranja, pica el perejil y ralla la piel del limón. Tuesta el pan rallado en una sartén seca a fuego medio 3 minutos, removiendo, hasta que esté dorado; añade los piñones el último minuto.",
+    "Mezcla el pan tostado con los piñones, las pasas escurridas (guarda el zumo), el parmesano, el perejil, la ralladura del limón, pimienta y un chorrito del aceite restante.",
     "Sala ligeramente las sardinas por la carne, pon una cucharada de relleno sobre cada una y enróllalas desde la cabeza hacia la cola, dejando la cola hacia arriba.",
     "Saca la fuente, añade los tomates cherry y coloca encima los rollitos bien apretados, intercalando el resto del laurel y rodajas de la otra media naranja.",
     "Riega con el zumo de naranja reservado, el de medio limón y el resto del aceite, espolvorea el relleno sobrante y hornea 15 minutos, hasta que las sardinas estén opacas y la superficie dorada.",
@@ -773,15 +781,16 @@ window.RECETAS_SEED.push({
     { n: "cilantro molido", q: 1, u: "cdta" },
     { n: "patata", q: 300, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas en dados de 2 cm, mézclalas con 1 cucharada de aceite, la mitad del comino y sal, y ásalas en una fuente 25 minutos, hasta que estén doradas.",
     "Bate el tahini con el zumo de 1 limón, sal y 4–5 cucharadas de agua fría: primero se cortará y luego quedará una crema lisa y fluida como yogur.",
-    "Pica el ajo, el chile y la mitad del cilantro (tallos incluidos). Rehógalos en una sartén con el resto del aceite a fuego medio 1 minuto, añade el resto del comino y el cilantro molido 20 segundos y apaga.",
+    "Pica el ajo, el chile y la mitad del cilantro (tallos incluidos) y trocea las nueces. Rehoga el ajo, el chile y el cilantro picado en una sartén con el resto del aceite a fuego medio 1 minuto, añade el resto del comino y el cilantro molido 20 segundos y apaga.",
     "Mezcla este sofrito con la crema de tahini. Prueba: debe ser ácida, picante y con sabor intenso.",
-    "Sala la corvina y colócala sobre las patatas. Cúbrela con la salsa de tahini y hornea 10–12 minutos, hasta que la salsa se dore por los bordes y el pescado se separe en láminas.",
-    "Tuesta las nueces troceadas en la sartén 2 minutos y repártelas por encima con el resto del cilantro y gajos de limón."
+    "Sala la corvina y colócala sobre las patatas. Cúbrela con la salsa de tahini y hornea 10–12 minutos, hasta que la salsa se dore por los bordes y el pescado se separe en láminas. Mientras, tuesta las nueces en la sartén 2 minutos y corta el medio limón en gajos.",
+    "Reparte por encima las nueces tostadas, el resto del cilantro y los gajos de limón."
   ],
   nutricion: { kcal: 585, prot: 38, hc: 36, grasa: 32 },
   etiquetas: ["al horno", "picante", "sin gluten", "para invitados"],
@@ -819,7 +828,8 @@ window.RECETAS_SEED.push({
     { n: "cuscús", q: 120, u: "g" },
     { n: "caldo de verduras", q: 130, u: "ml" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica las sardinas a cuchillo hasta obtener una pasta gruesa (o dales unos golpes de picadora). Mezcla con el pan rallado, el huevo, un ajo rallado, la mitad del cilantro y el perejil picados, 1 cucharadita de comino, 1 de pimentón y sal.",
@@ -866,15 +876,16 @@ window.RECETAS_SEED.push({
     { n: "alcaparras", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas con piel en gajos gruesos, mézclalos con 1 cucharada de aceite, el pimentón y sal y hornéalos en una bandeja con papel 20 minutos.",
-    "Seca el abadejo y córtalo en 4 tiras. Sálalo, pásalo por la harina, luego por el huevo batido y por el panko mezclado con el resto del aceite, presionando para que se adhiera.",
+    "Mientras, bate el huevo en un plato hondo. Seca el abadejo y córtalo en 4 tiras. Sálalo, pásalo por la harina, luego por el huevo y por el panko mezclado con el resto del aceite, presionando para que se adhiera.",
     "Da la vuelta a las patatas, haz hueco en la bandeja y coloca el pescado. Hornea 12–14 minutos más, hasta que el empanado esté dorado y las patatas crujientes.",
     "Mientras, cuece los guisantes en agua con sal 4 minutos. Escúrrelos guardando un poco de agua y tritúralos de forma rústica con la mantequilla, las hojas de menta, unas gotas de limón y pimienta, añadiendo agua si hace falta.",
-    "Prepara la salsa mezclando el yogur con los pepinillos y las alcaparras picados, ralladura de limón y sal.",
-    "Sirve el pescado con las patatas, el puré de guisantes, la salsa y gajos de limón."
+    "Prepara la salsa: pica los pepinillos y las alcaparras y mézclalos con el yogur, ralladura de limón y sal. Corta el resto del limón en gajos.",
+    "Sirve el pescado con las patatas, el puré de guisantes, la salsa y los gajos de limón."
   ],
   nutricion: { kcal: 610, prot: 42, hc: 66, grasa: 20 },
   etiquetas: ["al horno", "para niños", "versión ligera", "poco especiada"],
@@ -910,16 +921,17 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre los guajillos, quítales semillas y venas y tuéstalos en la plancha seca 20 segundos por lado, hasta que huelan. Remójalos en agua muy caliente 15 minutos.",
     "Tritura los chiles escurridos con el ajo, el comino, el orégano, el vinagre, el zumo de naranja y sal hasta obtener una pasta lisa y espesa.",
     "Unta la caballa por el lado de la carne con el adobo y déjala marinar 10 minutos.",
-    "Mientras, corta el pepino en medias lunas, lamina los rábanos y corta la cebolla morada en plumas finas. Aliña con el zumo de la lima, sal y cilantro picado.",
+    "Mientras, corta el pepino en medias lunas, lamina los rábanos, corta la cebolla morada en plumas finas y pica el cilantro. Aliña con el zumo de la lima, sal y el cilantro.",
     "Calienta la plancha a fuego fuerte con el aceite y pon la caballa con la piel hacia abajo 3–4 minutos, hasta que la piel esté crujiente. Dale la vuelta y cocina 1 minuto por el lado del adobo, vigilando que no se queme.",
     "Calienta las tortillas en la plancha 30 segundos por lado y envuélvelas en un paño.",
-    "Sirve la caballa troceada para que cada uno monte sus tacos con la ensalada y unas gotas de lima."
+    "Trocea la caballa y sírvela para que cada uno monte sus tacos con la ensalada y unas gotas de lima."
   ],
   nutricion: { kcal: 570, prot: 33, hc: 42, grasa: 30 },
   etiquetas: ["económica", "omega-3", "para compartir", "sin gluten"],
@@ -953,7 +965,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los calamares: separa cabeza y tentáculos del cuerpo, retira la pluma, la piel y las vísceras y lava bien. Corta los cuerpos en anillas de 1,5 cm y los tentáculos en trozos.",
@@ -961,9 +974,9 @@ window.RECETAS_SEED.push({
     "Sube el fuego, añade el calamar y rehoga 5 minutos, hasta que suelte su agua y esta se evapore casi del todo.",
     "Agrega el tomate triturado y cocina 3 minutos. Vierte el vino y deja que se evapore el alcohol 2 minutos.",
     "Disuelve la tinta en el caldo caliente, viértelo sobre el calamar, sala y cuece tapado a fuego suave 40–45 minutos, hasta que el calamar esté tierno al pincharlo. Destapa los últimos 10 minutos si la salsa está muy líquida.",
-    "Mientras, pela las patatas, córtalas en trozos de 4 cm y cuécelas al vapor 20 minutos, hasta que estén tiernas.",
+    "Mientras, pela las patatas, córtalas en trozos de 4 cm y cuécelas al vapor 20 minutos, hasta que estén tiernas. Pica el perejil.",
     "Retira el laurel. Si quieres una salsa más fina, tritura la mitad de la salsa sin calamar y devuélvela a la cazuela.",
-    "Sirve los calamares con su salsa negra, las patatas al lado y perejil picado por encima."
+    "Sirve los calamares con su salsa negra, las patatas al lado y el perejil picado por encima."
   ],
   nutricion: { kcal: 610, prot: 41, hc: 60, grasa: 23 },
   etiquetas: ["de cuchara", "clásico", "batch cooking", "invierno", "poco especiada"],
@@ -999,15 +1012,16 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 300, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon el pulpo entero en una cazuela seca, tapa y cocina a fuego medio 15 minutos: soltará su propia agua rosada. Sácalo, guarda ese líquido y córtalo en trozos de 4 cm.",
-    "Seca la cazuela, añade el aceite y dora las cebollitas enteras a fuego medio 8 minutos, moviéndolas, hasta que tengan color por todos lados. Añade el ajo laminado y el pulpo y rehoga 2 minutos.",
+    "Pon el pulpo entero en una cazuela seca, tapa y cocina a fuego medio 15 minutos: soltará su propia agua rosada. Mientras, lamina el ajo. Saca el pulpo, guarda ese líquido y córtalo en trozos de 4 cm.",
+    "Seca la cazuela, añade el aceite y dora las cebollitas enteras a fuego medio 8 minutos, moviéndolas, hasta que tengan color por todos lados. Añade el ajo y el pulpo y rehoga 2 minutos.",
     "Vierte el vino tinto y el vinagre y deja que hiervan 2 minutos para que se evapore el alcohol.",
     "Incorpora el tomate, el laurel, la canela, la pimienta de Jamaica, el orégano, pimienta negra y el líquido del pulpo. No añadas sal todavía.",
-    "Tapa y cuece a fuego muy suave 60 minutos, removiendo de vez en cuando y añadiendo un poco de agua si se seca.",
-    "Añade las patatas peladas en trozos de 3 cm, prueba y ajusta de sal, y cuece 25 minutos más, hasta que las patatas estén tiernas y el pulpo se pinche sin resistencia.",
+    "Tapa y cuece a fuego muy suave 60 minutos, removiendo de vez en cuando y añadiendo un poco de agua si se seca. Mientras, pela las patatas, córtalas en trozos de 3 cm y guárdalas en agua fría.",
+    "Añade las patatas escurridas, prueba y ajusta de sal, y cuece 25 minutos más, hasta que las patatas estén tiernas y el pulpo se pinche sin resistencia.",
     "Retira la canela y el laurel y deja reposar 10 minutos antes de servir para que la salsa espese."
   ],
   nutricion: { kcal: 610, prot: 51, hc: 50, grasa: 23 },
@@ -1047,13 +1061,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la marinada: calienta en un cazo el vinagre, la soja, el azúcar, el agua y la guindilla en aros hasta que el azúcar se disuelva y empiece a hervir. Apaga y viértela en una fuente amplia.",
+    "Prepara la marinada: corta la guindilla en aros y caliéntala en un cazo con el vinagre, la soja, el azúcar y el agua hasta que el azúcar se disuelva y empiece a hervir. Apaga y viértela en una fuente amplia.",
     "Corta la cebolla en plumas muy finas, la zanahoria y el pimiento en juliana y el jengibre en hilos. Añádelos a la marinada caliente para que se ablanden ligeramente.",
     "Retira las espinas centrales de los filetes de jurel con unas pinzas y córtalos en trozos de 5 cm. Sécalos, sálalos y rebózalos en la maicena, sacudiendo el exceso.",
     "Calienta el aceite en una sartén a 175 °C y fríe el pescado en dos tandas 3–4 minutos, girándolo, hasta que esté dorado y crujiente.",
     "Escurre el pescado un instante sobre papel y pásalo directamente a la marinada mientras está muy caliente, cubriéndolo con las verduras.",
-    "Deja marinar al menos 1 hora a temperatura ambiente (o toda la noche en la nevera), dándole la vuelta un par de veces.",
-    "Sirve el jurel con las verduras y un poco de marinada, acompañado del pepino en rodajas finas."
+    "Deja marinar al menos 1 hora a temperatura ambiente (o toda la noche en la nevera), dándole la vuelta un par de veces. Poco antes de servir, corta el pepino en rodajas finas.",
+    "Sirve el jurel con las verduras y un poco de marinada, acompañado del pepino."
   ],
   nutricion: { kcal: 450, prot: 37, hc: 32, grasa: 19 },
   etiquetas: ["ligera", "económica", "batch cooking", "ideal para llevar", "verano", "bajo en colesterol"],

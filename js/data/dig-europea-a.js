@@ -36,7 +36,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal gorda", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Cuece las patatas con piel en agua con sal y el laurel 15 minutos desde que hierva: deben estar casi tiernas, no deshechas. Mientras, quita los tallos duros del kale y trocea las hojas, y pica el perejil. Escurre las patatas y déjalas humear 5 minutos para que se sequen.",
@@ -121,7 +122,8 @@ window.RECETAS_SEED.push({
     { n: "patata nueva", q: 400, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las patatas nuevas con piel en agua fría con sal y cuécelas 18-20 minutos desde que hierva, hasta que estén tiernas al pincharlas.",
@@ -167,7 +169,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 20-25 minutos, hasta que estén tiernas pero firmes. Mientras, corta el pepino en rodajas muy finas, sálalas y déjalas 10 minutos en un colador; pica el cebollino y el perejil y corta la panceta en dados pequeños.",
@@ -250,7 +253,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino blanco", q: 1, u: "cdta" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una olla grande de agua con sal y el laurel. Pela las patatas, déjalas enteras si son medianas y parte las zanahorias por la mitad a lo largo y corta la col en dos gajos.",
@@ -294,7 +298,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela la patata y el colinabo y córtalos en dados, el colinabo algo más pequeño porque tarda más. Cuécelos juntos en agua con sal 18-20 minutos, hasta que se deshagan al pincharlos.",
@@ -336,7 +341,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales de unos 4 cm y redondea las aristas con el cuchillo. Cuécelas al vapor con sal 20-22 minutos, hasta que estén tiernas: son las pommes vapeur que acompañan al plato.",
@@ -379,7 +385,8 @@ window.RECETAS_SEED.push({
     { n: "quinoa", q: 100, u: "g" },
     { n: "estragón fresco", q: 2, u: "rama" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava la quinoa en un colador y cuécela 12-14 minutos en abundante agua con sal. Escúrrela y déjala reposar tapada.",
@@ -476,7 +483,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" }
+    { n: "pimienta blanca", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Remoja el pan en agua 5 minutos; mientras, pica muy finas las anchoas y pica el cebollino. Escurre bien el pan. Mezcla en un bol la carne con el pan desmenuzado, el huevo, las anchoas, el cebollino, la nuez moscada, poca sal (las anchoas ya salan) y pimienta. Amasa 1 minuto, hasta que la mezcla esté ligada.",
@@ -565,7 +573,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "perejil fresco", q: 1, u: "manojo" },
     { n: "mostaza de Dijon", q: 2, u: "cdta", opcional: true, nota: "para la mesa" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Desala el lacón con antelación: 24 horas en agua fría, cambiando el agua dos veces. Pon el lacón en una cazuela cubierto de agua fría, llévalo a ebullición y tira el agua: así se va el exceso de sal. Cúbrelo de nuevo con agua limpia, añade el laurel y la pimienta en grano y cuece a fuego suave 1 hora, hasta que una brocheta entre sin esfuerzo.",
@@ -652,7 +661,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 350, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 12-15 minutos, hasta que estén tiernas. Mientras, pica el perejil.",
@@ -695,7 +705,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo casero", q: 150, u: "ml", nota: "sin cebolla ni ajo" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela la zanahoria, la chirivía y el colinabo y córtalos en bastones parecidos. Mézclalos en una bandeja con el aceite de oliva, sal, las hojas de tomillo y media cucharadita de alcaravea, y ásalos 20 minutos.",
@@ -785,7 +796,8 @@ window.RECETAS_SEED.push({
     { n: "kale", q: 150, u: "g" },
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la chirivía, córtala en trozos, quitando el corazón leñoso si es gruesa, y cuécela en agua con sal 15 minutos, hasta que esté muy tierna. Mientras, frota los contramuslos con sal, pimienta y el enebro machacado, quita los tallos del kale y trocea las hojas, y calienta la leche.",
@@ -827,7 +839,8 @@ window.RECETAS_SEED.push({
     { n: "pepinillos", q: 4, u: "ud" },
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si no tienes patatas cocidas, cuécelas con piel en agua con sal 20 minutos y déjalas enfriar. Mientras (o directamente, si ya las tienes), corta la panceta en dados pequeños, la parte verde de la cebolleta en aros finos y el tomate en rodajas, y pica el cebollino. Pela las patatas y córtalas en rodajas de medio centímetro.",
@@ -999,7 +1012,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas, y mantenlas tapadas.",
@@ -1045,7 +1059,8 @@ window.RECETAS_SEED.push({
     { n: "estragón fresco", q: 2, u: "rama" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño limpio, ponle un peso encima y déjalo 10 minutos para que suelte agua. Mientras, lava el arroz y cuécelo en abundante agua con sal 10-12 minutos; escúrrelo.",
@@ -1090,7 +1105,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en lonchas de 1 cm y cuécelas al vapor 10 minutos: le quita el amargor y lo vuelve más tierno.",

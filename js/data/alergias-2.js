@@ -309,7 +309,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "aceite de girasol", q: 500, u: "ml", nota: "para freír" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir un cazo de agua y pica la cebolla, los pimientos y el ajo. Salpimienta el pollo y dóralo en una cazuela con el aceite de oliva a fuego medio-alto 8-10 minutos, hasta que esté dorado por todas partes. Sácalo y resérvalo.",
@@ -350,7 +351,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 500, u: "g" },
     { n: "rúcula", q: 50, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas en gajos, mézclalas en la bandeja con 1 cucharada de aceite, las hojas de una rama de romero picadas y sal, y hornéalas 35-40 minutos, dándoles la vuelta a mitad, hasta que estén doradas.",
@@ -530,7 +532,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla una cebolla y machaca el ajo. Corta el cerdo en dados de 3 cm y mézclalo con la cebolla rallada, el ajo, el pimentón, pimienta y 1 cucharada de aceite. Déjalo en la nevera al menos 30 minutos (mejor 2 horas), sin sal todavía. Si las brochetas son de madera, ponlas en remojo en agua 20 minutos.",
@@ -620,7 +623,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
-    { n: "cilantro fresco", q: 0.5, u: "manojo" }
+    { n: "cilantro fresco", q: 0.5, u: "manojo" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta todo el jengibre en juliana fina y pica el ajo. Corta el pollo en trozos de 4 cm y mézclalo con la mitad del jengibre, el ajo, la sal y la mitad de la pimienta. Déjalo 10 minutos.",
@@ -889,7 +893,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador frotándola con los dedos hasta que el agua deje de hacer espuma: así pierde el amargor. Cuécela en el doble de su volumen de agua con sal 12-14 minutos, hasta que se vea el germen en espiral. Escúrrela y extiéndela en una bandeja para que se enfríe.",
@@ -935,7 +940,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 2, u: "cdta" },
     { n: "sal", q: 1, u: "cdta" },
     { n: "aceite de girasol", q: 1, u: "cda" },
-    { n: "lechuga romana", q: 0.5, u: "ud" }
+    { n: "lechuga romana", q: 0.5, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos en agua recién hervida 5-8 minutos (según el envase), hasta que estén tiernos. Mientras, parte los tomates cherry, corta la cebolla morada en plumas finas, las cebolletas en rodajas y el pepino en medias lunas, y deshoja el cilantro y la menta. Escurre los fideos, enjuágalos con agua fría y córtalos con tijeras en tramos de unos 10 cm.",
@@ -979,7 +985,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los fusilli en abundante agua con sal el tiempo del envase, removiendo los dos primeros minutos porque la pasta sin gluten tiende a pegarse. Pruébala un minuto antes: debe quedar firme.",
@@ -1290,7 +1297,8 @@ window.RECETAS_SEED.push({
     { n: "arroz largo", q: 120, u: "g" },
     { n: "alubias rojas cocidas", q: 150, u: "g", nota: "escurridas" },
     { n: "leche de coco", q: 150, u: "ml" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el ajo y el jengibre. Mezcla la cúrcuma, el cilantro, el comino y la pimienta de Jamaica. Unta el pollo con la mitad de la mezcla, el ajo, el jengibre, las hojas de 2 ramas de tomillo y sal. Déjalo 15 minutos (o toda la noche en la nevera); mientras, corta la cebolla en plumas, pica una cebolleta separando la parte blanca de la verde, pela la zanahoria y córtala en rodajas y pela las patatas y córtalas en trozos grandes.",

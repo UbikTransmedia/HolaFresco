@@ -33,14 +33,15 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Mientras, lava las patatas y córtalas con piel en trozos de 3 cm, y despunta y trocea las judías verdes.",
-    "Cuece las patatas en el agua hirviendo 12 minutos; en los últimos 5 añade las judías verdes. Mientras, corta el tempeh en dados de 1,5 cm y mézclalo con la salsa de soja, el pimentón y el sirope de arce. Escurre las patatas y las judías.",
+    "Cuece las patatas en el agua hirviendo 12 minutos; en los últimos 5 añade las judías verdes. Mientras, corta el tempeh en dados de 1,5 cm y mézclalo con la salsa de soja, el pimentón y el sirope de arce; ralla el ajo, parte los cherry en mitades, corta la cebolla morada en pluma fina y pica el perejil. Escurre las patatas y las judías.",
     "Calienta 1 cda de aceite en una sartén a fuego medio-alto y dora el tempeh 6-8 minutos dándole vueltas hasta que esté crujiente y caramelizado; vigila que el sirope no se queme.",
-    "Prepara la vinagreta en un bol grande: mostaza, vinagre, la ½ cda de aceite restante, el ajo rallado, sal y pimienta.",
-    "Añade al bol las patatas y las judías aún calientes, los cherry en mitades y la cebolla morada en pluma fina. Mezcla con cuidado para que las patatas absorban la vinagreta.",
+    "Prepara la vinagreta en un bol grande: mostaza, vinagre, la ½ cda de aceite restante, el ajo, sal y pimienta.",
+    "Añade al bol las patatas y las judías aún calientes, los cherry y la cebolla morada. Mezcla con cuidado para que las patatas absorban la vinagreta.",
     "Reparte en platos, corona con el tempeh crujiente y el perejil picado."
   ],
   nutricion: { kcal: 473, prot: 25, hc: 46, grasa: 21 },
@@ -76,15 +77,16 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz jazmín", q: 60, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 120 ml de agua con una pizca de sal, tapado, 12 minutos a fuego mínimo. Déjalo reposar tapado.",
     "Escurre el tofu y desmenúzalo con las manos en trozos pequeños e irregulares, como carne picada. Sécalo con papel de cocina.",
-    "Maja el ajo y los chiles en el mortero hasta una pasta gruesa (o pícalos muy finos). Corta las judías verdes en trozos de 2 cm y la cebolla en juliana.",
+    "Maja el ajo y los chiles en el mortero hasta una pasta gruesa (o pícalos muy finos). Corta las judías verdes en trozos de 2 cm, la cebolla en juliana y media lima en gajos.",
     "Calienta 1 cda de aceite en el wok a fuego máximo y saltea el tofu 6-7 minutos moviéndolo poco, hasta que esté dorado y seco. Resérvalo.",
     "Con la ½ cda de aceite restante, fríe la pasta de ajo y chile 20 segundos, añade las judías y la cebolla y saltea 3 minutos. Devuelve el tofu, vierte la soja, el azúcar y el vinagre y saltea 1 minuto más.",
-    "Apaga el fuego, añade la albahaca a puñados y remueve hasta que se marchite. Exprime media lima, pon pimienta y sirve con el arroz y la otra media lima en gajos."
+    "Apaga el fuego, añade la albahaca a puñados y remueve hasta que se marchite. Exprime la otra media lima, pon pimienta y sirve con el arroz y los gajos de lima."
   ],
   nutricion: { kcal: 458, prot: 26, hc: 39, grasa: 22 },
   etiquetas: ["rápida", "picante", "ligera", "wok", "económica", "alta en proteína", "bajo en colesterol"],
@@ -118,7 +120,8 @@ window.RECETAS_SEED.push({
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las espinacas y ponlas en una sartén grande solo con el agua que les queda. Tápalas 3 minutos a fuego medio hasta que se marchiten, escúrrelas apretando y pícalas gruesas.",
@@ -163,15 +166,16 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Calienta las judías escurridas en un cazo con 100 ml de agua y un ajo 5 minutos. Tritúralas en caliente con el tahini, el zumo del limón, el comino, sal y parte del agua de cocción hasta obtener una crema sedosa.",
+    "Calienta las judías escurridas en un cazo con 100 ml de agua y un ajo 5 minutos; mientras, pica el otro ajo y el perejil, corta la cebolla morada en pluma y deshoja el tomillo. Tritura las judías en caliente con el tahini, el zumo del limón, el comino, sal y parte del agua de cocción hasta obtener una crema sedosa.",
     "Trocea las setas grandes y deja enteras las pequeñas. Calienta 1 cda de aceite en una sartén a fuego fuerte y saltéalas 6 minutos moviéndolas poco, hasta que estén doradas.",
-    "Añade el otro ajo picado, las hojas de tomillo y la cebolla morada en pluma y saltea 2 minutos más. Salpimienta.",
-    "Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que empiecen a crepitar. Calienta las pitas en la tostadora o en la sartén.",
+    "Añade el otro ajo, las hojas de tomillo y la cebolla morada y saltea 2 minutos más. Salpimienta.",
+    "Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que empiecen a crepitar. Calienta las pitas en la tostadora o en la sartén y córtalas en triángulos.",
     "Extiende el hummus caliente en dos platos hondos haciendo un hueco en el centro con el dorso de una cuchara y coloca encima las setas con sus jugos.",
-    "Termina con la ½ cda de aceite restante, el pimentón, las semillas y el perejil picado. Sirve con la pita cortada en triángulos para mojar."
+    "Termina con la ½ cda de aceite restante, el pimentón, el perejil picado y las semillas. Sirve con la pita para mojar."
   ],
   nutricion: { kcal: 625, prot: 29, hc: 71, grasa: 25 },
   etiquetas: ["rápida", "para compartir", "económica", "alta en proteína", "sin horno", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -208,15 +212,16 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta la cebolla morada en pluma fina y déjala 5 minutos en agua fría para suavizarla. Escurre y enjuaga las lentejas.",
-    "Calienta ½ cda de aceite en una sartén con el ajo picado y el comino 30 segundos; añade las lentejas, sal y pimienta y caliéntalas 3 minutos. Apaga.",
+    "Corta la cebolla morada en pluma fina y déjala 5 minutos en agua fría para suavizarla. Mientras, escurre y enjuaga las lentejas, pica el ajo y el eneldo y trocea las nueces.",
+    "Calienta ½ cda de aceite en una sartén con el ajo y el comino 30 segundos; añade las lentejas, sal y pimienta y caliéntalas 3 minutos. Apaga.",
     "Pela la naranja a lo vivo sobre un bol para recoger el zumo y saca los gajos sin piel. Corta la remolacha en gajos.",
-    "Mezcla el yogur vegetal con la mostaza, la mitad del eneldo picado, 1 cda del zumo de naranja y sal.",
+    "Mezcla el yogur vegetal con la mostaza, la mitad del eneldo, 1 cda del zumo de naranja y sal.",
     "Prepara la vinagreta con el zumo de naranja restante, el vinagre, la ½ cda de aceite que queda y sal.",
-    "Monta los platos: canónigos, lentejas tibias, remolacha, gajos de naranja, cebolla escurrida y nueces troceadas. Riega con la vinagreta, añade cucharadas del yogur al eneldo y el resto del eneldo por encima."
+    "Monta los platos: canónigos, lentejas tibias, remolacha, gajos de naranja, cebolla escurrida y nueces. Riega con la vinagreta, añade cucharadas del yogur al eneldo y el resto del eneldo por encima."
   ],
   nutricion: { kcal: 459, prot: 22, hc: 50, grasa: 19 },
   etiquetas: ["rápida", "ligera", "sin cocción", "ideal para llevar", "económica", "otoño", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -253,15 +258,16 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "arroz jazmín", q: 80, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en 160 ml de agua con sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado. Mientras se cuece, corta las judías verdes en trozos de 3 cm, el pimiento en tiras, la cebolla en gajos y el jengibre en bastones finos.",
     "Calienta el aceite en el wok a fuego medio y fríe la pasta de curry 1 minuto removiendo hasta que huela intenso. Añade 3 cda de la parte espesa de la leche de coco y sigue friendo 2 minutos hasta que el aceite rojo se separe en los bordes.",
     "Incorpora la heura y saltéala 3 minutos para que se impregne de la pasta.",
-    "Vierte el resto de la leche de coco y 100 ml de agua. Añade las judías verdes, el pimiento, la cebolla, el jengibre, el azúcar y la salsa de soja. Cuece 8 minutos a fuego medio hasta que las verduras estén tiernas pero con mordida.",
+    "Vierte el resto de la leche de coco y 100 ml de agua. Añade las judías verdes, el pimiento, la cebolla, el jengibre, el azúcar y la salsa de soja. Cuece 8 minutos a fuego medio hasta que las verduras estén tiernas pero con mordida; mientras, corta el chile en rodajas y media lima en gajos.",
     "Apaga el fuego, exprime media lima dentro y añade la albahaca en hojas enteras. Prueba y rectifica de sal.",
-    "Sirve el curry con el arroz, el chile en rodajas y la otra media lima en gajos."
+    "Sirve el curry con el arroz, el chile y los gajos de lima."
   ],
   nutricion: { kcal: 566, prot: 25, hc: 49, grasa: 30 },
   etiquetas: ["rápida", "picante", "de cuchara", "wok", "una sola sartén"],
@@ -303,12 +309,13 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica muy finos los champiñones y una cebolla (en la picadora, a golpes cortos). Saltéalos en ½ cda de aceite a fuego fuerte 8-10 minutos hasta que suelten toda el agua, se evapore y queden dorados. Añade el ajo picado, el pimentón y el tomillo, 1 minuto más, y la salsa de soja. Deja templar.",
-    "Tritura la mitad de las lentejas escurridas con la batidora. Mézclalas en un bol con las lentejas enteras, el sofrito de champiñones, la avena, las nueces picadas, sal y pimienta. Déjalo 15 minutos en la nevera para que la avena absorba la humedad.",
-    "Mientras, caramela la otra cebolla en juliana con ½ cda de aceite a fuego medio-bajo 20 minutos, removiendo de vez en cuando; añade el azúcar y el balsámico los últimos 3 minutos.",
+    "Pica muy finos los champiñones y una cebolla (en la picadora, a golpes cortos) y pica el ajo. Saltea los champiñones y la cebolla en ½ cda de aceite a fuego fuerte 8-10 minutos hasta que suelten toda el agua, se evapore y queden dorados. Añade el ajo, el pimentón y el tomillo, 1 minuto más, y la salsa de soja. Deja templar y, mientras, pica las nueces.",
+    "Tritura la mitad de las lentejas escurridas con la batidora. Mézclalas en un bol con las lentejas enteras, el sofrito de champiñones, la avena, las nueces, sal y pimienta. Déjalo 15 minutos en la nevera para que la avena absorba la humedad.",
+    "Mientras, corta la otra cebolla en juliana y carameliza con ½ cda de aceite a fuego medio-bajo 20 minutos, removiendo de vez en cuando; añade el azúcar y el balsámico los últimos 3 minutos.",
     "Forma 2 hamburguesas gruesas con las manos húmedas, apretando bien, y devuélvelas a la nevera 10 minutos. Mientras, mezcla la veganesa con la mostaza antigua, corta el tomate en rodajas y lamina los pepinillos.",
     "Calienta la cucharada de aceite restante en una sartén antiadherente a fuego medio y cocina las hamburguesas 5 minutos por lado sin moverlas, hasta que tengan una costra dorada.",
     "Tuesta los panes 1 minuto por el lado del corte.",
@@ -348,16 +355,17 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava las patatas, pínchalas con un tenedor, frótalas con ½ cda de aceite y sal y ásalas sobre la rejilla 60-70 minutos hasta que estén tiernas por dentro y la piel crujiente.",
-    "Mientras, pocha la cebolla y el ajo picados en la cucharada de aceite restante a fuego medio 8 minutos. Añade las espinacas por puñados hasta que se marchiten, escurre el exceso de agua inclinando la sartén y sazona con sal, pimienta y la nuez moscada.",
-    "Tritura el tofu escurrido con la levadura nutricional, la bebida vegetal, el zumo del medio limón y sal hasta obtener una crema con textura de ricota, no del todo lisa.",
+    "Mientras, pica la cebolla y el ajo y póchalos en la cucharada de aceite restante a fuego medio 8 minutos. Añade las espinacas por puñados hasta que se marchiten, escurre el exceso de agua inclinando la sartén y sazona con sal, pimienta y la nuez moscada.",
+    "Ralla un poco de piel del medio limón y resérvala. Tritura el tofu escurrido con la levadura nutricional, la bebida vegetal, el zumo del medio limón y sal hasta obtener una crema con textura de ricota, no del todo lisa.",
     "Corta una tapa a lo largo de cada patata y vacíalas con una cuchara dejando una pared de 1 cm. Chafa la pulpa con un tenedor y mézclala con la crema de tofu y las espinacas.",
     "Rellena las patatas colmándolas bien y cúbrelas con el queso vegetal mezclado con el pan rallado.",
     "Sube el horno a 220 °C y gratina 15 minutos hasta que la superficie esté dorada.",
-    "Sirve con pimienta recién molida y un poco de ralladura de limón por encima."
+    "Sirve con pimienta recién molida y la ralladura de limón por encima."
   ],
   nutricion: { kcal: 601, prot: 30, hc: 64, grasa: 25 },
   etiquetas: ["al horno", "económica", "para niños", "batch cooking", "invierno", "alta en proteína", "poco especiada", "bajo en colesterol"],
@@ -395,12 +403,13 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pela las berenjenas a tiras alternas dejando franjas de piel y hazles un corte profundo a lo largo sin llegar a los extremos ni atravesarlas. Sálalas por dentro y déjalas 15 minutos en un escurridor; sécalas con papel.",
+    "Precalienta el horno a 200 °C. Pela las berenjenas a tiras alternas dejando franjas de piel y hazles un corte profundo a lo largo sin llegar a los extremos ni atravesarlas. Sálalas por dentro y déjalas 15 minutos en un escurridor; mientras, corta la cebolla en juliana y lamina el ajo. Seca las berenjenas con papel.",
     "Píntalas con 1 cda de aceite y ásalas en una fuente, con el corte hacia arriba, 25 minutos hasta que la carne esté blanda.",
-    "Mientras, pocha la cebolla en juliana y el ajo laminado con la otra cucharada de aceite a fuego medio 10 minutos hasta que estén muy blandos y dorados; entretanto, pela los tomates, córtalos en dados y pica el perejil y la menta. Tuesta los piñones aparte en una sartén seca 2 minutos.",
+    "Mientras, pocha la cebolla y el ajo con la otra cucharada de aceite a fuego medio 10 minutos hasta que estén muy blandos y dorados; entretanto, pela los tomates, córtalos en dados y pica el perejil y la menta. Tuesta los piñones aparte en una sartén seca 2 minutos.",
     "Añade al sofrito el tomate, la canela, el comino, el azúcar y sal y cuece 10 minutos hasta que espese. Incorpora los garbanzos escurridos, las pasas, la mayoría de los piñones y la mitad de las hierbas.",
     "Abre las berenjenas presionando la carne hacia los lados con una cuchara y rellénalas con todo el sofrito, apretando bien.",
     "Vierte 100 ml de agua caliente en la fuente, tápala con papel de aluminio y hornea 25 minutos; destapa los últimos 5 para que la superficie se dore. Deja templar 10 minutos.",
@@ -441,16 +450,17 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal y separa la coliflor en ramilletes. Cuécela en el agua hirviendo 12 minutos; añade las judías escurridas los últimos 3 minutos. Escurre muy bien.",
+    "Pon a hervir agua con sal y separa la coliflor en ramilletes. Cuécela en el agua hirviendo 12 minutos; añade las judías escurridas los últimos 3 minutos. Mientras, calienta la bebida vegetal, pica el ajo, el perejil y el cebollino y ralla la piel de medio limón. Escurre muy bien.",
     "Tritura la coliflor y las judías con la bebida vegetal caliente, 1 cda de aceite, la nuez moscada, sal y pimienta hasta un puré muy fino. Mantenlo caliente.",
     "Corta los pies de las setas de cardo en medallones de 2,5 cm (reserva los sombreros para la plancha también, en trozos). Marca una rejilla poco profunda en ambas caras de cada medallón con la punta del cuchillo y sálalos.",
     "Calienta la plancha a fuego medio-alto con 1 cda de aceite y haz los medallones 4 minutos por cada lado sin moverlos, hasta que estén muy dorados y tiernos por dentro. Pasa también los sombreros 2 minutos por lado.",
-    "Para la salsa, baja el fuego, aparta las setas y en la misma plancha o en un cazo dora el ajo picado 30 segundos; vierte el vino y deja reducir 1 minuto. Añade las alcaparras, el zumo de medio limón, la ½ cda de aceite restante, el perejil picado y pimienta. Apaga.",
+    "Para la salsa, baja el fuego, aparta las setas y en la misma plancha o en un cazo dora el ajo 30 segundos; vierte el vino y deja reducir 1 minuto. Añade las alcaparras, el zumo del otro medio limón, la ½ cda de aceite restante, el perejil y pimienta. Apaga.",
     "Tuesta el pan.",
-    "Extiende el puré en los platos, coloca los medallones encima, riega con la salsa de alcaparras y termina con el cebollino picado y ralladura del limón restante."
+    "Extiende el puré en los platos, coloca los medallones encima, riega con la salsa de alcaparras y termina con el cebollino picado y la ralladura de limón."
   ],
   nutricion: { kcal: 467, prot: 21, hc: 53, grasa: 19 },
   etiquetas: ["ligera", "a la plancha", "elegante", "cena", "fin de semana", "verduras escondidas", "poco especiada", "bajo en colesterol"],
@@ -497,13 +507,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la soja texturizada en 150 ml del caldo bien caliente durante 10 minutos; mientras, pica la cebolla, el pimiento y el ajo. Escurre la soja apretándola con las manos para quitarle todo el líquido.",
+    "Hidrata la soja texturizada en 150 ml del caldo bien caliente durante 10 minutos; mientras, pica la cebolla, el pimiento, el ajo y el chipotle. Escurre la soja apretándola con las manos para quitarle todo el líquido.",
     "Pocha la cebolla, el pimiento y el ajo en 1,5 cda de aceite a fuego medio 8 minutos. Añade el comino, el pimentón, el orégano y la canela y tuesta 30 segundos.",
     "Incorpora la soja escurrida, sube el fuego y saltéala 4 minutos hasta que coja algo de color y se seque.",
-    "Añade el tomate triturado, el concentrado, el chipotle picado, el cacao, el resto del caldo y sal. Cuece destapado a fuego suave 25 minutos removiendo de vez en cuando hasta que espese. Mientras, precalienta el horno a 200 °C.",
+    "Añade el tomate triturado, el concentrado, el chipotle, el cacao, el resto del caldo y sal. Cuece destapado a fuego suave 25 minutos removiendo de vez en cuando hasta que espese. Mientras, precalienta el horno a 200 °C y pica el cilantro.",
     "Agrega las alubias escurridas y el maíz y cuece 10 minutos más. Rectifica de sal y pimienta y exprime media lima dentro.",
-    "Mientras, corta las tortillas en triángulos, píntalos con la ½ cda de aceite restante y hornéalos 8 minutos hasta que estén crujientes.",
-    "Sirve el chili con el aguacate en dados, el cilantro picado, gajos de la lima restante y los totopos."
+    "Mientras, corta las tortillas en triángulos, píntalos con la ½ cda de aceite restante y hornéalos 8 minutos hasta que estén crujientes. Entretanto, corta el aguacate en dados y la lima restante en gajos.",
+    "Sirve el chili con el aguacate, el cilantro picado, los gajos de lima y los totopos."
   ],
   nutricion: { kcal: 755, prot: 37, hc: 91, grasa: 27 },
   etiquetas: ["de cuchara", "contundente", "económica", "batch cooking", "picante", "alta en proteína", "invierno"],
@@ -587,7 +597,8 @@ window.RECETAS_SEED.push({
     { n: "judías verdes", q: 250, u: "g" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la chirivía y la patata, trocéalas y cuécelas en agua con sal 18 minutos hasta que estén muy tiernas. Mientras, pon a hervir otro cazo con agua y sal para las judías verdes, despúntalas y pica la chalota. Escurre la chirivía y la patata y tritúralas con la bebida vegetal caliente, ½ cda de aceite, la nuez moscada y sal hasta un puré fino. Mantenlo caliente.",
@@ -637,7 +648,8 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C con ventilador. Presiona el tofu 10 minutos entre dos platos con peso y córtalo en bastones de 2 x 5 cm.",
@@ -684,7 +696,8 @@ window.RECETAS_SEED.push({
     { n: "kimchi vegano", q: 100, u: "g", nota: "comprueba la etiqueta: muchos llevan salsa de pescado" },
     { n: "lechuga romana", q: 6, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Presiona el tofu 10 minutos con peso encima y córtalo en lonchas de 1 cm.",
@@ -729,15 +742,16 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true, nota: "para servir" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas rojas en un colador hasta que el agua salga casi limpia. Ponlas en una cazuela con 600 ml de agua y la cúrcuma, lleva a ebullición, retira la espuma y cuece a fuego suave 20 minutos removiendo de vez en cuando, hasta que se deshagan en una crema.",
-    "Mientras, lava el arroz y cuécelo en 200 ml de agua con una pizca de sal, tapado, 12 minutos a fuego mínimo. Déjalo reposar tapado 5 minutos. Pica la cebolla y el tomate y ralla el jengibre.",
+    "Mientras, lava el arroz y cuécelo en 200 ml de agua con una pizca de sal, tapado, 12 minutos a fuego mínimo. Déjalo reposar tapado 5 minutos. Pica la cebolla y el tomate, ralla el jengibre, lamina el ajo, trocea la guindilla y pica el cilantro.",
     "En una sartén calienta 1 cda de aceite y sofríe la cebolla 6-7 minutos hasta que esté dorada. Añade el jengibre y el tomate y cocina 4 minutos más hasta que el tomate se deshaga.",
     "Vuelca el sofrito sobre las lentejas, añade las espinacas a puñados y el garam masala y cocina 3 minutos hasta que las espinacas se ablanden. Sala y ajusta la textura con un chorrito de agua si queda muy espesa.",
-    "Para el tadka, limpia la sartén, calienta la cda de aceite restante y fríe el ajo laminado, el comino y la guindilla troceada 1 minuto, hasta que el ajo esté dorado pálido y huela intenso.",
-    "Sirve el dal en cuencos, vierte el aceite chisporroteante por encima, exprime el limón y acompaña con el arroz y cilantro picado."
+    "Para el tadka, limpia la sartén, calienta la cda de aceite restante y fríe el ajo, el comino y la guindilla 1 minuto, hasta que el ajo esté dorado pálido y huela intenso.",
+    "Sirve el dal en cuencos, vierte el aceite chisporroteante por encima, exprime el limón y acompaña con el cilantro picado y el arroz."
   ],
   nutricion: { kcal: 595, prot: 24, hc: 90, grasa: 16 },
   etiquetas: ["de cuchara", "económica", "batch cooking", "invierno", "superalimentos", "bajo en colesterol"],
@@ -781,10 +795,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la cebolla por la mitad con piel y el jengibre a lo largo. Tuéstalos en una sartén sin aceite a fuego fuerte, con el corte hacia abajo, 6-8 minutos hasta que estén bien negros por esa cara.",
+    "Corta la cebolla por la mitad con piel y el jengibre a lo largo. Tuéstalos en una sartén sin aceite a fuego fuerte, con el corte hacia abajo, 6-8 minutos hasta que estén bien negros por esa cara. Mientras, corta la zanahoria en trozos y separa los pies de las shiitake.",
     "En la misma sartén tuesta el anís, la canela y el cilantro molido 1 minuto, hasta que desprendan aroma.",
-    "Pon en una cazuela los 1,5 l de agua, la cebolla, el jengibre, las especias, la zanahoria en trozos, los pies de las shiitake, la salsa de soja y el azúcar. Cuece a fuego suave, semitapado, 60 minutos. Cuela, prueba y ajusta de sal: debe quedar un caldo intenso y algo dulce.",
-    "Mientras, corta el tofu en lonchas de 1 cm, sécalo bien y dóralo en la sartén con unas gotas de aceite 3 minutos por cada lado. Lamina los sombreros de las shiitake.",
+    "Pon en una cazuela los 1,5 l de agua, la cebolla, el jengibre, las especias, la zanahoria, los pies de las shiitake, la salsa de soja y el azúcar. Cuece a fuego suave, semitapado, 60 minutos. Cuela, prueba y ajusta de sal: debe quedar un caldo intenso y algo dulce.",
+    "Mientras, corta el tofu en lonchas de 1 cm, sécalo bien y dóralo en la sartén con unas gotas de aceite 3 minutos por cada lado. Lamina los sombreros de las shiitake, corta la cebolleta en rodajas, deshoja el cilantro y la albahaca y corta la lima en gajos.",
     "Hidrata los fideos de arroz en agua caliente 8-10 minutos (o según el paquete) y escúrrelos.",
     "Vuelve a hervir el caldo colado y cuece en él las shiitake laminadas 3 minutos.",
     "Reparte los fideos en dos cuencos grandes, coloca encima el tofu, los brotes de soja crudos y la cebolleta en rodajas, y cubre con el caldo hirviendo. Sirve con cilantro, albahaca, gajos de lima y chile al gusto para que cada uno lo termine en la mesa."
@@ -822,15 +836,16 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "pan", q: 2, u: "rebanada", nota: "para mojar" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La noche anterior pon las judías en remojo con el triple de su volumen de agua fría. Al día siguiente escúrrelas.",
-    "Ponlas en una cazuela con la cebolla y el pimiento verde enteros (pelada la cebolla), 2 dientes de ajo, el laurel, 2 cda de aceite y agua fría que las cubra 3 dedos. Lleva a ebullición y retira la espuma.",
+    "Pela la cebolla y pon las judías en una cazuela con la cebolla y el pimiento verde enteros, 2 dientes de ajo, el laurel, 2 cda de aceite y agua fría que las cubra 3 dedos. Lleva a ebullición y retira la espuma.",
     "Cuece a fuego muy suave, sin que hierva a borbotones, 2 horas. Cada 20-30 minutos 'asústalas' con un chorrito de agua fría y mueve la cazuela por las asas en lugar de remover con cuchara para que no se rompan.",
     "A la hora y media saca la cebolla y el pimiento, tritúralos con un poco de caldo y devuelve la crema a la cazuela para espesar.",
-    "Corta el tofu ahumado en dados de 2 cm y las setas en trozos. Dóralos en una sartén con 1 cda de aceite a fuego fuerte 6-7 minutos hasta que estén tostados.",
-    "Aparta la sartén del fuego, añade el ajo restante picado, la última cda de aceite, los dos pimentones y el azafrán, remueve 20 segundos sin que se queme el pimentón y vuelca todo en la cazuela.",
+    "Mientras termina la cocción, corta el tofu ahumado en dados de 2 cm y las setas en trozos y pica el ajo restante. Dora el tofu y las setas en una sartén con 1 cda de aceite a fuego fuerte 6-7 minutos hasta que estén tostados.",
+    "Aparta la sartén del fuego, añade el ajo picado, la última cda de aceite, los dos pimentones y el azafrán, remueve 20 segundos sin que se queme el pimentón y vuelca todo en la cazuela.",
     "Deja cocer 15 minutos más hasta que las judías estén mantecosas y el caldo trabado. Sala al final, reposa 10 minutos tapado y sirve con pan."
   ],
   nutricion: { kcal: 745, prot: 35, hc: 74, grasa: 34 },
@@ -866,7 +881,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla en un bol pequeño el zumo de medio limón, la ralladura de la otra mitad, el vinagre, el orégano, 1,5 cda de aceite, sal y pimienta.",
@@ -912,7 +928,8 @@ window.RECETAS_SEED.push({
     { n: "queso vegetal rallado", q: 40, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las lentejas en agua sin sal 20-25 minutos, hasta que estén tiernas pero enteras. Escúrrelas.",
@@ -1009,7 +1026,7 @@ window.RECETAS_SEED.push({
     "En una cazuela ancha calienta el aceite y dora la heura 4 minutos a fuego fuerte. Sácala y resérvala.",
     "En el mismo aceite marca las alcachofas 4-5 minutos hasta que se doren por los bordes. Añade la cebolla, el pimiento y el ajo y sofríe 6 minutos a fuego medio.",
     "Agrega el pimentón, remueve unos segundos e incorpora el tomate. Cocina 4 minutos hasta que se reduzca y oscurezca.",
-    "Añade el arroz, nácaralo 1 minuto y vierte dos tercios del caldo caliente. Cuece 18 minutos a fuego medio removiendo de vez en cuando y añadiendo caldo cuando lo pida: debe quedar caldoso, no seco.",
+    "Añade el arroz, nácaralo 1 minuto y vierte dos tercios del caldo caliente. Cuece 18 minutos a fuego medio removiendo de vez en cuando y añadiendo caldo cuando lo pida: debe quedar caldoso, no seco. Mientras, pica el perejil.",
     "A los 12 minutos devuelve la heura y añade los guisantes. Ajusta de sal.",
     "Apaga cuando el grano esté al punto y el caldo haya espesado y ligue. Reposa 2 minutos y sirve con perejil picado."
   ],
@@ -1049,12 +1066,13 @@ window.RECETAS_SEED.push({
     { n: "levadura nutricional", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica la cebolla, la zanahoria y el apio en dados de medio centímetro. Sofríelos en una cazuela con ½ cda de aceite y un diente de ajo picado 8 minutos a fuego medio-bajo, hasta que estén blandos sin dorarse.",
-    "Añade el tomate triturado y cocina 5 minutos. Vierte el caldo y lleva a ebullición.",
-    "Incorpora las judías verdes troceadas y cuece 10 minutos a fuego suave. Mientras, corta el calabacín en dados.",
+    "Pica la cebolla, la zanahoria y el apio en dados de medio centímetro y pica un diente de ajo. Sofríelos en una cazuela con ½ cda de aceite 8 minutos a fuego medio-bajo, hasta que estén blandos sin dorarse.",
+    "Añade el tomate triturado y cocina 5 minutos. Vierte el caldo y lleva a ebullición; mientras, despunta las judías verdes y trocéalas.",
+    "Incorpora las judías verdes y cuece 10 minutos a fuego suave. Mientras, corta el calabacín en dados.",
     "Añade el calabacín, las alubias enjuagadas y la pasta, y cuece 10-12 minutos más hasta que la pasta esté al dente. Salpimienta.",
     "Mientras, prepara el pesto: tritura las hojas de albahaca con las almendras, el otro diente de ajo, la levadura nutricional, 1,5 cda de aceite, una pizca de sal y 2 cda de agua fría hasta tener una pasta fluida.",
     "Sirve la sopa en platos hondos y pon una cucharada generosa de pesto en el centro de cada uno para que se mezcle en la mesa."
@@ -1097,10 +1115,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta 1,5 cda de aceite en una sartén amplia y sofríe la cebolla en pluma y el pimiento en tiras 8-10 minutos a fuego medio, hasta que estén blandos y empiecen a dorarse.",
-    "Añade el ajo laminado, el comino, el pimentón y la harissa y remueve 30 segundos sin que se queme.",
+    "Corta la cebolla en pluma y el pimiento en tiras y lamina el ajo. Calienta 1,5 cda de aceite en una sartén amplia y sofríe la cebolla y el pimiento 8-10 minutos a fuego medio, hasta que estén blandos y empiecen a dorarse.",
+    "Añade el ajo, el comino, el pimentón y la harissa y remueve 30 segundos sin que se queme.",
     "Incorpora el tomate y los garbanzos escurridos, sala y cuece 10 minutos a fuego medio-bajo hasta que la salsa espese.",
-    "Mientras, escurre el tofu sedoso y aplástalo suavemente con un tenedor junto con la cúrcuma, la ½ cda de aceite restante y la kala namak si la usas: debe quedar en grumos tiernos, como un huevo cuajado a medias.",
+    "Mientras, escurre el tofu sedoso y aplástalo suavemente con un tenedor junto con la cúrcuma, la ½ cda de aceite restante y la kala namak si la usas: debe quedar en grumos tiernos, como un huevo cuajado a medias. Pica el cilantro.",
     "Haz 4 huecos en la salsa con una cuchara, reparte el tofu en ellos, tapa y deja 4-5 minutos a fuego suave para que se caliente sin deshacerse.",
     "Tuesta las pitas en una sartén seca o en la tostadora y sirve la shakshuka en la misma sartén con cilantro picado por encima."
   ],
@@ -1142,7 +1160,8 @@ window.RECETAS_SEED.push({
     { n: "levadura nutricional", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 20 minutos, hasta que se deshagan al pincharlas.",

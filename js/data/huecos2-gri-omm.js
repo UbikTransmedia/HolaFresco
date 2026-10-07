@@ -30,7 +30,8 @@ window.RECETAS_SEED.push({
     { n: "pan rústico", q: 2, u: "rebanada", nota: "gruesas, tostadas" },
     { n: "azúcar", q: 1, u: "pizca", opcional: true, nota: "solo si el tomate está ácido" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Parte los tomates por la mitad y rállalos por la parte del corte con un rallador grueso hasta que solo te quede la piel en la mano. Deberías obtener unos 400 g de pulpa.",
@@ -111,7 +112,8 @@ window.RECETAS_SEED.push({
     { n: "queso kefalotyri", q: 30, u: "g", nota: "o pecorino o manchego curado" },
     { n: "aceite de oliva virgen extra", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el gratinador del horno a 220 °C. Llena un bol con agua fría y el zumo de medio limón.",
@@ -238,7 +240,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "aceite de oliva virgen extra", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en dados de 3 cm y cuécelo 10 minutos en agua con sal a fuego suave: así pierde el amargor y se abre para absorber el adobo. Escúrrelo.",
@@ -283,7 +286,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva virgen extra", q: 50, u: "ml" },
     { n: "pan rústico", q: 2, u: "rebanada", opcional: true, nota: "para la salsa" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 15 minutos; mientras, corta las cebollas en medias lunas finas, pica el apio, lamina el ajo y ralla los tomates. Corta el tofu en 6 lonchas de 2 cm, sécalas y sálalas.",
@@ -330,7 +334,8 @@ window.RECETAS_SEED.push({
     { n: "queso kefalotyri", q: 30, u: "g", nota: "o pecorino" },
     { n: "aceite de oliva virgen extra", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Calienta 1 cucharada de aceite en una sartén a fuego fuerte y dora la heura 4 minutos, hasta que tenga los bordes tostados. Sácala y resérvala: si se cuece todo el tiempo en el horno queda seca y fibrosa.",
@@ -420,7 +425,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva virgen extra", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata la soja en el caldo caliente 10 minutos. Escúrrela en un colador y apriétala con las manos a puñados hasta que no suelte líquido: es lo que decide si las biftekia se sostienen.",
@@ -465,7 +471,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva virgen extra", q: 4, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pan rústico", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta las semillas de cilantro y alcaravea en una sartén seca 1 minuto, hasta que huelan, y machácalas en el mortero con 1 diente de ajo y una pizca de sal: es un tabil casero.",
@@ -507,7 +514,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "menta seca", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 20-25 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas, déjalas templar y pélalas.",
@@ -549,7 +557,8 @@ window.RECETAS_SEED.push({
     { n: "pimiento verde italiano", q: 2, u: "ud", nota: "finos" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "pan rústico", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el çemen: en un cuenco, mezcla el fenogreco, el pimentón, la mitad de los copos de chile, el ajo rallado y 1 cucharada de agua hasta tener una pasta. Unta con ella las lonchas de cecina por una cara con el dorso de una cuchara.",
@@ -595,7 +604,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "pepinillos", q: 4, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el perejil y la menta y sécalos a conciencia: el agua hace que la masa salpique y se deshaga. Pica muy finas las hojas de menta y las hojas y los tallos tiernos del perejil, y la cebolla también, casi rallada. Corta el tomate en rodajas y los pepinillos en tiras.",
@@ -683,7 +693,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva virgen extra", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prensa el tofu 15 minutos entre papel de cocina con un peso encima; mientras, corta las cebollas en juliana y pica el perejil. Corta el tofu en dados de 3 cm y sazónalo con sal, el comino y la pimienta de Jamaica. Precalienta el horno a 200 °C.",
@@ -729,7 +740,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los guisantes partidos en una cazuela pequeña con agua abundante sin sal 20-25 minutos, hasta que estén tiernos pero enteros. Escúrrelos: cocerlos aparte evita que se deshagan en el guiso.",
@@ -774,7 +786,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en bastones muy finos, como cerillas, con mandolina o cuchillo. Lávalas en agua fría hasta que salga limpia y sécalas a fondo con un paño: el almidón y el agua son lo que impide que queden crujientes.",
@@ -823,7 +836,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 1, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Disuelve 1 cucharada de tomate concentrado en el caldo caliente e hidrata en él la soja 10 minutos. Escúrrela apretando bien. Precalienta el horno a 220 °C.",
@@ -869,7 +883,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pan", q: 2, u: "rebanada", nota: "o pan marroquí (khobz), para mojar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en triángulos de 1,5 cm de grosor y cuécelo 10 minutos en agua con sal a fuego suave: pierde el amargor y se abre para absorber la salsa. Escúrrelo y sécalo con papel.",

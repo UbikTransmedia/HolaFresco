@@ -29,7 +29,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si usas palillos de madera, ponlos en remojo en agua 20 minutos para que no se quemen en la plancha.",
@@ -77,7 +78,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura los garbanzos con el tahini, el zumo de medio limón, el medio diente de ajo, una pizca de sal y 3-4 cucharadas de agua fría hasta tener un hummus cremoso.",
-    "Corta el pepino y el tomate en dados pequeños, la cebolla morada en juliana muy fina y mézclalos con la hierbabuena picada, sal y el zumo del resto del limón.",
+    "Corta el pepino y el tomate en dados pequeños y la cebolla morada en juliana muy fina, pica la hierbabuena y mézclalo todo con sal y el zumo del resto del limón.",
     "Escurre las sardinas reservando una cucharada de su aceite. Ábrelas por la mitad y retira la espina central si te molesta.",
     "Calienta las pitas en una sartén seca 30 segundos por lado para que se inflen y estén flexibles. Ábrelas por un lado formando un bolsillo.",
     "Unta el interior de cada pita con una buena capa de hummus, añade la ensalada y coloca las sardinas encima.",
@@ -162,12 +163,13 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 1, u: "cdta" }
+    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Hidrata la wakame en agua fría 10 minutos; se multiplicará por diez. Escúrrela y apriétala bien.",
+    "Hidrata la wakame en agua fría 10 minutos; se multiplicará por diez. Mientras, ralla el jengibre, corta la cebolleta en aros y el pepino y los rábanos en láminas finísimas. Escurre la wakame y apriétala bien.",
     "Prepara el ponzu mezclando la soja, el zumo de media naranja, el zumo de la lima, el vinagre de arroz y el jengibre rallado.",
-    "Corta el pepino y los rábanos en láminas finísimas y mézclalos con la wakame, la cebolleta en aros, el aceite de sésamo y 2 cucharadas del ponzu.",
+    "Mezcla el pepino y los rábanos con la wakame, la cebolleta, el aceite de sésamo y 2 cucharadas del ponzu.",
     "Seca el taco de bonito con papel, píntalo con el aceite de oliva y rebózalo en el sésamo presionando para que se adhiera.",
     "Calienta una sartén antiadherente a fuego muy fuerte y sella el bonito 30 segundos por cada cara, solo hasta que el sésamo se dore. Por dentro debe quedar crudo.",
     "Pásalo 2 minutos a un plato frío para cortar la cocción y córtalo en lonchas de 1 cm con un cuchillo bien afilado.",
@@ -204,13 +206,14 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta las cebollas en juliana fina y póchalas en la cazuela con 2 cucharadas de aceite y una pizca de sal a fuego suave durante 15 minutos, hasta que estén transparentes y empiecen a dorarse.",
+    "Corta las cebollas en juliana fina y póchalas en la cazuela con 2 cucharadas de aceite y una pizca de sal a fuego suave durante 15 minutos, hasta que estén transparentes y empiecen a dorarse. Mientras, lamina el ajo.",
     "Sube el fuego, añade la sepia bien seca y el ajo laminado y saltea 3 minutos.",
     "Vierte el vino blanco, deja que se evapore el alcohol 2 minutos, añade el laurel y medio vaso de agua. Tapa y cuece a fuego suave 35-40 minutos, hasta que la sepia esté tierna al pincharla.",
-    "Mientras, pela las patatas y córtalas en rodajas finas; corta el pimiento verde en tiras.",
+    "Mientras, pela las patatas y córtalas en rodajas finas; corta el pimiento verde en tiras y pica el perejil.",
     "Confita las patatas y el pimiento en la sartén con 3 cucharadas de aceite a fuego medio-bajo, tapadas, 20 minutos, removiendo de vez en cuando. Destapa los últimos 5 minutos para que se doren un poco.",
     "Prueba la sepia y ajusta de sal y pimienta; la salsa debe quedar melosa. Si está muy líquida, deja reducir sin tapa 5 minutos.",
     "Sirve la sepia encebollada sobre las patatas a lo pobre y espolvorea perejil picado."
@@ -290,15 +293,16 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pan", q: 80, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon las almejas en agua fría con sal (35 g por litro) 15 minutos para que suelten la arena. Escúrrelas y descarta las que estén rotas o abiertas.",
-    "Mientras sueltan la arena, pica el ajo, el jengibre, la parte blanca de la cebolleta y el chile (sin semillas si lo quieres suave) y tuesta el pan.",
+    "Mientras sueltan la arena, pica el ajo, el jengibre, la parte blanca de la cebolleta y el chile (sin semillas si lo quieres suave), corta el verde de la cebolleta en aros, pica la albahaca y el cilantro y tuesta el pan.",
     "Calienta el aceite en una cazuela amplia a fuego medio y sofríe el picado 1 minuto, sin que llegue a dorarse.",
     "Añade la leche de coco y la salsa de pescado y lleva a ebullición.",
     "Echa las almejas, tapa y cocina a fuego fuerte 3-4 minutos, moviendo la cazuela, hasta que se abran todas. Descarta las que sigan cerradas.",
-    "Apaga el fuego, añade el zumo de la lima, la albahaca y el cilantro picados y el verde de la cebolleta.",
+    "Apaga el fuego y añade el zumo de la lima, la albahaca y el cilantro picados y el verde de la cebolleta.",
     "Sirve en platos hondos con el caldo y el pan tostado para mojar."
   ],
   nutricion: { kcal: 455, prot: 24, hc: 40, grasa: 22 },
@@ -339,7 +343,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta el boniato en gajos con piel, úntalos con una cucharada de aceite y sal y ásalos 30-35 minutos, hasta que estén tiernos y con los bordes caramelizados.",
-    "Corta el abadejo en trozos de 4 cm y mézclalo con los langostinos, el zumo de media lima, el ajo picado y sal. Deja que marine mientras preparas el guiso.",
+    "Mientras se asa, pica el ajo y el cilantro. Corta el abadejo en trozos de 4 cm y mézclalo con los langostinos, el zumo de media lima, el ajo y sal. Deja que marine mientras preparas el guiso.",
     "Corta la cebolla, los pimientos y los tomates en rodajas o tiras finas.",
     "En la cazuela con el resto del aceite, haz capas: la mitad de la cebolla, los pimientos y el tomate, después el pescado y los langostinos, y encima el resto de las verduras.",
     "Mezcla la leche de coco con el pimentón y viértela por encima. Tapa y cocina a fuego medio-bajo 15 minutos, sin remover, solo moviendo la cazuela para que no se pegue.",
@@ -381,13 +385,14 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 20, u: "g" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos. Cuece también el huevo 10 minutos en otro cazo.",
-    "Precalienta el horno a 200 °C. Mientras, calienta 250 ml de leche con el laurel y escalfa en ella la merluza 5 minutos a fuego suave; entretanto, pica el puerro. Saca el pescado y reserva la leche colada.",
+    "Precalienta el horno a 200 °C. Mientras, calienta 250 ml de leche con el laurel y escalfa en ella la merluza 5 minutos a fuego suave; entretanto, pica el puerro y el eneldo. Saca el pescado y reserva la leche colada.",
     "En la cazuela, funde 15 g de mantequilla y rehoga el puerro 5 minutos. Añade la harina, tuéstala 1 minuto y vierte poco a poco la leche de escalfar, removiendo hasta tener una bechamel ligera. Añade la mostaza, el eneldo picado, sal y pimienta.",
-    "Desmenuza la merluza en lascas grandes, trocea el salmón ahumado y el huevo, y repártelos con los guisantes en una fuente pequeña. Cubre con la bechamel.",
+    "Desmenuza la merluza en lascas grandes, trocea el salmón ahumado, pela y trocea el huevo, y repártelos con los guisantes en una fuente pequeña. Cubre con la bechamel.",
     "Escurre las patatas y cháfalas con el resto de la mantequilla y de la leche caliente. Ajusta de sal.",
     "Extiende el puré sobre el relleno, marca surcos con un tenedor y espolvorea el queso rallado.",
     "Hornea 25 minutos, hasta que el relleno burbujee por los bordes y la superficie esté dorada. Deja reposar 5 minutos antes de servir."
@@ -428,10 +433,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta el boniato en rodajas de 1 cm, úntalas con media cucharada de aceite y hornéalas en una bandeja con papel 15 minutos.",
-    "Mezcla el miso con la ralladura de media naranja, 2 cucharadas de su zumo, la miel y la soja hasta tener una pasta lisa.",
+    "Mientras, mezcla el miso con la ralladura de media naranja, 2 cucharadas de su zumo, la miel y la soja hasta tener una pasta lisa. Pica el ajo, el jengibre y la cebolleta.",
     "Seca bien los lomos de caballa y colócalos con la piel hacia arriba sobre el boniato. Pinta la carne (no la piel) con la mitad del glaseado.",
     "Hornea 8 minutos y pon el gratinador los últimos 2 minutos para que la piel quede crujiente y con algunas manchas tostadas.",
-    "Mientras, corta los pak choi en cuartos a lo largo y saltéalos en la sartén con el resto del aceite, el ajo y el jengibre picados 3 minutos. Añade el resto del glaseado diluido con el zumo de naranja que quede y deja reducir 1 minuto.",
+    "Mientras, corta los pak choi en cuartos a lo largo y saltéalos en la sartén con el resto del aceite, el ajo y el jengibre 3 minutos. Añade el resto del glaseado diluido con el zumo de naranja que quede y deja reducir 1 minuto.",
     "Sirve el boniato con la caballa encima, el pak choi al lado y espolvorea sésamo y cebolleta picada."
   ],
   nutricion: { kcal: 515, prot: 32, hc: 38, grasa: 26 },
@@ -475,12 +480,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava bien las espinas y cabezas quitando restos de sangre y agallas. Ponlas en la cazuela con el agua fría, el laurel, la parte verde del puerro y un trozo de cebolla. Lleva a ebullición, espuma y cuece 25 minutos a fuego suave; mientras, pica el resto de la cebolla, el blanco del puerro y el hinojo. Cuela el fumet.",
-    "En la cazuela limpia, sofríe con el aceite la cebolla, el puerro y el hinojo picados durante 10 minutos, hasta que estén blandos.",
-    "Añade 2 ajos laminados, los tomates troceados, el pimentón y la piel de naranja; rehoga 5 minutos. Vierte el vino y deja evaporar 2 minutos.",
-    "Agrega 1 litro de fumet y cuece 20 minutos; mientras, precalienta el horno a 200 °C. Retira la piel de naranja, tritura bien y cuela por un colador fino apretando con una cuchara.",
-    "Prepara la rouille: mezcla la mayonesa con el ajo restante rallado, una pizca de pimentón y una cucharada de la sopa caliente.",
+    "En la cazuela limpia, sofríe con el aceite la cebolla, el puerro y el hinojo picados durante 10 minutos, hasta que estén blandos. Mientras, lamina 2 ajos y trocea los tomates.",
+    "Añade los ajos laminados, los tomates, el pimentón y la piel de naranja; rehoga 5 minutos. Vierte el vino y deja evaporar 2 minutos.",
+    "Agrega 1 litro de fumet y cuece 20 minutos; mientras, precalienta el horno a 200 °C y corta la merluza en dados. Retira la piel de naranja, tritura bien y cuela por un colador fino apretando con una cuchara.",
+    "Prepara la rouille: ralla el ajo restante y mézclalo con la mayonesa, una pizca de pimentón y una cucharada de la sopa caliente.",
     "Corta el pan en rebanadas finas y tuéstalo en el horno 6-8 minutos hasta que esté crujiente.",
-    "Vuelve a calentar la sopa, ajusta de sal y añade la merluza en dados y las gambas. Cuece solo 3 minutos, hasta que el pescado esté opaco.",
+    "Vuelve a calentar la sopa, ajusta de sal y añade la merluza y las gambas. Cuece solo 3 minutos, hasta que el pescado esté opaco.",
     "Sirve la sopa con los picatostes untados de rouille flotando por encima."
   ],
   nutricion: { kcal: 530, prot: 34, hc: 40, grasa: 26 },
@@ -561,13 +566,14 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Marina la merluza 10 minutos con el jengibre y el ajo rallados, el zumo de medio limón y sal.",
+    "Ralla el jengibre y el ajo y marina la merluza 10 minutos con ellos, el zumo de medio limón y sal.",
     "Corta las patatas en dados de 2 cm, cuécelas 8 minutos en agua con sal y escúrrelas bien.",
-    "Corta la cebolla morada en aros finos y cúbrela con el zumo del otro medio limón y una pizca de sal: en 15 minutos estará encurtida.",
-    "Prepara la raita mezclando el yogur con el pepino rallado y escurrido, la menta picada, media cucharadita de comino y sal.",
+    "Mientras se cuecen, corta la cebolla morada en aros finos y cúbrela con el zumo del otro medio limón y una pizca de sal: en 15 minutos estará encurtida.",
+    "Prepara la raita: ralla el pepino y escúrrelo, pica la menta y mézclalos con el yogur, media cucharadita de comino y sal.",
     "Saltea las patatas en la sartén con 2 cucharadas de aceite, la cúrcuma y el resto del comino a fuego fuerte, 8-10 minutos, hasta que estén doradas. Resérvalas.",
     "Mezcla la harina de garbanzo con el garam masala, el pimentón y 3-4 cucharadas de agua hasta tener una pasta espesa. Reboza las tiras de merluza.",
     "Fríelas en la misma sartén con el resto del aceite a fuego medio-fuerte, 2-3 minutos por lado, hasta que la costra esté dorada y crujiente.",
@@ -612,8 +618,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Ralla los tomates y desecha la piel. Corta la cebolla en juliana, lamina el ajo y corta el jalapeño en rodajas.",
     "Calienta el aceite en una sartén amplia y pocha la cebolla 8 minutos a fuego medio, hasta que esté blanda. Añade el ajo y el jalapeño 1 minuto más.",
-    "Incorpora el tomate, el laurel, la canela y el orégano y cuece 10 minutos, hasta que la salsa espese.",
-    "Añade las aceitunas en rodajas y las alcaparras y ajusta de sal.",
+    "Incorpora el tomate, el laurel, la canela y el orégano y cuece 10 minutos, hasta que la salsa espese. Mientras, corta las aceitunas en rodajas y pica el perejil.",
+    "Añade las aceitunas y las alcaparras y ajusta de sal.",
     "Sala los lomos de dorada y colócalos sobre la salsa con la piel hacia arriba. Tapa y cocina 6-7 minutos a fuego suave, hasta que la carne esté opaca y se separe en lascas.",
     "Espolvorea perejil picado y sirve directamente de la sartén, con tortillas de maíz calientes si quieres."
   ],
@@ -655,10 +661,10 @@ window.RECETAS_SEED.push({
     "Limpia los mejillones quitando las barbas y raspando las conchas. Ponlos en la cazuela con el vino, tapa y cuécelos a fuego fuerte 3-4 minutos, hasta que se abran. Desecha los que sigan cerrados.",
     "Saca la carne de las conchas y cuela el caldo que han soltado por un paño o un colador fino; reserva 50 ml.",
     "Precalienta el horno a 200 °C. Asa el pimiento rojo entero y las patatas en rodajas gruesas untadas con un poco del aceite y sal durante 40 minutos, dando la vuelta a mitad.",
-    "Mientras, calienta el aceite en un cazo con los ajos laminados, el laurel y la pimienta en grano a fuego suave, hasta que los ajos empiecen a dorarse.",
+    "Mientras, lamina los ajos y calienta el aceite en un cazo con ellos, el laurel y la pimienta en grano a fuego suave, hasta que los ajos empiecen a dorarse.",
     "Retira del fuego, añade el pimentón, remueve 10 segundos y vierte enseguida el vinagre y el caldo reservado. Lleva a ebullición 1 minuto.",
-    "Echa el escabeche caliente sobre los mejillones en un recipiente de cristal, deja enfriar y reposar al menos 1 hora (mejor de un día para otro en la nevera).",
-    "Pela el pimiento asado y córtalo en tiras. Sirve las patatas y el pimiento con los mejillones y un poco de su escabeche por encima, con perejil picado."
+    "Echa el escabeche caliente sobre los mejillones en un recipiente de cristal, deja enfriar y reposar al menos 1 hora (mejor de un día para otro en la nevera). Mientras reposa, pica el perejil y, cuando el pimiento esté asado, pélalo y córtalo en tiras.",
+    "Sirve las patatas y el pimiento con los mejillones y un poco de su escabeche por encima, con el perejil picado."
   ],
   nutricion: { kcal: 520, prot: 28, hc: 44, grasa: 26 },
   etiquetas: ["económica", "batch cooking", "ideal para llevar", "verano", "poco especiada"],
@@ -693,7 +699,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cdta" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "canónigos", q: 1, u: "puñado" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la remolacha y mézclala con la sal gruesa, el azúcar, la ralladura del limón, la mitad del eneldo picado y pimienta.",
@@ -775,10 +782,11 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pimiento verde", q: 1, u: "ud", opcional: true, nota: "para asar junto al pescado" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas y córtalas en trozos grandes, cascándolas al final del corte. Cuécelas en agua con sal y el laurel 20 minutos: son los cachelos.",
+    "Pela las patatas y córtalas en trozos grandes, cascándolas al final del corte. Cuécelas en agua con sal y el laurel 20 minutos: son los cachelos. Mientras, lamina los ajos, pica el perejil y, si usas el pimiento verde, córtalo en tiras.",
     "Pide en la pescadería que te abran los jureles a la espalda y te quiten la espina. Sécalos con papel y sálalos por la parte de la carne.",
     "Prepara la ajada: calienta el aceite en un cazo con los ajos laminados a fuego suave hasta que se doren ligeramente. Retira del fuego, añade los dos pimentones, remueve 5 segundos y vierte el vinagre.",
     "Calienta la plancha a fuego fuerte y engrásala con unas gotas de la ajada. Pon los jureles con la piel hacia abajo y cocínalos 3-4 minutos, hasta que la piel esté crujiente.",
@@ -825,13 +833,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Haz la chermoula triturando el cilantro, el perejil, el ajo, el comino, el pimentón, la cúrcuma, el zumo del limón, el aceite y una pizca de sal.",
+    "Reserva unas hojas de cilantro y haz la chermoula triturando el resto del cilantro, el perejil, el ajo, el comino, el pimentón, la cúrcuma, el zumo del limón, el aceite y una pizca de sal.",
     "Unta la corvina con un tercio de la chermoula y déjala marinar en la nevera 20 minutos.",
-    "Pela las patatas y córtalas en rodajas de medio centímetro; corta los pimientos en tiras y los tomates en rodajas.",
-    "Mezcla las patatas y los pimientos con el resto de la chermoula y extiéndelos en la base de la cazuela o tajine. Añade el agua, tapa y cuece a fuego medio-bajo 20 minutos, hasta que las patatas estén casi tiernas.",
+    "Mientras marina, pela las patatas y córtalas en rodajas de medio centímetro; corta los pimientos en tiras y los tomates en rodajas.",
+    "Mezcla las patatas y los pimientos con el resto de la chermoula y extiéndelos en la base de la cazuela o tajine. Añade el agua, tapa y cuece a fuego medio-bajo 20 minutos, hasta que las patatas estén casi tiernas. Mientras, pica las hojas de cilantro reservadas.",
     "Coloca encima las rodajas de tomate, la corvina con su marinada y las aceitunas.",
     "Tapa de nuevo y cocina 10-12 minutos a fuego suave, hasta que el pescado se separe en lascas. Si se queda seco, añade un chorrito de agua.",
-    "Sirve directamente de la cazuela con un poco de cilantro picado por encima."
+    "Sirve directamente de la cazuela con el cilantro picado por encima."
   ],
   nutricion: { kcal: 540, prot: 36, hc: 40, grasa: 26 },
   etiquetas: ["una sola sartén", "alta en proteína", "batch cooking", "poco especiada"],
@@ -873,8 +881,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la remoulade: mezcla la mayonesa con la mostaza, los pepinillos y las alcaparras picados, unas gotas de limón y una pizca de pimentón.",
-    "Corta la col en juliana muy fina y aliña con una cucharada de la remoulade y el resto del zumo de limón. Deja que se ablande un poco mientras fríes.",
+    "Prepara la remoulade: pica los pepinillos y las alcaparras y mézclalos con la mayonesa, la mostaza, unas gotas de limón y una pizca de pimentón.",
+    "Corta la col en juliana muy fina y aliña con una cucharada de la remoulade y el resto del zumo de limón. Deja que se ablande un poco mientras fríes. Corta el tomate en rodajas.",
     "Mezcla la harina con el pimentón ahumado, el ajo en polvo, la cayena y sal. Bate el huevo en otro plato y pon el panko en un tercero.",
     "Seca bien las gambas y pásalas por la harina especiada, el huevo y el panko, presionando para que se adhiera.",
     "Fríelas en un dedo de aceite caliente a fuego medio-fuerte 1-2 minutos por lado, hasta que estén doradas. Escúrrelas sobre papel.",
@@ -914,7 +922,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "judías verdes", q: 150, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Cuece las patatas enteras con piel en agua con sal 15 minutos. Añade las judías verdes los últimos 4 minutos y escurre todo.",
@@ -956,12 +965,13 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada molida", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Separa la coliflor en ramilletes y cuécela con el ajo en agua con sal 12-15 minutos, hasta que esté muy tierna. Escurre bien.",
+    "Separa la coliflor en ramilletes y cuécela con el ajo en agua con sal 12-15 minutos, hasta que esté muy tierna. Mientras, corta el bacon en tiras finas y pica el cebollino. Escurre bien.",
     "Tritúrala con la leche caliente, la mitad de la mantequilla, la nuez moscada, sal y pimienta hasta obtener una crema muy fina. Mantenla caliente.",
-    "Corta el bacon en tiras finas y dóralo en la sartén sin aceite hasta que esté crujiente. Escúrrelo sobre papel y limpia la sartén dejando una película de grasa.",
+    "Dora el bacon en la sartén sin aceite hasta que esté crujiente. Escúrrelo sobre papel y limpia la sartén dejando una película de grasa.",
     "Seca muy bien las vieiras con papel y sálalas justo antes de cocinarlas.",
     "Calienta la sartén a fuego muy fuerte con el aceite y marca las vieiras 90 segundos sin moverlas, hasta que tengan una costra dorada. Dales la vuelta, añade el resto de la mantequilla y cocina 1 minuto más regándolas con ella.",
     "Retira y añade unas gotas de limón a la mantequilla de la sartén.",
@@ -1004,9 +1014,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y el pimiento rojo en tiras finas y sofríelos en la sartén con el aceite a fuego medio 8 minutos, hasta que estén blandos.",
-    "Añade el ajo picado, el comino, el pimentón y la cayena y remueve 30 segundos sin que se quemen.",
-    "Incorpora el tomate triturado y los garbanzos escurridos y cuece 8 minutos, hasta que la salsa espese. Ajusta de sal.",
+    "Pica la cebolla y el ajo y corta el pimiento rojo en tiras finas. Sofríe la cebolla y el pimiento en la sartén con el aceite a fuego medio 8 minutos, hasta que estén blandos.",
+    "Añade el ajo, el comino, el pimentón y la cayena y remueve 30 segundos sin que se quemen.",
+    "Incorpora el tomate triturado y los garbanzos escurridos y cuece 8 minutos, hasta que la salsa espese. Ajusta de sal. Mientras, pica el cilantro.",
     "Añade el atún escurrido en trozos grandes, removiendo con cuidado para que no se deshaga del todo.",
     "Haz tres huecos en la salsa con una cuchara y casca un huevo en cada uno. Tapa y cocina a fuego suave 5-6 minutos, hasta que la clara esté cuajada y la yema siga líquida. Mientras, tuesta el pan.",
     "Espolvorea cilantro picado y sirve en la misma sartén con el pan tostado para mojar."
@@ -1089,12 +1099,12 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Pon la wakame a hidratar en agua fría 5 minutos y escúrrela.",
-    "Calienta el agua en una cazuela con el jengibre en láminas y la parte blanca de la cebolleta. Cuando hierva, añade las setas laminadas y cuece 5 minutos.",
-    "Baja el fuego al mínimo y añade la merluza en dados de 3 cm y el tofu en dados. Cuece 3-4 minutos sin que llegue a hervir, hasta que el pescado esté opaco.",
+    "Pon la wakame a hidratar en agua fría 5 minutos y escúrrela. Mientras, corta el jengibre en láminas, lamina las setas, corta la merluza en dados de 3 cm y el tofu en dados y pica la cebolleta, separando la parte blanca de la verde.",
+    "Calienta el agua en una cazuela con el jengibre y la parte blanca de la cebolleta. Cuando hierva, añade las setas y cuece 5 minutos.",
+    "Baja el fuego al mínimo y añade la merluza y el tofu. Cuece 3-4 minutos sin que llegue a hervir, hasta que el pescado esté opaco.",
     "Disuelve el miso en un cazo con un poco del caldo caliente y viértelo en la sopa. A partir de aquí no debe hervir para no perder su aroma.",
     "Añade las espinacas, la wakame y la soja y deja 1 minuto, solo hasta que las espinacas se ablanden.",
-    "Sirve en boles con el verde de la cebolleta picado y unas gotas de aceite de sésamo."
+    "Sirve en boles con el verde de la cebolleta y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 280, prot: 34, hc: 12, grasa: 10 },
   etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],

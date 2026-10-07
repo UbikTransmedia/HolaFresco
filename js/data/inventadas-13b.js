@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "granada", q: 0.5, u: "ud", opcional: true },
     { n: "pan de pita", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la cebolla y el otro diente de ajo, pica el perejil y desgrana la granada. Tritura los garbanzos con el tahini, el zumo del limón, 1 diente de ajo, el comino, 1 cucharada de aceite, sal y 3-4 cucharadas del líquido del bote. Bate 2 minutos, hasta que quede muy liso y sedoso; si está espeso, añade un chorrito de agua fría.",
@@ -77,10 +78,11 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1, u: "cdta", opcional: true },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "chile fresco", q: 0.5, u: "ud" },
-    { n: "aceite de sésamo", q: 1, u: "cdta" }
+    { n: "aceite de sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal. Mientras, prepara el aliño en un bote: zumo de las limas, salsa de soja, salsa de pescado, azúcar, el chile picado fino y el aceite de sésamo. Agita hasta que el azúcar se disuelva.",
+    "Pon a hervir agua con sal. Mientras, pica fino el chile y prepara el aliño en un bote: zumo de las limas, salsa de soja, salsa de pescado, azúcar, el chile y el aceite de sésamo. Agita hasta que el azúcar se disuelva.",
     "Echa el edamame en el agua hirviendo y cuécelo 3 minutos desde que vuelva a hervir. Escúrrelo y pásalo a un bol con agua y hielo para que quede verde y crujiente.",
     "Pela el mango y córtalo en bastones. Corta el pepino en medias lunas finas, la zanahoria en juliana con el pelador y la cebolla morada en plumas muy finas.",
     "Corta el tofu ahumado en dados de 1,5 cm. Si quieres, dóralo 3 minutos en una sartén antiadherente sin aceite para que se tueste por fuera.",
@@ -160,7 +162,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el huevo 10 minutos en agua hirviendo, enfríalo en agua fría y pélalo.",
@@ -204,7 +207,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "pan naan", q: 1, u: "ud", nota: "para compartir" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer los huevos 9 minutos en agua hirviendo. Mientras, pica la cebolla, ralla el ajo y el jengibre y lava las lentejas rojas. Enfría los huevos en agua fría, pélalos y hazles 3 cortes superficiales a lo largo para que absorban la salsa.",
@@ -250,7 +254,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "tortillas de maíz", q: 6, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la col lombarda en juliana muy fina y ponla en un bol con el vinagre, una pizca de sal y otra de azúcar si tienes. Masajéala 1 minuto con las manos y déjala encurtir mientras cocinas.",
@@ -297,7 +302,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla morada en aros finos y cúbrela con el zumo de limón y una pizca de sal. Déjala encurtir hasta servir.",
@@ -346,7 +352,8 @@ window.RECETAS_SEED.push({
     { n: "rábano", q: 4, u: "ud" },
     { n: "zumaque", q: 1, u: "cdta", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C con ventilador y forra una bandeja con papel. Escalda las habas y los guisantes 2 minutos en agua hirviendo, enfríalos en agua fría y pela las habas más grandes si la piel es dura.",
@@ -389,7 +396,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud", nota: "solo la ralladura" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el caldo a calentar en un cazo. Calienta 2 cucharadas de aceite en una cazuela a fuego medio-bajo con los ajos aplastados, las ramas de romero y la guindilla. Deja que se confite 3 minutos, hasta que el ajo esté dorado; retira el ajo y la guindilla.",
@@ -432,7 +440,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "salsa picante", u: "al gusto", opcional: true }
+    { n: "salsa picante", u: "al gusto", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz con 240 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Mientras, pica la cebolla, el pimiento, el ajo y el cilantro. Extiende el arroz en una bandeja para que se enfríe y se seque: el gallo pinto sale mejor con arroz del día anterior o bien oreado.",
@@ -566,7 +575,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cdta" },
     { n: "caldo de verduras", q: 500, u: "ml" },
     { n: "pepinillos", q: 2, u: "ud", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 180 ml de agua, tapado, 12 minutos a fuego mínimo. Apaga y deja reposar 10 minutos sin destapar.",
@@ -609,7 +619,8 @@ window.RECETAS_SEED.push({
     { n: "mayonesa", q: 1, u: "cda" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon el caldo a calentar. Pica fina la cebolla y 2 dientes de ajo y ralla los tomates. Seca bien la sepia y márcala en la cazuela con 1 cucharada de aceite muy caliente 3 minutos, hasta que suelte el agua y empiece a dorarse. Retírala.",
@@ -654,7 +665,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las lentejas en agua fría con el laurel, sin sal, 20-25 minutos desde que hiervan, hasta que estén tiernas pero enteras. Escúrrelas reservando un vaso del agua.",
@@ -701,7 +713,8 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud", nota: "para servir" },
     { n: "salsa picante", u: "al gusto", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el apio, el pimiento verde y el ajo. Corta la salchicha en rodajas de 1 cm y dóralas en la cazuela con el aceite a fuego medio 5 minutos, hasta que suelten la grasa y estén tostadas. Retíralas.",
@@ -745,7 +758,8 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "avellanas", q: 15, u: "g", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las lentejas con la zanahoria entera, el laurel y el tomillo en agua fría abundante, sin sal, 22-25 minutos desde que hiervan, hasta que estén tiernas pero enteras. Escúrrelas, retira los aromáticos y sálalas en caliente.",
@@ -790,7 +804,8 @@ window.RECETAS_SEED.push({
     { n: "granada", q: 0.5, u: "ud", opcional: true },
     { n: "pan de centeno", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y dórala en la cazuela con el aceite a fuego medio-bajo 12-15 minutos, removiendo a menudo, hasta que esté blanda y de color caramelo.",
@@ -877,7 +892,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Parte las berenjenas por la mitad a lo largo, haz cortes en rombo en la pulpa sin atravesar la piel, píntalas con media cucharada de aceite y sal, y ásalas boca abajo 30 minutos, hasta que la pulpa esté muy tierna.",
@@ -925,7 +941,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento verde, una zanahoria y el ajo, y pon el caldo a calentar. Salpimienta las carrilladas, pásalas por la harina y dóralas en la cazuela con el aceite a fuego fuerte 3 minutos por cada lado, hasta que tengan una costra tostada. Retíralas.",
@@ -970,7 +987,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "tortillas de maíz", q: 4, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y cuécelas en 1,5 l de agua con media cebolla, 1 diente de ajo y el laurel. Cuando hierva, desespuma y cuece tapado a fuego suave 1 h 15 min - 1 h 30 min, hasta que estén cremosas por dentro. Sala al final.",
@@ -1014,7 +1032,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", nota: "de hogaza" },
     { n: "mantequilla", q: 10, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y cuécelas en agua nueva con el laurel 45 minutos a fuego suave, hasta que estén casi tiernas pero sin abrirse. Mientras, corta el bacon en dados gruesos y pica la cebolla, y cuando falten 15 minutos precalienta el horno a 150 °C. Escurre las alubias reservando 500 ml del agua de cocción.",
@@ -1057,12 +1076,13 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal gruesa", u: "al gusto" }
+    { n: "sal gruesa", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Descongela el pulpo la víspera en la nevera. Lleva a ebullición una olla grande de agua con el laurel, asusta el pulpo 3 veces sumergiéndolo y sacándolo, y déjalo cocer a fuego medio 40-50 minutos, hasta que un palillo entre sin resistencia en la parte gruesa. Déjalo reposar 10 minutos en el agua.",
-    "Mientras, cuece las lentejas beluga en agua sin sal 20-22 minutos, hasta que estén tiernas pero conserven la piel intacta. Escúrrelas y sálalas.",
-    "Prepara el aliño: zumo de la lima, la soja, el jengibre rallado y el aceite de sésamo. Mezcla la mitad con las lentejas tibias, junto con los tomates cherry en cuartos y la cebolleta en rodajas finas.",
+    "Mientras, cuece las lentejas beluga en agua sin sal 20-22 minutos, hasta que estén tiernas pero conserven la piel intacta. Mientras se cuecen, ralla el jengibre, corta los tomates cherry en cuartos y la cebolleta en rodajas finas. Escurre las lentejas y sálalas.",
+    "Prepara el aliño: zumo de la lima, la soja, el jengibre y el aceite de sésamo. Mezcla la mitad con las lentejas tibias, junto con los tomates cherry y la cebolleta.",
     "Escurre el pulpo, separa las patas y sécalas bien con papel de cocina.",
     "Calienta la plancha a fuego muy fuerte con la cucharada de aceite de oliva y marca las patas 2 minutos por cada lado, hasta que la piel se tueste y quede crujiente en los bordes.",
     "Reparte las lentejas en los platos, coloca el pulpo cortado en trozos grandes encima, riega con el resto del aliño y termina con el pimentón ahumado, unas escamas de sal gruesa y cilantro."
@@ -1102,7 +1122,8 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca", opcional: true },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana. Pica muy fino el perejil, el cilantro, el cebollino y las espinacas (puedes hacerlo a golpes en la picadora). Fríelos en una sartén con 1,5 cucharadas de aceite a fuego medio-bajo 15 minutos, removiendo, hasta que oscurezcan mucho y huelan a hierba tostada sin llegar a quemarse. Añade el fenogreco el último minuto.",

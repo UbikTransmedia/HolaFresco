@@ -23,7 +23,8 @@ window.RECETAS_SEED.push({
     { n: "guisantes congelados", q: 150, u: "g" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "limón", q: 1, u: "ud", nota: "solo la ralladura y un chorrito de zumo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir 1,5 l de agua con poca sal (el queso ya sala): usar menos agua de lo habitual hace que quede más almidonada, y esa es la clave de la salsa.",
@@ -66,10 +67,11 @@ window.RECETAS_SEED.push({
     { n: "zumo de naranja", q: 3, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir abundante agua sin sal para los fideos. Mientras, prepara el aliño en un bol: la salsa de soja, el zumo de naranja, el zumo de la lima, el jengibre rallado y la mitad del aceite de sésamo. Remueve y reserva.",
+    "Pon a hervir abundante agua sin sal para los fideos. Mientras, ralla el jengibre y prepara el aliño en un bol: la salsa de soja, el zumo de naranja, el zumo de la lima, el jengibre y la mitad del aceite de sésamo. Remueve y reserva.",
     "Corta el pepino en bastones finos y la cebolleta en rodajas al bies, separando la parte verde para decorar. Lamina el ajo.",
     "Cuece los fideos soba en el agua hirviendo el tiempo del paquete (4–5 minutos). En el último minuto añade el edamame. Escurre y enfría bajo el grifo frotando los fideos con las manos para quitarles el almidón.",
     "Calienta una sartén a fuego fuerte con el resto del aceite de sésamo. Saltea el ajo y la parte blanca de la cebolleta 30 segundos, añade los langostinos secos con una pizca de sal y cocínalos 1 minuto por lado, hasta que estén rosados y curvados.",
@@ -112,9 +114,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el cuscús en un bol con la ralladura de media lima y una pizca de sal, vierte el caldo hirviendo, tapa con un plato y deja hidratar 5 minutos.",
-    "Mientras, seca las gambas con papel y mézclalas con el pimentón ahumado, el ajo rallado y una pizca de sal.",
+    "Mientras, ralla el ajo, pica medio manojo de cilantro y parte los tomates cherry por la mitad. Seca las gambas con papel y mézclalas con el pimentón ahumado, el ajo y una pizca de sal.",
     "Calienta el aceite en una sartén a fuego fuerte y saltea el maíz 2 minutos, hasta que tenga puntos tostados. Aparta a un lado y añade las gambas: 1 minuto por lado, hasta que estén rosadas.",
-    "Desgrana el cuscús con un tenedor, rocía con el zumo de la lima y mezcla con el maíz tostado, los tomates cherry partidos por la mitad y medio manojo de cilantro picado.",
+    "Desgrana el cuscús con un tenedor, rocía con el zumo de la lima y mezcla con el maíz tostado, los tomates cherry y el cilantro picado.",
     "Corta el aguacate en dados y sálalo ligeramente.",
     "Sirve el cuscús en dos platos con las gambas y el aguacate por encima, y unas hojas de cilantro."
   ],
@@ -149,7 +151,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "sriracha", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 2, u: "cdta" }
+    { n: "aceite de oliva", q: 2, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua para los udon. Mientras, disuelve el miso en la salsa de soja con la sriracha y 3 cucharadas de agua. Reserva.",
@@ -196,10 +199,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolleta y el ajo. Rehógalos en una sartén honda con el aceite a fuego medio 3 minutos, hasta que estén transparentes.",
     "Añade el orzo y tuéstalo 1 minuto removiendo, hasta que huela a pan.",
-    "Vierte dos tercios del caldo caliente con la ralladura del limón, lleva a ebullición y baja a fuego medio-bajo. Cocina 9–10 minutos removiendo cada poco, añadiendo el resto del caldo a medida que se absorba.",
+    "Vierte dos tercios del caldo caliente con la ralladura del limón, lleva a ebullición y baja a fuego medio-bajo. Cocina 9–10 minutos removiendo cada poco, añadiendo el resto del caldo a medida que se absorba. Mientras, desmiga el feta y pica el eneldo.",
     "Cuando el orzo esté casi tierno y la salsa espesa, añade las espinacas a puñados y remueve hasta que se reduzcan, 1–2 minutos.",
-    "Fuera del fuego, incorpora la mitad del feta desmigado y el zumo de medio limón y remueve: el queso se fundirá en parte y dará cremosidad. Prueba de sal (el feta ya sala).",
-    "Sirve con el resto del feta por encima, eneldo picado y pimienta recién molida."
+    "Fuera del fuego, incorpora la mitad del feta y el zumo de medio limón y remueve: el queso se fundirá en parte y dará cremosidad. Prueba de sal (el feta ya sala).",
+    "Sirve con el resto del feta por encima, el eneldo y pimienta recién molida."
   ],
   nutricion: { kcal: 440, prot: 19, hc: 56, grasa: 15 },
   etiquetas: ["rápida", "ligera", "una sola sartén", "económica", "poco especiada"],
@@ -232,16 +235,17 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta y cuece el penne el tiempo que marque el paquete.",
-    "Mientras, pica la cebolla y lamina los ajos. Póchalos en una sartén con el aceite a fuego medio 5 minutos, hasta que la cebolla esté blanda y el ajo empiece a dorar.",
-    "Reserva 2 pimientos del piquillo y añade el resto a la sartén con el pimentón. Rehoga 2 minutos.",
+    "Mientras, pica la cebolla y el perejil por separado y lamina los ajos. Pocha la cebolla y el ajo en una sartén con el aceite a fuego medio 5 minutos, hasta que la cebolla esté blanda y el ajo empiece a dorar.",
+    "Corta 2 pimientos del piquillo en tiras y resérvalos; añade el resto a la sartén con el pimentón. Rehoga 2 minutos.",
     "Pasa el contenido de la sartén al vaso de la batidora con la nata y tritura hasta obtener una salsa lisa y rosada. Devuélvela a la sartén y salpimienta.",
     "Escurre el penne reservando un vaso del agua de cocción. Échalo a la sartén con la salsa y un chorrito de agua de cocción y mezcla 1 minuto a fuego suave hasta que la salsa quede brillante y envuelva la pasta.",
-    "Incorpora el atún en lascas grandes sin remover demasiado para que no se deshaga, y los 2 pimientos reservados en tiras.",
-    "Sirve con perejil picado por encima."
+    "Incorpora el atún en lascas grandes sin remover demasiado para que no se deshaga, y las tiras de piquillo reservadas.",
+    "Sirve con el perejil picado por encima."
   ],
   nutricion: { kcal: 620, prot: 28, hc: 73, grasa: 24 },
   etiquetas: ["rápida", "económica", "despensa", "para niños", "verduras escondidas", "poco especiada"],
@@ -275,7 +279,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "lima", q: 0.5, u: "ud", opcional: true, nota: "para servir" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos de arroz en un bol con agua caliente del grifo 8–10 minutos, hasta que estén flexibles pero firmes. Escúrrelos bien y córtalos un par de veces con tijera.",
@@ -316,7 +321,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 3, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si no tienes arroz cocido del día anterior, cuécelo con 240 ml de agua y una pizca de sal, tapado a fuego mínimo 12 minutos. Extiéndelo en una bandeja para que se enfríe y se seque al menos 10 minutos. Mientras, pica muy finos el jengibre y el ajo, corta el pimiento en daditos y pica la cebolleta separando la parte blanca de la verde.",
@@ -359,7 +365,8 @@ window.RECETAS_SEED.push({
     { n: "cayena", q: 1, u: "pizca" },
     { n: "vinagre de vino", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las lentejas en abundante agua con sal 20–25 minutos, hasta que estén tiernas pero enteras. Escurre.",
@@ -405,10 +412,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo en un cazo. Parte los espárragos por donde se quiebren solos. Corta las puntas (5 cm) y resérvalas. Trocea los tallos y cuécelos 4 minutos en el caldo caliente; sácalos y tritúralos con un cazo de ese caldo hasta tener un puré verde fino.",
+    "Calienta el caldo en un cazo. Parte los espárragos por donde se quiebren solos. Corta las puntas (5 cm), trocéalas y resérvalas. Trocea los tallos y cuécelos 4 minutos en el caldo caliente; sácalos y tritúralos con un cazo de ese caldo hasta tener un puré verde fino.",
     "Pica la chalota y póchala en una cazuela con 1 cucharadita de aceite a fuego medio 3 minutos. Añade el arroz y nácaralo 2 minutos removiendo, hasta que los granos estén translúcidos en los bordes.",
     "Vierte el vino y deja que se evapore. Añade el caldo caliente cazo a cazo, removiendo con frecuencia y sin añadir más hasta que el anterior casi se absorba, durante 16–17 minutos.",
-    "A los 14 minutos incorpora el puré de espárragos y las puntas troceadas, y continúa hasta que el arroz esté al dente y el risotto fluya como una ola al mover la cazuela.",
+    "A los 14 minutos incorpora el puré de espárragos y las puntas, y continúa hasta que el arroz esté al dente y el risotto fluya como una ola al mover la cazuela.",
     "Retira del fuego, añade la mantequilla fría, el parmesano y la ralladura del limón y bate enérgicamente 1 minuto (mantecado). Tapa y deja reposar 2 minutos.",
     "Mientras, seca muy bien las vieiras, sálalas y márcalas en una sartén muy caliente con el resto del aceite 1 minuto y medio por lado, hasta que tengan una costra dorada y el centro aún jugoso.",
     "Sirve el risotto en platos llanos, coloca 4 vieiras por persona encima y termina con unas gotas de zumo de limón y pimienta."
@@ -443,7 +450,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra" },
     { n: "burrata", q: 1, u: "ud", nota: "unos 125 g, a temperatura ambiente" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la burrata de la nevera al empezar para que pierda el frío. Pon a hervir agua con sal para la pasta.",
@@ -494,10 +502,10 @@ window.RECETAS_SEED.push({
     "Lava la quinoa en un colador fino bajo el grifo 1 minuto, frotándola, para quitar el amargor.",
     "Pica la cebolla, el pimiento y el ajo. Sofríelos en una sartén honda con el aceite a fuego medio 6 minutos, hasta que estén blandos.",
     "Añade el comino y el chipotle picado, remueve 30 segundos y agrega la quinoa escurrida. Tuesta 1 minuto.",
-    "Incorpora el tomate triturado, el caldo y una pizca de sal. Lleva a ebullición, tapa y cocina a fuego suave 15 minutos.",
+    "Incorpora el tomate triturado, el caldo y una pizca de sal. Lleva a ebullición, tapa y cocina a fuego suave 15 minutos. Mientras, pica el cilantro y exprime la lima.",
     "Destapa, añade las alubias negras y el maíz, mezcla y cocina 3–4 minutos más sin tapa hasta que la quinoa esté tierna (se ve el anillo blanco del germen) y casi no quede líquido.",
     "Esparce el cheddar por encima, tapa y deja 2 minutos a fuego mínimo hasta que se funda.",
-    "Sirve directamente en la sartén con el zumo de la lima y mucho cilantro picado."
+    "Sirve directamente en la sartén con el zumo de lima y el cilantro picado."
   ],
   nutricion: { kcal: 575, prot: 26, hc: 73, grasa: 18 },
   etiquetas: ["una sola sartén", "batch cooking", "picante", "sin gluten"],
@@ -532,10 +540,11 @@ window.RECETAS_SEED.push({
     { n: "aceite de trufa", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta. Limpia las setas con un paño o papel húmedo (sin lavarlas) y trocéalas en piezas grandes. Pica la chalota y el ajo.",
+    "Pon a hervir agua con sal para la pasta. Limpia las setas con un paño o papel húmedo (sin lavarlas) y trocéalas en piezas grandes. Pica la chalota, el ajo y el perejil.",
     "Calienta el aceite de oliva en una sartén amplia a fuego fuerte. Añade las setas en una sola capa y déjalas 3 minutos sin tocar, hasta que se doren por abajo; luego saltea 2 minutos más. Sala solo al final.",
     "Cuece los tagliatelle en el agua hirviendo el tiempo del paquete.",
     "Baja el fuego de la sartén, añade la chalota, el ajo y las hojas de tomillo y rehoga 2 minutos. Vierte el vino y deja reducir a la mitad, 1 minuto.",
@@ -575,7 +584,8 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "limón", q: 0.5, u: "ud", opcional: true, nota: "para servir" }
+    { n: "limón", q: 0.5, u: "ud", opcional: true, nota: "para servir" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el rape en dados de 2 cm y sálalo junto con los langostinos. Calienta el aceite en una paella o sartén ancha de unos 30 cm a fuego fuerte y marca el rape y los langostinos 1 minuto en total. Sácalos y resérvalos.",
@@ -619,7 +629,8 @@ window.RECETAS_SEED.push({
     { n: "panko", q: 25, u: "g" },
     { n: "parmesano", q: 15, u: "g", nota: "rallado" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo y pon a hervir una cazuela de agua con sal.",
@@ -664,12 +675,13 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "yogur natural", q: 125, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava juntos el arroz y las lentejas en un colador hasta que el agua salga casi clara. Déjalos en remojo 10 minutos mientras preparas el resto.",
-    "Escúrrelos y ponlos en una cazuela con 900 ml de agua, la cúrcuma, el jengibre rallado y una cucharadita de sal. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 20–25 minutos, removiendo de vez en cuando, hasta obtener una textura de gachas espesas en la que las lentejas se hayan deshecho. Mientras, corta la cebolla en juliana fina, lamina el ajo y pica el chile y el tomate.",
-    "Añade las espinacas troceadas en los últimos 3 minutos y remueve hasta que se reduzcan. Si queda muy espeso, aligera con un poco de agua caliente: debe caer de la cuchara.",
+    "Lava juntos el arroz y las lentejas en un colador hasta que el agua salga casi clara. Déjalos en remojo 10 minutos; mientras, ralla el jengibre y trocea las espinacas.",
+    "Escúrrelos y ponlos en una cazuela con 900 ml de agua, la cúrcuma, el jengibre y una cucharadita de sal. Lleva a ebullición, retira la espuma y cuece tapado a fuego suave 20–25 minutos, removiendo de vez en cuando, hasta obtener una textura de gachas espesas en la que las lentejas se hayan deshecho. Mientras, corta la cebolla en juliana fina, lamina el ajo y pica el chile, el tomate y el cilantro.",
+    "Añade las espinacas en los últimos 3 minutos y remueve hasta que se reduzcan. Si queda muy espeso, aligera con un poco de agua caliente: debe caer de la cuchara.",
     "Para el tadka, derrite la mantequilla en una sartén pequeña a fuego medio, añade el comino en grano y deja que chisporrotee 20 segundos.",
     "Agrega la cebolla, el ajo y el chile y fríe 6–7 minutos hasta que la cebolla esté dorada. Añade el tomate y cocina 3 minutos más.",
     "Vierte el tadka humeante sobre el khichdi justo antes de servir, sin mezclar del todo.",
@@ -706,7 +718,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 600, u: "ml", nota: "caliente" },
     { n: "romero fresco", q: 1, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea las setas, corta los ajos tiernos en trozos de 3 cm y el pimiento en tiras. Corta el secreto en tiras de 2 cm y sálalo. Calienta el aceite en una paella de 30 cm a fuego fuerte y dóralo 4–5 minutos, hasta que esté bien tostado y haya soltado parte de su grasa. Retira la mitad para el final y deja el resto en la paella.",
@@ -753,13 +766,14 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 20, u: "g", nota: "fileteadas" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "yogur natural", q: 125, u: "g", nota: "para servir" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga clara y déjalo en remojo en agua templada 20 minutos.",
-    "Precalienta el horno a 220 °C. Corta la berenjena en rodajas de 1 cm y la coliflor en ramilletes, úntalas con 1 cucharada de aceite y sal y ásalas en una bandeja 20 minutos, dándoles la vuelta a mitad, hasta que estén doradas.",
-    "Mientras, corta el pollo en trozos grandes y mézclalo con todas las especias y sal. Dóralo en una cazuela de unos 20 cm con el resto del aceite a fuego medio-alto 5 minutos. Añade la cebolla en juliana y el ajo y rehoga 5 minutos más. Pon a calentar el caldo.",
-    "Saca el pollo y la cebolla a un plato. Cubre el fondo de la cazuela con rodajas de tomate; encima coloca en capas el pollo con la cebolla, la berenjena y la coliflor, apretando un poco.",
+    "Precalienta el horno a 220 °C. Lava el arroz hasta que el agua salga clara y déjalo en remojo en agua templada 20 minutos.",
+    "Mientras, corta la berenjena en rodajas de 1 cm y la coliflor en ramilletes, úntalas con 1 cucharada de aceite y sal y ásalas en una bandeja 20 minutos, dándoles la vuelta a mitad, hasta que estén doradas.",
+    "Mientras se asan, corta la cebolla en juliana, pica el ajo y corta el tomate en rodajas. Corta el pollo en trozos grandes y mézclalo con todas las especias y sal. Dóralo en una cazuela de unos 20 cm con el resto del aceite a fuego medio-alto 5 minutos. Añade la cebolla y el ajo y rehoga 5 minutos más. Pon a calentar el caldo.",
+    "Saca el pollo y la cebolla a un plato. Cubre el fondo de la cazuela con las rodajas de tomate; encima coloca en capas el pollo con la cebolla, la berenjena y la coliflor, apretando un poco.",
     "Escurre el arroz y extiéndelo por encima nivelándolo. Vierte el caldo caliente con cuidado por un lateral hasta que lo cubra 1 cm; ajusta de sal.",
     "Lleva a ebullición, tapa y cocina a fuego mínimo 25 minutos, hasta que el arroz esté tierno y sin caldo. Apaga y deja reposar tapada 10 minutos. Mientras, tuesta las almendras en una sartén seca 3 minutos.",
     "Coloca una fuente grande sobre la cazuela y dale la vuelta de un golpe firme; espera 1 minuto y levanta la cazuela. Sirve con las almendras por encima y el yogur aparte."
@@ -797,16 +811,17 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 2, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "cebolleta", q: 1, u: "ud", opcional: true }
+    { n: "cebolleta", q: 1, u: "ud", opcional: true },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30–35 minutos, hasta que esté tierno pero con el grano entero. Escúrrelo y extiéndelo para que se seque.",
     "Mientras, corta el tempeh en dados de 1,5 cm y cuécelo al vapor o en agua hirviendo 8 minutos: le quita el amargor y lo prepara para absorber la salsa. Escurre y seca.",
-    "Prepara la teriyaki: mezcla la salsa de soja, la miel, el vinagre, el jengibre y el ajo rallados, la maicena y 4 cucharadas de agua. Corta la zanahoria en tiras finas y trocea el kale.",
+    "Prepara la teriyaki: ralla el jengibre y el ajo y mézclalos con la salsa de soja, la miel, el vinagre, la maicena y 4 cucharadas de agua. Corta la zanahoria en tiras finas, trocea el kale y pica la cebolleta. Tuesta el sésamo en el wok en seco 1–2 minutos, hasta que se dore, y resérvalo.",
     "Calienta 1 cucharadita de aceite de sésamo en el wok a fuego medio-alto y dora el tempeh 5 minutos, girándolo, hasta que esté crujiente por todas las caras. Vierte la mitad de la teriyaki y remueve 1 minuto hasta que se espese y glasee. Retira.",
     "Añade el resto del aceite, la zanahoria y el kale, y saltea 3 minutos hasta que el kale esté brillante y algo tierno.",
     "Incorpora el arroz y el resto de la salsa y saltea 2 minutos hasta que el arroz esté caliente y bien impregnado.",
-    "Sirve con el tempeh glaseado encima, el sésamo tostado y la cebolleta picada."
+    "Sirve con el tempeh glaseado encima, el sésamo tostado y la cebolleta."
   ],
   nutricion: { kcal: 455, prot: 20, hc: 63, grasa: 14 },
   etiquetas: ["ligera", "alta en fibra", "batch cooking", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -843,14 +858,15 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz con 200 ml de agua y una pizca de sal, tapado a fuego mínimo 12 minutos. Extiéndelo en una bandeja para que se enfríe y se seque (lo ideal es usar arroz del día anterior).",
-    "Prepara el pico de gallo: pica los tomates sin semillas, la cebolla morada y el chile muy finos, mézclalos con la mitad del cilantro picado, el zumo de media lima y sal. Reserva en la nevera.",
+    "Mientras se cuece el arroz, prepara el pico de gallo: pica muy finos los tomates sin semillas, la cebolla morada, el chile y todo el cilantro, y mezcla las verduras con la mitad del cilantro, el zumo de media lima y sal. Reserva en la nevera.",
     "Pica la cebolla, el pimiento y el ajo. Sofríe la cebolla y el pimiento en una sartén amplia con 1 cucharada de aceite a fuego medio 7–8 minutos, hasta que estén tiernos. Añade el ajo y el comino y rehoga 1 minuto.",
     "Agrega las alubias con 4 cucharadas de su líquido y la salsa worcestershire, y cocina 3 minutos aplastando unas pocas con la cuchara: el caldo oscuro es lo que tiñe el arroz.",
-    "Incorpora el arroz frío y saltea 4–5 minutos a fuego medio, mezclando hasta que todo esté caliente, uniforme y ligeramente tostado. Añade el resto del cilantro y ajusta de sal.",
+    "Incorpora el arroz frío y saltea 4–5 minutos a fuego medio, mezclando hasta que todo esté caliente, uniforme y ligeramente tostado. Añade el resto del cilantro picado y ajusta de sal.",
     "Fríe los huevos en otra sartén con un poco de aceite bien caliente, hasta que la clara esté crujiente en los bordes y la yema líquida.",
     "Sirve el gallo pinto con el huevo encima, el pico de gallo al lado y un gajo de lima."
   ],
@@ -934,7 +950,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fina la cebolla, la zanahoria y el apio. Póchalos en una cazuela con el aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y dorados.",
@@ -1028,7 +1045,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 30, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo y sofríelos en una cazuela con el aceite a fuego medio 6 minutos. Sube el fuego, añade el cordero y dóralo 6 minutos desmenuzándolo.",
@@ -1071,15 +1089,16 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
     { n: "pimienta blanca", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y déjalo escurrir 10 minutos. Pela el jengibre: corta la mitad en rodajas gruesas y la otra mitad en hebras muy finas para servir.",
     "Pon en una cazuela el arroz, el caldo, 500 ml de agua, las rodajas de jengibre, los ajos aplastados y los muslos de pollo enteros. Lleva a ebullición a fuego fuerte.",
     "Baja a fuego mínimo, tapa dejando una rendija y cocina 20 minutos. Saca el pollo, deja que se temple y desmígalo con dos tenedores.",
-    "Sigue cocinando el congee 1 h más a fuego mínimo, removiendo cada 10–15 minutos y raspando el fondo para que no se pegue. Los granos deben romperse y el líquido convertirse en una crema sedosa. Añade agua caliente si espesa demasiado.",
+    "Sigue cocinando el congee 1 h más a fuego mínimo, removiendo cada 10–15 minutos y raspando el fondo para que no se pegue. Los granos deben romperse y el líquido convertirse en una crema sedosa. Añade agua caliente si espesa demasiado. Mientras, corta la cebolleta en rodajas finas, deshoja el cilantro y pica el chile.",
     "Retira las rodajas de jengibre y los ajos. Devuelve el pollo desmigado, añade la salsa de soja y ajusta de sal y pimienta blanca.",
-    "Sirve en boles y cubre con las hebras de jengibre, la cebolleta en rodajas finas, el cilantro, el chile y unas gotas de aceite de sésamo."
+    "Sirve en boles y cubre con las hebras de jengibre, la cebolleta, el cilantro, el chile y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 420, prot: 31, hc: 47, grasa: 11 },
   etiquetas: ["ligera", "de cuchara", "invierno", "económica", "sin verduras", "bajo en colesterol"],

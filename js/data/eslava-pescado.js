@@ -484,7 +484,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de girasol", q: 4, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica el eneldo. Corta el pepino en rodajas muy finas, mézclalo con una pizca de sal, el zumo del medio limón y un tercio del eneldo, y guárdalo en la nevera mientras haces el resto. Mezcla la smetana con la salsa de rábano picante y otro tercio del eneldo.",
@@ -750,7 +751,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "pan", q: 80, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si usas palillos de brocheta de madera, ponlos en remojo en agua 10 minutos para que no se quemen.",
@@ -886,7 +888,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca la sepia con papel de cocina y córtala en dados de 2 cm. Pica la cebolla y el ajo y pon a calentar el caldo.",

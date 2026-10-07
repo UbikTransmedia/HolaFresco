@@ -35,7 +35,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "leche sin lactosa", q: 100, u: "ml" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C con calor arriba y abajo.",
@@ -79,7 +80,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "queso feta", q: 60, u: "g", nota: "para acompañar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si la okra es fresca, recorta el tallo en forma de cono sin abrir la vaina. Ponla (fresca o congelada) en un bol con el vinagre y una pizca de sal, mézclala y déjala 30 minutos. Después acláralas y escúrrelas bien: así no suelta la sustancia viscosa al guisarla.",
@@ -254,7 +256,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
     { n: "pan de pita sin gluten", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela las zanahorias y córtalas a lo largo por la mitad (en cuartos si son gruesas).",
@@ -296,7 +299,8 @@ window.RECETAS_SEED.push({
     { n: "acelgas", q: 100, u: "g", nota: "solo las hojas verdes" },
     { n: "aceite de ajo", q: 2, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en 6 filetes de 1 cm y cuécelos 10 minutos en agua apenas agitándose: pierde el amargor y queda más tierno y digestivo. Escúrrelos y sécalos con papel.",
@@ -338,7 +342,8 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 140, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tempeh en 6 filetes finos y cuécelos al vapor (o en agua apenas agitándose) 10 minutos: pierde el amargor y queda más tierno y digestivo. Sécalos con papel.",
@@ -381,7 +386,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las patatas nuevas y cuécelas con piel en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
@@ -424,7 +430,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon la pechuga en un cazo con el laurel, una tira de piel de limón, sal y agua fría que la cubra. Llévalo a ebullición, baja al mínimo y cuécela 12 minutos sin que llegue a borbotear. Apaga y déjala 10 minutos más en el agua: quedará jugosa.",
@@ -466,7 +473,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "vinagre de vino", q: 1, u: "cdta" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si el arenque es muy salado, ponlo 20 minutos en un bol con agua fría.",
@@ -509,7 +517,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "sirope de arce", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino hasta que el agua salga clara y cuécela en 170 ml de agua con sal, tapada y a fuego suave, 15 minutos. Extiéndela en un plato para que se temple.",
@@ -554,7 +563,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "limón", q: 1.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon agua a hervir. Mientras, pica la parte verde de la cebolleta, el eneldo, la menta y el perejil, y corta la penca blanca de cada hoja de acelga en forma de V, sin partir la hoja. Escáldalas en agua hirviendo 30 segundos, pásalas a agua fría y extiéndelas sobre un paño.",
@@ -599,7 +609,8 @@ window.RECETAS_SEED.push({
     { n: "yogur sin lactosa", q: 125, u: "g", nota: "natural" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las zanahorias; ralla fina dos tercios y corta el resto en dados de medio centímetro. Lava el arroz hasta que el agua salga casi clara y escúrrelo. Pica la parte verde de la cebolleta y calienta el caldo.",
@@ -682,7 +693,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras, corta los tomates en gajos y el pepino pelado a medias en rodajas gruesas; alíñalos con el aceite, el orégano y sal.",
@@ -770,7 +782,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo hasta que el agua salga clara (así pierde las saponinas amargas). Cuécela en 250 ml de agua con sal, tapada y a fuego suave, 15 minutos; apaga y deja reposar 5 minutos tapada.",
@@ -813,7 +826,8 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta.",
@@ -947,7 +961,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas kalamata", q: 20, u: "g" },
     { n: "pan sin gluten", q: 40, u: "g" },
     { n: "cebolleta (parte verde)", q: 1, u: "ud", nota: "solo las hojas verdes" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea los tomates. Pela el pepino, quítale las semillas y reserva un trozo de 3 cm; trocea el resto. Quita las semillas y las membranas blancas al pimiento, reserva un trozo pequeño y trocea el resto.",
@@ -991,7 +1006,8 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos.",

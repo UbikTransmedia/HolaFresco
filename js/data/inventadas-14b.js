@@ -30,7 +30,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el ajo, el jengibre y el cilantro. Separa la coliflor en ramilletes y trocea también el tronco tierno.",
@@ -202,12 +203,12 @@ window.RECETAS_SEED.push({
     { n: "agua", q: 420, u: "ml", nota: "250 ml para la base y 170 ml para el arroz" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga casi clara. Ponlo en un bol metálico apto para la olla con 170 ml de agua y una pizca de sal.",
+    "Lava el arroz hasta que el agua salga casi clara. Ponlo en un bol metálico apto para la olla con 170 ml de agua y una pizca de sal. Separa el brócoli en ramilletes.",
     "Vierte 250 ml de agua en el fondo de la olla, coloca la rejilla y encima el bol con el arroz. Pon sobre el bol (o en un segundo nivel de cestillo) los ramilletes de brócoli y los lomos de salmón salados, con la piel abajo.",
     "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego medio-bajo y cuenta 3 minutos. Retira del fuego y deja bajar la presión de forma natural 8 minutos; libera el resto de forma rápida.",
-    "Mientras, prepara el teriyaki: en un cazo calienta la soja, la miel, el vinagre, el jengibre rallado y 2 cucharadas de agua. Cuando hierva, añade la maicena disuelta en 1 cucharada de agua fría y remueve 30 segundos, hasta que napa la cuchara.",
-    "Tuesta el sésamo en una sartén seca 1-2 minutos, hasta que salte y huela.",
-    "Abre la olla, ahueca el arroz con un tenedor y sírvelo con el brócoli y el salmón encima. Pinta el salmón con el teriyaki y termina con sésamo y cebolleta en aros."
+    "Mientras, ralla el jengibre y prepara el teriyaki: en un cazo calienta la soja, la miel, el vinagre, el jengibre y 2 cucharadas de agua. Cuando hierva, añade la maicena disuelta en 1 cucharada de agua fría y remueve 30 segundos, hasta que napa la cuchara.",
+    "Tuesta el sésamo en una sartén seca 1-2 minutos, hasta que salte y huela, y corta la cebolleta en aros.",
+    "Abre la olla, ahueca el arroz con un tenedor y sírvelo con el brócoli y el salmón encima. Pinta el salmón con el teriyaki y termina con el sésamo y la cebolleta."
   ],
   nutricion: { kcal: 580, prot: 33, hc: 66, grasa: 20 },
   etiquetas: ["rápida", "al vapor", "olla exprés", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -333,7 +334,8 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el pollo en trozos de 4 cm y sálalo. Pica la cebolla y ralla el ajo y el jengibre. Abre las vainas de cardamomo aplastándolas con la hoja del cuchillo.",
@@ -559,7 +561,8 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia el puerro y córtalo en rodajas; pela la patata y córtala en dados pequeños.",
@@ -602,7 +605,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 550, u: "ml" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre la ñora, quita las semillas y remójala en agua caliente 10 minutos. Mientras, pon el caldo a calentar, pela los langostinos dejando la cola y reserva cabezas y cuerpos, pica el pimiento y el ajo y ralla el tomate. Raspa la carne de la ñora con un cuchillo.",
@@ -789,13 +793,13 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" }
   ],
   pasos: [
-    "Dora los contramuslos con la piel hacia abajo en la olla destapada con el aceite a fuego medio-alto 5 minutos, hasta que la piel esté dorada. Retíralos y quita casi toda la grasa, dejando 1 cucharada.",
-    "Rehoga en esa grasa los ajos machacados 1 minuto. Vierte el vinagre y deja hervir 1 minuto sin remover (suaviza la acidez); añade la soja, el agua, el laurel, la pimienta en grano y el azúcar, rascando el fondo.",
+    "Dora los contramuslos con la piel hacia abajo en la olla destapada con el aceite a fuego medio-alto 5 minutos, hasta que la piel esté dorada. Mientras, machaca los ajos. Retira el pollo y quita casi toda la grasa, dejando 1 cucharada.",
+    "Rehoga en esa grasa los ajos 1 minuto. Vierte el vinagre y deja hervir 1 minuto sin remover (suaviza la acidez); añade la soja, el agua, el laurel, la pimienta en grano y el azúcar, rascando el fondo.",
     "Devuelve el pollo con la piel hacia arriba, cierra y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego bajo y cuenta 12 minutos. Deja bajar la presión de forma natural 10 minutos.",
-    "Mientras, cuece el arroz jazmín lavado en una cazuela con 200 ml de agua: cuando hierva, tapa y deja a fuego mínimo 12 minutos.",
-    "Saltea las judías verdes cortadas en trozos en una sartén con unas gotas de aceite y sal 5-6 minutos, hasta que tengan manchas tostadas pero sigan crujientes.",
+    "Mientras, cuece el arroz jazmín lavado en una cazuela con 200 ml de agua: cuando hierva, tapa y deja a fuego mínimo 12 minutos. Despunta las judías verdes, córtalas en trozos y corta la cebolleta en aros.",
+    "Saltea las judías verdes en una sartén con unas gotas de aceite y sal 5-6 minutos, hasta que tengan manchas tostadas pero sigan crujientes.",
     "Abre la olla, saca el pollo y reduce la salsa destapada a fuego fuerte 5-6 minutos, hasta que quede un tercio, brillante y algo espesa. Si quieres la piel crujiente, pasa el pollo por la sartén caliente 2 minutos.",
-    "Sirve el arroz con el pollo, la salsa por encima, las judías verdes y la cebolleta en aros."
+    "Sirve el arroz con el pollo, la salsa por encima, las judías verdes y la cebolleta."
   ],
   nutricion: { kcal: 590, prot: 40, hc: 66, grasa: 18 },
   etiquetas: ["económica", "alta en proteína", "batch cooking", "olla exprés", "poco especiada", "bajo en colesterol"],
@@ -967,9 +971,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en agua templada con sal. Al día siguiente, pon en la olla el morcillo, la panceta y el agua fría. Lleva a ebullición destapada y retira la espuma durante 3 minutos. Cierra, lleva a presión alta y, cuando suba, baja a fuego bajo y cuenta 15 minutos. Mientras, pela las zanahorias y limpia el puerro. Despresuriza de forma rápida.",
-    "Añade los garbanzos escurridos dentro de una malla, el pollo, las zanahorias y el puerro. Cierra, lleva a presión alta y cuenta 20 minutos a fuego bajo. Deja bajar la presión de forma natural 10 minutos. Mientras, pela las patatas y pártelas en dos.",
+    "Añade los garbanzos escurridos dentro de una malla, el pollo, las zanahorias y el puerro. Cierra, lleva a presión alta y cuenta 20 minutos a fuego bajo. Deja bajar la presión de forma natural 10 minutos. Mientras, pela las patatas y pártelas en dos, corta el repollo en tiras y lamina el ajo.",
     "Abre, añade las patatas y el chorizo entero. Sala, cierra y cuenta 5 minutos más de presión; despresuriza de forma rápida.",
-    "Mientras, cuece el repollo en tiras en una cazuela con agua y sal 12 minutos, escúrrelo y rehógalo en una sartén con el aceite y el ajo laminado 2 minutos.",
+    "Mientras, cuece el repollo en una cazuela con agua y sal 12 minutos, escúrrelo y rehógalo en una sartén con el aceite y el ajo 2 minutos.",
     "Cuela el caldo a otra cazuela (deberías tener 1 litro largo) y mantén las carnes, garbanzos y verduras tapados en la olla para que no se enfríen.",
     "Lleva el caldo a ebullición, prueba de sal y cuece los fideos 3-4 minutos.",
     "Sirve en tres vuelcos: primero la sopa; después los garbanzos con las verduras y el repollo; por último las carnes troceadas, con un hilo de aceite y sal gruesa."
@@ -1061,7 +1065,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas, pica la cebolla y 2 ajos y salpimienta la costilla. Dora el bacon en tiras en la olla destapada a fuego medio-alto 3 minutos; añade la costilla y dórala 5 minutos, hasta que tenga color por todos lados.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas, pica la cebolla y 2 ajos, corta el bacon en tiras y salpimienta la costilla. Dora el bacon en la olla destapada a fuego medio-alto 3 minutos; añade la costilla y dórala 5 minutos, hasta que tenga color por todos lados.",
     "Incorpora la cebolla y el ajo picados y rehoga 3 minutos. Añade las alubias, el chorizo entero, el laurel y el agua, rascando el fondo.",
     "Cierra, lleva a presión alta a fuego fuerte y, cuando suba, baja a fuego bajo y cuenta 30 minutos. Deja bajar la presión de forma natural, unos 15 minutos.",
     "Mientras, cuece el arroz lavado en una cazuela con 1 ajo machacado, sal y 240 ml de agua: cuando hierva, tapa y deja a fuego mínimo 12 minutos. Corta el kale en tiras finas, lamina el último ajo y pela la naranja.",

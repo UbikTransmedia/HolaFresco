@@ -307,7 +307,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 3, u: "cda", nota: "o aceite de palma" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "huevo", q: 2, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera (o al menos 4 horas antes), pon las alubias en remojo en abundante agua fría. Escúrrelas y pélalas: frótalas con fuerza entre las manos dentro del agua, deja que las pieles suban a la superficie y tíralas con el agua. Repite 4 o 5 veces hasta que casi todas estén blancas. Lleva unos 10 minutos y es lo que da al moi moi su textura fina.",
@@ -349,7 +350,8 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los extremos de los plátanos, haz un corte a lo largo de la piel y retírala. Trocéalos en 3 y cuécelos en agua con sal 20–25 minutos, hasta que una punta de cuchillo entre sin resistencia.",
@@ -394,7 +396,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua para los fideos. Mientras se calienta, corta la col en juliana, la zanahoria en bastones finos, las judías verdes en trozos oblicuos de 3 cm y la cebolleta en rodajas, separando la parte blanca de la verde. Pica el ajo y el jengibre y corta el chile en rodajas.",
@@ -434,7 +437,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en bastones de 1 cm, ponlas 5 minutos en agua fría y sécalas muy bien con un paño.",
@@ -614,7 +618,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en agua con sal 12 minutos; escúrrelo.",
@@ -659,7 +664,8 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud", nota: "o medio pimiento verde" },
     { n: "especias berbere", q: 0.5, u: "cdta", nota: "o pimentón picante" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos de 4 cm y cuécelas en agua con sal 18–20 minutos, hasta que estén tiernas. Escúrrelas.",
@@ -799,7 +805,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "aguacate", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera (o al menos 4 horas antes), pon las alubias en remojo en abundante agua fría. Escúrrelas, cúbrelas con 1 litro de agua, lleva a ebullición y cuece 25 minutos, hasta que estén casi tiernas. No tires el agua.",
@@ -842,7 +849,8 @@ window.RECETAS_SEED.push({
     { n: "kale", q: 250, u: "g", nota: "col rizada; o berza" },
     { n: "aceite de girasol", q: 1.5, u: "cda" },
     { n: "arroz basmati", q: 120, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en agua con sal 12 minutos; escúrrelo.",
@@ -981,7 +989,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Escurre el tofu y déjalo 10 minutos envuelto en un paño con un peso encima. Mientras, lava el arroz y cuécelo en agua con sal 12 minutos; escúrrelo.",
@@ -1074,7 +1083,8 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pimienta de Sichuan", q: 0.5, u: "cdta", opcional: true, nota: "molida, para imitar el cosquilleo de las hojas de brède mafane" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y cuécelo en agua con sal 12 minutos; escúrrelo.",

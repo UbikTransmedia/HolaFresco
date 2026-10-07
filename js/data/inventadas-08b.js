@@ -27,7 +27,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el puerro en rodajas, lamina el ajo, pela la patata y córtala en dados pequeños y trocea el tallo del brócoli. Calienta el aceite en la olla a fuego medio y sofríe el puerro y el ajo 3 min hasta que ablanden sin dorar.",
@@ -117,7 +118,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Revisa los mejillones y desecha los que estén rotos o abiertos que no se cierren al golpearlos. Lamina los ajos, pica la cebolleta y desmenuza la guindilla.",
+    "Revisa los mejillones y desecha los que estén rotos o abiertos que no se cierren al golpearlos. Lamina los ajos, pica la cebolleta y el perejil y desmenuza la guindilla.",
     "Calienta el aceite en la olla destapada a fuego medio y sofríe el ajo, la cebolleta y la guindilla 2 min hasta que el ajo empiece a dorar. Añade los tomates cherry y saltéalos 2 min.",
     "Vierte el vino y el agua, sube el fuego, y cuando hierva echa los mejillones.",
     "Cierra la olla a fuego fuerte. En cuanto suba la válvula, cuenta 1 min y aparta del fuego. Despresuriza rápido de inmediato: más tiempo y encogen.",
@@ -155,15 +156,16 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 40, u: "g", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta los calabacines en rodajas gruesas y la cebolleta en trozos. Calienta 1 cda de aceite en la olla a fuego medio y sofríe la cebolleta y el ajo 2 min.",
+    "Corta los calabacines en rodajas gruesas y la cebolleta en trozos y pica el ajo. Calienta 1 cda de aceite en la olla a fuego medio y sofríe la cebolleta y el ajo 2 min.",
     "Añade el calabacín, el caldo y sal. El líquido no cubre la verdura: no importa, el calabacín suelta mucha agua.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 3 min. Despresuriza rápido.",
-    "Añade la mitad de la menta y tritura con la batidora hasta que quede muy fina. Incorpora el yogur, el zumo de limón y pimienta y bate 20 s más. Prueba de sal.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 3 min. Mientras, corta en tiras finas la mitad de las hojas de menta. Despresuriza rápido.",
+    "Añade las hojas enteras de menta y tritura con la batidora hasta que quede muy fina. Incorpora el yogur, el zumo de limón y pimienta y bate 20 s más. Prueba de sal.",
     "Para tomarla caliente, sírvela ya. Para fría, enfríala en la nevera al menos 2 h (o 20 min en un baño de agua con hielo).",
-    "Termina con el feta desmenuzado, el resto de la menta en tiras y un hilo de aceite de oliva."
+    "Termina con el feta desmenuzado, la menta en tiras y un hilo de aceite de oliva."
   ],
   nutricion: { kcal: 280, prot: 10, hc: 22, grasa: 16 },
   etiquetas: ["crema", "rápida", "ligera", "vegetariano", "verano", "cena", "económica", "poco especiada", "bajo en colesterol"],
@@ -248,9 +250,9 @@ window.RECETAS_SEED.push({
     "Corta la cebolla, la zanahoria y el apio en dados pequeños y pica el ajo. Salpimienta el pavo. Calienta el aceite en la olla a fuego fuerte y dóralo 4 min removiendo poco. Resérvalo.",
     "Baja a fuego medio y sofríe la cebolla, la zanahoria y el apio 5 min. Añade el ajo, el romero deshojado y la guindilla y remueve 30 s.",
     "Vierte el vino, raspa el fondo 1 min, añade el tomate triturado, el caldo y el pavo. Comprueba que hay líquido suficiente (debe cubrir la carne).",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 8 min. Mientras, trocea la kale. Despresuriza rápido.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 8 min. Mientras, trocea la kale y ralla el parmesano. Despresuriza rápido.",
     "Añade las alubias y la kale y cocina destapado a fuego medio 5 min hasta que la kale esté tierna y la salsa espese ligeramente. Aplasta unas alubias contra la pared para ligar.",
-    "Rectifica de sal y pimienta y sirve con un hilo de aceite crudo y parmesano rallado por encima."
+    "Rectifica de sal y pimienta y sirve con un hilo de aceite crudo y el parmesano rallado por encima."
   ],
   nutricion: { kcal: 540, prot: 46, hc: 44, grasa: 20 },
   etiquetas: ["de cuchara", "alta en proteína", "batch cooking", "invierno", "una sola olla", "superalimentos", "bajo en colesterol"],
@@ -287,15 +289,16 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "sriracha", q: 1, u: "cdta", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Dora la panceta en la olla destapada a fuego fuerte 3 min por cada cara, sin aceite, hasta que suelte grasa y esté tostada. Retira el exceso de grasa.",
     "Añade el caldo, el jengibre, los ajos enteros aplastados, la parte verde de las cebolletas y 1 cda de soja. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 20 min.",
-    "Mientras, cuece los huevos en un cazo 6 min 30 s desde que hierva el agua, enfríalos en agua con hielo y pélalos: yema cremosa. Déjalos 10 min en un bol con la otra cda de soja.",
+    "Mientras, cuece los huevos en un cazo 6 min 30 s desde que hierva el agua, enfríalos en agua con hielo y pélalos: yema cremosa. Déjalos 10 min en un bol con la otra cda de soja. Corta la parte blanca de las cebolletas en rodajas finas y parte el pak choi a lo largo en cuartos.",
     "Aparta la olla y deja despresurizar de forma natural 10 min; mientras, pon a hervir agua abundante para los fideos. Saca la panceta y córtala en lonchas gruesas. Cuela el caldo, devuélvelo a la olla y disuelve el miso en un cazo con un poco de caldo caliente antes de incorporarlo (nunca lo hiervas).",
-    "Pon el caldo a fuego medio, añade los champiñones y el pak choi partido y cuece 3 min. Cuece los fideos en el agua hirviendo según el paquete (2-4 min) y escúrrelos.",
-    "Reparte los fideos en dos boles grandes, vierte el caldo hirviendo con las verduras, coloca la panceta, el huevo partido por la mitad, la parte blanca de la cebolleta en rodajas, el sésamo y unas gotas de aceite de sésamo. Sriracha al gusto."
+    "Pon el caldo a fuego medio, añade los champiñones y el pak choi y cuece 3 min. Cuece los fideos en el agua hirviendo según el paquete (2-4 min) y escúrrelos.",
+    "Reparte los fideos en dos boles grandes, vierte el caldo hirviendo con las verduras, coloca la panceta, el huevo partido por la mitad, la cebolleta, el sésamo y unas gotas de aceite de sésamo. Sriracha al gusto."
   ],
   nutricion: { kcal: 690, prot: 38, hc: 70, grasa: 28 },
   etiquetas: ["sopa", "contundente", "invierno", "fin de semana"],
@@ -334,8 +337,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y el ajo. Dora la panceta en la olla destapada a fuego medio sin aceite 4 min hasta que esté crujiente. Sácala a papel absorbente. En su grasa fríe 4 hojas de salvia 30 s hasta que crujan y resérvalas también.",
-    "Añade el aceite, la cebolla y los dados de calabaza y sofríe 5 min a fuego medio-fuerte hasta que la calabaza coja color en los bordes. Añade el ajo y la salvia restante picada y remueve 30 s.",
+    "Pica la cebolla, el ajo y 4 hojas de salvia. Dora la panceta en la olla destapada a fuego medio sin aceite 4 min hasta que esté crujiente. Sácala a papel absorbente. En su grasa fríe las 4 hojas de salvia enteras 30 s hasta que crujan y resérvalas también.",
+    "Añade el aceite, la cebolla y los dados de calabaza y sofríe 5 min a fuego medio-fuerte hasta que la calabaza coja color en los bordes. Añade el ajo y la salvia picada y remueve 30 s.",
     "Echa el arroz y nacáralo 1 min. Vierte el vino y deja evaporar 1 min. Añade el caldo, sal y pimienta y remueve una vez.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 6 min. Despresuriza rápido.",
     "Fuera del fuego, aplasta parte de la calabaza con la cuchara para que tiña el arroz, añade la mantequilla, el parmesano y la nuez moscada y remueve con energía 1 min hasta que quede meloso.",
@@ -389,9 +392,9 @@ window.RECETAS_SEED.push({
     "Pica la cebolla, el pimiento y el ajo. Calienta el aceite en la olla a fuego fuerte y dora la carne picada 5 min desmenuzándola, hasta que pierda el agua y se tueste. Sálala.",
     "Añade la cebolla y el pimiento y sofríe 4 min. Agrega el ajo, el comino, el pimentón, el orégano y la cayena y remueve 1 min para que las especias despierten.",
     "Vierte la cerveza y raspa el fondo. Añade el tomate triturado, el chipotle, el caldo y el chocolate. Remueve.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 12 min. Mientras, cuece el arroz blanco en un cazo con el agua y sal, tapado y a fuego suave, unos 15 min. Aparta la olla y despresuriza de forma natural 8 min (la salsa espesa puede salpicar si abres rápido).",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 12 min. Mientras, cuece el arroz blanco en un cazo con el agua y sal, tapado y a fuego suave, unos 15 min, y pica el cilantro y corta la lima en gajos. Aparta la olla y despresuriza de forma natural 8 min (la salsa espesa puede salpicar si abres rápido).",
     "Abre la olla, añade las alubias y el maíz y cocina destapado a fuego medio 5 min hasta que el chili espese. Prueba: ajusta de sal y picante.",
-    "Sirve sobre el arroz con una cucharada de yogur, cilantro picado y lima."
+    "Sirve sobre el arroz con una cucharada de yogur, el cilantro picado y la lima."
   ],
   nutricion: { kcal: 700, prot: 44, hc: 60, grasa: 30 },
   etiquetas: ["picante", "batch cooking", "contundente", "de cuchara", "ideal para llevar"],
@@ -478,15 +481,16 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 2, u: "ud", nota: "tostado" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla, la zanahoria y la patata en dados y pica el ajo. Calienta el aceite en la olla a fuego medio y sofríe la cebolla, la zanahoria y la patata 5 min. Añade el ajo, el comino y el tomate concentrado y remueve 1 min.",
-    "Agrega las lentejas rojas enjuagadas y el caldo. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 8 min.",
+    "Agrega las lentejas rojas enjuagadas y el caldo. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 8 min. Mientras, pica las hojas de menta y corta medio limón en gajos.",
     "Aparta y deja despresurizar de forma natural 5 min (las lentejas rojas espuman). Abre y tritura con la batidora hasta que quede aterciopelada. Si está espesa, añade agua caliente: debe quedar como una crema ligera.",
-    "Salpimienta y añade el zumo de medio limón. Prueba: debe estar claramente ácida y especiada.",
-    "Funde la mantequilla en una sartén pequeña a fuego medio, aparta del fuego y añade el pimentón y la menta picada: se hace una mantequilla roja perfumada en 20 s.",
-    "Sirve la sopa con la mantequilla de pimentón por encima, el resto del limón en gajos y el pan de pita tostado en triángulos."
+    "Salpimienta y añade el zumo del otro medio limón. Prueba: debe estar claramente ácida y especiada.",
+    "Funde la mantequilla en una sartén pequeña a fuego medio, aparta del fuego y añade la menta picada y el pimentón: se hace una mantequilla roja perfumada en 20 s.",
+    "Sirve la sopa con la mantequilla de pimentón por encima, los gajos de limón y el pan de pita tostado en triángulos."
   ],
   nutricion: { kcal: 380, prot: 20, hc: 50, grasa: 10 },
   etiquetas: ["sopa", "ligera", "vegetariano", "económica", "invierno", "de cuchara", "verduras escondidas", "poco especiada"],
@@ -523,7 +527,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la picada: maja en el mortero 2 ajos, las almendras, el pan y la mitad del perejil con una pizca de sal hasta tener una pasta. Resérvala. Pica la cebolla, lamina los otros 2 ajos y pela las patatas y córtalas en rodajas gruesas de 1,5 cm.",
@@ -565,7 +570,7 @@ window.RECETAS_SEED.push({
     { n: "sal", q: 1, u: "cdta", nota: "gruesa, para servir" }
   ],
   pasos: [
-    "Pon el agua, la cebolla pelada entera y el laurel en la olla y llévala a ebullición. Sujeta el pulpo por la cabeza y sumérgelo y sácalo 3 veces en el agua hirviendo (el asustado: la piel no se desprende). Déjalo dentro: soltará mucho líquido propio.",
+    "Pela la cebolla y ponla entera en la olla con el agua y el laurel; llévala a ebullición. Sujeta el pulpo por la cabeza y sumérgelo y sácalo 3 veces en el agua hirviendo (el asustado: la piel no se desprende). Déjalo dentro: soltará mucho líquido propio.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 15 min (para un pulpo de 1,2 kg; 18 min si pasa de 1,5 kg).",
     "Aparta y deja despresurizar de forma natural 15 min. Abre y pincha la parte más gruesa de un tentáculo: debe entrar sin resistencia. Si no, cierra y da 3 min más. Saca el pulpo a una fuente y tápalo.",
     "En el agua morada del pulpo cuece las patatas enteras con piel: cierra y, cuando suba la válvula, cuenta 8 min a fuego medio. Despresuriza rápido. Pélalas en caliente y córtalas en rodajas de 1 cm.",
@@ -612,10 +617,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enjuaga las alubias pintas y retira las que floten. Ponlas en la olla con el agua, la cebolla partida por la mitad, 2 ajos enteros, el chile entero, el laurel y el aceite. Sin sal.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 30 min.",
-    "Aparta y deja despresurizar de forma natural 15 min. Abre y prueba: la alubia debe estar tierna y cremosa por dentro. Si está dura, cierra y da 6 min más.",
+    "Aparta y deja despresurizar de forma natural 15 min; mientras, pica el cilantro y corta la lima en gajos. Abre y prueba: la alubia debe estar tierna y cremosa por dentro. Si está dura, cierra y da 6 min más.",
     "Retira la cebolla, el laurel y el chile (pícalo y devuélvelo si quieres picante). Aplasta los ajos cocidos contra la pared. Añade sal, el orégano frotado entre las manos y el comino y cuece destapado a fuego medio 8 min para que el caldo espese.",
     "Aplasta un cucharón de alubias con el tenedor y devuélvelas: el caldo quedará turbio y sedoso, como debe ser.",
-    "Calienta las tortillas en una sartén seca 30 s por lado. Sirve los frijoles en bol con cebolla morada, cilantro picado, queso fresco y lima, y las tortillas para acompañar."
+    "Calienta las tortillas en una sartén seca 30 s por lado. Sirve los frijoles en bol con cebolla morada, el cilantro picado, queso fresco y los gajos de lima, y las tortillas para acompañar."
   ],
   nutricion: { kcal: 450, prot: 20, hc: 66, grasa: 12 },
   etiquetas: ["vegetariano", "económica", "batch cooking", "de cuchara", "sin remojo", "ligera", "sin verduras", "bajo en colesterol"],
@@ -660,9 +665,9 @@ window.RECETAS_SEED.push({
     "Corta los champiñones en cuartos, la cebolla y el pimiento en tiras y pica el ajo. Salpimienta el pollo. Calienta el aceite en la olla a fuego fuerte y dóralo 5 min por el lado de la piel y 2 por el otro hasta que esté bien tostado. Resérvalo.",
     "En la misma grasa saltea los champiñones 4 min a fuego fuerte hasta que doren. Baja a medio, añade la cebolla y el pimiento y sofríe 5 min. Agrega el ajo, el romero deshojado y el orégano y remueve 30 s.",
     "Vierte el vino, raspa el fondo y deja reducir 2 min. Añade el tomate, el caldo, el laurel y el pollo con la piel hacia arriba. El líquido debe cubrirlo a medias.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 10 min. Aparta y deja despresurizar de forma natural 8 min.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 10 min. Aparta y deja despresurizar de forma natural 8 min. Mientras, pica el perejil.",
     "Saca el pollo. Añade las aceitunas a la salsa y redúcela destapada a fuego fuerte 5 min hasta que espese y brille. Rectifica de sal y pimienta.",
-    "Devuelve el pollo a la salsa 1 min para que se caliente y sirve con perejil picado y el pan tostado para mojar."
+    "Devuelve el pollo a la salsa 1 min para que se caliente y sirve con el perejil picado y el pan tostado para mojar."
   ],
   nutricion: { kcal: 600, prot: 46, hc: 32, grasa: 32 },
   etiquetas: ["guiso", "económica", "batch cooking", "otoño", "una sola olla", "poco especiada"],
@@ -752,12 +757,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga las alubias negras y las lentejas. Ponlas en la olla con el agua y la cúrcuma, sin sal. Cierra a fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 35 min.",
+    "Enjuaga las alubias negras y las lentejas. Ponlas en la olla con el agua y la cúrcuma, sin sal. Cierra a fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 35 min. Mientras, pica la cebolla, ralla el ajo y el jengibre y pica el cilantro.",
     "Aparta y deja despresurizar de forma natural 15 min. Abre: las alubias deben estar muy tiernas y las lentejas deshechas. Aplasta parte con el dorso de la cuchara contra la pared para que suelten almidón.",
-    "Mientras, haz la base: funde la mantequilla con el aceite en una sartén a fuego medio y sofríe la cebolla picada 6 min hasta que esté dorada. Añade el ajo y el jengibre rallados, el comino, el pimentón y la cayena y remueve 1 min.",
+    "Mientras despresuriza, haz la base: funde la mantequilla con el aceite en una sartén a fuego medio y sofríe la cebolla 6 min hasta que esté dorada. Añade el ajo y el jengibre, el comino, el pimentón y la cayena y remueve 1 min.",
     "Añade el tomate triturado y cocina 5 min hasta que la grasa se separe en los bordes. Vuelca esta base en la olla con las legumbres, sala y mezcla.",
     "Cocina destapado a fuego mínimo 10-15 min removiendo de vez en cuando para que no se agarre: el dal debe quedar espeso, oscuro y cremoso. Si se seca, añade agua caliente.",
-    "Incorpora la nata y el garam masala, cocina 2 min más y sirve con cilantro picado, un hilo de nata y pan de pita caliente."
+    "Incorpora la nata y el garam masala, cocina 2 min más y sirve con el cilantro picado, un hilo de nata y pan de pita caliente."
   ],
   nutricion: { kcal: 560, prot: 24, hc: 70, grasa: 20 },
   etiquetas: ["vegetariano", "de cuchara", "económica", "batch cooking", "sin remojo", "especiado"],
@@ -843,7 +848,8 @@ window.RECETAS_SEED.push({
     { n: "queso gruyère", q: 80, u: "g", nota: "rallado" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Funde la mantequilla con el aceite en la olla destapada a fuego medio-fuerte y añade toda la cebolla con una pizca de sal. Sofríe 15 min removiendo cada 2-3 min hasta que esté dorada oscura y reducida a un tercio. Si se agarra, añade una cucharada de agua y raspa. Entre vuelta y vuelta, pica el ajo.",
@@ -899,9 +905,9 @@ window.RECETAS_SEED.push({
     "Salpimienta el pollo y enharínalo ligeramente. Añade el aceite y dóralo 4 min por el lado de la piel y 2 por el otro. Resérvalo.",
     "Baja a fuego medio y sofríe la cebolla y la zanahoria 5 min. Añade el ajo y el tomate concentrado y remueve 1 min. Vierte el vino, sube el fuego y reduce 3 min raspando el fondo.",
     "Añade el caldo, el tomillo, el laurel, el pollo y el bacon. El líquido debe cubrir el pollo a medias.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 12 min. Aparta y deja despresurizar de forma natural 10 min.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 12 min. Aparta y deja despresurizar de forma natural 10 min. Mientras, pica el perejil.",
     "Saca el pollo. Añade los champiñones y las chalotas a la salsa y redúcela destapada a fuego fuerte 8 min hasta que nape la cuchara. Fuera del fuego, monta la salsa con la mantequilla fría removiendo.",
-    "Devuelve el pollo 1 min, rectifica de sal y pimienta y sirve con perejil picado y pan tostado."
+    "Devuelve el pollo 1 min, rectifica de sal y pimienta y sirve con el perejil picado y el pan tostado."
   ],
   nutricion: { kcal: 620, prot: 50, hc: 24, grasa: 36 },
   etiquetas: ["guiso", "fin de semana", "invierno", "alta en proteína", "de víspera", "poco especiada"],
@@ -949,11 +955,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla el pimentón, 1 cda de azúcar, el comino, sal y pimienta y frota la carne con la mezcla. Calienta el aceite en la olla a fuego fuerte y dora los trozos 3 min por cara.",
     "Añade la cebolla en cuartos, los ajos aplastados, el caldo, 1 cda de vinagre y la mostaza. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 50 min.",
-    "Aparta y deja despresurizar de forma natural 20 min: la carne se relaja y queda jugosa. Abre y comprueba: debe deshacerse al presionar con un tenedor. Si no, 10 min más.",
+    "Mientras, prepara la ensalada de col: mezcla la col y la zanahoria con la mayonesa, el yogur, un chorrito de vinagre, sal y pimienta, y guárdala en la nevera. Corta los pepinillos en rodajas.",
+    "Aparta la olla y deja despresurizar de forma natural 20 min: la carne se relaja y queda jugosa. Abre y comprueba: debe deshacerse al presionar con un tenedor. Si no, 10 min más.",
     "Saca la carne a una fuente y desmenúzala con dos tenedores, retirando los trozos de grasa que no se hayan fundido. Cuela el jugo de la olla y desgrásalo.",
     "Devuelve 150 ml del jugo a la olla con el kétchup, el resto del azúcar y el vinagre, la salsa worcestershire y el chipotle. Reduce destapado a fuego fuerte 6-8 min hasta tener una salsa barbacoa espesa. Mezcla con la carne desmenuzada y mantén a fuego mínimo.",
-    "Mientras, prepara la ensalada de col: mezcla la col y la zanahoria con la mayonesa, el yogur, un chorrito de vinagre, sal y pimienta.",
-    "Tuesta los panes por dentro y rellena con una montaña de pulled pork, ensalada de col y pepinillos en rodajas. El sobrante congela genial."
+    "Tuesta los panes por dentro y rellena con una montaña de pulled pork, ensalada de col y los pepinillos. El sobrante congela genial."
   ],
   nutricion: { kcal: 770, prot: 46, hc: 68, grasa: 34 },
   etiquetas: ["batch cooking", "contundente", "fin de semana", "económica", "para niños"],
@@ -995,7 +1001,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Tuesta los chiles secos abiertos en la olla seca a fuego medio 30 s por lado (sin quemarlos) y cúbrelos con agua caliente 10 min. Tuesta en la misma olla los tomates, la cebolla en cuartos y los ajos 6 min hasta que se chamusquen.",
@@ -1051,13 +1058,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el cordero con la mitad del yogur, la cúrcuma, 1 cdta de pimentón y sal. Deja marinar al menos 20 min (o toda la noche); mientras, pica fina la cebolla.",
+    "Mezcla el cordero con la mitad del yogur, la cúrcuma, 1 cdta de pimentón y sal. Deja marinar al menos 20 min (o toda la noche); mientras, pica fina la cebolla y ralla el ajo y el jengibre.",
     "Calienta el aceite y la mantequilla en la olla a fuego medio, añade la canela, el clavo y el laurel y fríelos 30 s. Agrega la cebolla y sofríe 10 min hasta que esté bien dorada.",
-    "Añade el ajo y el jengibre rallados, el cilantro molido, el comino, el cardamomo, la cayena y el otro pimentón y remueve 1 min. Incorpora el tomate y cocina 3 min.",
+    "Añade el ajo y el jengibre, el cilantro molido, el comino, el cardamomo, la cayena y el otro pimentón y remueve 1 min. Incorpora el tomate y cocina 3 min.",
     "Añade el cordero con su marinada y saltéalo 5 min a fuego fuerte hasta que el yogur se integre. Añade el resto del yogur a cucharadas removiendo, y 200 ml de agua.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 25 min. Aparta y deja despresurizar de forma natural 15 min.",
-    "Mientras, lava el arroz basmati y cuécelo en 225 ml de agua con sal, tapado y a fuego mínimo, 12 min. Abre la olla, retira la canela y el laurel, añade el garam masala y reduce destapado a fuego medio-fuerte 8-10 min hasta que la salsa espese y la grasa roja suba a la superficie. Rectifica de sal.",
-    "Sirve el rogan josh con el arroz y cilantro picado por encima."
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 25 min. Mientras, pica el cilantro fresco. Aparta y deja despresurizar de forma natural 15 min.",
+    "Mientras despresuriza, lava el arroz basmati y cuécelo en 225 ml de agua con sal, tapado y a fuego mínimo, 12 min. Abre la olla, retira la canela y el laurel, añade el garam masala y reduce destapado a fuego medio-fuerte 8-10 min hasta que la salsa espese y la grasa roja suba a la superficie. Rectifica de sal.",
+    "Sirve el rogan josh con el cilantro fresco picado por encima y el arroz al lado."
   ],
   nutricion: { kcal: 820, prot: 48, hc: 66, grasa: 40 },
   etiquetas: ["especiado", "picante", "contundente", "fin de semana", "de víspera"],
@@ -1148,13 +1155,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Primera cocción: pon la lengua en la olla con el agua, 1 cebolla en cuartos, la zanahoria, el puerro, 2 ajos, 1 hoja de laurel, la pimienta en grano y una cucharada de sal. Cierra a fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 60 min.",
-    "Mientras, pica la otra cebolla, el pimiento rojo y 1 ajo, y pela las patatas y córtalas en trozos de 3 cm.",
+    "Mientras, pica la otra cebolla, el pimiento rojo, 1 ajo y el perejil, y pela las patatas y córtalas en trozos de 3 cm.",
     "Aparta y deja despresurizar de forma natural 20 min. Saca la lengua, deja que se temple 10 min y pélala en caliente: la piel blanca gruesa sale tirando con un cuchillo pequeño. Recorta la grasa de la base y córtala en lonchas de 1 cm. Cuela y reserva el caldo.",
     "Haz la picada: tritura las almendras tostadas, el pan frito y el ajo restante con 100 ml del caldo hasta tener una pasta.",
     "Limpia la olla y calienta el aceite a fuego medio. Sofríe la cebolla y el pimiento 8 min. Añade el ajo picado y el tomate rallado y cocina 3 min. Aparta, añade el pimentón y remueve 20 s.",
     "Vierte el vino y hierve 1 min. Añade 400 ml de caldo, la picada, el otro laurel, las lonchas de lengua y las patatas. Prueba de sal.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 10 min. Despresuriza rápido.",
-    "Si la salsa está ligera, reduce destapado 5-8 min a fuego medio-fuerte hasta que nape. Sirve con perejil picado. Es un plato que gana reposado de un día para otro."
+    "Si la salsa está ligera, reduce destapado 5-8 min a fuego medio-fuerte hasta que nape. Sirve con el perejil picado. Es un plato que gana reposado de un día para otro."
   ],
   nutricion: { kcal: 670, prot: 44, hc: 36, grasa: 38 },
   etiquetas: ["casquería", "de víspera", "contundente", "guiso", "fin de semana", "económica", "poco especiada"],

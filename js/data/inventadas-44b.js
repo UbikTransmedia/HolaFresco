@@ -36,7 +36,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima (una sartén con un par de latas) y déjalo 15 minutos. Al perder agua se dora mejor y absorbe la marinada como una esponja.",
@@ -81,7 +82,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "cebolleta (parte verde)", q: 0.5, u: "manojo" },
     { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" }
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos en agua caliente del grifo (no hirviendo) 10-15 minutos, hasta que estén flexibles pero firmes. Escúrrelos: terminarán de hacerse en el wok, y si los hierves se rompen al saltearlos.",
@@ -170,7 +172,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "sésamo", q: 1, u: "cdta" }
+    { n: "sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa frotándola bajo el grifo y cuécela con 280 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Mientras, corta el tempeh en dados de 1 cm y cuécelo al vapor o en agua hirviendo 10 minutos: así le quitas el amargor y se abre para absorber mejor la salsa.",
@@ -218,7 +221,8 @@ window.RECETAS_SEED.push({
     { n: "veganesa", q: 1, u: "cda" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la col en tiras muy finas y pica el cilantro. Ponle a la col una pizca de sal y el zumo de una lima y apriétala con las manos 1 minuto. La sal y el ácido la ablandan y quitan el sabor a crudo sin cocinarla. Añade la mitad del cilantro.",
@@ -266,7 +270,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas.",
@@ -358,7 +363,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceitunas verdes", q: 40, u: "g" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Prensa el tofu 10 minutos entre papel de cocina y córtalo en 6 lonchas gruesas. Hazles unos cortes en rejilla por una cara para que la marinada penetre.",
@@ -447,7 +453,8 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "cebolleta (parte verde)", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pincha las patatas con piel y cuécelas en el microondas 8-10 minutos, hasta que estén tiernas. Así quedan más secas que hervidas y las tikkis no necesitan huevo para mantenerse unidas. Mientras, tuesta el comino en grano en una sartén seca 30 segundos, hasta que huela, ralla el jengibre y pica el chile y un puñado de cilantro.",
@@ -495,7 +502,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara. En una cazuela, tuesta media cucharadita de comino en grano con un hilo de aceite 30 segundos, añade el arroz, 240 ml de agua y sal, tapa y cuece a fuego mínimo 12 minutos. Deja reposar 5 minutos sin destapar.",
@@ -539,7 +547,8 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebolleta (parte verde)", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "aceite de sésamo", q: 1, u: "cdta" }
+    { n: "aceite de sésamo", q: 1, u: "cdta" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz frotándolo entre las manos y cambiando el agua 3 veces. Cuécelo con 220 ml de agua, tapado: 2 minutos a fuego fuerte y 13 a fuego mínimo. Déjalo reposar 10 minutos sin destapar para que termine de hacerse con su vapor.",
@@ -583,7 +592,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos grandes y ponlas en una cazuela con agua fría justo hasta cubrirlas y sal. Empezar en frío hace que se cuezan por igual por dentro y por fuera.",
@@ -674,7 +684,8 @@ window.RECETAS_SEED.push({
     { n: "hierbabuena fresca", q: 0.25, u: "manojo" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la calabaza y la berenjena en dados de 2 cm y el pimiento en cuadrados. Ralla los tomates y desecha la piel.",
@@ -720,7 +731,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 0.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica los pimientos y ralla los tomates. Seca el tofu, córtalo en dados de 2 cm y dóralo en una sartén con el aceite de oliva a fuego medio-alto 5 minutos. Resérvalo. Si lo echas crudo al guiso se deshace; dorado, mantiene la forma.",
@@ -767,7 +779,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el tempeh con un rallador grueso, o desmígalo con los dedos, y pica las nueces del mismo tamaño. Ralla también la zanahoria.",
@@ -815,7 +828,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el tofu en dados pequeños y mézclalo con el zumo de medio limón, el orégano, sal y media cucharada de aceite. Déjalo marinar mientras haces el resto: el ácido y la sal le dan un sabor que recuerda al queso feta.",
@@ -909,7 +923,8 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 2, u: "hoja" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Lava la quinoa y cuécela con 200 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Mientras, mezcla el lino molido con 3 cucharadas de agua y espera 5 minutos: forma un gel que liga como el huevo. Ralla la zanahoria, escúrrela y pica el perejil.",
@@ -998,7 +1013,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta la parte de arriba de los pimientos y guárdala como tapa. Quita las semillas, sala el interior, píntalos por fuera con aceite y hornéalos 15 minutos para que empiecen a ablandarse.",
@@ -1049,7 +1065,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela la chirivía y la patata, trocéalas y ponlas a cocer en agua con sal 18 minutos, hasta que estén muy tiernas.",
@@ -1096,7 +1113,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Desmiga el tofu en trozos irregulares y mézclalo con el zumo de medio limón, la levadura nutricional, el orégano, una buena pizca de sal y 1 cucharadita de aceite. Déjalo 15 minutos. Con el ácido, la sal y la levadura toma un sabor salino y láctico muy parecido al del feta.",

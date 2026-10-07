@@ -31,7 +31,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 6, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece la pechuga en 500 ml de agua con sal a fuego suave 15 minutos, hasta que esté hecha; mientras, pica la cebolla y el ajo. Deja templar en el caldo, sácala y deshiláchala con dos tenedores. Guarda el caldo.",
@@ -161,7 +162,8 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 0.5, u: "cdta" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas.",
@@ -242,7 +244,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 200, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados y cuécelas en agua con sal 12-15 minutos, hasta que estén tiernas.",
@@ -328,7 +331,8 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 100, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el arroz en abundante agua con sal 16-18 minutos y escúrrelo.",
@@ -409,7 +413,8 @@ window.RECETAS_SEED.push({
     { n: "harina de trigo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en juliana y lamina los ajos. Salpimienta el pollo, pásalo por harina y dóralo en la cazuela con el aceite a fuego fuerte 7 minutos. Sácalo.",
@@ -456,7 +461,8 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 60, u: "ml" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Trocea la cebolla, la zanahoria, el puerro y el ajo. Salpimienta las carrilleras, pásalas por harina y dóralas en la cazuela con el aceite a fuego fuerte 3 minutos por lado. Sácalas.",
@@ -632,7 +638,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 10, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Extiende los filetes, salpimiéntalos y úntalos con la mostaza. Coloca encima 2 lonchas de bacon, un poco de cebolla en juliana fina (usa media cebolla) y un pepinillo en tiras.",
@@ -676,7 +683,8 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las cebollas en medias lunas gruesas. Salpimienta la carne, pásala por la harina y dórala en la cazuela con el aceite y la mantequilla a fuego fuerte 6 minutos. Sácala.",
@@ -718,7 +726,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas gruesas y cuécelas en agua con sal 15 minutos. Escúrrelas.",
@@ -844,7 +853,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la cebolla en gajos y pela los ajos. Salpimienta la carne y dórala en la cazuela con el aceite a fuego fuerte 6 minutos. Espolvorea la harina y remueve 1 minuto.",
@@ -886,7 +896,8 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 110, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, el pimiento y el ajo. Salpimienta el pollo y dóralo en la cazuela con el aceite a fuego fuerte 5 minutos. Sácalo.",

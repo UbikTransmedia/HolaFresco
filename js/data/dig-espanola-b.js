@@ -30,7 +30,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre de Jerez", q: 0.5, u: "cdta" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en cachos irregulares de unos 4 cm, «cachándolas»: mete la punta del cuchillo y rompe el último tramo con un giro. Los bordes rotos sueltan almidón y agarran mejor la ajada.",
@@ -70,7 +71,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1.5, u: "cda" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal en una cazuela grande. Mientras, lava bien las espinacas en varias aguas y quita los tallos más gruesos.",
@@ -159,7 +161,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "vinagre de Jerez", q: 2, u: "cdta" },
     { n: "sal en escamas", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre las ñoras, quítales las semillas y el rabo y ponlas en remojo en agua caliente 20 minutos. Precalienta el horno a 220 °C.",
@@ -242,7 +245,8 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer los huevos 10 minutos en agua hirviendo, enfríalos y pélalos. Separa las yemas y pica las claras.",
@@ -370,7 +374,8 @@ window.RECETAS_SEED.push({
     { n: "pan sin gluten", q: 1, u: "rebanada" },
     { n: "aceite de ajo", q: 2, u: "cda" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Abre las ñoras, quita las semillas y ponlas en remojo en agua caliente 20 minutos. Precalienta el horno a 200 °C y asa el tomate entero 20 minutos, hasta que la piel se agriete. Tuesta el pan los últimos 5 minutos.",
@@ -455,7 +460,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las zanahorias y córtalas en bastones al bies. Mézclalas en una bandeja con la mitad del aceite, el comino y sal, y asa 25 minutos, hasta que estén tiernas y caramelizadas en los bordes.",
@@ -495,7 +501,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "vinagre de Jerez", q: 2, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 18-20 minutos, hasta que se dejen atravesar con un cuchillo.",
@@ -585,7 +592,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1.5, u: "cda" },
     { n: "caldo de pollo", q: 750, u: "ml", nota: "casero, sin cebolla ni ajo" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta los pimientos en dados pequeños y las judías verdes en trozos de 3 cm, y pica la parte verde de la cebolleta. Sala el pollo. Calienta el aceite de ajo en una cazuela ancha a fuego medio-alto y dora el pollo 5-6 minutos, hasta que esté tostado por todas las caras. Sácalo.",
@@ -669,7 +677,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 2.5, u: "cda" },
     { n: "yema de huevo", q: 1, u: "ud" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Si no tienes caldo hecho, cuece la espina y la cabeza del rape en 800 ml de agua con sal 20 minutos y cuela. Mantén 600 ml caliente con el azafrán. Precalienta el horno a 200 °C.",
@@ -792,7 +801,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos de arroz en agua caliente según el paquete (unos 8 minutos), hasta que estén flexibles pero firmes. Escúrrelos y pásalos por agua fría para que no se peguen.",
@@ -874,7 +884,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva virgen extra", q: 1, u: "cda" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "huevo", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el huevo 10 minutos en agua hirviendo. Mientras, lava los tomates, quítales el pedúnculo y trocéalos, y quita las semillas al pimiento y trocéalo, reservando un trocito para decorar.",

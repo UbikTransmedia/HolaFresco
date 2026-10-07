@@ -363,7 +363,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece un huevo en una cazuela con agua hirviendo 10 minutos. Mientras, remoja la miga de pan en 50 ml de leche, pica el ajo y el perejil y trocea la cebolla y las zanahorias. Enfría el huevo y pélalo.",

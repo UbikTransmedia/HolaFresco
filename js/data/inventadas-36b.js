@@ -28,7 +28,8 @@ window.RECETAS_SEED.push({
     { n: "maíz dulce", q: 50, u: "g" },
     { n: "tortillas de maíz", q: 4, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 20–25 minutos, hasta que estén tiernas. Mientras, precalienta el horno a 200 °C.",
@@ -71,7 +72,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta el calabacín en tallarines con un espiralizador o con un pelador en tiras anchas. Sálalos ligeramente y déjalos en un colador 5 minutos para que suelten agua. Mientras, parte los tomates cherry por la mitad, corta la guindilla en aros, pica el perejil y tuesta el pan sin gluten.",
@@ -114,7 +116,8 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "parte verde de cebolleta", q: 2, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz y ponlo en un recipiente amplio apto para microondas con 280 ml de agua y sal. Cocina destapado a máxima potencia 10 minutos, remueve, tapa y deja reposar 5 minutos: absorberá el resto del agua.",
@@ -156,7 +159,8 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara el adobo mezclando el vinagre, el pimentón, el comino, el orégano, el aceite de ajo, sal y 2 cucharadas de agua. Corta el pez espada en tacos grandes, cúbrelo con el adobo y déjalo en la nevera 30 minutos.",
@@ -197,7 +201,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas, córtalas en dados y cuécelas en agua con sal 8 minutos. Mientras, despunta y trocea las judías verdes y pica el perejil.",
@@ -243,7 +248,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el jengibre y mézclalo con 100 g de yogur, el garam masala, el pimentón, el zumo del limón, el aceite de ajo y sal. Embadurna los muslos y déjalos marinar al menos 20 minutos (o toda la noche en la nevera).",
@@ -286,7 +292,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las patatas en bastones de 1 cm, sumérgelas 10 minutos en agua fría, sécalas muy bien y mézclalas con el aceite, el pimentón y sal.",
@@ -332,7 +339,8 @@ window.RECETAS_SEED.push({
     { n: "leche sin lactosa", q: 100, u: "ml" },
     { n: "mantequilla", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela la calabaza y las zanahorias y córtalas en trozos grandes. Seca la carne, sálala y dórala en una sartén muy caliente con el aceite de ajo, en tandas, 4–5 minutos, hasta que tenga costra oscura por todos los lados. Pásala a la slow cooker.",
@@ -509,7 +517,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pela las patatas y córtalas en rodajas de 3 mm; corta el calabacín en rodajas algo más gruesas.",
@@ -593,7 +602,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "zumaque", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava la quinoa y cuécela con 240 ml de agua y sal 12 minutos tapada a fuego bajo. Deja reposar 5 minutos y suéltala con un tenedor.",
@@ -637,7 +647,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla los calabacines con la parte gruesa del rallador, sálalos y déjalos 10 minutos en un colador. Mientras, ralla el queso, pica el cebollino y mezcla el yogur con la mitad del cebollino, la ralladura del limón y sal.",
@@ -680,7 +691,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta las patatas en dados de 1,5 cm y cuécelas 5 minutos en el microondas tapadas con un chorrito de agua, o 6 minutos en agua hirviendo, hasta que estén casi tiernas. Mientras, corta los tomates en dados y pica el cebollino. Escurre bien las patatas.",
@@ -724,7 +736,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
-    { n: "parte verde de cebolleta", q: 2, u: "ud" }
+    { n: "parte verde de cebolleta", q: 2, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz lavado con 210 ml de agua: 12 minutos tapado a fuego mínimo y 5 de reposo.",
@@ -769,7 +782,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "chile fresco", q: 0.5, u: "ud", opcional: true },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela la calabaza y córtala en dados de 2 cm; escurre el tofu y córtalo en dados del mismo tamaño.",
@@ -856,7 +870,8 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 2, u: "ud" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "cacahuetes", q: 20, u: "g" }
+    { n: "cacahuetes", q: 20, u: "g" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece el arroz en abundante agua con sal 10–11 minutos, como si fuera pasta.",
@@ -944,7 +959,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1.5, u: "cda" },
     { n: "lima", q: 2, u: "ud" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca la carne de la nevera 20 minutos antes. Mientras, hidrata los fideos de arroz en agua caliente 8 minutos, escúrrelos, pásalos por agua fría y córtalos con tijera en trozos.",
@@ -987,7 +1003,8 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" }
+    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos de arroz en agua caliente 8–10 minutos, hasta que estén flexibles.",
@@ -1031,7 +1048,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de ajo", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Calienta el caldo con el azafrán. Corta el pimiento en tiras finas y ralla el tomate. Corta el rape en dados grandes y sálalo junto con las gambas.",
@@ -1077,7 +1095,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "parte verde de cebolleta", q: 2, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "lima", q: 1, u: "ud" }
+    { n: "lima", q: 1, u: "ud" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla la mitad del jengibre y corta el resto en láminas; pica la cebolleta. Mezcla el cerdo picado con el jengibre rallado, 1 cucharada de tamari, la maicena y la mitad de la cebolleta. Forma unas 14 albóndigas pequeñas con las manos húmedas.",

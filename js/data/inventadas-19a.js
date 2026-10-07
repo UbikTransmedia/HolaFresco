@@ -22,7 +22,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir 2 litros de agua con sal. Lamina finos los ajos, desmenuza la guindilla, pica el perejil (tallos incluidos, muy finos) y ralla la piel del limón.",
@@ -64,7 +65,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con poca sal (las anchoas, aceitunas y alcaparras ya salan). Pica el ajo y el perejil.",
@@ -104,15 +106,16 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados de 2 cm, mézclalos en una bandeja con 1,5 cucharadas de aceite y una pizca de sal y ásalos 25 minutos, removiendo a mitad, hasta que estén dorados por fuera y cremosos por dentro.",
     "Mientras, pon a hervir agua con sal para la pasta. Lamina el ajo y sofríelo con el resto del aceite y la guindilla en una sartén a fuego medio-bajo 2 minutos, sin que se queme.",
-    "Añade el tomate triturado, sal y unos tallos de albahaca y cocina 15 minutos a fuego suave, hasta que la salsa espese. Retira los tallos.",
+    "Añade el tomate triturado, sal y unos tallos de albahaca y cocina 15 minutos a fuego suave, hasta que la salsa espese; mientras, ralla el parmesano. Retira los tallos.",
     "Cuece los rigatoni en el agua hirviendo 1 minuto menos de lo indicado y reserva un poco del agua de cocción.",
     "Incorpora a la salsa dos tercios de la berenjena asada y la pasta escurrida con un chorrito de agua; mezcla 1 minuto a fuego medio, hasta que la salsa envuelva bien la pasta.",
-    "Sirve con el resto de la berenjena por encima, cucharadas de ricotta, parmesano rallado, hojas de albahaca rotas con la mano y pimienta."
+    "Sirve con el resto de la berenjena por encima, cucharadas de ricotta, el parmesano rallado, hojas de albahaca rotas con la mano y pimienta."
   ],
   nutricion: { kcal: 620, prot: 23, hc: 73, grasa: 26 },
   etiquetas: ["mediterránea", "aromática", "al horno", "verano", "vegetariana"],
@@ -145,7 +148,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Pica un diente de ajo muy fino y lamina el otro. Parte los tomates cherry por la mitad, ralla la piel del limón y pica el perejil.",
@@ -185,15 +189,16 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2.5, u: "cda" },
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Tuesta las nueces en una sartén seca a fuego medio 3 minutos, hasta que huelan; reserva unas pocas para servir.",
     "Tritura la rúcula con las nueces, el parmesano, el ajo, la ralladura y el zumo del medio limón, 2 cucharadas de aceite, sal y 2 cucharadas de agua fría hasta tener un pesto grueso.",
     "Cuece los fusilli según el paquete y reserva medio vaso de agua de cocción.",
-    "Mientras, corta la pechuga en filetes finos, salpimiéntala y hazla en la sartén con el resto del aceite a fuego fuerte 2-3 minutos por lado, hasta que esté dorada y jugosa. Córtala en tiras y parte los cherry por la mitad.",
+    "Mientras, corta la pechuga en filetes finos, salpimiéntala y hazla en la sartén con el resto del aceite a fuego fuerte 2-3 minutos por lado, hasta que esté dorada y jugosa. Córtala en tiras, parte los cherry por la mitad y pica las nueces reservadas.",
     "Escurre la pasta, devuélvela a la olla fuera del fuego y mézclala con el pesto y un chorrito del agua de cocción, hasta que quede cremosa (sin fuego, para que la rúcula no se oscurezca).",
-    "Sirve con el pollo, los cherry y las nueces reservadas picadas por encima."
+    "Sirve con el pollo, los cherry y las nueces picadas por encima."
   ],
   nutricion: { kcal: 770, prot: 43, hc: 64, grasa: 38 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "verduras escondidas", "poco especiada"],
@@ -226,15 +231,16 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal. Tritura los pistachos (reserva unos pocos), las hojas de menta y albahaca, el parmesano, medio ajo, 1,5 cucharadas de aceite, el zumo de medio limón y 2-3 cucharadas de agua fría hasta tener un pesto grueso.",
     "Mezcla la ricotta con la ralladura del limón, sal y pimienta. Reserva.",
-    "Corta los calabacines en medias lunas finas. Saltéalos en una sartén con el resto del aceite y el otro medio ajo picado a fuego fuerte 5-6 minutos, hasta que estén dorados pero aún firmes. Sala al final.",
-    "Cuece la pasta según el paquete y reserva un vaso de agua de cocción.",
+    "Corta los calabacines en medias lunas finas y pica el otro medio ajo. Saltéalos en una sartén con el resto del aceite y el ajo picado a fuego fuerte 5-6 minutos, hasta que estén dorados pero aún firmes. Sala al final.",
+    "Cuece la pasta según el paquete y reserva un vaso de agua de cocción. Mientras, pica los pistachos reservados.",
     "Escurre la pasta y mézclala fuera del fuego con el pesto, el calabacín y un chorrito de agua de cocción hasta que quede cremosa y brillante.",
-    "Sirve con cucharadas de ricotta al limón, los pistachos reservados picados y unas hojas de menta."
+    "Sirve con cucharadas de ricotta al limón, los pistachos picados y unas hojas de menta."
   ],
   nutricion: { kcal: 625, prot: 24, hc: 67, grasa: 29 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "verano", "vegetariana", "poco especiada"],
@@ -392,7 +398,8 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta el calabacín, el pimiento y la cebolla en dados de 2 cm.",
@@ -434,14 +441,15 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir agua con sal para la pasta. Pica la cebolla y el ajo y corta la berenjena en dados pequeños de 1 cm.",
     "En una sartén grande con el aceite a fuego medio-alto, dora el pavo picado 5 minutos, desmenuzándolo, hasta que pierda el color rosado. Añade la cebolla, el ajo y la berenjena con una pizca de sal y cocina 8 minutos, hasta que la berenjena esté blanda.",
     "Incorpora el tomate y el orégano y cocina a fuego suave 12 minutos, hasta que el ragú espese. Salpimienta.",
-    "Mientras, cuece los macarrones 3 minutos menos de lo indicado (terminarán en el horno) y escúrrelos.",
-    "Mezcla la pasta con el ragú en una fuente, cubre con la mozzarella en trozos y el parmesano rallado.",
+    "Mientras, cuece los macarrones 3 minutos menos de lo indicado (terminarán en el horno) y escúrrelos. Trocea la mozzarella y ralla el parmesano.",
+    "Mezcla la pasta con el ragú en una fuente, cubre con la mozzarella y el parmesano.",
     "Hornea 15 minutos y gratina 3 minutos más, hasta que el queso esté dorado y burbujeante. Deja reposar 5 minutos y sirve con albahaca."
   ],
   nutricion: { kcal: 765, prot: 47, hc: 75, grasa: 31 },
@@ -476,7 +484,8 @@ window.RECETAS_SEED.push({
     { n: "queso de cabra", q: 80, u: "g", nota: "en rulo" },
     { n: "albahaca fresca", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta el calabacín, el pimiento y la cebolla en trozos de 2-3 cm.",
@@ -516,7 +525,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con poca sal. Desecha los mejillones abiertos que no se cierren al golpearlos. Lamina el ajo, parte los cherry por la mitad y pica el perejil.",
@@ -557,7 +567,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece los rigatoni según el paquete. Reserva un vaso de agua de cocción.",
@@ -596,7 +607,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra suave" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras, tuesta los piñones en una sartén seca a fuego medio 2-3 minutos, hasta que estén dorados. Deja enfriar.",
@@ -638,7 +650,8 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Infusiona el azafrán en el caldo caliente mientras preparas lo demás. Pica fina la chalota y el ajo y corta el calabacín en bastones finos, como la pasta. Pica el cebollino.",
@@ -684,7 +697,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica muy fino la cebolla, la zanahoria, el apio, el ajo y el hinojo (guarda sus hojitas verdes). Machaca ligeramente las semillas de hinojo.",
@@ -726,7 +740,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 160 °C. Parte los tomates por la mitad a lo largo y colócalos con el corte hacia arriba en una fuente, con los ajos pelados entre ellos.",
@@ -767,7 +782,8 @@ window.RECETAS_SEED.push({
     { n: "mayonesa", q: 30, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el grill del horno a 220 °C. Mezcla la mayonesa con medio diente de ajo rallado y unas gotas de agua para hacer un alioli rápido y suave. Reserva en frío. Trocea las setas y pica el resto del ajo y el perejil.",
@@ -809,7 +825,8 @@ window.RECETAS_SEED.push({
     { n: "queso rallado", q: 60, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C con grill y pon a hervir agua con sal para la pasta. Pica la cebolla, el pimiento y el ajo.",
@@ -852,7 +869,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud", nota: "para servir" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica fina la cebolla, el pimiento y el ajo. Calienta el caldo con el azafrán en otro cazo.",
@@ -896,7 +914,8 @@ window.RECETAS_SEED.push({
     { n: "menta seca", q: 1, u: "cdta" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Mezcla el yogur con un diente de ajo rallado y una pizca de sal. Déjalo fuera de la nevera mientras cocinas para que no enfríe la pasta. Pon a hervir agua con sal para la pasta.",
@@ -939,7 +958,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", nota: "o perejil" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Pica la cebolla, el pimiento, el ajo y el cilantro. Machaca ligeramente la alcaravea.",
@@ -980,7 +1000,8 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece los linguine según el paquete. Reserva un vaso de agua de cocción.",
@@ -1022,10 +1043,11 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para escalfar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta y, en un cazo aparte, agua con el vinagre para los huevos. Pica la cebolleta, el ajo y la menta.",
+    "Pon a hervir agua con sal para la pasta y, en un cazo aparte, agua con el vinagre para los huevos. Pica la cebolleta, el ajo y la menta y ralla el parmesano.",
     "Cuece la pasta según el paquete; en los 3 últimos minutos añade las habas congeladas a la misma olla. Reserva un vaso de agua de cocción y escurre.",
     "Mientras, en una sartén con el aceite a fuego medio, pocha la cebolleta y el ajo 4 minutos. Añade las alcachofas y dóralas 4 minutos, hasta que tengan bordes tostados.",
     "Escalfa los huevos: con el agua del cazo apenas temblando, haz un remolino, echa cada huevo y cuécelo 3 minutos, hasta que la clara cuaje y la yema siga líquida. Sácalos con una espumadera.",

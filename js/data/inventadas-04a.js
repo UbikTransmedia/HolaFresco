@@ -27,11 +27,12 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Saca el solomillo de la nevera 15 min antes. Sécalo bien con papel, salpimiéntalo y rebózalo en el sésamo presionando para que se pegue por toda la superficie.",
-    "Prepara el ponzu: mezcla en un bol la soja, el zumo de las 2 limas, el vinagre de arroz, la miel, el jengibre rallado y el aceite de sésamo. Reserva.",
+    "Mientras se atempera, prepara el ponzu: ralla el jengibre y mézclalo en un bol con la soja, el zumo de las 2 limas, el vinagre de arroz, la miel y el aceite de sésamo. Reserva.",
     "Corta el pepino y los rábanos en láminas muy finas (con mandolina si tienes) y la cebolleta en aros finos. Ponlos 5 min en agua con hielo para que queden crujientes.",
     "Calienta la plancha a fuego muy fuerte con el aceite de oliva. Marca el solomillo 45-60 segundos por cada cara (las 4 caras), hasta que el sésamo esté tostado y la carne dorada por fuera y cruda por dentro.",
     "Pasa la carne a una tabla y déjala reposar 3 min. Córtala con un cuchillo bien afilado en láminas de medio centímetro.",
@@ -163,7 +164,8 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 160 °C. Pica la cebolla, la zanahoria, el puerro y el ajo en dados pequeños. Salpimienta las carrilladas y enharínalas ligeramente. Calienta el aceite en una cazuela apta para horno a fuego fuerte y dóralas 3 min por lado hasta que tengan costra. Resérvalas.",
@@ -301,7 +303,8 @@ window.RECETAS_SEED.push({
     { n: "maíz dulce", q: 140, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 150 °C. Retira la membrana blanca de la cara interior de las costillas tirando de ella con papel de cocina. Mezcla el pimentón, 1 cda de azúcar moreno, sal y pimienta y frota toda la tira con la mezcla.",
@@ -343,7 +346,8 @@ window.RECETAS_SEED.push({
     { n: "vinagre balsámico", q: 2, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Abre el solomillo a lo largo en libro sin llegar al final, cúbrelo con film y aplánalo con el fondo de un cazo hasta 1,5 cm de grosor. Salpimiéntalo por dentro.",
@@ -387,7 +391,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 1, u: "manojo", nota: "mejor albahaca tailandesa si la encuentras" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo en una cazuela tapada con 1,5 veces su volumen de agua y una pizca de sal: 12 min a fuego mínimo y 5 min de reposo sin destapar.",
@@ -434,8 +439,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Maja los ajos con las hojas de romero y tomillo picadas, la mostaza, el pimentón, 1 cda de aceite, sal y pimienta hasta tener una pasta. Seca el lomo, úntalo con la pasta por todos lados y déjalo reposar 10 min.",
-    "Corta las patatas en gajos, las zanahorias en bastones gruesos y la cebolla en gajos. Extiéndelos en una bandeja de horno con 2 cda de aceite y sal, removiendo para que se impregnen.",
+    "Precalienta el horno a 190 °C. Pica las hojas de romero y tomillo y májalas con los ajos, la mostaza, el pimentón, 1 cda de aceite, sal y pimienta hasta tener una pasta. Seca el lomo, úntalo con la pasta por todos lados y déjalo reposar 10 min.",
+    "Mientras reposa, corta las patatas en gajos, las zanahorias en bastones gruesos y la cebolla en gajos. Extiéndelos en una bandeja de horno con 2 cda de aceite y sal, removiendo para que se impregnen.",
     "Coloca el lomo encima de las verduras y hornea 25 min. Riega con el vino blanco y hornea otros 20 min, hasta que el centro del lomo marque 65 °C o al pinchar salga un jugo claro.",
     "Saca el lomo a una tabla y tápalo con papel de aluminio 10 min. Sube el horno a 220 °C y deja las verduras 10 min más para que se doren bien.",
     "Vierte los jugos de la bandeja en un cazo con el caldo y reduce 3 min a fuego fuerte hasta tener una salsa ligera. Rectifica de sal.",
@@ -477,13 +482,14 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon los pimientos choriceros en un bol con agua muy caliente 15 min. Mientras, pica la cebolla, el pimiento verde y los ajos y ralla los tomates. Abre los choriceros y raspa la carne con una cuchara; desecha la piel.",
     "Salpimienta los dados de cerdo. Calienta el aceite en una cazuela a fuego fuerte y dóralos en 2 tandas, 3-4 min por tanda, hasta que tengan costra. Resérvalos.",
     "Baja a fuego medio y sofríe la cebolla, el pimiento verde y los ajos picados 8 min hasta que estén blandos. Añade los tomates rallados y cocina 5 min hasta que pierdan el agua. Incorpora el pimentón y la carne del choricero y remueve 30 segundos.",
-    "Devuelve la carne, vierte el vino y deja reducir 2 min. Cubre con el caldo, añade el laurel y la guindilla, tapa y cuece a fuego muy suave 60 min, removiendo de vez en cuando. Mientras, pela las patatas.",
+    "Devuelve la carne, vierte el vino y deja reducir 2 min. Cubre con el caldo, añade el laurel y la guindilla, tapa y cuece a fuego muy suave 60 min, removiendo de vez en cuando. Mientras, pela las patatas y pica el perejil.",
     "Casca las patatas (clava el cuchillo y rompe el trozo) para que suelten almidón. Añádelas a la cazuela, sala y cuece 25 min más destapado, hasta que estén tiernas y la salsa haya trabado.",
     "Deja reposar 5 min fuera del fuego, retira el laurel y sirve con el perejil picado."
   ],
@@ -523,7 +529,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y lamina uno de los ajos. Tuesta las semillas de hinojo 1 min en la sartén seca y machácalas en el mortero. Mézclalas en un bol con el cerdo, 1 ajo picado, el pan rallado, el huevo, el parmesano rallado, la mitad del perejil picado, sal y pimienta. Forma 12 albóndigas.",
@@ -611,15 +618,16 @@ window.RECETAS_SEED.push({
     { n: "cacahuetes", q: 20, u: "g" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y ralla el ajo y el jengibre. Sala las carrilladas. Calienta el aceite en una cazuela a fuego fuerte y dóralas 3 min por lado. Resérvalas.",
     "Baja a fuego medio y sofríe la cebolla, el ajo y el jengibre 5 min. Añade la pasta de curry y fríela 1 min removiendo hasta que huela intensamente.",
-    "Vierte la leche de coco, el caldo, la salsa de pescado y el azúcar. Devuelve las carrilladas, tapa y cuece a fuego mínimo 2 h, girándolas a mitad; la salsa debe apenas burbujear. Mientras, pela la calabaza y córtala en dados de 3 cm, y trocea las judías verdes.",
+    "Vierte la leche de coco, el caldo, la salsa de pescado y el azúcar. Devuelve las carrilladas, tapa y cuece a fuego mínimo 2 h, girándolas a mitad; la salsa debe apenas burbujear. Mientras, pela la calabaza y córtala en dados de 3 cm, trocea las judías verdes y los cacahuetes y pica el cilantro.",
     "Añade la calabaza a la cazuela y cuece 20 min más tapado. Mientras, cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado a fuego mínimo y 5 min de reposo.",
     "Incorpora las judías verdes y cuece 10 min destapado para que la salsa reduzca un poco. Las carrilladas deben deshacerse al presionarlas con una cuchara.",
-    "Apaga el fuego, exprime media lima sobre el curry y rectifica de sal. Sirve con el arroz, el cilantro picado, los cacahuetes troceados y gajos de la lima restante."
+    "Apaga el fuego, exprime media lima sobre el curry y rectifica de sal. Sirve con el arroz, el cilantro picado, los cacahuetes y gajos de la lima restante."
   ],
   nutricion: { kcal: 780, prot: 48, hc: 75, grasa: 32 },
   etiquetas: ["cocción lenta", "picante", "de cuchara", "batch cooking", "invierno"],
@@ -659,7 +667,8 @@ window.RECETAS_SEED.push({
     { n: "canónigos", q: 60, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Pon el pan rallado en un bol grande con la leche para que se empape.",
@@ -703,14 +712,15 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 130, u: "g" },
     { n: "pak choi", q: 300, u: "g" },
     { n: "sésamo", q: 1, u: "cdta" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Mezcla en un bol la soja, 2 cda de miel, las cinco especias, el ajo y el jengibre rallados, el tomate concentrado, el vinagre y el aceite de sésamo. Reserva 3 cda de la marinada y embadurna las tiras de lomo con el resto. Deja marinar 1 h en la nevera (o toda la noche). Precalienta el horno a 200 °C unos 15 min antes de que termine el marinado.",
+    "Ralla el ajo y el jengibre y mézclalos en un bol con la soja, 2 cda de miel, las cinco especias, el tomate concentrado, el vinagre y el aceite de sésamo. Reserva 3 cda de la marinada y embadurna las tiras de lomo con el resto. Deja marinar 1 h en la nevera (o toda la noche). Precalienta el horno a 200 °C unos 15 min antes de que termine el marinado.",
     "Pon una rejilla sobre una bandeja con un dedo de agua (evita que los goteos se quemen) y coloca encima las tiras escurridas.",
     "Hornea 12 min, dales la vuelta, píntalas con la marinada reservada y hornea 10 min más. Mezcla la cda de miel restante con la marinada que quede, pinta otra vez y gratina 3 min vigilando hasta que los bordes estén oscuros y brillantes.",
-    "Mientras, cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado a fuego mínimo y 5 min de reposo.",
-    "Corta el pak choi a lo largo en cuartos. Saltéalo 3 min en una sartén muy caliente con 2 cda de agua y una pizca de sal, hasta que el tallo esté tierno pero crujiente.",
+    "Mientras, cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado a fuego mínimo y 5 min de reposo. Corta el pak choi a lo largo en cuartos.",
+    "Saltea el pak choi 3 min en una sartén muy caliente con 2 cda de agua y una pizca de sal, hasta que el tallo esté tierno pero crujiente.",
     "Deja reposar el lomo 5 min y córtalo en lonchas de medio centímetro. Sírvelo sobre el arroz con el pak choi, los jugos de la bandeja y el sésamo por encima."
   ],
   nutricion: { kcal: 520, prot: 38, hc: 65, grasa: 12 },
@@ -745,13 +755,14 @@ window.RECETAS_SEED.push({
     { n: "nueces", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el solomillo en medallones de 3 cm, aplánalos ligeramente con la palma y salpimiéntalos. Corta los higos por la mitad.",
+    "Corta el solomillo en medallones de 3 cm, aplánalos ligeramente con la palma y salpimiéntalos. Corta los higos por la mitad, lamina el ajo, trocea las nueces y desmenuza el queso de cabra.",
     "Calienta 1 cda de aceite en una sartén a fuego fuerte y marca los medallones 3 min por lado hasta que estén dorados y apenas rosados en el centro. Resérvalos tapados en un plato.",
-    "Baja a fuego medio y pon los higos boca abajo 1 min. Añade el ajo laminado y la rama de romero, y a los 30 segundos el balsámico, la miel y 2 cda de agua. Reduce 2 min hasta que la salsa nape la cuchara.",
-    "Aliña la rúcula en un bol con la otra cda de aceite y una pizca de sal. Repártela en los platos con las nueces troceadas y el queso de cabra desmenuzado.",
+    "Baja a fuego medio y pon los higos boca abajo 1 min. Añade el ajo y la rama de romero, y a los 30 segundos el balsámico, la miel y 2 cda de agua. Reduce 2 min hasta que la salsa nape la cuchara.",
+    "Aliña la rúcula en un bol con la otra cda de aceite y una pizca de sal. Repártela en los platos con las nueces y el queso de cabra.",
     "Coloca los medallones junto a la rúcula, los higos encima y riega con la salsa de balsámico y los jugos que haya soltado la carne."
   ],
   nutricion: { kcal: 470, prot: 42, hc: 22, grasa: 24 },
@@ -797,7 +808,7 @@ window.RECETAS_SEED.push({
     "Corta la cebolla, el pimiento y las zanahorias en dados, pica los ajos y ralla los tomates. Sala las costillas. Calienta el aceite en una cazuela amplia a fuego fuerte y dóralas en 2 tandas, 4 min por tanda, hasta que estén bien tostadas. Resérvalas.",
     "Baja a fuego medio y sofríe la cebolla, el pimiento, las zanahorias y los ajos 10 min, raspando el fondo. Añade los tomates rallados y cocina 5 min.",
     "Aparta del fuego, agrega los pimentones y el comino y remueve 30 segundos para que no se quemen. Devuelve las costillas, vierte el vino y deja reducir 2 min al fuego.",
-    "Cubre con el caldo, añade el laurel, tapa y cuece a fuego mínimo 75 min, hasta que la carne se despegue del hueso. Mientras, pela la patata y córtala en trozos pequeños.",
+    "Cubre con el caldo, añade el laurel, tapa y cuece a fuego mínimo 75 min, hasta que la carne se despegue del hueso. Mientras, pela la patata, córtala en trozos pequeños y pica el perejil.",
     "Añade la patata y cuece 15 min. Incorpora las alubias escurridas y enjuagadas y cuece 10 min más destapado, moviendo la cazuela en vaivén para que la salsa engorde sin romper las alubias.",
     "Rectifica de sal, deja reposar 5 min y sirve en platos hondos con el perejil picado."
   ],
@@ -840,13 +851,14 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "yogur griego natural", q: 150, u: "g" },
     { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Mezcla en un bol el pimentón, el comino, el cilantro, la cúrcuma, el orégano, la cayena, 1 ajo rallado, el zumo de medio limón, 2 cda de aceite y sal. Añade los dados de cerdo, remueve bien y deja marinar 20 min (si son unas horas, mejor). Remoja 4 brochetas de madera en agua.",
+    "Ralla los 2 ajos. Mezcla en un bol el pimentón, el comino, el cilantro, la cúrcuma, el orégano, la cayena, 1 ajo rallado, el zumo de medio limón, 2 cda de aceite y sal. Añade los dados de cerdo, remueve bien y deja marinar 20 min (si son unas horas, mejor). Remoja 4 brochetas de madera en agua.",
     "Pon el cuscús en un bol, vierte el caldo hirviendo, tapa y espera 5 min. Desgránalo con un tenedor y deja templar.",
-    "Prepara la salsa: mezcla el yogur con el otro ajo rallado, la mitad de la menta picada, unas gotas de limón y sal.",
-    "Pica el tomate, el pepino y la cebolla morada en dados pequeños y mézclalos con el cuscús, el perejil y el resto de la menta picados, 1 cda de aceite, el zumo del medio limón restante y sal.",
+    "Pica la menta y el perejil y prepara la salsa: mezcla el yogur con el otro ajo rallado, la mitad de la menta, unas gotas de limón y sal.",
+    "Pica el tomate, el pepino y la cebolla morada en dados pequeños y mézclalos con el cuscús, el perejil y el resto de la menta, 1 cda de aceite, el zumo del medio limón restante y sal.",
     "Ensarta los dados de cerdo en las brochetas sin apretarlos. Calienta la plancha a fuego fuerte y hazlas 8-10 min girándolas cada 2 min, hasta que estén doradas por fuera y hechas por dentro.",
     "Sirve los pinchos sobre el cuscús con la salsa de yogur aparte."
   ],
@@ -885,12 +897,13 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a cocer el arroz integral en una cazuela con abundante agua y sal: necesita 30-35 min. Escúrrelo al terminar.",
-    "Mezcla en un bol el miso, 1 cda de soja, la miel, el jengibre y el ajo rallados y el aceite de sésamo. Unta la presa por todos lados y déjala marinar a temperatura ambiente mientras se hace el arroz.",
-    "Limpia las setas con un paño y trocéalas. Calienta el aceite de oliva en una sartén a fuego muy fuerte y saltéalas 6-7 min sin remover demasiado, hasta que estén doradas. Añade la cebolleta en rodajas y la otra cda de soja y saltea 1 min más.",
+    "Mientras, ralla el jengibre y el ajo y mézclalos en un bol con el miso, 1 cda de soja, la miel y el aceite de sésamo. Unta la presa por todos lados y déjala marinar a temperatura ambiente mientras se hace el arroz.",
+    "Limpia las setas con un paño y trocéalas y corta la cebolleta en rodajas. Calienta el aceite de oliva en una sartén a fuego muy fuerte y saltea las setas 6-7 min sin remover demasiado, hasta que estén doradas. Añade la cebolleta y la otra cda de soja y saltea 1 min más.",
     "Retira el exceso de marinada de la presa con el dorso de un cuchillo (el miso se quema con facilidad). Calienta la plancha a fuego fuerte y marca la pieza 3-4 min por lado, hasta que esté dorada por fuera y rosada en el centro.",
     "Déjala reposar 5 min en una tabla y córtala en láminas de 1 cm al bies. Muele pimienta por encima.",
     "Sirve el arroz con las setas, la presa encima, el sésamo, unas gotas de lima y gajos de lima aparte."
@@ -929,12 +942,13 @@ window.RECETAS_SEED.push({
     { n: "tortillas de maíz", q: 6, u: "ud" },
     { n: "queso fresco", q: 60, u: "g", opcional: true },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Prepara el pico de gallo: pica en dados pequeños los tomates y media cebolla, mézclalos con la mitad del cilantro picado, el zumo de 1 lima y sal. Déjalo reposar mientras cocinas.",
-    "Calienta el aceite en una sartén a fuego fuerte. Sofríe la otra media cebolla picada 2 min, añade los ajos picados y, a los 30 segundos, el cerdo picado. Saltéalo 5-6 min desmenuzándolo hasta que esté dorado y suelto.",
-    "Añade el chipotle picado con su adobo, el comino, el orégano, sal y 3 cda de agua. Cocina 2 min más hasta que la carne quede jugosa y brillante.",
+    "Pica toda la cebolla, los ajos, el cilantro y el chipotle. Prepara el pico de gallo: corta en dados pequeños los tomates y mézclalos con media cebolla, la mitad del cilantro, el zumo de 1 lima y sal. Déjalo reposar mientras cocinas.",
+    "Calienta el aceite en una sartén a fuego fuerte. Sofríe la otra media cebolla 2 min, añade los ajos y, a los 30 segundos, el cerdo picado. Saltéalo 5-6 min desmenuzándolo hasta que esté dorado y suelto.",
+    "Añade el chipotle con su adobo, el comino, el orégano, sal y 3 cda de agua. Cocina 2 min más hasta que la carne quede jugosa y brillante.",
     "Machaca el aguacate con un tenedor, el zumo de la otra lima y sal.",
     "Calienta las tortillas 20 segundos por lado en una sartén seca y envuélvelas en un paño para que se mantengan flexibles.",
     "Monta los tacos: tortilla, aguacate, carne, pico de gallo escurrido, queso fresco desmenuzado y el resto del cilantro."
@@ -974,13 +988,14 @@ window.RECETAS_SEED.push({
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 120, u: "ml", nota: "para freír y aliñar" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Cuece las patatas con piel en una cazuela con agua y sal 18-20 min, hasta que un cuchillo entre sin resistencia.",
     "Mientras se cuecen, pon los filetes entre dos trozos de film y aplánalos con el fondo de un cazo hasta medio centímetro. Salpimiéntalos.",
-    "Prepara tres platos: harina, huevos batidos y pan rallado. Pasa cada filete por los tres en ese orden, presionando el pan rallado sin apretar demasiado.",
-    "Escurre las patatas, pélalas en cuanto puedas tocarlas y córtalas en rodajas de 1 cm. Calienta en un bol el caldo con la mostaza, el vinagre, 1 cda del aceite, sal y pimienta. Mezcla con las patatas aún tibias, los pepinillos en rodajas y la cebolla morada en juliana fina. Deja que se empapen mientras fríes la carne.",
+    "Prepara tres platos: harina, huevos batidos y pan rallado. Pasa cada filete por los tres en ese orden, presionando el pan rallado sin apretar demasiado. Corta los pepinillos en rodajas, la cebolla morada en juliana fina y pica el cebollino.",
+    "Escurre las patatas, pélalas en cuanto puedas tocarlas y córtalas en rodajas de 1 cm. Calienta en un bol el caldo con la mostaza, el vinagre, 1 cda del aceite, sal y pimienta. Mezcla con las patatas aún tibias, los pepinillos y la cebolla morada. Deja que se empapen mientras fríes la carne.",
     "Calienta el resto del aceite (un dedo) en una sartén amplia a 170 °C: una miga de pan debe burbujear al instante. Fríe los schnitzel de dos en dos 2-3 min por lado moviendo la sartén en círculos para que el rebozado se ondule, hasta que estén dorados. Escúrrelos en papel.",
     "Mezcla el cebollino picado con la ensalada de patata y sírvela con los schnitzel y gajos de limón para exprimir encima."
   ],
@@ -1026,7 +1041,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla y los ajos, corta las zanahorias en rodajas gruesas y la parte blanca de los puerros en trozos de 3 cm. Salpimienta los dados de cerdo y espolvoréalos con la harina. Calienta el aceite en una cazuela a fuego fuerte y dóralos en 2 tandas, 4 min por tanda. Resérvalos.",
     "Baja a fuego medio y añade la cebolla, las zanahorias, los puerros y los ajos. Sofríe 8 min raspando el fondo.",
-    "Vierte la sidra, sube el fuego y deja reducir 3 min para que pierda el alcohol. Devuelve la carne, añade el caldo, el laurel y el tomillo; el líquido debe cubrir casi todo. Tapa y cuece a fuego mínimo 75 min. Mientras, pela las patatas y córtalas en trozos grandes.",
+    "Vierte la sidra, sube el fuego y deja reducir 3 min para que pierda el alcohol. Devuelve la carne, añade el caldo, el laurel y el tomillo; el líquido debe cubrir casi todo. Tapa y cuece a fuego mínimo 75 min. Mientras, pela las patatas, córtalas en trozos grandes y pica el perejil.",
     "Añade las patatas a la cazuela. Cuece 30 min más tapado, hasta que estén tiernas y la carne se deshaga.",
     "Incorpora la mostaza antigua y la nata, remueve con cuidado y cuece 5 min destapado para que la salsa espese ligeramente. Rectifica de sal y pimienta.",
     "Retira el laurel y las ramas de tomillo y sirve bien caliente con el perejil picado."
@@ -1066,15 +1081,16 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cacahuetes", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Mezcla el lomo con 1 cda de salsa de pescado, 1 cdta de azúcar, 1 ajo rallado, el aceite y pimienta. Deja marinar 5 min mientras preparas el resto. Pon a hervir agua para los fideos.",
-    "Prepara el nuoc cham: disuelve el azúcar restante en el zumo de las 2 limas con 2 cda de salsa de pescado, 4 cda de agua, el otro ajo picado muy fino y el chile en rodajitas.",
+    "Ralla 1 ajo y mézclalo con el lomo, 1 cda de salsa de pescado, 1 cdta de azúcar, el aceite y pimienta. Deja marinar 5 min mientras preparas el resto. Pon a hervir agua para los fideos.",
+    "Prepara el nuoc cham: pica muy fino el otro ajo y corta el chile en rodajitas; disuelve el azúcar restante en el zumo de las 2 limas con 2 cda de salsa de pescado, 4 cda de agua, el ajo y el chile.",
     "Cuece los fideos de arroz en agua hirviendo 3-4 min (o según el paquete), escúrrelos y pásalos por agua fría para que no se peguen.",
-    "Corta el pepino y la zanahoria en bastones finos y la lechuga en tiras. Deshoja la menta y el cilantro.",
+    "Corta el pepino y la zanahoria en bastones finos y la lechuga en tiras. Deshoja la menta y el cilantro y trocea los cacahuetes.",
     "Calienta la plancha a fuego fuerte y haz los filetes 2 min por lado hasta que estén dorados con bordes caramelizados. Córtalos en tiras.",
-    "Monta los boles: fideos en la base, verduras y hierbas alrededor, cerdo encima, cacahuetes troceados y el nuoc cham por encima justo antes de comer."
+    "Monta los boles: fideos en la base, verduras y hierbas alrededor, cerdo encima, los cacahuetes y el nuoc cham por encima justo antes de comer."
   ],
   nutricion: { kcal: 470, prot: 38, hc: 50, grasa: 14 },
   etiquetas: ["rápida", "ligera", "verano", "fresca", "ideal para llevar"],
@@ -1113,8 +1129,8 @@ window.RECETAS_SEED.push({
     "Coloca las láminas entre dos trozos de film y aplánalas con suavidad con el fondo de un cazo hasta que queden casi transparentes. Repártelas directamente en los platos cubriendo toda la superficie.",
     "Seca bien las alcaparras con papel. Calienta 1 cda de aceite en una sartén pequeña a fuego fuerte y fríelas 1-2 min hasta que se abran como flores y queden crujientes. Escúrrelas en papel.",
     "Tuesta las rebanadas de pan en la misma sartén 1 min por lado.",
-    "Bate en un bol el zumo de medio limón con la mostaza, las 2 cda de aceite restantes, sal y pimienta.",
-    "Salpimienta la carne, riégala con la vinagreta y cúbrela con la rúcula, las lascas de parmesano sacadas con un pelador y las alcaparras fritas. Sirve con el pan y gajos del medio limón restante."
+    "Bate en un bol el zumo de medio limón con la mostaza, las 2 cda de aceite restantes, sal y pimienta. Saca lascas del parmesano con un pelador.",
+    "Salpimienta la carne, riégala con la vinagreta y cúbrela con la rúcula, las lascas de parmesano y las alcaparras fritas. Sirve con el pan y gajos del medio limón restante."
   ],
   nutricion: { kcal: 440, prot: 36, hc: 20, grasa: 24 },
   etiquetas: ["sin cocción", "rápida", "ligera", "verano", "para invitados", "poco especiada"],

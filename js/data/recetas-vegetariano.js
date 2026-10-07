@@ -26,7 +26,8 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 5, u: "cda", nota: "3 para el mojo, 2 para asar y saltear" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Lava las patatas y córtalas en gajos con piel. Descorazona la manzana y córtala en 8 gajos.",
@@ -71,7 +72,8 @@ window.RECETAS_SEED.push({
     { n: "semillas de calabaza", q: 20, u: "g", opcional: true },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pela el boniato y córtalo en dados de 2 cm. Mézclalo en una bandeja con 1 cucharada de aceite, el comino, el pimentón, sal y pimienta y hornéalo 20 minutos.",
@@ -119,7 +121,8 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 2, u: "ud", opcional: true, nota: "para acompañar" },
     { n: "aceite de oliva", q: 4, u: "cda", nota: "3 para freír los falafel, 1 para la ensalada" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Seca muy bien los garbanzos con un paño: cuanta menos agua tengan, mejor se sostendrán los falafel. Trocea la cebolla y pela los ajos.",
@@ -167,7 +170,8 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Prepara la salsa: mezcla en un vaso la salsa de soja, la miel, el vinagre de arroz, el aceite de sésamo, la maicena y 3 cucharadas de agua hasta disolver la maicena.",
@@ -214,7 +218,8 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Seca los garbanzos con un paño y mézclalos en una bandeja con 1 cucharada de aceite, la pasta de curry rojo diluida en 1 cucharadita de agua, la ralladura de la lima y una pizca de sal. Ásalos 25 minutos, sacudiendo la bandeja a mitad, hasta que estén crujientes.",

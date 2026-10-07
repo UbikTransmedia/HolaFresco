@@ -341,7 +341,8 @@ window.RECETAS_SEED.push({
     { n: "pecorino romano", q: 20, u: "g", nota: "o pecorino crotonese, el de Calabria" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir una olla con agua y sal para la pasta. Corta la cebolla en juliana fina.",
@@ -381,7 +382,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 3, u: "cda", nota: "virgen extra" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con poca sal, porque la bottarga es muy salada, y cuece los espaguetis el tiempo que indique el paquete.",
@@ -418,7 +420,8 @@ window.RECETAS_SEED.push({
     { n: "pecorino romano", q: 30, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda", nota: "virgen extra: aquí se nota" },
     { n: "pimienta negra", u: "al gusto", nota: "recién molida y generosa" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece los espaguetis el tiempo que indique el paquete (unos 9-10 minutos). Mientras, ralla el pecorino.",
@@ -462,7 +465,8 @@ window.RECETAS_SEED.push({
     { n: "parmesano", q: 30, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Corta la cebolla morada en juliana y el pollo en dados de 2 cm, y salpimienta el pollo. Lamina el ajo y deshoja el romero.",
@@ -505,7 +509,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla el parmesano y pica unas hojas de albahaca. En un bol, mezcla el pavo con la ricotta, el pan rallado, la mitad del parmesano, la albahaca picada, sal y pimienta, sin amasar en exceso.",
@@ -593,7 +598,8 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Enjuaga la cebada y ponla a cocer en una cazuela con abundante agua fría, sal y el laurel. Cuando hierva, cuenta 10 minutos y añade las lentejas enjuagadas; cuece 20-25 minutos más, hasta que ambas estén tiernas pero enteras.",
@@ -636,7 +642,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir agua con sal. Corta la merluza en dados de 3 cm y sálala ligeramente; parte los tomates cherry por la mitad, lamina el ajo y pica el perejil.",
@@ -719,7 +726,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal para la pasta. Corta los filetes en tiras de 1 cm, sécalas con papel de cocina y salpimiéntalas. Corta la mozzarella en dados y déjala escurrir en un colador. Lamina el ajo.",
@@ -759,7 +767,8 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece los penne el tiempo que indique el paquete (unos 11 minutos).",
@@ -846,7 +855,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon a hervir agua con sal en una cazuela ancha. Limpia las setas con papel de cocina y trocéalas; pica la chalota y el ajo y desmenuza las castañas en trozos grandes. Pica 4 hojas de salvia y ralla el parmesano.",

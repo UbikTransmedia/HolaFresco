@@ -35,7 +35,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, escúrrelos, ponlos en una cazuela con agua que los cubra tres dedos y llévalos a ebullición. Retira la espuma, baja el fuego y cuécelos 30 minutos: tienen que quedar a medio hacer, porque terminarán en el horno. Escúrrelos guardando 300 ml del caldo.",
@@ -83,7 +84,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 4, u: "cda", nota: "la mitad para el sofrito y la otra mitad en crudo" },
     { n: "limón", q: 0.5, u: "ud", opcional: true, nota: "para servir" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las alubias, ponlas en una cazuela con agua fría que las cubra de sobra y llévalas a ebullición. Cuécelas 5 minutos y tira el agua: así el guiso queda más limpio y digestivo.",
@@ -129,7 +131,8 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 30, u: "g" },
     { n: "queso feta", q: 60, u: "g", opcional: true, nota: "para acompañar; en cuaresma se sirve sin él" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Lava las lentejas y ponlas en una cazuela con 750 ml de agua fría y el laurel. Cuando hiervan, baja el fuego y cuécelas 15 minutos: deben quedar a medio hacer.",
@@ -176,7 +179,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una cazuela con el laurel y agua fría que las cubra cuatro dedos. Llévalas a ebullición, retira la espuma, baja el fuego y cuécelas a fuego suave 1 hora, hasta que estén casi tiernas.",
@@ -219,7 +223,8 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolleta con su parte verde y lamina el ajo. Seca bien el cordero con papel de cocina y salpimiéntalo. Calienta el aceite en una cazuela a fuego fuerte y dora los dados en dos tandas, 5-6 minutos, hasta que tengan costra por todos lados. Resérvalos.",
@@ -264,7 +269,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 4, u: "cda", nota: "2 para la berenjena y 2 para el sofrito" },
     { n: "azúcar", q: 1, u: "pizca", opcional: true, nota: "si el tomate está ácido" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Corta la berenjena en dados de 3 cm, sálala y déjala 15 minutos en un colador para que suelte el agua. Mientras, pica la cebolla, lamina el ajo y escurre y enjuaga los garbanzos.",
@@ -305,7 +311,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 4, u: "cda", nota: "virgen extra" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, escúrrelos, ponlos en una cazuela con agua caliente que los cubra tres dedos y cuécelos a fuego suave 50-60 minutos, retirando la espuma, hasta que estén tiernos pero enteros. Guarda 2 cazos del caldo.",
@@ -346,7 +353,8 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 4, u: "cda", nota: "2 para el sofrito y 2 en crudo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo y corta las cebolletas en rodajas finas, separando la parte blanca de la verde. Escurre y enjuaga los garbanzos y pica el eneldo.",
@@ -390,7 +398,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "queso feta", q: 60, u: "g" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo, corta la zanahoria en rodajas finas y el calabacín en medias lunas gruesas. Ralla los tomates, desechando la piel.",
@@ -434,7 +443,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla y el ajo. Salpimienta el pollo, calienta el aceite en una cazuela a fuego medio-alto y dora los trozos 5 minutos, sin moverlos al principio, hasta que estén bien dorados por ambas caras. Resérvalos.",
@@ -566,7 +576,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pica la cebolla, la zanahoria y el apio. Rehógalos en una cazuela con 1 cucharada de aceite a fuego medio 6 minutos, hasta que la cebolla esté transparente.",
@@ -607,7 +618,8 @@ window.RECETAS_SEED.push({
     { n: "rúcula", q: 1, u: "puñado" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Pon agua con sal a hervir. Mientras se calienta, prepara el aliño mezclando la ralladura y el zumo del limón con 1 cucharada y media de aceite, sal y pimienta; corta la cebolleta en rodajas finas y pica la mitad de la menta.",
@@ -647,7 +659,8 @@ window.RECETAS_SEED.push({
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla los tomates por la parte gruesa del rallador hasta quedarte con la piel en la mano, y deséchala. Pica la cebolleta y escurre y enjuaga las alubias.",
@@ -734,7 +747,8 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 2, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "La víspera, pon los judiones en remojo en abundante agua fría. Al día siguiente, escúrrelos, cúbrelos de agua fría en una cazuela con 1 hoja de laurel y cuécelos a fuego muy suave 1 hora y media, hasta que estén tiernos pero enteros; sálalos al final. Mientras, prepara la carne.",
@@ -778,7 +792,8 @@ window.RECETAS_SEED.push({
     { n: "miel", q: 1, u: "cda" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Precalienta el horno a 210 °C con calor arriba y abajo. Corta la calabaza en dados de 2-3 cm y la cebolla morada en gajos; deja los ajos enteros con piel, ligeramente aplastados.",
@@ -821,7 +836,8 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sésamo", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Limpia los puerros, córtalos por la mitad a lo largo y luego en medias lunas finas; lávalos bien en un bol con agua para quitarles la tierra y escúrrelos. Pica la cebolleta y el eneldo.",
