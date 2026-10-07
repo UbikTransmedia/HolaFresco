@@ -44,9 +44,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla la leche con 1 cucharadita de zumo de limón y déjala 5 minutos: se espesará como un suero de mantequilla. Precalienta el horno a 200 °C.",
-    "Pela las patatas. Corta la mitad en trozos, cuécelos en agua con sal 15 minutos, escúrrelos bien y aplástalos en un puré fino.",
-    "Ralla fina la otra mitad en crudo, envuélvela en un paño limpio y retuerce con fuerza sobre un bol para sacar todo el líquido. Deja reposar ese líquido 5 minutos, tira el agua con cuidado y quédate con el almidón blanco del fondo.",
-    "Junta en un bol el puré, la patata rallada, el almidón, la harina de arroz, el bicarbonato, una cucharadita de sal, la mitad del cebollino picado y la leche agriada. Mezcla hasta tener una masa espesa que se sostenga en la cuchara.",
+    "Pela las patatas. Corta la mitad en trozos y cuécelos en agua con sal 15 minutos. Mientras, ralla fina la otra mitad en crudo, envuélvela en un paño limpio y retuerce con fuerza sobre un bol para sacar todo el líquido. Deja reposar ese líquido 5 minutos y, entretanto, pica el cebollino.",
+    "Tira el agua del líquido reposado con cuidado y quédate con el almidón blanco del fondo. Escurre bien la patata cocida y aplástala en un puré fino.",
+    "Junta en un bol el puré, la patata rallada, el almidón, la harina de arroz, el bicarbonato, una cucharadita de sal, la mitad del cebollino y la leche agriada. Mezcla hasta tener una masa espesa que se sostenga en la cuchara.",
     "Parte los tomates por la mitad a lo largo, ponlos en una bandeja con el corte hacia arriba, riégalos con 1 cucharadita de aceite de oliva, sal, pimienta y las hojas de tomillo y ásalos 25 minutos, hasta que estén blandos y arrugados por los bordes.",
     "Mientras, calienta una sartén antiadherente a fuego medio con la mitad de la mantequilla y 1 cucharadita de aceite. Pon cucharadas de masa y aplánalas en tortitas de 1 cm. Dóralas 4-5 minutos por cada lado, hasta que estén doradas y cocidas por dentro. Repite con el resto de la grasa y de la masa y ve pasándolas a la bandeja del horno.",
     "Reparte el cheddar sobre las tortitas y deja la bandeja en el horno 2-3 minutos, hasta que el queso se funda.",
@@ -137,11 +137,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas. Corta la mitad en dados de 2-3 cm y la otra mitad en dados de 1 cm: los pequeños se desharán y espesarán la salsa sin necesidad de harina.",
-    "En una cazuela, calienta el aceite de oliva y el de ajo a fuego medio-bajo. Rehoga tres cuartas partes de la cebolleta picada fina y el pimiento en daditos 6-7 minutos, hasta que el pimiento esté blando.",
-    "Aparta la cazuela del fuego, añade el pimentón y la alcaravea machacada en el mortero y remueve 20 segundos: el pimentón se quema enseguida y amarga. Incorpora el tomate concentrado y el vinagre.",
+    "Pela las patatas. Corta la mitad en dados de 2-3 cm y la otra mitad en dados de 1 cm: los pequeños se desharán y espesarán la salsa sin necesidad de harina. Pica fina la cebolleta, corta el pimiento en daditos y machaca la alcaravea en el mortero.",
+    "En una cazuela, calienta el aceite de oliva y el de ajo a fuego medio-bajo. Rehoga tres cuartas partes de la cebolleta y el pimiento 6-7 minutos, hasta que el pimiento esté blando.",
+    "Aparta la cazuela del fuego, añade el pimentón y la alcaravea y remueve 20 segundos: el pimentón se quema enseguida y amarga. Incorpora el tomate concentrado y el vinagre.",
     "Vuelve a poner la cazuela al fuego, añade todas las patatas, el laurel, la mejorana y el caldo caliente, que casi las cubra. Sala.",
-    "Cuece tapado a fuego suave 25-30 minutos, removiendo de vez en cuando. Al final aplasta unos cuantos dados contra la pared de la cazuela: la salsa debe quedar espesa, roja y brillante, no caldosa.",
+    "Cuece tapado a fuego suave 25-30 minutos, removiendo de vez en cuando; mientras, ralla la piel del limón. Al final aplasta unos cuantos dados contra la pared de la cazuela: la salsa debe quedar espesa, roja y brillante, no caldosa.",
     "Retira el laurel, añade la ralladura de limón y el resto de la cebolleta y deja reposar 5 minutos tapado.",
     "Tuesta el pan sin gluten. Sirve el gulasch en plato hondo con una cucharada de yogur sin lactosa en el centro y el pan al lado."
   ],
@@ -317,11 +317,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño y ponle un peso encima 15 minutos para que suelte el agua. Mientras, ralla el tomate y pica la cebolleta. Después corta el tofu en dados de 2,5 cm.",
-    "Para el arroz, calienta el aceite de oliva en una cazuela a fuego medio y rehoga la cebolleta picada 2 minutos. Añade el tomate rallado y el laurel y cocina 8 minutos, hasta que el tomate pierda el agua y oscurezca.",
+    "Envuelve el tofu en un paño y ponle un peso encima 15 minutos para que suelte el agua. Mientras, ralla el tomate, pica la cebolleta y pica el cilantro. Después corta el tofu en dados de 2,5 cm.",
+    "Para el arroz, calienta el aceite de oliva en una cazuela a fuego medio y rehoga la cebolleta 2 minutos. Añade el tomate rallado y el laurel y cocina 8 minutos, hasta que el tomate pierda el agua y oscurezca.",
     "Incorpora el arroz, remueve 1 minuto y vierte 500 ml de caldo caliente. Sala y cuece a fuego medio 16-17 minutos, removiendo de vez en cuando. Debe quedar meloso y con algo de caldo, como un risotto suelto; añade más caldo si se seca.",
     "Mientras, calienta la mitad del aceite de ajo en una sartén antiadherente a fuego medio-alto y dora los dados de tofu 7-8 minutos, girándolos, hasta que estén dorados por todas las caras. Sálalos.",
-    "Aparta la sartén del fuego y añade el resto del aceite de ajo, el zumo de medio limón, 3 cucharadas de caldo, pimienta y la mayor parte del cilantro picado. Remueve 30 segundos para que se forme una salsa ligera que envuelva el tofu.",
+    "Aparta la sartén del fuego y añade el resto del aceite de ajo, el zumo de medio limón, 3 cucharadas de caldo, pimienta y la mayor parte del cilantro. Remueve 30 segundos para que se forme una salsa ligera que envuelva el tofu.",
     "Sirve el arroz de tomate en plato hondo con el tofu y su salsa encima, el resto del cilantro y gajos del otro medio limón."
   ],
   nutricion: { kcal: 575, prot: 29, hc: 63, grasa: 22 },
@@ -369,8 +369,8 @@ window.RECETAS_SEED.push({
     "Añade la cebolleta picada, la zanahoria en rodajas gruesas y el nabo en dados y rehoga 2 minutos.",
     "Vierte el caldo caliente poco a poco, removiendo para que no se formen grumos, y añade la pimienta de Jamaica ligeramente machacada, el laurel, el tamari, el vinagre y el azúcar moreno.",
     "Tapa y cuece a fuego suave 25 minutos, hasta que las verduras estén tiernas y la salsa se haya espesado y oscurecido. Prueba y ajusta de sal: debe tener un fondo dulce y un punto ácido.",
-    "Mientras, pela las patatas, córtalas en trozos grandes y cuécelas en agua con sal 20 minutos.",
-    "Retira el laurel y sirve el kalops con las patatas, el perejil picado por encima y los pepinillos al lado."
+    "Mientras, pela las patatas, córtalas en trozos grandes y cuécelas en agua con sal 20 minutos. Pica el perejil.",
+    "Retira el laurel y sirve el kalops con las patatas, el perejil por encima y los pepinillos al lado."
   ],
   nutricion: { kcal: 550, prot: 27, hc: 70, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "económica", "batch cooking", "invierno"],
@@ -410,12 +410,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos en agua fría, pélalos y córtalos en cuartos.",
-    "Limpia los mejillones quitándoles las barbas. Ponlos en una cazuela con 3 cucharadas de agua y unos tallos de eneldo, tapa y cuécelos a fuego fuerte 3-4 minutos, sacudiendo la cazuela, hasta que se abran. Sácalos de las conchas (deja unos pocos enteros para adornar) y déjalos enfriar; desecha los que no se hayan abierto.",
-    "Pela los langostinos, dejando la cola en algunos. Si son grandes, pártelos en dos.",
-    "Aliño: bate el zumo de medio limón con la mostaza, el azúcar, sal y pimienta, añade el aceite en hilo hasta que emulsione y termina con la mitad del eneldo picado fino.",
-    "Corta la lechuga en tiras anchas, los tomates en gajos y el pepino en medias lunas finas. Repártelos en dos platos hondos o en una fuente.",
-    "Coloca encima los langostinos, los mejillones y los huevos, riega con el aliño justo antes de servir y termina con el resto del eneldo, unos gajos del otro medio limón y el pan sin gluten tostado al lado."
+    "Cuece los huevos 10 minutos; mientras, limpia los mejillones quitándoles las barbas. Enfría los huevos en agua fría, pélalos y córtalos en cuartos.",
+    "Pon los mejillones en una cazuela con 3 cucharadas de agua y unos tallos de eneldo, tapa y cuécelos a fuego fuerte 3-4 minutos, sacudiendo la cazuela, hasta que se abran. Sácalos de las conchas (deja unos pocos enteros para adornar) y déjalos enfriar; desecha los que no se hayan abierto.",
+    "Pela los langostinos, dejando la cola en algunos. Si son grandes, pártelos en dos. Pica fino el eneldo.",
+    "Aliño: bate el zumo de medio limón con la mostaza, el azúcar, sal y pimienta, añade el aceite en hilo hasta que emulsione y termina con la mitad del eneldo.",
+    "Corta la lechuga en tiras anchas, los tomates en gajos y el pepino en medias lunas finas. Repártelos en dos platos hondos o en una fuente y tuesta el pan.",
+    "Coloca encima los langostinos, los mejillones y los huevos, riega con el aliño justo antes de servir y termina con el resto del eneldo, unos gajos del otro medio limón y el pan tostado al lado."
   ],
   nutricion: { kcal: 365, prot: 31, hc: 24, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "verano", "ligera"],
@@ -458,10 +458,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos en agua fría y pélalos. En el mismo agua hirviendo, cuece las judías verdes cortadas en trozos 7-8 minutos, hasta que estén tiernas, y escúrrelas.",
-    "Abre la pechuga en dos filetes finos, sálalos y dóralos en una sartén con media cucharada de aceite 4 minutos por cada lado, hasta que estén hechos por dentro y dorados por fuera. Déjalos reposar 5 minutos y córtalos en tiras.",
-    "Prepara la vinagreta: bate la mostaza con el vinagre, el zumo de medio limón, 1 cucharada de aceite, el estragón picado, sal y pimienta.",
-    "Cubre una fuente grande con la lechuga cortada en tiras y los canónigos. Coloca el pollo en el centro y, alrededor, en franjas o sectores, los huevos en cuartos, el pepino en medias lunas, las judías y las uvas partidas por la mitad.",
+    "Cuece los huevos 10 minutos; mientras, corta las judías verdes en trozos. Enfría los huevos en agua fría y pélalos. En la misma agua hirviendo, cuece las judías 7-8 minutos, hasta que estén tiernas, y escúrrelas.",
+    "Abre la pechuga en dos filetes finos, sálalos y dóralos en una sartén con media cucharada de aceite 4 minutos por cada lado, hasta que estén hechos por dentro y dorados por fuera. Mientras se hacen, corta la lechuga en tiras, el pepino en medias lunas, las uvas por la mitad y los huevos en cuartos. Deja reposar el pollo 5 minutos (aprovecha para picar el estragón) y córtalo en tiras.",
+    "Prepara la vinagreta: bate la mostaza con el vinagre, el zumo de medio limón, 1 cucharada de aceite, el estragón, sal y pimienta.",
+    "Cubre una fuente grande con la lechuga y los canónigos. Coloca el pollo en el centro y, alrededor, en franjas o sectores, los huevos, el pepino, las judías y las uvas.",
     "Dispón las anchoas en enrejado sobre el pollo, reparte las alcaparras y unas rodajas finas del limón restante.",
     "Tuesta el pan. Lleva la fuente a la mesa tal cual, para lucir el dibujo, y aliña con la vinagreta en el momento de servir."
   ],
@@ -505,12 +505,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el morcillo en una olla con 1,5 litros de agua fría, la zanahoria pelada entera, las hojas de cebolleta, el laurel y la pimienta en grano. Lleva a ebullición, retira la espuma y cuece a fuego muy suave, con el agua apenas temblando, 2 horas, hasta que un tenedor entre sin resistencia. Sala a mitad de cocción. Déjalo templar dentro del caldo para que no se seque.",
+    "Pela la zanahoria. Pon el morcillo en una olla con 1,5 litros de agua fría, la zanahoria entera, las hojas de cebolleta, el laurel y la pimienta en grano. Lleva a ebullición, retira la espuma y cuece a fuego muy suave, con el agua apenas temblando, 2 horas, hasta que un tenedor entre sin resistencia. Sala a mitad de cocción. Déjalo templar dentro del caldo para que no se seque.",
     "Mientras, cuece las patatas con piel en agua con sal 20 minutos y el huevo 10 minutos. Pela ambos.",
     "Saca la carne y córtala contra la fibra en lonchas muy finas y luego en tiras. Corta las patatas en rodajas y la zanahoria del caldo en medias lunas.",
-    "Bate el vinagre con 3 cucharadas del caldo templado, sal y pimienta. Riega con él la carne, la patata y la zanahoria y déjalas macerar 15 minutos: absorben el aliño mucho mejor en tibio.",
+    "Bate el vinagre con 3 cucharadas del caldo templado, sal y pimienta. Riega con él la carne, la patata y la zanahoria y déjalas macerar 15 minutos: absorben el aliño mucho mejor en tibio. Mientras, lamina los rabanitos, corta los pepinillos en rodajas y el huevo en cuartos, y pica el cebollino.",
     "Tuesta las pipas de calabaza en una sartén sin aceite 2-3 minutos, hasta que se hinchen y empiecen a saltar.",
-    "Reparte los canónigos en los platos, coloca encima la carne con la patata y la zanahoria, los rabanitos en láminas, los pepinillos en rodajas y el huevo en cuartos. Riega con el aceite de semillas de calabaza y termina con el cebollino picado y las pipas."
+    "Reparte los canónigos en los platos, coloca encima la carne con la patata y la zanahoria, los rabanitos, los pepinillos y el huevo. Riega con el aceite de semillas de calabaza y termina con el cebollino y las pipas."
   ],
   nutricion: { kcal: 420, prot: 39, hc: 25, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "batch cooking"],
@@ -550,9 +550,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Quita las semillas a la calabaza (la piel de la kabocha se come) y córtala en medias lunas de 2 cm. Mézclala en una bandeja con 1 cucharadita de aceite, las hojas de tomillo, sal y pimienta y ásala 25 minutos, dándole la vuelta a mitad, hasta que esté tierna y con los bordes dorados. Tuesta las nueces en la misma bandeja los últimos 4 minutos.",
     "Mientras, lava la quinoa en un colador y cuécela en el doble de su volumen de agua con sal 12-14 minutos, tapada y a fuego suave. Déjala reposar 5 minutos y suéltala con un tenedor.",
-    "Quita los tallos duros al kale y corta las hojas en tiras finas. Ponlas en un bol con una pizca de sal y 1 cucharadita de aceite y masajéalas con las manos 2 minutos, hasta que se ablanden, oscurezcan y reduzcan a la mitad.",
-    "Prepara la vinagreta con la mostaza, el vinagre, la ralladura de media naranja, 2 cucharadas de su zumo y el resto del aceite. Pela a lo vivo la otra media naranja y córtala en gajos.",
-    "Mezcla el kale con la quinoa templada y la mitad de la vinagreta. Reparte en los platos, coloca encima la calabaza, los gajos de naranja, el comté en virutas y las nueces troceadas, y riega con el resto de la vinagreta."
+    "Mientras se cuece, quita los tallos duros al kale y corta las hojas en tiras finas. Ponlas en un bol con una pizca de sal y 1 cucharadita de aceite y masajéalas con las manos 2 minutos, hasta que se ablanden, oscurezcan y reduzcan a la mitad.",
+    "Prepara la vinagreta con la mostaza, el vinagre, la ralladura de media naranja, 2 cucharadas de su zumo y el resto del aceite. Pela a lo vivo la otra media naranja y córtala en gajos. Saca virutas del comté con un pelador.",
+    "Trocea las nueces. Mezcla el kale con la quinoa templada y la mitad de la vinagreta. Reparte en los platos, coloca encima la calabaza, los gajos de naranja, el comté y las nueces, y riega con el resto de la vinagreta."
   ],
   nutricion: { kcal: 505, prot: 19, hc: 53, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "superalimentos", "poco especiada", "otoño"],
@@ -639,8 +639,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C con calor arriba y abajo. Parte las placas de lasaña en cuadrados irregulares de unos 2 cm, como los Fleckerl.",
-    "Cuece la pasta en abundante agua con sal 2 minutos menos de lo que indique el envase (la pasta sin gluten se ablanda mucho en el horno). Escúrrela y refréscala un momento con agua fría para que no se pegue.",
-    "En una sartén, derrite dos tercios de la mantequilla a fuego medio, añade la cebolleta picada y el jamón en daditos y rehoga 2-3 minutos, hasta que el jamón coja un poco de color.",
+    "Cuece la pasta en abundante agua con sal 2 minutos menos de lo que indique el envase (la pasta sin gluten se ablanda mucho en el horno). Mientras, pica la cebolleta y corta el jamón en daditos. Escurre la pasta y refréscala un momento con agua fría para que no se pegue.",
+    "En una sartén, derrite dos tercios de la mantequilla a fuego medio, añade la cebolleta y el jamón y rehoga 2-3 minutos, hasta que el jamón coja un poco de color.",
     "En un bol grande, bate los huevos con el yogur, la nata, la nuez moscada, pimienta y una pizca de sal (el jamón ya es salado). Añade la pasta y el jamón y mezcla bien.",
     "Unta una fuente de horno con el resto de la mantequilla, vierte la mezcla, alisa y espolvorea el pan rallado. Hornea 25-30 minutos, hasta que el huevo haya cuajado y la superficie esté dorada y crujiente en las esquinas.",
     "Mientras, prepara la ensalada a la vienesa: lava y trocea la lechuga y alíñala con el vinagre, el azúcar, el aceite, sal y 1 cucharada de agua.",
@@ -684,13 +684,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la wakame en remojo en agua fría 5 minutos; escúrrela y pícala. Pasa la hoja de nori unos segundos por encima del fuego, hasta que cruja y cambie a verde, y desmígala.",
+    "Pon la wakame en remojo en agua fría 5 minutos; mientras, pica la cebolleta y el cebollino y corta la zanahoria en daditos. Escurre la wakame y pícala. Pasa la hoja de nori unos segundos por encima del fuego, hasta que cruja y cambie a verde, y desmígala.",
     "Lava el trigo sarraceno en un colador. En una cazuela, tuéstalo en seco 3 minutos a fuego medio, removiendo, hasta que huela a avellana.",
-    "Añade el aceite de ajo, la cebolleta picada y la zanahoria en daditos y rehoga 2 minutos.",
+    "Añade el aceite de ajo, la cebolleta y la zanahoria y rehoga 2 minutos.",
     "Vierte un tercio del caldo caliente y cuece a fuego medio-bajo, removiendo de vez en cuando. Cuando casi se haya absorbido, añade otro tercio, y así hasta terminar: en 15-18 minutos el grano estará tierno pero entero, envuelto en una crema espesa.",
     "Mientras, lleva a hervor suave un cazo con agua y el vinagre. Casca cada huevo en una taza, haz un remolino y escálfalo 3 minutos. Sácalo con una espumadera.",
     "Fuera del fuego, añade al trigo sarraceno la mantequilla, la wakame, el zumo de limón y pimienta, y remueve con energía 1 minuto. Prueba antes de salar: la mantequilla salada y las algas ya aportan sal.",
-    "Sirve en plato hondo con el huevo encima, la nori desmigada y el cebollino picado."
+    "Sirve en plato hondo con el huevo encima, la nori desmigada y el cebollino."
   ],
   nutricion: { kcal: 445, prot: 17, hc: 59, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "económica"],
@@ -728,11 +728,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el caldo a calentar en un cazo y mantenlo a punto de hervir. Pela las zanahorias, ralla finas dos tercios y corta el resto en daditos de medio centímetro.",
-    "Tuesta las avellanas en una sartén sin aceite 4-5 minutos, frótalas en un paño para quitar la piel y pícalas gruesas.",
-    "En una cazuela ancha, calienta el aceite de ajo a fuego medio y rehoga la cebolleta picada y los daditos de zanahoria 3 minutos. Añade el arroz y nacáralo 2 minutos, removiendo, hasta que los granos estén brillantes y algo translúcidos en los bordes.",
+    "Pon el caldo a calentar en un cazo y mantenlo a punto de hervir. Pela las zanahorias, ralla finas dos tercios y corta el resto en daditos de medio centímetro. Pica la cebolleta.",
+    "Tuesta las avellanas en una sartén sin aceite 4-5 minutos, frótalas en un paño para quitar la piel y pícalas gruesas. Ralla el gruyère y pica el estragón.",
+    "En una cazuela ancha, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y los daditos de zanahoria 3 minutos. Añade el arroz y nacáralo 2 minutos, removiendo, hasta que los granos estén brillantes y algo translúcidos en los bordes.",
     "Incorpora la zanahoria rallada y un cucharón de caldo. Remueve hasta que se absorba y sigue añadiendo caldo cucharón a cucharón, removiendo a menudo, durante 17-18 minutos, hasta que el arroz esté tierno con un punto firme en el centro y la zanahoria rallada se haya deshecho en una crema naranja.",
-    "Aparta del fuego y añade la mantequilla, el gruyère rallado, la ralladura del limón, la mitad del estragón picado y pimienta. Remueve con energía 1 minuto, tapa y deja reposar 2 minutos: debe quedar suelto y ondulante, no compacto.",
+    "Aparta del fuego y añade la mantequilla, el gruyère, la ralladura del limón, la mitad del estragón y pimienta. Remueve con energía 1 minuto, tapa y deja reposar 2 minutos: debe quedar suelto y ondulante, no compacto.",
     "Sirve enseguida con las avellanas y el resto del estragón por encima."
   ],
   nutricion: { kcal: 575, prot: 15, hc: 73, grasa: 24 },
@@ -775,11 +775,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Deja las almejas 30 minutos en agua fría con sal para que suelten la arena. Limpia los mejillones, quitándoles las barbas. Pela las gambas y reserva las cabezas y las cáscaras.",
-    "En una cazuela, calienta el aceite de oliva y dora las cabezas y cáscaras 3 minutos, aplastándolas para que suelten su jugo. Añade el agua, el laurel y los tallos del cilantro y cuece 15 minutos a fuego medio. Cuela el caldo, apretando bien.",
+    "En una cazuela, calienta el aceite de oliva y dora las cabezas y cáscaras 3 minutos, aplastándolas para que suelten su jugo. Añade el agua, el laurel y los tallos del cilantro y cuece 15 minutos a fuego medio. Mientras, pica la cebolleta, corta el pimiento en daditos, ralla el tomate y pica las hojas del cilantro. Cuela el caldo, apretando bien.",
     "En la misma cazuela, abre los mejillones y las almejas tapados con un cazo del caldo, 3-4 minutos. Sácalos, quita una de las conchas a la mayoría y cuela el líquido de nuevo al caldo a través de un paño o papel de cocina.",
-    "Calienta el aceite de ajo en la cazuela limpia y rehoga la cebolleta picada y el pimiento en daditos 5 minutos. Añade el tomate rallado y cocina 8 minutos, hasta que pierda el agua y oscurezca. Incorpora el pimentón y remueve 10 segundos.",
+    "Calienta el aceite de ajo en la cazuela limpia y rehoga la cebolleta y el pimiento 5 minutos. Añade el tomate y cocina 8 minutos, hasta que pierda el agua y oscurezca. Incorpora el pimentón y remueve 10 segundos.",
     "Añade el arroz, remueve 1 minuto y vierte 1 litro de caldo caliente. Sala con cuidado y cuece a fuego medio 15 minutos sin remover demasiado. Debe quedar caldoso, como una sopa espesa: si se seca, añade más caldo.",
-    "Incorpora las gambas los últimos 3 minutos y los mejillones y las almejas el último minuto. Apaga el fuego, añade la mayor parte de las hojas de cilantro picadas y el zumo de medio limón.",
+    "Incorpora las gambas los últimos 3 minutos y los mejillones y las almejas el último minuto. Apaga el fuego, añade la mayor parte de las hojas de cilantro y el zumo de medio limón.",
     "Sirve al momento, porque el arroz sigue absorbiendo caldo, con el resto del cilantro y gajos de limón."
   ],
   nutricion: { kcal: 580, prot: 31, hc: 72, grasa: 17 },
@@ -821,12 +821,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los mejillones bajo el grifo, quítales las barbas y desecha los que estén rotos o abiertos.",
-    "Para el pilaf, derrite la mitad de la mantequilla con el aceite de ajo en un cazo, rehoga la mitad de la cebolleta picada 1 minuto y añade el arroz. Remueve 2 minutos hasta que esté nacarado, vierte el caldo hirviendo, el laurel, el tomillo y una pizca de sal, tapa y cuece a fuego mínimo 16-18 minutos sin destapar. Deja reposar 5 minutos fuera del fuego.",
+    "Limpia los mejillones bajo el grifo, quítales las barbas y desecha los que estén rotos o abiertos. Pica la cebolleta y el perejil y pon el caldo a calentar.",
+    "Para el pilaf, derrite la mitad de la mantequilla con el aceite de ajo en un cazo, rehoga la mitad de la cebolleta 1 minuto y añade el arroz. Remueve 2 minutos hasta que esté nacarado, vierte el caldo hirviendo, el laurel, el tomillo y una pizca de sal, tapa y cuece a fuego mínimo 16-18 minutos sin destapar. Deja reposar 5 minutos fuera del fuego.",
     "Mientras, pon los mejillones en una cazuela grande con 100 ml de agua, tapa y cuécelos a fuego fuerte 3-4 minutos, sacudiendo la cazuela, hasta que se abran. Sácalos, quítales una concha y cuela el jugo por un paño o papel de cocina para eliminar la arena.",
     "Vierte 200 ml del jugo en la cazuela limpia con el azafrán, la cúrcuma y el resto de la cebolleta y redúcelo 3 minutos a fuego medio.",
     "Añade la nata con la maicena disuelta en una cucharada de agua fría y cuece 2 minutos, removiendo, hasta que la salsa nape la cuchara. Fuera del fuego, incorpora el resto de la mantequilla y pimienta; no hace falta sal, el jugo ya la tiene.",
-    "Devuelve los mejillones a la salsa y caliéntalos 1 minuto, sin que hierva. Suelta el arroz con un tenedor, retira el laurel y el tomillo y sírvelo con los mejillones y su salsa por encima y el perejil picado."
+    "Devuelve los mejillones a la salsa y caliéntalos 1 minuto, sin que hierva. Suelta el arroz con un tenedor, retira el laurel y el tomillo y sírvelo con los mejillones y su salsa por encima y el perejil."
   ],
   nutricion: { kcal: 500, prot: 21, hc: 62, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada"],
@@ -867,12 +867,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el lomo en dados de 2 cm, quitando la grasa visible, y sálalo. Calienta el aceite de oliva en una cazuela a fuego fuerte y dora la carne 4 minutos en una sola capa, sin moverla al principio. Sácala a un plato.",
-    "Baja el fuego a medio, añade el aceite de ajo, la cebolleta picada y el pimiento en daditos y rehoga 5 minutos, raspando el fondo tostado.",
+    "Pica la cebolleta y corta el pimiento en daditos. Corta el lomo en dados de 2 cm, quitando la grasa visible, y sálalo. Calienta el aceite de oliva en una cazuela a fuego fuerte y dora la carne 4 minutos en una sola capa, sin moverla al principio. Sácala a un plato.",
+    "Baja el fuego a medio, añade el aceite de ajo, la cebolleta y el pimiento y rehoga 5 minutos, raspando el fondo tostado.",
     "Aparta la cazuela del fuego, añade el pimentón y remueve 15 segundos para que no se queme. Incorpora el tomate concentrado, devuelve la carne con sus jugos y añade 200 ml de caldo, la mejorana y el laurel.",
-    "Tapa y cuece a fuego suave 20 minutos, hasta que la carne esté tierna.",
-    "Añade el arroz y el resto del caldo caliente, sala ligeramente y lleva a hervor. Tapa, baja el fuego al mínimo y cuece 18-20 minutos sin remover, hasta que el arroz haya absorbido el líquido y esté suelto.",
-    "Déjalo reposar 5 minutos tapado, retira el laurel y suéltalo con un tenedor. Sírvelo con el parmesano rallado por encima, pimienta y los pepinillos en abanico, como en Viena."
+    "Tapa y cuece a fuego suave 20 minutos, hasta que la carne esté tierna. Mientras, calienta el resto del caldo y ralla el parmesano.",
+    "Añade el arroz y el resto del caldo caliente, sala ligeramente y lleva a hervor. Tapa, baja el fuego al mínimo y cuece 18-20 minutos sin remover, hasta que el arroz haya absorbido el líquido y esté suelto. Mientras, corta los pepinillos en abanico.",
+    "Déjalo reposar 5 minutos tapado, retira el laurel y suéltalo con un tenedor. Sírvelo con el parmesano por encima, pimienta y los pepinillos, como en Viena."
   ],
   nutricion: { kcal: 610, prot: 36, hc: 65, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "económica", "batch cooking"],
@@ -912,11 +912,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Trocea los tomates y ponlos en una cazuela con el caldo, el laurel y los clavos. Cuece a fuego medio 15 minutos, hasta que estén deshechos.",
-    "Mientras, cuece el arroz en un cazo con agua y sal 15 minutos y escúrrelo.",
+    "Mientras, cuece el arroz en un cazo con agua y sal 15 minutos y escúrrelo. Pica el perejil.",
     "Retira el laurel y los clavos, tritura los tomates con el caldo y pásalo todo por un colador fino, apretando con un cucharón: se quedan fuera las pieles y las pepitas.",
     "En la cazuela limpia, calienta la mantequilla y el aceite a fuego medio-bajo, añade la harina de arroz y remueve 2 minutos, hasta que tome un color rubio claro.",
     "Vierte un cucharón de la sopa colada batiendo con varillas hasta que quede lisa y después el resto. Añade el tomate concentrado, el azúcar, sal y pimienta y cuece 5 minutos a fuego suave, hasta que espese ligeramente y brille. Prueba: debe quedar claramente dulce y algo ácida.",
-    "Incorpora el arroz cocido y el perejil picado, deja que se caliente 1 minuto y sirve."
+    "Incorpora el arroz cocido y el perejil, deja que se caliente 1 minuto y sirve."
   ],
   nutricion: { kcal: 355, prot: 6, hc: 55, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "para niños", "económica", "ligera"],
@@ -957,10 +957,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "En un bol, mezcla la carne con la mitad del huevo batido (reserva el resto para otro uso), el pan rallado, la nuez moscada, media cucharadita de sal y pimienta. Amasa 1 minuto hasta que esté homogénea.",
     "Con las manos mojadas, forma unas 24 bolitas del tamaño de una avellana y déjalas en un plato.",
-    "Lleva el caldo a ebullición con el laurel. Añade la zanahoria en dados pequeños, las judías verdes en trozos de 1 cm y la cebolleta picada y cuece 10 minutos.",
-    "Baja el fuego para que el caldo apenas tiemble y echa las albondiguitas una a una. Cuécelas 8 minutos sin que hierva fuerte, para que no se rompan; retira con una cuchara la espuma que suba.",
+    "Lleva el caldo a ebullición con el laurel; mientras, corta la zanahoria en dados pequeños y las judías verdes en trozos de 1 cm y pica la cebolleta. Añádelas al caldo y cuece 10 minutos.",
+    "Baja el fuego para que el caldo apenas tiemble y echa las albondiguitas una a una. Cuécelas 8 minutos sin que hierva fuerte, para que no se rompan; retira con una cuchara la espuma que suba. Mientras, pica el perejil.",
     "Añade los fideos de arroz partidos en trozos cortos y cuece 3-4 minutos, hasta que estén tiernos. Rectifica de sal.",
-    "Retira el laurel y sirve la sopa bien caliente con el perejil picado por encima."
+    "Retira el laurel y sirve la sopa bien caliente con el perejil por encima."
   ],
   nutricion: { kcal: 350, prot: 24, hc: 40, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "para niños", "económica", "ligera"],
@@ -998,11 +998,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas en dados de 2 cm; pela las zanahorias y córtalas en rodajas de medio centímetro.",
-    "Ponlas en una cazuela con el agua y una cucharadita de sal, lleva a ebullición y cuece 10 minutos.",
-    "Añade las judías verdes cortadas en trozos de 2 cm y cuece 5-6 minutos más, hasta que todas las verduras estén tiernas.",
+    "Ponlas en una cazuela con el agua y una cucharadita de sal, lleva a ebullición y cuece 10 minutos. Mientras, corta las judías verdes en trozos de 2 cm, trocea las espinacas y pica el eneldo.",
+    "Añade las judías verdes y cuece 5-6 minutos más, hasta que todas las verduras estén tiernas.",
     "Disuelve la harina de arroz en un vaso con un poco de la leche fría. Vierte el resto de la leche en la cazuela y después la mezcla de harina, removiendo.",
     "Calienta a fuego suave 5 minutos, removiendo, hasta que la sopa espese ligeramente; que no llegue a hervir con fuerza o la leche podría cortarse.",
-    "Añade las espinacas troceadas y la mantequilla y cuece 1 minuto, solo hasta que las hojas se ablanden. Termina con abundante eneldo picado y pimienta y sirve."
+    "Añade las espinacas y la mantequilla y cuece 1 minuto, solo hasta que las hojas se ablanden. Termina con el eneldo y pimienta y sirve."
   ],
   nutricion: { kcal: 395, prot: 13, hc: 54, grasa: 14 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "para niños", "económica", "verano"],
@@ -1037,12 +1037,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava bien los berros, separa los tallos gruesos de las hojas y reserva un puñado pequeño de hojas para el final.",
-    "En una cazuela, calienta 1 cucharada de aceite a fuego medio-bajo y rehoga la cebolleta picada 2 minutos. Añade la patata y la zanahoria peladas y en dados pequeños y rehoga 2 minutos más.",
-    "Vierte el caldo, sala y cuece 15 minutos, hasta que la patata esté muy tierna.",
+    "Lava bien los berros, separa los tallos gruesos de las hojas y reserva un puñado pequeño de hojas para el final. Pica la cebolleta y pela la patata y la zanahoria y córtalas en dados pequeños.",
+    "En una cazuela, calienta 1 cucharada de aceite a fuego medio-bajo y rehoga la cebolleta 2 minutos. Añade la patata y la zanahoria y rehoga 2 minutos más.",
+    "Vierte el caldo, sala y cuece 15 minutos, hasta que la patata esté muy tierna. Mientras, pica finas las hojas de berro reservadas y tuesta el pan y córtalo en tiras.",
     "Añade los tallos y la mayor parte de las hojas de berro y cuece 3 minutos. Tritura hasta obtener una crema fina.",
-    "Pica finas las hojas reservadas, añádelas a la sopa y dale un hervor de 1 minuto: aportan textura y un verde vivo. Rectifica de sal y pimienta.",
-    "Sirve muy caliente con un hilo del aceite restante en crudo por encima y el pan sin gluten tostado en tiras."
+    "Añade las hojas reservadas a la sopa y dale un hervor de 1 minuto: aportan textura y un verde vivo. Rectifica de sal y pimienta.",
+    "Sirve muy caliente con un hilo del aceite restante en crudo por encima y el pan tostado."
   ],
   nutricion: { kcal: 410, prot: 9, hc: 56, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "bajo en colesterol", "económica", "ligera"],
@@ -1083,12 +1083,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pollo en dados de 1,5 cm, la zanahoria y la chirivía peladas en dados de 1 cm (quita el corazón de la chirivía si es leñoso) y las judías verdes en trozos de 1 cm.",
-    "Funde la mantequilla en una cazuela a fuego medio y rehoga la cebolleta picada 1 minuto. Añade el pollo y remueve 2-3 minutos, hasta que pierda el color rosado por fuera, sin dorarlo.",
-    "Incorpora la zanahoria y la chirivía, sala ligeramente, remueve 1 minuto y vierte el caldo caliente con la mitad del estragón picado. Cuece a fuego suave 15 minutos.",
+    "Corta el pollo en dados de 1,5 cm, la zanahoria y la chirivía peladas en dados de 1 cm (quita el corazón de la chirivía si es leñoso) y las judías verdes en trozos de 1 cm. Pica la cebolleta y el estragón.",
+    "Funde la mantequilla en una cazuela a fuego medio y rehoga la cebolleta 1 minuto. Añade el pollo y remueve 2-3 minutos, hasta que pierda el color rosado por fuera, sin dorarlo.",
+    "Incorpora la zanahoria y la chirivía, sala ligeramente, remueve 1 minuto y vierte el caldo caliente con la mitad del estragón. Cuece a fuego suave 15 minutos; mientras, pica el perejil.",
     "Añade las judías verdes y cuece 8 minutos más, hasta que todas las verduras estén tiernas.",
     "En un bol, bate la nata con la harina de arroz hasta que no queden grumos. Templa la mezcla con un cucharón de caldo caliente, batiendo, y viértela en la cazuela removiendo. Cuece 4-5 minutos a fuego suave, hasta que la sopa espese ligeramente y quede sedosa.",
-    "Fuera del fuego, añade el resto del estragón, el zumo de limón, pimienta y el perejil picado. Prueba: debe tener un punto ácido que equilibre la crema.",
+    "Fuera del fuego, añade el resto del estragón, el zumo de limón, pimienta y el perejil. Prueba: debe tener un punto ácido que equilibre la crema.",
     "Tuesta el pan y sirve la sopa bien caliente con el pan al lado."
   ],
   nutricion: { kcal: 430, prot: 34, hc: 40, grasa: 15 },
@@ -1130,13 +1130,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el morcillo en una olla con el agua fría, llévalo a ebullición y retira toda la espuma durante 5-10 minutos. Añade las hojas de cebolleta, el laurel, la pimienta en grano y los tallos del perejil, baja el fuego para que apenas tiemble y cuece 1 hora y 30 minutos con la olla entreabierta.",
-    "Añade la zanahoria y la chirivía peladas y enteras y una cucharadita de sal, y cuece 40 minutos más, hasta que la carne esté muy tierna.",
+    "Pon el morcillo en una olla con el agua fría, llévalo a ebullición y retira toda la espuma durante 5-10 minutos. Añade las hojas de cebolleta, el laurel, la pimienta en grano y los tallos del perejil, baja el fuego para que apenas tiemble y cuece 1 hora y 30 minutos con la olla entreabierta. Mientras, pela la zanahoria y la chirivía.",
+    "Añade la zanahoria y la chirivía enteras y una cucharadita de sal, y cuece 40 minutos más, hasta que la carne esté muy tierna.",
     "Mientras se cuece el caldo, prepara el Eierstich: bate los huevos con la leche, la nuez moscada y una pizca de sal sin hacer espuma y cuela la mezcla. Unta con el aceite un molde pequeño o un táper apto para calor de unos 12 × 12 cm, vierte el huevo (debe tener unos 2 cm de altura) y tápalo con papel de aluminio.",
     "Pon el molde en una cazuela con agua caliente hasta la mitad de su altura y cuécelo tapado a fuego mínimo 20-25 minutos, sin que el agua llegue a hervir, hasta que esté cuajado y firme al tacto. Déjalo templar, desmóldalo y córtalo en dados o rombos de 1,5 cm.",
-    "Mientras, cuece el arroz en agua con sal 15 minutos y escúrrelo.",
+    "Mientras, cuece el arroz en agua con sal 15 minutos y escúrrelo, y pica el cebollino y las hojas del perejil.",
     "Cuela el caldo y desgrásalo con una cuchara. Desmiga la carne y corta la zanahoria y la chirivía en dados pequeños. Rectifica de sal.",
-    "Reparte en platos hondos el arroz, la carne, las verduras y los dados de Eierstich, vierte el caldo hirviendo con cuidado para no romperlos y termina con el cebollino y el perejil picados."
+    "Reparte en platos hondos el arroz, la carne, las verduras y los dados de Eierstich, vierte el caldo hirviendo con cuidado para no romperlos y termina con el cebollino y el perejil."
   ],
   nutricion: { kcal: 455, prot: 39, hc: 38, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "poco especiada", "alta en proteína", "batch cooking", "invierno"],

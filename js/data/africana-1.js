@@ -165,8 +165,8 @@ window.RECETAS_SEED.push({
     "Pela la patata y la zanahoria y córtalas en dados de 1,5 cm. Pica la cebolla y el ajo y ralla los tomates.",
     "Calienta el aceite en una cazuela y sofríe la cebolla 6 minutos a fuego medio, hasta que esté dorada. Añade el ajo y el curry y remueve 30 segundos.",
     "Incorpora el tomate y cuece 5 minutos, aplastando, hasta tener una salsa espesa.",
-    "Añade la patata, la zanahoria y el caldo; tapa y cuece 12 minutos, hasta que la patata esté casi tierna.",
-    "Echa el maíz, las alubias y la col rizada en tiras finas y cuece 6-8 minutos más, destapado, hasta que la col esté tierna y el guiso quede jugoso pero sin caldo suelto.",
+    "Añade la patata, la zanahoria y el caldo; tapa y cuece 12 minutos, hasta que la patata esté casi tierna. Mientras, corta la col rizada en tiras finas y pica el cilantro.",
+    "Echa el maíz, las alubias y la col rizada y cuece 6-8 minutos más, destapado, hasta que la col esté tierna y el guiso quede jugoso pero sin caldo suelto.",
     "Prueba de sal y sirve con cilantro picado por encima."
   ],
   nutricion: { kcal: 500, prot: 18, hc: 71, grasa: 16 },
@@ -654,7 +654,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 280 ml de agua y una pizca de sal, tapado a fuego mínimo, 12 minutos; deja reposar.",
-    "Seca el bacalao y córtalo en trozos grandes. Machaca el ajo y el jengibre en el mortero hasta tener una pasta. Corta la cebolla en juliana, el chile en rodajas y trocea los tomates.",
+    "Mientras se cuece el arroz, seca el bacalao y córtalo en trozos grandes. Machaca el ajo y el jengibre en el mortero hasta tener una pasta. Corta la cebolla en juliana, el chile en rodajas y trocea los tomates.",
     "Calienta el aceite en una cazuela y sofríe la cebolla en juliana 6 minutos a fuego medio, hasta que esté dorada. Añade la pasta de ajo y jengibre, el tomillo y el chile en rodajas y cocina 1 minuto.",
     "Incorpora los tomates troceados y cuece 8 minutos a fuego medio, aplastándolos, hasta que se deshagan en una salsa espesa.",
     "Coloca el bacalao en la salsa, tapa y cuece 6-7 minutos a fuego suave, hasta que se separe en lascas. Prueba antes de salar: el bacalao ya aporta sal. Mientras, pica la cebolleta y el perejil.",

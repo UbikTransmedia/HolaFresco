@@ -39,12 +39,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Cuece las patatas con piel en agua con sal y el laurel 15 minutos desde que hierva: deben estar casi tiernas, no deshechas. Escúrrelas y déjalas humear 5 minutos para que se sequen.",
+    "Precalienta el horno a 220 °C. Cuece las patatas con piel en agua con sal y el laurel 15 minutos desde que hierva: deben estar casi tiernas, no deshechas. Mientras, quita los tallos duros del kale y trocea las hojas, y pica el perejil. Escurre las patatas y déjalas humear 5 minutos para que se sequen.",
     "Pon las patatas en una bandeja y dales un golpe seco con el puño o con la base de un vaso para abrirlas sin romperlas: son las batatas a murro. Riégalas con el aceite de oliva, espolvorea sal gorda y ásalas 20 minutos, hasta que los bordes estén dorados y crujientes.",
     "Seca bien las patas de pulpo con papel de cocina y úntalas con 1 cucharadita del aceite de ajo. Ponlas en la bandeja entre las patatas y asa 10-12 minutos más, hasta que la piel esté tostada y las ventosas se ricen.",
-    "Mientras, quita los tallos duros del kale y trocea las hojas. Escáldalas 3 minutos en agua hirviendo con sal y escúrrelas apretando un poco.",
+    "Mientras, escalda las hojas de kale 3 minutos en agua hirviendo con sal y escúrrelas apretando un poco.",
     "Calienta 1 cucharadita del aceite de ajo en una sartén a fuego medio y saltea el kale 2 minutos, hasta que brille. Sálalo.",
-    "Pica el perejil y mézclalo con el resto del aceite de ajo templado y unas gotas de limón. Sirve el pulpo cortado en trozos grandes sobre las patatas, con el kale al lado, riega todo con el aceite de perejil y acompaña con gajos de limón y una vuelta de pimienta."
+    "Mezcla el perejil con el resto del aceite de ajo templado y unas gotas de limón. Corta el pulpo en trozos grandes y sírvelo sobre las patatas, con el kale al lado, riega todo con el aceite de perejil y acompaña con gajos de limón y una vuelta de pimienta."
   ],
   nutricion: { kcal: 525, prot: 42, hc: 51, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada", "alta en proteína"],
@@ -170,12 +170,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas con piel en agua con sal 20-25 minutos, hasta que estén tiernas pero firmes. Pélalas en caliente, córtalas en rodajas de medio centímetro y riégalas con el caldo caliente, el vinagre, la mostaza, sal y pimienta. Deja que absorban el aliño 15 minutos.",
-    "Corta el pepino en rodajas muy finas, sálalas y déjalas 10 minutos en un colador; escúrrelas apretando con la mano y mézclalas con las patatas, el aceite y el cebollino picado.",
-    "Corta la panceta en dados pequeños y dórala en una sartén grande antiadherente sin grasa a fuego medio-bajo 6-8 minutos, hasta que esté dorada y haya soltado su grasa. Sácala a un papel y retira la grasa de la sartén, dejando solo una cucharadita.",
-    "Seca los gallos, sálalos y pásalos por la harina de arroz, sacudiendo bien el exceso: solo debe quedar un velo fino. Precalienta el horno a 80 °C para mantener el pescado caliente.",
+    "Cuece las patatas con piel en agua con sal 20-25 minutos, hasta que estén tiernas pero firmes. Mientras, corta el pepino en rodajas muy finas, sálalas y déjalas 10 minutos en un colador; pica el cebollino y el perejil y corta la panceta en dados pequeños.",
+    "Pela las patatas en caliente, córtalas en rodajas de medio centímetro y riégalas con el caldo caliente, el vinagre, la mostaza, sal y pimienta. Deja que absorban el aliño 15 minutos mientras haces el pescado; después, escurre el pepino apretando con la mano y mézclalo con las patatas, el aceite y el cebollino.",
+    "Precalienta el horno a 80 °C para mantener el pescado caliente. Dora la panceta en una sartén grande antiadherente sin grasa a fuego medio-bajo 6-8 minutos, hasta que esté dorada y haya soltado su grasa. Sácala a un papel y retira la grasa de la sartén, dejando solo una cucharadita.",
+    "Seca los gallos, sálalos y pásalos por la harina de arroz, sacudiendo bien el exceso: solo debe quedar un velo fino.",
     "Funde la mitad de la mantequilla con la grasa reservada a fuego medio y dora el primer gallo 5 minutos por la cara oscura, sin moverlo; dale la vuelta y cocina 4 minutos más, hasta que la carne se separe de la espina central. Pásalo al horno y repite con el segundo y el resto de la mantequilla.",
-    "Devuelve los dados de panceta a la sartén 30 segundos para calentarlos y repártelos sobre el pescado con el perejil picado. Sirve con la ensalada de patata templada y medio limón."
+    "Devuelve los dados de panceta a la sartén 30 segundos para calentarlos y repártelos sobre el pescado con el perejil. Sirve con la ensalada de patata templada y medio limón."
   ],
   nutricion: { kcal: 505, prot: 36, hc: 42, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada"],
@@ -213,10 +213,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara el caldo corto en una cazuela ancha: 1,5 litros de agua, 100 ml de vinagre, una zanahoria en rodajas, el laurel, la pimienta en grano, los tallos del perejil y una cucharada de sal. Hierve suave 15 minutos.",
-    "Pela las patatas y el resto de las zanahorias, corta estas en bastones gruesos y cuécelo todo al vapor 18-20 minutos, hasta que esté tierno.",
+    "Mientras hierve, pela las patatas y el resto de las zanahorias, corta estas en bastones gruesos y cuécelo todo al vapor 18-20 minutos, hasta que esté tierno. Mientras, pica las hojas del perejil.",
     "Coloca las truchas en una fuente, manipulándolas por la cabeza y la cola para no quitarles la mucosa de la piel. Calienta los 50 ml de vinagre restantes hasta que humeen y viértelos sobre ellas: la piel se tornará azul acero al instante.",
     "Baja el fuego del caldo hasta que apenas tiemble (sin burbujas) y desliza las truchas dentro. Escálfalas 10-12 minutos: están cuando el ojo se vuelve blanco y la aleta dorsal sale con un tirón suave.",
-    "Mientras, funde la mantequilla a fuego mínimo sin que llegue a dorarse y añade las hojas de perejil picadas y unas gotas de limón.",
+    "Mientras, funde la mantequilla a fuego mínimo sin que llegue a dorarse y añade las hojas de perejil y unas gotas de limón.",
     "Saca las truchas con una espumadera, escúrrelas y sírvelas enteras en platos calientes con las patatas y las zanahorias. Lleva la mantequilla de perejil a la mesa en una salsera y acompaña con gajos de limón."
   ],
   nutricion: { kcal: 455, prot: 35, hc: 40, grasa: 17 },
@@ -253,8 +253,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir una olla grande de agua con sal y el laurel. Pela las patatas, déjalas enteras si son medianas y parte las zanahorias por la mitad a lo largo.",
-    "Echa las patatas y las zanahorias al agua hirviendo y cuécelas 12 minutos. Añade los huevos con cáscara y la col cortada en dos gajos, y cuece 10 minutos más, hasta que las patatas estén tiernas y la col blanda pero verde.",
+    "Pon a hervir una olla grande de agua con sal y el laurel. Pela las patatas, déjalas enteras si son medianas y parte las zanahorias por la mitad a lo largo y corta la col en dos gajos.",
+    "Echa las patatas y las zanahorias al agua hirviendo y cuécelas 12 minutos. Añade los huevos con cáscara y la col, y cuece 10 minutos más, hasta que las patatas estén tiernas y la col blanda pero verde.",
     "Al mismo tiempo, pon el bacalao en una cazuela con agua fría sin sal, que lo cubra. Calienta a fuego medio y, en cuanto empiece a temblar, baja al mínimo y déjalo 8 minutos sin que llegue a hervir: si hierve, se pone gomoso.",
     "Saca el bacalao con una espumadera: debe separarse en lascas nacaradas al presionarlo. Escurre las verduras y enfría los huevos bajo el grifo para pelarlos.",
     "Templa el aceite de ajo en un cazo a fuego muy suave 1 minuto, sin que llegue a humear.",
@@ -298,10 +298,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela la patata y el colinabo y córtalos en dados, el colinabo algo más pequeño porque tarda más. Cuécelos juntos en agua con sal 18-20 minutos, hasta que se deshagan al pincharlos.",
-    "Mientras se cuecen, pica gruesos los copos de avena con un cuchillo y mézclalos con el eneldo picado, la ralladura del limón, 1 cucharada de aceite, sal y pimienta.",
+    "Mientras se cuecen, pica el eneldo y el cebollino. Pica gruesos los copos de avena con un cuchillo y mézclalos con el eneldo, la ralladura del limón, 1 cucharada de aceite, sal y pimienta.",
     "Seca los lomos de bacalao, sálalos ligeramente y colócalos en una bandeja con papel. Unta la parte de arriba con la mostaza y presiona encima la mezcla de avena para formar una costra.",
-    "Hornea 12-14 minutos, hasta que la costra esté dorada y el pescado se separe en lascas blancas y opacas.",
-    "Escurre la patata y el colinabo y cháfalos con un tenedor con la leche caliente, el resto del aceite, la nuez moscada, pimienta y el cebollino picado: debe quedar un puré rústico, no liso.",
+    "Hornea 12-14 minutos, hasta que la costra esté dorada y el pescado se separe en lascas blancas y opacas. Mientras, calienta la leche.",
+    "Escurre la patata y el colinabo y cháfalos con un tenedor con la leche caliente, el resto del aceite, la nuez moscada, pimienta y el cebollino: debe quedar un puré rústico, no liso.",
     "Sirve el bacalao sobre el clapshot con un gajo de limón."
   ],
   nutricion: { kcal: 395, prot: 34, hc: 43, grasa: 10 },
@@ -340,8 +340,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales de unos 4 cm y redondea las aristas con el cuchillo. Cuécelas al vapor con sal 20-22 minutos, hasta que estén tiernas: son las pommes vapeur que acompañan al plato.",
-    "Concassé: haz una cruz en la base de los tomates, escáldalos 15 segundos en agua hirviendo y pásalos a agua fría. Pélalos, quítales las semillas y córtalos en dados de medio centímetro.",
-    "Unta una sartén ancha con tapa con un tercio de la mantequilla. Reparte en el fondo la cebolleta picada muy fina, los dados de tomate y la mitad del perejil picado, y salpimienta.",
+    "Mientras, prepara el concassé: haz una cruz en la base de los tomates, escáldalos 15 segundos en agua hirviendo y pásalos a agua fría. Pélalos, quítales las semillas y córtalos en dados de medio centímetro. Pica muy fina la cebolleta y pica el perejil.",
+    "Unta una sartén ancha con tapa con un tercio de la mantequilla. Reparte en el fondo la cebolleta, los dados de tomate y la mitad del perejil, y salpimienta.",
     "Salpimienta los filetes, dóblalos por la mitad con la cara de la piel hacia dentro y colócalos sobre el tomate. Vierte el caldo de pescado, cubre con un papel de horno a ras del pescado y tapa.",
     "Lleva a un hervor muy suave y escalfa 6-8 minutos a fuego bajo, sin que borbotee, hasta que los filetes estén blancos y opacos. Sácalos con una espátula a platos calientes y tápalos.",
     "Sube el fuego y reduce el líquido con el tomate 3-4 minutos, hasta que quede la mitad. Añade la nata y hierve 1 minuto; fuera del fuego, liga con el resto de la mantequilla moviendo la sartén, añade unas gotas de limón y el perejil restante.",
@@ -385,8 +385,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Lava la quinoa en un colador y cuécela 12-14 minutos en abundante agua con sal. Escúrrela y déjala reposar tapada.",
     "Mientras se cuece la quinoa, corta las zanahorias y el hinojo en juliana fina. Ponlos en una sartén con la mitad del aceite, sal y 3 cucharadas de agua, tapa y cocina a fuego suave 15 minutos, removiendo de vez en cuando, hasta que estén muy tiernos y brillantes, sin tomar color. Añade al final la ralladura de media naranja.",
     "Seca el rape y sálalo. Dóralo en una sartén apta para horno con el resto del aceite 2 minutos por cada lado y termínalo en el horno 6-8 minutos, hasta que esté opaco y firme pero jugoso.",
-    "Mientras, exprime la naranja. Pon el zumo en un cazo con el azafrán y redúcelo a fuego medio 3-4 minutos, hasta que quede la mitad.",
-    "Retira el cazo del fuego y añade la mantequilla fría dado a dado, batiendo con varillas: la salsa debe quedar ligada, brillante y amarilla. Salpimienta y añade el estragón picado.",
+    "Mientras, pica el estragón y exprime la naranja. Pon el zumo en un cazo con el azafrán y redúcelo a fuego medio 3-4 minutos, hasta que quede la mitad.",
+    "Retira el cazo del fuego y añade la mantequilla fría dado a dado, batiendo con varillas: la salsa debe quedar ligada, brillante y amarilla. Salpimienta y añade el estragón.",
     "Sirve la quinoa y la fondue de verduras, coloca encima el rape en medallones gruesos y napa con la salsa de azafrán."
   ],
   nutricion: { kcal: 495, prot: 33, hc: 50, grasa: 18 },
@@ -433,7 +433,7 @@ window.RECETAS_SEED.push({
     "Lleva el agua a ebullición en una olla alta y mete la carne: en Viena se pone en agua hirviendo para que quede más jugosa. Espuma con cuidado durante los primeros 10 minutos, hasta que el caldo quede limpio.",
     "Añade el laurel, la pimienta en grano, la pimienta de Jamaica y una cucharada de sal. Baja el fuego para que apenas borbotee y cuece 2 horas con la olla entreabierta.",
     "Pela la zanahoria, la chirivía y el nabo, córtalos en trozos grandes y añádelos para los últimos 40 minutos. Pela las patatas, pártelas por la mitad y añádelas para los últimos 25.",
-    "Salsa de cebollino: cuece el huevo 10 minutos, enfríalo y pélalo. Remoja el pan en la leche 5 minutos y escúrrelo. Aplasta en un bol el pan con la yema, la mostaza, el vinagre y sal, y añade el aceite en hilo batiendo hasta que quede una crema. Incorpora el cebollino picado muy fino y la clara picada.",
+    "Salsa de cebollino (mientras cuece la carne): cuece el huevo 10 minutos y, entretanto, pica muy fino el cebollino y remoja el pan en la leche. Enfría el huevo, pélalo y pica la clara. Escurre el pan y aplástalo en un bol con la yema, la mostaza, el vinagre y sal, y añade el aceite en hilo batiendo hasta que quede una crema. Incorpora el cebollino (guarda un poco para el caldo) y la clara.",
     "Comprueba la carne: un tenedor debe entrar y salir sin resistencia en la parte más gruesa. Si no, dale 15 minutos más.",
     "Sirve primero una taza del caldo colado y desgrasado con un poco de cebollino. Después corta la carne en lonchas de medio centímetro a contrapelo, retira la grasa exterior y colócala en platos hondos con las verduras y las patatas, con un cucharón de caldo por encima para que no se seque. Acompaña con la salsa."
   ],
@@ -479,13 +479,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Remoja el pan en agua 5 minutos y escúrrelo bien. Mezcla en un bol la carne con el pan desmenuzado, el huevo, las anchoas picadas muy finas, el cebollino picado, la nuez moscada, poca sal (las anchoas ya salan) y pimienta. Amasa 1 minuto, hasta que la mezcla esté ligada.",
+    "Remoja el pan en agua 5 minutos; mientras, pica muy finas las anchoas y pica el cebollino. Escurre bien el pan. Mezcla en un bol la carne con el pan desmenuzado, el huevo, las anchoas, el cebollino, la nuez moscada, poca sal (las anchoas ya salan) y pimienta. Amasa 1 minuto, hasta que la mezcla esté ligada.",
     "Con las manos mojadas, forma 8 albóndigas iguales del tamaño de una pelota de golf.",
     "Lleva el caldo a ebullición con el laurel y la pimienta de Jamaica, baja el fuego para que apenas tiemble y escalfa las albóndigas 12-15 minutos, hasta que estén firmes al tacto. Sácalas con una espumadera y cuela el caldo.",
-    "Mientras, pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos.",
+    "Mientras, pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos. Pica el perejil.",
     "En otra cazuela funde la mantequilla, añade la harina de arroz y remueve 1 minuto sin que tome color. Vierte poco a poco 400 ml del caldo caliente batiendo con varillas y deja hervir suave 5 minutos, hasta que la salsa napé la cuchara.",
     "Añade la nata, las alcaparras y el zumo del limón, prueba y ajusta de sal y pimienta: debe quedar cremosa, ácida y salina. Devuelve las albóndigas a la salsa 3 minutos para que se calienten.",
-    "Sirve las albóndigas cubiertas de salsa con las patatas escurridas y el perejil picado por encima."
+    "Sirve las albóndigas cubiertas de salsa con las patatas escurridas y el perejil por encima."
   ],
   nutricion: { kcal: 555, prot: 40, hc: 50, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "batch cooking", "para niños"],
@@ -526,11 +526,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el cordero en una cazuela con el agua fría y llévalo a ebullición. Retira con cuidado toda la espuma que suba durante 5 minutos: así el caldo queda claro y la salsa, limpia.",
-    "Ata los tallos del eneldo con un hilo (reserva las hojas) y añádelos con el laurel, la pimienta de Jamaica, la pimienta en grano y sal. Tapa y cuece a fuego suave 1 hora y 15 minutos, hasta que la carne esté tierna.",
-    "Pela las zanahorias, córtalas en rodajas gruesas y añádelas para los últimos 20 minutos. Mientras, cuece las patatas peladas en agua con sal 20 minutos.",
+    "Ata los tallos del eneldo con un hilo (reserva las hojas) y añádelos con el laurel, la pimienta de Jamaica, la pimienta en grano y sal. Tapa y cuece a fuego suave 1 hora y 15 minutos, hasta que la carne esté tierna. Mientras, pica las hojas del eneldo.",
+    "Pela las zanahorias, córtalas en rodajas gruesas y añádelas para los últimos 20 minutos. Mientras, pela las patatas y cuécelas en agua con sal 20 minutos.",
     "Saca la carne y las zanahorias con una espumadera, cuela el caldo y mide 400 ml.",
     "Funde la mantequilla en la cazuela limpia, añade la harina de arroz y remueve 1 minuto. Vierte el caldo poco a poco batiendo y hierve suave 5 minutos, hasta que espese.",
-    "Añade la nata, el vinagre y el azúcar; prueba y equilibra: la salsa debe ser a la vez ácida y dulce. Apaga el fuego, incorpora las hojas de eneldo picadas, devuelve la carne y las zanahorias y deja que se calienten 2 minutos sin que hierva.",
+    "Añade la nata, el vinagre y el azúcar; prueba y equilibra: la salsa debe ser a la vez ácida y dulce. Apaga el fuego, incorpora las hojas de eneldo, devuelve la carne y las zanahorias y deja que se calienten 2 minutos sin que hierva.",
     "Sirve el dillkött en platos hondos con las patatas cocidas y un poco más de eneldo por encima."
   ],
   nutricion: { kcal: 530, prot: 37, hc: 52, grasa: 19 },
@@ -616,8 +616,8 @@ window.RECETAS_SEED.push({
     "Seca los contramuslos, ábrelos bien planos y salpimiéntalos. Mezcla la mostaza con el pimentón y el tomillo y unta con ella la cara de arriba de cada pieza.",
     "Mezcla el pan rallado con 1 cucharadita de aceite y presiónalo sobre la mostaza para formar una costra uniforme.",
     "Haz sitio en la bandeja de las patatas, coloca el pollo y hornea 22-25 minutos, hasta que la costra esté dorada y el jugo salga transparente al pinchar la parte más gruesa.",
-    "Mientras, pela las zanahorias y córtalas en bastones; despunta las judías. Cuece al vapor las zanahorias 8 minutos y añade las judías los últimos 6, hasta que estén tiernas.",
-    "Aliña las verduras con la última cucharadita de aceite, el zumo del limón, sal y el estragón picado. Sirve el pollo con las patatas y las verduras."
+    "Mientras, pela las zanahorias y córtalas en bastones; despunta las judías. Cuece al vapor las zanahorias 8 minutos y añade las judías los últimos 6, hasta que estén tiernas. Pica el estragón.",
+    "Aliña las verduras con la última cucharadita de aceite, el zumo del limón, sal y el estragón. Sirve el pollo con las patatas y las verduras."
   ],
   nutricion: { kcal: 550, prot: 44, hc: 47, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "bajo en colesterol", "para niños"],
@@ -655,8 +655,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 12-15 minutos, hasta que estén tiernas. Escúrrelas y mézclalas con el perejil picado.",
-    "Mientras, pon los filetes de pavo entre dos hojas de film y golpéalos con un cazo hasta dejarlos de medio centímetro de grosor. Salpimiéntalos.",
+    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 12-15 minutos, hasta que estén tiernas. Mientras, pica el perejil.",
+    "Mientras, pon los filetes de pavo entre dos hojas de film y golpéalos con un cazo hasta dejarlos de medio centímetro de grosor. Salpimiéntalos. Escurre las patatas y mézclalas con el perejil.",
     "Calienta el aceite de ajo en una sartén grande y saltea las espinacas a puñados 2-3 minutos, hasta que se ablanden. Sálalas y resérvalas calientes.",
     "Calienta la plancha a fuego fuerte con unas gotas de aceite de oliva y marca los filetes 2 minutos por cada lado, hasta que estén dorados y jugosos. Pásalos a los platos.",
     "Baja el fuego a medio, añade el resto del aceite y casca los huevos. Tápalos con una tapa 2-3 minutos, hasta que la clara cuaje sin puntilla y la yema siga jugosa.",
@@ -788,11 +788,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la chirivía, córtala en trozos, quitando el corazón leñoso si es gruesa, y cuécela en agua con sal 15 minutos, hasta que esté muy tierna. Escúrrela y aplástala con la leche caliente, 1 cucharadita de aceite de oliva, la nuez moscada, sal y pimienta hasta obtener un puré fino.",
-    "Frota los contramuslos con sal, pimienta y el enebro machacado.",
+    "Pela la chirivía, córtala en trozos, quitando el corazón leñoso si es gruesa, y cuécela en agua con sal 15 minutos, hasta que esté muy tierna. Mientras, frota los contramuslos con sal, pimienta y el enebro machacado, quita los tallos del kale y trocea las hojas, y calienta la leche.",
+    "Escurre la chirivía y aplástala con la leche caliente, 1 cucharadita de aceite de oliva, la nuez moscada, sal y pimienta hasta obtener un puré fino.",
     "Calienta 2 cucharaditas de aceite de oliva en una sartén a fuego medio-alto y dora el pollo 5-6 minutos por cada lado, hasta que esté dorado y el jugo salga transparente. Sácalo a un plato.",
     "En la misma sartén, vierte el caldo y el vinagre, rasca el fondo y añade los arándanos, el sirope y el tomillo. Cuece 5-6 minutos, hasta que las bayas revienten y la salsa espese y brille. Devuelve el pollo 1 minuto para que se impregne.",
-    "Quita los tallos del kale y trocea las hojas. Saltéalo en otra sartén con el aceite de ajo y un chorrito de agua 4 minutos, hasta que esté tierno, y sálalo.",
+    "Saltea el kale en otra sartén con el aceite de ajo y un chorrito de agua 4 minutos, hasta que esté tierno, y sálalo.",
     "Sirve el pollo sobre el puré de chirivía con la salsa de arándanos por encima, sin las ramas de tomillo, y el kale al lado."
   ],
   nutricion: { kcal: 575, prot: 41, hc: 54, grasa: 22 },
@@ -830,12 +830,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Si no tienes patatas cocidas, cuécelas con piel en agua con sal 20 minutos y déjalas enfriar. Pélalas y córtalas en rodajas de medio centímetro.",
-    "Corta la panceta en dados pequeños y dórala en una sartén antiadherente grande sin grasa a fuego medio-bajo 6 minutos, hasta que suelte la grasa y esté dorada. Sácala con una espumadera y retira la grasa de la sartén, dejando solo una cucharadita.",
+    "Si no tienes patatas cocidas, cuécelas con piel en agua con sal 20 minutos y déjalas enfriar. Mientras (o directamente, si ya las tienes), corta la panceta en dados pequeños, la parte verde de la cebolleta en aros finos y el tomate en rodajas, y pica el cebollino. Pela las patatas y córtalas en rodajas de medio centímetro.",
+    "Dora la panceta en una sartén antiadherente grande sin grasa a fuego medio-bajo 6 minutos, hasta que suelte la grasa y esté dorada. Sácala con una espumadera y retira la grasa de la sartén, dejando solo una cucharadita.",
     "Añade el aceite a la grasa que quedó, sube a fuego medio-alto y pon las patatas en una sola capa. Dóralas 10-12 minutos dándoles la vuelta solo de vez en cuando, hasta que estén doradas por ambas caras.",
-    "Añade la parte verde de la cebolleta en aros finos y remueve 1 minuto.",
-    "Bate los huevos con la leche, sal, pimienta y la mitad del cebollino picado. Devuelve la panceta a la sartén, vierte el huevo por encima, baja el fuego, tapa y deja cuajar 4-5 minutos, levantando los bordes con una espátula, hasta que esté hecho pero jugoso en el centro.",
-    "Espolvorea el resto del cebollino y sirve directamente de la sartén con los pepinillos y el tomate en rodajas con una pizca de sal."
+    "Añade la cebolleta y remueve 1 minuto.",
+    "Bate los huevos con la leche, sal, pimienta y la mitad del cebollino. Devuelve la panceta a la sartén, vierte el huevo por encima, baja el fuego, tapa y deja cuajar 4-5 minutos, levantando los bordes con una espátula, hasta que esté hecho pero jugoso en el centro.",
+    "Espolvorea el resto del cebollino y sirve directamente de la sartén con los pepinillos y el tomate con una pizca de sal."
   ],
   nutricion: { kcal: 425, prot: 20, hc: 38, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica", "una sola sartén"],
@@ -875,9 +875,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Ensalada: disuelve el azúcar y una pizca de sal en 100 ml de agua fría con el vinagre y mételo en la nevera. Lava la lechuga, trocéala y sécala bien.",
     "Masa de nokedli: mezcla la harina de arroz, el almidón de tapioca y media cucharadita de sal. Añade 1 huevo y el agua y bate con una cuchara de madera hasta tener una masa espesa y lisa que caiga despacio. Déjala reposar 10 minutos.",
-    "Mientras reposa, lleva a ebullición una olla grande de agua con sal. Pon la masa en una tabla mojada y, con un cuchillo también mojado, ve raspando tiras pequeñas directamente al agua (o usa un rallador de spätzle). Cuando suban a la superficie, deja 1 minuto más y sácalos con una espumadera.",
+    "Mientras reposa, lleva a ebullición una olla grande de agua con sal y pica el cebollino. Pon la masa en una tabla mojada y, con un cuchillo también mojado, ve raspando tiras pequeñas directamente al agua (o usa un rallador de spätzle). Cuando suban a la superficie, deja 1 minuto más y sácalos con una espumadera.",
     "Funde la mantequilla en una sartén grande a fuego medio y saltea los nokedli escurridos 2 minutos.",
-    "Bate los 3 huevos restantes con sal y pimienta, viértelos sobre los nokedli y remueve con suavidad 1-2 minutos, hasta que el huevo cuaje en grumos cremosos que los envuelvan. Apaga y añade el cebollino picado.",
+    "Bate los 3 huevos restantes con sal y pimienta, viértelos sobre los nokedli y remueve con suavidad 1-2 minutos, hasta que el huevo cuaje en grumos cremosos que los envuelvan. Apaga y añade el cebollino.",
     "Justo antes de servir, vierte el aliño frío sobre la lechuga y espolvorea el pimentón. Sirve los nokedli bien calientes con la ensalada al lado."
   ],
   nutricion: { kcal: 495, prot: 17, hc: 71, grasa: 16 },
@@ -1003,9 +1003,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas, y mantenlas tapadas.",
-    "Pon el pescado ahumado en un cazo con la leche, llévala a un hervor suave y escálfalo 4-5 minutos a fuego mínimo, hasta que se separe en lascas. Sácalo con una espumadera, quítale la piel y las espinas y desmígalo. Reserva la leche.",
+    "Pon el pescado ahumado en un cazo con la leche, llévala a un hervor suave y escálfalo 4-5 minutos a fuego mínimo, hasta que se separe en lascas; mientras, pica el cebollino. Sácalo con una espumadera, quítale la piel y las espinas y desmígalo. Reserva la leche.",
     "Disuelve la maicena en 2 cucharadas de agua fría, añádela a la leche caliente y cuece 2 minutos sin dejar de batir, hasta que espese como unas natillas. Fuera del fuego, añade la nuez moscada, pimienta y la mitad del parmesano. Mezcla un tercio de esta salsa con el pescado.",
-    "Enciende el grill del horno a máxima potencia. Bate los huevos con pimienta (sin sal: el pescado ya es salado) y la mitad del cebollino picado.",
+    "Enciende el grill del horno a máxima potencia. Bate los huevos con pimienta (sin sal: el pescado ya es salado) y la mitad del cebollino.",
     "Funde la mantequilla en una sartén de 24 cm apta para horno a fuego medio. Vierte el huevo y remueve con una espátula los primeros 30 segundos, luego deja que cuaje 1-2 minutos más, hasta que la base esté hecha y la superficie siga húmeda.",
     "Reparte encima el pescado con su salsa, cubre con el resto de la salsa y espolvorea el parmesano restante. Mete la sartén bajo el grill, a media altura, 2-3 minutos, hasta que se hinche y se dore a manchas.",
     "Aliña los canónigos con el aceite, unas gotas de limón y sal. Sirve la tortilla en cuñas con el resto del cebollino, las patatas partidas por la mitad y la ensalada."
@@ -1049,8 +1049,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño limpio, ponle un peso encima y déjalo 10 minutos para que suelte agua. Mientras, lava el arroz y cuécelo en abundante agua con sal 10-12 minutos; escúrrelo.",
-    "Pela las zanahorias y córtalas en bastones; despunta las judías. Cuece al vapor las zanahorias 8 minutos y añade las judías los últimos 6, hasta que estén tiernas.",
-    "Ravigote: bate la mostaza con el vinagre y sal, y añade 1 cucharada del aceite en hilo hasta que emulsione. Incorpora las alcaparras y los pepinillos picados muy finos, el perejil, el estragón y el cebollino picados, y pimienta.",
+    "Pela las zanahorias y córtalas en bastones; despunta las judías. Cuece al vapor las zanahorias 8 minutos y añade las judías los últimos 6, hasta que estén tiernas. Mientras, pica muy finos las alcaparras y los pepinillos, y pica el perejil, el estragón y el cebollino.",
+    "Ravigote: bate la mostaza con el vinagre y sal, y añade 1 cucharada del aceite en hilo hasta que emulsione. Incorpora las alcaparras, los pepinillos, el perejil, el estragón y el cebollino, y pimienta.",
     "Corta el tofu en 4 lonchas gruesas, haz unos cortes cruzados poco profundos en la superficie y sálalo.",
     "Calienta el resto del aceite (media cucharada) en una sartén antiadherente a fuego medio-alto y dora el tofu 4 minutos por cada lado, sin moverlo, hasta que tenga una costra dorada.",
     "Con el tofu aún caliente, échale por encima dos cucharadas de ravigote para que la absorba. Sirve con el arroz y las verduras, y el resto de la salsa aparte."

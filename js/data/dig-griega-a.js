@@ -292,11 +292,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas nuevas y cuécelas con piel en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, saca el atún de la nevera para que pierda el frío, pica el cebollino y ralla los tomates por la parte gruesa del rallador; deja escurrir la pulpa 5 minutos en un colador fino. Mézclala en un bol con 1 cucharada de aceite de oliva, el orégano, las alcaparras picadas y una pizca de sal.",
+    "Mientras, saca el atún de la nevera para que pierda el frío, pica el cebollino y las alcaparras y ralla los tomates por la parte gruesa del rallador; deja escurrir la pulpa 5 minutos en un colador fino. Mézclala en un bol con 1 cucharada de aceite de oliva, el orégano, las alcaparras y una pizca de sal.",
     "Seca bien el atún con papel de cocina y frótalo con el resto del aceite, sal y pimienta.",
     "Calienta una sartén a fuego fuerte hasta que humee ligeramente y marca el atún 1 minuto por cada una de sus cuatro caras: debe formarse una costra fina y gris de 2-3 mm y el centro seguir rojo. Si lo prefieres más hecho, dale 1 minuto más por cara a fuego medio.",
     "Deja reposar el atún 2 minutos y córtalo en lonchas de 1 cm con un cuchillo bien afilado.",
-    "Escurre las patatas, cháfalas ligeramente con un tenedor y alíñalas con el zumo de medio limón y el cebollino picado.",
+    "Escurre las patatas, cháfalas ligeramente con un tenedor y alíñalas con el zumo de medio limón y el cebollino.",
     "Reparte las patatas y las lonchas de atún en los platos, cubre el atún con el tomate aliñado y desmenuza la feta por encima. Termina con unas gotas del limón restante."
   ],
   nutricion: { kcal: 495, prot: 44, hc: 35, grasa: 20 },
@@ -335,12 +335,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos, hasta que se deshagan al pincharlas. Guarda medio vaso del agua de cocción.",
-    "Mientras, tuesta las nueces en una sartén seca 3 minutos a fuego medio y májalas en un mortero hasta dejarlas como arena gruesa.",
+    "Mientras, tuesta las nueces en una sartén seca 3 minutos a fuego medio y májalas en un mortero hasta dejarlas como arena gruesa. Pica el perejil.",
     "Pasa las patatas calientes por el pasapurés (con batidora se vuelven gomosas). Añade poco a poco el aceite de ajo, el vinagre, las nueces y 3-4 cucharadas del agua de cocción, batiendo con una cuchara de madera hasta tener un puré suave y untuoso. Rectifica de sal.",
     "Corta la sepia en tiras de 1,5 cm, haz unos cortes superficiales en cuadrícula por la cara interior y sécala muy bien con papel de cocina.",
     "En la misma sartén de las nueces, calienta el aceite de oliva a fuego medio y saltea las espinacas 2 minutos, solo hasta que se ablanden. Sálalas y añade unas gotas de limón.",
     "Calienta la plancha a fuego fuerte y marca la sepia 2-3 minutos en total, dándole la vuelta una vez: debe quedar dorada en los bordes, blanca y tierna dentro. Más tiempo la endurece.",
-    "Sirve una buena cucharada de skordalia, las espinacas al lado y la sepia encima, con el perejil picado, pimienta y gajos de limón."
+    "Sirve una buena cucharada de skordalia, las espinacas al lado y la sepia encima, con el perejil, pimienta y gajos de limón."
   ],
   nutricion: { kcal: 490, prot: 40, hc: 31, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína"],
@@ -379,9 +379,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Despunta las judías verdes, quítales los hilos y córtalas en trozos de 5 cm. Pela la patata y córtala en gajos.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio, añade la parte verde de la cebolleta picada y remueve 1 minuto. Incorpora las judías, la patata, el tomate triturado, el agua y sal. Tapa y cuece 35 minutos a fuego suave, removiendo de vez en cuando, hasta que las judías estén muy tiernas y la salsa espesa: así es la fasolakia ladera.",
-    "Cuando la fasolakia lleve 20 minutos, precalienta el horno a 200 °C. Mezcla el pan rallado con la mitad del eneldo picado, la ralladura del limón, el aceite de oliva y una pizca de sal hasta que parezca arena húmeda.",
+    "Despunta las judías verdes, quítales los hilos y córtalas en trozos de 5 cm. Pela la patata y córtala en gajos y pica la parte verde de la cebolleta.",
+    "Calienta el aceite de ajo en una cazuela a fuego medio, añade la cebolleta y remueve 1 minuto. Incorpora las judías, la patata, el tomate triturado, el agua y sal. Tapa y cuece 35 minutos a fuego suave, removiendo de vez en cuando, hasta que las judías estén muy tiernas y la salsa espesa: así es la fasolakia ladera.",
+    "Cuando la fasolakia lleve 20 minutos, precalienta el horno a 200 °C. Pica el eneldo y mezcla el pan rallado con la mitad, la ralladura del limón, el aceite de oliva y una pizca de sal hasta que parezca arena húmeda.",
     "Coloca los lomos de salmón en una bandeja con papel de horno, salpimiéntalos y aprieta la costra sobre la cara superior.",
     "Hornea 10-12 minutos, hasta que la costra esté dorada y el salmón, al presionarlo de lado, empiece a separarse en lascas pero conserve el centro rosado.",
     "Termina la fasolakia con el resto del eneldo y unas gotas de limón. Sírvela en platos hondos con el salmón encima y un gajo de limón."
@@ -424,13 +424,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los contramuslos en dos, sécalos y salpimiéntalos. Calienta 1 cucharada de aceite de ajo en una cazuela a fuego medio-alto y dóralos 3 minutos por cada lado, sin moverlos, hasta que tengan color tostado. Resérvalos.",
-    "Baja el fuego, añade el resto del aceite de ajo y la parte verde de la cebolleta picada y remueve 1 minuto. Agrega el tomate concentrado y remueve 1 minuto más, hasta que oscurezca un poco.",
+    "Pica la parte verde de la cebolleta. Corta los contramuslos en dos, sécalos y salpimiéntalos. Calienta 1 cucharada de aceite de ajo en una cazuela a fuego medio-alto y dóralos 3 minutos por cada lado, sin moverlos, hasta que tengan color tostado. Resérvalos.",
+    "Baja el fuego, añade el resto del aceite de ajo y la cebolleta y remueve 1 minuto. Agrega el tomate concentrado y remueve 1 minuto más, hasta que oscurezca un poco.",
     "Incorpora el tomate triturado, 150 ml de agua, la canela, los clavos, la pimienta de Jamaica y el laurel, y rasca el fondo con una cuchara de madera para despegar lo tostado.",
     "Devuelve el pollo con su jugo, tapa y cuece 35 minutos a fuego suave, hasta que la carne esté muy tierna y la salsa espesa y brillante. Si se seca, añade un chorrito de agua.",
-    "Cuando el guiso lleve 20 minutos, lava el arroz y cuécelo en un cazo con los 300 ml de agua restantes y sal, tapado, 12 minutos a fuego mínimo. Déjalo reposar 5 minutos sin destapar.",
+    "Cuando el guiso lleve 20 minutos, lava el arroz y cuécelo en un cazo con los 300 ml de agua restantes y sal, tapado, 12 minutos a fuego mínimo. Déjalo reposar 5 minutos sin destapar. Mientras, pica el perejil.",
     "Retira la canela, los clavos, la pimienta de Jamaica y el laurel (cuéntalos para no dejarte ninguno). Prueba la sal.",
-    "Sirve el arroz en un molde o en montaña, con el pollo y su salsa al lado, y espolvorea perejil picado."
+    "Sirve el arroz en un molde o en montaña, con el pollo y su salsa al lado, y espolvorea el perejil."
   ],
   nutricion: { kcal: 610, prot: 46, hc: 64, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "batch cooking"],
@@ -514,8 +514,8 @@ window.RECETAS_SEED.push({
     "Mientras, pela las patatas y córtalas en trozos grandes, de unos 4 cm, para que aguanten enteras la cocción larga. Ralla los tomates por la parte gruesa del rallador hasta quedarte con la piel en la mano y pica la parte verde de la cebolleta.",
     "Añade a la carne las patatas, la cebolleta, el tomate rallado, el laurel, el aceite de ajo y el agua caliente, y mezcla con las manos: el líquido debe llegar a media altura de los ingredientes.",
     "Tapa bien la cazuela (si la tapa no ajusta, pon antes una hoja de papel de aluminio) y hornea 2 horas sin abrir: el vapor encerrado es el que ablanda la carne.",
-    "Destapa, remueve con cuidado y hornea 25-30 minutos más sin tapa, hasta que la superficie se dore, la salsa se reduzca y espese y la carne se deshaga al presionarla con una cuchara.",
-    "Deja reposar 10 minutos fuera del horno, retira el laurel y sirve en la misma cazuela con el perejil picado por encima."
+    "Destapa, remueve con cuidado y hornea 25-30 minutos más sin tapa, hasta que la superficie se dore, la salsa se reduzca y espese y la carne se deshaga al presionarla con una cuchara. Mientras, pica el perejil.",
+    "Deja reposar 10 minutos fuera del horno, retira el laurel y sirve en la misma cazuela con el perejil por encima."
   ],
   nutricion: { kcal: 505, prot: 41, hc: 40, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "batch cooking", "invierno"],
@@ -598,11 +598,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz en agua con sal 10 minutos (quedará algo duro, terminará en el horno) y escúrrelo. Tuesta los piñones en un cazo seco 2 minutos, hasta que estén dorados.",
-    "Mezcla en un bol el arroz, las castañas troceadas, los piñones, las uvas partidas en cuartos, la cebolleta y el perejil picados, la canela, 2 cucharadas de caldo, sal y pimienta.",
-    "Precalienta el horno a 190 °C. Abre la pechuga en libro con cortes horizontales hasta tener una lámina de 1,5 cm de grosor; si hace falta, aplánala entre dos hojas de papel de horno con un cazo. Salpimiéntala.",
+    "Precalienta el horno a 190 °C. Cuece el arroz en agua con sal 10 minutos (quedará algo duro, terminará en el horno); mientras, trocea las castañas, parte las uvas en cuartos, pica la cebolleta y el perejil y corta las zanahorias en rodajas gruesas. Escurre el arroz. Tuesta los piñones en un cazo seco 2 minutos, hasta que estén dorados.",
+    "Mezcla en un bol el arroz, las castañas, los piñones, las uvas, la cebolleta, el perejil, la canela, 2 cucharadas de caldo, sal y pimienta.",
+    "Abre la pechuga en libro con cortes horizontales hasta tener una lámina de 1,5 cm de grosor; si hace falta, aplánala entre dos hojas de papel de horno con un cazo. Salpimiéntala.",
     "Extiende el relleno sobre la carne dejando 2 cm libres en los bordes, enrolla apretando y ata el rollo con cordel de cocina cada 3 cm. Lo que no quepa del relleno, guárdalo.",
-    "Calienta 1 cucharada de aceite en una cazuela que vaya al horno y dora el rollo a fuego medio 2 minutos por cada lado. Rodéalo con las zanahorias en rodajas gruesas y el relleno sobrante, riega con el resto del caldo y del aceite y el zumo del medio limón.",
+    "Calienta 1 cucharada de aceite en una cazuela que vaya al horno y dora el rollo a fuego medio 2 minutos por cada lado. Rodéalo con las zanahorias y el relleno sobrante, riega con el resto del caldo y del aceite y el zumo del medio limón.",
     "Hornea 35-40 minutos, regando con el jugo cada 15 minutos, hasta que el centro del rollo alcance 70 °C o, al pincharlo, el jugo salga transparente.",
     "Deja reposar el rollo 10 minutos tapado con papel de aluminio, retira el cordel y córtalo en rodajas de 2 cm. Sírvelo con las zanahorias y el jugo de la cazuela por encima."
   ],
@@ -687,11 +687,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la zanahoria y rállala fina. Calienta el aceite de ajo en una sartén a fuego medio, añade la zanahoria y la parte verde de la cebolleta picada y cocina 4 minutos, hasta que la zanahoria se ablande.",
+    "Pela la zanahoria y rállala fina, y pica la parte verde de la cebolleta. Calienta el aceite de ajo en una sartén a fuego medio, añade la zanahoria y la cebolleta y cocina 4 minutos, hasta que la zanahoria se ablande.",
     "Sube el fuego, añade la carne picada y deshazla con una cuchara de madera 5 minutos, hasta que pierda el color rosado y empiece a dorarse. Incorpora el tomate concentrado y remueve 1 minuto.",
     "Añade el tomate triturado, la canela, el laurel, sal y pimienta. Cuece 25 minutos a fuego suave, removiendo de vez en cuando, hasta que la kima quede espesa y sin líquido suelto. Retira el laurel.",
-    "Mientras, pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos, hasta que se deshagan. Escúrrelas y pásalas por el pasapurés.",
-    "Precalienta el horno a 200 °C. Calienta la leche y añádela al puré con la nuez moscada, la mitad del queso rallado y sal, removiendo hasta que quede cremoso. Deja templar 2 minutos e incorpora el huevo batido.",
+    "Mientras, pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos, hasta que se deshagan; mientras, ralla el queso y bate el huevo. Escurre las patatas y pásalas por el pasapurés.",
+    "Precalienta el horno a 200 °C. Calienta la leche y añádela al puré con la nuez moscada, la mitad del queso y sal, removiendo hasta que quede cremoso. Deja templar 2 minutos e incorpora el huevo.",
     "Extiende la kima en una fuente de horno pequeña, cubre con el puré alisándolo con una espátula y dibuja surcos con un tenedor. Espolvorea el resto del queso.",
     "Hornea 20 minutos y gratina 3-4 minutos más, hasta que la superficie esté dorada y los surcos tostados. Deja reposar 5 minutos antes de cortar."
   ],
@@ -735,8 +735,8 @@ window.RECETAS_SEED.push({
     "Mezcla en un bol el yogur con la ralladura de medio limón, el zumo de medio limón, 1 cucharadita de orégano, el pimentón, 1 cucharadita de aceite de ajo, sal y pimienta. Embadurna el solomillo y déjalo marinar 30 minutos en la nevera (o hasta 12 horas): el ácido suave del yogur ablanda la carne.",
     "Mientras el pavo se marina, precalienta el horno a 200 °C. Pela las patatas, córtalas en gajos y mézclalas en una bandeja con media cucharada de aceite de oliva, el zumo de medio limón, el resto del orégano, sal y el agua. Hornea 20 minutos.",
     "Retira el exceso de marinada del pavo con una cuchara, dejando solo una capa fina, y colócalo en el centro de la bandeja entre las patatas. Hornea 20-25 minutos, hasta que esté dorado por fuera y, al pincharlo en la parte más gruesa, el jugo salga transparente (70 °C en el centro).",
-    "Mientras, despunta las judías verdes, quítales los hilos, córtalas en trozos de 4 cm y cuécelas 8-10 minutos en agua hirviendo con sal, hasta que estén tiernas, no al dente. Escúrrelas.",
-    "Bate el resto del aceite de ajo y del aceite de oliva con el zumo restante del limón y una pizca de sal hasta que emulsione: es el ladolemono. Aliña las judías en caliente y añade el eneldo picado.",
+    "Mientras, despunta las judías verdes, quítales los hilos, córtalas en trozos de 4 cm y cuécelas 8-10 minutos en agua hirviendo con sal, hasta que estén tiernas, no al dente; mientras, pica el eneldo. Escúrrelas.",
+    "Bate el resto del aceite de ajo y del aceite de oliva con el zumo restante del limón y una pizca de sal hasta que emulsione: es el ladolemono. Aliña las judías en caliente y añade el eneldo.",
     "Deja reposar el pavo 5 minutos tapado con papel de aluminio y córtalo en medallones de 1,5 cm. Sirve con las patatas y las judías al ladolemono."
   ],
   nutricion: { kcal: 515, prot: 48, hc: 42, grasa: 17 },
@@ -777,13 +777,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el cordero y salpimiéntalo. Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora los tacos 5-6 minutos, girándolos, hasta que estén tostados por todas las caras.",
-    "Baja el fuego, añade la parte verde de la cebolleta picada y la zanahoria en rodajas, remueve 2 minutos y agrega el tomate concentrado; remueve 1 minuto más.",
+    "Pica la parte verde de la cebolleta y corta la zanahoria en rodajas. Seca el cordero y salpimiéntalo. Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora los tacos 5-6 minutos, girándolos, hasta que estén tostados por todas las caras.",
+    "Baja el fuego, añade la cebolleta y la zanahoria, remueve 2 minutos y agrega el tomate concentrado; remueve 1 minuto más.",
     "Incorpora el tomate triturado, el agua, la canela y el laurel, y rasca el fondo para despegar lo dorado. Tapa y cuece a fuego muy suave 60 minutos, hasta que el cordero esté casi tierno.",
     "Mientras, corta la calabaza en dados de 3 cm.",
-    "Añade la calabaza al guiso, sala y cuece 20-25 minutos más, tapado, hasta que se pueda aplastar con una cuchara y algunos trozos se hayan deshecho en la salsa, espesándola.",
+    "Añade la calabaza al guiso, sala y cuece 20-25 minutos más, tapado, hasta que se pueda aplastar con una cuchara y algunos trozos se hayan deshecho en la salsa, espesándola. Mientras, pica la menta.",
     "Retira la canela y el laurel, prueba de sal y deja reposar 5 minutos. Mientras, tuesta el pan sin gluten.",
-    "Sirve en platos hondos con la menta picada por encima y el pan tostado para mojar."
+    "Sirve en platos hondos con la menta por encima y el pan tostado para mojar."
   ],
   nutricion: { kcal: 525, prot: 40, hc: 41, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "poco especiada", "batch cooking", "invierno"],
@@ -823,8 +823,8 @@ window.RECETAS_SEED.push({
     "Mientras se cuece, quita las semillas al pimiento y córtalo en tiras finas. Corta el tomate en dados y deja que suelten el agua en un colador. Escurre bien la patata.",
     "Calienta el aceite de oliva en una sartén antiadherente de 24 cm a fuego medio y saltea el pimiento 3 minutos. Añade la patata y dórala 5 minutos, removiendo, hasta que tenga los bordes tostados.",
     "Bate los huevos con sal, pimienta y la mitad del orégano, sin llegar a espumar.",
-    "Esparce el tomate sobre las verduras, vierte el huevo y baja el fuego al mínimo. Desmenuza la feta por encima, tapa y cuaja 5-6 minutos, hasta que los bordes estén firmes y el centro apenas tiemble.",
-    "Desliza la omeleta a un plato sin darle la vuelta. Termina con el resto del orégano y la menta en tiras finas, y córtala en cuñas."
+    "Esparce el tomate sobre las verduras, vierte el huevo y baja el fuego al mínimo. Desmenuza la feta por encima, tapa y cuaja 5-6 minutos, hasta que los bordes estén firmes y el centro apenas tiemble. Mientras, corta la menta en tiras finas.",
+    "Desliza la omeleta a un plato sin darle la vuelta. Termina con el resto del orégano y la menta, y córtala en cuñas."
   ],
   nutricion: { kcal: 375, prot: 20, hc: 27, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "una sola sartén"],
@@ -860,7 +860,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los tomates en rodajas gruesas y el pepino en bastones. Alíñalos en un plato con sal, unas gotas de limón y la mitad de la menta en tiras.",
+    "Corta la menta en tiras, los tomates en rodajas gruesas y el pepino en bastones. Alíñalos en un plato con sal, unas gotas de limón y la mitad de la menta.",
     "Calienta una sartén antiadherente grande a fuego medio sin grasa y dora las lonchas de halloumi 1-2 minutos por cada lado, hasta que tengan marcas doradas y empiecen a ablandarse. Resérvalas.",
     "Añade el aceite de oliva a la sartén, baja el fuego a medio-bajo y casca los huevos con cuidado. Tapa y cocina 3-4 minutos, hasta que la clara esté cuajada y blanca y la yema siga brillante.",
     "Mientras, tuesta el pan sin gluten en la tostadora.",
@@ -902,9 +902,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la ensalada: corta el tomate en gajos y el pepino en rodajas, y alíñalos con sal y el zumo del medio limón.",
+    "Pica el eneldo y ralla el queso. Prepara la ensalada: corta el tomate en gajos y el pepino en rodajas, y alíñalos con sal y el zumo del medio limón.",
     "En un bol, bate la harina de arroz con la leche hasta que no queden grumos. Añade los huevos, sal y pimienta y bate 1 minuto con varillas, hasta que la mezcla esté espumosa: así la kaigana sube y queda esponjosa.",
-    "Incorpora la mitad del eneldo picado y la mitad del queso rallado.",
+    "Incorpora la mitad del eneldo y la mitad del queso.",
     "Calienta el aceite en una sartén antiadherente de 24 cm a fuego medio. Vierte la mezcla, espera 30 segundos y, con una espátula, lleva los bordes cuajados hacia el centro un par de veces para que el huevo crudo ocupe su sitio.",
     "Baja el fuego, esparce el resto del queso, tapa y cocina 4-5 minutos, hasta que la superficie esté cuajada y la kaigana se haya hinchado ligeramente.",
     "Dóblala por la mitad sobre sí misma, deslízala a una tabla y córtala en dos. Sírvela con el eneldo restante por encima y la ensalada."
@@ -947,10 +947,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz bajo el grifo, frotándolo con los dedos, hasta que el agua salga casi clara, y escúrrelo bien.",
-    "Calienta el aceite de ajo y 1 cucharadita de aceite de oliva en un cazo a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto. Añade el arroz y remueve 1-2 minutos, hasta que los granos se vuelvan translúcidos por los bordes.",
+    "Lava el arroz bajo el grifo, frotándolo con los dedos, hasta que el agua salga casi clara, y escúrrelo bien. Pica la parte verde de la cebolleta.",
+    "Calienta el aceite de ajo y 1 cucharadita de aceite de oliva en un cazo a fuego medio y rehoga la cebolleta 1 minuto. Añade el arroz y remueve 1-2 minutos, hasta que los granos se vuelvan translúcidos por los bordes.",
     "Vierte el tomate triturado y el agua caliente, sala y añade pimienta. Cuando hierva, tapa y cuece 14 minutos a fuego mínimo sin destapar. Apaga y deja reposar 5 minutos con un paño limpio entre el cazo y la tapa: el paño absorbe el vapor y el pilafi queda suelto.",
-    "Mientras, corta el pepino en medias lunas finas y alíñalo con el zumo del medio limón, sal y la menta en tiras.",
+    "Mientras, corta el pepino en medias lunas finas y la menta en tiras, y alíñalos con el zumo del medio limón y sal.",
     "Calienta el resto del aceite en una sartén antiadherente a fuego medio-bajo, casca los huevos con cuidado, tapa y cuájalos 3-4 minutos, hasta que la clara esté blanca y firme y la yema siga brillante.",
     "Suelta el arroz con un tenedor y repártelo en los platos. Coloca dos huevos encima de cada uno, ralla la graviera por encima y espolvorea el orégano desmenuzado entre los dedos. Sirve con el pepino."
   ],
@@ -1035,10 +1035,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Envuelve el tofu en un paño limpio, pon un peso encima 10 minutos para que suelte el agua. Mientras, pela la patata y córtala en dados de 3 cm, corta la zanahoria en rodajas de 1 cm y pica la parte verde de la cebolleta. Corta el tofu en dados de 2,5 cm, sécalo y sálalo ligeramente.",
     "Calienta el aceite de oliva en una cazuela ancha a fuego medio-alto y dora el tofu 6-8 minutos, girándolo con una espátula, hasta que tenga una costra dorada por varias caras. Resérvalo en un plato.",
-    "Baja el fuego a medio, añade el aceite de ajo y la parte verde de la cebolleta picada y remueve 1 minuto. Incorpora la zanahoria y la patata y rehógalas 2 minutos, hasta que brillen.",
-    "Vierte el caldo caliente y el zumo de 1 limón, sala y añade pimienta. Tapa y cuece a fuego suave 20 minutos, hasta que la patata y la zanahoria estén tiernas al pincharlas.",
+    "Baja el fuego a medio, añade el aceite de ajo y la cebolleta y remueve 1 minuto. Incorpora la zanahoria y la patata y rehógalas 2 minutos, hasta que brillen.",
+    "Vierte el caldo caliente y el zumo de 1 limón, sala y añade pimienta. Tapa y cuece a fuego suave 20 minutos, hasta que la patata y la zanahoria estén tiernas al pincharlas. Mientras, pica el eneldo.",
     "Devuelve el tofu a la cazuela. Disuelve la maicena en 2 cucharadas de agua fría, añádela y mueve la cazuela en círculos 2-3 minutos, sin cuchara para no romper nada, hasta que la salsa espese, se vuelva brillante y nape las verduras.",
-    "Fuera del fuego, añade el eneldo picado (sin miedo, es el alma del plato) y deja reposar 5 minutos tapado. Sirve en platos hondos con gajos del medio limón restante."
+    "Fuera del fuego, añade el eneldo (sin miedo, es el alma del plato) y deja reposar 5 minutos tapado. Sirve en platos hondos con gajos del medio limón restante."
   ],
   nutricion: { kcal: 465, prot: 25, hc: 40, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "sin lácteos", "poco especiada", "bajo en colesterol", "una sola olla"],

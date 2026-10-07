@@ -43,10 +43,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo en el doble de su volumen de agua con sal, tapado y a fuego mínimo, 12 minutos. Apaga y déjalo reposar tapado.",
-    "Tritura los tomates, los dos pimientos (sin semillas) y el jengibre pelado sin añadir agua, hasta obtener un puré liso: es el «obe ata» base del plato, aquí sin guindilla.",
+    "Mientras se cuece el arroz, tritura los tomates, los dos pimientos (sin semillas) y el jengibre pelado sin añadir agua, hasta obtener un puré liso: es el «obe ata» base del plato, aquí sin guindilla.",
     "En una cazuela, calienta el aceite de ajo y el de palma a fuego medio, añade el puré, el laurel y el tomillo y cocina 15 minutos sin tapar, removiendo de vez en cuando, hasta que se reduzca a la mitad, espese y el aceite aflore brillante en los bordes.",
-    "Mientras, lava las espinacas, escáldalas 1 minuto en agua hirviendo, pásalas a agua fría y escúrrelas apretándolas con las manos para quitar toda el agua. Pícalas gruesas.",
-    "Desmiga la caballa ahumada en lascas y añádela a la salsa con la parte verde de la cebolleta picada. Cocina 3 minutos a fuego suave para que el ahumado perfume la salsa.",
+    "Mientras, lava las espinacas, escáldalas 1 minuto en agua hirviendo, pásalas a agua fría y escúrrelas apretándolas con las manos para quitar toda el agua. Pícalas gruesas. Pica también la parte verde de la cebolleta.",
+    "Desmiga la caballa ahumada en lascas y añádela a la salsa con la cebolleta. Cocina 3 minutos a fuego suave para que el ahumado perfume la salsa.",
     "Incorpora las espinacas, mezcla bien y cocina solo 3-4 minutos más: el efo riro debe quedar verde intenso, con la salsa abrazando las hojas y sin caldo en el fondo. Prueba de sal al final, porque el pescado ahumado ya es salado.",
     "Retira el laurel y sirve el guiso junto al arroz suelto."
   ],
@@ -87,9 +87,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y resérvalo escurrido.",
-    "Corta las zanahorias en bastones de 5 cm y las judías verdes en trozos de 4 cm. Pica la parte verde de la cebolleta, ralla el jengibre y abre las vainas de cardamomo para sacar las semillas; machácalas.",
+    "Corta las zanahorias en bastones de 5 cm y las judías verdes en trozos de 4 cm. Pica la parte verde de la cebolleta, ralla el jengibre y el tomate y abre las vainas de cardamomo para sacar las semillas; machácalas.",
     "En una cazuela, calienta el aceite de ajo y el de oliva a fuego medio-bajo y rehoga la cebolleta 3 minutos, sin que tome color. Añade el jengibre, la cúrcuma y el cardamomo y remueve 30 segundos, hasta que huela.",
-    "Incorpora las zanahorias con 100 ml de agua y sal, tapa y cuece 8 minutos. Añade las judías y el tomate rallado, tapa de nuevo y cocina 12 minutos más a fuego suave, hasta que todo esté muy tierno y la salsa se haya reducido a un jugo amarillo que nape las verduras.",
+    "Incorpora las zanahorias con 100 ml de agua y sal, tapa y cuece 8 minutos. Añade las judías y el tomate, tapa de nuevo y cocina 12 minutos más a fuego suave, hasta que todo esté muy tierno y la salsa se haya reducido a un jugo amarillo que nape las verduras.",
     "Mientras se hace la verdura, cuece el arroz en el doble de su volumen de agua con sal, tapado y a fuego mínimo, 12 minutos, y déjalo reposar tapado 5 minutos.",
     "Prueba la fosolia, ajusta de sal y termina con unas gotas de limón. Sírvela junto al arroz, con todo su jugo amarillo por encima."
   ],
@@ -132,8 +132,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en cuartos y cuécelas en agua con sal 18-20 minutos, hasta que se deshagan al pincharlas.",
-    "Mientras, haz el guiso: en un cazo, calienta la mitad del aceite de ajo a fuego medio y rehoga la mitad de la cebolleta picada, el jengibre rallado y la cúrcuma 1 minuto. Añade la zanahoria en dados pequeños y rehoga 3 minutos.",
-    "Incorpora el tomate rallado, sal y 100 ml de agua, tapa y cuece 15 minutos a fuego suave, hasta que la zanahoria esté tierna y la salsa espesa. Termina con el zumo del limón y la mitad del cilantro picado.",
+    "Mientras, pica la cebolleta, ralla el jengibre y el tomate, corta la zanahoria en dados pequeños y pica el cilantro. Haz el guiso: en un cazo, calienta la mitad del aceite de ajo a fuego medio y rehoga la mitad de la cebolleta, el jengibre y la cúrcuma 1 minuto. Añade la zanahoria y rehoga 3 minutos.",
+    "Incorpora el tomate, sal y 100 ml de agua, tapa y cuece 15 minutos a fuego suave, hasta que la zanahoria esté tierna y la salsa espesa. Termina con el zumo del limón y la mitad del cilantro.",
     "En los últimos 4 minutos de cocción de las patatas, añade las espinacas a la olla para que se ablanden. Escurre todo reservando un cazo del agua de cocción.",
     "En la misma olla, calienta el resto del aceite de ajo a fuego suave, rehoga el resto de la cebolleta 1 minuto y añade el maíz 1 minuto. Vuelve a poner las patatas y las espinacas y machácalo todo a mano con un pasapurés o un tenedor grande, añadiendo agua de cocción, hasta lograr un puré verde, rústico y uniforme. Salpimienta.",
     "Tuesta las pipas en una sartén sin grasa 2-3 minutos, hasta que se hinchen y empiecen a saltar.",
@@ -180,10 +180,10 @@ window.RECETAS_SEED.push({
     "Lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
     "Corta la calabaza en dados de 3 cm. Pica la cebolleta, ralla el jengibre y el tomate (desecha la piel) y aplasta las vainas de cardamomo con la hoja del cuchillo.",
     "En una cazuela, calienta el aceite de ajo a fuego medio-bajo y rehoga la cebolleta 2 minutos. Añade el jengibre, la cúrcuma, el cardamomo y la canela y remueve 30 segundos.",
-    "Incorpora el tomate y cocina 3 minutos. Añade la calabaza, sal y 150 ml de agua, tapa y cuece 12 minutos a fuego suave, hasta que los dados estén tiernos pero enteros.",
+    "Incorpora el tomate y cocina 3 minutos. Añade la calabaza, sal y 150 ml de agua, tapa y cuece 12 minutos a fuego suave, hasta que los dados estén tiernos pero enteros. Mientras, pica el cilantro.",
     "Vierte la leche de coco, mueve la cazuela en vaivén en lugar de remover (para no romper la calabaza) y cocina 4 minutos más sin tapa, hasta que la salsa espese y quede cremosa. Retira la canela y el cardamomo.",
     "Mientras, tuesta las pipas en una sartén sin grasa 2-3 minutos, hasta que se hinchen y empiecen a saltar.",
-    "Sirve la calabaza junto al arroz, con un chorrito de lima, el cilantro picado y las pipas por encima."
+    "Sirve la calabaza junto al arroz, con un chorrito de lima, el cilantro y las pipas por encima."
   ],
   nutricion: { kcal: 595, prot: 13, hc: 88, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica"],
@@ -218,8 +218,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Muele los cacahuetes en la batidora o el molinillo hasta obtener un polvo fino, sin llegar a pasta. Quita los tallos duros del kale y córtalo en tiras muy finas; pica gruesas las espinacas.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio-bajo y rehoga la cebolleta picada 2 minutos. Añade el tomate rallado y cocina 5 minutos, hasta que pierda el agua.",
+    "Muele los cacahuetes en la batidora o el molinillo hasta obtener un polvo fino, sin llegar a pasta. Quita los tallos duros del kale y córtalo en tiras muy finas; pica gruesas las espinacas. Pica la cebolleta y ralla el tomate.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio-bajo y rehoga la cebolleta 2 minutos. Añade el tomate y cocina 5 minutos, hasta que pierda el agua.",
     "Disuelve el cacahuete molido en 150 ml de agua caliente, viértelo en la cazuela y remueve sin parar 3 minutos: la salsa espesará y se volverá cremosa y anaranjada.",
     "Incorpora el kale con una pizca de sal, tapa y cocina 8 minutos a fuego suave, removiendo de vez en cuando. Añade las espinacas y cocina 3 minutos más, hasta que todo esté tierno y envuelto en la salsa. Mientras, pon a hervir 500 ml de agua con sal para la nshima.",
     "Para la nshima, deslíe un tercio de la harina en un poco de agua fría, añádela al agua hirviendo y cuece 5 minutos removiendo, como unas gachas.",
@@ -267,7 +267,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara las verduras: la calabaza y la patata en trozos de 4 cm, la zanahoria en rodajas gruesas, las judías en trozos de 4 cm, el pimiento en tiras anchas, el tomate en rodajas y el verde de la cebolleta picado. Deja las mazorquitas enteras.",
+    "Prepara las verduras: pela la patata y la zanahoria; corta la calabaza y la patata en trozos de 4 cm, la zanahoria en rodajas gruesas, las judías en trozos de 4 cm, el pimiento en tiras anchas y el tomate en rodajas, y pica el verde de la cebolleta. Deja las mazorquitas enteras.",
     "En una cazuela de hierro fundido o de fondo grueso con tapa, calienta el aceite de ajo a fuego medio, rehoga la cebolleta 1 minuto, añade el pimentón, remueve 10 segundos para que no se queme y aparta del fuego.",
     "Monta las capas de lo más duro a lo más tierno, salando cada una: la patata y la zanahoria abajo, después la calabaza, luego las judías, las mazorquitas y el pimiento, y el tomate cubriéndolo todo. Pon encima el tomillo y el laurel.",
     "Vierte el caldo caliente por un lado, tapa y cocina a fuego muy suave 40-45 minutos sin remover; solo sacude la cazuela de vez en cuando. Está listo cuando un cuchillo atraviese la patata del fondo sin resistencia.",
@@ -312,11 +312,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 10 minutos.",
-    "Mientras, lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
+    "Mientras, lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado. Durante la cocción, pica la cebolleta y el pimiento verde y ralla el jengibre y el tomate.",
     "Corta el tofu en triángulos de 1,5 cm de grosor y sálalo. Calienta una sartén antiadherente con el aceite de oliva a fuego medio-alto y dóralo 3-4 minutos por cada lado, sin moverlo, hasta que tenga una costra dorada. Resérvalo.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y el pimiento verde picados 4 minutos. Añade el jengibre rallado, el tomate rallado, el concentrado, el laurel y la nuez moscada.",
-    "Cocina la salsa 15 minutos sin tapar, removiendo de vez en cuando, hasta que espese y cambie de rojo vivo a un rojo más oscuro. Sala.",
-    "Mete el tofu en la salsa y cocina 5 minutos a fuego suave, dándole la vuelta con cuidado para que se empape. Apaga y añade la mitad de la albahaca en tiras.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y el pimiento verde 4 minutos. Añade el jengibre, el tomate, el concentrado, el laurel y la nuez moscada.",
+    "Cocina la salsa 15 minutos sin tapar, removiendo de vez en cuando, hasta que espese y cambie de rojo vivo a un rojo más oscuro. Sala. Mientras, corta la albahaca en tiras.",
+    "Mete el tofu en la salsa y cocina 5 minutos a fuego suave, dándole la vuelta con cuidado para que se empape. Apaga y añade la mitad de la albahaca.",
     "Sirve el tofu con su salsa junto al arroz y el resto de la albahaca por encima."
   ],
   nutricion: { kcal: 625, prot: 34, hc: 72, grasa: 22 },
@@ -359,7 +359,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C y pon a hervir un cazo de agua. Corta la patata y el boniato en gajos, mézclalos con el aceite de oliva y sal, y ásalos 30 minutos en una bandeja con papel, dándoles la vuelta a mitad, hasta que estén dorados.",
-    "Corta el tempeh en lonchas de 1 cm y cuécelas 8 minutos en el agua hirviendo: así se suaviza su amargor y absorbe mejor el adobo. Escúrrelo y adóbalo con el tamari, el zumo de una lima, el tomillo y la mitad del jengibre rallado.",
+    "Corta el tempeh en lonchas de 1 cm y cuécelas 8 minutos en el agua hirviendo: así se suaviza su amargor y absorbe mejor el adobo. Mientras, ralla todo el jengibre. Escurre el tempeh y adóbalo con el tamari, el zumo de una lima, el tomillo y la mitad del jengibre.",
     "Para el chatini, hidrata el coco rallado con 4 cucharadas de agua caliente 5 minutos. Tritúralo con la menta, el cilantro, la cebolleta, el resto del jengibre, el zumo de media lima y sal, hasta obtener una pasta verde y granulosa.",
     "Corta el tomate y el pepino en dados y alíñalos con sal y el zumo de la media lima restante.",
     "Calienta la plancha a fuego medio-alto y marca el tempeh 3 minutos por lado, pincelándolo con el adobo sobrante, hasta que esté dorado y ligeramente lacado.",
@@ -401,11 +401,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la yuca en trozos de 6 cm, retira la fibra dura del centro y cuécela en agua con sal 20-25 minutos, hasta que esté tierna pero firme (la yuca siempre debe ir bien cocida). Escúrrela y déjala enfriar extendida.",
-    "Mientras, pon el bacalao en un cazo con agua fría, llévalo a un hervor suave y retíralo del fuego a los 5 minutos. Sácalo, desmígalo en lascas y reserva 4 cucharadas del agua de cocción.",
+    "Mientras, pon el bacalao en un cazo con agua fría, llévalo a un hervor suave y retíralo del fuego a los 5 minutos. Sácalo, desmígalo en lascas y reserva 4 cucharadas del agua de cocción. Corta la parte verde de la cebolleta en aros finos, el tomate en gajos y el pepino en medias lunas.",
     "Corta la yuca fría en tiras finas, como fideos gruesos, con un cuchillo o un rallador de agujero grande.",
     "Prepara el aliño: templa el aceite de palma en un cazo a fuego mínimo solo hasta que se funda. Fuera del fuego, bátelo con el aceite de oliva, el agua de cocción del bacalao, la nuez moscada, sal y pimienta, hasta que emulsione en una crema anaranjada.",
-    "Mezcla las tiras de yuca con el aliño y la parte verde de la cebolleta en aros finos, hasta que todas queden teñidas.",
-    "Reparte la yuca en platos, añade las espinacas baby, el tomate en gajos, el pepino en medias lunas y el bacalao por encima. Sirve templada o a temperatura ambiente."
+    "Mezcla las tiras de yuca con el aliño y la cebolleta, hasta que todas queden teñidas.",
+    "Reparte la yuca en platos, añade las espinacas baby, el tomate, el pepino y el bacalao por encima. Sirve templada o a temperatura ambiente."
   ],
   nutricion: { kcal: 445, prot: 22, hc: 62, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "ideal para llevar"],
@@ -487,11 +487,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Extiéndelo en una bandeja para que se enfríe.",
-    "Abre la media vaina de vainilla a lo largo, raspa las semillas con la punta del cuchillo y mézclalas con 1 cucharada y media de aceite, el zumo de la lima, el jengibre rallado muy fino y sal. Bate hasta que la vinagreta se vea moteada de negro.",
+    "Mientras se cuece el arroz, abre la media vaina de vainilla a lo largo y raspa las semillas con la punta del cuchillo. Ralla muy fino el jengibre y mézclalo con las semillas, 1 cucharada y media de aceite, el zumo de la lima y sal. Bate hasta que la vinagreta se vea moteada de negro.",
     "Pela la naranja a lo vivo, saca los gajos sin piel y exprime lo que queda sobre la vinagreta.",
     "Seca los langostinos con papel de cocina. Calienta una sartén con el resto del aceite y la vaina raspada a fuego fuerte y márcalos 1 minuto por cada lado, hasta que estén rosados y curvados. Sálalos y retira la vaina.",
-    "Corta la lechuga en tiras y el pepino en láminas finas. Mezcla el arroz frío con 2 cucharadas de vinagreta.",
-    "Monta los platos con la lechuga, el pepino, el arroz y los gajos de naranja, coloca los langostinos templados encima, riega con el resto de la vinagreta y termina con cebollino picado y pimienta recién molida."
+    "Corta la lechuga en tiras y el pepino en láminas finas y pica el cebollino. Mezcla el arroz frío con 2 cucharadas de vinagreta.",
+    "Monta los platos con la lechuga, el pepino, el arroz y los gajos de naranja, coloca los langostinos templados encima, riega con el resto de la vinagreta y termina con el cebollino y pimienta recién molida."
   ],
   nutricion: { kcal: 430, prot: 27, hc: 50, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "para invitados", "verano"],
@@ -532,10 +532,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y córtalas por la mitad.",
-    "Mientras, abre las pechugas en filetes de 1,5 cm de grosor y adóbalas con el cilantro molido, el pimentón, la ralladura de medio limón, 1 cucharada de aceite, sal y pimienta. Déjalas 10 minutos.",
-    "Ralla la zanahoria fina y corta la piña en dados pequeños. Mezcla en un bol con el zumo de media naranja, el yogur y una pizca de sal: debe quedar jugosa y ligada, sin caldo.",
+    "Mientras, abre las pechugas en filetes de 1,5 cm de grosor. Ralla la piel de medio limón y adóbalas con el cilantro molido, el pimentón, la ralladura, 1 cucharada de aceite, sal y pimienta. Déjalas 10 minutos.",
+    "Ralla la zanahoria fina y corta la piña en dados pequeños. Mezcla en un bol con el zumo de media naranja, el yogur y una pizca de sal: debe quedar jugosa y ligada, sin caldo. Pica el perejil.",
     "Calienta la plancha a fuego medio-alto y haz el pollo 4 minutos por cada lado, hasta que esté dorado y el centro ya no esté rosado. Déjalo reposar 2 minutos y córtalo en tiras.",
-    "Aliña las patatas tibias con el resto del aceite, el zumo de medio limón, sal y el perejil picado.",
+    "Aliña las patatas tibias con el resto del aceite, el zumo de medio limón, sal y el perejil.",
     "Sirve sobre hojas de lechuga la wortelslaai, las patatas y el pollo, con unas gotas de limón por encima."
   ],
   nutricion: { kcal: 550, prot: 42, hc: 63, grasa: 14 },
@@ -574,9 +574,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a calentar el agua en un cazo. Corta el solomillo en dados de 1,5 cm y sálalo. Separa los tallos del pak choi de las hojas y córtalos en trozos; pica las hojas, las espinacas y los berros gruesos.",
+    "Pon a calentar el agua en un cazo. Corta el solomillo en dados de 1,5 cm y sálalo. Separa los tallos del pak choi de las hojas y córtalos en trozos; pica las hojas, las espinacas y los berros gruesos. Corta el jengibre en tiras finas, pica la cebolleta y ralla el tomate.",
     "En una cazuela, calienta el aceite de ajo a fuego medio-alto y dora el cerdo 4 minutos, hasta que tome color por todos los lados.",
-    "Baja el fuego, añade el jengibre en tiras finas, la cebolleta picada y el tomate rallado, y cocina 4 minutos, hasta que el tomate se vuelva salsa.",
+    "Baja el fuego, añade el jengibre, la cebolleta y el tomate, y cocina 4 minutos, hasta que el tomate se vuelva salsa.",
     "Incorpora el arroz lavado y el agua caliente. Cuece 20 minutos a fuego suave, removiendo de vez en cuando para que no se pegue: el grano debe quedar muy tierno y el conjunto caldoso, como unas gachas sueltas.",
     "Añade los tallos del pak choi y cocina 4 minutos. Incorpora las hojas de pak choi, las espinacas y los berros, remueve y cocina 2-3 minutos más, solo hasta que las hojas se ablanden y conserven su verde.",
     "Rectifica de sal y pimienta y sirve en cuencos hondos, bien caliente. Si espesa demasiado, añade un poco de agua caliente."
@@ -619,12 +619,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la salsa: calienta el aceite de ajo en una cazuela a fuego medio y rehoga la cebolleta y el pimiento verde picados 5 minutos. Añade el tomate pelado y troceado, el azúcar, el tomillo, sal y pimienta y cocina 15 minutos, hasta que quede una salsa espesa con tropezones.",
+    "Pica la cebolleta y el pimiento verde y pela y trocea el tomate. Prepara la salsa: calienta el aceite de ajo en una cazuela a fuego medio y rehoga la cebolleta y el pimiento 5 minutos. Añade el tomate, el azúcar, el tomillo, sal y pimienta y cocina 15 minutos, hasta que quede una salsa espesa con tropezones.",
     "Mientras, precalienta el horno a 200 °C y pon a hervir el agua con sal en otra cazuela. Echa la harina en forma de lluvia batiendo con varillas para que no se formen grumos, baja el fuego al mínimo, tapa y cuece 15 minutos, removiendo con una cuchara de madera cada 5 minutos, hasta que esté espesa y firme. Añade la mantequilla.",
     "Mezcla el maíz con la salsa de tomate.",
     "Engrasa ligeramente una fuente de unos 20 x 15 cm. Extiende la mitad del pap aplanándolo con una espátula mojada, cúbrelo con la mitad de la salsa, pon encima el resto del pap y termina con el resto de la salsa.",
-    "Reparte el queso rallado por encima y hornea 20 minutos, hasta que los bordes burbujeen y el queso esté dorado.",
-    "Deja reposar 5 minutos para que asiente, corta en porciones y sirve con cebollino picado."
+    "Reparte el queso rallado por encima y hornea 20 minutos, hasta que los bordes burbujeen y el queso esté dorado. Mientras, pica el cebollino.",
+    "Deja reposar 5 minutos para que asiente, corta en porciones y sirve con el cebollino."
   ],
   nutricion: { kcal: 550, prot: 17, hc: 74, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "al horno", "poco especiada", "para niños", "económica"],
@@ -709,12 +709,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para los espaguetis. Mientras, ralla la zanahoria, corta el pimiento en tiras finas y pica la cebolleta. Ralla el tomate y desecha la piel.",
+    "Pon a hervir abundante agua con sal para los espaguetis. Mientras, ralla la zanahoria y el jengibre, corta el pimiento en tiras finas y pica la cebolleta y el perejil. Ralla el tomate y desecha la piel.",
     "Cuece los espaguetis en el agua hirviendo 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua y escúrrelos.",
-    "Mientras se cuecen, en una sartén grande, calienta el aceite de ajo a fuego medio y rehoga el pimiento, la zanahoria y la cebolleta 4 minutos. Añade el jengibre rallado, el tomate, el concentrado y el laurel y cocina 6 minutos, hasta que la salsa espese.",
+    "Mientras se cuecen, en una sartén grande, calienta el aceite de ajo a fuego medio y rehoga el pimiento, la zanahoria y la cebolleta 4 minutos. Añade el jengibre, el tomate, el concentrado y el laurel y cocina 6 minutos, hasta que la salsa espese.",
     "Incorpora las sardinas en trozos grandes y caliéntalas 1 minuto, sin remover demasiado para que no se deshagan.",
     "Añade los espaguetis y un chorrito del agua reservada y saltea 3 minutos a fuego medio-alto, levantándolos con unas pinzas, hasta que absorban la salsa y algunos tomen un ligero tostado en el fondo.",
-    "Retira el laurel, rectifica de sal y pimienta y sirve con perejil picado."
+    "Retira el laurel, rectifica de sal y pimienta y sirve con el perejil."
   ],
   nutricion: { kcal: 540, prot: 22, hc: 77, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "rápida", "poco especiada", "económica"],
@@ -800,12 +800,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el mijo y escúrrelo bien. Tuéstalo en la cazuela sin grasa a fuego medio 3-4 minutos, removiendo, hasta que esté seco, chisporrotee y huela a fruto seco.",
-    "Añade el aceite de ajo, la cebolleta picada y la mitad del jengibre rallado y remueve 1 minuto.",
+    "Pica la cebolleta y ralla el jengibre. Lava el mijo y escúrrelo bien. Tuéstalo en la cazuela sin grasa a fuego medio 3-4 minutos, removiendo, hasta que esté seco, chisporrotee y huela a fruto seco.",
+    "Añade el aceite de ajo, la cebolleta y la mitad del jengibre y remueve 1 minuto.",
     "Vierte un tercio del caldo caliente y cuece a fuego suave, removiendo de vez en cuando. Cuando lo absorba, añade otro tercio, y luego el resto: en 20-22 minutos el grano estará tierno y cremoso, con algo de caldo todavía.",
-    "Mientras, sala la merluza, cúbrela con la ralladura de la lima y el resto del jengibre, y córtala en dos raciones.",
+    "Mientras, ralla la piel de la lima y pica el cilantro. Sala la merluza, cúbrela con la ralladura y el resto del jengibre, y córtala en dos raciones.",
     "Incorpora la leche de coco y las espinacas al mijo y remueve 1 minuto hasta que empiecen a ablandarse. Coloca la merluza encima, tapa y cocina 6-7 minutos a fuego mínimo, hasta que el pescado esté opaco y se separe en lascas.",
-    "Sirve el mijo con la merluza encima, rociada con zumo de lima, pimienta y cilantro picado."
+    "Sirve el mijo con la merluza encima, rociada con zumo de lima, pimienta y el cilantro."
   ],
   nutricion: { kcal: 530, prot: 35, hc: 56, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "una sola sartén"],
@@ -846,9 +846,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz la mantequilla especiada: funde la mantequilla a fuego mínimo con el cardamomo aplastado, el clavo, el tomillo y la mitad del jengibre en láminas. Déjala 5 minutos, hasta que espume y huela, sin que se tueste. Cuélala y resérvala caliente.",
+    "Haz la mantequilla especiada: funde la mantequilla a fuego mínimo con el cardamomo aplastado, el clavo, el tomillo y la mitad del jengibre en láminas. Déjala 5 minutos, hasta que espume y huela, sin que se tueste; mientras, pica la cebolleta y el resto del jengibre y ralla el tomate. Cuela la mantequilla y resérvala caliente.",
     "Tuesta el teff en una cazuela seca 2 minutos, hasta que crepite. Añade el caldo caliente y sal, y cuece tapado a fuego suave 15-18 minutos, removiendo de vez en cuando para que no se pegue, hasta que quede espeso y cremoso como una polenta.",
-    "Mientras, quita los tallos al kale y córtalo en tiras finas. En una sartén, calienta el aceite de ajo y rehoga la cebolleta y el resto del jengibre 2 minutos. Añade el tomate rallado y cocina 5 minutos; incorpora el kale con sal y cocina 6 minutos tapado, hasta que esté tierno. Mientras, pon a hervir agua en un cazo con el vinagre.",
+    "Mientras, quita los tallos al kale y córtalo en tiras finas. En una sartén, calienta el aceite de ajo y rehoga la cebolleta y el resto del jengibre 2 minutos. Añade el tomate y cocina 5 minutos; incorpora el kale con sal y cocina 6 minutos tapado, hasta que esté tierno. Mientras, pon a hervir agua en un cazo con el vinagre.",
     "Cuando hierva el agua del cazo, baja a un hervor muy suave. Casca cada huevo en una taza, crea un remolino con una cuchara y desliza el huevo en el centro. Escálfalo 3 minutos, hasta que la clara esté cuajada y la yema líquida. Sácalo con una espumadera.",
     "Mezcla la mitad de la mantequilla especiada con el teff.",
     "Sirve el teff en platos hondos, el kale con tomate al lado, el huevo encima y el resto de la mantequilla especiada por encima, con pimienta."
@@ -888,7 +888,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pollo en una cazuela con el jengibre rallado, la cebolleta picada, el aceite de ajo y sal. Tapa y cocínalo a fuego suave 10 minutos en su propio jugo, removiendo un par de veces: es el «steaming» ghanés que da sabor al caldo.",
+    "Ralla el jengibre y pica la cebolleta. Pon el pollo en una cazuela con el jengibre, la cebolleta, el aceite de ajo y sal. Tapa y cocínalo a fuego suave 10 minutos en su propio jugo, removiendo un par de veces: es el «steaming» ghanés que da sabor al caldo.",
     "Añade el agua, los tomates enteros y el laurel, y cuece 10 minutos. Saca los tomates, tritúralos con el concentrado y vuelve a echarlos a la cazuela.",
     "Disuelve la crema de cacahuete en un cazo de caldo caliente, batiendo hasta que quede lisa, e incorpórala a la sopa.",
     "Cuece 30 minutos sin tapar a fuego medio-bajo, removiendo de vez en cuando, hasta que la sopa espese ligeramente, se vuelva anaranjada y aparezcan gotitas de aceite de cacahuete en la superficie. Rectifica de sal.",
@@ -934,12 +934,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el cordero en dados de 1,5 cm. Pica la cebolleta y ponla en una cazuela en seco a fuego medio-bajo 3 minutos, removiendo, hasta que se marchite: así empiezan los guisos etíopes. Añade el aceite de ajo.",
-    "Sube el fuego, añade el cordero y dóralo 5 minutos. Incorpora el jengibre rallado, el pimentón y la cúrcuma y remueve 30 segundos sin que se quemen.",
-    "Agrega el tomate rallado y el concentrado y cocina 5 minutos. Cubre con el agua caliente, sala y cuece tapado a fuego suave 35 minutos, hasta que el cordero esté tierno.",
-    "Añade la zanahoria y la patata en dados pequeños y cuece 15 minutos más.",
+    "Corta el cordero en dados de 1,5 cm y ralla el jengibre y el tomate. Pica la cebolleta y ponla en una cazuela en seco a fuego medio-bajo 3 minutos, removiendo, hasta que se marchite: así empiezan los guisos etíopes. Añade el aceite de ajo.",
+    "Sube el fuego, añade el cordero y dóralo 5 minutos. Incorpora el jengibre, el pimentón y la cúrcuma y remueve 30 segundos sin que se quemen.",
+    "Agrega el tomate y el concentrado y cocina 5 minutos. Cubre con el agua caliente, sala y cuece tapado a fuego suave 35 minutos, hasta que el cordero esté tierno. Mientras, pela la zanahoria y la patata y córtalas en dados pequeños, pica el cilantro y corta el limón en gajos.",
+    "Añade la zanahoria y la patata y cuece 15 minutos más.",
     "Incorpora la avena en forma de lluvia, removiendo, y cocina 8-10 minutos, hasta que la sopa espese y quede sedosa. Si se espesa demasiado, añade un poco de agua caliente.",
-    "Sirve muy caliente con cilantro picado y un gajo de limón para exprimir en la mesa."
+    "Sirve muy caliente con el cilantro y un gajo de limón para exprimir en la mesa."
   ],
   nutricion: { kcal: 460, prot: 32, hc: 45, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "invierno"],
@@ -978,11 +978,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
-    "Corta el jengibre en bastoncitos finos, pica la cebolleta y el tomate. Separa los tallos del pak choi y córtalos en trozos; trocea las hojas y las espinacas.",
+    "Mientras se cuece el arroz, corta el jengibre en bastoncitos finos, pica la cebolleta y el tomate. Separa los tallos del pak choi y córtalos en trozos; trocea las hojas y las espinacas.",
     "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta, el jengibre y el tomillo 2 minutos. Añade el tomate y cocina 3 minutos más.",
-    "Vierte el agua, sala y cuece 10 minutos a fuego suave para que el caldo tome sabor.",
+    "Vierte el agua, sala y cuece 10 minutos a fuego suave para que el caldo tome sabor. Mientras, corta la lubina en dados de 3 cm y sazónalos.",
     "Añade los tallos del pak choi y cuece 3 minutos. Incorpora las hojas y las espinacas y cuece 2 minutos: deben quedar de un verde vivo.",
-    "Baja el fuego al mínimo, añade la lubina en dados de 3 cm sazonados y déjala 3-4 minutos sin que el caldo hierva, hasta que esté opaca. Retira las ramas de tomillo.",
+    "Baja el fuego al mínimo, añade la lubina y déjala 3-4 minutos sin que el caldo hierva, hasta que esté opaca. Retira las ramas de tomillo.",
     "Sirve el caldo con las hojas y el pescado en cuencos, con el arroz aparte para ir mojándolo como se hace en Mauricio, y pimienta recién molida."
   ],
   nutricion: { kcal: 455, prot: 36, hc: 53, grasa: 11 },
@@ -1026,9 +1026,9 @@ window.RECETAS_SEED.push({
     "Pon el morcillo entero en una cazuela con el agua fría, el laurel, el tomillo y sal. Llévalo a ebullición, retira la espuma y cuece tapado a fuego suave 75 minutos, hasta que la carne esté muy tierna.",
     "Mientras, pela y corta en dados de 2 cm la zanahoria, el nabo y la patata. Corta las judías en trozos de 2 cm y ralla el tomate.",
     "Saca la carne y deshiláchala con dos tenedores. Añade al caldo la zanahoria, el nabo y la patata y cuece 20 minutos.",
-    "Incorpora las judías y el tomate y cuece 10 minutos más, hasta que todas las verduras estén muy tiernas. Retira el laurel.",
+    "Incorpora las judías y el tomate y cuece 10 minutos más, hasta que todas las verduras estén muy tiernas. Retira el laurel. Mientras, pica la cebolleta.",
     "Saca la mitad de las verduras con un cazo de caldo y tritúralas hasta obtener un puré fino. Devuélvelo a la cazuela con la carne: la sopa quedará espesa y con tropezones.",
-    "En una sartén pequeña, calienta el aceite de ajo y rehoga la cebolleta picada 1 minuto; añádela a la sopa. Rectifica de sal y pimienta.",
+    "En una sartén pequeña, calienta el aceite de ajo y rehoga la cebolleta 1 minuto; añádela a la sopa. Rectifica de sal y pimienta.",
     "Tuesta el pan y sírvelo junto a la sopa bien caliente."
   ],
   nutricion: { kcal: 470, prot: 33, hc: 57, grasa: 12 },
@@ -1070,9 +1070,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta los tomates por la mitad, el pimiento en tiras y la zanahoria en rodajas finas. Colócalo todo en una bandeja con el jengibre en láminas y el tomillo, riega con el aceite de ajo y sala.",
-    "Asa 30 minutos, hasta que los tomates estén arrugados y con los bordes oscuros y la zanahoria tierna. Mientras, tuesta las pipas en una sartén sin grasa 2-3 minutos hasta que se hinchen.",
+    "Asa 30 minutos, hasta que los tomates estén arrugados y con los bordes oscuros y la zanahoria tierna. Mientras, tuesta las pipas en una sartén sin grasa 2-3 minutos hasta que se hinchen y pica la cebolleta.",
     "Pasa las verduras (sin las ramas de tomillo) a una cazuela con el caldo caliente y el laurel, y cuece 5 minutos. Retira el laurel y tritura hasta que quede muy fino.",
-    "Cuela la crema por un colador para quitar pieles y semillas: quedará sedosa y más digestiva. Vuelve a ponerla al fuego, añade la cebolleta picada y deja que dé un hervor. Rectifica de sal.",
+    "Cuela la crema por un colador para quitar pieles y semillas: quedará sedosa y más digestiva. Vuelve a ponerla al fuego, añade la cebolleta y deja que dé un hervor. Rectifica de sal.",
     "Templa el aceite de palma solo hasta que se funda. Tuesta el pan.",
     "Sirve la crema con una cucharada de yogur, las pipas, unas gotas del aceite de palma por encima y el pan al lado."
   ],
@@ -1114,12 +1114,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la yuca en dados de 2 cm quitando la fibra central. Cuécela en agua con sal 10 minutos y escúrrela, desechando el agua.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta picada y el jengibre rallado 2 minutos. Añade el cilantro molido y el tomate rallado y cocina 3 minutos.",
-    "Vierte el caldo caliente, añade la yuca y la zanahoria en rodajas y cuece 15 minutos a fuego suave, hasta que la yuca esté tierna y empiece a deshacerse por los bordes.",
-    "Mientras, corta el pavo en tiras finas y quita los tallos al kale; córtalo en tiras.",
+    "Corta la yuca en dados de 2 cm quitando la fibra central. Cuécela en agua con sal 10 minutos y escúrrela, desechando el agua. Mientras se cuece, pica la cebolleta, ralla el jengibre y el tomate y corta la zanahoria en rodajas.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y el jengibre 2 minutos. Añade el cilantro molido y el tomate y cocina 3 minutos.",
+    "Vierte el caldo caliente, añade la yuca y la zanahoria y cuece 15 minutos a fuego suave, hasta que la yuca esté tierna y empiece a deshacerse por los bordes.",
+    "Mientras, corta el pavo en tiras finas y quita los tallos al kale; córtalo en tiras. Pica el cilantro fresco.",
     "Añade el kale a la sopa y cuece 5 minutos. Incorpora el pavo salpimentado y cuece 4 minutos más a fuego suave, hasta que esté blanco por dentro y tierno.",
-    "Apaga el fuego, añade el zumo del limón y rectifica de sal. Sirve con abundante cilantro fresco picado."
+    "Apaga el fuego, añade el zumo del limón y rectifica de sal. Sirve con abundante cilantro fresco por encima."
   ],
   nutricion: { kcal: 485, prot: 43, hc: 61, grasa: 8 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína", "de cuchara", "económica"],

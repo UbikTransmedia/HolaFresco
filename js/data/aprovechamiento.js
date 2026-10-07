@@ -36,8 +36,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Si el dal sobrante está caldoso, ponlo en un cazo a fuego medio 5-8 minutos, removiendo, hasta que quede como un puré espeso que no gotea de la cuchara. Déjalo enfriar: caliente ablandaría la masa.",
-    "En un bol mezcla la harina con una cucharadita de sal, el comino en grano, la mitad del cilantro picado y el chile picado sin semillas. Añade el dal frío y amasa, agregando el agua poco a poco, hasta tener una masa suave que no se pegue a las manos. Tápala y déjala reposar 15 minutos.",
+    "Si el dal sobrante está caldoso, ponlo en un cazo a fuego medio 5-8 minutos, removiendo, hasta que quede como un puré espeso que no gotea de la cuchara. Déjalo enfriar: caliente ablandaría la masa. Mientras se enfría, pica el cilantro y el chile sin semillas.",
+    "En un bol mezcla la harina con una cucharadita de sal, el comino en grano, la mitad del cilantro y el chile. Añade el dal frío y amasa, agregando el agua poco a poco, hasta tener una masa suave que no se pegue a las manos. Tápala y déjala reposar 15 minutos.",
     "Mientras, prepara la raita: ralla el pepino, apriétalo entre las manos para quitarle el agua y mézclalo con el yogur, el comino molido y una pizca de sal. Corta la cebolla morada en plumas finas y alíñala con el zumo del limón y sal: en 15 minutos estará rosa y suave.",
     "Divide la masa en 6 bolas. Enharina la mesa y estira cada una en un círculo de unos 18 cm y 2-3 mm de grosor; si se pega, espolvorea más harina integral.",
     "Calienta una sartén grande sin grasa a fuego medio-alto. Pon una paratha y cuécela 1 minuto, hasta que salgan burbujas; dale la vuelta y cuece 1 minuto más.",
@@ -127,10 +127,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre bien los garbanzos y sécalos con papel de cocina; si vienen de un guiso, enjuágalos antes para quitar la salsa. Ralla la cebolla y apriétala con las manos para eliminar el jugo: el agua es lo que hace que las croquetas se rompan.",
+    "Escurre bien los garbanzos y sécalos con papel de cocina; si vienen de un guiso, enjuágalos antes para quitar la salsa. Ralla la cebolla y apriétala con las manos para eliminar el jugo: el agua es lo que hace que las croquetas se rompan. Pica el perejil, la menta y el eneldo.",
     "Aplasta los garbanzos con un tenedor o tritúralos a golpes cortos en la picadora junto con el ajo, dejando algo de textura: no buscas un puré fino.",
-    "Mezcla los garbanzos con la cebolla, el perejil y la menta picados, el comino, sal, pimienta y la harina. La masa debe poder formar bolas sin pegarse; si está húmeda, añade otra cucharada de harina. Forma 10 tortitas de 1,5 cm de grosor y déjalas 10 minutos en la nevera para que se asienten.",
-    "Mientras, mezcla el yogur con el eneldo picado, el zumo del medio limón y una pizca de sal. Corta el tomate y el pepino en dados y alíñalos con 1 cucharada del aceite, el orégano y sal.",
+    "Mezcla los garbanzos con la cebolla, el perejil, la menta, el comino, sal, pimienta y la harina. La masa debe poder formar bolas sin pegarse; si está húmeda, añade otra cucharada de harina. Forma 10 tortitas de 1,5 cm de grosor y déjalas 10 minutos en la nevera para que se asienten.",
+    "Mientras, mezcla el yogur con el eneldo, el zumo del medio limón y una pizca de sal. Corta el tomate y el pepino en dados y alíñalos con 1 cucharada del aceite, el orégano y sal.",
     "Calienta el resto del aceite en una sartén a fuego medio-alto. Fríe las tortitas 3 minutos por cada lado, sin moverlas, hasta que tengan una costra dorada oscura.",
     "Escúrrelas sobre papel de cocina y sírvelas calientes con la salsa de yogur y la ensalada."
   ],
@@ -175,10 +175,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Pinta las tortillas con muy poco aceite por las dos caras y hornéalas sobre la rejilla 8-10 minutos, hasta que estén rígidas y crujientes: son tus tostadas. Las tortillas secas quedan mejor que las frescas.",
     "Mientras, pica fina la cebolla y el ajo y sofríelos en una sartén con el resto del aceite a fuego medio 5 minutos.",
-    "Ralla los tomates (desecha la piel) y añádelos con el laurel y el orégano. Cuece 8 minutos, hasta que la salsa espese y el aceite asome por los bordes.",
-    "Añade las aceitunas en rodajas, las alcaparras, los jalapeños picados y una cucharada de su vinagre. Cocina 2 minutos.",
+    "Ralla los tomates (desecha la piel) y añádelos con el laurel y el orégano. Cuece 8 minutos, hasta que la salsa espese y el aceite asome por los bordes. Mientras, corta las aceitunas en rodajas, pica los jalapeños y el cilantro y corta la lima en gajos.",
+    "Añade las aceitunas, las alcaparras, los jalapeños y una cucharada de su vinagre. Cocina 2 minutos.",
     "Desmenuza el pescado con los dedos, buscando cualquier espina que quede, e incorpóralo. Saltea 3-4 minutos removiendo hasta que absorba la salsa: la minilla debe quedar jugosa pero no caldosa. Prueba de sal y retira el laurel.",
-    "Sirve la minilla sobre las tostadas con láminas de aguacate, cilantro picado y gajos de lima para exprimir al momento."
+    "Corta el aguacate en láminas y sirve la minilla sobre las tostadas con el aguacate, el cilantro y los gajos de lima para exprimir al momento."
   ],
   nutricion: { kcal: 615, prot: 40, hc: 50, grasa: 28 },
   etiquetas: ["aprovechamiento", "tradicional", "sin gluten", "picante"],
@@ -219,12 +219,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Aplasta la patata con un tenedor y mézclala con el pescado desmenuzado, las alcaparras picadas, el perejil picado, la harissa, la ralladura del limón, sal y pimienta. Divide el relleno en 4 porciones.",
-    "Prepara la ensalada: tomate, pepino y cebolla morada en dados pequeños, aliñados con zumo de medio limón, comino, sal y una cucharada del aceite.",
+    "Pica las alcaparras y el perejil, ralla la piel del limón y desmenuza el pescado. Aplasta la patata con un tenedor y mézclala con el pescado, las alcaparras, el perejil, la harissa, la ralladura, sal y pimienta. Divide el relleno en 4 porciones.",
+    "Prepara la ensalada: corta en dados pequeños el tomate, el pepino y la cebolla morada y alíñalos con el zumo de medio limón, el comino, sal y una cucharada del aceite. Corta el otro medio limón en gajos.",
     "Calienta el resto del aceite en una sartén ancha (1 cm de altura) a fuego medio-alto, hasta unos 170 °C: un trozo de pan debe dorarse en 30 segundos.",
     "Pon una hoja de brick en un plato hondo. Coloca una porción de relleno en una mitad formando un nido y casca un huevo dentro. Dobla la hoja en media luna sobre el relleno y presiona los bordes para sellarla.",
     "Desliza el brick con cuidado en el aceite y fríelo 1-1,5 minutos por cada lado, regándolo con aceite por encima, hasta que esté dorado. Así la yema queda líquida. Escúrrelo sobre papel de cocina.",
-    "Repite con los demás (puedes freír dos a la vez si caben) y sirve enseguida con gajos de limón y la ensalada. Se comen con las manos, empezando por una esquina."
+    "Repite con los demás (puedes freír dos a la vez si caben) y sirve enseguida con los gajos de limón y la ensalada. Se comen con las manos, empezando por una esquina."
   ],
   nutricion: { kcal: 645, prot: 40, hc: 48, grasa: 33 },
   etiquetas: ["aprovechamiento", "creativa", "para invitados", "crujiente"],
@@ -313,8 +313,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Desmenuza el pan duro y remójalo en la leche 10 minutos; luego apriétalo con las manos para escurrirlo bien.",
-    "Mientras se remoja, pica muy fina la carne y la mortadela a cuchillo o con la picadora a golpes cortos, sin convertirla en pasta.",
-    "En un bol mezcla la carne, la mortadela, el pan, el huevo, el parmesano rallado, el perejil picado, la ralladura del limón, la nuez moscada, sal y pimienta. Amasa hasta que esté compacta; si queda blanda, añade una cucharada del pan rallado.",
+    "Mientras se remoja, pica muy fina la carne y la mortadela a cuchillo o con la picadora a golpes cortos, sin convertirla en pasta. Ralla el parmesano y la piel del limón y pica el perejil.",
+    "En un bol mezcla la carne, la mortadela, el pan, el huevo, el parmesano, el perejil, la ralladura del limón, la nuez moscada, sal y pimienta. Amasa hasta que esté compacta; si queda blanda, añade una cucharada del pan rallado.",
     "Forma 10-12 bolas, aplástalas un poco (los mondeghili son achatados) y rebózalas en el pan rallado.",
     "Prepara la ensalada: corta el hinojo en láminas finísimas, pela la naranja a vivo y saca los gajos, pica las barbas del hinojo y aliña con 1 cucharada de aceite, unas gotas de zumo de limón y sal.",
     "Calienta la mantequilla con el resto del aceite (así no se quema) en una sartén a fuego medio. Cuando haga espuma, dora los mondeghili 3-4 minutos por cada lado, hasta que tengan una costra dorada.",
@@ -354,11 +354,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz en un colador hasta que el agua salga casi clara. Ponlo en un cazo con 200 ml de agua, lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos. Apaga y deja reposar 10 minutos sin destapar.",
-    "Mientras, calienta los filetes empanados 5 minutos en el horno a 200 °C o en una sartén seca, para que la costra recupere algo de crujiente. Córtalos en tiras de 2 cm.",
-    "En una sartén pequeña (ideal una por ración) mezcla la mitad del dashi, la soja, el mirin y el azúcar. Llévalo a ebullición, añade la mitad de la cebolla en plumas finas y cuece 4 minutos, hasta que esté tierna.",
+    "Mientras, calienta los filetes empanados 5 minutos en el horno a 200 °C o en una sartén seca, para que la costra recupere algo de crujiente. Córtalos en tiras de 2 cm. Corta la cebolla en plumas finas y pica la parte verde de la cebolleta.",
+    "En una sartén pequeña (ideal una por ración) mezcla la mitad del dashi, la soja, el mirin y el azúcar. Llévalo a ebullición, añade la mitad de la cebolla y cuece 4 minutos, hasta que esté tierna.",
     "Coloca encima la mitad de las tiras de cerdo. Bate ligeramente 1,5 huevos (que se distingan clara y yema) y viértelos alrededor de la carne, no encima, para que la costra no se empape del todo.",
     "Tapa y cocina 1 minuto a fuego medio, hasta que el huevo esté medio cuajado y brillante. Desliza todo sobre un cuenco de arroz caliente con su caldo.",
-    "Repite con la otra ración y termina con la cebolleta picada."
+    "Repite con la otra ración y termina con la cebolleta."
   ],
   nutricion: { kcal: 770, prot: 41, hc: 87, grasa: 28 },
   etiquetas: ["aprovechamiento", "tradicional", "para niños", "sin verduras", "poco especiada"],
@@ -398,11 +398,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las tortillas en 6 triángulos, mézclalas en un bol con 1,5 cucharadas de aceite y sal y extiéndelas en una bandeja. Hornea 12-15 minutos, dándoles la vuelta a mitad, hasta que estén crujientes y doradas: son los totopos.",
-    "Mientras, pon en un cazo los tomates verdes (si son de bote, escurridos), los chiles, la cebolla y el ajo, cubre con agua y cuece 8 minutos, hasta que los tomates pasen de verde vivo a verde oliva.",
+    "Mientras, pon en un cazo los tomates verdes (si son de bote, escurridos), los chiles, la cebolla y el ajo, cubre con agua y cuece 8 minutos, hasta que los tomates pasen de verde vivo a verde oliva. Mientras cuecen, corta la cebolla morada en aros finos y desmenuza el queso fresco.",
     "Escúrrelos y tritúralos con la mitad del cilantro, sal y un chorrito del caldo hasta obtener una salsa fina.",
     "Calienta el resto del aceite en una cazuela ancha y vierte la salsa (salpica). Fríela 3 minutos removiendo, hasta que se oscurezca un poco y espese. Añade el caldo y el pollo y deja hervir 3 minutos.",
     "Apaga el fuego, incorpora los totopos y mezcla 1 minuto: deben quedar cubiertos de salsa, unos todavía crujientes y otros ya blandos. No esperes más o se convierten en papilla.",
-    "Sirve enseguida con la crema agria, el queso fresco desmenuzado, la cebolla morada en aros finos y el resto del cilantro."
+    "Sirve enseguida con la crema agria, el queso fresco, la cebolla morada y el resto del cilantro."
   ],
   nutricion: { kcal: 670, prot: 40, hc: 58, grasa: 30 },
   etiquetas: ["aprovechamiento", "tradicional", "sin gluten", "picante", "económica"],
@@ -445,12 +445,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en cuartos y cuécelas en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, corta las cebollas en plumas finas y póchalas en una sartén con la mantequilla a fuego medio 20 minutos, removiendo de vez en cuando, hasta que estén muy blandas y doradas.",
+    "Mientras, corta las cebollas en plumas finas y póchalas en una sartén con la mantequilla a fuego medio 20 minutos, removiendo de vez en cuando, hasta que estén muy blandas y doradas. Mientras se pochan, corta la carne en lonchas de 1 cm a contrahebra, para que no se deshilache, corta los pepinillos en rodajas y pica el perejil.",
     "Espolvorea la harina sobre la cebolla y remueve 1 minuto. Añade el vinagre y deja que se evapore 30 segundos; incorpora el tomate concentrado, el caldo, el laurel y el tomillo. Cuece 5 minutos hasta que la salsa ligue. Fuera del fuego, añade la mostaza, sal y pimienta y retira el laurel.",
-    "Corta la carne en lonchas de 1 cm a contrahebra, para que no se deshilache.",
-    "En una fuente de horno pon la mitad de la salsa, coloca encima las lonchas solapadas y cubre con el resto de la salsa. Reparte los pepinillos en rodajas, si los usas, y espolvorea el pan rallado.",
+    "En una fuente de horno pon la mitad de la salsa, coloca encima las lonchas solapadas y cubre con el resto de la salsa. Reparte los pepinillos, si los usas, y espolvorea el pan rallado.",
     "Hornea 20 minutos, hasta que la salsa burbujee por los bordes y la superficie esté dorada. La carne se empapa y queda tierna.",
-    "Sirve con las patatas cocidas y perejil picado por encima, mojando las patatas en la salsa."
+    "Sirve con las patatas cocidas y el perejil por encima, mojando las patatas en la salsa."
   ],
   nutricion: { kcal: 710, prot: 58, hc: 60, grasa: 26 },
   etiquetas: ["aprovechamiento", "tradicional", "al horno", "invierno", "batch cooking", "poco especiada"],
@@ -492,11 +491,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Bate en un plato hondo los huevos con la leche, la mostaza, la nuez moscada, sal y pimienta.",
-    "Lamina los champiñones y saltéalos en una sartén con 1 cucharada de aceite a fuego fuerte 5 minutos, sin removerlos al principio, hasta que estén dorados y sin agua. Añade el ajo picado y las hojas de tomillo 1 minuto y luego las espinacas, solo hasta que se marchiten. Sala y reserva.",
+    "Bate en un plato hondo los huevos con la leche, la mostaza, la nuez moscada, sal y pimienta. Pica el ajo y ralla el queso.",
+    "Lamina los champiñones y saltéalos en una sartén con 1 cucharada de aceite a fuego fuerte 5 minutos, sin removerlos al principio, hasta que estén dorados y sin agua. Añade el ajo y las hojas de tomillo 1 minuto y luego las espinacas, solo hasta que se marchiten. Sala y reserva.",
     "Empapa las rebanadas de pan en la mezcla de huevo 1 minuto por cada lado; si el pan está muy duro, 2 minutos. Deben quedar empapadas pero sin romperse.",
     "Limpia la sartén, funde la mantequilla a fuego medio y dora las rebanadas 3 minutos por cada lado, hasta que tengan una costra dorada y el centro esté cuajado, como una torrija.",
-    "Reparte encima las setas con espinacas y el queso rallado, tapa la sartén y deja 1-2 minutos, hasta que el queso se funda.",
+    "Reparte encima las setas con espinacas y el queso, tapa la sartén y deja 1-2 minutos, hasta que el queso se funda.",
     "Aliña los canónigos con el resto del aceite, el vinagre y sal, y sirve dos rebanadas por persona con la ensalada."
   ],
   nutricion: { kcal: 710, prot: 32, hc: 50, grasa: 42 },
@@ -538,12 +537,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los dados de pan en un bol grande. Calienta la leche hasta que esté tibia, sin que hierva, viértela por encima y mezcla. Déjalo 10 minutos para que el pan la absorba.",
-    "Pica fina la cebolla. Pocha la mitad en una sartén con 10 g de mantequilla a fuego medio 5 minutos, hasta que esté transparente.",
-    "Añade al pan la cebolla pochada, los huevos, la mitad del perejil picado, la nuez moscada, sal y pimienta. Amasa con las manos hasta que todo se una en una masa que se pueda moldear; si está muy húmeda, añade 1 cucharada de harina. Déjala reposar 15 minutos y, mientras, pon a hervir abundante agua con sal en una cazuela ancha.",
+    "Pon los dados de pan en un bol grande. Calienta la leche hasta que esté tibia, sin que hierva, viértela por encima y mezcla. Déjalo 10 minutos para que el pan la absorba; mientras, pica fina la cebolla y pica el perejil.",
+    "Pocha la mitad de la cebolla en una sartén con 10 g de mantequilla a fuego medio 5 minutos, hasta que esté transparente.",
+    "Añade al pan la cebolla pochada, los huevos, la mitad del perejil, la nuez moscada, sal y pimienta. Amasa con las manos hasta que todo se una en una masa que se pueda moldear; si está muy húmeda, añade 1 cucharada de harina. Déjala reposar 15 minutos y, mientras, pon a hervir abundante agua con sal en una cazuela ancha y lamina los champiñones.",
     "Con las manos mojadas, forma 6 bolas del tamaño de una mandarina, apretando bien para que no tengan grietas.",
     "Baja el fuego para que el agua apenas tiemble (si hierve a borbotones, se deshacen) y cuece las bolas 18-20 minutos. Están listas cuando suben a la superficie y al partir una el centro está firme.",
-    "Mientras, prepara la salsa: funde el resto de la mantequilla en la sartén, pocha el resto de la cebolla 3 minutos y añade los champiñones laminados. Saltéalos a fuego fuerte 6 minutos, hasta que se doren y se evapore su agua.",
+    "Mientras, prepara la salsa: funde el resto de la mantequilla en la sartén, pocha el resto de la cebolla 3 minutos y añade los champiñones. Saltéalos a fuego fuerte 6 minutos, hasta que se doren y se evapore su agua.",
     "Espolvorea 1 cucharada de harina y el pimentón y remueve 1 minuto. Vierte el caldo y la nata y cuece 5 minutos, hasta que la salsa cubra el dorso de una cuchara. Sazona con sal, pimienta y unas gotas de zumo de limón.",
     "Escurre los knödel con una espumadera y sirve tres por persona, abiertos por la mitad y bañados en la salsa, con el resto del perejil por encima."
   ],
@@ -677,8 +676,8 @@ window.RECETAS_SEED.push({
     "Pinta las pieles por dentro y por fuera con 1 cucharada de aceite y sálalas. Hornéalas 15 minutos boca abajo y 5 minutos boca arriba, hasta que estén muy crujientes.",
     "Mientras, pica la cebolla, el pimiento y el ajo y sofríelos en una sartén con el resto del aceite 6 minutos. Añade el comino, el pimentón, la cayena y el orégano y remueve 30 segundos.",
     "Incorpora el tomate, las alubias y la pulpa de patata desmenuzada, que espesará el chili. Cuece 10 minutos a fuego medio, removiendo, hasta que quede espeso. Prueba de sal.",
-    "Aplasta el aguacate con el zumo de lima y una pizca de sal.",
-    "Rellena las pieles con el chili y hornéalas 5 minutos más. Sírvelas con el aguacate y la cebolleta en aros finos por encima."
+    "Abre el aguacate y aplasta la pulpa con el zumo de lima y una pizca de sal. Corta la cebolleta en aros finos.",
+    "Rellena las pieles con el chili y hornéalas 5 minutos más. Sírvelas con el aguacate y la cebolleta por encima."
   ],
   nutricion: { kcal: 695, prot: 20, hc: 90, grasa: 28 },
   etiquetas: ["aprovechamiento", "creativa", "vegana", "sin gluten", "al horno", "para niños"],
@@ -764,12 +763,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Rompe o corta el pan duro en trozos de 2-3 cm. Cuanto más seco esté, mejor aguantará la salsa sin deshacerse.",
-    "Pica muy fina la cebolla y ponla en una cazuela a fuego medio sin nada de grasa, removiendo 5 minutos, hasta que suelte su agua y se ablande: es la técnica etíope para que la salsa quede espesa y dulce. Añade 2 cucharadas de aceite y sigue 8-10 minutos, hasta que esté muy blanda y dorada.",
-    "Incorpora el ajo y el jengibre rallados y el berbere y remueve 1 minuto, sin que se queme.",
+    "Pica muy fina la cebolla y ponla en una cazuela a fuego medio sin nada de grasa, removiendo 5 minutos, hasta que suelte su agua y se ablande: es la técnica etíope para que la salsa quede espesa y dulce. Añade 2 cucharadas de aceite y sigue 8-10 minutos, hasta que esté muy blanda y dorada. Mientras, ralla el ajo y el jengibre.",
+    "Incorpora el ajo, el jengibre y el berbere y remueve 1 minuto, sin que se queme.",
     "Añade el tomate triturado y cuece 5 minutos. Vierte el caldo, los garbanzos y sal y cocina 8 minutos, hasta tener una salsa roja algo espesa.",
-    "Mientras, prepara la ensalada: tomate en dados, cebolla morada picada, chile en rodajas finas, zumo de medio limón, el resto del aceite y sal.",
+    "Mientras, prepara la ensalada: corta el tomate en dados, pica la cebolla morada y corta el chile en rodajas finas; alíñalo con el zumo de medio limón, el resto del aceite y sal. Corta el otro medio limón en gajos.",
     "Apaga el fuego, añade el pan y mezcla 2-3 minutos, hasta que absorba la salsa pero mantenga algo de forma.",
-    "Sirve el fit-fit caliente con la ensalada por encima y gajos de limón."
+    "Sirve el fit-fit caliente con la ensalada por encima y los gajos de limón."
   ],
   nutricion: { kcal: 695, prot: 22, hc: 90, grasa: 28 },
   etiquetas: ["aprovechamiento", "creativa", "vegana", "picante", "económica"],
@@ -811,10 +810,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta el coco en una sartén seca a fuego medio 3-4 minutos, removiendo sin parar, hasta que esté dorado y huela a galleta. Pásalo a un plato.",
-    "Hierve agua en un cazo, cuece las judías verdes cortadas en trozos de 2 cm 3 minutos y, en el mismo agua, las gambas 1-2 minutos, hasta que estén rosadas. Escurre y enfría todo con agua fría.",
-    "Prepara el aliño: mezcla la salsa de pescado, el zumo de la lima, el azúcar moreno y el chile picado, removiendo hasta que se disuelva el azúcar.",
-    "Pela el pomelo a vivo y separa la pulpa en trozos. Corta el pepino en dados. Quita las capas duras de la hierba limón y corta el corazón tierno en rodajas finísimas, igual que las hojas de lima si las usas.",
-    "Desgrana el arroz frío con los dedos y repártelo en el centro de dos platos. Alrededor coloca en montoncitos las gambas, las judías, los brotes de soja, el pepino, el pomelo, la hierba limón, el coco, los cacahuetes picados y las hojas de menta.",
+    "Pon a hervir agua en un cazo y, mientras se calienta, corta las judías verdes en trozos de 2 cm. Cuécelas 3 minutos y, en la misma agua, las gambas 1-2 minutos, hasta que estén rosadas. Escurre y enfría todo con agua fría.",
+    "Prepara el aliño: pica el chile y mézclalo con la salsa de pescado, el zumo de la lima y el azúcar moreno, removiendo hasta que se disuelva el azúcar.",
+    "Pela el pomelo a vivo y separa la pulpa en trozos. Corta el pepino en dados. Quita las capas duras de la hierba limón y corta el corazón tierno en rodajas finísimas, igual que las hojas de lima si las usas. Pica los cacahuetes y deshoja la menta.",
+    "Desgrana el arroz frío con los dedos y repártelo en el centro de dos platos. Alrededor coloca en montoncitos las gambas, las judías, los brotes de soja, el pepino, el pomelo, la hierba limón, el coco, los cacahuetes y las hojas de menta.",
     "Lleva el aliño a la mesa: cada uno lo vierte por encima y mezcla todo justo antes de comer."
   ],
   nutricion: { kcal: 565, prot: 33, hc: 65, grasa: 19 },
@@ -855,9 +854,9 @@ window.RECETAS_SEED.push({
     "Corta las hojas y los tallos de la remolacha dejando 2 cm pegados a la raíz (así no sangra al cocerla). Lava bien todo. Cuece las remolachas en agua con sal 35-40 minutos, hasta que un cuchillo entre sin resistencia; enfríalas un poco y pélalas frotando con los dedos.",
     "Mientras, prepara los picatostes: dora los dados de pan en una sartén con 1 cucharada de aceite y el ajo machacado a fuego medio 5 minutos, removiendo, hasta que estén crujientes. Sala y retira el ajo.",
     "Corta los tallos en trozos de 3 cm y las hojas en tiras anchas. En la misma sartén con media cucharada de aceite, saltea los tallos 3 minutos y las hojas 1-2 minutos más, hasta que se marchiten. Sala y añade unas gotas de vinagre.",
-    "Pela las naranjas a vivo y saca los gajos sobre un bol para recoger el zumo; exprime después las membranas.",
+    "Pela las naranjas a vivo y saca los gajos sobre un bol para recoger el zumo; exprime después las membranas. Trocea las nueces.",
     "Prepara la vinagreta con ese zumo, el resto del vinagre, la mostaza, el resto del aceite, sal y pimienta.",
-    "Monta la ensalada: las hojas templadas en la base, la remolacha en gajos, la naranja, el queso de cabra desmenuzado, las nueces troceadas y los picatostes. Aliña con la vinagreta al servir."
+    "Corta la remolacha en gajos y monta la ensalada: las hojas templadas en la base, la remolacha, la naranja, el queso de cabra desmenuzado, las nueces y los picatostes. Aliña con la vinagreta al servir."
   ],
   nutricion: { kcal: 590, prot: 19, hc: 47, grasa: 36 },
   etiquetas: ["aprovechamiento", "creativa", "vegetariana", "otoño", "invierno", "superalimentos", "poco especiada"],
@@ -895,8 +894,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las zanahorias por la mitad a lo largo y el bulbo de hinojo en gajos (reserva sus barbas). Mézclalos con 1 cucharada del aceite y sal y ásalos 25 minutos, hasta que estén tiernos y caramelizados por los bordes.",
-    "Pon a hervir abundante agua con sal para la pasta. Cuando hierva, escalda las hojas de zanahoria y las barbas del hinojo 20 segundos y pásalas a un bol con agua helada: así pierden el amargor y conservan el verde. Escúrrelas y apriétalas bien.",
-    "Tritura las hojas con las nueces, el ajo, la mitad del parmesano rallado, la ralladura y el zumo del medio limón, el resto del aceite y 2 cucharadas de agua fría, hasta tener un pesto espeso. Prueba de sal.",
+    "Pon a hervir abundante agua con sal para la pasta; mientras se calienta, ralla el parmesano y la piel del medio limón. Cuando hierva, escalda las hojas de zanahoria y las barbas del hinojo 20 segundos y pásalas a un bol con agua helada: así pierden el amargor y conservan el verde. Escúrrelas y apriétalas bien.",
+    "Tritura las hojas con las nueces, el ajo, la mitad del parmesano, la ralladura y el zumo del medio limón, el resto del aceite y 2 cucharadas de agua fría, hasta tener un pesto espeso. Prueba de sal.",
     "Cuece los fusilli en la misma agua el tiempo que indique el paquete (10-11 minutos). Reserva un vaso de agua de cocción antes de escurrir.",
     "Fuera del fuego, mezcla la pasta con el pesto y un chorrito del agua de cocción, removiendo hasta que la salsa quede cremosa y brillante.",
     "Sirve con las zanahorias y el hinojo asados por encima, el resto del parmesano y pimienta recién molida."
@@ -940,12 +939,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el arroz en el microondas con 2 cucharadas de agua 2-3 minutos, hasta que humee: así es seguro y vuelve a estar tierno. Aplástalo un poco con el dorso de una cuchara para que quede algo cremoso y déjalo templar 5 minutos.",
+    "Calienta el arroz en el microondas con 2 cucharadas de agua 2-3 minutos, hasta que humee: así es seguro y vuelve a estar tierno. Aplástalo un poco con el dorso de una cuchara para que quede algo cremoso y déjalo templar 5 minutos. Mientras, pica finos el jengibre y el chile, corta el pepino en dados pequeños, ralla la zanahoria, desgrana la granada y pica el cilantro.",
     "Mezcla el yogur con la leche y sal y añádelo al arroz. Remueve hasta tener una textura de risotto suelto; si espesa demasiado, añade un chorrito más de leche.",
     "Prepara el tadka: calienta el aceite en una sartén pequeña y añade la mostaza. Cuando empiece a saltar, añade el comino y los anacardos y remueve 1 minuto, hasta que estén dorados.",
-    "Echa las hojas de curry, el jengibre y el chile picados finos y remueve 30 segundos.",
-    "Vierte el tadka chisporroteante sobre el arroz y mezcla. Incorpora el pepino en dados pequeños y la zanahoria rallada.",
-    "Sirve a temperatura ambiente o fresco, con los granos de granada y el cilantro picado por encima."
+    "Echa las hojas de curry, el jengibre y el chile y remueve 30 segundos.",
+    "Vierte el tadka chisporroteante sobre el arroz y mezcla. Incorpora el pepino y la zanahoria.",
+    "Sirve a temperatura ambiente o fresco, con los granos de granada y el cilantro por encima."
   ],
   nutricion: { kcal: 575, prot: 16, hc: 82, grasa: 20 },
   etiquetas: ["aprovechamiento", "tradicional", "rápida", "sin gluten", "vegetariana", "verano", "bajo en colesterol"],
@@ -982,13 +981,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con poca sal: las anchoas ya salan bastante. Remoja las pasas en agua caliente.",
+    "Pon a hervir abundante agua con poca sal: las anchoas ya salan bastante. Remoja las pasas en agua caliente. Mientras se calienta el agua, lamina el ajo y pica el perejil.",
     "Ralla el pan duro grueso o tritúralo a golpes cortos. Tuéstalo en una sartén con 1,5 cucharadas de aceite a fuego medio 5-6 minutos, removiendo sin parar, hasta que tenga color avellana y huela a pan tostado. Pásalo a un plato: en la sartén caliente se quemaría.",
     "Cuece los espaguetis el tiempo que indique el paquete menos 1 minuto. Reserva un vaso de agua de cocción.",
-    "Mientras, en la misma sartén calienta el resto del aceite con el ajo laminado y la guindilla 1 minuto a fuego suave. Añade las anchoas y deshazlas con una cuchara de madera 2 minutos, sin que lleguen a freírse.",
+    "Mientras, en la misma sartén calienta el resto del aceite con el ajo y la guindilla 1 minuto a fuego suave. Añade las anchoas y deshazlas con una cuchara de madera 2 minutos, sin que lleguen a freírse.",
     "Disuelve el tomate concentrado en medio vaso del agua de cocción y añádelo con las pasas escurridas y los piñones. Cuece 2 minutos.",
     "Echa los espaguetis escurridos a la sartén y saltéalos 1 minuto con otro chorrito de agua de cocción, hasta que la salsa los envuelva y brillen.",
-    "Sirve con abundantes migas tostadas y perejil picado por encima, en el último momento para que crujan."
+    "Sirve con abundantes migas tostadas y el perejil por encima, en el último momento para que crujan."
   ],
   nutricion: { kcal: 815, prot: 22, hc: 96, grasa: 38 },
   etiquetas: ["aprovechamiento", "tradicional", "rápida", "económica", "sin verduras"],
@@ -1028,13 +1027,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C con el gratinador.",
+    "Precalienta el horno a 220 °C con el gratinador. Pica la cebolla y el perejil y lamina los champiñones.",
     "Haz la bechamel: funde 20 g de mantequilla, añade la harina y cocina 2 minutos removiendo. Vierte la leche poco a poco y cuece 7 minutos, hasta que espese. Sazona con sal, pimienta blanca y nuez moscada.",
-    "En una sartén, funde el resto de la mantequilla y pocha la cebolla picada 3 minutos. Añade los champiñones laminados y saltéalos 4 minutos a fuego fuerte, hasta que se doren. Agrega las gambas y cocínalas 1-2 minutos, solo hasta que estén rosadas. Sala.",
+    "En una sartén, funde el resto de la mantequilla y pocha la cebolla 3 minutos. Añade los champiñones y saltéalos 4 minutos a fuego fuerte, hasta que se doren. Agrega las gambas y cocínalas 1-2 minutos, solo hasta que estén rosadas. Sala.",
     "Saca las gambas y la mitad de los champiñones y mézclalos con la bechamel.",
     "En la sartén con el resto del salteado, añade el arroz y la soja y saltea 2 minutos, deshaciendo los grumos, hasta que esté caliente y suelto.",
     "Reparte el arroz en dos fuentes individuales (o una mediana), cubre con la bechamel de gambas y espolvorea el queso y el panko.",
-    "Gratina 12-15 minutos, hasta que burbujee y tenga manchas doradas. Sirve con perejil picado."
+    "Gratina 12-15 minutos, hasta que burbujee y tenga manchas doradas. Sirve con el perejil por encima."
   ],
   nutricion: { kcal: 745, prot: 42, hc: 77, grasa: 29 },
   etiquetas: ["aprovechamiento", "tradicional", "al horno", "para niños", "poco especiada"],
@@ -1072,11 +1071,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela los tallos de brócoli con un pelador (la piel exterior es fibrosa) y córtalos en rodajas. Corta el puerro en rodajas y la patata en dados.",
-    "Rehoga el puerro y el ajo laminado en la cazuela con 1 cucharada de aceite a fuego medio 5 minutos, sin que tomen color. Añade los tallos y la patata y remueve 3 minutos.",
-    "Vierte el caldo, añade la corteza de parmesano y sala con moderación (la corteza sala). Cuece 20 minutos a fuego suave, hasta que los tallos estén muy tiernos. Añade las alubias los últimos 5 minutos.",
+    "Pela los tallos de brócoli con un pelador (la piel exterior es fibrosa) y córtalos en rodajas. Corta el puerro en rodajas, la patata en dados y lamina el ajo.",
+    "Rehoga el puerro y el ajo en la cazuela con 1 cucharada de aceite a fuego medio 5 minutos, sin que tomen color. Añade los tallos y la patata y remueve 3 minutos.",
+    "Vierte el caldo, añade la corteza de parmesano y sala con moderación (la corteza sala). Cuece 20 minutos a fuego suave, hasta que los tallos estén muy tiernos. Añade las alubias los últimos 5 minutos. Mientras cuece, ralla el parmesano y la piel del medio limón.",
     "Retira la corteza: estará blanda; córtala en daditos y vuelve a echarla, o cómetela, que es un premio. Tritura hasta obtener una crema muy fina, ajusta la textura con caldo o agua y añade la ralladura y unas gotas de zumo del limón.",
-    "Haz el crujiente: en una sartén antiadherente a fuego medio pon dos montoncitos de parmesano rallado y déjalos 2-3 minutos, hasta que burbujeen y se doren. Sácalos con una espátula; al enfriarse 1 minuto quedan crujientes.",
+    "Haz el crujiente: en una sartén antiadherente a fuego medio pon dos montoncitos de parmesano y déjalos 2-3 minutos, hasta que burbujeen y se doren. Sácalos con una espátula; al enfriarse 1 minuto quedan crujientes.",
     "Sirve la crema con el crujiente de queso, un hilo del resto del aceite y pimienta recién molida."
   ],
   nutricion: { kcal: 495, prot: 25, hc: 41, grasa: 25 },
@@ -1118,12 +1117,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la carne en tiras, las salchichas en rodajas y el bacon en tiras finas.",
-    "Pon el bacon en una cazuela a fuego medio 3 minutos, hasta que suelte la grasa. Añade la cebolla en plumas finas y póchala 6 minutos, hasta que esté dorada.",
-    "Agrega el tomate concentrado y remueve 2 minutos, hasta que se oscurezca un poco: así pierde el sabor crudo. Incorpora los pepinillos en tiras finas y rehoga 2 minutos.",
-    "Vierte el caldo, añade el laurel, la carne y las salchichas y deja hervir suavemente 15 minutos.",
-    "Añade las aceitunas en rodajas, las alcaparras y la salmuera de los pepinillos poco a poco, probando: la sopa debe quedar agria y salada a la vez. Cuece 5 minutos más y ajusta de sal solo al final.",
-    "Sirve en platos hondos con una rodaja de limón, una cucharada de crema agria, eneldo picado y pimienta recién molida. Exprime el limón en la sopa al comerla."
+    "Corta la carne en tiras, las salchichas en rodajas, el bacon en tiras finas, la cebolla en plumas finas y los pepinillos en tiras finas.",
+    "Pon el bacon en una cazuela a fuego medio 3 minutos, hasta que suelte la grasa. Añade la cebolla y póchala 6 minutos, hasta que esté dorada.",
+    "Agrega el tomate concentrado y remueve 2 minutos, hasta que se oscurezca un poco: así pierde el sabor crudo. Incorpora los pepinillos y rehoga 2 minutos.",
+    "Vierte el caldo, añade el laurel, la carne y las salchichas y deja hervir suavemente 15 minutos. Mientras, corta las aceitunas y el limón en rodajas y pica el eneldo.",
+    "Añade las aceitunas, las alcaparras y la salmuera de los pepinillos poco a poco, probando: la sopa debe quedar agria y salada a la vez. Cuece 5 minutos más y ajusta de sal solo al final.",
+    "Sirve en platos hondos con una rodaja de limón, una cucharada de crema agria, el eneldo y pimienta recién molida. Exprime el limón en la sopa al comerla."
   ],
   nutricion: { kcal: 560, prot: 36, hc: 15, grasa: 39 },
   etiquetas: ["aprovechamiento", "tradicional", "de cuchara", "invierno", "keto", "poco especiada"],

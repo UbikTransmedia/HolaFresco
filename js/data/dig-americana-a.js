@@ -44,9 +44,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca la carne del bogavante: separa la cola del cuerpo, corta la parte inferior del caparazón con unas tijeras y extrae la cola entera; rompe las pinzas y los nudillos con el dorso de un cuchillo y saca la carne con cuidado de no dejar trozos de cartílago.",
-    "Corta la carne en trozos de unos 2 cm (las pinzas, enteras o en mitades) y sécala con papel de cocina: si queda agua, la mayonesa se aguará.",
+    "Corta la carne en trozos de unos 2 cm (las pinzas, enteras o en mitades) y sécala con papel de cocina: si queda agua, la mayonesa se aguará. Pica fino el cebollino.",
     "En un bol, mezcla la mayonesa con la ralladura de medio limón, una cucharadita de su zumo, la mitad del cebollino picado fino, una pizca de sal y pimienta blanca. Añade el bogavante y envuélvelo con una espátula, sin aplastarlo. Guárdalo 10 minutos en la nevera.",
-    "Prepara la ensalada: corta el pepino y la zanahoria en cintas finas con un pelador, alíñalas con el vinagre, una pizca de sal y el eneldo picado y déjalas reposar mientras terminas.",
+    "Mientras reposa, prepara la ensalada: pica el eneldo, corta el pepino y la zanahoria en cintas finas con un pelador y alíñalas con el vinagre, una pizca de sal y el eneldo picado; déjalas reposar mientras terminas.",
     "Abre los panes por arriba sin separar las mitades. Unta con la mantequilla las caras exteriores y dóralos en una sartén a fuego medio 1-2 minutos por lado, hasta que estén crujientes y dorados por fuera y tiernos por dentro.",
     "Pon una hoja de lechuga dentro de cada pan, rellénalo generosamente con el bogavante frío y termina con el resto del cebollino y unas gotas de limón.",
     "Sirve enseguida, con el contraste del pan caliente y el relleno frío, y la ensalada de pepino al lado."
@@ -90,7 +90,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava las patatas nuevas y cuécelas enteras con piel en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. En los últimos 5 minutos añade a la misma olla las judías verdes despuntadas.",
-    "Mientras, mezcla la crema agria con la mayonesa, la parte verde de la cebolleta en aros finos, la mitad del cebollino picado, la ralladura de medio limón, una pizca de sal y pimienta blanca.",
+    "Mientras, corta en aros finos la parte verde de la cebolleta y pica el cebollino y el eneldo. Mezcla la crema agria con la mayonesa, la cebolleta, la mitad del cebollino, la ralladura de medio limón, una pizca de sal y pimienta blanca.",
     "Unta una fuente pequeña con 1 cucharadita de aceite, coloca los lomos de rodaballo secos y salados y riégalos con un chorrito de limón. Cúbrelos por completo con la mezcla cremosa, que hará de manta y evitará que se sequen.",
     "Mezcla el pan rallado con el pimentón y la otra cucharadita de aceite con los dedos hasta que parezca arena húmeda, y espárcelo por encima.",
     "Hornea 14-16 minutos, hasta que la cubierta burbujee por los bordes, las migas estén doradas y la carne del centro esté blanca y se separe en lascas al presionarla.",
@@ -135,11 +135,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y las zanahorias, córtalas en trozos de 3 cm y cuécelas en agua con sal (o al vapor) 18-20 minutos, hasta que estén tiernas.",
-    "Mientras, pon la leche con el laurel en una cazuela ancha; cuando empiece a humear, añade el bacalao cortado en 4 trozos y escálfalo 5 minutos a fuego muy suave, sin que hierva. Sácalo con una espumadera y reserva la leche (sin el laurel).",
+    "Mientras, pon la leche con el laurel en una cazuela ancha y corta el bacalao en 4 trozos; cuando la leche empiece a humear, añade el bacalao y escálfalo 5 minutos a fuego muy suave, sin que hierva. Sácalo con una espumadera y reserva la leche (sin el laurel).",
     "Precalienta el horno a 220 °C con el grill. En la misma cazuela, derrite la mantequilla, añade la harina de arroz y remueve 1 minuto. Vierte la leche de escalfar poco a poco, batiendo, y cuece 3-4 minutos hasta que napee la cuchara.",
     "Fuera del fuego, añade dos tercios del cheddar, la nuez moscada, pimienta blanca y sal si hace falta (el queso ya sala): debe quedar una salsa lisa y brillante.",
     "Desmenuza el bacalao en lascas grandes en una fuente de horno, cúbrelo con la salsa y espolvorea el resto del cheddar mezclado con el pan rallado.",
-    "Gratina 8-10 minutos en la parte alta del horno, hasta que la superficie esté dorada y burbujeante.",
+    "Gratina 8-10 minutos en la parte alta del horno, hasta que la superficie esté dorada y burbujeante. Mientras, pica el perejil.",
     "Sirve con las patatas y las zanahorias espolvoreadas con perejil picado, que absorben la salsa que sobra."
   ],
   nutricion: { kcal: 555, prot: 45, hc: 53, grasa: 18 },
@@ -183,7 +183,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las gambas y guarda cabezas y cáscaras. Ponlas en un cazo con 500 ml de agua y el laurel, aplasta las cabezas con una cuchara, hierve 15 minutos a fuego suave y cuela apretando bien: tendrás unos 350 ml de caldo de marisco sin cebolla.",
     "Mientras, lava el arroz y cuécelo en una cazuela con 280 ml de agua y sal: 15 minutos tapado a fuego mínimo y 5 de reposo.",
-    "Pica en dados pequeños el pimiento verde y el hinojo, y corta en aros la parte verde de la cebolleta, reservando un puñado para el final.",
+    "Mientras se hacen el caldo y el arroz, pica en dados pequeños el pimiento verde y el hinojo, corta en aros la parte verde de la cebolleta, reservando un puñado para el final, y pica el perejil.",
     "En una cazuela de fondo grueso calienta la mantequilla con el aceite de ajo a fuego medio-bajo, añade la harina de arroz y remueve sin parar 5-6 minutos, hasta que el roux tenga color de mantequilla de cacahuete y huela a galleta. No dejes que se oscurezca más.",
     "Añade el pimiento, el hinojo y la cebolleta (la «santísima trinidad» adaptada): frenarán en seco la cocción del roux. Rehoga 6-8 minutos, hasta que estén blandos.",
     "Agrega el pimentón y el tomillo, remueve unos segundos y vierte el caldo caliente poco a poco, sin dejar de remover. Cuece 10 minutos a fuego suave, hasta tener una salsa como una crema ligera; sala y añade pimienta blanca.",
@@ -228,7 +228,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon al fuego una olla grande con 2,5 litros de agua, el laurel, las semillas de mostaza, 1,5 cucharaditas de pimentón dulce, el pimentón ahumado, el tomillo, unos granos de pimienta, un limón partido por la mitad y exprimido dentro, y sal gruesa (el agua debe estar sabrosa, como un caldo). Llévalo a ebullición y deja que hierva 5 minutos para que las especias suelten su aroma.",
-    "Añade las patatas nuevas enteras y cuécelas 12 minutos.",
+    "Añade las patatas nuevas enteras y cuécelas 12 minutos. Mientras, pica el cebollino y ralla la piel de medio limón.",
     "Incorpora las rodajas de mazorca y cuece 5 minutos más, hasta que las patatas estén tiernas al pincharlas.",
     "Apaga el fuego, añade los langostinos, remueve y tapa: déjalos 3-4 minutos en el caldo caliente, hasta que estén rosados y opacos. Así quedan jugosos y no se pasan.",
     "Mientras, derrite la mantequilla con la ralladura y el zumo de medio limón, el resto del pimentón y el cebollino picado.",
@@ -273,12 +273,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla el aceite de ajo con el pimentón, el comino, el orégano, el zumo de media lima y una pizca de sal. Unta los filetes de dorada por el lado de la carne y déjalos 10 minutos.",
-    "Corta la col en juliana muy fina (cuanto más fina, más digestiva) y ralla la zanahoria. Alíñalas con el zumo de media lima y sal, y masajéalas 1 minuto con las manos para que se ablanden.",
-    "Prepara el pico de gallo: tomate pera en dados pequeños sin semillas, la parte verde de la cebolleta en aros finos, la mitad del cilantro picado, zumo de lima y sal.",
+    "Mientras se impregna, corta la col en juliana muy fina (cuanto más fina, más digestiva) y ralla la zanahoria. Alíñalas con el zumo de media lima y sal, y masajéalas 1 minuto con las manos para que se ablanden.",
+    "Prepara el pico de gallo: corta el tomate pera en dados pequeños sin semillas y la parte verde de la cebolleta en aros finos, pica todo el cilantro y mezcla el tomate y la cebolleta con la mitad del cilantro, zumo de lima y sal.",
     "Mezcla la crema agria con unas gotas de lima y una pizca de sal hasta que esté fluida: es la «salsa blanca» de los puestos de Baja California y San Diego.",
     "Calienta una sartén antiadherente a fuego medio-alto y marca la dorada con la piel hacia abajo 3 minutos, presionando al principio para que no se curve; dale la vuelta y cuécela 1 minuto más. Pásala a un plato y sepárala en trozos grandes.",
     "Calienta las tortillas en la misma sartén, 20-30 segundos por lado, y guárdalas envueltas en un paño para que no se sequen.",
-    "Monta cada taco con col, pescado, pico de gallo, un hilo de crema y cilantro. Sirve con gajos de lima."
+    "Monta cada taco con col, pescado, pico de gallo, un hilo de crema y el resto del cilantro. Sirve con gajos de lima."
   ],
   nutricion: { kcal: 510, prot: 37, hc: 45, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "verano", "alta en proteína"],
@@ -364,8 +364,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas en gajos con piel, sécalas, mézclalas en la bandeja con 2 cucharaditas de aceite, sal y la mitad del pimentón y hornéalas 15 minutos.",
-    "Mientras, prepara la ensalada de col: col y zanahoria en juliana muy fina, con el vinagre, el eneldo picado y una pizca de sal. Mezcla bien y deja que se ablande en la nevera.",
-    "Para la salsa tártara, mezcla la mayonesa con el yogur, los pepinillos picados finos, ralladura de limón y una pizca de sal.",
+    "Mientras, prepara la ensalada de col: corta la col y la zanahoria en juliana muy fina, pica el eneldo y mézclalos con el vinagre y una pizca de sal. Mezcla bien y deja que se ablande en la nevera.",
+    "Para la salsa tártara, pica finos los pepinillos y mézclalos con la mayonesa, el yogur, ralladura de limón y una pizca de sal.",
     "Prepara tres platos hondos: en uno la harina de arroz con sal; en otro el huevo batido; en el tercero los copos de maíz aplastados con las manos en migas gruesas, mezclados con el resto del pimentón.",
     "Corta la merluza en 4 trozos, sécala y pásala por la harina, después por el huevo y por último por los copos, apretando para que se adhieran bien.",
     "Da la vuelta a las patatas, coloca la merluza en la misma bandeja (o en otra con papel), píntala con el resto del aceite y hornea 12-14 minutos, hasta que la costra esté dorada y crujiente y el pescado, blanco y jugoso en el centro.",
@@ -455,10 +455,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Dora el bacon en una sartén sin aceite a fuego medio, 3-4 minutos por lado, hasta que esté crujiente. Escúrrelo sobre papel de cocina y limpia la sartén.",
     "En la misma sartén, con el aceite, marca los filetes de pavo salados 2 minutos por lado, hasta que estén dorados y sin rastro rosado. Córtalos en lonchas.",
-    "Para la Mornay, derrite la mantequilla en un cazo, añade la harina de arroz, remueve 1 minuto y vierte la leche poco a poco batiendo. Cuece 4-5 minutos a fuego suave hasta que espese; fuera del fuego, añade dos tercios del parmesano, la nuez moscada y pimienta blanca.",
-    "Precalienta el grill del horno a 230 °C. Tuesta ligeramente el pan y colócalo en una fuente de horno (2 rebanadas por persona, una junto a otra). Corta el tomate en 4 rodajas.",
+    "Enciende el grill del horno a 230 °C para que se caliente mientras haces la Mornay: derrite la mantequilla en un cazo, añade la harina de arroz, remueve 1 minuto y vierte la leche poco a poco batiendo. Cuece 4-5 minutos a fuego suave hasta que espese; fuera del fuego, añade dos tercios del parmesano, la nuez moscada y pimienta blanca.",
+    "Tuesta ligeramente el pan y colócalo en una fuente de horno (2 rebanadas por persona, una junto a otra). Corta el tomate en 4 rodajas.",
     "Reparte el pavo sobre el pan, pon encima 2 rodajas de tomate por ración y cubre todo con la salsa, dejando que caiga por los lados. Espolvorea el resto del parmesano y una pizca de pimentón.",
-    "Gratina 4-5 minutos, hasta que la salsa tenga manchas doradas y burbujee.",
+    "Gratina 4-5 minutos, hasta que la salsa tenga manchas doradas y burbujee. Mientras, pica el perejil.",
     "Coloca encima el bacon cruzado en aspa, espolvorea perejil picado y sirve enseguida con la rúcula al lado."
   ],
   nutricion: { kcal: 570, prot: 43, hc: 48, grasa: 23 },
@@ -548,11 +548,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta la harina de arroz en una sartén seca a fuego medio-bajo, removiendo sin parar 6-8 minutos, hasta que tenga color de avellana y huela a pan tostado. Pásala a un plato para que no siga oscureciéndose.",
-    "Mezcla el cerdo con el pan rallado mojado en 3 cucharadas de caldo, el cebollino picado, la canela, el clavo, la nuez moscada, la mostaza, sal y pimienta. Amasa 1 minuto y forma 12 albóndigas del tamaño de una nuez con las manos húmedas.",
+    "Pica fino el cebollino. Mezcla el cerdo con el pan rallado mojado en 3 cucharadas de caldo, el cebollino, la canela, el clavo, la nuez moscada, la mostaza, sal y pimienta. Amasa 1 minuto y forma 12 albóndigas del tamaño de una nuez con las manos húmedas.",
     "En una cazuela, calienta el aceite y dora las albóndigas a fuego medio 6-8 minutos, girándolas, hasta que estén doradas por todos lados. Sácalas.",
     "Disuelve la harina tostada en 150 ml de caldo frío, sin grumos. Vierte en la cazuela el resto del caldo con el laurel, raspa el fondo dorado y, cuando hierva, añade la harina disuelta batiendo.",
     "Devuelve las albóndigas, tapa y cuece 30 minutos a fuego suave, hasta que la salsa esté espesa, de color caramelo y napee la cuchara. Si espesa demasiado, añade un chorrito de agua.",
-    "Mientras, cuece las patatas y las zanahorias en trozos grandes en agua con sal 20 minutos, hasta que estén tiernas.",
+    "Mientras, pela las patatas y las zanahorias, córtalas en trozos grandes y cuécelas en agua con sal 20 minutos, hasta que estén tiernas. Pica el perejil.",
     "Sirve las albóndigas con mucha salsa sobre las patatas y las zanahorias, con perejil picado."
   ],
   nutricion: { kcal: 545, prot: 37, hc: 60, grasa: 17 },
@@ -592,14 +592,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la salsa: mezcla el zumo de piña, el tamari, el azúcar moreno, el jengibre rallado, el aceite de ajo, el tomate concentrado y el vinagre. Reserva un tercio para glasear.",
+    "Prepara la salsa: ralla el jengibre y mézclalo con el zumo de piña, el tamari, el azúcar moreno, el aceite de ajo, el tomate concentrado y el vinagre. Reserva un tercio para glasear.",
     "Pon los contramuslos en una bolsa o fiambrera con los otros dos tercios y marínalos al menos 30 minutos en la nevera (mejor toda la noche).",
     "Mientras se marina, lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Unos 15 minutos antes de terminar el marinado, precalienta el horno a 220 °C con el grill.",
     "Escurre el pollo (desecha esa marinada) y colócalo abierto sobre una rejilla con una bandeja debajo.",
     "Mientras, hierve en un cazo la salsa reservada 3-4 minutos, hasta que espese y brille como un jarabe.",
     "Asa el pollo 18-20 minutos dándole la vuelta a mitad y pintándolo con la salsa reducida cada vez que lo gires, hasta que esté lacado, con los bordes caramelizados, y su jugo salga transparente.",
-    "Mientras se asa el pollo, marca las rodajas de piña en la plancha caliente 2 minutos por lado, hasta que tengan rayas doradas.",
-    "Sirve el pollo en tiras sobre el arroz, con la piña, la cebolleta en aros y el sésamo, y el resto de la salsa por encima."
+    "Mientras se asa el pollo, marca las rodajas de piña en la plancha caliente 2 minutos por lado, hasta que tengan rayas doradas, y corta en aros la parte verde de la cebolleta.",
+    "Corta el pollo en tiras y sírvelo sobre el arroz, con la piña, la cebolleta y el sésamo, y el resto de la salsa por encima."
   ],
   nutricion: { kcal: 660, prot: 42, hc: 83, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "bajo en colesterol", "sin gluten", "para niños", "batch cooking", "alta en proteína"],
@@ -642,10 +642,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara la marinada: mezcla el vinagre, el zumo de medio limón, el aceite de ajo, el orégano, la albahaca, la menta, el tomillo, sal y pimienta.",
     "Mezcla el cordero con la marinada en una fiambrera, tapa y déjalo en la nevera al menos 2 horas (en Binghamton se marina hasta 3 días). Dale la vuelta a mitad.",
+    "Un rato antes de que termine el marinado, prepara la ensalada: corta la lechuga en tiras, el tomate en gajos y el pepino en medias lunas, y guárdala en la nevera sin aliñar.",
     "Ensarta los dados en 4 brochetas sin apretarlos, para que se hagan por igual. Escurre bien la marinada y deséchala.",
     "Calienta la plancha a fuego fuerte y asa las brochetas 8-10 minutos, girándolas cada 2 minutos, hasta que estén doradas por fuera y rosadas en el centro.",
-    "Mientras, prepara la ensalada con la lechuga en tiras, el tomate en gajos y el pepino en medias lunas, aliñados con el aceite, el zumo del otro medio limón y sal.",
-    "Para comerlas como en Nueva York, envuelve cada brocheta con media rebanada de pan, aprieta y tira del palo: la carne queda dentro del pan, empapándolo de jugo. Sirve con la ensalada."
+    "Aliña la ensalada con el aceite, el zumo del otro medio limón y sal. Para comer las brochetas como en Nueva York, envuelve cada una con media rebanada de pan, aprieta y tira del palo: la carne queda dentro del pan, empapándolo de jugo. Sirve con la ensalada."
   ],
   nutricion: { kcal: 445, prot: 33, hc: 29, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "verano"],
@@ -689,8 +689,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Parte las patatas por la mitad, mézclalas con 1 cucharadita de aceite de ajo y sal y ásalas en una bandeja 30-35 minutos, hasta que estén doradas.",
     "Cuando a las patatas les falten 20 minutos, calienta una sartén apta para horno a fuego muy fuerte y sella la carne 2-3 minutos por cada cara, hasta que tenga una costra oscura.",
     "Pasa la sartén al horno y asa la carne 12-15 minutos, hasta que el centro alcance 55 °C (al punto menos). Déjala reposar tapada con papel de aluminio 10 minutos.",
-    "Prepara la salsa de Santa María: tomate y pepino en dados pequeños, la parte verde de la cebolleta en aros, el cilantro picado, el vinagre, el orégano y sal.",
-    "Tuesta el pan, píntalo con el resto del aceite de ajo y córtalo en tiras.",
+    "Mientras la carne está en el horno, prepara la salsa de Santa María: corta el tomate y el pepino en dados pequeños y la parte verde de la cebolleta en aros, pica el cilantro y mézclalo todo con el vinagre, el orégano y sal.",
+    "Mientras la carne reposa, tuesta el pan, píntalo con el resto del aceite de ajo y córtalo en tiras.",
     "Corta la carne en lonchas finas contra la fibra (en el tri-tip la fibra cambia de dirección hacia la mitad de la pieza: gírala). Sirve con su jugo, la salsa, las patatas y el pan."
   ],
   nutricion: { kcal: 575, prot: 42, hc: 55, grasa: 21 },
@@ -733,8 +733,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C. Corta las patatas en gajos con piel, mézclalas con 2 cucharaditas de aceite y sal y extiéndelas en un lado de la bandeja grande. Hornea 10 minutos.",
     "Prepara la salsa Carolina Gold: mezcla la mostaza, 2 cucharadas de vinagre, el sirope de arce, el azúcar moreno y una pizca de pimienta hasta que el azúcar se disuelva.",
     "Seca los contramuslos, úntalos con el resto del aceite, el pimentón y sal, y colócalos abiertos en el otro lado de la bandeja. Hornea 15 minutos.",
+    "Mientras, prepara la ensalada de col al estilo del Este de Carolina: corta la col y la zanahoria en juliana muy fina, pica el cebollino y mézclalo todo con el resto del vinagre, una cucharadita de la salsa y sal.",
     "Pinta el pollo con la mitad de la salsa y hornea 8-10 minutos más, hasta que esté glaseado, con los bordes tostados, y las patatas doradas y crujientes.",
-    "Mientras, prepara la ensalada de col al estilo del Este de Carolina: col y zanahoria en juliana muy fina con el resto del vinagre, una cucharadita de la salsa, sal y el cebollino picado.",
     "Sirve el pollo con el resto de la salsa por encima, las patatas y la ensalada de col bien escurrida."
   ],
   nutricion: { kcal: 560, prot: 40, hc: 55, grasa: 20 },
@@ -778,10 +778,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas.",
-    "Mientras, prepara la salsa: tritura el yogur, la mayonesa, las anchoas, las hojas de estragón, el perejil, la mitad del cebollino, la cebolleta, el zumo de medio limón y pimienta hasta que quede lisa y de un verde intenso. Prueba antes de salar: las anchoas ya salan.",
+    "Mientras, prepara la salsa: tritura el yogur, la mayonesa, las anchoas, las hojas de estragón, el perejil, la mitad del cebollino, la cebolleta, el zumo de medio limón y pimienta hasta que quede lisa y de un verde intenso. Prueba antes de salar: las anchoas ya salan. Pica el resto del cebollino y corta el pepino y los rábanos en láminas finas.",
     "Escurre las patatas y pártelas por la mitad. Seca los filetes de pavo, úntalos con el aceite, sálalos y déjalos a temperatura ambiente mientras se calienta la plancha.",
     "Asa el pavo a fuego medio-alto 3 minutos por lado sin moverlo, hasta que tenga marcas doradas y el centro esté blanco pero jugoso. Déjalo reposar 3 minutos y córtalo en tiras.",
-    "Abre los cogollos en cuartos y corta el pepino y los rábanos en láminas finas. Alíñalos con unas gotas de limón y sal.",
+    "Abre los cogollos en cuartos y alíñalos con el pepino, los rábanos, unas gotas de limón y sal.",
     "Sirve el pavo con las patatas y la ensalada, con la salsa Green Goddess por encima y el resto del cebollino picado."
   ],
   nutricion: { kcal: 450, prot: 43, hc: 36, grasa: 15 },
@@ -908,8 +908,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las ostras y sécalas con papel de cocina. Desmenuza las galletas con los dedos en migas gruesas.",
-    "En una sartén de 22-24 cm sin aceite, dora el bacon cortado en trozos a fuego medio hasta que esté crujiente; sácalo y deja en la sartén solo una película de su grasa.",
+    "Escurre las ostras y sécalas con papel de cocina. Desmenuza las galletas con los dedos en migas gruesas, corta el bacon en trozos y pica el cebollino y el perejil.",
+    "En una sartén de 22-24 cm sin aceite, dora el bacon a fuego medio hasta que esté crujiente; sácalo y deja en la sartén solo una película de su grasa.",
     "Sube el fuego, añade las ostras y márcalas 30 segundos por lado, solo hasta que los bordes se ricen. Sácalas con el bacon.",
     "Baja el fuego a medio-bajo y añade el aceite. Bate los huevos con sal, pimienta, el cebollino y el perejil picados, viértelos en la sartén y remueve suavemente los primeros 30 segundos.",
     "Reparte por encima las ostras y el bacon, tapa y cuece 3-4 minutos, hasta que la tortilla esté cuajada por abajo y aún cremosa por arriba.",
@@ -1002,7 +1002,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mete en el horno una sartén de hierro o apta para horno de 24 cm y precalienta a 220 °C durante al menos 10 minutos: que la sartén esté muy caliente es el secreto del suflado.",
     "Tritura los huevos, la harina de arroz, la maicena, la leche, la nuez moscada y una pizca de sal 30 segundos, hasta tener una masa lisa y fluida, sin grumos. Déjala reposar mientras se calienta el horno.",
-    "Mezcla la crema agria con el eneldo picado, unas gotas de limón y pimienta.",
+    "Mientras, pica el eneldo y el cebollino, y mezcla la crema agria con el eneldo, unas gotas de limón y pimienta.",
     "Saca la sartén con cuidado (¡asa caliente!), echa la mantequilla, gírala para que cubra fondo y paredes y, cuando espume, vierte la masa de golpe.",
     "Hornea 16-18 minutos sin abrir la puerta, hasta que los bordes hayan subido muy por encima de la sartén y estén dorados e hinchados. Bajará un poco al sacarla: es normal.",
     "Mientras, corta el pepino en rodajas finas y mézclalo con la rúcula y unas gotas de limón.",
@@ -1046,11 +1046,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a calentar una cazuela con 1,5 litros de agua y el vinagre. Corta el pimiento verde y el calabacín en dados de 1 cm, y el tomate en dados algo mayores, sin las semillas.",
+    "Pon a calentar una cazuela con 1,5 litros de agua y el vinagre. Corta el pimiento verde y el calabacín en dados de 1 cm, el tomate en dados algo mayores, sin las semillas, y la parte verde de la cebolleta en aros.",
     "En una sartén amplia, derrite la mantequilla a fuego medio y saltea el pimiento 4 minutos. Añade el calabacín, el maíz y las hojas de tomillo y cocina 4-5 minutos más, hasta que todo esté tierno y el maíz empiece a tostarse.",
-    "Agrega el tomate y la cebolleta en aros, sala, pimienta y cocina 2 minutos, solo hasta que el tomate empiece a soltar jugo y forme una salsita. Apaga el fuego.",
+    "Agrega el tomate y la cebolleta, sala, pimienta y cocina 2 minutos, solo hasta que el tomate empiece a soltar jugo y forme una salsita. Apaga el fuego.",
     "Cuando el agua tenga un hervor muy suave (burbujas pequeñas en el fondo), casca cada huevo en un cuenco, crea un remolino con una cuchara y deslízalo en el centro. Escálfalo 3 minutos, hasta que la clara esté cuajada y la yema siga líquida. Sácalo con una espumadera sobre papel de cocina.",
-    "Tuesta el pan y píntalo con el aceite de ajo.",
+    "Tuesta el pan, píntalo con el aceite de ajo y corta la albahaca en tiras.",
     "Reparte el succotash en platos hondos, pon encima dos huevos escalfados, la albahaca en tiras y pimienta, y sirve con la tosta para mojar."
   ],
   nutricion: { kcal: 340, prot: 17, hc: 28, grasa: 18 },
@@ -1094,10 +1094,10 @@ window.RECETAS_SEED.push({
     "Envuelve el tofu en un paño limpio, pon un peso encima y déjalo 15 minutos para que suelte el agua. Precalienta el horno a 220 °C.",
     "Corta el tofu en dados de 2,5 cm, mézclalos con 1 cucharadita de tamari y después con 20 g de maicena, moviendo el bol hasta que queden cubiertos por una capa fina y seca. Riégalos con el aceite, remueve y extiéndelos separados en una bandeja con papel. Hornéalos 25 minutos, dándoles la vuelta a mitad, hasta que estén dorados y con los bordes crujientes.",
     "Mientras, lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Para la salsa, ralla la piel de una naranja y exprime las dos (unos 150 ml de zumo). Ponlo en un cazo con el resto del tamari, el vinagre, el azúcar, el jengibre rallado y el aceite de ajo y cuece 3 minutos a fuego medio.",
+    "Para la salsa, ralla la piel de una naranja, exprime las dos (unos 150 ml de zumo) y ralla el jengibre. Ponlo todo en un cazo con el resto del tamari, el vinagre, el azúcar y el aceite de ajo y cuece 3 minutos a fuego medio.",
     "Disuelve los 5 g de maicena restantes en 1 cucharada de agua fría, añádelos a la salsa y cuece 1 minuto removiendo, hasta que espese, brille y cubra la cuchara.",
-    "Cuece el brócoli al vapor, en un cestillo sobre una cazuela con agua hirviendo, 4-5 minutos, hasta que esté tierno pero verde intenso.",
-    "Saca el tofu del horno, échalo en el cazo con la salsa fuera del fuego y mézclalo 30 segundos, solo para glasearlo sin que pierda el crujiente. Sírvelo sobre el arroz con el brócoli, la cebolleta en aros y el sésamo."
+    "Cuece el brócoli al vapor, en un cestillo sobre una cazuela con agua hirviendo, 4-5 minutos, hasta que esté tierno pero verde intenso. Mientras, corta en aros la parte verde de la cebolleta.",
+    "Saca el tofu del horno, échalo en el cazo con la salsa fuera del fuego y mézclalo 30 segundos, solo para glasearlo sin que pierda el crujiente. Sírvelo sobre el arroz con el brócoli, la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 620, prot: 26, hc: 82, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten", "al horno", "para niños"],

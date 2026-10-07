@@ -41,10 +41,10 @@ window.RECETAS_SEED.push({
     "Prepara el dashi: pon el kombu en los 500 ml de agua fría, caliéntalo a fuego medio y retíralo cuando empiecen a subir burbujas pequeñas, sin que llegue a hervir. Añade el bonito, deja hervir 1 minuto, apaga, espera 3 minutos a que los copos se hundan y cuela sin apretar.",
     "Lava el arroz frotándolo entre las manos y cambiando el agua hasta que salga casi clara. Cuécelo en un cazo con 200 ml de agua: tapado, 12 minutos a fuego mínimo desde que hierva y 10 de reposo sin destapar.",
     "Corta la calabaza en trozos de 4-5 cm. Pélala solo a tiras, dejando parches de piel verde, y bisela las aristas con el cuchillo: así los trozos no se rompen al cocerse y el caldo queda limpio.",
-    "Coloca la calabaza en una sola capa, con la piel hacia abajo, en una cazuela ancha. Cubre con 300 ml de dashi y el azúcar, tapa con un círculo de papel de horno apoyado sobre el líquido y cuece 8 minutos a fuego medio-bajo. Añade 1 cucharada de tamari y sigue 6-7 minutos, hasta que un palillo entre sin esfuerzo. Apaga y deja que repose en su caldo.",
-    "En un cazo en frío, mezcla el pollo picado con el resto del dashi, la otra cucharada de tamari y el jengibre rallado. Remueve con cuatro palillos o unas varillas antes de encender: así la carne queda en granos finos y no en grumos. Calienta a fuego medio sin dejar de remover 4-5 minutos, hasta que el pollo esté blanco y suelto.",
+    "Coloca la calabaza en una sola capa, con la piel hacia abajo, en una cazuela ancha. Cubre con 300 ml de dashi y el azúcar, tapa con un círculo de papel de horno apoyado sobre el líquido y cuece 8 minutos a fuego medio-bajo (mientras, ralla el jengibre y corta muy fina la cebolleta). Añade 1 cucharada de tamari y sigue 6-7 minutos, hasta que un palillo entre sin esfuerzo. Apaga y deja que repose en su caldo.",
+    "En un cazo en frío, mezcla el pollo picado con el resto del dashi, la otra cucharada de tamari y el jengibre. Remueve con cuatro palillos o unas varillas antes de encender: así la carne queda en granos finos y no en grumos. Calienta a fuego medio sin dejar de remover 4-5 minutos, hasta que el pollo esté blanco y suelto.",
     "Añade 100 ml del caldo de cocer la calabaza y lleva a ebullición. Disuelve la maicena en 2 cucharadas de agua fría, viértela removiendo y cuece 1 minuto, hasta que la salsa quede translúcida y brillante. Prueba y ajusta de sal.",
-    "Sirve la calabaza en cuencos hondos, napa con la salsa de pollo, esparce la cebolleta cortada muy fina y acompaña con el arroz."
+    "Sirve la calabaza en cuencos hondos, napa con la salsa de pollo, esparce la cebolleta y acompaña con el arroz."
   ],
   nutricion: { kcal: 565, prot: 29, hc: 92, grasa: 9 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "otoño", "de cuchara"],
@@ -84,12 +84,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 225 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo sin destapar.",
-    "Separa las hojas de la col. Corta las pencas blancas al bies en láminas de 1 cm, con el cuchillo inclinado: así tienen más superficie y se hacen a la vez que las hojas. Trocea la parte verde de las hojas a mano en trozos de 5 cm y guárdalas aparte.",
-    "Mezcla en un vaso el tamari, el azúcar, la maicena y 2 cucharadas de agua. Pela el jengibre y córtalo en bastoncitos finos.",
+    "Mientras se hace el arroz, separa las hojas de la col. Corta las pencas blancas al bies en láminas de 1 cm, con el cuchillo inclinado: así tienen más superficie y se hacen a la vez que las hojas. Trocea la parte verde de las hojas a mano en trozos de 5 cm y guárdalas aparte.",
+    "Mezcla en un vaso el tamari, el azúcar, la maicena y 2 cucharadas de agua. Pela el jengibre y córtalo en bastoncitos finos, y corta la cebolleta en aros.",
     "Tuesta los cacahuetes en el wok seco a fuego medio 3-4 minutos, moviéndolos, hasta que huelan y tengan puntos dorados. Sácalos y pícalos groseramente.",
     "Calienta el wok a fuego fuerte con el aceite de girasol y el aceite de ajo. Añade el jengibre, remueve 20 segundos y echa las pencas. Saltea 3 minutos, hasta que los bordes estén translúcidos.",
     "Incorpora las hojas y saltea 1 minuto. Vierte el vinagre por las paredes del wok, no por encima de la col: al tocar el metal caliente chisporrotea y suelta su aroma, y lo ácido se suaviza. Añade la mezcla de tamari y remueve 1-2 minutos, hasta que la salsa brille y envuelva las pencas, que deben quedar tiernas.",
-    "Apaga, mezcla con la cebolleta cortada en aros y sirve enseguida sobre el arroz, con los cacahuetes por encima."
+    "Apaga, mezcla con la cebolleta y sirve enseguida sobre el arroz, con los cacahuetes por encima."
   ],
   nutricion: { kcal: 505, prot: 14, hc: 74, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "rápida", "poco especiada", "bajo en colesterol", "económica"],
@@ -132,9 +132,9 @@ window.RECETAS_SEED.push({
     "Cuece los huevos 9 minutos desde que el agua vuelva a hervir, enfríalos en agua con hielo y pélalos.",
     "Pela las patatas y córtalas en dados de 2 cm. Déjalas 10 minutos en agua fría para quitarles el almidón de la superficie (así no se pegan ni se rompen al glasearlas) y escúrrelas. Corta la zanahoria en dados del mismo tamaño y el pimiento en cuadrados de 2 cm.",
     "Calienta el aceite de girasol y el aceite de ajo en una sartén honda a fuego medio y rehoga patata y zanahoria 4 minutos, hasta que los bordes de la patata se vean translúcidos.",
-    "Añade los 300 ml de agua, el tamari y el azúcar moreno. Cuando hierva, baja a fuego medio-bajo y cuece sin tapar 15 minutos, removiendo con cuidado de vez en cuando, hasta que la patata esté tierna y el líquido se haya reducido a un tercio. Mientras, pon a hervir agua con sal para las espinacas.",
+    "Añade los 300 ml de agua, el tamari y el azúcar moreno. Cuando hierva, baja a fuego medio-bajo y cuece sin tapar 15 minutos, removiendo con cuidado de vez en cuando, hasta que la patata esté tierna y el líquido se haya reducido a un tercio. Mientras, pon a hervir agua con sal para las espinacas y pica la cebolleta.",
     "Añade el pimiento y los huevos pelados, sube el fuego y mueve la sartén 3-4 minutos, rodando los huevos, hasta que la salsa se convierta en un almíbar oscuro que lo lacee todo. Apaga y añade 1 cucharadita de aceite de sésamo y la mitad del sésamo.",
-    "Para el namul, escalda las espinacas 30 segundos en el agua hirviendo, pásalas a agua fría y escúrrelas apretando con fuerza entre las manos. Córtalas en trozos de 5 cm y alíñalas con el resto del aceite de sésamo, la cebolleta picada, el resto del sésamo machacado entre los dedos y una pizca de sal.",
+    "Para el namul, escalda las espinacas 30 segundos en el agua hirviendo, pásalas a agua fría y escúrrelas apretando con fuerza entre las manos. Córtalas en trozos de 5 cm y alíñalas con el resto del aceite de sésamo, la cebolleta, el resto del sésamo machacado entre los dedos y una pizca de sal.",
     "Sirve las patatas con su glaseado, los huevos lacados partidos por la mitad y el namul al lado."
   ],
   nutricion: { kcal: 570, prot: 26, hc: 67, grasa: 22 },
@@ -178,13 +178,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el dashi: calienta el kombu en los 400 ml de agua y retíralo justo antes de que hierva; añade el bonito, hierve 1 minuto, apaga, espera 3 minutos y cuela. Mezcla 300 ml de ese dashi con el tamari, el azúcar, el zumo de la naranja, un poco de su ralladura y el jengibre rallado en una fuente honda. Debe quedar templado.",
+    "Prepara el dashi: calienta el kombu en los 400 ml de agua y retíralo justo antes de que hierva; añade el bonito, hierve 1 minuto, apaga, espera 3 minutos y cuela. Ralla un poco de piel de la naranja y el jengibre, exprime la naranja y mezcla 300 ml de ese dashi con el tamari, el azúcar, el zumo, la ralladura y el jengibre en una fuente honda. Debe quedar templado.",
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 200 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Pela la berenjena a tiras y córtala en rodajas de 1,5 cm. Corta el calabacín en rodajas al bies, los pimientos en tiras anchas sin semillas y la zanahoria en bastones de medio centímetro. Escalda la zanahoria 3 minutos para que se haga a la vez que el resto.",
+    "Mientras se hace el arroz, pela la berenjena a tiras y córtala en rodajas de 1,5 cm. Corta el calabacín en rodajas al bies, los pimientos en tiras anchas sin semillas y la zanahoria en bastones de medio centímetro. Escalda la zanahoria 3 minutos para que se haga a la vez que el resto.",
     "Pinta la verdura con el aceite y una pizca de sal. Marca en la plancha bien caliente por tandas, sin amontonar: la berenjena 3-4 minutos por cada lado, hasta que esté tierna y cremosa por dentro; pimientos, calabacín y zanahoria 2-3 minutos por lado, hasta tener buenas marcas.",
     "A medida que salga de la plancha, sumerge cada pieza en la marinada templada: la verdura caliente absorbe el caldo como una esponja. Déjala al menos 10 minutos, dándole la vuelta una vez.",
-    "Tuesta el sésamo en una sartén seca 2 minutos, hasta que empiece a saltar.",
-    "Sirve el arroz en cuencos, coloca la verdura encima, riega con unas cucharadas de la marinada y termina con el sésamo y el cebollino picado."
+    "Mientras reposa, tuesta el sésamo en una sartén seca 2 minutos, hasta que empiece a saltar, y pica el cebollino.",
+    "Sirve el arroz en cuencos, coloca la verdura encima, riega con unas cucharadas de la marinada y termina con el sésamo y el cebollino."
   ],
   nutricion: { kcal: 530, prot: 12, hc: 90, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "verano", "batch cooking"],
@@ -364,8 +364,8 @@ window.RECETAS_SEED.push({
     "Saca el kombu del remojo, córtalo en 4 tiras largas y haz un nudo con cada una. Calienta el agua del remojo, añade el bonito justo antes de que hierva, deja hervir 1 minuto, apaga, espera 3 minutos y cuela.",
     "Corta el tofu en 4 lonchas gruesas y dóralo en una sartén antiadherente con el aceite 2-3 minutos por cada lado.",
     "En una cazuela ancha, mezcla el dashi con el tamari, el azúcar y una pizca de sal. Añade el daikon, la patata, la zanahoria y los nudos de kombu y cuece a fuego muy suave, sin que llegue a borbotear, 30 minutos: si hierve fuerte, el caldo se enturbia.",
-    "Incorpora el tofu, el tempeh y los huevos y sigue 20 minutos más al mínimo. Si tienes tiempo, apaga y deja reposar 30 minutos: el oden mejora mucho al enfriarse y recalentarse.",
-    "Sirve en cuencos hondos con abundante caldo y el jengibre rallado en un montoncito para ir añadiéndolo al gusto."
+    "Incorpora el tofu, el tempeh y los huevos y sigue 20 minutos más al mínimo (mientras, ralla el jengibre). Si tienes tiempo, apaga y deja reposar 30 minutos: el oden mejora mucho al enfriarse y recalentarse.",
+    "Sirve en cuencos hondos con abundante caldo y el jengibre en un montoncito para ir añadiéndolo al gusto."
   ],
   nutricion: { kcal: 500, prot: 38, hc: 40, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "invierno", "de cuchara", "batch cooking"],
@@ -448,11 +448,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a calentar agua con sal en una cazuela a fuego medio. Hidrata la wakame en agua fría 5 minutos, escúrrela y apriétala. Prepara la salsa: mezcla el tahini con el tamari, el vinagre, el azúcar, el jengibre rallado y 2 cucharadas de agua, batiendo hasta que quede lisa y fluida como una nata.",
-    "Corta la lechuga en tiras, el pepino en bastones finos y el tomate en gajos. Reparte la lechuga y el pepino en platos hondos.",
+    "Pon a calentar agua con sal en una cazuela a fuego medio. Hidrata la wakame en agua fría 5 minutos, escúrrela y apriétala. Prepara la salsa: ralla el jengibre y mézclalo con el tahini, el tamari, el vinagre, el azúcar y 2 cucharadas de agua, batiendo hasta que quede lisa y fluida como una nata.",
+    "Corta la lechuga en tiras, el pepino en bastones finos, el tomate en gajos y la cebolleta muy fina. Reparte la lechuga y el pepino en platos hondos.",
     "Vigila el agua: debe quedar temblando, a unos 80 °C, con pequeñas burbujas en el fondo, sin hervir. Si hierve a borbotones, la carne se endurece.",
     "Escalda las lonchas de cerdo de 2 en 2, extendidas, 30-40 segundos, hasta que pierdan todo el color rosado. Sácalas a un colador y deja que se enfríen a temperatura ambiente: el agua con hielo, que se suele usar, endurece la carne y la grasa.",
-    "Coloca el cerdo sobre la lechuga, añade el tomate y la wakame, riega con la salsa de sésamo y termina con el sésamo y la cebolleta cortada muy fina."
+    "Coloca el cerdo sobre la lechuga, añade el tomate y la wakame, riega con la salsa de sésamo y termina con el sésamo y la cebolleta."
   ],
   nutricion: { kcal: 340, prot: 32, hc: 17, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "rápida", "alta en proteína", "ligera", "verano", "poco especiada"],
@@ -496,7 +496,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua. Hidrata la wakame en agua fría 5 minutos y escúrrela. Cuece los fideos en el agua hirviendo el tiempo del paquete (unos 3-4 minutos), pásalos por agua fría y escúrrelos bien.",
-    "Prepara el aliño: mezcla el vinagre, el tamari, el azúcar, el jengibre rallado, el aceite de sésamo y el aceite de ajo hasta que el azúcar se disuelva.",
+    "Prepara el aliño: ralla el jengibre y mézclalo con el vinagre, el tamari, el azúcar, el aceite de sésamo y el aceite de ajo hasta que el azúcar se disuelva.",
     "Corta el pepino y la zanahoria en bastones finos, el rábano en láminas y la lechuga en tiras. Corta la cebolleta en hebras.",
     "Abre los tubos del calamar, haz cortes cruzados en la cara interior sin llegar a atravesarlos y córtalos en piezas de 4 cm. Sécalos muy bien con papel de cocina.",
     "Calienta la plancha a fuego fuerte con el aceite de oliva. Marca el calamar y las patas 1 minuto por cada lado, con una pizca de sal, hasta que las piezas se enrosquen y estén blancas: si se pasa, se endurece.",
@@ -542,10 +542,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las patatas y cuécelas enteras, con piel, en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. En los últimos 5 minutos, añade las judías verdes en trozos de 4 cm.",
     "Mientras, cuece los huevos 6 minutos y medio desde que el agua hierva, enfríalos en agua con hielo 2 minutos y pélalos con cuidado: la yema debe quedar líquida.",
-    "Prepara el aliño: deslíe el miso en el vinagre y el zumo de la media naranja, añade el azúcar y emulsiona con el aceite batiendo con un tenedor.",
+    "Mientras terminan de cocerse las patatas, prepara el aliño: deslíe el miso en el vinagre y el zumo de la media naranja, añade el azúcar y emulsiona con el aceite batiendo con un tenedor. Corta el pepino en medias lunas finas y pica el cebollino.",
     "Escurre patatas y judías. Corta las patatas por la mitad (si la piel se suelta, retírala) y mézclalas aún calientes con dos tercios del aliño: la patata caliente lo absorbe y se impregna por dentro.",
-    "Pasa la hoja de nori unos segundos por cada lado sobre el fuego, hasta que se vuelva verde y crujiente, y desmenúzala. Corta el pepino en medias lunas finas.",
-    "Reparte la rúcula y el pepino en los platos, añade la patata y las judías tibias, los huevos abiertos por la mitad y el resto del aliño. Termina con la nori, el bonito y el cebollino picado."
+    "Pasa la hoja de nori unos segundos por cada lado sobre el fuego, hasta que se vuelva verde y crujiente, y desmenúzala.",
+    "Reparte la rúcula y el pepino en los platos, añade la patata y las judías tibias, los huevos abiertos por la mitad y el resto del aliño. Termina con la nori, el bonito y el cebollino."
   ],
   nutricion: { kcal: 510, prot: 24, hc: 57, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "económica"],
@@ -584,13 +584,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga casi clara y déjalo en remojo 20 minutos. Escúrrelo bien.",
-    "Corta la merluza en trozos de 4 cm y mézclala con la mitad del jengibre en hebras finas, 1/2 cucharada de tamari, la maicena, el aceite de sésamo y la pimienta blanca. Deja que repose 10 minutos.",
+    "Lava el arroz hasta que el agua salga casi clara y déjalo en remojo 20 minutos. Mientras, corta todo el jengibre en hebras finas y la cebolleta en aros. Escurre bien el arroz.",
+    "Corta la merluza en trozos de 4 cm y mézclala con la mitad del jengibre, 1/2 cucharada de tamari, la maicena, el aceite de sésamo y la pimienta blanca. Deja que repose 10 minutos.",
     "Unta el fondo de una cazuela de fondo grueso (de barro o de hierro) con 1 cucharadita de aceite de girasol. Pon el arroz con 220 ml de agua y una pizca de sal y cuece sin tapar a fuego medio-alto 5-6 minutos, hasta que el agua baje al nivel del arroz y aparezcan pequeños cráteres en la superficie.",
-    "Tapa, baja al mínimo y cuece 8 minutos. Destapa, coloca la merluza encima y el pak choi cortado a lo largo alrededor, tapa de nuevo y sigue 8 minutos a fuego mínimo, hasta que el pescado esté opaco.",
+    "Tapa, baja al mínimo y cuece 8 minutos; mientras, corta el pak choi a lo largo. Destapa, coloca la merluza encima y el pak choi alrededor, tapa de nuevo y sigue 8 minutos a fuego mínimo, hasta que el pescado esté opaco.",
     "Reparte el resto del aceite de girasol en un hilo por el borde de la cazuela, entre el arroz y la pared. Sube a fuego medio 2-3 minutos girando la cazuela sobre el fuego: cuando oigas un crepitar suave y huela a arroz tostado, apaga. Deja reposar tapado 5 minutos.",
     "Mientras, calienta en un cazo el resto del tamari con el azúcar y 2 cucharadas de agua 1 minuto, hasta que se funda el azúcar.",
-    "Riega el arroz con la salsa, esparce la cebolleta en aros y el resto del jengibre y sirve en la cazuela, rascando el fondo tostado al servir."
+    "Riega el arroz con la salsa, esparce la cebolleta y el resto del jengibre y sirve en la cazuela, rascando el fondo tostado al servir."
   ],
   nutricion: { kcal: 540, prot: 34, hc: 72, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína"],
@@ -631,8 +631,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con los 210 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo. Pásalo a un bol, añade una pizca de sal y deja que se temple.",
-    "Corta el pepino en rodajas muy finas, sálalas, espera 10 minutos, apriétalas para quitar el agua y alíñalas con 1 cucharada de vinagre y una pizca de azúcar. Ralla la zanahoria y alíñala con el resto del vinagre.",
-    "Mezcla el tamari, el resto del azúcar y el jengibre rallado. Seca la caballa y repasa con pinzas que no queden espinas.",
+    "Mientras se hace el arroz, corta el pepino en rodajas muy finas, sálalas, espera 10 minutos, apriétalas para quitar el agua y alíñalas con 1 cucharada de vinagre y una pizca de azúcar. Ralla la zanahoria y alíñala con el resto del vinagre.",
+    "Ralla el jengibre y mézclalo con el tamari y el resto del azúcar. Seca la caballa y repasa con pinzas que no queden espinas.",
     "Calienta el aceite en una sartén antiadherente a fuego medio-alto y pon la caballa con la piel hacia abajo 3 minutos, hasta que esté crujiente; dale la vuelta 1 minuto. Vierte la mezcla de tamari y deja que burbujee 30-40 segundos, dando vueltas al pescado, hasta que quede lacado. Córtalo del tamaño de la nori, en trozos.",
     "Sobre film transparente, pon una hoja de nori con la cara brillante hacia abajo y en diagonal. Extiende en el centro un cuadrado fino de arroz de 10 cm, y encima la lechuga, la caballa, la zanahoria escurrida, un poco de sésamo y otra capa fina de arroz.",
     "Dobla las cuatro puntas de la nori hacia el centro, como un sobre, envuelve bien apretado con el film y deja reposar 5 minutos con el cierre hacia abajo para que la nori se ablande y selle. Repite hasta tener 4.",
@@ -807,13 +807,13 @@ window.RECETAS_SEED.push({
     { n: "agua", q: 125, u: "ml", nota: "más la del vapor" }
   ],
   pasos: [
-    "Con al menos 4 horas de antelación (o la noche anterior), pon el arroz glutinoso en remojo en agua fría. Escurre el arroz remojado. Corta el pollo en dados de 2 cm y mézclalo con 1 cucharada de tamari, la maicena, el jengibre rallado, el aceite de sésamo y la pimienta blanca. Deja que repose 15 minutos y, mientras, corta la zanahoria en daditos.",
+    "Con al menos 4 horas de antelación (o la noche anterior), pon el arroz glutinoso en remojo en agua fría. Escurre el arroz remojado. Corta el pollo en dados de 2 cm, ralla el jengibre y mezcla el pollo con 1 cucharada de tamari, la maicena, el jengibre, el aceite de sésamo y la pimienta blanca. Deja que repose 15 minutos y, mientras, corta la zanahoria en daditos.",
     "Pon a hervir agua en la cazuela del vapor. Calienta el aceite de girasol en una sartén a fuego medio-alto y dora el pollo 3 minutos. Añade la zanahoria y rehoga 2 minutos. Vierte 80 ml de agua, 1 cucharada de tamari y el azúcar y deja reducir 2 minutos, hasta que quede un jugo brillante.",
     "Mezcla el arroz con el resto del tamari y 3 cucharadas de agua.",
     "Reparte el pollo y la zanahoria en el fondo de dos cuencos resistentes al calor, cubre con el arroz, presiona ligeramente y vierte por encima el jugo de la sartén.",
-    "Pon los cuencos en un cestillo de vapor sobre la cazuela con agua hirviendo, tapa y cuece 35-40 minutos, hasta que el arroz esté translúcido y tierno. Si a los 20 minutos lo ves seco, rocíalo con 2 cucharadas de agua.",
-    "En los últimos 4 minutos, añade al cestillo el pak choi cortado a lo largo.",
-    "Vuelca cada cuenco sobre un plato, esparce la cebolleta en aros y sirve con el pak choi."
+    "Pon los cuencos en un cestillo de vapor sobre la cazuela con agua hirviendo, tapa y cuece 35-40 minutos, hasta que el arroz esté translúcido y tierno. Si a los 20 minutos lo ves seco, rocíalo con 2 cucharadas de agua. Mientras, corta el pak choi a lo largo y la cebolleta en aros.",
+    "En los últimos 4 minutos, añade al cestillo el pak choi.",
+    "Vuelca cada cuenco sobre un plato, esparce la cebolleta y sirve con el pak choi."
   ],
   nutricion: { kcal: 540, prot: 33, hc: 76, grasa: 11 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "batch cooking", "al vapor"],
@@ -852,11 +852,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga casi clara, déjalo en remojo 30 minutos y escúrrelo. Mezcla el cerdo con 1 cucharada de tamari, el jengibre rallado, 1 cucharadita de aceite de sésamo y pimienta y déjalo 10 minutos.",
+    "Lava el arroz hasta que el agua salga casi clara, déjalo en remojo 30 minutos y escúrrelo. Mientras, ralla el jengibre y mezcla el cerdo con 1 cucharada de tamari, el jengibre, 1 cucharadita de aceite de sésamo y pimienta; déjalo 10 minutos.",
     "Lava los brotes de soja y escúrrelos bien.",
     "En una cazuela de fondo grueso con buena tapa, pon el arroz con 170 ml de agua (menos de lo habitual, porque los brotes sueltan líquido). Reparte el cerdo desmenuzado por encima y cubre con los brotes.",
-    "Tapa y lleva a ebullición a fuego medio-alto, unos 5 minutos; después baja al mínimo y cuece 15 minutos. No levantes la tapa en ningún momento: en Corea se dice que, si se destapa a medias, los brotes cogen un olor a crudo.",
-    "Apaga y deja reposar tapado 10 minutos. Mientras, prepara la salsa: tuesta el sésamo en una sartén seca y machácalo un poco; mézclalo con el resto del tamari, el aceite de ajo, el resto del aceite de sésamo, el azúcar, 1 cucharada de agua, el cebollino picado y la cebolleta en aros finos.",
+    "Tapa y lleva a ebullición a fuego medio-alto, unos 5 minutos; después baja al mínimo y cuece 15 minutos. No levantes la tapa en ningún momento: en Corea se dice que, si se destapa a medias, los brotes cogen un olor a crudo. Mientras, pica el cebollino y corta la cebolleta en aros finos.",
+    "Apaga y deja reposar tapado 10 minutos. Mientras, prepara la salsa: tuesta el sésamo en una sartén seca y machácalo un poco; mézclalo con el resto del tamari, el aceite de ajo, el resto del aceite de sésamo, el azúcar, 1 cucharada de agua, el cebollino y la cebolleta.",
     "Destapa, mezcla con cuidado el arroz con los brotes y el cerdo, sirve en cuencos y que cada uno añada la salsa a su gusto."
   ],
   nutricion: { kcal: 540, prot: 24, hc: 75, grasa: 16 },
@@ -983,12 +983,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el kombu en remojo en los 900 ml de agua fría al menos 30 minutos: será un dashi vegetal, como el de los templos. Envuelve el tofu en papel de cocina con un peso encima 15 minutos.",
-    "Lava el arroz y cuécelo con 165 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
+    "Mientras, lava el arroz y cuécelo con 165 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Pela el daikon y la zanahoria y córtalos en cuartos de rodaja de 3 mm. Corta la patata en dados de 1,5 cm y déjala en agua fría. Pela la chirivía y córtala en láminas finas al bies.",
     "Calienta el aceite de sésamo en una cazuela a fuego medio y rehoga daikon, zanahoria, chirivía y patata escurrida 3 minutos, removiendo, hasta que brillen.",
     "Desmenuza el tofu con las manos sobre la cazuela, en trozos irregulares, y rehoga 2 minutos más.",
-    "Vierte el dashi (retira el kombu), lleva a ebullición, desespuma y cuece a fuego suave 15 minutos, hasta que el daikon esté translúcido y la patata tierna.",
-    "Sazona con el tamari y sal al gusto y deja reposar 5 minutos. Sirve en cuencos con la cebolleta en aros finos y el arroz al lado."
+    "Vierte el dashi (retira el kombu), lleva a ebullición, desespuma y cuece a fuego suave 15 minutos, hasta que el daikon esté translúcido y la patata tierna. Mientras, corta la cebolleta en aros finos.",
+    "Sazona con el tamari y sal al gusto y deja reposar 5 minutos. Sirve en cuencos con la cebolleta y el arroz al lado."
   ],
   nutricion: { kcal: 575, prot: 25, hc: 86, grasa: 14 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "de cuchara", "invierno", "batch cooking"],
@@ -1029,10 +1029,10 @@ window.RECETAS_SEED.push({
     "Lava el arroz y cuécelo con 165 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Desmenuza el bacalao en lascas con los dedos, quitando espinas y piel, y sécalo con papel. Pela el daikon y córtalo en láminas finas de unos 3 cm de lado.",
     "Calienta el aceite de sésamo y el aceite de ajo en una cazuela a fuego medio y rehoga el bacalao 2 minutos, removiendo, hasta que esté blanco y huela a tostado. Añade el daikon y rehoga 2 minutos más.",
-    "Vierte los 900 ml de agua con el kombu y hierve a fuego fuerte 5 minutos: el hervor vivo es lo que vuelve el caldo blanco y lechoso. Retira el kombu y sigue 10 minutos a fuego medio, hasta que el daikon esté translúcido.",
+    "Vierte los 900 ml de agua con el kombu y hierve a fuego fuerte 5 minutos: el hervor vivo es lo que vuelve el caldo blanco y lechoso. Retira el kombu y sigue 10 minutos a fuego medio, hasta que el daikon esté translúcido. Mientras, corta la cebolleta en aros.",
     "Sazona con el tamari y prueba antes de añadir sal: el bacalao ya aporta la suya.",
     "Bate los huevos y viértelos en un hilo fino dando vueltas por la superficie. Espera 20 segundos sin tocar y remueve una sola vez con suavidad, para que queden hebras grandes.",
-    "Añade la cebolleta en aros y una pizca de pimienta y sirve muy caliente, con el arroz aparte o dentro del cuenco."
+    "Añade la cebolleta y una pizca de pimienta y sirve muy caliente, con el arroz aparte o dentro del cuenco."
   ],
   nutricion: { kcal: 470, prot: 34, hc: 53, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "ligera", "de cuchara", "invierno"],
@@ -1117,12 +1117,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Pon los 900 ml de agua con el kombu y el jengibre en láminas en una cazuela y caliéntalos 10 minutos a fuego medio. Retira el kombu justo antes de que hierva.",
-    "Mientras, mezcla la ternera con 1/2 cucharada de tamari, 1 cucharadita de maicena, la pimienta blanca y 1 cucharada de agua, y déjala 10 minutos. Pon a hervir agua en otra olla.",
+    "Corta el jengibre en láminas y ponlo con los 900 ml de agua y el kombu en una cazuela; caliéntalo 10 minutos a fuego medio. Retira el kombu justo antes de que hierva.",
+    "Mientras, mezcla la ternera con 1/2 cucharada de tamari, 1 cucharadita de maicena, la pimienta blanca y 1 cucharada de agua, y déjala 10 minutos. Pon a hervir agua en otra olla. Pica el cilantro y corta la cebolleta en aros.",
     "Echa la carne en el agua hirviendo de la otra olla, sepárala con palillos 30 segundos y escúrrela en un colador: así quedan granos sueltos y la sopa no se enturbia con la espuma.",
     "Retira el jengibre del caldo, sazónalo con el resto del tamari y sal, añade la carne y lleva a ebullición. Disuelve el resto de la maicena en 4 cucharadas de agua fría y viértela poco a poco, removiendo, hasta que la sopa cubra el dorso de una cuchara como un almíbar ligero.",
     "Baja el fuego al mínimo. Bate las claras y viértelas en un hilo fino mientras remueves despacio en un solo sentido: se formarán cintas blancas y sedosas.",
-    "Apaga, añade el aceite de sésamo, el cilantro picado y la cebolleta en aros. Sirve en cuencos con el arroz al lado."
+    "Apaga, añade el aceite de sésamo, el cilantro y la cebolleta. Sirve en cuencos con el arroz al lado."
   ],
   nutricion: { kcal: 455, prot: 31, hc: 61, grasa: 9 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "sin verduras", "ligera", "alta en proteína", "de cuchara"],

@@ -81,7 +81,7 @@ window.RECETAS_SEED.push({
     "Seca las truchas por dentro y por fuera y hazles 3 cortes poco profundos en cada costado. Sálalas por dentro y por fuera, frótalas con la alcaravea y mete dentro de cada una dos rodajas finas de limón.",
     "Unta una fuente de horno con un tercio de la mantequilla, coloca las truchas y reparte por encima el resto de la mantequilla en daditos. Déjalas 10 minutos a temperatura ambiente mientras el horno termina de calentarse: la sal y la alcaravea empiezan a penetrar.",
     "Hornea 18-20 minutos, regándolas a mitad de cocción con la mantequilla derretida de la fuente. Están cuando el ojo se vuelve blanco y la aleta dorsal se desprende con un tirón suave.",
-    "Mientras, pela las patatas, córtalas en cuartos y cuécelas 18 minutos en agua con sal. Escúrrelas, devuélvelas a la cazuela y mézclalas con el perejil picado y 2 cucharadas del jugo de mantequilla de la fuente.",
+    "Mientras, pela las patatas, córtalas en cuartos y cuécelas 18 minutos en agua con sal; mientras se cuecen, pica el perejil. Escúrrelas, devuélvelas a la cazuela y mézclalas con el perejil y 2 cucharadas del jugo de mantequilla de la fuente.",
     "Sirve cada trucha con las patatas al perejil, el jugo de la fuente por encima, una vuelta de pimienta y un gajo del limón restante."
   ],
   nutricion: { kcal: 455, prot: 40, hc: 35, grasa: 17 },
@@ -127,7 +127,7 @@ window.RECETAS_SEED.push({
     "Remoja las hojas de gelatina 5 minutos en agua fría. Escúrrelas y disuélvelas en el caldo caliente (sin que hierva), removiendo hasta que no quede ningún filamento. Prueba de sal y añade el zumo de medio limón: debe quedar algo salado, porque en frío se nota menos.",
     "Vierte un dedo de caldo en dos moldes o cuencos hondos y mételos 15 minutos en la nevera, hasta que cuaje. Mientras, corta la zanahoria en rodajas finas (puedes darles forma de estrella), el huevo en rodajas y medio limón en medias lunas muy finas.",
     "Coloca sobre esa capa las rodajas de zanahoria, huevo y limón y unas hojas de perejil, en dibujo; encima, los trozos de merluza. Cubre con el resto del caldo templado y refrigera al menos 3 horas, hasta que esté firme.",
-    "Antes de servir, cuece las patatas peladas y en trozos 18 minutos en agua con sal, escúrrelas y alíñalas con el aceite de oliva y el eneldo picado. Pasa un cuchillo por el borde de los moldes, sumérgelos 5 segundos en agua caliente y desmóldalos sobre el plato, junto a las patatas templadas."
+    "Antes de servir, pela las patatas, córtalas en trozos y cuécelas 18 minutos en agua con sal; mientras, pica el eneldo. Escúrrelas y alíñalas con el aceite de oliva y el eneldo. Pasa un cuchillo por el borde de los moldes, sumérgelos 5 segundos en agua caliente y desmóldalos sobre el plato, junto a las patatas templadas."
   ],
   nutricion: { kcal: 400, prot: 37, hc: 36, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "batch cooking"],
@@ -167,12 +167,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Cuece 2 huevos 10 minutos, enfríalos en agua, pélalos y pícalos finos. Mézclalos con la mitad del eneldo y todo el cebollino picados, sal y pimienta: es el relleno.",
+    "Precalienta el horno a 190 °C. Cuece 2 huevos 10 minutos y, mientras, pica el eneldo y el cebollino. Enfría los huevos en agua, pélalos y pícalos finos. Mézclalos con la mitad del eneldo, todo el cebollino, sal y pimienta: es el relleno.",
     "Remoja el pan en la leche 5 minutos. Corta la merluza en dados y tritúrala a impulsos con el pan escurrido, el huevo crudo, la nuez moscada, media cucharadita de sal y pimienta, hasta tener una farsa fina y algo pegajosa. Si queda blanda, déjala 10 minutos en la nevera.",
     "Unta con el aceite un papel de horno sobre la bandeja. Con las manos mojadas, divide la farsa en dos y extiende cada mitad en un óvalo de unos 15 × 10 cm y 1,5 cm de grosor.",
     "Reparte el relleno a lo largo de una mitad de cada óvalo, dobla la otra mitad por encima en forma de media luna y sella el borde presionando con los dedos mojados; alisa la superficie para que no queden grietas.",
     "Derrite la mantequilla, pinta con ella las medias lunas y hornéalas 20-22 minutos, hasta que estén firmes al tocarlas, ligeramente doradas y el centro alcance 63 °C.",
-    "Mientras, pela las patatas, córtalas en trozos y cuécelas 18-20 minutos en agua con sal. Escúrrelas y mézclalas con el resto del eneldo picado. Bate el yogur con la ralladura y el zumo de medio limón y una pizca de sal.",
+    "Mientras, pela las patatas, córtalas en trozos y cuécelas 18-20 minutos en agua con sal. Ralla medio limón y bate el yogur con la ralladura, su zumo y una pizca de sal. Escurre las patatas y mézclalas con el resto del eneldo.",
     "Sirve cada telnoe entero o cortado en rodajas gruesas, para que se vea el corazón de huevo, con las patatas, la salsa de yogur y un gajo del limón restante."
   ],
   nutricion: { kcal: 535, prot: 44, hc: 46, grasa: 20 },
@@ -210,13 +210,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de medio centímetro y cuécelas 8 minutos en agua con sal, hasta que estén tiernas pero enteras. A la vez, cuece los huevos 10 minutos, enfríalos y córtalos en rodajas.",
+    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de medio centímetro y cuécelas 8 minutos en agua con sal, hasta que estén tiernas pero enteras. A la vez, cuece los huevos 10 minutos; mientras, pica el eneldo. Enfría los huevos y córtalos en rodajas.",
     "Corta el pescado en 4 trozos, sálalo y pásalo por la harina de arroz.",
     "Calienta el aceite en una sartén antiadherente a fuego medio-alto y marca el pescado 1 minuto por cada lado, solo para dorarlo por fuera: terminará de hacerse en el horno.",
-    "Mezcla la nata con el yogur, la mitad del eneldo picado, sal y pimienta. Debe quedar una salsa espesa como una nata agria.",
+    "Mezcla la nata con el yogur, la mitad del eneldo, sal y pimienta. Debe quedar una salsa espesa como una nata agria.",
     "En una fuente pequeña, extiende las rodajas de patata solapadas y sálalas. Coloca encima el pescado y, alrededor y sobre él, las rodajas de huevo.",
     "Cubre todo con la salsa y espolvorea el queso rallado. Hornea 15-18 minutos, hasta que la superficie esté dorada a manchas y la salsa burbujee en los bordes.",
-    "Deja reposar 3 minutos y sirve con el resto del eneldo picado por encima."
+    "Deja reposar 3 minutos y sirve con el resto del eneldo por encima."
   ],
   nutricion: { kcal: 540, prot: 44, hc: 41, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada", "alta en proteína"],
@@ -254,10 +254,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el mijo en un colador con agua caliente, frotándolo con la mano, hasta que el agua salga clara: así pierde el amargor.",
     "Corta la calabaza en dados de 1,5 cm. Ponla en una cazuela ancha con el mijo, 450 ml de agua y sal. Lleva a ebullición, tapa y cuece a fuego muy suave 18-20 minutos, hasta que el mijo haya absorbido el agua y la calabaza esté deshecha en parte.",
-    "Mientras, tuesta las pipas de calabaza en una sartén sin grasa 2-3 minutos, hasta que se hinchen y empiecen a crepitar. Reserva.",
-    "Prepara el aceite de eneldo: pica fino el eneldo y mézclalo con el aceite, la ralladura de medio limón y una pizca de sal.",
+    "Mientras, tuesta las pipas de calabaza en una sartén sin grasa 2-3 minutos, hasta que se hinchen y empiecen a crepitar. Reserva. Pica el cebollino.",
+    "Prepara el aceite de eneldo: pica fino el eneldo, ralla medio limón y mézclalos con el aceite y una pizca de sal.",
     "Sala los lomos de abadejo y cuécelos al vapor 7-8 minutos (en una vaporera o en un colador sobre una cazuela con agua hirviendo, tapado), hasta que estén opacos y se separen en lascas.",
-    "Remueve el mijo con una cuchara de madera, aplastando parte de la calabaza para que quede cremoso, y añade el cebollino picado y un chorrito de zumo de limón.",
+    "Remueve el mijo con una cuchara de madera, aplastando parte de la calabaza para que quede cremoso, y añade el cebollino y un chorrito de zumo de limón.",
     "Reparte la pshonka en platos hondos, coloca encima el abadejo, riégalo con el aceite de eneldo y termina con las pipas tostadas y pimienta."
   ],
   nutricion: { kcal: 515, prot: 40, hc: 56, grasa: 14 },
@@ -298,7 +298,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas.",
     "Mientras, corta el salmón en dados de 3 cm. Mézclalo con el zumo de medio limón, el cilantro molido, el pimentón, la mitad del aceite y sal, y déjalo marinar 10 minutos. Si usas palillos de madera, ponlos en remojo.",
-    "Corta los tomates en gajos y el pepino en medias lunas. Alíñalos con el resto del aceite, sal, el cilantro y la albahaca picados y unas gotas de limón: es la ensalada georgiana de tomate y pepino de todas las comidas.",
+    "Mientras se marina, corta los tomates en gajos y el pepino en medias lunas y pica el cilantro y la albahaca. Alíñalos con el resto del aceite, sal, las hierbas y unas gotas de limón: es la ensalada georgiana de tomate y pepino de todas las comidas.",
     "Ensarta el salmón en 4 brochetas sin apretar los dados, para que se hagan por igual.",
     "Calienta una plancha o sartén antiadherente a fuego medio-alto y cocina las brochetas 2 minutos por cada uno de sus cuatro lados, hasta que estén doradas por fuera y aún rosadas y jugosas en el centro.",
     "Sirve las brochetas sobre las patatas partidas por la mitad, con la ensalada al lado y los granos de granada por encima de todo; exprime el limón restante en la mesa."
@@ -379,10 +379,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Separa las ramas gruesas del eneldo de las hojas tiernas; pica las hojas y resérvalas. En una cazuela grande pon 2 litros de agua con 1 cucharada de sal, los tallos de eneldo, el laurel y la pimienta en grano.",
-    "Lleva a ebullición y añade las patatas nuevas enteras y con piel. Cuécelas 15-18 minutos, hasta que estén tiernas, y sácalas con una espumadera a una fuente; tápalas.",
+    "Lleva a ebullición y añade las patatas nuevas enteras y con piel. Cuécelas 15-18 minutos, hasta que estén tiernas (mientras, ralla medio limón y corta el pepino en bastones), y sácalas con una espumadera a una fuente; tápalas.",
     "Echa los langostinos al mismo caldo hirviendo. En cuanto vuelva a hervir, cuenta 2 minutos (3 si son grandes): deben quedar rosados y curvados en forma de C, no cerrados en O.",
     "Apaga el fuego y deja los langostinos 5 minutos en el caldo aromático para que tomen el sabor del eneldo, como se hace con los raki. Escúrrelos.",
-    "Derrite la mantequilla a fuego suave con la ralladura de medio limón, su zumo y la mitad del eneldo picado. Corta el pepino en bastones.",
+    "Derrite la mantequilla a fuego suave con la ralladura de limón, el zumo de medio limón y la mitad del eneldo picado.",
     "Sirve los langostinos y las patatas en una fuente, riega las patatas con la mantequilla de limón y esparce el resto del eneldo. Acompaña con el pepino y gajos de limón, y pela los langostinos en la mesa."
   ],
   nutricion: { kcal: 380, prot: 30, hc: 38, grasa: 12 },
@@ -424,12 +424,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escalda los tomates 30 segundos en agua hirviendo, pélalos y pícalos. Calienta una cazuela de fondo grueso a fuego medio-alto sin grasa. Sala el pollo y dóralo 6-8 minutos por todos los lados en su propia grasa, como se hace en Georgia, hasta que esté bien marcado.",
-    "Añade a la cazuela el aceite de ajo y la parte verde de la cebolleta en rodajas, rehoga 1 minuto y agrega el tomate, el cilantro molido, el fenogreco, el pimentón y el laurel.",
+    "Escalda los tomates 30 segundos en agua hirviendo, pélalos y pícalos. Corta en rodajas la parte verde de la cebolleta. Calienta una cazuela de fondo grueso a fuego medio-alto sin grasa. Sala el pollo y dóralo 6-8 minutos por todos los lados en su propia grasa, como se hace en Georgia, hasta que esté bien marcado.",
+    "Añade a la cazuela el aceite de ajo y la cebolleta, rehoga 1 minuto y agrega el tomate, el cilantro molido, el fenogreco, el pimentón y el laurel.",
     "Tapa y cuece a fuego suave 25 minutos, removiendo de vez en cuando, hasta que el pollo esté tierno y el tomate se haya convertido en una salsa espesa. Si se seca, añade un chorrito de agua.",
-    "Mientras, prepara el mchadi: mezcla la harina de maíz con una pizca de sal y unos 150 ml de agua templada, añadiendo poco a poco, hasta lograr una masa blanda que no se pegue. Forma 4 tortitas ovaladas de 1 cm de grosor, mojándote las manos.",
+    "Mientras, pica el cilantro, la albahaca y el eneldo, y prepara el mchadi: mezcla la harina de maíz con una pizca de sal y unos 150 ml de agua templada, añadiendo poco a poco, hasta lograr una masa blanda que no se pegue. Forma 4 tortitas ovaladas de 1 cm de grosor, mojándote las manos.",
     "Unta una sartén antiadherente con el aceite de oliva y cocina las tortitas a fuego medio-bajo 5-6 minutos por cada lado, hasta que tengan costra dorada y suenen huecas al golpearlas.",
-    "Pica el cilantro, la albahaca y el eneldo. Retira el laurel, apaga el fuego y mezcla casi todas las hierbas con el guiso; prueba de sal y pimienta.",
+    "Retira el laurel, apaga el fuego y mezcla casi todas las hierbas con el guiso; prueba de sal y pimienta.",
     "Sirve el chakhokhbili con el resto de las hierbas por encima y el mchadi caliente para mojar en la salsa."
   ],
   nutricion: { kcal: 530, prot: 37, hc: 53, grasa: 19 },
@@ -469,10 +469,10 @@ window.RECETAS_SEED.push({
     "Pela las patatas. Cuece 250 g de ellas enteras en agua con sal 20 minutos y aplástalas en puré sin nada más. Mientras se cuecen, ralla el resto (550 g) por la parte más fina del rallador.",
     "Pon la patata rallada en un paño limpio y retuércelo sobre un cuenco para sacar todo el líquido que puedas. Deja reposar ese líquido 5 minutos, tira el agua con cuidado y quédate con el almidón blanco del fondo.",
     "En un bol, mezcla la patata rallada escurrida, el puré, el almidón recuperado, la fécula de patata y 1 cucharadita de sal. Amasa hasta tener una masa gris clara, firme y moldeable.",
-    "Pon a calentar una cazuela grande con agua y sal para cocer los cepelinai. Para el relleno, mezcla el cerdo picado con la mitad de la parte verde de la cebolleta picada, la mejorana, sal, pimienta y 1 cucharada de agua fría.",
+    "Pon a calentar una cazuela grande con agua y sal para cocer los cepelinai. Para el relleno, pica la parte verde de la cebolleta y mezcla el cerdo picado con la mitad, la mejorana, sal, pimienta y 1 cucharada de agua fría.",
     "Divide la masa en 4 porciones. Con las manos mojadas, aplana cada una en la palma, pon en el centro una cuarta parte del relleno y cierra dándole forma de dirigible alargado, sin grietas.",
     "Cuando el agua hierva, baja el fuego para que solo tiemble y sumerge los cepelinai. Remueve con cuidado para que no se peguen al fondo y cuécelos 25 minutos, hasta que floten y la masa esté translúcida.",
-    "Mientras, corta la panceta en tiras y dórala en una sartén sin grasa a fuego medio 5 minutos, hasta que esté crujiente. Añade el resto de la cebolleta 30 segundos, retira del fuego y deja templar; mezcla con el yogur y el eneldo picado.",
+    "Mientras, pica el eneldo, corta la panceta en tiras y dórala en una sartén sin grasa a fuego medio 5 minutos, hasta que esté crujiente. Añade el resto de la cebolleta 30 segundos, retira del fuego y deja templar; mezcla con el yogur y el eneldo.",
     "Saca los cepelinai con una espumadera, escúrrelos bien y sírvelos con la salsa por encima."
   ],
   nutricion: { kcal: 615, prot: 32, hc: 76, grasa: 20 },
@@ -513,11 +513,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el solomillo en dados de 3 cm, sálalo y márcalo en una plancha muy caliente sin grasa, 1 minuto por cada lado, hasta que tenga marcas tostadas: ese sabor a brasa es la base de la mućkalica. Reserva.",
-    "Quita las semillas a los pimientos y córtalos en tiras anchas. Escalda los tomates, pélalos y trocéalos.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga los pimientos 10 minutos, hasta que estén blandos y empiecen a dorarse por los bordes. Añade la parte verde de la cebolleta en rodajas y rehoga 1 minuto más.",
+    "Quita las semillas a los pimientos y córtalos en tiras anchas. Escalda los tomates, pélalos y trocéalos. Corta en rodajas la parte verde de la cebolleta.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga los pimientos 10 minutos, hasta que estén blandos y empiecen a dorarse por los bordes. Añade la cebolleta y rehoga 1 minuto más.",
     "Aparta del fuego, añade el pimentón y remueve 10 segundos; incorpora el tomate y el laurel, devuelve al fuego y cuece 8 minutos, hasta que el tomate se deshaga.",
-    "Añade el cerdo con su jugo y 50 ml de agua, tapa y cuece a fuego suave 12 minutos, hasta que la carne esté tierna y la salsa haya ligado. Prueba de sal y pimienta.",
-    "Tuesta el pan. Sirve la mućkalica en la misma cazuela, con perejil picado por encima, el queso feta desmigado al lado y el pan para mojar."
+    "Añade el cerdo con su jugo y 50 ml de agua, tapa y cuece a fuego suave 12 minutos, hasta que la carne esté tierna y la salsa haya ligado. Mientras, pica el perejil, desmiga el feta y tuesta el pan. Prueba de sal y pimienta.",
+    "Sirve la mućkalica en la misma cazuela, con el perejil por encima, el queso feta al lado y el pan para mojar."
   ],
   nutricion: { kcal: 530, prot: 40, hc: 42, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína"],
@@ -557,11 +557,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Cuece 2 huevos 10 minutos, enfríalos en agua y pélalos. Remoja el pan en la leche 5 minutos y desmenúzalo con un tenedor.",
-    "En un bol, mezcla la carne con el pan remojado, el huevo crudo, la mejorana, el pimentón, la mitad del cebollino picado, 3/4 de cucharadita de sal y pimienta. Amasa 2 minutos con la mano hasta que esté homogénea y algo pegajosa: así no se agrietará.",
+    "Precalienta el horno a 180 °C. Cuece 2 huevos 10 minutos, enfríalos en agua y pélalos. Mientras se cuecen, remoja el pan en la leche 5 minutos y desmenúzalo con un tenedor, y pica el cebollino.",
+    "En un bol, mezcla la carne con el pan remojado, el huevo crudo, la mejorana, el pimentón, la mitad del cebollino, 3/4 de cucharadita de sal y pimienta. Amasa 2 minutos con la mano hasta que esté homogénea y algo pegajosa: así no se agrietará.",
     "Forra un molde pequeño de cake con papel de horno. Extiende la mitad de la masa en el fondo, coloca los huevos duros en fila, uno detrás de otro, y cúbrelos con el resto, apretando para que no queden huecos.",
     "Hornea 45-50 minutos, hasta que la superficie esté dorada y, al pinchar el centro, el jugo salga transparente (72 °C si tienes termómetro). Deja reposar 10 minutos antes de cortar.",
-    "Mientras, pela las patatas, córtalas en trozos y cuécelas 18 minutos en agua con sal. Escúrrelas y mézclalas con el eneldo picado.",
+    "Mientras, pela las patatas, córtalas en trozos y cuécelas 18 minutos en agua con sal; mientras se cuecen, pica el eneldo. Escúrrelas y mézclalas con el eneldo.",
     "Para la surówka, ralla fina la zanahoria, añade el zumo de media naranja, la otra media pelada en daditos, el aceite y una pizca de sal; mezcla y deja que repose mientras se hace el asado.",
     "Corta el pastel en rebanadas gruesas, de modo que cada una muestre el huevo en el centro, y sírvelo con las patatas, la surówka y el resto del cebollino."
   ],
@@ -723,11 +723,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas.",
-    "Mientras, sala ligeramente los filetes de pavo (los pepinillos ya aportan sal) y pásalos por la harina de arroz, sacudiendo bien. Reserva la harina sobrante.",
+    "Mientras, ralla los pepinillos por la parte gruesa del rallador y pica el eneldo. Sala ligeramente los filetes de pavo (los pepinillos ya aportan sal) y pásalos por la harina de arroz, sacudiendo bien. Reserva la harina sobrante.",
     "Calienta el aceite en una sartén amplia a fuego medio-alto y dora los filetes 2 minutos por cada lado. Sácalos a un plato: estarán aún jugosos por dentro.",
-    "Ralla los pepinillos por la parte gruesa del rallador. En la misma sartén, a fuego medio, añade la harina sobrante, remueve 30 segundos y vierte poco a poco 200 ml de agua, raspando el fondo, hasta que espese sin grumos.",
+    "En la misma sartén, a fuego medio, añade la harina sobrante, remueve 30 segundos y vierte poco a poco 200 ml de agua, raspando el fondo, hasta que espese sin grumos.",
     "Añade el pepinillo rallado, el líquido de los pepinillos y la nata. Cuece 3 minutos a fuego suave, devuelve el pavo con su jugo y deja 3-4 minutos más, hasta que esté hecho por dentro y la salsa nape una cuchara.",
-    "Apaga el fuego, añade el eneldo picado y prueba de sal y pimienta. Sirve el pavo bañado en la salsa con las patatas al lado."
+    "Apaga el fuego, añade el eneldo y prueba de sal y pimienta. Sirve el pavo bañado en la salsa con las patatas al lado."
   ],
   nutricion: { kcal: 445, prot: 41, hc: 37, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "una sola sartén"],
@@ -768,7 +768,7 @@ window.RECETAS_SEED.push({
     "Mientras, tuesta el alforfón en una sartén sin grasa a fuego medio 4-5 minutos, moviéndolo, hasta que huela a nuez y se oscurezca. Pásalo al mortero y cháfalo un poco, dejando trocitos.",
     "Sala y salpimienta el lomo. Dóralo en la misma sartén con el resto del aceite, 1 minuto por cada lado, solo para darle color.",
     "Unta la parte de arriba y los lados del lomo con la mostaza y aprieta encima el alforfón para que se pegue. Colócalo en la bandeja, junto a las patatas, y hornea 18-20 minutos, hasta que el centro alcance 63 °C o el jugo salga apenas rosado. Déjalo reposar 5 minutos tapado con papel.",
-    "Mientras, corta las zanahorias en bastones y ponlas en un cazo con la mantequilla, el azúcar, una pizca de sal y agua justo hasta cubrir la mitad. Cuece a fuego medio sin tapa 12-15 minutos, hasta que el agua se evapore y queden brillantes. Añade el eneldo picado.",
+    "Mientras, corta las zanahorias en bastones y ponlas en un cazo con la mantequilla, el azúcar, una pizca de sal y agua justo hasta cubrir la mitad. Cuece a fuego medio sin tapa 12-15 minutos, hasta que el agua se evapore y queden brillantes; mientras, pica el eneldo. Añádelo al final.",
     "Corta el lomo en rodajas gruesas, con cuidado de no desprender la costra, y sírvelo con las zanahorias glaseadas y las patatas asadas."
   ],
   nutricion: { kcal: 565, prot: 42, hc: 47, grasa: 23 },
@@ -808,10 +808,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Ralla los tomates por la parte gruesa del rallador hasta quedarte con la piel en la mano. Quita las semillas al pimiento y córtalo en daditos. Muele las nueces en el mortero hasta tener una pasta gruesa.",
-    "Calienta el aceite de ajo en una sartén mediana con tapa a fuego medio y rehoga el pimiento 4 minutos, hasta que esté blando. Añade la parte verde de la cebolleta picada y rehoga 30 segundos.",
+    "Ralla los tomates por la parte gruesa del rallador hasta quedarte con la piel en la mano. Quita las semillas al pimiento y córtalo en daditos. Pica la parte verde de la cebolleta, el cilantro y la albahaca. Muele las nueces en el mortero hasta tener una pasta gruesa.",
+    "Calienta el aceite de ajo en una sartén mediana con tapa a fuego medio y rehoga el pimiento 4 minutos, hasta que esté blando. Añade la cebolleta y rehoga 30 segundos.",
     "Agrega el tomate, el cilantro molido, el fenogreco, el pimentón y sal. Cuece 8 minutos, hasta que la salsa espese y no quede agua suelta.",
-    "Incorpora las nueces molidas y la mitad del cilantro y la albahaca picados; cuece 1 minuto. La salsa se volverá más cremosa y rosada.",
+    "Incorpora las nueces molidas y la mitad del cilantro y la albahaca; cuece 1 minuto. La salsa se volverá más cremosa y rosada.",
     "Haz 4 huecos con una cuchara, casca un huevo en cada uno, sálalos y tapa. Cocina a fuego suave 4-5 minutos, hasta que las claras estén cuajadas y las yemas aún blandas.",
     "Mientras, tuesta el pan. Sirve el chirbuli en la misma sartén con el resto de las hierbas por encima y el pan para mojar."
   ],
@@ -852,11 +852,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos. A la vez, cuece los huevos 9 minutos desde que el agua hierva, pásalos a agua con hielo y pélalos: la yema quedará cuajada pero tierna, sin cerco verde.",
+    "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos. A la vez, cuece los huevos 9 minutos desde que el agua hierva, pásalos a agua con hielo y pélalos: la yema quedará cuajada pero tierna, sin cerco verde. Pica el eneldo.",
     "Para la salsa, derrite la mantequilla en un cazo a fuego medio-bajo, añade la harina de arroz y remueve 1 minuto sin que tome color.",
     "Vierte poco a poco la leche y 150 ml de agua, batiendo con varillas, y cuece 4-5 minutos, hasta que la salsa espese como unas natillas ligeras.",
     "Fuera del fuego, añade las dos mostazas, unas gotas de limón, sal y pimienta. Prueba: debe ser cremosa, con un picor de mostaza suave y un punto ácido.",
-    "Escurre las patatas y mézclalas con la mitad del eneldo picado. Corta la lechuga en tiras y alíñala con el aceite, unas gotas de limón y sal.",
+    "Escurre las patatas y mézclalas con la mitad del eneldo. Corta la lechuga en tiras y alíñala con el aceite, unas gotas de limón y sal.",
     "Parte los huevos por la mitad a lo largo y colócalos en platos hondos con la yema hacia arriba. Cúbrelos con la salsa templada y espolvorea el resto del eneldo. Sirve con las patatas y la lechuga."
   ],
   nutricion: { kcal: 465, prot: 23, hc: 48, grasa: 20 },
@@ -936,7 +936,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el alforfón y cuécelo en un cazo con 150 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12-15 minutos, hasta que absorba el agua y los granos estén sueltos.",
-    "Mientras, ralla la zanahoria. En una sartén antiadherente de 24 cm, calienta 1 cucharadita de aceite y rehoga la zanahoria 4 minutos, hasta que esté tierna; añade la parte verde de la cebolleta picada 30 segundos y mezcla con el alforfón y la mitad del eneldo picado.",
+    "Mientras, ralla la zanahoria y pica la parte verde de la cebolleta y el eneldo. En una sartén antiadherente de 24 cm, calienta 1 cucharadita de aceite y rehoga la zanahoria 4 minutos, hasta que esté tierna; añade la cebolleta 30 segundos y mezcla con el alforfón y la mitad del eneldo.",
     "Separa las claras de las yemas. Monta las claras con una pizca de sal a punto de nieve blanda; bate las yemas con pimienta y el queso, e incorpóralas a las claras con movimientos envolventes.",
     "Limpia la sartén, caliéntala a fuego medio-bajo con el aceite restante y vierte los huevos, extendiéndolos con la espátula. Tapa y cuaja 5-6 minutos, hasta que la superficie ya no esté líquida y la base esté dorada.",
     "Reparte el relleno caliente sobre una mitad, dobla la tortilla por encima con la espátula y déjala 1 minuto más tapada.",
@@ -977,9 +977,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Unta con 1 cucharadita de aceite una fuente de unos 20 cm.",
+    "Precalienta el horno a 190 °C. Unta con 1 cucharadita de aceite una fuente de unos 20 cm. Pica el eneldo y el cebollino.",
     "Pela la patata y la chirivía y rállalas por la parte gruesa del rallador. Ponlas en un paño limpio y retuércelo para escurrir todo el líquido: así la torta quedará dorada y no aguada.",
-    "En un bol, bate los huevos con la leche, dos tercios del queso, el eneldo y el cebollino picados (reserva un poco de cebollino), 1/2 cucharadita de sal y pimienta. Añade la patata y la chirivía y mezcla bien.",
+    "En un bol, bate los huevos con la leche, dos tercios del queso, el eneldo y el cebollino (reserva un poco de cebollino), 1/2 cucharadita de sal y pimienta. Añade la patata y la chirivía y mezcla bien.",
     "Vierte en la fuente, alisa la superficie, espolvorea el resto del queso y riega con el aceite restante.",
     "Hornea 30-35 minutos, hasta que la superficie esté dorada, los bordes se despeguen y al pinchar el centro con un palillo salga limpio.",
     "Mientras, corta los tomates en rodajas y alíñalos con sal y el cebollino reservado. Deja reposar la torta 5 minutos y sírvela en porciones con la ensalada."
@@ -1065,11 +1065,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta el tempeh en dados de 2 cm y cuécelo al vapor (o en agua apenas hirviendo) 10 minutos: pierde el amargor y absorbe mejor el aliño.",
-    "Corta las patatas sin pelar en dados de 2 cm. Mézclalas en una bandeja con la mitad del aceite de ajo, la mitad del cilantro molido y del pimentón y sal. Hornéalas 20 minutos.",
+    "Mientras, corta las patatas sin pelar en dados de 2 cm. Mézclalas en una bandeja con la mitad del aceite de ajo, la mitad del cilantro molido y del pimentón y sal. Hornéalas 20 minutos.",
     "Mientras, escurre el tempeh y mézclalo con el resto del aceite de ajo, del cilantro molido y del pimentón, el fenogreco y sal.",
     "Saca la bandeja, remueve las patatas, añade el tempeh y hornea 15 minutos más, hasta que las patatas estén crujientes por fuera y el tempeh dorado.",
-    "Mientras, corta los tomates en gajos y el pepino en medias lunas; alíñalos con el vinagre y sal.",
-    "Nada más salir del horno, mezcla en la bandeja la parte verde de la cebolleta en rodajas finas y el cilantro picado, que se ablandarán con el calor. Sirve el ojakhuri con la ensalada."
+    "Mientras, corta los tomates en gajos y el pepino en medias lunas y alíñalos con el vinagre y sal. Corta en rodajas finas la parte verde de la cebolleta y pica el cilantro.",
+    "Nada más salir del horno, mezcla en la bandeja la cebolleta y el cilantro, que se ablandarán con el calor. Sirve el ojakhuri con la ensalada."
   ],
   nutricion: { kcal: 495, prot: 28, hc: 50, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "bajo en colesterol", "una sola sartén"],

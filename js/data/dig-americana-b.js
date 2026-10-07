@@ -136,9 +136,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 8-10 minutos, solo hasta que un cuchillo entre con una ligera resistencia: terminarán en el horno. Escúrrelas y deja que pierdan el vapor en el colador.",
+    "Precalienta el horno a 190 °C. Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 8-10 minutos, solo hasta que un cuchillo entre con una ligera resistencia: terminarán en el horno. Mientras se cuecen, pica el cebollino y los tallos verdes de la cebolleta. Escurre las patatas y deja que pierdan el vapor en el colador.",
     "Para la salsa, derrite 10 g de mantequilla en un cazo a fuego medio, añade la harina de arroz y remueve 1 minuto. Vierte el caldo y la leche calientes poco a poco, batiendo con varillas, y cuece 3-4 minutos, hasta que cubra la cuchara: es la «crema de pollo» casera del plato.",
-    "Fuera del fuego, añade la crema agria, tres cuartas partes del cheddar, el cebollino y los tallos verdes de cebolleta picados, sal y pimienta blanca.",
+    "Fuera del fuego, añade la crema agria, tres cuartas partes del cheddar, el cebollino y la cebolleta, sal y pimienta blanca.",
     "Mezcla con cuidado las patatas con la salsa, sin romperlas, y pásalas a una fuente de horno de unos 20 cm.",
     "Aplasta los copos de maíz con las manos en migas gruesas y mézclalos con la mantequilla restante fundida, el resto del cheddar y el pimentón. Espárcelos por encima.",
     "Hornea 25 minutos, hasta que la salsa burbujee por los bordes y la costra esté dorada y crujiente. Deja reposar 5 minutos para que la salsa se asiente.",
@@ -187,7 +187,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Bate los huevos con una pizca de sal. En una sartén antiadherente con el aceite de oliva a fuego suave, cuaja dos tortillas muy finas, 1 minuto por cada lado. Enróllalas y córtalas en tiras finas.",
-    "Prepara las verduras antes de encender el wok: zanahoria en bastoncitos finos, pimiento en tiras, tallos de pak choi en trozos de 2 cm y las hojas aparte, castañas de agua en láminas, jengibre en juliana y cebolleta en trozos de 3 cm.",
+    "Mientras se hace el arroz, prepara las verduras antes de encender el wok: corta la zanahoria en bastoncitos finos, el pimiento en tiras, los tallos de pak choi en trozos de 2 cm (las hojas, aparte), las castañas de agua en láminas, el jengibre en juliana y la cebolleta en trozos de 3 cm.",
     "Mezcla en un vaso el caldo frío con el tamari, la maicena y el azúcar: es la salsa marrón.",
     "Calienta el wok a fuego fuerte con el aceite de ajo, saltea el jengibre 20 segundos y añade la zanahoria y el pimiento; saltea 2 minutos sin dejar de mover. Incorpora los tallos de pak choi y las castañas 1 minuto, y después los brotes de soja y las hojas de pak choi 1 minuto más: las verduras deben quedar tiernas pero con su punto crujiente.",
     "Remueve la salsa, viértela en el wok y cuece 1 minuto, hasta que espese y envuelva las verduras con brillo. Fuera del fuego, añade el aceite de sésamo y la cebolleta.",
@@ -278,11 +278,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Frota las patatas nuevas bajo el grifo y deja la piel; parte por la mitad las más grandes. Pela las zanahorias y córtalas en trozos de 3 cm (las pequeñas, enteras). Quita las puntas a las judías y córtalas en trozos de 4 cm.",
-    "Pon las patatas y las zanahorias en una cazuela, cúbrelas justo con agua, sala y cuécelas 12 minutos desde que hierva.",
+    "Pon las patatas y las zanahorias en una cazuela, cúbrelas justo con agua, sala y cuécelas 12 minutos desde que hierva. Mientras, pica el cebollino y el perejil.",
     "Añade las judías y cuece 6-8 minutos más, hasta que todo esté tierno y las patatas se dejen pinchar sin resistencia.",
     "Escurre las verduras dejando unos 200 ml del agua de cocción en la cazuela: sabe a huerto y es la base del caldo.",
     "Añade la leche y la mantequilla y calienta sin que hierva. Disuelve la maicena en la nata, incorpórala y cuece 2 minutos a fuego suave, removiendo, hasta que el caldo se ligue y quede sedoso.",
-    "Devuelve las verduras, calienta 2 minutos, salpimienta con pimienta blanca y termina con el cebollino y el perejil picados. Sirve en platos hondos con su caldo."
+    "Devuelve las verduras, calienta 2 minutos, salpimienta con pimienta blanca y termina con el cebollino y el perejil. Sirve en platos hondos con su caldo."
   ],
   nutricion: { kcal: 440, prot: 11, hc: 63, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "verano", "ligera", "económica", "para niños"],
@@ -325,11 +325,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Si usas palillos de madera, ponlos en remojo. Envuelve el tofu en un paño limpio, pon un peso encima y déjalo 15 minutos para que suelte agua; córtalo en dados de 3 cm.",
-    "Mezcla el tamari, el sirope de arce, el pimentón ahumado y la mitad del aceite y marina el tofu 15 minutos, dándole la vuelta a mitad.",
-    "Mientras, lava el arroz y cuécelo con 280 ml de agua y sal: cuando hierva, tapa y deja 12 minutos a fuego mínimo y 5 de reposo. Mézclalo con la mitad del cebollino picado.",
-    "Para la salsa blanca, bate el yogur con la mayonesa, el vinagre, la mostaza, el zumo del limón, sal y una pizca generosa de pimienta recién molida. Debe quedar fluida, como una vinagreta cremosa.",
-    "Corta el pimiento en cuadrados de 3 cm y el calabacín en rodajas gruesas. Ensarta el tofu alternando con el pimiento, el calabacín y los tomates cherry, y pinta las verduras con el resto del aceite y sal.",
+    "Si usas palillos de madera, ponlos en remojo. Envuelve el tofu en un paño limpio, pon un peso encima y déjalo 15 minutos para que suelte agua. Mientras, prepara la salsa blanca: bate el yogur con la mayonesa, el vinagre, la mostaza, el zumo del limón, sal y una pizca generosa de pimienta recién molida. Debe quedar fluida, como una vinagreta cremosa.",
+    "Corta el tofu en dados de 3 cm. Mezcla el tamari, el sirope de arce, el pimentón ahumado y la mitad del aceite y marina el tofu 15 minutos, dándole la vuelta a mitad.",
+    "Mientras, lava el arroz y cuécelo con 280 ml de agua y sal: cuando hierva, tapa y deja 12 minutos a fuego mínimo y 5 de reposo. Mientras se hace, pica el cebollino y corta el pimiento en cuadrados de 3 cm y el calabacín en rodajas gruesas.",
+    "Mezcla el arroz con la mitad del cebollino. Ensarta el tofu alternando con el pimiento, el calabacín y los tomates cherry, y pinta las verduras con el resto del aceite y sal.",
     "Calienta la plancha o la parrilla a fuego fuerte y asa las brochetas 8-10 minutos, girándolas cada 2 minutos y pincelándolas con la marinada sobrante, hasta que tengan marcas tostadas y las verduras estén tiernas.",
     "Sirve las brochetas sobre el arroz, riega con la salsa blanca y termina con el resto del cebollino."
   ],
@@ -377,8 +376,8 @@ window.RECETAS_SEED.push({
     "Mientras, pon a hervir un cazo con agua, corta el tempeh en dados de 2,5 cm y cuécelo 10 minutos en el agua hirviendo: pierde el punto amargo, se ablanda y luego absorbe mejor la salsa.",
     "Para la barbacoa, pon en un cazo el tomate triturado, el concentrado, el sirope de arce, el azúcar, el vinagre, la mostaza, el pimentón ahumado, el tamari y 3 cucharadas de agua. Cuece 8 minutos a fuego suave, removiendo, hasta que esté espesa y brillante.",
     "Escurre el tempeh, mézclalo con el resto del aceite y un tercio de la salsa y extiéndelo en una bandeja con papel de horno. Hornéalo 12 minutos.",
-    "Sácalo, píntalo con otro tercio de la salsa y hornéalo 8-10 minutos más, hasta que los bordes estén oscuros y caramelizados: esas son las «puntas quemadas».",
-    "Tuesta el pan y corta los pepinillos en rodajas. Sirve el tempeh con el resto de la salsa caliente, la calabaza, los pepinillos, el pan y el cebollino picado por encima."
+    "Sácalo, píntalo con otro tercio de la salsa y hornéalo 8-10 minutos más, hasta que los bordes estén oscuros y caramelizados: esas son las «puntas quemadas». Mientras, corta los pepinillos en rodajas y pica el cebollino.",
+    "Tuesta el pan. Sirve el tempeh con el resto de la salsa caliente, la calabaza, los pepinillos, el pan y el cebollino por encima."
   ],
   nutricion: { kcal: 465, prot: 24, hc: 53, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "barbacoa"],
@@ -470,8 +469,8 @@ window.RECETAS_SEED.push({
     "Mientras, pon los fideos de arroz secos en un plato apto, en una sola capa y en dos tandas, y caliéntalos en el microondas a máxima potencia 40-60 segundos: se inflarán blancos y crujientes. Vigílalos para que no se tuesten.",
     "Tuesta las almendras y el sésamo en una sartén sin grasa 3 minutos, hasta que estén dorados.",
     "Pela una mandarina y media y sepárala en gajos; exprime la media restante. Ralla el resto del jengibre y bátelo con el zumo de mandarina, el vinagre, el tamari, el aceite de sésamo y el azúcar.",
-    "Corta la col en juliana muy fina, aliñala con un tercio de la vinagreta y déjala 5 minutos: se ablanda y se digiere mejor. Corta la lechuga en tiras y ralla la zanahoria.",
-    "Mezcla la col con la lechuga, la zanahoria, el pollo, los tallos verdes de la cebolleta en aros y el cilantro, con el resto de la vinagreta. Reparte por encima los gajos de mandarina, las almendras, el sésamo y los fideos inflados justo antes de servir."
+    "Corta la col en juliana muy fina, alíñala con un tercio de la vinagreta y déjala 5 minutos: se ablanda y se digiere mejor. Mientras, corta la lechuga en tiras, ralla la zanahoria, corta en aros los tallos verdes de la cebolleta y deshoja el cilantro.",
+    "Mezcla la col con la lechuga, la zanahoria, el pollo, la cebolleta y el cilantro, con el resto de la vinagreta. Reparte por encima los gajos de mandarina, las almendras, el sésamo y los fideos inflados justo antes de servir."
   ],
   nutricion: { kcal: 470, prot: 40, hc: 37, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "verano"],
@@ -512,8 +511,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa frotándola en un colador y cuécela con 200 ml de agua y sal: cuando hierva, tapa y deja 15 minutos a fuego mínimo y 5 de reposo. Extiéndela en una fuente para que se temple.",
-    "Corta el pepino en dados, los rábanos en láminas finas y los tomates cherry por la mitad.",
-    "Para el aliño, bate el yogur con la mostaza, el eneldo picado (reserva unas ramitas), la ralladura y el zumo de medio limón, 1 cucharadita de aceite, sal y pimienta.",
+    "Mientras se cuece la quinoa, corta el pepino en dados, los rábanos en láminas finas y los tomates cherry por la mitad.",
+    "Para el aliño, pica el eneldo (reserva unas ramitas enteras) y bátelo con el yogur, la mostaza, la ralladura y el zumo de medio limón, 1 cucharadita de aceite, sal y pimienta.",
     "Tuesta las pipas en una sartén sin grasa 2-3 minutos, hasta que estén doradas, y apártalas.",
     "Seca muy bien la trucha y sálala. En la misma sartén antiadherente, a fuego medio-alto con el resto del aceite, ponla con la piel hacia abajo y presiónala con una espátula los primeros 20 segundos para que no se curve. Cocínala 3-4 minutos, hasta que la piel cruja y la carne se vuelva opaca casi hasta arriba; dale la vuelta 1 minuto.",
     "Mezcla la quinoa con las espinacas, el pepino, el rábano y el tomate y la mitad del aliño. Reparte en los platos, coloca la trucha en trozos grandes, el resto del aliño, las pipas, las ramitas de eneldo y gajos del otro medio limón."
@@ -604,12 +603,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pollo en trozos de 4 cm y salpimiéntalo. Corta el bacon en tiras finas y pica en dados pequeños el pimiento verde y la zanahoria.",
+    "Corta el pollo en trozos de 4 cm y salpimiéntalo. Corta el bacon en tiras finas, pica en dados pequeños el pimiento verde y la zanahoria y pica los tallos verdes de la cebolleta.",
     "En una cazuela ancha de fondo grueso a fuego medio, dora el bacon 4 minutos, hasta que suelte la grasa y esté crujiente; sácalo. En esa grasa, con el aceite de ajo, dora el pollo 5 minutos por todos los lados y resérvalo.",
-    "En la misma cazuela rehoga el pimiento, la zanahoria y la mitad de los tallos verdes de cebolleta picados 5 minutos, hasta que estén blandos. Añade el pimentón, remueve 30 segundos y agrega el tomate, el tomillo y el laurel. Cuece 5 minutos, hasta que el tomate espese.",
+    "En la misma cazuela rehoga el pimiento, la zanahoria y la mitad de la cebolleta 5 minutos, hasta que estén blandos. Añade el pimentón, remueve 30 segundos y agrega el tomate, el tomillo y el laurel. Cuece 5 minutos, hasta que el tomate espese.",
     "Lava el arroz bajo el grifo hasta que el agua salga clara: es el secreto de los granos sueltos de Carolina. Añádelo a la cazuela y remueve 1 minuto para que se impregne.",
-    "Vierte el caldo caliente, devuelve el pollo y el bacon, sala y lleva a hervor. Tapa y cuece 18 minutos a fuego mínimo sin destapar.",
-    "Apaga y deja reposar 10 minutos tapado. Suelta el arroz con un tenedor, retira el laurel y termina con el perejil y el resto de la cebolleta picados."
+    "Vierte el caldo caliente, devuelve el pollo y el bacon, sala y lleva a hervor. Tapa y cuece 18 minutos a fuego mínimo sin destapar. Mientras, pica el perejil.",
+    "Apaga y deja reposar 10 minutos tapado. Suelta el arroz con un tenedor, retira el laurel y termina con el perejil y el resto de la cebolleta."
   ],
   nutricion: { kcal: 595, prot: 38, hc: 71, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "batch cooking", "económica"],
@@ -652,12 +651,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 280 ml de agua y sal: cuando hierva, tapa y deja 12 minutos a fuego mínimo y 5 de reposo.",
-    "Mientras, corta la zanahoria en dados pequeños y las judías en trozos de 1 cm y cuécelas 6 minutos en agua con sal. Escúrrelas.",
+    "Mientras, corta la zanahoria en dados pequeños y las judías en trozos de 1 cm y cuécelas 6 minutos en agua con sal. Mientras se cuecen, corta el pimiento asado en tiras y pica el perejil. Escurre las verduras.",
     "Corta el pavo en dados de 2 cm y sálalo. Dóralo en una sartén antiadherente con el aceite a fuego medio-alto 4 minutos, hasta que esté blanco y con algún tostado. Resérvalo.",
     "En la misma sartén, a fuego medio, derrite la mantequilla, añade la harina de arroz y remueve 2 minutos sin que tome color.",
     "Vierte poco a poco el caldo y la leche calientes, batiendo con varillas, y cuece 5 minutos, hasta que la salsa cubra la cuchara. Añade la nata, la nuez moscada, sal y pimienta blanca.",
-    "Incorpora el pavo, la zanahoria, las judías y el pimiento asado en tiras y cuece 3-4 minutos a fuego suave, hasta que el pavo esté hecho y todo bien caliente.",
-    "Sirve sobre el arroz, con el perejil picado y una pizca de pimentón por encima."
+    "Incorpora el pavo, la zanahoria, las judías y el pimiento y cuece 3-4 minutos a fuego suave, hasta que el pavo esté hecho y todo bien caliente.",
+    "Sirve sobre el arroz, con el perejil y una pizca de pimentón por encima."
   ],
   nutricion: { kcal: 630, prot: 45, hc: 77, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "para niños", "económica"],
@@ -698,11 +697,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una olla grande de agua con sal: servirá para blanquear las verduras y después para la pasta.",
-    "Corta la zanahoria en rodajas finas al bies, el brócoli en ramilletes pequeños y el calabacín en bastones. Quita las semillas al tomate y córtalo en dados.",
+    "Mientras el agua llega a ebullición, corta la zanahoria en rodajas finas al bies, el brócoli en ramilletes pequeños y el calabacín en bastones. Quita las semillas al tomate y córtalo en dados, y ralla el parmesano.",
     "Blanquea en el agua hirviendo la zanahoria 3 minutos, añadiendo el brócoli en el último minuto y medio. Sácalos con una espumadera a un bol de agua fría para que conserven el color, y escúrrelos.",
     "Tuesta los piñones en una sartén grande sin grasa 2-3 minutos y apártalos.",
     "Cuece los espaguetis en la misma agua 1 minuto menos de lo que indique el envase. Mientras, calienta el aceite de ajo en la sartén y saltea el calabacín 3 minutos y el tomate 2 minutos, hasta que empiece a ablandarse. Añade las verduras blanqueadas y las espinacas y saltea 1 minuto, hasta que las hojas se arruguen.",
-    "Vierte la nata y el caldo y deja hervir 1 minuto. Añade la pasta escurrida con un chorrito de su agua y, fuera del fuego, el parmesano rallado. Mezcla con unas pinzas hasta que la salsa ligue y cubra la pasta.",
+    "Vierte la nata y el caldo y deja hervir 1 minuto. Añade la pasta escurrida con un chorrito de su agua y, fuera del fuego, el parmesano. Mezcla con unas pinzas hasta que la salsa ligue y cubra la pasta.",
     "Termina con la albahaca rota, los piñones y pimienta recién molida, y sirve enseguida."
   ],
   nutricion: { kcal: 550, prot: 16, hc: 72, grasa: 22 },
@@ -745,9 +744,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Calienta el aceite de ajo en una sartén a fuego fuerte y dora la ternera 5 minutos, dejándola quieta los primeros 2 para que se tueste. Añade el pimiento verde picado y los tallos verdes de cebolleta y cocina 4 minutos.",
-    "Añade el comino, el pimentón y el orégano y remueve 30 segundos sin que se quemen. Incorpora el tomate y sal y cuece 10 minutos a fuego suave, hasta que el guiso esté espeso. Añade el maíz y el cilantro picado y pásalo a una fuente de unos 20 cm.",
-    "Para la costra, lleva a hervor la leche con 250 ml de agua y sal. Echa la polenta en lluvia sin dejar de batir y cuécela 5 minutos, removiendo, hasta que tenga textura de puré espeso que se separa de las paredes.",
+    "Precalienta el horno a 200 °C. Pica el pimiento verde y corta en aros los tallos verdes de la cebolleta. Calienta el aceite de ajo en una sartén a fuego fuerte y dora la ternera 5 minutos, dejándola quieta los primeros 2 para que se tueste. Añade el pimiento y la cebolleta y cocina 4 minutos.",
+    "Añade el comino, el pimentón y el orégano y remueve 30 segundos sin que se quemen. Incorpora el tomate y sal y cuece 10 minutos a fuego suave, hasta que el guiso esté espeso. Mientras, pica el cilantro y pon a calentar en un cazo la leche con 250 ml de agua y sal para la costra. Añade al guiso el maíz y el cilantro y pásalo a una fuente de unos 20 cm.",
+    "Cuando la leche hierva, echa la polenta en lluvia sin dejar de batir y cuécela 5 minutos, removiendo, hasta que tenga textura de puré espeso que se separa de las paredes.",
     "Fuera del fuego, añade la mitad del cheddar y el huevo batido y mezcla rápido para que no cuaje en grumos.",
     "Extiende la polenta sobre el guiso con una espátula, sellando bien los bordes, y reparte por encima el resto del cheddar.",
     "Hornea 25 minutos, hasta que la costra esté dorada y los bordes burbujeen. Deja reposar 10 minutos antes de cortar para que salgan porciones limpias."
@@ -792,12 +791,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua abundante con sal. Corta los pimientos en tiras, los tallos verdes de cebolleta en aros y el tomate en dados. Mezcla el pimentón, el tomillo, el orégano, una pizca de pimienta y media cucharadita de sal: es tu mezcla cajún suave. Espolvorea una cucharadita sobre las gambas.",
+    "Pon a hervir agua abundante con sal. Mientras se calienta, corta los pimientos en tiras, los tallos verdes de cebolleta en aros y el tomate en dados; ralla el parmesano y pica el perejil. Mezcla el pimentón, el tomillo, el orégano, una pizca de pimienta y media cucharadita de sal: es tu mezcla cajún suave. Espolvorea una cucharadita sobre las gambas.",
     "Calienta una sartén grande a fuego fuerte con la mitad del aceite de ajo y marca las gambas 1 minuto por cada lado, hasta que se curven y estén rosadas. Sácalas: terminarán de hacerse en la salsa.",
     "Echa la pasta en el agua hirviendo y cuécela 1 minuto menos de lo que indique el envase; al escurrirla, reserva un vaso del agua de cocción.",
     "Mientras, baja el fuego de la sartén a medio, añade el resto del aceite y rehoga los pimientos y la cebolleta 6 minutos, hasta que estén tiernos. Añade el resto de la mezcla de especias, remueve 30 segundos e incorpora el tomate. Cocina 4 minutos, hasta que se deshaga en salsa.",
-    "Vierte la nata en la sartén y deja hervir 1 minuto. Añade la pasta escurrida, las gambas, el parmesano rallado y un chorrito del agua reservada, y mezcla 1-2 minutos, hasta que la salsa anaranjada cubra la pasta.",
-    "Termina con el zumo del limón y el perejil picado y sirve enseguida."
+    "Vierte la nata en la sartén y deja hervir 1 minuto. Añade la pasta escurrida, las gambas, el parmesano y un chorrito del agua reservada, y mezcla 1-2 minutos, hasta que la salsa anaranjada cubra la pasta.",
+    "Termina con el zumo del limón y el perejil y sirve enseguida."
   ],
   nutricion: { kcal: 615, prot: 33, hc: 73, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína"],
@@ -834,11 +833,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua abundante con sal. Corta los filetes de ternera en tiras de 3 mm, a contrapelo de la fibra: así quedan tiernas aunque se hagan en un minuto. Corta el pimiento verde en tiras.",
+    "Pon a hervir agua abundante con sal. Mientras se calienta, corta los filetes de ternera en tiras de 3 mm, a contrapelo de la fibra: así quedan tiernas aunque se hagan en un minuto. Corta el pimiento verde en tiras y los tallos verdes de la cebolleta en aros, y ralla el provolone.",
     "Cuando hierva el agua, cuece la pasta 1 minuto menos de lo que indique el envase; al escurrirla, reserva un poco del agua.",
     "Mientras, calienta una sartén grande a fuego fuerte con la mitad del aceite de ajo y saltea el pimiento verde 6-7 minutos, hasta que esté blando y con puntos tostados. Añade los tallos verdes de la cebolleta en el último minuto y resérvalo todo.",
     "Con la sartén al máximo y el resto del aceite, extiende la ternera en una sola capa y déjala 1 minuto sin moverla; saltéala 1 minuto más con el tamari y pimienta y júntala con los pimientos.",
-    "Para la salsa, disuelve la maicena en la leche fría en un cazo y caliéntala removiendo 2 minutos, hasta que espese un poco. Fuera del fuego, añade el provolone rallado y remueve hasta que se funda y quede lisa.",
+    "Para la salsa, disuelve la maicena en la leche fría en un cazo y caliéntala removiendo 2 minutos, hasta que espese un poco. Fuera del fuego, añade el provolone y remueve hasta que se funda y quede lisa.",
     "Junta en la sartén la pasta escurrida, la carne con los pimientos y la salsa y mezcla 1 minuto a fuego bajo, con un chorrito del agua de la pasta si se espesa. Sirve con pimienta recién molida."
   ],
   nutricion: { kcal: 610, prot: 38, hc: 72, grasa: 19 },
@@ -878,11 +877,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las almejas 10 minutos en agua fría con sal para que suelten la arena que les quede y enjuágalas. Pon a hervir agua con sal para la pasta.",
+    "Pon las almejas 10 minutos en agua fría con sal para que suelten la arena que les quede y pon a hervir agua con sal para la pasta. Mientras, corta en aros los tallos verdes de la cebolleta, parte los tomates por la mitad y pica el perejil. Enjuaga las almejas.",
     "Cuando hierva el agua, cuece los linguine 1 minuto menos de lo que indique el envase. Mientras, en una sartén grande con 1 cucharadita del aceite de ajo, tuesta el pan rallado 3 minutos a fuego medio, removiendo, hasta que esté dorado y crujiente. Mézclalo con la ralladura del limón y apártalo.",
-    "En la misma sartén, con 1 cucharada de aceite de ajo, rehoga los tallos verdes de cebolleta y el tomillo 30 segundos. Añade las almejas y 100 ml de agua, tapa y cocina a fuego fuerte 3-4 minutos, hasta que se abran. Desecha las que sigan cerradas y saca la mitad de su concha.",
-    "Saca las almejas de la sartén y, si el jugo tiene arena, cuélalo y devuélvelo. Añade los tomates partidos por la mitad y el maíz y cocina 2 minutos.",
-    "Incorpora la pasta escurrida, la mantequilla, el resto del aceite de ajo y el zumo de medio limón, y saltea 1-2 minutos con un chorrito del agua de cocción, hasta que la salsa ligue y brille. Devuelve todas las almejas y el perejil picado.",
+    "En la misma sartén, con 1 cucharada de aceite de ajo, rehoga la cebolleta y el tomillo 30 segundos. Añade las almejas y 100 ml de agua, tapa y cocina a fuego fuerte 3-4 minutos, hasta que se abran. Desecha las que sigan cerradas y saca la mitad de su concha.",
+    "Saca las almejas de la sartén y, si el jugo tiene arena, cuélalo y devuélvelo. Añade los tomates y el maíz y cocina 2 minutos.",
+    "Incorpora la pasta escurrida, la mantequilla, el resto del aceite de ajo y el zumo de medio limón, y saltea 1-2 minutos con un chorrito del agua de cocción, hasta que la salsa ligue y brille. Devuelve todas las almejas y el perejil.",
     "Sirve con las migas crujientes por encima y gajos del otro medio limón."
   ],
   nutricion: { kcal: 540, prot: 16, hc: 80, grasa: 17 },
@@ -921,11 +920,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el pollo en una cazuela con el caldo y llévalo a un hervor suave. Cuécelo 25 minutos con la tapa entreabierta, desespumando, hasta que esté muy tierno. Sácalo y desmenúzalo con dos tenedores.",
-    "Mientras, cuece un huevo 10 minutos, enfríalo, pélalo y pícalo, y corta la zanahoria en dados pequeños.",
+    "Mientras, cuece un huevo 10 minutos, enfríalo, pélalo y pícalo; corta la zanahoria en dados pequeños, pica el perejil y corta en aros los tallos verdes de la cebolleta.",
     "Para los rivels, pon la harina con una pizca de sal en un bol, añade el otro huevo batido y frota la mezcla entre las yemas de los dedos hasta tener grumitos irregulares del tamaño de un grano de arroz grande.",
     "Añade al caldo la zanahoria y el azafrán y cuece 8 minutos.",
     "Sube el fuego hasta que el caldo hierva con alegría y deja caer los rivels poco a poco, removiendo para que no se peguen entre sí. Cuécelos 7-8 minutos, hasta que estén tiernos y el caldo haya espesado ligeramente.",
-    "Añade el maíz y el pollo desmenuzado y cuece 3 minutos más. Salpimienta y sirve con el huevo picado, el perejil y los tallos verdes de cebolleta en aros."
+    "Añade el maíz y el pollo desmenuzado y cuece 3 minutos más. Salpimienta y sirve con el huevo picado, el perejil y la cebolleta."
   ],
   nutricion: { kcal: 415, prot: 37, hc: 35, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "alta en proteína", "verano", "económica"],
@@ -968,10 +967,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en dados de 1,5 cm. Pica en dados pequeños la zanahoria y el hinojo y corta en aros los tallos verdes de la cebolleta, reservando un puñado para servir.",
     "En una cazuela a fuego medio-bajo, derrite la mantequilla y rehoga el hinojo, la zanahoria y la cebolleta 5 minutos, tapados, hasta que se ablanden sin tomar color. Añade la harina de arroz y remueve 1 minuto.",
-    "Vierte el caldo caliente poco a poco, batiendo, añade las patatas y el laurel y cuece 15 minutos a fuego suave con la tapa entreabierta, hasta que las patatas estén tiernas.",
+    "Vierte el caldo caliente poco a poco, batiendo, añade las patatas y el laurel y cuece 15 minutos a fuego suave con la tapa entreabierta, hasta que las patatas estén tiernas. Mientras, corta el salmón en dados de 2,5 cm, pica el eneldo y ralla el medio limón.",
     "Aplasta unos cuantos dados de patata contra la pared de la cazuela para espesar el caldo. Añade la leche y el maíz y calienta 3 minutos sin que llegue a hervir.",
-    "Corta el salmón en dados de 2,5 cm, sálalo y añádelo a la cazuela. Cuécelo 4-5 minutos a fuego muy suave, sin remover apenas, hasta que esté opaco y se separe en lascas.",
-    "Fuera del fuego, retira el laurel y añade el eneldo picado, la ralladura y el zumo del medio limón, sal y pimienta blanca. Sirve con la cebolleta reservada por encima."
+    "Sala el salmón y añádelo a la cazuela. Cuécelo 4-5 minutos a fuego muy suave, sin remover apenas, hasta que esté opaco y se separe en lascas.",
+    "Fuera del fuego, retira el laurel y añade el eneldo, la ralladura y el zumo del medio limón, sal y pimienta blanca. Sirve con la cebolleta reservada por encima."
   ],
   nutricion: { kcal: 505, prot: 31, hc: 48, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "alta en proteína", "invierno"],
@@ -1012,10 +1011,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Pon el kombu en 1 litro de agua fría y déjalo 20 minutos. Caliéntalo a fuego medio y retíralo justo antes de que hierva. Añade el bonito, deja hervir 1 minuto, apaga y espera 5 minutos. Cuela sin apretar, añade dos tercios del tamari, el jengibre en láminas y sal, y mantén el caldo caliente.",
     "Mezcla el resto del tamari con el azúcar y unas gotas de aceite de sésamo y pinta el solomillo. Ásalo 18-20 minutos, pintándolo otra vez a mitad, hasta que esté dorado por fuera y apenas rosado en el centro. Déjalo reposar 5 minutos y córtalo en láminas finas.",
-    "Bate los huevos con una pizca de sal. En una sartén antiadherente con unas gotas de aceite a fuego suave, cuaja dos tortillas muy finas, 1 minuto por cada lado. Enróllalas y córtalas en tiras finas.",
-    "Corta el pak choi en cuartos y escáldalo 1 minuto en el caldo; sácalo.",
+    "Mientras se asa el cerdo, bate los huevos con una pizca de sal. En una sartén antiadherente con unas gotas de aceite a fuego suave, cuaja dos tortillas muy finas, 1 minuto por cada lado. Enróllalas y córtalas en tiras finas. Corta el pak choi en cuartos y los tallos verdes de la cebolleta en aros.",
+    "Escalda el pak choi 1 minuto en el caldo; sácalo.",
     "Cuece los fideos según el envase, escúrrelos y repártelos en dos boles grandes.",
-    "Vierte el caldo muy caliente sobre los fideos y coloca encima el cerdo, las tiras de tortilla, el pak choi y los tallos verdes de cebolleta en aros. Termina con unas gotas de aceite de sésamo."
+    "Vierte el caldo muy caliente sobre los fideos y coloca encima el cerdo, las tiras de tortilla, el pak choi y la cebolleta. Termina con unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 505, prot: 37, hc: 62, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "alta en proteína"],
@@ -1056,12 +1055,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol mezcla el pavo con el pan rallado, el huevo, el parmesano, la mitad de la salvia picada muy fina, la ralladura de la media naranja, sal y pimienta. Con las manos húmedas forma unas 16 albóndigas de 3 cm y déjalas 10 minutos en la nevera para que se asienten. Mientras, pela la chirivía y la zanahoria y córtalas en dados.",
+    "Pica muy fina la mitad de la salvia. En un bol mezcla el pavo con el pan rallado, el huevo, el parmesano, la salvia picada, la ralladura de la media naranja, sal y pimienta. Con las manos húmedas forma unas 16 albóndigas de 3 cm y déjalas 10 minutos en la nevera para que se asienten. Mientras, pela la chirivía y la zanahoria y córtalas en dados.",
     "Calienta el aceite en una cazuela a fuego medio y dora las albóndigas 4 minutos, girándolas con cuidado. No hace falta que se hagan por dentro. Sácalas.",
     "En la misma cazuela rehoga la chirivía, la zanahoria y el tomillo 3 minutos. Vierte el caldo, raspa el fondo con una cuchara de madera para despegar el tostado y lleva a hervor.",
-    "Añade el arroz lavado y cuece 10 minutos a fuego suave.",
-    "Devuelve las albóndigas y añade el kale sin tallos cortado en tiras. Cuece 8 minutos, hasta que las albóndigas estén firmes y el arroz tierno.",
-    "Termina con el resto de la salvia en tiras finas y un chorrito del zumo de la naranja. Ajusta de sal y sirve."
+    "Añade el arroz lavado y cuece 10 minutos a fuego suave. Mientras, quita los tallos al kale y córtalo en tiras, y corta en tiras finas el resto de la salvia.",
+    "Devuelve las albóndigas y añade el kale. Cuece 8 minutos, hasta que las albóndigas estén firmes y el arroz tierno.",
+    "Termina con la salvia en tiras y un chorrito del zumo de la naranja. Ajusta de sal y sirve."
   ],
   nutricion: { kcal: 505, prot: 41, hc: 52, grasa: 14 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "de cuchara", "alta en proteína", "bajo en colesterol", "otoño", "invierno"],
@@ -1149,12 +1148,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el huevo 10 minutos, enfríalo y pélalo. Desmenuza la yema con un tenedor y pica fina la clara.",
-    "Repasa la carne de cangrejo con los dedos para quitar cualquier resto de caparazón.",
-    "En una cazuela a fuego medio-bajo derrite la mantequilla y rehoga los tallos verdes de cebolleta picados 1 minuto. Añade la harina de arroz y remueve 2 minutos sin que tome color.",
+    "Cuece el huevo 10 minutos. Mientras, repasa la carne de cangrejo con los dedos para quitar cualquier resto de caparazón y pica los tallos verdes de la cebolleta y el cebollino. Enfría el huevo, pélalo, desmenuza la yema con un tenedor y pica fina la clara.",
+    "En una cazuela a fuego medio-bajo derrite la mantequilla y rehoga la cebolleta 1 minuto. Añade la harina de arroz y remueve 2 minutos sin que tome color.",
     "Vierte el caldo y la leche calientes poco a poco, batiendo con varillas, y cuece 10 minutos a fuego suave, removiendo, hasta que la crema cubra la cuchara.",
     "Añade la nata, la nuez moscada, el pimentón, la clara picada, sal, pimienta blanca y la mitad del cangrejo. Calienta 3 minutos sin que hierva, porque el cangrejo se endurece.",
-    "Fuera del fuego, añade el zumo del limón. Tuesta el pan. Sirve la sopa en cuencos con el resto del cangrejo por encima, la yema desmenuzada y el cebollino picado, con el pan al lado."
+    "Fuera del fuego, añade el zumo del limón. Tuesta el pan. Sirve la sopa en cuencos con el resto del cangrejo por encima, la yema desmenuzada y el cebollino, con el pan al lado."
   ],
   nutricion: { kcal: 440, prot: 30, hc: 34, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "para invitados"],

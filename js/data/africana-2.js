@@ -397,9 +397,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
+    "Pon a hervir abundante agua para los fideos. Mientras se calienta, corta la col en juliana, la zanahoria en bastones finos, las judías verdes en trozos oblicuos de 3 cm y la cebolleta en rodajas, separando la parte blanca de la verde. Pica el ajo y el jengibre y corta el chile en rodajas.",
     "Cuece los fideos el tiempo que indique el paquete (3–4 minutos), escúrrelos, pásalos por agua fría y úntalos con unas gotas de aceite para que no se peguen.",
     "Bate los huevos con una pizca de sal. Cuájalos en el wok con unas gotas de aceite como una tortilla fina, 1–2 minutos, enróllala y córtala en tiras.",
-    "Corta la col en juliana, la zanahoria en bastones finos, las judías verdes en trozos oblicuos de 3 cm y la cebolleta en rodajas, separando la parte blanca de la verde. Pica el ajo y el jengibre y corta el chile en rodajas.",
     "Calienta el resto del aceite en el wok a fuego fuerte. Saltea el ajo y el jengibre con la parte blanca de la cebolleta 30 segundos. Añade la zanahoria y las judías y saltea 3 minutos; agrega la col y saltea 2 minutos más: las verduras deben quedar crujientes.",
     "Incorpora los fideos, la salsa de soja y pimienta y saltea 2–3 minutos, levantándolos con unas pinzas, hasta que se impregnen y algunos se tuesten.",
     "Sirve con las tiras de tortilla, la parte verde de la cebolleta y el chile."
@@ -438,7 +438,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en bastones de 1 cm, ponlas 5 minutos en agua fría y sécalas muy bien con un paño.",
-    "Prepara el kachumbari: corta la cebolla morada en pluma finísima y déjala 5 minutos en agua con sal para suavizarla. Escúrrela y mézclala con el tomate en dados, el chile picado, el cilantro picado, el zumo de la lima y sal. Resérvalo en la nevera.",
+    "Prepara el kachumbari: corta la cebolla morada en pluma finísima y déjala 5 minutos en agua con sal para suavizarla. Mientras, corta el tomate en dados y pica el chile y el cilantro. Escurre la cebolla y mézclala con el tomate, el chile, el cilantro, el zumo de la lima y sal. Resérvalo en la nevera.",
     "Calienta el aceite en una sartén antiadherente de 24 cm a fuego medio-alto (unos 170 °C). Fríe las patatas 12–15 minutos, moviéndolas, hasta que estén doradas y tiernas por dentro.",
     "Retira las patatas, vacía el aceite dejando solo una cucharada en la sartén y sala las patatas.",
     "Bate 2 huevos con sal. Pon la mitad de las patatas en la sartén, vierte los huevos por encima y cocina tapado a fuego medio 3 minutos, hasta que cuaje la base.",
@@ -482,7 +482,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta el boniato con piel en rodajas de 1 cm, mézclalo con 1 cucharada de aceite, el pimentón y sal y repártelo en una bandeja con papel sin amontonar. Hornea 20 minutos, dándole la vuelta a mitad, hasta que los bordes se caramelicen.",
-    "Mientras, prepara la salsa: mango en dados pequeños, cebolla morada picada fina, chile picado (sin semillas si lo quieres suave), el ajo rallado muy fino, el cilantro picado, el zumo de la lima y una pizca de sal. Deja que repose.",
+    "Mientras, prepara la salsa: corta el mango en dados pequeños, pica fina la cebolla morada, pica el chile (sin semillas si lo quieres suave) y el cilantro y ralla el ajo muy fino. Mézclalo todo con el zumo de la lima y una pizca de sal y deja que repose.",
     "Corta el halloumi en 6 lonchas de 1 cm y sécalas con papel.",
     "Calienta una sartén antiadherente a fuego medio-alto con unas gotas del aceite restante. Dora el halloumi 2 minutos por cada lado, hasta que tenga una costra dorada.",
     "Reparte la rúcula, el boniato y el halloumi en los platos, cubre con la salsa de mango y riega con el resto del aceite. Cómelo al momento: el halloumi se endurece al enfriarse."
@@ -527,8 +527,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela los plátanos y córtalos a lo largo en láminas de medio centímetro. Colócalos en una bandeja con papel, píntalos con 1 cucharada de aceite y hornéalos 12 minutos, hasta que empiecen a dorarse.",
-    "Para la salsa ata, tritura los pimientos, media cebolla y el chile. Sofríe la otra media cebolla picada con el ajo en el resto del aceite 4 minutos, añade el triturado, el tomate, el tomillo, el curry y sal, y cuece 15 minutos hasta que espese y el aceite empiece a separarse.",
-    "Saltea las espinacas en una sartén 2 minutos, hasta que se marchiten. Escúrrelas apretando y pícalas. Mézclalas con el requesón, el huevo, sal y pimienta.",
+    "Mientras se hornean, prepara la salsa ata: trocea los pimientos y tritúralos con media cebolla y el chile. Pica la otra media cebolla y el ajo y sofríelos en el resto del aceite 4 minutos; añade el triturado, el tomate, el tomillo, el curry y sal, y cuece 15 minutos hasta que espese y el aceite empiece a separarse.",
+    "Mientras cuece la salsa, saltea las espinacas en una sartén 2 minutos, hasta que se marchiten. Escúrrelas apretando y pícalas. Mézclalas con el requesón, el huevo, sal y pimienta.",
     "En una fuente de unos 20 × 20 cm, pon una capa de salsa, la mitad del plátano, toda la mezcla de requesón, un poco de salsa, el resto del plátano y el resto de la salsa. Cubre con la mozzarella.",
     "Hornea a 200 °C 20 minutos, hasta que el queso esté gratinado y la salsa burbujee por los bordes.",
     "Deja reposar 10 minutos antes de cortar para que las capas se asienten."
@@ -573,7 +573,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pica la cebolla, el ajo y el chile. Sofríe la cebolla en 1 cucharada de aceite 5 minutos. Añade el ajo, el comino, el cilantro molido y el chile y remueve 1 minuto.",
-    "Agrega las espinacas y los guisantes y cocina 3–4 minutos, hasta que las espinacas se marchiten. Pasa a un colador y aprieta para eliminar todo el líquido: si el relleno está húmedo, las sambusas se ablandan. Deja templar y mezcla con el feta desmenuzado y la mitad del cilantro fresco picado.",
+    "Agrega las espinacas y los guisantes y cocina 3–4 minutos, hasta que las espinacas se marchiten. Pasa a un colador y aprieta para eliminar todo el líquido: si el relleno está húmedo, las sambusas se ablandan. Mientras templa, pica el cilantro fresco; luego mezcla el relleno con el feta desmenuzado y la mitad del cilantro.",
     "Corta cada lámina de filo por la mitad a lo largo, píntala con aceite y dóblala por la mitad a lo largo para tener una tira doble.",
     "Pon una cucharada de relleno en un extremo y dobla en triángulo, como una bandera, hasta el final de la tira. Coloca las sambusas en una bandeja con papel y píntalas con el aceite restante.",
     "Hornea 15–18 minutos, hasta que estén doradas y crujientes.",
@@ -664,10 +664,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas, córtalas en trozos de 4 cm y cuécelas en agua con sal 18–20 minutos, hasta que estén tiernas. Escúrrelas.",
     "Mientras, derrite la mantequilla a fuego bajo con el cardamomo, el comino y el fenogreco 2 minutos, sin que se dore. Es una versión exprés del niter kibbeh etíope.",
-    "Quita los tallos duros a la kale y córtala en tiras finas. Pica la cebolla, el ajo, el jengibre y el chile.",
+    "Mientras las patatas siguen cociendo, quita los tallos duros a la kale y córtala en tiras finas. Pica la cebolla, el ajo, el jengibre y el chile.",
     "Pon dos tercios de la mantequilla especiada en una sartén y sofríe la cebolla 5 minutos. Añade el ajo, el jengibre y el chile y remueve 1 minuto.",
-    "Incorpora la kale con 3 cucharadas de agua, tapa y cocina 5–6 minutos, hasta que esté tierna pero de un verde intenso. Sala y añade el zumo del medio limón.",
-    "Desmenuza el requesón con una pizca de sal y el berbere.",
+    "Incorpora la kale con 3 cucharadas de agua, tapa y cocina 5–6 minutos, hasta que esté tierna pero de un verde intenso. Mientras, desmenuza el requesón con una pizca de sal y el berbere. Sala la col y añade el zumo del medio limón.",
     "Sirve las patatas con la col por encima y el requesón al lado, y riega las patatas con el resto de la mantequilla especiada caliente."
   ],
   nutricion: { kcal: 475, prot: 22, hc: 54, grasa: 19 },
@@ -938,7 +937,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el mijo y tuéstalo en un cazo seco 2 minutos, hasta que huela a fruto seco. Añade el agua y sal, tapa y cuece a fuego mínimo 15 minutos. Deja reposar 5 minutos y extiéndelo en una fuente para que se temple.",
-    "Mientras, prepara la vinagreta: zumo de las limas, jengibre rallado, mostaza, chile picado y sal. Añade el aceite batiendo hasta que emulsione.",
+    "Mientras, prepara la vinagreta: ralla el jengibre y pica el chile, y mézclalos con el zumo de las limas, la mostaza y sal. Añade el aceite batiendo hasta que emulsione.",
     "Pica la cebolla morada muy fina y déjala en la vinagreta 5 minutos para suavizarla.",
     "Enjuaga y escurre las alubias. Corta el mango y el pepino en dados y los tomates cherry por la mitad. Pica el cilantro y la hierbabuena.",
     "Tuesta las pipas de calabaza en una sartén seca 2 minutos, hasta que se hinchen y empiecen a saltar.",
@@ -1122,12 +1121,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Escurre los garbanzos y sécalos bien con papel. Mezcla la calabaza en dados de 2 cm y los garbanzos con 2 cucharadas de aceite, la mitad del berbere y sal, y repártelos en una bandeja con papel.",
+    "Precalienta el horno a 210 °C. Pela la calabaza y córtala en dados de 2 cm. Escurre los garbanzos y sécalos bien con papel. Mezcla la calabaza y los garbanzos con 2 cucharadas de aceite, la mitad del berbere y sal, y repártelos en una bandeja con papel.",
     "Hornea 25 minutos, removiendo a mitad, hasta que la calabaza esté dorada y los garbanzos crujientes.",
     "Mientras, lava el teff en un colador fino, ponlo en un cazo con el agua y sal y llévalo a ebullición. Tapa y cuece a fuego mínimo 15–18 minutos, removiendo de vez en cuando para que no se pegue, hasta que absorba el agua. Quedará como una polenta suelta.",
     "Corta la cebolla morada en pluma fina y alíñala con el zumo de media lima y una pizca de sal.",
-    "Prepara el awaze: mezcla el resto del berbere con el ajo rallado, el zumo de la otra media lima, el aceite restante, 1 cucharada de agua y una pizca de sal hasta tener una salsa roja y fluida.",
-    "Monta los boles con el teff, las espinacas, la calabaza y los garbanzos, la cebolla encurtida y el cilantro, y riega con el awaze."
+    "Prepara el awaze: ralla el ajo y mézclalo con el resto del berbere, el zumo de la otra media lima, el aceite restante, 1 cucharada de agua y una pizca de sal hasta tener una salsa roja y fluida. Deshoja el cilantro.",
+    "Monta los boles con el teff, las espinacas, la calabaza y los garbanzos, la cebolla encurtida y las hojas de cilantro, y riega con el awaze."
   ],
   nutricion: { kcal: 575, prot: 19, hc: 71, grasa: 24 },
   etiquetas: ["creativa", "picante", "sin gluten", "sin lácteos", "al horno", "ideal para llevar", "superalimentos", "bajo en colesterol"],

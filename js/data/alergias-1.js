@@ -221,8 +221,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Marina el pollo con la cúrcuma, media cucharadita de sal y la mitad del ajo y del jengibre rallados mientras preparas el masala (mínimo 10 minutos).",
-    "Tuesta en una sartén seca a fuego medio-bajo las semillas de cilantro, el comino, el hinojo, la pimienta, las guindillas y la canela troceada, 2-3 minutos, removiendo, hasta que huelan y el cilantro tome color. Añade el coco y tuesta 2 minutos más, hasta que esté dorado claro.",
+    "Ralla el ajo y el jengibre. Marina el pollo con la cúrcuma, media cucharadita de sal y la mitad del ajo y del jengibre mientras preparas el masala (mínimo 10 minutos).",
+    "Trocea la canela. Tuesta en una sartén seca a fuego medio-bajo las semillas de cilantro, el comino, el hinojo, la pimienta, las guindillas y la canela, 2-3 minutos, removiendo, hasta que huelan y el cilantro tome color. Añade el coco y tuesta 2 minutos más, hasta que esté dorado claro.",
     "Deja templar y tritura en la batidora o el molinillo con 4-5 cucharadas de agua hasta tener una pasta espesa y algo granulosa. Mientras templa, pica fina la cebolla y pica el tomate.",
     "Calienta el aceite en la cazuela y dora la cebolla 8-10 minutos, hasta que esté bien tostada: de ella depende el color oscuro del plato.",
     "Añade el resto del ajo y del jengibre, 1 minuto, y el tomate. Cocina 5 minutos hasta que se deshaga.",
@@ -321,7 +321,7 @@ window.RECETAS_SEED.push({
     "Coloca el pollo encima con la piel hacia arriba y hornea 40-45 minutos, hasta que la piel esté dorada y crujiente y el jugo salga transparente al pinchar junto al hueso.",
     "Mientras, prepara la toum: tritura 4 dientes de ajo pelados y sin germen con media cucharadita de sal en el vaso estrecho de la batidora hasta tener una pasta.",
     "Con la batidora en marcha, añade el aceite de girasol en un hilo muy fino, alternando con el zumo de medio limón a cucharaditas, y al final una cucharada de agua helada. Debe quedar una crema blanca y firme como una mayonesa. Si se corta, tritura otro diente de ajo y ve añadiendo la mezcla cortada poco a poco.",
-    "Corta el tomate y el pepino en dados y alíñalos con el zumo del medio limón restante, perejil picado, sal y un hilo de aceite.",
+    "Con el pollo aún en el horno, pica el perejil, corta el tomate y el pepino en dados y alíñalos con el zumo del medio limón restante, el perejil, sal y un hilo de aceite.",
     "Sirve el pollo con las patatas, la ensalada y la toum aparte para untar."
   ],
   nutricion: { kcal: 780, prot: 42, hc: 42, grasa: 49 },
@@ -361,8 +361,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz: sofríe medio diente de ajo picado en 1 cucharadita de aceite, añade el arroz, remueve 1 minuto, cubre con 200 ml de agua caliente con sal y cuece tapado a fuego mínimo 15 minutos.",
-    "Para el vinagrete, pica muy fino el tomate, el pimiento y un cuarto de la cebolla. Mezcla con el zumo de la lima, el resto del aceite, el perejil picado y sal. Resérvalo en la nevera.",
+    "Cuece el arroz: pica medio diente de ajo y sofríelo en 1 cucharadita de aceite, añade el arroz, remueve 1 minuto, cubre con 200 ml de agua caliente con sal y cuece tapado a fuego mínimo 15 minutos.",
+    "Mientras, para el vinagrete, pica muy fino el tomate, el pimiento, un cuarto de la cebolla y el perejil. Mezcla con el zumo de la lima, el resto del aceite y sal. Resérvalo en la nevera.",
     "Corta la picaña en filetes de 2 cm de grosor, a contrapelo y sin quitar la grasa, y sálalos con sal gruesa por las dos caras 10 minutos antes de cocinarlos. Mientras, corta la panceta en dados y pica el resto de la cebolla y del ajo.",
     "Para la farofa, dora la panceta en una sartén a fuego medio 4 minutos, hasta que suelte la grasa. Añade la cebolla y el ajo y cocina 5 minutos.",
     "Incorpora la harina de mandioca y tuéstala removiendo sin parar 3-4 minutos, hasta que huela a tostado y tenga color de galleta. Sálala al gusto.",
@@ -944,12 +944,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el pavo con el comino, el chipotle, el orégano, el zumo de media lima, 1 cucharadita de aceite y sal. Déjalo 10 minutos. Mientras, corta el pimiento en tiras y la cebolla morada en gajos.",
+    "Mezcla el pavo con el comino, el chipotle, el orégano, el zumo de media lima, 1 cucharadita de aceite y sal. Déjalo 10 minutos. Mientras, corta el pimiento en tiras y la cebolla morada en gajos, trocea la lechuga, parte los tomates por la mitad, enjuaga las alubias y pica el cilantro.",
     "Corta las tortillas en tiras finas y tuéstalas en una sartén con 1 cucharadita de aceite a fuego medio 4-5 minutos, removiendo, hasta que estén crujientes. Sálalas y resérvalas en un plato.",
     "En la misma sartén, a fuego fuerte, dora el maíz escurrido 3-4 minutos sin moverlo mucho, hasta que algunos granos se tuesten. Sácalo.",
     "Añade 1 cucharadita de aceite y saltea el pimiento y la cebolla morada 3 minutos a fuego vivo; incorpora el pavo y cocina 4-5 minutos, hasta que esté dorado y hecho por dentro.",
-    "Prepara el aliño con el zumo de 1 lima, 1 cucharada de aceite, sal y la mitad del cilantro picado.",
-    "Monta en una fuente la lechuga troceada, las alubias enjuagadas, los tomates partidos, el maíz y el aguacate en dados. Pon encima el pavo con los pimientos aún calientes, riega con el aliño y termina con las tiras de tortilla, el resto del cilantro y gajos de la lima restante."
+    "Prepara el aliño con el zumo de 1 lima, 1 cucharada de aceite, sal y la mitad del cilantro. Corta el aguacate en dados y la lima restante en gajos.",
+    "Monta en una fuente la lechuga, las alubias, los tomates, el maíz y el aguacate. Pon encima el pavo con los pimientos aún calientes, riega con el aliño y termina con las tiras de tortilla, el resto del cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 665, prot: 49, hc: 52, grasa: 29 },
   etiquetas: ["creativa", "sin gluten", "apta para alergias", "sin lácteos", "rápida", "alta en proteína"],
@@ -1035,7 +1035,7 @@ window.RECETAS_SEED.push({
     "Lava bien la quinoa en un colador bajo el grifo, frotándola, para quitarle el amargor. Calienta el caldo.",
     "Corta la calabaza en dados de 1 cm y pica la cebolla, el ajo y el perejil. En una cazuela con 1,5 cucharadas de aceite, sofríe la cebolla 4 minutos, añade la calabaza y el ajo y cocina 3 minutos.",
     "Añade la quinoa escurrida y tuéstala 2 minutos removiendo. Vierte dos tercios del caldo caliente y el tomillo, y cuece a fuego medio 12 minutos, removiendo de vez en cuando.",
-    "Mientras, saltea las setas troceadas en una sartén muy caliente con 1 cucharada de aceite 5-6 minutos, sin removerlas al principio, hasta que estén doradas. Salpimiéntalas y resérvalas.",
+    "Mientras, trocea las setas y saltéalas en una sartén muy caliente con 1 cucharada de aceite 5-6 minutos, sin removerlas al principio, hasta que estén doradas. Salpimiéntalas y resérvalas.",
     "En la misma sartén, fríe las hojas de salvia en el resto del aceite 30 segundos, hasta que estén crujientes; escúrrelas sobre papel.",
     "Cuando la quinoa esté casi hecha (verás el germen blanco en espiral), añade el resto del caldo poco a poco y remueve con energía 3-4 minutos: soltará almidón y la calabaza se deshará en parte, dejando el plato cremoso.",
     "Retira el tomillo, incorpora la mitad de las setas, la ralladura de limón y el perejil, ajusta de sal y sirve con el resto de las setas y la salvia crujiente por encima."

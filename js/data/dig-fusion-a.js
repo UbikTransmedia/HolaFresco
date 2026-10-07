@@ -92,10 +92,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava el arroz jazmín, ponlo en un cazo con 210 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece 12 minutos a fuego mínimo; deja reposar 5 minutos tapado.",
-    "Prepara el furikake: tuesta el sésamo en una sartén seca a fuego medio 2-3 minutos, moviéndolo, hasta que esté dorado y huela a tostado. Pasa la hoja de nori por la sartén caliente 10 segundos por cada cara, hasta que cruja, y desmenúzala con los dedos. Mezcla sésamo, nori, la mitad del azúcar y una pizca de sal.",
+    "Mientras se cuece el arroz, prepara el furikake: tuesta el sésamo en una sartén seca a fuego medio 2-3 minutos, moviéndolo, hasta que esté dorado y huela a tostado. Pasa la hoja de nori por la sartén caliente 10 segundos por cada cara, hasta que cruja, y desmenúzala con los dedos. Mezcla sésamo, nori, la mitad del azúcar y una pizca de sal.",
     "Seca bien el salmón con papel de cocina y colócalo en una bandeja con papel de horno. Píntalo con el tamari y después con una capa muy fina de mayonesa: hace de pegamento y mantiene el pescado jugoso.",
     "Cubre la parte de arriba con el furikake apretando con la palma para que se adhiera. Hornea 12-14 minutos, hasta que la costra esté tostada y el salmón se separe en lascas, aún rosado en el centro.",
-    "Mientras, corta el pepino en medias lunas y saca tiras de zanahoria con el pelador. Alíñalos con el vinagre de arroz, el resto del azúcar, sal y la cebolleta picada.",
+    "Mientras, pica la cebolleta, corta el pepino en medias lunas y saca tiras de zanahoria con el pelador. Alíñalos con el vinagre de arroz, el resto del azúcar, sal y la cebolleta.",
     "Sirve el salmón sobre el arroz con la ensalada al lado."
   ],
   nutricion: { kcal: 600, prot: 32, hc: 65, grasa: 23 },
@@ -181,11 +181,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Cuece las patatas nuevas con piel en agua con sal y unos tallos de eneldo 15-18 minutos, hasta que estén tiernas.",
-    "Prepara el pepino prensado (pressgurka): córtalo en rodajas finísimas, mézclalo con el vinagre, el azúcar, 2 cucharadas de agua, una pizca de sal y un poco de eneldo picado, y déjalo reposar mientras cocinas.",
+    "Mientras se cuecen, pica el eneldo y prepara el pepino prensado (pressgurka): córtalo en rodajas finísimas, mézclalo con el vinagre, el azúcar, 2 cucharadas de agua, una pizca de sal y un poco del eneldo, y déjalo reposar mientras cocinas.",
     "Haz el dukkah: tuesta las avellanas en una sartén seca a fuego medio 4-5 minutos, hasta que la piel se agriete; frótalas dentro de un paño para quitarles la piel. Tuesta en la misma sartén el sésamo, el cilantro y el comino 1 minuto, hasta que huelan. Machácalo todo en el mortero con una pizca de sal hasta que tenga textura de arena gruesa, no de pasta.",
     "Pon la trucha con la piel hacia abajo en una bandeja con papel, píntala con el aceite, sálala y cubre la carne con el dukkah apretando con los dedos.",
     "Hornea 8-10 minutos, hasta que la carne esté opaca y se separe en lascas al presionarla con un tenedor.",
-    "Mezcla el yogur con el resto del eneldo picado, la ralladura y el zumo del medio limón y una pizca de sal.",
+    "Mientras se hornea, mezcla el yogur con el resto del eneldo, la ralladura y el zumo del medio limón y una pizca de sal.",
     "Sirve la trucha con las patatas abiertas por la mitad, el pepino escurrido y el yogur al lado, con una vuelta de pimienta."
   ],
   nutricion: { kcal: 515, prot: 37, hc: 42, grasa: 22 },
@@ -223,12 +223,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Pela la chirivía, córtala en trozos y cuécela en agua con sal 15 minutos, hasta que esté muy tierna. Escúrrela y tritúrala con la leche caliente, sal y pimienta blanca hasta obtener un puré fino. Tápalo.",
+    "Pela la chirivía, córtala en trozos y cuécela en agua con sal 15 minutos, hasta que esté muy tierna; mientras, calienta la leche. Escúrrela y tritúrala con la leche caliente, sal y pimienta blanca hasta obtener un puré fino. Tápalo.",
     "Mientras se cuece la chirivía, corta las zanahorias en bastones. Saltéalas en una sartén con 1 cucharadita de aceite 2 minutos, añade 4 cucharadas de agua y sal, tapa y cuece 6-7 minutos; destapa y deja que el agua se evapore hasta que brillen.",
-    "Tuesta la hoja de nori 10 segundos por cada cara en una sartén seca, hasta que cruja, y desmenúzala muy fina en el mortero.",
+    "Tuesta la hoja de nori 10 segundos por cada cara en una sartén seca, hasta que cruja, y desmenúzala muy fina en el mortero. Pica el cebollino.",
     "Seca el bacalao con papel y sálalo. Calienta una sartén antiadherente a fuego medio-alto con el resto del aceite y pon los lomos con la piel hacia abajo 4 minutos, sin moverlos, hasta que esté dorada. Dales la vuelta y cocina 2-3 minutos más: deben separarse en lascas nacaradas.",
     "En un cazo pequeño, funde la mantequilla a fuego medio 2-3 minutos: primero espuma, luego deja de chisporrotear, huele a avellana y los sólidos del fondo se doran. Retira del fuego y añade la nori y el zumo del medio limón; chisporroteará.",
-    "Sirve una cama de puré, el bacalao encima, las zanahorias al lado y riega con la mantequilla de nori. Termina con cebollino picado."
+    "Sirve una cama de puré, el bacalao encima, las zanahorias al lado y riega con la mantequilla de nori. Termina con el cebollino."
   ],
   nutricion: { kcal: 400, prot: 32, hc: 39, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "invierno"],
@@ -271,13 +271,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz jazmín y cuécelo con 210 ml de agua y una pizca de sal: lleva a ebullición, tapa y deja 12 minutos a fuego mínimo y 5 de reposo.",
-    "Aplasta la mitad del maíz en el mortero o con un tenedor hasta tener una pasta gruesa y mézclala con el resto de los granos: así la salsa queda cremosa sin necesidad de maíz en crema de lata.",
+    "Mientras se cuece el arroz, lamina el jengibre, bate el huevo y pica la cebolleta. Aplasta la mitad del maíz en el mortero o con un tenedor hasta tener una pasta gruesa y mézclala con el resto de los granos: así la salsa queda cremosa sin necesidad de maíz en crema de lata.",
     "Seca la merluza con papel, sálala, ponle pimienta blanca y pásala por 1 cucharada de maicena, sacudiendo el exceso: basta una película fina que ayude a dorarla y a que la salsa se agarre.",
     "Calienta el aceite de girasol en una sartén antiadherente a fuego medio-alto y dora la merluza 3 minutos por cada lado, sin moverla, hasta que esté dorada por fuera y se separe en lascas nacaradas.",
-    "Para la salsa, lleva a ebullición en un cazo el caldo con el jengibre en láminas, el maíz y el azúcar y cuece 3 minutos; retira el jengibre. Añade la leche y la media cucharada de maicena disuelta en 2 cucharadas de agua fría y remueve 1 minuto, hasta que nape la cuchara.",
+    "Para la salsa, lleva a ebullición en un cazo el caldo con el jengibre, el maíz y el azúcar y cuece 3 minutos; retira el jengibre. Añade la leche y la media cucharada de maicena disuelta en 2 cucharadas de agua fría y remueve 1 minuto, hasta que nape la cuchara.",
     "Baja el fuego al mínimo y vierte el huevo batido en un hilo fino mientras remueves despacio: se formarán hebras sedosas que terminan de espesar la salsa. Prueba de sal y apaga.",
     "Corta el pak choi a lo largo y cuécelo en una sartén tapada con 3 cucharadas de agua 3 minutos, hasta que las pencas estén tiernas; alíñalo con el tamari y el aceite de sésamo.",
-    "Sirve la merluza sobre el arroz, nápala con la salsa de maíz y espolvorea la cebolleta picada; el pak choi, al lado."
+    "Sirve la merluza sobre el arroz, nápala con la salsa de maíz y espolvorea la cebolleta; el pak choi, al lado."
   ],
   nutricion: { kcal: 575, prot: 38, hc: 72, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "para niños"],
@@ -318,8 +318,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca los langostinos y marínalos 10 minutos con 1 cucharada de tamari, el jengibre rallado, el comino y el azúcar moreno.",
-    "Mientras se marinan, prepara la salsa: pepino en dados pequeños, cilantro y cebolleta picados, el zumo de media lima y sal. Es un pico de gallo sin cebolla ni chile.",
+    "Ralla el jengibre. Seca los langostinos y marínalos 10 minutos con 1 cucharada de tamari, el jengibre, el comino y el azúcar moreno.",
+    "Mientras se marinan, prepara la salsa: corta el pepino en dados pequeños, pica el cilantro y la cebolleta y mézclalos con el zumo de media lima y sal. Es un pico de gallo sin cebolla ni chile.",
     "Corta los pimientos en tiras de 1 cm y el calabacín en bastones.",
     "Calienta el wok a fuego máximo con la mitad del aceite de ajo. Saltea los pimientos 4-5 minutos, moviéndolos, hasta que tengan los bordes tostados pero sigan firmes; añade el calabacín 2 minutos más y reserva.",
     "Pon el resto del aceite y los langostinos en una sola capa: 1 minuto por cada lado, hasta que estén rosados y curvados en forma de C (si se cierran en O, se han pasado). Devuelve las verduras, añade el resto del tamari y el zumo de la otra media lima y saltea 30 segundos.",
@@ -409,13 +409,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 6-7 minutos, hasta que estén casi tiernas. Escúrrelas.",
-    "Precalienta el horno a 200 °C. Calienta el aceite de ajo en una sartén amplia a fuego medio y echa las semillas de mostaza; cuando empiecen a saltar (30 segundos), añade el comino 20 segundos, el jengibre rallado 30 segundos y, por último, la cúrcuma (deja una pizca para el pescado) y el cilantro molido 10 segundos.",
-    "Ralla los tomates desechando la piel y añádelos; cocina 4-5 minutos hasta que espesen. Incorpora las patatas y sal, remueve para que se impregnen, tapa y cocina 8-10 minutos a fuego suave, removiendo de vez en cuando, hasta que estén tiernas y algo doradas por abajo.",
-    "Mientras, pon el abadejo en una bandeja con papel, sálalo, espolvorea la pizca de cúrcuma, riégalo con el aceite de oliva y el zumo de medio limón y hornéalo 10-12 minutos, hasta que esté opaco y se abra en lascas.",
+    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 6-7 minutos, hasta que estén casi tiernas; mientras, ralla el jengibre y ralla los tomates desechando la piel. Escurre las patatas.",
+    "Precalienta el horno a 200 °C. Calienta el aceite de ajo en una sartén amplia a fuego medio y echa las semillas de mostaza; cuando empiecen a saltar (30 segundos), añade el comino 20 segundos, el jengibre 30 segundos y, por último, la cúrcuma (deja una pizca para el pescado) y el cilantro molido 10 segundos.",
+    "Añade los tomates; cocina 4-5 minutos hasta que espesen. Incorpora las patatas y sal, remueve para que se impregnen, tapa y cocina 8-10 minutos a fuego suave, removiendo de vez en cuando, hasta que estén tiernas y algo doradas por abajo.",
+    "Mientras, pon el abadejo en una bandeja con papel, sálalo, espolvorea la pizca de cúrcuma, riégalo con el aceite de oliva y el zumo de medio limón y hornéalo 10-12 minutos, hasta que esté opaco y se abra en lascas. Pica la menta y el cilantro.",
     "Añade las espinacas a las patatas y remueve 1-2 minutos, hasta que se ablanden.",
-    "Prepara la raita: ralla el pepino, apriétalo para quitarle el agua y mézclalo con el yogur, la menta picada y una pizca de sal.",
-    "Sirve las patatas con el abadejo encima, cilantro picado, la raita y el resto del limón en gajos."
+    "Prepara la raita: ralla el pepino, apriétalo para quitarle el agua y mézclalo con el yogur, la menta y una pizca de sal.",
+    "Sirve las patatas con el abadejo encima, el cilantro, la raita y el resto del limón en gajos."
   ],
   nutricion: { kcal: 490, prot: 38, hc: 49, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "bajo en colesterol"],
@@ -506,9 +506,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz japonés hasta que el agua salga casi clara y cuécelo con 170 ml de agua: hervor, tapa, 12 minutos a fuego mínimo y 10 de reposo.",
-    "Haz la tártara: cuece 1 huevo 10 minutos, enfríalo en agua fría, pélalo y pícalo fino. Mézclalo con el yogur, la mayonesa, los pepinillos y el cebollino picados, unas gotas de limón, sal y pimienta.",
+    "Precalienta el horno a 220 °C. Haz la tártara: cuece 1 huevo 10 minutos; mientras, pica los pepinillos y el cebollino. Enfría el huevo en agua fría, pélalo y pícalo fino. Mézclalo con el yogur, la mayonesa, los pepinillos, el cebollino, unas gotas de limón, sal y pimienta.",
     "Prepara la salsa nanban: hierve en un cazo el vinagre de arroz, el tamari y el azúcar 1 minuto, hasta que el azúcar se disuelva. Reserva templada.",
-    "Precalienta el horno a 220 °C y pinta una bandeja forrada con papel con 1 cucharadita del aceite. Abre los contramuslos para que tengan un grosor uniforme y salpimiéntalos. Pásalos por la harina de arroz, sacude el exceso y después por el otro huevo batido, dejando escurrir lo que sobre.",
+    "Pinta una bandeja forrada con papel con 1 cucharadita del aceite. Abre los contramuslos para que tengan un grosor uniforme y salpimiéntalos. Pásalos por la harina de arroz, sacude el exceso y después por el otro huevo batido, dejando escurrir lo que sobre.",
     "Colócalos en la bandeja, píntalos por encima con el resto del aceite y hornéalos 18-20 minutos, dándoles la vuelta a mitad, hasta que la capa de huevo esté dorada y el pollo hecho por dentro (74 °C). En airfryer: 200 °C, 14-16 minutos.",
     "Mientras, corta la col en juliana muy fina y déjala 5 minutos en agua con hielo para que cruja; escúrrela bien.",
     "Sumerge el pollo caliente en la salsa nanban, dale la vuelta y deja que la absorba 1 minuto. Córtalo en tiras y sírvelo sobre el arroz con la col al lado y la tártara por encima."
@@ -553,11 +553,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la ternera en dados de 2,5 cm y sécalos. Marínalos 15 minutos con 1 cucharada de tamari, la salsa de pescado, la mitad del azúcar, 1 cucharadita del aceite de ajo y una pizca de pimienta.",
-    "Lava el arroz jazmín y cuécelo con 210 ml de agua y sal: hervor, tapa, 12 minutos a fuego mínimo y 5 de reposo.",
-    "Monta la ensalada en una fuente: una cama de berros, el tomate en rodajas y el pepino en láminas. Alíñala con el zumo de media lima, el resto del tamari y del azúcar.",
+    "Mientras se marina, lava el arroz jazmín y cuécelo con 210 ml de agua y sal: hervor, tapa, 12 minutos a fuego mínimo y 5 de reposo. Corta el tomate en rodajas, el pepino en láminas, el pimiento verde en dados y la cebolleta en trozos.",
+    "Monta la ensalada en una fuente: una cama de berros, el tomate y el pepino. Alíñala con el zumo de media lima, el resto del tamari y del azúcar.",
     "Prepara el dip muối tiêu chanh: una pizca de sal y otra de pimienta en dos platitos, con el zumo del resto de la lima, que se exprime al servir.",
     "Calienta el wok a fuego máximo hasta que humee y añade el resto del aceite de ajo. Pon los dados en una sola capa y no los toques 1 minuto; después agita el wok («lúc lắc» es agitar) 2-3 minutos, hasta que estén dorados por fuera y rosados por dentro.",
-    "Añade el pimiento verde en dados 1 minuto, y al final la mantequilla y la cebolleta en trozos; agita 30 segundos para que la carne quede glaseada y brillante.",
+    "Añade el pimiento verde 1 minuto, y al final la mantequilla y la cebolleta; agita 30 segundos para que la carne quede glaseada y brillante.",
     "Vuelca la ternera sobre los berros, que se ablandan con el calor, y sírvela con el arroz y el dip para mojar cada dado."
   ],
   nutricion: { kcal: 604, prot: 41, hc: 67, grasa: 19 },
@@ -599,10 +599,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mete el solomillo 20 minutos en el congelador para que se endurezca y córtalo en filetes finísimos, de 3-4 mm.",
     "Marínalo con 2 cucharaditas del aceite de ajo, el zumo de 1 lima, el vinagre, el comino (reserva una pizca), el orégano, el tomillo, sal y pimienta. Déjalo al menos 20 minutos (mejor 2 horas en la nevera).",
-    "Mientras se marina, prepara la salsa: asa los tomates enteros en una sartén seca a fuego medio-alto 8-10 minutos, girándolos, hasta que la piel esté negra a trozos. Pélalos, tritúralos con sal, la pizca de comino y el zumo de media lima y, si queda aguada, redúcela 3 minutos en la sartén.",
+    "Mientras se marina, prepara la salsa: asa los tomates enteros en una sartén seca a fuego medio-alto 8-10 minutos, girándolos, hasta que la piel esté negra a trozos. Pélalos, tritúralos con sal, la pizca de comino y el zumo de media lima y, si queda aguada, redúcela 3 minutos en la sartén. Pica el perejil y la cebolleta.",
     "Calienta la sartén a fuego fuerte con el resto del aceite de ajo y dora la carne en tandas, sin amontonarla, 1-1½ minutos por lado, hasta que tenga los bordes tostados. Pícala en tiras finas sobre la tabla, como si saliera del trompo.",
     "Calienta las pitas en la sartén seca 30 segundos por cada lado para que se vuelvan flexibles; si son gruesas, ábrelas en dos discos.",
-    "Rellena el pan con la carne, la salsa, el perejil y la cebolleta picados, enróllalo en forma de cono y sírvelo con gajos de la lima restante."
+    "Rellena el pan con la carne, la salsa, el perejil y la cebolleta, enróllalo en forma de cono y sírvelo con gajos de la lima restante."
   ],
   nutricion: { kcal: 460, prot: 39, hc: 41, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína"],
@@ -643,12 +643,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Corta las patatas en gajos, mézclalas con 2 cucharaditas del aceite y sal y ásalas 30-35 minutos, dándoles la vuelta a mitad, hasta que estén doradas.",
-    "Prepara el khao khua: tuesta el arroz en una sartén seca a fuego medio 5-6 minutos, removiendo, hasta que esté dorado oscuro y huela a palomitas. Muélelo en el mortero hasta tener un polvo grueso.",
-    "Haz el jaew: mezcla la pasta de tamarindo, la salsa de pescado, el azúcar moreno, el zumo de la lima y 2 cucharadas de agua. Añade la mitad del arroz tostado y la cebolleta y la mitad del cilantro picados. Prueba: debe ser ácido, salado y apenas dulce.",
-    "Frota el solomillo con el tamari y pimienta y déjalo atemperar 15 minutos. Calienta la plancha a fuego fuerte con el resto del aceite y márcalo 2 minutos por cada una de sus cuatro caras, hasta que esté dorado y alcance 60-63 °C en el centro.",
+    "Precalienta el horno a 210 °C. Corta las patatas en gajos, mézclalas con 2 cucharaditas del aceite y sal y ásalas 30-35 minutos, dándoles la vuelta a mitad, hasta que estén doradas. Frota el solomillo con el tamari y pimienta y déjalo atemperar mientras preparas lo demás.",
+    "Mientras se asan, prepara el khao khua: tuesta el arroz en una sartén seca a fuego medio 5-6 minutos, removiendo, hasta que esté dorado oscuro y huela a palomitas. Muélelo en el mortero hasta tener un polvo grueso.",
+    "Pica la cebolleta y el cilantro y haz el jaew: mezcla la pasta de tamarindo, la salsa de pescado, el azúcar moreno, el zumo de la lima y 2 cucharadas de agua. Añade la mitad del arroz tostado la cebolleta y la mitad del cilantro. Prueba: debe ser ácido, salado y apenas dulce.",
+    "Calienta la plancha a fuego fuerte con el resto del aceite y márcalo 2 minutos por cada una de sus cuatro caras, hasta que esté dorado y alcance 60-63 °C en el centro.",
     "Envuélvelo en papel de aluminio y deja que repose 5 minutos para que los jugos se asienten.",
-    "Corta el pepino en bastones y mézclalo con la menta y el resto del cilantro en hojas.",
+    "Mientras reposa, corta el pepino en bastones y mézclalo con la menta y el resto del cilantro en hojas.",
     "Corta el solomillo en medallones, espolvorea el resto del arroz tostado por encima y sírvelo con el jaew para mojar, las patatas y el pepino."
   ],
   nutricion: { kcal: 535, prot: 36, hc: 51, grasa: 21 },
@@ -692,10 +692,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz basmati y cuécelo con 260 ml de agua y sal: hervor, tapa, 10-12 minutos a fuego mínimo. Al final, mézclalo con la mitad del perejil y de la menta picados.",
-    "En un bol, mezcla el cordero con la fécula, el comino, la canela, la pimienta de Jamaica, el jengibre rallado, el resto del perejil picado y sal. Amasa 2-3 minutos, levantando la masa y golpeándola contra el bol, hasta que esté pegajosa y ligada: es el truco del tsukune para que no se rompa.",
+    "Lava el arroz basmati y cuécelo con 260 ml de agua y sal: hervor, tapa, 10-12 minutos a fuego mínimo. Mientras, pica el perejil y la menta y ralla el jengibre. Al final, mezcla el arroz con la mitad del perejil y de la menta.",
+    "En un bol, mezcla el cordero con la fécula, el comino, la canela, la pimienta de Jamaica, el jengibre, el resto del perejil y sal. Amasa 2-3 minutos, levantando la masa y golpeándola contra el bol, hasta que esté pegajosa y ligada: es el truco del tsukune para que no se rompa.",
     "Con las manos húmedas, forma 6 salchichas alargadas alrededor de brochetas de bambú remojadas. Déjalas 10 minutos en la nevera para que se asienten.",
-    "Para la tare, aplasta 50 g de los granos de granada en un colador para sacar 2-3 cucharadas de zumo. Hiérvelo en un cazo con el tamari y el azúcar moreno 2-3 minutos, hasta que tenga textura de almíbar ligero.",
+    "Mientras se asientan, prepara la tare: aplasta 50 g de los granos de granada en un colador para sacar 2-3 cucharadas de zumo. Hiérvelo en un cazo con el tamari y el azúcar moreno 2-3 minutos, hasta que tenga textura de almíbar ligero.",
     "Calienta una sartén antiadherente a fuego medio-alto con el aceite y dora las brochetas 8-10 minutos, girándolas, hasta que estén doradas y firmes. En los 2 últimos minutos, píntalas con la tare 2-3 veces y gíralas para que se laquen sin que se queme el azúcar.",
     "Corta el pepino en medias lunas, ponlo sobre el yogur salado y espolvorea el zumaque y la menta restante.",
     "Sirve las brochetas sobre el arroz con los granos de granada restantes por encima y el pepino al yogur al lado."
@@ -741,10 +741,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el yogur con el pimentón, el comino, el cilantro, el garam masala (reserva una pizca), el jengibre rallado, el zumo de medio limón, 2 cucharaditas del aceite de ajo y sal. Haz unos cortes poco profundos en la pechuga y úntala bien. Déjala marinar 30 minutos (o toda la noche en la nevera).",
-    "Mientras se marina, precalienta el horno a 200 °C. Pela las patatas, córtalas en trozos grandes y cuécelas 8 minutos en agua con sal. Escúrrelas y sacúdelas en la olla tapada para que se rasguen los bordes: así salen crujientes.",
-    "Corta la zanahoria y la chirivía en bastones gruesos. Pon todas las verduras en una bandeja grande con el aceite de oliva y sal y hornéalas 20 minutos.",
-    "Aparta las verduras hacia los lados, coloca el pavo en el centro y hornea 25-30 minutos más, dando la vuelta a las verduras a mitad, hasta que el pavo alcance 68-70 °C en el centro y la marinada tenga los bordes tostados. Sácalo y deja que repose 10 minutos tapado.",
+    "Ralla el jengibre y mezcla el yogur con el pimentón, el comino, el cilantro, el garam masala (reserva una pizca), el jengibre, el zumo de medio limón, 2 cucharaditas del aceite de ajo y sal. Haz unos cortes poco profundos en la pechuga y úntala bien. Déjala marinar 30 minutos (o toda la noche en la nevera).",
+    "Mientras se marina, precalienta el horno a 200 °C. Pela las patatas, córtalas en trozos grandes y cuécelas 8 minutos en agua con sal; mientras, corta la zanahoria y la chirivía en bastones gruesos. Escurre las patatas y sacúdelas en la olla tapada para que se rasguen los bordes: así salen crujientes.",
+    "Pon todas las verduras en una bandeja grande con el aceite de oliva y sal y hornéalas 20 minutos.",
+    "Aparta las verduras hacia los lados, coloca el pavo en el centro y hornea 25-30 minutos más, dando la vuelta a las verduras a mitad, hasta que el pavo alcance 68-70 °C en el centro y la marinada tenga los bordes tostados. Sácalo y deja que repose 10 minutos tapado; mientras, calienta el caldo.",
     "Para el gravy, vierte el caldo caliente en la bandeja vacía (o recoge los jugos en un cazo) y raspa el fondo tostado con una cuchara de madera. Cuélalo a un cazo, añade la maicena disuelta en 2 cucharadas de agua fría, la pizca de garam masala y el resto del aceite de ajo, y hierve 1-2 minutos hasta que nape la cuchara. Ajusta de sal y pimienta.",
     "Corta el pavo en lonchas gruesas y sírvelo con las verduras, el gravy por encima y el resto del limón en gajos."
   ],
@@ -789,11 +789,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Pela las patatas, córtalas en dados de 1,5 cm, sécalas con un paño, mézclalas con 2 cucharaditas del aceite de oliva y sal y ásalas en una bandeja con papel 25 minutos, removiendo a mitad, hasta que estén doradas y crujientes por fuera.",
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: hervor, tapa, 12 minutos a fuego mínimo y 5 de reposo.",
-    "Mezcla en un cuenco el tamari, el azúcar moreno, el vinagre de arroz y 3 cucharadas de agua.",
+    "Mezcla en un cuenco el tamari, el azúcar moreno, el vinagre de arroz y 3 cucharadas de agua. Pica la cebolleta y corta el pepino en rodajas finas.",
     "Calienta una sartén amplia a fuego fuerte con el aceite de ajo y añade las dos carnes con el laurel. Deshazlas con una cuchara de madera y saltéalas 6-7 minutos, removiendo solo de vez en cuando, hasta que se evapore el agua y la carne se dore en grumos sueltos.",
-    "Vierte la mezcla de tamari y remueve 1-2 minutos, hasta que la salsa se reduzca y deje la carne brillante. Añade pimienta blanca, casi toda la cebolleta picada y las patatas asadas, mezcla con cuidado para que no pierdan el crujiente y retira el laurel.",
+    "Vierte la mezcla de tamari y remueve 1-2 minutos, hasta que la salsa se reduzca y deje la carne brillante. Añade pimienta blanca, casi toda la cebolleta y las patatas asadas, mezcla con cuidado para que no pierdan el crujiente y retira el laurel.",
     "En una sartén antiadherente con el resto del aceite de oliva, a fuego medio-bajo, cuaja los huevos tapados 3 minutos, hasta que la clara esté hecha y la yema siga blanda.",
-    "Sirve el arroz con el minchi al lado y un huevo encima, espolvorea la cebolleta reservada y acompaña con el pepino en rodajas finas."
+    "Sirve el arroz con el minchi al lado y un huevo encima, espolvorea la cebolleta reservada y acompaña con el pepino."
   ],
   nutricion: { kcal: 660, prot: 40, hc: 77, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada", "alta en proteína", "para niños"],
@@ -832,13 +832,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pollo en trozos de 4 cm y marínalo 15 minutos con 1 cucharada de tamari y la mitad del jengibre rallado.",
-    "Lava el arroz y cuécelo con 280 ml de agua y sal: hervor, tapa, 12 minutos a fuego mínimo y 5 de reposo.",
+    "Ralla la mitad del jengibre y corta el resto en tiras finas. Corta el pollo en trozos de 4 cm y marínalo 15 minutos con 1 cucharada de tamari y el jengibre rallado.",
+    "Mientras se marina, corta la cebolleta en trozos, lava el arroz y cuécelo con 280 ml de agua y sal: hervor, tapa, 12 minutos a fuego mínimo y 5 de reposo.",
     "Escurre el pollo, pásalo por la fécula de patata y sacude el exceso. Mézclalo con el aceite de girasol para que todos los trozos queden impregnados.",
     "Cocínalo en la airfryer a 200 °C 14-16 minutos, agitando la cesta a mitad, hasta que esté dorado y crujiente (o en el horno a 220 °C, 20-25 minutos sobre rejilla).",
     "Mientras, saltea los brotes de soja en el wok muy caliente con unas gotas del aceite de sésamo y sal 1-2 minutos, solo hasta que pierdan el crudo. Resérvalos.",
-    "En el mismo wok, calienta el resto del aceite de sésamo a fuego medio y saltea el resto del jengibre cortado en tiras finas 30 segundos. Añade el caldo, las 2 cucharadas de tamari restantes y el azúcar y lleva a ebullición. Espesa con 1 cucharadita de fécula disuelta en un poco de agua fría, removiendo 1 minuto, hasta que la salsa brille.",
-    "Echa el pollo y la cebolleta en trozos al wok y saltea 30 segundos, solo para napar sin que pierda el crujiente. Espolvorea el sésamo y sirve con el arroz y los brotes."
+    "En el mismo wok, calienta el resto del aceite de sésamo a fuego medio y saltea el jengibre en tiras 30 segundos. Añade el caldo, las 2 cucharadas de tamari restantes y el azúcar y lleva a ebullición. Espesa con 1 cucharadita de fécula disuelta en un poco de agua fría, removiendo 1 minuto, hasta que la salsa brille.",
+    "Echa el pollo y la cebolleta al wok y saltea 30 segundos, solo para napar sin que pierda el crujiente. Espolvorea el sésamo y sirve con el arroz y los brotes."
   ],
   nutricion: { kcal: 630, prot: 39, hc: 75, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "airfryer", "sin gluten", "alta en proteína", "poco especiada"],
@@ -877,13 +877,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en láminas de 3 mm y cuécelas al vapor 12-15 minutos (o en el microondas, tapadas con 2 cucharadas de agua, 8-10 minutos), hasta que estén tiernas. Sálalas.",
+    "Pela las patatas, córtalas en láminas de 3 mm y cuécelas al vapor 12-15 minutos (o en el microondas, tapadas con 2 cucharadas de agua, 8-10 minutos), hasta que estén tiernas. Mientras, corta la col en juliana finísima, pica la cebolleta y corta la nori en tiras con unas tijeras. Sala las patatas.",
     "Calienta media cucharada de aceite en una sartén antiadherente de 20 cm y dora las patatas 5 minutos a fuego medio, removiendo, hasta que tomen color en los bordes.",
     "Bate los huevos con sal, mézclalos con las patatas calientes y deja que reposen 5 minutos para que se empapen.",
     "Calienta el resto del aceite en la sartén a fuego medio, vierte la mezcla y mueve la sartén para despegar los bordes 3-4 minutos. Dale la vuelta con un plato y cuaja 2-3 minutos más: debe quedar jugosa por dentro.",
     "Prepara la salsa okonomi: calienta el tamari, el tomate concentrado, el azúcar moreno, 1 cucharadita del vinagre de arroz y 1 cucharada de agua en un cazo 1 minuto, hasta que espese y brille.",
-    "Corta la col en juliana finísima y alíñala con el resto del vinagre y una pizca de sal.",
-    "Pinta la tortilla con la salsa okonomi, dibuja un zigzag de mayonesa, cubre con los copos de bonito, la nori en tiras y la cebolleta picada, y sírvela con la col al lado."
+    "Aliña la col con el resto del vinagre y una pizca de sal.",
+    "Pinta la tortilla con la salsa okonomi, dibuja un zigzag de mayonesa, cubre con los copos de bonito, la nori y la cebolleta, y sírvela con la col al lado."
   ],
   nutricion: { kcal: 467, prot: 20, hc: 49, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "para niños", "económica"],
@@ -921,12 +921,12 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" }
   ],
   pasos: [
-    "Remoja los fideos de arroz en agua muy caliente 8 minutos, hasta que estén flexibles. Escúrrelos y córtalos con tijera en trozos de 8-10 cm.",
+    "Remoja los fideos de arroz en agua muy caliente 8 minutos, hasta que estén flexibles; mientras, pica la cebolleta y deshoja el cilantro. Escúrrelos y córtalos con tijera en trozos de 8-10 cm.",
     "Mezcla la pasta de tamarindo, la salsa de pescado, el azúcar moreno y 1 cucharada de agua: es la salsa del pad thai.",
     "Calienta 1 cucharadita de aceite en una sartén antiadherente de 22 cm a fuego fuerte. Saltea las gambas 1 minuto por cada lado hasta que estén rosadas, añade los brotes de soja 30 segundos y retíralo todo.",
-    "Bate los huevos con la salsa y mezcla los fideos, las gambas, los brotes y la cebolleta picada.",
-    "Pon el resto del aceite en la sartén a fuego medio-bajo, vierte la mezcla y aplánala. Tapa y cocina 6-7 minutos, hasta que la base esté dorada y la superficie casi cuajada. Dale la vuelta con un plato y cocina 2-3 minutos más.",
-    "Tuesta los cacahuetes en una sartén seca 3 minutos y pícalos. Sirve la frittata en porciones con los cacahuetes, el cilantro y gajos de lima para exprimir por encima."
+    "Bate los huevos con la salsa y mezcla los fideos, las gambas, los brotes y la cebolleta.",
+    "Pon el resto del aceite en la sartén a fuego medio-bajo, vierte la mezcla y aplánala. Tapa y cocina 6-7 minutos, hasta que la base esté dorada y la superficie casi cuajada. Mientras, tuesta los cacahuetes en una sartén seca 3 minutos y pícalos. Dale la vuelta a la frittata con un plato y cocina 2-3 minutos más.",
+    "Sirve la frittata en porciones con los cacahuetes, el cilantro y gajos de lima para exprimir por encima."
   ],
   nutricion: { kcal: 492, prot: 35, hc: 42, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "ideal para llevar", "una sola sartén"],
@@ -1154,8 +1154,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa en un colador bajo el grifo frotándola 1 minuto (quita las saponinas, que amargan). Cuécela con 240 ml de agua y sal 12 minutos tapada a fuego suave, deja reposar 5 minutos y suéltala con un tenedor.",
-    "Corta el tempeh en lonchas de 1 cm y cuécelas al vapor 8-10 minutos: se vuelve más tierno, pierde el amargor y absorbe mejor el glaseado.",
-    "Prepara el glaseado batiendo el tahini con el tamari, el sirope de arce, el jengibre rallado, el zumo de medio limón y 1-2 cucharadas de agua, hasta tener una crema fluida.",
+    "Mientras se cuece, corta el tempeh en lonchas de 1 cm y cuécelas al vapor 8-10 minutos: se vuelve más tierno, pierde el amargor y absorbe mejor el glaseado.",
+    "Mientras, ralla el jengibre y prepara el glaseado batiendo el tahini con el tamari, el sirope de arce, el jengibre, el zumo de medio limón y 1-2 cucharadas de agua, hasta tener una crema fluida.",
     "Calienta el aceite en una sartén antiadherente a fuego medio y dora el tempeh 2-3 minutos por cada lado. Baja el fuego, añade la mitad del glaseado y dale la vuelta durante 1 minuto, hasta que se pegue y se caramelice a puntos.",
     "Corta el pepino y el tomate en dados pequeños, pica el perejil y la menta y alíñalo todo con el zumo del otro medio limón, sal y el zumaque.",
     "Sirve la quinoa con el tempeh encima, el resto del glaseado como salsa, el sésamo y la ensalada al lado."

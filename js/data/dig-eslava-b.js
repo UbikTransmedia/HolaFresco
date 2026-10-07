@@ -93,10 +93,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela y ralla la zanahoria por la parte fina del rallador. Muele los copos de avena en la batidora hasta que parezcan harina gruesa.",
     "Derrite la mantequilla en una cazuela a fuego medio, añade la zanahoria y 3 cucharadas de agua, tapa y deja que se ablande 10 minutos, removiendo de vez en cuando, hasta que esté muy tierna y sin color.",
-    "Vierte la leche, lleva a hervor suave y añade la avena molida en lluvia sin dejar de remover. Cuece 3 minutos, hasta que la mezcla se despegue de las paredes como una masa espesa. Sala, extiéndela en un plato y deja que se temple 10 minutos. Mientras, precalienta el horno a 200 °C.",
-    "Añade a la masa el huevo batido y el cebollino picado y mezcla bien. Forma 8 filetes ovalados de 2 cm de grosor con las manos mojadas y pásalos por el pan rallado sin gluten, presionando para que se adhiera.",
+    "Vierte la leche, lleva a hervor suave y añade la avena molida en lluvia sin dejar de remover. Cuece 3 minutos, hasta que la mezcla se despegue de las paredes como una masa espesa. Sala, extiéndela en un plato y deja que se temple 10 minutos. Mientras, precalienta el horno a 200 °C y pica el cebollino.",
+    "Añade a la masa el huevo batido y el cebollino y mezcla bien. Forma 8 filetes ovalados de 2 cm de grosor con las manos mojadas y pásalos por el pan rallado sin gluten, presionando para que se adhiera.",
     "Colócalos sobre papel de horno, píntalos con el aceite por ambas caras y hornéalos 25 minutos, dándoles la vuelta a los 15, hasta que estén dorados y firmes al tocarlos.",
-    "Mientras, cuece las patatas peladas y en trozos en agua con sal 18-20 minutos. Mezcla el yogur con la mitad del eneldo picado, sal y pimienta, y corta el pepino en rodajas finas con el resto del eneldo.",
+    "Mientras, pela las patatas, córtalas en trozos y cuécelas en agua con sal 18-20 minutos. Pica el eneldo, mezcla el yogur con la mitad, sal y pimienta, y corta el pepino en rodajas finas con el resto del eneldo.",
     "Sirve los kotlety con las patatas, el pepino y una buena cucharada de salsa de yogur por encima."
   ],
   nutricion: { kcal: 600, prot: 19, hc: 82, grasa: 21 },
@@ -137,12 +137,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela los nabos y corta una tapa fina por arriba y otra por la base para que se sostengan de pie. Cuécelos en agua con sal 12-15 minutos, hasta que la punta de un cuchillo entre con algo de resistencia: así pierden el punto picante. Escúrrelos y deja que se templen.",
-    "A la vez, cuece el arroz en agua con sal 12 minutos, hasta que esté al dente, y escúrrelo. Cuece los huevos 10 minutos, enfríalos en agua y pélalos. Mientras, ralla la zanahoria.",
+    "A la vez, cuece el arroz en agua con sal 12 minutos, hasta que esté al dente, y escúrrelo. Cuece los huevos 10 minutos, enfríalos en agua, pélalos y pícalos. Mientras, ralla la zanahoria y pica la parte verde de la cebolleta y el eneldo.",
     "Precalienta el horno a 190 °C. Vacía los nabos con una cucharilla o un sacabolas, dejando paredes de 1 cm, y pica la pulpa que saques.",
-    "En una sartén con la mitad de la mantequilla rehoga a fuego medio la zanahoria rallada, la pulpa de nabo y la parte verde de la cebolleta picada 6 minutos, hasta que estén tiernas y se haya evaporado el agua. Mezcla con el arroz, los huevos picados, dos tercios del eneldo picado, sal y pimienta.",
-    "Rellena los nabos haciendo un pequeño montículo y colócalos en una fuente donde quepan justos; reparte el relleno sobrante alrededor. Vierte el caldo caliente en el fondo, pon encima el resto de la mantequilla en trocitos, tapa con papel de aluminio y hornea 25 minutos.",
+    "En una sartén con la mitad de la mantequilla rehoga a fuego medio la zanahoria, la pulpa de nabo y la cebolleta 6 minutos, hasta que estén tiernas y se haya evaporado el agua. Mezcla con el arroz, los huevos, dos tercios del eneldo, sal y pimienta.",
+    "Rellena los nabos haciendo un pequeño montículo y colócalos en una fuente donde quepan justos; reparte el relleno sobrante alrededor. Vierte el caldo caliente en el fondo, pon encima el resto de la mantequilla en trocitos, tapa con papel de aluminio y hornea 25 minutos. Mientras, pica el perejil.",
     "Destapa, espolvorea el queso y hornea 10 minutos más, hasta que el queso esté dorado y los nabos se dejen atravesar sin resistencia.",
-    "Mientras, mezcla el yogur con el resto del eneldo, el perejil picado y una pizca de sal. Sirve dos nabos por persona con un poco del jugo de la fuente y la salsa de yogur al lado."
+    "Mientras, mezcla el yogur con el resto del eneldo, el perejil y una pizca de sal. Sirve dos nabos por persona con un poco del jugo de la fuente y la salsa de yogur al lado."
   ],
   nutricion: { kcal: 495, prot: 20, hc: 58, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada", "económica", "invierno"],
@@ -185,7 +185,7 @@ window.RECETAS_SEED.push({
     "Maja ligeramente la alcaravea en el mortero para despertar su aroma. Embadurna los gajos con tres cuartas partes del aceite, la alcaravea, el pimentón y sal, y ásalos en una bandeja con papel 25 minutos.",
     "Trocea el kale con las manos, frótalo con el resto del aceite y una pizca de sal, y repártelo en un hueco de la bandeja los últimos 8 minutos, hasta que los bordes estén crujientes y la calabaza dorada y tierna al pincharla.",
     "Mientras, cuece los huevos 6 minutos y medio en agua hirviendo, pásalos a agua con hielo 2 minutos y pélalos con cuidado.",
-    "Mezcla el yogur con el eneldo picado, la ralladura y una cucharada de zumo de limón, sal y pimienta. Tuesta las pipas en una sartén sin aceite 2-3 minutos, hasta que empiecen a saltar.",
+    "Pica el eneldo, ralla el medio limón y mézclalos con el yogur, una cucharada de zumo de limón, sal y pimienta. Tuesta las pipas en una sartén sin aceite 2-3 minutos, hasta que empiecen a saltar.",
     "Extiende la salsa de yogur en los platos, coloca encima la calabaza y el kale, el huevo abierto por la mitad, las pipas y el queso en virutas finas."
   ],
   nutricion: { kcal: 415, prot: 19, hc: 35, grasa: 22 },
@@ -226,7 +226,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 190 °C y unta una fuente de unos 20 × 25 cm con la mitad de la mantequilla.",
     "Pela la patata, el nabo y la zanahoria y córtalos en láminas de 3 mm, con mandolina si tienes. Cuécelos 4 minutos en agua hirviendo con sal y escúrrelos bien: así el gratinado se hace en la mitad de tiempo y queda tierno de verdad.",
-    "Bate los huevos con la leche, la nuez moscada, el eneldo y el cebollino picados, sal y pimienta.",
+    "Pica el eneldo y el cebollino y bátelos con los huevos, la leche, la nuez moscada, sal y pimienta.",
     "Coloca las láminas en capas alternando colores y reparte la mitad del queso entre las capas. Vierte la mezcla de huevo, presionando con una espátula para que lo cubra todo.",
     "Cubre con el resto del queso y la mantequilla en trocitos, tapa con papel de aluminio y hornea 25 minutos.",
     "Destapa y hornea 15-20 minutos más, hasta que la superficie esté dorada, el centro cuajado y un cuchillo atraviese las verduras sin resistencia. Deja reposar 10 minutos antes de cortar."
@@ -269,11 +269,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el mijo en un colador con agua caliente hasta que salga clara. Tuéstalo en una cazuela en seco 3 minutos, removiendo, hasta que huela a pan; añade el caldo caliente y una pizca de sal, tapa y cuece a fuego mínimo 15 minutos. Déjalo reposar tapado 5 minutos.",
-    "Mientras se cuece el mijo, precalienta el horno a 190 °C. Corta una tapa a los tomates y vacíalos con una cucharilla, dejando 1 cm de pared. Sala el interior y ponlos boca abajo sobre una rejilla 10 minutos para que suelten agua. Mientras escurren, pica la pulpa y ralla la zanahoria.",
-    "En una sartén con el aceite de ajo rehoga la zanahoria rallada y la parte verde de la cebolleta picada 4 minutos; añade la pulpa del tomate y cuece 5 minutos, hasta que se evapore casi todo el líquido.",
-    "Mezcla el mijo con el sofrito, el eneldo y el perejil picados, la mitad del feta desmigado, sal y pimienta. Rellena los tomates sin apretar y ponles la tapa.",
+    "Mientras se cuece el mijo, precalienta el horno a 190 °C. Corta una tapa a los tomates y vacíalos con una cucharilla, dejando 1 cm de pared. Sala el interior y ponlos boca abajo sobre una rejilla 10 minutos para que suelten agua. Mientras escurren, pica la pulpa, ralla la zanahoria, pica la parte verde de la cebolleta, el eneldo y el perejil y desmiga el feta.",
+    "En una sartén con el aceite de ajo rehoga la zanahoria y la cebolleta 4 minutos; añade la pulpa del tomate y cuece 5 minutos, hasta que se evapore casi todo el líquido.",
+    "Mezcla el mijo con el sofrito, el perejil, casi todo el eneldo, la mitad del feta, sal y pimienta. Rellena los tomates sin apretar y ponles la tapa.",
     "Hornéalos en una fuente 25-30 minutos, hasta que la piel se arrugue y estén tiernos. Los últimos 5 minutos quita las tapas y reparte el resto del feta por encima.",
-    "Mientras, corta el pepino en medias lunas finas y alíñalo con el yogur, sal y un poco de eneldo. Sirve los tomates templados con la ensalada."
+    "Mientras, corta el pepino en medias lunas finas y alíñalo con el yogur, sal y el resto del eneldo. Sirve los tomates templados con la ensalada."
   ],
   nutricion: { kcal: 500, prot: 17, hc: 66, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "económica", "verano"],
@@ -310,11 +310,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño, ponle un peso encima y déjalo prensar 15 minutos. Mientras, precalienta el horno a 220 °C, parte las patatas por la mitad, mézclalas con el aceite de oliva y sal y ásalas 20 minutos.",
+    "Envuelve el tofu en un paño, ponle un peso encima y déjalo prensar 15 minutos. Mientras, precalienta el horno a 220 °C, parte las patatas por la mitad, mézclalas con el aceite de oliva y sal y ásalas 20 minutos. Pica fino el cilantro.",
     "Corta el tofu en 6 lonchas gruesas y sálalo. Dóralo en una sartén antiadherente con 1 cucharadita del aceite de ajo a fuego medio-alto, 3-4 minutos por cada lado, hasta que tenga una costra tostada. Colócalo en una cazuelita o fuente pequeña de horno donde quepa justo.",
-    "Disuelve la maicena en la leche fría y añade el resto del aceite de ajo, sal, bastante pimienta y la mitad del cilantro picado fino. Calienta la mezcla en un cazo a fuego medio, removiendo, 2-3 minutos, hasta que espese un poco y nape la cuchara.",
+    "Disuelve la maicena en la leche fría y añade el resto del aceite de ajo, sal, bastante pimienta y la mitad del cilantro. Calienta la mezcla en un cazo a fuego medio, removiendo, 2-3 minutos, hasta que espese un poco y nape la cuchara.",
     "Vierte la salsa sobre el tofu y mete la cazuelita en el horno junto a las patatas 10-12 minutos, hasta que la salsa burbujee y se dore en los bordes y las patatas estén tostadas.",
-    "Mientras, corta el pepino en medias lunas y alíñalo con sal, unas gotas de limón y unas hojas de cilantro.",
+    "Mientras, corta el pepino en medias lunas y alíñalo con sal, unas gotas de limón y un poco de cilantro.",
     "Sirve el tofu en su cazuelita, con el resto del cilantro por encima, las patatas y el pepino al lado para mojar en la salsa."
   ],
   nutricion: { kcal: 470, prot: 25, hc: 46, grasa: 20 },
@@ -355,10 +355,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima y déjalo prensar 15 minutos. Córtalo en 8 lonchas de 1 cm.",
-    "Mezcla en una fuente el líquido de los pepinillos con el aceite de ajo, el pimentón, los tallos de eneldo muy picados y pimienta. Coloca el tofu, dale la vuelta para que se impregne y déjalo marinar 20 minutos (o toda la noche en la nevera).",
-    "Mientras se marina, precalienta el horno a 210 °C. Parte las patatas por la mitad y corta las zanahorias en bastones gruesos. Mézclalas en una bandeja con el aceite de oliva, la alcaravea majada y sal, y hornéalas 15 minutos.",
+    "Pica muy finos los tallos del eneldo y mézclalos en una fuente con el líquido de los pepinillos, el aceite de ajo, el pimentón y pimienta. Coloca el tofu, dale la vuelta para que se impregne y déjalo marinar 20 minutos (o toda la noche en la nevera).",
+    "Mientras se marina, precalienta el horno a 210 °C. Parte las patatas por la mitad, corta las zanahorias en bastones gruesos y maja la alcaravea. Mézclalas en una bandeja con el aceite de oliva, la alcaravea y sal, y hornéalas 15 minutos.",
     "Haz sitio en la bandeja, coloca las lonchas de tofu sobre un trozo de papel de horno y píntalas con la marinada. Hornea 20 minutos más, dando la vuelta al tofu a mitad de tiempo, hasta que tenga los bordes dorados y las verduras estén tiernas y caramelizadas.",
-    "Mientras, pica los pepinillos en daditos y mézclalos con el yogur, la mostaza, las hojas de eneldo picadas y una pizca de sal.",
+    "Mientras, pica los pepinillos en daditos y las hojas de eneldo y mézclalos con el yogur, la mostaza y una pizca de sal.",
     "Sirve el tofu con las patatas y las zanahorias y la salsa de yogur y pepinillo por encima."
   ],
   nutricion: { kcal: 505, prot: 28, hc: 55, grasa: 20 },
@@ -447,8 +447,8 @@ window.RECETAS_SEED.push({
     "Mientras se cuece el arroz, sala los filetes de pavo, espolvoréalos con una pizca de la cúrcuma y úntalos con el aceite. Hazlos en una sartén antiadherente a fuego medio-alto 3-4 minutos por cada lado, hasta que estén dorados y sin rastro rosado. Déjalos reposar 5 minutos y córtalos en dados de 1,5 cm.",
     "Para el aliño, bate el yogur con la mayonesa, el resto de la cúrcuma, el cilantro molido, una cucharada de zumo de limón, sal y pimienta: debe quedar de un amarillo suave.",
     "Corta la piña y el pepino en dados del tamaño del pavo y pica la parte verde de la cebolleta en aros finos.",
-    "Mezcla en un bol el arroz, el pavo, la piña, el maíz, el pepino y la cebolleta con el aliño, prueba de sal y deja reposar 10 minutos en la nevera para que el arroz se impregne.",
-    "Sirve con el cebollino picado en abundancia por encima."
+    "Mezcla en un bol el arroz, el pavo, la piña, el maíz, el pepino y la cebolleta con el aliño, prueba de sal y deja reposar 10 minutos en la nevera para que el arroz se impregne. Mientras, pica el cebollino.",
+    "Sirve con el cebollino en abundancia por encima."
   ],
   nutricion: { kcal: 530, prot: 39, hc: 63, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "ideal para llevar"],
@@ -532,9 +532,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta el pan en dados, mézclalos con 1 cucharadita de aceite y la alcaravea majada, y hornéalos 8-10 minutos, hasta que estén dorados y crujientes.",
+    "Precalienta el horno a 200 °C. Corta el pan en dados, maja la alcaravea y mezcla los dados con 1 cucharadita de aceite y la alcaravea; hornéalos 8-10 minutos, hasta que estén dorados y crujientes. Mientras, pica el eneldo y el cebollino.",
     "Abre la pechuga en dos filetes de grosor uniforme, sálala y úntala con 1 cucharadita de aceite. Hazla en una sartén o plancha muy caliente 4 minutos por cada lado, hasta que esté dorada y el centro ya no sea rosado. Déjala reposar 5 minutos y córtala en tiras.",
-    "Bate el kéfir con la mostaza, una cucharada de zumo de limón, el resto del aceite, la mitad del eneldo picado, sal y pimienta.",
+    "Bate el kéfir con la mostaza, una cucharada de zumo de limón, el resto del aceite, la mitad del eneldo, sal y pimienta.",
     "Corta la lechuga en tiras, el pepino en medias lunas y los rábanos en láminas finas.",
     "Reparte las verduras, pon encima el pollo templado, riega con el aliño de kéfir y termina con los picatostes, el resto del eneldo y el cebollino."
   ],
@@ -618,11 +618,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una olla grande con abundante agua y sal.",
-    "Pela las patatas y rállalas por la parte más fina del rallador. Mézclalas con la harina de arroz, el huevo y una cucharadita de sal hasta tener una masa espesa y pegajosa que caiga despacio de la cuchara; si está muy líquida, añade una cucharada más de harina.",
+    "Mientras se calienta el agua, pela las patatas y rállalas por la parte más fina del rallador. Mézclalas con la harina de arroz, el huevo y una cucharadita de sal hasta tener una masa espesa y pegajosa que caiga despacio de la cuchara; si está muy líquida, añade una cucharada más de harina.",
     "Coloca la masa sobre una tabla mojada y, con el borde de un cuchillo, ve arrastrando tiras finas directamente al agua hirviendo (o pásala por un rallador de halušky). Cuécelas por tandas hasta que suban a la superficie y 1 minuto más, unos 3-4 minutos. Sácalas con una espumadera.",
-    "Mientras, corta la panceta en dados pequeños y dórala en una sartén sin aceite 6 minutos, hasta que esté crujiente. Escúrrela sobre papel de cocina.",
+    "Mientras, corta la panceta en dados pequeños y dórala en una sartén sin aceite 6 minutos, hasta que esté crujiente. Escúrrela sobre papel de cocina. Pica el cebollino.",
     "Aplasta el feta con un tenedor y mézclalo con el yogur y 2-3 cucharadas del agua de cocción hasta tener una crema lisa y untuosa.",
-    "Mezcla las halušky calientes con la crema de queso, reparte en platos y termina con la panceta, el cebollino picado y pimienta recién molida."
+    "Mezcla las halušky calientes con la crema de queso, reparte en platos y termina con la panceta, el cebollino y pimienta recién molida."
   ],
   nutricion: { kcal: 615, prot: 21, hc: 86, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada"],
@@ -663,13 +663,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el cordero en dados de 2 cm, sécalo con papel de cocina y sálalo. Lava el mijo en un colador con agua muy caliente hasta que salga clara.",
+    "Corta el cordero en dados de 2 cm, sécalo con papel de cocina y sálalo. Corta la zanahoria en bastones y el pimiento en tiras, y pica la parte verde de la cebolleta. Lava el mijo en un colador con agua muy caliente hasta que salga clara.",
     "En una cazuela con el aceite de ajo dora el cordero a fuego fuerte 5 minutos, por tandas si hace falta, hasta que esté bien tostado por todos los lados.",
-    "Baja el fuego, añade la zanahoria en bastones, el pimiento en tiras y la parte verde de la cebolleta picada y rehoga 5 minutos. Aparta del fuego, añade el pimentón y remueve 20 segundos.",
+    "Baja el fuego, añade la zanahoria, el pimiento y la cebolleta y rehoga 5 minutos. Aparta del fuego, añade el pimentón y remueve 20 segundos.",
     "Vierte el caldo, añade el laurel, tapa y cuece a fuego suave 30 minutos, hasta que el cordero esté tierno.",
     "Añade el mijo y 200 ml de agua caliente, sala, remueve una vez, tapa y cuece a fuego mínimo 15 minutos, hasta que el grano haya absorbido el líquido. Deja reposar tapado 10 minutos y suéltalo con un tenedor.",
-    "Mientras, ralla el pepino, escúrrelo apretando con las manos y mézclalo con el yogur, el eneldo picado, sal y pimienta.",
-    "Sirve el pilav con el perejil picado por encima y el pepino al yogur al lado."
+    "Mientras, ralla el pepino, escúrrelo apretando con las manos, pica el eneldo y el perejil y mezcla el pepino con el yogur, el eneldo, sal y pimienta.",
+    "Sirve el pilav con el perejil por encima y el pepino al yogur al lado."
   ],
   nutricion: { kcal: 630, prot: 37, hc: 66, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína"],
@@ -707,11 +707,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua abundante con sal y cuece los tallarines el tiempo del paquete, removiendo los primeros minutos para que no se peguen (la pasta sin gluten se pega más).",
-    "Mientras, corta el tomate en gajos y alíñalo con el aceite, sal y el cebollino picado.",
+    "Mientras, pica el cebollino y el eneldo y corta la parte verde de la cebolleta en aros finos. Corta el tomate en gajos y alíñalo con el aceite, sal y el cebollino.",
     "Desmenuza el requesón con un tenedor y mézclalo con el yogur, sal y pimienta.",
-    "Derrite la mantequilla en una sartén a fuego medio y rehoga la parte verde de la cebolleta en aros finos 2 minutos, hasta que esté blanda y brillante.",
+    "Derrite la mantequilla en una sartén a fuego medio y rehoga la cebolleta 2 minutos, hasta que esté blanda y brillante.",
     "Escurre la pasta reservando un vaso de agua de cocción y échala a la sartén con la mantequilla. Fuera del fuego, añade la crema de requesón y 2-3 cucharadas del agua, y mezcla hasta que el queso se funda a medias y envuelva los tallarines.",
-    "Termina con el eneldo picado en abundancia y pimienta, y sirve enseguida con la ensalada de tomate."
+    "Termina con el eneldo en abundancia y pimienta, y sirve enseguida con la ensalada de tomate."
   ],
   nutricion: { kcal: 535, prot: 20, hc: 81, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "rápida", "sin gluten", "poco especiada", "para niños", "económica"],
@@ -751,12 +751,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el trigo sarraceno con 140 ml de agua y una pizca de sal, tapado y a fuego mínimo, 15 minutos. Déjalo enfriar extendido en un plato.",
-    "A la vez, cuece la patata pelada en trozos 15-18 minutos, escúrrela bien y pásala por el pasapurés en caliente. Deja que se temple.",
-    "Mezcla la kasha fría con el requesón, la menta y la parte verde de la cebolleta picadas, sal y bastante pimienta: debe quedar sabroso, porque la masa es neutra.",
+    "A la vez, pela la patata, córtala en trozos y cuécela 15-18 minutos; mientras, pica la menta, la parte verde de la cebolleta y el cebollino. Escurre bien la patata y pásala por el pasapurés en caliente. Deja que se temple.",
+    "Mezcla la kasha fría con el requesón, la menta y la cebolleta, sal y bastante pimienta: debe quedar sabroso, porque la masa es neutra.",
     "Para la masa, mezcla el puré templado con la harina de arroz, la fécula, el huevo y una pizca de sal y amasa 2 minutos hasta que esté lisa y no se pegue; si se desmigaja, añade agua a cucharaditas.",
     "Pon a calentar una olla grande con agua salada. Estírala entre dos hojas de papel de horno enharinadas con harina de arroz hasta 3 mm y corta círculos de 8 cm. Pon una cucharadita colmada de relleno en cada uno, dóblalos y sella el borde pellizcándolo con los dedos mojados. Junta los recortes y vuelve a estirar.",
     "Cuécelos por tandas en el agua salada a hervor suave: cuando suban a la superficie, cuenta 3 minutos más y sácalos con una espumadera.",
-    "Derrite la mantequilla con el cebollino picado, riega los pierogi y sírvelos con el yogur sin lactosa al lado."
+    "Derrite la mantequilla con el cebollino, riega los pierogi y sírvelos con el yogur sin lactosa al lado."
   ],
   nutricion: { kcal: 680, prot: 23, hc: 112, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "batch cooking"],
@@ -794,12 +794,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo y mantenlo a punto de hervir. Corta la zanahoria en dados pequeños y los pepinillos en daditos.",
-    "En una cazuela ancha con el aceite de ajo rehoga la zanahoria y la parte verde de la cebolleta picada 4 minutos a fuego medio. Añade el arroz y nacáralo 1 minuto, hasta que el grano se vuelva translúcido en los bordes.",
+    "Calienta el caldo y mantenlo a punto de hervir. Corta la zanahoria en dados pequeños y los pepinillos en daditos, pica la parte verde de la cebolleta y el eneldo y ralla medio limón.",
+    "En una cazuela ancha con el aceite de ajo rehoga la zanahoria y la cebolleta 4 minutos a fuego medio. Añade el arroz y nacáralo 1 minuto, hasta que el grano se vuelva translúcido en los bordes.",
     "Vierte un tercio del caldo y cuece removiendo a menudo; ve añadiendo caldo caliente a medida que el arroz lo absorba, durante unos 17-18 minutos.",
     "A los 12 minutos, añade los pepinillos y su líquido. Corta la trucha en dados grandes de 3 cm y sálala.",
     "A los 16 minutos, cuando el arroz esté casi hecho y aún caldoso, coloca la trucha encima, tapa y apaga el fuego. Déjalo 3 minutos: el pescado se hace con el vapor y queda jugoso y nacarado.",
-    "Destapa, incorpora con cuidado el yogur, la mitad del eneldo picado, la ralladura de medio limón y pimienta, sin romper la trucha. Sirve con el resto del eneldo y unas gotas de zumo de limón."
+    "Destapa, incorpora con cuidado el yogur, la mitad del eneldo, la ralladura de limón y pimienta, sin romper la trucha. Sirve con el resto del eneldo y unas gotas de zumo de limón."
   ],
   nutricion: { kcal: 560, prot: 33, hc: 65, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol"],
@@ -840,11 +840,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la ternera en una cazuela con 900 ml de agua fría y el laurel. Lleva a ebullición, retira con una espumadera la espuma gris que suba, tapa dejando una rendija y cuece a fuego suave 60-70 minutos, hasta que la carne esté tierna.",
-    "Mientras, prepara la sal svana suave: maja en el mortero la alcaravea con 1 cucharadita de sal hasta romper los granos y mézclala con el cilantro molido, el fenogreco y la cúrcuma.",
-    "En una sartén con el aceite de ajo rehoga a fuego medio la zanahoria en juliana fina 6 minutos, hasta que esté tierna y empiece a dorarse. Añade la parte verde de la cebolleta en aros 1 minuto y la mitad de la sal svana 20 segundos, sin que se queme.",
+    "Mientras, prepara la sal svana suave: maja en el mortero la alcaravea con 1 cucharadita de sal hasta romper los granos y mézclala con el cilantro molido, el fenogreco y la cúrcuma. Corta la zanahoria en juliana fina y la parte verde de la cebolleta en aros, y pica el cilantro fresco.",
+    "En una sartén con el aceite de ajo rehoga a fuego medio la zanahoria 6 minutos, hasta que esté tierna y empiece a dorarse. Añade la cebolleta 1 minuto y la mitad de la sal svana 20 segundos, sin que se queme.",
     "Retira el laurel de la cazuela y mide el caldo: debe quedar unos 650 ml con la carne (si falta, completa con agua caliente). Añade el sofrito y el arroz lavado y cuece sin tapar a fuego suave 18-20 minutos, removiendo de vez en cuando para que no se pegue, hasta que el grano esté tierno y el conjunto quede espeso y caldoso, como unas gachas con grano.",
-    "Apaga el fuego, prueba y ajusta con el resto de la sal svana, añade la mitad del cilantro fresco picado y deja reposar 3 minutos.",
-    "Mezcla el yogur con una pizca de sal y el resto del cilantro picado. Sirve el shilaplavi en platos hondos con una cucharada de yogur encima y pimienta recién molida."
+    "Apaga el fuego, prueba y ajusta con el resto de la sal svana, añade la mitad del cilantro fresco y deja reposar 3 minutos.",
+    "Mezcla el yogur con una pizca de sal y el resto del cilantro. Sirve el shilaplavi en platos hondos con una cucharada de yogur encima y pimienta recién molida."
   ],
   nutricion: { kcal: 520, prot: 35, hc: 59, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "de cuchara", "alta en proteína", "invierno"],
@@ -884,12 +884,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pollo en una cazuela con 1 litro de agua fría, la zanahoria entera, el laurel y la pimienta en grano. Lleva a hervor, retira la espuma y cuece a fuego suave 35 minutos. Saca el pollo, desmígalo y cuela el caldo (quedarán unos 700 ml). Sálalo.",
-    "En la cazuela limpia derrite la mantequilla a fuego medio y rehoga la parte verde de la cebolleta picada 2 minutos, hasta que esté blanda.",
-    "Añade la harina de arroz, la cúrcuma y el cilantro molido y remueve 1 minuto. Vierte el caldo caliente poco a poco, batiendo, y cuece 5 minutos.",
+    "Pon el pollo en una cazuela con 1 litro de agua fría, la zanahoria entera, el laurel y la pimienta en grano. Lleva a hervor, retira la espuma y cuece a fuego suave 35 minutos; mientras, pica la parte verde de la cebolleta y el cilantro fresco. Saca el pollo, desmígalo y cuela el caldo (quedarán unos 700 ml). Sálalo.",
+    "En la cazuela limpia derrite la mantequilla a fuego medio y rehoga la cebolleta 2 minutos, hasta que esté blanda.",
+    "Añade la harina de arroz, la cúrcuma y el cilantro molido y remueve 1 minuto. Vierte el caldo caliente poco a poco, batiendo, y cuece 5 minutos. Mientras, tuesta el pan.",
     "Bate las yemas con el vinagre en un bol. Añade un cazo de caldo caliente en hilo sin dejar de batir para templarlas.",
     "Aparta la cazuela del fuego y vierte las yemas templadas removiendo. Vuelve a ponerla a fuego mínimo y remueve 1-2 minutos, sin que hierva nunca, hasta que la sopa se vuelva sedosa y nape ligeramente la cuchara.",
-    "Añade el pollo desmigado y el cilantro fresco picado. Sirve con el pan sin gluten tostado."
+    "Añade el pollo desmigado y el cilantro fresco. Sirve con el pan tostado."
   ],
   nutricion: { kcal: 380, prot: 33, hc: 23, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "alta en proteína", "invierno"],
@@ -928,10 +928,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Separa las hojas del eneldo de los tallos y ata los tallos con hilo de cocina.",
     "Pela y corta en dados la patata, la zanahoria y la chirivía. Ponlas en una cazuela con el caldo y el manojo de tallos de eneldo, lleva a hervor y cuece a fuego medio 18 minutos, hasta que la patata esté tierna.",
-    "Mientras, cuece los huevos 10 minutos, enfríalos en agua, pélalos y pártelos por la mitad.",
+    "Mientras, cuece los huevos 10 minutos, enfríalos en agua, pélalos y pártelos por la mitad. Pica las hojas de eneldo.",
     "Bate el yogur con la harina de arroz y añade poco a poco un cazo de caldo caliente, batiendo, para templarlo.",
     "Retira los tallos de eneldo, vierte la mezcla de yogur en la cazuela y cuece a fuego suave 2 minutos removiendo, hasta que la sopa espese ligeramente.",
-    "Fuera del fuego, añade la mantequilla y las hojas de eneldo picadas (mucho: la sopa debe quedar verde), salpimienta y sirve con un huevo duro partido por la mitad en cada plato."
+    "Fuera del fuego, añade la mantequilla y el eneldo (mucho: la sopa debe quedar verde), salpimienta y sirve con un huevo duro partido por la mitad en cada plato."
   ],
   nutricion: { kcal: 390, prot: 14, hc: 57, grasa: 11 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "para niños", "económica"],
@@ -973,10 +973,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia los hígados de nervios y de restos de grasa verdosa y pícalos muy finos con un cuchillo, o tritúralos unos segundos, hasta tener una pasta con algo de textura.",
     "En un bol, mezcla el hígado con el huevo, la mantequilla derretida, el aceite de ajo, la mejorana frotada entre los dedos, la nuez moscada, media cucharadita de sal, pimienta y el pan rallado. Deja reposar la masa 15 minutos en la nevera: el pan se hidrata y se podrá formar. Si sigue muy blanda, añade una cucharada más de pan rallado.",
-    "Mientras, lleva el caldo a ebullición con la zanahoria en rodajas finas y la chirivía en daditos, y cuécelas 10 minutos a fuego medio.",
+    "Mientras, corta la zanahoria en rodajas finas y la chirivía en daditos, lleva el caldo a ebullición con ellas y cuécelas 10 minutos a fuego medio. Pica el perejil.",
     "Baja el fuego para que el caldo solo tiemble. Con dos cucharillas mojadas en agua fría, forma bolitas del tamaño de una avellana grande y échalas al caldo. Cuécelas 8-10 minutos, hasta que suban a la superficie y estén firmes; abre una para comprobar que no queda rastro rosado.",
     "Añade los fideos de arroz y cuécelos el tiempo que indique el paquete, normalmente 3-4 minutos.",
-    "Prueba de sal, apaga el fuego, añade el perejil picado en abundancia y sirve enseguida."
+    "Prueba de sal, apaga el fuego, añade el perejil en abundancia y sirve enseguida."
   ],
   nutricion: { kcal: 445, prot: 27, hc: 47, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "económica", "invierno"],
@@ -1017,10 +1017,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la ternera en dados de 2 cm y ponla en una cazuela con 1,3 litros de agua fría. Lleva a hervor y retira con una espumadera la espuma gris que sube.",
     "Añade el laurel y la pimienta de Jamaica, tapa dejando una rendija y cuece a fuego suave 60 minutos, hasta que la carne esté tierna.",
-    "Mientras, pela el colinabo con un cuchillo, quitando bien la capa fibrosa de debajo de la piel, y córtalo en bastoncitos. Corta la patata en dados y la zanahoria en rodajas.",
-    "Añade las verduras y la parte verde de la cebolleta picada al caldo, sala y cuece 20 minutos, hasta que el colinabo esté tierno pero entero.",
+    "Mientras, pela el colinabo con un cuchillo, quitando bien la capa fibrosa de debajo de la piel, y córtalo en bastoncitos. Corta la patata en dados y la zanahoria en rodajas, y pica la parte verde de la cebolleta, el eneldo y el perejil.",
+    "Añade las verduras y la cebolleta al caldo, sala y cuece 20 minutos, hasta que el colinabo esté tierno pero entero.",
     "Bate el yogur con la harina de arroz y templa la mezcla con un cazo de caldo caliente. Viértela en la sopa y cuece a fuego suave 2 minutos, removiendo.",
-    "Retira el laurel y la pimienta de Jamaica, añade el eneldo y el perejil picados y pimienta negra, y sirve bien caliente."
+    "Retira el laurel y la pimienta de Jamaica, añade el eneldo, el perejil y pimienta negra, y sirve bien caliente."
   ],
   nutricion: { kcal: 355, prot: 28, hc: 44, grasa: 8 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "alta en proteína"],
@@ -1059,12 +1059,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo con el laurel. Cuando hierva, baja el fuego, añade el pavo entero y escálfalo sin que llegue a borbotear 15 minutos. Sácalo, déjalo reposar y córtalo en dados.",
-    "Añade al caldo la zanahoria en rodajas y el nabo en dados y cuece 10 minutos.",
+    "Calienta el caldo con el laurel. Cuando hierva, baja el fuego, añade el pavo entero y escálfalo sin que llegue a borbotear 15 minutos. Mientras, corta la zanahoria en rodajas y el nabo en dados, y pica el eneldo y el cebollino. Saca el pavo, déjalo reposar y córtalo en dados.",
+    "Añade al caldo la zanahoria y el nabo y cuece 10 minutos.",
     "Mientras, derrite la mantequilla y mézclala en un bol con la harina de trigo sarraceno, el huevo, la leche y una pizca de sal hasta tener una masa espesa que se sostenga en la cuchara. Déjala reposar 5 minutos: el alforfón absorbe líquido.",
     "Con una cucharilla mojada en el caldo, ve echando pequeñas porciones de masa (del tamaño de una avellana) en la sopa que hierva suavemente.",
     "Cuece los klyotski 6-7 minutos, hasta que suban a la superficie y estén firmes por dentro (abre uno para comprobarlo).",
-    "Devuelve el pavo a la cazuela para que se caliente, prueba de sal y termina con el eneldo y el cebollino picados y pimienta."
+    "Devuelve el pavo a la cazuela para que se caliente, prueba de sal y termina con el eneldo, el cebollino y pimienta."
   ],
   nutricion: { kcal: 400, prot: 40, hc: 36, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "de cuchara", "alta en proteína"],
@@ -1104,12 +1104,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica el bacalao a cuchillo hasta que quede como carne picada (o con 3-4 golpes de picadora, sin hacerlo pasta). Mézclalo con el huevo, el pan rallado sin gluten, el cebollino y la mitad del eneldo picados, la ralladura de medio limón, sal y pimienta. Refrigera 10 minutos. Mientras, corta el hinojo en láminas finas, la zanahoria en rodajas y la patata en dados.",
+    "Pica el cebollino y el eneldo y ralla medio limón. Pica el bacalao a cuchillo hasta que quede como carne picada (o con 3-4 golpes de picadora, sin hacerlo pasta). Mézclalo con el huevo, el pan rallado sin gluten, el cebollino, la mitad del eneldo, la ralladura, sal y pimienta. Refrigera 10 minutos. Mientras, corta el hinojo en láminas finas, la zanahoria en rodajas y la patata en dados.",
     "Con las manos mojadas, forma unas 16 albóndigas del tamaño de una nuez.",
-    "En una cazuela con el aceite rehoga el hinojo en láminas finas y la zanahoria en rodajas 4 minutos a fuego medio, sin que tomen color.",
-    "Añade el caldo, el laurel y la patata en dados y cuece 12 minutos, hasta que la patata esté casi tierna.",
+    "En una cazuela con el aceite rehoga el hinojo y la zanahoria 4 minutos a fuego medio, sin que tomen color.",
+    "Añade el caldo, el laurel y la patata y cuece 12 minutos, hasta que la patata esté casi tierna.",
     "Baja el fuego para que el caldo apenas tiemble, añade las albóndigas y cuécelas 6-7 minutos sin remover, hasta que estén blancas y firmes. Si el caldo hierve fuerte, se romperán.",
-    "Termina con el resto del eneldo picado y el zumo de medio limón, prueba de sal y sirve enseguida."
+    "Termina con el resto del eneldo y el zumo de medio limón, prueba de sal y sirve enseguida."
   ],
   nutricion: { kcal: 395, prot: 36, hc: 44, grasa: 8 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "de cuchara", "alta en proteína", "bajo en colesterol", "ligera"],

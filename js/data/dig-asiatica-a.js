@@ -305,12 +305,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una olla con abundante agua. Tuesta el sésamo negro en una sartén seca a fuego medio 2 minutos, hasta que huela y salte. Muélelo en un mortero hasta que esté casi pastoso y mézclalo con el tamari, el vinagre, el azúcar y 3 cucharadas de agua caliente: tendrás una salsa espesa y negra.",
-    "Corta la sepia en tiras de 1 cm, haz unos cortes en rombo en la cara interior para que no se encoja y sécala bien. Corta la zanahoria y el calabacín en bastones finos y el jengibre en hilos.",
+    "Corta la sepia en tiras de 1 cm, haz unos cortes en rombo en la cara interior para que no se encoja y sécala bien. Corta la zanahoria y el calabacín en bastones finos, el jengibre en hilos y la cebolleta en aros finos.",
     "Cuece la soba en el agua hirviendo, sin sal, el tiempo del paquete (4-5 minutos), removiendo al principio. Escúrrela y lávala bajo el grifo frotándola con las manos para quitarle el almidón: así no se apelmaza.",
     "Calienta el wok con la mitad del aceite a fuego medio-alto y saltea la zanahoria y el jengibre 3 minutos; añade el calabacín y 1 cucharada de agua y saltea 2 minutos más, hasta que estén tiernos. Retíralos.",
     "Sube el fuego al máximo, añade el resto del aceite y la sepia con una pizca de sal y saltéala solo 60-90 segundos, hasta que se vuelva blanca y se curve: más tiempo la endurece.",
     "Devuelve las verduras, añade la soba y la salsa de sésamo y mezcla 1 minuto, hasta que todo esté caliente y brillante.",
-    "Sirve enseguida con la cebolleta en aros finos por encima."
+    "Sirve enseguida con la cebolleta por encima."
   ],
   nutricion: { kcal: 520, prot: 37, hc: 62, grasa: 14 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "rápida", "alta en proteína", "poco especiada"],
@@ -351,11 +351,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si usas brochetas de madera, ponlas en remojo mientras cueces el arroz. Pela el jengibre: ralla la mitad y corta la otra mitad en láminas.",
     "Lava el arroz y cuécelo con 210 ml de agua, las láminas de jengibre y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Retira el jengibre antes de servir.",
-    "Corta el rape en dados de 3 cm y la piña y el pimiento en cuadrados de tamaño parecido. Ensarta alternando rape, piña y pimiento, y sala ligeramente.",
+    "Mientras se hace el arroz, corta el rape en dados de 3 cm y la piña y el pimiento en cuadrados de tamaño parecido. Ensarta alternando rape, piña y pimiento, y sala ligeramente. Pica el cebollino.",
     "Prepara la laca: en un cazo, mezcla el tamari, el zumo de la naranja, el azúcar, el jengibre rallado y la maicena. Hierve 1-2 minutos removiendo, hasta que cubra la cuchara.",
     "Calienta la plancha con el aceite a fuego medio-alto. Cocina las brochetas 6-7 minutos, girándolas cada 2 minutos, hasta que el pimiento tenga marcas y el rape esté firme y opaco.",
     "En el último minuto, pinta las brochetas con la laca por todos lados y gíralas para que caramelice sin quemarse.",
-    "Sirve sobre el arroz con el resto de la laca, el sésamo y el cebollino picado."
+    "Sirve sobre el arroz con el resto de la laca, el sésamo y el cebollino."
   ],
   nutricion: { kcal: 530, prot: 35, hc: 80, grasa: 8 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "poco especiada", "bajo en colesterol", "para niños"],
@@ -398,9 +398,9 @@ window.RECETAS_SEED.push({
     "Escalda las espinacas 30 segundos en agua hirviendo, pásalas a agua fría, escúrrelas apretando con las manos y pícalas. Mézclalas con el aceite de ajo y una pizca de sal. Corta la zanahoria en bastones muy finos.",
     "Seca los filetes de lenguado y sálalos. Extiéndelos con la cara donde estaba la piel hacia arriba, reparte encima las espinacas y unos bastones de zanahoria y enróllalos desde el extremo estrecho. Sujétalos con un palillo.",
     "Coloca los rollitos en un plato hondo que quepa en una cesta de vapor sobre una cazuela con agua hirviendo, con el resto de la zanahoria alrededor. Tapa y cuece 8-9 minutos, hasta que el pescado esté blanco y opaco.",
-    "Mientras, ralla el jengibre y bate el tahini con el tamari, el vinagre, el azúcar, el jengibre y 2-3 cucharadas de agua caliente hasta tener una salsa fluida, como nata líquida.",
+    "Mientras, ralla el jengibre y bate el tahini con el tamari, el vinagre, el azúcar, el jengibre y 2-3 cucharadas de agua caliente hasta tener una salsa fluida, como nata líquida. Tuesta el sésamo en una sartén seca 1-2 minutos y pica el cebollino.",
     "Saca el plato con cuidado y quita los palillos. Añade a la salsa 1 cucharada del jugo que ha soltado el pescado: es puro sabor.",
-    "Sirve los rollitos con la salsa por encima, el sésamo tostado y el cebollino picado, junto al arroz."
+    "Sirve los rollitos con la salsa por encima, el sésamo y el cebollino, junto al arroz."
   ],
   nutricion: { kcal: 520, prot: 39, hc: 64, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "poco especiada", "bajo en colesterol", "para niños"],
@@ -531,8 +531,8 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en la cazuela limpia a fuego medio y rehoga el jengibre 1 minuto. Añade la mitad del tomate y el concentrado y cocina 5 minutos aplastando con la cuchara, hasta que se deshaga en una salsa.",
     "Incorpora la ternera, el tamari, el azúcar, el anís y los 600 ml de agua caliente. Cuando hierva, tapa y cuece a fuego muy suave 1 hora y media, hasta que la carne esté casi tierna. En los últimos 10 minutos, pela la patata y la zanahoria y córtalas en trozos grandes.",
     "Añade la patata, la zanahoria y el resto del tomate, y cuece destapado 25 minutos, hasta que la patata esté tierna y la salsa haya espesado.",
-    "Mientras, lava el arroz y cuécelo con 150 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Retira el anís, rectifica de sal y sirve el guiso con la cebolleta picada por encima y el arroz al lado."
+    "Mientras, lava el arroz y cuécelo con 150 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Pica la cebolleta.",
+    "Retira el anís, rectifica de sal y sirve el guiso con la cebolleta por encima y el arroz al lado."
   ],
   nutricion: { kcal: 600, prot: 39, hc: 78, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "de cuchara", "batch cooking", "invierno", "para niños"],
@@ -617,13 +617,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el cordero en lonchas de medio centímetro, retirando la grasa visible. Mezcla el tamari con el zumo de media naranja, el jengibre rallado, el azúcar y el aceite de ajo. Marina la carne con la mitad de esta salsa 15 minutos y reserva la otra mitad para mojar.",
-    "Lava el arroz japonés y cuécelo con 150 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Corta la calabaza con piel en medias lunas de 5 mm, el pimiento en tiras y la col en cuadrados de 4 cm. Lava los brotes de soja.",
+    "Corta el cordero en lonchas de medio centímetro, retirando la grasa visible. Ralla el jengibre y mézclalo con el tamari, el zumo de media naranja, el azúcar y el aceite de ajo. Marina la carne con la mitad de esta salsa 15 minutos y reserva la otra mitad para mojar.",
+    "Mientras se marina, lava el arroz japonés y cuécelo con 150 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
+    "Corta la calabaza con piel en medias lunas de 5 mm, el pimiento en tiras y la col en cuadrados de 4 cm. Lava los brotes de soja. Tuesta el sésamo en una sartén seca 1-2 minutos.",
     "Calienta una plancha o sartén grande con el aceite de girasol a fuego medio. Pon la calabaza y cocínala 3 minutos por lado, tapada si hace falta, hasta que esté tierna.",
     "Añade la col y el pimiento y cocínalos 4 minutos; después los brotes, 2 minutos, para que queden aún crujientes. Sala ligeramente y empuja las verduras hacia los bordes.",
     "Sube el fuego, escurre el cordero y márcalo en el centro de la plancha 1 minuto por cada lado, hasta que esté dorado por fuera y rosado dentro. Mezcla un momento con las verduras para que se impregnen de su jugo, como en Hokkaido.",
-    "Tuesta el sésamo, añádelo a la salsa reservada con el resto del zumo de naranja y sirve el cordero y las verduras con el arroz y la salsa en cuencos individuales para mojar."
+    "Añade el sésamo a la salsa reservada con el resto del zumo de naranja y sirve el cordero y las verduras con el arroz y la salsa en cuencos individuales para mojar."
   ],
   nutricion: { kcal: 595, prot: 40, hc: 71, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "para invitados"],
@@ -664,12 +664,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Sala el conejo y sécalo con papel. Calienta el aceite en una cazuela a fuego medio-alto y dora los trozos por tandas 6-8 minutos, hasta que estén bien dorados por todas partes. Retíralos.",
-    "Pela el daikon y las zanahorias y córtalos en trozos de 3 cm con los bordes biselados, para que no se deshagan. Corta el jengibre en láminas. Saca la piel de media naranja en tiras, sin la parte blanca, y exprime la naranja entera.",
+    "Corta el jengibre en láminas. Saca la piel de media naranja en tiras, sin la parte blanca, y exprime la naranja entera.",
     "Retira la grasa sobrante de la cazuela dejando una cucharadita, añade el azúcar y deja que se funda 30 segundos. Incorpora el jengibre, el anís, la canela y la piel de naranja y remueve 30 segundos más.",
-    "Devuelve el conejo y vierte el tamari, el zumo de naranja y el agua. Lleva a ebullición, tapa y cuece a fuego suave 25 minutos.",
+    "Devuelve el conejo y vierte el tamari, el zumo de naranja y el agua. Lleva a ebullición, tapa y cuece a fuego suave 25 minutos. Mientras, pela el daikon y las zanahorias y córtalos en trozos de 3 cm con los bordes biselados, para que no se deshagan.",
     "Añade el daikon y la zanahoria, tapa de nuevo y cuece 25 minutos más, hasta que el daikon esté translúcido y tierno.",
-    "Mientras, lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Destapa la cazuela los últimos 5 minutos y sube el fuego para reducir la salsa hasta que esté brillante y nape la carne. Retira las especias enteras y la piel de naranja y sirve con la cebolleta picada y el arroz."
+    "Mientras, lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Pica la cebolleta.",
+    "Destapa la cazuela los últimos 5 minutos y sube el fuego para reducir la salsa hasta que esté brillante y nape la carne. Retira las especias enteras y la piel de naranja y sirve con la cebolleta y el arroz."
   ],
   nutricion: { kcal: 555, prot: 43, hc: 67, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "poco especiada", "bajo en colesterol", "batch cooking", "invierno"],
@@ -707,9 +707,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Despunta las judías y corta la zanahoria en bastones del mismo largo y grosor. Cuécelas juntas en agua con sal 5 minutos, hasta que estén tiernas pero firmes. Escúrrelas y sécalas.",
+    "Mientras, despunta las judías y corta la zanahoria en bastones del mismo largo y grosor. Cuécelas juntas en agua con sal 5 minutos, hasta que estén tiernas pero firmes. Escúrrelas y sécalas.",
     "Aplana los filetes de pavo entre dos papeles de horno hasta dejarlos de 3 mm. Sálalos ligeramente, pon un manojito de judías y zanahoria en un extremo y enrolla apretando. Espolvorea los rollitos con la maicena.",
-    "Mezcla el tamari, el azúcar, el jengibre rallado y 3 cucharadas de agua.",
+    "Ralla el jengibre y mézclalo con el tamari, el azúcar y 3 cucharadas de agua.",
     "Calienta el aceite en una sartén a fuego medio y coloca los rollitos con el cierre hacia abajo: así se sellan sin palillo. Dóralos 6-7 minutos girándolos, hasta que estén dorados por todos lados.",
     "Vierte la salsa, tapa y cuece a fuego suave 3 minutos. Destapa y gíralos 1-2 minutos, hasta que la salsa se reduzca y los deje glaseados.",
     "Córtalos en rodajas de 3 cm en diagonal y sírvelos sobre el arroz con la salsa y el sésamo por encima."
@@ -750,11 +750,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Abre las codornices en libro: con unas tijeras de cocina corta a lo largo de la columna, ábrelas y aplánalas con la palma de la mano. Sécalas muy bien y sálalas ligeramente.",
-    "En un cazo, calienta el tamari, el sirope, el anís y la mitad del jengibre en láminas 2 minutos a fuego suave para que se infusione. Deja templar, pinta las codornices por ambos lados y déjalas 15 minutos.",
-    "Mientras reposan, precalienta el horno a 220 °C. Lava el arroz y cuécelo con 210 ml de agua, el resto del jengibre en láminas y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
+    "Corta todo el jengibre en láminas. En un cazo, calienta el tamari, el sirope, el anís y la mitad del jengibre 2 minutos a fuego suave para que se infusione. Deja templar, pinta las codornices por ambos lados y déjalas 15 minutos.",
+    "Mientras reposan, precalienta el horno a 220 °C. Lava el arroz y cuécelo con 210 ml de agua, el resto del jengibre y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Coloca las codornices con la piel hacia arriba en una bandeja con papel untado con el aceite. Ásalas 15-18 minutos, pintándolas con la laca cada 5 minutos, hasta que la piel esté caoba y brillante y al pinchar el muslo salga un jugo claro.",
-    "Mientras, corta el pak choi en cuartos y saltéalo en una sartén con el aceite de ajo, sal y 2 cucharadas de agua 3-4 minutos, hasta que esté tierno.",
-    "Deja reposar las codornices 3 minutos. Sirve con el arroz (sin el jengibre), el pak choi, la cebolleta picada y el jugo de la bandeja por encima."
+    "Mientras, corta el pak choi en cuartos y saltéalo en una sartén con el aceite de ajo, sal y 2 cucharadas de agua 3-4 minutos, hasta que esté tierno. Pica la cebolleta.",
+    "Deja reposar las codornices 3 minutos. Sirve con el arroz (sin el jengibre), el pak choi, la cebolleta y el jugo de la bandeja por encima."
   ],
   nutricion: { kcal: 630, prot: 38, hc: 70, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "al horno", "alta en proteína", "poco especiada", "para invitados"],
@@ -839,8 +839,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Remoja los fideos de arroz en agua templada 15 minutos.",
-    "Prepara el relleno: mezcla el cerdo con el jengibre rallado, la cebolleta muy picada, 1 cucharadita de tamari, el aceite de sésamo, 2 cucharadas de agua y una pizca de sal y pimienta blanca. Amasa hasta que esté pegajoso.",
+    "Remoja los fideos de arroz en agua templada 15 minutos. Mientras, ralla el jengibre y pica muy fina la cebolleta.",
+    "Prepara el relleno: mezcla el cerdo con el jengibre, la cebolleta, 1 cucharadita de tamari, el aceite de sésamo, 2 cucharadas de agua y una pizca de sal y pimienta blanca. Amasa hasta que esté pegajoso.",
     "Bate los huevos con la fécula disuelta en 1 cucharada de agua y una pizca de sal: la fécula hace las láminas de tortilla más elásticas.",
     "Calienta a fuego bajo una sartén pequeña antiadherente y úntala con un papel mojado en el aceite. Vierte 1 cucharada de huevo y mueve la sartén para formar un círculo de 8 cm. Con la superficie aún húmeda, pon 1 cucharadita de relleno en un lado, dobla la otra mitad encima y presiona el borde con la espátula: el huevo crudo lo sella. Repite hasta terminar (salen 12-14).",
     "Corta la col china en trozos de 4 cm, separando pencas y hojas. Pon las pencas en una cazuela con el agua, el resto del tamari y una pizca de sal y cuécelas 5 minutos.",
@@ -978,12 +978,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Haz un dashi rápido: pon el kombu en el agua fría 10 minutos, calienta y retíralo justo antes de que hierva. Añade el bonito, apaga el fuego, espera 2 minutos y cuela.",
+    "Haz un dashi rápido: pon el kombu en el agua fría 10 minutos (mientras, ralla el jengibre, pica la cebolleta y corta el pak choi en cuartos a lo largo), calienta y retíralo justo antes de que hierva. Añade el bonito, apaga el fuego, espera 2 minutos y cuela.",
     "Mientras, lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Escalda los tomates 30 segundos, pélalos y trocéalos. Calienta el aceite de ajo en una sartén honda a fuego medio y rehoga el jengibre rallado 30 segundos; añade el tomate y cocina 8 minutos aplastándolo, hasta que se deshaga.",
-    "Vierte 150 ml de dashi, el tamari y el azúcar y cuece 5 minutos más, hasta tener una salsa ligera. Añade el pak choi cortado en cuartos a lo largo y cuece 3 minutos.",
+    "Escalda los tomates 30 segundos, pélalos y trocéalos. Calienta el aceite de ajo en una sartén honda a fuego medio y rehoga el jengibre 30 segundos; añade el tomate y cocina 8 minutos aplastándolo, hasta que se deshaga.",
+    "Vierte 150 ml de dashi, el tamari y el azúcar y cuece 5 minutos más, hasta tener una salsa ligera. Añade el pak choi y cuece 3 minutos.",
     "Haz cuatro huecos en la salsa, casca un huevo en cada uno y sálalos ligeramente. Tapa y cuece a fuego suave 5-6 minutos, hasta que las claras estén cuajadas por completo y la yema a tu gusto.",
-    "Esparce la cebolleta picada y sirve con el arroz espolvoreado con el sésamo tostado, para mojar en la salsa."
+    "Esparce la cebolleta y sirve con el arroz espolvoreado con el sésamo tostado, para mojar en la salsa."
   ],
   nutricion: { kcal: 535, prot: 22, hc: 69, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "una sola sartén", "económica"],
@@ -1020,12 +1020,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Lava la calabaza, quítale las semillas y córtala con piel en dados de 1,5 cm. Cuécela al vapor en una cesta sobre una cazuela con agua hirviendo 8-10 minutos, hasta que esté tierna pero entera.",
+    "Precalienta el horno a 180 °C. Lava la calabaza, quítale las semillas y córtala con piel en dados de 1,5 cm. Cuécela al vapor en una cesta sobre una cazuela con agua hirviendo 8-10 minutos, hasta que esté tierna pero entera. Mientras, pica la cebolleta.",
     "Saltea las espinacas en una sartén con 1 cucharadita de aceite 1 minuto, hasta que se ablanden. Escúrrelas apretando y pícalas.",
-    "Bate los huevos con 4 cucharadas de agua, 1 cucharadita de tamari, sal y la cebolleta picada. El agua hace la tortilla más tierna, como un dashimaki.",
+    "Bate los huevos con 4 cucharadas de agua, 1 cucharadita de tamari, sal y la cebolleta. El agua hace la tortilla más tierna, como un dashimaki.",
     "Forra con papel un molde de unos 20 × 20 cm y úntalo con el resto del aceite. Reparte la calabaza y las espinacas, vierte el huevo por encima y espolvorea el sésamo.",
     "Hornea 18-20 minutos, hasta que el centro esté cuajado y no tiemble al mover el molde y la superficie apenas se dore.",
-    "Mientras, mezcla el zumo de la naranja con el resto del tamari, el vinagre y el jengibre rallado.",
+    "Mientras, ralla el jengibre y mézclalo con el zumo de la naranja, el resto del tamari y el vinagre.",
     "Deja templar la tortilla 5 minutos, córtala en cuadrados y sírvela con la salsa para mojar."
   ],
   nutricion: { kcal: 350, prot: 21, hc: 18, grasa: 21 },
@@ -1064,11 +1064,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en papel de cocina, ponle un plato con peso encima y déjalo escurrir 15 minutos. Mientras, lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Mezcla el miso con 1 cucharada de azúcar y 1 cucharada de agua en un cazo y calienta a fuego suave 2 minutos, removiendo, hasta que brille como una crema espesa. Fuera del fuego, añade la ralladura de media lima.",
+    "Mezcla el miso con 1 cucharada de azúcar y 1 cucharada de agua en un cazo y calienta a fuego suave 2 minutos, removiendo, hasta que brille como una crema espesa. Ralla la piel de la lima y, fuera del fuego, añade la mitad al miso.",
     "Para la kinpira, corta las zanahorias en bastones finos como cerillas. Saltéalas con el aceite de sésamo a fuego medio 3 minutos; añade el tamari, 1 cucharadita de azúcar y 2 cucharadas de agua y cocina 3-4 minutos más, hasta que estén tiernas y glaseadas. Termina con la mitad del sésamo.",
     "Enciende el grill del horno. Corta el tofu en 6 rectángulos de 2 cm de grosor y dóralos en una sartén antiadherente con el aceite de girasol a fuego medio, 3 minutos por lado.",
     "Pasa el tofu a una bandeja, unta la cara superior con el miso y gratínalo a unos 10 cm del grill 3-4 minutos, hasta que haga burbujas y se tueste por los bordes. Vigílalo: el azúcar se quema en segundos.",
-    "Espolvorea con el resto del sésamo y un poco más de ralladura de lima, y sirve con el arroz y la kinpira."
+    "Espolvorea con el resto del sésamo y de la ralladura de lima, y sirve con el arroz y la kinpira."
   ],
   nutricion: { kcal: 585, prot: 32, hc: 74, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "ideal para llevar"],
@@ -1107,11 +1107,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Corta el tempeh en 4 láminas de 1 cm a lo largo y cuécelo al vapor en una cesta sobre agua hirviendo 10 minutos: se ablanda, pierde el amargor y absorbe mejor la laca. En Tokio la anguila también se cuece al vapor antes de asarla.",
-    "Mientras, prepara la tare: hierve en un cazo el tamari, el azúcar moreno y 3 cucharadas de agua 2-3 minutos, hasta que espese como un jarabe ligero.",
+    "Mientras, prepara la tare: hierve en un cazo el tamari, el azúcar moreno y 3 cucharadas de agua 2-3 minutos, hasta que espese como un jarabe ligero. Corta la nori en tiras con unas tijeras.",
     "Corta el pepino en rodajas finas, sálalo, déjalo 5 minutos, escúrrelo apretando y alíñalo con el vinagre y el azúcar blanco.",
     "Calienta el aceite en una sartén a fuego medio y dora el tempeh 3 minutos por lado, hasta que esté tostado por los bordes.",
     "Pinta el tempeh con la tare, dale la vuelta y repite tres veces, con 30 segundos entre capa y capa, hasta que quede oscuro y brillante.",
-    "Reparte el arroz en dos cuencos, rocíalo con una cucharada de tare, coloca el tempeh encima con el resto de la salsa y termina con el sésamo y la nori en tiras. Acompaña con el pepino."
+    "Reparte el arroz en dos cuencos, rocíalo con una cucharada de tare, coloca el tempeh encima con el resto de la salsa y termina con el sésamo y la nori. Acompaña con el pepino."
   ],
   nutricion: { kcal: 605, prot: 27, hc: 82, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "ideal para llevar"],

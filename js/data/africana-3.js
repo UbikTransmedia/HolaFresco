@@ -86,9 +86,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva, pásalos a agua fría y pélalos.",
     "Mientras se cuecen, prepara el aliño: bate la mayonesa con el vinagre, la mostaza, el azúcar, la leche, sal y pimienta hasta que quede una crema fluida que caiga en hilo, entre dulce y ácida.",
-    "Corta la lechuga en tiras anchas y la col en juliana muy fina. Ralla la zanahoria, corta el pepino en rodajas finas, el tomate en gajos y la cebolla en aros.",
+    "Corta la lechuga en tiras anchas y la col en juliana muy fina. Ralla la zanahoria, corta el pepino en rodajas finas, el tomate en gajos y la cebolla en aros. Corta los huevos en rodajas y las sardinas en trozos grandes.",
     "Cubre el fondo de una fuente con la lechuga y la col mezcladas. Reparte encima la zanahoria, el pepino, el tomate y la cebolla en zonas, como se hace en Ghana.",
-    "Pon las alubias en montoncitos con un poco de su salsa, las sardinas en trozos grandes y los huevos en rodajas.",
+    "Pon las alubias en montoncitos con un poco de su salsa, las sardinas y los huevos.",
     "Riega con el aliño en hilo justo antes de servir y lleva el resto a la mesa en un cuenco."
   ],
   nutricion: { kcal: 580, prot: 37, hc: 29, grasa: 36 },
@@ -174,8 +174,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Ralla el jengibre y el ajo y mézclalos con el zumo de 1 lima, la cúrcuma, el curry y sal. Corta el pollo en dados de 3 cm, embadúrnalo con la marinada y déjalo 15 minutos mientras haces el resto.",
     "Lava el arroz hasta que el agua salga clara y cuécelo con 180 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Apaga y deja reposar tapado 5 minutos.",
-    "Corta la piña en dados, el pepino en medias lunas y la cebolla en plumas finas.",
-    "Bate la leche de coco con el zumo de la otra lima, el chile picado muy fino y una pizca de sal: es el aliño. Pica el cilantro.",
+    "Mientras se cuece el arroz, corta la piña en dados, el pepino en medias lunas y la cebolla en plumas finas.",
+    "Pica muy fino el chile y bátelo con la leche de coco, el zumo de la otra lima y una pizca de sal: es el aliño. Pica el cilantro.",
     "Ensarta el pollo en brochetas y ásalo en la plancha muy caliente con el aceite 8-10 minutos, girando, hasta que esté dorado con puntos tostados y sin rosa en el centro.",
     "Monta los boles: canónigos y arroz templado en la base, encima la piña, el pepino y la cebolla, las brochetas, el aliño de coco y el cilantro."
   ],
@@ -267,8 +267,8 @@ window.RECETAS_SEED.push({
     "Calienta 3 cucharadas de aceite en una sartén a fuego medio-alto y dora el pescado 3 minutos por lado, hasta que esté dorado y apenas hecho en el centro. Pásalo a una fuente honda.",
     "En la misma sartén, con el resto del aceite, rehoga la cebolla 5 minutos a fuego medio: debe quedar blanda pero con algo de cuerpo, sin dorarse.",
     "Añade el curry y la cúrcuma, remueve 30 segundos y vierte el vinagre, 60 ml de agua, el azúcar, el laurel, la pimienta de jamaica y sal. Hierve 3 minutos: el escabeche debe quedar amarillo intenso y agridulce.",
-    "Coloca las patatas junto al pescado y vierte por encima la cebolla con su escabeche caliente, cubriéndolo todo. Deja que se impregne al menos 20 minutos.",
-    "Sirve templado sobre la lechuga cortada en tiras, con el pescado, la patata y la cebolla y unas cucharadas del escabeche como aliño."
+    "Coloca las patatas junto al pescado y vierte por encima la cebolla con su escabeche caliente, cubriéndolo todo. Deja que se impregne al menos 20 minutos; mientras, corta la lechuga en tiras.",
+    "Sirve templado sobre la lechuga, con el pescado, la patata y la cebolla y unas cucharadas del escabeche como aliño."
   ],
   nutricion: { kcal: 540, prot: 37, hc: 61, grasa: 16 },
   etiquetas: ["creativa", "alta en proteína", "batch cooking", "ideal para llevar", "bajo en colesterol"],
@@ -354,8 +354,8 @@ window.RECETAS_SEED.push({
     "Calienta 2 cucharadas de aceite en una sartén a fuego medio y rehoga la cebolla y la parte blanca de la cebolleta 4 minutos, hasta que estén translúcidas pero aún firmes. Añade el ajo y rehoga 1 minuto más.",
     "Sube el fuego, añade el pulpo y saltéalo 2-3 minutos, hasta que los bordes empiecen a dorarse.",
     "Fuera del fuego, añade el vinagre, el chile, la parte verde de la cebolleta, el cilantro, el zumo de la lima, el resto del aceite, sal y pimienta. Mezcla bien.",
-    "Deja reposar 10 minutos para que el pulpo absorba el aliño; se come templado o frío.",
-    "Sirve con el tomate en gajos y el pan, para mojar en el jugo picante del fondo."
+    "Deja reposar 10 minutos para que el pulpo absorba el aliño; se come templado o frío. Mientras, corta el tomate en gajos.",
+    "Sirve con el tomate y el pan, para mojar en el jugo picante del fondo."
   ],
   nutricion: { kcal: 575, prot: 42, hc: 47, grasa: 24 },
   etiquetas: ["tradicional", "rápida", "sin lácteos", "alta en proteína", "verano", "picante"],
@@ -570,13 +570,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la ternera en dados de 2 cm y cuécela en 700 ml de agua con sal, 2 ajos y la mitad del jengibre machacados, tapada y a fuego suave, 60 minutos, hasta que esté tierna. Cuela y guarda el caldo: necesitarás unos 330 ml.",
+    "Corta la ternera en dados de 2 cm. Machaca 2 dientes de ajo y la mitad del jengibre y cuécelos con la ternera en 700 ml de agua con sal, tapada y a fuego suave, 60 minutos, hasta que esté tierna. Cuela y guarda el caldo: necesitarás unos 330 ml.",
     "Mientras, lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Corta la cebolla en juliana, pica el resto del ajo y del jengibre, pela la patata y córtala en dados de 2 cm y ralla el tomate.",
-    "Tuesta en seco el comino, el cardamomo, el clavo, la canela y la pimienta 1-2 minutos, hasta que huelan. Abre las vainas de cardamomo y muele sus semillas con el comino y la pimienta en el mortero; deja enteros el clavo y la canela.",
+    "Mientras sigue la ternera, tuesta en seco el comino, el cardamomo, el clavo, la canela y la pimienta 1-2 minutos, hasta que huelan. Abre las vainas de cardamomo y muele sus semillas con el comino y la pimienta en el mortero; deja enteros el clavo y la canela.",
     "En la cazuela, calienta el aceite y fríe la cebolla en juliana a fuego medio 15 minutos, removiendo, hasta que esté marrón oscuro sin quemarse: ese tostado es el que da al pilau su color.",
     "Añade el ajo, el jengibre y todas las especias, 1 minuto. Incorpora la ternera escurrida y la patata y rehoga 3 minutos; añade el tomate y cocina 2 minutos más.",
     "Agrega el arroz escurrido, remueve 1 minuto para que se impregne y vierte el caldo caliente. Prueba de sal, lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos.",
-    "Apaga y deja reposar tapado 10 minutos. Suelta el arroz con un tenedor y sírvelo con gajos de lima y cilantro."
+    "Apaga y deja reposar tapado 10 minutos; mientras, corta la lima en gajos y deshoja el cilantro. Suelta el arroz con un tenedor y sírvelo con los gajos de lima y el cilantro."
   ],
   nutricion: { kcal: 780, prot: 40, hc: 84, grasa: 31 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "batch cooking", "invierno", "poco especiada"],
@@ -977,11 +977,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela el pepino a tiras, dejando parte de la piel, y aparta un trozo de 4 cm para el kachumbari. Trocea el resto.",
+    "Pela el pepino a tiras, dejando parte de la piel, y aparta un trozo de 4 cm para el kachumbari. Trocea el resto. Abre los aguacates, quita el hueso y saca la pulpa con una cuchara; pela el jengibre y el ajo.",
     "Tritura la pulpa de los aguacates con el pepino troceado, el jengibre, el ajo, medio chile sin semillas, el cilantro (guarda unas hojas), el zumo de una lima, el agua fría y sal durante 1-2 minutos, hasta tener una crema lisa y sedosa. Si queda espesa, añade agua a cucharadas: debe caer de la cuchara como unas natillas. Métela 10 minutos en el congelador mientras haces el resto.",
-    "Para el kachumbari, corta el tomate y el pepino reservado en dados de medio centímetro, pica muy fina la cebolla morada y el resto del chile y mézclalo todo con el zumo de media lima, las hojas de cilantro picadas y una pizca de sal.",
+    "Para el kachumbari, corta el tomate y el pepino reservado en dados de medio centímetro, pica muy fina la cebolla morada, el resto del chile y las hojas de cilantro reservadas y mézclalo todo con el zumo de media lima y una pizca de sal.",
     "Pica los cacahuetes groseramente.",
-    "Corta los panes de pita en triángulos y tuéstalos en una sartén seca 1-2 minutos por lado, hasta que estén crujientes.",
+    "Corta los panes de pita en triángulos y tuéstalos en una sartén seca 1-2 minutos por lado, hasta que estén crujientes. Corta la otra media lima en gajos.",
     "Reparte la crema en cuencos, pon en el centro una cucharada generosa de kachumbari, esparce los cacahuetes y riega con el aceite. Sirve con la pita y la otra media lima en gajos."
   ],
   nutricion: { kcal: 600, prot: 14, hc: 56, grasa: 37 },
@@ -1025,12 +1025,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y ponlas en una cazuela con agua fría, sal y los huevos. Cuando hierva, cuenta 10 minutos, saca los huevos a un bol con agua fría y deja las patatas 2-3 minutos más, hasta que estén tiernas. Escúrrelas y pela los huevos.",
-    "Mientras, pela el mango y corta la pulpa en dados pequeños. Machaca en el mortero el ajo, el jengibre y un chile con una pizca de sal. En otra cazuela, lleva a ebullición 800 ml de agua con el majado, la cúrcuma, el mango y el tamarindo y cuece 10 minutos, hasta que el mango se ablande.",
+    "Mientras, pela el mango y corta la pulpa en dados pequeños. Machaca en el mortero el ajo, el jengibre y un chile con una pizca de sal. En otra cazuela, lleva a ebullición 800 ml de agua con el majado, la cúrcuma, el mango y el tamarindo y cuece 10 minutos, hasta que el mango se ablande. Mientras cuece, corta la cebolla en juliana muy fina y pica el otro chile y el cilantro.",
     "Deslíe 20 g de la harina de garbanzo en el resto del agua fría y viértela en la cazuela batiendo con unas varillas. Cuece 5 minutos a fuego suave, removiendo, hasta que la sopa espese como unas natillas ligeras y tome un amarillo intenso. Añade el zumo de una lima y sal: tiene que quedar claramente ácida y picante.",
-    "Para las bhajias, mezcla el resto de la harina de garbanzo con la cebolla cortada en juliana muy fina, el otro chile picado, la mitad del cilantro picado, sal y 4-5 cucharadas de agua, hasta tener una masa espesa que envuelva la cebolla.",
+    "Para las bhajias, mezcla el resto de la harina de garbanzo con la cebolla, el chile, la mitad del cilantro, sal y 4-5 cucharadas de agua, hasta tener una masa espesa que envuelva la cebolla.",
     "Calienta el aceite en una sartén pequeña (1 cm de altura) a fuego medio-alto y fríe cucharadas de masa 2 minutos por cada lado, hasta que estén doradas y crujientes. Escúrrelas sobre papel.",
-    "Mezcla el coco rallado con el zumo de media lima, 2 cucharadas de agua caliente, una pizca de sal y unas hojas de cilantro picadas: es el chutney de coco.",
-    "Reparte en cuencos hondos las patatas, los huevos en cuartos y las bhajias partidas, vierte encima la sopa muy caliente y termina con el chutney de coco, el resto del cilantro y la otra media lima en gajos."
+    "Mezcla el coco rallado con el zumo de media lima, 2 cucharadas de agua caliente, una pizca de sal y un poco del cilantro: es el chutney de coco. Corta la otra media lima en gajos.",
+    "Reparte en cuencos hondos las patatas, los huevos en cuartos y las bhajias partidas, vierte encima la sopa muy caliente y termina con el chutney de coco, el resto del cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 710, prot: 26, hc: 80, grasa: 32 },
   etiquetas: ["tradicional", "vegetariana", "sin gluten", "picante", "frito"],

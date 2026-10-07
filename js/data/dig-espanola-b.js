@@ -207,8 +207,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 190 °C. Corta una tapa a cada tomate y vacíalos con una cucharilla sin romper la pared. Sala el interior y ponlos boca abajo sobre una rejilla mientras preparas el relleno.",
     "Tritura la pulpa y las semillas de los tomates y cuélala: necesitas unos 250 ml de líquido. Ponlo en un cazo con el azafrán y una pizca de sal y llévalo a ebullición.",
     "Añade el arroz y cuece a fuego suave 12 minutos, removiendo de vez en cuando, hasta que absorba casi todo el líquido y quede al dente: terminará de hacerse dentro del tomate.",
-    "Mientras, tuesta los piñones en una sartén sin aceite 2-3 minutos. Saltea las espinacas picadas en la misma sartén con la mitad del aceite de ajo 1 minuto, hasta que se ablanden.",
-    "Mezcla el arroz con las espinacas, los piñones y la hierbabuena picada. Prueba y ajusta de sal y pimienta.",
+    "Mientras, pica las espinacas y la hierbabuena y corta el manchego en lascas. Tuesta los piñones en una sartén sin aceite 2-3 minutos. Saltea las espinacas en la misma sartén con la mitad del aceite de ajo 1 minuto, hasta que se ablanden.",
+    "Mezcla el arroz con las espinacas, los piñones y la hierbabuena. Prueba y ajusta de sal y pimienta.",
     "Rellena los tomates sin apretar, ponles su tapa, colócalos en una fuente pequeña y riégalos con el resto del aceite de ajo. Hornea 25 minutos, hasta que la piel se arrugue y los tomates estén tiernos pero sin abrirse.",
     "Retira las tapas, pon lascas de manchego sobre el arroz y hornea 3 minutos más, hasta que el queso se ablande. Sirve con el jugo de la fuente por encima."
   ],
@@ -290,9 +290,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las papas y cuécelas enteras, con piel, en agua con sal 18-20 minutos, hasta que se dejen atravesar con un palillo. Escúrrelas y déjalas en la olla caliente destapada 2 minutos para que la piel se seque.",
-    "Mientras, corta el tempeh en 4 filetes y cuécelo al vapor o en agua hirviendo 10 minutos: le quita el punto amargo y lo vuelve más tierno. Escúrrelo y sécalo con papel.",
-    "Haz el mojo: tuesta el comino en una sartén sin aceite 30 segundos, hasta que huela. Tritúralo con el pimiento rojo troceado, la carne de choricero, el pimentón, el vinagre, el aceite de ajo, el agua y una pizca de sal hasta tener una salsa espesa, roja y brillante.",
-    "Corta el calabacín en rodajas al bies de 1 cm. Calienta la plancha a fuego fuerte, píntala con la mitad del aceite de oliva y marca el calabacín 2 minutos por cada lado, hasta que tenga las rayas doradas. Sálalo y resérvalo.",
+    "Mientras, corta el tempeh en 4 filetes y cuécelo al vapor o en agua hirviendo 10 minutos: le quita el punto amargo y lo vuelve más tierno. Mientras cuece, trocea el pimiento rojo y corta el calabacín en rodajas al bies de 1 cm. Escurre el tempeh y sécalo con papel.",
+    "Haz el mojo: tuesta el comino en una sartén sin aceite 30 segundos, hasta que huela. Tritúralo con el pimiento rojo, la carne de choricero, el pimentón, el vinagre, el aceite de ajo, el agua y una pizca de sal hasta tener una salsa espesa, roja y brillante.",
+    "Calienta la plancha a fuego fuerte, píntala con la mitad del aceite de oliva y marca el calabacín 2 minutos por cada lado, hasta que tenga las rayas doradas. Sálalo y resérvalo.",
     "Pinta la plancha con el resto del aceite y marca los filetes de tempeh 2-3 minutos por lado, hasta que estén bien tostados.",
     "Pinta el tempeh caliente con una cucharada de mojo para que lo absorba. Sirve con las papas partidas por la mitad, el calabacín y el resto del mojo para mojar."
   ],
@@ -419,9 +419,9 @@ window.RECETAS_SEED.push({
     "Abre las pechugas en filetes de 1 cm de grosor y sazónalas con sal, una vuelta de pimienta y la ralladura del medio limón.",
     "Calienta la plancha a fuego medio-alto, píntala con unas gotas del aceite y haz los filetes 2-3 minutos por cada lado, sin moverlos, hasta que estén dorados y jugosos por dentro. Déjalos reposar 3 minutos y córtalos en tiras.",
     "Mientras, tuesta las nueces en una sartén sin aceite 2 minutos y trocéalas con las manos. Corta el manchego en lascas finas con un pelador.",
-    "Lava las fresas, quítales el rabito y córtalas en cuartos. Pela el pepino, quítale las semillas con una cucharilla y córtalo en medias lunas finas.",
+    "Lava las fresas, quítales el rabito y córtalas en cuartos. Pela el pepino, quítale las semillas con una cucharilla y córtalo en medias lunas finas. Pica el cebollino.",
     "Para la vinagreta, aplasta con un tenedor 2 trozos de fresa en un bol y bátelos con el vinagre, el zumo del medio limón, el resto del aceite, sal y pimienta.",
-    "Monta los platos con las espinacas, el pepino, las fresas y el pollo templado; termina con las nueces, el manchego, el cebollino picado y la vinagreta."
+    "Monta los platos con las espinacas, el pepino, las fresas y el pollo templado; termina con las nueces, el manchego, el cebollino y la vinagreta."
   ],
   nutricion: { kcal: 390, prot: 37, hc: 11, grasa: 22 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "superalimentos", "sin gluten", "rápida", "alta en proteína", "verano"],
@@ -459,11 +459,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las zanahorias y córtalas en bastones al bies. Mézclalas en una bandeja con la mitad del aceite, el comino y sal, y asa 25 minutos, hasta que estén tiernas y caramelizadas en los bordes.",
-    "Lava la quinoa en un colador bajo el grifo hasta que el agua salga sin espuma. Cuécela en el triple de agua con sal 12 minutos, escúrrela y extiéndela en un plato para que se temple.",
+    "Mientras se asan, lava la quinoa en un colador bajo el grifo hasta que el agua salga sin espuma. Cuécela en el triple de agua con sal 12 minutos, escúrrela y extiéndela en un plato para que se temple.",
     "Pela la naranja a vivo con un cuchillo, quitando toda la piel blanca, y saca los gajos. Exprime lo que queda de la naranja en un bol.",
     "Haz la vinagreta en ese bol: el zumo de naranja, el vinagre, el resto del aceite y una pizca de sal, batido con un tenedor.",
-    "Tuesta las nueces en una sartén sin aceite 2 minutos y trocéalas con las manos. Corta el queso en lascas finas con un pelador.",
-    "Mezcla la quinoa tibia con la mitad de la vinagreta. Monta los platos con la rúcula, la quinoa, las zanahorias asadas y los gajos de naranja; termina con las nueces, el queso, el cebollino picado y el resto de la vinagreta."
+    "Tuesta las nueces en una sartén sin aceite 2 minutos y trocéalas con las manos. Corta el queso en lascas finas con un pelador y pica el cebollino.",
+    "Mezcla la quinoa tibia con la mitad de la vinagreta. Monta los platos con la rúcula, la quinoa, las zanahorias asadas y los gajos de naranja; termina con las nueces, el queso, el cebollino y el resto de la vinagreta."
   ],
   nutricion: { kcal: 485, prot: 17, hc: 52, grasa: 23 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "al horno", "sin gluten", "ideal para llevar"],
@@ -500,10 +500,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 18-20 minutos, hasta que se dejen atravesar con un cuchillo.",
     "Mientras, prepara la vinagreta: tuesta el azafrán 10 segundos en una cuchara al calor del fuego, desmenúzalo en un bol con 1 cucharada de agua caliente y déjalo 5 minutos para que suelte el color. Añade el vinagre, 1,5 cucharadas de aceite, el zumo de media naranja y sal, y bate.",
-    "Pela la otra media naranja a vivo y córtala en gajos limpios.",
+    "Pela la otra media naranja a vivo y córtala en gajos limpios. Pica el cebollino.",
     "Pela las patatas aún calientes, córtalas en rodajas gruesas y báñalas con la mitad de la vinagreta: en caliente absorben el aliño y quedan amarillas y perfumadas.",
     "Seca bien los langostinos, sálalos y márcalos en la plancha muy caliente con el resto del aceite 1 minuto por cada lado, hasta que estén rosados y curvados.",
-    "Monta los platos con los canónigos, las patatas, los gajos de naranja y los langostinos calientes. Riega con el resto de la vinagreta y termina con el cebollino picado."
+    "Monta los platos con los canónigos, las patatas, los gajos de naranja y los langostinos calientes. Riega con el resto de la vinagreta y termina con el cebollino."
   ],
   nutricion: { kcal: 400, prot: 26, hc: 40, grasa: 15 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "ligera"],
@@ -592,8 +592,8 @@ window.RECETAS_SEED.push({
     "En la misma cazuela, a fuego medio, rehoga los pimientos y la cebolleta 6 minutos, hasta que estén blandos.",
     "Añade el tomate rallado y cocina 5 minutos, hasta que espese y pierda el agua. Mientras, calienta el caldo con el azafrán desmenuzado.",
     "Vuelve a meter el pollo, añade las judías verdes y el laurel, y remueve 1 minuto. Incorpora el arroz y nácaralo 1 minuto, removiendo, para que se impregne del sofrito.",
-    "Vierte el caldo caliente, prueba de sal y cuece 18 minutos a fuego medio-suave, removiendo de vez en cuando, como un arroz meloso: al final debe quedar suelto pero envuelto en un caldo espeso y amarillo.",
-    "Apaga, retira el laurel, tapa y deja reposar 3 minutos. Sirve con perejil picado por encima."
+    "Vierte el caldo caliente, prueba de sal y cuece 18 minutos a fuego medio-suave, removiendo de vez en cuando, como un arroz meloso: al final debe quedar suelto pero envuelto en un caldo espeso y amarillo. Mientras, pica el perejil.",
+    "Apaga, retira el laurel, tapa y deja reposar 3 minutos. Sirve con el perejil por encima."
   ],
   nutricion: { kcal: 575, prot: 36, hc: 67, grasa: 18 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "bajo en colesterol", "sin gluten", "económica", "de cuchara"],
@@ -713,9 +713,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela la calabaza y córtala en dados: la mitad muy pequeños (1 cm), para que se deshagan, y la otra mitad de 2 cm, para que se noten. Calienta el caldo con el azafrán.",
+    "Pela la calabaza y córtala en dados: la mitad muy pequeños (1 cm), para que se deshagan, y la otra mitad de 2 cm, para que se noten. Pica la parte verde de la cebolleta. Calienta el caldo con el azafrán.",
     "Tuesta las pipas en una sartén sin aceite 2-3 minutos, hasta que se hinchen y empiecen a saltar. Resérvalas.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada y toda la calabaza con una pizca de sal 5 minutos, removiendo.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y toda la calabaza con una pizca de sal 5 minutos, removiendo.",
     "Añade el arroz y las hojas de tomillo y nacara 1 minuto. Vierte la mitad del caldo caliente y cuece a fuego medio, removiendo de vez en cuando.",
     "Ve añadiendo el resto del caldo por cazos a medida que el arroz lo absorba, durante unos 17 minutos, hasta que el grano esté tierno con un punto firme y la calabaza pequeña se haya deshecho.",
     "Apaga, añade el manchego y un último chorrito de caldo y remueve con energía 30 segundos para que quede cremoso y suelto como una ola. Sirve con las pipas por encima."
@@ -757,9 +757,9 @@ window.RECETAS_SEED.push({
     "Calienta el caldo con el azafrán. Corta la lubina en 4 trozos, sálala y resérvala en la nevera. Corta el hinojo en láminas muy finas y guarda sus hojitas.",
     "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga el hinojo 6 minutos, hasta que esté blando y algo dorado.",
     "Añade el tomate rallado y cocina 5 minutos, hasta que se concentre. Incorpora el arroz y nacara 1 minuto.",
-    "Vierte el caldo caliente y la ralladura de media naranja, prueba de sal y cuece 15 minutos a fuego medio sin apenas remover. Debe quedar un arroz con caldo abundante, como una sopa espesa.",
+    "Vierte el caldo caliente y la ralladura de media naranja, prueba de sal y cuece 15 minutos a fuego medio sin apenas remover. Debe quedar un arroz con caldo abundante, como una sopa espesa. Mientras, pica el eneldo (o las hojitas del hinojo).",
     "Pon los trozos de lubina sobre el arroz, con la piel hacia arriba, tapa y cuece 3-4 minutos, hasta que la carne esté opaca y se separe en lascas.",
-    "Apaga, añade el zumo de media naranja y deja reposar 2 minutos. Sirve en platos hondos con el eneldo o las hojitas de hinojo picadas."
+    "Apaga, añade el zumo de media naranja y deja reposar 2 minutos. Sirve en platos hondos con el eneldo o las hojitas de hinojo."
   ],
   nutricion: { kcal: 500, prot: 30, hc: 63, grasa: 14 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "bajo en colesterol", "sin gluten", "de cuchara"],
@@ -842,8 +842,8 @@ window.RECETAS_SEED.push({
     "Cuela el caldo por un colador cubierto con papel de cocina para quitar la arena y resérvalo. Saca la carne de los mejillones y desecha las conchas y los que no se hayan abierto.",
     "Ralla el tomate y desecha la piel, pica la cebolleta y corta la zanahoria en daditos. En la misma cazuela limpia, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y la zanahoria 4 minutos. Añade el tomate y cocina 5 minutos, hasta que se oscurezca. Mientras, pela las patatas y cáscalas en trozos de 2 cm.",
     "Aparta del fuego, añade el pimentón y remueve 10 segundos. Vierte el caldo de los mejillones y el resto del agua, el azafrán desmenuzado y las patatas.",
-    "Cuece a fuego medio 15-18 minutos, hasta que la patata esté muy tierna y empiece a deshacerse y espesar el caldo. Prueba antes de salar: el jugo del mejillón ya es salado.",
-    "Añade la carne de los mejillones, deja 1 minuto solo para que se calienten y sirve con el perejil picado."
+    "Cuece a fuego medio 15-18 minutos, hasta que la patata esté muy tierna y empiece a deshacerse y espesar el caldo. Mientras, pica el perejil. Prueba antes de salar: el jugo del mejillón ya es salado.",
+    "Añade la carne de los mejillones, deja 1 minuto solo para que se calienten y sirve con el perejil."
   ],
   nutricion: { kcal: 305, prot: 19, hc: 33, grasa: 11 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "de cuchara", "económica", "invierno"],
@@ -877,12 +877,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el huevo 10 minutos en agua hirviendo, enfríalo en agua fría, pélalo y pícalo fino.",
-    "Lava los tomates, quítales el pedúnculo y trocéalos. Quita las semillas al pimiento y trocéalo, reservando un trocito para decorar.",
+    "Cuece el huevo 10 minutos en agua hirviendo. Mientras, lava los tomates, quítales el pedúnculo y trocéalos, y quita las semillas al pimiento y trocéalo, reservando un trocito para decorar.",
+    "Enfría el huevo en agua fría, pélalo y pícalo fino.",
     "Tritura el tomate, el pimiento, 60 g de pan sin corteza, el vinagre y una pizca de sal hasta que quede muy fino.",
     "Con la batidora en marcha, añade el aceite de ajo a hilo para emulsionar: la crema se aclarará y se volverá espesa y brillante. Debe quedar más densa que un salmorejo, casi como para untar.",
-    "Prueba y ajusta de sal y vinagre. Si tu batidora no la deja fina, pásala por un colador. Métela en la nevera mientras tuestas el resto del pan cortado en bastones finos hasta que esté crujiente.",
-    "Sirve el arranque en cuencos con el huevo picado, el pimiento reservado en daditos y un hilo de aceite de oliva virgen extra, y los bastones de pan para mojar."
+    "Prueba y ajusta de sal y vinagre. Si tu batidora no la deja fina, pásala por un colador. Métela en la nevera mientras tuestas el resto del pan cortado en bastones finos hasta que esté crujiente, y pica en daditos el pimiento reservado.",
+    "Sirve el arranque en cuencos con el huevo picado, el pimiento reservado y un hilo de aceite de oliva virgen extra, y los bastones de pan para mojar."
   ],
   nutricion: { kcal: 370, prot: 8, hc: 35, grasa: 22 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "rápida", "sin gluten", "verano"],
@@ -922,10 +922,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la zanahoria en rodajas finas, pica la parte verde de la cebolleta y trocea el tomate. Pela las gambas y guarda las colas en la nevera. Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora las cabezas y las cáscaras 4 minutos, aplastando las cabezas con una cuchara de madera para que suelten todo su jugo.",
     "Añade la zanahoria y la cebolleta y rehoga 4 minutos. Incorpora el tomate y cocina 5 minutos, hasta que se deshaga.",
-    "Echa el pimentón, remueve 10 segundos y añade enseguida el agua, el laurel y el arroz. Cuece 25 minutos a fuego suave, con la cazuela tapada a medias.",
+    "Echa el pimentón, remueve 10 segundos y añade enseguida el agua, el laurel y el arroz. Cuece 25 minutos a fuego suave, con la cazuela tapada a medias. Mientras, corta las colas de gamba en trocitos (guárdalas en la nevera) y pica el cebollino.",
     "Retira el laurel y tritura todo, cáscaras incluidas, con la batidora a máxima potencia 2 minutos. Pasa la crema por un colador fino apretando con una cuchara para extraer todo el sabor; descarta lo que quede en el colador.",
     "Vuelve a poner la crema en la cazuela, añade la leche y caliéntala sin que llegue a hervir. Prueba de sal. Debe napar la cuchara: si está muy espesa, aclárala con un poco de agua.",
-    "Corta las colas de gamba en trocitos, échalas a la crema caliente y apaga: en 1 minuto se harán con el calor residual y quedarán jugosas. Sirve con cebollino picado."
+    "Echa las colas de gamba a la crema caliente y apaga: en 1 minuto se harán con el calor residual y quedarán jugosas. Sirve con el cebollino."
   ],
   nutricion: { kcal: 290, prot: 19, hc: 26, grasa: 12 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "invierno", "para invitados"],
@@ -965,7 +965,7 @@ window.RECETAS_SEED.push({
     "Trocea el resto del pepino, la piña sin el corazón duro y el pimiento sin semillas. Tritúralo con las hojas de la hierbabuena (guarda unas pocas), el zumo del medio limón, el vinagre, el agua y sal, unos 2 minutos, hasta que quede muy fino.",
     "Con la batidora en marcha, añade el aceite a hilo para emulsionar: el gazpacho se volverá más claro, cremoso y brillante. Prueba y ajusta de sal y de ácido.",
     "Cuélalo por un colador fino, apretando con una cuchara, y mételo en la nevera al menos 15 minutos.",
-    "Pica en daditos el pepino y la piña reservados.",
+    "Mientras se enfría, pica en daditos el pepino y la piña reservados.",
     "Sirve el gazpacho muy frío con el picadillo, las pipas de calabaza y unas hojitas de hierbabuena."
   ],
   nutricion: { kcal: 265, prot: 5, hc: 19, grasa: 19 },
@@ -1007,9 +1007,9 @@ window.RECETAS_SEED.push({
     "Calienta el aceite de ajo en una cazuela a fuego medio-bajo y rehoga las verduras con una pizca de sal 5 minutos, removiendo, sin que tomen color.",
     "Cubre con el agua y cuece 18 minutos a fuego medio, hasta que la chirivía se aplaste con una cuchara.",
     "Mientras, pon el jamón en una sartén fría sin aceite y caliéntala a fuego medio 4-5 minutos, dando la vuelta, hasta que las lonchas estén crujientes. Escúrrelas sobre papel y desmenúzalas.",
-    "Mezcla en un cuenquito el aceite de oliva templado con el pimentón.",
+    "Mezcla en un cuenquito el aceite de oliva templado con el pimentón y pica el cebollino.",
     "Añade la leche a la cazuela y tritura hasta que la crema esté lisa y sedosa. Ajusta de sal con cuidado, que el jamón ya sala, y añade la nuez moscada. Si está muy espesa, aclara con agua caliente.",
-    "Sirve la crema con las virutas de jamón, unas gotas del aceite de pimentón y el cebollino picado."
+    "Sirve la crema con las virutas de jamón, unas gotas del aceite de pimentón y el cebollino."
   ],
   nutricion: { kcal: 360, prot: 12, hc: 47, grasa: 14 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "económica", "invierno"],

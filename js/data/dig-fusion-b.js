@@ -49,9 +49,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir 3 dedos de agua en una cazuela con cestillo de vapor. Corta la kabocha en gajos de 2 cm (con piel, que se come), la patata en rodajas de 1,5 cm, la zanahoria en bastones y el nabo en medias lunas de 1 cm. Corta el pak choi a lo largo en cuartos.",
     "Cuece al vapor la patata y la zanahoria 8 minutos; añade la kabocha y el nabo y sigue 8-10 minutos más, hasta que la punta de un cuchillo entre sin resistencia. El pak choi va encima solo los 3 últimos minutos: las pencas tiernas y las hojas aún verdes.",
-    "Mientras, tuesta el sésamo en una sartén pequeña sin aceite 2-3 minutos, moviéndolo, hasta que esté dorado y huela a avellana. Májalo en un mortero hasta tener una pasta gruesa.",
+    "Mientras, ralla el jengibre y tuesta el sésamo en una sartén pequeña sin aceite 2-3 minutos, moviéndolo, hasta que esté dorado y huela a avellana. Májalo en un mortero hasta tener una pasta gruesa.",
     "Pon en la misma sartén el aceite de oliva, el aceite de ajo y las anchoas a fuego muy suave. Aplástalas con una cuchara de madera 3-4 minutos, sin que el aceite llegue a burbujear: deben deshacerse en una crema, no tostarse.",
-    "Fuera del fuego, añade el jengibre rallado, el sésamo majado, el tamari y el zumo del medio limón y bate con un tenedor. Debe quedar salada, untuosa y con un fondo tostado; no necesita sal.",
+    "Fuera del fuego, añade el jengibre, el sésamo majado, el tamari y el zumo del medio limón y bate con un tenedor. Debe quedar salada, untuosa y con un fondo tostado; no necesita sal.",
     "Pasa dos tercios de la salsa a un cuenco para mojar. En el tercio que queda en la sartén, a fuego suave, casca los huevos y remueve 1-2 minutos hasta que cuajen cremosos: es lo que en el Piamonte se hace al final con el último fondo de la bagna cauda.",
     "Sirve las verduras templadas en una fuente con el cuenco de salsa y los huevos al lado. Cada bocado de verdura se moja en la salsa, y los huevos se reparten sobre la patata."
   ],
@@ -94,12 +94,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz japonés frotándolo entre las manos y cambiando el agua hasta que salga casi clara. Cuécelo con 170 ml de agua y una pizca de sal: lleva a ebullición, tapa y deja 12 minutos a fuego mínimo y 10 de reposo sin destapar.",
-    "Pela el daikon y córtalo en 4 rodajas de 3 cm. Bisela los bordes con el pelador y haz en una cara una cuadrícula de cortes de medio centímetro de profundidad: así no se deshace y la salsa penetra.",
+    "Mientras se cuece el arroz, pela el daikon y córtalo en 4 rodajas de 3 cm. Bisela los bordes con el pelador y haz en una cara una cuadrícula de cortes de medio centímetro de profundidad: así no se deshace y la salsa penetra.",
     "Pon las rodajas en una cazuela con el kombu, cúbrelas de agua fría con una pizca de sal y cuécelas a fuego suave 20-25 minutos, hasta que una brocheta las atraviese sin esfuerzo y se vuelvan translúcidas. Escúrrelas y sécalas muy bien con papel.",
-    "Mientras, cuece los huevos 6 minutos y medio en agua hirviendo, enfríalos en agua con hielo y pélalos. Corta el pan en dados de 1 cm. Pela el limón a lo vivo, saca los gajos y córtalos en dados; reserva un chorrito de zumo.",
+    "Mientras, cuece los huevos 6 minutos y medio en agua hirviendo, enfríalos en agua con hielo y pélalos. Corta el pan en dados de 1 cm. Pela el limón a lo vivo, saca los gajos y córtalos en dados; reserva un chorrito de zumo. Pica el perejil.",
     "Calienta el aceite en una sartén amplia a fuego medio-alto y dora el daikon por la cara de la cuadrícula 4-5 minutos, hasta que tenga una costra color caramelo; dale la vuelta y dora 3 minutos más. Píntalo al final con la mitad del tamari y retíralo.",
     "En la misma sartén saltea las espinacas con una pizca de sal 1-2 minutos, solo hasta que se ablanden, y resérvalas. Limpia la sartén con papel.",
-    "Pon la mantequilla a fuego medio y deja que espume 2-3 minutos, hasta que tome color avellana y huela a galleta. Añade los dados de pan y tuéstalos 1 minuto; fuera del fuego, incorpora las alcaparras, los dados de limón, el chorrito de zumo, el resto del tamari y el perejil picado.",
+    "Pon la mantequilla a fuego medio y deja que espume 2-3 minutos, hasta que tome color avellana y huela a galleta. Añade los dados de pan y tuéstalos 1 minuto; fuera del fuego, incorpora las alcaparras, los dados de limón, el chorrito de zumo, el resto del tamari y el perejil.",
     "Sirve el arroz, las espinacas y dos filetes de daikon por persona, napa con la mantequilla grenoblesa y acompaña con el huevo mollet abierto."
   ],
   nutricion: { kcal: 585, prot: 17, hc: 77, grasa: 23 },
@@ -190,12 +190,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en trozos de 3 cm; pela la zanahoria y córtala en rodajas gruesas. Quita las puntas a las judías y córtalas en trozos de 4 cm.",
     "Cuece las patatas y la zanahoria en agua con sal 10 minutos; añade las judías y sigue 7-8 minutos más, hasta que la patata esté tierna y las judías hayan perdido el punto crujiente. Escurre.",
-    "A la vez, cuece los huevos 10 minutos, enfríalos en agua fría y pélalos.",
+    "A la vez, cuece los huevos 10 minutos, enfríalos en agua fría y pélalos. Pica el cebollino.",
     "Tuesta el sésamo en una sartén sin aceite a fuego medio 3 minutos, moviendo sin parar, hasta que esté dorado y empiece a saltar. Pásalo al mortero y májalo hasta que suelte su aceite y quede una pasta arenosa.",
     "Añade al mortero el azúcar, el tamari y el agua y mezcla hasta tener una salsa espesa y brillante: es el goma-ae.",
     "Mezcla en un bol las verduras aún templadas con la salsa de sésamo, con cuidado de no romper la patata.",
     "Calienta el aceite de ajo en un cazo pequeño 1 minuto, retíralo del fuego, espera 10 segundos y añade el pimentón; remueve y viértelo enseguida sobre las verduras. Si el pimentón se quema, amarga.",
-    "Sirve con los huevos en cuartos y el cebollino picado por encima."
+    "Corta los huevos en cuartos y sirve las verduras con ellos y el cebollino por encima."
   ],
   nutricion: { kcal: 440, prot: 17, hc: 54, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "económica"],
@@ -286,13 +286,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el dashi: deja el kombu en remojo en el agua 10 minutos, calienta a fuego suave y retíralo justo antes de que hierva. Añade los copos de bonito, apaga el fuego, deja reposar 3 minutos y cuela. Saldrán unos 250 ml.",
-    "Precalienta el horno a 170 °C. Pela las patatas y córtalas en láminas de 3 mm sin lavarlas: su almidón es lo que espesará la salsa. Pela la chirivía y córtala aún más fina, de 2 mm.",
+    "Prepara el dashi: deja el kombu en remojo en el agua 10 minutos (mientras, precalienta el horno a 170 °C y ralla el comté), calienta a fuego suave y retíralo justo antes de que hierva. Añade los copos de bonito, apaga el fuego, deja reposar 3 minutos y cuela. Saldrán unos 250 ml.",
+    "Pela las patatas y córtalas en láminas de 3 mm sin lavarlas: su almidón es lo que espesará la salsa. Pela la chirivía y córtala aún más fina, de 2 mm.",
     "Pon en una cazuela el dashi, la leche, la nuez moscada, sal y pimienta blanca. Añade las láminas y cuece a fuego suave 10 minutos, moviéndolas con cuidado con una espátula para que no se peguen, hasta que el líquido se vuelva cremoso.",
     "Unta una fuente de 20 x 25 cm con el aceite de ajo (es el diente de ajo frotado de la receta original) y después con la mantequilla.",
-    "Pasa las láminas con su líquido a la fuente, alísalas y cubre con el comté rallado.",
-    "Hornea 45-50 minutos, hasta que la superficie esté dorada y burbujeante y un cuchillo atraviese las patatas sin resistencia. Deja reposar 10 minutos antes de cortar para que se asiente.",
-    "Mientras reposa, trocea la lechuga y alíñala con el aceite de oliva, el vinagre de arroz, el tamari y el cebollino picado. Sirve el gratin con la ensalada al lado."
+    "Pasa las láminas con su líquido a la fuente, alísalas y cubre con el comté.",
+    "Hornea 45-50 minutos, hasta que la superficie esté dorada y burbujeante y un cuchillo atraviese las patatas sin resistencia; mientras, pica el cebollino. Deja reposar 10 minutos antes de cortar para que se asiente.",
+    "Mientras reposa, trocea la lechuga y alíñala con el aceite de oliva, el vinagre de arroz, el tamari y el cebollino. Sirve el gratin con la ensalada al lado."
   ],
   nutricion: { kcal: 590, prot: 21, hc: 73, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "al horno", "invierno"],
@@ -334,11 +334,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Pela el boniato, córtalo en dados de 2 cm, úntalo con 1 cucharadita del aceite y una pizca de sal y ásalo en una bandeja con papel 20-22 minutos, hasta que esté dorado en las aristas.",
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 150 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Envuelve el tofu en papel de cocina, ponle un peso encima 10 minutos y córtalo en 4 filetes de 1,5 cm. Pásalos por la maicena y sacude el exceso.",
-    "Prepara el glaseado: saca la pulpa de las frutas de la pasión, cuela dos tercios para quitar las pepitas y deja el resto con ellas. Mézclala con el tamari, el azúcar, el jengibre rallado y 2 cucharadas de agua.",
+    "Envuelve el tofu en papel de cocina, ponle un peso encima 10 minutos; mientras, ralla el jengibre y corta la cebolleta en aros. Corta el tofu en 4 filetes de 1,5 cm. Pásalos por la maicena y sacude el exceso.",
+    "Prepara el glaseado: saca la pulpa de las frutas de la pasión, cuela dos tercios para quitar las pepitas y deja el resto con ellas. Mézclala con el tamari, el azúcar, el jengibre y 2 cucharadas de agua.",
     "Calienta el resto del aceite en una sartén antiadherente a fuego medio-alto y dora el tofu 3-4 minutos por cada lado, sin moverlo, hasta que tenga una costra dorada.",
     "Baja el fuego, vierte el glaseado y deja que burbujee 1-2 minutos dando la vuelta a los filetes, hasta que la salsa espese y los deje brillantes. No lo prolongues: el azúcar se quema enseguida.",
-    "Corta el pepino en medias lunas finas y alíñalo con el zumo de la lima y una pizca de sal. Sirve el arroz con el tofu napado con su glaseado, el sésamo y la cebolleta en aros, el boniato y el pepino."
+    "Corta el pepino en medias lunas finas y alíñalo con el zumo de la lima y una pizca de sal. Sirve el arroz con el tofu napado con su glaseado, el sésamo y la cebolleta, el boniato y el pepino."
   ],
   nutricion: { kcal: 590, prot: 24, hc: 84, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "bajo en colesterol", "poco especiada"],
@@ -381,13 +381,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prensa el tofu 15 minutos entre papel de cocina con un peso encima y córtalo en dados de 3 cm. Precalienta el horno a 200 °C.",
+    "Precalienta el horno a 200 °C. Prensa el tofu 15 minutos entre papel de cocina con un peso encima; mientras, ralla el jengibre y pica el perejil. Corta el tofu en dados de 3 cm.",
     "Pela la patata y la zanahoria, córtalas en trozos de 3 cm y cuécelas en agua con sal 10 minutos, hasta que estén casi tiernas. Escúrrelas.",
     "Lava el arroz y cuécelo con 180 ml de agua y sal: hervor, tapa, 12 minutos a fuego mínimo y 5 de reposo.",
     "Dora el tofu en una sartén antiadherente con el aceite de oliva a fuego medio-alto 6-7 minutos, girándolo, hasta que tenga todas las caras doradas. Resérvalo.",
-    "En la misma sartén, a fuego medio, calienta el aceite de ajo y rehoga el jengibre rallado 30 segundos. Añade la cúrcuma, el cilantro, el comino y el pimentón y remueve 15 segundos; vierte enseguida el caldo y la leche de coco, añade el laurel y sal y cuece 5 minutos, hasta que la salsa espese ligeramente.",
+    "En la misma sartén, a fuego medio, calienta el aceite de ajo y rehoga el jengibre 30 segundos. Añade la cúrcuma, el cilantro, el comino y el pimentón y remueve 15 segundos; vierte enseguida el caldo y la leche de coco, añade el laurel y sal y cuece 5 minutos, hasta que la salsa espese ligeramente.",
     "Reparte en una fuente de horno el tofu, la patata, la zanahoria y las aceitunas, cubre con la salsa y hornea 15-18 minutos, hasta que burbujee y la superficie tome manchas doradas.",
-    "Retira el laurel, espolvorea el perejil picado y sirve con el arroz para mojar en la salsa."
+    "Retira el laurel, espolvorea el perejil y sirve con el arroz para mojar en la salsa."
   ],
   nutricion: { kcal: 625, prot: 24, hc: 82, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten"],
@@ -476,10 +476,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava la quinoa frotándola bajo el grifo 1 minuto y cuécela con 240 ml de agua y sal, tapada, 12 minutos a fuego suave; deja reposar 5 minutos, suéltala con un tenedor y extiéndela en una bandeja para que se temple.",
     "Pon la pechuga en un cazo con agua fría que la cubra, la mitad del jengibre en láminas y sal. Lleva a un hervor suave, baja al mínimo y escálfala 10-12 minutos sin que borbotee, hasta que esté blanca por dentro. Déjala templar 10 minutos en el caldo, que la mantiene jugosa, y desmenúzala en hebras.",
-    "Haz la salsa acevichada: mezcla la mayonesa con el yogur, el zumo de 1 lima, el resto del jengibre rallado muy fino, el tamari y el aceite de sésamo hasta tener una crema fluida que cubra la cuchara.",
-    "Corta el pepino en dados, los rabanitos en láminas finas y la lechuga en tiras; pica la cebolleta y el cilantro.",
+    "Mientras se escalfa, ralla muy fino el resto del jengibre y haz la salsa acevichada: mezcla la mayonesa con el yogur, el zumo de 1 lima, el jengibre, el tamari y el aceite de sésamo hasta tener una crema fluida que cubra la cuchara.",
+    "Corta el pepino en dados, los rabanitos en láminas finas y la lechuga en tiras; pica la cebolleta y el cilantro, y corta la nori en tiras finas.",
     "Mezcla la quinoa con el pepino, el maíz, la cebolleta, el cilantro, el zumo de la otra lima y una pizca de sal.",
-    "Monta los boles con la lechuga, la quinoa aliñada, el pollo encima y los rabanitos. Riega con la salsa acevichada y termina con la nori en tiras finas y el sésamo."
+    "Monta los boles con la lechuga, la quinoa aliñada, el pollo encima y los rabanitos. Riega con la salsa acevichada y termina con la nori y el sésamo."
   ],
   nutricion: { kcal: 525, prot: 41, hc: 51, grasa: 17.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "ideal para llevar"],
@@ -522,10 +522,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir una olla de agua para los brotes y los fideos. Mientras, prepara el aliño: mezcla el tamari, el vinagre de arroz, el azúcar (menos una pizca), el agua y el aceite de sésamo hasta que el azúcar se disuelva, y mételo en la nevera.",
     "Bate los huevos con una pizca de sal y la pizca de azúcar. Unta una sartén antiadherente con el aceite de girasol a fuego medio-bajo y cuaja dos tortillas finísimas, 1 minuto por cada lado, sin que se doren. Enróllalas y córtalas en hilos finos.",
-    "Escalda los brotes de soja 1 minuto en el agua hirviendo, sácalos con una espumadera y enfríalos en agua fría. Corta el pepino y el jamón en bastones finos y el tomate en gajos. Tuesta el sésamo en la sartén 2 minutos.",
+    "Escalda los brotes de soja 1 minuto en el agua hirviendo, sácalos con una espumadera y enfríalos en agua fría. Corta el pepino y el jamón en bastones finos y el tomate en gajos. Tuesta el sésamo en la sartén 2 minutos y ralla el jengibre.",
     "Cuece los fideos en la misma agua según el paquete, pásalos por agua muy fría frotándolos con las manos para quitar el almidón y escúrrelos a conciencia: si quedan húmedos, aguan el aliño.",
     "Reparte los fideos en platos hondos y coloca encima, en sectores como los radios de una rueda, el pepino, el jamón, la tortilla, el tomate y los brotes.",
-    "Riega con el aliño frío y termina con el jengibre rallado y el sésamo tostado."
+    "Riega con el aliño frío y termina con el jengibre y el sésamo tostado."
   ],
   nutricion: { kcal: 570, prot: 25.5, hc: 81, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "rápida", "verano"],
@@ -567,13 +567,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua y escalda en ella los brotes de soja 1 minuto; sácalos con una espumadera y enfríalos en agua fría. En la misma agua, cuece los fideos de arroz según el paquete (3-4 minutos), pásalos por agua fría frotándolos con las manos para quitarles el almidón y escúrrelos a conciencia.",
-    "Prepara la teriyaki: mezcla el tamari, el azúcar, el jengibre rallado, la maicena y 3 cucharadas de agua.",
+    "Pon a hervir agua; mientras, ralla el jengibre y pica el cebollino. Escalda en ella los brotes de soja 1 minuto; sácalos con una espumadera y enfríalos en agua fría. En la misma agua, cuece los fideos de arroz según el paquete (3-4 minutos), pásalos por agua fría frotándolos con las manos para quitarles el almidón y escúrrelos a conciencia.",
+    "Prepara la teriyaki: mezcla el tamari, el azúcar, el jengibre, la maicena y 3 cucharadas de agua.",
     "Pela una naranja a lo vivo y saca los gajos; exprime sobre un bol las membranas y la otra naranja. Añade al zumo el vinagre de arroz, el aceite de oliva y una pizca de sal: es el aliño.",
     "Corta la zanahoria y el pepino en cintas con el pelador y la lechuga en tiras.",
     "Corta el halloumi en 6 lonchas de 1 cm y sécalas. Dóralas en una sartén antiadherente sin aceite a fuego medio-alto 2 minutos por cada lado, hasta que tengan marcas doradas.",
     "Baja el fuego, vierte la teriyaki y gira las lonchas 1 minuto, hasta que la salsa espese y las deje lacadas.",
-    "Mezcla los fideos con las verduras, los gajos de naranja y el aliño, coloca encima el halloumi caliente con el resto de la salsa y termina con el sésamo y el cebollino picado."
+    "Mezcla los fideos con las verduras, los gajos de naranja y el aliño, coloca encima el halloumi caliente con el resto de la salsa y termina con el sésamo y el cebollino."
   ],
   nutricion: { kcal: 520, prot: 19, hc: 64, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "poco especiada"],
@@ -660,11 +660,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Mientras, prepara el kétchup casero: pon en un cazo el tomate concentrado, el tomate triturado, el azúcar, el vinagre y el tamari y cuece a fuego suave 5 minutos, removiendo, hasta que espese y brille.",
-    "Cuece los espaguetis en el agua hirviendo 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua de cocción y escúrrelos.",
-    "Mientras, corta el pimiento verde en tiras finas y la parte verde de la cebolleta en trozos de 2 cm.",
+    "Cuece los espaguetis en el agua hirviendo 1 minuto menos de lo que indique el paquete. Mientras, corta el pimiento verde en tiras finas y la parte verde de la cebolleta en trozos de 2 cm, y ralla el parmesano. Reserva un vaso del agua de cocción y escurre la pasta.",
     "Calienta el aceite en una sartén amplia y dora el bacon a fuego medio 3 minutos, hasta que suelte su grasa. Añade el pimiento y saltea 3 minutos, hasta que se ablande pero siga verde.",
     "Incorpora el kétchup casero y deja que se tueste un poco contra el fondo 1 minuto: ese punto caramelizado es el sabor del napolitan.",
-    "Añade los espaguetis, la cebolleta y la mantequilla y saltea 2 minutos a fuego vivo, con un chorrito del agua de cocción si hace falta, hasta que la salsa los envuelva y queden brillantes. Sirve con el parmesano rallado y pimienta."
+    "Añade los espaguetis, la cebolleta y la mantequilla y saltea 2 minutos a fuego vivo, con un chorrito del agua de cocción si hace falta, hasta que la salsa los envuelva y queden brillantes. Sirve con el parmesano y pimienta."
   ],
   nutricion: { kcal: 580, prot: 13, hc: 84, grasa: 21.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "rápida", "para niños"],
@@ -705,11 +704,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal. Mientras, prepara el pesto: tritura en el vaso de la batidora (o maja en el mortero) dos tercios de los cacahuetes, las hojas de albahaca, cilantro y menta, el jengibre pelado, el aceite de ajo, 2 cucharaditas de aceite de girasol, el zumo de una lima, la salsa de pescado, el azúcar y 2 cucharadas de agua, hasta tener una pasta verde con algo de textura.",
-    "Corta las judías en trozos de 4 cm y cuécelas en el agua hirviendo 5 minutos. Sácalas con una espumadera y, en la misma agua, cuece los fideos según el paquete. Reserva medio vaso del agua y escurre.",
+    "Corta las judías en trozos de 4 cm y cuécelas en el agua hirviendo 5 minutos. Sácalas con una espumadera y, en la misma agua, cuece los fideos según el paquete; mientras, pica el resto de los cacahuetes. Reserva medio vaso del agua y escurre.",
     "Abre los tubos de calamar, haz cortes en rombo en la cara interior sin llegar a atravesarla y córtalos en trozos de 4 cm. Sécalos muy bien.",
     "Calienta una sartén a fuego muy fuerte con el resto del aceite y marca el calamar con sal 1 minuto por cada lado, hasta que se enrosque y se dore. Ni un minuto más: se pondría correoso.",
     "Mezcla fuera del fuego los fideos y las judías con el pesto y un chorrito del agua de cocción, hasta que quede una salsa cremosa que los envuelva.",
-    "Sirve con el calamar encima, el resto de los cacahuetes picados y gajos de la otra lima."
+    "Sirve con el calamar encima, el resto de los cacahuetes y gajos de la otra lima."
   ],
   nutricion: { kcal: 640, prot: 35, hc: 80, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "rápida", "alta en proteína"],
@@ -753,12 +752,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Parte el jengibre por la mitad a lo largo y tuéstalo en una sartén sin aceite a fuego fuerte 4-5 minutos, hasta que tenga manchas negras: es el truco del pho para un caldo dulce y ahumado. En la misma sartén tuesta el anís, la canela, el clavo y el cardamomo 1 minuto.",
-    "Ponlo todo en una cazuela con el caldo, lleva a ebullición y cuece 10 minutos a fuego suave.",
+    "Ponlo todo en una cazuela con el caldo, lleva a ebullición y cuece 10 minutos a fuego suave. Mientras, corta la parte verde de la cebolleta en aros, deshoja la albahaca y el cilantro y corta la lima en gajos.",
     "Añade la pechuga entera y escálfala 12 minutos sin que el caldo llegue a hervir. Sácala, desmenúzala y cuela el caldo; mantenlo caliente a fuego mínimo.",
     "En otra cazuela calienta el aceite y nacara el arroz 2 minutos a fuego medio, removiendo, hasta que los granos estén translúcidos en los bordes.",
     "Añade un cazo de caldo y remueve hasta que casi se absorba; sigue así, cazo a cazo, 17-18 minutos, hasta que el arroz esté tierno con un punto de firmeza y el conjunto quede cremoso y suelto, que ondee al mover la cazuela.",
     "Fuera del fuego, sazona con la salsa de pescado y el azúcar, añade la mitad del pollo y un último chorrito de caldo y deja reposar 1 minuto tapado.",
-    "Sirve en platos hondos con el resto del pollo, los brotes de soja, la parte verde de la cebolleta en aros, las hojas de albahaca y cilantro y gajos de lima para exprimir en la mesa."
+    "Sirve en platos hondos con el resto del pollo, los brotes de soja, la cebolleta, las hojas de albahaca y cilantro y los gajos de lima para exprimir en la mesa."
   ],
   nutricion: { kcal: 530, prot: 40, hc: 69, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "bajo en colesterol", "alta en proteína", "invierno"],
@@ -806,10 +805,10 @@ window.RECETAS_SEED.push({
     "Haz los namul: escalda las espinacas 30 segundos y los brotes de soja 1 minuto en agua hirviendo y escúrrelos, apretando bien las espinacas. Corta la zanahoria y el calabacín en juliana y saltéalos por separado en la paellera con el aceite de ajo, 2 minutos cada uno, con sal. Aliña cada verdura con unas gotas de tamari y de aceite de sésamo y resérvalas.",
     "Corta el tofu en dados de 2 cm, sécalos y dóralos en la paellera con 1 cucharadita del aceite de oliva 5 minutos, hasta que estén dorados por todas las caras. Riégalos con 1 cucharada de tamari y resérvalos.",
     "Pon el resto del aceite de oliva en la paellera, añade el arroz y nacáralo 1 minuto. Vierte el caldo caliente con el resto del tamari, reparte el arroz de forma uniforme y no lo remuevas más.",
-    "Cuece 10 minutos a fuego fuerte y 8 a fuego medio-bajo, hasta que el caldo se haya absorbido y el arroz esté casi hecho.",
+    "Cuece 10 minutos a fuego fuerte y 8 a fuego medio-bajo, hasta que el caldo se haya absorbido y el arroz esté casi hecho. Mientras, corta la cebolleta en aros.",
     "Coloca los namul y el tofu en montones sobre el arroz, como en un bibimbap, y casca los huevos en dos huecos. Tapa con papel de aluminio y deja 4 minutos a fuego suave, hasta que las claras cuajen.",
     "Destapa, sube el fuego al máximo 1-2 minutos y escucha: cuando el arroz crepite y huela a tostado, se ha formado el socarrat. Apaga y deja reposar 3 minutos.",
-    "Lleva la paellera a la mesa con la salsa roja, el sésamo y la cebolleta en aros: cada uno mezcla su ración rascando la costra del fondo."
+    "Lleva la paellera a la mesa con la salsa roja, el sésamo y la cebolleta: cada uno mezcla su ración rascando la costra del fondo."
   ],
   nutricion: { kcal: 620, prot: 31, hc: 78, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada"],
@@ -852,9 +851,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Si no tienes arroz del día anterior, cuécelo con 210 ml de agua 12 minutos a fuego mínimo, extiéndelo en una bandeja y déjalo enfriar 15 minutos para que se seque.",
-    "Haz cortes superficiales en cuadrícula en los filetes de lomo para romper los nervios y aplánalos a 1 cm con la base de un cazo. Marínalos con 1 cucharada de tamari, la maicena, pimienta blanca y 1 cucharada de agua mientras preparas lo demás.",
-    "Para la salsa, calienta el aceite de ajo en un cazo, rehoga el pimiento verde en tiras 4 minutos, añade el tomate triturado, el concentrado, el azúcar y el vinagre y cuece 10 minutos a fuego suave, hasta que espese. Sala.",
-    "Precalienta el horno a 220 °C con gratinador. Calienta 1 cucharadita de aceite de girasol en una sartén, cuaja el huevo batido revolviéndolo 30 segundos, añade el arroz, el resto del tamari y la cebolleta picada y saltea 3 minutos, hasta que los granos estén sueltos y calientes.",
+    "Haz cortes superficiales en cuadrícula en los filetes de lomo para romper los nervios y aplánalos a 1 cm con la base de un cazo. Marínalos con 1 cucharada de tamari, la maicena, pimienta blanca y 1 cucharada de agua mientras preparas lo demás. Corta el pimiento verde en tiras y pica la cebolleta.",
+    "Para la salsa, calienta el aceite de ajo en un cazo, rehoga el pimiento verde 4 minutos, añade el tomate triturado, el concentrado, el azúcar y el vinagre y cuece 10 minutos a fuego suave, hasta que espese; mientras, precalienta el horno a 220 °C con gratinador. Sala.",
+    "Calienta 1 cucharadita de aceite de girasol en una sartén, bate el huevo y cuájalo revolviéndolo 30 segundos, añade el arroz, el resto del tamari y la cebolleta y saltea 3 minutos, hasta que los granos estén sueltos y calientes.",
     "En otra sartén con el resto del aceite, marca los filetes a fuego fuerte 2 minutos por cada lado, hasta que estén dorados, y córtalos en tiras anchas.",
     "Extiende el arroz en una fuente de horno, coloca encima el lomo, cubre con la salsa de tomate y reparte la mozzarella en trozos.",
     "Gratina 8-10 minutos, hasta que el queso burbujee y tenga manchas doradas. Sirve enseguida."
@@ -898,8 +897,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara, déjalo escurrir 10 minutos y cuécelo con 215 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo. Pásalo a un bol y deja que se temple hasta poder manipularlo.",
-    "Mientras, desmenuza el bonito y mézclalo con la mayonesa y los piquillos picados finos. Mezcla el tamari con 1 cucharadita del azúcar para el lacado.",
-    "Corta el pepino en rodajas finas, sálalo, espera 5 minutos, escúrrelo apretando y alíñalo con el vinagre de arroz y el resto del azúcar. Corta el tomate en gajos y alíñalo con el aceite de oliva, sal y el cebollino picado.",
+    "Mientras, pica finos los piquillos, desmenuza el bonito y mézclalo con la mayonesa y los piquillos. Mezcla el tamari con 1 cucharadita del azúcar para el lacado.",
+    "Corta el pepino en rodajas finas, sálalo, espera 5 minutos, escúrrelo apretando y alíñalo con el vinagre de arroz y el resto del azúcar. Pica el cebollino. Corta el tomate en gajos y alíñalo con el aceite de oliva, sal y el cebollino.",
     "Con las manos mojadas en agua con sal, toma un puñado de arroz, haz un hueco en el centro, pon una cucharada del relleno y cierra apretando hasta formar un triángulo compacto de 2 cm de grosor. Salen 6.",
     "Calienta una sartén antiadherente a fuego medio, úntala con el aceite de sésamo y tuesta los onigiri 4-5 minutos por cada cara, sin moverlos, hasta que tengan una costra dorada.",
     "Píntalos con la mezcla de tamari por ambos lados y déjalos 30 segundos más por cada cara, hasta que el lacado se caramelice sin quemarse.",
@@ -947,10 +946,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Golpea los tallos de limoncillo con el canto del cuchillo y córtalos en trozos de 5 cm; corta la galanga en rodajas y rasga las hojas de lima. Ponlo todo en una cazuela con el caldo y cuece 10 minutos a fuego suave para que se perfume.",
     "Mientras, pela las patatas y córtalas en trozos. Quita el tallo central del kale, enrolla las hojas como un puro y córtalas en hilos finísimos, de 2 mm, como se hace en Portugal.",
-    "Retira del caldo los aromáticos con una espumadera, añade las patatas y cuécelas 15 minutos, hasta que se deshagan.",
+    "Retira del caldo los aromáticos con una espumadera, añade las patatas y cuécelas 15 minutos, hasta que se deshagan. Mientras, pica la parte verde de la cebolleta y deshoja el cilantro.",
     "Tritura las patatas con el caldo y la leche de coco hasta tener una crema ligera. Devuélvela al fuego y sazona con la salsa de pescado, el azúcar y sal.",
     "Cuando vuelva a hervir, añade el kale y cuécelo 4 minutos, hasta que esté tierno y de un verde intenso; incorpora los langostinos y apaga el fuego a los 2 minutos, cuando estén rosados.",
-    "Termina con el zumo de la lima. Sirve en cuencos con un hilo de aceite de oliva y de aceite de ajo, el cilantro y la parte verde de la cebolleta picada."
+    "Termina con el zumo de la lima. Sirve en cuencos con un hilo de aceite de oliva y de aceite de ajo, el cilantro y la cebolleta."
   ],
   nutricion: { kcal: 515, prot: 32, hc: 50, grasa: 20.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "invierno"],
@@ -1038,11 +1037,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela el jengibre, corta la mitad en láminas y la otra mitad en hilos finísimos. Pon las láminas en una cazuela con el caldo y lleva a ebullición.",
-    "Añade la pechuga entera y escálfala a fuego suave 12 minutos, sin que hierva a borbotones. Sácala y deshiláchala con dos tenedores.",
-    "Retira las láminas de jengibre. Añade al caldo la col china en tiras y los fideos de arroz y cuece 3-4 minutos, hasta que los fideos estén tiernos. Sazona con el tamari, sal y pimienta blanca.",
+    "Añade la pechuga entera y escálfala a fuego suave 12 minutos, sin que hierva a borbotones. Mientras, corta la col china en tiras y la parte verde de la cebolleta en aros. Saca la pechuga y deshiláchala con dos tenedores.",
+    "Retira las láminas de jengibre. Añade al caldo la col china y los fideos de arroz y cuece 3-4 minutos, hasta que los fideos estén tiernos. Sazona con el tamari, sal y pimienta blanca.",
     "Disuelve la maicena en 3 cucharadas de agua fría y añádela al caldo removiendo; hierve 1 minuto, hasta que tome un ligero cuerpo.",
     "Bate los huevos. Con el caldo hirviendo suavemente, remueve en círculos y vierte el huevo en un hilo fino desde cierta altura; deja 20 segundos sin tocar y remueve una sola vez: se formarán hebras sedosas, las «flores» del fuchifú.",
-    "Devuelve el pollo, añade la parte verde de la cebolleta en aros y los hilos de jengibre y termina con unas gotas de aceite de sésamo."
+    "Devuelve el pollo, añade la cebolleta y los hilos de jengibre y termina con unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 425, prot: 43, hc: 40, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína"],
@@ -1083,11 +1082,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara el dashi: deja el kombu en el agua fría 15 minutos, calienta a fuego suave y retíralo justo antes de que hierva. Añade los copos de bonito, apaga, espera 3 minutos a que se hundan y cuela sin apretar. Saldrán unos 800 ml.",
-    "Pela las patatas y la zanahoria y córtalas en dados de 2 cm. Corta el salmón en dados de 3 cm y sálalo ligeramente.",
-    "Pon el dashi en una cazuela con las patatas, la zanahoria, la pimienta de Jamaica, el laurel y la parte verde de la cebolleta en dos trozos grandes. Cuece a fuego suave 12-15 minutos, hasta que la patata esté tierna y empiece a enturbiar el caldo.",
+    "Mientras se hace el dashi, pela las patatas y la zanahoria y córtalas en dados de 2 cm. Corta el salmón en dados de 3 cm y sálalo ligeramente.",
+    "Pon el dashi en una cazuela con las patatas, la zanahoria, la pimienta de Jamaica, el laurel y la parte verde de la cebolleta en dos trozos grandes. Cuece a fuego suave 12-15 minutos, hasta que la patata esté tierna y empiece a enturbiar el caldo. Mientras, pica el eneldo.",
     "Retira la cebolleta y el laurel y baja el fuego al mínimo. Disuelve el miso en un cazo con un poco del caldo caliente y añádelo a la sopa: a partir de aquí no debe hervir, o el miso pierde su aroma.",
     "Incorpora el salmón y deja la sopa a fuego mínimo 4-5 minutos, hasta que los dados estén opacos por fuera y aún rosados en el centro.",
-    "Sazona con pimienta blanca, unas gotas de limón y sal si hace falta, y sirve con el eneldo picado en abundancia por encima."
+    "Sazona con pimienta blanca, unas gotas de limón y sal si hace falta, y sirve con el eneldo en abundancia por encima."
   ],
   nutricion: { kcal: 435, prot: 31.5, hc: 40.5, grasa: 16.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "invierno"],
@@ -1174,11 +1173,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los macarrones en abundante agua con sal el tiempo del paquete, escúrrelos y pásalos por agua caliente para quitarles el almidón: así el caldo queda limpio, como en Hong Kong.",
-    "Mientras, calienta el caldo con el jengibre en láminas y cuécelo 5 minutos. Corta el jamón en tiras y la col china en trozos de 3 cm.",
+    "Mientras, calienta el caldo con el jengibre en láminas y cuécelo 5 minutos. Corta el jamón en tiras, la col china en trozos de 3 cm y la parte verde de la cebolleta en aros.",
     "Añade la col al caldo y cuécela 3 minutos. Sazona con el tamari, sal y pimienta blanca.",
     "Baja el fuego para que el caldo apenas tiemble, casca los huevos en un cuenco y deslízalos uno a uno; escálfalos 3 minutos, hasta que la clara cuaje y la yema siga líquida.",
     "Reparte los macarrones y el jamón en cuencos, vierte el caldo con la col y coloca encima un huevo por persona.",
-    "Termina con la parte verde de la cebolleta en aros y unas gotas de aceite de sésamo."
+    "Termina con la cebolleta y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 435, prot: 24, hc: 59, grasa: 11.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "rápida", "para niños"],

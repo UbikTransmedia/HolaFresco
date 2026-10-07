@@ -83,11 +83,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Si la okra es fresca, recorta el tallo en forma de cono sin abrir la vaina. Ponla (fresca o congelada) en un bol con el vinagre y una pizca de sal, mézclala y déjala 30 minutos. Después acláralas y escúrrelas bien: así no suelta la sustancia viscosa al guisarla.",
-    "Mientras, ralla los tomates por el lado grueso del rallador hasta quedarte con la piel en la mano. Pela las patatas y córtalas en trozos de unos 4 cm, cascándolas al final de cada corte para que suelten almidón.",
-    "En una cazuela ancha, calienta el aceite de ajo y el de oliva a fuego medio-bajo y rehoga la parte verde de la cebolleta picada 1 minuto, sin que tome color.",
+    "Mientras, ralla los tomates por el lado grueso del rallador hasta quedarte con la piel en la mano. Pela las patatas y córtalas en trozos de unos 4 cm, cascándolas al final de cada corte para que suelten almidón. Pica la parte verde de la cebolleta y el perejil.",
+    "En una cazuela ancha, calienta el aceite de ajo y el de oliva a fuego medio-bajo y rehoga la cebolleta 1 minuto, sin que tome color.",
     "Añade el tomate rallado, el azúcar, sal y pimienta y cuece 5 minutos, hasta que se oscurezca un poco. Incorpora las patatas, 250 ml de agua caliente y tapa: 15 minutos a fuego suave.",
     "Coloca la okra encima de las patatas, sin removerla con cuchara (se rompería): mueve la cazuela en círculos para que se moje de salsa. Tapa y cuece 25 minutos más, hasta que la patata esté tierna, la okra se atraviese con un palillo y la salsa haya espesado y brille con el aceite.",
-    "Apaga, esparce el perejil picado y deja reposar 10 minutos tapado: los laderá se comen templados, nunca hirviendo.",
+    "Apaga, esparce el perejil y deja reposar 10 minutos tapado: los laderá se comen templados, nunca hirviendo.",
     "Sirve con la feta en un trozo aparte, regada con un hilo del jugo de la cazuela."
   ],
   nutricion: { kcal: 450, prot: 11, hc: 48, grasa: 24 },
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Pela las patatas y córtalas en gajos gruesos. Mézclalas en una fuente de horno con el aceite de oliva, el zumo de medio limón, el agua y sal. Tapa con papel de aluminio y hornea 25 minutos: se cuecen en su vapor y quedan tiernas por dentro.",
-    "Mientras, lava las espinacas y trocéalas. Calienta el aceite de ajo en una sartén amplia a fuego medio, rehoga la parte verde de la cebolleta picada 1 minuto y añade las espinacas a puñados, removiendo 3-4 minutos, hasta que se reduzcan. Sala y añade casi todo el eneldo picado.",
+    "Mientras, lava las espinacas y trocéalas, y pica la parte verde de la cebolleta y el eneldo. Calienta el aceite de ajo en una sartén amplia a fuego medio, rehoga la cebolleta 1 minuto y añade las espinacas a puñados, removiendo 3-4 minutos, hasta que se reduzcan. Sala y añade casi todo el eneldo.",
     "Saca la fuente, destápala y reparte las espinacas con su jugo entre las patatas, mezclando con cuidado para no romperlas.",
     "Hornea destapado 20-25 minutos más, hasta que las patatas estén doradas por arriba, el líquido casi evaporado y las espinacas brillen con el aceite.",
     "Riega con el zumo del medio limón restante, desmenuza la feta por encima, añade el eneldo reservado y una vuelta de pimienta. Deja reposar 5 minutos antes de servir: como todos los platos de aceite griegos, está más rico templado."
@@ -172,7 +172,7 @@ window.RECETAS_SEED.push({
     "Bate el aceite con el zumo de medio limón, el orégano y pimienta, sin sal: el halloumi ya es salado. Mezcla las verduras y el queso con esta marinada en un bol.",
     "Ensarta en las brochetas el halloumi alternado con el pimiento, el calabacín y los tomates cherry. Guarda el aliño que quede en el bol.",
     "Calienta la plancha a fuego medio-alto y cocina las brochetas 8-10 minutos, girándolas cada 2 minutos y pintándolas con el aliño, hasta que las verduras estén tiernas y con marcas tostadas y el halloumi dorado por fuera y blando por dentro.",
-    "Mientras, mezcla el yogur con la mitad de la menta picada, la ralladura del limón, unas gotas de su zumo y una pizca de sal. Corta la lechuga en tiras finas.",
+    "Mientras, pica la menta y mezcla el yogur con la mitad, la ralladura del limón, unas gotas de su zumo y una pizca de sal. Corta la lechuga en tiras finas.",
     "Calienta las pitas 1 minuto por cada lado en la plancha. Ábrelas, pon dentro la lechuga y el contenido de las brochetas, y termina con una buena cucharada de yogur, el resto de la menta y gajos del medio limón restante."
   ],
   nutricion: { kcal: 455, prot: 18, hc: 48, grasa: 21 },
@@ -214,11 +214,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la calabaza con un pelador firme o un cuchillo, quítale las semillas y córtala en dados de 3 cm. Pela la zanahoria y córtala en rodajas de 1 cm.",
-    "En una cazuela ancha, calienta el aceite de ajo y el de oliva a fuego medio, rehoga la parte verde de la cebolleta picada 1 minuto y añade la zanahoria; cocínala 3 minutos. Agrega el pimentón y remueve solo 10 segundos, para que no se queme.",
+    "Pela la calabaza con un pelador firme o un cuchillo, quítale las semillas y córtala en dados de 3 cm. Pela la zanahoria y córtala en rodajas de 1 cm. Pica la parte verde de la cebolleta.",
+    "En una cazuela ancha, calienta el aceite de ajo y el de oliva a fuego medio, rehoga la cebolleta 1 minuto y añade la zanahoria; cocínala 3 minutos. Agrega el pimentón y remueve solo 10 segundos, para que no se queme.",
     "Vierte enseguida el tomate triturado, el agua, el laurel, sal y pimienta, y deja que hierva suavemente 5 minutos.",
-    "Añade la calabaza y mueve la cazuela para que se cubra de salsa. Tapa y cuece a fuego suave 20-25 minutos, sin remover con cuchara (solo moviendo la cazuela), hasta que la calabaza esté tierna pero entera y la salsa espesa y brillante de aceite.",
-    "Apaga, añade la menta y el perejil picados, tapa y deja reposar 10 minutos: los guisos de aceite griegos se comen templados.",
+    "Añade la calabaza y mueve la cazuela para que se cubra de salsa. Tapa y cuece a fuego suave 20-25 minutos, sin remover con cuchara (solo moviendo la cazuela), hasta que la calabaza esté tierna pero entera y la salsa espesa y brillante de aceite. Mientras, pica la menta y el perejil.",
+    "Apaga, añade la menta y el perejil, tapa y deja reposar 10 minutos: los guisos de aceite griegos se comen templados.",
     "Mientras, tuesta el pan sin gluten. Sirve la calabaza en platos hondos con la feta desmigada por encima y el pan para mojar en la salsa."
   ],
   nutricion: { kcal: 430, prot: 10, hc: 55, grasa: 19 },
@@ -260,9 +260,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C. Pela las zanahorias y córtalas a lo largo por la mitad (en cuartos si son gruesas).",
     "Machaca el cilantro en grano en un mortero, sin llegar a polvo. Mezcla las zanahorias en la bandeja con el aceite de oliva, el cilantro y sal, y ásalas 25-30 minutos, dándoles la vuelta a mitad, hasta que estén tiernas y caramelizadas en los bordes.",
     "Mientras se asan, prepara la tahinosalata: en un bol, mezcla el tahini con el zumo de media naranja, el del medio limón, el aceite de ajo y sal. Al principio se espesará y parecerá cortada; sigue removiendo y añade agua fría a cucharadas hasta que quede lisa y fluida como una crema ligera. Añade la ralladura de la naranja.",
-    "Cuece los huevos en agua hirviendo 6 minutos y medio y pásalos a agua muy fría 2 minutos. Pélalos con cuidado: la yema debe quedar cremosa.",
+    "Cuece los huevos en agua hirviendo 6 minutos y medio (mientras, pica el eneldo) y pásalos a agua muy fría 2 minutos. Pélalos con cuidado: la yema debe quedar cremosa.",
     "Tuesta el sésamo en una cazuela pequeña en seco 2 minutos, hasta que huela. Calienta la pita en el horno los últimos 3 minutos.",
-    "Extiende la tahinosalata en los platos, coloca encima las zanahorias, los huevos abiertos por la mitad, el resto del zumo de naranja por encima, el sésamo y el eneldo picado. Sirve con la pita en triángulos."
+    "Extiende la tahinosalata en los platos, coloca encima las zanahorias, los huevos abiertos por la mitad, el resto del zumo de naranja por encima, el sésamo y el eneldo. Sirve con la pita en triángulos."
   ],
   nutricion: { kcal: 445, prot: 13, hc: 50, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada"],
@@ -302,7 +302,7 @@ window.RECETAS_SEED.push({
     "Corta el tempeh en 6 filetes de 1 cm y cuécelos 10 minutos en agua apenas agitándose: pierde el amargor y queda más tierno y digestivo. Escúrrelos y sécalos con papel.",
     "Mezcla en un plato hondo el zumo de medio limón, el tamari, 1 cucharadita de aceite de oliva, 1 cucharadita de orégano y pimienta (el ladorigani). Marina los filetes 15 minutos, dándoles la vuelta a mitad.",
     "Mientras, cuece las patatas nuevas con piel en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y aplástalas una a una con el fondo de un vaso hasta que se abran sin romperse.",
-    "Quita los tallos duros al kale y las pencas a las acelgas y trocea las hojas. Cuece el kale en agua hirviendo con sal 6 minutos, añade las acelgas y cuece 3 minutos más, hasta que todo esté tierno. Escurre muy bien y aliña en caliente con el aceite de ajo, el zumo de medio limón y sal: es la horta vrasta.",
+    "Mientras se cuecen las patatas, quita los tallos duros al kale y las pencas a las acelgas y trocea las hojas. Cuece el kale en agua hirviendo con sal 6 minutos, añade las acelgas y cuece 3 minutos más, hasta que todo esté tierno. Escurre muy bien y aliña en caliente con el aceite de ajo, el zumo de medio limón y sal: es la horta vrasta.",
     "Calienta la plancha a fuego medio-alto y marca el tempeh 3 minutos por cada lado, pintándolo con la marinada, hasta que esté dorado. A la vez, dora las patatas aplastadas en otro lado de la plancha con el resto del aceite de oliva, 3-4 minutos por cara, y espolvoréalas con el orégano restante.",
     "Sirve el tempeh con las patatas, la horta templada al lado y gajos del medio limón restante."
   ],
@@ -385,8 +385,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas nuevas y cuécelas con piel en agua con sal 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, prepara el ladolemono: bate 1 cucharada de aceite con el zumo del limón, la mitad del eneldo picado, sal y pimienta hasta que emulsione y quede turbio.",
-    "Corta la lechuga en tiras muy finas, de medio centímetro, como se hace en Grecia; el pepino, en medias lunas finas, y la parte verde de la cebolleta, en aros. Pica el resto del eneldo.",
+    "Mientras, pica el eneldo y prepara el ladolemono: bate 1 cucharada de aceite con el zumo del limón, la mitad del eneldo, sal y pimienta hasta que emulsione y quede turbio.",
+    "Corta la lechuga en tiras muy finas, de medio centímetro, como se hace en Grecia; el pepino, en medias lunas finas, y la parte verde de la cebolleta, en aros.",
     "Escurre las patatas, pártelas por la mitad y alíñalas en caliente con una cucharada del ladolemono: así absorben el limón.",
     "Seca bien los filetes de trucha y sálalos. Calienta el resto del aceite en una sartén antiadherente a fuego medio-alto y ponlos con la piel hacia abajo, presionándolos con una espátula los primeros 20 segundos para que no se curven. Cocina 3-4 minutos, hasta que la piel esté dorada y crujiente y la carne opaca casi hasta arriba; dales la vuelta solo 30 segundos.",
     "Mezcla la lechuga, el pepino, la cebolleta, el eneldo y las alcaparras con el resto del ladolemono. Reparte en los platos con las patatas y coloca la trucha encima, en trozos grandes y con la piel hacia arriba para que no se ablande."
@@ -430,8 +430,8 @@ window.RECETAS_SEED.push({
     "Pon la pechuga en un cazo con el laurel, una tira de piel de limón, sal y agua fría que la cubra. Llévalo a ebullición, baja al mínimo y cuécela 12 minutos sin que llegue a borbotear. Apaga y déjala 10 minutos más en el agua: quedará jugosa.",
     "Mientras, corta la col en juliana muy fina, ponla en un bol con una pizca de sal y amásala 2 minutos con las manos, hasta que se ablande y suelte algo de agua. Escúrrela.",
     "Ralla la zanahoria por el lado grueso y corta la lechuga en tiras.",
-    "Tuesta las nueces en una sartén en seco 3 minutos, hasta que huelan, y pícalas.",
-    "Bate el aceite con el zumo del limón, sal y pimienta. Mezcla la col, la zanahoria, la lechuga, el eneldo y el perejil picados con el aliño.",
+    "Tuesta las nueces en una sartén en seco 3 minutos, hasta que huelan, y pícalas. Pica también el eneldo y el perejil.",
+    "Bate el aceite con el zumo del limón, sal y pimienta. Mezcla la col, la zanahoria, la lechuga, el eneldo y el perejil con el aliño.",
     "Desmenuza el pollo escurrido en hebras gruesas, colócalo sobre la ensalada y termina con las nueces."
   ],
   nutricion: { kcal: 400, prot: 39, hc: 19, grasa: 19 },
@@ -471,9 +471,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si el arenque es muy salado, ponlo 20 minutos en un bol con agua fría.",
     "Mientras, pela las naranjas a cuchillo, quitando toda la parte blanca, y córtalas en rodajas finas sobre un plato para recoger el zumo.",
-    "Corta el hinojo en láminas muy finas y la parte verde de la cebolleta en aros. Escurre el arenque, quítale la piel y las espinas visibles y desmígalo en trozos grandes.",
+    "Corta el hinojo en láminas muy finas la parte verde de la cebolleta en aros y la lechuga en tiras. Escurre el arenque, quítale la piel y las espinas visibles y desmígalo en trozos grandes.",
     "Bate el zumo recogido con el aceite, el vinagre y pimienta negra (no añadas sal: el arenque y las aceitunas ya la llevan).",
-    "Monta los platos con la lechuga en tiras y la rúcula, encima las rodajas de naranja, el hinojo, el arenque y las aceitunas. Riega con el aliño y la cebolleta.",
+    "Monta los platos con la lechuga y la rúcula, encima las rodajas de naranja, el hinojo, el arenque y las aceitunas. Riega con el aliño y la cebolleta.",
     "Tuesta el pan y sírvelo al lado para mojar en el jugo de naranja del fondo."
   ],
   nutricion: { kcal: 415, prot: 22, hc: 35, grasa: 21 },
@@ -557,8 +557,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la penca blanca de cada hoja de acelga en forma de V, sin partir la hoja. Escáldalas en agua hirviendo 30 segundos, pásalas a agua fría y extiéndelas sobre un paño.",
-    "Tuesta los piñones en la cazuela en seco 2 minutos, hasta que se doren. Lava el arroz y escúrrelo. Mézclalo en un bol con la cebolleta, el eneldo, la menta y el perejil picados, los piñones, el aceite de ajo, la ralladura de medio limón, sal y pimienta.",
+    "Pon agua a hervir. Mientras, pica la parte verde de la cebolleta, el eneldo, la menta y el perejil, y corta la penca blanca de cada hoja de acelga en forma de V, sin partir la hoja. Escáldalas en agua hirviendo 30 segundos, pásalas a agua fría y extiéndelas sobre un paño.",
+    "Tuesta los piñones en la cazuela en seco 2 minutos, hasta que se doren. Lava el arroz y escúrrelo y calienta el caldo. Mézclalo en un bol con la cebolleta, el eneldo, la menta, el perejil, los piñones, el aceite de ajo, la ralladura de medio limón, sal y pimienta.",
     "Pon una cucharada de relleno en la base de cada hoja (corta por la mitad las más grandes), dobla los lados hacia dentro y enrolla sin apretar demasiado: el arroz se hinchará. Deben salir unos 14 rollitos.",
     "Colócalos en la cazuela bien juntos, con el cierre hacia abajo, en una o dos capas. Riégalos con el aceite de oliva, cúbrelos con un plato pequeño invertido que haga de peso y vierte el caldo caliente hasta casi cubrirlos.",
     "Cuece a fuego suave 35-40 minutos, hasta que el arroz esté tierno (prueba uno) y quede un dedo de caldo en el fondo; si se queda seco, añade un poco de agua caliente.",
@@ -602,12 +602,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las zanahorias; ralla fina dos tercios y corta el resto en dados de medio centímetro. Lava el arroz hasta que el agua salga casi clara y escúrrelo. Calienta el caldo.",
+    "Pela las zanahorias; ralla fina dos tercios y corta el resto en dados de medio centímetro. Lava el arroz hasta que el agua salga casi clara y escúrrelo. Pica la parte verde de la cebolleta y calienta el caldo.",
     "Tuesta los piñones en la cazuela en seco 2 minutos, moviéndolos, hasta que estén dorados, y resérvalos.",
-    "En la misma cazuela, calienta el aceite de ajo y el de oliva a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto. Añade los dados de zanahoria, cocina 3 minutos e incorpora la zanahoria rallada; rehógala 4-5 minutos, hasta que se ablande y tiña el aceite de naranja.",
-    "Añade el arroz y remueve 1 minuto, hasta que brille. Vierte el caldo caliente, sala y añade pimienta. Cuando hierva, tapa y cuece 15 minutos a fuego mínimo, sin remover, hasta que haya absorbido el líquido.",
-    "Apaga y deja reposar 5 minutos con un paño bajo la tapa. Añade la ralladura y el zumo de medio limón y casi todo el eneldo picado, y suelta el arroz con un tenedor.",
-    "Mezcla el yogur con la menta picada, unas gotas de limón y una pizca de sal. Sirve el karotorizo con los piñones, el eneldo restante, una cucharada de yogur y gajos de limón."
+    "En la misma cazuela, calienta el aceite de ajo y el de oliva a fuego medio y rehoga la cebolleta 1 minuto. Añade los dados de zanahoria, cocina 3 minutos e incorpora la zanahoria rallada; rehógala 4-5 minutos, hasta que se ablande y tiña el aceite de naranja.",
+    "Añade el arroz y remueve 1 minuto, hasta que brille. Vierte el caldo caliente, sala y añade pimienta. Cuando hierva, tapa y cuece 15 minutos a fuego mínimo, sin remover, hasta que haya absorbido el líquido. Mientras, pica el eneldo y la menta y mezcla el yogur con la menta, unas gotas de limón y una pizca de sal.",
+    "Apaga y deja reposar 5 minutos con un paño bajo la tapa. Añade la ralladura y el zumo de medio limón y casi todo el eneldo, y suelta el arroz con un tenedor.",
+    "Sirve el karotorizo con los piñones, el eneldo restante, una cucharada del yogur a la menta y gajos de limón."
   ],
   nutricion: { kcal: 510, prot: 11, hc: 72, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "económica", "para niños"],
@@ -645,11 +645,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el cuerpo del calamar en aros de 1 cm y los tentáculos en trozos de bocado. Sécalos bien con papel de cocina.",
+    "Corta el cuerpo del calamar en aros de 1 cm y los tentáculos en trozos de bocado. Sécalos bien con papel de cocina. Pica la parte verde de la cebolleta.",
     "Calienta el aceite de ajo y el de oliva en una cazuela a fuego medio-alto y saltea el calamar 3 minutos: soltará agua; deja que se evapore en parte.",
-    "Baja el fuego, añade la parte verde de la cebolleta picada y remueve 1 minuto. Incorpora el tomate triturado, el laurel, 200 ml de agua caliente, sal y pimienta. Tapa y cuece a fuego suave 25 minutos, hasta que el calamar esté tierno al pincharlo: primero se endurece y luego, con la cocción lenta, se ablanda.",
+    "Baja el fuego, añade la cebolleta y remueve 1 minuto. Incorpora el tomate triturado, el laurel, 200 ml de agua caliente, sal y pimienta. Tapa y cuece a fuego suave 25 minutos, hasta que el calamar esté tierno al pincharlo: primero se endurece y luego, con la cocción lenta, se ablanda. Mientras, pica el eneldo.",
     "Añade el arroz y los 300 ml de agua restantes, remueve una sola vez y cuece 16-18 minutos a fuego suave, sin tapar y sin remover, hasta que el arroz esté tierno y quede meloso, con un poco de salsa suelta.",
-    "Apaga, añade la mitad del eneldo picado y el zumo de medio limón, tapa con un paño y deja reposar 5 minutos.",
+    "Apaga, añade la mitad del eneldo y el zumo de medio limón, tapa con un paño y deja reposar 5 minutos.",
     "Retira el laurel y sirve con el resto del eneldo por encima y gajos del medio limón restante."
   ],
   nutricion: { kcal: 555, prot: 37, hc: 70, grasa: 14 },
@@ -774,11 +774,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo hasta que el agua salga clara (así pierde las saponinas amargas). Cuécela en 250 ml de agua con sal, tapada y a fuego suave, 15 minutos; apaga y deja reposar 5 minutos tapada.",
-    "Mientras, tuesta los piñones en una sartén en seco 2 minutos, hasta que estén dorados, y resérvalos.",
+    "Mientras, pica la parte verde de la cebolleta, la menta y el perejil, y tuesta los piñones en una sartén en seco 2 minutos, hasta que estén dorados, y resérvalos.",
     "En la misma sartén, dora el cordero a fuego fuerte sin aceite 5 minutos, deshaciéndolo con una cuchara, hasta que pierda el color rosado y empiece a tostarse. Si ha soltado mucha grasa, retírala con papel.",
-    "Baja el fuego, añade el aceite de ajo, la parte verde de la cebolleta picada, la canela y el pimentón y remueve 30 segundos. Incorpora el tomate, sal y pimienta y cuece 10 minutos, hasta que la salsa se haya reducido y envuelva la carne.",
-    "Mezcla el yogur con la mitad de la menta picada, unas gotas de limón y una pizca de sal.",
-    "Suelta la quinoa con un tenedor y mézclala con el perejil picado. Sirve la quinoa con el kima encima, una cucharada de yogur a la menta, los piñones y el resto de la menta."
+    "Baja el fuego, añade el aceite de ajo, la cebolleta, la canela y el pimentón y remueve 30 segundos. Incorpora el tomate, sal y pimienta y cuece 10 minutos, hasta que la salsa se haya reducido y envuelva la carne.",
+    "Mientras se cuece, mezcla el yogur con la mitad de la menta, unas gotas de limón y una pizca de sal.",
+    "Suelta la quinoa con un tenedor y mézclala con el perejil. Sirve la quinoa con el kima encima, una cucharada de yogur a la menta, los piñones y el resto de la menta."
   ],
   nutricion: { kcal: 550, prot: 34, hc: 50, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "poco especiada"],
@@ -817,12 +817,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta.",
-    "Mientras se calienta el agua, tuesta las nueces en una sartén en seco 3 minutos. Reserva un par de ellas para el final.",
+    "Mientras se calienta el agua, tuesta las nueces en una sartén en seco 3 minutos. Reserva un par de ellas para el final y pícalas. Ralla el queso.",
     "Escalda las espinacas 20 segundos en el agua de la pasta, sácalas con una espumadera, enfríalas en agua fría y escúrrelas apretando: así el pesto queda verde intenso y más digestivo.",
-    "Tritura las espinacas con el eneldo, la menta, las nueces, el queso rallado, el aceite de ajo, la ralladura del limón, un chorrito de su zumo y 3 cucharadas de agua fría hasta tener una crema lisa. Prueba de sal.",
+    "Tritura las espinacas con el eneldo, la menta, las nueces, el queso, el aceite de ajo, la ralladura del limón, un chorrito de su zumo y 3 cucharadas de agua fría hasta tener una crema lisa. Prueba de sal.",
     "Cuece los espaguetis el tiempo del paquete. Mientras, calienta el aceite de oliva en la sartén a fuego fuerte y saltea los tomates cherry enteros 4-5 minutos, hasta que se arruguen y algunos revienten. Sálalos.",
     "Escurre la pasta reservando un vaso de su agua. Mézclala fuera del fuego con el pesto y 3-4 cucharadas de agua de cocción hasta que quede cremosa (el pesto no debe calentarse o pierde el color).",
-    "Sirve con los tomates por encima, las nueces reservadas picadas y pimienta."
+    "Sirve con los tomates por encima, las nueces reservadas y pimienta."
   ],
   nutricion: { kcal: 530, prot: 13, hc: 70, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "poco especiada"],
@@ -864,10 +864,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las gambas y guarda por separado las cabezas y las cáscaras. Retira el intestino de las colas con la punta de un cuchillo y guárdalas en la nevera.",
     "Para el caldo, calienta el aceite de oliva en una cazuela y dora las cabezas y las cáscaras 3 minutos a fuego medio-alto, aplastando las cabezas con una cuchara de madera para que suelten su jugo. Añade el agua fría, el laurel y una tira de piel de limón y cuece 15 minutos a fuego suave. Cuela apretando bien: quedarán unos 900 ml.",
-    "Mientras, pela la zanahoria y córtala en daditos; pela la patata y córtala en dados de 1,5 cm. Ralla los tomates por la parte gruesa del rallador y desecha la piel.",
-    "En la cazuela limpia, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto. Añade la zanahoria y la patata, remueve 3 minutos, incorpora el tomate y deja que se reduzca 3 minutos más.",
-    "Vierte el caldo caliente, añade el arroz, sal y pimienta, y cuece 15 minutos a fuego medio, hasta que el arroz y la patata estén tiernos.",
-    "Añade las colas de gamba y cuece solo 2 minutos, hasta que se vuelvan rosadas y se curven. Apaga, añade el zumo de medio limón y el eneldo picado, y sirve enseguida con gajos del medio limón restante."
+    "Mientras, pela la zanahoria y córtala en daditos; pela la patata y córtala en dados de 1,5 cm. Ralla los tomates por la parte gruesa del rallador y desecha la piel. Pica la parte verde de la cebolleta.",
+    "En la cazuela limpia, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto. Añade la zanahoria y la patata, remueve 3 minutos, incorpora el tomate y deja que se reduzca 3 minutos más.",
+    "Vierte el caldo caliente, añade el arroz, sal y pimienta, y cuece 15 minutos a fuego medio, hasta que el arroz y la patata estén tiernos. Mientras, pica el eneldo.",
+    "Añade las colas de gamba y cuece solo 2 minutos, hasta que se vuelvan rosadas y se curven. Apaga, añade el zumo de medio limón y el eneldo, y sirve enseguida con gajos del medio limón restante."
   ],
   nutricion: { kcal: 425, prot: 31, hc: 50, grasa: 11 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "sin lácteos", "poco especiada"],
@@ -907,12 +907,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas en dados de 2 cm; corta la zanahoria en medias lunas. Ralla el tomate y desecha la piel.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto. Añade la zanahoria y cocina 5 minutos, removiendo, hasta que empiece a ablandarse.",
+    "Pela las patatas y córtalas en dados de 2 cm; corta la zanahoria en medias lunas. Ralla el tomate y desecha la piel. Pica la parte verde de la cebolleta.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto. Añade la zanahoria y cocina 5 minutos, removiendo, hasta que empiece a ablandarse.",
     "Incorpora el tomate y deja que se reduzca 3 minutos. Añade las patatas, el laurel, la mitad del orégano y el caldo caliente. Sala con prudencia.",
-    "Cuece a fuego medio 25 minutos, hasta que la patata se deshaga al apretarla contra la pared de la cazuela.",
+    "Cuece a fuego medio 25 minutos, hasta que la patata se deshaga al apretarla contra la pared de la cazuela. Mientras, pica el perejil y desmiga la feta.",
     "Retira el laurel, saca un tercio de la sopa y tritúralo; devuélvelo a la cazuela y remueve. Así queda espesa y cremosa, pero con trozos.",
-    "Fuera del fuego, añade el zumo del limón, el aceite de oliva crudo y pimienta. Sirve con la feta desmigada, el resto del orégano frotado entre los dedos y el perejil picado."
+    "Fuera del fuego, añade el zumo del limón, el aceite de oliva crudo y pimienta. Sirve con la feta, el resto del orégano frotado entre los dedos y el perejil."
   ],
   nutricion: { kcal: 465, prot: 12, hc: 60, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "económica", "batch cooking", "invierno"],
@@ -995,11 +995,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos.",
-    "Mientras se cuecen, pela la patata y córtala en rodajas finas. Lava la lechuga y córtala en tiras gruesas.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto. Añade la patata y el caldo caliente, sala y cuece 15 minutos, hasta que la patata esté tierna.",
+    "Mientras se cuecen, pela la patata y córtala en rodajas finas. Lava la lechuga y córtala en tiras gruesas. Pica la parte verde de la cebolleta.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto. Añade la patata y el caldo caliente, sala y cuece 15 minutos, hasta que la patata esté tierna. Mientras, prepara el aceite de menta: tritura las hojas de menta con el aceite de oliva y una pizca de sal hasta que esté verde intenso. Ralla los huevos.",
     "Añade la lechuga y cuece solo 3 minutos más, hasta que se ablande pero siga verde. Apaga, incorpora el eneldo y tritura hasta que esté muy fina. Termina con el zumo del limón y pimienta.",
-    "Para el aceite de menta, tritura las hojas de menta con el aceite de oliva y una pizca de sal hasta que esté verde intenso.",
-    "Sirve la crema con una cucharada de yogur, los huevos rallados por encima y unas gotas de aceite de menta."
+    "Sirve la crema con una cucharada de yogur, los huevos por encima y unas gotas de aceite de menta."
   ],
   nutricion: { kcal: 400, prot: 15, hc: 38, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "ligera"],
@@ -1038,11 +1037,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Ralla el queso fino y repártelo en 4 montoncitos planos sobre una bandeja con papel. Hornéalo 6-7 minutos, hasta que se funda y se dore; déjalo enfriar para que se endurezca en tejas crujientes.",
-    "Mientras se hornea, pela la patata y el apionabo y córtalos en dados de 2 cm.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto. Añade la patata y el apionabo y remueve 2 minutos.",
-    "Vierte el caldo caliente, sala ligeramente y cuece 20 minutos, hasta que el apionabo esté muy tierno.",
+    "Mientras se hornea, pela la patata y el apionabo y córtalos en dados de 2 cm. Pica la parte verde de la cebolleta.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto. Añade la patata y el apionabo y remueve 2 minutos.",
+    "Vierte el caldo caliente, sala ligeramente y cuece 20 minutos, hasta que el apionabo esté muy tierno. Mientras, prepara el aceite de eneldo: tritura el eneldo con el aceite de oliva y una pizca de sal.",
     "Añade la leche y tritura hasta obtener una crema lisa y aterciopelada; si está muy espesa, alárgala con un poco de caldo. Termina con la ralladura y el zumo del limón y pimienta blanca.",
-    "Para el aceite de eneldo, tritura el eneldo con el aceite de oliva y una pizca de sal. Sirve la crema con unas gotas de aceite de eneldo y las tejas de queso."
+    "Sirve la crema con unas gotas de aceite de eneldo y las tejas de queso."
   ],
   nutricion: { kcal: 405, prot: 13, hc: 41, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "invierno"],
@@ -1084,11 +1083,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura la merluza a impulsos con el huevo, la mitad del eneldo y el perejil, la parte verde de una cebolleta, la ralladura de medio limón, sal y pimienta hasta tener una pasta gruesa. Pásala a un bol, mézclala con el pan rallado y déjala 10 minutos en la nevera.",
-    "Mientras reposa, pela la patata y córtala en dados de 1,5 cm; pela la zanahoria y córtala en rodajas finas.",
-    "En una cazuela, calienta el aceite de ajo y el de oliva a fuego medio y rehoga la parte verde de las otras dos cebolletas picada 1 minuto. Añade la zanahoria y rehógala 3 minutos, hasta que brille.",
-    "Añade el caldo caliente, la patata y el laurel y cuece 15 minutos a fuego medio, hasta que la patata esté casi tierna.",
+    "Mientras reposa, pela la patata y córtala en dados de 1,5 cm; pela la zanahoria y córtala en rodajas finas. Pica la parte verde de las otras dos cebolletas.",
+    "En una cazuela, calienta el aceite de ajo y el de oliva a fuego medio y rehoga la cebolleta 1 minuto. Añade la zanahoria y rehógala 3 minutos, hasta que brille.",
+    "Añade el caldo caliente, la patata y el laurel y cuece 15 minutos a fuego medio, hasta que la patata esté casi tierna. Mientras, pica el resto del eneldo.",
     "Con las manos húmedas, forma bolitas de pescado del tamaño de una nuez (unas 14). Baja el fuego para que el caldo apenas tiemble y escálfalas 6-7 minutos, sin remover, hasta que estén firmes y blancas por dentro.",
-    "Apaga, retira el laurel y añade el zumo de medio limón y el resto del eneldo picado: el caldo debe quedar claro, con un punto ácido marcado. Sirve con gajos del otro medio limón."
+    "Apaga, retira el laurel y añade el zumo de medio limón y el resto del eneldo: el caldo debe quedar claro, con un punto ácido marcado. Sirve con gajos del otro medio limón."
   ],
   nutricion: { kcal: 460, prot: 36, hc: 46, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "sin lácteos", "alta en proteína", "bajo en colesterol", "poco especiada"],

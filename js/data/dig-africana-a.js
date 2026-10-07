@@ -41,8 +41,8 @@ window.RECETAS_SEED.push({
     "Mientras, pica el pimiento verde en tiras finas, el tomate en dados pequeños y el verde de la cebolleta en rodajas.",
     "En una cazuela ancha, calienta el aceite de ajo a fuego medio y rehoga el pimiento y la mitad de la cebolleta 4 minutos, hasta que el pimiento esté blando pero verde. Añade el tomate y cocina 2 minutos más.",
     "Vierte el caldo, el laurel y una pizca de pimienta y lleva a hervor suave 5 minutos para que tome sabor.",
-    "Baja el fuego al mínimo, que el caldo apenas tiemble, e introduce la merluza. Escálfala 6-7 minutos sin que llegue a hervir: está lista cuando las lascas se separen al presionarlas.",
-    "Fuera del fuego, añade el zumo de un limón y medio, prueba de sal y espolvorea el perejil picado y el resto de la cebolleta. El caldou debe saber a limón franco.",
+    "Baja el fuego al mínimo, que el caldo apenas tiemble, e introduce la merluza. Escálfala 6-7 minutos sin que llegue a hervir: está lista cuando las lascas se separen al presionarlas. Mientras, pica el perejil.",
+    "Fuera del fuego, añade el zumo de un limón y medio, prueba de sal y espolvorea el perejil y el resto de la cebolleta. El caldou debe saber a limón franco.",
     "Sirve el arroz en platos hondos, coloca encima el pescado y riega con un par de cazos del caldo con sus verduras."
   ],
   nutricion: { kcal: 465, prot: 32, hc: 64, grasa: 9 },
@@ -126,12 +126,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el atún en dados de 3 cm, sécalos con papel y úntalos con media cucharadita de cúrcuma y sal.",
-    "Cuece el arroz lavado en el doble de agua con sal, tapado y a fuego mínimo, 12 minutos, y deja reposar 5 minutos.",
+    "Cuece el arroz lavado en el doble de agua con sal, tapado y a fuego mínimo, 12 minutos, y deja reposar 5 minutos. Mientras, ralla el jengibre, corta el pimiento en tiras finas y el verde de la cebolleta en trozos de 2 cm, y pica el cilantro.",
     "Calienta el aceite de oliva en una sartén a fuego fuerte y marca el atún 1 minuto por cada lado, hasta que tenga una película dorada y el interior siga rosado. Sácalo a un plato.",
-    "Baja el fuego a medio, añade el aceite de ajo y las semillas de mostaza. Cuando empiecen a saltar (unos 30 segundos), agrega el jengibre rallado, el pimiento en tiras finas y el resto de la cúrcuma. Rehoga 3 minutos.",
-    "Añade el verde de la cebolleta en trozos de 2 cm y el vinagre con 2 cucharadas de agua. Deja que borbotee 1 minuto: la salsa debe quedar amarilla, brillante y con un punto ácido limpio.",
+    "Baja el fuego a medio, añade el aceite de ajo y las semillas de mostaza. Cuando empiecen a saltar (unos 30 segundos), agrega el jengibre, el pimiento y el resto de la cúrcuma. Rehoga 3 minutos.",
+    "Añade la cebolleta y el vinagre con 2 cucharadas de agua. Deja que borbotee 1 minuto: la salsa debe quedar amarilla, brillante y con un punto ácido limpio.",
     "Devuelve el atún a la sartén, apaga el fuego y envuélvelo en la salsa con cuidado para no romperlo. Deja que repose 5 minutos para que absorba el aliño.",
-    "Sirve sobre el arroz, templado o a temperatura ambiente, con el cilantro picado por encima."
+    "Sirve sobre el arroz, templado o a temperatura ambiente, con el cilantro por encima."
   ],
   nutricion: { kcal: 535, prot: 40, hc: 60, grasa: 15 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "bajo en colesterol", "sin gluten", "ideal para llevar"],
@@ -214,10 +214,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien las doradas, sálalas por dentro y por fuera y frótalas con la cúrcuma y el zumo del limón.",
+    "Seca bien las doradas, sálalas por dentro y por fuera y frótalas con la cúrcuma y el zumo del limón. Ralla el tomate y pica el verde de la cebolleta y el cilantro.",
     "Calienta el aceite de oliva en una sartén amplia a fuego medio-alto y dora las doradas 3 minutos por cada lado, sin moverlas, hasta que la piel esté tostada. Sácalas.",
-    "En la misma sartén, a fuego medio, añade el aceite de ajo, la mitad de la cebolleta y el tomate rallado. Cocina 10 minutos, aplastando, hasta que el tomate se convierta en una salsa espesa. Añade un vaso pequeño de agua, sal y pimienta.",
-    "Devuelve el pescado a la salsa, tapa y guisa a fuego suave 8-10 minutos, regándolo con la salsa. Mientras, lleva a hervor 600 ml de agua con sal para el ugali y quita los tallos duros del kale y córtalo en tiras muy finas. Termina el pescado con la mitad del cilantro picado.",
+    "En la misma sartén, a fuego medio, añade el aceite de ajo, la mitad de la cebolleta y el tomate. Cocina 10 minutos, aplastando, hasta que el tomate se convierta en una salsa espesa. Añade un vaso pequeño de agua, sal y pimienta.",
+    "Devuelve el pescado a la salsa, tapa y guisa a fuego suave 8-10 minutos, regándolo con la salsa. Mientras, lleva a hervor 600 ml de agua con sal para el ugali y quita los tallos duros del kale y córtalo en tiras muy finas. Termina el pescado con la mitad del cilantro.",
     "Para el ugali, añade al agua hirviendo la harina de maíz en forma de lluvia removiendo, y trabaja con una cuchara de madera a fuego bajo 6-8 minutos, aplastando contra las paredes, hasta que la masa se despegue y huela a maíz tostado.",
     "Para el sukuma wiki, saltea el kale en un cazo con el resto de la cebolleta, 3 cucharadas de agua y sal, 5 minutos, hasta que esté tierno.",
     "Vuelca el ugali sobre un plato mojado y dale forma de cúpula. Sirve el pescado con su salsa, el sukuma wiki y el ugali, y el resto del cilantro por encima."
@@ -258,12 +258,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un cazo con la leche de coco, 180 ml de agua y sal. Lleva a hervor, tapa y cocina a fuego mínimo 12 minutos. Deja reposar tapado 5 minutos y suelta con un tenedor.",
-    "Prepara la salada: tomate en gajos, pepino en medias lunas finas y el verde de la cebolleta en rodajas. Aliña con sal y unas gotas de limón.",
+    "Mientras se cuece el arroz, prepara la salada: corta el tomate en gajos, el pepino en medias lunas finas y el verde de la cebolleta en rodajas, y alíñalo con sal y unas gotas de limón. Ralla la piel del limón, pica el cilantro y corta medio limón en gajos.",
     "Abre los tubos de calamar en libro, haz cortes en rombo en la cara interior sin llegar a atravesar y sécalos muy bien con papel.",
-    "Mezcla el aceite de ajo con el zumo de medio limón, la ralladura de su piel y la mitad del cilantro picado.",
+    "Mezcla el aceite de ajo con el zumo de medio limón, la ralladura y la mitad del cilantro.",
     "Calienta la plancha a fuego muy fuerte con el aceite de oliva. Coloca el calamar con los cortes hacia abajo y los tentáculos; cocina 1 minuto y medio sin tocarlo, dale la vuelta y 1 minuto más: se enrollará y quedará blanco opaco. Más tiempo lo endurece.",
     "Pásalo directamente al aliño de limón y cilantro y envuélvelo bien.",
-    "Sirve el calamar con el arroz de coco y la salada, con el resto del cilantro y gajos de limón."
+    "Sirve el calamar con el arroz de coco y la salada, con el resto del cilantro y los gajos de limón."
   ],
   nutricion: { kcal: 614, prot: 37, hc: 67, grasa: 22 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "verano"],
@@ -304,12 +304,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la yuca en trozos de 5 cm, retira la fibra central y ponla a cocer en agua fría con sal. Cuando hierva, cuenta 10 minutos, añade el boniato pelado en trozos de 4 cm y cuece 15 minutos más, hasta que ambos se atraviesen sin resistencia. Escúrrelos y tápalos.",
+    "Corta la yuca en trozos de 5 cm, retira la fibra central y ponla a cocer en agua fría con sal. Cuando hierva, cuenta 10 minutos; mientras, pela el boniato y córtalo en trozos de 4 cm. Añádelo y cuece 15 minutos más, hasta que ambos se atraviesen sin resistencia. Escúrrelos y tápalos.",
     "Haz 2-3 cortes en cada costado de los jureles, sálalos por dentro y por fuera y riégalos con el zumo de medio limón y el aceite de ajo. Déjalos 10 minutos.",
-    "Para el molho cru, pica el tomate, el pimiento verde y el verde de la cebolleta en dados muy pequeños. Aliña con el vinagre, el aceite de oliva, 2 cucharadas de agua, sal y pimienta y deja que repose 15 minutos: soltará un jugo rosado que es la salsa.",
-    "Para la farofa, funde el aceite de palma en una sartén a fuego suave, añade la harina de mandioca y remueve 3-4 minutos, hasta que esté dorada, suelta y huela a tostado. Sala y mezcla con la mitad del perejil picado.",
+    "Para el molho cru, pica el tomate, el pimiento verde y el verde de la cebolleta en dados muy pequeños. Aliña con el vinagre, el aceite de oliva, 2 cucharadas de agua, sal y pimienta y deja que repose 15 minutos: soltará un jugo rosado que es la salsa. Pica el perejil y corta el otro medio limón en gajos.",
+    "Para la farofa, funde el aceite de palma en una sartén a fuego suave, añade la harina de mandioca y remueve 3-4 minutos, hasta que esté dorada, suelta y huela a tostado. Sala y mezcla con la mitad del perejil.",
     "Calienta la plancha a fuego fuerte y engrásala con un papel untado en aceite. Pon los jureles y no los muevas: 4-5 minutos por lado, hasta que la piel esté tostada y la carne se separe de la espina central.",
-    "Sirve el pescado con la mandioca y el boniato, riega todo con el molho cru y su jugo, espolvorea la farofa y el resto del perejil y acompaña con gajos de limón."
+    "Sirve el pescado con la mandioca y el boniato, riega todo con el molho cru y su jugo, espolvorea la farofa y el resto del perejil y acompaña con los gajos de limón."
   ],
   nutricion: { kcal: 630, prot: 35, hc: 80, grasa: 19 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten"],
@@ -348,11 +348,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 18-20 minutos, hasta que estén tiernas.",
-    "Mientras, prepara el sambal: ralla el pepino con piel, apriétalo en un colador para quitar el agua y mézclalo con el vinagre, la cebolleta verde muy picada y una pizca de sal.",
-    "Enciende el grill del horno al máximo. Mezcla la mermelada con el jengibre rallado, una cucharadita de aceite de ajo y el zumo de medio limón hasta obtener un glaseado fluido.",
+    "Mientras, prepara el sambal: pica muy fina la cebolleta verde, ralla el pepino con piel, apriétalo en un colador para quitar el agua y mézclalo con el vinagre, la cebolleta y una pizca de sal. Pica el perejil y corta medio limón en gajos.",
+    "Enciende el grill del horno al máximo. Ralla el jengibre y mézclalo con la mermelada, una cucharadita de aceite de ajo y el zumo del otro medio limón hasta obtener un glaseado fluido.",
     "Coloca los filetes de caballa con la piel hacia arriba en una bandeja forrada, sálalos y pincha la piel 2-3 veces con un cuchillo.",
     "Gratina 4 minutos a 10 cm de la resistencia, pincela con el glaseado y gratina 2-3 minutos más, hasta que la piel burbujee y se tueste en los bordes. Vigila: el azúcar se quema rápido.",
-    "Escurre las patatas, pártelas por la mitad y aliña con el resto del aceite de ajo, el perejil picado, sal y pimienta.",
+    "Escurre las patatas, pártelas por la mitad y aliña con el resto del aceite de ajo, el perejil, sal y pimienta.",
     "Sirve la caballa con las patatas, el sambal de pepino y un gajo de limón."
   ],
   nutricion: { kcal: 536, prot: 30, hc: 50, grasa: 24 },
@@ -391,11 +391,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Lava el fonio y tuéstalo en una cazuela seca a fuego medio 2 minutos, removiendo, hasta que huela a galleta. Añade el doble de su volumen de agua con sal, lleva a hervor, tapa, apaga el fuego y deja 5 minutos. Suéltalo con un tenedor.",
-    "Para la costra, toma 4 cucharadas del fonio cocido y mézclalas con las hierbas picadas finas, la ralladura del limón, la mitad del aceite de oliva y una pizca de sal.",
+    "Precalienta el horno a 200 °C. Lava el fonio y tuéstalo en una cazuela seca a fuego medio 2 minutos, removiendo, hasta que huela a galleta. Añade el doble de su volumen de agua con sal, lleva a hervor, tapa, apaga el fuego y deja 5 minutos; mientras, pica finos el perejil y el cilantro y ralla la piel del limón. Suelta el fonio con un tenedor.",
+    "Para la costra, toma 4 cucharadas del fonio cocido y mézclalas con las hierbas, la ralladura del limón, la mitad del aceite de oliva y una pizca de sal.",
     "Coloca la trucha con la piel hacia abajo en una bandeja con papel, sálala y reparte la costra por encima en una capa fina, apretando con los dedos. Hornea 10 minutos y gratina 2-3 minutos más, hasta que la carne esté opaca y la costra dorada y crujiente en los bordes.",
-    "Aliña el resto del fonio con unas gotas de limón y mantenlo tapado.",
-    "Mientras se hornea la trucha, prepara la salsa: rehoga en una cazuela el aceite de ajo con el jengibre rallado y la cúrcuma 1 minuto, añade el tomate rallado y cocina 8 minutos, hasta que espese. Sala.",
+    "Aliña el resto del fonio con unas gotas de limón y mantenlo tapado. Corta el resto del limón en gajos.",
+    "Mientras se hornea la trucha, ralla el jengibre y el tomate y prepara la salsa: rehoga en una cazuela el aceite de ajo con el jengibre y la cúrcuma 1 minuto, añade el tomate y cocina 8 minutos, hasta que espese. Sala.",
     "En una sartén, con el resto del aceite de oliva, saltea las espinacas 2 minutos, hasta que se ablanden. Sala.",
     "Sirve una cama de salsa de tomate, la trucha encima, el fonio y las espinacas al lado y un gajo de limón."
   ],
@@ -435,9 +435,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pollo en trozos de 4 cm, sálalo y úntalo con la mitad de la cúrcuma.",
+    "Corta el pollo en trozos de 4 cm, sálalo y úntalo con la mitad de la cúrcuma. Ralla el jengibre y el tomate y corta el verde de la cebolleta en rodajas.",
     "Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora el pollo 5-6 minutos, hasta que tenga color por todos los lados.",
-    "Añade el jengibre rallado, la mitad de la cebolleta en rodajas y el resto de la cúrcuma; remueve 1 minuto. Incorpora el tomate rallado y cocina 5 minutos, hasta que se oscurezca.",
+    "Añade el jengibre, la mitad de la cebolleta y el resto de la cúrcuma; remueve 1 minuto. Incorpora el tomate y cocina 5 minutos, hasta que se oscurezca.",
     "Vierte la leche de coco y 100 ml de agua, tapa y cocina a fuego suave 20 minutos, hasta que el pollo esté tierno y la salsa cremosa y anaranjada.",
     "Mientras, cuece el arroz lavado con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos, y deja reposar 5.",
     "Para el lasary, corta el pepino en dados pequeños y mézclalo con el resto de la cebolleta, el zumo de media lima y sal.",
@@ -482,10 +482,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla la harina de teff con 180 ml de agua y una pizca de sal hasta obtener una masa fluida como de crepe. Déjala reposar mientras haces el guiso.",
-    "Corta el cordero en dados de 2 cm. En una cazuela, derrite la mantequilla clarificada a fuego suave con las vainas de cardamomo 2 minutos: es una versión sencilla del niter kibbeh.",
-    "Sube el fuego, añade el aceite de ajo y el cordero y dóralo 5 minutos. Incorpora el verde de la cebolleta picado, el jengibre rallado y la cúrcuma y remueve 1 minuto, hasta que todo quede amarillo y perfumado.",
-    "Cubre con 400 ml de agua caliente, sala, tapa y cuece a fuego suave 35 minutos.",
-    "Añade la zanahoria en rodajas y el pimiento en tiras y cocina 12-15 minutos más, destapado, hasta que la carne esté tierna y la salsa haya espesado. Retira el cardamomo y pimienta al gusto.",
+    "Corta el cordero en dados de 2 cm, pica el verde de la cebolleta y ralla el jengibre. En una cazuela, derrite la mantequilla clarificada a fuego suave con las vainas de cardamomo 2 minutos: es una versión sencilla del niter kibbeh.",
+    "Sube el fuego, añade el aceite de ajo y el cordero y dóralo 5 minutos. Incorpora la cebolleta, el jengibre y la cúrcuma y remueve 1 minuto, hasta que todo quede amarillo y perfumado.",
+    "Cubre con 400 ml de agua caliente, sala, tapa y cuece a fuego suave 35 minutos. Mientras, pela la zanahoria y córtala en rodajas y corta el pimiento en tiras.",
+    "Añade la zanahoria y el pimiento y cocina 12-15 minutos más, destapado, hasta que la carne esté tierna y la salsa haya espesado. Retira el cardamomo y pimienta al gusto.",
     "Justo antes de servir, añade a la masa de teff el bicarbonato y el zumo del limón y mezcla: hará burbujas. Calienta una sartén antiadherente sin grasa a fuego medio.",
     "Vierte un cazo de masa, extiéndela fina y cocina tapada 1-2 minutos, sin darle la vuelta, hasta que la superficie se llene de agujeritos y se seque. Repite hasta terminar la masa.",
     "Sirve el alicha sobre una tortita de teff, con el resto doblado al lado para pellizcar el guiso con la mano."
@@ -528,11 +528,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Remoja el pan sin gluten en 40 ml de la leche hasta que se deshaga.",
-    "Mezcla la ternera con el pan, el huevo, la nuez moscada, el cilantro molido, el clavo, la mitad del perejil picado, sal y pimienta. Amasa con las manos solo hasta que se una: si la trabajas demasiado, quedarán duras.",
+    "Precalienta el horno a 200 °C. Remoja el pan sin gluten en 40 ml de la leche hasta que se deshaga. Mientras, pica el perejil.",
+    "Mezcla la ternera con el pan, el huevo, la nuez moscada, el cilantro molido, el clavo, la mitad del perejil, sal y pimienta. Amasa con las manos solo hasta que se una: si la trabajas demasiado, quedarán duras.",
     "Forma 10 albóndigas con las manos húmedas y colócalas en una bandeja con papel. Hornéalas 12 minutos, hasta que estén doradas por fuera.",
-    "Mientras, calienta el aceite de ajo en una cazuela, añade el tomate triturado, el laurel, sal y un vaso pequeño de agua, y cocina 10 minutos a fuego suave.",
-    "Pasa las albóndigas a la salsa, tapa y cocina 15 minutos a fuego muy suave, hasta que estén jugosas y la salsa espesa. Mientras, cuece la patata pelada y troceada en agua con sal 18 minutos.",
+    "Mientras, calienta el aceite de ajo en una cazuela, añade el tomate triturado, el laurel, sal y un vaso pequeño de agua, y cocina 10 minutos a fuego suave. Entretanto, pela la patata y trocéala.",
+    "Pasa las albóndigas a la salsa, tapa y cocina 15 minutos a fuego muy suave, hasta que estén jugosas y la salsa espesa. Mientras, cuece la patata en agua con sal 18 minutos.",
     "Escurre la patata y aplástala con el resto de la leche caliente y una pizca de nuez moscada hasta obtener un puré fino.",
     "Sirve las frikkadels con su salsa sobre el puré y el resto del perejil por encima."
   ],
@@ -571,10 +571,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pollo en dados de 3 cm y sálalo. Pasa las hojas de plátano por la llama o por agua hirviendo para que se vuelvan flexibles.",
-    "En un bol, deslíe la crema de cacahuete con 120 ml de agua caliente hasta que quede como una crema ligera. Añade el tomate rallado, la cebolleta verde picada, el aceite de ajo, sal y pimienta.",
+    "Ralla el tomate y pica la cebolleta verde. En un bol, deslíe la crema de cacahuete con 120 ml de agua caliente hasta que quede como una crema ligera. Añade el tomate, la cebolleta, el aceite de ajo, sal y pimienta.",
     "Mezcla el pollo con la salsa y repártelo en el centro de las dos hojas. Ciérralas formando un hatillo y átalas con hilo de cocina.",
     "Coloca una rejilla o un plato invertido en el fondo de una cazuela grande, añade 3 cm de agua y pon encima los hatillos. Tapa y cuece al vapor a fuego medio 40 minutos, añadiendo agua si hace falta: el pollo queda meloso en su salsa.",
-    "A los 20 minutos, corta el plátano macho en trozos y añádelo alrededor de los hatillos para que se haga al vapor 20 minutos, hasta que esté tierno.",
+    "A los 20 minutos, corta el plátano macho en trozos y añádelo alrededor de los hatillos para que se haga al vapor 20 minutos, hasta que esté tierno. Mientras, pica el cilantro.",
     "Aplasta el plátano con un tenedor, con una pizca de sal, hasta obtener un matoke amarillo y suave.",
     "Sirve cada hatillo abierto en el plato, con el matoke al lado y el cilantro por encima."
   ],
@@ -613,12 +613,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la ternera en una cazuela con el jengibre rallado, sal y agua que la cubra justo. Lleva a hervor, desespuma, tapa y cuece a fuego suave 1 hora, hasta que esté tierna.",
-    "Mientras, prepara el lasary: ralla la zanahoria fina y mézclala con el vinagre, el zumo del limón, la mitad de la cebolleta verde picada y sal. Déjala macerar en la nevera.",
-    "Destapa la cazuela y sube el fuego a medio para que el líquido se evapore por completo, 10-15 minutos.",
+    "Ralla el jengibre y ponlo en una cazuela con la ternera, sal y agua que la cubra justo. Lleva a hervor, desespuma, tapa y cuece a fuego suave 1 hora, hasta que esté tierna.",
+    "Mientras, pica la cebolleta verde y corta el tomate en dados. Prepara el lasary: ralla la zanahoria fina y mézclala con el vinagre, el zumo del limón, la mitad de la cebolleta y sal. Déjala macerar en la nevera.",
+    "Destapa la cazuela y sube el fuego a medio para que el líquido se evapore por completo, 10-15 minutos. Mientras, cuece el arroz lavado con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos.",
     "Cuando quede solo la carne, añade el aceite de ajo y deja que se dore sin apenas remover, 5 minutos, hasta que los trozos estén caramelizados y se peguen ligeramente al fondo.",
-    "Incorpora el tomate en dados y el resto de la cebolleta y cocina 5 minutos más, raspando el fondo con la cuchara: el tomate recoge todo el sabor tostado y forma una salsa corta y brillante.",
-    "Mientras se dora la carne, cuece el arroz lavado con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos.",
+    "Incorpora el tomate y el resto de la cebolleta y cocina 5 minutos más, raspando el fondo con la cuchara: el tomate recoge todo el sabor tostado y forma una salsa corta y brillante.",
     "Sirve el arroz en un plato hondo, la ternera encima con su salsa y el lasary de zanahoria al lado. Pimienta al gusto."
   ],
   nutricion: { kcal: 580, prot: 42, hc: 67, grasa: 16 },
@@ -658,12 +657,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Tritura el tomate con el jengibre, la mitad del perejil y la mitad de la albahaca hasta obtener una pasta verde rojiza.",
+    "Pica el verde de la cebolleta. Tritura el tomate con el jengibre, la mitad del perejil y la mitad de la albahaca hasta obtener una pasta verde rojiza.",
     "Calienta el aceite de ajo y el aceite de palma en una cazuela a fuego medio-alto y dora el cerdo 5 minutos.",
     "Añade el verde de la cebolleta, la nuez moscada, el clavo y la pimienta blanca y remueve 1 minuto. Incorpora la pasta de tomate y cocina 5 minutos, hasta que pierda el olor a crudo.",
-    "Cubre con 500 ml de agua, sala, tapa y cuece a fuego suave 35 minutos.",
-    "Corta el plátano macho pelado en trozos de 4 cm y añádelo al guiso. Cocina 20 minutos más, destapado, hasta que el plátano esté tierno y haya espesado la salsa con su almidón.",
-    "Retira los clavos, prueba de sal y termina con el resto del perejil y la albahaca picados."
+    "Cubre con 500 ml de agua, sala, tapa y cuece a fuego suave 35 minutos. Mientras, corta el plátano macho en trozos de 4 cm y pica el resto del perejil y de la albahaca.",
+    "Añade el plátano al guiso. Cocina 20 minutos más, destapado, hasta que el plátano esté tierno y haya espesado la salsa con su almidón.",
+    "Retira los clavos, prueba de sal y termina con el resto del perejil y la albahaca."
   ],
   nutricion: { kcal: 509, prot: 33, hc: 56, grasa: 17 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "sin gluten", "de cuchara", "invierno", "batch cooking"],
@@ -789,9 +788,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca la carne de la nevera. Para el sheba, calienta el aceite de ajo en un cazo, añade el verde de la cebolleta picado y el jengibre rallado y remueve 1 minuto. Incorpora el pimentón, el tomate rallado, el azúcar, la ralladura y el zumo de la media naranja y sal. Cocina 12 minutos a fuego suave, hasta que espese. Mientras, lleva a hervor 500 ml de agua con sal para el pap.",
+    "Saca la carne de la nevera. Pica el verde de la cebolleta y ralla el jengibre, los tomates y la piel de la media naranja. Para el sheba, calienta el aceite de ajo en un cazo, añade la cebolleta y el jengibre y remueve 1 minuto. Incorpora el pimentón, el tomate, el azúcar, la ralladura y el zumo de la media naranja y sal. Cocina 12 minutos a fuego suave, hasta que espese. Mientras, lleva a hervor 500 ml de agua con sal para el pap.",
     "Para el pap, añade al agua hirviendo la harina de maíz en forma de lluvia batiendo con varillas para que no haga grumos.",
-    "Baja el fuego al mínimo, tapa y cocina 12 minutos, removiendo con una cuchara de madera cada 3 minutos, hasta que esté espeso y suave. Añade el cebollino picado.",
+    "Baja el fuego al mínimo, tapa y cocina 12 minutos, removiendo con una cuchara de madera cada 3 minutos, hasta que esté espeso y suave; entretanto, pica el cebollino. Añade el cebollino al pap.",
     "Seca la carne, úntala con el aceite de oliva y salpimiéntala.",
     "Calienta la plancha a fuego muy fuerte y marca los filetes 1 minuto y medio por cada lado, según su grosor. Déjalos reposar 2 minutos y córtalos en tiras.",
     "Sirve el pap con la ternera encima y el sheba caliente por encima y al lado."
@@ -874,12 +873,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con el doble de agua y sal, tapado y a fuego mínimo, 12 minutos. Deja reposar tapado 5 minutos.",
-    "Prepara la salada: lechuga en tiras, tomate en gajos y pepino en rodajas finas. Aliña con el zumo de media lima, 1 cucharadita de aceite de oliva y sal.",
+    "Mientras se cuece el arroz, prepara la salada: corta la lechuga en tiras, el tomate en gajos y el pepino en rodajas finas, y alíñalo con el zumo de media lima, 1 cucharadita de aceite de oliva y sal. Ralla la piel de la lima, pica el cilantro, corta el verde de la cebolleta en rodajas finas y la otra media lima en gajos.",
     "Corta las gambas en dos o tres trozos, mézclalas con la ralladura de la lima, el aceite de ajo y una pizca de sal y saltéalas 1 minuto en una sartén antiadherente de 20 cm a fuego medio, solo hasta que empiecen a ponerse rosadas. Sácalas.",
-    "Bate los huevos con sal, pimienta, la mitad del cilantro picado y el verde de la cebolleta en rodajas finas, y añade las gambas.",
+    "Bate los huevos con sal, pimienta, la mitad del cilantro y la cebolleta, y añade las gambas.",
     "Unta la sartén con la mitad del aceite de oliva restante a fuego medio-bajo y vierte la mitad del batido. Lleva los bordes hacia el centro con una espátula durante 1 minuto y deja cuajar 1-2 minutos más, hasta que la base esté firme y la superficie siga brillante.",
     "Dobla la tortilla en media luna, pásala a un plato y repite con el resto del aceite y del batido.",
-    "Sirve cada omeleta con el arroz, la salada, el resto del cilantro por encima y gajos de lima para exprimir."
+    "Sirve cada omeleta con el arroz, la salada, el resto del cilantro por encima y los gajos de lima para exprimir."
   ],
   nutricion: { kcal: 526, prot: 39, hc: 52, grasa: 18 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "rápida"],
@@ -915,11 +914,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Pela el plátano y córtalo en rodajas al bies de 1 cm.",
+    "Precalienta el horno a 190 °C. Pela el plátano y córtalo en rodajas al bies de 1 cm. Corta el pimiento en tiras, pica el verde de la cebolleta y parte los tomates cherry por la mitad.",
     "Calienta el aceite en una sartén apta para horno de 22 cm a fuego medio y dora las rodajas de plátano 2-3 minutos por lado, hasta que estén caramelizadas. Retíralas a un plato.",
-    "En la misma sartén rehoga el pimiento en tiras 4 minutos y añade las espinacas, removiendo hasta que se ablanden, 1-2 minutos. Sala.",
-    "Bate los huevos con el tomillo, la cebolleta verde picada, sal y pimienta.",
-    "Reparte el plátano entre las verduras, vierte el huevo y coloca los tomates cherry partidos por la mitad, con el corte hacia arriba. Cocina a fuego bajo 3 minutos, hasta que cuajen los bordes.",
+    "En la misma sartén rehoga el pimiento 4 minutos y añade las espinacas, removiendo hasta que se ablanden, 1-2 minutos. Sala.",
+    "Bate los huevos con el tomillo, la cebolleta, sal y pimienta.",
+    "Reparte el plátano entre las verduras, vierte el huevo y coloca los tomates cherry con el corte hacia arriba. Cocina a fuego bajo 3 minutos, hasta que cuajen los bordes.",
     "Pasa la sartén al horno 10-12 minutos, hasta que el centro esté cuajado y la superficie ligeramente dorada. Deja reposar 3 minutos antes de cortar."
   ],
   nutricion: { kcal: 456, prot: 21, hc: 48, grasa: 20 },
@@ -1002,12 +1001,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la yuca en trozos, retira la fibra central y cuécela en agua con sal 25-30 minutos, hasta que esté muy tierna.",
-    "Mientras se cuece la yuca, calienta el aceite de ajo en una cazuela, añade el jengibre rallado y remueve 30 segundos. Incorpora el tomate triturado y cocina 10 minutos a fuego suave, hasta que espese.",
+    "Mientras se cuece la yuca, ralla el jengibre. Calienta el aceite de ajo en una cazuela, añade el jengibre y remueve 30 segundos. Incorpora el tomate triturado y cocina 10 minutos a fuego suave, hasta que espese.",
     "Precalienta el horno a 200 °C. Añade las espinacas a la salsa y remueve hasta que se ablanden, 2 minutos. Sala y pimienta.",
     "Escurre la yuca y cháfala con un tenedor y una pizca de sal, dejando algunos trozos.",
     "Reparte la yuca en el fondo de una fuente o dos cazuelitas, cubre con la salsa de tomate y espinacas y haz 4 huecos con una cuchara.",
-    "Casca un huevo en cada hueco, sala las claras y hornea 10-12 minutos, hasta que las claras estén cuajadas y las yemas sigan brillantes.",
-    "Derrite el aceite de palma, riega con un hilo por encima y termina con el cebollino picado."
+    "Casca un huevo en cada hueco, sala las claras y hornea 10-12 minutos, hasta que las claras estén cuajadas y las yemas sigan brillantes. Mientras, pica el cebollino.",
+    "Derrite el aceite de palma, riega con un hilo por encima y termina con el cebollino."
   ],
   nutricion: { kcal: 479, prot: 19, hc: 67, grasa: 15 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "al horno"],
@@ -1049,12 +1048,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño y ponle un peso encima 10 minutos para que suelte el agua.",
-    "Mientras, para el pilau, tuesta en un cazo seco el comino, 2 vainas de cardamomo aplastadas y media rama de canela 1 minuto. Añade el arroz lavado, 280 ml de agua y sal; tapa y cocina a fuego mínimo 12 minutos. Reposa 5 minutos.",
-    "Corta el tofu en dados de 2,5 cm. Mezcla el zumo de naranja, el tamari, el azúcar, el clavo, el jengibre rallado y las semillas de las otras 2 vainas de cardamomo.",
+    "Mientras, para el pilau, tuesta en un cazo seco el comino, 2 vainas de cardamomo aplastadas y media rama de canela 1 minuto. Añade el arroz lavado, 280 ml de agua y sal; tapa y cocina a fuego mínimo 12 minutos. Reposa 5 minutos. Mientras se cuece, ralla el jengibre y pica el cilantro.",
+    "Corta el tofu en dados de 2,5 cm. Mezcla el zumo de naranja, el tamari, el azúcar, el clavo, el jengibre y las semillas de las otras 2 vainas de cardamomo.",
     "Calienta el aceite en una sartén antiadherente a fuego medio-alto y dora el tofu 8 minutos, girándolo, hasta que todas las caras estén doradas y firmes.",
     "Vierte la mezcla de naranja con la otra media rama de canela y deja que borbotee 4-5 minutos, moviendo la sartén, hasta que se reduzca a un glaseado espeso que envuelva el tofu. Retira la canela.",
     "Corta el pepino en rodajas finas y aliña con el zumo de la lima y una pizca de sal.",
-    "Sirve el pilau con el tofu glaseado encima, el cilantro picado y el pepino a la lima al lado."
+    "Sirve el pilau con el tofu glaseado encima, el cilantro y el pepino a la lima al lado."
   ],
   nutricion: { kcal: 530, prot: 28, hc: 67, grasa: 16 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "sin gluten"],
@@ -1095,11 +1094,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir un cazo de agua. Corta la zanahoria en bastones, mézclala con 1 cucharadita de aceite, el comino y sal y ásala 25 minutos, hasta que esté tierna y dorada en los bordes.",
-    "Corta el tempeh en láminas de 1 cm y cuécelo en el agua hirviendo 8 minutos: lo ablanda, quita el amargor y lo hace más digestivo. Escúrrelo.",
-    "Mezcla el jengibre rallado, la cúrcuma, el tamari y el zumo de medio limón y marina el tempeh mientras haces el mijo.",
-    "Lava el mijo, tuéstalo en un cazo seco 2 minutos, añade 300 ml de agua con sal y cocina tapado a fuego mínimo 15 minutos. Deja reposar 5 minutos y suéltalo con un tenedor.",
+    "Corta el tempeh en láminas de 1 cm y cuécelo en el agua hirviendo 8 minutos: lo ablanda, quita el amargor y lo hace más digestivo. Mientras, ralla el jengibre. Escurre el tempeh.",
+    "Mezcla el jengibre, la cúrcuma, el tamari y el zumo de medio limón y marina el tempeh mientras haces el mijo.",
+    "Lava el mijo, tuéstalo en un cazo seco 2 minutos, añade 300 ml de agua con sal y cocina tapado a fuego mínimo 15 minutos. Mientras, pica el perejil y la menta y pela la naranja a lo vivo, cortando los gajos sobre un bol para recoger el jugo. Deja reposar el mijo 5 minutos y suéltalo con un tenedor.",
     "Tuesta las pipas en una sartén seca 2 minutos, hasta que se hinchen. Retíralas y, en la misma sartén, dora el tempeh con el resto del aceite 3 minutos por lado, añadiendo al final la marinada para que lo glasee.",
-    "Pela la naranja a lo vivo y corta los gajos; con el jugo que suelten y el zumo del otro medio limón aliña el mijo junto a las hierbas picadas.",
+    "Aliña el mijo con el jugo de la naranja, el zumo del otro medio limón y las hierbas.",
     "Sirve el mijo templado con la zanahoria, el tempeh, los gajos de naranja y las pipas por encima."
   ],
   nutricion: { kcal: 565, prot: 29, hc: 67, grasa: 20 },

@@ -126,10 +126,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Sazona la corvina con sal, el zumo de medio limón y un diente de ajo machacado, y déjala así mientras preparas el resto: corta la cebolla en plumas y el pimiento en tiras, lamina el resto del ajo, pica el tomate y el perejil, pela la patata y el boniato y córtalos en trozos de 3 cm, y pela el plátano y córtalo en rodajas de 2 cm.",
     "En una cazuela, sofríe en el aceite a fuego medio la cebolla, el pimiento y el ajo laminado 5 minutos. Añade el tomate, el pimentón y el laurel y cocina 3 minutos más.",
-    "Vierte el agua y añade la patata, el boniato y el plátano. Sala y cuece 10 minutos, hasta que estén casi tiernos.",
+    "Vierte el agua y añade la patata, el boniato y el plátano. Sala y cuece 10 minutos, hasta que estén casi tiernos. Mientras, corta el otro medio limón en gajos.",
     "Pasa 300 ml de caldo a un cazo. Coloca la corvina en la cazuela, baja el fuego para que el caldo apenas tiemble y cuece 6-7 minutos sin remover, hasta que la carne se separe de la espina.",
     "Mientras, lleva a ebullición el caldo del cazo y añade la harina de yuca en lluvia, batiendo con unas varillas, durante 2-3 minutos, hasta tener una crema espesa y brillante: es el pirão.",
-    "Sirve en platos hondos el pescado con los tubérculos y el caldo, el pirão al lado, el perejil por encima y el otro medio limón en gajos."
+    "Sirve en platos hondos el pescado con los tubérculos y el caldo, el pirão al lado, el perejil por encima y los gajos de limón."
   ],
   nutricion: { kcal: 615, prot: 39, hc: 86, grasa: 13 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "de cuchara", "poco especiada", "bajo en colesterol"],
@@ -355,9 +355,9 @@ window.RECETAS_SEED.push({
     "Mientras, quita los nervios gruesos a la col rizada, lávala junto con las espinacas y pícalas muy finas con el cuchillo o a golpes en la picadora. En Madagascar las hojas de yuca se machacan en un mortero de madera hasta casi hacerlas pasta. Pica la cebolla y machaca en el mortero el ajo y el jengibre con una pizca de sal.",
     "Añade a la olla la cebolla y rehógala 3 minutos con el cerdo; agrega la mitad del majado y remueve 1 minuto.",
     "Incorpora las hojas picadas, remueve hasta que se reduzcan y vierte 250 ml de agua. Cierra; cuando suba la válvula, baja el fuego y cuenta 20 minutos. Deja bajar la presión sola, unos 10 minutos.",
-    "Mientras, lava el arroz y cuécelo en una cazuela con los 280 ml de agua restantes y sal, tapado y a fuego mínimo, 12 minutos. Apaga y deja reposar 5 minutos sin destapar.",
+    "Mientras, lava el arroz y cuécelo en una cazuela con los 280 ml de agua restantes y sal, tapado y a fuego mínimo, 12 minutos. Apaga y deja reposar 5 minutos sin destapar. Si quieres sakay, machaca la guindilla con una pizca de sal y unas gotas de aceite.",
     "Abre la olla, añade la leche de coco y el resto del majado de ajo y cuece destapado 5 minutos, hasta que la salsa espese y las hojas queden de un verde oscuro, cremosas y pegadas a la carne. Salpimienta.",
-    "Sirve con el arroz y, si te gusta, el sakay: la guindilla machacada con una pizca de sal y unas gotas de aceite, para añadir con cuidado."
+    "Sirve con el arroz y, si te gusta, el sakay, para añadir con cuidado."
   ],
   nutricion: { kcal: 810, prot: 43, hc: 66, grasa: 42 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "invierno", "batch cooking"],
@@ -673,8 +673,8 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla 5 minutos. Añade el ajo, el jengibre y el chile y remueve 1 minuto; agrega el curry y la cúrcuma 30 segundos y después el tomate, y cocina 4 minutos hasta que se espese.",
     "Incorpora los callos, el agua y sal. Cierra; cuando suba la válvula, baja el fuego y cuenta 30 minutos. Deja bajar la presión sola, unos 10 minutos. Mientras, pela la patata y córtala en dados de 2,5 cm, corta el pimiento en tiras y pica el cilantro.",
     "Abre y añade la patata y el pimiento. Cierra y cuenta 5 minutos; despresuriza rápido.",
-    "Vierte la leche de coco y cuece destapado a fuego suave 5 minutos, hasta que la salsa quede cremosa y cubra la cuchara. Los callos deben estar tiernos pero con un punto de mordida. Prueba de sal.",
-    "Fuera del fuego, añade el zumo de media lima y sirve con el cilantro y la otra media lima en gajos."
+    "Vierte la leche de coco y cuece destapado a fuego suave 5 minutos, hasta que la salsa quede cremosa y cubra la cuchara. Los callos deben estar tiernos pero con un punto de mordida. Prueba de sal. Mientras, corta media lima en gajos.",
+    "Fuera del fuego, añade el zumo de la otra media lima y sirve con el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 605, prot: 35, hc: 40, grasa: 34 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "económica", "picante", "invierno"],

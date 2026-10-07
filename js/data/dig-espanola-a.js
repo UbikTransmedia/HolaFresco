@@ -36,11 +36,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas en rodajas de 1,5 cm; la zanahoria, en rodajas de 1 cm para que se hagan a la vez. Cuécelas al vapor (en un cestillo sobre una cazuela con agua hirviendo) 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, ralla la piel de media naranja y exprime la naranja entera (unos 100 ml de zumo). Desmenuza el azafrán en el zumo y deja que suelte el color 5 minutos.",
+    "Mientras, ralla la piel de media naranja y exprime la naranja entera (unos 100 ml de zumo). Desmenuza el azafrán en el zumo y deja que suelte el color 5 minutos. Pica el perejil.",
     "Seca muy bien los filetes de lenguado con papel de cocina y sálalos. Calienta una sartén antiadherente a fuego medio-alto y extiende el aceite de oliva con un papel.",
     "Haz los filetes 1,5-2 minutos por el lado donde estaba la piel, sin moverlos, y 1 minuto por el otro, hasta que estén opacos y con un dorado ligero. Pásalos a platos calientes.",
     "Baja el fuego, añade el aceite de ajo a la misma sartén, espolvorea la harina de arroz y remueve 20 segundos. Vierte el zumo con el azafrán y 3 cucharadas de agua y cuece 1-2 minutos, removiendo, hasta que la salsa nape la cuchara. Añade la ralladura y una pizca de sal.",
-    "Napa el lenguado con la salsa y sirve la patata y la zanahoria al lado con el perejil picado por encima."
+    "Napa el lenguado con la salsa y sirve la patata y la zanahoria al lado con el perejil por encima."
   ],
   nutricion: { kcal: 395, prot: 32, hc: 42, grasa: 11 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten", "alta en proteína"],
@@ -76,10 +76,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en láminas de 3-4 mm y el pimiento verde en tiras finas sin semillas.",
     "Mezcla patatas y pimiento en una bandeja con el aceite de oliva, sal y 4 cucharadas de agua. Tapa con papel de aluminio y hornea 20 minutos; destapa y hornea 15 minutos más, hasta que estén tiernas y doradas por los bordes.",
-    "Seca muy bien los lomos de lubina con papel de cocina y haz 2-3 cortes superficiales en la piel para que no se encojan. Sálalos.",
+    "Mientras se hornean las patatas, seca muy bien los lomos de lubina con papel de cocina y haz 2-3 cortes superficiales en la piel para que no se encojan. Sálalos. Pica el perejil.",
     "Calienta una sartén antiadherente a fuego medio-alto con 1 cucharadita del aceite de ajo. Pon la lubina con la piel hacia abajo y presiona con una espátula los primeros 20 segundos. Cocina 4 minutos sin moverla, hasta que la piel esté dorada y crujiente y la carne blanca casi hasta arriba.",
     "Dale la vuelta, apaga el fuego y deja 1 minuto con el calor residual. Coloca los lomos, piel arriba, sobre las patatas.",
-    "Para el refrito, templa el resto del aceite de ajo en la misma sartén a fuego suave, retíralo del fuego, añade el vinagre de Jerez (cuidado, chisporrotea) y el perejil picado.",
+    "Para el refrito, templa el resto del aceite de ajo en la misma sartén a fuego suave, retíralo del fuego, añade el vinagre de Jerez (cuidado, chisporrotea) y el perejil.",
     "Riega el pescado y las patatas con el refrito justo antes de servir, para que la piel siga crujiente."
   ],
   nutricion: { kcal: 465, prot: 34, hc: 33, grasa: 22 },
@@ -117,8 +117,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos de 4 cm y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas.",
-    "Mientras, prepara la vinagreta: escalda el tomate 20 segundos, pélalo, quítale las semillas y córtalo en dados de medio centímetro. Mézclalo en un bol con las alcaparras picadas, el cebollino picado, el vinagre, 1 cucharada del aceite virgen extra y una pizca de sal.",
-    "Escurre las patatas, vuelve a ponerlas en la cazuela caliente y machácalas con un tenedor, sin hacerlas puré, con el resto del aceite virgen extra, el perejil picado y sal. Tápalas para que no se enfríen.",
+    "Mientras, prepara la vinagreta: escalda el tomate 20 segundos, pélalo, quítale las semillas y córtalo en dados de medio centímetro. Pica las alcaparras, el cebollino y el perejil, y mezcla el tomate en un bol con las alcaparras, el cebollino, el vinagre, 1 cucharada del aceite virgen extra y una pizca de sal.",
+    "Escurre las patatas, vuelve a ponerlas en la cazuela caliente y machácalas con un tenedor, sin hacerlas puré, con el resto del aceite virgen extra, el perejil y sal. Tápalas para que no se enfríen.",
     "Pasa la yema de los dedos por los filetes de salmonete para comprobar que no quedan espinas y sécalos muy bien con papel de cocina. Sálalos por la parte de la carne.",
     "Calienta la plancha a fuego medio-alto y píntala con el aceite de ajo. Pon los filetes con la piel hacia abajo y cocínalos 2 minutos sin moverlos, hasta que la piel esté crujiente y la carne casi opaca; dales la vuelta y deja solo 20-30 segundos más.",
     "Sirve una base de patata machacada, los salmonetes encima con la piel hacia arriba y la vinagreta de tomate alrededor."
@@ -160,9 +160,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas de 1,5 cm y cuécelas en agua con sal y el laurel 15 minutos, hasta que estén tiernas. Precalienta el horno a 220 °C con el grill.",
-    "Separa las vieiras de la concha con una cucharilla, lávalas con agua fría para quitar la arena y sécalas. Lava y seca 8 conchas hondas.",
-    "Para el sofrito, ralla el tomate y desecha la piel. Calienta el aceite de ajo en una sartén a fuego medio-bajo, rehoga la cebolleta picada 2 minutos, añade el jamón 1 minuto y el tomate, y cocina 5 minutos, hasta que espese. Fuera del fuego, añade el pimentón y remueve.",
-    "Mezcla el pan rallado con la mitad del perejil picado y el aceite de oliva, frotándolo con los dedos hasta que parezca arena húmeda.",
+    "Mientras se cuecen las patatas, separa las vieiras de la concha con una cucharilla, lávalas con agua fría para quitar la arena y sécalas. Lava y seca 8 conchas hondas. Pica la cebolleta y el perejil.",
+    "Para el sofrito, ralla el tomate y desecha la piel. Calienta el aceite de ajo en una sartén a fuego medio-bajo, rehoga la cebolleta 2 minutos, añade el jamón 1 minuto y el tomate, y cocina 5 minutos, hasta que espese. Fuera del fuego, añade el pimentón y remueve.",
+    "Mezcla el pan rallado con la mitad del perejil y el aceite de oliva, frotándolo con los dedos hasta que parezca arena húmeda.",
     "Coloca una vieira en cada concha con una pizca de sal, cúbrela con una cucharada de sofrito y espolvorea el pan rallado por encima. Pon las conchas en una bandeja, calzadas con papel de aluminio arrugado para que no vuelquen.",
     "Gratina 6-8 minutos, hasta que el pan esté dorado y la vieira opaca y tierna; no la dejes más o se vuelve correosa.",
     "Sirve 4 vieiras por persona con las patatas escurridas al lado y el resto del perejil por encima."
@@ -204,10 +204,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica muy fino las patas y las aletas de los calamares. Saltéalas 3 minutos en una sartén con media cucharada de aceite de ajo, hasta que suelten el agua y esta se evapore.",
-    "Fuera del fuego, mezcla las patas con el jamón, el huevo duro picado, el pan rallado sin gluten y el perejil picado. Rellena los cuerpos de los calamares hasta 2/3 (encogen al cocinarse) y ciérralos con un palillo.",
+    "Pica muy fino las patas y las aletas de los calamares, el huevo duro, el perejil y la cebolleta, y corta el pimiento asado en tiras. Saltea las patas y las aletas 3 minutos en una sartén con media cucharada de aceite de ajo, hasta que suelten el agua y esta se evapore.",
+    "Fuera del fuego, mezcla las patas con el jamón, el huevo, el pan rallado sin gluten y el perejil. Rellena los cuerpos de los calamares hasta 2/3 (encogen al cocinarse) y ciérralos con un palillo.",
     "En una cazuela, calienta el resto del aceite de ajo a fuego medio y marca los calamares 1 minuto por cada lado, hasta que tomen color. Sácalos.",
-    "En la misma cazuela, rehoga la cebolleta picada 2 minutos, añade el pimiento asado en tiras, el pimentón (remueve 10 segundos sin que se queme) y el tomate triturado. Cocina 5 minutos.",
+    "En la misma cazuela, rehoga la cebolleta 2 minutos, añade el pimiento asado, el pimentón (remueve 10 segundos sin que se queme) y el tomate triturado. Cocina 5 minutos.",
     "Tritura la salsa con el caldo hasta que quede lisa, devuélvela a la cazuela, mete los calamares y cuece tapado a fuego suave 35-40 minutos, hasta que un palillo los atraviese sin esfuerzo.",
     "Mientras, cuece el arroz en agua con sal 16-18 minutos, escúrrelo y moldéalo en un cuenco.",
     "Retira los palillos, corta los calamares por la mitad para ver el relleno y sírvelos con su salsa y el arroz al lado."
@@ -245,12 +245,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas.",
-    "Mientras, templa la leche sin lactosa con el azafrán desmenuzado y déjalo infusionar fuera del fuego.",
+    "Mientras, templa la leche sin lactosa con el azafrán desmenuzado y déjalo infusionar fuera del fuego. Pica el cebollino.",
     "En una sartén o cazo pequeño donde los lomos quepan justos, calienta el aceite de ajo a fuego muy suave hasta 65-70 °C (deben salir burbujas diminutas, nunca un hervor). Mete el bacalao con la piel hacia arriba: debe quedar casi cubierto.",
     "Confita 7-8 minutos sin que el aceite borbotee, hasta que el bacalao esté opaco y las lascas se separen al presionarlas. Sácalo con una espumadera y escúrrelo sobre papel de cocina.",
     "Escurre las patatas, cháfalas con un tenedor o pasapurés (no con batidora, que las vuelve chiclosas) y añade la leche al azafrán y 1 cucharada del aceite del confitado. Bate con varillas hasta que esté fino. Rectifica de sal.",
     "Para el aceite de pimentón, mezcla 1 cucharada del aceite templado del confitado con el pimentón dulce.",
-    "Sirve una cama de parmentier, el bacalao encima separado en lascas, unas gotas de aceite de pimentón y el cebollino picado."
+    "Sirve una cama de parmentier, el bacalao encima separado en lascas, unas gotas de aceite de pimentón y el cebollino."
   ],
   nutricion: { kcal: 415, prot: 32, hc: 33, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten", "para invitados"],
@@ -288,7 +288,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 190 °C. Pela las patatas y córtalas en láminas de 3-4 mm. Lava las espinacas, quítales los tallos gruesos y pícalas groseramente. Corta los tomates en rodajas de medio centímetro.",
     "Unta una fuente de horno con media cucharada del aceite de ajo, extiende las patatas en capas, sálalas, añade 4 cucharadas de agua y tapa con papel de aluminio. Hornea 20 minutos, hasta que estén casi tiernas.",
-    "Mientras, mezcla en un bol las espinacas con el perejil picado, la mitad del pimentón, media cucharada del aceite de ajo y una pizca de sal.",
+    "Mientras, pica el perejil y mézclalo en un bol con las espinacas, la mitad del pimentón, media cucharada del aceite de ajo y una pizca de sal.",
     "Saca la fuente y destápala. Reparte las espinacas sobre las patatas, coloca encima los lomos de dorada salados con la piel hacia arriba y cúbrelos con las rodajas de tomate. Espolvorea los piñones y el resto del pimentón y riega con el aceite de ajo que queda.",
     "Hornea destapado 15-18 minutos, hasta que el pescado esté opaco y se separe en lascas, el tomate arrugado y los piñones dorados. Las espinacas se habrán cocido en el jugo del pescado.",
     "Sirve directamente de la fuente, con gajos de limón y el jugo del fondo por encima."
@@ -368,8 +368,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 20 minutos. Mientras, precalienta el horno a 220 °C con el grill.",
-    "Prepara la pipirrana: pela el pepino, quítale las semillas con una cucharilla y córtalo en dados de medio centímetro. Corta igual el tomate (sin las semillas más acuosas) y el pimiento verde, muy menudo.",
-    "Mezcla las verduras en un bol con el cebollino picado, sal, el comino, el vinagre y 1 cucharada del aceite. Deja reposar en la nevera mientras haces el pescado: suelta un jugo delicioso.",
+    "Mientras se cuecen las patatas, prepara la pipirrana: pela el pepino, quítale las semillas con una cucharilla y córtalo en dados de medio centímetro. Corta igual el tomate (sin las semillas más acuosas) y el pimiento verde, muy menudo. Pica el cebollino.",
+    "Mezcla las verduras en un bol con el cebollino, sal, el comino, el vinagre y 1 cucharada del aceite. Deja reposar en la nevera mientras haces el pescado: suelta un jugo delicioso.",
     "Coloca los filetes de jurel con la piel hacia arriba sobre papel de horno, píntalos con el resto del aceite y sálalos. Ásalos 6-7 minutos bajo el grill, hasta que la piel burbujee y la carne esté opaca.",
     "Pela las patatas aún templadas, córtalas en rodajas y alíñalas con 2 cucharadas del jugo de la pipirrana.",
     "Sirve las patatas, el jurel encima y la pipirrana por encima con todo su jugo."
@@ -455,8 +455,8 @@ window.RECETAS_SEED.push({
     "Añade la carne de choricero, remueve 1 minuto y vierte el caldo con el laurel. Cuece 10 minutos a fuego suave.",
     "Retira el laurel y tritura la salsa hasta que quede fina y de color teja; si quieres una textura de restaurante, pásala por un colador.",
     "Devuelve la salsa y el pollo a la cazuela, tapa y guisa a fuego suave 20 minutos, hasta que el pollo esté tierno y la salsa untuosa. Si espesa demasiado, añade un poco de agua.",
-    "Mientras, pela las patatas, córtalas en dados y cuécelas al vapor 15-18 minutos.",
-    "Sirve el pollo con su salsa, las patatas al lado y el perejil picado por encima."
+    "Mientras, pela las patatas, córtalas en dados y cuécelas al vapor 15-18 minutos. Pica el perejil.",
+    "Sirve el pollo con su salsa, las patatas al lado y el perejil por encima."
   ],
   nutricion: { kcal: 485, prot: 43, hc: 37, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "bajo en colesterol", "verduras escondidas", "sin gluten", "batch cooking", "alta en proteína"],
@@ -496,12 +496,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata y la zanahoria, córtalas en trozos (la zanahoria más pequeña) y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas.",
-    "Mientras, pon los filetes de lomo entre dos hojas de papel de horno y aplánalos con el fondo de un cazo hasta dejarlos de medio centímetro. Salpimiéntalos y pásalos por la harina de arroz, sacudiendo bien: solo debe quedar un velo.",
+    "Mientras, pon los filetes de lomo entre dos hojas de papel de horno y aplánalos con el fondo de un cazo hasta dejarlos de medio centímetro. Salpimiéntalos y pásalos por la harina de arroz, sacudiendo bien: solo debe quedar un velo. Pica el perejil.",
     "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto y dora los filetes 1 minuto por cada lado, en dos tandas. Sácalos a un plato.",
     "Baja el fuego, añade el aceite de ajo, el zumo del limón y el caldo, y raspa el fondo con una cuchara de madera. Cuece 2 minutos, hasta que la salsa se reduzca a la mitad y espese ligeramente con la harina que soltaron los filetes.",
     "Devuelve los escalopines a la sartén con su jugo y dales 1 minuto por cada lado en la salsa, hasta que estén brillantes y hechos por dentro.",
     "Escurre la patata y la zanahoria, cháfalas con la leche caliente y la nuez moscada hasta tener un puré fino y rectifica de sal.",
-    "Sirve los escalopines con la salsa por encima, el perejil picado y el puré al lado."
+    "Sirve los escalopines con la salsa por encima, el perejil y el puré al lado."
   ],
   nutricion: { kcal: 470, prot: 37, hc: 38, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "verduras escondidas", "sin gluten", "para niños", "económica"],
@@ -537,9 +537,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la berenjena y córtala en dados de 1,5 cm, igual que el calabacín y el pimiento rojo. Sala la berenjena y déjala 10 minutos en un colador; sécala con papel. Ralla el tomate y desecha la piel.",
+    "Pela la berenjena y córtala en dados de 1,5 cm, igual que el calabacín y el pimiento rojo. Sala la berenjena y déjala 10 minutos en un colador; mientras, ralla el tomate (desecha la piel) y pica la cebolleta. Seca la berenjena con papel.",
     "Salpimienta el pollo. En una cazuela ancha, calienta media cucharada del aceite de ajo a fuego alto y dora el pollo 3-4 minutos, solo por fuera; por dentro debe quedar crudo. Sácalo.",
-    "Baja a fuego medio, añade el resto del aceite y el pimiento y cocina 5 minutos. Incorpora la berenjena y la cebolleta picada y cocina 5 minutos más, removiendo.",
+    "Baja a fuego medio, añade el resto del aceite y el pimiento y cocina 5 minutos. Incorpora la berenjena y la cebolleta y cocina 5 minutos más, removiendo.",
     "Añade el calabacín, el tomate rallado y el tomillo. Tapa y cocina a fuego suave 20 minutos, removiendo de vez en cuando, hasta que todas las verduras estén muy tiernas y melosas, casi deshechas.",
     "Mete el pollo con su jugo, tapa y cocina 6-7 minutos, hasta que esté hecho y blanco en el centro pero jugoso.",
     "Retira las ramas de tomillo, rectifica de sal y sirve."
@@ -581,8 +581,8 @@ window.RECETAS_SEED.push({
     "Pica la cebolleta y corta la zanahoria en rodajas gruesas. Seca la carne con papel, retira la grasa visible y salpimiéntala. En una cazuela de fondo grueso, calienta el aceite de ajo a fuego alto y dora la carne en dos tandas, 4-5 minutos cada una, hasta que tenga costra marrón. Sácala.",
     "Baja a fuego medio, añade la cebolleta y la zanahoria y rehoga 4 minutos, rascando el fondo con una cuchara de madera para despegar lo tostado.",
     "Vuelve a meter la carne, añade el pimentón, remueve 10 segundos y vierte el caldo caliente con el laurel. Debe quedar casi cubierta.",
-    "Tapa y guisa a fuego muy suave, con un hilo de burbujas, 1 hora y 20 minutos, removiendo cada 20 minutos y añadiendo un poco de agua si hace falta.",
-    "Añade las patatas peladas y cascadas en trozos de 3 cm y cuece 25 minutos más, hasta que la carne se deshaga al apretarla y la salsa esté espesa.",
+    "Tapa y guisa a fuego muy suave, con un hilo de burbujas, 1 hora y 20 minutos, removiendo cada 20 minutos y añadiendo un poco de agua si hace falta. En los últimos 10 minutos, pela las patatas y cáscalas en trozos de 3 cm.",
+    "Añade las patatas y cuece 25 minutos más, hasta que la carne se deshaga al apretarla y la salsa esté espesa.",
     "Deja reposar 10 minutos tapada antes de servir: la carne se relaja y la salsa liga."
   ],
   nutricion: { kcal: 485, prot: 44, hc: 35, grasa: 18 },
@@ -791,13 +791,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas en láminas de 3 mm. Ponlas en un recipiente apto con sal y 2 cucharadas de agua, tapa y cocínalas en el microondas 8-10 minutos a máxima potencia, removiendo a mitad, hasta que estén tiernas.",
+    "Pela las patatas y córtalas en láminas de 3 mm. Ponlas en un recipiente apto con sal y 2 cucharadas de agua, tapa y cocínalas en el microondas 8-10 minutos a máxima potencia, removiendo a mitad, hasta que estén tiernas. Mientras, pica la cebolleta y el perejil y ralla el tomate, desechando la piel.",
     "Bate los huevos con una pizca de sal, mezcla las patatas y deja reposar 5 minutos. Calienta el aceite de oliva en una sartén antiadherente de 20 cm a fuego medio y cuaja la tortilla 2 minutos por cada lado: debe quedar bien hecha, porque después se guisa. Córtala en 4 cuñas.",
-    "Para la salsa, ralla el tomate y desecha la piel. En una cazuela baja, calienta el aceite de ajo a fuego medio, rehoga la cebolleta picada 2 minutos y añade el tomate. Cocina 6 minutos, hasta que pierda el agua y se oscurezca.",
-    "Mientras, maja en el mortero las almendras con el perejil, el azafrán, una pizca de sal y 2 cucharadas del caldo, hasta tener una pasta.",
+    "Para la salsa, calienta el aceite de ajo en una cazuela baja a fuego medio, rehoga la cebolleta 2 minutos y añade el tomate. Cocina 6 minutos, hasta que pierda el agua y se oscurezca.",
+    "Mientras, maja en el mortero las almendras con casi todo el perejil, el azafrán, una pizca de sal y 2 cucharadas del caldo, hasta tener una pasta.",
     "Vierte el caldo caliente en la cazuela, disuelve la picada y cuece 5 minutos, hasta que la salsa empiece a trabar.",
     "Mete las cuñas de tortilla en la salsa y cuécelas a fuego suave 8-10 minutos, dándoles la vuelta a mitad y moviendo la cazuela, hasta que se empapen y la salsa espese.",
-    "Sirve en la misma cazuela, con un poco de perejil picado por encima."
+    "Sirve en la misma cazuela, con el resto del perejil por encima."
   ],
   nutricion: { kcal: 415, prot: 21, hc: 30, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "económica", "batch cooking"],
@@ -872,12 +872,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca las gambas con papel de cocina y córtalas por la mitad si son grandes. Bate ligeramente los huevos con una pizca de sal.",
+    "Seca las gambas con papel de cocina y córtalas por la mitad si son grandes. Bate ligeramente los huevos con una pizca de sal, pica el cebollino y pon el pan a tostar.",
     "Calienta la mitad del aceite de ajo en una sartén antiadherente a fuego vivo y saltea las gambas 1 minuto, solo hasta que se vuelvan rosadas. Sácalas.",
     "En la misma sartén, añade las espinacas y saltéalas 2 minutos, hasta que pierdan volumen. Escurre el agua que suelten y sálalas.",
     "Baja el fuego al mínimo, añade el resto del aceite, devuelve las gambas y vierte los huevos.",
     "Remueve sin parar con una espátula de silicona, haciendo ochos, 2-3 minutos, hasta que el huevo esté cuajado pero cremoso y brillante. Retira del fuego un momento antes de que parezca listo: el calor residual lo termina.",
-    "Espolvorea el cebollino picado y sirve enseguida con el pan sin gluten tostado."
+    "Espolvorea el cebollino y sirve enseguida con el pan tostado."
   ],
   nutricion: { kcal: 360, prot: 32, hc: 16, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "rápida", "alta en proteína"],
@@ -913,8 +913,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta los tomates en rodajas, sálalos, espolvorea el orégano y riega con el aceite de oliva virgen extra. Reserva mientras haces la tortilla.",
-    "Escurre bien el bonito y desmígalo en lascas grandes. Seca las tiras de pimiento con papel de cocina.",
-    "Bate los huevos con una pizca de sal y la mitad del cebollino picado. Añade el bonito y el pimiento y mezcla con cuidado para no deshacer las lascas.",
+    "Escurre bien el bonito y desmígalo en lascas grandes. Seca las tiras de pimiento con papel de cocina y pica el cebollino.",
+    "Bate los huevos con una pizca de sal y la mitad del cebollino. Añade el bonito y el pimiento y mezcla con cuidado para no deshacer las lascas.",
     "Calienta la cucharadita de aceite de oliva en una sartén antiadherente de 20 cm a fuego medio, vierte la mezcla y cuaja 2 minutos, despegando los bordes.",
     "Dale la vuelta con ayuda de un plato y cuaja 1 minuto más, hasta que esté dorada por fuera y jugosa por dentro.",
     "Sirve la tortilla con el resto del cebollino por encima y la ensalada de tomate al lado."
@@ -956,11 +956,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la calabaza, la zanahoria y la patata, córtalas en dados y cuécelas en el caldo 18-20 minutos, hasta que estén muy tiernas.",
-    "Mientras, corta el pan en dados de 1 cm. Calienta el aceite de ajo en una sartén a fuego medio y tuesta el pan 4-5 minutos, removiendo, hasta que esté dorado y crujiente. Apaga el fuego, añade el pimentón y remueve 10 segundos. Pásalas a un plato.",
+    "Mientras, corta el pan en dados de 1 cm. Calienta el aceite de ajo en una sartén a fuego medio y tuesta el pan 4-5 minutos, removiendo, hasta que esté dorado y crujiente. Apaga el fuego, añade el pimentón y remueve 10 segundos. Pásalas a un plato. Pica el cebollino.",
     "Tritura las verduras con el caldo justo para una crema espesa que se sostenga en el plato, y el aceite de oliva. Rectifica de sal y mantenla caliente.",
     "Para los huevos, lleva a ebullición suave un cazo con 8 cm de agua y el vinagre. Casca cada huevo en un colador fino para eliminar la clara más líquida y luego en una taza.",
     "Remueve el agua formando un remolino y desliza los huevos de uno en uno. Cocina 3 minutos a fuego bajo, sin que hierva a borbotones, hasta que la clara esté cuajada y la yema blanda. Sácalos con una espumadera y sécalos sobre papel.",
-    "Sirve la crema en platos hondos, 2 huevos en el centro, las migas por encima y el cebollino picado."
+    "Sirve la crema en platos hondos, 2 huevos en el centro, las migas por encima y el cebollino."
   ],
   nutricion: { kcal: 395, prot: 17, hc: 35, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "otoño", "invierno"],
@@ -1044,8 +1044,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 35-40 minutos, hasta que esté tierno; escúrrelo.",
-    "Mientras, corta el tempeh en lonchas de 1 cm y cuécelo al vapor o en agua hirviendo 10 minutos: pierde el amargor y absorbe mejor el aliño. Escúrrelo y aliña con el zumo del limón, el pimentón, una pizca de sal y la cucharadita de aceite de oliva.",
-    "Corta el calabacín y los pimientos en dados de 1 cm. En una cazuela, calienta el aceite de ajo a fuego medio y pocha los pimientos y la cebolleta picada 10 minutos, hasta que estén blandos.",
+    "Mientras, corta el tempeh en lonchas de 1 cm y cuécelo al vapor o en agua hirviendo 10 minutos: pierde el amargor y absorbe mejor el aliño. Mientras se cuece, corta el calabacín y los pimientos en dados de 1 cm y pica la cebolleta. Escurre el tempeh y alíñalo con el zumo del limón, el pimentón, una pizca de sal y la cucharadita de aceite de oliva.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y pocha los pimientos y la cebolleta 10 minutos, hasta que estén blandos.",
     "Añade el calabacín y cocina 5 minutos. Incorpora el tomate triturado y el comino, sala y cocina a fuego suave 12-15 minutos, removiendo, hasta que el pisto esté espeso y las verduras melosas.",
     "Calienta la plancha a fuego medio-alto y dora las lonchas de tempeh 2-3 minutos por cada lado, hasta que tengan una costra tostada.",
     "Sirve el arroz, el pisto al lado y el tempeh encima."
