@@ -31,7 +31,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Lava las patatas y córtalas en gajos con piel. Descorazona la manzana y córtala en 8 gajos.",
     "Mezcla las patatas en una bandeja con 1 cucharada de aceite, sal y pimienta y hornéalas 20 minutos. Añade entonces los gajos de manzana, remueve y hornea 12-15 minutos más, hasta que las patatas estén doradas y la manzana tierna.",
-    "Prepara el mojo verde: tritura con la batidora el cilantro y el perejil (hojas y tallos finos), el ajo, el pimiento verde troceado, el comino, el vinagre, 3 cucharadas de aceite y media cucharadita de sal. Añade 1-2 cucharadas de agua hasta que quede una salsa espesa pero fluida. Prueba y ajusta de sal y vinagre.",
+    "Mientras se asan, prepara el mojo verde: tritura con la batidora el cilantro y el perejil (hojas y tallos finos), el ajo, el pimiento verde troceado, el comino, el vinagre, 3 cucharadas de aceite y media cucharadita de sal. Añade 1-2 cucharadas de agua hasta que quede una salsa espesa pero fluida. Prueba y ajusta de sal y vinagre.",
     "Seca la heura con papel de cocina y espolvoréala con el pimentón y una pizca de sal.",
     "Calienta la cucharada de aceite restante en una sartén a fuego medio-alto y dora la heura 6-7 minutos, dándole la vuelta, hasta que esté tostada por fuera.",
     "Aparta la sartén del fuego y mezcla la heura con 2 cucharadas del mojo para que se impregne.",
@@ -75,9 +75,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pela el boniato y córtalo en dados de 2 cm. Mézclalo en una bandeja con 1 cucharada de aceite, el comino, el pimentón, sal y pimienta y hornéalo 20 minutos.",
+    "Mientras se asa el boniato, pon el bulgur en una cazuela con el caldo y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 10 minutos. Apaga, deja reposar tapado 5 minutos y ahuécalo con un tenedor.",
     "Pasados los 20 minutos, añade a la bandeja los tomates cherry enteros y hornea 8-10 minutos más, hasta que el boniato esté tierno y dorado y los cherry empiecen a reventar.",
-    "Mientras, pon el bulgur en una cazuela con el caldo y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 10 minutos. Apaga, deja reposar tapado 5 minutos y ahuécalo con un tenedor.",
-    "Prepara la salsa de menta: pica la menta fina y mézclala con el yogur, el ajo rallado (medio diente si es grande), el zumo de medio limón, una pizca de sal y un hilo de aceite.",
+    "Mientras, prepara la salsa de menta: pica la menta fina y mézclala con el yogur, el ajo rallado (medio diente si es grande), el zumo de medio limón, una pizca de sal y un hilo de aceite.",
     "Corta la cebolla morada en juliana muy fina y déjala 5 minutos en agua fría con el zumo del otro medio limón para suavizarla; escúrrela.",
     "Mezcla el bulgur tibio con la cucharada de aceite restante, la cebolla morada escurrida y la mitad del boniato y los cherry. Salpimienta.",
     "Reparte en platos, coloca encima el resto de boniato y cherry, desmenuza el queso griego por encima y termina con la salsa de menta y las semillas de calabaza."
@@ -218,11 +218,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Seca los garbanzos con un paño y mézclalos en una bandeja con 1 cucharada de aceite, la pasta de curry rojo diluida en 1 cucharadita de agua, la ralladura de la lima y una pizca de sal. Ásalos 25 minutos, sacudiendo la bandeja a mitad, hasta que estén crujientes.",
-    "Corta las cebollas en juliana fina. Cocínalas en una cazuela con 2 cucharadas de aceite y una pizca de sal a fuego medio-bajo durante 20 minutos, removiendo de vez en cuando, hasta que estén muy blandas y doradas. Añade el azúcar moreno los últimos 3 minutos para que caramelicen. Reserva un par de cucharadas para decorar.",
-    "Añade a la cazuela el ajo picado, el jengibre rallado y el curry en polvo y remueve 1 minuto. Incorpora la patata pelada en dados y el caldo, lleva a ebullición y cuece 12 minutos, hasta que la patata esté tierna.",
+    "Corta las cebollas en juliana fina. Cocínalas en una cazuela con 2 cucharadas de aceite y una pizca de sal a fuego medio-bajo durante 20 minutos, removiendo de vez en cuando, hasta que estén muy blandas y doradas. Mientras, pica el ajo, ralla el jengibre, pela la patata y córtala en dados, y pica el cilantro. Añade el azúcar moreno a la cebolla los últimos 3 minutos para que caramelice. Reserva un par de cucharadas para decorar.",
+    "Añade a la cazuela el ajo, el jengibre y el curry en polvo y remueve 1 minuto. Incorpora la patata y el caldo, lleva a ebullición y cuece 12 minutos, hasta que la patata esté tierna.",
     "Agrega el tofu desmenuzado, la leche de coco y la salsa de soja y cuece 3 minutos más para que se caliente todo.",
     "Tritura con la batidora hasta obtener una crema muy fina y sedosa. Si queda espesa, añade un poco de caldo o agua caliente. Salpimienta y añade el zumo de media lima.",
-    "Sirve la crema en boles con la cebolla caramelizada reservada, los garbanzos crujientes y el cilantro picado por encima. Lleva la otra media lima a la mesa."
+    "Sirve la crema en boles con la cebolla caramelizada reservada, los garbanzos crujientes y el cilantro por encima. Lleva la otra media lima a la mesa."
   ],
   nutricion: { kcal: 650, prot: 28, hc: 54, grasa: 34 },
   etiquetas: ["de cuchara", "al horno", "alta en proteína", "invierno"],
@@ -264,9 +264,9 @@ window.RECETAS_SEED.push({
     "Limpia los puerros (parte blanca y verde clara) y córtalos en rodajas. Pela y ralla el jengibre, pica el ajo, pela la patata y córtala en dados. Separa la coliflor en ramilletes, aprovechando también el tronco pelado y troceado.",
     "Calienta el aceite en una cazuela a fuego medio y rehoga el puerro con una pizca de sal 6 minutos, hasta que esté blando sin dorarse. Añade el jengibre, el ajo, el curry y la cúrcuma y remueve 1 minuto para que las especias suelten su aroma.",
     "Incorpora la coliflor y la patata, cubre con el caldo caliente y lleva a ebullición. Baja el fuego, tapa y cuece 18-20 minutos, hasta que la coliflor se deshaga al apretarla con la cuchara.",
-    "Mientras, tuesta las semillas de calabaza en una sartén sin aceite 2-3 minutos, hasta que se hinchen y empiecen a saltar.",
+    "Mientras, tuesta las semillas de calabaza en una sartén sin aceite 2-3 minutos, hasta que se hinchen y empiecen a saltar. Pica el cebollino y tuesta el pan.",
     "Añade la bebida vegetal a la cazuela y tritura con la batidora hasta obtener una crema muy fina. Ajusta la textura con más bebida vegetal o caldo si la quieres más ligera.",
-    "Salpimienta y añade unas gotas de zumo de limón para avivar el sabor. Sirve con las semillas de calabaza, el cebollino picado, un hilo de aceite y el pan tostado."
+    "Salpimienta y añade unas gotas de zumo de limón para avivar el sabor. Sirve con las semillas de calabaza, el cebollino, un hilo de aceite y el pan tostado."
   ],
   nutricion: { kcal: 400, prot: 11, hc: 38, grasa: 20 },
   etiquetas: ["de cuchara", "ligera", "batch cooking", "invierno", "económica", "detox", "bajo en colesterol"],
@@ -307,10 +307,10 @@ window.RECETAS_SEED.push({
     "Pela las zanahorias y córtalas en rodajas de 1 cm. Corta el puerro en rodajas, pela y ralla el jengibre y lamina los ajos.",
     "Calienta el aceite en una cazuela a fuego medio y rehoga el puerro con una pizca de sal 5 minutos, hasta que esté blando. Añade el jengibre, el ajo, la cúrcuma y la pasta de curry y remueve 1 minuto.",
     "Agrega las zanahorias, remueve para que se impregnen de las especias y cubre con el caldo. Lleva a ebullición, tapa y cuece a fuego medio-bajo 20 minutos, hasta que la zanahoria esté muy tierna.",
-    "Mientras, pica los cacahuetes gruesos y, si no estaban tostados, dóralos 2 minutos en una sartén sin aceite. Ralla la piel de la lima y resérvala.",
+    "Mientras, pica los cacahuetes gruesos y, si no estaban tostados, dóralos 2 minutos en una sartén sin aceite. Ralla la piel de la lima y resérvala, y pica el cilantro.",
     "Vierte la bebida vegetal y la salsa de soja en la cazuela y tritura con la batidora hasta obtener una crema lisa y aterciopelada. Ajusta de espesor con más bebida vegetal si hace falta.",
     "Añade el zumo de media lima, prueba y rectifica de sal y pimienta.",
-    "Sirve con los cacahuetes, el cilantro picado y la ralladura de lima por encima. Lleva la otra media lima a la mesa para quien quiera más acidez."
+    "Sirve con los cacahuetes, el cilantro y la ralladura de lima por encima. Lleva la otra media lima a la mesa para quien quiera más acidez."
   ],
   nutricion: { kcal: 410, prot: 9, hc: 40, grasa: 21 },
   etiquetas: ["de cuchara", "ligera", "batch cooking", "invierno", "económica", "detox", "bajo en colesterol"],
@@ -349,12 +349,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Pincha las berenjenas varias veces con un tenedor para que no revienten y ponlas enteras en una bandeja. Ásalas 40 minutos, dándoles la vuelta a mitad, hasta que la piel esté arrugada y oscura y se hundan al apretarlas.",
-    "Si tienes fuego de gas, quema la piel directamente sobre la llama 5 minutos antes de hornear: es lo que da el toque ahumado característico.",
+    "Precalienta el horno a 220 °C. Pincha las berenjenas varias veces con un tenedor para que no revienten. Si tienes fuego de gas, quema la piel directamente sobre la llama 5 minutos antes de hornear: es lo que da el toque ahumado característico.",
+    "Pon las berenjenas enteras en una bandeja y ásalas 40 minutos, dándoles la vuelta a mitad, hasta que la piel esté arrugada y oscura y se hundan al apretarlas. Mientras, corta la zanahoria, el pepino y el pimiento en bastones y los rábanos por la mitad, y pica el perejil.",
     "Deja templar las berenjenas 10 minutos. Ábrelas por la mitad, saca la pulpa con una cuchara y déjala escurrir en un colador 10 minutos para eliminar el jugo amargo.",
     "Tritura la pulpa con la batidora a golpes cortos (o pícala a cuchillo si la prefieres rústica) junto con el tahini, el ajo, el zumo de medio limón, el comino y media cucharadita de sal. Prueba y ajusta de limón y sal.",
-    "Corta la zanahoria, el pepino y el pimiento en bastones y los rábanos por la mitad. Calienta las pitas 1-2 minutos en el horno todavía caliente o en la tostadora y córtalas en triángulos.",
-    "Extiende el baba ganoush en un plato hondo, haz un surco con el dorso de la cuchara y riégalo con el aceite. Espolvorea el pimentón ahumado, el perejil picado y los granos de granada.",
+    "Calienta las pitas 1-2 minutos en el horno todavía caliente o en la tostadora y córtalas en triángulos.",
+    "Extiende el baba ganoush en un plato hondo, haz un surco con el dorso de la cuchara y riégalo con el aceite. Espolvorea el pimentón ahumado, el perejil y los granos de granada.",
     "Sirve con los crudités, las aceitunas y la pita templada para ir mojando."
   ],
   nutricion: { kcal: 540, prot: 13, hc: 52, grasa: 29 },

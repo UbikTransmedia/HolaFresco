@@ -35,8 +35,7 @@ window.RECETAS_SEED.push({
     "Extiende las verduras en una bandeja con papel de horno, riégalas con 1 cda de aceite, sal y pimienta, y hornéalas 15 minutos antes de añadir el pescado.",
     "Mientras, pica fino el ajo y el perejil y ralla la piel del limón. Mézclalos en un bol con el panko, el parmesano, 1 cda de aceite, sal y pimienta hasta que quede como arena húmeda.",
     "Seca los lomos de salmón con papel de cocina, salpimiéntalos y unta la cara superior con la mostaza. Presiona encima la mezcla de panko para formar una costra uniforme.",
-    "Saca la bandeja, remueve las verduras y haz hueco en el centro para colocar el salmón con la costra hacia arriba. Hornea 12-14 minutos más, hasta que la costra esté dorada y el salmón se abra en lascas al presionarlo.",
-    "Para la mayonesa al limón, mezcla la mayonesa con 1 cda de zumo de limón, un poco de ralladura y una pizca de pimienta.",
+    "Saca la bandeja, remueve las verduras y haz hueco en el centro para colocar el salmón con la costra hacia arriba. Hornea 12-14 minutos más, hasta que la costra esté dorada y el salmón se abra en lascas al presionarlo. Mientras, prepara la mayonesa al limón: mézclala con 1 cda de zumo de limón, un poco de ralladura y una pizca de pimienta; corta el limón restante en gajos.",
     "Sirve el salmón sobre las verduritas, con la mayonesa al limón al lado y un gajo de limón para exprimir por encima."
   ],
   nutricion: { kcal: 760, prot: 42, hc: 52, grasa: 43 },
@@ -76,9 +75,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el caldo a hervir en un cazo. Coloca el cuscús en un bol con una pizca de sal y 1 cdta de aceite, vierte encima el caldo hirviendo, tapa y deja reposar 5 minutos. Suéltalo después con un tenedor.",
     "Tuesta las avellanas en una sartén sin aceite a fuego medio 3-4 minutos, moviendo, hasta que huelan a tostado. Pícalas gruesas y resérvalas.",
-    "Para la salsa de yogur, ralla medio diente de ajo y mézclalo con el yogur griego, 1 cdta de zumo de limón, una pizca de sal y un chorrito de aceite.",
+    "Para la salsa de yogur, ralla medio diente de ajo y mézclalo con el yogur griego, 1 cdta de zumo de limón, una pizca de sal y un chorrito de aceite. Pica fino el resto del ajo.",
     "Seca los langostinos con papel de cocina y salpimiéntalos. Calienta 1 cda de aceite en la misma sartén a fuego fuerte y saltéalos 1 minuto por cada lado hasta que estén rosados.",
-    "Baja el fuego a medio, añade el resto del ajo picado y el pimentón, remueve 20 segundos y agrega la miel y 1 cda de zumo de limón. Deja que burbujee 1 minuto hasta que los langostinos queden glaseados y brillantes.",
+    "Baja el fuego a medio, añade el ajo picado y el pimentón, remueve 20 segundos y agrega la miel y 1 cda de zumo de limón. Deja que burbujee 1 minuto hasta que los langostinos queden glaseados y brillantes.",
     "Retira los langostinos a un plato y, en la misma sartén, saltea las espinacas 1-2 minutos hasta que se ablanden. Mézclalas con el cuscús.",
     "Reparte el cuscús con espinacas en dos boles, coloca encima los langostinos con su jugo, añade cucharadas de salsa de yogur y termina con las avellanas y el cilantro."
   ],
@@ -121,12 +120,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal desde frío unos 15 minutos hasta que estén tiernas. En los últimos 5 minutos añade el bacalao a la misma cazuela para que se cueza con las patatas. Escurre todo bien.",
-    "Mientras, prepara la entomatá: corta la cebolla, el puerro (parte blanca y verde clara) y los pimientos en dados pequeños. Sofríelos en una sartén con 2 cda de aceite a fuego medio-bajo 10-12 minutos, hasta que estén muy blandos y la cebolla transparente.",
+    "Mientras, prepara la entomatá: corta la cebolla, el puerro (parte blanca y verde clara) y los pimientos en dados pequeños, y pica los ajos y el perejil. Sofríe las verduras en una sartén con 2 cda de aceite a fuego medio-bajo 10-12 minutos, hasta que estén muy blandas y la cebolla transparente.",
     "Añade 1 diente de ajo picado, el pimentón y el comino, remueve 30 segundos y vierte el tomate triturado con el azúcar. Cocina a fuego medio 15 minutos sin tapar, removiendo de vez en cuando, hasta que el tomate espese y pierda acidez. Salpimienta.",
-    "Desmiga el bacalao con las manos retirando piel y espinas. Aplasta las patatas con un tenedor y mézclalas con el bacalao, el huevo batido, el otro diente de ajo picado muy fino, el perejil picado y pimienta. Prueba de sal: el bacalao suele aportar bastante.",
+    "Mientras se hace la entomatá, desmiga el bacalao con las manos retirando piel y espinas. Aplasta las patatas con un tenedor y mézclalas con el bacalao, el huevo batido, el otro diente de ajo picado, casi todo el perejil y pimienta. Prueba de sal: el bacalao suele aportar bastante.",
     "Forma 6 pastelitos del tamaño de la palma de la mano y pásalos por pan rallado. Si la masa está muy blanda, enfríala 10 minutos en la nevera.",
     "Calienta 1 cda de aceite en una sartén antiadherente a fuego medio y dora los pastelitos 3-4 minutos por cada lado, hasta que estén crujientes y dorados.",
-    "Sirve la entomatá caliente en la base del plato y coloca encima los pastelitos de bacalao. Termina con un poco de perejil picado."
+    "Sirve la entomatá caliente en la base del plato y coloca encima los pastelitos de bacalao. Termina con el perejil restante."
   ],
   nutricion: { kcal: 590, prot: 38, hc: 62, grasa: 19 },
   etiquetas: ["batch cooking", "económica", "para niños", "poco especiada", "bajo en colesterol"],
@@ -163,8 +162,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos regulares y cuécelas en agua con sal desde frío 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, prepara la gremolata: pica muy fino el perejil y el ajo y mézclalos con la ralladura del limón, 1 cda de aceite y una pizca de sal. Reserva.",
-    "Pela las zanahorias y córtalas en bastones; despunta las judías verdes y córtalas en dos. Cuécelas en agua hirviendo con sal 5 minutos y escúrrelas.",
+    "Mientras, pon a hervir un cazo de agua con sal y prepara la gremolata: pica muy fino el perejil y el ajo y mézclalos con la ralladura del limón, 1 cda de aceite y una pizca de sal. Reserva.",
+    "Pela las zanahorias y córtalas en bastones; despunta las judías verdes y córtalas en dos. Cuécelas en el cazo de agua hirviendo 5 minutos y escúrrelas.",
     "En una sartén, derrite 10 g de mantequilla con la miel y 2 cda de agua a fuego medio. Añade las verduras escurridas y saltéalas 3-4 minutos moviendo hasta que queden brillantes y glaseadas. Salpimienta.",
     "Escurre las patatas, devuélvelas a la cazuela caliente 1 minuto para que pierdan humedad y aplástalas con el resto de la mantequilla y la leche caliente. Ajusta de sal y pimienta y mantén el puré tapado.",
     "Seca los lomos de merluza con papel de cocina y salpimiéntalos. Calienta 1 cda de aceite en una sartén antiadherente a fuego medio-alto y cocínalos 3 minutos por el lado de la piel y 2 minutos por el otro, hasta que la carne se separe en lascas.",
@@ -202,8 +201,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 3-4 mm y colócalas en una fuente de horno con el aceite, el vino blanco, 1 diente de ajo laminado, sal y pimienta. Hornéalas 20 minutos hasta que empiecen a estar tiernas.",
-    "Mientras, prepara la mantequilla aromatizada: deja la mantequilla a temperatura ambiente y mézclala con los otros 2 dientes de ajo rallados, la ralladura de medio limón, el chile picado sin semillas, la mitad del perejil picado y una pizca de sal.",
+    "Saca la mantequilla de la nevera para que se ablande. Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 3-4 mm y colócalas en una fuente de horno con el aceite, el vino blanco, 1 diente de ajo laminado, sal y pimienta. Hornéalas 20 minutos hasta que empiecen a estar tiernas.",
+    "Mientras, prepara la mantequilla aromatizada: mezcla la mantequilla blanda con los otros 2 dientes de ajo rallados, la ralladura de medio limón, el chile picado sin semillas, la mitad del perejil picado y una pizca de sal.",
     "Seca los lomos de lubina con papel de cocina, haz dos cortes superficiales en la piel y salpimiéntalos por ambos lados.",
     "Saca la fuente del horno, reparte los tomates cherry entre las patatas y coloca encima los lomos con la piel hacia arriba. Unta la mantequilla sobre cada lomo y exprime el zumo de medio limón por encima.",
     "Hornea 12-14 minutos según el grosor, hasta que la piel esté dorada y la carne blanca y opaca al abrirla con un tenedor.",
@@ -243,11 +242,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga el arroz hasta que el agua salga clara y cuécelo tapado en 280 ml de agua con una pizca de sal: 12 minutos a fuego mínimo desde que hierva y 5 minutos de reposo sin destapar.",
-    "Separa el brócoli en ramilletes y cuécelo al vapor o en agua hirviendo con sal 4 minutos, hasta que esté verde intenso y tierno pero firme. Escúrrelo.",
-    "Mezcla en un bol la miel, la salsa de soja, la sriracha, el zumo de medio limón y los ajos rallados. Reserva el glaseado.",
+    "Mientras se cuece el arroz, separa el brócoli en ramilletes y cuécelo al vapor o en agua hirviendo con sal 4 minutos, hasta que esté verde intenso y tierno pero firme. Escúrrelo.",
+    "Mezcla en un bol la miel, la salsa de soja, la sriracha, el zumo de medio limón y los ajos rallados. Reserva el glaseado. Corta la cebolleta en rodajas finas.",
     "Seca los lomos de salmón y salpimiéntalos ligeramente (la soja ya aporta sal). Calienta el aceite en una sartén antiadherente a fuego medio-alto y colócalos con la piel hacia abajo. Cocina 4 minutos sin moverlos, hasta que la piel esté crujiente.",
     "Dales la vuelta, cocina 1 minuto y baja el fuego a medio. Vierte el glaseado sobre el salmón y deja que reduzca 2-3 minutos, bañando los lomos con una cuchara, hasta que la salsa espese y brille.",
-    "Sirve el salmón sobre el arroz con el brócoli al lado, riégalo con el glaseado restante y termina con el sésamo, la cebolleta en rodajas finas y unas gotas de limón."
+    "Sirve el salmón sobre el arroz con el brócoli al lado, riégalo con el glaseado restante y termina con el sésamo, la cebolleta y unas gotas de limón."
   ],
   nutricion: { kcal: 730, prot: 41, hc: 80, grasa: 27 },
   etiquetas: ["rápida", "picante", "alta en proteína", "para niños"],
@@ -275,11 +274,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca muy bien los lomos de bacalao con papel de cocina y comprueba que están en su punto de sal probando un trocito. Córtalos en 4 trozos si son muy grandes.",
-    "Pela las patatas, trocéalas y cuécelas en agua con sal unos 20 minutos hasta que estén tiernas. Escúrrelas y mantenlas calientes.",
+    "Pela las patatas, trocéalas y cuécelas en agua con sal unos 20 minutos hasta que estén tiernas.",
+    "Mientras, seca muy bien los lomos de bacalao con papel de cocina y comprueba que están en su punto de sal probando un trocito. Córtalos en 4 trozos si son muy grandes.",
     "Lamina los ajos y calienta el aceite en una cazuela ancha (mejor de barro o de fondo grueso) a fuego medio-bajo. Dora los ajos despacio 4-5 minutos junto con la guindilla, sin que se quemen, y retíralos a un plato.",
     "Deja que el aceite se temple hasta que apenas burbujee (unos 60-70 °C: al meter el bacalao debe hacer burbujas pequeñas, no freírse). Coloca los lomos con la piel hacia arriba y confítalos 8-10 minutos a fuego muy suave, dándoles la vuelta a mitad, hasta que la carne se separe en lascas.",
-    "Retira el bacalao a un plato caliente y deja que el aceite se enfríe 5 minutos: la gelatina que ha soltado el bacalao quedará en el fondo de la cazuela.",
+    "Retira el bacalao a un plato caliente y deja que el aceite se enfríe 5 minutos: la gelatina que ha soltado el bacalao quedará en el fondo de la cazuela. Mientras, escurre las patatas y mantenlas calientes.",
     "Mueve la cazuela con movimientos circulares constantes, sin cuchara, para que la gelatina y el aceite emulsionen poco a poco. Si cuesta, vierte el aceite despacio sobre la gelatina y liga con un colador pequeño haciendo círculos hasta obtener una salsa amarilla, espesa y brillante.",
     "Vuelve a colocar el bacalao en la cazuela con la salsa, calienta 1 minuto a fuego mínimo moviendo la cazuela, y sirve con los ajos y la guindilla por encima y las patatas al lado."
   ],
@@ -322,8 +321,8 @@ window.RECETAS_SEED.push({
     "Mientras, pela la piña y córtala en 4 rodajas de 1,5 cm retirando el centro duro. Mezcla en un bol la salsa de chile dulce, la salsa de soja, el ajo rallado, el jengibre rallado y el zumo de media lima.",
     "Seca los lomos de salmón, salpimiéntalos y úntalos con la mitad del glaseado. Déjalos marinar 10 minutos mientras se hornea el boniato.",
     "Saca la bandeja, aparta las verduras hacia los lados y coloca las rodajas de piña en el centro. Apoya encima los lomos de salmón con la piel hacia abajo.",
-    "Hornea 12-14 minutos. A mitad de cocción pinta el salmón con el glaseado restante. Está listo cuando la superficie brille, los bordes estén caramelizados y la carne se separe en lascas.",
-    "Sirve cada lomo sobre su rodaja de piña con el boniato y el pimiento al lado. Riega con el jugo de la bandeja, espolvorea el sésamo y la cebolleta en rodajas finas y termina con el cilantro y la media lima restante en gajos."
+    "Hornea 12-14 minutos. A mitad de cocción pinta el salmón con el glaseado restante. Está listo cuando la superficie brille, los bordes estén caramelizados y la carne se separe en lascas. Mientras, corta la cebolleta en rodajas finas, pica el cilantro y corta la media lima restante en gajos.",
+    "Sirve cada lomo sobre su rodaja de piña con el boniato y el pimiento al lado. Riega con el jugo de la bandeja, espolvorea el sésamo y la cebolleta y termina con el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 660, prot: 35, hc: 67, grasa: 27 },
   etiquetas: ["todo al horno", "al horno", "picante", "verano"],
@@ -358,12 +357,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Separa la coliflor en ramilletes y cuécela en agua con sal junto con el diente de ajo pelado 12-15 minutos, hasta que esté muy tierna. Escúrrela a fondo y devuélvela a la cazuela caliente 1 minuto para que pierda humedad.",
-    "Tritura la coliflor y el ajo con la batidora junto con la nata caliente, la mantequilla y el parmesano hasta obtener un puré muy fino. Añade la mitad del aceite de trufa, sal y pimienta, y mantén caliente tapado.",
-    "Seca muy bien los lomos de lubina con papel de cocina y haz 3 cortes superficiales en la piel para que no se curven. Salpimienta por ambos lados.",
+    "Separa la coliflor en ramilletes y cuécela en agua con sal junto con el diente de ajo pelado 12-15 minutos, hasta que esté muy tierna. Mientras, templa la nata en un cazo, pica fino el cebollino y seca muy bien los lomos de lubina con papel de cocina; haz 3 cortes superficiales en la piel para que no se curven y salpimiéntalos por ambos lados.",
+    "Escurre la coliflor a fondo y devuélvela a la cazuela caliente 1 minuto para que pierda humedad. Tritúrala con el ajo con la batidora junto con la nata caliente, la mantequilla y el parmesano hasta obtener un puré muy fino. Añade la mitad del aceite de trufa, sal y pimienta, y mantén caliente tapado.",
     "Calienta la plancha o una sartén antiadherente a fuego fuerte con el aceite de oliva. Coloca los lomos con la piel hacia abajo y presiona 20 segundos con una espátula para que la piel contacte por completo.",
     "Cocina 4-5 minutos por el lado de la piel sin moverlos, hasta que esté dorada y crujiente y la carne se vea opaca casi hasta arriba. Dales la vuelta y cocina solo 30-45 segundos más.",
-    "Pica el cebollino fino. Extiende el parmentier en el centro de cada plato, apoya encima la lubina con la piel hacia arriba, espolvorea el cebollino y termina con unas gotas de limón y el resto del aceite de trufa."
+    "Extiende el parmentier en el centro de cada plato, apoya encima la lubina con la piel hacia arriba, espolvorea el cebollino y termina con unas gotas de limón y el resto del aceite de trufa."
   ],
   nutricion: { kcal: 515, prot: 40, hc: 18, grasa: 32 },
   etiquetas: ["ligera", "alta en proteína", "para invitados", "keto", "poco especiada"],

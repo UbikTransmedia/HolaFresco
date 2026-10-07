@@ -40,14 +40,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz en un colador con agua fría, frotándolo con los dedos, hasta que el agua salga casi clara (3 o 4 aguas). Así no queda pegajoso.",
+    "Pon las guindillas en remojo en agua caliente 10 minutos. Mientras, lava el arroz en un colador con agua fría, frotándolo con los dedos, hasta que el agua salga casi clara (3 o 4 aguas). Así no queda pegajoso.",
     "Ponlo en una cazuela con la leche de coco, los 100 ml de agua, el jengibre en láminas, la hierba limón chafada y anudada y una pizca de sal. Lleva a ebullición, tapa, baja al mínimo y cuece 12 minutos. Apaga y deja reposar tapado 10 minutos más.",
-    "Mientras, cuece los huevos 10 minutos en agua hirviendo, pásalos a agua fría, pélalos y pártelos por la mitad.",
+    "Mientras, cuece los huevos 10 minutos en agua hirviendo, pásalos a agua fría, pélalos y pártelos por la mitad. Corta el pepino en rodajas.",
     "Para el sambal, tritura las guindillas escurridas con las chalotas, el ajo y 1 cucharada de agua hasta tener una pasta roja y espesa.",
     "En una sartén con 1 cucharada de aceite, tuesta los cacahuetes a fuego medio 3 o 4 minutos, removiendo, hasta que estén dorados. Sácalos con un poco de sal.",
     "En la misma sartén, añade el resto del aceite y sofríe la pasta de guindilla a fuego medio-bajo 8 minutos, removiendo a menudo, hasta que oscurezca y el aceite se separe por los bordes. Añade el tamarindo, el azúcar y sal y cocina 2 minutos más.",
     "Sube el fuego, incorpora las gambas y saltéalas en el sambal 2 o 3 minutos, hasta que estén rosadas y bien cubiertas.",
-    "Retira la hierba limón y el jengibre del arroz y espónjalo con un tenedor. Sirve en cada plato un montón de arroz con el sambal de gambas, medio huevo por cada lado, los cacahuetes y el pepino en rodajas."
+    "Retira la hierba limón y el jengibre del arroz y espónjalo con un tenedor. Sirve en cada plato un montón de arroz con el sambal de gambas, medio huevo por cada lado, los cacahuetes y el pepino."
   ],
   nutricion: { kcal: 875, prot: 38, hc: 77, grasa: 46 },
   etiquetas: ["tradicional", "picante", "sin gluten", "ideal para llevar"],
@@ -139,10 +139,10 @@ window.RECETAS_SEED.push({
     "Tritura las otras 3 chalotas con el ajo, el jengibre, la cúrcuma, el cilantro molido y 2 cucharadas de agua hasta tener una pasta fina.",
     "En una cazuela, sofríe la pasta con el aceite de las chalotas a fuego medio 5 minutos, removiendo, hasta que pierda el olor a crudo y se oscurezca un poco.",
     "Añade el pollo, la hierba limón chafada y anudada y el agua. Lleva a ebullición, espuma y cuece a fuego suave 35 minutos, hasta que la carne se separe del hueso. Sazona con sal y pimienta blanca.",
-    "Mientras, cuece los huevos 10 minutos, enfríalos y pélalos. Hidrata los fideos en agua hirviendo según el paquete (unos 4 minutos) y escúrrelos.",
+    "Mientras, cuece los huevos 10 minutos, enfríalos y pélalos. Hidrata los fideos en agua hirviendo según el paquete (unos 4 minutos) y escúrrelos. Corta la col en juliana fina, la cebolleta en aros y la lima en cuñas.",
     "Saca el pollo, desmígalo descartando los huesos y devuélvelo al caldo. Retira la hierba limón.",
-    "Corta la col en juliana fina y la cebolleta en aros. Reparte en cuencos los fideos, la col y los brotes de soja y vierte encima el caldo hirviendo con el pollo: el calor los deja tiernos pero crujientes.",
-    "Termina con medio huevo por cuenco, la cebolleta, la chalota frita y cuñas de lima."
+    "Reparte en cuencos los fideos, la col y los brotes de soja y vierte encima el caldo hirviendo con el pollo: el calor los deja tiernos pero crujientes.",
+    "Termina con medio huevo por cuenco, la cebolleta, la chalota frita y las cuñas de lima."
   ],
   nutricion: { kcal: 530, prot: 39, hc: 39, grasa: 24 },
   etiquetas: ["tradicional", "de cuchara", "sin gluten", "invierno", "alta en proteína", "poco especiada"],
@@ -183,12 +183,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua (aparte de la del caldo), tapado, 12 minutos a fuego mínimo; deja reposar tapado.",
+    "Mientras, pon a hervir los 800 ml de agua en una cazuela. Corta los tomates en gajos, la merluza en trozos de 4 cm y el chile en rodajas, y pica el cilantro y la albahaca.",
     "Pica el ajo y fríelo en una sartén pequeña con el aceite a fuego medio-bajo 2 minutos, hasta que esté dorado claro. Pásalo con su aceite a un cuenco: se dora un poco más con el calor residual.",
-    "En una cazuela, lleva a ebullición los 800 ml de agua. Disuelve el tamarindo con un cucharón de agua caliente y añádelo con la salsa de pescado y el azúcar.",
-    "Echa la piña y los tomates en gajos y cuece 4 minutos, hasta que el tomate empiece a ablandarse. Prueba: debe estar claramente ácido, luego dulce y salado; corrige con azúcar o salsa de pescado.",
-    "Corta la merluza en trozos de 4 cm, métela en el caldo y cuece a fuego suave 3 o 4 minutos, sin remover, hasta que esté opaca.",
-    "Añade los brotes de soja y el chile en rodajas y apaga el fuego enseguida: los brotes deben quedar crujientes.",
-    "Sirve en cuencos con el cilantro y la albahaca picados y el ajo frito con su aceite por encima, y el arroz al lado para ir mojando."
+    "Cuando el agua hierva, disuelve el tamarindo con un cucharón de agua caliente y añádelo con la salsa de pescado y el azúcar.",
+    "Echa la piña y los tomates y cuece 4 minutos, hasta que el tomate empiece a ablandarse. Prueba: debe estar claramente ácido, luego dulce y salado; corrige con azúcar o salsa de pescado.",
+    "Mete la merluza en el caldo y cuece a fuego suave 3 o 4 minutos, sin remover, hasta que esté opaca.",
+    "Añade los brotes de soja y el chile y apaga el fuego enseguida: los brotes deben quedar crujientes.",
+    "Sirve en cuencos con el cilantro y la albahaca y el ajo frito con su aceite por encima, y el arroz al lado para ir mojando."
   ],
   nutricion: { kcal: 530, prot: 34, hc: 76, grasa: 10 },
   etiquetas: ["tradicional", "rápida", "sin gluten", "sin lácteos", "verano", "bajo en colesterol"],
@@ -233,11 +234,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el morcillo en una cazuela con agua fría, lleva a ebullición, cuece 5 minutos, escúrrelo y enjuágalo. Así el caldo sale limpio.",
     "Vuelve a ponerlo en la cazuela limpia con los 1500 ml de agua, 2 tallos de hierba limón chafados y anudados y 2 chalotas partidas por la mitad. Cuece a fuego muy suave, apenas burbujeando, 1 hora y 30 minutos, hasta que un cuchillo lo atraviese sin resistencia.",
-    "Mientras, prepara el aceite de chile: pica muy fino el tallo de hierba limón restante (solo la parte tierna), la chalota que queda, el ajo y las guindillas. Sofríelo en el aceite a fuego bajo 4 minutos, hasta que esté fragante, y añade el pimentón fuera del fuego.",
+    "Mientras, prepara el aceite de chile: pica muy fino el tallo de hierba limón restante (solo la parte tierna), la chalota que queda, el ajo y las guindillas. Sofríelo en el aceite a fuego bajo 4 minutos, hasta que esté fragante, y añade el pimentón fuera del fuego. Corta la cebolleta en aros, deshoja el cilantro y la menta y corta la lima en cuñas.",
     "Diluye la pasta de gambas en un cucharón de caldo, déjala reposar un minuto y añade solo el líquido a la cazuela. Sazona el caldo con la salsa de pescado y el azúcar y agrega la mitad del aceite de chile.",
-    "Saca el morcillo, déjalo templar y córtalo en lonchas finas contra la fibra. Retira la hierba limón y las chalotas del caldo.",
-    "Cuece los fideos según el paquete (entre 6 y 10 minutos los gruesos), escúrrelos y repártelos en cuencos grandes.",
-    "Coloca encima la ternera, vierte el caldo hirviendo y termina con la cebolleta en aros, el resto del aceite de chile al gusto y los brotes de soja, el cilantro, la menta y la lima en un plato aparte para que cada uno se sirva."
+    "Pon a hervir agua para los fideos. Saca el morcillo, déjalo templar y córtalo en lonchas finas contra la fibra. Retira la hierba limón y las chalotas del caldo.",
+    "Cuece los fideos en el agua hirviendo según el paquete (entre 6 y 10 minutos los gruesos), escúrrelos y repártelos en cuencos grandes.",
+    "Coloca encima la ternera, vierte el caldo hirviendo y termina con la cebolleta, el resto del aceite de chile al gusto y los brotes de soja, el cilantro, la menta y la lima en un plato aparte para que cada uno se sirva."
   ],
   nutricion: { kcal: 640, prot: 43, hc: 67, grasa: 22 },
   etiquetas: ["tradicional", "picante", "de cuchara", "sin gluten", "invierno"],
@@ -275,15 +276,16 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "aceite de girasol", q: 2, u: "cda" },
-    { n: "pimienta negra", u: "al gusto" }
+    { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" }
   ],
   pasos: [
     "Pela el rábano, córtalo en rodajas gruesas y cuécelo en el caldo a fuego suave 15 minutos: le da al caldo el dulzor limpio típico.",
-    "Mientras, pica muy fino el ajo y fríelo en una sartén con el aceite a fuego medio-bajo 2 o 3 minutos, removiendo, hasta que esté dorado claro. Sácalo con su aceite a un cuenco.",
+    "Mientras, pon a hervir agua para los fideos. Pica muy fino el ajo y fríelo en una sartén con el aceite a fuego medio-bajo 2 o 3 minutos, removiendo, hasta que esté dorado claro. Sácalo con su aceite a un cuenco. Corta la cebolleta en aros y el chile en rodajas, deshoja el cilantro y corta la lima en cuñas.",
     "Sazona el caldo con la salsa de pescado y el azúcar. Echa el cerdo picado desmenuzándolo con una cuchara y cuece 3 minutos, hasta que esté blanco y suelto.",
     "Añade las gambas y cuece 2 minutos, hasta que estén rosadas. Apaga el fuego.",
-    "Cuece los fideos en agua hirviendo según el paquete (unos 4 minutos), escúrrelos y repártelos en cuencos con los brotes de soja.",
-    "Vierte el caldo hirviendo con la carne, las gambas y el rábano. Termina con la cebolleta en aros, el cilantro, el ajo frito con un hilo de su aceite, pimienta negra recién molida, chile en rodajas y cuñas de lima."
+    "Cuece los fideos en el agua hirviendo según el paquete (unos 4 minutos), escúrrelos y repártelos en cuencos con los brotes de soja.",
+    "Vierte el caldo hirviendo con la carne, las gambas y el rábano. Termina con la cebolleta, el cilantro, el ajo frito con un hilo de su aceite, pimienta negra recién molida, el chile y las cuñas de lima."
   ],
   nutricion: { kcal: 535, prot: 34, hc: 57, grasa: 19 },
   etiquetas: ["tradicional", "de cuchara", "sin gluten", "económica"],
@@ -326,13 +328,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el agua en una cazuela con 1 tallo de hierba limón chafado y media cucharadita de cúrcuma. Cuando hierva, añade el pescado y escálfalo a fuego suave 8 minutos. Sácalo, desmígalo sin piel ni espinas y reserva el caldo.",
+    "Pon el agua en una cazuela con 1 tallo de hierba limón chafado y media cucharadita de cúrcuma y llévala a ebullición. Mientras se calienta, tritura la cebolla, el ajo, el jengibre y la parte tierna del otro tallo de hierba limón con 2 cucharadas de agua hasta tener una pasta.",
+    "Cuando hierva, añade el pescado y escálfalo a fuego suave 8 minutos. Sácalo, desmígalo sin piel ni espinas y reserva el caldo.",
     "Tuesta las dos harinas en una sartén sin aceite a fuego medio-bajo 4 o 5 minutos, removiendo sin parar, hasta que tomen color beige y huelan a fruto seco. Pásalas a un cuenco y disuélvelas con un cucharón de caldo frío o templado, sin grumos.",
-    "Tritura la cebolla, el ajo, el jengibre y la parte tierna del otro tallo de hierba limón con 2 cucharadas de agua hasta tener una pasta.",
     "En la cazuela vacía, sofríe la pasta con el aceite a fuego medio 8 minutos, hasta que se dore y el aceite se separe. Añade el resto de la cúrcuma, el pimentón y el pescado desmigado y remueve 1 minuto.",
     "Vierte el caldo colado y la mezcla de harinas, removiendo. Sazona con la salsa de pescado y pimienta y cuece a fuego suave 15 minutos, removiendo de vez en cuando, hasta que espese como una crema ligera.",
-    "Mientras, cuece los huevos 10 minutos, enfríalos y pártelos en cuartos. Hidrata los fideos según el paquete y escúrrelos.",
-    "Reparte los fideos en cuencos, cubre con la sopa y termina con el huevo, el cilantro picado y un buen chorro de lima."
+    "Mientras, cuece los huevos 10 minutos, enfríalos y pártelos en cuartos. Hidrata los fideos según el paquete y escúrrelos. Pica el cilantro.",
+    "Reparte los fideos en cuencos, cubre con la sopa y termina con el huevo, el cilantro y un buen chorro de lima."
   ],
   nutricion: { kcal: 610, prot: 40, hc: 63, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "sin gluten", "invierno", "sin verduras", "poco especiada"],
@@ -373,8 +375,8 @@ window.RECETAS_SEED.push({
     "Pela el jengibre y córtalo en bastones finos. Pica la cebolla y el ajo.",
     "En una cazuela con el aceite, sofríe el jengibre, el ajo y la cebolla a fuego medio 4 minutos, hasta que la cebolla esté transparente y el jengibre perfume la cocina.",
     "Añade el pollo y la salsa de pescado y remueve 3 minutos, hasta que la carne pierda el color rosado por fuera.",
-    "Vierte los 900 ml de agua, lleva a ebullición, espuma y cuece a fuego suave 20 minutos, hasta que el pollo esté tierno.",
-    "Añade el calabacín en medias lunas gruesas y cuece 5 minutos, hasta que esté tierno pero entero. Prueba y ajusta con pimienta o un poco más de salsa de pescado.",
+    "Vierte los 900 ml de agua, lleva a ebullición, espuma y cuece a fuego suave 20 minutos, hasta que el pollo esté tierno. Mientras, corta el calabacín en medias lunas gruesas.",
+    "Añade el calabacín y cuece 5 minutos, hasta que esté tierno pero entero. Prueba y ajusta con pimienta o un poco más de salsa de pescado.",
     "Apaga el fuego, echa las espinacas y deja que se ablanden 1 minuto con el calor. Sirve en cuencos con el arroz al lado o dentro del caldo."
   ],
   nutricion: { kcal: 505, prot: 37, hc: 53, grasa: 16 },
@@ -419,11 +421,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura las chalotas, el ajo, el chile y el jengibre con un poco de agua hasta tener una pasta.",
-    "Lleva el agua a ebullición en una cazuela con la pasta, el laurel y los cacahuetes. Cuece a fuego medio 12 minutos, hasta que los cacahuetes empiecen a estar tiernos.",
-    "Corta la mazorca en rodajas de 3 cm y añádelas. Cuece 5 minutos.",
+    "Lleva el agua a ebullición en una cazuela con la pasta, el laurel y los cacahuetes. Cuece a fuego medio 12 minutos, hasta que los cacahuetes empiecen a estar tiernos. Mientras, corta la mazorca en rodajas de 3 cm, las judías verdes en trozos de 4 cm, el calabacín en dados grandes, la col en trozos y el tomate en gajos.",
+    "Añade la mazorca y cuece 5 minutos.",
     "Mientras, corta el tempeh en lonchas de 1 cm, sálalo y fríelo en una sartén con el aceite a fuego medio 3 minutos por cada lado, hasta que esté dorado y crujiente. Escúrrelo sobre papel.",
-    "Añade a la cazuela las judías verdes en trozos de 4 cm y el calabacín en dados grandes y cuece 4 minutos.",
-    "Incorpora la col en trozos, el tomate en gajos, el tamarindo disuelto en un poco de caldo, el azúcar y sal. Cuece 2 minutos más: la col debe quedar algo crujiente.",
+    "Añade a la cazuela las judías verdes y el calabacín y cuece 4 minutos.",
+    "Incorpora la col, el tomate, el tamarindo disuelto en un poco de caldo, el azúcar y sal. Cuece 2 minutos más: la col debe quedar algo crujiente.",
     "Prueba: el caldo tiene que ser claramente ácido con fondo dulce. Sirve en cuencos con el tempeh frito al lado para ir mojando."
   ],
   nutricion: { kcal: 580, prot: 26, hc: 49, grasa: 32 },
@@ -466,10 +468,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la calabaza en dados de 2 cm y pica la cebolla, el ajo y el jengibre. Chafa la hierba limón con el lado del cuchillo.",
     "En una cazuela con la mitad del aceite, sofríe la cebolla a fuego medio 4 minutos, hasta que esté transparente. Añade el ajo, el jengibre y la pasta de curry y remueve 1 minuto, hasta que huela intensamente.",
-    "Incorpora la calabaza, la hierba limón, el caldo y 150 ml de la leche de coco. Cuece tapado a fuego medio 15 minutos, hasta que la calabaza se deshaga al pincharla.",
+    "Incorpora la calabaza, la hierba limón, el caldo y 150 ml de la leche de coco. Cuece tapado a fuego medio 15 minutos, hasta que la calabaza se deshaga al pincharla. Mientras, seca bien los langostinos y pica el cilantro.",
     "Retira la hierba limón, añade la salsa de pescado y el zumo de media lima y tritura hasta que quede muy fina. Ajusta de sal y, si está espesa, aclara con un poco de agua.",
-    "Seca bien los langostinos y saltéalos en una sartén muy caliente con el resto del aceite y una pizca de sal 1 minuto por cada lado, hasta que estén rosados y dorados.",
-    "Sirve la crema con los langostinos encima, un hilo del resto de la leche de coco, el cilantro picado y la ralladura de la otra media lima."
+    "Saltea los langostinos en una sartén muy caliente con el resto del aceite y una pizca de sal 1 minuto por cada lado, hasta que estén rosados y dorados.",
+    "Sirve la crema con los langostinos encima, un hilo del resto de la leche de coco, el cilantro y la ralladura de la otra media lima."
   ],
   nutricion: { kcal: 455, prot: 23, hc: 31, grasa: 27 },
   etiquetas: ["creativa", "sin gluten", "ligera", "otoño", "picante"],
@@ -515,9 +517,9 @@ window.RECETAS_SEED.push({
     "Pela el boniato y córtalo en dados de 2 cm. Pica la cebolla, el ajo y el jengibre.",
     "En una cazuela con un chorrito del aceite, sofríe la cebolla 4 minutos a fuego medio. Añade el ajo, el jengibre, el cilantro molido y el comino y remueve 1 minuto.",
     "Incorpora el boniato y el caldo, tapa y cuece 15 minutos, hasta que esté muy tierno.",
-    "Mientras, seca el tofu apretándolo entre papel de cocina, córtalo en dados de 1,5 cm, sálalo y rebózalo en la maicena. Dóralo en una sartén con el resto del aceite a fuego medio-alto 6 o 7 minutos, girándolo, hasta que esté crujiente por todas las caras.",
+    "Mientras, seca el tofu apretándolo entre papel de cocina, córtalo en dados de 1,5 cm, sálalo y rebózalo en la maicena. Dóralo en una sartén con el resto del aceite a fuego medio-alto 6 o 7 minutos, girándolo, hasta que esté crujiente por todas las caras. Si usas chile, córtalo en rodajas finas.",
     "Añade a la cazuela la crema de cacahuete, la leche de coco, el tamari y el zumo de media lima y tritura hasta que esté lisa. Ajusta de sal y aclara con agua si está muy espesa.",
-    "Sirve la crema con el tofu crujiente, los cacahuetes picados, el chile en rodajas finas si te gusta picante y cuñas del resto de la lima."
+    "Sirve la crema con el tofu crujiente, los cacahuetes picados, el chile si te gusta picante y cuñas del resto de la lima."
   ],
   nutricion: { kcal: 665, prot: 26, hc: 60, grasa: 36 },
   etiquetas: ["creativa", "vegana", "sin gluten", "económica", "invierno"],
@@ -560,7 +562,7 @@ window.RECETAS_SEED.push({
     "Pon en el vaso de la batidora el pepino, el yogur, la leche de coco, la hierba limón, el ajo, las hojas de la mitad de la menta, el cilantro, el chile sin semillas, el zumo de la lima, el azúcar y sal.",
     "Tritura a máxima potencia 2 minutos, hasta que esté muy fina. Pásala por un colador apretando con una cuchara para retener las fibras de la hierba limón.",
     "Prueba y ajusta de sal y lima: debe estar fresca y algo ácida. Si está muy espesa, aclara con un poco de agua fría.",
-    "Enfría al menos 30 minutos en la nevera o sirve con un par de cubitos. Termina con los daditos de pepino, los cacahuetes picados y el resto de la menta."
+    "Enfría al menos 30 minutos en la nevera o sirve con un par de cubitos; mientras se enfría, pica los cacahuetes. Termina con los daditos de pepino, los cacahuetes y el resto de la menta."
   ],
   nutricion: { kcal: 360, prot: 11, hc: 19, grasa: 27 },
   etiquetas: ["creativa", "sin cocción", "rápida", "verano", "ligera", "sin gluten"],
@@ -597,14 +599,15 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 0.5, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de girasol", q: 1, u: "cda" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" }
   ],
   pasos: [
     "Pica la cebolla, el ajo y el jengibre. En una cazuela con el aceite, sofríe la cebolla a fuego medio 4 minutos, hasta que esté transparente.",
     "Añade el ajo, el jengibre y la pasta de curry y remueve 1 minuto, hasta que la pasta suelte su aroma.",
     "Incorpora la coliflor, el caldo y la leche de coco (reserva 2 cucharadas). Cuece tapado 15 minutos, hasta que la coliflor esté muy tierna.",
-    "Mientras, tuesta los anacardos en una sartén sin aceite a fuego medio 4 minutos, hasta que estén dorados, y pícalos groseramente.",
-    "Pon los huevos en agua hirviendo y cuécelos exactamente 6 minutos. Pásalos a agua con hielo 2 minutos y pélalos con cuidado: la yema quedará líquida.",
+    "Mientras, pon a hervir agua para los huevos y tuesta los anacardos en una sartén sin aceite a fuego medio 4 minutos, hasta que estén dorados; pícalos groseramente.",
+    "Pon los huevos en el agua hirviendo y cuécelos exactamente 6 minutos. Pásalos a agua con hielo 2 minutos y pélalos con cuidado: la yema quedará líquida.",
     "Tritura la crema hasta que esté muy fina, añade el zumo de lima y ajusta de sal.",
     "Sirve con un huevo partido por la mitad en cada plato, los anacardos, unas gotas de aceite de chile, la leche de coco reservada y el cilantro."
   ],
@@ -648,11 +651,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 230 °C con el grill. Pincha las berenjenas, ponlas en una bandeja con las chalotas, el ajo y el chile enteros y ásalo todo 30 minutos, girándolo a mitad, hasta que la piel de la berenjena esté negra y la pulpa se hunda (el ajo, la chalota y el chile sácalos a los 15 minutos).",
     "Mientras, tuesta el arroz crudo en una sartén sin aceite a fuego medio 5 minutos, removiendo, hasta que esté dorado oscuro. Muélelo en un mortero o molinillo: es el khao khua lao.",
-    "Calienta el caldo en una cazuela con la hierba limón chafada y deja que infusione a fuego suave 10 minutos.",
+    "Calienta el caldo en una cazuela con la hierba limón chafada y deja que infusione a fuego suave 10 minutos. Mientras, pica el eneldo y la cebolleta.",
     "Abre las berenjenas y saca la pulpa con una cuchara. Pela el ajo y las chalotas y quita el tallo al chile.",
     "Retira la hierba limón del caldo, añade la pulpa, el ajo, las chalotas, el chile, la salsa de pescado y el zumo de media lima y tritura hasta que esté fina. Calienta 2 minutos y ajusta de sal.",
     "En una sartén con el aceite a fuego fuerte, aplasta el cerdo picado y déjalo 3 minutos sin tocarlo; luego desmenúzalo y dóralo 3 minutos más, hasta que esté crujiente. Sálalo.",
-    "Sirve la crema con el cerdo crujiente, el eneldo y la cebolleta picados, una cucharadita de arroz tostado por plato y unas gotas del resto de la lima."
+    "Sirve la crema con el cerdo crujiente, el eneldo y la cebolleta, una cucharadita de arroz tostado por plato y unas gotas del resto de la lima."
   ],
   nutricion: { kcal: 345, prot: 19, hc: 24, grasa: 19 },
   etiquetas: ["creativa", "sin gluten", "ligera", "económica", "otoño"],
@@ -696,11 +699,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el rabo en la olla con agua fría, lleva a ebullición, cuece 5 minutos, escurre y enjuaga los trozos. Así el caldo queda limpio.",
     "Devuelve el rabo a la olla con los 900 ml de agua, media cebolla y el laurel. Cierra y cuece 45 minutos a presión alta desde que suba la válvula. Deja bajar la presión de forma natural (10 minutos).",
-    "Mientras, tuesta la harina de arroz en una sartén sin aceite a fuego medio-bajo 4 minutos, removiendo, hasta que esté dorada. Cuece el arroz jazmín lavado con 180 ml de agua, tapado, 12 minutos a fuego mínimo.",
+    "Mientras, tuesta la harina de arroz en una sartén sin aceite a fuego medio-bajo 4 minutos, removiendo, hasta que esté dorada. Cuece el arroz jazmín lavado con 180 ml de agua, tapado, 12 minutos a fuego mínimo. Pica el ajo y el resto de la cebolla, corta la berenjena en trozos y parte el pak choi a lo largo.",
     "Saca el rabo, cuela el caldo y retira la grasa de la superficie con un cucharón. Reserva 600 ml de caldo.",
-    "En una cazuela con el aceite, sofríe el ajo y el resto de la cebolla picados 4 minutos. Añade el pimentón, remueve 10 segundos y vierte el caldo reservado.",
+    "En una cazuela con el aceite, sofríe el ajo y la cebolla 4 minutos. Añade el pimentón, remueve 10 segundos y vierte el caldo reservado.",
     "Disuelve la crema de cacahuete y la harina tostada con un cucharón de caldo y añádelas. Cuece 8 minutos a fuego suave, removiendo, hasta que la salsa espese y brille. Sazona con la salsa de pescado y sal.",
-    "Añade la berenjena en trozos y cuece 6 minutos; después las judías verdes, 4 minutos; y el pak choi partido a lo largo, 2 minutos. Devuelve el rabo para que se caliente.",
+    "Añade la berenjena y cuece 6 minutos; después las judías verdes, 4 minutos; y el pak choi, 2 minutos. Devuelve el rabo para que se caliente.",
     "Sirve con el arroz y una cucharadita de pasta de gambas al lado: se toma un poco con cada bocado para salar la salsa, que es suave a propósito."
   ],
   nutricion: { kcal: 850, prot: 59, hc: 68, grasa: 37 },
@@ -744,11 +747,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la ternera con la salsa de pescado, el azúcar, el jengibre rallado, la mitad del ajo picado y pimienta. Deja marinar 20 minutos.",
+    "Ralla el jengibre y pica el ajo. Mezcla la ternera con la salsa de pescado, el azúcar, el jengibre, la mitad del ajo y pimienta. Deja marinar 20 minutos.",
+    "Mientras, pica las chalotas y corta la hierba limón en trozos de 5 cm y cháfala.",
     "Calienta el aceite en la olla abierta a fuego fuerte y dora la ternera en dos tandas, 3 minutos por tanda, hasta que tenga costra. Sácala.",
-    "Baja a fuego medio y sofríe las chalotas picadas, el resto del ajo y la hierba limón cortada en trozos de 5 cm y chafada 3 minutos. Añade el pimentón y el tomate concentrado y remueve 1 minuto, hasta que el tomate oscurezca.",
-    "Devuelve la carne con su jugo, el anís, la canela y el agua de coco. Cierra y cuece 30 minutos a presión alta desde que suba la válvula. Deja bajar la presión de forma natural, unos 10 minutos.",
-    "Abre, añade las zanahorias en trozos gruesos y cuece destapado a fuego medio 12 minutos, hasta que estén tiernas y la salsa haya reducido y brille.",
+    "Baja a fuego medio y sofríe las chalotas, el resto del ajo y la hierba limón 3 minutos. Añade el pimentón y el tomate concentrado y remueve 1 minuto, hasta que el tomate oscurezca.",
+    "Devuelve la carne con su jugo, el anís, la canela y el agua de coco. Cierra y cuece 30 minutos a presión alta desde que suba la válvula. Deja bajar la presión de forma natural, unos 10 minutos. Mientras, corta las zanahorias en trozos gruesos.",
+    "Abre, añade las zanahorias y cuece destapado a fuego medio 12 minutos, hasta que estén tiernas y la salsa haya reducido y brille.",
     "Retira la canela, el anís y la hierba limón. Prueba y ajusta con salsa de pescado o pimienta.",
     "Sirve en cuencos con hojas de albahaca y el pan caliente para mojar en la salsa."
   ],
@@ -794,9 +798,9 @@ window.RECETAS_SEED.push({
     "Mientras, tritura las chalotas y el ajo con 2 cucharadas de agua hasta tener una pasta gruesa.",
     "En la olla abierta, calienta el aceite a fuego medio y sofríe la pasta 6-8 minutos, removiendo, hasta que esté dorada y casi sin humedad. Añade la pasta de soja fermentada y la canela y remueve 1 minuto, hasta que huela tostado.",
     "Sube el fuego, añade el cerdo y remueve 4 minutos para que se dore un poco y se cubra de la pasta. Agrega la soja oscura, el azúcar de palma, las setas, el agua de remojo colada y los 150 ml de agua restantes.",
-    "Cierra y cuece 20 minutos a presión alta desde que suba la válvula. Libera la presión de forma rápida y con cuidado.",
-    "Añade la patata pelada en trozos de 4 cm, cierra y cuece 5 minutos más a presión alta. Mientras, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
-    "Deja bajar la presión de forma natural y abre. Si la salsa está muy líquida, redúcela destapado 5 minutos: debe quedar oscura y espesa, con la patata empezando a deshacerse por los bordes. Retira la canela, ajusta de sal y sirve con el arroz y el chile en rodajas."
+    "Cierra y cuece 20 minutos a presión alta desde que suba la válvula. Mientras, pela la patata y córtala en trozos de 4 cm, y corta el chile en rodajas. Libera la presión de forma rápida y con cuidado.",
+    "Añade la patata, cierra y cuece 5 minutos más a presión alta. Mientras, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
+    "Deja bajar la presión de forma natural y abre. Si la salsa está muy líquida, redúcela destapado 5 minutos: debe quedar oscura y espesa, con la patata empezando a deshacerse por los bordes. Retira la canela, ajusta de sal y sirve con el arroz y el chile."
   ],
   nutricion: { kcal: 880, prot: 44, hc: 106, grasa: 31 },
   etiquetas: ["tradicional", "sin lácteos", "invierno", "batch cooking", "económica"],
@@ -840,9 +844,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Tritura las chalotas, el ajo, el jengibre y las guindillas escurridas con la cúrcuma, el cilantro, el comino y 2 cucharadas de agua hasta tener una pasta fina.",
+    "Remoja las guindillas en agua caliente 10 minutos. Mientras, sala el cordero. Escurre las guindillas y tritúralas con las chalotas, el ajo, el jengibre, la cúrcuma, el cilantro, el comino y 2 cucharadas de agua hasta tener una pasta fina.",
     "En la olla abierta con el aceite a fuego medio, sofríe la canela, el clavo y el cardamomo chafado 30 segundos. Añade la pasta y la hierba limón chafada y cocina 6 minutos, removiendo, hasta que la pasta se oscurezca y el aceite se separe.",
-    "Sube el fuego, añade el cordero salado y remueve 4 minutos para que se impregne y selle.",
+    "Sube el fuego, añade el cordero y remueve 4 minutos para que se impregne y selle.",
     "Vierte 200 ml de agua y la mitad de la leche de coco. Cierra y cuece 25 minutos a presión alta desde que suba la válvula. Deja bajar la presión de forma natural, unos 10 minutos.",
     "Mientras, cuece el arroz lavado con 180 ml de agua, tapado, 12 minutos a fuego mínimo, y déjalo reposar.",
     "Abre la olla, retira el exceso de grasa de la superficie y añade el resto de la leche de coco y el tamarindo. Cuece destapado a fuego medio 10 minutos, hasta que la salsa espese y brillen gotitas de aceite rojo en la superficie.",
@@ -930,12 +934,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las costillas en la olla con agua fría, lleva a ebullición, cuece 5 minutos, escurre y enjuágalas: así el caldo queda claro.",
-    "Tuesta la pimienta en una sartén sin aceite a fuego medio 1 minuto, hasta que huela, y machácala groseramente en un mortero. Envuélvela en un trozo de gasa o un filtro de infusión para que no se quede en el caldo.",
+    "Mientras, tuesta la pimienta en una sartén sin aceite a fuego medio 1 minuto, hasta que huela, y machácala groseramente en un mortero. Envuélvela en un trozo de gasa o un filtro de infusión para que no se quede en el caldo.",
     "Devuelve las costillas a la olla limpia con el agua, las cabezas de ajo enteras, la bolsita de pimienta, 1 cucharada de salsa de soja y una cucharadita de sal.",
     "Cierra y cuece 25 minutos a presión alta desde que suba la válvula. Deja bajar la presión de forma natural, unos 10 minutos.",
-    "Mientras, cuece el arroz lavado con 180 ml de agua, tapado, 12 minutos a fuego mínimo.",
-    "Abre la olla, retira la bolsita de pimienta y la grasa de la superficie, y ajusta de sal: el caldo debe picar claramente a pimienta. Escalda el pak choi partido por la mitad en el caldo 2 minutos.",
-    "Sirve las costillas, el ajo confitado y el pak choi en cuencos con el caldo, el arroz al lado y un platito con el resto de la salsa de soja y el chile picado para mojar la carne."
+    "Mientras, cuece el arroz lavado con 180 ml de agua, tapado, 12 minutos a fuego mínimo. Parte el pak choi por la mitad y pica el chile.",
+    "Abre la olla, retira la bolsita de pimienta y la grasa de la superficie, y ajusta de sal: el caldo debe picar claramente a pimienta. Escalda el pak choi en el caldo 2 minutos.",
+    "Sirve las costillas, el ajo confitado y el pak choi en cuencos con el caldo, el arroz al lado y un platito con el resto de la salsa de soja y el chile para mojar la carne."
   ],
   nutricion: { kcal: 690, prot: 49, hc: 58, grasa: 28 },
   etiquetas: ["tradicional", "picante", "de cuchara", "invierno"],
@@ -975,11 +979,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias remojadas y ponlas en la olla con el agua, el laurel y media cebolla. Cierra y cuece 20 minutos a presión alta desde que suba la válvula; deja bajar la presión de forma natural, unos 10 minutos.",
-    "Comprueba que están tiernas, retira el laurel y la cebolla y escúrrelas reservando 250 ml del caldo de cocción.",
-    "En la olla abierta, con el aceite a fuego medio, sofríe el resto de la cebolla, el ajo y el jengibre picados 4 minutos, hasta que estén blandos. Añade los tomates troceados y cocina 5 minutos, aplastándolos, hasta que se deshagan.",
-    "Disuelve el miso en el caldo reservado y viértelo. Añade la calabaza en dados de 3 cm, tapa sin presión y cuece 6 minutos a fuego medio.",
-    "Incorpora la berenjena en trozos y las judías verdes en trozos de 5 cm, tapa y cuece 6-8 minutos más sin remover (en Ilocos se sacude la olla para no romper las verduras), hasta que todo esté tierno y la calabaza empiece a deshacerse en la salsa.",
+    "La víspera, pon las alubias en remojo en abundante agua fría (8-12 horas). Al día siguiente, escúrrelas y ponlas en la olla con el agua, el laurel y media cebolla. Cierra y cuece 20 minutos a presión alta desde que suba la válvula; deja bajar la presión de forma natural, unos 10 minutos.",
+    "Mientras, pica el resto de la cebolla, el ajo y el jengibre y trocea los tomates. Corta la calabaza en dados de 3 cm, la berenjena en trozos y las judías verdes en trozos de 5 cm.",
+    "Comprueba que las alubias están tiernas, retira el laurel y la cebolla y escúrrelas reservando 250 ml del caldo de cocción.",
+    "En la olla abierta, con el aceite a fuego medio, sofríe la cebolla, el ajo y el jengibre 4 minutos, hasta que estén blandos. Añade los tomates y cocina 5 minutos, aplastándolos, hasta que se deshagan.",
+    "Disuelve el miso en el caldo reservado y viértelo. Añade la calabaza, tapa sin presión y cuece 6 minutos a fuego medio.",
+    "Incorpora la berenjena y las judías verdes, tapa y cuece 6-8 minutos más sin remover (en Ilocos se sacude la olla para no romper las verduras), hasta que todo esté tierno y la calabaza empiece a deshacerse en la salsa.",
     "Añade las alubias, calienta 2 minutos, ajusta de sal y pimienta y sirve en platos hondos."
   ],
   nutricion: { kcal: 515, prot: 26, hc: 74, grasa: 13 },
@@ -1024,10 +1029,10 @@ window.RECETAS_SEED.push({
     "Pica las chalotas, el ajo y el jengibre. Corta la hierba limón en trozos de 5 cm y cháfala.",
     "En la olla abierta con el aceite a fuego medio-alto, dora el muslo de pavo salado 3 minutos por cada lado. Sácalo.",
     "Baja el fuego y sofríe la chalota, el ajo, el jengibre y la hierba limón 3 minutos. Añade la cúrcuma y remueve 20 segundos.",
-    "Devuelve el pavo, vierte el caldo y la salsa de pescado, cierra y cuece 25 minutos a presión alta desde que suba la válvula. Deja bajar la presión de forma natural, unos 10 minutos.",
+    "Devuelve el pavo, vierte el caldo y la salsa de pescado, cierra y cuece 25 minutos a presión alta desde que suba la válvula. Deja bajar la presión de forma natural, unos 10 minutos. Mientras, pela el boniato y córtalo en dados de 3 cm, pica el cilantro y corta el chile en rodajas.",
     "Saca el muslo, desmígalo descartando hueso y tendones (los tiene duros: retíralos con cuidado) y retira la hierba limón.",
-    "Añade a la olla el boniato en dados de 3 cm y la leche de coco y cuece destapado a fuego medio 10 minutos, hasta que el boniato esté tierno.",
-    "Devuelve la carne, calienta 2 minutos, añade el zumo de la lima y ajusta de sal. Sirve en cuencos con el cilantro picado y el chile en rodajas."
+    "Añade a la olla el boniato y la leche de coco y cuece destapado a fuego medio 10 minutos, hasta que el boniato esté tierno.",
+    "Devuelve la carne, calienta 2 minutos, añade el zumo de la lima y ajusta de sal. Sirve en cuencos con el cilantro y el chile."
   ],
   nutricion: { kcal: 625, prot: 46, hc: 38, grasa: 32 },
   etiquetas: ["creativa", "sin gluten", "económica", "alta en proteína", "batch cooking"],
@@ -1069,9 +1074,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon las alitas en la olla con el agua, el jengibre en láminas y 1 diente de ajo chafado. Cierra y cuece 8 minutos a presión alta desde que suba la válvula. Libera la presión de forma rápida y con cuidado.",
     "Mientras sube la presión, cuece el arroz lavado con 180 ml de agua, tapado, 12 minutos a fuego mínimo, y déjalo reposar.",
-    "Corta el pepino en rodajas finas y mézclalo en un bol con el vinagre de arroz y una cucharadita del azúcar. Deja que se encurte mientras terminas.",
+    "Corta el pepino en rodajas finas y mézclalo en un bol con el vinagre de arroz y una cucharadita del azúcar. Deja que se encurte mientras terminas. Pica los otros 2 dientes de ajo y corta el chile en rodajas.",
     "Saca las alitas con una espumadera y sécalas con papel. Cuela 100 ml del caldo de cocción.",
-    "En una sartén grande, pon el caldo colado, el tamarindo, la salsa de pescado, el resto del azúcar, los otros 2 dientes de ajo picados y el chile en rodajas. Reduce a fuego fuerte 4 minutos, hasta que burbujee espeso como un almíbar.",
+    "En una sartén grande, pon el caldo colado, el tamarindo, la salsa de pescado, el resto del azúcar, el ajo y el chile. Reduce a fuego fuerte 4 minutos, hasta que burbujee espeso como un almíbar.",
     "Añade las alitas y saltéalas 3 o 4 minutos, dándoles la vuelta, hasta que queden brillantes y caramelizadas en los bordes.",
     "Sirve las alitas con el zumo de la lima, el cilantro y los cacahuetes por encima, con el arroz y el pepino encurtido al lado."
   ],
@@ -1160,12 +1165,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Abre la lata de leche de coco sin agitarla y saca 4 cucharadas de la crema espesa de arriba.",
+    "Corta las chalotas en láminas. Abre la lata de leche de coco sin agitarla y saca 4 cucharadas de la crema espesa de arriba.",
     "Calienta esa crema en la olla abierta a fuego medio 3 o 4 minutos, removiendo, hasta que burbujee y empiece a separarse el aceite. Añade la pasta de curry y la crema de cacahuete y fríelas 2 minutos, hasta que estén muy fragantes y oscuras.",
-    "Añade las chalotas en láminas y la carne salada y remueve 3 minutos para que se impregne bien.",
+    "Añade las chalotas y la carne salada y remueve 3 minutos para que se impregne bien.",
     "Vierte el agua, la salsa de pescado y el azúcar. Cierra y cuece 35 minutos a presión alta desde que suba la válvula. Deja bajar la presión de forma natural, unos 10 minutos.",
-    "Mientras, cuece el arroz lavado con 180 ml de agua, tapado, 12 minutos a fuego mínimo, y déjalo reposar.",
-    "Abre la olla, añade el resto de la leche de coco, las zanahorias en rodajas al bies y las hojas de lima kaffir en tiras finas. Cuece destapado a fuego medio 10 minutos, hasta que la zanahoria esté tierna y la salsa espese y se pegue a la cuchara.",
+    "Mientras, cuece el arroz lavado con 180 ml de agua, tapado, 12 minutos a fuego mínimo, y déjalo reposar. Corta las zanahorias en rodajas al bies y las hojas de lima kaffir en tiras finas.",
+    "Abre la olla, añade el resto de la leche de coco, las zanahorias y las hojas de lima kaffir. Cuece destapado a fuego medio 10 minutos, hasta que la zanahoria esté tierna y la salsa espese y se pegue a la cuchara.",
     "Ajusta con el zumo de media lima, sal o salsa de pescado, mezcla la albahaca y sirve con el arroz y cuñas del resto de la lima."
   ],
   nutricion: { kcal: 845, prot: 52, hc: 67, grasa: 40 },

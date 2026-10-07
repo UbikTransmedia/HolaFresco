@@ -41,8 +41,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava los guisantes partidos y ponlos en una cazuela con 1,2 litros de agua fría y la cúrcuma. Lleva a ebullición, retira la espuma y cuece a fuego suave 30 minutos.",
     "Mientras, ralla media cebolla, escúrrela con las manos y mézclala con la ternera picada, sal y pimienta. Forma unas 20 albóndigas del tamaño de una avellana y resérvalas en la nevera.",
-    "Añade el arroz lavado a la cazuela y cuece 15 minutos más, removiendo de vez en cuando para que no se pegue al fondo.",
-    "Pica muy fino el perejil, el cilantro y las cebolletas (también lo verde) y échalos a la sopa junto con las albóndigas. Cuece 20 minutos a fuego suave hasta que el arroz empiece a deshacerse y la sopa esté espesa; si se queda seca, añade un poco de agua caliente.",
+    "Añade el arroz lavado a la cazuela y cuece 15 minutos más, removiendo de vez en cuando para que no se pegue al fondo. Mientras, pica muy fino el perejil, el cilantro y las cebolletas (también lo verde).",
+    "Echa las hierbas picadas a la sopa junto con las albóndigas. Cuece 20 minutos a fuego suave hasta que el arroz empiece a deshacerse y la sopa esté espesa; si se queda seca, añade un poco de agua caliente.",
     "Mientras, corta la cebolla y media restante en plumas finas y fríela en una sartén con el aceite a fuego medio unos 15 minutos, hasta que esté dorada oscura. Apaga el fuego, añade la menta seca y remueve 10 segundos: debe perfumar sin quemarse.",
     "Disuelve la melaza de granada y el azúcar en un cucharón de caldo y vuélcalo en la cazuela. Cuece 5 minutos y prueba: tiene que ser claramente ácida con un fondo dulce. Ajusta de sal, melaza o azúcar.",
     "Desgrana la granada golpeándola por la piel con una cuchara de madera sobre un bol. Sirve la sopa con la cebolla frita a la menta y los granos de granada por encima."
@@ -81,10 +81,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las pasas en un vaso con agua tibia para que se hidraten mientras preparas lo demás. Lava las acelgas, separa las pencas de las hojas, corta las pencas en dados de 1 cm y las hojas en tiras anchas.",
-    "Cuece las pencas 5 minutos en agua hirviendo con sal, añade las hojas y cuece 2 minutos más. Escúrrelas bien, apretando con una cuchara para que no aguen el salteado. Guarda el agua caliente en la cazuela.",
+    "Pon a calentar agua con sal en una cazuela. Pon las pasas en un vaso con agua tibia para que se hidraten mientras preparas lo demás. Lava las acelgas, separa las pencas de las hojas, corta las pencas en dados de 1 cm y las hojas en tiras anchas. Lamina el ajo.",
+    "Cuando hierva, cuece las pencas 5 minutos, añade las hojas y cuece 2 minutos más. Escúrrelas bien, apretando con una cuchara para que no aguen el salteado. Guarda el agua caliente en la cazuela.",
     "Tuesta los piñones en una sartén sin aceite a fuego medio 2 o 3 minutos, moviéndolos sin parar, hasta que estén dorados. Sácalos enseguida: se queman en segundos.",
-    "En la misma sartén calienta el aceite y dora el ajo laminado 1 minuto. Añade los garbanzos y saltéalos 5 minutos a fuego medio-alto, hasta que tengan la piel algo tostada.",
+    "En la misma sartén calienta el aceite y dora el ajo 1 minuto. Añade los garbanzos y saltéalos 5 minutos a fuego medio-alto, hasta que tengan la piel algo tostada.",
     "Incorpora las acelgas, las pasas escurridas y los piñones. Salpimienta, saltea 3 minutos para que todo se impregne y termina con media cucharada de vinagre de Jerez.",
     "Lleva el agua de la cazuela a un hervor suave, añade el resto del vinagre, crea un remolino con una cuchara y desliza los huevos de uno en uno. Escálfalos 3 minutos, hasta que la clara esté cuajada y la yema líquida, y sácalos con una espumadera.",
     "Reparte los garbanzos en dos platos y corona cada uno con un huevo escalfado, sal y pimienta recién molida."
@@ -127,11 +127,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "La noche anterior pon las alubias en remojo con el triple de su volumen de agua fría.",
     "Escúrrelas y ponlas en una cazuela con el codillo, media cebolla entera, el laurel y 1,5 litros de agua fría. Lleva a ebullición, retira la espuma y cuece tapado a fuego muy suave entre 1 hora 45 minutos y 2 horas, hasta que las alubias estén cremosas. Añade agua caliente si quedan al descubierto.",
-    "Saca el codillo, desmenuza la carne desechando la piel, la grasa dura y el hueso, y devuélvela a la cazuela. Aplasta un cucharón de alubias contra la pared para espesar el caldo. Prueba antes de salar: el codillo ya aporta sal. Pimienta al gusto.",
-    "Media hora antes de terminar, mete en el horno una sartén de hierro (o un molde metálico pequeño) con la mantequilla y precalienta a 220 °C.",
-    "Mezcla la harina de maíz con la levadura, el bicarbonato y una pizca de sal. En otro bol bate el huevo con el suero de leche y únelo a los secos con pocas vueltas, solo hasta que no quede harina seca.",
+    "Media hora antes de que terminen las alubias, mete en el horno una sartén de hierro (o un molde metálico pequeño) con la mantequilla y precalienta a 220 °C. Mientras se calienta, mezcla la harina de maíz con la levadura, el bicarbonato y una pizca de sal. En otro bol bate el huevo con el suero de leche y únelo a los secos con pocas vueltas, solo hasta que no quede harina seca.",
     "Saca la sartén caliente, gírala para repartir la mantequilla fundida y vierte casi toda en la masa. Echa la masa en la sartén (debe chisporrotear: así se forma la costra) y hornea 18-20 minutos, hasta que esté dorada y un palillo salga limpio.",
-    "Pica la otra media cebolla en cruda. Sirve las alubias en cuencos con la cebolla por encima y el pan de maíz en cuñas al lado, para desmigarlo dentro del caldo."
+    "Mientras se hornea, saca el codillo de la cazuela, desmenuza la carne desechando la piel, la grasa dura y el hueso, y devuélvela a la cazuela. Aplasta un cucharón de alubias contra la pared para espesar el caldo. Prueba antes de salar: el codillo ya aporta sal. Pimienta al gusto. Pica la otra media cebolla en crudo.",
+    "Sirve las alubias en cuencos con la cebolla por encima y el pan de maíz en cuñas al lado, para desmigarlo dentro del caldo."
   ],
   nutricion: { kcal: 840, prot: 45, hc: 104, grasa: 27 },
   etiquetas: ["tradicional", "otoño", "invierno", "de cuchara", "económica", "batch cooking", "poco especiada"],
@@ -170,7 +169,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta los higos en cruz desde arriba sin llegar a la base, colócalos en una bandeja pequeña, riégalos con unas gotas de miel y esparce las hojas de una rama de tomillo. Hornéalos 8-10 minutos, hasta que se abran y empiecen a caramelizar.",
-    "Quita los tallos duros al hinojo y guarda las hojitas verdes. Lamínalo muy fino, con mandolina si tienes, y déjalo 5 minutos en un bol con agua muy fría para que quede crujiente. Escúrrelo y sécalo.",
+    "Mientras se asan, quita los tallos duros al hinojo y guarda las hojitas verdes. Lamínalo muy fino, con mandolina si tienes, y déjalo 5 minutos en un bol con agua muy fría para que quede crujiente. Escúrrelo y sécalo.",
     "Prepara la vinagreta en el bol: el resto de la miel, el vinagre, el zumo del limón, 1 cucharada de aceite, las hojas del resto del tomillo, sal y pimienta. Añade el jugo que hayan soltado los higos en la bandeja.",
     "Seca bien los filetes de caballa con papel de cocina, hazles dos o tres cortes superficiales en la piel para que no se encojan y sálalos.",
     "Calienta una sartén a fuego fuerte con 1 cucharada de aceite y pon los filetes con la piel hacia abajo, presionándolos con una espátula los primeros 10 segundos. Cocina 3 minutos sin moverlos, hasta que la piel esté dorada y crujiente; dales la vuelta y deja solo 30-60 segundos.",
@@ -213,8 +212,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas de 1 cm y cuécelas en agua con sal 15 minutos, hasta que estén tiernas pero enteras. Escúrrelas.",
-    "Mientras, calienta 2 cucharadas de aceite en una sartén a fuego medio-suave y pocha los ajos laminados, la cebolla morada en juliana, el laurel y el tomillo 6-8 minutos, hasta que la cebolla esté blanda y conserve su color.",
-    "Aparta la sartén del fuego, añade el pimentón, remueve y vuelve a ponerla al fuego con el vinagre y 3 cucharadas de agua. Incorpora las uvas partidas por la mitad y cuece 2-3 minutos, hasta que se ablanden sin deshacerse. Salpimienta y mantén el escabeche tibio.",
+    "Mientras, lamina los ajos, corta la cebolla morada en juliana y parte las uvas por la mitad. Calienta 2 cucharadas de aceite en una sartén a fuego medio-suave y pocha los ajos, la cebolla, el laurel y el tomillo 6-8 minutos, hasta que la cebolla esté blanda y conserve su color.",
+    "Aparta la sartén del fuego, añade el pimentón, remueve y vuelve a ponerla al fuego con el vinagre y 3 cucharadas de agua. Incorpora las uvas y cuece 2-3 minutos, hasta que se ablanden sin deshacerse. Salpimienta y mantén el escabeche tibio.",
     "Corta el bonito en cuatro tacos de unos 3 cm de grosor, sécalos y sálalos justo antes de cocinarlos.",
     "Calienta la plancha a fuego fuerte con la cucharada de aceite restante y marca los tacos 1 minuto por cada cara, hasta que estén dorados por fuera y rosados por dentro. El bonito se seca en cuanto se pasa de punto.",
     "Corta el bonito en lonchas gruesas, colócalo sobre las patatas y cúbrelo con el escabeche tibio de uvas con todo su jugo."
@@ -256,10 +255,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz frotándolo entre las manos y cambiando el agua hasta que salga casi clara. Escúrrelo 15 minutos, ponlo en un cazo con 170 ml de agua, tapa, hierve y cuece 12 minutos a fuego mínimo. Apaga y deja reposar 10 minutos sin destapar.",
     "Pela el daikon, córtalo en rodajas de 2,5 cm, bisela los bordes con el pelador para que no se rompan al guisar y hazles un corte en cruz poco profundo en una cara. Cuécelo en agua 15 minutos, hasta que un palillo entre con poca resistencia. Escúrrelo.",
-    "Corta el salmón en 6 trozos, sálalo ligeramente y déjalo 10 minutos. Ponlo en un colador, vierte por encima agua hirviendo hasta que la superficie se vuelva blanca y enjuágalo con agua fría: así el guiso queda limpio y sin olor fuerte.",
-    "En una cazuela ancha pon 300 ml de agua, el sake, el mirin, el azúcar y la mitad del jengibre en láminas. Lleva a ebullición, coloca el daikon y el salmón en una sola capa y cubre con un disco de papel de horno con un agujero en el centro. Cuece 10 minutos a fuego medio-suave.",
-    "Añade la salsa de soja y cuece 10-12 minutos más sin el papel, regando a menudo con el caldo, hasta que se reduzca a la mitad y el daikon tenga color ámbar.",
-    "Corta el resto del jengibre en hilos muy finos y la cebolleta en aros. Sirve el salmón y el daikon con un poco de caldo, el jengibre y la cebolleta por encima y el arroz aparte."
+    "Mientras se cuece, corta el salmón en 6 trozos, sálalo ligeramente y déjalo 10 minutos. Ponlo en un colador, vierte por encima agua hirviendo hasta que la superficie se vuelva blanca y enjuágalo con agua fría: así el guiso queda limpio y sin olor fuerte. Lamina la mitad del jengibre.",
+    "En una cazuela ancha pon 300 ml de agua, el sake, el mirin, el azúcar y el jengibre laminado. Lleva a ebullición, coloca el daikon y el salmón en una sola capa y cubre con un disco de papel de horno con un agujero en el centro. Cuece 10 minutos a fuego medio-suave.",
+    "Añade la salsa de soja y cuece 10-12 minutos más sin el papel, regando a menudo con el caldo, hasta que se reduzca a la mitad y el daikon tenga color ámbar. Mientras, corta el resto del jengibre en hilos muy finos y la cebolleta en aros.",
+    "Sirve el salmón y el daikon con un poco de caldo, el jengibre y la cebolleta por encima y el arroz aparte."
   ],
   nutricion: { kcal: 660, prot: 36, hc: 83, grasa: 20 },
   etiquetas: ["creativa", "otoño", "invierno", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -298,7 +297,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 170 °C. Pincha la piel de los muslos con un palillo muchas veces, sin llegar a la carne, para que suelte la grasa.",
     "Corta las manzanas en cuartos con piel, quitándoles el corazón, y la cebolla en gajos. Repártelas en una fuente, coloca encima los muslos con la piel hacia arriba y vierte el agua en el fondo.",
     "Asa 1 hora y cuarto, regando la carne con el jugo cada 20 minutos. Las manzanas se irán deshaciendo con la grasa.",
-    "A los 45 minutos de horno, pela las patatas y córtalas en gajos. Retira 2 cucharadas de grasa de pato de la fuente, mézclalas con las patatas y una pizca de sal y ponlas en otra bandeja dentro del horno.",
+    "Mientras se asa, pela las patatas y córtalas en gajos. A los 45 minutos de horno, retira 2 cucharadas de grasa de pato de la fuente, mézclalas con las patatas y una pizca de sal y ponlas en otra bandeja dentro del horno.",
     "Sube el horno a 200 °C los últimos 25 minutos para que se dore la piel del pato y las patatas queden crujientes.",
     "Retira con una cuchara la grasa sobrante de la fuente y aplasta las manzanas y la cebolla con el jugo hasta obtener una compota rústica. Sirve los muslos sobre la compota con las patatas al lado."
   ],
@@ -340,9 +339,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo y dóralo en una cazuela con el aceite a fuego medio-alto 8-10 minutos, hasta que esté bien dorado por todas partes. Sácalo y resérvalo.",
+    "Pica la cebolla y un diente de ajo. Salpimienta el pollo y dóralo en una cazuela con el aceite a fuego medio-alto 8-10 minutos, hasta que esté bien dorado por todas partes. Sácalo y resérvalo.",
     "Limpia los níscalos con un paño húmedo o un pincel, sin meterlos en agua, y corta los grandes en dos. Saltéalos en la grasa de la cazuela 4-5 minutos a fuego fuerte y resérvalos aparte.",
-    "Baja el fuego, añade la cebolla picada y un diente de ajo picado y pocha todo 10 minutos. Agrega el tomate rallado y sofríe otros 10 minutos, hasta que esté oscuro y sin agua.",
+    "Baja el fuego, añade la cebolla y el ajo picados y pocha todo 10 minutos. Agrega el tomate rallado y sofríe otros 10 minutos, hasta que esté oscuro y sin agua.",
     "Vuelve a poner el pollo, riega con el brandy y deja que se evapore el alcohol 2 minutos. Añade el caldo y el laurel, tapa y cuece 30 minutos a fuego suave.",
     "Mientras, tuesta el pan en una sartén y machácalo en el mortero con las almendras, el otro diente de ajo y el perejil, añadiendo un poco de caldo de la cazuela hasta tener una pasta.",
     "Incorpora los níscalos y la picada, mueve la cazuela en vaivén y cuece 10 minutos más, hasta que la salsa trabe y el pollo se separe del hueso. Prueba de sal y sirve."
@@ -383,8 +382,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los boletus con un paño y un cuchillo, raspando la tierra del pie sin mojarlos, y córtalos en láminas de 5 mm.",
-    "Calienta en una sartén amplia 1 cucharada de aceite con la mitad de la mantequilla y el ajo aplastado. Saltea los boletus a fuego fuerte 4-5 minutos, hasta que estén dorados. Sálalos, añade la mitad del perejil picado, retira el ajo y reserva las setas.",
+    "Limpia los boletus con un paño y un cuchillo, raspando la tierra del pie sin mojarlos, y córtalos en láminas de 5 mm. Pica el perejil.",
+    "Calienta en una sartén amplia 1 cucharada de aceite con la mitad de la mantequilla y el ajo aplastado. Saltea los boletus a fuego fuerte 4-5 minutos, hasta que estén dorados. Sálalos, añade la mitad del perejil, retira el ajo y reserva las setas.",
     "Aplana los escalopines entre dos hojas de film con un cazo hasta dejarlos de 4-5 mm. Salpimiéntalos y pásalos por la harina, sacudiendo bien el exceso.",
     "En la misma sartén funde el resto de la mantequilla a fuego medio-alto y, cuando haga espuma, dora los escalopines 1 minuto por cada lado. Sácalos.",
     "Vierte el vino y raspa el fondo 1-2 minutos para que se evapore el alcohol. Añade 50 ml de agua, devuelve los boletus y los escalopines y cocina 1 minuto: la harina de la carne espesará la salsa hasta dejarla brillante.",
@@ -430,8 +429,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Frota los membrillos con un paño para quitarles la pelusa, pártelos por la mitad a lo largo y vacíalos con una cuchara o un sacabolas dejando 1 cm de pared. Ve sumergiendo las mitades en agua con el zumo de medio limón para que no se oscurezcan. Pica la pulpa sacada, sin el corazón ni las pepitas.",
-    "Funde la mantequilla en una sartén y pocha la cebolla picada 5 minutos. Añade los piñones y dóralos 1 minuto. Fuera del fuego, mézclalo con el cordero, el arroz lavado, la canela, la pimienta de Jamaica, la menta, el perejil picado, sal y pimienta.",
+    "Precalienta el horno a 180 °C. Frota los membrillos con un paño para quitarles la pelusa, pártelos por la mitad a lo largo y vacíalos con una cuchara o un sacabolas dejando 1 cm de pared. Ve sumergiendo las mitades en agua con el zumo de medio limón para que no se oscurezcan. Pica la pulpa sacada, sin el corazón ni las pepitas. Pica la cebolla y el perejil.",
+    "Funde la mantequilla en una sartén y pocha la cebolla 5 minutos. Añade los piñones y dóralos 1 minuto. Fuera del fuego, mézclalo con el cordero, el arroz lavado, la canela, la pimienta de Jamaica, la menta, el perejil, sal y pimienta.",
     "Rellena las mitades de membrillo formando una pequeña cúpula, sin apretar demasiado porque el arroz crece. Colócalas en una fuente con la pulpa picada alrededor.",
     "Disuelve el tomate concentrado y el azúcar en 300 ml de agua caliente con el zumo del otro medio limón y viértelo en la fuente: debe cubrir un tercio de la altura de los membrillos. Tapa con papel de aluminio.",
     "Hornea 50 minutos tapado. Destapa y hornea 20 minutos más, regando dos veces con el jugo, hasta que el relleno esté dorado y un cuchillo atraviese el membrillo sin resistencia. Habrá tomado un color rosado.",
@@ -471,8 +470,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla la calabaza con la parte gruesa del rallador, mézclala con una pizca de sal y déjala en un colador 20 minutos. Después escúrrela apretando con las manos: saldrá mucha agua, y si no la quitas la pita queda empapada.",
-    "Precalienta el horno a 180 °C. En un bol mezcla la calabaza escurrida con el feta desmigado, los huevos batidos, las cebolletas picadas, la menta picada, la sémola, 1 cucharada de aceite y pimienta. No añadas más sal: el feta ya la aporta.",
+    "Ralla la calabaza con la parte gruesa del rallador, mézclala con una pizca de sal y déjala en un colador 20 minutos. Mientras, precalienta el horno a 180 °C y pica las cebolletas y la menta. Después escurre la calabaza apretando con las manos: saldrá mucha agua, y si no la quitas la pita queda empapada.",
+    "En un bol mezcla la calabaza escurrida con el feta desmigado, los huevos batidos, las cebolletas, la menta, la sémola, 1 cucharada de aceite y pimienta. No añadas más sal: el feta ya la aporta.",
     "Pincela con aceite un molde de unos 20 x 25 cm. Coloca 3 o 4 hojas de filo pincelando cada una con aceite y dejando que sobresalgan por los bordes.",
     "Extiende el relleno, dobla hacia dentro las hojas que sobresalen y cubre con las hojas restantes, pincelándolas y arrugándolas un poco para que queden más crujientes. Marca las porciones con un cuchillo y salpica la superficie con unas gotas de agua.",
     "Hornea 50 minutos, hasta que la superficie esté dorada y crujiente y el relleno cuajado.",
@@ -515,7 +514,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en lonchas de 5 mm, extiéndelas en dos bandejas con papel de horno, pincélalas con el aceite, sálalas y hornéalas 15-18 minutos, hasta que estén tiernas y algo doradas.",
-    "Mientras, haz la bechamel: funde la mantequilla en un cazo, añade la harina y remueve 2 minutos a fuego medio. Vierte la leche caliente poco a poco sin dejar de batir y cuece 6-8 minutos, hasta que nape la cuchara. Sazona con nuez moscada, sal y pimienta.",
+    "Mientras, calienta la leche y haz la bechamel: funde la mantequilla en un cazo, añade la harina y remueve 2 minutos a fuego medio. Vierte la leche caliente poco a poco sin dejar de batir y cuece 6-8 minutos, hasta que nape la cuchara. Sazona con nuez moscada, sal y pimienta.",
     "Corta la scamorza en láminas finas, pica las avellanas en trozos gruesos y corta la salvia en tiras.",
     "En una fuente de unos 20 x 20 cm extiende un poco de bechamel y monta tres capas de calabaza, scamorza, salvia, bechamel y parmesano. Termina con bechamel, el resto del parmesano y las avellanas.",
     "Baja el horno a 190 °C y hornea 25 minutos, hasta que la superficie esté gratinada y los bordes burbujeen.",
@@ -560,7 +559,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el puerro, pícalo muy fino y rehógalo en la mantequilla a fuego suave 6-7 minutos, hasta que esté blando y sin color. Déjalo templar.",
-    "Tritura el pan en migas. Mezcla 100 g de migas con el queso rallado, el puerro, el perejil y las hojas de tomillo picados, la mostaza, sal y pimienta.",
+    "Mientras se templa, tritura el pan en migas, ralla el queso y pica el perejil y las hojas de tomillo. Mezcla 100 g de migas con el queso, el puerro, el perejil, el tomillo, la mostaza, sal y pimienta.",
     "Separa los huevos. Añade a la mezcla las dos yemas y una clara y amasa hasta que se compacte; si se desmorona, añade una cucharada de la otra clara. Forma 6 salchichas de unos 8 cm y déjalas 10 minutos en la nevera para que se asienten.",
     "Bate ligeramente la clara restante. Pasa cada salchicha por la clara y después por el resto de las migas.",
     "Calienta 2 cucharadas de aceite en una sartén a fuego medio y fríe las salchichas 6-8 minutos, girándolas, hasta que estén doradas por todos lados. Escúrrelas sobre papel.",
@@ -607,11 +606,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y déjalo en remojo 10 minutos. Escúrrelo y cuécelo con 180 ml de agua y sal, tapado, 12 minutos a fuego mínimo. Apaga y deja reposar 5 minutos.",
-    "Mientras, corta la calabaza en dados de 2 cm.",
-    "Calienta el aceite en una sartén honda a fuego medio y añade el comino, el fenogreco y la mostaza. Cuando chisporroteen y el fenogreco tome color dorado (20-30 segundos; si se ennegrece amarga), añade la asafétida, el jengibre rallado y el chile picado y remueve 30 segundos.",
+    "Mientras, corta la calabaza en dados de 2 cm, ralla el jengibre y pica el chile y el cilantro fresco.",
+    "Calienta el aceite en una sartén honda a fuego medio y añade el comino, el fenogreco y la mostaza. Cuando chisporroteen y el fenogreco tome color dorado (20-30 segundos; si se ennegrece amarga), añade la asafétida, el jengibre y el chile y remueve 30 segundos.",
     "Incorpora la calabaza, la cúrcuma, el cilantro molido y sal. Mezcla, tapa y cocina 12-15 minutos a fuego medio-bajo removiendo de vez en cuando, con 3 o 4 cucharadas de agua si se pega, hasta que esté tierna y algunos trozos empiecen a deshacerse.",
     "Añade los garbanzos, la panela y el mango en polvo. Cocina 3 minutos más aplastando un poco la calabaza con la cuchara para que quede jugosa, dulce y ácida a la vez.",
-    "Espolvorea el cilantro fresco picado y sirve con el arroz."
+    "Espolvorea el cilantro fresco y sirve con el arroz."
   ],
   nutricion: { kcal: 610, prot: 17, hc: 96, grasa: 17 },
   etiquetas: ["creativa", "otoño", "vegana", "económica", "sin lácteos", "bajo en colesterol"],
@@ -649,12 +648,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Llena un bol de agua con el zumo de medio limón. Pela el apionabo, córtalo en dados de 3 cm y ve echándolos al agua, porque se oxida enseguida.",
-    "En una cazuela ancha calienta 2 cucharadas de aceite y pocha la cebolla en dados 5 minutos. Añade las zanahorias en rodajas y rehoga 3 minutos más.",
+    "Llena un bol de agua con el zumo de medio limón. Pela el apionabo, córtalo en dados de 3 cm y ve echándolos al agua, porque se oxida enseguida. Pica la cebolla en dados y corta las zanahorias en rodajas.",
+    "En una cazuela ancha calienta 2 cucharadas de aceite y pocha la cebolla 5 minutos. Añade las zanahorias y rehoga 3 minutos más.",
     "Escurre el apionabo y añádelo con el zumo de las naranjas, el zumo del otro medio limón, el azúcar, sal y 150 ml de agua: el líquido debe llegar a media altura. Cubre con un disco de papel de horno y cuece 30 minutos a fuego suave, hasta que el apionabo esté tierno.",
-    "En los últimos 5 minutos añade los guisantes.",
-    "Mientras, rehoga el bulgur en un cazo con la cucharada de aceite restante 1 minuto, añade 220 ml de agua hirviendo con sal, tapa y cuece 12 minutos a fuego mínimo. Apaga y deja reposar 10 minutos tapado.",
-    "Deja templar el apionabo en su jugo, salpimienta y espolvorea el eneldo picado. Sírvelo templado o a temperatura ambiente con el bulgur."
+    "Mientras, rehoga el bulgur en un cazo con la cucharada de aceite restante 1 minuto, añade 220 ml de agua hirviendo con sal, tapa y cuece 12 minutos a fuego mínimo. Apaga y deja reposar 10 minutos tapado. Pica el eneldo.",
+    "En los últimos 5 minutos de cocción del apionabo añade los guisantes.",
+    "Deja templar el apionabo en su jugo, salpimienta y espolvorea el eneldo. Sírvelo templado o a temperatura ambiente con el bulgur."
   ],
   nutricion: { kcal: 615, prot: 16, hc: 87, grasa: 22 },
   etiquetas: ["tradicional", "otoño", "invierno", "vegana", "económica", "ideal para llevar", "poco especiada", "bajo en colesterol"],
@@ -695,7 +694,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Abre la pechuga en filetes de 1,5 cm de grosor uniforme y sazónala con sal, pimienta y el pimentón ahumado. Hazla en la plancha a fuego medio 5-6 minutos por cada lado, hasta que los jugos salgan claros. Déjala reposar 5 minutos y córtala en tiras.",
-    "Bate el vinagre de sidra, el sirope de arce, la mostaza, el aceite, sal y pimienta hasta emulsionar.",
+    "Mientras se hace el pollo, bate el vinagre de sidra, el sirope de arce, la mostaza, el aceite, sal y pimienta hasta emulsionar.",
     "Quita los tallos duros del kale y corta las hojas en tiras finas. Masajéalas 2 minutos con las manos con una cucharadita de la vinagreta y una pizca de sal, hasta que se ablanden y oscurezcan.",
     "Tuesta las pecanas en una sartén sin aceite 3 minutos y pícalas grueso. Corta la cebolla morada en plumas muy finas y déjala 5 minutos en agua fría para suavizarla.",
     "Corta los caquis con piel en gajos finos.",
@@ -742,7 +741,7 @@ window.RECETAS_SEED.push({
     "Sala los muslos de pollo por ambas caras y resérvalos en la nevera.",
     "Añade al arroz el sake y 1 cucharadita de sal, remueve una vez y coloca las castañas encima, sin mezclarlas. Tapa, lleva a ebullición a fuego fuerte y cuece 13 minutos a fuego mínimo. Apaga y deja reposar 10 minutos sin destapar. Retira la kombu.",
     "Mientras reposa el arroz, seca los muslos y ponlos en una sartén fría con la piel hacia abajo. Enciende a fuego medio y cocina 8-10 minutos, hasta que la piel esté dorada y crujiente; dales la vuelta y cocina 4 minutos más. Déjalos reposar y córtalos en tiras.",
-    "Escalda las espinacas 40 segundos en agua hirviendo, pásalas a agua fría, escúrrelas apretando bien, córtalas en trozos de 4 cm y aliña con la salsa de soja.",
+    "Mientras se hace el pollo, pon a hervir agua y escalda las espinacas 40 segundos, pásalas a agua fría, escúrrelas apretando bien, córtalas en trozos de 4 cm y aliña con la salsa de soja.",
     "Mezcla el arroz con cuidado, de abajo arriba, para no romper las castañas. Sirve con el sésamo negro por encima, el pollo con un gajo de limón y las espinacas al lado."
   ],
   nutricion: { kcal: 755, prot: 38, hc: 103, grasa: 21 },
@@ -780,11 +779,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua abundante con sal. Limpia las coles quitando las hojas exteriores y lamínalas en rodajas de 3 mm.",
+    "Pon a hervir agua abundante con sal. Limpia las coles quitando las hojas exteriores y lamínalas en rodajas de 3 mm. Lamina los ajos.",
+    "Cuando hierva el agua, echa las orecchiette y cuécelas 1 minuto menos de lo que indique el paquete; antes de escurrirlas, reserva 150 ml del agua de cocción. Mientras se cuecen, prepara la salsa.",
     "Calienta 1 cucharada de aceite en una sartén amplia, añade la salchicha sin piel desmenuzada con los dedos y dórala 6 minutos a fuego medio-alto, hasta que esté crujiente.",
-    "Añade los ajos laminados y la guindilla desmenuzada y remueve 30 segundos. Incorpora las coles con una pizca de sal y saltea 5 minutos, hasta que estén doradas por los bordes y aún verdes. Vierte el vino y deja que se evapore 1 minuto.",
-    "Mientras, cuece las orecchiette 1 minuto menos de lo que indique el paquete. Reserva 150 ml del agua de cocción antes de escurrir.",
-    "Pasa la pasta a la sartén con 100 ml del agua de cocción y saltea a fuego fuerte 1-2 minutos, hasta que la salsa quede ligada. Fuera del fuego añade la mitad del pecorino y la ralladura de limón; si queda seca, usa el resto del agua.",
+    "Añade los ajos y la guindilla desmenuzada y remueve 30 segundos. Incorpora las coles con una pizca de sal y saltea 5 minutos, hasta que estén doradas por los bordes y aún verdes. Vierte el vino y deja que se evapore 1 minuto.",
+    "Escurre la pasta y pásala a la sartén con 100 ml del agua de cocción y saltea a fuego fuerte 1-2 minutos, hasta que la salsa quede ligada. Fuera del fuego añade la mitad del pecorino y la ralladura de limón; si queda seca, usa el resto del agua.",
     "Sirve con el resto del pecorino, pimienta recién molida y un hilo del aceite restante."
   ],
   nutricion: { kcal: 780, prot: 32, hc: 67, grasa: 42 },
@@ -825,11 +824,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela los tupinambos (o frótalos con un cepillo si la piel es fina), córtalos en trozos de 2 cm y échalos en un bol con agua y el zumo del limón para que no se oscurezcan.",
-    "En una cazuela funde la mantequilla con media cucharada de aceite y rehoga el puerro en rodajas 6 minutos a fuego suave, sin que tome color.",
-    "Añade los tupinambos escurridos y la patata en dados, rehoga 3 minutos y vierte el caldo. Lleva a ebullición y cuece tapado 20-25 minutos, hasta que estén muy tiernos.",
+    "Pela los tupinambos (o frótalos con un cepillo si la piel es fina), córtalos en trozos de 2 cm y échalos en un bol con agua y el zumo del limón para que no se oscurezcan. Corta el puerro en rodajas y pela la patata y córtala en dados.",
+    "En una cazuela funde la mantequilla con media cucharada de aceite y rehoga el puerro 6 minutos a fuego suave, sin que tome color.",
+    "Añade los tupinambos escurridos y la patata, rehoga 3 minutos y vierte el caldo. Lleva a ebullición y cuece tapado 20-25 minutos, hasta que estén muy tiernos.",
+    "Mientras cuece, tuesta las avellanas en una sartén 4 minutos, frótalas con un paño para quitarles la piel y pícalas grueso. En la misma sartén calienta la cucharada de aceite restante y fríe las hojas de salvia 20-30 segundos, hasta que estén crujientes. Tuesta el pan.",
     "Tritura con la leche hasta obtener una crema muy fina; si quieres que quede sedosa, pásala por un colador. Ajusta de sal, pimienta y nuez moscada.",
-    "Tuesta las avellanas en una sartén 4 minutos, frótalas con un paño para quitarles la piel y pícalas grueso. En la misma sartén calienta la cucharada de aceite restante y fríe las hojas de salvia 20-30 segundos, hasta que estén crujientes. Tuesta el pan.",
     "Sirve la crema con las avellanas, la salvia y unas gotas del aceite de freírla por encima, y el pan tostado al lado."
   ],
   nutricion: { kcal: 645, prot: 15, hc: 83, grasa: 28 },
@@ -871,12 +870,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los boletus secos en remojo con 400 ml de agua tibia durante 30 minutos. Sácalos, pícalos y filtra el agua del remojo por un papel de cocina para eliminar la arenilla.",
-    "En una cazuela pon el caldo, el agua del remojo filtrada, la zanahoria y la chirivía en dados pequeños, el laurel, la pimienta de Jamaica y los boletus. Lleva a ebullición y cuece 20 minutos a fuego suave.",
-    "Mientras, funde la mantequilla en una sartén y pocha la cebolla picada 5 minutos. Sube el fuego, añade los champiñones laminados y saltéalos 7-8 minutos, hasta que suelten el agua y se doren. Pásalos a la sopa y cuece 10 minutos más.",
-    "Cuece los tallarines aparte en agua con sal según el paquete y escúrrelos: si los cueces en la sopa, el caldo se enturbia.",
+    "Pon los boletus secos en remojo con 400 ml de agua tibia durante 30 minutos. Mientras, corta la zanahoria y la chirivía en dados pequeños, pica la cebolla y el eneldo y lamina los champiñones. Saca los boletus, pícalos y filtra el agua del remojo por un papel de cocina para eliminar la arenilla.",
+    "En una cazuela pon el caldo, el agua del remojo filtrada, la zanahoria y la chirivía, el laurel, la pimienta de Jamaica y los boletus. Lleva a ebullición y cuece 20 minutos a fuego suave.",
+    "Mientras, funde la mantequilla en una sartén y pocha la cebolla 5 minutos. Sube el fuego, añade los champiñones y saltéalos 7-8 minutos, hasta que suelten el agua y se doren. Pásalos a la sopa y cuece 10 minutos más.",
+    "Mientras, cuece los tallarines aparte en agua con sal según el paquete y escúrrelos: si los cueces en la sopa, el caldo se enturbia.",
     "Bate la nata agria con la harina y un cucharón de caldo caliente hasta que quede fina. Viértela en la cazuela removiendo y cuece 3 minutos a fuego suave, sin que hierva con fuerza, hasta que la sopa ligue. Salpimienta.",
-    "Reparte los tallarines en los platos, cubre con la sopa y espolvorea el eneldo picado."
+    "Reparte los tallarines en los platos, cubre con la sopa y espolvorea el eneldo."
   ],
   nutricion: { kcal: 470, prot: 15, hc: 59, grasa: 19 },
   etiquetas: ["tradicional", "otoño", "de cuchara", "ligera", "poco especiada"],

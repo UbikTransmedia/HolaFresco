@@ -84,11 +84,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "La noche anterior, pon las alubias en remojo con abundante agua fría.",
     "Por la mañana, escúrrelas, cúbrelas de agua limpia en una cazuela y hiérvelas a fuego fuerte 10 minutos. Este hervor es imprescindible con las alubias pintas y rojas: la olla lenta no se calienta lo suficiente para destruir la lectina que llevan crudas, que sienta mal. Escúrrelas.",
-    "Mientras hierven, corta el bacon en tiras y dóralo en una sartén sin aceite 5 minutos. Añade el chorizo en rodajas, la cebolla picada y el ajo, y sofríe 5 minutos más, hasta que la cebolla esté blanda.",
+    "Mientras hierven, corta el bacon en tiras y el chorizo en rodajas, pica la cebolla, el ajo y los tomates. Dora el bacon en una sartén sin aceite 5 minutos. Añade el chorizo, la cebolla y el ajo, y sofríe 5 minutos más, hasta que la cebolla esté blanda.",
     "Pon en la olla lenta las alubias, el sofrito con su grasa, los tomates picados, el jalapeño abierto a lo largo (quítale las semillas si no quieres picante), el comino, el orégano, la cerveza y el agua.",
     "Tapa y programa BAJO durante 8 horas.",
     "Al volver, las alubias deben estar cremosas y el caldo, oscuro y algo espeso. Sala ahora, con cuidado, porque el bacon y el chorizo ya aportan. Si lo quieres más trabado, aplasta un cucharón de alubias contra la pared y remueve.",
-    "Calienta las tortillas en una sartén seca 30 segundos por cada lado y sirve los frijoles en cuenco con su caldo, el cilantro picado por encima y las tortillas al lado."
+    "Pica el cilantro. Calienta las tortillas en una sartén seca 30 segundos por cada lado y sirve los frijoles en cuenco con su caldo, el cilantro por encima y las tortillas al lado."
   ],
   nutricion: { kcal: 680, prot: 33, hc: 80, grasa: 24 },
   etiquetas: ["slow cooker", "tradicional", "de cuchara", "picante", "batch cooking", "invierno"],
@@ -131,13 +131,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La noche anterior, pon los garbanzos negros en remojo con abundante agua: tienen la piel más dura que los blancos y agradecen hasta 16 horas.",
-    "Por la mañana, pica la cebolla fina y ralla el ajo, el jengibre y los tomates (desecha la piel de los tomates).",
-    "Calienta el aceite en la sartén a fuego medio y dora la cebolla 8-10 minutos, hasta que esté marrón clara: de ese dorado sale el fondo del curry. Añade ajo, jengibre, el chile picado, el comino, el cilantro molido y la cúrcuma, y remueve 1 minuto.",
+    "Por la mañana, pica la cebolla fina y el chile, y ralla el ajo, el jengibre y los tomates (desecha la piel de los tomates).",
+    "Calienta el aceite en la sartén a fuego medio y dora la cebolla 8-10 minutos, hasta que esté marrón clara: de ese dorado sale el fondo del curry. Añade ajo, jengibre, el chile, el comino, el cilantro molido y la cúrcuma, y remueve 1 minuto.",
     "Incorpora el tomate rallado y cocina 5 minutos, hasta que el aceite se separe por los bordes.",
     "Pasa el sofrito a la olla lenta con los garbanzos escurridos y los 600 ml de agua. Tapa y programa BAJO 9 horas (o ALTO 5 horas).",
     "Al volver, comprueba que los garbanzos están tiernos, sala y añade el garam masala. Si el caldo está muy líquido, aplasta un cucharón de garbanzos y deja la olla en ALTO destapada 15 minutos.",
-    "Mientras, lava el arroz hasta que el agua salga clara, cuécelo en la cazuela con 280 ml de agua y sal: cuando hierva, tapa y deja 10 minutos a fuego mínimo y 5 de reposo.",
-    "Sirve el curry junto al arroz con cilantro fresco picado y un chorrito de limón."
+    "Mientras, lava el arroz hasta que el agua salga clara, cuécelo en la cazuela con 280 ml de agua y sal: cuando hierva, tapa y deja 10 minutos a fuego mínimo y 5 de reposo. Pica el cilantro.",
+    "Sirve el curry junto al arroz con el cilantro por encima y un chorrito de limón."
   ],
   nutricion: { kcal: 690, prot: 22, hc: 109, grasa: 18 },
   etiquetas: ["slow cooker", "tradicional", "de cuchara", "vegana", "sin gluten", "batch cooking", "bajo en colesterol"],
@@ -186,7 +186,7 @@ window.RECETAS_SEED.push({
     "Al volver, prepara el roux: derrite la mantequilla en la sartén a fuego medio-bajo, añade la harina y remueve 3-4 minutos, hasta que huela a galleta y tome color avellana. Echa el curry en polvo y remueve 30 segundos más.",
     "Diluye el roux con un cucharón de caldo de la olla hasta formar una pasta lisa, viértelo en la olla, remueve con cuidado para no romper la patata y deja en ALTO destapado 20-30 minutos, hasta que la salsa cubra el dorso de una cuchara.",
     "Mientras, lava el arroz redondo hasta que el agua salga casi clara y cuécelo en la cazuela con 180 ml de agua: cuando hierva, tapa, fuego mínimo 12 minutos y 10 de reposo sin destapar.",
-    "Para el encurtido, corta el pepino en láminas finas, sálalo, espera 10 minutos, escúrrelo apretando y aliña con el vinagre de arroz.",
+    "Mientras se hace el arroz, prepara el encurtido: corta el pepino en láminas finas, sálalo, espera 10 minutos, escúrrelo apretando y aliña con el vinagre de arroz.",
     "Sirve el arroz a un lado del plato y el curry al otro, con el pepino encurtido. Prueba de sal la salsa antes de servir."
   ],
   nutricion: { kcal: 890, prot: 47, hc: 106, grasa: 30 },
@@ -228,12 +228,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Por la mañana, corta el cordero en dados de 4 cm, salpimiéntalo y dóralo en la sartén con 1 cucharada de aceite a fuego fuerte, en dos tandas, unos 5 minutos. Pásalo a la olla lenta.",
-    "En la misma sartén, pocha la cebolla en media luna con la cúrcuma 6-7 minutos. Añade un chorrito de agua, raspa el fondo para recoger lo tostado y vuélcalo en la olla.",
+    "Por la mañana, corta la cebolla en media luna y el cordero en dados de 4 cm; salpimienta el cordero y dóralo en la sartén con 1 cucharada de aceite a fuego fuerte, en dos tandas, unos 5 minutos. Pásalo a la olla lenta.",
+    "En la misma sartén, pocha la cebolla con la cúrcuma 6-7 minutos. Añade un chorrito de agua, raspa el fondo para recoger lo tostado y vuélcalo en la olla.",
     "Frota el membrillo con un paño para quitarle la pelusilla, descorazónalo sin pelar y córtalo en 8 gajos. Dóralos 3-4 minutos en la sartén con el resto del aceite: así mantienen la forma durante horas.",
     "Añade a la olla los guisantes partidos lavados, la canela, las ciruelas, el membrillo encima y los 400 ml de agua caliente. Tapa y programa BAJO 7-8 horas.",
-    "Antes de servir, maja el azafrán con una pizca de azúcar y déjalo 10 minutos en 2 cucharadas de agua caliente. Añádelo a la olla con el zumo del limón y el azúcar; prueba: debe quedar entre ácido y dulce. Sala y deja en ALTO 15 minutos.",
-    "Mientras, lava el arroz hasta que el agua salga clara y cuécelo en la cazuela con 280 ml de agua y sal: tapado, 10 minutos a fuego mínimo y 5 de reposo.",
+    "Antes de servir, maja el azafrán con una pizca de azúcar y déjalo 10 minutos en 2 cucharadas de agua caliente. Mientras, lava el arroz hasta que el agua salga clara y cuécelo en la cazuela con 280 ml de agua y sal: tapado, 10 minutos a fuego mínimo y 5 de reposo.",
+    "Añade el azafrán a la olla con el zumo del limón y el azúcar; prueba: debe quedar entre ácido y dulce. Sala y deja en ALTO 15 minutos.",
     "Sirve el arroz con el guiso por encima, el membrillo y las ciruelas bien visibles."
   ],
   nutricion: { kcal: 960, prot: 42, hc: 112, grasa: 39 },
@@ -274,10 +274,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Por la mañana, corta el cerdo en dados de 5 cm, salpimiéntalo y dóralo en la sartén con el aceite a fuego fuerte, en dos tandas, 6-8 minutos hasta que esté bien tostado.",
-    "Pela las patatas, córtalas en trozos grandes y colócalas en el fondo de la olla lenta: las raíces tardan más que la carne y en el fondo reciben más calor.",
-    "En la misma sartén, pocha la cebolla en juliana 5 minutos, vierte la sidra y raspa el fondo. Déjala hervir 2 minutos para que pierda parte del alcohol.",
-    "Coloca el cerdo sobre las patatas, una manzana en gajos gruesos, el tomillo y el laurel, y vierte la sidra con la cebolla. Tapa y programa BAJO 7 horas.",
-    "Al volver, mezcla en un vaso la nata, la mostaza y la maicena. Viértelo en la olla, añade la segunda manzana en gajos finos y deja en ALTO, destapado, 20-25 minutos, hasta que la salsa espese ligeramente y la manzana esté tierna pero entera.",
+    "Pela las patatas, córtalas en trozos grandes y colócalas en el fondo de la olla lenta: las raíces tardan más que la carne y en el fondo reciben más calor. Corta la cebolla en juliana y una de las manzanas en gajos gruesos.",
+    "En la misma sartén, pocha la cebolla 5 minutos, vierte la sidra y raspa el fondo. Déjala hervir 2 minutos para que pierda parte del alcohol.",
+    "Coloca el cerdo sobre las patatas, la manzana en gajos, el tomillo y el laurel, y vierte la sidra con la cebolla. Tapa y programa BAJO 7 horas.",
+    "Al volver, corta la segunda manzana en gajos finos y mezcla en un vaso la nata, la mostaza y la maicena. Viértelo en la olla, añade la manzana y deja en ALTO, destapado, 20-25 minutos, hasta que la salsa espese ligeramente y la manzana esté tierna pero entera.",
     "Retira el laurel y las ramas de tomillo, prueba de sal y sirve la carne con las patatas y la salsa por encima."
   ],
   nutricion: { kcal: 870, prot: 42, hc: 72, grasa: 44 },
@@ -322,9 +322,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La noche anterior (o al menos 30 minutos antes), adoba el pollo en un bol con el ajo machacado, el zumo de la naranja y de la lima, el comino, el orégano, sal y pimienta. Guárdalo tapado en la nevera.",
-    "Por la mañana, pela las patatas, córtalas en trozos grandes y ponlas en el fondo de la olla lenta.",
+    "Por la mañana, pela las patatas, córtalas en trozos grandes y ponlas en el fondo de la olla lenta. Pica la cebolla y el pimiento.",
     "Escurre el pollo (guarda el adobo) y dóralo en la sartén con el aceite a fuego fuerte, 4 minutos por cada lado. Colócalo sobre las patatas.",
-    "En la misma sartén, sofríe la cebolla y el pimiento picados 6 minutos. Añade el tomate, el vino y el adobo reservado, y hierve 2 minutos raspando el fondo.",
+    "En la misma sartén, sofríe la cebolla y el pimiento 6 minutos. Añade el tomate, el vino y el adobo reservado, y hierve 2 minutos raspando el fondo.",
     "Vierte la salsa en la olla, reparte las aceitunas, las pasas y el laurel. Tapa y programa BAJO 6 horas: el contramuslo con hueso aguanta bien hasta 7 sin secarse.",
     "Al volver, prueba de sal. Si la salsa está líquida, deja la olla en ALTO destapada 15-20 minutos. Puedes quitar los huesos con dos tenedores antes de servir."
   ],
@@ -366,9 +366,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Por la mañana, lamina el ajo y corta el pimiento en tiras finas.",
+    "Por la mañana, lamina el ajo, corta el pimiento en tiras finas y pica el cilantro.",
     "Calienta el aceite en la sartén a fuego medio-bajo y sofríe el ajo y el pimiento 5 minutos, sin que el ajo se dore. Aparta del fuego y añade los dos pimentones, el comino y la alcaravea: el aceite caliente despierta las especias sin quemarlas.",
-    "Pasa el sofrito a la olla lenta con el tomate triturado, el tomate concentrado y la mitad del cilantro picado. Sala un poco, tapa y programa BAJO 6 horas.",
+    "Pasa el sofrito a la olla lenta con el tomate triturado, el tomate concentrado y la mitad del cilantro. Sala un poco, tapa y programa BAJO 6 horas.",
     "Al volver, la salsa estará espesa y rojo oscuro. Pon la olla en ALTO, sala los trozos de merluza y húndelos en la salsa, cubriéndolos con ella.",
     "Tapa y deja 30-40 minutos, hasta que la merluza esté opaca y se separe en láminas al apretarla con un tenedor.",
     "Sirve con el resto del cilantro, unas gotas de limón y el pan para mojar la salsa."
@@ -419,8 +419,8 @@ window.RECETAS_SEED.push({
     "Pocha la cebolla en la sartén con 1 cucharada de aceite 6 minutos. Añade ajo, jengibre, ras el hanout y canela, remueve 30 segundos y aparta.",
     "Pon en la olla lenta los garbanzos escurridos, el sofrito, la zanahoria, el tomate y 400 ml de caldo. Coloca la calabaza y los orejones por encima (así se cuecen al vapor y no se deshacen). Tapa y programa BAJO 8 horas.",
     "Al volver, comprueba que los garbanzos están tiernos, sala y añade el zumo de limón. Si quieres más salsa, añade un poco de caldo caliente.",
-    "Calienta los 200 ml de caldo restantes en la cazuela, apaga, echa el cuscús con 1 cucharada de aceite y sal, tapa 5 minutos y suéltalo con un tenedor.",
-    "Tuesta las almendras en la sartén seca 3 minutos y pícalas. Sirve el tajine sobre el cuscús con las almendras y el cilantro picado."
+    "Calienta los 200 ml de caldo restantes en la cazuela, apaga, echa el cuscús con 1 cucharada de aceite y sal y tapa 5 minutos. Mientras, tuesta las almendras en la sartén seca 3 minutos, pícalas y pica el cilantro. Suelta el cuscús con un tenedor.",
+    "Sirve el tajine sobre el cuscús con las almendras y el cilantro por encima."
   ],
   nutricion: { kcal: 865, prot: 29, hc: 130, grasa: 25 },
   etiquetas: ["slow cooker", "creativa", "vegana", "batch cooking", "invierno", "otoño", "bajo en colesterol"],
@@ -464,8 +464,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Por la mañana, haz el roux: calienta el aceite en la sartén a fuego medio-bajo, añade la harina y remueve sin parar 15-20 minutos, hasta que tenga color de chocolate con leche y huela a avellana tostada. Si ves puntos negros, se ha quemado y hay que empezar de nuevo.",
-    "Añade al roux la cebolla, el pimiento y el apio picados (la «santísima trinidad» criolla) y el ajo; remueve 4 minutos: las verduras frenan el tostado y se ablandan.",
+    "Por la mañana, pica la cebolla, el pimiento, el apio y el ajo. Haz el roux: calienta el aceite en la sartén a fuego medio-bajo, añade la harina y remueve sin parar 15-20 minutos, hasta que tenga color de chocolate con leche y huela a avellana tostada. Si ves puntos negros, se ha quemado y hay que empezar de nuevo.",
+    "Añade al roux la cebolla, el pimiento y el apio (la «santísima trinidad» criolla) y el ajo; remueve 4 minutos: las verduras frenan el tostado y se ablandan.",
     "Pásalo a la olla lenta y deslíelo con el caldo caliente, removiendo hasta que no queden grumos. Añade el tomillo, el pimentón, la cayena y el laurel.",
     "Lava las acelgas, el kale y las espinacas, quita los tallos duros del kale y pica todas las hojas. Incorpóralas a la olla con las alubias escurridas. Tapa y programa BAJO 6 horas.",
     "Al volver, el gumbo debe estar espeso y de color verde oscuro. Salpimienta y retira el laurel.",
@@ -511,10 +511,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Por la mañana, unta el interior de la olla lenta con un poco de la mantequilla. Pon la leche, el agua y 1 cucharadita de sal y añade la polenta en lluvia, batiendo con unas varillas para que no queden grumos.",
     "Tapa y programa BAJO 6 horas. Si puedes dar una vuelta con las varillas a media cocción, mejor, pero no es imprescindible.",
-    "Al volver, limpia las setas con un paño y córtalas en trozos grandes. Calienta el aceite en la sartén a fuego fuerte y saltéalas 6-8 minutos sin moverlas demasiado, hasta que suelten el agua y se doren.",
-    "Añade el ajo laminado y las hojas de tomillo en el último minuto, salpimienta y aparta.",
-    "Bate la polenta con energía, incorpora el resto de la mantequilla y el parmesano rallado. Debe caer de la cuchara como un puré espeso; si está demasiado firme, añade un chorro de leche o agua caliente.",
-    "Sirve la polenta en platos hondos, reparte encima las setas, el gorgonzola en trocitos (se fundirá con el calor) y las nueces troceadas. Termina con pimienta recién molida."
+    "Al volver, lamina el ajo, deshoja el tomillo, ralla el parmesano, trocea las nueces y corta el gorgonzola en trocitos. Limpia las setas con un paño y córtalas en trozos grandes. Calienta el aceite en la sartén a fuego fuerte y saltéalas 6-8 minutos sin moverlas demasiado, hasta que suelten el agua y se doren.",
+    "Añade el ajo y las hojas de tomillo en el último minuto, salpimienta y aparta.",
+    "Bate la polenta con energía, incorpora el resto de la mantequilla y el parmesano. Debe caer de la cuchara como un puré espeso; si está demasiado firme, añade un chorro de leche o agua caliente.",
+    "Sirve la polenta en platos hondos, reparte encima las setas, el gorgonzola (se fundirá con el calor) y las nueces. Termina con pimienta recién molida."
   ],
   nutricion: { kcal: 840, prot: 31, hc: 76, grasa: 46 },
   etiquetas: ["slow cooker", "creativa", "sin gluten", "otoño", "invierno", "poco especiada"],
@@ -556,10 +556,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Por la mañana, corta la carne en dados de 2 cm (es una sopa: todo debe caber en la cuchara), la patata, la zanahoria y el pimiento en dados de 1,5 cm y pica la cebolla.",
+    "Por la mañana, corta la carne en dados de 2 cm (es una sopa: todo debe caber en la cuchara), la patata, la zanahoria y el pimiento en dados de 1,5 cm, pica la cebolla y el ajo, y pela y pica el tomate.",
     "Pocha la cebolla en la sartén con el aceite a fuego medio 8 minutos, hasta que esté dorada. Sube el fuego, añade la carne y dórala 5 minutos.",
     "Aparta la sartén del fuego y añade los dos pimentones y la alcaravea, removiendo 30 segundos: el pimentón se quema en segundos y amarga toda la sopa.",
-    "Pasa todo a la olla lenta con la patata, la zanahoria, el pimiento, el tomate pelado y picado, el ajo, el laurel y el agua caliente. Sala ligeramente. Tapa y programa BAJO 8 horas.",
+    "Pasa todo a la olla lenta con la patata, la zanahoria, el pimiento, el tomate, el ajo, el laurel y el agua caliente. Sala ligeramente. Tapa y programa BAJO 8 horas.",
     "Al volver, la carne debe deshacerse y el caldo estar rojo y algo espeso por el almidón de la patata. Rectifica de sal y pimienta y retira el laurel.",
     "Sirve muy caliente con el pan."
   ],
@@ -607,8 +607,8 @@ window.RECETAS_SEED.push({
     "Pica la cebolla y lamina los champiñones. Dóralos en la sartén con la mantequilla a fuego medio-alto 6-7 minutos.",
     "Lava la cebada en un colador. Pela y corta la patata en dados de 2 cm, la zanahoria y el apio en rodajas.",
     "Pon en la olla lenta los contramuslos enteros, la cebada, las verduras, el sofrito de champiñones, los boletus escurridos y picados con su agua de remojo (deja el fondo con arena), el laurel, la pimienta de Jamaica y el agua caliente. Sala ligeramente. Tapa y programa BAJO 7 horas.",
-    "Al volver, saca los contramuslos, desmenúzalos con dos tenedores y devuélvelos a la olla. La cebada habrá espesado la sopa: si la quieres más ligera, añade agua caliente.",
-    "Rectifica de sal y pimienta, retira el laurel y sirve con mucho eneldo y perejil picados por encima."
+    "Al volver, saca los contramuslos, desmenúzalos con dos tenedores y devuélvelos a la olla. La cebada habrá espesado la sopa: si la quieres más ligera, añade agua caliente. Pica el eneldo y el perejil.",
+    "Rectifica de sal y pimienta, retira el laurel y sirve con mucho eneldo y perejil por encima."
   ],
   nutricion: { kcal: 620, prot: 43, hc: 66, grasa: 20 },
   etiquetas: ["slow cooker", "tradicional", "de cuchara", "invierno", "batch cooking", "alta en proteína", "poco especiada"],
@@ -648,13 +648,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Por la mañana, salpimienta el conejo y dóralo en la sartén con 2 cucharadas de aceite a fuego fuerte, 6-8 minutos, hasta que esté dorado por todos los lados. Pásalo a la olla lenta.",
-    "En la misma sartén, con el resto del aceite, sofríe 6 minutos la cebolla, la zanahoria y el apio picados muy finos (el soffritto) con el ajo.",
+    "Por la mañana, pica muy finos la cebolla, la zanahoria, el apio y el ajo. Salpimienta el conejo y dóralo en la sartén con 2 cucharadas de aceite a fuego fuerte, 6-8 minutos, hasta que esté dorado por todos los lados. Pásalo a la olla lenta.",
+    "En la misma sartén, con el resto del aceite, sofríe 6 minutos la cebolla, la zanahoria y el apio (el soffritto) con el ajo.",
     "Vierte el vino, raspa el fondo y deja hervir 2 minutos. Añade el tomate y vuélcalo todo sobre el conejo con el romero y el laurel. Tapa y programa BAJO 6 horas.",
     "Al volver, saca el conejo a una fuente y desmenúzalo con dos tenedores. Hazlo con calma: el conejo tiene huesos pequeños y hay que retirarlos todos.",
-    "Devuelve la carne a la olla, quita el romero y el laurel y deja en ALTO destapado 20 minutos para que la salsa reduzca.",
-    "Cuece las pappardelle en la cazuela con agua abundante y sal el tiempo que indique el paquete menos 1 minuto. Reserva un vaso del agua de cocción.",
-    "Escurre la pasta, mézclala con el ragú y un chorrito del agua de cocción hasta que la salsa la envuelva y brille. Sirve con parmesano rallado y pimienta."
+    "Devuelve la carne a la olla, quita el romero y el laurel y deja en ALTO destapado 20 minutos para que la salsa reduzca. Mientras, pon a hervir la cazuela con agua abundante y sal, y ralla el parmesano.",
+    "Cuece las pappardelle en el agua hirviendo el tiempo que indique el paquete menos 1 minuto. Reserva un vaso del agua de cocción.",
+    "Escurre la pasta, mézclala con el ragú y un chorrito del agua de cocción hasta que la salsa la envuelva y brille. Sirve con el parmesano y pimienta."
   ],
   nutricion: { kcal: 840, prot: 54, hc: 69, grasa: 36 },
   etiquetas: ["slow cooker", "tradicional", "batch cooking", "alta en proteína", "poco especiada"],
@@ -694,13 +694,13 @@ window.RECETAS_SEED.push({
     { n: "agua", q: 1300, u: "ml" }
   ],
   pasos: [
-    "Por la mañana, corta el morcillo en trozos de 4 cm, el jengibre en rodajas, aplasta los ajos y corta la cebolleta en trozos, separando las partes verdes para el final.",
+    "Por la mañana, corta el morcillo en trozos de 4 cm, el jengibre en rodajas y el tomate en trozos, aplasta los ajos y corta la cebolleta en trozos, separando las partes verdes para el final.",
     "Calienta el aceite en la sartén a fuego medio y sofríe el jengibre, el ajo y la parte blanca de la cebolleta 2 minutos. Añade la pasta de alubias picante y remueve 1 minuto, hasta que el aceite se tiña de rojo.",
     "Sube el fuego, añade la carne y dórala 4 minutos. Echa el vino y raspa el fondo.",
-    "Pasa todo a la olla lenta con el tomate en trozos, la soja, el anís, la canela y el agua caliente. Tapa y programa BAJO 8 horas.",
-    "Al volver, retira con una espumadera las especias, el jengibre y la grasa que flote. Prueba el caldo: debe estar sabroso y algo salado, porque los fideos lo suavizan.",
-    "Cuece los fideos en la cazuela con agua abundante sin sal según el paquete; en el último minuto añade el pak choi partido por la mitad. Escurre.",
-    "Reparte fideos y pak choi en dos cuencos grandes, pon encima la carne y cubre con el caldo hirviendo. Termina con la parte verde de la cebolleta picada."
+    "Pasa todo a la olla lenta con el tomate, la soja, el anís, la canela y el agua caliente. Tapa y programa BAJO 8 horas.",
+    "Al volver, pon a hervir agua abundante sin sal en la cazuela. Mientras, retira de la olla con una espumadera las especias, el jengibre y la grasa que flote, y pica la parte verde de la cebolleta. Prueba el caldo: debe estar sabroso y algo salado, porque los fideos lo suavizan.",
+    "Cuece los fideos en el agua hirviendo según el paquete; en el último minuto añade el pak choi partido por la mitad. Escurre.",
+    "Reparte fideos y pak choi en dos cuencos grandes, pon encima la carne y cubre con el caldo hirviendo. Termina con la cebolleta picada."
   ],
   nutricion: { kcal: 730, prot: 56, hc: 68, grasa: 24 },
   etiquetas: ["slow cooker", "tradicional", "picante", "de cuchara", "invierno", "alta en proteína"],
@@ -783,10 +783,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre las habitas, pásalas con cuidado por agua fría para quitar el líquido de la conserva y déjalas escurrir sobre papel de cocina.",
-    "Corta la cebolleta en aros muy finos y el tomate en dados de 1 cm. Pica la mitad de la menta.",
+    "Corta la cebolleta en aros muy finos, el tomate en dados de 1 cm y el jamón en tiras. Pica la mitad de la menta.",
     "En un bol, bate el aceite con el vinagre, una pizca de sal y pimienta. Añade la cebolleta y deja 3 minutos.",
     "Agrega las habitas, el tomate y la menta picada y mezcla con suavidad para no romper las habitas.",
-    "Reparte en dos platos y coloca por encima el jamón en tiras y las hojas de menta enteras. Sirve con el pan para mojar el aliño."
+    "Reparte en dos platos y coloca por encima el jamón y las hojas de menta enteras. Sirve con el pan para mojar el aliño."
   ],
   nutricion: { kcal: 505, prot: 22, hc: 44, grasa: 26 },
   etiquetas: ["sin cocción", "creativa", "rápida", "primavera", "poco especiada"],
@@ -827,7 +827,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el hinojo por la mitad, quita el corazón duro y lamínalo lo más fino que puedas (con mandolina si tienes). Guarda las hojitas verdes.",
     "Corta la manzana en bastones finos sin pelar y riégalos con la mitad del zumo de limón para que no se oxiden.",
-    "Mezcla el yogur con el rábano picante, el resto del zumo de limón, la mitad del eneldo picado, sal y pimienta. Prueba: debe picar un poco.",
+    "Pica el eneldo. Mezcla el yogur con el rábano picante, el resto del zumo de limón, la mitad del eneldo, sal y pimienta. Prueba: debe picar un poco.",
     "En un bol, aliña los canónigos, el hinojo y la manzana con el aceite y una pizca de sal.",
     "Reparte la ensalada en dos platos, coloca encima el salmón en lonchas con forma de rosa, las alcaparras, las hojas de hinojo y el resto del eneldo.",
     "Sirve con la crema de rábano picante en un cuenco al lado y el pan de centeno en rebanadas finas."
@@ -870,10 +870,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Escurre y enjuaga las carillas y déjalas escurrir bien.",
     "Pica muy fino el chile (sin semillas si lo quieres suave) y la cebolla morada. Ponlos en un bol con el zumo de la lima, el aceite y sal, y deja reposar 5 minutos.",
-    "Corta el tomate y el pepino en dados de 1 cm y el aguacate en dados algo más grandes.",
+    "Corta el tomate y el pepino en dados de 1 cm y el aguacate en dados algo más grandes. Pica los cacahuetes y el cilantro.",
     "Añade al bol las carillas, el tomate y el pepino y mezcla con el aliño. Incorpora el aguacate al final, con cuidado.",
     "Reparte en dos platos, coloca las sardinas en trozos grandes por encima y riega con un poco de su aceite.",
-    "Termina con los cacahuetes picados y el cilantro."
+    "Termina con los cacahuetes y el cilantro."
   ],
   nutricion: { kcal: 610, prot: 32, hc: 45, grasa: 32 },
   etiquetas: ["sin cocción", "creativa", "rápida", "sin gluten", "alta en proteína", "verano", "superalimentos"],
@@ -911,9 +911,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Usa atún que haya estado congelado al menos 5 días a -20 °C (o cómpralo ya ultracongelado): es obligatorio para comer pescado crudo por el anisakis. Descongélalo en la nevera la víspera.",
-    "Mete el atún 15 minutos en el congelador para que esté firme y córtalo con el cuchillo más afilado en láminas de 3-4 mm, en un solo movimiento por corte. Repártelas en dos platos fríos, sin solaparlas.",
-    "Prepara la salsa: mezcla el zumo de las limas, la soja, el jengibre rallado, la pasta de ají amarillo y el aceite de sésamo. Prueba: debe ser ácida, salada y algo picante.",
-    "Corta el aguacate en dados pequeños y la cebolleta en aros finos (solo la parte verde y tierna).",
+    "Mete el atún 15 minutos en el congelador para que esté firme. Mientras, prepara la salsa: ralla el jengibre y mézclalo con el zumo de las limas, la soja, la pasta de ají amarillo y el aceite de sésamo. Prueba: debe ser ácida, salada y algo picante. Corta la cebolleta en aros finos (solo la parte verde y tierna).",
+    "Saca el atún y córtalo con el cuchillo más afilado en láminas de 3-4 mm, en un solo movimiento por corte. Repártelas en dos platos fríos, sin solaparlas.",
+    "Corta el aguacate en dados pequeños.",
     "Justo antes de comer, riega el atún con la salsa: el ácido empieza a «cocinar» los bordes en un minuto.",
     "Reparte por encima el aguacate, el maíz, la cebolleta, el sésamo y el cilantro, y sirve enseguida."
   ],
@@ -952,9 +952,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mete las patas de pulpo 20 minutos en el congelador: muy frías se cortan sin deshacerse.",
-    "Prepara el aliño: ralla la piel de medio limón, exprime su zumo y bátelo con el aceite, el perejil picado, sal y pimienta.",
+    "Mientras se enfría, prepara el aliño: pica el perejil, ralla la piel de medio limón, exprime su zumo y bátelo con el aceite, el perejil, sal y pimienta. Corta los tomates cherry en cuartos.",
     "Corta el pulpo en rodajas finísimas, de 2 mm, con un cuchillo bien afilado y en diagonal. Repártelas en dos platos llanos formando una capa.",
-    "Corta los tomates cherry en cuartos y repártelos por encima con las alcaparras.",
+    "Reparte los tomates cherry por encima con las alcaparras.",
     "Riega con el aliño, pon en el centro un puñado de rúcula y termina con un poco más de ralladura de limón.",
     "Sirve con el pan para recoger el aliño del plato."
   ],
@@ -1036,7 +1036,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la salsa: mezcla la crema de cacahuete con la soja, el zumo de la lima, la sriracha y 3-4 cucharadas de agua hasta que quede como una crema ligera. Pica los cacahuetes y espárcelos por encima.",
-    "Corta el tofu ahumado en bastones de 1 cm, el mango pelado en tiras, la zanahoria rallada en juliana y el pepino en bastones finos. Trocea la lechuga y deshoja las hierbas.",
+    "Corta el tofu ahumado en bastones de 1 cm, el mango pelado en tiras, la zanahoria en juliana (o rállala gruesa) y el pepino en bastones finos. Trocea la lechuga y deshoja las hierbas.",
     "Llena un plato hondo con agua fría del grifo. Sumerge una oblea 5 segundos, hasta que empiece a ablandarse, y ponla sobre una tabla húmeda: terminará de ablandarse en unos segundos.",
     "En el tercio inferior coloca un poco de lechuga, zanahoria, pepino, dos bastones de tofu, mango y hojas de menta y cilantro.",
     "Dobla el borde inferior sobre el relleno apretando, dobla los laterales hacia dentro y enrolla firme hasta el final. Repite con el resto de obleas.",
@@ -1127,9 +1127,9 @@ window.RECETAS_SEED.push({
     "Escurre la remolacha, sécala con papel de cocina y córtala en dados muy pequeños, de 3-4 mm. Ponte guantes o lávate las manos enseguida: tiñe mucho.",
     "Pica muy fino las alcaparras, los pepinillos y la cebolleta.",
     "En un bol, mezcla la mostaza, la soja, el zumo de limón y el aceite. Añade la remolacha y los picados, salpimienta y mezcla bien. Deja reposar 10 minutos en la nevera para que tome sabor.",
-    "Corta el aguacate en dados del mismo tamaño y alíñalo con unas gotas de limón y sal.",
+    "Mientras reposa, pica el cebollino, trocea las nueces y corta el aguacate en dados del mismo tamaño; alíñalo con unas gotas de limón y sal.",
     "Monta el tartar en un aro sobre cada plato: primero una capa de aguacate y encima la remolacha, presionando ligeramente. Retira el aro.",
-    "Termina con el cebollino picado y las nueces troceadas, y sirve con el pan en rebanadas."
+    "Termina con el cebollino y las nueces, y sirve con el pan en rebanadas."
   ],
   nutricion: { kcal: 580, prot: 12, hc: 50, grasa: 36 },
   etiquetas: ["sin cocción", "creativa", "vegana", "rápida", "otoño", "invierno", "poco especiada"],
@@ -1264,8 +1264,8 @@ window.RECETAS_SEED.push({
     "Quita las semillas y las membranas blancas a los pimientos y trocéalos. Trocea los tomates. Quita el germen al ajo para que no repita.",
     "Tritura en la batidora los pimientos, los tomates, el ajo, las almendras, el pan con su agua, el vinagre, el pimentón y sal durante 2 minutos, hasta que no queden trozos de almendra.",
     "Con la batidora en marcha, añade el aceite en hilo fino: así emulsiona y queda sedoso y de color anaranjado.",
-    "Pasa el gazpacho por un colador fino si quieres una textura de restaurante y prueba de sal y vinagre. Enfríalo en la nevera al menos 1 hora (o añade unos cubitos al triturar si lo quieres ya).",
-    "Sirve en cuencos con los mejillones escurridos por encima, el pepino en dados pequeños y unas gotas del escabeche de la lata."
+    "Pasa el gazpacho por un colador fino si quieres una textura de restaurante y prueba de sal y vinagre. Enfríalo en la nevera al menos 1 hora (o añade unos cubitos al triturar si lo quieres ya). Mientras, corta el pepino en dados pequeños.",
+    "Sirve en cuencos con los mejillones escurridos por encima, el pepino y unas gotas del escabeche de la lata."
   ],
   nutricion: { kcal: 645, prot: 21, hc: 38, grasa: 45 },
   etiquetas: ["sin cocción", "creativa", "verano", "rápida", "poco especiada"],
@@ -1307,8 +1307,7 @@ window.RECETAS_SEED.push({
     "Pon la wakame en un bol con agua fría 10 minutos: se multiplicará por diez. Escúrrela, apriétala y trocéala si las hojas son grandes.",
     "Mientras, corta el pepino en juliana fina (bastones de 5 cm) y la cebolleta en aros. Ralla el ajo.",
     "En una jarra o bol grande, mezcla el agua fría con la soja, el vinagre y el azúcar hasta que se disuelva. Prueba: debe estar ácido, dulce y salado a la vez, más intenso de lo normal, porque el hielo lo diluye.",
-    "Añade al caldo el pepino, la wakame, el ajo y la cebolleta, y deja enfriar en la nevera al menos 10 minutos (o hasta servir).",
-    "Corta el tofu en dados de 1,5 cm.",
+    "Añade al caldo el pepino, la wakame, el ajo y la cebolleta, y deja enfriar en la nevera al menos 10 minutos (o hasta servir). Mientras, corta el tofu en dados de 1,5 cm.",
     "Reparte en cuencos el tofu y las gambas, vierte el caldo frío con las verduras, añade unos cubitos y termina con el sésamo, los copos de chile y unas gotas de aceite de sésamo."
   ],
   nutricion: { kcal: 415, prot: 46, hc: 21, grasa: 15 },
@@ -1352,9 +1351,9 @@ window.RECETAS_SEED.push({
     "Prepara la leche de tigre: tritura en la batidora el zumo de las limas y de la media naranja con los tallos del cilantro, un trozo de cebolla, medio jalapeño y sal, y cuélala.",
     "Corta el resto de la cebolla en juliana muy fina y lávala con agua fría para suavizarla. Pica el resto del jalapeño sin semillas.",
     "Corta el mango, el tomate sin semillas y el pepino en dados de 1 cm.",
-    "En un bol, mezcla los garbanzos con la leche de tigre y el aceite y deja 10 minutos en la nevera para que se impregnen.",
+    "En un bol, mezcla los garbanzos con la leche de tigre y el aceite y deja 10 minutos en la nevera para que se impregnen. Mientras, corta el aguacate en láminas.",
     "Añade el mango, el tomate, el pepino, la cebolla, el jalapeño y las hojas de cilantro, y mezcla. Prueba de sal y lima.",
-    "Sirve el ceviche en cuencos con el aguacate en láminas y las tostadas de maíz para usarlas como cuchara."
+    "Sirve el ceviche en cuencos con el aguacate y las tostadas de maíz para usarlas como cuchara."
   ],
   nutricion: { kcal: 655, prot: 19, hc: 77, grasa: 29 },
   etiquetas: ["sin cocción", "creativa", "vegana", "sin gluten", "rápida", "verano", "superalimentos"],

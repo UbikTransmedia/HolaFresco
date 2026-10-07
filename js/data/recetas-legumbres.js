@@ -77,13 +77,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela y ralla el jengibre y el ajo. Corta las cebolletas en rodajas finas, separando la parte blanca de la verde. Pica el chile (sin semillas si lo quieres suave). Ralla la piel de la lima y resérvala; corta la lima en cuartos.",
+    "Pela y ralla el jengibre y el ajo. Corta las cebolletas en rodajas finas, separando la parte blanca de la verde. Pica el chile (sin semillas si lo quieres suave). Ralla la piel de la lima y resérvala; corta la lima en cuartos. Pica el cilantro.",
     "Calienta el aceite en una cazuela a fuego medio y sofríe la parte blanca de la cebolleta, el jengibre, el ajo y el chile durante 2 minutos, hasta que huela bien.",
     "Añade la pasta de curry rojo y tuéstala 1 minuto removiendo. Vierte la leche de coco y el caldo, agrega la salsa de soja (y la de pescado) y lleva a ebullición suave.",
     "Incorpora los garbanzos y cuece 8 minutos a fuego medio-bajo para que tomen sabor y el caldo espese un poco.",
     "Seca los langostinos con papel de cocina y salpimiéntalos. Échalos a la sopa y cuece 2-3 minutos, justo hasta que se pongan rosados y opacos; no los pases o quedarán gomosos.",
     "Apaga el fuego, añade las espinacas y remueve hasta que se marchiten (1 minuto). Exprime el zumo de media lima y prueba de sal.",
-    "Sirve en boles hondos con la ralladura de lima, el cilantro picado y la parte verde de la cebolleta por encima. Acompaña con los cuartos de lima restantes."
+    "Sirve en boles hondos con la ralladura de lima, el cilantro y la parte verde de la cebolleta por encima. Acompaña con los cuartos de lima restantes."
   ],
   nutricion: { kcal: 590, prot: 36, hc: 42, grasa: 27 },
   etiquetas: ["de cuchara", "rápida", "alta en proteína", "picante", "una sola sartén"],
@@ -126,9 +126,9 @@ window.RECETAS_SEED.push({
     "Envuelve el tofu en papel de cocina y presiónalo con un peso 10 minutos para quitarle el agua. Mientras, corta el puerro en medias lunas, la zanahoria en dados pequeños, las judías verdes en trozos de 3 cm y pica el ajo.",
     "Calienta 1 cucharada de aceite en una cazuela a fuego medio. Sofríe el puerro y la zanahoria con una pizca de sal 6 minutos, hasta que el puerro esté blando. Añade el ajo, el pimentón, el tomillo y el tomate concentrado y remueve 1 minuto.",
     "Incorpora las judías blancas, las judías verdes y el caldo. Lleva a ebullición, baja el fuego y cuece destapado 15 minutos, hasta que las judías verdes estén tiernas y el caldo haya espesado un poco. Aplasta unas cuantas judías blancas con el dorso de la cuchara para dar cremosidad.",
-    "Corta el tofu en dados de 2 cm, mézclalo con la salsa de soja y rebózalo en la maicena sacudiendo el exceso.",
+    "Mientras cuece, corta el tofu en dados de 2 cm, mézclalo con la salsa de soja y rebózalo en la maicena sacudiendo el exceso. Pica el perejil.",
     "Calienta las 2 cucharadas de aceite restantes en una sartén antiadherente a fuego medio-alto y dora el tofu 8-10 minutos, girándolo para que quede crujiente por todas sus caras. Escúrrelo sobre papel de cocina.",
-    "Salpimienta el guiso y termínalo con el zumo del medio limón y el perejil picado.",
+    "Salpimienta el guiso y termínalo con el zumo del medio limón y el perejil.",
     "Reparte el guiso en platos hondos y corona con el tofu crujiente justo antes de servir para que no se ablande."
   ],
   nutricion: { kcal: 590, prot: 32, hc: 50, grasa: 25 },
@@ -171,12 +171,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Empieza por los encurtidos: corta la cebolla morada en juliana muy fina y los rábanos y el pepino en rodajas finas. Mézclalos en un bol con el vinagre de manzana, el azúcar, 1 cucharadita de sal y 2 cucharadas de agua. Deja marinar al menos 20 minutos, removiendo de vez en cuando.",
-    "Pon los anacardos en un bol con agua muy caliente del grifo y déjalos en remojo 15 minutos para que se ablanden y la crema quede fina.",
+    "Mientras, pon los anacardos en un bol con agua muy caliente del grifo y déjalos en remojo 15 minutos para que se ablanden y la crema quede fina. Calienta el caldo y pica el perejil.",
     "Tuesta las almendras en una sartén grande sin aceite a fuego medio 3-4 minutos, moviéndolas hasta que estén doradas. Resérvalas.",
-    "Corta el brócoli en ramilletes grandes y el tallo pelado en rodajas. En la misma sartén, calienta 1 cucharada de aceite a fuego medio-alto y dora el brócoli 4 minutos sin moverlo demasiado, hasta que tenga puntos tostados. Añade 1 ajo laminado, el pimentón, 100 ml de agua y una pizca de sal, tapa y brasea 6-7 minutos hasta que esté tierno pero firme.",
+    "Corta el brócoli en ramilletes grandes y el tallo pelado en rodajas, y lamina 1 ajo. En la misma sartén, calienta 1 cucharada de aceite a fuego medio-alto y dora el brócoli 4 minutos sin moverlo demasiado, hasta que tenga puntos tostados. Añade el ajo laminado, el pimentón, 100 ml de agua y una pizca de sal, tapa y brasea 6-7 minutos hasta que esté tierno pero firme.",
     "Mientras, escurre los anacardos y tritúralos con la batidora junto con las judías blancas, el otro ajo, el comino, el zumo de medio limón, la cucharada de aceite restante y el caldo caliente, hasta obtener una crema lisa. Salpimienta y, si se ha enfriado, caliéntala 2 minutos en un cazo.",
     "Extiende el cremoso de judías en la base de cada plato y coloca encima el brócoli braseado.",
-    "Termina con los encurtidos escurridos, las almendras tostadas, perejil picado y un chorrito de zumo de limón."
+    "Termina con los encurtidos escurridos, las almendras tostadas, el perejil y un chorrito de zumo de limón."
   ],
   nutricion: { kcal: 640, prot: 28, hc: 56, grasa: 30 },
   etiquetas: ["ideal para llevar", "verano", "alta en proteína", "superalimentos", "poco especiada"],
@@ -220,9 +220,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el bulgur en un bol, cúbrelo con 140 ml de agua hirviendo y una pizca de sal, tapa y deja hidratar 12 minutos. Luego ahuécalo con un tenedor y deja templar.",
-    "Pica muy fina la cebolla y el ajo y sofríelos con 1 cucharada de aceite a fuego medio 4 minutos, hasta que estén transparentes. Añade el comino, el pimentón y el cilantro molido y remueve 30 segundos.",
-    "Tritura la mitad de las lentejas con la batidora hasta obtener un puré grueso. Mézclalo en un bol con el resto de lentejas enteras, el bulgur, el sofrito, el huevo batido, la harina, la mitad del perejil picado, sal y pimienta. La masa debe quedar moldeable; si está muy húmeda, añade una cucharada más de harina. Enfría 10 minutos en la nevera.",
-    "Mientras, prepara la salsa: mezcla el yogur con la menta picada, el zumo de medio limón, una pizca de sal y un hilo de aceite. Pica los anacardos gruesos y tuéstalos 3 minutos en una sartén sin aceite.",
+    "Mientras se hidrata, pica muy fina la cebolla y el ajo, y pica el perejil. Sofríe la cebolla y el ajo con 1 cucharada de aceite a fuego medio 4 minutos, hasta que estén transparentes. Añade el comino, el pimentón y el cilantro molido y remueve 30 segundos.",
+    "Tritura la mitad de las lentejas con la batidora hasta obtener un puré grueso. Mézclalo en un bol con el resto de lentejas enteras, el bulgur, el sofrito, el huevo batido, la harina, la mitad del perejil, sal y pimienta. La masa debe quedar moldeable; si está muy húmeda, añade una cucharada más de harina. Enfría 10 minutos en la nevera.",
+    "Mientras, prepara la salsa: pica la menta y mézclala con el yogur, el zumo de medio limón, una pizca de sal y un hilo de aceite. Pica los anacardos gruesos y tuéstalos 3 minutos en una sartén sin aceite.",
     "Corta la lechuga en tiras, el pepino en medias lunas y los cherry por la mitad. Alíñalos con el zumo del otro medio limón, una pizca de sal y los anacardos tostados.",
     "Con las manos húmedas, forma 8 koftas alargadas (como croquetas gruesas) con la masa.",
     "Calienta las 2 cucharadas de aceite restantes en la sartén a fuego medio y dora las koftas 3-4 minutos por cada lado, con cuidado al girarlas, hasta que estén crujientes y bien doradas.",
@@ -269,9 +269,9 @@ window.RECETAS_SEED.push({
     "Pica la cebolla y el ajo, corta el puerro en medias lunas finas y la zanahoria en dados pequeños. Limpia los champiñones con un paño y córtalos en cuartos.",
     "Calienta 1 cucharada de aceite en la cazuela a fuego alto y saltea los champiñones 5 minutos sin remover mucho, hasta que estén dorados y hayan soltado y evaporado su agua. Salpimienta y resérvalos.",
     "Baja a fuego medio, añade la otra cucharada de aceite y sofríe la cebolla, el puerro y la zanahoria con una pizca de sal 8 minutos, hasta que estén blandos. Agrega el ajo, el tomillo, el pimentón y el tomate concentrado y cocina 1 minuto más.",
-    "Incorpora las lentejas y el caldo, lleva a ebullición y cuece 10 minutos a fuego medio-bajo para que el guiso espese.",
+    "Incorpora las lentejas y el caldo, lleva a ebullición y cuece 10 minutos a fuego medio-bajo para que el guiso espese. Mientras, pica el perejil y tuesta el pan.",
     "Añade la nata, la mostaza y los champiñones reservados. Cocina 3 minutos más removiendo con suavidad. Si queda muy espeso, añade un chorrito de caldo o agua.",
-    "Prueba y rectifica de sal y pimienta. Sirve con el perejil picado por encima y el pan tostado al lado."
+    "Prueba y rectifica de sal y pimienta. Sirve con el perejil por encima y el pan tostado al lado."
   ],
   nutricion: { kcal: 600, prot: 25, hc: 58, grasa: 25 },
   etiquetas: ["de cuchara", "económica", "invierno", "para niños", "una sola sartén", "poco especiada"],
@@ -314,7 +314,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Seca bien los garbanzos con un paño y mézclalos en una bandeja con 1 cucharada de aceite, el pimentón, el comino y sal. Ásalos 20 minutos, sacudiendo la bandeja a mitad, hasta que estén dorados y crujientes por fuera.",
     "Mientras, pica fina la cebolla, el ajo, el apio y 1 zanahoria. Sofríelos en una sartén grande con 1 cucharada de aceite a fuego medio 8 minutos, hasta que estén blandos.",
     "Añade el tomate concentrado y el orégano, remueve 1 minuto, y vierte el tomate triturado con la pizca de azúcar. Salpimienta y cocina a fuego medio-bajo 15 minutos, hasta que la salsa esté espesa.",
-    "Con un pelador, saca cintas largas de los calabacines y de las 2 zanahorias restantes, desechando el corazón con semillas del calabacín.",
+    "Mientras se cuece la salsa, saca con un pelador cintas largas de los calabacines y de las 2 zanahorias restantes, desechando el corazón con semillas del calabacín.",
     "Incorpora a la salsa dos tercios de los garbanzos asados y aplástalos ligeramente con el tenedor para que la textura recuerde a una boloñesa. Cocina 2 minutos.",
     "Calienta la cucharada de aceite restante en otra sartén a fuego alto y saltea las cintas de verdura 2 minutos con una pizca de sal: deben quedar al dente, no blandas.",
     "Sirve las cintas como base, la boloñesa encima, y termina con los garbanzos crujientes reservados, la albahaca en trozos y el parmesano rallado."
@@ -363,7 +363,7 @@ window.RECETAS_SEED.push({
     "Pica fina la cebolla y ralla el ajo y el jengibre. Pela la calabaza y córtala en dados de 2 cm; separa la coliflor en ramilletes pequeños.",
     "Calienta el aceite en una cazuela amplia a fuego medio y sofríe la cebolla con una pizca de sal 6 minutos, hasta que esté dorada. Añade el ajo, el jengibre, el garam masala, el comino, la cúrcuma y la cayena y tuesta las especias 1 minuto sin dejar de remover.",
     "Agrega el tomate triturado y cocina 3 minutos hasta que espese. Incorpora la calabaza, la coliflor, los garbanzos, la leche de coco y el caldo. Salpimienta, lleva a ebullición, tapa y cuece a fuego medio-bajo 15 minutos, hasta que la calabaza esté tierna al pincharla.",
-    "Mientras, prepara el queso al cilantro: desmenuza el queso fresco en un bol y mézclalo con la mitad del cilantro picado, la ralladura de la lima y una pizca de pimienta.",
+    "Mientras, pica el cilantro y prepara el queso al cilantro: desmenuza el queso fresco en un bol y mézclalo con la mitad del cilantro, la ralladura de la lima y una pizca de pimienta.",
     "Seca los langostinos y salpimiéntalos. Destapa la cazuela, añádelos al curry y cuece 3 minutos, hasta que estén rosados y opacos.",
     "Apaga el fuego y exprime el zumo de media lima sobre el curry. Prueba y ajusta de sal y picante.",
     "Sirve en platos hondos con el queso al cilantro desmenuzado por encima, el resto del cilantro y cuartos de lima para exprimir."

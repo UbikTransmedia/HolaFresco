@@ -35,13 +35,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre y enjuaga los garbanzos. Limpia los ajos tiernos, quita la parte más dura y fibrosa del verde y córtalos en rodajas de 1 cm. Seca muy bien los chipirones con papel de cocina; si son grandes, separa las aletas y corta el cuerpo en anillas.",
+    "Escurre y enjuaga los garbanzos. Limpia los ajos tiernos, quita la parte más dura y fibrosa del verde y córtalos en rodajas de 1 cm. Seca muy bien los chipirones con papel de cocina; si son grandes, separa las aletas y corta el cuerpo en anillas. Pica el perejil.",
     "Calienta 2 cucharadas de aceite en una sartén amplia a fuego fuerte hasta que humee. Echa los chipirones, sálalos y saltéalos 2 minutos, sin amontonarlos, hasta que se doren y se encojan. Sácalos a un plato con el jugo que hayan soltado.",
     "Baja a fuego medio, añade el resto del aceite, los ajos tiernos y la guindilla, y rehógalos 3 o 4 minutos, hasta que estén tiernos y empiecen a dorarse por los bordes.",
     "Aparta la sartén del fuego, añade el pimentón, remueve 10 segundos para que no se queme y vierte el vino blanco. Vuelve al fuego y deja que reduzca 1 minuto.",
     "Incorpora los garbanzos y saltéalos 3 minutos, hasta que estén bien calientes y algo tostados.",
     "Añade las espinacas a puñados: en 1 o 2 minutos estarán reducidas. Devuelve los chipirones con su jugo, mezcla 1 minuto y salpimienta.",
-    "Termina con el perejil picado y un buen chorro de limón, y sirve enseguida."
+    "Termina con el perejil y un buen chorro de limón, y sirve enseguida."
   ],
   nutricion: { kcal: 575, prot: 40, hc: 40, grasa: 27 },
   etiquetas: ["primavera", "creativa", "rápida", "alta en proteína", "una sola sartén", "sin gluten", "superalimentos"],
@@ -81,10 +81,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Dobla cada espárrago por la base: se parte solo donde empieza la parte tierna. Desecha los extremos leñosos.",
-    "Pon los espárragos en una bandeja, úntalos con media cucharada de aceite y sal, y ásalos 8 a 10 minutos, hasta que estén tiernos y con las puntas algo tostadas. Córtalos en trozos de 3 cm.",
+    "Pon los espárragos en una bandeja, úntalos con media cucharada de aceite y sal, y ásalos 8 a 10 minutos, hasta que estén tiernos y con las puntas algo tostadas. Mientras se asan, pica muy finos la cebolleta y el estragón, lamina los rabanitos muy finos y tuesta las nueces 3 minutos en una sartén sin aceite; pícalas gruesas. Al sacar los espárragos, córtalos en trozos de 3 cm.",
     "Mientras, templa las lentejas en un cazo con 2 cucharadas de agua, 3 minutos a fuego suave, removiendo con cuidado para no romperlas.",
-    "Prepara la vinagreta en un bol grande: bate la mostaza con el vinagre, sal y pimienta, y añade 2 cucharadas de aceite en hilo hasta que emulsione. Añade la cebolleta picada muy fina y el estragón picado, y deja reposar 5 minutos para que la cebolleta pierda fuerza.",
-    "Lamina los rabanitos muy finos y tuesta las nueces 3 minutos en una sartén sin aceite; pícalas gruesas.",
+    "Prepara la vinagreta en un bol grande: bate la mostaza con el vinagre, sal y pimienta, y añade 2 cucharadas de aceite en hilo hasta que emulsione. Añade la cebolleta y el estragón, y deja reposar 5 minutos para que la cebolleta pierda fuerza.",
     "Mezcla las lentejas aún tibias con la mitad de la vinagreta: en caliente absorben mucho mejor el aliño.",
     "Reparte los canónigos en los platos, pon encima las lentejas, los espárragos y los rabanitos, riega con el resto de la vinagreta y termina con las nueces."
   ],
@@ -122,8 +121,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la vinagreta: pica fina la hierbabuena y mézclala con la ralladura de medio limón, el zumo de medio limón, el vinagre de Jerez, una pizca de sal y 1,5 cucharadas de aceite.",
-    "Seca bien los lomos de caballa con papel de cocina, haz 2 o 3 cortes superficiales en la piel para que no se curven y sálalos justo antes de cocinarlos.",
-    "Calienta media cucharada de aceite en una sartén a fuego medio y rehoga los ajos tiernos cortados en rodajas 3 minutos, hasta que estén tiernos.",
+    "Limpia los ajos tiernos y córtalos en rodajas. Seca bien los lomos de caballa con papel de cocina, haz 2 o 3 cortes superficiales en la piel para que no se curven y sálalos justo antes de cocinarlos.",
+    "Calienta media cucharada de aceite en una sartén a fuego medio y rehoga los ajos tiernos 3 minutos, hasta que estén tiernos.",
     "Añade las habas con una pizca de sal y saltéalas 4 o 5 minutos, hasta que estén tiernas y brillantes. Pásalas a una fuente y tápalas.",
     "Limpia la sartén con papel, ponla a fuego fuerte con el resto del aceite y coloca la caballa con la piel hacia abajo. Presiona los lomos con una espátula los primeros 20 segundos y cocínalos 3 minutos sin moverlos, hasta que la piel esté dorada y crujiente.",
     "Dales la vuelta y cocínalos 1 minuto más: la carne debe quedar jugosa y apenas opaca en el centro.",
@@ -166,7 +165,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el huevo 10 minutos en agua hirviendo, enfríalo en agua fría, pélalo y pártelo en cuartos. Sala los trozos de merluza y déjalos 10 minutos a temperatura ambiente. Pica fino el ajo y el perejil.",
+    "Cuece el huevo 10 minutos en agua hirviendo. Mientras, sala los trozos de merluza y déjalos 10 minutos a temperatura ambiente, y pica fino el ajo y el perejil. Enfría el huevo en agua fría, pélalo y pártelo en cuartos.",
     "En una cazuela baja, mejor de barro, calienta el aceite a fuego suave y dora apenas el ajo 1 o 2 minutos, sin que llegue a tostarse. Añade la harina y remueve 30 segundos.",
     "Vierte el vino y deja que hierva 1 minuto. Añade el fumet poco a poco, moviendo la cazuela en vaivén, y deja que hierva suave 2 minutos hasta que la salsa tenga cuerpo.",
     "Añade los guisantes: 5 minutos si son frescos, 2 si son congelados.",
@@ -211,9 +210,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las cebolletas en juliana, el pimiento en tiras finas, los champiñones en láminas y el ajo en láminas. Corta los tomates en dados pequeños.",
+    "Corta las cebolletas en juliana, el pimiento en tiras finas, los champiñones en láminas y el ajo en láminas. Corta los tomates en dados pequeños. Pica el eneldo.",
     "Calienta el aceite en una sartén amplia con tapa a fuego medio y pocha la cebolleta y el pimiento 5 minutos, hasta que estén blandos. Añade el ajo y los champiñones y cocina 3 minutos más.",
-    "Incorpora el tomate, el laurel, la mitad del eneldo picado, sal y pimienta, y cocina 4 minutos, hasta que el tomate empiece a deshacerse.",
+    "Incorpora el tomate, el laurel, la mitad del eneldo, sal y pimienta, y cocina 4 minutos, hasta que el tomate empiece a deshacerse.",
     "Vierte el agua y coloca encima los lomos de dorada, salados, con la piel hacia arriba. Pon sobre cada lomo unas rodajas finas de medio limón.",
     "Tapa y cocina a fuego suave 8 a 10 minutos, sin destapar: el pescado se hace con el vapor de las verduras. Está listo cuando la carne está blanca, opaca y se separa en lascas al tocarla.",
     "Sirve los lomos con las verduras y su jugo, el resto del eneldo por encima y unas gotas del limón restante."
@@ -255,12 +254,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Pela los espárragos con un pelador desde justo debajo de la yema hasta la base, a conciencia: la piel del espárrago blanco es amarga y fibrosa. Corta 2 cm de la base.",
-    "Pon a hervir una cazuela con agua, sal y la pizca de azúcar. Cuece las patatas nuevas partidas por la mitad 5 minutos, añade los espárragos y cuécelo todo 12 a 15 minutos más, hasta que la punta de un cuchillo entre sin resistencia en la base de los espárragos.",
-    "Mientras, derrite la mantequilla y mantenla tibia. Ralla la piel de media naranja, exprime toda la naranja y reduce el zumo a la mitad en un cazo, 2 minutos a fuego vivo. Deja que temple.",
+    "Pon a hervir una cazuela con agua, sal y la pizca de azúcar. Mientras se calienta, pela los espárragos con un pelador desde justo debajo de la yema hasta la base, a conciencia: la piel del espárrago blanco es amarga y fibrosa. Corta 2 cm de la base.",
+    "Cuando hierva, cuece las patatas nuevas partidas por la mitad 5 minutos, añade los espárragos y cuécelo todo 12 a 15 minutos más, hasta que la punta de un cuchillo entre sin resistencia en la base de los espárragos.",
+    "Mientras, derrite la mantequilla y mantenla tibia. Ralla la piel de media naranja, exprime toda la naranja y reduce el zumo a la mitad en un cazo, 2 minutos a fuego vivo. Deja que temple. Pica el cebollino.",
     "Pon las yemas con 1 cucharada del zumo reducido en un bol sobre la cazuela de los espárragos, sin que el bol toque el agua, y bátelas 3 minutos hasta que espesen y blanqueen. Fuera del calor, añade la mantequilla tibia en hilo sin dejar de batir. Termina con el resto del zumo, la ralladura, sal, pimienta blanca y unas gotas de limón.",
     "Seca la lubina, sálala y haz 2 cortes en la piel. Calienta el aceite en una sartén a fuego fuerte y cocínala con la piel hacia abajo 3 o 4 minutos, presionando al principio, hasta que la piel esté crujiente; dale la vuelta y cocina 1 minuto más.",
-    "Escurre los espárragos y las patatas y sírvelos con la lubina; napa los espárragos con la salsa maltesa y espolvorea el cebollino picado."
+    "Escurre los espárragos y las patatas y sírvelos con la lubina; napa los espárragos con la salsa maltesa y espolvorea el cebollino."
   ],
   nutricion: { kcal: 615, prot: 38, hc: 31, grasa: 38 },
   etiquetas: ["primavera", "creativa", "sin gluten", "para invitados", "poco especiada"],
@@ -301,7 +300,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo en una cazuela con 175 ml de agua: tapado, 12 minutos a fuego mínimo y 5 de reposo sin destapar.",
     "Corta el cordero en láminas muy finas en contra de la fibra (si lo metes 15 minutos en el congelador se corta mucho mejor). Mézclalo con media cucharada de soja, el vino de Shaoxing, la maicena y pimienta blanca, y déjalo 10 minutos.",
-    "Corta las cebolletas en diagonal en trozos de 5 cm, separando la parte blanca de la verde, y lamina el ajo. Mezcla en un vaso el resto de la soja, el vinagre negro y el azúcar.",
+    "Mientras, corta las cebolletas en diagonal en trozos de 5 cm, separando la parte blanca de la verde, y lamina el ajo. Mezcla en un vaso el resto de la soja, el vinagre negro y el azúcar.",
     "Calienta el wok a fuego máximo hasta que humee, añade 1 cucharada de aceite de girasol y extiende el cordero. Déjalo 30 segundos sin tocar y saltéalo 1 minuto más, hasta que pierda el rosado. Sácalo.",
     "Añade el resto del aceite, el ajo y la parte blanca de la cebolleta y saltea 1 minuto. Devuelve el cordero, añade la parte verde y vierte la salsa por el borde del wok.",
     "Saltea 30 o 40 segundos más, hasta que la cebolleta se ablande sin perder el verde y la salsa brille. Apaga, riega con el aceite de sésamo y sirve enseguida con el arroz."
@@ -344,12 +343,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los contramuslos en trozos grandes y salpimiéntalos. Pica la cebolla fina.",
+    "Corta los contramuslos en trozos grandes y salpimiéntalos. Pica la cebolla fina. Pon a calentar agua con sal en otra cazuela para las patatas.",
     "Derrite la mantequilla en una cazuela a fuego medio-alto y dora el pollo 4 minutos, dándole la vuelta, hasta que tome color. Añade la cebolla y rehógala 3 minutos.",
     "Vierte el caldo, añade el laurel y la pimienta de Jamaica, tapa y cuece a fuego suave 20 minutos, hasta que el pollo esté tierno.",
-    "Mientras, cuece las patatas nuevas con piel en otra cazuela con agua y sal, 15 a 20 minutos, hasta que un cuchillo las atraviese sin esfuerzo. Escúrrelas.",
+    "Mientras, cuece las patatas nuevas con piel en el agua hirviendo, 15 a 20 minutos, hasta que un cuchillo las atraviese sin esfuerzo. Escúrrelas. Pica el eneldo.",
     "Mezcla en un bol la nata agria con la harina hasta que no queden grumos y añade un cucharón del caldo caliente del pollo, removiendo: así la nata se templa y no se corta.",
-    "Vierte la mezcla en la cazuela, remueve y deja que hierva muy suave 3 o 4 minutos, hasta que la salsa espese y pierda el sabor a harina. Fuera del fuego, añade casi todo el eneldo picado y unas gotas de limón, y rectifica de sal.",
+    "Vierte la mezcla en la cazuela, remueve y deja que hierva muy suave 3 o 4 minutos, hasta que la salsa espese y pierda el sabor a harina. Fuera del fuego, añade casi todo el eneldo y unas gotas de limón, y rectifica de sal.",
     "Sirve el pollo con mucha salsa, las patatas partidas por la mitad y el resto del eneldo por encima."
   ],
   nutricion: { kcal: 550, prot: 39, hc: 44, grasa: 24 },
@@ -389,11 +388,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Marina el conejo con la mitad del vino, 2 dientes de ajo machacados y el laurel al menos 30 minutos (o toda la noche en la nevera).",
+    "Marina el conejo con la mitad del vino, 2 dientes de ajo machacados y el laurel al menos 30 minutos (o toda la noche en la nevera). Mientras, pica la cebolla y los 2 ajos restantes.",
     "Escurre el conejo, reservando la marinada, y sécalo con papel. Sálalo y dóralo en una cazuela con el aceite a fuego fuerte 6 a 8 minutos, hasta que esté bien dorado por todas partes. Sácalo.",
-    "Baja a fuego medio y pocha la cebolla picada 6 minutos, hasta que esté blanda y dorada. Añade los 2 ajos restantes picados y el tomate concentrado y rehoga 1 minuto.",
-    "Vierte el resto del vino y la marinada con su laurel y deja que hierva 2 minutos. Añade el tomate triturado, el conejo y agua hasta casi cubrir. Tapa y cuece a fuego suave 30 minutos.",
-    "Añade las patatas peladas y cortadas en trozos medianos y cuece 15 minutos más.",
+    "Baja a fuego medio y pocha la cebolla 6 minutos, hasta que esté blanda y dorada. Añade los 2 ajos restantes y el tomate concentrado y rehoga 1 minuto.",
+    "Vierte el resto del vino y la marinada con su laurel y deja que hierva 2 minutos. Añade el tomate triturado, el conejo y agua hasta casi cubrir. Tapa y cuece a fuego suave 30 minutos. Mientras, pela las patatas y córtalas en trozos medianos.",
+    "Añade las patatas y cuece 15 minutos más.",
     "Incorpora los guisantes y cocina 8 minutos destapado, hasta que la patata esté tierna, el conejo se separe del hueso y la salsa haya espesado. Salpimienta.",
     "Deja reposar 5 minutos fuera del fuego antes de servir."
   ],
@@ -434,10 +433,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien las codornices con papel de cocina y salpimiéntalas por ambos lados.",
+    "Seca bien las codornices con papel de cocina y salpimiéntalas por ambos lados. Pica las chalotas.",
     "Calienta la mantequilla con media cucharada de aceite en una sartén amplia a fuego medio-alto. Pon las codornices con la piel hacia abajo, aplástalas con un cazo pesado y cocínalas 5 minutos, hasta que la piel esté dorada.",
     "Dales la vuelta y cocínalas 4 o 5 minutos más, hasta que al pinchar el muslo el jugo salga claro. Sácalas a un plato y tápalas con papel de aluminio.",
-    "En la grasa de la sartén, a fuego medio, rehoga las chalotas picadas 2 minutos. Añade las hojas de tomillo, el azúcar y las cerezas y saltéalas 2 minutos.",
+    "En la grasa de la sartén, a fuego medio, rehoga las chalotas 2 minutos. Añade las hojas de tomillo, el azúcar y las cerezas y saltéalas 2 minutos.",
     "Vierte el vino tinto y deja que reduzca 2 minutos. Añade el vinagre y el caldo y cocina 4 o 5 minutos, hasta que la salsa esté brillante y las cerezas tiernas pero enteras.",
     "Devuelve las codornices con el jugo que hayan soltado y dales 1 minuto en la salsa, regándolas con ella.",
     "Aliña los canónigos con el resto del aceite y una pizca de sal, y sirve encima las codornices con las cerezas y la salsa."
@@ -477,7 +476,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo en una cazuela con 175 ml de agua: tapado, 12 minutos a fuego mínimo y 5 de reposo sin destapar.",
-    "Aplasta el pepino con la hoja del cuchillo, trocéalo y alíñalo con el vinagre de arroz, una pizca de sal y el aceite de sésamo. Resérvalo en la nevera.",
+    "Mientras se cuece, aplasta el pepino con la hoja del cuchillo, trocéalo y alíñalo con el vinagre de arroz, una pizca de sal y el aceite de sésamo. Resérvalo en la nevera.",
     "Lava el cebollino chino, sécalo muy bien y córtalo en trozos de 3 cm. Bate los huevos con media cucharadita de sal y 1 cucharada de agua hasta que estén espumosos.",
     "Calienta el wok a fuego fuerte con 1,5 cucharadas de aceite hasta que humee. Vierte los huevos, deja que se inflen 10 segundos y muévelos en pliegues grandes. Sácalos cuando estén cuajados al 70 %, todavía brillantes.",
     "Añade el resto del aceite y saltea el cebollino con una pizca de sal 30 o 40 segundos, hasta que brille y se ablande sin llegar a marchitarse.",
@@ -518,8 +517,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las acelgas, separa las pencas de las hojas, corta las pencas en dados y las hojas en tiras. Saltéalas en una sartén con 1 cucharadita de aceite y el ajo picado: las pencas 4 minutos y las hojas 3 más, hasta que se reduzcan. Escúrrelas apretando bien para quitarles el agua y deja que templen.",
-    "Precalienta el horno a 190 °C. En un bol, mezcla la ricotta, el parmesano, 1 huevo, la mejorana picada, la nuez moscada, sal y pimienta. Añade las acelgas picadas y mezcla.",
+    "Precalienta el horno a 190 °C. Lava las acelgas, separa las pencas de las hojas, corta las pencas en dados y las hojas en tiras, y pica el ajo. Saltéalas en una sartén con 1 cucharadita de aceite y el ajo: las pencas 4 minutos y las hojas 3 más, hasta que se reduzcan. Escúrrelas apretando bien para quitarles el agua y deja que templen. Mientras, pica la mejorana.",
+    "En un bol, mezcla la ricotta, el parmesano, 1 huevo, la mejorana, la nuez moscada, sal y pimienta. Añade las acelgas picadas y mezcla.",
     "Unta con aceite un molde de 18 a 20 cm. Coloca 4 hojas de filo, pincelando cada una con aceite y cruzándolas para que sobresalgan por los bordes.",
     "Reparte el relleno, haz dos huecos con el dorso de una cuchara y casca en cada uno un huevo entero. Sálalos ligeramente.",
     "Cubre con las 2 hojas de filo restantes, pinceladas con aceite y arrugadas por encima con cuidado de no romper las yemas. Dobla hacia dentro los bordes que sobresalen y pincélalos también.",
@@ -559,8 +558,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las espinacas y escúrrelas; si las hojas son grandes, trocéalas. Corta la cebolla en juliana fina.",
-    "Calienta el aceite en una sartén amplia con tapa a fuego medio y fríe la cebolla 10 minutos, removiendo de vez en cuando, hasta que esté bien dorada. Añade 2 dientes de ajo picados y la cúrcuma y remueve 1 minuto.",
+    "Lava las espinacas y escúrrelas; si las hojas son grandes, trocéalas. Corta la cebolla en juliana fina. Pica 2 dientes de ajo.",
+    "Calienta el aceite en una sartén amplia con tapa a fuego medio y fríe la cebolla 10 minutos, removiendo de vez en cuando, hasta que esté bien dorada. Añade el ajo picado y la cúrcuma y remueve 1 minuto.",
     "Añade las espinacas a puñados, removiendo, y cocínalas 4 o 5 minutos, hasta que se reduzcan y casi no quede agua en el fondo. Salpimienta.",
     "Haz cuatro huecos en las espinacas, casca un huevo en cada uno y sálalos. Tapa y cocina a fuego suave 4 a 6 minutos, hasta que las claras estén cuajadas y las yemas sigan líquidas.",
     "Mientras, mezcla el yogur con el diente de ajo restante rallado y una pizca de sal, y calienta el pan en una sartén o en el horno.",
@@ -647,8 +646,8 @@ window.RECETAS_SEED.push({
     "Cúbrelas de nuevo con agua abundante y cuécelas a fuego suave 25 minutos.",
     "Mientras, lava las acelgas, corta las pencas en trozos de 2 cm y trocea las hojas.",
     "Añade las pencas a la cazuela con una buena pizca de sal y cuece 5 minutos; incorpora las hojas y cuece 5 minutos más, hasta que todo esté tierno y las carillas cremosas por dentro pero enteras.",
-    "Escurre bien y, todavía en caliente, aliña con el aceite, el zumo de 1 limón, sal y pimienta. Mezcla con suavidad y deja reposar 5 minutos para que absorban el aliño.",
-    "Sirve tibio con la cebolleta en aros, los rabanitos partidos, las aceitunas, el tomate en gajos y el medio limón restante en gajos."
+    "Escurre bien y, todavía en caliente, aliña con el aceite, el zumo de 1 limón, sal y pimienta. Mezcla con suavidad y deja reposar 5 minutos para que absorban el aliño. Mientras, corta la cebolleta en aros, parte los rabanitos y corta el tomate y el medio limón restante en gajos.",
+    "Sirve tibio con la cebolleta, los rabanitos, las aceitunas, el tomate y los gajos de limón."
   ],
   nutricion: { kcal: 545, prot: 22, hc: 58, grasa: 25 },
   etiquetas: ["primavera", "tradicional", "vegana", "sin gluten", "económica", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -729,7 +728,7 @@ window.RECETAS_SEED.push({
     "Lava y seca las cerezas, deshuésalas y pártelas por la mitad.",
     "Tuesta las almendras en una sartén sin aceite a fuego medio 3 o 4 minutos, moviéndolas, hasta que huelan y se doren; pícalas gruesas. Tuesta después el pan en la misma sartén.",
     "En un bol, bate el vinagre con sal, pimienta y el aceite. Añade las cerezas y déjalas macerar 5 minutos: sueltan jugo y el aliño gana color y sabor.",
-    "Corta la cebolleta en aros muy finos y deshoja la menta.",
+    "Mientras maceran, corta la cebolleta en aros muy finos y deshoja la menta.",
     "Pon la rúcula en una fuente, reparte encima las cerezas con su aliño, el queso desmigado en trozos irregulares, la cebolleta, las almendras y la menta.",
     "Sirve enseguida, con el pan tostado al lado."
   ],
@@ -773,7 +772,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz en varias aguas hasta que salga clara y déjalo en remojo en agua con sal mientras preparas el pollo. Machaca el azafrán y disuélvelo en 3 cucharadas de agua caliente.",
     "Corta la cebolla en juliana y dórala en una sartén con 1 cucharada de aceite 8 minutos. Añade la cúrcuma y el pollo en trozos grandes y dóralo 5 minutos. Agrega la mitad del azafrán, el zumo del limón, 150 ml de agua, sal y pimienta; tapa y cuece a fuego suave 30 minutos, hasta que el pollo esté tierno y la salsa corta.",
-    "Mientras, hierve abundante agua con sal en una cazuela y cuece el arroz escurrido 5 o 6 minutos, hasta que esté blando por fuera pero aún firme en el centro; añade las habas el último minuto. Escurre y mezcla con el eneldo picado.",
+    "Mientras, pica el eneldo y hierve abundante agua con sal en una cazuela y cuece el arroz escurrido 5 o 6 minutos, hasta que esté blando por fuera pero aún firme en el centro; añade las habas el último minuto. Escurre y mezcla con el eneldo.",
     "Seca la cazuela y ponla a fuego medio con 1 cucharada de aceite y la mitad de la mantequilla. Extiende una capa fina de arroz en el fondo y presiónala; amontona encima el resto en forma de cúpula, haz 4 agujeros con el mango de una cuchara y reparte la mantequilla restante en trocitos y 2 cucharadas de agua.",
     "Envuelve la tapa en un paño de cocina, tapa y cocina 8 a 10 minutos a fuego medio, hasta que oigas chisporrotear y salga vapor. Baja al mínimo y deja 30 minutos más.",
     "Mezcla 3 cucharadas de arroz con el resto del azafrán. Sirve el arroz con el azafranado por encima y el tahdig roto en trozos, acompañado del pollo con su salsa y el yogur."
@@ -813,8 +812,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las fresas, reserva 4 para el final y corta el resto en dados pequeños. Calienta el caldo en un cazo y mantenlo a punto de hervir.",
-    "En una cazuela, calienta el aceite con 5 g de mantequilla a fuego medio y pocha la chalota picada 3 minutos, hasta que esté transparente. Añade el arroz y nacáralo 2 minutos, removiendo, hasta que los bordes se vuelvan translúcidos.",
+    "Lava las fresas, reserva 4 para el final y corta el resto en dados pequeños. Calienta el caldo en un cazo y mantenlo a punto de hervir. Pica la chalota.",
+    "En una cazuela, calienta el aceite con 5 g de mantequilla a fuego medio y pocha la chalota 3 minutos, hasta que esté transparente. Añade el arroz y nacáralo 2 minutos, removiendo, hasta que los bordes se vuelvan translúcidos.",
     "Vierte el vino y remueve hasta que se evapore.",
     "Añade el caldo cazo a cazo, removiendo a menudo y sin añadir más hasta que el arroz haya absorbido el anterior, durante 10 minutos.",
     "Incorpora la mitad de las fresas troceadas: se deshacen y tiñen el arroz de rosa. Sigue añadiendo caldo 6 a 8 minutos más, hasta que el grano esté al dente y el conjunto meloso. Prueba de sal.",
@@ -856,11 +855,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si las almejas no vienen depuradas, déjalas 1 hora antes en agua fría con sal (unos 30 g por litro), en un lugar oscuro, para que suelten la arena. Enjuágalas.",
     "Lava el arroz hasta que el agua salga casi clara y cuécelo en una cazuela con 170 ml de agua: tapado, 12 minutos a fuego mínimo y 10 de reposo sin destapar.",
-    "Pon 700 ml de agua fría con el kombu en otra cazuela y caliéntala a fuego medio-bajo. Retira el alga justo antes de que empiece a hervir.",
+    "Mientras, pon 700 ml de agua fría con el kombu en otra cazuela y caliéntala a fuego medio-bajo; mientras se calienta, corta el tofu en dados y la cebolleta en aros finos. Retira el alga justo antes de que empiece a hervir.",
     "Añade las almejas al caldo y cocínalas a fuego medio, retirando la espuma. En cuanto se abran todas, en 3 o 4 minutos, baja el fuego al mínimo; desecha las que sigan cerradas.",
-    "Añade el wakame y el tofu en dados y deja 1 minuto, hasta que el alga se hidrate.",
+    "Añade el wakame y el tofu y deja 1 minuto, hasta que el alga se hidrate.",
     "Disuelve el miso en un cazo con un poco de caldo caliente e incorpóralo a la sopa. No dejes que vuelva a hervir: el miso pierde aroma.",
-    "Sirve la sopa con la cebolleta en aros finos por encima y el arroz en un cuenco aparte."
+    "Sirve la sopa con la cebolleta por encima y el arroz en un cuenco aparte."
   ],
   nutricion: { kcal: 410, prot: 21, hc: 68, grasa: 6 },
   etiquetas: ["primavera", "tradicional", "ligera", "sin verduras", "poco especiada"],

@@ -33,12 +33,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la carne con papel de cocina, salpimiéntala y espolvoréala con la harina. Calienta 1 cda de aceite en la olla express destapada a fuego fuerte y dora la carne por tandas 2-3 min por lado, sin amontonarla. Resérvala.",
-    "Baja el fuego a medio, añade el resto del aceite y sofríe la cebolla picada, el pimiento en dados y las zanahorias en rodajas gruesas 6-7 min. Agrega el ajo picado, el pimentón y el tomillo y remueve 30 s.",
+    "Pica la cebolla y el ajo, corta el pimiento en dados y las zanahorias en rodajas gruesas. Seca la carne con papel de cocina, salpimiéntala y espolvoréala con la harina. Calienta 1 cda de aceite en la olla express destapada a fuego fuerte y dora la carne por tandas 2-3 min por lado, sin amontonarla. Resérvala.",
+    "Baja el fuego a medio, añade el resto del aceite y sofríe la cebolla, el pimiento y las zanahorias 6-7 min. Agrega el ajo, el pimentón y el tomillo y remueve 30 s.",
     "Vierte el vino tinto, raspa bien el fondo para despegar lo tostado y deja evaporar 2 min. Añade el tomate triturado, el caldo, el laurel y la carne con sus jugos. El líquido debe cubrir la carne casi por completo.",
-    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta, segundo anillo), baja el fuego al mínimo que mantenga la presión y cuenta 20 min.",
+    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta, segundo anillo), baja el fuego al mínimo que mantenga la presión y cuenta 20 min. Mientras, pela las patatas y cáscalas en trozos de 3-4 cm; guárdalas en agua fría.",
     "Aparta del fuego y deja que la presión baje sola, unos 10 min (despresurización natural: la carne queda más tierna). Abre con cuidado.",
-    "Añade las patatas peladas y cascadas en trozos de 3-4 cm, remueve y rectifica de sal. Cierra de nuevo y, desde que suba la válvula, cuenta 5 min a fuego mínimo.",
+    "Añade las patatas escurridas, remueve y rectifica de sal. Cierra de nuevo y, desde que suba la válvula, cuenta 5 min a fuego mínimo.",
     "Despresuriza rápido abriendo la válvula o poniendo la olla bajo el grifo de agua fría. Abre, añade los guisantes y cuece destapado 3 min a fuego medio. Si la salsa está líquida, aplasta un trozo de patata y remueve.",
     "Retira el laurel y sirve bien caliente."
   ],
@@ -123,7 +123,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enjuaga las lentejas. Pica una cebolla, el ajo, la zanahoria y el pimiento en dados pequeños. Corta la otra cebolla en juliana muy fina y resérvala para el topping.",
     "Calienta 1,5 cda de aceite en la olla destapada a fuego medio y sofríe la cebolla picada, la zanahoria y el pimiento 7 min. Añade el ajo, el comino y el pimentón y remueve 30 s.",
-    "Agrega el tomate triturado y cocina 2 min. Incorpora las lentejas, el laurel y 400 ml de caldo. Cierra la olla, pon fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 7 min.",
+    "Agrega el tomate triturado y cocina 2 min. Incorpora las lentejas, el laurel y 400 ml de caldo. Cierra la olla, pon fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 7 min. Mientras, pica el perejil.",
     "Despresuriza rápido (válvula o grifo de agua fría) y abre. Añade el arroz, el resto del caldo (250 ml) y sal al gusto; remueve.",
     "Cierra de nuevo y, desde que suba la válvula, cuenta 5 min a fuego mínimo. Aparta del fuego y deja despresurizar sola 5 min; luego abre (si quedara presión, libérala con la válvula).",
     "Mientras cuece el arroz, fríe la cebolla en juliana en una sartén con el resto del aceite a fuego medio 10-12 min, removiendo, hasta que esté dorada y crujiente. Escúrrela sobre papel y sálala.",
@@ -166,13 +166,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca los contramuslos, salpimiéntalos y enharínalos ligeramente sacudiendo el exceso. Calienta el aceite en la olla destapada a fuego fuerte y dóralos 3-4 min por cada lado hasta que la piel esté dorada. Resérvalos.",
-    "Baja a fuego medio y sofríe las cebollas en juliana y las zanahorias en rodajas gruesas 6-7 min en la grasa del pollo, hasta que la cebolla esté blanda y dorada. Añade el ajo laminado, el pimentón y el tomillo y remueve 30 s.",
+    "Corta las cebollas en juliana, las zanahorias en rodajas gruesas y lamina el ajo. Pela las patatas y córtalas en trozos grandes de 4-5 cm (así no se deshacen). Seca los contramuslos, salpimiéntalos y enharínalos ligeramente sacudiendo el exceso. Calienta el aceite en la olla destapada a fuego fuerte y dóralos 3-4 min por cada lado hasta que la piel esté dorada. Resérvalos.",
+    "Baja a fuego medio y sofríe las cebollas y las zanahorias 6-7 min en la grasa del pollo, hasta que la cebolla esté blanda y dorada. Añade el ajo, el pimentón y el tomillo y remueve 30 s.",
     "Vierte la cerveza, raspa el fondo y deja que hierva 2 min para que pierda el amargor del alcohol. Añade el caldo, la mostaza y el laurel.",
-    "Devuelve el pollo a la olla con sus jugos y coloca encima las patatas peladas en trozos grandes de 4-5 cm (así no se deshacen). Sala ligeramente.",
-    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja al mínimo y cuenta 10 min.",
+    "Devuelve el pollo a la olla con sus jugos y coloca encima las patatas. Sala ligeramente.",
+    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja al mínimo y cuenta 10 min. Mientras, pica el perejil.",
     "Aparta del fuego y deja despresurizar sola 5 min; libera el resto de presión con la válvula y abre. El pollo debe desprenderse del hueso con facilidad.",
-    "Saca el pollo y las patatas a una fuente. Si la salsa está líquida, redúcela destapada a fuego fuerte 4-5 min. Retira el laurel, rectifica de sal, vierte la salsa por encima y espolvorea perejil picado."
+    "Saca el pollo y las patatas a una fuente. Si la salsa está líquida, redúcela destapada a fuego fuerte 4-5 min. Retira el laurel, rectifica de sal, vierte la salsa por encima y espolvorea el perejil."
   ],
   nutricion: { kcal: 710, prot: 35, hc: 46, grasa: 38 },
   etiquetas: ["de cuchara", "invierno", "para niños", "económica", "batch cooking", "poco especiada"],
@@ -219,9 +219,9 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en la olla destapada a fuego fuerte y dora el pavo 3 min solo por fuera (no lo cocines del todo). Resérvalo.",
     "Baja a fuego medio y sofríe la cebolla, el pimiento y la zanahoria 5 min. Añade el ajo, el jengibre, el curry, la cúrcuma y el comino y remueve 1 min hasta que las especias huelan.",
     "Agrega el tomate triturado, el caldo, la manzana y el pavo con sus jugos. Remueve y sala. (La leche de coco se añade al final para que no se corte.)",
-    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta solo 5 min: la pechuga de pavo se seca con más tiempo.",
+    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta solo 5 min: la pechuga de pavo se seca con más tiempo. Mientras, pica el cilantro y corta la lima en gajos.",
     "Despresuriza rápido abriendo la válvula o bajo el grifo de agua fría. Abre, añade la leche de coco y cocina destapado a fuego medio 3-4 min hasta que la salsa espese ligeramente. Rectifica de sal.",
-    "Sirve sobre el arroz con el cilantro picado y un chorrito de zumo de lima."
+    "Sirve sobre el arroz con el cilantro por encima y un chorrito de zumo de lima."
   ],
   nutricion: { kcal: 740, prot: 46, hc: 70, grasa: 30 },
   etiquetas: ["alta en proteína", "para niños", "batch cooking", "ligeramente picante"],
@@ -261,12 +261,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca las carrilladas, salpimiéntalas y pásalas por la harina sacudiendo el exceso. Calienta el aceite en la olla destapada a fuego fuerte y dóralas 2-3 min por lado hasta que tengan una costra oscura. Resérvalas.",
-    "Baja a fuego medio y sofríe la cebolla, el puerro y las zanahorias picados en trozos regulares 8 min hasta que estén blandos y dorados. Añade el ajo laminado y el tomate concentrado y remueve 1 min.",
+    "Pica la cebolla, el puerro y las zanahorias en trozos regulares y lamina el ajo. Seca las carrilladas, salpimiéntalas y pásalas por la harina sacudiendo el exceso. Calienta el aceite en la olla destapada a fuego fuerte y dóralas 2-3 min por lado hasta que tengan una costra oscura. Resérvalas.",
+    "Baja a fuego medio y sofríe la cebolla, el puerro y las zanahorias 8 min hasta que estén blandos y dorados. Añade el ajo y el tomate concentrado y remueve 1 min.",
     "Vierte el vino, raspa el fondo y deja hervir 3 min para evaporar el alcohol. Añade el caldo, el laurel, el tomillo y las carrilladas con sus jugos. El líquido debe llegar casi a cubrirlas.",
-    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja al mínimo y cuenta 30 min.",
+    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja al mínimo y cuenta 30 min. Mientras, pela y trocea las patatas y cuécelas en una cazuela con agua y sal 20 min.",
     "Aparta del fuego y deja que la presión baje sola por completo (10-15 min): la despresurización lenta es clave para que la carne quede melosa y no fibrosa. Abre; las carrilladas deben ceder al apretarlas con una cuchara.",
-    "Mientras tanto, cuece las patatas peladas y troceadas en una cazuela con agua y sal 20 min. Escúrrelas, añade la leche caliente y la mantequilla y tritúralas o pásalas por el pasapurés. Salpimienta.",
+    "Escurre las patatas, añade la leche caliente y la mantequilla y tritúralas o pásalas por el pasapurés. Salpimienta.",
     "Saca las carrilladas, retira el laurel y el tomillo y tritura la salsa con las verduras con la batidora hasta que quede fina. Si está líquida, redúcela a fuego fuerte 5 min; rectifica de sal.",
     "Sirve las carrilladas napadas con la salsa sobre el puré de patata."
   ],
@@ -304,12 +304,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la calabaza en dados de 3 cm, pica la cebolla y el puerro (solo la parte blanca y verde clara), y corta la zanahoria y la patata peladas en rodajas.",
-    "Calienta el aceite en la olla destapada a fuego medio y sofríe la cebolla, el puerro y la zanahoria 5 min hasta que se ablanden sin dorarse. Añade el ajo picado y remueve 1 min.",
+    "Corta la calabaza en dados de 3 cm, pica la cebolla, el puerro (solo la parte blanca y verde clara) y el ajo, y corta la zanahoria y la patata peladas en rodajas.",
+    "Calienta el aceite en la olla destapada a fuego medio y sofríe la cebolla, el puerro y la zanahoria 5 min hasta que se ablanden sin dorarse. Añade el ajo y remueve 1 min.",
     "Incorpora la calabaza, la patata, el caldo, sal y pimienta. El caldo no debe cubrir del todo las verduras: la calabaza suelta mucha agua.",
-    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 6 min.",
+    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 6 min. Mientras, tuesta las semillas de calabaza en una sartén sin aceite a fuego medio 2-3 min hasta que empiecen a saltar.",
     "Despresuriza rápido abriendo la válvula o poniendo la olla bajo el grifo de agua fría, y abre. Las verduras deben estar muy tiernas.",
-    "Mientras, tuesta las semillas de calabaza en una sartén sin aceite a fuego medio 2-3 min hasta que empiecen a saltar.",
     "Añade 80 ml de nata y la nuez moscada y tritura con la batidora hasta obtener una crema muy fina. Si está espesa, aclárala con un poco de caldo o agua caliente. Rectifica de sal y pimienta.",
     "Sirve con un hilo de la nata restante, las semillas tostadas y pimienta recién molida."
   ],
@@ -352,14 +351,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Remoja el pan rallado con la leche en un bol 5 min. Añade la carne, el huevo, 1 diente de ajo picado muy fino, la mitad del perejil picado, 1 cdta de sal y pimienta. Mezcla con las manos sin amasar demasiado y forma 12 albóndigas del tamaño de una nuez grande.",
+    "Pica muy fino el ajo y todo el perejil, pica la cebolla y lamina los champiñones. Remoja el pan rallado con la leche en un bol 5 min. Añade la carne, el huevo, 1 diente de ajo picado, la mitad del perejil, 1 cdta de sal y pimienta. Mezcla con las manos sin amasar demasiado y forma 12 albóndigas del tamaño de una nuez grande.",
     "Pasa las albóndigas por la harina sacudiendo el exceso. Calienta el aceite en la olla destapada a fuego medio-alto y dóralas 5-6 min girándolas, por tandas si hace falta. Resérvalas.",
-    "En la misma grasa sofríe la cebolla picada 5 min a fuego medio. Añade los champiñones laminados y sube el fuego: saltéalos 5 min hasta que suelten el agua y se doren. Agrega el resto del ajo picado y el tomillo y remueve 1 min.",
+    "En la misma grasa sofríe la cebolla 5 min a fuego medio. Añade los champiñones y sube el fuego: saltéalos 5 min hasta que suelten el agua y se doren. Agrega el resto del ajo y el tomillo y remueve 1 min.",
     "Vierte el vino blanco, raspa el fondo y deja evaporar 2 min. Añade el caldo y la mostaza, remueve y coloca las albóndigas en la salsa.",
     "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 6 min.",
     "Mientras, cuece el arroz en una cazuela con 200 ml de agua y sal: hierve, tapa, 11 min a fuego mínimo y reposo tapado.",
     "Aparta la olla del fuego, deja despresurizar sola 5 min y libera el resto con la válvula. Abre, añade la nata y cocina destapado 3 min a fuego medio hasta que la salsa nape la cuchara. Rectifica de sal y pimienta.",
-    "Sirve las albóndigas con su salsa sobre el arroz y el resto del perejil picado."
+    "Sirve las albóndigas con su salsa sobre el arroz y el resto del perejil por encima."
   ],
   nutricion: { kcal: 820, prot: 42, hc: 64, grasa: 42 },
   etiquetas: ["para niños", "invierno", "batch cooking", "poco especiada"],
@@ -402,12 +401,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara el adobo: tritura o desmenuza con un tenedor la pasta de achiote con el zumo de naranja, el zumo de 1 lima, el vinagre de manzana, el ajo, el comino, 1 cdta de orégano, la canela, 1 cdta de sal y pimienta hasta obtener una salsa roja lisa.",
     "Mezcla la carne con el adobo en un bol, tapa y deja marinar al menos 30 min (ideal, toda la noche en la nevera).",
-    "Encurte la cebolla: córtala en juliana fina y escáldala 30 s en agua hirviendo. Escúrrela y mézclala en un bol con el vinagre de vino, el azúcar, media cucharadita de orégano, sal y el chile en rodajas si lo usas. Reserva mínimo 30 min.",
+    "Mientras marina, encurte la cebolla: pon a hervir un cazo con agua, corta la cebolla en juliana fina y el chile en rodajas si lo usas. Escalda la cebolla 30 s en el agua hirviendo, escúrrela y mézclala en un bol con el vinagre de vino, el azúcar, media cucharadita de orégano, sal y el chile. Reserva mínimo 30 min.",
     "Pasa la carne con todo su adobo a la olla express, añade el laurel y 50 ml de agua. No hace falta dorar: la cochinita se cuece en su jugo.",
-    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja al mínimo y cuenta 35 min.",
+    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja al mínimo y cuenta 35 min. Mientras, pica el cilantro y corta la lima restante en gajos.",
     "Aparta del fuego y deja que la presión baje sola por completo (unos 15 min). Abre: la carne debe deshacerse al presionarla con un tenedor.",
     "Saca la carne y desmenúzala con dos tenedores. Reduce la salsa destapada a fuego fuerte 5-8 min hasta que espese, devuelve la carne y mezcla para que se empape. Rectifica de sal.",
-    "Calienta las tortillas 30 s por lado en una sartén seca. Sirve la cochinita con la cebolla encurtida escurrida, cilantro picado y gajos de la lima restante."
+    "Calienta las tortillas 30 s por lado en una sartén seca. Sirve la cochinita con la cebolla encurtida escurrida, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 740, prot: 50, hc: 58, grasa: 32 },
   etiquetas: ["mexicana", "batch cooking", "para compartir", "picante", "sin verduras"],
@@ -447,12 +446,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Salpimienta la carne generosamente y mézclala con el orégano y el comino. Corta la cebolla en cuartos y la naranja por la mitad.",
     "Pon en la olla express la carne, la cebolla, los dientes de ajo enteros aplastados, el laurel, el caldo y el zumo de la naranja; añade también las dos mitades exprimidas de la naranja (dan aroma).",
-    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja al mínimo y cuenta 35 min.",
-    "Aparta del fuego y deja que la presión baje sola por completo (unos 15 min). Abre: la carne debe estar tan tierna que se deshaga con un tenedor. Retira las cáscaras de naranja y el laurel.",
+    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja al mínimo y cuenta 35 min. Mientras, pica el cilantro y la cebolla morada y corta las limas en gajos.",
+    "Aparta del fuego y deja que la presión baje sola por completo (unos 15 min); mientras, enciende el gratinador del horno a máxima potencia. Abre: la carne debe estar tan tierna que se deshaga con un tenedor. Retira las cáscaras de naranja y el laurel.",
     "Saca la carne a una bandeja de horno y desmenúzala en trozos gruesos con dos tenedores. Reduce el jugo de la olla destapado a fuego fuerte 5 min y viértelo sobre la carne junto con la manteca derretida.",
-    "Enciende el gratinador del horno a máxima potencia (o calienta una sartén grande a fuego fuerte). Dora la carne 6-8 min hasta que los bordes estén crujientes y caramelizados: ese contraste tierno-crujiente es lo que define las carnitas.",
+    "Dora la carne bajo el gratinador (o en una sartén grande a fuego fuerte) 6-8 min hasta que los bordes estén crujientes y caramelizados: ese contraste tierno-crujiente es lo que define las carnitas.",
     "Calienta las tortillas 30 s por lado en una sartén seca y envuélvelas en un paño para que no se enfríen.",
-    "Sirve las carnitas en las tortillas con cilantro picado, cebolla morada y gajos de lima para exprimir encima."
+    "Sirve las carnitas en las tortillas con el cilantro, la cebolla morada y los gajos de lima para exprimir encima."
   ],
   nutricion: { kcal: 760, prot: 50, hc: 52, grasa: 36 },
   etiquetas: ["mexicana", "batch cooking", "para compartir", "sin verduras", "poco especiada"],
@@ -496,9 +495,9 @@ window.RECETAS_SEED.push({
     "Aparta del fuego, deja despresurizar sola 5 min y libera el resto con la válvula. Saca el pollo y desmenúzalo con dos tenedores en hebras. Cuela y reserva el caldo.",
     "Mientras cuece el pollo, prepara la salsa: tritura con la batidora los tomates troceados, los chipotles con su adobo, el resto del ajo, el orégano y el comino hasta que quede fina.",
     "Corta la cebolla y media restante en juliana fina. Calienta el aceite en una sartén grande a fuego medio y sofríela 8 min hasta que esté blanda y empiece a dorarse.",
-    "Vierte la salsa de tomate y chipotle sobre la cebolla y cocina 8-10 min a fuego medio removiendo hasta que espese y cambie a un rojo oscuro.",
+    "Vierte la salsa de tomate y chipotle sobre la cebolla y cocina 8-10 min a fuego medio, removiendo de vez en cuando, hasta que espese y cambie a un rojo oscuro. Mientras, lamina el aguacate, pica el cilantro y corta la lima en gajos.",
     "Añade el pollo desmenuzado y 100 ml del caldo reservado. Cocina 5 min más hasta que la tinga esté jugosa pero no caldosa. Rectifica de sal y pimienta.",
-    "Calienta las tortillas 30 s por lado en una sartén seca. Sirve la tinga con el aguacate en láminas, cilantro picado, gajos de lima y una cucharadita de yogur si quieres suavizar el picante."
+    "Calienta las tortillas 30 s por lado en una sartén seca. Sirve la tinga con el aguacate, el cilantro, los gajos de lima y una cucharadita de yogur si quieres suavizar el picante."
   ],
   nutricion: { kcal: 700, prot: 52, hc: 60, grasa: 24 },
   etiquetas: ["mexicana", "picante", "alta en proteína", "batch cooking", "para compartir", "bajo en colesterol"],

@@ -42,8 +42,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las lentejas rojas en un colador hasta que el agua salga casi clara. Ponlas en una cazuela con 800 ml de agua, la cúrcuma y el jengibre en láminas y cuécelas 15 minutos a fuego medio, retirando la espuma, hasta que empiecen a deshacerse.",
     "Mientras, pela la patata y la zanahoria y córtalas en dados de 2 cm. Corta la berenjena en bastones gruesos, despunta las judías y trocéalas en 4 cm, pica el tomate, corta la cebolla en pluma fina y lamina el ajo.",
-    "Añade la patata y la zanahoria a las lentejas y cuece 10 minutos más.",
-    "Lava el arroz y cuécelo en otro cazo con 150 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado 5 minutos.",
+    "Añade la patata y la zanahoria a las lentejas y cuece 10 minutos más. Mientras, lava el arroz y cuécelo en otro cazo con 150 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado 5 minutos.",
     "En la sartén, calienta el aceite y fríe la canela y el anís 30 segundos, hasta que huelan. Añade la cebolla y el ajo y dóralos 6-7 minutos, hasta que la cebolla tenga bordes tostados. Agrega el curry en polvo con 2 cucharadas de agua y rehoga 1 minuto.",
     "Vuelca el sofrito en la cazuela junto con la berenjena, las judías y el tomate. Cuece 10 minutos a fuego suave, hasta que la berenjena esté blanda.",
     "Añade la leche de coco, el tamarindo y sal, y deja hervir suave 3 minutos. Debe quedar como una crema espesa pero fluida; si se espesa demasiado, añade un chorrito de agua caliente.",
@@ -184,11 +183,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon la costilla en la cazuela, cúbrela con agua fría y llévala a ebullición; deja hervir 3 minutos, escurre y enjuágala. Así el caldo queda limpio.",
     "Pica finas las chalotas y el ajo. Calienta el aceite en la cazuela a fuego medio y sofríelos 4 minutos, hasta que estén dorados claros. Añade la costilla, los clavos, la nuez moscada y bastante pimienta y rehoga 2 minutos.",
-    "Cubre con 1 litro de agua, sala ligeramente, tapa y cuece a fuego suave 40 minutos, retirando la espuma, hasta que la carne empiece a separarse del hueso.",
-    "Pela la patata y la zanahoria, córtalas en dados de 1,5 cm y añádelas con las alubias escurridas. Cuece 15 minutos más.",
+    "Cubre con 1 litro de agua, sala ligeramente, tapa y cuece a fuego suave 40 minutos, retirando la espuma, hasta que la carne empiece a separarse del hueso. Mientras, pela la patata y la zanahoria y córtalas en dados de 1,5 cm; corta finos la cebolleta y el apio, hojas incluidas, y pica el chile.",
+    "Añade la patata y la zanahoria con las alubias escurridas. Cuece 15 minutos más.",
     "Aplasta un cucharón de alubias contra la pared de la cazuela y remueve: espesa el caldo sin harina.",
-    "Corta finos la cebolleta y el apio, hojas incluidas, y añádelos los últimos 2 minutos para que conserven su frescor.",
-    "Rectifica de sal y pimienta, desgrasa la superficie si hace falta y sirve en cuencos con el chile picado aparte."
+    "Añade la cebolleta y el apio los últimos 2 minutos para que conserven su frescor.",
+    "Rectifica de sal y pimienta, desgrasa la superficie si hace falta y sirve en cuencos con el chile aparte."
   ],
   nutricion: { kcal: 640, prot: 38, hc: 51, grasa: 31 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "sin gluten", "batch cooking", "económica"],
@@ -278,10 +277,10 @@ window.RECETAS_SEED.push({
     "Corta el tofu en dados de 2 cm y sécalo con papel. Lamina las setas sin el pie duro, corta los tomates en gajos, pica las chalotas y el ajo y corta el jengibre en hilos finos.",
     "Calienta el aceite en la cazuela a fuego medio y sofríe las chalotas, el ajo y el jengibre 2-3 minutos, hasta que la chalota esté transparente y la cocina huela a jengibre.",
     "Añade los tomates y rehoga 3 minutos, aplastándolos un poco con la cuchara, hasta que suelten su jugo y tiñan el aceite de rojo.",
-    "Vierte el caldo, la salsa de pescado y el azúcar y lleva a ebullición. Añade las setas y las alubias escurridas y enjuagadas y cuece 6 minutos a fuego suave.",
+    "Vierte el caldo, la salsa de pescado y el azúcar y lleva a ebullición. Añade las setas y las alubias escurridas y enjuagadas y cuece 6 minutos a fuego suave. Mientras, corta la cebolleta en aros y deshoja el cilantro.",
     "Incorpora el tofu y cuece 3 minutos más sin remover con fuerza, para que no se rompa.",
     "Apaga el fuego, añade las espinacas y deja que se ablanden 1 minuto en el caldo caliente. Prueba: debe saber limpio, a jengibre y apenas salado; ajusta con salsa de pescado y pimienta.",
-    "Sirve en cuencos hondos con la cebolleta en aros y el cilantro por encima."
+    "Sirve en cuencos hondos con la cebolleta y el cilantro por encima."
   ],
   nutricion: { kcal: 385, prot: 26, hc: 42, grasa: 12 },
   etiquetas: ["creativa", "rápida", "ligera", "de cuchara", "sin gluten", "sin lácteos", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -325,11 +324,11 @@ window.RECETAS_SEED.push({
     "Lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; déjalo reposar tapado 5 minutos.",
     "Escurre y enjuaga los garbanzos y sécalos muy bien con un paño, frotándolos: se soltarán algunas pieles, retíralas. Mézclalos en un bol con la maicena hasta que queden cubiertos por un velo blanco.",
     "Machaca en el mortero (o pica muy fino) los ajos pelados, la pimienta en grano y los tallos del cilantro hasta tener una pasta gruesa. Mezcla en un vaso la salsa de ostras, la soja, la salsa de pescado, el azúcar y 2 cucharadas de agua.",
-    "Calienta 3 cucharadas de aceite en el wok a fuego medio-alto y fríe los garbanzos 8-10 minutos, removiendo de vez en cuando, hasta que estén dorados y crujientes por fuera. Sácalos con una espumadera y deja solo 1 cucharada de aceite en el wok.",
+    "Calienta 3 cucharadas de aceite en el wok a fuego medio-alto y fríe los garbanzos 8-10 minutos, removiendo de vez en cuando, hasta que estén dorados y crujientes por fuera. Mientras, corta el pepino y el chile en rodajas y deshoja el cilantro. Saca los garbanzos con una espumadera y deja solo 1 cucharada de aceite en el wok.",
     "Baja a fuego medio y sofríe la pasta de ajo 1-2 minutos, hasta que esté dorada clara y muy fragante; si se oscurece, amarga.",
     "Vierte la salsa, deja que burbujee 20 segundos, devuelve los garbanzos y saltea 1 minuto, hasta que queden glaseados y la salsa se haya absorbido.",
     "En la sartén, con el resto del aceite muy caliente, fríe los huevos 2 minutos, hasta que la clara tenga los bordes crujientes y la yema siga líquida (kai dao).",
-    "Sirve los garbanzos sobre el arroz con el huevo encima, el pepino en rodajas, las hojas de cilantro, el chile en rodajas y unas gotas de lima."
+    "Sirve los garbanzos sobre el arroz con el huevo encima, el pepino, las hojas de cilantro, el chile y unas gotas de lima."
   ],
   nutricion: { kcal: 815, prot: 28, hc: 104, grasa: 31 },
   etiquetas: ["creativa", "económica", "sin lácteos"],
@@ -372,9 +371,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
-    "Prepara el kroeung: quita las capas externas duras de la hierba limón y corta en rodajas finas la parte blanca y verde pálida. Tritúrala con el jengibre, la cúrcuma, el ajo, las chalotas, 2 hojas de lima sin el nervio central y 3 cucharadas de agua hasta obtener una pasta lo más fina posible, rascando las paredes.",
+    "Pela la calabaza y córtala en dados de 2 cm. Prepara el kroeung: quita las capas externas duras de la hierba limón y corta en rodajas finas la parte blanca y verde pálida. Tritúrala con el jengibre, la cúrcuma, el ajo, las chalotas, 2 hojas de lima sin el nervio central y 3 cucharadas de agua hasta obtener una pasta lo más fina posible, rascando las paredes.",
     "Calienta el aceite en la cazuela a fuego medio y fríe el kroeung 4-5 minutos, removiendo, hasta que pierda el olor a crudo, oscurezca un poco y el aceite asome por los bordes.",
-    "Añade la calabaza en dados de 2 cm, la mitad de la leche de coco, 200 ml de agua, la hoja de lima restante, la salsa de pescado y el azúcar de palma. Tapa y cuece 12 minutos, hasta que la calabaza esté tierna.",
+    "Añade la calabaza, la mitad de la leche de coco, 200 ml de agua, la hoja de lima restante, la salsa de pescado y el azúcar de palma. Tapa y cuece 12 minutos, hasta que la calabaza esté tierna.",
     "Incorpora las alubias escurridas y el resto de la leche de coco y cuece 5 minutos a fuego suave, aplastando unas pocas alubias para espesar la salsa.",
     "Fuera del fuego, añade las espinacas y remueve: se ablandan en 1 minuto. Ajusta con zumo de lima y sal.",
     "Sirve el curry en plato hondo con el arroz jazmín."
@@ -418,9 +417,9 @@ window.RECETAS_SEED.push({
     "Lava el arroz y cuécelo con 180 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado 5 minutos.",
     "Escurre el tofu, sécalo con papel de cocina y córtalo en dados de 2 cm. Despunta las judías y córtalas en trozos de 4 cm. Tuesta los cacahuetes en el wok en seco 3 minutos y pícalos.",
     "Calienta en el wok 4 cucharadas de la parte espesa de la leche de coco a fuego medio hasta que hierva y empiece a separar la grasa, 2-3 minutos. Fríe ahí la pasta panang 2 minutos, removiendo, hasta que huela intensamente.",
-    "Añade el tofu y las judías, remueve para que se impregnen y vierte el resto de la leche de coco, la salsa de soja, el azúcar de palma y 3 hojas de lima partidas. Cuece 5 minutos a fuego medio.",
+    "Añade el tofu y las judías, remueve para que se impregnen y vierte el resto de la leche de coco, la salsa de soja, el azúcar de palma y 3 hojas de lima partidas. Cuece 5 minutos a fuego medio. Mientras, corta en juliana finísima la hoja de lima restante y el chile en rodajas.",
     "Añade el edamame congelado y cuece 4 minutos más, hasta que las judías estén tiernas pero crujientes y la salsa espese y nape.",
-    "Corta en juliana finísima la hoja de lima restante. Apaga el fuego, añade la albahaca y sirve el curry con el arroz, los cacahuetes, la juliana de lima y el chile en rodajas."
+    "Apaga el fuego, añade la albahaca y sirve el curry con el arroz, los cacahuetes, la juliana de lima y el chile."
   ],
   nutricion: { kcal: 725, prot: 31, hc: 72, grasa: 35 },
   etiquetas: ["creativa", "rápida", "alta en proteína", "picante"],
@@ -460,10 +459,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Calienta el aceite en la cazuela a fuego medio y fríe la pasta de laksa 3 minutos, removiendo, hasta que oscurezca y suelte un aceite rojizo.",
     "Añade la mitad de la leche de coco y deja que hierva 1 minuto para que se integre con la pasta. Vierte el caldo y el azúcar.",
-    "Añade las lentejas escurridas y enjuagadas y cuece 8 minutos a fuego suave para que tomen sabor.",
-    "Corta el tofu frito por la mitad y añádelo: absorberá el caldo como una esponja. Si usas tofu firme, córtalo en dados y dóralo antes en la sartén con un poco de aceite 6-8 minutos. Cuece 4 minutos.",
+    "Añade las lentejas escurridas y enjuagadas y cuece 8 minutos a fuego suave para que tomen sabor. Mientras, corta el tofu frito por la mitad (si usas tofu firme, córtalo en dados y dóralo en la sartén con un poco de aceite 6-8 minutos), pon a hervir un cazo de agua para los brotes, deshoja el cilantro y corta la lima en cuñas.",
+    "Añade el tofu: absorberá el caldo como una esponja. Cuece 4 minutos.",
     "Añade el resto de la leche de coco y sal y calienta sin que llegue a hervir con fuerza.",
-    "Escalda los brotes de soja 30 segundos en agua hirviendo (o déjalos crudos si te gustan crujientes). Sirve el guiso en cuencos con los brotes, el cilantro, cuñas de lima y sambal al gusto."
+    "Escalda los brotes de soja 30 segundos en el agua hirviendo (o déjalos crudos si te gustan crujientes). Sirve el guiso en cuencos con los brotes, el cilantro, las cuñas de lima y sambal al gusto."
   ],
   nutricion: { kcal: 690, prot: 32, hc: 53, grasa: 39 },
   etiquetas: ["creativa", "picante", "económica", "de cuchara"],
@@ -502,11 +501,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
-    "Corta la panceta en tiras de 1 cm y ponla en la cazuela en frío a fuego medio. Deja que suelte la grasa y se dore 7-8 minutos, hasta que esté crujiente. Sácala y deja en la cazuela solo 1 cucharada de grasa.",
-    "Lamina el ajo y pica la cebolla. Sofríelos en la grasa 4 minutos, hasta que el ajo esté dorado claro; reserva una cucharada de ajo dorado para el final.",
-    "Añade las judías verdes despuntadas y cortadas en trozos de 5 cm y rehoga 2 minutos. Vierte la salsa de soja, el vinagre, 150 ml de agua, el laurel, la pimienta machacada y el azúcar, y deja hervir 2 minutos destapado y sin remover: así se evapora el punto crudo del vinagre, el truco de todo adobo filipino.",
-    "Añade las alubias escurridas, tapa y cuece 8 minutos a fuego suave, hasta que las judías estén tiernas y la salsa se haya reducido a la mitad y brille.",
-    "Devuelve la mitad de la panceta a la cazuela y mezcla. Sirve sobre el arroz con el resto de la panceta, el ajo dorado y la cebolleta en aros."
+    "Corta la panceta en tiras de 1 cm y ponla en la cazuela en frío a fuego medio. Deja que suelte la grasa y se dore 7-8 minutos, hasta que esté crujiente; mientras, lamina el ajo, pica la cebolla y despunta las judías verdes y córtalas en trozos de 5 cm. Saca la panceta y deja en la cazuela solo 1 cucharada de grasa.",
+    "Sofríe el ajo y la cebolla en la grasa 4 minutos, hasta que el ajo esté dorado claro; reserva una cucharada de ajo dorado para el final.",
+    "Añade las judías verdes y rehoga 2 minutos. Vierte la salsa de soja, el vinagre, 150 ml de agua, el laurel, la pimienta machacada y el azúcar, y deja hervir 2 minutos destapado y sin remover: así se evapora el punto crudo del vinagre, el truco de todo adobo filipino.",
+    "Añade las alubias escurridas, tapa y cuece 8 minutos a fuego suave, hasta que las judías estén tiernas y la salsa se haya reducido a la mitad y brille. Mientras, corta la cebolleta en aros.",
+    "Devuelve la mitad de la panceta a la cazuela y mezcla. Sirve sobre el arroz con el resto de la panceta, el ajo dorado y la cebolleta."
   ],
   nutricion: { kcal: 675, prot: 30, hc: 93, grasa: 20 },
   etiquetas: ["creativa", "económica", "batch cooking", "poco especiada"],
@@ -547,9 +546,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Tritura las chalotas, el ajo, el jengibre, los chiles (sin semillas si lo quieres suave), la cúrcuma y el cilantro molido con 3 cucharadas de agua hasta obtener una pasta fina: es el bumbu.",
+    "Pela la patata y córtala en dados de 2 cm. Tritura las chalotas, el ajo, el jengibre, los chiles (sin semillas si lo quieres suave), la cúrcuma y el cilantro molido con 3 cucharadas de agua hasta obtener una pasta fina: es el bumbu.",
     "Golpea la hierba limón con el lomo del cuchillo y hazle un nudo. Calienta el aceite en la cazuela a fuego medio y fríe el bumbu con la hierba limón y las hojas de lima 5 minutos, removiendo, hasta que esté fragante y el aceite brille en los bordes.",
-    "Añade la patata pelada en dados de 2 cm y 300 ml de agua. Tapa y cuece 10 minutos.",
+    "Añade la patata y 300 ml de agua. Tapa y cuece 10 minutos.",
     "Incorpora los garbanzos escurridos, la leche de coco, el tamarindo y sal. Cuece 10 minutos destapado a fuego suave, removiendo para que la leche de coco no se corte, hasta que el caldo se vuelva cremoso y de un amarillo intenso.",
     "Añade las espinacas a puñados, removiendo, y cuece 2 minutos hasta que se ablanden.",
     "Retira la hierba limón y las hojas de lima, prueba de sal y de acidez y sirve en plato hondo."
@@ -594,8 +593,8 @@ window.RECETAS_SEED.push({
     "Mientras, lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
     "Haz el caramelo: pon el resto del azúcar con 1 cucharada de agua en la cazuela (de barro si tienes) a fuego medio y no lo toques hasta que tome color caoba, 4-5 minutos. Añade el aceite y el resto de la chalota y el ajo y remueve 30 segundos.",
     "Coloca la caballa en una sola capa con su marinada, gira las piezas para que se cubran de caramelo durante 1 minuto y vierte el agua de coco y el resto de la salsa de pescado: el líquido debe llegar a dos tercios de la altura del pescado.",
-    "Cuece destapado a fuego suave 20 minutos sin remover; inclina la cazuela para regar el pescado con la salsa y dale la vuelta una sola vez con cuidado. Está listo cuando la salsa quede espesa, oscura y pegajosa.",
-    "Termina con la cebolleta en aros, el chile en rodajas y más pimienta recién molida. Sirve con el arroz y el pepino en bastones para refrescar."
+    "Cuece destapado a fuego suave 20 minutos sin remover; inclina la cazuela para regar el pescado con la salsa y dale la vuelta una sola vez con cuidado. Está listo cuando la salsa quede espesa, oscura y pegajosa. Mientras, corta la cebolleta en aros, el chile en rodajas y el pepino en bastones.",
+    "Termina con la cebolleta, el chile y más pimienta recién molida. Sirve con el arroz y el pepino para refrescar."
   ],
   nutricion: { kcal: 710, prot: 35, hc: 80, grasa: 28 },
   etiquetas: ["tradicional", "sin gluten", "alta en proteína", "económica", "omega 3"],
@@ -638,9 +637,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C con calor arriba y abajo. Seca bien las doradas por fuera y por dentro sin quitarles las escamas: son las que protegen la carne de la sal.",
     "Chafa la hierba limón con el canto del cuchillo y córtala en trozos de 8 cm. Rellena el vientre de cada pescado con la hierba limón, 2 hojas de lima rasgadas y los tallos del cilantro.",
     "Mezcla la sal gruesa con la maicena y unas 4 cucharadas de agua hasta que tenga textura de arena mojada. Coloca las doradas en una bandeja con papel y cúbrelas con una capa de 1 cm, apretando con las manos y dejando la cola fuera.",
-    "Hornea 25 minutos, hasta que la costra esté dura y ligeramente dorada y, al pinchar el lomo junto a la cabeza con una brocheta, esta salga caliente.",
-    "Mientras, prepara el nam jim: tritura el chile verde, el ajo y la mitad de las hojas de cilantro con el zumo de las limas, la salsa de pescado y el azúcar, hasta tener una salsa verde con algo de textura. Debe estar ácida, picante y salada a la vez.",
-    "Cuece los fideos en agua hirviendo 3-4 minutos (o según el envase), escúrrelos y enjuágalos con agua fría. Separa las hojas de lechuga y corta el pepino en bastones.",
+    "Hornea 25 minutos, hasta que la costra esté dura y ligeramente dorada y, al pinchar el lomo junto a la cabeza con una brocheta, esta salga caliente. Mientras, pon a hervir un cazo de agua para los fideos.",
+    "Prepara el nam jim: tritura el chile verde, el ajo y la mitad de las hojas de cilantro con el zumo de las limas, la salsa de pescado y el azúcar, hasta tener una salsa verde con algo de textura. Debe estar ácida, picante y salada a la vez.",
+    "Cuece los fideos en el agua hirviendo 3-4 minutos (o según el envase), escúrrelos y enjuágalos con agua fría. Separa las hojas de lechuga y corta el pepino en bastones.",
     "Rompe la costra golpeándola con el mango de un cuchillo y retírala junto con la piel, que se desprende con ella. Saca los lomos en trozos, sin espinas.",
     "Sirve el pescado con los fideos, la lechuga, el pepino, el resto del cilantro y el nam jim: cada uno envuelve pescado y fideos en una hoja y lo moja en la salsa."
   ],
@@ -687,8 +686,8 @@ window.RECETAS_SEED.push({
     "Reserva 4 cucharadas de la parte más espesa de la leche de coco. En un bol, bate el kroeung con el resto de la leche de coco, el huevo, la salsa de pescado y el azúcar de palma.",
     "Corta el bacalao en láminas de 1 cm, mézclalo con la crema y déjalo reposar 10 minutos.",
     "Forra 2 cuencos aptos para el calor (o cuencos hechos con hoja de plátano) con las espinacas crudas y reparte encima el pescado con su crema.",
-    "Pon 3 cm de agua en una cazuela grande, coloca dentro un plato invertido o una rejilla y los cuencos encima. Tapa y cuece al vapor a fuego medio 18-20 minutos, hasta que la crema cuaje como un flan blando y el pescado esté opaco. Mientras, cuece el arroz con 180 ml de agua, tapado y a fuego mínimo, 12 minutos.",
-    "Cubre cada amok con 2 cucharadas de la crema de coco reservada, las otras 2 hojas de lima en juliana finísima y tiras de chile, y dale 1 minuto más de vapor para que la crema se asiente.",
+    "Pon 3 cm de agua en una cazuela grande, coloca dentro un plato invertido o una rejilla y los cuencos encima. Tapa y cuece al vapor a fuego medio 18-20 minutos, hasta que la crema cuaje como un flan blando y el pescado esté opaco. Mientras, cuece el arroz con 180 ml de agua, tapado y a fuego mínimo, 12 minutos, y corta en juliana finísima las otras 2 hojas de lima y el chile en tiras.",
+    "Cubre cada amok con 2 cucharadas de la crema de coco reservada, la juliana de lima y el chile, y dale 1 minuto más de vapor para que la crema se asiente.",
     "Sirve el amok en su cuenco con el arroz jazmín al lado."
   ],
   nutricion: { kcal: 630, prot: 38, hc: 60, grasa: 26 },
@@ -731,10 +730,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Haz el ajat: calienta el vinagre con 1,5 cucharadas de azúcar, una pizca de sal y 2 cucharadas de agua hasta que se disuelva y deja enfriar. Añade el pepino en cuartos de rodaja fina, la chalota en pluma, el chile en rodajas y los cacahuetes picados.",
-    "Lava el arroz y cuécelo con 180 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
+    "Haz el ajat: calienta el vinagre con 1,5 cucharadas de azúcar, una pizca de sal y 2 cucharadas de agua hasta que se disuelva y deja enfriar. Mientras, corta el pepino en cuartos de rodaja fina, la chalota en pluma y el chile en rodajas, y pica los cacahuetes; añádelos al almíbar frío.",
+    "Lava el arroz y cuécelo con 180 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado. Mientras, corta las judías en rodajitas de 3 mm y las hojas de lima en juliana finísima, sin nervio.",
     "Corta la merluza en dados y tritúrala en la picadora con la pasta de curry, el huevo, la salsa de pescado, la maicena y el resto del azúcar, hasta obtener una pasta lisa y pegajosa, 1 minuto.",
-    "Pásala a un bol y amásala lanzándola contra el fondo del bol durante 2-3 minutos: se vuelve elástica, y ese es el secreto de la textura de muelle del tod mun. Añade las judías cortadas en rodajitas de 3 mm y las hojas de lima en juliana finísima, sin nervio.",
+    "Pásala a un bol y amásala lanzándola contra el fondo del bol durante 2-3 minutos: se vuelve elástica, y ese es el secreto de la textura de muelle del tod mun. Añade las judías y la juliana de lima.",
     "Con las manos mojadas, forma 10-12 discos de unos 5 cm de diámetro y 1 cm de grosor.",
     "Calienta el aceite en la sartén (1 cm de fondo) a 170 °C, o hasta que un trocito de masa burbujee enseguida, y fríe los buñuelos en tandas 2 minutos por cara, hasta que estén dorados e hinchados. Escúrrelos sobre papel de cocina.",
     "Sirve los tod mun recién fritos con el arroz y el ajat para ir mojando."
@@ -778,7 +777,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ralla el jengibre y el ajo y mézclalos con la cúrcuma, el yogur, 1 cucharada de salsa de pescado, 1 cucharadita de azúcar y 1 cucharada de aceite. Embadurna el rape y marínalo 20 minutos en la nevera.",
-    "Prepara el nước chấm: mezcla el resto de la salsa de pescado con el zumo de media lima, 1 cucharadita de azúcar, 4 cucharadas de agua templada y el chile picado.",
+    "Mientras marina, pica el chile y prepara el nước chấm: mezcla el resto de la salsa de pescado con el zumo de media lima, 1 cucharadita de azúcar, 4 cucharadas de agua templada y el chile.",
     "Cuece los fideos en agua hirviendo 3-4 minutos (o lo que indique el paquete), escúrrelos y enjuágalos con agua fría. Tuesta los cacahuetes en la sartén en seco 3 minutos y pícalos.",
     "Corta el eneldo en ramitas de 5 cm, con el tallo fino, y la cebolleta en trozos de 5 cm, partiendo la parte blanca a lo largo.",
     "Calienta 2 cucharadas de aceite en la sartén a fuego fuerte y dora el rape escurrido de marinada 2 minutos por cara sin moverlo, hasta que tenga costra dorada y un amarillo intenso.",
@@ -822,9 +821,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y cuécelas enteras y con piel en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas.",
-    "Mientras, prepara el sambal matah: corta las chalotas en láminas muy finas, la parte tierna de la hierba limón en rodajas finísimas, el chile en rodajitas y las hojas de lima en juliana fina sin nervio. Mézclalo en un bol con sal, el zumo de la lima y la pasta de gambas desmenuzada, frotando con los dedos 1 minuto para que suelte jugo.",
+    "Mientras, lamina el ajo y prepara el sambal matah: corta las chalotas en láminas muy finas, la parte tierna de la hierba limón en rodajas finísimas, el chile en rodajitas y las hojas de lima en juliana fina sin nervio. Mézclalo en un bol con sal, el zumo de la lima y la pasta de gambas desmenuzada, frotando con los dedos 1 minuto para que suelte jugo.",
     "Calienta 2 cucharadas de aceite hasta que humee ligeramente y viértelo sobre el sambal: chisporrotea y lo perfuma sin cocinarlo. Mezcla.",
-    "Aplasta un poco las patatas con la palma y dóralas en la sartén con media cucharada de aceite, el ajo laminado y la cúrcuma 5-6 minutos, hasta que estén doradas. Sala y reserva.",
+    "Aplasta un poco las patatas con la palma y dóralas en la sartén con media cucharada de aceite, el ajo y la cúrcuma 5-6 minutos, hasta que estén doradas. Sala y reserva.",
     "Seca muy bien la lubina, hazle 2 o 3 cortes superficiales en la piel y sálala. Calienta la sartén con el resto del aceite, pon los lomos con la piel hacia abajo y presiónalos 20 segundos con una espátula para que no se curven.",
     "Cocina 3-4 minutos, hasta que la piel esté crujiente y la carne opaca casi hasta arriba; dales la vuelta solo 30 segundos.",
     "Sirve la lubina con la piel hacia arriba junto a las patatas y cúbrela con abundante sambal matah."
@@ -870,11 +869,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Con unas tijeras, abre los langostinos por el lomo y retira el intestino, dejando la cáscara: absorben mejor la salsa y quedan más jugosos.",
     "Mezcla en un bol el kétchup, el sambal, el azúcar, el vinagre, la maicena y 150 ml de agua. Bate el huevo en otro bol con una pizca de sal.",
-    "Corta el pan en rebanadas y tuéstalo en el wok en seco o en el tostador; resérvalo. Pica el ajo, el jengibre y la chalota.",
+    "Corta el pan en rebanadas y tuéstalo en el wok en seco o en el tostador; resérvalo. Pica el ajo, el jengibre y la chalota, y también el cilantro y la cebolleta.",
     "Calienta el aceite en el wok a fuego medio-alto y sofríe el ajo, el jengibre y la chalota 1 minuto, hasta que huelan, sin que se doren.",
     "Añade los langostinos y saltéalos 2 minutos, hasta que se pongan rosados por fuera.",
     "Vierte la salsa y deja que hierva 2 minutos, removiendo, hasta que espese y cubra los langostinos.",
-    "Baja el fuego y vierte el huevo en un hilo fino mientras remueves despacio en círculos: formará hebras sedosas. Apaga a los 30 segundos y sirve con el cilantro y la cebolleta picados y el pan para mojar."
+    "Baja el fuego y vierte el huevo en un hilo fino mientras remueves despacio en círculos: formará hebras sedosas. Apaga a los 30 segundos y sirve con el cilantro y la cebolleta por encima y el pan para mojar."
   ],
   nutricion: { kcal: 525, prot: 39, hc: 56, grasa: 16 },
   etiquetas: ["creativa", "rápida", "picante", "para compartir"],
@@ -1008,11 +1007,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Remoja las gambas secas 10 minutos en agua templada, escúrrelas y pícalas finas. Mientras, lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
     "Limpia los mejillones: ráscalos, quita las barbas tirando hacia la punta y desecha los que estén abiertos y no se cierren al golpearlos.",
-    "Pica el ajo, la chalota y el chile. Calienta el aceite y la mantequilla en el wok a fuego medio y fríe las gambas secas 2 minutos, hasta que crujan y huelan a mar tostado.",
+    "Pica el ajo, la chalota y el chile, y corta la cebolleta en aros. Calienta el aceite y la mantequilla en el wok a fuego medio y fríe las gambas secas 2 minutos, hasta que crujan y huelan a mar tostado.",
     "Añade el ajo, la chalota y el chile y sofríe 1 minuto; incorpora el curry en polvo y remueve 30 segundos sin que se queme.",
     "Sube el fuego al máximo, añade los mejillones, la salsa de ostras, la soja y el azúcar; tapa y cocina 3-4 minutos, sacudiendo el wok, hasta que se abran.",
     "Destapa y saltea 2 minutos más a fuego fuerte para que el jugo se reduzca y la salsa se pegue a las conchas. Desecha los que sigan cerrados.",
-    "Sirve los mejillones con la cebolleta en aros y el arroz jazmín para recoger la salsa."
+    "Sirve los mejillones con la cebolleta por encima y el arroz jazmín para recoger la salsa."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 74, grasa: 19 },
   etiquetas: ["creativa", "rápida", "picante", "económica"],
@@ -1054,11 +1053,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el cerdo en dados de 3 cm y masajéalo con la salsa de pescado, la cúrcuma y el pimentón. Déjalo reposar 10 minutos.",
-    "Tritura las cebollas, el ajo y dos tercios del jengibre con 3 cucharadas de agua hasta obtener un puré fino. Corta el resto del jengibre en hilos finos.",
+    "Mientras, tritura las cebollas, el ajo y dos tercios del jengibre con 3 cucharadas de agua hasta obtener un puré fino. Corta el resto del jengibre en hilos finos y pica el tomate.",
     "Calienta el aceite en la cazuela a fuego medio y fríe el puré de cebolla 10-12 minutos, removiendo a menudo, hasta que se evapore el agua, se dore y el aceite empiece a separarse: es la clave del sabor birmano.",
-    "Añade el chile en polvo y el tomate picado y rehoga 3 minutos. Incorpora el cerdo y séllalo 5 minutos removiendo, hasta que pierda el color rosado por todas las caras.",
+    "Añade el chile en polvo y el tomate y rehoga 3 minutos. Incorpora el cerdo y séllalo 5 minutos removiendo, hasta que pierda el color rosado por todas las caras.",
     "Vierte 400 ml de agua caliente, tapa y cuece a fuego suave 50-60 minutos, hasta que la carne se deshaga al presionarla, la salsa se reduzca y un aceite rojizo flote en la superficie. Si se seca antes, añade agua a chorritos.",
-    "Mientras, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos. Corta el pepino en rodajas y alíñalo con el zumo de la lima y sal.",
+    "Mientras, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos. Corta el pepino en rodajas y alíñalo con el zumo de la lima y sal. Pica el cilantro.",
     "Añade los hilos de jengibre los últimos 5 minutos de cocción. Sirve el curry con el arroz, el cilantro por encima y el pepino al lado."
   ],
   nutricion: { kcal: 715, prot: 40, hc: 72, grasa: 30 },
@@ -1101,7 +1100,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la ternera en dados de 2,5 cm. Mézclala con el ajo picado, la salsa de ostras, la soja, la salsa de pescado, el azúcar, la maicena y media cucharada de aceite, y déjala marinar 15 minutos.",
+    "Pica el ajo y corta la ternera en dados de 2,5 cm. Mézclala con el ajo, la salsa de ostras, la soja, la salsa de pescado, el azúcar, la maicena y media cucharada de aceite, y déjala marinar 15 minutos.",
     "Mientras, lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos. Déjalo reposar tapado.",
     "Prepara el tuk meric: muele grueso la pimienta en el mortero y mézclala con media cucharadita de sal y el zumo de las 2 limas. Repártelo en dos cuencos pequeños.",
     "Monta en cada plato una cama de hojas de lechuga con el tomate en rodajas, la cebolla morada en aros finos y el pepino en rodajas.",
@@ -1152,8 +1151,8 @@ window.RECETAS_SEED.push({
     "Prepara el bumbu kuning: tritura las chalotas, el ajo, el jengibre, la cúrcuma, el cilantro molido, la parte tierna de 1 hierba limón en rodajas, 1 cucharada de aceite, la salsa de soja dulce, sal y 2 cucharadas de agua hasta obtener una pasta fina.",
     "Embadurna los contramuslos con dos tercios del bumbu y déjalos reposar 10 minutos. Corta la calabaza en gajos de 2 cm (pélala si la piel es gruesa) y la cebolla morada en gajos, y mézclalos con el resto del bumbu y del aceite.",
     "Extiende las verduras en una bandeja con papel de horno, coloca el pollo encima y la otra hierba limón aplastada entre medias. Hornea 30-35 minutos, hasta que el pollo esté dorado, sus jugos salgan claros y la calabaza se deje atravesar y tenga los bordes caramelizados.",
-    "Mientras, haz el serundeng: tuesta el coco rallado en la sartén en seco con el azúcar moreno y una pizca de sal a fuego medio-bajo 4-5 minutos, removiendo sin parar, hasta que esté dorado uniforme. Pásalo enseguida a un plato para que no se queme con el calor residual.",
-    "Sirve el pollo y la calabaza con los jugos de la bandeja, espolvorea el serundeng y el cilantro picado y acompaña con cuñas de lima."
+    "Mientras, haz el serundeng: tuesta el coco rallado en la sartén en seco con el azúcar moreno y una pizca de sal a fuego medio-bajo 4-5 minutos, removiendo sin parar, hasta que esté dorado uniforme. Pásalo enseguida a un plato para que no se queme con el calor residual. Pica el cilantro y corta la lima en cuñas.",
+    "Sirve el pollo y la calabaza con los jugos de la bandeja, espolvorea el serundeng y el cilantro y acompaña con las cuñas de lima."
   ],
   nutricion: { kcal: 600, prot: 42, hc: 28, grasa: 35 },
   etiquetas: ["creativa", "al horno", "alta en proteína", "económica", "otoño"],

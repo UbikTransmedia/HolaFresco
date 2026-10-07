@@ -37,8 +37,8 @@ window.RECETAS_SEED.push({
     "Escúrrela, cúbrela con agua nueva en una cazuela y cuécela sin tapa a fuego medio 12–15 minutos desde que hierva, retirando la espuma. Prueba un grano: debe estar cocido pero aún firme y sin sabor a crudo. Si se queda corta sabe a judía verde cruda; si se pasa, el caldo sale pesado y con olor a soja fermentada.",
     "Escúrrela y enfríala bajo el grifo. Frota los granos entre las manos dentro de un bol con agua: las pieles suben a la superficie y las retiras volcando el agua con cuidado. No hace falta quitarlas todas, pero cuantas menos queden, más fino será el caldo.",
     "Tritura la soja con el sésamo, los piñones si los usas y los 600 ml de agua fría durante 2–3 minutos, hasta tener una crema lisa del espesor de una leche entera. Si quieres un acabado de restaurante, cuélala por un colador fino. Guárdala en la nevera al menos 30 minutos: debe servirse helada.",
-    "Mientras, cuece el huevo 10 minutos, enfríalo en agua, pélalo y pártelo por la mitad. Corta el pepino en juliana fina y el tomate en gajos.",
-    "Cuece los somen en abundante agua hirviendo el tiempo del paquete, unos 2–3 minutos. Escúrrelos y lávalos frotándolos bajo agua muy fría para quitarles el almidón: así quedan tersos y no espesan el caldo.",
+    "Mientras se enfría, pon a calentar una olla grande de agua para los fideos. Cuece el huevo 10 minutos, enfríalo en agua, pélalo y pártelo por la mitad. Corta el pepino en juliana fina y el tomate en gajos.",
+    "Cuando hierva el agua, cuece los somen el tiempo del paquete, unos 2–3 minutos. Escúrrelos y lávalos frotándolos bajo agua muy fría para quitarles el almidón: así quedan tersos y no espesan el caldo.",
     "Reparte los fideos en cuencos hondos, vierte el caldo de soja helado por encima y corona con el pepino, el tomate, medio huevo y una pizca de sésamo. En Corea la sal se pone en la mesa: cada uno sala su cuenco al gusto."
   ],
   nutricion: { kcal: 615, prot: 34, hc: 72, grasa: 20 },
@@ -77,9 +77,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre la soja remojada y frota los granos en un bol con agua para soltar las pieles; retíralas volcando el agua. Tritúrala con 300 ml de agua durante 2 minutos, hasta tener una pasta fina como un yogur líquido. Resérvala.",
+    "La víspera, pon la soja en remojo en tres veces su volumen de agua fría (8–12 horas). Al día siguiente, escúrrela y frota los granos en un bol con agua para soltar las pieles; retíralas volcando el agua. Tritúrala con 300 ml de agua durante 2 minutos, hasta tener una pasta fina como un yogur líquido. Resérvala.",
     "Lava el arroz hasta que el agua salga casi clara, ponlo en un cazo con 160 ml de agua, lleva a ebullición, tapa y cuécelo a fuego mínimo 12 minutos. Déjalo reposar tapado.",
-    "Corta el kimchi en trozos de bocado, la cebolla en juliana, pica el ajo y la cebolleta.",
+    "Mientras se cuece el arroz, corta el kimchi en trozos de bocado, la cebolla en juliana, pica el ajo y la cebolleta.",
     "Calienta el aceite de sésamo en una cazuela de fondo grueso y saltea el cerdo 3 minutos a fuego medio-alto, hasta que pierda el color rosado. Añade el kimchi y la cebolla y cocina 5 minutos, hasta que el kimchi se ablande y la grasa se tiña de rojo. Suma el ajo 1 minuto.",
     "Vierte los 200 ml de agua restantes y el jugo del kimchi, lleva a ebullición, tapa y cuece 10 minutos a fuego medio.",
     "Vierte la soja triturada por encima, sin remover. Baja el fuego, deja la tapa entreabierta y cuece 10–12 minutos: la soja hace mucha espuma y se desborda con facilidad, así que vigílala. Está lista cuando ha cuajado en grumos blandos, como un requesón, y huele a fruto seco tostado en lugar de a crudo.",
@@ -171,10 +171,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre y enjuaga los garbanzos y ponlos en una cazuela con el caldo. Cuécelos a fuego suave y semitapados 15 minutos, aplastando un tercio con una cuchara de madera, hasta que estén muy tiernos y el caldo haya espesado. Sala ligeramente.",
-    "Tuesta la pimienta de Sichuan en una sartén seca 1 minuto, hasta que huela, y muélela en el mortero. Pica fino el jengibre. Machaca los ajos con 2 cucharadas de agua para hacer un agua de ajo.",
+    "Mientras se cuecen, tuesta la pimienta de Sichuan en una sartén seca 1 minuto, hasta que huela, y muélela en el mortero. Pica fino el jengibre y la cebolleta. Machaca los ajos con 2 cucharadas de agua para hacer un agua de ajo. Pon a hervir una olla grande de agua para los fideos.",
     "Prepara el zajiang: calienta el aceite de girasol en el wok y saltea el cerdo picado a fuego medio-alto 5–6 minutos, deshaciéndolo, hasta que suelte la grasa y quede dorado y algo crujiente. Añade la pasta de judías picante y remueve 1 minuto, hasta que el aceite se tiña de rojo. Suma el jengibre, el vino y 1 cucharada de salsa de soja, y cocina 1 minuto más.",
     "Monta el fondo de cada cuenco: media cucharada de salsa de soja, 1 cucharadita de vinagre negro, 1 cucharadita de aceite de chile, el agua de ajo repartida, una pizca de pimienta de Sichuan y 2 cucharadas del caldo caliente de los garbanzos.",
-    "Pon a hervir una olla grande de agua. Escalda el pak choi 1 minuto y sácalo. En la misma agua cuece los fideos el tiempo del paquete, unos 3–4 minutos, y escúrrelos al dente.",
+    "Cuando hierva el agua, escalda el pak choi 1 minuto y sácalo. En la misma agua cuece los fideos el tiempo del paquete, unos 3–4 minutos, y escúrrelos al dente.",
     "Reparte los fideos sobre la salsa de cada cuenco, cubre con los garbanzos y su caldo espeso, el zajiang y el pak choi, y espolvorea la cebolleta picada. Se mezcla todo en la mesa antes de comer."
   ],
   nutricion: { kcal: 625, prot: 32, hc: 70, grasa: 22 },
@@ -217,12 +217,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz, ponlo con 180 ml de agua, lleva a ebullición, tapa y cuécelo 12 minutos a fuego mínimo; déjalo reposar tapado.",
-    "Enjuaga las judías negras fermentadas 10 segundos bajo el grifo y pícalas gruesas. Pica fino el ajo y el jengibre y májalo todo junto con el lado del cuchillo: es la pasta de base de la cocina cantonesa. En un vaso, mezcla la maicena con la salsa de soja, el vino, el azúcar y 100 ml de agua.",
-    "Corta la berenjena en bastones de 1 × 6 cm, el pimiento en cuadrados, el chile en aros y la cebolleta separando la parte blanca de la verde.",
+    "Mientras se cuece, enjuaga las judías negras fermentadas 10 segundos bajo el grifo y pícalas gruesas. Pica fino el ajo y el jengibre y májalo todo junto con el lado del cuchillo: es la pasta de base de la cocina cantonesa. En un vaso, mezcla la maicena con la salsa de soja, el vino, el azúcar y 100 ml de agua.",
+    "Corta la berenjena en bastones de 1 × 6 cm, el pimiento en cuadrados, el chile en aros y la cebolleta en rodajas finas, separando la parte blanca de la verde.",
     "Calienta el wok a fuego fuerte con 1 cucharada de aceite y saltea la berenjena 6–7 minutos, moviendo a menudo; si se seca, tapa 1 minuto para que se haga al vapor. Debe quedar dorada y blanda. Sácala.",
     "Añade el resto del aceite, la pasta de judías negras, el blanco de la cebolleta y el chile, y saltea 30 segundos, hasta que huela intensamente. Suma el pimiento y saltéalo 2 minutos.",
     "Incorpora las alubias y la berenjena, remueve la mezcla de maicena y viértela. Cocina 2–3 minutos removiendo con suavidad, hasta que la salsa brille y envuelva las alubias; si espesa demasiado, añade un chorrito de agua. Prueba: el douchi ya es muy salado y no suele hacer falta sal.",
-    "Sirve sobre el arroz jazmín con el verde de la cebolleta picado por encima."
+    "Sirve sobre el arroz jazmín con el verde de la cebolleta por encima."
   ],
   nutricion: { kcal: 580, prot: 20, hc: 91, grasa: 13 },
   etiquetas: ["creativa", "vegana", "sin lácteos", "picante", "económica", "bajo en colesterol"],
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una cazuela a fuego medio-bajo, añade la harina y remueve sin parar 4–5 minutos, hasta tener un roux del color de la mantequilla de cacahuete que huela a galleta. No lo dejes oscurecer más: en un courtbouillon el roux solo liga, no domina.",
     "Añade la cebolla, el pimiento y el apio y rehoga 8 minutos, hasta que estén blandos. Suma el ajo, el tomillo y la cayena y cocina 1 minuto.",
     "Vierte el tomate y el caldo, añade el laurel y unas rodajas finas del medio limón, y cuece 20 minutos a fuego suave semitapado, hasta que la salsa espese y tome un rojo oscuro.",
-    "Mientras, cuece el arroz en agua hirviendo con sal 12 minutos y escúrrelo.",
+    "Mientras, cuece el arroz en agua hirviendo con sal 12 minutos y escúrrelo. Pica la cebolleta y el perejil.",
     "Sala y pimienta los trozos de corvina, colócalos dentro de la salsa sin remover, tapa y cocina 6–8 minutos a fuego suave, moviendo la cazuela en vaivén, hasta que el pescado esté opaco y se separe en lascas.",
     "Retira el laurel y las rodajas de limón, prueba de sal y termina con la cebolleta y el perejil picados. Sirve el pescado con su salsa sobre el arroz."
   ],
@@ -310,11 +310,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pon las patatas nuevas lavadas en una cazuela con agua fría y sal y cuécelas 15–18 minutos desde que hierva, hasta que un cuchillo entre sin resistencia.",
-    "Machaca las galletas dentro de una bolsa con el rodillo hasta tener migas gruesas, como pan rallado grande. Mézclalas con la mantequilla fundida (reserva una nuez para la fuente), la ralladura de medio limón, la mitad del perejil picado y pimienta.",
+    "Mientras se cuecen, despunta las judías verdes y pica el perejil. Machaca las galletas dentro de una bolsa con el rodillo hasta tener migas gruesas, como pan rallado grande. Mézclalas con la mantequilla fundida (reserva una nuez para la fuente), la ralladura de medio limón, la mitad del perejil y pimienta.",
     "Unta una fuente con la mantequilla reservada. Seca bien el bacalao, sálalo poco (las galletas ya llevan sal) y colócalo en la fuente. Vierte alrededor el vino y el zumo de medio limón.",
     "Cubre los lomos con las migas, presionando para que se peguen, y espolvorea el pimentón.",
     "Hornea 12–15 minutos según el grosor, hasta que la costra esté dorada y el pescado se separe en lascas al presionarlo con un tenedor. Si la costra no ha cogido color, dale 1 minuto de gratinador.",
-    "Mientras se hornea, añade las judías verdes despuntadas a la cazuela de las patatas en los últimos 6 minutos de cocción. Escúrrelo todo, salpimienta y espolvorea el resto del perejil.",
+    "Mientras se hornea, añade las judías verdes a la cazuela de las patatas en los últimos 6 minutos de cocción. Escúrrelo todo, salpimienta y espolvorea el resto del perejil.",
     "Sirve el bacalao con el jugo de la fuente por encima, las patatas, las judías y un gajo de limón."
   ],
   nutricion: { kcal: 425, prot: 36, hc: 40, grasa: 12 },
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
     "Mientras, corta el cerdo en dados de 2 cm, quítale la grasa visible y salpimiéntalo. Pica la cebolla y el ajo.",
     "Calienta el aceite en una cazuela a fuego medio-alto y dora el cerdo en dos tandas, 5–6 minutos, hasta que tenga costra por todas las caras. Añade la cebolla y rehoga 5 minutos; suma el ajo, el comino y el orégano y cocina 1 minuto.",
     "Vierte el caldo, raspa el fondo con la cuchara para despegar lo tostado, tapa y cuece 35 minutos a fuego suave.",
-    "Pela los pimientos y el jalapeño (sin lavarlos, para no perder el ahumado), quita las semillas y córtalos en tiras cortas. Pela la patata y córtala en dados de 2 cm.",
+    "Mientras cuece, pela los pimientos y el jalapeño (sin lavarlos, para no perder el ahumado), quita las semillas y córtalos en tiras cortas. Pela la patata y córtala en dados de 2 cm, y pica el cilantro.",
     "Añade la patata y la mitad de los pimientos al guiso y cuece 20 minutos más, hasta que la patata esté tierna y algunos trozos se deshagan y espesen el caldo.",
     "Incorpora el resto de los pimientos, cocina 5 minutos, rectifica de sal y sirve en cuencos con cilantro picado y tortillas de maíz calientes, si quieres."
   ],
@@ -447,10 +447,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Abre las pechugas en libro o aplánalas entre dos papeles de horno hasta un grosor parejo de 1,5 cm. Úntalas con el aceite, el pimentón ahumado, el tomillo, sal y pimienta.",
     "Cuece las habas 4 minutos en agua hirviendo con sal, escúrrelas y enfríalas. Si tienes tiempo, quítales la piel: quedan más dulces y de un verde intenso.",
-    "Pica la cebolla morada y el pimiento en dados pequeños, el ajo fino, y parte los tomates cherry por la mitad.",
+    "Pica la cebolla morada y el pimiento en dados pequeños, el ajo fino, parte los tomates cherry por la mitad y corta la albahaca en tiras.",
     "Calienta la plancha a fuego medio-alto y asa el pollo 4–5 minutos por cada lado sin moverlo, hasta que esté dorado y los jugos salgan transparentes al pincharlo. Déjalo reposar 3 minutos.",
     "Mientras, funde la mantequilla en una sartén a fuego medio y rehoga la cebolla y el pimiento 4 minutos. Añade el ajo y el maíz y saltea 3 minutos, hasta que el maíz se tueste en algunos puntos.",
-    "Suma las habas y cocina 2 minutos; añade los tomates, 1 minuto más, solo para que se templen. Fuera del fuego, riega con el vinagre, salpimienta y mezcla con la albahaca en tiras.",
+    "Suma las habas y cocina 2 minutos; añade los tomates, 1 minuto más, solo para que se templen. Fuera del fuego, riega con el vinagre, salpimienta y mezcla con la albahaca.",
     "Corta el pollo en tiras gruesas y sírvelo sobre el succotash."
   ],
   nutricion: { kcal: 385, prot: 42, hc: 24, grasa: 13 },
@@ -496,7 +496,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Saca la carne de la nevera 20 minutos antes. Maja en el mortero la pimienta en grano y las semillas de cilantro hasta dejarlas partidas, no en polvo. Mézclalas con la sal gruesa, el ajo y la cebolla en polvo, el eneldo, el pimentón y los copos de chile.",
     "Corta el tomate en gajos y la cebolla morada en plumas muy finas. Mézclalos en un bol con el vinagre, 1 cucharadita de aceite y una pizca de sal, y deja que se maceren mientras cocinas.",
-    "Lamina los champiñones. Calienta 1 cucharadita de aceite en una sartén grande a fuego fuerte y saltéalos 6–7 minutos sin remover al principio, hasta que suelten el agua, se evapore y se doren. Añade la mantequilla, el perejil picado y sal. Resérvalos.",
+    "Lamina los champiñones y pica el perejil. Calienta 1 cucharadita de aceite en una sartén grande a fuego fuerte y saltéalos 6–7 minutos sin remover al principio, hasta que suelten el agua, se evapore y se doren. Añade la mantequilla, el perejil picado y sal. Resérvalos.",
     "Seca los filetes y presiona la mezcla de especias sobre ambas caras para que se adhiera.",
     "Limpia la sartén, caliéntala a fuego fuerte con el resto del aceite hasta que humee ligeramente y marca los filetes 2–3 minutos por cada lado sin moverlos, hasta que tengan costra. Para un punto rosado, la carne debe ceder un poco al presionarla con el dedo.",
     "Deja reposar la carne 3 minutos sobre una tabla, córtala en tiras contra la fibra y sírvela con los champiñones y la ensalada de tomate."
@@ -540,8 +540,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierva, pásalos a agua fría y pélalos.",
-    "Salpimienta los filetes de pavo, úntalos con 1 cucharadita de aceite y ásalos en la plancha caliente 3 minutos por cada lado, hasta que estén dorados y sin rosa en el centro. Déjalos enfriar.",
-    "Prepara el aliño: mezcla el yogur con la mostaza, el vinagre, la otra cucharadita de aceite, la mitad del cebollino picado, sal y pimienta. Debe quedar como una salsa ranchera ligera; si está espeso, añade 1 cucharada de agua.",
+    "Mientras, salpimienta los filetes de pavo, úntalos con 1 cucharadita de aceite y ásalos en la plancha caliente 3 minutos por cada lado, hasta que estén dorados y sin rosa en el centro. Déjalos enfriar.",
+    "Pica el cebollino y prepara el aliño: mezcla el yogur con la mostaza, el vinagre, la otra cucharadita de aceite, la mitad del cebollino, sal y pimienta. Debe quedar como una salsa ranchera ligera; si está espeso, añade 1 cucharada de agua.",
     "Lava y seca bien la lechuga y córtala en tiras anchas. Parte los tomates por la mitad y lamina los rábanos.",
     "Corta el pavo, el jamón y el queso en bastoncitos del mismo tamaño, y los huevos en cuartos.",
     "Monta cada plato con una cama de lechuga y coloca encima, en filas, el pavo, el jamón, el queso, el huevo, los tomates y los rábanos. Sirve el aliño aparte y termina con el resto del cebollino."
@@ -586,11 +586,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas nuevas en agua fría con sal 15–18 minutos desde que hierva, hasta que estén tiernas. En los últimos 5 minutos añade las judías verdes despuntadas y cortadas por la mitad. Escúrrelo todo y enfríalo con agua fría para que las judías conserven el verde.",
-    "Prepara el aliño: tritura el yogur con el aguacate, las anchoas, las hojas de estragón, el perejil, la mitad del cebollino, el ajo y el zumo de medio limón hasta que quede liso y de un verde intenso. Prueba antes de salar: la anchoa ya sala. Si está muy espeso, añade 1–2 cucharadas de agua.",
+    "Cuece las patatas nuevas en agua fría con sal 15–18 minutos desde que hierva, hasta que estén tiernas. Mientras tanto, despunta las judías verdes y córtalas por la mitad; añádelas a la cazuela en los últimos 5 minutos. Escúrrelo todo y enfríalo con agua fría para que las judías conserven el verde.",
+    "Mientras se cuecen, pica el cebollino y prepara el aliño: tritura el yogur con el aguacate, las anchoas, las hojas de estragón, el perejil, la mitad del cebollino, el ajo y el zumo de medio limón hasta que quede liso y de un verde intenso. Prueba antes de salar: la anchoa ya sala. Si está muy espeso, añade 1–2 cucharadas de agua.",
     "Seca los langostinos, salpimiéntalos y saltéalos en una sartén muy caliente con el aceite 1–2 minutos por cada lado, hasta que estén rosados y curvados en forma de C. Riégalos con unas gotas de limón.",
     "Abre los cogollos en hojas o cuartos, corta el pepino en medias lunas y las patatas por la mitad.",
-    "Reparte en platos los cogollos, las patatas, las judías y el pepino, coloca encima los langostinos tibios y napa con parte del aliño. Termina con el resto del cebollino picado y sirve el aliño que sobre aparte."
+    "Reparte en platos los cogollos, las patatas, las judías y el pepino, coloca encima los langostinos tibios y napa con parte del aliño. Termina con el resto del cebollino y sirve el aliño que sobre aparte."
   ],
   nutricion: { kcal: 380, prot: 32, hc: 25, grasa: 16 },
   etiquetas: ["tradicional", "ligera", "sin gluten", "alta en proteína", "verano", "poco especiada"],
@@ -629,12 +629,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las tortillas en tiras de 1 × 4 cm. Pica la cebolla, el jalapeño (sin semillas si no lo quieres picante) y el tomate, este último sin la pulpa más acuosa.",
+    "Corta las tortillas en tiras de 1 × 4 cm. Pica la cebolla, el cilantro, el jalapeño (sin semillas si no lo quieres picante) y el tomate, este último sin la pulpa más acuosa.",
     "Bate los huevos con sal y pimienta, sin airearlos demasiado.",
     "Calienta el aceite en una sartén antiadherente a fuego medio-alto y fríe las tiras de tortilla 3–4 minutos, moviéndolas, hasta que estén doradas y crujientes por los bordes.",
     "Añade la cebolla y el jalapeño y saltea 3 minutos, hasta que la cebolla esté blanda. Suma el tomate y cocina 1 minuto.",
     "Baja el fuego a medio-bajo, vierte los huevos y remueve despacio con una espátula, trayendo los bordes hacia el centro, 2–3 minutos. Cuando estén casi cuajados pero aún brillantes, esparce el cheddar y retira del fuego: el calor residual termina de cuajarlos y funde el queso.",
-    "Sirve enseguida con el aguacate en láminas, cilantro picado, unas gotas de lima y salsa picante si te gusta."
+    "Sirve enseguida con el aguacate en láminas, el cilantro, unas gotas de lima y salsa picante si te gusta."
   ],
   nutricion: { kcal: 420, prot: 20, hc: 17, grasa: 29 },
   etiquetas: ["tradicional", "ligera", "rápida", "sin gluten", "una sola sartén", "económica"],

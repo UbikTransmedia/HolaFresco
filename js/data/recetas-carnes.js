@@ -78,7 +78,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Encurte la cebolla: córtala en juliana muy fina y mézclala en un bol con 3 cda de vinagre de arroz, el azúcar y una pizca de sal. Deja reposar al menos 20 min, removiendo de vez en cuando.",
-    "Lava el arroz hasta que el agua salga clara. Ponlo en una cazuela con 240 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 12 min. Apaga y deja reposar tapado 5 min.",
+    "Mientras, lava el arroz hasta que el agua salga clara. Ponlo en una cazuela con 240 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 12 min. Apaga y deja reposar tapado 5 min.",
     "Mezcla en un bol pequeño la mayonesa con la sriracha. Separa las hojas de la lechuga, lávalas y sécalas bien: serán los «cuencos» del ssam.",
     "Pica el ajo y ralla el jengibre. Tuesta las almendras en una sartén grande sin aceite a fuego medio 2-3 min hasta que huelan y tomen color; retíralas.",
     "Sube el fuego, añade un chorrito de aceite y la carne picada. Dórala 6-7 min desmenuzándola con una cuchara de madera hasta que pierda el agua y quede suelta y dorada.",
@@ -124,8 +124,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los muslos en dados de 2-3 cm. Mézclalos en un bol con la salsa de soja, 1 cda de miel, el ajo picado, el jengibre rallado, el aceite de sésamo y la maicena. Deja marinar 15 min mientras preparas el resto.",
-    "Lava el arroz, ponlo en una cazuela con 200 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 12 min. Apaga y deja reposar tapado.",
+    "Pica el ajo y ralla el jengibre. Corta los muslos en dados de 2-3 cm y mézclalos en un bol con la salsa de soja, 1 cda de miel, el ajo, el jengibre, el aceite de sésamo y la maicena. Deja marinar 15 min mientras preparas el resto.",
+    "Mientras marina, lava el arroz, ponlo en una cazuela con 200 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 12 min. Apaga y deja reposar tapado.",
     "Ralla la zanahoria o córtala en juliana muy fina. Prepara la salsa mezclando la mostaza, la cucharada restante de miel, el vinagre de arroz, 1 cda de aceite de oliva, sal y pimienta; mezcla la mitad con la zanahoria y reserva el resto.",
     "Pica los cacahuetes gruesos. Separa, lava y seca las hojas de lechuga.",
     "Calienta media cucharada de aceite en una sartén grande a fuego fuerte. Escurre el pollo (guarda la marinada) y dóralo 5-6 min sin moverlo demasiado para que se caramelice.",
@@ -178,10 +178,10 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Corta las berenjenas a lo largo en láminas de 1 cm, colócalas en una bandeja con papel de horno, píntalas con 1,5 cda de aceite y salpimienta. Ásalas 20 min hasta que estén tiernas y doradas.",
     "Mientras, pica la cebolla y el ajo. En una sartén con media cucharada de aceite, sofríe la cebolla 5 min a fuego medio; añade el ajo y la carne y dórala 6-7 min desmenuzándola.",
     "Agrega el tomate concentrado, la canela, 1 cdta de orégano y el laurel; remueve 1 min. Vierte el tomate triturado, salpimienta y cocina destapado a fuego medio-bajo 15 min hasta que la salsa esté espesa. Retira el laurel.",
-    "Prepara la bechamel: derrite la mantequilla en una cazuela, añade la harina y cocínala 1 min removiendo. Vierte la leche poco a poco sin dejar de batir y cuece 5-6 min hasta que espese. Sazona con sal, pimienta y nuez moscada, y añade la mitad del queso.",
+    "Mientras se cuece la salsa, prepara la bechamel: derrite la mantequilla en una cazuela, añade la harina y cocínala 1 min removiendo. Vierte la leche poco a poco sin dejar de batir y cuece 5-6 min hasta que espese. Sazona con sal, pimienta y nuez moscada, y añade la mitad del queso.",
     "Monta la moussaka en una fuente de horno pequeña (unos 20 x 15 cm): una capa de berenjena, la mitad de la carne, otra capa de berenjena, el resto de la carne y las últimas láminas. Cubre con la bechamel y el resto del queso.",
     "Baja el horno a 200 °C y hornea 20 min hasta que la superficie esté dorada. Deja reposar 5-10 min antes de cortar para que las capas se asienten.",
-    "Mientras reposa, corta el pepino y los tomates en dados, la cebolla morada en juliana fina y mezcla con las aceitunas, el vinagre, media cucharada de aceite, 1 cdta de orégano y sal. Sirve la moussaka con la ensalada al lado."
+    "Mientras se hornea, corta el pepino y los tomates en dados, la cebolla morada en juliana fina y mezcla con las aceitunas, el vinagre, media cucharada de aceite, 1 cdta de orégano y sal. Sirve la moussaka con la ensalada al lado."
   ],
   nutricion: { kcal: 740, prot: 43, hc: 38, grasa: 46 },
   etiquetas: ["al horno", "invierno", "batch cooking", "mediterránea", "poco especiada"],
@@ -219,9 +219,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta los calabacines a lo largo en láminas de unos 3 mm (con mandolina o pelador ancho). Extiéndelas sobre papel de cocina, sálalas ligeramente y déjalas sudar 10 min; sécalas bien.",
-    "Pica la cebolla, el ajo y ralla la zanahoria. Calienta el aceite en una sartén a fuego medio y sofríe la cebolla y la zanahoria 5 min. Añade el ajo y la carne y dórala 6-7 min desmenuzándola.",
-    "Agrega el tomate concentrado y el orégano, remueve 1 min, y vierte el tomate triturado. Salpimienta y cocina 12-15 min a fuego medio-bajo hasta que la salsa quede bien espesa (una salsa aguada arruina una lasaña sin pasta). Añade la mitad de la albahaca picada.",
-    "Mezcla el queso crema con la leche, una pizca de sal y pimienta hasta tener una crema untable.",
+    "Mientras sudan, pica la cebolla, el ajo y la albahaca y ralla la zanahoria. Calienta el aceite en una sartén a fuego medio y sofríe la cebolla y la zanahoria 5 min. Añade el ajo y la carne y dórala 6-7 min desmenuzándola.",
+    "Agrega el tomate concentrado y el orégano, remueve 1 min, y vierte el tomate triturado. Salpimienta y cocina 12-15 min a fuego medio-bajo hasta que la salsa quede bien espesa (una salsa aguada arruina una lasaña sin pasta). Añade la mitad de la albahaca.",
+    "Mientras se cuece la salsa, mezcla el queso crema con la leche, una pizca de sal y pimienta hasta tener una crema untable.",
     "En una fuente de horno pequeña (unos 20 x 15 cm) alterna capas: láminas de calabacín, un tercio de la carne, unas cucharadas de queso crema. Repite hasta terminar con calabacín, el resto del queso crema y el queso rallado por encima.",
     "Hornea 25 min hasta que burbujee y la superficie esté dorada. Si suelta líquido, deja reposar 10 min fuera del horno: se reabsorbe y se corta mejor.",
     "Sirve con el resto de la albahaca fresca por encima."
@@ -308,11 +308,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas en dados de 2-3 cm (con piel si está limpia), mézclalas en una bandeja grande con 1 cda de aceite, sal y pimienta, y hornéalas 15 min para que cojan ventaja.",
-    "Mientras, corta el pimiento en tiras, el calabacín en medias lunas gruesas y la cebolla en gajos. Pica el ajo. Corta los muslos en trozos grandes de 4-5 cm.",
+    "Mientras, corta el pimiento en tiras, el calabacín en medias lunas gruesas y la cebolla en gajos. Pica el ajo y el perejil. Corta los muslos en trozos grandes de 4-5 cm.",
     "En un bol mezcla el pollo con 1 cda de aceite, los dos pimentones, el orégano, el ajo, la ralladura del limón, sal y pimienta hasta que quede bien cubierto.",
     "Saca la bandeja, añade el pimiento, el calabacín y la cebolla, remueve con las patatas y reparte el pollo por encima. Hornea 20 min.",
     "Añade los tomates cherry enteros y el queso griego desmenuzado en trozos grandes. Hornea 10 min más: el pollo debe estar dorado, los tomates reventando y el queso ligeramente tostado en los bordes.",
-    "Saca del horno, exprime el zumo de medio limón por encima y espolvorea el perejil picado. Sirve directamente de la bandeja, aprovechando el jugo del fondo."
+    "Saca del horno, exprime el zumo de medio limón por encima y espolvorea el perejil. Sirve directamente de la bandeja, aprovechando el jugo del fondo."
   ],
   nutricion: { kcal: 690, prot: 44, hc: 52, grasa: 34 },
   etiquetas: ["todo al horno", "al horno", "alta en proteína", "mediterránea", "poco especiada"],
@@ -353,7 +353,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el arroz en una cazuela con 240 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 11 min. Apaga y deja reposar tapado.",
-    "Prepara la salsa en un vaso: mezcla la salsa de soja, la miel, el vinagre de arroz, el aceite de sésamo, la maicena y 3 cda de agua hasta disolver la maicena.",
+    "Mientras se cuece, prepara la salsa en un vaso: mezcla la salsa de soja, la miel, el vinagre de arroz, el aceite de sésamo, la maicena y 3 cda de agua hasta disolver la maicena.",
     "Corta el pollo en tiras de 1 cm, el brócoli en ramilletes pequeños, el pimiento en tiras y la cebolleta en trozos de 3 cm separando lo blanco de lo verde. Pica el ajo y ralla el jengibre.",
     "Tuesta los anacardos y el sésamo en el wok sin aceite a fuego medio 2-3 min, hasta que estén dorados. Retíralos.",
     "Sube el fuego al máximo, añade el aceite y saltea el pollo 4-5 min hasta que esté dorado. Retíralo a un plato.",
@@ -398,12 +398,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las berenjenas por la mitad a lo largo y haz cortes en rejilla en la carne sin atravesar la piel. Píntalas con 1 cda de aceite, sala y ponlas boca arriba en una bandeja. Hornea 30 min hasta que la carne esté muy tierna.",
-    "Mientras, pica la cebolla, el ajo y el pimiento. En una sartén con la otra cucharada de aceite sofríe la cebolla y el pimiento 6-7 min a fuego medio hasta que estén blandos. Añade el ajo y sofríe 1 min.",
+    "Mientras, pica la cebolla, el ajo, el pimiento y el perejil. En una sartén con la otra cucharada de aceite sofríe la cebolla y el pimiento 6-7 min a fuego medio hasta que estén blandos. Añade el ajo y sofríe 1 min.",
     "Sube el fuego, añade la carne picada y dórala 6-7 min desmenuzándola. Salpimienta y agrega el orégano, el comino y el pimentón; remueve 30 s para que no se queme el pimentón.",
     "Saca las berenjenas y, con una cuchara, vacía la carne dejando un borde de 1 cm para que las barcas no se rompan. Pica la pulpa y añádela a la sartén.",
     "Incorpora el tomate concentrado y el tomate triturado. Cocina 8-10 min a fuego medio hasta que el relleno quede jugoso pero no caldoso. Prueba y rectifica de sal.",
     "Rellena las barcas de berenjena con la mezcla, apretando bien, y cubre con el queso rallado. Gratina en el horno a 220 °C 10-12 min hasta que el queso esté dorado y burbujeante.",
-    "Espolvorea el perejil picado y sirve, idealmente con una ensalada verde."
+    "Espolvorea el perejil y sirve, idealmente con una ensalada verde."
   ],
   nutricion: { kcal: 650, prot: 40, hc: 30, grasa: 40 },
   etiquetas: ["al horno", "para niños", "batch cooking", "económica", "poco especiada"],
@@ -442,12 +442,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta los muslos en trozos de 4 cm, sécalos con papel y salpimiéntalos. Calienta 1 cda de aceite en una cazuela ancha a fuego fuerte y dora el pollo 5-6 min por tandas, sin que se amontone. Resérvalo.",
-    "Pica la cebolla, corta las zanahorias en rodajas gruesas y el apio en trozos de 1 cm. Baja el fuego a medio, añade el resto del aceite y sofríe las verduras 8 min hasta que la cebolla esté transparente. Agrega el ajo picado y sofríe 1 min.",
+    "Pica la cebolla y el ajo, corta las zanahorias en rodajas gruesas y el apio en trozos de 1 cm. Baja el fuego a medio, añade el resto del aceite y sofríe las verduras 8 min hasta que la cebolla esté transparente. Agrega el ajo y sofríe 1 min.",
     "Espolvorea la harina sobre las verduras y remueve 1 min para que se tueste. Vierte el vino blanco, raspa el fondo de la cazuela y deja que evapore el alcohol 2 min.",
-    "Devuelve el pollo con sus jugos, añade el caldo, el laurel y 3 ramas de tomillo. Lleva a ebullición, tapa y cuece a fuego bajo 15 min.",
-    "Pela las patatas y córtalas en trozos de 3-4 cm cascándolas (rompiendo el final del corte) para que suelten almidón y espesen la salsa. Añádelas a la cazuela, tapa y cuece 20 min más hasta que estén tiernas.",
+    "Devuelve el pollo con sus jugos, añade el caldo, el laurel y 3 ramas de tomillo. Lleva a ebullición, tapa y cuece a fuego bajo 15 min. Mientras, pela las patatas y córtalas en trozos de 3-4 cm cascándolas (rompiendo el final del corte) para que suelten almidón y espesen la salsa.",
+    "Añade las patatas a la cazuela, tapa y cuece 20 min más hasta que estén tiernas. Mientras, pica el perejil.",
     "Incorpora los guisantes y cuece 3 min destapado. Prueba, rectifica de sal y pimienta y retira el laurel y las ramas de tomillo.",
-    "Sirve espolvoreado con el perejil picado y las hojas del tomillo restante."
+    "Sirve espolvoreado con el perejil y las hojas del tomillo restante."
   ],
   nutricion: { kcal: 640, prot: 46, hc: 56, grasa: 22 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "para niños", "económica", "poco especiada", "bajo en colesterol"],
@@ -529,9 +529,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Mezcla en un bol el zumo de naranja, la miel, la salsa de soja, la mostaza, el ajo picado, las hojas de 2 ramas de tomillo y pimienta.",
+    "Precalienta el horno a 200 °C. Pica el ajo y mezcla en un bol el zumo de naranja, la miel, la salsa de soja, la mostaza, el ajo, las hojas de 2 ramas de tomillo y pimienta.",
     "Seca los contramuslos con papel de cocina, sálalos y úntalos con la mitad de la mezcla. Si tienes tiempo, déjalos marinar 20 min (o desde la mañana en la nevera).",
-    "Corta las patatas en gajos y las cebollas en rodajas de 1 cm. Lava la naranja y córtala con piel en rodajas finas.",
+    "Mientras, corta las patatas en gajos y las cebollas en rodajas de 1 cm. Lava la naranja y córtala con piel en rodajas finas.",
     "En una fuente de horno reparte patatas y cebolla, riégalas con el aceite, sala y mezcla. Coloca encima los contramuslos con la piel hacia arriba e intercala las rodajas de naranja entre ellos.",
     "Hornea 25 min. Saca la fuente, riega el pollo con el resto de la mezcla de naranja y miel y vuelve a hornear 20-25 min más, hasta que la piel esté lacada y oscura y las patatas tiernas.",
     "Si la salsa del fondo queda muy líquida, pasa el pollo y las patatas a una fuente de servir y reduce el jugo en la propia bandeja sobre el fuego 3-4 min, o 5 min más en el horno a 220 °C.",
@@ -580,7 +580,7 @@ window.RECETAS_SEED.push({
     "Ralla la media cebolla y escúrrela apretándola en la mano para quitar el agua. Pica muy fino 1 diente de ajo, el perejil, el cilantro y la mitad de la menta.",
     "En un bol mezcla la carne con la cebolla, el ajo, las hierbas, el comino, el pimentón, el cilantro molido, la canela, la cayena, 1 cdta de sal y pimienta. Amasa 2 min con las manos hasta que la mezcla esté pegajosa y homogénea: así las keftas no se rompen.",
     "Forma 8 keftas alargadas (como croquetas de 8 cm) o ensártalas en brochetas si las tienes. Déjalas reposar 10 min en la nevera.",
-    "Prepara la salsa: mezcla el yogur con el otro diente de ajo rallado, 1 cdta de zumo de limón, el resto de la menta picada, sal y un hilo de aceite.",
+    "Mientras reposan, prepara la salsa: pica el resto de la menta y mézclala con el yogur, el otro diente de ajo rallado, 1 cdta de zumo de limón, sal y un hilo de aceite.",
     "Corta los tomates en gajos y la cebolla morada en juliana fina. Alíñalos con el zumo de medio limón, 1 cda de aceite, sal y pimienta.",
     "Calienta la plancha o una sartén a fuego medio-alto con el aceite restante. Haz las keftas 8-10 min dándoles la vuelta cada 2-3 min para que se doren por todos los lados y queden jugosas en el centro.",
     "Tuesta las pitas 1 min por lado en la misma plancha. Sirve las keftas con la ensalada, la salsa de yogur y la pita templada."

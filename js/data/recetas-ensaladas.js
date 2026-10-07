@@ -29,7 +29,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca bien el calamar y córtalo en anillas de 1 cm y los tentáculos en trozos. Seca también las gambas con papel de cocina. Salpimienta todo.",
     "Corta el bulbo de hinojo por la mitad, retira el corazón duro y lamínalo muy fino con mandolina o cuchillo. Pon las láminas en agua con hielo 10 minutos para que queden crujientes; reserva las hojas verdes para decorar.",
-    "Prepara el aliño: mezcla el zumo del limón con 2 cda de aceite, el ajo rallado, el chile picado fino sin semillas, la mitad del perejil picado, sal y pimienta.",
+    "Mientras, pica fino el chile sin semillas y el perejil, y prepara el aliño: mezcla el zumo del limón con 2 cda de aceite, el ajo rallado, el chile, la mitad del perejil, sal y pimienta.",
     "Calienta la plancha o una sartén a fuego muy fuerte con 1 cda de aceite. Cocina las gambas 1 minuto por cada lado hasta que estén rosadas y retíralas. Saltea el calamar 1-2 minutos, sin pasarte para que no se endurezca.",
     "Mezcla el marisco caliente con la mitad del aliño en un bol para que coja sabor mientras se templa.",
     "Escurre y seca el hinojo. En una fuente, mezcla la rúcula con el hinojo y el resto del aliño, reparte encima las gambas y el calamar y termina con el perejil restante, las hojas de hinojo y ralladura de limón."
@@ -142,7 +142,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Tuesta el sésamo en una sartén sin aceite a fuego medio 2 minutos hasta que salte y huela a tostado. Resérvalo.",
     "Corta los tomates en rodajas muy finas (2-3 mm) con un cuchillo de sierra y dispónlas solapadas cubriendo toda la superficie de dos platos llanos. Sálalas ligeramente y deja reposar 5 minutos para que suelten su jugo.",
-    "Lava los higos y córtalos en cuartos o en láminas; escurre la mozzarella y rómpela con las manos en trozos.",
+    "Mientras, lava los higos y córtalos en cuartos o en láminas; escurre la mozzarella y rómpela con las manos en trozos.",
     "Pica el chile muy fino (sin semillas si prefieres menos picante) y mézclalo con el aceite y el vinagre balsámico.",
     "Reparte sobre el tomate la mozzarella y los higos, riega con el aliño de chile y termina con las hojas de albahaca, el sésamo tostado y pimienta negra recién molida."
   ],
@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las fresas, quítales el rabito y córtalas en cuartos. Corta los tomates cherry por la mitad. Mézclalos en un bol con una pizca de sal y el vinagre balsámico y deja macerar 10 minutos.",
-    "Corta la cebolla morada en plumas muy finas y déjala 5 minutos en agua fría para suavizarla. Escúrrela bien.",
+    "Mientras maceran, corta la cebolla morada en plumas muy finas y déjala 5 minutos en agua fría para suavizarla. Escúrrela bien.",
     "Tuesta los pistachos en una sartén sin aceite 2 minutos y pícalos gruesos.",
     "Desmenuza el queso feta con las manos en trozos grandes y pica las hojas de hierbabuena, reservando algunas enteras.",
     "Reparte el tomate y la fresa con su jugo en una fuente, añade la cebolla, el feta y la hierbabuena picada. Riega con el aceite y termina con los pistachos, pimienta negra y las hojas enteras de hierbabuena."
@@ -217,8 +217,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el pepino y córtalo en rodajas muy finas con mandolina (puedes dejar la piel). Ponlo en un colador con una pizca de sal 10 minutos y escurre el agua que suelte.",
-    "Lava los rábanos, quítales las hojas y córtalos en láminas finas. Pica la cebolleta en aros finos.",
-    "Prepara la salsa: mezcla el yogur griego con la mostaza, el zumo del medio limón, el eneldo picado (reserva unas ramitas), las alcaparras escurridas, el aceite, pimienta y una pizca de sal.",
+    "Mientras, lava los rábanos, quítales las hojas y córtalos en láminas finas. Pica la cebolleta en aros finos.",
+    "Prepara la salsa: pica el eneldo (reserva unas ramitas) y mézclalo con el yogur griego, la mostaza, el zumo del medio limón, las alcaparras escurridas, el aceite, pimienta y una pizca de sal.",
     "Escurre bien el bonito y sepáralo en lascas grandes sin deshacerlo.",
     "Extiende los canónigos en una fuente, reparte encima el pepino y los rábanos y añade la salsa de yogur a cucharadas. Corona con las lascas de bonito, la cebolleta, el eneldo restante y pimienta negra recién molida."
   ],
@@ -258,12 +258,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las patatas y cuécelas enteras con piel en agua con sal 20 minutos hasta que estén tiernas. Pélalas si quieres y córtalas en rodajas gruesas aún templadas.",
-    "Cuece los huevos 9 minutos en agua hirviendo, enfríalos en agua con hielo, pélalos y córtalos en cuartos.",
+    "Lava las patatas y cuécelas enteras con piel en agua con sal 20 minutos hasta que estén tiernas.",
+    "Mientras, cuece los huevos 9 minutos en otro cazo con agua hirviendo, enfríalos en agua con hielo, pélalos y córtalos en cuartos.",
     "Despunta las judías verdes y cuécelas 4-5 minutos en agua hirviendo con sal; enfríalas en agua con hielo para que mantengan el color y escúrrelas.",
     "Prepara la vinagreta: mezcla la mostaza con el vinagre y una pizca de sal, añade el aceite poco a poco batiendo con un tenedor hasta que emulsione y termina con pimienta.",
     "Corta los tomates cherry por la mitad y la cebolla morada en plumas finas. Trocea la lechuga en hojas grandes.",
-    "En una fuente amplia dispón la lechuga, las patatas templadas, las judías, el tomate, la cebolla, el atún escurrido en lascas, las aceitunas y las alcaparras. Coloca encima los cuartos de huevo y los filetes de anchoa.",
+    "Escurre las patatas, pélalas si quieres y córtalas en rodajas gruesas aún templadas. En una fuente amplia, dispón la lechuga, las patatas templadas, las judías, el tomate, la cebolla, el atún escurrido en lascas, las aceitunas y las alcaparras. Coloca encima los cuartos de huevo y los filetes de anchoa.",
     "Riega con la vinagreta justo antes de servir y termina con pimienta negra recién molida."
   ],
   nutricion: { kcal: 535, prot: 27, hc: 38, grasa: 30 },
@@ -299,8 +299,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el pan en dados de 2 cm, mézclalos con 1 cda de aceite, una pizca de sal y pimienta y hornéalos 8-10 minutos hasta que estén dorados y crujientes.",
-    "Abre las pechugas por la mitad a lo largo para obtener filetes de 1,5 cm, salpimiéntalos y úntalos con el resto del aceite. Cocínalos en la plancha muy caliente 3-4 minutos por cada lado hasta que estén dorados y jugosos por dentro. Déjalos reposar 3 minutos y córtalos en tiras.",
-    "Prepara la salsa césar: machaca las anchoas con el ajo hasta formar una pasta y mézclala con la mayonesa, la mostaza, el zumo del medio limón, la mitad del parmesano rallado y pimienta. Alígerala con 1-2 cda de agua hasta que quede cremosa pero fluida.",
+    "Mientras se hornea el pan, abre las pechugas por la mitad a lo largo para obtener filetes de 1,5 cm, salpimiéntalos y úntalos con el resto del aceite. Cocínalos en la plancha muy caliente 3-4 minutos por cada lado hasta que estén dorados y jugosos por dentro. Déjalos reposar 3 minutos y córtalos en tiras.",
+    "Prepara la salsa césar: ralla la mitad del parmesano, machaca las anchoas con el ajo hasta formar una pasta y mézclala con la mayonesa, la mostaza, el zumo del medio limón, el parmesano rallado y pimienta. Alígerala con 1-2 cda de agua hasta que quede cremosa pero fluida.",
     "Lava y seca bien la lechuga romana y trocéala en pedazos grandes.",
     "Mezcla la lechuga con dos tercios de la salsa en un bol grande hasta que todas las hojas estén cubiertas.",
     "Sirve la ensalada con las tiras de pollo encima, los picatostes, el resto de la salsa y lascas de parmesano sacadas con un pelador. Termina con pimienta recién molida."
@@ -342,11 +342,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer 140 g de arroz jazmín: enjuágalo, cúbrelo con 280 ml de agua y una pizca de sal y cuécelo tapado 12 minutos a fuego mínimo desde que hierva. Deja reposar 5 minutos sin destapar.",
-    "Prepara el arroz tostado (khao khua): tuesta los 20 g de arroz restantes en una sartén seca a fuego medio 8-10 minutos, moviendo, hasta que estén dorados y huelan a frutos secos. Muélelos en un mortero hasta obtener un polvo grueso.",
-    "Pica la pechuga a cuchillo muy fina si no la has comprado picada. Calienta una sartén con 3 cda de agua y unas gotas de aceite a fuego medio-alto y cocina el pollo 5-6 minutos, deshaciéndolo con una cuchara, hasta que esté hecho y sin líquido.",
+    "Mientras se cuece, prepara el arroz tostado (khao khua): tuesta los 20 g de arroz restantes en una sartén seca a fuego medio 8-10 minutos, moviendo, hasta que estén dorados y huelan a frutos secos. Muélelos en un mortero hasta obtener un polvo grueso.",
+    "Corta la cebolla morada en plumas finas, la cebolleta en aros y el pepino en bastones, pica el chile fresco y pica gruesos la menta y el cilantro. Pica la pechuga a cuchillo muy fina si no la has comprado picada. Calienta una sartén con 3 cda de agua y unas gotas de aceite a fuego medio-alto y cocina el pollo 5-6 minutos, deshaciéndolo con una cuchara, hasta que esté hecho y sin líquido.",
     "Fuera del fuego, añade al pollo caliente el zumo de las limas, la salsa de pescado, el azúcar y la cayena. Remueve y prueba: debe estar ácido, salado y picante a la vez; ajusta a tu gusto.",
-    "Añade la cebolla morada en plumas finas, la cebolleta en aros, el chile fresco picado, la menta y el cilantro picados gruesos y el arroz tostado. Mezcla bien.",
-    "Sirve el laab templado con las hojas de lechuga para hacer bocados, el pepino en bastones y el arroz jazmín al lado."
+    "Añade la cebolla, la cebolleta, el chile, la menta, el cilantro y el arroz tostado. Mezcla bien.",
+    "Sirve el laab templado con las hojas de lechuga para hacer bocados, el pepino y el arroz jazmín al lado."
   ],
   nutricion: { kcal: 505, prot: 42, hc: 70, grasa: 5 },
   etiquetas: ["picante", "ligera", "alta en proteína", "rápida", "bajo en colesterol"],
@@ -386,7 +386,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava los pimientos, quítales las semillas y córtalos en dados pequeños de 1 cm. Corta la cebolla morada en plumas finas y las ramas de apio en láminas finas, reservando las hojas tiernas.",
     "Pon la cebolla en agua fría con 1 cda de zumo de lima 10 minutos para suavizarla y escúrrela.",
-    "Tuesta las almendras en una sartén sin aceite 2-3 minutos y pícalas gruesas. Desmenuza la guindilla seca quitándole las semillas.",
+    "Mientras, tuesta las almendras en una sartén sin aceite 2-3 minutos y pícalas gruesas. Desmenuza la guindilla seca quitándole las semillas.",
     "Prepara el aliño: mezcla el zumo de las limas con el comino, el pimentón, la guindilla, el aceite y sal hasta emulsionar.",
     "Pica gruesos el perejil, el cilantro y la menta. Mezcla en un bol grande los pimientos, la cebolla, el apio, las hierbas y el aliño y deja reposar 10 minutos para que se integren los sabores.",
     "Sirve en una fuente con las almendras y las hojas de apio por encima."
@@ -496,11 +496,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos en agua hirviendo 10 minutos, enfríalos en agua con hielo, pélalos y córtalos en cuartos.",
+    "Cuece los huevos en agua hirviendo 10 minutos. Mientras, corta la cebolla morada en plumas muy finas y déjala 10 minutos en agua fría para suavizarla.",
+    "Enfría los huevos en agua con hielo, pélalos y córtalos en cuartos.",
     "Pela las naranjas y el limón a lo vivo, quitando toda la parte blanca, y córtalos en rodajas de medio centímetro. Recoge en un bol el jugo que suelten.",
-    "Corta la cebolla morada en plumas muy finas y déjala 10 minutos en agua fría para suavizarla. Escúrrela bien.",
     "Quita la piel al chorizo y córtalo en rodajas finas. Si prefieres, márcalo 1 minuto por lado en una sartén caliente para que suelte algo de grasa y quede crujiente.",
-    "Dispón en una fuente las rodajas de naranja y limón alternadas y reparte encima la cebolla, el chorizo, los cuartos de huevo y las aceitunas.",
+    "Escurre bien la cebolla. Dispón en una fuente las rodajas de naranja y limón alternadas y reparte encima la cebolla, el chorizo, los cuartos de huevo y las aceitunas.",
     "Mezcla el jugo de cítricos reservado con el aceite y una pizca de sal, riega la ensalada y espolvorea el pimentón. Deja reposar 10 minutos antes de servir."
   ],
   nutricion: { kcal: 615, prot: 24, hc: 28, grasa: 45 },

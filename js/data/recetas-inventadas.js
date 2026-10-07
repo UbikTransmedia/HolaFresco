@@ -38,10 +38,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enjuaga la quinoa bajo el grifo hasta que el agua salga clara y cuécela en 250 ml de agua con una pizca de sal, tapada, 15 minutos a fuego suave. Apaga, deja reposar 5 minutos tapada y suéltala con un tenedor.",
     "Mientras, corta el pepino en rodajas muy finas y mézclalo en un bol con 2 cdas de vinagre de arroz, el azúcar y una pizca de sal. Déjalo encurtir 10 minutos: quedará crujiente y agridulce.",
-    "Cuece el edamame en agua hirviendo 4 minutos (o según el envase), escúrrelo y refréscalo con agua fría.",
-    "Prepara el glaseado: mezcla el miso, la salsa de soja, la miel, el jengibre rallado, el ajo picado fino y la cucharada restante de vinagre hasta que no queden grumos.",
+    "Cuece el edamame en agua hirviendo 4 minutos (o según el envase), escúrrelo y refréscalo con agua fría. Corta la cebolleta en aros finos.",
+    "Prepara el glaseado: ralla el jengibre, pica fino el ajo y mézclalos con el miso, la salsa de soja, la miel y la cucharada restante de vinagre hasta que no queden grumos.",
     "Seca bien los lomos de salmón. Calienta el aceite en una sartén antiadherente a fuego medio-alto y dóralos 3 minutos por el lado de la piel. Dales la vuelta, baja a fuego medio, vierte el glaseado y cocina 2-3 minutos más, cucharéandolo por encima hasta que espese y brille. No lo pases: el centro debe quedar jugoso.",
-    "Monta cada bol con una base de quinoa, el edamame, el pepino encurtido escurrido y el aguacate en láminas. Coloca el salmón encima, riega con el glaseado que quede en la sartén y termina con la cebolleta en aros finos y el sésamo."
+    "Monta cada bol con una base de quinoa, el edamame, el pepino encurtido escurrido y el aguacate en láminas. Coloca el salmón encima, riega con el glaseado que quede en la sartén y termina con la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 860, prot: 48, hc: 68, grasa: 44 },
   etiquetas: ["fusión", "rápida", "alta en proteína", "ideal para llevar", "una sola sartén", "superalimentos", "poco especiada"],
@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Separa la coliflor en ramilletes pequeños, del tamaño de un bocado. Mézclalos en la bandeja con el aceite, el chipotle picado, el pimentón, el comino, el ajo picado y sal.",
+    "Precalienta el horno a 220 °C. Separa la coliflor en ramilletes pequeños, del tamaño de un bocado. Pica el ajo. Mézclalos en la bandeja con el aceite, el chipotle picado, el pimentón, el comino, el ajo y sal.",
     "Asa 22-25 minutos, removiendo una vez, hasta que los bordes estén tostados y el centro tierno. En los últimos 5 minutos añade las alubias escurridas a la bandeja para que se calienten y se impregnen.",
     "Mientras, corta la cebolla morada en plumas finísimas y ponla 10 minutos en agua con el zumo de media lima y una pizca de sal: suaviza su picor y la vuelve rosa. Corta la col lombarda en juliana muy fina y alíñala con zumo de lima y sal.",
     "Tritura el aguacate con el zumo de una lima, la mitad del cilantro, sal y 2 cdas de agua hasta obtener una crema lisa. Rectifica de lima y sal: tiene que estar bien ácida para contrastar con el picante.",
@@ -163,10 +163,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta dos rectángulos grandes de papel de horno (unos 40 cm). Abre cada pechuga por la mitad a lo largo para que queden filetes de 2 cm de grosor y salpimiéntalos.",
-    "Corta el calabacín en rodajas finas y los cherry por la mitad. Sobre cada papel haz una cama con la mitad del calabacín, pon encima el pollo y reparte los cherry, las aceitunas, el ajo en láminas, dos ramas de tomillo y dos rodajas finas de limón.",
+    "Corta el calabacín en rodajas finas los cherry por la mitad y lamina el ajo. Sobre cada papel haz una cama con la mitad del calabacín, pon encima el pollo y reparte los cherry, las aceitunas, el ajo, dos ramas de tomillo y dos rodajas finas de limón.",
     "Riega cada paquete con 1 cda de aceite, un chorrito de vino blanco (o de agua) y el zumo de medio limón. Cierra el papillote doblando los bordes varias veces para que quede hermético: así el pollo se cuece al vapor en su propio jugo.",
     "Hornea 20-22 minutos. El paquete se hinchará; el pollo está listo cuando al abrirlo (con cuidado del vapor) el jugo salga transparente.",
-    "Mientras, pon el bulgur en una cazuela con 280 ml de agua hirviendo con sal, tapa, apaga el fuego y déjalo reposar 12 minutos. Suéltalo con un tenedor y mézclalo con la hierbabuena picada, la cebolleta en aros y un hilo de aceite.",
+    "Mientras, pon el bulgur en una cazuela con 280 ml de agua hirviendo con sal, tapa, apaga el fuego y déjalo reposar 12 minutos. Mientras reposa, pica la hierbabuena y corta la cebolleta en aros. Suelta el bulgur con un tenedor y mézclalo con la hierbabuena, la cebolleta y un hilo de aceite.",
     "Sirve el bulgur y abre los papillotes en la mesa o vuelca su contenido encima con todo el jugo, que hace de salsa."
   ],
   nutricion: { kcal: 640, prot: 46, hc: 60, grasa: 23 },
@@ -209,10 +209,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el arroz jazmín a cocer según el envase (unos 12 minutos en el doble de agua con sal, tapado, y reposo de 5 minutos).",
     "Pica la cebolla, el ajo y el jengibre. En una cazuela amplia, sofríelos en el aceite a fuego medio 4 minutos, hasta que la cebolla esté transparente. Añade la pasta de curry y fríela 1 minuto removiendo para que suelte todo su aroma.",
-    "Enjuaga las lentejas rojas e incorpóralas con la leche de coco y el caldo. Lleva a ebullición, baja el fuego y cuece 12 minutos destapado, removiendo de vez en cuando: las lentejas rojas se deshacen y espesan la salsa.",
-    "Añade las judías verdes cortadas en trozos de 3 cm y cuece 6 minutos más. Si espesa demasiado, agrega un poco de agua.",
+    "Enjuaga las lentejas rojas e incorpóralas con la leche de coco y el caldo. Lleva a ebullición, baja el fuego y cuece 12 minutos destapado, removiendo de vez en cuando: las lentejas rojas se deshacen y espesan la salsa. Mientras, corta las judías verdes en trozos de 3 cm, pica el cilantro y trocea los cacahuetes.",
+    "Añade las judías verdes y cuece 6 minutos más. Si espesa demasiado, agrega un poco de agua.",
     "Incorpora las espinacas por puñados hasta que se marchiten, y sazona con la salsa de soja, el azúcar moreno y el zumo de media lima. Prueba: debe equilibrar picante, salado, dulce y ácido. Ajusta con más lima o sal.",
-    "Sirve el curry sobre el arroz, con cilantro picado, los cacahuetes troceados y gajos de lima."
+    "Sirve el curry sobre el arroz, con el cilantro, los cacahuetes y gajos de lima."
   ],
   nutricion: { kcal: 890, prot: 33, hc: 108, grasa: 36 },
   etiquetas: ["fusión", "de cuchara", "batch cooking", "picante", "económica", "invierno"],
@@ -250,7 +250,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela el boniato y córtalo en dados de 2 cm. Seca bien los garbanzos. Mezcla ambos en una bandeja con 1 cda de aceite, el comino, sal y pimienta y asa 25 minutos, removiendo a la mitad, hasta que el boniato esté tierno y los garbanzos crujientes.",
-    "Enjuaga la quinoa y cuécela en 200 ml de agua con sal, tapada, 15 minutos a fuego suave. Reposa 5 minutos y suéltala.",
+    "Mientras, enjuaga la quinoa y cuécela en 200 ml de agua con sal, tapada, 15 minutos a fuego suave. Reposa 5 minutos y suéltala.",
     "Quita el tallo central del kale, trocea las hojas y ponlas en el bol grande con una pizca de sal y ½ cda de aceite. Masajéalas con las manos 1 minuto: se ablandan, se oscurecen y pierden el amargor.",
     "Prepara la vinagreta: mezcla el tahini con el zumo de media naranja, el zumo del medio limón, el ajo rallado, sal y 2-3 cdas de agua hasta que quede cremosa y fluida.",
     "Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que empiecen a saltar. Pela la otra media naranja a lo vivo y córtala en gajos; corta la cebolla morada en plumas finas.",
@@ -291,10 +291,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos regulares y cuécelas al vapor (o en agua con sal) 15-18 minutos hasta que estén tiernas.",
-    "Haz la gremolata: pica muy fino un diente de ajo, la ralladura de la lima y la mitad del perejil, y mézclalo todo. Resérvalo.",
+    "Mientras se cuecen, pica todo el perejil. Haz la gremolata: pica muy fino un diente de ajo y mézclalo con la ralladura de la lima y la mitad del perejil. Resérvalo.",
     "Pica los otros dos dientes de ajo y la cebolleta. Caliéntalos en una sartén amplia con el aceite a fuego medio-bajo 3 minutos, sin que tomen color. Añade la maicena disuelta en 2 cdas de caldo frío y remueve 30 segundos.",
     "Vierte el vino, deja que evapore 1 minuto, y agrega el caldo y los guisantes. Cuece 3 minutos moviendo la sartén en círculos: la salsa debe espesar ligeramente y quedar brillante.",
-    "Salpimienta los lomos de merluza y colócalos en la sartén con la piel hacia abajo. Tapa y cocina 4-5 minutos a fuego medio-bajo, moviendo la sartén de vez en cuando, hasta que la carne se abra en lascas blancas. Añade el resto del perejil picado al final.",
+    "Salpimienta los lomos de merluza y colócalos en la sartén con la piel hacia abajo. Tapa y cocina 4-5 minutos a fuego medio-bajo, moviendo la sartén de vez en cuando, hasta que la carne se abra en lascas blancas. Añade el resto del perejil al final.",
     "Sirve la merluza con los guisantes y la salsa, las patatas al lado y una cucharada de gremolata encima de cada lomo, con un chorrito de zumo de lima."
   ],
   nutricion: { kcal: 590, prot: 37, hc: 54, grasa: 23 },
@@ -335,11 +335,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca los dados de ternera y salpimiéntalos. Calienta el aceite en la olla exprés destapada a fuego fuerte y dora la carne en dos tandas, sin moverla demasiado, hasta que tenga costra. Resérvala.",
-    "En la misma olla, a fuego medio, sofríe la cebolla, la zanahoria y el apio picados finos 5 minutos. Añade el ajo picado y los champiñones en cuartos y cocina 3 minutos más hasta que suelten el agua.",
+    "Pica finos la cebolla, la zanahoria, el apio y el ajo, y corta los champiñones en cuartos. Seca los dados de ternera y salpimiéntalos. Calienta el aceite en la olla exprés destapada a fuego fuerte y dora la carne en dos tandas, sin moverla demasiado, hasta que tenga costra. Resérvala.",
+    "En la misma olla, a fuego medio, sofríe la cebolla, la zanahoria y el apio 5 minutos. Añade el ajo y los champiñones y cocina 3 minutos más hasta que suelten el agua.",
     "Vierte el vino y rasca el fondo para despegar lo tostado. Deja evaporar 1 minuto y añade el tomate, el caldo, el laurel, el romero y la carne con sus jugos.",
-    "Cierra la olla. Cuando suba la válvula (o alcance presión alta), baja el fuego al mínimo y cuenta 25 minutos. Apaga y deja que la presión baje sola unos 10 minutos antes de abrir: la carne quedará melosa.",
-    "Mientras baja la presión, lleva la leche con 250 ml de agua y sal a ebullición en una cazuela, vierte la polenta en lluvia sin dejar de remover y cocina 3-5 minutos hasta que espese. Fuera del fuego, añade el parmesano rallado y pimienta.",
+    "Cierra la olla. Cuando suba la válvula (o alcance presión alta), baja el fuego al mínimo y cuenta 25 minutos. Apaga y deja que la presión baje sola unos 10 minutos antes de abrir: la carne quedará melosa. Mientras, ralla el parmesano.",
+    "Mientras baja la presión, lleva la leche con 250 ml de agua y sal a ebullición en una cazuela, vierte la polenta en lluvia sin dejar de remover y cocina 3-5 minutos hasta que espese. Fuera del fuego, añade el parmesano y pimienta.",
     "Abre la olla, retira el laurel y el romero y reduce el ragú destapado 3-5 minutos si está muy líquido. Sirve la polenta en platos hondos con el ragú encima."
   ],
   nutricion: { kcal: 820, prot: 56, hc: 66, grasa: 34 },
@@ -380,10 +380,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el arroz integral a cocer en abundante agua con sal 30-35 minutos (o según el envase) y escúrrelo. Precalienta el horno a 220 °C.",
     "Corta las berenjenas por la mitad a lo largo y haz cortes en rombo en la carne sin llegar a la piel. Píntalas con 1 cda de aceite, sálalas y hornéalas 20 minutos con la carne hacia arriba, hasta que estén tiernas.",
-    "Mezcla el miso, la salsa de soja, el azúcar moreno, el vinagre de arroz y el jengibre rallado. Saca las berenjenas, úntalas generosamente con la mitad de esta mezcla y vuelve a hornearlas 6-8 minutos, hasta que el glaseado burbujee y se dore (vigílalo: el azúcar se quema rápido).",
-    "Escurre el tofu, sécalo apretándolo entre papel de cocina y córtalo en dados de 2 cm. Rebózalos en la maicena con una pizca de sal. Fríelos en una sartén con 1 cda de aceite a fuego medio-alto, dándoles la vuelta, 6-8 minutos hasta que estén dorados y crujientes por todos los lados. Riégalos con la otra mitad del glaseado y saltea 30 segundos.",
-    "Corta los pak choi por la mitad a lo largo y saltéalos en la misma sartén 2 minutos con una pizca de sal y el aceite de sésamo, hasta que las hojas se marchiten y el tallo quede crujiente.",
-    "Sirve el arroz con la berenjena glaseada, el tofu crujiente y el pak choi. Termina con cebolleta en aros finos y sésamo."
+    "Mientras se hornean, ralla el jengibre y mézclalo con el miso, la salsa de soja, el azúcar moreno y el vinagre de arroz. Escurre el tofu, sécalo apretándolo entre papel de cocina y córtalo en dados de 2 cm. Corta los pak choi por la mitad a lo largo y la cebolleta en aros finos.",
+    "Saca las berenjenas, úntalas generosamente con la mitad del glaseado y vuelve a hornearlas 6-8 minutos, hasta que el glaseado burbujee y se dore (vigílalo: el azúcar se quema rápido).",
+    "Reboza los dados de tofu en la maicena con una pizca de sal. Fríelos en una sartén con 1 cda de aceite a fuego medio-alto, dándoles la vuelta, 6-8 minutos hasta que estén dorados y crujientes por todos los lados. Riégalos con la otra mitad del glaseado y saltea 30 segundos.",
+    "Saltea los pak choi en la misma sartén 2 minutos con una pizca de sal y el aceite de sésamo, hasta que las hojas se marchiten y el tallo quede crujiente.",
+    "Sirve el arroz con la berenjena glaseada, el tofu crujiente y el pak choi. Termina con la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 780, prot: 36, hc: 91, grasa: 30 },
   etiquetas: ["fusión", "al horno", "alta en proteína", "económica", "superalimentos", "poco especiada"],
@@ -424,11 +425,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Ralla el calabacín, sálalo ligeramente y, tras 5 minutos, escúrrelo apretándolo con las manos o en un paño: debe quedar casi seco para que las albóndigas no se deshagan.",
-    "Mezcla en un bol el pavo picado, el calabacín escurrido, el huevo, la harina de garbanzo, un diente de ajo rallado, el comino, el pimentón, la mitad del perejil picado, la ralladura del limón, sal y pimienta. Forma 12 albóndigas con las manos humedecidas.",
+    "Precalienta el horno a 200 °C. Ralla el calabacín y sálalo ligeramente. Mientras reposa 5 minutos, ralla un diente de ajo, pica el otro y pica el perejil. Escurre el calabacín apretándolo con las manos o en un paño: debe quedar casi seco para que las albóndigas no se deshagan.",
+    "Mezcla en un bol el pavo picado, el calabacín escurrido, el huevo, la harina de garbanzo, el ajo rallado, el comino, el pimentón, la mitad del perejil, la ralladura del limón, sal y pimienta. Forma 12 albóndigas con las manos humedecidas.",
     "Colócalas en una bandeja con papel de horno, píntalas con 1 cda de aceite y hornéalas 18-20 minutos hasta que estén doradas y firmes.",
-    "Mientras, trocea la coliflor y tritúrala en pulsos cortos en la batidora (o rállala gruesa) hasta que parezca cuscús. Saltéala en una sartén con 1 cda de aceite, el otro diente de ajo picado, la cúrcuma y sal durante 5-6 minutos: debe quedar suelta y al dente, no blanda.",
-    "Prepara la salsa mezclando el yogur con la menta picada, el zumo de medio limón, sal y pimienta. Corta el pepino en dados pequeños y los cherry por la mitad.",
+    "Mientras, trocea la coliflor y tritúrala en pulsos cortos en la batidora (o rállala gruesa) hasta que parezca cuscús. Saltéala en una sartén con 1 cda de aceite, el ajo picado, la cúrcuma y sal durante 5-6 minutos: debe quedar suelta y al dente, no blanda.",
+    "Prepara la salsa: pica la menta y mézclala con el yogur, el zumo de medio limón, sal y pimienta. Corta el pepino en dados pequeños y los cherry por la mitad.",
     "Sirve el cuscús de coliflor con las albóndigas encima, el pepino y los cherry alrededor, la salsa de yogur en abundancia y el resto del perejil."
   ],
   nutricion: { kcal: 690, prot: 55, hc: 29, grasa: 38 },

@@ -40,12 +40,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tofu en dados de 2 cm y el tempeh en láminas de 1 cm y sécalos con papel. Dóralos en la cazuela con 1,5 cucharadas de aceite a fuego medio-alto, 6-8 minutos, hasta que estén dorados por todas las caras. Resérvalos.",
     "Lava el arroz hasta que el agua salga casi clara y cuécelo tapado con 210 ml de agua y una pizca de sal 12 minutos a fuego mínimo; apaga y deja reposar 10 minutos sin destapar.",
-    "Tritura en el vaso de la batidora las chalotas, el ajo, el chile, el jengibre y la cúrcuma con una cucharada de agua hasta tener una pasta casi lisa.",
+    "Mientras, corta el tofu en dados de 2 cm y el tempeh en láminas de 1 cm y sécalos con papel. Dóralos en la cazuela con 1,5 cucharadas de aceite a fuego medio-alto, 6-8 minutos, hasta que estén dorados por todas las caras. Resérvalos.",
+    "Corta la calabaza en dados de 2 cm, las judías verdes en trozos de 4 cm, la berenjena en dados y la col en tiras. Tritura en el vaso de la batidora las chalotas, el ajo, el chile, el jengibre y la cúrcuma con una cucharada de agua hasta tener una pasta casi lisa.",
     "En la misma cazuela, con el aceite restante, sofríe la pasta 3-4 minutos a fuego medio, removiendo, hasta que pierda el olor a crudo y se oscurezca un poco. Añade la hierba limón chafada con el canto del cuchillo.",
-    "Incorpora la calabaza en dados de 2 cm, las judías verdes en trozos de 4 cm y el caldo. Cuece 8 minutos con la cazuela entreabierta.",
-    "Añade la berenjena en dados y la col en tiras, la leche de coco y sal. Cuece a fuego suave 8-10 minutos, sin que llegue a hervir con fuerza para que el coco no se corte, hasta que la berenjena esté tierna.",
+    "Incorpora la calabaza, las judías verdes y el caldo. Cuece 8 minutos con la cazuela entreabierta.",
+    "Añade la berenjena y la col, la leche de coco y sal. Cuece a fuego suave 8-10 minutos, sin que llegue a hervir con fuerza para que el coco no se corte, hasta que la berenjena esté tierna.",
     "Devuelve el tofu y el tempeh a la cazuela y calienta 2 minutos. Retira la hierba limón, prueba de sal y sirve el lodeh caldoso junto al arroz."
   ],
   nutricion: { kcal: 839, prot: 31, hc: 82, grasa: 43 },
@@ -138,12 +138,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre la jaca, enjuágala y córtala en trozos de 3 cm, quitando la parte central más dura si la tiene. Cúbrela de agua en la cazuela, lleva a ebullición y cuécela 10 minutos; escúrrela. Así pierde el sabor a lata.",
-    "Tritura las chalotas, el ajo, las almendras, el jengibre y el cilantro molido con 3 cucharadas de agua hasta tener una pasta fina.",
+    "Mientras cuece, tritura las chalotas, el ajo, las almendras, el jengibre y el cilantro molido con 3 cucharadas de agua hasta tener una pasta fina.",
     "Calienta media cucharada de aceite en la cazuela a fuego medio y sofríe la pasta con el laurel 5 minutos, removiendo, hasta que esté fragante y empiece a dorarse.",
     "Añade la jaca, la leche de coco, 300 ml de agua, el azúcar de palma, la soja dulce y 1 cucharadita de sal. Lleva a un hervor suave, tapa a medias y cuece a fuego muy bajo 60 minutos, removiendo de vez en cuando con cuidado.",
-    "Destapa y sigue cociendo 15-20 minutos, removiendo más a menudo, hasta que el líquido casi haya desaparecido, la jaca tenga color caramelo y se deshaga en hebras al apretarla.",
-    "Mientras, corta el tofu en triángulos, sécalo y dóralo en la sartén con el resto del aceite 6-8 minutos, hasta que esté dorado. Cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
-    "Retira el laurel y sirve el gudeg sobre el arroz con el tofu al lado y el chile en rodajas para quien quiera picante."
+    "Durante ese tiempo, corta el tofu en triángulos, sécalo y dóralo en la sartén con el resto del aceite 6-8 minutos, hasta que esté dorado. Corta el chile en rodajas.",
+    "Destapa y sigue cociendo 15-20 minutos, removiendo más a menudo, hasta que el líquido casi haya desaparecido, la jaca tenga color caramelo y se deshaga en hebras al apretarla. A la vez, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
+    "Retira el laurel y sirve el gudeg sobre el arroz con el tofu al lado y el chile para quien quiera picante."
   ],
   nutricion: { kcal: 890, prot: 25, hc: 102, grasa: 43 },
   etiquetas: ["tradicional", "vegana", "sin lácteos", "batch cooking", "invierno"],
@@ -187,11 +187,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Corta la coliflor en ramilletes pequeños, sécalos bien y mézclalos en una bandeja con 2 cucharadas de aceite, la maicena y sal. Ásalos 20-25 minutos, girándolos a mitad, hasta que estén dorados y tostados en los bordes.",
     "Mientras, lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; déjalo reposar tapado.",
-    "Quita las capas duras de la hierba limón y pica muy fina la parte tierna (unos 10 cm por tallo): debe quedar casi como arena para que no resulte fibrosa. Pica el ajo, la chalota y el chile.",
+    "Mientras la coliflor se asa, quita las capas duras de la hierba limón y pica muy fina la parte tierna (unos 10 cm por tallo): debe quedar casi como arena para que no resulte fibrosa. Pica el ajo, la chalota y el chile, corta la cebolleta en aros, deshoja el cilantro y corta la lima en cuñas.",
     "Calienta el resto del aceite en el wok a fuego medio y sofríe la hierba limón 2-3 minutos, removiendo, hasta que esté dorada y muy fragante. Añade el ajo, la chalota y el chile y sofríe 1 minuto más.",
     "Sube el fuego, añade el edamame congelado y saltéalo 3 minutos. Mezcla la soja con el azúcar y 2 cucharadas de agua, viértelo en el wok y deja que burbujee 30 segundos.",
-    "Incorpora la coliflor asada y saltea 1 minuto, hasta que quede glaseada y cubierta de hierba limón. Termina con pimienta negra y la cebolleta en aros.",
-    "Sirve sobre el arroz con el cilantro y cuñas de lima."
+    "Incorpora la coliflor asada y saltea 1 minuto, hasta que quede glaseada y cubierta de hierba limón. Termina con pimienta negra y la cebolleta.",
+    "Sirve sobre el arroz con el cilantro y las cuñas de lima."
   ],
   nutricion: { kcal: 670, prot: 21, hc: 90, grasa: 25 },
   etiquetas: ["creativa", "vegana", "picante", "sin lácteos", "económica", "superalimentos", "bajo en colesterol"],
@@ -233,10 +233,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si vas a acompañar con arroz, ponlo a cocer ahora: lavado, con 180 ml de agua, tapado y a fuego mínimo 12 minutos, y después 10 de reposo.",
     "Corta el tofu en dados de 2 cm, sécalo y dóralo en la sartén con 1 cucharada de aceite a fuego medio-alto 6-8 minutos, hasta que esté crujiente. Resérvalo.",
-    "Pela la calabaza y córtala en dados de 2,5 cm; corta las judías en trozos de 5 cm. Pica la cebolla, el ajo y el jengibre.",
+    "Pela la calabaza y córtala en dados de 2,5 cm; corta las judías en trozos de 5 cm. Pica la cebolla, el ajo y el jengibre, y corta el chile en rodajas si lo usas.",
     "En la cazuela, con el resto del aceite, sofríe a fuego medio el ajo, la cebolla y el jengibre 4 minutos, hasta que la cebolla esté transparente.",
     "Añade la calabaza, la leche de coco, el agua y la salsa de soja. Tapa y cuece 8 minutos a fuego medio-bajo, hasta que la calabaza empiece a ablandarse por los bordes.",
-    "Agrega las judías verdes y el chile en rodajas, si lo usas, y cuece destapado 5-6 minutos más: las judías deben quedar verdes y tiernas, y parte de la calabaza deshecha espesará la salsa.",
+    "Agrega las judías verdes y el chile, si lo usas, y cuece destapado 5-6 minutos más: las judías deben quedar verdes y tiernas, y parte de la calabaza deshecha espesará la salsa.",
     "Incorpora el tofu, salpimienta y sirve caliente, con arroz si quieres."
   ],
   nutricion: { kcal: 468, prot: 17, hc: 28, grasa: 32 },
@@ -278,9 +278,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a cocer el arroz lavado con 180 ml de agua, tapado y a fuego mínimo, 12 minutos; después deja reposar 10 minutos sin destapar.",
     "Parte las berenjenas por la mitad a lo largo, hazles cortes en rombo en la pulpa sin llegar a la piel, pincélalas con 2 cucharaditas de aceite y sálalas. Ásalas en la airfryer a 200 °C 16-18 minutos, hasta que la pulpa esté dorada y muy blanda.",
-    "Corta el tempeh en bastones de 1 cm, mézclalo con la salsa de soja dulce y 1 cucharadita de aceite, y hazlo en la airfryer a 200 °C 10-12 minutos, sacudiendo a mitad, hasta que esté dorado y crujiente.",
-    "Para el balado, tritura de forma grosera los tomates, los chiles, las chalotas y el ajo: debe quedar con textura, no un puré.",
-    "Calienta el resto del aceite en la sartén y fríe el triturado a fuego medio 8-10 minutos, removiendo, hasta que se reduzca, se oscurezca y el aceite empiece a separarse por los bordes. Sazona con el azúcar, sal y el zumo de media lima.",
+    "Mientras se asan, corta el tempeh en bastones de 1 cm y mézclalo con la salsa de soja dulce y 1 cucharadita de aceite. Para el balado, tritura de forma grosera los tomates, los chiles, las chalotas y el ajo: debe quedar con textura, no un puré.",
+    "Saca las berenjenas y haz el tempeh en la airfryer a 200 °C 10-12 minutos, sacudiendo a mitad, hasta que esté dorado y crujiente.",
+    "Mientras, calienta el resto del aceite en la sartén y fríe el triturado a fuego medio 8-10 minutos, removiendo, hasta que se reduzca, se oscurezca y el aceite empiece a separarse por los bordes. Sazona con el azúcar, sal y el zumo de media lima.",
     "Sirve las berenjenas cubiertas con el balado caliente, el tempeh al lado, el arroz y gajos de lima."
   ],
   nutricion: { kcal: 633, prot: 27, hc: 75, grasa: 25 },
@@ -317,14 +317,15 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Pela el pomelo a vivo, saca los gajos sin la membrana blanca y desmenúzalos con los dedos en trozos irregulares. Déjalos escurrir en un colador.",
+    "Pon a calentar una cazuela con agua y sal para los langostinos. Mientras, pela el pomelo a vivo, saca los gajos sin la membrana blanca y desmenúzalos con los dedos en trozos irregulares. Déjalos escurrir en un colador.",
     "Corta 2 chalotas en láminas finas y fríelas en el aceite a fuego medio 5-7 minutos, removiendo, hasta que estén doradas. Sácalas enseguida a un papel: se vuelven crujientes al enfriar. Pica la otra chalota en crudo.",
     "Tuesta el coco rallado en la sartén en seco a fuego medio 1-2 minutos, hasta que esté dorado, y resérvalo. Tuesta también los cacahuetes 3 minutos y machácalos.",
-    "Escalda los langostinos en agua hirviendo con sal 1,5-2 minutos, hasta que se vuelvan rosados y se curven, y pásalos a agua fría para cortar la cocción. Escúrrelos.",
-    "Prepara el aliño disolviendo el azúcar en la salsa de pescado y el zumo de la lima; añade el chile picado fino. Debe saber igual de ácido que dulce y salado.",
+    "Escalda los langostinos en el agua hirviendo 1,5-2 minutos, hasta que se vuelvan rosados y se curven, y pásalos a agua fría para cortar la cocción. Escúrrelos.",
+    "Prepara el aliño disolviendo el azúcar en la salsa de pescado y el zumo de la lima; pica fino el chile y añádelo. Debe saber igual de ácido que dulce y salado. Deshoja la menta y el cilantro.",
     "Mezcla con suavidad el pomelo, los langostinos, la chalota cruda, el coco, la mitad de los cacahuetes, las hojas de menta y cilantro y el aliño. Sirve al momento con la chalota frita y el resto de los cacahuetes por encima."
   ],
   nutricion: { kcal: 366, prot: 25, hc: 26, grasa: 18 },
@@ -365,10 +366,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cubre las hojas de té con agua caliente (unos 80 °C) y déjalas 10 minutos. Escúrrelas y lávalas con 3 o 4 cambios de agua fría, apretándolas cada vez, para quitar el exceso de amargor.",
-    "Mientras, lamina el ajo y fríelo en el aceite a fuego medio-bajo 3-4 minutos, hasta que esté dorado claro. Sácalo a un papel y reserva el aceite, que ya sabe a ajo.",
-    "Escurre bien el té, pícalo fino y aliña con 2 cucharadas del aceite de ajo, la mitad del zumo de lima, el chile picado y una pizca de sal. Deja que repose 10 minutos.",
-    "Tuesta el sésamo en la sartén en seco 1 minuto, hasta que salte y huela. Si usas gambas secas, tuéstalas 2 minutos y pícalas.",
-    "Corta la col en tiras muy finas y el tomate en gajos pequeños.",
+    "Mientras, lamina el ajo y fríelo en el aceite a fuego medio-bajo 3-4 minutos, hasta que esté dorado claro. Sácalo a un papel y reserva el aceite, que ya sabe a ajo. Pica fino el chile.",
+    "Escurre bien el té, pícalo fino y aliña con 2 cucharadas del aceite de ajo, la mitad del zumo de lima, el chile y una pizca de sal. Deja que repose 10 minutos.",
+    "Mientras reposa, tuesta el sésamo en la sartén en seco 1 minuto, hasta que salte y huela. Si usas gambas secas, tuéstalas 2 minutos y pícalas.",
+    "Corta también la col en tiras muy finas y el tomate en gajos pequeños.",
     "En el momento de servir, mezcla la col, el tomate y el té aliñado con la salsa de pescado, el resto del zumo de lima y del aceite de ajo. Termina con los cacahuetes, las habas fritas, el sésamo, el ajo frito y las gambas."
   ],
   nutricion: { kcal: 417, prot: 14, hc: 25, grasa: 29 },
@@ -409,10 +410,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mete la ternera en el congelador mientras preparas lo demás (unos 15 minutos): firme, se corta mucho más fina.",
     "Corta la cebolla en pluma muy fina y déjala en agua fría 10 minutos para suavizarla. Tuesta los cacahuetes y el sésamo en la sartén en seco 3 minutos y machaca los cacahuetes.",
-    "Prepara el aliño: disuelve el azúcar en la salsa de pescado con el zumo de 1 lima, y añade el ajo y el chile picados finos.",
+    "Prepara el aliño: disuelve el azúcar en la salsa de pescado con el zumo de 1 lima; pica finos el ajo y el chile y añádelos. Corta el pepino en medias lunas finas y deshoja la menta y el cilantro.",
     "Corta la ternera contra la fibra en láminas de 2 mm y repártelas en un plato hondo. Cúbrelas con el zumo de las otras 3 limas y deja 5-8 minutos, dándoles la vuelta, hasta que los bordes se vuelvan opacos y rosados pálidos.",
     "Escurre la carne apretando ligeramente para quitar el exceso de lima (si no, quedará demasiado ácida y dura).",
-    "Mezcla la ternera con la cebolla escurrida, el pepino en medias lunas finas, las hojas de menta y cilantro y el aliño. Sirve al momento con los cacahuetes y el sésamo por encima."
+    "Mezcla la ternera con la cebolla escurrida, el pepino, las hojas de menta y cilantro y el aliño. Sirve al momento con los cacahuetes y el sésamo por encima."
   ],
   nutricion: { kcal: 289, prot: 32, hc: 11, grasa: 13 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "ligera", "verano", "para invitados"],
@@ -451,11 +452,11 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta los cacahuetes en la sartén en seco 3-4 minutos, déjalos enfriar y machácalos en trozos gruesos. Resérvalos.",
+    "Pon a hervir un cazo con agua para los brotes. Mientras, tuesta los cacahuetes en la sartén en seco 3-4 minutos, déjalos enfriar y machácalos en trozos gruesos. Resérvalos.",
     "Corta el tofu en dados de 2 cm, sécalo y dóralo en la sartén con el aceite a fuego medio-alto 6-8 minutos, hasta que esté crujiente por todas las caras.",
-    "Escalda los brotes de soja 30 segundos en agua hirviendo y pásalos a agua fría.",
-    "Si usas belacan, tuéstalo en la sartén limpia 1 minuto, aplastándolo, hasta que huela intenso. Mézclalo en un cazo con el tamarindo, el azúcar, el zumo de media lima, el chile picado y 2 cucharadas de agua, y calienta 1-2 minutos removiendo hasta que quede una salsa espesa y brillante. Deja templar.",
-    "Corta la piña, el pepino y el mango en trozos irregulares de bocado.",
+    "Escalda los brotes de soja 30 segundos en el agua hirviendo y pásalos a agua fría. Pica el chile.",
+    "Si usas belacan, tuéstalo en la sartén limpia 1 minuto, aplastándolo, hasta que huela intenso. Mézclalo en un cazo con el tamarindo, el azúcar, el zumo de media lima, el chile y 2 cucharadas de agua, y calienta 1-2 minutos removiendo hasta que quede una salsa espesa y brillante. Deja templar.",
+    "Mientras templa, corta la piña, el pepino y el mango en trozos irregulares de bocado.",
     "Justo antes de comer, mezcla la fruta, el pepino, los brotes y el tofu con la salsa y la mitad de los cacahuetes. Sirve con el resto de los cacahuetes por encima y gajos de lima."
   ],
   nutricion: { kcal: 517, prot: 20, hc: 53, grasa: 25 },
@@ -494,13 +495,14 @@ window.RECETAS_SEED.push({
     { n: "hoja de lima kaffir", q: 2, u: "hoja", nota: "o la ralladura de una lima" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" }
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el tempeh en dados de 1,5 cm, mézclalo con la salsa de soja dulce y 1 cucharada de aceite y hornéalo en una bandeja con papel 18-20 minutos, girándolo a mitad, hasta que esté dorado y glaseado.",
-    "Pica muy finos las chalotas, el ajo, el chile y las hojas de lima kaffir sin el nervio, y machácalos en un mortero o con el canto del cuchillo con el azúcar y una pizca de sal.",
+    "Mientras se hornea, pon a hervir una cazuela con agua y sal. Corta las judías verdes en trozos y el brócoli en ramilletes. Pica muy finos las chalotas, el ajo, el chile y las hojas de lima kaffir sin el nervio, y machácalos en un mortero o con el canto del cuchillo con el azúcar y una pizca de sal.",
     "Calienta el resto del aceite en la sartén a fuego medio, sofríe la pasta 2 minutos y añade el coco rallado. Tuesta 4-5 minutos removiendo sin parar, hasta que el coco esté dorado claro y muy aromático.",
-    "Escalda las verduras en una cazuela con agua hirviendo y sal, por tandas: las judías verdes en trozos 4 minutos, el brócoli en ramilletes 3 minutos y las espinacas y los brotes 30 segundos. Escúrrelas bien, apretando las espinacas.",
+    "Escalda las verduras en el agua hirviendo, por tandas: las judías verdes 4 minutos, el brócoli 3 minutos y las espinacas y los brotes 30 segundos. Escúrrelas bien, apretando las espinacas.",
     "Mezcla las verduras aún templadas con el coco especiado y el zumo de media lima, para que absorban los aromas.",
     "Sirve el urap con el tempeh por encima y el resto de la lima en gajos."
   ],
@@ -586,9 +588,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela el mango y la zanahoria y córtalos en juliana fina (o rállalos con un rallador de tiras). Corta la cebolla en pluma muy fina.",
-    "Prepara el aliño disolviendo el azúcar en la salsa de pescado y el zumo de 1 lima; añade el ajo y el chile picados. Tuesta los cacahuetes en la sartén en seco 3 minutos y machácalos.",
-    "Prepara la salsa de Kampot (tuk meric): mezcla la pimienta recién machacada con una pizca generosa de sal y el zumo de la otra lima.",
+    "Pela el mango y la zanahoria y córtalos en juliana fina (o rállalos con un rallador de tiras). Corta la cebolla en pluma muy fina y deshoja la menta y la albahaca.",
+    "Prepara el aliño disolviendo el azúcar en la salsa de pescado y el zumo de 1 lima; pica el ajo y el chile y añádelos. Tuesta los cacahuetes en la sartén en seco 3 minutos y machácalos.",
+    "Prepara la salsa de Kampot (tuk meric): machaca la pimienta y mézclala con una pizca generosa de sal y el zumo de la otra lima.",
     "Seca bien la caballa y hazle 2 cortes superficiales en la piel. Calienta la sartén con el aceite a fuego medio-alto y ponla con la piel hacia abajo, aplastándola 10 segundos con una espátula para que no se curve. Cocina 3 minutos sin moverla, hasta que la piel esté crujiente, dale la vuelta y deja 1 minuto más.",
     "Mezcla el mango, la zanahoria, la cebolla, la menta y la albahaca con el aliño.",
     "Sirve la ensalada con la caballa encima, los cacahuetes y la salsa de Kampot en un cuenquito para mojar el pescado."
@@ -632,9 +634,9 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.25, u: "manojo" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que el agua hierve y enfríalos en agua con hielo para que se pelen bien y la yema no se ponga verde. Pélalos, separa las yemas y corta las claras en tiras.",
-    "Lamina el ajo y fríelo en el aceite a fuego medio-bajo 3 minutos, hasta que esté dorado claro. Sácalo a un papel y deja templar el aceite.",
-    "Tuesta los cacahuetes en la sartén en seco 3 minutos y machácalos en trozos gruesos.",
+    "Cuece los huevos 10 minutos desde que el agua hierve.",
+    "Mientras, lamina el ajo y fríelo en el aceite en la sartén a fuego medio-bajo 3 minutos, hasta que esté dorado claro. Sácalo a un papel y pasa el aceite a un bol para que temple. En la misma sartén, tuesta los cacahuetes en seco 3 minutos y machácalos en trozos gruesos.",
+    "Enfría los huevos en agua con hielo para que se pelen bien y la yema no se ponga verde. Pélalos, separa las yemas y corta las claras en tiras.",
     "Prepara el aliño: aplasta las yemas con un tenedor y ve añadiendo el aceite de ajo templado, el vinagre, el zumo de lima, la salsa de pescado y el azúcar, batiendo hasta que quede una salsa espesa y lisa como una mayonesa ligera. Si está muy densa, añade una cucharada de agua.",
     "Lava y escurre muy bien los berros y la lechuga (trocea la lechuga con las manos). Corta los tomates por la mitad, el pepino en rodajas finas y la cebolleta en aros.",
     "Monta la ensalada en una fuente con las hojas, el tomate, el pepino, las claras, la cebolleta, la menta y el cilantro. Riega con el aliño justo antes de servir y termina con los cacahuetes y el ajo frito."
@@ -716,15 +718,16 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud", nota: "en lugar de calamansi" },
     { n: "aceite de girasol", q: 3, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Lamina el ajo y fríelo en la cazuela con el aceite a fuego medio-bajo 3-4 minutos, hasta que esté dorado claro; sácalo con una espumadera a un papel, donde se volverá crujiente. Retira parte del aceite y deja unas 1,5 cucharadas en la cazuela.",
-    "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos.",
-    "Corta el pollo en trozos de bocado y el jengibre en bastoncitos finos, y pica la cebolla. Sofríe en el aceite de ajo la cebolla y el jengibre 4 minutos a fuego medio, añade el pollo y cocina 5 minutos más, hasta que pierda el color rosado.",
+    "Lamina el ajo, corta el pollo en trozos de bocado y el jengibre en bastoncitos finos, y pica la cebolla.",
+    "Fríe el ajo en la cazuela con el aceite a fuego medio-bajo 3-4 minutos, hasta que esté dorado claro; sácalo con una espumadera a un papel, donde se volverá crujiente. Retira parte del aceite y deja unas 1,5 cucharadas en la cazuela.",
+    "Sofríe en el aceite de ajo la cebolla y el jengibre 4 minutos a fuego medio, añade el pollo y cocina 5 minutos más, hasta que pierda el color rosado.",
     "Agrega el arroz sin lavar y remueve 2 minutos para que se nacare. Riega con la salsa de pescado y luego con el caldo caliente.",
-    "Cuece a fuego suave, con la cazuela entreabierta, 30 minutos, removiendo a menudo para que no se pegue, hasta que el grano se abra y el conjunto tenga textura de gachas. Si espesa demasiado, añade un poco de agua caliente.",
-    "Prueba, ajusta de sal y pimienta y sirve en cuencos con medio huevo duro, el ajo frito, la cebolleta picada y un gajo de lima para exprimir en la mesa."
+    "Cuece a fuego suave, con la cazuela entreabierta, 30 minutos, removiendo a menudo para que no se pegue, hasta que el grano se abra y el conjunto tenga textura de gachas. Si espesa demasiado, añade un poco de agua caliente. Mientras, cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos; pica la cebolleta y corta la lima en gajos.",
+    "Prueba, ajusta de sal y pimienta y sirve en cuencos con medio huevo duro, el ajo frito, la cebolleta y un gajo de lima para exprimir en la mesa."
   ],
   nutricion: { kcal: 605, prot: 41, hc: 54, grasa: 25 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "sin gluten", "sin lácteos", "batch cooking", "económica", "sin verduras", "poco especiada"],
@@ -768,12 +771,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Aplana las chuletas con un mazo o un cazo hasta 1 cm. Pica muy finos la parte tierna de la hierba limón, 2 dientes de ajo y la chalota, y mézclalos con 1,5 cucharadas de salsa de pescado, 1 de azúcar, 1 cucharadita de aceite y bastante pimienta. Unta las chuletas y déjalas marinar al menos 30 minutos en la nevera (mejor toda la noche).",
-    "Lava el arroz varias veces y cuécelo con 190 ml de agua, tapado y a fuego mínimo, 13 minutos; deja reposar 10 minutos sin destapar.",
-    "Prepara el nuoc cham: disuelve la otra cucharada de azúcar en 3 cucharadas de agua templada, añade el resto de la salsa de pescado, el zumo de la lima, el ajo restante y el chile picados finos.",
-    "Para el aceite de cebolleta, pica la parte verde de las cebolletas con una pizca de sal en un bol resistente al calor, calienta 1 cucharada de aceite hasta que humee ligeramente y viértelo encima: chisporroteará y quedará verde brillante.",
+    "Mientras marinan, lava el arroz varias veces y cuécelo con 190 ml de agua, tapado y a fuego mínimo, 13 minutos; deja reposar 10 minutos sin destapar.",
+    "Prepara el nuoc cham: disuelve la otra cucharada de azúcar en 3 cucharadas de agua templada; pica finos el ajo restante y el chile y añádelos con el resto de la salsa de pescado y el zumo de la lima.",
+    "Para el aceite de cebolleta, pica la parte verde de las cebolletas con una pizca de sal en un bol resistente al calor, calienta 1 cucharada de aceite hasta que humee ligeramente y viértelo encima: chisporroteará y quedará verde brillante. Corta el pepino y el tomate en rodajas.",
     "Calienta la sartén o una plancha a fuego medio-alto con unas gotas de aceite y cocina las chuletas 4-5 minutos por cada lado, hasta que estén caramelizadas y bien hechas por dentro. Si se oscurecen demasiado rápido, baja el fuego: el azúcar se quema con facilidad.",
     "En la misma sartén, con el aceite restante, fríe los huevos con la yema líquida.",
-    "Sirve en cada plato una cúpula de arroz con el aceite de cebolleta por encima, la chuleta, el huevo, pepino y tomate en rodajas, y el nuoc cham para regar."
+    "Sirve en cada plato una cúpula de arroz con el aceite de cebolleta por encima, la chuleta, el huevo, el pepino y el tomate, y el nuoc cham para regar."
   ],
   nutricion: { kcal: 736, prot: 41, hc: 71, grasa: 32 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "a la plancha"],
@@ -813,11 +816,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Remoja los fideos en agua templada 10-15 minutos, hasta que estén flexibles. Escúrrelos y córtalos con unas tijeras en trozos de 5-6 cm, para imitar los fideos cortos y gorditos del lort cha.",
-    "Corta la ternera en tiras finas contra la fibra y mézclala con 1 cucharadita de salsa de soja dulce y pimienta. Mezcla en un bol el resto de la soja dulce, la salsa de ostras, la de pescado y el azúcar.",
+    "Mientras se remojan, corta la ternera en tiras finas contra la fibra y mézclala con 1 cucharadita de salsa de soja dulce y pimienta. Mezcla en un bol el resto de la soja dulce, la salsa de ostras, la de pescado y el azúcar. Pica el ajo y corta el cebollino en trozos de 4 cm.",
     "Calienta el wok a fuego fuerte con 1 cucharada de aceite y saltea la ternera 1-1,5 minutos, solo hasta que se dore por fuera. Sácala.",
-    "En el mismo wok, saltea el ajo picado 15 segundos, añade los fideos y la mezcla de salsas y saltea 2-3 minutos, hasta que estén brillantes, tostaditos por algunos puntos y tiernos.",
-    "Devuelve la ternera, añade los brotes y el cebollino en trozos y saltea 1 minuto más.",
-    "Mientras, fríe los huevos en la sartén con el resto del aceite, con la clara cuajada y la yema líquida.",
+    "En el mismo wok, saltea el ajo 15 segundos, añade los fideos y la mezcla de salsas y saltea 2-3 minutos, hasta que estén brillantes, tostaditos por algunos puntos y tiernos.",
+    "Devuelve la ternera, añade los brotes y el cebollino y saltea 1 minuto más. Aparta el wok del fuego.",
+    "Fríe enseguida los huevos en la sartén con el resto del aceite, con la clara cuajada y la yema líquida.",
     "Sirve los fideos con un huevo frito encima de cada ración y la pasta de chile al lado, para que cada uno la mezcle a su gusto."
   ],
   nutricion: { kcal: 631, prot: 36, hc: 70, grasa: 23 },
@@ -854,15 +857,16 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 4, u: "cda", nota: "para freír los fideos; sobra" },
     { n: "chalota", q: 2, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "cilantro fresco", q: 0.25, u: "manojo" }
+    { n: "cilantro fresco", q: 0.25, u: "manojo" },
+    { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los fideos en abundante agua hirviendo según el envase (unos 4 minutos), escúrrelos y pásalos por agua fría. Separa una cuarta parte, sécala bien con papel y deja el resto en el colador.",
+    "Pon a hervir abundante agua para los fideos y, mientras se calienta, corta el pollo en trozos de bocado. Cuece los fideos según el envase (unos 4 minutos), escúrrelos y pásalos por agua fría. Separa una cuarta parte, sécala bien con papel y deja el resto en el colador.",
     "Calienta el aceite en la sartén a fuego medio-alto y fríe la porción reservada en un nido plano 2-3 minutos por lado, hasta que esté dorada y crujiente. Escúrrela sobre papel y rómpela en trozos.",
     "En la cazuela, calienta 3 cucharadas de la parte más espesa de la leche de coco a fuego medio hasta que burbujee y añade la pasta de curry, el curry en polvo y la cúrcuma. Fríe 2-3 minutos, removiendo, hasta que suelte aceite y huela intenso.",
-    "Añade el pollo en trozos de bocado y remueve 4 minutos para que se impregne. Vierte el resto de la leche de coco y el caldo.",
-    "Cuece a fuego suave 15 minutos, hasta que el pollo esté tierno y la salsa espese y napée la cuchara. Sazona con la salsa de pescado y el azúcar.",
-    "Mezcla los fideos cocidos con la salsa caliente, 1 minuto al fuego. Sirve con los fideos crujientes encima, la chalota en láminas finas, el cilantro y gajos de lima."
+    "Añade el pollo y remueve 4 minutos para que se impregne. Vierte el resto de la leche de coco y el caldo.",
+    "Cuece a fuego suave 15 minutos, hasta que el pollo esté tierno y la salsa espese y napée la cuchara. Sazona con la salsa de pescado y el azúcar. Mientras cuece, corta la chalota en láminas finas, deshoja el cilantro y corta la lima en gajos.",
+    "Mezcla los fideos cocidos con la salsa caliente, 1 minuto al fuego. Sirve con los fideos crujientes encima, la chalota, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 859, prot: 43, hc: 75, grasa: 43 },
   etiquetas: ["creativa", "picante", "sin lácteos", "invierno", "otoño", "sin verduras"],
@@ -905,12 +909,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica muy fina la parte tierna de una rama de hierba limón con el ajo, las chalotas y el jengibre. Mezcla la mitad con el pollo, la salsa de soja, el azúcar, el aceite y media cucharadita de cúrcuma, y deja marinar mientras se calienta el horno (15 minutos como mínimo).",
     "Precalienta el horno a 200 °C con calor arriba y abajo.",
+    "Mientras se calienta, pica muy fina la parte tierna de una rama de hierba limón con el ajo, las chalotas y el jengibre. Mezcla la mitad con el pollo, la salsa de soja, el azúcar, el aceite y media cucharadita de cúrcuma, y deja marinar mientras se calienta el horno (15 minutos como mínimo).",
     "Lava el arroz hasta que el agua salga casi clara y escúrrelo. En una fuente de horno de unos 20 × 25 cm, mézclalo con la leche de coco, el caldo, el resto del picadillo aromático, la cúrcuma restante, el cilantro molido, una cucharadita de sal y la otra rama de hierba limón chafada y partida en dos.",
     "Coloca los muslos encima del arroz, extendidos, con todo el adobo. Cubre la fuente bien sellada con papel de aluminio y hornea 35 minutos.",
+    "Mientras, tuesta los cacahuetes en una sartén en seco 4 minutos y corta el pepino en rodajas.",
     "Destapa y hornea 10 minutos más, hasta que el pollo esté dorado por arriba y el arroz haya absorbido todo el líquido. Deja reposar 5 minutos fuera del horno y retira la hierba limón.",
-    "Mientras, tuesta los cacahuetes en una sartén en seco o en el mismo horno 4 minutos y corta el pepino en rodajas. Sirve el arroz con el pollo, el pepino, los cacahuetes y gajos de lima."
+    "Sirve el arroz con el pollo, el pepino, los cacahuetes y gajos de lima."
   ],
   nutricion: { kcal: 805, prot: 40, hc: 69, grasa: 41 },
   etiquetas: ["creativa", "al horno", "sin lácteos", "batch cooking", "para niños", "poco especiada"],
@@ -952,12 +957,12 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Tritura la parte tierna de la hierba limón, el jengibre, las chalotas y la mitad de la caballa con 4 cucharadas de la leche de coco hasta tener una pasta fina.",
+    "Pon a calentar abundante agua para los huevos, las judías y los fideos. Mientras, tritura la parte tierna de la hierba limón, el jengibre, las chalotas y la mitad de la caballa con 4 cucharadas de la leche de coco hasta tener una pasta fina.",
     "Calienta en la cazuela 4 cucharadas de la parte más espesa de la leche de coco a fuego medio hasta que burbujee y suelte su grasa, unos 2 minutos. Añade la pasta de curry y fríela 2 minutos, removiendo, hasta que huela intensamente.",
     "Incorpora la pasta de pescado y remueve 2 minutos. Vierte el resto de la leche de coco, 150 ml de agua, las hojas de lima rasgadas, la salsa de pescado y el azúcar, y cuece a fuego suave 10 minutos, removiendo a menudo, hasta que la salsa espese y asome una grasa rojiza en la superficie.",
-    "Añade el resto de la caballa en lascas grandes y calienta 2 minutos sin remover mucho, para que no se deshaga. Prueba: debe ser salada, especiada y algo dulce.",
-    "Mientras, cuece los huevos 9 minutos, enfríalos y pártelos por la mitad. Corta las judías en trozos de 3 cm y escáldalas 2 minutos en agua hirviendo; en esa misma agua cuece después los fideos 3-4 minutos (o según el envase), escúrrelos y enjuágalos con agua fría.",
-    "Corta el pepino en rodajas. Forma nidos de fideos en cada plato, vierte la salsa caliente por encima y acompaña con el huevo, las judías, los brotes de soja crudos, el pepino y las hojas de albahaca, que se mezclan con cada bocado."
+    "Mientras cuece la salsa, cuece los huevos 9 minutos en el agua hirviendo, enfríalos y pártelos por la mitad. Corta las judías en trozos de 3 cm y escáldalas 2 minutos en esa misma agua; en ella cuece después los fideos 3-4 minutos (o según el envase), escúrrelos y enjuágalos con agua fría. Corta el pepino en rodajas.",
+    "Añade a la salsa el resto de la caballa en lascas grandes y calienta 2 minutos sin remover mucho, para que no se deshaga. Prueba: debe ser salada, especiada y algo dulce.",
+    "Forma nidos de fideos en cada plato, vierte la salsa caliente por encima y acompaña con el huevo, las judías, los brotes de soja crudos, el pepino y las hojas de albahaca, que se mezclan con cada bocado."
   ],
   nutricion: { kcal: 830, prot: 37, hc: 80, grasa: 40 },
   etiquetas: ["creativa", "picante", "sin gluten", "sin lácteos", "omega 3", "económica"],
@@ -1001,12 +1006,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Remoja las guindillas sin semillas en agua caliente 10 minutos. Tritúralas en la batidora con las chalotas, el ajo, el jengibre, la parte tierna de la hierba limón, la cúrcuma, los anacardos, la pasta de gambas y 2 cucharadas de agua hasta tener una pasta (rempah) fina.",
-    "Cuece los fideos en agua hirviendo según el envase, quitándoles 1 minuto, escúrrelos y pásalos por agua fría.",
-    "Corta el tofu en dados de 2 cm, sécalo y dóralo en la sartén con 1 cucharada de aceite 6-8 minutos, hasta que esté crujiente.",
+    "Remoja las guindillas sin semillas en agua caliente 10 minutos. Mientras, pon a hervir agua para los fideos y corta el tofu en dados de 2 cm y sécalo.",
+    "Tritura las guindillas en la batidora con las chalotas, el ajo, el jengibre, la parte tierna de la hierba limón, la cúrcuma, los anacardos, la pasta de gambas y 2 cucharadas de agua hasta tener una pasta (rempah) fina.",
+    "Cuece los fideos en el agua hirviendo según el envase, quitándoles 1 minuto, escúrrelos y pásalos por agua fría. Mientras cuecen, dora el tofu en la sartén con 1 cucharada de aceite 6-8 minutos, hasta que esté crujiente. Pica la menta.",
     "Calienta el resto del aceite en el wok a fuego medio y fríe la rempah 6-8 minutos, removiendo, hasta que se oscurezca, huela tostado y el aceite se separe de la pasta: es la clave del sabor, no la acortes.",
     "Sube el fuego, añade los langostinos y saltéalos 2 minutos, hasta que estén rosados. Vierte la leche de coco y deja que hierva 1-2 minutos, hasta que espese.",
-    "Incorpora los fideos y los brotes de soja y saltea 2 minutos, hasta que la salsa los cubra y se absorba. Añade el tofu, prueba de sal y sirve con la menta picada y gajos de lima."
+    "Incorpora los fideos y los brotes de soja y saltea 2 minutos, hasta que la salsa los cubra y se absorba. Añade el tofu, prueba de sal y sirve con la menta y gajos de lima."
   ],
   nutricion: { kcal: 824, prot: 36, hc: 80, grasa: 40 },
   etiquetas: ["creativa", "picante", "al wok", "sin gluten", "sin lácteos"],
@@ -1050,11 +1055,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en la cazuela con la leche de coco, el agua, la hierba limón chafada, el laurel y una pizca de sal: lleva a hervor, tapa y deja 12 minutos a fuego mínimo, y después 10 minutos de reposo. Retira la hierba limón y el laurel.",
-    "Mientras, tritura de forma grosera las chalotas, el ajo, los chiles y el tomate. Fríelo en la sartén con el aceite a fuego medio 6-8 minutos, removiendo, hasta que se reduzca y se oscurezca.",
-    "Añade las hojas de lima kaffir cortadas en hilos finísimos, el azúcar, una pizca de sal y el bonito desmigado. Cocina 2 minutos y apaga. Incorpora las hojas de albahaca.",
-    "Precalienta el horno a 220 °C. Corta dos rectángulos de 30 × 30 cm de hoja de plátano (pásala un segundo por la llama para que no se rompa) o de papel de horno.",
+    "Mientras, precalienta el horno a 220 °C. Tritura de forma grosera las chalotas, el ajo, los chiles y el tomate, y corta las hojas de lima kaffir en hilos finísimos. Fríe el triturado en la sartén con el aceite a fuego medio 6-8 minutos, removiendo, hasta que se reduzca y se oscurezca.",
+    "Añade las hojas de lima kaffir, el azúcar, una pizca de sal y el bonito desmigado. Cocina 2 minutos y apaga. Incorpora las hojas de albahaca.",
+    "Corta dos rectángulos de 30 × 30 cm de hoja de plátano (pásala un segundo por la llama para que no se rompa) o de papel de horno.",
     "Extiende en cada uno una capa de arroz, pon la mitad del relleno en el centro y enrolla formando un cilindro con el arroz rodeando el bonito. Cierra los extremos retorciéndolos o doblándolos y sujétalos con un palillo.",
-    "Hornea los paquetes sobre una bandeja 15 minutos, dándoles la vuelta a mitad, hasta que el envoltorio esté tostado y el arroz forme una costra en la base. Sírvelos para abrir en la mesa, con el pepino en rodajas."
+    "Hornea los paquetes sobre una bandeja 15 minutos, dándoles la vuelta a mitad, hasta que el envoltorio esté tostado y el arroz forme una costra en la base. Mientras, corta el pepino en rodajas. Sirve los paquetes para abrir en la mesa, con el pepino."
   ],
   nutricion: { kcal: 599, prot: 28, hc: 61, grasa: 27 },
   etiquetas: ["creativa", "al horno", "picante", "sin gluten", "sin lácteos", "ideal para llevar"],
@@ -1138,15 +1143,16 @@ window.RECETAS_SEED.push({
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "vinagre de arroz", q: 2, u: "cda" },
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
-    { n: "sal", u: "al gusto" }
+    { n: "sal", u: "al gusto" },
+    { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pepino en bastoncitos finos y mézclalo con el vinagre de arroz y una pizca de sal y azúcar: será el encurtido rápido que sustituye a la mostaza china encurtida.",
+    "Pon a hervir agua para los fideos. Mientras, corta el pepino en bastoncitos finos y mézclalo con el vinagre de arroz y una pizca de sal y azúcar: será el encurtido rápido que sustituye a la mostaza china encurtida. Pica la chalota, la cebolleta y el cilantro, y ralla los tomates desechando la piel.",
     "Lamina el ajo y fríelo en el aceite a fuego medio-bajo 3 minutos, hasta que esté dorado claro. Sácalo a un papel y reserva el aceite de ajo.",
-    "En la sartén, con 1 cucharada de ese aceite, sofríe la chalota picada 3 minutos. Añade el pimentón y la cúrcuma, remueve 30 segundos e incorpora el tofu desmenuzado con las manos. Cocina 5 minutos a fuego medio-alto, hasta que empiece a dorarse.",
-    "Ralla los tomates, desechando la piel, y añádelos con la salsa de soja y el azúcar. Cuece 8-10 minutos a fuego medio, hasta que la salsa espese y el aceite asome por los bordes.",
+    "En la sartén, con 1 cucharada de ese aceite, sofríe la chalota 3 minutos. Añade el pimentón y la cúrcuma, remueve 30 segundos e incorpora el tofu desmenuzado con las manos. Cocina 5 minutos a fuego medio-alto, hasta que empiece a dorarse.",
+    "Añade el tomate rallado con la salsa de soja y el azúcar. Cuece 8-10 minutos a fuego medio, hasta que la salsa espese y el aceite asome por los bordes.",
     "Mientras, cuece los fideos según el envase, escúrrelos y mézclalos en caliente con el resto del aceite de ajo. Tuesta los cacahuetes en una sartén en seco 3 minutos y machácalos.",
-    "Reparte los fideos en boles, cúbrelos con la salsa de tofu y termina con los cacahuetes, el ajo frito, la cebolleta y el cilantro picados, la guindilla desmenuzada si te gusta el picante y el pepino encurtido al lado."
+    "Reparte los fideos en boles, cúbrelos con la salsa de tofu y termina con los cacahuetes, el ajo frito, la cebolleta y el cilantro, la guindilla desmenuzada si te gusta el picante y el pepino encurtido al lado."
   ],
   nutricion: { kcal: 647, prot: 26, hc: 75, grasa: 27 },
   etiquetas: ["creativa", "vegana", "sin lácteos", "económica", "batch cooking"],

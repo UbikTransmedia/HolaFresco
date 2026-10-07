@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Frota el pollo con la cúrcuma y una pizca de sal y déjalo 10 minutos mientras preparas lo demás.",
+    "Pon las guindillas despepitadas en remojo en agua caliente. Frota el pollo con la cúrcuma y una pizca de sal y déjalo 10 minutos; mientras, ralla los tomates.",
     "Tritura las guindillas escurridas, las chalotas, el ajo, el jengibre y la parte blanca de la hierba limón con 3 cucharadas de agua hasta tener una pasta fina.",
     "Calienta el aceite en una cazuela a fuego medio-alto y dora el pollo 6-7 minutos, hasta que tenga los bordes tostados. Sácalo y deja el aceite.",
     "En el mismo aceite, rehoga la pasta con el anís, la canela y los clavos a fuego medio 8-10 minutos, removiendo, hasta que oscurezca y el aceite se separe por los bordes: esa es la señal de que el chile está cocinado.",
@@ -84,8 +84,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta los filetes en tiras anchas y mézclalos con la soja, el zumo del limón, el ajo machacado, el azúcar y bastante pimienta negra. Déjalos marinar 15 minutos.",
-    "Mientras marina, lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
-    "Corta las cebollas en aros de medio centímetro. Calienta la mitad del aceite en una sartén a fuego medio-alto y saltea los aros 2-3 minutos: deben quedar brillantes y algo crujientes, no blandos. Sácalos.",
+    "Mientras marina, lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos. Corta las cebollas en aros de medio centímetro.",
+    "Calienta la mitad del aceite en una sartén a fuego medio-alto y saltea los aros de cebolla 2-3 minutos: deben quedar brillantes y algo crujientes, no blandos. Sácalos.",
     "Escurre la carne guardando la marinada. Sube el fuego al máximo, añade el resto del aceite y dora la ternera en una sola capa, 1 minuto por lado, en dos tandas si hace falta. Sácala.",
     "Vierte la marinada y 80 ml de agua en la sartén y deja que hierva 2 minutos raspando el fondo, hasta que reduzca a una salsa ligera.",
     "Devuelve la carne a la salsa 30 segundos, pon los aros de cebolla encima y sirve enseguida con el arroz."
@@ -126,12 +126,12 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la panceta con la salsa de pescado, la chalota y el ajo picados y pimienta negra, y déjala 15 minutos. Mientras, cuece los huevos 9 minutos, enfríalos en agua y pélalos.",
+    "Pica la chalota y el ajo y mézclalos con la panceta, la salsa de pescado y pimienta negra; déjala 15 minutos. Mientras, cuece los huevos 9 minutos, enfríalos en agua y pélalos.",
     "En una cazuela, pon el azúcar con 1 cucharada de agua a fuego medio y no lo toques hasta que sea un caramelo color ámbar oscuro, unos 4 minutos. Vigílalo: si humea y huele a quemado, amarga.",
     "Echa la panceta con su marinada sobre el caramelo (cuidado con las salpicaduras) y remueve 3-4 minutos, hasta que se vea brillante y teñida de color caoba.",
     "Vierte el agua de coco, que debe cubrir justo la carne, y lleva a ebullición. Baja a fuego muy suave, tapa a medias y cuece 45 minutos, retirando la espuma de vez en cuando.",
-    "Añade los huevos pelados y el chile entero y cuece 20 minutos más, girando los huevos para que se tiñan por igual. El caldo debe reducirse a la mitad y la piel de la panceta ceder al pincharla.",
-    "Retira con una cuchara la grasa que flota en la superficie. Mientras, cuece el arroz con 210 ml de agua, tapado y a fuego mínimo, 12 minutos, y corta el pepino en bastones.",
+    "Añade los huevos pelados y el chile entero y cuece 20 minutos más, girando los huevos para que se tiñan por igual. El caldo debe reducirse a la mitad y la piel de la panceta ceder al pincharla. Mientras, cuece el arroz con 210 ml de agua, tapado y a fuego mínimo, 12 minutos, y corta el pepino en bastones.",
+    "Retira con una cuchara la grasa que flota en la superficie.",
     "Sirve la panceta y los huevos partidos por la mitad con su salsa sobre el arroz, y el pepino al lado para refrescar."
   ],
   nutricion: { kcal: 915, prot: 38, hc: 81, grasa: 49 },
@@ -223,10 +223,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura 4 chalotas, el ajo, el jengibre y el cilantro molido con 2 cucharadas de agua hasta tener una pasta fina (bumbu).",
-    "Pon la carne entera en la cazuela con el bumbu, el agua de coco, el laurel, el azúcar de palma, el tamarindo, 1 cucharadita de sal y agua justa para cubrir. Lleva a ebullición, espuma, tapa a medias y cuece a fuego suave 75 minutos, hasta que un cuchillo entre sin resistencia.",
+    "Pon la carne entera en la cazuela con el bumbu, el agua de coco, el laurel, el azúcar de palma, el tamarindo, 1 cucharadita de sal y agua justa para cubrir. Lleva a ebullición, espuma, tapa a medias y cuece a fuego suave 75 minutos, hasta que un cuchillo entre sin resistencia. Mientras, corta el pepino en bastones, la col en gajos finos y los tomates en cuartos.",
     "Destapa, sube el fuego y reduce 10 minutos, dándole la vuelta a la carne, hasta que el líquido quede como un almíbar espeso. Saca la carne, déjala templar 10 minutos y reserva el jugo.",
-    "Mientras, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos. Corta el pepino en bastones y la col en gajos finos.",
-    "Para el sambal, fríe en la sartén con 1 cucharada de aceite los tomates en cuartos, los chiles y las 2 chalotas restantes 5 minutos, hasta que se ablanden; machácalos en el mortero con la pasta de gambas, sal y el zumo de media lima.",
+    "Mientras, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
+    "Para el sambal, fríe en la sartén con 1 cucharada de aceite los tomates, los chiles y las 2 chalotas restantes 5 minutos, hasta que se ablanden; machácalos en el mortero con la pasta de gambas, sal y el zumo de media lima.",
     "Corta la carne contra la fibra en filetes de 1,5 cm y golpea cada uno con un mazo o el fondo de un cazo hasta que se abra y quede de algo menos de 1 cm, sin romperse (gepuk significa «golpeado»).",
     "Calienta el resto del aceite en la sartén a fuego medio-alto y dora los filetes 1-2 minutos por cara, hasta que estén caramelizados y crujientes por los bordes; píntalos al final con una cucharada del jugo reservado.",
     "Sirve el empal con el arroz, el sambal, el pepino, la col y cuñas de la otra media lima."
@@ -271,10 +271,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Machaca en el mortero o tritura el ajo, los tallos del cilantro y la pimienta blanca hasta tener una pasta. Mézclala en un bol con la soja, la salsa de ostras, la salsa de pescado, el azúcar de palma, el aceite y 2 cucharadas de la leche de coco hasta que el azúcar se disuelva.",
     "Corta el cerdo en tiras de 1 cm de grosor y unos 3 × 6 cm, mézclalo con la marinada y déjalo al menos 30 minutos en la nevera (mejor 2 horas o toda la noche). Pon a remojar 6-8 palitos de brocheta en agua.",
-    "Lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; déjalo reposar tapado.",
+    "Mientras marina, lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; déjalo reposar tapado. Corta el pepino en rodajas, la lima en cuñas y el chile en rodajas, y deshoja el cilantro.",
     "Ensarta la carne en los palitos doblando las tiras en zigzag y apretándolas para que no queden huecos.",
     "Calienta la plancha a fuego medio-alto y asa las brochetas 8-10 minutos, girándolas cada 2 minutos y pintándolas con el resto de la leche de coco, hasta que estén hechas, brillantes y con los bordes tostados. Si se oscurecen demasiado deprisa, baja el fuego: el azúcar se quema enseguida.",
-    "Corta el pepino en rodajas y la lima en cuñas. Sirve las brochetas con el arroz, el pepino, las hojas de cilantro y el chile en rodajas."
+    "Sirve las brochetas con el arroz, el pepino, las cuñas de lima, las hojas de cilantro y el chile."
   ],
   nutricion: { kcal: 790, prot: 38, hc: 75, grasa: 37 },
   etiquetas: ["tradicional", "a la plancha", "sin lácteos", "para niños", "económica"],
@@ -360,12 +360,12 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Saca las chuletas de la nevera 15 minutos antes. Pon a cocer el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
+    "Saca las chuletas de la nevera 15 minutos antes. Pon a cocer el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos. Mientras, pica la chalota y el ajo, corta el chile en rodajas y parte el pak choi a lo largo.",
     "Tuesta la pimienta machacada en la sartén en seco 1 minuto a fuego medio, hasta que huela intensamente. Resérvala.",
     "Sala ligeramente las chuletas. Calienta el aceite en la sartén a fuego fuerte y márcalas 2 minutos por cada lado, hasta que estén doradas y rosadas por dentro. Déjalas reposar en un plato.",
-    "Baja el fuego a medio, retira el exceso de grasa y funde la mantequilla. Sofríe la chalota y el ajo picados y el chile en rodajas 2 minutos, sin que se quemen.",
+    "Baja el fuego a medio, retira el exceso de grasa y funde la mantequilla. Sofríe la chalota, el ajo y el chile 2 minutos, sin que se quemen.",
     "Añade la pimienta tostada, la salsa de ostras, la soja oscura, el azúcar y 3 cucharadas de agua. Cuando burbujee y espese, unos 30 segundos, devuelve las chuletas con su jugo y dales vueltas para glasearlas.",
-    "Mientras, saltea el pak choi partido a lo largo en el wok con 2 cucharadas de agua y una pizca de sal, 2-3 minutos, hasta que los tallos estén tiernos pero crujientes.",
+    "Mientras, saltea el pak choi en el wok con 2 cucharadas de agua y una pizca de sal, 2-3 minutos, hasta que los tallos estén tiernos pero crujientes.",
     "Sirve las chuletas napadas con la salsa, el pak choi y el arroz."
   ],
   nutricion: { kcal: 740, prot: 33, hc: 68, grasa: 37 },
@@ -408,10 +408,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Tritura el ajo, las chalotas, el jengibre, el cilantro molido, la cúrcuma, 1 cucharada de aceite y una pizca de sal hasta tener una pasta.",
     "Unta el pavo con la pasta y deja que tome sabor mientras empiezas la guarnición.",
-    "Corta el boniato con piel en gajos, mézclalo con el resto del aceite y sal y hornéalo 15 minutos en la bandeja.",
-    "Aparta el boniato a los lados, coloca el pavo en el centro y las judías verdes despuntadas alrededor. Hornea 20 minutos.",
+    "Corta el boniato con piel en gajos, mézclalo con el resto del aceite y sal y hornéalo 15 minutos en la bandeja. Mientras, despunta las judías verdes.",
+    "Aparta el boniato a los lados, coloca el pavo en el centro y las judías verdes alrededor. Hornea 20 minutos. Mientras, prepara el sambal: pica fino el tomate y los chiles y mézclalos con el zumo de la lima y sal.",
     "Pinta el pavo con la soja dulce, pon el gratinador y hornea 5 minutos más, hasta que el glaseado burbujee y se tueste en los bordes. El jugo del pavo debe salir transparente al pincharlo.",
-    "Mientras, prepara el sambal: pica fino el tomate y los chiles y mézclalos con el zumo de la lima y sal.",
     "Corta el pavo en tiras y sírvelo con el boniato, las judías y el sambal por encima."
   ],
   nutricion: { kcal: 615, prot: 37, hc: 69, grasa: 21 },
@@ -449,12 +448,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos, y déjalo reposar.",
+    "Cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos, y déjalo reposar. Mientras, pica el tomate y la cebolla morada y mézclalos con el vinagre y sal.",
     "Asa las berenjenas enteras directamente sobre la llama del fuego de gas (o bajo el gratinador a máxima potencia), girándolas, 8-10 minutos, hasta que la piel esté negra y la pulpa blanda al apretar.",
     "Déjalas templar 2 minutos y pélalas con cuidado dejando el rabito. Aplástalas sobre un plato con un tenedor, abriéndolas en abanico sin separarlas del rabo.",
     "Bate los huevos con el ajo rallado, sal y pimienta. Pasa cada berenjena por el huevo para que quede bien empapada.",
     "Calienta el aceite en una sartén a fuego medio. Coloca una berenjena cogiéndola por el rabo, vierte por encima la mitad del huevo sobrante y cuaja 2-3 minutos por lado, hasta que esté dorada. Repite con la otra.",
-    "Mezcla el tomate y la cebolla morada picados con el vinagre y sal.",
     "Sirve cada tortilla con el arroz, la ensalada y el kétchup para mojar."
   ],
   nutricion: { kcal: 610, prot: 20, hc: 78, grasa: 24 },
@@ -492,12 +490,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 9 minutos, enfríalos en agua fría y pélalos. Sécalos muy bien con papel de cocina. A la vez, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
-    "Tritura los chiles, las chalotas, el ajo y los tomates hasta obtener una pasta gruesa, no un puré fino.",
+    "Cuece los huevos 9 minutos. A la vez, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos. Mientras, tritura los chiles, las chalotas, el ajo y los tomates hasta obtener una pasta gruesa, no un puré fino, y corta el pepino en rodajas.",
+    "Enfría los huevos en agua fría y pélalos. Sécalos muy bien con papel de cocina.",
     "Calienta el aceite en una sartén a fuego medio-alto y fríe los huevos enteros 4-5 minutos, girándolos, hasta que la superficie esté dorada y con ampollas. Tápalos a medias porque salpican. Sácalos.",
     "En el mismo aceite, sofríe la pasta de chile a fuego medio 10 minutos, removiendo, hasta que el agua se evapore, oscurezca y el aceite se separe. Añade el azúcar, sal y el zumo de lima.",
     "Haz unos cortes superficiales en los huevos, devuélvelos a la sartén y dales vueltas 1 minuto para que se cubran de sambal.",
-    "Sirve con el arroz y el pepino en rodajas."
+    "Sirve con el arroz y el pepino."
   ],
   nutricion: { kcal: 600, prot: 20, hc: 72, grasa: 25 },
   etiquetas: ["tradicional", "picante", "sin gluten", "económica"],
@@ -540,8 +538,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla la harina con el huevo, el agua, el azúcar y 1 cucharadita de sal y amasa 10 minutos, hasta que la masa esté lisa y elástica. Divídela en 4 bolas, úntalas generosamente con el aceite, tápalas y déjalas reposar al menos 1 hora: el reposo es lo que permite estirarlas sin que se rompan.",
-    "Mientras, lava las lentejas y cuécelas con 600 ml de agua, la cúrcuma y la patata en dados 20 minutos, hasta que las lentejas se deshagan.",
-    "En una sartén pequeña calienta 1 cucharadita de ghee y fríe las semillas de mostaza hasta que salten; añade la guindilla, la chalota y el ajo picados y sofríe 4 minutos. Añade el curry y el tomate picado y cocina 3 minutos.",
+    "Mientras, pela la patata y córtala en dados; lava las lentejas y cuécelas con 600 ml de agua, la cúrcuma y la patata 20 minutos, hasta que las lentejas se deshagan. Mientras se cuecen, pica la chalota, el ajo y el tomate.",
+    "En una sartén pequeña calienta 1 cucharadita de ghee y fríe las semillas de mostaza hasta que salten; añade la guindilla, la chalota y el ajo y sofríe 4 minutos. Añade el curry y el tomate y cocina 3 minutos.",
     "Vierte el sofrito en las lentejas, sala y cuece 5 minutos más. Debe quedar un dal fluido, para mojar.",
     "Unta la encimera con aceite y aplasta una bola con la palma; estírala tirando suavemente de los bordes hasta que esté tan fina que se transparente (unos 40 cm). Pinta con ghee.",
     "Dobla los lados hacia el centro formando un cuadrado con varias capas. Repite con las demás.",
@@ -586,13 +584,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 9 minutos, enfríalos y pélalos. Sécalos y rebózalos en la mitad de la cúrcuma con una pizca de sal.",
+    "Cuece los huevos 9 minutos; mientras, corta la cebolla en juliana fina y ralla el ajo, el jengibre y los tomates. Enfría los huevos, pélalos, sécalos y rebózalos en la mitad de la cúrcuma con una pizca de sal.",
     "Calienta el aceite en una cazuela a fuego medio y dora los huevos 3-4 minutos, girándolos, hasta que tengan una piel dorada. Sácalos.",
-    "En el mismo aceite, rehoga la cebolla en juliana fina a fuego medio 12 minutos, hasta que esté blanda y dorada. Añade el ajo y el jengibre rallados y cocina 2 minutos.",
-    "Agrega el resto de la cúrcuma, el pimentón y el chile, remueve 30 segundos y añade los tomates rallados.",
-    "Cuece 10 minutos a fuego medio, hasta que el tomate se deshaga y el aceite empiece a separarse por los bordes. Añade la soja y 100 ml de agua.",
-    "Devuelve los huevos, partidos por la mitad o con unos cortes, y cuece 5 minutos para que tomen sabor. Mientras, cuece el arroz con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
-    "Sirve el curry con el cilantro picado y el arroz."
+    "En el mismo aceite, rehoga la cebolla a fuego medio 12 minutos, hasta que esté blanda y dorada. Añade el ajo y el jengibre y cocina 2 minutos.",
+    "Agrega el resto de la cúrcuma, el pimentón y el chile, remueve 30 segundos y añade los tomates.",
+    "Cuece 10 minutos a fuego medio, hasta que el tomate se deshaga y el aceite empiece a separarse por los bordes. Mientras, cuece el arroz con 210 ml de agua, tapado y a fuego mínimo, 12 minutos, y pica el cilantro. Añade al curry la soja y 100 ml de agua.",
+    "Devuelve los huevos, partidos por la mitad o con unos cortes, y cuece 5 minutos para que tomen sabor.",
+    "Sirve el curry con el cilantro por encima y el arroz."
   ],
   nutricion: { kcal: 620, prot: 21, hc: 77, grasa: 25 },
   etiquetas: ["tradicional", "económica", "batch cooking"],
@@ -634,10 +632,10 @@ window.RECETAS_SEED.push({
     "Pela y ralla el nabo grueso. Cuécelo en el wok con 100 ml del agua y una pizca de sal 8 minutos, hasta que esté translúcido.",
     "Mezcla la harina de arroz, la maicena, el resto del agua, 1 cucharadita de sal y pimienta blanca, y añade el nabo con su líquido. Remueve a fuego suave 2 minutos, hasta que empiece a espesar como una papilla.",
     "Vierte la masa en un molde engrasado de unos 18 × 18 cm, alisa y cuécela al vapor sobre una cazuela con agua hirviendo, tapada, 40 minutos, hasta que al pinchar con un palillo salga limpio.",
-    "Deja que se enfríe por completo, al menos 40 minutos (puedes acelerar 20 minutos en el congelador): caliente se deshace. Córtalo en dados de 2 cm.",
+    "Deja que se enfríe por completo, al menos 40 minutos (puedes acelerar 20 minutos en el congelador): caliente se deshace. Mientras, pica el ajo y la cebolleta, corta el chile en rodajas y bate los huevos. Corta el pastel frío en dados de 2 cm.",
     "Calienta 3 cucharadas de aceite en el wok a fuego medio-alto y dora los dados 8-10 minutos, girándolos con paciencia, hasta que tengan costra por varias caras.",
-    "Añade el resto del aceite y el ajo picado y saltea 30 segundos. Riega con la soja (y la soja dulce si haces la versión negra) y mezcla.",
-    "Vierte los huevos batidos por encima, deja que cuajen sin tocar 1 minuto y luego remueve en trozos grandes para que el huevo envuelva los dados. Sirve con la cebolleta picada y el chile."
+    "Añade el resto del aceite y el ajo y saltea 30 segundos. Riega con la soja (y la soja dulce si haces la versión negra) y mezcla.",
+    "Vierte los huevos batidos por encima, deja que cuajen sin tocar 1 minuto y luego remueve en trozos grandes para que el huevo envuelva los dados. Sirve con la cebolleta y el chile."
   ],
   nutricion: { kcal: 630, prot: 17, hc: 81, grasa: 26 },
   etiquetas: ["tradicional", "para invitados", "verduras escondidas"],
@@ -769,11 +767,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Haz el acar: corta el pepino en daditos y las chalotas en gajos finos y mézclalos con el vinagre, el azúcar, una pizca de sal y medio chile en rodajas. Deja macerar mientras cocinas.",
-    "Seca el tofu con papel y desmenúzalo con los dedos. Pica la cebolleta, también la parte verde, y el ajo.",
+    "Seca el tofu con papel y desmenúzalo con los dedos. Pica la cebolleta, también la parte verde, el ajo y el resto del chile.",
     "Bate los huevos con el curry, sal y pimienta blanca, y mezcla el tofu, la cebolleta y el ajo.",
     "Calienta 1 cucharada de aceite en una sartén grande a fuego medio. Pon una tortilla, vierte encima la mitad del relleno extendiéndolo hasta 1 cm del borde y cúbrela enseguida con otra tortilla, presionando con la espátula.",
     "Cocina 3-4 minutos, hasta que la base esté dorada y el huevo empiece a cuajar por los bordes. Dale la vuelta con ayuda de un plato y cocina 3 minutos más, hasta que el huevo esté cuajado y la tortilla crujiente. Repite con el resto.",
-    "Mezcla la soja dulce con el resto del chile picado. Corta cada martabak en 8 cuadrados y sírvelos con el acar escurrido y la salsa para mojar."
+    "Mezcla la soja dulce con el chile picado. Corta cada martabak en 8 cuadrados y sírvelos con el acar escurrido y la salsa para mojar."
   ],
   nutricion: { kcal: 690, prot: 31, hc: 60, grasa: 36 },
   etiquetas: ["creativa", "rápida", "económica", "para niños"],
@@ -864,13 +862,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela el boniato, córtalo en dados y cuécelo en el caldo 15 minutos, hasta que se deshaga. Tritúralo con el caldo hasta obtener un puré fluido.",
+    "Pon las guindillas en remojo en agua caliente. Pela el boniato, córtalo en dados y cuécelo en el caldo 15 minutos, hasta que se deshaga. Tritúralo con el caldo hasta obtener un puré fluido.",
     "Mientras, tritura las chalotas, el ajo, el jengibre y las guindillas escurridas con 2 cucharadas de agua hasta tener una pasta (rempah). Cuece los huevos 9 minutos, enfríalos y pélalos.",
     "Corta el tofu en dados de 2 cm, sécalo y dóralo en una cazuela con 1 cucharada de aceite 6-8 minutos, hasta que esté crujiente. Resérvalo.",
     "En la misma cazuela, con el resto del aceite, sofríe la rempah a fuego medio 6 minutos, removiendo, hasta que oscurezca y el aceite se separe. Añade el curry en polvo y el miso y remueve 1 minuto.",
-    "Vierte el puré de boniato y el azúcar, mezcla bien y cuece a fuego suave 8 minutos, removiendo para que no se pegue: debe quedar una salsa espesa como unas natillas ligeras. Ajusta de sal y aclara con agua si hace falta.",
-    "Cuece los fideos en agua hirviendo según el envase (unos 4 minutos) y añade los brotes de soja los últimos 20 segundos. Escurre y reparte en cuencos hondos.",
-    "Cubre con la salsa caliente y coloca encima el tofu, los huevos partidos por la mitad, el chile verde en rodajas, la cebolla frita y cuñas de lima para exprimir."
+    "Vierte el puré de boniato y el azúcar, mezcla bien y cuece a fuego suave 8 minutos, removiendo para que no se pegue: debe quedar una salsa espesa como unas natillas ligeras. Ajusta de sal y aclara con agua si hace falta. Mientras, pon a hervir agua para los fideos, corta el chile verde en rodajas y la lima en cuñas.",
+    "Cuece los fideos en el agua hirviendo según el envase (unos 4 minutos) y añade los brotes de soja los últimos 20 segundos. Escurre y reparte en cuencos hondos.",
+    "Cubre con la salsa caliente y coloca encima el tofu, los huevos partidos por la mitad, el chile verde, la cebolla frita y las cuñas de lima para exprimir."
   ],
   nutricion: { kcal: 795, prot: 30, hc: 101, grasa: 30 },
   etiquetas: ["creativa", "picante", "invierno", "económica"],
@@ -911,13 +909,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Remoja los fideos de cristal en agua caliente 10 minutos, escúrrelos y córtalos con tijera en trozos de 3 cm. Pica fino las setas, ralla la zanahoria y pica la cebolleta.",
+    "Remoja los fideos de cristal en agua caliente 10 minutos. Mientras, pica fino las setas, ralla la zanahoria y pica la cebolleta. Escurre los fideos y córtalos con tijera en trozos de 3 cm.",
     "Separa 1 yema y resérvala. Bate el resto de los huevos con 1 cucharada de soja y pimienta, sin hacer espuma, y mézclalos con los fideos, las setas, la zanahoria y la cebolleta.",
     "Unta con el aceite un plato hondo o molde que quepa en tu cazuela y vierte la mezcla. Pon a hervir 3 dedos de agua en la cazuela con una rejilla o un aro dentro.",
-    "Coloca el molde sobre la rejilla, tapa (envuelve la tapa en un paño para que no goteen gotas de vapor) y cuece a fuego medio-bajo 20 minutos, hasta que el centro esté firme.",
-    "Pinta la superficie con la yema batida y cuece 3 minutos más destapado a medias, hasta que quede una capa amarilla brillante. Mientras, cuece el arroz con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
-    "Prepara el nuoc cham vegetariano: mezcla la otra cucharada de soja, el zumo de la lima, el azúcar, 3 cucharadas de agua, el ajo picado y el chile en rodajas.",
-    "Corta el flan en porciones y sírvelo con el arroz, el pepino y el tomate en rodajas y la salsa por encima."
+    "Coloca el molde sobre la rejilla, tapa (envuelve la tapa en un paño para que no goteen gotas de vapor) y cuece a fuego medio-bajo 20 minutos, hasta que el centro esté firme. Mientras, cuece el arroz con 210 ml de agua, tapado y a fuego mínimo, 12 minutos, y prepara el nuoc cham vegetariano: pica el ajo, corta el chile en rodajas y mézclalos con la otra cucharada de soja, el zumo de la lima, el azúcar y 3 cucharadas de agua. Corta el pepino y el tomate en rodajas.",
+    "Pinta la superficie con la yema batida y cuece 3 minutos más destapado a medias, hasta que quede una capa amarilla brillante.",
+    "Corta el flan en porciones y sírvelo con el arroz, el pepino y el tomate y la salsa por encima."
   ],
   nutricion: { kcal: 585, prot: 26, hc: 87, grasa: 15 },
   etiquetas: ["creativa", "económica", "ideal para llevar"],
@@ -1009,13 +1006,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la salsa (sawsawan): mezcla el vinagre con el ajo y la chalota picados, el chile en rodajas, pimienta y una pizca de sal. Déjala reposar mientras cocinas.",
-    "Pela el boniato y la zanahoria y córtalos en bastones finos como cerillas (o rállalos grueso). Corta la cebolleta en trozos de 3 cm.",
+    "Prepara la salsa (sawsawan): pica el ajo y la chalota, corta el chile en rodajas y mézclalos con el vinagre, pimienta y una pizca de sal. Déjala reposar mientras cocinas.",
+    "Pela el boniato y la zanahoria y córtalos en bastones finos como cerillas (o rállalos grueso). Corta la cebolleta en trozos de 3 cm y el tomate y el pepino en dados.",
     "En un bol bate los huevos con el agua con gas, la harina, la maicena y 1 cucharadita de sal hasta tener una masa ligera. Mezcla con el boniato, la zanahoria, los brotes y la cebolleta.",
     "Calienta el aceite en una sartén amplia a fuego medio-alto (unos 175 °C: una gota de masa debe burbujear al momento).",
     "Con un cucharón, pon montoncitos de masa y aplánalos para que queden finos e irregulares. Fríelos 3 minutos por lado, hasta que estén dorados y crujientes. Hazlo en tandas para que el aceite no se enfríe.",
     "Escúrrelos sobre una rejilla o papel de cocina y sálalos al momento.",
-    "Corta el tomate y el pepino en dados, aliña con sal y una cucharada de la salsa, y sirve los ukoy recién hechos mojándolos en el vinagre picante."
+    "Aliña el tomate y el pepino con sal y una cucharada de la salsa, y sirve los ukoy recién hechos mojándolos en el vinagre picante."
   ],
   nutricion: { kcal: 670, prot: 16, hc: 83, grasa: 30 },
   etiquetas: ["creativa", "frito", "para niños", "económica"],
@@ -1059,12 +1056,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz lavado con 240 ml de agua, tapado y a fuego mínimo, 12 minutos. Extiéndelo en una bandeja y deja que se enfríe 15 minutos.",
+    "Cuece el arroz lavado con 240 ml de agua, tapado y a fuego mínimo, 12 minutos. Extiéndelo en una bandeja y deja que se enfríe 15 minutos. Mientras, corta el tofu en dados y sécalo bien; corta las chalotas en rodajas finas y la cebolleta en aros, deshoja el cilantro y la menta, y mezcla en un bol el zumo de la lima, la soja y el azúcar hasta que se disuelva.",
     "Mezcla el arroz frío con el huevo, el coco, la cúrcuma, el chile en polvo, el ajo rallado y 1 cucharadita de sal. Amasa con las manos y forma 6 bolas apretadas.",
     "Calienta el aceite en una sartén pequeña y honda a 180 °C. Fríe las bolas 6-8 minutos, girándolas, hasta que estén muy doradas y crujientes por fuera. Escúrrelas.",
-    "En el mismo aceite fríe el tofu en dados, bien seco, 5 minutos, hasta que esté dorado; y por último los cacahuetes 1 minuto. Escurre todo.",
-    "Mezcla en un bol el zumo de la lima, la soja y el azúcar hasta que se disuelva. Corta las chalotas en rodajas finas y la cebolleta en aros.",
-    "Desmenuza las bolas de arroz con las manos en trozos irregulares, crujientes y tiernos a la vez. Añade el tofu, los cacahuetes, la chalota, la cebolleta, las hierbas deshojadas y el aliño, y mezcla con suavidad.",
+    "En el mismo aceite fríe el tofu 5 minutos, hasta que esté dorado; y por último los cacahuetes 1 minuto. Escurre todo.",
+    "Desmenuza las bolas de arroz con las manos en trozos irregulares, crujientes y tiernos a la vez. Añade el tofu, los cacahuetes, la chalota, la cebolleta, las hierbas y el aliño, y mezcla con suavidad.",
     "Sirve enseguida con hojas de lechuga para envolver cada bocado."
   ],
   nutricion: { kcal: 915, prot: 30, hc: 83, grasa: 51 },
@@ -1109,7 +1105,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Bate la harina de arroz con la cúrcuma, la leche de coco, el agua, la parte verde de la cebolleta picada y media cucharadita de sal. Debe quedar una masa muy líquida, como nata ligera. Déjala reposar 30 minutos.",
+    "Pica la cebolleta, separando la parte verde de la blanca. Bate la harina de arroz con la cúrcuma, la leche de coco, el agua, la parte verde de la cebolleta y media cucharadita de sal. Debe quedar una masa muy líquida, como nata ligera. Déjala reposar 30 minutos.",
     "Mientras, prepara la salsa: mezcla la soja, el zumo de la lima, el azúcar, 4 cucharadas de agua, el ajo picado y el chile en rodajas hasta que el azúcar se disuelva.",
     "Corta el tofu en tiras finas y sécalo. Lamina las setas. Dora el tofu en una sartén con 1 cucharada de aceite 5 minutos; añade las setas y la parte blanca de la cebolleta y saltea 3 minutos más con una pizca de sal. Resérvalo.",
     "Lava la lechuga y las hierbas y sepáralas en hojas en una fuente.",
@@ -1158,12 +1154,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado y a fuego mínimo, 12 minutos; déjalo reposar tapado.",
-    "Seca el tofu apretándolo entre papel de cocina, córtalo en dados de 1 cm y rebózalo en la maicena con una pizca de sal. Corta las setas en trozos pequeños, de 1 cm, y pica la cebolla morada, el ajo y el chile.",
+    "Seca el tofu apretándolo entre papel de cocina, córtalo en dados de 1 cm y rebózalo en la maicena con una pizca de sal. Corta las setas en trozos pequeños, de 1 cm, pica la cebolla morada, el ajo y el chile, corta la cebolleta en aros y la otra lima en cuñas.",
     "Calienta 2 cucharadas de aceite en la sartén a fuego medio-alto y fríe el tofu 6-8 minutos, removiendo, hasta que esté dorado y crujiente. Sácalo.",
     "En la misma sartén, sin añadir aceite, saltea las setas a fuego fuerte 6-7 minutos, hasta que suelten el agua, la evaporen y se tuesten por los bordes.",
     "Añade el resto del aceite, el ajo, la mitad de la cebolla y el chile y saltea 2 minutos. Riega con la soja y el vinagre y deja que se evaporen 1 minuto.",
     "Devuelve el tofu, saltea 1 minuto más, apaga el fuego y aliña con el zumo de 1 lima y mucha pimienta. Si la usas, mezcla ahora la mayonesa.",
-    "Sirve el sisig chisporroteando en la sartén (o en una fuente de hierro muy caliente) con el resto de la cebolla cruda, la cebolleta en aros, cuñas de la otra lima y el arroz."
+    "Sirve el sisig chisporroteando en la sartén (o en una fuente de hierro muy caliente) con el resto de la cebolla cruda, la cebolleta, las cuñas de lima y el arroz."
   ],
   nutricion: { kcal: 740, prot: 31, hc: 81, grasa: 32 },
   etiquetas: ["creativa", "vegana", "picante", "sin lácteos"],
