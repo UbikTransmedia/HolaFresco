@@ -521,9 +521,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Pon las placas de lasaña en remojo en agua caliente 10 minutos para que se ablanden.",
+    "Precalienta el horno a 190 °C. Pon las placas de lasaña en remojo en agua caliente 10 minutos para que se ablanden. Mientras, pica las cebolletas y el eneldo y desmiga la feta.",
     "Saltea las espinacas en una sartén grande con el aceite a fuego fuerte, por tandas, 3–4 minutos, solo hasta que se ablanden. Pásalas a un colador y apriétalas con una cuchara para quitarles toda el agua; después pícalas.",
-    "Pica las cebolletas y rehógalas 3 minutos en la misma sartén. Mézclalas con las espinacas, el eneldo picado, la feta desmigada, pimienta y la nuez moscada.",
+    "Rehoga las cebolletas 3 minutos en la misma sartén. Mézclalas con las espinacas, el eneldo picado, la feta desmigada, pimienta y la nuez moscada.",
     "En un bol, bate el yogur griego con el huevo, la leche y el kefalotyri rallado hasta tener una crema lisa, con una pizca de sal.",
     "Unta el fondo de una fuente de unos 20 × 15 cm con 3 cucharadas de crema. Monta capas: placas, la mitad del relleno y un tercio de la crema; placas, el resto del relleno y otro tercio de crema; y termina con placas cubiertas con la crema restante.",
     "Tapa la fuente con papel de aluminio y hornea 25 minutos, hasta que la pasta empiece a ablandarse.",
@@ -831,7 +831,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Calienta el caldo y mantenlo a fuego mínimo. Pica las cebolletas y el ajo. Seca muy bien el calamar con papel de cocina.",
     "En una cazuela, calienta la mitad del aceite y pocha la cebolleta a fuego medio 5 minutos; añade el ajo y la cebada y remueve 2 minutos, hasta que los granos brillen.",
-    "Vierte el vino blanco y deja que se evapore. Añade dos cucharones de caldo y cuece a fuego medio, removiendo de vez en cuando y añadiendo caldo a medida que se absorba, 35–40 minutos, hasta que la cebada esté tierna pero con un punto de mordida. Mientras, pica el eneldo.",
+    "Vierte el vino blanco y deja que se evapore. Añade dos cucharones de caldo y cuece a fuego medio, removiendo de vez en cuando y añadiendo caldo a medida que se absorba, 35–40 minutos, hasta que la cebada esté tierna pero con un punto de mordida. Mientras, pica el eneldo, ralla la piel del limón y córtalo por la mitad: una mitad para exprimir y la otra en gajos.",
     "Cuando falten 5 minutos, añade las espinacas a puñados y la ralladura del limón y remueve hasta que se ablanden. La cebada debe quedar melosa, que se extienda despacio en el plato.",
     "Mientras, calienta una sartén con el resto del aceite a fuego muy fuerte y marca el calamar sin moverlo 1 minuto, dale la vuelta y cocina 1 minuto más, hasta que esté blanco y con bordes dorados. Sálalo al final: si lo cocinas más, se endurece.",
     "Fuera del fuego, añade a la cebada el zumo de medio limón, el eneldo picado y pimienta. Sirve con el calamar encima y gajos del limón restante."

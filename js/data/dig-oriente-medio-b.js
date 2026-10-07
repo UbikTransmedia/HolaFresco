@@ -744,8 +744,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Cuece la pasta en agua con sal 2 minutos menos de lo que indique el paquete, escúrrela y extiéndela para que no se pegue.",
-    "En una sartén, calienta el aceite de ajo a fuego vivo y dora la ternera 6-7 minutos, desmigándola, hasta que pierda el líquido y tenga puntos tostados. Añade la parte verde de la cebolleta picada, el tomate concentrado, el triturado, la pimienta de Jamaica, sal y pimienta, y cocina 8 minutos a fuego suave hasta que quede jugosa pero sin caldo.",
+    "Precalienta el horno a 190 °C. Cuece la pasta en agua con sal 2 minutos menos de lo que indique el paquete, escúrrela y extiéndela para que no se pegue. Mientras se cuece, pica la parte verde de la cebolleta.",
+    "En una sartén, calienta el aceite de ajo a fuego vivo y dora la ternera 6-7 minutos, desmigándola, hasta que pierda el líquido y tenga puntos tostados. Añade la cebolleta, el tomate concentrado, el triturado, la pimienta de Jamaica, sal y pimienta, y cocina 8 minutos a fuego suave hasta que quede jugosa pero sin caldo.",
     "Para la bechamel, derrite la mantequilla en un cazo a fuego medio, añade la harina de arroz y remueve 1-2 minutos sin que tome color. Vierte la leche templada poco a poco, batiendo con varillas, y cocina 5-6 minutos, hasta que espese y cubra el dorso de una cuchara. Sálala, añade nuez moscada y deja templar 3 minutos.",
     "Bate el huevo e incorpóralo a la bechamel batiendo rápido para que no cuaje: es el secreto de la capa alta y firme de la macarona egipcia.",
     "Mezcla la pasta con un tercio de la bechamel. En una fuente de unos 20 x 20 cm, extiende la mitad de la pasta, cubre con la carne, pon el resto de la pasta y termina con la bechamel restante y el parmesano.",
@@ -796,7 +796,7 @@ window.RECETAS_SEED.push({
     "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto. Añade las vainas de cardamomo abiertas, la canela, el comino y el resto de la cúrcuma y remueve 30 segundos.",
     "Añade el tomate rallado con la lima seca pinchada 2-3 veces con un cuchillo y cocina 5 minutos, hasta que el tomate se oscurezca y reduzca.",
     "Vierte el caldo caliente, sala y, cuando hierva, incorpora el arroz escurrido. Tapa y cuece 10 minutos a fuego mínimo. Coloca el pescado encima, vuelve a tapar y cocina 8 minutos más, hasta que el arroz haya absorbido el caldo y el pescado se separe en lascas. Reposa 5 minutos y retira la lima seca y la canela.",
-    "Mientras, prepara el daqqus: pica el tercer tomate muy fino y mézclalo con el zumo del otro medio limón, la mitad del cilantro picado y sal.",
+    "Mientras, prepara el daqqus: pica muy fino el tercer tomate y el cilantro, y mezcla el tomate con el zumo del otro medio limón, la mitad del cilantro y sal.",
     "Sirve el arroz con el pescado encima, el resto del cilantro y el daqqus aparte para ir añadiéndolo a cada bocado."
   ],
   nutricion: { kcal: 510, prot: 38, hc: 60, grasa: 11 },
@@ -973,7 +973,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pollo en trozos grandes. En una cazuela, calienta el aceite de ajo y el de oliva a fuego medio-bajo y rehoga el pollo con la parte verde de la cebolleta picada 3 minutos, sin que tome color: la sopa debe quedar blanca.",
+    "Corta el pollo en trozos grandes y pica la parte verde de la cebolleta. En una cazuela, calienta el aceite de ajo y el de oliva a fuego medio-bajo y rehoga el pollo con la cebolleta 3 minutos, sin que tome color: la sopa debe quedar blanca.",
     "Añade la canela en rama, pimienta blanca, sal y el agua. Lleva a ebullición, retira la espuma y cocina tapada a fuego suave 30 minutos, hasta que el pollo esté muy tierno. Mientras, pica el perejil.",
     "Saca el pollo y la canela. Desmenuza el pollo en hebras.",
     "Parte los fideos de arroz en trozos de 3 cm, échalos al caldo hirviendo y cuécelos 3-4 minutos, hasta que estén tiernos. Devuelve el pollo a la cazuela y baja el fuego al mínimo.",

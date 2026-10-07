@@ -38,10 +38,10 @@ window.RECETAS_SEED.push({
     "Limpia los rebozuelos con un pincel o un papel húmedo, sin lavarlos bajo el grifo: absorben agua y luego cuecen en vez de dorarse. Parte por la mitad los más grandes. Pica la cebolla fina y el cebollino.",
     "Funde la mitad de la mantequilla en una sartén a fuego medio y pocha la cebolla 5 minutos, hasta que esté transparente y blanda, sin que llegue a dorarse.",
     "Sube el fuego a fuerte y añade los rebozuelos. Primero soltarán su agua; sigue salteando 5-6 minutos hasta que se evapore del todo, las setas chisporroteen y se doren por los bordes. Sálalas ahora, no antes.",
-    "Casca los huevos en un bol y bátelos apenas con un tenedor, lo justo para romper las yemas: en la jajecznica se ven vetas de clara y de yema. Salpimienta. Tuesta ya el pan de centeno para tenerlo listo.",
+    "Casca los huevos en un bol y bátelos apenas con un tenedor, lo justo para romper las yemas: en la jajecznica se ven vetas de clara y de yema. Salpimienta. Tuesta ya el pan de centeno y corta los pepinillos a lo largo para tenerlo todo listo.",
     "Baja el fuego al mínimo, añade el resto de la mantequilla y vierte los huevos sobre las setas. Espera 20 segundos y, con una espátula, arrastra el huevo cuajado desde el borde hacia el centro formando grumos grandes. Repite durante 2-3 minutos.",
     "Retira la sartén del fuego cuando el revuelto aún brille húmedo: el calor residual lo termina en el plato y así queda jugoso.",
-    "Sirve el revuelto con mucho cebollino, el pan y los pepinillos cortados a lo largo."
+    "Sirve el revuelto con mucho cebollino, el pan y los pepinillos."
   ],
   nutricion: { kcal: 430, prot: 22, hc: 36, grasa: 21 },
   etiquetas: ["tradicional", "rápida", "una sola sartén", "verano", "otoño", "poco especiada"],
@@ -82,7 +82,7 @@ window.RECETAS_SEED.push({
     "Monta las claras con una pizca de sal hasta punto de nieve blando: al levantar las varillas, los picos se doblan en la punta. Si las montas demasiado, luego no se integran y quedan copos secos.",
     "Incorpora las claras a la mezcla en dos veces, con movimientos envolventes de abajo arriba, sin batir.",
     "Saca la fuente, inclínala para repartir la mantequilla y vierte la mezcla. Hornea 15-18 minutos sin abrir la puerta los primeros 12, hasta que haya subido, esté dorada y el centro apenas tiemble al mover la fuente.",
-    "Mientras, lamina los rábanos y corta el pepino en medias lunas finas. Mézclalos con el resto de la nata agria, el vinagre, el eneldo picado y sal.",
+    "Mientras, pica el eneldo, lamina los rábanos y corta el pepino en medias lunas finas. Mézclalos con el resto de la nata agria, el vinagre, el eneldo y sal.",
     "Sirve la drachena nada más salir del horno, cortada en cuñas, con la ensalada fría al lado: el contraste de temperatura y la acidez del rábano son la gracia. Baja a los pocos minutos, como cualquier soufflé."
   ],
   nutricion: { kcal: 450, prot: 21, hc: 20, grasa: 31 },
@@ -122,7 +122,7 @@ window.RECETAS_SEED.push({
     "Pon la panceta en la sartén en frío y enciende a fuego medio-bajo. Empezar en frío hace que suelte la grasa poco a poco sin quemarse: en 6-8 minutos tendrás trocitos dorados y crujientes en su propia grasa.",
     "Añade la cebolla y cocínala 5 minutos, hasta que esté blanda y con los bordes dorados. Coloca encima las rodajas de tomate y déjalas 1 minuto por cada lado, solo para que se ablanden sin deshacerse.",
     "Haz cuatro huecos y casca un huevo en cada uno. Sala solo las claras (la sal sobre la yema la mancha de puntitos blancos), tapa la sartén y cocina 2-3 minutos a fuego medio-bajo: el vapor cuaja la parte de arriba de la clara mientras la yema sigue líquida.",
-    "Mientras, tuesta el pan de centeno y frótalo con el diente de ajo crudo partido por la mitad, como los pampushky.",
+    "Mientras, tuesta el pan de centeno y frótalo con el diente de ajo crudo partido por la mitad, como los pampushky. Pica el eneldo.",
     "Termina con eneldo picado y pimienta negra recién molida y lleva la sartén a la mesa. Se moja el pan en la yema y en la grasa con tomate."
   ],
   nutricion: { kcal: 460, prot: 24, hc: 37, grasa: 23 },
@@ -160,10 +160,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos grandes y cuécelas en agua con sal unos 20 minutos, hasta que la punta de un cuchillo entre sin resistencia.",
-    "Mientras, pon las espinacas en un cazo con 3 cucharadas de agua, tapa y cuécelas a fuego medio 8 minutos, removiendo de vez en cuando, hasta que estén descongeladas y calientes.",
+    "Mientras, pon las espinacas en un cazo con 3 cucharadas de agua, tapa y cuécelas a fuego medio 8 minutos, removiendo de vez en cuando, hasta que estén descongeladas y calientes. Mientras, machaca el ajo con un poco de sal y pica el perejil.",
     "Prepara la jíška (el roux checo): funde 15 g de mantequilla en otro cazo, añade la harina y remueve 1-2 minutos hasta que huela a galleta y tome un color pajizo. Vierte la leche fría poco a poco batiendo con varillas; en 2 minutos espesará sin grumos.",
-    "Mezcla las espinacas con la salsa y añade el ajo machacado en crudo con un poco de sal: en Chequia se pone al final para que se note. Cuece 3-4 minutos a fuego suave hasta que la crema caiga lenta de la cuchara; si espesa demasiado, aclárala con un chorrito de leche.",
-    "Escurre las patatas, devuélvelas al cazo con el resto de la mantequilla y el perejil picado y agita para que se impregnen.",
+    "Mezcla las espinacas con la salsa y añade el ajo machacado en crudo: en Chequia se pone al final para que se note. Cuece 3-4 minutos a fuego suave hasta que la crema caiga lenta de la cuchara; si espesa demasiado, aclárala con un chorrito de leche.",
+    "Escurre las patatas, devuélvelas al cazo con el resto de la mantequilla y el perejil y agita para que se impregnen.",
     "Fríe los huevos en el aceite a fuego medio, sin puntilla, unos 3 minutos: la clara cuajada y blanca y la yema líquida. Sálalos.",
     "Sirve en cada plato una buena cucharada de espinacas, las patatas al lado y dos huevos encima. La gracia es romper la yema sobre las espinacas."
   ],
@@ -203,9 +203,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las patatas con piel a cocer en agua con sal, 20 minutos. En otro cazo, lleva agua a ebullición, mete los huevos con cuidado y cuécelos 10 minutos exactos; pásalos a agua fría 2 minutos: deben estar duros pero sin el anillo verde de la yema pasada.",
+    "Pon las patatas con piel a cocer en agua con sal, 20 minutos. En otro cazo, lleva agua a ebullición, mete los huevos con cuidado y cuécelos 10 minutos exactos; pásalos a agua fría 2 minutos: deben estar duros pero sin el anillo verde de la yema pasada. Mientras se cuecen, pica el eneldo y el cebollino.",
     "Corta cada huevo por la mitad a lo largo, con cáscara, con un cuchillo de sierra bien afilado y un movimiento firme y decidido. Vacía cada mitad con una cucharilla, raspando por dentro, sin romper la cáscara.",
-    "Pica muy fino las claras y las yemas y mézclalas con 15 g de mantequilla blanda, 2 cucharadas de nata agria, la mitad del eneldo y el cebollino picados, sal y bastante pimienta.",
+    "Pica muy fino las claras y las yemas y mézclalas con 15 g de mantequilla blanda, 2 cucharadas de nata agria, la mitad del eneldo, el cebollino, sal y bastante pimienta.",
     "Rellena las cáscaras con la mezcla formando una cúpula ligeramente abombada y alísala. Moja la cara del relleno en el pan rallado, apretando para que se pegue.",
     "Funde el resto de la mantequilla en una sartén a fuego medio y coloca los huevos boca abajo, con el relleno contra la sartén. Dóralos 3-4 minutos, sin moverlos, hasta que tengan una costra dorada y crujiente.",
     "Para la ensalada (sałata ze śmietaną), separa las hojas de lechuga, lávalas y sécalas bien. Mezcla el resto de la nata agria con el zumo del limón, la pizca de azúcar, sal y el resto del eneldo y aliña justo al servir.",
@@ -252,13 +252,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos.",
-    "Lleva el caldo a ebullición, viértelo sobre la soja y déjala hidratar 10 minutos; mientras, pica la cebolla muy fina. Escurre la soja en un colador y apriétala con las manos con fuerza: cuanto más seca, mejor se dora y mejor se sostienen las chuletas. Guarda 4 cucharadas del caldo escurrido.",
-    "Pocha la cebolla en 1 cucharada de aceite a fuego medio 6-7 minutos, hasta que esté dorada; añade el ajo picado y la soja y saltea 4 minutos más, hasta que la soja huela a tostado. Este dorado previo es lo que le da sabor «a carne».",
+    "Lleva el caldo a ebullición, viértelo sobre la soja y déjala hidratar 10 minutos; mientras, pica la cebolla muy fina, el ajo y el eneldo. Escurre la soja en un colador y apriétala con las manos con fuerza: cuanto más seca, mejor se dora y mejor se sostienen las chuletas. Guarda 4 cucharadas del caldo escurrido.",
+    "Pocha la cebolla en 1 cucharada de aceite a fuego medio 6-7 minutos, hasta que esté dorada; añade el ajo y la soja y saltea 4 minutos más, hasta que la soja huela a tostado. Este dorado previo es lo que le da sabor «a carne».",
     "Remoja el pan en el caldo reservado y desmenúzalo. En un bol, mezcla la soja templada con el pan, el huevo, la mejorana, sal y pimienta y amasa 1 minuto con la mano hasta que la masa se compacte.",
     "Forma 6 chuletas ovaladas de 1,5 cm de grosor y rebózalas en pan rallado, presionando con la palma para que se adhiera bien.",
     "Calienta 2 cucharadas de aceite en una sartén antiadherente amplia a fuego medio y dora las kotlety 4 minutos por cada lado, sin moverlas, hasta que tengan una costra dorada y crujiente: no necesitan nadar en aceite, basta con que el fondo esté cubierto. Escúrrelas sobre papel.",
     "Para los buraczki, ralla la remolacha con el rallador grueso y caliéntala en un cazo con la mantequilla 5 minutos; aliña con el zumo del limón, sal y pimienta: tiene que quedar dulce y ácida a la vez.",
-    "Escurre las patatas, espolvoréalas con el eneldo picado y sirve con las kotlety y la remolacha templada."
+    "Escurre las patatas, espolvoréalas con el eneldo y sirve con las kotlety y la remolacha templada."
   ],
   nutricion: { kcal: 640, prot: 37, hc: 72, grasa: 22 },
   etiquetas: ["creativa", "alta en proteína", "batch cooking", "invierno", "poco especiada"],
@@ -347,10 +347,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tempeh en dados de 2 cm y cuécelo al vapor 10 minutos: se ablanda, pierde el ligero amargor y absorberá mejor la salsa.",
-    "Pica las cebollas finas y póchalas en 1 cucharada de aceite a fuego medio-bajo 12 minutos, removiendo, hasta que estén doradas y dulces: es la base de cualquier guláš checo y no hay que tener prisa.",
-    "Aparta la cazuela del fuego, añade el pimentón y remueve 20 segundos (si se quema, amarga). Vuelve al fuego, vierte el caldo y añade el chucrut escurrido, la alcaravea, el laurel y el ajo picado. Si el chucrut es muy ácido, enjuágalo antes bajo el grifo.",
-    "Tapa y cuece a fuego suave 25 minutos, hasta que el chucrut esté tierno. Mientras, cuece las patatas peladas y en trozos en agua con sal y una pizca de alcaravea, 20 minutos.",
+    "Corta el tempeh en dados de 2 cm y cuécelo al vapor 10 minutos: se ablanda, pierde el ligero amargor y absorberá mejor la salsa. Mientras, pica finas las cebollas y el ajo.",
+    "Pocha las cebollas en 1 cucharada de aceite a fuego medio-bajo 12 minutos, removiendo, hasta que estén doradas y dulces: es la base de cualquier guláš checo y no hay que tener prisa.",
+    "Aparta la cazuela del fuego, añade el pimentón y remueve 20 segundos (si se quema, amarga). Vuelve al fuego, vierte el caldo y añade el chucrut escurrido, la alcaravea, el laurel y el ajo. Si el chucrut es muy ácido, enjuágalo antes bajo el grifo.",
+    "Tapa y cuece a fuego suave 25 minutos, hasta que el chucrut esté tierno. Mientras, pela las patatas, trocéalas y cuécelas en agua con sal y una pizca de alcaravea, 20 minutos.",
     "Dora los dados de tempeh en una sartén antiadherente con el resto del aceite, 4-5 minutos, hasta que estén tostados por fuera, y añádelos al guiso los últimos 10 minutos.",
     "Mezcla la nata agria con la harina en un bol y templa la mezcla con un cazo de salsa caliente. Viértela en la cazuela y cuece 3 minutos a fuego suave, removiendo, hasta que la salsa espese y quede rosada y brillante; la harina evita que la nata se corte. Salpimienta.",
     "Retira el laurel y sirve el guláš con las patatas escurridas."
@@ -395,12 +395,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Remoja los boletus en 250 ml de agua caliente 20 minutos. A la vez, prensa el tofu 15 minutos entre papel de cocina con un peso encima (una tabla y un par de latas): cuanta menos agua tenga, mejor se dora.",
-    "Pon el trigo sarraceno en un cazo con 200 ml de agua hirviendo y sal (el doble de volumen que de grano), tapa y cuécelo a fuego mínimo 15 minutos; apaga y deja reposar 5 minutos tapado. El grano debe quedar suelto, no empastado.",
+    "Pon el trigo sarraceno en un cazo con 200 ml de agua hirviendo y sal (el doble de volumen que de grano), tapa y cuécelo a fuego mínimo 15 minutos; apaga y deja reposar 5 minutos tapado. El grano debe quedar suelto, no empastado. Mientras se cuece, escurre los boletus (guarda el agua) y pícalos, corta la cebolla en medias lunas, lamina los champiñones, pica el eneldo y corta los pepinillos en cuartos.",
     "Corta el tofu en 4 filetes de 1,5 cm, úntalos con la salsa de soja y pimienta y pásalos por 1 cucharada de harina, sacudiendo el exceso. Dóralos en el aceite, en una sartén antiadherente a fuego medio-alto, 3 minutos por cada lado, hasta tener una costra dorada. Resérvalos.",
-    "En la misma sartén, funde la mantequilla y pocha la cebolla en medias lunas 6 minutos. Añade los champiñones laminados y saltéalos 5 minutos, hasta que se doren; incorpora los boletus escurridos y picados.",
+    "En la misma sartén, funde la mantequilla y pocha la cebolla 6 minutos. Añade los champiñones y saltéalos 5 minutos, hasta que se doren; incorpora los boletus.",
     "Espolvorea la otra cucharada de harina, remueve 1 minuto y vierte el agua de remojo colada, dejando en el fondo del vaso el poso de arena. Añade el laurel y cuece 5 minutos hasta que la salsa espese.",
     "Vuelve a poner los filetes en la salsa, tapa y guisa a fuego suave 8 minutos (eso es el duszenie de los bitki): el tofu absorbe el sabor de las setas sin perder la costra del todo.",
-    "Fuera del fuego, templa la nata agria con un poco de salsa y mézclala en la sartén. Rectifica de sal y pimienta y espolvorea el eneldo. Sirve con la kasza y los pepinillos en cuartos."
+    "Fuera del fuego, templa la nata agria con un poco de salsa y mézclala en la sartén. Rectifica de sal y pimienta y espolvorea el eneldo. Sirve con la kasza y los pepinillos."
   ],
   nutricion: { kcal: 635, prot: 35, hc: 57, grasa: 29 },
   etiquetas: ["creativa", "alta en proteína", "otoño", "invierno", "poco especiada"],
@@ -439,12 +439,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las patatas en bastones gruesos de 1 cm, sécalas con un paño y dóralas en una sartén antiadherente amplia con 1,5 cucharadas de aceite a fuego medio 12-15 minutos, en una sola capa, dándoles la vuelta, hasta que estén doradas por todas las caras y tiernas. Sálalas y resérvalas.",
+    "Corta las patatas en bastones gruesos de 1 cm, sécalas con un paño y dóralas en una sartén antiadherente amplia con 1,5 cucharadas de aceite a fuego medio 12-15 minutos, en una sola capa, dándoles la vuelta, hasta que estén doradas por todas las caras y tiernas. Mientras se doran, corta la cebolla en medias lunas y los pepinillos en tiras finas, pica muy fino el ajo y pica el perejil. Sala las patatas y resérvalas.",
     "En una cazuela, calienta el resto del aceite a fuego fuerte y dora la heura 4-5 minutos, sin removerla demasiado, hasta que tenga los bordes tostados. Sácala.",
-    "Baja a fuego medio y pocha la cebolla en medias lunas 6 minutos. Añade el tomate concentrado y remueve 1 minuto: tostarlo le quita el sabor crudo y le da dulzor.",
-    "Vierte el tomate triturado y el caldo, añade el laurel y los pepinillos cortados en tiras finas y cuece 10 minutos, hasta que la salsa espese y el pepinillo pierda el crujiente.",
+    "Baja a fuego medio y pocha la cebolla 6 minutos. Añade el tomate concentrado y remueve 1 minuto: tostarlo le quita el sabor crudo y le da dulzor.",
+    "Vierte el tomate triturado y el caldo, añade el laurel y los pepinillos y cuece 10 minutos, hasta que la salsa espese y el pepinillo pierda el crujiente.",
     "Vuelve a poner la heura y las patatas en la cazuela y mezcla con cuidado para no romperlas. Cuece 5 minutos a fuego suave.",
-    "Apaga, añade el ajo picado muy fino y el perejil, pimienta negra generosa, tapa y deja reposar 2 minutos: el ajo crudo al final es el sello del azu."
+    "Apaga, añade el ajo y el perejil, pimienta negra generosa, tapa y deja reposar 2 minutos: el ajo crudo al final es el sello del azu."
   ],
   nutricion: { kcal: 505, prot: 31, hc: 50, grasa: 19 },
   etiquetas: ["creativa", "alta en proteína", "batch cooking", "invierno", "bajo en colesterol"],
@@ -482,11 +482,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 150 ml de agua: fuego fuerte hasta que hierva, tapa, fuego mínimo 12 minutos y 10 de reposo sin destapar.",
-    "Sin agitar la lata de coco, saca 3 cucharadas de la crema espesa de arriba. Ponla en una sartén honda a fuego medio y deja que borbotee 2-3 minutos, hasta que «se corte» y suelte su propia grasa; entonces añade la pasta de curry y fríela 2 minutos removiendo, hasta que huela intensamente. Es la técnica tailandesa: la grasa del coco despierta los aromas de la pasta sin añadir aceite.",
-    "Añade la cebolla picada y el pimiento en tiras y cocina 4 minutos. Incorpora el calabacín en dados pequeños y 2 minutos después el resto de la leche de coco y la salsa de pescado.",
+    "Mientras se cuece el arroz, pica la cebolla, corta el pimiento en tiras, el calabacín en dados pequeños y el chile en rodajas, y deshoja la albahaca. Sin agitar la lata de coco, saca 3 cucharadas de la crema espesa de arriba. Ponla en una sartén honda a fuego medio y deja que borbotee 2-3 minutos, hasta que «se corte» y suelte su propia grasa; entonces añade la pasta de curry y fríela 2 minutos removiendo, hasta que huela intensamente. Es la técnica tailandesa: la grasa del coco despierta los aromas de la pasta sin añadir aceite.",
+    "Añade la cebolla y el pimiento y cocina 4 minutos. Incorpora el calabacín y 2 minutos después el resto de la leche de coco y la salsa de pescado.",
     "Cuece 5-6 minutos a fuego medio hasta que la salsa reduzca y espese: tiene que ser una cama densa donde los huevos se sostengan, no un caldo.",
     "Haz cuatro huecos con el dorso de una cuchara, casca un huevo en cada uno, tapa y cuece a fuego bajo 6-7 minutos, hasta que las claras estén opacas y las yemas aún tiemblen.",
-    "Ralla la piel de media lima por encima, exprime un poco de zumo, reparte las hojas de albahaca y el chile en rodajas si te gusta picante. Sirve en la sartén con el arroz al lado."
+    "Ralla la piel de media lima por encima, exprime un poco de zumo, reparte las hojas de albahaca y el chile si te gusta picante. Sirve en la sartén con el arroz al lado."
   ],
   nutricion: { kcal: 505, prot: 20, hc: 51, grasa: 24 },
   etiquetas: ["creativa", "picante", "una sola sartén", "económica"],
@@ -524,10 +524,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas en bastones de 1 cm, sécalas bien con un paño, mézclalas con 1,5 cucharadas de aceite y sal y extiéndelas sobre papel de horno en una capa sin amontonar. Hornea 30-35 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes.",
-    "Mezcla la mayonesa con el gochujang y 1 cucharadita de agua hasta que quede una salsa fluida y anaranjada.",
+    "Mientras se hornean, mezcla la mayonesa con el gochujang y 1 cucharadita de agua hasta que quede una salsa fluida y anaranjada, y corta la parte verde de la cebolleta en aros finos.",
     "Escurre el kimchi guardando su jugo y pícalo grueso. Saltéalo en una sartén con el aceite de sésamo a fuego fuerte 3-4 minutos, hasta que los bordes se caramelicen: al tostarse se vuelve más dulce y menos ácido. Añade al final 1 cucharada de su jugo y resérvalo.",
     "Calienta los 100 ml de aceite en una sartén pequeña hasta que humee ligeramente. Casca cada huevo en un vaso y deslízalo en el aceite; con una cuchara, baña la clara con el aceite caliente 40-60 segundos, hasta que tenga puntilla dorada y la yema siga líquida. Fríelos de uno en uno y escúrrelos sobre papel de cocina.",
-    "Monta en una fuente las patatas, el kimchi por encima y los huevos coronando. Sal en escamas sobre las yemas, hilos de mayonesa de gochujang, cebolleta en aros finos y sésamo.",
+    "Monta en una fuente las patatas, el kimchi por encima y los huevos coronando. Sal en escamas sobre las yemas, hilos de mayonesa de gochujang, la cebolleta y sésamo.",
     "Lleva la fuente a la mesa y rompe los huevos con el tenedor, mezclando la yema con las patatas, como en cualquier bar de Madrid."
   ],
   nutricion: { kcal: 550, prot: 18, hc: 38, grasa: 35 },
@@ -572,10 +572,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la cebolla morada en plumas muy finas y mézclala con el zumo de media lima y una pizca de sal. En 15 minutos estará rosa y crujiente.",
-    "Precalienta el horno a 200 °C. Corta cada tortilla en 6 triángulos, píntalos con 2 cucharaditas de aceite, sálalos y hornéalos en una capa 10-12 minutos, hasta que estén dorados y crujientes.",
-    "Para la salsa, pocha la cebolla picada en 2 cucharaditas de aceite 8 minutos, hasta que esté dorada. Añade el ajo, el jengibre rallado y el chile picado y cocina 1 minuto; luego las especias, solo 30 segundos para que suelten su aroma en la grasa sin quemarse.",
+    "Precalienta el horno a 200 °C. Corta cada tortilla en 6 triángulos, píntalos con 2 cucharaditas de aceite, sálalos y hornéalos en una capa 10-12 minutos, hasta que estén dorados y crujientes. Mientras se hornean, pica la cebolla, el ajo, el chile y el cilantro y ralla el jengibre.",
+    "Para la salsa, pocha la cebolla en 2 cucharaditas de aceite 8 minutos, hasta que esté dorada. Añade el ajo, el jengibre y el chile y cocina 1 minuto; luego las especias, solo 30 segundos para que suelten su aroma en la grasa sin quemarse.",
     "Incorpora el tomate y cuece 10 minutos, hasta que espese y el aceite brille en los bordes. Añade la nata, 100 ml de agua y sal y tritura hasta que quede lisa: debe ser algo más fluida que una salsa de pasta para que empape los totopos.",
-    "Mezcla el yogur con la mitad del cilantro picado, sal y unas gotas de lima.",
+    "Mezcla el yogur con la mitad del cilantro, sal y unas gotas de lima, y corta el resto de la lima en gajos.",
     "Fríe los huevos en el resto del aceite, en una sartén antiadherente a fuego medio, 3 minutos, con la clara cuajada y la yema líquida.",
     "Justo antes de servir, echa los totopos en la salsa caliente y mézclalos 30 segundos: deben quedar cubiertos pero con zonas aún crujientes. Reparte en platos con los huevos encima, el yogur, la cebolla encurtida, el resto del cilantro y un gajo de lima."
   ],
@@ -616,12 +616,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz en abundante agua con sal 14 minutos (si usas arroz del día anterior, sáltate este paso), escúrrelo y extiéndelo en una bandeja para que se enfríe y se seque: un arroz seco se saltea suelto; uno húmedo se apelmaza.",
-    "Pica el chorizo en dados pequeños y ponlo en una sartén sin aceite a fuego medio 3 minutos, hasta que suelte su grasa roja. Añade la cebolla y el pimiento picados y cocina 5 minutos; luego los guisantes, 1 minuto.",
+    "Mientras se enfría el arroz, pica el chorizo en dados pequeños, la cebolla, el pimiento y el cebollino. Pon el chorizo en una sartén sin aceite a fuego medio 3 minutos, hasta que suelte su grasa roja. Añade la cebolla y el pimiento y cocina 5 minutos; luego los guisantes, 1 minuto.",
     "Sube el fuego, incorpora el arroz, el pimentón y 100 g de tomate frito y saltea 3-4 minutos, hasta que cada grano esté rojo, suelto y ligeramente tostado. Prueba de sal. Forma en cada plato un montón ovalado y alargado.",
     "Para cada tortilla, bate 3 huevos con 1 cucharada de leche y una pizca de sal hasta que no se vean hebras de clara. Funde la mitad de la mantequilla en una sartén antiadherente de 20 cm a fuego medio-alto hasta que espume.",
     "Vierte el huevo y remuévelo rápido con una espátula 15-20 segundos mientras sacudes la sartén, formando grumos pequeños; luego para. Cuando la base esté cuajada y la superficie aún cremosa, dobla la tortilla en tres sobre sí misma, como un puro, y deslízala sobre el arroz.",
     "Haz un corte a lo largo de la tortilla con un cuchillo: se abrirá como un libro y su interior cremoso cubrirá el arroz. Repite con la segunda.",
-    "Calienta el resto del tomate frito con una pizca de pimentón y una cucharada de agua, dibuja una línea por encima y termina con cebollino picado."
+    "Calienta el resto del tomate frito con una pizca de pimentón y una cucharada de agua, dibuja una línea por encima y termina con el cebollino."
   ],
   nutricion: { kcal: 705, prot: 33, hc: 61, grasa: 36 },
   etiquetas: ["creativa", "para niños", "aprovechamiento", "económica"],
@@ -659,13 +659,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C y pon agua a hervir para el baño maría. Saca 12 g de mantequilla para que se ablande.",
-    "Quita el pie duro a las shiitake y lamínalas. Saltéalas en el resto de la mantequilla (8 g) a fuego fuerte 4 minutos, hasta que se doren; añade el ajo picado 30 segundos y la salsa de soja, que se evapora en segundos y las glasea. Agrega las espinacas y remueve 1 minuto hasta que se arruguen. Escurre el líquido que suelten.",
+    "Precalienta el horno a 180 °C y pon agua a hervir para el baño maría. Saca 12 g de mantequilla para que se ablande. Mientras se calientan, pica el ajo y el cebollino.",
+    "Quita el pie duro a las shiitake y lamínalas. Saltéalas en el resto de la mantequilla (8 g) a fuego fuerte 4 minutos, hasta que se doren; añade el ajo 30 segundos y la salsa de soja, que se evapora en segundos y las glasea. Agrega las espinacas y remueve 1 minuto hasta que se arruguen. Escurre el líquido que suelten.",
     "Disuelve el miso en la nata con unas varillas hasta que no queden grumos. No añadas sal: el miso ya la aporta.",
     "Unta dos cazuelitas de unos 250 ml con un poco de la mantequilla blanda. Reparte las setas con espinacas en el fondo, añade 2 cucharadas de nata al miso en cada una, casca dos huevos encima y vierte el resto de la nata alrededor de las yemas, sin cubrirlas. Pimienta.",
     "Coloca las cazuelitas en una bandeja honda y vierte agua hirviendo hasta media altura. Hornea 12-15 minutos, hasta que las claras estén opacas y cuajadas y las yemas tiemblen al mover la cazuelita. El baño maría hace que la clara cuaje con suavidad sin que la nata hierva ni el huevo quede gomoso.",
     "Mientras, pasa la hoja de nori sobre el fuego o por una sartén seca 10 segundos por cada lado, hasta que cruja y se vuelva verde brillante. Desmenúzala sobre la mantequilla blanda restante y mezcla.",
-    "Tuesta el pan, úntalo con la mantequilla de nori y córtalo en tiras de 2 cm. Sirve las cocottes con cebollino picado y los soldaditos para mojar en la yema."
+    "Tuesta el pan, úntalo con la mantequilla de nori y córtalo en tiras de 2 cm. Sirve las cocottes con el cebollino y los soldaditos para mojar en la yema."
   ],
   nutricion: { kcal: 445, prot: 21, hc: 26, grasa: 27 },
   etiquetas: ["creativa", "para invitados", "al horno", "otoño", "poco especiada"],
@@ -706,9 +706,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Parte las berenjenas por la mitad a lo largo y haz en la carne cortes profundos en rombo, cada 1,5 cm, sin llegar a la piel: el calor entra mejor y el glaseado se mete en las grietas. Píntalas con 2 cucharaditas de aceite y sálalas.",
     "Colócalas boca abajo sobre papel de horno y ásalas 25 minutos: el contacto con la bandeja dora la cara cortada. Están listas cuando la piel se arruga y la carne cede al apretarla, cremosa por completo.",
-    "Mezcla el miso, la miel y el mirin hasta tener una pasta lisa y brillante; si está muy espesa, añade 1 cucharadita de agua.",
-    "Da la vuelta a las berenjenas, extiende el glaseado sobre la carne y gratínalas 4-5 minutos, hasta que burbujee y se caramelice en manchas oscuras. Vigila: el miso pasa de tostado a quemado en un minuto.",
-    "Mezcla el labneh con la ralladura del limón, una pizca de sal y el resto del aceite. Desgrana la granada golpeando la media fruta boca abajo con una cuchara de madera. Pica los pistachos y las hojas de menta.",
+    "Mientras se asan, mezcla el miso, la miel y el mirin hasta tener una pasta lisa y brillante; si está muy espesa, añade 1 cucharadita de agua. Mezcla también el labneh con la ralladura del limón, una pizca de sal y el resto del aceite. Desgrana la granada golpeando la media fruta boca abajo con una cuchara de madera. Pica los pistachos y las hojas de menta.",
+    "Da la vuelta a las berenjenas, extiende el glaseado sobre la carne y gratínalas 4-5 minutos, hasta que burbujee y se caramelice en manchas oscuras. Vigila: el miso pasa de tostado a quemado en un minuto. Mientras, calienta las pitas en una sartén seca.",
     "Extiende el labneh en los platos, coloca las berenjenas encima y reparte el za'atar, la granada, los pistachos y la menta. Exprime unas gotas de limón y sirve con las pitas calientes."
   ],
   nutricion: { kcal: 520, prot: 18, hc: 66, grasa: 20 },
@@ -982,12 +981,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el tempeh en bastones de 1 × 1 × 5 cm y cuécelos al vapor 8 minutos: se abre el poro, pierde el amargor y absorberá el adobo como una esponja.",
-    "Mezcla el vinagre, el ajo machacado, el comino, el orégano, el pimentón, sal y 4 cucharadas de agua. Sumerge el tempeh aún caliente y déjalo al menos 30 minutos (mejor 2 horas en la nevera), dándole la vuelta un par de veces.",
-    "Mientras se marina, cuece el arroz lavado con 150 ml de agua: fuego fuerte hasta que hierva, tapa, fuego mínimo 12 minutos y 10 de reposo.",
-    "Para el sambal matah, corta las chalotas en aros finísimos, pica muy fina la parte tierna y blanca de la hierba limón y el chile y mézclalos con sal y el zumo de media lima. Calienta 1,5 cucharadas del aceite hasta que casi humee y viértelo encima: chisporrotea, ablanda la chalota y suelta los aromas, como se hace en Bali.",
+    "Machaca el ajo y mézclalo con el vinagre, el comino, el orégano, el pimentón, sal y 4 cucharadas de agua. Sumerge el tempeh aún caliente y déjalo al menos 30 minutos (mejor 2 horas en la nevera), dándole la vuelta un par de veces.",
+    "Mientras se marina, cuece el arroz lavado con 150 ml de agua: fuego fuerte hasta que hierva, tapa, fuego mínimo 12 minutos y 10 de reposo. Mientras, corta el pepino en bastones.",
+    "Para el sambal matah, corta las chalotas en aros finísimos, pica muy fina la parte tierna y blanca de la hierba limón y el chile y mézclalos con sal y el zumo de media lima; corta la otra media en gajos. Calienta 1,5 cucharadas del aceite hasta que casi humee y viértelo encima: chisporrotea, ablanda la chalota y suelta los aromas, como se hace en Bali.",
     "Escurre el tempeh, pásalo por la harina de garbanzo y sacude el exceso.",
     "Calienta el resto del aceite en una sartén pequeña (1 cm de altura) a 175 °C: un bastón debe burbujear con fuerza al entrar. Fríe en dos tandas 3-4 minutos, girándolos a mitad, hasta que estén dorados y crujientes, y escúrrelos sobre papel. Con la harina de garbanzo y el aceite bien caliente absorben muy poca grasa.",
-    "Sirve el tempeh sobre el arroz, con el sambal por encima, el pepino en bastones y el resto de la lima en gajos."
+    "Sirve el tempeh sobre el arroz, con el sambal por encima, el pepino y los gajos de lima."
   ],
   nutricion: { kcal: 610, prot: 27, hc: 65, grasa: 27 },
   etiquetas: ["creativa", "picante", "sin gluten", "fritos", "alta en proteína"],
@@ -1030,8 +1029,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ralla la pera, el ajo y el jengibre y mézclalos con la soja, el azúcar y el aceite de sésamo. Corta el seitán en lonchas finísimas, de 2-3 mm, y déjalo en la marinada 15 minutos. La pera, como en el bulgogi, aporta dulzor y jugosidad.",
-    "Corta el pepino en rodajas finas, sálalo y déjalo 10 minutos. Escúrrelo apretando y alíñalo con el vinagre de arroz, el sésamo y una pizca del azúcar.",
-    "Corta la cebolla en plumas finas y dórala en el aceite de oliva a fuego medio 12 minutos, removiendo, hasta que esté blanda y caramelizada; añade el pimiento en tiras los últimos 5 minutos. Resérvalo.",
+    "Corta el pepino en rodajas finas, sálalo y déjalo 10 minutos; mientras, corta la cebolla en plumas finas y el pimiento en tiras. Escúrrelo apretando y alíñalo con el vinagre de arroz, el sésamo y una pizca del azúcar.",
+    "Dora la cebolla en el aceite de oliva a fuego medio 12 minutos, removiendo, hasta que esté blanda y caramelizada; añade el pimiento los últimos 5 minutos. Resérvalo.",
     "Pon la sartén a fuego máximo, escurre el seitán y extiéndelo en una sola capa. Déjalo 2-3 minutos sin moverlo, hasta que los bordes se tuesten; vierte el resto de la marinada y saltea 1 minuto hasta que se reduzca y lo glasee.",
     "Junta el seitán con la cebolla y el pimiento, divídelo en dos montones alargados en la sartén, cubre cada uno con el provolone y tapa 1 minuto, hasta que el queso se funda.",
     "Abre los panes sin separar las mitades y tuéstalos por dentro en una sartén. Con una espátula, desliza cada montón dentro del pan y añade el pepino al sésamo."
@@ -1077,7 +1076,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y ponlas en un cazo, justo cubiertas de agua, con la sal gorda. Cuécelas 20 minutos hasta que estén tiernas, tira casi toda el agua y déjalas a fuego bajo, agitando el cazo, 5 minutos más: el agua se evapora y la piel se arruga con una costra blanca de sal.",
-    "Para el mojo verde, maja en el mortero los ajos con una pizca de sal y el comino. Añade el cilantro y el pimiento verde picados, el vinagre, el aceite de oliva y 2 cucharadas de agua y tritura hasta tener una salsa verde y emulsionada.",
+    "Mientras se cuecen, prepara el mojo verde: pica el cilantro y el pimiento verde y maja en el mortero los ajos con una pizca de sal y el comino. Añade el cilantro y el pimiento, el vinagre, el aceite de oliva y 2 cucharadas de agua y tritura hasta tener una salsa verde y emulsionada.",
     "Corta el repollo en juliana lo más fina posible (con mandolina, mejor), déjalo 5 minutos en agua con hielo para que cruja, escúrrelo bien y aliña con el zumo de limón y sal.",
     "Seca los filetes de heura y sálalos. Pásalos por harina, después por el huevo batido y por último por el panko, apretando con la palma para que se adhiera bien.",
     "Calienta el aceite de girasol en una sartén (1,5 cm de altura) a 170 °C. Fríe los filetes 2-3 minutos por lado, hasta que estén dorados, y escúrrelos sobre una rejilla, no sobre papel, para que la base no se ablande con el vapor.",
@@ -1120,11 +1119,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prensa el tofu 15 minutos entre papel de cocina con un peso encima. Mientras, lava la quinoa en un colador y cuécela en 150 ml de agua con sal, tapada, a fuego bajo 12 minutos; añade los edamame encima los últimos 4 minutos, apaga y deja reposar 5 minutos.",
-    "Escalda los tomates 15 segundos, pélalos, quítales las semillas y córtalos en dados pequeños (concassé). Pica muy fina la chalota y ralla el jengibre.",
+    "Escalda los tomates 15 segundos, pélalos, quítales las semillas y córtalos en dados pequeños (concassé). Pica muy fina la chalota, ralla el jengibre, pica el cilantro y corta media lima en gajos.",
     "Corta el tofu en 2 filetes gruesos, haz en ambas caras cortes superficiales en rejilla y sálalos ligeramente.",
     "Calienta una sartén antiadherente o de hierro a fuego fuerte con 1 cucharadita de aceite y marca el tofu 4 minutos por cara, sin moverlo, hasta que tenga una costra dorada y crujiente.",
-    "En un cazo pequeño, templa a fuego muy bajo el resto del aceite con la chalota y el jengibre 2 minutos, sin que lleguen a freír. Apaga y añade el tomate, la soja, el zumo de media lima y el cilantro picado: la salsa vierge se sirve tibia, nunca cocinada, para que el tomate siga fresco.",
-    "Sirve la quinoa con edamame, el tofu encima y la salsa vierge por encima. Acompaña con el resto de la lima en gajos."
+    "En un cazo pequeño, templa a fuego muy bajo el resto del aceite con la chalota y el jengibre 2 minutos, sin que lleguen a freír. Apaga y añade el tomate, la soja, el zumo de la otra media lima y el cilantro: la salsa vierge se sirve tibia, nunca cocinada, para que el tomate siga fresco.",
+    "Sirve la quinoa con edamame, el tofu encima y la salsa vierge por encima. Acompaña con los gajos de lima."
   ],
   nutricion: { kcal: 445, prot: 29, hc: 34, grasa: 20 },
   etiquetas: ["creativa", "alta en proteína", "superalimentos", "detox", "bajo en colesterol"],

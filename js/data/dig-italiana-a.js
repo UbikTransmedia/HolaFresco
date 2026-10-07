@@ -74,9 +74,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el cuerpo del calamar en anillas de 1,5 cm y los tentáculos en grupos de dos. Sécalos bien con papel de cocina.",
-    "Pela las patatas y córtalas en trozos irregulares de unos 3 cm, cascándolas con el cuchillo al final de cada corte para que suelten almidón y espesen el guiso. Parte los tomates cherry por la mitad. Separa las hojas del perejil, pica fino los tallos y pica las hojas aparte.",
+    "Parte los tomates cherry por la mitad. Separa las hojas del perejil y pica fino los tallos.",
     "Calienta el aceite de ajo en una cazuela a fuego medio, añade los tomates y los tallos de perejil picados y cocina 3 minutos, hasta que los tomates empiecen a deshacerse.",
-    "Añade el calamar y remueve 5 minutos: soltará su agua y se volverá blanco. Baja el fuego al mínimo, tapa y cuece 25 minutos. El calamar se endurece primero y vuelve a ablandarse con la cocción larga.",
+    "Añade el calamar y remueve 5 minutos: soltará su agua y se volverá blanco. Baja el fuego al mínimo, tapa y cuece 25 minutos. El calamar se endurece primero y vuelve a ablandarse con la cocción larga. Mientras, pon a calentar el agua, pela las patatas y córtalas en trozos irregulares de unos 3 cm, cascándolas con el cuchillo al final de cada corte para que suelten almidón y espesen el guiso, y pica las hojas de perejil.",
     "Incorpora las patatas, el agua caliente y sal. Tapa de nuevo y cuece 20 minutos más a fuego suave, removiendo con cuidado un par de veces, hasta que las patatas estén tiernas y la salsa haya espesado y tomado color rosado.",
     "Prueba el calamar: debe cortarse con el borde de una cuchara. Si aún ofrece resistencia, dale 5-10 minutos más con un chorrito de agua.",
     "Apaga el fuego, añade las hojas de perejil picadas y una vuelta de pimienta, y deja reposar 5 minutos tapado antes de servir en plato hondo."
@@ -327,9 +327,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C con calor arriba y abajo. Pela la patata y córtala con mandolina en láminas de 1,5 mm, casi transparentes. No las laves: su almidón es el pegamento que las mantendrá unidas sobre el pescado.",
     "Mezcla las láminas en un bol con 2 cucharaditas de aceite, sal y las hojas de una rama de tomillo, separándolas con los dedos para que todas queden untadas.",
     "Seca los lomos de lubina, sálalos, ponles una vuelta de pimienta y colócalos en una bandeja con papel de horno. Cubre cada uno con las láminas de patata solapadas como escamas, empezando por la parte de la cola, y presiónalas con la palma para que se adhieran. Recorta las que sobresalgan.",
-    "Reparte alrededor los tomates cherry partidos por la mitad, las aceitunas, las láminas de patata sobrantes y el resto del tomillo, y riega todo con el resto del aceite.",
+    "Parte los tomates cherry por la mitad y repártelos alrededor con las aceitunas, las láminas de patata sobrantes y el resto del tomillo, y riega todo con el resto del aceite.",
     "Hornea 15-17 minutos, hasta que el pescado se vea opaco por los bordes. Enciende el grill y gratina 2-3 minutos sin perderlo de vista, hasta que las escamas de patata estén doradas y crujientes por los bordes.",
-    "Mientras, aliña la rúcula con el zumo de medio limón y una pizca de sal.",
+    "Mientras se hornea, aliña la rúcula con el zumo de medio limón y una pizca de sal.",
     "Pasa la lubina a los platos con una espátula ancha para no romper la costra y sírvela con los tomates, las aceitunas, la rúcula y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 400, prot: 31, hc: 30, grasa: 17 },
@@ -978,10 +978,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta la calabaza y la patata en dados de 1,5 cm, mézclalos en una bandeja con 1 cucharadita de aceite, sal y la mitad de la salvia picada, y ásalos 20 minutos, hasta que estén tiernos y con algún borde dorado.",
-    "Baja el horno a 180 °C. Unta un molde de unos 20 cm con el resto del aceite (o fórralo con papel de horno).",
+    "Precalienta el horno a 200 °C. Corta la calabaza y la patata en dados de 1,5 cm y pica la mitad de la salvia. Mézclalos en una bandeja con 1 cucharadita de aceite, sal y la salvia picada, y ásalos 20 minutos, hasta que estén tiernos y con algún borde dorado.",
+    "Mientras se asan, unta un molde de unos 20 cm con el resto del aceite (o fórralo con papel de horno).",
     "Bate los huevos en un bol con la leche, el parmesano, la nuez moscada, sal y pimienta, solo hasta que estén integrados.",
-    "Reparte la verdura asada en el molde, vierte el huevo por encima y coloca las hojas de salvia restantes enteras sobre la superficie.",
+    "Saca la verdura y baja el horno a 180 °C. Reparte la verdura asada en el molde, vierte el huevo por encima y coloca las hojas de salvia restantes enteras sobre la superficie.",
     "Hornea 18-20 minutos, hasta que la frittata esté hinchada y dorada y, al mover el molde, el centro ya no tiemble. Un palillo clavado en el centro debe salir limpio.",
     "Déjala reposar 5 minutos para que se asiente, córtala en cuñas y sírvela tibia, con la rúcula aliñada al lado si quieres."
   ],

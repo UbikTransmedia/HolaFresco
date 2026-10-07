@@ -176,7 +176,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el caldo corto: en una cazuela ancha, hierve 1,5 litros de agua con la zanahoria en rodajas, el laurel, el tomillo, el vinagre y 1 cucharada de sal durante 10 minutos.",
+    "Corta la zanahoria en rodajas y prepara el caldo corto: en una cazuela ancha, hierve 1,5 litros de agua con la zanahoria, el laurel, el tomillo, el vinagre y 1 cucharada de sal durante 10 minutos.",
     "Mientras, cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que el cuchillo entre sin resistencia. Escúrrelas y pártelas por la mitad.",
     "Baja el fuego hasta que el caldo corto apenas tiemble, sin burbujas, e introduce las rodajas de rodaballo. Escálfalas 8-10 minutos, hasta que la carne esté opaca y se despegue de la espina central al empujarla con un cuchillo. Mientras, pica el perejil y ralla la piel de medio limón.",
     "Saltea las espinacas en una sartén con el aceite de ajo 2 minutos, hasta que mermen, y sálalas.",
@@ -221,7 +221,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Quita las semillas a los pimientos y córtalos en tiras finas; pica la parte verde de la cebolleta y el perejil.",
+    "Quita las semillas a los pimientos y córtalos en tiras finas; pica la parte verde de la cebolleta y el perejil y machaca las bayas de enebro.",
     "Calienta el aceite de ajo en una cazuela ancha a fuego suave, añade los pimientos y una pizca de sal, tapa y póchalos 15 minutos, removiendo de vez en cuando, hasta que estén muy blandos y dulces.",
     "Añade la cebolleta, el enebro, el tomillo y el laurel y remueve 1 minuto. Vierte el vinagre, deja que se evapore y agrega el tomate. Cuece 12 minutos a fuego suave, hasta que la salsa espese.",
     "Mientras, pela las patatas, córtalas en trozos y cuécelas al vapor 20 minutos, hasta que estén tiernas.",
@@ -352,7 +352,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas y aplástalas un poco con la base de un vaso.",
-    "Mientras, prepara la salsa: templa el aceite de ajo en un cazo, añade el tomate triturado y cuece 10 minutos a fuego medio-bajo, hasta que espese. Añade las alcaparras, las aceitunas en rodajas, el vinagre y la mitad de la menta picada y mantenla tibia.",
+    "Mientras, prepara la salsa: templa el aceite de ajo en un cazo, añade el tomate triturado y cuece 10 minutos a fuego medio-bajo, hasta que espese; mientras, corta las aceitunas en rodajas y pica la mitad de la menta. Añade a la salsa las alcaparras, las aceitunas, el vinagre y la menta picada y mantenla tibia.",
     "Dora las patatas aplastadas en una sartén antiadherente con el aceite de oliva y las hojas de romero, 4-5 minutos por cada lado, hasta que tengan costra. Sálalas.",
     "Seca el pez espada, sálalo y úntalo con unas gotas del aceite de la sartén. Cocínalo en la plancha muy caliente 2 minutos por cada lado: el centro debe quedar apenas rosado.",
     "Déjalo reposar 1 minuto y riégalo con unas gotas de limón.",
@@ -609,8 +609,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 170 °C. Corta las patatas en mitades o cuartos grandes, las zanahorias en trozos de 4 cm y el pimiento en tiras anchas sin semillas.",
-    "Seca el cordero y frótalo con la mitad del aceite de ajo, sal, pimienta y las hojas picadas de una rama de romero.",
+    "Precalienta el horno a 170 °C. Corta las patatas en mitades o cuartos grandes, las zanahorias en trozos de 4 cm y el pimiento en tiras anchas sin semillas. Pica las hojas de una rama de romero.",
+    "Seca el cordero y frótalo con la mitad del aceite de ajo, sal, pimienta y el romero picado.",
     "En una cazuela de hierro o de barro apta para horno, mezcla las verduras con el resto del aceite, sal, el laurel y las otras dos ramas de romero. Coloca el cordero encima y vierte el caldo.",
     "Tapa herméticamente (si la tapa no ajusta, pon papel de aluminio debajo) y hornea 1 hora y 45 minutos sin abrir: el vapor atrapado cocina la carne despacio, como bajo la campana de hierro de la peka.",
     "Destapa, riega la carne con el jugo del fondo, sube el horno a 210 °C y hornea 15-20 minutos, hasta que el cordero y las patatas se doren por arriba.",
@@ -659,8 +659,8 @@ window.RECETAS_SEED.push({
     "Dora el cordero en una sartén con el aceite de ajo a fuego medio-alto 5-6 minutos, hasta que tenga color por todas las caras, y pásalo a una fuente de horno de unos 20 × 20 cm (mejor de barro).",
     "En la misma sartén, remueve el arroz 1 minuto, vierte el caldo caliente rascando el fondo y échalo sobre el cordero. Tapa la fuente con papel de aluminio y hornea 30 minutos: la carne se ablanda y el arroz absorbe casi todo el caldo.",
     "Mientras, calienta el aceite de oliva en la sartén limpia, añade la harina de arroz y remueve 1 minuto a fuego suave, sin que tome color; aparta y deja templar. Bate en un bol los huevos con el yogur, la nuez moscada y sal, e incorpora la pasta de harina batiendo hasta que no queden grumos.",
-    "Saca la fuente, retira el aluminio y baja el horno a 180 °C. Vierte la crema de yogur por encima, cubriendo bien la carne, y hornea 25-30 minutos, hasta que esté cuajada, hinchada y dorada a manchas.",
-    "Deja reposar 10 minutos para que se asiente. Mientras, corta el pepino en rodajas finas y alíñalo con el zumo de limón y sal. Sirve el tavë kosi en porciones con perejil picado y el pepino al lado."
+    "Saca la fuente, retira el aluminio y baja el horno a 180 °C. Vierte la crema de yogur por encima, cubriendo bien la carne, y hornea 25-30 minutos, hasta que esté cuajada, hinchada y dorada a manchas. Mientras, corta el pepino en rodajas finas, alíñalo con el zumo de limón y sal, y pica el perejil.",
+    "Deja reposar 10 minutos para que se asiente y sirve el tavë kosi en porciones con perejil picado y el pepino al lado."
   ],
   nutricion: { kcal: 520, prot: 39, hc: 38, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "al horno", "alta en proteína"],
@@ -701,10 +701,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Machaca las semillas de hinojo en un mortero. Corta cada contramuslo en dos y mézclalos en un bol con las semillas, el azafrán desmenuzado, la piel de naranja, 1 cucharada de aceite de ajo, sal y pimienta. Marina al menos 30 minutos (mejor 2 horas en la nevera).",
-    "Mientras se marina, lamina el hinojo fino y reserva sus hojas. Pela las patatas y córtalas en rodajas de 1,5 cm.",
+    "Mientras se marina, lamina el hinojo fino y reserva sus hojas. Pela las patatas y córtalas en rodajas de 1,5 cm. Pela y trocea el tomate.",
     "Calienta el resto del aceite de ajo en una cazuela a fuego medio-alto, escurre el pollo de la marinada (guárdala) y dóralo 5 minutos, hasta que tenga color por ambos lados.",
     "Añade el hinojo y el tomate y rehoga 4 minutos a fuego medio. Incorpora las patatas, la marinada con la piel de naranja, el anís estrellado, el tomillo y el caldo caliente: el líquido debe cubrir las patatas a medias.",
-    "Tapa y cuece a fuego suave 25-30 minutos, moviendo la cazuela de vez en cuando, hasta que las patatas estén tiernas y el caldo se haya teñido de amarillo y espesado un poco con su almidón.",
+    "Tapa y cuece a fuego suave 25-30 minutos, moviendo la cazuela de vez en cuando, hasta que las patatas estén tiernas y el caldo se haya teñido de amarillo y espesado un poco con su almidón. Mientras, pica las hojas de hinojo y el perejil.",
     "Retira el anís, la piel de naranja y el tomillo, prueba de sal y sirve con las hojas de hinojo y el perejil picados por encima."
   ],
   nutricion: { kcal: 475, prot: 39, hc: 37, grasa: 18.5 },
@@ -742,12 +742,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pavo en una cazuela con 1 litro de agua, la zanahoria en trozos, el laurel y sal. Lleva a ebullición, retira la espuma y cuece a fuego suave 35 minutos, hasta que la carne esté tierna. Saca el pavo y cuela el caldo; necesitarás unos 400 ml. Cuando falten 15 minutos, precalienta el horno a 200 °C.",
+    "Trocea la zanahoria y pon el pavo en una cazuela con 1 litro de agua, la zanahoria, el laurel y sal. Lleva a ebullición, retira la espuma y cuece a fuego suave 35 minutos, hasta que la carne esté tierna; mientras, pica la cebolleta y corta la lechuga en tiras. Saca el pavo y cuela el caldo; necesitarás unos 400 ml. Cuando falten 15 minutos, precalienta el horno a 200 °C.",
     "Coloca el pavo en una fuente, úntalo con el aceite de ajo, salpimiéntalo y hornéalo 20 minutos, dándole la vuelta a mitad, hasta que esté dorado.",
     "Mientras, corta el pan en dados y tuéstalo en una sartén sin aceite 4-5 minutos, hasta que esté seco y ligeramente dorado.",
-    "Pon el pan en una fuente de horno pequeña, vierte el caldo caliente poco a poco, removiendo, hasta que el pan se empape y quede como una papilla espesa. Añade la cebolleta picada, rocía con el aceite de oliva y alisa la superficie.",
+    "Pon el pan en una fuente de horno pequeña, vierte el caldo caliente poco a poco, removiendo, hasta que el pan se empape y quede como una papilla espesa. Añade la cebolleta, rocía con el aceite de oliva y alisa la superficie.",
     "Hornea el përshesh 15-20 minutos, junto al pavo los últimos minutos, hasta que la superficie esté dorada y crujiente y el interior siga jugoso.",
-    "Sirve el pavo sobre el përshesh con la lechuga en tiras aliñada con el zumo de limón y sal."
+    "Sirve el pavo sobre el përshesh con la lechuga aliñada con el zumo de limón y sal."
   ],
   nutricion: { kcal: 475, prot: 37, hc: 33, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "bajo en colesterol", "sin gluten", "al horno", "alta en proteína", "invierno"],
@@ -875,7 +875,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 180 °C y pon agua a hervir para el baño maría. Escalda los tomates 20 segundos, pélalos, quítales las semillas y pícalos.",
-    "Calienta el aceite de ajo en una sartén a fuego medio, añade las anchoas y aplástalas con una cuchara hasta que se deshagan. Incorpora el tomate y las hojas de tomillo y cocina 12-15 minutos, hasta tener una fondue espesa y brillante, casi una mermelada. Prueba de sal (la anchoa ya sala) y añade la mitad de la albahaca picada.",
+    "Calienta el aceite de ajo en una sartén a fuego medio, añade las anchoas y aplástalas con una cuchara hasta que se deshagan. Incorpora el tomate y las hojas de tomillo y cocina 12-15 minutos, hasta tener una fondue espesa y brillante, casi una mermelada; mientras, pica la mitad de la albahaca. Prueba de sal (la anchoa ya sala) y añade la mitad de la albahaca picada.",
     "Reparte la fondue en 4 cazuelitas o flaneras aptas para horno y haz un hueco en el centro de cada una. Casca un huevo en cada hueco, sala solo la clara y espolvorea el parmesano.",
     "Coloca las cazuelitas en una fuente honda y vierte agua hirviendo hasta media altura. Hornea 12-15 minutos, hasta que la clara esté cuajada y opaca y la yema siga brillante (2-3 minutos más si la quieres firme).",
     "Mientras, corta el pan en tiras y tuéstalo hasta que esté dorado y crujiente.",
@@ -919,11 +919,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Asa los pimientos verdes enteros 20 minutos, dándoles la vuelta a mitad, hasta que la piel se ampolle. Mételos 5 minutos en un bol tapado, pélalos, quítales las semillas y córtalos en tiras, igual que el pimiento rojo.",
-    "Mientras, escalda los tomates 20 segundos, pélalos, quítales las semillas y pícalos.",
+    "Mientras, escalda los tomates 20 segundos, pélalos, quítales las semillas y pícalos. Pica la cebolleta y el perejil.",
     "Calienta el aceite de ajo en una sartén a fuego medio, rehoga la cebolleta picada 1 minuto, añade el pimentón y, enseguida, el tomate. Cocina 8 minutos, hasta que se deshaga, e incorpora los pimientos. Sala ligeramente y aparta del fuego.",
     "Baja el horno a 180 °C. En un bol, bate los huevos con la ricotta hasta tener una crema, desmenuza dentro la mitad del feta y añade pimienta. Mézclalo con las verduras templadas.",
-    "Pasa la mezcla a una cazuela de barro o una fuente pequeña, reparte encima el resto del feta y hornea 15-18 minutos, hasta que esté cuajada pero todavía cremosa en el centro, como un revuelto espeso.",
-    "Tuesta el pan y sirve la fërgesë caliente en la misma cazuela, con perejil picado, para mojar con el pan."
+    "Pasa la mezcla a una cazuela de barro o una fuente pequeña, reparte encima el resto del feta y hornea 15-18 minutos, hasta que esté cuajada pero todavía cremosa en el centro, como un revuelto espeso. Mientras, tuesta el pan.",
+    "Sirve la fërgesë caliente en la misma cazuela, con el perejil picado y el pan tostado para mojar."
   ],
   nutricion: { kcal: 405, prot: 21, hc: 26, grasa: 22.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "al horno"],
@@ -961,7 +961,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que el cuchillo entre sin resistencia.",
-    "Mientras, prepara la salsa vierge: escalda los tomates 20 segundos, pélalos, quítales las semillas y córtalos en dados pequeños. Mézclalos en un bol con las aceitunas picadas, la albahaca en tiras, la ralladura y el zumo del medio limón, el aceite de oliva, sal y pimienta.",
+    "Mientras, prepara la salsa vierge: escalda los tomates 20 segundos, pélalos, quítales las semillas y córtalos en dados pequeños. Pica las aceitunas, corta la albahaca en tiras y ralla la piel del medio limón. Mézclalo todo en un bol con el zumo del limón, el aceite de oliva, sal y pimienta.",
     "Pon el bol de la salsa sobre la cazuela de las patatas 2 minutos, solo para templarla: no debe calentarse.",
     "Cuece los huevos 6 minutos y medio en agua hirviendo, pásalos 1 minuto a agua fría y pélalos con cuidado: la clara estará cuajada y la yema cremosa.",
     "Escurre las patatas y aplástalas con un tenedor con el aceite de ajo y una pizca de sal, dejando trozos.",
@@ -1003,10 +1003,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el calabacín en dados de 1 cm y rehógalo en una sartén con 1 cucharadita de aceite de ajo a fuego medio 6-8 minutos, hasta que esté tierno y sin tomar color. Sálalo.",
-    "Pon agua a calentar en una cazuela y coloca encima un bol resistente al calor que no toque el agua; el agua debe hervir muy suavemente. Mientras se calienta, tuesta el pan y aliña los canónigos con el aceite de oliva, sal y el cebollino picado.",
+    "Pon agua a calentar en una cazuela y coloca encima un bol resistente al calor que no toque el agua; el agua debe hervir muy suavemente. Mientras se calienta, tuesta el pan, pica el cebollino y aliña los canónigos con el aceite de oliva, sal y el cebollino.",
     "Bate los huevos en el bol con el resto del aceite de ajo y una pizca de sal. Remueve sin parar con una espátula de silicona, rascando el fondo y las paredes: en 6-10 minutos se formarán grumos muy finos y cremosos. Retira el bol del calor cuando aún parezca un poco líquido, porque sigue cuajando.",
     "Incorpora el calabacín, el parmesano y la albahaca rasgada y mezcla con suavidad.",
-        "Sirve la brouillade enseguida, sobre las tostas o al lado, con pimienta recién molida y la ensalada."
+    "Sirve la brouillade enseguida, sobre las tostas o al lado, con pimienta recién molida y la ensalada."
   ],
   nutricion: { kcal: 370, prot: 18, hc: 25, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "rápida", "para niños"],
@@ -1086,9 +1086,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela la chirivía y las patatas, trocéalas y cuécelas juntas en agua con sal 18-20 minutos, hasta que estén muy tiernas. Reserva un vaso del agua de cocción.",
+    "Pela la chirivía y las patatas, trocéalas y cuécelas juntas en agua con sal 18-20 minutos, hasta que estén muy tiernas. Reserva un vaso del agua de cocción. Mientras se cuecen, pica las hojas de romero y el cebollino.",
     "Corta el tempeh en lonchas de 1 cm y escáldalo 5 minutos en el agua de las hortalizas: se ablanda, pierde el punto amargo y absorbe mejor el glaseado. Sácalo y sécalo.",
-    "Mezcla el zumo de naranja, el balsámico, las hojas de romero picadas y una pizca de sal.",
+    "Mezcla el zumo de naranja, el balsámico, el romero picado y una pizca de sal.",
     "Calienta 1 cucharadita de aceite de oliva en una sartén antiadherente a fuego medio y dora el tempeh 3 minutos por cada lado. Vierte el glaseado y deja reducir 3-4 minutos, dándole la vuelta, hasta que la salsa se vuelva un almíbar brillante que lo cubra.",
     "En otra sartén, calienta el aceite de ajo y saltea las espinacas a puñados 2-3 minutos, hasta que mermen y estén de un verde intenso. Sálalas.",
     "Machaca la chirivía y las patatas con el resto del aceite de oliva y un chorrito del agua de cocción hasta tener un puré cremoso; salpimiéntalo y añade el cebollino picado.",

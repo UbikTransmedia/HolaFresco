@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     "Prepara la masa: templa la leche (tibia al tacto, unos 37 °C) y disuelve en ella la levadura y el azúcar; espera 5 minutos a que haga espuma. Bate un huevo en un vaso. En un bol, mezcla la harina con una pizca de sal, la leche, la mitad del huevo batido y 20 g de mantequilla blanda, y amasa 8-10 minutos hasta que la masa esté lisa y elástica. Tapa y deja levar 1 hora en un sitio templado, hasta que doble su volumen.",
     "Mientras, cuece el arroz en abundante agua con sal 11 minutos, escúrrelo y extiéndelo en un plato para que se enfríe y quede suelto. Cuece los otros 2 huevos 10 minutos, enfríalos en agua fría, pélalos y pícalos.",
     "Pica la cebolla y lamina los champiñones. Rehoga la cebolla en 10 g de mantequilla a fuego medio 6 minutos, hasta que esté transparente; sube el fuego, añade los champiñones y saltéalos 6-8 minutos, hasta que suelten el agua, esta se evapore y empiecen a dorarse. Salpimienta y deja enfriar: un relleno caliente ablanda la masa.",
-    "Corta el salmón en láminas de 1 cm, salpimiéntalo y rocíalo con el zumo del medio limón. Mezcla el arroz con el huevo duro picado, la mitad del eneldo picado y una pizca de sal.",
+    "Pica el eneldo. Corta el salmón en láminas de 1 cm, salpimiéntalo y rocíalo con el zumo del medio limón. Mezcla el arroz con el huevo duro picado, la mitad del eneldo y una pizca de sal.",
     "Precalienta el horno a 200 °C con calor arriba y abajo. Estira la masa sobre papel de horno en un rectángulo de unos 30 x 25 cm y 4 mm de grosor.",
     "Monta el relleno en capas en una franja central de unos 9 cm de ancho a lo largo del rectángulo, dejando unos 8 cm libres a cada lado largo y 3 cm en los extremos: la mitad del arroz, los champiñones, el salmón, el resto del eneldo y el resto del arroz. Aprieta con las manos para que quede un bloque compacto.",
     "Pliega los lados largos sobre el relleno pegándolos con un poco del huevo batido que reservaste y cierra los extremos como un paquete. Dale la vuelta para que la juntura quede debajo, haz 3 cortes en la superficie para que salga el vapor, pinta con el resto del huevo y deja reposar 15 minutos.",
@@ -224,8 +224,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Empieza por la ensalada, mejor la víspera o al menos 1 hora antes. Cuece en agua con sal las patatas con piel, la zanahoria y el apionabo pelados y enteros, y un huevo: saca el huevo a los 10 minutos, la zanahoria y el apionabo a los 15 y las patatas a los 20-25, cuando un cuchillo entre sin resistencia. Deja enfriar.",
-    "Pela las patatas y el huevo y corta todo en dados de 1 cm. Pica muy fino la cebolla y los pepinillos.",
+    "Empieza por la ensalada, mejor la víspera o al menos 1 hora antes. Pela la zanahoria y el apionabo y cuécelos enteros en agua con sal con las patatas con piel y un huevo: saca el huevo a los 10 minutos, la zanahoria y el apionabo a los 15 y las patatas a los 20-25, cuando un cuchillo entre sin resistencia. Mientras se cuecen, pica muy fino la cebolla y los pepinillos. Deja enfriar.",
+    "Pela las patatas y el huevo y corta todo en dados de 1 cm.",
     "Mezcla la mayonesa con la mostaza, 2 cucharadas del líquido de los pepinillos, sal y pimienta, y únelo con suavidad a las verduras, el huevo, la cebolla y los pepinillos. Tapa y guarda en la nevera.",
     "Corta la carpa en 4 trozos y hazle cortes finos en la piel cada 5 mm sin llegar a atravesar la carne: así se cortan las espinas finas y el pescado no se encoge al freír. Sálala y déjala 10 minutos; mientras, prepara tres platos: harina, el otro huevo batido con una pizca de sal y pan rallado. Seca la carpa con papel de cocina.",
     "Pasa cada trozo por los tres platos, por este orden, y presiona bien el pan rallado con la mano.",
@@ -622,12 +622,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "La víspera, mezcla la sal gruesa, el azúcar, 1 cucharadita de pimienta molida gruesa y la mitad del eneldo picado con sus tallos. Seca bien el salmón con papel de cocina.",
+    "La víspera, pica la mitad del eneldo con sus tallos y mézclalo con la sal gruesa, el azúcar y 1 cucharadita de pimienta molida gruesa. Seca bien el salmón con papel de cocina.",
     "Extiende un tercio de la mezcla en un recipiente justo para el salmón, coloca el lomo con la piel hacia abajo, rocíalo con el vodka y cúbrelo con el resto de la mezcla. Tápalo con film en contacto, ponle un peso encima (un brik de leche) y déjalo en la nevera 12 horas; si puedes, dale la vuelta a mitad.",
     "Al día siguiente, enjuaga el salmón rápidamente bajo el grifo frío y sécalo a conciencia. Debe estar firme, brillante y de un color más intenso. Pon a hervir 200 ml de agua.",
-    "Tuesta el trigo sarraceno en una cazuela en seco 2-3 minutos, hasta que huela a avellana. Añade 200 ml de agua hirviendo y una pizca de sal, tapa y cuece a fuego mínimo 12-15 minutos, hasta que absorba el agua y el grano esté tierno pero entero; mientras, corta el pepino en dados, los rábanos en láminas finas y la cebolleta en aros, y pica el resto del eneldo. Extiende el alforfón en una fuente para que se temple.",
+    "Tuesta el trigo sarraceno en una cazuela en seco 2-3 minutos, hasta que huela a avellana. Añade 200 ml de agua hirviendo y una pizca de sal, tapa y cuece a fuego mínimo 12-15 minutos, hasta que absorba el agua y el grano esté tierno pero entero; mientras, corta el pepino en dados, los rábanos en láminas finas y la cebolleta en aros, pica el resto del eneldo y mezcla la smetana con la salsa de rábano picante. Extiende el alforfón en una fuente para que se temple.",
     "Mezcla el pepino, los rábanos y la cebolleta con el alforfón tibio, el aceite, el zumo del medio limón, sal y el resto del eneldo.",
-    "Mezcla la smetana con la salsa de rábano picante.",
     "Corta el salmón en lonchas finas al bies con un cuchillo largo y bien afilado, separándolas de la piel. Sirve la ensalada con las lonchas por encima y la smetana al lado."
   ],
   nutricion: { kcal: 640, prot: 37, hc: 45, grasa: 35 },
@@ -666,9 +665,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el kéfir con 1 ajo rallado, la mostaza, sal y un tercio del eneldo picado. Sumerge la merluza y déjala en la nevera 15 minutos (o hasta 2 horas).",
-    "Para los pepinos malosol, córtalos en bastones y ponlos en una bolsa de congelación o un táper con 1 cucharadita de sal, el otro ajo aplastado y los tallos del eneldo. Ciérralo, agítalo bien y guárdalo en la nevera 15-20 minutos, agitando de vez en cuando.",
-    "Precalienta la airfryer a 200 °C 3 minutos. Mezcla el panko con otro tercio del eneldo picado, la ralladura de medio limón, pimienta y el aceite, frotando con los dedos para que se impregne.",
+    "Ralla 1 ajo y pica las hojas del eneldo, reservando los tallos. Mezcla el kéfir con el ajo, la mostaza, sal y un tercio del eneldo. Sumerge la merluza y déjala en la nevera 15 minutos (o hasta 2 horas).",
+    "Para los pepinos malosol, córtalos en bastones y ponlos en una bolsa de congelación o un táper con 1 cucharadita de sal, el otro ajo, aplastado con la hoja del cuchillo, y los tallos del eneldo. Ciérralo, agítalo bien y guárdalo en la nevera 15-20 minutos, agitando de vez en cuando.",
+    "Precalienta la airfryer a 200 °C 3 minutos. Ralla la piel de medio limón y mezcla el panko con la ralladura, otro tercio del eneldo, pimienta y el aceite, frotando con los dedos para que se impregne.",
     "Saca la merluza del kéfir sin secarla (lo que queda pegado hace de pegamento) y pásala por el panko apretando para que se adhiera.",
     "Coloca los trozos en la cesta sobre papel perforado, sin que se toquen, y cocínalos 9-11 minutos a 200 °C, hasta que la costra esté dorada y el pescado se separe en lascas.",
     "Escurre los pepinos y sirve la merluza con ellos, el resto del eneldo, el pan de centeno y el limón en cuñas."
@@ -709,8 +708,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas, pínchalas con un tenedor y ponlas en un recipiente apto para microondas con 3 cucharadas de agua y una pizca de sal. Tapa y cocina a máxima potencia (800 W) 8-10 minutos, hasta que un cuchillo entre sin resistencia. Déjalas tapadas.",
-    "Para la mizeria, corta el pepino en rodajas muy finas, sálalo y déjalo 10 minutos en un colador; luego escúrrelo apretando con las manos. Mézclalo con la smetana, el azúcar, unas gotas de limón y un tercio del eneldo picado, y guárdalo en la nevera.",
-    "Mezcla la mantequilla con otro tercio del eneldo picado, la ralladura de medio limón y pimienta.",
+    "Mientras, para la mizeria, corta el pepino en rodajas muy finas, sálalo y déjalo 10 minutos en un colador; entretanto, pica el eneldo y ralla la piel de medio limón. Escurre el pepino apretando con las manos. Mézclalo con la smetana, el azúcar, unas gotas de limón y un tercio del eneldo, y guárdalo en la nevera.",
+    "Mezcla la mantequilla con otro tercio del eneldo, la ralladura y pimienta.",
     "Pon la lubina con la piel hacia abajo en un plato apto, sálala, reparte por encima la mitad de la mantequilla en trocitos y añade 2 cucharadas de agua. Tapa y cocina 3 minutos a 800 W; si el centro sigue translúcido, dale 30-60 segundos más. Deja reposar 2 minutos tapada: termina de hacerse con su vapor.",
     "Parte las patatas por la mitad y ponles el resto de la mantequilla de eneldo y sal.",
     "Sirve la lubina con su jugo, las patatas y la mizeria bien fría, con el resto del eneldo por encima."
@@ -755,8 +754,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Si usas palillos de brocheta de madera, ponlos en remojo en agua 10 minutos para que no se quemen.",
-    "Mezcla los langostinos con 2 cucharadas de ajvar, el ajo rallado, el pimentón, 1 cucharada de aceite y sal, y déjalos 10 minutos.",
-    "Prepara la shopska: corta los tomates en dados grandes, el pepino en medias lunas, el pimiento verde en tiras finas y la cebolleta en aros. Aliña con el resto del aceite, el vinagre, sal, pimienta y el perejil picado.",
+    "Ralla el ajo y mezcla los langostinos con 2 cucharadas de ajvar, el ajo, el pimentón, 1 cucharada de aceite y sal, y déjalos 10 minutos.",
+    "Mientras, prepara la shopska: corta los tomates en dados grandes, el pepino en medias lunas, el pimiento verde en tiras finas y la cebolleta en aros, y pica el perejil. Aliña con el resto del aceite, el vinagre, sal, pimienta y el perejil.",
     "Ensarta los langostinos en los palillos, 5-6 por brocheta, atravesando cada uno por dos puntos para que no giren.",
     "Calienta la plancha a fuego fuerte y cocina las brochetas 2 minutos por cada lado, hasta que estén rosadas, opacas y con marcas tostadas. No te pases o quedarán gomosos.",
     "Reparte la ensalada en los platos, ralla el sirene por encima como una nevada, que es como se sirve en Bulgaria, y pon las brochetas al lado con el resto del ajvar como salsa y el pan."

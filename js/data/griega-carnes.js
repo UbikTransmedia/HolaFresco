@@ -36,11 +36,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el cordero con papel de cocina y salpimiéntalo. Calienta el aceite en la cazuela a fuego medio-alto y dora la carne por tandas 6-8 minutos, hasta que esté tostada por todos lados.",
-    "Añade la parte blanca de las cebolletas en rodajas y rehoga 4 minutos, hasta que esté transparente. Cubre con los 400 ml de agua caliente, tapa y cuece a fuego suave 60 minutos, hasta que la carne esté tierna al pincharla.",
+    "Corta en rodajas la parte blanca de las cebolletas y reserva el verde. Seca el cordero con papel de cocina y salpimiéntalo. Calienta el aceite en la cazuela a fuego medio-alto y dora la carne por tandas 6-8 minutos, hasta que esté tostada por todos lados.",
+    "Añade la parte blanca de las cebolletas y rehoga 4 minutos, hasta que esté transparente. Cubre con los 400 ml de agua caliente, tapa y cuece a fuego suave 60 minutos, hasta que la carne esté tierna al pincharla.",
     "Mientras, lava la lechuga y córtala en tiras gruesas; pica la parte verde de las cebolletas y el eneldo.",
     "Añade a la cazuela la lechuga, el verde de las cebolletas y la mitad del eneldo. Tapa y cuece 15 minutos más, hasta que la lechuga esté tierna. Deben quedar unos 250 ml de caldo; si hay mucho más, reduce destapado unos minutos.",
-    "Prepara el avgolemono: en un bol bate el huevo 1 minuto hasta que espume, añade el zumo del limón y la maicena disuelta en una cucharada de agua, sin dejar de batir.",
+    "Mientras se cuece la lechuga, prepara el avgolemono: en un bol bate el huevo 1 minuto hasta que espume, añade el zumo del limón y la maicena disuelta en una cucharada de agua, sin dejar de batir.",
     "Templa la mezcla añadiendo un cucharón de caldo caliente a hilo y batiendo sin parar; repite con otro cucharón. Así el huevo no cuaja de golpe.",
     "Aparta la cazuela del fuego, vierte el avgolemono y mueve la cazuela en círculos 1-2 minutos (sin remover con cuchara) hasta que la salsa espese y quede cremosa y amarilla pálida. No debe volver a hervir.",
     "Sirve enseguida con el resto del eneldo y una vuelta de pimienta."
@@ -89,8 +89,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el cordero y el cerdo en dados pequeños, de 1,5 cm (en la kreatopita la carne va en trocitos, no picada), sécalos y salpimiéntalos. Pica la cebolla y el ajo; pela la patata y córtala en dados de 1 cm.",
     "Calienta 1 cucharada de aceite en una cazuela a fuego fuerte y dora la carne en dos tandas, 4-5 minutos, hasta que esté tostada. Baja a fuego medio, añade la cebolla y rehoga 5 minutos; añade el ajo y rehoga 30 segundos más.",
-    "Vierte el vino y deja que hierva 2 minutos, raspando el fondo. Añade el tomate, la canela, el orégano y 150 ml de agua, tapa y cuece a fuego suave 30 minutos, hasta que la carne esté tierna y queden unas 6-8 cucharadas de salsa: el arroz la absorberá en el horno.",
-    "Fuera del fuego, mezcla el guiso con el arroz crudo, la patata, el perejil picado y el kefalotyri. Deja templar 10 minutos (mientras, precalienta el horno a 180 °C), prueba de sal y añade el huevo batido.",
+    "Vierte el vino y deja que hierva 2 minutos, raspando el fondo. Añade el tomate, la canela, el orégano y 150 ml de agua, tapa y cuece a fuego suave 30 minutos, hasta que la carne esté tierna y queden unas 6-8 cucharadas de salsa: el arroz la absorberá en el horno. Mientras, pica el perejil y bate el huevo.",
+    "Fuera del fuego, mezcla el guiso con el arroz crudo, la patata, el perejil y el kefalotyri. Deja templar 10 minutos (mientras, precalienta el horno a 180 °C), prueba de sal y añade el huevo.",
     "Unta con aceite una fuente de unos 20 cm. Forra la base con 3 láminas de filo, pintando cada una con aceite y dejando que cuelguen por los bordes.",
     "Reparte el relleno, dobla hacia dentro las láminas que cuelgan y cubre con las 2 láminas restantes, pintadas con aceite y algo arrugadas. Marca las raciones con un cuchillo sin llegar al relleno y salpica la superficie con unas gotas de agua para que no se queme.",
     "Hornea en la parte baja del horno 50-55 minutos, hasta que la filo esté bien dorada y el relleno deje de burbujear por los cortes. Deja reposar 10 minutos antes de cortar."
@@ -182,13 +182,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Remoja el pan en el vino 5 minutos, escúrrelo apretando y desmenúzalo en un bol con la carne, el huevo, 2 ajos rallados, el comino, sal y pimienta. Amasa 2 minutos, hasta que la mezcla esté pegajosa.",
+    "Remoja el pan en el vino 5 minutos; mientras, ralla 2 ajos y pica el tercero. Escurre el pan apretando y desmenúzalo en un bol con la carne, el huevo, los ajos rallados, el comino, sal y pimienta. Amasa 2 minutos, hasta que la mezcla esté pegajosa.",
     "Con las manos húmedas, forma 8-10 albóndigas alargadas, como un dedo gordo de unos 8 cm. Pásalas por la harina y sacude el exceso.",
     "Dóralas en la sartén con el aceite a fuego medio-alto 6-7 minutos, girándolas, hasta que tengan costra por todos lados; no hace falta que estén hechas por dentro.",
-    "En la cazuela, rehoga el último ajo picado 30 segundos con un poco del aceite de la sartén. Añade el tomate, la canela, el laurel, el azúcar, sal y 100 ml de agua, y cuece 10 minutos a fuego medio.",
-    "Pasa las albóndigas a la salsa, tapa y cuece a fuego suave 20 minutos, hasta que la salsa esté espesa y brillante y las albóndigas tiernas.",
+    "En la cazuela, rehoga el ajo picado 30 segundos con un poco del aceite de la sartén. Añade el tomate, la canela, el laurel, el azúcar, sal y 100 ml de agua, y cuece 10 minutos a fuego medio.",
+    "Pasa las albóndigas a la salsa, tapa y cuece a fuego suave 20 minutos, hasta que la salsa esté espesa y brillante y las albóndigas tiernas. Si lo usas, pica el perejil mientras tanto.",
     "Mientras, en un cazo, sofríe el arroz con la mantequilla 2 minutos, hasta que brille. Añade 280 ml de agua con sal, lleva a ebullición, tapa y cuece 12 minutos a fuego mínimo; deja reposar 5 minutos tapado y suelta los granos con un tenedor.",
-    "Retira la canela y el laurel y sirve las soutzoukakia con su salsa junto al arroz, con perejil picado si quieres."
+    "Retira la canela y el laurel y sirve las soutzoukakia con su salsa junto al arroz, con el perejil si quieres."
   ],
   nutricion: { kcal: 800, prot: 42, hc: 76, grasa: 35 },
   etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "para niños"],
@@ -230,7 +230,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una cazuela grande de agua con sal. Mientras, quita el troncho de la col cortando un cono con un cuchillo. Sumérgela entera en el agua hirviendo y ve despegando las hojas con unas pinzas a medida que se ablandan, 2-3 minutos cada tanda. Escúrrelas y recorta con el cuchillo el nervio central más grueso.",
-    "Ralla la cebolla. En un bol mezcla las dos carnes, el arroz lavado y crudo, la cebolla, la menta picada, 1 cucharadita de pimentón dulce, 1 cucharada de aceite, sal y pimienta.",
+    "Ralla la cebolla, pica la menta y lava el arroz. En un bol mezcla las dos carnes, el arroz crudo, la cebolla, la menta, 1 cucharadita de pimentón dulce, 1 cucharada de aceite, sal y pimienta.",
     "Pon una cucharada colmada de relleno en la base de cada hoja, dobla los lados hacia dentro y enrolla apretando sin pasarte: el arroz necesita sitio para hincharse. Salen 12-14 rollitos.",
     "Cubre el fondo de la cazuela limpia con las hojas rotas o pequeñas y coloca encima los rollitos, bien juntos y con la juntura hacia abajo.",
     "Mezcla el tomate triturado, el concentrado, el resto del pimentón dulce, el picante si lo usas, la otra cucharada de aceite y 300 ml de agua. Viértelo por encima y pon un plato boca abajo sobre los rollitos para que no se muevan.",
@@ -276,9 +276,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las salchichas en rodajas gruesas de 2 cm y dóralas en la sartén con el aceite a fuego medio-alto 5-6 minutos, hasta que estén tostadas. Sácalas y deja la grasa en la sartén.",
-    "Añade la cebolla en juliana y los pimientos en tiras con una pizca de sal. Rehoga a fuego medio 10 minutos, hasta que estén blandos y empiecen a tostarse. Mientras, ralla los tomates por el lado del corte, desechando la piel.",
-    "Añade el ajo laminado, el pimentón, la guindilla desmenuzada y el orégano, y remueve 30 segundos sin que el pimentón se queme.",
+    "Corta la cebolla en juliana y los pimientos en tiras, lamina el ajo y ralla la piel de la naranja. Corta las salchichas en rodajas gruesas de 2 cm y dóralas en la sartén con el aceite a fuego medio-alto 5-6 minutos, hasta que estén tostadas. Sácalas y deja la grasa en la sartén.",
+    "Añade la cebolla y los pimientos con una pizca de sal. Rehoga a fuego medio 10 minutos, hasta que estén blandos y empiecen a tostarse. Mientras, ralla los tomates por el lado del corte, desechando la piel.",
+    "Añade el ajo, el pimentón, la guindilla desmenuzada y el orégano, y remueve 30 segundos sin que el pimentón se queme.",
     "Vierte el vino y deja que se evapore 2 minutos, raspando el fondo de la sartén.",
     "Añade el tomate rallado con las salchichas y un poco de ralladura de naranja. Cuece a fuego suave 15 minutos, hasta que la salsa espese y los pimientos estén melosos.",
     "Prueba de sal y pimienta y sirve caliente, con pan para mojar si quieres."
@@ -318,8 +318,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca muy bien el conejo y salpimiéntalo. Calienta el aceite en la cazuela a fuego medio-alto y dora el conejo por tandas 8-10 minutos, moviéndolo poco, hasta que esté bien tostado.",
-    "Añade las cebollas en juliana gruesa y los ajos enteros aplastados. Baja a fuego medio y rehoga 8 minutos, removiendo y raspando el fondo, hasta que la cebolla esté dorada.",
+    "Seca muy bien el conejo y salpimiéntalo. Calienta el aceite en la cazuela a fuego medio-alto y dora el conejo por tandas 8-10 minutos, moviéndolo poco, hasta que esté bien tostado. Mientras se dora, corta las cebollas en juliana gruesa y aplasta los ajos enteros.",
+    "Añade las cebollas y los ajos. Baja a fuego medio y rehoga 8 minutos, removiendo y raspando el fondo, hasta que la cebolla esté dorada.",
     "Vierte el vino, deja que hierva 2 minutos y añade el romero y 100 ml de agua. Tapa y cuece a fuego suave 30 minutos. Mientras, pela las patatas y córtalas en dados de 3 cm.",
     "Añade las patatas con sal. Si hace falta, añade un poco de agua (50-100 ml) para que queden medio cubiertas. Tapa y cuece 20-25 minutos más, hasta que las patatas estén tiernas y el conejo se separe fácilmente del hueso.",
     "Destapa los últimos 5 minutos para que la salsa reduzca y quede untuosa, casi sin líquido.",
@@ -359,9 +359,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Frota el cordero con sal, pimienta y los ajos machacados. Si tienes tiempo, déjalo así 2 horas o toda la noche en la nevera.",
-    "Precalienta el horno a 170 °C. En el fondo de una cazuela de barro o una fuente honda, haz una cama con las ramas de romero y la cebolla en rodajas gruesas.",
-    "Coloca el cordero encima, las patatas peladas y en cuartos alrededor, y reparte por encima el eneldo con sus tallos. Riega con el vino y el aceite.",
+    "Machaca los ajos y frota el cordero con ellos, sal y pimienta. Si tienes tiempo, déjalo así 2 horas o toda la noche en la nevera.",
+    "Precalienta el horno a 170 °C. Mientras se calienta, corta la cebolla en rodajas gruesas y pela las patatas y córtalas en cuartos. En el fondo de una cazuela de barro o una fuente honda, haz una cama con las ramas de romero y la cebolla.",
+    "Coloca el cordero encima, las patatas alrededor, y reparte por encima el eneldo con sus tallos. Riega con el vino y el aceite.",
     "Tapa herméticamente con su tapa o con doble capa de papel de aluminio bien ajustada a los bordes, para que no escape el vapor. Hornea 2 horas y 15 minutos sin abrir.",
     "Destapa: la carne debe separarse del hueso con una cuchara. Sube el horno a 210 °C y hornea 15-20 minutos más, hasta que la superficie y las patatas se doren y el jugo reduzca.",
     "Retira las ramas de romero y sirve el cordero con las patatas y el jugo de vino y eneldo por encima."
@@ -403,11 +403,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Golpea ligeramente los filetes para igualar el grosor, salpimiéntalos y pásalos por la harina, sacudiendo el exceso.",
+    "Lamina los ajos y pica el perejil. Golpea ligeramente los filetes para igualar el grosor, salpimiéntalos y pásalos por la harina, sacudiendo el exceso.",
     "Calienta el aceite en una cazuela ancha a fuego medio-alto y marca los filetes 1 minuto por lado, solo para dorarlos. Sácalos.",
-    "Baja el fuego y añade los ajos laminados y la mitad del perejil picado. Rehoga 1 minuto, sin que el ajo llegue a dorarse demasiado.",
+    "Baja el fuego y añade los ajos y la mitad del perejil. Rehoga 1 minuto, sin que el ajo llegue a dorarse demasiado.",
     "Vierte el vino y el vinagre, raspa el fondo y devuelve la carne. Añade agua hasta casi cubrir (unos 150 ml), tapa y cuece a fuego muy suave 45-50 minutos, hasta que la carne esté tierna y la salsa haya espesado.",
-    "Mientras, cuece las patatas peladas y troceadas en agua con sal 20 minutos. Escúrrelas y aplástalas con la mantequilla y la leche caliente hasta tener un puré liso.",
+    "Mientras, pela las patatas, trocéalas y cuécelas en agua con sal 20 minutos. Escúrrelas y aplástalas con la mantequilla y la leche caliente hasta tener un puré liso.",
     "Prueba la salsa: debe ser ácida pero redonda. Si está muy fuerte, añade un poco de agua y cuece 2 minutos más. Termina con el resto del perejil.",
     "Sirve los filetes con mucha salsa junto al puré."
   ],
@@ -491,12 +491,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los contramuslos en 3-4 trozos, salpimiéntalos y dóralos en la sartén con el aceite a fuego medio-alto 6 minutos, hasta que estén dorados por fuera. Sácalos.",
-    "En la misma sartén, rehoga la cebolleta en rodajas y el pimiento en tiras 5 minutos a fuego medio, hasta que se ablanden. Añade el ajo laminado y la guindilla y remueve 30 segundos.",
+    "Corta la cebolleta en rodajas y el pimiento en tiras y lamina el ajo. Corta los contramuslos en 3-4 trozos, salpimiéntalos y dóralos en la sartén con el aceite a fuego medio-alto 6 minutos, hasta que estén dorados por fuera. Sácalos.",
+    "En la misma sartén, rehoga la cebolleta y el pimiento 5 minutos a fuego medio, hasta que se ablanden. Añade el ajo y la guindilla y remueve 30 segundos.",
     "Aparta la sartén del fuego, vierte el ouzo y vuelve a ponerla a fuego fuerte 1 minuto, raspando el fondo, hasta que se evapore el alcohol.",
-    "Añade el tomate y el orégano, devuelve el pollo y cuece a fuego suave 10 minutos, hasta que la salsa espese y el pollo esté hecho, sin rastro rosado en el centro.",
+    "Añade el tomate y el orégano, devuelve el pollo y cuece a fuego suave 10 minutos, hasta que la salsa espese y el pollo esté hecho, sin rastro rosado en el centro. Mientras, pica el perejil.",
     "Desmigaja la feta por encima y tapa 2 minutos para que se ablande sin llegar a fundirse del todo.",
-    "Termina con el perejil picado y sirve en la misma sartén, con pan para mojar si quieres."
+    "Termina con el perejil y sirve en la misma sartén, con pan para mojar si quieres."
   ],
   nutricion: { kcal: 465, prot: 40, hc: 13, grasa: 27 },
   etiquetas: ["creativa", "una sola sartén", "ligera", "alta en proteína", "ideal para llevar"],
@@ -534,13 +534,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas en dados de 1,5 cm. Corta el pavo en medallones de 1 cm y salpimiéntalo.",
+    "Pela las patatas y córtalas en dados de 1,5 cm. Corta la cebolleta en rodajas. Corta el pavo en medallones de 1 cm y salpimiéntalo.",
     "Marca el pavo en una sartén ancha con el aceite a fuego fuerte 1 minuto por lado, solo para dorarlo. Sácalo a un plato.",
-    "Baja a fuego medio y rehoga la cebolleta en rodajas 2 minutos. Añade las patatas y el caldo, tapa y cuece 12 minutos, hasta que estén casi tiernas.",
-    "Añade las alcachofas en mitades y el pavo con su jugo. Cuece destapado 4-5 minutos, hasta que el pavo esté blanco por dentro y el caldo se haya reducido a la mitad.",
+    "Baja a fuego medio y rehoga la cebolleta 2 minutos. Añade las patatas y el caldo, tapa y cuece 12 minutos, hasta que estén casi tiernas. Mientras, pica el eneldo y parte las alcachofas por la mitad.",
+    "Añade las alcachofas y el pavo con su jugo. Cuece destapado 4-5 minutos, hasta que el pavo esté blanco por dentro y el caldo se haya reducido a la mitad.",
     "Mientras, bate en un bol el huevo 1 minuto hasta que espume, añade el zumo del limón y la maicena y sigue batiendo. Incorpora poco a poco dos cucharones del caldo caliente de la sartén, batiendo sin parar.",
     "Aparta la sartén del fuego, vierte la mezcla y mueve la sartén en círculos 1-2 minutos, hasta que la salsa espese y quede cremosa. No debe volver a hervir o el huevo se cortará.",
-    "Espolvorea el eneldo picado y una vuelta de pimienta, y sirve enseguida."
+    "Espolvorea el eneldo y una vuelta de pimienta, y sirve enseguida."
   ],
   nutricion: { kcal: 410, prot: 44, hc: 31, grasa: 11 },
   etiquetas: ["creativa", "ligera", "sin gluten", "alta en proteína", "primavera", "poco especiada", "bajo en colesterol"],
@@ -625,9 +625,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Mezcla la miel con 1 cucharadita de zumo de limón.",
     "Salpimienta el pavo, úntalo por arriba con la miel y aprieta encima el sésamo para que se pegue bien. Ponlo en una fuente con unas gotas de aceite y hornea 18-20 minutos, hasta que el sésamo esté dorado y el jugo salga claro al pincharlo.",
-    "Mientras, calienta el caldo en un cazo y ralla grueso el calabacín. Rehoga en la cazuela con el resto del aceite la cebolleta picada y el ajo 2 minutos. Añade el orzo y tuéstalo 1 minuto removiendo.",
-    "Añade el calabacín rallado y el caldo caliente en dos veces, como un risotto. Cuece 10-11 minutos removiendo a menudo, hasta que el orzo esté al dente y cremoso.",
-    "Fuera del fuego, mezcla el orzo con la feta desmigada, la ralladura del limón, un chorrito de su zumo y la menta picada. Prueba de sal.",
+    "Mientras, calienta el caldo en un cazo, ralla grueso el calabacín, pica la cebolleta, el ajo y la menta, ralla la piel del limón y desmiga la feta. Rehoga en la cazuela con el resto del aceite la cebolleta y el ajo 2 minutos. Añade el orzo y tuéstalo 1 minuto removiendo.",
+    "Añade el calabacín y el caldo caliente en dos veces, como un risotto. Cuece 10-11 minutos removiendo a menudo, hasta que el orzo esté al dente y cremoso.",
+    "Fuera del fuego, mezcla el orzo con la feta, la ralladura del limón, un chorrito de su zumo y la menta. Prueba de sal.",
     "Deja reposar el pavo 3 minutos, córtalo en rodajas y sírvelo sobre el orzo."
   ],
   nutricion: { kcal: 625, prot: 52, hc: 57, grasa: 21 },
@@ -669,7 +669,7 @@ window.RECETAS_SEED.push({
     "Si usas palillos de madera, remójalos 10 minutos en agua mientras preparas el resto.",
     "Corta las salchichas en trozos de 3 cm, el halloumi en dados de 2,5 cm, el pimiento en cuadrados y la cebolla morada en pétalos. Ensarta alternando con los tomates cherry en 4-6 brochetas, píntalas con el aceite y espolvorea orégano y pimienta. No añadas sal: el halloumi ya es salado.",
     "Precalienta la airfryer a 200 °C 3 minutos y cocina las brochetas en una sola capa 10-12 minutos, girándolas a mitad, hasta que la salchicha esté dorada y hecha por dentro y el halloumi tenga zonas tostadas.",
-    "Mientras, mezcla en un bol el yogur con la menta picada, la ralladura de medio limón y un chorrito de su zumo.",
+    "Mientras, pica la menta, ralla la piel de medio limón y mézclalas en un bol con el yogur y un chorrito de su zumo.",
     "Calienta las pitas 1 minuto en la airfryer cuando saques las brochetas.",
     "Sirve las brochetas recién hechas, porque el halloumi se endurece al enfriarse, con la pita, la salsa de yogur y el resto del limón en gajos."
   ],
@@ -711,8 +711,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla media cebolla morada y escúrrela con las manos. Mézclala en un bol con la carne, el orégano, la mitad de la menta picada, sal y pimienta, sin amasar demasiado. Forma 4 bolas.",
-    "Mezcla el yogur con el ajo rallado, el resto de la menta y una pizca de sal. Corta el tomate en rodajas, la otra media cebolla en plumas finas y la lechuga en tiras.",
+    "Pica la menta. Ralla media cebolla morada y escúrrela con las manos. Mézclala en un bol con la carne, el orégano, la mitad de la menta, sal y pimienta, sin amasar demasiado. Forma 4 bolas.",
+    "Ralla el ajo y mézclalo con el yogur, el resto de la menta y una pizca de sal. Corta el tomate en rodajas, la otra media cebolla en plumas finas y la lechuga en tiras.",
     "Calienta la plancha a fuego fuerte hasta que humee, con unas gotas de aceite. Pon las bolas y aplástalas enseguida con una espátula firme hasta dejarlas de 1 cm.",
     "Cocina 2 minutos sin tocarlas, hasta que tengan una costra oscura. Dales la vuelta, reparte la feta desmigada encima y tápalas con un cuenco 1-2 minutos para que se ablande.",
     "Calienta las pitas en la plancha 30 segundos por lado.",
@@ -757,8 +757,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las berenjenas a lo largo en láminas de 5 mm (salen unas 12), colócalas en una bandeja con papel, píntalas con 1 cucharada y media de aceite y sálalas. Hornea 15 minutos, hasta que estén flexibles y doradas.",
-    "Mientras, dora el cordero en la sartén a fuego fuerte sin aceite 6 minutos, desmenuzándolo, y retira el exceso de grasa. Añade el resto del aceite, la cebolla picada y el ajo, y rehoga 5 minutos.",
-    "Añade la mitad del tomate, la canela, el clavo, sal y pimienta, y cuece 10 minutos a fuego medio, hasta que el relleno quede espeso y sin líquido suelto. Mézclalo con el perejil picado.",
+    "Mientras, pica la cebolla, el ajo y el perejil. Dora el cordero en la sartén a fuego fuerte sin aceite 6 minutos, desmenuzándolo, y retira el exceso de grasa. Añade el resto del aceite, la cebolla y el ajo, y rehoga 5 minutos.",
+    "Añade la mitad del tomate, la canela, el clavo, sal y pimienta, y cuece 10 minutos a fuego medio, hasta que el relleno quede espeso y sin líquido suelto. Mézclalo con el perejil.",
     "Extiende el resto del tomate con una pizca de sal en una fuente de horno pequeña. Pon una cucharada de relleno en un extremo de cada lámina de berenjena, enróllala y colócala con la juntura hacia abajo, con los rollitos bien juntos.",
     "Bate en un bol el yogur con el huevo y la mitad del queso, cubre los rollitos con esta crema y espolvorea el resto del queso.",
     "Baja el horno a 200 °C y hornea 20 minutos, hasta que la cobertura cuaje y esté dorada a manchas.",
@@ -801,8 +801,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Saltea las espinacas con la cebolleta picada en la sartén con 1 cucharada de aceite 3 minutos, hasta que se reduzcan. Escúrrelas apretando bien y pícalas.",
-    "Mezcla en un bol las espinacas con la feta desmigada, el eneldo picado, la ralladura del limón y pimienta.",
+    "Precalienta el horno a 200 °C. Pica la cebolleta y el eneldo y ralla la piel del limón. Saltea las espinacas con la cebolleta en la sartén con 1 cucharada de aceite 3 minutos, hasta que se reduzcan. Escúrrelas apretando bien y pícalas.",
+    "Mezcla en un bol las espinacas con la feta desmigada, el eneldo, la ralladura y pimienta.",
     "Abre cada pechuga en libro con un corte lateral sin llegar al final, salpimiéntala por dentro, rellénala con la mitad de la mezcla y ciérrala.",
     "Pinta una hoja de filo con aceite, pon otra encima y píntala también. Coloca una pechuga en un extremo, dobla los lados y enrolla como un paquete. Repite con la otra.",
     "Pon los paquetes con la juntura hacia abajo en una bandeja con papel, píntalos con aceite y espolvorea el sésamo.",
@@ -895,11 +895,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas, sécalas y pínchalas 6-8 veces con un tenedor. Ponlas en un plato apto y cocínalas en el microondas a máxima potencia (800-900 W) 6 minutos; dales la vuelta y cocina 5-7 minutos más, hasta que un cuchillo entre sin resistencia. Déjalas reposar 3 minutos envueltas en un paño.",
-    "Mientras, rehoga la cebolla picada en la sartén con el aceite 4 minutos a fuego medio y añade el ajo picado 30 segundos.",
+    "Mientras, pica la cebolla, el ajo y el perejil. Rehoga la cebolla en la sartén con el aceite 4 minutos a fuego medio y añade el ajo 30 segundos.",
     "Sube el fuego, añade la carne y desmenúzala 5 minutos, hasta que se dore y pierda el color rosado.",
     "Añade el tomate triturado, el concentrado, la canela, el laurel, sal y pimienta, y cuece 8-10 minutos a fuego medio, hasta que la salsa esté espesa y sin líquido suelto. Retira el laurel.",
     "Abre las patatas con un corte en cruz, aprieta la base para que se abran y chafa un poco la pulpa con un tenedor y una pizca de sal.",
-    "Rellénalas con la kima y termina con una cucharada de yogur, la feta desmigada y el perejil picado."
+    "Rellénalas con la kima y termina con una cucharada de yogur, la feta desmigada y el perejil."
   ],
   nutricion: { kcal: 605, prot: 33, hc: 53, grasa: 28 },
   etiquetas: ["creativa", "rápida", "económica", "para niños", "ideal para llevar", "sin verduras", "poco especiada"],

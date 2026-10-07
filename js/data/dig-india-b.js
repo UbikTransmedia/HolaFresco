@@ -48,7 +48,7 @@ window.RECETAS_SEED.push({
     "Bate el yogur en un bol con las semillas de hinojo molidas, el jengibre molido, el pimentón y 150 ml de agua hasta que quede liso y sin grumos. Batirlo muy bien y que no esté frío es lo que evita que se corte.",
     "Calienta la mantequilla clarificada en una cazuela a fuego medio-bajo y echa el cardamomo abierto con la punta de un cuchillo, el clavo y la canela; cuando huelan (30 segundos), añade la asafétida y retira la cazuela del fuego.",
     "Fuera del fuego, vierte el yogur poco a poco sin dejar de remover. Vuelve a ponerla a fuego suave y remueve siempre en el mismo sentido hasta que rompa a hervir suavemente y la salsa tome un tono rojizo, unos 5 minutos.",
-    "Añade las patatas, sala, tapa bien la cazuela y cocina a fuego mínimo (eso es el «dum») 15 minutos, moviendo la cazuela de vez en cuando sin abrirla, hasta que la salsa espese y se pegue a las patatas.",
+    "Añade las patatas, sala, tapa bien la cazuela y cocina a fuego mínimo (eso es el «dum») 15 minutos, moviendo la cazuela de vez en cuando sin abrirla, hasta que la salsa espese y se pegue a las patatas. Mientras, pica el cilantro.",
     "Retira la canela y, si quieres, las vainas de cardamomo. Sirve el dum aloo con su salsa sobre el arroz y termina con el cilantro picado."
   ],
   nutricion: { kcal: 640, prot: 15, hc: 103, grasa: 19 },
@@ -128,11 +128,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon las semillas de amapola en remojo en 80 ml de agua caliente durante 20 minutos; así se ablandan y se trituran mejor.",
     "Mientras, lava el arroz basmati hasta que el agua salga clara y cuécelo en 260 ml de agua con sal: 10 minutos tapado a fuego mínimo y 10 de reposo sin destapar.",
-    "Pela las patatas y córtalas en dados de 2 cm. Tritura la amapola con su agua de remojo hasta tener una pasta fina y blanquecina, como una crema espesa.",
+    "Mientras se cuece el arroz, pela las patatas y córtalas en dados de 2 cm. Cuando acabe el remojo, tritura la amapola con su agua hasta tener una pasta fina y blanquecina, como una crema espesa.",
     "Calienta el aceite de mostaza en una sartén honda a fuego medio-alto hasta que humee un poco, baja el fuego y añade la nigella; en 10 segundos chisporroteará. Echa las patatas, la cúrcuma y una pizca de sal y saltéalas 5 minutos, hasta que se tiñan de amarillo.",
-    "Añade 150 ml de agua, tapa y cuece a fuego suave 12-15 minutos, hasta que las patatas estén tiernas y casi sin líquido.",
+    "Añade 150 ml de agua, tapa y cuece a fuego suave 12-15 minutos, hasta que las patatas estén tiernas y casi sin líquido. Mientras, corta el pepino en medias lunas finas y alíñalo con el zumo de media lima y sal, y pica el cilantro.",
     "Incorpora la pasta de amapola y la pizca de azúcar, remueve con cuidado para que no se rompan las patatas y cocina 3-4 minutos más, hasta que la pasta se agarre y huela a tostado suave. Si queda muy seca, añade un chorrito de agua.",
-    "Mientras, corta el pepino en medias lunas finas y alíñalo con el zumo de media lima y sal. Sirve el aloo posto con el arroz, el pepino y el cilantro picado, y unas cuñas de lima."
+    "Sirve el aloo posto con el arroz, el pepino y el cilantro picado, y unas cuñas de lima."
   ],
   nutricion: { kcal: 630, prot: 15, hc: 106, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "económica"],
@@ -263,9 +263,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Cuece las patatas peladas y troceadas en agua con sal 15 minutos, hasta que estén tiernas. Mientras, envuelve el tofu en un paño, presiónalo 10 minutos bajo un peso y desmígalo con los dedos, como si fuera paneer.",
+    "Precalienta el horno a 200 °C. Pela las patatas, trocéalas y cuécelas en agua con sal 15 minutos, hasta que estén tiernas. Mientras, envuelve el tofu en un paño, presiónalo 10 minutos bajo un peso y desmígalo con los dedos, como si fuera paneer. Aprovecha también para cortar la cebolleta en aros, picar el cilantro y rallar el jengibre.",
     "Corta una tapa a los pimientos por el lado del tallo, quítales las semillas y los nervios blancos y pásalos 5 minutos al horno, para que empiecen a ablandarse.",
-    "Calienta el aceite de ajo en una sartén a fuego medio, echa el comino y, cuando chisporrotee, la cúrcuma, el cilantro molido y la cebolleta en aros. Rehoga 1 minuto, añade la patata escurrida y aplástala con el tenedor dejando algún trozo. Incorpora el tofu desmigado y remueve 2 minutos para que se tiña de amarillo. Mezcla con la mitad del cilantro picado, el zumo de media lima y sal.",
+    "Calienta el aceite de ajo en una sartén a fuego medio, echa el comino y, cuando chisporrotee, la cúrcuma, el cilantro molido y la cebolleta. Rehoga 1 minuto, añade la patata escurrida y aplástala con el tenedor dejando algún trozo. Incorpora el tofu desmigado y remueve 2 minutos para que se tiña de amarillo. Mezcla con la mitad del cilantro picado, el zumo de media lima y sal.",
     "Rellena los pimientos apretando bien, ponles su tapa y colócalos de pie en una fuente. Hornéalos 25-30 minutos, hasta que la piel se arrugue y tenga manchas tostadas.",
     "Mientras, prepara la salsa: calienta el aceite de oliva en una cazuela pequeña, añade el jengibre rallado y el cardamomo abierto, y a los 30 segundos el tomate triturado y sal. Cuece 15 minutos a fuego suave, hasta que espese y pierda la acidez. Retira las vainas de cardamomo.",
     "Sirve los pimientos sobre la salsa, con una cucharada de yogur sin lactosa, el resto del cilantro y unas gotas de lima."
@@ -351,10 +351,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el tempeh en dados de 2 cm y cuécelo al vapor o en agua hirviendo 10 minutos: pierde el amargor y queda más tierno y digestivo. Escúrrelo y sécalo con papel.",
-    "Lava el arroz basmati y cuécelo en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; reposa 5 minutos sin destapar.",
-    "Mientras, corta las judías en trozos de 2 cm y la patata y la zanahoria en bastoncitos de 4 cm de largo y medio centímetro de grosor, para que se hagan al mismo tiempo.",
+    "Mientras, lava el arroz basmati y cuécelo en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; reposa 5 minutos sin destapar.",
+    "Mientras se cuece, corta las judías en trozos de 2 cm y la patata y la zanahoria en bastoncitos de 4 cm de largo y medio centímetro de grosor, para que se hagan al mismo tiempo. Corta el jengibre en juliana fina y la cebolleta en aros, y machaca gruesa la pimienta en el mortero.",
     "Calienta 1 cucharadita de aceite de coco en una sartén amplia antiadherente a fuego medio-alto y dora el tempeh 5 minutos, hasta que esté tostado por varias caras. Sácalo.",
-    "Añade el resto del aceite y la mostaza y, cuando salte, las hojas de curry, el jengibre y la cebolleta en aros. Remueve 1 minuto sin que se doren. Incorpora la patata, la zanahoria, las judías, la cúrcuma, sal y 4 cucharadas de agua, tapa y cuece a fuego medio-bajo 8 minutos, hasta que estén tiernas.",
+    "Añade el resto del aceite y la mostaza y, cuando salte, las hojas de curry, el jengibre y la cebolleta. Remueve 1 minuto sin que se doren. Incorpora la patata, la zanahoria, las judías, la cúrcuma, sal y 4 cucharadas de agua, tapa y cuece a fuego medio-bajo 8 minutos, hasta que estén tiernas.",
     "Destapa, sube a fuego medio, añade el tempeh y la pimienta machacada y saltea 4 o 5 minutos, removiendo cada minuto, hasta que se evapore el agua, las patatas tengan los bordes dorados y todo brille de aceite: ese «untado» es lo que da nombre al plato.",
     "Prueba de sal y sirve enseguida con el arroz."
   ],
@@ -444,7 +444,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre el tofu, envuélvelo en un paño y presiónalo 10 minutos bajo un peso. Córtalo en dados de 2 cm.",
-    "Mientras, corta la col en juliana muy fina, ralla la zanahoria en tiras gruesas y corta el pimiento verde en tiras finas de 4 cm: cuanto más fino el corte, menos fuego necesita y más crujiente queda. Pica gruesos los cacahuetes.",
+    "Mientras, corta la col en juliana muy fina, ralla la zanahoria en tiras gruesas y corta el pimiento verde en tiras finas de 4 cm: cuanto más fino el corte, menos fuego necesita y más crujiente queda. Pica gruesos los cacahuetes y pica el cilantro.",
     "Calienta 1 cucharadita de aceite en una sartén antiadherente amplia a fuego medio-alto y dora el tofu 6 minutos, girándolo, hasta que tenga costra en varias caras. Espolvoréalo con una pizca de sal negra y sácalo.",
     "En la misma sartén, añade el resto del aceite y la mostaza y, cuando salte, la asafétida y las hojas de curry. A los 10 segundos agrega la cúrcuma y enseguida la col, la zanahoria y el pimiento.",
     "Saltea 3 o 4 minutos sin dejar de remover, solo hasta que las verduras pierdan el tono crudo y brillen pero sigan crujientes. Añade sal y el azúcar.",
@@ -490,9 +490,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el mijo en un colador fino hasta que el agua salga limpia y tuéstalo en una cazuela seca 2 minutos, hasta que huela a pan. Añade 300 ml de agua con sal, tapa y cuece a fuego mínimo 15 minutos; reposa 5 minutos, suéltalo con un tenedor y extiéndelo en una bandeja para que se enfríe suelto.",
-    "Mientras se cuece, prepara el pachadi: tritura el coco rallado con un cuarto de cucharadita de mostaza y 3 cucharadas de agua hasta tener una pasta fina. Mézclala con el yogur batido y una pizca de sal.",
+    "Mientras se cuece, prepara el pachadi: tritura el coco rallado con un cuarto de cucharadita de mostaza y 3 cucharadas de agua hasta tener una pasta fina. Mézclala con el yogur batido y una pizca de sal. Corta el pepino en dados pequeños, la piña en dados y la cebolleta en aros finos; ralla el jengibre y pica el cilantro.",
     "Seca las gambas y mézclalas con la cúrcuma, el jengibre rallado y sal. Calienta 1 cucharadita de aceite de coco en una sartén a fuego fuerte y márcalas 1 minuto por cada lado, hasta que estén rosadas y opacas. Sácalas a un plato.",
-    "Corta el pepino en dados pequeños, la piña en dados y la cebolleta en aros finos. Mézclalos con el mijo frío, el zumo de media lima y sal.",
+    "Mezcla el pepino, la piña y la cebolleta con el mijo frío, el zumo de media lima y sal.",
     "Para la tadka, calienta el resto del aceite en la sartén, añade el resto de la mostaza y, cuando salte, las hojas de curry; en 20 segundos estarán crujientes. Viértela caliente sobre el pachadi.",
     "Reparte el mijo en boles, pon encima las gambas y unas cucharadas de pachadi y termina con el cilantro picado y cuñas de lima."
   ],
@@ -534,9 +534,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla 60 g de yogur con el ajwain machacado entre los dedos, el jengibre rallado, la cúrcuma, el zumo de media lima y sal. Embadurna los filetes de pavo y déjalos marinar 20 minutos (o hasta 4 horas en la nevera).",
+    "Ralla el jengibre. Mezcla 60 g de yogur con el ajwain machacado entre los dedos, el jengibre, la cúrcuma, el zumo de media lima y sal. Embadurna los filetes de pavo y déjalos marinar 20 minutos (o hasta 4 horas en la nevera).",
     "Mientras se marina, precalienta el horno a 200 °C. Pela las zanahorias, córtalas en bastones al bies y mézclalas con 1 cucharada de aceite, el comino y sal. Ásalas 25 minutos, hasta que estén tiernas y con las puntas tostadas.",
-    "Mientras, prepara la raita: ralla la mitad del pepino, escúrrelo apretando con las manos y mézclalo con el resto del yogur, la menta picada y una pizca de sal. El resto del pepino córtalo en medias lunas.",
+    "Mientras, prepara la raita: ralla la mitad del pepino, escúrrelo apretando con las manos, pica la menta y mézclalos con el resto del yogur y una pizca de sal. El resto del pepino córtalo en medias lunas.",
     "Retira el exceso de marinada del pavo. Calienta el resto del aceite en una sartén a fuego medio-alto y cocina los filetes 4-5 minutos por cada lado, hasta que estén dorados y, al cortarlos, sin rastro rosado pero jugosos. Déjalos reposar 3 minutos y córtalos en tiras.",
     "Tuesta las semillas de calabaza en la misma sartén 1 minuto, hasta que se hinchen.",
     "Monta los platos con las espinacas, el pepino, las zanahorias templadas y el pavo. Termina con la raita, las semillas y un chorrito de lima."
@@ -578,12 +578,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz basmati hasta que el agua salga clara y cuécelo en 290 ml de agua con sal: 10 minutos tapado a fuego mínimo y 10 de reposo. Extiéndelo en una fuente para que se enfríe un poco y los granos queden sueltos.",
+    "Lava el arroz basmati hasta que el agua salga clara y cuécelo en 290 ml de agua con sal: 10 minutos tapado a fuego mínimo y 10 de reposo. Extiéndelo en una fuente para que se enfríe un poco y los granos queden sueltos. Mientras se cuece, pica muy fino el jengibre, corta el pepino y el tomate en dados pequeños y pica el cilantro.",
     "Calienta el aceite de coco en una sartén amplia a fuego medio y tuesta los cacahuetes 2-3 minutos, removiendo, hasta que estén dorados.",
-    "Añade la mostaza y, cuando empiece a saltar, la asafétida, las hojas de curry y el jengibre muy picado. Remueve 20 segundos.",
+    "Añade la mostaza y, cuando empiece a saltar, la asafétida, las hojas de curry y el jengibre. Remueve 20 segundos.",
     "Incorpora el coco rallado y tuéstalo a fuego medio-bajo 3-4 minutos, sin dejar de remover, hasta que esté dorado claro y huela a galleta. No lo dejes oscurecer o amargará.",
     "Añade el arroz y una pizca de sal y mezcla con movimientos envolventes, levantando desde el fondo para no romper el grano, hasta que cada grano quede cubierto de coco. Calienta 2 minutos.",
-    "Corta el pepino y el tomate en dados pequeños y alíñalos con el zumo de limón, sal y el cilantro picado. Sirve el arroz con la ensalada al lado."
+    "Aliña el pepino y el tomate con el zumo de limón, sal y el cilantro picado. Sirve el arroz con la ensalada al lado."
   ],
   nutricion: { kcal: 545, prot: 12, hc: 75, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "ideal para llevar", "económica"],
@@ -716,12 +716,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga casi clara y déjalo en remojo 15 minutos. Ralla el jengibre y sala el cerdo.",
+    "Lava el arroz hasta que el agua salga casi clara y déjalo en remojo 15 minutos. Mientras, ralla el jengibre, pica la parte verde de la cebolleta y sala el cerdo.",
     "Calienta el aceite de ajo en una cazuela de fondo grueso a fuego medio-alto y dora el cerdo 5 minutos, removiendo poco, hasta que pierda el color rosado y tenga algunas caras doradas.",
-    "Baja el fuego a medio, añade el jengibre, el laurel y la mitad de la cebolleta verde picada y remueve 1 minuto. Agrega la cúrcuma y la pimienta y remueve 30 segundos más, sin que se quemen.",
+    "Baja el fuego a medio, añade el jengibre, el laurel y la mitad de la cebolleta picada y remueve 1 minuto. Agrega la cúrcuma y la pimienta y remueve 30 segundos más, sin que se quemen.",
     "Incorpora el arroz escurrido y remueve 2 minutos, hasta que todos los granos estén teñidos de un amarillo intenso. Vierte 340 ml de agua caliente y sal.",
     "Cuando hierva, tapa y cuece a fuego mínimo 15 minutos. Apaga y deja reposar 10 minutos sin destapar: el jadoh debe quedar jugoso, con el grano tierno y la carne melosa.",
-    "Mientras, corta el pepino y el tomate en dados, mézclalos con el resto de la cebolleta, el cilantro picado, el zumo de media lima y sal.",
+    "Mientras, corta el pepino y el tomate en dados y pica el cilantro; mézclalos con el resto de la cebolleta, el zumo de media lima y sal.",
     "Suelta el arroz con un tenedor, retira el laurel y sírvelo con la ensalada fresca y la otra media lima en cuñas."
   ],
   nutricion: { kcal: 576, prot: 37, hc: 71, grasa: 16 },
@@ -765,13 +765,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Ata en un trozo de gasa (o mete en una bolsita de infusión) las semillas de cilantro, el hinojo, la pimienta, 2 vainas de cardamomo y 2 clavos. Es el «potli» del yakhni: perfuma el caldo sin dejar granos sueltos en el arroz.",
-    "Pon el pollo en una cazuela con 800 ml de agua, el jengibre en rodajas, el potli y sal. Lleva a ebullición, espuma y cuece a fuego suave, tapado, 35 minutos, hasta que la carne esté tierna y el caldo sea dorado y aromático. Cuando lleve 15 minutos, lava el arroz basmati hasta que el agua salga clara y déjalo en remojo 20 minutos.",
+    "Ata en un trozo de gasa (o mete en una bolsita de infusión) las semillas de cilantro, el hinojo, la pimienta, 2 vainas de cardamomo y 2 clavos. Es el «potli» del yakhni: perfuma el caldo sin dejar granos sueltos en el arroz. Corta el jengibre en rodajas.",
+    "Pon el pollo en una cazuela con 800 ml de agua, el jengibre, el potli y sal. Lleva a ebullición, espuma y cuece a fuego suave, tapado, 35 minutos, hasta que la carne esté tierna y el caldo sea dorado y aromático. Mientras, corta la cebolleta en aros y, cuando lleve 15 minutos, lava el arroz basmati hasta que el agua salga clara y déjalo en remojo 20 minutos.",
     "Saca el pollo y el potli (estrújalo), cuela el caldo y mide 300 ml. Retira el hueso a los muslos y deja la carne en trozos grandes.",
-    "En la cazuela limpia, calienta el aceite de ajo y la mantequilla clarificada a fuego medio. Añade el resto del cardamomo y del clavo, la canela y el laurel y, cuando chisporroteen, la cebolleta en aros. Remueve 1 minuto.",
+    "En la cazuela limpia, calienta el aceite de ajo y la mantequilla clarificada a fuego medio. Añade el resto del cardamomo y del clavo, la canela y el laurel y, cuando chisporroteen, la cebolleta. Remueve 1 minuto.",
     "Incorpora el arroz escurrido y remueve 2 minutos con cuidado, hasta que los granos se vuelvan translúcidos en los bordes. Vierte los 300 ml de caldo caliente, rectifica de sal y coloca el pollo encima.",
     "Cuando hierva, tapa bien (si la tapa no ajusta, pon un paño debajo) y cocina 12 minutos a fuego mínimo. Apaga y deja reposar 10 minutos sin destapar: es el dum, que termina el grano al vapor.",
-    "Mientras, ralla el pepino, escúrrelo y mézclalo con el yogur, la menta picada y sal. Suelta el pulao con un tenedor y sírvelo con la raita."
+    "Mientras, ralla el pepino, escúrrelo, pica la menta y mézclalos con el yogur y sal. Suelta el pulao con un tenedor y sírvelo con la raita."
   ],
   nutricion: { kcal: 625, prot: 42, hc: 62, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "invierno"],
@@ -816,7 +816,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 9 minutos en agua hirviendo, enfríalos en agua con hielo y pélalos. Hazles unos cortes poco profundos a lo largo para que el masala entre. Deja el azafrán en remojo en 2 cucharadas de agua caliente.",
-    "Lava el arroz basmati hasta que el agua salga clara y remójalo 20 minutos; mientras, ralla el tomate y el jengibre y corta la cebolleta en aros. Cuece el arroz en abundante agua hirviendo con sal, la canela y la mitad del cardamomo y del clavo durante 6 minutos: debe quedar al 70 %, partido entre los dedos con un punto blanco en el centro. Escúrrelo.",
+    "Lava el arroz basmati hasta que el agua salga clara y remójalo 20 minutos; mientras, ralla el tomate y el jengibre, corta la cebolleta en aros y pica la menta y el cilantro. Cuece el arroz en abundante agua hirviendo con sal, la canela y la mitad del cardamomo y del clavo durante 6 minutos: debe quedar al 70 %, partido entre los dedos con un punto blanco en el centro. Escúrrelo.",
     "Mientras, calienta el aceite de ajo en una cazuela de fondo grueso a fuego medio, echa el anís y el resto del cardamomo y el clavo, y después la cebolleta en aros y el jengibre rallado. Remueve 1 minuto.",
     "Añade la cúrcuma, el pimentón y el tomate rallado y cuece 6-8 minutos, hasta que se separe el aceite. Retira del fuego, incorpora el yogur batido, la mitad de la menta y del cilantro picados y sal; vuelve al fuego suave 2 minutos. Mete los huevos y ruédalos en el masala hasta que se tiñan de rojo.",
     "Extiende los huevos con su masala en el fondo y cubre con el arroz escurrido sin apretar. Riega con el agua de azafrán, la mantequilla clarificada derretida y el resto de las hierbas.",
@@ -863,11 +863,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hidrata los fideos de arroz en agua caliente según el envase (unos 5 minutos), hasta que estén flexibles pero firmes.",
-    "Mientras se hidratan, corta la zanahoria en bastoncitos finos, las judías verdes en rodajas finas al bies y el pimiento en tiras. Bate los huevos con una pizca de sal. Escurre los fideos, pásalos por agua fría y córtalos un par de veces con tijeras.",
+    "Mientras se hidratan, corta la zanahoria en bastoncitos finos, las judías verdes en rodajas finas al bies, el pimiento en tiras y la cebolleta en aros; pica el jengibre y el cilantro. Bate los huevos con una pizca de sal. Escurre los fideos, pásalos por agua fría y córtalos un par de veces con tijeras.",
     "Calienta media cucharada de aceite en el wok a fuego medio, vierte los huevos y remuévelos hasta que cuajen en trozos grandes y jugosos. Sácalos.",
-    "Añade el resto del aceite, la mostaza y, cuando salte, las hojas de curry y el jengibre picado. Echa la zanahoria y las judías y saltea 3 minutos a fuego fuerte; añade el pimiento y la cebolleta en aros y saltea 1 minuto más: deben quedar tiernas pero con algo de mordida.",
+    "Añade el resto del aceite, la mostaza y, cuando salte, las hojas de curry y el jengibre picado. Echa la zanahoria y las judías y saltea 3 minutos a fuego fuerte; añade el pimiento y la cebolleta y saltea 1 minuto más: deben quedar tiernas pero con algo de mordida.",
     "Incorpora la cúrcuma, los fideos y sal, y mezcla con dos pinzas, levantando, durante 2 minutos, hasta que los fideos estén amarillos y calientes. Si se pegan, añade 2 cucharadas de agua.",
-    "Devuelve el huevo, añade el zumo de medio limón y una vuelta de pimienta, mezcla y sirve con cilantro picado y cuñas de limón."
+    "Devuelve el huevo, añade el zumo de medio limón y una vuelta de pimienta, mezcla y sirve con el cilantro picado y cuñas de limón."
   ],
   nutricion: { kcal: 570, prot: 17, hc: 81, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "rápida", "para niños"],
@@ -909,9 +909,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz basmati y cuécelo en 260 ml de agua con sal: 10 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Tuesta el comino, el cilantro en grano y la pimienta en una sartén seca 1 minuto, hasta que huelan, y muélelos en el mortero con el jengibre hasta tener una pasta gruesa: es el rasam podi casero.",
-    "Tritura la mitad de la piña con 100 ml de agua hasta que quede lisa. La otra mitad córtala en dados muy pequeños.",
-    "En una cazuela, pon el tomate troceado, la pasta de especias, la cúrcuma, la pasta de tamarindo, sal y 500 ml de agua. Cuece 10 minutos a fuego medio, aplastando el tomate con una cuchara de madera.",
+    "Mientras, tuesta el comino, el cilantro en grano y la pimienta en una sartén seca 1 minuto, hasta que huelan, y muélelos en el mortero con el jengibre hasta tener una pasta gruesa: es el rasam podi casero.",
+    "Tritura la mitad de la piña con 100 ml de agua hasta que quede lisa. La otra mitad córtala en dados muy pequeños. Trocea el tomate y separa las hojas del cilantro de los tallos; pica los tallos.",
+    "En una cazuela, pon el tomate, la pasta de especias, la cúrcuma, la pasta de tamarindo, sal y 500 ml de agua. Cuece 10 minutos a fuego medio, aplastando el tomate con una cuchara de madera.",
     "Añade el puré y los dados de piña y los tallos de cilantro picados. Calienta a fuego suave hasta que suba una espuma ligera en la superficie y apaga justo antes de que hierva: el rasam no debe hervir con fuerza o pierde el aroma.",
     "Para la tadka, calienta la mantequilla clarificada en la sartén, echa la mostaza y, cuando salte, las hojas de curry y la asafétida. Viértela sobre el rasam y tapa 2 minutos.",
     "Sirve el rasam en cuencos con las hojas de cilantro, y el arroz al lado para ir mezclándolo cucharada a cucharada, o bebido en vaso."
@@ -957,13 +957,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Maja en el mortero el hinojo, el cilantro en grano y la pimienta hasta romperlos, sin llegar a polvo. Pela el jengibre y córtalo en tiras finas.",
-    "Calienta el aceite de ajo y el aceite de coco en una cazuela a fuego medio. Echa la canela, el clavo y las especias majadas y, cuando huelan (30 segundos), la mitad de las hojas de curry, el jengibre y la cebolleta en aros. Remueve 1 minuto sin que se dore.",
-    "Añade la cúrcuma y el tomate troceado y cocina 3 minutos, hasta que se ablande. Incorpora el pollo y remueve 2 minutos para que se impregne.",
+    "Maja en el mortero el hinojo, el cilantro en grano y la pimienta hasta romperlos, sin llegar a polvo. Pela el jengibre y córtalo en tiras finas, corta la cebolleta en aros y trocea el tomate.",
+    "Calienta el aceite de ajo y el aceite de coco en una cazuela a fuego medio. Echa la canela, el clavo y las especias majadas y, cuando huelan (30 segundos), la mitad de las hojas de curry, el jengibre y la cebolleta. Remueve 1 minuto sin que se dore.",
+    "Añade la cúrcuma y el tomate y cocina 3 minutos, hasta que se ablande. Incorpora el pollo y remueve 2 minutos para que se impregne.",
     "Cubre con 1,2 litros de agua, sala y lleva a ebullición. Espuma, baja el fuego y cuece tapado a fuego suave 40 minutos, hasta que la carne se separe del hueso y el caldo sea dorado y aromático.",
-    "Mientras, lava el arroz basmati y cuécelo en 200 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; reposa 5 minutos sin destapar.",
+    "Mientras, lava el arroz basmati y cuécelo en 200 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; reposa 5 minutos sin destapar. Pica el cilantro.",
     "Saca el pollo, desmenúzalo sin hueso y devuélvelo a la cazuela. Retira la canela y desgrasa la superficie con una cuchara. Añade el resto de las hojas de curry, el zumo de limón y rectifica de sal.",
-    "Pon un cucharón de arroz en cada cuenco, vierte encima la sopa muy caliente con el pollo y termina con cilantro picado."
+    "Pon un cucharón de arroz en cada cuenco, vierte encima la sopa muy caliente con el pollo y termina con el cilantro picado."
   ],
   nutricion: { kcal: 502, prot: 37, hc: 43, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "de cuchara", "alta en proteína", "invierno", "batch cooking"],
@@ -1003,9 +1003,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Separa las hojas del cilantro de los tallos. Pica muy finos los tallos: son los que dan el sabor al caldo; las hojas son para el final.",
-    "Escurre el tofu, sécalo con papel y córtalo en dados de 1,5 cm. Pica el jengibre muy fino, corta la zanahoria en dados pequeños, las judías en trocitos de 1 cm y la col en cuadraditos.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio, echa el comino y, cuando chisporrotee, el jengibre, la cebolleta en aros y los tallos de cilantro. Remueve 1 minuto, hasta que huela intensamente.",
-    "Añade la zanahoria, las judías y la col, rehoga 2 minutos y cubre con 1 litro de agua con sal. Cuece 12 minutos a fuego suave, hasta que las verduras estén tiernas.",
+    "Escurre el tofu, sécalo con papel y córtalo en dados de 1,5 cm. Pica el jengibre muy fino, corta la cebolleta en aros, la zanahoria en dados pequeños, las judías en trocitos de 1 cm y la col en cuadraditos.",
+    "Calienta el aceite de ajo en una cazuela a fuego medio, echa el comino y, cuando chisporrotee, el jengibre, la cebolleta y los tallos de cilantro. Remueve 1 minuto, hasta que huela intensamente.",
+    "Añade la zanahoria, las judías y la col, rehoga 2 minutos y cubre con 1 litro de agua con sal. Cuece 12 minutos a fuego suave, hasta que las verduras estén tiernas. Mientras, pica las hojas de cilantro.",
     "Incorpora el tofu y cuece 3 minutos. Disuelve la maicena en 3 cucharadas de agua fría, viértela removiendo y deja hervir 1 minuto: el caldo debe quedar apenas sedoso, no espeso.",
     "Apaga el fuego y añade el zumo de limón (nunca con la sopa hirviendo, o amargará), las hojas de cilantro picadas y pimienta blanca. Prueba: debe estar claramente ácida y fresca."
   ],
@@ -1086,10 +1086,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz basmati y cuécelo en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; reposa 5 minutos sin destapar.",
-    "Pela la patata y la kabocha y córtalas en dados de 2 cm; la zanahoria, en rodajas, y la col, en cuadrados de 3 cm. Pela el jengibre, cháfalo con el lado del cuchillo y córtalo en tiras.",
-    "Lleva a ebullición 1,2 litros de agua con el jengibre y sal. Añade la patata y la zanahoria y cuece 8 minutos a fuego medio; incorpora la kabocha y la col y cuece 7 minutos más, hasta que todo esté tierno pero entero.",
-    "Corta la merluza en trozos de 4 cm, sálala y métela en el caldo con la parte verde de la cebolleta en trozos de 3 cm. Cuece a fuego muy suave 4 o 5 minutos, sin que borbotee, hasta que el pescado esté opaco y se separe en lascas.",
-    "Apaga, añade las espinacas y el cebollino cortado en trozos de 3 cm y tapa 1 minuto, solo para que se ablanden.",
+    "Mientras, pela la patata y la kabocha y córtalas en dados de 2 cm; la zanahoria, en rodajas, y la col, en cuadrados de 3 cm. Pela el jengibre, cháfalo con el lado del cuchillo y córtalo en tiras.",
+    "Lleva a ebullición 1,2 litros de agua con el jengibre y sal. Añade la patata y la zanahoria y cuece 8 minutos a fuego medio; incorpora la kabocha y la col y cuece 7 minutos más, hasta que todo esté tierno pero entero. Mientras, corta la merluza en trozos de 4 cm y sálala, y corta la parte verde de la cebolleta y el cebollino en trozos de 3 cm.",
+    "Mete la merluza en el caldo con la cebolleta. Cuece a fuego muy suave 4 o 5 minutos, sin que borbotee, hasta que el pescado esté opaco y se separe en lascas.",
+    "Apaga, añade las espinacas y el cebollino y tapa 1 minuto, solo para que se ablanden.",
     "Prueba de sal: el caldo debe ser limpio, dulce de las verduras y con el picor amable del jengibre. Sírvelo en cuencos hondos con el arroz aparte, para ir mojándolo como se hace en Manipur."
   ],
   nutricion: { kcal: 508, prot: 36, hc: 82, grasa: 4 },
@@ -1131,13 +1131,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las gambas y guarda las cabezas y las cáscaras. Quítales el hilo intestinal y resérvalas en la nevera.",
-    "Pon las cabezas y cáscaras en una cazuela a fuego medio y tuéstalas 2 minutos, aplastando las cabezas con una cuchara de madera para que suelten su jugo. Añade 900 ml de agua, la mitad del jengibre en rodajas, 5 hojas de curry y la parte más dura de la cebolleta. Cuece 15 minutos a fuego suave; mientras, ralla el tomate y corta el resto del jengibre en tiras finas y la cebolleta restante en aros. Cuela el caldo apretando bien.",
-    "En la cazuela limpia, calienta el aceite de coco, echa la mostaza y, cuando salte, el resto de las hojas de curry, el cilantro machacado, el resto del jengibre en tiras finas y la cebolleta restante en aros. Remueve 1 minuto.",
+    "Pela las gambas y guarda las cabezas y las cáscaras. Quítales el hilo intestinal y resérvalas en la nevera. Corta la mitad del jengibre en rodajas y machaca las semillas de cilantro en el mortero.",
+    "Pon las cabezas y cáscaras en una cazuela a fuego medio y tuéstalas 2 minutos, aplastando las cabezas con una cuchara de madera para que suelten su jugo. Añade 900 ml de agua, el jengibre en rodajas, 5 hojas de curry y la parte más dura de la cebolleta. Cuece 15 minutos a fuego suave; mientras, ralla el tomate, corta el resto del jengibre en tiras finas y la cebolleta restante en aros, y deshoja el cilantro. Cuela el caldo apretando bien.",
+    "En la cazuela limpia, calienta el aceite de coco, echa la mostaza y, cuando salte, el resto de las hojas de curry, el cilantro machacado, el jengibre en tiras y la cebolleta en aros. Remueve 1 minuto.",
     "Añade la cúrcuma y el tomate rallado y cocina 4 minutos. Vierte el caldo colado, sala y lleva a ebullición suave.",
     "Mientras, hidrata los fideos de arroz en agua caliente según el envase, escúrrelos y repártelos en los cuencos.",
     "Baja el fuego, añade la leche de coco y las gambas y cuece 2 minutos, sin que hierva con fuerza, hasta que las gambas estén rosadas. Incorpora las espinacas, que se ablanden en 30 segundos, y añade el zumo de media lima.",
-    "Vierte la sopa sobre los fideos y termina con cilantro y cuñas de lima."
+    "Vierte la sopa sobre los fideos y termina con las hojas de cilantro y cuñas de lima."
   ],
   nutricion: { kcal: 445, prot: 28, hc: 48, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "de cuchara", "alta en proteína"],

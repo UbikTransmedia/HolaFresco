@@ -135,7 +135,7 @@ window.RECETAS_SEED.push({
     "Baja a fuego medio, añade 1 cda más de aceite y sofríe la cebolla 5 min, hasta que esté transparente. Añade el ajo y el tomate concentrado y remueve 1 min. Incorpora el tomate triturado, la pizca de azúcar, la mitad del perejil picado y 200 ml de agua caliente, raspa bien el fondo y vuelve a poner el pollo con sus jugos.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 10 min. Despresuriza rápido.",
     "Abre la olla y reparte por encima la okra sin descongelar. Riégala con el zumo de medio limón y el resto del aceite y sala. No remuevas con cuchara, porque la okra se rompe y suelta baba: mueve la olla en círculos para que se hunda en la salsa.",
-    "Cubre con una tapa normal, sin cerrar la olla, y cuece a fuego suave 15-18 min, moviendo la olla de vez en cuando, hasta que la okra esté tierna y la salsa haya espesado y brille. Prueba de sal.",
+    "Cubre con una tapa normal, sin cerrar la olla, y cuece a fuego suave 15-18 min, moviendo la olla de vez en cuando, hasta que la okra esté tierna y la salsa haya espesado y brille; mientras, corta el otro medio limón en gajos. Prueba de sal.",
     "Deja reposar 5 min, esparce el resto del perejil y sirve con el otro medio limón en gajos."
   ],
   nutricion: { kcal: 530, prot: 40, hc: 28, grasa: 29 },
@@ -452,12 +452,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escalda las hojas de parra 2 min en agua hirviendo para quitarles la salmuera, escúrrelas y córtales el rabito. Aparta las rotas para forrar la olla.",
-    "En un bol mezcla con las manos la ternera, el cerdo, el arroz lavado, la cebolla rallada, uno de los tomates rallado, el perejil y la menta picados, la canela, 1 cda de aceite, sal y pimienta, hasta que quede homogéneo.",
+    "Escalda las hojas de parra 2 min en agua hirviendo para quitarles la salmuera, escúrrelas y córtales el rabito. Aparta las rotas para forrar la olla. Ralla la cebolla y uno de los tomates, corta el otro en rodajas y pica el perejil y la menta.",
+    "En un bol mezcla con las manos la ternera, el cerdo, el arroz lavado, la cebolla y el tomate rallados, el perejil y la menta picados, la canela, 1 cda de aceite, sal y pimienta, hasta que quede homogéneo.",
     "Pon una hoja con las nervaduras hacia arriba, coloca una cucharada colmada de relleno en la base, dobla los laterales hacia dentro y enrolla hacia la punta, firme pero sin apretar: el arroz necesita sitio para hincharse.",
     "Forra el fondo de la olla exprés con las hojas rotas y las rodajas del otro tomate. Coloca encima los rollitos muy juntos, con el cierre hacia abajo, en una o dos capas.",
     "Mezcla 300 ml de agua caliente con el tomate concentrado, el zumo de medio limón, el resto del aceite y sal, y viértelo por encima: debe llegar casi a cubrirlos. Pon sobre ellos un plato pequeño del revés para que no se abran.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 15 min. Retira del fuego y deja despresurizar de forma natural 10 min.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 15 min. Retira del fuego y deja despresurizar de forma natural 10 min. Mientras, corta el resto del limón en gajos.",
     "Abre, retira el plato y deja reposar 10 min con la olla destapada para que los rollitos se asienten y absorban el caldo que queda. Sírvelos templados con el yogur, el resto del limón en gajos y un poco de su salsa."
   ],
   nutricion: { kcal: 770, prot: 35, hc: 45, grasa: 48 },
@@ -731,11 +731,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas a lo largo en gajos gruesos. Pincha las salchichas con un palillo, corta el pimiento en tiras, aplasta los ajos sin pelar y saca 3 tiras de piel de naranja con un pelador, sin la parte blanca.",
+    "Pela las patatas y córtalas a lo largo en gajos gruesos. Pincha las salchichas con un palillo, corta el pimiento en tiras, aplasta los ajos sin pelar, machaca las semillas de hinojo en el mortero y saca 3 tiras de piel de naranja con un pelador, sin la parte blanca.",
     "Calienta el aceite en la olla exprés destapada a fuego medio-fuerte y dora las salchichas 5 min, girándolas, hasta que estén doradas por todos lados. Resérvalas.",
     "En la grasa que han soltado, saltea las patatas y el pimiento 3 min, hasta que los bordes de la patata empiecen a dorarse. Añade el ajo, las semillas de hinojo machacadas y la piel de naranja y remueve 30 segundos.",
     "Mezcla el caldo con el zumo de 1 limón, la mostaza y la mitad del orégano, viértelo sobre las patatas, sala y coloca encima las salchichas.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min. Despresuriza rápido.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min; mientras, desmiga la feta. Despresuriza rápido.",
     "Abre y hierve destapado a fuego fuerte 5-6 min, moviendo la olla de vez en cuando, hasta que el caldo se reduzca a una salsa espesa y brillante que se pegue a las patatas. Prueba y añade el zumo del medio limón restante si te gusta más ácido.",
     "Sirve con la feta desmigada, pimienta recién molida y el resto del orégano."
   ],

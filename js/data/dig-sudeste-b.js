@@ -134,12 +134,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Corta los tomates por la mitad a lo largo y vacíalos con una cucharilla, guardando la pulpa y el jugo en un bol. Sala ligeramente el interior y déjalos boca abajo 5 minutos para que escurran. Pica la pulpa.",
-    "Prepara el relleno: mezcla el cerdo con la mitad de la cebolleta picada muy fina, la maicena, 2 cucharaditas de salsa de pescado y pimienta, y amasa 1 minuto, hasta que esté pegajoso. Rellena cada mitad de tomate formando una pequeña cúpula lisa.",
+    "Mientras, corta los tomates por la mitad a lo largo y vacíalos con una cucharilla, guardando la pulpa y el jugo en un bol. Sala ligeramente el interior y déjalos boca abajo 5 minutos para que escurran. Mientras escurren, pica la pulpa y pica muy fina la mitad de la cebolleta.",
+    "Prepara el relleno: mezcla el cerdo con la cebolleta picada, la maicena, 2 cucharaditas de salsa de pescado y pimienta, y amasa 1 minuto, hasta que esté pegajoso. Rellena cada mitad de tomate formando una pequeña cúpula lisa.",
     "Calienta el aceite de ajo en una sartén ancha con tapa a fuego medio. Coloca los tomates con la carne hacia abajo y dóralos 4-5 minutos sin moverlos, hasta que el relleno tenga una costra dorada.",
     "Dales la vuelta con cuidado y añade alrededor la pulpa picada, el concentrado, el resto de la salsa de pescado, el azúcar y 100 ml de agua. Tapa y cuece a fuego suave 12-15 minutos, rociándolos de vez en cuando con la salsa, hasta que el tomate esté tierno sin deshacerse y el relleno, hecho por dentro. Mientras, corta el resto de la cebolleta en aros, pica el cilantro y pela el pepino y córtalo en rodajas.",
-    "Destapa y deja reducir 2-3 minutos, hasta que la salsa espese y brille. Termina con el resto de la cebolleta en aros, el cilantro picado y pimienta recién molida.",
-    "Sirve los tomates con su salsa sobre el arroz y el pepino pelado en rodajas al lado, para refrescar."
+    "Destapa y deja reducir 2-3 minutos, hasta que la salsa espese y brille. Termina con la cebolleta en aros, el cilantro picado y pimienta recién molida.",
+    "Sirve los tomates con su salsa sobre el arroz y el pepino en rodajas al lado, para refrescar."
   ],
   nutricion: { kcal: 580, prot: 34, hc: 74, grasa: 16.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "económica", "para niños"],
@@ -314,10 +314,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño y ponle un peso encima 10 minutos para que suelte el agua.",
-    "Mientras, prepara el bumbu: pela la cúrcuma, el jengibre y la galanga y tritúralos con el aceite de ajo, el azúcar, una cucharadita de sal y 1 cucharada de agua hasta tener una pasta amarilla.",
-    "Desmenuza el tofu con las manos en un bol, en migas irregulares. Añade el huevo, el bumbu, la mitad del tomate en dados pequeños, la mitad de la albahaca en hojas, las hojas de lima en hilos finísimos (sin el nervio central) y la parte tierna de la hierba limón picada muy fina. Mezcla hasta que quede una pasta compacta.",
-    "Ablanda la hoja de plátano pasándola unos segundos por el fuego o por agua caliente. Reparte la mezcla en dos paquetes, dobla los lados y cierra los extremos con palillos (o envuelve en papel de horno como un caramelo).",
-    "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Al mismo tiempo cuece los paquetes al vapor en un colador tapado sobre una cazuela con agua hirviendo 25 minutos, hasta que al apretarlos estén firmes. Mientras, prepara el lalap: pepino en bastones, el resto del tomate en gajos, las hojas de albahaca restantes y la lima en cuñas.",
+    "Mientras, prepara el bumbu: pela la cúrcuma, el jengibre y la galanga y tritúralos con el aceite de ajo, el azúcar, una cucharadita de sal y 1 cucharada de agua hasta tener una pasta amarilla. Corta la mitad del tomate en dados pequeños, las hojas de lima en hilos finísimos (sin el nervio central) y pica muy fina la parte tierna de la hierba limón.",
+    "Desmenuza el tofu con las manos en un bol, en migas irregulares. Añade el huevo, el bumbu, el tomate en dados, la mitad de la albahaca en hojas, la hoja de lima y la hierba limón. Mezcla hasta que quede una pasta compacta.",
+    "Pon a calentar agua en una cazuela para el vapor. Mientras rompe a hervir, ablanda la hoja de plátano pasándola unos segundos por el fuego o por agua caliente. Reparte la mezcla en dos paquetes, dobla los lados y cierra los extremos con palillos (o envuelve en papel de horno como un caramelo).",
+    "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Al mismo tiempo cuece los paquetes al vapor en un colador tapado sobre la cazuela con agua hirviendo 25 minutos, hasta que al apretarlos estén firmes. Mientras, prepara el lalap: pepino en bastones, el resto del tomate en gajos, las hojas de albahaca restantes y la lima en cuñas.",
     "Marca los paquetes en la plancha caliente 2-3 minutos por cada lado, hasta que la hoja se tueste y huela a ahumado.",
     "Abre los paquetes en la mesa y sirve con el arroz y el lalap."
   ],
@@ -595,11 +595,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la masa: bate la harina de arroz, el almidón de tapioca, media cucharadita de sal y el agua hasta que quede lisa y fluida como leche. Déjala reposar 20 minutos.",
-    "Mientras, calienta 2 cucharaditas de aceite de ajo en una sartén a fuego medio y rehoga el cerdo 5 minutos, deshaciéndolo muy fino con la cuchara, hasta que no quede rosa. Añade 2 cucharaditas de salsa de pescado, pimienta y la mitad de la cebolleta picada fina, remueve 1 minuto y reserva.",
-    "Prepara el nước chấm: disuelve el azúcar en 4 cucharadas de agua tibia y añade el resto de la salsa de pescado y el zumo de la lima. Escalda los brotes 30 segundos en agua hirviendo, corta el pepino en bastones y deshoja las hierbas.",
+    "Mientras, pon a calentar un cazo de agua para los brotes, pica fina la mitad de la cebolleta y corta el resto en aros. Calienta 2 cucharaditas de aceite de ajo en una sartén a fuego medio y rehoga el cerdo 5 minutos, deshaciéndolo muy fino con la cuchara, hasta que no quede rosa. Añade 2 cucharaditas de salsa de pescado, pimienta y la cebolleta picada, remueve 1 minuto y reserva.",
+    "Prepara el nước chấm: disuelve el azúcar en 4 cucharadas de agua tibia y añade el resto de la salsa de pescado y el zumo de la lima. Escalda los brotes 30 segundos en el agua hirviendo, corta el pepino en bastones y deshoja las hierbas.",
     "Calienta una sartén antiadherente de 20-22 cm a fuego medio y úntala con un papel empapado en el aceite de girasol. Remueve la masa (el almidón se va al fondo), vierte un cucharón pequeño, unos 50 ml, y gira la sartén para cubrir el fondo con una capa fina. Tapa enseguida y cuece 45-60 segundos, hasta que la lámina esté translúcida y forme burbujas; no le des la vuelta.",
     "Despégala con una espátula de silicona e inviértela sobre una bandeja untada con unas gotas de aceite de ajo. Pon una cucharada de relleno en el borde, dobla los lados y enrolla. Repite con el resto de la masa: salen 8-10 rollos.",
-    "Templa el aceite de ajo restante con el resto de la cebolleta en aros 30 segundos, a fuego muy suave, y riega con él los rollos. Sírvelos con las hierbas, los brotes, el pepino y el nước chấm en cuencos para mojar."
+    "Templa el aceite de ajo restante con la cebolleta en aros 30 segundos, a fuego muy suave, y riega con él los rollos. Sírvelos con las hierbas, los brotes, el pepino y el nước chấm en cuencos para mojar."
   ],
   nutricion: { kcal: 580, prot: 31, hc: 72, grasa: 18.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "económica"],
@@ -641,10 +641,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 190 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Extiéndelo en una bandeja para que se temple: el nasi ulam se come a temperatura ambiente.",
-    "Prepara el kerisik: tuesta el coco en una sartén sin aceite a fuego medio-bajo 4-5 minutos, removiendo sin parar, hasta que esté dorado. Machaca la mitad en el mortero hasta que suelte su aceite y forme una pasta.",
+    "Mientras se cuece el arroz, prepara el kerisik: tuesta el coco en una sartén sin aceite a fuego medio-bajo 4-5 minutos, removiendo sin parar, hasta que esté dorado. Machaca la mitad en el mortero hasta que suelte su aceite y forme una pasta.",
     "Corta las hierbas muy finas, que es el secreto del plato: las hojas de lima sin el nervio central en hilos finísimos, la parte tierna de la hierba limón en aros casi transparentes, la menta, la albahaca, el cilantro y la cebolleta. Ralla el jengibre y corta el pepino sin semillas en dados.",
     "Sala la caballa y ásala en la plancha caliente con la piel hacia abajo 4 minutos, hasta que la piel esté crujiente, y 1-2 minutos por el otro lado. Desmíga la carne quitando las espinas.",
-    "Mezcla en un bol grande el arroz con el coco machacado y el entero, las hierbas, el jengibre, la mitad de la caballa, la salsa de pescado, el zumo de media lima y pimienta negra. Mezcla con las manos o con dos tenedores, sin aplastar el grano.",
+    "Mezcla en un bol grande el arroz templado con el coco machacado y el entero, las hierbas, el jengibre, la mitad de la caballa, la salsa de pescado, el zumo de media lima y pimienta negra. Mezcla con las manos o con dos tenedores, sin aplastar el grano.",
     "Prueba y ajusta de sal o lima. Sirve el arroz con el resto de la caballa por encima, el pepino en dados y la otra media lima en cuñas."
   ],
   nutricion: { kcal: 575, prot: 31, hc: 62, grasa: 22.5 },

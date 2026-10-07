@@ -166,8 +166,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla en un bol la pasta de tamarindo, la pimienta molida gruesa, la cúrcuma, el jengibre rallado y sal. Unta bien los dados de pez espada y déjalos 15 minutos.",
-    "Lava el arroz basmati, déjalo en remojo 10 minutos, escúrrelo y cuécelo con 200 ml de agua y sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos.",
+    "Ralla el jengibre y mézclalo en un bol con la pasta de tamarindo, la pimienta molida gruesa, la cúrcuma y sal. Unta bien los dados de pez espada y déjalos 15 minutos.",
+    "Mientras, lava el arroz basmati, déjalo en remojo 10 minutos, escúrrelo y cuécelo con 200 ml de agua y sal, tapado a fuego mínimo, 12 minutos; reposa 5 minutos.",
     "En una cazuela baja, de barro si tienes, calienta el aceite de ajo con la canela y la guindilla 30 segundos, hasta que huelan.",
     "Añade el pescado con toda su pasta en una sola capa y 150 ml de agua. Tapa y cuece a fuego bajo 10 minutos.",
     "Destapa y sigue 8-10 minutos más, moviendo la cazuela por las asas en lugar de remover con cuchara para no romper los dados, hasta que el líquido se evapore y el pescado quede cubierto por una pasta oscura casi seca.",
@@ -261,8 +261,8 @@ window.RECETAS_SEED.push({
     "Corta la col en cuadrados de 3-4 cm, la zanahoria en tiras finas y el pimiento en tiras. Seca el salmón y ponle un poco de pimienta; no lo sales, el miso ya sala.",
     "Calienta el aceite en una sartén grande con tapa a fuego medio-alto y marca el salmón con la piel hacia abajo 2 minutos, hasta que la piel se dore. Sácalo.",
     "Pon en la sartén la col, la zanahoria y el pimiento y coloca el salmón encima, en el centro, con la piel hacia abajo.",
-    "Vierte la salsa de miso sobre las verduras y el pescado, reparte la mantequilla en dados sobre el salmón, tapa y cuece a fuego medio-bajo 7-8 minutos, hasta que el salmón esté justo hecho y la col tierna pero con mordida.",
-    "Destapa, rompe el salmón en lascas grandes y mézclalo con las verduras y la salsa, como se hace en Hokkaido. Espolvorea la cebolleta picada y sirve con el arroz."
+    "Vierte la salsa de miso sobre las verduras y el pescado, reparte la mantequilla en dados sobre el salmón, tapa y cuece a fuego medio-bajo 7-8 minutos, hasta que el salmón esté justo hecho y la col tierna pero con mordida. Mientras, pica la cebolleta.",
+    "Destapa, rompe el salmón en lascas grandes y mézclalo con las verduras y la salsa, como se hace en Hokkaido. Espolvorea la cebolleta y sirve con el arroz."
   ],
   nutricion: { kcal: 707, prot: 39, hc: 68, grasa: 31 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "invierno", "poco especiada"],
@@ -300,8 +300,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Maja el azafrán en el mortero con una pizca de sal y déjalo 10 minutos en 2 cucharadas de agua caliente.",
-    "En un bol mezcla el yogur, el zumo del limón, el aceite de ajo, pimienta, sal y dos tercios del agua de azafrán. Añade el pollo en dados de 4 cm, tapa y deja en la nevera 2 horas (hasta 12).",
+    "Maja el azafrán en el mortero con una pizca de sal y déjalo 10 minutos en 2 cucharadas de agua caliente. Mientras, corta el pollo en dados de 4 cm.",
+    "En un bol mezcla el yogur, el zumo del limón, el aceite de ajo, pimienta, sal y dos tercios del agua de azafrán. Añade el pollo, tapa y deja en la nevera 2 horas (hasta 12).",
     "Con el pollo ya marinado, pon a hervir abundante agua con sal. Lava el arroz basmati hasta que el agua salga clara y hiérvelo 6 minutos en ella; debe quedar al dente. Escúrrelo.",
     "Derrite la mitad de la mantequilla en una cazuela de fondo grueso, vuelca el arroz formando un montículo, hazle unos agujeros con el mango de una cuchara, tapa con un paño bajo la tapa y cocina a fuego mínimo 20-25 minutos, hasta que se forme una costra dorada en el fondo.",
     "Mientras se forma la costra, ensarta el pollo en brochetas y los tomates enteros en otra aparte.",
@@ -348,11 +348,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas 18-20 minutos en agua con sal, hasta que estén tiernas.",
-    "Mientras, para la mizeria, corta el pepino en rodajas finísimas, sálalo y déjalo 10 minutos. Escúrrelo apretando con las manos y mézclalo con el yogur, el zumo del limón, la pizca de azúcar, la mitad del eneldo picado y pimienta.",
+    "Mientras, para la mizeria, corta el pepino en rodajas finísimas, sálalo y déjalo 10 minutos; mientras, pica el eneldo. Escurre el pepino apretando con las manos y mézclalo con el yogur, el zumo del limón, la pizca de azúcar, la mitad del eneldo y pimienta.",
     "Si los filetes de pavo son gruesos, ábrelos en libro. Aplánalos entre dos papeles de horno con un cazo hasta dejarlos de 5 mm y salpimiéntalos.",
-    "Pásalos por la harina de arroz, después por el huevo batido y por último por el pan rallado sin gluten, apretando para que se adhiera.",
+    "Bate el huevo en un plato. Pasa los filetes por la harina de arroz, después por el huevo y por último por el pan rallado sin gluten, apretando para que se adhiera.",
     "Calienta el aceite de girasol en una sartén, con 1 cm de altura, a 170 °C. Fríe los filetes 2-3 minutos por cada lado, hasta que estén dorados, y escúrrelos sobre una rejilla para que no se ablanden.",
-    "Escurre las patatas y mézclalas con la mantequilla y el resto del eneldo picado.",
+    "Escurre las patatas y mézclalas con la mantequilla y el resto del eneldo.",
     "Sirve los filetes recién hechos con las patatas y la mizeria bien fría."
   ],
   nutricion: { kcal: 641, prot: 44, hc: 60, grasa: 25 },
@@ -393,11 +393,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos. Saca las chuletas de la nevera mientras tanto.",
-    "Mientras, mezcla el sirope de arce, la mostaza, el vinagre y las hojas del tomillo.",
+    "Mientras, mezcla el sirope de arce, la mostaza, el vinagre y las hojas del tomillo. Despunta las judías verdes y pica el cebollino.",
     "Seca las chuletas, salpimiéntalas y haz unos cortes en la grasa del borde cada 3 cm para que no se curven.",
     "Calienta el aceite de ajo en una sartén de hierro a fuego medio-alto y dora las chuletas 4 minutos por cada lado. Baja el fuego, vierte el glaseado y riégalas con una cuchara 1-2 minutos, hasta que la salsa espese y brille. Déjalas reposar 5 minutos.",
-    "Añade las judías verdes despuntadas al agua de las patatas en los últimos 6 minutos y escúrrelo todo junto.",
-    "Separa las judías, chafa las patatas con la mantequilla y la leche sin lactosa caliente hasta tener un puré liso, sálalo y mezcla el cebollino picado.",
+    "Añade las judías verdes al agua de las patatas en los últimos 6 minutos y escúrrelo todo junto.",
+    "Separa las judías, chafa las patatas con la mantequilla y la leche sin lactosa caliente hasta tener un puré liso, sálalo y mezcla el cebollino.",
     "Sirve las chuletas con el glaseado de la sartén, el puré y las judías verdes."
   ],
   nutricion: { kcal: 667, prot: 42, hc: 55, grasa: 31 },
@@ -439,10 +439,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 12-15 minutos.",
-    "Mientras, corta el solomillo en medallones de 1,5 cm y aplánalos entre dos papeles con un cazo hasta dejarlos de 5-6 mm. Salpimiéntalos y pásalos por la harina de arroz, sacudiendo el exceso.",
+    "Mientras, corta el solomillo en medallones de 1,5 cm y aplánalos entre dos papeles con un cazo hasta dejarlos de 5-6 mm. Salpimiéntalos y pásalos por la harina de arroz, sacudiendo el exceso. Pica el perejil.",
     "Calienta el aceite de oliva con la mitad de la mantequilla a fuego medio-alto y dora los escalopes 1,5-2 minutos por cada lado. Resérvalos en un plato caliente.",
     "Vierte el vino blanco en la sartén y deja que hierva 1 minuto raspando el fondo. Añade el caldo, el zumo del limón y las alcaparras y reduce 2 minutos.",
-    "Fuera del fuego, incorpora el resto de la mantequilla fría moviendo la sartén hasta que la salsa ligue y brille. Devuelve los escalopes 30 segundos para que se napen y espolvorea el perejil picado.",
+    "Fuera del fuego, incorpora el resto de la mantequilla fría moviendo la sartén hasta que la salsa ligue y brille. Devuelve los escalopes 30 segundos para que se napen y espolvorea el perejil.",
     "Mientras, saltea las espinacas en otra sartén con el aceite de ajo 2 minutos, hasta que bajen, y sálalas.",
     "Sirve los escalopes con su salsa, las patatas escurridas y las espinacas."
   ],
@@ -486,7 +486,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 170 ml de agua, tapado a fuego mínimo, 12 minutos; déjalo reposar 10 minutos.",
-    "Mientras, pon a hervir agua en un cazo para las espinacas. En un bol mezcla las dos carnes con 2 cucharadas de tamari, 1 cucharada de azúcar moreno, el kiwi pelado y rallado, el aceite de ajo, el jengibre rallado, la mitad de la cebolleta picada, 1 cucharadita de aceite de sésamo y pimienta. Amasa 2 minutos, hasta que la mezcla quede pegajosa; no la dejes más de 30 minutos, porque el kiwi deshace la carne.",
+    "Mientras, pon a hervir agua en un cazo para las espinacas, pela y ralla el kiwi, ralla el jengibre y pica la cebolleta. En un bol mezcla las dos carnes con 2 cucharadas de tamari, 1 cucharada de azúcar moreno, el kiwi, el aceite de ajo, el jengibre, la mitad de la cebolleta, 1 cucharadita de aceite de sésamo y pimienta. Amasa 2 minutos, hasta que la mezcla quede pegajosa; no la dejes más de 30 minutos, porque el kiwi deshace la carne.",
     "Forma 4 hamburguesas ovaladas de 1,5 cm de grosor y hunde un poco el centro con el pulgar para que no se abomben.",
     "Escalda las espinacas 30 segundos en el agua hirviendo, enfríalas bajo el grifo, escúrrelas apretando y alíñalas con el resto del aceite de sésamo, la mitad del sésamo y sal.",
     "Calienta el aceite de girasol en una sartén a fuego medio y cocina las hamburguesas 4 minutos por cada lado; tapa la sartén el último minuto.",
@@ -531,13 +531,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta los contramuslos. Calienta el aceite de oliva con la mitad de la mantequilla en una cazuela ancha a fuego medio-alto y dóralos con la piel hacia abajo 6-7 minutos, hasta que esté muy dorada; dales la vuelta 3 minutos más y sácalos. Retira casi toda la grasa.",
+    "Salpimienta los contramuslos. Calienta el aceite de oliva con la mitad de la mantequilla en una cazuela ancha a fuego medio-alto y dóralos con la piel hacia abajo 6-7 minutos, hasta que esté muy dorada (mientras, pela el tomate y córtalo en dados); dales la vuelta 3 minutos más y sácalos. Retira casi toda la grasa.",
     "Baja a fuego medio, añade el aceite de ajo y el tomate concentrado y remueve 1 minuto. Vierte el vinagre apartando la cara de los vapores, raspa el fondo y deja reducir a la mitad, unos 3 minutos.",
-    "Añade el vino blanco, el caldo y el tomate pelado en dados. Devuelve el pollo con la piel hacia arriba, sin cubrirla, tapa dejando una rendija y cuece a fuego suave 25 minutos, hasta que la carne se separe del hueso.",
-    "Mientras, pela las patatas, córtalas en trozos y cuécelas al vapor 20 minutos.",
+    "Añade el vino blanco, el caldo y el tomate. Devuelve el pollo con la piel hacia arriba, sin cubrirla, tapa dejando una rendija y cuece a fuego suave 25 minutos, hasta que la carne se separe del hueso.",
+    "Mientras, pela las patatas, córtalas en trozos y cuécelas al vapor 20 minutos. Pica el perejil.",
     "Saca el pollo a una fuente. Sube el fuego y reduce la salsa 3-4 minutos, hasta que tenga textura de jarabe.",
     "Baja el fuego, añade la nata sin lactosa y el resto de la mantequilla fría y remueve hasta que la salsa ligue. Prueba de sal.",
-    "Sirve el pollo napado con la salsa, las patatas al lado y el perejil picado por encima."
+    "Sirve el pollo napado con la salsa, las patatas al lado y el perejil por encima."
   ],
   nutricion: { kcal: 690, prot: 36, hc: 42, grasa: 42 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "invierno", "poco especiada"],
@@ -573,13 +573,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el bacalao ahumado en una cazuela ancha con la leche sin lactosa, el agua y el laurel. Lleva a un hervor muy suave y escálfalo 5 minutos, hasta que se separe en lascas. Sácalo y cuela el líquido.",
+    "Pon el bacalao ahumado en una cazuela ancha con la leche sin lactosa, el agua y el laurel. Lleva a un hervor muy suave y escálfalo 5 minutos, hasta que se separe en lascas; mientras, lava la parte verde del puerro y córtala en rodajas finas, y pela la patata y córtala en dados de 1,5 cm. Saca el pescado y cuela el líquido.",
     "Desmenuza el pescado en lascas grandes, quitando piel y espinas.",
-    "En la misma cazuela derrite la mantequilla y rehoga la parte verde del puerro, bien lavada y en rodajas finas, 5 minutos a fuego suave, hasta que esté tierna sin dorarse.",
-    "Añade la patata pelada en dados de 1,5 cm y el líquido de escalfar. Cuece a fuego suave 15 minutos, hasta que la patata esté tierna.",
+    "En la misma cazuela derrite la mantequilla y rehoga el puerro 5 minutos a fuego suave, hasta que esté tierna sin dorarse.",
+    "Añade la patata y el líquido de escalfar. Cuece a fuego suave 15 minutos, hasta que la patata esté tierna. Mientras, pica el cebollino.",
     "Aplasta un tercio de la patata dentro de la cazuela con un pasapurés o un tenedor para espesar la sopa, dejando el resto en trozos.",
     "Devuelve el pescado, calienta 2 minutos sin que hierva fuerte, pon pimienta y prueba antes de salar: el ahumado ya aporta sal.",
-    "Sirve con el cebollino picado por encima."
+    "Sirve con el cebollino por encima."
   ],
   nutricion: { kcal: 464, prot: 36, hc: 44, grasa: 16 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "de cuchara", "ligera", "invierno", "sin verduras", "poco especiada"],
@@ -623,8 +623,8 @@ window.RECETAS_SEED.push({
     "Calienta el agua con el kombu a fuego medio y sácalo justo antes de que hierva. Añade el bonito, deja hervir 1 minuto, apaga, espera 3 minutos y cuela: ya tienes el dashi.",
     "Pela el daikon y la zanahoria y córtalos en cuartos de rodaja de 3 mm; la patata, en dados de 2 cm; el tofu, escurrido, en dados de 2 cm; la panceta, en trozos de 3 cm, y el jengibre en tiras finas.",
     "Calienta el aceite de sésamo en la cazuela y saltea la panceta 2 minutos, hasta que pierda el color rosado. Añade el daikon, la zanahoria, la patata y el jengibre y rehoga 2 minutos más.",
-    "Vierte el dashi, lleva a hervor, retira la espuma y cuece a fuego suave 12-15 minutos, hasta que las verduras estén tiernas. Añade el tofu y deja 2 minutos.",
-    "Apaga el fuego, disuelve el miso en un cazo con un poco de caldo y viértelo en la sopa; no dejes que vuelva a hervir. Sirve con la cebolleta picada y el arroz al lado."
+    "Vierte el dashi, lleva a hervor, retira la espuma y cuece a fuego suave 12-15 minutos, hasta que las verduras estén tiernas; mientras, pica la cebolleta. Añade el tofu y deja 2 minutos.",
+    "Apaga el fuego, disuelve el miso en un cazo con un poco de caldo y viértelo en la sopa; no dejes que vuelva a hervir. Sirve con la cebolleta y el arroz al lado."
   ],
   nutricion: { kcal: 676, prot: 28, hc: 78, grasa: 28 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara", "invierno", "poco especiada"],
@@ -662,12 +662,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava la carcasa y los contramuslos y ponlos en una olla grande con el agua fría. Lleva a hervor lento y retira la espuma durante los primeros 10 minutos.",
-    "Añade las zanahorias y la chirivía peladas y enteras, la parte verde del puerro bien lavada, los tallos del perejil, el laurel, las dos pimientas y sal.",
-    "Cuece a fuego mínimo y sin tapar del todo 1 hora y 30 minutos. El caldo solo debe temblar en la superficie: si hierve, se enturbia.",
+    "Lava la carcasa y los contramuslos y ponlos en una olla grande con el agua fría. Lleva a hervor lento y retira la espuma durante los primeros 10 minutos. Entre tanto, pela las zanahorias y la chirivía, lava la parte verde del puerro y separa las hojas del perejil de los tallos.",
+    "Añade las zanahorias y la chirivía enteras, la parte verde del puerro, los tallos del perejil, el laurel, las dos pimientas y sal.",
+    "Cuece a fuego mínimo y sin tapar del todo 1 hora y 30 minutos. El caldo solo debe temblar en la superficie: si hierve, se enturbia. Mientras, pica las hojas del perejil y resérvalas.",
     "Cuela el caldo y pon a hervir agua en un cazo para los fideos. Desmenuza el pollo sin piel ni huesos, corta las zanahorias y la chirivía en rodajas y desecha la carcasa, el puerro y las hierbas. Retira la grasa de la superficie con una cuchara si quieres y prueba de sal.",
     "Cuece los fideos de arroz aparte, en el agua hirviendo, el tiempo que indique el paquete (3-4 minutos), y escúrrelos. Si los cueces en el caldo, se deshacen y lo enturbian.",
-    "Pon los fideos en los platos, añade el pollo y las verduras y cubre con el caldo muy caliente. Termina con las hojas de perejil picadas."
+    "Pon los fideos en los platos, añade el pollo y las verduras y cubre con el caldo muy caliente. Termina con el perejil picado."
   ],
   nutricion: { kcal: 467, prot: 30, hc: 53, grasa: 15 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
@@ -750,13 +750,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo con el azafrán, tostado unos segundos en una sartén y desmenuzado con los dedos, y mantenlo a fuego mínimo.",
+    "Calienta el caldo con el azafrán, tostado unos segundos en una sartén y desmenuzado con los dedos, y mantenlo a fuego mínimo. Mientras se calienta, corta el pimiento y el calabacín en dados pequeños, ralla el tomate y pica el perejil.",
     "Seca bien el calamar. Calienta el aceite de oliva en una cazuela ancha a fuego fuerte y saltéalo 3-4 minutos, hasta que suelte su agua, esta se evapore y empiece a dorarse.",
-    "Añade el pimiento en dados pequeños y rehoga 4 minutos; después el calabacín en dados, 2 minutos más.",
-    "Baja el fuego, agrega el aceite de ajo y el pimentón, remueve 10 segundos y añade enseguida el tomate rallado. Cocina 5 minutos, hasta que el sofrito se oscurezca y no quede agua.",
+    "Añade el pimiento y rehoga 4 minutos; después el calabacín, 2 minutos más.",
+    "Baja el fuego, agrega el aceite de ajo y el pimentón, remueve 10 segundos y añade enseguida el tomate. Cocina 5 minutos, hasta que el sofrito se oscurezca y no quede agua.",
     "Incorpora el arroz y nacáralo 1 minuto. Vierte dos tercios del caldo caliente, sala y cuece 5 minutos a fuego fuerte.",
     "Baja a fuego medio y sigue 12-13 minutos, removiendo de vez en cuando y añadiendo el resto del caldo poco a poco, hasta que el grano esté tierno con un punto firme y el arroz quede meloso.",
-    "Deja reposar 2 minutos tapado y sirve con perejil picado y unas gotas de limón."
+    "Deja reposar 2 minutos tapado y sirve con el perejil y unas gotas de limón."
   ],
   nutricion: { kcal: 617, prot: 38, hc: 78, grasa: 17 },
   etiquetas: ["creativa", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara", "poco especiada"],
@@ -887,11 +887,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la carne y salpimiéntala con generosidad. Calienta el aceite de oliva en la olla exprés abierta a fuego fuerte y dora la pieza 3-4 minutos por cada cara, hasta que tenga una costra oscura. Sácala.",
-    "Baja el fuego, añade la parte verde del puerro en rodajas y rehoga 1 minuto. Agrega el tomate concentrado y remueve 1 minuto, hasta que se oscurezca.",
+    "Lava la parte verde del puerro y córtala en rodajas. Seca la carne y salpimiéntala con generosidad. Calienta el aceite de oliva en la olla exprés abierta a fuego fuerte y dora la pieza 3-4 minutos por cada cara, hasta que tenga una costra oscura. Sácala.",
+    "Baja el fuego, añade el puerro y rehoga 1 minuto. Agrega el tomate concentrado y remueve 1 minuto, hasta que se oscurezca.",
     "Vierte el vino tinto, raspa bien el fondo y deja reducir 2 minutos.",
-    "Devuelve la carne con el caldo, el tomillo, el romero y el laurel. Cierra la olla y cuece 35 minutos en alta presión. Libera la presión con cuidado.",
-    "Añade alrededor las patatas enteras, las zanahorias en trozos de 4 cm y el nabo en gajos. Cierra de nuevo y cuece 6 minutos más; libera la presión.",
+    "Devuelve la carne con el caldo, el tomillo, el romero y el laurel. Cierra la olla y cuece 35 minutos en alta presión. Mientras, lava las patatas, pela las zanahorias y córtalas en trozos de 4 cm y pela el nabo y córtalo en gajos. Libera la presión con cuidado.",
+    "Añade alrededor las patatas enteras, las zanahorias y el nabo. Cierra de nuevo y cuece 6 minutos más; libera la presión.",
     "Saca la carne y las verduras a una fuente y tápalas. Retira las hierbas. Disuelve la maicena en 2 cucharadas de agua fría, añádela al líquido y hierve con la olla abierta 3-4 minutos, hasta que la salsa nape. Ajusta de sal y pimienta.",
     "Corta la carne en lonchas gruesas contra la fibra o desmígala con dos tenedores y sírvela con las verduras y la salsa."
   ],

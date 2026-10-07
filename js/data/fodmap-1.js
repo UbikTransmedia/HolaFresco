@@ -77,7 +77,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que el agua hierve, enfríalos en agua fría, pélalos y pícalos. Reserva un poco para decorar.",
-    "Asa los tomates y el chile en una sartén sin aceite a fuego medio-alto 8–10 minutos, girándolos, hasta que la piel esté tostada a manchas. Tritúralos con la cebolleta verde y sal.",
+    "Mientras se cuecen los huevos, asa los tomates y el chile en una sartén sin aceite a fuego medio-alto 8–10 minutos, girándolos, hasta que la piel esté tostada a manchas. Tritúralos con la cebolleta verde y sal.",
     "Calienta el aceite en la misma sartén, vierte la salsa de tomate (salpica) y cocínala 5 minutos hasta que se oscurezca y espese. Resérvala caliente.",
     "Tuesta las pipas de calabaza en otra sartén seca a fuego medio 3–4 minutos, removiendo, hasta que se hinchen y empiecen a saltar, sin que se oscurezcan.",
     "Tritúralas con el cilantro, sal y el agua caliente hasta obtener una crema verde espesa. Caliéntala 2 minutos a fuego muy suave, sin que hierva, porque se corta y suelta el aceite.",
@@ -164,9 +164,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y rállalas por la parte fina del rallador sobre un bol. Pásalas a un paño limpio y escúrrelas apretando fuerte sobre otro bol.",
-    "Deja reposar el líquido 5 minutos, tira el agua con cuidado y quédate con el almidón blanco del fondo: es lo que liga las tortitas sin trigo.",
-    "Mezcla la patata con el almidón, los huevos, la harina de arroz, la cebolleta verde picada, 1 cucharadita de sal y pimienta.",
-    "Prepara la salsa con el yogur, la mitad del eneldo picado, la ralladura del limón y sal. Corta el pepino en rodajas muy finas, sálalo, escúrrelo a los 5 minutos y alíñalo con el zumo del limón y el resto del eneldo.",
+    "Deja reposar el líquido 5 minutos, tira el agua con cuidado y quédate con el almidón blanco del fondo: es lo que liga las tortitas sin trigo. Mientras reposa, pica la cebolleta verde y el eneldo y ralla la piel del limón.",
+    "Mezcla la patata con el almidón, los huevos, la harina de arroz, la cebolleta verde, 1 cucharadita de sal y pimienta.",
+    "Prepara la salsa con el yogur, la mitad del eneldo, la ralladura del limón y sal. Corta el pepino en rodajas muy finas, sálalo, escúrrelo a los 5 minutos y alíñalo con el zumo del limón y el resto del eneldo.",
     "Calienta una capa de 3 mm de aceite en una sartén grande a fuego medio-alto y enciende el horno a 100 °C. Pon montoncitos de 2 cucharadas de masa y aplánalos hasta 1 cm.",
     "Fríelos 3–4 minutos por cada lado, hasta que los bordes estén muy dorados y crujientes. Escúrrelos sobre papel y guárdalos en el horno mientras haces el resto, añadiendo aceite si hace falta.",
     "Sirve las tortitas recién hechas con la salsa de yogur y la ensalada de pepino."
@@ -309,10 +309,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas en bastones de 1 cm, mézclalas con 1 cucharada de aceite de oliva y sal y hornéalas 30–35 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes.",
     "Prensa el tofu 10 minutos entre papel de cocina con un peso encima; mientras, pon a hervir el agua del arroz en un cazo. Corta el tofu en tiras gruesas de 1,5 cm, alíñalo con 1 cucharada de tamari y el comino y rebózalo en la maicena.",
-    "Para el arroz, calienta la mitad del aceite de ajo en una cazuela, rehoga el arroz 1 minuto, añade el agua hirviendo y sal, tapa y cuécelo 15 minutos a fuego mínimo. Déjalo reposar 5 minutos.",
+    "Para el arroz, calienta la mitad del aceite de ajo en una cazuela, rehoga el arroz 1 minuto, añade el agua hirviendo y sal, tapa y cuécelo 15 minutos a fuego mínimo. Déjalo reposar 5 minutos. Mientras se cuece, corta el pimiento en tiras y el tomate en gajos y pica la cebolleta verde y el cilantro.",
     "Calienta el wok a fuego fuerte con el resto del aceite de oliva y dora el tofu 5–6 minutos, girándolo, hasta que tenga costra por todos los lados. Sácalo.",
-    "Con el wok humeante, añade el resto del aceite de ajo y saltea el pimiento en tiras 2 minutos. Agrega el tomate en gajos y la pasta de ají y saltea 1 minuto: el tomate debe calentarse sin deshacerse.",
-    "Vierte el vinagre y el resto del tamari por el borde del wok para que chisporrotee y se caramelice 20 segundos. Devuelve el tofu, añade la cebolleta verde y el cilantro picados y saltea 30 segundos.",
+    "Con el wok humeante, añade el resto del aceite de ajo y saltea el pimiento 2 minutos. Agrega el tomate y la pasta de ají y saltea 1 minuto: el tomate debe calentarse sin deshacerse.",
+    "Vierte el vinagre y el resto del tamari por el borde del wok para que chisporrotee y se caramelice 20 segundos. Devuelve el tofu, añade la cebolleta verde y el cilantro y saltea 30 segundos.",
     "Mezcla las patatas con el salteado en el último momento, o sírvelas al lado para que sigan crujientes, y acompaña con el arroz."
   ],
   nutricion: { kcal: 790, prot: 33, hc: 88, grasa: 33 },
@@ -355,10 +355,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el kombu en 350 ml de agua fría y déjalo 15 minutos. Envuelve el tofu en papel de cocina, ponle un peso encima y déjalo escurrir el mismo tiempo.",
-    "Lava el arroz hasta que el agua salga casi clara y cuécelo con 170 ml de agua, tapado, 12 minutos a fuego mínimo. Apaga y déjalo reposar 10 minutos sin destapar.",
+    "Lava el arroz hasta que el agua salga casi clara y cuécelo con 170 ml de agua, tapado, 12 minutos a fuego mínimo. Apaga y déjalo reposar 10 minutos sin destapar. Mientras se cuece, ralla el rábano y el jengibre y escúrrelos ligeramente, pica la cebolleta verde y corta el tofu en 8 cubos grandes.",
     "Calienta el agua del kombu a fuego suave y retira el alga justo antes de que hierva. Añade 2,5 cucharadas de tamari, el mirin y una pizca de sal, y mantén el caldo caliente. Pon a hervir agua en un cazo para las espinacas.",
-    "Escalda las espinacas 30 segundos en el agua hirviendo, pásalas a agua fría y escúrrelas apretando. Alíñalas con el sésamo machacado, el resto del tamari y el azúcar.",
-    "Ralla el rábano y el jengibre y escúrrelos ligeramente; pica la cebolleta verde. Corta el tofu en 8 cubos grandes.",
+    "Escalda las espinacas 30 segundos en el agua hirviendo, pásalas a agua fría y escúrrelas apretando. Machaca el sésamo en el mortero y alíñalas con él, el resto del tamari y el azúcar.",
     "Calienta el aceite en una sartén pequeña a 175 °C (1,5 cm de altura). Reboza el tofu en la maicena justo antes de freírlo, sacude el exceso y fríelo 3–4 minutos, girándolo, hasta que tenga una costra crujiente y apenas dorada. Escúrrelo.",
     "Coloca el tofu en cuencos, vierte el caldo caliente alrededor sin mojar la parte de arriba, y corona con el rábano, el jengibre y la cebolleta. Sirve con el arroz y las espinacas."
   ],
@@ -406,11 +405,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la calabaza y córtala en dados de 3 cm. Pela la zanahoria y la chirivía y córtalas en bastones gruesos.",
     "Calienta el aceite de ajo en una cazuela ancha a fuego medio y tuesta el comino, el jengibre, el pimentón, la cúrcuma y la canela 30 segundos, sin que se quemen.",
-    "Añade la zanahoria y la chirivía y rehógalas 3 minutos para que se impregnen. Incorpora el tomate, 250 ml de agua, sal y pimienta, tapa y cuece 15 minutos a fuego suave.",
+    "Añade la zanahoria y la chirivía y rehógalas 3 minutos para que se impregnen. Incorpora el tomate, 250 ml de agua, sal y pimienta, tapa y cuece 15 minutos a fuego suave. Mientras, ralla la piel del limón y pica el cilantro.",
     "Agrega la calabaza, las aceitunas y la ralladura del limón, tapa y cuece 15–20 minutos más, hasta que las verduras estén tiernas pero enteras y la salsa se haya reducido y brille.",
     "Mientras, lava el mijo y tuéstalo en un cazo seco 2–3 minutos, hasta que huela a fruto seco. Añade 300 ml de agua y sal, lleva a ebullición, tapa y cuécelo 15 minutos a fuego mínimo. Déjalo reposar 5 minutos y suéltalo con un tenedor.",
     "Tuesta las almendras en una sartén seca 3 minutos, hasta que estén doradas.",
-    "Termina el tajín con el zumo del limón y el cilantro picado, y sírvelo sobre el mijo con las almendras por encima."
+    "Termina el tajín con el zumo del limón y el cilantro, y sírvelo sobre el mijo con las almendras por encima."
   ],
   nutricion: { kcal: 655, prot: 14, hc: 84, grasa: 29 },
   etiquetas: ["creativa", "bajo en fodmap", "vegana", "sin gluten", "batch cooking", "invierno"],
@@ -504,11 +503,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua en una cazuela. Mientras, corta el tempeh en 4 filetes de 1 cm; cuécelos 8 minutos en el agua hirviendo: pierde el amargor y absorbe mejor el sabor. Escúrrelo y sécalo.",
-    "Para el arroz, calienta 1 cucharada de aceite de ajo en una cazuela y rehoga los pimientos picados finos 4 minutos. Añade el arroz, remueve 1 minuto, vierte el agua, sal y pimienta, lleva a ebullición, tapa y cuece 15 minutos a fuego mínimo. Reposa 5 minutos y mezcla con la cebolleta verde picada.",
-    "Mientras se cuece el arroz, mezcla los dos pimentones, el tomillo, el orégano, la cayena, sal y pimienta. Pinta el tempeh con el tamari y el aceite de oliva y rebózalo en las especias, presionando para que se peguen.",
+    "Pon a hervir agua en una cazuela. Mientras, corta el tempeh en 4 filetes de 1 cm; cuécelos 8 minutos en el agua hirviendo: pierde el amargor y absorbe mejor el sabor. Mientras, pica finos los pimientos y la cebolleta verde. Escurre el tempeh y sécalo.",
+    "Para el arroz, calienta 1 cucharada de aceite de ajo en una cazuela y rehoga los pimientos 4 minutos. Añade el arroz, remueve 1 minuto, vierte el agua, sal y pimienta, lleva a ebullición, tapa y cuece 15 minutos a fuego mínimo. Reposa 5 minutos y mezcla con la cebolleta verde.",
+    "Mientras se cuece el arroz, mezcla los dos pimentones, el tomillo, el orégano, la cayena, sal y pimienta. Pinta el tempeh con el tamari y el aceite de oliva y rebózalo en las especias, presionando para que se peguen. Quita los tallos duros de la kale y trocéala.",
     "Calienta una sartén de hierro o de fondo grueso a fuego fuerte hasta que humee, sin aceite. Marca el tempeh 2–3 minutos por lado, hasta que la costra esté muy oscura pero sin oler a quemado. Ventila la cocina.",
-    "Quita los tallos duros de la kale y trocéala. En la misma sartén a fuego medio, añade el resto del aceite de ajo, la kale y 2 cucharadas de agua, y saltea 3–4 minutos hasta que esté tierna y de un verde intenso. Sala y riega con el zumo del limón.",
+    "En la misma sartén a fuego medio, añade el resto del aceite de ajo, la kale y 2 cucharadas de agua, y saltea 3–4 minutos hasta que esté tierna y de un verde intenso. Sala y riega con el zumo del limón.",
     "Sirve el arroz con el tempeh encima y la kale al lado."
   ],
   nutricion: { kcal: 655, prot: 26, hc: 66, grasa: 32 },
@@ -549,10 +548,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el trigo sarraceno y tuéstalo 2 minutos en una cazuela seca, hasta que huela a nuez. Añade 200 ml de agua y sal, lleva a ebullición, tapa y cuécelo 12–15 minutos a fuego mínimo, hasta que absorba el agua. Déjalo reposar tapado 5 minutos fuera del fuego.",
-    "Mientras, corta la zanahoria en bastones. Ponla en una sartén con el aceite de oliva, 2 cucharadas de agua y sal, tapa y cuécela 6 minutos.",
-    "Destapa, añade el azúcar y la mostaza y cocina 3–4 minutos más, removiendo, hasta que se evapore el líquido y la zanahoria quede brillante. Añade la mitad del eneldo picado y reserva.",
-    "Corta el tofu ahumado en dados y dóralo en la misma sartén con el aceite de ajo 5 minutos, hasta que esté crujiente por fuera.",
-    "Pica los pepinillos y la cebolleta verde y mézclalos con el trigo sarraceno suelto y el tofu.",
+    "Mientras, corta la zanahoria en bastones. Ponla en una sartén con el aceite de oliva, 2 cucharadas de agua y sal, tapa y cuécela 6 minutos; mientras, pica el eneldo, los pepinillos y la cebolleta verde y corta el tofu ahumado en dados.",
+    "Destapa, añade el azúcar y la mostaza y cocina 3–4 minutos más, removiendo, hasta que se evapore el líquido y la zanahoria quede brillante. Añade la mitad del eneldo y reserva.",
+    "Dora el tofu en la misma sartén con el aceite de ajo 5 minutos, hasta que esté crujiente por fuera.",
+    "Mezcla los pepinillos y la cebolleta verde con el trigo sarraceno suelto y el tofu.",
     "Sirve la kasza con la zanahoria glaseada al lado, el resto del eneldo y pimienta recién molida."
   ],
   nutricion: { kcal: 545, prot: 24, hc: 56, grasa: 25 },
@@ -637,10 +636,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la quinoa y cuécela con 240 ml de agua y sal, tapada, 13 minutos a fuego suave. Déjala reposar 5 minutos y alíñala con la ralladura y el zumo de medio limón y 1 cucharada de aceite.",
-    "Mientras, pica los tomates muy finos, mézclalos con 1 cucharadita de sal y déjalos escurrir en un colador 10 minutos, presionando de vez en cuando. Cuanta menos agua quede, más crujientes saldrán.",
-    "Mezcla el tomate escurrido con la cebolleta verde, la menta y el perejil picados, el orégano, la levadura y pimienta. Añade la harina de arroz poco a poco hasta tener una masa espesa que se sostenga en la cuchara.",
-    "Prepara la salsa batiendo el tahini con el zumo del otro medio limón, sal y 3–4 cucharadas de agua fría, hasta que quede cremosa y clara.",
+    "Lava la quinoa y cuécela con 240 ml de agua y sal, tapada, 13 minutos a fuego suave. Déjala reposar 5 minutos.",
+    "Mientras, pica los tomates muy finos, mézclalos con 1 cucharadita de sal y déjalos escurrir en un colador 10 minutos, presionando de vez en cuando. Cuanta menos agua quede, más crujientes saldrán. Mientras escurren, pica la cebolleta verde, la menta y el perejil y ralla la piel de medio limón.",
+    "Mezcla el tomate escurrido con la cebolleta verde, la menta, el perejil, el orégano, la levadura y pimienta. Añade la harina de arroz poco a poco hasta tener una masa espesa que se sostenga en la cuchara.",
+    "Alíña la quinoa con la ralladura y el zumo de medio limón y 1 cucharada de aceite. Prepara la salsa batiendo el tahini con el zumo del otro medio limón, sal y 3–4 cucharadas de agua fría, hasta que quede cremosa y clara.",
     "Calienta 1 cm de aceite en una sartén a fuego medio-alto (170 °C). Echa cucharadas de masa, aplánalas un poco y fríelas 2–3 minutos por lado, hasta que estén doradas y crujientes. Escúrrelas sobre papel.",
     "Sirve los buñuelos recién fritos con la quinoa y la salsa de tahini."
   ],
@@ -683,9 +682,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon agua a hervir, introduce los huevos fríos de la nevera con una cuchara y cuécelos 6 minutos exactos. Pásalos a agua con hielo 2 minutos y pélalos con cuidado: la yema debe quedar melosa.",
     "Corta el pan en dados y tuéstalo en una sartén seca a fuego medio 4 minutos, hasta que esté dorado. En la misma sartén, tuesta las nueces 2–3 minutos.",
-    "Corta el comté en bastoncitos y las uvas por la mitad.",
-    "Prepara la vinagreta batiendo la mostaza con el vinagre, sal y pimienta, añade el aceite a hilo y el cebollino picado.",
-    "Justo antes de servir, aliña los canónigos y la lechuga troceada con la mitad de la vinagreta.",
+    "Corta el comté en bastoncitos y las uvas por la mitad, trocea la lechuga y pica el cebollino.",
+    "Prepara la vinagreta batiendo la mostaza con el vinagre, sal y pimienta, añade el aceite a hilo y el cebollino.",
+    "Justo antes de servir, aliña los canónigos y la lechuga con la mitad de la vinagreta.",
     "Reparte en los platos el comté, las uvas, las nueces y los picatostes, coloca encima el huevo abierto por la mitad con una pizca de sal y riega con el resto de la vinagreta."
   ],
   nutricion: { kcal: 580, prot: 22, hc: 25, grasa: 43 },
@@ -806,8 +805,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal. Quita los tallos de la kale, escáldala 1 minuto en el agua, sácala con una espumadera a un bol de agua fría y escúrrela apretando. Así queda verde y pierde el amargor.",
-    "Tuesta las nueces en una sartén seca 3 minutos. Tritura la kale con la albahaca, las nueces, el pecorino rallado, el aceite de ajo, la ralladura y el zumo del limón, sal y 2–3 cucharadas de agua fría, hasta tener una pasta gruesa.",
+    "Pon a hervir abundante agua con sal; mientras se calienta, quita los tallos de la kale y ralla el pecorino y la piel del limón. Escalda la kale 1 minuto en el agua, sácala con una espumadera a un bol de agua fría y escúrrela apretando. Así queda verde y pierde el amargor.",
+    "Tuesta las nueces en una sartén seca 3 minutos. Tritura la kale con la albahaca, las nueces, el pecorino, el aceite de ajo, la ralladura y el zumo del limón, sal y 2–3 cucharadas de agua fría, hasta tener una pasta gruesa.",
     "En la misma sartén, calienta el aceite de oliva a fuego fuerte y saltea los tomates cherry 5–6 minutos, hasta que se arruguen y empiecen a reventar. Sálalos.",
     "Cuece los espaguetis el tiempo del paquete menos 1 minuto, removiendo bien los 2 primeros minutos, porque la pasta sin gluten tiende a pegarse. Guarda 150 ml del agua de cocción antes de escurrir.",
     "Mezcla la pasta con el pesto fuera del fuego, añadiendo el agua de cocción poco a poco hasta que quede cremosa y brillante. No la pongas al fuego: el queso se apelmazaría.",
@@ -852,12 +851,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Maja las hebras de azafrán con una pizca de sal y déjalas en infusión con 3 cucharadas de agua caliente 10 minutos. Lava el arroz hasta que el agua salga clara. Mientras, pon a hervir abundante agua con sal en una cazuela.",
-    "Precalienta el horno a 200 °C. Cuece el arroz en el agua hirviendo 6–7 minutos, hasta que esté al dente y aún firme en el centro. Escúrrelo y enjuágalo con agua fría.",
-    "Calienta el aceite de ajo en una sartén, rehoga la cebolleta verde picada 30 segundos y añade las espinacas hasta que se reduzcan, 3–4 minutos. Escúrrelas apretando bien, porque el agua impediría que se forme la costra. Salpimienta.",
+    "Precalienta el horno a 200 °C. Cuece el arroz en el agua hirviendo 6–7 minutos, hasta que esté al dente y aún firme en el centro. Mientras se cuece, pica la cebolleta verde y derrite la mantequilla. Escurre el arroz y enjuágalo con agua fría.",
+    "Calienta el aceite de ajo en una sartén, rehoga la cebolleta verde 30 segundos y añade las espinacas hasta que se reduzcan, 3–4 minutos. Escúrrelas apretando bien, porque el agua impediría que se forme la costra. Salpimienta.",
     "Bate el yogur con los huevos, el azafrán con su agua y sal, y mezcla con el arroz.",
-    "Unta generosamente un molde de cristal de 18–20 cm con el aceite de oliva y la mitad de la mantequilla derretida. Extiende dos tercios del arroz presionando, pon encima las espinacas y cubre con el resto del arroz. Presiona y pinta la superficie con el resto de la mantequilla.",
-    "Tapa con papel de aluminio y hornea 60 minutos en la parte baja del horno, destapando los últimos 15. La base debe verse dorada intensa a través del cristal.",
-    "Déjalo reposar 10 minutos, pasa un cuchillo por los bordes y vuélcalo sobre una fuente. Termina con las nueces tostadas picadas y los granos de granada."
+    "Unta generosamente un molde de cristal de 18–20 cm con el aceite de oliva y la mitad de la mantequilla. Extiende dos tercios del arroz presionando, pon encima las espinacas y cubre con el resto del arroz. Presiona y pinta la superficie con el resto de la mantequilla.",
+    "Tapa con papel de aluminio y hornea 60 minutos en la parte baja del horno, destapando los últimos 15. La base debe verse dorada intensa a través del cristal. Mientras, tuesta las nueces en una sartén seca 3 minutos y pícalas, y desgrana la granada.",
+    "Déjalo reposar 10 minutos, pasa un cuchillo por los bordes y vuélcalo sobre una fuente. Termina con las nueces y los granos de granada."
   ],
   nutricion: { kcal: 750, prot: 22, hc: 74, grasa: 40 },
   etiquetas: ["creativa", "bajo en fodmap", "al horno", "sin gluten", "para invitados", "poco especiada"],
@@ -898,12 +897,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga casi clara y déjalo escurrir 15 minutos. Mientras, pon el kombu en remojo en el agua fría.",
-    "Corta el tofu en dados de 1 cm, sécalo y dóralo en una sartén con el aceite de sésamo 5 minutos, hasta que esté dorado. Corta la zanahoria en juliana fina, las judías en rodajitas finas al bies y el jengibre en juliana.",
+    "Lava el arroz hasta que el agua salga casi clara y déjalo escurrir 15 minutos. Mientras, pon el kombu en remojo en el agua fría y corta la zanahoria en juliana fina, las judías en rodajitas finas al bies y el jengibre en juliana.",
+    "Corta el tofu en dados de 1 cm, sécalo y dóralo en una sartén con el aceite de sésamo 5 minutos, hasta que esté dorado.",
     "En una cazuela de fondo grueso pon el arroz, el agua con el kombu, el tamari y el mirin, y mezcla. Reparte encima el tofu, la zanahoria, las judías y el jengibre sin remover: si se mezclan, el arroz se cuece desigual.",
     "Tapa y lleva a ebullición a fuego medio 5 minutos; baja al mínimo y cuece 13 minutos más. Apaga y deja reposar 10 minutos sin destapar.",
-    "Mientras, corta el pepino en rodajas finísimas, sálalo 5 minutos, escúrrelo apretando y alíñalo con el vinagre de arroz y la mitad del sésamo.",
-    "Retira el kombu (puedes cortarlo en tiras y mezclarlo) y remueve el arroz de abajo arriba con una pala, incorporando la costra tostada del fondo. Sirve con la cebolleta verde picada, el resto del sésamo y el pepino aliñado."
+    "Mientras, corta el pepino en rodajas finísimas, sálalo 5 minutos, escúrrelo apretando y alíñalo con el vinagre de arroz y la mitad del sésamo. Pica la cebolleta verde.",
+    "Retira el kombu (puedes cortarlo en tiras y mezclarlo) y remueve el arroz de abajo arriba con una pala, incorporando la costra tostada del fondo. Sirve con la cebolleta verde, el resto del sésamo y el pepino aliñado."
   ],
   nutricion: { kcal: 625, prot: 24, hc: 92, grasa: 17 },
   etiquetas: ["creativa", "bajo en fodmap", "vegana", "sin gluten", "ideal para llevar", "poco especiada", "bajo en colesterol"],

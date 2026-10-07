@@ -166,12 +166,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos. Añade las judías verdes despuntadas y cuece todo 10 minutos más, hasta que las patatas se deshagan y las judías estén muy tiernas. Mientras, precalienta el horno a 190 °C. Escurre bien y deja que suelten el vapor 5 minutos.",
+    "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos; mientras, despunta las judías verdes. Añádelas y cuece todo 10 minutos más, hasta que las patatas se deshagan y las judías estén muy tiernas. Mientras, precalienta el horno a 190 °C, pica las hojas de mejorana y corta el tomate en gajos. Escurre bien y deja que suelten el vapor 5 minutos.",
     "Pasa las patatas por el pasapurés a un bol y pica las judías finas con el cuchillo.",
-    "Mezcla el puré con las judías, los huevos batidos, el parmesano, las hojas de mejorana picadas, el aceite de ajo, la nuez moscada, sal y pimienta, hasta tener una masa homogénea y blanda.",
+    "Mezcla el puré con las judías, los huevos batidos, el parmesano, la mejorana picada, el aceite de ajo, la nuez moscada, sal y pimienta, hasta tener una masa homogénea y blanda.",
     "Unta una fuente de unos 20 × 15 cm con 1 cucharadita de aceite de oliva y espolvorea la mitad del pan rallado. Extiende la masa en una capa de 3 cm, alísala con el dorso de un tenedor dibujando surcos y cubre con el resto del pan rallado.",
     "Riega con otra cucharadita de aceite y hornea 30-35 minutos, hasta que la superficie esté dorada y los bordes se despeguen de la fuente.",
-    "Déjalo reposar 10 minutos para que se asiente y córtalo en porciones. Mientras, aliña la lechuga y el tomate en gajos con el aceite restante y una pizca de sal.",
+    "Déjalo reposar 10 minutos para que se asiente y córtalo en porciones. Mientras, aliña la lechuga y el tomate con el aceite restante y una pizca de sal.",
     "Sirve el polpettone tibio o a temperatura ambiente, como en Génova, con la ensalada al lado."
   ],
   nutricion: { kcal: 450, prot: 18, hc: 46, grasa: 21 },
@@ -294,8 +294,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Envuelve el tofu en un paño, ponle un peso encima (una sartén) y déjalo 10 minutos para que suelte el agua; así se dora en vez de cocerse.",
-    "Machaca las semillas de hinojo en el mortero y mézclalas con el aceite de ajo, las hojas de una rama de romero y la salvia muy picadas, la ralladura del limón, sal y un poco de pimienta. Corta el tofu en 4 lonchas gruesas y úntalas bien con este adobo. Déjalas reposar mientras asas las patatas.",
+    "Precalienta el horno a 210 °C. Envuelve el tofu en un paño, ponle un peso encima (una sartén) y déjalo 10 minutos para que suelte el agua; así se dora en vez de cocerse. Mientras, machaca las semillas de hinojo en el mortero, pica muy finas la salvia y las hojas de una rama de romero y ralla la piel del limón.",
+    "Mezcla el hinojo machacado con el aceite de ajo, las hierbas picadas, la ralladura de limón, sal y un poco de pimienta. Corta el tofu en 4 lonchas gruesas y úntalas bien con este adobo. Déjalas reposar mientras asas las patatas.",
     "Corta las patatas en gajos, mézclalas en la bandeja con el aceite de oliva, sal y la otra rama de romero, y hornea 15 minutos.",
     "Mientras, corta el hinojo en láminas finas. Pasados los 15 minutos, saca la bandeja, aparta las patatas a los lados y coloca en el centro el hinojo y encima las lonchas de tofu con todo el adobo.",
     "Hornea 25 minutos más, dando la vuelta al tofu a mitad, hasta que esté dorado con los bordes crujientes y las patatas tiernas por dentro y tostadas por fuera.",
@@ -382,11 +382,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua fría y pélalos.",
+    "Cuece los huevos 10 minutos desde que el agua hierva. Mientras, corta los tomates en gajos, sálalos en el bol y déjalos que suelten su jugo, que será parte del aliño. Enfría los huevos en agua fría y pélalos.",
+    "Pela el pepino, quítale las semillas con una cucharilla y córtalo en medias lunas. Pela el pimiento con el pelador y córtalo en tiras finas. Corta el verde de la cebolleta en aros finos.",
     "Corta el pan sin gluten en dados, mézclalos con el aceite de oliva y tuéstalos en una sartén sin más grasa 4–5 minutos, removiendo, hasta que estén dorados. Es la versión de la galleta del marinero que lleva el condiggion.",
-    "Corta los tomates en gajos, sálalos en el bol y déjalos 5 minutos para que suelten su jugo, que será parte del aliño.",
-    "Pela el pepino, quítale las semillas con una cucharilla y córtalo en medias lunas. Pela el pimiento con el pelador y córtalo en tiras finas.",
-    "Añade al bol el pepino, el pimiento, las aceitunas, el verde de la cebolleta en aros finos, la albahaca rota y el orégano. Aliña con el aceite de ajo y mezcla bien con el jugo del tomate.",
+    "Añade al bol el pepino, el pimiento, las aceitunas, la cebolleta, la albahaca rota y el orégano. Aliña con el aceite de ajo y mezcla bien con el jugo del tomate.",
     "Reparte en los platos, pon encima el atún en lascas, los huevos en cuartos y las anchoas, y termina con los picatostes justo antes de comer para que crujan."
   ],
   nutricion: { kcal: 390, prot: 28, hc: 27, grasa: 19 },
@@ -422,12 +421,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Si el arenque es muy salado, déjalo 10 minutos en un bol con agua fría, escúrrelo y sécalo. Quítale las espinas visibles y córtalo en tiras.",
-    "Pela las naranjas a lo vivo: corta las tapas, apóyalas en la tabla y retira piel y parte blanca con el cuchillo siguiendo su curva. Córtalas en rodajas finas sobre un plato para recoger el zumo.",
-    "Corta el hinojo en láminas muy finas, casi transparentes (con mandolina si tienes), y reserva unas hojitas verdes para decorar.",
-    "Bate el zumo que han soltado las naranjas con el aceite de oliva y un poco de pimienta.",
-    "Monta en los platos las rodajas de naranja, el hinojo, el arenque y las aceitunas. Riega con el aliño y termina con el verde de la cebolleta en aros, el perejil picado y las hojitas de hinojo.",
-    "Tuesta el pan sin gluten y sírvelo al lado."
+    "Si el arenque es muy salado, ponlo 10 minutos en un bol con agua fría. Mientras, pela las naranjas a lo vivo: corta las tapas, apóyalas en la tabla y retira piel y parte blanca con el cuchillo siguiendo su curva. Córtalas en rodajas finas sobre un plato para recoger el zumo.",
+    "Corta el hinojo en láminas muy finas, casi transparentes (con mandolina si tienes), y reserva unas hojitas verdes para decorar. Corta el verde de la cebolleta en aros y pica el perejil.",
+    "Escurre el arenque y sécalo. Quítale las espinas visibles y córtalo en tiras.",
+    "Bate el zumo que han soltado las naranjas con el aceite de oliva y un poco de pimienta. Tuesta el pan sin gluten.",
+    "Monta en los platos las rodajas de naranja, el hinojo, el arenque y las aceitunas. Riega con el aliño y termina con la cebolleta, el perejil picado y las hojitas de hinojo.",
+    "Sirve con el pan tostado al lado."
   ],
   nutricion: { kcal: 360, prot: 18, hc: 28, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin cocción", "sin gluten", "poco especiada", "invierno", "rápida"],
@@ -470,9 +469,9 @@ window.RECETAS_SEED.push({
     "Lleva el agua a ebullición con sal, añade la polenta en lluvia batiendo con varillas y cuécela según el envase (unos 5 minutos), hasta que se despegue de las paredes. Fuera del fuego, mezcla el parmesano.",
     "Extiéndela en una fuente forrada con papel en una capa de 1,5 cm y métela 15 minutos en el congelador para que se endurezca. Mientras, precalienta el horno a 220 °C.",
     "Corta la polenta en dados de 2 cm, mézclalos con el aceite de oliva y repártelos separados en una bandeja con papel. Hornea 20 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes por fuera.",
-    "Mientras, corta los tomates en trozos y sálalos en el bol para que suelten jugo. Pela el pepino, quítale las semillas y córtalo en medias lunas.",
-    "Bate el aceite de ajo con el vinagre balsámico y mézclalo con el tomate y su jugo, el pepino, las aceitunas, las alcaparras, el verde de la cebolleta en aros y la albahaca rota.",
-    "Justo antes de servir, añade los dados de polenta todavía calientes y la mozzarella troceada. Mezcla con suavidad: la polenta absorbe parte del jugo del tomate por fuera y sigue crujiente por dentro."
+    "Mientras, corta los tomates en trozos y sálalos en el bol para que suelten jugo. Pela el pepino, quítale las semillas y córtalo en medias lunas. Corta el verde de la cebolleta en aros y trocea la mozzarella.",
+    "Bate el aceite de ajo con el vinagre balsámico y mézclalo con el tomate y su jugo, el pepino, las aceitunas, las alcaparras, la cebolleta y la albahaca rota.",
+    "Justo antes de servir, añade los dados de polenta todavía calientes y la mozzarella. Mezcla con suavidad: la polenta absorbe parte del jugo del tomate por fuera y sigue crujiente por dentro."
   ],
   nutricion: { kcal: 470, prot: 16, hc: 48, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "verano"],
@@ -847,10 +846,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Separa con cuidado 12 hojas grandes de la lechuga, sin romperlas. Escáldalas por tandas 10 segundos en agua hirviendo con sal, solo hasta que se ablanden, pásalas a agua fría y extiéndelas sobre un paño para que se sequen. Recorta un poco el nervio de la base si es grueso.",
-    "Desmiga la rebanada de pan sin corteza en un bol, cúbrela con la leche y, al cabo de 5 minutos, aplástala con un tenedor hasta hacer una pasta. Mientras se remoja, pon el caldo a calentar en una cazuela ancha.",
-    "Añade la ternera, el huevo, 25 g de parmesano, las hojas de mejorana picadas, la nuez moscada, sal y pimienta, y mezcla con las manos hasta tener una pasta homogénea.",
+    "Desmiga la rebanada de pan sin corteza en un bol, cúbrela con la leche y, al cabo de 5 minutos, aplástala con un tenedor hasta hacer una pasta. Mientras se remoja, pon el caldo a calentar en una cazuela ancha y pica las hojas de mejorana.",
+    "Añade la ternera, el huevo, 25 g de parmesano, la mejorana picada, la nuez moscada, sal y pimienta, y mezcla con las manos hasta tener una pasta homogénea.",
     "Pon una cucharada colmada de relleno en la base de cada hoja, dobla los lados hacia dentro y enróllala como un paquetito apretado. Si alguno se abre, átalo con hilo de cocina o sujétalo con un palillo.",
-    "Lleva el caldo a ebullición en una cazuela ancha, baja el fuego para que apenas tiemble y coloca los paquetitos en una sola capa, con el cierre hacia abajo. Cuécelos 15 minutos sin que hierva con fuerza, hasta que el relleno esté firme al presionarlo.",
+    "Lleva el caldo a ebullición, baja el fuego para que apenas tiemble y coloca los paquetitos en una sola capa, con el cierre hacia abajo. Cuécelos 15 minutos sin que hierva con fuerza, hasta que el relleno esté firme al presionarlo.",
     "Mientras, tuesta las otras dos rebanadas de pan y córtalas en dados.",
     "Reparte 6 paquetitos por plato hondo, cúbrelos con el caldo caliente, espolvorea el resto del parmesano y añade los dados de pan tostado justo al servir."
   ],
@@ -889,8 +888,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los contramuslos en una cazuela con el agua fría y llévala a ebullición a fuego medio. Retira con una espumadera la espuma gris que sube a la superficie durante los primeros minutos: así el caldo queda limpio.",
-    "Añade la zanahoria pelada en dos trozos, el tomate entero, el verde de la cebolleta, los tallos del perejil, el laurel y sal. Baja el fuego para que apenas tiemble y cuece 1 hora y cuarto, con la tapa entreabierta.",
+    "Pon los contramuslos en una cazuela con el agua fría y llévala a ebullición a fuego medio. Retira con una espumadera la espuma gris que sube a la superficie durante los primeros minutos: así el caldo queda limpio. Mientras se calienta, pela la zanahoria y pártela en dos trozos, y separa las hojas del perejil de los tallos.",
+    "Añade la zanahoria, el tomate entero, el verde de la cebolleta, los tallos del perejil, el laurel y sal. Baja el fuego para que apenas tiemble y cuece 1 hora y cuarto, con la tapa entreabierta.",
     "Saca el pollo y la zanahoria. Cuela el caldo y, si lo ves graso, desgrásalo pasando una hoja de papel de cocina por la superficie. Deberías tener alrededor de 1 litro.",
     "Desmenuza el pollo descartando los huesos y corta la zanahoria en dados pequeños.",
     "Lleva 800 ml de caldo a ebullición, añade la pastina y cuécela el tiempo del envase, removiendo al principio para que no se pegue. Mientras, pica las hojas del perejil. Incorpora el pollo y la zanahoria en el último minuto para que se calienten.",
@@ -1016,10 +1015,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Asa el pimiento entero 30 minutos, dándole la vuelta a mitad, hasta que la piel esté arrugada y con manchas oscuras. Mételo en un bol tapado 10 minutos y pélalo, quitando también semillas y nervios.",
-    "Mientras se asa, haz el crujiente: pon el parmesano en 4 montoncitos planos sobre una bandeja con papel y hornéalos 5–6 minutos junto al pimiento, hasta que se fundan y queden dorados. Deja que se enfríen y endurezcan.",
-    "Calienta el aceite de ajo en una cazuela, añade el verde de la cebolleta picado, la zanahoria en rodajas y la patata en dados y rehoga 3 minutos. Cubre con el caldo, sala y cuece 20 minutos, hasta que estén tiernas.",
-    "Tritura la albahaca con el aceite de oliva y una pizca de sal hasta tener un aceite verde.",
+    "Precalienta el horno a 220 °C. Asa el pimiento entero 30 minutos, dándole la vuelta a mitad, hasta que la piel esté arrugada y con manchas oscuras.",
+    "Mientras se asa, pela la zanahoria y la patata, corta la zanahoria en rodajas y la patata en dados y pica el verde de la cebolleta. Calienta el aceite de ajo en una cazuela y rehoga las verduras 3 minutos. Cubre con el caldo, sala y cuece 20 minutos, hasta que estén tiernas.",
+    "Mientras cuece, haz el crujiente: pon el parmesano en 4 montoncitos planos sobre una bandeja con papel y hornéalos 5–6 minutos junto al pimiento, hasta que se fundan y queden dorados. Deja que se enfríen y endurezcan. Tritura la albahaca con el aceite de oliva y una pizca de sal hasta tener un aceite verde.",
+    "Saca el pimiento, mételo en un bol tapado 10 minutos y pélalo, quitando también semillas y nervios.",
     "Añade el pimiento pelado a la cazuela y tritura hasta tener una crema lisa. Ajusta el espesor con un poco de caldo o agua y prueba de sal.",
     "Sirve la crema caliente con unas gotas de aceite de albahaca y el crujiente de parmesano encima, roto en trozos al llegar a la mesa."
   ],
@@ -1057,7 +1056,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la calabaza en dados de 1 cm. Funde la mantequilla en una cazuela a fuego suave con las hojas de salvia y el verde de la cebolleta picado, 1 minuto, hasta que perfume.",
+    "Corta la calabaza en dados de 1 cm y pica el verde de la cebolleta. Funde la mantequilla en una cazuela a fuego suave con las hojas de salvia y la cebolleta, 1 minuto, hasta que perfume.",
     "Añade la calabaza y rehógala 5 minutos, removiendo, hasta que empiece a ablandarse por los bordes.",
     "Vierte el caldo, sala ligeramente y cuece 10 minutos, hasta que la calabaza esté tierna. Aplasta la mitad de los dados contra la pared de la cazuela con una cuchara: espesarán la sopa.",
     "Añade la leche y, cuando vuelva a romper el hervor, el arroz. Cuece 16–18 minutos a fuego suave, removiendo a menudo porque la leche tiende a pegarse, hasta que el arroz esté tierno y la sopa espesa pero todavía de cuchara.",

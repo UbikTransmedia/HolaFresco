@@ -86,11 +86,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Abre la pita en dos láminas, córtalas en triángulos, píntalas con la mitad del aceite de oliva, espolvorea el zumaque y hornéalas 6-8 minutos, hasta que estén doradas y crujientes.",
-    "Prepara el tarator: en un bol bate el tahini con el zumo de un limón; al principio se cortará y espesará, es normal. Añade agua fría a cucharadas (3-4) batiendo hasta que quede una crema clara y fluida como un yogur líquido. Sala y añade el aceite de ajo y el comino.",
-    "Seca los salmonetes con papel de cocina por dentro y por fuera, hazles dos cortes poco profundos en cada costado y sálalos.",
+    "Mientras se hornea, prepara el tarator: en un bol bate el tahini con el zumo de un limón; al principio se cortará y espesará, es normal. Añade agua fría a cucharadas (3-4) batiendo hasta que quede una crema clara y fluida como un yogur líquido. Sala y añade el aceite de ajo y el comino.",
+    "Seca los salmonetes con papel de cocina por dentro y por fuera, hazles dos cortes poco profundos en cada costado y sálalos. Lava los rábanos y córtalos en cuartos, y pica el perejil grueso.",
     "Calienta la plancha a fuego fuerte, úntala con el resto del aceite y coloca los salmonetes. No los muevas en 3-4 minutos: la piel debe quedar tostada y despegarse sola.",
     "Dales la vuelta con una espátula ancha y cocínalos 3 minutos más. Están cuando la carne, junto a la espina, se ve blanca y se separa al presionar con un cuchillo.",
-    "Mientras, lava los rábanos y córtalos en cuartos, y pica el perejil grueso.",
     "Sirve los salmonetes con el tarator al lado, el perejil por encima, los rábanos, la pita crujiente y el segundo limón en gajos."
   ],
   nutricion: { kcal: 405, prot: 28, hc: 27, grasa: 20 },
@@ -226,8 +225,7 @@ window.RECETAS_SEED.push({
     "Mezcla en un bol 1 cucharada de aceite, la cúrcuma, el tamarindo, sal y pimienta hasta obtener una pasta fluida de color naranja.",
     "Seca bien las doradas con papel de cocina, ábrelas como un libro y colócalas con la piel hacia abajo. Pinta la carne con dos tercios de la pasta.",
     "Hornea 10 minutos, hasta que los bordes empiecen a dorarse y la carne se vuelva blanca.",
-    "Mientras, corta los tomates en rodajas y la parte verde de la cebolleta en aros. Sácalos del horno un momento, cubre el pescado con las rodajas de tomate y la cebolleta, pinta con el resto de la pasta y hornea 6-8 minutos más, hasta que la carne se separe en lascas en la parte más gruesa.",
-    "Prepara la ensalada: pepino en dados, perejil picado, el zumo de medio limón, el resto del aceite, sal y el zumaque.",
+    "Mientras, corta los tomates en rodajas y la parte verde de la cebolleta en aros. Sácalos del horno un momento, cubre el pescado con las rodajas de tomate y la cebolleta, pinta con el resto de la pasta y hornea 6-8 minutos más, hasta que la carne se separe en lascas en la parte más gruesa. Mientras termina, prepara la ensalada: corta el pepino en dados, pica el perejil y alíñalos con el zumo de medio limón, el resto del aceite, sal y el zumaque.",
     "Calienta la pita 2 minutos en el horno ya apagado y sirve las doradas abiertas con el tomate asado, la ensalada, la pita y gajos de limón."
   ],
   nutricion: { kcal: 475, prot: 40, hc: 31, grasa: 21 },
@@ -268,8 +266,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz y déjalo en remojo 15 minutos. Raspa las conchas de los mejillones, arráncales las barbas tirando hacia la parte estrecha y descarta los que estén abiertos y no se cierren al golpearlos. Guárdalos en agua fría.",
-    "Calienta el aceite en una sartén a fuego medio y tuesta los piñones hasta que estén dorados. Añade la parte verde de la cebolleta picada, el tomate concentrado, la pimienta de Jamaica, la canela y el azúcar, y remueve 1 minuto.",
+    "Lava el arroz y déjalo en remojo 15 minutos. Raspa las conchas de los mejillones, arráncales las barbas tirando hacia la parte estrecha y descarta los que estén abiertos y no se cierren al golpearlos. Guárdalos en agua fría. Pica la parte verde de la cebolleta y el perejil.",
+    "Calienta el aceite en una sartén a fuego medio y tuesta los piñones hasta que estén dorados. Añade la cebolleta picada, el tomate concentrado, la pimienta de Jamaica, la canela y el azúcar, y remueve 1 minuto.",
     "Incorpora el arroz escurrido, nacáralo 2 minutos, vierte 150 ml de agua caliente, sala y cuece tapado a fuego suave 8 minutos, hasta que absorba el agua: debe quedar a medio hacer. Fuera del fuego, añade la menta seca, el perejil picado y pimienta, y deja templar.",
     "Abre los mejillones en crudo: sujeta cada uno con la parte plana hacia ti, mete la punta de un cuchillo pequeño por la ranura del lado redondeado y deslízalo hacia la bisagra sin separar las dos valvas. Ábrelo como un libro.",
     "Rellena cada mejillón con una cucharadita de arroz sin apretar (el grano aún crecerá) y ciérralo presionando.",
@@ -447,7 +445,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pollo en una cazuela con el agua, la zanahoria en trozos, la parte verde de la cebolleta, el laurel y sal. Llévalo a ebullición, baja el fuego al mínimo y cuece 15-18 minutos sin que llegue a borbotear. Déjalo enfriar 10 minutos dentro del caldo para que no se seque.",
+    "Trocea la zanahoria y pon el pollo en una cazuela con el agua, la zanahoria, la parte verde de la cebolleta, el laurel y sal. Llévalo a ebullición, baja el fuego al mínimo y cuece 15-18 minutos sin que llegue a borbotear. Déjalo enfriar 10 minutos dentro del caldo para que no se seque; mientras, pica el perejil.",
     "Saca el pollo y deshébralo con los dedos en hebras finas. Cuela el caldo.",
     "Lava el arroz, ponlo en una cazuela con 250 ml del caldo caliente y sal, tapa y cuece a fuego mínimo 12 minutos. Apaga y deja reposar tapado 5 minutos con un paño bajo la tapa.",
     "Remoja el pan en 150 ml de caldo templado. Tuesta ligeramente las nueces en una sartén sin aceite y tritúralas con el pan remojado, el aceite de ajo y sal. Añade caldo a cucharadas hasta obtener una crema espesa y untuosa, como un hummus.",
@@ -538,10 +536,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el cordero con papel de cocina. Calienta el aceite en una cazuela a fuego medio-alto y dora los dados en dos tandas, 3-4 minutos cada una, hasta que tengan costra por todas las caras.",
-    "Vuelve a poner toda la carne, añade la parte verde de la cebolleta picada y la cúrcuma y remueve 30 segundos. Vierte el agua caliente, sala y pimienta, tapa y cuece a fuego suave 60 minutos, hasta que la carne esté tierna.",
-    "Mientras, pon el azafrán en remojo en 2 cucharadas de agua caliente. Pela las zanahorias y córtalas en bastones finos como cerillas gruesas.",
-    "Añade las zanahorias, el azafrán, el azúcar, la ralladura y el zumo de la naranja. Cuece destapado 20 minutos, hasta que la zanahoria esté tierna y la salsa se haya reducido y brille.",
+    "Seca el cordero con papel de cocina y pica la parte verde de la cebolleta. Calienta el aceite en una cazuela a fuego medio-alto y dora los dados en dos tandas, 3-4 minutos cada una, hasta que tengan costra por todas las caras.",
+    "Vuelve a poner toda la carne, añade la cebolleta y la cúrcuma y remueve 30 segundos. Vierte el agua caliente, sala y pimienta, tapa y cuece a fuego suave 60 minutos, hasta que la carne esté tierna.",
+    "Mientras, pon el azafrán en remojo en 2 cucharadas de agua caliente. Pela las zanahorias y córtalas en bastones finos como cerillas gruesas. Ralla la piel de la naranja y exprímela.",
+    "Añade las zanahorias, el azafrán, el azúcar, la ralladura y el zumo de naranja. Cuece destapado 20 minutos, hasta que la zanahoria esté tierna y la salsa se haya reducido y brille.",
     "Mientras, lava el arroz hasta que el agua salga clara y cuécelo con 280 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Reposa 5 minutos tapado con un paño bajo la tapa.",
     "Prueba el guiso y ajusta con el zumo de limón: debe ser dulce y ácido a la vez. Sirve sobre el arroz."
   ],
@@ -584,9 +582,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escalda las aceitunas: cúbrelas de agua fría en un cazo, llévalas a ebullición y escúrrelas. Repite una vez más. Así pierden sal y amargor.",
+    "Escalda las aceitunas: cúbrelas de agua fría en un cazo, llévalas a ebullición y escúrrelas. Repite una vez más. Así pierden sal y amargor. Mientras, pica la parte verde de la cebolleta.",
     "Calienta el aceite de ajo en una cazuela a fuego medio y dora los contramuslos 2-3 minutos por cada lado.",
-    "Añade la parte verde de la cebolleta picada, la cúrcuma, la canela, el laurel y pimienta, remueve 30 segundos y vierte el agua. Sala poco (las aceitunas aportarán más), tapa y cuece a fuego suave 20 minutos. Mientras, pela las zanahorias y córtalas en rodajas.",
+    "Añade la cebolleta, la cúrcuma, la canela, el laurel y pimienta, remueve 30 segundos y vierte el agua. Sala poco (las aceitunas aportarán más), tapa y cuece a fuego suave 20 minutos. Mientras, pela las zanahorias y córtalas en rodajas.",
     "Incorpora las zanahorias y cuece 15 minutos más, tapado.",
     "Añade las aceitunas y cuece 10 minutos destapado para que la salsa se concentre. Mientras, pica el perejil y tuesta el pan.",
     "Disuelve la maicena en el zumo de medio limón, viértela en la cazuela y remueve 2 minutos, hasta que la salsa espese y brille. Retira la canela y el laurel.",
@@ -677,10 +675,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Infusiona el azafrán en 1 cucharada de agua caliente 5 minutos. Mézclalo con el yogur, la ralladura y el zumo de medio limón y sal. Embadurna los filetes de pavo y déjalos marinar mientras haces el puré (al menos 15 minutos).",
+    "Infusiona el azafrán en 1 cucharada de agua caliente 5 minutos; mientras, ralla la piel de medio limón y exprímelo. Mezcla el azafrán con el yogur, la ralladura y el zumo de medio limón y sal. Embadurna los filetes de pavo y déjalos marinar mientras haces el puré (al menos 15 minutos).",
     "Pela la chirivía y la patata, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos, hasta que estén muy tiernas. Mientras, tuesta las almendras en una sartén sin aceite, pícalas gruesas y pica el cebollino.",
     "Escúrrelas y tritúralas con la leche caliente, la mitad del aceite, el comino, sal y pimienta hasta obtener un puré fino.",
-        "Retira el exceso de marinada del pavo con una espátula. Calienta la plancha a fuego medio-alto con el resto del aceite y cocina los filetes 4 minutos por lado, hasta que estén dorados y el centro jugoso pero sin rastro rosado.",
+    "Retira el exceso de marinada del pavo con una espátula. Calienta la plancha a fuego medio-alto con el resto del aceite y cocina los filetes 4 minutos por lado, hasta que estén dorados y el centro jugoso pero sin rastro rosado.",
     "Deja reposar el pavo 2 minutos y córtalo en tiras. Sirve sobre el puré con las almendras, el cebollino picado y gajos del otro medio limón."
   ],
   nutricion: { kcal: 500, prot: 44, hc: 45, grasa: 16 },
@@ -770,7 +768,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una cazuela el pollo, la parte verde de la cebolleta picada, el jengibre rallado, el azafrán, la cúrcuma, media cucharadita de canela, 1 cucharadita de aceite, sal, pimienta y el agua. Tapa y cuece a fuego suave 25 minutos, hasta que la carne se deshaga.",
+    "Pica la parte verde de la cebolleta y ralla el jengibre. Ponlos en una cazuela con el pollo, el azafrán, la cúrcuma, media cucharadita de canela, 1 cucharadita de aceite, sal, pimienta y el agua. Tapa y cuece a fuego suave 25 minutos, hasta que la carne se deshaga.",
     "Mientras, pela las patatas y cuécelas en trozos en agua con sal 18 minutos. Escúrrelas y aplástalas con la leche caliente y sal hasta obtener un puré fino. Pica el perejil y el cilantro.",
     "Precalienta el horno a 200 °C. Saca el pollo y deshébralo. Sube el fuego y reduce el caldo hasta que queden unos 100 ml.",
     "Baja el fuego al mínimo, añade los huevos batidos al caldo y remueve sin parar 2-3 minutos, hasta que cuajen en una crema de grumos finos. Mezcla con el pollo, el perejil y el cilantro picados.",
@@ -861,12 +859,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las judías en trozos de 1 cm y escáldalas 4 minutos en agua hirviendo con sal. Escúrrelas y pásalas por agua fría. Pon el azafrán en remojo en 1 cucharada de agua caliente.",
-    "Calienta 1 cucharadita de aceite en una sartén antiadherente de 22 cm a fuego medio y saltea las judías con la parte verde de la cebolleta picada y la cúrcuma 3 minutos. Deja templar.",
+    "Corta las judías en trozos de 1 cm y escáldalas 4 minutos en agua hirviendo con sal. Escúrrelas y pásalas por agua fría. Pon el azafrán en remojo en 1 cucharada de agua caliente. Pica la parte verde de la cebolleta y el perejil.",
+    "Calienta 1 cucharadita de aceite en una sartén antiadherente de 22 cm a fuego medio y saltea las judías con la cebolleta y la cúrcuma 3 minutos. Deja templar.",
     "Bate los huevos con el azafrán, la harina de arroz, el bicarbonato, sal y pimienta hasta que no queden grumos. Añade las judías y el perejil picado.",
-    "Limpia la sartén, caliéntala a fuego medio-bajo con el resto del aceite, vierte la mezcla, tapa y cuaja 12-15 minutos, hasta que los bordes estén firmes y el centro casi cuajado. Mientras, mezcla el yogur con el pepino rallado y escurrido, la menta seca y sal.",
+    "Limpia la sartén, caliéntala a fuego medio-bajo con el resto del aceite, vierte la mezcla, tapa y cuaja 12-15 minutos, hasta que los bordes estén firmes y el centro casi cuajado. Mientras, ralla el pepino, escúrrelo y mézclalo con el yogur, la menta seca y sal.",
     "Dale la vuelta con ayuda de un plato y cocina 3-4 minutos más por el otro lado, hasta que esté dorada y firme al tacto.",
-        "Corta la kuku en porciones y sírvela templada con el yogur y la pita calentada."
+    "Corta la kuku en porciones y sírvela templada con el yogur y la pita calentada."
   ],
   nutricion: { kcal: 410, prot: 22, hc: 35, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "ideal para llevar"],
@@ -953,12 +951,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Bate los huevos con la harina de arroz, la leche y una pizca de sal hasta obtener una masa lisa y fluida. Déjala reposar mientras haces el relleno.",
-    "Calienta 1 cucharadita de aceite en una sartén grande a fuego medio, añade la parte verde de la cebolleta picada y las espinacas, y saltéalas 3 minutos hasta que pierdan el agua. Escúrrelas apretando con una cuchara y pícalas.",
-    "Mezcla las espinacas templadas con la feta desmenuzada, la menta picada y pimienta.",
+    "Bate los huevos con la harina de arroz, la leche y una pizca de sal hasta obtener una masa lisa y fluida. Déjala reposar mientras haces el relleno. Pica la parte verde de la cebolleta y la menta.",
+    "Calienta 1 cucharadita de aceite en una sartén grande a fuego medio, añade la cebolleta y las espinacas, y saltéalas 3 minutos hasta que pierdan el agua. Escúrrelas apretando con una cuchara y pícalas.",
+    "Mezcla las espinacas templadas con la feta desmenuzada, la menta picada y pimienta. Corta los tomates y el pepino en dados y alíñalos con sal y el zumaque.",
     "Unta una sartén antiadherente de 22 cm con unas gotas del aceite restante a fuego medio. Vierte un cuarto de la masa, gírala para cubrir el fondo y cuaja 1 minuto, hasta que los bordes se despeguen. Dale la vuelta 20 segundos. Repite hasta tener 4 crepes.",
     "Pon un cuarto del relleno en el centro de cada crepe, dobla los lados formando un rectángulo y vuelve a ponerlas en la sartén 1 minuto por cada lado, hasta que la feta se funda.",
-    "Corta los tomates y el pepino en dados y aliña con sal y el zumaque. Sirve las crepes con una pizca de pimentón por encima y la ensalada."
+    "Sirve las crepes con una pizca de pimentón por encima y la ensalada."
   ],
   nutricion: { kcal: 355, prot: 24, hc: 17, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "poco especiada"],
@@ -1040,7 +1038,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C y pon a calentar agua para el baño maría. Infusiona el azafrán en 1 cucharada de agua caliente y mézclalo con el yogur y una pizca de sal.",
+    "Precalienta el horno a 190 °C y pon a calentar agua para el baño maría. Infusiona el azafrán en 1 cucharada de agua caliente y mézclalo con el yogur y una pizca de sal. Pica el eneldo.",
     "Ralla el calabacín y la zanahoria. Saltéalos en una sartén con el aceite de ajo a fuego medio 4-5 minutos, hasta que pierdan el agua y estén tiernos. Sala y mezcla con la mitad del eneldo picado.",
     "Reparte las verduras en dos cazuelitas aptas para horno, cubre con 2 cucharadas de yogur cada una y haz un hueco en el centro. Casca dos huevos en cada cazuelita y sala ligeramente.",
     "Coloca las cazuelitas en una fuente honda, vierte agua caliente hasta media altura y hornea 12-14 minutos, hasta que las claras estén cuajadas y las yemas tiemblen.",
@@ -1085,7 +1083,7 @@ window.RECETAS_SEED.push({
     "Envuelve el tofu en un paño, ponle un peso encima 10 minutos para que suelte el agua y córtalo en 4 filetes gruesos.",
     "Mientras, tritura las nueces con la mitad de los granos de granada, el zumo del limón, el aceite de ajo, la mitad del perejil y la menta y sal, hasta obtener una pasta granulosa de color rosado.",
     "Unta los filetes de tofu por ambos lados con la pasta y déjalos marinar 10 minutos.",
-    "Mientras, lava el arroz y cuécelo con 280 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Apaga, mezcla el eneldo picado y deja reposar tapado 5 minutos.",
+    "Mientras, lava el arroz y cuécelo con 280 ml de agua y sal, tapado y a fuego mínimo, 12 minutos; mientras, pica el eneldo y el resto del perejil. Apaga, mezcla el eneldo y deja reposar tapado 5 minutos.",
     "Calienta una sartén antiadherente a fuego medio (no fuerte: la nuez se quema) y cocina el tofu 3-4 minutos por lado, hasta que se forme una costra dorada.",
     "Sirve el tofu sobre el arroz al eneldo, con el resto de los granos de granada y el perejil picado por encima."
   ],
@@ -1127,10 +1125,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el tempeh en tiras de 1 cm y cuécelo al vapor o en agua hirviendo 8 minutos: le quita el amargor y lo vuelve más tierno. Escúrrelo y sécalo.",
-    "Mientras, lava la quinoa y cuécela en 240 ml de agua con el azafrán y sal, tapada y a fuego suave, 15 minutos. Ralla la zanahoria gruesa y añádela a la cazuela los 3 últimos minutos.",
-    "Mezcla el zumaque, el comino, el zumo de medio limón, 1 cucharadita de aceite de ajo y sal, y embadurna el tempeh.",
+    "Mientras, lava la quinoa y cuécela en 240 ml de agua con el azafrán y sal, tapada y a fuego suave, 15 minutos; ralla la zanahoria gruesa y añádela a la cazuela los 3 últimos minutos. Mientras se cuece, pela la naranja a lo vivo y saca los gajos sin piel, pica la menta y mézclala con el yogur, el zumo de medio limón y sal.",
+    "Mezcla el zumaque, el comino, el zumo del otro medio limón, 1 cucharadita de aceite de ajo y sal, y embadurna el tempeh.",
     "Calienta una sartén antiadherente a fuego medio con el resto del aceite de ajo y dora el tempeh 3 minutos por lado, hasta que esté tostado y crujiente en los bordes.",
-    "Pela la naranja a lo vivo y saca los gajos sin piel. Mezcla el yogur con la menta picada, el zumo del otro medio limón y sal.",
     "Suelta la quinoa con un tenedor, reparte en dos boles, coloca encima el tempeh y los gajos de naranja, y sirve con el yogur a la menta."
   ],
   nutricion: { kcal: 585, prot: 32, hc: 65, grasa: 22 },

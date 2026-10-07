@@ -74,12 +74,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara los rellenos en la misma sartén de 20 cm, uno detrás de otro, cada uno con un hilo de aceite: el pimiento en tiras finas, 10 minutos a fuego medio hasta que esté blando y dulce; el calabacín en dados pequeños con el tomillo, 5 minutos hasta que pierda el agua; y las espinacas con un ajo laminado, 2 minutos hasta que se encojan. Escurre bien las espinacas apretándolas: el agua rompe la tortilla. Pica las aceitunas con la mitad de la albahaca.",
+    "Corta el pimiento en tiras finas y el calabacín en dados pequeños, y lamina un ajo. Prepara los rellenos en la misma sartén de 20 cm, uno detrás de otro, cada uno con un hilo de aceite: el pimiento, 10 minutos a fuego medio hasta que esté blando y dulce; el calabacín con el tomillo, 5 minutos hasta que pierda el agua; y las espinacas con el ajo laminado, 2 minutos hasta que se encojan. Escurre bien las espinacas apretándolas: el agua rompe la tortilla. Pica las aceitunas con la mitad de la albahaca.",
     "Pon cada relleno en un cuenco, sálalo y añade a cada uno 1 huevo y medio batido (bate los 6 juntos y reparte en cuatro).",
     "Calienta la sartén a fuego medio-bajo con unas gotas de aceite y cuaja la primera tortilla: 2 minutos sin remover, hasta que los bordes se despeguen. Dale la vuelta con ayuda de un plato y cuécela 1 minuto más. Debe quedar plana, fina y apenas dorada.",
     "Repite con las otras tres. Ve apilándolas en un molde o plato hondo de unos 20 cm forrado con film, alternando colores: espinacas, pimiento, calabacín y aceitunas arriba.",
     "Cubre con film, pon encima un plato con un peso ligero (un bote) y deja enfriar en la nevera al menos 30 minutos, mejor 2 horas: así las capas se pegan y se corta limpio.",
-    "Para el coulis, ralla los tomates partidos por la mitad sobre un bol hasta quedarte con la piel en la mano. Añade el otro ajo rallado muy fino, 1 cucharada de aceite, sal y la albahaca restante picada.",
+    "Mientras reposa, prepara el coulis: ralla los tomates partidos por la mitad sobre un bol hasta quedarte con la piel en la mano. Ralla muy fino el otro ajo, pica la albahaca restante y añádelos al tomate con 1 cucharada de aceite y sal.",
     "Desmolda el crespeou, córtalo en cuñas como una tarta y sírvelo frío o a temperatura ambiente sobre el coulis."
   ],
   nutricion: { kcal: 465, prot: 23, hc: 12, grasa: 36 },
@@ -117,8 +117,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los fideos en agua con sal 1 minuto menos de lo que indique el paquete (unos 2 minutos): terminarán de hacerse en la sartén. Escúrrelos, pásalos por agua fría para cortar la cocción y déjalos escurrir bien: el agua que quede impediría que la froġa se dore.",
-    "Bate los huevos en un bol grande con el parmesano, el perejil picado, el ajo rallado, una pizca de sal (el queso ya sala) y bastante pimienta. Añade los fideos y mezcla con las manos o unas pinzas para que cada hebra quede bañada.",
+    "Pon a hervir agua con sal y, mientras, pica el perejil y ralla el ajo. Cuece los fideos 1 minuto menos de lo que indique el paquete (unos 2 minutos): terminarán de hacerse en la sartén. Escúrrelos, pásalos por agua fría para cortar la cocción y déjalos escurrir bien: el agua que quede impediría que la froġa se dore.",
+    "Bate los huevos en un bol grande con el parmesano, el perejil, el ajo, una pizca de sal (el queso ya sala) y bastante pimienta. Añade los fideos y mezcla con las manos o unas pinzas para que cada hebra quede bañada.",
     "Calienta 1 cucharada de aceite en una sartén antiadherente de 22 cm a fuego medio. Vierte la mezcla y aplánala con una espátula para que quede de grosor uniforme, unos 2 cm.",
     "Cuece 6-7 minutos a fuego medio-bajo, sacudiendo la sartén de vez en cuando, hasta que la base esté bien dorada y los bordes crujientes. Si el fuego es fuerte, se quema antes de cuajar el centro.",
     "Dale la vuelta con un plato y cuécela por el otro lado 4-5 minutos más. Al presionar el centro debe estar firme.",
@@ -248,13 +248,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien los tacos de seitán con papel de cocina. Calienta 1 cucharada de aceite en una cazuela a fuego medio-alto y dóralos 5-6 minutos, girándolos, hasta que tengan costra tostada por todas las caras. Sácalos: el seitán no tiene grasa propia y todo su sabor de guiso sale de este dorado.",
-    "En la misma cazuela, con el resto del aceite, rehoga la cebolla picada y las zanahorias en rodajas gruesas 8 minutos a fuego medio, hasta que la cebolla esté dorada. Añade los ajos aplastados y el tomate concentrado y tuéstalo 1 minuto, removiendo, hasta que oscurezca.",
+    "Pica la cebolla, corta las zanahorias en rodajas gruesas y aplasta los ajos. Seca bien los tacos de seitán con papel de cocina. Calienta 1 cucharada de aceite en una cazuela a fuego medio-alto y dóralos 5-6 minutos, girándolos, hasta que tengan costra tostada por todas las caras. Sácalos: el seitán no tiene grasa propia y todo su sabor de guiso sale de este dorado.",
+    "En la misma cazuela, con el resto del aceite, rehoga la cebolla y las zanahorias 8 minutos a fuego medio, hasta que la cebolla esté dorada. Añade los ajos aplastados y el tomate concentrado y tuéstalo 1 minuto, removiendo, hasta que oscurezca.",
     "Espolvorea la harina, remueve 1 minuto y vierte el vino. Rasca el fondo para despegar lo tostado, sube el fuego y deja hervir 5 minutos para que se vaya el alcohol.",
     "Añade el caldo, la piel de naranja, el tomillo y el laurel. Tapa a medias y cuece a fuego suave 25 minutos, hasta que la zanahoria esté tierna y la salsa haya reducido a la mitad y napé la cuchara.",
     "Mientras, cuece las patatas con piel en agua con sal 20 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y pártelas por la mitad.",
-    "Incorpora el seitán y las aceitunas a la salsa y cuece 10-15 minutos más a fuego muy suave, sin que llegue a hervir con fuerza: así se empapa sin volverse esponjoso. Retira la piel de naranja, el laurel y las ramas de tomillo y salpimienta.",
-    "Sirve la daube con las patatas, riégalas con la salsa y termina con perejil picado."
+    "Incorpora el seitán y las aceitunas a la salsa y cuece 10-15 minutos más a fuego muy suave, sin que llegue a hervir con fuerza: así se empapa sin volverse esponjoso. Mientras, pica el perejil. Retira la piel de naranja, el laurel y las ramas de tomillo y salpimienta.",
+    "Sirve la daube con las patatas, riégalas con la salsa y termina con el perejil."
   ],
   nutricion: { kcal: 590, prot: 40, hc: 58, grasa: 21 },
   etiquetas: ["creativa", "invierno", "batch cooking", "alta en proteína", "bajo en colesterol", "poco especiada"],
@@ -298,8 +298,8 @@ window.RECETAS_SEED.push({
     "Seca bien el tempeh, calienta 1 cucharada de aceite en una cazuela a fuego medio-alto y dóralo 5 minutos, removiendo, hasta que esté tostado por varias caras. Resérvalo.",
     "Baja a fuego medio, añade la cebolla en pluma fina y los ajos laminados y pocha 6 minutos. Agrega la salvia y el laurel, remueve 30 segundos y vierte el vino; deja que hierva 2 minutos.",
     "Incorpora el tomate triturado, las aceitunas y el tempeh. Tapa y cuece a fuego suave 15 minutos, hasta que la salsa espese y brille. Salpimienta con prudencia, probando antes.",
-    "Mientras, dora las castañas en una sartén con la otra cucharada de aceite, 4-5 minutos a fuego medio, hasta que tengan costra caramelizada por fuera.",
-    "Sirve el tempeh con su salsa, las castañas al lado y perejil picado por encima."
+    "Mientras, dora las castañas en una sartén con la otra cucharada de aceite, 4-5 minutos a fuego medio, hasta que tengan costra caramelizada por fuera, y pica el perejil.",
+    "Sirve el tempeh con su salsa, las castañas al lado y el perejil por encima."
   ],
   nutricion: { kcal: 580, prot: 28, hc: 42, grasa: 33 },
   etiquetas: ["creativa", "otoño", "invierno", "sin gluten", "batch cooking", "poco especiada"],
@@ -342,10 +342,10 @@ window.RECETAS_SEED.push({
     "Envuelve el tofu en un paño, ponle un peso encima (una sartén con un bote) y prénsalo 15 minutos mientras preparas la verdura. Cuanta menos agua tenga, mejor costra hará.",
     "Corta la berenjena en dados de 2 cm, sálalos y déjalos en un colador 10 minutos. Pica la cebolla, el pimiento en dados y los ajos; trocea los tomates.",
     "Seca la berenjena con papel y dórala en una cazuela con 1,5 cucharadas de aceite a fuego medio-alto, 6-7 minutos, hasta que esté dorada por fuera y cremosa por dentro. Sácala.",
-    "En la misma cazuela, sin limpiarla, pocha la cebolla y el pimiento 6 minutos. Añade el ajo y el tomate concentrado y tuéstalo 1 minuto. Agrega el tomate troceado y cuece 10 minutos a fuego medio, hasta que se deshaga.",
+    "En la misma cazuela, sin limpiarla, pocha la cebolla y el pimiento 6 minutos. Añade el ajo y el tomate concentrado y tuéstalo 1 minuto. Agrega el tomate troceado y cuece 10 minutos a fuego medio, hasta que se deshaga; mientras, pica la mitad de la menta.",
     "Devuelve la berenjena, añade las alcaparras, las aceitunas y el vinagre y cuece 5 minutos más. La kapunata debe quedar jugosa pero no caldosa, con un punto ácido. Salpimienta y apaga.",
     "Corta el tofu en 4 filetes gruesos. Dóralos en una sartén con el resto del aceite a fuego medio-alto, 3 minutos por cara sin moverlos, hasta que tengan costra dorada. Sálalos al sacarlos.",
-    "Mezcla la mitad de la menta picada con la kapunata, sirve el tofu encima y termina con el resto de las hojas de menta."
+    "Mezcla la menta picada con la kapunata, sirve el tofu encima y termina con el resto de las hojas de menta."
   ],
   nutricion: { kcal: 530, prot: 26, hc: 26, grasa: 36 },
   etiquetas: ["creativa", "verano", "sin gluten", "batch cooking", "poco especiada"],
@@ -425,13 +425,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el caldo corto: pon a hervir 1 litro de agua con el laurel, el tomillo, la piel de medio limón y 1 cucharadita de sal. Corta el tofu en 4 bloques gruesos.",
-    "Cuece las verduras escalonadas en ese caldo: echa las patatas enteras con piel; a los 5 minutos, las zanahorias peladas en bastones; a los 9, las judías verdes sin los extremos. A los 15 minutos todo debe estar tierno pero firme (la punta de un cuchillo entra sin que se deshaga). Sácalas con una espumadera y tápalas para que no se enfríen.",
+    "Prepara el caldo corto: pon a hervir 1 litro de agua con el laurel, el tomillo, la piel de medio limón y 1 cucharadita de sal. Mientras se calienta, corta el tofu en 4 bloques gruesos, pela las zanahorias y córtalas en bastones, quita los extremos a las judías verdes y pela los ajos.",
+    "Cuece las verduras escalonadas en ese caldo: echa las patatas enteras con piel; a los 5 minutos, las zanahorias; a los 9, las judías verdes. A los 15 minutos todo debe estar tierno pero firme (la punta de un cuchillo entra sin que se deshaga). Sácalas con una espumadera y tápalas para que no se enfríen.",
     "Baja el fuego al mínimo y mete el tofu en el caldo aromático 10 minutos, sin que hierva: se sazona por dentro y se impregna de limón y hierbas, como lo haría el bacalao desalado.",
-    "Mientras, haz el aïoli. Maja en un mortero los ajos pelados con una pizca de sal hasta obtener una pasta lisa. Añade un trocito de patata cocida (unos 15 g) y májala: es el truco provenzal para que la salsa no se corte.",
-    "Agrega la yema y, sin dejar de girar el mazo en el mismo sentido, el aceite gota a gota al principio y en hilo fino después, hasta tener una salsa espesa que se sostenga. Termina con unas gotas de zumo de limón.",
+    "Mientras, haz el aïoli. Maja en un mortero los ajos con una pizca de sal hasta obtener una pasta lisa. Añade un trocito de patata cocida (unos 15 g) y májala: es el truco provenzal para que la salsa no se corte.",
+    "Agrega la yema y, sin dejar de girar el mazo en el mismo sentido, el aceite gota a gota al principio y en hilo fino después, hasta tener una salsa espesa que se sostenga. Termina con unas gotas de zumo de limón y corta el resto del limón en gajos.",
     "Escurre el tofu, sécalo bien con papel y márcalo en una sartén con 1 cucharada de aceite a fuego medio-alto, 2 minutos por cara, hasta que tenga una costra dorada que contraste con la salsa.",
-    "Disponlo en una fuente con las verduras templadas y el resto del limón en gajos. Pon el aïoli en el centro para que cada uno se sirva; añade pimienta recién molida."
+    "Disponlo en una fuente con las verduras templadas y los gajos de limón. Pon el aïoli en el centro para que cada uno se sirva; añade pimienta recién molida."
   ],
   nutricion: { kcal: 665, prot: 28, hc: 39, grasa: 45 },
   etiquetas: ["creativa", "sin gluten", "primavera", "para invitados", "poco especiada"],
@@ -512,10 +512,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prensa el tofu 15 minutos entre papel de cocina con un peso encima. Córtalo en lonchas de 1 cm y el calabacín en rodajas de 1 cm al bies.",
+    "Prensa el tofu 15 minutos entre papel de cocina con un peso encima; mientras, corta las cebollas en juliana fina y lamina los ajos. Corta el tofu en lonchas de 1 cm y el calabacín en rodajas de 1 cm al bies.",
     "Sala el tofu y pásalo por la maicena, sacudiendo el exceso. Calienta 4 cucharadas de aceite en una sartén a fuego medio-alto y fríe las lonchas 3 minutos por cada lado, hasta que estén doradas y crujientes. Escúrrelas sobre papel y colócalas en una fuente honda de cristal.",
     "En el mismo aceite, dora el calabacín 2 minutos por cada lado y ponlo junto al tofu, en una sola capa. Sálalo.",
-    "En una cazuela, pocha la cebolla en juliana fina con las 2 cucharadas de aceite restantes, 10 minutos a fuego medio-bajo, hasta que esté blanda y transparente pero sin color. Añade los ajos laminados, la salvia y el laurel y remueve 1 minuto.",
+    "En una cazuela, pocha la cebolla con las 2 cucharadas de aceite restantes, 10 minutos a fuego medio-bajo, hasta que esté blanda y transparente pero sin color. Añade los ajos laminados, la salvia y el laurel y remueve 1 minuto.",
     "Vierte el vinagre, el vino, 50 ml de agua, el azúcar, la pimienta en grano y media cucharadita de sal. Lleva a ebullición y cuece 3 minutos para suavizar la acidez.",
     "Vierte la marinada hirviendo con toda su cebolla sobre el tofu y el calabacín, que queden cubiertos. Deja templar y reposar al menos 1 hora (mejor una noche en la nevera) antes de comer.",
     "Sírvelo a temperatura ambiente, con la cebolla y un poco de su jugo por encima."
@@ -603,12 +603,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Remoja las pasas en agua templada 10 minutos. Tuesta los piñones en una sartén seca a fuego medio, 2-3 minutos, moviéndolos, hasta que estén dorados; sácalos enseguida porque se queman en segundos.",
+    "Remoja las pasas en agua templada 10 minutos; mientras, corta las cebollas en medias lunas de 5 mm y pica la mitad de la menta. Tuesta los piñones en una sartén seca a fuego medio, 2-3 minutos, moviéndolos, hasta que estén dorados; sácalos enseguida porque se queman en segundos.",
     "Calienta 1 cucharada de aceite en la misma sartén a fuego medio-alto y dora la heura 4 minutos, hasta que tenga los bordes tostados. Resérvala.",
-    "Añade la otra cucharada de aceite y la cebolla en medias lunas de 5 mm con una pizca de sal. Pocha a fuego medio-bajo 15 minutos, removiendo a menudo, hasta que esté muy blanda, dulce y empiece a caramelizar.",
+    "Añade la otra cucharada de aceite y la cebolla con una pizca de sal. Pocha a fuego medio-bajo 15 minutos, removiendo a menudo, hasta que esté muy blanda, dulce y empiece a caramelizar.",
     "Sube el fuego, añade el azúcar y deja que se funda 30 segundos. Vierte el vinagre y las pasas escurridas y cuece 2-3 minutos, hasta que el vinagre pierda su golpe crudo y quede un jugo brillante y espeso.",
-    "Devuelve la heura, dale vueltas 2 minutos para que se glasee con la cebolla y apaga. Añade los piñones y la mitad de la menta picada y deja reposar 5 minutos: el agrodolce gana templado.",
-    "Para la ensalada, pela las naranjas a lo vivo y córtalas en rodajas. Lamina el hinojo muy fino y mézclalo con la naranja, las aceitunas, un hilo de aceite, sal, pimienta y unas hojas de menta.",
+    "Devuelve la heura, dale vueltas 2 minutos para que se glasee con la cebolla y apaga. Añade los piñones y la menta picada y deja reposar 5 minutos: el agrodolce gana templado.",
+    "Mientras reposa, prepara la ensalada: pela las naranjas a lo vivo y córtalas en rodajas. Lamina el hinojo muy fino y mézclalo con la naranja, las aceitunas, un hilo de aceite, sal, pimienta y unas hojas de menta.",
     "Sirve la heura cubierta con la cebolla agridulce y la ensalada al lado."
   ],
   nutricion: { kcal: 640, prot: 31, hc: 52, grasa: 34 },

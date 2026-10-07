@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
     "Retira el aceite de la sartén dejando solo unas 2 cucharadas. A fuego suave, fríe los ajos laminados, el romero y el laurel 1 minuto, hasta que el ajo empiece a tomar color.",
     "Añade la cucharada de harina, remueve 30 segundos y vierte de golpe el vinagre y 80 ml de agua (aparta la cara: suelta un vapor fuerte). Añade las pasas y cuece 3-4 minutos, removiendo, hasta que la salsa nape la cuchara.",
     "Vierte la salsa caliente sobre el pescado, deja templar y tapa. Reposa al menos 2 horas en la nevera, mejor de un día para otro.",
-    "Sírvelo a temperatura ambiente con las patatas templadas en rodajas, regadas con un poco de la salsa."
+    "Corta las patatas en rodajas y sirve el pescado a temperatura ambiente con ellas, regadas con un poco de la salsa."
   ],
   nutricion: { kcal: 630, prot: 35, hc: 45, grasa: 35 },
   etiquetas: ["tradicional", "batch cooking", "económica", "ideal para llevar", "alta en proteína", "sin verduras", "poco especiada"],
@@ -692,12 +692,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga los guisantes amarillos en un colador hasta que el agua salga clara. Ponlos en una cazuela con la cebolla troceada, el ajo, el laurel y 600 ml de agua fría.",
+    "Enjuaga los guisantes amarillos en un colador hasta que el agua salga clara. Trocea la cebolla y ponla en una cazuela con los guisantes, el ajo, el laurel y 600 ml de agua fría.",
     "Lleva a ebullición, retira la espuma blanca que suba y cuece a fuego suave, semitapado, 40-45 minutos, removiendo de vez en cuando, hasta que se deshagan y casi no quede líquido.",
-    "Mientras, corta la cebolla morada en juliana fina y déjala en un bol con el vinagre y una pizca de sal.",
+    "Mientras, corta la cebolla morada en juliana fina y déjala en un bol con el vinagre y una pizca de sal. Seca bien el pulpo y córtalo en trozos de 5 cm. Prepara el aliño mezclando 1 cucharada de aceite con el zumo de medio limón, el orégano y pimienta.",
     "Retira el laurel y tritura la fava con la batidora junto con 1,5 cucharadas de aceite, el zumo de medio limón y sal, hasta que quede un puré fino y sedoso. Si está muy espesa, añade un poco de agua caliente.",
-    "Seca bien el pulpo, córtalo en trozos de 5 cm y úntalo con media cucharada de aceite. Márcalo en la plancha muy caliente 2 minutos por cada lado, hasta que esté tostado y crujiente por los bordes.",
-    "Mezcla el resto del aceite con el zumo del otro medio limón, el orégano y pimienta.",
+    "Unta el pulpo con media cucharada de aceite y márcalo en la plancha muy caliente 2 minutos por cada lado, hasta que esté tostado y crujiente por los bordes.",
     "Sirve la fava templada en plato hondo, el pulpo encima, la cebolla morada escurrida, las alcaparras y el aliño de limón y orégano por encima."
   ],
   nutricion: { kcal: 540, prot: 42, hc: 42, grasa: 23 },
@@ -873,8 +872,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas, pártelas por la mitad y ponlas en un recipiente apto para microondas con 2 cucharadas de agua y sal; tapa sin cerrar del todo. Cocina a máxima potencia 8-10 minutos, removiendo a mitad, hasta que estén tiernas. Alíñalas en caliente con 1 cucharada de aceite, la ralladura y el zumo de medio limón y la mitad del orégano.",
-    "Mientras, parte los tomates por la mitad, rállalos por el lado del corte, desecha la piel y deja escurrir la pulpa 5 minutos en un colador.",
-    "Mezcla el tomate con la cebolla morada picada muy fina, las alcaparras, las aceitunas troceadas, el resto del orégano, 1 cucharada de aceite, sal y pimienta.",
+    "Mientras, parte los tomates por la mitad, rállalos por el lado del corte, desecha la piel y deja escurrir la pulpa 5 minutos en un colador. Mientras escurre, pica muy fina la cebolla morada y trocea las aceitunas.",
+    "Mezcla el tomate con la cebolla morada, las alcaparras, las aceitunas, el resto del orégano, 1 cucharada de aceite, sal y pimienta.",
     "Pasa la yema de los dedos por el centro de los filetes de salmonete y retira con unas pinzas las espinas que notes. Sécalos con papel de cocina, úntalos con el resto del aceite y sálalos.",
     "Calienta la plancha a fuego fuerte hasta que humee. Pon los filetes con la piel hacia abajo y cocínalos 2 minutos sin moverlos, hasta que la piel esté crujiente y la carne se vea opaca casi hasta arriba; dales la vuelta solo 20-30 segundos.",
     "Sirve los salmonetes sobre las patatas, con el tomate por encima y unas gotas del medio limón restante."

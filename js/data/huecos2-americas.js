@@ -121,7 +121,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la ensalada: corta los tomates en gajos y la cebolla morada en plumas muy finas. Aliña con el zumo de media lima, sal y el cilantro picado, y deja que repose mientras cocinas para que la cebolla pierda el picor.",
+    "Prepara la ensalada: corta los tomates en gajos y la cebolla morada en plumas muy finas, pica el cilantro y corta la otra media lima en gajos. Aliña con el zumo de media lima, sal y el cilantro, y deja que repose mientras cocinas para que la cebolla pierda el picor.",
     "Pela los plátanos (haz un corte a lo largo de la piel y retírala) y córtalos en rodajas al bies de 1 cm. Dóralos en una sartén antiadherente de 22-24 cm con 1 cucharada de aceite a fuego medio, 3 minutos por cada lado, hasta que estén caramelizados y blandos. Sácalos.",
     "Corta el queso en dados de 1 cm y dóralo en la misma sartén, sin aceite extra, 2-3 minutos, hasta que tenga costra por varias caras. Sácalo.",
     "Pica la cebolla y póchala en la sartén con el resto del aceite 5 minutos, hasta que esté transparente.",
@@ -481,10 +481,10 @@ window.RECETAS_SEED.push({
     "Corta los tomates verdes en rodajas de 1 cm, descartando las puntas. Sálalas por ambos lados y déjalas sobre papel de cocina 10 minutos: sueltan agua y el rebozado se adhiere mejor.",
     "Mientras, prepara la rémoulade: pica muy fino las alcaparras, los pepinillos y la parte verde de la cebolleta. Mézclalos con la mayonesa, la mostaza antigua, la salsa picante, media cucharadita de pimentón y unas gotas de limón. Reserva en frío.",
     "Seca bien las rodajas de tomate. Prepara tres platos hondos: en uno la harina de trigo; en otro el huevo batido con la leche; en el tercero la harina de maíz con el resto del pimentón, sal y pimienta.",
-    "Pasa cada rodaja por harina (sacude el exceso), luego por el huevo y por último por la harina de maíz, apretando para que quede bien cubierta. Déjalas 5 minutos sobre una rejilla: la costra se asienta y no se desprende al freír.",
+    "Pasa cada rodaja por harina (sacude el exceso), luego por el huevo y por último por la harina de maíz, apretando para que quede bien cubierta. Déjalas 5 minutos sobre una rejilla: la costra se asienta y no se desprende al freír. Mientras, corta la lechuga en tiras y el limón restante en gajos.",
     "Calienta el aceite de girasol en una sartén de 24 cm, con medio centímetro de altura, a 175 °C (una pizca de harina de maíz debe chisporrotear enseguida). Fríe las rodajas en tandas, sin amontonarlas, 2-3 minutos por cada lado, hasta que estén doradas y crujientes.",
     "Escúrrelas sobre una rejilla, no sobre papel, para que la base no se ablande, y sálalas en caliente.",
-    "Sirve sobre las hojas de lechuga cortadas en tiras, con la rémoulade por encima o al lado y gajos de limón."
+    "Sirve sobre la lechuga, con la rémoulade por encima o al lado y gajos de limón."
   ],
   nutricion: { kcal: 620, prot: 10, hc: 48, grasa: 43 },
   etiquetas: ["tradicional", "verano", "para invitados"],
@@ -530,7 +530,7 @@ window.RECETAS_SEED.push({
     "Lava bien la col rizada, quita los nervios gruesos y corta las hojas en tiras de 2 cm. Corta la cebolla en juliana y lamina el ajo.",
     "Corta el bacon en dados y dóralo en una cazuela a fuego medio 5 minutos, hasta que suelte la grasa y esté crujiente. Añade la cebolla y póchala 5 minutos; luego el ajo y la guindilla, 1 minuto.",
     "Echa la col a puñados, removiendo para que cada tanda se ablande antes de añadir la siguiente. Vierte el caldo, el azúcar moreno y la mitad del vinagre, tapa y cuece a fuego suave 35-40 minutos, hasta que las hojas estén muy tiernas y sedosas. Ese caldo verde, sabroso y ahumado es el pot likker.",
-    "Mientras, precalienta el horno a 210 °C con una sartén de hierro o apta para horno de 18-20 cm dentro, con 15 g de la mantequilla. Mezcla la leche con 1 cucharada de zumo de limón (reserva el resto) y déjala cortarse 5 minutos: imita el suero de mantequilla tradicional, y su acidez activa el bicarbonato.",
+    "Mientras, precalienta el horno a 210 °C con una sartén de hierro o apta para horno de 18-20 cm dentro, con 15 g de la mantequilla. Funde el resto de la mantequilla. Mezcla la leche con 1 cucharada de zumo de limón (reserva el resto) y déjala cortarse 5 minutos: imita el suero de mantequilla tradicional, y su acidez activa el bicarbonato.",
     "En un bol, mezcla las dos harinas, la levadura, el bicarbonato y media cucharadita de sal. Añade el huevo, la leche cortada y el resto de la mantequilla fundida y mezcla solo hasta integrar: debe quedar una masa espesa pero vertible, como la de unas tortitas gruesas; unos grumos están bien.",
     "Saca la sartén caliente con cuidado (la mantequilla debe estar espumosa), vierte la masa —debe chisporrotear: así se forma la costra— y hornea 18-20 minutos, hasta que esté dorado y un palillo salga limpio.",
     "Termina la col con el resto del vinagre y unas gotas del limón reservado, prueba de sal y sírvela en platos hondos con bastante caldo, con el pan de maíz en cuñas para mojar."

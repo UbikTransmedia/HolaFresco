@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Mientras se cuece el arroz, pon los huevos en agua hirviendo 7 minutos y pásalos a agua con hielo: la yema quedará melosa. Pélalos con cuidado y sécalos muy bien.",
+    "Mientras se cuece el arroz, pon los huevos en agua hirviendo 7 minutos; mientras, corta el pepino en rodajas y deshoja el cilantro. Pasa los huevos a agua con hielo: la yema quedará melosa. Pélalos con cuidado y sécalos muy bien.",
     "Corta las chalotas en aros finos y regulares. Ponlas en el wok con el aceite en frío y calienta a fuego medio, removiendo, 8–10 minutos. Sácalas cuando estén doradas claras: siguen oscureciendo fuera del aceite. Escúrrelas sobre papel y quedarán crujientes.",
     "Sube el aceite a unos 170 °C (una chalota echada burbujea con fuerza al instante) y fríe los huevos 3–4 minutos, girándolos, hasta que tengan una piel dorada y ampollada. Escúrrelos. Fríe las guindillas 10 segundos, hasta que se inflen y oscurezcan un tono.",
     "En un cazo, mezcla la pasta de tamarindo, el azúcar de palma, la salsa de pescado y 3 cucharadas de agua. Cuece a fuego medio 3–4 minutos, hasta que espese como un almíbar que napa la cuchara. Prueba: primero agrio, luego dulce y al final salado; corrige con agua si está muy intenso.",

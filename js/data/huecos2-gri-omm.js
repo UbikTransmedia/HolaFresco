@@ -74,9 +74,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas en dados de 1,5 cm. Sécalas con un paño y sálalas.",
-    "Calienta el aceite en una sartén antiadherente de 22-24 cm a fuego medio y confita las patatas 12-15 minutos, moviéndolas de vez en cuando, hasta que estén tiernas y con algunas caras doradas. Sácalas con una espumadera y deja solo 1 cucharada de aceite en la sartén (guarda el resto para otro uso).",
-    "Corta la salchicha en rodajas de 1 cm y dórala 5 minutos a fuego medio-alto con las semillas de hinojo machacadas en el mortero: el hinojo recuerda a la louza, el lomo curado de Andros. Añade la cebolleta picada y cocina 2 minutos más.",
-    "Bate los huevos con sal, pimienta y la menta picada. Devuelve las patatas a la sartén, mézclalas con la salchicha y extiéndelo todo en una capa uniforme.",
+    "Calienta el aceite en una sartén antiadherente de 22-24 cm a fuego medio y confita las patatas 12-15 minutos, moviéndolas de vez en cuando, hasta que estén tiernas y con algunas caras doradas. Sácalas con una espumadera y deja solo 1 cucharada de aceite en la sartén (guarda el resto para otro uso). Mientras se confitan, corta la salchicha en rodajas de 1 cm, machaca las semillas de hinojo en el mortero y pica la cebolleta y la menta.",
+    "Dora la salchicha 5 minutos a fuego medio-alto con las semillas de hinojo: el hinojo recuerda a la louza, el lomo curado de Andros. Añade la cebolleta y cocina 2 minutos más.",
+    "Bate los huevos con sal, pimienta y la menta. Devuelve las patatas a la sartén, mézclalas con la salchicha y extiéndelo todo en una capa uniforme.",
     "Vierte el huevo, sacude la sartén para que penetre entre los dados y baja el fuego al mínimo. Tapa y deja cuajar 7-8 minutos, hasta que los bordes estén firmes y el centro apenas tiemble.",
     "Pasa un cuchillo por el borde, cubre con un plato llano, dale la vuelta con decisión y deslízala de nuevo en la sartén. Dórala 2-3 minutos por el otro lado: la froutalia es más gruesa y hecha que una tortilla española, pero sigue siendo jugosa por dentro.",
     "Déjala reposar 5 minutos antes de cortarla en cuñas; templada o fría está igual de buena."
@@ -116,9 +116,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el gratinador del horno a 220 °C. Llena un bol con agua fría y el zumo de medio limón.",
     "Limpia las alcachofas: quita las hojas duras hasta llegar a las de color amarillo pálido, corta el tercio superior, pela el tallo y retira la pelusa si la tienen. Córtalas en láminas de 3-4 mm y échalas al agua con limón a medida que las cortas para que no se oscurezcan.",
-    "Escúrrelas y sécalas bien. Calienta el aceite en una sartén apta para horno de 22 cm a fuego medio-alto y dóralas 4 minutos sin moverlas mucho; añade 2 cucharadas de agua, tapa y cocina 4 minutos más a fuego medio, hasta que la punta de un cuchillo entre sin resistencia.",
-    "Destapa, añade la cebolleta en rodajas finas y saltea 2 minutos, hasta que se ablande y el fondo vuelva a chisporrotear.",
-    "Bate los huevos con la ralladura del limón (solo la parte amarilla), el eneldo picado, la mitad del queso rallado, sal con moderación y pimienta. Viértelos sobre las alcachofas, baja el fuego a medio-bajo y cuaja 4-5 minutos sin remover, levantando el borde con una espátula para que el huevo crudo se cuele por debajo.",
+    "Escúrrelas y sécalas bien. Calienta el aceite en una sartén apta para horno de 22 cm a fuego medio-alto y dóralas 4 minutos sin moverlas mucho; añade 2 cucharadas de agua, tapa y cocina 4 minutos más a fuego medio, hasta que la punta de un cuchillo entre sin resistencia. Mientras están tapadas, corta la cebolleta en rodajas finas, pica el eneldo y ralla el queso.",
+    "Destapa, añade la cebolleta y saltea 2 minutos, hasta que se ablande y el fondo vuelva a chisporrotear.",
+    "Bate los huevos con la ralladura del limón (solo la parte amarilla), el eneldo, la mitad del queso, sal con moderación y pimienta. Viértelos sobre las alcachofas, baja el fuego a medio-bajo y cuaja 4-5 minutos sin remover, levantando el borde con una espátula para que el huevo crudo se cuele por debajo.",
     "Cuando la base esté dorada y solo quede crudo el centro, cubre con el resto del queso y gratina 3-4 minutos, hasta que suba un poco, el centro esté firme al tocarlo y el queso tenga motas tostadas.",
     "Deja reposar 2 minutos, corta en porciones y sirve con un chorrito del limón restante."
   ],
@@ -333,12 +333,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta 1 cucharada de aceite en una sartén a fuego fuerte y dora la heura 4 minutos, hasta que tenga los bordes tostados. Sácala y resérvala: si se cuece todo el tiempo en el horno queda seca y fibrosa.",
-    "En la misma sartén, con el resto del aceite a fuego medio, pocha la cebolla picada 7 minutos. Añade el ajo y el tomate concentrado y rehoga 1 minuto, hasta que el concentrado oscurezca un poco.",
+    "Pica la cebolla y el ajo. Calienta 1 cucharada de aceite en una sartén a fuego fuerte y dora la heura 4 minutos, hasta que tenga los bordes tostados. Sácala y resérvala: si se cuece todo el tiempo en el horno queda seca y fibrosa.",
+    "En la misma sartén, con el resto del aceite a fuego medio, pocha la cebolla 7 minutos. Añade el ajo y el tomate concentrado y rehoga 1 minuto, hasta que el concentrado oscurezca un poco.",
     "Vierte el vino, raspa el fondo y reduce a la mitad. Añade el tomate triturado, la canela, la pimienta de Jamaica, el laurel, sal y pimienta y cuece 10 minutos a fuego suave. Precalienta el horno a 190 °C.",
-    "Pasa la salsa a una fuente de barro o de horno de unos 20 x 25 cm, añade el caldo caliente y el kritharaki y mezcla bien. Hornea 15 minutos.",
+    "Pasa la salsa a una fuente de barro o de horno de unos 20 x 25 cm, añade el caldo caliente y el kritharaki y mezcla bien. Hornea 15 minutos; mientras, ralla el queso.",
     "Saca la fuente, remueve para que la pasta no se pegue al fondo, incorpora la heura y comprueba la humedad: si ves la pasta seca por arriba, añade un chorrito de agua caliente. Hornea 10-12 minutos más, hasta que el kritharaki esté tierno y quede cremoso, con poco líquido.",
-    "Retira la canela y el laurel, cubre con el queso rallado y hornea 3 minutos más, hasta que se funda. Deja reposar 5 minutos: la pasta termina de absorber la salsa."
+    "Retira la canela y el laurel, cubre con el queso y hornea 3 minutos más, hasta que se funda. Deja reposar 5 minutos: la pasta termina de absorber la salsa."
   ],
   nutricion: { kcal: 680, prot: 40, hc: 63, grasa: 27 },
   etiquetas: ["creativa", "al horno", "alta en proteína", "invierno", "batch cooking"],
@@ -471,7 +471,7 @@ window.RECETAS_SEED.push({
     "Tuesta las semillas de cilantro y alcaravea en una sartén seca 1 minuto, hasta que huelan, y machácalas en el mortero con 1 diente de ajo y una pizca de sal: es un tabil casero.",
     "Corta los pimientos en tiras finas y la cebolla en juliana. Calienta el aceite en una sartén amplia a fuego medio y cocínalos con sal 15 minutos, removiendo de vez en cuando: deben quedar muy blandos, dulces y casi confitados, no crujientes como en un salteado. Mientras, ralla los tomates y lamina el resto del ajo.",
     "Añade el resto del ajo laminado, el tabil, la harissa y el tomate concentrado y fríelo todo 1 minuto, hasta que el aceite se tiña de rojo.",
-    "Incorpora los tomates rallados y cuece 8-10 minutos a fuego medio, hasta que la salsa espese y no quede agua. Prueba de sal y de picante.",
+    "Incorpora los tomates rallados y cuece 8-10 minutos a fuego medio, hasta que la salsa espese y no quede agua; mientras, pica el perejil. Prueba de sal y de picante.",
     "Abre 4 huecos con una cuchara, casca un huevo en cada uno y sala las claras. Tapa y cocina a fuego bajo 6-8 minutos, hasta que las claras estén cuajadas y las yemas aún líquidas.",
     "Espolvorea perejil picado y sirve en la sartén con el pan para mojar."
   ],
@@ -598,12 +598,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el perejil y la menta y sécalos a conciencia: el agua hace que la masa salpique y se deshaga. Pica las hojas y los tallos tiernos del perejil muy finos, y la cebolla también, casi rallada.",
+    "Lava el perejil y la menta y sécalos a conciencia: el agua hace que la masa salpique y se deshaga. Pica muy finas las hojas de menta y las hojas y los tallos tiernos del perejil, y la cebolla también, casi rallada. Corta el tomate en rodajas y los pepinillos en tiras.",
     "En un bol, bate los huevos con la harina y la levadura hasta que no queden grumos. Añade las hierbas, la cebolla, la pimienta de Jamaica, la canela, sal y pimienta. Debe quedar una masa más verde que amarilla.",
     "Calienta el aceite en una sartén a fuego medio, con 1 cm de altura. Prueba con una gota de masa: debe burbujear alrededor sin oscurecerse enseguida.",
     "Echa cucharadas de masa (unas 3 por tanda) y fríelas 1,5-2 minutos por cada lado, hasta que se inflen y estén doradas y firmes. Escúrrelas sobre papel de cocina. Saldrán unas 10 tortitas.",
     "Calienta las pitas en una sartén seca, ábrelas por un lado y úntalas por dentro con el yogur.",
-    "Rellena cada pita con 4-5 ijjeh, rodajas de tomate y pepinillos en tiras, y sirve enseguida o enrolla en papel para llevar."
+    "Rellena cada pita con 4-5 ijjeh, el tomate y los pepinillos, y sirve enseguida o enrolla en papel para llevar."
   ],
   nutricion: { kcal: 615, prot: 26, hc: 51, grasa: 33 },
   etiquetas: ["tradicional", "para niños", "ideal para llevar", "económica"],
@@ -643,12 +643,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla en un cuenco el comino, el cilantro, la pimienta de Jamaica, la canela, la cúrcuma y abundante pimienta negra: es la base del baharat iraquí.",
-    "Calienta el aceite en una sartén de 24 cm a fuego medio y pocha la cebolla en dados pequeños 6 minutos, hasta que esté translúcida y empiece a dorarse.",
+    "Mezcla en un cuenco el comino, el cilantro, la pimienta de Jamaica, la canela, la cúrcuma y abundante pimienta negra: es la base del baharat iraquí. Corta la cebolla y los tomates en dados pequeños y pica el perejil.",
+    "Calienta el aceite en una sartén de 24 cm a fuego medio y pocha la cebolla 6 minutos, hasta que esté translúcida y empiece a dorarse.",
     "Sube el fuego, añade el cordero y desmenúzalo con la espátula. Déjalo quieto 2 minutos para que se tueste y después remueve; sigue 5-6 minutos más, hasta que esté dorado y suelto y su grasa chisporrotee. Si ha soltado mucha, retira parte con una cuchara.",
-    "Añade las especias y la sal y remueve 30 segundos para tostarlas en la grasa. Incorpora los tomates en dados y cocina 5 minutos, hasta que se ablanden y el jugo casi se haya evaporado.",
+    "Añade las especias y la sal y remueve 30 segundos para tostarlas en la grasa. Incorpora los tomates y cocina 5 minutos, hasta que se ablanden y el jugo casi se haya evaporado.",
     "Alisa la mezcla, haz 4 huecos y casca un huevo en cada uno. Sala las claras, tapa y cocina a fuego bajo 4-5 minutos, hasta que las claras estén cuajadas y las yemas sigan tiernas.",
-    "Espolvorea el perejil picado y sirve en la sartén con las pitas calientes para comer con la mano."
+    "Espolvorea el perejil y sirve en la sartén con las pitas calientes para comer con la mano."
   ],
   nutricion: { kcal: 645, prot: 38, hc: 45, grasa: 34 },
   etiquetas: ["tradicional", "una sola sartén", "alta en proteína"],
@@ -686,12 +686,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prensa el tofu 15 minutos entre papel de cocina con un peso encima. Córtalo en dados de 3 cm y sazónalo con sal, el comino y la pimienta de Jamaica. Precalienta el horno a 200 °C.",
+    "Prensa el tofu 15 minutos entre papel de cocina con un peso encima; mientras, corta las cebollas en juliana y pica el perejil. Corta el tofu en dados de 3 cm y sazónalo con sal, el comino y la pimienta de Jamaica. Precalienta el horno a 200 °C.",
     "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y dora el tofu 6-8 minutos, girándolo, hasta que tenga costra por varias caras. Pásalo a una fuente de horno pequeña.",
-    "En la misma sartén, con el resto del aceite, cocina la cebolla en juliana a fuego medio 15 minutos, removiendo de vez en cuando, hasta que esté blanda y color caramelo. Repártela sobre el tofu.",
-    "Prepara la salsa: bate el tahini con el zumo del limón y el ajo rallado. Primero se cortará y espesará; sigue añadiendo agua fría poco a poco (unos 100-120 ml) y batiendo hasta que quede lisa, clara y con textura de nata líquida. Sala.",
+    "En la misma sartén, con el resto del aceite, cocina la cebolla a fuego medio 15 minutos, removiendo de vez en cuando, hasta que esté blanda y color caramelo. Repártela sobre el tofu.",
+    "Mientras se dora la cebolla, prepara la salsa: bate el tahini con el zumo del limón y el ajo rallado. Primero se cortará y espesará; sigue añadiendo agua fría poco a poco (unos 100-120 ml) y batiendo hasta que quede lisa, clara y con textura de nata líquida. Sala.",
     "Vierte la salsa sobre el tofu y la cebolla y hornea 12-15 minutos, hasta que borbotee en los bordes y la superficie tenga manchas doradas.",
-    "Mientras, tuesta los piñones en la sartén seca a fuego medio-bajo 2-3 minutos, moviéndolos, hasta que estén dorados. Esparce los piñones y el perejil picado sobre la bandeja y sirve."
+    "Mientras, tuesta los piñones en la sartén seca a fuego medio-bajo 2-3 minutos, moviéndolos, hasta que estén dorados. Esparce los piñones y el perejil sobre la bandeja y sirve."
   ],
   nutricion: { kcal: 690, prot: 38, hc: 27, grasa: 49 },
   etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "poco especiada"],
@@ -733,11 +733,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los guisantes partidos en una cazuela pequeña con agua abundante sin sal 20-25 minutos, hasta que estén tiernos pero enteros. Escúrrelos: cocerlos aparte evita que se deshagan en el guiso.",
-    "Mientras, calienta el aceite de oliva en otra cazuela a fuego medio-alto y dora el seitán en dados de 2 cm 5 minutos. Sácalo. Baja a fuego medio y pocha la cebolla picada 8 minutos, hasta que esté dorada.",
+    "Mientras, pica la cebolla y corta el seitán en dados de 2 cm. Calienta el aceite de oliva en otra cazuela a fuego medio-alto y dora el seitán 5 minutos. Sácalo. Baja a fuego medio y pocha la cebolla 8 minutos, hasta que esté dorada.",
     "Añade la cúrcuma y la canela y remueve 30 segundos; después el tomate concentrado, y fríelo 2 minutos hasta que oscurezca y huela tostado. Pincha las limas secas con un cuchillo en varios puntos y añádelas con el caldo, sal y pimienta. Cuece tapado 20 minutos a fuego suave.",
-    "Lava el arroz hasta que el agua salga clara. Machaca el azafrán con una pizca de sal y ponlo en remojo en 2 cucharadas de agua caliente. Cuece el arroz en 220 ml de agua con sal, tapado, 12 minutos a fuego mínimo y deja reposar 5; riega una parte con el agua de azafrán.",
-    "Incorpora al guiso los guisantes y el seitán y cuece 15 minutos más sin tapar, hasta que la salsa espese. Aprieta las limas contra la cazuela para que suelten su jugo y retíralas si no quieres que amargue más. Prueba de sal.",
-    "Corta la patata en bastoncitos de 2 mm, lávalos, sécalos muy bien y fríelos en el aceite de girasol caliente (175 °C) en dos tandas, 3-4 minutos, hasta que estén dorados y crujientes. Escúrrelos y sálalos.",
+    "Mientras se cuece el guiso, lava el arroz hasta que el agua salga clara. Machaca el azafrán con una pizca de sal y ponlo en remojo en 2 cucharadas de agua caliente. Cuece el arroz en 220 ml de agua con sal, tapado, 12 minutos a fuego mínimo y deja reposar 5; riega una parte con el agua de azafrán.",
+    "Incorpora al guiso los guisantes y el seitán y cuece 15 minutos más sin tapar, hasta que la salsa espese. Aprieta las limas contra la cazuela para que suelten su jugo y retíralas si no quieres que amargue más. Prueba de sal. Mientras cuece, corta la patata en bastoncitos de 2 mm, lávalos y sécalos muy bien.",
+    "Fríe los bastoncitos de patata en el aceite de girasol caliente (175 °C) en dos tandas, 3-4 minutos, hasta que estén dorados y crujientes. Escúrrelos y sálalos.",
     "Sirve el arroz con el gheymeh al lado y las patatas paja por encima justo en el momento, para que lleguen crujientes a la mesa."
   ],
   nutricion: { kcal: 720, prot: 41, hc: 95, grasa: 19 },
@@ -778,9 +778,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas en bastones muy finos, como cerillas, con mandolina o cuchillo. Lávalas en agua fría hasta que salga limpia y sécalas a fondo con un paño: el almidón y el agua son lo que impide que queden crujientes.",
-    "Mezcla el yogur con 1 diente de ajo rallado y una pizca de sal y déjalo fuera de la nevera para que pierda el frío intenso.",
+    "Mezcla el yogur con 1 diente de ajo rallado y una pizca de sal y déjalo fuera de la nevera para que pierda el frío intenso. Pica el perejil y lamina el otro diente de ajo.",
     "Calienta el aceite en una cazuela a 175 °C y fríe las patatas en 3 tandas, 3-4 minutos cada una, hasta que estén doradas y crujientes. Escúrrelas sobre papel y sálalas. Reserva 1 cucharada del aceite.",
-    "En una sartén con esa cucharada de aceite, a fuego fuerte, saltea los pimientos enteros 3 minutos, hasta que se ampollen. Sácalos. Saltea después la heura 4-5 minutos, hasta que esté dorada, con el otro diente de ajo laminado, el orégano, sal y pimienta.",
+    "En una sartén con esa cucharada de aceite, a fuego fuerte, saltea los pimientos enteros 3 minutos, hasta que se ampollen. Sácalos. Saltea después la heura 4-5 minutos, hasta que esté dorada, con el ajo laminado, el orégano, sal y pimienta.",
     "Retira la heura y, en la misma sartén a fuego bajo, funde la mantequilla con el tomate concentrado y los copos de chile 1 minuto, removiendo, hasta que espume y se tiña de rojo. Apaga el fuego enseguida para que no se queme.",
     "Monta en cada plato una cama de patatas, encima el yogur en una capa, después la heura y los pimientos, y riega con la mantequilla roja caliente. Espolvorea perejil y sirve al momento."
   ],

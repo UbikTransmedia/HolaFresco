@@ -46,7 +46,7 @@ window.RECETAS_SEED.push({
     "Pica en dados pequeños la cebolla, el pimiento verde y el apio (la santísima trinidad cajún), el ajo muy fino y la cebolleta. En la sartén, funde 15 g de mantequilla a fuego medio y sofríe la trinidad 5 minutos, hasta que la cebolla esté transparente.",
     "Añade el maíz y el ajo y saltea 5 minutos a fuego medio-alto, hasta que algunos granos se tuesten y se peguen un poco al fondo: ese tostado es el sabor del maque choux. Vierte la nata, raspa el fondo y cuece 2 minutos, hasta que espese y envuelva el maíz. Salpimienta, añade la cebolleta picada y pásalo a una fuente tapada.",
     "Limpia la sartén con papel y ponla a fuego fuerte 4-5 minutos, hasta que esté muy caliente: unas gotas de agua deben evaporarse al instante. Abre la ventana y enciende la campana, porque va a humear.",
-    "Mientras, funde el resto de la mantequilla. Seca la corvina con papel, píntala por ambos lados con la mantequilla y rebózala en la mezcla de especias, apretando para que quede una capa uniforme.",
+    "Mientras, funde el resto de la mantequilla y corta el limón en gajos. Seca la corvina con papel, píntala por ambos lados con la mantequilla y rebózala en la mezcla de especias, apretando para que quede una capa uniforme.",
     "Pon los lomos en la sartén y no los toques 2-3 minutos, hasta que la especia esté muy oscura, casi negra pero sin oler a quemado, y el pescado se vea blanco hasta la mitad por el lateral. Dales la vuelta y cocina 2 minutos más: deben quedar opacos y separarse en lascas al presionarlos.",
     "Sirve la corvina sobre el maque choux, con gajos de limón para exprimir por encima."
   ],
@@ -137,10 +137,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon agua con sal a hervir en una cazuela. Cuando hierva, cuece los huevos 10 minutos. Mientras, prepara la salsa Louie en un bol: mezcla la mayonesa, el kétchup, el rábano picante, la salsa worcestershire, el zumo de medio limón y la cebolleta picada muy fina. Salpimienta. Debe quedar rosada, cremosa y con un punto picante; si está muy espesa, aligérala con una cucharada de agua fría.",
+    "Pon agua con sal a hervir en una cazuela. Cuando hierva, cuece los huevos 10 minutos. Mientras, pica muy fina la cebolleta y prepara la salsa Louie en un bol: mezcla la mayonesa, el kétchup, el rábano picante, la salsa worcestershire, el zumo de medio limón y la cebolleta. Salpimienta. Debe quedar rosada, cremosa y con un punto picante; si está muy espesa, aligérala con una cucharada de agua fría.",
     "Saca los huevos con una espumadera a un bol con agua fría y pélalos cuando estén fríos. En la misma agua, cuece los espárragos sin la parte dura del tallo 2-3 minutos, hasta que estén tiernos pero de un verde brillante, y pásalos a un bol con agua y hielo. Después echa los langostinos y cuécelos 1-2 minutos, justo hasta que se pongan rosados y se curven en forma de C; escúrrelos y enfríalos igual.",
-    "Corta la lechuga iceberg en tiras finas y repártela en dos platos hondos como base.",
-    "Encima, coloca por grupos los tomates en gajos, los espárragos, el aguacate en láminas rociado con el zumo del resto del limón, los huevos en cuartos y las aceitunas. Corona el centro con los langostinos.",
+    "Corta la lechuga iceberg en tiras finas y repártela en dos platos hondos como base. Corta los tomates en gajos, los huevos en cuartos y el aguacate en láminas, y rocía el aguacate con el zumo del resto del limón.",
+    "Encima, coloca por grupos los tomates, los espárragos, el aguacate, los huevos y las aceitunas. Corona el centro con los langostinos.",
     "Sirve la salsa por encima justo antes de comer, o aparte para que cada uno se sirva la que quiera."
   ],
   nutricion: { kcal: 540, prot: 35, hc: 18, grasa: 36 },
@@ -333,7 +333,7 @@ window.RECETAS_SEED.push({
     "Baja a fuego medio, añade el resto del aceite y la cebolla con una pizca de sal. Cocina 6-8 minutos, raspando el fondo, hasta que esté blanda y empiece a tomar color. Añade el ajo y el tomillo y remueve 30 segundos.",
     "Vierte el caldo y la salsa worcestershire y raspa el fondo con una cuchara de madera hasta que no quede nada pegado: si queda, puede quemarse mientras sube la presión. Coloca las chuletas sobre la cebolla con el jugo que hayan soltado.",
     "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja el fuego al mínimo y cuenta 10 minutos. Apaga, deja que despresurice sola 10 minutos y después abre la válvula con cuidado para liberar el vapor que quede.",
-    "Mientras, cuece las patatas peladas y troceadas en una cazuela con agua con sal 18 minutos, hasta que se deshagan al pincharlas. Echa las judías verdes troceadas a la misma agua 6 minutos antes del final y sácalas con una espumadera. Escurre las patatas y aplástalas con la mantequilla y la leche templada; sala.",
+    "Mientras, pela y trocea las patatas y cuécelas en una cazuela con agua con sal 18 minutos, hasta que se deshagan al pincharlas. Mientras se cuecen, despunta y trocea las judías verdes y templa la leche; echa las judías a la misma agua 6 minutos antes del final y sácalas con una espumadera. Escurre las patatas y aplástalas con la mantequilla y la leche templada; sala.",
     "Saca las chuletas a un plato y tápalas. Disuelve la maicena en 2 cucharadas de agua fría, viértela en la salsa y hierve 2 minutos con la olla destapada, removiendo, hasta que el gravy de cebolla espese y brille. Ajusta de sal y pimienta.",
     "Sirve cada chuleta cubierta con una buena capa de salsa de cebolla, con el puré y las judías verdes al lado."
   ],
@@ -430,7 +430,7 @@ window.RECETAS_SEED.push({
     "En la olla exprés destapada, funde 15 g de mantequilla a fuego medio y sofríe la cebolla 4 minutos, hasta que esté transparente. Añade el ajo y la cebada y remueve 2 minutos, hasta que el grano brille y huela a tostado.",
     "Vierte la sidra y deja que hierva 1-2 minutos, hasta que deje de oler a alcohol. Añade la calabaza, 500 ml de caldo caliente y una pizca de sal, y raspa bien el fondo.",
     "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja el fuego al mínimo y cuenta 15 minutos. Apaga y deja que despresurice sola 10 minutos; después abre la válvula con cuidado para liberar el vapor que quede.",
-    "Mientras, tuesta las pecanas en una sartén sin grasa 3 minutos y pícalas gruesas. En la misma sartén, funde el resto de la mantequilla a fuego medio y fríe las hojas de salvia 30 segundos, hasta que estén crujientes; sácalas. Saltea en esa mantequilla la manzana en dados 4 minutos, añade el sirope de arce y cocina 1 minuto más, hasta que se glasee pero siga firme.",
+    "Mientras, corta la manzana en dados de 1,5 cm, tuesta las pecanas en una sartén sin grasa 3 minutos y pícalas gruesas. En la misma sartén, funde el resto de la mantequilla a fuego medio y fríe las hojas de salvia 30 segundos, hasta que estén crujientes; sácalas. Saltea en esa mantequilla la manzana 4 minutos, añade el sirope de arce y cocina 1 minuto más, hasta que se glasee pero siga firme.",
     "Abre la olla y remueve con energía 1-2 minutos a fuego suave: la calabaza se deshará y ligará la cebada como un risotto. Si queda espesa, añade el caldo reservado; si la cebada aún está dura, cuécela destapada 3-4 minutos más con ese caldo, removiendo. Fuera del fuego, incorpora casi todo el cheddar y pimienta negra.",
     "Sirve en platos hondos con la manzana al arce, las pecanas, la salvia crujiente y el resto del cheddar por encima."
   ],

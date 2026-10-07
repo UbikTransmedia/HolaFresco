@@ -40,9 +40,9 @@ window.RECETAS_SEED.push({
     "Prepara un bol con agua fría y el zumo de medio limón. Limpia las alcachofas: arranca las hojas exteriores duras hasta que asomen las tiernas, de color amarillo pálido, corta el tercio superior y pela el tallo. Pártelas por la mitad, retira la pelusa del centro con una cucharilla y sumérgelas en el agua con limón para que no se oscurezcan.",
     "Pela la patata y córtala en trozos de 3 cm; pela la zanahoria y córtala en rodajas gruesas. Pica las cebolletas separando la parte blanca de la verde, y pica el eneldo.",
     "Calienta el aceite en una cazuela a fuego medio y rehoga la parte blanca de la cebolleta 4 minutos, hasta que esté blanda y transparente. Añade la zanahoria y la patata y remueve 2 minutos para que se impregnen bien de aceite.",
-    "Incorpora las alcachofas escurridas, la parte verde de la cebolleta y la mitad del eneldo picado. Cubre justo con agua caliente (unos 500 ml), sala, tapa y cuece a fuego suave 20 minutos.",
+    "Incorpora las alcachofas escurridas, la parte verde de la cebolleta y la mitad del eneldo picado. Cubre justo con agua caliente (unos 500 ml), sala, tapa y cuece a fuego suave 20 minutos. Mientras, corta en gajos el medio limón que no vas a exprimir.",
     "Añade los guisantes y cuece 8 minutos más, hasta que la patata y el corazón de las alcachofas se dejen atravesar sin resistencia. Debe quedar caldo hasta media altura; si hay más, destapa y reduce unos minutos.",
-    "Para el avgolemono, bate en un bol los huevos con la maicena hasta que espumen y añade poco a poco el zumo de 1 limón sin dejar de batir.",
+    "Mientras se cuecen los guisantes, prepara el avgolemono: bate en un bol los huevos con la maicena hasta que espumen y añade poco a poco el zumo de 1 limón sin dejar de batir.",
     "Retira la cazuela del fuego. Coge un cazo de caldo caliente y viértelo en hilo sobre el huevo batiendo con energía; repite con un segundo cazo. Así templas el huevo y no se cuaja en grumos.",
     "Vierte la mezcla en la cazuela y muévela en vaivén (sin cuchara, para no romper las alcachofas) a fuego muy bajo 1–2 minutos, hasta que la salsa espese y quede como unas natillas ligeras. No dejes que hierva. Termina con el resto del eneldo, pimienta y el resto del limón en gajos para quien quiera más acidez."
   ],
@@ -217,11 +217,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 25-30 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas, pélalas en caliente y cháfalas con un tenedor en un bol, sin dejar grumos grandes. Deja que se enfríen al menos 15 minutos: en caliente la masa queda pegajosa.",
-    "Mientras, pica 2 cebolletas, la menta y el perejil y ralla la graviera. Mezcla el yogur con el eneldo picado, la ralladura y el zumo de medio limón y una pizca de sal, y guárdalo en la nevera.",
+    "Mientras, pica 2 cebolletas, la menta, el perejil y el eneldo y ralla la graviera. Corta la lechuga en tiras finas y la cebolleta restante en rodajas, y guárdalas en la nevera. Mezcla el yogur con el eneldo, la ralladura y el zumo de medio limón y una pizca de sal, y guárdalo en la nevera.",
     "Añade al puré la graviera, la feta desmenuzada, la cebolleta y las hierbas picadas, el huevo, la nuez moscada, 2 cucharadas de la harina y pimienta. Mezcla con las manos y prueba antes de salar, porque los quesos ya salan. Si la masa se pega mucho, añade algo más de harina.",
     "Con las manos enharinadas, forma 8-10 tortitas de 2 cm de grosor y pásalas por el resto de la harina, sacudiendo el exceso.",
     "Calienta 4 cucharadas de aceite en una sartén a fuego medio y fríe las tortitas en dos tandas, 3-4 minutos por cada lado, hasta que estén muy doradas y crujientes. No les des la vuelta hasta que se forme la costra o se romperán. Escúrrelas sobre papel de cocina.",
-    "Corta la lechuga en tiras finas y la cebolleta restante en rodajas, y alíñalas con el zumo del otro medio limón, el resto del aceite y sal.",
+    "Aliña la lechuga y la cebolleta con el zumo del otro medio limón, el resto del aceite y sal.",
     "Sirve los patatokeftedes calientes con el yogur al eneldo y la ensalada al lado."
   ],
   nutricion: { kcal: 760, prot: 27, hc: 63, grasa: 44 },
@@ -304,7 +304,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la masa: en un bol, mezcla la harina con media cucharadita de sal, añade 1,5 cucharadas de aceite y el vinagre y frota con los dedos hasta que parezca arena húmeda. Ve añadiendo el agua templada poco a poco y amasa 5 minutos, hasta tener una masa lisa, blanda y que no se pegue. Tápala y déjala reposar 30 minutos.",
-    "Mientras, prepara el relleno: si el requesón suelta suero, escúrrelo unos minutos en un colador. Aplástalo con un tenedor junto con el feta desmenuzado, el huevo, la menta picada y pimienta, hasta tener una pasta espesa que no chorree. Prueba antes de salar: el feta ya aporta mucha sal.",
+    "Mientras, prepara el relleno: si el requesón suelta suero, escúrrelo unos minutos en un colador y, entretanto, pica la menta. Aplasta el requesón con un tenedor junto con el feta desmenuzado, el huevo, la menta y pimienta, hasta tener una pasta espesa que no chorree. Prueba antes de salar: el feta ya aporta mucha sal.",
     "Divide la masa en dos y estira cada mitad sobre la encimera enharinada hasta dejarla muy fina, de 1,5–2 mm. Corta círculos de unos 10 cm con un cuenco o un vaso grande y vuelve a estirar los recortes: saldrán 14–16.",
     "Pon una cucharada colmada de relleno en el centro de cada círculo, dóblalo en media luna y presiona el borde con los dedos; después séllalo con las púas de un tenedor. No los llenes de más o se abrirán al freír.",
     "Prepara la ensalada: corta los tomates en gajos y el pepino en medias lunas, y aliña con el orégano, sal y un chorrito de aceite.",
@@ -438,7 +438,7 @@ window.RECETAS_SEED.push({
     "Añade la cebolla y rehógala 4 minutos con los fideos, hasta que esté transparente. Incorpora el tomate concentrado y remueve 1 minuto para que pierda el gusto a crudo.",
     "Agrega el bulgur, remueve para que se impregne y vierte el caldo caliente. Prueba de sal, lleva a ebullición, tapa y cuece a fuego mínimo 12 minutos, hasta que haya absorbido el líquido y en la superficie aparezcan pequeños cráteres.",
     "Apaga el fuego, pon un paño limpio entre la cazuela y la tapa y deja reposar 10 minutos: el bulgur termina de hincharse y queda suelto.",
-    "Mientras, mezcla el yogur con la mitad de la menta picada, una pizca de sal y pimienta. Corta el pepino en bastones y aliña con el zumo del limón.",
+    "Mientras, pica la menta y mezcla el yogur con la mitad, una pizca de sal y pimienta. Corta el pepino en bastones y aliña con el zumo del limón.",
     "Corta el halloumi en lonchas de 1 cm y sécalas con papel. Calienta la plancha a fuego medio-alto con el resto del aceite y márcalas 2 minutos por lado, sin moverlas, hasta que tengan rayas doradas y estén blandas por dentro.",
     "Ahueca el pourgouri con un tenedor y sírvelo con el halloumi recién hecho encima, el yogur, el pepino y el resto de la menta."
   ],
@@ -753,7 +753,7 @@ window.RECETAS_SEED.push({
     "Ralla la piel del limón y resérvala para el yogur. Mezcla 2 cucharadas de aceite con el zumo de medio limón, el ajo rallado, el orégano, sal y pimienta. Pon las patatas en una fuente y píntalas con la mitad de la mezcla, abriendo un poco las láminas para que penetre.",
     "Hornea 30 minutos. Sácalas, píntalas con el resto de la mezcla (las láminas ya se habrán abierto) y añade a la fuente los tomates cherry con el aceite restante.",
     "Hornea 20–25 minutos más, hasta que los bordes de las láminas estén dorados y crujientes y el centro se deje atravesar con un cuchillo sin resistencia.",
-    "Mientras, mezcla el yogur con la ralladura reservada, el zumo de la otra mitad del limón, una pizca de sal y la mitad del perejil picado. Deshuesa y pica las aceitunas.",
+    "Mientras, pica el perejil y mezcla el yogur con la ralladura reservada, el zumo de la otra mitad del limón, una pizca de sal y la mitad del perejil. Deshuesa y pica las aceitunas.",
     "Desmenuza el feta sobre las patatas, metiéndolo un poco entre las láminas, y gratina 5 minutos con el grill, hasta que se dore en las puntas.",
     "Sirve las patatas con las aceitunas y el resto del perejil por encima, los tomates reventados al lado y el yogur al limón para mojar."
   ],
@@ -838,7 +838,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Parte los tomates por la mitad, el pimiento en tiras anchas sin semillas y la cebolla en cuartos. Colócalos en una bandeja con el tomate boca arriba, añade los dientes de ajo sin pelar, riega con 1 cucharada de aceite, salpimienta y espolvorea la mitad del orégano.",
     "Ásalo todo 35 minutos, hasta que los tomates estén arrugados y con los bordes tostados y el pimiento tenga manchas oscuras.",
-    "Mientras, corta el pan en dados de 2 cm y mézclalos con media cucharada de aceite, el resto del orégano y una pizca de sal. Mételos en el horno en otra bandeja los últimos 8–10 minutos, hasta que estén dorados y crujientes. Calienta el caldo.",
+    "Mientras, corta el pan en dados de 2 cm y mézclalos con media cucharada de aceite, el resto del orégano y una pizca de sal. Mételos en el horno en otra bandeja los últimos 8–10 minutos, hasta que estén dorados y crujientes. Calienta el caldo y desmiga el feta.",
     "Saca la pulpa de los ajos apretando la piel y ponla en el vaso de la batidora con las verduras asadas y todo su jugo.",
     "Añade el caldo caliente poco a poco mientras trituras 2 minutos, hasta tener una crema fina con la textura que te guste. Prueba de sal y pimienta.",
     "Sirve la crema caliente o templada con el feta desmigado, los picatostes, unas hojas de albahaca y el resto del aceite en un hilo."

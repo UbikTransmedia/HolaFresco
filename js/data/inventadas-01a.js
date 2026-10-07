@@ -38,9 +38,9 @@ window.RECETAS_SEED.push({
     "A falta de 30 minutos, prepara el sofrito: pica fina la otra media cebolla, el pimiento verde y los ajos y póchalos en una sartén con 2 cucharadas de aceite a fuego medio 10 minutos, hasta que estén blandos y dulces.",
     "Ralla los tomates, añádelos al sofrito con una pizca de sal y cocina 8 minutos más, hasta que pierdan el agua y el aceite asome por los bordes. Aparta del fuego, incorpora el pimentón y remueve 20 segundos para que no amargue.",
     "Tuesta las hebras de azafrán 10 segundos en una cuchara sobre la llama (o en la sartén seca), machácalas con una pizca de sal y disuélvelas en el vino blanco. Vierte sobre el sofrito y deja reducir 2 minutos.",
-    "Retira la media cebolla y el laurel de las fabes, incorpora el sofrito y mezcla con cuidado. Comprueba el punto de sal y deja hervir muy suave 10 minutos para que el caldo engorde y se una.",
+    "Retira la media cebolla y el laurel de las fabes, incorpora el sofrito y mezcla con cuidado. Comprueba el punto de sal y deja hervir muy suave 10 minutos para que el caldo engorde y se una. Mientras, pica el perejil.",
     "Seca los langostinos y sálalos. Caliéntalos en la última cucharada de aceite en la sartén a fuego fuerte 1 minuto por lado, hasta que se pongan rosados, y añádelos a la cazuela con su jugo. Apaga, tapa y deja reposar 5 minutos.",
-    "Sirve en plato hondo con perejil picado por encima. Si el caldo ha quedado fino, machaca unas cuantas fabes con el tenedor y devuélvelas a la cazuela."
+    "Sirve en plato hondo con el perejil por encima. Si el caldo ha quedado fino, machaca unas cuantas fabes con el tenedor y devuélvelas a la cazuela."
   ],
   nutricion: { kcal: 670, prot: 43, hc: 60, grasa: 28 },
   etiquetas: ["de cuchara", "para invitados", "batch cooking", "verano", "poco especiada"],
@@ -127,9 +127,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría con una pizca de bicarbonato. Al día siguiente, escúrrelos y ponlos en la cazuela con agua caliente que los cubra 3 dedos, el laurel y media cebolla. Cuece a fuego suave, tapados, 1 h 15 min a 1 h 30 min, hasta que estén tiernos (si el agua es dura, tardarán más). Añade siempre agua caliente si hace falta.",
-    "Cuece los huevos 10 minutos desde que hierve el agua, enfríalos en agua con hielo, pélalos y córtalos en cuartos.",
-    "En una sartén con el aceite, fríe la rebanada de pan y 2 ajos enteros pelados a fuego medio hasta que estén dorados (3-4 minutos). Pásalos al mortero con el comino, el azafrán y una pizca de sal y májalos con un chorrito del caldo de los garbanzos hasta obtener una pasta.",
-    "En el mismo aceite, pocha la otra media cebolla picada fina y el ajo restante laminado 6 minutos. Añade el tomate rallado y cocina 5 minutos, hasta que espese. Fuera del fuego, incorpora el pimentón.",
+    "Mientras se cuecen los garbanzos, cuece los huevos 10 minutos desde que hierve el agua, enfríalos en agua con hielo, pélalos y córtalos en cuartos. Pica fina la otra media cebolla, lamina 1 ajo y ralla el tomate.",
+    "En una sartén con el aceite, fríe la rebanada de pan y los otros 2 ajos, pelados y enteros, a fuego medio hasta que estén dorados (3-4 minutos). Pásalos al mortero con el comino, el azafrán y una pizca de sal y májalos con un chorrito del caldo de los garbanzos hasta obtener una pasta.",
+    "En el mismo aceite, pocha la media cebolla picada y el ajo laminado 6 minutos. Añade el tomate rallado y cocina 5 minutos, hasta que espese. Fuera del fuego, incorpora el pimentón.",
     "Cuando los garbanzos estén tiernos, retira la cebolla y el laurel, añade el sofrito y el majado, y deja hervir suave 10 minutos para que el caldo tome cuerpo. Rectifica de sal con cuidado: el bacalao aportará la suya.",
     "Corta el bacalao en tacos de 3 cm e incorpóralo junto con las espinacas en varias tandas. Cocina 5 minutos a fuego muy suave, sin remover apenas, hasta que el bacalao se abra en lascas y las espinacas se hayan rendido.",
     "Apaga, coloca los cuartos de huevo encima, tapa y deja reposar 5 minutos. Sirve en plato hondo con un hilo de aceite crudo."
@@ -173,7 +173,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua en un cazo. Sumerge los huevos con cuidado y cuécelos exactamente 6 minutos y 30 segundos; pásalos a un bol de agua con hielo y pélalos bajo el grifo: la clara estará cuajada y la yema cremosa.",
-    "Mientras, tritura los garbanzos con la remolacha troceada, el tahini, el zumo de medio limón, el ajo, el comino y una pizca de sal. Añade líquido de los garbanzos a cucharadas hasta lograr una crema lisa y untuosa. Prueba y ajusta de sal y limón.",
+    "Mientras, trocea la remolacha y tritúrala con los garbanzos, el tahini, el zumo de medio limón, el ajo, el comino y una pizca de sal. Añade líquido de los garbanzos a cucharadas hasta lograr una crema lisa y untuosa. Prueba y ajusta de sal y limón.",
     "Abre la pita por la mitad, píntala con unas gotas de aceite y tuéstala en una sartén seca a fuego medio-alto 2 minutos por lado, hasta que esté dorada y crujiente. Córtala en triángulos.",
     "Corta el pepino en bastones y los rábanos en láminas finas. Pica gruesa la menta.",
     "Extiende el hummus en cada plato formando un cráter con el dorso de la cuchara. Coloca el huevo partido por la mitad en el centro, las crudités alrededor y la pita en el borde.",
@@ -218,13 +218,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga las lentejas rojas hasta que el agua salga clara y ponlas en una cazuela con 600 ml de agua, la cúrcuma, la mitad del jengibre rallado y un tomate picado. Lleva a ebullición, retira la espuma y cuece a fuego suave 20 minutos, hasta que se deshagan en una crema espesa. Sala al final.",
+    "Ralla la mitad del jengibre y pica un tomate. Enjuaga las lentejas rojas hasta que el agua salga clara y ponlas en una cazuela con 600 ml de agua, la cúrcuma, el jengibre rallado y el tomate picado. Lleva a ebullición, retira la espuma y cuece a fuego suave 20 minutos, hasta que se deshagan en una crema espesa. Sala al final.",
     "Mientras, lava el arroz, cuécelo en 200 ml de agua con sal, tapado, 11 minutos a fuego mínimo; apaga y déjalo reposar tapado 5 minutos.",
-    "Pica fina la cebolla, los ajos en láminas, el otro tomate en dados y el chile en aros (quita las semillas si no quieres mucho picante).",
+    "Mientras se cuecen las lentejas, pica fina la cebolla, corta los ajos en láminas, el otro tomate en dados y el chile en aros (quita las semillas si no quieres mucho picante), y pica el resto del jengibre y el cilantro.",
     "Prepara el tadka: calienta la mantequilla con el aceite en una sartén a fuego medio-alto. Cuando burbujee, añade el comino en grano y la guindilla seca; en 20 segundos crepitarán y olerán a tostado.",
     "Baja a fuego medio y añade la cebolla; dórala 6 minutos, hasta que esté dorada en los bordes. Agrega el ajo, el jengibre restante y el chile, fríe 1 minuto, incorpora el tomate en dados y cocina 3 minutos más, hasta que se deshaga.",
     "Vierte el tadka chisporroteante sobre el dal, mezcla, añade el garam masala y cocina 2 minutos. Ajusta la textura con agua caliente si está demasiado espeso: debe caer de la cuchara como una crema.",
-    "Sirve el dal sobre el arroz o al lado, con cilantro picado y un buen chorro de limón."
+    "Sirve el dal sobre el arroz o al lado, con el cilantro y un buen chorro de limón."
   ],
   nutricion: { kcal: 570, prot: 25, hc: 87, grasa: 14 },
   etiquetas: ["de cuchara", "económica", "batch cooking", "picante", "para niños"],
@@ -263,8 +263,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la cebolla morada en plumas muy finas y déjala 10 minutos en un bol con agua fría y el zumo de medio limón: pierde el picor y queda crujiente.",
-    "Mezcla en un bol grande el yogur, la mostaza, el zumo del otro medio limón, el aceite, la mitad del eneldo picado, sal y pimienta. Debe quedar un aliño cremoso pero que caiga de la cuchara; si está espeso, añade una cucharada de agua.",
+    "Corta la cebolla morada en plumas muy finas y déjala 10 minutos en un bol con agua fría y el zumo de medio limón: pierde el picor y queda crujiente. Mientras, pica el eneldo.",
+    "Mezcla en un bol grande el yogur, la mostaza, el zumo del otro medio limón, el aceite, la mitad del eneldo, sal y pimienta. Debe quedar un aliño cremoso pero que caiga de la cuchara; si está espeso, añade una cucharada de agua.",
     "Incorpora las lentejas al aliño y remueve con suavidad para que se impregnen sin romperse. Prueba de sal.",
     "Corta el pepino en medias lunas finas, los rábanos en láminas y el aguacate en dados, rociado con unas gotas de limón para que no se oxide. Escurre y seca la cebolla.",
     "Reparte las lentejas aliñadas en dos platos. Coloca encima el salmón ahumado en tiras, el aguacate, el pepino, el rábano y la cebolla.",
@@ -359,13 +359,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C con calor arriba y abajo. Corta el limón por la mitad: exprime una mitad y corta la otra en rodajas finas.",
-    "En un bol grande mezcla 2 cucharadas de aceite, el zumo de limón, 1,5 cucharadas de zaatar, el pimentón, el comino, los ajos machacados con piel, sal y pimienta. Añade el pollo y masajéalo con la mezcla.",
-    "Añade al mismo bol los garbanzos y la cebolla morada cortada en gajos gruesos y remueve para que se impregnen. Vuelca todo en una bandeja de horno forrada, en una sola capa, con el pollo con la piel hacia arriba y las rodajas de limón repartidas.",
+    "Precalienta el horno a 210 °C con calor arriba y abajo. Corta el limón por la mitad: exprime una mitad y corta la otra en rodajas finas. Machaca los ajos con piel y corta la cebolla morada en gajos gruesos.",
+    "En un bol grande mezcla 2 cucharadas de aceite, el zumo de limón, 1,5 cucharadas de zaatar, el pimentón, el comino, los ajos, sal y pimienta. Añade el pollo y masajéalo con la mezcla.",
+    "Añade al mismo bol los garbanzos y la cebolla morada y remueve para que se impregnen. Vuelca todo en una bandeja de horno forrada, en una sola capa, con el pollo con la piel hacia arriba y las rodajas de limón repartidas.",
     "Hornea 25 minutos. Saca la bandeja, añade los tomates cherry enteros, remueve los garbanzos (el pollo no) y hornea 15-20 minutos más, hasta que los garbanzos estén crujientes por fuera, el pollo dorado y los cherry a punto de reventar.",
-    "Mientras, mezcla el yogur con el tahini, 1 cucharada de agua, una pizca de sal y unas gotas de limón hasta tener una crema lisa. Abre la pita, tuéstala 2 minutos en el horno al final y córtala en triángulos.",
+    "Mientras, pica el perejil y mezcla el yogur con el tahini, 1 cucharada de agua, una pizca de sal y unas gotas de limón hasta tener una crema lisa. Abre la pita, tuéstala 2 minutos en el horno al final y córtala en triángulos.",
     "Extiende el yogur al tahini en la base de cada plato, reparte encima el pollo, los garbanzos, la cebolla y los cherry con todos los jugos de la bandeja.",
-    "Termina con la última cucharada de aceite, el resto del zaatar, el perejil picado y los triángulos de pita para rebañar."
+    "Termina con la última cucharada de aceite, el resto del zaatar, el perejil y los triángulos de pita para rebañar."
   ],
   nutricion: { kcal: 670, prot: 45, hc: 55, grasa: 30 },
   etiquetas: ["al horno", "alta en proteína", "una sola bandeja", "batch cooking", "poco especiada"],
@@ -412,7 +412,7 @@ window.RECETAS_SEED.push({
     "Incorpora el tomate triturado y cocina 4 minutos, hasta que espese y oscurezca. Vierte el caldo caliente, añade el laurel y lleva a ebullición.",
     "Añade la mitad de las judías enteras y tritura la otra mitad con un cucharón de caldo; devuélvela a la cazuela: así la sopa queda cremosa sin nata. Cuece 10 minutos a fuego suave.",
     "Añade la pasta y el calabacín y cuece el tiempo que indique el paquete menos 1 minuto (unos 8-9 minutos), removiendo de vez en cuando. En los últimos 3 minutos añade el kale. Salpimienta.",
-    "Mientras hierve la pasta, prepara el pesto: tritura la albahaca con las almendras, el otro ajo, 2 cucharadas de aceite, la mitad del parmesano rallado y una pizca de sal hasta tener una pasta gruesa.",
+    "Mientras hierve la pasta, ralla el parmesano y prepara el pesto: tritura la albahaca con las almendras, el otro ajo, 2 cucharadas de aceite, la mitad del parmesano y una pizca de sal hasta tener una pasta gruesa.",
     "Retira el laurel, sirve la sopa en platos hondos y corona cada uno con una cucharada generosa de pesto y el resto del parmesano. La sopa espesa al reposar; aclárala con un poco de agua caliente si la recalientas."
   ],
   nutricion: { kcal: 520, prot: 22, hc: 68, grasa: 18 },
@@ -454,12 +454,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el pico de gallo: pica en dados pequeños los tomates (sin semillas), la cebolla morada y el chile; mezcla con la mitad del cilantro picado, el zumo de 1 lima y sal. Déjalo reposar mientras cocinas.",
-    "Machaca el aguacate con el zumo de media lima, una pizca de sal y 1 cucharada de agua hasta tener una crema ligera. Desmenuza el queso fresco.",
+    "Prepara el pico de gallo: pica en dados pequeños los tomates (sin semillas), la cebolla morada y el chile, y pica el cilantro; mezcla con la mitad del cilantro, el zumo de 1 lima y sal. Déjalo reposar mientras cocinas.",
+    "Machaca el aguacate con el zumo de media lima, una pizca de sal y 1 cucharada de agua hasta tener una crema ligera. Desmenuza el queso fresco y corta la otra media lima en gajos.",
     "Pica fina la cebolla y los ajos. Sofríelos en la sartén con el aceite a fuego medio 6 minutos, hasta que estén dorados en los bordes. Añade el comino, el orégano y el chipotle y remueve 30 segundos.",
     "Agrega las alubias con unas 4 cucharadas de su líquido y cocina 5 minutos a fuego medio, aplastándolas con el dorso de un tenedor o un machacador hasta tener un puré rústico, con algunas alubias enteras. Si queda seco, añade agua caliente; debe quedar untuoso. Sala.",
     "Calienta las tortillas una a una en una sartén seca a fuego fuerte 30 segundos por lado, hasta que se ablanden y aparezcan puntitos tostados. Envuélvelas en un paño para que no se sequen.",
-    "Monta los tacos: una capa de frijoles refritos, pico de gallo escurrido, crema de aguacate y queso fresco. Termina con el resto del cilantro y gajos de la otra lima para exprimir al momento."
+    "Monta los tacos: una capa de frijoles refritos, pico de gallo escurrido, crema de aguacate y queso fresco. Termina con el resto del cilantro y los gajos de lima para exprimir al momento."
   ],
   nutricion: { kcal: 610, prot: 25, hc: 78, grasa: 22 },
   etiquetas: ["rápida", "económica", "picante", "para niños", "una sola sartén", "superalimentos"],
@@ -502,13 +502,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Si puedes, ten las lentejas 2 horas en remojo en agua fría antes de empezar. Enjuágalas y ponlas en la cazuela con 700 ml de agua, la cúrcuma y la mitad del jengibre rallado. Lleva a ebullición, espuma y cuece a fuego muy suave, semitapado, 45 minutos, hasta que estén muy tiernas y empiecen a deshacerse.",
+    "Si puedes, ten las lentejas 2 horas en remojo en agua fría antes de empezar. Ralla la mitad del jengibre. Enjuaga las lentejas y ponlas en la cazuela con 700 ml de agua, la cúrcuma y el jengibre rallado. Lleva a ebullición, espuma y cuece a fuego muy suave, semitapado, 45 minutos, hasta que estén muy tiernas y empiecen a deshacerse.",
     "Añade las alubias rojas y machaca una parte contra la pared de la cazuela con el cucharón: el dal debe quedar cremoso y espeso, no suelto. Mantén a fuego mínimo.",
     "Mientras, pica fina la cebolla, pica los ajos y el resto del jengibre y corta el chile en aros. Calienta la mantequilla con el aceite en una sartén a fuego medio y dora la cebolla 10 minutos, hasta que esté dorada oscura en los bordes.",
     "Añade ajo, jengibre y chile y fríe 1 minuto. Incorpora el comino, la cayena y el tomate triturado y cocina 8-10 minutos, removiendo, hasta que la salsa oscurezca y la grasa se separe en los bordes.",
     "Vierte el sofrito en el dal, mezcla bien, sala y deja cocer a fuego mínimo 25-30 minutos más, removiendo cada 5 minutos y añadiendo agua caliente si se pega. Cuanto más tiempo, más oscuro y sedoso.",
-    "Mientras el dal se cuece, prepara el arroz: lávalo, ponlo con 240 ml de agua y sal, tapa, 11 minutos a fuego mínimo y 5 de reposo tapado.",
-    "Incorpora la nata y el garam masala al dal, cocina 3 minutos y apaga. Sirve con el arroz, un hilo de nata por encima y cilantro picado."
+    "Mientras el dal se cuece, prepara el arroz: lávalo, ponlo con 240 ml de agua y sal, tapa, 11 minutos a fuego mínimo y 5 de reposo tapado. Pica el cilantro.",
+    "Incorpora la nata y el garam masala al dal, cocina 3 minutos y apaga. Sirve con el arroz, un hilo de nata por encima y el cilantro."
   ],
   nutricion: { kcal: 700, prot: 27, hc: 100, grasa: 22 },
   etiquetas: ["de cuchara", "batch cooking", "picante", "invierno"],
@@ -595,10 +595,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, salpimienta la costilla y dórala en la cazuela con 1 cucharada de aceite a fuego fuerte 6-8 minutos, por todos los lados, hasta que tenga color oscuro. Retira el exceso de grasa dejando 1 cucharada.",
     "Añade los garbanzos escurridos, la zanahoria entera, la parte verde del puerro, el laurel y agua caliente que cubra 3 dedos. Lleva a ebullición, espuma y baja a fuego mínimo: cuece tapado 1 h 30 min, añadiendo siempre agua caliente si hace falta.",
-    "Mientras, pica fina la cebolla, la parte blanca del puerro y los ajos. Sofríelos en una sartén con la otra cucharada de aceite a fuego medio-bajo 12 minutos, hasta que estén dorados y dulces. Añade el tomate rallado y cocina 5 minutos. Fuera del fuego, incorpora el pimentón y el comino.",
-    "Pela la calabaza y la patata y córtalas en dados de 3 cm. Cuando los garbanzos lleven 1 h 30 min, retira la parte verde del puerro y saca la zanahoria (trocéala y devuélvela), añade el sofrito, la calabaza y la patata, y sala.",
-    "Cuece 30-40 minutos más a fuego suave, hasta que la costilla se despegue del hueso y los garbanzos se deshagan al apretarlos. La calabaza debe quedar fundida en el caldo, espesándolo.",
-    "Prueba de sal y pimienta y deja reposar 10 minutos fuera del fuego. Sirve con la hierbabuena picada por encima: su frescor levanta todo el guiso."
+    "Mientras, pica fina la cebolla, la parte blanca del puerro y los ajos, y ralla el tomate. Sofríe la cebolla, el puerro y el ajo en una sartén con la otra cucharada de aceite a fuego medio-bajo 12 minutos, hasta que estén dorados y dulces. Añade el tomate rallado y cocina 5 minutos. Fuera del fuego, incorpora el pimentón y el comino.",
+    "Mientras siguen cociendo los garbanzos, pela la calabaza y la patata y córtalas en dados de 3 cm. Cuando los garbanzos lleven 1 h 30 min, retira la parte verde del puerro y saca la zanahoria (trocéala y devuélvela), añade el sofrito, la calabaza y la patata, y sala.",
+    "Cuece 30-40 minutos más a fuego suave, hasta que la costilla se despegue del hueso y los garbanzos se deshagan al apretarlos. La calabaza debe quedar fundida en el caldo, espesándolo. Mientras, pica la hierbabuena.",
+    "Prueba de sal y pimienta y deja reposar 10 minutos fuera del fuego. Sirve con la hierbabuena por encima: su frescor levanta todo el guiso."
   ],
   nutricion: { kcal: 780, prot: 42, hc: 70, grasa: 36 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "para invitados", "poco especiada"],
@@ -685,10 +685,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla, la zanahoria, la patata pelada y los ajos en trozos pequeños (se van a triturar, no hace falta precisión).",
     "Sofríe la cebolla y la zanahoria en la cazuela con el aceite a fuego medio 6 minutos, hasta que la cebolla esté transparente. Añade el ajo y el comino y sofríe 1 minuto más.",
-    "Enjuaga las lentejas rojas hasta que el agua salga clara. Añádelas a la cazuela con la patata y el caldo caliente. Lleva a ebullición, retira la espuma y cuece a fuego suave, semitapado, 20 minutos, hasta que las lentejas se deshagan por completo.",
+    "Enjuaga las lentejas rojas hasta que el agua salga clara. Añádelas a la cazuela con la patata y el caldo caliente. Lleva a ebullición, retira la espuma y cuece a fuego suave, semitapado, 20 minutos, hasta que las lentejas se deshagan por completo. Mientras, pica la menta y corta medio limón en gajos.",
     "Tritura con la batidora hasta que quede una crema muy fina. Añade el zumo de medio limón, sal y pimienta. Si está demasiado espesa, aclárala con agua caliente: debe quedar como una crema ligera.",
     "Funde la mantequilla en una sartén pequeña a fuego medio; cuando deje de espumar, aparta del fuego y añade el pimentón, removiendo 10 segundos para que no se queme.",
-    "Sirve la crema en cuencos, riega con la mantequilla roja y reparte la menta picada por encima. Acompaña con gajos del medio limón restante para que cada uno ajuste la acidez."
+    "Sirve la crema en cuencos, riega con la mantequilla roja y reparte la menta por encima. Acompaña con los gajos de limón para que cada uno ajuste la acidez."
   ],
   nutricion: { kcal: 330, prot: 17, hc: 46, grasa: 8 },
   etiquetas: ["de cuchara", "ligera", "económica", "rápida", "batch cooking", "para niños", "verduras escondidas", "poco especiada"],
@@ -728,10 +728,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la cebolla morada en plumas finas y déjala 5 minutos en agua fría con el vinagre para suavizarla.",
-    "Corta el pepino en medias lunas gruesas (pélalo a tiras si la piel es dura), los tomates en gajos y el pimiento verde en aros finos.",
+    "Corta el pepino en medias lunas gruesas (pélalo a tiras si la piel es dura), los tomates en gajos y el pimiento verde en aros finos. Pica el perejil.",
     "En un bol grande, mezcla el aceite, el zumo de medio limón, el orégano frotado entre los dedos, sal y pimienta. Añade los garbanzos y remueve para que se impregnen bien.",
     "Incorpora el pepino, el tomate, el pimiento, las aceitunas y la cebolla escurrida. Mezcla con las manos o dos cucharas con cuidado de no romper el tomate.",
-    "Reparte en dos platos y desmenuza el feta por encima en trozos grandes (no lo mezcles: debe quedar visible). Termina con el perejil picado, un poco más de orégano y pimienta.",
+    "Reparte en dos platos y desmenuza el feta por encima en trozos grandes (no lo mezcles: debe quedar visible). Termina con el perejil, un poco más de orégano y pimienta.",
     "Deja reposar 5 minutos antes de comer para que el aliño penetre en los garbanzos. Si la preparas con antelación, guarda el feta y el tomate aparte y únelos al servir."
   ],
   nutricion: { kcal: 460, prot: 22, hc: 42, grasa: 22 },
@@ -772,11 +772,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Saca los muslos de confit de su grasa y rasca el exceso; reserva 2 cucharadas de esa grasa para cocinar.",
+    "Precalienta el horno a 180 °C. Saca los muslos de confit de su grasa y rasca el exceso; reserva 2 cucharadas de esa grasa para cocinar. Pica la cebolla, los ajos y el perejil y corta la zanahoria en dados pequeños.",
     "Calienta 1 cucharada de grasa de pato en una cazuela apta para horno a fuego medio-alto. Dora las salchichas 5 minutos, girándolas, y los muslos de confit con la piel hacia abajo 4 minutos, hasta que la piel esté dorada y crujiente. Retira ambos.",
-    "En la misma cazuela, con la otra cucharada de grasa, sofríe la cebolla picada, la zanahoria en dados pequeños y los ajos picados a fuego medio 8 minutos, hasta que estén blandos. Añade el tomate concentrado y cocina 1 minuto.",
+    "En la misma cazuela, con la otra cucharada de grasa, sofríe la cebolla, la zanahoria y los ajos a fuego medio 8 minutos, hasta que estén blandos. Añade el tomate concentrado y cocina 1 minuto.",
     "Agrega el tomate triturado, el caldo, el tomillo, el laurel, pimienta y las alubias escurridas. Lleva a ebullición suave y cocina 10 minutos destapado para que el caldo tome cuerpo. Sala con moderación (el confit y la salchicha ya salan).",
-    "Corta las salchichas en trozos de 4 cm y húndelos en las alubias junto con los muslos de confit, dejando la piel de estos a la vista. Mezcla el pan rallado con el perejil picado y espolvoréalo por encima.",
+    "Corta las salchichas en trozos de 4 cm y húndelos en las alubias junto con los muslos de confit, dejando la piel de estos a la vista. Mezcla el pan rallado con el perejil y espolvoréalo por encima.",
     "Hornea 30-35 minutos sin tapar, hasta que la costra esté dorada y el caldo burbujee por los bordes. Si la costra se forma pronto, rómpela con una cuchara a mitad de cocción y deja que se vuelva a formar: así se hace el cassoulet de verdad.",
     "Deja reposar 10 minutos fuera del horno antes de servir: el caldo se asienta y cada cucharada queda untuosa."
   ],
@@ -825,11 +825,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla, el pimiento rojo y los ajos en dados pequeños. Sofríelos en la cazuela con el aceite a fuego medio 10 minutos, hasta que estén blandos y la cebolla dorada.",
     "Añade el comino, el pimentón, el orégano, la canela y el chipotle y fríe 1 minuto removiendo: las especias deben oler a tostado sin quemarse.",
-    "Incorpora las lentejas enjuagadas, el tomate triturado y el caldo. Lleva a ebullición y cuece a fuego suave, semitapado, 25 minutos, hasta que las lentejas estén casi tiernas.",
+    "Incorpora las lentejas enjuagadas, el tomate triturado y el caldo. Lleva a ebullición y cuece a fuego suave, semitapado, 25 minutos, hasta que las lentejas estén casi tiernas. Mientras, trocea el chocolate, pica el cilantro y corta media lima en gajos.",
     "Añade las alubias rojas y negras escurridas y cuece 15 minutos más destapado, removiendo de vez en cuando, hasta que el chili esté espeso y las lentejas tiernas. Si se seca demasiado, añade un poco de agua caliente.",
     "Mientras, lava el arroz y cuécelo en 240 ml de agua con sal, tapado, 11 minutos a fuego mínimo; déjalo reposar tapado 5 minutos.",
-    "Apaga el fuego, añade el chocolate troceado y remueve hasta que se funda: redondea el picante y da profundidad sin saber a dulce. Sala al gusto y añade el zumo de media lima.",
-    "Sirve el chili sobre el arroz con una cucharada de yogur, cilantro picado y gajos de la otra media lima."
+    "Apaga el fuego, añade el chocolate y remueve hasta que se funda: redondea el picante y da profundidad sin saber a dulce. Sala al gusto y añade el zumo de media lima.",
+    "Sirve el chili sobre el arroz con una cucharada de yogur, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 710, prot: 32, hc: 110, grasa: 16 },
   etiquetas: ["de cuchara", "picante", "batch cooking", "económica", "invierno", "bajo en colesterol"],
@@ -919,9 +919,9 @@ window.RECETAS_SEED.push({
     "Prepara la marinada tandoori en un bol grande: mezcla 100 g de yogur con el garam masala, la cúrcuma, el pimentón, el comino, la cayena, el jengibre y el ajo rallados, el zumo de medio limón, el aceite y 1 cucharadita de sal.",
     "Añade la coliflor y los garbanzos a la marinada y remueve hasta que todo quede bien cubierto. Extiéndelo en una bandeja forrada en una sola capa, sin amontonar, o se cocerá en vez de asarse.",
     "Hornea 25-30 minutos, removiendo a mitad, hasta que la coliflor tenga puntas chamuscadas y los garbanzos estén crujientes. El yogur formará una costra especiada.",
-    "Mientras, prepara la raita: ralla el pepino, escúrrelo apretándolo con las manos y mézclalo con los otros 100 g de yogur, la mitad de la menta picada, una pizca de sal y unas gotas de limón.",
-    "Corta la cebolla morada en plumas finas y déjala 5 minutos en agua fría con limón. Escúrrela.",
-    "Sirve la coliflor y los garbanzos calientes con la raita al lado, la cebolla morada, el cilantro y la menta restante picados y gajos de limón."
+    "Mientras, pica la menta y el cilantro y prepara la raita: ralla el pepino, escúrrelo apretándolo con las manos y mézclalo con los otros 100 g de yogur, la mitad de la menta, una pizca de sal y unas gotas de limón.",
+    "Corta la cebolla morada en plumas finas y déjala 5 minutos en agua fría con limón; mientras, corta el resto del limón en gajos. Escúrrela.",
+    "Sirve la coliflor y los garbanzos calientes con la raita al lado, la cebolla morada, el cilantro, la menta restante y los gajos de limón."
   ],
   nutricion: { kcal: 430, prot: 22, hc: 46, grasa: 17 },
   etiquetas: ["al horno", "ligera", "económica", "picante", "una sola bandeja", "detox", "superalimentos", "bajo en colesterol"],
@@ -1009,9 +1009,9 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en la cazuela a fuego medio y fríe la pasta de curry con la canela, el ajo y el jengibre 1-2 minutos, removiendo, hasta que huela intensamente y oscurezca un poco.",
     "Añade la parte espesa de la leche de coco (la de arriba de la lata) y cocina 3 minutos removiendo, hasta que la grasa se separe y la salsa brille.",
     "Incorpora la cebolla, la patata, los cacahuetes machacados, el resto de la leche de coco y 150 ml de agua. Lleva a ebullición y cuece a fuego suave, semitapado, 15 minutos, hasta que la patata esté casi tierna.",
-    "Mientras, lava el arroz y cuécelo en 220 ml de agua con sal, tapado, 10 minutos a fuego mínimo; déjalo reposar tapado 5 minutos.",
+    "Mientras, lava el arroz y cuécelo en 220 ml de agua con sal, tapado, 10 minutos a fuego mínimo; déjalo reposar tapado 5 minutos. Pica el cilantro y corta media lima en gajos.",
     "Añade los garbanzos, la salsa de soja y el azúcar y cocina 8 minutos más destapado, hasta que la patata se deshaga al pincharla y la salsa haya espesado. Prueba y equilibra: salado (soja), dulce (azúcar), ácido (zumo de media lima).",
-    "Sirve sobre el arroz con los cacahuetes enteros restantes, el cilantro picado y gajos de la otra media lima."
+    "Sirve sobre el arroz con los cacahuetes enteros restantes, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 740, prot: 23, hc: 95, grasa: 30 },
   etiquetas: ["de cuchara", "batch cooking", "picante", "para niños"],
@@ -1056,8 +1056,8 @@ window.RECETAS_SEED.push({
     "Añade el comino, el pimentón y la cayena, remueve 30 segundos y agrega el tomate triturado y los garbanzos escurridos. Salpimienta y cocina 10 minutos a fuego medio-bajo, hasta que la salsa espese y se marque el rastro de la cuchara en el fondo.",
     "Con el dorso de una cuchara haz 4 huecos en la salsa y casca un huevo en cada uno. Sala ligeramente las yemas.",
     "Tapa la sartén y cuece a fuego suave 6-8 minutos, hasta que las claras estén cuajadas y las yemas aún líquidas. Vigila a partir del minuto 5: la diferencia entre yema cremosa y dura es un minuto.",
-    "Mientras, tuesta el pan en una tostadora o en una sartén seca.",
-    "Desmenuza el feta por encima, espolvorea el perejil picado y pimienta negra. Sirve directamente en la sartén, con el pan para mojar."
+    "Mientras, tuesta el pan en una tostadora o en una sartén seca y pica el perejil.",
+    "Desmenuza el feta por encima, espolvorea el perejil y pimienta negra. Sirve directamente en la sartén, con el pan para mojar."
   ],
   nutricion: { kcal: 530, prot: 30, hc: 50, grasa: 23 },
   etiquetas: ["una sola sartén", "económica", "alta en proteína", "para niños"],
@@ -1140,10 +1140,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, pon en la cazuela 1,8 litros de agua con los garbanzos escurridos, el pollo, el chorizo entero, el puerro entero, el apio, las zanahorias peladas, los ajos y el laurel. Lleva a ebullición y espuma bien durante los primeros 5 minutos.",
-    "Baja a fuego mínimo y cuece tapado 1 h, hasta que los garbanzos estén casi tiernos. Debe hervir muy suave: un borbotón fuerte rompe los garbanzos y enturbia el caldo.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, pela las zanahorias y pon en la cazuela 1,8 litros de agua con los garbanzos escurridos, el pollo, el chorizo entero, el puerro entero, el apio, las zanahorias, los ajos y el laurel. Lleva a ebullición y espuma bien durante los primeros 5 minutos.",
+    "Baja a fuego mínimo y cuece tapado 1 h, hasta que los garbanzos estén casi tiernos. Debe hervir muy suave: un borbotón fuerte rompe los garbanzos y enturbia el caldo. Mientras, pela la patata y córtala en 4 trozos, y corta el repollo en tiras gruesas.",
     "Saca el pollo y el chorizo cuando lleven 40 minutos (ya estarán hechos) y resérvalos tapados para que no se sequen.",
-    "Pela la patata y córtala en 4 trozos; corta el repollo en tiras gruesas. Añádelos a la cazuela con sal y cuece 20-25 minutos más, hasta que la patata esté tierna. Si quieres evitar el olor fuerte del repollo, escáldalo antes 3 minutos en agua hirviendo aparte.",
+    "Añade la patata y el repollo a la cazuela con sal y cuece 20-25 minutos más, hasta que la patata esté tierna. Si quieres evitar el olor fuerte del repollo, escáldalo antes 3 minutos en agua hirviendo aparte.",
     "Retira con una espumadera los garbanzos, las verduras y la patata a una fuente; cuela el caldo y devuelve 700 ml a la cazuela. Lleva a ebullición y cuece los fideos 3-4 minutos. El resto del caldo, guárdalo.",
     "Trocea el pollo y el chorizo en rodajas y colócalos en la fuente con los garbanzos y la verdura, riega con el aceite y espolvorea el pimentón.",
     "Sirve primero la sopa de fideos bien caliente y después la fuente de garbanzos, verduras y carnes. Pon un cuenco de sal gorda y aceite en la mesa."

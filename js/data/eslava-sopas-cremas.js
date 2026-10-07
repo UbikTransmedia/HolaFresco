@@ -502,11 +502,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pela la remolacha (con guantes, si no quieres teñirte las manos) y córtala en dados de 2 cm. Ponla en una bandeja con la cebolla en gajos, el aceite y sal y ásala 35 o 40 minutos, dándole la vuelta a mitad, hasta que se pinche con facilidad y los bordes estén caramelizados.",
-    "Mientras, mezcla la nata agria con el rábano picante, una pizca de sal y la mitad del eneldo picado. Guárdala en la nevera.",
-    "Cuando a la remolacha le falten unos 15 minutos, pela y trocea la patata y cuécela en el caldo 15 minutos. Mientras, retira la piel y las espinas de la caballa y sepárala en lascas grandes.",
+    "Precalienta el horno a 200 °C. Pela la remolacha (con guantes, si no quieres teñirte las manos) y córtala en dados de 2 cm, y corta la cebolla en gajos. Ponlas en una bandeja con el aceite y sal y ásalas 35 o 40 minutos, dándoles la vuelta a mitad, hasta que la remolacha se pinche con facilidad y los bordes estén caramelizados.",
+    "Mientras, pica el eneldo y mezcla la nata agria con el rábano picante, una pizca de sal y la mitad del eneldo. Guárdala en la nevera.",
+    "Cuando a la remolacha le falten unos 15 minutos, pela y trocea la patata y cuécela en el caldo 15 minutos. Mientras, retira la piel y las espinas de la caballa, sepárala en lascas grandes y tuesta el pan de centeno.",
     "Añade al caldo la remolacha y la cebolla asadas, rascando los jugos pegados a la bandeja con un poco de caldo, y tritura con la batidora 2 minutos hasta que quede muy fina. Añade el vinagre de manzana, que aviva el color y equilibra el dulzor, y salpimienta. Si está muy espesa, aligérala con un poco de agua.",
-    "Tuesta el pan de centeno.",
     "Sirve la crema caliente con la caballa encima, una cucharada de crema de rábano picante y el resto del eneldo, con el pan al lado."
   ],
   nutricion: { kcal: 625, prot: 23, hc: 59, grasa: 33 },
@@ -903,7 +902,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la chirivía, la zanahoria y la cebolla y córtalas en rodajas finas: cuanto más finas, antes se hacen. Ponlas en un bol apto para microondas con el agua y una pizca de sal, tápalo con un plato y cocina 12 minutos a máxima potencia (800 W), removiendo a mitad, hasta que se aplasten con un tenedor.",
     "Mientras, pon agua a hervir en un cazo, baja el fuego y echa con cuidado los huevos recién sacados de la nevera. Cuécelos 6 minutos y medio y pásalos a agua con hielo 2 minutos. Pélalos con cuidado: la clara queda cuajada y la yema líquida.",
-    "Mezcla la mantequilla blanda con la mitad del eneldo picado y una pizca de sal. Lamina muy finos los rábanos.",
+    "Mientras se cuecen los huevos, pica el eneldo y mezcla la mantequilla blanda con la mitad y una pizca de sal. Lamina muy finos los rábanos.",
     "Calienta el caldo 3 minutos en el microondas, añádelo a las verduras y tritura con la batidora 2 minutos hasta que quede muy lisa. Añade el kéfir y tritura unos segundos más; salpimienta y añade la nuez moscada. Si se ha enfriado, dale 1 minuto más de microondas, sin que llegue a hervir.",
     "Sirve la crema con el huevo mollet abierto encima, una nuez de mantequilla de eneldo que se funda sobre la crema, los rábanos y el resto del eneldo."
   ],

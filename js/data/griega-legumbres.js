@@ -88,7 +88,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las alubias, ponlas en una cazuela con agua fría que las cubra de sobra y llévalas a ebullición. Cuécelas 5 minutos y tira el agua: así el guiso queda más limpio y digestivo.",
     "Cúbrelas de nuevo con agua caliente, añade el laurel y cuécelas a fuego suave 20 minutos, hasta que estén casi tiernas pero enteras. Escúrrelas guardando 300 ml del caldo.",
-    "Mientras, pica la cebolla, la cebolleta (también la parte verde), la zanahoria, el pimiento y el ajo. Lava bien las espinacas y trocéalas.",
+    "Mientras, pica la cebolla, la cebolleta (también la parte verde), la zanahoria, el pimiento y el ajo. Lava bien las espinacas y trocéalas, y pica el perejil.",
     "En otra cazuela, calienta 2 cucharadas de aceite y rehoga la cebolla, la cebolleta, la zanahoria y el pimiento a fuego medio 8 minutos, hasta que estén blandos. Añade el ajo y el tomate concentrado y remueve 1 minuto.",
     "Agrega el tomate triturado, el orégano, las alubias con el laurel y el caldo reservado, sal y pimienta. Cuece tapado a fuego suave 15 minutos, hasta que las alubias estén tiernas y la salsa empiece a espesar.",
     "Añade las espinacas a puñados, dejando que cada tanda se ablande antes de echar la siguiente, y cuece 5 minutos más sin tapar, hasta que la salsa quede espesa y brillante.",
@@ -184,7 +184,7 @@ window.RECETAS_SEED.push({
     "En una sartén con el aceite, dora la salchicha 4 minutos a fuego medio, hasta que suelte la grasa y tenga los bordes tostados. Sácala y resérvala.",
     "En la misma grasa, rehoga la cebolla, la zanahoria, el apio y el pimiento 10 minutos, hasta que estén blandos. Añade el ajo, el pimentón y la guindilla desmenuzada, remueve 30 segundos sin que se queme el pimentón y vierte enseguida el tomate. Cuece 5 minutos.",
     "Añade el sofrito, la salchicha y los pimientos asados a las alubias, que deben quedar apenas cubiertas de caldo; retira el exceso si hace falta. Sala con prudencia, porque la salchicha ya aporta sal.",
-    "Cuece todo junto a fuego suave y sin tapar 30-40 minutos, moviendo la cazuela en vez de remover para no romper las alubias, hasta que estén cremosas y el caldo espeso y rojizo.",
+    "Cuece todo junto a fuego suave y sin tapar 30-40 minutos, moviendo la cazuela en vez de remover para no romper las alubias, hasta que estén cremosas y el caldo espeso y rojizo. Mientras, pica el perejil.",
     "Retira el laurel, deja reposar 10 minutos y sirve con perejil picado y pimienta recién molida."
   ],
   nutricion: { kcal: 770, prot: 32, hc: 64, grasa: 43 },
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
     "Corta la berenjena en dados de 3 cm, sálala y déjala 15 minutos en un colador para que suelte el agua. Mientras, pica la cebolla, lamina el ajo y escurre y enjuaga los garbanzos.",
     "Seca bien la berenjena con papel de cocina. Calienta 2 cucharadas de aceite en una sartén antiadherente amplia a fuego medio-alto y dórala en dos tandas, 5-6 minutos por tanda, hasta que esté dorada por fuera y tierna por dentro. Resérvala.",
     "Mientras se dora la berenjena, calienta el resto del aceite en una cazuela y rehoga la cebolla a fuego medio 8 minutos, hasta que esté blanda y algo dorada. Añade el ajo y el tomate concentrado y remueve 1 minuto.",
-    "Agrega el tomate triturado, el laurel, el orégano, 200 ml de agua, sal, pimienta y, si el tomate está ácido, la pizca de azúcar. Cuece 10 minutos, hasta que la salsa pierda el sabor a crudo.",
+    "Agrega el tomate triturado, el laurel, el orégano, 200 ml de agua, sal, pimienta y, si el tomate está ácido, la pizca de azúcar. Cuece 10 minutos, hasta que la salsa pierda el sabor a crudo; mientras, pica el perejil.",
     "Incorpora los garbanzos y cuece tapado a fuego suave 10 minutos. Coloca la berenjena por encima y, sin remover, mueve la cazuela para que se asiente en la salsa; cuece 10 minutos más, hasta que la salsa esté espesa.",
     "Apaga el fuego, retira el laurel, espolvorea el perejil picado y deja reposar 10 minutos: como todos los guisos de aceite griegos, está mejor templado que hirviendo."
   ],
@@ -309,7 +309,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, escúrrelos, ponlos en una cazuela con agua caliente que los cubra tres dedos y cuécelos a fuego suave 50-60 minutos, retirando la espuma, hasta que estén tiernos pero enteros. Guarda 2 cazos del caldo.",
-    "Mientras, corta el bulbo de hinojo en tiras finas y pica sus hojas verdes junto con el eneldo. Pica la cebolla y ralla los tomates, desechando la piel.",
+    "Mientras, corta el bulbo de hinojo en tiras finas y pica sus hojas verdes junto con el eneldo. Pica la cebolla, ralla los tomates, desechando la piel, y machaca las semillas de hinojo en el mortero.",
     "En otra cazuela, calienta la mitad del aceite y rehoga la cebolla y el hinojo 10 minutos a fuego medio, hasta que estén blandos y empiecen a dorarse. Añade las semillas de hinojo machacadas y remueve 30 segundos.",
     "Agrega el tomate rallado y cuece 5 minutos, hasta que se oscurezca un poco. Incorpora los garbanzos escurridos, el caldo reservado, sal y pimienta.",
     "Cuece tapado a fuego suave 25 minutos, hasta que la salsa espese y los garbanzos se impregnen. Añade la mitad de las hierbas picadas en los últimos 5 minutos.",
@@ -396,7 +396,7 @@ window.RECETAS_SEED.push({
     "Pica la cebolla y el ajo, corta la zanahoria en rodajas finas y el calabacín en medias lunas gruesas. Ralla los tomates, desechando la piel.",
     "Calienta la mitad del aceite en una cazuela y rehoga la cebolla y la zanahoria a fuego medio 8 minutos, hasta que la cebolla esté transparente. Añade el ajo y el tomate concentrado y remueve 1 minuto.",
     "Agrega el tomate rallado, el azúcar, sal y pimienta y cuece 10 minutos, hasta que la salsa espese y pierda el sabor a crudo.",
-    "Añade las alubias escurridas y enjuagadas, el calabacín y 150 ml de agua. Cuece tapado a fuego suave 15 minutos, moviendo la cazuela de vez en cuando, hasta que el calabacín esté tierno pero entero.",
+    "Añade las alubias escurridas y enjuagadas, el calabacín y 150 ml de agua. Cuece tapado a fuego suave 15 minutos, moviendo la cazuela de vez en cuando, hasta que el calabacín esté tierno pero entero. Mientras, pica el perejil.",
     "Destapa, incorpora el perejil picado y el resto del aceite en crudo, y cuece 2 minutos más para que la salsa ligue y brille.",
     "Deja reposar al menos 10 minutos y sirve templado, con el feta en un trozo al lado de cada plato."
   ],

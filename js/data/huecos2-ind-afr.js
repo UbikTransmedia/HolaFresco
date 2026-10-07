@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua fría y pélalos. Hazles 3 o 4 cortes superficiales a lo largo: así el masala se agarra y penetra.",
+    "Cuece los huevos 10 minutos desde que el agua hierva; mientras, corta las cebollas en juliana fina, machaca las semillas de hinojo y abre los chiles verdes a lo largo. Enfría los huevos en agua fría y pélalos. Hazles 3 o 4 cortes superficiales a lo largo: así el masala se agarra y penetra.",
     "Lava el arroz hasta que el agua salga clara y cuécelo en 280 ml de agua con sal, tapado y a fuego mínimo, 12 minutos. Deja reposar 5 minutos sin destapar.",
     "Mientras, calienta el aceite de coco en una sartén ancha a fuego medio, añade las semillas de hinojo y la mitad de las hojas de curry (chisporrotean: aparta la cara) y después la cebolla con una pizca de sal.",
     "Cocina la cebolla 18-20 minutos removiendo de vez en cuando, hasta que esté marrón dorada y muy reducida. Este «roast» lento es el plato: si la sacas pálida, la salsa queda dulzona y sin profundidad. Si se pega, añade una cucharada de agua y raspa. Mientras, pica el ajo, el jengibre y el tomate.",
@@ -225,11 +225,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en rodajas de 3 mm. Enjuágalas y sécalas bien con un paño: sin almidón suelto y secas, se doran en vez de pegarse. Corta la cebolla en juliana y pica el ajo y el chile.",
     "Calienta el aceite en una sartén ancha con tapa a fuego medio y sofríe la cebolla en juliana 5 minutos, hasta que empiece a dorarse. Añade el ajo y el chile picados, 1 minuto, y después la cúrcuma, el chile kashmiri y el comino, 20 segundos.",
-    "Incorpora las patatas con sal, mézclalas para que se tiñan de amarillo y repártelas en una capa uniforme. Tapa y cocina 12 minutos a fuego medio-bajo, removiendo dos veces, hasta que las patatas estén casi tiernas (un cuchillo entra con poca resistencia).",
-    "Añade el tomate en dados y el azúcar y cocina destapado 4-5 minutos, sin remover, hasta que las patatas estén tiernas y el fondo forme una costra dorada. Rocía entonces el vinagre y deja que se evapore 30 segundos: si lo añades antes, el ácido impide que la patata se ablande.",
+    "Incorpora las patatas con sal, mézclalas para que se tiñan de amarillo y repártelas en una capa uniforme. Tapa y cocina 12 minutos a fuego medio-bajo, removiendo dos veces, hasta que las patatas estén casi tiernas (un cuchillo entra con poca resistencia). Mientras, corta el tomate en dados y pica el cilantro.",
+    "Añade el tomate y el azúcar y cocina destapado 4-5 minutos, sin remover, hasta que las patatas estén tiernas y el fondo forme una costra dorada. Rocía entonces el vinagre y deja que se evapore 30 segundos: si lo añades antes, el ácido impide que la patata se ablande.",
     "Alisa la superficie, haz 4 huecos con el dorso de una cuchara y casca un huevo en cada uno. Sal y pimienta sobre los huevos.",
     "Tapa y cocina a fuego bajo 5-7 minutos: el vapor cuaja las claras por arriba mientras las yemas siguen líquidas. Retira cuando las claras estén opacas y las yemas aún tiemblen.",
-    "Esparce el cilantro picado y lleva la sartén a la mesa."
+    "Esparce el cilantro y lleva la sartén a la mesa."
   ],
   nutricion: { kcal: 475, prot: 18, hc: 47, grasa: 24 },
   etiquetas: ["tradicional", "sin gluten", "una sola sartén", "económica"],
@@ -474,8 +474,8 @@ window.RECETAS_SEED.push({
     "Seca el tofu con papel, córtalo en dados de 3 cm y mézclalo con el adobo junto con la cebolla y el pimiento en trozos grandes. Deja marinar al menos 20 minutos (o toda la noche en la nevera); 15 minutos antes de hornear, precalienta el horno a 230 °C con grill y aire.",
     "Reparte el tofu y las verduras en una bandeja con papel, separados, sin amontonar.",
     "Hornea 15 minutos en la parte alta, dales la vuelta y hornea 5-8 minutos más, hasta que el tofu tenga los bordes chamuscados y la cebolla esté tierna con puntas tostadas.",
-    "Mientras, mezcla el resto del yogur con la menta picada, unas gotas de limón y sal.",
-    "Sirve el tikka caliente con cuñas de limón y el yogur de menta al lado."
+    "Mientras, pica la menta y mézclala con el resto del yogur, unas gotas de limón y sal. Corta el resto del limón en cuñas.",
+    "Sirve el tikka caliente con las cuñas de limón y el yogur de menta al lado."
   ],
   nutricion: { kcal: 565, prot: 36, hc: 28, grasa: 34 },
   etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "picante"],
@@ -562,13 +562,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 9 minutos desde que el agua hierva, enfríalos y pélalos. Pon el arroz lavado a cocer en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
+    "Cuece los huevos 9 minutos desde que el agua hierva, enfríalos y pélalos. Pon el arroz lavado a cocer en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos. Mientras se cuecen, pica la cebolla, el chile y el cilantro, ralla el ajo y el jengibre y ralla el tomate, desechando la piel.",
     "Calienta el aceite en una sartén a fuego medio, añade un cuarto de cucharadita de la cúrcuma y una pizca de sal y dora los huevos 3 minutos, girándolos, hasta que tengan una piel amarilla dorada y algo arrugada. Resérvalos: esa piel recoge después la salsa.",
-    "En el mismo aceite, sofríe la cebolla picada 6 minutos hasta que esté dorada. Añade el ajo y el jengibre rallados y el chile picado, 1 minuto, y después el comino, el cilantro molido, el resto de la cúrcuma y el cardamomo, 30 segundos.",
+    "En el mismo aceite, sofríe la cebolla 6 minutos hasta que esté dorada. Añade el ajo, el jengibre y el chile, 1 minuto, y después el comino, el cilantro molido, el resto de la cúrcuma y el cardamomo, 30 segundos.",
     "Incorpora el tomate rallado y cocina 6 minutos, hasta que se deshaga y forme una pasta.",
     "Añade la leche de coco, la pasta de tamarindo disuelta en 2 cucharadas de agua caliente y 80 ml de agua. Cuece a fuego suave 5 minutos, sin que llegue a hervir con fuerza, hasta que la salsa nape una cuchara.",
     "Corta los huevos por la mitad, colócalos en la salsa con la yema hacia arriba y calienta 2 minutos regándolos con la salsa. Prueba: debe estar redonda (coco), ácida (tamarindo) y con un picor suave.",
-    "Sirve con el arroz y el cilantro fresco picado por encima."
+    "Sirve con el arroz y el cilantro por encima."
   ],
   nutricion: { kcal: 620, prot: 20, hc: 63, grasa: 32 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "picante"],
@@ -613,9 +613,9 @@ window.RECETAS_SEED.push({
     "Pon la cebolla en una sartén ancha sin grasa a fuego medio-bajo 5 minutos, removiendo, hasta que se ablande y pierda agua. Cocinarla en seco antes de la grasa es la técnica etíope: concentra su dulzor y espesa la salsa.",
     "Añade dos tercios del niter kibbeh, el resto del ajo y jengibre picados y el berbere. Remueve 1 minuto a fuego bajo para que la especia se tueste en la mantequilla sin quemarse.",
     "Incorpora el tomate triturado, sal y 50 ml de agua y cocina 10 minutos a fuego medio, hasta que la salsa esté espesa y de un rojo profundo.",
-    "Mientras, mezcla el requesón con la ralladura del medio limón, unas gotas de su zumo y sal: es el ayib, el queso fresco que suaviza el picante.",
+    "Mientras, mezcla el requesón con la ralladura del medio limón, unas gotas de su zumo y sal: es el ayib, el queso fresco que suaviza el picante. Corta el chile verde en rodajas.",
     "Haz 4 huecos en la salsa, casca los huevos y tapa. Cocina a fuego bajo 5-7 minutos, hasta que las claras estén cuajadas y las yemas sigan líquidas.",
-    "Riega con el resto del niter kibbeh, reparte el ayib en cucharadas y el chile verde en rodajas, y sirve en la sartén con las tortitas de teff para mojar."
+    "Riega con el resto del niter kibbeh, reparte el ayib en cucharadas y el chile verde, y sirve en la sartén con las tortitas de teff para mojar."
   ],
   nutricion: { kcal: 515, prot: 24, hc: 49, grasa: 25 },
   etiquetas: ["creativa", "picante", "una sola sartén"],
@@ -840,7 +840,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Corta el boniato con piel en gajos, mézclalo con una cucharadita del aceite y sal y ásalo 35-40 minutos, dándole la vuelta a mitad, hasta que esté tierno y caramelizado en los bordes. Asa a la vez el pimiento entero en la misma bandeja 25 minutos, hasta que la piel se ampolle.",
     "Pela el pimiento asado y tritúralo con los chiles, el ajo, el zumo del limón, el pimentón, el orégano, el vinagre, el resto del aceite y sal hasta tener una salsa fina. El pimiento asado redondea el picante y le da cuerpo.",
     "Seca el tofu, córtalo en 4 filetes gruesos y hazles un rayado superficial en rombos. Úntalos con un tercio de la salsa y deja marinar 15 minutos (o más en la nevera).",
-    "Para la salada, corta el tomate en dados y la cebolla morada en juliana fina, y alíñalos con sal, unas gotas de limón y cilantro picado.",
+    "Mientras se marina, prepara la salada: corta el tomate en dados y la cebolla morada en juliana fina, pica el cilantro y alíñalos con sal, unas gotas de limón y el cilantro.",
     "Calienta la plancha a fuego fuerte, úntala con unas gotas de aceite y cocina el tofu 4 minutos por cara sin moverlo, hasta que tenga marcas oscuras y el adobo se caramelice. En los últimos segundos pincélalo con un poco más de salsa.",
     "Sirve el tofu con el boniato, la salada y el resto de la salsa piri-piri para mojar."
   ],
@@ -884,7 +884,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara el awaze: en un bol mezcla el berbere con el vino tinto, el zumo del medio limón, 1 diente de ajo rallado, una pizca de sal y una cucharadita de agua, hasta tener una pasta roja espesa. Déjala reposar mientras cocinas: el vino hidrata la especia y suaviza su aspereza.",
-    "Funde la mantequilla a fuego bajo con el cardamomo y el resto del ajo machacado y la mitad del jengibre en láminas 5 minutos, sin que se dore; mientras, corta la cebolla morada en gajos finos, pica el resto del jengibre, corta los chiles en tiras y el tomate en gajos. Cuela y reserva esta mantequilla especiada.",
+    "Machaca el resto del ajo y corta la mitad del jengibre en láminas. Funde la mantequilla a fuego bajo con el cardamomo, el ajo y el jengibre 5 minutos, sin que se dore; mientras, corta la cebolla morada en gajos finos, pica el resto del jengibre, corta los chiles en tiras y el tomate en gajos. Cuela y reserva esta mantequilla especiada.",
     "Corta el seitán en dados de 2 cm y sécalo muy bien con papel. Calienta el aceite en una sartén grande a fuego fuerte y saltéalo en una sola capa, sin moverlo el primer minuto, 5-6 minutos en total, hasta que tenga costra tostada por varias caras.",
     "Añade la cebolla morada en gajos finos, el resto del jengibre picado y los chiles en tiras y saltea 2 minutos a fuego fuerte: la cebolla debe quedar tierna por fuera y crujiente por dentro.",
     "Agrega el tomate en gajos y las agujas de una rama de romero y saltea 1 minuto. Fuera del fuego, añade la mantequilla especiada y una cucharada del awaze y mezcla para que todo brille. Ajusta la sal.",
@@ -932,8 +932,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la soja en el caldo caliente 10 minutos, escúrrela y apriétala bien. Remoja el pan en 75 ml de la leche. Precalienta el horno a 180 °C.",
-    "Calienta el aceite en una sartén a fuego medio-alto y dora la soja 4 minutos hasta que tenga puntos tostados. Añade la cebolla picada y cocina 6 minutos hasta que esté dorada; después el ajo, el curry y un cuarto de cucharadita de la cúrcuma, 1 minuto, removiendo para que el curry se tueste sin quemarse.",
+    "Hidrata la soja en el caldo caliente 10 minutos; mientras, pica la cebolla y el ajo. Escurre la soja y apriétala bien. Remoja el pan en 75 ml de la leche. Precalienta el horno a 180 °C.",
+    "Calienta el aceite en una sartén a fuego medio-alto y dora la soja 4 minutos hasta que tenga puntos tostados. Añade la cebolla y cocina 6 minutos hasta que esté dorada; después el ajo, el curry y un cuarto de cucharadita de la cúrcuma, 1 minuto, removiendo para que el curry se tueste sin quemarse.",
     "Retira del fuego y mezcla con el pan escurrido y desmigado, el chutney, dos tercios de las pasas, la mitad de las almendras, el zumo del medio limón, sal y pimienta. Prueba: debe ser especiado, dulce y algo ácido a la vez. Apriétalo en una fuente pequeña (unos 18 × 12 cm).",
     "Bate los huevos con el resto de la leche (también la del remojo del pan), sal y pimienta y viértelo sobre la soja. Clava las hojas de laurel de pie en la superficie y reparte el resto de almendras.",
     "Hornea 30-35 minutos, hasta que la crema esté cuajada (al mover la fuente no tiembla en el centro) y dorada en los bordes.",

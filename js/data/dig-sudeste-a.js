@@ -175,8 +175,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Limpia los mejillones bajo el grifo, quítales las barbas tirando hacia la parte estrecha y descarta los que estén rotos o abiertos que no se cierren al golpearlos.",
-    "Prepara la salsa nam jim suave: mezcla el zumo de una lima y media con 1/2 cucharada de salsa de pescado, el azúcar, el aceite de ajo, 1 cucharada de agua y el cilantro muy picado. Remueve hasta que el azúcar se disuelva.",
+    "Mientras se cuece, limpia los mejillones bajo el grifo, quítales las barbas tirando hacia la parte estrecha y descarta los que estén rotos o abiertos que no se cierren al golpearlos.",
+    "Pica muy fino el cilantro y prepara la salsa nam jim suave: mezcla el zumo de una lima y media con 1/2 cucharada de salsa de pescado, el azúcar, el aceite de ajo, 1 cucharada de agua y el cilantro. Remueve hasta que el azúcar se disuelva.",
     "Corta la hierba limón en trozos de 5 cm y aplástalos; corta el jengibre en láminas y rasga las hojas de lima kaffir. Repártelos en el fondo de una cazuela ancha con 50 ml de agua y la cucharada de salsa de pescado restante, y lleva a ebullición 1 minuto para que el caldo se perfume.",
     "Echa los mejillones, la mitad de la albahaca, tapa y cuece a fuego fuerte 4-5 minutos, sacudiendo la cazuela un par de veces, hasta que se abran casi todos. Descarta los que sigan cerrados.",
     "Añade el resto de la albahaca, remueve y sirve los mejillones en cuencos con un poco de su caldo aromático, el arroz aparte y la salsa para ir mojándolos."
@@ -222,7 +222,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta el coco rallado en una sartén seca a fuego medio-bajo 3-4 minutos, removiendo, hasta que esté dorado claro y huela a galleta. Resérvalo en un bol.",
-    "Tritura la cúrcuma y el jengibre pelados con las macadamias, el aceite de ajo y el azúcar de palma hasta formar una pasta. Corta las hojas de lima kaffir en hilos finísimos, quitando el nervio central.",
+    "Pela la cúrcuma y el jengibre y tritúralos con las macadamias, el aceite de ajo y el azúcar de palma hasta formar una pasta. Corta las hojas de lima kaffir en hilos finísimos, quitando el nervio central.",
     "Pica el bacalao a cuchillo hasta que quede una pasta gruesa (o con unos pocos golpes de picadora, sin convertirlo en puré). Mézclalo con la pasta de especias, el coco tostado, la leche de coco, la lima kaffir y sal, y amasa 1-2 minutos golpeando la masa contra el bol: así gana liga y no se cae del tallo. Enfría 15 minutos en la nevera.",
     "Mientras, lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Quita las capas exteriores duras de la hierba limón y deja tallos de unos 20 cm. Corta el pepino y el tomate en dados.",
     "Con las manos húmedas, toma una bola de masa del tamaño de un huevo pequeño y apriétala alrededor del extremo grueso de cada tallo formando un cilindro alargado. Salen 8 brochetas.",
@@ -351,7 +351,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enciende el grill del horno a 230 °C con la bandeja en la parte alta.",
-    "Haz la salsa verde: tritura las hojas de albahaca, el cilantro con sus tallos tiernos, la menta, el jengibre pelado, el zumo de las limas, la salsa de pescado, el azúcar y 3 cucharadas de agua fría hasta que quede una salsa fluida y de un verde intenso. Prueba y ajusta de lima o de azúcar.",
+    "Pela el jengibre y haz la salsa verde: tritura las hojas de albahaca, el cilantro con sus tallos tiernos, la menta, el jengibre, el zumo de las limas, la salsa de pescado, el azúcar y 3 cucharadas de agua fría hasta que quede una salsa fluida y de un verde intenso. Prueba y ajusta de lima o de azúcar.",
     "Pon los fideos de arroz en un bol, cúbrelos con agua hirviendo y déjalos 6-8 minutos (o lo que indique el paquete), hasta que estén tiernos; mientras, corta el pepino en bastones finos, quitando las semillas. Escúrrelos, pásalos por agua fría y escúrrelos de nuevo.",
     "Seca los lomos de caballa, colócalos con la piel hacia arriba sobre papel de horno, sala y haz tres cortes finos en la piel. Ásalos al grill 5-6 minutos, hasta que la piel burbujee y se tueste en algunos puntos; la carne debe quedar jugosa.",
     "Mezcla los fideos con 3 cucharadas de la salsa verde y el pepino.",
@@ -576,9 +576,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita la piel y la grasa visible de los muslos de pato tirando con un papel de cocina. Separa cada muslo en dos por la articulación. Mézclalos con la salsa de pescado, la mitad del azúcar, la mitad del jengibre rallado, el aceite de ajo y pimienta, y deja reposar 15 minutos.",
+    "Quita la piel y la grasa visible de los muslos de pato tirando con un papel de cocina. Separa cada muslo en dos por la articulación. Ralla la mitad del jengibre y mézclalo con los muslos, la salsa de pescado, la mitad del azúcar, el aceite de ajo y pimienta, y deja reposar 15 minutos. Mientras, corta el resto del jengibre en láminas y saca tres tiras de piel de naranja sin la parte blanca.",
     "Calienta el aceite de girasol en una cazuela a fuego medio-alto y dora el pato 2-3 minutos por cada lado, hasta que tome color. Sácalo.",
-    "En la misma cazuela, pon el resto del azúcar y deja que se caramelice ligeramente a fuego medio, 1 minuto. Vierte el zumo de naranja (salpica), 250 ml de agua, el resto del jengibre en láminas, el anís y tres tiras de piel de naranja sin la parte blanca. Raspa el fondo.",
+    "En la misma cazuela, pon el resto del azúcar y deja que se caramelice ligeramente a fuego medio, 1 minuto. Vierte el zumo de naranja (salpica), 250 ml de agua, el jengibre en láminas, el anís y las tiras de piel de naranja. Raspa el fondo.",
     "Devuelve el pato, tapa y cuece a fuego suave 40 minutos; mientras, pela la zanahoria, córtala en rodajas gruesas y pica el cilantro. Añade la zanahoria y cuece 15 minutos más, hasta que la carne se separe fácilmente del hueso y la zanahoria esté tierna.",
     "Mientras, hidrata los fideos de arroz en agua hirviendo 6-8 minutos, escúrrelos y pásalos por agua fría.",
     "Retira el anís y las pieles. Disuelve la maicena en 1 cucharada de agua fría, añádela a la salsa y hierve 1 minuto, hasta que espese y brille. Prueba de sal: la salsa de pescado ya sala bastante.",
@@ -623,7 +623,7 @@ window.RECETAS_SEED.push({
     "Prepara el arroz prensado: cuece el arroz con 300 ml de agua y una pizca de sal 18 minutos tapado a fuego suave, hasta que esté muy tierno y pegajoso. Pásalo a un táper pequeño forrado con film, aplánalo con una cuchara mojada y presiona con otro recipiente con peso encima. Déjalo enfriar al menos 30 minutos.",
     "Haz el kecap casero: calienta 3 cucharadas de tamari con el azúcar de palma y 2 cucharadas de agua a fuego suave 3-4 minutos, hasta que el azúcar se funda y quede un almíbar oscuro que nape la cuchara.",
     "Mezcla el cordero con 2 cucharadas del kecap, la cucharada de tamari restante, el cilantro molido, el aceite de ajo y pimienta. Marina 20 minutos. Si usas palillos de madera, remójalos.",
-    "Corta el tomate en dados pequeños y la cebolleta en aros finos, y mézclalos con el resto del kecap y el zumo de media lima: es la salsa de servir. Corta el pepino en rodajas.",
+    "Mientras se marina, corta el tomate en dados pequeños y la cebolleta en aros finos, y mézclalos con el resto del kecap y el zumo de media lima: es la salsa de servir. Corta el pepino en rodajas.",
     "Ensarta el cordero en 6 brochetas. Calienta la plancha a fuego fuerte y ásalas 6-7 minutos, girándolas cada 2 minutos y pintándolas con el jugo de la marinada en la última vuelta, hasta que estén caramelizadas por fuera y jugosas dentro.",
     "Desmolda el arroz y córtalo en dados de 3 cm. Sirve las brochetas con el arroz, el pepino en rodajas y la salsa de tomate por encima, con la otra media lima en cuñas."
   ],
@@ -889,11 +889,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Pela la patata y la zanahoria y córtalas en dados muy pequeños, de medio centímetro. Cuécelas en agua con sal 5 minutos, hasta que estén tiernas, y escúrrelas.",
-    "Calienta el aceite de ajo en una sartén antiadherente a fuego medio y rehoga el cerdo picado 4-5 minutos, deshaciéndolo con la cuchara, hasta que esté suelto y sin rastro de rosa. Añade un tomate en dados pequeños, la salsa de pescado y pimienta, y cocina 2 minutos más. Pasa a un bol y deja templar.",
-    "Bate los huevos con una pizca de sal y mézclalos con la carne, la patata, la zanahoria y la mitad de la cebolleta en aros.",
+    "Pela la patata y la zanahoria y córtalas en dados muy pequeños, de medio centímetro. Cuécelas en agua con sal 5 minutos, hasta que estén tiernas, y escúrrelas. Mientras se cuecen, corta un tomate en dados pequeños y la cebolleta en aros; corta el pepino y el otro tomate en rodajas finas y alíñalos con el vinagre de arroz, sal y la mitad de la cebolleta.",
+    "Calienta el aceite de ajo en una sartén antiadherente a fuego medio y rehoga el cerdo picado 4-5 minutos, deshaciéndolo con la cuchara, hasta que esté suelto y sin rastro de rosa. Añade el tomate en dados, la salsa de pescado y pimienta, y cocina 2 minutos más. Pasa a un bol y deja templar.",
+    "Bate los huevos con una pizca de sal y mézclalos con la carne, la patata, la zanahoria y el resto de la cebolleta.",
     "Limpia la sartén, úntala con la mitad del aceite de girasol y ponla a fuego medio. Vierte cucharones de mezcla formando tortitas de unos 12 cm, sin que se toquen. Dóralas 2-3 minutos por cada lado, hasta que estén cuajadas y doradas; repite con el resto del aceite. Salen 6.",
-    "Corta el pepino y el otro tomate en rodajas finas y alíñalos con el vinagre de arroz, sal y el resto de la cebolleta. Sirve las tortitas calientes con el arroz y la ensalada."
+    "Sirve las tortitas calientes con el arroz y la ensalada."
   ],
   nutricion: { kcal: 600, prot: 31, hc: 70, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica", "para niños", "ideal para llevar"],
@@ -935,11 +935,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escalfa el pollo: ponlo en un cazo con agua fría, la mitad del jengibre en láminas y sal, lleva a ebullición suave, tapa, apaga el fuego y deja 15 minutos. Sácalo, deja que temple y desmígalo en hebras.",
+    "Corta la mitad del jengibre en láminas y ralla el resto. Escalfa el pollo: ponlo en un cazo con agua fría, el jengibre en láminas y sal, lleva a ebullición suave, tapa, apaga el fuego y deja 15 minutos. Sácalo, deja que temple y desmígalo en hebras.",
     "Mientras, hidrata los fideos en agua hirviendo 4-5 minutos, pásalos por agua fría y escúrrelos. Corta la zanahoria y el pepino sin semillas en bastones muy finos y separa las hojas de las hierbas.",
     "Disuelve la maicena en 2 cucharadas de agua y bátela con los huevos y una pizca de sal, sin hacer espuma. Cuela la mezcla para que las tortillas queden lisas.",
     "Calienta una sartén antiadherente de 24 cm a fuego medio-bajo y úntala con un papel empapado en el aceite. Vierte un cucharón pequeño de huevo y gira la sartén para cubrir el fondo con una capa fina. Cuaja 1 minuto, sin que se dore, dale la vuelta 10 segundos y pásala a un plato. Salen 4 tortillas.",
-    "Prepara el nước chấm suave: disuelve el azúcar en 4 cucharadas de agua tibia y añade la salsa de pescado, el zumo de la lima y el resto del jengibre rallado. Pica los cacahuetes.",
+    "Prepara el nước chấm suave: disuelve el azúcar en 4 cucharadas de agua tibia y añade la salsa de pescado, el zumo de la lima y el jengibre rallado. Pica los cacahuetes.",
     "Sobre cada tortilla, coloca una hoja de lechuga, un poco de fideos, pollo, zanahoria, pepino y hierbas. Dobla los lados hacia dentro y enrolla bien apretado. Corta cada rollito al bies en dos y sírvelos con el nước chấm y los cacahuetes para espolvorear."
   ],
   nutricion: { kcal: 495, prot: 37, hc: 43, grasa: 19 },
@@ -1072,11 +1072,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre el tofu, envuélvelo en un paño y ponle un peso encima 10 minutos para que suelte agua. Córtalo en 8 triángulos o rectángulos de 2 cm de grosor.",
-    "Tritura el jengibre pelado con el cilantro molido, el aceite de ajo y 2 cucharadas de agua. Ponlo en una cazuela amplia con el agua de coco, 250 ml de agua, el azúcar de palma, el tamari, el laurel, el tamarindo y una pizca de sal, y remueve hasta disolver.",
+    "Pela el jengibre y tritúralo con el cilantro molido, el aceite de ajo y 2 cucharadas de agua. Ponlo en una cazuela amplia con el agua de coco, 250 ml de agua, el azúcar de palma, el tamari, el laurel, el tamarindo y una pizca de sal, y remueve hasta disolver.",
     "Coloca el tofu en una sola capa, lleva a ebullición y cuece a fuego suave sin tapar 30-35 minutos, dándole la vuelta con cuidado a media cocción, hasta que el líquido se haya consumido casi por completo y el tofu esté color caramelo. Vigila los últimos minutos: el azúcar se puede pegar.",
-    "Mientras, lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
+    "Mientras, lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Corta el pepino en bastones y lava las hojas de lechuga y la albahaca.",
     "Calienta una sartén antiadherente a fuego medio con el aceite de girasol y dora el tofu 2 minutos por cada lado, hasta que tenga una costra oscura y brillante. En Java se pasa por aceite abundante; la sartén consigue el mismo tostado.",
-    "Sirve el tofu con el arroz y el lalapan: pepino en bastones, hojas de lechuga y albahaca, crudos, para ir alternando bocados dulces y frescos."
+    "Sirve el tofu con el arroz y el lalapan: el pepino, la lechuga y la albahaca, crudos, para ir alternando bocados dulces y frescos."
   ],
   nutricion: { kcal: 590, prot: 30, hc: 72, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "ideal para llevar", "batch cooking"],

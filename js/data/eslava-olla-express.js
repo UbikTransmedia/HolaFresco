@@ -696,13 +696,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la cebolla en plumas, la manzana en gajos gruesos (con piel) y las patatas por la mitad. Salpimienta los contramuslos. Calienta el aceite en la olla exprés destapada a fuego medio-fuerte y dóralos 3 min por cada lado, hasta que estén bien dorados. Resérvalos.",
-    "Rehoga la cebolla en la misma grasa 4 min. Añade la alcaravea y el enebro aplastado con la hoja de un cuchillo y remueve 30 s, hasta que huelan. Vierte el vino y raspa el fondo 1 min.",
+    "Corta la cebolla en plumas, la manzana en gajos gruesos (con piel) y las patatas por la mitad, y aplasta el enebro con la hoja de un cuchillo. Salpimienta los contramuslos. Calienta el aceite en la olla exprés destapada a fuego medio-fuerte y dóralos 3 min por cada lado, hasta que estén bien dorados. Resérvalos.",
+    "Rehoga la cebolla en la misma grasa 4 min. Añade la alcaravea y el enebro y remueve 30 s, hasta que huelan. Vierte el vino y raspa el fondo 1 min.",
     "Escurre el chucrut apretándolo un poco con las manos y añádelo con la manzana, el laurel y el caldo. Mezcla bien.",
     "Coloca encima las patatas y, sobre ellas, el pollo con sus jugos. Las patatas deben quedar sobre el chucrut, no hundidas en él, porque su acidez impediría que se ablanden.",
     "Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 8 min. Mientras, pica el perejil. Despresuriza rápido.",
-    "Saca el pollo y las patatas. Mezcla la mostaza con el chucrut y, si queda mucho líquido, cuécelo 3 min destapado. Prueba de sal.",
-    "Sirve el chucrut con el pollo cortado en tiras, las patatas al lado y el perejil picado por encima."
+    "Saca el pollo y las patatas. Mezcla la mostaza con el chucrut y, si queda mucho líquido, cuécelo 3 min destapado; mientras, corta el pollo en tiras. Prueba de sal.",
+    "Sirve el chucrut con el pollo en tiras, las patatas al lado y el perejil picado por encima."
   ],
   nutricion: { kcal: 590, prot: 44, hc: 58, grasa: 19 },
   etiquetas: ["creativa", "alta en proteína", "una sola olla", "otoño", "invierno", "económica", "poco especiada", "bajo en colesterol"],
@@ -744,13 +744,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata las setas secas en 200 ml de agua caliente 10 min. Sácalas, pícalas y cuela el agua con un papel de cocina para quitar la arena: será el caldo del guiso. Mientras se hidratan, corta los champiñones y las setas en cuartos, pica la cebolla y el ajo, corta el pimiento en dados y pela la patata y córtala en dados de 2,5 cm.",
+    "Hidrata las setas secas en 200 ml de agua caliente 10 min. Sácalas, pícalas y cuela el agua con un papel de cocina para quitar la arena: será el caldo del guiso. Mientras se hidratan, corta los champiñones y las setas en cuartos, pica la cebolla y el ajo, machaca la alcaravea, corta el pimiento en dados y pela la patata y córtala en dados de 2,5 cm.",
     "Calienta el aceite en la olla exprés destapada a fuego fuerte y saltea los champiñones y las setas 5 min, sin remover demasiado, hasta que pierdan el agua y se doren.",
     "Baja a fuego medio, añade la cebolla y el pimiento y rehoga 4 min. Agrega el ajo, la alcaravea machacada y el tomate concentrado y remueve 1 min.",
     "Aparta la olla del fuego y añade los dos pimentones; remueve 20 segundos (el pimentón se quema y amarga en seguida) y vierte enseguida el agua de las setas.",
-    "Incorpora la patata, las setas secas picadas, la mejorana y sal; el líquido debe cubrir la mitad de la patata. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 6 min. Despresuriza rápido.",
+    "Incorpora la patata, las setas secas picadas, la mejorana y sal; el líquido debe cubrir la mitad de la patata. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 6 min; mientras, tuesta el pan de centeno. Despresuriza rápido.",
     "Aplasta unos trozos de patata contra la pared para espesar la salsa. Templa la nata agria con un cazo de salsa y vuélvela a la olla fuera del fuego, para que no se corte.",
-    "Sirve con el pan de centeno tostado y una cucharada más de nata agria si quieres."
+    "Sirve con el pan tostado y una cucharada más de nata agria si quieres."
   ],
   nutricion: { kcal: 490, prot: 14, hc: 68, grasa: 18 },
   etiquetas: ["creativa", "vegetariana", "rápida", "otoño", "invierno", "poco especiada"],
@@ -889,7 +889,7 @@ window.RECETAS_SEED.push({
     "Corta la cebolla y el pimiento en tiras y lamina el ajo. Limpia las carrilleras de la telilla exterior más gruesa, sécalas y salpimiéntalas. Dóralas en la olla exprés destapada con el aceite a fuego fuerte 3 min por cada lado. Resérvalas.",
     "Baja a fuego medio y rehoga la cebolla y el pimiento 6 min. Añade el ajo 1 min. Retira del fuego, añade el pimentón y vierte el vino; vuelve al fuego y deja que reduzca 3 min raspando el fondo.",
     "Añade el ajvar, el caldo y el laurel, remueve y coloca las carrilleras: deben quedar cubiertas en dos tercios. Cierra; cuando suba la válvula, baja al mínimo y cuenta 35 min. Deja que baje la presión sola, unos 15 min.",
-    "Mientras, cuece las patatas peladas y en trozos en la cazuela con agua y sal 20 min, hasta que se deshagan al pincharlas; mientras, calienta la leche y pica el perejil. Escúrrelas y aplástalas con el kajmak y la leche caliente hasta tener un puré liso. Prueba de sal.",
+    "Mientras, pela las patatas, córtalas en trozos y cuécelas en la cazuela con agua y sal 20 min, hasta que se deshagan al pincharlas; mientras, calienta la leche y pica el perejil. Escúrrelas y aplástalas con el kajmak y la leche caliente hasta tener un puré liso. Prueba de sal.",
     "Abre la olla: las carrilleras deben partirse con una cuchara. Sácalas y, si la salsa está líquida, redúcela destapada a fuego fuerte 5-8 min hasta que napee. Puedes triturarla para que quede más fina.",
     "Devuelve las carrilleras a la salsa 1 min para que se calienten y brillen.",
     "Sirve el puré con las carrilleras encima, bien bañadas en salsa, y el perejil picado."
@@ -933,7 +933,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Remoja el pan en la leche 2 min y escúrrelo apretando. Pica la merluza a cuchillo, no muy fina, y mézclala en un bol con el pan, el huevo, la parte blanca de la cebolleta picada fina, la mitad del eneldo picado, la ralladura del medio limón, sal y pimienta. Deja la masa 5 min en la nevera para que se asiente; mientras, corta las patatas por la mitad.",
+    "Remoja el pan en la leche 2 min; mientras, pica fina la parte blanca de la cebolleta, pica el eneldo y ralla la piel del medio limón. Escurre el pan apretando. Pica la merluza a cuchillo, no muy fina, y mézclala en un bol con el pan, el huevo, la cebolleta blanca, la mitad del eneldo, la ralladura, sal y pimienta. Deja la masa 5 min en la nevera para que se asiente; mientras, corta las patatas por la mitad y pica la parte verde de la cebolleta.",
     "Forma 10-12 albóndigas del tamaño de una nuez grande con las manos mojadas.",
     "Derrite la mantequilla en la olla exprés destapada a fuego medio y rehoga la parte verde de la cebolleta 2 min. Añade la harina y remueve 1 min. Vierte el caldo poco a poco batiendo para que no queden grumos y añade la mostaza.",
     "Pon las patatas en la salsa y coloca las albóndigas encima, sin apretarlas. Cierra; cuando suba la válvula, baja al mínimo y cuenta 4 min. Despresuriza rápido.",

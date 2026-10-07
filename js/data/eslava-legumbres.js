@@ -127,7 +127,7 @@ window.RECETAS_SEED.push({
     "Pon las setas secas a hidratar en 300 ml de agua caliente 20 minutos. Enjuaga los guisantes en un colador hasta que el agua salga clara.",
     "Cuece los guisantes en una cazuela con 600 ml de agua y el laurel a fuego suave, con la tapa entreabierta, 45–50 minutos. Remueve de vez en cuando y añade un chorrito de agua si se secan: están listos cuando se deshacen en un puré espeso al removerlos. Retira el laurel y sala.",
     "Mientras, escurre las setas, reservando su agua, y pícalas. Prueba el chucrut: si es muy ácido, enjuágalo una vez y escúrrelo. Ponlo en otra cazuela con las setas picadas, su agua colada (deja en el fondo la arenilla), la pimienta de Jamaica y agua justa para cubrir. Cuece tapado a fuego suave 35–40 minutos, hasta que esté muy tierno.",
-    "Pica la cebolla y dórala en una sartén con el aceite a fuego medio 10–12 minutos, hasta que esté bien dorada. Espolvorea la harina y remueve 1 minuto, hasta que huela a tostado.",
+    "Mientras se cuecen ambos, pica la cebolla y dórala en una sartén con el aceite a fuego medio 10–12 minutos, hasta que esté bien dorada. Espolvorea la harina y remueve 1 minuto, hasta que huela a tostado.",
     "Añade la cebolla con la harina al chucrut, remueve bien y cuece 5 minutos: el caldo espesa y liga.",
     "Mezcla el puré de guisantes con el chucrut, añade la mejorana, sal y pimienta negra y cuece todo junto 5 minutos más, removiendo. Debe quedar un guiso espeso que se sostenga en la cuchara; si le falta acidez, añade un poco del jugo del chucrut.",
     "Sirve caliente, con pan de centeno si quieres."
@@ -264,7 +264,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría.",
-    "Escúrrelas, cúbrelas con agua fría en una cazuela, lleva a ebullición y cuece 5 minutos. Tira esa primera agua (en Bosnia se hace así para que resulten más digestivas) y vuelve a cubrirlas con 1,2 l de agua caliente. Añade el laurel y la cecina cortada en dados de 1,5 cm.",
+    "Escúrrelas, cúbrelas con agua fría en una cazuela, lleva a ebullición y cuece 5 minutos; mientras, corta la cecina en dados de 1,5 cm. Tira esa primera agua (en Bosnia se hace así para que resulten más digestivas) y vuelve a cubrirlas con 1,2 l de agua caliente. Añade el laurel y la cecina.",
     "Pica la cebolla, la zanahoria, el pimiento y el ajo y rehógalos en una sartén con 1 cucharada de aceite 10 minutos, hasta que estén blandos. Pásalos a la cazuela.",
     "Cuece a fuego suave con la tapa entreabierta 75–80 minutos, hasta que las alubias estén tiernas y el caldo se vea turbio. Añade agua caliente si baja demasiado: debe quedar un guiso caldoso. Mientras, pica el perejil.",
     "Prepara la zaprška: en la sartén calienta el resto del aceite y tuesta la harina 1–2 minutos, removiendo, hasta que esté dorada clara. Aparta del fuego y añade el pimentón (sin fuego, para que no amargue). Diluye con un cazo de caldo de las alubias y bate hasta que no queden grumos.",
@@ -397,8 +397,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si la haces con huevo, cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos. Enjuaga las alubias y déjalas escurrir bien en un colador: si están secas, el aliño se adhiere en lugar de aguarse.",
     "Corta la cebolla morada en plumas muy finas, ponla en un colador con una pizca de sal 5 minutos y enjuágala: pierde el picor pero sigue crujiente.",
-    "Tuesta las semillas de calabaza en una sartén sin aceite a fuego medio 2–3 minutos, hasta que se hinchen y empiecen a saltar.",
-    "En un bol mezcla el vinagre con el ajo rallado, sal y pimienta. Añade las alubias y la cebolla y remueve; deja 5 minutos para que absorban el vinagre. Mientras, pica el perejil.",
+    "Mientras la cebolla reposa, ralla el ajo y tuesta las semillas de calabaza en una sartén sin aceite a fuego medio 2–3 minutos, hasta que se hinchen y empiecen a saltar.",
+    "En un bol mezcla el vinagre con el ajo, sal y pimienta. Añade las alubias y la cebolla y remueve; deja 5 minutos para que absorban el vinagre. Mientras, pica el perejil.",
     "Justo antes de servir, riega con el aceite de pepitas de calabaza (siempre en crudo: el calor le quita el aroma) y espolvorea el perejil picado y las semillas. Si la haces con huevo duro, ponlo en cuartos por encima."
   ],
   nutricion: { kcal: 420, prot: 18, hc: 42, grasa: 19 },
@@ -565,9 +565,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las lentejas y cuécelas en una cazuela con 600 ml de agua hirviendo 6–8 minutos, hasta que estén tiernas pero sin deshacerse (las rojas se deshacen enseguida: vigílalas). Escúrrelas y déjalas 5 minutos en el colador para que suelten toda el agua.",
+    "Lava las lentejas y cuécelas en una cazuela con 600 ml de agua hirviendo 6–8 minutos, hasta que estén tiernas pero sin deshacerse (las rojas se deshacen enseguida: vigílalas). Escúrrelas y déjalas 5 minutos en el colador para que suelten toda el agua. Mientras se cuecen, ralla el ajo y pica el eneldo.",
     "Ralla la patata y la cebolla por el lado fino del rallador, como se hace en Bielorrusia. Ponlas en un paño limpio y retuércelo con fuerza sobre un bol para escurrir el líquido. Deja reposar ese líquido 2 minutos, tíralo con cuidado y recupera el almidón blanco que queda en el fondo.",
-    "Mezcla la patata con el almidón recuperado, las lentejas, el huevo, la harina, el ajo rallado, sal y pimienta. Debe quedar una masa espesa que cae de la cuchara en bloque.",
+    "Mezcla la patata con el almidón recuperado, las lentejas, el huevo, la harina, el ajo, sal y pimienta. Debe quedar una masa espesa que cae de la cuchara en bloque.",
     "Calienta 2 cucharadas de aceite en una sartén a fuego medio-alto. Pon cucharadas de masa, aplánalas hasta 1 cm y fríelas 3–4 minutos por cada lado, hasta que los bordes estén crujientes y bien dorados. Escúrrelas sobre papel y repite con el resto del aceite (salen unas 10).",
     "Mezcla la smetana con el eneldo picado y una pizca de sal.",
     "Sirve los draniki recién hechos, con la smetana al eneldo por encima o aparte."
@@ -791,8 +791,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Seca bien el pavo con papel de cocina y frótalo con sal, pimienta, el pimentón, la mejorana y la mantequilla blanda.",
-    "Pon la cebolla en gajos y los ajos enteros con piel en una fuente de horno, coloca el pavo encima con la piel hacia arriba y vierte 100 ml del caldo en el fondo.",
+    "Precalienta el horno a 200 °C y, mientras se calienta, corta la cebolla en gajos. Seca bien el pavo con papel de cocina y frótalo con sal, pimienta, el pimentón, la mejorana y la mantequilla blanda.",
+    "Pon la cebolla y los ajos enteros con piel en una fuente de horno, coloca el pavo encima con la piel hacia arriba y vierte 100 ml del caldo en el fondo.",
     "Ásalo 30–35 minutos, regándolo una vez con su jugo a mitad, hasta que la piel esté dorada y, al pincharlo, el jugo salga transparente (75 °C en el centro).",
     "Mientras, mete las tortillas directamente sobre la rejilla del horno 4–5 minutos, hasta que estén tostadas y rígidas. Rómpelas en trozos irregulares de 4–5 cm: son tus mlinci. Pica el perejil.",
     "Saca el pavo a un plato y tápalo. Añade a la fuente las alubias escurridas y el resto del caldo caliente, raspa el fondo y aplasta los ajos asados sacándolos de la piel. Mezcla, reparte los mlinci por encima, hundiéndolos a medias en el jugo, y hornea 10 minutos, hasta que se ablanden por abajo y se tuesten por los bordes.",
@@ -880,8 +880,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Sala el cordero 15 minutos antes y frótalo con el pimentón y pimienta. Precalienta el horno a 160 °C.",
-    "En una cazuela de barro o de hierro con tapa (o en una fuente honda) pon la cebolla en gajos, los ajos enteros con piel y el laurel. Coloca el cordero encima y riega con el aceite, el vino y el agua.",
+    "Sala el cordero 15 minutos antes y frótalo con el pimentón y pimienta. Precalienta el horno a 160 °C y, mientras tanto, corta la cebolla en gajos.",
+    "En una cazuela de barro o de hierro con tapa (o en una fuente honda) pon la cebolla, los ajos enteros con piel y el laurel. Coloca el cordero encima y riega con el aceite, el vino y el agua.",
     "Tapa herméticamente (si usas fuente, séllala con dos capas de papel de aluminio) y hornea 1 hora y 15 minutos: el vapor atrapado imita la campana de hierro del sač. Mientras, pela las patatas y córtalas en trozos grandes y corta el pimiento en tiras anchas.",
     "Saca la fuente, reparte alrededor de la carne las patatas y el pimiento, sálalos, da la vuelta a las piezas de cordero, vuelve a tapar y hornea 30 minutos.",
     "Destapa, añade las alubias escurridas al jugo y remueve con cuidado. Sube el horno a 210 °C y hornea 20–25 minutos sin tapa, hasta que el cordero esté dorado, la carne se separe del hueso, las patatas se tuesten por arriba y el jugo espese.",

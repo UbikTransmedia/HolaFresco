@@ -45,11 +45,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas con piel y la zanahoria entera en una cazuela, cúbrelas con agua fría con sal y cuécelas 20–25 minutos desde que hierva, hasta que un cuchillo las atraviese sin resistencia. Añade los guisantes los últimos 3 minutos. Escurre y deja enfriar.",
-    "Mientras, en un cazo aparte, cuece los huevos 10 minutos desde que hierva el agua; enfríalos en agua fría y pélalos.",
-    "Para el pescado, lleva a ebullición 1 litro de agua con sal, el laurel, unos granos de pimienta y dos rodajas de limón. Baja el fuego para que apenas tiemble, añade la merluza y cuécela 6–8 minutos, hasta que se separe en lascas al presionarla. Sácala con una espumadera, déjala templar y desmígala con los dedos, quitando cualquier espina.",
-    "Pela las patatas y la zanahoria y córtalas en dados de 1 cm. Pica los pepinillos, la mitad de las alcaparras y la mitad del perejil.",
+    "Mientras, en un cazo aparte, cuece los huevos 10 minutos desde que hierva el agua; enfríalos en agua fría y pélalos. Mientras se cuecen, pica los pepinillos, la mitad de las alcaparras y la mitad del perejil.",
+    "Mientras se cuecen las patatas, prepara el pescado: lleva a ebullición 1 litro de agua con sal, el laurel, unos granos de pimienta y dos rodajas de limón. Baja el fuego para que apenas tiemble, añade la merluza y cuécela 6–8 minutos, hasta que se separe en lascas al presionarla. Sácala con una espumadera, déjala templar y desmígala con los dedos, quitando cualquier espina.",
+    "Pela las patatas y la zanahoria y córtalas en dados de 1 cm.",
     "En un bol amplio mezcla con una espátula el pescado, las verduras, los guisantes, los pepinillos, las alcaparras picadas, el perejil picado, el zumo de medio limón, sal, pimienta y dos tercios de la mayonesa. Hazlo con suavidad, sin aplastar: deben verse las lascas de pescado.",
-    "Forra un bol de unos 15 cm con film, rellénalo con la mezcla apretando bien con el dorso de una cuchara y alisa la superficie. Tápalo y déjalo en la nevera al menos 1 hora para que tome forma.",
+    "Forra un bol de unos 15 cm con film, rellénalo con la mezcla apretando bien con el dorso de una cuchara y alisa la superficie. Tápalo y déjalo en la nevera al menos 1 hora para que tome forma. Mientras reposa, corta los huevos en rodajas y el resto del limón en gajos.",
     "Pon unas hojas de lechuga en una fuente y desmolda encima. Unta la cúpula con el resto de la mayonesa en una capa fina, como si fuera una tarta, y decora con los huevos en rodajas, las aceitunas, el resto de las alcaparras y el perejil. Sirve con el resto del limón en gajos."
   ],
   nutricion: { kcal: 680, prot: 43, hc: 37, grasa: 39 },
@@ -135,10 +135,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lleva a ebullición 1 litro de agua con sal, el laurel y dos rodajas de limón. Añade las gambas y cuécelas 1–2 minutos, solo hasta que se vuelvan rosadas y se curven en forma de C; si se cierran en forma de O, se han pasado.",
+    "Pon a hervir 1 litro de agua con sal, el laurel y dos rodajas de limón. Mientras llega a ebullición, corta la lechuga en tiras muy finas, como se hace en Grecia, el pepino en medias lunas y la cebolleta en rodajas finas con parte del verde, y pica el eneldo.",
+    "Cuando hierva, añade las gambas y cuécelas 1–2 minutos, solo hasta que se vuelvan rosadas y se curven en forma de C; si se cierran en forma de O, se han pasado.",
     "Escúrrelas y pásalas a un bol con agua y hielo 2 minutos para cortar la cocción. Sécalas bien con papel de cocina.",
     "Prepara el ladolemono: exprime el resto del limón y bate el zumo con el aceite, sal y pimienta hasta que emulsione y quede turbio. Mezcla 1 cucharada de este aliño con la mayonesa.",
-    "Corta la lechuga en tiras muy finas, como se hace en Grecia, el pepino en medias lunas y la cebolleta en rodajas finas con parte del verde. Pica el eneldo.",
     "Mezcla las gambas con la mayonesa aligerada, las alcaparras y la mitad del eneldo.",
     "Aliña la lechuga, el pepino y la cebolleta con el resto del ladolemono y del eneldo, reparte en los platos y pon las gambas encima. Tuesta el pan en la tostadora o en una sartén sin aceite y sírvelo al lado."
   ],
@@ -227,8 +227,8 @@ window.RECETAS_SEED.push({
     "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría y pélalos.",
     "Mientras, pon a hervir una cazuela grande con agua y sal. Pela las patatas y córtalas en trozos de 4 cm; despunta las judías y pártelas por la mitad; corta los calabacines en trozos de 5 cm.",
     "Cuando el agua hierva, cuece las patatas 8 minutos. Añade las judías y, 5 minutos después, el calabacín; cuece 6–7 minutos más, hasta que todo esté tierno pero el calabacín conserve la forma y un verde brillante.",
-    "Mientras, prepara el ladolemono: bate el zumo del limón con el aceite, el ajo rallado, el orégano, sal y pimienta hasta que quede turbio y algo espeso.",
-    "Escurre las verduras con cuidado y alíñalas en caliente con dos tercios del ladolemono, para que lo absorban. Deja templar 5 minutos.",
+    "Mientras, pica el perejil y prepara el ladolemono: bate el zumo del limón con el aceite, el ajo rallado, el orégano, sal y pimienta hasta que quede turbio y algo espeso.",
+    "Escurre las verduras con cuidado y alíñalas en caliente con dos tercios del ladolemono, para que lo absorban. Deja templar 5 minutos y, mientras, corta los huevos en cuartos.",
     "Sirve con los huevos en cuartos, un taco de feta, las aceitunas, el perejil picado y el resto del aliño por encima."
   ],
   nutricion: { kcal: 620, prot: 23, hc: 40, grasa: 40 },
@@ -361,11 +361,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la col en tiras muy finas, casi en hilos, con un cuchillo bien afilado. Ponla en un bol, sálala ligeramente y frótala con las manos 1 minuto para que se ablande.",
-    "Añade la lechuga en tiras, el pepino en medias lunas, el tomate en gajos, la cebolleta y el apio en rodajas finas (con sus hojas), el cilantro picado grueso y la rúcula. Reserva la ensalada sin aliñar.",
+    "Corta la lechuga en tiras, el pepino en medias lunas, el tomate en gajos y la cebolleta y el apio en rodajas finas (con sus hojas), y pica grueso el cilantro. Añádelos a la col con la rúcula. Reserva la ensalada sin aliñar.",
     "Corta el halloumi en lonchas de 1 cm y sécalas con papel. Calienta la plancha a fuego medio-alto, sin aceite.",
     "Marca las lonchas de lomo 30–40 segundos por lado, solo hasta que la grasa brille y los bordes se ricen; sácalas. En la misma plancha dora el halloumi 2 minutos por lado, sin moverlo, hasta que tenga rayas doradas y empiece a ablandarse.",
     "Calienta las pitas 1 minuto por lado en la plancha.",
-    "Aliña la ensalada con el zumo de medio limón, el aceite, las alcaparras, sal y pimienta y mézclala bien.",
+    "Aliña la ensalada con el zumo de medio limón, el aceite, las alcaparras, sal y pimienta y mézclala bien. Corta el resto del limón en gajos.",
     "Sirve la ensalada con el halloumi y la lountza calientes encima, las aceitunas, el resto del limón en gajos y la pita. Cómelo enseguida: el halloumi se endurece al enfriarse."
   ],
   nutricion: { kcal: 740, prot: 41, hc: 50, grasa: 41 },
@@ -586,13 +586,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca la carne de la nevera 15 minutos antes. Prepara el ladorigani: bate el zumo del limón con 2 cucharadas de aceite, el orégano frotado entre los dedos, las alcaparras picadas, sal y pimienta.",
-    "Corta la cebolla morada en pluma fina y ponla en un bol con 1 cucharada del aliño: se suaviza mientras cocinas.",
-    "Calienta la plancha a fuego fuerte. Haz los tomates cherry enteros y el pimiento verde en tiras con unas gotas de aceite 5–6 minutos, hasta que la piel de los tomates se arrugue y empiece a reventar. Sácalos.",
+    "Saca la carne de la nevera 15 minutos antes. Pica las alcaparras y prepara el ladorigani: bate el zumo del limón con 2 cucharadas de aceite, el orégano frotado entre los dedos, las alcaparras, sal y pimienta.",
+    "Corta el pimiento verde en tiras y la cebolla morada en pluma fina; pon la cebolla en un bol con 1 cucharada del aliño: se suaviza mientras cocinas.",
+    "Calienta la plancha a fuego fuerte. Haz los tomates cherry enteros y el pimiento verde con unas gotas de aceite 5–6 minutos, hasta que la piel de los tomates se arrugue y empiece a reventar. Sácalos.",
     "Tuesta el pan en la plancha 1 minuto por lado.",
-    "Seca los filetes, úntalos con el resto del aceite y hazlos 2–3 minutos por cada lado (1 minuto si son finos), hasta que estén dorados por fuera y rosados por dentro. Sálalos, rocíalos con 2 cucharadas del aliño y déjalos reposar 3 minutos.",
+    "Seca los filetes, úntalos con el resto del aceite y hazlos 2–3 minutos por cada lado (1 minuto si son finos), hasta que estén dorados por fuera y rosados por dentro. Sálalos, rocíalos con 2 cucharadas del aliño y déjalos reposar 3 minutos. Mientras, saca lascas finas de kefalotyri con el pelador.",
     "Corta la carne en tiras finas y mézclala con el jugo que haya soltado.",
-    "Monta los platos con la rúcula, los tomates y el pimiento, la carne, la cebolla y lascas de kefalotyri hechas con el pelador. Riega con el resto del aliño y sirve el pan al lado."
+    "Monta los platos con la rúcula, los tomates y el pimiento, la carne, la cebolla y las lascas de kefalotyri. Riega con el resto del aliño y sirve el pan al lado."
   ],
   nutricion: { kcal: 640, prot: 45, hc: 35, grasa: 34 },
   etiquetas: ["creativa", "alta en proteína", "una sola sartén", "verano", "poco especiada"],
@@ -632,9 +632,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir abundante agua con sal. Pon el salmón en una bandeja con papel, con la piel hacia abajo, ralla por encima la piel de medio limón y añade el orégano, sal, pimienta y un hilo de aceite.",
     "Hornéalo 12–14 minutos, hasta que las lascas se separen al presionar con un tenedor y el centro siga ligeramente translúcido.",
-    "Mientras, cuece el orzo en el agua hirviendo 9–10 minutos (o el tiempo del paquete), hasta que esté al dente. Escúrrelo, pásalo unos segundos por agua fría y escúrrelo de nuevo.",
+    "Mientras, cuece el orzo en el agua hirviendo 9–10 minutos (o el tiempo del paquete), hasta que esté al dente. Mientras se cuece, pica las alcaparras y el eneldo, corta el pepino en dados y la cebolleta en rodajas finas. Escurre el orzo, pásalo unos segundos por agua fría y escúrrelo de nuevo.",
     "Bate el zumo del limón con el resto del aceite, las alcaparras picadas, sal y pimienta. Mezcla el orzo aún tibio con la mitad del aliño: lo absorbe y no se apelmaza.",
-    "Corta el pepino en dados, la cebolleta en rodajas finas y pica el eneldo. Añádelos al orzo junto con las espinacas: el calor de la pasta las ablanda un poco.",
+    "Añade al orzo el pepino, la cebolleta, casi todo el eneldo y las espinacas: el calor de la pasta las ablanda un poco.",
     "Desmiga el salmón en lascas grandes, sin la piel, sobre la ensalada, riega con el resto del aliño y termina con más eneldo."
   ],
   nutricion: { kcal: 630, prot: 37, hc: 45, grasa: 33 },
@@ -808,9 +808,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla la piel de la naranja, solo la parte naranja, y exprime la mitad. Pela a lo vivo la otra mitad y córtala en gajos. Machaca un poco las semillas de hinojo en el mortero o con el lado de un cuchillo.",
+    "Ralla la piel de la naranja, solo la parte naranja, y exprime la mitad. Pela a lo vivo la otra mitad y córtala en gajos. Machaca un poco las semillas de hinojo en el mortero o con el lado de un cuchillo. Corta los pimientos en tiras y la cebolla morada en gajos.",
     "Pincha las salchichas y dóralas en una sartén amplia con unas gotas de aceite a fuego medio 8–10 minutos, girándolas, hasta que estén doradas por todos lados. Sácalas y córtalas en rodajas gruesas al bies.",
-    "En la grasa que han soltado, saltea los pimientos en tiras y la cebolla morada en gajos a fuego fuerte 5–6 minutos, hasta que estén tiernos y con las puntas tostadas.",
+    "En la grasa que han soltado, saltea los pimientos y la cebolla morada a fuego fuerte 5–6 minutos, hasta que estén tiernos y con las puntas tostadas.",
     "Devuelve las salchichas, añade la ralladura y el hinojo, remueve 30 segundos y vierte el vino. Deja que hierva 2 minutos, hasta que se reduzca a un glaseado brillante. Fuera del fuego, añade el zumo de naranja.",
     "Mientras, tuesta las pitas en la tostadora o en otra sartén y córtalas en triángulos.",
     "Aliña la rúcula con el vinagre, el resto del aceite, el orégano, sal y pimienta. Sirve la rúcula con las salchichas y las verduras calientes por encima, los gajos de naranja y la pita al lado."
@@ -900,7 +900,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Hierve el agua en un cazo. Pon el bulgur en un bol con una pizca de sal, cúbrelo con 180 ml de agua hirviendo, tápalo y déjalo 15 minutos, hasta que la absorba y esté tierno. Espónjalo con un tenedor.",
     "Mientras, corta el pez espada en dados de 3 cm y el pimiento rojo en cuadrados. Marina el pescado 15 minutos con el zumo de medio limón, 1 cucharada de aceite, el orégano, sal y pimienta; no más tiempo, porque el limón empezaría a cocinarlo.",
-    "Para la tahinosalata, bate el tahini con el ajo rallado y el zumo de 1 limón: primero se espesará y parecerá cortado. Añade 3–4 cucharadas de agua fría, una a una, hasta tener una crema lisa, clara y fluida. Sálala.",
+    "Mientras se marina, prepara la tahinosalata: bate el tahini con el ajo rallado y el zumo de 1 limón: primero se espesará y parecerá cortado. Añade 3–4 cucharadas de agua fría, una a una, hasta tener una crema lisa, clara y fluida. Sálala.",
     "Pica muy fino el perejil y la menta, corta el tomate y el pepino en dados pequeños y la cebolleta en rodajas. Mézclalos con el bulgur, el resto del aceite y el zumo del medio limón que queda; prueba de sal.",
     "Ensarta el pez espada alternando con el pimiento en 4 brochetas. Hazlas en la plancha muy caliente 6–7 minutos en total, girándolas, hasta que estén doradas por fuera y el centro acabe de volverse opaco.",
     "Sirve el bulgur con las brochetas encima y la tahinosalata por encima o al lado."

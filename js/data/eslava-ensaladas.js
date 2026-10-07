@@ -130,9 +130,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca los hígados con papel de cocina, córtalos por la mitad y retira cualquier nervio o resto verdoso.",
     "Ralla la zanahoria con el rallador grueso y corta la cebolla en medias lunas finas.",
-    "Calienta 1 cucharada de aceite en una sartén a fuego medio y rehoga la cebolla 6 minutos, hasta que esté transparente y empiece a dorarse. Añade la zanahoria y cocina 6 minutos más, hasta que esté tierna. Sala y pásalo a un bol.",
+    "Calienta 1 cucharada de aceite en una sartén a fuego medio y rehoga la cebolla 6 minutos, hasta que esté transparente y empiece a dorarse. Añade la zanahoria y cocina 6 minutos más, hasta que esté tierna. Sala y pásalo a un bol. Mientras se rehoga, corta los pepinillos en tiras finas, ralla el ajo y pica el eneldo.",
     "Sube el fuego al máximo, añade el resto del aceite y coloca los hígados en una sola capa. Dóralos 2 minutos sin moverlos, dales la vuelta y cocínalos 2–3 minutos más: deben quedar tostados por fuera y hechos por dentro, sin rastro rosado, pero aún jugosos. Salpimienta al final, déjalos templar 5 minutos y córtalos en tiras.",
-    "Corta los pepinillos en tiras finas. Mezcla la nata agria con el ajo rallado, la mitad del eneldo picado, sal y pimienta.",
+    "Mientras se templan, mezcla la nata agria con el ajo, la mitad del eneldo, sal y pimienta.",
     "Junta en el bol los hígados templados, la verdura, los pepinillos y la salsa, y mezcla con cuidado para no romper el hígado.",
     "Tuesta el pan de centeno y sirve la ensalada templada con el resto del eneldo por encima."
   ],
@@ -224,7 +224,7 @@ window.RECETAS_SEED.push({
     "Corta la cebolla en aros finos, el pimiento en tiras y la guindilla en rodajas (sin semillas si la quieres suave).",
     "En un tarro de cristal limpio de 1 litro alterna capas de cebolla, pimiento y guindilla con los quesos, el laurel, la pimienta de Jamaica y unos granos de pimienta negra. Cubre por completo con el aceite de girasol: nada debe quedar al aire.",
     "Cierra el tarro y guárdalo en la nevera al menos 2 días (aguanta hasta una semana). Sácalo 1 hora antes de comer para que el queso se atempere y quede cremoso.",
-    "Prepara la ensalada: lechuga en tiras, tomate en gajos y pepino en rodajas, aliñados con el vinagre, sal y 2 cucharadas del aceite aromatizado del tarro.",
+    "Mientras el queso se atempera, prepara la ensalada: corta la lechuga en tiras, el tomate en gajos y el pepino en rodajas, y alíñalos con el vinagre, sal y 2 cucharadas del aceite aromatizado del tarro.",
     "Tuesta el pan de centeno. Sirve cada queso sobre la ensalada con su cebolla y su pimiento escurridos, y moja el pan en el aceite del queso."
   ],
   nutricion: { kcal: 765, prot: 33, hc: 44, grasa: 51 },
@@ -353,11 +353,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C con calor arriba y abajo. Pon los pimientos enteros en una bandeja forrada con papel y ásalos en la parte alta del horno 30–35 minutos, dándoles la vuelta a mitad, hasta que la piel esté ampollada y negra en algunas zonas y la carne blanda.",
-    "Mientras, prepara la proja: mezcla en un bol la harina de maíz, la levadura y una pizca de sal. Añade el huevo batido, el yogur, 1 cucharada de aceite y el agua, y remueve hasta tener una masa espesa, como la de un bizcocho. Incorpora un tercio del queso desmenuzado.",
+    "Mientras, prepara la proja: bate el huevo y desmenuza el queso. Mezcla en un bol la harina de maíz, la levadura y una pizca de sal. Añade el huevo, el yogur, 1 cucharada de aceite y el agua, y remueve hasta tener una masa espesa, como la de un bizcocho. Incorpora un tercio del queso.",
     "Vierte la masa en un molde pequeño (unos 20 x 15 cm) untado con aceite y hornéala en la parte baja del horno, debajo de los pimientos, 25 minutos, hasta que esté dorada por encima y un palillo salga limpio.",
-    "Saca los pimientos, mételos en un bol, tápalo con un plato y déjalos sudar 10 minutos: así la piel se suelta sola. Mientras, pica el perejil.",
+    "Saca los pimientos, mételos en un bol, tápalo con un plato y déjalos sudar 10 minutos: así la piel se suelta sola. Mientras, pica el perejil y machaca el ajo con una pizca de sal; mézclalo con el vinagre, el resto del aceite y pimienta.",
     "Pela los pimientos y quítales las semillas sin pasarlos por el grifo, para no perder sabor. Córtalos en tiras anchas y guarda el jugo que suelten.",
-    "Machaca el ajo con una pizca de sal y mézclalo con el vinagre, el resto del aceite, el jugo de los pimientos y pimienta. Riega los pimientos con este aliño, añade el perejil picado y deja reposar 10 minutos.",
+    "Añade al aliño el jugo de los pimientos y riégalos con él. Añade el perejil picado y deja reposar 10 minutos.",
     "Sirve los pimientos con el resto del queso desmenuzado por encima, una cucharada de kajmak y la proja templada cortada en cuadrados."
   ],
   nutricion: { kcal: 815, prot: 23, hc: 73, grasa: 48 },
@@ -768,9 +768,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas en dados de 2 cm y la zanahoria en dados de 1,5 cm, mézclalas en la bandeja con la mitad del aceite y sal, y hornéalas 15 minutos.",
     "Frota el pavo con el resto del aceite, el pimentón, sal y pimienta. Remueve las patatas, coloca el pavo en el centro de la bandeja y hornea 18–20 minutos más, hasta que la verdura esté dorada y el pavo suelte jugos claros al pincharlo. Déjalo reposar 5 minutos tapado con papel de aluminio.",
-    "Mientras, cuece los huevos 10 minutos y, en los 3 últimos, echa los guisantes al mismo cazo. Escurre, enfría los huevos en agua fría y pélalos.",
-    "Prepara la salsa: mezcla la nata agria con la mayonesa, la mostaza, 1 cucharada del líquido de los pepinillos, la mitad del eneldo picado, sal y pimienta.",
-    "Corta los pepinillos en dados, la cebolleta en rodajas finas, los huevos en cuartos y el pavo en lonchas.",
+    "Mientras, cuece los huevos 10 minutos y, en los 3 últimos, echa los guisantes al mismo cazo. Escurre, enfría los huevos en agua fría y pélalos. Mientras se cuecen, pica el eneldo, corta los pepinillos en dados y la cebolleta en rodajas finas.",
+    "Prepara la salsa: mezcla la nata agria con la mayonesa, la mostaza, 1 cucharada del líquido de los pepinillos, la mitad del eneldo, sal y pimienta.",
+    "Corta los huevos en cuartos y el pavo en lonchas.",
     "Mezcla en un bol las patatas y la zanahoria templadas con los guisantes, los pepinillos, la cebolleta y la mitad de la salsa. Reparte en platos, coloca encima el pavo y el huevo y termina con el resto de la salsa y del eneldo."
   ],
   nutricion: { kcal: 630, prot: 47, hc: 45, grasa: 29 },
@@ -810,9 +810,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos; mientras, lleva a ebullición una cazuela de agua con sal, corta las judías verdes en trozos de 4 cm y la coliflor en ramilletes pequeños. Enfría los huevos en agua fría, pélalos y pícalos fino.",
-    "Cuece las judías verdes y la coliflor en el agua hirviendo 5–6 minutos: deben quedar tiernas pero firmes. Escúrrelas y pásalas un instante por agua fría para fijar el color.",
+    "Cuece las judías verdes y la coliflor en el agua hirviendo 5–6 minutos: deben quedar tiernas pero firmes. Mientras, pica el eneldo y ralla la piel del limón. Escurre las verduras y pásalas un instante por agua fría para fijar el color.",
     "Seca el bacalao y sálalo. Calienta el aceite en una sartén a fuego medio-alto y dóralo 4 minutos por el lado de la piel y 2–3 por el otro, hasta que se separe en lascas nacaradas. Sácalo a un plato.",
-    "Limpia la sartén y derrite la mantequilla a fuego medio hasta que haga espuma. Añade el pan rallado y tuéstalo 2–3 minutos, removiendo sin parar, hasta que tenga color avellana y huela a tostado. Fuera del fuego, mezcla con el huevo picado, la mitad del eneldo picado, la ralladura del limón y una pizca de sal.",
+    "Limpia la sartén y derrite la mantequilla a fuego medio hasta que haga espuma. Añade el pan rallado y tuéstalo 2–3 minutos, removiendo sin parar, hasta que tenga color avellana y huela a tostado. Fuera del fuego, mezcla con el huevo picado, la mitad del eneldo, la ralladura del limón y una pizca de sal.",
     "Lamina los rábanos y aliña las verduras templadas con el zumo de medio limón, sal y pimienta.",
     "Reparte las verduras en los platos, coloca encima el bacalao en lascas grandes y cúbrelo con las migas a la polonesa. Termina con el resto del eneldo y el otro medio limón en gajos."
   ],
@@ -856,10 +856,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la cebolla morada en aros finos y ponla en un cuenco con 2 cucharadas de vinagre, el azúcar y una pizca de sal. Déjala 15 minutos: se vuelve rosa intenso y pierde el picor.",
-    "Corta las patatas con piel en gajos, sécalas y mézclalas con 1 cucharada de aceite, sal y pimienta. Cocínalas en la airfryer a 200 °C 18–20 minutos, agitando la cesta cada 6 minutos, hasta que estén doradas y crujientes.",
+    "Mientras, pica el eneldo y corta las patatas con piel en gajos, sécalas y mézclalas con 1 cucharada de aceite, sal y pimienta. Cocínalas en la airfryer a 200 °C 18–20 minutos, agitando la cesta cada 6 minutos, hasta que estén doradas y crujientes.",
     "Mientras, trocea las setas y pica el ajo. Calienta una sartén a fuego fuerte con el resto del aceite y la mantequilla y añade las setas. Déjalas 3 minutos sin tocar y luego saltéalas 3–4 minutos más, hasta que estén doradas y sin agua. Añade el ajo el último minuto y sala.",
-    "Mezcla la nata agria con la mitad del eneldo picado, 1 cucharada del líquido de la cebolla encurtida, sal y pimienta. Corta los pepinillos en rodajas.",
-    "Calienta agua en un cazo hasta que apenas tiemble y añade el resto del vinagre. Casca cada huevo en una taza, haz un remolino en el agua y deslízalo en el centro. Cuécelo 3 minutos, hasta que la clara esté cuajada y la yema líquida, y sácalo con una espumadera a papel de cocina. Hazlos de dos en dos.",
+    "Pon a calentar agua en un cazo para los huevos. Mientras, mezcla la nata agria con la mitad del eneldo, 1 cucharada del líquido de la cebolla encurtida, sal y pimienta, y corta los pepinillos en rodajas.",
+    "Cuando el agua apenas tiemble, añade el resto del vinagre. Casca cada huevo en una taza, haz un remolino en el agua y deslízalo en el centro. Cuécelo 3 minutos, hasta que la clara esté cuajada y la yema líquida, y sácalo con una espumadera a papel de cocina. Hazlos de dos en dos.",
     "Monta los boles con los canónigos, las patatas, las setas, los pepinillos y la cebolla escurrida. Pon encima dos huevos por bol, la salsa y el resto del eneldo."
   ],
   nutricion: { kcal: 570, prot: 21, hc: 45, grasa: 34 },
@@ -901,8 +901,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla media cebolla y mézclala con el ajo machacado, 1 cucharada de aceite, el pimentón y pimienta, sin sal. Embadurna los filetes y déjalos en la nevera 1 hora (o toda la noche).",
-    "Calienta la plancha a fuego fuerte y asa los pimientos verdes enteros 8–10 minutos, girándolos, hasta que tengan la piel ampollada. Déjalos tapados y córtalos en tiras.",
+    "Machaca el ajo y ralla media cebolla; mézclalos con 1 cucharada de aceite, el pimentón y pimienta, sin sal. Embadurna los filetes y déjalos en la nevera 1 hora (o toda la noche).",
+    "Calienta la plancha a fuego fuerte y asa los pimientos verdes enteros 8–10 minutos, girándolos, hasta que tengan la piel ampollada; mientras, pica el perejil. Deja los pimientos tapados y córtalos en tiras.",
     "Corta la otra media cebolla en pluma fina, frótala con una pizca de sal y mézclala con el perejil picado, como se sirve en las ćevabdžinicas.",
     "Corta los tomates en gajos, el pepino en rodajas y la lechuga en tiras. Alíñalos con el vinagre, el resto del aceite y sal, y añade los pimientos.",
     "Retira la cebolla rallada de los filetes y ásalos en la plancha muy caliente 1,5–2 minutos por lado. Sálalos, déjalos reposar 2 minutos y córtalos en tiras.",

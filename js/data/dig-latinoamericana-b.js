@@ -449,10 +449,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la yuca, córtala en trozos de 5 cm, ábrelos a lo largo y quítales la hebra fibrosa del centro. Cuécela en agua con sal y el laurel 20-25 minutos, hasta que esté tierna y algo translúcida. Pela la patata, córtala en trozos y cuécela aparte 15 minutos.",
-    "Cuece los huevos 10 minutos, enfríalos en agua fría, pélalos y córtalos en cuartos.",
-    "Pon el bacalao en un cazo con agua fría, llévalo a punto de hervor y apágalo en cuanto aparezcan las primeras burbujas; déjalo 5 minutos en el agua. Escúrrelo, quítale piel y espinas y desmígalo en lascas grandes.",
-    "En un bol, bate el aceite con el vinagre, pimienta y una pizca de sal (el bacalao ya es salado). Añade el tomate en gajos sin semillas y la cebolleta en aros finos, y deja que se maceren 5 minutos. Mientras, pica el cilantro.",
-    "Corta la yuca y la patata templadas en rodajas gruesas y repártelas en los platos. Coloca encima el bacalao, los huevos y las aceitunas en rodajas.",
+    "Mientras, cuece los huevos 10 minutos, enfríalos en agua fría, pélalos y córtalos en cuartos.",
+    "Pon el bacalao en un cazo con agua fría, llévalo a punto de hervor y apágalo en cuanto aparezcan las primeras burbujas; déjalo 5 minutos en el agua. Mientras, corta el tomate en gajos sin semillas, la cebolleta en aros finos y las aceitunas en rodajas, y pica el cilantro. Escurre el bacalao, quítale piel y espinas y desmígalo en lascas grandes.",
+    "En un bol, bate el aceite con el vinagre, pimienta y una pizca de sal (el bacalao ya es salado). Añade el tomate y la cebolleta y deja que se maceren 5 minutos.",
+    "Corta la yuca y la patata templadas en rodajas gruesas y repártelas en los platos. Coloca encima el bacalao, los huevos y las aceitunas.",
     "Vierte por encima el tomate con todo su aliño, termina con el cilantro y sirve templado o a temperatura ambiente."
   ],
   nutricion: { kcal: 600, prot: 34, hc: 70, grasa: 20 },
@@ -538,12 +538,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela el boniato, córtalo en dados de 1,5 cm, mézclalo con el pimentón, una pizca de sal y 1 cucharadita del aceite, y ásalo 20 minutos, hasta que esté tierno y dorado por los bordes.",
-    "Cuece los huevos 9 minutos, enfríalos en agua fría, pélalos y córtalos en cuartos.",
+    "Mientras se asa, cuece los huevos 9 minutos; entretanto, corta la cebolleta en aros y pica groseramente los cacahuetes. Enfría los huevos en agua fría, pélalos y córtalos en cuartos.",
     "Quita el nervio central a las hojas de kale, enróllalas como un puro y córtalas en hebras muy finas, de 2-3 mm, como se hace en Brasil. Escáldalas 30 segundos en agua hirviendo con sal y pásalas a agua con hielo; escúrrelas y sécalas bien.",
     "Calienta la plancha a fuego fuerte y marca las rodajas de piña sin aceite, 2 minutos por cada lado, hasta que tengan rayas tostadas. Córtalas en trozos.",
     "Pela las naranjas a lo vivo con un cuchillo, quitando toda la piel blanca, y saca los gajos. Exprime sobre un bol el jugo que quede en las membranas, añade el zumo de la lima, el resto del aceite, sal y pimienta, y bate.",
-    "Mezcla el kale con la mitad del aliño y masajéalo 1 minuto con las manos. Añade el boniato, la piña, los gajos de naranja y la cebolleta en aros, y reparte en platos.",
-    "Coloca encima los huevos, pica los cacahuetes groseramente, espárcelos por encima y riega con el resto del aliño."
+    "Mezcla el kale con la mitad del aliño y masajéalo 1 minuto con las manos. Añade el boniato, la piña, los gajos de naranja y la cebolleta, y reparte en platos.",
+    "Coloca encima los huevos, esparce los cacahuetes y riega con el resto del aliño."
   ],
   nutricion: { kcal: 465, prot: 19, hc: 46, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "económica", "verano"],
@@ -633,8 +633,8 @@ window.RECETAS_SEED.push({
     "Calienta el aceite de oliva en una cazuela a fuego fuerte y dora la carne en dos tandas, 3-4 minutos cada una, sin moverla al principio, hasta que tenga una costra marrón por varias caras. Sácala a un plato.",
     "Baja el fuego a medio, añade el aceite de ajo y la mitad de la cebolleta y rehoga 1 minuto, rascando el fondo dorado de la carne.",
     "Añade el arroz y remueve 1 minuto para nacararlo. Incorpora el tomate, el pimentón, el comino y el laurel y cocina 3 minutos, hasta que el tomate se deshaga.",
-    "Devuelve la carne con su jugo, vierte 330 ml de agua caliente, prueba de sal y lleva a ebullición. Tapa y cuece 15 minutos a fuego mínimo, hasta que el agua se haya absorbido y aparezcan pequeños cráteres en la superficie.",
-    "Apaga, deja reposar 5 minutos tapado y mezcla con el resto de la cebolleta y el perejil. Sirve con la lechuga en tiras aliñada con el zumo de la lima y sal."
+    "Devuelve la carne con su jugo, vierte 330 ml de agua caliente, prueba de sal y lleva a ebullición. Tapa y cuece 15 minutos a fuego mínimo, hasta que el agua se haya absorbido y aparezcan pequeños cráteres en la superficie. Mientras, corta la lechuga en tiras.",
+    "Apaga, deja reposar 5 minutos tapado y mezcla con el resto de la cebolleta y el perejil. Sirve con la lechuga aliñada con el zumo de la lima y sal."
   ],
   nutricion: { kcal: 530, prot: 32, hc: 65, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "una sola sartén", "alta en proteína"],
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la yuca, córtala en trozos, ábrelos a lo largo y quita la hebra fibrosa del centro. Cuécela en agua con sal 25-30 minutos, hasta que esté muy tierna y empiece a abrirse. Escúrrela bien y déjala humear 5 minutos para que pierda agua.",
-    "Mientras, prepara el tuco: calienta el aceite de ajo en una cazuela a fuego bajo, rehoga la cebolleta picada 1 minuto y añade el tomate, el orégano, el laurel, el azúcar y sal. Cuece 25 minutos a fuego mínimo, semitapado, hasta que espese y el aceite asome en la superficie.",
+    "Mientras, pica la cebolleta y prepara el tuco: calienta el aceite de ajo en una cazuela a fuego bajo, rehoga la cebolleta 1 minuto y añade el tomate, el orégano, el laurel, el azúcar y sal. Cuece 25 minutos a fuego mínimo, semitapado, hasta que espese y el aceite asome en la superficie.",
     "Pasa la yuca todavía caliente por un pasapurés o aplástala muy bien con un tenedor, descartando cualquier hebra. Déjala templar hasta que puedas tocarla y, mientras, pon a hervir una olla con abundante agua y sal.",
     "Añade el huevo, 40 g de parmesano rallado, la nuez moscada y el almidón poco a poco, amasando con las manos solo hasta tener una masa suave que no se pegue. No la trabajes de más o los ñoquis quedarán duros.",
     "Divide la masa en 4 partes, haz cilindros de 2 cm de grosor sobre la mesa espolvoreada con almidón y córtalos en trozos de 2 cm. Si quieres las rayas clásicas, pásalos por el dorso de un tenedor.",
@@ -808,10 +808,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Tritura los tomates con la zanahoria pelada y troceada hasta tener un puré fino, y pásalo por un colador apretando con una cuchara para quitar pieles y semillas. Pica la cebolleta y el perejil.",
+    "Pela y trocea la zanahoria y tritúrala con los tomates hasta tener un puré fino; pásalo por un colador apretando con una cuchara para quitar pieles y semillas. Pica la cebolleta y el perejil.",
     "Pon a hervir agua abundante con sal para la pasta. Corta el pavo en dados de 2 cm y sálalo. Calienta el aceite de oliva en una cazuela a fuego medio-alto y dóralo 3-4 minutos, hasta que esté marcado por fuera. Sácalo.",
     "Baja el fuego, añade el aceite de ajo y la cebolleta y rehoga 1 minuto. Aparta del fuego, añade el pimentón, el orégano y el comino y remueve 20 segundos.",
-    "Vierte el puré de tomate y zanahoria y el laurel, sala y cuece 12 minutos a fuego medio-bajo, hasta que la salsa espese y tome un rojo oscuro. Devuelve el pavo y cuece 5 minutos más, hasta que esté hecho por dentro.",
+    "Vierte el puré de tomate y zanahoria y el laurel, sala y cuece 12 minutos a fuego medio-bajo, hasta que la salsa espese y tome un rojo oscuro; mientras, ralla el parmesano. Devuelve el pavo y cuece 5 minutos más, hasta que esté hecho por dentro.",
     "Mientras, cuece los espaguetis en el agua hirviendo el tiempo que indique el envase menos 1 minuto. Remueve los primeros minutos: la pasta sin gluten tiende a pegarse.",
     "Escúrrelos reservando un vaso del agua y pásalos a la cazuela. Mezcla 1 minuto a fuego suave con un chorrito del agua de cocción, hasta que la salsa los envuelva. Retira el laurel y sirve con el parmesano rallado y el perejil."
   ],
@@ -893,9 +893,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en trozos irregulares de 3 cm. Corta la cebolleta en aros finos.",
     "Calienta el aceite de ajo en una cazuela a fuego medio-bajo y rehoga la mitad de la cebolleta 1 minuto. Añade el achiote y el comino y remueve 20 segundos, hasta que el aceite se tiña de naranja.",
-    "Incorpora las patatas, remuévelas 2 minutos para que se impregnen del aceite rojo y cúbrelas con el agua. Sala, lleva a ebullición y cuece 20-25 minutos a fuego medio, hasta que las patatas estén muy tiernas y algunas empiecen a deshacerse. Mientras, pica el cilantro.",
+    "Incorpora las patatas, remuévelas 2 minutos para que se impregnen del aceite rojo y cúbrelas con el agua. Sala, lleva a ebullición y cuece 20-25 minutos a fuego medio, hasta que las patatas estén muy tiernas y algunas empiecen a deshacerse. Mientras, pica el cilantro y corta el queso en dados.",
     "Aplasta una parte de las patatas contra las paredes de la cazuela con un cucharón o un pasapurés de mano, dejando la otra parte en trozos: así espesa el locro sin harina.",
-    "Baja el fuego al mínimo y añade la leche. Calienta sin que llegue a hervir, 3 minutos, removiendo. Incorpora el queso en dados, apaga y deja reposar 1 minuto para que se ablande.",
+    "Baja el fuego al mínimo y añade la leche. Calienta sin que llegue a hervir, 3 minutos, removiendo. Incorpora el queso, apaga y deja reposar 1 minuto para que se ablande.",
     "Sirve en platos hondos con el resto de la cebolleta y el cilantro por encima."
   ],
   nutricion: { kcal: 485, prot: 17, hc: 66, grasa: 17 },

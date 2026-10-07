@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una cazuela a fuego medio y rehoga la cebolla 7 minutos, hasta que esté blanda y transparente. Añade el ajo y remueve 1 minuto, sin que llegue a dorarse.",
     "Incorpora el tomate concentrado y remueve 1 minuto, hasta que se oscurezca un poco y huela a tostado. Añade el tomate rallado, la pizca de azúcar (corrige la acidez), la mitad del orégano y un poco de sal, y cuece 10 minutos a fuego medio, hasta que el tomate pierda el agua y tome un rojo más intenso.",
     "Vierte el caldo caliente y deja hervir 5 minutos. Tritura la sopa con la batidora hasta que quede fina: así se sirve en muchas casas griegas, lisa y con el orzo flotando.",
-    "Vuelve a llevarla a ebullición, añade el orzo y cuécelo 9–10 minutos a fuego medio, removiendo cada poco desde el fondo para que no se pegue, hasta que esté tierno pero entero. La sopa espesará: si queda demasiado densa, añade un poco de agua caliente.",
+    "Vuelve a llevarla a ebullición, añade el orzo y cuécelo 9–10 minutos a fuego medio, removiendo cada poco desde el fondo para que no se pegue, hasta que esté tierno pero entero; mientras, desmiga la feta. La sopa espesará: si queda demasiado densa, añade un poco de agua caliente.",
     "Prueba y ajusta de sal con cuidado, porque la feta es salada. Apaga el fuego y deja reposar 2 minutos.",
     "Sirve en cuencos con la feta desmigada por encima, el resto del orégano frotado entre los dedos y pimienta negra recién molida. La feta se ablanda con el calor y se funde en la sopa al removerla."
   ],
@@ -311,7 +311,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la carne en una olla con el agua fría y llévala a ebullición a fuego medio-alto. Durante 5–10 minutos, retira con una espumadera la espuma gris hasta que salga limpia: así el caldo quedará claro.",
-    "Añade la cebolla entera pelada, el laurel, la pimienta en grano y sal. Tapa a medias y cuece a fuego suave 1 hora y 30 minutos, hasta que un cuchillo entre en la carne con poca resistencia.",
+    "Pela la cebolla y añádela entera junto con el laurel, la pimienta en grano y sal. Tapa a medias y cuece a fuego suave 1 hora y 30 minutos, hasta que un cuchillo entre en la carne con poca resistencia.",
     "Mientras, pela las zanahorias y córtalas en trozos de 5 cm; corta el apio en bastones, las patatas peladas en mitades y el calabacín en trozos de 5 cm. Pica el perejil.",
     "Añade a la olla las zanahorias, el apio y las patatas y cuece 20 minutos. Incorpora el calabacín y cuece 10 minutos más, hasta que todo esté tierno pero entero y la carne se deshaga al apretarla con un tenedor.",
     "Saca la carne y las verduras a una fuente, tápalas con papel de aluminio y desecha la cebolla y el laurel. Cuela el caldo (debería quedarte alrededor de 1 litro), devuélvelo al fuego, añade el arroz y cuécelo 15–17 minutos, hasta que esté tierno.",
@@ -357,7 +357,7 @@ window.RECETAS_SEED.push({
     "Con guantes, lava las ortigas en agua fría y quédate con las hojas y las puntas tiernas; desecha los tallos duros. Escáldalas 1 minuto en agua hirviendo: pierden el picor al instante. Escúrrelas, pícalas groseramente y trocea también las espinacas.",
     "Pica finos el puerro y las cebolletas; pela la patata y córtala en dados de 1 cm. Pica el eneldo.",
     "Calienta el aceite en una cazuela a fuego medio y rehoga el puerro y la cebolleta 6 minutos, hasta que estén blandos y sin color.",
-    "Añade la patata y el arroz y remueve 1 minuto para que se impregnen de aceite. Vierte el caldo caliente, sala y cuece 12 minutos a fuego medio.",
+    "Añade la patata y el arroz y remueve 1 minuto para que se impregnen de aceite. Vierte el caldo caliente, sala y cuece 12 minutos a fuego medio. Mientras, desmiga la feta y corta medio limón en gajos.",
     "Incorpora las ortigas, las espinacas y la mitad del eneldo picado y cuece 6–8 minutos, hasta que el arroz esté tierno y las hojas tengan un verde intenso.",
     "Aplasta unos cuantos dados de patata contra la pared de la cazuela con el cucharón para dar cuerpo al caldo. Apaga el fuego y añade el zumo de medio limón, pimienta y el resto del eneldo.",
     "Sirve con la feta desmigada por encima y el otro medio limón en gajos."
@@ -676,9 +676,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Corta las berenjenas en dados de 2 cm, mézclalas en una bandeja con el aceite y sal y ásalas 25 minutos, removiendo a mitad, hasta que estén doradas y blandas.",
     "Mientras se asan, pica la cebolla y el ajo y corta la patata en dados de 1,5 cm. Dora el cordero picado en una cazuela sin aceite a fuego fuerte 6 minutos, deshaciéndolo con la cuchara, hasta que suelte la grasa y se tueste. Retira casi toda la grasa y deja solo una cucharada.",
     "Añade la cebolla picada y la patata en dados de 1,5 cm y rehoga 5 minutos. Incorpora el ajo picado y la canela y remueve 1 minuto.",
-    "Añade el tomate concentrado, remueve 1 minuto y vierte el vino; deja que hierva 2 minutos. Agrega el tomate triturado y el caldo, salpimienta y cuece tapado 20 minutos, hasta que la patata esté tierna.",
+    "Añade el tomate concentrado, remueve 1 minuto y vierte el vino; deja que hierva 2 minutos. Agrega el tomate triturado y el caldo, salpimienta y cuece tapado 20 minutos, hasta que la patata esté tierna. Mientras, ralla el kefalotyri y, en un bol, bate el yogur con el huevo, la mitad del queso y la nuez moscada.",
     "Incorpora la berenjena asada y cuece 5 minutos más; aplasta parte de ella contra la pared de la cazuela para espesar la sopa.",
-    "En un bol, bate el yogur con el huevo, la mitad del kefalotyri rallado y la nuez moscada.",
     "Enciende el grill del horno. Reparte la sopa en dos cuencos aptos para horno, cúbrela con la crema de yogur, espolvorea el resto del queso y gratina 4–5 minutos cerca del grill, hasta que la superficie esté dorada a manchas."
   ],
   nutricion: { kcal: 720, prot: 38, hc: 50, grasa: 40 },
@@ -720,7 +719,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Para las albóndigas, ralla media cebolla y un diente de ajo sobre un bol. Añade el cerdo, 30 g del arroz crudo, la mitad del eneldo picado, 1 cucharadita de pimentón, sal y pimienta. Amasa 1 minuto y forma unas 16 bolitas de 3 cm con las manos mojadas. Resérvalas en la nevera.",
+    "Pica el eneldo. Para las albóndigas, ralla media cebolla y un diente de ajo sobre un bol. Añade el cerdo, 30 g del arroz crudo, la mitad del eneldo picado, 1 cucharadita de pimentón, sal y pimienta. Amasa 1 minuto y forma unas 16 bolitas de 3 cm con las manos mojadas. Resérvalas en la nevera.",
     "Corta la col en tiras de 1 cm, la zanahoria en medias lunas finas y pica el resto de la cebolla y el otro ajo.",
     "Calienta el aceite en una cazuela a fuego medio y rehoga la cebolla y la zanahoria 5 minutos. Añade el ajo y el resto del pimentón y remueve 30 segundos, sin que se queme; incorpora el tomate triturado y cocina 3 minutos.",
     "Añade la col y remueve 3 minutos, hasta que pierda volumen. Vierte el caldo caliente y el resto del arroz y lleva a ebullición.",

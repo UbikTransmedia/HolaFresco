@@ -522,7 +522,7 @@ window.RECETAS_SEED.push({
     "Limpia las setas con papel de cocina y córtalas en trocitos, como se cortan las asaduras en la magiritsa. Lava la lechuga y córtala en tiras finas. Pica las cebolletas separando la parte blanca de la verde, y el eneldo con sus tallos tiernos. Calienta el caldo.",
     "Calienta el aceite en una olla a fuego fuerte y saltea las setas 6–8 minutos, sin removerlas demasiado, hasta que suelten el agua, la evaporen y queden doradas. Añade la parte blanca de la cebolleta y cocina 3 minutos más a fuego medio.",
     "Incorpora la lechuga y la parte verde de la cebolleta y remueve 2 minutos, hasta que la lechuga se ablande. Vierte el caldo caliente y salpimienta.",
-    "Cuando hierva, añade el arroz lavado y la mitad del eneldo, y cuece a fuego suave 18 minutos, hasta que el arroz esté tierno.",
+    "Cuando hierva, añade el arroz lavado y la mitad del eneldo, y cuece a fuego suave 18 minutos, hasta que el arroz esté tierno. Mientras, exprime los limones.",
     "En un bol, disuelve la maicena en el zumo de los limones y añade 2 cazos de caldo caliente de la olla, poco a poco y batiendo, hasta que quede liso.",
     "Vierte la mezcla en la olla removiendo y cuece 2–3 minutos a fuego suave, hasta que la sopa espese ligeramente y se vuelva opaca y sedosa.",
     "Apaga el fuego, añade el resto del eneldo, prueba de sal y de limón y sirve con pimienta recién molida."
@@ -610,8 +610,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre y enjuaga los garbanzos y sécalos bien con papel de cocina. Corta el tomate en daditos, quítale las semillas y déjalo escurrir en un colador con una pizca de sal. Pica la menta y el perejil.",
-    "Tritura los garbanzos con la cebolla troceada, 1 cda de aceite, el orégano, sal y pimienta a golpes cortos, hasta obtener una masa gruesa en la que se noten trocitos: no debe quedar un puré.",
+    "Escurre y enjuaga los garbanzos y sécalos bien con papel de cocina. Corta el tomate en daditos, quítale las semillas y déjalo escurrir en un colador con una pizca de sal. Pica la menta y el perejil y trocea la cebolla.",
+    "Tritura los garbanzos con la cebolla, 1 cda de aceite, el orégano, sal y pimienta a golpes cortos, hasta obtener una masa gruesa en la que se noten trocitos: no debe quedar un puré.",
     "Pasa la masa a un bol y añade el tomate escurrido, la menta y el perejil picados y la harina de garbanzo. Mezcla con las manos: debe formar una bola que no se pegue; si está húmeda, añade 1 cda más de harina.",
     "Forma 8 tortitas de 1,5 cm de grosor, píntalas por ambas caras con 1 cda de aceite y colócalas en la cesta de la airfryer sin que se toquen; si no caben todas, hazlas en dos tandas.",
     "Cocínalas a 190 °C 12–14 minutos, dándoles la vuelta a mitad, hasta que estén doradas y firmes al tocarlas.",
@@ -658,7 +658,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Quita las hojas grandes de la coliflor, recorta el tronco para que se apoye recta y cuécela entera, boca abajo, en agua hirviendo con sal 8 minutos. Escúrrela muy bien.",
     "Pinta la coliflor con 1 cda de aceite, sal y pimienta, colócala en una fuente honda y ásala 25 minutos, hasta que empiece a dorarse.",
-    "Mientras, prepara la salsa kapama: sofríe en una cazuela la cebolla picada con 2 cda de aceite 8 minutos, hasta que esté dorada. Añade el ajo picado 1 minuto y el tomate concentrado, removiendo 1 minuto más hasta que oscurezca.",
+    "Mientras, pica la cebolla y el ajo y prepara la salsa kapama: sofríe en una cazuela la cebolla con 2 cda de aceite 8 minutos, hasta que esté dorada. Añade el ajo 1 minuto y el tomate concentrado, removiendo 1 minuto más hasta que oscurezca.",
     "Agrega el tomate triturado, la canela, los clavos, sal y 100 ml de agua, y cuece 15 minutos a fuego suave hasta que espese. Retira los clavos y añade los garbanzos escurridos y las aceitunas.",
     "Vierte la salsa alrededor de la coliflor en la fuente, napa la coliflor con un par de cucharadas y hornea 20 minutos más, hasta que esté dorada por arriba, tierna al pincharla en el centro y la salsa burbujee. Mientras, pica el perejil.",
     "Espolvorea el perejil picado y sirve la coliflor en cuñas con la salsa y los garbanzos."
@@ -848,7 +848,7 @@ window.RECETAS_SEED.push({
     "En la misma sartén, calienta 2 cda de aceite a fuego medio y sofríe la cebolla y el pimiento 5 minutos, hasta que estén blandos. Añade el ajo y cocina 1 minuto.",
     "Mientras se hace el sofrito, corta el tofu en dados de 2 cm y mézclalo con la ralladura y el zumo del medio limón, la mitad del orégano y sal: así toma el punto ácido y salado que recuerda al feta.",
     "Si usas ouzo, viértelo en la sartén y deja que se evapore 1 minuto. Añade el tomate triturado, el resto del orégano, sal y pimienta, y cuece 6–8 minutos, hasta que la salsa espese.",
-    "Hunde los dados de tofu con su marinada y las alcaparras en la salsa, tapa y cuece 5 minutos a fuego suave para que el tofu se caliente y tome sabor.",
+    "Hunde los dados de tofu con su marinada y las alcaparras en la salsa, tapa y cuece 5 minutos a fuego suave para que el tofu se caliente y tome sabor. Mientras, pica el perejil.",
     "Riega el pan tostado con la última cucharada de aceite, espolvorea el perejil picado sobre la sartén y sirve en ella misma, con el pan para mojar."
   ],
   nutricion: { kcal: 600, prot: 29, hc: 44, grasa: 34 },

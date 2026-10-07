@@ -302,10 +302,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Escurre el tofu, envuélvelo en papel de cocina, ponle un peso encima 10 minutos y córtalo en 4 lonchas gruesas.",
+    "Precalienta el horno a 200 °C. Escurre el tofu, envuélvelo en papel de cocina, ponle un peso encima 10 minutos y, mientras, lamina el hinojo muy fino, parte los tomates cherry por la mitad y pica el perejil. Corta el tofu en 4 lonchas gruesas.",
     "Mientras, pela la patata, córtala en rodajas de 3 mm y cuécelas 5 minutos en agua con sal: así terminarán tiernas al mismo tiempo que el tofu. Escúrrelas.",
-    "Prepara la marinada: deshaz el azafrán con los dedos en el zumo de media naranja templado, añade el aceite de ajo, 2 tiras de piel de naranja sin la parte blanca, las semillas de hinojo machacadas, sal y pimienta. Unta bien el tofu y déjalo 5 minutos.",
-    "Lamina el hinojo muy fino, parte los tomates cherry por la mitad y pica el perejil.",
+    "Prepara la marinada: machaca las semillas de hinojo en el mortero, deshaz el azafrán con los dedos en el zumo de media naranja templado, añade el aceite de ajo, 2 tiras de piel de naranja sin la parte blanca, las semillas machacadas, sal y pimienta. Unta bien el tofu y déjalo 5 minutos.",
     "Corta dos hojas grandes de papel de horno. En el centro de cada una, pon una cama de patata e hinojo, encima dos lonchas de tofu, los tomates, el tomillo y el resto de la marinada. Rocía con el aceite de oliva, cierra los paquetes doblando los bordes varias veces para que no escape el vapor y colócalos en una bandeja.",
     "Hornea 18-20 minutos: el paquete se hinchará y el hinojo quedará tierno y translúcido.",
     "Sirve los paquetes cerrados y ábrelos en la mesa; termina con perejil picado y unos gajos de la otra media naranja."
@@ -391,10 +390,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tomate en gajos, sálalo y déjalo 10 minutos en un colador sobre un bol para que suelte su jugo.",
+    "Corta el tomate en gajos, sálalo y déjalo 10 minutos en un colador sobre un bol para que suelte su jugo. Mientras, pica la mitad de la menta, corta el pepino en medias lunas y la lechuga en tiras.",
     "Tuesta el pan en una sartén o en la tostadora hasta que esté crujiente. Mezcla el tomate concentrado con 1 cucharadita de aceite, unta las tostadas y córtalas en dados grandes.",
     "Prepara el aliño batiendo el jugo del tomate con el resto del aceite, el vinagre, la mitad de la menta picada, sal y pimienta.",
-    "Corta el pepino en medias lunas y la lechuga en tiras y mézclalos en una fuente con el tomate y el aliño.",
+    "Mezcla el pepino y la lechuga en una fuente con el tomate y el aliño.",
     "Añade el pan justo antes de servir, para que se empape a medias sin ablandarse del todo, y reparte por encima el atún en lascas, las alcaparras, las aceitunas, el feta desmenuzado y el resto de la menta en hojas."
   ],
   nutricion: { kcal: 420, prot: 21, hc: 36, grasa: 20 },
@@ -434,7 +433,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 15-18 minutos, hasta que el cuchillo entre sin resistencia.",
-    "Mientras, pela una naranja a lo vivo y córtala en rodajas; exprime la otra. Mezcla 3 cucharadas del zumo con el vinagre, 1 cucharadita de aceite, las semillas de hinojo machacadas, sal y pimienta.",
+    "Mientras, pela una naranja a lo vivo y córtala en rodajas; exprime la otra. Machaca las semillas de hinojo y mezcla 3 cucharadas del zumo con el vinagre, 1 cucharadita de aceite, las semillas, sal y pimienta.",
     "Corta el pepino en medias lunas finas y pica el cebollino.",
     "Escurre las patatas, pártelas en rodajas gruesas y alíñalas aún calientes con la mitad del aliño: absorben el sabor como una esponja.",
     "Seca bien la caballa, haz dos cortes superficiales en la piel y sálala. Calienta una sartén antiadherente con la otra cucharadita de aceite a fuego medio-alto y cocina los lomos con la piel hacia abajo 3 minutos, presionándolos los primeros segundos para que no se curven. Dales la vuelta y cuenta 1 minuto más.",
@@ -561,12 +560,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Calienta el aceite de ajo en una cazuela a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto.",
+    "Precalienta el horno a 190 °C y pica la parte verde de la cebolleta. Calienta el aceite de ajo en una cazuela a fuego medio y rehoga la cebolleta 1 minuto.",
     "Sube el fuego, añade la carne picada y deshazla con una cuchara de madera 6-8 minutos, hasta que pierda el color rosado y empiece a dorarse.",
     "Incorpora el tomate concentrado y la cúrcuma y remueve 1 minuto para que se tuesten. Añade el tomate triturado, el laurel, sal y pimienta y cuece a fuego suave 10 minutos, hasta tener una salsa espesa.",
     "Añade el arroz, remueve 1 minuto para que se impregne y vierte el caldo caliente. Cuece 8 minutos a fuego medio: el arroz quedará a medio hacer y caldoso. Retira el laurel.",
     "Bate los huevos con dos tercios del parmesano y mézclalos rápidamente con el arroz fuera del fuego; trasvasa a una fuente de horno de unos 20 × 20 cm y espolvorea el resto del parmesano.",
-    "Hornea 25-30 minutos, hasta que el líquido se haya absorbido, el arroz esté tierno y la superficie dorada y algo crujiente en los bordes.",
+    "Hornea 25-30 minutos, hasta que el líquido se haya absorbido, el arroz esté tierno y la superficie dorada y algo crujiente en los bordes. Mientras, pica el perejil.",
     "Deja reposar 10 minutos fuera del horno para que se asiente y corta en porciones. Sirve con perejil picado."
   ],
   nutricion: { kcal: 610, prot: 41, hc: 62, grasa: 22 },
@@ -607,7 +606,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los contramuslos en trozos de 4 cm, sécalos y salpimiéntalos.",
+    "Corta los contramuslos en trozos de 4 cm, sécalos y salpimiéntalos. Pica la cebolleta.",
     "Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora el pollo 6-8 minutos, sin moverlo demasiado, hasta que tenga color por todas partes. Añade la cebolleta picada y remueve 1 minuto.",
     "Incorpora el tomate concentrado y tuéstalo 1 minuto removiendo; después el tomate triturado, el laurel, el clavo (clavado en un trozo de pollo para encontrarlo luego) y la nuez moscada.",
     "Vierte el caldo, lleva a ebullición, tapa y guisa a fuego muy suave 40 minutos, removiendo de vez en cuando, hasta que el pollo esté tan tierno que se deshaga al apretarlo y la salsa haya espesado. Si se seca, añade un chorrito de agua. Mientras, pica el perejil y, hacia el final, pon a hervir abundante agua con sal para la pasta.",

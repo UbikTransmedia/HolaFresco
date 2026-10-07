@@ -489,7 +489,7 @@ window.RECETAS_SEED.push({
     "En la misma sartén, con el resto del aceite, dora la cebolla y la zanahoria 6 minutos. Añade el ajo y el tomate concentrado y remueve 1 minuto, hasta que el tomate oscurezca. Vierte el caldo caliente, raspa bien el fondo y sazona con sal y pimienta.",
     "Reparte en dos cazuelitas de barro (o en una fuente honda con tapa) capas de patata, seitán y la verdura de la sartén, sacada con una espumadera, con una hoja de laurel y 2 granos de pimienta de Jamaica en cada una. Vierte por encima el caldo que queda en la sartén: debe llegar a dos tercios de la altura.",
     "Tapa las cazuelitas con su tapa o con papel de aluminio y hornea 45 minutos, hasta que las patatas estén muy tiernas y hayan absorbido parte del caldo. Destápalas y hornea 10 minutos más para que la superficie se dore.",
-    "Mientras, mezcla el yogur de soja con la mitad del eneldo picado y una pizca de sal. Sirve las cazuelitas muy calientes con una cucharada de esta salsa encima y el resto del eneldo."
+    "Mientras, pica el eneldo y mezcla el yogur de soja con la mitad y una pizca de sal. Sirve las cazuelitas muy calientes con una cucharada de esta salsa encima y el resto del eneldo."
   ],
   nutricion: { kcal: 610, prot: 36, hc: 63, grasa: 24 },
   etiquetas: ["creativa", "al horno", "invierno", "alta en proteína", "batch cooking", "poco especiada", "bajo en colesterol"],
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
     "Mezcla la patata escurrida con ese almidón, la harina, el tofu con la cebolla (reserva 2 cucharadas para el final), una cucharadita de sal y pimienta.",
     "Unta una fuente de horno de unos 20 × 20 cm con el resto del aceite, caliéntala 5 minutos en el horno y vierte la mezcla, alisándola: debe chisporrotear al entrar, y así se forma la costra de abajo.",
     "Hornea 45-50 minutos, hasta que la superficie esté muy dorada y crujiente y el centro esté tierno al pincharlo con un cuchillo.",
-    "Mientras, mezcla el yogur de soja con el eneldo picado, el ajo rallado y una pizca de sal. Deja reposar la babka 5 minutos, córtala en porciones y sírvela con el tofu reservado por encima y la salsa de eneldo."
+    "Mientras, pica el eneldo, ralla el ajo y mézclalos con el yogur de soja y una pizca de sal. Deja reposar la babka 5 minutos, córtala en porciones y sírvela con el tofu reservado por encima y la salsa de eneldo."
   ],
   nutricion: { kcal: 710, prot: 28, hc: 86, grasa: 28 },
   etiquetas: ["creativa", "al horno", "invierno", "para niños", "sin verduras", "poco especiada"],

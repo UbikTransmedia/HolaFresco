@@ -36,9 +36,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Templa la leche hasta que esté tibia al dedo (unos 35 °C) y disuelve en ella la levadura y el azúcar. Espera 5 minutos, hasta que haga espuma: así sabes que la levadura está viva.",
-    "En un bol mezcla la harina con una pizca de sal, 1 huevo batido (reserva una cucharada para pintar), la leche con la levadura y 25 g de mantequilla derretida. Amasa 8–10 minutos, hasta que la masa esté lisa, elástica y no se pegue. Tápala y déjala levar 1 hora en un sitio templado, hasta que doble su volumen.",
+    "Bate 1 huevo en un vaso y reserva una cucharada para pintar. En un bol mezcla la harina con una pizca de sal, el resto del huevo, la leche con la levadura y 25 g de mantequilla derretida. Amasa 8–10 minutos, hasta que la masa esté lisa, elástica y no se pegue. Tápala y déjala levar 1 hora en un sitio templado, hasta que doble su volumen.",
     "Mientras, cuece 2 huevos 10 minutos en una cazuela con agua hirviendo, enfríalos en agua fría, pélalos y pícalos.",
-    "Corta el repollo en tiras finas y pica la cebolla. En una sartén grande rehoga la cebolla con 15 g de mantequilla 5 minutos, añade el repollo con sal y un chorrito de agua, tapa y cocina 15–20 minutos a fuego medio, removiendo, hasta que esté muy tierno y sin líquido. Deja enfriar y mézclalo con el huevo picado, el eneldo picado y pimienta.",
+    "Corta el repollo en tiras finas y pica la cebolla. En una sartén grande rehoga la cebolla con 15 g de mantequilla 5 minutos, añade el repollo con sal y un chorrito de agua, tapa y cocina 15–20 minutos a fuego medio, removiendo, hasta que esté muy tierno y sin líquido; mientras, pica el eneldo. Deja enfriar y mézclalo con el huevo picado, el eneldo y pimienta.",
     "Precalienta el horno a 190 °C. Divide la masa en dos partes, una algo mayor. Estira la grande a 0,5 cm, forra con ella una bandeja o molde de unos 20 cm y extiende el relleno ya frío (si está caliente, la masa se ablanda y se rompe).",
     "Estira la otra parte, tapa la empanada, sella los bordes pellizcándolos y haz un agujero en el centro para que salga el vapor. Deja reposar 15 minutos y pinta con el huevo reservado.",
     "Hornea 30–35 minutos, hasta que esté bien dorada y la base suene hueca al golpearla. Deja reposar 10 minutos antes de cortar."
@@ -78,9 +78,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Bate la harina con la leche, 1 huevo y una pizca de sal hasta que no queden grumos: debe quedar fluida, como nata líquida. Déjala reposar 15 minutos para que los crepes no se rompan.",
-    "Mientras, si el requesón suelta suero, escúrrelo 10 minutos en un colador. Aplástalo con un tenedor y mézclalo con el otro huevo, la cebolleta y casi todo el eneldo picados, sal y pimienta.",
-    "Calienta una sartén de 20–22 cm, úntala con una pizca de mantequilla y vierte un cucharón pequeño de masa girando la sartén para cubrir el fondo. Cuando los bordes se despeguen y estén dorados (1 minuto), dale la vuelta y cocina 30 segundos. Salen 6–8 crepes.",
-    "Precalienta el horno a 190 °C. Pon 2 cucharadas de relleno en el borde de cada crepe, dobla los lados hacia dentro y enrolla formando un paquetito cerrado.",
+    "Mientras, pica la cebolleta y el eneldo. Si el requesón suelta suero, escúrrelo 10 minutos en un colador. Aplástalo con un tenedor y mézclalo con el otro huevo, la cebolleta, casi todo el eneldo, sal y pimienta.",
+    "Precalienta el horno a 190 °C. Calienta una sartén de 20–22 cm, úntala con una pizca de mantequilla y vierte un cucharón pequeño de masa girando la sartén para cubrir el fondo. Cuando los bordes se despeguen y estén dorados (1 minuto), dale la vuelta y cocina 30 segundos. Salen 6–8 crepes.",
+    "Pon 2 cucharadas de relleno en el borde de cada crepe, dobla los lados hacia dentro y enrolla formando un paquetito cerrado.",
     "Unta una fuente con la mantequilla restante, coloca los nalysnyky juntos con la costura hacia abajo y cúbrelos con la nata agria salpimentada.",
     "Hornea 20 minutos, hasta que la nata burbujee y los bordes de los crepes estén dorados. Sirve con el resto del eneldo por encima."
   ],
@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, trocéalas y cuécelas en agua con sal 18–20 minutos, hasta que estén muy tiernas. Escúrrelas bien y déjalas 2 minutos en la cazuela caliente para que se evapore el vapor: el puré tiene que quedar seco.",
-    "Mientras, pica la cebolla y los champiñones. Rehoga la cebolla con la mantequilla en una sartén 5 minutos, añade los champiñones y cocina a fuego vivo 8–10 minutos, hasta que se evapore todo el líquido y estén dorados. Salpimienta, añade la mitad del eneldo picado y deja enfriar.",
+    "Mientras, pica la cebolla, los champiñones y el eneldo. Rehoga la cebolla con la mantequilla en una sartén 5 minutos, añade los champiñones y cocina a fuego vivo 8–10 minutos, hasta que se evapore todo el líquido y estén dorados. Salpimienta, añade la mitad del eneldo y deja enfriar.",
     "Aplasta las patatas hasta obtener un puré sin grumos, sin leche ni mantequilla, y deja que se temple. Añade el huevo, 30 g de harina y sal y mezcla hasta tener una masa que no se pegue a las manos húmedas.",
     "Divide la masa en 6 porciones. Aplana cada una en la palma mojada formando un disco, pon una cucharada de setas en el centro, cierra la masa por encima y dale forma de croqueta ovalada y plana.",
     "Pásalas por el resto de la harina. Calienta el aceite en la sartén limpia a fuego medio y dora los zrazy 4 minutos por cada lado, hasta que tengan una costra dorada y crujiente.",
@@ -163,10 +163,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata los boletus en el agua caliente 20 minutos. Escúrrelos reservando el agua, cuélala por un papel de cocina para quitar la tierra y pica las setas.",
-    "Bate la harina con la leche, 1 huevo y una pizca de sal hasta que la masa esté lisa y fluida. Déjala reposar 15 minutos.",
-    "Escurre el chucrut apretándolo con las manos (si es muy ácido, enjuágalo antes) y pícalo. Pica la cebolla y los champiñones. En una sartén con la mantequilla rehoga la cebolla 5 minutos, añade los champiñones y los boletus 5 minutos más y después el chucrut con el agua de las setas. Cocina tapado 20 minutos a fuego suave y destapa al final hasta que no quede líquido. Salpimienta y deja templar.",
-    "Haz 6 crepes finos en una sartén untada con unas gotas de aceite: 1 minuto por el primer lado, hasta que los bordes se despeguen, y 30 segundos por el otro.",
+    "Hidrata los boletus en el agua caliente 20 minutos. Mientras, bate la harina con la leche, 1 huevo y una pizca de sal hasta que la masa esté lisa y fluida, y déjala reposar. Escurre el chucrut apretándolo con las manos (si es muy ácido, enjuágalo antes) y pícalo; pica también la cebolla y los champiñones.",
+    "Escurre los boletus reservando el agua, cuélala por un papel de cocina para quitar la tierra y pica las setas.",
+    "En una sartén con la mantequilla rehoga la cebolla 5 minutos, añade los champiñones y los boletus 5 minutos más y después el chucrut con el agua de las setas. Cocina tapado 20 minutos a fuego suave y destapa al final hasta que no quede líquido. Salpimienta y pásalo a un plato para que se temple.",
+    "Limpia la sartén y haz 6 crepes finos untándola con unas gotas de aceite: 1 minuto por el primer lado, hasta que los bordes se despeguen, y 30 segundos por el otro.",
     "Pon 2 cucharadas de relleno en el tercio inferior de cada crepe, dobla los laterales hacia dentro y enrolla bien apretado, como un rollito de primavera.",
     "Bate el otro huevo en un plato y pon el pan rallado en otro. Pasa cada krokiet por huevo y después por pan rallado, cubriendo bien los extremos.",
     "Calienta el resto del aceite en la sartén a fuego medio y fríe los krokiety 3 minutos por cada lado, hasta que estén dorados y crujientes. Escurre sobre papel de cocina y sirve calientes."
@@ -211,10 +211,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia los boletus con un paño húmedo (no los laves bajo el grifo, se empapan) y córtalos en láminas. Pela la patata y córtala en dados de 1,5 cm.",
     "Derrite la mantequilla en una cazuela y saltea las setas 5 minutos a fuego medio-alto, hasta que se doren y el olor sea intenso. Reserva unas cuantas láminas bonitas para servir.",
-    "Añade la patata, la alcaravea, el laurel y el agua con sal. Cuece 15 minutos a fuego medio, hasta que la patata esté tierna.",
-    "Bate la nata agria con la harina hasta que no tenga grumos, témplala con un cucharón del caldo caliente y viértela en la cazuela removiendo. Cuece 5 minutos a fuego suave, sin que llegue a hervir con fuerza, hasta que la sopa espese ligeramente.",
-    "Apaga el fuego y añade 1 cucharada de vinagre poco a poco, probando: debe quedar cremosa, con un punto ácido y mucho sabor a setas. Ajusta de sal y pimienta y añade el eneldo picado. Retira el laurel.",
-    "Escalfa los huevos en un cazo con agua a punto de hervir y el resto del vinagre: haz un remolino, echa cada huevo en el centro y cuécelo 3 minutos, hasta que la clara cuaje y la yema siga líquida.",
+    "Añade la patata, la alcaravea, el laurel y el agua con sal. Cuece 15 minutos a fuego medio, hasta que la patata esté tierna. Mientras, pica el eneldo.",
+    "Pon a calentar agua en un cazo para escalfar los huevos. Bate la nata agria con la harina hasta que no tenga grumos, témplala con un cucharón del caldo caliente y viértela en la cazuela removiendo. Cuece 5 minutos a fuego suave, sin que llegue a hervir con fuerza, hasta que la sopa espese ligeramente.",
+    "Apaga el fuego y añade 1 cucharada de vinagre poco a poco, probando: debe quedar cremosa, con un punto ácido y mucho sabor a setas. Ajusta de sal y pimienta y añade el eneldo. Retira el laurel.",
+    "Escalfa los huevos en el cazo con el agua a punto de hervir y el resto del vinagre: haz un remolino, echa cada huevo en el centro y cuécelo 3 minutos, hasta que la clara cuaje y la yema siga líquida.",
     "Sirve la sopa en platos hondos con el huevo encima, las setas reservadas y el pan de centeno al lado."
   ],
   nutricion: { kcal: 550, prot: 19, hc: 50, grasa: 30 },
@@ -256,11 +256,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y cuécelas con piel en agua con sal 20–25 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, prepara la salsa tártara: pica muy fino los pepinillos y mézclalos con la mayonesa, el yogur, la mostaza y pimienta. Guárdala en la nevera.",
+    "Mientras, pica el perejil y prepara la salsa tártara: pica muy fino los pepinillos y mézclalos con la mayonesa, el yogur, la mostaza y pimienta. Guárdala en la nevera.",
     "Seca bien los bloques de queso con papel de cocina. No los cortes más finos de 1,5 cm o el queso se saldrá antes de que se dore el empanado.",
     "Prepara tres platos: harina, huevos batidos con una pizca de sal y pan rallado. Pasa cada bloque por harina, huevo y pan rallado, y repite huevo y pan rallado para hacer una doble capa bien sellada, sin huecos.",
     "Calienta el aceite en una sartén honda a 170 °C (un dado de pan se dora en unos 40 segundos). Fríe el queso 1–2 minutos por cada lado, hasta que esté dorado y empiece a ceder al presionarlo. Escúrrelo sobre papel.",
-    "Corta las patatas por la mitad y saltéalas 1 minuto con la mantequilla y el perejil picado. Sirve el queso recién frito con las patatas y la salsa tártara."
+    "Corta las patatas por la mitad y saltéalas 1 minuto con la mantequilla y el perejil. Sirve el queso recién frito con las patatas y la salsa tártara."
   ],
   nutricion: { kcal: 1000, prot: 41, hc: 62, grasa: 65 },
   etiquetas: ["tradicional", "para niños", "frito", "sin verduras", "poco especiada"],
@@ -417,9 +417,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Unta con un poco de mantequilla dos cazuelitas de barro individuales (o una fuente pequeña).",
-    "Corta los tomates en dados y el pimiento en tiras finas. Desmiga el queso en trozos grandes.",
-    "Reparte en cada cazuelita una capa de pimiento, el queso y el tomate. Añade el resto de la mantequilla en trocitos, el chile en rodajas si lo usas y pimienta, sin sal: el queso ya es salado.",
-    "Hornea 10–12 minutos, hasta que el queso empiece a fundirse por los bordes y el tomate suelte su jugo.",
+    "Corta los tomates en dados y el pimiento en tiras finas. Desmiga el queso en trozos grandes y, si usas chile, córtalo en rodajas.",
+    "Reparte en cada cazuelita una capa de pimiento, el queso y el tomate. Añade el resto de la mantequilla en trocitos, el chile si lo usas y pimienta, sin sal: el queso ya es salado.",
+    "Hornea 10–12 minutos, hasta que el queso empiece a fundirse por los bordes y el tomate suelte su jugo. Mientras, pica el perejil.",
     "Saca las cazuelitas, haz un hueco en el centro y casca un huevo en cada una. Hornea 6–8 minutos más, hasta que la clara cuaje y la yema siga blanda.",
     "Espolvorea perejil picado y sirve en la misma cazuelita, muy caliente, con el pan para mojar."
   ],
@@ -460,11 +460,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta la calabaza en dados de 2 cm y la cebolla en gajos, alíñalas con el aceite, sal y pimienta y ásalas en una bandeja 25 minutos, hasta que estén tiernas y con los bordes tostados.",
+    "Precalienta el horno a 200 °C. Corta la calabaza en dados de 2 cm y la cebolla en gajos, alíñalas con el aceite, sal y pimienta y ásalas en una bandeja 25 minutos, hasta que estén tiernas y con los bordes tostados. Mientras, trocea las nueces y bate el huevo.",
     "Aplasta la calabaza y la cebolla asadas con un tenedor y mézclalas con el requesón y la nuez moscada. Deja templar: el relleno debe quedar espeso, no líquido, para que no se salga.",
     "Pon una cucharada colmada de relleno en el centro de cada oblea, pinta el borde con agua, dóblala en media luna y sella pellizcando el borde, como en los pierogi caseros.",
-    "Coloca los pierogi en la bandeja con papel de horno, píntalos con el huevo batido y hornéalos 15–18 minutos, hasta que estén dorados e hinchados.",
-    "Mientras, derrite la mantequilla en una sartén a fuego medio con las hojas de salvia y las nueces troceadas. Cuando deje de espumar y huela a avellana tostada (3–4 minutos), retira del fuego.",
+    "Coloca los pierogi en la bandeja con papel de horno, píntalos con el huevo y hornéalos 15–18 minutos, hasta que estén dorados e hinchados.",
+    "Mientras, derrite la mantequilla en una sartén a fuego medio con las hojas de salvia y las nueces. Cuando deje de espumar y huela a avellana tostada (3–4 minutos), retira del fuego.",
     "Sirve los pierogi recién horneados con la mantequilla de salvia y nueces por encima."
   ],
   nutricion: { kcal: 645, prot: 21, hc: 62, grasa: 35 },
@@ -505,12 +505,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15–18 minutos, hasta que estén muy tiernas. Escúrrelas, déjalas 1 minuto en la cazuela caliente para que se sequen y aplástalas hasta obtener un puré sin grumos. Deja que se temple 10 minutos.",
-    "Mientras, ralla muy fina la remolacha y escúrrela en un colador apretando con una cuchara: cuanto menos jugo tenga, menos harina pedirá la masa.",
+    "Mientras, ralla muy fina la remolacha y escúrrela en un colador apretando con una cuchara: cuanto menos jugo tenga, menos harina pedirá la masa. Corta también el repollo en tiras finas y la cebolla en plumas, y pica el eneldo.",
     "Mezcla el puré templado con la remolacha, el huevo y una pizca de sal. Añade la harina poco a poco y amasa solo hasta tener una masa lisa, rosa y que no se pegue a las manos enharinadas: si la trabajas de más, los kopytka quedan duros.",
     "Pon a calentar una cazuela grande con agua y sal. Divide la masa en 4 partes y forma con cada una un rulo de 2–3 cm de grosor sobre la mesa enharinada. Aplánalos un poco y córtalos en diagonal en rombos de 2 cm.",
-    "Corta el repollo en tiras finas y la cebolla en plumas. Saltéalos en una sartén grande con 10 g de mantequilla a fuego medio-alto 10–12 minutos, hasta que estén tiernos y empiecen a dorarse. Añade la alcaravea, el vinagre, sal y pimienta, y pásalo a un plato.",
+    "Saltea el repollo y la cebolla en una sartén grande con 10 g de mantequilla a fuego medio-alto 10–12 minutos, hasta que estén tiernos y empiecen a dorarse. Añade la alcaravea, el vinagre, sal y pimienta, y pásalo a un plato.",
     "Cuece los kopytka en el agua hirviendo, en dos tandas: cuando suban a la superficie, déjalos 1 minuto más y sácalos con una espumadera.",
-    "En la misma sartén, calienta el resto de la mantequilla hasta que se dore y huela a avellana, añade los kopytka y saltéalos 2–3 minutos. Incorpora la col, mezcla y sirve con el requesón desmigado y el eneldo picado por encima."
+    "En la misma sartén, calienta el resto de la mantequilla hasta que se dore y huela a avellana, añade los kopytka y saltéalos 2–3 minutos. Incorpora la col, mezcla y sirve con el requesón desmigado y el eneldo por encima."
   ],
   nutricion: { kcal: 690, prot: 23, hc: 104, grasa: 20 },
   etiquetas: ["creativa", "para niños", "otoño", "batch cooking", "económica", "poco especiada"],
@@ -600,8 +600,8 @@ window.RECETAS_SEED.push({
     "Pica la cebolleta y rehógala en una cazuela con la mitad de la mantequilla 4 minutos a fuego medio. Añade la cebada y tuéstala 2 minutos, removiendo, hasta que huela a pan tostado.",
     "Agrega un tercio del caldo y cuece a fuego suave unos 30 minutos, removiendo de vez en cuando y añadiendo caldo a medida que se absorba, hasta que la cebada esté tierna pero con un punto firme.",
     "A los 20 minutos añade los tallos de espárrago; a los 25, las puntas y los guisantes.",
-    "Mientras, tuesta las semillas de calabaza en una sartén sin aceite 3 minutos, hasta que se hinchen y empiecen a saltar.",
-    "Fuera del fuego, incorpora el resto de la mantequilla, la nata agria, la mitad del queso ahumado rallado, la ralladura del limón y el eneldo picado. Remueve con energía 1 minuto, hasta que quede cremoso, y ajusta de sal y pimienta.",
+    "Mientras, tuesta las semillas de calabaza en una sartén sin aceite 3 minutos, hasta que se hinchen y empiecen a saltar. Ralla el queso ahumado y la piel del limón y pica el eneldo.",
+    "Fuera del fuego, incorpora el resto de la mantequilla, la nata agria, la mitad del queso, la ralladura del limón y el eneldo. Remueve con energía 1 minuto, hasta que quede cremoso, y ajusta de sal y pimienta.",
     "Sirve con el resto del queso rallado, las semillas tostadas y unas gotas de zumo de limón."
   ],
   nutricion: { kcal: 610, prot: 23, hc: 71, grasa: 25 },
@@ -641,12 +641,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pepino en medias lunas finas y los rábanos en láminas. Mézclalos en un bol con el vinagre, el azúcar, el ajo machacado, media cucharadita de sal y la mitad del eneldo picado. Déjalos marinar al menos 10 minutos mientras haces el resto.",
+    "Machaca el ajo y pica el eneldo y el cebollino. Corta el pepino en medias lunas finas y los rábanos en láminas. Mézclalos en un bol con el vinagre, el azúcar, el ajo, media cucharadita de sal y la mitad del eneldo. Déjalos marinar al menos 10 minutos mientras haces el resto.",
     "Tuesta el pan de centeno 2 minutos en una tostadora o en la sartén, hasta que esté crujiente, y repártelo en los platos.",
     "Bate los huevos con una pizca de sal y pimienta, solo hasta mezclar, sin hacer espuma.",
     "Derrite la mantequilla en una sartén antiadherente a fuego bajo. Añade los huevos y remueve despacio con una espátula, arrastrando desde los bordes hacia el centro, 4–5 minutos: deben cuajar en grumos grandes, brillantes y cremosos.",
     "Retira la sartén del fuego un poco antes de que estén hechos e incorpora la nata agria y el resto del eneldo: el calor residual termina la cocción sin secarlos.",
-    "Reparte los huevos sobre las tostadas, espolvorea cebollino picado y sirve con la ensalada de pepino y rábano escurrida al lado."
+    "Reparte los huevos sobre las tostadas, espolvorea el cebollino y sirve con la ensalada de pepino y rábano escurrida al lado."
   ],
   nutricion: { kcal: 470, prot: 24, hc: 35, grasa: 25 },
   etiquetas: ["creativa", "rápida", "ligera", "alta en proteína", "económica", "poco especiada"],
@@ -681,8 +681,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las espinacas y saltéalas con la cebolleta picada en una sartén con unas gotas de aceite 3–4 minutos, solo hasta que se ablanden. Pásalas a un colador y aprieta con una cuchara hasta que no suelten más agua: es la clave para que la filo no se empape. Pícalas.",
-    "En un bol, mezcla las espinacas con el feta desmigado, el requesón, el huevo batido y pimienta.",
+    "Pica la cebolleta. Lava las espinacas y saltéalas con ella en una sartén con unas gotas de aceite 3–4 minutos, solo hasta que se ablanden. Pásalas a un colador y aprieta con una cuchara hasta que no suelten más agua: es la clave para que la filo no se empape. Pícalas.",
+    "Desmiga el feta y bate el huevo. En un bol, mezcla las espinacas con el feta, el requesón, el huevo y pimienta.",
     "Extiende una lámina de filo, píntala ligeramente con aceite y dóblala por la mitad a lo largo. Reparte una sexta parte del relleno en una tira junto al borde largo y enrolla formando un cilindro fino.",
     "Enrolla el cilindro sobre sí mismo en espiral, como una caracola, sin apretar para que no se rompa. Repite con el resto: salen 6 caracolas.",
     "Pinta las caracolas con el aceite restante y colócalas en la cesta de la airfryer sin que se toquen. Cocínalas a 180 °C 12–14 minutos, hasta que estén muy doradas y crujientes (en dos tandas si no caben).",
@@ -778,10 +778,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Corta la berenjena, el calabacín y el pimiento en dados de 2 cm, la cebolla en gajos y los tomates en trozos. Lamina los ajos.",
     "Pon todas las verduras en una fuente de barro o de horno, alíñalas con el aceite, el pimentón, la ajedrea, sal y pimienta, y mézclalo todo bien con las manos.",
-    "Hornea 30 minutos, removiendo a mitad, hasta que la berenjena esté tierna y las verduras empiecen a tostarse por los bordes.",
+    "Hornea 30 minutos, removiendo a mitad, hasta que la berenjena esté tierna y las verduras empiecen a tostarse por los bordes. Mientras, pica el perejil.",
     "Añade las lentejas escurridas y el agua, mezcla y hornea 10 minutos más, hasta que el conjunto borbotee.",
     "Haz dos huecos, casca un huevo en cada uno y desmiga el feta por encima. Hornea 8–10 minutos, hasta que las claras cuajen y el queso se dore ligeramente.",
-    "Espolvorea perejil picado y sirve en la misma fuente."
+    "Espolvorea el perejil y sirve en la misma fuente."
   ],
   nutricion: { kcal: 585, prot: 28, hc: 49, grasa: 30 },
   etiquetas: ["creativa", "al horno", "verano", "batch cooking", "sin gluten", "económica", "poco especiada"],
@@ -820,8 +820,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ralla el calabacín, sálalo ligeramente y déjalo 10 minutos en un colador; después apriétalo con las manos para sacar toda el agua.",
-    "Mientras, prepara la ensalada: corta los tomates en gajos y la cebolla morada en plumas finas, y alíñalos con sal y 1 cucharada de aceite.",
-    "En un bol aplasta el requesón con un tenedor hasta que no queden grumos grandes. Añade el calabacín escurrido, el huevo, la cebolleta y la mitad del eneldo picados, 40 g de harina, sal y pimienta. Debe quedar una masa blanda pero manejable.",
+    "Mientras, prepara la ensalada: corta los tomates en gajos y la cebolla morada en plumas finas, y alíñalos con sal y 1 cucharada de aceite. Pica la cebolleta y el eneldo.",
+    "En un bol aplasta el requesón con un tenedor hasta que no queden grumos grandes. Añade el calabacín escurrido, el huevo, la cebolleta, la mitad del eneldo, 40 g de harina, sal y pimienta. Debe quedar una masa blanda pero manejable.",
     "Con las manos enharinadas, forma 8 tortitas de 1,5 cm de grosor y pásalas por el resto de la harina.",
     "Calienta el resto del aceite en una sartén a fuego medio y fríe los syrniki 3–4 minutos por cada lado, en dos tandas si no caben, hasta que estén dorados y firmes al tacto. Si se doran demasiado rápido, baja el fuego: el centro tiene que cuajar.",
     "Mezcla la nata agria con el resto del eneldo y una pizca de sal, y sirve los syrniki calientes con la smetana y la ensalada de tomate."
@@ -861,7 +861,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava bien las patatas, sécalas y pínchalas 6–8 veces con un tenedor para que el vapor escape. Ponlas en un plato apto para microondas, sin tapar.",
     "Cocínalas en el microondas a máxima potencia 6 minutos, dales la vuelta y sigue 5–7 minutos más, hasta que un cuchillo entre sin resistencia. Déjalas reposar 2 minutos.",
-    "Mientras, prepara el twarożek: aplasta el requesón con la nata agria, sal y pimienta hasta que esté cremoso pero con grumos. Añade los rábanos y el pepino en dados pequeños y casi todo el cebollino picado.",
+    "Mientras, corta los rábanos y el pepino en dados pequeños y pica el cebollino. Prepara el twarożek: aplasta el requesón con la nata agria, sal y pimienta hasta que esté cremoso pero con grumos. Añade los rábanos, el pepino y casi todo el cebollino.",
     "Corta las patatas en cruz por arriba y apriétalas desde la base para abrirlas. Pon dentro la mantequilla y una pizca de sal y aplasta un poco la pulpa con un tenedor.",
     "Rellénalas con el twarożek frío, que contrasta con la patata caliente, y termina con el resto del cebollino y pimienta recién molida."
   ],

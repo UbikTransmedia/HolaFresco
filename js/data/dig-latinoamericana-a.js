@@ -514,9 +514,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Adoba el pollo con el zumo de la lima, el jengibre rallado y sal, y déjalo 10 minutos.",
-    "Pon el arroz con 240 ml de agua y sal; cuando hierva, tapa y cuece 15 minutos a fuego mínimo y deja reposar.",
-    "Muele las gambas secas y los cacahuetes en un mortero o picadora hasta tener un polvo grueso, como pan rallado. Pica la cebolleta y el cilantro y ralla el tomate.",
+    "Ralla el jengibre. Adoba el pollo con el zumo de la lima, el jengibre y sal, y déjalo 10 minutos.",
+    "Mientras, pon el arroz con 240 ml de agua y sal; cuando hierva, tapa y cuece 15 minutos a fuego mínimo y deja reposar.",
+    "Mientras se cuece, muele las gambas secas y los cacahuetes en un mortero o picadora hasta tener un polvo grueso, como pan rallado. Pica la cebolleta y el cilantro y ralla el tomate.",
     "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto. Añade el tomate rallado y cuece 5 minutos, hasta que reduzca.",
     "Incorpora el pollo con su adobo y dóralo 3-4 minutos, removiendo, hasta que pierda el color rosado por fuera.",
     "Agrega 150 ml de agua y el polvo de gambas y cacahuete. Cuece a fuego suave 8 minutos, removiendo de vez en cuando, hasta que el pollo esté hecho y la salsa espesa y untuosa.",
@@ -1055,9 +1055,9 @@ window.RECETAS_SEED.push({
     "Cuece el tempeh entero al vapor (en un cestillo sobre agua hirviendo) 10 minutos: le quita el amargor y lo vuelve más tierno. Mientras, pica la cebolleta y el perejil, corta el pimiento verde en dados pequeños y ralla el tomate. Corta el tempeh en dados de 1 cm.",
     "Pon el arroz con 240 ml de agua y sal; cuando hierva, tapa y cuece 15 minutos a fuego mínimo y deja reposar.",
     "En una sartén honda, calienta el aceite de ajo a fuego medio y dora los dados de tempeh 5 minutos, removiendo, hasta que estén tostados por todas las caras.",
-    "Añade la cebolleta, el pimiento verde y el pimentón y remueve 1 minuto. Incorpora el tomate rallado, el laurel, el tamari y 150 ml de agua, y cuece 10 minutos a fuego suave, hasta que quede un guiso con salsa espesa.",
+    "Añade la cebolleta, el pimiento verde y el pimentón y remueve 1 minuto. Incorpora el tomate rallado, el laurel, el tamari y 150 ml de agua, y cuece 10 minutos a fuego suave, hasta que quede un guiso con salsa espesa. Mientras, pela el plátano y córtalo en rodajas gruesas al bies.",
     "Para la farofa, tuesta en otra sartén la harina de mandioca con el aceite de oliva y una pizca de sal a fuego medio 4-5 minutos, removiendo sin parar, hasta que esté dorada y huela a tostado. Pásala a un bol.",
-    "En la misma sartén, dora el plátano en rodajas gruesas al bies 1-2 minutos por lado, sin aceite, hasta que se caramelice.",
+    "En la misma sartén, dora las rodajas de plátano 1-2 minutos por lado, sin aceite, hasta que se caramelicen.",
     "Retira el laurel, añade al picadinho la mitad del perejil y sirve con el arroz, la farofa por encima, el plátano al lado y el resto del perejil."
   ],
   nutricion: { kcal: 625, prot: 26.5, hc: 88.5, grasa: 18 },
