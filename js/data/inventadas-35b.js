@@ -32,12 +32,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela a fuego medio dora el bacon sin aceite 3 minutos, hasta que suelte la grasa. Añade el lomo salpimentado y dóralo 4 minutos.",
-    "Incorpora la cebolla y 2 ajos picados y sofríe 6 minutos, hasta que la cebolla esté blanda. Añade el comino y el laurel.",
+    "Pica la cebolla y 2 ajos y lamina el otro ajo. En una cazuela a fuego medio dora el bacon sin aceite 3 minutos, hasta que suelte la grasa. Añade el lomo salpimentado y dóralo 4 minutos.",
+    "Incorpora la cebolla y los 2 ajos picados y sofríe 6 minutos, hasta que la cebolla esté blanda. Añade el comino y el laurel.",
     "Agrega las alubias, 300 ml de agua y la piel de media naranja en una tira. Cuece a fuego suave 25 minutos, hasta que el caldo espese. Aplasta un cucharón de alubias contra la pared para que quede cremoso.",
-    "Mientras, cuece el arroz en agua con sal 15-18 minutos y escúrrelo.",
-    "Saltea el kale en una sartén con el aceite y el otro ajo laminado 2 minutos, hasta que esté brillante y tierno.",
-    "Retira la piel de naranja y el laurel de las alubias y sirve con el arroz, el kale y gajos de naranja pelada."
+    "Mientras cuecen las alubias, cuece el arroz en agua con sal 15-18 minutos y escúrrelo. Pela el resto de la naranja y sepárala en gajos.",
+    "Saltea el kale en una sartén con el aceite y el ajo laminado 2 minutos, hasta que esté brillante y tierno.",
+    "Retira la piel de naranja y el laurel de las alubias y sirve con el arroz, el kale y los gajos de naranja."
   ],
   nutricion: { kcal: 722, prot: 44, hc: 78, grasa: 26 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "invierno", "alta en proteína", "poco especiada"],
@@ -77,10 +77,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla, el pimiento y el ajo picados 8 minutos.",
+    "Pica la cebolla, el pimiento y el ajo. Calienta el aceite en una cazuela a fuego medio y pocha la cebolla, el pimiento y el ajo 8 minutos.",
     "Añade el tomate rallado y cocina 4 minutos. Aparta del fuego, añade el pimentón y el comino y remueve 20 segundos.",
-    "Incorpora la calabaza, el laurel y el caldo y cuece 12 minutos, hasta que la calabaza empiece a ablandarse.",
-    "Añade las pencas de acelga picadas y las alubias y cuece 8 minutos. Incorpora las hojas de acelga en tiras y cuece 3 minutos más.",
+    "Incorpora la calabaza, el laurel y el caldo y cuece 12 minutos, hasta que la calabaza empiece a ablandarse. Mientras, separa las pencas de las hojas de acelga: pica las pencas y corta las hojas en tiras.",
+    "Añade las pencas de acelga y las alubias y cuece 8 minutos. Incorpora las hojas de acelga y cuece 3 minutos más.",
     "Aplasta unos trozos de calabaza para espesar el caldo, prueba de sal y retira el laurel."
   ],
   nutricion: { kcal: 420, prot: 20, hc: 58, grasa: 12 },
@@ -120,11 +120,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua fría y pélalos.",
-    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla y los ajos picados 8 minutos, hasta que estén transparentes.",
+    "Cuece los huevos 10 minutos desde que el agua hierva y, mientras, pica la cebolla y los ajos. Enfría los huevos en agua fría y pélalos.",
+    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla y los ajos 8 minutos, hasta que estén transparentes.",
     "Añade las alcachofas y rehógalas 3 minutos. Vierte el vino y deja evaporar 1 minuto.",
-    "Incorpora los garbanzos, el caldo y el azafrán desmenuzado. Cuece a fuego suave 12 minutos. Aplasta unos garbanzos con un tenedor para engordar el caldo.",
-    "Añade los guisantes y cuece 4 minutos. Prueba de sal y termina con la hierbabuena picada y los huevos en cuartos."
+    "Incorpora los garbanzos, el caldo y el azafrán desmenuzado. Cuece a fuego suave 12 minutos; mientras, pica la hierbabuena y corta los huevos en cuartos. Aplasta unos garbanzos con un tenedor para engordar el caldo.",
+    "Añade los guisantes y cuece 4 minutos. Prueba de sal y termina con la hierbabuena y los huevos."
   ],
   nutricion: { kcal: 506, prot: 24, hc: 62, grasa: 18 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "poco especiada"],
@@ -163,12 +163,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela ancha con el aceite a fuego medio, dora las almendras y 2 ajos enteros 2-3 minutos, hasta que estén dorados. Sácalos.",
-    "En el mismo aceite pocha la cebolla picada 5 minutos. Añade las patatas, rehógalas 2 minutos, vierte el vino y deja evaporar 1 minuto.",
+    "Pica la cebolla. En una cazuela ancha con el aceite a fuego medio, dora las almendras y 2 ajos enteros 2-3 minutos, hasta que estén dorados. Sácalos.",
+    "En el mismo aceite pocha la cebolla 5 minutos. Añade las patatas, rehógalas 2 minutos, vierte el vino y deja evaporar 1 minuto.",
     "Cubre con el caldo, añade sal y cuece a fuego medio 15 minutos, hasta que las patatas estén casi tiernas.",
-    "Tritura las almendras y los ajos fritos con el azafrán, el perejil, el otro ajo crudo y un cazo del caldo hasta tener una pasta fina (majado). Viértela en la cazuela y menea para integrarla.",
+    "Mientras, tritura las almendras y los ajos fritos con el azafrán, casi todo el perejil, el otro ajo crudo y un cazo del caldo hasta tener una pasta fina (majado), y pica el perejil restante. Cuando las patatas estén casi tiernas, vierte el majado en la cazuela y menea para integrarlo.",
     "Coloca la merluza salada y los langostinos sobre las patatas, tapa y cuece 5-6 minutos a fuego suave, meneando la cazuela, hasta que el pescado esté opaco y la salsa ligada.",
-    "Deja reposar 2 minutos tapado y sirve con perejil picado por encima."
+    "Deja reposar 2 minutos tapado y sirve con el perejil picado por encima."
   ],
   nutricion: { kcal: 684, prot: 42, hc: 48, grasa: 36 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "alta en proteína", "poco especiada"],
@@ -205,9 +205,9 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Lava el arroz y cuécelo en 200 ml de agua con sal, tapado a fuego mínimo, 12 minutos. Deja reposar 5 minutos tapado.",
+    "Lava el arroz y cuécelo en 200 ml de agua con sal, tapado a fuego mínimo, 12 minutos. Deja reposar 5 minutos tapado. Mientras, corta las judías en tramos y el calabacín en medias lunas y pica el cilantro.",
     "Calienta el aceite en una cazuela y fríe la pasta de curry 1 minuto, removiendo, hasta que huela.",
-    "Vierte la leche de coco y 100 ml de agua y lleva a hervor suave. Añade las judías en tramos y el calabacín en medias lunas y cuece 6 minutos.",
+    "Vierte la leche de coco y 100 ml de agua y lleva a hervor suave. Añade las judías y el calabacín y cuece 6 minutos.",
     "Sazona con la salsa de pescado, añade el salmón y cuece 4 minutos a fuego bajo sin remover, solo meneando, hasta que esté justo opaco.",
     "Apaga, exprime media lima y añade el cilantro. Sirve sobre el arroz con gajos de lima."
   ],
@@ -247,10 +247,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas con piel en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y córtalas en mitades o cuartos.",
-    "Mientras están templadas, alíñalas con el aceite, el zumo de limón y sal: así absorben el sabor.",
-    "Mezcla el yogur con la mostaza, la mitad del eneldo picado, sal y pimienta.",
-    "Pica los pepinillos, corta la cebolla en juliana muy fina y los rábanos en láminas.",
+    "Cuece las patatas con piel en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia.",
+    "Mientras, pica los pepinillos y el eneldo, corta la cebolla en juliana muy fina y los rábanos en láminas.",
+    "Mezcla el yogur con la mostaza, la mitad del eneldo, sal y pimienta.",
+    "Escurre las patatas y córtalas en mitades o cuartos. Mientras están templadas, alíñalas con el aceite, el zumo de limón y sal: así absorben el sabor.",
     "Junta las patatas con la salsa de yogur, los pepinillos, la cebolla y los rábanos. Añade la caballa en lascas grandes y el resto del eneldo."
   ],
   nutricion: { kcal: 448, prot: 24, hc: 34, grasa: 24 },
@@ -290,10 +290,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en 220 ml de agua, tapado a fuego mínimo, 12 minutos. Deja reposar 5 minutos.",
-    "Mezcla el tamari, el azúcar, el vinagre, la maicena y 80 ml de agua en un vaso.",
+    "Mientras, corta la zanahoria en bastones finos y el calabacín en medias lunas, ralla el jengibre y pica la parte verde de la cebolleta. Mezcla el tamari, el azúcar, el vinagre, la maicena y 80 ml de agua en un vaso.",
     "Calienta el aceite de ajo en el wok a fuego fuerte y saltea el pollo 4-5 minutos, hasta que esté dorado. Sácalo.",
-    "Saltea la zanahoria en bastones finos 2 minutos, añade el calabacín en medias lunas y el jengibre rallado y saltea 2 minutos más: deben quedar al dente.",
-    "Devuelve el pollo, vierte la salsa y remueve 1 minuto, hasta que espese y brille. Termina con la cebolleta verde picada y el sésamo y sirve con el arroz."
+    "Saltea la zanahoria 2 minutos, añade el calabacín y el jengibre y saltea 2 minutos más: deben quedar al dente.",
+    "Devuelve el pollo, vierte la salsa y remueve 1 minuto, hasta que espese y brille. Termina con la cebolleta y el sésamo y sirve con el arroz."
   ],
   nutricion: { kcal: 566, prot: 36, hc: 74, grasa: 14 },
   etiquetas: ["sin gluten", "bajo en fodmap", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "económica", "poco especiada", "bajo en colesterol"],
@@ -335,11 +335,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta las carrilleras. Calienta el aceite en una cazuela a fuego fuerte y dóralas 3 minutos por cada lado, hasta que tengan costra. Sácalas.",
-    "Baja a fuego medio y pocha las cebollas en juliana con el azúcar 15 minutos, removiendo, hasta que estén caramelizadas. Añade el ajo y las zanahorias en rodajas y cocina 3 minutos.",
+    "Corta las cebollas en juliana y las zanahorias en rodajas y pica el ajo. Salpimienta las carrilleras. Calienta el aceite en una cazuela a fuego fuerte y dóralas 3 minutos por cada lado, hasta que tengan costra. Sácalas.",
+    "Baja a fuego medio y pocha las cebollas con el azúcar 15 minutos, removiendo, hasta que estén caramelizadas. Añade el ajo y las zanahorias y cocina 3 minutos.",
     "Vierte la cerveza sin gluten, rasca el fondo y deja hervir 3 minutos. Añade la mostaza, el tomillo, el laurel, la carne y agua justa para cubrir.",
     "Tapa y cuece a fuego muy suave 1 hora y 45 minutos, hasta que la carne se deshaga al pincharla. Si la salsa queda líquida, destapa los últimos 15 minutos para que reduzca.",
-    "Mientras, cuece las patatas peladas en agua con sal 20 minutos, escúrrelas y aplástalas con la leche caliente, la mantequilla y sal hasta tener un puré fino.",
+    "Mientras, pela las patatas y cuécelas en agua con sal 20 minutos, escúrrelas y aplástalas con la leche caliente, la mantequilla y sal hasta tener un puré fino.",
     "Retira las hierbas y sirve las carrilleras con la salsa sobre el puré."
   ],
   nutricion: { kcal: 712, prot: 40, hc: 48, grasa: 40 },
@@ -382,12 +382,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el cordero con el jengibre, la cúrcuma, el comino, sal y pimienta.",
-    "Calienta el aceite en una cazuela a fuego medio-alto y dora la carne 5 minutos. Añade la cebolla rallada y el ajo picado y cocina 5 minutos, removiendo.",
+    "Ralla la cebolla y pica el ajo. Mezcla el cordero con el jengibre, la cúrcuma, el comino, sal y pimienta.",
+    "Calienta el aceite en una cazuela a fuego medio-alto y dora la carne 5 minutos. Añade la cebolla y el ajo y cocina 5 minutos, removiendo.",
     "Agrega la canela, el azafrán y agua justa para cubrir. Tapa y cuece a fuego suave 1 hora y 15 minutos, hasta que el cordero esté tierno.",
     "Añade las ciruelas y cuece 15 minutos más destapado, hasta que la salsa reduzca y quede melosa.",
-    "Mientras, tuesta las almendras en una sartén seca 3 minutos y cuece el arroz lavado en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos.",
-    "Sirve el cordero sobre el arroz con las almendras y el cilantro picado."
+    "Mientras, tuesta las almendras en una sartén seca 3 minutos, pica el cilantro y cuece el arroz lavado en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos.",
+    "Sirve el cordero sobre el arroz con las almendras y el cilantro."
   ],
   nutricion: { kcal: 736, prot: 42, hc: 70, grasa: 32 },
   etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno", "sin verduras"],
@@ -425,9 +425,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la quinoa y cuécela en 190 ml de agua con sal, tapada a fuego suave, 12 minutos. Deja reposar 5 minutos.",
+    "Lava la quinoa y cuécela en 190 ml de agua con sal, tapada a fuego suave, 12 minutos. Deja reposar 5 minutos. Mientras, pica la chalota y lamina los champiñones.",
     "Salpimienta los medallones y márcalos en una sartén con el aceite a fuego fuerte 2 minutos por lado. Sácalos: quedarán rosados por dentro.",
-    "En la misma sartén saltea la chalota picada y los champiñones laminados con el tomillo 6 minutos, hasta que se doren y evaporen el agua.",
+    "En la misma sartén saltea la chalota y los champiñones con el tomillo 6 minutos, hasta que se doren y evaporen el agua.",
     "Vierte el vino y deja reducir 1 minuto. Añade el caldo y la mostaza y cuece 3 minutos.",
     "Baja el fuego al mínimo, incorpora el yogur sin que hierva, devuelve el solomillo con su jugo y calienta 2 minutos. Sirve con la quinoa."
   ],
@@ -469,12 +469,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala la carne y dórala en una cazuela con el aceite a fuego fuerte 5 minutos. Sácala.",
-    "Tuesta en la misma cazuela los pimientos, el chile y la cebolla en trozos grandes con los ajos 6 minutos, hasta que tengan zonas tostadas.",
+    "Corta los pimientos, el chile y la cebolla en trozos grandes y pela los ajos. Sala la carne y dórala en una cazuela con el aceite a fuego fuerte 5 minutos. Sácala.",
+    "Tuesta en la misma cazuela los pimientos, el chile, la cebolla y los ajos 6 minutos, hasta que tengan zonas tostadas.",
     "Tritúralos con los tallos del cilantro, el comino, el orégano y 250 ml de agua hasta obtener una salsa verde fina.",
     "Devuelve la carne a la cazuela, cubre con la salsa, sala y cuece tapado a fuego suave 1 hora, hasta que el cerdo esté muy tierno (o 6 horas en olla lenta a temperatura baja).",
-    "Mientras, cuece el arroz en agua con sal 15-18 minutos y calienta las alubias con una pizca de sal y comino.",
-    "Termina el guiso con el zumo de la lima y las hojas de cilantro picadas. Sirve con el arroz y las alubias."
+    "Mientras, cuece el arroz en agua con sal 15-18 minutos, calienta las alubias con una pizca de sal y comino y pica las hojas de cilantro.",
+    "Termina el guiso con el zumo de la lima y las hojas de cilantro. Sirve con el arroz y las alubias."
   ],
   nutricion: { kcal: 704, prot: 40, hc: 82, grasa: 24 },
   etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "slow cooker", "picante", "fácil", "económica"],
@@ -512,8 +512,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Cuece las rodajas de patata en agua con sal 6 minutos; añade el brócoli y cuece 2 minutos más. Escurre bien.",
-    "Cuece los huevos 10 minutos, enfríalos y córtalos en rodajas.",
+    "Precalienta el horno a 190 °C y pon los huevos a cocer 10 minutos desde que hierva el agua. A la vez, cuece las rodajas de patata en agua con sal 6 minutos; añade el brócoli y cuece 2 minutos más. Escurre bien.",
+    "Enfría los huevos, pélalos y córtalos en rodajas.",
     "Para la bechamel, disuelve la maicena en 100 ml de leche fría. Calienta el resto con la mantequilla, la nuez moscada, sal y pimienta y, cuando hierva, añade la maicena y remueve con varillas 2 minutos, hasta que espese. Fuera del fuego, añade la mostaza y la mitad del cheddar.",
     "Coloca en una fuente la patata, el brócoli y el huevo, cubre con la bechamel y reparte el resto del cheddar.",
     "Hornea 20-25 minutos, hasta que burbujee y esté dorado. Deja reposar 5 minutos."
@@ -555,10 +555,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta la tapa de los pimientos, quítales las semillas y hornéalos 10 minutos boca abajo para que se ablanden.",
-    "Cuece el arroz en agua con sal 12 minutos (quedará algo duro, terminará en el horno) y escúrrelo.",
-    "Saltea en una sartén con el aceite la cebolla y el ajo picados 5 minutos. Añade los champiñones picados y el tomillo y cocina 6 minutos, hasta que se evapore el agua. Agrega el tomate y cocina 3 minutos.",
+    "Mientras, cuece el arroz en agua con sal 12 minutos (quedará algo duro, terminará en el horno) y escúrrelo. A la vez, pica la cebolla, el ajo, los champiñones y las nueces.",
+    "Saltea en una sartén con el aceite la cebolla y el ajo 5 minutos. Añade los champiñones y el tomillo y cocina 6 minutos, hasta que se evapore el agua. Agrega el tomate y cocina 3 minutos.",
     "Mezcla el sofrito con el arroz, la mitad del queso de cabra desmenuzado, sal y pimienta.",
-    "Rellena los pimientos, reparte encima el resto del queso y las nueces picadas y hornea 25 minutos, hasta que el pimiento esté tierno y el queso dorado."
+    "Rellena los pimientos, reparte encima el resto del queso y las nueces y hornea 25 minutos, hasta que el pimiento esté tierno y el queso dorado."
   ],
   nutricion: { kcal: 526, prot: 20, hc: 62, grasa: 22 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "poco especiada"],
@@ -598,8 +598,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Tritura el tomate con el chipotle, la mitad de la cebolla, el ajo y sal hasta obtener una salsa fina. Cuécela en un cazo 5 minutos.",
-    "Saltea en una sartén con el aceite el resto de la cebolla, el pimiento y el calabacín en dados pequeños con el comino 6 minutos. Añade el maíz y sala.",
+    "Precalienta el horno a 190 °C. Tritura el tomate con el chipotle, la mitad de la cebolla, el ajo y sal hasta obtener una salsa fina. Cuécela en un cazo 5 minutos; mientras, corta el resto de la cebolla, el pimiento y el calabacín en dados pequeños.",
+    "Saltea en una sartén con el aceite la cebolla, el pimiento y el calabacín con el comino 6 minutos. Añade el maíz y sala.",
     "En una fuente pequeña, pon un poco de salsa, 2 tortillas (puedes cortarlas para encajar), un tercio de las verduras, salsa y queso. Repite dos veces más, terminando con salsa y queso.",
     "Tapa con papel de aluminio y hornea 15 minutos; destapa y hornea 10 minutos más, hasta que el queso esté dorado.",
     "Deja reposar 5 minutos y sirve con una cucharada de nata agria."
@@ -642,11 +642,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava la quinoa frotándola bajo el grifo en un colador fino para quitarle el amargor.",
-    "Calienta el aceite en una cazuela y sofríe la cebolla y el ajo picados 6 minutos a fuego medio. Añade el ají amarillo, el comino y el orégano y remueve 30 segundos.",
-    "Incorpora la calabaza, la quinoa y el caldo. Lleva a ebullición y cuece a fuego suave 15 minutos.",
+    "Lava la quinoa frotándola bajo el grifo en un colador fino para quitarle el amargor. Pica la cebolla y el ajo.",
+    "Calienta el aceite en una cazuela y sofríe la cebolla y el ajo 6 minutos a fuego medio. Añade el ají amarillo, el comino y el orégano y remueve 30 segundos.",
+    "Incorpora la calabaza, la quinoa y el caldo. Lleva a ebullición y cuece a fuego suave 15 minutos; mientras, pica el cilantro.",
     "Añade las habas y el maíz y cuece 6-8 minutos más, hasta que la quinoa muestre su anillito blanco y la calabaza empiece a deshacerse y espese el guiso.",
-    "Prueba de sal y sirve con cilantro picado."
+    "Prueba de sal y sirve con el cilantro."
   ],
   nutricion: { kcal: 428, prot: 16, hc: 64, grasa: 12 },
   etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "detox", "superalimentos", "bajo en colesterol"],
@@ -686,7 +686,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Mezcla las patatas con 1 cucharada de aceite, sal y el romero y ásalas en una bandeja grande 15 minutos.",
-    "Corta el calabacín, la berenjena, el pimiento y la cebolla en dados de 2 cm. Mézclalos con el ajo laminado, el pimentón, el resto del aceite y sal.",
+    "Mientras, corta el calabacín, la berenjena, el pimiento y la cebolla en dados de 2 cm y lamina el ajo. Mézclalos con el pimentón, el resto del aceite y sal.",
     "Añade las verduras a la bandeja junto a las patatas, remueve y hornea 15 minutos.",
     "Incorpora el tofu ahumado y los tomates cherry y hornea 12-15 minutos más, hasta que las verduras estén tiernas y doradas por los bordes y los tomates empiecen a reventar.",
     "Remueve para que el jugo de los tomates ligue el pisto y sirve."
@@ -728,10 +728,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela en 200 ml de agua con sal, tapada a fuego suave, 12 minutos. Deja reposar 5 minutos.",
+    "Mientras, mezcla la crema de cacahuete con el tamari, el zumo de la lima, el sirope, el jengibre y el ajo rallados y 100 ml de agua caliente hasta tener una salsa fluida. Pica el cilantro.",
     "Calienta el aceite en una sartén grande a fuego medio-alto y dora el tofu 5 minutos. Añade la berenjena con una pizca de sal y saltea 8 minutos, hasta que esté blanda y dorada.",
-    "Mezcla la crema de cacahuete con el tamari, el zumo de la lima, el sirope, el jengibre y el ajo rallados y 100 ml de agua caliente hasta tener una salsa fluida.",
     "Vierte la salsa en la sartén y cocina 2 minutos, hasta que envuelva el tofu y la berenjena.",
-    "Sirve sobre la quinoa con cilantro picado."
+    "Sirve sobre la quinoa con el cilantro."
   ],
   nutricion: { kcal: 544, prot: 22, hc: 60, grasa: 24 },
   etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -769,11 +769,11 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" }
   ],
   pasos: [
+    "Pon agua a hervir para los fideos. Mientras se calienta, pica el chile y mezcla el zumo de las limas con la salsa de pescado, el azúcar y el chile hasta disolver el azúcar.",
     "Hidrata o cuece los fideos de arroz según el paquete (normalmente 4-5 minutos en agua hirviendo), escúrrelos y enfríalos bajo el grifo. Mézclalos con unas gotas de aceite para que no se peguen.",
     "Saltea las gambas en una sartén con el resto del aceite a fuego fuerte 1-2 minutos, hasta que estén rosadas. Déjalas enfriar.",
-    "Mezcla el zumo de las limas con la salsa de pescado, el azúcar y el chile picado hasta disolver el azúcar.",
-    "Corta el mango y el pepino en tiras, ralla la zanahoria y pica la menta.",
-    "Junta los fideos con las verduras, el mango, las gambas y el aliño. Termina con los cacahuetes picados."
+    "Mientras se enfrían, corta el mango y el pepino en tiras, ralla la zanahoria y pica la menta y los cacahuetes.",
+    "Junta los fideos con las verduras, el mango, las gambas y el aliño. Termina con los cacahuetes."
   ],
   nutricion: { kcal: 510, prot: 26, hc: 70, grasa: 14 },
   etiquetas: ["sin gluten", "sin lácteos", "tupper", "ideal para llevar", "batch cooking", "rápida", "fácil", "verano", "sin horno"],
@@ -812,9 +812,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta el trigo sarraceno en un cazo seco 2 minutos, removiendo, hasta que huela a fruto seco.",
-    "Cúbrelo con 250 ml de agua con sal, lleva a ebullición y cuece tapado a fuego suave 10-12 minutos, hasta que esté tierno pero suelto. Escúrrelo si sobra agua y extiéndelo para que se enfríe.",
-    "Bate el yogur con la mostaza, el zumo de medio limón, el aceite, la mitad del eneldo picado, sal y pimienta.",
-    "Corta el pepino en medias lunas, los rábanos en láminas finas y la cebolleta en rodajas.",
+    "Cúbrelo con 250 ml de agua con sal, lleva a ebullición y cuece tapado a fuego suave 10-12 minutos, hasta que esté tierno pero suelto. Mientras, corta el pepino en medias lunas, los rábanos en láminas finas y la cebolleta en rodajas, y pica el eneldo.",
+    "Escurre el trigo sarraceno si sobra agua y extiéndelo para que se enfríe. Mientras, bate el yogur con la mostaza, el zumo de medio limón, el aceite, la mitad del eneldo, sal y pimienta.",
     "Mezcla el trigo sarraceno con las verduras y el aliño y reparte por encima el salmón ahumado en tiras y el resto del eneldo."
   ],
   nutricion: { kcal: 442, prot: 24, hc: 46, grasa: 18 },
@@ -853,11 +852,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece la pasta sin gluten en abundante agua con sal el tiempo del paquete. Reserva un vaso del agua de cocción y escúrrela.",
-    "Mientras, tritura la rúcula, la albahaca, las almendras, el parmesano, el ajo, el zumo de limón, 2 cucharadas de aceite y 2 cucharadas de agua hasta tener un pesto espeso. Sala.",
-    "Salpimienta el pollo y saltéalo en una sartén con el resto del aceite a fuego fuerte 5-6 minutos, hasta que esté dorado y hecho.",
-    "Mezcla la pasta con el pesto y un chorrito del agua de cocción, hasta que quede cremosa.",
-    "Añade el pollo y el tomate seco en tiras y sirve."
+    "Pon a calentar abundante agua con sal para la pasta. Mientras llega a ebullición, tritura la rúcula, la albahaca, las almendras, el parmesano, el ajo, el zumo de limón, 2 cucharadas de aceite y 2 cucharadas de agua hasta tener un pesto espeso. Sala.",
+    "Cuece la pasta sin gluten el tiempo del paquete.",
+    "Mientras, salpimienta el pollo y saltéalo en una sartén con el resto del aceite a fuego fuerte 5-6 minutos, hasta que esté dorado y hecho. Corta el tomate seco en tiras.",
+    "Reserva un vaso del agua de cocción, escurre la pasta y mézclala con el pesto y un chorrito del agua de cocción, hasta que quede cremosa.",
+    "Añade el pollo y el tomate seco y sirve."
   ],
   nutricion: { kcal: 774, prot: 42, hc: 84, grasa: 30 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "rápida", "fácil", "alta en proteína", "verduras escondidas", "poco especiada"],
@@ -895,8 +894,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Si no tienes arroz del día anterior, cuécelo en agua con sal 12 minutos, escúrrelo y extiéndelo en una bandeja en la nevera al menos 1 hora para que se seque.",
-    "Bate los huevos con una pizca de sal. Calienta 1 cucharadita de aceite en el wok a fuego fuerte, cuaja una tortilla fina, sácala y córtala en tiras.",
-    "Añade el resto del aceite y saltea la zanahoria y la parte blanca de la cebolleta con el ajo picado 2 minutos. Agrega los guisantes y el jamón y saltea 2 minutos.",
+    "Pica el ajo y corta la cebolleta en rodajas, separando la parte blanca de la verde. Bate los huevos con una pizca de sal. Calienta 1 cucharadita de aceite en el wok a fuego fuerte, cuaja una tortilla fina, sácala y córtala en tiras.",
+    "Añade el resto del aceite y saltea la zanahoria y la parte blanca de la cebolleta con el ajo 2 minutos. Agrega los guisantes y el jamón y saltea 2 minutos.",
     "Incorpora el arroz frío, despegando los granos con la espátula, y saltea a fuego fuerte 4-5 minutos sin parar, hasta que esté caliente y algo tostado.",
     "Riega con el tamari y el aceite de sésamo, añade la tortilla y la parte verde de la cebolleta y saltea 1 minuto más."
   ],
@@ -937,8 +936,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una sartén ancha o paellera a fuego fuerte, sala la presa y dórala 3 minutos. Sácala.",
-    "En la misma grasa sofríe el pimiento en tiras 5 minutos y las alcachofas 3 minutos más, hasta que se doren. Añade el ajo picado y el tomate rallado y cocina 4 minutos.",
+    "Corta el pimiento en tiras, pica el ajo y calienta el caldo con el azafrán. Calienta el aceite en una sartén ancha o paellera a fuego fuerte, sala la presa y dórala 3 minutos. Sácala.",
+    "En la misma grasa sofríe el pimiento 5 minutos y las alcachofas 3 minutos más, hasta que se doren. Añade el ajo y el tomate rallado y cocina 4 minutos.",
     "Incorpora el pimentón y el arroz y nacara 1 minuto removiendo.",
     "Vierte el caldo caliente con el azafrán, prueba de sal, reparte el arroz y coloca la presa y el romero. Cuece 10 minutos a fuego fuerte y 8 minutos a fuego suave, sin remover.",
     "Apaga, tapa con un paño y deja reposar 5 minutos antes de servir."
@@ -980,10 +979,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Asa la calabaza con 1 cucharadita de aceite y sal en una bandeja 20-25 minutos, hasta que esté tierna y caramelizada.",
-    "Mientras, pocha la cebolla y el ajo picados en una cazuela con el resto del aceite 5 minutos. Añade la quinoa lavada y tuéstala 1 minuto.",
-    "Vierte el vino y deja evaporar. Añade el caldo poco a poco, en 3 veces, cociendo a fuego suave 15-18 minutos y removiendo de vez en cuando, hasta que la quinoa esté tierna y cremosa.",
+    "Mientras, pica la cebolla y el ajo y póchalos en una cazuela con el resto del aceite 5 minutos. Añade la quinoa lavada y tuéstala 1 minuto.",
+    "Vierte el vino y deja evaporar. Añade el caldo poco a poco, en 3 veces, cociendo a fuego suave 15-18 minutos y removiendo de vez en cuando, hasta que la quinoa esté tierna y cremosa. Mientras, tuesta las semillas de calabaza en una sartén seca 2 minutos.",
     "Aplasta la mitad de la calabaza con un tenedor e incorpórala a la quinoa con el parmesano y pimienta. Añade el resto de la calabaza en dados.",
-    "Fríe las hojas de salvia en una sartén con unas gotas de aceite 30 segundos, hasta que estén crujientes, y sírvelas por encima con las semillas tostadas."
+    "Fríe las hojas de salvia en la sartén con unas gotas de aceite 30 segundos, hasta que estén crujientes, y sírvelas por encima con las semillas tostadas."
   ],
   nutricion: { kcal: 440, prot: 16, hc: 58, grasa: 16 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "fácil", "otoño", "ligera", "poco especiada"],
@@ -1025,11 +1024,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla, la zanahoria y el apio picados 6 minutos.",
+    "Pica la cebolla, la zanahoria y el apio. Calienta el aceite en una cazuela a fuego medio y pocha las verduras 6 minutos.",
     "Añade la cúrcuma, el jengibre y la canela y remueve 30 segundos. Agrega el tomate y cocina 3 minutos.",
-    "Incorpora el pollo entero y el caldo, lleva a ebullición y cuece a fuego suave 15 minutos. Saca el pollo y desmenúzalo con dos tenedores.",
+    "Incorpora el pollo entero y el caldo, lleva a ebullición y cuece a fuego suave 15 minutos; mientras, pica el cilantro y corta el limón en gajos. Saca el pollo y desmenúzalo con dos tenedores.",
     "Añade el arroz y los garbanzos a la sopa y cuece 14 minutos, hasta que el arroz esté tierno.",
-    "Devuelve el pollo, prueba de sal y termina con el cilantro picado. Sirve con gajos de limón."
+    "Devuelve el pollo, prueba de sal y termina con el cilantro. Sirve con los gajos de limón."
   ],
   nutricion: { kcal: 354, prot: 26, hc: 40, grasa: 10 },
   etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "ligera", "bajo en colesterol"],
@@ -1068,11 +1067,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela y pocha el puerro en rodajas 6 minutos a fuego medio, sin que se dore.",
-    "Añade la coliflor y la patata en trozos, rehoga 2 minutos y cubre con el caldo. Cuece tapado 18-20 minutos, hasta que todo esté muy tierno.",
+    "Corta el puerro en rodajas y pela y trocea la patata. Calienta el aceite en una cazuela y pocha el puerro 6 minutos a fuego medio, sin que se dore.",
+    "Añade la coliflor y la patata, rehoga 2 minutos y cubre con el caldo. Cuece tapado 18-20 minutos, hasta que todo esté muy tierno. Mientras, tuesta las nueces en una sartén seca 2 minutos, pícalas y pica el cebollino.",
     "Agrega la leche, la nuez moscada y la mitad del queso azul y tritura con la batidora hasta que quede una crema muy fina. Salpimienta.",
-    "Tuesta las nueces en una sartén seca 2 minutos y pícalas.",
-    "Sirve la crema con el resto del queso azul desmenuzado, las nueces y el cebollino picado."
+    "Sirve la crema con el resto del queso azul desmenuzado, las nueces y el cebollino."
   ],
   nutricion: { kcal: 390, prot: 16, hc: 32, grasa: 22 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "invierno", "poco especiada"],

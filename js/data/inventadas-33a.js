@@ -33,13 +33,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Deshaz la pasta de achiote en el zumo de naranja y el zumo de 1 lima con los ajos rallados, el comino, el orégano y media cucharadita de sal hasta obtener una salsa lisa de color rojo intenso.",
+    "Ralla los ajos y deshaz la pasta de achiote en el zumo de naranja y el zumo de 1 lima con los ajos, el comino, el orégano y media cucharadita de sal hasta obtener una salsa lisa de color rojo intenso.",
     "Pon los muslos en la olla lenta, vierte la marinada por encima y dales la vuelta para que queden bien cubiertos. Si tienes tiempo, déjalos así en la nevera 1 hora o toda la noche.",
     "Tapa y cocina en LOW 6 horas (o en HIGH 3 h 30 min), sin abrir la tapa. El pollo está listo cuando se deshace al presionarlo con un tenedor.",
     "Mientras tanto, corta la cebolla morada en juliana muy fina y mézclala con el vinagre, el zumo de la otra lima y una pizca de sal. Déjala encurtir al menos 30 minutos en la nevera: se volverá rosa fucsia.",
-    "Saca el pollo a una tabla y desmenúzalo con dos tenedores. Devuélvelo a la olla y mézclalo con el jugo; deja 10 minutos en modo templado para que lo absorba.",
+    "Saca el pollo a una tabla y desmenúzalo con dos tenedores. Devuélvelo a la olla y mézclalo con el jugo; deja 10 minutos en modo templado para que lo absorba. Mientras, pica el cilantro y corta el aguacate en láminas.",
     "Calienta las tortillas de maíz en una sartén seca a fuego medio-alto 30 segundos por cara, hasta que estén flexibles y con alguna mancha tostada. Envuélvelas en un paño para que no se sequen.",
-    "Sirve el pollo en las tortillas con láminas de aguacate, la cebolla encurtida escurrida y cilantro picado."
+    "Sirve el pollo en las tortillas con el aguacate, la cebolla encurtida escurrida y el cilantro."
   ],
   nutricion: { kcal: 580, prot: 42, hc: 48, grasa: 24 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "poco especiada", "bajo en colesterol"],
@@ -78,10 +78,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias del remojo y ponlas en la olla lenta con la zanahoria en rodajas, el laurel y el caldo caliente: deben quedar cubiertas por 2 dedos de líquido.",
+    "La víspera, pon las alubias en remojo en abundante agua fría (12 horas). Al día siguiente, pela la zanahoria y córtala en rodajas. Escurre las alubias del remojo y ponlas en la olla lenta con la zanahoria, el laurel y el caldo caliente: deben quedar cubiertas por 2 dedos de líquido.",
     "Pica la cebolla y los ajos y póchalos en una sartén con el aceite a fuego medio 8 minutos, hasta que estén transparentes. Aparta, añade el pimentón y el comino, remueve 15 segundos y vuelca el sofrito a la olla.",
     "Tapa y cocina en LOW 7 horas (o en HIGH 4 horas), hasta que las alubias estén tiernas y cremosas por dentro.",
-    "Pela la patata y cáscala en trozos irregulares (rompiéndola con el cuchillo para que suelte almidón). Lava las acelgas, separa las pencas y trocea todo.",
+    "Hacia el final de la cocción, pela la patata y cáscala en trozos irregulares (rompiéndola con el cuchillo para que suelte almidón). Lava las acelgas, separa las pencas y trocea todo.",
     "Añade la patata y las pencas a la olla, sube a HIGH y cocina 45 minutos más. Incorpora las hojas de acelga en los últimos 15 minutos.",
     "Aplasta unas cuantas alubias y patatas contra la pared de la olla para espesar el caldo, prueba y ajusta de sal. Sirve bien caliente."
   ],
@@ -124,12 +124,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pollo en dados de 3 cm y sálalo. Pica fina la cebolla y ralla el ajo y el jengibre.",
-    "Pon en la olla lenta la cebolla, el ajo, el jengibre, el chile picado, el tomate, las especias y el aceite. Mezcla, añade el pollo y las espinacas congeladas en bloque por encima.",
+    "Corta el pollo en dados de 3 cm y sálalo. Pica fina la cebolla y el chile y ralla el ajo y el jengibre.",
+    "Pon en la olla lenta la cebolla, el ajo, el jengibre, el chile, el tomate, las especias y el aceite. Mezcla, añade el pollo y las espinacas congeladas en bloque por encima.",
     "Tapa y cocina en HIGH 3 h 30 min (o LOW 6 h). Las espinacas soltarán agua y formarán la salsa: no añadas líquido.",
+    "Unos 20 minutos antes del final, lava el arroz hasta que el agua salga clara y cuécelo en una cazuela con 280 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos. Reposa 5 minutos y suéltalo con un tenedor.",
     "Saca los trozos de pollo a un plato. Tritura la salsa con la batidora de mano hasta que quede verde y lisa y vuelve a meter el pollo.",
     "Fuera del fuego, templa el yogur con 2 cucharadas de salsa caliente y luego incorpóralo a la olla removiendo, para que no se corte. Deja 10 minutos en modo templado.",
-    "Mientras, lava el arroz hasta que el agua salga clara y cuécelo en una cazuela con 280 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos. Reposa 5 minutos y suéltalo con un tenedor.",
     "Sirve el pollo saag sobre el arroz y, si quieres, una cucharada extra de yogur."
   ],
   nutricion: { kcal: 600, prot: 46, hc: 66, grasa: 16 },
@@ -171,11 +171,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la carne y dórala en la sartén con el aceite a fuego fuerte, en una sola capa, 5 minutos hasta que tenga costra por todos los lados. Pásala a la olla lenta.",
-    "En la misma sartén rehoga la cebolla en juliana y la zanahoria en rodajas 5 minutos. Vierte el vino y rasca el fondo para soltar lo pegado; deja hervir 2 minutos y vuelca todo en la olla.",
+    "Corta la cebolla en juliana y la zanahoria en rodajas. Salpimienta la carne y dórala en la sartén con el aceite a fuego fuerte, en una sola capa, 5 minutos hasta que tenga costra por todos los lados. Pásala a la olla lenta.",
+    "En la misma sartén rehoga la cebolla y la zanahoria 5 minutos. Vierte el vino y rasca el fondo para soltar lo pegado; deja hervir 2 minutos y vuelca todo en la olla.",
     "Añade el caldo, las ramas de tomillo y las ciruelas. Tapa y cocina en LOW 8 horas (o HIGH 4 h 30 min), hasta que la carne se deshaga con un tenedor.",
     "Incorpora las castañas en la última media hora. Si la salsa está clara, disuelve la maicena en una cucharada de agua fría, añádela y cocina 15 minutos más en HIGH sin tapa.",
-    "Para la polenta, lleva a ebullición en una cazuela la leche con 200 ml de agua y sal. Lluvia la polenta removiendo con varillas y cocina a fuego bajo 5 minutos, hasta que esté espesa y cremosa.",
+    "Mientras se termina el estofado, prepara la polenta: lleva a ebullición en una cazuela la leche con 200 ml de agua y sal. Lluvia la polenta removiendo con varillas y cocina a fuego bajo 5 minutos, hasta que esté espesa y cremosa.",
     "Reparte la polenta en platos hondos, coloca encima el estofado con su salsa y unas hojas de tomillo."
   ],
   nutricion: { kcal: 740, prot: 40, hc: 82, grasa: 26 },
@@ -216,9 +216,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las lentejas en un colador hasta que el agua salga casi clara. Trocea los pimientos sin semillas, la cebolla y los ajos.",
     "Pon todo en la olla lenta con el tomate, el pimentón, el comino, 1 cucharada de aceite y el caldo. Mezcla bien.",
-    "Tapa y cocina en LOW 6 horas o en HIGH 3 h 30 min, hasta que las lentejas se hayan deshecho y el pimiento esté muy blando.",
+    "Tapa y cocina en LOW 6 horas o en HIGH 3 h 30 min, hasta que las lentejas se hayan deshecho y el pimiento esté muy blando. Hacia el final de la cocción, tuesta las pipas de calabaza en una sartén seca 2 minutos, hasta que empiecen a saltar.",
     "Tritura con la batidora de mano hasta obtener una crema fina. Si está muy espesa, aclara con agua caliente; prueba de sal.",
-    "Tuesta las pipas de calabaza en una sartén seca 2 minutos, hasta que empiecen a saltar.",
     "Sirve la crema con las pipas y un hilo del aceite restante."
   ],
   nutricion: { kcal: 400, prot: 18, hc: 52, grasa: 14 },
@@ -260,12 +259,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol mezcla los ajos laminados, el orégano, el vinagre, el aceite, las ciruelas, las aceitunas, las alcaparras con un poco de su jugo, sal y pimienta. Añade el pollo y masajéalo para que se impregne.",
+    "Lamina los ajos y mézclalos en un bol con el orégano, el vinagre, el aceite, las ciruelas, las aceitunas, las alcaparras con un poco de su jugo, sal y pimienta. Añade el pollo y masajéalo para que se impregne.",
     "Vuelca todo en la olla lenta y riega con el vino blanco. Espolvorea el azúcar moreno por encima del pollo.",
     "Tapa y cocina en LOW 5 horas (o HIGH 3 horas), hasta que la carne se separe del hueso con facilidad.",
-    "Media hora antes de servir, cuece el arroz en una cazuela con 300 ml de agua y sal, tapado a fuego mínimo 15 minutos; reposa 5 minutos.",
+    "Media hora antes de servir, cuece el arroz en una cazuela con 300 ml de agua y sal, tapado a fuego mínimo 15 minutos; reposa 5 minutos. Mientras, pica el perejil.",
     "Si la salsa ha quedado muy líquida, destapa la olla y cocina en HIGH 20 minutos para que reduzca y brille.",
-    "Sirve el pollo con las ciruelas y aceitunas sobre el arroz, nápalo con la salsa y espolvorea perejil picado."
+    "Sirve el pollo con las ciruelas y aceitunas sobre el arroz, nápalo con la salsa y espolvorea el perejil."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 72, grasa: 19 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "sin verduras", "poco especiada", "bajo en colesterol"],
@@ -310,8 +309,8 @@ window.RECETAS_SEED.push({
     "Añade las pechugas enteras, la mitad de las judías, el comino, el orégano, el caldo y una pizca de sal. Mezcla.",
     "Tapa y cocina en LOW 4 horas (o HIGH 2 h 30 min), hasta que el pollo esté tierno.",
     "Saca las pechugas y desmenúzalas con dos tenedores. Aplasta la otra mitad de las judías con un tenedor hasta hacer un puré grueso.",
-    "Devuelve el pollo a la olla junto con el puré de judías, el maíz y el queso crema. Remueve hasta que el queso se funda y el chili espese, y cocina 15 minutos más en HIGH.",
-    "Exprime la lima, prueba de sal y sirve en cuencos con cilantro picado por encima."
+    "Devuelve el pollo a la olla junto con el puré de judías, el maíz y el queso crema. Remueve hasta que el queso se funda y el chili espese, y cocina 15 minutos más en HIGH. Mientras, pica el cilantro.",
+    "Exprime la lima, prueba de sal y sirve en cuencos con el cilantro por encima."
   ],
   nutricion: { kcal: 520, prot: 48, hc: 45, grasa: 16 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "alta en proteína", "picante"],
@@ -352,13 +351,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el cordero y frótalo con el ras el hanout. Dóralo en la sartén con el aceite a fuego fuerte 6 minutos, hasta que esté bien tostado por todas las caras, y pásalo a la olla lenta.",
-    "En la grasa que ha soltado, rehoga la cebolla en juliana y los ajos laminados 5 minutos. Añade el tomate, rasca el fondo y vuelca todo sobre el cordero.",
+    "Corta la cebolla en juliana y lamina los ajos. Sala el cordero y frótalo con el ras el hanout. Dóralo en la sartén con el aceite a fuego fuerte 6 minutos, hasta que esté bien tostado por todas las caras, y pásalo a la olla lenta.",
+    "En la grasa que ha soltado, rehoga la cebolla y los ajos 5 minutos. Añade el tomate, rasca el fondo y vuelca todo sobre el cordero.",
     "Incorpora el caldo, la canela y los dátiles partidos por la mitad. Tapa y cocina en LOW 8 horas (o HIGH 5 horas).",
-    "Una hora antes del final añade los garbanzos para que tomen el sabor de la salsa sin deshacerse.",
-    "Tuesta las almendras en la sartén seca 2 minutos, removiendo, hasta que estén doradas.",
+    "Una hora antes del final añade los garbanzos para que tomen el sabor de la salsa sin deshacerse. Mientras se termina, tuesta las almendras en la sartén seca 2 minutos, removiendo, hasta que estén doradas, y pica el cilantro.",
     "Retira la canela, desgrasa la superficie con una cuchara si hace falta y añade el zumo de medio limón. La carne debe deshacerse sola.",
-    "Sirve en platos hondos con las almendras y el cilantro picado por encima."
+    "Sirve en platos hondos con las almendras y el cilantro por encima."
   ],
   nutricion: { kcal: 790, prot: 52, hc: 52, grasa: 42 },
   etiquetas: ["sin gluten", "olla lenta", "tupper", "invierno", "alta en proteína"],
@@ -399,11 +397,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "En la olla lenta, deshaz la pasta de curry en la leche de coco con la salsa de pescado y el azúcar, hasta que no queden grumos.",
-    "Añade la ternera, la cebolla en gajos gruesos, la canela y las vainas de cardamomo ligeramente aplastadas. Mezcla para que la carne quede cubierta.",
+    "Corta la cebolla en gajos gruesos y añádela con la ternera, la canela y las vainas de cardamomo ligeramente aplastadas. Mezcla para que la carne quede cubierta.",
     "Tapa y cocina en LOW 6 horas.",
     "Pela la patata, córtala en trozos de 3 cm y añádela junto con la mitad de los cacahuetes. Sigue en LOW 1 h 30 min (o sube a HIGH 1 hora), hasta que la patata esté tierna y la ternera se deshaga.",
-    "Mientras, lava el arroz jazmín y cuécelo en una cazuela con 180 ml de agua, tapado a fuego mínimo 12 minutos. Reposa 5 minutos.",
-    "Retira la canela, prueba y añade el zumo de media lima y ajusta de sal. Sirve sobre el arroz con el resto de cacahuetes picados."
+    "Mientras, lava el arroz jazmín y cuécelo en una cazuela con 180 ml de agua, tapado a fuego mínimo 12 minutos. Reposa 5 minutos. Pica el resto de los cacahuetes.",
+    "Retira la canela, prueba y añade el zumo de media lima y ajusta de sal. Sirve sobre el arroz con los cacahuetes picados."
   ],
   nutricion: { kcal: 840, prot: 45, hc: 80, grasa: 38 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno"],
@@ -444,11 +442,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata y córtala en rodajas gruesas; colócalas en el fondo de la olla lenta, que es la zona que más calor recibe.",
-    "Encima pon la cebolla y los pimientos en tiras y luego el pollo salpimentado en trozos grandes.",
+    "Corta la cebolla y los pimientos en tiras y el pollo en trozos grandes. Pon encima de la patata la cebolla y los pimientos y luego el pollo salpimentado.",
     "Mezcla el caldo con el tomate y el pimentón y viértelo por encima. Tapa y cocina en LOW 5 horas (o HIGH 3 horas), hasta que la patata esté tierna al pincharla.",
     "Disuelve la maicena en el yogur. Coge un cazo de salsa caliente, mézclalo con el yogur para templarlo y luego incorpóralo a la olla removiendo con suavidad.",
-    "Deja 15 minutos más en HIGH sin tapa para que la salsa espese y tome un color rojo anaranjado. Ajusta de sal.",
-    "Sirve espolvoreado con perejil picado."
+    "Deja 15 minutos más en HIGH sin tapa para que la salsa espese y tome un color rojo anaranjado. Mientras, pica el perejil. Ajusta de sal.",
+    "Sirve espolvoreado con el perejil."
   ],
   nutricion: { kcal: 470, prot: 38, hc: 40, grasa: 18 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "ligera", "poco especiada", "bajo en colesterol"],
@@ -490,10 +488,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las zanahorias y córtalas en rodajas finas. Pela el jengibre y córtalo en láminas.",
     "Pon en la olla lenta los contramuslos enteros, la zanahoria, el jengibre, la cúrcuma, el aceite de ajo, 1 cucharadita de sal y el agua caliente.",
-    "Tapa y cocina en LOW 4 horas (o HIGH 2 h 30 min), hasta que el pollo esté muy tierno y el caldo haya tomado un color dorado intenso.",
+    "Tapa y cocina en LOW 4 horas (o HIGH 2 h 30 min), hasta que el pollo esté muy tierno y el caldo haya tomado un color dorado intenso. Hacia el final, corta el calabacín en dados pequeños.",
     "Saca el pollo, desmenúzalo y retira las láminas de jengibre si no te gusta encontrarlas.",
-    "Lava el arroz, añádelo a la olla con el calabacín en dados pequeños y el pollo desmenuzado. Cocina en HIGH 35-40 minutos, hasta que el arroz esté tierno.",
-    "Incorpora las espinacas y la parte verde de la cebolleta en aros; en 2 minutos estarán blandas. Termina con el zumo de limón, pimienta y ajusta de sal."
+    "Lava el arroz, añádelo a la olla con el calabacín y el pollo desmenuzado. Cocina en HIGH 35-40 minutos, hasta que el arroz esté tierno. Mientras, corta en aros la parte verde de la cebolleta.",
+    "Incorpora las espinacas y la cebolleta; en 2 minutos estarán blandas. Termina con el zumo de limón, pimienta y ajusta de sal."
   ],
   nutricion: { kcal: 380, prot: 30, hc: 38, grasa: 12 },
   etiquetas: ["sin gluten", "bajo en fodmap", "olla lenta", "fácil", "tupper", "de cuchara", "ligera", "económica", "poco especiada", "bajo en colesterol"],
@@ -534,12 +532,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en la sartén a fuego medio y echa las semillas de mostaza; cuando empiecen a saltar (30 segundos), añade la cebolla picada y rehógala 6 minutos hasta que esté dorada.",
-    "Agrega el ajo y el jengibre rallados, el curry y la cúrcuma y remueve 30 segundos. Vuelca este sofrito en la olla lenta.",
-    "Añade los tomates rallados, la leche de coco, las alubias, el chile partido a lo largo y media cucharadita de sal. Mezcla.",
+    "Pica la cebolla y ralla el ajo y el jengibre. Calienta el aceite en la sartén a fuego medio y echa las semillas de mostaza; cuando empiecen a saltar (30 segundos), añade la cebolla y rehógala 6 minutos hasta que esté dorada. Mientras, ralla los tomates.",
+    "Agrega el ajo y el jengibre, el curry y la cúrcuma y remueve 30 segundos. Vuelca este sofrito en la olla lenta.",
+    "Añade el tomate rallado, la leche de coco, las alubias, el chile partido a lo largo y media cucharadita de sal. Mezcla.",
     "Tapa y cocina en LOW 4 horas (o HIGH 2 horas). Las alubias absorberán la salsa y quedarán cremosas.",
-    "Unos 20 minutos antes de servir, lava el arroz y cuécelo en una cazuela con 240 ml de agua y sal, tapado a fuego mínimo 12 minutos. Reposa 5 minutos.",
-    "Aplasta unas cucharadas de alubias contra la pared de la olla para espesar la salsa, prueba de sal y sirve sobre el arroz con cilantro picado."
+    "Unos 20 minutos antes de servir, lava el arroz y cuécelo en una cazuela con 240 ml de agua y sal, tapado a fuego mínimo 12 minutos. Reposa 5 minutos. Mientras, pica el cilantro.",
+    "Aplasta unas cucharadas de alubias contra la pared de la olla para espesar la salsa, prueba de sal y sirve sobre el arroz con el cilantro."
   ],
   nutricion: { kcal: 610, prot: 20, hc: 88, grasa: 20 },
   etiquetas: ["sin gluten", "vegana", "olla lenta", "fácil", "tupper", "batch cooking", "económica"],
@@ -624,8 +622,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la carne con papel, salpimiéntala y dórala en la sartén con el aceite muy caliente, en dos tandas, hasta que tenga costra marrón. Pásala a la olla lenta.",
-    "En la misma sartén rehoga la cebolla picada y el ajo 5 minutos, añade el tomate concentrado y tuéstalo 1 minuto. Vierte el vino y rasca el fondo; deja hervir 2 minutos.",
+    "Pica la cebolla y el ajo. Seca la carne con papel, salpimiéntala y dórala en la sartén con el aceite muy caliente, en dos tandas, hasta que tenga costra marrón. Pásala a la olla lenta.",
+    "En la misma sartén rehoga la cebolla y el ajo 5 minutos, añade el tomate concentrado y tuéstalo 1 minuto. Vierte el vino y rasca el fondo; deja hervir 2 minutos.",
     "Vuelca el contenido sobre la carne y añade el caldo, el tomillo y el laurel.",
     "Pela zanahorias, chirivía y patatas y córtalas en trozos grandes (unos 4 cm) para que no se deshagan. Repártelas por encima.",
     "Tapa y cocina en LOW 8 horas (o HIGH 5 horas), hasta que la carne se rompa con la cuchara.",
@@ -669,11 +667,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Adoba la costilla con 1 cucharadita de pimentón, el orégano, un ajo machacado, el aceite y sal. Déjala 15 minutos.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría (12 horas). Al día siguiente, machaca un ajo y adoba la costilla con él, 1 cucharadita de pimentón, el orégano, el aceite y sal. Déjala 15 minutos; mientras, pela la cebolla, corta la zanahoria en trozos y calienta el agua.",
     "Dora la costilla en la sartén a fuego fuerte 5 minutos, hasta que esté bien tostada, y pásala a la olla lenta.",
-    "Añade los garbanzos escurridos, la cebolla entera pelada, la zanahoria en trozos, el otro ajo, el laurel, el resto del pimentón y el agua caliente. Deben quedar cubiertos.",
+    "Añade los garbanzos escurridos, la cebolla entera, la zanahoria, el otro ajo, el laurel, el resto del pimentón y el agua caliente. Deben quedar cubiertos.",
     "Tapa y cocina en LOW 8 horas (o HIGH 5 horas), hasta que los garbanzos estén mantecosos.",
-    "Pela el nabo y córtalo en dados; corta el repollo en tiras. Añádelos a la olla, sube a HIGH y cocina 1 hora más, hasta que estén tiernos.",
+    "Hacia el final de la cocción, pela el nabo y córtalo en dados; corta el repollo en tiras. Añádelos a la olla, sube a HIGH y cocina 1 hora más, hasta que estén tiernos.",
     "Saca la cebolla, tritúrala con un cazo de caldo y devuélvela para espesar. Prueba de sal y sirve en plato hondo."
   ],
   nutricion: { kcal: 720, prot: 42, hc: 62, grasa: 34 },
@@ -711,13 +709,13 @@ window.RECETAS_SEED.push({
     { n: "agua", q: 100, u: "ml" }
   ],
   pasos: [
-    "Pincha la paleta por todas partes con un cuchillo, introduce los ajos laminados en los cortes y frótala con la sal gruesa y el pimentón ahumado.",
-    "Ponla en la olla lenta con el agua en el fondo. Tapa y cocina en LOW 9 horas (o HIGH 5 h 30 min), hasta que se desmorone al tocarla con un tenedor.",
+    "Lamina los ajos. Pincha la paleta por todas partes con un cuchillo, introduce los ajos en los cortes y frótala con la sal gruesa y el pimentón ahumado.",
+    "Ponla en la olla lenta con el agua en el fondo. Tapa y cocina en LOW 9 horas (o HIGH 5 h 30 min), hasta que se desmorone al tocarla con un tenedor. Hacia el final, corta la col en tiras finas.",
     "Saca la carne y desmenúzala con dos tenedores, desechando la grasa dura. Reserva el jugo de la olla.",
-    "Corta la col en tiras finas. Echa la col a la olla con el jugo, tapa y cocina en HIGH 20-25 minutos, hasta que esté tierna pero con algo de mordida.",
-    "Mientras, cuece el arroz en una cazuela con 300 ml de agua y sal, tapado a fuego mínimo 15 minutos, y reposa 5.",
+    "Echa la col a la olla con el jugo, tapa y cocina en HIGH 20-25 minutos, hasta que esté tierna pero con algo de mordida.",
+    "Mientras, cuece el arroz en una cazuela con 300 ml de agua y sal, tapado a fuego mínimo 15 minutos, y reposa 5. Corta la cebolleta en aros.",
     "Devuelve la carne a la olla con el tamari y mezcla. Dora la piña en una sartén seca a fuego fuerte 3 minutos, hasta que caramelice.",
-    "Sirve el cerdo con la col sobre el arroz, con la piña tostada y la cebolleta en aros."
+    "Sirve el cerdo con la col sobre el arroz, con la piña tostada y la cebolleta."
   ],
   nutricion: { kcal: 760, prot: 40, hc: 80, grasa: 32 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "poco especiada"],
@@ -756,12 +754,12 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 130, u: "g" }
   ],
   pasos: [
-    "Mezcla en la olla lenta el tamari, la miel, el vinagre de arroz, el jengibre y los ajos rallados.",
-    "Añade las zanahorias en rodajas al bies y encima los contramuslos enteros. Dales la vuelta para que se impregnen de salsa.",
+    "Ralla el jengibre y los ajos y mézclalos en la olla lenta con el tamari, la miel y el vinagre de arroz.",
+    "Pela las zanahorias, córtalas en rodajas al bies y añádelas; encima pon los contramuslos enteros. Dales la vuelta para que se impregnen de salsa.",
     "Tapa y cocina en LOW 4 horas (o HIGH 2 h 30 min), hasta que el pollo esté tierno.",
     "Saca el pollo y córtalo en tiras. Disuelve la maicena en una cucharada de agua fría, añádela a la salsa y cocina en HIGH 15 minutos sin tapa, hasta que espese y brille. Devuelve el pollo y mezcla.",
-    "Mientras, lava el arroz y cuécelo en una cazuela con 200 ml de agua, tapado a fuego mínimo 12 minutos; reposa 5 minutos.",
-    "Sirve el pollo y las zanahorias sobre el arroz, con unas gotas de aceite de sésamo, el sésamo tostado y la cebolleta en aros."
+    "Mientras, lava el arroz y cuécelo en una cazuela con 200 ml de agua, tapado a fuego mínimo 12 minutos; reposa 5 minutos. Corta la cebolleta en aros.",
+    "Sirve el pollo y las zanahorias sobre el arroz, con unas gotas de aceite de sésamo, el sésamo tostado y la cebolleta."
   ],
   nutricion: { kcal: 580, prot: 38, hc: 76, grasa: 14 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "poco especiada", "bajo en colesterol"],
@@ -803,8 +801,8 @@ window.RECETAS_SEED.push({
     "Pon todo en la olla lenta con el curry, el caldo y media cucharadita de sal.",
     "Tapa y cocina en LOW 5 horas (o HIGH 3 horas), hasta que el boniato se aplaste con una cuchara.",
     "Añade la leche de coco (reserva 2 cucharadas para decorar) y tritura con la batidora de mano hasta obtener una crema muy fina.",
-    "Ajusta la textura con un poco de agua caliente si la quieres más ligera, añade el zumo de la lima y prueba de sal.",
-    "Sirve con un hilo de leche de coco, las semillas de calabaza tostadas y cilantro picado."
+    "Ajusta la textura con un poco de agua caliente si la quieres más ligera, añade el zumo de la lima y prueba de sal. Pica el cilantro.",
+    "Sirve con un hilo de leche de coco, las semillas de calabaza tostadas y el cilantro."
   ],
   nutricion: { kcal: 410, prot: 6, hc: 60, grasa: 16 },
   etiquetas: ["sin gluten", "vegana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "ligera"],
@@ -847,11 +845,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta las costillas y dóralas en la sartén con el aceite a fuego fuerte, 3 minutos por cara, hasta que estén muy tostadas. Pásalas a la olla lenta con el hueso hacia arriba.",
-    "Retira casi toda la grasa de la sartén y rehoga la cebolla, la zanahoria y el apio picados 6 minutos. Añade el ajo y el tomate concentrado y tuesta 1 minuto.",
+    "Pica la cebolla, la zanahoria, el apio y el ajo. Salpimienta las costillas y dóralas en la sartén con el aceite a fuego fuerte, 3 minutos por cara, hasta que estén muy tostadas. Pásalas a la olla lenta con el hueso hacia arriba.",
+    "Retira casi toda la grasa de la sartén y rehoga la cebolla, la zanahoria y el apio 6 minutos. Añade el ajo y el tomate concentrado y tuesta 1 minuto.",
     "Vierte el vino, rasca el fondo y deja reducir a la mitad, unos 4 minutos. Vuelca sobre las costillas con el caldo y el romero.",
     "Tapa y cocina en LOW 8 horas (o HIGH 5 horas), hasta que la carne se separe del hueso al tirar con una pinza.",
-    "Para el puré, cuece la chirivía y la patata peladas y troceadas en una cazuela con agua salada 20 minutos. Escurre, aplasta con la mantequilla y la leche caliente y salpimienta.",
+    "Unos 30 minutos antes del final, pela y trocea la chirivía y la patata y cuécelas en una cazuela con agua salada 20 minutos. Escurre, aplasta con la mantequilla y la leche caliente, salpimienta y pasa el puré a un bol tapado.",
     "Saca las costillas con cuidado. Cuela la salsa en la cazuela, desgrásala con una cuchara y redúcela a fuego fuerte 8-10 minutos, hasta que nape el dorso de la cuchara.",
     "Sirve las costillas sobre el puré y báñalas con la salsa reducida."
   ],
@@ -892,11 +890,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los frijoles y ponlos en la olla lenta con la cebolla picada, los ajos enteros pelados, el chipotle picado con una cucharadita de su salsa, el comino, el laurel y la ralladura de la naranja.",
+    "La víspera, pon los frijoles en remojo en abundante agua fría (12 horas). Al día siguiente, pica la cebolla y el chipotle, pela los ajos y ralla la piel de la naranja. Escurre los frijoles y ponlos en la olla lenta con la cebolla, los ajos enteros, el chipotle con una cucharadita de su salsa, el comino, el laurel y la ralladura de la naranja.",
     "Cubre con el agua caliente, tapa y cocina en LOW 8 horas (o HIGH 5 horas), hasta que los frijoles estén tiernos y cremosos. No eches sal hasta el final o se endurecerá la piel.",
     "Sala, añade el zumo de la naranja y aplasta un cazo de frijoles contra la pared para espesar el caldo. Deja 15 minutos más en HIGH sin tapa.",
-    "Mientras, sofríe el arroz en una cazuela con el aceite 1 minuto, añade 260 ml de agua y sal, tapa y cuece a fuego mínimo 15 minutos. Reposa 5 minutos.",
-    "Sirve los frijoles con su caldo espeso junto al arroz y cilantro picado por encima."
+    "Mientras, sofríe el arroz en una cazuela con el aceite 1 minuto, añade 260 ml de agua y sal, tapa y cuece a fuego mínimo 15 minutos. Reposa 5 minutos. Pica el cilantro.",
+    "Sirve los frijoles con su caldo espeso junto al arroz y el cilantro por encima."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 108, grasa: 9 },
   etiquetas: ["sin gluten", "vegana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "picante", "sin verduras", "bajo en colesterol"],
@@ -935,11 +933,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En la olla lenta, bate la crema de cacahuete con el caldo caliente hasta que se disuelva. Añade el tomate, el ajo y el jengibre rallados y el chile entero pinchado.",
-    "Incorpora la cebolla picada, el boniato pelado en dados de 3 cm y el pavo salado. Mezcla.",
+    "Pica la cebolla, pela el boniato y córtalo en dados de 3 cm y ralla el ajo y el jengibre. En la olla lenta, bate la crema de cacahuete con el caldo caliente hasta que se disuelva. Añade el tomate, el ajo, el jengibre y el chile entero pinchado.",
+    "Incorpora la cebolla, el boniato y el pavo salado. Mezcla.",
     "Tapa y cocina en LOW 6 horas (o HIGH 3 h 30 min), hasta que el pavo esté tierno y el boniato empiece a deshacerse en los bordes, espesando la salsa.",
-    "Unos 20 minutos antes de servir, cuece el arroz en una cazuela con 260 ml de agua y sal, tapado a fuego mínimo 15 minutos; reposa 5.",
-    "Retira el chile, remueve el guiso, ajusta de sal y sirve sobre el arroz con cilantro picado."
+    "Unos 20 minutos antes de servir, cuece el arroz en una cazuela con 260 ml de agua y sal, tapado a fuego mínimo 15 minutos; reposa 5. Mientras, pica el cilantro.",
+    "Retira el chile, remueve el guiso, ajusta de sal y sirve sobre el arroz con el cilantro."
   ],
   nutricion: { kcal: 770, prot: 45, hc: 80, grasa: 30 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "alta en proteína"],
@@ -983,7 +981,7 @@ window.RECETAS_SEED.push({
     "Corta la zanahoria, la patata, el calabacín y el puerro en dados pequeños y las judías verdes en trozos de 2 cm. Pela y trocea el tomate.",
     "Pon todas las verduras en la olla lenta con el caldo caliente y media cucharadita de sal. Tapa y cocina en LOW 4 horas (o HIGH 2 h 30 min).",
     "Lava bien la quinoa en un colador fino y añádela a la olla con las alubias escurridas. Cocina 30 minutos más en HIGH, hasta que la quinoa muestre su anillo blanco.",
-    "Mientras, prepara el pistou: tritura las hojas de albahaca con el ajo, el parmesano rallado, el aceite y una cucharada de agua hasta tener una pasta verde.",
+    "Mientras, ralla el parmesano y prepara el pistou: tritura las hojas de albahaca con el ajo, el parmesano, el aceite y una cucharada de agua hasta tener una pasta verde.",
     "Prueba la sopa de sal y sírvela en cuencos con una cucharada generosa de pistou en el centro, para que cada uno lo mezcle en su plato."
   ],
   nutricion: { kcal: 390, prot: 16, hc: 50, grasa: 14 },
@@ -1027,8 +1025,8 @@ window.RECETAS_SEED.push({
     "Ponlos en la olla lenta con el tomate, el tomillo, 2 cucharadas de aceite, sal y pimienta. Mezcla bien.",
     "Tapa y cocina en HIGH 4 horas (o LOW 6 horas), hasta que las verduras estén muy blandas y melosas. Si hay mucho líquido, destapa los últimos 30 minutos.",
     "Seca los lomos de bacalao con papel y colócalos sobre la samfaina con la piel hacia arriba. Riega con la última cucharada de aceite.",
-    "Tapa y cocina en HIGH 25-30 minutos, hasta que el bacalao esté opaco y se separe en láminas al presionarlo.",
-    "Sirve cada lomo sobre una buena cama de samfaina con perejil picado."
+    "Tapa y cocina en HIGH 25-30 minutos, hasta que el bacalao esté opaco y se separe en láminas al presionarlo. Mientras, pica el perejil.",
+    "Sirve cada lomo sobre una buena cama de samfaina con el perejil."
   ],
   nutricion: { kcal: 380, prot: 34, hc: 22, grasa: 17 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "ligera", "alta en proteína", "poco especiada", "bajo en colesterol"],
@@ -1070,10 +1068,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla, el hinojo y los ajos y ponlos en la olla lenta con el tomate, el vino, el caldo, la guindilla desmenuzada, el aceite y una pizca de sal.",
-    "Tapa y cocina en LOW 3 horas (o HIGH 2 horas) para que la base se concentre y el hinojo quede tierno y dulce.",
-    "Pon la olla en HIGH. Añade la merluza en trozos de 4 cm y los mejillones, tapa y cocina 15 minutos.",
-    "Incorpora las gambas, tapa de nuevo y cocina 8-10 minutos más, hasta que las gambas estén rosadas y los mejillones abiertos (desecha los que sigan cerrados).",
-    "Tuesta el pan sin gluten y sirve el guiso en cuencos hondos con perejil picado y el pan para mojar."
+    "Tapa y cocina en LOW 3 horas (o HIGH 2 horas) para que la base se concentre y el hinojo quede tierno y dulce. Hacia el final, corta la merluza en trozos de 4 cm.",
+    "Pon la olla en HIGH. Añade la merluza y los mejillones, tapa y cocina 15 minutos.",
+    "Incorpora las gambas, tapa de nuevo y cocina 8-10 minutos más, hasta que las gambas estén rosadas y los mejillones abiertos (desecha los que sigan cerrados). Mientras, tuesta el pan sin gluten y pica el perejil.",
+    "Sirve el guiso en cuencos hondos con el perejil y el pan para mojar."
   ],
   nutricion: { kcal: 450, prot: 48, hc: 34, grasa: 14 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "ligera", "alta en proteína"],
@@ -1112,9 +1110,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala las carrilladas y dóralas en la sartén con el aceite a fuego fuerte 2 minutos por cara. Pásalas a la olla lenta.",
-    "En la misma sartén rehoga la cebolla en juliana y el ajo laminado 5 minutos. Aparta del fuego, añade el pimentón y el comino, remueve 15 segundos y vierte el caldo para que no se queme.",
-    "Vuelca el sofrito sobre la carne. Añade el zumo de las naranjas, la ralladura de una, la miel y el tomillo.",
+    "Corta la cebolla en juliana y lamina el ajo. Sala las carrilladas y dóralas en la sartén con el aceite a fuego fuerte 2 minutos por cara. Pásalas a la olla lenta.",
+    "En la misma sartén rehoga la cebolla y el ajo 5 minutos; mientras, ralla la piel de una naranja y exprime las dos. Aparta del fuego, añade el pimentón y el comino, remueve 15 segundos y vierte el caldo para que no se queme.",
+    "Vuelca el sofrito sobre la carne. Añade el zumo de naranja, la ralladura, la miel y el tomillo.",
     "Pela el boniato, córtalo en trozos de 4 cm y colócalo alrededor de la carne.",
     "Tapa y cocina en LOW 8 horas (o HIGH 4 h 30 min), hasta que la carrillada se corte con una cuchara.",
     "Si la salsa está clara, saca carne y boniato y redúcela 15 minutos en HIGH sin tapa. Sirve la carrillada con el boniato y bien de salsa."

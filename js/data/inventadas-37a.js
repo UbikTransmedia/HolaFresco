@@ -72,11 +72,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela en una cazuela con el doble de su volumen de agua y sal, 12 minutos a fuego bajo y tapada. Apaga y deja reposar 5 minutos.",
-    "Pica los pistachos gruesos con el perejil y la ralladura de medio limón. Sala los lomos, úntalos por encima con la mostaza y aprieta la mezcla de pistacho para que quede pegada.",
+    "Mientras, pica los pistachos gruesos con el perejil y la ralladura de medio limón. Sala los lomos, úntalos por encima con la mostaza y aprieta la mezcla de pistacho para que quede pegada.",
     "Corta la parte dura de los espárragos, úntalos con media cucharada de aceite y sal y ponlos en la cesta. Coloca el salmón encima o al lado, con la costra hacia arriba, y riega la costra con unas gotas de aceite.",
     "Cocina a 180 °C durante 9–10 minutos, sin dar la vuelta: la costra debe quedar dorada y el salmón jugoso, que se separe en lascas por el centro.",
-    "Aliña la quinoa con el zumo de medio limón, el resto del aceite, sal y pimienta.",
-    "Sirve el salmón sobre la quinoa con los espárragos y gajos de limón."
+    "Mientras, aliña la quinoa con el zumo de medio limón, el resto del aceite, sal y pimienta, y corta el resto del limón en gajos.",
+    "Sirve el salmón sobre la quinoa con los espárragos y los gajos de limón."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 40, grasa: 34 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "rápida", "fácil", "omega 3", "superalimentos", "poco especiada"],
@@ -112,11 +112,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Unta con media cucharada de aceite un molde apto para airfryer de unos 18 cm. Pon dentro el brócoli y la cebolleta picada con una pizca de sal y cocina a 180 °C durante 6 minutos, removiendo a mitad.",
+    "Pica la cebolleta. Unta con media cucharada de aceite un molde apto para airfryer de unos 18 cm. Pon dentro el brócoli y la cebolleta con una pizca de sal y cocina a 180 °C durante 6 minutos, removiendo a mitad.",
+    "Mientras, bate los huevos con la leche, dos tercios del parmesano, sal y pimienta.",
     "Añade los guisantes congelados al molde, remueve y cocina 2 minutos más.",
-    "Bate los huevos con la leche, dos tercios del parmesano, sal y pimienta. Vierte la mezcla sobre las verduras y reparte el resto del parmesano por encima.",
-    "Cocina a 160 °C durante 12–14 minutos, hasta que la superficie esté dorada y al pinchar el centro con un palillo salga limpio. Si se dora demasiado rápido, cubre con papel de horno.",
-    "Mientras, corta los tomates en rodajas y aliña con el resto del aceite y sal.",
+    "Vierte el huevo batido sobre las verduras y reparte el resto del parmesano por encima.",
+    "Cocina a 160 °C durante 12–14 minutos, hasta que la superficie esté dorada y al pinchar el centro con un palillo salga limpio. Si se dora demasiado rápido, cubre con papel de horno. Mientras, corta los tomates en rodajas y aliña con el resto del aceite y sal.",
     "Deja templar la frittata 5 minutos, desmóldala y córtala en porciones."
   ],
   nutricion: { kcal: 440, prot: 31, hc: 18, grasa: 27 },
@@ -199,10 +199,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el tofu prensado en dados de 2 cm, mézclalo con 1 cucharada de tamari y luego espolvorea la maicena removiendo hasta que quede bien cubierto.",
     "Pincela los dados con media cucharada de aceite de sésamo y cocínalos en la airfryer a 200 °C durante 15 minutos, agitando la cesta a los 7 minutos, hasta que estén dorados y crujientes.",
-    "Mientras, hidrata los fideos de arroz en agua hirviendo según el paquete (unos 5 minutos), escúrrelos y pásalos por agua fría.",
-    "Corta la zanahoria y el pepino en bastones finos o en tiras con un pelador.",
+    "Mientras, hidrata los fideos de arroz en agua hirviendo según el paquete (unos 5 minutos), escúrrelos y pásalos por agua fría. Corta la zanahoria y el pepino en bastones finos o en tiras con un pelador, pica los cacahuetes y deshoja el cilantro.",
     "Mezcla en un bol grande la sriracha, el resto del tamari, el zumo de la lima, el sirope y el resto del aceite de sésamo. Echa el tofu recién salido de la airfryer y remueve para que se impregne.",
-    "Reparte los fideos con la zanahoria y el pepino, coloca el tofu con su salsa encima y termina con cacahuetes picados y cilantro."
+    "Reparte los fideos con la zanahoria y el pepino, coloca el tofu con su salsa encima y termina con los cacahuetes y el cilantro."
   ],
   nutricion: { kcal: 620, prot: 31.5, hc: 67, grasa: 25 },
   etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "picante", "fácil", "tupper", "ideal para llevar", "bajo en colesterol"],
@@ -244,7 +243,7 @@ window.RECETAS_SEED.push({
     "Corta el calabacín en medias lunas de 1,5 cm y la cebolla en gajos. Ensarta el pavo alternando con la verdura en 4–6 palillos de brocheta cortos que quepan en la cesta.",
     "Pincela las brochetas con el resto del aceite y colócalas en la cesta sin que se toquen demasiado.",
     "Cocina a 200 °C durante 12–14 minutos, dándoles la vuelta a mitad, hasta que el pavo esté dorado por fuera y jugoso por dentro.",
-    "Mientras, ralla el ajo sobre el yogur, añade el zumo del otro medio limón, el perejil picado y sal, y mezcla.",
+    "Mientras, pica el perejil, ralla el ajo sobre el yogur, añade el zumo del otro medio limón, el perejil y sal, y mezcla.",
     "Sirve las brochetas con la salsa de yogur por encima o al lado."
   ],
   nutricion: { kcal: 310, prot: 41, hc: 12.5, grasa: 10.5 },
@@ -283,11 +282,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla las patatas con media cucharada de aceite y sal y cocínalas en la airfryer a 200 °C durante 10 minutos, agitando a mitad.",
-    "Mientras, mezcla el panko con el parmesano, el perejil picado, la ralladura del limón y media cucharada de aceite hasta que parezca arena húmeda.",
-    "Seca la merluza, sálala, úntala por encima con la mostaza y presiona la mezcla de panko para formar la costra.",
-    "Añade a la cesta el brócoli mezclado con el resto del aceite y sal, y coloca la merluza encima con la costra hacia arriba (sobre un trozo de papel de horno si es frágil).",
-    "Cocina a 190 °C durante 9–10 minutos, hasta que la costra esté dorada, el pescado opaco y en lascas y el brócoli con las puntas tostadas.",
-    "Sirve con gajos de limón para exprimir por encima."
+    "Mientras, pica el perejil y mézclalo con el panko, el parmesano, la ralladura del limón y media cucharada de aceite hasta que parezca arena húmeda.",
+    "Seca la merluza, sálala, úntala por encima con la mostaza y presiona la mezcla de panko para formar la costra. Mezcla el brócoli con el resto del aceite y sal.",
+    "Añade a la cesta el brócoli y coloca la merluza encima con la costra hacia arriba (sobre un trozo de papel de horno si es frágil).",
+    "Cocina a 190 °C durante 9–10 minutos, hasta que la costra esté dorada, el pescado opaco y en lascas y el brócoli con las puntas tostadas. Mientras, corta el limón en gajos.",
+    "Sirve con los gajos de limón para exprimir por encima."
   ],
   nutricion: { kcal: 460, prot: 39.5, hc: 38, grasa: 16.5 },
   etiquetas: ["saludable", "práctica", "airfryer", "ligera", "alta en proteína", "fácil", "para niños", "una sola cesta", "poco especiada"],
@@ -329,9 +328,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Ralla el jengibre y el ajo y mézclalos con 1 cucharada de tamari y la miel. Corta la pechuga en dos filetes gruesos y úntalos con la mezcla.",
     "Cocina el pollo en la airfryer a 190 °C durante 12–14 minutos, dándole la vuelta a mitad, hasta que esté dorado y el jugo salga transparente. Deja reposar 5 minutos y córtalo en tiras.",
-    "Mientras, corta la col china en tiras finas, ralla la zanahoria y pica la cebolleta. Pela la naranja a lo vivo y separa los gajos, guardando el jugo que suelten.",
+    "Mientras, corta la col china en tiras finas, ralla la zanahoria, pica la cebolleta y los cacahuetes y deshoja el cilantro. Pela la naranja a lo vivo y separa los gajos, guardando el jugo que suelten.",
     "Prepara el aliño batiendo el resto del tamari, el vinagre de arroz, el aceite de sésamo y el jugo de la naranja.",
-    "Mezcla las verduras y la naranja con el aliño, reparte el pollo por encima y termina con cacahuetes picados, sésamo y cilantro."
+    "Mezcla las verduras y la naranja con el aliño, reparte el pollo por encima y termina con los cacahuetes, el sésamo y el cilantro."
   ],
   nutricion: { kcal: 380, prot: 39, hc: 21.5, grasa: 15.5 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "rápida", "fácil", "tupper", "ideal para llevar", "poco especiada", "bajo en colesterol"],
@@ -370,8 +369,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta una tapa a cada tomate y vacíalos con una cucharilla, reservando la pulpa. Sala el interior y ponlos boca abajo 5 minutos para que escurran.",
-    "Pon el cuscús en un bol con media cucharada de aceite, vierte el caldo caliente, tapa y deja 5 minutos. Suelta los granos con un tenedor.",
-    "Pica la pulpa del tomate y mézclala con el cuscús, los garbanzos, la mitad del feta desmenuzado, el comino, las hierbas picadas, el zumo del limón, sal y pimienta.",
+    "Mientras escurren, pon el cuscús en un bol con media cucharada de aceite, vierte el caldo caliente, tapa y deja 5 minutos. Pica la menta y el perejil y desmenuza el feta. Suelta los granos del cuscús con un tenedor.",
+    "Pica la pulpa del tomate y mézclala con el cuscús, los garbanzos, la mitad del feta, el comino, las hierbas, el zumo del limón, sal y pimienta.",
     "Rellena los tomates apretando un poco, reparte por encima el resto del feta y riega con el aceite restante. Coloca las tapas al lado.",
     "Cocina en la airfryer a 180 °C durante 12–15 minutos, hasta que los tomates estén tiernos pero sin abrirse y el feta dorado.",
     "Sirve calientes o templados con el relleno que haya sobrado como guarnición."
@@ -418,8 +417,8 @@ window.RECETAS_SEED.push({
     "Mientras, mezcla las especias con sal y pimienta. Unta los contramuslos con media cucharada de aceite y frótalos con la mezcla de especias por todos lados.",
     "Despunta las judías verdes, córtalas por la mitad y mézclalas con el resto del aceite y sal.",
     "Pon el pollo en la cesta y cocina a 200 °C durante 10 minutos. Dale la vuelta, añade las judías alrededor y cocina 8–10 minutos más, agitando las judías una vez: el pollo debe estar bien dorado y las judías tiernas con algún punto tostado.",
-    "Mezcla el yogur con la ralladura y el zumo de media lima y una pizca de sal.",
-    "Corta el pollo en tiras y sírvelo con el arroz, las judías, la salsa de yogur y gajos de lima."
+    "Mientras se hace el pollo, mezcla el yogur con la ralladura y el zumo de media lima y una pizca de sal, y corta el resto de la lima en gajos.",
+    "Corta el pollo en tiras y sírvelo con el arroz, las judías, la salsa de yogur y los gajos de lima."
   ],
   nutricion: { kcal: 530, prot: 38.5, hc: 54, grasa: 18 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "económica", "tupper", "ideal para llevar", "batch cooking", "bajo en colesterol"],
@@ -457,10 +456,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En un molde apto para airfryer mezcla los garbanzos, los tomates cherry, el ajo laminado, el pimentón dulce, el comino, 1 cucharada de aceite y sal.",
-    "Cocina a 190 °C durante 8 minutos, removiendo a mitad, hasta que los tomates empiecen a reventar.",
+    "Lamina el ajo. En un molde apto para airfryer mezcla los garbanzos, los tomates cherry, el ajo, el pimentón dulce, el comino, 1 cucharada de aceite y sal.",
+    "Cocina a 190 °C durante 8 minutos, removiendo a mitad, hasta que los tomates empiecen a reventar. Mientras, sala el abadejo y úntalo con media cucharada de aceite y el pimentón ahumado.",
     "Añade las espinacas en dos tandas, removiendo para que se ablanden con el calor, y el vinagre.",
-    "Sala el abadejo, úntalo con media cucharada de aceite y el pimentón ahumado y colócalo sobre los garbanzos.",
+    "Coloca el abadejo sobre los garbanzos.",
     "Cocina a 180 °C durante 8–9 minutos, hasta que el pescado esté opaco y se separe en lascas.",
     "Riega con el resto del aceite y unas gotas de limón y sirve directamente del molde."
   ],
@@ -500,8 +499,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla el calabacín, mézclalo con media cucharadita de sal y déjalo 10 minutos en un colador. Después estrújalo con las manos o en un paño hasta sacar todo el líquido posible.",
-    "Mezcla el calabacín con los huevos, la ricotta, el parmesano, los copos de avena, la mitad de la albahaca picada y pimienta. Debe quedar una masa que se pueda moldear; si está blanda, añade una cucharada más de avena.",
+    "Ralla el calabacín, mézclalo con media cucharadita de sal y déjalo 10 minutos en un colador; mientras, pica la mitad de la albahaca. Después estruja el calabacín con las manos o en un paño hasta sacar todo el líquido posible.",
+    "Mezcla el calabacín con los huevos, la ricotta, el parmesano, los copos de avena, la albahaca picada y pimienta. Debe quedar una masa que se pueda moldear; si está blanda, añade una cucharada más de avena.",
     "Forma 12 bocados ovalados con dos cucharas, colócalos en la cesta sobre papel de horno perforado y pincélalos con la mitad del aceite.",
     "Cocina a 190 °C durante 14 minutos, dándoles la vuelta con cuidado a los 8 minutos, hasta que estén dorados y firmes.",
     "Mientras, mezcla en un bol apto el tomate triturado, el ajo rallado, el orégano, el resto del aceite y sal. Calienta en el microondas a máxima potencia 5–6 minutos, tapado y removiendo a mitad.",
@@ -547,11 +546,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz, ponlo en un recipiente apto para microondas con 300 ml de agua y sal, tápalo dejando una rendija y cocina 12 minutos a 800 W. Déjalo reposar tapado 5 minutos.",
-    "Mientras, mezcla el pollo picado con la avena, el huevo, la cebolla rallada, la mitad del ajo y del jengibre rallados, 1 cucharadita de curry y sal. Forma 14–16 albóndigas del tamaño de una nuez.",
+    "Mientras, ralla el ajo y el jengibre. Mezcla el pollo picado con la avena, el huevo, la cebolla rallada, la mitad del ajo y del jengibre, 1 cucharadita de curry y sal. Forma 14–16 albóndigas del tamaño de una nuez.",
     "Pincélalas con media cucharada de aceite y cocínalas en la airfryer a 190 °C durante 12 minutos, agitando la cesta a mitad, hasta que estén doradas.",
-    "En un bol apto para microondas mezcla el tomate, el resto del ajo, el jengibre y el curry, el garam masala, el resto del aceite y sal. Calienta 4 minutos a máxima potencia.",
+    "Mientras se hacen, pica el cilantro y mezcla en un bol apto para microondas el tomate, el resto del ajo, el jengibre y el curry, el garam masala, el resto del aceite y sal. Cuando saques el arroz, calienta la salsa 4 minutos a máxima potencia.",
     "Añade las espinacas a la salsa caliente, remueve hasta que se ablanden y después incorpora el yogur fuera del fuego para que no se corte.",
-    "Mezcla las albóndigas con la salsa y sírvelas sobre el arroz con cilantro picado."
+    "Mezcla las albóndigas con la salsa y sírvelas sobre el arroz con el cilantro."
   ],
   nutricion: { kcal: 590, prot: 49, hc: 64.5, grasa: 15 },
   etiquetas: ["saludable", "práctica", "airfryer", "microondas", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "batch cooking", "para niños"],
@@ -587,11 +586,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la coliflor, la cebolla en gajos y los ajos con piel con 1 cucharada de aceite, el tomillo y sal.",
+    "Corta la cebolla en gajos y mézclala con la coliflor y los ajos con piel, 1 cucharada de aceite, el tomillo y sal.",
     "Ásalo todo en la airfryer a 190 °C durante 18–20 minutos, agitando la cesta cada 6 minutos, hasta que la coliflor tenga bordes bien dorados.",
-    "Mientras, calienta el caldo en el microondas 3–4 minutos.",
+    "Mientras, calienta el caldo en el microondas 3–4 minutos. Templa también el resto del aceite 20 segundos y mézclalo con el pimentón (sin que llegue a humear, para que no amargue).",
     "Pela los ajos asados y ponlos en el vaso de la batidora con la coliflor, la cebolla, las alubias y el caldo caliente. Tritura hasta que quede muy fina; si la quieres más ligera, añade agua.",
-    "Templa el resto del aceite 20 segundos en el microondas y mézclalo con el pimentón (sin que llegue a humear, para que no amargue).",
     "Sirve la crema con un hilo de aceite de pimentón y pimienta recién molida."
   ],
   nutricion: { kcal: 300, prot: 13.5, hc: 30, grasa: 14 },
@@ -630,10 +628,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Asa los pimientos enteros en la airfryer a 200 °C durante 18–20 minutos, girándolos a mitad, hasta que la piel esté arrugada y negra en zonas. Mételos en un bol tapado 10 minutos.",
     "Mientras, corta las patatas en rodajas de 1 cm, mézclalas con 1 cucharada de aceite, el pimentón y sal, y cocínalas a 200 °C durante 18 minutos, agitando dos veces, hasta que estén doradas.",
-    "Pela los pimientos, córtalos en tiras con su jugo y alíñalos con el ajo picado, el vinagre, 1 cucharada de aceite y sal.",
+    "Mientras se hacen las patatas, pica el ajo y el perejil y corta el limón en gajos. Pela los pimientos, córtalos en tiras con su jugo y alíñalos con el ajo, el vinagre, 1 cucharada de aceite y sal.",
     "Seca las sardinas, sálalas y úntalas con el resto del aceite. Colócalas en la cesta en una capa, sin amontonar.",
     "Cocina a 200 °C durante 8–10 minutos, dándoles la vuelta a mitad, hasta que la piel esté dorada y la carne se separe de la espina.",
-    "Sirve las sardinas con las patatas, los pimientos, perejil picado y limón."
+    "Sirve las sardinas con las patatas, los pimientos, el perejil y el limón."
   ],
   nutricion: { kcal: 680, prot: 44, hc: 52, grasa: 33 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "omega 3", "fácil", "económica", "verano", "poco especiada"],
@@ -671,11 +669,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal unos 30 minutos. Añade el edamame congelado a la misma olla los últimos 4 minutos y escurre todo junto.",
-    "Mientras, mezcla el miso con el tamari, la miel, el jengibre rallado, la ralladura de la lima y el zumo de media lima hasta obtener una pasta.",
-    "Unta los contramuslos con dos tercios de la pasta de miso y déjalos 10 minutos.",
+    "Mientras, ralla el jengibre y mézclalo con el miso, el tamari, la miel, la ralladura de la lima y el zumo de media lima hasta obtener una pasta.",
+    "Unta los contramuslos con dos tercios de la pasta de miso y déjalos 10 minutos. Pica la cebolleta.",
     "Cocínalos en la airfryer a 190 °C durante 14–16 minutos, dándoles la vuelta a mitad y pincelándolos con el resto del glaseado en los últimos 4 minutos. Vigila: el miso se tuesta rápido; deben quedar caramelizados, no quemados.",
     "Aliña el arroz con el edamame con el aceite de sésamo y el zumo de la otra media lima.",
-    "Corta el pollo en tiras y sírvelo sobre el arroz con cebolleta picada y sésamo."
+    "Corta el pollo en tiras y sírvelo sobre el arroz con la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 550, prot: 42.5, hc: 56.5, grasa: 17 },
   etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "tupper", "ideal para llevar", "batch cooking", "sin verduras", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -714,11 +712,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz jazmín con 1,5 veces su volumen de agua y sal, tapado y a fuego bajo, 12 minutos. Añade el edamame encima los últimos 4 minutos y deja reposar tapado.",
-    "Mezcla la coliflor con media cucharada de aceite de sésamo y la maicena hasta que quede ligeramente cubierta.",
+    "Mientras, mezcla la coliflor con media cucharada de aceite de sésamo y la maicena hasta que quede ligeramente cubierta.",
     "Cocínala en la airfryer a 200 °C durante 14 minutos, agitando la cesta a mitad, hasta que tenga bordes dorados.",
-    "Mientras, bate el gochujang con el tamari, el sirope, el ajo rallado, el vinagre y el resto del aceite de sésamo.",
+    "Mientras, ralla el ajo y bátelo con el gochujang, el tamari, el sirope, el vinagre y el resto del aceite de sésamo. Pica la cebolleta.",
     "Pasa la coliflor a un bol, échale la salsa y remueve. Devuélvela a la cesta y cocina 3–4 minutos más a 200 °C, hasta que el glaseado quede pegajoso y brillante.",
-    "Sirve sobre el arroz con el edamame, con cebolleta picada y sésamo por encima."
+    "Sirve sobre el arroz con el edamame, con la cebolleta y el sésamo por encima."
   ],
   nutricion: { kcal: 525, prot: 22, hc: 75.5, grasa: 15 },
   etiquetas: ["saludable", "práctica", "airfryer", "vegana", "picante", "fácil", "tupper", "ideal para llevar", "superalimentos", "bajo en colesterol"],
@@ -757,10 +755,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela con el doble de agua y sal, tapada y a fuego bajo, 12 minutos. Reposa 5 minutos y suéltala con un tenedor.",
-    "Mezcla la calabaza con media cucharada de aceite, el pimentón y sal. Cocínala en la airfryer a 200 °C durante 10 minutos.",
-    "Añade el brócoli con unas gotas de aceite y sal, agita y cocina 8 minutos más, hasta que la calabaza esté tierna y el brócoli tostado en las puntas.",
+    "Mientras, mezcla la calabaza con media cucharada de aceite, el pimentón y sal. Cocínala en la airfryer a 200 °C durante 10 minutos.",
+    "Añade el brócoli con unas gotas de aceite y sal, agita y cocina 8 minutos más, hasta que la calabaza esté tierna y el brócoli tostado en las puntas. Mientras, bate la mostaza, el sirope, el vinagre, el resto del aceite y sal.",
     "Tuesta las semillas de calabaza 2 minutos a 180 °C en la cesta vacía (vigílalas: saltan y se queman rápido).",
-    "Bate la mostaza, el sirope, el vinagre, el resto del aceite y sal.",
     "Mezcla la quinoa con las verduras asadas, los canónigos y el aliño, y termina con los arándanos y las semillas."
   ],
   nutricion: { kcal: 460, prot: 16, hc: 54.5, grasa: 20 },
@@ -801,7 +798,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Machaca los ajos con sal y mézclalos con los pimentones, el orégano, el comino, el vinagre y 1 cucharada de aceite. Unta los filetes con el adobo y déjalos al menos 15 minutos (o toda la noche en la nevera).",
-    "Corta las patatas en dados de 2 cm, los pimientos en tiras y la cebolla en gajos. Mézclalo con 1 cucharada de aceite y sal.",
+    "Mientras, corta las patatas en dados de 2 cm, los pimientos en tiras y la cebolla en gajos. Mézclalo con 1 cucharada de aceite y sal.",
     "Cocina las verduras en la airfryer a 200 °C durante 20 minutos, agitando cada 7 minutos, hasta que las patatas estén doradas y tiernas. Pásalas a una fuente y tápalas.",
     "Pincela los filetes con el resto del aceite y colócalos en la cesta sin amontonar.",
     "Cocina a 200 °C durante 8–10 minutos, dándoles la vuelta a mitad: deben quedar dorados y con el centro apenas rosado.",
@@ -843,11 +840,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz jazmín con 1,5 veces su volumen de agua y sal, tapado y a fuego bajo, 12 minutos. Deja reposar tapado.",
-    "Corta el pepino en rodajas muy finas, mézclalo con el vinagre de arroz y una pizca de sal y déjalo encurtir mientras cocinas.",
-    "Mezcla el tamari con el zumo de media naranja, un poco de su ralladura, el jengibre rallado y la miel.",
+    "Mientras, corta el pepino en rodajas muy finas, mézclalo con el vinagre de arroz y una pizca de sal y déjalo encurtir mientras cocinas.",
+    "Ralla el jengibre y mézclalo con el tamari, el zumo de media naranja, un poco de su ralladura y la miel. Pica la cebolleta y pela la otra media naranja en gajos.",
     "Coloca los lomos de caballa en la cesta sobre papel de horno perforado, con la piel hacia arriba, y pincélalos con la mitad del glaseado.",
     "Cocina a 200 °C durante 7–8 minutos, pincelando con el resto del glaseado a mitad, hasta que la piel esté tostada y la carne se separe con facilidad.",
-    "Sirve sobre el arroz con el pepino escurrido, cebolleta picada, sésamo y gajos de la otra media naranja."
+    "Sirve sobre el arroz con el pepino escurrido, la cebolleta, el sésamo y los gajos de naranja."
   ],
   nutricion: { kcal: 570, prot: 34.5, hc: 59, grasa: 22 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "omega 3", "fácil", "económica", "poco especiada", "bajo en colesterol"],
@@ -889,12 +886,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla 3 cucharadas del yogur con las especias, el jengibre y el ajo rallados, el zumo del limón y sal. Reserva el resto del yogur para servir.",
+    "Ralla el jengibre y el ajo y mézclalos con 3 cucharadas del yogur, las especias, el zumo del limón y sal. Reserva el resto del yogur para servir.",
     "Corta los pimientos y la cebolla en trozos del tamaño del paneer y mézclalos con el paneer y la marinada. Déjalo 15 minutos (o hasta 8 horas en la nevera).",
     "Mientras, cuece el arroz basmati lavado con 1,5 veces su volumen de agua y sal, tapado y a fuego bajo, 11 minutos. Deja reposar tapado.",
     "Pon el paneer y las verduras en la cesta, riega con el aceite y cocina a 200 °C durante 12–14 minutos, agitando a mitad, hasta que tengan bordes tostados.",
-    "Mezcla el yogur reservado con cilantro picado y una pizca de sal.",
-    "Sirve el paneer con las verduras sobre el arroz, con la salsa de yogur y más cilantro."
+    "Mientras, pica el cilantro y mezcla el yogur reservado con parte de él y una pizca de sal.",
+    "Sirve el paneer con las verduras sobre el arroz, con la salsa de yogur y el resto del cilantro."
   ],
   nutricion: { kcal: 585, prot: 24.5, hc: 55, grasa: 29.5 },
   etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "sin gluten", "fácil", "tupper", "ideal para llevar"],
@@ -932,8 +929,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saltea las espinacas en una sartén sin aceite 2–3 minutos, hasta que se reduzcan. Escúrrelas bien apretando y pícalas.",
-    "Chafa los garbanzos con un tenedor, dejando trozos, y mézclalos con las espinacas, el feta desmenuzado, el huevo, la cebolleta y el eneldo picados y pimienta (el feta ya aporta sal).",
+    "Pica la cebolleta y el eneldo y desmenuza el feta. Saltea las espinacas en una sartén sin aceite 2–3 minutos, hasta que se reduzcan. Escúrrelas bien apretando y pícalas.",
+    "Chafa los garbanzos con un tenedor, dejando trozos, y mézclalos con las espinacas, el feta, el huevo, la cebolleta, el eneldo y pimienta (el feta ya aporta sal).",
     "Pincela una hoja de filo con muy poco aceite, dóblala por la mitad y pon una sexta parte del relleno en el borde más corto. Dobla los laterales hacia dentro y enrolla como un rollito. Repite hasta tener 6.",
     "Colócalos en la cesta con el cierre hacia abajo, sin que se toquen, y pincélalos por encima con un poco más de aceite.",
     "Cocina a 180 °C durante 12–14 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes.",
@@ -980,9 +977,9 @@ window.RECETAS_SEED.push({
     "Corta las patatas en gajos con piel, sécalas bien y mézclalas con 1 cucharada de aceite y sal. Cocínalas en la airfryer a 200 °C durante 20 minutos, agitando cada 7 minutos.",
     "Mientras, ralla el calabacín, sálalo un poco, déjalo 5 minutos y escúrrelo apretando con las manos.",
     "Mezcla el pollo con el calabacín, la avena, el ajo en polvo, el pimentón, sal y pimienta. Forma dos hamburguesas de 2 cm de grosor con las manos húmedas.",
-    "Saca las patatas a un plato. Pincela las hamburguesas con el resto del aceite y cocínalas a 190 °C durante 12 minutos, dándoles la vuelta a mitad, hasta que estén doradas y sin rastro rosado en el centro.",
+    "Saca las patatas a un plato. Pincela las hamburguesas con el resto del aceite y cocínalas a 190 °C durante 12 minutos, dándoles la vuelta a mitad, hasta que estén doradas y sin rastro rosado en el centro. Mientras, corta el tomate en rodajas, lava la lechuga y mezcla el yogur con la mostaza.",
     "Tuesta los panes abiertos 1–2 minutos en la cesta y vuelve a meter las patatas 2 minutos para que recuperen el calor.",
-    "Mezcla el yogur con la mostaza y monta las hamburguesas con lechuga, tomate y la salsa. Sirve con las patatas."
+    "Monta las hamburguesas con la lechuga, el tomate y la salsa. Sirve con las patatas."
   ],
   nutricion: { kcal: 680, prot: 50, hc: 82, grasa: 17 },
   etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "económica", "para niños", "verduras escondidas", "poco especiada", "bajo en colesterol"],
@@ -1023,9 +1020,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla 4 cucharadas del yogur con las especias, el jengibre y el ajo rallados, el zumo de medio limón y sal. Corta el pez espada en dados grandes, mézclalo con la marinada y déjalo 15 minutos.",
-    "Mientras, corta en dados el pepino y el tomate y la cebolla en juliana muy fina. Alíñalo con el aceite, el zumo del otro medio limón, la mitad de la menta picada y sal.",
-    "Mezcla el yogur restante con el resto de la menta picada y una pizca de sal.",
+    "Ralla el jengibre y el ajo y mézclalos con 4 cucharadas del yogur, las especias, el zumo de medio limón y sal. Corta el pez espada en dados grandes, mézclalo con la marinada y déjalo 15 minutos.",
+    "Mientras, pica la menta y corta en dados el pepino y el tomate y la cebolla en juliana muy fina. Alíñalo con el aceite, el zumo del otro medio limón, la mitad de la menta y sal.",
+    "Mezcla el yogur restante con el resto de la menta y una pizca de sal.",
     "Coloca el pescado en la cesta sobre papel de horno perforado, sin amontonar, y cocina a 200 °C durante 8–9 minutos, dándole la vuelta a mitad, hasta que esté dorado en los bordes y jugoso por dentro.",
     "Sirve el pez espada sobre la ensalada con la salsa de yogur a la menta."
   ],
@@ -1065,11 +1062,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela con el doble de agua y sal, tapada y a fuego bajo, 12 minutos. Reposa 5 minutos.",
-    "Mezcla la mostaza con la miel, el zumo de medio limón, sal y pimienta. Corta el pollo en dados de 3 cm y úntalo con dos tercios de la mezcla.",
+    "Mientras, mezcla la mostaza con la miel, el zumo de medio limón, sal y pimienta. Corta el pollo en dados de 3 cm y úntalo con dos tercios de la mezcla.",
     "Pon el pollo en un lado de la cesta y el brócoli, mezclado con media cucharada de aceite y sal, en el otro.",
-    "Cocina a 190 °C durante 12–14 minutos, agitando la cesta a mitad, hasta que el pollo esté dorado y el brócoli tostado en las puntas.",
-    "Monta los boles con la quinoa, el pollo, el brócoli, los cherrys partidos y el aguacate en láminas.",
-    "Aligera el resto de la mezcla de mostaza con el aceite restante y una cucharada de agua y riega los boles."
+    "Cocina a 190 °C durante 12–14 minutos, agitando la cesta a mitad, hasta que el pollo esté dorado y el brócoli tostado en las puntas. Mientras, parte los cherrys, corta el aguacate en láminas y aligera el resto de la mezcla de mostaza con el aceite restante y una cucharada de agua.",
+    "Monta los boles con la quinoa, el pollo, el brócoli, los cherrys y el aguacate y riégalos con la salsa de mostaza."
   ],
   nutricion: { kcal: 575, prot: 45, hc: 45, grasa: 24 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],

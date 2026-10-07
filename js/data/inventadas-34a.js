@@ -33,12 +33,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C con calor arriba y abajo. Pela el boniato y córtalo en dados de 2–3 cm; corta el pimiento en tiras anchas y la cebolla morada en gajos.",
-    "En un bol grande mezcla el aceite, el pimentón, el comino, los ajos picados finos, la ralladura de medio limón, sal y pimienta. Añade los contramuslos y frótalos bien con la mezcla, también bajo la piel.",
+    "Precalienta el horno a 210 °C con calor arriba y abajo. Pela el boniato y córtalo en dados de 2–3 cm; corta el pimiento en tiras anchas y la cebolla morada en gajos, y pica finos los ajos.",
+    "En un bol grande mezcla el aceite, el pimentón, el comino, los ajos, la ralladura de medio limón, sal y pimienta. Añade los contramuslos y frótalos bien con la mezcla, también bajo la piel.",
     "Saca el pollo y, en el mismo bol, embadurna las verduras con el adobo que ha quedado. Extiéndelas en una bandeja grande forrada con papel, en una sola capa y sin amontonar, y coloca los contramuslos encima con la piel hacia arriba.",
-    "Hornea a media altura 40–45 minutos, hasta que la piel esté dorada y crujiente, el jugo salga transparente al pinchar la parte más gruesa y el boniato se deje atravesar sin resistencia.",
+    "Hornea a media altura 40–45 minutos, hasta que la piel esté dorada y crujiente, el jugo salga transparente al pinchar la parte más gruesa y el boniato se deje atravesar sin resistencia. Mientras, pica el perejil.",
     "Si la piel no ha tostado lo suficiente, pon el grill fuerte los últimos 4–5 minutos vigilando que no se queme el pimentón.",
-    "Riega con el zumo del limón y los jugos de la bandeja, espolvorea el perejil picado y sirve directamente de la bandeja."
+    "Riega con el zumo del limón y los jugos de la bandeja, espolvorea el perejil y sirve directamente de la bandeja."
   ],
   nutricion: { kcal: 570, prot: 38, hc: 50, grasa: 24 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "económica", "poco especiada", "bajo en colesterol"],
@@ -78,10 +78,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas y córtalas en rodajas finas de unos 3 mm; corta la cebolla en juliana fina.",
     "En un bol mezcla la patata y la cebolla con 2 cucharadas de aceite, sal y pimienta. Extiéndelas en una fuente de horno y hornea 25 minutos, hasta que estén tiernas y empiecen a dorarse por los bordes.",
-    "Mientras, seca los lomos de merluza con papel de cocina y salpimiéntalos. Corta los piquillos en tiras y lamina los ajos.",
+    "Mientras, seca los lomos de merluza con papel de cocina y salpimiéntalos. Corta los piquillos en tiras, lamina los ajos y pica el perejil.",
     "Saca la fuente, riega las patatas con el vino blanco y coloca la merluza encima con la piel hacia abajo. Reparte alrededor los piquillos y, sobre el pescado, los ajos laminados y la guindilla; rocía con la última cucharada de aceite.",
     "Hornea 10–12 minutos, hasta que la merluza esté nacarada y se separe en lascas al presionarla. Los últimos 2 minutos pon el grill para dorar ligeramente el ajo.",
-    "Espolvorea perejil picado y sirve enseguida con el jugo de la fuente por encima."
+    "Espolvorea el perejil y sirve enseguida con el jugo de la fuente por encima."
   ],
   nutricion: { kcal: 415, prot: 30, hc: 40, grasa: 15 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "bajo en colesterol"],
@@ -121,13 +121,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Envuelve el tofu en un paño, ponle un peso encima 10 minutos para que suelte agua y córtalo en dados de 2 cm.",
-    "En un bol mezcla los dados de tofu con la maicena, 1 cucharada de aceite de oliva y 1 cucharada de tamari, moviendo con cuidado hasta que queden cubiertos.",
-    "Corta el boniato en dados de 2 cm y alíñalo con el resto del aceite de oliva y una pizca de sal. Colócalo en una bandeja grande con papel, con el tofu en el otro lado, y hornea 15 minutos.",
-    "Añade el brócoli en ramilletes pequeños, da la vuelta al tofu y hornea 12–15 minutos más, hasta que el tofu esté dorado y firme y el brócoli tenga las puntas tostadas.",
-    "En el mismo bol prepara el glaseado: 2 cucharadas de tamari, el sirope de arce, el jengibre y el ajo rallados y el aceite de sésamo.",
+    "Precalienta el horno a 210 °C. Envuelve el tofu en un paño y ponle un peso encima 10 minutos para que suelte agua. Mientras, corta el boniato en dados de 2 cm y el brócoli en ramilletes pequeños.",
+    "Corta el tofu en dados de 2 cm. En un bol mézclalos con la maicena, 1 cucharada de aceite de oliva y 1 cucharada de tamari, moviendo con cuidado hasta que queden cubiertos.",
+    "Aliña el boniato con el resto del aceite de oliva y una pizca de sal. Colócalo en una bandeja grande con papel, con el tofu en el otro lado, y hornea 15 minutos.",
+    "Añade el brócoli, da la vuelta al tofu y hornea 12–15 minutos más, hasta que el tofu esté dorado y firme y el brócoli tenga las puntas tostadas.",
+    "Mientras, ralla el jengibre y el ajo y prepara el glaseado en el mismo bol: 2 cucharadas de tamari, el sirope de arce, el jengibre, el ajo y el aceite de sésamo. Corta la cebolleta en rodajas finas.",
     "Vierte el glaseado sobre la bandeja, mezcla con una espátula y hornea 4–5 minutos más, hasta que brille y se pegue al tofu.",
-    "Sirve con el sésamo y la cebolleta en rodajas finas por encima."
+    "Sirve con el sésamo y la cebolleta por encima."
   ],
   nutricion: { kcal: 535, prot: 26, hc: 58, grasa: 22 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "batch cooking", "poco especiada", "bajo en colesterol"],
@@ -167,12 +167,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Enjuaga y escurre los garbanzos y sécalos bien con un paño para que se tuesten en vez de cocerse.",
-    "En un bol mezcla los garbanzos con los pimientos en tiras, la cebolla en gajos, el chorizo en medias rodajas, los tomates cherry enteros, el aceite, el pimentón, el comino y una pizca de sal.",
-    "Extiende todo en una bandeja amplia y hornea 25 minutos, removiendo a mitad, hasta que los pimientos estén blandos, los cherry arrugados y el chorizo haya soltado su grasa roja.",
+    "Precalienta el horno a 200 °C. Enjuaga y escurre los garbanzos y sécalos bien con un paño para que se tuesten en vez de cocerse. Corta los pimientos en tiras, la cebolla en gajos y el chorizo en medias rodajas.",
+    "En un bol mezcla los garbanzos con los pimientos, la cebolla, el chorizo, los tomates cherry enteros, el aceite, el pimentón, el comino y una pizca de sal.",
+    "Extiende todo en una bandeja amplia y hornea 25 minutos, removiendo a mitad, hasta que los pimientos estén blandos, los cherry arrugados y el chorizo haya soltado su grasa roja. Mientras, pica el perejil.",
     "Saca la bandeja, abre 4 huecos con una cuchara y casca un huevo en cada uno. Sala y pimienta las yemas.",
     "Hornea 7–9 minutos, hasta que las claras estén cuajadas y blancas y las yemas sigan temblando.",
-    "Espolvorea perejil picado y sirve directamente de la bandeja."
+    "Espolvorea el perejil y sirve directamente de la bandeja."
   ],
   nutricion: { kcal: 695, prot: 36, hc: 48, grasa: 40 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "económica", "alta en proteína", "poco especiada"],
@@ -211,9 +211,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el boniato en dados de 1,5 cm, mézclalo con el aceite y una pizca de sal y extiéndelo en una fuente de unos 20 cm forrada con papel. Hornea 20 minutos, hasta que esté tierno.",
-    "Mientras, bate en un bol los huevos con la leche, el orégano, sal y pimienta.",
-    "Saca la fuente y baja el horno a 180 °C. Añade las espinacas picadas y la cebolleta en rodajas sobre el boniato caliente y mezcla para que mermen.",
-    "Vierte el huevo batido por encima y reparte el feta desmigado.",
+    "Mientras, bate en un bol los huevos con la leche, el orégano, sal y pimienta. Pica las espinacas, corta la cebolleta en rodajas y desmiga el feta.",
+    "Saca la fuente y baja el horno a 180 °C. Añade las espinacas y la cebolleta sobre el boniato caliente y mezcla para que mermen.",
+    "Vierte el huevo batido por encima y reparte el feta.",
     "Hornea 18–22 minutos, hasta que el centro esté cuajado (un palillo debe salir limpio) y los bordes dorados.",
     "Deja reposar 5 minutos, corta en porciones y sirve con la rúcula."
   ],
@@ -256,10 +256,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "En un bol deslíe la pasta de achiote con el zumo de la naranja, el zumo de media lima, los ajos rallados, el comino, el orégano y una buena pizca de sal. Unta bien las costillas; si tienes tiempo, déjalas marinar 1 hora en la nevera (o toda la noche).",
     "Precalienta el horno a 160 °C. Coloca las costillas en una fuente con la carne hacia abajo, vierte por encima el adobo sobrante y 100 ml de agua y tapa bien con papel de aluminio. Hornea 75 minutos, hasta que la carne empiece a separarse del hueso.",
-    "Mientras, corta la cebolla morada en plumas finas y ponla en el bol con el zumo de la otra media lima y una pizca de sal. Remueve y reserva: en media hora estará rosa y crujiente.",
-    "Destapa la fuente, da la vuelta a las costillas y sube el horno a 210 °C. Corta las mazorcas en 3 trozos, úntalas con el aceite y sal y colócalas alrededor.",
+    "Mientras, corta la cebolla morada en plumas finas y ponla en el bol con el zumo de la otra media lima y una pizca de sal. Remueve y reserva: en media hora estará rosa y crujiente. Corta las mazorcas en 3 trozos y pica el cilantro.",
+    "Destapa la fuente, da la vuelta a las costillas y sube el horno a 210 °C. Unta las mazorcas con el aceite y sal y colócalas alrededor.",
     "Hornea 20–25 minutos, pintando las costillas con el jugo de la fuente cada 10 minutos, hasta que estén glaseadas, brillantes y con los bordes caramelizados, y el maíz tenga granos tostados.",
-    "Sirve las costillas con el maíz, la cebolla encurtida escurrida y el cilantro picado por encima."
+    "Sirve las costillas con el maíz, la cebolla encurtida escurrida y el cilantro por encima."
   ],
   nutricion: { kcal: 755, prot: 40, hc: 45, grasa: 46 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "poco especiada"],
@@ -298,9 +298,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas nuevas por la mitad, mézclalas con 1 cucharada de aceite y sal y hornéalas 20 minutos en una bandeja con papel, con el corte hacia abajo.",
-    "Mientras, pica muy finas las almendras y las hierbas y mézclalas en un bol con la ralladura del limón, 1 cucharadita de aceite, sal y pimienta: debe quedar una arena húmeda.",
+    "Mientras, pica muy finas las almendras y las hierbas y mézclalas en un bol con la ralladura del limón, 1 cucharadita de aceite, sal y pimienta: debe quedar una arena húmeda. Quita a los espárragos la parte leñosa.",
     "Seca los lomos de salmón con papel, salpimiéntalos, unta la parte superior con la mostaza y presiona encima la costra de almendra para que se adhiera.",
-    "Saca la bandeja, aparta las patatas a los lados y coloca en el centro los espárragos sin la parte leñosa, aliñados con el resto del aceite y sal. Pon el salmón sobre ellos.",
+    "Saca la bandeja, aparta las patatas a los lados y coloca en el centro los espárragos, aliñados con el resto del aceite y sal. Pon el salmón sobre ellos.",
     "Hornea 12–14 minutos, hasta que la costra esté dorada y el salmón se separe en láminas pero siga jugoso y rosado en el centro.",
     "Riega con zumo de limón y sirve enseguida."
   ],
@@ -386,9 +386,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C. Corta las berenjenas por la mitad a lo largo y haz cortes en rombo en la carne, sin llegar a la piel. Píntalas con 1 cucharada de aceite y sálalas ligeramente.",
     "Corta el boniato en rodajas de 1 cm y mézclalo con el resto del aceite y sal. Coloca las berenjenas en una bandeja con papel, con el corte hacia arriba, y el boniato alrededor.",
     "Hornea 25 minutos, hasta que la berenjena esté blanda y dorada y el boniato tierno.",
-    "Mientras, mezcla en un bol el miso, el sirope, el vinagre de arroz, el jengibre rallado y 1 cucharada de agua hasta tener una pasta untable.",
+    "Mientras, ralla el jengibre y mézclalo en un bol con el miso, el sirope, el vinagre de arroz y 1 cucharada de agua hasta tener una pasta untable. Corta la cebolleta en rodajas finas.",
     "Saca la bandeja, pinta la carne de las berenjenas con el glaseado de miso y añade el edamame congelado con una pizca de sal. Hornea 8–10 minutos más, hasta que el miso se caramelice por los bordes y el edamame esté caliente.",
-    "Sirve con el sésamo y la cebolleta en rodajas finas por encima."
+    "Sirve con el sésamo y la cebolleta por encima."
   ],
   nutricion: { kcal: 420, prot: 14, hc: 52, grasa: 17 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -427,12 +427,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. En un bol mezcla el pavo, el huevo, el parmesano rallado, la harina de arroz, el perejil picado, sal y pimienta, sin amasar en exceso para que queden tiernas.",
+    "Precalienta el horno a 200 °C. Ralla el parmesano y pica el perejil. En un bol mezcla el pavo, el huevo, el parmesano, la harina de arroz, el perejil, sal y pimienta, sin amasar en exceso para que queden tiernas.",
     "Con las manos húmedas forma unas 12 albóndigas del tamaño de una nuez grande.",
     "Corta el calabacín en medias lunas de 1 cm y los tomates cherry por la mitad. Ponlos en una bandeja con 1 cucharada de aceite de ajo, el orégano y sal, y mezcla.",
     "Coloca las albóndigas entre las verduras y píntalas con el resto del aceite de ajo.",
-    "Hornea 20–22 minutos, girándolas a mitad, hasta que estén doradas y firmes, sin rastro rosado en el centro, y los tomates hayan reventado soltando su jugo.",
-    "Remueve las albóndigas con el jugo de tomate de la bandeja y sirve con el cebollino picado."
+    "Hornea 20–22 minutos, girándolas a mitad, hasta que estén doradas y firmes, sin rastro rosado en el centro, y los tomates hayan reventado soltando su jugo. Mientras, pica el cebollino.",
+    "Remueve las albóndigas con el jugo de tomate de la bandeja y sirve con el cebollino."
   ],
   nutricion: { kcal: 455, prot: 42, hc: 18, grasa: 24 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "bajo en fodmap", "alta en proteína", "para niños", "poco especiada"],
@@ -472,11 +472,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Corta las patatas en gajos pequeños, mézclalas con 1 cucharada de aceite y sal y hornéalas 15 minutos en una bandeja con papel.",
-    "Añade a la bandeja las judías verdes sin las puntas, con unas gotas de aceite y sal. Coloca los huevos enteros, con cáscara, directamente sobre la rejilla del horno.",
-    "Hornea 20 minutos más, hasta que las patatas estén doradas y tiernas y las judías arrugadas y con alguna mancha tostada. Pasa los huevos a un bol con agua fría 5 minutos y pélalos: estarán duros.",
+    "Precalienta el horno a 190 °C. Corta las patatas en gajos pequeños, mézclalas con 1 cucharada de aceite y sal y hornéalas 15 minutos en una bandeja con papel. Mientras, quita las puntas a las judías verdes.",
+    "Añade a la bandeja las judías verdes, con unas gotas de aceite y sal. Coloca los huevos enteros, con cáscara, directamente sobre la rejilla del horno.",
+    "Hornea 20 minutos más, hasta que las patatas estén doradas y tiernas y las judías arrugadas y con alguna mancha tostada. Mientras, trocea la lechuga y parte los cherry por la mitad.",
+    "Pasa los huevos a un bol con agua fría 5 minutos y pélalos: estarán duros.",
     "En el mismo bol, seco, bate el resto del aceite con el vinagre, la mostaza, sal y pimienta hasta emulsionar.",
-    "Monta la ensalada sobre la lechuga troceada: patatas y judías templadas, cherry por la mitad, atún en lascas, aceitunas, huevos en cuartos y anchoas si te gustan. Riega con la vinagreta."
+    "Monta la ensalada sobre la lechuga: patatas y judías templadas, cherry, atún en lascas, aceitunas, huevos en cuartos y anchoas si te gustan. Riega con la vinagreta."
   ],
   nutricion: { kcal: 520, prot: 34, hc: 38, grasa: 26 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ideal para llevar", "poco especiada"],
@@ -518,9 +519,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Pela el boniato, córtalo en dados de 2 cm, mézclalo con el aceite y sal en una fuente honda y hornea 20 minutos, hasta que empiece a dorarse.",
     "Mientras, en un bol mezcla el tomate triturado con el chipotle muy picado, el comino y una pizca de sal. Añade las alubias enjuagadas, el maíz escurrido, el pimiento en dados y la cebolla en gajos finos.",
-    "Vuelca la mezcla sobre el boniato, remueve y hornea 15 minutos más, hasta que la salsa borbotee y el pimiento esté tierno.",
+    "Vuelca la mezcla sobre el boniato, remueve y hornea 15 minutos más, hasta que la salsa borbotee y el pimiento esté tierno. Mientras, pica el cilantro y corta la lima en gajos.",
     "Reparte el cheddar por encima y gratina 6–8 minutos con el grill, hasta que esté fundido y con manchas doradas.",
-    "Sirve con cilantro picado y gajos de lima para exprimir al gusto."
+    "Sirve con el cilantro y los gajos de lima para exprimir al gusto."
   ],
   nutricion: { kcal: 680, prot: 28, hc: 92, grasa: 22 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "picante"],
@@ -561,11 +562,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el calabacín, la berenjena, el pimiento y la cebolla en dados de 2 cm y los ajos en láminas.",
-    "En un bol mézclalos con 2 cucharadas de aceite, el tomillo, sal y pimienta y extiéndelos en una fuente amplia. Hornea 15 minutos.",
-    "Añade los tomates en dados, remueve y hornea 15 minutos más, hasta que las verduras estén blandas, algo tostadas, y el tomate se haya convertido en salsa.",
-    "Seca y salpimienta el bacalao y colócalo sobre el pisto. Reparte las almendras laminadas por encima y rocía con la última cucharada de aceite.",
+    "En un bol mézclalos con 2 cucharadas de aceite, el tomillo, sal y pimienta y extiéndelos en una fuente amplia. Hornea 15 minutos; mientras, corta los tomates en dados.",
+    "Añade los tomates, remueve y hornea 15 minutos más, hasta que las verduras estén blandas, algo tostadas, y el tomate se haya convertido en salsa. Mientras, seca y salpimienta el bacalao y pica el perejil.",
+    "Coloca el bacalao sobre el pisto. Reparte las almendras laminadas por encima y rocía con la última cucharada de aceite.",
     "Hornea 10–12 minutos, hasta que el bacalao esté opaco y se separe en lascas y las almendras estén doradas.",
-    "Espolvorea perejil picado y sirve."
+    "Espolvorea el perejil y sirve."
   ],
   nutricion: { kcal: 400, prot: 32, hc: 26, grasa: 19 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "detox", "poco especiada", "bajo en colesterol"],
@@ -608,8 +609,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Corta los pimientos por la mitad a lo largo, conservando el rabo, y retira semillas y nervios. Píntalos con el aceite por fuera y hornéalos 15 minutos boca abajo en una bandeja con papel.",
     "Mientras, en un bol mezcla la quinoa con el maíz escurrido, los cherry en cuartos, la cebolleta picada, el comino, el pimentón, la mitad del queso fresco desmigado y sal.",
     "Da la vuelta a los pimientos, ya algo blandos, y rellénalos apretando bien. Reparte el resto del queso por encima.",
-    "Hornea 15–18 minutos, hasta que el relleno esté caliente y el queso empiece a dorarse.",
-    "Mezcla el yogur con la ralladura y el zumo de media lima, cilantro picado y una pizca de sal, y sírvelo sobre los pimientos."
+    "Hornea 15–18 minutos, hasta que el relleno esté caliente y el queso empiece a dorarse. Mientras, mezcla el yogur con la ralladura y el zumo de media lima, cilantro picado y una pizca de sal.",
+    "Sirve los pimientos con la salsa de yogur por encima."
   ],
   nutricion: { kcal: 455, prot: 20, hc: 62, grasa: 14 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "económica", "detox", "poco especiada", "bajo en colesterol"],
@@ -688,11 +689,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Separa bien los gnocchi si vienen pegados; no hace falta hervirlos.",
-    "En un bol grande mezcla los gnocchi con el brócoli en ramilletes pequeños, los tomates cherry, los ajos laminados, el aceite, sal y pimienta.",
+    "Precalienta el horno a 220 °C. Mientras se calienta, separa bien los gnocchi si vienen pegados (no hace falta hervirlos), corta el brócoli en ramilletes pequeños y lamina los ajos.",
+    "En un bol grande mezcla los gnocchi con el brócoli, los tomates cherry, los ajos, el aceite, sal y pimienta.",
     "Extiéndelo todo en una bandeja grande con papel, en una sola capa. Quita la piel a las salchichas y repártelas por encima en trozos del tamaño de una nuez.",
-    "Hornea 15 minutos, remueve con una espátula para dar la vuelta a los gnocchi y hornea 10–12 minutos más, hasta que estén dorados y crujientes por fuera, la salchicha bien hecha y el brócoli tostado en las puntas.",
-    "Ralla el parmesano por encima, añade la cayena y vuelve a meter 2 minutos para que se funda. Sirve recién salido del horno."
+    "Hornea 15 minutos, remueve con una espátula para dar la vuelta a los gnocchi y hornea 10–12 minutos más, hasta que estén dorados y crujientes por fuera, la salchicha bien hecha y el brócoli tostado en las puntas. Mientras, ralla el parmesano.",
+    "Reparte el parmesano por encima, añade la cayena y vuelve a meter 2 minutos para que se funda. Sirve recién salido del horno."
   ],
   nutricion: { kcal: 780, prot: 30, hc: 88, grasa: 34 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "para niños"],
@@ -734,12 +735,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Prensa el tofu 10 minutos envuelto en un paño con un peso encima y córtalo en tiras gruesas.",
-    "En un bol mezcla el aceite, el zumo de media lima, el comino, el pimentón, el orégano, el ajo en polvo y sal. Añade el tofu, los pimientos y la cebolla cortados en tiras y mezcla con cuidado.",
+    "Precalienta el horno a 220 °C. Prensa el tofu 10 minutos envuelto en un paño con un peso encima; mientras, corta los pimientos y la cebolla en tiras. Después corta el tofu en tiras gruesas.",
+    "En un bol mezcla el aceite, el zumo de media lima, el comino, el pimentón, el orégano, el ajo en polvo y sal. Añade el tofu, los pimientos y la cebolla y mezcla con cuidado.",
     "Extiéndelo en una bandeja grande en una sola capa y hornea 25 minutos, removiendo a mitad, hasta que los pimientos tengan los bordes tostados y el tofu esté dorado.",
     "Los últimos 8 minutos mete en el horno las tortillas de maíz envueltas en papel de aluminio para que se calienten y queden flexibles.",
-    "Mientras, machaca el aguacate en el bol con el zumo de la otra media lima y sal.",
-    "Sirve las tortillas con el aguacate, el relleno de la bandeja y cilantro picado para que cada uno se monte sus fajitas."
+    "Mientras, machaca el aguacate en el bol con el zumo de la otra media lima y sal, y pica el cilantro.",
+    "Sirve las tortillas con el aguacate, el relleno de la bandeja y el cilantro para que cada uno se monte sus fajitas."
   ],
   nutricion: { kcal: 615, prot: 26, hc: 60, grasa: 30 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "poco especiada"],
@@ -823,11 +824,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "En un bol mezcla el yogur con el jengibre y el ajo rallados, el garam masala, la cayena, el zumo de medio limón y sal. Embadurna los contramuslos y déjalos marinar al menos 20 minutos (o toda la noche en la nevera).",
-    "Precalienta el horno a 210 °C. Corta las patatas en dados de 2 cm y mézclalas en una bandeja con el aceite, la cúrcuma, el comino y sal.",
+    "Mientras marinan (o 15 minutos antes de hornear), precalienta el horno a 210 °C. Corta las patatas en dados de 2 cm y mézclalas en una bandeja con el aceite, la cúrcuma, el comino y sal.",
     "Coloca los contramuslos sobre las patatas con la piel hacia arriba, sacudiendo el exceso de marinada.",
-    "Hornea 40 minutos, hasta que el pollo esté dorado con manchas tostadas y el jugo salga transparente, y las patatas crujientes por los bordes.",
+    "Hornea 40 minutos, hasta que el pollo esté dorado con manchas tostadas y el jugo salga transparente, y las patatas crujientes por los bordes. Mientras, pica el cilantro.",
     "Aparta el pollo un momento, añade las espinacas crudas sobre las patatas calientes con el zumo del otro medio limón y remueve: se ablandarán con el calor. Vuelve a colocar el pollo y hornea 5 minutos más.",
-    "Sirve con cilantro picado por encima."
+    "Sirve con el cilantro por encima."
   ],
   nutricion: { kcal: 670, prot: 42, hc: 48, grasa: 34 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "alta en proteína"],
@@ -910,10 +911,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Corta la berenjena en dados de 2 cm. Enjuaga los garbanzos y sécalos bien con un paño.",
     "En un bol mezcla la berenjena y los garbanzos con 2 cucharadas de aceite, el comino, el pimentón y sal. Extiéndelos en una bandeja grande y hornea 25 minutos, removiendo a mitad, hasta que la berenjena esté blanda y tostada y los garbanzos crujientes por fuera.",
-    "Mientras, corta las tortillas de maíz en triángulos y píntalas con la última cucharada de aceite. Los últimos 8–10 minutos hornéalas en la parte alta del horno, sobre la rejilla o en un rincón de la bandeja, hasta que estén doradas y crujientes; vigílalas para que no se quemen.",
+    "Mientras, corta las tortillas de maíz en triángulos y píntalas con la última cucharada de aceite. Limpia el bol y mezcla en él el yogur con el ajo rallado, el zumo de limón y una pizca de sal. Pica la menta.",
+    "Los últimos 8–10 minutos hornea los triángulos de tortilla en la parte alta del horno, sobre la rejilla o en un rincón de la bandeja, hasta que estén dorados y crujientes; vigílalos para que no se quemen.",
     "Tuesta las semillas de calabaza en una esquina de la bandeja los últimos 4 minutos.",
-    "En el bol, ya limpio, mezcla el yogur con el ajo rallado, el zumo de limón y una pizca de sal.",
-    "Monta en una fuente: totopos en la base, encima garbanzos y berenjena calientes, el yogur a cucharadas, las semillas, la menta picada y el zumaque. Sirve al momento para que los totopos sigan crujientes."
+    "Monta en una fuente: totopos en la base, encima garbanzos y berenjena calientes, el yogur a cucharadas, las semillas, la menta y el zumaque. Sirve al momento para que los totopos sigan crujientes."
   ],
   nutricion: { kcal: 690, prot: 30, hc: 70, grasa: 32 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "económica", "poco especiada"],
@@ -955,10 +956,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta el boniato en dados de 2 cm, mézclalo con la mitad del aceite de oliva y sal y hornéalo 15 minutos en una bandeja con papel.",
-    "Mientras, mezcla en un bol el tamari, la miel, el jengibre y el ajo rallados, el vinagre de arroz y el aceite de sésamo. Pon los lomos de salmón en el glaseado y dales la vuelta para que se impregnen.",
-    "Saca la bandeja, añade las judías verdes sin puntas con el resto del aceite y una pizca de sal y coloca el salmón en el centro, con la piel hacia abajo. Reserva el glaseado que quede en el bol.",
-    "Hornea 10 minutos, pinta el salmón con el glaseado reservado y hornea 2–4 minutos más, hasta que brille y la carne se separe en láminas manteniendo el centro jugoso.",
-    "Espolvorea el sésamo y la cebolleta en rodajas y sirve con gajos de lima."
+    "Mientras, mezcla en un bol el tamari, la miel, el jengibre y el ajo rallados, el vinagre de arroz y el aceite de sésamo. Pon los lomos de salmón en el glaseado y dales la vuelta para que se impregnen. Quita las puntas a las judías verdes.",
+    "Saca la bandeja, añade las judías verdes con el resto del aceite y una pizca de sal y coloca el salmón en el centro, con la piel hacia abajo. Reserva el glaseado que quede en el bol.",
+    "Hornea 10 minutos (mientras, corta la cebolleta en rodajas), pinta el salmón con el glaseado reservado y hornea 2–4 minutos más, hasta que brille y la carne se separe en láminas manteniendo el centro jugoso.",
+    "Espolvorea el sésamo y la cebolleta y sirve con gajos de lima."
   ],
   nutricion: { kcal: 575, prot: 36, hc: 44, grasa: 28 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "poco especiada"],
@@ -1000,8 +1001,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Ralla la media cebolla y escúrrela apretando con las manos para quitarle el jugo.",
-    "En un bol mezcla la carne con la cebolla rallada, la mitad del perejil picado, el comino, la canela, el pimentón, sal y pimienta. Amasa 2 minutos, hasta que la mezcla esté pegajosa, y forma 6 koftas alargadas.",
+    "Precalienta el horno a 220 °C. Ralla la media cebolla y escúrrela apretando con las manos para quitarle el jugo. Pica el perejil.",
+    "En un bol mezcla la carne con la cebolla rallada, la mitad del perejil, el comino, la canela, el pimentón, sal y pimienta. Amasa 2 minutos, hasta que la mezcla esté pegajosa, y forma 6 koftas alargadas.",
     "En una bandeja grande coloca los tomates partidos por la mitad, los pimientos enteros y la cebolla morada en gajos, con el aceite y sal. Pon las koftas encima.",
     "Hornea 20–25 minutos, dando la vuelta a las koftas a mitad, hasta que estén doradas por fuera y jugosas por dentro, y los pimientos arrugados y blandos.",
     "Mientras, en el bol limpio mezcla el tahini con el zumo de medio limón, el ajo rallado y sal. Añade agua fría a cucharadas, batiendo, hasta que quede una salsa cremosa y fluida.",
@@ -1047,9 +1048,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas sin pelar en dados de 1,5 cm, mézclalas en un bol con 2 cucharadas de aceite, el pimentón, el ajo en polvo, sal y pimienta y extiéndelas en una bandeja grande. Hornea 20 minutos.",
     "Mientras, corta el tofu ahumado en dados de 1,5 cm y los pimientos y la cebolla en dados de 2 cm. Mézclalos en el bol con la última cucharada de aceite.",
-    "Saca la bandeja, da la vuelta a las patatas, añade el tofu y las verduras y hornea 15 minutos más, hasta que las patatas estén crujientes y doradas.",
-    "Añade el kale troceado sin los tallos duros, mezcla y hornea 4–5 minutos, hasta que las hojas se arruguen y tuesten en los bordes.",
-    "Sirve con el cebollino picado y unas gotas de salsa picante si te gusta."
+    "Saca la bandeja, da la vuelta a las patatas, añade el tofu y las verduras y hornea 15 minutos más, hasta que las patatas estén crujientes y doradas. Mientras, trocea el kale sin los tallos duros y pica el cebollino.",
+    "Añade el kale, mezcla y hornea 4–5 minutos, hasta que las hojas se arruguen y tuesten en los bordes.",
+    "Sirve con el cebollino y unas gotas de salsa picante si te gusta."
   ],
   nutricion: { kcal: 580, prot: 22, hc: 56, grasa: 30 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "económica"],
@@ -1089,11 +1090,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Corta el brócoli en ramilletes medianos y pela y trocea el tallo. Enjuaga los garbanzos y sécalos bien.",
-    "En un bol mezcla el brócoli, los garbanzos y la cebolla morada en gajos con el aceite, el comino, el pimentón y sal. Extiéndelo en una bandeja grande sin amontonar.",
+    "Precalienta el horno a 220 °C. Corta el brócoli en ramilletes medianos y pela y trocea el tallo. Corta la cebolla morada en gajos. Enjuaga los garbanzos y sécalos bien.",
+    "En un bol mezcla el brócoli, los garbanzos y la cebolla morada con el aceite, el comino, el pimentón y sal. Extiéndelo en una bandeja grande sin amontonar.",
     "Hornea 20 minutos, removiendo a mitad, hasta que el brócoli tenga las puntas tostadas y los garbanzos estén crujientes. Añade los cherry los últimos 5 minutos.",
-    "Mientras, en el bol mezcla el tahini con el zumo del limón, el ajo rallado, sal y 3–4 cucharadas de agua fría hasta lograr un aliño cremoso.",
-    "Pasa la bandeja templada al bol, aliña, mezcla con el perejil picado y termina con los granos de granada."
+    "Mientras, en el bol mezcla el tahini con el zumo del limón, el ajo rallado, sal y 3–4 cucharadas de agua fría hasta lograr un aliño cremoso. Pica el perejil y desgrana la granada.",
+    "Pasa la bandeja templada al bol, aliña, mezcla con el perejil y termina con los granos de granada."
   ],
   nutricion: { kcal: 445, prot: 18, hc: 40, grasa: 23 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "económica", "ideal para llevar", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],

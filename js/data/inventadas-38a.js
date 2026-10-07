@@ -77,10 +77,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz, ponlo en un bol grande y alto con 400 ml de agua caliente y una pizca de sal. Cocina sin tapar a 800 W 10 minutos y después con la tapa entreabierta a 500 W 12 minutos más. Deja reposar tapado 5 minutos: absorberá el agua que quede.",
-    "Mientras, mezcla el miso con el zumo de media naranja, la ralladura, la miel, la soja y el jengibre hasta tener una pasta fluida.",
+    "Mientras, mezcla el miso con el zumo de media naranja, la ralladura, la miel, la soja y el jengibre hasta tener una pasta fluida. Corta la cebolleta en aros finos y la otra media naranja en gajos.",
     "Pon el salmón en una fuente apta con la piel hacia abajo, píntalo con la mitad de la mezcla y reparte alrededor el edamame congelado.",
     "Tapa y cocina a 600 W 4-5 minutos, hasta que el centro pase de translúcido a rosado opaco y las lascas se separen con un tenedor. Reposa 2 minutos tapado.",
-    "Riega con el resto de la salsa y el aceite de sésamo, espolvorea el sésamo y la cebolleta en aros finos y sirve sobre el arroz con gajos de la otra media naranja."
+    "Riega con el resto de la salsa y el aceite de sésamo, espolvorea el sésamo y la cebolleta y sirve sobre el arroz con los gajos de naranja."
   ],
   nutricion: { kcal: 672, prot: 40, hc: 70, grasa: 26 },
   etiquetas: ["saludable", "práctica", "microondas", "tupper", "batch cooking", "alta en proteína", "fácil", "superalimentos", "poco especiada"],
@@ -120,12 +120,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la coliflor en un bol apto con el ajo pelado y 3 cucharadas de agua. Tapa y cocina a 800 W 8 minutos, hasta que esté muy tierna al pincharla.",
+    "Pon la coliflor en un bol apto con el ajo pelado y 3 cucharadas de agua. Tapa y cocina a 800 W 8 minutos, hasta que esté muy tierna al pincharla. Mientras, pica el cilantro si lo usas.",
     "Escurre el agua, añade la leche, el curry, la cúrcuma, la mitad del aceite y sal, y tritura con la batidora hasta tener una crema lisa y espesa.",
     "Extiende la crema en una fuente apta, coloca encima las espinacas en una capa y sobre ellas los lomos de abadejo salpimentados con un hilo del resto del aceite.",
     "Tapa y cocina a 600 W 5-6 minutos, hasta que el pescado esté blanco opaco y las espinacas se hayan reducido. Reposa 2 minutos tapado.",
     "Mientras reposa, tuesta las almendras en un plato llano a 800 W 2-3 minutos, removiendo cada minuto, hasta que estén doradas.",
-    "Sirve con unas gotas de limón, las almendras por encima y cilantro picado si te gusta."
+    "Sirve con unas gotas de limón, las almendras por encima y el cilantro picado si te gusta."
   ],
   nutricion: { kcal: 345, prot: 37, hc: 15, grasa: 15 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "ligera", "alta en proteína", "tupper", "rápida", "fácil", "detox", "superalimentos", "bajo en colesterol"],
@@ -165,9 +165,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Calienta el caldo en un bol apto a 800 W 1,5 minutos, hasta que hierva. Añade el cuscús, la ralladura del limón, 1 cucharada de aceite y sal, remueve, tapa con un plato y deja 5 minutos. Desgrana con un tenedor.",
-    "Corta el calabacín en medias lunas finas y ponlo en una fuente apta con los cherrys partidos por la mitad, el ajo laminado, la guindilla y el resto del aceite. Tapa y cocina a 800 W 3 minutos.",
-    "Añade las gambas, el pimentón y sal, mezcla bien y vuelve a tapar.",
-    "Cocina a 800 W 2-3 minutos, removiendo a mitad, solo hasta que las gambas estén rosadas y curvadas en forma de C: si se cierran en O, se han pasado.",
+    "Mientras reposa el cuscús, corta el calabacín en medias lunas finas, parte los cherrys por la mitad, lamina el ajo y pica el perejil.",
+    "Pon el calabacín en una fuente apta con los cherrys, el ajo, la guindilla y el resto del aceite. Tapa y cocina a 800 W 3 minutos.",
+    "Añade las gambas, el pimentón y sal, mezcla bien y vuelve a tapar. Cocina a 800 W 2-3 minutos, removiendo a mitad, solo hasta que las gambas estén rosadas y curvadas en forma de C: si se cierran en O, se han pasado.",
     "Deja reposar 1 minuto, riega con el zumo de medio limón y el perejil picado y sirve sobre el cuscús con los jugos del fondo."
   ],
   nutricion: { kcal: 500, prot: 37, hc: 51, grasa: 16.5 },
@@ -207,7 +207,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa en un colador fino. Ponla en un bol grande con 240 ml de agua y sal, tapa con la tapa entreabierta y cocina a 800 W 6 minutos y luego a 500 W 6 minutos más. Reposa tapada 5 minutos.",
-    "Limpia los mejillones: arranca las barbas tirando hacia la punta y raspa las conchas. Desecha los que estén abiertos y no se cierren al darles un golpecito.",
+    "Mientras, limpia los mejillones: arranca las barbas tirando hacia la punta y raspa las conchas. Desecha los que estén abiertos y no se cierren al darles un golpecito. Pica el ajo y el perejil.",
     "En una fuente grande y honda apta mezcla el hinojo, el ajo picado, el aceite y el tomillo. Tapa y cocina a 800 W 3 minutos, hasta que el hinojo empiece a ablandarse.",
     "Añade el tomate y el vino, remueve y coloca los mejillones encima. Tapa y cocina a 800 W 4-6 minutos, parando a los 3 para pasar los de abajo arriba, hasta que todos estén abiertos.",
     "Desecha los que sigan cerrados, prueba de sal la salsa, espolvorea el perejil y la pimienta y sirve con la quinoa para empapar."
@@ -251,9 +251,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el bulgur en un bol apto con 300 ml de agua y sal. Tapa con la tapa entreabierta y cocina a 800 W 8 minutos. Deja reposar tapado 5 minutos y suéltalo con un tenedor.",
-    "Corta la pechuga en filetes de 1,5 cm y úntala con el comino, el pimentón, media cucharada de aceite, el zumo de medio limón, sal y pimienta.",
+    "Mientras, corta la pechuga en filetes de 1,5 cm y úntala con el comino, el pimentón, media cucharada de aceite, el zumo de medio limón, sal y pimienta.",
     "Colócala en una fuente apta sin amontonar, con las partes gruesas hacia el borde. Tapa y cocina a 600 W 6-7 minutos, dándole la vuelta a mitad, hasta que el centro esté blanco y el jugo salga transparente. Reposa 3 minutos tapada.",
-    "Mientras, mezcla el yogur con el ajo rallado, la mitad de la menta picada, sal y unas gotas de limón.",
+    "Mientras, ralla el ajo y pica la menta. Mezcla el yogur con el ajo, la mitad de la menta, sal y unas gotas de limón.",
     "Pica el pepino y el tomate en dados y mézclalos con el bulgur, el resto de la menta, el aceite restante y el zumo del otro medio limón.",
     "Corta el pollo en tiras, riégalo con sus jugos y sírvelo sobre el bulgur con la salsa de yogur."
   ],
@@ -295,7 +295,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y ponla en un bol grande con 200 ml de agua y sal. Tapa entreabierto y cocina a 800 W 5 minutos y a 500 W 5 minutos más. Reposa 5 minutos tapada.",
-    "Mezcla el pavo con el tamari, el jengibre y el ajo rallados y la maicena. Déjalo tomar sabor mientras cortas la verdura.",
+    "Mientras, ralla el jengibre y el ajo y mezcla el pavo con ellos, el tamari y la maicena. Déjalo tomar sabor mientras cortas la verdura.",
     "Corta el brócoli en ramilletes pequeños, la zanahoria en rodajas finas y el pimiento en tiras. Ponlo todo en una fuente apta con 2 cucharadas de agua, tapa y cocina a 800 W 3 minutos.",
     "Extiende el pavo con su marinada sobre la verdura en una sola capa. Tapa y cocina a 600 W 5 minutos, remueve y cocina 1-2 minutos más si queda algún trozo rosado: el jugo espesará en una salsa brillante.",
     "Reposa 2 minutos, rocía con el aceite de sésamo y el sésamo y reparte sobre la quinoa en dos tuppers."
@@ -339,11 +339,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara. Ponlo en un bol grande con el caldo, un tercio del jengibre en láminas y un diente de ajo aplastado. Tapa entreabierto y cocina a 800 W 10 minutos y luego a 400 W 5 minutos. Reposa tapado 5 minutos.",
-    "Mientras reposa el arroz, sala los contramuslos y ponlos en una fuente apta con 2 láminas de jengibre, la parte blanca de una cebolleta y 3 cucharadas de agua.",
+    "Mientras se cuece el arroz, corta 2 láminas más de jengibre y pica muy fino el resto, junto con el otro ajo y la parte verde de las cebolletas. Corta el pepino en rodajas, la lima en gajos y el chile en aros si lo usas.",
+    "Mientras reposa el arroz, sala los contramuslos y ponlos en una fuente apta con las 2 láminas de jengibre, la parte blanca de una cebolleta y 3 cucharadas de agua.",
     "Tapa y cocina a 600 W 7-8 minutos, girándolos a mitad, hasta que el jugo salga transparente al pinchar la parte más gruesa. Déjalos reposar 3 minutos tapados en su caldo para que queden jugosos.",
-    "Para la salsa, pica muy fino el resto del jengibre, el otro ajo y la parte verde de las cebolletas. Ponlos en un bol de vidrio con el aceite de oliva y una pizca de sal y calienta a 800 W 1 minuto, hasta que chisporrotee y huela.",
+    "Mientras reposan, haz la salsa: pon el jengibre, el ajo y la cebolleta picados en un bol de vidrio con el aceite de oliva y una pizca de sal y calienta a 800 W 1 minuto, hasta que chisporrotee y huela.",
     "Mezcla el tamari con el aceite de sésamo y 2 cucharadas del jugo de cocción del pollo.",
-    "Corta el pollo en tiras y sírvelo sobre el arroz con el pepino en rodajas, la salsa de cebolleta, el aliño de tamari, gajos de lima y chile en aros si te gusta."
+    "Corta el pollo en tiras y sírvelo sobre el arroz con el pepino, la salsa de cebolleta, el aliño de tamari, los gajos de lima y el chile si te gusta."
   ],
   nutricion: { kcal: 680, prot: 42, hc: 78, grasa: 22 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "alta en proteína", "bajo en colesterol"],
@@ -384,11 +385,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 260 ml de agua y sal. Tapa entreabierto y cocina a 800 W 8 minutos y a 400 W 5 minutos. Deja reposar tapado.",
-    "Corta las berenjenas en bastones de 2 cm de grosor, ponlas en una fuente apta con 2 cucharadas de agua y una pizca de sal, tapa y cocina a 800 W 6-7 minutos, hasta que estén tiernas y translúcidas. Escurre el líquido.",
-    "En un bol apto mezcla el cerdo picado con el ajo y el jengibre picados, el doubanjiang y el aceite. Cocina sin tapar a 800 W 3 minutos, deshaciendo la carne con un tenedor a mitad, hasta que pierda el color rosado.",
+    "Mientras se cuece el arroz, corta las berenjenas en bastones de 2 cm de grosor, pica el ajo y el jengibre y corta la cebolleta en aros finos.",
+    "Pon las berenjenas en una fuente apta con 2 cucharadas de agua y una pizca de sal, tapa y cocina a 800 W 6-7 minutos, hasta que estén tiernas y translúcidas. Escurre el líquido.",
+    "En un bol apto mezcla el cerdo picado con el ajo y el jengibre, el doubanjiang y el aceite. Cocina sin tapar a 800 W 3 minutos, deshaciendo la carne con un tenedor a mitad, hasta que pierda el color rosado.",
     "Mezcla la soja, el vinagre, el azúcar, la maicena y 60 ml de agua, viértelo sobre la carne y cocina 1-2 minutos más a 800 W, hasta que la salsa espese y brille.",
     "Vierte la carne sobre la berenjena, mezcla con cuidado, cocina 1 minuto más para que se integre y deja reposar 1 minuto.",
-    "Sirve sobre el arroz con la cebolleta en aros finos."
+    "Sirve sobre el arroz con la cebolleta."
   ],
   nutricion: { kcal: 555, prot: 27, hc: 62, grasa: 22 },
   etiquetas: ["saludable", "práctica", "microondas", "tupper", "batch cooking", "picante", "alta en proteína", "fácil"],
@@ -433,7 +435,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en cuartos y ponlas en una fuente apta con 3 cucharadas de agua y sal. Tapa y cocina a 800 W 8-9 minutos, hasta que un cuchillo las atraviese sin resistencia. Resérvalas tapadas.",
-    "Corta el pepino en rodajas muy finas y alíñalo con el vinagre, el aceite, el eneldo picado y sal. Déjalo encurtir mientras cocinas.",
+    "Mientras, pica el eneldo, corta el pepino en rodajas muy finas y alíñalo con el vinagre, el aceite, el eneldo y sal. Déjalo encurtir mientras cocinas.",
     "Mezcla la ternera con el pan rallado, el huevo, la cebolla rallada, la nuez moscada, sal y pimienta. Forma 16 albóndigas del tamaño de una nuez con las manos húmedas.",
     "Colócalas en círculo en una fuente apta dejando libre el centro, que es donde peor se cocina. Tapa y cocina a 700 W 5 minutos, dales la vuelta y cocina 2-3 minutos más, hasta que estén firmes y sin rastro rosado por dentro.",
     "Pasa el jugo que han soltado a un bol, añade el caldo y la maicena disuelta y calienta a 800 W 1-2 minutos, removiendo a mitad, hasta que espese. Fuera del microondas incorpora el yogur y la mostaza: si hierve, el yogur se corta.",
@@ -474,12 +476,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la patata en una fuente apta con 2 cucharadas de agua y sal. Tapa y cocina a 800 W 4 minutos.",
-    "Añade los espárragos sin la parte dura del tallo, con un hilo de aceite y sal, tapa de nuevo y cocina a 800 W 2-3 minutos, hasta que estén verde intenso, tiernos pero firmes.",
-    "Mezcla el yogur con el pimentón ahumado y una pizca de sal.",
+    "Pon la patata en una fuente apta con 2 cucharadas de agua y sal. Tapa y cocina a 800 W 4 minutos. Mientras, quita la parte dura del tallo a los espárragos.",
+    "Añade los espárragos con un hilo de aceite y sal, tapa de nuevo y cocina a 800 W 2-3 minutos, hasta que estén verde intenso, tiernos pero firmes.",
+    "Mezcla el yogur con el pimentón ahumado y una pizca de sal. Pica el cebollino.",
     "Para cada huevo, pon 120 ml de agua y unas gotas de vinagre en una taza, casca el huevo dentro y pincha la yema una vez con un palillo para que no estalle. Tapa la taza con un platito.",
     "Cocina a 800 W 50-70 segundos, hasta que la clara esté blanca y cuajada y la yema siga blanda. Sácalo con una espumadera y repite con el resto, de uno en uno, cambiando el agua cada dos huevos.",
-    "Sirve la patata y los espárragos con los huevos encima, la salsa de yogur, el resto del aceite en hilo, pimienta y cebollino picado."
+    "Sirve la patata y los espárragos con los huevos encima, la salsa de yogur, el resto del aceite en hilo, pimienta y el cebollino picado."
   ],
   nutricion: { kcal: 420, prot: 22, hc: 31, grasa: 23 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "ligera", "rápida", "fácil", "poco especiada"],
@@ -517,10 +519,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava los boniatos, pínchalos 6-8 veces con un tenedor y ponlos en un plato apto sobre papel de cocina. Cocina a 800 W 8-10 minutos, dándoles la vuelta a mitad, hasta que un cuchillo entre sin resistencia hasta el centro. Déjalos reposar 3 minutos envueltos en un paño.",
-    "Mientras, mezcla los garbanzos con la mitad del za'atar, media cucharada de aceite y sal en un bol apto. Cocina sin tapar a 800 W 2 minutos para que se templen y se impregnen.",
-    "Quita los tallos duros del kale, trocea las hojas y añádelas al bol con 1 cucharada de agua. Tapa y cocina a 800 W 1,5 minutos, hasta que esté verde brillante y blando.",
-    "Mezcla el yogur con el ajo rallado, el zumo del limón y sal.",
+    "Lava los boniatos, pínchalos 6-8 veces con un tenedor y ponlos en un plato apto sobre papel de cocina. Cocina a 800 W 8-10 minutos, dándoles la vuelta a mitad, hasta que un cuchillo entre sin resistencia hasta el centro.",
+    "Mientras, mezcla los garbanzos con la mitad del za'atar, media cucharada de aceite y sal en un bol apto. Quita los tallos duros del kale y trocea las hojas. Ralla el ajo y mézclalo con el yogur, el zumo del limón y sal.",
+    "Saca los boniatos y déjalos reposar 3 minutos envueltos en un paño. Mientras, cocina los garbanzos sin tapar a 800 W 2 minutos para que se templen y se impregnen.",
+    "Añade el kale al bol con 1 cucharada de agua. Tapa y cocina a 800 W 1,5 minutos, hasta que esté verde brillante y blando.",
     "Abre los boniatos a lo largo, aplasta un poco la pulpa con un tenedor y rellénalos con los garbanzos y el kale.",
     "Termina con el yogur, la feta desmigada, el resto del za'atar, el aceite restante en hilo y pimienta."
   ],
@@ -561,11 +563,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla el calabacín grueso, mézclalo con una pizca de sal y escúrrelo apretando con las manos para que suelte el agua.",
-    "En un tupper de vidrio rectangular apto (unos 20 x 15 cm) mezcla el calabacín, la cebolleta picada, los guisantes y el aceite. Cocina tapado a 800 W 3 minutos.",
-    "Bate los huevos con la leche, la menta picada, sal y pimienta, viértelos sobre la verdura y reparte la feta desmigada por encima.",
+    "Ralla el calabacín grueso, mézclalo con una pizca de sal y escúrrelo apretando con las manos para que suelte el agua. Pica la cebolleta.",
+    "En un tupper de vidrio rectangular apto (unos 20 x 15 cm) mezcla el calabacín, la cebolleta, los guisantes y el aceite. Cocina tapado a 800 W 3 minutos. Mientras, pica la menta.",
+    "Bate los huevos con la leche, la menta, sal y pimienta, viértelos sobre la verdura y reparte la feta desmigada por encima.",
     "Cocina sin tapar a 600 W 3 minutos, lleva suavemente los bordes hacia el centro con una espátula (los bordes cuajan antes) y cocina 3-4 minutos más a 600 W, hasta que el centro esté casi firme, apenas tembloroso.",
-    "Deja reposar 3 minutos para que el calor residual termine de cuajarla. Córtala en cuadrados y sírvela con la rúcula y el tomate en rodajas aliñados con sal."
+    "Deja reposar 3 minutos para que el calor residual termine de cuajarla; mientras, corta el tomate en rodajas y alíñalo con la rúcula y sal. Córtala en cuadrados y sírvela con la ensalada."
   ],
   nutricion: { kcal: 400, prot: 29, hc: 15, grasa: 25 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "batch cooking", "ligera", "alta en proteína", "rápida", "fácil", "poco especiada"],
@@ -603,10 +605,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, el chile (sin semillas si no quieres mucho picante) y el tomate en dados pequeños. Pon la cebolla y el chile en un bol amplio apto con el aceite, tapa y cocina a 800 W 2 minutos, hasta que la cebolla se ablande.",
+    "Pica la cebolla, el chile (sin semillas si no quieres mucho picante) y el tomate en dados pequeños, y pica el cilantro. Pon la cebolla y el chile en un bol amplio apto con el aceite, tapa y cocina a 800 W 2 minutos, hasta que la cebolla se ablande.",
     "Añade el tomate y sal y cocina sin tapar a 800 W 2 minutos, para que pierda parte del agua.",
     "Bate los huevos con sal y viértelos sobre el sofrito. Cocina a 600 W 1 minuto, remueve con un tenedor llevando lo cuajado del borde al centro y sigue en tandas de 30 segundos hasta que estén cremosos, unos 2-3 minutos en total.",
-    "Deja reposar 30 segundos (terminan de cuajarse con su calor) y espolvorea el cilantro picado.",
+    "Deja reposar 30 segundos (terminan de cuajarse con su calor) y espolvorea el cilantro.",
     "Machaca un poco las alubias con el comino y sal en un plato, tápalas y caliéntalas a 800 W 1 minuto. Envuelve las tortillas en un paño húmedo y caliéntalas 30-40 segundos, hasta que estén flexibles.",
     "Sirve los huevos con los frijoles, las tortillas calientes y unas gotas de lima."
   ],
@@ -648,8 +650,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y ponla en un bol grande con 240 ml de agua y sal. Tapa entreabierto y cocina a 800 W 6 minutos y a 500 W 6 minutos más. Reposa tapada 5 minutos.",
-    "Mientras, tritura la albahaca con las nueces, el ajo, la levadura nutricional, el zumo del limón, el aceite, 2 cucharadas de agua y sal hasta tener un pesto fluido.",
-    "Escurre el tofu, sécalo con papel apretando un poco y córtalo en dados de 2 cm. Ponlo en una fuente apta con el calabacín en medias lunas y los cherrys, tapa y cocina a 800 W 4 minutos, hasta que el calabacín esté tierno.",
+    "Mientras, tritura la albahaca con las nueces, el ajo, la levadura nutricional, el zumo del limón, el aceite, 2 cucharadas de agua y sal hasta tener un pesto fluido. Escurre el tofu, sécalo con papel apretando un poco y córtalo en dados de 2 cm; corta el calabacín en medias lunas.",
+    "Pon el tofu en una fuente apta con el calabacín y los cherrys, tapa y cocina a 800 W 4 minutos, hasta que el calabacín esté tierno.",
     "Escurre el líquido que haya soltado la verdura, añade la mitad del pesto y mezcla con cuidado para no romper el tofu.",
     "Reparte la quinoa en dos boles o tuppers, pon encima el tofu con las verduras y termina con el resto del pesto y pimienta."
   ],
@@ -691,11 +693,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 220 ml de agua. Tapa entreabierto y cocina a 800 W 7 minutos y a 400 W 4 minutos. Reposa tapado 5 minutos.",
+    "Mientras, pica muy fino el jengibre, el ajo y la parte blanca de las cebolletas, corta la parte verde en aros y el chile en aros finos. Mezcla la soja, el vinagre, el aceite de sésamo y 1 cucharada de agua.",
     "Desmolda el tofu sedoso con cuidado en un plato hondo apto, escurre el agua y córtalo en 4 lonchas gruesas sin separarlas. Coloca alrededor el pak choi partido a lo largo en cuartos.",
-    "Tapa y cocina a 600 W 4 minutos, hasta que el tofu esté caliente en el centro y el pak choi tierno pero con la penca crujiente. Escurre el agua que haya soltado.",
-    "Mezcla la soja, el vinagre, el aceite de sésamo y 1 cucharada de agua y viértelo sobre el tofu.",
-    "Pica muy fino el jengibre, el ajo y la parte blanca de las cebolletas, ponlos en una taza de vidrio con el aceite de oliva y calienta a 800 W 1 minuto, hasta que chisporrotee. Viértelo enseguida sobre el tofu.",
-    "Espolvorea la parte verde de la cebolleta en aros, el sésamo y el chile y sirve con el arroz."
+    "Tapa y cocina a 600 W 4 minutos, hasta que el tofu esté caliente en el centro y el pak choi tierno pero con la penca crujiente. Escurre el agua que haya soltado y vierte la salsa de soja sobre el tofu.",
+    "Pon el jengibre, el ajo y la cebolleta picados en una taza de vidrio con el aceite de oliva y calienta a 800 W 1 minuto, hasta que chisporrotee. Viértelo enseguida sobre el tofu.",
+    "Espolvorea la parte verde de la cebolleta, el sésamo y el chile y sirve con el arroz."
   ],
   nutricion: { kcal: 400, prot: 18, hc: 46, grasa: 16 },
   etiquetas: ["saludable", "práctica", "microondas", "ligera", "rápida", "fácil", "detox", "bajo en colesterol"],
@@ -736,9 +738,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hidrata la soja texturizada en un bol con 150 ml de agua caliente y el tamari durante 10 minutos. Escúrrela apretando con las manos.",
-    "Mientras, parte los calabacines por la mitad a lo largo y vacíalos con una cucharilla dejando 1 cm de pared. Pica la pulpa.",
+    "Mientras, parte los calabacines por la mitad a lo largo y vacíalos con una cucharilla dejando 1 cm de pared. Pica la pulpa y pica finas la cebolla y la zanahoria.",
     "Pon los calabacines boca abajo en una fuente apta con 2 cucharadas de agua, tapa y cocina a 800 W 4 minutos, hasta que estén tiernos pero sin deshacerse. Resérvalos.",
-    "En un bol apto mezcla la cebolla y la zanahoria picadas finas con la pulpa del calabacín y el aceite. Tapa y cocina a 800 W 4 minutos, removiendo a mitad.",
+    "En un bol apto mezcla la cebolla y la zanahoria con la pulpa del calabacín y el aceite. Tapa y cocina a 800 W 4 minutos, removiendo a mitad.",
     "Añade la soja, el tomate, el orégano, el pimentón, sal y pimienta. Cocina sin tapar a 800 W 5 minutos, removiendo a mitad, hasta que la salsa espese y no quede caldosa.",
     "Rellena los calabacines boca arriba, espolvorea la levadura nutricional y cocina 1 minuto más a 800 W. Reposa 2 minutos y sirve con albahaca."
   ],
@@ -782,11 +784,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 260 ml de agua y sal. Tapa entreabierto y cocina a 800 W 8 minutos y a 400 W 5 minutos. Reposa tapado.",
-    "En otro bol apto mezcla la cebolla picada fina, el ajo y el jengibre rallados y el aceite. Tapa y cocina a 800 W 3 minutos, hasta que la cebolla esté blanda.",
+    "Mientras se cuece el arroz, pica fina la cebolla, ralla el ajo y el jengibre y pica el cilantro.",
+    "En otro bol apto mezcla la cebolla, el ajo, el jengibre y el aceite. Tapa y cocina a 800 W 3 minutos, hasta que la cebolla esté blanda.",
     "Añade el garam masala, la cúrcuma y el comino, remueve y cocina 30 segundos sin tapar para que suelten su aroma.",
     "Incorpora el tomate, las lentejas y 100 ml de agua, tapa y cocina a 800 W 5 minutos, removiendo a mitad. Aplasta un tercio de las lentejas con un tenedor para que el dal quede cremoso.",
     "Pon las espinacas por encima, tapa y cocina 1-2 minutos más, hasta que se reduzcan. Mezcla, prueba de sal y deja reposar 2 minutos.",
-    "Sirve con el arroz, una cucharada de yogur y cilantro picado."
+    "Sirve con el arroz, una cucharada de yogur y el cilantro picado."
   ],
   nutricion: { kcal: 615, prot: 28, hc: 94, grasa: 14 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ideal para llevar", "alta en proteína", "fácil", "superalimentos", "bajo en colesterol"],
@@ -827,11 +830,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una fuente honda apta la cebolla picada, la zanahoria en rodajas finas y el aceite. Tapa y cocina a 800 W 4 minutos.",
-    "Añade el calabacín en dados, el ras el hanout, el tomate, los garbanzos, las pasas, 110 ml de caldo y sal. Tapa y cocina a 800 W 6-7 minutos, removiendo a mitad, hasta que la zanahoria esté tierna y la salsa haya espesado. Deja reposar tapado.",
+    "Pica la cebolla y corta la zanahoria en rodajas finas. Ponlas en una fuente honda apta con el aceite, tapa y cocina a 800 W 4 minutos. Mientras, corta el calabacín en dados.",
+    "Añade el calabacín, el ras el hanout, el tomate, los garbanzos, las pasas, 110 ml de caldo y sal. Tapa y cocina a 800 W 6-7 minutos, removiendo a mitad, hasta que la zanahoria esté tierna y la salsa haya espesado. Mientras, pica el cilantro. Deja reposar tapado.",
     "Calienta el resto del caldo en un bol a 800 W 1 minuto, hasta que hierva. Añade el cuscús, tapa con un plato, deja 5 minutos y desgrana con un tenedor.",
-    "Tuesta las almendras en un plato llano a 800 W 2-3 minutos, removiendo cada minuto, hasta que estén doradas.",
-    "Sirve los garbanzos sobre el cuscús con las almendras troceadas, el cilantro picado y unas gotas de limón."
+    "Mientras reposa el cuscús, tuesta las almendras en un plato llano a 800 W 2-3 minutos, removiendo cada minuto, hasta que estén doradas, y trocéalas.",
+    "Sirve los garbanzos sobre el cuscús con las almendras, el cilantro y unas gotas de limón."
   ],
   nutricion: { kcal: 605, prot: 22, hc: 86, grasa: 19.5 },
   etiquetas: ["saludable", "práctica", "microondas", "tupper", "batch cooking", "ideal para llevar", "alta en proteína", "rápida", "fácil", "bajo en colesterol"],
@@ -870,9 +873,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una fuente honda apta la cebolla y la zanahoria picadas finas, el apio en daditos, el ajo laminado y el aceite. Tapa y cocina a 800 W 5 minutos, removiendo a mitad, hasta que la cebolla esté transparente.",
+    "Pica finas la cebolla y la zanahoria, corta el apio en daditos y lamina el ajo. Ponlo todo en una fuente honda apta con el aceite. Tapa y cocina a 800 W 5 minutos, removiendo a mitad, hasta que la cebolla esté transparente. Mientras, pica el eneldo.",
     "Añade el tomate, el orégano, sal y pimienta y cocina sin tapar a 800 W 4 minutos, hasta que la salsa espese.",
-    "Incorpora los judiones y la mitad del eneldo picado, mezcla con cuidado para no romperlos y añade 3 cucharadas de agua.",
+    "Incorpora los judiones y la mitad del eneldo, mezcla con cuidado para no romperlos y añade 3 cucharadas de agua.",
     "Tapa y cocina a 600 W 6 minutos, para que se impregnen de salsa sin deshacerse.",
     "Desmiga la feta por encima, tapa y deja reposar 3 minutos: se ablandará con el calor.",
     "Termina con el resto del eneldo y sirve templado."
@@ -914,12 +917,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo en una jarra apta a 800 W 3 minutos y resérvalo caliente.",
-    "En un bol grande y ancho apto pon la cebolla y el ajo picados finos con el aceite y cocina sin tapar a 800 W 2 minutos. Añade el arroz, remueve para que se impregne y cocina 1 minuto más.",
-    "Vierte 350 ml del caldo caliente y las hojas de tomillo y cocina sin tapar a 800 W 6 minutos. Remueve bien, rascando el fondo.",
-    "Incorpora los champiñones, el pollo salpimentado y el resto del caldo. Cocina sin tapar a 800 W 6-7 minutos más, removiendo a mitad, hasta que el arroz esté al dente y el pollo blanco por dentro.",
+    "Calienta el caldo en una jarra apta a 800 W 3 minutos y resérvalo caliente. Mientras, pica finos la cebolla y el ajo.",
+    "En un bol grande y ancho apto pon la cebolla y el ajo con el aceite y cocina sin tapar a 800 W 2 minutos. Añade el arroz, remueve para que se impregne y cocina 1 minuto más.",
+    "Vierte 350 ml del caldo caliente y las hojas de tomillo y cocina sin tapar a 800 W 6 minutos. Mientras, salpimienta el pollo y pica el perejil. Remueve bien, rascando el fondo.",
+    "Incorpora los champiñones, el pollo y el resto del caldo. Cocina sin tapar a 800 W 6-7 minutos más, removiendo a mitad, hasta que el arroz esté al dente y el pollo blanco por dentro.",
     "Añade el parmesano y remueve con energía 30 segundos para que el arroz suelte el almidón. Tapa y deja reposar 3 minutos: quedará meloso.",
-    "Sirve con pimienta recién molida y perejil picado."
+    "Sirve con pimienta recién molida y el perejil picado."
   ],
   nutricion: { kcal: 520, prot: 40, hc: 60, grasa: 13.5 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "alta en proteína", "para niños", "fácil", "poco especiada", "bajo en colesterol"],
@@ -957,10 +960,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon la pasta en un bol grande y alto apto, cúbrela con agua hasta 3 cm por encima (unos 700 ml) y añade sal. Cocina sin tapar a 800 W el tiempo del paquete más 3 minutos (unos 12-14), removiendo cada 4 minutos para que no se pegue.",
+    "Pon la pasta en un bol grande y alto apto, cúbrela con agua hasta 3 cm por encima (unos 700 ml) y añade sal. Cocina sin tapar a 800 W el tiempo del paquete más 3 minutos (unos 12-14), removiendo cada 4 minutos para que no se pegue. Mientras, lamina el ajo y corta las aceitunas en rodajas.",
     "Prueba: debe quedar al dente. Escúrrela reservando medio vaso del agua de cocción.",
-    "En el mismo bol pon el ajo laminado, la guindilla y el aceite y cocina a 800 W 1 minuto, hasta que el ajo huela sin llegar a dorarse.",
-    "Añade el tomate, el orégano, las aceitunas en rodajas y las alcaparras y cocina sin tapar a 800 W 4 minutos, removiendo a mitad, hasta que la salsa espese.",
+    "En el mismo bol pon el ajo, la guindilla y el aceite y cocina a 800 W 1 minuto, hasta que el ajo huela sin llegar a dorarse.",
+    "Añade el tomate, el orégano, las aceitunas y las alcaparras y cocina sin tapar a 800 W 4 minutos, removiendo a mitad, hasta que la salsa espese.",
     "Incorpora la pasta, el atún escurrido en lascas y 2-3 cucharadas del agua reservada, mezcla y calienta 1 minuto más. Termina con albahaca."
   ],
   nutricion: { kcal: 515, prot: 33, hc: 60, grasa: 16 },
@@ -1001,11 +1004,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en un bol grande apto la cebolleta picada, el ajo laminado y el aceite. Tapa y cocina a 800 W 2 minutos.",
-    "Añade el calabacín en rodajas, la patata en dados pequeños, los guisantes y el caldo. Tapa con la tapa entreabierta y cocina a 800 W 10-12 minutos, removiendo a mitad, hasta que la patata se deshaga al aplastarla.",
+    "Pica la cebolleta, lamina el ajo, corta el calabacín en rodajas y la patata en dados pequeños. Pon en un bol grande apto la cebolleta, el ajo y el aceite. Tapa y cocina a 800 W 2 minutos.",
+    "Añade el calabacín, la patata, los guisantes y el caldo. Tapa con la tapa entreabierta y cocina a 800 W 10-12 minutos, removiendo a mitad, hasta que la patata se deshaga al aplastarla. Mientras, mezcla el requesón con la ralladura de limón y una pizca de sal.",
     "Añade las hojas de menta (reserva unas pocas) y tritura con la batidora hasta que quede fina. Prueba de sal y pimienta.",
     "Tuesta las semillas de calabaza en un plato a 800 W 1,5-2 minutos, removiendo cada 30 segundos, hasta que se hinchen y empiecen a crepitar.",
-    "Mezcla el requesón con la ralladura de limón y una pizca de sal.",
     "Sirve la crema con una cucharada de requesón, las semillas y la menta reservada."
   ],
   nutricion: { kcal: 345, prot: 20, hc: 36, grasa: 13.5 },
@@ -1047,10 +1049,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y ponla en un bol grande con 160 ml de agua y sal. Tapa entreabierto y cocina a 800 W 5 minutos y a 500 W 4 minutos. Reposa 5 minutos tapada y extiéndela en un plato para que se temple.",
-    "Pela el boniato y córtalo en dados de 2 cm. Ponlo en una fuente apta con 2 cucharadas de agua y sal, tapa y cocina a 800 W 5-6 minutos, removiendo a mitad, hasta que esté tierno pero entero.",
+    "Mientras se cuece, pela el boniato y córtalo en dados de 2 cm. Bate el aceite con el vinagre balsámico, la mostaza, la miel, sal y pimienta. Desgrana la media granada golpeándola boca abajo con una cuchara sobre un bol y corta la cebolla morada en pluma muy fina.",
+    "Pon el boniato en una fuente apta con 2 cucharadas de agua y sal, tapa y cocina a 800 W 5-6 minutos, removiendo a mitad, hasta que esté tierno pero entero.",
     "Tuesta las nueces en un plato a 800 W 2 minutos, removiendo a mitad.",
-    "Bate el aceite con el vinagre balsámico, la mostaza, la miel, sal y pimienta.",
-    "Desgrana la media granada golpeándola boca abajo con una cuchara sobre un bol y corta la cebolla morada en pluma muy fina.",
     "Mezcla las espinacas con la quinoa y el boniato templados, la cebolla y la mitad de la vinagreta. Reparte el queso de cabra desmigado, la granada y las nueces y termina con el resto del aliño."
   ],
   nutricion: { kcal: 590, prot: 16, hc: 68, grasa: 28 },
@@ -1092,10 +1093,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon la pechuga entera en una fuente apta con 3 cucharadas de agua, sal y 2 rodajas de jengibre. Tapa y cocina a 600 W 4 minutos, dale la vuelta y cocina 3-4 minutos más, hasta que el centro esté blanco. Déjala reposar 5 minutos tapada en su jugo para que quede jugosa.",
-    "Mientras, pon el brócoli en ramilletes pequeños y el edamame en otra fuente con 2 cucharadas de agua. Tapa y cocina a 800 W 3-4 minutos, hasta que el brócoli esté verde intenso y al dente. Escurre.",
-    "Prepara el aliño con el tamari, el vinagre, el resto del jengibre rallado, el aceite de sésamo, la miel y el zumo de la lima.",
-    "Ralla la zanahoria, corta la col lombarda en juliana muy fina y la cebolleta en aros.",
+    "Pon la pechuga entera en una fuente apta con 3 cucharadas de agua, sal y 2 rodajas de jengibre. Tapa y cocina a 600 W 4 minutos, dale la vuelta y cocina 3-4 minutos más, hasta que el centro esté blanco.",
+    "Mientras se cuece, corta el brócoli en ramilletes pequeños, ralla el resto del jengibre y la zanahoria, corta la col lombarda en juliana muy fina y la cebolleta en aros.",
+    "Deja reposar la pechuga 5 minutos tapada en su jugo para que quede jugosa. Mientras, pon el brócoli y el edamame en otra fuente con 2 cucharadas de agua. Tapa y cocina a 800 W 3-4 minutos, hasta que el brócoli esté verde intenso y al dente. Escurre.",
+    "Prepara el aliño con el tamari, el vinagre, el jengibre rallado, el aceite de sésamo, la miel y el zumo de la lima.",
     "Desmenuza el pollo con dos tenedores, mézclalo con las verduras y el aliño, espolvorea el sésamo y sirve tibia."
   ],
   nutricion: { kcal: 390, prot: 45, hc: 23, grasa: 13 },

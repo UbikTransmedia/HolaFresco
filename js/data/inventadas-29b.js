@@ -36,7 +36,7 @@ window.RECETAS_SEED.push({
     "Calienta la mitad de la mantequilla con el aceite en una sartén antiadherente de unos 22 cm a fuego medio. Echa la patata, alísala sin aplastar mucho y dale forma de torta con una espátula.",
     "Cocina 10-12 minutos sin tocar, sacudiendo la sartén de vez en cuando, hasta que la base esté dorada y crujiente.",
     "Dale la vuelta con ayuda de un plato, añade el resto de la mantequilla por los bordes y cocina 8-10 minutos más. Reparte el gruyère por encima en los últimos 3 minutos y tapa para que se funda.",
-    "Mientras, lamina el pepino y mézclalo con el yogur, el vinagre, el eneldo picado y sal. Fríe los huevos en otra sartén.",
+    "Mientras, lamina el pepino, pica el eneldo y mézclalos con el yogur, el vinagre y sal. Fríe los huevos en otra sartén.",
     "Corta el rösti en dos, pon un huevo frito encima de cada mitad y sirve con la ensalada de pepino."
   ],
   nutricion: { kcal: 575, prot: 20, hc: 56, grasa: 30 },
@@ -77,8 +77,8 @@ window.RECETAS_SEED.push({
     "Mientras, cuece las patatas peladas en agua con sal 20 minutos y cháfalas bien. Pica una cebolla, póchala con 10 g de mantequilla 10 minutos hasta que esté dorada y mezcla la mitad con el puré, el requesón, sal y bastante pimienta. Deja enfriar el relleno.",
     "Estira la masa en dos tandas sobre la encimera enharinada hasta dejarla de 2 mm de grosor y corta círculos de 8 cm con un vaso.",
     "Pon una cucharadita de relleno en el centro de cada círculo, dobla en media luna y pellizca bien los bordes para sellarlos. Saldrán unos 20 pierogi.",
-    "Corta la otra cebolla en plumas y fríela con el resto de la mantequilla a fuego medio 12 minutos, hasta que esté muy dorada.",
-    "Cuece los pierogi en tandas en agua hirviendo con sal: cuando suban a la superficie, cuenta 2 minutos más y sácalos con una espumadera.",
+    "Pon a hervir una olla grande de agua con sal. Mientras, corta la otra cebolla en plumas y fríela con el resto de la mantequilla a fuego medio 12 minutos, hasta que esté muy dorada.",
+    "Cuece los pierogi en tandas en el agua hirviendo: cuando suban a la superficie, cuenta 2 minutos más y sácalos con una espumadera.",
     "Saltéalos 2 minutos en la sartén con la cebolla frita para que se doren un poco y sirve con el yogur y la cebolla por encima."
   ],
   nutricion: { kcal: 745, prot: 28, hc: 100, grasa: 26 },
@@ -114,9 +114,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la cebolla en plumas y póchala en la sartén con el aceite a fuego medio 6 minutos, hasta que esté transparente.",
-    "Añade los pimientos en tiras y cocina 8 minutos, removiendo, hasta que empiecen a ablandarse.",
-    "Aparta del fuego, añade el pimentón y remueve. Incorpora los tomates pelados y troceados y sal y cocina 8 minutos más a fuego medio, hasta que el tomate se haya deshecho y la salsa esté jugosa.",
+    "Corta la cebolla en plumas y póchala en la sartén con el aceite a fuego medio 6 minutos, hasta que esté transparente. Mientras, corta los pimientos en tiras.",
+    "Añade los pimientos en tiras y cocina 8 minutos, removiendo, hasta que empiecen a ablandarse. Entre vuelta y vuelta, pela y trocea los tomates.",
+    "Aparta del fuego, añade el pimentón y remueve. Incorpora los tomates pelados y troceados y sal y cocina 8 minutos más a fuego medio, hasta que el tomate se haya deshecho y la salsa esté jugosa. Mientras, tuesta el pan.",
     "Bate los huevos con sal y pimienta y viértelos sobre el lecsó. Remueve suavemente 1-2 minutos, hasta que estén cuajados pero cremosos.",
     "Sirve enseguida con pan tostado para mojar."
   ],
@@ -158,8 +158,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla los calabacines con el rallador grueso, mézclalos con media cucharadita de sal y déjalos en un colador 10 minutos. Después estrújalos con las manos o en un paño para sacar toda el agua posible.",
-    "Mézclalos en un bol con el feta desmenuzado, el huevo, la cebolleta picada, la menta y la mitad del eneldo picados, la harina, el pan rallado y pimienta. Debe quedar una masa que se pueda coger con la cuchara.",
+    "Ralla los calabacines con el rallador grueso, mézclalos con media cucharadita de sal y déjalos en un colador 10 minutos. Mientras, desmenuza el feta y pica la cebolleta, la menta y el eneldo. Después estrújalos con las manos o en un paño para sacar toda el agua posible.",
+    "Mézclalos en un bol con el feta desmenuzado, el huevo, la cebolleta, la menta y la mitad del eneldo picados, la harina, el pan rallado y pimienta. Debe quedar una masa que se pueda coger con la cuchara.",
     "Calienta el aceite en la sartén a fuego medio. Echa cucharadas de masa y aplánalas un poco: haz unos 10 buñuelos en dos tandas.",
     "Fríelos 3 minutos por lado, hasta que estén dorados y firmes. Escúrrelos sobre papel.",
     "Mezcla el yogur con el ajo rallado, el resto del eneldo, un poco de pepino rallado y sal para el tzatziki. Corta el tomate y el resto del pepino y alíñalos con aceite y sal.",
@@ -207,7 +207,7 @@ window.RECETAS_SEED.push({
     "Baja el fuego al mínimo y añade el cheddar, la mostaza y la worcestershire, removiendo hasta que el queso se funda y quede una crema espesa. Aparta del fuego y añade la yema y pimienta.",
     "Unta la crema de queso generosamente sobre las tostadas hasta los bordes.",
     "Gratina 3-4 minutos, hasta que burbujee y tenga manchas tostadas.",
-    "Mientras, aliña la lechuga y el tomate con el aceite, el vinagre y sal. Sirve las tostadas recién salidas del horno con la ensalada."
+    "Mientras, trocea la lechuga, corta el tomate y alíñalos con el aceite, el vinagre y sal. Sirve las tostadas recién salidas del horno con la ensalada."
   ],
   nutricion: { kcal: 610, prot: 30, hc: 50, grasa: 32 },
   etiquetas: ["tradicional", "rápida", "fácil", "para niños", "invierno", "poco especiada"],
@@ -320,12 +320,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua abundante con sal para la pasta.",
+    "Pon a hervir agua abundante con sal para la pasta. Mientras se calienta, lamina el ajo y desmenuza las guindillas.",
     "Calienta el aceite en la sartén a fuego medio-bajo con el ajo laminado y las guindillas desmenuzadas. Cocina 2 minutos, hasta que el ajo empiece a dorarse y huela, sin que se queme.",
-    "Añade el tomate triturado y una pizca de sal y cuece 12 minutos a fuego medio, hasta que la salsa esté espesa y el aceite asome por los bordes.",
+    "Añade el tomate triturado y una pizca de sal y cuece 12 minutos a fuego medio, hasta que la salsa esté espesa y el aceite asome por los bordes. Mientras, pica el perejil y ralla el parmesano.",
     "Cuece los penne 1 minuto menos de lo que indique el paquete y escúrrelos guardando un poco del agua de cocción.",
     "Pásalos a la sartén con la salsa y saltea 1 minuto a fuego vivo con un chorrito de agua de cocción, hasta que queden bien envueltos.",
-    "Sirve con mucho perejil picado y el parmesano rallado por encima."
+    "Sirve con mucho perejil y el parmesano por encima."
   ],
   nutricion: { kcal: 550, prot: 18, hc: 84, grasa: 16 },
   etiquetas: ["tradicional", "rápida", "económica", "picante", "fácil", "sin verduras"],
@@ -361,7 +361,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal para la pasta.",
+    "Pon a hervir agua con sal para la pasta. Mientras se calienta, pica la chalota, lamina los champiñones y ralla el parmesano.",
     "Quita la piel a las salchichas y desmenuza la carne en la sartén con el aceite a fuego medio-alto. Cocínala 6 minutos, deshaciéndola con la cuchara, hasta que esté dorada y suelta.",
     "Añade la chalota picada y los champiñones laminados y saltea 5 minutos, hasta que se doren.",
     "Vierte el vino y deja que se evapore 2 minutos. Añade la nata, la nuez moscada y pimienta y cuece 3 minutos a fuego suave.",
@@ -404,9 +404,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica muy fina la cebolla, la zanahoria y el apio y póchalos en la cazuela con el aceite a fuego medio 8 minutos, hasta que estén blandos.",
-    "Añade las patatas peladas en dados de 1 cm y los cherrys partidos y rehoga 3 minutos.",
-    "Cubre con 500 ml del caldo caliente y cuece 12 minutos, hasta que las patatas estén tiernas y algunas empiecen a deshacerse.",
+    "Pica muy fina la cebolla, la zanahoria y el apio y póchalos en la cazuela con el aceite a fuego medio 8 minutos, hasta que estén blandos. Mientras, pela las patatas, córtalas en dados de 1 cm y parte los cherrys.",
+    "Añade las patatas y los cherrys y rehoga 3 minutos.",
+    "Cubre con 500 ml del caldo caliente y cuece 12 minutos, hasta que las patatas estén tiernas y algunas empiecen a deshacerse. Mientras, corta la mozzarella en dados.",
     "Incorpora la pasta cruda y cuécela en la cazuela, removiendo a menudo y añadiendo caldo poco a poco como en un risotto, durante el tiempo que marque el paquete. Debe quedar cremosa, ni seca ni caldosa.",
     "Apaga el fuego, añade el parmesano, la mozzarella en dados y la albahaca y remueve hasta que el queso fluya en hilos. Tapa y deja reposar 2 minutos.",
     "Sirve con pimienta negra y un hilo de aceite crudo."
@@ -447,11 +447,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los muslos de pato en una olla con 1,2 litros de agua, media cebolla, la zanahoria, el laurel, el clavo, la piel de naranja y sal. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 h 30 min, hasta que la carne se separe del hueso.",
+    "Pon los muslos de pato en una olla con 1,2 litros de agua, media cebolla, la zanahoria, el laurel, el clavo, la piel de naranja y sal. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 h 30 min, hasta que la carne se separe del hueso. Mientras, pica la otra media cebolla y el ajo, corta el bacon en dados, pica la mitad del chorizo y corta el resto en rodajas finas.",
     "Saca el pato, cuela el caldo y desgrásalo (guarda 2 cucharadas de la grasa). Desmiga la carne sin piel ni huesos.",
-    "Precalienta el horno a 200 °C. En una cazuela apta para horno, sofríe la otra media cebolla picada y el ajo con la grasa de pato reservada 6 minutos. Añade el bacon en dados y la mitad del chorizo picado y cocina 3 minutos.",
+    "Precalienta el horno a 200 °C. En una cazuela apta para horno, sofríe la otra media cebolla picada y el ajo con la grasa de pato reservada 6 minutos. Añade el bacon y el chorizo picado y cocina 3 minutos.",
     "Incorpora el arroz, nácaralo 1 minuto y moja con el vino. Añade 450 ml del caldo caliente, rectifica de sal y cuece 10 minutos a fuego medio sin remover.",
-    "Mezcla la carne de pato con el arroz y coloca encima el resto del chorizo en rodajas finas.",
+    "Mezcla la carne de pato con el arroz y coloca encima las rodajas de chorizo.",
     "Hornea 15 minutos, hasta que el arroz esté seco y suelto y el chorizo haya formado una costra dorada. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 805, prot: 42, hc: 78, grasa: 36 },
@@ -492,11 +492,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el pescado en una sartén con la leche y el laurel, calienta a fuego suave hasta que tiemble y cuece 5 minutos, hasta que esté opaco. Sácalo, desmígalo en lascas grandes y guarda la leche colada.",
-    "Cuece los huevos 9 minutos en agua hirviendo, enfríalos en agua fría, pélalos y córtalos en cuartos.",
+    "Cuece los huevos 9 minutos en agua hirviendo; mientras, pica la cebolla y lava el arroz. Enfría los huevos en agua fría, pélalos y córtalos en cuartos.",
     "Pocha la cebolla picada con la mantequilla en la cazuela a fuego medio 7 minutos, hasta que esté dorada. Añade el curry y la cúrcuma y remueve 30 segundos.",
-    "Incorpora el arroz lavado, rehoga 1 minuto y añade 150 ml de la leche de cocer el pescado y 150 ml de agua con sal. Tapa y cuece a fuego mínimo 12 minutos.",
+    "Incorpora el arroz lavado, rehoga 1 minuto y añade 150 ml de la leche de cocer el pescado y 150 ml de agua con sal. Tapa y cuece a fuego mínimo 12 minutos. Mientras, pica el perejil.",
     "Añade los guisantes por encima, tapa de nuevo, apaga y deja reposar 5 minutos.",
-    "Mezcla con cuidado el arroz con el pescado, el perejil picado y un chorrito de limón. Sirve con los cuartos de huevo duro por encima y pimienta."
+    "Mezcla con cuidado el arroz con el pescado, el perejil y un chorrito de limón. Sirve con los cuartos de huevo duro por encima y pimienta."
   ],
   nutricion: { kcal: 585, prot: 36, hc: 74, grasa: 16 },
   etiquetas: ["tradicional", "fácil", "alta en proteína"],
@@ -534,7 +534,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lleva a ebullición 500 ml de agua con la leche y sal en una cazuela. Añade la polenta en forma de lluvia batiendo con varillas para que no se formen grumos.",
     "Baja el fuego al mínimo y cuece removiendo a menudo con cuchara de madera el tiempo que indique el paquete (unos 25 minutos la normal, 5 la instantánea), hasta que esté cremosa y se despegue de las paredes.",
-    "Mientras, saltea los champiñones laminados con el aceite y el ajo picado a fuego fuerte 6 minutos, hasta que estén dorados. Sálalos.",
+    "Mientras, lamina los champiñones, pica el ajo y saltéalos con el aceite a fuego fuerte 6 minutos, hasta que estén dorados. Sálalos.",
     "Corta el gruyère en dados. Fuera del fuego, incorpora el queso en dados y el parmesano a la polenta y remueve hasta que se fundan. Si está muy espesa, añade un chorrito de agua caliente.",
     "En un cazo, derrite la mantequilla con las hojas de salvia a fuego medio 2-3 minutos, hasta que la mantequilla huela a avellana y la salvia esté crujiente.",
     "Sirve la polenta en plato hondo, pon encima los champiñones y riega con la mantequilla a la salvia. Termina con pimienta negra."
@@ -576,10 +576,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pocha la cebolla picada en la sartén con el aceite a fuego medio 6 minutos. Añade el ajo y la carne y cocina a fuego fuerte 6 minutos, deshaciéndola con la cuchara, hasta que esté dorada y sin líquido.",
+    "Pica la cebolla y el ajo. Pocha la cebolla en la sartén con el aceite a fuego medio 6 minutos. Añade el ajo y la carne y cocina a fuego fuerte 6 minutos, deshaciéndola con la cuchara, hasta que esté dorada y sin líquido.",
     "Añade el tomate concentrado, remueve 1 minuto y moja con el vino. Deja reducir 2 minutos.",
     "Incorpora el tomate triturado, la canela, los clavos, el laurel, sal, pimienta y 100 ml de agua. Tapa a medias y cuece a fuego suave 25 minutos, hasta que la salsa esté espesa y aromática.",
-    "A falta de 10 minutos, cuece la pasta en agua con sal según el paquete.",
+    "A falta de 15 minutos, pon a hervir agua con sal y cuece en ella la pasta según el paquete.",
     "Retira la canela, los clavos y el laurel de la salsa. Escurre la pasta y mézclala con una cucharada de la salsa y un poco de queso.",
     "Sirve la pasta con una buena cantidad de salsa por encima y espolvorea el resto del queso rallado."
   ],
@@ -659,10 +659,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el puerro en rodajas finas, las zanahorias en bastoncitos y la patata en dados pequeños.",
     "Derrite la mantequilla en la cazuela y rehoga el puerro y la zanahoria a fuego medio 5 minutos, sin que tomen color.",
-    "Añade la patata y el caldo caliente y cuece 12 minutos, hasta que las verduras estén tiernas.",
+    "Añade la patata y el caldo caliente y cuece 12 minutos, hasta que las verduras estén tiernas. Mientras, corta el pescado en dados de 3 cm y pica el eneldo y el cebollino.",
     "Incorpora la nata y deja que vuelva a hervir suave. Ajusta de sal y pimienta blanca.",
-    "Corta el pescado en dados de 3 cm, añádelo a la sopa y apaga el fuego. Tapa y deja 4-5 minutos, hasta que el pescado esté opaco pero jugoso.",
-    "Sirve con mucho eneldo picado, cebollino y unas gotas de limón."
+    "Añade el pescado a la sopa y apaga el fuego. Tapa y deja 4-5 minutos, hasta que el pescado esté opaco pero jugoso.",
+    "Sirve con mucho eneldo, cebollino y unas gotas de limón."
   ],
   nutricion: { kcal: 525, prot: 36, hc: 32, grasa: 28 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "poco especiada"],
@@ -700,11 +700,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los contramuslos en una olla con 1,3 litros de agua fría, la parte verde de los puerros, la zanahoria, el apio, el laurel, el tomillo y sal. Lleva a ebullición y retira la espuma.",
-    "Cuece a fuego suave, semitapado, 1 hora, hasta que la carne se separe del hueso.",
+    "Cuece a fuego suave, semitapado, 1 hora, hasta que la carne se separe del hueso. Mientras, corta la parte blanca de los puerros en rodajas, parte las ciruelas por la mitad y pica el perejil.",
     "Saca el pollo y cuela el caldo, desechando las verduras. Desmiga la carne sin piel ni huesos.",
-    "Corta la parte blanca de los puerros en rodajas y ponla en el caldo colado con el arroz. Cuece 15 minutos, hasta que el arroz esté tierno.",
-    "Añade el pollo desmigado y las ciruelas partidas por la mitad y cuece 5 minutos más. Rectifica de sal y pimienta.",
-    "Sirve con perejil picado y pan para acompañar."
+    "Pon la parte blanca de los puerros en el caldo colado con el arroz. Cuece 15 minutos, hasta que el arroz esté tierno.",
+    "Añade el pollo desmigado y las ciruelas y cuece 5 minutos más. Rectifica de sal y pimienta.",
+    "Sirve con el perejil y pan para acompañar."
   ],
   nutricion: { kcal: 515, prot: 36, hc: 48, grasa: 20 },
   etiquetas: ["tradicional", "de cuchara", "económica", "invierno", "batch cooking", "poco especiada", "bajo en colesterol"],
@@ -747,7 +747,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la remolacha y córtala en láminas finas o rállala gruesa. Trocea la zanahoria, la cebolla y el apio.",
     "Pon todo en la cazuela con el ajo, el laurel, la pimienta de Jamaica y el caldo. Lleva a ebullición y cuece a fuego suave 40 minutos, hasta que la remolacha esté tierna y el caldo muy rojo.",
-    "Mientras, cuece las patatas peladas en agua con sal 20 minutos, escúrrelas y mézclalas con el eneldo picado.",
+    "Mientras, cuece las patatas peladas en agua con sal 20 minutos, pica el eneldo, escúrrelas y mézclalas con él.",
     "Cuela el caldo presionando las verduras para sacarles todo el jugo (puedes dejar unas tiras de remolacha si te gusta).",
     "Añade el vinagre, el azúcar, la mejorana, sal y pimienta: debe quedar agridulce y equilibrado. Calienta sin que llegue a hervir para que conserve el color.",
     "Sirve el barszcz en cuencos con una cucharada de yogur y las patatas al eneldo en un plato al lado, como en Polonia."
@@ -789,12 +789,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias, ponlas en la olla con 1,5 litros de agua fría, la panceta entera, el laurel y el tomillo. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 hora.",
-    "Retira 2 cucharadas de la grasa del confit y dora en ella, en una sartén, la cebolla, el puerro y la zanahoria troceados y el ajo, 8 minutos.",
-    "Añade el sofrito a la olla con las patatas en trozos y el repollo en tiras gruesas. Cuece 45 minutos más a fuego suave.",
+    "Escurre las alubias (puestas en remojo la víspera), ponlas en la olla con 1,5 litros de agua fría, la panceta entera, el laurel y el tomillo. Lleva a ebullición, retira la espuma y cuece a fuego suave 1 hora. Mientras, trocea la cebolla, el puerro y la zanahoria, pica el ajo, pela las patatas y córtalas en trozos y corta el repollo en tiras gruesas.",
+    "Retira 2 cucharadas de la grasa del confit y dora en ella, en una sartén, la cebolla, el puerro, la zanahoria y el ajo, 8 minutos.",
+    "Añade el sofrito a la olla con las patatas y el repollo. Cuece 45 minutos más a fuego suave.",
     "Mientras, dora los muslos de confit en la sartén a fuego medio 5 minutos por el lado de la piel, hasta que esté crujiente.",
-    "Saca la panceta, córtala en dados y devuélvela. Añade los muslos de pato a la olla y cuece 15 minutos para que perfumen el potaje. Rectifica de sal y pimienta: debe quedar tan espeso que la cuchara casi se sostenga.",
-    "Tuesta el pan, ponlo en el fondo de los platos y sirve el garbure encima con un muslo de pato por persona."
+    "Saca la panceta, córtala en dados y devuélvela. Añade los muslos de pato a la olla y cuece 15 minutos para que perfumen el potaje; mientras, tuesta el pan. Rectifica de sal y pimienta: debe quedar tan espeso que la cuchara casi se sostenga.",
+    "Pon el pan tostado en el fondo de los platos y sirve el garbure encima con un muslo de pato por persona."
   ],
   nutricion: { kcal: 745, prot: 40, hc: 56, grasa: 40 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "batch cooking", "poco especiada"],
@@ -832,11 +832,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el cordero en la olla con 1,5 litros de agua fría y el laurel. Lleva a ebullición y retira bien la espuma durante 5 minutos.",
-    "Añade la cebada lavada y los guisantes partidos, si los usas. Cuece a fuego suave, semitapado, 1 hora.",
-    "Corta en dados pequeños la zanahoria, el nabo y la cebolla, y en rodajas el puerro. Añádelos a la olla con sal y cuece 30 minutos más.",
+    "Añade la cebada lavada y los guisantes partidos, si los usas. Cuece a fuego suave, semitapado, 1 hora. Mientras, corta en dados pequeños la zanahoria, el nabo y la cebolla, y en rodajas el puerro.",
+    "Añade las verduras a la olla con sal y cuece 30 minutos más. Mientras, corta el repollo en tiras finas y pica el perejil.",
     "Saca el cordero, quita huesos y grasa, desmenuza la carne y devuélvela a la olla.",
-    "Añade el repollo en tiras finas y cuece 10 minutos más, hasta que la cebada esté tierna y el caldo espeso. Rectifica de sal y pimienta.",
-    "Sirve muy caliente con abundante perejil picado."
+    "Añade el repollo y cuece 10 minutos más, hasta que la cebada esté tierna y el caldo espeso. Rectifica de sal y pimienta.",
+    "Sirve muy caliente con abundante perejil."
   ],
   nutricion: { kcal: 550, prot: 34, hc: 54, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "poco especiada"],
@@ -875,12 +875,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Dora el bacon en dados en la cazuela a fuego medio 3 minutos. Añade la cebolla picada y póchala 5 minutos.",
-    "Incorpora la patata pelada en dados, la zanahoria, el puerro y el apio troceados y rehoga 3 minutos.",
-    "Vierte el caldo, añade la mejorana y cuece a fuego suave 25 minutos, hasta que todo esté muy tierno.",
+    "Corta el bacon en dados, pica la cebolla, pela la patata y córtala en dados y trocea la zanahoria, el puerro y el apio. Dora el bacon en la cazuela a fuego medio 3 minutos. Añade la cebolla y póchala 5 minutos.",
+    "Incorpora la patata, la zanahoria, el puerro y el apio y rehoga 3 minutos.",
+    "Vierte el caldo, añade la mejorana y cuece a fuego suave 25 minutos, hasta que todo esté muy tierno. Mientras, corta las salchichas en rodajas y pica el perejil.",
     "Tritura solo la mitad de la sopa con la batidora (o aplasta parte de las patatas con un pasapurés): debe quedar espesa pero con tropezones.",
-    "Añade la nata, la nuez moscada y las salchichas en rodajas y calienta 5 minutos a fuego suave. Rectifica de sal y pimienta.",
-    "Sirve en plato hondo con perejil picado por encima."
+    "Añade la nata, la nuez moscada y las salchichas y calienta 5 minutos a fuego suave. Rectifica de sal y pimienta.",
+    "Sirve en plato hondo con el perejil por encima."
   ],
   nutricion: { kcal: 600, prot: 22, hc: 52, grasa: 34 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "para niños", "batch cooking", "poco especiada"],
@@ -913,12 +913,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el horno a 220 °C o enciende el grill.",
+    "Calienta el horno a 220 °C o enciende el grill y pon el caldo a calentar en una cazuela.",
     "Dora las rebanadas de pan en una sartén con la mantequilla a fuego medio 2 minutos por lado, hasta que estén doradas.",
-    "Lleva el caldo a ebullición y rectifica de sal: debe estar bien sabroso.",
+    "Cuando el caldo hierva, rectifica de sal: debe estar bien sabroso. Ralla el parmesano y pica el perejil.",
     "Pon 2 rebanadas de pan en el fondo de cada cuenco apto para horno y casca con cuidado 2 huevos encima de cada uno, sin romper las yemas.",
     "Espolvorea el parmesano alrededor de los huevos y vierte el caldo hirviendo despacio por los bordes del cuenco, sin echarlo sobre las yemas.",
-    "Mete los cuencos en el horno 3-4 minutos, hasta que la clara esté cuajada y la yema siga líquida. Sirve con pimienta y perejil picado."
+    "Mete los cuencos en el horno 3-4 minutos, hasta que la clara esté cuajada y la yema siga líquida. Sirve con pimienta y el perejil."
   ],
   nutricion: { kcal: 420, prot: 22, hc: 34, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "rápida", "económica", "ligera", "invierno", "sin verduras", "poco especiada"],
@@ -953,11 +953,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la escarola, quédate con las hojas más blancas y tiernas, trocéalas y sécalas bien. Ponlas en un bol grande.",
+    "Pon a calentar un cazo de agua con 1 cucharada de vinagre para escalfar. Mientras, lava la escarola, quédate con las hojas más blancas y tiernas, trocéalas y sécalas bien. Ponlas en un bol grande y pica la chalota.",
     "Dora el bacon en la sartén sin aceite a fuego medio 6 minutos, hasta que esté crujiente. Sácalo con una espumadera y deja la grasa en la sartén.",
     "Corta el pan en dados y dóralo en esa grasa 3 minutos, removiendo, hasta que esté crujiente. Sácalo.",
-    "Escalfa los huevos en agua hirviendo suave con 1 cucharada de vinagre durante 3 minutos y sácalos con una espumadera.",
-    "En la sartén aún caliente, sofríe la chalota picada 1 minuto, apaga el fuego y añade 2 cucharadas de vinagre, la mostaza y el aceite. Mezcla y vierte la vinagreta caliente sobre la escarola con el bacon y los picatostes.",
+    "Escalfa los huevos en el agua con vinagre, a hervor suave, durante 3 minutos y sácalos con una espumadera.",
+    "En la sartén aún caliente, sofríe la chalota 1 minuto, apaga el fuego y añade 2 cucharadas de vinagre, la mostaza y el aceite. Mezcla y vierte la vinagreta caliente sobre la escarola con el bacon y los picatostes.",
     "Remueve, reparte en platos y corona cada uno con un huevo escalfado y pimienta. Rompe la yema al comer para que haga de salsa."
   ],
   nutricion: { kcal: 575, prot: 24, hc: 30, grasa: 40 },
@@ -993,11 +993,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta el pan en el horno a 200 °C 8 minutos, hasta que esté muy seco y crujiente, como un biscote.",
-    "Ralla los tomates por el lado grueso del rallador, desecha la piel y sazona la pulpa con sal y 1 cucharada de aceite.",
+    "Precalienta el horno a 200 °C y tuesta el pan 8 minutos, hasta que esté muy seco y crujiente, como un biscote.",
+    "Mientras, ralla los tomates por el lado grueso del rallador, desecha la piel y sazona la pulpa con sal y 1 cucharada de aceite. Corta la cebolla en aros finos y el pepino en rodajas.",
     "Rocía el pan con un poco de agua y 1 cucharada de aceite para que se ablande ligeramente por encima sin perder el crujiente.",
-    "Reparte el tomate rallado sobre el pan dejando que lo empape, desmenuza el feta por encima y añade las aceitunas, las alcaparras y la cebolla en aros finos.",
-    "Espolvorea el orégano, riega con el resto del aceite y sirve con el pepino en rodajas al lado."
+    "Reparte el tomate rallado sobre el pan dejando que lo empape, desmenuza el feta por encima y añade las aceitunas, las alcaparras y la cebolla.",
+    "Espolvorea el orégano, riega con el resto del aceite y sirve con el pepino al lado."
   ],
   nutricion: { kcal: 430, prot: 14, hc: 46, grasa: 22 },
   etiquetas: ["tradicional", "sin cocción", "rápida", "ligera", "verano", "económica", "poco especiada"],

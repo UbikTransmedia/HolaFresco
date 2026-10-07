@@ -34,12 +34,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el arroz lavado con 200 ml de agua y sal en un cazo, tapa y cuece 12 minutos a fuego mínimo; deja reposar tapado.",
-    "Calienta el aceite en una sartén grande con tapa a fuego medio y echa el comino en grano. Cuando chisporrotee y huela (unos 20 segundos), añade la cebolla picada y sofríe 5 minutos.",
-    "Agrega el ajo, el jengibre y el chile picados, la cúrcuma y el cilantro molido, y rehoga 1 minuto removiendo.",
+    "Pon el arroz lavado con 200 ml de agua y sal en un cazo, tapa y cuece 12 minutos a fuego mínimo; deja reposar tapado. Mientras, corta la coliflor en ramilletes pequeños y la patata en dados de 2 cm, y pica la cebolla, el ajo, el chile, el tomate y el cilantro fresco.",
+    "Calienta el aceite en una sartén grande con tapa a fuego medio y echa el comino en grano. Cuando chisporrotee y huela (unos 20 segundos), añade la cebolla y sofríe 5 minutos.",
+    "Agrega el ajo, el jengibre rallado y el chile, la cúrcuma y el cilantro molido, y rehoga 1 minuto removiendo.",
     "Añade la patata y la coliflor, sala y mezcla bien para que se tiñan de amarillo. Saltea 3 minutos a fuego medio-alto.",
-    "Incorpora el tomate picado y 3 cucharadas de agua, tapa y cocina a fuego bajo 15-18 minutos, removiendo con cuidado un par de veces, hasta que la patata esté tierna y la coliflor tenga algo de mordida.",
-    "Destapa, sube el fuego 2-3 minutos para que se doren un poco los bordes, espolvorea el garam masala y el cilantro picado y sirve con el arroz."
+    "Incorpora el tomate y 3 cucharadas de agua, tapa y cocina a fuego bajo 15-18 minutos, removiendo con cuidado un par de veces, hasta que la patata esté tierna y la coliflor tenga algo de mordida.",
+    "Destapa, sube el fuego 2-3 minutos para que se doren un poco los bordes, espolvorea el garam masala y el cilantro y sirve con el arroz."
   ],
   nutricion: { kcal: 460, prot: 10, hc: 73, grasa: 14 },
   etiquetas: ["tradicional", "fácil", "económica", "ligera", "una sola sartén", "detox", "bajo en colesterol"],
@@ -79,13 +79,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el pollo con el yogur, la cúrcuma y una pizca de sal y deja reposar mientras preparas el masala (si tienes tiempo, déjalo 1 hora en la nevera).",
-    "Calienta el aceite en una cazuela a fuego medio, echa el comino y, cuando chisporrotee, añade la cebolla muy picada. Sofríe 15 minutos removiendo, hasta que esté marrón dorada: esta paciencia es la base del sabor.",
-    "Añade el ajo y el jengibre rallados y rehoga 1 minuto. Agrega el cilantro molido y el pimentón, remueve 20 segundos y echa el tomate rallado. Cocina 8 minutos, hasta que se espese y el aceite se separe por los bordes.",
+    "Mezcla el pollo con el yogur, la cúrcuma y una pizca de sal y deja reposar mientras preparas el masala (si tienes tiempo, déjalo 1 hora en la nevera). Pica muy fina la cebolla y ralla el ajo, el jengibre y los tomates.",
+    "Calienta el aceite en una cazuela a fuego medio, echa el comino y, cuando chisporrotee, añade la cebolla. Sofríe 15 minutos removiendo, hasta que esté marrón dorada: esta paciencia es la base del sabor.",
+    "Añade el ajo y el jengibre y rehoga 1 minuto. Agrega el cilantro molido y el pimentón, remueve 20 segundos y echa el tomate. Cocina 8 minutos, hasta que se espese y el aceite se separe por los bordes.",
     "Incorpora el pollo con su yogur y remueve a fuego medio-alto 5 minutos, hasta que se selle.",
     "Añade 200 ml de agua caliente, tapa y cuece a fuego suave 20 minutos, hasta que el pollo esté tierno y la salsa espesa.",
-    "Mientras, cuece el arroz lavado en 280 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y deja reposar.",
-    "Termina el curry con el garam masala y el cilantro picado, rectifica de sal y sirve con el arroz."
+    "Mientras, cuece el arroz lavado en 280 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y deja reposar. Pica el cilantro.",
+    "Termina el curry con el garam masala y el cilantro, rectifica de sal y sirve con el arroz."
   ],
   nutricion: { kcal: 880, prot: 47, hc: 70, grasa: 46 },
   etiquetas: ["tradicional", "saciante", "fácil", "económica", "batch cooking", "de domingo"],
@@ -124,13 +124,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Unta las berenjenas con un poco de aceite, pínchalas y ásalas a 230 °C 30-35 minutos (o sobre la llama del gas, girándolas), hasta que la piel esté quemada y estén blandísimas.",
+    "Precalienta el horno a 230 °C. Unta las berenjenas con un poco de aceite, pínchalas y ásalas 30-35 minutos (o sobre la llama del gas, girándolas), hasta que la piel esté quemada y estén blandísimas. Mientras se asan, cuece el arroz lavado en 200 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y pica la cebolla, el ajo, el jengibre, el chile, el tomate y el cilantro.",
     "Ponlas en un bol tapado 5 minutos, pélalas y aplasta la pulpa con un tenedor.",
-    "Mientras se asan, cuece el arroz lavado en 200 ml de agua con sal, tapado, 12 minutos a fuego mínimo.",
-    "Calienta el resto del aceite en la sartén, echa el comino y, cuando chisporrotee, añade la cebolla picada. Sofríe 8 minutos, hasta que esté dorada.",
-    "Añade el ajo, el jengibre y el chile picados y la cúrcuma, rehoga 1 minuto y agrega el tomate picado. Cocina 5 minutos, hasta que se deshaga.",
+    "Calienta el resto del aceite en la sartén, echa el comino y, cuando chisporrotee, añade la cebolla. Sofríe 8 minutos, hasta que esté dorada.",
+    "Añade el ajo, el jengibre, el chile y la cúrcuma, rehoga 1 minuto y agrega el tomate. Cocina 5 minutos, hasta que se deshaga.",
     "Incorpora la berenjena y los guisantes, sala y cocina 8 minutos a fuego medio, removiendo, hasta que todo quede como un puré rústico y sabroso.",
-    "Termina con el garam masala y el cilantro picado y sirve con el arroz."
+    "Termina con el garam masala y el cilantro y sirve con el arroz."
   ],
   nutricion: { kcal: 500, prot: 11, hc: 70, grasa: 20 },
   etiquetas: ["tradicional", "fácil", "económica", "al horno", "batch cooking", "bajo en colesterol"],
@@ -214,11 +213,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos en agua fría y pélalos. Hazles 3 cortes superficiales a lo largo para que absorban la salsa.",
+    "Cuece los huevos 10 minutos; mientras, pica la cebolla y ralla el ajo, el jengibre y el tomate. Enfría los huevos en agua fría y pélalos. Hazles 3 cortes superficiales a lo largo para que absorban la salsa.",
     "Cuece el arroz lavado en 240 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y deja reposar.",
     "Calienta el aceite en la sartén, añade media cucharadita de cúrcuma y una pizca de sal y dora los huevos 2-3 minutos, girándolos, hasta que tengan una piel dorada. Sácalos.",
-    "En el mismo aceite echa el comino; cuando chisporrotee, sofríe la cebolla picada 10 minutos, hasta que esté bien dorada. Añade el ajo y el jengibre rallados y rehoga 1 minuto.",
-    "Agrega el resto de la cúrcuma, el cilantro molido y el pimentón, remueve 20 segundos y añade el tomate rallado. Cocina 6-8 minutos hasta que el aceite se separe.",
+    "En el mismo aceite echa el comino; cuando chisporrotee, sofríe la cebolla 10 minutos, hasta que esté bien dorada. Añade el ajo y el jengibre y rehoga 1 minuto.",
+    "Agrega el resto de la cúrcuma, el cilantro molido y el pimentón, remueve 20 segundos y añade el tomate. Cocina 6-8 minutos hasta que el aceite se separe.",
     "Vierte 200 ml de agua, sala y cuece 5 minutos. Mete los huevos, cocina 3 minutos más bañándolos en la salsa y termina con el garam masala y el cilantro. Sirve con el arroz."
   ],
   nutricion: { kcal: 585, prot: 22, hc: 60, grasa: 29 },
@@ -262,12 +261,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la legumbre y cuécela en 700 ml de agua con la cúrcuma a fuego suave 40-45 minutos, retirando la espuma, hasta que esté deshecha. Bátela con unas varillas para que quede cremosa.",
-    "Mientras, corta la berenjena, la zanahoria y la calabaza en dados de 2 cm, y la cebolla y el tomate en trozos.",
+    "Mientras, corta la berenjena, la zanahoria y la calabaza en dados de 2 cm, y la cebolla y el tomate en trozos. Lamina el ajo y pica el cilantro.",
     "Cuece las verduras en un cazo con 400 ml de agua, sal y el curry en polvo 12-15 minutos, hasta que estén tiernas.",
-    "Une las verduras con su caldo a la legumbre, añade el tamarindo disuelto y cuece 10 minutos a fuego suave. Debe quedar como una sopa espesa, ácida y especiada. Ajusta de sal.",
-    "Cuece el arroz lavado en 200 ml de agua con sal, tapado, 12 minutos a fuego mínimo.",
-    "Para el templado, calienta el aceite en una sartén pequeña, echa la mostaza y, cuando empiece a saltar, el comino, el ajo laminado y la guindilla. Fríe 30 segundos y vuélcalo sobre el sambar.",
-    "Sirve el sambar en cuencos con cilantro picado y el arroz aparte o debajo."
+    "Une las verduras con su caldo a la legumbre, añade el tamarindo disuelto y cuece 10 minutos a fuego suave. Debe quedar como una sopa espesa, ácida y especiada. Ajusta de sal. Mientras, cuece el arroz lavado en 200 ml de agua con sal, tapado, 12 minutos a fuego mínimo.",
+    "Para el templado, calienta el aceite en una sartén pequeña, echa la mostaza y, cuando empiece a saltar, el comino, el ajo y la guindilla. Fríe 30 segundos y vuélcalo sobre el sambar.",
+    "Sirve el sambar en cuencos con el cilantro y el arroz aparte o debajo."
   ],
   nutricion: { kcal: 540, prot: 18, hc: 87, grasa: 13 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "invierno", "bajo en colesterol"],
@@ -307,12 +305,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece la patata en dados, la coliflor y los guisantes en agua con sal 15 minutos, hasta que estén muy tiernos. Escurre y aplástalos con un pasapurés o un tenedor.",
-    "En una sartén grande, derrite 30 g de mantequilla a fuego medio y sofríe la mitad de la cebolla picada 5 minutos. Añade el ajo y el pimiento muy picados y cocina 4 minutos más.",
-    "Agrega el tomate picado, el garam masala y los pimentones y cocina 6-8 minutos, aplastando, hasta que el tomate se deshaga.",
+    "Pela la patata y córtala en dados y separa la coliflor en ramilletes. Cuécelos con los guisantes en agua con sal 15 minutos, hasta que estén muy tiernos; mientras, pica la cebolla, el ajo, el pimiento, el tomate y el cilantro. Escurre y aplástalos con un pasapurés o un tenedor.",
+    "En una sartén grande, derrite 30 g de mantequilla a fuego medio y sofríe la mitad de la cebolla 5 minutos. Añade el ajo y el pimiento y cocina 4 minutos más.",
+    "Agrega el tomate, el garam masala y los pimentones y cocina 6-8 minutos, aplastando, hasta que el tomate se deshaga.",
     "Incorpora las verduras aplastadas y 100 ml de agua. Machaca y mezcla con el pasapurés en la misma sartén 5 minutos, hasta tener un puré rústico y brillante. Añade 10 g más de mantequilla, sal y el zumo de media lima.",
     "Abre los panecillos, úntalos con el resto de la mantequilla y tuéstalos en otra sartén 1 minuto por lado, hasta que estén dorados.",
-    "Sirve el bhaji bien caliente con la otra media cebolla cruda picada, cilantro, gajos de lima y los panecillos para mojar."
+    "Sirve el bhaji bien caliente con la otra media cebolla cruda, el cilantro, gajos de lima y los panecillos para mojar."
   ],
   nutricion: { kcal: 680, prot: 18, hc: 92, grasa: 27 },
   etiquetas: ["tradicional", "saciante", "fácil", "económica", "para niños"],
@@ -349,10 +347,10 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave, o de girasol" }
   ],
   pasos: [
-    "Cuece el arroz lavado en 180 ml de agua, tapado, 12 minutos a fuego mínimo, y deja reposar.",
-    "Pon el tofu en dados en un bol, cúbrelo con agua hirviendo con sal y déjalo 3 minutos: así se afirma y no se rompe. Escúrrelo con cuidado.",
+    "Cuece el arroz lavado en 180 ml de agua, tapado, 12 minutos a fuego mínimo, y deja reposar. Mientras, corta el tofu en dados de 2 cm y pica el ajo, el jengibre y la cebolleta, separando la parte blanca de la verde.",
+    "Pon el tofu en un bol, cúbrelo con agua hirviendo con sal y déjalo 3 minutos: así se afirma y no se rompe. Escúrrelo con cuidado.",
     "Calienta el wok a fuego fuerte con el aceite y saltea el cerdo picado 3-4 minutos, desmenuzándolo, hasta que esté dorado y crujiente.",
-    "Baja a fuego medio y añade la pasta de judía picante; fríe 1 minuto hasta que el aceite se tiña de rojo. Agrega el ajo, el jengibre y la parte blanca de la cebolleta picados y rehoga 30 segundos.",
+    "Baja a fuego medio y añade la pasta de judía picante; fríe 1 minuto hasta que el aceite se tiña de rojo. Agrega el ajo, el jengibre y la parte blanca de la cebolleta y rehoga 30 segundos.",
     "Vierte el caldo y la soja, lleva a ebullición y desliza el tofu. No remuevas: empuja con el dorso de la espátula para que no se rompa. Cuece 4 minutos a fuego suave.",
     "Disuelve la maicena en 2 cucharadas de agua fría, añádela en dos veces y mueve el wok hasta que la salsa espese y brille, 1 minuto.",
     "Sirve sobre el arroz con la pimienta de Sichuan y el verde de la cebolleta por encima."
@@ -389,12 +387,12 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga clara y cuécelo en 170 ml de agua, tapado, 12 minutos a fuego mínimo; reposa 10 minutos sin destapar.",
+    "Lava el arroz hasta que el agua salga clara y cuécelo en 170 ml de agua, tapado, 12 minutos a fuego mínimo; reposa 10 minutos sin destapar. Mientras, corta la cebolla en plumas finas, el pollo en trozos y la cebolleta en aros finos.",
     "En una sartén pequeña con tapa, pon el caldo, la soja, el mirin y el azúcar y lleva a ebullición. Añade la cebolla y cuece 3 minutos, hasta que se ablande.",
     "Incorpora el pollo en una sola capa, tapa y cuece a fuego medio 5-6 minutos, girándolo a media cocción, hasta que esté hecho.",
     "Bate los huevos ligeramente con un tenedor, sin que lleguen a homogeneizarse del todo (deben verse vetas de clara).",
     "Vierte dos tercios del huevo en círculos sobre el pollo, tapa y cuece 1 minuto a fuego medio. Añade el resto del huevo, tapa y apaga: en 30-60 segundos debe quedar cuajado pero muy jugoso.",
-    "Sirve el arroz en cuencos hondos y desliza encima el pollo con el huevo y su caldo. Termina con la cebolleta en aros finos."
+    "Sirve el arroz en cuencos hondos y desliza encima el pollo con el huevo y su caldo. Termina con la cebolleta."
   ],
   nutricion: { kcal: 630, prot: 38, hc: 74, grasa: 20 },
   etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños", "saciante", "sin verduras", "poco especiada"],
@@ -476,8 +474,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la soja, el azúcar, 1 cucharada de aceite de sésamo y el ajo rallado. Marina la ternera con 1 cucharada de esta salsa mientras preparas lo demás.",
-    "Cuece los fideos en abundante agua hirviendo 6-7 minutos, hasta que estén transparentes y elásticos. Escúrrelos, pásalos por agua fría, córtalos un par de veces con tijeras y alíñalos en un bol grande con 1 cucharada de la salsa.",
+    "Pon a hervir una olla grande de agua. Mezcla la soja, el azúcar, 1 cucharada de aceite de sésamo y el ajo rallado. Corta la ternera en tiras finas y marínala con 1 cucharada de esta salsa mientras preparas lo demás. Mientras el agua se calienta, corta la zanahoria en bastones finos, la cebolla en plumas, las setas en láminas y el pimiento en tiras.",
+    "Cuece los fideos en el agua hirviendo 6-7 minutos, hasta que estén transparentes y elásticos. Escúrrelos, pásalos por agua fría, córtalos un par de veces con tijeras y alíñalos en un bol grande con 1 cucharada de la salsa.",
     "En la misma agua, escalda las espinacas 30 segundos, enfríalas, escúrrelas apretando y alíñalas con una pizca de sal y unas gotas de aceite de sésamo.",
     "Bate el huevo con una pizca de sal, cuájalo en la sartén con unas gotas de aceite como una tortilla fina a fuego bajo, 1 minuto por lado, y córtalo en tiras.",
     "En el wok caliente con el aceite, saltea por separado y a fuego fuerte, con una pizca de sal: la cebolla y la zanahoria 2 minutos, el pimiento 1 minuto y las setas 2 minutos. Ve echándolo todo al bol de los fideos.",
@@ -520,9 +518,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon la costilla en una cazuela con agua fría, lleva a ebullición 3 minutos y tira el agua: así el caldo queda limpio. Enjuaga la carne.",
     "Vuelve a ponerla en la cazuela con 1,2 l de agua, la cebolla y el tomate. Cuece a fuego suave, tapado a medias, 50 minutos, hasta que la carne esté tierna y empiece a separarse del hueso.",
-    "Mientras, cuece el arroz lavado en 120 ml de agua, tapado, 12 minutos a fuego mínimo.",
+    "Mientras, cuece el arroz lavado en 120 ml de agua, tapado, 12 minutos a fuego mínimo, parte los rábanos por la mitad y corta las judías verdes en trozos.",
     "Disuelve el tamarindo en un cucharón de caldo y añádelo a la cazuela con la salsa de pescado. Prueba: debe ser claramente ácida, como un caldo con limón; añade más tamarindo si te gusta.",
-    "Agrega los rábanos en mitades y el chile entero y cuece 8 minutos. Después las judías verdes en trozos, 4 minutos más.",
+    "Agrega los rábanos y el chile entero y cuece 8 minutos. Después las judías verdes, 4 minutos más.",
     "Apaga, añade las espinacas y deja que se ablanden en el caldo caliente 1 minuto. Rectifica de sal y sirve en cuencos grandes con el arroz aparte."
   ],
   nutricion: { kcal: 575, prot: 31, hc: 52, grasa: 27 },
@@ -560,8 +558,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las judías mungo y cuécelas en 900 ml de agua a fuego suave 35-40 minutos, hasta que estén muy tiernas y algunas se abran. No escurras.",
-    "Mientras, cuece el arroz lavado en 90 ml de agua, tapado, 12 minutos a fuego mínimo.",
-    "En una cazuela, sofríe con el aceite el ajo picado 1 minuto a fuego medio, hasta que esté dorado. Añade la cebolla picada y rehoga 5 minutos, y luego el tomate picado, 4 minutos más.",
+    "Mientras, cuece el arroz lavado en 90 ml de agua, tapado, 12 minutos a fuego mínimo, y pica el ajo, la cebolla y el tomate.",
+    "En una cazuela, sofríe con el aceite el ajo 1 minuto a fuego medio, hasta que esté dorado. Añade la cebolla y rehoga 5 minutos, y luego el tomate, 4 minutos más.",
     "Agrega las gambas y saltea 1 minuto, hasta que se pongan rosadas. Riega con la salsa de pescado.",
     "Vierte las judías mungo con su caldo, mezcla y cuece 10 minutos a fuego suave, aplastando unas cuantas para espesar. Debe quedar un guiso caldoso y cremoso.",
     "Añade las espinacas, deja que se ablanden 1-2 minutos, salpimienta y sirve en cuencos con el arroz."
@@ -603,9 +601,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los fideos en agua hirviendo 1 minuto menos de lo que indique el paquete, escúrrelos, pásalos por agua fría y reserva.",
+    "Pon a hervir agua para los fideos. Mientras se calienta, corta el pollo en tiras finas, la col china en tiras, la zanahoria en bastones finos y las judías verdes en tiras al bies, y pica el ajo y la cebolla. Cuece los fideos 1 minuto menos de lo que indique el paquete, escúrrelos, pásalos por agua fría y reserva.",
     "Calienta el wok a fuego fuerte con 1 cucharada de aceite y saltea el pollo 3 minutos, hasta que esté dorado. Añade las gambas y saltea 1 minuto más. Sácalo todo a un plato.",
-    "Con el resto del aceite, saltea el ajo y la cebolla picados 1 minuto, luego la zanahoria y las judías verdes 3 minutos y la col china 1 minuto: deben quedar crujientes.",
+    "Con el resto del aceite, saltea el ajo y la cebolla 1 minuto, luego la zanahoria y las judías verdes 3 minutos y la col china 1 minuto: deben quedar crujientes.",
     "Vierte el caldo, la soja y la salsa de ostras y lleva a ebullición.",
     "Añade los fideos y remueve con dos pinzas 2-3 minutos, hasta que absorban casi todo el caldo. Devuelve el pollo y las gambas, mezcla y añade pimienta.",
     "Sirve enseguida con gajos de limón para exprimir por encima."
@@ -686,12 +684,12 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 80, u: "g", opcional: true, nota: "para acompañar" }
   ],
   pasos: [
-    "Si vas a acompañar con arroz, cuécelo lavado en 120 ml de agua, tapado, 12 minutos a fuego mínimo.",
-    "En una cazuela de barro o cazo pequeño, calienta el aceite de sésamo a fuego medio-bajo y rehoga la cebolla picada y el ajo 2 minutos. Añade el pimentón y el gochujang y remueve 30 segundos, sin que se queme: el aceite se volverá rojo.",
-    "Vierte el caldo y la soja, lleva a ebullición y añade el calabacín en medias lunas. Cuece 3 minutos.",
+    "Si vas a acompañar con arroz, cuécelo lavado en 120 ml de agua, tapado, 12 minutos a fuego mínimo. Mientras, pica la cebolla, el ajo y la cebolleta y corta el calabacín en medias lunas.",
+    "En una cazuela de barro o cazo pequeño, calienta el aceite de sésamo a fuego medio-bajo y rehoga la cebolla y el ajo 2 minutos. Añade el pimentón y el gochujang y remueve 30 segundos, sin que se queme: el aceite se volverá rojo.",
+    "Vierte el caldo y la soja, lleva a ebullición y añade el calabacín. Cuece 3 minutos.",
     "Echa las almejas y las gambas. Con una cuchara grande, saca el tofu sedoso en trozos grandes y deslízalo en el caldo. Cuece 3-4 minutos a fuego medio, hasta que las almejas se abran (desecha las que sigan cerradas).",
     "Casca los huevos encima, sin remover, y deja que hierva suave 1 minuto más: deben quedar con la yema líquida.",
-    "Esparce la cebolleta picada y lleva a la mesa hirviendo, con el arroz aparte si lo usas."
+    "Esparce la cebolleta y lleva a la mesa hirviendo, con el arroz aparte si lo usas."
   ],
   nutricion: { kcal: 390, prot: 36, hc: 13, grasa: 21 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "rápida", "picante", "ligera", "invierno"],
@@ -731,7 +729,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz el hogao: sofríe la cebolleta y el ajo picados con el aceite a fuego medio 6 minutos, añade el tomate rallado y el comino, sala y cocina 8 minutos hasta que espese.",
+    "Pica la cebolleta y el ajo y ralla el tomate. Haz el hogao: sofríe la cebolleta y el ajo con el aceite a fuego medio 6 minutos, añade el tomate y el comino, sala y cocina 8 minutos hasta que espese.",
     "Pon la mitad del hogao en un cazo con las alubias y su caldo y guisa 15 minutos a fuego suave, aplastando unas cuantas para espesar.",
     "Corta la panceta en dados grandes, ponla en la sartén fría y cocínala a fuego medio-bajo 15-20 minutos, girándola, hasta que suelte la grasa y esté dorada y crujiente. Sácala y deja la grasa en la sartén.",
     "Mientras, cuece el arroz lavado en 200 ml de agua con sal, tapado, 12 minutos a fuego mínimo.",
@@ -775,9 +773,9 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta", nota: "suave" }
   ],
   pasos: [
-    "Prepara la salsa en el fondo de dos cuencos: reparte el tahini, 2 cucharadas de soja, el vinagre, el aceite de chile, el azúcar, el ajo rallado y la pimienta de Sichuan. Mezcla con una cucharada de agua caliente hasta tener una salsa ligada.",
+    "Pon a hervir abundante agua sin sal. Mientras, prepara la salsa en el fondo de dos cuencos: reparte el tahini, 2 cucharadas de soja, el vinagre, el aceite de chile, el azúcar, el ajo rallado y la pimienta de Sichuan. Mezcla con una cucharada de agua caliente hasta tener una salsa ligada. Parte el pak choi en cuartos y corta la cebolleta en aros.",
     "Calienta el wok a fuego fuerte con el aceite y saltea el cerdo picado 5-6 minutos, desmenuzándolo, hasta que esté muy dorado y crujiente. Riega con la cucharada de soja restante, remueve 30 segundos y apaga.",
-    "Pon a hervir abundante agua sin sal. Escalda el pak choi partido en cuartos 1 minuto y sácalo.",
+    "Escalda el pak choi en el agua hirviendo 1 minuto y sácalo.",
     "En la misma agua, cuece los fideos el tiempo del paquete, hasta que estén al dente. Escúrrelos reservando un poco del agua.",
     "Reparte los fideos sobre la salsa de cada cuenco con 2 cucharadas de agua de cocción, y pon encima el cerdo, el pak choi, los cacahuetes y la cebolleta en aros.",
     "Lleva a la mesa sin mezclar y remueve bien desde el fondo justo antes de comer, para que la salsa envuelva los fideos."
@@ -820,7 +818,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz lavado en 135 ml de agua, tapado, 12 minutos a fuego mínimo, y deja reposar.",
-    "Marina el pollo con 1 cucharada de soja y 1 cucharada de maicena 10 minutos. Aparte, mezcla la salsa: 2 cucharadas de soja, el vinagre, el azúcar, la media cucharada de maicena restante y 3 cucharadas de agua.",
+    "Corta el pollo en dados de 1,5 cm y marínalo con 1 cucharada de soja y 1 cucharada de maicena 10 minutos; mientras, pica el ajo y el jengibre, corta la cebolleta en trozos de 2 cm y el pimiento en dados. Aparte, mezcla la salsa: 2 cucharadas de soja, el vinagre, el azúcar, la media cucharada de maicena restante y 3 cucharadas de agua.",
     "Si los cacahuetes son crudos, tuéstalos en el wok seco a fuego medio 4-5 minutos, removiendo, hasta que estén dorados. Resérvalos.",
     "Calienta el aceite en el wok a fuego medio y fríe las guindillas y la pimienta de Sichuan 20 segundos, hasta que las guindillas se oscurezcan sin quemarse.",
     "Sube el fuego al máximo, añade el pollo y saltea 3-4 minutos, hasta que esté dorado. Agrega el ajo, el jengibre, la cebolleta y el pimiento y saltea 1 minuto.",
@@ -866,8 +864,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla la leche con el zumo de medio limón y 1 cucharadita de sal y deja 5 minutos hasta que se corte: es tu suero casero. Sumerge el pollo y déjalo al menos 30 minutos en la nevera (mejor toda la noche).",
-    "Para el coleslaw, corta la col en tiras muy finas y ralla la zanahoria. Alíñalas con la mayonesa, el vinagre, el azúcar, sal y pimienta, y guárdalo en la nevera para que se asiente.",
-    "Precalienta el horno a 210 °C con aire. En un plato hondo mezcla la harina, el panko, el pimentón, el ajo en polvo, la cayena, 1 cucharadita de sal y pimienta.",
+    "Mientras el pollo marina, prepara el coleslaw: corta la col en tiras muy finas y ralla la zanahoria. Alíñalas con la mayonesa, el vinagre, el azúcar, sal y pimienta, y guárdalo en la nevera para que se asiente.",
+    "Unos 15 minutos antes de sacar el pollo, precalienta el horno a 210 °C con aire. En un plato hondo mezcla la harina, el panko, el pimentón, el ajo en polvo, la cayena, 1 cucharadita de sal y pimienta.",
     "Saca el pollo de la leche, escurre lo justo y rebózalo en la mezcla apretando para que se adhiera bien. Déjalo 5 minutos en una rejilla para que el rebozado se fije.",
     "Coloca las piezas con la piel hacia arriba en una bandeja con papel o sobre la rejilla del horno, y riégalas con la mantequilla derretida.",
     "Hornea 40-45 minutos, hasta que estén muy doradas y crujientes y, al pinchar junto al hueso, el jugo salga transparente.",
@@ -909,12 +907,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 150 °C. En una cazuela que pueda ir al horno, dora el bacon a fuego medio 5 minutos, hasta que suelte la grasa. Añade la cebolla picada y rehoga 6 minutos, hasta que esté blanda.",
+    "Precalienta el horno a 150 °C. En una cazuela que pueda ir al horno, dora el bacon a fuego medio 5 minutos, hasta que suelte la grasa; mientras, pica la cebolla. Añade la cebolla y rehoga 6 minutos, hasta que esté blanda.",
     "Mezcla en un bol la melaza, el azúcar moreno, la mostaza, el kétchup, la salsa worcestershire, el vinagre, pimienta y 350 ml de agua caliente.",
     "Añade las alubias y el laurel a la cazuela, vierte la mezcla y remueve con cuidado. El líquido debe cubrir justo las alubias.",
     "Tapa y hornea 2 horas, removiendo suavemente cada 40 minutos y añadiendo un chorrito de agua si se secan.",
-    "Destapa y hornea 30 minutos más, hasta que la salsa esté espesa, oscura y brillante y la superficie un poco caramelizada. Prueba de sal.",
-    "Tuesta el pan y sirve las alubias bien calientes encima o al lado."
+    "Destapa y hornea 30 minutos más, hasta que la salsa esté espesa, oscura y brillante y la superficie un poco caramelizada; mientras, tuesta el pan. Prueba de sal.",
+    "Sirve las alubias bien calientes encima o al lado."
   ],
   nutricion: { kcal: 700, prot: 28, hc: 98, grasa: 22 },
   etiquetas: ["tradicional", "al horno", "de cuchara", "saciante", "económica", "batch cooking", "invierno", "sin verduras", "poco especiada"],
@@ -956,11 +954,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca la carne de la nevera 30 minutos antes, sécala y salpimiéntala con generosidad. Precalienta el horno a 160 °C.",
+    "Saca la carne de la nevera 30 minutos antes, sécala y salpimiéntala con generosidad. Precalienta el horno a 160 °C. Mientras, corta la cebolla en cuartos y el apio en trozos y pela el ajo.",
     "Calienta el aceite en una cazuela que pueda ir al horno a fuego fuerte y dora la pieza 3-4 minutos por cada lado, hasta que tenga una costra oscura. Sácala.",
-    "Baja a fuego medio y dora la cebolla y el apio en trozos 5 minutos. Añade el ajo, el tomate concentrado y la harina y remueve 1 minuto.",
+    "Baja a fuego medio y dora la cebolla y el apio 5 minutos. Añade el ajo, el tomate concentrado y la harina y remueve 1 minuto.",
     "Vierte el vino rascando el fondo con una cuchara de madera y deja que hierva 2 minutos. Añade el caldo, la salsa worcestershire, el tomillo, el romero y el laurel.",
-    "Devuelve la carne, tapa y hornea 2 horas, dándole la vuelta a la mitad.",
+    "Devuelve la carne, tapa y hornea 2 horas, dándole la vuelta a la mitad. Mientras, pela las zanahorias y córtalas en trozos grandes y lava las patatas (pártelas por la mitad si son grandes).",
     "Añade las patatas y las zanahorias alrededor, hundiéndolas en el líquido, tapa y hornea 1 hora más, hasta que la carne se deshaga con un tenedor y las verduras estén tiernas.",
     "Saca la carne y déjala reposar 10 minutos. Si la salsa está muy líquida, redúcela a fuego fuerte 5 minutos. Corta o desmenuza la carne y sírvela con las verduras y la salsa por encima."
   ],
@@ -1004,9 +1002,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon agua a hervir con sal y cuece las mazorcas 10-12 minutos, hasta que los granos estén tiernos.",
+    "Pon agua a hervir con sal y, mientras se calienta, pica muy finos la cebolla, el pimiento y el ajo. Cuece las mazorcas 10-12 minutos, hasta que los granos estén tiernos.",
     "Mientras, dora la carne en la sartén con el aceite a fuego fuerte 5 minutos, desmenuzándola, hasta que pierda el color rosado y empiece a tostarse.",
-    "Añade la cebolla, el pimiento y el ajo muy picados y cocina 5 minutos a fuego medio, hasta que se ablanden.",
+    "Añade la cebolla, el pimiento y el ajo y cocina 5 minutos a fuego medio, hasta que se ablanden.",
     "Incorpora el kétchup, el tomate, la mostaza, la salsa worcestershire, el azúcar, sal, pimienta y 50 ml de agua. Cuece 8-10 minutos a fuego suave, removiendo, hasta que la salsa espese y envuelva la carne como un ragú denso.",
     "Abre los panes y tuéstalos por el lado del corte en una sartén 1 minuto. Pon una loncha de cheddar en la base y amontona encima la carne bien caliente para que el queso se funda.",
     "Tapa con la otra mitad del pan y sirve con las mazorcas untadas en mantequilla y sal y los pepinillos al lado."
@@ -1049,12 +1047,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las almejas en una cazuela con 300 ml de agua, tapa y cuece a fuego fuerte 3-4 minutos, moviendo la cazuela, hasta que se abran. Sácalas, desecha las cerradas y cuela el caldo por un paño o papel de cocina para quitar la arena. Separa la carne de las conchas.",
-    "En la cazuela limpia, dora el bacon a fuego medio 4 minutos. Añade la mantequilla, la cebolla y el apio picados y rehoga 6-7 minutos, hasta que estén blandos.",
+    "Pica la cebolla y el apio y corta la patata en dados de 1,5 cm. Pon las almejas en una cazuela con 300 ml de agua, tapa y cuece a fuego fuerte 3-4 minutos, moviendo la cazuela, hasta que se abran. Sácalas, desecha las cerradas y cuela el caldo por un paño o papel de cocina para quitar la arena. Separa la carne de las conchas.",
+    "En la cazuela limpia, dora el bacon a fuego medio 4 minutos. Añade la mantequilla, la cebolla y el apio y rehoga 6-7 minutos, hasta que estén blandos.",
     "Espolvorea la harina y remueve 1 minuto. Vierte poco a poco el caldo de las almejas, removiendo para que no haga grumos.",
-    "Añade la patata, el tomillo y el laurel y cuece a fuego suave 12-15 minutos, hasta que la patata esté tierna.",
+    "Añade la patata, el tomillo y el laurel y cuece a fuego suave 12-15 minutos, hasta que la patata esté tierna. Mientras, pica el perejil y tuesta el pan.",
     "Incorpora la leche y la nata y calienta 5 minutos sin que llegue a hervir fuerte, hasta que espese ligeramente. Aplasta unos dados de patata contra la pared para darle cuerpo.",
-    "Añade la carne de las almejas, calienta 1 minuto, prueba de sal (las almejas ya salan) y pimienta. Sirve con perejil picado y el pan tostado."
+    "Añade la carne de las almejas, calienta 1 minuto, prueba de sal (las almejas ya salan) y pimienta. Sirve con el perejil y el pan tostado."
   ],
   nutricion: { kcal: 690, prot: 28, hc: 66, grasa: 35 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "para invitados", "poco especiada"],
@@ -1095,10 +1093,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lleva a ebullición la leche con el caldo y una pizca de sal. Echa la polenta en forma de lluvia, batiendo con varillas para que no haga grumos.",
-    "Baja a fuego mínimo y cuece 20-25 minutos (o el tiempo del paquete), removiendo a menudo, hasta que esté cremosa y suave. Si espesa demasiado, añade un chorrito de agua caliente.",
-    "Mientras, dora el bacon en la sartén a fuego medio 4-5 minutos, hasta que esté crujiente. Sácalo y deja la grasa.",
+    "Baja a fuego mínimo y cuece 20-25 minutos (o el tiempo del paquete), removiendo a menudo, hasta que esté cremosa y suave. Si espesa demasiado, añade un chorrito de agua caliente. Mientras, lamina el ajo y pica la cebolleta, separando la parte blanca de la verde.",
+    "Luego, aún con la polenta al fuego, dora el bacon en la sartén a fuego medio 4-5 minutos, hasta que esté crujiente. Sácalo y deja la grasa.",
     "Seca las gambas, sazónalas con el pimentón, sal y pimienta. Saltéalas en la grasa del bacon a fuego fuerte 1 minuto por lado, hasta que estén rosadas.",
-    "Añade el ajo laminado, la parte blanca de la cebolleta, la salsa worcestershire, la salsa picante, el zumo de medio limón y 2 cucharadas de agua. Remueve 30 segundos para hacer una salsita y apaga.",
+    "Añade el ajo, la parte blanca de la cebolleta, la salsa worcestershire, la salsa picante, el zumo de medio limón y 2 cucharadas de agua. Remueve 30 segundos para hacer una salsita y apaga.",
     "Termina la polenta fuera del fuego con la mantequilla y el cheddar, removiendo hasta que se fundan. Prueba de sal.",
     "Sirve la polenta en platos hondos con las gambas y su salsa encima, el bacon desmenuzado y el verde de la cebolleta. Acompaña con gajos de limón."
   ],

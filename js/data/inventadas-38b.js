@@ -27,10 +27,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon las patatas en una fuente apta con 2 cucharadas de agua y sal, tapa y cocina a 800 W 6-7 minutos, hasta que estén tiernas. Resérvalas tapadas.",
-    "Lava y seca los pimientos, pínchalos con la punta de un cuchillo, ponlos en un plato con 1 cucharadita del aceite y sal, tapa y cocina a 800 W 2-3 minutos, hasta que se arruguen.",
-    "En una fuente de vidrio o cazuelita de barro apta pon el resto del aceite con los ajos laminados y la guindilla en aros. Cocina a 800 W 1,5-2 minutos, hasta que los ajos empiecen a dorarse. Sácalos con una cuchara y deja templar el aceite 5 minutos.",
-    "Seca muy bien el bacalao, colócalo en el aceite con la piel hacia arriba y cocina a 500 W 3-4 minutos, hasta que las lascas empiecen a separarse y suelte un jugo blanquecino: es la gelatina que ligará la salsa.",
+    "Pon las patatas en una fuente apta con 2 cucharadas de agua y sal, tapa y cocina a 800 W 6-7 minutos, hasta que estén tiernas. Resérvalas tapadas. Mientras, lava y seca los pimientos, lamina los ajos y corta la guindilla en aros.",
+    "Pincha los pimientos con la punta de un cuchillo, ponlos en un plato con 1 cucharadita del aceite y sal, tapa y cocina a 800 W 2-3 minutos, hasta que se arruguen.",
+    "En una fuente de vidrio o cazuelita de barro apta pon el resto del aceite con los ajos y la guindilla. Cocina a 800 W 1,5-2 minutos, hasta que los ajos empiecen a dorarse. Sácalos con una cuchara y deja templar el aceite 5 minutos; mientras, seca muy bien el bacalao.",
+    "Coloca el bacalao en el aceite con la piel hacia arriba y cocina a 500 W 3-4 minutos, hasta que las lascas empiecen a separarse y suelte un jugo blanquecino: es la gelatina que ligará la salsa.",
     "Saca el bacalao a un plato. Bate el aceite con la gelatina con unas varillas pequeñas o un colador en movimientos circulares 2-3 minutos, hasta que espese y blanquee como una mayonesa ligera.",
     "Devuelve el bacalao a la salsa, calienta 30 segundos a 500 W si se ha enfriado y sirve sobre las patatas con los ajos, la guindilla y los pimientos."
   ],
@@ -71,7 +71,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela el boniato, córtalo en rodajas de 1,5 cm y ponlo en una fuente apta con 2 cucharadas de agua y sal. Tapa y cocina a 800 W 6-7 minutos, hasta que esté tierno pero entero.",
-    "Tritura el cilantro, el perejil, el ajo, el pimiento verde, el comino, el vinagre, el aceite (reserva 1 cucharadita), 2 cucharadas de agua y sal hasta tener un mojo espeso.",
+    "Mientras, tritura el cilantro, el perejil, el ajo, el pimiento verde, el comino, el vinagre, el aceite (reserva 1 cucharadita), 2 cucharadas de agua y sal hasta tener un mojo espeso.",
     "Corta el pulpo en rodajas de 1 cm y ponlo en un plato apto con su gelatina, si la trae. Tapa.",
     "Témplalo a 500 W 1,5-2 minutos: solo tiene que estar tibio, si se calienta de más se endurece.",
     "Coloca el boniato en los platos, el pulpo encima, espolvorea el pimentón, riega con la cucharadita de aceite reservada y sirve con el mojo verde."
@@ -115,9 +115,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Calienta agua en una jarra apta a 800 W 3-4 minutos, hasta que hierva. Pon los fideos en un bol grande, cúbrelos con ella y déjalos 4-5 minutos, hasta que estén tiernos. Escúrrelos y pásalos por agua fría.",
-    "Prepara el nuoc cham mezclando el zumo de 1,5 limas, la salsa de pescado, el azúcar, el ajo rallado, la mitad del chile en aros finos y 3 cucharadas de agua, hasta que se disuelva el azúcar.",
+    "Mientras se hidratan los fideos, ralla el ajo, corta el chile en aros finos y prepara el nuoc cham mezclando el zumo de 1,5 limas, la salsa de pescado, el azúcar, el ajo, la mitad del chile y 3 cucharadas de agua, hasta que se disuelva el azúcar.",
     "Pon los langostinos en un plato apto en una sola capa, con la parte gruesa hacia fuera, una pizca de sal, 1 cucharada de agua y unas rodajas de la lima restante. Tapa y cocina a 600 W 2-3 minutos, hasta que estén rosados y opacos. Reposa 1 minuto.",
-    "Corta el pepino y la zanahoria en bastones finos, pica gruesas la menta y el cilantro y trocea los cacahuetes.",
+    "Mientras se hacen los langostinos, corta el pepino y la zanahoria en bastones finos, pica gruesas la menta y el cilantro y trocea los cacahuetes.",
     "Monta los boles con los fideos, las verduras, los langostinos y las hierbas, riega con el nuoc cham y termina con los cacahuetes y el resto del chile."
   ],
   nutricion: { kcal: 410, prot: 33, hc: 53, grasa: 7.5 },
@@ -163,8 +163,8 @@ window.RECETAS_SEED.push({
     "Pon la merluza en una fuente apta, tapa y cocina a 600 W 3 minutos, hasta que se separe en lascas. Escurre el líquido, quita piel y espinas y desmígala. Trocea las gambas en 2-3 trozos.",
     "Bate los huevos con la leche, el tomate triturado, el tomate concentrado, la nuez moscada, sal y pimienta. Añade la merluza y las gambas y mezcla.",
     "Vierte en un molde de vidrio o silicona apto de unos 15 x 10 cm, untado con unas gotas del aceite. Tapa con film perforado y cocina a 600 W 7-9 minutos, hasta que los bordes estén firmes y el centro apenas tiemble.",
-    "Deja reposar 5 minutos fuera del microondas para que termine de cuajar. Puedes servirlo templado o enfriarlo 1 hora en la nevera.",
-    "Mezcla el yogur con el cebollino picado, la mostaza, unas gotas de limón y sal.",
+    "Mientras se cuaja, pica el cebollino y mézclalo con el yogur, la mostaza, unas gotas de limón y sal.",
+    "Deja reposar el pastel 5 minutos fuera del microondas para que termine de cuajar. Puedes servirlo templado o enfriarlo 1 hora en la nevera.",
     "Sirve el pastel en porciones con la salsa y los canónigos aliñados con el resto del aceite y sal."
   ],
   nutricion: { kcal: 370, prot: 42, hc: 11, grasa: 17 },
@@ -205,9 +205,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 220 ml de agua y sal. Tapa entreabierto y cocina a 800 W 7 minutos y a 400 W 4 minutos. Reposa tapado.",
-    "Corta el solomillo en medallones de 2 cm, aplástalos un poco con la palma de la mano y salpimiéntalos.",
-    "Mezcla el zumo de la naranja, la ralladura de media, el jengibre y el ajo rallados, el tamari, la miel y la maicena.",
-    "Coloca los medallones en círculo en una fuente apta con el aceite, rodeados del brócoli en ramilletes, y vierte la salsa por encima. Tapa y cocina a 600 W 4 minutos.",
+    "Mientras, corta el solomillo en medallones de 2 cm, aplástalos un poco con la palma de la mano y salpimiéntalos. Corta el brócoli en ramilletes.",
+    "Ralla el jengibre y el ajo y mézclalos con el zumo de la naranja, la ralladura de media, el tamari, la miel y la maicena.",
+    "Coloca los medallones en círculo en una fuente apta con el aceite, rodeados del brócoli, y vierte la salsa por encima. Tapa y cocina a 600 W 4 minutos.",
     "Da la vuelta a los medallones, rocíalos con la salsa, tapa y cocina 2-3 minutos más a 600 W, hasta que estén apenas rosados en el centro y la salsa haya espesado y brille.",
     "Deja reposar 3 minutos tapado y sirve con el arroz, napando con la salsa."
   ],
@@ -254,10 +254,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande y alto con 350 ml de agua y sal. Cocina sin tapar a 800 W 10 minutos y después con la tapa entreabierta a 500 W 12 minutos más. Reposa tapado 5 minutos.",
-    "Mientras reposa, pon en una fuente honda apta la cebolla, el pimiento y el ajo picados con el aceite. Tapa y cocina a 800 W 4 minutos.",
+    "Mientras se cuece el arroz, pica la cebolla, el pimiento y el ajo; pica también el cilantro y corta la lima en gajos.",
+    "Mientras reposa el arroz, pon en una fuente honda apta la cebolla, el pimiento y el ajo con el aceite. Tapa y cocina a 800 W 4 minutos.",
     "Añade el pavo, el comino, el pimentón, el orégano, el cacao y la cayena, mezcla deshaciendo la carne y cocina sin tapar a 800 W 3 minutos, removiendo a mitad, hasta que pierda el color rosado.",
     "Incorpora el tomate, las alubias, sal y 50 ml de agua. Tapa con la tapa entreabierta y cocina a 800 W 8 minutos, removiendo a mitad, hasta que la salsa espese.",
-    "Deja reposar 3 minutos y sirve con el arroz, una cucharada de yogur, cilantro picado y gajos de lima."
+    "Deja reposar 3 minutos y sirve con el arroz, una cucharada de yogur, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 695, prot: 43, hc: 82, grasa: 21.5 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ideal para llevar", "alta en proteína", "fácil", "superalimentos", "bajo en colesterol"],
@@ -298,10 +299,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 300 ml de agua, la mitad del comino y sal. Tapa entreabierto y cocina a 800 W 9 minutos y a 400 W 5 minutos. Reposa tapado 5 minutos.",
-    "Corta la cebolla morada en pluma fina y mézclala con el zumo de media lima y una pizca de sal: en 15 minutos estará encurtida y rosa.",
-    "Unta las pechugas con el resto del comino, el pimentón, el aceite y sal. Ponlas en una fuente apta con la parte gruesa hacia el borde, tapa y cocina a 600 W 4 minutos; dales la vuelta y cocina 3-4 minutos más, hasta que el centro esté blanco. Reposa 3 minutos tapadas.",
-    "Calienta las alubias en un bol tapado con 2 cucharadas de agua y sal a 800 W 2 minutos.",
-    "Tritura el aguacate con el cilantro, el ajo, el chile, el zumo de una lima, 3-4 cucharadas de agua y sal hasta tener una salsa verde fluida.",
+    "Mientras se cuece, corta la cebolla morada en pluma fina y mézclala con el zumo de media lima y una pizca de sal: en 15 minutos estará encurtida y rosa. Unta las pechugas con el resto del comino, el pimentón, el aceite y sal.",
+    "Pon las pechugas en una fuente apta con la parte gruesa hacia el borde, tapa y cocina a 600 W 4 minutos; dales la vuelta y cocina 3-4 minutos más, hasta que el centro esté blanco. Reposa 3 minutos tapadas.",
+    "Mientras se hace el pollo, tritura el aguacate con el cilantro, el ajo, el chile, el zumo de una lima, 3-4 cucharadas de agua y sal hasta tener una salsa verde fluida.",
+    "Mientras reposa el pollo, calienta las alubias en un bol tapado con 2 cucharadas de agua y sal a 800 W 2 minutos.",
     "Corta el pollo en tiras y sírvelo con el arroz, las alubias, la cebolla encurtida, la salsa verde y gajos de la lima restante."
   ],
   nutricion: { kcal: 715, prot: 49, hc: 80, grasa: 22 },
@@ -347,8 +348,8 @@ window.RECETAS_SEED.push({
     "Lava las patatas, pínchalas 8 veces con un tenedor y ponlas en un plato apto sobre papel de cocina. Cocina a 800 W 10-12 minutos, dándoles la vuelta a mitad, hasta que un cuchillo entre sin resistencia. Reposa 3 minutos envueltas en un paño.",
     "Mientras, mezcla en una fuente apta el tomate concentrado, el vinagre, la miel, el pimentón, el ajo en polvo, la mostaza y 60 ml de agua.",
     "Añade la pechuga entera y dale vueltas para cubrirla de salsa. Tapa y cocina a 600 W 4 minutos, dale la vuelta y cocina 3-4 minutos más, hasta que el centro esté blanco.",
+    "Mientras se hace el pollo, corta la col en juliana fina, ralla la zanahoria, pica el cebollino y alíñalas con el yogur, el aceite, el cebollino, sal y pimienta.",
     "Desmenuza el pollo con dos tenedores en la propia fuente y mézclalo con la salsa. Si queda muy líquida, cocina sin tapar 1 minuto más a 800 W.",
-    "Corta la col en juliana fina, ralla la zanahoria y alíñalas con el yogur, el aceite, el cebollino picado, sal y pimienta.",
     "Abre las patatas, esponja la pulpa con un tenedor, rellénalas con el pollo a la barbacoa y sirve con la ensalada de col."
   ],
   nutricion: { kcal: 535, prot: 39, hc: 71, grasa: 10.5 },
@@ -394,11 +395,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Calienta el caldo en un bol apto a 800 W 1,5 minutos, hasta que hierva. Añade el cuscús, tapa con un plato, deja 5 minutos y desgrana con un tenedor.",
-    "Corta la berenjena en dados de 1,5 cm y mézclala en una fuente honda apta con la cebolla y el apio picados, 1 cucharada de aceite y sal. Tapa y cocina a 800 W 6 minutos, removiendo a mitad, hasta que la berenjena esté tierna y translúcida.",
-    "Añade el tomate, las aceitunas en rodajas, las alcaparras, las pasas y el vinagre y cocina sin tapar a 800 W 4 minutos, hasta que la salsa espese y quede agridulce.",
-    "Salpimienta las pechugas, úntalas con el resto del aceite y el orégano y colócalas encima de la caponata. Tapa y cocina a 600 W 6-7 minutos, dándoles la vuelta a mitad, hasta que el centro esté blanco y el jugo salga transparente.",
+    "Mientras reposa el cuscús, corta la berenjena en dados de 1,5 cm, pica la cebolla y el apio y corta las aceitunas en rodajas.",
+    "Mezcla la berenjena en una fuente honda apta con la cebolla, el apio, 1 cucharada de aceite y sal. Tapa y cocina a 800 W 6 minutos, removiendo a mitad, hasta que la berenjena esté tierna y translúcida.",
+    "Añade el tomate, las aceitunas, las alcaparras, las pasas y el vinagre y cocina sin tapar a 800 W 4 minutos, hasta que la salsa espese y quede agridulce.",
+    "Salpimienta las pechugas, úntalas con el resto del aceite y el orégano y colócalas encima de la caponata. Tapa y cocina a 600 W 6-7 minutos, dándoles la vuelta a mitad, hasta que el centro esté blanco y el jugo salga transparente. Mientras, pica la albahaca.",
     "Deja reposar 3 minutos tapado. Mientras, tuesta los piñones en un plato a 800 W 1,5 minutos, removiendo cada 30 segundos.",
-    "Corta el pollo en tiras y sírvelo sobre el cuscús con la caponata, los piñones y albahaca picada."
+    "Corta el pollo en tiras y sírvelo sobre el cuscús con la caponata, los piñones y la albahaca."
   ],
   nutricion: { kcal: 570, prot: 44, hc: 63, grasa: 16 },
   etiquetas: ["saludable", "práctica", "microondas", "tupper", "ideal para llevar", "batch cooking", "alta en proteína", "fácil", "poco especiada", "bajo en colesterol"],
@@ -442,11 +444,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "En un bol grande y alto apto mezcla la polenta con la leche, 300 ml de agua y sal usando unas varillas. Cocina sin tapar a 800 W 4 minutos, bate, y sigue 3-4 minutos más batiendo cada 90 segundos, hasta que esté espesa y cremosa. Añade el parmesano, tapa y reserva.",
-    "Corta la berenjena, el calabacín, el pimiento y la cebolla en dados de 1,5 cm. Ponlos en una fuente apta con el ajo laminado, el aceite, el tomillo y sal, tapa y cocina a 800 W 6 minutos, removiendo a mitad.",
-    "Añade el tomate y cocina sin tapar a 800 W 4-5 minutos, hasta que las verduras estén tiernas y la salsa espese.",
+    "Entre batida y batida, corta la berenjena, el calabacín, el pimiento y la cebolla en dados de 1,5 cm y lamina el ajo.",
+    "Pon las verduras en una fuente apta con el ajo, el aceite, el tomillo y sal, tapa y cocina a 800 W 6 minutos, removiendo a mitad. Añade el tomate y cocina sin tapar a 800 W 4-5 minutos, hasta que las verduras estén tiernas y la salsa espese. Mientras, pica la albahaca.",
     "Para cada huevo, pon 120 ml de agua y unas gotas de vinagre en una taza, casca el huevo, pincha la yema con un palillo, tapa con un platito y cocina a 800 W 50-70 segundos, hasta que la clara cuaje. Sácalo con una espumadera.",
     "Si la polenta ha espesado demasiado, bátela con 2-3 cucharadas de agua caliente y caliéntala 30 segundos.",
-    "Sirve la polenta con el pisto encima, el huevo, albahaca picada y pimienta recién molida."
+    "Sirve la polenta con el pisto encima, el huevo, la albahaca y pimienta recién molida."
   ],
   nutricion: { kcal: 510, prot: 19, hc: 60, grasa: 21.5 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "poco especiada"],
@@ -486,11 +488,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Llena un bol con agua y el zumo de medio limón. Limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas y amarillentas, corta la punta y pela el tallo dejándolo de 2 cm. Pártelas por la mitad, retira la pelusilla con una cucharilla y échalas al agua para que no se oscurezcan.",
-    "Escúrrelas y colócalas boca abajo en una fuente apta con 4 cucharadas de agua y unas rodajas de limón. Tapa y cocina a 800 W 7-9 minutos, hasta que un cuchillo atraviese la base sin resistencia.",
+    "Escúrrelas y colócalas boca abajo en una fuente apta con 4 cucharadas de agua y unas rodajas de limón. Tapa y cocina a 800 W 7-9 minutos, hasta que un cuchillo atraviese la base sin resistencia. Mientras, ralla el ajo y la piel del limón restante, pica el perejil y parte los cherrys por la mitad.",
     "Tuesta los piñones en un plato a 800 W 1,5-2 minutos, removiendo cada 30 segundos, hasta que estén dorados.",
-    "Mezcla la ricotta con el huevo, la mitad del parmesano, el ajo rallado, el perejil picado, la ralladura del limón restante, la mitad de los piñones, sal y pimienta.",
+    "Mezcla la ricotta con el huevo, la mitad del parmesano, el ajo, el perejil, la ralladura de limón, la mitad de los piñones, sal y pimienta.",
     "Escurre el agua de la fuente, da la vuelta a las alcachofas y rellena el hueco con la mezcla formando una cúpula. Espolvorea el resto del parmesano.",
-    "Tapa y cocina a 600 W 3-4 minutos, hasta que el relleno esté cuajado. Reposa 2 minutos, riega con el aceite y el resto de los piñones y sirve con los cherrys partidos y aliñados con sal."
+    "Tapa y cocina a 600 W 3-4 minutos, hasta que el relleno esté cuajado. Reposa 2 minutos, riega con el aceite y el resto de los piñones y sirve con los cherrys aliñados con sal."
   ],
   nutricion: { kcal: 420, prot: 23, hc: 16, grasa: 29 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ligera", "alta en proteína", "keto", "poco especiada"],
@@ -529,12 +531,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la coliflor y el brócoli en ramilletes medianos. Pon la coliflor en una fuente apta con 3 cucharadas de agua y sal, tapa y cocina a 800 W 4 minutos; añade el brócoli y cocina 3 minutos más, hasta que todo esté tierno pero firme. Escurre bien.",
+    "Corta la coliflor y el brócoli en ramilletes medianos. Pon la coliflor en una fuente apta con 3 cucharadas de agua y sal, tapa y cocina a 800 W 4 minutos; añade el brócoli y cocina 3 minutos más, hasta que todo esté tierno pero firme. Escurre bien. Mientras se cuece, pica el cebollino.",
     "Añade las alubias a la fuente y mézclalas con la verdura.",
     "En una jarra o bol apto disuelve la maicena en la leche fría con la mostaza, la nuez moscada, sal y pimienta. Cocina a 800 W 3-4 minutos, batiendo con varillas cada minuto, hasta que espese como una bechamel ligera.",
     "Añade la mitad del cheddar a la salsa y bate hasta que se funda.",
     "Vierte la salsa sobre la verdura, espolvorea el resto del cheddar y el pimentón y cocina sin tapar a 800 W 1,5-2 minutos, hasta que el queso se funda.",
-    "Reposa 2 minutos y sirve con cebollino picado."
+    "Reposa 2 minutos y sirve con el cebollino."
   ],
   nutricion: { kcal: 380, prot: 26, hc: 38, grasa: 13.5 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ligera", "alta en proteína", "rápida", "para niños", "fácil", "superalimentos", "poco especiada"],
@@ -577,11 +579,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 300 ml de agua y sal. Tapa entreabierto y cocina a 800 W 9 minutos y a 400 W 5 minutos. Reposa tapado.",
-    "En una fuente honda apta pon la cebolla picada fina, el ajo y el jengibre rallados y el aceite. Tapa y cocina a 800 W 4 minutos, hasta que la cebolla esté blanda.",
+    "Mientras se cuece el arroz, pica fina la cebolla, ralla el ajo y el jengibre y pica el cilantro.",
+    "En una fuente honda apta pon la cebolla, el ajo, el jengibre y el aceite. Tapa y cocina a 800 W 4 minutos, hasta que la cebolla esté blanda.",
     "Añade las especias, remueve y cocina 30 segundos sin tapar. Incorpora el tomate y sal y cocina con la tapa entreabierta a 800 W 4 minutos, hasta que la salsa espese y oscurezca.",
     "Añade los guisantes congelados y el paneer, mezcla, tapa y cocina a 800 W 4 minutos, removiendo a mitad.",
     "Deja templar 1 minuto e incorpora el yogur poco a poco: si la salsa está hirviendo, el yogur se corta.",
-    "Reposa 2 minutos y sirve sobre el arroz con cilantro picado."
+    "Reposa 2 minutos y sirve sobre el arroz con el cilantro."
   ],
   nutricion: { kcal: 730, prot: 32, hc: 81, grasa: 30.5 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "alta en proteína", "fácil"],
@@ -623,11 +626,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una fuente honda apta la cebolla y el ajo picados con el aceite. Tapa y cocina a 800 W 3 minutos.",
+    "Pica la cebolla y el ajo y ponlos en una fuente honda apta con el aceite. Tapa y cocina a 800 W 3 minutos. Mientras, pela la patata y córtala en dados de 2 cm y corta la zanahoria en rodajas.",
     "Añade la heura, el pimentón y el vino, remueve y cocina sin tapar a 800 W 2 minutos para que se evapore el alcohol.",
-    "Incorpora la patata en dados de 2 cm, la zanahoria en rodajas, el tomate, el laurel, el caldo, sal y pimienta. Tapa con la tapa entreabierta y cocina a 800 W 10 minutos, removiendo a mitad.",
+    "Incorpora la patata, la zanahoria, el tomate, el laurel, el caldo, sal y pimienta. Tapa con la tapa entreabierta y cocina a 800 W 10 minutos, removiendo a mitad. Mientras, pica el perejil.",
     "Añade los guisantes congelados y cocina 3-4 minutos más, hasta que la patata esté tierna y el caldo haya espesado con su almidón.",
-    "Deja reposar 5 minutos tapado, retira el laurel y sirve con perejil picado."
+    "Deja reposar 5 minutos tapado, retira el laurel y sirve con el perejil."
   ],
   nutricion: { kcal: 520, prot: 34, hc: 52, grasa: 19 },
   etiquetas: ["saludable", "práctica", "microondas", "tupper", "batch cooking", "de cuchara", "alta en proteína", "fácil", "poco especiada", "bajo en colesterol"],
@@ -665,9 +668,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande con 290 ml de agua y sal. Tapa entreabierto y cocina a 800 W 9 minutos y a 400 W 5 minutos. Reposa tapado.",
-    "Corta el tempeh en dados de 1,5 cm y ponlo en un bol con el tamari y el zumo de media lima.",
+    "Mientras, corta el tempeh en dados de 1,5 cm y ponlo en un bol con el tamari y el zumo de media lima. Corta las judías verdes en tramos de 3 cm.",
     "En una fuente honda apta mezcla la pasta de curry con 3 cucharadas de la leche de coco y cocina sin tapar a 800 W 1 minuto, hasta que huela.",
-    "Añade el resto de la leche de coco, la calabaza y las judías verdes en tramos de 3 cm. Tapa y cocina a 800 W 7-8 minutos, removiendo a mitad, hasta que la calabaza esté tierna.",
+    "Añade el resto de la leche de coco, la calabaza y las judías verdes. Tapa y cocina a 800 W 7-8 minutos, removiendo a mitad, hasta que la calabaza esté tierna.",
     "Incorpora el tempeh con su marinada y cocina tapado 2 minutos más. Prueba de sal y de lima.",
     "Reposa 2 minutos y sirve sobre el arroz con hojas de albahaca y gajos de la lima restante."
   ],
@@ -709,12 +712,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una fuente honda apta pon la cebolla, el pimiento verde y el ajo picados con el aceite. Tapa y cocina a 800 W 4 minutos, removiendo a mitad.",
-    "Añade el pimentón, remueve e incorpora enseguida el tomate para que no amargue. Cocina sin tapar a 800 W 2 minutos.",
-    "Pela las patatas y cáscalas en trozos de 3 cm: clava el cuchillo y tira para romperlas, así sueltan más almidón. Añádelas con el laurel, el caldo y sal.",
-    "Tapa con la tapa entreabierta y cocina a 800 W 12 minutos, removiendo a mitad.",
-    "Incorpora las alcachofas partidas por la mitad y los guisantes y cocina 4-5 minutos más, hasta que la patata esté tierna y el caldo trabado.",
-    "Deja reposar 5 minutos tapado, retira el laurel y sirve con perejil picado."
+    "Pica la cebolla, el pimiento verde y el ajo. En una fuente honda apta ponlos con el aceite. Tapa y cocina a 800 W 4 minutos, removiendo a mitad.",
+    "Mientras, pela las patatas y cáscalas en trozos de 3 cm: clava el cuchillo y tira para romperlas, así sueltan más almidón.",
+    "Añade el pimentón al sofrito, remueve e incorpora enseguida el tomate para que no amargue. Cocina sin tapar a 800 W 2 minutos.",
+    "Añade las patatas con el laurel, el caldo y sal. Tapa con la tapa entreabierta y cocina a 800 W 12 minutos, removiendo a mitad. Mientras, parte las alcachofas por la mitad y pica el perejil.",
+    "Incorpora las alcachofas y los guisantes y cocina 4-5 minutos más, hasta que la patata esté tierna y el caldo trabado.",
+    "Deja reposar 5 minutos tapado, retira el laurel y sirve con el perejil."
   ],
   nutricion: { kcal: 450, prot: 12, hc: 64, grasa: 16 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "de cuchara", "ligera", "económica", "fácil", "detox", "poco especiada", "bajo en colesterol"],
@@ -752,11 +755,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una fuente honda apta la cebolla y el pimiento en dados pequeños, el ajo laminado y el aceite. Tapa y cocina a 800 W 5 minutos, removiendo a mitad, hasta que el pimiento esté tierno.",
+    "Corta la cebolla y el pimiento en dados pequeños y lamina el ajo. Ponlos en una fuente honda apta con el aceite. Tapa y cocina a 800 W 5 minutos, removiendo a mitad, hasta que el pimiento esté tierno.",
     "Añade el pimentón, remueve e incorpora enseguida el tomate y el laurel para que el pimentón no amargue. Cocina sin tapar a 800 W 3 minutos, hasta que la salsa espese.",
-    "Incorpora las alubias, 100 ml de agua y sal, y aplasta unas pocas con un tenedor para trabar el caldo. Tapa con la tapa entreabierta y cocina a 800 W 5 minutos, removiendo a mitad.",
+    "Incorpora las alubias, 100 ml de agua y sal, y aplasta unas pocas con un tenedor para trabar el caldo. Tapa con la tapa entreabierta y cocina a 800 W 5 minutos, removiendo a mitad. Mientras, pica el perejil.",
     "Añade el bonito en lascas grandes, mézclalo con cuidado y cocina tapado 1 minuto más a 600 W, solo para templarlo.",
-    "Deja reposar 3 minutos, retira el laurel y sirve con perejil picado."
+    "Deja reposar 3 minutos, retira el laurel y sirve con el perejil."
   ],
   nutricion: { kcal: 500, prot: 40, hc: 46, grasa: 17 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "de cuchara", "alta en proteína", "rápida", "fácil", "superalimentos", "poco especiada"],
@@ -797,10 +800,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una fuente honda apta la cebolla, la zanahoria, el apio y el ajo picados finos con el aceite. Tapa y cocina a 800 W 4 minutos.",
+    "Pica finos la cebolla, la zanahoria, el apio y el ajo y ponlos en una fuente honda apta con el aceite. Tapa y cocina a 800 W 4 minutos.",
     "Añade el pavo y el orégano, deshaz la carne con un tenedor y cocina sin tapar a 800 W 3 minutos, removiendo a mitad, hasta que pierda el color rosado.",
-    "Incorpora el tomate, las lentejas, sal y pimienta. Tapa con la tapa entreabierta y cocina a 800 W 8 minutos, removiendo a mitad, hasta que la salsa espese.",
-    "Corta el calabacín en espaguetis con un espiralizador o en tiras con un pelador de juliana. Ponlo en un plato con una pizca de sal, tapa y cocina a 800 W 1,5-2 minutos: solo tiene que templarse para que no suelte agua. Escurre.",
+    "Incorpora el tomate, las lentejas, sal y pimienta. Tapa con la tapa entreabierta y cocina a 800 W 8 minutos, removiendo a mitad, hasta que la salsa espese. Mientras, corta el calabacín en espaguetis con un espiralizador o en tiras con un pelador de juliana.",
+    "Pon el calabacín en un plato con una pizca de sal, tapa y cocina a 800 W 1,5-2 minutos: solo tiene que templarse para que no suelte agua. Escurre.",
     "Sirve el calabacín con la boloñesa por encima, el parmesano rallado y albahaca."
   ],
   nutricion: { kcal: 465, prot: 38, hc: 40, grasa: 16.5 },
@@ -840,9 +843,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon la pasta en un bol grande y alto apto, cúbrela con agua hasta 3 cm por encima (unos 700 ml) y añade sal. Cocina sin tapar a 800 W el tiempo del paquete más 3 minutos, removiendo cada 4 minutos.",
     "Los últimos 3 minutos, añade el brócoli al bol para que se cueza con la pasta.",
-    "Mientras, mezcla el requesón con la ralladura y el zumo de medio limón, el ajo rallado, el aceite y pimienta.",
+    "Mientras se cuece la pasta, ralla el ajo y mezcla el requesón con él, la ralladura y el zumo de medio limón, el aceite y pimienta. Corta el salmón en tiras, pica el eneldo y corta el resto del limón en gajos.",
     "Escurre la pasta y el brócoli reservando medio vaso del agua de cocción. Aligera la crema de requesón con 3-4 cucharadas de esa agua caliente.",
-    "Mezcla la pasta y el brócoli calientes con la crema, añade el salmón ahumado en tiras y el eneldo picado, y sirve con el resto del limón en gajos."
+    "Mezcla la pasta y el brócoli calientes con la crema, añade el salmón y el eneldo, y sirve con los gajos de limón."
   ],
   nutricion: { kcal: 535, prot: 33, hc: 61, grasa: 17.5 },
   etiquetas: ["saludable", "práctica", "microondas", "tupper", "ideal para llevar", "alta en proteína", "rápida", "fácil", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -881,9 +884,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
+    "Tuesta las almendras en un plato a 800 W 2 minutos, removiendo a mitad.",
     "Pon la pasta en un bol grande y alto apto, cúbrela con agua hasta 3 cm por encima y añade sal. Cocina sin tapar a 800 W el tiempo del paquete más 2 minutos, removiendo cada 3 minutos: la pasta sin gluten se pega más.",
-    "Mientras, tuesta las almendras en un plato a 800 W 2 minutos, removiendo a mitad.",
-    "Tritura los pimientos con el ajo, el pimentón, las almendras, el aceite, la mitad del parmesano, sal y 3 cucharadas del agua de cocción de la pasta hasta tener una salsa lisa.",
+    "Cuando la pasta esté casi hecha, tritura los pimientos con el ajo, el pimentón, las almendras, el aceite, la mitad del parmesano, sal y 3 cucharadas del agua de cocción de la pasta hasta tener una salsa lisa.",
     "Escurre la pasta, devuélvela al bol con las espinacas y la salsa, mezcla y calienta a 800 W 1,5 minutos, hasta que las espinacas se ablanden.",
     "Sirve con cucharadas de ricotta, el resto del parmesano, pimienta y albahaca."
   ],
@@ -925,10 +928,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y ponlo en un bol grande con 280 ml de agua. Tapa entreabierto y cocina a 800 W 8 minutos y a 400 W 5 minutos. Reposa tapado 5 minutos y aliña con 1 cucharada del vinagre.",
-    "Corta el pepino en rodajas muy finas y mézclalo con el resto del vinagre, el azúcar y una pizca de sal. Déjalo encurtir 10 minutos.",
-    "Mezcla el tamari, el mirin y el jengibre rallado.",
+    "Mientras se cuece el arroz, corta el pepino en rodajas muy finas y mézclalo con el resto del vinagre, el azúcar y una pizca de sal. Déjalo encurtir 10 minutos.",
+    "Ralla el jengibre y mézclalo con el tamari y el mirin. Corta la cebolleta en aros y el nori en tiras.",
     "Pon los lomos de caballa con la piel hacia arriba en un plato apto, píntalos con la mitad de la salsa, tapa y cocina a 600 W 2,5-3 minutos, hasta que la carne esté opaca y se separe en lascas. Reposa 1 minuto.",
-    "Sirve el arroz con la caballa encima, el pepino escurrido, el resto de la salsa, el sésamo, la cebolleta en aros y el nori en tiras."
+    "Sirve el arroz con la caballa encima, el pepino escurrido, el resto de la salsa, el sésamo, la cebolleta y el nori."
   ],
   nutricion: { kcal: 545, prot: 29, hc: 65, grasa: 19 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "alta en proteína", "fácil", "poco especiada", "bajo en colesterol"],
@@ -971,10 +974,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande y alto con 400 ml de agua y sal. Cocina sin tapar a 800 W 10 minutos y después con la tapa entreabierta a 500 W 12 minutos más. Reposa tapado 5 minutos.",
-    "Mientras reposa, pon en una fuente apta el pimiento en tiras, las alubias, el maíz, el comino, el pimentón, el aceite y sal. Tapa y cocina a 800 W 4 minutos, removiendo a mitad, hasta que el pimiento esté tierno.",
-    "Prepara el pico de gallo con el tomate y la cebolla morada en daditos, el chile picado, la mitad del cilantro, el zumo de media lima y sal.",
+    "Mientras se cuece el arroz, corta el pimiento en tiras, el tomate y la cebolla morada en daditos y pica el chile y el cilantro. Prepara el pico de gallo con el tomate, la cebolla, el chile, la mitad del cilantro, el zumo de media lima y sal.",
+    "Mientras reposa el arroz, pon en una fuente apta el pimiento, las alubias, el maíz, el comino, el pimentón, el aceite y sal. Tapa y cocina a 800 W 4 minutos, removiendo a mitad, hasta que el pimiento esté tierno.",
     "Machaca el aguacate con el zumo de la otra media lima y sal.",
-    "Monta los boles con el arroz mezclado con el resto del cilantro picado, las alubias con maíz y pimiento, el pico de gallo, el aguacate y el queso fresco desmigado."
+    "Monta los boles con el arroz mezclado con el resto del cilantro, las alubias con maíz y pimiento, el pico de gallo, el aguacate y el queso fresco desmigado."
   ],
   nutricion: { kcal: 765, prot: 29, hc: 97, grasa: 29 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "batch cooking", "alta en proteína", "fácil", "superalimentos"],
@@ -1013,12 +1016,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en un bol grande apto la cebolla picada, el jengibre rallado y el aceite. Tapa y cocina a 800 W 2 minutos.",
-    "Añade el curry, remueve y cocina 30 segundos sin tapar para que suelte el aroma.",
-    "Incorpora la chirivía pelada en rodajas finas, la manzana pelada en dados y el caldo, con sal. Tapa con la tapa entreabierta y cocina a 800 W 12-14 minutos, removiendo a mitad, hasta que la chirivía se aplaste con un tenedor.",
+    "Pica la cebolla, ralla el jengibre, pela la chirivía y córtala en rodajas finas, y pela la manzana y córtala en dados.",
+    "Pon en un bol grande apto la cebolla, el jengibre y el aceite. Tapa y cocina a 800 W 2 minutos. Añade el curry, remueve y cocina 30 segundos sin tapar para que suelte el aroma.",
+    "Incorpora la chirivía, la manzana y el caldo, con sal. Tapa con la tapa entreabierta y cocina a 800 W 12-14 minutos, removiendo a mitad, hasta que la chirivía se aplaste con un tenedor. Mientras, pica el cebollino.",
     "Tritura hasta que quede muy fina; si está espesa, añade un chorrito de agua caliente. Prueba de sal y pimienta.",
     "Tuesta las nueces en un plato a 800 W 2 minutos, removiendo a mitad, y trocéalas.",
-    "Sirve la crema con una cucharada de yogur, las nueces y cebollino picado."
+    "Sirve la crema con una cucharada de yogur, las nueces y el cebollino."
   ],
   nutricion: { kcal: 385, prot: 7, hc: 53, grasa: 16 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ligera", "fácil", "invierno", "detox", "bajo en colesterol"],
@@ -1057,11 +1060,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en un bol grande apto la cebolla y el ajo picados con el aceite. Tapa y cocina a 800 W 2 minutos.",
-    "Añade los pimientos sin semillas en tiras, el boniato pelado en dados de 2 cm y el pimentón, remueve, vierte el caldo y añade sal. Tapa con la tapa entreabierta y cocina a 800 W 12-14 minutos, removiendo a mitad, hasta que el boniato se deshaga.",
+    "Pica la cebolla y el ajo, quita las semillas a los pimientos y córtalos en tiras, y pela el boniato y córtalo en dados de 2 cm.",
+    "Pon en un bol grande apto la cebolla y el ajo con el aceite. Tapa y cocina a 800 W 2 minutos.",
+    "Añade los pimientos, el boniato y el pimentón, remueve, vierte el caldo y añade sal. Tapa con la tapa entreabierta y cocina a 800 W 12-14 minutos, removiendo a mitad, hasta que el boniato se deshaga. Mientras, corta el queso fresco en dados.",
     "Tritura con el vinagre hasta que quede muy fina; si la quieres aterciopelada, pásala por un colador para quitar las pieles del pimiento.",
     "Tuesta las almendras en un plato a 800 W 2 minutos, removiendo a mitad, hasta que estén doradas.",
-    "Sirve la crema con el queso fresco en dados, las almendras y pimienta recién molida."
+    "Sirve la crema con el queso fresco, las almendras y pimienta recién molida."
   ],
   nutricion: { kcal: 360, prot: 10, hc: 42, grasa: 16.5 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ligera", "rápida", "fácil", "detox", "poco especiada", "bajo en colesterol"],
@@ -1099,10 +1103,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la calabaza y córtala en dados de 2 cm. Ponla en una fuente apta con 2 cucharadas de agua, el tomillo y sal, tapa y cocina a 800 W 6-7 minutos, removiendo a mitad, hasta que esté tierna pero entera.",
+    "Pela la calabaza y córtala en dados de 2 cm. Ponla en una fuente apta con 2 cucharadas de agua, el tomillo y sal, tapa y cocina a 800 W 6-7 minutos, removiendo a mitad, hasta que esté tierna pero entera. Mientras, bate el aceite con el vinagre, la miel, sal y pimienta.",
     "Añade los garbanzos, mezcla y deja templar 5 minutos destapado: tienen que quedar tibios, no calientes, para que la burrata no se derrita.",
-    "Tuesta las avellanas en un plato a 800 W 2 minutos, removiendo a mitad, y trocéalas.",
-    "Bate el aceite con el vinagre, la miel, sal y pimienta.",
+    "Mientras se templan, tuesta las avellanas en un plato a 800 W 2 minutos, removiendo a mitad, y trocéalas.",
     "Reparte la rúcula en los platos, pon encima la calabaza con los garbanzos y la burrata abierta en el centro, riega con la vinagreta y termina con las avellanas y pimienta."
   ],
   nutricion: { kcal: 465, prot: 19, hc: 33, grasa: 28.5 },

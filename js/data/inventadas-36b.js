@@ -31,11 +31,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas enteras con piel en agua con sal 20–25 minutos, hasta que estén tiernas. Pélalas, córtalas en rodajas gruesas y déjalas enfriar.",
-    "Precalienta el horno a 200 °C. Pinta las tortillas de maíz con 1 cucharada de aceite, córtalas en cuartos y hornéalas 6–8 minutos, hasta que estén crujientes y doradas.",
+    "Cuece las patatas enteras con piel en agua con sal 20–25 minutos, hasta que estén tiernas. Mientras, precalienta el horno a 200 °C.",
+    "Pinta las tortillas de maíz con 1 cucharada de aceite, córtalas en cuartos y hornéalas 6–8 minutos, hasta que estén crujientes y doradas. Mientras se hacen, corta el pepino en dados, pela media naranja y sepárala en gajos, corta la parte verde de la cebolleta en aros finos y pica el cilantro y el chile sin semillas.",
+    "Escurre las patatas, pélalas, córtalas en rodajas gruesas y déjalas enfriar.",
     "Corta la corvina en dados de 1,5 cm, ponla en un bol de cristal bien frío y sálala.",
-    "Exprime las limas y la mitad de la naranja, añade el chile picado sin semillas y viértelo sobre el pescado. Mezcla y deja en la nevera 8–10 minutos, hasta que los bordes de los dados se vuelvan blancos y opacos.",
-    "Añade el pepino en dados, la otra media naranja en gajos pelados, la parte verde de la cebolleta en aros finos, el cilantro picado y el resto del aceite.",
+    "Exprime las limas y la otra media naranja, añade el chile y viértelo sobre el pescado. Mezcla y deja en la nevera 8–10 minutos, hasta que los bordes de los dados se vuelvan blancos y opacos.",
+    "Añade el pepino, los gajos de naranja, la cebolleta, el cilantro y el resto del aceite.",
     "Sirve enseguida con las rodajas de patata, el maíz y las tostadas de maíz al lado."
   ],
   nutricion: { kcal: 535, prot: 37, hc: 58, grasa: 17 },
@@ -73,12 +74,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el calabacín en tallarines con un espiralizador o con un pelador en tiras anchas. Sálalos ligeramente y déjalos en un colador 5 minutos para que suelten agua.",
+    "Corta el calabacín en tallarines con un espiralizador o con un pelador en tiras anchas. Sálalos ligeramente y déjalos en un colador 5 minutos para que suelten agua. Mientras, parte los tomates cherry por la mitad, corta la guindilla en aros, pica el perejil y tuesta el pan sin gluten.",
     "Calienta una sartén grande a fuego fuerte con el aceite de oliva y marca los langostinos salados 1 minuto por lado, hasta que estén rosados. Sácalos.",
-    "Baja a fuego medio, añade el aceite de ajo y la guindilla en aros y, a los 20 segundos, los tomates cherry partidos. Saltea 2 minutos.",
+    "Baja a fuego medio, añade el aceite de ajo y la guindilla y, a los 20 segundos, los tomates cherry. Saltea 2 minutos.",
     "Seca un poco los tallarines de calabacín con papel, añádelos y saltea 2 minutos, solo hasta que estén calientes y aún firmes.",
-    "Devuelve los langostinos, añade la ralladura y un chorro de zumo de limón y el perejil picado y mezcla.",
-    "Sirve enseguida con el pan sin gluten tostado para mojar el jugo."
+    "Devuelve los langostinos, añade la ralladura y un chorro de zumo de limón y el perejil y mezcla.",
+    "Sirve enseguida con el pan tostado para mojar el jugo."
   ],
   nutricion: { kcal: 475, prot: 36, hc: 29, grasa: 24 },
   etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "ligera", "picante", "fácil"],
@@ -159,8 +160,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara el adobo mezclando el vinagre, el pimentón, el comino, el orégano, el aceite de ajo, sal y 2 cucharadas de agua. Corta el pez espada en tacos grandes, cúbrelo con el adobo y déjalo en la nevera 30 minutos.",
-    "Cuece el arroz lavado con 320 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo.",
-    "Corta los tomates en gajos y alíñalos con el aceite de oliva, sal y el perejil picado.",
+    "Mientras marina, cuece el arroz lavado con 320 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo.",
+    "Corta los tomates en gajos, pica el perejil y alíña los tomates con el aceite de oliva, sal y el perejil.",
     "Escurre el pescado del adobo. Calienta una sartén o plancha a fuego fuerte y marca los tacos 1–2 minutos por cada cara, hasta que estén dorados por fuera y jugosos dentro.",
     "Vierte el adobo sobrante en la sartén caliente 30 segundos para que reduzca y riega con él el pescado.",
     "Sirve el pez espada sobre el arroz con la ensalada de tomate al lado."
@@ -199,11 +200,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados y cuécelas en agua con sal 8 minutos. Añade las judías verdes troceadas y cuece 6 minutos más. Escurre.",
-    "Seca los filetes de trucha, salpimiéntalos y píntalos con la mitad del aceite.",
-    "Colócalos con la piel hacia abajo en la cesta de la airfryer forrada con papel perforado y cocina a 190 °C 6 minutos.",
+    "Pela las patatas, córtalas en dados y cuécelas en agua con sal 8 minutos. Mientras, despunta y trocea las judías verdes y pica el perejil.",
+    "Añade las judías y cuece 6 minutos más; mientras, seca los filetes de trucha, salpimiéntalos y píntalos con la mitad del aceite. Escurre las verduras.",
+    "Coloca la trucha con la piel hacia abajo en la cesta de la airfryer forrada con papel perforado y cocina a 190 °C 6 minutos.",
     "Reparte las almendras laminadas por encima y cocina 2–3 minutos más, hasta que estén doradas y la carne de la trucha se separe con facilidad.",
-    "Aliña las patatas y las judías con el resto del aceite, el zumo de medio limón y el perejil picado.",
+    "Mientras, aliña las patatas y las judías con el resto del aceite, el zumo de medio limón y el perejil.",
     "Sirve la trucha con las almendras sobre las verduras y un gajo de limón."
   ],
   nutricion: { kcal: 440, prot: 37, hc: 24, grasa: 22 },
@@ -245,11 +246,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla 100 g de yogur con el garam masala, el pimentón, el jengibre rallado, el zumo del limón, el aceite de ajo y sal. Embadurna los muslos y déjalos marinar al menos 20 minutos (o toda la noche en la nevera).",
-    "Corta las patatas en dados de 2 cm y mézclalas con el aceite de oliva, la cúrcuma, el comino y sal.",
-    "Cocina las patatas en la airfryer a 200 °C 12 minutos, agitando a mitad.",
+    "Ralla el jengibre y mézclalo con 100 g de yogur, el garam masala, el pimentón, el zumo del limón, el aceite de ajo y sal. Embadurna los muslos y déjalos marinar al menos 20 minutos (o toda la noche en la nevera).",
+    "Mientras marinan, corta las patatas en dados de 2 cm y mézclalas con el aceite de oliva, la cúrcuma, el comino y sal.",
+    "Cocina las patatas en la airfryer a 200 °C 12 minutos, agitando a mitad. Mientras, ralla el pepino, apriétalo para quitarle el agua y mézclalo con el resto del yogur, la menta picada y una pizca de sal y comino; guarda la raita en la nevera.",
     "Aparta las patatas a los lados, coloca los muslos escurridos de marinada en el centro y cocina a 200 °C 14–16 minutos, dándoles la vuelta a mitad, hasta que estén tostados en los bordes y el jugo salga transparente.",
-    "Mientras, ralla el pepino, apriétalo para quitarle el agua y mézclalo con el resto del yogur, la menta picada y una pizca de sal y comino.",
     "Sirve el pollo con las patatas y la raita fría al lado."
   ],
   nutricion: { kcal: 665, prot: 45, hc: 42, grasa: 35 },
@@ -291,10 +291,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta las patatas en bastones de 1 cm, sumérgelas 10 minutos en agua fría, sécalas muy bien y mézclalas con el aceite, el pimentón y sal.",
     "Cocínalas en la airfryer a 200 °C 18–20 minutos, agitando dos veces, hasta que estén doradas y crujientes.",
-    "Mientras, forma dos hamburguesas de 2 cm de grosor con la carne sin amasarla demasiado y haz un pequeño hueco con el pulgar en el centro para que no se abomben. Salpimiéntalas por fuera.",
+    "Mientras, forma dos hamburguesas de 2 cm de grosor con la carne sin amasarla demasiado y haz un pequeño hueco con el pulgar en el centro para que no se abomben. Salpimiéntalas por fuera. Corta el tomate en rodajas, lava la lechuga y mezcla la mayonesa con la mostaza.",
     "Cocina las hamburguesas en una sartén muy caliente 3 minutos por lado para un punto jugoso. Pon el cheddar encima, tapa 1 minuto y deja que se funda.",
-    "Mezcla la mayonesa con la mostaza. Tuesta el pan sin gluten abierto 1 minuto en la sartén limpia.",
-    "Monta las hamburguesas con la salsa, lechuga, rodajas de tomate y la carne, y sírvelas con las patatas."
+    "Tuesta el pan sin gluten abierto 1 minuto en la sartén limpia.",
+    "Monta las hamburguesas con la salsa, la lechuga, el tomate y la carne, y sírvelas con las patatas."
   ],
   nutricion: { kcal: 880, prot: 40, hc: 78, grasa: 45 },
   etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "para niños", "fácil", "poco especiada"],
@@ -335,11 +335,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la carne, sálala y dórala en una sartén muy caliente con el aceite de ajo, en tandas, 4–5 minutos, hasta que tenga costra oscura por todos los lados. Pásala a la slow cooker.",
+    "Pela la calabaza y las zanahorias y córtalas en trozos grandes. Seca la carne, sálala y dórala en una sartén muy caliente con el aceite de ajo, en tandas, 4–5 minutos, hasta que tenga costra oscura por todos los lados. Pásala a la slow cooker.",
     "Vierte el vino en la sartén caliente, raspa el fondo con una cuchara de madera para despegar lo tostado y deja hervir 2 minutos. Añádelo a la slow cooker.",
-    "Incorpora la calabaza y las zanahorias en trozos grandes, el tomate concentrado, el romero, el laurel y 150 ml de agua. Remueve, tapa y cocina 8 horas en LOW, hasta que la carne se deshaga con una cuchara.",
+    "Incorpora la calabaza y las zanahorias, el tomate concentrado, el romero, el laurel y 150 ml de agua. Remueve, tapa y cocina 8 horas en LOW, hasta que la carne se deshaga con una cuchara.",
     "40 minutos antes de servir, disuelve la maicena en 2 cucharadas de agua fría, añádela al guiso y pon la slow cooker en HIGH destapada para que la salsa espese.",
-    "Cuece las patatas peladas y troceadas en agua con sal 20 minutos. Escúrrelas y aplástalas con la mantequilla y la leche sin lactosa caliente hasta obtener un puré fino. Salpimienta.",
+    "Mientras espesa, pela y trocea las patatas y cuécelas en agua con sal 20 minutos. Escúrrelas y aplástalas con la mantequilla y la leche sin lactosa caliente hasta obtener un puré fino. Salpimienta.",
     "Retira el romero y el laurel y sirve la ternera con su salsa junto al puré."
   ],
   nutricion: { kcal: 690, prot: 50, hc: 66, grasa: 25 },
@@ -379,9 +379,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta la calabaza y las patatas en dados de 2–3 cm y mézclalos en una bandeja con el aceite de oliva, las hojas de una rama de romero picadas y sal. Hornea 20 minutos.",
-    "Mientras, mezcla el zumo de una naranja con la mostaza, el azúcar moreno y el aceite de ajo.",
+    "Mientras, mezcla el zumo de una naranja con la mostaza, el azúcar moreno y el aceite de ajo. Corta la segunda naranja en rodajas.",
     "Salpimienta el solomillo y píntalo con parte del glaseado.",
-    "Saca la bandeja, aparta las verduras, coloca el solomillo en el centro con la otra rama de romero y reparte la segunda naranja en rodajas alrededor. Riega con el resto del glaseado.",
+    "Saca la bandeja, aparta las verduras, coloca el solomillo en el centro con la otra rama de romero y reparte las rodajas de naranja alrededor. Riega con el resto del glaseado.",
     "Hornea 18–20 minutos, hasta que el solomillo alcance 63 °C en el centro (rosado pálido y jugoso) y las verduras estén tiernas y caramelizadas.",
     "Deja reposar la carne 5 minutos tapada con papel de aluminio, córtala en medallones y sirve con las verduras y el jugo de la bandeja."
   ],
@@ -427,8 +427,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pollo en tiras y mézclalo con el comino, el pimentón, el orégano, el aceite de ajo, el zumo de media lima y sal. Deja 10 minutos.",
-    "Prepara el pico de gallo: tomate en dados pequeños, cilantro picado, zumo de la otra media lima y sal.",
-    "Corta los pimientos en tiras finas. Saltéalos en una sartén grande a fuego fuerte con el aceite de oliva 5 minutos, hasta que estén tiernos y con puntos tostados. Sácalos.",
+    "Mientras, prepara el pico de gallo: corta el tomate en dados pequeños, pica el cilantro y mézclalos con el zumo de la otra media lima y sal. Corta los pimientos en tiras finas.",
+    "Saltea los pimientos en una sartén grande a fuego fuerte con el aceite de oliva 5 minutos, hasta que estén tiernos y con puntos tostados. Sácalos.",
     "En la misma sartén muy caliente, saltea el pollo 5–6 minutos, sin moverlo demasiado al principio para que se dore, hasta que esté hecho por dentro. Devuelve los pimientos y mezcla.",
     "Calienta las tortillas en una sartén seca 30 segundos por lado y guárdalas en un paño.",
     "Sirve todo en el centro de la mesa para que cada uno rellene sus tortillas con pollo, pimientos, pico de gallo, yogur y cheddar."
@@ -472,7 +472,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados grandes y las patatas en gajos finos. Mézclalos en una bandeja con el aceite de oliva, el zumaque y sal y hornea 25 minutos, removiendo a mitad.",
     "Mientras, frota las chuletillas con el comino, el aceite de ajo y sal y déjalas a temperatura ambiente.",
-    "Mezcla el yogur con la ralladura y el zumo del medio limón, sal y la mitad de la menta picada.",
+    "Pica la menta y mezcla el yogur con la ralladura y el zumo del medio limón, sal y la mitad de la menta.",
     "Saca la bandeja, añade los tomates cherry y coloca las chuletillas encima de las verduras, sin amontonarlas.",
     "Pon el horno en función grill y hornea 5–6 minutos por cada lado, hasta que la grasa esté dorada y crujiente y la carne rosada por dentro.",
     "Sirve directamente de la bandeja con el yogur al limón y el resto de la menta por encima."
@@ -514,8 +514,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en rodajas de 3 mm; corta el calabacín en rodajas algo más gruesas.",
     "Pon las patatas en una fuente apta para microondas con el aceite de oliva, sal y 2 cucharadas de agua. Tapa con film apto o una tapa con salida de vapor y cocina a máxima potencia 7 minutos, hasta que estén casi tiernas.",
-    "Mezcla el tomate triturado con el aceite de ajo, el orégano y sal.",
-    "Monta capas en la misma fuente: patata, calabacín, tomate y parte de la mozzarella troceada. Repite y termina con mozzarella y el parmesano rallado.",
+    "Mientras, mezcla el tomate triturado con el aceite de ajo, el orégano y sal. Trocea la mozzarella y ralla el parmesano.",
+    "Monta capas en la misma fuente: patata, calabacín, tomate y parte de la mozzarella. Repite y termina con mozzarella y el parmesano.",
     "Cocina tapado 6 minutos a máxima potencia, hasta que el calabacín esté tierno y el queso fundido. Si tu microondas tiene grill, gratina 4 minutos destapado para dorar.",
     "Deja reposar 3 minutos y sirve con hojas de albahaca."
   ],
@@ -555,8 +555,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta la leche sin lactosa con el agua y sal en una cazuela. Cuando hierva, añade la polenta en forma de lluvia batiendo con unas varillas para que no se formen grumos.",
-    "Cuece a fuego bajo 5–8 minutos (o lo que indique el paquete), removiendo con frecuencia, hasta que esté espesa y cremosa. Aparta y añade la mantequilla y el parmesano rallado. Tapa.",
+    "Ralla el parmesano. Calienta la leche sin lactosa con el agua y sal en una cazuela. Cuando hierva, añade la polenta en forma de lluvia batiendo con unas varillas para que no se formen grumos.",
+    "Cuece a fuego bajo 5–8 minutos (o lo que indique el paquete), removiendo con frecuencia, hasta que esté espesa y cremosa. Aparta y añade la mantequilla y el parmesano. Tapa.",
     "En una sartén con el aceite de ajo, saltea los tomates cherry enteros a fuego fuerte 3 minutos, hasta que la piel se abra. Añade las espinacas y saltea 1 minuto más, hasta que mermen. Sala.",
     "Limpia la sartén y fríe los huevos en el aceite de oliva a fuego medio-alto, rociando la clara con el aceite, hasta que tenga puntilla y la yema siga líquida.",
     "Reparte la polenta en platos hondos (si ha espesado, aflójala con un chorrito de agua caliente), coloca encima las verduras y el huevo y termina con pimienta."
@@ -597,10 +597,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela con 240 ml de agua y sal 12 minutos tapada a fuego bajo. Deja reposar 5 minutos y suéltala con un tenedor.",
-    "Corta la berenjena en dados de 2 cm, mézclala con 1 cucharada de aceite y sal y cocínala en la airfryer a 200 °C 12 minutos, agitando a mitad, hasta que esté dorada y cremosa por dentro.",
+    "Mientras, corta la berenjena en dados de 2 cm, mézclala con 1 cucharada de aceite y sal y cocínala en la airfryer a 200 °C 12 minutos, agitando a mitad, hasta que esté dorada y cremosa por dentro.",
     "Corta el halloumi en lonchas de 1 cm, añádelas a la cesta junto con los tomates cherry y cocina 6–7 minutos más a 200 °C, hasta que el queso tenga marcas doradas y los tomates se arruguen.",
-    "Bate el zumo del limón con el resto del aceite, el zumaque y la mitad de la menta picada.",
-    "Reparte la quinoa en boles, coloca encima la berenjena, el halloumi, los tomates y el pepino en dados.",
+    "Mientras, corta el pepino en dados, pica la menta y bate el zumo del limón con el resto del aceite, el zumaque y la mitad de la menta.",
+    "Reparte la quinoa en boles, coloca encima la berenjena, el halloumi, los tomates y el pepino.",
     "Riega con el aliño y termina con el resto de la menta."
   ],
   nutricion: { kcal: 700, prot: 31, hc: 49, grasa: 42 },
@@ -640,11 +640,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla los calabacines con la parte gruesa del rallador, sálalos y déjalos 10 minutos en un colador. Después, estrújalos con las manos o en un paño hasta sacar todo el agua posible.",
-    "Mezcla el calabacín con el maíz, la harina de maíz, 2 huevos, el queso rallado, la mitad del cebollino picado y pimienta. Debe quedar una masa espesa.",
-    "Calienta el aceite en una sartén a fuego medio y forma 6 tortitas con cucharadas de masa, aplastándolas a 1 cm. Fríelas 3 minutos por lado, hasta que estén doradas y firmes. Escúrrelas sobre papel.",
-    "Mezcla el yogur con el resto del cebollino, la ralladura del limón y sal.",
-    "Lleva a hervor suave un cazo de agua con el vinagre, crea un remolino y escalfa los otros 2 huevos de uno en uno, 3 minutos, hasta que la clara esté cuajada y la yema líquida.",
+    "Ralla los calabacines con la parte gruesa del rallador, sálalos y déjalos 10 minutos en un colador. Mientras, ralla el queso, pica el cebollino y mezcla el yogur con la mitad del cebollino, la ralladura del limón y sal.",
+    "Estruja el calabacín con las manos o en un paño hasta sacar todo el agua posible. Mézclalo con el maíz, la harina de maíz, 2 huevos, el queso, el resto del cebollino y pimienta. Debe quedar una masa espesa.",
+    "Calienta el aceite en una sartén a fuego medio y forma 6 tortitas con cucharadas de masa, aplastándolas a 1 cm. Fríelas 3 minutos por lado, hasta que estén doradas y firmes. Escúrrelas sobre papel. A la vez, pon a calentar un cazo de agua con el vinagre.",
+    "Cuando el agua hierva suave, crea un remolino y escalfa los otros 2 huevos de uno en uno, 3 minutos, hasta que la clara esté cuajada y la yema líquida.",
     "Sirve 3 tortitas por persona con un huevo escalfado encima y la salsa de yogur."
   ],
   nutricion: { kcal: 540, prot: 25, hc: 36, grasa: 33 },
@@ -684,12 +683,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las patatas en dados de 1,5 cm y cuécelas 5 minutos en el microondas tapadas con un chorrito de agua, o 6 minutos en agua hirviendo, hasta que estén casi tiernas. Escúrrelas bien.",
+    "Corta las patatas en dados de 1,5 cm y cuécelas 5 minutos en el microondas tapadas con un chorrito de agua, o 6 minutos en agua hirviendo, hasta que estén casi tiernas. Mientras, corta los tomates en dados y pica el cebollino. Escurre bien las patatas.",
     "Dóralas en una sartén grande con el aceite de oliva a fuego medio-alto 8 minutos, hasta que estén crujientes por fuera. Añade el pimentón y sal, remueve 20 segundos y sácalas a los platos.",
-    "En la misma sartén, calienta el aceite de ajo y añade los tomates en dados. Cocina 2 minutos, hasta que se ablanden.",
+    "En la misma sartén, calienta el aceite de ajo y añade los tomates. Cocina 2 minutos, hasta que se ablanden.",
     "Desmenuza el tofu con las manos sobre la sartén, en trozos irregulares, y añade la cúrcuma, sal y pimienta. Saltea 4 minutos, hasta que esté caliente y bien amarillo.",
     "Incorpora las espinacas y remueve 1 minuto, hasta que mermen. Apaga y añade la sal negra.",
-    "Sirve el revuelto sobre las patatas con cebollino picado."
+    "Sirve el revuelto sobre las patatas con el cebollino."
   ],
   nutricion: { kcal: 455, prot: 28, hc: 33, grasa: 23 },
   etiquetas: ["sin gluten", "bajo en fodmap", "vegano", "rápida", "una sola sartén", "fácil", "detox", "poco especiada", "bajo en colesterol"],
@@ -729,12 +728,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz lavado con 210 ml de agua: 12 minutos tapado a fuego mínimo y 5 de reposo.",
-    "Escurre el tofu, sécalo con papel, córtalo en dados de 2 cm y rebózalo en la maicena.",
-    "Corta las judías verdes en trozos de 4 cm y la zanahoria en bastoncitos. Ralla el jengibre y mézclalo con el tamari, el azúcar y 3 cucharadas de agua.",
+    "Mientras, escurre el tofu, sécalo con papel, córtalo en dados de 2 cm y rebózalo en la maicena.",
+    "Corta las judías verdes en trozos de 4 cm, la zanahoria en bastoncitos y la cebolleta en aros. Ralla el jengibre y mézclalo con el tamari, el azúcar y 3 cucharadas de agua.",
     "Calienta el wok con el aceite de ajo a fuego fuerte y dora el tofu 6–7 minutos, girándolo, hasta que esté crujiente por todas las caras. Sácalo.",
     "Saltea las judías y la zanahoria 4 minutos con 2 cucharadas de agua, hasta que estén tiernas pero crujientes.",
     "Devuelve el tofu, vierte la salsa y saltea 1 minuto, hasta que se espese y lo envuelva todo con brillo.",
-    "Apaga, añade el aceite de sésamo, el sésamo y la cebolleta en aros y sirve sobre el arroz."
+    "Apaga, añade el aceite de sésamo, el sésamo y la cebolleta y sirve sobre el arroz."
   ],
   nutricion: { kcal: 635, prot: 32, hc: 70, grasa: 25 },
   etiquetas: ["sin gluten", "bajo en fodmap", "vegano", "una sola sartén", "tupper", "fácil", "poco especiada", "bajo en colesterol"],
@@ -774,10 +773,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Pela la calabaza y córtala en dados de 2 cm; escurre el tofu y córtalo en dados del mismo tamaño.",
-    "Mezcla calabaza y tofu en una bandeja grande con el aceite y sal y hornea 20 minutos.",
-    "Añade las judías verdes despuntadas, remueve y hornea 12–15 minutos más, hasta que la calabaza esté tierna y caramelizada en los bordes y el tofu dorado.",
-    "Mientras, bate la crema de cacahuete con el tamari, el zumo de la lima, el jengibre rallado, el sirope de arce y 2–3 cucharadas de agua caliente, hasta obtener un aliño fluido.",
-    "Riega la bandeja con el aliño, mezcla con cuidado y termina con cilantro y chile picados."
+    "Mezcla calabaza y tofu en una bandeja grande con el aceite y sal y hornea 20 minutos. Mientras, despunta las judías verdes, pica el cilantro y el chile y bate la crema de cacahuete con el tamari, el zumo de la lima, el jengibre rallado, el sirope de arce y 2–3 cucharadas de agua caliente, hasta obtener un aliño fluido.",
+    "Añade las judías verdes, remueve y hornea 12–15 minutos más, hasta que la calabaza esté tierna y caramelizada en los bordes y el tofu dorado.",
+    "Riega la bandeja con el aliño, mezcla con cuidado y termina con el cilantro y el chile."
   ],
   nutricion: { kcal: 455, prot: 27, hc: 28, grasa: 26 },
   etiquetas: ["sin gluten", "bajo en fodmap", "vegano", "todo al horno", "tupper", "batch cooking", "fácil"],
@@ -819,11 +817,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Seca bien el tofu con papel y desmenúzalo con un tenedor en trozos pequeños, como carne picada.",
-    "Calienta el aceite de ajo en una sartén a fuego medio-alto y dora el tofu 8 minutos, removiendo poco, hasta que esté tostado y algo crujiente.",
+    "Calienta el aceite de ajo en una sartén a fuego medio-alto y dora el tofu 8 minutos, removiendo poco, hasta que esté tostado y algo crujiente. Mientras, prepara el pico de gallo: corta los tomates en dados, pica el chile y el cilantro y mézclalos con el maíz, el zumo de media lima y sal. Corta la lechuga en tiras y la otra media lima en gajos.",
     "Añade el pimentón, el comino y el orégano, remueve 30 segundos y riega con el tamari. Saltea 1 minuto más, hasta que se absorba.",
-    "Prepara el pico de gallo con los tomates en dados, el maíz, el chile picado, el cilantro, el zumo de media lima y sal.",
     "Calienta las tortillas en una sartén seca 30 segundos por lado.",
-    "Rellena cada tortilla con lechuga en tiras, tofu y pico de gallo, y sirve con gajos de lima."
+    "Rellena cada tortilla con la lechuga, el tofu y el pico de gallo, y sirve con los gajos de lima."
   ],
   nutricion: { kcal: 460, prot: 25, hc: 45, grasa: 20 },
   etiquetas: ["sin gluten", "bajo en fodmap", "vegano", "rápida", "una sola sartén", "fácil", "bajo en colesterol"],
@@ -862,12 +859,12 @@ window.RECETAS_SEED.push({
     { n: "cacahuetes", q: 20, u: "g" }
   ],
   pasos: [
-    "Cuece el arroz en abundante agua con sal 10–11 minutos, como si fuera pasta. Escúrrelo, pásalo por agua fría y déjalo escurrir bien.",
-    "Saltea las gambas en una sartén caliente con unas gotas de aceite 2 minutos, hasta que estén rosadas. Déjalas enfriar.",
-    "Corta la piña, el pimiento y el pepino en dados pequeños y la parte verde de la cebolleta en aros.",
-    "Prepara el aliño disolviendo el azúcar en el zumo de las limas con la salsa de pescado y el resto del aceite.",
+    "Cuece el arroz en abundante agua con sal 10–11 minutos, como si fuera pasta.",
+    "Mientras, saltea las gambas en una sartén caliente con unas gotas de aceite 2 minutos, hasta que estén rosadas, y déjalas enfriar. En la misma sartén tuesta los cacahuetes 2 minutos y trocéalos.",
+    "Corta la piña, el pimiento y el pepino en dados pequeños y la parte verde de la cebolleta en aros. Pica el cilantro y la menta.",
+    "Escurre el arroz, pásalo por agua fría y déjalo escurrir bien. Prepara el aliño disolviendo el azúcar en el zumo de las limas con la salsa de pescado y el resto del aceite.",
     "Mezcla el arroz con las verduras, la piña, las gambas y el aliño. Deja reposar 5 minutos para que el arroz se impregne.",
-    "Sirve con las hierbas picadas y los cacahuetes tostados y troceados por encima."
+    "Sirve con las hierbas y los cacahuetes por encima."
   ],
   nutricion: { kcal: 440, prot: 27, hc: 55, grasa: 12 },
   etiquetas: ["sin gluten", "bajo en fodmap", "tupper", "ideal para llevar", "verano", "fácil", "poco especiada"],
@@ -950,12 +947,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Saca la carne de la nevera 20 minutos antes. Hidrata los fideos de arroz en agua caliente 8 minutos, escúrrelos, pásalos por agua fría y córtalos con tijera en trozos.",
-    "Prepara el aliño: disuelve el azúcar en el zumo de las limas y añade la salsa de pescado y el chile picado. Debe saber ácido, salado y algo dulce a la vez.",
-    "Sala el entrecot y márcalo en una sartén muy caliente sin aceite 2–3 minutos por lado, hasta que esté dorado por fuera y rosado dentro. Déjalo reposar 5 minutos y córtalo en tiras finas.",
-    "Corta el pepino en medias lunas, la zanahoria en tiras finas, los tomates por la mitad y la lechuga en trozos. Pica la cebolleta y deshoja las hierbas.",
+    "Saca la carne de la nevera 20 minutos antes. Mientras, hidrata los fideos de arroz en agua caliente 8 minutos, escúrrelos, pásalos por agua fría y córtalos con tijera en trozos.",
+    "Prepara el aliño: pica el chile, disuelve el azúcar en el zumo de las limas y añade la salsa de pescado y el chile. Debe saber ácido, salado y algo dulce a la vez. Tuesta los cacahuetes en la sartén 2 minutos y machácalos.",
+    "Sala el entrecot y márcalo en la sartén muy caliente sin aceite 2–3 minutos por lado, hasta que esté dorado por fuera y rosado dentro. Déjalo reposar 5 minutos.",
+    "Mientras reposa, corta el pepino en medias lunas, la zanahoria en tiras finas, los tomates por la mitad y la lechuga en trozos. Pica la cebolleta y deshoja las hierbas. Después, corta la carne en tiras finas.",
     "Mezcla verduras, fideos, hierbas y la ternera con su jugo de reposo y riega con el aliño.",
-    "Sirve con los cacahuetes tostados y machacados por encima."
+    "Sirve con los cacahuetes por encima."
   ],
   nutricion: { kcal: 460, prot: 36, hc: 32, grasa: 21 },
   etiquetas: ["sin gluten", "bajo en fodmap", "alta en proteína", "verano", "fácil"],
@@ -993,8 +990,8 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" }
   ],
   pasos: [
-    "Hidrata los fideos de arroz en agua caliente 8–10 minutos, hasta que estén flexibles. Escúrrelos.",
-    "Mezcla el tamari, la salsa de pescado, el azúcar y 2 cucharadas de agua. Corta las judías verdes en trozos de 1 cm y el chile en aros.",
+    "Hidrata los fideos de arroz en agua caliente 8–10 minutos, hasta que estén flexibles.",
+    "Mientras, mezcla el tamari, la salsa de pescado, el azúcar y 2 cucharadas de agua. Corta las judías verdes en trozos de 1 cm y el chile en aros. Escurre los fideos.",
     "Calienta el wok a fuego fuerte con el aceite de ajo y saltea el cerdo picado 5 minutos, deshaciéndolo con la espátula, hasta que esté dorado y algo crujiente.",
     "Añade las judías verdes y el chile y saltea 3 minutos más.",
     "Incorpora los fideos y la salsa y saltea 2 minutos, hasta que se tiñan y estén calientes. Apaga y añade las hojas de albahaca, que se ablandarán con el calor.",
@@ -1037,13 +1034,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo con el azafrán. Corta el rape en dados grandes y sálalo junto con las gambas.",
+    "Calienta el caldo con el azafrán. Corta el pimiento en tiras finas y ralla el tomate. Corta el rape en dados grandes y sálalo junto con las gambas.",
     "En una cazuela ancha con el aceite de oliva, marca el rape y las gambas 1 minuto a fuego fuerte, solo para sellarlos. Sácalos.",
-    "Añade el aceite de ajo y el pimiento en tiras finas y sofríe 6 minutos a fuego medio, hasta que esté blando. Agrega el tomate rallado y cocina 8 minutos, hasta que se oscurezca y no quede agua.",
+    "Añade el aceite de ajo y el pimiento y sofríe 6 minutos a fuego medio, hasta que esté blando. Agrega el tomate y cocina 8 minutos, hasta que se oscurezca y no quede agua.",
     "Aparta del fuego, añade el pimentón, remueve unos segundos e incorpora el arroz. Nacara 1 minuto.",
-    "Vierte el caldo caliente, sala y cuece a fuego medio 16 minutos removiendo de vez en cuando; el arroz debe quedar en un caldo abundante y algo espeso.",
+    "Vierte el caldo caliente, sala y cuece a fuego medio 16 minutos removiendo de vez en cuando; el arroz debe quedar en un caldo abundante y algo espeso. Mientras, pica el perejil.",
     "Añade el rape y las gambas y cuece 2–3 minutos más, hasta que el arroz esté en su punto y el pescado hecho.",
-    "Apaga, deja reposar 2 minutos y sirve en plato hondo con perejil picado."
+    "Apaga, deja reposar 2 minutos y sirve en plato hondo con el perejil."
   ],
   nutricion: { kcal: 665, prot: 41, hc: 77, grasa: 21 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "alta en proteína", "poco especiada"],
@@ -1083,12 +1080,11 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 1, u: "ud" }
   ],
   pasos: [
-    "Mezcla el cerdo picado con la mitad del jengibre rallado, 1 cucharada de tamari, la maicena y la mitad de la cebolleta picada. Forma unas 14 albóndigas pequeñas con las manos húmedas.",
-    "Calienta el caldo con el resto del jengibre en láminas, el resto del tamari y la salsa de pescado. Cuando hierva, baja a fuego suave.",
-    "Añade las albóndigas y cuécelas 8 minutos a borbotón suave, sin remover al principio, hasta que floten y estén firmes.",
-    "Incorpora la zanahoria en rodajas finas y, a los 2 minutos, el pak choi cortado en cuartos. Cuece 3 minutos más.",
-    "Mientras, hidrata los fideos de arroz en agua caliente según el paquete y repártelos en dos cuencos.",
-    "Vierte la sopa con las albóndigas y verduras sobre los fideos y termina con el aceite de sésamo, el resto de la cebolleta, cilantro y un chorro de lima."
+    "Ralla la mitad del jengibre y corta el resto en láminas; pica la cebolleta. Mezcla el cerdo picado con el jengibre rallado, 1 cucharada de tamari, la maicena y la mitad de la cebolleta. Forma unas 14 albóndigas pequeñas con las manos húmedas.",
+    "Calienta el caldo con el jengibre en láminas, el resto del tamari y la salsa de pescado. Cuando hierva, baja a fuego suave.",
+    "Añade las albóndigas y cuécelas 8 minutos a borbotón suave, sin remover al principio, hasta que floten y estén firmes. Mientras, corta la zanahoria en rodajas finas y el pak choi en cuartos, pica el cilantro e hidrata los fideos de arroz en agua caliente según el paquete; escúrrelos y repártelos en dos cuencos.",
+    "Incorpora la zanahoria y, a los 2 minutos, el pak choi. Cuece 3 minutos más.",
+    "Vierte la sopa con las albóndigas y verduras sobre los fideos y termina con el aceite de sésamo, el resto de la cebolleta, el cilantro y un chorro de lima."
   ],
   nutricion: { kcal: 515, prot: 30, hc: 51, grasa: 21 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "tupper", "batch cooking", "fácil", "poco especiada"],

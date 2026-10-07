@@ -78,10 +78,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava y frota bien las patatas, sécalas y pínchalas 6-8 veces por todos lados con un tenedor para que no revienten.",
     "Ponlas en un plato apto para microondas sobre una hoja de papel de cocina y cocínalas 6 minutos a 800 W. Dales la vuelta y cocina 5-6 minutos más, hasta que un cuchillo entre sin resistencia hasta el centro. Envuélvelas en un paño y deja reposar 3 minutos: terminan de hacerse con su propio calor.",
-    "Mientras, pica fino el pimiento rojo y la cebolleta. En un bol, mezcla el atún desmenuzado, el maíz escurrido, el pimiento, la cebolleta, el yogur, la ralladura de media lima y una cucharada de su zumo. Salpimienta.",
+    "Mientras, pica fino el pimiento rojo, la cebolleta y el cebollino. En un bol, mezcla el atún desmenuzado, el maíz escurrido, el pimiento, la cebolleta, el yogur, la ralladura de media lima y una cucharada de su zumo. Salpimienta.",
     "Abre las patatas con un corte en cruz sin llegar a la base y apriétalas desde los lados para que se abran como una flor. Chafa ligeramente la pulpa con un tenedor y sálala.",
     "Rellena cada patata con la mezcla de atún, coloca encima el cheddar rallado y espolvorea el pimentón ahumado.",
-    "Cocina 1 minuto a 800 W, solo hasta que el queso se funda. Termina con cebollino picado y sirve con el resto de la lima en gajos."
+    "Cocina 1 minuto a 800 W, solo hasta que el queso se funda. Termina con el cebollino y sirve con el resto de la lima en gajos."
   ],
   nutricion: { kcal: 555, prot: 30, hc: 64, grasa: 20 },
   etiquetas: ["sin gluten", "microondas", "rápida", "fácil", "económica", "para niños", "poco especiada"],
@@ -122,11 +122,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica muy fina la chalota. En un bol grande y ancho apto para microondas pon la mantequilla, el aceite y la chalota y cocina 2 minutos a 800 W sin tapar, hasta que esté blanda y transparente.",
     "Añade el arroz, remueve para que se impregne bien de grasa y cocina 1 minuto más. Vierte el vino blanco y cocina otro minuto, hasta que casi no huela a alcohol.",
-    "Agrega 400 ml del caldo bien caliente y una pizca de sal. Cocina sin tapar 6 minutos a 800 W, remueve con energía para que el grano suelte el almidón y cocina 5 minutos más.",
+    "Agrega 400 ml del caldo bien caliente y una pizca de sal. Cocina sin tapar 6 minutos a 800 W, remueve con energía para que el grano suelte el almidón y cocina 5 minutos más. Mientras, desmenuza el queso azul, ralla el parmesano y trocea las nueces.",
     "Añade el resto del caldo caliente, remueve y cocina 4-5 minutos. El grano debe estar tierno pero con un punto firme en el centro y el conjunto todavía algo caldoso; si lo notas duro, añade un chorrito de agua caliente y dale 1-2 minutos.",
     "Incorpora las espinacas en crudo, remueve y deja que se ablanden con el calor residual 1 minuto fuera del microondas.",
-    "Añade el queso azul desmenuzado y el parmesano rallado y bate con una cuchara de madera 30 segundos para mantecar: el risotto quedará brillante y cremoso. Tapa y deja reposar 2 minutos.",
-    "Trocea las nueces y sirve el risotto con ellas por encima y pimienta recién molida."
+    "Añade el queso azul y el parmesano y bate con una cuchara de madera 30 segundos para mantecar: el risotto quedará brillante y cremoso. Tapa y deja reposar 2 minutos.",
+    "Sirve el risotto con las nueces por encima y pimienta recién molida."
   ],
   nutricion: { kcal: 720, prot: 22, hc: 70, grasa: 39 },
   etiquetas: ["sin gluten", "microondas", "tupper", "vegetariana", "sin remover", "poco especiada"],
@@ -168,8 +168,8 @@ window.RECETAS_SEED.push({
     "Reparte las verduras en 2 cazuelitas o tazas anchas aptas para microondas, ligeramente engrasadas. Salpimienta y añade la nuez moscada.",
     "Haz un hueco en el centro de cada una y casca 2 huevos. Pincha cada yema una vez con la punta de un palillo (imprescindible para que no exploten) y reparte la nata alrededor de las claras.",
     "Desmenuza el queso de cabra por encima y cubre cada cazuelita con un plato pequeño.",
-    "Cocina las cazuelitas de una en una a 600 W durante 1 minuto 30 segundos; después sigue en tandas de 15 segundos hasta que la clara esté blanca y cuajada y la yema aún tiemble. Deja reposar 1 minuto tapada: el calor residual termina el cuajado.",
-    "Espolvorea el cebollino picado y sirve enseguida con el pan sin gluten para mojar."
+    "Cocina las cazuelitas de una en una a 600 W durante 1 minuto 30 segundos; después sigue en tandas de 15 segundos hasta que la clara esté blanca y cuajada y la yema aún tiemble. Deja reposar 1 minuto tapada: el calor residual termina el cuajado. Mientras se hacen, pica el cebollino.",
+    "Espolvorea el cebollino y sirve enseguida con el pan sin gluten para mojar."
   ],
   nutricion: { kcal: 430, prot: 23, hc: 18, grasa: 29 },
   etiquetas: ["sin gluten", "microondas", "rápida", "fácil", "vegetariana", "cena rápida", "poco especiada"],
@@ -207,10 +207,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas, córtalas en rodajas de medio centímetro y ponlas en un recipiente apto para microondas con tapa, con 2 cucharadas de agua y sal. Tapa con la válvula abierta y cocina 5 minutos a 800 W.",
-    "Mientras, quita la parte leñosa de los espárragos doblándolos por la base: se parten justo donde dejan de estar duros.",
+    "Mientras, quita la parte leñosa de los espárragos doblándolos por la base: se parten justo donde dejan de estar duros. Pica el eneldo.",
     "Escurre el agua de las patatas. Coloca encima los espárragos y, sobre ellos, los lomos de salmón salpimentados con la piel hacia abajo. Riega con el aceite y pon 2 rodajas finas de limón sobre cada lomo.",
     "Cubre con papel de horno bien remetido por los bordes o con la tapa entreabierta, para que se haga al vapor. Cocina 4-5 minutos a 800 W, hasta que el salmón esté rosa pálido por fuera y jugoso y algo más intenso en el centro.",
-    "Deja reposar 2 minutos sin destapar. Mientras, mezcla el yogur con la mostaza, el eneldo picado, la ralladura de medio limón, una cucharada de su zumo, sal y pimienta.",
+    "Deja reposar 2 minutos sin destapar. Mientras, mezcla el yogur con la mostaza, el eneldo, la ralladura de medio limón, una cucharada de su zumo, sal y pimienta.",
     "Sirve el salmón con las patatas y los espárragos y la salsa de yogur por encima o aparte."
   ],
   nutricion: { kcal: 530, prot: 35, hc: 30, grasa: 30 },
@@ -253,12 +253,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y ponlo en un bol grande apto para microondas con 260 ml de agua y sal. Cocina sin tapar 9 minutos a 800 W, tapa y cocina 3 minutos a 500 W. Déjalo reposar tapado mientras haces el curry.",
-    "Pica fina la cebolla y ralla el ajo y el jengibre. Ponlos en una fuente honda apta para microondas con el aceite y cocina 3 minutos a 800 W, hasta que la cebolla esté blanda.",
+    "Mientras se cuece el arroz, pica fina la cebolla, ralla el ajo y el jengibre y corta el pollo en dados de 3 cm. Cuando saques el arroz, pon la cebolla, el ajo y el jengibre en una fuente honda apta para microondas con el aceite y cocina 3 minutos a 800 W, hasta que la cebolla esté blanda.",
     "Añade el garam masala, la cúrcuma y el comino, remueve y cocina 30 segundos más para despertar las especias.",
-    "Corta el pollo en dados de 3 cm, sálalo y añádelo con el tomate triturado y la leche de coco. Remueve, tapa con un plato dejando una rendija y cocina 6 minutos a 800 W.",
+    "Sala el pollo y añádelo con el tomate triturado y la leche de coco. Remueve, tapa con un plato dejando una rendija y cocina 6 minutos a 800 W. Mientras, pica el cilantro.",
     "Remueve, comprueba que el pollo esté blanco por dentro y cocina 4 minutos más destapado, para que la salsa espese y tome color.",
     "Incorpora las espinacas y deja que se ablanden con el calor 1 minuto. Prueba de sal.",
-    "Suelta el arroz con un tenedor y sirve el curry encima con el cilantro picado."
+    "Suelta el arroz con un tenedor y sirve el curry encima con el cilantro."
   ],
   nutricion: { kcal: 745, prot: 36, hc: 66, grasa: 37 },
   etiquetas: ["sin gluten", "microondas", "tupper", "batch cooking", "sin lácteos", "económica"],
@@ -298,12 +298,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Saca el yogur de la nevera 10 minutos antes para que no esté helado. Mézclalo con el ajo rallado muy fino y una pizca de sal y extiéndelo en 2 platos hondos con el dorso de una cuchara.",
+    "Saca el yogur de la nevera 10 minutos antes para que no esté helado; mientras, corta el pepino y el tomate en dados y pica el eneldo. Mezcla el yogur con el ajo rallado muy fino y una pizca de sal y extiéndelo en 2 platos hondos con el dorso de una cuchara.",
     "Escalfa los huevos de uno en uno: pon en una taza grande apta para microondas 120 ml de agua con unas gotas de vinagre, casca un huevo dentro (debe quedar cubierto), pincha la yema con un palillo y tapa la taza con un plato.",
     "Cocina a 800 W 50-60 segundos, hasta que la clara esté blanca y cuajada y la yema siga líquida. Sácalo con una espumadera, escúrrelo sobre papel de cocina y colócalo sobre el yogur. Cambia el agua y repite con los demás.",
     "En un vaso, funde la mantequilla 30 segundos a 800 W, añade los dos pimentones y remueve: tomará un color rojo intenso sin quemarse.",
-    "Riega los huevos y el yogur con la mantequilla de pimentón y espolvorea el eneldo picado.",
-    "Corta el pepino y el tomate en dados, alíñalos con sal y un hilo de aceite y sírvelos al lado con el pan sin gluten para mojar."
+    "Riega los huevos y el yogur con la mantequilla de pimentón y espolvorea el eneldo.",
+    "Aliña el pepino y el tomate con sal y un hilo de aceite y sírvelos al lado con el pan sin gluten para mojar."
   ],
   nutricion: { kcal: 500, prot: 20, hc: 30, grasa: 33 },
   etiquetas: ["sin gluten", "microondas", "rápida", "fácil", "vegetariana"],
@@ -339,11 +339,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas en láminas finas. Ponlas en un plato hondo apto para microondas con 2 cucharadas de agua y sal, tapa y cocina 4 minutos a 800 W.",
-    "Corta el calabacín en medias lunas finas y repártelo sobre las patatas con una pizca de sal. Tapa y cocina 2 minutos más.",
-    "Seca los lomos de merluza, sálalos y colócalos encima con la piel hacia abajo. Tapa con la tapa entreabierta y cocina 3-4 minutos a 800 W, hasta que la carne esté blanca y se separe en láminas. Deja reposar tapado.",
-    "Para el refrito, lamina los ajos y ponlos en una taza de cerámica con el aceite y la guindilla en aros. Cocina a 800 W en tandas de 1 minuto, mirando cada vez: en 2-3 minutos estarán dorados claros. Sácalos en cuanto cojan color, porque se siguen haciendo fuera.",
-    "Añade al refrito la cucharadita de vinagre con cuidado (chisporrotea) y el perejil picado.",
+    "Pela las patatas y córtalas en láminas finas. Ponlas en un plato hondo apto para microondas con 2 cucharadas de agua y sal, tapa y cocina 4 minutos a 800 W. Mientras, corta el calabacín en medias lunas finas.",
+    "Reparte el calabacín sobre las patatas con una pizca de sal. Tapa y cocina 2 minutos más.",
+    "Seca los lomos de merluza, sálalos y colócalos encima con la piel hacia abajo. Tapa con la tapa entreabierta y cocina 3-4 minutos a 800 W, hasta que la carne esté blanca y se separe en láminas. Deja reposar tapado. Mientras se hace, lamina los ajos, corta la guindilla en aros y pica el perejil.",
+    "Para el refrito, pon los ajos en una taza de cerámica con el aceite y la guindilla. Cocina a 800 W en tandas de 1 minuto, mirando cada vez: en 2-3 minutos estarán dorados claros. Sácalos en cuanto cojan color, porque se siguen haciendo fuera.",
+    "Añade al refrito la cucharadita de vinagre con cuidado (chisporrotea) y el perejil.",
     "Vierte el jugo que haya soltado la merluza en la taza del refrito, remueve y riega con todo el pescado y las verduras. Sirve enseguida."
   ],
   nutricion: { kcal: 405, prot: 30, hc: 21, grasa: 22 },
@@ -384,9 +384,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla el calabacín con el rallador grueso, sálalo ligeramente y apriétalo entre las manos o en un paño para escurrir el agua: es la clave para que el pastel no quede gomoso.",
+    "Ralla el calabacín con el rallador grueso, sálalo ligeramente y apriétalo entre las manos o en un paño para escurrir el agua: es la clave para que el pastel no quede gomoso. Pica los tomates secos.",
     "En un bol, bate los huevos con la leche, la mitad del aceite, el orégano, sal y pimienta. Añade la harina de garbanzo y la levadura tamizadas y bate hasta que no queden grumos; debe quedar como una masa de crepes espesa.",
-    "Incorpora el calabacín, el feta desmenuzado (reserva un poco) y los tomates secos picados.",
+    "Incorpora el calabacín, el feta desmenuzado (reserva un poco) y los tomates secos.",
     "Engrasa 2 tazas grandes (de unos 350 ml) aptas para microondas y reparte la mezcla: no deben llenarse más de la mitad, porque sube. Pon el feta reservado por encima.",
     "Cocina las tazas de una en una a 800 W durante 1 minuto 45 segundos - 2 minutos, hasta que la masa suba, la superficie esté seca y un palillo salga limpio. Deja reposar 1 minuto: se asentará un poco.",
     "Mientras, aliña los tomates cherry partidos y la rúcula con el resto del aceite y sal. Desmolda los pasteles o cómelos en la taza, con la ensalada al lado."
@@ -429,11 +429,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava los boniatos, sécalos y pínchalos por todos lados con un tenedor. Cocínalos en un plato sobre papel de cocina 5 minutos a 800 W, dales la vuelta y cocina 4-6 minutos más, hasta que cedan al apretarlos con un paño. Déjalos reposar 3 minutos envueltos.",
-    "Mientras, escurre y enjuaga las alubias y el maíz. Ponlos en un bol con el comino, una pizca de sal y 2 cucharadas de agua, tapa y calienta 2 minutos a 800 W.",
+    "Mientras, escurre y enjuaga las alubias y el maíz y ponlos en un bol con el comino, una pizca de sal y 2 cucharadas de agua.",
     "Prepara la salsa mezclando el yogur con el chipotle picado muy fino y un poco de su adobo, el zumo de media lima y sal. Debe picar suave y saber ahumada.",
-    "Pica fina la cebolla morada y corta el aguacate en dados; alíñalos con el resto del zumo de lima y sal.",
+    "Pica fina la cebolla morada y el cilantro y corta el aguacate en dados; aliña la cebolla y el aguacate con el resto del zumo de lima y sal. Mientras reposan los boniatos, tapa el bol de alubias y caliéntalo 2 minutos a 800 W.",
     "Abre los boniatos a lo largo, chafa un poco la pulpa con un tenedor y sala. Rellénalos con las alubias y el maíz, reparte el cheddar por encima y cocina 1 minuto a 800 W para fundirlo.",
-    "Termina con el aguacate, la cebolla morada, la salsa de chipotle y el cilantro picado."
+    "Termina con el aguacate, la cebolla morada, la salsa de chipotle y el cilantro."
   ],
   nutricion: { kcal: 670, prot: 25, hc: 93, grasa: 22 },
   etiquetas: ["sin gluten", "microondas", "fácil", "vegetariana", "económica", "picante", "superalimentos"],
@@ -470,9 +470,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta las judías verdes en trozos de 3 cm y la zanahoria en rodajas finas. Ponlas en un bol apto para microondas con 3 cucharadas de agua y sal, tapa y cocina 5 minutos a 800 W.",
+    "Corta las judías verdes en trozos de 3 cm y la zanahoria en rodajas finas. Ponlas en un bol apto para microondas con 3 cucharadas de agua y sal, tapa y cocina 5 minutos a 800 W. Mientras, lamina el ajo.",
     "Añade los guisantes congelados y las alcachofas escurridas y partidas por la mitad. Tapa y cocina 2 minutos más. Escurre el agua.",
-    "En una taza pon el aceite con el ajo laminado y los taquitos de jamón. Cocina 1 minuto 30 segundos a 800 W, hasta que el ajo empiece a dorarse y el jamón suelte su grasa.",
+    "En una taza pon el aceite con el ajo y los taquitos de jamón. Cocina 1 minuto 30 segundos a 800 W, hasta que el ajo empiece a dorarse y el jamón suelte su grasa.",
     "Vierte el aceite con el jamón sobre las verduras, mezcla y prueba de sal (el jamón ya sala). Reparte en 2 platos hondos.",
     "Escalfa cada huevo en una taza con 120 ml de agua y unas gotas de vinagre, con la yema pinchada con un palillo y la taza tapada con un plato, 50-60 segundos a 800 W, hasta que la clara cuaje.",
     "Saca los huevos con una espumadera, escúrrelos y colócalos sobre la menestra. Al romper la yema se mezclará con las verduras como si fuera una salsa."
@@ -512,10 +512,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en láminas de medio centímetro; corta la cebolla en juliana y el pimiento en tiras. Ponlo todo en una fuente apta para microondas con 2 cucharadas del aceite y sal y mezcla bien.",
     "Tapa con un plato y cocina 8 minutos a 800 W, removiendo a mitad, hasta que las patatas estén tiernas y la cebolla blanda. Destapa y cocina 2 minutos más para que pierdan el vapor.",
-    "Mientras, lamina los ajos. Seca muy bien los langostinos con papel de cocina y sálalos.",
-    "En un bol pequeño de cerámica pon el resto del aceite con los ajos y la guindilla en aros. Cocina 1 minuto 30 segundos - 2 minutos a 800 W, hasta que los ajos bailen y empiecen a dorarse.",
+    "Mientras, lamina los ajos, corta la guindilla en aros y pica el perejil. Seca muy bien los langostinos con papel de cocina y sálalos.",
+    "En un bol pequeño de cerámica pon el resto del aceite con los ajos y la guindilla. Cocina 1 minuto 30 segundos - 2 minutos a 800 W, hasta que los ajos bailen y empiecen a dorarse.",
     "Añade los langostinos al aceite caliente, remueve para que se impregnen y cocina 1 minuto 30 segundos a 800 W. Remueve y dales 30-60 segundos más: deben quedar rosados y curvados en forma de C (si se cierran en O, están pasados).",
-    "Espolvorea el perejil picado y sirve los langostinos con todo su aceite sobre las patatas."
+    "Espolvorea el perejil y sirve los langostinos con todo su aceite sobre las patatas."
   ],
   nutricion: { kcal: 555, prot: 35, hc: 40, grasa: 28 },
   etiquetas: ["sin gluten", "microondas", "fácil", "sin lácteos", "para compartir"],
@@ -557,12 +557,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la pechuga en filetes de 1 cm para que se haga rápido y por igual. Sálala, ponla en un plato hondo con 3 cucharadas de agua y el jengibre en rodajas, tapa y cocina 3 minutos a 800 W. Da la vuelta a los filetes y cocina 2 minutos más, hasta que estén blancos por dentro. Deja reposar tapado.",
-    "Calienta 1 litro de agua en una jarra apta para microondas 6-7 minutos a 800 W, hasta que hierva. Viértela sobre los fideos de arroz en un bol y déjalos 4-5 minutos (o lo que indique el paquete). Escúrrelos y pásalos por agua fría para que no se peguen.",
-    "Corta la zanahoria y el pepino en bastones finos, el pimiento en tiras y la cebolleta en aros.",
+    "Corta la pechuga en filetes de 1 cm para que se haga rápido y por igual y pela el jengibre y córtalo en rodajas. Sala la pechuga, ponla en un plato hondo con 3 cucharadas de agua y el jengibre en rodajas, tapa y cocina 3 minutos a 800 W. Da la vuelta a los filetes y cocina 2 minutos más, hasta que estén blancos por dentro. Deja reposar tapado. Mientras se hace, corta la zanahoria y el pepino en bastones finos, el pimiento en tiras y la cebolleta en aros.",
+    "Calienta 1 litro de agua en una jarra apta para microondas 6-7 minutos a 800 W, hasta que hierva; mientras, pica los cacahuetes. Viértela sobre los fideos de arroz en un bol y déjalos 4-5 minutos (o lo que indique el paquete). Escúrrelos y pásalos por agua fría para que no se peguen.",
     "Para la salsa, ablanda la crema de cacahuete 20 segundos en el microondas y bátela con el tamari, el zumo de la lima, la miel, el aceite de sésamo, el jugo del pollo y 2-3 cucharadas de agua tibia, hasta que quede como nata líquida.",
     "Corta el pollo en tiras. Mezcla los fideos con la mitad de la salsa y la mitad de las verduras.",
-    "Reparte en 2 boles, coloca encima el pollo y el resto de las verduras, riega con la salsa restante y termina con los cacahuetes picados y el cilantro."
+    "Reparte en 2 boles, coloca encima el pollo y el resto de las verduras, riega con la salsa restante y termina con los cacahuetes y el cilantro."
   ],
   nutricion: { kcal: 700, prot: 50, hc: 74, grasa: 23 },
   etiquetas: ["sin gluten", "microondas", "tupper", "ideal para llevar", "alta en proteína", "sin lácteos", "poco especiada", "bajo en colesterol"],
@@ -645,11 +644,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Parte las berenjenas por la mitad a lo largo y haz cortes en rombo en la pulpa sin llegar a la piel. Sálalas, colócalas boca abajo en un plato apto para microondas y cocina 6-7 minutos a 800 W, hasta que la pulpa esté muy tierna.",
-    "Mientras, pica fina la cebolla y el ajo. Ponlos en un bol con el aceite y cocina 2 minutos a 800 W.",
-    "Añade la ternera picada, el ras el hanout y sal, deshaz la carne con un tenedor y cocina 3 minutos. Remueve deshaciendo los grumos, incorpora el tomate y cocina 3 minutos más, hasta que la carne haya perdido el color rosado y la salsa espese.",
+    "Mientras, pica fina la cebolla y el ajo y ponlos en un bol con el aceite. Cuando saques las berenjenas, cocina la cebolla y el ajo 2 minutos a 800 W.",
+    "Añade la ternera picada, el ras el hanout y sal, deshaz la carne con un tenedor y cocina 3 minutos. Remueve deshaciendo los grumos, incorpora el tomate y cocina 3 minutos más, hasta que la carne haya perdido el color rosado y la salsa espese. Mientras se hace, pica la menta.",
     "Vacía con una cuchara la pulpa de las berenjenas dejando 1 cm junto a la piel, pícala y mézclala con la carne. Rellena las barcas con esta mezcla.",
     "Tuesta los piñones en un plato pequeño 1 minuto 30 segundos a 800 W, removiendo cada 30 segundos, hasta que estén dorados; vigílalos porque se queman de golpe.",
-    "Calienta las berenjenas rellenas 2 minutos a 800 W. Sírvelas con una cucharada de yogur salado por encima, los piñones y la menta picada."
+    "Calienta las berenjenas rellenas 2 minutos a 800 W. Sírvelas con una cucharada de yogur salado por encima, los piñones y la menta."
   ],
   nutricion: { kcal: 530, prot: 32, hc: 19, grasa: 36 },
   etiquetas: ["sin gluten", "microondas", "tupper", "fácil", "alta en proteína", "keto"],
@@ -688,8 +687,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la calabaza y córtala en dados de 2 cm. Ponla en un bol grande apto para microondas con 2 cucharadas de agua, tapa y cocina 4 minutos a 800 W, hasta que esté casi tierna.",
-    "Mientras, lava las acelgas, separa las pencas y córtalas en trocitos; las hojas, en tiras.",
-    "En una taza de cerámica cocina el aceite con los ajos laminados y las almendras 1 minuto 30 segundos - 2 minutos a 800 W, hasta que estén dorados. Sácalos con una cuchara y májalos en un mortero con el vinagre y una pizca de sal hasta tener una pasta.",
+    "Mientras, lava las acelgas, separa las pencas y córtalas en trocitos; las hojas, en tiras. Lamina los ajos.",
+    "En una taza de cerámica cocina el aceite con los ajos y las almendras 1 minuto 30 segundos - 2 minutos a 800 W, hasta que estén dorados. Sácalos con una cuchara y májalos en un mortero con el vinagre y una pizca de sal hasta tener una pasta.",
     "Añade el pimentón y el comino al aceite que queda en la taza, remueve y viértelo sobre la calabaza, junto con el tomate, las pencas de acelga, los garbanzos escurridos y enjuagados y el caldo.",
     "Tapa con rendija y cocina 6 minutos a 800 W, removiendo a mitad. Incorpora las hojas de acelga y la picada, remueve y cocina 2 minutos más: el caldo debe espesar ligeramente.",
     "Deja reposar 3 minutos, prueba de sal y sirve en plato hondo."
@@ -733,11 +732,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en un bol grande con 280 ml de agua y sal: 10 minutos a 800 W sin tapar y 4 minutos a 500 W tapado. Déjalo reposar tapado mientras haces el resto.",
-    "Escurre el tofu, envuélvelo en papel de cocina con un peso encima 10 minutos para que suelte agua y córtalo en dados de 2 cm.",
+    "Mientras se cuece, escurre el tofu, envuélvelo en papel de cocina con un peso encima 10 minutos para que suelte agua y córtalo en dados de 2 cm.",
     "Corta la berenjena en bastones gruesos, ponla en una fuente con una pizca de sal y 1 cucharada de agua, tapa y cocina 5 minutos a 800 W, hasta que esté blanda y translúcida. Escurre el líquido.",
-    "Prepara la salsa mezclando el tamari, el vinagre de arroz, el azúcar, la maicena, el jengibre y el ajo rallados y 4 cucharadas de agua.",
+    "Mientras, ralla el jengibre y el ajo y prepara la salsa mezclándolos con el tamari, el vinagre de arroz, el azúcar, la maicena y 4 cucharadas de agua. Corta la cebolleta en aros.",
     "Añade el tofu y la salsa a la berenjena, remueve con cuidado y cocina destapado 3 minutos a 800 W. La salsa debe haber espesado y brillar; si no, dale 1 minuto más.",
-    "Riega con el aceite de sésamo y sirve sobre el arroz con la cebolleta en aros y el sésamo."
+    "Riega con el aceite de sésamo y sirve sobre el arroz con la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 555, prot: 26, hc: 70, grasa: 19 },
   etiquetas: ["sin gluten", "microondas", "vegana", "tupper", "sin lácteos", "económica", "poco especiada", "bajo en colesterol"],
@@ -776,12 +775,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas en rodajas de medio centímetro. Ponlas en un plato hondo con 2 cucharadas de agua y sal, tapa y cocina 6 minutos a 800 W, hasta que estén tiernas. Escúrrelas.",
-    "Pica la cebolla, los pimientos y el ajo. Ponlos en una fuente honda apta para microondas con 2 cucharadas de aceite y sal, tapa con rendija y cocina 5 minutos a 800 W, removiendo a mitad, hasta que estén blandos.",
+    "Pela las patatas y córtalas en rodajas de medio centímetro. Ponlas en un plato hondo con 2 cucharadas de agua y sal, tapa y cocina 6 minutos a 800 W, hasta que estén tiernas. Escúrrelas. Mientras se hacen, pica la cebolla, los pimientos y el ajo.",
+    "Pon la cebolla, los pimientos y el ajo en una fuente honda apta para microondas con 2 cucharadas de aceite y sal, tapa con rendija y cocina 5 minutos a 800 W, removiendo a mitad, hasta que estén blandos.",
     "Añade el pimentón, remueve, incorpora el tomate triturado y cocina 3 minutos más destapado para que espese.",
     "Retira la mitad de la salsa a un bol. Coloca las patatas sobre la salsa que queda en la fuente, encima los lomos de bacalao salados y cúbrelos con el resto de la salsa y las aceitunas.",
-    "Tapa con rendija y cocina 4-5 minutos a 800 W, hasta que el bacalao esté opaco y se separe en lascas. Deja reposar 2 minutos tapado.",
-    "Riega con la última cucharada de aceite en crudo y espolvorea perejil picado."
+    "Tapa con rendija y cocina 4-5 minutos a 800 W, hasta que el bacalao esté opaco y se separe en lascas. Deja reposar 2 minutos tapado. Mientras se hace, pica el perejil.",
+    "Riega con la última cucharada de aceite en crudo y espolvorea el perejil."
   ],
   nutricion: { kcal: 535, prot: 33, hc: 46, grasa: 24 },
   etiquetas: ["sin gluten", "microondas", "tupper", "sin lácteos", "fácil", "poco especiada", "bajo en colesterol"],
@@ -824,11 +823,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz basmati y cuécelo en un bol grande con 260 ml de agua y sal: 9 minutos a 800 W sin tapar y 3 minutos a 500 W tapado. Déjalo reposar tapado.",
-    "Pica fina la cebolla y ralla el ajo y el jengibre. Ponlos con el aceite en una fuente honda apta para microondas y cocina 3 minutos a 800 W.",
+    "Mientras se cuece el arroz, pica fina la cebolla y ralla el ajo y el jengibre. Cuando saques el arroz, ponlos con el aceite en una fuente honda apta para microondas y cocina 3 minutos a 800 W.",
     "Añade el garam masala, el comino, la cúrcuma y la cayena, remueve y cocina 30 segundos. Incorpora la ternera picada con sal, deshazla con un tenedor y cocina 4 minutos a 800 W.",
     "Remueve deshaciendo bien los grumos (la carne debe quedar suelta, como un picadillo), añade el tomate y cocina 4 minutos más destapado.",
-    "Agrega los guisantes congelados, remueve y cocina 3 minutos. Debe quedar jugoso pero sin caldo; si está seco, añade un par de cucharadas de agua.",
-    "Fuera del microondas, mezcla 2 cucharadas de yogur para darle cremosidad y prueba de sal. Sirve con el arroz, el resto del yogur y el cilantro picado."
+    "Agrega los guisantes congelados, remueve y cocina 3 minutos; mientras, pica el cilantro. Debe quedar jugoso pero sin caldo; si está seco, añade un par de cucharadas de agua.",
+    "Fuera del microondas, mezcla 2 cucharadas de yogur para darle cremosidad y prueba de sal. Sirve con el arroz, el resto del yogur y el cilantro."
   ],
   nutricion: { kcal: 735, prot: 41, hc: 74, grasa: 30 },
   etiquetas: ["sin gluten", "microondas", "tupper", "batch cooking", "alta en proteína"],
@@ -870,11 +869,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la cebolla en juliana fina y lamina el ajo. Ponlos con el aceite en una fuente honda apta para microondas y cocina 4 minutos a 800 W, removiendo a mitad, hasta que la cebolla esté blanda.",
-    "Tritura el tomate con los chipotles, un poco de su adobo, el orégano y sal, y añádelo a la cebolla.",
-    "Corta la pechuga en 4 trozos, sálala y sumérgela en la salsa. Tapa con rendija y cocina 5 minutos a 800 W; dale la vuelta a los trozos y cocina 4 minutos más, hasta que estén blancos por dentro.",
+    "Mientras, tritura el tomate con los chipotles, un poco de su adobo, el orégano y sal. Añádelo a la cebolla ya blanda.",
+    "Corta la pechuga en 4 trozos, sálala y sumérgela en la salsa. Tapa con rendija y cocina 5 minutos a 800 W; dale la vuelta a los trozos y cocina 4 minutos más, hasta que estén blancos por dentro. Mientras se hace, pica la cebolla morada y el cilantro, desmenuza el queso fresco y corta la lima en gajos.",
     "Saca el pollo, desmenúzalo con dos tenedores y devuélvelo a la salsa. Cocina destapado 2 minutos para que la tinga quede jugosa pero no caldosa.",
     "Apila las tortillas de maíz envueltas en un paño de cocina húmedo y caliéntalas 40-60 segundos a 800 W, hasta que estén flexibles y humeantes.",
-    "Rellena las tortillas con la tinga y sirve con aguacate en láminas, cebolla morada picada, queso fresco desmenuzado, cilantro y gajos de lima."
+    "Rellena las tortillas con la tinga y sirve con aguacate en láminas, la cebolla morada, el queso fresco, el cilantro y los gajos de lima."
   ],
   nutricion: { kcal: 680, prot: 47, hc: 59, grasa: 28 },
   etiquetas: ["sin gluten", "microondas", "tupper", "picante", "para compartir"],
@@ -914,11 +913,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela en un bol grande con 200 ml de agua y sal: 7 minutos a 800 W destapada; remueve y cocina 3 minutos a 500 W tapada. Déjala reposar tapada 5 minutos.",
-    "Corta los pimientos por la mitad a lo largo, conservando el rabito, y quita semillas y nervios. Colócalos boca abajo en un plato apto para microondas con 2 cucharadas de agua, tapa y cocina 4 minutos a 800 W, hasta que empiecen a ablandarse.",
-    "Mezcla la quinoa con el maíz escurrido, los tomates cherry en cuartos, la cebolleta picada, el comino, la mitad del feta desmenuzado y el aceite. Salpimienta.",
+    "Mientras, corta los pimientos por la mitad a lo largo, conservando el rabito, y quita semillas y nervios; corta los tomates cherry en cuartos y pica la cebolleta y la hierbabuena. Cuando saques la quinoa, coloca los pimientos boca abajo en un plato apto para microondas con 2 cucharadas de agua, tapa y cocina 4 minutos a 800 W, hasta que empiecen a ablandarse.",
+    "Mezcla la quinoa con el maíz escurrido, los tomates cherry, la cebolleta, el comino, la mitad del feta desmenuzado y el aceite. Salpimienta.",
     "Da la vuelta a los pimientos y rellénalos, apretando un poco. Reparte el resto del feta por encima.",
     "Tapa con rendija y cocina 4-5 minutos a 800 W, hasta que el pimiento esté tierno pero mantenga la forma y el relleno humee.",
-    "Mezcla el yogur con la hierbabuena picada y sal y sirve los pimientos con la salsa por encima."
+    "Mezcla el yogur con la hierbabuena y sal y sirve los pimientos con la salsa por encima."
   ],
   nutricion: { kcal: 440, prot: 17, hc: 48, grasa: 19 },
   etiquetas: ["sin gluten", "microondas", "tupper", "ideal para llevar", "vegetariana", "fácil", "detox", "poco especiada"],
@@ -958,10 +957,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela y trocea la calabaza y la zanahoria en dados de 2 cm; pica la cebolla y ralla el jengibre.",
+    "Tuesta las pipas de calabaza en un plato 1 minuto 30 segundos a 800 W, removiendo a mitad, hasta que se hinchen y crujan. Resérvalas.",
     "Ponlo todo en un bol grande apto para microondas (de al menos 2 litros) con las lentejas rojas enjuagadas, el curry y el caldo caliente. Tapa con rendija.",
-    "Cocina 10 minutos a 800 W. Remueve, comprueba que no se haya desbordado y cocina 8-10 minutos más, hasta que las lentejas estén deshechas y la calabaza se aplaste con un tenedor.",
+    "Cocina 10 minutos a 800 W. Remueve, comprueba que no se haya desbordado y cocina 8-10 minutos más, hasta que las lentejas estén deshechas y la calabaza se aplaste con un tenedor. Mientras, deshoja el cilantro y corta media lima en gajos.",
     "Añade la leche de coco (reserva un par de cucharadas) y tritura con la batidora hasta que quede muy fina. Si está espesa, aligera con agua caliente. Sazona con sal y el zumo de media lima.",
-    "Tuesta las pipas de calabaza en un plato 1 minuto 30 segundos a 800 W, removiendo a mitad, hasta que se hinchen y crujan.",
     "Sirve la crema con un hilo de la leche de coco reservada, las pipas, el cilantro y gajos de lima."
   ],
   nutricion: { kcal: 375, prot: 17, hc: 43, grasa: 15 },
@@ -999,10 +998,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz lavado en un bol grande con 280 ml de agua y sal: 10 minutos a 800 W sin tapar y 4 minutos a 500 W tapado. Déjalo reposar tapado.",
+    "Cuece el arroz lavado en un bol grande con 280 ml de agua y sal: 10 minutos a 800 W sin tapar y 4 minutos a 500 W tapado. Déjalo reposar tapado. Mientras se cuece, corta las judías verdes en trozos de 4 cm y el salmón en dados grandes (de 4 cm).",
     "En una fuente honda apta para microondas mezcla la pasta de curry con 3 cucharadas de la parte más espesa de la leche de coco y cocina 1 minuto a 800 W para que suelte el aroma.",
-    "Añade el resto de la leche de coco, la salsa de pescado y el azúcar, remueve e incorpora las judías verdes cortadas en trozos de 4 cm. Tapa con rendija y cocina 4 minutos a 800 W.",
-    "Corta el salmón en dados grandes (de 4 cm) y sumérgelos en la salsa. Tapa y cocina 3 minutos a 600 W; comprueba y dale 30-60 segundos más si hace falta. Debe quedar rosa claro por fuera y jugoso dentro.",
+    "Añade el resto de la leche de coco, la salsa de pescado y el azúcar, remueve e incorpora las judías verdes. Tapa con rendija y cocina 4 minutos a 800 W.",
+    "Sumerge los dados de salmón en la salsa. Tapa y cocina 3 minutos a 600 W; comprueba y dale 30-60 segundos más si hace falta. Debe quedar rosa claro por fuera y jugoso dentro.",
     "Deja reposar 2 minutos, añade el zumo de media lima y prueba: debe ser picante, salado y ligeramente dulce.",
     "Sirve sobre el arroz con las hojas de albahaca y el resto de la lima en gajos."
   ],
@@ -1042,7 +1041,7 @@ window.RECETAS_SEED.push({
     "Pela las patatas y córtalas en láminas finas, de unos 3 mm. Pica la cebolla y el pimiento.",
     "Ponlo todo en una fuente redonda apta para microondas de unos 20 cm con el aceite y sal, y mezcla con las manos para que todas las láminas queden untadas.",
     "Tapa con un plato y cocina 8 minutos a 800 W. Remueve con cuidado y cocina 3-4 minutos más, hasta que las patatas estén tiernas y se rompan al presionarlas.",
-    "Bate los huevos con sal en un bol grande, añade las patatas calientes y chafa ligeramente algunas. Deja reposar 5 minutos para que se impregnen.",
+    "Bate los huevos con sal en un bol grande, añade las patatas calientes y chafa ligeramente algunas. Deja reposar 5 minutos para que se impregnen. Mientras, trocea la lechuga y corta el tomate.",
     "Vuelve a poner la mezcla en la fuente (engrásala si se ha secado), alisa la superficie y cocina destapada 3 minutos a 600 W. Sigue en tandas de 30 segundos hasta que los bordes estén cuajados y el centro casi cuajado pero jugoso.",
     "Deja reposar 3 minutos, dale la vuelta sobre un plato y sírvela con la lechuga y el tomate aliñados con sal y unas gotas de aceite."
   ],
@@ -1082,11 +1081,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla en un bol el zumo del limón, la ralladura de la mitad, el ajo rallado, el orégano, el aceite, sal y pimienta. Corta los contramuslos en trozos grandes y déjalos en este aliño mientras preparas las patatas.",
-    "Pela las patatas y córtalas en gajos de 1,5 cm. Ponlas en una fuente honda apta para microondas con el caldo y sal, tapa y cocina 6 minutos a 800 W.",
-    "Añade las judías verdes despuntadas y cortadas por la mitad y coloca encima el pollo con todo su aliño, en una sola capa.",
+    "Ralla la piel de medio limón, corta 4 rodajas finas del otro extremo y resérvalas, y exprime el resto. Mezcla en un bol el zumo, la ralladura, el ajo rallado, el orégano, el aceite, sal y pimienta. Corta los contramuslos en trozos grandes y déjalos en este aliño mientras preparas las patatas.",
+    "Pela las patatas y córtalas en gajos de 1,5 cm. Ponlas en una fuente honda apta para microondas con el caldo y sal, tapa y cocina 6 minutos a 800 W. Mientras, despunta las judías verdes y córtalas por la mitad.",
+    "Añade las judías verdes y coloca encima el pollo con todo su aliño, en una sola capa.",
     "Tapa con rendija y cocina 6 minutos a 800 W. Dale la vuelta al pollo, remueve las patatas para que se empapen de jugo y cocina 5-6 minutos más, hasta que el pollo esté hecho en el centro y las patatas tiernas.",
-    "Añade las aceitunas y unas rodajas finas de limón y deja reposar 3 minutos tapado para que la salsa se asiente.",
+    "Añade las aceitunas y las rodajas de limón reservadas y deja reposar 3 minutos tapado para que la salsa se asiente.",
     "Sirve con todo su jugo por encima."
   ],
   nutricion: { kcal: 515, prot: 37, hc: 35, grasa: 25 },

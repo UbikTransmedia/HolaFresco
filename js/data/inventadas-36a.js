@@ -34,12 +34,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz jazmín hasta que el agua salga casi clara y cuécelo en una cazuela con 180 ml de agua y una pizca de sal: lleva a ebullición, tapa, baja al mínimo 12 minutos y deja reposar 5 minutos más sin destapar.",
-    "Mientras, mezcla en un bol el tamari, el jengibre rallado, el azúcar moreno y el vinagre de arroz. Reserva 1 cucharada de esta salsa para el pak choi.",
+    "Mientras, ralla el jengibre y mézclalo en un bol con el tamari, el azúcar moreno y el vinagre de arroz. Reserva 1 cucharada de esta salsa para el pak choi. Pica el cebollino, corta la lima en gajos y parte el pak choi a lo largo en cuartos.",
     "Seca bien los lomos de salmón con papel, píntalos con la mitad del glaseado y colócalos con la piel hacia abajo en la cesta de la airfryer forrada con papel perforado.",
     "Cocina a 190 °C durante 8 minutos; a mitad, pinta con el resto del glaseado. Estará listo cuando la superficie brille caramelizada y las láminas se separen al presionar, todavía jugosas en el centro.",
-    "Parte el pak choi a lo largo en cuartos y saltéalo en una sartén caliente con el aceite de ajo 3 minutos, hasta que los tallos estén tiernos pero crujientes. Añade la cucharada de salsa reservada y apaga.",
+    "Mientras se hace el salmón, saltea el pak choi en una sartén caliente con el aceite de ajo 3 minutos, hasta que los tallos estén tiernos pero crujientes. Añade la cucharada de salsa reservada y apaga.",
     "Tuesta el sésamo en la misma sartén 1 minuto, hasta que huela y tome color dorado.",
-    "Sirve el arroz con el salmón y el pak choi, rocía con el aceite de sésamo y termina con sésamo, cebollino picado y un gajo de lima."
+    "Sirve el arroz con el salmón y el pak choi, rocía con el aceite de sésamo y termina con sésamo, el cebollino y un gajo de lima."
   ],
   nutricion: { kcal: 630, prot: 37, hc: 53, grasa: 30 },
   etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "rápida", "alta en proteína", "fácil", "poco especiada"],
@@ -79,11 +79,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo. Pela las patatas y córtalas en rodajas de 3 mm; mézclalas con el aceite de oliva y sal y hornéalas extendidas en una bandeja 15 minutos, hasta que empiecen a ablandarse.",
-    "Mientras, corta el calabacín en medias lunas finas, parte los tomates cherry por la mitad y las aceitunas en rodajas.",
+    "Mientras, corta el calabacín en medias lunas finas, parte los tomates cherry por la mitad y las aceitunas en rodajas, y pica el perejil.",
     "Recorta dos rectángulos grandes de papel de horno. En el centro de cada uno reparte la mitad de las patatas ya precocinadas, encima el calabacín y los tomates, y sobre ellos un lomo de merluza salpimentado.",
     "Esparce las aceitunas y el orégano, riega con el aceite de ajo y unas gotas de limón. Cierra los paquetes doblando los bordes varias veces para que queden herméticos.",
     "Hornea 12–14 minutos, hasta que el papel se hinche. La merluza está lista cuando su carne es blanca y se separa en lascas.",
-    "Abre los paquetes en la mesa con cuidado con el vapor y termina con perejil picado y un chorrito del jugo del fondo."
+    "Abre los paquetes en la mesa con cuidado con el vapor y termina con el perejil y un chorrito del jugo del fondo."
   ],
   nutricion: { kcal: 410, prot: 29, hc: 34, grasa: 18 },
   etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "ligera", "fácil", "detox", "poco especiada", "bajo en colesterol"],
@@ -121,11 +121,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas y córtalas en rodajas de medio centímetro; corta los pimientos en tiras.",
-    "Mezcla en una fuente patatas y pimientos con el aceite de oliva y sal. Hornea 30 minutos, dándoles la vuelta a mitad, hasta que las patatas estén tiernas y doradas por los bordes.",
+    "Mezcla en una fuente patatas y pimientos con el aceite de oliva y sal. Hornea 30 minutos, dándoles la vuelta a mitad, hasta que las patatas estén tiernas y doradas por los bordes. Mientras, mezcla el aceite de ajo con el pimentón y pica el perejil.",
     "Saca la fuente, riega con el vino blanco y hornea 5 minutos más para que se evapore el alcohol.",
-    "Sala los lomos de bacalao, colócalos con la piel hacia abajo sobre la cama de patatas y píntalos con el aceite de ajo mezclado con el pimentón.",
+    "Sala los lomos de bacalao, colócalos con la piel hacia abajo sobre la cama de patatas y píntalos con el aceite de ajo al pimentón.",
     "Hornea 10–12 minutos, hasta que el bacalao esté opaco y empiece a separarse en lascas al presionarlo.",
-    "Espolvorea perejil picado y sirve directamente de la fuente, con el jugo que haya quedado en el fondo."
+    "Espolvorea el perejil y sirve directamente de la fuente, con el jugo que haya quedado en el fondo."
   ],
   nutricion: { kcal: 560, prot: 35, hc: 42, grasa: 28 },
   etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "fácil", "poco especiada"],
@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz basmati lavado en una cazuela con 250 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo. Reserva tapado.",
-    "Pela la calabaza y córtala en dados de 2 cm. Ralla el jengibre y pica la parte verde de la cebolleta.",
+    "Mientras, pela la calabaza y córtala en dados de 2 cm. Ralla el jengibre y pica la parte verde de la cebolleta.",
     "En otra cazuela, calienta el aceite de ajo a fuego medio y sofríe el jengibre y la cebolleta 1 minuto. Añade cúrcuma, comino y cilantro molido y remueve 30 segundos, hasta que huelan, sin que se quemen.",
     "Incorpora el tomate concentrado, la calabaza y 150 ml de agua. Tapa y cuece 12 minutos, hasta que la calabaza se deje atravesar con un cuchillo.",
     "Vierte la leche de coco, sala y cuece destapado 5 minutos para que la salsa espese ligeramente.",
@@ -213,12 +213,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el yogur con la mayonesa, la ralladura de la lima y un chorrito de su zumo y una pizca de sal. Reserva en la nevera.",
+    "Mezcla el yogur con la mayonesa, la ralladura de la lima y un chorrito de su zumo y una pizca de sal. Reserva en la nevera. Corta la lechuga en tiras y el pepino en bastoncitos y deshoja el cilantro.",
     "Seca las gambas y mézclalas con el pimentón, el comino, 1 cucharada de aceite y sal.",
     "Calienta una sartén a fuego fuerte con unas gotas de aceite y marca las rodajas de piña 2 minutos por lado, hasta que se tuesten. Córtalas en dados.",
     "En la misma sartén, con el resto del aceite, saltea las gambas 2 minutos en total, hasta que estén rosadas y curvadas. No las pases o quedarán gomosas.",
     "Calienta las tortillas de maíz en la sartén limpia 30 segundos por lado y envuélvelas en un paño para que se mantengan flexibles.",
-    "Rellena cada tortilla con lechuga en tiras, pepino en bastoncitos, gambas y piña. Corona con la crema de lima y hojas de cilantro."
+    "Rellena cada tortilla con la lechuga, el pepino, las gambas y la piña. Corona con la crema de lima y hojas de cilantro."
   ],
   nutricion: { kcal: 520, prot: 29, hc: 49, grasa: 23 },
   etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "fácil", "poco especiada"],
@@ -260,8 +260,8 @@ window.RECETAS_SEED.push({
     "En un bol grande mezcla el zumo y la ralladura del limón, el orégano, los dos aceites, sal y pimienta. Embadurna bien el pollo y los gajos de patata con esta mezcla.",
     "Coloca las patatas en una fuente, vierte el agua y el aliño sobrante y pon encima los muslos con la piel o la parte lisa hacia arriba.",
     "Hornea 30 minutos, saca la fuente, da la vuelta a las patatas para que se empapen del jugo y añade las aceitunas.",
-    "Hornea 20–25 minutos más, hasta que el pollo esté dorado, las patatas tiernas con bordes tostados y casi todo el líquido se haya reducido a un jugo espeso.",
-    "Reposa 5 minutos fuera del horno, espolvorea perejil picado y sirve con el jugo por encima."
+    "Hornea 20–25 minutos más, hasta que el pollo esté dorado, las patatas tiernas con bordes tostados y casi todo el líquido se haya reducido a un jugo espeso. Mientras, pica el perejil.",
+    "Reposa 5 minutos fuera del horno, espolvorea el perejil y sirve con el jugo por encima."
   ],
   nutricion: { kcal: 715, prot: 37, hc: 45, grasa: 43 },
   etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "tupper", "batch cooking", "fácil", "poco especiada"],
@@ -303,9 +303,9 @@ window.RECETAS_SEED.push({
     "Sala los contramuslos y frótalos con el pimentón, el comino y el tomillo. Colócalos sobre los pimientos.",
     "Mezcla el tomate triturado con el vino blanco y el aceite de ajo y viértelo por encima.",
     "Tapa y cocina 5 horas en LOW (o 3 horas en HIGH), hasta que el pollo se deshaga al presionarlo con un tenedor y los pimientos estén muy tiernos.",
-    "Media hora antes de servir, cuece el arroz lavado en una cazuela con 280 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo.",
+    "Media hora antes de servir, cuece el arroz lavado en una cazuela con 280 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo. Mientras, pica el perejil.",
     "Si la salsa ha quedado muy líquida, destapa la slow cooker y deja en HIGH 20 minutos para que espese. Prueba de sal.",
-    "Sirve el pollo con su salsa sobre el arroz y termina con perejil picado."
+    "Sirve el pollo con su salsa sobre el arroz y termina con el perejil."
   ],
   nutricion: { kcal: 660, prot: 45, hc: 70, grasa: 22 },
   etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "fácil", "poco especiada", "bajo en colesterol"],
@@ -347,10 +347,10 @@ window.RECETAS_SEED.push({
     "Prepara el mojo mezclando el zumo de naranja, el zumo de la lima, el comino, el orégano, el aceite de ajo, sal y pimienta.",
     "Coloca los trozos de paleta en la slow cooker, riégalos con el mojo y dales la vuelta para que se impregnen.",
     "Tapa y cocina 6 horas en LOW, hasta que la carne se deshilache sin esfuerzo con dos tenedores.",
+    "Cuando falten unos 20 minutos, cuece el arroz en una cazuela con 240 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo. Mientras, pela el plátano macho, córtalo en rodajas diagonales de 1 cm y pica el cilantro.",
     "Saca la carne, desmenúzala y devuélvela al jugo. Si quieres bordes crujientes, dórala 3 minutos en una sartén muy caliente con un par de cucharadas del jugo.",
-    "Mientras, cuece el arroz en una cazuela con 240 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo.",
-    "Pela el plátano macho, córtalo en rodajas diagonales de 1 cm y fríelo en el aceite de oliva a fuego medio 3 minutos por lado, hasta que esté dorado y tierno.",
-    "Sirve el cerdo con su jugo junto al arroz y el plátano, y termina con cilantro picado."
+    "Fríe el plátano en el aceite de oliva a fuego medio 3 minutos por lado, hasta que esté dorado y tierno.",
+    "Sirve el cerdo con su jugo junto al arroz y el plátano, y termina con el cilantro."
   ],
   nutricion: { kcal: 790, prot: 36, hc: 92, grasa: 31 },
   etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "fácil", "sin verduras", "poco especiada"],
@@ -391,7 +391,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas en dados de 2 cm, mézclalas con el aceite de oliva y sal y ásalas en un extremo de una bandeja grande 15 minutos.",
-    "Mientras, mezcla en un bol el pavo, el pan rallado sin gluten, el huevo, el parmesano, el perejil picado y sal. Forma unas 12 albóndigas del tamaño de una nuez grande con las manos humedecidas.",
+    "Mientras, pica el perejil y mezcla en un bol el pavo, el pan rallado sin gluten, el huevo, el parmesano, el perejil y sal. Forma unas 12 albóndigas del tamaño de una nuez grande con las manos humedecidas.",
     "Pica el pimiento en dados pequeños y mézclalo con el tomate triturado, el aceite de ajo, el orégano y sal.",
     "Saca la bandeja, aparta las patatas a un lado, vierte la salsa en el otro y coloca las albóndigas sobre ella.",
     "Hornea 20–25 minutos, hasta que las albóndigas estén doradas por arriba y firmes al tacto, la salsa burbujee y las patatas estén crujientes.",
@@ -436,13 +436,13 @@ window.RECETAS_SEED.push({
     { n: "cacahuetes", q: 30, u: "g" }
   ],
   pasos: [
-    "Hidrata los fideos de arroz en agua caliente del grifo 8–10 minutos (o según el paquete), hasta que estén flexibles pero firmes. Escúrrelos y pásalos por agua fría.",
-    "Corta la ternera en tiras finas a contrapelo y mézclala con la maicena y 1 cucharada de tamari. Corta los pimientos en tiras, la zanahoria en bastoncitos y la parte verde de la cebolleta en trozos de 3 cm.",
-    "Mezcla en un vaso el resto del tamari, el azúcar moreno, el jengibre rallado y 3 cucharadas de agua.",
+    "Hidrata los fideos de arroz en agua caliente del grifo 8–10 minutos (o según el paquete), hasta que estén flexibles pero firmes.",
+    "Mientras, corta la ternera en tiras finas a contrapelo y mézclala con la maicena y 1 cucharada de tamari. Corta los pimientos en tiras, la zanahoria en bastoncitos y la parte verde de la cebolleta en trozos de 3 cm.",
+    "Ralla el jengibre y mézclalo en un vaso con el resto del tamari, el azúcar moreno y 3 cucharadas de agua. Pica los cacahuetes. Escurre los fideos y pásalos por agua fría.",
     "Calienta el wok a fuego máximo con el aceite de oliva hasta que humee y saltea la ternera 2 minutos, en una sola capa, hasta que se dore. Sácala.",
     "Añade el aceite de ajo y saltea pimientos y zanahoria 3 minutos, removiendo sin parar; deben quedar crujientes.",
     "Devuelve la ternera, incorpora los fideos, la cebolleta y la salsa y saltea 1–2 minutos hasta que todo brille y los fideos se hayan teñido.",
-    "Apaga, rocía con el aceite de sésamo y sirve con los cacahuetes picados por encima."
+    "Apaga, rocía con el aceite de sésamo y sirve con los cacahuetes por encima."
   ],
   nutricion: { kcal: 675, prot: 43, hc: 70, grasa: 25 },
   etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "tupper", "alta en proteína", "fácil", "poco especiada"],
@@ -482,7 +482,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta los tomates y el pepino en dados, alíñalos con 1 cucharada de aceite, sal y orégano y reserva.",
     "Saltea las espinacas en una sartén antiadherente con unas gotas de aceite 2 minutos, hasta que mermen. Sálalas, escúrrelas bien apretando con una cuchara y resérvalas.",
-    "Ralla o lamina el queso. Bate 2 huevos con sal y un poco de cebollino picado.",
+    "Ralla o lamina el queso y pica el cebollino. Bate 2 huevos con sal y un poco del cebollino.",
     "Calienta media cucharada de aceite en la sartén a fuego medio, vierte los huevos y mueve la sartén para que cuajen en una capa fina. Cuando la superficie esté casi cuajada pero brillante, pon la mitad de las espinacas y del queso en un lado y dobla la tortilla.",
     "Deja 30 segundos para que el queso se funda y pásala al plato. Repite con los otros 2 huevos.",
     "Tuesta el pan sin gluten en la sartén limpia 1 minuto por lado y sirve junto a la tortilla y la ensalada."
@@ -526,7 +526,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Corta los pimientos en tiras y la patata en láminas muy finas (2 mm).",
     "Engrasa una fuente de unos 20 cm con 1 cucharada de aceite, extiende patata y pimientos, sala y hornea 15 minutos, hasta que la patata esté tierna y los pimientos empiecen a tostarse.",
-    "Mientras, bate los huevos con la leche sin lactosa, dos tercios del parmesano rallado, el cebollino picado, sal y pimienta.",
+    "Mientras, ralla el parmesano y pica el cebollino. Bate los huevos con la leche sin lactosa, dos tercios del parmesano, el cebollino, sal y pimienta.",
     "Saca la fuente, reparte las espinacas crudas sobre las verduras calientes (se ablandarán solas) y vierte el huevo batido.",
     "Espolvorea el resto del parmesano y baja el horno a 180 °C. Hornea 15–18 minutos, hasta que el centro esté cuajado y no tiemble al mover la fuente y la superficie esté dorada.",
     "Deja templar 5 minutos, corta en porciones y sirve con la rúcula aliñada con el resto del aceite."
@@ -568,10 +568,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo 1 minuto para quitar el amargor.",
-    "Cuécela en una cazuela con 240 ml de agua y sal: lleva a ebullición, tapa y deja 12 minutos a fuego bajo, hasta que absorba el agua y aparezca el germen en espiral. Extiéndela en una bandeja para que se enfríe rápido.",
-    "Corta el pepino, los tomates y el pimiento en dados pequeños y las aceitunas en rodajas.",
-    "Bate el zumo de medio limón con el aceite, el orégano y una pizca de sal.",
-    "Mezcla la quinoa fría con las verduras y el aliño. Desmenuza el feta por encima y añade la menta picada en el último momento.",
+    "Cuécela en una cazuela con 240 ml de agua y sal: lleva a ebullición, tapa y deja 12 minutos a fuego bajo, hasta que absorba el agua y aparezca el germen en espiral. Mientras, corta el pepino, los tomates y el pimiento en dados pequeños y las aceitunas en rodajas, y pica la menta.",
+    "Extiende la quinoa en una bandeja para que se enfríe rápido. Mientras, bate el zumo de medio limón con el aceite, el orégano y una pizca de sal.",
+    "Mezcla la quinoa fría con las verduras y el aliño. Desmenuza el feta por encima y añade la menta en el último momento.",
     "Prueba y ajusta con más limón si lo quieres más fresco."
   ],
   nutricion: { kcal: 445, prot: 14, hc: 46, grasa: 23 },
@@ -609,11 +608,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 10 minutos. Añade las judías verdes troceadas y cuece 5 minutos más, hasta que las patatas estén tiernas y las judías conserven su verde intenso. Escurre.",
+    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 10 minutos; mientras, despunta y trocea las judías verdes. Añádelas y cuece 5 minutos más, hasta que las patatas estén tiernas y las judías conserven su verde intenso. Escurre.",
     "Mientras, abre la pechuga en filetes gruesos, salpimiéntala y dórala en una sartén con 1 cucharada de aceite a fuego medio-alto 4 minutos por lado, hasta que el centro deje de estar rosado. Reposa 5 minutos y córtala en tiras.",
-    "Prepara la vinagreta batiendo la mostaza con el vinagre, el estragón, sal y pimienta, y añade el resto del aceite en hilo hasta que emulsione.",
+    "Mientras reposa, parte los tomates cherry, pica el cebollino y prepara la vinagreta batiendo la mostaza con el vinagre, el estragón, sal y pimienta, y añade el resto del aceite en hilo hasta que emulsione.",
     "Aliña las patatas y las judías aún templadas con la mitad de la vinagreta: así absorben mejor el sabor.",
-    "Añade los tomates cherry partidos y el pollo, riega con el resto de la vinagreta y termina con cebollino picado."
+    "Añade los tomates cherry y el pollo, riega con el resto de la vinagreta y termina con el cebollino."
   ],
   nutricion: { kcal: 510, prot: 38, hc: 35, grasa: 24 },
   etiquetas: ["sin gluten", "bajo en fodmap", "tupper", "ideal para llevar", "alta en proteína", "fácil", "poco especiada", "bajo en colesterol"],
@@ -653,10 +652,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el calabacín y córtalo en rodajas sin pelar; pela la patata y córtala en dados pequeños.",
     "Calienta el aceite de oliva en una cazuela y rehoga el calabacín y la patata con sal 5 minutos a fuego medio, removiendo, hasta que el calabacín empiece a sudar.",
-    "Cubre con el agua, lleva a ebullición y cuece 15 minutos tapado, hasta que la patata se deshaga al pincharla.",
-    "Añade el queso troceado y la leche sin lactosa y tritura con la batidora hasta obtener una crema lisa. Ajusta de sal y pimienta; si está muy espesa, aligera con agua caliente.",
-    "Tuesta las semillas de calabaza en una sartén seca 2 minutos, hasta que empiecen a saltar.",
-    "Sirve la crema con un hilo de aceite de ajo, las semillas y cebollino picado."
+    "Cubre con el agua, lleva a ebullición y cuece 15 minutos tapado, hasta que la patata se deshaga al pincharla. Mientras, tuesta las semillas de calabaza en una sartén seca 2 minutos, hasta que empiecen a saltar, trocea el queso y pica el cebollino.",
+    "Añade el queso y la leche sin lactosa y tritura con la batidora hasta obtener una crema lisa. Ajusta de sal y pimienta; si está muy espesa, aligera con agua caliente.",
+    "Sirve la crema con un hilo de aceite de ajo, las semillas y el cebollino."
   ],
   nutricion: { kcal: 405, prot: 14, hc: 28, grasa: 26 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "tupper", "batch cooking", "ligera", "fácil", "poco especiada"],
@@ -693,11 +691,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C con calor arriba y abajo y calienta el caldo con el azafrán y sal: debe quedar ligeramente salado.",
+    "Precalienta el horno a 220 °C con calor arriba y abajo y calienta el caldo con el azafrán y sal: debe quedar ligeramente salado. Corta la patata en rodajas de 1 cm y parte el tomate por la mitad.",
     "En una sartén grande con el aceite de oliva, dora la costilla salada a fuego medio-alto 8 minutos, hasta que esté bien tostada por todos los lados.",
-    "Corta la patata en rodajas de 1 cm y dóralas 3 minutos en la misma sartén. Retira patata y costilla.",
+    "Dora las rodajas de patata 3 minutos en la misma sartén. Retira patata y costilla.",
     "Baja el fuego, añade el aceite de ajo y el arroz y nacáralo 1 minuto. Aparta del fuego, añade el pimentón y remueve 10 segundos.",
-    "Pasa el arroz a una cazuela de barro o fuente de horno, reparte la costilla, coloca encima las rodajas de patata y el tomate partido por la mitad, con el corte hacia arriba.",
+    "Pasa el arroz a una cazuela de barro o fuente de horno, reparte la costilla, coloca encima las rodajas de patata y el tomate, con el corte hacia arriba.",
     "Vierte el caldo hirviendo y hornea 18–20 minutos, hasta que el arroz haya absorbido el caldo, esté en su punto y la superficie se vea seca y tostada.",
     "Deja reposar 5 minutos fuera del horno antes de servir."
   ],
@@ -736,11 +734,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta las nueces troceadas en una cazuela ancha en seco 2 minutos, hasta que huelan. Sácalas y resérvalas.",
-    "Ralla grueso un calabacín y corta el otro en medias lunas finas.",
+    "Trocea las nueces, ralla grueso un calabacín y corta el otro en medias lunas finas. Ralla el parmesano y la piel del limón.",
+    "Tuesta las nueces en una cazuela ancha en seco 2 minutos, hasta que huelan. Sácalas y resérvalas.",
     "En la misma cazuela calienta 1 cucharada de aceite de ajo y saltea las medias lunas 3 minutos a fuego fuerte, hasta que se doren. Retíralas.",
     "Pon en la cazuela la pasta, el calabacín rallado, el agua y sal. Lleva a ebullición y cuece destapado removiendo a menudo, el tiempo del paquete más 1 minuto, hasta que la pasta esté al dente y quede solo un poco de líquido almidonado.",
-    "Aparta del fuego, añade el parmesano rallado, la ralladura del limón y un chorrito de su zumo y remueve con energía 30 segundos para que se forme una salsa cremosa. Si se espesa demasiado, añade un poco de agua caliente.",
+    "Aparta del fuego, añade el parmesano, la ralladura del limón y un chorrito de su zumo y remueve con energía 30 segundos para que se forme una salsa cremosa. Si se espesa demasiado, añade un poco de agua caliente.",
     "Incorpora el calabacín dorado, sirve enseguida con las nueces, la albahaca, el resto del aceite de ajo y pimienta."
   ],
   nutricion: { kcal: 615, prot: 17, hc: 69, grasa: 30 },
@@ -779,13 +777,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo y mantenlo al fuego mínimo. Corta el calabacín en dados pequeños.",
+    "Calienta el caldo y mantenlo al fuego mínimo. Corta el calabacín en dados pequeños, ralla el parmesano y la piel del limón y pica el cebollino.",
     "En una cazuela ancha calienta el aceite de ajo y saltea el calabacín con sal 3 minutos a fuego medio-alto. Aparta la mitad para el final.",
     "Añade el arroz y nacáralo 1 minuto, hasta que los granos se vean translúcidos por los bordes. Vierte el vino y remueve hasta que se evapore.",
     "Incorpora el caldo caliente de cucharón en cucharón, removiendo con frecuencia y esperando a que se absorba antes de añadir más, durante 16–18 minutos, hasta que el arroz esté cremoso y al dente.",
     "Mientras, saltea las gambas saladas en una sartén muy caliente 1 minuto por lado, hasta que estén rosadas.",
-    "Aparta el risotto del fuego, añade la mantequilla fría, el parmesano rallado, la ralladura del limón y el calabacín reservado y remueve enérgicamente 1 minuto para que quede brillante y suelto, como una ola.",
-    "Sirve con las gambas encima, cebollino picado y unas gotas de zumo de limón."
+    "Aparta el risotto del fuego, añade la mantequilla fría, el parmesano, la ralladura del limón y el calabacín reservado y remueve enérgicamente 1 minuto para que quede brillante y suelto, como una ola.",
+    "Sirve con las gambas encima, el cebollino y unas gotas de zumo de limón."
   ],
   nutricion: { kcal: 565, prot: 29, hc: 67, grasa: 19 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "alta en proteína", "poco especiada"],
@@ -824,11 +822,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño, pon un peso encima y deja que suelte agua 10 minutos. Mientras, corta las patatas en gajos y mézclalas con 1 cucharada de aceite de oliva, la mitad del pimentón y sal.",
-    "Cocina las patatas en la airfryer a 200 °C durante 20 minutos, agitando la cesta a mitad, hasta que estén doradas. Sácalas y mantenlas calientes.",
-    "Corta el tofu en dados de 2 cm, sálalo, mézclalo con el resto del aceite de oliva y rebózalo en la maicena con el resto del pimentón, sacudiendo el exceso.",
-    "Cocina el tofu a 200 °C 12–14 minutos, agitando dos veces, hasta que esté crujiente y dorado por todas las caras.",
-    "Mientras, tritura los piquillos con las almendras, el aceite de ajo, el vinagre, sal y 2 cucharadas de agua hasta obtener una salsa espesa y lisa.",
-    "Sirve el tofu y las patatas con la salsa de piquillos en la base y perejil picado por encima."
+    "Cocina las patatas en la airfryer a 200 °C durante 20 minutos, agitando la cesta a mitad, hasta que estén doradas. Mientras, corta el tofu en dados de 2 cm, sálalo, mézclalo con el resto del aceite de oliva y rebózalo en la maicena con el resto del pimentón, sacudiendo el exceso.",
+    "Aprovecha también para triturar los piquillos con las almendras, el aceite de ajo, el vinagre, sal y 2 cucharadas de agua hasta obtener una salsa espesa y lisa, y pica el perejil.",
+    "Saca las patatas y mantenlas calientes. Cocina el tofu a 200 °C 12–14 minutos, agitando dos veces, hasta que esté crujiente y dorado por todas las caras.",
+    "Sirve el tofu y las patatas con la salsa de piquillos en la base y el perejil por encima."
   ],
   nutricion: { kcal: 730, prot: 37, hc: 49, grasa: 43 },
   etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "vegano", "alta en proteína", "fácil", "verduras escondidas", "poco especiada"],
@@ -869,12 +866,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz lavado con 220 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo.",
-    "Corta la berenjena y el tofu escurrido en dados de 2 cm. Ralla el jengibre.",
+    "Mientras, corta la berenjena y el tofu escurrido en dados de 2 cm. Ralla el jengibre.",
     "Calienta el aceite de ajo en una cazuela y dora la berenjena con sal 6–7 minutos a fuego medio-alto, removiendo, hasta que esté tostada y empiece a ablandarse.",
     "Añade el jengibre, el comino y la cúrcuma y remueve 30 segundos. Incorpora el tomate y cuece 5 minutos, hasta que espese.",
-    "Vierte la leche de coco, añade el tofu y cuece a fuego suave 10 minutos tapado para que el tofu absorba la salsa.",
+    "Vierte la leche de coco, añade el tofu y cuece a fuego suave 10 minutos tapado para que el tofu absorba la salsa. Mientras, pica el cilantro.",
     "Añade las espinacas y el garam masala y remueve hasta que las espinacas mermen, 1–2 minutos. Prueba de sal.",
-    "Sirve con el arroz y cilantro fresco picado."
+    "Sirve con el arroz y el cilantro."
   ],
   nutricion: { kcal: 620, prot: 29, hc: 61, grasa: 29 },
   etiquetas: ["sin gluten", "bajo en fodmap", "vegano", "una sola olla", "tupper", "batch cooking", "fácil"],
@@ -911,11 +908,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava bien las patatas, pínchalas 6 u 8 veces con un tenedor y colócalas sobre papel de cocina en un plato apto.",
-    "Cocínalas en el microondas a máxima potencia 5 minutos, dales la vuelta y cocina 4–5 minutos más, hasta que un cuchillo entre sin resistencia. Deja reposar 2 minutos.",
+    "Cocínalas en el microondas a máxima potencia 5 minutos, dales la vuelta y cocina 4–5 minutos más, hasta que un cuchillo entre sin resistencia. Deja reposar 2 minutos. Mientras se hacen, parte los tomates cherry y pica el cebollino.",
     "En un bol apto pon las espinacas con una cucharada de agua, tapa y calienta 1 minuto hasta que mermen. Escúrrelas.",
     "Bate los huevos con sal y pimienta en el mismo bol, añade las espinacas y la mantequilla y cocina en tandas de 30 segundos, removiendo con un tenedor entre una y otra, hasta que estén cuajados pero cremosos (unos 2 minutos).",
     "Abre las patatas con un corte en cruz, aprieta los lados para esponjarlas y sala el interior.",
-    "Rellena con el revuelto, cubre con el cheddar, calienta 30 segundos para que se funda y termina con los tomates cherry partidos y cebollino picado."
+    "Rellena con el revuelto, cubre con el cheddar, calienta 30 segundos para que se funda y termina con los tomates cherry y el cebollino."
   ],
   nutricion: { kcal: 425, prot: 20, hc: 46, grasa: 18 },
   etiquetas: ["sin gluten", "bajo en fodmap", "microondas", "rápida", "para niños", "fácil", "poco especiada"],
@@ -956,11 +953,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los contramuslos en una cazuela con el agua fría, el laurel, el tomillo, una zanahoria pelada entera, los tallos del perejil y sal. Lleva a ebullición, retira la espuma y cuece a fuego suave 30 minutos, hasta que el pollo esté muy tierno.",
+    "Mientras, pela la otra zanahoria y córtala en rodajitas, corta el calabacín en dados pequeños y pica el cebollino y las hojas del perejil.",
     "Saca el pollo, desmenúzalo y retira laurel, tomillo, tallos y la zanahoria entera (puedes picarla y devolverla).",
-    "Corta la otra zanahoria en rodajitas y el calabacín en dados pequeños.",
-    "Lleva el caldo de nuevo a ebullición, añade el arroz y la zanahoria y cuece 12 minutos.",
+    "Lleva el caldo de nuevo a ebullición, añade el arroz y la zanahoria en rodajitas y cuece 12 minutos.",
     "Incorpora el calabacín y el pollo desmenuzado y cuece 4 minutos más, hasta que el arroz esté tierno.",
-    "Apaga, añade el zumo de medio limón y el aceite de ajo y ajusta de sal y pimienta. Sirve con cebollino y perejil picados."
+    "Apaga, añade el zumo de medio limón y el aceite de ajo y ajusta de sal y pimienta. Sirve con el cebollino y el perejil."
   ],
   nutricion: { kcal: 380, prot: 32, hc: 32, grasa: 14 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "tupper", "batch cooking", "invierno", "fácil", "poco especiada", "bajo en colesterol"],
@@ -996,10 +993,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la quinoa y cuécela con 120 ml de agua y sal 12 minutos tapada a fuego bajo. Extiéndela para que se enfríe.",
-    "Lava y seca las espinacas, corta las fresas en cuartos y el pepino en medias lunas finas.",
-    "Tuesta las semillas de calabaza en una sartén seca 2 minutos y resérvalas.",
-    "Bate el vinagre balsámico con el aceite, sal y pimienta.",
+    "Lava la quinoa y cuécela con 120 ml de agua y sal 12 minutos tapada a fuego bajo.",
+    "Mientras, lava y seca las espinacas, corta las fresas en cuartos y el pepino en medias lunas finas, y bate el vinagre balsámico con el aceite, sal y pimienta.",
+    "Extiende la quinoa para que se enfríe. Tuesta las semillas de calabaza en una sartén seca 2 minutos y resérvalas.",
     "Calienta bien la sartén antiadherente y marca las rodajas de queso de cabra 1 minuto por lado, solo hasta que se doren por fuera y empiecen a ablandarse.",
     "Mezcla espinacas, quinoa, fresas y pepino con la vinagreta, reparte en dos platos y coloca encima el queso caliente y las semillas."
   ],
@@ -1081,11 +1077,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta las patatas en rodajas de medio centímetro y el hinojo en láminas finas, reservando sus hojitas verdes.",
-    "Mezcla patatas e hinojo en una fuente con 2 cucharadas de aceite, el tomillo, sal y pimienta. Tapa con papel de aluminio y hornea 25 minutos, hasta que las patatas estén tiernas y como confitadas.",
-    "Destapa, sube a 210 °C, reparte encima media naranja en rodajas finas y las aceitunas y hornea 5 minutos más.",
-    "Coloca los lomos de lubina salpimentados con la piel hacia arriba sobre las verduras, píntalos con el resto del aceite y riega con el zumo de la otra media naranja.",
+    "Mezcla patatas e hinojo en una fuente con 2 cucharadas de aceite, el tomillo, sal y pimienta. Tapa con papel de aluminio y hornea 25 minutos, hasta que las patatas estén tiernas y como confitadas. Mientras, corta media naranja en rodajas finas, exprime la otra media y pica las hojitas de hinojo.",
+    "Destapa, sube a 210 °C, reparte encima las rodajas de naranja y las aceitunas y hornea 5 minutos más.",
+    "Coloca los lomos de lubina salpimentados con la piel hacia arriba sobre las verduras, píntalos con el resto del aceite y riega con el zumo de naranja.",
     "Hornea 8–10 minutos, hasta que la piel esté tersa y la carne blanca y jugosa.",
-    "Sirve con las hojitas de hinojo picadas y el jugo de la fuente por encima."
+    "Sirve con las hojitas de hinojo y el jugo de la fuente por encima."
   ],
   nutricion: { kcal: 560, prot: 36, hc: 46, grasa: 26 },
   etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "fácil", "poco especiada"],

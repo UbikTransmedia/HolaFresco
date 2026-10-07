@@ -37,12 +37,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la pechuga en una cazuela con 600 ml de agua, sal y media cebolla. Cuécela a fuego suave 20 minutos, hasta que esté hecha por dentro. Sácala, deja templar y deshiláchala con dos tenedores. Guarda el caldo.",
-    "Mientras, cuece la patata con piel y el huevo en otro cazo con agua y sal: el huevo 10 minutos y la patata 20-25, hasta que un cuchillo entre sin resistencia.",
-    "Remoja el pan desmigado en la leche 5 minutos y tritúralo con las nueces hasta tener una crema espesa y lisa.",
-    "En la sartén, sofríe con el aceite la otra media cebolla y el ajo muy picados a fuego medio-bajo 10 minutos, hasta que estén dorados y blanditos. Añade la pasta de ají, la cúrcuma y el comino y rehoga 2 minutos.",
+    "Mientras, cuece la patata con piel y el huevo en otro cazo con agua y sal: el huevo 10 minutos y la patata 20-25, hasta que un cuchillo entre sin resistencia. Mientras se cuece todo, remoja el pan desmigado en la leche y pica muy finos la otra media cebolla y el ajo.",
+    "Tritura el pan remojado y la leche con las nueces hasta tener una crema espesa y lisa.",
+    "Lava el arroz y ponlo a cocer en 200 ml de agua con sal y una gota de aceite, tapado, 12 minutos a fuego mínimo; luego deja reposar 5 minutos. Mientras, en la sartén, sofríe con el aceite la cebolla y el ajo picados a fuego medio-bajo 10 minutos, hasta que estén dorados y blanditos. Añade la pasta de ají, la cúrcuma y el comino y rehoga 2 minutos.",
     "Vierte la crema de pan y nueces y cocina removiendo 5 minutos a fuego bajo; aligera con unos 150 ml del caldo del pollo hasta que quede como una bechamel ligera.",
     "Incorpora el pollo deshilachado y el parmesano, remueve 3 minutos y salpimienta. Debe quedar cremoso y de un amarillo intenso.",
-    "Aparte, lava el arroz y cuécelo en 200 ml de agua con sal y una gota de aceite, tapado, 12 minutos a fuego mínimo; reposa 5 minutos.",
     "Sirve el ají sobre rodajas de patata, con el arroz al lado, el huevo duro en cuartos y las aceitunas por encima."
   ],
   nutricion: { kcal: 930, prot: 56, hc: 86, grasa: 40 },
@@ -82,12 +81,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz: lávalo, ponlo con 240 ml de agua, sal y una gota de aceite, tapa y cuece 12 minutos a fuego mínimo. Deja reposar tapado.",
+    "Cuece el arroz: lávalo, ponlo con 240 ml de agua, sal y una gota de aceite, tapa y cuece 12 minutos a fuego mínimo. Deja reposar tapado. Mientras, corta la carne en tiras gruesas, la cebolla y el tomate en gajos, y pica el ajo y el cilantro.",
     "Corta las patatas en bastones, sécalas bien y fríelas en abundante aceite a fuego medio 8 minutos; sácalas, sube el fuego y refríelas 2-3 minutos más hasta que estén doradas y crujientes. Escurre y sala.",
     "Seca la carne con papel, salpimiéntala y espolvorea el comino. Calienta el wok o la sartén grande al máximo con 1 cucharada de aceite.",
     "Saltea la carne en dos tandas, 1 minuto por tanda sin moverla al principio, hasta que esté dorada por fuera y rosada dentro. Sácala a un plato.",
     "En el mismo wok, con el resto del aceite, saltea la cebolla y el ajo 1 minuto a fuego fuerte: la cebolla debe quedar crujiente. Añade el ají amarillo y el tomate y saltea 1 minuto más, sin que el tomate se deshaga.",
-    "Devuelve la carne, riega con la soja y el vinagre por los bordes para que chisporrotee y mezcla 30 segundos. Apaga y añade el cilantro picado.",
+    "Devuelve la carne, riega con la soja y el vinagre por los bordes para que chisporrotee y mezcla 30 segundos. Apaga y añade el cilantro.",
     "Mezcla la mitad de las patatas con el salteado para que se empapen del jugo y sirve el resto encima, con el arroz al lado."
   ],
   nutricion: { kcal: 900, prot: 42, hc: 88, grasa: 42 },
@@ -129,8 +128,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Haz la masa: en un bol mezcla la harina con 1 cucharadita de sal y la manteca, frotando con los dedos hasta que parezca arena. Añade unos 100 ml de agua tibia poco a poco y amasa 3 minutos hasta tener una masa lisa que no se pegue. Tápala y deja reposar 30 minutos.",
-    "Mientras, pica fina la cebolla y el pimiento y sofríelos con el aceite a fuego medio 10 minutos, hasta que estén transparentes. Cuece 1 huevo 10 minutos y pícalo.",
-    "Sube el fuego, añade la carne y saltea 4-5 minutos desmenuzándola, solo hasta que pierda el color rosado. Apaga, añade comino, pimentón, sal y pimienta y la cebolleta picada. Deja enfriar del todo: el relleno frío es clave.",
+    "Mientras, pica fina la cebolla y el pimiento y sofríelos con el aceite a fuego medio 10 minutos, hasta que estén transparentes. Cuece 1 huevo 10 minutos y pícalo, y pica la cebolleta.",
+    "Sube el fuego, añade la carne y saltea 4-5 minutos desmenuzándola, solo hasta que pierda el color rosado. Apaga, añade comino, pimentón, sal y pimienta y la cebolleta. Deja enfriar del todo: el relleno frío es clave.",
     "Precalienta el horno a 210 °C. Estira la masa fina (2-3 mm) y corta 8 círculos de unos 12 cm con un plato pequeño, reamasando los recortes.",
     "Pon en cada disco una cucharada colmada de relleno, un trocito de huevo duro y una aceituna. Moja el borde con agua, cierra en media luna y haz el repulgue: pellizca y dobla el borde sobre sí mismo, o sella con un tenedor.",
     "Coloca las empanadas en la bandeja con papel, píntalas con el huevo batido y hornea 15-18 minutos, hasta que estén bien doradas.",
@@ -174,12 +173,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la falda en una cazuela con 1,5 l de agua, el laurel, sal y un trozo de cebolla. Cuécela a fuego suave, tapada a medias, 1 h 30 min, hasta que se deshaga en hebras al apretarla con un tenedor. Guarda el caldo.",
+    "Pon la falda en una cazuela con 1,5 l de agua, el laurel, sal y un trozo de cebolla. Cuécela a fuego suave, tapada a medias, 1 h 30 min, hasta que se deshaga en hebras al apretarla con un tenedor. Guarda el caldo. Mientras, pica la cebolla, el pimiento y el ajo y ralla el tomate.",
     "Deja templar la carne y desméchala a mano en hebras finas.",
-    "Pica la cebolla, el pimiento y el ajo. Sofríe dos tercios en la sartén con 2 cucharadas de aceite a fuego medio 10 minutos. Añade el tomate rallado y el comino y cocina 5 minutos más.",
-    "Incorpora la carne mechada y 150 ml del caldo y guisa 15 minutos a fuego bajo, hasta que la salsa se reduzca y envuelva la carne. Salpimienta.",
+    "Sofríe dos tercios de la picada en la sartén con 2 cucharadas de aceite a fuego medio 10 minutos. Añade el tomate rallado y el comino y cocina 5 minutos más.",
+    "Incorpora la carne mechada y 150 ml del caldo y guisa 15 minutos a fuego bajo, hasta que la salsa se reduzca y envuelva la carne. Salpimienta. Mientras, cuece el arroz lavado en 240 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y deja reposar.",
     "En un cazo, rehoga el resto del sofrito con 1 cucharadita de aceite, añade las caraotas con un chorrito de caldo y el azúcar y cocina 10 minutos aplastando unas pocas para espesar.",
-    "Cuece el arroz lavado en 240 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y deja reposar.",
     "Pela el plátano, córtalo en tajadas al bies de 1 cm y fríelo en la sartén con el aceite restante 3 minutos por lado a fuego medio, hasta que esté caramelizado y tierno.",
     "Sirve en cada plato arroz, carne mechada, caraotas con el queso rallado por encima y las tajadas de plátano."
   ],
@@ -218,9 +216,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una cazuela el pollo, las cebolletas en trozos, el ajo machacado, unas ramas de cilantro y 1,5 l de agua con sal. Lleva a ebullición, espuma y cuece a fuego suave 30 minutos, hasta que el pollo esté tierno.",
+    "Pon en una cazuela el pollo, las cebolletas en trozos, el ajo machacado, unas ramas de cilantro y 1,5 l de agua con sal. Lleva a ebullición, espuma y cuece a fuego suave 30 minutos, hasta que el pollo esté tierno. Mientras, pela las patatas: corta la harinosa en rodajas finas y la firme en trozos más grandes.",
     "Saca el pollo, deja templar, quita el hueso y desmenúzalo. Retira también la cebolleta y el cilantro del caldo.",
-    "Pela las patatas: corta la harinosa en rodajas finas y la firme en trozos más grandes. Échalas al caldo con la mazorca.",
+    "Echa las patatas al caldo con la mazorca.",
     "Cuece 35-40 minutos a fuego medio-bajo, removiendo de vez en cuando, hasta que la patata fina se deshaga y espese la sopa, y los trozos grandes queden enteros y tiernos.",
     "Añade las guascas (u orégano) y el pollo desmenuzado y cuece 5 minutos más. Rectifica de sal y pimienta: debe quedar espeso, casi como un guiso.",
     "Sirve en cuencos hondos con un trozo de mazorca cada uno, y pon en la mesa la nata, las alcaparras y el aguacate en láminas para que cada uno se sirva al gusto."
@@ -261,10 +259,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas enteras con piel en agua con sal 25-30 minutos, hasta que un cuchillo entre sin resistencia. A la vez, cuece el huevo 10 minutos y enfríalo en agua.",
+    "Cuece las patatas enteras con piel en agua con sal 25-30 minutos, hasta que un cuchillo entre sin resistencia. A la vez, cuece el huevo 10 minutos y enfríalo en agua. Mientras se cuecen las patatas, exprime las limas, pica la cebolla morada muy fina y mézclala con el atún desmigado, la mayonesa y unas gotas de lima.",
     "Pela las patatas aún calientes y pásalas por el pasapurés o aplástalas con un tenedor hasta que no quede ningún grumo. Deja templar.",
     "Amasa el puré con el aceite, la pasta de ají, el zumo de 1 lima y media, sal y pimienta. Debe quedar una masa lisa, amarilla, que no se pegue a las manos; prueba: tiene que estar bien sabrosa y ácida.",
-    "Pica la cebolla morada muy fina y mézclala con el atún desmigado, la mayonesa y unas gotas de lima. Lamina el aguacate y rocíalo con lima para que no se oscurezca.",
+    "Lamina el aguacate y rocíalo con lima para que no se oscurezca.",
     "Monta en un molde o en un vaso grande forrado con film: una capa de puré de 1,5 cm, el relleno de atún, las láminas de aguacate y otra capa de puré. Aprieta bien con una cuchara.",
     "Refrigera al menos 15 minutos, desmolda y decora con el huevo duro en rodajas, las aceitunas y el perejil."
   ],
@@ -306,12 +304,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela grande, dora la panceta a fuego medio 5 minutos sin aceite hasta que suelte su grasa. Añade la falda y dórala por todos lados 5 minutos más.",
-    "Incorpora la cebolla y el ajo picados y rehoga 8 minutos, hasta que estén blandos. Agrega el comino y 1 cucharadita de pimentón, remueve unos segundos y cubre con 1,2 l de agua caliente y el laurel.",
+    "En una cazuela grande, dora la panceta a fuego medio 5 minutos sin aceite hasta que suelte su grasa; mientras, pica la cebolla y el ajo. Añade la falda y dórala por todos lados 5 minutos más.",
+    "Incorpora la cebolla y el ajo y rehoga 8 minutos, hasta que estén blandos. Agrega el comino y 1 cucharadita de pimentón, remueve unos segundos y cubre con 1,2 l de agua caliente y el laurel.",
     "Cuece tapado a fuego suave 45 minutos, hasta que la carne empiece a estar tierna.",
-    "Añade la calabaza, el maíz, las judías y el chorizo. Cuece destapado a fuego muy suave 1 hora, removiendo a menudo desde el fondo para que no se pegue: la calabaza se deshará y espesará el locro hasta dejarlo cremoso. Si se seca, añade agua caliente.",
+    "Añade la calabaza, el maíz, las judías y el chorizo. Cuece destapado a fuego muy suave 1 hora, removiendo a menudo desde el fondo para que no se pegue: la calabaza se deshará y espesará el locro hasta dejarlo cremoso. Si se seca, añade agua caliente. Mientras, pica fina la parte verde de las cebolletas y la guindilla.",
     "Prueba y ajusta de sal. Debe quedar tan espeso que la cuchara casi se sostenga.",
-    "Para la grasita colorada, pica fina la parte verde de las cebolletas y la guindilla y calienta con el aceite a fuego bajo 2 minutos. Apaga y añade el resto del pimentón, removiendo para que no se queme.",
+    "Para la grasita colorada, calienta la cebolleta y la guindilla picadas con el aceite a fuego bajo 2 minutos. Apaga y añade el resto del pimentón, removiendo para que no se queme.",
     "Sirve el locro en cuencos hondos con una cucharada de grasita colorada por encima."
   ],
   nutricion: { kcal: 940, prot: 40, hc: 72, grasa: 55 },
@@ -354,11 +352,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la carne y dórala en la cazuela con el aceite a fuego fuerte, en dos tandas, 4-5 minutos por tanda, hasta que tenga costra. Sácala.",
-    "Baja a fuego medio y sofríe la cebolla, el pimiento y el ajo picados 10 minutos, hasta que estén blandos. Añade el tomate rallado, el pimentón y el orégano y cocina 5 minutos.",
-    "Devuelve la carne, añade el caldo caliente y el laurel, tapa y cuece a fuego suave 45 minutos.",
-    "Agrega la patata, el boniato y la calabaza en dados y la mazorca. Si hace falta, añade agua caliente justo hasta cubrir. Cuece 25 minutos más, hasta que la patata esté tierna y la calabaza empiece a deshacerse.",
-    "Añade el melocotón pelado en gajos los últimos 5 minutos, solo para que se temple. Rectifica de sal y pimienta.",
+    "Pica la cebolla, el pimiento y el ajo y ralla el tomate. Salpimienta la carne y dórala en la cazuela con el aceite a fuego fuerte, en dos tandas, 4-5 minutos por tanda, hasta que tenga costra. Sácala.",
+    "Baja a fuego medio y sofríe la cebolla, el pimiento y el ajo 10 minutos, hasta que estén blandos. Añade el tomate, el pimentón y el orégano y cocina 5 minutos.",
+    "Devuelve la carne, añade el caldo caliente y el laurel, tapa y cuece a fuego suave 45 minutos. Mientras, pela la patata y el boniato y córtalos en dados.",
+    "Agrega la patata, el boniato, la calabaza y la mazorca. Si hace falta, añade agua caliente justo hasta cubrir. Cuece 25 minutos más, hasta que la patata esté tierna y la calabaza empiece a deshacerse. Mientras, pela el melocotón y córtalo en gajos.",
+    "Añade el melocotón los últimos 5 minutos, solo para que se temple. Rectifica de sal y pimienta.",
     "Deja reposar 10 minutos fuera del fuego y sirve en platos hondos, con un trozo de mazorca para cada uno."
   ],
   nutricion: { kcal: 700, prot: 37, hc: 70, grasa: 30 },
@@ -398,11 +396,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Tritura el cilantro (hojas y tallos tiernos) con 100 ml de agua hasta tener un puré verde. Resérvalo.",
+    "Tritura el cilantro (hojas y tallos tiernos) con 100 ml de agua hasta tener un puré verde. Resérvalo y pica la cebolla y el ajo.",
     "Salpimienta el cordero y dóralo en la cazuela con el aceite a fuego fuerte 6-8 minutos, hasta que esté dorado. Sácalo.",
-    "En la misma grasa, sofríe a fuego medio la cebolla y el ajo picados 10 minutos. Añade el ají amarillo y el comino y rehoga 2 minutos.",
-    "Agrega el puré de cilantro y cocina 3 minutos, hasta que cambie a un verde más oscuro. Devuelve el cordero, vierte la cerveza y 200 ml de agua, tapa y cuece a fuego suave 1 hora.",
-    "Añade la zanahoria en rodajas y cuece 20 minutos; luego los guisantes, 5 minutos más. La carne debe estar tierna y la salsa espesa. Rectifica de sal.",
+    "En la misma grasa, sofríe a fuego medio la cebolla y el ajo 10 minutos. Añade el ají amarillo y el comino y rehoga 2 minutos.",
+    "Agrega el puré de cilantro y cocina 3 minutos, hasta que cambie a un verde más oscuro. Devuelve el cordero, vierte la cerveza y 200 ml de agua, tapa y cuece a fuego suave 1 hora. Mientras, corta la zanahoria en rodajas.",
+    "Añade la zanahoria y cuece 20 minutos; luego los guisantes, 5 minutos más. La carne debe estar tierna y la salsa espesa. Rectifica de sal.",
     "Mientras, cuece el arroz lavado en 200 ml de agua con sal, tapado, 12 minutos a fuego mínimo.",
     "Calienta las judías en un cazo con un par de cucharones de la salsa del seco, aplastando algunas, 5 minutos.",
     "Sirve el cordero con su salsa verde, el arroz y los frijoles al lado."
@@ -483,12 +481,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el cerdo en una cazuela con media cebolla, un diente de ajo, el orégano, sal y agua que lo cubra. Cuece tapado a fuego suave 45 minutos, hasta que esté tierno.",
+    "Pon el cerdo en una cazuela con media cebolla, un diente de ajo, el orégano, sal y agua que lo cubra. Cuece tapado a fuego suave 45 minutos, hasta que esté tierno. Mientras, pica los rábanos y el cilantro y mézclalos con el zumo de media lima y sal.",
     "Añade las alubias escurridas y 200 ml del caldo de la cocción (el resto déjalo en la cazuela). Cuece 15 minutos más para que tomen sabor.",
     "Mientras, cuece el arroz en el doble de agua con sal 15 minutos y déjalo reposar tapado.",
-    "Asa los tomates, la otra media cebolla, el ajo restante y el chile en una sartén seca 8 minutos, girándolos hasta que se tuesten. Tritúralos con sal y un chorrito del caldo.",
+    "Mientras se cuecen el arroz y las alubias, asa los tomates, la otra media cebolla, el ajo restante y el chile en una sartén seca 8 minutos, girándolos hasta que se tuesten. Tritúralos con sal y un chorrito del caldo.",
     "Calienta el aceite en la sartén y fríe la salsa 3 minutos, hasta que cambie de color y espese.",
-    "Pica los rábanos y el cilantro y mézclalos con el zumo de media lima y sal.",
     "Sirve los frijoles con la carne y su caldo en platos hondos, el arroz al lado, la salsa de tomate por encima, la picada de rábano y gajos de lima."
   ],
   nutricion: { kcal: 780, prot: 48, hc: 92, grasa: 22 },
@@ -529,12 +526,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pollo en una cazuela con el caldo, media cebolla, 1 diente de ajo, la canela, los clavos y el orégano. Cuece a fuego suave 20 minutos, hasta que el pollo esté hecho. Sácalo, desmenúzalo y cuela el caldo.",
-    "Precalienta el horno a 200 °C. Corta las tortillas en tiras finas, úntalas con 1/2 cucharada de aceite y hornéalas 8-10 minutos, hasta que estén doradas y crujientes.",
-    "En la cazuela limpia, sofríe con el aceite restante la otra media cebolla, el pimiento y el ajo picados a fuego medio 8 minutos. Añade el tomate picado y cocina 5 minutos, hasta que se ablande.",
-    "Vierte el caldo colado, añade la piel de media lima (sin la parte blanca) y cuece 10 minutos. Retira la piel: si la dejas más, amarga.",
+    "Pon el pollo en una cazuela con el caldo, media cebolla, 1 diente de ajo, la canela, los clavos y el orégano. Cuece a fuego suave 20 minutos, hasta que el pollo esté hecho. Mientras, precalienta el horno a 200 °C y pica la otra media cebolla, el pimiento, el ajo restante y el tomate. Saca el pollo, desmenúzalo y cuela el caldo.",
+    "Corta las tortillas en tiras finas, úntalas con 1/2 cucharada de aceite y hornéalas 8-10 minutos, hasta que estén doradas y crujientes.",
+    "En la cazuela limpia, sofríe con el aceite restante la cebolla, el pimiento y el ajo a fuego medio 8 minutos. Añade el tomate y cocina 5 minutos, hasta que se ablande.",
+    "Vierte el caldo colado, añade la piel de media lima (sin la parte blanca) y cuece 10 minutos; mientras, pica el cilantro y corta el chile en rodajas. Retira la piel: si la dejas más, amarga.",
     "Incorpora el pollo desmenuzado y el zumo de 2 limas. Prueba de sal: debe quedar ácida y muy aromática.",
-    "Sirve en cuencos con las tiras de tortilla por encima, cilantro picado, rodajas de chile y gajos de lima."
+    "Sirve en cuencos con las tiras de tortilla por encima, el cilantro, el chile y gajos de lima."
   ],
   nutricion: { kcal: 420, prot: 38, hc: 32, grasa: 16 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "bajo en colesterol"],
@@ -574,9 +571,9 @@ window.RECETAS_SEED.push({
     "Corta el calabacín en dados de 1,5 cm, pica la cebolla, el ajo y el chile, y trocea el tomate.",
     "Sofríe la cebolla, el ajo y el chile en la sartén con el aceite a fuego medio 5 minutos, hasta que la cebolla esté transparente.",
     "Añade el tomate y el orégano y cocina 4 minutos, aplastando, hasta que se haga salsa.",
-    "Incorpora el calabacín y el maíz, sala, tapa y cocina a fuego medio-bajo 8-10 minutos, hasta que el calabacín esté tierno pero aún entero. Si queda muy caldoso, destapa los últimos minutos.",
+    "Incorpora el calabacín y el maíz, sala, tapa y cocina a fuego medio-bajo 8-10 minutos, hasta que el calabacín esté tierno pero aún entero. Si queda muy caldoso, destapa los últimos minutos. Mientras, pica el cilantro.",
     "Apaga, reparte el queso fresco por encima y tapa 2 minutos para que se temple y se ablande un poco.",
-    "Calienta las tortillas en una sartén seca 30 segundos por lado y sirve las calabacitas con cilantro picado y las tortillas envueltas en un paño."
+    "Calienta las tortillas en una sartén seca 30 segundos por lado y sirve las calabacitas con el cilantro y las tortillas envueltas en un paño."
   ],
   nutricion: { kcal: 450, prot: 16, hc: 50, grasa: 21 },
   etiquetas: ["tradicional", "fácil", "económica", "verano", "rápida", "una sola sartén"],
@@ -615,12 +612,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga casi clara y escúrrelo muy bien. Tritura el tomate con la cebolla y el ajo hasta tener un puré fino.",
+    "Lava el arroz hasta que el agua salga casi clara y escúrrelo muy bien. Tritura el tomate con la cebolla y el ajo hasta tener un puré fino. Pela la zanahoria y córtala en dados pequeños.",
     "Calienta 1,5 cucharadas de aceite en una cazuela a fuego medio y fríe el arroz seco 4-5 minutos, removiendo, hasta que los granos estén dorados y suenen como arena.",
     "Vierte el puré de tomate y cocina 3 minutos removiendo, hasta que se oscurezca y casi se seque.",
     "Añade el caldo caliente, la zanahoria, los guisantes, el chile entero, las ramas de cilantro y sal. Lleva a ebullición, tapa y baja al mínimo 15 minutos, sin destapar.",
-    "Apaga y deja reposar tapado 5 minutos. Retira el chile y el cilantro y esponja con un tenedor.",
-    "Fríe los huevos en la sartén con el aceite restante, con puntilla. Sirve el arroz con el huevo encima, el aguacate en láminas y un gajo de lima."
+    "Apaga y deja reposar tapado 5 minutos. Mientras, fríe los huevos en la sartén con el aceite restante, con puntilla.",
+    "Retira el chile y el cilantro del arroz y esponja con un tenedor. Sírvelo con el huevo encima, el aguacate en láminas y un gajo de lima."
   ],
   nutricion: { kcal: 580, prot: 15, hc: 66, grasa: 28 },
   etiquetas: ["tradicional", "fácil", "económica", "saciante"],
@@ -656,15 +653,16 @@ window.RECETAS_SEED.push({
     { n: "lima", q: 2, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true },
     { n: "arroz basmati", q: 60, u: "g", opcional: true, nota: "para servir aparte" },
+    { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
     "Pon el ossobuco en una olla grande con 2 l de agua fría, media cebolla y 2 dientes de ajo. Lleva a ebullición y retira con una espumadera toda la espuma gris que sube durante los primeros 10 minutos.",
-    "Baja a fuego suave, tapa a medias y cuece 1 h 45 min, hasta que la carne esté tierna y se separe del hueso. Sala a media cocción.",
+    "Baja a fuego suave, tapa a medias y cuece 1 h 45 min, hasta que la carne esté tierna y se separe del hueso. Sala a media cocción. Mientras, pela la zanahoria y córtala en trozos grandes, pela la patata y córtala en cuartos, corta el calabacín y la col en gajos, pica el cilantro y el chile y corta las limas en gajos.",
     "Tritura el tomate con la otra media cebolla y el ajo restante, cuela y añádelo al caldo: le da color y cuerpo.",
-    "Añade la mazorca y la zanahoria en trozos grandes y cuece 15 minutos. Después la patata en cuartos, 10 minutos; y por último el calabacín y la col en gajos, 8 minutos más.",
+    "Añade la mazorca y la zanahoria y cuece 15 minutos. Después la patata, 10 minutos; y por último el calabacín y la col, 8 minutos más. Si vas a servir arroz, cuécelo mientras en 120 ml de agua con sal, tapado, 12 minutos a fuego mínimo.",
     "Comprueba que todo esté tierno, rectifica de sal y saca la carne del hueso en trozos grandes. No tires el tuétano: dáselo al más goloso sobre pan.",
-    "Sirve en platos hondos con un trozo de carne y de cada verdura, y pon en la mesa cilantro picado, gajos de lima, chile picado y, si quieres, arroz blanco para echar al caldo."
+    "Sirve en platos hondos con un trozo de carne y de cada verdura, y pon en la mesa el cilantro, los gajos de lima, el chile y, si quieres, el arroz blanco para echar al caldo."
   ],
   nutricion: { kcal: 600, prot: 42, hc: 61, grasa: 21 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "batch cooking"],
@@ -703,8 +701,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los frijoles reservando su líquido y completa con agua hasta tener 260 ml. Lava el arroz y escúrrelo.",
-    "En una cazuela, dora el bacon con 1/2 cucharada de aceite a fuego medio 4 minutos hasta que suelte la grasa. Añade la cebolla, el pimiento y el ajo picados y sofríe 8 minutos, hasta que estén blandos.",
+    "Escurre los frijoles reservando su líquido y completa con agua hasta tener 260 ml. Lava el arroz y escúrrelo. Pica la cebolla, el pimiento y el ajo.",
+    "En una cazuela, dora el bacon con 1/2 cucharada de aceite a fuego medio 4 minutos hasta que suelte la grasa. Añade la cebolla, el pimiento y el ajo y sofríe 8 minutos, hasta que estén blandos.",
     "Agrega el comino, el orégano y el laurel, remueve 30 segundos y añade el arroz. Rehoga 2 minutos para que se impregne.",
     "Incorpora los frijoles, el líquido reservado, el vinagre y sal. Cuando hierva, tapa y baja al mínimo 18 minutos, sin destapar.",
     "Apaga y deja reposar tapado 5-10 minutos; después esponja con un tenedor. El arroz debe quedar suelto y oscuro.",
@@ -749,11 +747,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz lavado en 160 ml de agua con sal, tapado, 12 minutos a fuego mínimo, y deja reposar.",
-    "Salpimienta el pescado y rocíalo con el zumo de media lima. Reserva mientras haces la base.",
-    "En una sartén ancha con tapa, sofríe con el aceite el ajo picado, el ají amarillo y el comino 1 minuto a fuego medio, sin que se queme.",
+    "Mientras se cuece el arroz, salpimienta el pescado y rocíalo con el zumo de media lima. Pica el ajo y el cilantro y corta la cebolla en plumas gruesas y el tomate en gajos.",
+    "En una sartén ancha con tapa, sofríe con el aceite el ajo, el ají amarillo y el comino 1 minuto a fuego medio, sin que se queme.",
     "Añade la mitad de la cebolla y del tomate, la cerveza y el caldo. Cuando hierva, coloca encima los trozos de pescado y cúbrelos con el resto de la cebolla y del tomate.",
     "Tapa y cuece a fuego suave 8-10 minutos, hasta que el pescado esté opaco y se separe en lascas, y la cebolla de arriba siga algo crujiente.",
-    "Apaga, añade el cilantro picado y el zumo de la otra media lima por encima. Sirve en platos hondos con bastante caldo y el arroz al lado para mojar."
+    "Apaga, añade el cilantro y el zumo de la otra media lima por encima. Sirve en platos hondos con bastante caldo y el arroz al lado para mojar."
   ],
   nutricion: { kcal: 450, prot: 40, hc: 44, grasa: 13 },
   etiquetas: ["tradicional", "fácil", "ligera", "una sola sartén", "bajo en colesterol"],
@@ -798,9 +796,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela grande, rehoga el cordero con el aceite, la cebolla en gajos, el jengibre, la cúrcuma, la canela, el azafrán, sal y pimienta a fuego medio 10 minutos, removiendo, hasta que la carne coja color y la cebolla se ablande.",
-    "Añade el tomate rallado y el manojo de cilantro y perejil atado. Cubre con 1,5 l de agua, tapa y cuece a fuego suave 1 hora.",
-    "Agrega la zanahoria y el nabo en bastones grandes y la col en un gajo; cuece 20 minutos. Después la calabaza y el calabacín en trozos grandes y los garbanzos; 15-20 minutos más, hasta que todo esté tierno pero entero.",
+    "Corta la cebolla en gajos y ralla el tomate. En una cazuela grande, rehoga el cordero con el aceite, la cebolla, el jengibre, la cúrcuma, la canela, el azafrán, sal y pimienta a fuego medio 10 minutos, removiendo, hasta que la carne coja color y la cebolla se ablande.",
+    "Añade el tomate rallado y el manojo de cilantro y perejil atado. Cubre con 1,5 l de agua, tapa y cuece a fuego suave 1 hora. Mientras, pela la zanahoria y el nabo y córtalos en bastones grandes, corta la col en un gajo y la calabaza y el calabacín en trozos grandes.",
+    "Agrega la zanahoria, el nabo y la col; cuece 20 minutos. Después la calabaza, el calabacín y los garbanzos; 15-20 minutos más, hasta que todo esté tierno pero entero.",
     "Mientras, pon el cuscús en un bol amplio con una pizca de sal y 1 cucharadita de aceite, y frótalo entre las manos. Cúbrelo con 160 ml del caldo hirviendo del guiso, tapa con un plato y deja 10 minutos.",
     "Desgrana el cuscús con un tenedor y luego con las manos untadas en la mantequilla, deshaciendo los grumos. Si quieres que quede más esponjoso, ponlo 10 minutos en un colador sobre la cazuela del guiso, tapado, para que reciba el vapor.",
     "Retira el manojo de hierbas y rectifica de sal el caldo, que debe ser abundante y sabroso.",
@@ -887,10 +885,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Tuesta las nueces en una sartén seca a fuego medio-bajo 5-6 minutos, removiendo, hasta que huelan. Deja enfriar y tritúralas hasta tener una harina húmeda, casi una pasta.",
     "En una cazuela, pon la nuez molida con 500 ml de agua y cuece a fuego muy suave 30 minutos, removiendo a menudo para que no se pegue, hasta que se oscurezca y empiece a soltar su aceite.",
-    "Mientras, dora el pollo salpimentado en la sartén con el aceite 3 minutos por lado. Sácalo y en la misma grasa sofríe la cebolla picada con la cúrcuma 8 minutos, hasta que esté dorada.",
-    "Añade a la cazuela de las nueces la cebolla, el pollo, la melaza de granada y la canela. Cuece tapado a fuego mínimo 45 minutos, removiendo de vez en cuando; si espesa demasiado, añade un chorrito de agua.",
+    "Mientras, pica la cebolla y dora el pollo salpimentado en la sartén con el aceite 3 minutos por lado. Sácalo y en la misma grasa sofríe la cebolla con la cúrcuma 8 minutos, hasta que esté dorada.",
+    "Añade a la cazuela de las nueces la cebolla, el pollo, la melaza de granada y la canela. Cuece tapado a fuego mínimo 45 minutos, removiendo de vez en cuando; si espesa demasiado, añade un chorrito de agua. A falta de 20 minutos, cuece el arroz lavado en 240 ml de agua con sal y la mantequilla, tapado, 12 minutos a fuego mínimo, y deja reposar 5 minutos.",
     "Prueba la salsa: debe ser agridulce, oscura y brillante. Equilibra con el azúcar si está muy ácida o con más melaza si está muy dulce, y ajusta de sal.",
-    "Cuece el arroz lavado en 240 ml de agua con sal y la mantequilla, tapado, 12 minutos a fuego mínimo, y deja reposar 5 minutos.",
     "Sirve el fesenjan sobre el arroz y esparce los granos de granada por encima."
   ],
   nutricion: { kcal: 1030, prot: 40, hc: 82, grasa: 60 },
@@ -925,9 +922,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pincha las berenjenas con un tenedor y ásalas enteras en el horno a 230 °C (o directamente sobre el fuego de gas) 30-35 minutos, dándoles la vuelta a media cocción, hasta que la piel esté arrugada y quemada y la pulpa se hunda al tocarla.",
+    "Precalienta el horno a 230 °C. Pincha las berenjenas con un tenedor y ásalas enteras en el horno (o directamente sobre el fuego de gas) 30-35 minutos, dándoles la vuelta a media cocción, hasta que la piel esté arrugada y quemada y la pulpa se hunda al tocarla. Mientras, pela los tomates (escáldalos 30 segundos si hace falta) y pícalos, y lamina el ajo.",
     "Déjalas templar en un bol tapado 5 minutos, pélalas y pica la pulpa con un cuchillo hasta que quede como un puré grueso.",
-    "Pela los tomates (escáldalos 30 segundos si hace falta) y pícalos. Lamina el ajo.",
     "Calienta el aceite en la sartén a fuego medio y dora el ajo 1 minuto con la cúrcuma, sin que se queme. Añade la berenjena y cocina 5 minutos removiendo, hasta que se seque un poco.",
     "Agrega el tomate, sal y pimienta y cocina 8-10 minutos, hasta que el tomate se deshaga y todo quede como una crema espesa.",
     "Abre huecos, casca los huevos, espera 1 minuto y remueve suavemente para que cuajen en hebras dentro de la berenjena, 2-3 minutos más. Sirve templado con el pan de pita caliente."
@@ -967,11 +963,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias, cúbrelas con agua fría en una cazuela, lleva a ebullición, cuece 5 minutos y tira el agua. Vuelve a cubrirlas con 1 l de agua limpia y cuece a fuego suave 1 hora, hasta que estén casi tiernas.",
-    "En otra cazuela, derrite 20 g de mantequilla con el aceite y sofríe la cebolla y el pimiento picados a fuego medio 10 minutos, hasta que estén blandos.",
+    "Escurre las alubias (puestas en remojo la víspera), cúbrelas con agua fría en una cazuela, lleva a ebullición, cuece 5 minutos y tira el agua. Vuelve a cubrirlas con 1 l de agua limpia y cuece a fuego suave 1 hora, hasta que estén casi tiernas. Mientras, pica la cebolla y el pimiento y ralla el tomate.",
+    "En otra cazuela, derrite 20 g de mantequilla con el aceite y sofríe la cebolla y el pimiento a fuego medio 10 minutos, hasta que estén blandos.",
     "Añade el tomate concentrado y el pimentón y rehoga 2 minutos, hasta que el concentrado se oscurezca. Agrega el tomate rallado y cocina 3 minutos.",
     "Pasa las alubias con unos 500 ml de su caldo a la cazuela del sofrito. Sala y cuece a fuego suave 30-40 minutos más, hasta que estén muy tiernas y la salsa espesa y anaranjada.",
-    "Para el pilav, lava el arroz y déjalo en agua 10 minutos. Derrite 15 g de mantequilla en un cazo y tuesta los fideos 2 minutos, removiendo, hasta que estén dorados.",
+    "Mientras, prepara el pilav: lava el arroz y déjalo en agua 10 minutos. Derrite 15 g de mantequilla en un cazo y tuesta los fideos 2 minutos, removiendo, hasta que estén dorados.",
     "Añade el arroz escurrido, rehoga 1 minuto, vierte 200 ml de agua caliente con sal, tapa y cuece a fuego mínimo 12 minutos. Apaga, pon un paño bajo la tapa y deja reposar 10 minutos.",
     "Sirve las alubias en plato hondo con el pilav al lado y, si quieres, una pizca de menta seca por encima."
   ],
@@ -1008,10 +1004,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla el yogur con el ajo rallado y una pizca de sal. Repártelo en dos platos hondos y deja que pierda el frío mientras escalfas.",
-    "Pon agua a hervir en un cazo con el vinagre y baja a fuego suave, que apenas burbujee. Casca cada huevo en una taza.",
+    "Pon agua a hervir en un cazo con el vinagre y, mientras se calienta, pica el eneldo. Cuando hierva, baja a fuego suave, que apenas burbujee. Casca cada huevo en una taza.",
     "Remueve el agua para hacer un remolino y desliza un huevo en el centro. Cuece 3 minutos, hasta que la clara esté cuajada y la yema líquida. Sácalo con una espumadera y escúrrelo en papel. Repite con los demás, de dos en dos.",
     "Derrite la mantequilla en una sartén pequeña a fuego medio hasta que haga espuma y empiece a oler a avellana. Apaga y añade el pimentón; remueve unos segundos.",
-    "Coloca 2 huevos en cada plato sobre el yogur, riega con la mantequilla roja y espolvorea el eneldo picado. Tuesta el pan y sírvelo para mojar."
+    "Coloca 2 huevos en cada plato sobre el yogur, riega con la mantequilla roja y espolvorea el eneldo. Tuesta el pan y sírvelo para mojar."
   ],
   nutricion: { kcal: 455, prot: 23, hc: 32, grasa: 26 },
   etiquetas: ["tradicional", "fácil", "económica", "rápida", "ligera", "sin verduras"],
@@ -1051,8 +1047,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz en varias aguas hasta que salga clara y déjalo en remojo con agua y sal 20 minutos. Pica muy finas todas las hierbas y el ajo.",
-    "Hierve 1,5 l de agua con una cucharada de sal, echa el arroz escurrido y cuécelo 6 minutos, hasta que esté blando por fuera pero con el centro aún duro. Escúrrelo y mézclalo con las hierbas y el ajo.",
+    "Lava el arroz en varias aguas hasta que salga clara y déjalo en remojo con agua y sal 20 minutos. Mientras, pon a hervir 1,5 l de agua con una cucharada de sal y pica muy finas todas las hierbas y el ajo.",
+    "Echa el arroz escurrido en el agua hirviendo y cuécelo 6 minutos, hasta que esté blando por fuera pero con el centro aún duro. Escúrrelo y mézclalo con las hierbas y el ajo.",
     "En una cazuela antiadherente, calienta 1 cucharada de aceite y 10 g de mantequilla. Cubre el fondo con una capa fina de arroz con hierbas, apretando: será la costra (tahdig). Pon el resto del arroz encima formando una montaña.",
     "Haz 4 agujeros con el mango de una cuchara, reparte encima el resto de la mantequilla en trocitos (y el azafrán disuelto en 2 cucharadas de agua caliente). Envuelve la tapa en un paño, tapa bien y cuece 5 minutos a fuego medio y luego 30 minutos a fuego mínimo.",
     "Mientras, seca el pescado, salpimiéntalo y pásalo por la harina mezclada con la cúrcuma, sacudiendo el exceso.",
@@ -1096,9 +1092,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cubre el bulgur con agua fría 15 minutos, escúrrelo y apriétalo con las manos para quitarle toda el agua.",
-    "Para el relleno, sofríe una cebolla picada con el aceite a fuego medio 8 minutos. Añade 100 g de carne y los piñones y cocina 5 minutos, desmenuzando, hasta que la carne esté hecha. Sazona con la mitad de la canela y de la pimienta de Jamaica, sal y pimienta.",
-    "Para la masa, tritura la otra cebolla en trozos en la picadora. Añade 200 g de carne, el bulgur, el comino, el resto de especias y 1 cucharadita de sal, y pica a golpes hasta obtener una pasta homogénea. Si se pega, mójate las manos con agua fría.",
+    "Cubre el bulgur con agua fría 15 minutos; mientras, pica una cebolla y trocea la otra. Escúrrelo y apriétalo con las manos para quitarle toda el agua.",
+    "Para el relleno, sofríe la cebolla picada con el aceite a fuego medio 8 minutos. Añade 100 g de carne y los piñones y cocina 5 minutos, desmenuzando, hasta que la carne esté hecha. Sazona con la mitad de la canela y de la pimienta de Jamaica, sal y pimienta.",
+    "Para la masa, tritura la otra cebolla en la picadora. Añade 200 g de carne, el bulgur, el comino, el resto de especias y 1 cucharadita de sal, y pica a golpes hasta obtener una pasta homogénea. Si se pega, mójate las manos con agua fría.",
     "Precalienta el horno a 200 °C. Unta con mantequilla una fuente de unos 20 cm. Extiende la mitad de la masa en el fondo, aplanando con las manos mojadas, cubre con el relleno y tapa con el resto de la masa, alisando bien.",
     "Corta la superficie en rombos con un cuchillo, llegando hasta el fondo, haz un agujero en el centro y riega con la mantequilla derretida.",
     "Hornea 25-30 minutos, hasta que esté dorado y crujiente en los bordes.",

@@ -34,11 +34,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pavo y espolvoréalo con la mitad del comino. Calienta el aceite en una sartén honda a fuego medio-alto y dóralo 5 minutos, hasta que tome color por todas las caras. Sácalo a un plato.",
-    "En la misma sartén, baja a fuego medio y sofríe el hinojo y la cebolla morada en tiras 7 minutos, hasta que el hinojo empiece a dorarse por los bordes y esté tierno.",
-    "Añade el ajo laminado, el resto del comino y el pimentón; remueve 30 segundos sin que se queme.",
-    "Incorpora los garbanzos, el pavo con su jugo, el zumo de naranja y el caldo. Cuece 10 minutos a fuego suave, hasta que el pavo esté hecho por dentro y el caldo haya reducido a la mitad.",
-    "Apaga el fuego, añade la ralladura de naranja y prueba de sal. Deja templar 10 minutos antes de repartir en los tuppers y espolvorea el perejil picado justo antes de cerrar."
+    "Corta la cebolla morada en tiras y lamina el ajo. Salpimienta el pavo y espolvoréalo con la mitad del comino. Calienta el aceite en una sartén honda a fuego medio-alto y dóralo 5 minutos, hasta que tome color por todas las caras. Sácalo a un plato.",
+    "En la misma sartén, baja a fuego medio y sofríe el hinojo y la cebolla morada 7 minutos, hasta que el hinojo empiece a dorarse por los bordes y esté tierno.",
+    "Añade el ajo, el resto del comino y el pimentón; remueve 30 segundos sin que se queme.",
+    "Incorpora los garbanzos, el pavo con su jugo, el zumo de naranja y el caldo. Cuece 10 minutos a fuego suave, hasta que el pavo esté hecho por dentro y el caldo haya reducido a la mitad. Mientras, pica el perejil.",
+    "Apaga el fuego, añade la ralladura de naranja y prueba de sal. Deja templar 10 minutos antes de repartir en los tuppers y espolvorea el perejil justo antes de cerrar."
   ],
   nutricion: { kcal: 522, prot: 38, hc: 52, grasa: 18 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "una sola sartén", "fácil", "batch cooking", "poco especiada"],
@@ -78,8 +78,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio-alto y dora las rodajas de salchicha 4 minutos, hasta que estén tostadas. Sácalas y deja la grasa en la cazuela.",
-    "Sofríe la cebolla picada, la zanahoria en medias lunas y el ajo 8 minutos a fuego medio, hasta que la cebolla esté transparente.",
+    "Pica la cebolla y el ajo y corta la zanahoria en medias lunas. Calienta el aceite en una cazuela a fuego medio-alto y dora las rodajas de salchicha 4 minutos, hasta que estén tostadas. Sácalas y deja la grasa en la cazuela.",
+    "Sofríe la cebolla, la zanahoria y el ajo 8 minutos a fuego medio, hasta que la cebolla esté transparente.",
     "Añade el tomate triturado y cocina 4 minutos, hasta que oscurezca. Aparta del fuego, incorpora el pimentón ahumado y remueve 20 segundos.",
     "Agrega el repollo, el laurel y el caldo. Tapa y cuece 10 minutos a fuego medio, hasta que el repollo esté tierno.",
     "Incorpora las alubias y la salchicha y cuece 8 minutos más destapado. Aplasta unas cuantas alubias contra la pared de la cazuela para que el caldo espese.",
@@ -121,11 +121,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon las rodajas de patata y las judías verdes troceadas en un recipiente apto para microondas con 3 cucharadas de agua y una pizca de sal. Tapa y cocina 8 minutos a 800 W, hasta que la patata se deje pinchar sin resistencia.",
-    "Mientras, calienta el aceite en una cazuela a fuego medio y pocha la cebolla y el ajo picados 6 minutos, hasta que estén blandos.",
+    "Pica la cebolla y el ajo. Pon las rodajas de patata y las judías verdes troceadas en un recipiente apto para microondas con 3 cucharadas de agua y una pizca de sal. Tapa y cocina 8 minutos a 800 W, hasta que la patata se deje pinchar sin resistencia.",
+    "Mientras, calienta el aceite en una cazuela a fuego medio y pocha la cebolla y el ajo 6 minutos, hasta que estén blandos.",
     "Añade los pimientos asados, las almendras y el caldo; cuece 3 minutos y tritura con la batidora hasta obtener una salsa lisa.",
-    "Devuelve la salsa a la cazuela, sazona el rape e introdúcelo. Cuece tapado 5-6 minutos a fuego suave, hasta que el pescado esté opaco por dentro.",
-    "Incorpora la patata y las judías a la cazuela, mueve con suavidad para que se impregnen y termina con perejil picado."
+    "Devuelve la salsa a la cazuela, sazona el rape e introdúcelo. Cuece tapado 5-6 minutos a fuego suave, hasta que el pescado esté opaco por dentro. Mientras, pica el perejil.",
+    "Incorpora la patata y las judías a la cazuela, mueve con suavidad para que se impregnen y termina con el perejil."
   ],
   nutricion: { kcal: 406, prot: 32, hc: 38, grasa: 14 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "ligera", "alta en proteína", "microondas", "fácil", "detox", "poco especiada", "bajo en colesterol"],
@@ -164,8 +164,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en abundante agua con sal 11 minutos; añade las judías verdes en los últimos 6 minutos. Escurre todo junto.",
-    "Mientras, calienta el aceite en una sartén a fuego medio-alto, sala el pavo y saltéalo 4 minutos, hasta que esté dorado por fuera. Sácalo.",
-    "Baja a fuego medio y pocha la cebolla picada con el jengibre rallado 5 minutos. Añade el curry y remueve 30 segundos.",
+    "Mientras, pica la cebolla y ralla el jengibre. Calienta el aceite en una sartén a fuego medio-alto, sala el pavo y saltéalo 4 minutos, hasta que esté dorado por fuera. Sácalo.",
+    "Baja a fuego medio y pocha la cebolla con el jengibre 5 minutos. Añade el curry y remueve 30 segundos.",
     "Agrega la mitad del mango y 100 ml de agua; cuece 4 minutos aplastando el mango con la cuchara hasta que forme una salsa.",
     "Devuelve el pavo, cocina 2 minutos y aparta del fuego. Espera 1 minuto e incorpora el yogur removiendo para que no se corte. Añade el resto del mango en dados."
   ],
@@ -209,10 +209,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa en un colador y cuécela en el doble de su volumen de agua con sal 12 minutos tapada a fuego suave. Apaga y deja reposar 5 minutos tapada.",
-    "Deslíe la pasta de achiote en el zumo de naranja con el ajo rallado, el comino y el zumo de media lima. Marina el tempeh en esta mezcla mientras cortas las verduras.",
-    "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y saltea los pimientos en tiras y la cebolla morada 6 minutos, hasta que estén tiernos pero con algo de mordida. Añade el maíz 1 minuto y reserva.",
+    "Mientras, ralla el ajo y deslíe la pasta de achiote en el zumo de naranja con el ajo, el comino y el zumo de media lima. Marina el tempeh en esta mezcla mientras cortas los pimientos en tiras y la cebolla morada en juliana y picas el cilantro.",
+    "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y saltea los pimientos y la cebolla morada 6 minutos, hasta que estén tiernos pero con algo de mordida. Añade el maíz 1 minuto y reserva.",
     "En la misma sartén, con el resto del aceite, dora el tempeh escurrido 5 minutos. Vierte la marinada y deja reducir 2 minutos, hasta que lo glasee.",
-    "Mezcla la quinoa con las verduras, coloca encima el tempeh y termina con el cilantro picado y el resto de la lima."
+    "Mezcla la quinoa con las verduras, coloca encima el tempeh y termina con el cilantro y el resto de la lima."
   ],
   nutricion: { kcal: 566, prot: 30, hc: 62, grasa: 22 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "alta en proteína", "fácil", "superalimentos", "bajo en colesterol"],
@@ -253,8 +253,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el farro en abundante agua con sal 25 minutos, hasta que esté tierno pero entero y con mordida. Escúrrelo y enfríalo bajo el grifo.",
     "Mientras, salpimienta la pechuga, espolvoréala con el tomillo y hazla en una sartén con un hilo de aceite 5-6 minutos por cada lado a fuego medio, hasta que el centro deje de estar rosado. Déjala reposar 5 minutos y córtala en dados.",
-    "Bate en un tarro la mostaza, el vinagre, el resto del aceite, sal y pimienta hasta que emulsione.",
-    "En un bol mezcla el farro, el pollo, el apio en rodajas finas y las uvas. Aliña con dos tercios de la vinagreta.",
+    "Mientras se hace el pollo, corta el apio en rodajas finas y bate en un tarro la mostaza, el vinagre, el resto del aceite, sal y pimienta hasta que emulsione.",
+    "En un bol mezcla el farro, el pollo, el apio y las uvas. Aliña con dos tercios de la vinagreta.",
     "Reparte en los tuppers y pon encima los canónigos y las avellanas sin mezclar."
   ],
   nutricion: { kcal: 564, prot: 38, hc: 58, grasa: 20 },
@@ -295,9 +295,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece la pasta en abundante agua con sal el tiempo que marque el paquete menos 1 minuto. En los últimos 3 minutos añade el brócoli a la misma olla.",
-    "Mientras, en un bol grande mezcla el aceite con el ajo rallado, la ralladura y el zumo del limón, la guindilla, las alcaparras y pimienta.",
+    "Mientras, ralla el ajo y, en un bol grande, mézclalo con el aceite, la ralladura y el zumo del limón, la guindilla, las alcaparras y pimienta. Parte los cherrys y pica el perejil.",
     "Escurre la pasta y el brócoli reservando un chorrito del agua de cocción y pásalos al bol. Mezcla bien para que el calor abra el aroma del ajo y el limón.",
-    "Incorpora la caballa en lascas grandes, los tomates cherry partidos y el perejil picado. Mezcla con cuidado para no deshacer el pescado y añade 2 cucharadas del agua de cocción si la ves seca."
+    "Incorpora la caballa en lascas grandes, los tomates cherry y el perejil. Mezcla con cuidado para no deshacer el pescado y añade 2 cucharadas del agua de cocción si la ves seca."
   ],
   nutricion: { kcal: 578, prot: 32, hc: 72, grasa: 18 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "fácil", "alta en proteína", "económica", "superalimentos", "bajo en colesterol"],
@@ -336,10 +336,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela con los huevos en la misma cazuela, en abundante agua con sal, 11 minutos. Saca los huevos a un bol con agua fría y escurre la quinoa.",
-    "Pon el brócoli en arbolitos en un recipiente para microondas con 2 cucharadas de agua, tapa y cocina 3 minutos a 800 W, hasta que esté verde intenso y tierno pero firme.",
+    "Mientras se cuece, corta el brócoli en arbolitos y ponlo en un recipiente para microondas con 2 cucharadas de agua; tapa y cocina 3 minutos a 800 W, hasta que esté verde intenso y tierno pero firme.",
     "Mezcla el yogur con el curry, el zumo del limón, una pizca de sal y 1 cucharada de agua hasta tener una salsa fluida.",
-    "En un bol combina la quinoa, las lentejas, la zanahoria rallada y el brócoli. Aliña con el aceite y una pizca de sal.",
-    "Reparte en los tuppers, coloca encima los huevos pelados y partidos en cuartos y espolvorea las semillas de calabaza."
+    "Pela los huevos y pártelos en cuartos. En un bol combina la quinoa, las lentejas, la zanahoria rallada y el brócoli. Aliña con el aceite y una pizca de sal.",
+    "Reparte en los tuppers, coloca encima los huevos y espolvorea las semillas de calabaza."
   ],
   nutricion: { kcal: 448, prot: 26, hc: 50, grasa: 16 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "ligera", "vegetariana", "fácil", "rápida", "superalimentos"],
@@ -377,8 +377,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta 1 cucharada de aceite en una cazuela a fuego medio y pocha el puerro en rodajas y el ajo 6 minutos, hasta que estén blandos sin dorarse.",
-    "Añade la patata en dados pequeños, el tallo del brócoli picado y el caldo. Lleva a ebullición y cuece 8 minutos.",
+    "Corta el puerro en rodajas y pica el ajo. Calienta 1 cucharada de aceite en una cazuela a fuego medio y pocha ambos 6 minutos, hasta que estén blandos sin dorarse. Mientras, pela la patata y córtala en dados pequeños, y pica el tallo del brócoli.",
+    "Añade la patata, el tallo del brócoli y el caldo. Lleva a ebullición y cuece 8 minutos.",
     "Incorpora los arbolitos de brócoli y las alubias y cuece 5 minutos más, solo hasta que el brócoli esté tierno y siga verde.",
     "Tritura con la batidora hasta obtener una crema lisa. Sazona con sal, pimienta y nuez moscada; si la ves espesa, añade un poco de agua caliente.",
     "Sirve o reparte en los tuppers con un hilo del aceite restante; las semillas de calabaza van aparte."
@@ -422,9 +422,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos, hasta que esté tierno. Escúrrelo.",
-    "Mientras, mezcla el tamari, el vinagre, la miel, el jengibre y el ajo rallados, la maicena y 4 cucharadas de agua.",
+    "Mientras, ralla el jengibre y el ajo y mézclalos con el tamari, el vinagre, la miel, la maicena y 4 cucharadas de agua. Corta las judías verdes en tramos.",
     "Calienta el aceite de oliva en una sartén grande a fuego alto y saltea el pollo 5 minutos, hasta que esté dorado. Sácalo.",
-    "En la misma sartén saltea las judías verdes en tramos y la zanahoria 5 minutos con 2 cucharadas de agua, hasta que estén tiernas pero crujientes.",
+    "En la misma sartén saltea las judías verdes y la zanahoria 5 minutos con 2 cucharadas de agua, hasta que estén tiernas pero crujientes.",
     "Devuelve el pollo, vierte la salsa y remueve 1-2 minutos, hasta que espese y lo cubra todo con brillo. Apaga, añade el aceite de sésamo y el sésamo tostado."
   ],
   nutricion: { kcal: 558, prot: 40, hc: 68, grasa: 14 },
@@ -466,11 +466,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una sartén honda a fuego medio-alto y dora el pavo picado 5 minutos, deshaciéndolo con la cuchara, hasta que pierda el color rosado.",
-    "Añade la cebolla y el ajo picados y cocina 4 minutos. Incorpora el comino, el orégano y el chipotle y remueve 30 segundos.",
-    "Agrega el tomate triturado y el calabacín y cuece 8 minutos a fuego medio, hasta que el calabacín esté tierno.",
+    "Pica la cebolla y el ajo. Calienta el aceite en una sartén honda a fuego medio-alto y dora el pavo picado 5 minutos, deshaciéndolo con la cuchara, hasta que pierda el color rosado.",
+    "Añade la cebolla y el ajo y cocina 4 minutos. Incorpora el comino, el orégano y el chipotle y remueve 30 segundos.",
+    "Agrega el tomate triturado y el calabacín y cuece 8 minutos a fuego medio, hasta que el calabacín esté tierno. Mientras, pica el cilantro.",
     "Incorpora las alubias y el maíz con 50 ml de agua y cuece 5 minutos más, hasta que la salsa espese y envuelva las alubias.",
-    "Prueba de sal, exprime la lima y termina con cilantro picado."
+    "Prueba de sal, exprime la lima y termina con el cilantro."
   ],
   nutricion: { kcal: 502, prot: 40, hc: 54, grasa: 14 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "una sola sartén", "picante", "fácil", "batch cooking"],
@@ -510,10 +510,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos y escúrrelo.",
-    "Mezcla el tamari, el jengibre, el ajo rallado, la miel, el aceite de sésamo y el de oliva.",
+    "Mientras, ralla el ajo y mézclalo con el tamari, el jengibre, la miel, el aceite de sésamo y el de oliva. Corta la cebolleta en aros.",
     "Coloca los filetes de trucha con la piel hacia abajo en una fuente apta para microondas, con el pak choi y la zanahoria alrededor. Riega todo con la salsa.",
     "Tapa con film perforado o una tapa de microondas y cocina 5-6 minutos a 800 W, hasta que la trucha esté opaca y se separe en lascas al presionarla.",
-    "Deja reposar 2 minutos tapado, espolvorea el sésamo y la cebolleta en aros y reparte sobre el arroz con todo el jugo de la fuente."
+    "Deja reposar 2 minutos tapado, espolvorea el sésamo y la cebolleta y reparte sobre el arroz con todo el jugo de la fuente."
   ],
   nutricion: { kcal: 688, prot: 42, hc: 76, grasa: 24 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "alta en proteína", "fácil", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -597,11 +597,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. En un bol mezcla el pollo con el huevo, el pan rallado, un ajo rallado, el perejil picado, sal y pimienta. Forma 14-16 albóndigas con las manos húmedas.",
-    "Colócalas en una bandeja con papel junto al calabacín en dados regado con 1 cucharada de aceite. Hornea 15 minutos, hasta que las albóndigas estén doradas.",
-    "Mientras, en una cazuela con el resto del aceite pocha la cebolla y el otro ajo 6 minutos. Añade el pimentón, los pimientos y el tomate y cuece 8 minutos. Tritura hasta que quede fina.",
+    "Precalienta el horno a 210 °C. Ralla un ajo, pica el perejil y corta el calabacín en dados. En un bol mezcla el pollo con el huevo, el pan rallado, el ajo rallado, el perejil, sal y pimienta. Forma 14-16 albóndigas con las manos húmedas.",
+    "Colócalas en una bandeja con papel junto al calabacín regado con 1 cucharada de aceite. Hornea 15 minutos, hasta que las albóndigas estén doradas.",
+    "Mientras, pica la cebolla y el otro ajo y pocha ambos en una cazuela con el resto del aceite 6 minutos. Añade el pimentón, los pimientos y el tomate y cuece 8 minutos. Tritura hasta que quede fina.",
     "Pasa las albóndigas a la salsa y cuece todo junto 5 minutos a fuego suave para que se impregnen.",
-    "Pon el cuscús en un bol con 140 ml de agua hirviendo y sal, tapa 5 minutos, suéltalo con un tenedor y mézclalo con el calabacín asado."
+    "Mientras, pon el cuscús en un bol con 140 ml de agua hirviendo y sal, tapa 5 minutos, suéltalo con un tenedor y mézclalo con el calabacín asado."
   ],
   nutricion: { kcal: 670, prot: 44, hc: 74, grasa: 22 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "al horno", "alta en proteína", "batch cooking", "para niños", "poco especiada", "bajo en colesterol"],
@@ -640,9 +640,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la cebolla morada en pluma en agua fría con un chorrito de vinagre 5 minutos para suavizarla. Escúrrela.",
-    "Corta el tomate y el pepino en dados de 1 cm.",
+    "Mientras, corta el tomate y el pepino en dados de 1 cm y pica el perejil.",
     "En un tarro bate el vinagre de Jerez con el aceite, el pimentón y una pizca de sal.",
-    "En un bol mezcla los garbanzos, la cebolla, el tomate, el pepino, los pimientos asados y el perejil picado. Aliña con la vinagreta.",
+    "En un bol mezcla los garbanzos, la cebolla, el tomate, el pepino, los pimientos asados y el perejil. Aliña con la vinagreta.",
     "Reparte en los tuppers y coloca encima las sardinas en trozos grandes, sin mezclar para que no se deshagan."
   ],
   nutricion: { kcal: 436, prot: 28, hc: 36, grasa: 20 },
@@ -681,9 +681,9 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Bate los huevos con una pizca de sal. Calienta el wok con unas gotas de aceite a fuego alto, cuaja los huevos en una tortilla fina 1 minuto, sácala y córtala en tiras.",
+    "Corta la cebolleta en aros y pica el ajo y el jengibre. Bate los huevos con una pizca de sal. Calienta el wok con unas gotas de aceite a fuego alto, cuaja los huevos en una tortilla fina 1 minuto, sácala y córtala en tiras.",
     "Añade el resto del aceite de oliva y saltea el pavo 3 minutos, hasta que esté dorado. Sácalo.",
-    "Saltea los champiñones 3 minutos a fuego alto, hasta que suelten el agua y se doren. Añade los espárragos, la cebolleta en aros, el ajo y el jengibre picados y saltea 3 minutos más.",
+    "Saltea los champiñones 3 minutos a fuego alto, hasta que suelten el agua y se doren. Añade los espárragos, la cebolleta, el ajo y el jengibre y saltea 3 minutos más.",
     "Incorpora el arroz frío desgranado con los dedos y saltea 3 minutos sin dejar de mover, hasta que esté caliente y suelto.",
     "Devuelve el pavo y el huevo, riega con el tamari y el aceite de sésamo y mezcla 1 minuto."
   ],
@@ -724,11 +724,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el calabacín rallado y la cebolleta picada en un bol apto para microondas, tapa y cocina 3 minutos a 800 W. Añade las espinacas, mezcla y cocina 1 minuto más, hasta que se reduzcan.",
+    "Pica la cebolleta y ponla con el calabacín rallado en un bol apto para microondas, tapa y cocina 3 minutos a 800 W. Añade las espinacas, mezcla y cocina 1 minuto más, hasta que se reduzcan.",
     "Escurre bien las verduras apretando contra un colador con una cuchara: cuanta menos agua, mejor cuaja el pastel.",
     "En otro bol bate los huevos con la ricotta, el parmesano, la nuez moscada, sal y pimienta. Incorpora las verduras escurridas.",
-    "Unta un molde de vidrio o silicona apto para microondas (de unos 18 cm) con el aceite, vierte la mezcla y cocina 6-7 minutos a 600 W, hasta que el centro esté cuajado y no tiemble al mover el molde.",
-    "Deja reposar 5 minutos, corta en porciones y acompaña con los tomates cherry partidos y la albahaca."
+    "Unta un molde de vidrio o silicona apto para microondas (de unos 18 cm) con el aceite, vierte la mezcla y cocina 6-7 minutos a 600 W, hasta que el centro esté cuajado y no tiemble al mover el molde. Mientras, parte los tomates cherry.",
+    "Deja reposar 5 minutos, corta en porciones y acompaña con los tomates cherry y la albahaca."
   ],
   nutricion: { kcal: 340, prot: 24, hc: 16, grasa: 20 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "ligera", "vegetariana", "poco especiada"],
@@ -769,7 +769,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en abundante agua con sal 11 minutos. Escúrrelo.",
-    "Calienta el aceite en una sartén honda a fuego medio y pocha la cebolla picada 7 minutos, hasta que esté dorada. Añade el ajo y el jengibre rallados y cocina 1 minuto.",
+    "Mientras, pica la cebolla y ralla el ajo y el jengibre. Calienta el aceite en una sartén honda a fuego medio y pocha la cebolla 7 minutos, hasta que esté dorada. Añade el ajo y el jengibre y cocina 1 minuto.",
     "Incorpora el garam masala, la cúrcuma y el comino, remueve 30 segundos y añade el tomate triturado con 50 ml de agua. Cuece 8 minutos, hasta que la salsa espese.",
     "Añade las espinacas a puñados y deja que se reduzcan 2 minutos. Sala la salsa.",
     "Coloca los tacos de abadejo salados dentro de la salsa, tapa y cuece 5-6 minutos a fuego suave, hasta que el pescado esté opaco y se separe en lascas."
@@ -812,11 +812,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio-alto y marca el pavo salpimentado 3 minutos, hasta que tome color.",
-    "Añade el puerro, la zanahoria y el apio en dados pequeños y rehoga 5 minutos, hasta que el puerro esté blando.",
-    "Incorpora la cebada lavada, el caldo, el tomillo y el laurel. Lleva a ebullición, baja el fuego, tapa y cuece 30 minutos.",
-    "Agrega las judías verdes en trocitos y cuece 10 minutos más, hasta que la cebada esté tierna y algo melosa.",
-    "Retira el tomillo y el laurel, prueba de sal y pimienta y termina con perejil picado."
+    "Corta el puerro, la zanahoria y el apio en dados pequeños. Calienta el aceite en una cazuela a fuego medio-alto y marca el pavo salpimentado 3 minutos, hasta que tome color.",
+    "Añade el puerro, la zanahoria y el apio y rehoga 5 minutos, hasta que el puerro esté blando.",
+    "Incorpora la cebada lavada, el caldo, el tomillo y el laurel. Lleva a ebullición, baja el fuego, tapa y cuece 30 minutos. Mientras, corta las judías verdes en trocitos y pica el perejil.",
+    "Agrega las judías verdes y cuece 10 minutos más, hasta que la cebada esté tierna y algo melosa.",
+    "Retira el tomillo y el laurel, prueba de sal y pimienta y termina con el perejil."
   ],
   nutricion: { kcal: 402, prot: 32, hc: 46, grasa: 10 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "batch cooking", "invierno", "fácil", "poco especiada", "bajo en colesterol"],
@@ -858,10 +858,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el bulgur en un bol con 240 ml de agua hirviendo y una pizca de sal, tapa y deja hidratar 12 minutos.",
-    "Calienta 1 cucharada de aceite en una sartén grande a fuego medio-alto y saltea la berenjena con sal 8 minutos, hasta que esté dorada y tierna. Sácala.",
-    "Añade el resto del aceite y dora la ternera 5 minutos, desmenuzándola. Incorpora la cebolla y el ajo picados y cocina 5 minutos más.",
-    "Agrega la canela, el comino y el pimentón, remueve 30 segundos y vierte el tomate. Cuece 8 minutos a fuego medio, hasta que espese.",
-    "Devuelve la berenjena, mezcla y cocina 2 minutos. Sirve sobre el bulgur con una cucharada de yogur y la menta picada."
+    "Mientras, pica la cebolla y el ajo. Calienta 1 cucharada de aceite en una sartén grande a fuego medio-alto y saltea la berenjena con sal 8 minutos, hasta que esté dorada y tierna. Sácala.",
+    "Añade el resto del aceite y dora la ternera 5 minutos, desmenuzándola. Incorpora la cebolla y el ajo y cocina 5 minutos más.",
+    "Agrega la canela, el comino y el pimentón, remueve 30 segundos y vierte el tomate. Cuece 8 minutos a fuego medio, hasta que espese. Mientras, pica la menta.",
+    "Devuelve la berenjena, mezcla y cocina 2 minutos. Sirve sobre el bulgur con una cucharada de yogur y la menta."
   ],
   nutricion: { kcal: 660, prot: 36, hc: 66, grasa: 28 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "alta en proteína", "una sola sartén", "fácil", "batch cooking", "poco especiada"],
@@ -900,8 +900,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz integral en abundante agua con sal 30 minutos. En los últimos 7 minutos añade las judías verdes en tramos. Escurre.",
-    "Mientras, raspa la pulpa de la ñora hidratada. Ralla el tomate o pártelo en trozos.",
+    "Cuece el arroz integral en abundante agua con sal 30 minutos. En los últimos 7 minutos añade las judías verdes. Escurre.",
+    "Mientras, corta las judías verdes en tramos, raspa la pulpa de la ñora hidratada y ralla el tomate o pártelo en trozos.",
     "Tritura los pimientos asados, el tomate, las almendras, la pulpa de ñora, el ajo, el vinagre, el pimentón, 1 cucharada de aceite y sal hasta tener una salsa espesa y untuosa.",
     "Calienta el resto del aceite en una sartén a fuego medio-alto y dora la heura 5-6 minutos, hasta que tenga los bordes tostados.",
     "Reparte el arroz con las judías, coloca la heura encima y cubre con el romesco."
@@ -943,10 +943,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las lentejas lavadas en agua fría con el laurel 20-22 minutos desde que hierva, hasta que estén tiernas pero enteras. Sala al final, espera 2 minutos y escurre.",
-    "Mientras, calienta 1 cucharada de aceite en una sartén a fuego medio-alto y saltea el calabacín con sal 5 minutos, hasta que esté dorado. Sácalo.",
-    "Añade el resto del aceite y el ajo laminado con la guindilla a fuego medio 1 minuto, hasta que el ajo empiece a dorarse.",
+    "Mientras, lamina el ajo y pica el perejil. Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y saltea el calabacín con sal 5 minutos, hasta que esté dorado. Sácalo.",
+    "Añade el resto del aceite y el ajo con la guindilla a fuego medio 1 minuto, hasta que el ajo empiece a dorarse.",
     "Sube el fuego, incorpora los langostinos con una pizca de sal y el pimentón y saltea 2 minutos, solo hasta que estén rosados y curvados.",
-    "Mezcla las lentejas con el calabacín, los langostinos con su aceite, la ralladura y el zumo del limón y mucho perejil picado."
+    "Mezcla las lentejas con el calabacín, los langostinos con su aceite, la ralladura y el zumo del limón y mucho perejil."
   ],
   nutricion: { kcal: 428, prot: 36, hc: 44, grasa: 12 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "ligera", "alta en proteína", "fácil"],
@@ -986,11 +986,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla, el pimiento verde y el ajo picados 8 minutos, hasta que estén blandos.",
+    "Pica la cebolla, el pimiento verde y el ajo. Calienta el aceite en una cazuela a fuego medio y pocha la verdura 8 minutos, hasta que esté blanda. Mientras, pela las patatas y cáscalas en trozos.",
     "Añade el tomate y cocina 3 minutos. Aparta del fuego, incorpora el pimentón y vierte el vino blanco; deja que evapore el alcohol 2 minutos a fuego vivo.",
-    "Agrega las patatas cascadas y el caldo. Cuece a fuego medio 15 minutos, hasta que la patata esté casi tierna.",
-    "Incorpora los guisantes y el pez espada salado y cuece 5 minutos más, moviendo la cazuela en vaivén en lugar de remover para no romper el pescado.",
-    "Prueba de sal, espolvorea perejil y deja reposar 5 minutos fuera del fuego."
+    "Agrega las patatas y el caldo. Cuece a fuego medio 15 minutos, hasta que la patata esté casi tierna. Mientras, sala el pez espada y pica el perejil.",
+    "Incorpora los guisantes y el pez espada y cuece 5 minutos más, moviendo la cazuela en vaivén en lugar de remover para no romper el pescado.",
+    "Prueba de sal, espolvorea el perejil y deja reposar 5 minutos fuera del fuego."
   ],
   nutricion: { kcal: 430, prot: 36, hc: 40, grasa: 14 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "de cuchara", "ligera", "alta en proteína", "una sola olla", "fácil", "poco especiada", "bajo en colesterol"],
@@ -1074,11 +1074,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla, el apio y el ajo bien picados 8 minutos, hasta que la cebolla esté transparente.",
+    "Pica bien la cebolla, el apio y el ajo. Calienta el aceite en una cazuela a fuego medio y sofríelos 8 minutos, hasta que la cebolla esté transparente.",
     "Añade la zanahoria rallada y cocina 3 minutos más, hasta que se ablande.",
-    "Incorpora el tomate triturado, el orégano y el laurel. Cuece 10 minutos a fuego medio-suave, removiendo de vez en cuando.",
-    "Añade las lentejas, aplasta una cuarta parte con el dorso de la cuchara para dar cuerpo y cuece 5 minutos más. Salpimienta.",
-    "Mientras, cuece los macarrones en abundante agua con sal 1 minuto menos de lo que marque el paquete. Escúrrelos y mézclalos con la boloñesa y la albahaca rota."
+    "Incorpora el tomate triturado, el orégano y el laurel. Cuece 10 minutos a fuego medio-suave, removiendo de vez en cuando. Mientras, pon a hervir abundante agua con sal para la pasta.",
+    "Cuando hierva, cuece los macarrones 1 minuto menos de lo que marque el paquete. Mientras, añade las lentejas a la salsa, aplasta una cuarta parte con el dorso de la cuchara para dar cuerpo y cuece 5 minutos más. Salpimienta.",
+    "Escurre los macarrones y mézclalos con la boloñesa y la albahaca rota."
   ],
   nutricion: { kcal: 564, prot: 24, hc: 90, grasa: 12 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "vegana", "batch cooking", "para niños", "económica", "fácil", "superalimentos", "poco especiada", "bajo en colesterol"],

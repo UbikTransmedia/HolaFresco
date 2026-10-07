@@ -32,8 +32,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la patata en rodajas de 3 mm y el hinojo en láminas finas, reservando las hojitas verdes.",
-    "En un bol mezcla la patata y el hinojo con 1 cucharada de aceite y sal, extiéndelos en la bandeja y hornea 15 minutos para que se ablanden.",
-    "Corta dos hojas grandes de papel de horno. Reparte en el centro de cada una la patata y el hinojo, coloca encima un lomo de dorada con la piel hacia abajo, salpimienta y añade las aceitunas, dos rodajas de limón y el tomillo.",
+    "En un bol mezcla la patata y el hinojo con 1 cucharada de aceite y sal, extiéndelos en la bandeja y hornea 15 minutos para que se ablanden. Mientras, corta dos hojas grandes de papel de horno y corta el limón en rodajas.",
+    "Reparte en el centro de cada papel la patata y el hinojo, coloca encima un lomo de dorada con la piel hacia abajo, salpimienta y añade las aceitunas, dos rodajas de limón y el tomillo.",
     "Riega cada paquete con el vino y el resto del aceite y ciérralos haciendo pliegues apretados por los bordes, dejando aire dentro.",
     "Ponlos en la bandeja y hornea 12–14 minutos, hasta que el papel esté hinchado y la dorada blanca y opaca.",
     "Sirve los paquetes cerrados y ábrelos en la mesa; termina con las hojitas de hinojo y zumo del limón restante."
@@ -79,9 +79,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En un bol mezcla la cebolleta, el chile, el ajo y el jengibre muy picados con la pimienta de Jamaica, el tomillo, el azúcar, el tamari, el zumo de media lima, 2 cucharadas de aceite y sal.",
+    "Pica muy finos la cebolleta, el chile, el ajo y el jengibre. En un bol mézclalos con la pimienta de Jamaica, el tomillo, el azúcar, el tamari, el zumo de media lima, 2 cucharadas de aceite y sal.",
     "Haz unos cortes en la piel de los contramuslos, úntalos bien con la marinada y déjalos reposar al menos 30 minutos (o toda la noche en la nevera).",
-    "Precalienta el horno a 210 °C. Corta los pimientos en tiras, la cebolla morada en gajos y el plátano macho pelado en rodajas gruesas de 2 cm. Mézclalos en una bandeja con el resto del aceite y sal.",
+    "Mientras reposan (unos 15 minutos antes de hornear), precalienta el horno a 210 °C. Corta los pimientos en tiras, la cebolla morada en gajos y el plátano macho pelado en rodajas gruesas de 2 cm. Mézclalos en una bandeja con el resto del aceite y sal.",
     "Coloca el pollo encima con la piel hacia arriba y vierte la marinada sobrante por encima.",
     "Hornea 40–45 minutos, pintando el pollo a mitad con los jugos, hasta que la piel esté oscura y caramelizada y el plátano dorado y tierno.",
     "Sirve con gajos de la otra media lima."
@@ -125,11 +125,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. En una fuente honda de unos 22 cm pon el calabacín en dados pequeños, el pimiento y la cebolleta picados, los ajos laminados y el chile en aros. Añade el aceite, el comino y sal, mezcla y hornea 15 minutos.",
+    "Precalienta el horno a 200 °C. Mientras se calienta, corta el calabacín en dados pequeños, pica el pimiento y la cebolleta, lamina los ajos y corta el chile en aros.",
+    "Pon las verduras en una fuente honda de unos 22 cm, añade el aceite, el comino y sal, mezcla y hornea 15 minutos. Mientras, desmiga el feta y pica el cilantro.",
     "Saca la fuente y añade las espinacas en dos tandas, removiendo para que mermen con el calor. Hornea 5 minutos más, hasta que estén blandas.",
-    "Riega con el zumo de limón, remueve y abre 4 huecos con una cuchara. Casca un huevo en cada uno y reparte el feta desmigado alrededor.",
+    "Riega con el zumo de limón, remueve y abre 4 huecos con una cuchara. Casca un huevo en cada uno y reparte el feta alrededor.",
     "Hornea 8–10 minutos, hasta que las claras estén cuajadas y las yemas sigan líquidas.",
-    "Salpimienta las yemas, espolvorea el cilantro picado y sirve en la misma fuente."
+    "Salpimienta las yemas, espolvorea el cilantro y sirve en la misma fuente."
   ],
   nutricion: { kcal: 385, prot: 24, hc: 14, grasa: 26 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "económica", "keto"],
@@ -168,9 +169,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. En una fuente pon los tomates cherry enteros, los ajos laminados, las hojas de romero, la ralladura del limón, el aceite y sal. Mezcla y hornea 15 minutos, hasta que los tomates revienten.",
+    "Precalienta el horno a 200 °C. Lamina los ajos y ralla la piel del limón. En una fuente pon los tomates cherry enteros, los ajos, las hojas de romero, la ralladura, el aceite y sal. Mezcla y hornea 15 minutos, hasta que los tomates revienten. Mientras, enjuaga y escurre las judías.",
     "Saca la fuente y aplasta la mitad de los tomates con un tenedor para formar una salsa rústica.",
-    "Añade las judías enjuagadas y escurridas, las alcaparras, la guindilla desmenuzada y 3 cucharadas de agua. Mezcla y hornea 10 minutos, hasta que borbotee.",
+    "Añade las judías, las alcaparras, la guindilla desmenuzada y 3 cucharadas de agua. Mezcla y hornea 10 minutos, hasta que borbotee.",
     "Reparte el atún en lascas por encima, exprime el zumo del limón y pimienta al gusto.",
     "Sirve con la rúcula por encima, que se ablandará ligeramente con el calor."
   ],
@@ -214,8 +215,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Corta la patata en dados de 1,5 cm, la col lombarda en tiras finas y la cebolla morada en gajos.",
     "En un bol mezcla las verduras con 2 cucharadas de aceite, el vinagre, la alcaravea y sal. Extiéndelas en una bandeja grande y hornea 20 minutos, removiendo a mitad.",
-    "Mientras, en el bol mezcla la mostaza, la miel, el resto del aceite, las hojas de tomillo y pimienta. Sala las chuletas y úntalas bien por ambas caras.",
-    "Saca la bandeja, añade la manzana en gajos, remueve y coloca las chuletas encima.",
+    "Mientras, en el bol mezcla la mostaza, la miel, el resto del aceite, las hojas de tomillo y pimienta. Sala las chuletas y úntalas bien por ambas caras. Corta la manzana en gajos sin el corazón.",
+    "Saca la bandeja, añade la manzana, remueve y coloca las chuletas encima.",
     "Hornea 15–18 minutos, hasta que las chuletas estén doradas y alcancen 63–65 °C junto al hueso; pon el grill los últimos 2 minutos para caramelizar el glaseado.",
     "Deja reposar las chuletas 3 minutos y sírvelas sobre la col, la patata y la manzana con los jugos de la bandeja."
   ],
@@ -302,10 +303,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Pela el boniato y córtalo en dados de 2 cm; corta el pimiento en tiras y la cebolla en gajos. Enjuaga y escurre los garbanzos.",
     "En un bol mezcla las verduras y los garbanzos con el aceite, 1 cucharada de pasta de curry y sal. Extiéndelos en una fuente honda y hornea 25 minutos, removiendo a mitad, hasta que el boniato esté tierno y con bordes dorados.",
-    "En el mismo bol bate la leche de coco con la otra cucharada de pasta de curry hasta que no queden grumos.",
+    "Mientras, en el mismo bol bate la leche de coco con la otra cucharada de pasta de curry hasta que no queden grumos, y pica el cilantro.",
     "Vierte la mezcla sobre la fuente, remueve y hornea 10 minutos más, hasta que la salsa borbotee y espese ligeramente.",
     "Añade las espinacas, mézclalas con la salsa caliente y hornea 3 minutos más, hasta que se ablanden.",
-    "Exprime la lima por encima, rectifica de sal y sirve con cilantro picado."
+    "Exprime la lima por encima, rectifica de sal y sirve con el cilantro."
   ],
   nutricion: { kcal: 730, prot: 22, hc: 92, grasa: 30 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "picante"],
@@ -345,9 +346,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. En una fuente honda mezcla con unas varillas la polenta, el caldo, la leche, 1 cucharada de aceite y una pizca de sal. Tapa con papel de aluminio y hornea 20 minutos.",
-    "Mientras, en un bol mezcla las setas troceadas con los ajos laminados, las hojas de tomillo, el resto del aceite, sal y pimienta, y extiéndelas en una bandeja.",
-    "Destapa la polenta y remuévela enérgicamente con las varillas para deshacer grumos. Vuelve a meterla, ya sin tapar, junto con la bandeja de setas en la parte alta. Hornea 20 minutos, hasta que la polenta esté espesa y cremosa y las setas doradas y sin agua.",
-    "Saca la polenta e incorpora la mantequilla, la mitad del parmesano rallado y las espinacas picadas, removiendo hasta que se ablanden. Rectifica de sal.",
+    "Mientras, trocea las setas y lamina los ajos; en un bol mézclalos con las hojas de tomillo, el resto del aceite, sal y pimienta, y extiéndelos en una bandeja.",
+    "Destapa la polenta y remuévela enérgicamente con las varillas para deshacer grumos. Vuelve a meterla, ya sin tapar, junto con la bandeja de setas en la parte alta. Hornea 20 minutos, hasta que la polenta esté espesa y cremosa y las setas doradas y sin agua. Mientras, ralla el parmesano y pica las espinacas.",
+    "Saca la polenta e incorpora la mantequilla, la mitad del parmesano y las espinacas, removiendo hasta que se ablanden. Rectifica de sal.",
     "Reparte las setas por encima, espolvorea el resto del parmesano y gratina 3 minutos con el grill. Sirve caliente."
   ],
   nutricion: { kcal: 545, prot: 18, hc: 54, grasa: 28 },
@@ -388,13 +389,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pon en una fuente la pechuga entera y la cebolla en juliana con 1 cucharada de aceite, el comino y sal. Hornea 18–20 minutos, hasta que el pollo esté hecho y jugoso por dentro.",
+    "Precalienta el horno a 200 °C. Corta la cebolla en juliana y ponla en una fuente con la pechuga entera, 1 cucharada de aceite, el comino y sal. Hornea 18–20 minutos, hasta que el pollo esté hecho y jugoso por dentro.",
     "Mientras, mezcla en un bol el tomate triturado con el chipotle muy picado, el ajo rallado, el orégano y sal.",
     "Deshilacha el pollo con dos tenedores y pásalo al bol vacío con la cebolla y un tercio de la salsa; mezcla bien.",
     "Envuelve las tortillas en papel de aluminio y caliéntalas 3 minutos en el horno para que estén flexibles y no se rompan al enrollarlas.",
     "Pinta la fuente con la última cucharada de aceite y un poco de salsa. Rellena cada tortilla con el pollo, enróllala y colócala con el cierre hacia abajo, bien juntas.",
-    "Cubre con el resto de la salsa y el cheddar y hornea 15 minutos, hasta que la salsa borbotee por los bordes y el queso esté gratinado.",
-    "Sirve con cucharadas de yogur y cilantro picado."
+    "Cubre con el resto de la salsa y el cheddar y hornea 15 minutos, hasta que la salsa borbotee por los bordes y el queso esté gratinado. Mientras, pica el cilantro.",
+    "Sirve con cucharadas de yogur y el cilantro."
   ],
   nutricion: { kcal: 700, prot: 48, hc: 60, grasa: 30 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "tupper", "batch cooking", "alta en proteína"],
@@ -435,8 +436,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 190 °C. Corta la cebolla en juliana fina, pica los ajos y repártelos en la base de una fuente de unos 20 × 25 cm con 1 cucharada de aceite y sal. Hornea 10 minutos, hasta que la cebolla empiece a ablandarse.",
     "Mientras, corta la patata, el calabacín y los tomates en rodajas finas de 3–4 mm, de grosor parecido para que se hagan a la vez.",
     "Coloca las rodajas sobre la cebolla, de pie y apretadas en filas, alternando patata, calabacín y tomate. Riega con el resto del aceite y reparte las hojas de tomillo, sal y pimienta.",
-    "Tapa con papel de aluminio y hornea 30 minutos. Destapa y hornea 20 minutos más, hasta que la patata esté tierna al pincharla y los bordes de las verduras empiecen a tostarse.",
-    "Reparte el queso de cabra en rodajas por encima y hornea 8–10 minutos, hasta que esté fundido y dorado. Termina con albahaca fresca."
+    "Tapa con papel de aluminio y hornea 30 minutos. Destapa y hornea 20 minutos más, hasta que la patata esté tierna al pincharla y los bordes de las verduras empiecen a tostarse. Mientras, corta el queso de cabra en rodajas.",
+    "Reparte el queso de cabra por encima y hornea 8–10 minutos, hasta que esté fundido y dorado. Termina con albahaca fresca."
   ],
   nutricion: { kcal: 440, prot: 12, hc: 38, grasa: 27 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "económica", "verano", "poco especiada"],
@@ -477,10 +478,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas en rodajas de 5 mm, mézclalas en una bandeja con 1,5 cucharadas de aceite y sal y hornéalas 20 minutos, hasta que estén tiernas y doradas por debajo.",
-    "Mientras, en un bol mezcla los cherry partidos por la mitad, las aceitunas, las alcaparras, los ajos laminados, el orégano y 1 cucharada de aceite.",
+    "Mientras, parte los cherry por la mitad y lamina los ajos; en un bol mézclalos con las aceitunas, las alcaparras, el orégano y 1 cucharada de aceite. Pica el perejil.",
     "Saca la bandeja, reparte la mezcla de tomate por encima de las patatas y coloca las rodajas de pez espada salpimentadas en el centro, pintadas con el resto del aceite.",
     "Hornea 10–12 minutos, hasta que el pescado esté opaco y firme pero todavía jugoso; no lo pases, porque se reseca enseguida. Añade los piñones los últimos 3 minutos para que se tuesten.",
-    "Espolvorea perejil picado, exprime el limón y sirve con el jugo de los tomates por encima."
+    "Espolvorea el perejil, exprime el limón y sirve con el jugo de los tomates por encima."
   ],
   nutricion: { kcal: 515, prot: 38, hc: 36, grasa: 24 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "poco especiada", "bajo en colesterol"],
@@ -565,12 +566,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. En una fuente honda mezcla la cebolla picada fina, el ajo y el jengibre rallados, el comino en grano, la cúrcuma y 1 cucharada de aceite. Hornea 10 minutos, hasta que la cebolla esté blanda y huela a especias tostadas.",
+    "Precalienta el horno a 210 °C. Pica fina la cebolla y ralla el ajo y el jengibre. En una fuente honda mézclalos con el comino en grano, la cúrcuma y 1 cucharada de aceite. Hornea 10 minutos, hasta que la cebolla esté blanda y huela a especias tostadas.",
     "Mientras, corta el paneer en dados de 2 cm y mézclalo en un bol con el resto del aceite, media cucharadita de garam masala y sal.",
     "Saca la fuente y añade el tomate triturado, las lentejas escurridas, la leche de coco, el resto del garam masala, 50 ml de agua y sal. Remueve y pon el paneer encima, repartido.",
-    "Hornea 20 minutos, hasta que la salsa borbotee y espese y el paneer esté dorado por los bordes.",
-    "Aparta el paneer a un lado, incorpora las espinacas picadas removiendo para que se ablanden con el calor y hornea 5 minutos más.",
-    "Termina con zumo de limón y cilantro picado."
+    "Hornea 20 minutos, hasta que la salsa borbotee y espese y el paneer esté dorado por los bordes. Mientras, pica las espinacas y el cilantro.",
+    "Aparta el paneer a un lado, incorpora las espinacas removiendo para que se ablanden con el calor y hornea 5 minutos más.",
+    "Termina con zumo de limón y el cilantro."
   ],
   nutricion: { kcal: 605, prot: 28, hc: 50, grasa: 32 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking"],
@@ -612,12 +613,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Corta el tempeh en rodajas de 1 cm y mézclalo en un bol con 1 cucharada de tamari, el zumo de media lima y el ajo y el jengibre rallados. Deja marinar 10 minutos.",
-    "Corta el pimiento y la cebolla en trozos de 3 cm y mézclalos con la piña, el aceite y una pizca de sal en una bandeja grande. Coloca el tempeh entre las verduras.",
+    "Precalienta el horno a 210 °C. Ralla el ajo y el jengibre. Corta el tempeh en rodajas de 1 cm y mézclalo en un bol con 1 cucharada de tamari, el zumo de media lima, el ajo y el jengibre. Deja marinar 10 minutos.",
+    "Mientras marina, corta el pimiento y la cebolla en trozos de 3 cm y mézclalos con la piña, el aceite y una pizca de sal en una bandeja grande. Coloca el tempeh entre las verduras.",
     "Hornea 20 minutos, dando la vuelta al tempeh a mitad, hasta que esté dorado y la piña con los bordes caramelizados.",
-    "Mientras, en el bol mezcla la crema de cacahuete con la otra cucharada de tamari, el sirope, la leche de coco y el zumo de la otra media lima. Añade agua a cucharadas hasta que quede una salsa fluida.",
+    "Mientras, en el bol mezcla la crema de cacahuete con la otra cucharada de tamari, el sirope, la leche de coco y el zumo de la otra media lima. Añade agua a cucharadas hasta que quede una salsa fluida. Pica los cacahuetes y el cilantro.",
     "Vierte la mitad de la salsa sobre la bandeja, mezcla y hornea 5 minutos más.",
-    "Sirve con el resto de la salsa, los cacahuetes picados y el cilantro por encima."
+    "Sirve con el resto de la salsa, los cacahuetes y el cilantro por encima."
   ],
   nutricion: { kcal: 630, prot: 30, hc: 46, grasa: 36 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "superalimentos", "poco especiada"],
@@ -657,11 +658,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Corta la pechuga en tiras gruesas y mézclala en un bol con el pimentón, el comino, media cucharada de aceite y sal.",
-    "Escurre el maíz y sécalo con papel. Extiéndelo en una bandeja con el pimiento en tiras, la cebolla morada en plumas, media cucharada de aceite y sal, y coloca el pollo encima.",
+    "Precalienta el horno a 220 °C. Corta la pechuga en tiras gruesas y mézclala en un bol con el pimentón, el comino, media cucharada de aceite y sal. Corta el pimiento en tiras y la cebolla morada en plumas.",
+    "Escurre el maíz y sécalo con papel. Extiéndelo en una bandeja con el pimiento, la cebolla, media cucharada de aceite y sal, y coloca el pollo encima.",
     "Hornea 15–18 minutos, hasta que el pollo esté hecho pero jugoso y el maíz tenga granos tostados.",
-    "Mientras, en el bol limpio mezcla el zumo de la lima con la última media cucharada de aceite y una pizca de sal.",
-    "Monta los platos con la lechuga troceada, el tomate y el aguacate en dados, y encima el pollo, el maíz y los pimientos templados. Aliña y termina con cilantro."
+    "Mientras, en el bol limpio mezcla el zumo de la lima con la última media cucharada de aceite y una pizca de sal. Trocea la lechuga, corta el tomate y el aguacate en dados y pica el cilantro.",
+    "Monta los platos con la lechuga, el tomate y el aguacate, y encima el pollo, el maíz y los pimientos templados. Aliña y termina con el cilantro."
   ],
   nutricion: { kcal: 460, prot: 34, hc: 26, grasa: 24 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "económica", "alta en proteína", "poco especiada", "bajo en colesterol"],
@@ -697,11 +698,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta las patatas en rodajas de 5 mm, extiéndelas en una bandeja con papel, riégalas con la mitad del aceite de ajo, sala y hornea 20 minutos, hasta que estén tiernas.",
-    "Saca la bandeja, aparta las patatas a un lado y coloca las judías verdes sin las puntas con una pizca de sal.",
-    "Pon los filetes de trucha secos y salpimentados sobre las patatas, con la piel hacia abajo. Reparte las almendras laminadas por encima del pescado y riega todo con el resto del aceite de ajo.",
+    "Precalienta el horno a 200 °C. Corta las patatas en rodajas de 5 mm, extiéndelas en una bandeja con papel, riégalas con la mitad del aceite de ajo, sala y hornea 20 minutos, hasta que estén tiernas. Mientras, quita las puntas a las judías verdes, seca y salpimienta la trucha y pica el perejil.",
+    "Saca la bandeja, aparta las patatas a un lado y coloca las judías verdes con una pizca de sal.",
+    "Pon los filetes de trucha sobre las patatas, con la piel hacia abajo. Reparte las almendras laminadas por encima del pescado y riega todo con el resto del aceite de ajo.",
     "Hornea 10–12 minutos, hasta que la trucha esté opaca y se separe en lascas y las almendras estén doradas.",
-    "Exprime medio limón por encima, espolvorea el perejil picado y sirve con gajos del limón restante."
+    "Exprime medio limón por encima, espolvorea el perejil y sirve con gajos del limón restante."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 28, grasa: 21 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "bajo en fodmap", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
@@ -739,7 +740,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta el pavo en 4 trozos y mézclalo en un bol con los ajos picados, la mitad de la salvia picada, 1 cucharada de aceite, sal y pimienta.",
+    "Precalienta el horno a 200 °C. Pica los ajos y la mitad de la salvia. Corta el pavo en 4 trozos y mézclalo en un bol con los ajos, la salvia picada, 1 cucharada de aceite, sal y pimienta.",
     "Pela la calabaza y córtala en dados de 3 cm; corta la cebolla en gajos. Mézclalas en una bandeja con el resto del aceite y sal y coloca el pavo encima.",
     "Hornea 25 minutos, hasta que la calabaza empiece a dorarse.",
     "Añade las castañas, las hojas de salvia enteras restantes y los arándanos, y riega con el vino blanco.",
@@ -782,10 +783,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol bate la harina de garbanzo con el agua, 1 cucharada de aceite, sal y las hojas de romero picadas, hasta que no queden grumos. Deja reposar la masa al menos 20 minutos.",
-    "Mientras, precalienta el horno a 240 °C con un molde metálico redondo de unos 26 cm dentro, para que esté muy caliente.",
-    "Saca el molde con cuidado, añade la otra cucharada de aceite y la cebolla morada en plumas finas y vierte la masa encima: debe chisporrotear.",
-    "Hornea 8 minutos, hasta que la superficie esté cuajada. Reparte por encima los cherry partidos por la mitad, las aceitunas y el feta desmigado.",
+    "Pica las hojas de romero. En un bol bate la harina de garbanzo con el agua, 1 cucharada de aceite, sal y el romero, hasta que no queden grumos. Deja reposar la masa al menos 20 minutos.",
+    "Mientras, precalienta el horno a 240 °C con un molde metálico redondo de unos 26 cm dentro, para que esté muy caliente. Corta la cebolla morada en plumas finas, parte los cherry por la mitad y desmiga el feta.",
+    "Saca el molde con cuidado, añade la otra cucharada de aceite y la cebolla y vierte la masa encima: debe chisporrotear.",
+    "Hornea 8 minutos, hasta que la superficie esté cuajada. Reparte por encima los cherry, las aceitunas y el feta.",
     "Hornea 6–8 minutos más, hasta que los bordes estén dorados y crujientes y se despeguen del molde. Si quieres más color, pon el grill 1–2 minutos.",
     "Pimienta, corona con la rúcula y corta en porciones. Sírvela caliente."
   ],
@@ -824,7 +825,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. En un bol mezcla la mantequilla blanda con los ajos rallados, la ralladura de la lima, el chile picado, el pimentón, la mitad del cilantro picado y sal hasta tener una pasta.",
+    "Precalienta el horno a 220 °C. Ralla los ajos y pica el chile y el cilantro. En un bol mezcla la mantequilla blanda con los ajos, la ralladura de la lima, el chile, el pimentón, la mitad del cilantro y sal hasta tener una pasta.",
     "Corta las mazorcas en 3 trozos y el calabacín en medias lunas gruesas. Unta las mazorcas con un tercio de la mantequilla y ponlas en una bandeja con el calabacín y una pizca de sal.",
     "Hornea 20 minutos, girando las mazorcas a mitad, hasta que los granos estén tostados y el calabacín dorado.",
     "Mientras, mezcla las gambas secas con el resto de la mantequilla en el bol.",
@@ -864,10 +865,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Corta las patatas en gajos, ponlas en una bandeja con 1 cucharada de aceite de ajo, las hojas de romero, el pimentón y sal, mezcla y hornea 30 minutos, hasta que estén doradas.",
-    "Saca el secreto de la nevera al encender el horno para que se atempere y sálalo justo antes de hornear.",
-    "Aparta las patatas a los lados, coloca el secreto en el centro y pon el horno en grill fuerte a 230 °C. Hornéalo en la parte alta 6–8 minutos por cada lado, hasta que la grasa esté dorada y crujiente y el interior jugoso y ligeramente rosado.",
-    "Los últimos 5 minutos añade los pimientos de Padrón mezclados con el resto del aceite de ajo, hasta que tengan ampollas.",
+    "Saca el secreto de la nevera para que se atempere. Precalienta el horno a 210 °C.",
+    "Corta las patatas en gajos, ponlas en una bandeja con 1 cucharada de aceite de ajo, las hojas de romero, el pimentón y sal, mezcla y hornea 30 minutos, hasta que estén doradas. Mientras, mezcla los pimientos de Padrón con el resto del aceite de ajo.",
+    "Sala el secreto. Aparta las patatas a los lados, coloca el secreto en el centro y pon el horno en grill fuerte a 230 °C. Hornéalo en la parte alta 6–8 minutos por cada lado, hasta que la grasa esté dorada y crujiente y el interior jugoso y ligeramente rosado.",
+    "Los últimos 5 minutos añade los pimientos de Padrón, hasta que tengan ampollas.",
     "Deja reposar el secreto 3 minutos, córtalo en tiras contra la fibra y sírvelo sobre las patatas con los pimientos y la sal en escamas."
   ],
   nutricion: { kcal: 850, prot: 36, hc: 36, grasa: 62 },
@@ -909,9 +910,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Corta las coles de Bruselas por la mitad, las patatas en dados de 2 cm y la cebolla morada en gajos.",
     "En un bol mézclalas con 1 cucharada de aceite, el tomillo, sal y pimienta. Extiéndelas en una bandeja grande, con las coles bocabajo para que se tuesten por el corte.",
-    "Hornea 25 minutos, hasta que las coles estén doradas y las patatas tiernas.",
-    "Añade las lentejas escurridas y las nueces troceadas, mezcla y hornea 5 minutos más para que se calienten y las nueces se tuesten.",
-    "Mientras, en el bol bate la mostaza con el sirope, el vinagre, la otra cucharada de aceite y una pizca de sal.",
+    "Hornea 25 minutos, hasta que las coles estén doradas y las patatas tiernas. Mientras, escurre las lentejas, trocea las nueces y, en el bol, bate la mostaza con el sirope, el vinagre, la otra cucharada de aceite y una pizca de sal.",
+    "Añade las lentejas y las nueces a la bandeja, mezcla y hornea 5 minutos más para que se calienten y las nueces se tuesten.",
     "Vuelca la bandeja en el bol, mezcla con el aliño y sirve templado."
   ],
   nutricion: { kcal: 460, prot: 18, hc: 50, grasa: 20 },
@@ -957,12 +957,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Lava el arroz en un bol con agua fría, frotándolo, y cambia el agua hasta que salga casi transparente. Escúrrelo bien.",
-    "En una fuente honda mezcla la cebolla picada, la zanahoria en dados pequeños, el comino, el cardamomo chafado, la canela, el laurel y el aceite. Hornea 10 minutos, hasta que la cebolla esté blanda y las especias huelan.",
+    "Precalienta el horno a 200 °C. Lava el arroz en un bol con agua fría, frotándolo, y cambia el agua hasta que salga casi transparente. Escúrrelo bien. Pica la cebolla, corta la zanahoria en dados pequeños y chafa el cardamomo.",
+    "En una fuente honda mezcla la cebolla, la zanahoria, el comino, el cardamomo, la canela, el laurel y el aceite. Hornea 10 minutos, hasta que la cebolla esté blanda y las especias huelan.",
     "Añade el arroz, la cúrcuma y el garam masala y remueve para que el grano se impregne. Incorpora los garbanzos escurridos, los guisantes, las pasas, el caldo (mejor caliente) y sal.",
-    "Tapa la fuente herméticamente con papel de aluminio y hornea 25 minutos, sin destapar, hasta que el arroz haya absorbido todo el líquido.",
+    "Tapa la fuente herméticamente con papel de aluminio y hornea 25 minutos, sin destapar, hasta que el arroz haya absorbido todo el líquido. Mientras, pica el cilantro.",
     "Saca la fuente y déjala reposar 10 minutos tapada. Mientras, tuesta los anacardos en una bandeja pequeña en el horno ya apagado pero caliente, 5 minutos.",
-    "Esponja el arroz con un tenedor, retira la canela y el laurel y sirve con los anacardos, cilantro picado y unas gotas de limón."
+    "Esponja el arroz con un tenedor, retira la canela y el laurel y sirve con los anacardos, el cilantro y unas gotas de limón."
   ],
   nutricion: { kcal: 630, prot: 18, hc: 98, grasa: 18 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "económica", "bajo en colesterol"],
@@ -1008,9 +1008,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Corta las patatas en gajos, mézclalas en una bandeja grande con 1 cucharada de aceite, el pimentón y sal y hornéalas 20 minutos.",
     "Mientras, en un bol mezcla la carne con el ajo en polvo, sal y pimienta sin amasar demasiado. Forma 2 hamburguesas de 2 cm de grosor y hazles un hoyito en el centro con el pulgar para que no se abomben.",
     "Corta el pimiento en tiras y la cebolla en aros y mézclalos con la otra cucharada de aceite y sal.",
-    "Saca la bandeja, da la vuelta a las patatas, añade el pimiento y la cebolla y coloca las hamburguesas en un hueco. Hornea 12–15 minutos, girándolas a mitad, hasta que estén doradas y a tu punto (70 °C en el centro si las quieres bien hechas).",
+    "Saca la bandeja, da la vuelta a las patatas, añade el pimiento y la cebolla y coloca las hamburguesas en un hueco. Hornea 12–15 minutos, girándolas a mitad, hasta que estén doradas y a tu punto (70 °C en el centro si las quieres bien hechas). Mientras, pica los pepinillos y mézclalos con el yogur y la mostaza, y corta el tomate en rodajas.",
     "Pon una loncha de cheddar sobre cada hamburguesa y hornea 2 minutos más para que se funda. Si usas pan sin gluten, tuéstalo a la vez sobre papel.",
-    "Mezcla el yogur con la mostaza y los pepinillos picados. Sirve las hamburguesas sobre lechuga y tomate, con la salsa, las patatas y las verduras."
+    "Sirve las hamburguesas sobre lechuga y tomate, con la salsa, las patatas y las verduras."
   ],
   nutricion: { kcal: 775, prot: 44, hc: 50, grasa: 44 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "para niños", "poco especiada"],
@@ -1050,11 +1050,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta el boniato en rodajas de 5 mm, mézclalo en una bandeja con la mitad del aceite de ajo y sal y hornea 15 minutos.",
-    "Corta los pak choi por la mitad a lo largo, lávalos bien entre las hojas, sécalos y alíñalos con el resto del aceite de ajo y 1 cucharada de tamari.",
-    "En un bol pinta el atún con la otra cucharada de tamari mezclada con el jengibre rallado y rebózalo en el sésamo, apretando para que se adhiera por todas las caras.",
+    "Mientras, corta los pak choi por la mitad a lo largo, lávalos bien entre las hojas, sécalos y alíñalos con el resto del aceite de ajo y 1 cucharada de tamari.",
+    "Ralla el jengibre. En un bol pinta el atún con la otra cucharada de tamari mezclada con el jengibre y rebózalo en el sésamo, apretando para que se adhiera por todas las caras. Mezcla el zumo de la lima con el vinagre de arroz y el aceite de sésamo, y pica el cebollino.",
     "Saca la bandeja, añade los pak choi con el corte hacia arriba y el atún en el centro. Pon el horno en grill fuerte a 230 °C y hornea en la parte alta 3 minutos; da la vuelta al atún y 2–3 minutos más, hasta que el sésamo esté dorado y el atún sellado por fuera pero rojo en el centro.",
-    "Mezcla el zumo de la lima con el vinagre de arroz y el aceite de sésamo.",
-    "Corta el atún en lonchas gruesas, colócalo sobre el boniato y el pak choi, riega con el aliño y termina con el cebollino picado."
+    "Corta el atún en lonchas gruesas, colócalo sobre el boniato y el pak choi, riega con el aliño y termina con el cebollino."
   ],
   nutricion: { kcal: 410, prot: 42, hc: 18, grasa: 18 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "ligera", "bajo en fodmap", "alta en proteína", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -1097,10 +1096,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena, el calabacín, el pimiento y la cebolla morada en trozos de 2–3 cm. Enjuaga y seca los garbanzos.",
     "En un bol mezcla las verduras y los garbanzos con 1,5 cucharadas de aceite, la mitad del za'atar y sal. Extiéndelos en una bandeja grande y hornea 25 minutos, removiendo a mitad, hasta que estén blandos y tostados.",
-    "Corta el halloumi en lonchas de 1 cm. Añade los cherry a la bandeja y coloca las lonchas de halloumi encima; píntalas con el resto del aceite y espolvorea el za'atar restante.",
+    "Mientras, corta el halloumi en lonchas de 1 cm, mezcla el yogur con el zumo de medio limón y una pizca de sal y pica la menta.",
+    "Añade los cherry a la bandeja y coloca las lonchas de halloumi encima; píntalas con el resto del aceite y espolvorea el za'atar restante.",
     "Pon el horno en grill fuerte a 230 °C y gratina 8–10 minutos, hasta que el halloumi esté dorado por encima y blando por dentro.",
-    "Mientras, mezcla el yogur con el zumo de medio limón y una pizca de sal.",
-    "Riega el halloumi con la miel y la ralladura del limón, reparte la menta picada y sirve enseguida con el yogur."
+    "Riega el halloumi con la miel y la ralladura del limón, reparte la menta y sirve enseguida con el yogur."
   ],
   nutricion: { kcal: 780, prot: 34, hc: 50, grasa: 49 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "alta en proteína", "poco especiada"],

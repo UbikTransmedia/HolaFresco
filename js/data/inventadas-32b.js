@@ -34,7 +34,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Escurre los garbanzos, enjuágalos bajo el grifo y déjalos escurrir bien en un colador: así pierden el sabor a conserva.",
     "Corta la cebolla morada en juliana muy fina y déjala 5 minutos en agua fría con un chorrito de vinagre: perderá el picor y quedará crujiente.",
-    "Corta los piquillos en tiras y el tomate en dados, y pica gruesas las almendras y el perejil.",
+    "Mientras, corta los piquillos en tiras y el tomate en dados, y pica gruesas las almendras y el perejil.",
     "Prepara la vinagreta batiendo con un tenedor el aceite (puedes usar parte del de las latas de bonito), el vinagre de Jerez, el pimentón y sal, hasta que emulsione.",
     "En una fuente, mezcla los garbanzos con la cebolla escurrida, el tomate, los piquillos y las aceitunas. Aliña con la mitad de la vinagreta y deja reposar 10 minutos.",
     "Reparte por encima el bonito en lascas grandes, las almendras y el perejil, y riega con el resto de la vinagreta."
@@ -75,9 +75,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Asegúrate de que el pescado ha estado congelado al menos 5 días a -20 °C (o cómpralo ya ultracongelado) para eliminar el riesgo de anisakis. Descongélalo en la nevera.",
-    "Corta la cebolla morada en pluma muy fina y déjala 5 minutos en agua con hielo; escúrrela bien.",
+    "Corta la cebolla morada en pluma muy fina y déjala 5 minutos en agua con hielo; escúrrela bien. Mientras, exprime las limas y pica el chile sin semillas y el cilantro.",
     "Quita la piel y las espinas a la corvina y córtala en dados de 1,5 cm. Ponla en un bol de cristal bien frío, sala generosamente y mezcla 1 minuto: la sal abre la carne para que absorba el cítrico.",
-    "Exprime las limas y vierte el zumo sobre el pescado con el chile picado sin semillas y la mitad del cilantro. Remueve y deja marinar 3-5 minutos en la nevera, solo hasta que los bordes se vuelvan blancos y el centro siga ligeramente translúcido.",
+    "Vierte el zumo de lima sobre el pescado con el chile y la mitad del cilantro. Remueve y deja marinar 3-5 minutos en la nevera, solo hasta que los bordes se vuelvan blancos y el centro siga ligeramente translúcido.",
     "Mientras, corta el mango y el aguacate en dados y escurre el maíz.",
     "Añade la cebolla, el mango, el aguacate y el maíz, mezcla con cuidado y ajusta de sal y acidez.",
     "Sirve enseguida con su jugo (la leche de tigre), el resto del cilantro y los totopos para acompañar."
@@ -122,9 +122,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Usa salmón que haya estado congelado al menos 5 días a -20 °C y descongelado en la nevera. Quítale la piel y las espinas y córtalo en dados de medio centímetro con un cuchillo muy afilado. Guárdalo en la nevera mientras preparas el resto.",
     "Pela el pepino, quítale las semillas y córtalo en dados pequeños. Pica fina la cebolleta, separando la parte verde para decorar.",
-    "Mezcla el tamari, el aceite de sésamo, el jengibre rallado y el zumo de media lima.",
-    "Justo antes de servir, aliña el salmón con la salsa, el pepino y la parte blanca de la cebolleta, mezclando con suavidad.",
+    "Pela y ralla el jengibre y mézclalo con el tamari, el aceite de sésamo y el zumo de media lima.",
     "Chafa el aguacate con el resto de la lima y sal. Aparte, mezcla la mayonesa con la sriracha.",
+    "Justo antes de servir, aliña el salmón con la salsa, el pepino y la parte blanca de la cebolleta, mezclando con suavidad.",
     "Monta con un aro: una capa de aguacate y encima el tartar, apretando ligeramente. Retira el aro y espolvorea el sésamo y la parte verde de la cebolleta. Sirve con la mayonesa picante y las tortitas de arroz para ir cargando cada bocado."
   ],
   nutricion: { kcal: 615, prot: 34, hc: 27, grasa: 40 },
@@ -166,7 +166,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la zanahoria, el pepino y el mango en bastones finos de unos 8 cm. Trocea la lechuga y deshoja la menta y el cilantro. Si las gambas son grandes, ábrelas por la mitad a lo largo.",
-    "Prepara la salsa batiendo la crema de cacahuete con el tamari, el zumo de la lima, la miel y 3-4 cucharadas de agua templada del grifo, hasta que quede fluida. Añade chile picado si te gusta picante.",
+    "Prepara la salsa batiendo la crema de cacahuete con el tamari, el zumo de la lima, la miel y 3-4 cucharadas de agua templada del grifo, hasta que quede fluida. Si te gusta picante, pica el chile y añádelo.",
     "Llena un plato hondo con agua templada. Sumerge una hoja de papel de arroz 10-15 segundos, solo hasta que esté flexible (se seguirá ablandando), y extiéndela sobre una tabla húmeda.",
     "En el tercio inferior coloca un trozo de lechuga, unos bastones de verdura y mango y unas hojas de hierbas. Encima, 3-4 mitades de gamba con la parte rosada hacia abajo, para que se vean a través del papel.",
     "Dobla la parte inferior sobre el relleno apretando, dobla los laterales hacia dentro y enrolla con firmeza hasta el final, como un burrito. Repite con el resto.",
@@ -212,8 +212,8 @@ window.RECETAS_SEED.push({
     "Ponlo en el vaso de la batidora con los frutos rojos, el ajo sin germen, el vinagre, sal y 100 ml de agua fría. Tritura 2 minutos a máxima potencia.",
     "Con la batidora en marcha, añade el aceite en hilo para que emulsione y el gazpacho quede sedoso. Si lo quieres más fino, pásalo por un colador.",
     "Prueba y ajusta de sal y vinagre: debe ser fresco, ligeramente ácido y con el dulzor terroso de la remolacha. Aligera con agua si está muy espeso.",
-    "Enfría en la nevera al menos 30 minutos (o tritura con unos cubitos si tienes prisa).",
-    "Sirve en boles con el queso de cabra desmenuzado, los pistachos picados, unas hojas de albahaca y un hilo de aceite."
+    "Enfría en la nevera al menos 30 minutos (o tritura con unos cubitos si tienes prisa). Mientras, desmenuza el queso de cabra y pica los pistachos.",
+    "Sirve en boles con el queso de cabra, los pistachos, unas hojas de albahaca y un hilo de aceite."
   ],
   nutricion: { kcal: 420, prot: 13, hc: 29, grasa: 28 },
   etiquetas: ["sin gluten", "sin cocción", "tupper", "verano", "vegetariana", "ligera", "detox", "superalimentos", "poco especiada"],
@@ -254,10 +254,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata el wakame en un bol con agua fría 10 minutos; se multiplicará de tamaño. Escúrrelo bien y córtalo si los trozos son grandes.",
-    "Suelta la quinoa cocida con un tenedor y alíñala con el vinagre de arroz y una pizca de sal.",
+    "Hidrata el wakame en un bol con agua fría 10 minutos; se multiplicará de tamaño.",
+    "Mientras se hidrata, suelta la quinoa cocida con un tenedor y alíñala con el vinagre de arroz y una pizca de sal.",
     "Prepara la salsa mezclando el tamari, el aceite de sésamo y el zumo de la lima.",
-    "Corta el aguacate y el mango en dados, el pepino en medias lunas, los rábanos en láminas finas y la cebolleta en aros. Corta el salmón ahumado en tiras anchas.",
+    "Corta el aguacate y el mango en dados, el pepino en medias lunas, los rábanos en láminas finas y la cebolleta en aros. Corta el salmón ahumado en tiras anchas. Escurre bien el wakame y córtalo si los trozos son grandes.",
     "Reparte la quinoa en 2 boles y coloca encima, por secciones, el salmón, el aguacate, el mango, el pepino, el rábano y el wakame.",
     "Riega con la salsa, espolvorea el sésamo y la cebolleta y sirve enseguida."
   ],
@@ -302,9 +302,9 @@ window.RECETAS_SEED.push({
     "Escurre las lentejas y enjuágalas con cuidado bajo el grifo para quitar el líquido espeso del bote. Déjalas escurrir bien.",
     "Prepara la vinagreta: bate la mostaza con el vinagre, sal y pimienta y añade el aceite poco a poco hasta que emulsione.",
     "Pica muy fina la cebolla morada, corta el apio en rodajitas y la manzana con piel en dados pequeños. Riega la manzana con un poco de vinagreta para que no se oxide.",
-    "Mezcla las lentejas con la cebolla, el apio, la manzana y dos tercios de la vinagreta. Deja reposar 10 minutos para que tomen sabor.",
+    "Mezcla las lentejas con la cebolla, el apio, la manzana y dos tercios de la vinagreta. Deja reposar 10 minutos para que tomen sabor. Mientras, trocea las nueces, pica el perejil y escurre la caballa.",
     "Reparte los canónigos en los platos, pon encima las lentejas y la caballa en lascas grandes.",
-    "Termina con las nueces troceadas, el perejil picado y el resto de la vinagreta."
+    "Termina con las nueces, el perejil y el resto de la vinagreta."
   ],
   nutricion: { kcal: 610, prot: 35, hc: 48, grasa: 31 },
   etiquetas: ["sin gluten", "sin cocción", "tupper", "ideal para llevar", "sin lácteos", "omega 3", "superalimentos", "poco especiada"],
@@ -345,9 +345,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Separa la coliflor en ramilletes y tritúrala por tandas en la batidora de vaso, a golpes cortos, hasta que tenga el tamaño de un grano de cuscús. No te pases o quedará puré (también puedes rallarla con el rallador grueso).",
     "Pásala a un bol grande, añade el zumo del limón, el aceite, el zumaque y sal, mezcla bien y deja reposar 10 minutos: el ácido la ablandará ligeramente.",
-    "Mientras, pica muy fino el perejil y la menta, corta el pepino y el tomate en dados pequeños y la cebolleta en aros finos.",
-    "Desgrana la granada golpeando la media fruta boca abajo con una cuchara de madera sobre un bol.",
-    "Escurre y enjuaga los garbanzos y mézclalos con la coliflor, las hierbas, el pepino, el tomate y la cebolleta. Prueba de sal y limón.",
+    "Mientras, pica muy fino el perejil y la menta, corta el pepino y el tomate en dados pequeños y la cebolleta en aros finos. Desgrana la granada golpeando la media fruta boca abajo con una cuchara de madera sobre un bol, y escurre y enjuaga los garbanzos.",
+    "Mezcla los garbanzos con la coliflor, las hierbas, el pepino, el tomate y la cebolleta. Prueba de sal y limón.",
     "Sirve con el feta desmenuzado y los granos de granada por encima."
   ],
   nutricion: { kcal: 420, prot: 17, hc: 34, grasa: 23 },
@@ -392,8 +391,8 @@ window.RECETAS_SEED.push({
     "Escurre los garbanzos y reserva unos 100 g enteros para decorar.",
     "Tritura el resto con el tahini, el zumo del limón, el ajo sin germen, la mitad del comino, sal y 4-5 cucharadas de agua muy fría. Bate 3 minutos, hasta que el hummus esté cremoso y casi esponjoso, y añade 1 cucharada de aceite al final.",
     "Mezcla los garbanzos reservados con 1 cucharada de aceite, el resto del comino, el pimentón ahumado y una pizca de sal.",
-    "Corta en bastones la zanahoria, el pepino y el pimiento; parte los rábanos y los tomates cherry por la mitad.",
-    "Extiende el hummus en 2 platos hondos haciendo un hueco en el centro con el dorso de una cuchara. Pon dentro los garbanzos especiados, riega con la última cucharada de aceite y espolvorea perejil picado.",
+    "Corta en bastones la zanahoria, el pepino y el pimiento; parte los rábanos y los tomates cherry por la mitad. Pica el perejil.",
+    "Extiende el hummus en 2 platos hondos haciendo un hueco en el centro con el dorso de una cuchara. Pon dentro los garbanzos especiados, riega con la última cucharada de aceite y espolvorea el perejil.",
     "Sirve con las crudités y el pan sin gluten cortado en triángulos para mojar."
   ],
   nutricion: { kcal: 750, prot: 22, hc: 72, grasa: 41 },
@@ -432,9 +431,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava los calabacines y córtalos en láminas finísimas a lo largo con una mandolina o un pelador. Cuanto más finas, mejor absorberán el aliño.",
     "Prepara la vinagreta batiendo el aceite con el zumo de medio limón, un poco de ralladura, sal y pimienta.",
-    "Extiende las láminas de calabacín en 2 platos llanos, superponiéndolas ligeramente, y píntalas con la mitad de la vinagreta. Deja reposar 5 minutos para que se ablanden.",
-    "Reparte por encima la rúcula, los tomates cherry en cuartos y las lonchas de jamón rotas en trozos.",
-    "Haz virutas de parmesano con el pelador y repártelas junto con los piñones.",
+    "Extiende las láminas de calabacín en 2 platos llanos, superponiéndolas ligeramente, y píntalas con la mitad de la vinagreta. Deja reposar 5 minutos para que se ablanden. Mientras, corta los tomates cherry en cuartos y haz virutas de parmesano con el pelador.",
+    "Reparte por encima la rúcula, los tomates cherry y las lonchas de jamón rotas en trozos.",
+    "Reparte las virutas de parmesano y los piñones.",
     "Riega con el resto de la vinagreta y termina con unas escamas de sal."
   ],
   nutricion: { kcal: 440, prot: 24, hc: 8, grasa: 34 },
@@ -517,12 +516,12 @@ window.RECETAS_SEED.push({
     { n: "aceite de sésamo", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Escurre el tofu, envuélvelo en papel de cocina con un peso encima 10 minutos y córtalo en dados pequeños.",
-    "Prepara el aliño batiendo la crema de cacahuete con el tamari, el zumo de las limas, el azúcar, el aceite de sésamo, el chile picado y 2 cucharadas de agua. Debe quedar picante, ácido y salado a la vez.",
-    "Marina los dados de tofu en un tercio del aliño mientras preparas las verduras.",
-    "Corta las dos coles en juliana muy fina, ralla la zanahoria en tiras gruesas, corta la cebolleta en aros y pica gruesas las hierbas.",
+    "Escurre el tofu y envuélvelo en papel de cocina con un peso encima 10 minutos.",
+    "Mientras, pica el chile y prepara el aliño batiendo la crema de cacahuete con el tamari, el zumo de las limas, el azúcar, el aceite de sésamo, el chile y 2 cucharadas de agua. Debe quedar picante, ácido y salado a la vez.",
+    "Corta el tofu en dados pequeños y marínalos en un tercio del aliño mientras preparas las verduras.",
+    "Corta las dos coles en juliana muy fina, ralla la zanahoria en tiras gruesas, corta la cebolleta en aros y pica gruesas las hierbas y los cacahuetes.",
     "En un bol grande mezcla las coles, la zanahoria, la cebolleta y las hierbas con el resto del aliño, masajeando un poco con las manos para que la col se ablande.",
-    "Añade el tofu con su marinada y sirve con los cacahuetes picados por encima."
+    "Añade el tofu con su marinada y sirve con los cacahuetes por encima."
   ],
   nutricion: { kcal: 500, prot: 29, hc: 28, grasa: 30 },
   etiquetas: ["sin gluten", "sin cocción", "vegana", "tupper", "ideal para llevar", "alta en proteína", "picante", "superalimentos"],
@@ -604,9 +603,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Escurre bien el atún y desmígalo con un tenedor.",
     "Pica fino el chipotle y mézclalo con la mayonesa y unas gotas de lima. Mezcla la mitad de esta mayonesa con el atún.",
-    "Prepara un pico de gallo con el tomate en dados pequeños, la cebolla morada muy picada, la mitad del cilantro picado, el zumo de media lima y sal.",
-    "Chafa el aguacate con sal y el resto de la lima.",
-    "Monta justo antes de comer para que no se ablanden: unta cada tostada con aguacate y pon encima lechuga en tiras, el atún y el pico de gallo.",
+    "Corta el tomate en dados pequeños y pica muy fina la cebolla morada y el cilantro. Prepara un pico de gallo con el tomate, la cebolla, la mitad del cilantro, el zumo de media lima y sal.",
+    "Chafa el aguacate con sal y el resto de la lima. Corta la lechuga en tiras.",
+    "Monta justo antes de comer para que no se ablanden: unta cada tostada con aguacate y pon encima la lechuga, el atún y el pico de gallo.",
     "Termina con unos puntos de mayonesa de chipotle y el resto del cilantro."
   ],
   nutricion: { kcal: 685, prot: 28, hc: 36, grasa: 46 },
@@ -648,10 +647,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los tomates en rodajas finas, sálalos y déjalos sobre un colador 10 minutos para que suelten agua. Corta en aros finos el pimiento y la cebolla, y en láminas los rábanos.",
+    "Corta los tomates en rodajas finas, sálalos y déjalos sobre un colador 10 minutos para que suelten agua. Mientras, corta en aros finos el pimiento y la cebolla, en láminas los rábanos y deshuesa las aceitunas y córtalas en rodajas.",
     "Prepara el aliño: frota un bol con el ajo partido y bate en él el aceite, el vinagre, sal y pimienta.",
     "Abre los panes por la mitad en horizontal y retira un poco de miga de la tapa para hacer hueco. Pinta generosamente ambas caras interiores con el aliño: el pan sin gluten es más seco y lo agradece.",
-    "Rellena la base por capas: tomate, atún desmenuzado, anchoas, aceitunas sin hueso en rodajas, pimiento, cebolla, rábano y hojas de albahaca. Riega con el aliño restante.",
+    "Rellena la base por capas: tomate, atún desmenuzado, anchoas, aceitunas, pimiento, cebolla, rábano y hojas de albahaca. Riega con el aliño restante.",
     "Cierra con la tapa, envuelve cada bocadillo muy apretado en film y pon un peso encima (una tabla con un par de latas) al menos 30 minutos en la nevera.",
     "Desenvuelve y córtalo por la mitad: los jugos habrán empapado el pan sin deshacerlo."
   ],
@@ -735,8 +734,8 @@ window.RECETAS_SEED.push({
     "Pica muy fino el ajo.",
     "En una fuente, alterna capas de pimiento y bacalao, repartiendo el ajo y las aceitunas entre ellas. Prueba un trozo de bacalao: si está soso, añade una pizca de sal.",
     "Mezcla el aceite con el jugo reservado de los pimientos y viértelo por encima, asegurándote de que todo quede bañado.",
-    "Tapa y deja reposar en la nevera al menos 1 hora (mejor 3) para que el bacalao se cure en el aceite. Sácalo 15 minutos antes de servir.",
-    "Espolvorea perejil picado y sirve con el pan sin gluten para mojar en el aceite."
+    "Tapa y deja reposar en la nevera al menos 1 hora (mejor 3) para que el bacalao se cure en el aceite. Sácalo 15 minutos antes de servir y, mientras se atempera, pica el perejil.",
+    "Espolvorea el perejil y sirve con el pan sin gluten para mojar en el aceite."
   ],
   nutricion: { kcal: 545, prot: 20, hc: 36, grasa: 35 },
   etiquetas: ["sin gluten", "sin cocción", "tupper", "verano", "tradicional", "sin lácteos", "poco especiada"],
@@ -819,7 +818,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el aliño ranchero mezclando el yogur con la mayonesa, el cebollino picado, el ajo en polvo, el zumo del medio limón, sal, pimienta y 1-2 cucharadas de agua, hasta que quede napante.",
+    "Pica el cebollino y prepara el aliño ranchero mezclando el yogur con la mayonesa, el cebollino, el ajo en polvo, el zumo del medio limón, sal, pimienta y 1-2 cucharadas de agua, hasta que quede napante.",
     "Desmenuza el pollo asado en hebras gruesas.",
     "Lava y corta la lechuga en tiras anchas. Parte los tomates cherry por la mitad, escurre el maíz y pica fina la cebolla morada.",
     "Corta el aguacate en dados justo antes de montar y rocíalo con unas gotas de limón.",
@@ -863,10 +862,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre y enjuaga las judías y déjalas escurrir bien.",
-    "Corta el hinojo por la mitad, quita el corazón duro y lamínalo lo más fino posible; reserva las hojitas verdes. Corta los tomates en dados y la cebolla en juliana fina.",
-    "Prepara el aliño con el zumo y la ralladura del limón, el aceite, las alcaparras picadas, sal y pimienta.",
-    "Mezcla las judías con el hinojo, el tomate, la cebolla y el perejil picado. Aliña y deja reposar 10 minutos.",
-    "Escurre las sardinas y colócalas enteras o en trozos grandes sobre la ensalada.",
+    "Corta el hinojo por la mitad, quita el corazón duro y lamínalo lo más fino posible; reserva las hojitas verdes. Corta los tomates en dados y la cebolla en juliana fina, y pica el perejil y las alcaparras.",
+    "Prepara el aliño con el zumo y la ralladura del limón, el aceite, las alcaparras, sal y pimienta.",
+    "Mezcla las judías con el hinojo, el tomate, la cebolla y el perejil. Aliña y deja reposar 10 minutos.",
+    "Mientras, escurre las sardinas. Pasado el reposo, colócalas enteras o en trozos grandes sobre la ensalada.",
     "Termina con las hojas de hinojo y un poco más de ralladura de limón."
   ],
   nutricion: { kcal: 500, prot: 31, hc: 38, grasa: 24 },
@@ -904,11 +903,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pulpo cocido en rodajas de 1 cm. Si está muy frío, déjalo atemperar 10 minutos para que recupere su textura.",
-    "Pela las naranjas a lo vivo con un cuchillo, quitando toda la parte blanca, y córtalas en rodajas. Recoge el zumo que suelten.",
-    "Corta la cebolleta en aros finos.",
+    "Mientras, pela las naranjas a lo vivo con un cuchillo, quitando toda la parte blanca, y córtalas en rodajas. Recoge el zumo que suelten.",
+    "Corta la cebolleta en aros finos y pica el perejil.",
     "Bate el aceite con el zumo recogido de las naranjas, el vinagre, el pimentón y una pizca de sal hasta que tome un color anaranjado.",
     "Pon los canónigos en la base de los platos y distribuye encima las rodajas de naranja, el pulpo, las aceitunas y la cebolleta.",
-    "Riega con el aliño de pimentón y termina con perejil picado y unas escamas de sal."
+    "Riega con el aliño de pimentón y termina con el perejil y unas escamas de sal."
   ],
   nutricion: { kcal: 395, prot: 20, hc: 21, grasa: 25 },
   etiquetas: ["sin gluten", "sin cocción", "ligera", "tupper", "sin lácteos", "alta en proteína", "poco especiada"],
@@ -993,9 +992,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia los champiñones con un papel húmedo (no los laves bajo el grifo, porque se empapan) y corta la parte sucia del pie.",
     "Lamínalos lo más fino posible con una mandolina o un cuchillo muy afilado y extiéndelos en 2 platos llanos, superponiéndolos.",
-    "Bate el zumo del limón con un poco de su ralladura, el aceite, sal y pimienta. Riega enseguida los champiñones para que no se oscurezcan y deja reposar 5 minutos.",
+    "Ralla un poco de piel del limón, exprímelo y bate el zumo y la ralladura con el aceite, sal y pimienta. Riega enseguida los champiñones para que no se oscurezcan y deja reposar 5 minutos. Mientras, haz virutas de parmesano con el pelador, trocea las nueces y pica el cebollino.",
     "Coloca en el centro un puñado de rúcula.",
-    "Reparte por encima virutas de parmesano, las nueces troceadas y el cebollino picado.",
+    "Reparte por encima el parmesano, las nueces y el cebollino.",
     "Termina con escamas de sal y sirve con el pan sin gluten."
   ],
   nutricion: { kcal: 435, prot: 17, hc: 18, grasa: 32 },
@@ -1036,7 +1035,7 @@ window.RECETAS_SEED.push({
     "Ponlo todo en la batidora con el ajo sin germen, el vinagre, sal y 100 ml de agua fría. Tritura 2 minutos a máxima potencia.",
     "Añade el aceite en hilo con la batidora en marcha para que emulsione. Pásalo por un colador fino si lo quieres con textura de terciopelo.",
     "Prueba y ajusta de sal y vinagre, y enfría al menos 30 minutos en la nevera.",
-    "Corta las gambas cocidas por la mitad y alíñalas con un hilo de aceite, sal y unas hojas de albahaca picada.",
+    "Mientras se enfría, corta las gambas cocidas por la mitad, pica unas hojas de albahaca y aliña las gambas con ella, un hilo de aceite y sal.",
     "Sirve el gazpacho muy frío con las gambas por encima y un último hilo de aceite."
   ],
   nutricion: { kcal: 350, prot: 20, hc: 20, grasa: 21 },
@@ -1078,12 +1077,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre y enjuaga las judías blancas. Alíñalas con el vinagre, 1 cucharada de aceite, la cebolla morada picada fina, sal y pimienta, y déjalas reposar 10 minutos.",
-    "Prepara la crema de mostaza mezclando el yogur con la mostaza antigua, 1 cucharada de aceite, sal y una gota de agua.",
-    "Lamina finos los rábanos y corta los pepinillos en rodajas.",
-    "Saca el rosbif de la nevera 10 minutos antes para que no esté helado y pierda sabor. Dobla las lonchas en forma de ondas.",
+    "Saca el rosbif de la nevera para que no esté helado y pierda sabor. Pica fina la cebolla morada. Escurre y enjuaga las judías blancas, alíñalas con el vinagre, 1 cucharada de aceite, la cebolla, sal y pimienta, y déjalas reposar 10 minutos.",
+    "Mientras, prepara la crema de mostaza mezclando el yogur con la mostaza antigua, 1 cucharada de aceite, sal y una gota de agua.",
+    "Lamina finos los rábanos, corta los pepinillos en rodajas y trocea las nueces.",
+    "Dobla las lonchas de rosbif en forma de ondas.",
     "Monta los platos con la rúcula, las judías, los rábanos y los pepinillos, y coloca encima el rosbif.",
-    "Riega con el resto del aceite, añade unas cucharadas de crema de mostaza y las nueces troceadas. Sirve con el pan sin gluten."
+    "Riega con el resto del aceite, añade unas cucharadas de crema de mostaza y las nueces. Sirve con el pan sin gluten."
   ],
   nutricion: { kcal: 680, prot: 39, hc: 38, grasa: 40 },
   etiquetas: ["sin gluten", "sin cocción", "rápida", "alta en proteína", "poco especiada"],

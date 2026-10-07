@@ -28,9 +28,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Asa los pimientos enteros en la airfryer a 200 °C durante 18–20 minutos, girándolos a mitad. Mételos en un bol tapado 10 minutos, pélalos y córtalos en tiras con su jugo, el ajo laminado, el vinagre, media cucharada de aceite y sal.",
-    "Mientras se asan los pimientos, corta el boniato en rodajas de 1,5 cm con piel y mézclalo con media cucharada de aceite, las hojas de tomillo y sal.",
-    "Cocina el boniato a 200 °C durante 15 minutos, dándole la vuelta a mitad, hasta que esté tierno y con bordes caramelizados. Resérvalo tapado.",
+    "Asa los pimientos enteros en la airfryer a 200 °C durante 18–20 minutos, girándolos a mitad.",
+    "Mientras se asan los pimientos, lamina el ajo y corta el boniato en rodajas de 1,5 cm con piel; mézclalo con media cucharada de aceite, las hojas de tomillo y sal.",
+    "Mete los pimientos en un bol tapado 10 minutos. Mientras sudan, cocina el boniato a 200 °C durante 15 minutos, dándole la vuelta a mitad, hasta que esté tierno y con bordes caramelizados. Resérvalo tapado.",
+    "Pela los pimientos y córtalos en tiras; mézclalos con su jugo, el ajo laminado, el vinagre, media cucharada de aceite y sal.",
     "Sala la presa, úntala con el resto del aceite y cocínala a 200 °C durante 10–12 minutos, dándole la vuelta a mitad, para un punto jugoso y rosado en el centro.",
     "Déjala reposar 5 minutos antes de cortarla en tiras finas a contrapelo.",
     "Sirve la presa con el boniato y los pimientos, y termina con pimienta recién molida."
@@ -72,9 +73,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Deshaz la pasta de achiote con el zumo de media lima, el ajo rallado, media cucharada de aceite y sal. Mezcla las gambas con la mitad de este adobo.",
+    "Ralla el ajo y deshaz la pasta de achiote con el zumo de media lima, el ajo, media cucharada de aceite y sal. Mezcla las gambas con la mitad de este adobo.",
     "Cuece el arroz con 1,5 veces su volumen de agua, el comino y sal, tapado y a fuego bajo, 11 minutos. Añade las alubias encima los últimos 3 minutos para que se calienten y deja reposar tapado.",
-    "Corta el pimiento y la cebolla en cuadrados y ensarta en palillos de brocheta cortos las gambas alternando con la piña y la verdura. Pinta la piña y la verdura con el resto del adobo.",
+    "Mientras se cuece el arroz, pica el cilantro, corta el pimiento y la cebolla en cuadrados y ensarta en palillos de brocheta cortos las gambas alternando con la piña y la verdura. Pinta la piña y la verdura con el resto del adobo.",
     "Cocina las brochetas en la airfryer a 200 °C durante 7–8 minutos, dándoles la vuelta a mitad, hasta que las gambas estén rosadas y opacas y la piña con bordes tostados.",
     "Mezcla el arroz con las alubias, el resto del aceite y el cilantro picado.",
     "Sirve las brochetas sobre el arroz con gajos de lima."
@@ -115,7 +116,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los champiñones con un paño, quítales el pie y pícalo fino. Saltéalo en una sartén con unas gotas de aceite y el ajo picado 3 minutos; añade las espinacas y cocina hasta que se reduzcan. Escurre bien.",
+    "Limpia los champiñones con un paño, quítales el pie y pícalo fino junto con el ajo; pica también las nueces. Saltea los pies y el ajo en una sartén con unas gotas de aceite 3 minutos; añade las espinacas y cocina hasta que se reduzcan. Escurre bien.",
     "Mezcla las espinacas con la ricotta, la mitad del parmesano, las nueces picadas, sal y pimienta.",
     "Rellena los sombreros de champiñón con la mezcla formando una pequeña cúpula y espolvorea el resto del parmesano.",
     "Colócalos en la cesta y cocina a 180 °C durante 12–14 minutos, hasta que los champiñones estén tiernos y el relleno dorado.",
@@ -162,11 +163,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las lentejas remojadas y tritúralas con la batidora junto con el jengibre, el curry, el comino y sal hasta obtener una pasta espesa con algo de textura.",
-    "Mezcla la pasta con la harina de garbanzo, la levadura, las espinacas, la cebolla y el cilantro picados finos. Forma 12 bocados planos con las manos húmedas.",
+    "Con 2 horas de antelación, pon las lentejas en remojo en agua fría. Escúrrelas y tritúralas con la batidora junto con el jengibre, el curry, el comino y sal hasta obtener una pasta espesa con algo de textura.",
+    "Pica finos las espinacas, la cebolla y el cilantro y mézclalos con la pasta, la harina de garbanzo y la levadura. Forma 12 bocados planos con las manos húmedas.",
     "Colócalos en la cesta sobre papel de horno perforado, pincélalos con aceite y cocina a 190 °C durante 14–16 minutos, dándoles la vuelta a mitad, hasta que estén dorados y firmes.",
     "Mientras, cuece el arroz lavado en el microondas con 180 ml de agua y sal, tapado con rendija, 10 minutos a 800 W; reposa 5 minutos.",
-    "Prepara la raita mezclando el yogur vegetal con el pepino rallado y escurrido, la menta picada, el zumo de la lima y sal.",
+    "Mientras se hacen los bocados y el arroz, prepara la raita: ralla el pepino, escúrrelo y mézclalo con el yogur vegetal, la menta picada, el zumo de la lima y sal.",
     "Sirve los bocados con el arroz y la raita."
   ],
   nutricion: { kcal: 550, prot: 28.5, hc: 76.5, grasa: 14.5 },
@@ -209,10 +210,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el arroz integral en abundante agua con sal unos 30 minutos y escúrrelo.",
     "Mientras, machaca el ajo y mézclalo con los pimentones, el orégano, el comino, el vinagre, el tamari y 1 cucharada de aceite. Mezcla el tempeh con el adobo y déjalo 15 minutos.",
-    "Despunta las judías verdes, córtalas por la mitad y mézclalas con el resto del aceite y sal.",
+    "Mientras se adoba, despunta las judías verdes, córtalas por la mitad y mézclalas con el resto del aceite y sal. Corta los piquillos en tiras y pica el perejil.",
     "Cocina el tempeh en la airfryer a 190 °C durante 8 minutos. Agita, añade las judías verdes y cocina 8 minutos más, agitando a mitad, hasta que el tempeh esté dorado y las judías tiernas.",
     "Añade los piquillos en tiras los últimos 2 minutos para que se templen.",
-    "Sirve sobre el arroz integral con perejil picado por encima."
+    "Sirve sobre el arroz integral con el perejil picado por encima."
   ],
   nutricion: { kcal: 575, prot: 30.5, hc: 57.5, grasa: 25 },
   etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -251,9 +252,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la remolacha y córtala en gajos finos; corta las zanahorias en bastones. Mézclalas con 1 cucharadita de aceite, el comino y sal (usa guantes o lávate las manos enseguida: la remolacha tiñe).",
-    "Cocina en la airfryer a 190 °C durante 20–22 minutos, agitando cada 7 minutos, hasta que estén tiernas al pincharlas y con bordes caramelizados.",
+    "Cocina en la airfryer a 190 °C durante 20–22 minutos, agitando cada 7 minutos, hasta que estén tiernas al pincharlas y con bordes caramelizados. Mientras, bate la miel, la mostaza, el vinagre, el resto del aceite, sal y pimienta.",
     "Al sacar las verduras, pon los huevos directamente en la cesta y cocina a 150 °C durante 15 minutos. Pásalos a un bol con agua fría y pélalos.",
-    "Bate la miel, la mostaza, el vinagre, el resto del aceite, sal y pimienta.",
     "Reparte la rúcula en los platos, pon encima las verduras tibias, los huevos en cuartos y el queso fresco desmenuzado.",
     "Riega con la vinagreta justo antes de servir."
   ],
@@ -339,8 +339,8 @@ window.RECETAS_SEED.push({
     "Pasa los boquerones por la harina, sacude bien el exceso y colócalos en la cesta sobre papel de horno perforado, abiertos y sin solaparse (hazlo en dos tandas si no caben).",
     "Pulveriza o pincela por encima con 1 cucharada de aceite repartida.",
     "Cocina a 200 °C durante 8–10 minutos, dándoles la vuelta a los 5, hasta que estén dorados y crujientes.",
-    "Mientras, corta los tomates en rodajas gruesas y la cebolla en juliana fina. Aliña con el resto del aceite, el orégano y sal.",
-    "Sirve los boquerones recién hechos con la ensalada, perejil picado y limón."
+    "Mientras, corta los tomates en rodajas gruesas y la cebolla en juliana fina, y pica el perejil. Aliña la ensalada con el resto del aceite, el orégano y sal.",
+    "Sirve los boquerones recién hechos con la ensalada, el perejil picado y limón."
   ],
   nutricion: { kcal: 460, prot: 41.5, hc: 20.5, grasa: 23.5 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "omega 3", "fácil", "económica", "verano", "poco especiada", "bajo en colesterol"],
@@ -378,9 +378,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la berenjena en dados de 2 cm y mézclala con 1 cucharada de aceite, el orégano y sal. Cocínala en la airfryer a 200 °C durante 10 minutos, agitando a mitad.",
-    "Añade los cherrys enteros y los ajos laminados, agita y cocina 6–8 minutos más, hasta que la berenjena esté dorada y los tomates empiecen a reventar.",
-    "Mientras, cuece los espaguetis en abundante agua con sal el tiempo del paquete. Reserva un vaso del agua de cocción antes de escurrir.",
+    "Pon a calentar abundante agua con sal en la cazuela. Mientras, corta la berenjena en dados de 2 cm y mézclala con 1 cucharada de aceite, el orégano y sal. Cocínala en la airfryer a 200 °C durante 10 minutos, agitando a mitad.",
+    "Mientras, lamina los ajos. Añade a la cesta los cherrys enteros y los ajos laminados, agita y cocina 6–8 minutos más, hasta que la berenjena esté dorada y los tomates empiecen a reventar.",
+    "Cuando el agua hierva, cuece los espaguetis el tiempo del paquete. Reserva un vaso del agua de cocción antes de escurrir.",
     "En la cazuela vacía, mezcla la pasta con las verduras asadas, chafando un poco los tomates, el atún en lascas, las alcaparras, las aceitunas, el resto del aceite y un chorrito del agua de cocción hasta que quede jugosa.",
     "Sirve con albahaca fresca y pimienta recién molida."
   ],
@@ -423,8 +423,8 @@ window.RECETAS_SEED.push({
     "Ralla la coliflor (o tritúrala a impulsos) hasta que parezca arroz. Ponla en un bol tapado y cocínala en el microondas a máxima potencia 5 minutos.",
     "Cuando se temple, ponla en un paño limpio y retuércelo con fuerza hasta sacar todo el agua que puedas: es el truco para que la base quede firme.",
     "Mezcla la coliflor con los huevos, el parmesano, la harina de almendra, la mitad del orégano y sal. Forma 4 bases de 1 cm de grosor sobre trozos de papel de horno del tamaño de la cesta.",
-    "Cocina las bases a 200 °C durante 12 minutos, de dos en dos si no caben, hasta que estén doradas y firmes; dales la vuelta con el papel los últimos 3 minutos.",
-    "Unta las bases con el tomate triturado mezclado con el resto del orégano y sal, reparte la mozzarella y los cherrys en mitades y cocina 4–5 minutos más a 190 °C, hasta que el queso se funda.",
+    "Cocina las bases a 200 °C durante 12 minutos, de dos en dos si no caben, hasta que estén doradas y firmes; dales la vuelta con el papel los últimos 3 minutos. Mientras, mezcla el tomate triturado con el resto del orégano y sal, y parte los cherrys por la mitad.",
+    "Unta las bases con el tomate, reparte la mozzarella y los cherrys y cocina 4–5 minutos más a 190 °C, hasta que el queso se funda.",
     "Termina con la rúcula, la albahaca y un hilo de aceite."
   ],
   nutricion: { kcal: 455, prot: 30, hc: 14.5, grasa: 30.5 },
@@ -461,10 +461,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca la carne de la nevera 20 minutos antes. Corta el boniato en bastones de 1,5 cm con piel y mézclalo con 1 cucharada de aceite, las hojas de romero picadas y sal.",
-    "Cocina el boniato en la airfryer a 200 °C durante 18 minutos, agitando cada 6 minutos. Añade los espárragos, sin la parte dura y untados con unas gotas de aceite y sal, y cocina 5 minutos más. Pásalo todo a una fuente y tápalo.",
-    "Seca los medallones, úntalos con el resto del aceite y el ajo machacado, y salpimiéntalos.",
-    "Cocínalos a 200 °C durante 8–10 minutos para un punto rosado (dales la vuelta a mitad); suma 2–3 minutos si los quieres más hechos.",
+    "Saca la carne de la nevera 20 minutos antes. Corta el boniato en bastones de 1,5 cm con piel y pica las hojas de romero; mezcla el boniato con 1 cucharada de aceite, el romero y sal.",
+    "Cocina el boniato en la airfryer a 200 °C durante 18 minutos, agitando cada 6 minutos. Mientras, quita la parte dura a los espárragos, úntalos con unas gotas de aceite y sal, y machaca el ajo.",
+    "Añade los espárragos a la cesta y cocina 5 minutos más. Pásalo todo a una fuente y tápalo.",
+    "Seca los medallones, úntalos con el resto del aceite y el ajo machacado, y salpimiéntalos. Cocínalos a 200 °C durante 8–10 minutos para un punto rosado (dales la vuelta a mitad); suma 2–3 minutos si los quieres más hechos.",
     "Déjalos reposar 4 minutos tapados. Mientras, mezcla la mostaza con el yogur, una pizca de sal y pimienta.",
     "Sirve el solomillo con el boniato, los espárragos y la salsa de mostaza."
   ],
@@ -507,9 +507,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pincela las tortillas por ambos lados con el aceite y tuéstalas en la airfryer a 190 °C durante 5–6 minutos, de dos en dos y dándoles la vuelta a mitad, hasta que estén rígidas y crujientes. (Si se abomban, pon encima una rejilla apta.)",
-    "Pon las alubias en un bol con el ajo rallado, el comino, el pimentón, el zumo de media lima, 2 cucharadas de agua y sal. Calienta en el microondas 2 minutos y chafa con un tenedor hasta obtener un puré con trozos.",
-    "Corta la lechuga en tiras finas, el tomate en dados y la cebolla en juliana fina; aliña con el zumo de la otra media lima y sal.",
-    "Unta cada tostada con las alubias calientes y reparte encima la ensalada, el queso fresco desmenuzado, el aguacate en láminas y el cilantro.",
+    "Mientras se tuestan, ralla el ajo y pon las alubias en un bol con él, el comino, el pimentón, el zumo de media lima, 2 cucharadas de agua y sal. Calienta en el microondas 2 minutos y chafa con un tenedor hasta obtener un puré con trozos.",
+    "Corta la lechuga en tiras finas, el tomate en dados y la cebolla en juliana fina; aliña con el zumo de la otra media lima y sal. Lamina el aguacate y deshoja el cilantro.",
+    "Unta cada tostada con las alubias calientes y reparte encima la ensalada, el queso fresco desmenuzado, el aguacate y el cilantro.",
     "Sírvelas al momento para que la base siga crujiente."
   ],
   nutricion: { kcal: 445, prot: 19, hc: 54.5, grasa: 16.5 },
@@ -552,11 +552,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la soja texturizada en el caldo caliente 10 minutos y escúrrela apretando bien con las manos.",
-    "Mientras, pica fino los champiñones, la cebolla y el ajo y saltéalos en una sartén con 1 cucharadita de aceite 6–7 minutos, hasta que se evapore el agua.",
-    "Mezcla la soja con el salteado, la harina de garbanzo, el tamari, el pimentón y el comino. Amasa 1 minuto para que ligue y forma 2 hamburguesas de 2 cm.",
     "Corta las patatas en gajos, mézclalas con 1 cucharada de aceite y sal y cocínalas en la airfryer a 200 °C durante 20 minutos, agitando cada 7 minutos. Sácalas a un plato.",
-    "Pincela las hamburguesas con el resto del aceite y cocínalas a 190 °C durante 12 minutos, dándoles la vuelta con cuidado a mitad, hasta que estén doradas y firmes.",
+    "Mientras se hacen, hidrata la soja texturizada en el caldo caliente 10 minutos y escúrrela apretando bien con las manos.",
+    "Mientras se hidrata la soja, pica fino los champiñones, la cebolla y el ajo y saltéalos en una sartén con 1 cucharadita de aceite 6–7 minutos, hasta que se evapore el agua.",
+    "Mezcla la soja con el salteado, la harina de garbanzo, el tamari, el pimentón y el comino. Amasa 1 minuto para que ligue y forma 2 hamburguesas de 2 cm.",
+    "Pincela las hamburguesas con el resto del aceite y cocínalas a 190 °C durante 12 minutos, dándoles la vuelta con cuidado a mitad, hasta que estén doradas y firmes. Mientras, lava la lechuga y corta el tomate en rodajas.",
     "Tuesta los panes 1 minuto en la cesta, devuelve las patatas 2 minutos y monta las hamburguesas con lechuga, tomate y mostaza."
   ],
   nutricion: { kcal: 690, prot: 40, hc: 89, grasa: 19 },
@@ -637,10 +637,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las patatas en dados de 1,5 cm, mézclalas con media cucharada de aceite y sal y cocínalas en la airfryer a 200 °C durante 15 minutos, agitando a mitad. Sácalas a un bol grande.",
-    "Seca muy bien el calamar con papel de cocina y mézclalo con el ajo picado, media cucharada de aceite, la mitad del pimentón y sal.",
-    "Cocínalo en la cesta a 200 °C durante 6–7 minutos, agitando a mitad, hasta que esté opaco y con algún borde dorado. No te pases o quedará duro.",
-    "Mientras, corta el tomate en dados y la cebolleta en rodajas finas. Bate el resto del aceite con el zumo de medio limón, el resto del pimentón y sal.",
-    "Mezcla las patatas templadas con el tomate, la cebolleta, los canónigos y el calamar recién hecho, riega con el aliño y termina con perejil picado."
+    "Mientras se hacen las patatas, pica el ajo, seca muy bien el calamar con papel de cocina y mézclalo con el ajo, media cucharada de aceite, la mitad del pimentón y sal. Corta el tomate en dados, la cebolleta en rodajas finas y pica el perejil.",
+    "Cocina el calamar en la cesta a 200 °C durante 6–7 minutos, agitando a mitad, hasta que esté opaco y con algún borde dorado. No te pases o quedará duro.",
+    "Mientras, bate el resto del aceite con el zumo de medio limón, el resto del pimentón y sal.",
+    "Mezcla las patatas templadas con el tomate, la cebolleta, los canónigos y el calamar recién hecho, riega con el aliño y termina con el perejil picado."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 39, grasa: 16.5 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "ligera", "alta en proteína", "fácil", "verano", "poco especiada"],
@@ -676,7 +676,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el pollo con la ralladura y el zumo de medio limón, las hojas de tomillo, el ajo rallado, la mostaza, media cucharada de aceite, sal y pimienta. Déjalo mientras preparas la verdura.",
+    "Ralla el ajo y mezcla el pollo con él, la ralladura y el zumo de medio limón, las hojas de tomillo, la mostaza, media cucharada de aceite, sal y pimienta. Déjalo mientras preparas la verdura.",
     "Corta las zanahorias en rodajas gruesas al bies y mézclalas con las coles de Bruselas, el resto del aceite y sal.",
     "Cocina las verduras en la airfryer a 200 °C durante 10 minutos, agitando a mitad.",
     "Añade el pollo a la cesta, agita para repartirlo y cocina 10–12 minutos más a 190 °C, agitando una vez, hasta que el pollo esté dorado y las coles con las hojas exteriores tostadas.",
@@ -717,10 +717,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los champiñones por la mitad, el puerro en rodajas de 2 cm (solo la parte blanca y verde clara, bien lavada) y la patata en dados de 1 cm. Mézclalo con los ajos con piel, el tomillo, 1 cucharada de aceite y sal.",
+    "Corta los champiñones por la mitad, el puerro en rodajas de 2 cm (solo la parte blanca y verde clara, bien lavada) y pela la patata y córtala en dados de 1 cm. Mézclalo con los ajos con piel, el tomillo, 1 cucharada de aceite y sal.",
     "Ásalo en la airfryer a 190 °C durante 18–20 minutos, agitando cada 6 minutos, hasta que los champiñones estén dorados y la patata tierna.",
-    "Tuesta las avellanas 3 minutos a 170 °C en la cesta y pícalas groseramente.",
-    "Calienta el caldo en el microondas 3–4 minutos. Pela los ajos y tritura todas las verduras con el caldo y la leche hasta obtener una crema fina. Ajusta de sal y pimienta.",
+    "Tuesta las avellanas 3 minutos a 170 °C en la cesta y, mientras, calienta el caldo en el microondas 3–4 minutos. Pica las avellanas groseramente.",
+    "Pela los ajos y tritura todas las verduras con el caldo y la leche hasta obtener una crema fina. Ajusta de sal y pimienta.",
     "Sirve con las avellanas por encima y un hilo del resto del aceite."
   ],
   nutricion: { kcal: 370, prot: 14, hc: 36, grasa: 19 },
@@ -802,10 +802,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la heura con el ras el hanout, el ajo rallado, la ralladura de medio limón, 1 cucharada de aceite y una pizca de sal.",
+    "Ralla el ajo y mezcla la heura con el ras el hanout, el ajo, la ralladura de medio limón, 1 cucharada de aceite y una pizca de sal.",
     "Corta el calabacín, el pimiento y la cebolla en trozos de 2–3 cm y ensarta brochetas cortas alternando la heura y las verduras.",
     "Cocínalas en la airfryer a 200 °C durante 12 minutos, dándoles la vuelta a mitad, hasta que la heura esté dorada y las verduras tiernas con bordes tostados.",
-    "Mientras, pon el cuscús en un bol con el resto del aceite y sal, vierte el caldo caliente, tapa 5 minutos y suelta los granos con un tenedor. Añade la mitad de la menta picada.",
+    "Mientras, pica la menta. Pon el cuscús en un bol con el resto del aceite y sal, vierte el caldo caliente, tapa 5 minutos y suelta los granos con un tenedor. Añade la mitad de la menta.",
     "Mezcla el yogur vegetal con el zumo de medio limón, el resto de la menta y sal.",
     "Sirve las brochetas sobre el cuscús con la salsa de yogur."
   ],
@@ -1014,11 +1014,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla las patatas con media cucharada de aceite y sal y cocínalas en la airfryer a 200 °C durante 12 minutos, agitando a mitad.",
-    "Añade los trigueros sin la parte dura y los cherrys, con unas gotas de aceite y sal, y agita.",
+    "Mezcla las patatas con media cucharada de aceite y sal y cocínalas en la airfryer a 200 °C durante 12 minutos, agitando a mitad. Mientras, quita la parte dura a los trigueros.",
+    "Añade los trigueros y los cherrys, con unas gotas de aceite y sal, y agita.",
     "Sala los lomos de lubina, úntalos con un poco de aceite y colócalos encima de las verduras con la piel hacia arriba.",
     "Cocina a 190 °C durante 8–9 minutos, hasta que la piel esté tostada y la carne blanca y jugosa.",
-    "Mientras, mezcla el resto del aceite con las alcaparras picadas, la ralladura y el zumo de medio limón y el perejil picado.",
+    "Mientras, pica las alcaparras y el perejil y mézclalos con el resto del aceite y la ralladura y el zumo de medio limón.",
     "Sirve el pescado sobre las verduras y riégalo con el aliño de alcaparras."
   ],
   nutricion: { kcal: 440, prot: 36.5, hc: 28, grasa: 20 },
@@ -1063,9 +1063,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el bulgur en el doble de su volumen de agua con sal, tapado y a fuego bajo, 10 minutos. Deja reposar tapado.",
-    "Seca bien los garbanzos y mézclalos con las especias, 1 cucharada de aceite y sal. Corta la cebolla y el pimiento en tiras y mézclalos con unas gotas de aceite y sal.",
+    "Mientras, seca bien los garbanzos y mézclalos con las especias, 1 cucharada de aceite y sal. Corta la cebolla y el pimiento en tiras y mézclalos con unas gotas de aceite y sal.",
     "Cocina los garbanzos con la cebolla y el pimiento en la airfryer a 200 °C durante 14–16 minutos, agitando cada 5 minutos, hasta que los garbanzos estén tostados y la verdura blanda con bordes dorados.",
-    "Mientras, mezcla el yogur con el tahini, el zumo de medio limón, 1 cucharada de agua y sal. Corta el pepino y el tomate en dados y alíñalos con el resto del aceite y sal.",
+    "Mientras, mezcla el yogur con el tahini, el zumo de medio limón, 1 cucharada de agua y sal. Corta el pepino y el tomate en dados y alíñalos con el resto del aceite y sal. Pica el perejil.",
     "Mezcla el bulgur con el perejil picado y el zumo del otro medio limón.",
     "Monta los bowls con el bulgur, los garbanzos con la verdura, la ensalada de pepino y la salsa de yogur por encima."
   ],
