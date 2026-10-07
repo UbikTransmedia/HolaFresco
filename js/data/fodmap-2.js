@@ -122,7 +122,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz jazmín hasta que el agua salga casi clara y cuécelo con 175 ml de agua y sal, tapado y a fuego mínimo, 12 minutos; déjalo reposar 10 minutos sin destapar.",
-    "Corta cada jurel en 2 o 3 trozos (o hazle dos cortes en la piel si lo dejas entero) y sálalo ligeramente.",
+    "Mientras, corta cada jurel en 2 o 3 trozos (o hazle dos cortes en la piel si lo dejas entero) y sálalo ligeramente.",
     "Pela el jengibre y córtalo en láminas finas; corta la berenjena en bastones de 2 cm y abre los chiles a lo largo.",
     "Haz una cama de jengibre en una cazuela baja, coloca encima el pescado en una sola capa y reparte alrededor la berenjena, los chiles y la pimienta en grano. Vierte el vinagre de arroz, el agua y la salsa de pescado.",
     "Lleva a hervor sin tapar y sin remover durante 3-4 minutos: así el vinagre pierde su aspereza, como se hace en Filipinas.",
@@ -212,8 +212,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Abre los chiles guajillo y ancho, quítales rabos y semillas y tuéstalos en una sartén seca 20 segundos por cada lado, hasta que huelan sin llegar a quemarse. Remójalos 15 minutos en agua muy caliente.",
-    "Escúrrelos y tritúralos con el tamari, el zumo de una lima, el comino, el orégano, el aceite de ajo, sal y 3-4 cucharadas del agua de remojo, hasta obtener una pasta lisa. Mezcla 2 cucharadas de esta pasta con la mayonesa.",
     "Enciende el grill del horno al máximo (250 °C) y coloca la rejilla en la posición alta.",
+    "Escurre los chiles y tritúralos con el tamari, el zumo de una lima, el comino, el orégano, el aceite de ajo, sal y 3-4 cucharadas del agua de remojo, hasta obtener una pasta lisa. Mezcla 2 cucharadas de esta pasta con la mayonesa.",
     "Seca bien las doradas y sálalas. Unta la carne primero con la mayonesa de chile y después con el resto del adobo: la mayonesa ayuda a que se dore sin secarse.",
     "Ponlas con la piel hacia abajo en una bandeja forrada y engrasada y gratínalas 10-12 minutos a unos 10 cm del grill, hasta que la carne esté opaca y los bordes tostados.",
     "Mientras, calienta las tortillas de maíz en la sartén seca 30 segundos por cada lado y guárdalas envueltas en un paño. Corta el pepino en bastones y alíñalo con el zumo de la otra lima y sal.",
@@ -257,7 +257,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara, escúrrelo y cuécelo con 145 ml de agua, tapado a fuego mínimo, 12 minutos; déjalo reposar 10 minutos sin destapar.",
-    "Mezcla el miso, el mirin, el sake y el azúcar hasta tener una salsa lisa.",
+    "Mientras, mezcla el miso, el mirin, el sake y el azúcar hasta tener una salsa lisa.",
     "Corta la col en cuadrados de 3-4 cm, la zanahoria en tiras finas y el pimiento en tiras. Seca el salmón y ponle un poco de pimienta; no lo sales, el miso ya sala.",
     "Calienta el aceite en una sartén grande con tapa a fuego medio-alto y marca el salmón con la piel hacia abajo 2 minutos, hasta que la piel se dore. Sácalo.",
     "Pon en la sartén la col, la zanahoria y el pimiento y coloca el salmón encima, en el centro, con la piel hacia abajo.",
@@ -302,9 +302,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Maja el azafrán en el mortero con una pizca de sal y déjalo 10 minutos en 2 cucharadas de agua caliente.",
     "En un bol mezcla el yogur, el zumo del limón, el aceite de ajo, pimienta, sal y dos tercios del agua de azafrán. Añade el pollo en dados de 4 cm, tapa y deja en la nevera 2 horas (hasta 12).",
-    "Lava el arroz basmati hasta que el agua salga clara y hiérvelo 6 minutos en agua abundante con sal; debe quedar al dente. Escúrrelo.",
+    "Con el pollo ya marinado, pon a hervir abundante agua con sal. Lava el arroz basmati hasta que el agua salga clara y hiérvelo 6 minutos en ella; debe quedar al dente. Escúrrelo.",
     "Derrite la mitad de la mantequilla en una cazuela de fondo grueso, vuelca el arroz formando un montículo, hazle unos agujeros con el mango de una cuchara, tapa con un paño bajo la tapa y cocina a fuego mínimo 20-25 minutos, hasta que se forme una costra dorada en el fondo.",
-    "Ensarta el pollo en brochetas y los tomates enteros en otra aparte.",
+    "Mientras se forma la costra, ensarta el pollo en brochetas y los tomates enteros en otra aparte.",
     "Cocina en la plancha a fuego medio-alto: el pollo 10-12 minutos, girándolo cada 3, hasta que esté tostado por fuera y jugoso dentro; los tomates unos 8 minutos, hasta que la piel se arrugue.",
     "Derrite el resto de la mantequilla con el azafrán que queda y pinta las brochetas al sacarlas.",
     "Sirve el arroz con trozos de su costra, las brochetas, los tomates, el zumaque espolvoreado y hojas de menta."
@@ -348,7 +348,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas 18-20 minutos en agua con sal, hasta que estén tiernas.",
-    "Para la mizeria, corta el pepino en rodajas finísimas, sálalo y déjalo 10 minutos. Escúrrelo apretando con las manos y mézclalo con el yogur, el zumo del limón, la pizca de azúcar, la mitad del eneldo picado y pimienta.",
+    "Mientras, para la mizeria, corta el pepino en rodajas finísimas, sálalo y déjalo 10 minutos. Escúrrelo apretando con las manos y mézclalo con el yogur, el zumo del limón, la pizca de azúcar, la mitad del eneldo picado y pimienta.",
     "Si los filetes de pavo son gruesos, ábrelos en libro. Aplánalos entre dos papeles de horno con un cazo hasta dejarlos de 5 mm y salpimiéntalos.",
     "Pásalos por la harina de arroz, después por el huevo batido y por último por el pan rallado sin gluten, apretando para que se adhiera.",
     "Calienta el aceite de girasol en una sartén, con 1 cm de altura, a 170 °C. Fríe los filetes 2-3 minutos por cada lado, hasta que estén dorados, y escúrrelos sobre una rejilla para que no se ablanden.",
@@ -393,7 +393,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos. Saca las chuletas de la nevera mientras tanto.",
-    "Mezcla el sirope de arce, la mostaza, el vinagre y las hojas del tomillo.",
+    "Mientras, mezcla el sirope de arce, la mostaza, el vinagre y las hojas del tomillo.",
     "Seca las chuletas, salpimiéntalas y haz unos cortes en la grasa del borde cada 3 cm para que no se curven.",
     "Calienta el aceite de ajo en una sartén de hierro a fuego medio-alto y dora las chuletas 4 minutos por cada lado. Baja el fuego, vierte el glaseado y riégalas con una cuchara 1-2 minutos, hasta que la salsa espese y brille. Déjalas reposar 5 minutos.",
     "Añade las judías verdes despuntadas al agua de las patatas en los últimos 6 minutos y escúrrelo todo junto.",
@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 12-15 minutos.",
-    "Corta el solomillo en medallones de 1,5 cm y aplánalos entre dos papeles con un cazo hasta dejarlos de 5-6 mm. Salpimiéntalos y pásalos por la harina de arroz, sacudiendo el exceso.",
+    "Mientras, corta el solomillo en medallones de 1,5 cm y aplánalos entre dos papeles con un cazo hasta dejarlos de 5-6 mm. Salpimiéntalos y pásalos por la harina de arroz, sacudiendo el exceso.",
     "Calienta el aceite de oliva con la mitad de la mantequilla a fuego medio-alto y dora los escalopes 1,5-2 minutos por cada lado. Resérvalos en un plato caliente.",
     "Vierte el vino blanco en la sartén y deja que hierva 1 minuto raspando el fondo. Añade el caldo, el zumo del limón y las alcaparras y reduce 2 minutos.",
     "Fuera del fuego, incorpora el resto de la mantequilla fría moviendo la sartén hasta que la salsa ligue y brille. Devuelve los escalopes 30 segundos para que se napen y espolvorea el perejil picado.",
@@ -486,9 +486,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 170 ml de agua, tapado a fuego mínimo, 12 minutos; déjalo reposar 10 minutos.",
-    "En un bol mezcla las dos carnes con 2 cucharadas de tamari, 1 cucharada de azúcar moreno, el kiwi pelado y rallado, el aceite de ajo, el jengibre rallado, la mitad de la cebolleta picada, 1 cucharadita de aceite de sésamo y pimienta. Amasa 2 minutos, hasta que la mezcla quede pegajosa; no la dejes más de 30 minutos, porque el kiwi deshace la carne.",
+    "Mientras, pon a hervir agua en un cazo para las espinacas. En un bol mezcla las dos carnes con 2 cucharadas de tamari, 1 cucharada de azúcar moreno, el kiwi pelado y rallado, el aceite de ajo, el jengibre rallado, la mitad de la cebolleta picada, 1 cucharadita de aceite de sésamo y pimienta. Amasa 2 minutos, hasta que la mezcla quede pegajosa; no la dejes más de 30 minutos, porque el kiwi deshace la carne.",
     "Forma 4 hamburguesas ovaladas de 1,5 cm de grosor y hunde un poco el centro con el pulgar para que no se abomben.",
-    "Escalda las espinacas 30 segundos en agua hirviendo, enfríalas bajo el grifo, escúrrelas apretando y alíñalas con el resto del aceite de sésamo, la mitad del sésamo y sal.",
+    "Escalda las espinacas 30 segundos en el agua hirviendo, enfríalas bajo el grifo, escúrrelas apretando y alíñalas con el resto del aceite de sésamo, la mitad del sésamo y sal.",
     "Calienta el aceite de girasol en una sartén a fuego medio y cocina las hamburguesas 4 minutos por cada lado; tapa la sartén el último minuto.",
     "Mezcla el tamari y el azúcar restantes con 2 cucharadas de agua, viértelo en la sartén y deja reducir 1 minuto, dándoles la vuelta, hasta que queden lacadas.",
     "Sirve con el arroz y las espinacas, el resto de la cebolleta y el sésamo por encima."
@@ -665,8 +665,8 @@ window.RECETAS_SEED.push({
     "Lava la carcasa y los contramuslos y ponlos en una olla grande con el agua fría. Lleva a hervor lento y retira la espuma durante los primeros 10 minutos.",
     "Añade las zanahorias y la chirivía peladas y enteras, la parte verde del puerro bien lavada, los tallos del perejil, el laurel, las dos pimientas y sal.",
     "Cuece a fuego mínimo y sin tapar del todo 1 hora y 30 minutos. El caldo solo debe temblar en la superficie: si hierve, se enturbia.",
-    "Cuela el caldo. Desmenuza el pollo sin piel ni huesos, corta las zanahorias y la chirivía en rodajas y desecha la carcasa, el puerro y las hierbas. Retira la grasa de la superficie con una cuchara si quieres y prueba de sal.",
-    "Cuece los fideos de arroz aparte, en agua hirviendo, el tiempo que indique el paquete (3-4 minutos), y escúrrelos. Si los cueces en el caldo, se deshacen y lo enturbian.",
+    "Cuela el caldo y pon a hervir agua en un cazo para los fideos. Desmenuza el pollo sin piel ni huesos, corta las zanahorias y la chirivía en rodajas y desecha la carcasa, el puerro y las hierbas. Retira la grasa de la superficie con una cuchara si quieres y prueba de sal.",
+    "Cuece los fideos de arroz aparte, en el agua hirviendo, el tiempo que indique el paquete (3-4 minutos), y escúrrelos. Si los cueces en el caldo, se deshacen y lo enturbian.",
     "Pon los fideos en los platos, añade el pollo y las verduras y cubre con el caldo muy caliente. Termina con las hojas de perejil picadas."
   ],
   nutricion: { kcal: 467, prot: 30, hc: 53, grasa: 15 },
@@ -795,7 +795,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela los langostinos y guarda las colas en la nevera. Rehoga cabezas y cáscaras en un cazo con el aceite de oliva 3 minutos, aplastándolas, hasta que estén rojo intenso. Añade el agua, hierve suave 10 minutos y cuela apretando bien: tendrás unos 450 ml de caldo.",
+    "Pela los langostinos y guarda las colas en la nevera. Rehoga cabezas y cáscaras en un cazo con el aceite de oliva 3 minutos, aplastándolas, hasta que estén rojo intenso. Añade el agua, hierve suave 10 minutos (mientras, pica la cebolleta y el eneldo) y cuela apretando bien: tendrás unos 450 ml de caldo.",
     "En una cazuela ancha calienta el aceite de ajo y rehoga la cebolleta picada 1 minuto. Añade el arroz y remueve 1-2 minutos, hasta que brille.",
     "Vierte el ouzo y deja que se evapore 30 segundos. Añade el tomate triturado, remueve 2 minutos y agrega 400 ml del caldo caliente, sal y pimienta.",
     "Lleva a hervor, tapa y cuece a fuego bajo 15 minutos.",
@@ -844,9 +844,8 @@ window.RECETAS_SEED.push({
     "Lava el arroz basmati hasta que el agua salga clara y déjalo en remojo 20 minutos.",
     "Pon en la olla exprés abierta el cordero con el agua, el cardamomo ligeramente aplastado, el clavo, la canela, el laurel y sal. Lleva a hervor y retira la espuma durante 3 minutos.",
     "Cierra la olla y, cuando suba la válvula, cuece 20-25 minutos a fuego bajo en alta presión. Deja que baje la presión de forma natural 10 minutos.",
-    "Mientras, bate el yogur sin lactosa con la maicena hasta que quede liso y añade el hinojo molido y el jengibre molido.",
+    "Mientras, escurre el arroz y cuécelo con 210 ml de agua y sal, tapado a fuego mínimo, 12 minutos; deja reposar 5 minutos y mantenlo tapado. Bate el yogur sin lactosa con la maicena hasta que quede liso y añade el hinojo molido y el jengibre molido.",
     "Abre la olla. Templa el yogur añadiéndole poco a poco unos cazos del caldo caliente sin dejar de batir; después viértelo en la olla, a fuego medio-bajo, removiendo siempre en el mismo sentido hasta que hierva suavemente. Cocina 8-10 minutos, hasta que la salsa quede cremosa, color marfil, y nape la cuchara.",
-    "Escurre el arroz y cuécelo con 210 ml de agua y sal, tapado a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
     "Calienta la mantequilla clarificada en un cazo pequeño, añade la asafétida 5 segundos y viértelo sobre el cordero. Termina con la menta seca frotada entre las manos y sirve con el arroz."
   ],
   nutricion: { kcal: 745, prot: 49, hc: 63, grasa: 33 },

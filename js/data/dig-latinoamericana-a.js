@@ -43,11 +43,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara el recado: mezcla en un bol el achiote, el zumo de la naranja, el de 1 lima, el comino, el orégano, el aceite de ajo y una pizca de sal hasta tener una pasta fluida de color rojo anaranjado. La mezcla de naranja y lima imita a la naranja agria yucateca.",
     "Seca los lomos de corvina, sálalos y úntalos por todos lados con el recado. Déjalos marinar 15 minutos en la nevera (no más de 30: el ácido empezaría a «cocer» el pescado).",
-    "Precalienta el horno a 200 °C. Si usas hoja de plátano, pásala unos segundos por encima del fuego hasta que brille y se vuelva flexible; si no, corta dos rectángulos de papel de horno.",
+    "Precalienta el horno a 200 °C. Si usas hoja de plátano, pásala unos segundos por encima del fuego hasta que brille y se vuelva flexible; si no, corta dos rectángulos de papel de horno. Corta el tomate en rodajas finas y el pimiento verde en tiras.",
     "Mientras, lava el arroz hasta que el agua salga casi clara y ponlo en una cazuela con 280 ml de agua y sal. Cuando hierva, tapa y cuece a fuego mínimo 15 minutos; apaga y deja reposar tapado 5 minutos.",
-    "Coloca cada lomo sobre su hoja, vierte encima el recado que quede en el bol y cúbrelo con el tomate en rodajas finas y el pimiento verde en tiras. Cierra en paquete y ponlo en una bandeja con la unión hacia abajo.",
-    "Hornea 18-20 minutos, hasta que al abrir una esquina la carne esté opaca y se separe en lascas al presionarla con un tenedor.",
-    "Pica el cebollino y mézclalo con el zumo de la otra lima y una pizca de sal: es la versión suave de la cebolla curtida que acompaña al tikin xic.",
+    "Coloca cada lomo sobre su hoja, vierte encima el recado que quede en el bol y cúbrelo con el tomate y el pimiento. Cierra en paquete y ponlo en una bandeja con la unión hacia abajo.",
+    "Hornea 18-20 minutos, hasta que al abrir una esquina la carne esté opaca y se separe en lascas al presionarla con un tenedor. Mientras, pica el cebollino y mézclalo con el zumo de la otra lima y una pizca de sal: es la versión suave de la cebolla curtida que acompaña al tikin xic.",
     "Sirve el paquete abierto en el plato, con su jugo, el arroz al lado y el cebollino a la lima por encima."
   ],
   nutricion: { kcal: 520, prot: 40, hc: 65, grasa: 11 },
@@ -90,7 +89,7 @@ window.RECETAS_SEED.push({
     "Seca las vieiras con papel de cocina y colócalas en sus conchas (o de 3 en 3 en cazuelitas) sobre una bandeja. Echa a cada una 2-3 gotas de zumo de lima, una pizca de sal y otra de pimienta.",
     "Mezcla el aceite de oliva con el aceite de ajo y pon unas gotas sobre cada vieira. Cúbrelas con una buena cucharadita de parmesano, que las tape por completo.",
     "Gratina en la parte alta del horno 4-5 minutos, hasta que el queso burbujee y tenga manchas doradas. No las dejes más: la vieira debe quedar jugosa y apenas opaca en el centro.",
-    "Mientras, corta la lechuga en tiras y el tomate en gajos, y alíñalos con el resto del zumo de lima y sal.",
+    "Mientras, corta la lechuga en tiras y el tomate en gajos, y alíñalos con el resto del zumo de lima y sal. Pica el perejil.",
     "Sirve las conchitas recién salidas, con el perejil picado por encima, las papas peladas y en rodajas, y la ensalada al lado."
   ],
   nutricion: { kcal: 410, prot: 26, hc: 42, grasa: 15 },
@@ -130,10 +129,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la yuca en trozos de 4-5 cm y cuécela en agua con sal 20-25 minutos, hasta que se abra y esté muy tierna. Retira la fibra dura del centro y reserva un vaso del agua de cocción.",
-    "Mientras, pon el arroz con 200 ml de agua y sal en otra cazuela; cuando hierva, tapa y cuece 15 minutos a fuego mínimo y deja reposar.",
+    "Mientras, pon el arroz con 200 ml de agua y sal en otra cazuela; cuando hierva, tapa y cuece 15 minutos a fuego mínimo y deja reposar. Pica la cebolleta y el cilantro, corta el pimiento verde en dados pequeños y ralla el tomate.",
     "Tritura la yuca con la leche de coco y 100-150 ml del agua de cocción hasta tener una crema lisa y espesa, como un puré fluido.",
     "Adoba los langostinos con el zumo de media lima y una pizca de sal mientras preparas el sofrito.",
-    "En la cazuela de la yuca, calienta el aceite de ajo a fuego medio y rehoga la cebolleta picada 1 minuto y el pimiento verde en dados pequeños 5 minutos. Añade el tomate rallado y cuece 6-8 minutos, hasta que pierda el agua y quede una salsa espesa.",
+    "En la cazuela de la yuca, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto y el pimiento verde 5 minutos. Añade el tomate rallado y cuece 6-8 minutos, hasta que pierda el agua y quede una salsa espesa.",
     "Incorpora los langostinos y cocínalos 2 minutos, hasta que se vuelvan rosados. Vierte la crema de yuca, mezcla y cuece 3 minutos a fuego suave; aclara con un poco de agua si espesa demasiado.",
     "Apaga, añade el aceite de palma y el cilantro picado y prueba de sal. Sirve con el arroz blanco y el resto de la lima en gajos."
   ],
@@ -177,8 +176,8 @@ window.RECETAS_SEED.push({
     "Para la salsa blanca, calienta el aceite en un cazo a fuego medio, añade la harina de arroz y remueve 1 minuto sin que tome color. Vierte la leche de golpe, batiendo con varillas, y cuece 4-5 minutos hasta que espese y nape la cuchara. Sazona con sal y pimienta.",
     "Pela el plátano y córtalo a lo largo en láminas de 1 cm. Dóralas en una sartén antiadherente sin aceite 1 minuto por cada lado, hasta que tengan marcas tostadas.",
     "Escurre la merluza y colócala en una fuente de horno. Cubre con las láminas de plátano, napa con la salsa blanca y espolvorea el parmesano.",
-    "Hornea 15-18 minutos, hasta que la superficie esté dorada y burbujeante y la merluza se separe en lascas.",
-    "Deja reposar 3 minutos, espolvorea perejil picado y sirve con el arroz blanco."
+    "Hornea 15-18 minutos, hasta que la superficie esté dorada y burbujeante y la merluza se separe en lascas. Mientras, pica el perejil.",
+    "Deja reposar 3 minutos, espolvorea el perejil y sirve con el arroz blanco."
   ],
   nutricion: { kcal: 605, prot: 41, hc: 73, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "alta en proteína", "al horno", "para niños"],
@@ -217,11 +216,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la yuca, la patata y el plátano macho pelado en trozos de 4-5 cm. Ponlos en una cazuela ancha con 1 litro de agua, sal y los tallos del cilantro, y cuece tapado 15 minutos desde que hierva.",
-    "Mientras, sala los lomos de dorada. Si usas hoja de plátano, pásala por el fuego unos segundos y envuelve el pescado sin apretar.",
+    "Mientras, sala los lomos de dorada. Si usas hoja de plátano, pásala por el fuego unos segundos y envuelve el pescado sin apretar. Pica la cebolleta y las hojas del cilantro y ralla el tomate.",
     "Coloca el pescado encima de las viandas, que ya estarán casi tiernas, sin sumergirlo en el caldo. Tapa bien y cuece al vapor 10-12 minutos, hasta que la carne esté opaca y se desprenda de la piel.",
-    "Para el hogao, calienta el aceite de ajo en una sartén a fuego medio-bajo, rehoga la cebolleta picada 1 minuto y añade el tomate rallado, el comino, el achiote y una pizca de sal.",
+    "Mientras, para el hogao, calienta el aceite de ajo en una sartén a fuego medio-bajo, rehoga la cebolleta 1 minuto y añade el tomate rallado, el comino, el achiote y una pizca de sal.",
     "Cuece el hogao 10-12 minutos, removiendo de vez en cuando, hasta que el aceite se separe por los bordes y la salsa quede espesa y brillante.",
-    "Sirve en plato hondo las viandas y el pescado con el hogao por encima y las hojas del cilantro picadas. Acompaña con una taza del caldo, colado y caliente, para beber aparte."
+    "Sirve en plato hondo las viandas y el pescado con el hogao por encima y el cilantro picado. Acompaña con una taza del caldo, colado y caliente, para beber aparte."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 82, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "bajo en colesterol", "sin gluten", "alta en proteína"],
@@ -298,10 +297,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 15-18 minutos, hasta que estén tiernas.",
-    "Mientras, haz el pebre: pica el tomate en dados muy pequeños con su jugo, el cilantro y la cebolleta bien finos, y mézclalos con el aceite de ajo, el zumo de medio limón y sal. Deja reposar al menos 10 minutos.",
+    "Mientras, haz el pebre: pica el tomate en dados muy pequeños con su jugo, el cilantro y la cebolleta bien finos, y mézclalos con el aceite de ajo, el zumo de medio limón y sal. Deja reposar al menos 10 minutos. Pica también el cebollino.",
     "Seca bien el salmón con papel de cocina y sálalo. Calienta una sartén antiadherente a fuego medio-alto sin aceite: la grasa del salmón basta.",
     "Pon los lomos con la piel hacia abajo y presiónalos 15 segundos con una espátula. Cocina 4 minutos sin tocarlos, hasta que la piel esté crujiente y el color opaco suba dos tercios del lomo; dales la vuelta y haz 1-2 minutos más.",
-    "Escurre las patatas, colócalas en el plato y aplástalas con un tenedor hasta que se abran. Riégalas con el aceite de oliva, sal y el cebollino picado.",
+    "Escurre las patatas, colócalas en el plato y aplástalas con un tenedor hasta que se abran. Riégalas con el aceite de oliva, sal y el cebollino.",
     "Sirve el salmón sobre las papas con el pebre por encima y a un lado, con todo su jugo."
   ],
   nutricion: { kcal: 495, prot: 31, hc: 39, grasa: 24 },
@@ -339,10 +338,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo hasta que deje de hacer espuma. Ponla con 240 ml de agua y sal, y cuando hierva tapa y cuece 13 minutos a fuego suave; apaga y deja reposar 5 minutos.",
-    "Para la salsa, vacía la pulpa de la fruta de la pasión en un cazo con el zumo de naranja y 2 cucharadas de agua. Lleva a ebullición, añade la maicena disuelta en una cucharada de agua fría y cuece 1 minuto, removiendo, hasta que brille y espese. Sala ligeramente.",
+    "Para la salsa, vacía la pulpa de la fruta de la pasión en un cazo con el zumo de naranja y 2 cucharadas de agua. Lleva a ebullición, añade la maicena disuelta en una cucharada de agua fría y cuece 1 minuto, removiendo, hasta que brille y espese. Sala ligeramente. Pica el cilantro.",
     "Saltea las espinacas en una sartén grande con el aceite de ajo a fuego vivo 2 minutos, hasta que se ablanden pero sigan verdes. Sálalas y resérvalas.",
     "Seca los filetes de trucha y sálalos. Limpia la sartén, úntala con el aceite de oliva y cocina la trucha con la piel hacia abajo 3 minutos a fuego medio-alto, presionando al principio; dales la vuelta y haz 30 segundos más.",
-    "Ahueca la quinoa con un tenedor y mézclala con el cilantro picado.",
+    "Ahueca la quinoa con un tenedor y mézclala con el cilantro.",
     "Sirve la trucha sobre las espinacas, con la quinoa al lado y la salsa de fruta de la pasión por encima."
   ],
   nutricion: { kcal: 515, prot: 42, hc: 51, grasa: 16 },
@@ -384,8 +383,8 @@ window.RECETAS_SEED.push({
     "Hornea las patatas 20-22 minutos, dándoles la vuelta a mitad, hasta que estén tiernas y doradas por los bordes.",
     "Mientras, haz la salsa criolla: corta el tomate sin semillas y el pimiento verde en dados de 5 mm, pica fina la cebolleta y mézclalo todo con el zumo de la lima, el vinagre, el resto del aceite y del orégano y sal. Déjala reposar en la nevera.",
     "Seca las sardinas con papel de cocina, sálalas y colócalas abiertas, con la piel hacia arriba, sobre las patatas.",
-    "Hornea 7-8 minutos, hasta que la piel brille y la carne se vea blanca y se separe de la piel con facilidad.",
-    "Sirve enseguida con la salsa criolla por encima y el perejil picado."
+    "Hornea 7-8 minutos, hasta que la piel brille y la carne se vea blanca y se separe de la piel con facilidad. Mientras, pica el perejil.",
+    "Sirve enseguida con la salsa criolla por encima y el perejil."
   ],
   nutricion: { kcal: 500, prot: 36, hc: 40, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten", "alta en proteína", "al horno", "económica"],
@@ -427,7 +426,7 @@ window.RECETAS_SEED.push({
     "Marina los filetes de cerdo con el zumo de naranja, el de 1 lima, el orégano, sal y pimienta. Déjalos 10 minutos (como mucho 30).",
     "Pon el arroz con 200 ml de agua y sal; cuando hierva, tapa y cuece 15 minutos a fuego mínimo y deja reposar tapado.",
     "Para el chiltomate, tatema los tomates enteros en la plancha o en una sartén sin aceite a fuego medio-alto 8-10 minutos, girándolos, hasta que la piel esté negra a trozos y se ablanden. Tritúralos con el aceite de ajo, unas gotas de lima y sal; debe quedar una salsa rústica y tibia.",
-    "En la misma plancha, asa la cebolleta en trozos de 5 cm 1 minuto por lado. Pica los rábanos muy finos y mézclalos con la cebolleta, la mitad del cilantro picado, zumo de lima y sal: es el salpicón yucateco.",
+    "En la misma plancha, asa la cebolleta en trozos de 5 cm 1 minuto por lado. Pica muy finos los rábanos y el cilantro, y mezcla los rábanos con la cebolleta, la mitad del cilantro, zumo de lima y sal: es el salpicón yucateco.",
     "Sube el fuego al máximo, escurre el cerdo y ásalo 1,5-2 minutos por lado, hasta que tenga marcas tostadas y esté hecho por dentro. Córtalo en tiras.",
     "Calienta las tortillas en la plancha 30 segundos por lado y envuélvelas en un paño.",
     "Sirve el cerdo con el chiltomate, el salpicón de rábano, el resto del cilantro, el arroz y las tortillas para que cada uno arme sus tacos."
@@ -473,11 +472,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el pollo en una cazuela con 600 ml de agua, sal y los tallos del cilantro. Cuando hierva, baja el fuego, espuma y cuece 20 minutos. Saca el pollo y reserva el caldo aparte.",
     "Mientras, tuesta en una sartén sin aceite a fuego medio las pipas 2-3 minutos, hasta que se inflen y empiecen a saltar; luego el sésamo 1 minuto y la canela 1 minuto. Tuesta también la tortilla hasta que esté rígida y con manchas oscuras.",
-    "En la misma sartén, asa los tomates enteros y el pimiento rojo 10-12 minutos, girándolos, hasta que la piel esté tostada y la carne blanda. Pela el pimiento y quítale las semillas.",
+    "En la misma sartén, asa los tomates enteros y el pimiento rojo 10-12 minutos, girándolos, hasta que la piel esté tostada y la carne blanda. Mientras se asan, pela la patata y córtala en dados de 3 cm, corta la zanahoria en rodajas gruesas y las judías verdes en trozos, y pica las hojas del cilantro. Pela el pimiento y quítale las semillas.",
     "Tritura los tomates, el pimiento, las pipas, el sésamo, la canela, la tortilla en trozos, el pimentón y el achiote con 300 ml del caldo hasta obtener un recado espeso y fino.",
     "Calienta el aceite de ajo en la cazuela limpia y vierte el recado. Cuécelo a fuego medio-bajo 10 minutos, removiendo a menudo, hasta que oscurezca un tono y espese.",
-    "Añade la patata en dados de 3 cm, la zanahoria en rodajas gruesas, el pollo y caldo suficiente para que quede un guiso de salsa espesa. Cuece tapado 10 minutos, agrega las judías verdes en trozos y cuece 8 minutos más, hasta que todo esté tierno.",
-    "Prueba de sal y sirve en plato hondo con las hojas de cilantro picadas."
+    "Añade la patata, la zanahoria, el pollo y caldo suficiente para que quede un guiso de salsa espesa. Cuece tapado 10 minutos, agrega las judías verdes y cuece 8 minutos más, hasta que todo esté tierno.",
+    "Prueba de sal y sirve en plato hondo con el cilantro picado."
   ],
   nutricion: { kcal: 545, prot: 49, hc: 44, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "bajo en colesterol", "sin gluten", "alta en proteína", "invierno"],
@@ -517,11 +516,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Adoba el pollo con el zumo de la lima, el jengibre rallado y sal, y déjalo 10 minutos.",
     "Pon el arroz con 240 ml de agua y sal; cuando hierva, tapa y cuece 15 minutos a fuego mínimo y deja reposar.",
-    "Muele las gambas secas y los cacahuetes en un mortero o picadora hasta tener un polvo grueso, como pan rallado.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta picada 1 minuto. Añade el tomate rallado y cuece 5 minutos, hasta que reduzca.",
+    "Muele las gambas secas y los cacahuetes en un mortero o picadora hasta tener un polvo grueso, como pan rallado. Pica la cebolleta y el cilantro y ralla el tomate.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto. Añade el tomate rallado y cuece 5 minutos, hasta que reduzca.",
     "Incorpora el pollo con su adobo y dóralo 3-4 minutos, removiendo, hasta que pierda el color rosado por fuera.",
     "Agrega 150 ml de agua y el polvo de gambas y cacahuete. Cuece a fuego suave 8 minutos, removiendo de vez en cuando, hasta que el pollo esté hecho y la salsa espesa y untuosa.",
-    "Apaga el fuego, añade el dendê y el cilantro picado y mezcla. Sirve con el arroz blanco."
+    "Apaga el fuego, añade el dendê y el cilantro y mezcla. Sirve con el arroz blanco."
   ],
   nutricion: { kcal: 570, prot: 50, hc: 55, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "alta en proteína"],
@@ -564,8 +563,8 @@ window.RECETAS_SEED.push({
     "Pica muy fina la mitad del perejil y mézclalo con el aceite de ajo, el orégano y el pimentón. Unta la carne con esta pasta.",
     "Reparte en filas, a lo ancho, los bastones de zanahoria, las tiras de pimiento y los huevos enteros. Enrolla la carne apretando, en el sentido en que las fibras queden a lo largo del rollo, y átala con bramante cada 3 cm.",
     "Ponla en una cazuela con agua que la cubra, el laurel y sal. Lleva a ebullición, baja a fuego muy suave (que apenas tiemble), tapa y cuece 1 hora y 30 minutos, hasta que un pincho entre sin resistencia.",
-    "Durante los últimos 25 minutos, añade al caldo las patatas peladas en trozos y el resto de la zanahoria en rodajas.",
-    "Saca el matambre, deja que repose 10 minutos (o enfríalo con un peso encima si lo quieres como fiambre) y córtalo en rodajas de 1,5 cm. Sirve con las papas y la zanahoria espolvoreadas con el resto del perejil picado."
+    "Mientras cuece, pela las patatas y córtalas en trozos, corta el resto de la zanahoria en rodajas y pica el resto del perejil. Durante los últimos 25 minutos, añade las patatas y la zanahoria al caldo.",
+    "Saca el matambre, deja que repose 10 minutos (o enfríalo con un peso encima si lo quieres como fiambre) y córtalo en rodajas de 1,5 cm. Sirve con las papas y la zanahoria espolvoreadas con el resto del perejil."
   ],
   nutricion: { kcal: 510, prot: 42, hc: 35, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "alta en proteína", "ideal para llevar", "batch cooking"],
@@ -604,10 +603,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la ternera en una cazuela con agua que la cubra, el laurel y sal. Cuando hierva, espuma, baja el fuego, tapa y cuece 1 hora y 15 minutos, hasta que se deshaga al pincharla. Reserva el caldo.",
-    "Durante la última media hora, cuece la yuca en trozos en agua con sal 20-25 minutos, hasta que se abra. Escúrrela, quítale la fibra central y aplástala con la leche, el aceite de oliva y sal hasta tener un puré liso.",
+    "Durante la última media hora, cuece la yuca en trozos en agua con sal 20-25 minutos, hasta que se abra. Escúrrela, quítale la fibra central y aplástala con la leche, el aceite de oliva y sal hasta tener un puré liso. Mientras la yuca cuece, pica la cebolleta y el perejil y ralla el tomate.",
     "Desmecha la carne con dos tenedores en hebras finas.",
-    "Precalienta el horno a 220 °C. En una sartén, calienta el aceite de ajo a fuego medio, rehoga la cebolleta picada 1 minuto, añade el tomate rallado y el comino y cuece 5 minutos.",
-    "Incorpora la carne y 100 ml del caldo y cuece 5 minutos, hasta que esté jugosa pero sin caldo suelto. Añade la mitad del perejil picado y prueba de sal.",
+    "Precalienta el horno a 220 °C. En una sartén, calienta el aceite de ajo a fuego medio, rehoga la cebolleta 1 minuto, añade el tomate rallado y el comino y cuece 5 minutos.",
+    "Incorpora la carne y 100 ml del caldo y cuece 5 minutos, hasta que esté jugosa pero sin caldo suelto. Añade la mitad del perejil y prueba de sal.",
     "Extiende la carne en una fuente pequeña, cúbrela con el puré de yuca alisándolo con una espátula y espolvorea el parmesano.",
     "Gratina 15 minutos, hasta que la superficie esté dorada. Deja reposar 5 minutos y sirve con el resto del perejil."
   ],
@@ -648,13 +647,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela ancha, calienta casi todo el aceite de ajo (guarda unas gotas para los huevos) a fuego medio y dora la carne 5 minutos, deshaciéndola con la cuchara, hasta que pierda el color rosado y se vea suelta.",
-    "Añade la cebolleta picada, el pimentón, el comino y el orégano, remueve 30 segundos sin que se queme el pimentón y agrega 300 ml de agua.",
-    "Incorpora la patata y la calabaza peladas y en dados de 2 cm, sala, tapa y cuece a fuego medio 15 minutos.",
-    "Añade las judías verdes en trozos de 2 cm y el maíz y cuece 8 minutos más, hasta que la patata y la calabaza se deshagan al presionarlas.",
+    "Pela la patata y la calabaza y córtalas en dados de 2 cm; pica la cebolleta. En una cazuela ancha, calienta casi todo el aceite de ajo (guarda unas gotas para los huevos) a fuego medio y dora la carne 5 minutos, deshaciéndola con la cuchara, hasta que pierda el color rosado y se vea suelta.",
+    "Añade la cebolleta, el pimentón, el comino y el orégano, remueve 30 segundos sin que se queme el pimentón y agrega 300 ml de agua.",
+    "Incorpora la patata y la calabaza, sala, tapa y cuece a fuego medio 15 minutos. Mientras, corta las judías verdes en trozos de 2 cm y pica el perejil.",
+    "Añade las judías verdes y el maíz y cuece 8 minutos más, hasta que la patata y la calabaza se deshagan al presionarlas.",
     "Machaca el guiso a medias con un tenedor o un pasapurés manual, dejando trozos: debe quedar como un puré rústico y jugoso. Si está seco, añade un chorrito de agua caliente.",
     "Cuaja los huevos en una sartén antiadherente untada con unas gotas de aceite de ajo, tapada y a fuego medio-bajo con una cucharada de agua, 3 minutos, hasta que la clara esté blanca y la yema aún jugosa.",
-    "Sirve el charquicán en plato hondo con un huevo encima y perejil picado."
+    "Sirve el charquicán en plato hondo con un huevo encima y el perejil."
   ],
   nutricion: { kcal: 550, prot: 37, hc: 53, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "alta en proteína", "de cuchara", "invierno"],
@@ -696,10 +695,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cubre las nueces con agua hirviendo y déjalas 10 minutos. Frótalas entre los dedos para quitar la piel que se suelte (no hace falta toda): así la nogada queda más blanca y menos amarga, como con la nuez fresca de Puebla.",
     "Lava el arroz y ponlo con 240 ml de agua y sal; cuando hierva, tapa y cuece 15 minutos a fuego mínimo y deja reposar tapado 5 minutos.",
-    "Asa los pimientos enteros en la plancha a fuego medio-alto 10-12 minutos, girándolos, hasta que la piel esté ampollada y con manchas negras. Déjalos sudar tapados 10 minutos, pélalos, ábrelos en canal y quítales las semillas, dejándolos en una pieza.",
+    "Asa los pimientos enteros en la plancha a fuego medio-alto 10-12 minutos, girándolos, hasta que la piel esté ampollada y con manchas negras. Déjalos sudar tapados 10 minutos y, mientras, desgrana la granada y pica el perejil. Pélalos, ábrelos en canal y quítales las semillas, dejándolos en una pieza.",
     "Para la nogada, tritura las nueces escurridas con el queso crema, la leche, la canela, el azúcar y una pizca de sal hasta tener una crema lisa y espesa que nape la cuchara; si queda muy densa, añade una cucharada de leche. Se sirve a temperatura ambiente, como la original.",
     "Salpimienta los filetes de pavo y úntalos con el aceite de ajo. Calienta bien la plancha con el aceite de oliva y ásalos 2 minutos por cada lado, hasta que estén dorados y sin rastro rosado. Déjalos reposar 2 minutos.",
-    "Desgrana la granada y pica el perejil.",
     "Pon en cada plato los pimientos abiertos, encima el pavo y cúbrelo con la nogada sin taparlo del todo. Termina con la granada y el perejil y sirve con el arroz al lado."
   ],
   nutricion: { kcal: 590, prot: 44, hc: 58, grasa: 20 },
@@ -741,12 +739,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Usa una cazuela ancha y baja con tapa o una sartén honda, lo más parecido al disco. Seca el cordero y sálalo. Calienta el aceite de ajo a fuego fuerte y dora la carne en una sola capa, sin moverla al principio, 5-6 minutos en total, hasta que esté tostada por todas las caras.",
-    "Baja a fuego medio, añade los pimientos en tiras anchas y la mitad de la cebolleta picada y rehoga 5 minutos, rascando el fondo, hasta que el pimiento se ablande y brille.",
+    "Usa una cazuela ancha y baja con tapa o una sartén honda, lo más parecido al disco. Corta los pimientos en tiras anchas, pica la cebolleta y ralla el tomate. Seca el cordero y sálalo. Calienta el aceite de ajo a fuego fuerte y dora la carne en una sola capa, sin moverla al principio, 5-6 minutos en total, hasta que esté tostada por todas las caras.",
+    "Baja a fuego medio, añade los pimientos y la mitad de la cebolleta y rehoga 5 minutos, rascando el fondo, hasta que el pimiento se ablande y brille.",
     "Aparta del fuego, añade el pimentón y el orégano y remueve 20 segundos sin que se queme el pimentón. Vuelve al fuego con el tomate rallado y cocina 3 minutos.",
-    "Vierte 300 ml de agua caliente, añade el romero y el laurel, tapa y cuece a fuego suave 35 minutos.",
-    "Incorpora las patatas peladas y cascadas en trozos de 4 cm y la zanahoria en rodajas gruesas, mueve la cazuela para que se asienten en el jugo, tapa y cuece 25-30 minutos más, hasta que la patata esté tierna y el cordero se deshaga con el tenedor. Si se seca, añade un chorrito de agua: debe quedar jugoso, no caldoso.",
-    "Retira el romero y el laurel, prueba de sal y pimienta y sirve en la misma cazuela con el resto de la cebolleta y el perejil picados por encima."
+    "Vierte 300 ml de agua caliente, añade el romero y el laurel, tapa y cuece a fuego suave 35 minutos. Mientras, pela las patatas y cáscalas en trozos de 4 cm, corta la zanahoria en rodajas gruesas y pica el perejil.",
+    "Incorpora las patatas y la zanahoria, mueve la cazuela para que se asienten en el jugo, tapa y cuece 25-30 minutos más, hasta que la patata esté tierna y el cordero se deshaga con el tenedor. Si se seca, añade un chorrito de agua: debe quedar jugoso, no caldoso.",
+    "Retira el romero y el laurel, prueba de sal y pimienta y sirve en la misma cazuela con el resto de la cebolleta y el perejil por encima."
   ],
   nutricion: { kcal: 465, prot: 35, hc: 44, grasa: 16.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "alta en proteína", "una sola sartén", "invierno", "batch cooking"],
@@ -790,7 +788,7 @@ window.RECETAS_SEED.push({
     "Pica las pipas a cuchillo o en picadora (que queden como pan rallado grueso) y mézclalas con el resto del orégano, el comino y una pizca de sal.",
     "Salpimienta el solomillo y márcalo en la misma sartén con 1 cucharadita del aceite de ajo, 1 minuto por cada cara, hasta que esté dorado.",
     "Pásalo a una bandeja, píntalo con el resto del aceite de ajo y presiona encima la mezcla de pipas para que se pegue. Hornea 12-14 minutos (63 °C en el centro si tienes termómetro), hasta que la costra esté tostada.",
-    "Mientras, saltea en la sartén el calabacín y la zanahoria en dados de 1 cm 6 minutos a fuego medio con una pizca de sal; añade el maíz, 2 minutos más, y termina con el resto del zumo de lima y la mitad del cilantro picado.",
+    "Mientras, corta el calabacín y la zanahoria en dados de 1 cm, pica el cilantro y saltea las verduras en la sartén 6 minutos a fuego medio con una pizca de sal; añade el maíz, 2 minutos más, y termina con el resto del zumo de lima y la mitad del cilantro.",
     "Deja reposar el solomillo 5 minutos y córtalo en medallones de 2 cm. Calienta las tortillas en la sartén 30 segundos por lado.",
     "Sirve los medallones sobre la salsa de tomate, con las calabacitas, las tortillas y el resto del cilantro."
   ],
@@ -876,8 +874,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Mezcla la harina de arroz, la maicena y una pizca de sal, añade el aceite y el agua tibia y amasa 1 minuto, hasta tener una masa lisa y algo blanda, como plastilina. Si se agrieta, añade una cucharada de agua.",
     "Estírala con el rodillo entre dos papeles de horno hasta 3 mm, retira el de arriba y vuélcala sobre un molde de 18-20 cm untado con unas gotas de aceite. Si se rompe, pégala presionando con los dedos: la masa sin gluten se arregla sola. Pincha el fondo y hornéala en blanco 10 minutos, hasta que esté seca y apenas dorada.",
-    "Mientras, saltea las espinacas en una sartén grande a fuego vivo, sin aceite, 3-4 minutos, hasta que se reduzcan. Escúrrelas en un colador apretando con una cuchara hasta quitarles toda el agua y pícalas.",
-    "Bate 2 huevos y mézclalos con las espinacas, la cebolleta picada fina, dos tercios del parmesano, la nuez moscada, sal y pimienta.",
+    "Mientras, saltea las espinacas en una sartén grande a fuego vivo, sin aceite, 3-4 minutos, hasta que se reduzcan. Escúrrelas en un colador apretando con una cuchara hasta quitarles toda el agua y pícalas. Pica fina la cebolleta.",
+    "Bate 2 huevos y mézclalos con las espinacas, la cebolleta, dos tercios del parmesano, la nuez moscada, sal y pimienta.",
     "Baja el horno a 180 °C. Rellena la base, alisa y haz dos huecos hondos con el dorso de una cuchara. Casca un huevo entero en cada hueco, sala un poco las claras y espolvorea el resto del parmesano sobre el relleno, no sobre las yemas.",
     "Hornea 18-22 minutos, hasta que el relleno esté firme y las claras blancas y cuajadas; la yema puede quedar algo blanda. Deja reposar la tarta 10 minutos antes de cortarla para que el relleno se asiente.",
     "Mientras reposa, corta el tomate en rodajas y aliñalo con el orégano, el vinagre y sal. Sirve media tarta por persona, cada una con su huevo, y la ensalada al lado."
@@ -919,10 +917,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata el wakame en un bol con agua fría 10 minutos: crecerá unas diez veces. Escúrrelo apretándolo con las manos y pícalo fino.",
-    "Lava el arroz. Calienta el aceite de ajo en una cazuela a fuego medio, nacara el arroz 1 minuto, añade 280 ml de agua y sal y, cuando hierva, tapa y cuece 15 minutos a fuego mínimo; deja reposar 5 minutos sin destapar para que quede graneado.",
-    "Para la salsa criolla, corta el tomate sin semillas en tiras finas y el pepino pelado en medias lunas finas, añade la mitad de la cebolleta en aros finos, el cilantro picado, el zumo de la lima y sal, y deja que se macere.",
-    "Bate los huevos con la harina de arroz hasta que no queden grumos. Añade el wakame, el resto de la cebolleta picada, poca sal (el alga ya es salada) y pimienta.",
+    "Hidrata el wakame en un bol con agua fría 10 minutos: crecerá unas diez veces.",
+    "Mientras se hidrata el alga, lava el arroz. Calienta el aceite de ajo en una cazuela a fuego medio, nacara el arroz 1 minuto, añade 280 ml de agua y sal y, cuando hierva, tapa y cuece 15 minutos a fuego mínimo; deja reposar 5 minutos sin destapar para que quede graneado.",
+    "Para la salsa criolla, corta el tomate sin semillas en tiras finas y el pepino pelado en medias lunas finas, añade la mitad de la cebolleta en aros finos, el cilantro picado, el zumo de la lima y sal, y deja que se macere. Pica fina la otra mitad de la cebolleta.",
+    "Escurre el wakame apretándolo con las manos y pícalo fino. Bate los huevos con la harina de arroz hasta que no queden grumos. Añade el wakame, el resto de la cebolleta, poca sal (el alga ya es salada) y pimienta.",
     "Calienta el aceite de oliva en una sartén antiadherente de 20 cm a fuego medio, vierte el huevo y reparte bien el alga con una espátula. Baja a fuego medio-bajo, tapa y cuaja 4-5 minutos, hasta que los bordes estén firmes y la superficie casi cuajada.",
     "Dale la vuelta con ayuda de un plato y cocina 1-2 minutos más, hasta que esté dorada por las dos caras y jugosa por dentro.",
     "Sirve la tortilla en porciones con el arroz y la salsa criolla por encima, con todo su jugo."
@@ -964,9 +962,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la quinoa frotándola bajo el grifo hasta que deje de hacer espuma y cuécela con 150 ml de agua y sal, tapada y a fuego suave, 13 minutos. Deja que repose y se temple.",
-    "Precalienta el horno a 190 °C. En una sartén de 20 cm apta para horno, calienta el aceite a fuego medio y rehoga la zanahoria rallada y el pimiento en dados pequeños 6-7 minutos, hasta que estén blandos y dulces. Añade la cebolleta picada y el comino, remueve 30 segundos y sala.",
-    "Bate los huevos con sal y pimienta y mézclalos con la quinoa, el queso y la mitad del cilantro picado.",
+    "Lava la quinoa frotándola bajo el grifo hasta que deje de hacer espuma y cuécela con 150 ml de agua y sal, tapada y a fuego suave, 13 minutos. Deja que repose y se temple. Mientras, ralla la zanahoria, corta el pimiento en dados pequeños y pica la cebolleta y el cilantro.",
+    "Precalienta el horno a 190 °C. En una sartén de 20 cm apta para horno, calienta el aceite a fuego medio y rehoga la zanahoria y el pimiento 6-7 minutos, hasta que estén blandos y dulces. Añade la cebolleta y el comino, remueve 30 segundos y sala.",
+    "Bate los huevos con sal y pimienta y mézclalos con la quinoa, el queso y la mitad del cilantro.",
     "Vierte la mezcla sobre las verduras, repártela con una espátula y déjala 2 minutos a fuego medio-bajo, hasta que cuajen los bordes.",
     "Pasa la sartén al horno 12-15 minutos, hasta que la tortilla esté hinchada, dorada por arriba y firme al presionar el centro.",
     "Mientras, corta el tomate en gajos y alíñalo con el zumo de la lima, sal y el resto del cilantro.",
@@ -1054,10 +1052,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el tempeh entero al vapor (en un cestillo sobre agua hirviendo) 10 minutos: le quita el amargor y lo vuelve más tierno. Córtalo en dados de 1 cm.",
+    "Cuece el tempeh entero al vapor (en un cestillo sobre agua hirviendo) 10 minutos: le quita el amargor y lo vuelve más tierno. Mientras, pica la cebolleta y el perejil, corta el pimiento verde en dados pequeños y ralla el tomate. Corta el tempeh en dados de 1 cm.",
     "Pon el arroz con 240 ml de agua y sal; cuando hierva, tapa y cuece 15 minutos a fuego mínimo y deja reposar.",
     "En una sartén honda, calienta el aceite de ajo a fuego medio y dora los dados de tempeh 5 minutos, removiendo, hasta que estén tostados por todas las caras.",
-    "Añade la cebolleta picada, el pimiento verde en dados pequeños y el pimentón y remueve 1 minuto. Incorpora el tomate rallado, el laurel, el tamari y 150 ml de agua, y cuece 10 minutos a fuego suave, hasta que quede un guiso con salsa espesa.",
+    "Añade la cebolleta, el pimiento verde y el pimentón y remueve 1 minuto. Incorpora el tomate rallado, el laurel, el tamari y 150 ml de agua, y cuece 10 minutos a fuego suave, hasta que quede un guiso con salsa espesa.",
     "Para la farofa, tuesta en otra sartén la harina de mandioca con el aceite de oliva y una pizca de sal a fuego medio 4-5 minutos, removiendo sin parar, hasta que esté dorada y huela a tostado. Pásala a un bol.",
     "En la misma sartén, dora el plátano en rodajas gruesas al bies 1-2 minutos por lado, sin aceite, hasta que se caramelice.",
     "Retira el laurel, añade al picadinho la mitad del perejil y sirve con el arroz, la farofa por encima, el plátano al lado y el resto del perejil."
@@ -1100,9 +1098,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 15 minutos. Córtalo en dados de 3 cm.",
+    "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 15 minutos. Mientras, precalienta el horno a 220 °C y corta las patatas en gajos. Corta el tofu en dados de 3 cm.",
     "Mezcla el vinagre, el comino, el orégano, el pimentón, el aceite de ajo y sal. Embadurna el tofu con este adobo y déjalo 15 minutos.",
-    "Mientras, precalienta el horno a 220 °C. Corta las patatas en gajos, mézclalas con 1 cucharadita del aceite de oliva y sal y hornéalas 30 minutos, dándoles la vuelta a mitad, hasta que estén doradas y tiernas.",
+    "Mientras se adoba, mezcla las patatas con 1 cucharadita del aceite de oliva y sal y hornéalas 30 minutos, dándoles la vuelta a mitad, hasta que estén doradas y tiernas.",
     "Para la salsa verde, tritura las hojas de hierbabuena y de cilantro con la cebolleta, el zumo de la lima, el resto del aceite de oliva, 2 cucharadas de agua y sal, hasta tener una salsa fluida.",
     "Ensarta el tofu en 4 brochetas. Ásalas en la plancha bien caliente 8 minutos, girándolas y pintándolas con el adobo sobrante, hasta que tengan los bordes tostados.",
     "En la misma plancha, dora el maíz 2-3 minutos, hasta que tenga puntos tostados.",

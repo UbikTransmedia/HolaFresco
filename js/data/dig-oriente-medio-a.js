@@ -41,10 +41,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz en agua fría hasta que salga casi transparente y déjalo en remojo 10 minutos. Escúrrelo bien.",
-    "Calienta 1 cucharada de aceite en una cazuela a fuego medio y tuesta los piñones 1-2 minutos, removiendo, hasta que estén dorados. Añade la parte verde de la cebolleta en aros finos y rehógala 1 minuto.",
-    "Incorpora el arroz y nácaralo 2 minutos. Añade la pimienta de Jamaica, la canela, el azúcar, sal, pimienta y el agua caliente. Tapa y cuece a fuego suave 10 minutos, hasta que el agua se absorba: el grano debe quedar al dente, porque terminará en el horno. Fuera del fuego, mezcla el eneldo y el perejil picados.",
-    "Precalienta el horno a 200 °C con calor arriba y abajo. Forra un molde redondo de 18-20 cm con papel de horno y úntalo con unas gotas de aceite.",
+    "Lava el arroz en agua fría hasta que salga casi transparente y déjalo en remojo 10 minutos. Mientras, corta la parte verde de la cebolleta en aros finos y pica el eneldo y el perejil. Escurre bien el arroz.",
+    "Calienta 1 cucharada de aceite en una cazuela a fuego medio y tuesta los piñones 1-2 minutos, removiendo, hasta que estén dorados. Añade la cebolleta y rehógala 1 minuto.",
+    "Incorpora el arroz y nácaralo 2 minutos. Añade la pimienta de Jamaica, la canela, el azúcar, sal, pimienta y el agua caliente. Tapa y cuece a fuego suave 10 minutos, hasta que el agua se absorba: el grano debe quedar al dente, porque terminará en el horno. Mientras, precalienta el horno a 200 °C con calor arriba y abajo. Fuera del fuego, mezcla el eneldo y el perejil picados.",
+    "Forra un molde redondo de 18-20 cm con papel de horno y úntalo con unas gotas de aceite.",
     "Sala los boquerones y colócalos en el molde con la piel hacia abajo, como los radios de una rueda: la cola hacia el centro y la otra punta colgando por fuera del borde. Cubre el fondo y las paredes sin dejar huecos.",
     "Rellena con el arroz, aprieta ligeramente con el dorso de una cuchara y dobla hacia dentro los boquerones que cuelgan. Tapa el centro con los que te queden, con la piel hacia arriba, y píntalos con el resto del aceite.",
     "Hornea 25 minutos, hasta que la superficie esté dorada y los boquerones firmes y opacos. Deja reposar 5 minutos, pon una fuente encima y dale la vuelta con decisión.",
@@ -133,10 +133,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Sala el rape y resérvalo en la nevera. Pon el azafrán en remojo en 150 ml de agua caliente.",
-    "Calienta el aceite de ajo en una cazuela ancha a fuego medio, añade la parte verde de la cebolleta picada y rehoga 1 minuto. Incorpora el tomate concentrado, el cilantro molido, la alcaravea y el pimentón, y remueve 30 segundos sin que se quemen: el pimentón amarga si se tuesta.",
-    "Vierte el tomate triturado y el agua con el azafrán, sala ligeramente y cuece a fuego suave 15 minutos, removiendo de vez en cuando, hasta que la salsa espese y el aceite asome en los bordes.",
-    "Aclara las alcaparras, corta las aceitunas en aros y la piel del limón encurtido en tiras finas (raspa antes la pulpa blanca). Añádelo todo a la salsa y cuece 5 minutos más.",
+    "Sala el rape y resérvalo en la nevera. Pon el azafrán en remojo en 150 ml de agua caliente. Pica la parte verde de la cebolleta.",
+    "Calienta el aceite de ajo en una cazuela ancha a fuego medio, añade la cebolleta y rehoga 1 minuto. Incorpora el tomate concentrado, el cilantro molido, la alcaravea y el pimentón, y remueve 30 segundos sin que se quemen: el pimentón amarga si se tuesta.",
+    "Vierte el tomate triturado y el agua con el azafrán, sala ligeramente y cuece a fuego suave 15 minutos, removiendo de vez en cuando, hasta que la salsa espese y el aceite asome en los bordes. Mientras, aclara las alcaparras, corta las aceitunas en aros y la piel del limón encurtido en tiras finas (raspa antes la pulpa blanca), y pica el perejil.",
+    "Añade las alcaparras, las aceitunas y el limón encurtido a la salsa y cuece 5 minutos más.",
     "Coloca los trozos de rape en la salsa, cúbrelos con ella, tapa y cuece a fuego muy suave 8-10 minutos, hasta que el pescado esté blanco y firme. No dejes que hierva fuerte o se pondrá correoso.",
     "Mientras, tuesta el pan en una sartén sin aceite o en la tostadora.",
     "Prueba la salsa (el limón encurtido y las alcaparras ya salan), termina con el perejil picado y sirve con el pan para mojar."
@@ -314,10 +314,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras con piel en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas.",
-    "Mientras, tuesta las nueces en una sartén sin aceite 2-3 minutos, hasta que huelan. Tritúralas con el pimiento, el pan rallado, el comino, el pimentón, el zumo de medio limón, el aceite y una pizca de sal hasta obtener una pasta espesa con algo de textura.",
-    "Precalienta el grill del horno a 230 °C. Coloca los filetes de caballa con la piel hacia arriba en una bandeja con papel, sécalos bien y sálalos.",
+    "Mientras, precalienta el grill del horno a 230 °C y tuesta las nueces en una sartén sin aceite 2-3 minutos, hasta que huelan. Tritúralas con el pimiento, el pan rallado, el comino, el pimentón, el zumo de medio limón, el aceite y una pizca de sal hasta obtener una pasta espesa con algo de textura.",
+    "Coloca los filetes de caballa con la piel hacia arriba en una bandeja con papel, sécalos bien y sálalos.",
     "Ásalos 5-7 minutos a media altura, sin darles la vuelta, hasta que la piel se ampolle y se dore y la carne se vea opaca en los bordes.",
-    "Corta el pepino en medias lunas y aliña con el perejil picado, la menta en tiras, el zumo del otro medio limón y sal.",
+    "Mientras, corta el pepino en medias lunas y aliña con el perejil picado, la menta en tiras, el zumo del otro medio limón y sal.",
     "Chafa ligeramente las patatas con un tenedor. Sirve una cama de muhammara, la caballa encima, las patatas y la ensalada de pepino al lado."
   ],
   nutricion: { kcal: 485, prot: 31, hc: 38, grasa: 23 },
@@ -358,8 +358,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el azafrán en remojo en el agua caliente. Pela las patatas y córtalas en rodajas de 1 cm; pela las zanahorias y córtalas en bastones. Corta la piel del limón encurtido en tiras finas.",
-    "En una sartén ancha y honda con tapa, calienta el aceite de ajo a fuego medio, añade el jengibre rallado y la cúrcuma y remueve 30 segundos.",
+    "Pon el azafrán en remojo en el agua caliente. Pela las patatas y córtalas en rodajas de 1 cm; pela las zanahorias y córtalas en bastones. Corta la piel del limón encurtido en tiras finas y ralla el jengibre.",
+    "En una sartén ancha y honda con tapa, calienta el aceite de ajo a fuego medio, añade el jengibre y la cúrcuma y remueve 30 segundos.",
     "Vierte el agua con el azafrán, añade las patatas, las zanahorias y el limón encurtido, sala con moderación y cuece tapado a fuego suave 15 minutos, hasta que las verduras estén tiernas.",
     "Mientras, tritura el cilantro con el aceite de oliva y una pizca de sal hasta obtener un aceite verde intenso.",
     "Sala y pimienta la lubina y colócala sobre las verduras con la piel hacia arriba. Añade las aceitunas, tapa y escalfa 6-7 minutos con el caldo apenas temblando, hasta que la carne esté blanca y opaca.",
@@ -493,11 +493,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Amasa la carne con la pimienta de Jamaica, la canela, la mitad del perejil picado, sal y pimienta, y forma 16 albóndigas del tamaño de una nuez.",
+    "Precalienta el horno a 220 °C. Pica el perejil y la parte verde de la cebolleta. Amasa la carne con la pimienta de Jamaica, la canela, la mitad del perejil picado, sal y pimienta, y forma 16 albóndigas del tamaño de una nuez.",
     "Colócalas en una bandeja con papel de horno y hornéalas 10 minutos, hasta que estén doradas por fuera. Así se sellan sin freírlas.",
     "Mientras, calienta el aceite de ajo en una cazuela a fuego medio, rehoga la parte verde de la cebolleta 1 minuto, añade el tomate concentrado y remueve 1 minuto. Vierte el tomate triturado y 150 ml de agua, sala y cuece 10 minutos.",
     "Añade las albóndigas a la salsa, tapa y cuece a fuego suave 15 minutos, hasta que la salsa espese y las albóndigas estén tiernas.",
-    "Para el arroz, parte los fideos de arroz en trozos de 2 cm y tuéstalos en una cazuela con el aceite de oliva a fuego medio, removiendo, 2 minutos, hasta que estén dorados. Añade el arroz lavado, remueve, vierte 240 ml de agua caliente y sal, tapa y cuece a fuego mínimo 12 minutos. Reposa 5 minutos.",
+    "Mientras se cuecen las albóndigas, prepara el arroz: parte los fideos de arroz en trozos de 2 cm y tuéstalos en una cazuela con el aceite de oliva a fuego medio, removiendo, 2 minutos, hasta que estén dorados. Añade el arroz lavado, remueve, vierte 240 ml de agua caliente y sal, tapa y cuece a fuego mínimo 12 minutos. Reposa 5 minutos.",
     "Tuesta los piñones en una sartén sin aceite hasta que estén dorados, vigilándolos porque se queman en segundos.",
     "Sirve las albóndigas con su salsa junto al arroz, con los piñones y el resto del perejil por encima."
   ],
@@ -586,11 +586,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Escalda las aceitunas: cúbrelas de agua fría en un cazo, llévalas a ebullición y escúrrelas. Repite una vez más. Así pierden sal y amargor.",
     "Calienta el aceite de ajo en una cazuela a fuego medio y dora los contramuslos 2-3 minutos por cada lado.",
-    "Añade la parte verde de la cebolleta picada, la cúrcuma, la canela, el laurel y pimienta, remueve 30 segundos y vierte el agua. Sala poco (las aceitunas aportarán más), tapa y cuece a fuego suave 20 minutos.",
-    "Incorpora las zanahorias en rodajas y cuece 15 minutos más, tapado.",
-    "Añade las aceitunas y cuece 10 minutos destapado para que la salsa se concentre.",
+    "Añade la parte verde de la cebolleta picada, la cúrcuma, la canela, el laurel y pimienta, remueve 30 segundos y vierte el agua. Sala poco (las aceitunas aportarán más), tapa y cuece a fuego suave 20 minutos. Mientras, pela las zanahorias y córtalas en rodajas.",
+    "Incorpora las zanahorias y cuece 15 minutos más, tapado.",
+    "Añade las aceitunas y cuece 10 minutos destapado para que la salsa se concentre. Mientras, pica el perejil y tuesta el pan.",
     "Disuelve la maicena en el zumo de medio limón, viértela en la cazuela y remueve 2 minutos, hasta que la salsa espese y brille. Retira la canela y el laurel.",
-    "Termina con el perejil picado y sirve con el pan tostado y el otro medio limón en gajos."
+    "Termina con el perejil y sirve con el pan tostado y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 430, prot: 30, hc: 26, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "batch cooking"],
@@ -632,10 +632,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18 minutos, hasta que estén muy tiernas. Escúrrelas bien y déjalas evaporar 3 minutos en la olla caliente.",
-    "Aplástalas en un puré sin grumos, deja templar y añade el huevo batido, la harina de arroz y sal. Amasa hasta que la masa sea lisa y no se pegue a las manos húmedas.",
-    "Para el relleno, calienta 1 cucharadita de aceite en una sartén a fuego medio-alto y dora la carne 6 minutos, deshaciéndola con la cuchara. Añade la cebolleta verde picada, la cúrcuma, la pimienta de Jamaica, la canela, sal y pimienta, y cocina 1 minuto. Fuera del fuego, mezcla la mitad del perejil y deja enfriar.",
-    "Precalienta el horno a 210 °C y forra una bandeja con papel untado con un poco de aceite.",
+    "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18 minutos, hasta que estén muy tiernas.",
+    "Mientras, prepara el relleno: pica la parte verde de la cebolleta y el perejil. Calienta 1 cucharadita de aceite en una sartén a fuego medio-alto y dora la carne 6 minutos, deshaciéndola con la cuchara. Añade la cebolleta, la cúrcuma, la pimienta de Jamaica, la canela, sal y pimienta, y cocina 1 minuto. Fuera del fuego, mezcla la mitad del perejil y deja enfriar. Precalienta el horno a 210 °C.",
+    "Escurre bien las patatas y déjalas evaporar 3 minutos en la olla caliente. Aplástalas en un puré sin grumos, deja templar y añade el huevo batido, la harina de arroz y sal. Amasa hasta que la masa sea lisa y no se pegue a las manos húmedas.",
+    "Forra una bandeja con papel untado con un poco de aceite.",
     "Divide la masa en 8 porciones. Con las manos mojadas, aplana cada una en la palma, pon una cucharada de relleno en el centro, cierra la masa encima y dale forma de disco ovalado de 2 cm de grosor.",
     "Colócalas en la bandeja, píntalas con el resto del aceite y hornea 25 minutos, dándoles la vuelta a mitad, hasta que estén doradas por ambas caras.",
     "Mientras, corta los tomates y el pepino en dados y aliña con el zumo de limón, el resto del perejil, sal y el zumaque. Sirve las kubbas calientes con la ensalada."
@@ -678,10 +678,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Infusiona el azafrán en 1 cucharada de agua caliente 5 minutos. Mézclalo con el yogur, la ralladura y el zumo de medio limón y sal. Embadurna los filetes de pavo y déjalos marinar mientras haces el puré (al menos 15 minutos).",
-    "Pela la chirivía y la patata, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos, hasta que estén muy tiernas.",
+    "Pela la chirivía y la patata, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos, hasta que estén muy tiernas. Mientras, tuesta las almendras en una sartén sin aceite, pícalas gruesas y pica el cebollino.",
     "Escúrrelas y tritúralas con la leche caliente, la mitad del aceite, el comino, sal y pimienta hasta obtener un puré fino.",
-    "Tuesta las almendras en una sartén sin aceite y pícalas gruesas.",
-    "Retira el exceso de marinada del pavo con una espátula. Calienta la plancha a fuego medio-alto con el resto del aceite y cocina los filetes 4 minutos por lado, hasta que estén dorados y el centro jugoso pero sin rastro rosado.",
+        "Retira el exceso de marinada del pavo con una espátula. Calienta la plancha a fuego medio-alto con el resto del aceite y cocina los filetes 4 minutos por lado, hasta que estén dorados y el centro jugoso pero sin rastro rosado.",
     "Deja reposar el pavo 2 minutos y córtalo en tiras. Sirve sobre el puré con las almendras, el cebollino picado y gajos del otro medio limón."
   ],
   nutricion: { kcal: 500, prot: 44, hc: 45, grasa: 16 },
@@ -722,11 +721,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla la piel de una naranja y exprime el zumo de las dos. Mezcla la ralladura, el zumo de media naranja, la mitad de la canela, el jengibre rallado y sal, y unta las codornices. Déjalas marinar 15 minutos.",
-    "Precalienta el horno a 220 °C. Corta las zanahorias en bastones, mézclalas con el aceite, el comino y sal en una bandeja y ásalas 10 minutos.",
+    "Precalienta el horno a 220 °C. Ralla la piel de una naranja y exprime el zumo de las dos. Mezcla la ralladura, el zumo de media naranja, la mitad de la canela, el jengibre rallado y sal, y unta las codornices. Déjalas marinar 15 minutos.",
+    "Mientras marinan, corta las zanahorias en bastones, mézclalas con el aceite, el comino y sal en una bandeja y ásalas 10 minutos.",
     "Coloca las codornices sobre las zanahorias con la piel hacia arriba (no necesitan aceite: la piel suelta su propia grasa) y hornea 15 minutos.",
     "Mientras, lava el mijo y tuéstalo en una cazuela sin aceite a fuego medio 3 minutos, hasta que cruja y huela a avellana. Añade el agua hirviendo y sal, tapa y cuece a fuego mínimo 15 minutos. Reposa 5 minutos tapado.",
-    "Reduce el resto del zumo con el sirope y la canela restante en una sartén 5 minutos, hasta que tenga textura de almíbar.",
+    "Reduce el resto del zumo con el sirope y la canela restante en una sartén 5 minutos, hasta que tenga textura de almíbar. Pica el cilantro y la menta.",
     "Pinta las codornices con el glaseado y gratínalas 2-3 minutos con el grill, hasta que brillen y se caramelicen; el jugo del muslo debe salir transparente.",
     "Suelta el mijo con un tenedor y mézclalo con las zanahorias asadas y las hierbas picadas. Sirve las codornices encima con el glaseado que quede."
   ],
@@ -772,11 +771,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en una cazuela el pollo, la parte verde de la cebolleta picada, el jengibre rallado, el azafrán, la cúrcuma, media cucharadita de canela, 1 cucharadita de aceite, sal, pimienta y el agua. Tapa y cuece a fuego suave 25 minutos, hasta que la carne se deshaga.",
-    "Mientras, pela las patatas y cuécelas en trozos en agua con sal 18 minutos. Escúrrelas y aplástalas con la leche caliente y sal hasta obtener un puré fino.",
-    "Saca el pollo y deshébralo. Sube el fuego y reduce el caldo hasta que queden unos 100 ml.",
+    "Mientras, pela las patatas y cuécelas en trozos en agua con sal 18 minutos. Escúrrelas y aplástalas con la leche caliente y sal hasta obtener un puré fino. Pica el perejil y el cilantro.",
+    "Precalienta el horno a 200 °C. Saca el pollo y deshébralo. Sube el fuego y reduce el caldo hasta que queden unos 100 ml.",
     "Baja el fuego al mínimo, añade los huevos batidos al caldo y remueve sin parar 2-3 minutos, hasta que cuajen en una crema de grumos finos. Mezcla con el pollo, el perejil y el cilantro picados.",
     "Tuesta las almendras en seco, pícalas y mézclalas con el azúcar y el resto de la canela.",
-    "Precalienta el horno a 200 °C. En una fuente de 20 cm extiende el pollo, esparce la mitad de las almendras, cubre con el puré, dibuja surcos con un tenedor y pinta con el resto del aceite.",
+    "En una fuente de 20 cm extiende el pollo, esparce la mitad de las almendras, cubre con el puré, dibuja surcos con un tenedor y pinta con el resto del aceite.",
     "Hornea 15 minutos y gratina 2 minutos, hasta que los surcos se doren. Espolvorea el resto de las almendras con canela y sirve."
   ],
   nutricion: { kcal: 570, prot: 42, hc: 49, grasa: 23 },
@@ -817,10 +816,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Asa la berenjena entera pinchada con un tenedor bajo el grill a 230 °C (o directamente sobre la llama del fogón) 15-20 minutos, dándole la vuelta, hasta que la piel esté negra y la pulpa se hunda al tocarla.",
-    "Mientras, pela las patatas, córtalas en trozos y cuécelas en agua con sal 15 minutos, hasta que estén tiernas. Escúrrelas.",
+    "Mientras, pela las patatas, córtalas en trozos y cuécelas en agua con sal 15 minutos, hasta que estén tiernas. Mientras se cuecen, ralla los tomates y descarta la piel, corta el pimiento en tiras finas y pica el perejil. Escurre las patatas.",
     "Pela la berenjena, pica la pulpa con un cuchillo y déjala escurrir 5 minutos en un colador. Aplástala con las patatas, 1 cucharadita de aceite de ajo y sal. Fuera del fuego, mezcla el yogur: si lo calientas mucho, se corta.",
-    "Ralla los tomates y descarta la piel. Corta el pimiento en tiras finas.",
-    "Calienta el aceite de oliva en una sartén a fuego fuerte y marca los dados de ternera 2 minutos, hasta que se doren por fuera. Sácalos.",
+        "Calienta el aceite de oliva en una sartén a fuego fuerte y marca los dados de ternera 2 minutos, hasta que se doren por fuera. Sácalos.",
     "En la misma sartén, a fuego medio, rehoga el pimiento 3 minutos, añade el tomate, el comino y el pimentón y cocina 5 minutos, hasta que espese. Devuelve la carne con sus jugos, sala y calienta 1 minuto.",
     "Sirve una cama de crema de berenjena, la carne con su salsa encima, el resto del aceite de ajo y el perejil picado."
   ],
@@ -866,10 +864,9 @@ window.RECETAS_SEED.push({
     "Corta las judías en trozos de 1 cm y escáldalas 4 minutos en agua hirviendo con sal. Escúrrelas y pásalas por agua fría. Pon el azafrán en remojo en 1 cucharada de agua caliente.",
     "Calienta 1 cucharadita de aceite en una sartén antiadherente de 22 cm a fuego medio y saltea las judías con la parte verde de la cebolleta picada y la cúrcuma 3 minutos. Deja templar.",
     "Bate los huevos con el azafrán, la harina de arroz, el bicarbonato, sal y pimienta hasta que no queden grumos. Añade las judías y el perejil picado.",
-    "Limpia la sartén, caliéntala a fuego medio-bajo con el resto del aceite, vierte la mezcla, tapa y cuaja 12-15 minutos, hasta que los bordes estén firmes y el centro casi cuajado.",
+    "Limpia la sartén, caliéntala a fuego medio-bajo con el resto del aceite, vierte la mezcla, tapa y cuaja 12-15 minutos, hasta que los bordes estén firmes y el centro casi cuajado. Mientras, mezcla el yogur con el pepino rallado y escurrido, la menta seca y sal.",
     "Dale la vuelta con ayuda de un plato y cocina 3-4 minutos más por el otro lado, hasta que esté dorada y firme al tacto.",
-    "Mientras, mezcla el yogur con el pepino rallado y escurrido, la menta seca y sal.",
-    "Corta la kuku en porciones y sírvela templada con el yogur y la pita calentada."
+        "Corta la kuku en porciones y sírvela templada con el yogur y la pita calentada."
   ],
   nutricion: { kcal: 410, prot: 22, hc: 35, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "ideal para llevar"],
@@ -911,12 +908,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pela la patata y la calabaza y córtalas en dados de 2 cm. Mézclalas en una bandeja con papel con el aceite de oliva y sal, y hornéalas 15 minutos.",
-    "Corta los pimientos en trozos de 3 cm y los tomates por la mitad. Añádelos a la bandeja (los tomates con el corte hacia arriba), remueve y hornea 15-20 minutos más, hasta que la patata esté dorada, el pimiento con manchas tostadas y el tomate arrugado.",
-    "Mientras, prepara el tabil: tuesta las semillas de cilantro y la alcaravea en una sartén seca 1 minuto, hasta que huelan, y muélelas en el mortero con el pimentón.",
+    "Mientras, corta los pimientos en trozos de 3 cm y los tomates por la mitad. Añádelos a la bandeja (los tomates con el corte hacia arriba), remueve y hornea 15-20 minutos más, hasta que la patata esté dorada, el pimiento con manchas tostadas y el tomate arrugado.",
+    "Mientras, prepara el tabil: tuesta las semillas de cilantro y la alcaravea en una sartén seca 1 minuto, hasta que huelan, y muélelas en el mortero con el pimentón. Tuesta el pan y pica el perejil.",
     "Pasa las verduras asadas a la tabla y pícalas con un cuchillo grande en trozos de 1 cm, sin llegar a hacer puré. Ponlas en un bol con el tabil, las alcaparras aclaradas, la mitad del aceite de ajo y sal.",
     "Bate los huevos con una pizca de sal. Calienta el resto del aceite de ajo en una sartén antiadherente a fuego medio-bajo y cuaja los huevos 2-3 minutos, removiendo despacio con una espátula, hasta que estén cremosos pero sin líquido.",
     "Incorpora las verduras a la sartén y mezcla 1 minuto, cortando con la espátula para que el huevo quede repartido en trocitos entre la verdura, como lo pican en los puestos de Túnez.",
-    "Tuesta el pan y sirve el kafteji templado con el perejil picado y pimienta por encima."
+    "Sirve el kafteji templado con el pan, el perejil picado y pimienta por encima."
   ],
   nutricion: { kcal: 470, prot: 19, hc: 52, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada"],
@@ -1000,8 +997,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la calabaza (la japonesa puede quedarse con algo de piel) y córtala en dados de 2 cm.",
-    "Calienta el aceite de ajo en una sartén honda con tapa a fuego medio, añade la parte verde de la cebolleta picada y el jengibre rallado y rehoga 1 minuto. Añade la canela y el comino y remueve 30 segundos.",
+    "Pela la calabaza (la japonesa puede quedarse con algo de piel) y córtala en dados de 2 cm. Pica la parte verde de la cebolleta y ralla el jengibre.",
+    "Calienta el aceite de ajo en una sartén honda con tapa a fuego medio, añade la cebolleta y el jengibre y rehoga 1 minuto. Añade la canela y el comino y remueve 30 segundos.",
     "Incorpora la calabaza, rehógala 5 minutos, añade el tomate y 100 ml de agua, sala y cuece tapado 15 minutos, hasta que la calabaza esté tierna.",
     "Aplasta un tercio de la calabaza con el dorso de un tenedor para espesar el ragú. Haz cuatro huecos y casca un huevo en cada uno. Sala las claras.",
     "Tapa y cuaja a fuego suave 5-6 minutos, hasta que las claras estén blancas y firmes.",
@@ -1086,7 +1083,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima 10 minutos para que suelte el agua y córtalo en 4 filetes gruesos.",
-    "Tritura las nueces con la mitad de los granos de granada, el zumo del limón, el aceite de ajo, la mitad del perejil y la menta y sal, hasta obtener una pasta granulosa de color rosado.",
+    "Mientras, tritura las nueces con la mitad de los granos de granada, el zumo del limón, el aceite de ajo, la mitad del perejil y la menta y sal, hasta obtener una pasta granulosa de color rosado.",
     "Unta los filetes de tofu por ambos lados con la pasta y déjalos marinar 10 minutos.",
     "Mientras, lava el arroz y cuécelo con 280 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Apaga, mezcla el eneldo picado y deja reposar tapado 5 minutos.",
     "Calienta una sartén antiadherente a fuego medio (no fuerte: la nuez se quema) y cocina el tofu 3-4 minutos por lado, hasta que se forme una costra dorada.",

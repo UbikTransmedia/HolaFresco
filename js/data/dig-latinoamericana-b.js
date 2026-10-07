@@ -42,9 +42,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta la calabaza en gajos con piel, ponlos en una bandeja con papel de horno y ásalos 35 minutos, hasta que la carne se hunda al apretarla con un tenedor. Asarla en lugar de hervirla evita que el budín suelte agua.",
+    "Precalienta el horno a 200 °C. Corta la calabaza en gajos con piel, ponlos en una bandeja con papel de horno y ásalos 35 minutos, hasta que la carne se hunda al apretarla con un tenedor. Asarla en lugar de hervirla evita que el budín suelte agua. Mientras, pica muy fina la cebolleta.",
     "Deja templar la calabaza 5 minutos, retira la piel con una cuchara y aplasta la carne en un bol con un tenedor hasta tener un puré con alguna hebra. Baja el horno a 180 °C.",
-    "Bate los huevos con la leche y la maicena hasta que no queden grumos. Añádelos al puré junto con tres cuartas partes del queso, la cebolleta picada muy fina, la nuez moscada, sal y pimienta, y mezcla bien.",
+    "Bate los huevos con la leche y la maicena hasta que no queden grumos. Añádelos al puré junto con tres cuartas partes del queso, la cebolleta, la nuez moscada, sal y pimienta, y mezcla bien.",
     "Unta un molde de unos 18 × 22 cm con 1 cucharadita de aceite, vierte la mezcla, alisa la superficie y espolvorea el resto del queso.",
     "Hornea 30-35 minutos, hasta que el centro no tiemble al mover el molde y la superficie esté dorada a manchas. Si la pinchas con un palillo, debe salir húmedo pero limpio.",
     "Deja reposar el budín 10 minutos fuera del horno para que se asiente y se corte en porciones limpias.",
@@ -133,10 +133,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava bien las patatas y cuécelas enteras con piel en agua con sal 20-25 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y déjalas secar 2 minutos en la misma olla destapada.",
-    "Mientras, ralla los tomates por el lado grueso del rallador y desecha la piel. Corta la cebolleta en aros finos.",
+    "Mientras, ralla los tomates por el lado grueso del rallador y desecha la piel. Corta la cebolleta en aros finos y pica el cilantro.",
     "Para el hogao, calienta el aceite de ajo en una sartén a fuego medio-bajo y rehoga dos tercios de la cebolleta 2 minutos. Añade el comino y el achiote, remueve 20 segundos, incorpora el tomate y cocina 10-12 minutos, hasta que se reduzca a una salsa espesa que ya no suelta agua.",
     "Baja el fuego al mínimo, vierte la leche y deja que se caliente sin hervir. Añade la mozzarella y remueve 1-2 minutos, solo hasta que se funda en hebras y la salsa quede cremosa y anaranjada. Prueba de sal y pimienta.",
-    "Corta el pepino en medias lunas finas y alíñalo con el zumo de la lima, sal y la mitad del cilantro picado.",
+    "Corta el pepino en medias lunas finas y alíñalo con el zumo de la lima, sal y la mitad del cilantro.",
     "Parte las patatas por la mitad, colócalas en los platos con el corte hacia arriba, aplástalas un poco con un tenedor y «chorréalas» con la salsa caliente. Termina con el resto de la cebolleta y del cilantro y sirve con el pepino."
   ],
   nutricion: { kcal: 520, prot: 20, hc: 72, grasa: 17 },
@@ -179,11 +179,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 280 ml de agua y una pizca de sal: lleva a ebullición, tapa y deja 15 minutos a fuego mínimo y 5 de reposo sin destapar.",
-    "Despunta las judías y córtalas en bastones de 5 cm al bies. Escáldalas 3 minutos en agua hirviendo con sal y enfríalas en agua fría: así quedan verdes y tiernas, más fáciles de digerir. Corta la zanahoria en bastones finos, el pimiento en tiras, el tomate en gajos sin semillas, la cebolleta en trozos de 3 cm y ralla el jengibre.",
+    "Despunta las judías y córtalas en bastones de 5 cm al bies. Escáldalas 3 minutos en agua hirviendo con sal y enfríalas en agua fría: así quedan verdes y tiernas, más fáciles de digerir. Corta la zanahoria en bastones finos, el pimiento en tiras, el tomate en gajos sin semillas, la cebolleta en trozos de 3 cm, ralla el jengibre y pica el cilantro.",
     "Bate los huevos con una pizca de sal. Calienta el wok con el aceite de girasol a fuego medio, vierte los huevos y haz una tortilla fina, cuajada en 1-2 minutos por cada lado. Sácala, enróllala y córtala en tiras.",
     "Sube el fuego al máximo, añade el aceite de ajo y saltea la zanahoria 2 minutos. Incorpora las judías, el pimiento y el jengibre y saltea 2 minutos más, moviendo sin parar, hasta que las verduras tengan puntos dorados pero sigan crujientes.",
     "Añade el tomate y la cebolleta, saltea solo 1 minuto para que el tomate se caliente sin deshacerse, y vierte el vinagre por el borde del wok: chisporroteará y se evaporará en segundos. Añade el tamari y el comino y mezcla.",
-    "Incorpora las tiras de huevo, da dos vueltas y apaga el fuego. Sirve enseguida con el arroz en forma de cúpula y el cilantro picado por encima."
+    "Incorpora las tiras de huevo, da dos vueltas y apaga el fuego. Sirve enseguida con el arroz en forma de cúpula y el cilantro por encima."
   ],
   nutricion: { kcal: 545, prot: 21, hc: 72, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica"],
@@ -225,10 +225,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enciende el grill del horno al máximo. Pon los pimientos enteros en la bandeja, a unos 10 cm del grill, y ásalos 12-15 minutos, dándoles la vuelta a mitad, hasta que la piel esté ampollada y con manchas negras.",
     "Mételos en un bol, tápalo con un plato y déjalos sudar 10 minutos: la piel se desprenderá sola. Mientras, pela la patata, córtala en dados de 1,5 cm y cuécela 8-10 minutos en agua con sal, hasta que esté tierna; escúrrela.",
-    "Pela los pimientos, quítales las semillas y córtalos en tiras de 1 cm (las rajas). Pica la cebolleta.",
+    "Pela los pimientos, quítales las semillas y córtalos en tiras de 1 cm (las rajas). Pica la cebolleta y el cilantro.",
     "Calienta el aceite de ajo en una sartén a fuego medio y rehoga la cebolleta 1 minuto. Añade las rajas, la patata, el maíz, el orégano y el comino y saltea 3 minutos, hasta que la patata coja algún punto dorado.",
     "Baja el fuego, añade el queso crema y la leche y remueve hasta tener una salsa lisa que envuelva las verduras, 2-3 minutos. Incorpora el manchego, deja que se funda 1 minuto y prueba de sal.",
-    "Calienta las tortillas en una sartén sin aceite, 30 segundos por cada lado, y envuélvelas en un paño. Sirve las rajas con cilantro picado, gajos de lima y las tortillas para que cada uno se haga sus tacos."
+    "Calienta las tortillas en una sartén sin aceite, 30 segundos por cada lado, y envuélvelas en un paño. Sirve las rajas con el cilantro, gajos de lima y las tortillas para que cada uno se haga sus tacos."
   ],
   nutricion: { kcal: 500, prot: 16, hc: 63, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "económica"],
@@ -316,11 +316,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 280 ml de agua y una pizca de sal: 15 minutos tapado a fuego mínimo y 5 de reposo sin destapar.",
-    "Envuelve el tofu en papel de cocina, ponle un peso encima 10 minutos para que suelte el agua y córtalo en dados de 2 cm. Mientras, escalda, pela y pica los tomates; pica el pimiento y la cebolleta, y corta las aceitunas en rodajas.",
+    "Envuelve el tofu en papel de cocina, ponle un peso encima 10 minutos para que suelte el agua y córtalo en dados de 2 cm. Mientras, escalda, pela y pica los tomates; pica el pimiento, la cebolleta y el perejil, y corta las aceitunas en rodajas.",
     "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto y dora el tofu 6-8 minutos, girándolo, hasta que tenga una costra dorada por varias caras. Sácalo y sálalo.",
     "En la misma sartén, a fuego medio-bajo, calienta el aceite de ajo y rehoga el pimiento y la cebolleta 5 minutos, hasta que estén tiernos.",
     "Añade el tomate, el laurel, el orégano y la canela y cuece 10 minutos, aplastando el tomate, hasta tener una salsa espesa y brillante. Incorpora las aceitunas y las alcaparras y cuece 2 minutos más; prueba antes de salar, ya aportan sal.",
-    "Devuelve el tofu a la salsa y déjalo 3 minutos a fuego suave para que se impregne. Retira el laurel, rocía unas gotas de lima y sirve con el arroz y el perejil picado por encima."
+    "Devuelve el tofu a la salsa y déjalo 3 minutos a fuego suave para que se impregne. Retira el laurel, rocía unas gotas de lima y sirve con el arroz y el perejil por encima."
   ],
   nutricion: { kcal: 585, prot: 28, hc: 70, grasa: 21.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "económica"],
@@ -363,9 +363,9 @@ window.RECETAS_SEED.push({
     "Cuece el tempeh al vapor 10 minutos: le quita el amargor y lo hace más digestivo. Déjalo templar y desmenúzalo con dos tenedores en hebras y migas irregulares, como la carne mechada.",
     "En un bol, disuelve 1 cucharadita de sal en el agua templada y añade la harina en lluvia mientras mezclas con la mano. Amasa 2 minutos, hasta tener una masa lisa que no se agriete en los bordes al aplastarla; si se agrieta, añade una cucharada de agua. Déjala reposar 5 minutos tapada.",
     "Precalienta el horno a 200 °C. Divide la masa en 4 bolas, aplánalas en discos de 1,5 cm de grosor y ásalas en una sartén antiadherente sin aceite a fuego medio, 5 minutos por cada lado, hasta que tengan costra con manchas tostadas. Pásalas a la bandeja y hornéalas 12-15 minutos: están hechas cuando suenan huecas al darles un golpecito.",
-    "Mientras, ralla el tomate y desecha la piel; corta el pimiento en tiras finas y la cebolleta en aros. Calienta el aceite de ajo en la sartén a fuego medio y rehoga el pimiento y la cebolleta 5 minutos.",
+    "Mientras, ralla el tomate y desecha la piel; corta el pimiento en tiras finas y la cebolleta en aros, la lechuga en tiras finas y pica el cilantro. Calienta el aceite de ajo en la sartén a fuego medio y rehoga el pimiento y la cebolleta 5 minutos.",
     "Añade el comino y el pimentón, remueve 20 segundos, incorpora el tomate y cuece 5 minutos. Añade el tempeh y el tamari y cocina 5 minutos más, removiendo, hasta que la salsa se haya absorbido y el relleno quede jugoso pero sin caldo.",
-    "Abre las arepas calientes por un lado con un cuchillo, como un bolsillo, y rellénalas con el tempeh, lechuga en tiras finas aliñada con la lima y cilantro picado. Sírvelas recién hechas."
+    "Abre las arepas calientes por un lado con un cuchillo, como un bolsillo, y rellénalas con el tempeh, la lechuga aliñada con la lima y el cilantro. Sírvelas recién hechas."
   ],
   nutricion: { kcal: 605, prot: 27, hc: 81, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol"],
@@ -406,9 +406,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon la pechuga en una cazuela con agua fría que la cubra, el laurel, la mitad de la zanahoria en trozos grandes y sal. Lleva a hervor suave y cuece 15 minutos a fuego bajo, sin que borbotee; apaga y deja el pollo 10 minutos más en el caldo para que quede jugoso.",
     "Mientras, pela la patata y el resto de la zanahoria y córtalos en dados de 1 cm. Cuécelos en agua con sal: la zanahoria 8 minutos y la patata 7-8, hasta que estén tiernos pero enteros. Escurre y deja enfriar extendidos en una bandeja.",
-    "Corta las judías en trozos de 1 cm y cuécelas 5 minutos; enfríalas en agua fría y escúrrelas.",
+    "Corta las judías en trozos de 1 cm y cuécelas 5 minutos; enfríalas en agua fría y escúrrelas. Mientras se cuecen, corta la cebolleta en aros finos y pica el perejil.",
     "Saca el pollo y la zanahoria del caldo (guárdalo para otra receta). Deshilacha el pollo con dos tenedores en hebras finas y corta en dados la zanahoria cocida con él.",
-    "En un bol grande, mezcla la mayonesa con el yogur, el zumo de media lima, sal y pimienta. Añade el pollo, la patata, la zanahoria, las judías, la cebolleta en aros finos y la mitad del perejil picado, y mezcla con cuidado para no romper la patata.",
+    "En un bol grande, mezcla la mayonesa con el yogur, el zumo de media lima, sal y pimienta. Añade el pollo, la patata, la zanahoria, las judías, la cebolleta y la mitad del perejil, y mezcla con cuidado para no romper la patata.",
     "Deja reposar en la nevera al menos 15 minutos para que los sabores se asienten. Sirve sobre hojas de lechuga, con el resto del perejil y gajos de lima."
   ],
   nutricion: { kcal: 485, prot: 41, hc: 44, grasa: 16 },
@@ -451,9 +451,9 @@ window.RECETAS_SEED.push({
     "Pela la yuca, córtala en trozos de 5 cm, ábrelos a lo largo y quítales la hebra fibrosa del centro. Cuécela en agua con sal y el laurel 20-25 minutos, hasta que esté tierna y algo translúcida. Pela la patata, córtala en trozos y cuécela aparte 15 minutos.",
     "Cuece los huevos 10 minutos, enfríalos en agua fría, pélalos y córtalos en cuartos.",
     "Pon el bacalao en un cazo con agua fría, llévalo a punto de hervor y apágalo en cuanto aparezcan las primeras burbujas; déjalo 5 minutos en el agua. Escúrrelo, quítale piel y espinas y desmígalo en lascas grandes.",
-    "En un bol, bate el aceite con el vinagre, pimienta y una pizca de sal (el bacalao ya es salado). Añade el tomate en gajos sin semillas y la cebolleta en aros finos, y deja que se maceren 5 minutos.",
+    "En un bol, bate el aceite con el vinagre, pimienta y una pizca de sal (el bacalao ya es salado). Añade el tomate en gajos sin semillas y la cebolleta en aros finos, y deja que se maceren 5 minutos. Mientras, pica el cilantro.",
     "Corta la yuca y la patata templadas en rodajas gruesas y repártelas en los platos. Coloca encima el bacalao, los huevos y las aceitunas en rodajas.",
-    "Vierte por encima el tomate con todo su aliño, termina con el cilantro picado y sirve templado o a temperatura ambiente."
+    "Vierte por encima el tomate con todo su aliño, termina con el cilantro y sirve templado o a temperatura ambiente."
   ],
   nutricion: { kcal: 600, prot: 34, hc: 70, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "ideal para llevar"],
@@ -494,8 +494,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon en una cazuela agua que cubra el pescado con el laurel y sal. Cuando hierva, baja el fuego para que apenas tiemble, mete la merluza y escálfala 6-8 minutos, hasta que esté opaca y se separe en lascas. Sácala con una espumadera, déjala templar y desmenúzala con los dedos, buscando cualquier espina.",
-    "Precalienta el horno a 200 °C. Corta las tortillas en triángulos, extiéndelos en una bandeja sin que se solapen y hornéalos 8-10 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes.",
+    "Precalienta el horno a 200 °C. Pon en una cazuela agua que cubra el pescado con el laurel y sal. Cuando hierva, baja el fuego para que apenas tiemble, mete la merluza y escálfala 6-8 minutos, hasta que esté opaca y se separe en lascas. Sácala con una espumadera, déjala templar y desmenúzala con los dedos, buscando cualquier espina.",
+    "Corta las tortillas en triángulos, extiéndelos en una bandeja sin que se solapen y hornéalos 8-10 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes.",
     "Corta el tomate sin semillas, el pepino y el pimiento en dados de 5 mm; pica fina la cebolleta y el cilantro y corta las aceitunas en rodajas.",
     "En un bol grande, bate el zumo de las limas con el aceite, el orégano, sal y pimienta. Añade las verduras, las aceitunas, el cilantro y el pescado, y mezcla con cuidado para no deshacer las lascas.",
     "Déjalo reposar 10 minutos en la nevera para que el pescado se empape del aliño. Prueba de sal y de lima.",
@@ -587,8 +587,8 @@ window.RECETAS_SEED.push({
     "Tritura el tomate con el pimiento hasta tener un puré muy fino. Pica la cebolleta y, por separado, los tallos y las hojas del cilantro.",
     "Calienta el aceite de ajo en la cazuela a fuego medio, rehoga la cebolleta y los tallos de cilantro 1 minuto y añade el arroz. Remueve 2 minutos, hasta que los granos se vuelvan blanquecinos y nacarados.",
     "Vierte el puré de tomate con el orégano y el laurel y cocina 5 minutos, removiendo, hasta que se reduzca y se pegue al arroz con un color rojo intenso.",
-    "Añade el caldo y el líquido de los mejillones, prueba de sal y cuece 15 minutos a fuego medio-bajo, sin tapar, removiendo de vez en cuando. El arroz debe quedar tierno y nadando en un caldo espeso, no seco.",
-    "Incorpora las gambas y cuece 2-3 minutos, hasta que se curven y se vuelvan rosadas. Añade los mejillones, las hojas de cilantro y el perejil picados y apaga el fuego.",
+    "Añade el caldo y el líquido de los mejillones, prueba de sal y cuece 15 minutos a fuego medio-bajo, sin tapar, removiendo de vez en cuando. El arroz debe quedar tierno y nadando en un caldo espeso, no seco. Mientras, pica el perejil.",
+    "Incorpora las gambas y cuece 2-3 minutos, hasta que se curven y se vuelvan rosadas. Añade los mejillones, las hojas de cilantro y el perejil y apaga el fuego.",
     "Deja reposar 2 minutos y sirve en platos hondos con gajos de lima para exprimir en la mesa."
   ],
   nutricion: { kcal: 520, prot: 29, hc: 70, grasa: 14 },
@@ -677,8 +677,8 @@ window.RECETAS_SEED.push({
     "Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora el cerdo 4-5 minutos, hasta que esté marcado por fuera. Baja el fuego, añade la cebolleta, el pimentón y el comino y remueve 20 segundos.",
     "Incorpora el tomate, el laurel y 150 ml de agua (aparte de la del angu), tapa y guisa 25 minutos a fuego suave, hasta que la carne esté tierna y la salsa haya espesado. Prueba de sal.",
     "Mientras, para el angu, deslíe la harina en 300 ml del agua fría en un bol. Lleva a ebullición los otros 500 ml en un cazo, vierte la mezcla removiendo con varillas y cuece a fuego mínimo 25 minutos, removiendo a menudo con cuchara de madera, hasta que se despegue de las paredes y tenga textura de puré espeso y liso. Tradicionalmente no lleva sal; añade una pizca si lo prefieres.",
-    "Quita el nervio a las hojas de kale, enróllalas y córtalas en hebras finísimas. Saltéalas en una sartén con el aceite de oliva y una pizca de sal a fuego fuerte 2 minutos, solo hasta que estén verde brillante.",
-    "Sirve el angu en platos hondos, haz un hueco en el centro con el dorso de una cuchara y vierte el guiso de cerdo. Acompaña con la couve y termina con el perejil picado."
+    "Quita el nervio a las hojas de kale, enróllalas y córtalas en hebras finísimas; pica el perejil. Saltea el kale en una sartén con el aceite de oliva y una pizca de sal a fuego fuerte 2 minutos, solo hasta que estén verde brillante.",
+    "Sirve el angu en platos hondos, haz un hueco en el centro con el dorso de una cuchara y vierte el guiso de cerdo. Acompaña con la couve y termina con el perejil."
   ],
   nutricion: { kcal: 590, prot: 40, hc: 63, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica", "alta en proteína", "invierno"],
@@ -719,10 +719,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la yuca, córtala en trozos, ábrelos a lo largo y quita la hebra fibrosa del centro. Cuécela en agua con sal 25-30 minutos, hasta que esté muy tierna y empiece a abrirse. Escúrrela bien y déjala humear 5 minutos para que pierda agua.",
     "Mientras, prepara el tuco: calienta el aceite de ajo en una cazuela a fuego bajo, rehoga la cebolleta picada 1 minuto y añade el tomate, el orégano, el laurel, el azúcar y sal. Cuece 25 minutos a fuego mínimo, semitapado, hasta que espese y el aceite asome en la superficie.",
-    "Pasa la yuca todavía caliente por un pasapurés o aplástala muy bien con un tenedor, descartando cualquier hebra. Déjala templar hasta que puedas tocarla.",
+    "Pasa la yuca todavía caliente por un pasapurés o aplástala muy bien con un tenedor, descartando cualquier hebra. Déjala templar hasta que puedas tocarla y, mientras, pon a hervir una olla con abundante agua y sal.",
     "Añade el huevo, 40 g de parmesano rallado, la nuez moscada y el almidón poco a poco, amasando con las manos solo hasta tener una masa suave que no se pegue. No la trabajes de más o los ñoquis quedarán duros.",
     "Divide la masa en 4 partes, haz cilindros de 2 cm de grosor sobre la mesa espolvoreada con almidón y córtalos en trozos de 2 cm. Si quieres las rayas clásicas, pásalos por el dorso de un tenedor.",
-    "Cuece los ñoquis en abundante agua con sal en dos tandas: cuando suban a la superficie, déjalos 1 minuto más y sácalos con una espumadera directamente a la cazuela del tuco.",
+    "Cuece los ñoquis en el agua hirviendo en dos tandas: cuando suban a la superficie, déjalos 1 minuto más y sácalos con una espumadera directamente a la cazuela del tuco.",
     "Mezcla con cuidado a fuego suave 1 minuto, retira el laurel y sirve con la albahaca en hojas y el resto del parmesano rallado."
   ],
   nutricion: { kcal: 625, prot: 18, hc: 97, grasa: 18 },
@@ -808,12 +808,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Tritura los tomates con la zanahoria pelada y troceada hasta tener un puré fino, y pásalo por un colador apretando con una cuchara para quitar pieles y semillas.",
-    "Corta el pavo en dados de 2 cm y sálalo. Calienta el aceite de oliva en una cazuela a fuego medio-alto y dóralo 3-4 minutos, hasta que esté marcado por fuera. Sácalo.",
-    "Baja el fuego, añade el aceite de ajo y la cebolleta picada y rehoga 1 minuto. Aparta del fuego, añade el pimentón, el orégano y el comino y remueve 20 segundos.",
+    "Tritura los tomates con la zanahoria pelada y troceada hasta tener un puré fino, y pásalo por un colador apretando con una cuchara para quitar pieles y semillas. Pica la cebolleta y el perejil.",
+    "Pon a hervir agua abundante con sal para la pasta. Corta el pavo en dados de 2 cm y sálalo. Calienta el aceite de oliva en una cazuela a fuego medio-alto y dóralo 3-4 minutos, hasta que esté marcado por fuera. Sácalo.",
+    "Baja el fuego, añade el aceite de ajo y la cebolleta y rehoga 1 minuto. Aparta del fuego, añade el pimentón, el orégano y el comino y remueve 20 segundos.",
     "Vierte el puré de tomate y zanahoria y el laurel, sala y cuece 12 minutos a fuego medio-bajo, hasta que la salsa espese y tome un rojo oscuro. Devuelve el pavo y cuece 5 minutos más, hasta que esté hecho por dentro.",
-    "Mientras, cuece los espaguetis en abundante agua con sal el tiempo que indique el envase menos 1 minuto. Remueve los primeros minutos: la pasta sin gluten tiende a pegarse.",
-    "Escúrrelos reservando un vaso del agua y pásalos a la cazuela. Mezcla 1 minuto a fuego suave con un chorrito del agua de cocción, hasta que la salsa los envuelva. Retira el laurel y sirve con el parmesano rallado y el perejil picado."
+    "Mientras, cuece los espaguetis en el agua hirviendo el tiempo que indique el envase menos 1 minuto. Remueve los primeros minutos: la pasta sin gluten tiende a pegarse.",
+    "Escúrrelos reservando un vaso del agua y pásalos a la cazuela. Mezcla 1 minuto a fuego suave con un chorrito del agua de cocción, hasta que la salsa los envuelva. Retira el laurel y sirve con el parmesano rallado y el perejil."
   ],
   nutricion: { kcal: 610, prot: 41, hc: 75, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "verduras escondidas", "para niños", "alta en proteína"],
@@ -852,7 +852,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz hasta que el agua salga clara. Ponlo en una cazuela con la leche de coco, 200 ml de agua, el azúcar y una pizca de sal, lleva a ebullición y remueve una vez.",
     "Tapa y cuece 15 minutos a fuego mínimo; apaga y deja reposar 5 minutos sin destapar. Debe quedar suelto, brillante y con un aroma dulce de coco.",
-    "Mientras, corta el tomate en dados sin semillas, el pepino en medias lunas y la cebolleta en aros. Mézclalos con el zumo de una lima, sal y la mitad del cilantro picado y deja que se maceren.",
+    "Mientras, corta el tomate en dados sin semillas, el pepino en medias lunas y la cebolleta en aros, y pica el cilantro. Mézclalos con el zumo de una lima, sal y la mitad del cilantro y deja que se maceren.",
     "Seca bien los filetes de caballa con papel de cocina y haz dos cortes superficiales en la piel para que no se encorven. Salpimiéntalos.",
     "Calienta la plancha antiadherente a fuego medio-alto, sin aceite, y pon la caballa con la piel hacia abajo. Hazla 3 minutos sin moverla, hasta que la piel esté crujiente y la carne se vea opaca casi hasta arriba; dale la vuelta y deja 1 minuto más.",
     "Ahueca el arroz con un tenedor y sirve con la caballa encima, la ensalada al lado, el resto del cilantro y gajos de la otra media lima."
@@ -893,10 +893,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en trozos irregulares de 3 cm. Corta la cebolleta en aros finos.",
     "Calienta el aceite de ajo en una cazuela a fuego medio-bajo y rehoga la mitad de la cebolleta 1 minuto. Añade el achiote y el comino y remueve 20 segundos, hasta que el aceite se tiña de naranja.",
-    "Incorpora las patatas, remuévelas 2 minutos para que se impregnen del aceite rojo y cúbrelas con el agua. Sala, lleva a ebullición y cuece 20-25 minutos a fuego medio, hasta que las patatas estén muy tiernas y algunas empiecen a deshacerse.",
+    "Incorpora las patatas, remuévelas 2 minutos para que se impregnen del aceite rojo y cúbrelas con el agua. Sala, lleva a ebullición y cuece 20-25 minutos a fuego medio, hasta que las patatas estén muy tiernas y algunas empiecen a deshacerse. Mientras, pica el cilantro.",
     "Aplasta una parte de las patatas contra las paredes de la cazuela con un cucharón o un pasapurés de mano, dejando la otra parte en trozos: así espesa el locro sin harina.",
     "Baja el fuego al mínimo y añade la leche. Calienta sin que llegue a hervir, 3 minutos, removiendo. Incorpora el queso en dados, apaga y deja reposar 1 minuto para que se ablande.",
-    "Sirve en platos hondos con el resto de la cebolleta y el cilantro picado por encima."
+    "Sirve en platos hondos con el resto de la cebolleta y el cilantro por encima."
   ],
   nutricion: { kcal: 485, prot: 17, hc: 66, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "económica", "invierno"],
@@ -977,9 +977,9 @@ window.RECETAS_SEED.push({
     "Calienta el aceite de ajo en una cazuela a fuego medio, rehoga el pimiento y la mitad de la cebolleta 4 minutos, añade el tomate y cocina 3 minutos más.",
     "Añade el pollo, la zanahoria y el agua, sala y lleva a ebullición. Espuma, baja el fuego y cuece 20 minutos a fuego suave.",
     "Mientras, prepara los bori: mezcla en un bol la harina de maíz con el queso y una pizca de sal. Añade 150 ml del caldo hirviendo de la cazuela poco a poco, mezclando con una cuchara y después con las manos, hasta tener una masa que no se pegue (si se agrieta, un poco más de caldo).",
-    "Forma bolitas del tamaño de una avellana (salen unas 30), haciéndolas rodar entre las palmas húmedas.",
+    "Forma bolitas del tamaño de una avellana (salen unas 30), haciéndolas rodar entre las palmas húmedas. Pica el perejil.",
     "Añade la calabaza al caldo y, a los 5 minutos, echa las bolitas una a una. Cuece 12-15 minutos a fuego suave, removiendo con cuidado para que no se peguen al fondo, hasta que estén tiernas por dentro y el caldo se haya espesado ligeramente con su almidón.",
-    "Prueba de sal y sirve en platos hondos con el resto de la cebolleta y el perejil picado."
+    "Prueba de sal y sirve en platos hondos con el resto de la cebolleta y el perejil."
   ],
   nutricion: { kcal: 580, prot: 39, hc: 56, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "económica", "invierno"],
@@ -1018,12 +1018,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la merluza en trozos de 4 cm, sálala ligeramente y resérvala en la nevera. Pela la patata y córtala en rodajas de 1 cm; la zanahoria, en rodajas finas. Pela y pica el tomate y corta el pimiento en tiras finas.",
-    "Calienta el aceite de ajo en una cazuela ancha a fuego medio-bajo y rehoga el pimiento, la zanahoria y la cebolleta en aros 6 minutos, hasta que estén blandos.",
+    "Corta la merluza en trozos de 4 cm, sálala ligeramente y resérvala en la nevera. Pela la patata y córtala en rodajas de 1 cm; la zanahoria, en rodajas finas. Pela y pica el tomate, corta el pimiento en tiras finas y la cebolleta en aros.",
+    "Calienta el aceite de ajo en una cazuela ancha a fuego medio-bajo y rehoga el pimiento, la zanahoria y la cebolleta 6 minutos, hasta que estén blandos.",
     "Aparta del fuego, añade el pimentón y el orégano, remueve 20 segundos y vuelve al fuego con el tomate. Cocina 4 minutos, hasta que se deshaga.",
-    "Añade la patata y el caldo, sala con prudencia y cuece 15 minutos a fuego medio, hasta que la patata esté tierna.",
+    "Añade la patata y el caldo, sala con prudencia y cuece 15 minutos a fuego medio, hasta que la patata esté tierna. Mientras, pica el cilantro.",
     "Coloca los trozos de merluza sobre la patata, sumergidos en el caldo, y cuece 5-6 minutos a fuego muy suave, sin remover, hasta que la carne se vea blanca y opaca y se separe en lascas.",
-    "Apaga, esparce el cilantro picado y deja reposar 2 minutos. Sirve en platos hondos con un gajo de limón para exprimir."
+    "Apaga, esparce el cilantro y deja reposar 2 minutos. Sirve en platos hondos con un gajo de limón para exprimir."
   ],
   nutricion: { kcal: 415, prot: 35, hc: 46, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "detox", "bajo en colesterol", "de cuchara", "ligera"],
@@ -1064,11 +1064,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la ternera en una cazuela con 1,2 litros de agua, el laurel y sal. Cuando hierva, espuma, baja el fuego y cuece tapado a fuego suave 45 minutos, hasta que la carne esté tierna.",
-    "Mientras, tritura los cacahuetes con 200 ml de agua hasta tener una leche espesa y lo más fina posible.",
-    "Precalienta el horno a 220 °C. Corta la mitad de las patatas en bastones muy finos, de 3-4 mm, sécalos con un paño, mézclalos con el aceite de oliva y sal y hornéalos extendidos en una bandeja con papel 18-20 minutos, removiendo a mitad, hasta que estén dorados y crujientes.",
-    "Calienta el aceite de ajo en una sartén a fuego medio y rehoga la cebolleta picada, la zanahoria en dados pequeños y el pimiento picado 4 minutos. Añade el comino y el orégano, remueve 20 segundos y pásalo todo a la cazuela de la carne.",
-    "Incorpora el resto de la patata en dados de 1,5 cm, el arroz y la leche de cacahuete. Cuece 18-20 minutos a fuego suave, removiendo a menudo desde el fondo porque el cacahuete tiende a pegarse, hasta que el arroz esté tierno y la sopa haya espesado y tenga un color tostado claro.",
-    "Prueba de sal, retira el laurel y sirve en platos hondos con las papitas crujientes y el perejil picado por encima en el último momento, para que no se ablanden."
+    "Mientras, precalienta el horno a 220 °C y tritura los cacahuetes con 200 ml de agua hasta tener una leche espesa y lo más fina posible.",
+    "Corta la mitad de las patatas en bastones muy finos, de 3-4 mm, sécalos con un paño, mézclalos con el aceite de oliva y sal y hornéalos extendidos en una bandeja con papel 18-20 minutos, removiendo a mitad, hasta que estén dorados y crujientes. Mientras se hornean, pica la cebolleta, el pimiento y el perejil, y corta la zanahoria en dados pequeños y el resto de la patata en dados de 1,5 cm.",
+    "Calienta el aceite de ajo en una sartén a fuego medio y rehoga la cebolleta, la zanahoria y el pimiento 4 minutos. Añade el comino y el orégano, remueve 20 segundos y pásalo todo a la cazuela de la carne.",
+    "Incorpora el resto de la patata, el arroz y la leche de cacahuete. Cuece 18-20 minutos a fuego suave, removiendo a menudo desde el fondo porque el cacahuete tiende a pegarse, hasta que el arroz esté tierno y la sopa haya espesado y tenga un color tostado claro.",
+    "Prueba de sal, retira el laurel y sirve en platos hondos con las papitas crujientes y el perejil por encima en el último momento, para que no se ablanden."
   ],
   nutricion: { kcal: 485, prot: 29, hc: 49, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "de cuchara", "invierno", "económica"],

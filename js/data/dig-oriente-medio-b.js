@@ -44,8 +44,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los huevos en un cazo con agua fría y, cuando rompa a hervir, cuenta 10 minutos. Pásalos a agua fría y pélalos.",
-    "Lava las espinacas y las hierbas. Cuece las espinacas al vapor en dos tandas, 3-4 minutos cada una, hasta que se arruguen. Déjalas templar en un colador, apriétalas con las manos para quitarles toda el agua y pícalas gruesas. Pica el perejil y el cilantro con sus tallos finos.",
-    "En una sartén amplia, calienta el aceite de ajo a fuego medio-bajo y rehoga la parte verde de la cebolleta picada 2 minutos. Añade el pimentón y el comino, remueve 20 segundos sin que se quemen.",
+    "Mientras se cuecen, lava las espinacas y las hierbas. Cuece las espinacas al vapor en dos tandas, 3-4 minutos cada una, hasta que se arruguen. Déjalas templar en un colador, apriétalas con las manos para quitarles toda el agua y pícalas gruesas. Pica el perejil y el cilantro con sus tallos finos, y la parte verde de la cebolleta.",
+    "En una sartén amplia, calienta el aceite de ajo a fuego medio-bajo y rehoga la cebolleta 2 minutos. Añade el pimentón y el comino, remueve 20 segundos sin que se quemen.",
     "Incorpora las espinacas y las hierbas con una pizca de sal y cocina 10-12 minutos a fuego medio-bajo, removiendo y aplastando con la cuchara de madera, hasta que la mezcla se vea oscura, brillante y casi como una pasta, sin líquido en el fondo.",
     "Pica la piel del limón encurtido muy fina (sin la pulpa) y añádela con la mitad de las aceitunas. Cocina 2 minutos más y prueba de sal: el limón ya aporta bastante.",
     "Tuesta el pan en la sartén o en el tostador hasta que esté dorado.",
@@ -92,11 +92,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las zanahorias y las chirivías y córtalas en bastones gruesos de 6-7 cm (si la chirivía es gruesa, quítale el corazón leñoso); corta la patata en gajos. Ralla la piel de la naranja y exprime el zumo.",
-    "En un tajine con difusor o en una cazuela ancha y baja, calienta el aceite de ajo a fuego medio-bajo y rehoga la parte verde de la cebolleta picada y el jengibre rallado 1 minuto. Añade la cúrcuma y la canela en rama y remueve 20 segundos.",
+    "Pela las zanahorias y las chirivías y córtalas en bastones gruesos de 6-7 cm (si la chirivía es gruesa, quítale el corazón leñoso); corta la patata en gajos. Ralla la piel de la naranja y exprime el zumo. Pica la parte verde de la cebolleta y ralla el jengibre.",
+    "En un tajine con difusor o en una cazuela ancha y baja, calienta el aceite de ajo a fuego medio-bajo y rehoga la cebolleta y el jengibre 1 minuto. Añade la cúrcuma y la canela en rama y remueve 20 segundos.",
     "Coloca las verduras en pirámide, con la patata abajo y los bastones apoyados de pie alrededor. Vierte el caldo caliente y la mitad del zumo de naranja, sala y pimienta, tapa y cuece a fuego suave 30-35 minutos, hasta que todo se deje atravesar sin esfuerzo con la punta de un cuchillo.",
     "Mientras, lava la quinoa frotándola en un colador fino y cuécela en 200 ml de agua con sal, tapada y a fuego suave, 12-15 minutos. Apaga y déjala reposar tapada.",
-    "Tuesta las almendras y el sésamo en una sartén seca a fuego medio 3 minutos, moviendo la sartén, hasta que el sésamo esté dorado. Pica las almendras gruesas.",
+    "Tuesta las almendras y el sésamo en una sartén seca a fuego medio 3 minutos, moviendo la sartén, hasta que el sésamo esté dorado. Pica las almendras gruesas y el cilantro.",
     "Destapa el tajine, añade el resto del zumo, la ralladura y el azúcar, y deja reducir 5-8 minutos a fuego medio, regando las verduras con la salsa, hasta que brillen y el jugo tenga textura de almíbar ligero. Retira la canela.",
     "Sirve las verduras sobre la quinoa con su glaseado, las almendras, el sésamo y el cilantro picado por encima."
   ],
@@ -135,8 +135,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita a la col negra el nervio central, corta las hojas en tiras finas de 1 cm y lávalas en agua abundante. Escúrrelas sin secarlas del todo.",
-    "En una cazuela ancha, calienta el aceite de ajo con la mantequilla a fuego medio y rehoga la parte verde de la cebolleta picada 2 minutos. Añade la pasta de pimiento y el pimentón y remueve 1 minuto, hasta que el aceite se tiña de rojo.",
+    "Quita a la col negra el nervio central, corta las hojas en tiras finas de 1 cm y lávalas en agua abundante. Escúrrelas sin secarlas del todo. Pica la parte verde de la cebolleta.",
+    "En una cazuela ancha, calienta el aceite de ajo con la mantequilla a fuego medio y rehoga la cebolleta 2 minutos. Añade la pasta de pimiento y el pimentón y remueve 1 minuto, hasta que el aceite se tiña de rojo.",
     "Incorpora la col por tandas, removiendo, y deja que se ablande 5 minutos: pasará de un montón enorme a la mitad de volumen.",
     "Añade el arroz lavado, el maíz, 300 ml de agua caliente, sal y pimienta. Lleva a ebullición, tapa y cocina a fuego suave 20 minutos, removiendo una vez a mitad, hasta que el arroz esté tierno y casi todo el líquido absorbido.",
     "Apaga el fuego y deja reposar 5 minutos tapado: el diblesi debe quedar jugoso pero no caldoso.",
@@ -184,9 +184,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en gajos, quítale las pepitas y ásala 30 minutos sobre papel de horno, hasta que la carne se hunda al pincharla. Mientras, lava la quinoa y cuécela en 160 ml de agua con sal, tapada, 12 minutos; destápala y deja que se seque.",
-    "Retira la piel de la calabaza, aplasta la carne con un tenedor y déjala en un colador 10 minutos para que suelte el agua: una masa aguada no se sostiene.",
+    "Retira la piel de la calabaza, aplasta la carne con un tenedor y déjala en un colador 10 minutos para que suelte el agua: una masa aguada no se sostiene. Mientras, tuesta las nueces en una sartén seca 2-3 minutos, pícalas gruesas y pica la parte verde de la cebolleta.",
     "En un bol, mezcla la calabaza con la quinoa, la harina de arroz, el comino, la canela, la pimienta de Jamaica, la ralladura de naranja, sal y pimienta. Amasa con las manos hasta tener una pasta moldeable que no se pegue; si está blanda, añade una cucharada más de harina de arroz.",
-    "Para el relleno, rehoga la parte verde de la cebolleta picada en el aceite de ajo 3 minutos a fuego medio. Fuera del fuego, añade las nueces tostadas y picadas gruesas, el zumaque y una pizca de sal.",
+    "Para el relleno, rehoga la cebolleta en el aceite de ajo 3 minutos a fuego medio. Fuera del fuego, añade las nueces, el zumaque y una pizca de sal.",
     "Unta una fuente de unos 20 x 20 cm con la mitad del aceite de oliva. Extiende la mitad de la masa en una capa de 1 cm con las manos mojadas, reparte el relleno y cúbrelo con el resto de la masa, aplanada en placas que irás uniendo con los dedos.",
     "Marca rombos con un cuchillo hasta el fondo, pinta la superficie con el resto del aceite y hornea 35 minutos, hasta que esté dorada y con los bordes tostados.",
     "Mientras, ralla el pepino, apriétalo para quitarle el agua y mézclalo con el yogur, menta picada y sal. Deja reposar el kibbeh 10 minutos antes de cortarlo y sírvelo con el yogur."
@@ -231,7 +231,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 15-18 minutos, hasta que estén muy tiernas. Escúrrelas, déjalas evaporar 2 minutos en la cazuela caliente y cháfalas con un tenedor en un puré rústico. Precalienta el horno a 190 °C.",
+    "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 15-18 minutos, hasta que estén muy tiernas. Mientras, pica el perejil y la parte verde de la cebolleta. Escúrrelas, déjalas evaporar 2 minutos en la cazuela caliente y cháfalas con un tenedor en un puré rústico. Precalienta el horno a 190 °C.",
     "Mezcla el puré templado con la feta desmigada, el perejil y la parte verde de la cebolleta picados, el pimentón y pimienta. Prueba antes de salar: la feta ya aporta bastante sal.",
     "En un plato hondo, bate los huevos con la leche, el yogur y una pizca de sal: es el baño que ablanda las obleas y las une al hornearse.",
     "Unta un molde de unos 20 cm con 1 cucharadita de aceite. Pasa una oblea por el baño de huevo 5 segundos, solo hasta que se ablande, y colócala en el fondo dejando que suba un poco por los lados. Repite con 2 obleas más, solapándolas.",
@@ -279,12 +279,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Maja el azafrán en un mortero con una pizca del azúcar y añade 3 cucharadas de agua caliente; déjalo reposar. Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos.",
-    "Pela los nabos y córtalos en gajos de 2 cm; la zanahoria, en bastones gruesos. Pincha cada lima seca 2-3 veces con la punta de un cuchillo.",
+    "Pela los nabos y córtalos en gajos de 2 cm; la zanahoria, en bastones gruesos. Pincha cada lima seca 2-3 veces con la punta de un cuchillo y pica la parte verde de la cebolleta.",
     "En una cazuela ancha, calienta la mantequilla con el aceite de ajo a fuego medio y dora los nabos y la zanahoria 8 minutos, moviéndolos poco, hasta que tengan las caras tostadas.",
-    "Añade la parte verde de la cebolleta picada y la cúrcuma y remueve 1 minuto. Vierte el caldo, el resto del azúcar, las limas secas, la mitad del agua de azafrán y sal. Tapa y cocina 20 minutos a fuego suave, hasta que los nabos estén tiernos.",
-    "Mientras, escurre el arroz y cuécelo con 210 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Apaga y deja reposar 5 minutos. Rocía por encima el resto del agua de azafrán y mezcla solo a medias, para que queden granos dorados y blancos.",
+    "Añade la cebolleta y la cúrcuma y remueve 1 minuto. Vierte el caldo, el resto del azúcar, las limas secas, la mitad del agua de azafrán y sal. Tapa y cocina 20 minutos a fuego suave, hasta que los nabos estén tiernos.",
+    "Mientras, escurre el arroz y cuécelo con 210 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Apaga y deja reposar 5 minutos. Rocía por encima el resto del agua de azafrán y mezcla solo a medias, para que queden granos dorados y blancos. Tuesta las almendras en una sartén seca 2 minutos y pica el eneldo.",
     "Destapa los nabos y deja reducir 5 minutos, moviendo la cazuela, hasta que la salsa quede como un glaseado brillante. Retira las limas.",
-    "Tuesta las almendras en una sartén seca 2 minutos. Sirve el arroz con los nabos glaseados, almendras, eneldo picado y el yogur al lado."
+    "Sirve el arroz con los nabos glaseados, almendras, eneldo y el yogur al lado."
   ],
   nutricion: { kcal: 530, prot: 13, hc: 83, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "invierno"],
@@ -326,8 +326,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 20-25 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas, pélalas y deja que se templen.",
-    "Mientras, envuelve el tofu en un paño, ponle un peso encima y déjalo 15 minutos para que suelte el agua.",
-    "Desmenuza el tofu en un bol con un tenedor hasta que parezca carne picada. Ralla encima las patatas, añade la parte verde de la cebolleta y la mitad del perejil muy picados, la cúrcuma, el huevo, la harina de arroz, sal y pimienta. Amasa 1-2 minutos hasta tener una masa que se pueda moldear; si se pega, añade un poco más de harina.",
+    "Mientras, envuelve el tofu en un paño, ponle un peso encima y déjalo 15 minutos para que suelte el agua. Pica muy fino la parte verde de la cebolleta y el perejil.",
+    "Desmenuza el tofu en un bol con un tenedor hasta que parezca carne picada. Ralla encima las patatas, añade la cebolleta y la mitad del perejil, la cúrcuma, el huevo, la harina de arroz, sal y pimienta. Amasa 1-2 minutos hasta tener una masa que se pueda moldear; si se pega, añade un poco más de harina.",
     "Divide la masa en 8 porciones y, con las manos mojadas, dales forma de tortitas ovaladas de 1,5 cm de grosor. Marca en cada una unas rayas con el canto de un cuchillo, como se hace en Teherán.",
     "Calienta la mitad del aceite en una sartén antiadherente grande a fuego medio y dora 4 kotlets 3-4 minutos por cada lado, sin moverlos hasta que se despeguen solos y tengan una costra dorada. Repite con el resto del aceite.",
     "Mientras, corta los tomates en rodajas, los pepinillos en láminas y la lechuga en tiras, y aliña la lechuga con el zumo de limón y sal. Tuesta el pan.",
@@ -374,7 +374,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el tempeh en láminas finas de medio centímetro y cuécelas al vapor 10 minutos: pierde el amargor y queda más tierno y digestivo. Precalienta el horno a 200 °C.",
     "Mientras, en un cazo pon 1 cucharadita de aceite de ajo y el tomate concentrado y remueve 1 minuto. Añade el tomate triturado, el azúcar, sal y 100 ml de agua y deja hervir suave 10 minutos, hasta tener una salsa ligera pero sabrosa.",
-    "Corta las pitas en dados de 2 cm y tuéstalas en el horno 8 minutos, hasta que estén doradas y crujientes.",
+    "Corta las pitas en dados de 2 cm y tuéstalas en el horno 8 minutos, hasta que estén doradas y crujientes. Mientras, pica el perejil.",
     "Mezcla las láminas de tempeh escurridas con la otra cucharadita de aceite de ajo, 1 cucharadita de pimentón, el comino, el orégano y sal. Ásalas en la plancha caliente 2-3 minutos por cada lado, hasta que estén doradas. Asa a la vez los pimientos verdes enteros, 6-8 minutos, hasta que se ampollen.",
     "Calienta el aceite de oliva en un cazo pequeño sin que llegue a humear, apártalo del fuego y añade el resto del pimentón: debe teñirse de rojo sin quemarse.",
     "Monta cada plato: la pita en el fondo, unas cucharadas de salsa para empaparla, el tempeh encima y más salsa. Pon el yogur al lado, riega todo con el aceite de pimentón y termina con perejil picado y los pimientos asados."
@@ -513,9 +513,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo (le quita el amargor). Cuécela en 300 ml de agua con sal, tapada y a fuego suave, 12 minutos. Déjala reposar 5 minutos tapada y extiéndela en una bandeja para que se enfríe.",
     "Tuesta las semillas de calabaza en una sartén seca a fuego medio 2-3 minutos, hasta que se hinchen y empiecen a saltar. Apaga, añade el comino y una pizca de sal y remueve 20 segundos.",
-    "Pela las naranjas a lo vivo, quitando toda la piel blanca, y córtalas en rodajas finas sobre un plato para recoger el zumo.",
+    "Pela las naranjas a lo vivo, quitando toda la piel blanca, y córtalas en rodajas finas sobre un plato para recoger el zumo. Pica la parte verde de la cebolleta, la menta y el perejil.",
     "Prepara el aliño con el zumo de naranja recogido, el zumo de limón, el agua de azahar, el aceite, la canela y sal.",
-    "Mezcla la quinoa fría con la parte verde de la cebolleta, la menta y el perejil picados y las espinacas. Aliña con la mitad del aliño.",
+    "Mezcla la quinoa fría con la cebolleta, la menta, el perejil y las espinacas. Aliña con la mitad del aliño.",
     "Reparte encima las rodajas de naranja y las aceitunas, riega con el resto del aliño y termina con las semillas al comino."
   ],
   nutricion: { kcal: 500, prot: 17, hc: 61, grasa: 21 },
@@ -601,10 +601,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga clara y déjalo en remojo con agua y sal 30 minutos. Maja el azafrán y disuélvelo en 3 cucharadas de agua caliente.",
+    "Lava el arroz hasta que el agua salga clara y déjalo en remojo con agua y sal 30 minutos. Maja el azafrán y disuélvelo en 3 cucharadas de agua caliente. Mientras el arroz está en remojo, pica la parte verde de la cebolleta y las hierbas (eneldo, albahaca, estragón y cebollino).",
     "Mezcla el cordero con 1 cebolleta (parte verde) picada muy fina, una pizca de cúrcuma, canela, sal y pimienta. Forma albondiguillas del tamaño de una avellana y dóralas en una sartén con 1 cucharadita de aceite, 5-6 minutos, moviendo la sartén hasta que estén doradas por todos lados. Resérvalas.",
-    "Corta la col en tiras finas y saltéala en la misma sartén con 2 cucharaditas de aceite y el resto de la cebolleta picada, 8 minutos a fuego medio, hasta que esté tierna y con puntos dorados. Añade el resto de la cúrcuma, sal y las hierbas picadas, y mezcla con las albondiguillas.",
-    "Hierve 2 litros de agua con sal, añade el arroz escurrido y cuécelo 6-7 minutos, hasta que el grano esté blando por fuera y firme en el centro. Escúrrelo y pásalo por agua tibia.",
+    "Pon a hervir 2 litros de agua con sal. Corta la col en tiras finas y saltéala en la misma sartén con 2 cucharaditas de aceite y el resto de la cebolleta picada, 8 minutos a fuego medio, hasta que esté tierna y con puntos dorados. Añade el resto de la cúrcuma, sal y las hierbas picadas, y mezcla con las albondiguillas.",
+    "Añade el arroz escurrido al agua hirviendo y cuécelo 6-7 minutos, hasta que el grano esté blando por fuera y firme en el centro. Escúrrelo y pásalo por agua tibia.",
     "En una cazuela antiadherente, pon el resto del aceite y 2 cucharadas de agua. Extiende una capa fina de arroz en el fondo (será el tahdig) y ve alternando capas de arroz y de la mezcla de col, en forma de montaña. Haz 4-5 agujeros con el mango de una cuchara y rocía el agua de azafrán por encima.",
     "Tapa con la tapa envuelta en un paño limpio y cocina 8 minutos a fuego medio, hasta que oigas chisporrotear, y después 35 minutos a fuego mínimo.",
     "Sirve el arroz mezclando con cuidado y reparte por encima trozos de la costra dorada del fondo. Acompaña con el yogur."
@@ -651,8 +651,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo 15 minutos. Corta el pollo en dados de 2 cm, la zanahoria y el pimiento en dados pequeños y pica fino las espinacas, las hierbas y la parte verde de la cebolleta.",
-    "En un bol grande, mezcla el arroz escurrido con el pollo, las verduras, las hierbas, la cúrcuma, el cilantro molido, la alcaravea, el aceite de ajo, el aceite de oliva, 1 cucharadita de sal y pimienta. Masajea con las manos 2 minutos para que todo quede impregnado.",
-    "Pon a hervir agua en la parte baja de una cuscusera (o en una cazuela con un colador metálico encima que encaje bien). Forra la parte superior con una gasa o un paño fino húmedo.",
+    "Pon a hervir agua en la parte baja de una cuscusera (o en una cazuela con un colador metálico encima que encaje bien). Mientras, en un bol grande, mezcla el arroz escurrido con el pollo, las verduras, las hierbas, la cúrcuma, el cilantro molido, la alcaravea, el aceite de ajo, el aceite de oliva, 1 cucharadita de sal y pimienta. Masajea con las manos 2 minutos para que todo quede impregnado.",
+    "Forra la parte superior de la cuscusera con una gasa o un paño fino húmedo.",
     "Pasa la mezcla a la parte de arriba sin apretarla, tapa y cuece al vapor 25 minutos.",
     "Vuelca el arroz en el bol, rocíalo con 100 ml de agua caliente, remueve con una cuchara para soltar los granos y devuélvelo a la cuscusera. Cuece 20-25 minutos más, hasta que el arroz esté tierno y suelto y el pollo bien hecho.",
     "Sirve enseguida con unas gotas de limón por encima."
@@ -697,10 +697,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela, pon el pollo con la parte verde de la cebolleta picada, el jengibre rallado, el azafrán, la cúrcuma, la canela en rama, el aceite, sal y pimienta. Remueve 3 minutos a fuego medio, sin que llegue a dorarse, hasta que la carne se tiña de amarillo.",
+    "Pica la parte verde de la cebolleta y ralla el jengibre. En una cazuela, pon el pollo con la cebolleta, el jengibre, el azafrán, la cúrcuma, la canela en rama, el aceite, sal y pimienta. Remueve 3 minutos a fuego medio, sin que llegue a dorarse, hasta que la carne se tiña de amarillo.",
     "Vierte el agua, tapa y cuece a fuego suave 35 minutos, hasta que el pollo se deshaga al presionarlo.",
     "Mientras, hidrata los fideos 5 minutos en agua templada y escúrrelos. Pon agua a hervir en la base de una cuscusera (o en una cazuela con un colador metálico encima) y cuécelos al vapor, tapados, 8-10 minutos, hasta que estén tiernos. Pásalos a un bol, mézclalos con la mantequilla y una pizca de sal y suéltalos con un tenedor.",
-    "Tuesta las almendras en una sartén seca 3-4 minutos, pícalas gruesas y mézclalas con el azúcar y la mitad de la canela molida.",
+    "Tuesta las almendras en una sartén seca 3-4 minutos, pícalas gruesas y mézclalas con el azúcar y la mitad de la canela molida. Pica el cilantro.",
     "Saca el pollo y deshébralo. Retira la canela en rama y reduce el caldo a fuego vivo hasta que queden unos 100 ml con textura de salsa. Devuelve el pollo y mézclalo con el cilantro picado.",
     "En una fuente, extiende la mitad de los fideos, pon el pollo con su salsa en el centro y cúbrelo con el resto de los fideos, dando forma de cúpula con las manos.",
     "Dibuja líneas de arriba abajo con el resto de la canela, como en las bodas de Fez, reparte las almendras alrededor y sirve enseguida."
@@ -791,10 +791,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Unta el pescado con media cucharadita de cúrcuma, sal y el zumo de medio limón, y déjalo 10 minutos.",
+    "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Unta el pescado con media cucharadita de cúrcuma, sal y el zumo de medio limón, y déjalo 10 minutos. Mientras, ralla 2 tomates desechando la piel y pica la parte verde de la cebolleta.",
     "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto y marca el pescado 1-2 minutos por cada lado, solo hasta que se dore por fuera: terminará de hacerse sobre el arroz. Resérvalo.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada 1 minuto. Añade las vainas de cardamomo abiertas, la canela, el comino y el resto de la cúrcuma y remueve 30 segundos.",
-    "Ralla 2 tomates desechando la piel, añádelos con la lima seca pinchada 2-3 veces con un cuchillo y cocina 5 minutos, hasta que el tomate se oscurezca y reduzca.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto. Añade las vainas de cardamomo abiertas, la canela, el comino y el resto de la cúrcuma y remueve 30 segundos.",
+    "Añade el tomate rallado con la lima seca pinchada 2-3 veces con un cuchillo y cocina 5 minutos, hasta que el tomate se oscurezca y reduzca.",
     "Vierte el caldo caliente, sala y, cuando hierva, incorpora el arroz escurrido. Tapa y cuece 10 minutos a fuego mínimo. Coloca el pescado encima, vuelve a tapar y cocina 8 minutos más, hasta que el arroz haya absorbido el caldo y el pescado se separe en lascas. Reposa 5 minutos y retira la lima seca y la canela.",
     "Mientras, prepara el daqqus: pica el tercer tomate muy fino y mézclalo con el zumo del otro medio limón, la mitad del cilantro picado y sal.",
     "Sirve el arroz con el pescado encima, el resto del cilantro y el daqqus aparte para ir añadiéndolo a cada bocado."
@@ -841,10 +841,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava la quinoa frotándola en un colador fino y lava también el arroz.",
-    "Corta el pimiento verde en tiras, la zanahoria en rodajas finas y el calabacín en medias lunas. Ralla 2 de los tomates desechando la piel y corta el otro en rodajas.",
-    "En una sartén, calienta el aceite de ajo y rehoga la parte verde de la cebolleta picada y la zanahoria 3 minutos. Añade el pimiento y cocina 3 minutos más. Incorpora el tomate rallado, el pimentón, el tomillo, sal y pimienta y deja reducir 3 minutos.",
+    "Corta el pimiento verde en tiras, la zanahoria en rodajas finas y el calabacín en medias lunas. Ralla 2 de los tomates desechando la piel y corta el otro en rodajas. Pica la parte verde de la cebolleta.",
+    "En una sartén, calienta el aceite de ajo y rehoga la cebolleta y la zanahoria 3 minutos. Añade el pimiento y cocina 3 minutos más. Incorpora el tomate rallado, el pimentón, el tomillo, sal y pimienta y deja reducir 3 minutos.",
     "Pasa el sofrito a una fuente de horno o cazuela de barro y mézclalo con la quinoa, el arroz, el calabacín y las aceitunas. Vierte el caldo caliente, coloca las rodajas de tomate encima y riega con el aceite de oliva.",
-    "Tapa con papel de aluminio y hornea 30 minutos. Destapa, comprueba que el cereal está casi tierno, cubre con el queso rallado y hornea 10 minutos más, hasta que se funda y se dore y el líquido se haya absorbido.",
+    "Tapa con papel de aluminio y hornea 30 minutos; mientras, pica el perejil. Destapa, comprueba que el cereal está casi tierno, cubre con el queso rallado y hornea 10 minutos más, hasta que se funda y se dore y el líquido se haya absorbido.",
     "Deja reposar 5 minutos y sirve con perejil picado por encima."
   ],
   nutricion: { kcal: 510, prot: 16, hc: 63, grasa: 22 },
@@ -886,9 +886,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la chermoula: pica muy fino el cilantro y el perejil y mézclalos con el comino, el pimentón, el zumo de medio limón, el aceite de ajo y una pizca de sal. Marina los langostinos con la mitad 10 minutos.",
+    "Prepara la chermoula: pica muy fino el cilantro y el perejil y mézclalos con el comino, el pimentón, el zumo de medio limón, el aceite de ajo y una pizca de sal. Marina los langostinos con la mitad 10 minutos. Mientras, corta el pimiento verde en dados pequeños, ralla el tomate desechando la piel y pica la piel del limón encurtido.",
     "Calienta el caldo con el azafrán majado y mantenlo caliente.",
-    "En una sartén ancha o paella, calienta el aceite de oliva a fuego medio y rehoga el pimiento verde en dados pequeños 5 minutos. Añade el tomate rallado y la piel del limón encurtido picada y cocina 4-5 minutos, hasta que el tomate se oscurezca y reduzca.",
+    "En una sartén ancha o paella, calienta el aceite de oliva a fuego medio y rehoga el pimiento verde 5 minutos. Añade el tomate rallado y el limón encurtido y cocina 4-5 minutos, hasta que el tomate se oscurezca y reduzca.",
     "Incorpora el arroz y nácaralo 1 minuto removiendo. Vierte el caldo caliente, prueba de sal y reparte bien el grano. Cocina 5 minutos a fuego fuerte y 8 minutos a fuego medio, sin remover.",
     "Coloca los langostinos encima, hundiéndolos un poco, y cocina 5 minutos más a fuego bajo, hasta que estén rosados y el caldo se haya absorbido.",
     "Apaga, tapa con un paño limpio y deja reposar 5 minutos. Sirve con el resto de la chermoula por encima y gajos del otro medio limón."
@@ -974,7 +974,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pollo en trozos grandes. En una cazuela, calienta el aceite de ajo y el de oliva a fuego medio-bajo y rehoga el pollo con la parte verde de la cebolleta picada 3 minutos, sin que tome color: la sopa debe quedar blanca.",
-    "Añade la canela en rama, pimienta blanca, sal y el agua. Lleva a ebullición, retira la espuma y cocina tapada a fuego suave 30 minutos, hasta que el pollo esté muy tierno.",
+    "Añade la canela en rama, pimienta blanca, sal y el agua. Lleva a ebullición, retira la espuma y cocina tapada a fuego suave 30 minutos, hasta que el pollo esté muy tierno. Mientras, pica el perejil.",
     "Saca el pollo y la canela. Desmenuza el pollo en hebras.",
     "Parte los fideos de arroz en trozos de 3 cm, échalos al caldo hirviendo y cuécelos 3-4 minutos, hasta que estén tiernos. Devuelve el pollo a la cazuela y baja el fuego al mínimo.",
     "En un bol, bate la yema con el zumo del limón. Añade 2 cucharones de caldo caliente poco a poco sin dejar de batir, para templarla.",
@@ -1017,8 +1017,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el pan en dados y tuéstalo 8 minutos, hasta que esté crujiente. Tuesta las nueces en una sartén seca 2 minutos y májalas en el mortero dejando algo de textura; reserva 1 cucharada.",
-    "En un bol, bate el yogur con el parmesano y la harina de arroz hasta que quede liso: esta mezcla sustituye al kashk y la harina evita que se corte al calentarla.",
-    "En una cazuela, calienta 2 cucharaditas del aceite de ajo a fuego medio-bajo y rehoga la parte verde de la cebolleta picada 3 minutos. Añade la cúrcuma y remueve 20 segundos. Incorpora las nueces majadas y 1 cucharada de menta seca y remueve 1 minuto.",
+    "En un bol, bate el yogur con el parmesano y la harina de arroz hasta que quede liso: esta mezcla sustituye al kashk y la harina evita que se corte al calentarla. Pica la parte verde de la cebolleta.",
+    "En una cazuela, calienta 2 cucharaditas del aceite de ajo a fuego medio-bajo y rehoga la cebolleta 3 minutos. Añade la cúrcuma y remueve 20 segundos. Incorpora las nueces majadas y 1 cucharada de menta seca y remueve 1 minuto.",
     "Vierte el agua, sala ligeramente y deja hervir suave 5 minutos.",
     "Templa el yogur añadiéndole 2 cucharones de caldo caliente sin dejar de batir. Baja el fuego al mínimo, viértelo en la cazuela y calienta 5 minutos removiendo siempre, sin que llegue a hervir, hasta que la sopa espese ligeramente.",
     "En un cazo pequeño, templa el resto del aceite de ajo, apártalo del fuego y añade el resto de la menta: 10 segundos bastan para que se oscurezca y huela.",
@@ -1063,9 +1063,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En una cazuela, calienta el aceite de ajo a fuego medio-alto y dora los dados de cordero 4-5 minutos, hasta que tengan color por todas las caras.",
-    "Baja el fuego, añade la parte verde de la cebolleta picada, la cúrcuma, la canela, el comino y pimienta, y remueve 30 segundos. Incorpora el tomate concentrado y remueve 1 minuto, hasta que se oscurezca un poco.",
-    "Añade el tomate rallado (sin la piel) y la mitad del perejil picado y cocina 3 minutos. Vierte el agua, sala, lleva a ebullición y retira la espuma.",
+    "Ralla el tomate desechando la piel y pica la parte verde de la cebolleta y el perejil. En una cazuela, calienta el aceite de ajo a fuego medio-alto y dora los dados de cordero 4-5 minutos, hasta que tengan color por todas las caras.",
+    "Baja el fuego, añade la cebolleta, la cúrcuma, la canela, el comino y pimienta, y remueve 30 segundos. Incorpora el tomate concentrado y remueve 1 minuto, hasta que se oscurezca un poco.",
+    "Añade el tomate rallado y la mitad del perejil y cocina 3 minutos. Vierte el agua, sala, lleva a ebullición y retira la espuma.",
     "Tapa y cocina a fuego suave 45 minutos, hasta que el cordero esté tierno al apretarlo con una cuchara.",
     "Añade la pasta y cuécela destapada el tiempo que indique el paquete (unos 8-10 minutos), removiendo de vez en cuando para que no se pegue. Si la sopa espesa demasiado, añade un poco de agua caliente.",
     "Fuera del fuego, desmenuza la menta seca entre las palmas de las manos sobre la sopa y añade el resto del perejil. Sirve con medio limón por persona para exprimir al gusto."
@@ -1109,12 +1109,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela la calabaza, quítale las pepitas y córtala en dados de 3 cm. Pela la zanahoria y córtala en rodajas finas. Pela y ralla el jengibre.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada y el jengibre 2 minutos. Añade la cúrcuma y la canela y remueve 20 segundos.",
-    "Incorpora la calabaza, la zanahoria, el caldo caliente, el azafrán majado entre los dedos y sal. Lleva a ebullición, tapa y cocina 15-18 minutos, hasta que la calabaza se deshaga al presionarla.",
+    "Pela la calabaza, quítale las pepitas y córtala en dados de 3 cm. Pela la zanahoria y córtala en rodajas finas. Pela y ralla el jengibre y pica la parte verde de la cebolleta.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y el jengibre 2 minutos. Añade la cúrcuma y la canela y remueve 20 segundos.",
+    "Incorpora la calabaza, la zanahoria, el caldo caliente, el azafrán majado entre los dedos y sal. Lleva a ebullición, tapa y cocina 15-18 minutos, hasta que la calabaza se deshaga al presionarla. Mientras, en una sartén, calienta el aceite de oliva a fuego medio y tuesta las semillas 2-3 minutos, hasta que se hinchen y empiecen a saltar. Apaga, añade el comino y una pizca de sal y remueve.",
     "Tritura con la batidora hasta que esté muy fina y añade el zumo de naranja. Si la quieres más ligera, añade un poco de agua caliente.",
-    "En una sartén, calienta el aceite de oliva a fuego medio y tuesta las semillas 2-3 minutos, hasta que se hinchen y empiecen a saltar. Apaga, añade el comino y una pizca de sal y remueve.",
-    "Sirve la crema con una cucharada de yogur en el centro y las semillas al comino por encima."
+        "Sirve la crema con una cucharada de yogur en el centro y las semillas al comino por encima."
   ],
   nutricion: { kcal: 370, prot: 12, hc: 42, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol"],
@@ -1155,10 +1154,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo de pescado con el laurel. Ralla el tomate desechando la piel y corta la zanahoria en dados pequeños.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la parte verde de la cebolleta picada 2 minutos. Añade la zanahoria y cocina 3 minutos.",
+    "Calienta el caldo de pescado con el laurel. Ralla el tomate desechando la piel, corta la zanahoria en dados pequeños y pica la parte verde de la cebolleta.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 2 minutos. Añade la zanahoria y cocina 3 minutos.",
     "Incorpora la cúrcuma, el comino y el cilantro molido y remueve 20 segundos. Añade el tomate rallado y cocina 5 minutos, hasta que reduzca y se oscurezca.",
-    "Vierte el caldo caliente con el laurel, añade el arroz y cocina a fuego suave 15 minutos, hasta que el grano esté casi tierno.",
+    "Vierte el caldo caliente con el laurel, añade el arroz y cocina a fuego suave 15 minutos, hasta que el grano esté casi tierno. Mientras, pica el cilantro.",
     "Corta la merluza en dados de 3 cm, sálala y échala a la sopa. Cocina 4 minutos a fuego mínimo sin remover, solo hasta que la carne esté blanca y se separe en lascas.",
     "Apaga el fuego, añade el zumo de medio limón y el cilantro picado, retira el laurel y deja reposar 1 minuto. Sirve con gajos del resto del limón."
   ],

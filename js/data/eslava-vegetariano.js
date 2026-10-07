@@ -298,10 +298,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla la harina con el agua tibia, la mitad del aceite, el vinagre y una pizca de sal. Amasa 10 minutos, hasta que la masa esté muy lisa y elástica. Úntala con el resto del aceite, tápala y déjala reposar 30 minutos: el reposo relaja el gluten y permite estirarla sin que se rompa.",
     "Mezcla el requesón con los huevos, la nata agria y sal hasta obtener una crema espesa con algún grumo.",
-    "Enharina un paño grande, estira la masa con el rodillo y después con el dorso de las manos, desde el centro hacia fuera, hasta que esté tan fina que se transparente (unos 60 × 40 cm). Recorta los bordes gruesos.",
+    "Pon a calentar una cazuela grande con agua y sal. Enharina un paño grande, estira la masa con el rodillo y después con el dorso de las manos, desde el centro hacia fuera, hasta que esté tan fina que se transparente (unos 60 × 40 cm). Recorta los bordes gruesos.",
     "Reparte el relleno a cucharadas por toda la superficie, dejando un margen de 3 cm. Levanta el paño por un lado largo para que la masa se enrolle sobre sí misma formando un rulo.",
     "Corta el rulo en trozos de 6–7 cm presionando con el canto de un plato, que sella los extremos a la vez que corta.",
-    "Precalienta el horno a 200 °C. Cuece los štrukli en agua hirviendo con sal 8–10 minutos, hasta que suban a la superficie, y sácalos con una espumadera.",
+    "Precalienta el horno a 200 °C. Cuece los štrukli en el agua hirviendo 8–10 minutos, hasta que suban a la superficie, y sácalos con una espumadera.",
     "Colócalos en una fuente untada con mantequilla, riégalos con la nata para cocinar, reparte el resto de la mantequilla en trocitos y hornea 25–30 minutos, hasta que la superficie esté dorada y burbujeante."
   ],
   nutricion: { kcal: 810, prot: 34, hc: 66, grasa: 45 },
@@ -507,9 +507,9 @@ window.RECETAS_SEED.push({
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15–18 minutos, hasta que estén muy tiernas. Escúrrelas, déjalas 1 minuto en la cazuela caliente para que se sequen y aplástalas hasta obtener un puré sin grumos. Deja que se temple 10 minutos.",
     "Mientras, ralla muy fina la remolacha y escúrrela en un colador apretando con una cuchara: cuanto menos jugo tenga, menos harina pedirá la masa.",
     "Mezcla el puré templado con la remolacha, el huevo y una pizca de sal. Añade la harina poco a poco y amasa solo hasta tener una masa lisa, rosa y que no se pegue a las manos enharinadas: si la trabajas de más, los kopytka quedan duros.",
-    "Divide la masa en 4 partes y forma con cada una un rulo de 2–3 cm de grosor sobre la mesa enharinada. Aplánalos un poco y córtalos en diagonal en rombos de 2 cm.",
+    "Pon a calentar una cazuela grande con agua y sal. Divide la masa en 4 partes y forma con cada una un rulo de 2–3 cm de grosor sobre la mesa enharinada. Aplánalos un poco y córtalos en diagonal en rombos de 2 cm.",
     "Corta el repollo en tiras finas y la cebolla en plumas. Saltéalos en una sartén grande con 10 g de mantequilla a fuego medio-alto 10–12 minutos, hasta que estén tiernos y empiecen a dorarse. Añade la alcaravea, el vinagre, sal y pimienta, y pásalo a un plato.",
-    "Cuece los kopytka en una cazuela grande con agua hirviendo y sal, en dos tandas: cuando suban a la superficie, déjalos 1 minuto más y sácalos con una espumadera.",
+    "Cuece los kopytka en el agua hirviendo, en dos tandas: cuando suban a la superficie, déjalos 1 minuto más y sácalos con una espumadera.",
     "En la misma sartén, calienta el resto de la mantequilla hasta que se dore y huela a avellana, añade los kopytka y saltéalos 2–3 minutos. Incorpora la col, mezcla y sirve con el requesón desmigado y el eneldo picado por encima."
   ],
   nutricion: { kcal: 690, prot: 23, hc: 104, grasa: 20 },
@@ -553,7 +553,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el trigo sarraceno y cuécelo en el agua con sal, tapado y a fuego suave, 15 minutos, hasta que absorba el agua y el grano esté tierno. Déjalo templar destapado.",
-    "Pica fino la cebolla y el ajo y ralla la zanahoria. Rehógalos en una sartén con 2 cucharaditas de aceite a fuego medio 6–7 minutos, hasta que la cebolla esté dorada y la zanahoria blanda.",
+    "Mientras, pica fino la cebolla y el ajo y ralla la zanahoria. Rehógalos en una sartén con 2 cucharaditas de aceite a fuego medio 6–7 minutos, hasta que la cebolla esté dorada y la zanahoria blanda.",
     "En un bol, mezcla el trigo sarraceno con el sofrito, el huevo, el queso rallado, el pan rallado, la mitad del eneldo picado, sal y pimienta. Aplasta parte del grano con un tenedor para que la masa ligue. Forma 4 hamburguesas de 2 cm de grosor; si están blandas, enfríalas 10 minutos en la nevera.",
     "Pinta las hamburguesas con el aceite restante y cocínalas en la airfryer a 190 °C 12–14 minutos, dándoles la vuelta a mitad, hasta que estén doradas y firmes.",
     "Mientras, mezcla la nata agria con el rábano picante y una pizca de sal. Corta el pepino en rodajas finas y los pepinillos en láminas, y alíñalos con el resto del eneldo y una pizca de sal.",

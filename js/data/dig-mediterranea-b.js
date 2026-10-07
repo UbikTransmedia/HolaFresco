@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Parte la berenjena a lo largo, haz cortes en rejilla en la pulpa, pincélala con 1 cucharadita de aceite de ajo, sálala y ásala boca abajo 25-30 minutos, hasta que esté muy tierna. Saca la pulpa con una cuchara y desecha la piel.",
     "Baja el horno a 170 °C y pon agua a hervir. Tritura la pulpa con los huevos, la leche, el parmesano, la nuez moscada, las hojas de una rama de tomillo, sal y pimienta, hasta tener una crema fina.",
     "Unta dos flaneras o cuencos individuales con el aceite de oliva y reparte la crema. Colócalos en una fuente honda, vierte agua hirviendo hasta media altura y hornea 30-35 minutos, hasta que estén cuajados (la punta de un cuchillo sale limpia).",
-    "Mientras, prepara el coulis: escalda los tomates 20 segundos, pélalos, quítales las semillas y pícalos. Cuécelos en una sartén con el resto del aceite de ajo y las hojas del tomillo restante 15 minutos, tritúralos y sálalos.",
+    "Mientras, prepara el coulis: escalda los tomates 20 segundos, pélalos, quítales las semillas y pícalos. Cuécelos en una sartén con el resto del aceite de ajo y las hojas del tomillo restante 15 minutos, tritúralos y sálalos. Tuesta el pan.",
     "Deja reposar los papetons 5 minutos, pasa un cuchillo por el borde y desmóldalos sobre el coulis caliente. Sírvelos con el pan tostado y los canónigos."
   ],
   nutricion: { kcal: 420, prot: 18, hc: 34, grasa: 23 },
@@ -82,8 +82,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz en abundante agua con sal 12 minutos: debe quedar algo entero, porque terminará en el horno. Escúrrelo sin enjuagar.",
-    "Precalienta el horno a 190 °C. Corta el calabacín en dados de 1 cm y pica la parte verde de la cebolleta.",
+    "Precalienta el horno a 190 °C. Cuece el arroz en abundante agua con sal 12 minutos: debe quedar algo entero, porque terminará en el horno. Escúrrelo sin enjuagar.",
+    "Mientras se cuece el arroz, corta el calabacín en dados de 1 cm y pica la parte verde de la cebolleta.",
     "Calienta el aceite de ajo en una sartén amplia a fuego medio y rehoga el calabacín con la cebolleta y las hojas de tomillo 6 minutos, hasta que esté tierno y haya soltado su agua. Añade las espinacas a puñados y remueve 2 minutos, hasta que se reduzcan. Sala y deja templar.",
     "Pon la verdura en un colador y apriétala con una cuchara: el agua que quede haría un tian aguado.",
     "Bate los huevos con dos tercios del parmesano y pimienta, y mézclalos con la verdura y el arroz.",
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta la calabaza en gajos de 2 cm, mézclala en una bandeja con el aceite de oliva, las hojas de tomillo, sal y pimienta, y ásala 30-35 minutos, dándole la vuelta a mitad, hasta que esté tierna y con los bordes tostados.",
-    "Lava la quinoa en un colador hasta que el agua salga limpia y cuécela en el doble de su volumen de agua con sal, tapada y a fuego suave, 15 minutos. Apaga, deja reposar 5 minutos tapada y suéltala con un tenedor.",
+    "Mientras, lava la quinoa en un colador hasta que el agua salga limpia y cuécela en el doble de su volumen de agua con sal, tapada y a fuego suave, 15 minutos. Apaga, deja reposar 5 minutos tapada y suéltala con un tenedor.",
     "Tuesta las avellanas en una sartén sin aceite a fuego medio 4 minutos, moviéndolas, hasta que huelan y la piel se cuartee. Frótalas en un paño para quitar la piel suelta.",
     "Haz la persillade: pica a cuchillo el perejil y las avellanas, no demasiado fino, y mézclalos con la ralladura de medio limón y el aceite de ajo.",
     "Aliña la quinoa con el zumo de medio limón y una pizca de sal.",
@@ -305,7 +305,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Escurre el tofu, envuélvelo en papel de cocina, ponle un peso encima 10 minutos y córtalo en 4 lonchas gruesas.",
     "Mientras, pela la patata, córtala en rodajas de 3 mm y cuécelas 5 minutos en agua con sal: así terminarán tiernas al mismo tiempo que el tofu. Escúrrelas.",
     "Prepara la marinada: deshaz el azafrán con los dedos en el zumo de media naranja templado, añade el aceite de ajo, 2 tiras de piel de naranja sin la parte blanca, las semillas de hinojo machacadas, sal y pimienta. Unta bien el tofu y déjalo 5 minutos.",
-    "Lamina el hinojo muy fino y parte los tomates cherry por la mitad.",
+    "Lamina el hinojo muy fino, parte los tomates cherry por la mitad y pica el perejil.",
     "Corta dos hojas grandes de papel de horno. En el centro de cada una, pon una cama de patata e hinojo, encima dos lonchas de tofu, los tomates, el tomillo y el resto de la marinada. Rocía con el aceite de oliva, cierra los paquetes doblando los bordes varias veces para que no escape el vapor y colócalos en una bandeja.",
     "Hornea 18-20 minutos: el paquete se hinchará y el hinojo quedará tierno y translúcido.",
     "Sirve los paquetes cerrados y ábrelos en la mesa; termina con perejil picado y unos gajos de la otra media naranja."
@@ -349,7 +349,7 @@ window.RECETAS_SEED.push({
     "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor (o en agua apenas hirviendo) 10 minutos: se ablanda, pierde el amargor y absorbe mejor la marinada.",
     "Mientras, pon a cocer el arroz basmati en el doble de su volumen de agua con sal, tapado y a fuego mínimo, 12 minutos; apaga y deja reposar tapado.",
     "Mezcla en un bol el aceite de ajo, el zumo de medio limón, las hierbas provenzales, el pimentón, sal y pimienta. Añade el tempeh aún templado y remueve para que se impregne bien 5 minutos.",
-    "Corta el calabacín en medias lunas gruesas y monta las brochetas alternando tempeh, calabacín y tomates cherry.",
+    "Pica el perejil, corta el calabacín en medias lunas gruesas y monta las brochetas alternando tempeh, calabacín y tomates cherry.",
     "Calienta la plancha a fuego medio-alto, úntala con el aceite de oliva y marca las brochetas 6-8 minutos, girándolas cada 2 minutos, hasta que el tempeh esté dorado y el calabacín tierno con marcas. Pincélalas con el resto de la marinada al darles la vuelta.",
     "Suelta el arroz con un tenedor, añádele la ralladura del limón y el perejil picado, y sirve las brochetas encima."
   ],
@@ -610,9 +610,9 @@ window.RECETAS_SEED.push({
     "Corta los contramuslos en trozos de 4 cm, sécalos y salpimiéntalos.",
     "Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora el pollo 6-8 minutos, sin moverlo demasiado, hasta que tenga color por todas partes. Añade la cebolleta picada y remueve 1 minuto.",
     "Incorpora el tomate concentrado y tuéstalo 1 minuto removiendo; después el tomate triturado, el laurel, el clavo (clavado en un trozo de pollo para encontrarlo luego) y la nuez moscada.",
-    "Vierte el caldo, lleva a ebullición, tapa y guisa a fuego muy suave 40 minutos, removiendo de vez en cuando, hasta que el pollo esté tan tierno que se deshaga al apretarlo y la salsa haya espesado. Si se seca, añade un chorrito de agua.",
+    "Vierte el caldo, lleva a ebullición, tapa y guisa a fuego muy suave 40 minutos, removiendo de vez en cuando, hasta que el pollo esté tan tierno que se deshaga al apretarlo y la salsa haya espesado. Si se seca, añade un chorrito de agua. Mientras, pica el perejil y, hacia el final, pon a hervir abundante agua con sal para la pasta.",
     "Retira el laurel y el clavo y deshilacha un poco el pollo con dos tenedores dentro de la salsa. Ajusta de sal.",
-    "Cuece la pasta sin gluten en abundante agua con sal el tiempo del paquete menos 1 minuto. Escúrrela guardando un vaso del agua de cocción.",
+    "Cuece la pasta sin gluten en el agua hirviendo el tiempo del paquete menos 1 minuto. Escúrrela guardando un vaso del agua de cocción.",
     "Mezcla la pasta con el šugo a fuego suave 1 minuto, aligerando con un poco de agua de cocción si hace falta, y sirve con parmesano y perejil."
   ],
   nutricion: { kcal: 620, prot: 40, hc: 70, grasa: 20 },
@@ -651,7 +651,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Seca bien la sepia. Calienta el aceite de ajo en una cazuela a fuego fuerte y saltéala 3-4 minutos, hasta que suelte el agua y esta se evapore y empiece a dorarse ligeramente.",
-    "Baja el fuego, añade el tomate triturado, dos tiras de piel de naranja sin la parte blanca, el laurel y un vaso pequeño de agua. Tapa y guisa a fuego suave 30-35 minutos, hasta que la sepia esté tierna al pincharla y la salsa espesa. Añade agua si se seca.",
+    "Baja el fuego, añade el tomate triturado, dos tiras de piel de naranja sin la parte blanca, el laurel y un vaso pequeño de agua. Tapa y guisa a fuego suave 30-35 minutos, hasta que la sepia esté tierna al pincharla y la salsa espesa. Añade agua si se seca. Mientras, pica el perejil.",
     "Unos 10 minutos antes de terminar, lleva a ebullición los 600 ml de agua con sal en otra cazuela. Echa la polenta en forma de lluvia batiendo con varillas para que no haga grumos y cuece a fuego bajo el tiempo del paquete (5-8 minutos), removiendo, hasta que esté cremosa y se despegue de las paredes.",
     "Fuera del fuego, añade el aceite de oliva a la polenta y bate: quedará brillante y suave. Si espesa demasiado, aligérala con un chorrito de agua caliente.",
     "Retira el laurel y la piel de naranja de la salsa, añade un chorrito de zumo de naranja y el perejil picado, y ajusta de sal y pimienta.",
@@ -694,8 +694,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el mijo en un colador fino con agua fría hasta que salga limpia: así pierde el ligero amargor. Calienta el caldo.",
-    "Tuesta los piñones en una sartén sin aceite 2 minutos, moviéndolos, hasta que estén dorados. Resérvalos.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio y tuesta el mijo escurrido 2 minutos, removiendo, hasta que huela a cereal tostado. Añade la cebolleta picada.",
+    "Mientras se calienta el caldo, tuesta los piñones en una sartén sin aceite 2 minutos, moviéndolos, hasta que estén dorados. Resérvalos. Pica la parte verde de la cebolleta y la mitad de la menta.",
+    "Calienta el aceite de ajo en una cazuela a fuego medio y tuesta el mijo escurrido 2 minutos, removiendo, hasta que huela a cereal tostado. Añade la cebolleta.",
     "Vierte dos tercios del caldo caliente, lleva a ebullición, baja el fuego, tapa y cuece 10 minutos.",
     "Mientras, ralla el calabacín con un rallador grueso y pica las espinacas. Añade el calabacín al mijo con el resto del caldo y cuece destapado 8-10 minutos, removiendo a menudo, hasta que el grano esté tierno y el conjunto cremoso: el almidón del mijo y el calabacín rallado ligan la salsa. Incorpora las espinacas el último minuto, solo para que mermen.",
     "Fuera del fuego, añade la ralladura del limón, un chorro de su zumo, la mitad del feta desmenuzado y la menta picada; remueve con energía 30 segundos y ajusta de sal y pimienta.",
@@ -782,11 +782,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el cordero y salpimiéntalo. Calienta el aceite de ajo en una cazuela ancha a fuego fuerte y dora los dados 5 minutos, hasta que tengan costra por todos los lados. Sácalos a un plato.",
-    "En la misma grasa, baja a fuego medio y rehoga el pimiento en dados pequeños 6 minutos, hasta que esté blando. Añade la cebolleta picada 1 minuto.",
+    "Corta el pimiento en dados pequeños y pica la parte verde de la cebolleta. Seca el cordero y salpimiéntalo. Calienta el aceite de ajo en una cazuela ancha a fuego fuerte y dora los dados 5 minutos, hasta que tengan costra por todos los lados. Sácalos a un plato.",
+    "En la misma grasa, baja a fuego medio y rehoga el pimiento 6 minutos, hasta que esté blando. Añade la cebolleta 1 minuto.",
     "Incorpora el pimentón, remueve 10 segundos sin que se queme y añade el tomate triturado. Cuece 5 minutos, hasta que se oscurezca y espese.",
     "Devuelve el cordero, añade la ajedrea, la rama de romero y el arroz, y remueve 1 minuto para nacarar el grano.",
-    "Vierte el caldo caliente, lleva a ebullición y cuece 17-18 minutos a fuego medio, removiendo de vez en cuando como un risotto para que suelte almidón. Si se queda seco, añade un poco más de caldo: debe quedar meloso, que se mueva al agitar la cazuela.",
+    "Vierte el caldo caliente, lleva a ebullición y cuece 17-18 minutos a fuego medio, removiendo de vez en cuando como un risotto para que suelte almidón. Si se queda seco, añade un poco más de caldo: debe quedar meloso, que se mueva al agitar la cazuela. Mientras, pica el perejil.",
     "Retira el romero, ajusta de sal, deja reposar 2 minutos y sirve con perejil picado."
   ],
   nutricion: { kcal: 530, prot: 30, hc: 62, grasa: 18 },
@@ -869,12 +869,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava bien las hojas de acelga y las espinacas y córtalas en tiras anchas. Pela la patata y córtala en láminas de medio centímetro.",
+    "Lava bien las hojas de acelga y las espinacas y córtalas en tiras anchas. Pela la patata y córtala en láminas de medio centímetro. Pica la parte verde de la cebolleta.",
     "Calienta 1 cucharada de aceite de ajo en una cazuela a fuego medio y rehoga la cebolleta picada 1 minuto. Añade las acelgas y las espinacas a puñados y remueve 2-3 minutos, hasta que se reduzcan.",
-    "Incorpora la patata, el laurel, el agua y sal. Lleva a ebullición y cuece a fuego suave 15 minutos, hasta que la patata esté tierna y el caldo haya cogido el sabor verde de las hojas.",
+    "Incorpora la patata, el laurel, el agua y sal. Lleva a ebullición y cuece a fuego suave 15 minutos, hasta que la patata esté tierna y el caldo haya cogido el sabor verde de las hojas. Mientras, tuesta el pan sin gluten y pica el perejil.",
     "Sala las sardinas por dentro y por fuera y colócalas sobre la sopa, sumergidas a medias. Tapa y escálfalas a fuego mínimo 5-6 minutos, sin que hierva, hasta que la carne se separe de la espina.",
-    "Mientras, tuesta el pan sin gluten y pica el perejil.",
-    "Saca con cuidado las sardinas a una fuente, rocíalas con el resto del aceite de ajo, el zumo de limón y el perejil. Retira el laurel y ajusta de sal y pimienta la sopa.",
+        "Saca con cuidado las sardinas a una fuente, rocíalas con el resto del aceite de ajo, el zumo de limón y el perejil. Retira el laurel y ajusta de sal y pimienta la sopa.",
     "Sirve como en Tolón: el pan tostado en el fondo del plato hondo, el caldo con las verduras por encima, y las sardinas aparte para ir comiéndolas con la sopa."
   ],
   nutricion: { kcal: 460, prot: 30, hc: 38, grasa: 21 },
@@ -915,7 +914,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela y corta en dados de 2 cm la patata, la zanahoria y la calabaza. Pica la parte verde de la cebolleta y corta las hojas de acelga en tiras.",
     "Calienta el aceite de ajo en una cazuela a fuego medio y rehoga la cebolleta 1 minuto. Añade el tomate concentrado y remueve 1 minuto, hasta que se oscurezca un poco.",
-    "Incorpora la patata, la zanahoria y la calabaza, remueve para que se impregnen y vierte el caldo. Lleva a ebullición y cuece a fuego suave 20 minutos, hasta que todo esté muy tierno.",
+    "Incorpora la patata, la zanahoria y la calabaza, remueve para que se impregnen y vierte el caldo. Lleva a ebullición y cuece a fuego suave 20 minutos, hasta que todo esté muy tierno. Mientras, pica el perejil.",
     "Aplasta contra la pared de la cazuela unos cuantos dados de patata y calabaza: espesarán la sopa sin necesidad de triturarla. Añade las acelgas y cuece 4 minutos más. Ajusta de sal, con cuidado porque el feta es salado.",
     "Aparta del fuego, desmenuza encima la mitad del feta, tapa y deja reposar 2 minutos: el queso se ablanda en el calor y se funde a medias con el caldo.",
     "Sirve en platos hondos con el resto del feta en trozos grandes, perejil picado, pimienta y un hilo del aceite de la cazuela."
@@ -959,11 +958,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el cerdo y salpimiéntalo. Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora los dados 6 minutos, hasta que tengan color por todos los lados.",
-    "Añade la cebolleta picada, el cilantro molido y el tomate concentrado y remueve 1 minuto, hasta que el tomate se pegue ligeramente al fondo.",
-    "Vierte el agua, raspa el fondo con una cuchara de madera para despegar lo tostado, añade el laurel y lleva a ebullición. Retira la espuma, tapa y cuece a fuego muy suave 50 minutos, hasta que el cerdo esté casi tierno.",
-    "Añade la zanahoria en rodajas y la patata y la calabaza en dados grandes, y cuece 20 minutos más.",
-    "Incorpora el repollo cortado en tiras finas, sin el tronco, y cuece 10 minutos, hasta que esté tierno pero aún verde. Aplasta unos dados de patata para espesar el caldo y ajusta de sal.",
+    "Pica la parte verde de la cebolleta. Seca el cerdo y salpimiéntalo. Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora los dados 6 minutos, hasta que tengan color por todos los lados.",
+    "Añade la cebolleta, el cilantro molido y el tomate concentrado y remueve 1 minuto, hasta que el tomate se pegue ligeramente al fondo.",
+    "Vierte el agua, raspa el fondo con una cuchara de madera para despegar lo tostado, añade el laurel y lleva a ebullición. Retira la espuma, tapa y cuece a fuego muy suave 50 minutos, hasta que el cerdo esté casi tierno. Mientras, pela la zanahoria y córtala en rodajas; pela la patata y la calabaza y córtalas en dados grandes; corta el repollo en tiras finas, sin el tronco, y pica el perejil.",
+    "Añade la zanahoria, la patata y la calabaza, y cuece 20 minutos más.",
+    "Incorpora el repollo y cuece 10 minutos, hasta que esté tierno pero aún verde. Aplasta unos dados de patata para espesar el caldo y ajusta de sal.",
     "Retira el laurel y sirve en platos hondos con perejil picado y el parmesano por encima."
   ],
   nutricion: { kcal: 490, prot: 33, hc: 45, grasa: 20 },
@@ -1007,10 +1006,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Escalda el tomate 20 segundos, pélalo, quítale las semillas y pícalo. Lamina el hinojo muy fino y pica la parte verde de la cebolleta. Pela la patata y córtala en rodajas de 1 cm.",
     "Calienta el aceite de ajo en una cazuela ancha a fuego medio y rehoga el hinojo y la cebolleta 4 minutos, hasta que el hinojo esté blando sin tomar color. Añade el tomate y cuece 3 minutos más.",
-    "Incorpora la patata, el azafrán desmenuzado, la piel de naranja, el tomillo, el laurel, el agua y sal. Lleva a ebullición y cuece a fuego suave 15-18 minutos, hasta que la patata esté tierna pero entera.",
+    "Incorpora la patata, el azafrán desmenuzado, la piel de naranja, el tomillo, el laurel, el agua y sal. Lleva a ebullición y cuece a fuego suave 15-18 minutos, hasta que la patata esté tierna pero entera. Mientras, tuesta el pan sin gluten y pica el perejil.",
     "Retira la piel de naranja, el tomillo y el laurel. Baja el fuego al mínimo para que el caldo apenas tiemble.",
     "Casca cada huevo en una taza y deslízalo en el caldo, separados entre sí. Escálfalos 3-4 minutos, echándoles caldo por encima con una cuchara, hasta que la clara esté cuajada y la yema líquida.",
-    "Tuesta el pan sin gluten y pon una rebanada en cada plato hondo. Reparte encima la patata y el caldo y coloca dos huevos por plato. Termina con perejil picado y pimienta."
+    "Pon una rebanada de pan en cada plato hondo. Reparte encima la patata y el caldo y coloca dos huevos por plato. Termina con perejil picado y pimienta."
   ],
   nutricion: { kcal: 495, prot: 19, hc: 55, grasa: 22 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "de cuchara", "económica", "invierno"],
@@ -1048,10 +1047,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta el trigo sarraceno en una cazuela en seco a fuego medio 3 minutos, removiendo, hasta que se oscurezca un tono y huela a nuez. Sácalo a un plato.",
-    "En la misma cazuela, calienta el caldo con dos ramas de tomillo. Cuando hierva, baja a fuego mínimo, añade la pechuga entera y escálfala 12 minutos, sin que el caldo borbotee, hasta que esté blanca en el centro. Sácala y deja que temple.",
-    "Añade al caldo la zanahoria en dados pequeños y el trigo sarraceno y cuece 10 minutos, hasta que el grano esté tierno pero entero.",
-    "Mientras, tritura el aceite de oliva con las hojas del resto del tomillo, la ralladura del limón y una pizca de sal hasta tener un aceite verde.",
-    "Deshilacha el pollo. Añade al caldo el kale en tiras finas y el pollo y cuece 3 minutos, hasta que el kale esté tierno. Ajusta de sal y pimienta y termina con un chorro de zumo de limón.",
+    "En la misma cazuela, calienta el caldo con dos ramas de tomillo. Cuando hierva, baja a fuego mínimo, añade la pechuga entera y escálfala 12 minutos, sin que el caldo borbotee, hasta que esté blanca en el centro. Sácala y deja que temple. Mientras se escalfa, corta la zanahoria en dados pequeños.",
+    "Añade al caldo la zanahoria y el trigo sarraceno y cuece 10 minutos, hasta que el grano esté tierno pero entero.",
+    "Mientras, tritura el aceite de oliva con las hojas del resto del tomillo, la ralladura del limón y una pizca de sal hasta tener un aceite verde. Corta el kale en tiras finas y pica el cebollino.",
+    "Deshilacha el pollo. Añade al caldo el kale y el pollo y cuece 3 minutos, hasta que el kale esté tierno. Ajusta de sal y pimienta y termina con un chorro de zumo de limón.",
     "Sirve muy caliente con un hilo de aceite de tomillo y cebollino picado."
   ],
   nutricion: { kcal: 430, prot: 38, hc: 38, grasa: 14 },
@@ -1091,8 +1090,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta 2 cucharaditas de aceite de ajo en una cazuela a fuego medio y rehoga la cebolleta picada y 4 hojas de salvia 1 minuto.",
-    "Añade las castañas, la patata pelada en dados y la zanahoria en rodajas, remueve 1 minuto y vierte el caldo. Lleva a ebullición y cuece a fuego suave 25 minutos, hasta que todo esté muy tierno.",
+    "Pela la patata y córtala en dados; pela la zanahoria y córtala en rodajas, y pica la cebolleta. Calienta 2 cucharaditas de aceite de ajo en una cazuela a fuego medio y rehoga la cebolleta y 4 hojas de salvia 1 minuto.",
+    "Añade las castañas, la patata y la zanahoria, remueve 1 minuto y vierte el caldo. Lleva a ebullición y cuece a fuego suave 25 minutos, hasta que todo esté muy tierno.",
     "Mientras, dora el jamón en una sartén sin aceite 3-4 minutos, hasta que esté crujiente, y desmenúzalo. En la misma sartén, con el resto del aceite de ajo, dora el pan en dados y las hojas de salvia restantes 2-3 minutos, hasta que estén crujientes.",
     "Retira las hojas de salvia de la cazuela, añade la leche y la nuez moscada y tritura 2 minutos hasta tener una crema muy lisa. Si queda espesa, aligérala con caldo o agua caliente. Prueba de sal (el jamón ya sala).",
     "Sirve la crema caliente con los picatostes, el jamón crujiente, las hojas de salvia tostadas y pimienta."

@@ -90,8 +90,8 @@ window.RECETAS_SEED.push({
     "Corta el cordero y el cerdo en dados pequeños, de 1,5 cm (en la kreatopita la carne va en trocitos, no picada), sécalos y salpimiéntalos. Pica la cebolla y el ajo; pela la patata y córtala en dados de 1 cm.",
     "Calienta 1 cucharada de aceite en una cazuela a fuego fuerte y dora la carne en dos tandas, 4-5 minutos, hasta que esté tostada. Baja a fuego medio, añade la cebolla y rehoga 5 minutos; añade el ajo y rehoga 30 segundos más.",
     "Vierte el vino y deja que hierva 2 minutos, raspando el fondo. Añade el tomate, la canela, el orégano y 150 ml de agua, tapa y cuece a fuego suave 30 minutos, hasta que la carne esté tierna y queden unas 6-8 cucharadas de salsa: el arroz la absorberá en el horno.",
-    "Fuera del fuego, mezcla el guiso con el arroz crudo, la patata, el perejil picado y el kefalotyri. Deja templar 10 minutos, prueba de sal y añade el huevo batido.",
-    "Precalienta el horno a 180 °C y unta con aceite una fuente de unos 20 cm. Forra la base con 3 láminas de filo, pintando cada una con aceite y dejando que cuelguen por los bordes.",
+    "Fuera del fuego, mezcla el guiso con el arroz crudo, la patata, el perejil picado y el kefalotyri. Deja templar 10 minutos (mientras, precalienta el horno a 180 °C), prueba de sal y añade el huevo batido.",
+    "Unta con aceite una fuente de unos 20 cm. Forra la base con 3 láminas de filo, pintando cada una con aceite y dejando que cuelguen por los bordes.",
     "Reparte el relleno, dobla hacia dentro las láminas que cuelgan y cubre con las 2 láminas restantes, pintadas con aceite y algo arrugadas. Marca las raciones con un cuchillo sin llegar al relleno y salpica la superficie con unas gotas de agua para que no se queme.",
     "Hornea en la parte baja del horno 50-55 minutos, hasta que la filo esté bien dorada y el relleno deje de burbujear por los cortes. Deja reposar 10 minutos antes de cortar."
   ],
@@ -187,7 +187,7 @@ window.RECETAS_SEED.push({
     "Dóralas en la sartén con el aceite a fuego medio-alto 6-7 minutos, girándolas, hasta que tengan costra por todos lados; no hace falta que estén hechas por dentro.",
     "En la cazuela, rehoga el último ajo picado 30 segundos con un poco del aceite de la sartén. Añade el tomate, la canela, el laurel, el azúcar, sal y 100 ml de agua, y cuece 10 minutos a fuego medio.",
     "Pasa las albóndigas a la salsa, tapa y cuece a fuego suave 20 minutos, hasta que la salsa esté espesa y brillante y las albóndigas tiernas.",
-    "Mientras, en un cazo, sofríe el arroz con la mantequilla 2 minutos, hasta que brille. Añade 280 ml de agua hirviendo con sal, tapa y cuece 12 minutos a fuego mínimo; deja reposar 5 minutos tapado y suelta los granos con un tenedor.",
+    "Mientras, en un cazo, sofríe el arroz con la mantequilla 2 minutos, hasta que brille. Añade 280 ml de agua con sal, lleva a ebullición, tapa y cuece 12 minutos a fuego mínimo; deja reposar 5 minutos tapado y suelta los granos con un tenedor.",
     "Retira la canela y el laurel y sirve las soutzoukakia con su salsa junto al arroz, con perejil picado si quieres."
   ],
   nutricion: { kcal: 800, prot: 42, hc: 76, grasa: 35 },
@@ -229,7 +229,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita el troncho de la col cortando un cono con un cuchillo. Sumérgela entera en una cazuela grande de agua hirviendo con sal y ve despegando las hojas con unas pinzas a medida que se ablandan, 2-3 minutos cada tanda. Escúrrelas y recorta con el cuchillo el nervio central más grueso.",
+    "Pon a hervir una cazuela grande de agua con sal. Mientras, quita el troncho de la col cortando un cono con un cuchillo. Sumérgela entera en el agua hirviendo y ve despegando las hojas con unas pinzas a medida que se ablandan, 2-3 minutos cada tanda. Escúrrelas y recorta con el cuchillo el nervio central más grueso.",
     "Ralla la cebolla. En un bol mezcla las dos carnes, el arroz lavado y crudo, la cebolla, la menta picada, 1 cucharadita de pimentón dulce, 1 cucharada de aceite, sal y pimienta.",
     "Pon una cucharada colmada de relleno en la base de cada hoja, dobla los lados hacia dentro y enrolla apretando sin pasarte: el arroz necesita sitio para hincharse. Salen 12-14 rollitos.",
     "Cubre el fondo de la cazuela limpia con las hojas rotas o pequeñas y coloca encima los rollitos, bien juntos y con la juntura hacia abajo.",
@@ -277,10 +277,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las salchichas en rodajas gruesas de 2 cm y dóralas en la sartén con el aceite a fuego medio-alto 5-6 minutos, hasta que estén tostadas. Sácalas y deja la grasa en la sartén.",
-    "Añade la cebolla en juliana y los pimientos en tiras con una pizca de sal. Rehoga a fuego medio 10 minutos, hasta que estén blandos y empiecen a tostarse.",
+    "Añade la cebolla en juliana y los pimientos en tiras con una pizca de sal. Rehoga a fuego medio 10 minutos, hasta que estén blandos y empiecen a tostarse. Mientras, ralla los tomates por el lado del corte, desechando la piel.",
     "Añade el ajo laminado, el pimentón, la guindilla desmenuzada y el orégano, y remueve 30 segundos sin que el pimentón se queme.",
     "Vierte el vino y deja que se evapore 2 minutos, raspando el fondo de la sartén.",
-    "Ralla los tomates por el lado del corte, desechando la piel, y añádelos con las salchichas y un poco de ralladura de naranja. Cuece a fuego suave 15 minutos, hasta que la salsa espese y los pimientos estén melosos.",
+    "Añade el tomate rallado con las salchichas y un poco de ralladura de naranja. Cuece a fuego suave 15 minutos, hasta que la salsa espese y los pimientos estén melosos.",
     "Prueba de sal y pimienta y sirve caliente, con pan para mojar si quieres."
   ],
   nutricion: { kcal: 570, prot: 27, hc: 23, grasa: 40 },
@@ -320,8 +320,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca muy bien el conejo y salpimiéntalo. Calienta el aceite en la cazuela a fuego medio-alto y dora el conejo por tandas 8-10 minutos, moviéndolo poco, hasta que esté bien tostado.",
     "Añade las cebollas en juliana gruesa y los ajos enteros aplastados. Baja a fuego medio y rehoga 8 minutos, removiendo y raspando el fondo, hasta que la cebolla esté dorada.",
-    "Vierte el vino, deja que hierva 2 minutos y añade el romero y 100 ml de agua. Tapa y cuece a fuego suave 30 minutos.",
-    "Pela las patatas, córtalas en dados de 3 cm y añádelas con sal. Si hace falta, añade un poco de agua (50-100 ml) para que queden medio cubiertas. Tapa y cuece 20-25 minutos más, hasta que las patatas estén tiernas y el conejo se separe fácilmente del hueso.",
+    "Vierte el vino, deja que hierva 2 minutos y añade el romero y 100 ml de agua. Tapa y cuece a fuego suave 30 minutos. Mientras, pela las patatas y córtalas en dados de 3 cm.",
+    "Añade las patatas con sal. Si hace falta, añade un poco de agua (50-100 ml) para que queden medio cubiertas. Tapa y cuece 20-25 minutos más, hasta que las patatas estén tiernas y el conejo se separe fácilmente del hueso.",
     "Destapa los últimos 5 minutos para que la salsa reduzca y quede untuosa, casi sin líquido.",
     "Exprime medio limón por encima, mueve la cazuela con cuidado y sirve con el otro medio limón en gajos."
   ],
@@ -625,8 +625,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Mezcla la miel con 1 cucharadita de zumo de limón.",
     "Salpimienta el pavo, úntalo por arriba con la miel y aprieta encima el sésamo para que se pegue bien. Ponlo en una fuente con unas gotas de aceite y hornea 18-20 minutos, hasta que el sésamo esté dorado y el jugo salga claro al pincharlo.",
-    "Mientras, rehoga en la cazuela con el resto del aceite la cebolleta picada y el ajo 2 minutos. Añade el orzo y tuéstalo 1 minuto removiendo.",
-    "Añade el calabacín rallado grueso y el caldo caliente en dos veces, como un risotto. Cuece 10-11 minutos removiendo a menudo, hasta que el orzo esté al dente y cremoso.",
+    "Mientras, calienta el caldo en un cazo y ralla grueso el calabacín. Rehoga en la cazuela con el resto del aceite la cebolleta picada y el ajo 2 minutos. Añade el orzo y tuéstalo 1 minuto removiendo.",
+    "Añade el calabacín rallado y el caldo caliente en dos veces, como un risotto. Cuece 10-11 minutos removiendo a menudo, hasta que el orzo esté al dente y cremoso.",
     "Fuera del fuego, mezcla el orzo con la feta desmigada, la ralladura del limón, un chorrito de su zumo y la menta picada. Prueba de sal.",
     "Deja reposar el pavo 3 minutos, córtalo en rodajas y sírvelo sobre el orzo."
   ],
@@ -853,7 +853,7 @@ window.RECETAS_SEED.push({
     "Baja el fuego y, en el aceite que queda en la sartén (unas 2 cucharadas), dora los ajos laminados y el romero 1 minuto, sin que se quemen.",
     "Añade las pasas y el laurel y vierte con cuidado el vinagre y el agua, porque salpica. Cuece 3-4 minutos, hasta que la salsa se reduzca a la mitad, espese un poco y las pasas se hinchen.",
     "Vierte la salsa caliente sobre el conejo, dale la vuelta a los trozos y déjalo reposar al menos 15 minutos, mejor unas horas en la nevera, girándolo de vez en cuando.",
-    "Prepara la ensalada: corta la lechuga en tiras finas y mézclala con la cebolleta en rodajas y el eneldo picado. Alíñala con sal y un par de cucharadas de la propia salsa del savoro.",
+    "Mientras reposa, prepara la ensalada: corta la lechuga en tiras finas y mézclala con la cebolleta en rodajas y el eneldo picado. Alíñala con sal y un par de cucharadas de la propia salsa del savoro.",
     "Sirve el conejo templado o a temperatura ambiente, con la ensalada y pan si quieres."
   ],
   nutricion: { kcal: 580, prot: 47, hc: 24, grasa: 32 },

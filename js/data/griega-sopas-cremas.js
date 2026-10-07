@@ -137,7 +137,7 @@ window.RECETAS_SEED.push({
     "Pica la cebolla, la zanahoria y el apio en dados pequeños y lamina los ajos.",
     "Calienta 2 cucharadas de aceite en una cazuela a fuego medio y rehoga la cebolla, la zanahoria y el apio 8 minutos, hasta que estén blandos y la cebolla transparente. Añade el ajo y remueve 1 minuto, sin que se dore.",
     "Incorpora las habas y el laurel, remueve 1 minuto para que se impregnen de aceite y vierte el agua. Lleva a ebullición y retira con una espumadera la espuma que suba durante los primeros minutos.",
-    "Baja el fuego, tapa a medias y cuece 50–60 minutos, hasta que las habas se deshagan al apretarlas con una cuchara. Remueve de vez en cuando desde el fondo, porque tienden a pegarse, y añade agua caliente si espesa demasiado.",
+    "Baja el fuego, tapa a medias y cuece 50–60 minutos, hasta que las habas se deshagan al apretarlas con una cuchara. Remueve de vez en cuando desde el fondo, porque tienden a pegarse, y añade agua caliente si espesa demasiado. Mientras, pica el perejil y, si la usas, corta la cebolla morada en juliana.",
     "Retira el laurel y dale a la sopa unos golpes de batidora, o aplasta parte de las habas con el cucharón, sin triturarla del todo: debe quedar cremosa pero con trocitos. Sala y añade pimienta.",
     "Apaga el fuego y añade el zumo de medio limón y las 2 cucharadas de aceite restantes en crudo. Sirve con el perejil picado y el resto del limón en gajos, y pon al lado la cebolla morada en juliana y las aceitunas, como se acompañan en Grecia las sopas de legumbre."
   ],
@@ -183,7 +183,7 @@ window.RECETAS_SEED.push({
     "Incorpora el tomate rallado y cocina 5 minutos, hasta que espese y se oscurezca.",
     "Añade las pencas de acelga, el agua caliente, sal y una buena cantidad de pimienta negra. Lleva a ebullición y cuece 10 minutos a fuego medio.",
     "Agrega el calabacín, las hojas de acelga y las alubias y cuece 5 minutos.",
-    "Añade la pasta y cuécela 9–10 minutos, removiendo de vez en cuando, hasta que esté tierna y el caldo haya espesado con su almidón. Si queda muy densa, añade un poco de agua caliente.",
+    "Añade la pasta y cuécela 9–10 minutos, removiendo de vez en cuando, hasta que esté tierna y el caldo haya espesado con su almidón. Si queda muy densa, añade un poco de agua caliente. Mientras, pica el perejil.",
     "Apaga el fuego, añade el perejil picado, la cucharada de aceite restante en crudo y más pimienta recién molida. Deja reposar 5 minutos antes de servir: debe quedar espesa y muy aromática."
   ],
   nutricion: { kcal: 555, prot: 20, hc: 69, grasa: 22 },
@@ -225,7 +225,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si no lo ha hecho el pescadero, escama y vacía el pescado, quita las agallas de las cabezas y corta los cuerpos en trozos de 5–6 cm con su espina. Sálalos ligeramente y guárdalos en la nevera.",
     "Corta las cebollas en juliana gruesa, la patata en rodajas de 1 cm, la zanahoria en rodajas finas, el apio en trozos y los tomates en cuartos.",
-    "En una cazuela ancha, coloca por capas la cebolla, la patata, la zanahoria, el apio y el tomate, con el laurel. Riega con 3 cucharadas de aceite, cubre con el agua caliente, sala y lleva a ebullición. Cuece 20 minutos a fuego medio, hasta que la patata esté casi tierna.",
+    "En una cazuela ancha, coloca por capas la cebolla, la patata, la zanahoria, el apio y el tomate, con el laurel. Riega con 3 cucharadas de aceite, cubre con el agua caliente, sala y lleva a ebullición. Cuece 20 minutos a fuego medio, hasta que la patata esté casi tierna. Mientras, pica el perejil.",
     "Coloca encima las cabezas y los trozos de pescado, primero los más gruesos. Baja el fuego para que el caldo apenas tiemble y cuece 12–15 minutos sin remover; mueve la cazuela en vaivén de vez en cuando. Está listo cuando la carne se vea opaca y se separe de la espina al tocarla.",
     "Saca con cuidado el pescado y las patatas a una fuente templada y desecha las cabezas y el laurel. Sube el fuego y deja que el caldo con el resto de las verduras hierva fuerte 3 minutos: el aceite se emulsiona y el caldo se vuelve dorado y ligeramente turbio.",
     "Mientras, retira las espinas del pescado en trozos grandes. Bate en un bol el zumo del limón con la cucharada de aceite restante, 2 cucharadas de caldo y pimienta negra hasta que emulsione: es el ladolémono.",
@@ -312,7 +312,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon la carne en una olla con el agua fría y llévala a ebullición a fuego medio-alto. Durante 5–10 minutos, retira con una espumadera la espuma gris hasta que salga limpia: así el caldo quedará claro.",
     "Añade la cebolla entera pelada, el laurel, la pimienta en grano y sal. Tapa a medias y cuece a fuego suave 1 hora y 30 minutos, hasta que un cuchillo entre en la carne con poca resistencia.",
-    "Mientras, pela las zanahorias y córtalas en trozos de 5 cm; corta el apio en bastones, las patatas peladas en mitades y el calabacín en trozos de 5 cm.",
+    "Mientras, pela las zanahorias y córtalas en trozos de 5 cm; corta el apio en bastones, las patatas peladas en mitades y el calabacín en trozos de 5 cm. Pica el perejil.",
     "Añade a la olla las zanahorias, el apio y las patatas y cuece 20 minutos. Incorpora el calabacín y cuece 10 minutos más, hasta que todo esté tierno pero entero y la carne se deshaga al apretarla con un tenedor.",
     "Saca la carne y las verduras a una fuente, tápalas con papel de aluminio y desecha la cebolla y el laurel. Cuela el caldo (debería quedarte alrededor de 1 litro), devuélvelo al fuego, añade el arroz y cuécelo 15–17 minutos, hasta que esté tierno.",
     "Sirve primero el caldo con el arroz, con unas gotas de limón y pimienta negra. Después, la carne en trozos y las verduras, regadas con el aceite en crudo, el resto del zumo de limón, sal y el perejil picado."
@@ -355,7 +355,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Con guantes, lava las ortigas en agua fría y quédate con las hojas y las puntas tiernas; desecha los tallos duros. Escáldalas 1 minuto en agua hirviendo: pierden el picor al instante. Escúrrelas, pícalas groseramente y trocea también las espinacas.",
-    "Pica finos el puerro y las cebolletas; pela la patata y córtala en dados de 1 cm.",
+    "Pica finos el puerro y las cebolletas; pela la patata y córtala en dados de 1 cm. Pica el eneldo.",
     "Calienta el aceite en una cazuela a fuego medio y rehoga el puerro y la cebolleta 6 minutos, hasta que estén blandos y sin color.",
     "Añade la patata y el arroz y remueve 1 minuto para que se impregnen de aceite. Vierte el caldo caliente, sala y cuece 12 minutos a fuego medio.",
     "Incorpora las ortigas, las espinacas y la mitad del eneldo picado y cuece 6–8 minutos, hasta que el arroz esté tierno y las hojas tengan un verde intenso.",
@@ -449,7 +449,7 @@ window.RECETAS_SEED.push({
     "Calienta 2 cucharadas de aceite en una cazuela a fuego medio y rehoga la cebolla, el pimiento y el ajo 6 minutos, hasta que estén blandos.",
     "Añade la zanahoria, el apio y la patata y remueve 3 minutos para que se impregnen bien de aceite.",
     "Incorpora el tomate rallado y cocina 3 minutos. Vierte el agua caliente, sala, añade pimienta y lleva a ebullición.",
-    "Añade las judías verdes y cuece a fuego medio-suave, tapado a medias, 25 minutos, hasta que la patata empiece a deshacerse por los bordes y el caldo tome cuerpo.",
+    "Añade las judías verdes y cuece a fuego medio-suave, tapado a medias, 25 minutos, hasta que la patata empiece a deshacerse por los bordes y el caldo tome cuerpo. Mientras, pica el perejil.",
     "Aplasta unos dados de patata contra la pared de la cazuela para espesar. Apaga el fuego y añade el zumo del limón, la cucharada de aceite restante en crudo, el perejil y las hojas de apio picados. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 445, prot: 8, hc: 58, grasa: 20 },
@@ -674,7 +674,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las berenjenas en dados de 2 cm, mézclalas en una bandeja con el aceite y sal y ásalas 25 minutos, removiendo a mitad, hasta que estén doradas y blandas.",
-    "Mientras, dora el cordero picado en una cazuela sin aceite a fuego fuerte 6 minutos, deshaciéndolo con la cuchara, hasta que suelte la grasa y se tueste. Retira casi toda la grasa y deja solo una cucharada.",
+    "Mientras se asan, pica la cebolla y el ajo y corta la patata en dados de 1,5 cm. Dora el cordero picado en una cazuela sin aceite a fuego fuerte 6 minutos, deshaciéndolo con la cuchara, hasta que suelte la grasa y se tueste. Retira casi toda la grasa y deja solo una cucharada.",
     "Añade la cebolla picada y la patata en dados de 1,5 cm y rehoga 5 minutos. Incorpora el ajo picado y la canela y remueve 1 minuto.",
     "Añade el tomate concentrado, remueve 1 minuto y vierte el vino; deja que hierva 2 minutos. Agrega el tomate triturado y el caldo, salpimienta y cuece tapado 20 minutos, hasta que la patata esté tierna.",
     "Incorpora la berenjena asada y cuece 5 minutos más; aplasta parte de ella contra la pared de la cazuela para espesar la sopa.",
@@ -901,10 +901,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la calabaza, quítale las semillas y córtala en dados de 2 cm. Pica la cebolla y la zanahoria en trozos pequeños y pela los ajos. Ponlo todo en un bol grande apto para microondas con 3 cucharadas de agua y una pizca de sal, tapa y cocina 12–14 minutos a máxima potencia, removiendo a mitad, hasta que la calabaza se deshaga al pincharla.",
-    "Mientras, tuesta las semillas de calabaza en una sartén sin aceite a fuego medio 2–3 minutos, hasta que empiecen a saltar, y sácalas. Machaca las semillas de cilantro con el fondo de un vaso, tuéstalas 30 segundos en la misma sartén con 1 cucharada de aceite y échalas, con su aceite, al bol de las verduras.",
+    "Mientras, tuesta las semillas de calabaza en una sartén sin aceite a fuego medio 2–3 minutos, hasta que empiecen a saltar, y sácalas. Machaca las semillas de cilantro con el fondo de un vaso, tuéstalas 30 segundos en la misma sartén con 1 cucharada de aceite y échalas, con su aceite, al bol de las verduras. Pica la menta y ralla la piel del limón.",
     "Calienta el caldo 2 minutos en el microondas y tritura con él las verduras hasta tener una crema fina. Añade el zumo de medio limón, sal y pimienta; aligérala con agua caliente si la quieres más fluida.",
     "Corta el halloumi en dados de 2 cm y sécalo con papel de cocina. Dóralo en la sartén limpia, sin aceite, a fuego medio-alto 4–5 minutos, girándolo, hasta que tenga una costra dorada por varias caras.",
-    "Pica la menta y ralla la piel del limón.",
     "Sirve la crema caliente con el halloumi recién dorado, las semillas de calabaza, la menta, la ralladura de limón, un hilo con la cucharada de aceite restante y pimienta negra."
   ],
   nutricion: { kcal: 570, prot: 23, hc: 36, grasa: 37 },

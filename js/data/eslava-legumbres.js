@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava la patata y la zanahoria sin pelarlas, pínchalas con un tenedor y ponlas en un bol apto para microondas con 2 cucharadas de agua. Tápalo con un plato y cocina a máxima potencia (800 W) 8–10 minutos, hasta que la punta de un cuchillo entre sin resistencia. Déjalas templar destapadas.",
     "Mientras, corta la remolacha en dados de 1 cm, ponla en un bol aparte y mézclala con 1 cucharadita del aceite. Ese baño de aceite la «sella» y evita que tiña de rosa todo lo demás antes de tiempo.",
-    "Escurre bien las alubias. Corta los pepinillos en dados pequeños, aprieta el chucrut con las manos para quitarle el jugo (si las hebras son largas, dales un par de cortes) y pica la cebolla morada muy fina.",
+    "Escurre bien las alubias. Corta los pepinillos en dados pequeños, aprieta el chucrut con las manos para quitarle el jugo (si las hebras son largas, dales un par de cortes) y pica la cebolla morada muy fina y el eneldo.",
     "Pela la patata y la zanahoria templadas y córtalas en dados del mismo tamaño que la remolacha: que todo tenga el mismo tamaño es lo que hace bonito un vinegret.",
     "En un bol grande mezcla la patata, la zanahoria, las alubias, el pepinillo, el chucrut y la cebolla con el resto del aceite, el vinagre, sal y pimienta.",
     "Añade la remolacha y el eneldo picado y mezcla con suavidad, sin aplastar. Deja reposar 10 minutos para que se asienten los sabores: verás cómo todo coge un tono rubí uniforme."
@@ -80,11 +80,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Masa: en un bol mezcla la harina con una pizca de sal, 1 cucharada de aceite y el agua templada. Amasa 5–7 minutos, hasta que esté lisa, elástica y no se pegue a las manos. Envuélvela en film y déjala reposar 30 minutos: el gluten se relaja y luego se estira sin encoger.",
-    "Relleno: pica fina una cebolla y póchala en una sartén con 1 cucharada de aceite a fuego medio 10 minutos, hasta que esté dorada. Aplasta las alubias con un tenedor y mézclalas con la cebolla, el ajo rallado, la mitad del eneldo picado, sal y pimienta. Debe quedar una pasta espesa que se sostenga en la cuchara; si está blanda, sécala 2–3 minutos en la sartén.",
+    "Relleno: mientras reposa la masa, pica fina una cebolla y póchala en una sartén con 1 cucharada de aceite a fuego medio 10 minutos, hasta que esté dorada. Aplasta las alubias con un tenedor y mézclalas con la cebolla, el ajo rallado, la mitad del eneldo picado, sal y pimienta. Debe quedar una pasta espesa que se sostenga en la cuchara; si está blanda, sécala 2–3 minutos en la sartén.",
     "Estira la masa sobre la encimera enharinada hasta dejarla de unos 2 mm, casi translúcida. Corta círculos de 8 cm con un vaso; junta los recortes, vuelve a estirarlos y saldrán unos 28–30.",
     "Pon una cucharada pequeña de relleno (unos 12 g) en el centro de cada círculo, dóblalo en media luna y sella el borde presionando con los dedos de un extremo al otro, sacando el aire. Si quieres el borde clásico, pellízcalo formando un cordoncillo. Déjalos sobre un paño enharinado sin que se toquen.",
-    "Corta la otra cebolla en medias lunas finas y fríela en la sartén con el resto del aceite a fuego medio-bajo 12–15 minutos, removiendo de vez en cuando, hasta que esté dorada y dulce.",
-    "Cuece los varenyky en una cazuela con abundante agua hirviendo con sal, en tandas de 10, removiendo con cuidado al principio para que no se peguen al fondo. Cuando suban a la superficie, cuenta 2–3 minutos más (unos 5 en total) y sácalos con una espumadera.",
+    "Corta la otra cebolla en medias lunas finas y fríela en la sartén con el resto del aceite a fuego medio-bajo 12–15 minutos, removiendo de vez en cuando, hasta que esté dorada y dulce. Mientras, pon a hervir abundante agua con sal en una cazuela.",
+    "Cuece los varenyky en el agua hirviendo, en tandas de 10, removiendo con cuidado al principio para que no se peguen al fondo. Cuando suban a la superficie, cuenta 2–3 minutos más (unos 5 en total) y sácalos con una espumadera.",
     "Mézclalos en una fuente con la cebolla frita y su aceite para que se impregnen todos. Sirve con el resto del eneldo por encima y la smetana aparte."
   ],
   nutricion: { kcal: 740, prot: 22, hc: 110, grasa: 22 },
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon las setas secas a hidratar en 300 ml de agua caliente 20 minutos. Enjuaga los guisantes en un colador hasta que el agua salga clara.",
     "Cuece los guisantes en una cazuela con 600 ml de agua y el laurel a fuego suave, con la tapa entreabierta, 45–50 minutos. Remueve de vez en cuando y añade un chorrito de agua si se secan: están listos cuando se deshacen en un puré espeso al removerlos. Retira el laurel y sala.",
-    "Mientras, prueba el chucrut: si es muy ácido, enjuágalo una vez y escúrrelo. Ponlo en otra cazuela con las setas picadas, su agua colada (deja en el fondo la arenilla), la pimienta de Jamaica y agua justa para cubrir. Cuece tapado a fuego suave 35–40 minutos, hasta que esté muy tierno.",
+    "Mientras, escurre las setas, reservando su agua, y pícalas. Prueba el chucrut: si es muy ácido, enjuágalo una vez y escúrrelo. Ponlo en otra cazuela con las setas picadas, su agua colada (deja en el fondo la arenilla), la pimienta de Jamaica y agua justa para cubrir. Cuece tapado a fuego suave 35–40 minutos, hasta que esté muy tierno.",
     "Pica la cebolla y dórala en una sartén con el aceite a fuego medio 10–12 minutos, hasta que esté bien dorada. Espolvorea la harina y remueve 1 minuto, hasta que huela a tostado.",
     "Añade la cebolla con la harina al chucrut, remueve bien y cuece 5 minutos: el caldo espesa y liga.",
     "Mezcla el puré de guisantes con el chucrut, añade la mejorana, sal y pimienta negra y cuece todo junto 5 minutos más, removiendo. Debe quedar un guiso espeso que se sostenga en la cuchara; si le falta acidez, añade un poco del jugo del chucrut.",
@@ -174,9 +174,9 @@ window.RECETAS_SEED.push({
     "Mientras, pica la cebolla muy fina y póchala en una sartén con la mantequilla a fuego medio 8 minutos, hasta que esté dorada clara.",
     "Espolvorea la harina sobre la cebolla y remueve 1–2 minutos, hasta que huela a galleta: es el roux rubio que dará cuerpo al guiso.",
     "Vierte un cazo del caldo de las lentejas sobre el roux, bate con unas varillas hasta que quede liso y pásalo todo a la cazuela. Cuece 5 minutos removiendo: el caldo se vuelve espeso y cremoso.",
-    "Aparta del fuego, retira el laurel y añade el vinagre, el azúcar y pimienta. Prueba: tiene que saber claramente agrio, con un fondo dulce que lo redondea. Corrige de vinagre o de sal.",
+    "Aparta del fuego, retira el laurel y añade el vinagre, el azúcar y pimienta. Prueba: tiene que saber claramente agrio, con un fondo dulce que lo redondea. Corrige de vinagre o de sal. Corta los pepinillos en abanico.",
     "Limpia la sartén y fríe los huevos en aceite bien caliente 2–3 minutos, hasta que la clara esté cuajada, con puntilla, y la yema siga líquida.",
-    "Sirve las lentejas en plato hondo con dos huevos encima y los pepinillos cortados en abanico al lado; acompaña con pan de centeno si quieres."
+    "Sirve las lentejas en plato hondo con dos huevos encima y los pepinillos en abanico al lado; acompaña con pan de centeno si quieres."
   ],
   nutricion: { kcal: 610, prot: 32, hc: 57, grasa: 27 },
   etiquetas: ["tradicional", "vegetariana", "alta en proteína", "económica", "de cuchara", "invierno", "poco especiada"],
@@ -221,7 +221,7 @@ window.RECETAS_SEED.push({
     "Escúrrelas y ponlas en una cazuela grande con el codillo, el laurel y 1,5 l de agua fría. Lleva a ebullición, retira la espuma y cuece a fuego suave con la tapa entreabierta 45 minutos.",
     "Enjuaga la cebada en un colador hasta que el agua salga clara y añádela a la cazuela. Cuece 30 minutos más, removiendo de vez en cuando porque tiende a pegarse al fondo.",
     "Mientras, pica la cebolla, la zanahoria y el apio en dados pequeños y lamina el ajo. Sofríelos en una sartén con el aceite a fuego medio 8 minutos, hasta que la cebolla esté transparente; añade el tomate concentrado y remueve 1 minuto.",
-    "Incorpora el sofrito a la cazuela y cuece 25–30 minutos más, hasta que alubias y cebada estén tiernas y el guiso tenga la textura de una sopa muy espesa. Si se seca, añade agua caliente.",
+    "Incorpora el sofrito a la cazuela y cuece 25–30 minutos más, hasta que alubias y cebada estén tiernas y el guiso tenga la textura de una sopa muy espesa. Si se seca, añade agua caliente. Mientras, pica el perejil.",
     "Saca el codillo, quítale la piel, la grasa y el hueso, desmenuza la carne y devuélvela a la cazuela. Prueba de sal al final, porque el ahumado ya sala bastante, y añade pimienta.",
     "Sirve con perejil picado y, si te gusta, unas gotas de vinagre en cada plato para avivarlo."
   ],
@@ -266,7 +266,7 @@ window.RECETAS_SEED.push({
     "La víspera, pon las alubias en remojo en abundante agua fría.",
     "Escúrrelas, cúbrelas con agua fría en una cazuela, lleva a ebullición y cuece 5 minutos. Tira esa primera agua (en Bosnia se hace así para que resulten más digestivas) y vuelve a cubrirlas con 1,2 l de agua caliente. Añade el laurel y la cecina cortada en dados de 1,5 cm.",
     "Pica la cebolla, la zanahoria, el pimiento y el ajo y rehógalos en una sartén con 1 cucharada de aceite 10 minutos, hasta que estén blandos. Pásalos a la cazuela.",
-    "Cuece a fuego suave con la tapa entreabierta 75–80 minutos, hasta que las alubias estén tiernas y el caldo se vea turbio. Añade agua caliente si baja demasiado: debe quedar un guiso caldoso.",
+    "Cuece a fuego suave con la tapa entreabierta 75–80 minutos, hasta que las alubias estén tiernas y el caldo se vea turbio. Añade agua caliente si baja demasiado: debe quedar un guiso caldoso. Mientras, pica el perejil.",
     "Prepara la zaprška: en la sartén calienta el resto del aceite y tuesta la harina 1–2 minutos, removiendo, hasta que esté dorada clara. Aparta del fuego y añade el pimentón (sin fuego, para que no amargue). Diluye con un cazo de caldo de las alubias y bate hasta que no queden grumos.",
     "Vierte la zaprška en la cazuela, remueve y cuece 10 minutos más, hasta que el caldo espese y tome un color rojizo. Prueba de sal al final, porque la cecina sala, y añade pimienta.",
     "Sirve muy caliente con perejil picado."
@@ -312,9 +312,9 @@ window.RECETAS_SEED.push({
     "La víspera, pon las alubias en remojo en abundante agua fría.",
     "Escúrrelas y cuécelas en una cazuela con 1,5 l de agua nueva, el laurel y media cebolla, a fuego suave, 60–75 minutos, hasta que estén tiernas pero enteras. Sala en los últimos 10 minutos y, al escurrirlas, reserva 400 ml del caldo.",
     "Mientras, abre los pimientos choriceros, quítales las semillas y ponlos en remojo en agua caliente 15 minutos; después pícalos finos.",
-    "Pica el resto de la cebolla y dórala en una sartén con el aceite a fuego medio 10 minutos. Añade el ajo laminado 1 minuto y la harina 1 minuto más. Aparta del fuego y añade el pimentón, la menta, el pimiento choricero y la guindilla desmenuzada, si la usas.",
-    "Precalienta el horno a 200 °C. Mezcla las alubias con el sofrito, sal, pimienta y unos 350 ml del caldo reservado: tienen que quedar caldosas, casi cubiertas.",
-    "Pásalas a una cazuela de barro o fuente de horno y hornea sin tapar 40–45 minutos, hasta que la superficie forme una costra dorada, los bordes burbujeen y el caldo se haya reducido a una salsa espesa.",
+    "Precalienta el horno a 200 °C. Pica el resto de la cebolla y dórala en una sartén con el aceite a fuego medio 10 minutos. Añade el ajo laminado 1 minuto y la harina 1 minuto más. Aparta del fuego y añade el pimentón, la menta, el pimiento choricero y la guindilla desmenuzada, si la usas.",
+    "Mezcla las alubias con el sofrito, sal, pimienta y unos 350 ml del caldo reservado: tienen que quedar caldosas, casi cubiertas.",
+    "Pásalas a una cazuela de barro o fuente de horno y hornea sin tapar 40–45 minutos, hasta que la superficie forme una costra dorada, los bordes burbujeen y el caldo se haya reducido a una salsa espesa. Mientras, pica el perejil.",
     "Deja reposar 10 minutos fuera del horno, espolvorea perejil picado y sirve en la misma cazuela."
   ],
   nutricion: { kcal: 520, prot: 19, hc: 60, grasa: 21 },
@@ -356,8 +356,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "La víspera, pon las alubias en remojo en abundante agua fría.",
     "Escúrrelas, cúbrelas con agua fría en una olla, lleva a ebullición, cuece 5 minutos y tira el agua. Vuelve a cubrirlas con 1,3 l de agua caliente y cuece a fuego suave con la tapa entreabierta 50 minutos.",
-    "Pica la cebolla, la zanahoria y el pimiento en dados pequeños y añádelos a la olla en crudo, junto con el tomate triturado, el aceite y la guindilla si la usas. Así se hace en Bulgaria: las verduras se cuecen en el caldo y el aceite le da cuerpo.",
-    "Cuece 30–35 minutos más, hasta que las alubias estén muy tiernas y empiecen a abrirse.",
+    "Mientras, pica la cebolla, la zanahoria y el pimiento en dados pequeños. Pasados los 50 minutos, añádelos a la olla en crudo, junto con el tomate triturado, el aceite y la guindilla si la usas. Así se hace en Bulgaria: las verduras se cuecen en el caldo y el aceite le da cuerpo.",
+    "Cuece 30–35 minutos más, hasta que las alubias estén muy tiernas y empiecen a abrirse. Mientras, pica el perejil.",
     "Añade el pimentón, la ajedrea, la menta y sal, y cuece 10 minutos. Aplasta un cazo de alubias contra la pared de la olla y remueve: la sopa espesa ligeramente sin necesidad de harina.",
     "Deja reposar 5 minutos y sirve con perejil picado."
   ],
@@ -395,10 +395,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga las alubias y déjalas escurrir bien en un colador: si están secas, el aliño se adhiere en lugar de aguarse.",
+    "Si la haces con huevo, cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos. Enjuaga las alubias y déjalas escurrir bien en un colador: si están secas, el aliño se adhiere en lugar de aguarse.",
     "Corta la cebolla morada en plumas muy finas, ponla en un colador con una pizca de sal 5 minutos y enjuágala: pierde el picor pero sigue crujiente.",
     "Tuesta las semillas de calabaza en una sartén sin aceite a fuego medio 2–3 minutos, hasta que se hinchen y empiecen a saltar.",
-    "En un bol mezcla el vinagre con el ajo rallado, sal y pimienta. Añade las alubias y la cebolla y remueve; deja 5 minutos para que absorban el vinagre.",
+    "En un bol mezcla el vinagre con el ajo rallado, sal y pimienta. Añade las alubias y la cebolla y remueve; deja 5 minutos para que absorban el vinagre. Mientras, pica el perejil.",
     "Justo antes de servir, riega con el aceite de pepitas de calabaza (siempre en crudo: el calor le quita el aroma) y espolvorea el perejil picado y las semillas. Si la haces con huevo duro, ponlo en cuartos por encima."
   ],
   nutricion: { kcal: 420, prot: 18, hc: 42, grasa: 19 },
@@ -438,10 +438,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga los guisantes en un colador hasta que el agua salga clara. Ponlos en una cazuela con la costilla, el laurel y 1,5 l de agua fría, lleva a ebullición, retira la espuma y cuece a fuego suave con la tapa entreabierta 50 minutos.",
+    "Enjuaga los guisantes en un colador hasta que el agua salga clara. Ponlos en una cazuela con la costilla, el laurel y 1,5 l de agua fría, lleva a ebullición, retira la espuma y cuece a fuego suave con la tapa entreabierta 50 minutos. Mientras, pica la cebolla, ralla la zanahoria, pela la patata y córtala en dados de 1,5 cm, corta el bacon en tiras y pica el eneldo.",
     "Saca la costilla, deja que se temple, separa la carne del hueso y desmenúzala.",
-    "Corta el bacon en tiras y dóralo en una sartén 4–5 minutos. Añade la cebolla picada y la zanahoria rallada y rehoga 8 minutos en la grasa del bacon, hasta que estén blandas.",
-    "Añade a la cazuela la patata en dados de 1,5 cm y el sofrito y cuece 20–25 minutos, hasta que la patata esté tierna y los guisantes se hayan deshecho casi del todo. Remueve a menudo, porque se pega al fondo; añade agua caliente si espesa demasiado.",
+    "Dora el bacon en una sartén 4–5 minutos. Añade la cebolla y la zanahoria y rehoga 8 minutos en la grasa del bacon, hasta que estén blandas.",
+    "Añade a la cazuela la patata y el sofrito y cuece 20–25 minutos, hasta que la patata esté tierna y los guisantes se hayan deshecho casi del todo. Remueve a menudo, porque se pega al fondo; añade agua caliente si espesa demasiado.",
     "Devuelve la carne a la cazuela, prueba de sal (el ahumado ya sala) y añade pimienta. Si la quieres más fina, tritura un par de cazos y devuélvelos a la sopa.",
     "Picatostes: limpia la sartén, corta el pan en dados de 1 cm y dóralos con el aceite a fuego medio 3–4 minutos, removiendo, hasta que estén dorados y crujientes.",
     "Sirve la sopa con los picatostes por encima en el último momento y el eneldo picado."
@@ -525,7 +525,7 @@ window.RECETAS_SEED.push({
     "Escurre y enjuaga los garbanzos y sécalos muy bien con un paño: secos se doran, húmedos se cuecen.",
     "Corta el bacon en dados o tiras, ponlo en la sartén en frío y dóralo a fuego medio 6–7 minutos, hasta que esté crujiente. Sácalo y deja la grasa en la sartén.",
     "Saltea los garbanzos en esa grasa a fuego medio-alto 6–8 minutos, moviéndolos solo de vez en cuando, hasta que la piel esté dorada y algunos crujan.",
-    "Mientras, en un bol chafa el feta con la nata agria y 2 cucharadas de agua caliente con un tenedor, hasta obtener una crema espesa con algún grumo. Añade pimienta; no hace falta sal.",
+    "Mientras, en un bol chafa el feta con la nata agria y 2 cucharadas de agua caliente con un tenedor, hasta obtener una crema espesa con algún grumo. Añade pimienta; no hace falta sal. Pica el cebollino.",
     "Baja el fuego al mínimo, añade la crema de queso a los garbanzos y remueve 30 segundos, solo para templarla: si hierve, se corta.",
     "Sirve enseguida con el bacon crujiente por encima y el cebollino picado."
   ],
@@ -612,7 +612,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enjuaga las lentejas y cuécelas en una cazuela con abundante agua y el laurel 20–25 minutos, hasta que estén tiernas pero con la piel entera. Sala en los últimos minutos y escúrrelas.",
     "Mientras, prepara la ćwikła: ralla gruesa la remolacha y mézclala con el rábano picante, 1 cucharada de vinagre, el azúcar y una pizca de sal. Déjala reposar mientras terminas.",
-    "Pica la cebolla morada muy fina y corta los rábanos en láminas finas.",
+    "Pica la cebolla morada muy fina y el eneldo, y corta los rábanos en láminas finas.",
     "En un bol, aliña las lentejas recién escurridas, aún calientes, con el aceite, el resto del vinagre, la cebolla, sal y pimienta. En caliente absorben el aliño y quedan sabrosas hasta el centro.",
     "Quita la piel y las espinas a la caballa y sepárala en lascas grandes con los dedos.",
     "Sirve las lentejas templadas con la ćwikła al lado, la caballa por encima, los rábanos y mucho eneldo picado."
@@ -656,11 +656,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla fina y póchala en una cazuela con el aceite a fuego medio 6–7 minutos, hasta que esté transparente.",
+    "Pica la cebolla fina y póchala en una cazuela con el aceite a fuego medio 6–7 minutos, hasta que esté transparente. Mientras, corta los pepinillos en tiras finas y las aceitunas en rodajas.",
     "Añade el tomate concentrado y remueve 1 minuto, hasta que oscurezca ligeramente y huela a tostado.",
-    "Incorpora los pepinillos cortados en tiras finas, las alcaparras, las aceitunas en rodajas, el laurel y el caldo. Cuece 8 minutos a fuego medio.",
+    "Incorpora los pepinillos, las alcaparras, las aceitunas, el laurel y el caldo. Cuece 8 minutos a fuego medio; mientras, corta el salmón en dados de 3 cm y pica el eneldo.",
     "Añade las alubias escurridas y un chorrito del líquido de los pepinillos y cuece 5 minutos. Prueba: tiene que ser agrio y salado a la vez; añade sal solo si hace falta, y pimienta.",
-    "Corta el salmón en dados de 3 cm y mételo en la cazuela. Tapa y deja a fuego mínimo 4–5 minutos, sin que hierva fuerte, hasta que esté opaco por fuera y jugoso por dentro.",
+    "Mete el salmón en la cazuela. Tapa y deja a fuego mínimo 4–5 minutos, sin que hierva fuerte, hasta que esté opaco por fuera y jugoso por dentro.",
     "Sirve en platos hondos con una rodaja de limón, una cucharada de smetana y el eneldo picado; exprime un poco más de limón por encima si te gusta."
   ],
   nutricion: { kcal: 640, prot: 41, hc: 41, grasa: 33 },
@@ -705,8 +705,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el bacon en dados y dóralo en una cazuela a fuego medio 4 minutos, hasta que suelte la grasa.",
-    "Añade la cebolla, las zanahorias, la chirivía y el apionabo cortados en dados. Rehoga 12–15 minutos, removiendo de vez en cuando, hasta que las verduras se doren ligeramente: ese dorado da a la salsa su color tostado.",
+    "Pela y corta en dados la cebolla, las zanahorias, la chirivía y el apionabo. Corta el bacon en dados y dóralo en una cazuela a fuego medio 4 minutos, hasta que suelte la grasa.",
+    "Añade la cebolla, las zanahorias, la chirivía y el apionabo. Rehoga 12–15 minutos, removiendo de vez en cuando, hasta que las verduras se doren ligeramente: ese dorado da a la salsa su color tostado.",
     "Agrega el laurel, la pimienta de Jamaica, el tomillo, el vinagre y el azúcar y deja que el vinagre se evapore 1 minuto. Vierte el caldo, tapa y cuece a fuego suave 20 minutos, hasta que las verduras estén muy tiernas.",
     "Retira el laurel y los granos de pimienta de Jamaica (cuéntalos para no dejarte ninguno). Añade la nata y tritura con la batidora hasta obtener una salsa muy fina y sedosa, de color crema anaranjado.",
     "Devuelve la salsa a la cazuela, añade las alubias escurridas y cuece 5–8 minutos a fuego suave para que tomen sabor. Ajusta de sal y pimienta y añade unas gotas de zumo de limón: tiene que ser suave, con un punto dulce y otro ácido.",
@@ -748,7 +748,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolleta, corta los pimientos en tiras finas y ralla los tomates, desechando la piel.",
+    "Pica la cebolleta y el perejil, corta los pimientos en tiras finas y ralla los tomates, desechando la piel.",
     "Sofríe la cebolleta y los pimientos en una sartén con el aceite a fuego medio 7–8 minutos, hasta que estén blandos y con algún borde dorado.",
     "Añade el tomate rallado y cuece 4–5 minutos, hasta que pierda el agua y la salsa se vea espesa. Sala con moderación.",
     "Incorpora las alubias escurridas y calienta 2 minutos, removiendo con cuidado para no romperlas.",
@@ -794,7 +794,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Seca bien el pavo con papel de cocina y frótalo con sal, pimienta, el pimentón, la mejorana y la mantequilla blanda.",
     "Pon la cebolla en gajos y los ajos enteros con piel en una fuente de horno, coloca el pavo encima con la piel hacia arriba y vierte 100 ml del caldo en el fondo.",
     "Ásalo 30–35 minutos, regándolo una vez con su jugo a mitad, hasta que la piel esté dorada y, al pincharlo, el jugo salga transparente (75 °C en el centro).",
-    "Mientras, mete las tortillas directamente sobre la rejilla del horno 4–5 minutos, hasta que estén tostadas y rígidas. Rómpelas en trozos irregulares de 4–5 cm: son tus mlinci.",
+    "Mientras, mete las tortillas directamente sobre la rejilla del horno 4–5 minutos, hasta que estén tostadas y rígidas. Rómpelas en trozos irregulares de 4–5 cm: son tus mlinci. Pica el perejil.",
     "Saca el pavo a un plato y tápalo. Añade a la fuente las alubias escurridas y el resto del caldo caliente, raspa el fondo y aplasta los ajos asados sacándolos de la piel. Mezcla, reparte los mlinci por encima, hundiéndolos a medias en el jugo, y hornea 10 minutos, hasta que se ablanden por abajo y se tuesten por los bordes.",
     "Corta el pavo en tiras gruesas, colócalo sobre las alubias con el jugo que haya soltado y espolvorea perejil picado."
   ],
@@ -837,8 +837,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta el pollo en trozos grandes y sazónalo con sal, pimienta y 1 cucharadita de pimentón.",
-    "Corta la cebolla en juliana, los pimientos en tiras, la berenjena en dados de 2 cm y los tomates en gajos; lamina el ajo.",
-    "En una fuente de horno honda mezcla las verduras con los garbanzos escurridos, el resto del pimentón, el aceite, sal y la mitad del perejil picado. Vierte el caldo.",
+    "Corta la cebolla en juliana, los pimientos en tiras, la berenjena en dados de 2 cm y los tomates en gajos; lamina el ajo y pica el perejil.",
+    "En una fuente de horno honda mezcla las verduras con los garbanzos escurridos, el resto del pimentón, el aceite, sal y la mitad del perejil. Vierte el caldo.",
     "Coloca el pollo encima, hundiéndolo un poco entre las verduras. Tapa con papel de aluminio y hornea 25 minutos.",
     "Destapa, remueve las verduras de alrededor sin mover el pollo y hornea 20–25 minutos más, hasta que el pollo esté dorado, la berenjena muy tierna, los bordes caramelizados y el jugo reducido.",
     "Deja reposar 5 minutos y sirve con el resto del perejil por encima."
@@ -882,8 +882,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Sala el cordero 15 minutos antes y frótalo con el pimentón y pimienta. Precalienta el horno a 160 °C.",
     "En una cazuela de barro o de hierro con tapa (o en una fuente honda) pon la cebolla en gajos, los ajos enteros con piel y el laurel. Coloca el cordero encima y riega con el aceite, el vino y el agua.",
-    "Tapa herméticamente (si usas fuente, séllala con dos capas de papel de aluminio) y hornea 1 hora y 15 minutos: el vapor atrapado imita la campana de hierro del sač.",
-    "Saca la fuente, reparte alrededor de la carne las patatas en trozos grandes y el pimiento en tiras anchas, sálalos, da la vuelta a las piezas de cordero, vuelve a tapar y hornea 30 minutos.",
+    "Tapa herméticamente (si usas fuente, séllala con dos capas de papel de aluminio) y hornea 1 hora y 15 minutos: el vapor atrapado imita la campana de hierro del sač. Mientras, pela las patatas y córtalas en trozos grandes y corta el pimiento en tiras anchas.",
+    "Saca la fuente, reparte alrededor de la carne las patatas y el pimiento, sálalos, da la vuelta a las piezas de cordero, vuelve a tapar y hornea 30 minutos.",
     "Destapa, añade las alubias escurridas al jugo y remueve con cuidado. Sube el horno a 210 °C y hornea 20–25 minutos sin tapa, hasta que el cordero esté dorado, la carne se separe del hueso, las patatas se tuesten por arriba y el jugo espese.",
     "Deja reposar 10 minutos, aplasta los ajos asados en el jugo y sirve en la misma fuente."
   ],

@@ -46,7 +46,7 @@ window.RECETAS_SEED.push({
     "Cuece los huevos 9 minutos en agua hirviendo, enfríalos en agua fría y pélalos.",
     "Corta la calabaza en dados de 3 cm. Pela el tomate, quítale las semillas y pícalo. Escurre las gambas y pícalas finas; pela el jengibre y rállalo.",
     "Calienta los dos aceites en una cazuela a fuego medio-bajo. Añade el jengibre y las gambas y remueve 1 minuto, hasta que huela a marisco tostado. Baja el fuego al mínimo, añade la cúrcuma y el pimentón y remueve solo 20 segundos para que no se quemen.",
-    "Incorpora el tomate y cuece 5 minutos, aplastándolo con la cuchara, hasta que se deshaga en una salsa. Añade la calabaza, la salsa de pescado y 200 ml de agua, tapa y cuece 15-18 minutos a fuego suave, hasta que la punta de un cuchillo atraviese los dados sin esfuerzo.",
+    "Incorpora el tomate y cuece 5 minutos, aplastándolo con la cuchara, hasta que se deshaga en una salsa. Añade la calabaza, la salsa de pescado y 200 ml de agua, tapa y cuece 15-18 minutos a fuego suave, hasta que la punta de un cuchillo atraviese los dados sin esfuerzo. Mientras, corta la cebolleta en aros finos y pica el cilantro.",
     "Destapa y deja hervir suave 3-4 minutos más, moviendo la cazuela en lugar de remover para no romper la calabaza, hasta que la salsa espese y el aceite brille en la superficie con un tono anaranjado: en Birmania lo llaman «el aceite que vuelve» y es la señal de que el guiso está hecho.",
     "Prueba de sal, esparce la cebolleta en aros finos y el cilantro picado, y sirve con el arroz y los huevos partidos por la mitad."
   ],
@@ -92,7 +92,7 @@ window.RECETAS_SEED.push({
     "Machaca en un mortero o en un bol los 20 g de arroz reservado con 3 cucharadas de agua hasta tener una pasta lechosa: es lo que espesará el guiso.",
     "Corta el pollo en trozos de bocado, la berenjena en dados de 3 cm (pélala si notas que te sienta mal) y las judías en trozos de 4 cm. Golpea la hierba limón con el dorso del cuchillo y córtala en trozos de 5 cm; corta la galanga en láminas.",
     "Calienta el aceite de ajo en una cazuela a fuego medio y rehoga el pollo 3 minutos, sin que llegue a dorarse. Añade 500 ml de agua, la hierba limón, la galanga y la salsa de pescado, y cuece 10 minutos a fuego suave.",
-    "Incorpora la berenjena y las judías verdes y cuece 10 minutos, hasta que la berenjena esté muy blanda. Aplasta la mitad de los dados contra la pared de la cazuela con la cuchara: se deshacen y dan cuerpo.",
+    "Incorpora la berenjena y las judías verdes y cuece 10 minutos, hasta que la berenjena esté muy blanda; mientras, corta la cebolleta en trozos y pica grueso el eneldo. Aplasta la mitad de los dados contra la pared de la cazuela con la cuchara: se deshacen y dan cuerpo.",
     "Añade la pasta de arroz y cuece 5 minutos removiendo, hasta que el caldo se vuelva sedoso y vele la cuchara. Agrega las espinacas y la cebolleta en trozos y deja 1 minuto, lo justo para que se ablanden.",
     "Apaga el fuego, retira la hierba limón y la galanga, añade el eneldo picado grueso y las hojas de albahaca y una buena vuelta de pimienta. Prueba de sal y sirve con el arroz glutinoso en un cestillo para comerlo en bolitas con la mano."
   ],
@@ -137,7 +137,7 @@ window.RECETAS_SEED.push({
     "Corta los tomates por la mitad a lo largo y vacíalos con una cucharilla, guardando la pulpa y el jugo en un bol. Sala ligeramente el interior y déjalos boca abajo 5 minutos para que escurran. Pica la pulpa.",
     "Prepara el relleno: mezcla el cerdo con la mitad de la cebolleta picada muy fina, la maicena, 2 cucharaditas de salsa de pescado y pimienta, y amasa 1 minuto, hasta que esté pegajoso. Rellena cada mitad de tomate formando una pequeña cúpula lisa.",
     "Calienta el aceite de ajo en una sartén ancha con tapa a fuego medio. Coloca los tomates con la carne hacia abajo y dóralos 4-5 minutos sin moverlos, hasta que el relleno tenga una costra dorada.",
-    "Dales la vuelta con cuidado y añade alrededor la pulpa picada, el concentrado, el resto de la salsa de pescado, el azúcar y 100 ml de agua. Tapa y cuece a fuego suave 12-15 minutos, rociándolos de vez en cuando con la salsa, hasta que el tomate esté tierno sin deshacerse y el relleno, hecho por dentro.",
+    "Dales la vuelta con cuidado y añade alrededor la pulpa picada, el concentrado, el resto de la salsa de pescado, el azúcar y 100 ml de agua. Tapa y cuece a fuego suave 12-15 minutos, rociándolos de vez en cuando con la salsa, hasta que el tomate esté tierno sin deshacerse y el relleno, hecho por dentro. Mientras, corta el resto de la cebolleta en aros, pica el cilantro y pela el pepino y córtalo en rodajas.",
     "Destapa y deja reducir 2-3 minutos, hasta que la salsa espese y brille. Termina con el resto de la cebolleta en aros, el cilantro picado y pimienta recién molida.",
     "Sirve los tomates con su salsa sobre el arroz y el pepino pelado en rodajas al lado, para refrescar."
   ],
@@ -181,8 +181,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Pon las gambas secas en remojo en agua templada 10 minutos.",
-    "Prepara las verduras: zanahoria en bastones, calabaza japonesa con su piel en láminas de 1 cm, judías verdes enteras sin puntas y col china en cuartos a lo largo, con su tronco para que no se deshojen. Corta el pepino en bastones y resérvalo crudo.",
-    "Para el kho quẹt, calienta el aceite de ajo en una sartén pequeña a fuego medio y dora el cerdo 4-5 minutos, desmenuzándolo, hasta que suelte la grasa y tenga puntos tostados. Añade las gambas escurridas y picadas y remueve 1 minuto.",
+    "Prepara las verduras: zanahoria en bastones, calabaza japonesa con su piel en láminas de 1 cm, judías verdes enteras sin puntas y col china en cuartos a lo largo, con su tronco para que no se deshojen. Corta el pepino en bastones y resérvalo crudo. Escurre las gambas y pícalas, y pica fina la cebolleta.",
+    "Para el kho quẹt, calienta el aceite de ajo en una sartén pequeña a fuego medio y dora el cerdo 4-5 minutos, desmenuzándolo, hasta que suelte la grasa y tenga puntos tostados. Añade las gambas y remueve 1 minuto.",
     "Agrega la salsa de pescado, el azúcar y 3 cucharadas de agua y deja hervir a fuego bajo 6-8 minutos, removiendo de vez en cuando, hasta que las burbujas se vuelvan grandes y lentas y la salsa quede espesa, brillante y de color caoba. Apaga, añade la pimienta y la cebolleta picada fina.",
     "Mientras, pon a hervir 1,2 l de agua con sal en una cazuela y cuece las verduras por tandas, sacándolas con una espumadera a una bandeja: zanahoria 6 minutos, calabaza 5, judías 5 y col china 2. Deben quedar tiernas pero con color vivo.",
     "Sazona el caldo de la cocción con un poco de sal y un chorrito de lima y sírvelo en tazas, como se hace en Vietnam (canh rau luộc).",
@@ -224,8 +224,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Envuelve el tofu en un paño, ponle un peso encima 10 minutos y córtalo en bastones de 1,5 cm. Sécalo bien con papel.",
-    "Lava los brotes en agua fría, desecha los que estén oscuros y escúrrelos muy bien (si quieres un plato más fino, quítales la raicilla). Corta la zanahoria en juliana y el cebollino en trozos de 4 cm. Mezcla en un vaso el tamari, la salsa de pescado, el azúcar y 2 cucharadas de agua.",
+    "Envuelve el tofu en un paño y ponle un peso encima 10 minutos.",
+    "Mientras, lava los brotes en agua fría, desecha los que estén oscuros y escúrrelos muy bien (si quieres un plato más fino, quítales la raicilla). Corta la zanahoria en juliana y el cebollino en trozos de 4 cm. Mezcla en un vaso el tamari, la salsa de pescado, el azúcar y 2 cucharadas de agua. Corta el tofu en bastones de 1,5 cm y sécalo bien con papel.",
     "Calienta 2 cucharaditas de aceite de ajo en el wok a fuego medio-alto y dora el tofu 5-6 minutos, girándolo con cuidado, hasta que esté dorado por todas las caras. Sácalo a un plato.",
     "Sube el fuego al máximo, añade el resto del aceite y saltea la zanahoria 1 minuto. Incorpora los brotes y saltea 1 minuto más, moviendo sin parar.",
     "Devuelve el tofu, vierte la salsa y añade el cebollino. Saltea 30-40 segundos, solo hasta que los brotes estén calientes pero aún crujientes y brillantes. Termina con pimienta blanca y sirve enseguida con el arroz."
@@ -314,12 +314,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño y ponle un peso encima 10 minutos para que suelte el agua.",
-    "Prepara el bumbu: pela la cúrcuma, el jengibre y la galanga y tritúralos con el aceite de ajo, el azúcar, una cucharadita de sal y 1 cucharada de agua hasta tener una pasta amarilla.",
+    "Mientras, prepara el bumbu: pela la cúrcuma, el jengibre y la galanga y tritúralos con el aceite de ajo, el azúcar, una cucharadita de sal y 1 cucharada de agua hasta tener una pasta amarilla.",
     "Desmenuza el tofu con las manos en un bol, en migas irregulares. Añade el huevo, el bumbu, la mitad del tomate en dados pequeños, la mitad de la albahaca en hojas, las hojas de lima en hilos finísimos (sin el nervio central) y la parte tierna de la hierba limón picada muy fina. Mezcla hasta que quede una pasta compacta.",
     "Ablanda la hoja de plátano pasándola unos segundos por el fuego o por agua caliente. Reparte la mezcla en dos paquetes, dobla los lados y cierra los extremos con palillos (o envuelve en papel de horno como un caramelo).",
-    "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Al mismo tiempo cuece los paquetes al vapor en un colador tapado sobre una cazuela con agua hirviendo 25 minutos, hasta que al apretarlos estén firmes.",
+    "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Al mismo tiempo cuece los paquetes al vapor en un colador tapado sobre una cazuela con agua hirviendo 25 minutos, hasta que al apretarlos estén firmes. Mientras, prepara el lalap: pepino en bastones, el resto del tomate en gajos, las hojas de albahaca restantes y la lima en cuñas.",
     "Marca los paquetes en la plancha caliente 2-3 minutos por cada lado, hasta que la hoja se tueste y huela a ahumado.",
-    "Prepara el lalap: pepino en bastones, el resto del tomate en gajos, las hojas de albahaca restantes y la lima en cuñas. Abre los paquetes en la mesa y sirve con el arroz y el lalap."
+    "Abre los paquetes en la mesa y sirve con el arroz y el lalap."
   ],
   nutricion: { kcal: 550, prot: 27, hc: 65, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol"],
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Corta el tempeh en triángulos de 1 cm de grosor y cuécelo al vapor 10 minutos en un colador tapado sobre agua hirviendo: pierde el amargor y se abre para absorber el caldo.",
-    "Mientras, corta los tomates en gajos, la galanga en láminas, la hierba limón en trozos golpeados y rasga las hojas de lima. Separa los tallos del pak choi de las hojas y corta los tallos en dos a lo largo.",
+    "Mientras, corta los tomates en gajos, la galanga en láminas, la hierba limón en trozos golpeados y rasga las hojas de lima. Separa los tallos del pak choi de las hojas y corta los tallos en dos a lo largo. Corta la cebolleta en trozos.",
     "Calienta el aceite de ajo en una cazuela a fuego medio y rehoga la galanga, la hierba limón y la lima kaffir 1 minuto, hasta que perfumen. Añade los tomates y cuece 3 minutos, hasta que empiecen a soltar jugo.",
     "Vierte el caldo, el tamari y el azúcar y cuece 5 minutos. Incorpora el tempeh y deja 5 minutos a fuego suave para que se empape.",
     "Añade los tallos del pak choi 3 minutos y después las hojas 1 minuto, hasta que estén verdes y brillantes. Apaga, exprime la lima y añade la cebolleta en trozos.",
@@ -412,8 +412,8 @@ window.RECETAS_SEED.push({
     "Lava el arroz y cuécelo con 150 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Extiéndelo en un plato para que quede tibio.",
     "Tuesta los cacahuetes en una sartén sin aceite a fuego medio 4 minutos, moviéndolos, hasta que huelan y estén dorados; pícalos grueso.",
     "Prepara el aliño: disuelve la pasta de tamarindo y el azúcar en 2 cucharadas de agua caliente y añade la salsa de pescado, el zumo de la lima y el aceite de ajo. Debe saber ácido, dulce y salado a la vez.",
-    "Corta la hierba limón en trozos golpeados y el jengibre en láminas y ponlos en el fondo de un plato. Coloca encima la lubina con una pizca de sal y cuécela al vapor, tapada sobre una cazuela con agua hirviendo, 6-8 minutos, hasta que la carne esté opaca y se separe en lascas.",
-    "Escalda los brotes de soja 30 segundos en agua hirviendo y escúrrelos. Pela el pepino a tiras, quítale las semillas y córtalo en medias lunas; corta la piña en triángulos finos y la lechuga en tiras.",
+    "Corta la hierba limón en trozos golpeados y el jengibre en láminas y ponlos en el fondo de un plato. Coloca encima la lubina con una pizca de sal y cuécela al vapor, tapada sobre una cazuela con agua hirviendo, 6-8 minutos, hasta que la carne esté opaca y se separe en lascas. Mientras, pela el pepino a tiras, quítale las semillas y córtalo en medias lunas; corta la piña en triángulos finos y la lechuga en tiras.",
+    "Escalda los brotes de soja 30 segundos en agua hirviendo y escúrrelos.",
     "Reparte en dos platos la lechuga, el arroz tibio, el pepino, la piña y los brotes. Pon encima la lubina en lascas grandes, riega con el aliño y termina con la menta, el cilantro y los cacahuetes."
   ],
   nutricion: { kcal: 570, prot: 40, hc: 62, grasa: 18 },
@@ -505,7 +505,7 @@ window.RECETAS_SEED.push({
     "Corta la parte tierna de la hierba limón en aros casi transparentes y las hojas de lima kaffir, sin el nervio central, en hilos finísimos. Corta la cebolleta en aros y deshoja la menta y el cilantro.",
     "Pela el pepino a tiras, quítale las semillas y córtalo en medias lunas; corta el tomate en gajos sin semillas y la lechuga en tiras anchas.",
     "Escurre muy bien el atún y sepáralo en lascas grandes en un bol. Añade la hierba limón, la lima kaffir, la cebolleta, el pepino, el tomate y el aliño, y mezcla con suavidad para no deshacerlo. Deja reposar 5 minutos.",
-    "Tuesta los cacahuetes en una sartén sin aceite 3-4 minutos, hasta que estén dorados, y pícalos grueso. Sirve el atún sobre la lechuga, con las hierbas y los cacahuetes por encima, el arroz al lado y la otra media lima en cuñas."
+    "Mientras reposa, tuesta los cacahuetes en una sartén sin aceite 3-4 minutos, hasta que estén dorados, y pícalos grueso. Sirve el atún sobre la lechuga, con las hierbas y los cacahuetes por encima, el arroz al lado y la otra media lima en cuñas."
   ],
   nutricion: { kcal: 505, prot: 38, hc: 58, grasa: 13.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "rápida", "alta en proteína", "poco especiada", "bajo en colesterol", "económica", "ideal para llevar", "verano"],
@@ -551,8 +551,8 @@ window.RECETAS_SEED.push({
     "Pica muy fina la parte tierna de la hierba limón y mézclala con 1 cucharada de salsa de pescado, 1 cucharadita de azúcar y 1 cucharadita de aceite de ajo. Unta el solomillo y déjalo 15 minutos.",
     "Prepara el arroz tostado: tuesta el arroz glutinoso en una sartén sin aceite a fuego medio-bajo 6-8 minutos, moviéndolo sin parar, hasta que esté dorado oscuro y huela a palomitas. Muélelo grueso en el mortero o con la batidora.",
     "Pela las naranjas a lo vivo y sácales los gajos sobre un bol para recoger el zumo. Añade a ese zumo el de la lima, 1 cucharada de salsa de pescado, 1 cucharadita de azúcar y el resto del aceite de ajo para hacer el aliño.",
-    "Asa el solomillo en la plancha a fuego medio-alto 10-12 minutos, girándolo, hasta que esté dorado por fuera y apenas rosado en el centro. Déjalo reposar 5 minutos y córtalo en lonchas finas.",
-    "Monta la ensalada con la lechuga en tiras, los berros, el pepino sin semillas en medias lunas, los gajos de naranja y el boniato templado. Coloca el cerdo encima, riega con el aliño y termina con la menta, el cilantro y el arroz tostado justo antes de servir para que cruja."
+    "Asa el solomillo en la plancha a fuego medio-alto 10-12 minutos, girándolo, hasta que esté dorado por fuera y apenas rosado en el centro. Déjalo reposar 5 minutos y córtalo en lonchas finas. Mientras reposa, corta la lechuga en tiras y el pepino sin semillas en medias lunas.",
+    "Monta la ensalada con la lechuga, los berros, el pepino, los gajos de naranja y el boniato templado. Coloca el cerdo encima, riega con el aliño y termina con la menta, el cilantro y el arroz tostado justo antes de servir para que cruja."
   ],
   nutricion: { kcal: 470, prot: 37, hc: 51, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "poco especiada", "bajo en colesterol", "ligera"],
@@ -642,10 +642,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y cuécelo con 190 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Extiéndelo en una bandeja para que se temple: el nasi ulam se come a temperatura ambiente.",
     "Prepara el kerisik: tuesta el coco en una sartén sin aceite a fuego medio-bajo 4-5 minutos, removiendo sin parar, hasta que esté dorado. Machaca la mitad en el mortero hasta que suelte su aceite y forme una pasta.",
-    "Corta las hierbas muy finas, que es el secreto del plato: las hojas de lima sin el nervio central en hilos finísimos, la parte tierna de la hierba limón en aros casi transparentes, la menta, la albahaca, el cilantro y la cebolleta. Ralla el jengibre.",
+    "Corta las hierbas muy finas, que es el secreto del plato: las hojas de lima sin el nervio central en hilos finísimos, la parte tierna de la hierba limón en aros casi transparentes, la menta, la albahaca, el cilantro y la cebolleta. Ralla el jengibre y corta el pepino sin semillas en dados.",
     "Sala la caballa y ásala en la plancha caliente con la piel hacia abajo 4 minutos, hasta que la piel esté crujiente, y 1-2 minutos por el otro lado. Desmíga la carne quitando las espinas.",
     "Mezcla en un bol grande el arroz con el coco machacado y el entero, las hierbas, el jengibre, la mitad de la caballa, la salsa de pescado, el zumo de media lima y pimienta negra. Mezcla con las manos o con dos tenedores, sin aplastar el grano.",
-    "Prueba y ajusta de sal o lima. Sirve el arroz con el resto de la caballa por encima, el pepino sin semillas en dados y la otra media lima en cuñas."
+    "Prueba y ajusta de sal o lima. Sirve el arroz con el resto de la caballa por encima, el pepino en dados y la otra media lima en cuñas."
   ],
   nutricion: { kcal: 575, prot: 31, hc: 62, grasa: 22.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada"],
@@ -689,11 +689,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los fideos en remojo en agua fría 20 minutos. Tuesta los cacahuetes en una sartén sin aceite 4 minutos y pícalos grueso.",
-    "Corta el solomillo en lonchas muy finas. Mézclalo con las gambas, media cucharadita de cúrcuma, 1 cucharada de salsa de pescado y pimienta, y deja 10 minutos.",
+    "Corta el solomillo en lonchas muy finas. Mézclalo con las gambas, media cucharadita de cúrcuma, 1 cucharada de salsa de pescado y pimienta, y deja 10 minutos. Mientras, pela y pica el tomate, corta la lechuga en tiras y la cebolleta en aros y deshoja las hierbas.",
     "Prepara el crujiente: calienta cada hoja de papel de arroz en el microondas a máxima potencia 30-40 segundos, hasta que se infle y se vuelva blanca y quebradiza. Rómpela en trozos.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio-bajo, añade el resto de la cúrcuma y remueve 30 segundos. Sube el fuego, saltea el cerdo 2 minutos y las gambas 1 minuto, y añade el tomate pelado y picado. Cuece 3 minutos, hasta que se deshaga.",
-    "Vierte el caldo, el resto de la salsa de pescado y el azúcar, y cuece 5 minutos: el caldo debe quedar dorado, sabroso y algo concentrado.",
-    "Escurre los fideos y cuécelos en agua hirviendo 1-2 minutos, hasta que estén tiernos pero con cuerpo. Escúrrelos.",
+    "Calienta el aceite de ajo en una cazuela a fuego medio-bajo, añade el resto de la cúrcuma y remueve 30 segundos. Sube el fuego, saltea el cerdo 2 minutos y las gambas 1 minuto, y añade el tomate. Cuece 3 minutos, hasta que se deshaga.",
+    "Vierte el caldo, el resto de la salsa de pescado y el azúcar, y cuece 5 minutos: el caldo debe quedar dorado, sabroso y algo concentrado. Mientras, pon a hervir agua para los fideos.",
+    "Escurre los fideos y cuécelos en el agua hirviendo 1-2 minutos, hasta que estén tiernos pero con cuerpo. Escúrrelos.",
     "En cada cuenco pon en el fondo la lechuga en tiras y parte de las hierbas, después los fideos, la carne y las gambas, y solo un dedo de caldo, sin cubrir los fideos. Termina con los cacahuetes, la cebolleta, el resto de las hierbas, el crujiente y una cuña de lima."
   ],
   nutricion: { kcal: 640, prot: 43, hc: 75, grasa: 18.5 },
@@ -738,7 +738,7 @@ window.RECETAS_SEED.push({
     "Corta el pollo en dados de 1,5 cm y mézclalo con media cucharadita de cúrcuma, 1 cucharadita de salsa de pescado y una pizca de sal. Ralla el jengibre y el tomate, desechando la piel.",
     "Calienta el aceite de ajo en una cazuela a fuego medio-bajo y rehoga el jengibre 30 segundos. Retira del fuego, añade el resto de la cúrcuma y el pimentón, remueve 10 segundos y vuelve al fuego con el pollo: rehógalo 3 minutos, hasta que pierda el rosa.",
     "Añade el tomate y 150 ml de agua, tapa y cuece a fuego suave 20 minutos. Destapa los últimos 5 minutos, hasta que la salsa espese y el aceite anaranjado vuelva a la superficie: es la señal birmana de que el guiso está hecho.",
-    "Mientras, tuesta la harina de arroz en una sartén sin aceite a fuego medio-bajo 4-5 minutos, removiendo sin parar, hasta que tenga color avellana y huela a galleta. Cuece los huevos 9 minutos, enfríalos y pélalos.",
+    "Mientras, tuesta la harina de arroz en una sartén sin aceite a fuego medio-bajo 4-5 minutos, removiendo sin parar, hasta que tenga color avellana y huela a galleta. Cuece los huevos 9 minutos, enfríalos y pélalos. Pon a hervir agua para los fideos, pica el cilantro y la cebolleta y corta el pepino en bastones.",
     "Cuece los fideos en agua hirviendo el tiempo del paquete, hasta que estén tiernos pero firmes; pásalos por agua fría y escúrrelos muy bien.",
     "En cada plato, pon los fideos con dos cucharadas del jugo del guiso, la mitad de la harina tostada, el resto de la salsa de pescado, el zumo de media lima y parte del cilantro y la cebolleta picados, y mézclalo todo con unas pinzas (en Birmania, con la mano) hasta que los fideos queden dorados y untados.",
     "Reparte el pollo por encima, con los huevos en cuartos, el resto de las hierbas y el pepino en bastones al lado. Se come templado."
@@ -784,10 +784,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga casi clara y déjalo escurrir 10 minutos. Ralla los tomates y desecha la piel. Corta la merluza en 4 trozos, sálala, ponle pimienta y unas gotas de salsa de pescado.",
-    "Calienta el aceite de ajo en una cazuela ancha con tapa a fuego medio. Rehoga el jengibre picado, la hierba limón golpeada y las hojas de lima 1 minuto. Añade el concentrado y remueve 1 minuto, hasta que oscurezca un poco.",
+    "Lava el arroz hasta que el agua salga casi clara y déjalo escurrir 10 minutos. Ralla los tomates y desecha la piel; pica el jengibre. Corta la merluza en 4 trozos, sálala, ponle pimienta y unas gotas de salsa de pescado.",
+    "Calienta el aceite de ajo en una cazuela ancha con tapa a fuego medio. Rehoga el jengibre, la hierba limón golpeada y las hojas de lima 1 minuto. Añade el concentrado y remueve 1 minuto, hasta que oscurezca un poco.",
     "Incorpora el tomate rallado y cuece 5 minutos, hasta que se reduzca a una salsa espesa. Añade el arroz y remueve 2 minutos para que cada grano se tiña de rojo.",
-    "Vierte el caldo con el resto de la salsa de pescado, el azúcar y una pizca de sal. Cuando hierva, tapa y baja al mínimo 8 minutos.",
+    "Vierte el caldo con el resto de la salsa de pescado, el azúcar y una pizca de sal. Cuando hierva, tapa y baja al mínimo 8 minutos. Mientras, pica la cebolleta y el cilantro y corta el pepino en rodajas.",
     "Destapa, coloca la merluza encima del arroz, vuelve a tapar y cuece 7-8 minutos más, hasta que el arroz haya absorbido el líquido y el pescado esté opaco y se separe en lascas.",
     "Apaga y deja reposar 5 minutos sin destapar. Retira la hierba limón y las hojas de lima, esparce la cebolleta y el cilantro picados y sirve con cuñas de lima y el pepino en rodajas."
   ],
@@ -835,8 +835,8 @@ window.RECETAS_SEED.push({
     "Pon los fideos en remojo en agua fría 20 minutos. Pica muy fina la parte tierna de la hierba limón, ralla el jengibre, corta la zanahoria en dados pequeños y ralla los tomates desechando la piel.",
     "Calienta el aceite de ajo en una sartén honda a fuego fuerte y dora la ternera 5 minutos, separándola con la cuchara y sin moverla demasiado, hasta que tenga trocitos tostados y no quede gris.",
     "Baja a fuego medio, añade la hierba limón, el jengibre y la zanahoria y rehoga 3 minutos. Incorpora el concentrado y remueve 1 minuto.",
-    "Añade el tomate, el anís, la canela, la salsa de pescado, el tamari, el azúcar y 150 ml de agua. Tapa y cuece a fuego suave 20 minutos, removiendo de vez en cuando, hasta que la salsa esté espesa, brillante y con un velo de grasa roja en la superficie. Retira el anís y la canela.",
-    "Corta el pak choi por la mitad a lo largo y escáldalo en agua hirviendo con sal 2-3 minutos, hasta que los tallos estén tiernos. En la misma agua cuece los fideos escurridos 1-2 minutos.",
+    "Añade el tomate, el anís, la canela, la salsa de pescado, el tamari, el azúcar y 150 ml de agua. Tapa y cuece a fuego suave 20 minutos, removiendo de vez en cuando, hasta que la salsa esté espesa, brillante y con un velo de grasa roja en la superficie. Mientras, pon a hervir agua con sal en una cazuela y corta el pak choi por la mitad a lo largo. Retira el anís y la canela.",
+    "Escalda el pak choi en el agua hirviendo 2-3 minutos, hasta que los tallos estén tiernos. En la misma agua cuece los fideos escurridos 1-2 minutos.",
     "Mezcla los fideos con el ragú y sirve con el pak choi al lado, las hojas de albahaca por encima y cuñas de lima."
   ],
   nutricion: { kcal: 585, prot: 32, hc: 74, grasa: 18 },
@@ -879,7 +879,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las almejas y déjalas en agua fría con sal mientras preparas lo demás. Corta la sepia en tiras finas. Pela el jengibre: corta la mitad en láminas y la otra mitad en hilos finísimos para servir.",
     "Pon en una cazuela el caldo y 400 ml de agua con las láminas de jengibre, la hierba limón golpeada y las hojas de lima. Cuando hierva, deja 5 minutos a fuego suave para que se perfume.",
-    "Lava el arroz, añádelo al caldo y cuécelo a fuego suave 15 minutos, removiendo de vez en cuando, hasta que los granos estén tiernos e hinchados pero enteros: no debe convertirse en crema.",
+    "Lava el arroz, añádelo al caldo y cuécelo a fuego suave 15 minutos, removiendo de vez en cuando, hasta que los granos estén tiernos e hinchados pero enteros: no debe convertirse en crema. Mientras, pica la cebolleta y el cilantro.",
     "Añade la sepia y cuece 2 minutos. Incorpora las almejas escurridas, tapa y espera 2-3 minutos, hasta que se abran; descarta las que sigan cerradas.",
     "Sazona con la salsa de pescado y la pimienta blanca y prueba de sal. Retira la hierba limón y las hojas de lima.",
     "Sirve en cuencos hondos con los hilos de jengibre, la cebolleta y el cilantro picados, un hilo de aceite de ajo y cuñas de lima."
@@ -968,7 +968,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el pollo en una cazuela con 1,1 l de agua, el jengibre y la galanga en láminas y la hierba limón golpeada. Lleva a ebullición, espuma y cuece a fuego suave 30 minutos. Saca el pollo, desmíga la carne y cuela el caldo.",
-    "Mientras se hace el caldo, prepara la masa: mezcla la harina de arroz, el almidón de tapioca y una pizca de sal en un bol y añade el agua hirviendo poco a poco, removiendo con una cuchara. Cuando se pueda tocar, amasa 3-4 minutos hasta que esté lisa y suave como plastilina (añade agua o harina si hace falta). Tápala y déjala reposar 10 minutos.",
+    "Mientras se hace el caldo, prepara la masa: mezcla la harina de arroz, el almidón de tapioca y una pizca de sal en un bol y añade el agua hirviendo poco a poco, removiendo con una cuchara. Cuando se pueda tocar, amasa 3-4 minutos hasta que esté lisa y suave como plastilina (añade agua o harina si hace falta). Tápala y déjala reposar 10 minutos. Mientras, pica la cebolleta y el cilantro.",
     "Estira la masa sobre la encimera espolvoreada con almidón hasta 3 mm de grosor y córtala en tiras de 5 mm. Sepáralas y enharínalas ligeramente para que no se peguen.",
     "Lleva el caldo a ebullición, sacude el exceso de harina de los fideos y échalos poco a poco, removiendo. Cuécelos 4-5 minutos, hasta que estén translúcidos y floten: el almidón que sueltan espesa el caldo y lo vuelve sedoso, que es la seña de identidad del plato.",
     "Añade la salsa de pescado y el pollo desmigado, prueba de sal y deja 1 minuto más.",
@@ -1011,7 +1011,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Seca bien el tofu con papel, córtalo en lonchas de 1 cm y úntalas con el tamari. Pela la zanahoria y córtala en rodajas finas, el calabacín en medias lunas y lava bien las espinacas.",
+    "Seca bien el tofu con papel, córtalo en lonchas de 1 cm y úntalas con el tamari. Pela la zanahoria y córtala en rodajas finas, el calabacín en medias lunas y lava bien las espinacas. Corta la cebolleta en trozos.",
     "Lleva a ebullición 800 ml de agua con el jengibre golpeado, el azúcar de palma y una cucharadita de sal y deja 3 minutos para que se perfume.",
     "Mientras, dora el tofu en la plancha con el aceite de ajo a fuego medio-alto 3-4 minutos por cada lado, hasta que tenga una costra dorada.",
     "Añade la zanahoria al caldo y cuece 4 minutos; después el maíz y el calabacín 3 minutos.",
@@ -1058,9 +1058,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la patata y córtala en dados de 2 cm; corta el calabacín en rodajas. Golpea la hierba limón y pica el jengibre.",
     "Calienta el aceite de ajo en una cazuela a fuego medio y rehoga la hierba limón y el jengibre 1 minuto. Añade la patata y el calabacín y rehoga 3 minutos.",
-    "Vierte el caldo y cuece 15 minutos, hasta que la patata se deshaga al aplastarla. Añade las espinacas y deja 1 minuto.",
+    "Vierte el caldo y cuece 15 minutos, hasta que la patata se deshaga al aplastarla; mientras, corta el bacalao en 4 trozos y tuesta los cacahuetes en una sartén sin aceite y pícalos. Añade las espinacas y deja 1 minuto.",
     "Retira la hierba limón, añade las hojas de albahaca (reserva unas cuantas) y la leche de coco menos 2 cucharadas, y tritura hasta que la crema esté lisa y de un verde brillante. Sazona con la salsa de pescado, el zumo de media lima, sal y pimienta.",
-    "Mientras, corta el bacalao en 4 trozos y escálfalo en un cazo con agua salada apenas temblando 4 minutos, hasta que se separe en lascas nacaradas. Tuesta los cacahuetes en una sartén sin aceite y pícalos.",
+    "Escalfa el bacalao en un cazo con agua salada apenas temblando 4 minutos, hasta que se separe en lascas nacaradas.",
     "Sirve la crema caliente con el bacalao en lascas, un hilo del coco reservado, los cacahuetes, las hojas de albahaca y cuñas de lima."
   ],
   nutricion: { kcal: 445, prot: 32, hc: 32, grasa: 21 },
@@ -1100,7 +1100,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la pechuga en una cazuela con el caldo y el laurel, lleva a ebullición suave, tapa y cuece 12-14 minutos a fuego bajo, sin que hierva fuerte, hasta que esté hecha por dentro. Sácala, deja que temple y desmenúzala en hebras. Retira el laurel y reserva el caldo.",
-    "Corta la zanahoria en dados pequeños, la col en tiras finas y cortas, y la cebolleta en aros.",
+    "Mientras se cuece el pollo, corta la zanahoria en dados pequeños, la col en tiras finas y cortas, y la cebolleta en aros.",
     "Calienta el aceite de ajo en otra cazuela a fuego medio-bajo y rehoga la zanahoria 3 minutos, sin que tome color.",
     "Vierte el caldo, lleva a ebullición y añade los macarrones. Cuécelos 2 minutos menos de lo que indique el paquete, removiendo de vez en cuando porque la pasta sin gluten tiende a pegarse.",
     "Añade la col y el pollo y cuece 2 minutos. Baja el fuego, incorpora la leche y la salsa de pescado y calienta 2 minutos sin que llegue a hervir fuerte, para que no se corte. Prueba de sal y pon una buena vuelta de pimienta.",
@@ -1148,8 +1148,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el cordero en dados de 3 cm. Escáldalo 3 minutos en agua hirviendo, escúrrelo y acláralo: así el caldo saldrá limpio y con menos grasa.",
     "En una cazuela seca, tuesta el anís, la canela, los clavos, el cardamomo ligeramente abierto y la pimienta 1 minuto a fuego medio, hasta que huelan. Añade el aceite de ajo y el jengibre en láminas y remueve 30 segundos.",
-    "Incorpora el cordero y 1,2 l de agua. Lleva a ebullición, espuma, tapa y cuece a fuego muy suave 60 minutos, retirando la grasa que suba a la superficie.",
-    "Añade el nabo y la zanahoria pelados y en trozos grandes y cuece 20 minutos más, hasta que estén tiernos y el cordero se deshaga al presionarlo.",
+    "Incorpora el cordero y 1,2 l de agua. Lleva a ebullición, espuma, tapa y cuece a fuego muy suave 60 minutos, retirando la grasa que suba a la superficie. Mientras, pela el nabo y la zanahoria y córtalos en trozos grandes, corta el tomate en gajos y pica el cilantro y la cebolleta.",
+    "Añade el nabo y la zanahoria y cuece 20 minutos más, hasta que estén tiernos y el cordero se deshaga al presionarlo.",
     "Agrega el tomate en gajos y cuece 5 minutos. Retira las especias enteras con una espumadera, desgrasa de nuevo y prueba de sal.",
     "Mientras, cuece los fideos en agua hirviendo según el paquete, escúrrelos y repártelos en cuencos. Vierte encima el caldo con la carne y las verduras y termina con el cilantro, la cebolleta picada y cuñas de lima."
   ],

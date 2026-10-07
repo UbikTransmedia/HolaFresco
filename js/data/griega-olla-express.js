@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Lava el apio, separa las hojas y corta los tallos en trozos de 5 cm; si son gruesos, pásales un pelador para quitar las hebras. Corta el puerro y la cebolleta en rodajas. Seca el cerdo con papel de cocina y salpimiéntalo.",
     "Calienta el aceite en la olla exprés destapada a fuego fuerte y dora el cerdo en dos tandas, 4 min por tanda, hasta que tenga costra dorada por todos los lados. Añade el puerro y la cebolleta y rehoga 3 min, hasta que se ablanden.",
     "Moja con el vino blanco y raspa el fondo con una cuchara de madera; deja que hierva 1 min para que se evapore el alcohol. Añade 400 ml de agua caliente: debe quedar justo a ras de la carne.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 18 min. Despresuriza rápido.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 18 min. Despresuriza rápido. Mientras, pica la mitad de las hojas de apio y el eneldo.",
     "Añade los tallos de apio y la mitad de las hojas picadas, cierra de nuevo y, cuando suba la válvula, cuenta 3 min. Despresuriza rápido: el apio debe quedar tierno pero entero. Prueba de sal.",
     "Prepara el avgolemono: en un bol bate los huevos con la maicena 1 min, hasta que espumen, y añade el zumo del limón sin dejar de batir. Vierte en hilo un cazo del caldo caliente de la olla batiendo sin parar y repite con un segundo cazo: así templas el huevo y no se corta.",
     "Aparta la olla del fuego, vierte la mezcla y mueve la olla en círculos 1-2 min (sin remover con cuchara, para no romper el apio), hasta que la salsa espese y quede cremosa y amarillo pálido. Ya no debe volver a hervir.",
@@ -85,7 +85,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la ternera y salpimiéntala. Calienta 1,5 cda de aceite en la olla exprés destapada a fuego fuerte y dórala en dos tandas, 5 min por tanda, hasta que esté bien tostada. Resérvala.",
+    "Pica la cebolla y el ajo. Seca la ternera y salpimiéntala. Calienta 1,5 cda de aceite en la olla exprés destapada a fuego fuerte y dórala en dos tandas, 5 min por tanda, hasta que esté bien tostada. Resérvala.",
     "En la misma olla, a fuego medio, rehoga la cebolla picada 6 min, hasta que esté dorada. Añade el ajo picado y el tomate concentrado y remueve 1 min, hasta que el tomate oscurezca.",
     "Vuelve a poner la carne, moja con el vino y deja hervir 2 min raspando el fondo. Añade la canela, los clavos, el laurel y 250 ml de agua caliente.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 35 min. Retira del fuego y deja despresurizar de forma natural 10 min.",
@@ -226,7 +226,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el cordero y salpimiéntalo. Calienta el aceite en la olla exprés destapada a fuego fuerte y dóralo en dos tandas, 4 min por tanda, hasta que esté bien tostado. Resérvalo.",
+    "Corta la cebolla en juliana y el pimiento en tiras, pica el ajo y el perejil. Seca el cordero y salpimiéntalo. Calienta el aceite en la olla exprés destapada a fuego fuerte y dóralo en dos tandas, 4 min por tanda, hasta que esté bien tostado. Resérvalo.",
     "Baja a fuego medio y rehoga la cebolla en juliana y el pimiento en tiras 6 min, hasta que la cebolla esté blanda y dorada. Añade el ajo picado, el tomate concentrado, el pimentón, el comino y la canela y remueve 30 segundos, sin que se queme el pimentón.",
     "Vuelve a poner el cordero, moja con el vino y deja hervir 1 min. Añade el tomate triturado y 150 ml de agua y raspa bien el fondo: si queda algo pegado, puede quemarse bajo presión.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 25 min. Retira del fuego y deja despresurizar de forma natural 10 min.",
@@ -273,7 +273,7 @@ window.RECETAS_SEED.push({
     "Parte los tomates por la mitad y rállalos por el lado del corte con un rallador de agujero grueso, hasta que solo te quede la piel en la mano; tira las pieles. Tendrás unos 400 g de pulpa. Pica la cebolla y el ajo.",
     "Calienta 2 cda de aceite en la olla exprés destapada a fuego medio y sofríe la cebolla 5 min, hasta que esté transparente. Añade el ajo y el tomate concentrado y remueve 1 min.",
     "Añade el arroz y remueve 1 min para que se impregne de aceite. Incorpora el tomate rallado, la pizca de azúcar, 150 ml de agua caliente, sal y pimienta. Remueve bien y raspa el fondo: el tomate se pega con facilidad bajo presión.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 6 min. Retira del fuego y deja despresurizar de forma natural 5 min.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 6 min. Retira del fuego y deja despresurizar de forma natural 5 min. Mientras, pica la menta (y la albahaca, si la usas).",
     "Abre, añade la menta picada (y la albahaca, si la usas) y el resto del aceite en crudo, y remueve con suavidad: debe quedar meloso, con el grano entero y jugoso. Tapa y deja reposar 3 min.",
     "Sirve templado, con pimienta recién molida y unas hojas de menta por encima."
   ],
@@ -316,7 +316,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las berenjenas con piel en bastones gruesos de 2 x 6 cm, ponlas en un colador, sálalas y déjalas 30 min para que suelten agua: así absorben menos aceite. Mientras, seca la ternera con papel de cocina y salpimiéntala.",
+    "Corta las berenjenas con piel en bastones gruesos de 2 x 6 cm, ponlas en un colador, sálalas y déjalas 30 min para que suelten agua: así absorben menos aceite. Mientras, pica la cebolla, el ajo y el perejil, y seca la ternera con papel de cocina y salpimiéntala.",
     "Calienta 1 cda de aceite en la olla exprés destapada a fuego fuerte y dora la ternera en dos tandas, 4-5 min por tanda, hasta que esté bien tostada. Resérvala.",
     "Baja a fuego medio y sofríe la cebolla picada 6 min, hasta que esté dorada. Añade el ajo picado y el tomate concentrado y remueve 1 min.",
     "Vuelve a poner la carne, moja con el vino y deja hervir 2 min raspando el fondo. Añade el tomate triturado, la canela, la pimienta de Jamaica, el laurel y 200 ml de agua caliente.",
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el cordero y salpimiéntalo. Calienta el aceite en la olla exprés destapada a fuego fuerte y dóralo en dos tandas, 4-5 min por tanda, hasta que la grasa se tueste. Resérvalo.",
+    "Pica la cebolla y el ajo. Seca el cordero y salpimiéntalo. Calienta el aceite en la olla exprés destapada a fuego fuerte y dóralo en dos tandas, 4-5 min por tanda, hasta que la grasa se tueste. Resérvalo.",
     "Si ha soltado mucha grasa, retira parte y deja unas 2 cucharadas. Rehoga la cebolla picada 5 min a fuego medio, hasta que se dore; añade el ajo picado y el tomate concentrado y remueve 1 min.",
     "Devuelve el cordero, moja con el vino tinto y deja hervir 2 min raspando el fondo. Añade el tomate rallado, la canela, la pimienta de Jamaica, el laurel y 200 ml de agua caliente.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 25 min. Despresuriza rápido.",
@@ -404,7 +404,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta blanca", u: "al gusto" }
   ],
   pasos: [
-    "Sala los trozos de merluza y resérvalos en la nevera. Pela las patatas y córtalas en rodajas de 1 cm. Lamina los ajos y corta la cebolla en juliana fina.",
+    "Sala los trozos de merluza y resérvalos en la nevera. Pela las patatas y córtalas en rodajas de 1 cm. Lamina los ajos y corta la cebolla en juliana fina. Pica el perejil.",
     "Calienta 2 cda de aceite en la olla exprés destapada a fuego medio y rehoga la cebolla 3 min, sin que tome color. Añade los ajos y rehoga 1 min más, hasta que huelan pero sigan blancos: en este plato nada se dora.",
     "Añade las patatas, 300 ml de agua caliente, sal y abundante pimienta blanca; el agua debe llegar justo a cubrirlas.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 3 min. Despresuriza rápido.",
@@ -640,7 +640,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias del remojo y acláralas.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y acláralas. Pica la cebolla y el ajo y corta el pimiento en dados.",
     "Calienta el aceite en la olla exprés destapada a fuego fuerte y dora la ternera picada 5 min, deshaciéndola con la cuchara, hasta que se evapore su jugo y empiece a tostarse. Añade la cebolla picada y el pimiento en dados y rehoga 5 min a fuego medio.",
     "Añade el ajo picado, el tomate concentrado, el pimentón y la canela y remueve 1 min. Moja con el vino y deja hervir 2 min, raspando el fondo.",
     "Incorpora las alubias, el tomate triturado, el laurel, los clavos y 450 ml de agua y remueve bien. Sala solo al final.",
@@ -688,7 +688,7 @@ window.RECETAS_SEED.push({
     "Seca bien el calamar con papel de cocina. Corta la cebolleta en rodajas, separando la parte verde, lamina el ajo y pela las zanahorias y córtalas en rodajas gruesas de 1,5 cm, para que aguanten la presión sin deshacerse.",
     "Calienta 2 cda de aceite en la olla exprés destapada a fuego fuerte y saltea el calamar 3 min, hasta que suelte el agua y esta casi se evapore. Añade la parte blanca de la cebolleta y el ajo y rehoga 2 min.",
     "Moja con el vino, y el ouzo si lo usas, deja hervir 1 min y añade la zanahoria y 150 ml de agua caliente con sal y pimienta.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 10 min. Despresuriza rápido.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 10 min. Despresuriza rápido. Mientras, pica el eneldo.",
     "Abre, añade los guisantes congelados y la parte verde de la cebolleta y cuece destapado 4 min a fuego medio, hasta que los guisantes estén tiernos y de un verde intenso.",
     "Fuera del fuego, añade el eneldo picado, el zumo de medio limón y el resto del aceite en crudo, y mueve la olla en círculos para que la salsa se ligue. Prueba de sal.",
     "Sirve con el resto del limón en gajos y pan para mojar en la salsa."
@@ -780,7 +780,7 @@ window.RECETAS_SEED.push({
     "Aclara la cebada en un colador. Limpia el puerro y córtalo en medias rodajas finas; corta el hinojo en dados pequeños y reserva sus hojitas verdes. Separa las pencas de las acelgas y pícalas finas; corta las hojas en tiras. Pica el ajo.",
     "Calienta el aceite y la mitad de la mantequilla en la olla exprés destapada a fuego medio y rehoga el puerro, el hinojo, las pencas de acelga y el ajo 6 min, hasta que estén blandos y dulces, sin dorarse.",
     "Añade la cebada y remueve 2 min para tostarla ligeramente. Moja con el vino y deja que se evapore 1 min.",
-    "Añade 550 ml de caldo caliente y una pizca de sal. Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 18 min. Deja despresurizar de forma natural 8 min.",
+    "Añade 550 ml de caldo caliente y una pizca de sal. Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 18 min. Deja despresurizar de forma natural 8 min. Mientras, pica el eneldo.",
     "Abre la olla y ponla a fuego medio. Incorpora las hojas de acelga y el resto del caldo y remueve con energía 3-4 min, como un risotto, hasta que las hojas se ablanden y la cebada suelte almidón y quede cremosa.",
     "Fuera del fuego, añade el resto de la mantequilla, la mitad de la feta desmigada, la ralladura y el zumo del medio limón y la mitad del eneldo picado. Tapa y deja reposar 2 min.",
     "Sirve con el resto de la feta, del eneldo y las hojitas de hinojo por encima, y pimienta recién molida."
@@ -826,7 +826,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las alubias. Pela la calabaza y córtala en dados de 3 cm. Pica la cebolla, la zanahoria y el ajo. Ralla la piel de media naranja y exprime la naranja entera.",
     "Calienta 2 cda de aceite en la olla exprés destapada a fuego medio y rehoga la cebolla y la zanahoria 6 min, hasta que la cebolla esté transparente. Añade el ajo, el pimentón y la canela y remueve 30 segundos.",
-    "Añade las alubias, el tomate triturado, el laurel y 500 ml de agua caliente. Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 10 min. Retira del fuego y deja despresurizar de forma natural 10 min: si abres en rápido, las alubias se rompen y la espuma puede salir por la válvula.",
+    "Añade las alubias, el tomate triturado, el laurel y 500 ml de agua caliente. Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 10 min. Retira del fuego y deja despresurizar de forma natural 10 min: si abres en rápido, las alubias se rompen y la espuma puede salir por la válvula. Mientras, pica el eneldo.",
     "Abre, añade la calabaza, el zumo de naranja y sal, cierra de nuevo y, cuando suba la válvula, cuenta 2 min. Despresuriza rápido para que la calabaza no se deshaga.",
     "Abre: las alubias deben estar cremosas y la calabaza tierna pero entera. Si queda mucho caldo, hierve destapado 3 min.",
     "Fuera del fuego, añade el eneldo picado, la ralladura de naranja y el resto del aceite en crudo, y mueve la olla para que el aceite ligue la salsa. Deja reposar 5 min: estos guisos mejoran templados.",
@@ -873,10 +873,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz 3 o 4 cortes en la membrana que rodea cada ossobuco para que no se curve. Salpimiéntalos y pásalos por la harina, sacudiendo el exceso.",
+    "Haz 3 o 4 cortes en la membrana que rodea cada ossobuco para que no se curve. Pica la cebolla, la zanahoria y el hinojo (reserva sus hojitas), lamina el ajo y saca 2 tiras de piel de la naranja con un pelador. Salpimienta los ossobucos y pásalos por la harina, sacudiendo el exceso.",
     "Calienta el aceite en la olla exprés destapada a fuego fuerte y dora los ossobucos 4 min por lado, hasta que tengan costra marrón. Resérvalos.",
-    "Baja a fuego medio y rehoga la cebolla, la zanahoria y el hinojo picados (reserva sus hojitas) 6 min. Añade el ajo laminado y 2 tiras de piel de naranja. Aparta la olla del fuego para verter el ouzo y el vino (el ouzo puede prender si lo echas sobre la llama), vuelve a ponerla al fuego y deja hervir 2 min raspando el fondo.",
-    "Añade el tomate, el zumo de la naranja y 200 ml de caldo, y coloca los ossobucos hundidos en la salsa. Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 35 min. Deja despresurizar de forma natural 15 min.",
+    "Baja a fuego medio y rehoga la cebolla, la zanahoria y el hinojo picados 6 min. Añade el ajo laminado y 2 tiras de piel de naranja. Aparta la olla del fuego para verter el ouzo y el vino (el ouzo puede prender si lo echas sobre la llama), vuelve a ponerla al fuego y deja hervir 2 min raspando el fondo.",
+    "Añade el tomate, el zumo de la naranja y 200 ml de caldo, y coloca los ossobucos hundidos en la salsa. Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 35 min. Deja despresurizar de forma natural 15 min. Mientras, pica el perejil.",
     "Comprueba que la carne se separa del hueso; si no, dale 5 min más de presión. Saca los ossobucos con cuidado a una fuente y tápalos. Hierve la salsa destapada 5 min, hasta que espese, y rectifica de sal.",
     "Mientras reduce la salsa, tuesta el orzo 1 min en seco en una cazuela y cuécelo con el resto del caldo caliente, añadido poco a poco, 9-10 min a fuego medio y removiendo, hasta que esté al dente y cremoso. Termina con la ralladura y el zumo de medio limón.",
     "Sirve el orzo en platos hondos con un ossobuco encima y su salsa, y termina con las hojitas de hinojo, el perejil picado y un poco más de ralladura de limón. El tuétano del hueso se come untado en la carne."

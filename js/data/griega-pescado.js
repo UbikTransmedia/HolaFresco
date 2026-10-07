@@ -82,7 +82,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas con piel en una cazuela con agua y sal 20-25 minutos, hasta que un cuchillo entre sin resistencia. Escúrrelas y resérvalas.",
-    "Mientras, seca los filetes de jurel con papel de cocina, salpimiéntalos y pásalos por la harina, sacudiendo el exceso. Guarda 1 cucharada de la harina sobrante.",
+    "Mientras, lamina los ajos, seca los filetes de jurel con papel de cocina, salpimiéntalos y pásalos por la harina, sacudiendo el exceso. Guarda 1 cucharada de la harina sobrante.",
     "Calienta el aceite en una sartén a fuego medio-alto (unos 175 °C: un trocito de pan debe burbujear al instante). Fríe los filetes 2 minutos por cada lado, empezando por la piel, hasta que estén dorados. Pásalos a una fuente honda.",
     "Retira el aceite de la sartén dejando solo unas 2 cucharadas. A fuego suave, fríe los ajos laminados, el romero y el laurel 1 minuto, hasta que el ajo empiece a tomar color.",
     "Añade la cucharada de harina, remueve 30 segundos y vierte de golpe el vinagre y 80 ml de agua (aparta la cara: suelta un vapor fuerte). Añade las pasas y cuece 3-4 minutos, removiendo, hasta que la salsa nape la cuchara.",
@@ -126,7 +126,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la col en tiras lo más finas que puedas (es la clave de esta ensalada) y ralla la zanahoria. Mézclalas en un bol con sal, el vinagre, el zumo de medio limón y 1 cucharada de aceite; amasa 1 minuto con las manos para que la col se ablande. Reserva.",
-    "Seca bien los filetes de trucha con papel de cocina, sálalos y pásalos por la harina por ambos lados, sacudiendo el exceso.",
+    "Lamina el ajo y pica el perejil. Seca bien los filetes de trucha con papel de cocina, sálalos y pásalos por la harina por ambos lados, sacudiendo el exceso.",
     "Calienta 1 cucharada de aceite en una sartén amplia a fuego medio-alto. Pon los filetes con la piel hacia abajo y presiónalos 10 segundos con una espátula para que no se curven.",
     "Cocina 3 minutos sin moverlos, hasta que la piel esté dorada y crujiente y la carne se vea opaca casi hasta arriba. Dales la vuelta, deja 1 minuto más y pásalos a los platos.",
     "Baja el fuego, añade a la sartén el resto del aceite y el ajo laminado y dóralo 30-40 segundos. Retira del fuego, añade el zumo del otro medio limón y el perejil picado: chisporroteará y se formará una salsa rápida.",
@@ -171,7 +171,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia los mejillones: ráspalos bajo el grifo, arranca las barbas tirando hacia la punta y desecha los rotos o los abiertos que no se cierren al golpearlos.",
     "Ponlos en una cazuela con el vino, tapa y cuece a fuego fuerte 3-4 minutos, moviendo la cazuela, hasta que se abran. Cuela y guarda el líquido (fíltralo con papel de cocina si tiene arena). Saca la carne de casi todos y deja unos 8 en su concha para decorar.",
-    "Completa el líquido de los mejillones con agua hasta tener 400 ml y mantenlo caliente.",
+    "Completa el líquido de los mejillones con agua hasta tener 400 ml y mantenlo caliente. Pica fina la cebolla y pica la cebolleta, el ajo y el eneldo.",
     "Limpia la cazuela, calienta en ella el aceite y pocha la cebolla picada fina 8 minutos a fuego medio, hasta que esté transparente. Añade la cebolleta y el ajo picados y cocina 2 minutos más.",
     "Añade el arroz y nacáralo 2 minutos, removiendo, hasta que los granos se vuelvan translúcidos por los bordes. Incorpora el tomate concentrado y remueve 30 segundos.",
     "Vierte el caldo caliente, sazona con pimienta generosa y prueba antes de salar: el caldo de mejillón ya es salado. Cuece tapado a fuego suave 15-16 minutos, sin remover.",
@@ -214,7 +214,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta los puerros en rodajas de 2 cm y lávalos en un bol con agua para quitar la tierra. Corta el apio en trozos de 1 cm y la patata pelada en rodajas de 1 cm.",
     "Calienta el aceite en una cazuela amplia a fuego medio y rehoga el puerro y el apio 8-10 minutos, removiendo, hasta que el puerro esté blando y brillante, sin dorarse.",
-    "Añade la patata y unos 400 ml de agua (debe quedar casi cubierta), sal y pimienta. Tapa y cuece a fuego suave 15 minutos, hasta que la patata esté casi tierna.",
+    "Añade la patata y unos 400 ml de agua (debe quedar casi cubierta), sal y pimienta. Tapa y cuece a fuego suave 15 minutos, hasta que la patata esté casi tierna. Mientras, pica el eneldo.",
     "Sala el bacalao y colócalo encima de las verduras, hundiéndolo un poco en el caldo. Esparce la mitad del eneldo picado, tapa y cuece 7-8 minutos, hasta que el pescado esté opaco y se separe en lascas.",
     "Exprime el limón por encima y mueve la cazuela en vaivén (sin remover, para no romper el pescado) durante 1 minuto para que el caldo ligue con el aceite.",
     "Deja reposar 5 minutos fuera del fuego, termina con el resto del eneldo y sirve en plato hondo con su caldo."
@@ -251,7 +251,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata, córtala en trozos de 3 cm y cuécela en una cazuela con agua hirviendo y sal 10 minutos.",
+    "Pon agua con sal a hervir en una cazuela. Mientras se calienta, pela la patata y córtala en trozos de 3 cm; cuécela en el agua hirviendo 10 minutos.",
     "Mientras, lava las acelgas y separa las pencas de las hojas: corta las pencas en trozos de 3 cm y las hojas en tiras anchas. Añade las pencas a la patata y, 4 minutos después, las hojas. Cuece 4 minutos más y escurre muy bien.",
     "Prepara el ladolemono: bate en un bol 2 cucharadas de aceite con el zumo del limón, el orégano, sal y pimienta hasta que emulsione y quede turbio.",
     "Seca los lomos de caballa, hazles 2 o 3 cortes superficiales en la piel, úntalos con la cucharada de aceite restante y sálalos.",
@@ -340,7 +340,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Separa las patas de los calamares y pícalas finas; deja los cuerpos enteros y bien limpios por dentro.",
+    "Precalienta el horno a 180 °C. Separa las patas de los calamares y pícalas finas; deja los cuerpos enteros y bien limpios por dentro. Pica la cebolla, la menta, el eneldo y el perejil.",
     "Calienta 2 cucharadas de aceite en una sartén a fuego medio y pocha la cebolla picada 6 minutos, hasta que esté transparente. Añade las patas picadas y los piñones y saltea 3 minutos.",
     "Incorpora el arroz y remueve 1 minuto. Añade la mitad del vino, 100 ml de agua, las pasas, sal y pimienta y cuece 8 minutos, hasta que el arroz absorba el líquido: quedará a medio hacer y se termina dentro del calamar. Fuera del fuego mezcla la menta, el eneldo y el perejil picados.",
     "Rellena los calamares con una cucharilla solo hasta tres cuartos de su capacidad (el arroz se hincha y los reventaría) y cierra la abertura con un palillo.",
@@ -468,7 +468,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las almejas bajo el grifo y desecha las rotas. Calienta el caldo en un cazo y mantenlo caliente.",
+    "Lava las almejas bajo el grifo y desecha las rotas. Calienta el caldo en un cazo y mantenlo caliente. Lamina el ajo, pica la cebolleta y el eneldo y ralla grueso el calabacín.",
     "En una cazuela amplia con 1 cucharada de aceite pon las almejas, el ajo laminado, el vino y el ouzo; tapa y cuece a fuego fuerte 2-3 minutos, hasta que se abran. Sácalas a un bol, cuela el jugo con un colador fino y añádelo al caldo. Saca la carne de la mitad de las almejas.",
     "En la misma cazuela, con el resto del aceite, rehoga la cebolleta picada 3 minutos. Añade el orzo y tuéstalo 2 minutos, removiendo, hasta que huela a pan tostado.",
     "Ve añadiendo el caldo caliente en 3 o 4 veces, removiendo a menudo, como un risotto, durante 10 minutos.",
@@ -559,7 +559,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y ponlas enteras, con piel, en una cazuela con agua fría y sal. Cuando hierva, cuenta 20-25 minutos, hasta que un cuchillo entre sin resistencia. Añade los huevos al agua los últimos 10 minutos.",
-    "Mientras, corta la cebolla morada en juliana muy fina y déjala en un bol con el vinagre y una pizca de sal 10 minutos: perderá el picor y se volverá rosa.",
+    "Mientras, corta la cebolla morada en juliana muy fina y déjala en un bol con el vinagre y una pizca de sal 10 minutos: perderá el picor y se volverá rosa. Pica el perejil.",
     "Prepara el aliño batiendo el aceite con el zumo del limón, el orégano, sal y pimienta.",
     "Escurre patatas y huevos; enfría los huevos en agua fría y pélalos. Pela las patatas aún calientes, córtalas en trozos de 3 cm y alíñalas con la mitad del aliño: en caliente lo absorben mucho mejor.",
     "Cuando estén templadas, añade la cebolla con su vinagre, las alcaparras, las aceitunas, el perejil picado y el bonito en lascas grandes. Mezcla con cuidado para no romper el pescado.",
@@ -601,7 +601,7 @@ window.RECETAS_SEED.push({
     { n: "pan de pita", q: 2, u: "ud", opcional: true, nota: "para acompañar" }
   ],
   pasos: [
-    "Corta la lubina descongelada en láminas de medio centímetro con un cuchillo bien afilado, de un solo corte cada una, y extiéndelas en una fuente sin amontonarlas.",
+    "La víspera, pasa la lubina del congelador a la nevera para que se descongele. Córtala en láminas de medio centímetro con un cuchillo bien afilado, de un solo corte cada una, y extiéndelas en una fuente sin amontonarlas.",
     "Sala el pescado y cúbrelo con el zumo de los limones. Deja marinar en la nevera 10-12 minutos, hasta que los bordes se vuelvan blancos y el centro siga algo translúcido.",
     "Mientras, prepara el aceite de eneldo: pica el eneldo muy fino y mézclalo con el aceite y una pizca de sal.",
     "Corta el hinojo y el pepino en láminas finísimas (con mandolina si tienes) y déjalas 5 minutos en un bol con agua y hielo para que queden crujientes. Desgrana la granada y corta las aceitunas en aros.",
@@ -646,7 +646,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Corta la merluza en dados de 2 cm, sálala ligeramente y déjala sobre papel de cocina.",
+    "Precalienta el horno a 190 °C. Pica la cebolleta y el eneldo. Corta la merluza en dados de 2 cm, sálala ligeramente y déjala sobre papel de cocina.",
     "En una sartén amplia con 1 cucharada de aceite rehoga la cebolleta picada 3 minutos. Añade las espinacas a puñados y saltéalas a fuego fuerte hasta que se reduzcan, unos 4 minutos. Pásalas a un colador y aprieta con una cuchara para quitar todo el líquido: así la base no se empapa.",
     "En un bol bate los huevos y mézclalos con las espinacas, el feta desmenuzado, el eneldo picado, la ralladura del limón, la nuez moscada y pimienta (poca sal: el feta ya sala). Incorpora la merluza con cuidado.",
     "Pinta con aceite una fuente de unos 20 x 20 cm. Coloca 3 hojas de filo, pintando cada una con aceite y dejando que sobresalgan por los bordes.",
@@ -738,8 +738,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla los langostinos con el ajo rallado, la ralladura de medio limón, 1 cucharada de aceite, sal y pimienta. Corta el halloumi en dados de 2,5 cm.",
-    "Ensarta en brochetas alternando langostinos y halloumi (si son de madera, remójalas antes 10 minutos para que no se quemen).",
+    "Mezcla los langostinos con el ajo rallado, la ralladura de medio limón, 1 cucharada de aceite, sal y pimienta. Corta el halloumi en dados de 2,5 cm. Si las brochetas son de madera, ponlas en remojo 10 minutos para que no se quemen.",
+    "Ensarta en brochetas alternando langostinos y halloumi.",
     "Prepara la ensalada: corta el tomate, el pepino y la cebolla morada en dados, pica el cilantro y la menta y mézclalo todo con las alcaparras, el zumo de medio limón, el resto del aceite y sal.",
     "Calienta la plancha a fuego fuerte y asa las brochetas 2 minutos por cada lado, hasta que los langostinos estén rosados y curvados y el halloumi tenga marcas doradas.",
     "Calienta las pitas en la plancha 30 segundos por cada lado.",
@@ -784,7 +784,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata, córtala en trozos de 3 cm y cuécela en una cazuela con agua y sal 15-18 minutos, hasta que esté tierna. Escúrrela.",
-    "Mientras, calienta el caldo en un cazo con la maicena disuelta en una cucharada de agua fría y deja que hierva 1 minuto, hasta que espese ligeramente. Retira del fuego.",
+    "Mientras, pica el eneldo y lamina el ajo. Calienta el caldo en un cazo con la maicena disuelta en una cucharada de agua fría y deja que hierva 1 minuto, hasta que espese ligeramente. Retira del fuego.",
     "Bate el huevo con el zumo del limón en un bol hasta que espume. Sin dejar de batir, añade el caldo caliente poco a poco, a cucharones, para templar el huevo sin cuajarlo.",
     "Devuelve la mezcla al cazo y caliéntala a fuego muy suave 1-2 minutos, removiendo, hasta que nape la cuchara; no dejes que hierva o se cortará. Añade el eneldo picado, sal y pimienta y reserva tapada.",
     "En una sartén tuesta los piñones en seco 2 minutos y sácalos. Añade 1 cucharada de aceite y el ajo laminado y saltea las espinacas a fuego fuerte 2-3 minutos, hasta que se reduzcan. Sálalas y mézclalas con los piñones.",

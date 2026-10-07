@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas con piel y la zanahoria entera en una cazuela, cúbrelas con agua fría con sal y cuécelas 20–25 minutos desde que hierva, hasta que un cuchillo las atraviese sin resistencia. Añade los guisantes los últimos 3 minutos. Escurre y deja enfriar.",
-    "En un cazo aparte, cuece los huevos 10 minutos desde que hierva el agua; enfríalos en agua fría y pélalos.",
+    "Mientras, en un cazo aparte, cuece los huevos 10 minutos desde que hierva el agua; enfríalos en agua fría y pélalos.",
     "Para el pescado, lleva a ebullición 1 litro de agua con sal, el laurel, unos granos de pimienta y dos rodajas de limón. Baja el fuego para que apenas tiemble, añade la merluza y cuécela 6–8 minutos, hasta que se separe en lascas al presionarla. Sácala con una espumadera, déjala templar y desmígala con los dedos, quitando cualquier espina.",
     "Pela las patatas y la zanahoria y córtalas en dados de 1 cm. Pica los pepinillos, la mitad de las alcaparras y la mitad del perejil.",
     "En un bol amplio mezcla con una espátula el pescado, las verduras, los guisantes, los pepinillos, las alcaparras picadas, el perejil picado, el zumo de medio limón, sal, pimienta y dos tercios de la mayonesa. Hazlo con suavidad, sin aplastar: deben verse las lascas de pescado.",
@@ -181,7 +181,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "La víspera, pon los judiones en remojo en abundante agua fría, porque triplican su volumen. Déjalos al menos 12 horas.",
     "Escúrrelos, ponlos en una cazuela con el laurel y cúbrelos con 4 dedos de agua fría. Lleva a ebullición, retira la espuma, baja el fuego al mínimo y cuécelos tapados 60–80 minutos, añadiendo sal a los 45. Están listos cuando se aplastan entre la lengua y el paladar y la piel no se abre al moverlos.",
-    "Mientras, asa los pimientos enteros en el horno a 220 °C 30–35 minutos, girándolos a mitad, hasta que la piel esté arrugada y negra en zonas. Déjalos 10 minutos en un bol tapado, pélalos, quítales las semillas y córtalos en tiras, guardando su jugo.",
+    "Mientras, precalienta el horno a 220 °C y asa los pimientos enteros 30–35 minutos, girándolos a mitad, hasta que la piel esté arrugada y negra en zonas. Déjalos 10 minutos en un bol tapado, pélalos, quítales las semillas y córtalos en tiras, guardando su jugo.",
     "Corta la cebolla morada en pluma fina y déjala 5 minutos en agua fría para suavizarla; escúrrela. Pica el ajo muy fino y pica el perejil y el eneldo.",
     "Bate el vinagre con el aceite, el ajo, el jugo de los pimientos, los copos de chile, sal y pimienta.",
     "Escurre los judiones aún calientes y alíñalos enseguida: en caliente absorben el aliño. Añade los pimientos y la cebolla, mezcla con cuidado para no romperlos y deja templar 15 minutos.",
@@ -225,8 +225,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría y pélalos.",
-    "Pela las patatas y córtalas en trozos de 4 cm; despunta las judías y pártelas por la mitad; corta los calabacines en trozos de 5 cm.",
-    "En una cazuela grande con agua hirviendo y sal, cuece las patatas 8 minutos. Añade las judías y, 5 minutos después, el calabacín; cuece 6–7 minutos más, hasta que todo esté tierno pero el calabacín conserve la forma y un verde brillante.",
+    "Mientras, pon a hervir una cazuela grande con agua y sal. Pela las patatas y córtalas en trozos de 4 cm; despunta las judías y pártelas por la mitad; corta los calabacines en trozos de 5 cm.",
+    "Cuando el agua hierva, cuece las patatas 8 minutos. Añade las judías y, 5 minutos después, el calabacín; cuece 6–7 minutos más, hasta que todo esté tierno pero el calabacín conserve la forma y un verde brillante.",
     "Mientras, prepara el ladolemono: bate el zumo del limón con el aceite, el ajo rallado, el orégano, sal y pimienta hasta que quede turbio y algo espeso.",
     "Escurre las verduras con cuidado y alíñalas en caliente con dos tercios del ladolemono, para que lo absorban. Deja templar 5 minutos.",
     "Sirve con los huevos en cuartos, un taco de feta, las aceitunas, el perejil picado y el resto del aliño por encima."
@@ -449,7 +449,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los boquerones: quítales la cabeza y la tripa tirando hacia abajo, ábrelos en libro y retira la espina central. Lávalos en un bol de agua muy fría con una pizca de sal, cambiándola hasta que salga limpia: así la carne queda más blanca.",
+    "Empieza con al menos 6 días de antelación, porque el pescado se congela 5 días y se marina 6–8 horas (si lo compras ya congelado, basta con empezar la víspera). Limpia los boquerones: quítales la cabeza y la tripa tirando hacia abajo, ábrelos en libro y retira la espina central. Lávalos en un bol de agua muy fría con una pizca de sal, cambiándola hasta que salga limpia: así la carne queda más blanca.",
     "Para evitar el anisakis, congela los lomos bien escurridos al menos 5 días en el congelador doméstico (o compra el pescado ya congelado) y descongélalos en la nevera la víspera.",
     "Colócalos en una fuente de vidrio con la piel hacia abajo, en una sola capa. Mezcla el vinagre con el zumo de 1 limón y 1 cucharadita de sal y viértelo por encima hasta cubrirlos. Tapa y deja en la nevera 6–8 horas, hasta que la carne esté blanca hasta el centro y firme.",
     "Escúrrelos (desecha el marinado), sécalos con papel y colócalos en un plato. Cúbrelos con el ajo laminado muy fino, la mitad del perejil picado, el orégano y la mayor parte del aceite. Así aguantan hasta 3 días en la nevera.",
@@ -542,11 +542,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pincha las berenjenas enteras con un tenedor y ásalas en la parte alta del horno a 230 °C 40–45 minutos, girándolas a mitad, hasta que la piel esté arrugada y quemada en zonas y se hundan al presionarlas. Si tienes fuego de gas, 15 minutos directamente sobre la llama, girándolas, les dan un sabor ahumado más intenso.",
+    "Precalienta el horno a 230 °C. Pincha las berenjenas enteras con un tenedor y ásalas en la parte alta del horno 40–45 minutos, girándolas a mitad, hasta que la piel esté arrugada y quemada en zonas y se hundan al presionarlas. Si tienes fuego de gas, 15 minutos directamente sobre la llama, girándolas, les dan un sabor ahumado más intenso.",
     "Mientras, corta el cordero en filetes de 1 cm y marínalo 20 minutos con el zumo de medio limón, 1 ajo rallado, el orégano, 1 cucharada de aceite y pimienta, sin sal.",
-    "Abre las berenjenas, saca la pulpa con una cuchara y déjala escurrir 10 minutos en un colador: el líquido amargo se va y la crema queda espesa.",
+    "Abre las berenjenas, saca la pulpa con una cuchara y déjala escurrir 10 minutos en un colador: el líquido amargo se va y la crema queda espesa. Mientras, tuesta los piñones en la sartén sin aceite 2–3 minutos, hasta que estén dorados, y sácalos; desgrana la media granada y corta los tomates cherry por la mitad.",
     "Pica la pulpa con un cuchillo, sin triturarla, para que tenga textura, y mézclala con el otro ajo rallado, el vinagre, 1 cucharada de aceite, la mitad del perejil picado, sal y pimienta.",
-    "Tuesta los piñones en la sartén sin aceite 2–3 minutos, hasta que estén dorados, y sácalos. Desgrana la media granada y corta los tomates cherry por la mitad.",
     "Seca el cordero, sálalo y márcalo en la sartén muy caliente con el resto del aceite 1–2 minutos por lado, hasta que esté dorado por fuera y rosado dentro. Déjalo reposar 3 minutos y córtalo en tiras.",
     "Extiende la melitzanosalata en los platos y pon encima la rúcula, los tomates, el cordero con su jugo, la granada, los piñones, las hojas de menta y el resto del perejil. Termina con unas gotas del otro medio limón."
   ],
@@ -631,9 +630,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pon el salmón en una bandeja con papel, con la piel hacia abajo, ralla por encima la piel de medio limón y añade el orégano, sal, pimienta y un hilo de aceite.",
+    "Precalienta el horno a 200 °C y pon a hervir abundante agua con sal. Pon el salmón en una bandeja con papel, con la piel hacia abajo, ralla por encima la piel de medio limón y añade el orégano, sal, pimienta y un hilo de aceite.",
     "Hornéalo 12–14 minutos, hasta que las lascas se separen al presionar con un tenedor y el centro siga ligeramente translúcido.",
-    "Mientras, cuece el orzo en abundante agua con sal 9–10 minutos (o el tiempo del paquete), hasta que esté al dente. Escúrrelo, pásalo unos segundos por agua fría y escúrrelo de nuevo.",
+    "Mientras, cuece el orzo en el agua hirviendo 9–10 minutos (o el tiempo del paquete), hasta que esté al dente. Escúrrelo, pásalo unos segundos por agua fría y escúrrelo de nuevo.",
     "Bate el zumo del limón con el resto del aceite, las alcaparras picadas, sal y pimienta. Mezcla el orzo aún tibio con la mitad del aliño: lo absorbe y no se apelmaza.",
     "Corta el pepino en dados, la cebolleta en rodajas finas y pica el eneldo. Añádelos al orzo junto con las espinacas: el calor de la pasta las ablanda un poco.",
     "Desmiga el salmón en lascas grandes, sin la piel, sobre la ensalada, riega con el resto del aliño y termina con más eneldo."
@@ -717,7 +716,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Parte los espárragos por donde se quiebren solos y desecha la parte leñosa. Cuécelos en agua hirviendo con sal 3–4 minutos, según el grosor, hasta que estén tiernos pero firmes; añade los guisantes en el último minuto. Sácalos con una espumadera a un bol con agua fría y escúrrelos.",
+    "Pon a hervir agua con sal en una cazuela. Mientras, parte los espárragos por donde se quiebren solos y desecha la parte leñosa. Cuécelos en el agua hirviendo 3–4 minutos, según el grosor, hasta que estén tiernos pero firmes; añade los guisantes en el último minuto. Sácalos con una espumadera a un bol con agua fría y escúrrelos.",
     "En la misma agua, cuece 4 huevos recién sacados de la nevera exactamente 6 minutos y medio; pásalos a agua fría 2 minutos y pélalos con cuidado: la yema queda cremosa.",
     "Para el avgolemono, calienta el caldo en un cazo pequeño con la maicena disuelta, sin que llegue a hervir con fuerza, hasta que espese un poco, unos 2 minutos. Retíralo del fuego.",
     "Bate el huevo restante con el zumo del limón hasta que espume. Sin dejar de batir, añade el caldo caliente en un hilo (nunca al revés, o el huevo cuajaría). Vuelve al cazo y calienta a fuego muy suave 1–2 minutos, batiendo, hasta que nape la cuchara, sin que llegue a hervir.",
@@ -900,7 +899,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hierve el agua en un cazo. Pon el bulgur en un bol con una pizca de sal, cúbrelo con 180 ml de agua hirviendo, tápalo y déjalo 15 minutos, hasta que la absorba y esté tierno. Espónjalo con un tenedor.",
-    "Corta el pez espada en dados de 3 cm y el pimiento rojo en cuadrados. Marina el pescado 15 minutos con el zumo de medio limón, 1 cucharada de aceite, el orégano, sal y pimienta; no más tiempo, porque el limón empezaría a cocinarlo.",
+    "Mientras, corta el pez espada en dados de 3 cm y el pimiento rojo en cuadrados. Marina el pescado 15 minutos con el zumo de medio limón, 1 cucharada de aceite, el orégano, sal y pimienta; no más tiempo, porque el limón empezaría a cocinarlo.",
     "Para la tahinosalata, bate el tahini con el ajo rallado y el zumo de 1 limón: primero se espesará y parecerá cortado. Añade 3–4 cucharadas de agua fría, una a una, hasta tener una crema lisa, clara y fluida. Sálala.",
     "Pica muy fino el perejil y la menta, corta el tomate y el pepino en dados pequeños y la cebolleta en rodajas. Mézclalos con el bulgur, el resto del aceite y el zumo del medio limón que queda; prueba de sal.",
     "Ensarta el pez espada alternando con el pimiento en 4 brochetas. Hazlas en la plancha muy caliente 6–7 minutos en total, girándolas, hasta que estén doradas por fuera y el centro acabe de volverse opaco.",

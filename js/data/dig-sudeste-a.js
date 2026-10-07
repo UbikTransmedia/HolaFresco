@@ -132,7 +132,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Abre los tubos de calamar en libro, sécalos muy bien y haz un rayado en rombos por la cara interior sin llegar a atravesar; córtalos en rectángulos de 4 cm. Así se rizan al saltear y quedan tiernos.",
-    "Corta el tomate en gajos, el pimiento en tiras anchas y la cebolleta en trozos de 4 cm. Mezcla la salsa de pescado con el azúcar y 2 cucharadas de agua.",
+    "Corta el tomate en gajos, el pimiento en tiras anchas y la cebolleta en trozos de 4 cm, y pica el cilantro. Mezcla la salsa de pescado con el azúcar y 2 cucharadas de agua.",
     "Calienta el aceite de girasol en el wok a fuego máximo hasta que humee ligeramente. Saltea el calamar 60-90 segundos, solo hasta que se enrosque y se vuelva blanco opaco, y sácalo a un plato: si se pasa, se pone gomoso.",
     "En el mismo wok, con el aceite de ajo, saltea el pimiento 2 minutos y añade la piña y el tomate. Saltea 2 minutos más, hasta que la piña brille y el tomate empiece a soltar jugo.",
     "Vierte la salsa de pescado, devuelve el calamar con su jugo y la cebolleta, y saltea 30 segundos, lo justo para calentar y que todo quede lacado.",
@@ -224,10 +224,10 @@ window.RECETAS_SEED.push({
     "Tuesta el coco rallado en una sartén seca a fuego medio-bajo 3-4 minutos, removiendo, hasta que esté dorado claro y huela a galleta. Resérvalo en un bol.",
     "Tritura la cúrcuma y el jengibre pelados con las macadamias, el aceite de ajo y el azúcar de palma hasta formar una pasta. Corta las hojas de lima kaffir en hilos finísimos, quitando el nervio central.",
     "Pica el bacalao a cuchillo hasta que quede una pasta gruesa (o con unos pocos golpes de picadora, sin convertirlo en puré). Mézclalo con la pasta de especias, el coco tostado, la leche de coco, la lima kaffir y sal, y amasa 1-2 minutos golpeando la masa contra el bol: así gana liga y no se cae del tallo. Enfría 15 minutos en la nevera.",
-    "Mientras, lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Quita las capas exteriores duras de la hierba limón y deja tallos de unos 20 cm.",
+    "Mientras, lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Quita las capas exteriores duras de la hierba limón y deja tallos de unos 20 cm. Corta el pepino y el tomate en dados.",
     "Con las manos húmedas, toma una bola de masa del tamaño de un huevo pequeño y apriétala alrededor del extremo grueso de cada tallo formando un cilindro alargado. Salen 8 brochetas.",
     "Calienta la plancha a fuego medio, pincélala con el aceite de girasol y dora las brochetas 6-8 minutos en total, girándolas cada 2 minutos, hasta que estén doradas por todas las caras y firmes al tacto.",
-    "Corta el pepino y el tomate en dados, alíñalos con sal y el zumo de media lima. Sirve el sate lilit con el arroz, la ensalada y cuñas de lima; la hierba limón no se come, pero perfuma el pescado desde dentro."
+    "Aliña el pepino y el tomate con sal y el zumo de media lima. Sirve el sate lilit con el arroz, la ensalada y cuñas de lima; la hierba limón no se come, pero perfuma el pescado desde dentro."
   ],
   nutricion: { kcal: 605, prot: 38, hc: 65, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "para niños"],
@@ -352,9 +352,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enciende el grill del horno a 230 °C con la bandeja en la parte alta.",
     "Haz la salsa verde: tritura las hojas de albahaca, el cilantro con sus tallos tiernos, la menta, el jengibre pelado, el zumo de las limas, la salsa de pescado, el azúcar y 3 cucharadas de agua fría hasta que quede una salsa fluida y de un verde intenso. Prueba y ajusta de lima o de azúcar.",
-    "Pon los fideos de arroz en un bol, cúbrelos con agua hirviendo y déjalos 6-8 minutos (o lo que indique el paquete), hasta que estén tiernos. Escúrrelos, pásalos por agua fría y escúrrelos de nuevo.",
+    "Pon los fideos de arroz en un bol, cúbrelos con agua hirviendo y déjalos 6-8 minutos (o lo que indique el paquete), hasta que estén tiernos; mientras, corta el pepino en bastones finos, quitando las semillas. Escúrrelos, pásalos por agua fría y escúrrelos de nuevo.",
     "Seca los lomos de caballa, colócalos con la piel hacia arriba sobre papel de horno, sala y haz tres cortes finos en la piel. Ásalos al grill 5-6 minutos, hasta que la piel burbujee y se tueste en algunos puntos; la carne debe quedar jugosa.",
-    "Corta el pepino en bastones finos, quitando las semillas. Mezcla los fideos con 3 cucharadas de la salsa verde y el pepino.",
+    "Mezcla los fideos con 3 cucharadas de la salsa verde y el pepino.",
     "Reparte los fideos en los platos, coloca la caballa encima con la piel tostada a la vista y riega con el resto de la salsa al servir."
   ],
   nutricion: { kcal: 510, prot: 30, hc: 54, grasa: 19 },
@@ -395,9 +395,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Pela la zanahoria y córtala en rodajas finas. Ponla en una cazuela con el jengibre en láminas, la hierba limón aplastada y cortada en trozos, las hojas de lima y 350 ml de agua. Cuece tapado 18-20 minutos, hasta que la zanahoria se deshaga al aplastarla con un tenedor.",
+    "Pela la zanahoria y córtala en rodajas finas. Ponla en una cazuela con el jengibre en láminas, la hierba limón aplastada y cortada en trozos, las hojas de lima y 350 ml de agua. Cuece tapado 18-20 minutos, hasta que la zanahoria se deshaga al aplastarla con un tenedor. Mientras, pica gruesos los cacahuetes y el cebollino.",
     "Retira la hierba limón y las hojas de lima. Añade la leche de coco y la salsa de pescado y tritura hasta obtener una crema muy fina y espesa; si queda líquida, redúcela unos minutos sin tapar. Termina con el zumo de media lima y ajusta de sal. Mantenla caliente.",
-    "Pica gruesos los cacahuetes y el cebollino. Seca las vieiras con papel de cocina por las dos caras (es el secreto para que se doren) y sálalas justo antes de cocinarlas.",
+    "Seca las vieiras con papel de cocina por las dos caras (es el secreto para que se doren) y sálalas justo antes de cocinarlas.",
     "Calienta el aceite en una sartén antiadherente a fuego fuerte hasta que brille. Coloca las vieiras separadas y no las toques 90 segundos, hasta que tengan una costra dorada; dales la vuelta y cuenta 60 segundos más. El centro debe quedar translúcido.",
     "Sirve una base de crema en platos hondos, las vieiras encima con la cara dorada hacia arriba, los cacahuetes y el cebollino por encima, y el arroz aparte con unas gotas de lima."
   ],
@@ -441,7 +441,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica muy fina la parte tierna de la hierba limón y ralla el jengibre. Mézclalos con el zumo de una lima, el de naranja, 2 cucharadas de vinagre, el aceite de ajo, una cucharadita de sal y pimienta. Marina el pollo en esta mezcla al menos 1 hora en la nevera (o toda la noche).",
-    "Haz la atchara: corta la zanahoria y el pimiento en bastones muy finos, sálalos, déjalos 10 minutos y escúrrelos apretando con las manos. Mezcla 3 cucharadas de vinagre con el azúcar hasta disolverlo y vierte sobre la verdura. Guarda en la nevera hasta servir.",
+    "Mientras el pollo se marina, haz la atchara: corta la zanahoria y el pimiento en bastones muy finos, sálalos, déjalos 10 minutos y escúrrelos apretando con las manos. Mezcla 3 cucharadas de vinagre con el azúcar hasta disolverlo y vierte sobre la verdura. Guarda en la nevera hasta servir.",
     "Prepara el aceite de achiote: calienta el aceite de girasol con las semillas a fuego muy suave 3 minutos, hasta que se tiña de rojo anaranjado, y cuélalo. Si usas pimentón, solo mézclalo con el aceite templado, fuera del fuego, para que no se queme.",
     "Enciende el grill del horno a 230 °C. Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Escurre el pollo, colócalo extendido en una bandeja con papel de horno y píntalo con la mitad del aceite de achiote. Ásalo en la parte alta 8 minutos, dale la vuelta, píntalo con el resto y ásalo 7-8 minutos más, hasta que tenga zonas tostadas y el jugo salga claro al pincharlo.",
@@ -533,7 +533,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Haz el kroeung: trocea la parte tierna de la hierba limón, la cúrcuma y el jengibre pelados y las hojas de lima sin el nervio, y tritúralos con el aceite de ajo hasta formar una pasta lo más fina posible.",
     "Mezcla la pasta con la salsa de pescado, el azúcar de palma y pimienta, y unta bien los dados de ternera. Marina al menos 30 minutos en la nevera.",
-    "Prepara el encurtido: corta el pepino (sin semillas) y la zanahoria en láminas finas, mézclalos con el vinagre, el azúcar, una pizca de sal y 3 cucharadas de agua, y déjalos en la nevera hasta servir.",
+    "Mientras la carne se marina, prepara el encurtido: corta el pepino (sin semillas) y la zanahoria en láminas finas, mézclalos con el vinagre, el azúcar, una pizca de sal y 3 cucharadas de agua, y déjalos en la nevera hasta servir.",
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Si usas palillos de madera, ponlos en remojo mientras tanto para que no se quemen.",
     "Ensarta la ternera en 4-6 brochetas sin apretar demasiado los dados. Calienta la plancha a fuego fuerte y ásalas 5-6 minutos en total, girándolas cada minuto y medio, hasta que estén tostadas por fuera y rosadas por dentro. El azúcar de palma carameliza rápido: si se oscurecen demasiado, baja el fuego.",
     "Deja reposar las brochetas 2 minutos y sírvelas con el arroz y el encurtido escurrido."
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
     "Quita la piel y la grasa visible de los muslos de pato tirando con un papel de cocina. Separa cada muslo en dos por la articulación. Mézclalos con la salsa de pescado, la mitad del azúcar, la mitad del jengibre rallado, el aceite de ajo y pimienta, y deja reposar 15 minutos.",
     "Calienta el aceite de girasol en una cazuela a fuego medio-alto y dora el pato 2-3 minutos por cada lado, hasta que tome color. Sácalo.",
     "En la misma cazuela, pon el resto del azúcar y deja que se caramelice ligeramente a fuego medio, 1 minuto. Vierte el zumo de naranja (salpica), 250 ml de agua, el resto del jengibre en láminas, el anís y tres tiras de piel de naranja sin la parte blanca. Raspa el fondo.",
-    "Devuelve el pato, tapa y cuece a fuego suave 40 minutos. Añade la zanahoria en rodajas gruesas y cuece 15 minutos más, hasta que la carne se separe fácilmente del hueso y la zanahoria esté tierna.",
+    "Devuelve el pato, tapa y cuece a fuego suave 40 minutos; mientras, pela la zanahoria, córtala en rodajas gruesas y pica el cilantro. Añade la zanahoria y cuece 15 minutos más, hasta que la carne se separe fácilmente del hueso y la zanahoria esté tierna.",
     "Mientras, hidrata los fideos de arroz en agua hirviendo 6-8 minutos, escúrrelos y pásalos por agua fría.",
     "Retira el anís y las pieles. Disuelve la maicena en 1 cucharada de agua fría, añádela a la salsa y hierve 1 minuto, hasta que espese y brille. Prueba de sal: la salsa de pescado ya sala bastante.",
     "Sirve el pato con la salsa y la zanahoria sobre los fideos (o en cuencos aparte para mojar) y termina con cilantro picado."
@@ -623,7 +623,7 @@ window.RECETAS_SEED.push({
     "Prepara el arroz prensado: cuece el arroz con 300 ml de agua y una pizca de sal 18 minutos tapado a fuego suave, hasta que esté muy tierno y pegajoso. Pásalo a un táper pequeño forrado con film, aplánalo con una cuchara mojada y presiona con otro recipiente con peso encima. Déjalo enfriar al menos 30 minutos.",
     "Haz el kecap casero: calienta 3 cucharadas de tamari con el azúcar de palma y 2 cucharadas de agua a fuego suave 3-4 minutos, hasta que el azúcar se funda y quede un almíbar oscuro que nape la cuchara.",
     "Mezcla el cordero con 2 cucharadas del kecap, la cucharada de tamari restante, el cilantro molido, el aceite de ajo y pimienta. Marina 20 minutos. Si usas palillos de madera, remójalos.",
-    "Corta el tomate en dados pequeños y la cebolleta en aros finos, y mézclalos con el resto del kecap y el zumo de media lima: es la salsa de servir.",
+    "Corta el tomate en dados pequeños y la cebolleta en aros finos, y mézclalos con el resto del kecap y el zumo de media lima: es la salsa de servir. Corta el pepino en rodajas.",
     "Ensarta el cordero en 6 brochetas. Calienta la plancha a fuego fuerte y ásalas 6-7 minutos, girándolas cada 2 minutos y pintándolas con el jugo de la marinada en la última vuelta, hasta que estén caramelizadas por fuera y jugosas dentro.",
     "Desmolda el arroz y córtalo en dados de 3 cm. Sirve las brochetas con el arroz, el pepino en rodajas y la salsa de tomate por encima, con la otra media lima en cuñas."
   ],
@@ -709,7 +709,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Quita la piel y la grasa visible de los muslos, hazles dos cortes hasta el hueso y sálalos ligeramente.",
     "Prepara la pasta: trocea la parte tierna de dos tallos de hierba limón y pela la galanga y el jengibre. Machácalos en el mortero (o tritúralos) con el aceite de ajo hasta tener una pasta gruesa y fragante. Unta con ella el pollo, metiéndola en los cortes, y deja reposar 15 minutos.",
-    "Golpea el tercer tallo de hierba limón y átalo en un nudo, rasga las hojas de lima kaffir y corta la cebolleta en trozos de 3 cm. Lava bien las espinacas.",
+    "Mientras reposa, golpea el tercer tallo de hierba limón y átalo en un nudo, rasga las hojas de lima kaffir y corta la cebolleta en trozos de 3 cm. Lava bien las espinacas.",
     "Cubre el fondo de una cazuela pequeña de fondo grueso con un tercio de las espinacas, coloca encima el pollo con toda su pasta, la hierba limón anudada, las hojas de lima y 150 ml de agua. Pon una hoja de papel de horno mojada y arrugada pegada a la superficie y tapa encima: así se sella como el bambú. Cuece a fuego mínimo 40 minutos sin destapar, hasta que la carne se separe del hueso al tocarla.",
     "Mientras, lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Destapa, añade la salsa de pescado, la pimienta blanca, el resto de las espinacas y la cebolleta, tapa de nuevo y deja 2 minutos, hasta que las hojas se ablanden. Prueba el caldo de sal: debe ser claro, ligeramente dulce y muy perfumado.",
@@ -758,7 +758,7 @@ window.RECETAS_SEED.push({
     "Haz el glaseado: calienta en un cazo la pasta de tamarindo, el azúcar de palma, la salsa de pescado, el tamari, el anís y 3 cucharadas de agua 3-4 minutos a fuego suave, hasta que espese como un jarabe. Retira el anís.",
     "Quita la telilla al solomillo, salpimiéntalo y dóralo en una sartén apta para horno con el resto del aceite de girasol a fuego medio-alto, 1 minuto por cada cara, hasta que esté dorado por todos lados.",
     "Píntalo con la mitad del glaseado y mételo en el horno junto al boniato 10-12 minutos, pintándolo otra vez a media cocción, hasta que al apretarlo esté firme pero ceda un poco (63 °C en el centro). Déjalo reposar 5 minutos tapado con papel de aluminio.",
-    "Mientras reposa, cuece las judías verdes al vapor o en agua con sal 6-7 minutos, hasta que estén tiernas, y saltéalas 1 minuto con el aceite de ajo.",
+    "Mientras el solomillo está en el horno y reposa, cuece las judías verdes al vapor o en agua con sal 6-7 minutos, hasta que estén tiernas, y saltéalas 1 minuto con el aceite de ajo. Pica el cilantro.",
     "Corta el solomillo en medallones, napa con el glaseado restante y el jugo del reposo, y sirve con el boniato, las judías, el arroz y cilantro por encima."
   ],
   nutricion: { kcal: 580, prot: 43, hc: 68, grasa: 15 },
@@ -801,10 +801,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon las hojas de parra en un bol con agua templada 10 minutos para quitarles la salmuera, escúrrelas y sécalas con papel de cocina. Corta el rabito.",
     "Pica muy fina la parte tierna de la hierba limón y la cebolleta. Mezcla con la ternera, 1 cucharadita de aceite de ajo, 2 cucharaditas de salsa de pescado, 1 cucharadita de azúcar y bastante pimienta. Amasa 1 minuto, hasta que la mezcla esté pegajosa.",
-    "Coloca una hoja con el envés hacia arriba, pon una cucharada colmada de carne en forma de cilindro cerca del tallo, dobla los lados hacia dentro y enrolla apretando. Repite hasta tener 16 rollitos.",
-    "Enciende el grill del horno a 230 °C. Coloca los rollitos con el cierre hacia abajo en una bandeja con papel de horno, píntalos con la otra cucharadita de aceite de ajo y ásalos 10-12 minutos en la parte alta, girándolos a media cocción, hasta que la hoja esté tostada y desprenda olor ahumado.",
-    "Mientras, hidrata los fideos en agua hirviendo 6-8 minutos, pásalos por agua fría y escúrrelos bien. Prepara el nước chấm: disuelve el resto del azúcar en 4 cucharadas de agua tibia y añade el resto de la salsa de pescado y el zumo de una lima y media.",
-    "Pica los cacahuetes. Sirve los rollitos con los fideos, hojas de lechuga, menta y cilantro, y el nước chấm en cuencos: se envuelve un rollito con fideos y hierbas en una hoja de lechuga y se moja. Termina con los cacahuetes."
+    "Enciende el grill del horno a 230 °C. Coloca una hoja con el envés hacia arriba, pon una cucharada colmada de carne en forma de cilindro cerca del tallo, dobla los lados hacia dentro y enrolla apretando. Repite hasta tener 16 rollitos.",
+    "Coloca los rollitos con el cierre hacia abajo en una bandeja con papel de horno, píntalos con la otra cucharadita de aceite de ajo y ásalos 10-12 minutos en la parte alta, girándolos a media cocción, hasta que la hoja esté tostada y desprenda olor ahumado.",
+    "Mientras, hidrata los fideos en agua hirviendo 6-8 minutos, pásalos por agua fría y escúrrelos bien. Prepara el nước chấm: disuelve el resto del azúcar en 4 cucharadas de agua tibia y añade el resto de la salsa de pescado y el zumo de una lima y media. Pica los cacahuetes.",
+    "Sirve los rollitos con los fideos, hojas de lechuga, menta y cilantro, y el nước chấm en cuencos: se envuelve un rollito con fideos y hierbas en una hoja de lechuga y se moja. Termina con los cacahuetes."
   ],
   nutricion: { kcal: 575, prot: 39, hc: 61, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "poco especiada"],
@@ -981,7 +981,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 150 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Pela la patata y córtala en dados de 2 cm, la zanahoria en rodajas al bies y las judías en trozos de 4 cm. Cuece la patata en agua con sal 6 minutos, añade la zanahoria y las judías y cuece 6-7 minutos más, hasta que todo esté tierno. Escurre.",
+    "Pela la patata y córtala en dados de 2 cm, la zanahoria en rodajas al bies y las judías en trozos de 4 cm. Cuece la patata en agua con sal 6 minutos, añade la zanahoria y las judías y cuece 6-7 minutos más, hasta que todo esté tierno; mientras, pela y pica el tomate y corta la cebolleta en aros. Escurre.",
     "Cuece los huevos 6 minutos y medio en agua hirviendo, pásalos a agua muy fría y pélalos con cuidado: la clara debe estar cuajada y la yema, cremosa.",
     "Haz la salsa bistik: calienta el aceite de ajo en una sartén a fuego medio y rehoga el tomate pelado y picado 4 minutos, aplastándolo, hasta que se deshaga. Añade el tamari, el azúcar de palma, la nuez moscada, pimienta y 150 ml de agua y hierve 3 minutos.",
     "Disuelve la maicena en 1 cucharada de agua fría, añádela y cuece 1 minuto, removiendo, hasta que la salsa brille y nape la cuchara.",

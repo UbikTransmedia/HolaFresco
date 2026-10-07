@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas con piel y las zanahorias enteras en una cazuela con agua fría y sal y cuécelas 20–25 minutos desde que hierva, hasta que un cuchillo las atraviese sin resistencia. En un cazo aparte, cuece los huevos 10 minutos y enfríalos en agua fría. Escurre las patatas y las zanahorias y deja que se enfríen del todo, unos 20 minutos: ralladas en caliente se convierten en puré.",
-    "Pica la cebolla muy fina, ponla en un colador y vierte por encima agua hirviendo; escúrrela bien. Así pierde el picor y no domina las capas.",
+    "Mientras se cuecen y se enfrían, pica la cebolla muy fina, ponla en un colador y vierte por encima agua hirviendo; escúrrela bien. Así pierde el picor y no domina las capas.",
     "Mezcla la mayonesa con la nata agria, una pizca de sal y pimienta. Escurre el salmón, quita la piel y las espinas grandes y desmenúzalo con un tenedor.",
     "Pela los huevos y separa las claras de las yemas. Pela las patatas y las zanahorias y rállalas con el rallador grueso, cada cosa en su plato; ralla también las claras.",
     "Monta en una fuente de cristal o dentro de un aro de 15 cm, sin apretar: la mitad de la patata, una capa fina de salsa, todo el salmón y la cebolla, el resto de la patata y otra capa de salsa, la zanahoria con un poco de sal y salsa, y por último las claras y el resto de la salsa, bien extendida.",
@@ -86,7 +86,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la ternera en una cazuela, cúbrela con agua fría y llévala a ebullición. Retira la espuma gris que sube, añade el laurel, unos granos de pimienta y sal, baja el fuego al mínimo y cuécela 1 hora y media, hasta que se deje pinchar sin resistencia. Apaga el fuego y déjala templar 15 minutos dentro del caldo, así queda jugosa (el caldo te sirve para una sopa).",
-    "Mientras, corta la zanahoria en juliana fina y la cebolla en medias lunas finas.",
+    "Mientras, corta la zanahoria en juliana fina y la cebolla en medias lunas finas, y pica el perejil.",
     "Calienta el aceite de girasol en una sartén a fuego medio y sofríe la cebolla 8 minutos, removiendo de vez en cuando, hasta que tome color. Añade la zanahoria y sigue 6–8 minutos, hasta que esté tierna y algo tostada por los bordes. Sala, pásalo todo a un plato con papel de cocina y deja que se enfríe del todo: si está caliente, corta la salsa.",
     "Tuesta las nueces 3 minutos en una sartén seca y pícalas grueso. Corta los pepinillos en tiras finas y escúrrelos bien.",
     "Saca la carne del caldo, sécala y córtala en bastones finos, siempre en contra de la fibra para que quede tierna.",
@@ -263,10 +263,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el diente de león en varias aguas frías hasta que no quede tierra en el fondo, quita los tallos duros y sécalo bien en una centrifugadora o con un paño.",
     "Cuece las patatas con piel en agua con sal 20–25 minutos, hasta que estén tiernas. En otro cazo, cuece los huevos 10 minutos y enfríalos en agua fría.",
-    "Mientras, pon la panceta en una sartén fría, sin aceite, y cocínala a fuego medio 8–10 minutos, hasta que esté crujiente y haya soltado su grasa.",
+    "Mientras, pon la panceta en una sartén fría, sin aceite, y cocínala a fuego medio 8–10 minutos, hasta que esté crujiente y haya soltado su grasa. Pela los huevos, machaca el ajo y corta la cebolleta en rodajas finas.",
     "Pela las patatas aún calientes, córtalas en rodajas gruesas y alíñalas en un bol con el vinagre, el ajo machacado y sal. En caliente absorben el aliño y quedan sabrosas por dentro.",
-    "En una ensaladera mezcla el diente de león, la cebolleta en rodajas finas, las patatas tibias, el aceite de pepitas de calabaza y pimienta.",
-    "Reparte los huevos pelados en cuartos. Calienta de nuevo la panceta en su sartén 1 minuto y viértela por encima con una cucharada de su grasa bien caliente, para que las hojas se ablanden un poco. Sirve enseguida."
+    "En una ensaladera mezcla el diente de león, la cebolleta, las patatas tibias, el aceite de pepitas de calabaza y pimienta.",
+    "Reparte los huevos en cuartos. Calienta de nuevo la panceta en su sartén 1 minuto y viértela por encima con una cucharada de su grasa bien caliente, para que las hojas se ablanden un poco. Sirve enseguida."
   ],
   nutricion: { kcal: 600, prot: 24, hc: 40, grasa: 38 },
   etiquetas: ["tradicional", "primavera", "sin gluten", "económica", "poco especiada"],
@@ -355,7 +355,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C con calor arriba y abajo. Pon los pimientos enteros en una bandeja forrada con papel y ásalos en la parte alta del horno 30–35 minutos, dándoles la vuelta a mitad, hasta que la piel esté ampollada y negra en algunas zonas y la carne blanda.",
     "Mientras, prepara la proja: mezcla en un bol la harina de maíz, la levadura y una pizca de sal. Añade el huevo batido, el yogur, 1 cucharada de aceite y el agua, y remueve hasta tener una masa espesa, como la de un bizcocho. Incorpora un tercio del queso desmenuzado.",
     "Vierte la masa en un molde pequeño (unos 20 x 15 cm) untado con aceite y hornéala en la parte baja del horno, debajo de los pimientos, 25 minutos, hasta que esté dorada por encima y un palillo salga limpio.",
-    "Saca los pimientos, mételos en un bol, tápalo con un plato y déjalos sudar 10 minutos: así la piel se suelta sola.",
+    "Saca los pimientos, mételos en un bol, tápalo con un plato y déjalos sudar 10 minutos: así la piel se suelta sola. Mientras, pica el perejil.",
     "Pela los pimientos y quítales las semillas sin pasarlos por el grifo, para no perder sabor. Córtalos en tiras anchas y guarda el jugo que suelten.",
     "Machaca el ajo con una pizca de sal y mézclalo con el vinagre, el resto del aceite, el jugo de los pimientos y pimienta. Riega los pimientos con este aliño, añade el perejil picado y deja reposar 10 minutos.",
     "Sirve los pimientos con el resto del queso desmenuzado por encima, una cucharada de kajmak y la proja templada cortada en cuadrados."
@@ -399,8 +399,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría y pélalos.",
-    "Lamina los champiñones. Calienta 1 cucharada de aceite en una sartén a fuego fuerte y saltéalos 5–6 minutos, hasta que estén dorados y no quede agua en la sartén. Sala y déjalos templar.",
-    "Corta los tomates en dados grandes, el pepino en medias lunas (pelado a rayas), el pimiento asado en tiras, la cebolleta en rodajas finas y el jamón en tiras.",
+    "Mientras, lamina los champiñones. Calienta 1 cucharada de aceite en una sartén a fuego fuerte y saltéalos 5–6 minutos, hasta que estén dorados y no quede agua en la sartén. Sala y déjalos templar.",
+    "Corta los tomates en dados grandes, el pepino en medias lunas (pelado a rayas), el pimiento asado en tiras, la cebolleta en rodajas finas y el jamón en tiras. Pica el perejil.",
     "Reúne todo en una fuente con los champiñones, aliña con el resto del aceite, el vinagre y una pizca de sal (poca: los quesos ya son salados) y mezcla.",
     "Desmenuza el queso feta muy fino con los dedos (o rállalo si está bien frío) por encima, cubriendo la ensalada como si fuera nieve, y ralla después el queso de oveja semicurado.",
     "Corona con los huevos en cuartos, las aceitunas y el perejil picado, y sirve enseguida."
@@ -533,7 +533,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 9 minutos desde que hierva el agua, enfríalos en agua fría, pélalos y córtalos en dados.",
-    "Abre los tubos de calamar en libro, sécalos muy bien con papel y haz cortes en rombo en la cara interior, sin llegar a atravesarlos. Córtalos en rectángulos de unos 4 cm.",
+    "Mientras se cuecen los huevos, abre los tubos de calamar en libro, sécalos muy bien con papel y haz cortes en rombo en la cara interior, sin llegar a atravesarlos. Córtalos en rectángulos de unos 4 cm.",
     "Prepara la salsa: mezcla la nata agria con la mayonesa, la ralladura y el zumo de medio limón, el ajo rallado, la mitad del eneldo picado, sal y pimienta.",
     "Corta el pepino en medias lunas finas (quítale las semillas si tiene muchas) y la cebolleta en rodajas finas.",
     "Calienta el aceite en una sartén a fuego máximo y, cuando empiece a humear, marca el calamar en tandas, sin amontonarlo, 1 minuto por lado: se enrosca y se vuelve blanco opaco. Sálalo al sacarlo. Ni un minuto más, o se pone duro.",
@@ -626,8 +626,8 @@ window.RECETAS_SEED.push({
     "Mientras, pon las ciruelas en agua caliente 10 minutos para que se hidraten y córtalas en tiras.",
     "Tuesta el trigo sarraceno en un cazo seco a fuego medio 2 minutos, hasta que huela a nuez. Añade el agua y una pizca de sal, tapa y cuécelo a fuego mínimo 12–15 minutos, hasta que absorba el agua. Déjalo 5 minutos tapado fuera del fuego y suéltalo con un tenedor.",
     "Tuesta las nueces 3 minutos en una sartén seca y pícalas grueso.",
-    "Bate el aceite con el vinagre, el ajo rallado, el rábano picante, sal y pimienta.",
-    "Pela las remolachas (con guantes, si no quieres teñirte las manos) y córtalas en dados de 2 cm. Mézclalas aún templadas con las judías blancas, la cebolla en pluma fina, las ciruelas y la mitad del aliño.",
+    "Bate el aceite con el vinagre, el ajo rallado, el rábano picante, sal y pimienta. Corta la cebolla en pluma fina y pica el eneldo.",
+    "Pela las remolachas (con guantes, si no quieres teñirte las manos) y córtalas en dados de 2 cm. Mézclalas aún templadas con las judías blancas, la cebolla, las ciruelas y la mitad del aliño.",
     "Monta los boles con el trigo sarraceno, los canónigos y la mezcla de remolacha, y termina con las nueces, el eneldo picado y el resto del aliño."
   ],
   nutricion: { kcal: 675, prot: 21, hc: 89, grasa: 26 },
@@ -671,12 +671,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el cerdo en dados de 3 cm. Ralla media cebolla y mézclala con el pimentón, la ajedrea, la mitad del aceite, el vinagre y pimienta (la sal, al final). Embadurna la carne y déjala marinar 30 minutos en la nevera o hasta la noche.",
-    "Prepara la snezhanka: ralla el pepino con piel, sálalo y déjalo escurrir 10 minutos en un colador; apriétalo con las manos para sacar el agua. Mézclalo con el yogur, el ajo machacado, la mitad del eneldo picado, la mitad de las nueces picadas, un chorrito de aceite y sal.",
-    "Corta el pimiento en cuadrados de 3 cm y la otra media cebolla en gajos. Limpia los champiñones y déjalos enteros si son pequeños.",
-    "Ensarta en 4 brochetas el cerdo alternando con el pimiento, la cebolla y los champiñones. Si son de madera, remójalas antes 20 minutos para que no se quemen.",
+    "Corta el cerdo en dados de 3 cm. Ralla media cebolla y mézclala con el pimentón, la ajedrea, la mitad del aceite, el vinagre y pimienta (la sal, al final). Embadurna la carne y déjala marinar 30 minutos en la nevera o hasta la noche. Si usas brochetas de madera, ponlas en remojo.",
+    "Mientras, pica las nueces y el eneldo y prepara la snezhanka: ralla el pepino con piel, sálalo y déjalo escurrir 10 minutos en un colador; apriétalo con las manos para sacar el agua. Mézclalo con el yogur, el ajo machacado, la mitad del eneldo picado, la mitad de las nueces picadas, un chorrito de aceite y sal.",
+    "Corta el pimiento en cuadrados de 3 cm y la otra media cebolla en gajos. Limpia los champiñones y déjalos enteros si son pequeños. Corta los tomates en gajos y sálalos.",
+    "Ensarta en 4 brochetas el cerdo alternando con el pimiento, la cebolla y los champiñones.",
     "Calienta la plancha a fuego fuerte con unas gotas de aceite y cocina las brochetas 10–12 minutos, girándolas cada 3 minutos, hasta que estén doradas y la carne no tenga rosado en el centro. Sala al sacarlas. Tuesta el pan en la plancha.",
-    "Corta los tomates en gajos y sálalos.",
     "Extiende una cama de snezhanka en cada plato, añade el tomate y las brochetas, y termina con el resto de las nueces y del eneldo. Acompaña con el pan."
   ],
   nutricion: { kcal: 620, prot: 44, hc: 44, grasa: 30 },
@@ -722,7 +721,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en la cesta de la airfryer los pimientos enteros, la berenjena partida por la mitad y pinchada con un tenedor y los tomates enteros. Ásalos a 200 °C 20–25 minutos, girándolos a mitad, hasta que la piel esté arrugada y la carne blanda. Déjalos 10 minutos en un bol tapado.",
-    "Mientras, corta el cordero en tiras de 1 cm y mézclalo con 1 diente de ajo machacado, el pimentón, el comino, 1 cucharada de aceite y pimienta. Resérvalo.",
+    "Mientras, corta el cordero en tiras de 1 cm y mézclalo con 1 diente de ajo machacado, el pimentón, el comino, 1 cucharada de aceite y pimienta. Resérvalo. Pica el chile, el perejil y la menta.",
     "Pela las verduras asadas, quita las semillas de los pimientos y pica todo a cuchillo, sin triturarlo: el pindžur tiene textura. Mézclalo con otro diente de ajo machacado, el chile picado, el vinagre, el resto del aceite, la mitad del perejil picado y sal.",
     "Mezcla el yogur con el último diente de ajo rallado, la mitad de la menta picada y sal.",
     "Calienta la plancha a fuego máximo y saltea el cordero en dos tandas 2–3 minutos, removiendo poco, hasta que esté dorado por fuera y jugoso por dentro. Sálalo al final. Tuesta el pan en la misma plancha.",
@@ -810,8 +809,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos, enfríalos en agua fría, pélalos y pícalos fino.",
-    "Lleva a ebullición una cazuela de agua con sal. Cuece las judías verdes en trozos de 4 cm y la coliflor en ramilletes pequeños 5–6 minutos: deben quedar tiernas pero firmes. Escúrrelas y pásalas un instante por agua fría para fijar el color.",
+    "Cuece los huevos 10 minutos; mientras, lleva a ebullición una cazuela de agua con sal, corta las judías verdes en trozos de 4 cm y la coliflor en ramilletes pequeños. Enfría los huevos en agua fría, pélalos y pícalos fino.",
+    "Cuece las judías verdes y la coliflor en el agua hirviendo 5–6 minutos: deben quedar tiernas pero firmes. Escúrrelas y pásalas un instante por agua fría para fijar el color.",
     "Seca el bacalao y sálalo. Calienta el aceite en una sartén a fuego medio-alto y dóralo 4 minutos por el lado de la piel y 2–3 por el otro, hasta que se separe en lascas nacaradas. Sácalo a un plato.",
     "Limpia la sartén y derrite la mantequilla a fuego medio hasta que haga espuma. Añade el pan rallado y tuéstalo 2–3 minutos, removiendo sin parar, hasta que tenga color avellana y huela a tostado. Fuera del fuego, mezcla con el huevo picado, la mitad del eneldo picado, la ralladura del limón y una pizca de sal.",
     "Lamina los rábanos y aliña las verduras templadas con el zumo de medio limón, sal y pimienta.",
@@ -858,10 +857,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la cebolla morada en aros finos y ponla en un cuenco con 2 cucharadas de vinagre, el azúcar y una pizca de sal. Déjala 15 minutos: se vuelve rosa intenso y pierde el picor.",
     "Corta las patatas con piel en gajos, sécalas y mézclalas con 1 cucharada de aceite, sal y pimienta. Cocínalas en la airfryer a 200 °C 18–20 minutos, agitando la cesta cada 6 minutos, hasta que estén doradas y crujientes.",
-    "Calienta una sartén a fuego fuerte con el resto del aceite y la mantequilla y añade las setas troceadas. Déjalas 3 minutos sin tocar y luego saltéalas 3–4 minutos más, hasta que estén doradas y sin agua. Añade el ajo picado el último minuto y sala.",
-    "Mezcla la nata agria con la mitad del eneldo picado, 1 cucharada del líquido de la cebolla encurtida, sal y pimienta.",
+    "Mientras, trocea las setas y pica el ajo. Calienta una sartén a fuego fuerte con el resto del aceite y la mantequilla y añade las setas. Déjalas 3 minutos sin tocar y luego saltéalas 3–4 minutos más, hasta que estén doradas y sin agua. Añade el ajo el último minuto y sala.",
+    "Mezcla la nata agria con la mitad del eneldo picado, 1 cucharada del líquido de la cebolla encurtida, sal y pimienta. Corta los pepinillos en rodajas.",
     "Calienta agua en un cazo hasta que apenas tiemble y añade el resto del vinagre. Casca cada huevo en una taza, haz un remolino en el agua y deslízalo en el centro. Cuécelo 3 minutos, hasta que la clara esté cuajada y la yema líquida, y sácalo con una espumadera a papel de cocina. Hazlos de dos en dos.",
-    "Monta los boles con los canónigos, las patatas, las setas, los pepinillos en rodajas y la cebolla escurrida. Pon encima dos huevos por bol, la salsa y el resto del eneldo."
+    "Monta los boles con los canónigos, las patatas, las setas, los pepinillos y la cebolla escurrida. Pon encima dos huevos por bol, la salsa y el resto del eneldo."
   ],
   nutricion: { kcal: 570, prot: 21, hc: 45, grasa: 34 },
   etiquetas: ["creativa", "vegetariana", "sin gluten", "otoño", "poco especiada"],

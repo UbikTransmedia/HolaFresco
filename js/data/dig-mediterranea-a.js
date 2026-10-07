@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara el aïoli: en un bol, bate la yema con una pizca de sal y 1 cucharadita de zumo de limón. Añade el aceite de ajo en un hilo muy fino sin dejar de batir con varillas, hasta tener una salsa espesa y brillante. Resérvala en la nevera.",
     "Pela las patatas y córtalas en rodajas de 1 cm; corta la zanahoria en rodajas finas, el hinojo en láminas finas y la parte verde de la cebolleta en aros.",
-    "En una cazuela ancha, lleva el caldo a ebullición con la piel de naranja, el azafrán, la cebolleta y una pizca de sal. Añade patata, zanahoria e hinojo y cuece a fuego medio 15 minutos, hasta que la patata esté tierna pero entera.",
+    "En una cazuela ancha, lleva el caldo a ebullición con la piel de naranja, el azafrán, la cebolleta y una pizca de sal. Añade patata, zanahoria e hinojo y cuece a fuego medio 15 minutos, hasta que la patata esté tierna pero entera. Mientras, pica el perejil.",
     "Baja el fuego al mínimo para que el caldo apenas tiemble, sala el rape y sumérgelo. Escálfalo 6-7 minutos, hasta que la carne esté blanca y firme pero jugosa.",
     "Con una espumadera, pasa el pescado y las verduras a platos hondos calientes y tápalos. Retira la piel de naranja.",
     "Templa el aïoli añadiéndole, sin dejar de batir, un cucharón de caldo caliente. Viértelo en la cazuela con el fuego al mínimo y remueve sin parar 2-3 minutos, sin que llegue a hervir, hasta que el caldo espese y nape la cuchara como unas natillas. Si hierve, se corta.",
@@ -178,7 +178,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara el caldo corto: en una cazuela ancha, hierve 1,5 litros de agua con la zanahoria en rodajas, el laurel, el tomillo, el vinagre y 1 cucharada de sal durante 10 minutos.",
     "Mientras, cuece las patatas nuevas con piel en agua con sal 15-18 minutos, hasta que el cuchillo entre sin resistencia. Escúrrelas y pártelas por la mitad.",
-    "Baja el fuego hasta que el caldo corto apenas tiemble, sin burbujas, e introduce las rodajas de rodaballo. Escálfalas 8-10 minutos, hasta que la carne esté opaca y se despegue de la espina central al empujarla con un cuchillo.",
+    "Baja el fuego hasta que el caldo corto apenas tiemble, sin burbujas, e introduce las rodajas de rodaballo. Escálfalas 8-10 minutos, hasta que la carne esté opaca y se despegue de la espina central al empujarla con un cuchillo. Mientras, pica el perejil y ralla la piel de medio limón.",
     "Saltea las espinacas en una sartén con el aceite de ajo 2 minutos, hasta que mermen, y sálalas.",
     "Haz la salsa: templa el aceite de oliva en un cazo a fuego muy suave con las alcaparras 1 minuto, sin que llegue a chisporrotear. Fuera del fuego añade la ralladura y el zumo de medio limón, el perejil picado, pimienta y 1 cucharada del caldo corto, y remueve.",
     "Escurre el pescado, retírale la piel oscura con la punta de un cuchillo y sírvelo con las patatas y las espinacas, napado con la salsa tibia y con gajos del resto del limón."
@@ -221,7 +221,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Quita las semillas a los pimientos y córtalos en tiras finas; pica la parte verde de la cebolleta.",
+    "Quita las semillas a los pimientos y córtalos en tiras finas; pica la parte verde de la cebolleta y el perejil.",
     "Calienta el aceite de ajo en una cazuela ancha a fuego suave, añade los pimientos y una pizca de sal, tapa y póchalos 15 minutos, removiendo de vez en cuando, hasta que estén muy blandos y dulces.",
     "Añade la cebolleta, el enebro, el tomillo y el laurel y remueve 1 minuto. Vierte el vinagre, deja que se evapore y agrega el tomate. Cuece 12 minutos a fuego suave, hasta que la salsa espese.",
     "Mientras, pela las patatas, córtalas en trozos y cuécelas al vapor 20 minutos, hasta que estén tiernas.",
@@ -264,8 +264,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 1 cm y cuécelas en agua con sal 10-12 minutos, hasta que estén casi tiernas. Escúrrelas.",
-    "Escalda las hojas de acelga 2 minutos en agua hirviendo, enfríalas con agua fría y escúrrelas apretando con las manos hasta que no suelten agua. Pícalas finas.",
+    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 1 cm y cuécelas en agua con sal 10-12 minutos, hasta que estén casi tiernas.",
+    "Mientras, escalda las hojas de acelga 2 minutos en otra cazuela con agua hirviendo, enfríalas con agua fría y escúrrelas apretando con las manos hasta que no suelten agua. Pícalas finas y pica también la menta y el perejil. Escurre las patatas.",
     "Mezcla en un bol la acelga, la ricotta, el huevo, la menta picada (reserva unas hojas), 1 cucharada de pan rallado, la ralladura de medio limón, sal y pimienta: debe quedar una pasta untable, no líquida.",
     "Seca las sardinas con papel de cocina y sálalas ligeramente por la carne. Pon la mitad con la piel hacia abajo, reparte el relleno encima y cúbrelas con las otras, piel hacia arriba, como un bocadillo.",
     "Pinta una fuente con 1 cucharadita de aceite de ajo, extiende las patatas en una capa y coloca las sardinas encima. Espolvorea el resto del pan rallado y riega con el aceite restante.",
@@ -396,7 +396,7 @@ window.RECETAS_SEED.push({
     "Lamina el hinojo muy fino y reserva sus hojas. Ralla la piel de la naranja y exprime el zumo.",
     "En una cazuela, calienta el aceite de ajo a fuego suave, añade el hinojo con una pizca de sal, tapa y cocina 10 minutos a fuego bajo, hasta que esté tierno y translúcido, sin que llegue a dorarse.",
     "Añade el arroz y remueve 1 minuto. Vierte el caldo caliente con el azafrán desmenuzado y la mitad del zumo de naranja y cuece 18 minutos a fuego medio-bajo sin remover, hasta que el arroz esté tierno y haya absorbido el líquido. Reposa 3 minutos tapado.",
-    "Prepara el aceite de naranja mezclando el aceite de oliva con la ralladura, el resto del zumo y una pizca de sal.",
+    "Mientras se cuece el arroz, prepara el aceite de naranja mezclando el aceite de oliva con la ralladura, el resto del zumo y una pizca de sal, y pica el cebollino.",
     "Seca muy bien los filetes de salmonete y sálalos. Calienta una sartén antiadherente a fuego medio-alto con unas gotas del aceite de naranja y cocina los filetes con la piel hacia abajo 2 minutos, presionándolos al principio, hasta que la piel esté crujiente. Dales la vuelta solo 30 segundos.",
     "Sirve el arroz, coloca encima los salmonetes con la piel hacia arriba, riega con el aceite de naranja y termina con las hojas de hinojo y el cebollino picado."
   ],
@@ -434,12 +434,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Si los filetes no son muy finos, ponlos entre dos hojas de papel de horno y golpéalos con un rodillo hasta dejarlos de unos 3 mm. Salpimiéntalos.",
+    "Si los filetes no son muy finos, ponlos entre dos hojas de papel de horno y golpéalos con un rodillo hasta dejarlos de unos 3 mm. Salpimiéntalos y pica el perejil.",
     "Pon a hervir 2 litros de agua con sal en una olla cuya boca sea algo más estrecha que un plato llano. Pela las patatas y las zanahorias, córtalas en trozos de 4 cm y échalas al agua cuando hierva.",
     "Unta un plato llano resistente al calor con la mitad del aceite de ajo. Coloca los filetes en una sola capa (o en dos, con perejil entre ellas) y reparte por encima el perejil picado, la ralladura de medio limón y el resto del aceite de ajo.",
-    "Tapa con otro plato boca abajo, o con la tapa de la olla, y apoya el conjunto sobre la olla, que debe seguir hirviendo a fuego medio. Cocina 15-20 minutos sin destapar: la carne se hace en su propio vapor, queda tierna y suelta un jugo claro.",
+    "Tapa con otro plato boca abajo, o con la tapa de la olla, y apoya el conjunto sobre la olla, que debe seguir hirviendo a fuego medio. Cocina 15-20 minutos sin destapar: la carne se hace en su propio vapor, queda tierna y suelta un jugo claro. Mientras, corta el tomate en rodajas y sálalo.",
     "Comprueba que las patatas y las zanahorias están tiernas, escúrrelas y aplástalas ligeramente con un tenedor, el aceite de oliva y una pizca de sal.",
-    "Corta el tomate en rodajas y sálalo. Sirve los filetes regados con su jugo, con las patatas y las zanahorias, el tomate y gajos de limón para exprimir en la mesa."
+    "Sirve los filetes regados con su jugo, con las patatas y las zanahorias, el tomate y gajos de limón para exprimir en la mesa."
   ],
   nutricion: { kcal: 465, prot: 34, hc: 43, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "alta en proteína"],
@@ -523,11 +523,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien el conejo, salpimiéntalo y frótalo con la mitad de la ajedrea. Déjalo 15 minutos a temperatura ambiente (o toda la noche en la nevera, tapado).",
+    "Seca bien el conejo, salpimiéntalo y frótalo con la mitad de la ajedrea. Déjalo 15 minutos a temperatura ambiente (o toda la noche en la nevera, tapado). Mientras, pica la parte verde de la cebolleta.",
     "Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora el conejo 6-8 minutos, dándole la vuelta, hasta que esté dorado por todos lados. Resérvalo.",
-    "Baja el fuego, rehoga la cebolleta picada 1 minuto y añade el tomate. Cocínalo 5 minutos, hasta que se deshaga, y desglasa con el vinagre rascando el fondo con una cuchara de madera.",
-    "Devuelve el conejo con su jugo, vierte el caldo y añade el resto de la ajedrea, el tomillo y el laurel. Lleva a un hervor suave, tapa y cuece 30 minutos a fuego bajo.",
-    "Añade la zanahoria en rodajas y las patatas en trozos de 3 cm, tapa y cuece 25 minutos más, hasta que estén tiernas. Destapa los últimos 5 minutos para que la salsa reduzca y nape.",
+    "Baja el fuego, rehoga la cebolleta 1 minuto y añade el tomate. Cocínalo 5 minutos, hasta que se deshaga, y desglasa con el vinagre rascando el fondo con una cuchara de madera.",
+    "Devuelve el conejo con su jugo, vierte el caldo y añade el resto de la ajedrea, el tomillo y el laurel. Lleva a un hervor suave, tapa y cuece 30 minutos a fuego bajo. Mientras, pela la zanahoria y córtala en rodajas, y pela las patatas y córtalas en trozos de 3 cm.",
+    "Añade la zanahoria y las patatas, tapa y cuece 25 minutos más, hasta que estén tiernas. Destapa los últimos 5 minutos para que la salsa reduzca y nape.",
     "Retira el laurel y las ramas de tomillo, prueba de sal y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 490, prot: 41, hc: 35, grasa: 20 },
@@ -567,12 +567,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon los filetes entre dos hojas de papel de horno y golpéalos con un rodillo hasta dejarlos de 3 mm, sin romperlos. Salpimiéntalos.",
+    "Pon los filetes entre dos hojas de papel de horno y golpéalos con un rodillo hasta dejarlos de 3 mm, sin romperlos. Salpimiéntalos. Ralla fina la zanahoria.",
     "Prepara el relleno: pica el huevo cocido y mézclalo con el pan rallado, el parmesano, la mitad del perejil picado y 1 cucharadita de aceite de ajo. Debe quedar una pasta húmeda que se compacte al apretarla.",
     "Reparte el relleno en un extremo de cada filete, dobla los laterales hacia dentro y enrolla apretando. Cierra cada rollito con un palillo o hilo de cocina.",
     "Dora los rollitos en una cazuela con el resto del aceite a fuego medio 5 minutos, girándolos, hasta que estén dorados por todos lados.",
-    "Ralla fina la zanahoria y añádela con el tomate, el caldo y el laurel: se deshará en la salsa y la endulzará. Lleva a un hervor suave, tapa y cuece 30 minutos.",
-    "Añade las patatas en dados grandes y cuece 20-25 minutos más, girando los rollitos a media cocción, hasta que la patata esté tierna y la salsa espesa.",
+    "Añade la zanahoria rallada con el tomate, el caldo y el laurel: se deshará en la salsa y la endulzará. Lleva a un hervor suave, tapa y cuece 30 minutos. Mientras, pela las patatas y córtalas en dados grandes.",
+    "Añade las patatas y cuece 20-25 minutos más, girando los rollitos a media cocción, hasta que la patata esté tierna y la salsa espesa.",
     "Retira palillos o hilo y sirve los bragioli enteros con su salsa, las patatas y el resto del perejil."
   ],
   nutricion: { kcal: 512, prot: 39, hc: 44, grasa: 20 },
@@ -701,7 +701,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Machaca las semillas de hinojo en un mortero. Corta cada contramuslo en dos y mézclalos en un bol con las semillas, el azafrán desmenuzado, la piel de naranja, 1 cucharada de aceite de ajo, sal y pimienta. Marina al menos 30 minutos (mejor 2 horas en la nevera).",
-    "Lamina el hinojo fino y reserva sus hojas. Pela las patatas y córtalas en rodajas de 1,5 cm.",
+    "Mientras se marina, lamina el hinojo fino y reserva sus hojas. Pela las patatas y córtalas en rodajas de 1,5 cm.",
     "Calienta el resto del aceite de ajo en una cazuela a fuego medio-alto, escurre el pollo de la marinada (guárdala) y dóralo 5 minutos, hasta que tenga color por ambos lados.",
     "Añade el hinojo y el tomate y rehoga 4 minutos a fuego medio. Incorpora las patatas, la marinada con la piel de naranja, el anís estrellado, el tomillo y el caldo caliente: el líquido debe cubrir las patatas a medias.",
     "Tapa y cuece a fuego suave 25-30 minutos, moviendo la cazuela de vez en cuando, hasta que las patatas estén tiernas y el caldo se haya teñido de amarillo y espesado un poco con su almidón.",
@@ -742,8 +742,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pavo en una cazuela con 1 litro de agua, la zanahoria en trozos, el laurel y sal. Lleva a ebullición, retira la espuma y cuece a fuego suave 35 minutos, hasta que la carne esté tierna. Saca el pavo y cuela el caldo; necesitarás unos 400 ml.",
-    "Precalienta el horno a 200 °C. Coloca el pavo en una fuente, úntalo con el aceite de ajo, salpimiéntalo y hornéalo 20 minutos, dándole la vuelta a mitad, hasta que esté dorado.",
+    "Pon el pavo en una cazuela con 1 litro de agua, la zanahoria en trozos, el laurel y sal. Lleva a ebullición, retira la espuma y cuece a fuego suave 35 minutos, hasta que la carne esté tierna. Saca el pavo y cuela el caldo; necesitarás unos 400 ml. Cuando falten 15 minutos, precalienta el horno a 200 °C.",
+    "Coloca el pavo en una fuente, úntalo con el aceite de ajo, salpimiéntalo y hornéalo 20 minutos, dándole la vuelta a mitad, hasta que esté dorado.",
     "Mientras, corta el pan en dados y tuéstalo en una sartén sin aceite 4-5 minutos, hasta que esté seco y ligeramente dorado.",
     "Pon el pan en una fuente de horno pequeña, vierte el caldo caliente poco a poco, removiendo, hasta que el pan se empape y quede como una papilla espesa. Añade la cebolleta picada, rocía con el aceite de oliva y alisa la superficie.",
     "Hornea el përshesh 15-20 minutos, junto al pavo los últimos minutos, hasta que la superficie esté dorada y crujiente y el interior siga jugoso.",
@@ -788,9 +788,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escalda las aceitunas 2 minutos en agua hirviendo y escúrrelas: pierden el exceso de sal y el amargor. Pela las patatas, trocéalas y ponlas a cocer en agua con sal 18-20 minutos.",
+    "Escalda las aceitunas 2 minutos en agua hirviendo y escúrrelas: pierden el exceso de sal y el amargor. Pela las patatas, trocéalas y ponlas a cocer en agua con sal 18-20 minutos. Pela la zanahoria y córtala en rodajas finas.",
     "Seca las pechugas, salpimiéntalas y dóralas en una sartén honda con el aceite de ajo a fuego medio-alto 3 minutos por cada lado. Resérvalas en un plato.",
-    "En la misma sartén, rehoga la zanahoria en rodajas finas 3 minutos. Añade el tomate concentrado y remueve 30 segundos; desglasa con el vinagre y vierte el caldo, rascando el fondo.",
+    "En la misma sartén, rehoga la zanahoria 3 minutos. Añade el tomate concentrado y remueve 30 segundos; desglasa con el vinagre y vierte el caldo, rascando el fondo.",
     "Añade la piel de naranja, el tomillo y el laurel y cuece a fuego suave 12-15 minutos, hasta que la zanahoria esté tierna y el caldo se haya reducido a la mitad.",
     "Incorpora las aceitunas y las pechugas con su jugo y cuece 5-6 minutos a fuego suave, dándoles la vuelta, hasta que estén hechas pero jugosas. Liga la salsa con la maicena disuelta en 1 cucharada de agua fría y cuece 1 minuto, hasta que brille.",
     "Escurre las patatas y aplástalas con el aceite de oliva, un poco de su agua de cocción y sal hasta tener un puré. Corta el pato en lonchas y sírvelo con la salsa, las zanahorias, las aceitunas y el puré."
@@ -1003,11 +1003,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el calabacín en dados de 1 cm y rehógalo en una sartén con 1 cucharadita de aceite de ajo a fuego medio 6-8 minutos, hasta que esté tierno y sin tomar color. Sálalo.",
-    "Pon agua a calentar en una cazuela y coloca encima un bol resistente al calor que no toque el agua; el agua debe hervir muy suavemente.",
+    "Pon agua a calentar en una cazuela y coloca encima un bol resistente al calor que no toque el agua; el agua debe hervir muy suavemente. Mientras se calienta, tuesta el pan y aliña los canónigos con el aceite de oliva, sal y el cebollino picado.",
     "Bate los huevos en el bol con el resto del aceite de ajo y una pizca de sal. Remueve sin parar con una espátula de silicona, rascando el fondo y las paredes: en 6-10 minutos se formarán grumos muy finos y cremosos. Retira el bol del calor cuando aún parezca un poco líquido, porque sigue cuajando.",
     "Incorpora el calabacín, el parmesano y la albahaca rasgada y mezcla con suavidad.",
-    "Mientras, tuesta el pan y aliña los canónigos con el aceite de oliva, sal y el cebollino picado.",
-    "Sirve la brouillade enseguida, sobre las tostas o al lado, con pimienta recién molida y la ensalada."
+        "Sirve la brouillade enseguida, sobre las tostas o al lado, con pimienta recién molida y la ensalada."
   ],
   nutricion: { kcal: 370, prot: 18, hc: 25, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "rápida", "para niños"],

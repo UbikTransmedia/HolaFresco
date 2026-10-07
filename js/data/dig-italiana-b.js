@@ -166,8 +166,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos. Añade las judías verdes despuntadas y cuece todo 10 minutos más, hasta que las patatas se deshagan y las judías estén muy tiernas. Escurre bien y deja que suelten el vapor 5 minutos.",
-    "Precalienta el horno a 190 °C. Pasa las patatas por el pasapurés a un bol y pica las judías finas con el cuchillo.",
+    "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 15 minutos. Añade las judías verdes despuntadas y cuece todo 10 minutos más, hasta que las patatas se deshagan y las judías estén muy tiernas. Mientras, precalienta el horno a 190 °C. Escurre bien y deja que suelten el vapor 5 minutos.",
+    "Pasa las patatas por el pasapurés a un bol y pica las judías finas con el cuchillo.",
     "Mezcla el puré con las judías, los huevos batidos, el parmesano, las hojas de mejorana picadas, el aceite de ajo, la nuez moscada, sal y pimienta, hasta tener una masa homogénea y blanda.",
     "Unta una fuente de unos 20 × 15 cm con 1 cucharadita de aceite de oliva y espolvorea la mitad del pan rallado. Extiende la masa en una capa de 3 cm, alísala con el dorso de un tenedor dibujando surcos y cubre con el resto del pan rallado.",
     "Riega con otra cucharadita de aceite y hornea 30-35 minutos, hasta que la superficie esté dorada y los bordes se despeguen de la fuente.",
@@ -294,10 +294,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño, ponle un peso encima (una sartén) y déjalo 10 minutos para que suelte el agua; así se dora en vez de cocerse.",
+    "Precalienta el horno a 210 °C. Envuelve el tofu en un paño, ponle un peso encima (una sartén) y déjalo 10 minutos para que suelte el agua; así se dora en vez de cocerse.",
     "Machaca las semillas de hinojo en el mortero y mézclalas con el aceite de ajo, las hojas de una rama de romero y la salvia muy picadas, la ralladura del limón, sal y un poco de pimienta. Corta el tofu en 4 lonchas gruesas y úntalas bien con este adobo. Déjalas reposar mientras asas las patatas.",
-    "Precalienta el horno a 210 °C. Corta las patatas en gajos, mézclalas en la bandeja con el aceite de oliva, sal y la otra rama de romero, y hornea 15 minutos.",
-    "Corta el hinojo en láminas finas. Saca la bandeja, aparta las patatas a los lados y coloca en el centro el hinojo y encima las lonchas de tofu con todo el adobo.",
+    "Corta las patatas en gajos, mézclalas en la bandeja con el aceite de oliva, sal y la otra rama de romero, y hornea 15 minutos.",
+    "Mientras, corta el hinojo en láminas finas. Pasados los 15 minutos, saca la bandeja, aparta las patatas a los lados y coloca en el centro el hinojo y encima las lonchas de tofu con todo el adobo.",
     "Hornea 25 minutos más, dando la vuelta al tofu a mitad, hasta que esté dorado con los bordes crujientes y las patatas tiernas por dentro y tostadas por fuera.",
     "Aliña la rúcula con unas gotas de zumo de limón y una pizca de sal y sírvela junto al tofu, las patatas y el hinojo."
   ],
@@ -338,11 +338,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tempeh en dados de 2 cm y cuécelo al vapor (o en agua hirviendo) 10 minutos: le quita el punto amargo y lo vuelve más tierno y digestivo. Escúrrelo y sécalo.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora el tempeh 5 minutos, moviéndolo solo de vez en cuando, hasta que tenga las caras tostadas. Añade el verde de la cebolleta picado y remueve 1 minuto.",
-    "Incorpora la patata y la zanahoria cortadas en dados de 2 cm, el tomate triturado, el romero y el laurel. Rehoga 2 minutos.",
-    "Vierte el caldo, sala y lleva a ebullición. Baja el fuego, tapa y cuece 20–25 minutos, hasta que la patata esté tierna y la salsa haya espesado con su almidón.",
-    "Añade las aceitunas en los últimos 5 minutos. Retira el romero y el laurel, prueba de sal y termina con perejil picado y un poco de pimienta."
+    "Corta el tempeh en dados de 2 cm y cuécelo al vapor (o en agua hirviendo) 10 minutos: le quita el punto amargo y lo vuelve más tierno y digestivo. Mientras, pela la patata y la zanahoria y córtalas en dados de 2 cm, y pica el verde de la cebolleta. Escurre el tempeh y sécalo.",
+    "Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora el tempeh 5 minutos, moviéndolo solo de vez en cuando, hasta que tenga las caras tostadas. Añade la cebolleta y remueve 1 minuto.",
+    "Incorpora la patata y la zanahoria, el tomate triturado, el romero y el laurel. Rehoga 2 minutos.",
+    "Vierte el caldo, sala y lleva a ebullición. Baja el fuego, tapa y cuece 20–25 minutos, hasta que la patata esté tierna y la salsa haya espesado con su almidón. Mientras, pica el perejil.",
+    "Añade las aceitunas en los últimos 5 minutos. Retira el romero y el laurel, prueba de sal y termina con el perejil y un poco de pimienta."
   ],
   nutricion: { kcal: 460, prot: 26, hc: 44, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "poco especiada", "batch cooking", "una sola olla", "invierno"],
@@ -633,10 +633,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en dados de 3 cm, ponla en una bandeja con papel, tápala con papel de aluminio y ásala 30–35 minutos, hasta que esté muy tierna. Asarla en seco, sin agua, es la clave: cuanta menos humedad, menos harina pedirá la masa.",
-    "Aplástala con un tenedor o pásala por el pasapurés hasta tener un puré fino y déjala templar extendida en el bol para que suelte el vapor.",
+    "Aplástala con un tenedor o pásala por el pasapurés hasta tener un puré fino y déjala templar extendida en el bol para que suelte el vapor. Mientras, pon a hervir una olla con agua abundante y sal.",
     "Mezcla el puré con el huevo, 25 g de parmesano, la nuez moscada y sal. Añade la harina de arroz poco a poco hasta tener una masa blanda que no se pegue a las manos enharinadas (puede pedir 10–20 g más o menos según la calabaza).",
     "Sobre la mesa enharinada, forma cilindros de 2 cm de grosor y córtalos en trozos de 2 cm. Márcalos con un tenedor si quieres y déjalos separados en una bandeja enharinada.",
-    "Cuécelos por tandas en agua abundante con sal a hervor suave. Cuando suban a la superficie, déjalos 1 minuto más y sácalos con una espumadera: los de harina de arroz son delicados y no conviene volcarlos en un colador.",
+    "Cuécelos por tandas en el agua con sal, a hervor suave. Cuando suban a la superficie, déjalos 1 minuto más y sácalos con una espumadera: los de harina de arroz son delicados y no conviene volcarlos en un colador.",
     "Mientras, funde la mantequilla a fuego suave con las hojas de salvia hasta que espume, se vuelva color avellana y la salvia quede crujiente, sin que llegue a quemarse.",
     "Pasa los ñoquis a la sartén con una cucharada de su agua de cocción y muévelos con suavidad para que se cubran. Sirve con el resto del parmesano."
   ],
@@ -675,11 +675,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua abundante con sal y cuece los penne el tiempo del envase menos 1 minuto. La pasta sin gluten se pasa enseguida: pruébala antes de escurrir y guarda un vaso del agua de cocción.",
-    "Mientras, corta el salmón en dados de 2 cm y sálalo ligeramente.",
+    "Mientras, corta el salmón en dados de 2 cm y sálalo ligeramente. Pica el cebollino y el perejil.",
     "Calienta el aceite de ajo en una sartén amplia a fuego medio-alto y marca el salmón 1–2 minutos, solo hasta que cambie de color por fuera. Sácalo a un plato: terminará de hacerse en la salsa.",
     "En la misma sartén añade el tomate triturado y cuece 5 minutos, hasta que pierda el sabor a crudo. Incorpora la nata y deja que dé un hervor suave hasta que la salsa tome un color rosado.",
     "Añade los penne escurridos, el salmón con su jugo y un chorrito del agua de cocción. Mezcla 1 minuto a fuego suave con cuidado de no romper el pescado, hasta que la salsa envuelva la pasta.",
-    "Fuera del fuego, termina con el cebollino y el perejil picados, un poco de ralladura de limón y pimienta."
+    "Fuera del fuego, termina con el cebollino y el perejil, un poco de ralladura de limón y pimienta."
   ],
   nutricion: { kcal: 567, prot: 23, hc: 66, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "rápida"],
@@ -719,10 +719,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta el pan rallado con 1 cucharadita de aceite de oliva en una sartén a fuego medio 3–4 minutos, removiendo, hasta que esté dorado y huela a tostado. Resérvalo en un plato.",
-    "Pela el pimiento con un pelador de verduras y córtalo en tiras finas. Corta la berenjena en dados de 1,5 cm y los tomates cherry por la mitad.",
+    "Pela el pimiento con un pelador de verduras y córtalo en tiras finas. Corta la berenjena en dados de 1,5 cm y los tomates cherry por la mitad. Pon a calentar agua abundante con sal para la pasta.",
     "Calienta el aceite de ajo en la misma sartén a fuego suave y añade las anchoas; muévelas con una cuchara 1 minuto hasta que se deshagan.",
     "Sube a fuego medio, añade el pimiento, la berenjena, la otra cucharadita de aceite de oliva, una pizca de sal y 3 cucharadas de agua. Tapa y cocina 12 minutos, removiendo de vez en cuando, hasta que todo esté muy tierno y la berenjena cremosa. Incorpora los tomates, las aceitunas y las alcaparras y cuece 5 minutos más, hasta que el tomate suelte su jugo.",
-    "Mientras, cuece los espaguetis en agua abundante con sal el tiempo del envase menos 1 minuto y guarda un vaso del agua de cocción.",
+    "Mientras, cuece los espaguetis en el agua hirviendo el tiempo del envase menos 1 minuto y guarda un vaso del agua de cocción.",
     "Pasa los espaguetis a la sartén con un chorrito de agua de cocción y saltea 1 minuto hasta que la salsa los envuelva. Fuera del fuego añade la albahaca rota y el pecorino.",
     "Sirve con el pan rallado tostado por encima en el último momento, para que cruja."
   ],
@@ -760,11 +760,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava muy bien la quinoa en un colador fino bajo el grifo hasta que el agua salga sin espuma. Calienta el caldo.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio, añade el verde de la cebolleta picado y la quinoa escurrida y tuéstala 2 minutos, removiendo, hasta que huela a fruto seco.",
-    "Añade el caldo caliente en tres veces, como en un risotto, removiendo de vez en cuando y esperando a que se absorba antes de la siguiente tanda. En 15–17 minutos la quinoa estará tierna y habrá soltado el germen en espiral.",
+    "Lava muy bien la quinoa en un colador fino bajo el grifo hasta que el agua salga sin espuma. Calienta el caldo y pica el verde de la cebolleta.",
+    "Calienta el aceite de ajo en una cazuela a fuego medio, añade la cebolleta y la quinoa escurrida y tuéstala 2 minutos, removiendo, hasta que huela a fruto seco.",
+    "Añade el caldo caliente en tres veces, como en un risotto, removiendo de vez en cuando y esperando a que se absorba antes de la siguiente tanda. En 15–17 minutos la quinoa estará tierna y habrá soltado el germen en espiral. Mientras, pon un cazo con agua a calentar para los huevos.",
     "Mientras, pica las espinacas en tiras. Añádelas al final con la ralladura del limón y remueve 2 minutos hasta que se reduzcan. Fuera del fuego incorpora el parmesano y 1 cucharada de zumo de limón y bate para que quede cremoso; ajusta de sal y pimienta.",
-    "Escalfa los huevos: lleva un cazo de agua a hervor muy suave, crea un remolino con una cuchara y desliza cada huevo, cascado antes en una taza. Cuécelos 3 minutos, hasta que la clara esté cuajada y la yema líquida, y sácalos con una espumadera.",
+    "Escalfa los huevos: lleva el cazo de agua a hervor muy suave, crea un remolino con una cuchara y desliza cada huevo, cascado antes en una taza. Cuécelos 3 minutos, hasta que la clara esté cuajada y la yema líquida, y sácalos con una espumadera.",
     "Sirve el quinotto con el huevo encima y un poco de pimienta."
   ],
   nutricion: { kcal: 485, prot: 25, hc: 45, grasa: 21 },
@@ -847,7 +847,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Separa con cuidado 12 hojas grandes de la lechuga, sin romperlas. Escáldalas por tandas 10 segundos en agua hirviendo con sal, solo hasta que se ablanden, pásalas a agua fría y extiéndelas sobre un paño para que se sequen. Recorta un poco el nervio de la base si es grueso.",
-    "Desmiga la rebanada de pan sin corteza en un bol, cúbrela con la leche y, al cabo de 5 minutos, aplástala con un tenedor hasta hacer una pasta.",
+    "Desmiga la rebanada de pan sin corteza en un bol, cúbrela con la leche y, al cabo de 5 minutos, aplástala con un tenedor hasta hacer una pasta. Mientras se remoja, pon el caldo a calentar en una cazuela ancha.",
     "Añade la ternera, el huevo, 25 g de parmesano, las hojas de mejorana picadas, la nuez moscada, sal y pimienta, y mezcla con las manos hasta tener una pasta homogénea.",
     "Pon una cucharada colmada de relleno en la base de cada hoja, dobla los lados hacia dentro y enróllala como un paquetito apretado. Si alguno se abre, átalo con hilo de cocina o sujétalo con un palillo.",
     "Lleva el caldo a ebullición en una cazuela ancha, baja el fuego para que apenas tiemble y coloca los paquetitos en una sola capa, con el cierre hacia abajo. Cuécelos 15 minutos sin que hierva con fuerza, hasta que el relleno esté firme al presionarlo.",
@@ -893,8 +893,8 @@ window.RECETAS_SEED.push({
     "Añade la zanahoria pelada en dos trozos, el tomate entero, el verde de la cebolleta, los tallos del perejil, el laurel y sal. Baja el fuego para que apenas tiemble y cuece 1 hora y cuarto, con la tapa entreabierta.",
     "Saca el pollo y la zanahoria. Cuela el caldo y, si lo ves graso, desgrásalo pasando una hoja de papel de cocina por la superficie. Deberías tener alrededor de 1 litro.",
     "Desmenuza el pollo descartando los huesos y corta la zanahoria en dados pequeños.",
-    "Lleva 800 ml de caldo a ebullición, añade la pastina y cuécela el tiempo del envase, removiendo al principio para que no se pegue. Incorpora el pollo y la zanahoria en el último minuto para que se calienten.",
-    "Sirve con el parmesano, el perejil picado y un poco de pimienta."
+    "Lleva 800 ml de caldo a ebullición, añade la pastina y cuécela el tiempo del envase, removiendo al principio para que no se pegue. Mientras, pica las hojas del perejil. Incorpora el pollo y la zanahoria en el último minuto para que se calienten.",
+    "Sirve con el parmesano, el perejil y un poco de pimienta."
   ],
   nutricion: { kcal: 406, prot: 37, hc: 39, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "para niños", "invierno"],
@@ -934,10 +934,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela los langostinos, guardando cabezas y cáscaras, y retírales el hilo intestinal con la punta de un cuchillo. Guarda la carne en la nevera.",
-    "Pon las cabezas y cáscaras en la cazuela con el agua, el laurel y la mitad de la cebolleta. Lleva a ebullición, retira la espuma y cuece 15 minutos a fuego suave, aplastando las cabezas con una cuchara para que suelten su jugo. Cuela el caldo: tendrás unos 600 ml.",
-    "En la misma cazuela, ya limpia, calienta la mitad del aceite de oliva a fuego medio con una rama de romero y el resto de la cebolleta picada, 1 minuto. Añade la patata pelada y cortada en dados pequeños y remueve 2 minutos.",
-    "Vierte el caldo colado, sala ligeramente y cuece 15-18 minutos, hasta que la patata se deshaga. Retira el romero, añade la leche y tritura 2 minutos, hasta tener una crema muy lisa; si queda espesa, aclárala con un poco de agua caliente.",
-    "Pica muy fino las hojas de la otra rama de romero y mézclalas con el resto del aceite de oliva: es el aceite para terminar.",
+    "Pon las cabezas y cáscaras en la cazuela con el agua, el laurel y la mitad de la cebolleta. Lleva a ebullición, retira la espuma y cuece 15 minutos a fuego suave, aplastando las cabezas con una cuchara para que suelten su jugo. Mientras, pela la patata y córtala en dados pequeños, y pica el resto de la cebolleta. Cuela el caldo: tendrás unos 600 ml.",
+    "En la misma cazuela, ya limpia, calienta la mitad del aceite de oliva a fuego medio con una rama de romero y el resto de la cebolleta, 1 minuto. Añade la patata y remueve 2 minutos.",
+    "Vierte el caldo colado, sala ligeramente y cuece 15-18 minutos, hasta que la patata se deshaga. Mientras, pica muy fino las hojas de la otra rama de romero y mézclalas con el resto del aceite de oliva (es el aceite para terminar), y pica el cebollino.",
+    "Retira el romero, añade la leche y tritura 2 minutos, hasta tener una crema muy lisa; si queda espesa, aclárala con un poco de agua caliente.",
     "Seca los langostinos y saltéalos en una sartén con el aceite de ajo a fuego fuerte 1 minuto por lado, hasta que estén rosados y curvados en forma de C. Sálalos y añade la ralladura y unas gotas de zumo del limón.",
     "Sirve la crema caliente con los langostinos encima, el cebollino picado, una pizca de pimienta y unas gotas de aceite de romero."
   ],

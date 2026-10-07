@@ -38,8 +38,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los garbanzos del remojo, ponlos en una cazuela con agua que los cubra tres dedos y llévalos a ebullición. Retira la espuma, baja el fuego y cuécelos 30 minutos: tienen que quedar a medio hacer, porque terminarán en el horno. Escúrrelos guardando 300 ml del caldo.",
-    "Mientras, seca el cerdo con papel de cocina y salpimiéntalo. Calienta 2 cucharadas de aceite en una cazuela apta para horno (de barro o de hierro) a fuego fuerte y dora la carne en dos tandas, 4 minutos por tanda, hasta que tenga costra por todos los lados. Resérvala.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, escúrrelos, ponlos en una cazuela con agua que los cubra tres dedos y llévalos a ebullición. Retira la espuma, baja el fuego y cuécelos 30 minutos: tienen que quedar a medio hacer, porque terminarán en el horno. Escúrrelos guardando 300 ml del caldo.",
+    "Mientras, pica la cebolla y el ajo, y seca el cerdo con papel de cocina y salpimiéntalo. Calienta 2 cucharadas de aceite en una cazuela apta para horno (de barro o de hierro) a fuego fuerte y dora la carne en dos tandas, 4 minutos por tanda, hasta que tenga costra por todos los lados. Resérvala.",
     "Precalienta el horno a 180 °C con calor arriba y abajo. En la misma cazuela, a fuego medio, rehoga la cebolla picada 6 minutos, hasta que esté blanda; añade el ajo picado y remueve 1 minuto.",
     "Vierte el vino rascando el fondo y deja que hierva 2 minutos. Añade el tomate, el romero, el laurel, el orégano, sal y pimienta.",
     "Incorpora el cerdo con su jugo, los garbanzos y el caldo reservado: el líquido debe cubrirlo todo justo. Riega con la cucharada de aceite restante y tapa con la tapa o con papel de aluminio bien ajustado.",
@@ -179,7 +179,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias del remojo y ponlas en una cazuela con el laurel y agua fría que las cubra cuatro dedos. Llévalas a ebullición, retira la espuma, baja el fuego y cuécelas a fuego suave 1 hora, hasta que estén casi tiernas.",
+    "La víspera, pon las alubias en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una cazuela con el laurel y agua fría que las cubra cuatro dedos. Llévalas a ebullición, retira la espuma, baja el fuego y cuécelas a fuego suave 1 hora, hasta que estén casi tiernas.",
     "Mientras, pica en dados pequeños la cebolla, el ajo, la zanahoria, el apio y el pimiento rojo. Corta la salchicha en rodajas de 1 cm y los pimientos asados en tiras.",
     "En una sartén con el aceite, dora la salchicha 4 minutos a fuego medio, hasta que suelte la grasa y tenga los bordes tostados. Sácala y resérvala.",
     "En la misma grasa, rehoga la cebolla, la zanahoria, el apio y el pimiento 10 minutos, hasta que estén blandos. Añade el ajo, el pimentón y la guindilla desmenuzada, remueve 30 segundos sin que se queme el pimentón y vierte enseguida el tomate. Cuece 5 minutos.",
@@ -222,12 +222,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien el cordero con papel de cocina y salpimiéntalo. Calienta el aceite en una cazuela a fuego fuerte y dora los dados en dos tandas, 5-6 minutos, hasta que tengan costra por todos lados. Resérvalos.",
+    "Pica la cebolleta con su parte verde y lamina el ajo. Seca bien el cordero con papel de cocina y salpimiéntalo. Calienta el aceite en una cazuela a fuego fuerte y dora los dados en dos tandas, 5-6 minutos, hasta que tengan costra por todos lados. Resérvalos.",
     "Baja el fuego a medio y rehoga en la misma cazuela la cebolleta picada, con su parte verde, 5 minutos, rascando el fondo. Añade el ajo laminado y rehoga 1 minuto más.",
     "Devuelve el cordero, vierte el vino y deja que hierva 2 minutos, hasta que se vaya el olor a alcohol. Añade el tomate y agua caliente justo hasta cubrir la carne.",
-    "Tapa y cuece a fuego suave 50 minutos, hasta que el cordero empiece a estar tierno al pincharlo.",
-    "Añade la patata pelada en trozos y las habas (no hace falta descongelarlas), con un poco más de agua si la salsa ha bajado demasiado. Sala y cuece tapado 25 minutos más, hasta que la patata esté hecha y las habas tiernas.",
-    "Pica el eneldo y añádelo en los últimos 5 minutos. La salsa debe quedar espesa y brillante; si está líquida, destapa y deja reducir unos minutos.",
+    "Tapa y cuece a fuego suave 50 minutos, hasta que el cordero empiece a estar tierno al pincharlo. Mientras, pela la patata y córtala en trozos, y pica el eneldo.",
+    "Añade la patata y las habas (no hace falta descongelarlas), con un poco más de agua si la salsa ha bajado demasiado. Sala y cuece tapado 25 minutos más, hasta que la patata esté hecha y las habas tiernas.",
+    "Añade el eneldo en los últimos 5 minutos. La salsa debe quedar espesa y brillante; si está líquida, destapa y deja reducir unos minutos.",
     "Deja reposar 10 minutos fuera del fuego antes de servir: el cordero se asienta y la salsa espesa un poco más."
   ],
   nutricion: { kcal: 700, prot: 43, hc: 47, grasa: 37 },
@@ -308,7 +308,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los garbanzos, ponlos en una cazuela con agua caliente que los cubra tres dedos y cuécelos a fuego suave 50-60 minutos, retirando la espuma, hasta que estén tiernos pero enteros. Guarda 2 cazos del caldo.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, escúrrelos, ponlos en una cazuela con agua caliente que los cubra tres dedos y cuécelos a fuego suave 50-60 minutos, retirando la espuma, hasta que estén tiernos pero enteros. Guarda 2 cazos del caldo.",
     "Mientras, corta el bulbo de hinojo en tiras finas y pica sus hojas verdes junto con el eneldo. Pica la cebolla y ralla los tomates, desechando la piel.",
     "En otra cazuela, calienta la mitad del aceite y rehoga la cebolla y el hinojo 10 minutos a fuego medio, hasta que estén blandos y empiecen a dorarse. Añade las semillas de hinojo machacadas y remueve 30 segundos.",
     "Agrega el tomate rallado y cuece 5 minutos, hasta que se oscurezca un poco. Incorpora los garbanzos escurridos, el caldo reservado, sal y pimienta.",
@@ -437,10 +437,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pollo. Calienta el aceite en una cazuela a fuego medio-alto y dora los trozos 5 minutos, sin moverlos al principio, hasta que estén bien dorados por ambas caras. Resérvalos.",
+    "Pica la cebolla y el ajo. Salpimienta el pollo, calienta el aceite en una cazuela a fuego medio-alto y dora los trozos 5 minutos, sin moverlos al principio, hasta que estén bien dorados por ambas caras. Resérvalos.",
     "Baja a fuego medio y rehoga la cebolla picada en la grasa del pollo 7 minutos, rascando el fondo, hasta que esté blanda. Añade el ajo picado y remueve 1 minuto.",
     "Vierte el vino y deja que hierva 2 minutos. Agrega el tomate, la canela, la pimienta de Jamaica, el laurel, 150 ml de agua y sal.",
-    "Devuelve el pollo con su jugo, tapa y cuece a fuego suave 20 minutos.",
+    "Devuelve el pollo con su jugo, tapa y cuece a fuego suave 20 minutos. Mientras, pica el perejil.",
     "Añade los garbanzos escurridos y enjuagados y cuece destapado 15 minutos más, hasta que el pollo esté muy tierno y la salsa espesa y brillante.",
     "Retira la canela, el laurel y los granos de pimienta, espolvorea el perejil picado y deja reposar 5 minutos antes de servir."
   ],
@@ -570,7 +570,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla, la zanahoria y el apio. Rehógalos en una cazuela con 1 cucharada de aceite a fuego medio 6 minutos, hasta que la cebolla esté transparente.",
-    "Añade las lentejas lavadas y el caldo, lleva a ebullición y cuece a fuego suave 15 minutos, hasta que las lentejas se deshagan.",
+    "Añade las lentejas lavadas y el caldo, lleva a ebullición y cuece a fuego suave 15 minutos, hasta que las lentejas se deshagan. Mientras, pica el eneldo.",
     "Tritura con la batidora hasta obtener una crema lisa. Si está muy espesa, aclárala con un poco de agua caliente: debe cubrir el dorso de la cuchara. Sala y baja el fuego al mínimo.",
     "En un bol, bate el huevo con el zumo del limón hasta que espume. Sin dejar de batir, añade poco a poco 2 cucharones de crema caliente: así el huevo se templa sin cuajarse.",
     "Vierte la mezcla en la cazuela fuera del fuego, removiendo, y vuelve a ponerla 2 minutos a fuego muy suave sin que llegue a hervir, hasta que espese y brille.",
@@ -610,9 +610,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon agua con sal a hervir y cuece las habas 4 minutos; añade los guisantes y cuece 2 minutos más. Escurre y enfría bajo el grifo para que conserven el color verde.",
+    "Pon agua con sal a hervir. Mientras se calienta, prepara el aliño mezclando la ralladura y el zumo del limón con 1 cucharada y media de aceite, sal y pimienta; corta la cebolleta en rodajas finas y pica la mitad de la menta.",
+    "Cuando hierva, cuece las habas 4 minutos; añade los guisantes y cuece 2 minutos más. Escurre y enfría bajo el grifo para que conserven el color verde.",
     "Si las habas son grandes, pélalas apretándolas entre los dedos: el interior es más tierno y dulce.",
-    "Prepara el aliño mezclando la ralladura y el zumo del limón con 1 cucharada y media de aceite, sal y pimienta. Corta la cebolleta en rodajas finas y pica la mitad de la menta.",
     "Mezcla las habas y los guisantes con la cebolleta, la menta picada y el aliño.",
     "Corta el halloumi en lonchas de 1 cm, sécalas y úntalas con el resto del aceite. Hazlas en la plancha muy caliente 1-2 minutos por cada lado, hasta que tengan marcas doradas; no las muevas antes o se pegarán.",
     "Reparte la rúcula en los platos, pon encima las habas y el halloumi recién hecho y termina con las hojas de menta restantes. Sirve enseguida: el halloumi se endurece al enfriarse."
@@ -692,7 +692,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los mejillones: ráspalos bajo el grifo, arranca las barbas tirando hacia la bisagra y desecha los que estén rotos o abiertos y no se cierren al golpearlos.",
+    "Limpia los mejillones: ráspalos bajo el grifo, arranca las barbas tirando hacia la bisagra y desecha los que estén rotos o abiertos y no se cierren al golpearlos. Corta el pimiento verde en tiras, lamina el ajo y pica el perejil.",
     "En una cazuela amplia, calienta el aceite a fuego medio y rehoga el pimiento verde en tiras 5 minutos. Añade el ajo laminado y los copos de chile y remueve 1 minuto.",
     "Sube el fuego, añade los mejillones y el ouzo y tapa. Cuece 3-4 minutos, agitando la cazuela, hasta que se abran. Saca los mejillones con una espumadera y desecha los que sigan cerrados; deja el jugo en la cazuela.",
     "Añade el tomate al jugo y cuece 6 minutos a fuego medio, hasta que espese un poco. Incorpora las alubias escurridas y cuece 4 minutos más.",
@@ -737,7 +737,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los judiones, cúbrelos de agua fría en una cazuela con 1 hoja de laurel y cuécelos a fuego muy suave 1 hora y media, hasta que estén tiernos pero enteros; sálalos al final. Mientras, prepara la carne.",
+    "La víspera, pon los judiones en remojo en abundante agua fría. Al día siguiente, escúrrelos, cúbrelos de agua fría en una cazuela con 1 hoja de laurel y cuécelos a fuego muy suave 1 hora y media, hasta que estén tiernos pero enteros; sálalos al final. Mientras, prepara la carne.",
     "Limpia la carrillada de la telilla exterior, sécala y salpimiéntala. Dórala en otra cazuela con el aceite a fuego fuerte, 3 minutos por cada lado. Resérvala.",
     "Escalda las cebollitas 1 minuto en agua hirviendo, pásalas por agua fría y pélalas: la piel saldrá sola. Dóralas enteras en la grasa de la carne 6-8 minutos, moviendo la cazuela, y añade los ajos pelados enteros.",
     "Agrega el tomate concentrado, remueve 1 minuto y vierte el vino y el vinagre. Deja que hierva 3 minutos y añade el tomate triturado, la canela, los clavos, la otra hoja de laurel y la carrillada. Cubre apenas con agua, tapa y cuece a fuego muy suave 1 hora y media, hasta que la carne se deshaga al pincharla.",

@@ -41,8 +41,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la aguja en dados de unos 4 cm sin quitarle toda la grasa: es la que mantiene jugoso el shashlik en el fuego.",
-    "Corta una cebolla en aros finos y estrújala con las manos en un bol con una cucharadita de sal hasta que suelte jugo. Añade la carne, 3 cucharadas de vinagre rebajadas con 3 de agua, el cilantro molido, el laurel troceado y mucha pimienta. Mezcla, tapa y deja marinar en la nevera 4 horas (o toda la noche).",
-    "Saca la carne de la nevera 20 minutos antes de cocinarla. Retira el laurel y ensarta los dados en brochetas (si son de madera, ponlas antes 30 minutos en remojo) sin apretarlos demasiado.",
+    "Corta una cebolla en aros finos y estrújala con las manos en un bol con una cucharadita de sal hasta que suelte jugo. Añade la carne, 3 cucharadas de vinagre rebajadas con 3 de agua, el cilantro molido, el laurel troceado y mucha pimienta. Mezcla, tapa y deja marinar en la nevera 4 horas (o toda la noche). Si usas brochetas de madera, ponlas en remojo 30 minutos antes de ensartar.",
+    "Saca la carne de la nevera 20 minutos antes de cocinarla. Retira el laurel y ensarta los dados en brochetas sin apretarlos demasiado.",
     "Corta la otra cebolla en aros muy finos, enjuágala con agua fría y alíñala con la cucharada de vinagre restante, una pizca de sal y la mitad del eneldo picado: en 15 minutos tendrás una cebolla encurtida suave y crujiente.",
     "Calienta la plancha (o la barbacoa) a fuego fuerte. Pinta la carne con el aceite y cocina las brochetas 12-15 minutos, girándolas cada 3 minutos, hasta que estén bien doradas por todos los lados y sin rastro rosado en el centro.",
     "Mientras, trocea el tomate y el pepino, alíñalos con sal y el resto del eneldo.",
@@ -89,8 +89,8 @@ window.RECETAS_SEED.push({
     "Abre las pechugas en libro y golpéalas entre dos hojas de film con un rodillo hasta dejarlas de 5 mm de grosor uniforme, sin romperlas.",
     "Salpimiéntalas, pon un cilindro de mantequilla en un extremo, dobla los laterales hacia dentro y enrolla apretando, como un burrito, sin dejar huecos. Envuelve cada rollo en film y déjalo 15 minutos en la nevera para que se asiente.",
     "Mientras, pela y trocea las patatas y cuécelas en agua con sal 20 minutos, hasta que se deshagan al pincharlas.",
-    "Empana dos veces: pasa cada rollo por harina, huevo batido y pan rallado, y otra vez por huevo y pan rallado. Insiste en los extremos: el doble empanado es lo que evita que la mantequilla se escape.",
-    "Precalienta el horno a 190 °C. Calienta el aceite en una sartén pequeña y honda a 170 °C (un dado de pan se dora en 30 segundos) y fríe los rollos 4-5 minutos, girándolos, hasta que tengan un dorado intenso.",
+    "Precalienta el horno a 190 °C. Empana dos veces: pasa cada rollo por harina, huevo batido y pan rallado, y otra vez por huevo y pan rallado. Insiste en los extremos: el doble empanado es lo que evita que la mantequilla se escape.",
+    "Calienta el aceite en una sartén pequeña y honda a 170 °C (un dado de pan se dora en 30 segundos) y fríe los rollos 4-5 minutos, girándolos, hasta que tengan un dorado intenso.",
     "Pásalos a una bandeja y hornéalos 12-15 minutos, hasta que el centro alcance 72 °C. Déjalos reposar 3 minutos.",
     "Escurre las patatas y aplástalas con la leche caliente, los 10 g de mantequilla restantes y sal hasta tener un puré liso.",
     "Sirve cada pieza entera sobre el puré: al cortarla, la mantequilla de hierbas sale y hace de salsa."
@@ -132,8 +132,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Separa las costillas hueso a hueso y corta la salchicha en rodajas gruesas. Dora las costillas en la cazuela sin aceite a fuego medio-alto 8 minutos, hasta que suelten su grasa y estén tostadas; añade la salchicha y dórala 2 minutos más.",
-    "Añade una cebolla picada a esa grasa y rehógala 6 minutos, hasta que esté dorada. Espolvorea 1 cucharada de harina y tuéstala 1 minuto sin dejar de remover.",
+    "Separa las costillas hueso a hueso y corta la salchicha en rodajas gruesas. Dora las costillas en la cazuela sin aceite a fuego medio-alto 8 minutos, hasta que suelten su grasa y estén tostadas (mientras, pica una cebolla); añade la salchicha y dórala 2 minutos más.",
+    "Añade la cebolla picada a esa grasa y rehógala 6 minutos, hasta que esté dorada. Espolvorea 1 cucharada de harina y tuéstala 1 minuto sin dejar de remover.",
     "Vierte los 300 ml de agua caliente poco a poco, removiendo para que no haga grumos. Añade el laurel, sal y pimienta, tapa y cuece a fuego suave 50 minutos, hasta que la carne esté tierna y se separe del hueso con facilidad.",
     "Mientras, ralla las patatas peladas y la media cebolla en la parte fina del rallador. Escúrrelas en un colador apretando con fuerza y recoge el líquido en un bol: al reposar, el almidón se queda en el fondo. Tira el agua, devuelve el almidón a la masa y mézclala con el huevo, la otra cucharada de harina y sal.",
     "Calienta el aceite en la sartén a fuego medio-alto. Pon cucharadas de masa y aplástalas hasta 1 cm de grosor. Fríe los draniki 3-4 minutos por lado, hasta que estén muy dorados y crujientes por los bordes; escúrrelos sobre papel. Hazlos por tandas.",
@@ -182,9 +182,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Golpea los filetes entre dos hojas de film hasta dejarlos de unos 4 mm. Salpimiéntalos y úntalos con una capa fina de mostaza.",
-    "Corta la panceta en tiras, los pepinillos en bastones y media cebolla en tiras finas. Repártelo en un extremo de cada filete, enrolla apretando y plegando los lados hacia dentro y sujeta con palillos o hilo de cocina.",
+    "Corta la panceta en tiras, los pepinillos en bastones y media cebolla en tiras finas; pica la otra media. Repártelo en un extremo de cada filete, enrolla apretando y plegando los lados hacia dentro y sujeta con palillos o hilo de cocina.",
     "Pasa los rollitos por la harina, sacude el exceso y dóralos en la cazuela con el aceite a fuego medio-alto 6-8 minutos, girándolos, hasta que estén bien tostados por todos lados.",
-    "Añade la otra media cebolla picada y rehoga 4 minutos. Vierte el caldo caliente, el laurel y la pimienta de Jamaica, tapa y cuece a fuego suave 75 minutos, girándolos a mitad, hasta que se pinchen sin resistencia.",
+    "Añade la cebolla picada y rehoga 4 minutos. Vierte el caldo caliente, el laurel y la pimienta de Jamaica, tapa y cuece a fuego suave 75 minutos, girándolos a mitad, hasta que se pinchen sin resistencia.",
     "Cuando falten 25 minutos, tuesta el trigo sarraceno en seco en una sartén 3 minutos, hasta que huela a avellana tostada. Cúbrelo con 240 ml de agua hirviendo con sal, tapa y cuece a fuego mínimo 15 minutos; apaga y déjalo reposar 5 minutos con la mantequilla.",
     "Ralla la remolacha cocida y alíñala con el zumo del medio limón, sal y pimienta.",
     "Saca los rollitos y quítales los palillos. Si la salsa está líquida, redúcela destapada 5 minutos, hasta que cubra el dorso de una cuchara. Sirve los zrazy sobre el trigo sarraceno, bañados con la salsa y con la remolacha al lado."
@@ -231,11 +231,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el conejo. Derrite la mantequilla en la cazuela a fuego medio-alto y dóralo por tandas 8 minutos, hasta que esté dorado por todos lados. Resérvalo.",
-    "En la misma grasa, rehoga la cebolla, la zanahoria, la chirivía y el apio en dados pequeños 10 minutos, hasta que empiecen a caramelizarse por los bordes: ese color es el que dará el tono dorado a la salsa.",
+    "Pela y corta en dados pequeños la cebolla, la zanahoria, la chirivía y el apio. Salpimienta el conejo. Derrite la mantequilla en la cazuela a fuego medio-alto y dóralo por tandas 8 minutos, hasta que esté dorado por todos lados. Resérvalo.",
+    "En la misma grasa, rehoga la cebolla, la zanahoria, la chirivía y el apio 10 minutos, hasta que empiecen a caramelizarse por los bordes: ese color es el que dará el tono dorado a la salsa.",
     "Añade el laurel, la pimienta de Jamaica y el vinagre, devuelve el conejo y cubre con los 400 ml de agua caliente. Tapa y cuece a fuego suave 50 minutos, hasta que la carne esté tierna.",
-    "Mientras, prepara el knedlík: corta el pan en dados de 1 cm, bate el huevo con la leche y una pizca de sal y viértelo sobre el pan. Añade 40 g de harina, mezcla con las manos sin amasar en exceso y deja reposar 10 minutos.",
-    "Forma con la masa un cilindro de unos 5 cm de diámetro, envuélvelo apretado en dos capas de film y anuda los extremos. Cuécelo en agua hirviendo 20 minutos a fuego medio, girándolo a mitad. Sácalo, deja reposar 2 minutos, quita el film y córtalo en rodajas de 1,5 cm.",
+    "Mientras, prepara el knedlík: corta el pan en dados de 1 cm, bate el huevo con la leche y una pizca de sal y viértelo sobre el pan. Añade 40 g de harina, mezcla con las manos sin amasar en exceso y deja reposar 10 minutos. Mientras, pon a hervir agua abundante en una cazuela.",
+    "Forma con la masa un cilindro de unos 5 cm de diámetro, envuélvelo apretado en dos capas de film y anuda los extremos. Cuécelo en el agua hirviendo 20 minutos a fuego medio, girándolo a mitad. Sácalo, deja reposar 2 minutos, quita el film y córtalo en rodajas de 1,5 cm.",
     "Saca el conejo y retira el laurel. Tritura las verduras con su caldo hasta obtener una salsa fina. Mezcla la nata agria con los 10 g de harina restantes, incorpórala a la salsa y cuece 3 minutos a fuego suave, removiendo, hasta que espese, sin que llegue a hervir con fuerza.",
     "Prueba la salsa: debe ser suave, ligeramente ácida y dulce. Ajusta de sal y, si la quieres más agridulce, añade una cucharadita de mermelada. Devuelve el conejo 2 minutos para calentarlo.",
     "Sirve el conejo con las rodajas de knedlík bañadas en salsa y una cucharada de mermelada de arándanos al lado."
@@ -279,8 +279,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 170 °C. Pincha la piel de los muslos con un cuchillo fino sin llegar a la carne y frótalos con sal, pimienta, el ajo machacado y la alcaravea. Colócalos con la piel hacia arriba en una fuente con 100 ml de agua.",
     "Hornéalos 90 minutos, regándolos con su jugo cada 30 minutos. Los últimos 15 minutos sube el horno a 210 °C para que la piel quede crujiente y dorada. Guarda la grasa que suelten.",
-    "Mientras, cuece las patatas con piel en agua con sal 25 minutos, hasta que estén tiernas. Pélalas en caliente, aplástalas hasta hacer un puré sin grumos y deja que se enfríe del todo: con el puré caliente la masa se pega.",
-    "Cuando el pato lleve 40 minutos en el horno, toma una cucharada de la grasa que haya soltado en la fuente y rehoga en ella la cebolla en tiras 5 minutos. Añade la col lombarda en juliana fina, la manzana rallada, el vinagre, el azúcar, sal y los 50 ml de agua restantes. Tapa y cuece a fuego suave 40 minutos, removiendo de vez en cuando, hasta que la col esté tierna y brillante.",
+    "Mientras, cuece las patatas con piel en agua con sal 25 minutos, hasta que estén tiernas. Pélalas en caliente, aplástalas hasta hacer un puré sin grumos y deja que se enfríe del todo: con el puré caliente la masa se pega. Corta la cebolla en tiras y la col lombarda en juliana fina.",
+    "Cuando el pato lleve 40 minutos en el horno, toma una cucharada de la grasa que haya soltado en la fuente y rehoga en ella la cebolla 5 minutos. Añade la col lombarda, la manzana rallada, el vinagre, el azúcar, sal y los 50 ml de agua restantes. Tapa y cuece a fuego suave 40 minutos, removiendo de vez en cuando, hasta que la col esté tierna y brillante.",
     "Para las lokše, amasa el puré frío con la harina y una pizca de sal hasta tener una masa suave que no se pegue. Divídela en 4 bolas y estíralas con el rodillo enharinado hasta 2 mm, del tamaño de tu sartén.",
     "Cocina cada lokša en la sartén seca muy caliente 1 minuto por lado, hasta que salgan burbujas y manchas tostadas. Píntalas con grasa de pato y dóblalas en cuartos.",
     "Sirve los muslos con la col y las lokše calientes; puedes rellenar las lokše con un poco de col y comerlas enrolladas."
@@ -326,11 +326,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pollo en trozos de 4 cm y salpimiéntalo. Pela y corta la zanahoria, la chirivía y el apio en rodajas de 1 cm, la patata en dados de 2 cm y pica la cebolla.",
+    "Corta el pollo en trozos de 4 cm y salpimiéntalo. Pela y corta la zanahoria, la chirivía y el apio en rodajas de 1 cm, la patata en dados de 2 cm y pica la cebolla y el ajo.",
     "Calienta el aceite en la cazuela a fuego medio-alto y dora el pollo 5 minutos (no hace falta que se haga por dentro). Añade la cebolla y rehoga 5 minutos, hasta que esté transparente.",
     "Espolvorea la harina y tuéstala 2 minutos sin dejar de remover, hasta que tome color avellana: es lo que da cuerpo y sabor a la obara.",
-    "Vierte el caldo caliente poco a poco, removiendo para que no se formen grumos. Añade la zanahoria, la chirivía, el apio, el ajo picado, la mejorana y el laurel. Tapa y cuece a fuego suave 20 minutos.",
-    "Añade la patata y cuece 15-20 minutos más, hasta que esté tierna y el caldo haya tomado cuerpo, con textura de sopa espesa.",
+    "Vierte el caldo caliente poco a poco, removiendo para que no se formen grumos. Añade la zanahoria, la chirivía, el apio, el ajo, la mejorana y el laurel. Tapa y cuece a fuego suave 20 minutos.",
+    "Añade la patata y cuece 15-20 minutos más, hasta que esté tierna y el caldo haya tomado cuerpo, con textura de sopa espesa. Mientras, pica el perejil.",
     "Retira el laurel, añade el vinagre, el perejil picado, sal y pimienta. Deja reposar 5 minutos fuera del fuego.",
     "Sirve en platos hondos con el pan para mojar."
   ],
@@ -376,12 +376,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, haz 8-10 cortes profundos en la carne con un cuchillo fino e introduce en ellos la mitad de la panceta en tiras, 2 dientes de ajo en láminas y los clavos. Ponla en un bol, cúbrela con el vinagre y 200 ml de agua y déjala 12 horas en la nevera, dándole la vuelta una vez.",
-    "Escurre la carne, tira la marinada y sécala muy bien. Salpiméntala y dórala en la cazuela con el aceite a fuego medio-alto 10 minutos, hasta que tenga una costra oscura por todos lados. Resérvala.",
-    "Baja a fuego medio y añade el resto de la panceta picada, la cebolla y la zanahoria en dados y el ajo restante. Rehoga 15 minutos, removiendo, hasta que todo esté caramelizado y de color marrón oscuro: de ahí sale el color de la salsa.",
+    "Escurre la carne, tira la marinada y sécala muy bien. Salpiméntala y dórala en la cazuela con el aceite a fuego medio-alto 10 minutos, hasta que tenga una costra oscura por todos lados; mientras, pica el resto de la panceta, corta la cebolla y la zanahoria en dados y pica el ajo restante. Resérvala.",
+    "Baja a fuego medio y añade el resto de la panceta, la cebolla, la zanahoria y el ajo. Rehoga 15 minutos, removiendo, hasta que todo esté caramelizado y de color marrón oscuro: de ahí sale el color de la salsa.",
     "Añade el tomate concentrado y remueve 1 minuto. Incorpora las ciruelas, el laurel y la nuez moscada, vierte el vino y deja hervir 3 minutos para que se evapore el alcohol.",
     "Devuelve la carne con los otros 200 ml de agua, tapa y cuece a fuego muy suave 2 horas y media, girándola cada 30 minutos y añadiendo un poco de agua si se seca, hasta que se pueda cortar con una cuchara.",
-    "Saca la carne, retira el laurel y tritura la salsa con la batidora hasta que quede fina y brillante; si está líquida, redúcela 5 minutos. Corta la carne en rodajas de 1 cm y vuélvela a la salsa.",
-    "Cuece los ñoquis en agua hirviendo con sal hasta que floten, 2-3 minutos. Escúrrelos, mézclalos con un par de cucharadas de salsa y sírvelos con las rodajas de carne bien bañadas."
+    "Saca la carne, retira el laurel y tritura la salsa con la batidora hasta que quede fina y brillante; si está líquida, redúcela 5 minutos. Corta la carne en rodajas de 1 cm y vuélvela a la salsa. Mientras, pon a hervir agua con sal para los ñoquis.",
+    "Cuece los ñoquis en el agua hirviendo hasta que floten, 2-3 minutos. Escúrrelos, mézclalos con un par de cucharadas de salsa y sírvelos con las rodajas de carne bien bañadas."
   ],
   nutricion: { kcal: 760, prot: 48, hc: 80, grasa: 27 },
   etiquetas: ["tradicional", "invierno", "fin de semana", "para invitados", "sin lácteos", "batch cooking", "verduras escondidas", "poco especiada"],
@@ -462,9 +462,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla media cebolla y el ajo. Mézclalos en un bol con las dos carnes, el pimentón, una cucharadita rasa de sal, pimienta y el agua con gas. Amasa 3 minutos, hasta que la mezcla esté pegajosa y ligada: así no se rompe en la plancha. Déjala reposar 10 minutos en la nevera.",
+    "Ralla media cebolla y el ajo. Mézclalos en un bol con las dos carnes, el pimentón, una cucharadita rasa de sal, pimienta y el agua con gas. Amasa 3 minutos, hasta que la mezcla esté pegajosa y ligada: así no se rompe en la plancha. Déjala reposar 10 minutos en la nevera; mientras, pica muy fina la otra media cebolla y corta el tomate en dados.",
     "Divide la masa en 2 bolas y aplánalas entre dos hojas de papel de horno hasta formar discos de 1 cm de grosor y unos 16 cm de diámetro: la pljeskavica es más grande y fina que una hamburguesa.",
-    "Pica muy fina la otra media cebolla y corta el tomate en dados.",
     "Calienta la plancha a fuego fuerte y píntala con el aceite. Cocina las pljeskavice 3-4 minutos por lado, sin aplastarlas, hasta que estén bien doradas y hechas por dentro.",
     "Calienta los panes 30 segundos por lado en la plancha y ábrelos por la mitad.",
     "Unta el pan caliente con el kajmak, que se fundirá con el calor, y con el ajvar. Pon dentro la carne, la cebolla picada y el tomate, cierra y come al momento."
@@ -602,7 +601,7 @@ window.RECETAS_SEED.push({
     "Mientras, ralla el calabacín, sálalo, espera 5 minutos y exprímelo con las manos con fuerza: si no le quitas el agua, las kotlety quedan blandas. Ralla también la cebolla.",
     "Mezcla en un bol el pavo, el calabacín, la cebolla, el huevo, el pan rallado, sal y pimienta. Con las manos húmedas, forma 6 kotlety ovaladas de unos 2 cm de grosor.",
     "Calienta el aceite en la sartén a fuego medio y dora las kotlety 4 minutos por cada lado. Baja el fuego, añade 3 cucharadas de agua, tapa y cocina 6 minutos más: el vapor las termina por dentro sin secarlas.",
-    "Para la salsa, mezcla el yogur con el ajo rallado, el eneldo picado, sal y un chorrito de agua para aligerarla.",
+    "Mientras se terminan de hacer, prepara la salsa: mezcla el yogur con el ajo rallado, el eneldo picado, sal y un chorrito de agua para aligerarla.",
     "Sirve las kotlety sobre el trigo sarraceno con la salsa de eneldo por encima."
   ],
   nutricion: { kcal: 620, prot: 45, hc: 56, grasa: 24 },
@@ -645,9 +644,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C. Corta las patatas con piel en gajos de 2 cm, la col en cuñas de 2 cm conservando un poco de troncho para que no se deshagan, y la cebolla y la manzana en gajos.",
     "En una bandeja grande, mezcla las patatas y la col con el aceite, la alcaravea, sal y pimienta. Extiéndelas en una sola capa, sin amontonar, y hornea 20 minutos.",
     "Corta la salchicha en trozos de 5 cm y hazles unos cortes en diagonal. Añádela a la bandeja con la cebolla y la manzana, da la vuelta a las patatas y hornea 15-20 minutos más, hasta que la col tenga los bordes tostados y la salchicha esté brillante.",
-    "Mientras, mezcla en un bol el vinagre, la miel y la mostaza.",
+    "Mientras, mezcla en un bol el vinagre, la miel y la mostaza y corta los pepinillos en rodajas.",
     "Al sacar la bandeja, riega todo con el aliño de mostaza y mezcla en caliente para que se impregne.",
-    "Sirve con los pepinillos en rodajas por encima o al lado."
+    "Sirve con los pepinillos por encima o al lado."
   ],
   nutricion: { kcal: 680, prot: 21, hc: 62, grasa: 38 },
   etiquetas: ["creativa", "al horno", "otoño", "invierno", "económica", "sin lácteos", "batch cooking", "poco especiada"],
@@ -732,9 +731,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el lomo en tiras de 1 cm y salpiméntalo. Calienta el aceite en una sartén grande con tapa a fuego fuerte y saltea la carne 3 minutos, hasta que esté dorada por fuera. Resérvala.",
-    "En la misma sartén, a fuego medio, rehoga la cebolla en plumas y el pimiento en tiras 5 minutos. Añade los champiñones laminados y cocina 4 minutos, hasta que suelten su agua y se doren.",
-    "Aparta la sartén del fuego, añade el pimentón y remueve unos segundos para que no se queme. Vuelve al fuego con el tomate picado y el tomillo y cocina 2 minutos. Vierte el vino y deja que reduzca 2 minutos.",
+    "Corta la cebolla en plumas y el pimiento en tiras, lamina los champiñones y pica el tomate y el perejil. Corta el lomo en tiras de 1 cm y salpiméntalo. Calienta el aceite en una sartén grande con tapa a fuego fuerte y saltea la carne 3 minutos, hasta que esté dorada por fuera. Resérvala.",
+    "En la misma sartén, a fuego medio, rehoga la cebolla y el pimiento 5 minutos. Añade los champiñones y cocina 4 minutos, hasta que suelten su agua y se doren.",
+    "Aparta la sartén del fuego, añade el pimentón y remueve unos segundos para que no se queme. Vuelve al fuego con el tomate y el tomillo y cocina 2 minutos. Vierte el vino y deja que reduzca 2 minutos.",
     "Devuelve la carne con su jugo, mezcla y cocina 3 minutos a fuego suave, hasta que la salsa esté espesa.",
     "Haz dos huecos, casca en ellos los huevos y desmenuza el feta por encima. Tapa y cocina 4-5 minutos a fuego suave, hasta que la clara esté cuajada y la yema siga líquida.",
     "Espolvorea el perejil picado y sirve en la misma sartén, con el pan para mojar."
@@ -778,7 +777,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca las chuletillas de la nevera 15 minutos antes. Mezcla la mantequilla blanda con el ajvar y el ajo rallado hasta tener una crema rosada y guárdala en la nevera.",
-    "Para la šopska, corta el tomate, el pepino y el pimiento verde en dados de 1,5 cm y la cebolla morada en plumas finas. Alíñalos con 1 cucharada de aceite, el vinagre y poca sal, porque el queso ya es salado.",
+    "Para la šopska, corta el tomate, el pepino y el pimiento verde en dados de 1,5 cm y la cebolla morada en plumas finas. Alíñalos con 1 cucharada de aceite, el vinagre y poca sal, porque el queso ya es salado. Pica el perejil.",
     "Calienta la plancha a fuego fuerte 3 minutos, hasta que humee. Seca las chuletillas, sálalas y píntalas con el resto del aceite.",
     "Cocínalas 2 minutos por lado sin moverlas, hasta que tengan un dorado intenso y el centro siga rosado. Ponlas de pie 30 segundos para dorar el borde de grasa.",
     "Pásalas a una fuente caliente y pon encima de cada una un poco de mantequilla de ajvar para que se funda con el calor.",
@@ -825,7 +824,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 160 °C. Frota las costillas con sal, pimienta, el pimentón, el ajo machacado y la alcaravea. Ponlas en una fuente con el hueso hacia arriba, vierte 150 ml de cerveza en el fondo y tapa con papel de aluminio.",
     "Hornéalas 90 minutos tapadas, hasta que la carne se retire del hueso al pincharla.",
-    "Para el glaseado, pon en un cazo los 100 ml de cerveza restantes con la miel y la mostaza y redúcelo a fuego medio 5-6 minutos, hasta que cubra el dorso de una cuchara.",
+    "Cuando falten 10 minutos, prepara el glaseado: pon en un cazo los 100 ml de cerveza restantes con la miel y la mostaza y redúcelo a fuego medio 5-6 minutos, hasta que cubra el dorso de una cuchara.",
     "Destapa las costillas, dales la vuelta con la carne hacia arriba y píntalas con el glaseado. Sube el horno a 220 °C y hornéalas 15-20 minutos más, pintándolas cada 5 minutos, hasta que estén brillantes y caramelizadas por los bordes.",
     "Mientras, rehoga la cebolla en plumas con el aceite en la sartén 5 minutos, añade la manzana en láminas y cocina 3 minutos. Incorpora el chucrut escurrido y saltea 8 minutos a fuego medio, hasta que se dore en algunos puntos.",
     "Corta las costillas entre hueso y hueso y sírvelas con el chucrut, el pan de centeno y, si te gusta, un poco de rábano picante."
@@ -874,7 +873,7 @@ window.RECETAS_SEED.push({
     "En la misma sartén, rehoga la cebolla en plumas y la zanahoria en rodajas finas 4 minutos. Añade el ajo laminado 1 minuto y vierte el caldo, raspando el fondo para despegar todo lo tostado.",
     "Vierte el contenido de la sartén sobre el pollo y añade las ciruelas pasas y el laurel. Tapa y cocina en posición baja 4 horas (o en alta 2 horas y media), hasta que el pollo se deshaga al tocarlo con un tenedor.",
     "Cuando falten 40 minutos, enjuaga la cebada y cuécela en una cazuela con el triple de agua con sal 30-35 minutos, hasta que esté tierna pero con un punto de mordida. Escúrrela.",
-    "Tuesta las nueces en la sartén en seco 3 minutos y pícalas gruesas.",
+    "Tuesta las nueces en la sartén en seco 3 minutos y pícalas gruesas. Pica el eneldo.",
     "Retira el laurel. Mezcla en un bol la nata agria con un cucharón del líquido caliente de la olla, viértela en la olla y remueve con cuidado: en 5 minutos la salsa queda cremosa y de color tostado.",
     "Sirve el pollo con su salsa y las ciruelas sobre la cebada y esparce por encima las nueces y el eneldo picado."
   ],
@@ -916,10 +915,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pavo en dados de 2 cm y salpiméntalo. Calienta 1 cucharada de aceite en una sartén honda con tapa a fuego fuerte y dora el pavo 5 minutos. Resérvalo.",
-    "Añade el resto del aceite, la cebolla picada y la zanahoria rallada gruesa y rehoga 5 minutos a fuego medio. Incorpora los champiñones laminados y el ajo picado y cocina 4 minutos, hasta que se doren.",
+    "Pica la cebolla y el ajo, ralla gruesa la zanahoria y lamina los champiñones. Corta el pavo en dados de 2 cm y salpiméntalo. Calienta 1 cucharada de aceite en una sartén honda con tapa a fuego fuerte y dora el pavo 5 minutos. Resérvalo.",
+    "Añade el resto del aceite, la cebolla y la zanahoria y rehoga 5 minutos a fuego medio. Incorpora los champiñones y el ajo y cocina 4 minutos, hasta que se doren.",
     "Añade el trigo sarraceno y el tomate concentrado y remueve 2 minutos para que el grano se tueste y se impregne.",
-    "Devuelve el pavo, vierte el caldo caliente, añade el laurel y una pizca de sal y lleva a ebullición. Tapa y cuece a fuego mínimo 15 minutos sin remover, hasta que el grano haya absorbido el líquido y esté tierno pero suelto.",
+    "Devuelve el pavo, vierte el caldo caliente, añade el laurel y una pizca de sal y lleva a ebullición. Tapa y cuece a fuego mínimo 15 minutos sin remover, hasta que el grano haya absorbido el líquido y esté tierno pero suelto. Mientras, pica el eneldo.",
     "Apaga el fuego y deja reposar tapado 5 minutos. Retira el laurel y suelta el grano con un tenedor.",
     "Sirve con una cucharada de nata agria y el eneldo picado por encima."
   ],

@@ -46,7 +46,7 @@ window.RECETAS_SEED.push({
     "En una cazuela, tuesta los piñones en seco a fuego medio 2–3 minutos, removiendo, hasta que estén dorados; sácalos.",
     "Añade a la cazuela la mitad de la mantequilla y el aceite y marca los higaditos a fuego fuerte 2 minutos, hasta que estén dorados por fuera y aún rosados dentro. Sálalos y sácalos a un plato: si se pasan, quedan secos y arenosos.",
     "En la misma grasa, pocha la cebolla y la cebolleta a fuego medio 6–7 minutos, hasta que estén blandas y transparentes. Añade el arroz, la pimienta de Jamaica y la canela y remueve 2 minutos, hasta que los granos se vuelvan opacos.",
-    "Vierte el vino con las pasas y deja que se evapore 1 minuto. Añade el caldo caliente, sal y pimienta, tapa y cuece a fuego mínimo 12 minutos sin destapar.",
+    "Vierte el vino con las pasas y deja que se evapore 1 minuto. Añade el caldo caliente, sal y pimienta, tapa y cuece a fuego mínimo 12 minutos sin destapar. Mientras, pica el eneldo.",
     "Reparte por encima los higaditos con su jugo y los piñones, tapa de nuevo y deja reposar 5 minutos fuera del fuego, hasta que el arroz haya absorbido todo el líquido.",
     "Añade el resto de la mantequilla, el eneldo picado y la cebolleta reservada, suelta el arroz con un tenedor y sirve."
   ],
@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Sala los contramuslos y dóralos en una cazuela amplia con el aceite a fuego medio-alto, 4 minutos por cada lado, hasta que tengan una costra dorada. Sácalos a un plato.",
+    "Pica la cebolla y lamina el ajo. Sala los contramuslos y dóralos en una cazuela amplia con el aceite a fuego medio-alto, 4 minutos por cada lado, hasta que tengan una costra dorada. Sácalos a un plato.",
     "En la misma grasa, pocha la cebolla picada 6 minutos, hasta que esté blanda y transparente. Añade el ajo laminado y el tomate concentrado y rehoga 1 minuto.",
     "Vierte el vino tinto y raspa el fondo con una cuchara de madera para despegar lo tostado; deja que se evapore el alcohol 2 minutos.",
     "Añade el tomate triturado, la canela, la pimienta de Jamaica, el laurel, sal, pimienta y 200 ml de agua. Devuelve el pollo, tapa y guisa a fuego suave 40 minutos, hasta que la carne se separe del hueso con facilidad.",
@@ -227,7 +227,7 @@ window.RECETAS_SEED.push({
     "Calienta la mitad del aceite en una cazuela amplia y pocha la cebolla y la zanahoria a fuego medio 6–7 minutos, hasta que la cebolla esté blanda y transparente.",
     "Añade el tomate concentrado y los dos pimentones y remueve 30 segundos, sin que el pimentón llegue a quemarse. Incorpora el repollo a puñados, removiendo: en 5–6 minutos habrá perdido volumen y estará brillante.",
     "Agrega el tomate triturado y el agua, sala y cuece tapado 10 minutos a fuego medio.",
-    "Añade el arroz, remueve para repartirlo y cuece tapado a fuego suave 18 minutos, removiendo un par de veces, hasta que el grano esté tierno y el conjunto quede meloso, con algo de caldo.",
+    "Añade el arroz, remueve para repartirlo y cuece tapado a fuego suave 18 minutos, removiendo un par de veces, hasta que el grano esté tierno y el conjunto quede meloso, con algo de caldo. Mientras, pica el perejil.",
     "Apaga el fuego, añade el resto del aceite en crudo, el perejil picado y pimienta y deja reposar tapado 5 minutos. Sirve con gajos de limón para exprimir por encima."
   ],
   nutricion: { kcal: 445, prot: 10, hc: 67, grasa: 14 },
@@ -309,8 +309,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el pulpo descongelado, ponlo en una cazuela sin agua, tapa y cuécelo a fuego medio-bajo 15 minutos: soltará mucho líquido de color morado.",
-    "Añade el vino tinto, el laurel y pimienta y cuece tapado a fuego suave 40–45 minutos más, hasta que al pinchar la parte gruesa de un tentáculo con un palillo entre sin resistencia.",
+    "La víspera, pasa el pulpo del congelador a la nevera para que se descongele. Al día siguiente, lávalo, ponlo en una cazuela sin agua, tapa y cuécelo a fuego medio-bajo 15 minutos: soltará mucho líquido de color morado.",
+    "Añade el vino tinto, el laurel y pimienta y cuece tapado a fuego suave 40–45 minutos más, hasta que al pinchar la parte gruesa de un tentáculo con un palillo entre sin resistencia. Mientras, pica la cebolla, el ajo y el perejil.",
     "Saca el pulpo, cuela el líquido de cocción y mídelo: completa con agua hasta tener 500 ml. Pruébalo antes de salar, porque el pulpo ya es salado. Corta el pulpo en trozos de 2–3 cm.",
     "Seca la cazuela, calienta el aceite y pocha la cebolla picada 6 minutos, hasta que esté transparente; añade el ajo picado y rehoga 1 minuto.",
     "Incorpora el arroz y remueve 1 minuto para que se impregne de aceite. Añade el tomate triturado y el caldo del pulpo caliente, lleva a ebullición y cuece a fuego suave 15 minutos, removiendo de vez en cuando.",
@@ -352,7 +352,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Si el bogavante está vivo, mételo 30 minutos en el congelador para adormecerlo. Pon a hervir agua abundante con sal para la pasta. Parte los tomates por la mitad y rállalos por la cara del corte; desecha la piel.",
+    "Si el bogavante está vivo, mételo 30 minutos en el congelador para adormecerlo. Pon a hervir agua abundante con sal para la pasta. Parte los tomates por la mitad y rállalos por la cara del corte; desecha la piel. Pica fina la cebolla, lamina el ajo y pica el perejil.",
     "Coloca el bogavante sobre una tabla y pártelo por la mitad a lo largo con un cuchillo grande, empezando por la cabeza. Separa las pinzas y cáscalas ligeramente con el dorso del cuchillo. Recoge el jugo y el coral que suelte.",
     "En una cazuela amplia, calienta el aceite a fuego fuerte y marca las mitades de bogavante y las pinzas 2 minutos por cada lado, con la carne hacia abajo primero, hasta que la cáscara se vuelva roja. Sácalas a un plato.",
     "Baja a fuego medio, añade la cebolla picada fina y el ajo laminado y pocha 5 minutos. Vierte el brandy y deja que se evapore 30 segundos (aparta la cara por si prende); añade el vino blanco, raspa el fondo y reduce 2 minutos.",
@@ -394,7 +394,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla en un bol la harina con una pizca de sal y ve añadiendo el agua tibia poco a poco mientras amasas. Amasa 8–10 minutos, hasta que la masa esté lisa, firme y no se pegue. Tápala y déjala reposar 20 minutos.",
     "Mientras, corta las cebollas en medias lunas finas y ponlas en una sartén con el aceite a fuego medio-bajo. Cocínalas 20–25 minutos, removiendo de vez en cuando, hasta que estén doradas y algo crujientes en las puntas. Sala al final.",
-    "Corta la masa en trozos y forma con las palmas cilindros de 1 cm de grosor. Córtalos en trozos de 2 cm.",
+    "Pon a hervir abundante agua con sal para la pasta. Corta la masa en trozos y forma con las palmas cilindros de 1 cm de grosor. Córtalos en trozos de 2 cm.",
     "Apoya las yemas del índice y el corazón sobre cada trozo y arrástralo hacia ti presionando: se enrollará sobre sí mismo formando una conchita hueca. Déjalos sobre un paño enharinado.",
     "Cuece las makarounes en abundante agua hirviendo con sal 8–10 minutos: suben a la superficie a los 3–4 minutos, pero necesitan algo más para que el centro quede tierno.",
     "Sácalas con una espumadera y colócalas en capas en una fuente caliente: pasta, mizithra rallada y cebolla con su aceite, y repite. Termina con pimienta negra y sirve enseguida."
@@ -476,9 +476,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla en un bol los dados de lomo con 1 cucharada de aceite, el zumo de medio limón, 1 diente de ajo rallado, la mitad del orégano, sal y pimienta. Déjalos marinar mientras preparas el resto.",
-    "Cuece el farro en agua abundante con sal 15–20 minutos, hasta que esté tierno pero con un punto firme al morderlo. Escúrrelo y alíñalo en caliente con el resto del zumo de limón y la otra cucharada de aceite.",
-    "Haz el tzatziki: ralla tres cuartas partes del pepino con la piel, apriétalo con las manos para quitarle el agua y mézclalo con el yogur griego, el otro diente de ajo rallado, el eneldo picado y sal.",
+    "Cuece el farro en agua abundante con sal 15–20 minutos, hasta que esté tierno pero con un punto firme al morderlo. Mientras se cuece, haz el tzatziki: ralla tres cuartas partes del pepino con la piel, apriétalo con las manos para quitarle el agua y mézclalo con el yogur griego, el otro diente de ajo rallado, el eneldo picado y sal.",
     "Pica en dados pequeños el tomate, el pepino restante y la cebolla morada y mézclalos con las aceitunas, la feta desmigada y el resto del orégano.",
+    "Escurre el farro y alíñalo en caliente con el resto del zumo de limón y la otra cucharada de aceite.",
     "Calienta la plancha a fuego fuerte y asa los dados de cerdo 6–8 minutos, girándolos, hasta que estén dorados por todas las caras y jugosos por dentro. Si tienes brochetas, ensártalos antes.",
     "Monta los boles: farro en la base, el souvlaki encima, la horiatiki picada al lado y una buena cucharada de tzatziki. Termina con pimienta negra."
   ],
@@ -562,7 +562,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua abundante con sal. Ralla la piel del limón y exprime su zumo.",
+    "Pon a hervir agua abundante con sal. Ralla la piel del limón y exprime su zumo. Pica el eneldo.",
     "En un bol grande, bate los huevos con la mitad del zumo de limón, la mitad de la ralladura, el kefalotyri rallado y mucha pimienta negra recién molida.",
     "Cuece los tagliatelle el tiempo que indique el paquete y añade los guisantes al agua en los últimos 3 minutos.",
     "Antes de escurrir, reserva un vaso del agua de cocción. Añade a la mezcla de huevo 3 cucharadas de esa agua caliente, poco a poco y batiendo sin parar: así templas el huevo y no se cuaja en grumos.",
@@ -831,7 +831,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Calienta el caldo y mantenlo a fuego mínimo. Pica las cebolletas y el ajo. Seca muy bien el calamar con papel de cocina.",
     "En una cazuela, calienta la mitad del aceite y pocha la cebolleta a fuego medio 5 minutos; añade el ajo y la cebada y remueve 2 minutos, hasta que los granos brillen.",
-    "Vierte el vino blanco y deja que se evapore. Añade dos cucharones de caldo y cuece a fuego medio, removiendo de vez en cuando y añadiendo caldo a medida que se absorba, 35–40 minutos, hasta que la cebada esté tierna pero con un punto de mordida.",
+    "Vierte el vino blanco y deja que se evapore. Añade dos cucharones de caldo y cuece a fuego medio, removiendo de vez en cuando y añadiendo caldo a medida que se absorba, 35–40 minutos, hasta que la cebada esté tierna pero con un punto de mordida. Mientras, pica el eneldo.",
     "Cuando falten 5 minutos, añade las espinacas a puñados y la ralladura del limón y remueve hasta que se ablanden. La cebada debe quedar melosa, que se extienda despacio en el plato.",
     "Mientras, calienta una sartén con el resto del aceite a fuego muy fuerte y marca el calamar sin moverlo 1 minuto, dale la vuelta y cocina 1 minuto más, hasta que esté blanco y con bordes dorados. Sálalo al final: si lo cocinas más, se endurece.",
     "Fuera del fuego, añade a la cebada el zumo de medio limón, el eneldo picado y pimienta. Sirve con el calamar encima y gajos del limón restante."

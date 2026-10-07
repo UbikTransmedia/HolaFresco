@@ -74,7 +74,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el cuerpo del calamar en anillas de 1,5 cm y los tentáculos en grupos de dos. Sécalos bien con papel de cocina.",
-    "Pela las patatas y córtalas en trozos irregulares de unos 3 cm, cascándolas con el cuchillo al final de cada corte para que suelten almidón y espesen el guiso. Parte los tomates cherry por la mitad.",
+    "Pela las patatas y córtalas en trozos irregulares de unos 3 cm, cascándolas con el cuchillo al final de cada corte para que suelten almidón y espesen el guiso. Parte los tomates cherry por la mitad. Separa las hojas del perejil, pica fino los tallos y pica las hojas aparte.",
     "Calienta el aceite de ajo en una cazuela a fuego medio, añade los tomates y los tallos de perejil picados y cocina 3 minutos, hasta que los tomates empiecen a deshacerse.",
     "Añade el calamar y remueve 5 minutos: soltará su agua y se volverá blanco. Baja el fuego al mínimo, tapa y cuece 25 minutos. El calamar se endurece primero y vuelve a ablandarse con la cocción larga.",
     "Incorpora las patatas, el agua caliente y sal. Tapa de nuevo y cuece 20 minutos más a fuego suave, removiendo con cuidado un par de veces, hasta que las patatas estén tiernas y la salsa haya espesado y tomado color rosado.",
@@ -118,8 +118,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C con calor arriba y abajo. Pela las patatas y córtalas en láminas de 3 mm, finas y regulares para que se hagan a la vez.",
     "Pica el perejil. En una fuente de horno mezcla las patatas con 2 cucharaditas de aceite de ajo, sal y la mitad del perejil, extiéndelas en una capa y vierte el agua. Hornea 20 minutos, hasta que empiecen a estar tiernas.",
     "Mientras, mezcla en un bol el pan rallado sin gluten, el pecorino, el resto del perejil y una pizca de pimienta.",
-    "Seca las doradas por dentro y por fuera, sálalas y haz dos cortes poco profundos en cada costado para que el calor entre de forma uniforme.",
-    "Saca la fuente, coloca las doradas sobre las patatas, reparte alrededor los tomates cherry partidos por la mitad y espolvorea la mezcla de pan y queso por encima de todo. Riega con el resto del aceite de ajo.",
+    "Seca las doradas por dentro y por fuera, sálalas y haz dos cortes poco profundos en cada costado para que el calor entre de forma uniforme. Parte los tomates cherry por la mitad.",
+    "Saca la fuente, coloca las doradas sobre las patatas, reparte alrededor los tomates cherry partidos y espolvorea la mezcla de pan y queso por encima de todo. Riega con el resto del aceite de ajo.",
     "Hornea 20-25 minutos. La dorada está lista cuando el ojo se ha vuelto blanco, la aleta dorsal sale sin esfuerzo al tirar de ella y la carne se separa de la espina central; las patatas de los bordes estarán doradas.",
     "Sirve en la mesa y despieza cada dorada: retira la piel, levanta los lomos de la espina y acompáñalos con las patatas, los tomates y la costra crujiente."
   ],
@@ -158,10 +158,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas nuevas, pártelas por la mitad y cuécelas al vapor 15-18 minutos, hasta que un cuchillo entre sin resistencia. Añade las judías verdes despuntadas en los últimos 10 minutos: deben quedar tiernas, no crujientes.",
-    "Seca muy bien los filetes de lenguado con papel de cocina, sálalos y pásalos por la harina de arroz. Sacúdelos para que quede solo un velo fino: es lo que les da el dorado sin hacer costra.",
+    "Seca muy bien los filetes de lenguado con papel de cocina, sálalos y pásalos por la harina de arroz. Sacúdelos para que quede solo un velo fino: es lo que les da el dorado sin hacer costra. Pica el perejil y exprime medio limón.",
     "Calienta una sartén antiadherente grande a fuego medio con el aceite y la mitad de la mantequilla. Cuando la mantequilla deje de espumar, coloca los filetes en una sola capa.",
     "Dóralos 2 minutos sin moverlos, dales la vuelta con una espátula ancha y cocina 1-2 minutos más, hasta que estén dorados claros y la carne se vea blanca y opaca. Pásalos a los platos calientes.",
-    "Pica el perejil y exprime medio limón. Baja el fuego, añade a la sartén el resto de la mantequilla y, en cuanto tome un tono avellana claro y huela a tostado, vierte el zumo de limón y el perejil. Mueve la sartén 20 segundos para emulsionar.",
+    "Baja el fuego, añade a la sartén el resto de la mantequilla y, en cuanto tome un tono avellana claro y huela a tostado, vierte el zumo de limón y el perejil. Mueve la sartén 20 segundos para emulsionar.",
     "Riega el lenguado con esa salsa, sirve las patatas y las judías al lado con una pizca de sal y acompaña con el otro medio limón en gajos."
   ],
   nutricion: { kcal: 420, prot: 31, hc: 38, grasa: 16 },
@@ -373,7 +373,7 @@ window.RECETAS_SEED.push({
     "Corta la sepia en tiras de 1 cm y el rape y la merluza en trozos de 4-5 cm; sala ligeramente el pescado y guárdalo en la nevera. Quita semillas y nervios al pimiento y córtalo en tiras finas, pela los tomates con un pelador y córtalos en dados, y pica la parte verde de la cebolleta.",
     "Calienta el aceite de ajo y el de oliva en una cazuela ancha y baja a fuego medio-bajo. Añade el pimiento y la cebolleta con una pizca de sal, tapa y pocha 10 minutos, hasta que el pimiento esté muy blando.",
     "Incorpora el tomate y cuece 5 minutos, hasta que empiece a deshacerse. Añade la sepia, remueve 2 minutos y riega con el vinagre; deja que hierva 1 minuto para que pierda el golpe ácido.",
-    "Vierte la mitad del agua caliente, tapa y cuece a fuego suave 20 minutos, hasta que la sepia esté tierna al pincharla.",
+    "Vierte la mitad del agua caliente, tapa y cuece a fuego suave 20 minutos, hasta que la sepia esté tierna al pincharla. Mientras, pica el perejil.",
     "Coloca encima el rape y después la merluza, en una sola capa, y añade el resto del agua: el pescado debe quedar cubierto a medias. Desde aquí no remuevas con cuchara; mueve la cazuela en vaivén para que la salsa ligue sin romper el pescado.",
     "Tapa y cuece 8-10 minutos a fuego suave, hasta que el pescado esté opaco y se separe en lascas. Mientras, tuesta el pan sin gluten en la sartén seca hasta que esté dorado por las dos caras.",
     "Prueba de sal, espolvorea el perejil picado y una vuelta de pimienta, y sirve en platos hondos con el pan al lado para empapar el caldo."
@@ -415,8 +415,8 @@ window.RECETAS_SEED.push({
     "Corta cada contramuslo en dos o tres trozos, sécalos con papel de cocina y sálalos. Pica fina la parte verde de la cebolleta y las hojas de una rama de romero.",
     "Calienta el aceite de ajo en una cazuela a fuego medio y dora el pollo 6-8 minutos, dándole la vuelta, hasta que tenga una costra dorada por todos los lados.",
     "Añade la cebolleta, el romero picado y la rama entera, y remueve 1 minuto. Riega con el zumo del medio limón y raspa el fondo con una cuchara de madera para despegar lo tostado.",
-    "Incorpora el tomate triturado y el caldo, lleva a hervor suave, tapa y cuece 25 minutos a fuego bajo.",
-    "Pela las patatas, córtalas en dados de 2,5 cm, añádelas a la cazuela con una pizca de sal y cuece tapado 20 minutos más, hasta que las patatas estén tiernas y el pollo se deshaga con el tenedor.",
+    "Incorpora el tomate triturado y el caldo, lleva a hervor suave, tapa y cuece 25 minutos a fuego bajo. Mientras, pela las patatas y córtalas en dados de 2,5 cm.",
+    "Añade las patatas a la cazuela con una pizca de sal y cuece tapado 20 minutos más, hasta que las patatas estén tiernas y el pollo se deshaga con el tenedor.",
     "Destapa los últimos 5 minutos si la salsa está muy líquida: debe quedar espesa y brillante. Retira la rama de romero, ajusta de sal, añade una vuelta de pimienta y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 490, prot: 42, hc: 31, grasa: 22 },
@@ -458,8 +458,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en gajos finos, mézclalas en una bandeja con 2 cucharaditas de aceite y sal y hornéalas 15 minutos.",
-    "Mientras, desmiga el pan sin gluten en un bol grande, cúbrelo con la leche y déjalo 5 minutos. Aplástalo con un tenedor hasta hacer una pasta.",
-    "Añade la ternera, el huevo, el parmesano, el perejil muy picado, la ralladura de todo el limón, sal y pimienta. Mezcla con las manos lo justo para que quede homogéneo: si amasas de más, las albóndigas salen duras.",
+    "Mientras, desmiga el pan sin gluten en un bol grande, cúbrelo con la leche y déjalo 5 minutos; mientras, pica muy fino el perejil. Aplástalo con un tenedor hasta hacer una pasta.",
+    "Añade la ternera, el huevo, el parmesano, el perejil, la ralladura de todo el limón, sal y pimienta. Mezcla con las manos lo justo para que quede homogéneo: si amasas de más, las albóndigas salen duras.",
     "Con las manos húmedas, forma 8 albóndigas algo aplanadas, de unos 4 cm, y aprieta cada una sobre una hoja de limonero lavada y seca.",
     "Haz sitio en la bandeja de las patatas, coloca las albóndigas sobre sus hojas y hornea 15-18 minutos, hasta que estén doradas por arriba, firmes al tacto y suelten jugo claro al pincharlas (unos 70 °C en el centro).",
     "Aliña la rúcula y los tomates cherry partidos con el resto del aceite, el zumo de medio limón y una pizca de sal.",
@@ -548,7 +548,7 @@ window.RECETAS_SEED.push({
     "Corta el cordero en dados de 3 cm, retira cualquier resto de grasa o tendón, sécalo con papel y sálalo.",
     "Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora el cordero en dos tandas, 3-4 minutos cada una, hasta que tenga costra por todos lados. No llenes la cazuela o se cocerá en su jugo en vez de dorarse.",
     "Vuelve a poner toda la carne, añade la rama de romero y el caldo caliente, raspa el fondo, tapa y cuece a fuego mínimo 45-50 minutos, hasta que la carne esté tierna. Si se queda sin líquido, añade un chorrito de agua: al final debe quedar poco jugo, unos 4-5 cucharadas.",
-    "Mientras, pela las patatas, córtalas en trozos de 3 cm y cuécelas en agua con sal 18-20 minutos. Escúrrelas y espolvoréalas con la mitad del perejil picado.",
+    "Mientras, pica el perejil, pela las patatas, córtalas en trozos de 3 cm y cuécelas en agua con sal 18-20 minutos. Escúrrelas y espolvoréalas con la mitad del perejil picado.",
     "En un bol bate el huevo con el pecorino, la ralladura del limón, el zumo de medio limón, el resto del perejil picado y una vuelta de pimienta.",
     "Retira la rama de romero, aparta la cazuela del fuego y espera 1 minuto. Vierte el huevo y remueve sin parar 1 minuto: el calor residual lo convierte en una crema amarilla y sedosa que envuelve la carne. Si queda muy líquido, ponla 20 segundos a fuego mínimo sin dejar de remover; si hierve, se cuaja en grumos.",
     "Sirve de inmediato con las patatas al perejil."
@@ -592,7 +592,7 @@ window.RECETAS_SEED.push({
     "Seca bien la pieza de ternera, átala con hilo de cocina si tiende a abrirse y salpimiéntala. Calienta el aceite de oliva en una cazuela de fondo grueso, justa para la pieza, y dórala a fuego medio-alto 8 minutos, girándola, hasta que tenga costra por todas las caras.",
     "Baja el fuego al mínimo, añade el aceite de ajo y las anchoas y aplástalas con una cuchara de madera durante 1 minuto, hasta que se deshagan en el fondo.",
     "Vierte el caldo caliente hasta cubrir la carne a media altura, añade el romero y los tallos del perejil atados, tapa y cuece a fuego muy suave 2 horas y media, dando la vuelta a la pieza cada media hora. El caldo debe temblar, no hervir; si baja demasiado, añade un poco de agua caliente.",
-    "Media hora antes del final, pela las patatas, córtalas en trozos y cuécelas al vapor 15-18 minutos, hasta que estén tiernas.",
+    "Media hora antes del final, pica las hojas del perejil, pela las patatas, córtalas en trozos y cuécelas al vapor 15-18 minutos, hasta que estén tiernas.",
     "La carne está lista cuando un tenedor entra y sale sin resistencia. Sácala a una tabla, tápala y retira el romero y los tallos de perejil.",
     "Con la cazuela a fuego suave y unos 150 ml de jugo dentro, añade el pan rallado y el parmesano y bate con varillas 2-3 minutos, hasta tener una salsa ligada y brillante. Termina con las hojas de perejil picadas y pimienta.",
     "Corta la carne en lonchas de 1 cm contra la fibra, nápalas con la salsa caliente y sírvelas con las patatas."
@@ -806,9 +806,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en dados de 1,5 cm. Cuécelas al vapor 8 minutos, hasta que estén casi tiernas: así después se doran con muy poco aceite.",
     "Calienta el aceite de oliva en una sartén antiadherente de 26 cm a fuego medio y extiende las patatas en una capa. Dóralas 10-12 minutos, moviéndolas solo de vez en cuando, hasta que tengan los bordes dorados y el interior tierno. Sálalas.",
-    "Mientras, bate los huevos en un bol con el pecorino, el perejil picado, una pizca de sal y pimienta, solo hasta mezclar.",
+    "Mientras, pica el perejil y la parte verde de la cebolleta, y bate los huevos en un bol con el pecorino, el perejil, una pizca de sal y pimienta, solo hasta mezclar.",
     "Prepara la ensalada: pela el pepino, quítale las semillas y córtalo en medias lunas; corta el tomate en gajos y alíñalo todo con el aceite de ajo, el orégano y una pizca de sal.",
-    "Añade a la sartén la parte verde de la cebolleta picada y remueve 1 minuto. Baja el fuego al mínimo y vierte los huevos.",
+    "Añade a la sartén la cebolleta y remueve 1 minuto. Baja el fuego al mínimo y vierte los huevos.",
     "Remueve despacio con una espátula, de los bordes hacia el centro, durante 1 minuto y medio o 2, hasta que el huevo cuaje en pliegues blandos y brillantes. Retíralo del fuego cuando aún parezca un poco húmedo: el calor de la sartén lo termina.",
     "Sirve enseguida, con la ensalada al lado."
   ],
@@ -937,8 +937,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela el pimiento con un pelador de verduras (la piel es lo más indigesto), retira semillas y nervios y córtalo en tiras finas de medio centímetro.",
-    "Calienta el aceite de ajo en una sartén de 24 cm a fuego medio-bajo, añade el pimiento con una pizca de sal, tapa y pocha 15 minutos, removiendo de vez en cuando, hasta que esté muy blando y dulce, sin que se tueste.",
-    "Añade la parte verde de la cebolleta picada y remueve 1 minuto. Incorpora el tomate, el vinagre y el azúcar y cuece 8 minutos destapado, hasta tener una salsa espesa.",
+    "Calienta el aceite de ajo en una sartén de 24 cm a fuego medio-bajo, añade el pimiento con una pizca de sal, tapa y pocha 15 minutos, removiendo de vez en cuando, hasta que esté muy blando y dulce, sin que se tueste. Mientras, pica la parte verde de la cebolleta.",
+    "Añade la cebolleta y remueve 1 minuto. Incorpora el tomate, el vinagre y el azúcar y cuece 8 minutos destapado, hasta tener una salsa espesa.",
     "Haz 4 huecos con una cuchara, casca un huevo en cada uno, sala las claras, tapa y cocina a fuego bajo 5-7 minutos, hasta que las claras estén blancas y cuajadas y las yemas a tu gusto.",
     "Mientras, tuesta el pan sin gluten.",
     "Reparte las hojas de albahaca y una vuelta de pimienta por encima y lleva la sartén a la mesa con el pan."
