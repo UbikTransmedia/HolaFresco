@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara un bol con agua fría y el zumo de medio limón. Limpia las alcachofas: arranca las hojas exteriores duras hasta que asomen las tiernas, de color amarillo pálido, corta el tercio superior y pela el tallo. Pártelas por la mitad, retira la pelusa del centro con una cucharilla y sumérgelas en el agua con limón para que no se oscurezcan.",
-    "Pela la patata y córtala en trozos de 3 cm; pela la zanahoria y córtala en rodajas gruesas. Pica las cebolletas separando la parte blanca de la verde.",
+    "Pela la patata y córtala en trozos de 3 cm; pela la zanahoria y córtala en rodajas gruesas. Pica las cebolletas separando la parte blanca de la verde, y pica el eneldo.",
     "Calienta el aceite en una cazuela a fuego medio y rehoga la parte blanca de la cebolleta 4 minutos, hasta que esté blanda y transparente. Añade la zanahoria y la patata y remueve 2 minutos para que se impregnen bien de aceite.",
     "Incorpora las alcachofas escurridas, la parte verde de la cebolleta y la mitad del eneldo picado. Cubre justo con agua caliente (unos 500 ml), sala, tapa y cuece a fuego suave 20 minutos.",
     "Añade los guisantes y cuece 8 minutos más, hasta que la patata y el corazón de las alcachofas se dejen atravesar sin resistencia. Debe quedar caldo hasta media altura; si hay más, destapa y reduce unos minutos.",
@@ -124,9 +124,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla el calabacín con la parte gruesa del rallador, mézclalo con media cucharadita de sal y déjalo en un colador 15 minutos. Después estrújalo a puñados con fuerza: tiene que soltar casi medio vaso de agua. Si no lo escurres, la batzina queda aguada.",
-    "Precalienta el horno a 200 °C con calor arriba y abajo. Unta con 1 cucharada de aceite una fuente redonda de unos 26 cm (o una bandeja de 20 × 30 cm) y espolvorea por encima una cucharada de la harina de maíz.",
-    "Pica fina la cebolleta y las hojas de menta. En un bol, bate los huevos con el yogur y 1 cucharada de aceite.",
+    "Ralla el calabacín con la parte gruesa del rallador, mézclalo con media cucharadita de sal y déjalo en un colador 15 minutos.",
+    "Mientras, precalienta el horno a 200 °C con calor arriba y abajo. Unta con 1 cucharada de aceite una fuente redonda de unos 26 cm (o una bandeja de 20 × 30 cm) y espolvorea por encima una cucharada de la harina de maíz. Pica fina la cebolleta y las hojas de menta, y en un bol bate los huevos con el yogur y 1 cucharada de aceite.",
+    "Pasados los 15 minutos, estruja el calabacín a puñados con fuerza: tiene que soltar casi medio vaso de agua. Si no lo escurres, la batzina queda aguada.",
     "Añade el calabacín escurrido, la cebolleta, la menta, el feta desmenuzado y pimienta, y mezcla bien.",
     "Incorpora el resto de la harina de maíz y la harina de trigo y remueve con una espátula hasta obtener una masa espesa y húmeda, como una papilla gruesa. No la trabajes más de la cuenta.",
     "Extiéndela en la fuente en una capa de 1,5–2 cm, alisa y riega por encima con el aceite restante. Hornea 40–45 minutos, hasta que la superficie esté dorada con manchas tostadas y los bordes, crujientes y despegados del molde.",
@@ -173,7 +173,7 @@ window.RECETAS_SEED.push({
     "Mientras, aplasta el feta con un tenedor en un bol y mézclalo con el yogur, el huevo, el ajo rallado, la guindilla desmenuzada, el orégano, la mitad del perejil picado y pimienta, hasta tener una crema espesa con tropezones.",
     "Baja el horno a 190 °C con calor arriba y abajo. Corta los tomates en rodajas, cubre con ellas el fondo de una fuente y riégalas con la mitad del aceite.",
     "Rellena cada pimiento por el corte con la crema de feta, ciérralos un poco y colócalos sobre el tomate. Riega con el resto del aceite.",
-    "Hornea 15 minutos, hasta que el relleno se infle ligeramente, cuaje y asome dorado por la abertura.",
+    "Hornea 15 minutos, hasta que el relleno se infle ligeramente, cuaje y asome dorado por la abertura. Mientras, tuesta el pan.",
     "Espolvorea el resto del perejil y sirve con el pan tostado para mojar en el jugo de tomate, pimiento y aceite del fondo de la fuente."
   ],
   nutricion: { kcal: 645, prot: 24, hc: 54, grasa: 37 },
@@ -347,9 +347,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las berenjenas en rodajas de 2 cm, sálalas y déjalas en un colador 20 minutos para que suelten el líquido amargo. Sécalas bien con papel de cocina.",
+    "Corta las berenjenas en rodajas de 2 cm, sálalas y déjalas en un colador 20 minutos para que suelten el líquido amargo. Mientras, pela los ajos y córtalos en láminas, y pica el perejil. Seca bien las berenjenas con papel de cocina.",
     "Calienta 2 cucharadas de aceite en una sartén amplia a fuego medio-alto y dora las rodajas por tandas, 3–4 minutos por lado, hasta que estén tostadas por fuera y blandas por dentro. No inundes la sartén de aceite: la berenjena lo absorbe todo. Resérvalas.",
-    "Pela los ajos y córtalos en láminas. En la misma sartén, con el resto del aceite y a fuego suave, póchalos 2 minutos sin que tomen color.",
+    "En la misma sartén, con el resto del aceite y a fuego suave, pocha los ajos 2 minutos sin que tomen color.",
     "Añade el tomate triturado, el laurel, el azúcar y una pizca de sal y cuece 10 minutos, hasta que la salsa espese y brille.",
     "Incorpora el vinagre y la mitad del perejil picado y deja hervir 1 minuto para que se evapore la parte más punzante del vinagre.",
     "Vuelve a poner las berenjenas en la sartén en una sola capa, cúbrelas con la salsa y cuece tapado a fuego suave 15 minutos, hasta que estén melosas y se deshagan al tocarlas con la cuchara.",
@@ -390,7 +390,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Ralla el calabacín con la parte gruesa del rallador, sálalo y déjalo escurrir 10 minutos en un colador; luego estrújalo con las manos.",
-    "Mientras, pica la cebolla fina. Calienta 1,5 cucharadas de aceite en una sartén de 20–22 cm apta para horno y póchala a fuego medio 6 minutos, hasta que esté blanda y dorada en los bordes.",
+    "Mientras, pica la cebolla fina y la menta. Calienta 1,5 cucharadas de aceite en una sartén de 20–22 cm apta para horno y póchala a fuego medio 6 minutos, hasta que esté blanda y dorada en los bordes.",
     "Añade el calabacín escurrido y saltea 5 minutos a fuego medio-alto, hasta que se evapore el líquido y empiece a pegarse ligeramente al fondo.",
     "En un bol, bate los huevos con el feta desmenuzado, la menta picada, el pan rallado y pimienta.",
     "Vierte el huevo sobre las verduras, remueve una vez para repartir y deja cuajar a fuego suave 2 minutos, hasta que los bordes empiecen a cuajar.",
@@ -434,7 +434,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla fina. Calienta 1 cucharada de aceite en una cazuela a fuego medio, añade los fideos troceados con la mano y remueve 2 minutos, hasta que estén dorados como la avellana.",
+    "Calienta el caldo y pica la cebolla fina. Calienta 1 cucharada de aceite en una cazuela a fuego medio, añade los fideos troceados con la mano y remueve 2 minutos, hasta que estén dorados como la avellana.",
     "Añade la cebolla y rehógala 4 minutos con los fideos, hasta que esté transparente. Incorpora el tomate concentrado y remueve 1 minuto para que pierda el gusto a crudo.",
     "Agrega el bulgur, remueve para que se impregne y vierte el caldo caliente. Prueba de sal, lleva a ebullición, tapa y cuece a fuego mínimo 12 minutos, hasta que haya absorbido el líquido y en la superficie aparezcan pequeños cráteres.",
     "Apaga el fuego, pon un paño limpio entre la cazuela y la tapa y deja reposar 10 minutos: el bulgur termina de hincharse y queda suelto.",
@@ -524,10 +524,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita las hojas exteriores estropeadas de la col y córtala en 4 cuñas de unos 4 cm de grosor, atravesando el tronco para que las hojas sigan unidas. Sálalas por las caras del corte. Calienta el caldo en un cazo o en el microondas.",
+    "Quita las hojas exteriores estropeadas de la col y córtala en 4 cuñas de unos 4 cm de grosor, atravesando el tronco para que las hojas sigan unidas. Sálalas por las caras del corte. Calienta el caldo en un cazo o en el microondas y pica la cebolleta.",
     "Calienta 2 cucharadas de aceite en una sartén amplia con tapa a fuego medio-alto y dora las cuñas 4–5 minutos por cada cara del corte, sin moverlas, hasta que estén bien tostadas y casi negras en los bordes.",
     "Reparte alrededor la cebolleta picada y rehógala 1 minuto. Vierte el caldo caliente (debe cubrir un tercio de la altura de la col), el zumo de medio limón, los tallos del eneldo y pimienta. Tapa y cuece a fuego suave 15–20 minutos, hasta que el tronco se deje atravesar sin resistencia con la punta de un cuchillo.",
-    "Mientras, tuesta las nueces en una sartén pequeña sin aceite 3 minutos, moviéndolas, y pícalas gruesas. Tuesta el pan.",
+    "Mientras, tuesta las nueces en una sartén pequeña sin aceite 3 minutos, moviéndolas, y pícalas gruesas. Tuesta el pan y pica las hojas de eneldo.",
     "Pasa las cuñas a una fuente caliente y tápala. Retira los tallos de eneldo y mide el caldo que queda en la sartén: necesitas unos 250 ml; si hay menos, completa con agua caliente.",
     "Para el avgolemono, bate en un bol los huevos con la maicena y el zumo de 1 limón. Vierte el caldo caliente en hilo sin dejar de batir, devuelve la mezcla a la sartén y caliéntala a fuego muy bajo, removiendo sin parar, 2–3 minutos, hasta que espese como unas natillas ligeras. No dejes que hierva o se cortará.",
     "Napa la col con la salsa y termina con el eneldo picado, las nueces, el aceite restante en un hilo y pimienta. Sírvela enseguida con el pan para mojar."
@@ -576,8 +576,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica fina la cebolla y el ajo. Pica los champiñones a cuchillo en trozos del tamaño de una lenteja (o en la picadora con pulsos cortos) y las nueces algo más gruesas.",
     "Calienta el aceite en una sartén grande a fuego fuerte y saltea los champiñones 8–10 minutos, hasta que suelten el agua, esta se evapore y empiecen a dorarse y a chisporrotear: así toman textura de carne picada.",
-    "Añade la cebolla y el ajo, baja a fuego medio y cocina 5 minutos. Incorpora las nueces, la canela y el clavo, remueve 1 minuto, vierte el vino y deja que se evapore. Añade el tomate, sal y pimienta y cuece 15 minutos, hasta que el ragú esté espeso y no suelte líquido.",
-    "Precalienta el horno a 180 °C. Cuece los macarrones en una cazuela con agua y sal 2 minutos menos de lo que indique el paquete, escúrrelos y mézclalos con un tercio del kefalotyri rallado.",
+    "Añade la cebolla y el ajo, baja a fuego medio y cocina 5 minutos. Incorpora las nueces, la canela y el clavo, remueve 1 minuto, vierte el vino y deja que se evapore. Añade el tomate, sal y pimienta y cuece 15 minutos, hasta que el ragú esté espeso y no suelte líquido. Mientras, precalienta el horno a 180 °C, pon a hervir agua con sal en una cazuela, calienta la leche y ralla el kefalotyri.",
+    "Cuece los macarrones en el agua hirviendo 2 minutos menos de lo que indique el paquete, escúrrelos y mézclalos con un tercio del kefalotyri rallado.",
     "Para la bechamel, derrite la mantequilla en la misma cazuela, añade la harina y remueve 1 minuto. Vierte la leche caliente poco a poco, batiendo con varillas, y cuece 6–8 minutos a fuego suave hasta que espese y cubra el dorso de la cuchara. Fuera del fuego, añade la nuez moscada, otro tercio del queso y, tras dejarla templar 2 minutos, el huevo batido.",
     "En una fuente de unos 18 × 22 cm, extiende la mitad de los macarrones, todo el ragú y el resto de los macarrones. Cubre con la bechamel y espolvorea el queso restante.",
     "Hornea 35–40 minutos, hasta que la superficie esté hinchada y dorada con manchas tostadas.",
@@ -619,8 +619,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Separa las hojas verdes del hinojo, pícalas y resérvalas. Corta los bulbos por la mitad, quita la base dura y córtalos en láminas finas; pica las cebolletas, parte verde incluida.",
-    "Calienta 1 cucharada de aceite en una sartén amplia a fuego medio y pocha el hinojo con la cebolleta y una pizca de sal 15 minutos, removiendo de vez en cuando, hasta que esté muy tierno, dulce y apenas dorado. Apártalo, mézclalo con las hojas picadas y la ralladura de limón y deja que temple.",
-    "Precalienta el horno a 190 °C con calor arriba y abajo. En un bol, bate el huevo con el yogur, la mitad del feta desmenuzado y pimienta: es la crema que liga el relleno.",
+    "Calienta 1 cucharada de aceite en una sartén amplia a fuego medio y pocha el hinojo con la cebolleta y una pizca de sal 15 minutos, removiendo de vez en cuando, hasta que esté muy tierno, dulce y apenas dorado. Mientras, precalienta el horno a 190 °C con calor arriba y abajo. Apártalo, mézclalo con las hojas picadas y la ralladura de limón y deja que temple.",
+    "En un bol, bate el huevo con el yogur, la mitad del feta desmenuzado y pimienta: es la crema que liga el relleno.",
     "Forra una bandeja con papel de horno. Ve colocando las hojas de filo una a una, pintándolas con el aceite restante y girándolas un poco cada vez para que sobresalgan por todos lados como los pétalos de una flor, dejando una base de unos 24 cm.",
     "Extiende el hinojo sobre la base, vierte encima la crema de yogur y reparte el resto del feta en trozos. Pliega hacia dentro las puntas de filo que sobresalen, arrugándolas sin apretar.",
     "Espolvorea el sésamo sobre los bordes y hornea 25–30 minutos, hasta que la filo esté dorada y crujiente y el centro haya cuajado (no tiembla al mover la bandeja).",
@@ -705,7 +705,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Derrite la mitad de la mantequilla en una sartén amplia con tapa, a fuego medio. Arruga las hojas de filo en trozos irregulares, échalas y tuéstalas 2–3 minutos, removiendo, hasta que estén doradas y crujientes como copos. Sácalas a un plato.",
+    "Pica la cebolleta y el eneldo. Derrite la mitad de la mantequilla en una sartén amplia con tapa, a fuego medio. Arruga las hojas de filo en trozos irregulares, échalas y tuéstalas 2–3 minutos, removiendo, hasta que estén doradas y crujientes como copos. Sácalas a un plato.",
     "En la misma sartén, añade el aceite y la cebolleta picada y rehógala 3 minutos, hasta que se ablande.",
     "Añade las espinacas por puñados, dejando que cada tanda se reduzca antes de echar la siguiente, con una pizca de sal y la nuez moscada. Cocina hasta que se evapore casi todo el líquido, unos 4 minutos: si queda agua, los huevos se cuecen en lugar de cuajarse.",
     "Retira del fuego y mezcla con la mitad del eneldo picado, la ralladura de limón y la mitad del feta desmenuzado.",
@@ -838,7 +838,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Parte los tomates por la mitad, el pimiento en tiras anchas sin semillas y la cebolla en cuartos. Colócalos en una bandeja con el tomate boca arriba, añade los dientes de ajo sin pelar, riega con 1 cucharada de aceite, salpimienta y espolvorea la mitad del orégano.",
     "Ásalo todo 35 minutos, hasta que los tomates estén arrugados y con los bordes tostados y el pimiento tenga manchas oscuras.",
-    "Mientras, corta el pan en dados de 2 cm y mézclalos con media cucharada de aceite, el resto del orégano y una pizca de sal. Mételos en el horno en otra bandeja los últimos 8–10 minutos, hasta que estén dorados y crujientes.",
+    "Mientras, corta el pan en dados de 2 cm y mézclalos con media cucharada de aceite, el resto del orégano y una pizca de sal. Mételos en el horno en otra bandeja los últimos 8–10 minutos, hasta que estén dorados y crujientes. Calienta el caldo.",
     "Saca la pulpa de los ajos apretando la piel y ponla en el vaso de la batidora con las verduras asadas y todo su jugo.",
     "Añade el caldo caliente poco a poco mientras trituras 2 minutos, hasta tener una crema fina con la textura que te guste. Prueba de sal y pimienta.",
     "Sirve la crema caliente o templada con el feta desmigado, los picatostes, unas hojas de albahaca y el resto del aceite en un hilo."

@@ -39,7 +39,7 @@ window.RECETAS_SEED.push({
     "En la misma sartén, a fuego fuerte, asa los tomates enteros, la cebolla en un trozo y los ajos con piel unos 10 minutos, girándolos, hasta que la piel tenga manchas negras y los tomates estén blandos. Este tatemado da el fondo ahumado del caldillo.",
     "Pela los ajos y tritura los tomates, la cebolla, los ajos y los chiles escurridos con 100 ml del caldo y el comino hasta obtener una salsa muy fina.",
     "Calienta el aceite en una cazuela ancha a fuego fuerte y vierte la salsa de golpe: chisporroteará. Remueve 4-5 minutos, hasta que oscurezca y espese; es «freír la salsa», el paso que le quita el sabor a crudo.",
-    "Añade el resto del caldo, sala y deja hervir suave 8 minutos. Debe quedar caldoso, con la textura de una sopa ligera, no de un sofrito.",
+    "Añade el resto del caldo, sala y deja hervir suave 8 minutos; mientras, pica el cilantro. Debe quedar caldoso, con la textura de una sopa ligera, no de un sofrito.",
     "Baja a fuego muy suave, sin que borbotee. Casca los huevos uno a uno en un cuenco y deslízalos en el caldillo separados entre sí. Tapa y cocina 4-5 minutos, hasta que la clara esté blanca y cuajada y la yema siga temblando al mover la cazuela.",
     "Mientras, calienta las tortillas en la sartén seca 30 segundos por cada lado, hasta que se inflen un poco, y envuélvelas en un paño.",
     "Sirve los huevos en platos hondos con bastante caldillo, el queso fresco desmenuzado y el cilantro picado, con las tortillas calientes para mojar."
@@ -80,8 +80,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en bastones muy finos, de 2 mm, con mandolina o cuchillo. Lávalas en un bol con agua fría hasta que el agua salga clara: así pierden el almidón y no se pegan. Sécalas a conciencia con un paño.",
     "Calienta el aceite de girasol en una sartén honda a 170 °C (un bastón debe burbujear con fuerza al instante). Fríe las patatas en dos tandas 4-5 minutos, moviéndolas, hasta que estén doradas y crujientes. Escúrrelas sobre papel y sálalas en caliente.",
-    "Retira el aceite dejando solo una cucharada en la sartén. Corta la cebolla en juliana fina y póchala con la mantequilla a fuego medio 8 minutos, hasta que esté blanda y apenas dorada.",
-    "Añade el jamón en tiras y los guisantes y saltea 3 minutos, hasta que los guisantes estén tiernos y el jamón empiece a dorarse en los bordes.",
+    "Retira el aceite dejando solo una cucharada en la sartén. Corta la cebolla en juliana fina y póchala con la mantequilla a fuego medio 8 minutos, hasta que esté blanda y apenas dorada. Mientras, corta el jamón en tiras y pica el perejil.",
+    "Añade el jamón y los guisantes y saltea 3 minutos, hasta que los guisantes estén tiernos y el jamón empiece a dorarse en los bordes.",
     "Bate ligeramente los huevos con sal y pimienta, solo para romperlos. Baja el fuego al mínimo, vierte los huevos y remueve con espátula despacio 1 minuto, hasta que estén a medio cuajar, cremosos.",
     "Incorpora las patatas paja, reservando un puñado, y mezcla 20-30 segundos fuera del fuego: el huevo debe envolverlas y quedar jugoso, y las patatas conservar parte de su crujiente.",
     "Sirve enseguida con las patatas reservadas por encima y el perejil picado."
@@ -213,9 +213,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C y engrasa una fuente pequeña (unos 18 × 18 cm) con unas gotas del aceite.",
-    "Corta los palmitos en rodajas de 1 cm y sécalos bien con papel de cocina: si llevan el agua de la conserva, la fritada queda aguada. Pica la cebolla y el ajo; quita las semillas al tomate y córtalo en dados; corta las aceitunas en aros.",
+    "Corta los palmitos en rodajas de 1 cm y sécalos bien con papel de cocina: si llevan el agua de la conserva, la fritada queda aguada. Pica la cebolla y el ajo; quita las semillas al tomate y córtalo en dados; corta las aceitunas en aros y pica el perejil y la parte verde de la cebolleta.",
     "Sofríe la cebolla en el resto del aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el ajo y el tomate y cocina 3 minutos, hasta que el tomate pierda el agua. Incorpora el palmito y las aceitunas, saltea 1 minuto y deja templar.",
-    "Separa las claras y móntalas a punto de nieve firme con una pizca de sal. Bate las yemas con la mitad del parmesano, pimienta y el perejil y la parte verde de la cebolleta picados.",
+    "Separa las claras y móntalas a punto de nieve firme con una pizca de sal. Bate las yemas con la mitad del parmesano, pimienta, el perejil y la cebolleta.",
     "Mezcla las yemas con el sofrito y después incorpora las claras en dos veces, con movimientos envolventes de abajo arriba, sin batir: son las que dan la textura esponjosa.",
     "Vierte en la fuente, espolvorea el resto del parmesano y hornea 15-18 minutos, hasta que esté inflada, dorada y al pincharla en el centro salga limpio.",
     "Deja reposar 3 minutos y corta en cuadrados. Se toma caliente o templada."
@@ -254,7 +254,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el jamón, el pimiento verde y la cebolla en dados de medio centímetro: todo del mismo tamaño para que se cocine a la vez.",
+    "Corta el jamón, el pimiento verde y la cebolla en dados de medio centímetro: todo del mismo tamaño para que se cocine a la vez. Tuesta el pan de molde.",
     "Saltea las verduras en una sartén antiadherente de 20-22 cm con un tercio de la mantequilla a fuego medio 4 minutos, hasta que estén tiernas pero con algo de mordida. Añade el jamón y dóralo 2 minutos. Reserva en un plato.",
     "Bate 3 huevos con sal, pimienta y una cucharada de agua durante 30 segundos, hasta que estén espumosos y sin hebras de clara: el agua se convierte en vapor y hace la tortilla más esponjosa.",
     "Calienta la mitad de la mantequilla restante a fuego medio hasta que deje de hacer espuma. Vierte el huevo y, durante los primeros 30 segundos, lleva con la espátula los bordes cuajados hacia el centro inclinando la sartén para que el huevo crudo ocupe su lugar.",
@@ -384,7 +384,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Corta el jamón en dados y dóralo en una sartén apta para horno de 24 cm con la mitad de la mantequilla, 3 minutos a fuego medio, hasta que tenga los bordes tostados. Sácalo.",
+    "Precalienta el horno a 190 °C y pica el cebollino. Corta el jamón en dados y dóralo en una sartén apta para horno de 24 cm con la mitad de la mantequilla, 3 minutos a fuego medio, hasta que tenga los bordes tostados. Sácalo.",
     "Separa los huevos. Bate las yemas con la leche, sal, pimienta y la mitad del cebollino picado.",
     "Monta las claras con una pizca de sal a punto de nieve firme: deben formar picos que se sostienen. Incorpora un tercio a las yemas para aligerarlas y después el resto con movimientos envolventes, sin perder aire.",
     "Calienta el resto de la mantequilla en la sartén a fuego medio-bajo, vierte la mezcla, alisa la superficie y reparte el jamón por encima. Cocina 3 minutos sin tocarla, hasta que la base esté dorada (levanta un borde para comprobarlo).",
@@ -432,7 +432,7 @@ window.RECETAS_SEED.push({
     "Cuece los huevos en agua a hervor suave 10 minutos y enfríalos 5 minutos en agua con hielo. Pélalos bajo el chorro de agua fría.",
     "Mientras, dora el bacon en una sartén sin aceite a fuego medio 5-6 minutos, dándole la vuelta, hasta que esté crujiente. Escúrrelo sobre papel y desmigájalo.",
     "Prepara la ensalada: corta los tomates en gajos, el pepino en medias lunas y la cebolla morada en plumas finas. Aliña con el aceite, la mitad del vinagre y sal.",
-    "Pica muy fino los pepinillos dulces: es el relish, el toque agridulce que define el relleno sureño.",
+    "Pica el cebollino y pica muy fino los pepinillos dulces: es el relish, el toque agridulce que define el relleno sureño.",
     "Corta los huevos por la mitad a lo largo con un cuchillo húmedo y saca las yemas. Aplástalas con un tenedor y mézclalas con la mayonesa, la mostaza, el resto del vinagre, los pepinillos picados y una pizca de sal, hasta obtener una crema lisa y firme.",
     "Rellena las claras con una cuchara o una manga con boquilla rizada, formando una cúpula generosa.",
     "Espolvorea el pimentón ahumado, el bacon y el cebollino picado por encima, y sirve con la ensalada fría."
@@ -478,9 +478,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta los tomates verdes en rodajas de 1 cm, descartando las puntas. Sálalas por ambos lados y déjalas sobre papel de cocina 10 minutos: sueltan agua y el rebozado se adhiere mejor. Sécalas bien.",
-    "Rémoulade: pica muy fino las alcaparras, los pepinillos y la parte verde de la cebolleta. Mézclalos con la mayonesa, la mostaza antigua, la salsa picante, media cucharadita de pimentón y unas gotas de limón. Reserva en frío.",
-    "Prepara tres platos hondos: en uno la harina de trigo; en otro el huevo batido con la leche; en el tercero la harina de maíz con el resto del pimentón, sal y pimienta.",
+    "Corta los tomates verdes en rodajas de 1 cm, descartando las puntas. Sálalas por ambos lados y déjalas sobre papel de cocina 10 minutos: sueltan agua y el rebozado se adhiere mejor.",
+    "Mientras, prepara la rémoulade: pica muy fino las alcaparras, los pepinillos y la parte verde de la cebolleta. Mézclalos con la mayonesa, la mostaza antigua, la salsa picante, media cucharadita de pimentón y unas gotas de limón. Reserva en frío.",
+    "Seca bien las rodajas de tomate. Prepara tres platos hondos: en uno la harina de trigo; en otro el huevo batido con la leche; en el tercero la harina de maíz con el resto del pimentón, sal y pimienta.",
     "Pasa cada rodaja por harina (sacude el exceso), luego por el huevo y por último por la harina de maíz, apretando para que quede bien cubierta. Déjalas 5 minutos sobre una rejilla: la costra se asienta y no se desprende al freír.",
     "Calienta el aceite de girasol en una sartén de 24 cm, con medio centímetro de altura, a 175 °C (una pizca de harina de maíz debe chisporrotear enseguida). Fríe las rodajas en tandas, sin amontonarlas, 2-3 minutos por cada lado, hasta que estén doradas y crujientes.",
     "Escúrrelas sobre una rejilla, no sobre papel, para que la base no se ablande, y sálalas en caliente.",
@@ -527,8 +527,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava bien la col rizada, quita los nervios gruesos y corta las hojas en tiras de 2 cm.",
-    "Corta el bacon en dados y dóralo en una cazuela a fuego medio 5 minutos, hasta que suelte la grasa y esté crujiente. Añade la cebolla en juliana y póchala 5 minutos; luego el ajo laminado y la guindilla, 1 minuto.",
+    "Lava bien la col rizada, quita los nervios gruesos y corta las hojas en tiras de 2 cm. Corta la cebolla en juliana y lamina el ajo.",
+    "Corta el bacon en dados y dóralo en una cazuela a fuego medio 5 minutos, hasta que suelte la grasa y esté crujiente. Añade la cebolla y póchala 5 minutos; luego el ajo y la guindilla, 1 minuto.",
     "Echa la col a puñados, removiendo para que cada tanda se ablande antes de añadir la siguiente. Vierte el caldo, el azúcar moreno y la mitad del vinagre, tapa y cuece a fuego suave 35-40 minutos, hasta que las hojas estén muy tiernas y sedosas. Ese caldo verde, sabroso y ahumado es el pot likker.",
     "Mientras, precalienta el horno a 210 °C con una sartén de hierro o apta para horno de 18-20 cm dentro, con 15 g de la mantequilla. Mezcla la leche con 1 cucharada de zumo de limón (reserva el resto) y déjala cortarse 5 minutos: imita el suero de mantequilla tradicional, y su acidez activa el bicarbonato.",
     "En un bol, mezcla las dos harinas, la levadura, el bicarbonato y media cucharadita de sal. Añade el huevo, la leche cortada y el resto de la mantequilla fundida y mezcla solo hasta integrar: debe quedar una masa espesa pero vertible, como la de unas tortitas gruesas; unos grumos están bien.",
@@ -570,16 +570,16 @@ window.RECETAS_SEED.push({
     { n: "salsa picante", q: 1, u: "cdta", opcional: true, nota: "para servir" },
     { n: "arroz de grano largo", q: 120, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
+    { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz en abundante agua con sal 12 minutos, escúrrelo y déjalo tapado.",
-    "Pon cada mazorca de pie en un bol ancho y desgrana con un cuchillo de arriba abajo. Después pasa el dorso del cuchillo por la mazorca pelada para raspar la pulpa y el jugo lechoso que quedan: esa «leche» de maíz es la que espesa el maque choux.",
-    "Pica en dados pequeños la cebolla, el pimiento verde y el apio (la «santísima trinidad» de la cocina de Luisiana), y el ajo muy fino. Quita las semillas al tomate y córtalo en dados. Corta el quimbombó en rodajas de 1 cm.",
+    "Pon a hervir abundante agua con sal para el arroz. Mientras, pon cada mazorca de pie en un bol ancho y desgrana con un cuchillo de arriba abajo. Después pasa el dorso del cuchillo por la mazorca pelada para raspar la pulpa y el jugo lechoso que quedan: esa «leche» de maíz es la que espesa el maque choux.",
+    "Cuando hierva el agua, cuece el arroz 12 minutos, escúrrelo y déjalo tapado. Mientras se cuece, pica en dados pequeños la cebolla, el pimiento verde y el apio (la «santísima trinidad» de la cocina de Luisiana), y el ajo muy fino. Quita las semillas al tomate y córtalo en dados, corta el quimbombó en rodajas de 1 cm y pica la cebolleta.",
     "Funde la mantequilla en una sartén amplia a fuego medio-fuerte y saltea el quimbombó 4 minutos, hasta que tenga puntos dorados: dorarlo a fuego vivo evita que suelte su baba. Sácalo.",
     "En la misma sartén, añade los granos de maíz sin el jugo y deja que se tuesten 4-5 minutos removiendo poco, hasta que algunos se doren y huela a palomitas. Incorpora la trinidad y el ajo y cocina 6 minutos, hasta que las verduras estén tiernas.",
     "Añade el tomate, el jugo raspado del maíz, la nata, la cayena y sal. Cocina 5 minutos a fuego suave, removiendo, hasta que la mezcla esté cremosa y ligada. Devuelve el quimbombó y calienta 1 minuto.",
-    "Sirve sobre el arroz con la cebolleta picada por encima y unas gotas de salsa picante al gusto."
+    "Sirve sobre el arroz con la cebolleta por encima y unas gotas de salsa picante al gusto."
   ],
   nutricion: { kcal: 580, prot: 14, hc: 97, grasa: 17 },
   etiquetas: ["tradicional", "sin gluten", "verano", "económica"],
@@ -616,7 +616,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta los tomates en rodajas de 1 cm, colócalos en una rejilla o sobre papel de cocina, sálalos y déjalos 30 minutos. Es el paso que hace que la tarta no quede aguada: los tomates sueltan mucho líquido y concentran el sabor. Sécalos bien con papel por las dos caras.",
     "Mientras, precalienta el horno a 200 °C. Forra un molde de 18 cm con la masa quebrada, pincha el fondo con un tenedor, cúbrelo con papel de horno y pesos de cerámica o legumbres secas que no vayas a comer, y hornea 12 minutos. Retira el papel y hornea 5 minutos más, hasta que el fondo esté seco y apenas dorado.",
-    "Pica la cebolleta y la mitad de la albahaca. Mezcla el cheddar con la mayonesa, la mostaza y abundante pimienta hasta obtener una pasta espesa.",
+    "Mientras se hornea la base, pica la cebolleta y la mitad de la albahaca. Mezcla el cheddar con la mayonesa, la mostaza y abundante pimienta hasta obtener una pasta espesa.",
     "Esparce la cebolleta y la albahaca picada en el fondo de la masa y coloca encima las rodajas de tomate en capas solapadas, con pimienta entre capa y capa.",
     "Extiende la mezcla de cheddar por encima hasta los bordes con el dorso de una cuchara; actúa como una tapa que gratina y protege los tomates.",
     "Baja el horno a 180 °C y hornea 30 minutos, hasta que la cobertura esté dorada y burbujeante.",
@@ -655,6 +655,7 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "copos de guindilla", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", q: 160, u: "ml" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],

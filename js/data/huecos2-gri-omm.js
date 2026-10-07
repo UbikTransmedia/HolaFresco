@@ -286,7 +286,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 15 minutos. Córtalo en 6 lonchas de 2 cm, sécalas y sálalas.",
+    "Envuelve el tofu en un paño, ponle un peso encima y déjalo escurrir 15 minutos; mientras, corta las cebollas en medias lunas finas, pica el apio, lamina el ajo y ralla los tomates. Corta el tofu en 6 lonchas de 2 cm, sécalas y sálalas.",
     "Calienta 1 cucharada del aceite en una sartén antiadherente a fuego fuerte y marca el tofu 3 minutos por cada lado, hasta que tenga una costra dorada: sin ella se deshace en la salsa. Colócalo en una fuente de horno.",
     "En la misma sartén, con el resto del aceite a fuego medio, pocha la cebolla en medias lunas finas y el apio picado 12 minutos, hasta que estén blandos y dorados en los bordes. Añade el ajo laminado y rehoga 1 minuto. Precalienta el horno a 190 °C.",
     "Agrega el tomate concentrado, remueve 30 segundos y vierte el vino; deja que se evapore 1 minuto. Incorpora los tomates rallados, la mitad del perejil picado, sal y pimienta y cuece 5 minutos.",
@@ -469,7 +469,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta las semillas de cilantro y alcaravea en una sartén seca 1 minuto, hasta que huelan, y machácalas en el mortero con 1 diente de ajo y una pizca de sal: es un tabil casero.",
-    "Corta los pimientos en tiras finas y la cebolla en juliana. Calienta el aceite en una sartén amplia a fuego medio y cocínalos con sal 15 minutos, removiendo de vez en cuando: deben quedar muy blandos, dulces y casi confitados, no crujientes como en un salteado.",
+    "Corta los pimientos en tiras finas y la cebolla en juliana. Calienta el aceite en una sartén amplia a fuego medio y cocínalos con sal 15 minutos, removiendo de vez en cuando: deben quedar muy blandos, dulces y casi confitados, no crujientes como en un salteado. Mientras, ralla los tomates y lamina el resto del ajo.",
     "Añade el resto del ajo laminado, el tabil, la harissa y el tomate concentrado y fríelo todo 1 minuto, hasta que el aceite se tiña de rojo.",
     "Incorpora los tomates rallados y cuece 8-10 minutos a fuego medio, hasta que la salsa espese y no quede agua. Prueba de sal y de picante.",
     "Abre 4 huecos con una cuchara, casca un huevo en cada uno y sala las claras. Tapa y cocina a fuego bajo 6-8 minutos, hasta que las claras estén cuajadas y las yemas aún líquidas.",
@@ -553,7 +553,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara el çemen: en un cuenco, mezcla el fenogreco, el pimentón, la mitad de los copos de chile, el ajo rallado y 1 cucharada de agua hasta tener una pasta. Unta con ella las lonchas de cecina por una cara con el dorso de una cuchara.",
-    "Corta los pimientos en trozos de 3 cm y el tomate en gajos.",
+    "Corta los pimientos en trozos de 3 cm y el tomate en gajos, y tuesta el pan.",
     "Funde la mantequilla en una sartén pequeña (o en un sahan, la sartén turca de dos asas) a fuego medio. Saltea los pimientos 3 minutos, hasta que se ampollen, y apártalos a un lado.",
     "Coloca la cecina en una capa, con la cara del çemen hacia arriba, y cocina 1 minuto: empezará a rizarse y a soltar aroma. No la pases más, o se endurece.",
     "Casca los huevos sobre la cecina, sala solo las claras (la cecina ya es salada), tapa y cocina a fuego bajo 3-4 minutos, hasta que las claras estén firmes y las yemas brillantes y líquidas.",

@@ -36,11 +36,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica fina la cebolla y los ajos y los champiñones en dados pequeños. Sofríe la mitad de la cebolla y 1 ajo en 1 cucharada de aceite a fuego medio 4 minutos; añade los champiñones y cocina 8 minutos a fuego fuerte, hasta que hayan soltado el agua y estén dorados. Deja templar.",
+    "Pica fina la cebolla, los ajos y el perejil y corta los champiñones en dados pequeños. Sofríe la mitad de la cebolla y 1 ajo en 1 cucharada de aceite a fuego medio 4 minutos; añade los champiñones y cocina 8 minutos a fuego fuerte, hasta que hayan soltado el agua y estén dorados. Deja templar.",
     "Tritura las lentejas con la batidora en pulsos cortos hasta tener una pasta gruesa con trozos (no un puré). Mézclala en un bol con los champiñones, el huevo, el pan rallado, el perejil picado, la nuez moscada, sal y pimienta. Si la masa está húmeda, añade pan rallado a cucharadas hasta que puedas formar bolas.",
     "Forma 10-12 albóndigas con las manos humedecidas, pásalas por la harina y déjalas 10 minutos en la nevera.",
-    "Pela las patatas, trocéalas y cuécelas en agua con sal 18-20 minutos, hasta que se deshagan. Escúrrelas, pásalas por el pasapurés o aplástalas, añade la mantequilla y la leche caliente y bate hasta que quede cremoso. Salpimienta y mantén caliente tapado.",
-    "Sofríe el resto de la cebolla y el ajo en una cazuela con 1 cucharada de aceite 5 minutos. Añade el tomate triturado, el orégano, sal, pimienta y una pizca de azúcar si está ácido; cuece 12 minutos a fuego suave hasta que espese.",
+    "Pela las patatas, trocéalas y ponlas a cocer en agua con sal 18-20 minutos, hasta que se deshagan. Mientras, sofríe el resto de la cebolla y el ajo en una cazuela con 1 cucharada de aceite 5 minutos; añade el tomate triturado, el orégano, sal, pimienta y una pizca de azúcar si está ácido y cuece 12 minutos a fuego suave hasta que espese.",
+    "Escurre las patatas, pásalas por el pasapurés o aplástalas, añade la mantequilla y la leche caliente y bate hasta que quede cremoso. Salpimienta y mantén caliente tapado.",
     "Dora las albóndigas en una sartén antiadherente con un hilo de aceite a fuego medio-alto 2 minutos por lado, girándolas con cuidado, hasta que tengan costra por fuera.",
     "Pásalas a la salsa de tomate y cuece a fuego suave 8 minutos, sin remover mucho, meneando la cazuela. Sirve sobre el puré con perejil picado por encima."
   ],
@@ -125,7 +125,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica muy fina la cebolla, la zanahoria y el apio (soffritto). Sofríelos en la cazuela con 2 cucharadas de aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y dulces, sin que tomen color.",
+    "Pica muy fina la cebolla, la zanahoria y el apio (soffritto) y pica los ajos. Sofríe la cebolla, la zanahoria y el apio en la cazuela con 2 cucharadas de aceite a fuego medio-bajo 10 minutos, hasta que estén blandos y dulces, sin que tomen color.",
     "Añade los ajos picados, la rama de romero entera, la cayena y el tomate concentrado; sofríe 1 minuto. Agrega el tomate triturado y cocina 4 minutos, hasta que espese.",
     "Tritura la mitad de las alubias con 200 ml de caldo y añádelas a la cazuela junto con las alubias enteras y el resto del caldo. Lleva a ebullición y cuece 10 minutos a fuego suave.",
     "Añade la pasta directamente a la sopa, salpimienta y cuece el tiempo del paquete menos 1 minuto, removiendo con frecuencia para que no se pegue al fondo: la pasta suelta almidón y la sopa se vuelve cremosa. Si queda demasiado espesa, añade agua caliente.",
@@ -263,7 +263,7 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 0.5, u: "ud", opcional: true }
   ],
   pasos: [
-    "Pon el caldo en la cazuela con el jengibre en láminas y el ajo machacado y llévalo a ebullición suave. Mientras, corta el tofu en dados de 2 cm, lamina los champiñones, separa las hojas del pak choi y corta la cebolleta en aros finos.",
+    "Pon el caldo en la cazuela con el jengibre en láminas y el ajo machacado y llévalo a ebullición suave; en otra cazuela, pon a hervir abundante agua para los fideos. Mientras, corta el tofu en dados de 2 cm, lamina los champiñones, separa las hojas del pak choi y corta la cebolleta en aros finos.",
     "Cuece los fideos soba en otra cazuela con abundante agua hirviendo el tiempo del paquete (unos 4-5 minutos), escúrrelos y enjuágalos bajo el grifo frío para quitarles el almidón. Repártelos en dos cuencos grandes.",
     "Añade al caldo los champiñones y el edamame y cuece 3 minutos. Agrega el tofu y los tallos del pak choi y cuece 2 minutos más; en el último minuto, las hojas.",
     "Retira la cazuela del fuego y espera 1 minuto. Disuelve el miso en un cucharón de caldo caliente en un bol pequeño y devuélvelo a la cazuela: el miso no debe hervir o pierde aroma y probióticos. Añade la soja y prueba: debe quedar sabroso pero no salado.",
@@ -448,9 +448,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta las cebolletas en aros finos (blanco y verde separados) y pica el ajo. Pon a calentar una cazuela con agua para pochar los huevos.",
     "Calienta el aceite en una sartén a fuego medio y sofríe el blanco de la cebolleta y el ajo 4 minutos, hasta que estén transparentes. Añade el jamón y saltea 1 minuto, lo justo para que suelte aroma sin endurecerse.",
-    "Vierte el vino, deja que evapore 1 minuto y añade los guisantes congelados directamente y el caldo. Tapa y estofa a fuego medio 6-7 minutos, hasta que los guisantes estén tiernos y de un verde intenso y el caldo se haya reducido a un fondo brillante. Salpimienta con cuidado (el jamón sala).",
+    "Vierte el vino, deja que evapore 1 minuto y añade los guisantes congelados directamente y el caldo. Tapa y estofa a fuego medio 6-7 minutos, hasta que los guisantes estén tiernos y de un verde intenso y el caldo se haya reducido a un fondo brillante. Salpimienta con cuidado (el jamón sala). Mientras se estofan, tuesta el pan y colócalo en el fondo de cada plato hondo.",
     "Cuando el agua de la cazuela hierva suavemente, añade el vinagre, baja el fuego para que apenas burbujee, remueve para crear un remolino y echa un huevo cascado en un vasito en el centro. Cuécelo 3 minutos, sácalo con una espumadera y repite con el otro.",
-    "Tuesta el pan y colócalo en el fondo de cada plato hondo.",
     "Reparte los guisantes con su jugo sobre el pan, corona con el huevo poché, el verde de la cebolleta, la hierbabuena picada y pimienta negra. Rompe la yema al comer: es la salsa."
   ],
   nutricion: { kcal: 420, prot: 30, hc: 38, grasa: 16 },
@@ -539,7 +538,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Adoba la costilla la víspera (o al menos 1 hora antes): mézclala con 2 ajos machacados, el pimentón, el orégano, el vinagre, sal y pimienta y guárdala tapada en la nevera.",
+    "La víspera, pon las alubias en remojo en abundante agua fría (12 horas). Adoba también la costilla la víspera (o al menos 1 hora antes): mézclala con 2 ajos machacados, el pimentón, el orégano, el vinagre, sal y pimienta y guárdala tapada en la nevera.",
     "Pon las alubias escurridas en la cazuela con agua fría que las cubra 3 dedos, el laurel, la zanahoria entera y media cebolla. Lleva a ebullición, espuma, baja a fuego mínimo y cuece tapado 1 h 30 min, asustándolas con medio vaso de agua fría dos veces para que la piel no se rompa.",
     "Mientras, dora la costilla escurrida del adobo en una sartén con 1 cucharada de aceite a fuego fuerte 6 minutos, por todas sus caras. Añádela a la cazuela de las alubias cuando lleven 30 minutos de cocción.",
     "En la misma sartén, con la otra cucharada de aceite, sofríe a fuego medio-bajo la otra media cebolla, el pimiento verde y los 2 ajos restantes picados finos 12 minutos, hasta que estén muy blandos. Añade la carne de pimiento choricero y cocina 2 minutos más.",
@@ -590,8 +589,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el cordero y dóralo en la cazuela con el aceite a fuego fuerte 5 minutos, en dos tandas para que no suelte agua. Resérvalo.",
-    "Baja a fuego medio y sofríe la cebolla picada, el apio en dados pequeños (hojas incluidas), el ajo y el jengibre rallados 8 minutos, hasta que estén blandos. Añade la cúrcuma, la canela y el pimentón y remueve 30 segundos.",
+    "Pica la cebolla, corta el apio en dados pequeños (hojas incluidas) y ralla el ajo y el jengibre. Salpimienta el cordero y dóralo en la cazuela con el aceite a fuego fuerte 5 minutos, en dos tandas para que no suelte agua. Resérvalo.",
+    "Baja a fuego medio y sofríe la cebolla, el apio, el ajo y el jengibre 8 minutos, hasta que estén blandos. Añade la cúrcuma, la canela y el pimentón y remueve 30 segundos.",
     "Devuelve el cordero, añade el tomate triturado, el concentrado, las lentejas enjuagadas, la mitad del cilantro y el perejil picados y 1,2 litros de agua caliente. Lleva a ebullición y cuece a fuego suave, semitapado, 1 hora, hasta que el cordero esté tierno y las lentejas hechas.",
     "Añade los garbanzos y sala. Disuelve la harina en 100 ml de agua fría sin grumos y viértela en hilo removiendo: es el tadouira que da a la harira su textura aterciopelada. Cuece 10 minutos removiendo de vez en cuando.",
     "Añade los fideos y cuece 4-5 minutos más, hasta que estén hechos. La sopa debe quedar espesa pero fluida; aclárala con agua caliente si hace falta.",
@@ -637,8 +636,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Forra un molde rectangular pequeño (unos 20 x 15 cm) con papel de horno untado de aceite. Bate en frío la harina de garbanzo con el agua, 1 cucharada de aceite, 1 cucharadita de sal y pimienta hasta que no haya grumos.",
     "Vierte la mezcla en una cazuela con las hojas de romero picadas y cuece a fuego medio removiendo sin parar con varillas 8-10 minutos: primero espesa de golpe y luego se vuelve una masa densa y brillante que se despega de las paredes, como una polenta muy espesa.",
-    "Vuelca la masa en el molde, alísala con una espátula mojada hasta un grosor de 1,5 cm y deja que cuaje 1 hora en la nevera (o 30 minutos si vas con prisa), hasta que esté firme al tacto.",
-    "Precalienta el horno a 220 °C. Desmolda la masa, córtala en bastones de 1,5 x 7 cm, píntalos con 2 cucharadas de aceite por todos los lados y colócalos separados en una bandeja. Hornea 25-30 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes por fuera y cremosos por dentro.",
+    "Vuelca la masa en el molde, alísala con una espátula mojada hasta un grosor de 1,5 cm y deja que cuaje 1 hora en la nevera (o 30 minutos si vas con prisa), hasta que esté firme al tacto. Unos 15 minutos antes de que termine, precalienta el horno a 220 °C.",
+    "Desmolda la masa, córtala en bastones de 1,5 x 7 cm, píntalos con 2 cucharadas de aceite por todos los lados y colócalos separados en una bandeja. Hornea 25-30 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes por fuera y cremosos por dentro.",
     "Mientras, prepara el alioli rápido: mezcla la mayonesa con el ajo rallado, el zumo de medio limón y ralladura. Corta los tomates en gajos y la cebolla morada en plumas finas y alíñalos con el balsámico, la cucharada de aceite restante, sal y pimienta.",
     "Sirve los bastones de panisse calientes con sal en escamas, el alioli de limón para mojar, la ensalada de tomate con la rúcula y el parmesano en lascas por encima."
   ],
@@ -858,7 +857,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica en brunoise muy fina (dados de 3 mm) la cebolleta, la zanahoria y el apio; pica el ajo. Sofríelos en la cazuela con el aceite a fuego medio 5 minutos, hasta que estén blandos sin tomar color.",
-    "Añade las lentejas enjuagadas, el laurel y el caldo. Lleva a ebullición y cuece a fuego suave, semitapado, 22-25 minutos, hasta que estén tiernas pero mantengan la forma. Deben quedar jugosas con un poco de caldo; si sobra mucho, destapa los últimos minutos.",
+    "Añade las lentejas enjuagadas, el laurel y el caldo. Lleva a ebullición y cuece a fuego suave, semitapado, 22-25 minutos, hasta que estén tiernas pero mantengan la forma. Deben quedar jugosas con un poco de caldo; si sobra mucho, destapa los últimos minutos. Mientras se cuecen, pica el cebollino y ralla la piel del limón.",
     "Retira el laurel, salpimienta, añade el vinagre y 10 g de mantequilla y remueve para que las lentejas queden brillantes. Mantén caliente tapado.",
     "Seca las vieiras a conciencia con papel (es la clave para que se doren) y sálalas por ambos lados justo antes de cocinarlas.",
     "Calienta una sartén antiadherente a fuego fuerte sin nada hasta que esté muy caliente. Coloca las vieiras separadas y no las toques: 1 minuto y medio por lado, hasta que tengan una costra dorada y el centro quede apenas translúcido. Sácalas a un plato.",
@@ -904,7 +903,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias y ponlas en la cazuela con 1 litro de agua, el laurel y medio pimiento verde entero. Lleva a ebullición, espuma y cuece a fuego muy suave, tapado, 1 h a 1 h 15 min, hasta que estén tiernas (sin sal todavía).",
+    "La víspera, pon las alubias en remojo en abundante agua fría (12 horas). Escúrrelas y ponlas en la cazuela con 1 litro de agua, el laurel y medio pimiento verde entero. Lleva a ebullición, espuma y cuece a fuego muy suave, tapado, 1 h a 1 h 15 min, hasta que estén tiernas (sin sal todavía).",
     "Cuando lleven 45 minutos, prepara el sofrito: pica fina la cebolla, el otro medio pimiento y los ajos y póchalos en una sartén con el aceite a fuego medio-bajo 12 minutos, hasta que estén muy blandos y dulces. Añade el comino y el orégano frotado y fríe 1 minuto.",
     "Saca el medio pimiento entero de la cazuela y añade el sofrito. Toma un cucharón de alubias con caldo, tritúralo o aplástalo con el tenedor y devuélvelo: espesará la sopa de forma natural. Sala, añade pimienta, el azúcar y el vinagre.",
     "Cuece destapado 20 minutos más a fuego suave, removiendo de vez en cuando, hasta que el caldo esté espeso, oscuro y brillante. Ajusta el punto: tiene que notarse el comino y un fondo agridulce apenas perceptible.",
@@ -994,7 +993,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica fina la cebolla y los ajos y póchalos en la cazuela con el aceite a fuego medio-bajo 10 minutos, hasta que estén muy blandos y empiecen a dorarse.",
+    "Pon las almejas en agua fría con sal 1 hora antes para que suelten la arena. Pica fina la cebolla y los ajos y póchalos en la cazuela con el aceite a fuego medio-bajo 10 minutos, hasta que estén muy blandos y empiecen a dorarse.",
     "Añade el tomate rallado con una pizca de sal y cocina 8 minutos, hasta que pierda el agua y el sofrito se oscurezca. Fuera del fuego, añade el pimentón y remueve 15 segundos.",
     "Tuesta las hebras de azafrán 10 segundos en una cuchara sobre la llama o en una sartén seca y disuélvelas en el vino. Vierte sobre el sofrito, sube el fuego y reduce 2 minutos.",
     "Incorpora los garbanzos escurridos, el caldo de pescado caliente y el laurel. Cuece a fuego suave 12 minutos para que los garbanzos tomen el sabor y el caldo engorde. Salpimienta con moderación (las almejas salan).",
@@ -1137,7 +1136,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica en dados pequeños la cebolla, la zanahoria, el apio y el puerro; pica los ajos. Dora el bacon en la cazuela con el aceite a fuego medio 5 minutos, hasta que esté crujiente; saca la mitad de las tiras y resérvalas para decorar.",
+    "Si puedes, pon los guisantes en remojo en agua fría 8 horas antes (acorta la cocción). Pica en dados pequeños la cebolla, la zanahoria, el apio y el puerro; pica los ajos. Dora el bacon en la cazuela con el aceite a fuego medio 5 minutos, hasta que esté crujiente; saca la mitad de las tiras y resérvalas para decorar.",
     "En la grasa del bacon, sofríe las verduras con una pizca de sal 8 minutos, hasta que estén blandas. Añade el ajo y el tomillo y sofríe 1 minuto.",
     "Añade los guisantes escurridos, el laurel y el caldo. Lleva a ebullición, espuma y cuece a fuego muy suave, semitapado, 1 h 15 min (45 minutos si estaban en remojo), removiendo de vez en cuando para que no se peguen, hasta que los guisantes se deshagan y la sopa esté espesa. Añade agua caliente si se seca.",
     "Retira el laurel. Tritura con la batidora solo un tercio de la sopa (o aplasta con el cucharón) para que quede cremosa pero con textura. Incorpora la mostaza y el vinagre, salpimienta y cuece 5 minutos más.",

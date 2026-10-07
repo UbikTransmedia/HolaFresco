@@ -43,10 +43,10 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C con calor arriba y abajo. Quita las hojas exteriores y el troncho del repollo y córtalo en tiras de 1 cm. Pica la cebolla y ralla la zanahoria por el lado grueso del rallador.",
     "Calienta 2 cucharadas de aceite en una cazuela amplia a fuego medio y sofríe la cebolla 5 minutos, hasta que esté transparente. Añade la zanahoria y rehoga 3 minutos más.",
     "Sube el fuego a medio-alto y añade el repollo por tandas con una pizca de sal, dejando que cada tanda baje antes de echar la siguiente. Rehógalo 10 minutos, removiendo, hasta que haya reducido a la mitad, esté blando y tenga algunos puntos dorados.",
-    "Añade el arroz y remueve 2 minutos para que se impregne de aceite y se vuelva nacarado. Aparta la cazuela del fuego, añade el pimentón y el tomate concentrado y mezcla bien: fuera del fuego, el pimentón no se quema ni amarga.",
+    "Pon a calentar el agua. Añade el arroz a la cazuela y remueve 2 minutos para que se impregne de aceite y se vuelva nacarado. Aparta la cazuela del fuego, añade el pimentón y el tomate concentrado y mezcla bien: fuera del fuego, el pimentón no se quema ni amarga.",
     "Pasa la mezcla a una fuente de horno de unos 20 × 25 cm, extiéndela en una capa uniforme y coloca encima la hoja de laurel. Vierte el agua caliente con sal y pimienta: debe cubrir justo el arroz. Riega con el resto del aceite.",
-    "Tapa la fuente con papel de aluminio y hornea 20 minutos. Destápala y hornea 15-20 minutos más, hasta que el arroz esté tierno, haya absorbido todo el líquido y las puntas del repollo de la superficie estén tostadas.",
-    "Deja reposar 5 minutos fuera del horno, retira el laurel y sirve con pimienta negra recién molida y el perejil picado por encima, si lo usas."
+    "Tapa la fuente con papel de aluminio y hornea 20 minutos. Destápala y hornea 15-20 minutos más, hasta que el arroz esté tierno, haya absorbido todo el líquido y las puntas del repollo de la superficie estén tostadas. Mientras, pica el perejil si lo usas.",
+    "Deja reposar 5 minutos fuera del horno, retira el laurel y sirve con pimienta negra recién molida y el perejil por encima, si lo usas."
   ],
   nutricion: { kcal: 505, prot: 9, hc: 69, grasa: 21 },
   etiquetas: ["tradicional", "al horno", "económica", "invierno", "batch cooking", "sin gluten", "poco especiada", "bajo en colesterol"],
@@ -87,8 +87,8 @@ window.RECETAS_SEED.push({
     "Corta las berenjenas con piel en dados de 1,5 cm. Pica la cebolla, ralla la zanahoria por el lado grueso del rallador y corta el pimiento en dados pequeños. Ralla los tomates por el lado grueso y desecha la piel.",
     "Calienta 1 cucharada de aceite en una sartén grande antiadherente a fuego medio-alto, añade la berenjena con una pizca de sal y tapa los primeros 3 minutos para que se ablande al vapor sin absorber más aceite. Destapa y dórala 5 minutos más, hasta que esté tostada por fuera y blanda por dentro. Pásala a la cazuela.",
     "En la misma sartén, con otra cucharada de aceite, sofríe la cebolla 5 minutos, hasta que esté transparente. Añade la zanahoria y el pimiento y rehoga 8 minutos, hasta que estén blandos. Pásalo todo a la cazuela.",
-    "Añade a la cazuela el tomate rallado, el azúcar, el resto del aceite, sal y pimienta. Cuece destapado a fuego suave 25 minutos, removiendo de vez en cuando y aplastando un poco con la cuchara, hasta que el líquido se haya evaporado y quede una pasta espesa que se sostiene en la cuchara.",
-    "Fuera del fuego, añade 1 diente de ajo muy picado y la mitad del perejil picado. Pásala a un bol y deja que se enfríe al menos 15 minutos: la ikra se come templada o fría, nunca recién hecha.",
+    "Añade a la cazuela el tomate rallado, el azúcar, el resto del aceite, sal y pimienta. Cuece destapado a fuego suave 25 minutos, removiendo de vez en cuando y aplastando un poco con la cuchara, hasta que el líquido se haya evaporado y quede una pasta espesa que se sostiene en la cuchara. Mientras, pica muy fino 1 diente de ajo y pica el perejil.",
+    "Fuera del fuego, añade el ajo picado y la mitad del perejil. Pásala a un bol y deja que se enfríe al menos 15 minutos: la ikra se come templada o fría, nunca recién hecha.",
     "Tuesta el pan de centeno, frótalo con el otro diente de ajo partido por la mitad y sirve la ikra por encima o al lado, con el resto del perejil."
   ],
   nutricion: { kcal: 520, prot: 12, hc: 67, grasa: 22 },
@@ -128,11 +128,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita las puntas a las judías verdes y córtalas en trozos de 4 cm. Pica la cebolla y el ajo y corta la zanahoria en rodajas finas.",
+    "Quita las puntas a las judías verdes y córtalas en trozos de 4 cm. Pica la cebolla y el ajo, corta la zanahoria en rodajas finas y pon a calentar el agua.",
     "Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla 5 minutos, hasta que esté transparente. Añade la zanahoria y el ajo y rehoga 2 minutos.",
     "Espolvorea la harina y el pimentón y remueve 1 minuto para tostar la harina sin que se queme: es la zaprška, el sofrito que espesará el guiso. Incorpora enseguida el tomate triturado y remueve hasta que no queden grumos.",
-    "Añade las judías verdes, sal, pimienta y el agua caliente justa para casi cubrirlas. Tapa y cuece a fuego suave 15-18 minutos, hasta que las judías estén tiernas pero conserven el color y la salsa haya espesado.",
-    "Apaga el fuego, añade el perejil picado y deja reposar 3 minutos. Sirve en platos hondos con el pan para mojar."
+    "Añade las judías verdes, sal, pimienta y el agua caliente justa para casi cubrirlas. Tapa y cuece a fuego suave 15-18 minutos, hasta que las judías estén tiernas pero conserven el color y la salsa haya espesado. Mientras, pica el perejil.",
+    "Apaga el fuego, añade el perejil y deja reposar 3 minutos. Sirve en platos hondos con el pan para mojar."
   ],
   nutricion: { kcal: 455, prot: 14, hc: 64, grasa: 16 },
   etiquetas: ["tradicional", "verano", "económica", "ligera", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],
@@ -175,12 +175,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas, córtalas en trozos iguales y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas. Mientras, pon los boletus en remojo en 200 ml de agua caliente.",
     "Escurre bien las patatas, déjalas 2 minutos en la cazuela caliente para que suelten el vapor y pásalas por el pasapurés o aplástalas a conciencia, sin dejar grumos. Extiende el puré en un bol y deja que se temple unos 15 minutos.",
-    "Mientras se templa el puré, prepara la salsa: saca los boletus, pícalos y cuela el agua del remojo. Calienta 1½ cucharadas de aceite en una sartén a fuego medio y sofríe la cebolla picada 5 minutos. Sube el fuego, añade los champiñones laminados y los boletus y saltéalos 8 minutos, hasta que estén dorados y no quede líquido.",
-    "Vierte el agua de los boletus, añade el laurel y la mejorana y cuece 8 minutos a fuego suave. Incorpora la nata vegetal y 1 cucharadita de fécula disuelta en 2 cucharadas de agua fría y cuece 2 minutos, removiendo, hasta que la salsa espese y brille. Salpimienta, retira el laurel y resérvala caliente.",
+    "Mientras se templa el puré, prepara la salsa: pica la cebolla, lamina los champiñones, saca los boletus, pícalos y cuela el agua del remojo. Calienta 1½ cucharadas de aceite en una sartén a fuego medio y sofríe la cebolla 5 minutos. Sube el fuego, añade los champiñones y los boletus y saltéalos 8 minutos, hasta que estén dorados y no quede líquido.",
+    "Vierte el agua de los boletus, añade el laurel y la mejorana y cuece 8 minutos a fuego suave; mientras, pon a hervir abundante agua con sal para las kluski y pica el perejil. Incorpora la nata vegetal y 1 cucharadita de fécula disuelta en 2 cucharadas de agua fría y cuece 2 minutos, removiendo, hasta que la salsa espese y brille. Salpimienta, retira el laurel y resérvala caliente.",
     "Alisa el puré templado en el bol y márcalo con una cruz en cuatro partes iguales. Saca una de ellas, rellena el hueco con fécula hasta el nivel del puré y vuelve a poner encima la parte que sacaste. Amasa con las manos hasta tener una masa lisa y elástica que no se pegue; si se pega, añade una cucharada más de fécula.",
     "Forma bolitas del tamaño de una nuez, aplánalas un poco entre las palmas y hazles con el dedo un hoyuelo en el centro, sin atravesarlas.",
     "Ralla la remolacha por el lado grueso y saltéala en un cazo con el resto del aceite, el vinagre, el azúcar, sal y pimienta 5 minutos, hasta que esté caliente y brillante.",
-    "Cuece las kluski en dos tandas en abundante agua hirviendo con sal, removiendo con cuidado para que no se peguen al fondo; cuando suban a la superficie, déjalas 2 minutos más. Sácalas con una espumadera y sírvelas enseguida con la salsa de setas por encima, el perejil picado y la remolacha al lado."
+    "Cuece las kluski en dos tandas en el agua hirviendo, removiendo con cuidado para que no se peguen al fondo; cuando suban a la superficie, déjalas 2 minutos más. Sácalas con una espumadera y sírvelas enseguida con la salsa de setas por encima, el perejil y la remolacha al lado."
   ],
   nutricion: { kcal: 725, prot: 14, hc: 110, grasa: 24 },
   etiquetas: ["tradicional", "invierno", "económica", "sin gluten", "para niños", "poco especiada"],
@@ -220,11 +220,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon los boletus en remojo en 200 ml de agua caliente 15 minutos. Mientras, lava la cebada en un colador hasta que el agua salga clara.",
     "Saca los boletus, apriétalos sobre el bol y cuela el agua del remojo con un colador fino o un papel de cocina para quitar la tierra. Cuece la cebada en una cazuela con el caldo, esa agua y una pizca de sal, tapada y a fuego suave, 30 minutos, hasta que esté tierna pero entera y haya absorbido casi todo el líquido.",
-    "Precalienta el horno a 180 °C. Pica la cebolla y los boletus remojados, lamina los champiñones y machaca el ajo con una pizca de sal hasta hacer una pasta.",
+    "Mientras se cuece la cebada, precalienta el horno a 180 °C. Pica la cebolla y los boletus remojados, lamina los champiñones, machaca el ajo con una pizca de sal hasta hacer una pasta y pica el perejil.",
     "Calienta 2 cucharadas de aceite en una sartén a fuego medio y dora la cebolla 6 minutos. Sube el fuego, añade los champiñones y los boletus y saltea 8 minutos, hasta que estén dorados y no quede líquido en la sartén.",
     "Mezcla en una fuente de horno la cebada con las setas, el ajo machacado, la mejorana frotada entre los dedos, la alcaravea, sal y bastante pimienta. Debe quedar jugosa; si está seca, añade unas cucharadas de agua.",
     "Alisa la superficie, riégala con el resto del aceite y hornea 25 minutos, hasta que esté dorada y crujiente por los bordes.",
-    "Espolvorea con el perejil picado y sirve caliente."
+    "Espolvorea con el perejil y sirve caliente."
   ],
   nutricion: { kcal: 525, prot: 14, hc: 67, grasa: 21 },
   etiquetas: ["tradicional", "al horno", "invierno", "batch cooking", "poco especiada", "bajo en colesterol"],
@@ -267,8 +267,8 @@ window.RECETAS_SEED.push({
     "Mientras, ralla el calabacín con piel por el lado grueso del rallador (si es muy grande y tiene pepitas duras, quítaselas antes), sálalo ligeramente y déjalo 10 minutos en un colador. Pica la cebolla muy fina.",
     "Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla 5 minutos, hasta que esté transparente. Espolvorea la harina y cocina 2 minutos removiendo, hasta que huela a galleta y tome un color rubio claro.",
     "Añade el pimentón, remueve 10 segundos y vierte el caldo poco a poco, sin dejar de remover con unas varillas, hasta tener una salsa lisa y espesa.",
-    "Escurre el calabacín apretándolo con las manos y añádelo a la cazuela. Cuece 8 minutos a fuego suave, removiendo, hasta que esté tierno pero conserve algo de textura.",
-    "Incorpora la nata vegetal, el vinagre, el azúcar y casi todo el eneldo picado; deja que dé un hervor y prueba: debe quedar suave, ligeramente agridulce y muy aromático. Ajusta de sal y pimienta.",
+    "Escurre el calabacín apretándolo con las manos y añádelo a la cazuela. Cuece 8 minutos a fuego suave, removiendo, hasta que esté tierno pero conserve algo de textura. Mientras, pica el eneldo.",
+    "Incorpora la nata vegetal, el vinagre, el azúcar y casi todo el eneldo; deja que dé un hervor y prueba: debe quedar suave, ligeramente agridulce y muy aromático. Ajusta de sal y pimienta.",
     "Sirve el prívarok con las patatas cocidas escurridas al lado y el resto del eneldo por encima."
   ],
   nutricion: { kcal: 460, prot: 11, hc: 60, grasa: 19 },
@@ -308,9 +308,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos de 3 cm y cuécelas en una cazuela con agua con sal y el laurel 18-20 minutos, hasta que estén muy tiernas.",
-    "Mientras, prepara la ensalada: corta el repollo en tiras muy finas, casi como hilos, ponlo en un bol con una pizca de sal y estrújalo con las manos 1 minuto, hasta que se ablande y suelte algo de jugo. Aliña con el vinagre, el aceite de pepitas de calabaza y pimienta, y déjalo reposar mientras terminas.",
+    "Mientras, prepara la ensalada: corta el repollo en tiras muy finas, casi como hilos, ponlo en un bol con una pizca de sal y estrújalo con las manos 1 minuto, hasta que se ablande y suelte algo de jugo. Aliña con el vinagre, el aceite de pepitas de calabaza y pimienta, y déjalo reposar mientras terminas. Corta la cebolla en medias lunas finas y pica el ajo.",
     "Tuesta las semillas de calabaza en una sartén sin aceite a fuego medio 2-3 minutos, hasta que se hinchen y empiecen a saltar. Resérvalas.",
-    "En la misma sartén, calienta el aceite de oliva y dora la cebolla cortada en medias lunas finas a fuego medio 10 minutos, hasta que esté bien dorada; añade el ajo picado el último minuto.",
+    "En la misma sartén, calienta el aceite de oliva y dora la cebolla a fuego medio 10 minutos, hasta que esté bien dorada; añade el ajo el último minuto.",
     "Cuando falten 3 minutos para que estén las patatas, añade las alubias a la cazuela para que se calienten. Escurre todo reservando un vaso del agua de cocción y retira el laurel.",
     "Machaca las patatas y las alubias con un tenedor o un pasapurés, nunca con batidora: debe quedar un puré rústico con trozos de alubia. Añade la mitad de la cebolla con su aceite y el agua de cocción necesaria para que quede cremoso; ajusta de sal y pimienta.",
     "Sirve el matevž con el resto de la cebolla dorada por encima y la ensalada de col al lado, espolvoreada con las semillas de calabaza."
@@ -348,8 +348,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla en un bol la harina con una cucharadita de sal, 1 cucharada de aceite y el agua templada, y amasa 5 minutos hasta tener una masa lisa y elástica, algo más blanda que la de pan. Divídela en dos bolas, úntalas con unas gotas de aceite, tápalas y déjalas reposar 30 minutos: así el gluten se relaja y la masa se estirará muy fina sin romperse.",
-    "Mientras, lava las acelgas, separa las hojas de las pencas (guárdalas para otro guiso) y sécalas muy bien. Córtalas en tiras finas de 1 cm junto con la cebolleta y pica el perejil.",
-    "Precalienta el horno a 230 °C con calor arriba y abajo y mete dentro una bandeja grande para que se caliente. Justo antes de montar, mezcla la verdura con 1 cucharada de aceite y una pizca de sal.",
+    "Mientras, precalienta el horno a 230 °C con calor arriba y abajo y mete dentro una bandeja grande para que se caliente. Lava las acelgas, separa las hojas de las pencas (guárdalas para otro guiso) y sécalas muy bien. Córtalas en tiras finas de 1 cm junto con la cebolleta y pica el perejil.",
+    "Justo antes de montar, mezcla la verdura con 1 cucharada de aceite y una pizca de sal.",
     "Sobre un papel de horno enharinado, estira una bola de masa con el rodillo hasta un círculo de 32 cm, tan fino que casi se transparente. Reparte encima la verdura dejando un borde libre de 2 cm; quedará un montón alto que bajará en el horno.",
     "Estira la segunda bola igual de fina, colócala encima, presiona para expulsar el aire y sella el borde doblando la masa de abajo sobre la de arriba y pellizcando. Pincha la superficie con un tenedor en varios puntos.",
     "Desliza el soparnik con su papel sobre la bandeja caliente y hornea 20-25 minutos, hasta que la masa esté dorada, con manchas tostadas, y crujiente.",
@@ -395,11 +395,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica las cebollas finas, corta los pimientos en tiras cortas y pica el ajo. Pela las patatas y córtalas en trozos irregulares de 3-4 cm, «cascándolas» con el cuchillo al final de cada corte para que suelten almidón y espesen el caldo.",
-    "Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla con una pizca de sal 10 minutos, hasta que esté blanda y dorada: es la base del sabor, no la apresures.",
+    "Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla con una pizca de sal 10 minutos, hasta que esté blanda y dorada: es la base del sabor, no la apresures. Mientras, pon a calentar el agua.",
     "Añade los pimientos y el ajo y rehoga 5 minutos más. Aparta la cazuela del fuego, añade el pimentón dulce y el picante y remueve 20 segundos para que se perfumen sin quemarse; si se queman, amargan.",
     "Vuelve al fuego, incorpora el tomate triturado, las patatas y el laurel, remueve para que se tiñan de rojo y cubre justo con agua caliente. Sala y añade pimienta.",
-    "Cuece a fuego suave y semitapado 25 minutos, sin remover con cuchara: sacude la cazuela de vez en cuando. Está listo cuando las patatas estén tiernas y algunas empiecen a deshacerse, dejando un caldo espeso.",
-    "Deja reposar 5 minutos fuera del fuego, retira el laurel y sirve en platos hondos espolvoreado con el perejil picado."
+    "Cuece a fuego suave y semitapado 25 minutos, sin remover con cuchara: sacude la cazuela de vez en cuando. Está listo cuando las patatas estén tiernas y algunas empiecen a deshacerse, dejando un caldo espeso. Mientras, pica el perejil.",
+    "Deja reposar 5 minutos fuera del fuego, retira el laurel y sirve en platos hondos espolvoreado con el perejil."
   ],
   nutricion: { kcal: 595, prot: 12, hc: 88, grasa: 21 },
   etiquetas: ["tradicional", "de cuchara", "económica", "batch cooking", "sin gluten", "invierno", "bajo en colesterol"],
@@ -439,8 +439,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta la parte de arriba de los pimientos con el rabo, guárdala como tapa y vacía las semillas con una cucharilla sin romper los pimientos.",
-    "Pica la cebolla y ralla la zanahoria. Calienta 2 cucharadas de aceite en una sartén a fuego medio y sofríe la cebolla 6 minutos, hasta que esté transparente; añade la zanahoria y rehoga 4 minutos más.",
-    "Aparta la sartén del fuego, añade el pimentón y remueve 10 segundos; incorpora la mitad del tomate triturado, vuelve a ponerla al fuego y cocina 3 minutos. Añade las alubias, la menta, la ajedrea, sal y pimienta, y aplasta con un tenedor una cuarta parte de las alubias para que el relleno quede ligado. Termina con el perejil picado.",
+    "Pica la cebolla y el perejil, ralla la zanahoria y pon a calentar el agua. Calienta 2 cucharadas de aceite en una sartén a fuego medio y sofríe la cebolla 6 minutos, hasta que esté transparente; añade la zanahoria y rehoga 4 minutos más.",
+    "Aparta la sartén del fuego, añade el pimentón y remueve 10 segundos; incorpora la mitad del tomate triturado, vuelve a ponerla al fuego y cocina 3 minutos. Añade las alubias, la menta, la ajedrea, sal y pimienta, y aplasta con un tenedor una cuarta parte de las alubias para que el relleno quede ligado. Termina con el perejil.",
     "Rellena los pimientos sin apretar demasiado y ponles su tapa. Colócalos de pie, o tumbados si no se sostienen, en una fuente de horno en la que queden justos.",
     "Mezcla el resto del tomate con el agua caliente y una pizca de sal y viértelo en el fondo de la fuente. Riega los pimientos con el resto del aceite.",
     "Hornea 40-45 minutos, regándolos un par de veces con el jugo, hasta que la piel de los pimientos esté arrugada, con manchas tostadas, y se dejen atravesar fácilmente con un cuchillo.",
@@ -484,9 +484,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Corta el seitán en dados de 2 cm y sécalo con papel de cocina. Pela las patatas y córtalas en dados de 2,5 cm; corta las zanahorias en rodajas gruesas y la cebolla en medias lunas.",
+    "Precalienta el horno a 180 °C. Corta el seitán en dados de 2 cm y sécalo con papel de cocina. Pela las patatas y córtalas en dados de 2,5 cm; corta las zanahorias en rodajas gruesas y la cebolla en medias lunas, lamina el ajo y pon a calentar el caldo.",
     "Calienta 2 cucharadas de aceite en una sartén a fuego medio-alto y dora el seitán 5-6 minutos, moviéndolo poco, hasta que esté tostado por todas las caras. Resérvalo.",
-    "En la misma sartén, con el resto del aceite, dora la cebolla y la zanahoria 6 minutos. Añade el ajo laminado y el tomate concentrado y remueve 1 minuto, hasta que el tomate oscurezca. Vierte el caldo caliente, raspa bien el fondo y sazona con sal y pimienta.",
+    "En la misma sartén, con el resto del aceite, dora la cebolla y la zanahoria 6 minutos. Añade el ajo y el tomate concentrado y remueve 1 minuto, hasta que el tomate oscurezca. Vierte el caldo caliente, raspa bien el fondo y sazona con sal y pimienta.",
     "Reparte en dos cazuelitas de barro (o en una fuente honda con tapa) capas de patata, seitán y la verdura de la sartén, sacada con una espumadera, con una hoja de laurel y 2 granos de pimienta de Jamaica en cada una. Vierte por encima el caldo que queda en la sartén: debe llegar a dos tercios de la altura.",
     "Tapa las cazuelitas con su tapa o con papel de aluminio y hornea 45 minutos, hasta que las patatas estén muy tiernas y hayan absorbido parte del caldo. Destápalas y hornea 10 minutos más para que la superficie se dore.",
     "Mientras, mezcla el yogur de soja con la mitad del eneldo picado y una pizca de sal. Sirve las cazuelitas muy calientes con una cucharada de esta salsa encima y el resto del eneldo."
@@ -570,8 +570,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Lamina los champiñones finos y pica la cebolla y el ajo.",
     "Calienta el aceite en una sartén a fuego fuerte y saltea la cebolla 3 minutos; añade los champiñones y cocina 7-8 minutos, removiendo poco, hasta que hayan soltado su agua, esta se haya evaporado y estén dorados. Añade el ajo el último minuto y salpimienta con generosidad.",
     "Abre la baguette por la mitad a lo largo y, si es muy alta, retira un poco de miga para hacer hueco. Pon las mitades en una bandeja con el corte hacia arriba y tuéstalas 3 minutos en el horno.",
-    "Reparte los champiñones sobre el pan, cubre con el queso vegano y hornea 6-8 minutos en la parte alta, hasta que el queso se funda y los bordes del pan estén crujientes.",
-    "Sácalas, dibuja una línea de kétchup a lo largo de cada mitad y espolvorea con el cebollino picado. Cómelas recién hechas."
+    "Reparte los champiñones sobre el pan, cubre con el queso vegano y hornea 6-8 minutos en la parte alta, hasta que el queso se funda y los bordes del pan estén crujientes. Mientras, pica el cebollino.",
+    "Sácalas, dibuja una línea de kétchup a lo largo de cada mitad y espolvorea con el cebollino. Cómelas recién hechas."
   ],
   nutricion: { kcal: 630, prot: 17, hc: 90, grasa: 22 },
   etiquetas: ["creativa", "rápida", "al horno", "para niños", "poco especiada"],
@@ -613,11 +613,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas.",
-    "Mientras, pela el apionabo con un cuchillo, quitando bien la piel nudosa, y córtalo en 4 filetes de 1 cm de grosor. Cuécelos 5 minutos en otra cazuela con agua hirviendo con sal, hasta que estén tiernos pero firmes; escúrrelos y sécalos bien con papel de cocina.",
+    "Mientras, pon a hervir agua con sal en otra cazuela, pela el apionabo con un cuchillo, quitando bien la piel nudosa, y córtalo en 4 filetes de 1 cm de grosor. Cuécelos 5 minutos en esa agua hirviendo, hasta que estén tiernos pero firmes; escúrrelos y sécalos bien con papel de cocina.",
     "Prepara la ensalada: corta el pepino en láminas muy finas y mézclalo en un bol con el vinagre, el azúcar, una pizca de sal y 4 cucharadas de agua fría. Guárdalo en la nevera hasta servir.",
     "Prepara tres platos: uno con la harina y una pizca de sal, otro con 80 ml de la bebida de soja batida con la mostaza y otro con el pan rallado. Pasa cada filete por harina, sacude el exceso, luego por la mezcla de bebida de soja y por último por el pan rallado, presionando para que se adhiera.",
     "Pinta los filetes por ambos lados con 1 cucharada de aceite y cocínalos en la airfryer a 200 °C 10-12 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes.",
-    "Escurre las patatas y aplástalas con el resto de la bebida de soja caliente, el resto del aceite, la nuez moscada, sal y pimienta hasta tener un puré fino.",
+    "Mientras se hacen, calienta el resto de la bebida de soja, escurre las patatas y aplástalas con ella, el resto del aceite, la nuez moscada, sal y pimienta hasta tener un puré fino.",
     "Sirve los filetes con una cuña de limón, el puré y la ensalada de pepino escurrida y espolvoreada con el pimentón."
   ],
   nutricion: { kcal: 645, prot: 18, hc: 102, grasa: 18 },
@@ -660,7 +660,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica las cebollas finas, corta los pimientos en tiras y lamina el ajo.",
+    "Pica las cebollas finas, corta los pimientos en tiras, lamina el ajo y pon a calentar el caldo.",
     "Calienta 1 cucharada de aceite en una cazuela a fuego medio-alto y dora la heura 4-5 minutos, hasta que tenga los bordes tostados. Sácala y resérvala.",
     "Añade a la cazuela el resto del aceite y la cebolla con una pizca de sal y póchala a fuego medio 12 minutos, hasta que esté blanda y dorada: en el čobanac la cebolla se deshace y espesa la salsa.",
     "Incorpora los pimientos y el ajo y rehoga 5 minutos. Aparta del fuego, añade los dos pimentones y remueve 20 segundos; vuelve al fuego, vierte el vino tinto y deja que hierva 2 minutos, hasta que pierda el olor a alcohol.",
@@ -714,9 +714,9 @@ window.RECETAS_SEED.push({
     "Escurre la soja apretándola con las manos, guarda el caldo que suelte y sécala con papel de cocina. Calienta 1 cucharada de aceite en una cazuela a fuego medio-alto y dórala 5-6 minutos, removiendo poco, hasta que tenga los bordes tostados. Sácala y resérvala.",
     "En la misma cazuela, con el resto del aceite, sofríe la cebolla, la zanahoria y el apionabo a fuego medio 8 minutos, hasta que estén blandos y empiecen a dorarse. Espolvorea la harina y remueve 2 minutos, hasta que tome color de galleta: es la jíška, el sofrito de harina con el que se espesan las salsas checas.",
     "Añade el tomate concentrado y remueve 1 minuto, hasta que oscurezca. Vierte poco a poco el resto del caldo, también el que soltó la soja, removiendo con unas varillas para que no se formen grumos. Incorpora el tomate triturado, el laurel, la pimienta de Jamaica, los clavos, la canela y 5 o 6 granos de pimienta negra.",
-    "Cuece a fuego suave y semitapado 20 minutos, removiendo de vez en cuando. Retira el laurel, la canela, los clavos y todos los granos de pimienta que encuentres y tritura la salsa con la batidora hasta que quede fina.",
+    "Cuece a fuego suave y semitapado 20 minutos, removiendo de vez en cuando; mientras, pon a hervir abundante agua con sal para la pasta. Retira el laurel, la canela, los clavos y todos los granos de pimienta que encuentres y tritura la salsa con la batidora hasta que quede fina.",
     "Añade el azúcar, el vinagre y sal, y prueba: debe quedar claramente agridulce, con el dulzor por delante. Incorpora la soja dorada y cuece 10 minutos más a fuego suave para que se empape de salsa.",
-    "Mientras, cuece los macarrones en abundante agua con sal el tiempo que indique el paquete y escúrrelos. Sírvelos con la salsa y la soja por encima."
+    "Mientras, cuece los macarrones en el agua hirviendo el tiempo que indique el paquete y escúrrelos. Sírvelos con la salsa y la soja por encima."
   ],
   nutricion: { kcal: 700, prot: 34, hc: 95, grasa: 19 },
   etiquetas: ["creativa", "alta en proteína", "económica", "batch cooking", "para niños", "verduras escondidas", "poco especiada", "bajo en colesterol"],
@@ -754,7 +754,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la col rizada, quita los tallos duros y corta las hojas en tiras de 2 cm. Pela las patatas y córtalas en dados de 1,5 cm. Pica la cebolla y lamina el ajo.",
+    "Lava la col rizada, quita los tallos duros y corta las hojas en tiras de 2 cm. Pela las patatas y córtalas en dados de 1,5 cm. Pica la cebolla, lamina el ajo y pon a calentar el caldo.",
     "Calienta 2 cucharadas de aceite en una cazuela a fuego medio y sofríe la cebolla 5 minutos, hasta que esté dorada. Añade el ajo y cocina 1 minuto.",
     "Agrega la col rizada a puñados, dejando que cada tanda baje antes de añadir la siguiente, y rehógala 3-4 minutos, hasta que esté brillante y haya reducido su volumen.",
     "Aparta del fuego, añade los dos pimentones y remueve 20 segundos. Incorpora las patatas, el laurel y el caldo caliente, sala, tapa y cuece a fuego suave 15 minutos, hasta que las patatas estén tiernas.",
@@ -801,11 +801,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el tempeh en dados de 2 cm y ponlo en una sartén amplia con el agua y una pizca de sal. Cuécelo a fuego medio 5 minutos, hasta que el agua se evapore: así pierde el punto amargo y absorbe mejor la salsa.",
-    "Mientras, corta los pimientos en tiras, la cebolla en medias lunas y lamina el ajo. Ralla los tomates por el lado grueso del rallador y desecha la piel.",
+    "Mientras, corta los pimientos en tiras, la cebolla en medias lunas y lamina el ajo. Ralla los tomates por el lado grueso del rallador y desecha la piel. Pica el perejil.",
     "Añade 1 cucharada de aceite a la sartén con el tempeh ya seco y dóralo a fuego medio-alto 5-6 minutos, hasta que esté tostado por todas las caras. Resérvalo.",
     "En la misma sartén, con el resto del aceite, saltea la cebolla y los pimientos 6-7 minutos a fuego medio-alto, hasta que estén tiernos y con alguna mancha tostada. Añade el ajo, la guindilla desmenuzada si la usas y el pimentón, y remueve 30 segundos.",
     "Incorpora el tomate rallado y el ajvar, cocina 4 minutos hasta que la salsa espese y devuelve el tempeh; remueve 1 minuto para que se impregne. Ajusta de sal y pimienta.",
-    "Calienta los panes de pita 30 segundos por cada lado directamente sobre la llama o en una tostadora, y sirve la tava espolvoreada con el perejil picado, con el pan al lado para mojar."
+    "Calienta los panes de pita 30 segundos por cada lado directamente sobre la llama o en una tostadora, y sirve la tava espolvoreada con el perejil, con el pan al lado para mojar."
   ],
   nutricion: { kcal: 610, prot: 29, hc: 67, grasa: 25 },
   etiquetas: ["creativa", "alta en proteína", "verano", "bajo en colesterol"],
@@ -846,11 +846,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el seitán en tiras de 1 cm de grosor y mézclalo en un bol con 1 cucharada de aceite, el ajo rallado, el pimentón, la ajedrea, sal y pimienta. Deja que tome sabor mientras cortas la verdura.",
-    "Corta los pimientos en tiras anchas, el calabacín en medias lunas de 1 cm y la cebolla morada en gajos finos. Mézclalos con el resto del aceite y una pizca de sal.",
+    "Corta los pimientos en tiras anchas, el calabacín en medias lunas de 1 cm y la cebolla morada en gajos finos. Mézclalos con el resto del aceite y una pizca de sal. Pica el perejil.",
     "Calienta la plancha (o una sartén de hierro) a fuego fuerte hasta que humee ligeramente. Asa los pimientos y la cebolla 6-7 minutos, removiendo poco, hasta que tengan marcas tostadas y estén tiernos; añade el calabacín y los tomates cherry y cocina 4 minutos más. Aparta la verdura a un lado.",
     "Pon el seitán en la parte más caliente de la plancha en una sola capa y dóralo 2-3 minutos por cada lado, sin moverlo, hasta que esté tostado y crujiente por los bordes.",
     "Junta el seitán con las verduras, añade 2 cucharadas de lutenitsa y saltea 1 minuto para que se caramelice ligeramente.",
-    "Sirve enseguida, en la misma plancha o en una fuente caliente, con el perejil picado por encima y el resto de la lutenitsa al lado para mojar."
+    "Sirve enseguida, en la misma plancha o en una fuente caliente, con el perejil por encima y el resto de la lutenitsa al lado para mojar."
   ],
   nutricion: { kcal: 425, prot: 33, hc: 33, grasa: 18 },
   etiquetas: ["creativa", "alta en proteína", "ligera", "verano", "detox", "poco especiada", "bajo en colesterol"],

@@ -47,8 +47,8 @@ window.RECETAS_SEED.push({
     "Vierte el vino tinto y raspa el fondo con una cuchara de madera para despegar todo lo tostado. Deja hervir 3 minutos a fuego fuerte, hasta que deje de oler a vino crudo. Devuelve la carne y la panceta con su jugo y añade el agua, la piel de naranja, el tomillo, el laurel y los clavos: el líquido debe cubrir la carne hasta la mitad.",
     "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (segundo anillo en las ollas con indicador), baja a fuego medio-bajo y cuenta 35 minutos. Apaga y deja que la presión baje de forma natural, unos 10-15 minutos, hasta que la válvula descienda sola: así la carne no se encoge ni se reseca.",
     "Mientras baja la presión, pela las patatas y cáscalas en trozos de 4 cm (rompiéndolas con el cuchillo para que suelten almidón y espesen la salsa). Abre la olla: la carne debe deshacerse al apretarla con un tenedor; si aún se resiste, ciérrala y dale 5-8 minutos más. Añade las patatas y las aceitunas negras y mezcla para que queden medio cubiertas de salsa; si falta líquido, añade un chorrito de agua.",
-    "Cierra de nuevo, lleva a presión y cuenta 5 minutos desde que suba la válvula. Despresuriza de forma rápida: aparta la olla del fuego y abre la válvula poco a poco, o ponla bajo el grifo de agua fría hasta que baje el indicador.",
-    "Retira la piel de naranja, el laurel, las ramas de tomillo y los clavos. Si la salsa está demasiado líquida, hierve sin tapa 5 minutos hasta que cubra el dorso de una cuchara. Prueba de sal y pimienta y sirve con el perejil fresco picado por encima."
+    "Cierra de nuevo, lleva a presión y cuenta 5 minutos desde que suba la válvula; mientras, pica el perejil. Despresuriza de forma rápida: aparta la olla del fuego y abre la válvula poco a poco, o ponla bajo el grifo de agua fría hasta que baje el indicador.",
+    "Retira la piel de naranja, el laurel, las ramas de tomillo y los clavos. Si la salsa está demasiado líquida, hierve sin tapa 5 minutos hasta que cubra el dorso de una cuchara. Prueba de sal y pimienta y sirve con el perejil por encima."
   ],
   nutricion: { kcal: 700, prot: 43, hc: 54, grasa: 32 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "otoño", "batch cooking", "sin gluten", "sin lácteos", "alta en proteína", "poco especiada"],
@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica fina la cebolla y lamina los ajos. Corta el queso fresco en 4 trozos gruesos y pica el perejil fresco.",
+    "Pica fina la cebolla y lamina los ajos. Corta el queso fresco en 4 trozos gruesos y pica el perejil fresco. Calienta el caldo.",
     "Calienta 1 cucharada de aceite de oliva en la olla exprés abierta a fuego medio y rehoga la cebolla 6 minutos, hasta que esté blanda y transparente. Añade el ajo y cocina 1 minuto más, sin que llegue a dorarse.",
     "Incorpora el tomate concentrado y la mejorana seca y remueve 2 minutos, hasta que el tomate se oscurezca y huela a tostado: el concentrado bien frito (la kunserva) es la base de muchos guisos malteses.",
     "Vierte el caldo de verduras caliente y añade el laurel, las habas congeladas, los guisantes congelados y el cuscús perlado. Remueve rascando bien el fondo para que no quede nada pegado y salpimienta (con cuidado si el caldo ya lleva sal).",

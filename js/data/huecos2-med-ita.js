@@ -293,7 +293,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tempeh en dados de 2 cm y cuécelo 10 minutos en agua hirviendo con sal. Este paso le quita el amargor y abre sus poros para que luego absorba la salsa.",
+    "Corta el tempeh en dados de 2 cm y cuécelo 10 minutos en agua hirviendo con sal. Este paso le quita el amargor y abre sus poros para que luego absorba la salsa. Mientras, corta la cebolla en pluma fina y lamina los ajos.",
     "En los 2 últimos minutos añade al agua las aceitunas para blanquearlas y escurre todo junto: en Córcega se blanquean siempre, para quitarles el exceso de salmuera y que no salen el guiso.",
     "Seca bien el tempeh, calienta 1 cucharada de aceite en una cazuela a fuego medio-alto y dóralo 5 minutos, removiendo, hasta que esté tostado por varias caras. Resérvalo.",
     "Baja a fuego medio, añade la cebolla en pluma fina y los ajos laminados y pocha 6 minutos. Agrega la salvia y el laurel, remueve 30 segundos y vierte el vino; deja que hierva 2 minutos.",
@@ -467,10 +467,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca los filetes de seitán con papel de cocina. Aplasta los tomates pelados con las manos en un bol, dejando trozos irregulares.",
+    "Seca los filetes de seitán con papel de cocina y lamina los ajos. Aplasta los tomates pelados con las manos en un bol, dejando trozos irregulares.",
     "Calienta 1 cucharada de aceite en una sartén amplia a fuego medio-alto y dora los filetes 2 minutos por cada lado, hasta que tengan costra. Sácalos a un plato.",
     "En la misma sartén, con el resto del aceite, sofríe los ajos laminados a fuego medio 1 minuto, hasta que empiecen a dorarse por los bordes.",
-    "Vierte el tomate de golpe (chisporroteará), sube el fuego y cuece 8-10 minutos, removiendo de vez en cuando, hasta que el aceite brille en la superficie y la salsa esté espesa. Es una salsa de fuego vivo: rápida, con el tomate aún fresco.",
+    "Vierte el tomate de golpe (chisporroteará), sube el fuego y cuece 8-10 minutos, removiendo de vez en cuando, hasta que el aceite brille en la superficie y la salsa esté espesa. Es una salsa de fuego vivo: rápida, con el tomate aún fresco. Mientras, tuesta el pan.",
     "Añade las alcaparras y el orégano frotándolo entre las palmas sobre la sartén para despertar su aroma. Sala con cuidado.",
     "Devuelve los filetes, cúbrelos con la salsa y cuece 3-4 minutos a fuego suave, solo para que se impregnen. Si los dejas más, el seitán se ablanda.",
     "Termina con albahaca rota con las manos y pimienta. Sirve con el pan tostado para la scarpetta."

@@ -39,10 +39,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para la pasta. Pela las cebollas y córtalas en medias lunas finas.",
+    "Pon a hervir abundante agua con sal para la pasta. Pela las cebollas y córtalas en medias lunas finas, y pica el ajo.",
     "En una sartén grande calienta el aceite con la mantequilla y rehoga la cebolla a fuego medio 8-10 minutos, removiendo, hasta que esté dorada y dulce: es la mitad del sabor del plato.",
     "Sube el fuego, añade la ternera picada y el ajo picado y saltea 6-7 minutos deshaciendo la carne con la cuchara, hasta que pierda el color rosado, se evapore el líquido y empiece a tostarse. Salpimienta con generosidad.",
-    "Mientras, cuece los macarrones el tiempo que indique el paquete, hasta que estén al dente, y escúrrelos.",
+    "Mientras, cuece los macarrones el tiempo que indique el paquete, hasta que estén al dente, y pica el eneldo. Escurre la pasta.",
     "Vierte el caldo en la sartén para despegar los jugos tostados del fondo, añade los macarrones y saltea 2 minutos a fuego vivo, hasta que la pasta brille y quede bien mezclada con la carne.",
     "Sirve con eneldo picado por encima y unos pepinillos al lado."
   ],
@@ -83,13 +83,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Haz la masa: mezcla la harina con media cucharadita de sal, añade el agua templada y 1 cucharada de aceite y amasa 6-8 minutos, hasta que quede lisa y suave al tacto. Tápala con un bol del revés y déjala reposar 30 minutos.",
-    "Para el relleno, escurre el chucrut apretándolo con las manos (pruébalo: si está muy ácido, enjuágalo) y pícalo fino. En una sartén con 2 cucharaditas de aceite rehoga una de las cebollas picada y la zanahoria rallada 6 minutos.",
+    "Para el relleno, escurre el chucrut apretándolo con las manos (pruébalo: si está muy ácido, enjuágalo) y pícalo fino. Pica una de las cebollas y ralla la zanahoria. En una sartén con 2 cucharaditas de aceite rehoga la cebolla y la zanahoria 6 minutos.",
     "Añade el chucrut, el laurel, pimienta y 3 cucharadas de agua, tapa y guisa a fuego suave 20 minutos, removiendo a veces, hasta que esté tierno y empiece a dorarse. Destapa al final para que quede seco: un relleno húmedo rompe la masa. Retira el laurel y deja enfriar.",
     "Estira la masa en dos tandas sobre la encimera enharinada hasta dejarla de 2 mm y corta círculos de 7-8 cm con un vaso. Junta los recortes, vuelve a estirarlos y corta más.",
     "Pon una cucharadita colmada de relleno en cada círculo, dóblalo en media luna y pellizca bien el borde sin dejar aire dentro; si quieres, rízalo plegándolo con los dedos. Saldrán unos 28-30.",
-    "Mientras, dora la otra cebolla en medias lunas con el resto del aceite y la mantequilla a fuego medio 12-15 minutos, hasta que esté bien dorada y dulce.",
-    "Cuece los varenyky en abundante agua con sal hirviendo suavemente, en dos tandas, 3-4 minutos desde que suban a la superficie. Sácalos con una espumadera directamente a la sartén de la cebolla y mézclalos con cuidado.",
-    "Sirve con la smetana y el eneldo picado por encima."
+    "Mientras, pon a hervir abundante agua con sal en la cazuela, corta la otra cebolla en medias lunas y dórala con el resto del aceite y la mantequilla a fuego medio 12-15 minutos, hasta que esté bien dorada y dulce. Pica el eneldo.",
+    "Cuece los varenyky en el agua hirviendo suavemente, en dos tandas, 3-4 minutos desde que suban a la superficie. Sácalos con una espumadera directamente a la sartén de la cebolla y mézclalos con cuidado.",
+    "Sirve con la smetana y el eneldo por encima."
   ],
   nutricion: { kcal: 635, prot: 13, hc: 89, grasa: 25 },
   etiquetas: ["tradicional", "invierno", "económica", "vegetariana", "fin de semana", "poco especiada"],
@@ -126,9 +126,9 @@ window.RECETAS_SEED.push({
     "Si el requesón está muy húmedo, déjalo escurrir unos minutos en un colador con papel de cocina; después cháfalo con un tenedor hasta que no queden grumos.",
     "Pon a hervir una cazuela grande con agua y sal. En un bol mezcla el requesón con el huevo y una pizca de sal, y añade la harina poco a poco, amasando con la mano lo justo para formar una masa blanda que apenas se pegue: cuanta menos harina, más tiernos quedan.",
     "Divide la masa en 3 partes y forma con cada una un rulo de 2,5 cm de grosor sobre la encimera enharinada. Aplánalos un poco con la palma y córtalos en diagonal en rombos de 2 cm.",
-    "Mientras, derrite la mantequilla en una sartén a fuego medio, añade el pan rallado y tuéstalo 2-3 minutos, removiendo, hasta que esté dorado y la mantequilla huela a avellana.",
+    "Mientras, pica el cebollino. Derrite la mantequilla en una sartén a fuego medio, añade el pan rallado y tuéstalo 2-3 minutos, removiendo, hasta que esté dorado y la mantequilla huela a avellana.",
     "Echa los leniwe al agua hirviendo en dos tandas y cuécelos 2 minutos desde que suban a la superficie. Sácalos con una espumadera y escúrrelos bien.",
-    "Sírvelos con la mantequilla y el pan tostado por encima, una cucharada de smetana y cebollino picado."
+    "Sírvelos con la mantequilla y el pan tostado por encima, una cucharada de smetana y el cebollino."
   ],
   nutricion: { kcal: 610, prot: 28, hc: 54, grasa: 30 },
   etiquetas: ["tradicional", "para niños", "económica", "vegetariana", "sin verduras", "poco especiada"],
@@ -167,12 +167,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C y unta una fuente pequeña (de unos 20 × 25 cm) con un poco de la mantequilla.",
-    "Cuece los cuadrados de lasaña en abundante agua con sal 2 minutos menos de lo que indique el paquete, porque terminarán en el horno. Escúrrelos y mézclalos con una nuez de mantequilla para que no se peguen.",
-    "Mientras, derrite el resto de la mantequilla en una sartén y rehoga la cebolla picada fina 6-7 minutos, hasta que esté transparente. Añade el jamón en dados pequeños y saltéalo 2 minutos.",
+    "Precalienta el horno a 190 °C, pon a hervir abundante agua con sal y unta una fuente pequeña (de unos 20 × 25 cm) con un poco de la mantequilla.",
+    "Cuece los cuadrados de lasaña en el agua hirviendo 2 minutos menos de lo que indique el paquete, porque terminarán en el horno. Escúrrelos y mézclalos con una nuez de mantequilla para que no se peguen.",
+    "Mientras, pica fina la cebolla y corta el jamón en dados pequeños. Derrite el resto de la mantequilla en una sartén y rehoga la cebolla 6-7 minutos, hasta que esté transparente. Añade el jamón y saltéalo 2 minutos.",
     "En un bol bate los huevos con la smetana, la leche, la nuez moscada, pimienta y una pizca de sal (el jamón ya sala).",
     "Mezcla la pasta con el jamón y la cebolla, vuélcala en la fuente, riégala con la mezcla de huevo y reparte el queso rallado por encima.",
-    "Hornea 25 minutos, hasta que el huevo esté cuajado y la superficie dorada, con las puntas de la pasta crujientes. Deja reposar 5 minutos y sirve con cebollino picado y los pepinillos al lado."
+    "Hornea 25 minutos, hasta que el huevo esté cuajado y la superficie dorada, con las puntas de la pasta crujientes; mientras, pica el cebollino. Deja reposar 5 minutos y sirve con el cebollino y los pepinillos al lado."
   ],
   nutricion: { kcal: 725, prot: 38, hc: 67, grasa: 34 },
   etiquetas: ["tradicional", "al horno", "para niños", "económica", "batch cooking", "sin verduras", "poco especiada"],
@@ -211,11 +211,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en dados de 1,5 cm y cuécelas en agua con sal 10-12 minutos, hasta que estén tiernas pero enteras. Sácalas con una espumadera y, en la misma agua, cuece los macarrones el tiempo del paquete.",
-    "Mientras, corta las cebollas en medias lunas finas y rehógalas en una sartén grande con 1,5 cucharadas de aceite a fuego medio 12-15 minutos, removiendo, hasta que estén bien doradas y dulces. Añade la alcaravea el último minuto para que suelte su aroma.",
+    "Mientras, pica el perejil, corta las cebollas en medias lunas finas y rehógalas en una sartén grande con 1,5 cucharadas de aceite a fuego medio 12-15 minutos, removiendo, hasta que estén bien doradas y dulces. Añade la alcaravea el último minuto para que suelte su aroma.",
     "Aparta la sartén del fuego, añade el pimentón y remueve 20 segundos: fuera del fuego no amarga. Vuelve a ponerla al fuego, añade las patatas y saltéalas 3 minutos para que se tiñan de rojo.",
     "Escurre la pasta guardando un poco del agua, añádela a la sartén con un chorrito de esa agua, sal y pimienta, y mezcla 2 minutos a fuego vivo, hasta que todo quede rojo y brillante.",
     "En otra sartén fríe los huevos con el resto del aceite, con la clara cuajada y la yema líquida.",
-    "Sirve el granadír con 2 huevos encima de cada plato, perejil picado y los pepinillos al lado."
+    "Sirve el granadír con 2 huevos encima de cada plato, el perejil y los pepinillos al lado."
   ],
   nutricion: { kcal: 640, prot: 26, hc: 77, grasa: 25 },
   etiquetas: ["tradicional", "económica", "aprovechamiento", "vegetariana", "sin verduras", "poco especiada"],
@@ -259,14 +259,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Empieza por la bakalca: corta el cordero en dados de 2 cm, sécalo, salpimiéntalo y dóralo por tandas en una cazuela con el aceite a fuego fuerte 5-6 minutos, hasta que esté bien tostado. Retíralo.",
-    "En la misma cazuela rehoga la mitad de la cebolla y la zanahoria picadas finas 8 minutos. Añade el tomate concentrado, tuéstalo 1 minuto, vierte el vino y raspa el fondo hasta que se evapore el alcohol.",
+    "Empieza por la bakalca: pica finas la cebolla y la zanahoria. Corta el cordero en dados de 2 cm, sécalo, salpimiéntalo y dóralo por tandas en una cazuela con el aceite a fuego fuerte 5-6 minutos, hasta que esté bien tostado. Retíralo.",
+    "En la misma cazuela rehoga la mitad de la cebolla y la zanahoria 8 minutos. Añade el tomate concentrado, tuéstalo 1 minuto, vierte el vino y raspa el fondo hasta que se evapore el alcohol.",
     "Devuelve el cordero, cubre con el caldo, añade el laurel y el romero, tapa y guisa a fuego mínimo 1 h 30 min, hasta que la carne se deshaga. Sácala, pícala muy fina con un cuchillo y vuelve a mezclarla con la salsa, que debe quedar espesa y brillante.",
     "Mientras se guisa, cuece la patata con piel en agua con sal 20-25 minutos, pélala y cháfala en caliente. Dora la panceta picada muy fina con el resto de la cebolla picada 6-7 minutos y mézclalo con el puré, el cebollino picado, la mejorana, sal y pimienta. Deja enfriar.",
-    "Haz la masa: amasa la harina con el huevo, una pizca de sal y 2-3 cucharadas de agua hasta que esté lisa y elástica, unos 8 minutos. Tápala y déjala reposar 20 minutos.",
+    "Haz la masa, también mientras se guisa la carne: amasa la harina con el huevo, una pizca de sal y 2-3 cucharadas de agua hasta que esté lisa y elástica, unos 8 minutos. Tápala y déjala reposar 20 minutos.",
     "Estira la masa muy fina, de 1 mm, y córtala en tiras de 5 cm de ancho. Coloca bolitas de relleno del tamaño de una avellana a lo largo de cada tira, separadas 3 cm, dobla la masa por encima, presiona alrededor de cada bolita para sacar el aire y corta en rectángulos.",
-    "Da a cada pieza su forma típica: aprieta con la yema del dedo el centro del relleno para hacerle un hoyuelo, como un pequeño sombrero. Saldrán unos 40.",
-    "Cuécelos en abundante agua con sal 4-5 minutos desde que suban a la superficie. Escúrrelos con cuidado y sírvelos con la bakalca bien caliente por encima."
+    "Da a cada pieza su forma típica: aprieta con la yema del dedo el centro del relleno para hacerle un hoyuelo, como un pequeño sombrero. Saldrán unos 40. Mientras das forma a los últimos, pon a hervir abundante agua con sal.",
+    "Cuécelos en el agua hirviendo 4-5 minutos desde que suban a la superficie. Escúrrelos con cuidado y sírvelos con la bakalca bien caliente por encima."
   ],
   nutricion: { kcal: 735, prot: 36, hc: 77, grasa: 30 },
   etiquetas: ["tradicional", "fin de semana", "invierno", "para invitados", "poco especiada"],
@@ -307,10 +307,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon las setas secas en remojo en 150 ml de agua caliente. En una cazuela de fondo grueso lleva a ebullición 500 ml de agua con 1 cucharadita de sal.",
     "Echa toda la harina de alforfón de golpe en el centro, formando un montón, sin remover. Con el mango de una cuchara de madera haz un agujero en el centro hasta el fondo para que circule el agua. Tapa y cuece a fuego suave 25 minutos.",
-    "Mientras, corta la panceta en daditos y fríela en una sartén a fuego medio-bajo 8-10 minutos, hasta que suelte la grasa y queden chicharrones dorados. Pásalos a un cuenco con la mitad de la grasa y deja el resto en la sartén.",
-    "Para la salsa, rehoga en esa sartén la cebolla picada con la mantequilla 5 minutos. Añade los champiñones laminados y las setas escurridas y picadas y saltea 6-7 minutos a fuego fuerte, hasta que se doren. Espolvorea la harina de trigo, remueve 1 minuto, vierte el agua del remojo colada y cuece 3 minutos. Fuera del fuego añade la smetana, la mejorana, sal y pimienta.",
+    "Mientras, corta la panceta en daditos y fríela en una sartén a fuego medio-bajo 8-10 minutos, hasta que suelte la grasa y queden chicharrones dorados; mientras, pica la cebolla y el perejil, lamina los champiñones y escurre y pica las setas. Pasa los chicharrones a un cuenco con la mitad de la grasa y deja el resto en la sartén.",
+    "Para la salsa, rehoga en esa sartén la cebolla con la mantequilla 5 minutos. Añade los champiñones y las setas y saltea 6-7 minutos a fuego fuerte, hasta que se doren. Espolvorea la harina de trigo, remueve 1 minuto, vierte el agua del remojo colada y cuece 3 minutos. Fuera del fuego añade la smetana, la mejorana, sal y pimienta.",
     "Destapa la cazuela y escurre en un cuenco casi toda el agua que quede. Con un tenedor grande rompe el bloque de harina en migas del tamaño de una avellana, removiendo con energía 2-3 minutos; si queda seco, añade un poco del agua reservada. Deben quedar sueltas, como unas migas húmedas.",
-    "Vierte los chicharrones con su grasa sobre los žganci, mezcla y deja reposar tapado 5 minutos. Sirve con la salsa de setas por encima y perejil picado."
+    "Vierte los chicharrones con su grasa sobre los žganci, mezcla y deja reposar tapado 5 minutos. Sirve con la salsa de setas por encima y el perejil."
   ],
   nutricion: { kcal: 620, prot: 21, hc: 68, grasa: 30 },
   etiquetas: ["tradicional", "invierno", "económica", "poco especiada"],
@@ -354,12 +354,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la ternera en dados de 2 cm, salpimiéntala y dórala en la cazuela con el aceite a fuego fuerte, por tandas, 5-6 minutos, hasta que esté bien tostada. Retírala.",
-    "Baja el fuego y rehoga la cebolla picada fina 10 minutos, hasta que esté dorada y blanda. Añade el ajo picado y el tomate concentrado y tuéstalo 1 minuto removiendo.",
+    "Pica fina la cebolla y pica el ajo. Corta la ternera en dados de 2 cm, salpimiéntala y dórala en la cazuela con el aceite a fuego fuerte, por tandas, 5-6 minutos, hasta que esté bien tostada. Retírala.",
+    "Baja el fuego y rehoga la cebolla 10 minutos, hasta que esté dorada y blanda. Añade el ajo y el tomate concentrado y tuéstalo 1 minuto removiendo.",
     "Devuelve la carne, vierte el vino tinto y deja que hierva 2-3 minutos raspando el fondo. Añade el tomate triturado, el vino dulce, el clavo, la canela, el laurel, la nuez moscada y el caldo.",
-    "Tapa y guisa a fuego muy suave 1 h 15 min - 1 h 30 min, removiendo de vez en cuando y añadiendo un poco de agua si se seca, hasta que la carne esté tierna y la salsa espesa, oscura y brillante. Retira el clavo, la canela y el laurel.",
-    "Cuece los macarrones en abundante agua con sal 1 minuto menos de lo que indique el paquete y escúrrelos guardando un vaso del agua.",
-    "Vuelca la pasta en la cazuela del guiso y mézclala a fuego suave 1-2 minutos, con un chorrito del agua de cocción si hace falta, hasta que quede bien «sucia», cubierta de salsa. Sirve con el queso rallado y perejil picado."
+    "Tapa y guisa a fuego muy suave 1 h 15 min - 1 h 30 min, removiendo de vez en cuando y añadiendo un poco de agua si se seca, hasta que la carne esté tierna y la salsa espesa, oscura y brillante. Retira el clavo, la canela y el laurel. Cuando falte un cuarto de hora, pon a hervir abundante agua con sal para la pasta y pica el perejil.",
+    "Cuece los macarrones en el agua hirviendo 1 minuto menos de lo que indique el paquete y escúrrelos guardando un vaso del agua.",
+    "Vuelca la pasta en la cazuela del guiso y mézclala a fuego suave 1-2 minutos, con un chorrito del agua de cocción si hace falta, hasta que quede bien «sucia», cubierta de salsa. Sirve con el queso rallado y el perejil."
   ],
   nutricion: { kcal: 715, prot: 46, hc: 75, grasa: 24 },
   etiquetas: ["tradicional", "fin de semana", "batch cooking", "alta en proteína", "invierno", "sin verduras", "poco especiada"],
@@ -400,11 +400,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las cigalas: separa las cabezas y las cáscaras de las colas y guarda la carne en la nevera.",
-    "Haz un caldo rápido: dora las cabezas y cáscaras en la cazuela con 1 cucharada de aceite 3-4 minutos, aplastándolas con la cuchara para que suelten su jugo. Añade el tomate concentrado, el agua y el laurel, y hierve 15 minutos. Cuela apretando bien las cabezas y mantén el caldo caliente aparte (quedarán unos 700 ml).",
-    "En la cazuela limpia calienta el resto del aceite y rehoga la chalota picada 4 minutos, hasta que esté transparente; añade el ajo picado y la mitad del perejil picado y sofríe 1 minuto sin que el ajo se dore.",
+    "Haz un caldo rápido: dora las cabezas y cáscaras en la cazuela con 1 cucharada de aceite 3-4 minutos, aplastándolas con la cuchara para que suelten su jugo. Añade el tomate concentrado, el agua y el laurel, y hierve 15 minutos. Cuela apretando bien las cabezas y mantén el caldo caliente aparte (quedarán unos 700 ml). Mientras hierve, pica la chalota, el ajo y el perejil, y corta las colas de cigala en 2 o 3 trozos (o déjalas enteras si son pequeñas); vuelve a guardarlas en la nevera.",
+    "En la cazuela limpia calienta el resto del aceite y rehoga la chalota 4 minutos, hasta que esté transparente; añade el ajo y la mitad del perejil y sofríe 1 minuto sin que el ajo se dore.",
     "Añade el arroz y nacáralo 2 minutos removiendo, hasta que los granos brillen. Vierte el vino blanco, deja que se evapore e incorpora el tomate triturado.",
     "Ve añadiendo el caldo caliente cazo a cazo, removiendo a menudo y esperando a que el arroz lo absorba antes de añadir más, durante 16-18 minutos, hasta que el grano esté tierno pero con un punto firme en el centro.",
-    "Corta las colas de cigala en 2 o 3 trozos (o déjalas enteras si son pequeñas), sálalas y añádelas al arroz los últimos 2 minutos: deben quedar justo opacas.",
+    "Sala las colas de cigala y añádelas al arroz los últimos 2 minutos: deben quedar justo opacas.",
     "Fuera del fuego incorpora la mantequilla fría y el resto del perejil y remueve con energía 30 segundos para que quede cremoso y suelto. Prueba de sal, añade pimienta y deja reposar 1 minuto tapado antes de servir."
   ],
   nutricion: { kcal: 610, prot: 21, hc: 66, grasa: 28 },
@@ -447,10 +447,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Seca los contramuslos, frótalos con sal, pimienta, 1 cucharadita de pimentón y la mitad de la ajedrea, y colócalos con la piel hacia arriba en una fuente de horno de unos 25 × 30 cm. Hornéalos 25 minutos, hasta que la piel empiece a dorarse.",
     "Mientras, lava el arroz hasta que el agua salga casi clara y escúrrelo. Pica la cebolla, corta la zanahoria en dados pequeños y el pimiento en tiras cortas.",
-    "En una sartén calienta el aceite con la mantequilla y rehoga la cebolla, la zanahoria y el pimiento 8 minutos a fuego medio, hasta que estén tiernos. Añade el arroz con el resto del pimentón y de la ajedrea y remueve 2 minutos, hasta que el grano se vuelva nacarado. Pon a calentar el caldo.",
+    "Pon a calentar el caldo. En una sartén calienta el aceite con la mantequilla y rehoga la cebolla, la zanahoria y el pimiento 8 minutos a fuego medio, hasta que estén tiernos. Añade el arroz con el resto del pimentón y de la ajedrea y remueve 2 minutos, hasta que el grano se vuelva nacarado.",
     "Saca la fuente, aparta el pollo, reparte el arroz en el fondo empapándolo en la grasa que ha soltado, vierte el caldo hirviendo, prueba de sal y vuelve a colocar el pollo encima con la piel hacia arriba.",
-    "Hornea 30-35 minutos más, sin remover, hasta que el arroz haya absorbido el caldo y esté tierno y la piel del pollo quede dorada y crujiente. Si el arroz se seca antes de estar hecho, añade un poco de agua caliente.",
-    "Deja reposar 5 minutos fuera del horno, espolvorea perejil picado y sirve con un cuenco de yogur frío al lado."
+    "Hornea 30-35 minutos más, sin remover, hasta que el arroz haya absorbido el caldo y esté tierno y la piel del pollo quede dorada y crujiente. Si el arroz se seca antes de estar hecho, añade un poco de agua caliente. Mientras, pica el perejil.",
+    "Deja reposar 5 minutos fuera del horno, espolvorea el perejil y sirve con un cuenco de yogur frío al lado."
   ],
   nutricion: { kcal: 730, prot: 34, hc: 67, grasa: 36 },
   etiquetas: ["tradicional", "al horno", "para niños", "económica", "batch cooking", "sin gluten", "poco especiada"],
@@ -575,8 +575,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C con gratinador. Cuece los macarrones en abundante agua con sal 2 minutos menos de lo que indique el paquete y añade las espinacas al agua los últimos 30 segundos. Escurre.",
     "Mientras, en un bol grande bate el ajvar con el kajmak, la leche, el huevo, el ajo rallado y pimienta negra hasta tener una crema anaranjada y lisa. Desmenuza dentro la mitad del feta.",
     "Mezcla los macarrones y las espinacas con la crema, vuélcalo en una fuente de horno pequeña y reparte por encima el resto del feta desmenuzado y el pan rallado.",
-    "Hornea 10-12 minutos, hasta que burbujee por los bordes y la superficie tenga manchas tostadas. Si quieres más costra, dale 2 minutos más de gratinador sin perderlo de vista.",
-    "Deja reposar 3 minutos y sirve con perejil picado. Prueba antes de añadir sal: el feta y el ajvar ya salan."
+    "Hornea 10-12 minutos, hasta que burbujee por los bordes y la superficie tenga manchas tostadas. Si quieres más costra, dale 2 minutos más de gratinador sin perderlo de vista. Mientras, pica el perejil.",
+    "Deja reposar 3 minutos y sirve con el perejil. Prueba antes de añadir sal: el feta y el ajvar ya salan."
   ],
   nutricion: { kcal: 640, prot: 25, hc: 68, grasa: 30 },
   etiquetas: ["creativa", "al horno", "para niños", "vegetariana", "batch cooking", "poco especiada"],
@@ -617,10 +617,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir una cazuela grande con agua y sal para la pasta y otra pequeña con agua para los huevos. Parte los espárragos por donde se quiebren solos, desecha la parte dura y córtalos en trozos de 3-4 cm, dejando las yemas aparte.",
     "Cuando hierva la cazuela pequeña, baja los huevos con una cuchara y cuécelos 6 minutos y medio. Pásalos a un bol con agua muy fría 2 minutos y pélalos con cuidado: la clara estará cuajada y la yema, cremosa.",
-    "Mientras, prepara la salsa en un bol: mezcla la smetana con el rábano picante, la mostaza, la ralladura del medio limón, una pizca de sal y pimienta. Pruébala: debe picar ligeramente en la nariz sin tapar el sabor de la nata.",
+    "Mientras, prepara la salsa en un bol: mezcla la smetana con el rábano picante, la mostaza, la ralladura del medio limón, una pizca de sal y pimienta. Pruébala: debe picar ligeramente en la nariz sin tapar el sabor de la nata. Pica el cebollino y el eneldo y corta los rábanos en láminas finas.",
     "Cuece los tallarines el tiempo que indique el paquete. Añade los trozos de espárrago al agua los últimos 3 minutos y las yemas el último minuto. Escurre guardando un vaso del agua de cocción.",
-    "Vuelve a poner la pasta y los espárragos en la cazuela caliente, fuera del fuego, con la mantequilla, la salsa de smetana, la mitad del cebollino y el eneldo picados y 3-4 cucharadas del agua de cocción. Mezcla con unas pinzas 1 minuto, hasta que la salsa quede cremosa y envuelva la pasta; sin fuego, la smetana no se corta.",
-    "Sirve en platos hondos con 2 huevos partidos por la mitad encima de cada uno, los rábanos en láminas finas, el resto de las hierbas, unas gotas de zumo de limón y pimienta negra recién molida."
+    "Vuelve a poner la pasta y los espárragos en la cazuela caliente, fuera del fuego, con la mantequilla, la salsa de smetana, la mitad del cebollino y el eneldo y 3-4 cucharadas del agua de cocción. Mezcla con unas pinzas 1 minuto, hasta que la salsa quede cremosa y envuelva la pasta; sin fuego, la smetana no se corta.",
+    "Sirve en platos hondos con 2 huevos partidos por la mitad encima de cada uno, los rábanos, el resto de las hierbas, unas gotas de zumo de limón y pimienta negra recién molida."
   ],
   nutricion: { kcal: 600, prot: 27, hc: 54, grasa: 30 },
   etiquetas: ["creativa", "rápida", "vegetariana", "primavera"],
@@ -661,8 +661,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la sharena sol: mezcla la ajedrea, el pimentón, el fenogreco y media cucharadita de sal. Reserva una cucharadita para el final.",
-    "En una cazuela calienta el aceite y rehoga la cebolla picada 6 minutos a fuego medio, hasta que esté blanda. Añade 1 diente de ajo picado y el tomate concentrado y remueve 1 minuto.",
+    "Prepara la sharena sol: mezcla la ajedrea, el pimentón, el fenogreco y media cucharadita de sal. Reserva una cucharadita para el final. Pica la cebolla y 1 diente de ajo y pon a calentar el caldo.",
+    "En una cazuela calienta el aceite y rehoga la cebolla 6 minutos a fuego medio, hasta que esté blanda. Añade el ajo picado y el tomate concentrado y remueve 1 minuto.",
     "Incorpora el bulgur y el resto de la sharena sol, tuesta 1 minuto removiendo y vierte el caldo caliente. Tapa y cuece a fuego mínimo 12 minutos, hasta que el bulgur haya absorbido el líquido.",
     "Mientras, corta los pimientos asados en tiras y enjuaga y escurre las lentejas. Mezcla el yogur con el otro diente de ajo rallado, la mitad del eneldo picado y una pizca de sal.",
     "Pon las lentejas y los pimientos sobre el bulgur sin remover, tapa y deja reposar 5 minutos fuera del fuego para que se calienten con el vapor. Después suelta el grano con un tenedor, añade pimienta y prueba de sal.",
@@ -708,12 +708,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la remolacha y rállala por la parte gruesa del rallador (usa guantes si no quieres teñirte las manos). Ralla también la zanahoria, pica la cebolla y corta la col en tiras finas y cortas.",
+    "Pon a hervir abundante agua con sal para la pasta. Pela la remolacha y rállala por la parte gruesa del rallador (usa guantes si no quieres teñirte las manos). Ralla también la zanahoria, pica la cebolla y el ajo y corta la col en tiras finas y cortas.",
     "En una sartén grande calienta el aceite y rehoga la cebolla 5 minutos. Añade la zanahoria y la remolacha y sofríe 10 minutos a fuego medio, removiendo; a mitad, riega con el vinagre y el azúcar: el ácido fija el color rojo de la remolacha.",
-    "Incorpora el ajo picado y el tomate concentrado, remueve 1 minuto y añade la col, el tomate triturado y el caldo. Tapa y cuece 12-15 minutos a fuego suave, hasta que la col esté tierna y la salsa espesa. Salpimienta.",
-    "Mientras, cuece los rigatoni en abundante agua con sal el tiempo del paquete y escúrrelos guardando un vaso del agua.",
+    "Incorpora el ajo y el tomate concentrado, remueve 1 minuto y añade la col, el tomate triturado y el caldo. Tapa y cuece 12-15 minutos a fuego suave, hasta que la col esté tierna y la salsa espesa. Salpimienta.",
+    "Mientras, cuece los rigatoni en el agua hirviendo el tiempo del paquete y pica el eneldo. Escurre la pasta guardando un vaso del agua.",
     "Mezcla la pasta con el ragú y un chorrito del agua de cocción a fuego vivo 1 minuto, hasta que la salsa la envuelva y brille. Prueba y ajusta de sal y de vinagre.",
-    "Sirve con una cucharada de smetana en cada plato, mucho eneldo picado y pimienta negra recién molida."
+    "Sirve con una cucharada de smetana en cada plato, mucho eneldo y pimienta negra recién molida."
   ],
   nutricion: { kcal: 595, prot: 16, hc: 88, grasa: 20 },
   etiquetas: ["creativa", "vegetariana", "económica", "batch cooking", "invierno", "verduras escondidas", "poco especiada"],
@@ -753,10 +753,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta la calabaza en dados de 2 cm, mézclala con la mitad del aceite, sal y pimienta y ásala en una bandeja 25 minutos, hasta que esté tierna y con los bordes tostados. Añade las semillas de calabaza a la bandeja los últimos 5 minutos para tostarlas.",
-    "Mientras, calienta el caldo. En una cazuela rehoga la cebolla picada fina con el resto del aceite 5 minutos; añade el ajo picado y el trigo sarraceno lavado y escurrido y remueve 2 minutos para que se impregne. Vierte el vino y deja que se evapore.",
+    "Mientras, calienta el caldo y pica fina la cebolla, el ajo y el eneldo. En una cazuela rehoga la cebolla con el resto del aceite 5 minutos; añade el ajo y el trigo sarraceno lavado y escurrido y remueve 2 minutos para que se impregne. Vierte el vino y deja que se evapore.",
     "Ve añadiendo el caldo caliente en tres o cuatro veces, removiendo a menudo, durante 18-20 minutos, hasta que el grano esté tierno pero entero y el conjunto quede cremoso. El alforfón suelta almidón como el arroz: no lo dejes secar.",
     "Aplasta con un tenedor un tercio de la calabaza asada y mézclala con el grano junto con la mantequilla: le da cremosidad y un color dorado. Prueba de sal.",
-    "Sirve con el resto de la calabaza por encima, el queso de cabra desmenuzado, las semillas tostadas y el eneldo picado."
+    "Sirve con el resto de la calabaza por encima, el queso de cabra desmenuzado, las semillas tostadas y el eneldo."
   ],
   nutricion: { kcal: 595, prot: 21, hc: 66, grasa: 27 },
   etiquetas: ["creativa", "vegetariana", "sin gluten", "otoño", "al horno", "superalimentos", "poco especiada"],
@@ -798,12 +798,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pavo en dados de 2 cm y salpimiéntalo. Corta la cebolla en medias lunas, los pimientos en tiras cortas y el calabacín en medias rodajas de 1 cm. Pon a calentar el caldo.",
+    "Corta el pavo en dados de 2 cm y salpimiéntalo. Corta la cebolla en medias lunas, los pimientos en tiras cortas y el calabacín en medias rodajas de 1 cm, y lamina el ajo. Pon a calentar el caldo.",
     "En una cazuela ancha calienta el aceite y dora el pavo a fuego fuerte 3-4 minutos, sin moverlo mucho, hasta que tome color por fuera; por dentro quedará crudo. Sácalo a un plato.",
     "En la misma cazuela rehoga la cebolla 5 minutos a fuego medio, añade los pimientos y cocínalos 6-7 minutos más, removiendo, hasta que se ablanden. Incorpora el ajo laminado y el calabacín y saltea 2 minutos.",
     "Aparta la cazuela del fuego, añade el pimentón, el tomate concentrado y la mejorana y remueve 20 segundos: fuera del fuego el pimentón no se quema. Vierte el tomate triturado y el caldo caliente y lleva a ebullición.",
-    "Añade el orzo, remueve bien y cuece tapado a fuego suave 8 minutos, removiendo un par de veces para que no se pegue al fondo. Devuelve el pavo con su jugo y cuece 3-4 minutos más, hasta que el orzo esté tierno y el pavo hecho por dentro. Si se seca, añade un poco de agua caliente: debe quedar meloso.",
-    "Prueba de sal, deja reposar 2 minutos fuera del fuego y sirve con perejil picado por encima."
+    "Añade el orzo, remueve bien y cuece tapado a fuego suave 8 minutos, removiendo un par de veces para que no se pegue al fondo; mientras, pica el perejil. Devuelve el pavo con su jugo y cuece 3-4 minutos más, hasta que el orzo esté tierno y el pavo hecho por dentro. Si se seca, añade un poco de agua caliente: debe quedar meloso.",
+    "Prueba de sal, deja reposar 2 minutos fuera del fuego y sirve con el perejil por encima."
   ],
   nutricion: { kcal: 540, prot: 42, hc: 64, grasa: 12 },
   etiquetas: ["creativa", "una sola olla", "alta en proteína", "batch cooking", "verano", "económica", "poco especiada", "bajo en colesterol"],
@@ -847,10 +847,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y ponlo en una cazuela con 200 ml de agua y una pizca de sal. Cuando hierva, tapa y cuece 12 minutos a fuego mínimo; después deja reposar 5 minutos fuera del fuego sin destapar.",
-    "Mientras, en un bol mezcla las dos carnes con la cebolla rallada, el comino, la ajedrea, la mitad del perejil picado, sal, pimienta y 2 cucharadas de agua fría. Amasa 2 minutos, hasta que la mezcla quede pegajosa: así las kyufteta salen jugosas.",
+    "Mientras, ralla la cebolla y pica el perejil y el eneldo. En un bol mezcla las dos carnes con la cebolla, el comino, la ajedrea, la mitad del perejil, sal, pimienta y 2 cucharadas de agua fría. Amasa 2 minutos, hasta que la mezcla quede pegajosa: así las kyufteta salen jugosas.",
     "Forma 6 albóndigas aplanadas de unos 2 cm de grosor con las manos húmedas. Úntalas con 1 cucharadita de aceite y cocínalas en la airfryer a 200 °C 10-12 minutos, dándoles la vuelta a mitad, hasta que estén doradas por fuera y hechas por dentro.",
-    "Para la lyutenitsa rápida, pica muy fino con un cuchillo los pimientos asados y mézclalos con el tomate concentrado, el ajo rallado, el resto del aceite y una pizca de sal, hasta tener una pasta espesa y roja.",
-    "Ralla el pepino, apriétalo con las manos para quitarle el agua y mézclalo con el yogur, sal y la mitad del eneldo picado.",
+    "Mientras se hacen, prepara la lyutenitsa rápida: pica muy fino con un cuchillo los pimientos asados y mézclalos con el tomate concentrado, el ajo rallado, el resto del aceite y una pizca de sal, hasta tener una pasta espesa y roja.",
+    "Ralla el pepino, apriétalo con las manos para quitarle el agua y mézclalo con el yogur, sal y la mitad del eneldo.",
     "Suelta el arroz con un tenedor y mézclalo con el resto del eneldo y del perejil. Sirve el arroz con las kyufteta, una cucharada de lyutenitsa y el pepino al yogur."
   ],
   nutricion: { kcal: 605, prot: 32, hc: 59, grasa: 26 },
@@ -890,10 +890,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el trigo sarraceno, escúrrelo y tuéstalo en seco en una cazuela 2-3 minutos, removiendo, hasta que huela a nuez. Vierte el agua hirviendo con una pizca de sal, tapa y cuece a fuego mínimo 12 minutos; apaga y deja reposar tapado 5 minutos. Debe quedar suelto.",
-    "Mientras, quita la piel a la morcilla y córtala en rodajas gruesas de 1,5 cm. Corta la cebolla en medias lunas y la manzana, sin pelar, en gajos finos sin el corazón.",
+    "Mientras, quita la piel a la morcilla y córtala en rodajas gruesas de 1,5 cm. Corta la cebolla en medias lunas y la manzana, sin pelar, en gajos finos sin el corazón. Pica el perejil.",
     "En una sartén grande calienta el aceite y rehoga la cebolla 8 minutos a fuego medio, hasta que esté dorada. Añade la manzana y saltéala 3-4 minutos, hasta que se ablande y caramelice por los bordes. Pásalo todo a un plato.",
     "En la misma sartén dora la morcilla a fuego medio 2 minutos por cada lado, sin moverla, hasta que haga costra. Devuelve la cebolla y la manzana y añade la mejorana y pimienta.",
-    "Incorpora el trigo sarraceno y saltea todo junto 2 minutos con cuidado, para que el grano recoja la grasa de la morcilla sin deshacerla del todo. Prueba de sal y sirve con perejil picado, la mostaza y los pepinillos al lado."
+    "Incorpora el trigo sarraceno y saltea todo junto 2 minutos con cuidado, para que el grano recoja la grasa de la morcilla sin deshacerla del todo. Prueba de sal y sirve con el perejil, la mostaza y los pepinillos al lado."
   ],
   nutricion: { kcal: 620, prot: 19, hc: 70, grasa: 30 },
   etiquetas: ["creativa", "rápida", "económica", "otoño", "invierno", "sin verduras", "poco especiada"],

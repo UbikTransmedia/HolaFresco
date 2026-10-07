@@ -29,10 +29,11 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
+    { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las fabes del remojo y ponlas en una cazuela ancha cubiertas con 3 dedos de agua fría, con media cebolla entera, el laurel y 1 cucharada de aceite. Lleva a ebullición, retira la espuma y baja a fuego mínimo: deben cocer a borbotón muy suave y sin remover (menea la cazuela con las asas) durante 1 h 45 min a 2 h, hasta que se deshagan al aprisionarlas con dos dedos.",
+    "La víspera, pon las fabes en remojo en abundante agua fría. Al día siguiente, escúrrelas y ponlas en una cazuela ancha cubiertas con 3 dedos de agua fría, con media cebolla entera, el laurel y 1 cucharada de aceite. Lleva a ebullición, retira la espuma y baja a fuego mínimo: deben cocer a borbotón muy suave y sin remover (menea la cazuela con las asas) durante 1 h 45 min a 2 h, hasta que se deshagan al aprisionarlas con dos dedos.",
     "Cada 30 minutos, asústalas con medio vaso de agua fría para que la piel no se rompa y queden mantecosas. Sala solo cuando ya estén tiernas.",
     "A falta de 30 minutos, prepara el sofrito: pica fina la otra media cebolla, el pimiento verde y los ajos y póchalos en una sartén con 2 cucharadas de aceite a fuego medio 10 minutos, hasta que estén blandos y dulces.",
     "Ralla los tomates, añádelos al sofrito con una pizca de sal y cocina 8 minutos más, hasta que pierdan el agua y el aceite asome por los bordes. Aparta del fuego, incorpora el pimentón y remueve 20 segundos para que no amargue.",
@@ -121,10 +122,11 @@ window.RECETAS_SEED.push({
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre los garbanzos y ponlos en la cazuela con agua caliente que los cubra 3 dedos, el laurel y media cebolla. Cuece a fuego suave, tapados, 1 h 15 min a 1 h 30 min, hasta que estén tiernos (si el agua es dura, tardarán más). Añade siempre agua caliente si hace falta.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría con una pizca de bicarbonato. Al día siguiente, escúrrelos y ponlos en la cazuela con agua caliente que los cubra 3 dedos, el laurel y media cebolla. Cuece a fuego suave, tapados, 1 h 15 min a 1 h 30 min, hasta que estén tiernos (si el agua es dura, tardarán más). Añade siempre agua caliente si hace falta.",
     "Cuece los huevos 10 minutos desde que hierve el agua, enfríalos en agua con hielo, pélalos y córtalos en cuartos.",
     "En una sartén con el aceite, fríe la rebanada de pan y 2 ajos enteros pelados a fuego medio hasta que estén dorados (3-4 minutos). Pásalos al mortero con el comino, el azafrán y una pizca de sal y májalos con un chorrito del caldo de los garbanzos hasta obtener una pasta.",
     "En el mismo aceite, pocha la otra media cebolla picada fina y el ajo restante laminado 6 minutos. Añade el tomate rallado y cocina 5 minutos, hasta que espese. Fuera del fuego, incorpora el pimentón.",
@@ -496,15 +498,16 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga las lentejas y ponlas en la cazuela con 700 ml de agua, la cúrcuma y la mitad del jengibre rallado. Lleva a ebullición, espuma y cuece a fuego muy suave, semitapado, 45 minutos, hasta que estén muy tiernas y empiecen a deshacerse.",
+    "Si puedes, ten las lentejas 2 horas en remojo en agua fría antes de empezar. Enjuágalas y ponlas en la cazuela con 700 ml de agua, la cúrcuma y la mitad del jengibre rallado. Lleva a ebullición, espuma y cuece a fuego muy suave, semitapado, 45 minutos, hasta que estén muy tiernas y empiecen a deshacerse.",
     "Añade las alubias rojas y machaca una parte contra la pared de la cazuela con el cucharón: el dal debe quedar cremoso y espeso, no suelto. Mantén a fuego mínimo.",
     "Mientras, pica fina la cebolla, pica los ajos y el resto del jengibre y corta el chile en aros. Calienta la mantequilla con el aceite en una sartén a fuego medio y dora la cebolla 10 minutos, hasta que esté dorada oscura en los bordes.",
     "Añade ajo, jengibre y chile y fríe 1 minuto. Incorpora el comino, la cayena y el tomate triturado y cocina 8-10 minutos, removiendo, hasta que la salsa oscurezca y la grasa se separe en los bordes.",
     "Vierte el sofrito en el dal, mezcla bien, sala y deja cocer a fuego mínimo 25-30 minutos más, removiendo cada 5 minutos y añadiendo agua caliente si se pega. Cuanto más tiempo, más oscuro y sedoso.",
-    "Cuece el arroz: lávalo, ponlo con 240 ml de agua y sal, tapa, 11 minutos a fuego mínimo y 5 de reposo tapado.",
+    "Mientras el dal se cuece, prepara el arroz: lávalo, ponlo con 240 ml de agua y sal, tapa, 11 minutos a fuego mínimo y 5 de reposo tapado.",
     "Incorpora la nata y el garam masala al dal, cocina 3 minutos y apaga. Sirve con el arroz, un hilo de nata por encima y cilantro picado."
   ],
   nutricion: { kcal: 700, prot: 27, hc: 100, grasa: 22 },
@@ -585,11 +588,12 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "hierbabuena fresca", q: 0.5, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la costilla y dórala en la cazuela con 1 cucharada de aceite a fuego fuerte 6-8 minutos, por todos los lados, hasta que tenga color oscuro. Retira el exceso de grasa dejando 1 cucharada.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, salpimienta la costilla y dórala en la cazuela con 1 cucharada de aceite a fuego fuerte 6-8 minutos, por todos los lados, hasta que tenga color oscuro. Retira el exceso de grasa dejando 1 cucharada.",
     "Añade los garbanzos escurridos, la zanahoria entera, la parte verde del puerro, el laurel y agua caliente que cubra 3 dedos. Lleva a ebullición, espuma y baja a fuego mínimo: cuece tapado 1 h 30 min, añadiendo siempre agua caliente si hace falta.",
     "Mientras, pica fina la cebolla, la parte blanca del puerro y los ajos. Sofríelos en una sartén con la otra cucharada de aceite a fuego medio-bajo 12 minutos, hasta que estén dorados y dulces. Añade el tomate rallado y cocina 5 minutos. Fuera del fuego, incorpora el pimentón y el comino.",
     "Pela la calabaza y la patata y córtalas en dados de 3 cm. Cuando los garbanzos lleven 1 h 30 min, retira la parte verde del puerro y saca la zanahoria (trocéala y devuélvela), añade el sofrito, la calabaza y la patata, y sala.",
@@ -1132,10 +1136,11 @@ window.RECETAS_SEED.push({
     { n: "fideos finos", q: 80, u: "g", nota: "fideo cabellín o del n.º 1" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon en la cazuela 1,8 litros de agua con los garbanzos escurridos, el pollo, el chorizo entero, el puerro entero, el apio, las zanahorias peladas, los ajos y el laurel. Lleva a ebullición y espuma bien durante los primeros 5 minutos.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, pon en la cazuela 1,8 litros de agua con los garbanzos escurridos, el pollo, el chorizo entero, el puerro entero, el apio, las zanahorias peladas, los ajos y el laurel. Lleva a ebullición y espuma bien durante los primeros 5 minutos.",
     "Baja a fuego mínimo y cuece tapado 1 h, hasta que los garbanzos estén casi tiernos. Debe hervir muy suave: un borbotón fuerte rompe los garbanzos y enturbia el caldo.",
     "Saca el pollo y el chorizo cuando lleven 40 minutos (ya estarán hechos) y resérvalos tapados para que no se sequen.",
     "Pela la patata y córtala en 4 trozos; corta el repollo en tiras gruesas. Añádelos a la cazuela con sal y cuece 20-25 minutos más, hasta que la patata esté tierna. Si quieres evitar el olor fuerte del repollo, escáldalo antes 3 minutos en agua hirviendo aparte.",

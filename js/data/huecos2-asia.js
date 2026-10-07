@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz frotándolo entre las manos y cambiando el agua hasta que salga casi clara. Cuécelo con 170 ml de agua tapado: hervor fuerte, fuego mínimo 12 minutos y 10 minutos de reposo sin destapar.",
-    "Escalda los brotes de soja en agua hirviendo con sal 1 minuto, solo hasta que pierdan el punto crudo pero sigan crujientes, y pásalos a agua fría. Escúrrelos y estrújalos suavemente con las manos. Alíñalos con el ajo rallado, el aceite de sésamo, el sésamo, un poco del verde de una cebolleta picado y sal. Es el sukju namul.",
+    "Mientras se cuece el arroz, pon a hervir agua con sal y escalda en ella los brotes de soja 1 minuto, solo hasta que pierdan el punto crudo pero sigan crujientes, y pásalos a agua fría. Escúrrelos y estrújalos suavemente con las manos. Alíñalos con el ajo rallado, el aceite de sésamo, el sésamo, un poco del verde de una cebolleta picado y sal. Es el sukju namul.",
     "Pica la zanahoria y la cebolleta en dados de 2–3 mm, muy finos, para que no rompan las capas al enrollar. Bate los huevos con media cucharadita de sal sin hacer espuma y añade la verdura.",
     "Calienta una sartén de unos 20 cm a fuego medio-bajo y engrásala con papel empapado en aceite. Vierte un tercio del huevo y repártelo. Cuando la base esté cuajada pero la superficie aún brille, enrolla desde un extremo con espátula y palillos en vueltas de 3–4 cm.",
     "Empuja el rollo al borde, vuelve a engrasar la sartén y vierte otro tercio, levantando el rollo para que el huevo líquido pase por debajo y pegue las capas. Enrolla de nuevo en sentido contrario. Repite con el último tercio.",
@@ -78,10 +78,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo desde que hierva y 5 de reposo.",
-    "Pica el nabo encurtido en trocitos de 3 mm y déjalo 10 minutos en agua fría para quitarle parte de la sal. Escúrrelo y estrújalo con las manos hasta que no suelte agua. Pica la cebolleta.",
+    "Mientras se cuece el arroz, pica el nabo encurtido en trocitos de 3 mm y déjalo 10 minutos en agua fría para quitarle parte de la sal. Escúrrelo y estrújalo con las manos hasta que no suelte agua. Pica la cebolleta y lamina el ajo.",
     "Tuesta el nabo en una sartén seca a fuego medio 3 minutos, removiendo, hasta que huela dulce y tenga puntitos dorados. Este paso concentra el sabor y es lo que distingue un buen cai pu dan.",
     "Bate los huevos con el nabo templado, la cebolleta y una pizca de pimienta blanca. No añadas sal: el nabo ya la aporta.",
-    "Antes de freír la tortilla, prepara el pak choi: sepáralo en tallos y hojas. Saltea el ajo laminado en el wok con un hilo de aceite 30 segundos, añade los tallos 2 minutos a fuego fuerte, luego las hojas, un chorrito de agua y sal; tapa 1 minuto y reserva al calor. La tortilla tiene que llegar a la mesa recién hecha, con el borde aún crujiente.",
+    "Antes de freír la tortilla, prepara el pak choi: sepáralo en tallos y hojas. Saltea el ajo en el wok con un hilo de aceite 30 segundos, añade los tallos 2 minutos a fuego fuerte, luego las hojas, un chorrito de agua y sal; tapa 1 minuto y reserva al calor. La tortilla tiene que llegar a la mesa recién hecha, con el borde aún crujiente.",
     "Calienta 2 cucharadas de aceite en la misma sartén a fuego fuerte hasta que riele. Vierte el huevo: los bordes deben burbujear e hincharse al instante. Con una espátula, lleva los bordes hacia el centro dos o tres veces y baja a fuego medio. Cocina 3–4 minutos, hasta que la base esté dorada y el borde rizado y crujiente.",
     "Dale la vuelta con ayuda de un plato, añade la cucharada de aceite restante por el borde y cocina 2 minutos más. Debe quedar gruesa, tostada por fuera y jugosa dentro.",
     "Corta la tortilla en porciones y sírvela con el arroz y el pak choi."
@@ -121,11 +121,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara, déjalo escurrir 10 minutos y cuécelo con 190 ml de agua: tapado, hervor, fuego mínimo 12 minutos y 10 de reposo. Tiene que estar muy caliente al montar el plato.",
-    "Prepara la salsa: en un cazo pequeño lleva a hervor 150 ml de agua, apaga, añade 4 g de bonito y deja infusionar 3 minutos; cuela apretando. Reserva 100 ml de ese dashi para las espinacas. Al resto (unas 3 cucharadas) añade 2 cucharadas de soja y el mirin y hierve 1 minuto: es una salsa de soja suavizada que no tapa el huevo.",
+    "Pon a hervir agua con sal en una cazuela para las espinacas. Prepara la salsa: en un cazo pequeño lleva a hervor 150 ml de agua, apaga, añade 4 g de bonito y deja infusionar 3 minutos; cuela apretando. Reserva 100 ml de ese dashi para las espinacas. Al resto (unas 3 cucharadas) añade 2 cucharadas de soja y el mirin y hierve 1 minuto: es una salsa de soja suavizada que no tapa el huevo.",
     "Cuece las espinacas en agua hirviendo con sal 30–40 segundos, solo hasta que se ablanden, y pásalas a agua helada para fijar el verde. Escúrrelas, forma un cilindro y estrújalo con fuerza. Córtalo en tacos de 4 cm y báñalos con los 100 ml de dashi y 1 cucharada de soja. Esto es el ohitashi.",
-    "Pasa la hoja de nori por encima de la llama o de una sartén caliente unos segundos por cada lado, hasta que cruja y cambie de color. Córtala en tiras finas con tijera.",
+    "Pasa la hoja de nori por encima de la llama o de una sartén caliente unos segundos por cada lado, hasta que cruja y cambie de color. Córtala en tiras finas con tijera y pica el cebollino.",
     "Separa las claras de las yemas, dejando cada yema en su cáscara. Pon el arroz recién hecho en dos boles, añade dos claras a cada uno y bate enérgicamente con palillos 1 minuto: el calor del arroz las cuaja ligeramente y se vuelven una espuma blanca y esponjosa.",
-    "Haz un hueco en el centro, coloca dos yemas en cada bol y termina con la nori, el cebollino picado, el resto del bonito y la mitad del sésamo. Riega con la salsa al gusto y rompe las yemas en la mesa.",
+    "Haz un hueco en el centro, coloca dos yemas en cada bol y termina con la nori, el cebollino, el resto del bonito y la mitad del sésamo. Riega con la salsa al gusto y rompe las yemas en la mesa.",
     "Sirve al lado las espinacas con su caldo y el resto del sésamo por encima."
   ],
   nutricion: { kcal: 520, prot: 26, hc: 73, grasa: 13 },
@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 170 ml de agua, tapado: 12 minutos a fuego mínimo desde el hervor y 10 de reposo.",
-    "Prepara la salsa ankake: en un cazo mezcla en frío el caldo, la soja, el vinagre, el azúcar y la maicena. Lleva a hervor removiendo y cuece 1 minuto, hasta que espese y se vuelva translúcida. Añade los guisantes y deja 2 minutos más a fuego mínimo.",
+    "Mientras se cuece el arroz, prepara la salsa ankake: en un cazo mezcla en frío el caldo, la soja, el vinagre, el azúcar y la maicena. Lleva a hervor removiendo y cuece 1 minuto, hasta que espese y se vuelva translúcida. Añade los guisantes y deja 2 minutos más a fuego mínimo.",
     "Desmiga el surimi con los dedos en hebras, lamina finas las setas y corta la cebolleta al bies. Bate los huevos con una pizca de sal y pimienta blanca, sin airearlos, y mézclalos con el surimi, las setas y la cebolleta.",
     "Sirve el arroz en dos platos hondos formando una cúpula baja, presionándolo ligeramente con un bol.",
     "Calienta el wok a fuego fuerte con la mitad del aceite de girasol hasta que humee. Vierte la mitad del huevo: en 5 segundos los bordes se hinchan. Con una cuchara ancha, arrastra el huevo cuajado del borde al centro tres o cuatro veces durante 20–30 segundos, hasta que esté hecho por debajo y aún cremoso arriba.",
@@ -214,12 +214,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los huevos en agua hirviendo, cuécelos 9 minutos y pásalos a agua con hielo. Pélalos y sécalos muy bien con papel: el agua hace que el aceite salte. Haz 3 o 4 cortes superficiales en cada uno para que la salsa entre.",
-    "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
+    "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo. Mientras, corta el jengibre en tiras, pica 2 dientes de ajo, separa la parte blanca de la cebolleta de la verde y pícalas, parte las guindillas y corta la col china en tiras, separando la penca de la hoja.",
     "Calienta el aceite en el wok a fuego medio-fuerte y fríe los huevos 5–6 minutos, girándolos con una cuchara (tapa a medias, salpican). La clara se llenará de ampollas y arrugas doradas: esa es la piel de tigre, que luego atrapa la salsa.",
-    "Saca los huevos y retira el aceite dejando 1 cucharada. Sofríe a fuego medio el jengibre en tiras, 2 dientes de ajo picados, la parte blanca de la cebolleta y las guindillas partidas 1 minuto, hasta que huelan sin quemarse.",
+    "Saca los huevos y retira el aceite dejando 1 cucharada. Sofríe a fuego medio el jengibre, el ajo picado, la parte blanca de la cebolleta y las guindillas 1 minuto, hasta que huelan sin quemarse.",
     "Añade la soja, la soja oscura, el vinagre, el azúcar y 120 ml de agua. Lleva a hervor, devuelve los huevos y cuece 5–6 minutos girándolos para que tomen color por todas partes.",
     "Liga la salsa con la maicena disuelta en 1 cucharada de agua; en 30 segundos debe quedar brillante y napar los huevos. Termina con el verde de la cebolleta.",
-    "Mientras, corta la col china en tiras, separando la penca de la hoja. Saltea el resto del ajo en el wok limpio con un hilo de aceite, añade la penca 2 minutos a fuego fuerte y después las hojas 1 minuto, con sal. Sirve los huevos partidos por la mitad con su salsa, el arroz y la col."
+    "Pasa los huevos con su salsa a una fuente, limpia el wok y saltea en él el resto del ajo con un hilo de aceite, añade la penca 2 minutos a fuego fuerte y después las hojas 1 minuto, con sal. Sirve los huevos partidos por la mitad con su salsa, el arroz y la col."
   ],
   nutricion: { kcal: 650, prot: 27, hc: 63, grasa: 32 },
   etiquetas: ["tradicional", "económica", "batch cooking"],
@@ -257,7 +257,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Rompe la col con las manos en trozos del tamaño de un sello grande, separando las pencas gruesas de las hojas. Los bordes irregulares se tuestan mejor y atrapan la salsa. Lávala y sécala a conciencia (centrifugadora o paño): si entra mojada, se cuece en vez de saltearse.",
+    "Mientras se cuece el arroz, rompe la col con las manos en trozos del tamaño de un sello grande, separando las pencas gruesas de las hojas. Los bordes irregulares se tuestan mejor y atrapan la salsa. Lávala y sécala a conciencia (centrifugadora o paño): si entra mojada, se cuece en vez de saltearse.",
     "Corta las guindillas en trozos de 2 cm sacudiendo las semillas y lamina el ajo.",
     "Pon la panceta en el wok frío con el aceite y calienta a fuego medio 3–4 minutos, hasta que suelte la grasa y tenga los bordes dorados.",
     "Baja el fuego, añade la pimienta de Sichuan y la guindilla y remueve 20 segundos, hasta que huelan y la guindilla oscurezca un tono, sin ennegrecer. Echa el ajo 10 segundos.",
@@ -302,7 +302,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Quita las puntas a las judías, lávalas y sécalas muy bien con un paño: cualquier gota de agua hace saltar el aceite y las cuece al vapor en lugar de ampollarlas. Pica fino el ajo, el jengibre y el nabo encurtido; corta las guindillas en trozos.",
+    "Mientras se cuece el arroz, quita las puntas a las judías, lávalas y sécalas muy bien con un paño: cualquier gota de agua hace saltar el aceite y las cuece al vapor en lugar de ampollarlas. Pica fino el ajo, el jengibre y el nabo encurtido; corta las guindillas en trozos.",
     "Calienta el aceite en el wok a fuego medio-fuerte y añade las judías en una sola capa. Cocínalas 7–8 minutos, removiendo cada minuto, hasta que la piel esté arrugada, con ampollas y manchas tostadas, y el interior tierno. Es el gan bian, el salteado en seco que en los restaurantes se hace friendo en abundante aceite. Sácalas con una espumadera.",
     "Deja 1 cucharada de aceite en el wok, sube el fuego y añade el cerdo. Aplástalo y sepáralo con la espátula en granitos y saltéalo 3 minutos, hasta que haya soltado el agua y esté dorado y casi crujiente: debe quedar repartido entre las judías como un condimento sabroso.",
     "Vierte el vino de Shaoxing por el borde y la soja, deja que se evaporen 20 segundos y añade el nabo encurtido, el ajo, el jengibre, la guindilla y la pimienta de Sichuan. Saltea 30 segundos, hasta que huela.",
@@ -347,11 +347,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el nabo en 4 rodajas de 3 cm y pélalas gruesas, unos 3 mm, para quitar la capa fibrosa bajo la piel. Bisela el borde de cada rodaja con el pelador (mentori): así no se desmoronan al cocer. Haz en una cara un corte en cruz de 1 cm de profundidad para que se cuezan y empapen por igual.",
     "Ponlas en una cazuela con agua fría que las cubra y 10 g de arroz crudo y cuece 15 minutos desde el hervor. El almidón del arroz retira el amargor y deja el nabo muy blanco. Escúrrelas y enjuágalas.",
-    "Lava el resto del arroz y cuécelo con 170 ml de agua, tapado: 12 minutos a fuego mínimo y 10 de reposo.",
+    "Mientras, lava el resto del arroz y cuécelo con 170 ml de agua, tapado: 12 minutos a fuego mínimo y 10 de reposo.",
     "Vuelve a poner el nabo en la cazuela limpia con el kombu, 700 ml de agua y una pizca de sal. Cubre con un disco de papel de horno con un agujero (otoshibuta) y cuece a fuego suave, sin que borbotee, 30 minutos, hasta que un palillo entre sin resistencia.",
-    "Mientras, saltea el pollo con el aceite y el jengibre rallado en una sartén a fuego medio 3 minutos, deshaciéndolo con un tenedor hasta que quede en grano fino y blanco.",
+    "Mientras, pica el cebollino y saltea el pollo con el aceite y el jengibre rallado en una sartén a fuego medio 3 minutos, deshaciéndolo con un tenedor hasta que quede en grano fino y blanco.",
     "Añade el miso, el mirin, el sake, el azúcar y 3 cucharadas del caldo del nabo. Cuece a fuego bajo 3–4 minutos sin dejar de remover, hasta que brille y tenga textura de mermelada espesa. Ralla encima la piel de media naranja.",
-    "Sirve cada rodaja en un bol con un poco de su caldo, la salsa de miso por encima, más ralladura de naranja y cebollino picado. El arroz, aparte."
+    "Sirve cada rodaja en un bol con un poco de su caldo, la salsa de miso por encima, más ralladura de naranja y el cebollino. El arroz, aparte."
   ],
   nutricion: { kcal: 440, prot: 14, hc: 80, grasa: 6 },
   etiquetas: ["tradicional", "invierno", "poco especiada", "bajo en colesterol", "batch cooking", "ligera"],
@@ -395,9 +395,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Remoja las shiitake en 300 ml de agua caliente 30 minutos, con un plato encima para que no floten. Escúrrelas apretando, quítales el pie y córtalas por la mitad. Cuela el agua de remojo con un papel de cocina y resérvala: es el caldo del guiso.",
-    "Remoja los fideos en agua templada 10 minutos y córtalos con tijera en dos o tres trozos. Lava el arroz y cuécelo con 150 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Corta la col china en trozos de 4 cm separando pencas y hojas, la zanahoria en rodajas finas al bies, el bambú en láminas, las mazorquitas por la mitad a lo largo y el tofu en dados.",
-    "Calienta el aceite de girasol en el wok a fuego medio-fuerte y sofríe el ajo y el jengibre laminados 30 segundos. Añade las setas y la zanahoria y saltea 2 minutos.",
+    "Mientras, remoja los fideos en agua templada 10 minutos y córtalos con tijera en dos o tres trozos. Lava el arroz y cuécelo con 150 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
+    "Mientras se cuece el arroz, corta la col china en trozos de 4 cm separando pencas y hojas, la zanahoria en rodajas finas al bies, el bambú en láminas, las mazorquitas por la mitad a lo largo y el tofu en dados. Lamina el ajo y el jengibre.",
+    "Calienta el aceite de girasol en el wok a fuego medio-fuerte y sofríe el ajo y el jengibre 30 segundos. Añade las setas y la zanahoria y saltea 2 minutos.",
     "Añade las pencas, el bambú, las mazorquitas y el tofu, vierte el vino de Shaoxing por el borde y deja que se evapore. Incorpora 250 ml del agua de las setas, la soja, la soja oscura y el azúcar. Tapa y cuece a fuego medio 6 minutos.",
     "Añade las hojas de col y los fideos, remueve y cuece destapado 2–3 minutos: los fideos absorben el caldo y se vuelven transparentes.",
     "Liga con la maicena disuelta en 1 cucharada de agua, solo hasta que el caldo brille y nape un poco. Apaga, rocía con el aceite de sésamo y sirve con el arroz."
@@ -442,9 +442,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 170 ml de agua, tapado: 12 minutos a fuego mínimo y 10 de reposo.",
-    "Prepara la marinada: ralla la pera y el ajo y mézclalos con 2 cucharadas de soja, el azúcar, la mitad del aceite de sésamo, la mitad del sésamo y pimienta. La pera aporta dulzor y frescura, como en el bulgogi de ternera.",
+    "Mientras se cuece el arroz, prepara la marinada: ralla la pera y el ajo y mézclalos con 2 cucharadas de soja, el azúcar, la mitad del aceite de sésamo, la mitad del sésamo y pimienta. La pera aporta dulzor y frescura, como en el bulgogi de ternera.",
     "Desgarra las setas de cardo a lo largo en tiras de 1 cm, siguiendo la fibra; quita el pie a las shiitake y córtalas en láminas gruesas. Corta la cebolla en pluma. Mézclalo todo con la marinada y deja 10 minutos, no más: si reposan mucho, la sal les hace soltar agua.",
-    "Para el pa-muchim, corta la cebolleta en hilos muy finos de 6 cm y sumérgelos 5 minutos en agua con hielo: se rizan y pierden el picor. Escúrrelos bien.",
+    "Mientras, para el pa-muchim, corta la cebolleta en hilos muy finos de 6 cm y sumérgelos 5 minutos en agua con hielo: se rizan y pierden el picor. Escúrrelos bien.",
     "Calienta una sartén amplia a fuego fuerte con el aceite de girasol hasta que humee. Escurre las setas reservando el líquido de la marinada y dóralas en dos tandas, sin moverlas 2 minutos, hasta que tengan costra; luego saltea 2 minutos más.",
     "Devuelve todas las setas, añade el líquido de la marinada y saltea 1 minuto a fuego vivo, hasta que se evapore y queden glaseadas y brillantes.",
     "En el último momento, aliña la cebolleta con el vinagre, la media cucharada de soja restante, el resto del aceite de sésamo, el gochugaru y el resto del sésamo. Sirve las setas sobre el arroz con el pa-muchim encima."
@@ -492,9 +492,9 @@ window.RECETAS_SEED.push({
     "Maja en el mortero los tallos (y raíces) del cilantro, el ajo y la pimienta blanca hasta obtener una pasta: es el sam-kler, la base aromática de la cocina tailandesa. Reserva las hojas.",
     "En una cazuela, pon el azúcar de palma con 1 cucharada de agua a fuego medio y deja que se funda y tome color ámbar, 2–3 minutos. Añade la pasta y remueve 1 minuto, hasta que huela.",
     "Incorpora la panceta, las cinco especias y el anís y remueve 2–3 minutos para que se impregne del caramelo. Añade las dos salsas de soja y 600 ml de agua, lleva a hervor y desespuma.",
-    "Tapa y cuece a fuego muy suave 45 minutos, hasta que la panceta esté tierna. Añade los huevos y el tofu y cuece 20 minutos más destapado, girando los huevos de vez en cuando para que se tiñan de manera uniforme. Prueba: debe ser dulce y salado a partes iguales, con el aroma del anís; ajusta con sal o agua. Retira la grasa que flote.",
-    "Para la salsa, pica fino el chile y mézclalo con el vinagre, una pizca de sal y otra de azúcar de palma. Su acidez corta la untuosidad del guiso.",
-    "Sirve tres huevos por persona, partidos, con unos dados de panceta y de tofu y su caldo sobre el arroz, que habrás cocido durante los últimos 20 minutos del guiso (lavado, con 210 ml de agua, 12 minutos a fuego mínimo y 5 de reposo), con hojas de cilantro y la salsa de chile al lado."
+    "Tapa y cuece a fuego muy suave 45 minutos, hasta que la panceta esté tierna. Mientras, prepara la salsa: pica fino el chile y mézclalo con el vinagre, una pizca de sal y otra de azúcar de palma. Su acidez corta la untuosidad del guiso.",
+    "Añade los huevos y el tofu y cuece 20 minutos más destapado, girando los huevos de vez en cuando para que se tiñan de manera uniforme. Mientras, lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo. Prueba el guiso: debe ser dulce y salado a partes iguales, con el aroma del anís; ajusta con sal o agua. Retira la grasa que flote.",
+    "Sirve tres huevos por persona, partidos, con unos dados de panceta y de tofu y su caldo sobre el arroz, con hojas de cilantro y la salsa de chile al lado."
   ],
   nutricion: { kcal: 795, prot: 35, hc: 75, grasa: 39 },
   etiquetas: ["tradicional", "económica", "batch cooking", "invierno"],
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Pon los huevos en agua hirviendo 7 minutos y pásalos a agua con hielo: la yema quedará melosa. Pélalos con cuidado y sécalos muy bien.",
+    "Mientras se cuece el arroz, pon los huevos en agua hirviendo 7 minutos y pásalos a agua con hielo: la yema quedará melosa. Pélalos con cuidado y sécalos muy bien.",
     "Corta las chalotas en aros finos y regulares. Ponlas en el wok con el aceite en frío y calienta a fuego medio, removiendo, 8–10 minutos. Sácalas cuando estén doradas claras: siguen oscureciendo fuera del aceite. Escúrrelas sobre papel y quedarán crujientes.",
     "Sube el aceite a unos 170 °C (una chalota echada burbujea con fuerza al instante) y fríe los huevos 3–4 minutos, girándolos, hasta que tengan una piel dorada y ampollada. Escúrrelos. Fríe las guindillas 10 segundos, hasta que se inflen y oscurezcan un tono.",
     "En un cazo, mezcla la pasta de tamarindo, el azúcar de palma, la salsa de pescado y 3 cucharadas de agua. Cuece a fuego medio 3–4 minutos, hasta que espese como un almíbar que napa la cuchara. Prueba: primero agrio, luego dulce y al final salado; corrige con agua si está muy intenso.",
@@ -577,7 +577,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Haz el sambal: trocea los tomates, 1 chalota, 1 diente de ajo y 2 chiles y sofríelos con 1 cucharada de aceite a fuego medio 6–7 minutos, hasta que el tomate se deshaga. Machácalo en el mortero con sal, el azúcar y el zumo de media lima: debe quedar rústico, picante, dulce y ácido.",
+    "Mientras se cuece el arroz, haz el sambal: trocea los tomates, 1 chalota, 1 diente de ajo y 2 chiles y sofríelos con 1 cucharada de aceite a fuego medio 6–7 minutos, hasta que el tomate se deshaga. Machácalo en el mortero con sal, el azúcar y el zumo de media lima: debe quedar rústico, picante, dulce y ácido.",
     "Pica fino las 2 chalotas restantes, el otro ajo, el chile restante y la cebolleta. Mezcla en un bol la harina de arroz y el coco con 2 cucharadas de agua hasta que no queden grumos.",
     "Bate los huevos con un tenedor 1 minuto, hasta que espumen, y añade la mezcla de coco, las verduras picadas, la cúrcuma y media cucharadita de sal. La harina de arroz hace que la tortilla crezca y quede firme sin ser seca.",
     "Calienta el aceite en un wok o un cazo de unos 20 cm, que quede 2 cm de fondo, a 170 °C. Vierte el huevo de golpe: se hinchará. Riega la superficie con aceite caliente con una cuchara y, con una espátula, empuja los bordes hacia el centro para que la tortilla gane altura.",
@@ -624,7 +624,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Pica la cebolla y el ajo, corta las judías en rodajas de 5 mm y el tomate en dados, quitándole las semillas para que el relleno no quede aguado.",
+    "Mientras se cuece el arroz, pica la cebolla y el ajo, corta las judías en rodajas de 5 mm y el tomate en dados, quitándole las semillas para que el relleno no quede aguado.",
     "Calienta media cucharada de aceite en el wok a fuego fuerte y sofríe el ajo 20 segundos. Añade el cerdo y deshazlo con la espátula 3 minutos, hasta que pierda el color rosado. Añade la cebolla y las judías y saltea 2 minutos.",
     "Agrega la salsa de ostras, la salsa de pescado, el azúcar y pimienta blanca, y por último el tomate 1 minuto, solo para que se caliente. El relleno debe quedar jugoso pero sin líquido en el fondo: si hay, redúcelo. Pásalo a un plato y limpia el wok.",
     "Bate 3 huevos con una pizca de sal. Calienta media cucharada de aceite en el wok a fuego medio, engrasando bien las paredes, vierte el huevo y gira el wok enseguida para que suba por los lados y forme una lámina fina de unos 28 cm.",
@@ -668,7 +668,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Prepara el aliño: maja en el mortero el ajo y los chiles con una pizca de azúcar y añade la salsa de pescado, el zumo de las limas y el resto del azúcar. Remueve hasta disolver. Prueba: debe ser primero agrio y salado, luego picante y un punto dulce.",
+    "Mientras se cuece el arroz, prepara el aliño: maja en el mortero el ajo y los chiles con una pizca de azúcar y añade la salsa de pescado, el zumo de las limas y el resto del azúcar. Remueve hasta disolver. Prueba: debe ser primero agrio y salado, luego picante y un punto dulce.",
     "Corta las chalotas en pluma fina, los tomates por la mitad y el apio en rodajas finas al bies; pica las hojas de apio y el cilantro.",
     "Calienta el aceite en el wok a fuego fuerte hasta 180 °C, que una gota de huevo chisporrotee y se dore enseguida. Casca un huevo en un cuenco y deslízalo al aceite; riega la clara con el aceite con una cuchara. En 1 minuto y medio los bordes estarán inflados, con encaje dorado y crujiente, y la yema aún blanda. Sácalo y escúrrelo. Fríe así los cuatro.",
     "Corta cada huevo en 6 trozos con un cuchillo de sierra para no aplastar la puntilla.",
@@ -751,7 +751,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Corta las judías en trozos de 6 cm, la panceta en tiras finas y la cebolla en dados. Lamina 3 dientes de ajo y machaca los otros 3. Aplasta la pimienta en el mortero, sin molerla.",
+    "Mientras se cuece el arroz, corta las judías en trozos de 6 cm, la panceta en tiras finas y la cebolla en dados. Lamina 3 dientes de ajo y machaca los otros 3. Aplasta la pimienta en el mortero, sin molerla.",
     "Pon la panceta en la sartén en frío y cocínala a fuego medio 6–8 minutos, hasta que suelte la grasa y esté dorada y crujiente. Sácala con una espumadera, dejando la grasa en la sartén, y resérvala para servir por encima.",
     "En la grasa, fríe el ajo laminado 1–2 minutos, hasta que esté dorado claro, y sácalo: es el ajo tostado del final. Añade el ajo machacado y la cebolla y sofríe 2 minutos.",
     "Añade las judías y saltea 2 minutos. Vierte el vinagre y no remuevas durante 2 minutos: en Filipinas se dice que así se va el sabor crudo del vinagre y queda redondo.",
@@ -797,11 +797,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y cuécelo con 180 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
     "Pincha las berenjenas un par de veces y ásalas directamente sobre la llama del fuego de gas, girándolas con pinzas, 12–15 minutos, hasta que la piel esté negra y cuarteada y se hundan al apretar. Sin gas, ásalas bajo el grill del horno a 250 °C 25 minutos, girándolas a media cocción.",
-    "Mételas en un bol tapado 5 minutos: el vapor despega la piel. Pélalas con los dedos mojados, sin ponerlas bajo el grifo (se iría el sabor ahumado), y ábrelas a lo largo en tiras dejando el pedúnculo.",
+    "Mételas en un bol tapado 5 minutos: el vapor despega la piel. Mientras, pica los cacahuetes y el cilantro. Pélalas con los dedos mojados, sin ponerlas bajo el grifo (se iría el sabor ahumado), y ábrelas a lo largo en tiras dejando el pedúnculo.",
     "Haz el nước chấm: mezcla 2 cucharadas de salsa de pescado, el azúcar, el zumo de la lima y 3 cucharadas de agua tibia hasta disolver; añade 1 diente de ajo y el chile picados muy finos.",
     "Corta la cebolleta en aros finos, ponla en un cuenco resistente con una pizca de sal y calienta el aceite hasta que riele. Viértelo encima: chisporroteará y la cebolleta se volverá verde brillante. Es el mỡ hành.",
     "En una sartén caliente, saltea el cerdo con los otros 2 dientes de ajo picados y la media cucharada de salsa de pescado restante 3–4 minutos, deshaciéndolo en granitos, hasta que esté dorado y suelto.",
-    "Coloca la berenjena en los platos, reparte el cerdo, el aceite de cebolleta, los cacahuetes picados y el cilantro, y riega con el nước chấm. Sirve con el arroz."
+    "Coloca la berenjena en los platos, reparte el cerdo, el aceite de cebolleta, los cacahuetes y el cilantro, y riega con el nước chấm. Sirve con el arroz."
   ],
   nutricion: { kcal: 605, prot: 17, hc: 75, grasa: 26 },
   etiquetas: ["tradicional", "sin gluten", "picante", "verano"],
@@ -842,7 +842,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua, tapado: 12 minutos a fuego mínimo y 5 de reposo.",
-    "Corta las mazorquitas por la mitad al bies, el bambú en láminas, el calabacín en medias lunas gruesas, las setas en tiras con la mano y el tofu en dados de 2 cm. Rompe las hojas de lima con los dedos, quitándoles el nervio central.",
+    "Mientras se cuece el arroz, corta las mazorquitas por la mitad al bies, el bambú en láminas, el calabacín en medias lunas gruesas, las setas en tiras con la mano y el tofu en dados de 2 cm. Rompe las hojas de lima con los dedos, quitándoles el nervio central.",
     "Calienta el aceite en la cazuela a fuego medio y fríe la pasta de curry 2 minutos, removiendo sin parar, hasta que huela intensamente y el aceite se tiña de rojo. Sin coco que la proteja, se quema enseguida: si se pega, añade una cucharada de caldo.",
     "Vierte el caldo, añade el jengibre y las hojas de lima y lleva a hervor. Echa las mazorquitas y el bambú y cuece 3 minutos.",
     "Añade el calabacín y las setas y cuece 3 minutos más, hasta que el calabacín esté tierno pero entero. Incorpora el tofu y calienta 2 minutos.",

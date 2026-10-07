@@ -43,7 +43,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla en un plato llano el pimentón, el ajo en polvo, la cebolla en polvo, el tomillo, la cayena, 1 cucharadita de sal y media de pimienta negra. Es la mezcla para ennegrecer (blackening).",
-    "Pica en dados pequeños la cebolla, el pimiento verde y el apio (la santísima trinidad cajún) y el ajo muy fino. En la sartén, funde 15 g de mantequilla a fuego medio y sofríe la trinidad 5 minutos, hasta que la cebolla esté transparente.",
+    "Pica en dados pequeños la cebolla, el pimiento verde y el apio (la santísima trinidad cajún), el ajo muy fino y la cebolleta. En la sartén, funde 15 g de mantequilla a fuego medio y sofríe la trinidad 5 minutos, hasta que la cebolla esté transparente.",
     "Añade el maíz y el ajo y saltea 5 minutos a fuego medio-alto, hasta que algunos granos se tuesten y se peguen un poco al fondo: ese tostado es el sabor del maque choux. Vierte la nata, raspa el fondo y cuece 2 minutos, hasta que espese y envuelva el maíz. Salpimienta, añade la cebolleta picada y pásalo a una fuente tapada.",
     "Limpia la sartén con papel y ponla a fuego fuerte 4-5 minutos, hasta que esté muy caliente: unas gotas de agua deben evaporarse al instante. Abre la ventana y enciende la campana, porque va a humear.",
     "Mientras, funde el resto de la mantequilla. Seca la corvina con papel, píntala por ambos lados con la mantequilla y rebózala en la mezcla de especias, apretando para que quede una capa uniforme.",
@@ -90,7 +90,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua con sal en una cazuela. Pela las patatas, córtalas en rodajas de 1 cm y cuécelas 6 minutos, hasta que la punta de un cuchillo entre con algo de resistencia. Escúrrelas y deja que se sequen en el colador: secas se doran mejor.",
-    "Mientras se cuecen, corta el bacon en tiras y la cebolla en medias lunas. En un plato llano mezcla la polenta, la harina, el pimentón, el ajo en polvo, sal y pimienta. Bate el huevo en otro plato.",
+    "Mientras se cuecen, corta el bacon en tiras y la cebolla en medias lunas. En un plato llano mezcla la polenta, la harina, el pimentón, el ajo en polvo, sal y pimienta. Bate el huevo en otro plato y pica el eneldo.",
     "En una sartén grande, dora el bacon a fuego medio 3-4 minutos, hasta que suelte su grasa y esté crujiente. Sácalo y deja la grasa en la sartén.",
     "Añade 1 cucharada de aceite, sube a fuego medio-alto y pon las patatas en una sola capa. Déjalas 5 minutos sin moverlas, hasta que estén doradas por debajo; dales la vuelta, añade la cebolla y sigue 5 minutos más, removiendo de vez en cuando, hasta que la cebolla esté blanda y con los bordes tostados. Devuelve el bacon, sala y pásalo todo a una fuente tapada.",
     "Seca los filetes de trucha con papel, pásalos por el huevo y después por la mezcla de polenta, apretando para que queden bien cubiertos.",
@@ -137,9 +137,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon agua con sal a hervir en una cazuela. Cuando hierva, cuece los huevos 10 minutos, sácalos con una espumadera a un bol con agua fría y pélalos cuando estén fríos.",
-    "En la misma agua, cuece los espárragos sin la parte dura del tallo 2-3 minutos, hasta que estén tiernos pero de un verde brillante, y pásalos a un bol con agua y hielo. Después echa los langostinos y cuécelos 1-2 minutos, justo hasta que se pongan rosados y se curven en forma de C; escúrrelos y enfríalos igual.",
-    "Prepara la salsa Louie en un bol: mezcla la mayonesa, el kétchup, el rábano picante, la salsa worcestershire, el zumo de medio limón y la cebolleta picada muy fina. Salpimienta. Debe quedar rosada, cremosa y con un punto picante; si está muy espesa, aligérala con una cucharada de agua fría.",
+    "Pon agua con sal a hervir en una cazuela. Cuando hierva, cuece los huevos 10 minutos. Mientras, prepara la salsa Louie en un bol: mezcla la mayonesa, el kétchup, el rábano picante, la salsa worcestershire, el zumo de medio limón y la cebolleta picada muy fina. Salpimienta. Debe quedar rosada, cremosa y con un punto picante; si está muy espesa, aligérala con una cucharada de agua fría.",
+    "Saca los huevos con una espumadera a un bol con agua fría y pélalos cuando estén fríos. En la misma agua, cuece los espárragos sin la parte dura del tallo 2-3 minutos, hasta que estén tiernos pero de un verde brillante, y pásalos a un bol con agua y hielo. Después echa los langostinos y cuécelos 1-2 minutos, justo hasta que se pongan rosados y se curven en forma de C; escúrrelos y enfríalos igual.",
     "Corta la lechuga iceberg en tiras finas y repártela en dos platos hondos como base.",
     "Encima, coloca por grupos los tomates en gajos, los espárragos, el aguacate en láminas rociado con el zumo del resto del limón, los huevos en cuartos y las aceitunas. Corona el centro con los langostinos.",
     "Sirve la salsa por encima justo antes de comer, o aparte para que cada uno se sirva la que quiera."
@@ -235,13 +234,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C con calor arriba y abajo y pon a hervir agua con sal en una cazuela grande.",
+    "Precalienta el horno a 200 °C con calor arriba y abajo y pon a hervir agua con sal en una cazuela grande. Mientras, pica la cebolla y el ajo y lamina los champiñones.",
     "Corta el pavo en dados de 2 cm, salpimiéntalo y dóralo en una sartén amplia con 10 g de mantequilla a fuego medio-alto 4 minutos, hasta que tenga color por fuera; terminará de hacerse en el horno. Sácalo a un plato.",
-    "En la misma sartén, funde el resto de la mantequilla a fuego medio y sofríe la cebolla picada 4 minutos. Añade los champiñones laminados y el ajo picado y cocina 6 minutos, hasta que suelten su agua y empiecen a dorarse.",
+    "En la misma sartén, funde el resto de la mantequilla a fuego medio y sofríe la cebolla 4 minutos. Añade los champiñones y el ajo y cocina 6 minutos, hasta que suelten su agua y empiecen a dorarse.",
     "Espolvorea la harina y remueve 1 minuto para que pierda el sabor a crudo. Vierte el jerez y déjalo hervir 1-2 minutos, hasta que reduzca a la mitad y deje de oler a alcohol; añade poco a poco el caldo y la leche sin dejar de remover y cuece 4-5 minutos a fuego suave, hasta que la salsa cubra el dorso de la cuchara. Sazona con la nuez moscada, sal y pimienta.",
     "Mientras, cuece los linguine 2 minutos menos de lo que indique el paquete, porque se terminan en el horno. Echa los guisantes al agua en el último minuto y escúrrelo todo.",
     "Mezcla en la sartén la pasta, los guisantes, el pavo con su jugo y la mitad del parmesano. Pásalo a una fuente de horno mediana: debe quedar jugoso, con salsa visible entre la pasta.",
-    "Cubre con el panko mezclado con el resto del parmesano y hornea 12-15 minutos, hasta que burbujee por los bordes y la superficie esté dorada. Deja reposar 5 minutos y sirve con perejil picado."
+    "Cubre con el panko mezclado con el resto del parmesano y hornea 12-15 minutos, hasta que burbujee por los bordes y la superficie esté dorada; mientras, pica el perejil. Deja reposar 5 minutos y sirve con el perejil por encima."
   ],
   nutricion: { kcal: 760, prot: 56, hc: 82, grasa: 22 },
   etiquetas: ["tradicional", "al horno", "batch cooking", "alta en proteína", "para niños", "otoño", "poco especiada"],
@@ -280,12 +279,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon las alubias en remojo con abundante agua fría. Si el codillo es salado, desálalo en otro recipiente, cambiando el agua un par de veces.",
-    "Escurre las alubias. En la olla exprés destapada, calienta el aceite a fuego medio y sofríe 100 g de cebolla picada 4 minutos, hasta que esté transparente. Añade el ajo laminado y el pimentón ahumado y remueve 20 segundos, sin que se queme.",
+    "Escurre las alubias, pica 100 g de cebolla y lamina el ajo. En la olla exprés destapada, calienta el aceite a fuego medio y sofríe la cebolla picada 4 minutos, hasta que esté transparente. Añade el ajo y el pimentón ahumado y remueve 20 segundos, sin que se queme.",
     "Añade las alubias, el codillo, el laurel, pimienta y el litro de agua fría. No sales todavía: el codillo aporta sal. Comprueba que el líquido no pasa de la mitad de la olla, porque las legumbres hacen espuma.",
-    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja el fuego al mínimo que la mantenga arriba y cuenta 30 minutos (25 si usas lacón o hueso de jamón). Apaga y deja que despresurice sola, sin tocar la válvula, unos 15 minutos: así las alubias no se rompen y no sale espuma por la válvula.",
+    "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja el fuego al mínimo que la mantenga arriba y cuenta 30 minutos (25 si usas lacón o hueso de jamón). Apaga y deja que despresurice sola, sin tocar la válvula, unos 15 minutos: así las alubias no se rompen y no sale espuma por la válvula. Mientras, pica muy fina la cebolla restante.",
     "Abre la olla. Si las alubias o la carne no están muy tiernas, ciérrala y dale 5 minutos más. Saca el codillo, desmenuza la carne descartando la piel, la grasa y el hueso, y devuélvela a la olla.",
     "Aplasta un cucharón de alubias contra la pared de la olla y remueve: el caldo se volverá cremoso. Prueba y ajusta de sal; si lo quieres más espeso, cuece destapado 5 minutos a fuego medio.",
-    "Pica muy fina la cebolla restante. Sirve las alubias en cuencos hondos con su caldo, la cebolla cruda por encima, unas gotas de salsa picante y el pan de maíz al lado para mojar."
+    "Sirve las alubias en cuencos hondos con su caldo, la cebolla cruda por encima, unas gotas de salsa picante y el pan de maíz al lado para mojar."
   ],
   nutricion: { kcal: 700, prot: 38, hc: 80, grasa: 25 },
   etiquetas: ["tradicional", "de cuchara", "económica", "batch cooking", "invierno", "sin verduras"],
@@ -329,9 +328,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca las chuletas con papel, salpimiéntalas y espolvoréalas con el pimentón y el ajo en polvo. Pásalas por la harina y sacude bien el exceso.",
+    "Corta la cebolla en juliana y pica el ajo. Seca las chuletas con papel, salpimiéntalas y espolvoréalas con el pimentón y el ajo en polvo. Pásalas por la harina y sacude bien el exceso.",
     "En la olla exprés destapada, calienta 1 cucharada de aceite a fuego medio-alto y dora las chuletas 3 minutos por cada lado, hasta que tengan una costra dorada. Sácalas a un plato.",
-    "Baja a fuego medio, añade el resto del aceite y la cebolla en juliana con una pizca de sal. Cocina 6-8 minutos, raspando el fondo, hasta que esté blanda y empiece a tomar color. Añade el ajo picado y el tomillo y remueve 30 segundos.",
+    "Baja a fuego medio, añade el resto del aceite y la cebolla con una pizca de sal. Cocina 6-8 minutos, raspando el fondo, hasta que esté blanda y empiece a tomar color. Añade el ajo y el tomillo y remueve 30 segundos.",
     "Vierte el caldo y la salsa worcestershire y raspa el fondo con una cuchara de madera hasta que no quede nada pegado: si queda, puede quemarse mientras sube la presión. Coloca las chuletas sobre la cebolla con el jugo que hayan soltado.",
     "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula, baja el fuego al mínimo y cuenta 10 minutos. Apaga, deja que despresurice sola 10 minutos y después abre la válvula con cuidado para liberar el vapor que quede.",
     "Mientras, cuece las patatas peladas y troceadas en una cazuela con agua con sal 18 minutos, hasta que se deshagan al pincharlas. Echa las judías verdes troceadas a la misma agua 6 minutos antes del final y sácalas con una espumadera. Escurre las patatas y aplástalas con la mantequilla y la leche templada; sala.",

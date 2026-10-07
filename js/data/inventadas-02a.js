@@ -77,8 +77,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca bien las sardinas con papel de cocina y sálalas por fuera y por dentro. Déjalas 10 minutos a temperatura ambiente mientras preparas el resto.",
     "Corta los tomates en gajos y la cebolla morada en plumas finas. Alíñalos con 2 cucharadas de aceite, el zumo de media limón, el orégano, sal y pimienta. Reserva.",
-    "Tuesta el pan en la plancha caliente 1 minuto por lado y frótalo con el diente de ajo cortado. Rocíalo con un hilo de aceite.",
-    "Pon la plancha a fuego fuerte hasta que humee ligeramente. Pinta las sardinas con aceite y colócalas sin moverlas 3 minutos.",
+    "Pon la plancha a fuego fuerte. Tuesta el pan en la plancha caliente 1 minuto por lado y frótalo con el diente de ajo cortado. Rocíalo con un hilo de aceite.",
+    "Cuando la plancha humee ligeramente, pinta las sardinas con aceite y colócalas sin moverlas 3 minutos.",
     "Dales la vuelta con cuidado (con una espátula ancha) y cocina 2 minutos más: la piel debe quedar tostada y la carne opaca junto a la espina.",
     "Sirve las sardinas con la ensalada al lado, el pan al ajo, perejil picado y gajos de la limón restante."
   ],
@@ -118,7 +118,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir dos dedos de agua en una cazuela ancha con una vaporera o un plato sobre un aro de papel de aluminio.",
-    "Corta la mitad del jengibre en bastones finísimos y el resto en láminas. Corta la parte blanca de la cebolleta en tiras finas y pica la verde.",
+    "Corta la mitad del jengibre en bastones finísimos y el resto en láminas. Corta la parte blanca de la cebolleta en tiras finas y pica la verde. Lamina el ajo.",
     "Sala ligeramente la merluza, colócala en un plato hondo que quepa en la vaporera, cubre con las láminas de jengibre y cuece al vapor tapado 7-8 minutos, hasta que la carne se separe en lascas.",
     "Añade el pak choi cortado por la mitad a la vaporera los últimos 3 minutos para que quede tierno pero crujiente.",
     "Mezcla la soja con el aceite de sésamo, el azúcar y 2 cucharadas del agua de la cocción.",
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela los langostinos y guarda cabezas y cáscaras. En una cazuela con 1 cucharada de aceite, sofríelas a fuego fuerte 3 minutos aplastándolas con la cuchara. Añade la espina de rape, el laurel, los tallos del hinojo y 800 ml de agua. Hierve suave 25 minutos, cuela y reserva el fumet.",
-    "Mientras, pica la cebolla, el bulbo de hinojo y 2 dientes de ajo. En la cazuela limpia con 2 cucharadas de aceite, póchalos a fuego medio-bajo 15 minutos, hasta que estén muy blandos y dulces.",
+    "Mientras, pica la cebolla, el bulbo de hinojo y 2 dientes de ajo y pela las patatas. En otra cazuela con 2 cucharadas de aceite, póchalos a fuego medio-bajo 15 minutos, hasta que estén muy blandos y dulces.",
     "Añade el pimentón, remueve 20 segundos y añade el tomate rallado. Cocina 8-10 minutos hasta que el sofrito se oscurezca y se separe el aceite.",
     "Vierte el vino, deja evaporar 2 minutos y añade las patatas cascadas en trozos de bocado (rómpelas con el cuchillo, sin cortar del todo, para que suelten almidón) y el azafrán tostado entre los dedos.",
     "Cubre con el fumet caliente, salpimienta y cuece a fuego medio-bajo 20-25 minutos, hasta que las patatas estén tiernas y el caldo haya espesado.",
@@ -524,9 +524,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca las gambas, sálalas y mézclalas con media cucharadita de cúrcuma y el zumo de media lima. Reserva 10 minutos.",
-    "Calienta el aceite en una sartén honda a fuego medio y añade las semillas de mostaza. Cuando empiecen a saltar (30 segundos), añade la cebolla picada y sofríela 8 minutos hasta que esté dorada.",
-    "Añade el ajo y el jengibre rallados y el chile en rodajas; sofríe 1 minuto. Incorpora el resto de la cúrcuma, el cilantro molido y el tomate picado, y cocina 6-8 minutos hasta que el tomate se deshaga y el aceite se separe.",
+    "Seca las gambas, sálalas y mézclalas con media cucharadita de cúrcuma y el zumo de media lima. Reserva 10 minutos; mientras, pica la cebolla y los tomates, ralla el ajo y el jengibre y corta el chile en rodajas.",
+    "Calienta el aceite en una sartén honda a fuego medio y añade las semillas de mostaza. Cuando empiecen a saltar (30 segundos), añade la cebolla y sofríela 8 minutos hasta que esté dorada.",
+    "Añade el ajo, el jengibre y el chile; sofríe 1 minuto. Incorpora el resto de la cúrcuma, el cilantro molido y el tomate picado, y cocina 6-8 minutos hasta que el tomate se deshaga y el aceite se separe.",
     "Vierte la leche de coco, sala y cuece 5 minutos a fuego medio-bajo para que la salsa espese ligeramente.",
     "Añade las espinacas por puñados y deja que se fundan en la salsa, 2 minutos.",
     "Incorpora las gambas y cuécelas 3 minutos justos, hasta que se pongan rosadas y curvadas. Apaga, añade el garam masala y el resto del zumo de lima.",
@@ -663,11 +663,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Asa los pimientos y la cebolla enteros con un hilo de aceite 35-40 minutos, dándoles la vuelta a la mitad, hasta que la piel esté arrugada y con partes negras. Tápalos con un paño 10 minutos, pélalos y córtalos en tiras.",
-    "Aliña los pimientos y la cebolla con 2 cucharadas de aceite, el vinagre, un ajo laminado muy fino, sal y pimienta. Deja que cojan sabor mientras sigues.",
-    "Pon las anillas de calamar en la leche con una pizca de sal 15 minutos: quedarán más tiernas.",
-    "Para el alioli, bate con la batidora el huevo, medio diente de ajo, una pizca de sal y unas gotas de limón; añade 80 ml de aceite sin mover el brazo hasta que emulsione y luego sube despacio.",
-    "Mezcla las dos harinas con sal. Escurre bien el calamar, pásalo por la harina, sacude el exceso y fríe en el aceite a 180 °C en 3 tandas, 2 minutos por tanda, hasta que estén dorados. No llenes la sartén o bajará la temperatura.",
+    "Precalienta el horno a 220 °C. Asa los pimientos y la cebolla enteros con un hilo de aceite 35-40 minutos, dándoles la vuelta a la mitad, hasta que la piel esté arrugada y con partes negras.",
+    "Mientras se asan, prepara el alioli: bate con la batidora el huevo, medio diente de ajo, una pizca de sal y unas gotas de limón; añade 80 ml de aceite sin mover el brazo hasta que emulsione y luego sube despacio.",
+    "Cuando falten unos 15 minutos para sacar los pimientos, pon las anillas de calamar en la leche con una pizca de sal: quedarán más tiernas.",
+    "Saca los pimientos y la cebolla, tápalos con un paño 10 minutos, pélalos y córtalos en tiras. Alíñalos con 2 cucharadas de aceite, el vinagre, un ajo laminado muy fino, sal y pimienta. Deja que cojan sabor mientras sigues.",
+    "Calienta el aceite de freír en una sartén honda a 180 °C. Mezcla las dos harinas con sal. Escurre bien el calamar, pásalo por la harina, sacude el exceso y fríelo en 3 tandas, 2 minutos por tanda, hasta que estén dorados. No llenes la sartén o bajará la temperatura.",
     "Escurre sobre papel y sala al momento. Tuesta el pan.",
     "Sirve los calamares con la ensalada de pimientos, el alioli, el pan y perejil picado con gajos de limón."
   ],
@@ -842,7 +842,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las patatas con piel en una cazuela con agua fría y sal y cuécelas 15 minutos desde que hiervan, hasta que estén tiernas.",
+    "Pon las patatas con piel en una cazuela con agua fría y sal y cuécelas 15 minutos desde que hiervan, hasta que estén tiernas. Pon también a hervir agua en un cazo para los huevos.",
     "A los 8 minutos añade a la misma cazuela las judías verdes despuntadas y cortadas en dos: deben quedar verdes y al dente en 6-7 minutos.",
     "En otro cazo con agua hirviendo, cuece los huevos exactamente 6 minutos y pásalos a agua con hielo. Pélalos con cuidado: la yema estará cremosa.",
     "Prepara la vinagreta mezclando la mostaza, el vinagre, el zumo de limón, sal y pimienta; añade el aceite batiendo y luego la cebolla morada picada muy fina y las alcaparras. Puedes usar también 1 cucharada del aceite de la lata.",
@@ -887,7 +887,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir una cazuela grande con agua, la cebolla partida por la mitad y el laurel. Sujeta el pulpo por la cabeza y 'asústalo': sumérgelo y sácalo 3 veces para que las patas se ricen.",
+    "La víspera, pasa el pulpo del congelador a la nevera para que se descongele (24 h). Pon a hervir una cazuela grande con agua, la cebolla partida por la mitad y el laurel. Sujeta el pulpo por la cabeza y 'asústalo': sumérgelo y sácalo 3 veces para que las patas se ricen.",
     "Cuece el pulpo a fuego medio, con el agua apenas borboteando, 45-55 minutos. Estará listo cuando un palillo entre en la parte gruesa de la pata sin resistencia. Déjalo reposar en el agua 15 minutos y sácalo.",
     "Mientras, asa el pimiento rojo entero en la plancha o directamente al fuego hasta que la piel esté negra. Tápalo 10 minutos, pélalo y quítale las semillas.",
     "Para el mojo, tritura el pimiento asado con 2 dientes de ajo, el comino, los dos pimentones, el vinagre, 3 cucharadas de aceite y sal, hasta obtener una salsa espesa pero con textura.",
@@ -1019,7 +1019,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos regulares y cuécelas al vapor 18-20 minutos hasta que estén tiernas. Mézclalas en caliente con 10 g de mantequilla, sal y la mitad del perejil picado.",
-    "Cuece las judías verdes en agua hirviendo con sal 5 minutos, escúrrelas y saltéalas 2 minutos con 1 cucharada de aceite y el ajo laminado.",
+    "Mientras se hacen las patatas, cuece las judías verdes en agua hirviendo con sal 5 minutos, escúrrelas y saltéalas 2 minutos con 1 cucharada de aceite y el ajo laminado.",
     "Seca bien la merluza, salpimienta y pásala por harina sacudiendo el exceso.",
     "Calienta 1 cucharada de aceite y 10 g de mantequilla en una sartén a fuego medio-alto. Dora la merluza 3 minutos por el lado de la piel y 2 por el otro, hasta que esté dorada y la carne se abra en lascas. Reserva en los platos.",
     "Limpia la sartén con papel, añade los 30 g de mantequilla restantes y déjala a fuego medio hasta que espume, huela a avellana y tenga color dorado oscuro (2 minutos). Fuera del fuego, añade el zumo del limón, las alcaparras y el resto del perejil.",
@@ -1063,7 +1063,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Abre los cuerpos de calamar, haz cortes cruzados superficiales en rombo por la cara interior (sin atravesar) y córtalos en rectángulos de 4 cm. Sécalos muy bien.",
+    "Pon a hervir agua con sal para el brócoli. Abre los cuerpos de calamar, haz cortes cruzados superficiales en rombo por la cara interior (sin atravesar) y córtalos en rectángulos de 4 cm. Sécalos muy bien.",
     "Mezcla en un vaso la salsa de ostras, la soja, el vinagre, la maicena, el aceite de sésamo y 3 cucharadas de agua.",
     "Separa el brócoli en ramilletes pequeños y escáldalo 2 minutos en agua hirviendo; escúrrelo. Corta el pimiento en tiras, la cebolleta en trozos de 3 cm y lamina el jengibre y el ajo.",
     "Calienta el wok a fuego máximo hasta que humee. Añade 1 cucharada de aceite y saltea el calamar en dos tandas 1 minuto cada una, justo hasta que se rice y se vuelva opaco. Retira.",

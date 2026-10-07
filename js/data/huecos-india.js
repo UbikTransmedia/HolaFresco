@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Mientras, remoja las semillas de mostaza en 3 cucharadas de agua tibia durante 10 minutos. Tritúralas con su agua en el vaso de la batidora o en un molinillo, junto con el chile (sin semillas si lo quieres suave), la cúrcuma y una pizca de sal, hasta tener una pasta amarilla y algo granulosa: es el shorshe. Tritura a golpes cortos, porque si la mostaza se calienta, amarga.",
     "Seca bien los lomos de salmón y sálalos ligeramente. Mezcla la mitad del shorshe con el yogur, unta con ello el salmón por todas las caras y déjalo 10 minutos en una bandeja forrada con papel de horno.",
     "Hornea el salmón 10-12 minutos, hasta que las láminas se separen al presionar con un tenedor pero el centro siga ligeramente rosado.",
-    "Corta la cebolla morada en pluma muy fina y déjala 5 minutos en el zumo de media lima con una pizca de sal: perderá el picor y se volverá rosa. Corta el pepino en medias lunas.",
+    "Mientras se hornea, corta la cebolla morada en pluma muy fina y déjala 5 minutos en el zumo de media lima con una pizca de sal: perderá el picor y se volverá rosa. Corta el pepino en medias lunas.",
     "Bate el resto del shorshe con el zumo de la otra media lima, el aceite y sal hasta que el aliño emulsione y quede cremoso.",
     "Aplasta un poco las patatas templadas con el dorso de un tenedor y mézclalas con las judías y la mitad del aliño: la patata caliente lo absorbe mucho mejor que fría.",
     "Monta los platos con las espinacas de base, la patata con judías, el pepino y la cebolla encurtida. Coloca encima el salmón en lascas grandes, riega con el resto del aliño y termina con hojas de cilantro."
@@ -94,7 +94,7 @@ window.RECETAS_SEED.push({
     "En esa grasa fríe la canela, los clavos, los cardamomos (ábrelos antes con la punta de un cuchillo) y el laurel durante 1 minuto, hasta que huelan. Añade la cebolla y sofríela 8-10 minutos, hasta que esté dorada por los bordes: de ella depende el color del arroz.",
     "Añade el ajo y el jengibre, 1 minuto; la cúrcuma, 20 segundos, y el tomate, 4 minutos más, hasta que se deshaga. Devuelve el chorizo, riega con el vinagre y deja que se evapore 1 minuto.",
     "Incorpora el arroz escurrido y los guisantes y remueve con cuidado 1-2 minutos para que el grano se impregne de grasa sin romperse. Vierte el agua hirviendo, prueba de sal (el chorizo ya sala) y lleva a ebullición.",
-    "Tapa, baja el fuego al mínimo y cuece 12 minutos sin destapar. Apaga y deja reposar, tapado, 10 minutos más.",
+    "Tapa, baja el fuego al mínimo y cuece 12 minutos sin destapar. Apaga y deja reposar, tapado, 10 minutos más. Mientras, pica el cilantro.",
     "Esponja el arroz con un tenedor levantándolo desde los bordes, retira la canela y el laurel y sirve con el cilantro picado por encima."
   ],
   nutricion: { kcal: 625, prot: 23, hc: 72, grasa: 26 },
@@ -137,7 +137,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para la pasta. Corta el paneer en dados de 1,5 cm, pica la cebolla, corta el pimiento en dados y ralla el ajo y el jengibre.",
+    "Pon a hervir abundante agua con sal para la pasta. Corta el paneer en dados de 1,5 cm, pica la cebolla y el cilantro, corta el pimiento en dados y ralla el ajo y el jengibre.",
     "En una sartén amplia con media cucharada de aceite a fuego medio-alto, dora el paneer 4-5 minutos, girándolo, hasta que tenga varias caras doradas. Resérvalo en un plato.",
     "En la misma sartén con el resto del aceite, tuesta el comino en grano 30 segundos, hasta que chisporrotee y huela a tostado. Añade la cebolla y el pimiento y sofríelos 6 minutos, hasta que la cebolla esté transparente; luego el ajo y el jengibre, 1 minuto más.",
     "Echa el penne en el agua hirviendo y cuécelo 1 minuto menos de lo que indique el paquete. Antes de escurrirlo, guarda un vaso del agua de cocción.",
@@ -191,7 +191,7 @@ window.RECETAS_SEED.push({
     "Derrite la mitad de la mantequilla en una cazuela a fuego medio y fríe la pimienta, la canela, los cardamomos, los clavos y el laurel durante 1 minuto, hasta que huelan. Añade la cebolla, el ajo y el jengibre y rehógalos 3 minutos sin que lleguen a dorarse.",
     "Incorpora los contramuslos y márcalos 4-5 minutos, dándoles la vuelta, hasta que pierdan el color rosado por fuera; vigila que el fondo no se tueste, porque el caldo debe quedar claro.",
     "Vierte el agua, lleva a ebullición, retira la espuma y cuece tapado a fuego suave 15 minutos.",
-    "Añade la patata y la zanahoria y cuece 10 minutos; luego las judías verdes, 8 minutos más, hasta que la patata se deje atravesar y las judías sigan verdes.",
+    "Añade la patata y la zanahoria y cuece 10 minutos; luego las judías verdes, 8 minutos más, hasta que la patata se deje atravesar y las judías sigan verdes. Mientras, tuesta el pan.",
     "Disuelve la harina en la leche fría sin dejar grumos y viértela en la cazuela removiendo. Cuece a fuego suave 3-4 minutos, hasta que el caldo tome un poco de cuerpo y quede sedoso, pero fluido. Prueba y ajusta de sal.",
     "Apaga, añade el resto de la mantequilla y deja que se funda por encima. Sirve en platos hondos, repartiendo el pollo y las verduras, con mucho caldo y el pan tostado para mojar."
   ],
@@ -281,9 +281,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz en varias aguas y cuécelo como la pasta, en abundante agua hirviendo con sal, 10-11 minutos, hasta que el grano esté tierno pero entero. Escúrrelo y extiéndelo en un plato para que se temple.",
-    "Desgrana la granada. Reserva 3 cucharadas de granos para decorar y aprieta el resto contra un colador con el dorso de una cuchara para sacar el zumo (unos 80 ml).",
-    "Tuesta el comino en una sartén seca 30 segundos, hasta que huela, y machácalo. En un bol bate la leche de coco con el agua fría, la pasta de tamarindo, el zumo de granada, el ajo rallado, medio chile picado muy fino, el comino, el azúcar, sal y los tallos de cilantro picados. Debe quedar rosado pálido, ácido y suave. Guárdalo en la nevera al menos 10 minutos.",
+    "Lava el arroz en varias aguas y cuécelo como la pasta, en abundante agua hirviendo con sal, 10-11 minutos, hasta que el grano esté tierno pero entero. Mientras, desgrana la granada: reserva 3 cucharadas de granos para decorar y aprieta el resto contra un colador con el dorso de una cuchara para sacar el zumo (unos 80 ml).",
+    "Escurre el arroz y extiéndelo en un plato para que se temple. Tuesta el comino en una sartén seca 30 segundos, hasta que huela, y machácalo. En un bol bate la leche de coco con el agua fría, la pasta de tamarindo, el zumo de granada, el ajo rallado, medio chile picado muy fino, el comino, el azúcar, sal y los tallos de cilantro picados. Debe quedar rosado pálido, ácido y suave. Guárdalo en la nevera al menos 10 minutos.",
     "Corta el pepino en dados pequeños. Seca bien los langostinos con papel de cocina y mézclalos con la cúrcuma, el pimentón, sal y 1 cucharadita de aceite.",
     "Calienta la sartén a fuego fuerte con el resto del aceite y marca los langostinos 1-1,5 minutos por cada lado, hasta que se curven en forma de C y tengan los bordes tostados. Si llegan a cerrarse en O, están pasados.",
     "Prueba la sopa fría y ajusta de sal o de tamarindo; cuélala si la quieres más fina. En platos hondos, pon un montón de arroz en el centro, el pepino alrededor, vierte la sopa y coloca encima los langostinos, los granos de granada, las hojas de cilantro y el resto del chile en rodajas si te gusta picante."

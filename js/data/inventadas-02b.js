@@ -294,7 +294,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las almejas en agua fría con sal (35 g por litro) 15 minutos para que suelten la arena. Escúrrelas y descarta las que estén rotas o abiertas.",
-    "Pica el ajo, el jengibre, la parte blanca de la cebolleta y el chile (sin semillas si lo quieres suave).",
+    "Mientras sueltan la arena, pica el ajo, el jengibre, la parte blanca de la cebolleta y el chile (sin semillas si lo quieres suave) y tuesta el pan.",
     "Calienta el aceite en una cazuela amplia a fuego medio y sofríe el picado 1 minuto, sin que llegue a dorarse.",
     "Añade la leche de coco y la salsa de pescado y lleva a ebullición.",
     "Echa las almejas, tapa y cocina a fuego fuerte 3-4 minutos, moviendo la cazuela, hasta que se abran todas. Descarta las que sigan cerradas.",
@@ -385,9 +385,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos. Cuece también el huevo 10 minutos en otro cazo.",
-    "Mientras, calienta 250 ml de leche con el laurel y escalfa en ella la merluza 5 minutos a fuego suave. Saca el pescado y reserva la leche colada.",
-    "En la cazuela, funde 15 g de mantequilla y rehoga el puerro picado 5 minutos. Añade la harina, tuéstala 1 minuto y vierte poco a poco la leche de escalfar, removiendo hasta tener una bechamel ligera. Añade la mostaza, el eneldo picado, sal y pimienta.",
-    "Precalienta el horno a 200 °C. Desmenuza la merluza en lascas grandes, trocea el salmón ahumado y el huevo, y repártelos con los guisantes en una fuente pequeña. Cubre con la bechamel.",
+    "Precalienta el horno a 200 °C. Mientras, calienta 250 ml de leche con el laurel y escalfa en ella la merluza 5 minutos a fuego suave; entretanto, pica el puerro. Saca el pescado y reserva la leche colada.",
+    "En la cazuela, funde 15 g de mantequilla y rehoga el puerro 5 minutos. Añade la harina, tuéstala 1 minuto y vierte poco a poco la leche de escalfar, removiendo hasta tener una bechamel ligera. Añade la mostaza, el eneldo picado, sal y pimienta.",
+    "Desmenuza la merluza en lascas grandes, trocea el salmón ahumado y el huevo, y repártelos con los guisantes en una fuente pequeña. Cubre con la bechamel.",
     "Escurre las patatas y cháfalas con el resto de la mantequilla y de la leche caliente. Ajusta de sal.",
     "Extiende el puré sobre el relleno, marca surcos con un tenedor y espolvorea el queso rallado.",
     "Hornea 25 minutos, hasta que el relleno burbujee por los bordes y la superficie esté dorada. Deja reposar 5 minutos antes de servir."
@@ -474,12 +474,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava bien las espinas y cabezas quitando restos de sangre y agallas. Ponlas en la cazuela con el agua fría, el laurel, la parte verde del puerro y un trozo de cebolla. Lleva a ebullición, espuma y cuece 25 minutos a fuego suave. Cuela el fumet.",
-    "En la cazuela limpia, sofríe con el aceite el resto de la cebolla, el puerro blanco y el hinojo picados durante 10 minutos, hasta que estén blandos.",
+    "Lava bien las espinas y cabezas quitando restos de sangre y agallas. Ponlas en la cazuela con el agua fría, el laurel, la parte verde del puerro y un trozo de cebolla. Lleva a ebullición, espuma y cuece 25 minutos a fuego suave; mientras, pica el resto de la cebolla, el blanco del puerro y el hinojo. Cuela el fumet.",
+    "En la cazuela limpia, sofríe con el aceite la cebolla, el puerro y el hinojo picados durante 10 minutos, hasta que estén blandos.",
     "Añade 2 ajos laminados, los tomates troceados, el pimentón y la piel de naranja; rehoga 5 minutos. Vierte el vino y deja evaporar 2 minutos.",
-    "Agrega 1 litro de fumet y cuece 20 minutos. Retira la piel de naranja, tritura bien y cuela por un colador fino apretando con una cuchara.",
+    "Agrega 1 litro de fumet y cuece 20 minutos; mientras, precalienta el horno a 200 °C. Retira la piel de naranja, tritura bien y cuela por un colador fino apretando con una cuchara.",
     "Prepara la rouille: mezcla la mayonesa con el ajo restante rallado, una pizca de pimentón y una cucharada de la sopa caliente.",
-    "Corta el pan en rebanadas finas y tuéstalo en el horno a 200 °C 6-8 minutos hasta que esté crujiente.",
+    "Corta el pan en rebanadas finas y tuéstalo en el horno 6-8 minutos hasta que esté crujiente.",
     "Vuelve a calentar la sopa, ajusta de sal y añade la merluza en dados y las gambas. Cuece solo 3 minutos, hasta que el pescado esté opaco.",
     "Sirve la sopa con los picatostes untados de rouille flotando por encima."
   ],
@@ -737,10 +737,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Abre los langostinos en mariposa con un corte longitudinal sin llegar a separarlos y retira el intestino. Colócalos extendidos en una fuente y sálalos ligeramente.",
+    "Precalienta el horno a 200 °C. Abre los langostinos en mariposa con un corte longitudinal sin llegar a separarlos y retira el intestino. Colócalos extendidos en una fuente y sálalos ligeramente.",
     "Tritura el zumo de las limas con el chile, el cilantro, un trozo de pepino de 5 cm y una pizca de sal hasta tener un líquido verde intenso.",
     "Vierte la mezcla sobre los langostinos y déjalos marinar en la nevera 10-15 minutos, hasta que cambien de color y se vuelvan opacos.",
-    "Mientras, pinta las tortillas con el aceite y hornéalas a 200 °C 6-8 minutos, hasta que queden crujientes como tostadas.",
+    "Mientras, pinta las tortillas con el aceite y hornéalas 6-8 minutos, hasta que queden crujientes como tostadas.",
     "Corta el resto del pepino en medias lunas finas, la cebolla morada en juliana y el aguacate en láminas.",
     "Añade el pepino y la cebolla a los langostinos, coloca el aguacate encima y sirve muy frío con las tostadas al lado."
   ],
@@ -917,8 +917,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas enteras con piel en agua con sal 15 minutos. Añade las judías verdes los últimos 4 minutos y escurre todo.",
-    "Precalienta el horno a 220 °C. Coloca las patatas en una bandeja con papel y aplástalas con la base de un vaso hasta que se abran. Riégalas con 2 cucharadas de aceite, sal y pimienta.",
+    "Precalienta el horno a 220 °C. Cuece las patatas enteras con piel en agua con sal 15 minutos. Añade las judías verdes los últimos 4 minutos y escurre todo.",
+    "Coloca las patatas en una bandeja con papel y aplástalas con la base de un vaso hasta que se abran. Riégalas con 2 cucharadas de aceite, sal y pimienta.",
     "Hornéalas 15 minutos, hasta que los bordes empiecen a dorarse.",
     "Mientras, pica muy finos el perejil, la menta, las alcaparras, las anchoas y el ajo, y mézclalos con la mostaza, el zumo de medio limón y el resto del aceite.",
     "Salpimienta el salmón y colócalo en la bandeja junto a las patatas y las judías. Hornea 10-12 minutos más, hasta que el salmón esté rosado en el centro.",
@@ -1008,7 +1008,7 @@ window.RECETAS_SEED.push({
     "Añade el ajo picado, el comino, el pimentón y la cayena y remueve 30 segundos sin que se quemen.",
     "Incorpora el tomate triturado y los garbanzos escurridos y cuece 8 minutos, hasta que la salsa espese. Ajusta de sal.",
     "Añade el atún escurrido en trozos grandes, removiendo con cuidado para que no se deshaga del todo.",
-    "Haz tres huecos en la salsa con una cuchara y casca un huevo en cada uno. Tapa y cocina a fuego suave 5-6 minutos, hasta que la clara esté cuajada y la yema siga líquida.",
+    "Haz tres huecos en la salsa con una cuchara y casca un huevo en cada uno. Tapa y cocina a fuego suave 5-6 minutos, hasta que la clara esté cuajada y la yema siga líquida. Mientras, tuesta el pan.",
     "Espolvorea cilantro picado y sirve en la misma sartén con el pan tostado para mojar."
   ],
   nutricion: { kcal: 560, prot: 38, hc: 48, grasa: 24 },

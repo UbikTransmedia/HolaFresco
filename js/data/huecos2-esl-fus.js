@@ -38,10 +38,10 @@ window.RECETAS_SEED.push({
     "Limpia los rebozuelos con un pincel o un papel húmedo, sin lavarlos bajo el grifo: absorben agua y luego cuecen en vez de dorarse. Parte por la mitad los más grandes. Pica la cebolla fina y el cebollino.",
     "Funde la mitad de la mantequilla en una sartén a fuego medio y pocha la cebolla 5 minutos, hasta que esté transparente y blanda, sin que llegue a dorarse.",
     "Sube el fuego a fuerte y añade los rebozuelos. Primero soltarán su agua; sigue salteando 5-6 minutos hasta que se evapore del todo, las setas chisporroteen y se doren por los bordes. Sálalas ahora, no antes.",
-    "Casca los huevos en un bol y bátelos apenas con un tenedor, lo justo para romper las yemas: en la jajecznica se ven vetas de clara y de yema. Salpimienta.",
+    "Casca los huevos en un bol y bátelos apenas con un tenedor, lo justo para romper las yemas: en la jajecznica se ven vetas de clara y de yema. Salpimienta. Tuesta ya el pan de centeno para tenerlo listo.",
     "Baja el fuego al mínimo, añade el resto de la mantequilla y vierte los huevos sobre las setas. Espera 20 segundos y, con una espátula, arrastra el huevo cuajado desde el borde hacia el centro formando grumos grandes. Repite durante 2-3 minutos.",
     "Retira la sartén del fuego cuando el revuelto aún brille húmedo: el calor residual lo termina en el plato y así queda jugoso.",
-    "Mientras, tuesta el pan de centeno. Sirve el revuelto con mucho cebollino, el pan y los pepinillos cortados a lo largo."
+    "Sirve el revuelto con mucho cebollino, el pan y los pepinillos cortados a lo largo."
   ],
   nutricion: { kcal: 430, prot: 22, hc: 36, grasa: 21 },
   etiquetas: ["tradicional", "rápida", "una sola sartén", "verano", "otoño", "poco especiada"],
@@ -251,9 +251,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lleva el caldo a ebullición, viértelo sobre la soja y déjala hidratar 10 minutos. Escúrrela en un colador y apriétala con las manos con fuerza: cuanto más seca, mejor se dora y mejor se sostienen las chuletas. Guarda 4 cucharadas del caldo escurrido.",
     "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos.",
-    "Pica la cebolla muy fina y póchala en 1 cucharada de aceite a fuego medio 6-7 minutos, hasta que esté dorada; añade el ajo picado y la soja y saltea 4 minutos más, hasta que la soja huela a tostado. Este dorado previo es lo que le da sabor «a carne».",
+    "Lleva el caldo a ebullición, viértelo sobre la soja y déjala hidratar 10 minutos; mientras, pica la cebolla muy fina. Escurre la soja en un colador y apriétala con las manos con fuerza: cuanto más seca, mejor se dora y mejor se sostienen las chuletas. Guarda 4 cucharadas del caldo escurrido.",
+    "Pocha la cebolla en 1 cucharada de aceite a fuego medio 6-7 minutos, hasta que esté dorada; añade el ajo picado y la soja y saltea 4 minutos más, hasta que la soja huela a tostado. Este dorado previo es lo que le da sabor «a carne».",
     "Remoja el pan en el caldo reservado y desmenúzalo. En un bol, mezcla la soja templada con el pan, el huevo, la mejorana, sal y pimienta y amasa 1 minuto con la mano hasta que la masa se compacte.",
     "Forma 6 chuletas ovaladas de 1,5 cm de grosor y rebózalas en pan rallado, presionando con la palma para que se adhiera bien.",
     "Calienta 2 cucharadas de aceite en una sartén antiadherente amplia a fuego medio y dora las kotlety 4 minutos por cada lado, sin moverlas, hasta que tengan una costra dorada y crujiente: no necesitan nadar en aceite, basta con que el fondo esté cubierto. Escúrrelas sobre papel.",
@@ -753,8 +753,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Quita las hojas exteriores duras de la coliflor y recorta el tronco para que se asiente plana. Cuécela entera en agua hirviendo con sal 6-7 minutos y escúrrela boca abajo 5 minutos para que se seque. Esta precocción hace que el corazón quede tierno cuando el exterior ya está tostado.",
-    "Precalienta el horno a 220 °C. Mezcla 120 g de yogur con 2 ajos y el jengibre rallados, el garam masala, los dos pimentones, el comino, la cúrcuma, el zumo de medio limón, 2 cucharaditas de aceite y sal: debe quedar una pasta espesa.",
+    "Pon a hervir una olla grande de agua con sal y precalienta el horno a 220 °C. Mientras, quita las hojas exteriores duras de la coliflor y recorta el tronco para que se asiente plana. Cuécela entera en el agua hirviendo con sal 6-7 minutos y escúrrela boca abajo 5 minutos para que se seque. Esta precocción hace que el corazón quede tierno cuando el exterior ya está tostado.",
+    "Mientras se escurre, mezcla 120 g de yogur con 2 ajos y el jengibre rallados, el garam masala, los dos pimentones, el comino, la cúrcuma, el zumo de medio limón, 2 cucharaditas de aceite y sal: debe quedar una pasta espesa.",
     "Unta la coliflor con el adobo usando las manos, metiéndolo bien entre los ramilletes. Colócala en el centro de una bandeja.",
     "Escurre y seca los garbanzos, mézclalos con 1 cucharadita de aceite, sal y una pizca de comino y repártelos alrededor de la coliflor.",
     "Hornea 35-40 minutos, moviendo los garbanzos a mitad, hasta que la coliflor tenga zonas tostadas casi negras y un cuchillo entre en el centro sin resistencia, y los garbanzos crujan.",
@@ -845,7 +845,7 @@ window.RECETAS_SEED.push({
     "Corta las raíces de los puerros y la parte verde oscura y dura. Ábrelos un poco por el extremo verde y lávalos bajo el grifo para quitar la tierra. Cuécelos enteros 5 minutos en agua con sal: así el centro quedará tierno cuando el exterior se tueste.",
     "Sécalos, úntalos con 2 cucharaditas de aceite y ásalos en la bandeja junto a las verduras 20-25 minutos, girándolos a mitad, hasta que la capa exterior esté muy tostada, casi negra, y el interior ceda al apretar.",
     "Mientras, extiende las almendras y el pan en trozos en una esquina de la bandeja y tuéstalos en el horno 6-8 minutos, hasta que estén dorados y huelan a tostado: así no absorben aceite.",
-    "Pela los tomates, el pimiento (sin semillas) y los ajos asados y tritúralos con las almendras, el pan, el gochujang, el vinagre, el resto del aceite de oliva, el aceite de sésamo y sal. Deja algo de grano: un romesco no es un puré liso.",
+    "Pon a hervir un cazo de agua para los huevos. Pela los tomates, el pimiento (sin semillas) y los ajos asados y tritúralos con las almendras, el pan, el gochujang, el vinagre, el resto del aceite de oliva, el aceite de sésamo y sal. Deja algo de grano: un romesco no es un puré liso.",
     "Cuece los huevos en agua hirviendo 6 minutos y medio, pásalos a agua con hielo 2 minutos y pélalos con cuidado: la clara cuajada y la yema líquida.",
     "Quita a los puerros la primera capa si está muy quemada, como se hace con los calçots, y sírvelos sobre una cama de romesco con el huevo abierto encima y el sésamo."
   ],
@@ -936,7 +936,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 180 ml de agua: fuego fuerte hasta que hierva, tapa, fuego mínimo 12 minutos y 10 de reposo sin destapar.",
     "Corta el tofu en dados de 2 cm. Llévalo a un cazo con agua con sal a hervor suave 2 minutos y escúrrelo con una espumadera: se sazona, se reafirma por fuera y no se romperá en el wok.",
-    "Tuesta la pimienta de Sichuan en una sartén seca 1-2 minutos, hasta que huela, y muélela en el mortero.",
+    "Tuesta la pimienta de Sichuan en una sartén seca 1-2 minutos, hasta que huela, y muélela en el mortero. Pica el ajo, el jengibre y la parte blanca de la cebolleta, y corta el verde en aros.",
     "Pon el wok a fuego medio con la sobrasada desmenuzada, sin aceite, 1-2 minutos: se funde y suelta una grasa roja. No la dejes tostar, que el pimentón amarga. Añade la pasta de judía picante y remueve 1 minuto, hasta que el aceite se tiña de rojo intenso; luego el ajo, el jengibre y la parte blanca de la cebolleta picados, 30 segundos.",
     "Vierte el caldo y la soja y lleva a ebullición. Incorpora el tofu y cuece 4-5 minutos a fuego suave, moviendo el wok en vaivén en lugar de remover con cuchara, para que los dados absorban la salsa sin romperse.",
     "Disuelve la maicena en 2 cucharadas de agua y añádela en tres veces, sacudiendo el wok, hasta que la salsa brille y envuelva el tofu.",
@@ -983,7 +983,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el tempeh en bastones de 1 × 1 × 5 cm y cuécelos al vapor 8 minutos: se abre el poro, pierde el amargor y absorberá el adobo como una esponja.",
     "Mezcla el vinagre, el ajo machacado, el comino, el orégano, el pimentón, sal y 4 cucharadas de agua. Sumerge el tempeh aún caliente y déjalo al menos 30 minutos (mejor 2 horas en la nevera), dándole la vuelta un par de veces.",
-    "Cuece el arroz lavado con 150 ml de agua: fuego fuerte hasta que hierva, tapa, fuego mínimo 12 minutos y 10 de reposo.",
+    "Mientras se marina, cuece el arroz lavado con 150 ml de agua: fuego fuerte hasta que hierva, tapa, fuego mínimo 12 minutos y 10 de reposo.",
     "Para el sambal matah, corta las chalotas en aros finísimos, pica muy fina la parte tierna y blanca de la hierba limón y el chile y mézclalos con sal y el zumo de media lima. Calienta 1,5 cucharadas del aceite hasta que casi humee y viértelo encima: chisporrotea, ablanda la chalota y suelta los aromas, como se hace en Bali.",
     "Escurre el tempeh, pásalo por la harina de garbanzo y sacude el exceso.",
     "Calienta el resto del aceite en una sartén pequeña (1 cm de altura) a 175 °C: un bastón debe burbujear con fuerza al entrar. Fríe en dos tandas 3-4 minutos, girándolos a mitad, hasta que estén dorados y crujientes, y escúrrelos sobre papel. Con la harina de garbanzo y el aceite bien caliente absorben muy poca grasa.",

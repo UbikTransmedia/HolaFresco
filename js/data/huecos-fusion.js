@@ -46,8 +46,8 @@ window.RECETAS_SEED.push({
     "En la olla exprés destapada, a fuego medio, calienta 1 cucharada de aceite y dora el chorizo 2 minutos, hasta que suelte su grasa roja. Sácalo con una espumadera: si se queda durante todo el sofrito, se quema.",
     "En esa misma grasa sofríe la cebolla, la zanahoria, el ajo y el jengibre 6–7 minutos, hasta que la cebolla esté transparente y empiece a dorarse. Aparta la olla del fuego, añade la cúrcuma y el pimentón, remueve 10 segundos (el pimentón amarga si se quema) y agrega el tomate. Cocina 3 minutos a fuego medio.",
     "Incorpora las lentejas, el chorizo, el laurel, los 650 ml de agua y sal. Cierra la olla, pon el fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 9 minutos.",
-    "Apaga el fuego y deja que la presión baje sola, unos 10 minutos: así las lentejas terminan de hacerse sin reventar. Abre, retira el laurel y comprueba el punto: deben estar tiernas y el caldo algo espeso. Si queda muy líquido, cuécelo destapado 3–4 minutos. Rectifica de sal.",
-    "Prepara la tadka justo antes de servir: en una sartén pequeña calienta la otra cucharada de aceite a fuego medio-alto y echa las semillas de mostaza. Cuando empiecen a saltar (unos 30 segundos), añade el comino, el ajo restante laminado y la guindilla troceada, y fríe 30–40 segundos más, hasta que el ajo esté dorado claro.",
+    "Apaga el fuego y deja que la presión baje sola, unos 10 minutos: así las lentejas terminan de hacerse sin reventar. Mientras, lamina el ajo restante, trocea la guindilla y pica el cilantro. Abre, retira el laurel y comprueba el punto: deben estar tiernas y el caldo algo espeso. Si queda muy líquido, cuécelo destapado 3–4 minutos. Rectifica de sal.",
+    "Prepara la tadka justo antes de servir: en una sartén pequeña calienta la otra cucharada de aceite a fuego medio-alto y echa las semillas de mostaza. Cuando empiecen a saltar (unos 30 segundos), añade el comino, el ajo y la guindilla, y fríe 30–40 segundos más, hasta que el ajo esté dorado claro.",
     "Sirve las lentejas, vierte encima la tadka aún chisporroteando y termina con una cucharada de yogur frío y cilantro picado: el yogur suaviza el picante y aporta el punto ácido."
   ],
   nutricion: { kcal: 630, prot: 31, hc: 58, grasa: 29 },
@@ -92,11 +92,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien la carne con papel de cocina, salpimiéntala con poca sal (el miso ya sala) y espolvoréala con la harina, sacudiendo el exceso. Pela las chalotas: deja 4 enteras y pica la otra. Pela las zanahorias y córtalas en trozos de 3 cm, y pela las patatas.",
+    "Seca bien la carne con papel de cocina, salpimiéntala con poca sal (el miso ya sala) y espolvoréala con la harina, sacudiendo el exceso. Pela las chalotas: deja 4 enteras y pica la otra. Lamina el ajo. Pela las zanahorias y córtalas en trozos de 3 cm, y pela las patatas.",
     "En la olla exprés destapada, calienta el aceite a fuego fuerte y dora la carne en dos tandas, 3–4 minutos por tanda, sin moverla hasta que forme costra marrón. Si la amontonas, suelta agua y se cuece en vez de dorarse. Reserva.",
     "Baja a fuego medio y dora las chalotas enteras 3–4 minutos, girándolas, hasta que tengan manchas doradas; sácalas y resérvalas aparte (entrarán al final para que no se deshagan). En la misma grasa sofríe la chalota picada y el ajo laminado 2 minutos, añade el tomate concentrado y el miso y remueve 1 minuto, hasta que oscurezcan un poco.",
     "Vierte el vino y raspa el fondo con una cuchara de madera para despegar todo lo tostado: ahí está el sabor. Deja hervir 3 minutos para que se evapore el alcohol y añade el agua, el tomillo, el laurel y la carne con su jugo.",
-    "Cierra la olla y pon el fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 35 minutos. Apaga y deja que despresurice sola, unos 10–12 minutos.",
+    "Cierra la olla y pon el fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 35 minutos. Apaga y deja que despresurice sola, unos 10–12 minutos. Mientras, pica el cebollino.",
     "Abre, añade las chalotas enteras reservadas, la zanahoria y las patatas chascadas en trozos (rompe el último corte con el cuchillo para que suelten almidón y espesen la salsa). Cierra de nuevo y cuenta 5 minutos desde que suba la válvula; esta vez despresuriza rápido, abriendo la válvula con cuidado y apartando la cara del vapor.",
     "Mientras, lamina las shiitake y saltéalas en una sartén a fuego fuerte con la mantequilla 4–5 minutos, hasta que estén doradas por los bordes. Sálalas al final.",
     "Prueba la salsa: debe estar brillante y cubrir la cuchara. Si queda líquida, cuécela destapada 5 minutos. Retira el laurel y las ramas de tomillo, ajusta de pimienta y sirve con las shiitake por encima y el cebollino picado."
@@ -144,7 +144,7 @@ window.RECETAS_SEED.push({
     "En la olla exprés destapada, a fuego medio-alto, calienta el aceite y marca los langostinos 1 minuto por lado, solo para dorarlos. Sácalos: se terminarán al final y quedarán jugosos, porque 6 minutos a presión los dejarían como goma.",
     "En la misma olla sofríe el blanco de la cebolleta, el ajo y el jengibre 2–3 minutos. Añade la pasta de curry y fríela 1 minuto removiendo, hasta que huela intensamente: freírla despierta sus aromas.",
     "Incorpora el arroz y remueve 1 minuto para que se impregne. Añade la leche de coco, el caldo caliente, la salsa de pescado y las judías verdes. Remueve una vez raspando bien el fondo: en la olla exprés, lo que queda pegado se quema.",
-    "Cierra la olla y pon el fuego fuerte. Cuando suba la válvula, baja el fuego y cuenta 6 minutos. Retira la olla del fuego y despresuriza rápido: abre la válvula con cuidado, apartando la cara del chorro de vapor, o pon la olla bajo el grifo de agua fría si tu modelo lo permite.",
+    "Cierra la olla y pon el fuego fuerte. Cuando suba la válvula, baja el fuego y cuenta 6 minutos; mientras, pica el cilantro y la albahaca. Retira la olla del fuego y despresuriza rápido: abre la válvula con cuidado, apartando la cara del chorro de vapor, o pon la olla bajo el grifo de agua fría si tu modelo lo permite.",
     "Abre, añade los langostinos y el zumo de media lima y remueve con energía 1 minuto a fuego suave: el arroz soltará almidón y quedará cremoso. Si lo ves seco, añade un chorrito de agua caliente. Tapa sin cerrar y deja reposar 2 minutos para que los langostinos terminen de hacerse.",
     "Sirve enseguida con la parte verde de la cebolleta, el cilantro y la albahaca picados y el resto de la lima en gajos."
   ],
@@ -195,7 +195,7 @@ window.RECETAS_SEED.push({
     "Cierra la olla y pon el fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 25 minutos. Apaga y deja que la presión baje sola 10 minutos; si aún queda, libera el resto abriendo la válvula con cuidado. Mientras baja la presión, precalienta el horno a 220 °C con el grill.",
     "Saca las costillas a una bandeja con papel de horno. Retira con una cuchara la grasa de la superficie del jugo, añade el resto de la salsa y redúcelo con la olla destapada a fuego fuerte 8–10 minutos, removiendo al final, hasta que quede un glaseado espeso que cubra la cuchara.",
     "Pinta las costillas con el glaseado y hornéalas 8–10 minutos a media altura, pintándolas otra vez a mitad, hasta que estén lacadas y con los bordes caramelizados. Vigílalas: la miel se quema rápido.",
-    "Mientras, prepara la ensalada: corta la lombarda en tiras muy finas, ralla la zanahoria y corta la cebolla morada en pluma. Alíñalas en un bol con el zumo de la lima, el zumo de la media naranja restante, un chorro de aceite y sal, y amasa 1 minuto con las manos para que la col se ablande.",
+    "Mientras, prepara la ensalada: corta la lombarda en tiras muy finas, ralla la zanahoria y corta la cebolla morada en pluma. Alíñalas en un bol con el zumo de la lima, el zumo de la media naranja restante, un chorro de aceite y sal, y amasa 1 minuto con las manos para que la col se ablande. Pica el cilantro.",
     "Sirve las costillas con el sésamo por encima y el glaseado sobrante aparte, y la ensalada con el cilantro picado."
   ],
   nutricion: { kcal: 770, prot: 48, hc: 42, grasa: 46 },
@@ -238,7 +238,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el pollo con el yogur, 1 cucharadita de garam masala, el pimentón y sal, y déjalo 10 minutos mientras picas fina la cebolla y rallas el ajo y el jengibre. El yogur ablanda la superficie de la carne y la deja más jugosa.",
+    "Mezcla el pollo con el yogur, 1 cucharadita de garam masala, el pimentón y sal, y déjalo 10 minutos mientras picas fina la cebolla (y el cilantro, si lo usas) y rallas el ajo y el jengibre. El yogur ablanda la superficie de la carne y la deja más jugosa.",
     "En la olla exprés destapada, a fuego medio-alto, derrite la mitad de la mantequilla y dora el pollo 3 minutos, sin moverlo mucho, hasta que tenga zonas doradas; no hace falta que esté hecho por dentro. Añade la cebolla y sofríe 4 minutos, hasta que esté blanda.",
     "Agrega el ajo, el jengibre, el comino y el resto del garam masala y remueve 30 segundos. Vierte el tomate y el agua, raspa bien el fondo para despegar lo tostado y sala.",
     "Añade el penne y empújalo con una cuchara para que quede cubierto de líquido, sin remover más: así la salsa de tomate no se pega al fondo. Cierra la olla.",

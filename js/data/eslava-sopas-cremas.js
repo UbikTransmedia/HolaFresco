@@ -43,11 +43,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon los contramuslos en una olla con 1,2 l de agua fría, el laurel y sal. Lleva a ebullición, retira la espuma gris que sube y cuece 30 minutos a fuego suave, con la superficie apenas temblando.",
     "Mientras, lava la cebada perlada y cuécela aparte en un cazo con agua 25 minutos; escúrrela. Cocida por separado no enturbia ni espesa el caldo.",
-    "Pica la cebolla, ralla la zanahoria con el rallador grueso, pela la patata en dados de 1,5 cm y corta los pepinillos en tiras finas.",
+    "Pica la cebolla, ralla la zanahoria con el rallador grueso, pela la patata en dados de 1,5 cm, corta los pepinillos en tiras finas y pica el eneldo.",
     "En una sartén, rehoga la cebolla y la zanahoria en el aceite de girasol 8 minutos a fuego medio, hasta que estén tiernas y algo doradas. Añade los pepinillos, el tomate concentrado y un cazo de caldo, y cuece 5 minutos más: el pepinillo se suaviza y pierde el filo crudo.",
     "Saca el pollo, deshuésalo y desmígalo. Echa al caldo la patata y cuécela 12 minutos, hasta que esté tierna.",
     "Ahora, y no antes, añade el sofrito de pepinillo, la cebada y el pollo desmigado. Vierte la salmuera poco a poco, probando: la sopa debe quedar claramente ácida pero agradable. Cuece 5 minutos más y salpimienta.",
-    "Apaga, deja reposar 10 minutos tapada y sirve con eneldo picado y una cucharada de smetana en cada plato."
+    "Apaga, deja reposar 10 minutos tapada y sirve con el eneldo y una cucharada de smetana en cada plato."
   ],
   nutricion: { kcal: 525, prot: 35, hc: 56, grasa: 18 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "económica", "alta en proteína", "poco especiada"],
@@ -87,9 +87,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua fría y pélalos.",
-    "En la cazuela, funde la mantequilla y rehoga la cebolla picada y la zanahoria rallada 8 minutos a fuego medio, hasta que la cebolla esté transparente.",
-    "Vierte el caldo, añade el laurel y la patata pelada en dados de 1,5 cm y cuece 15 minutos, hasta que la patata esté tierna.",
+    "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua fría y pélalos. Mientras se cuecen, pica la cebolla, ralla la zanahoria y pela la patata y córtala en dados de 1,5 cm.",
+    "En la cazuela, funde la mantequilla y rehoga la cebolla y la zanahoria 8 minutos a fuego medio, hasta que la cebolla esté transparente.",
+    "Vierte el caldo, añade el laurel y la patata y cuece 15 minutos, hasta que la patata esté tierna.",
     "Mientras, lava la acedera, quita los tallos duros y córtala en tiras finas. Pica la cebolleta, el eneldo y el perejil.",
     "Echa la acedera y la cebolleta a la sopa y cuece solo 3 minutos: la acedera pasa enseguida del verde brillante al verde oliva y se deshace; es normal y es lo que da cuerpo y acidez a la sopa.",
     "Apaga, añade el eneldo y el perejil, prueba y salpimienta. La sopa debe saber agria y a hierba fresca.",
@@ -139,9 +139,9 @@ window.RECETAS_SEED.push({
     "Entre 4 y 5 días antes, prepara el zakwas: en un tarro de cristal mezcla la harina de centeno con 250 ml de agua hervida y templada y 1 diente de ajo machacado. Tápalo con un paño y déjalo a temperatura ambiente, removiendo una vez al día. Está listo cuando huele agrio, como a pan de masa madre, y se forma una capa de líquido turbio arriba.",
     "El día de la sopa, pon en una olla 1 l de agua con la kielbasa blanca entera, la zanahoria, el apio, media cebolla, el laurel y la pimienta de Jamaica. Cuece 20 minutos a fuego suave, sin que borbotee, o la piel de la salchicha se raja. Saca la kielbasa, reserva y cuela el caldo.",
     "Mientras, cuece los huevos 10 minutos y pélalos. Pela la patata en dados de 1,5 cm y cuécela en el caldo colado 15 minutos.",
-    "Dora la panceta en dados en una sartén sin aceite con el resto de la cebolla picada, 6 o 7 minutos, hasta que la grasa esté transparente y la cebolla dorada.",
-    "Remueve bien el zakwas, incluido el poso del fondo, y viértelo en el caldo a través de un colador para retener el ajo, removiendo. Cuece 5 minutos a fuego suave: la sopa espesa ligeramente y se vuelve opaca y blanquecina.",
-    "Añade la panceta con la cebolla, los 2 dientes de ajo restantes machacados, la mejorana frotada entre las manos, el rábano picante y la kielbasa en rodajas. Prueba: debe ser agria, ahumada y con un punto picante. Salpimienta; si te parece demasiado ácida, la nata agria la redondea.",
+    "Mientras se cuece la patata, corta la panceta en dados y pica el resto de la cebolla. Dóralas en una sartén sin aceite 6 o 7 minutos, hasta que la grasa esté transparente y la cebolla dorada.",
+    "Remueve bien el zakwas, incluido el poso del fondo, y viértelo en el caldo a través de un colador para retener el ajo, removiendo. Cuece 5 minutos a fuego suave: la sopa espesa ligeramente y se vuelve opaca y blanquecina. Mientras, machaca los 2 dientes de ajo restantes y corta la kielbasa en rodajas.",
+    "Añade la panceta con la cebolla, el ajo machacado, la mejorana frotada entre las manos, el rábano picante y la kielbasa. Prueba: debe ser agria, ahumada y con un punto picante. Salpimienta; si te parece demasiado ácida, la nata agria la redondea.",
     "Sirve con un huevo duro en mitades por plato."
   ],
   nutricion: { kcal: 700, prot: 30, hc: 48, grasa: 43 },
@@ -184,9 +184,9 @@ window.RECETAS_SEED.push({
     "Pela la patata y córtala en dados de 1 cm. Pica la cebolla. Pela los ajos: pica 2 y machaca los otros 4 en el mortero con una pizca de sal hasta hacer una pasta.",
     "Funde la mantequilla en la cazuela y rehoga la cebolla y el ajo picado 4 minutos a fuego medio-bajo, sin que se doren.",
     "Añade la patata, la alcaravea y el caldo y cuece 15 minutos, hasta que la patata se deshaga al apretarla con la cuchara. Aplasta unos cuantos dados contra la pared de la cazuela para espesar un poco la sopa.",
-    "Mientras, corta el pan de centeno en dados y dóralo en una sartén con el aceite de girasol 4 o 5 minutos, removiendo, hasta que crujan.",
+    "Mientras, corta el pan de centeno en dados y dóralo en una sartén con el aceite de girasol 4 o 5 minutos, removiendo, hasta que crujan. Pica el perejil.",
     "Fuera del fuego, añade la pasta de ajo crudo y la mejorana frotada entre las manos. Deja reposar 2 minutos: el ajo crudo da el golpe característico de la sopa sin llegar a amargar. Salpimienta.",
-    "Reparte el queso rallado en el fondo de los platos, sirve encima la sopa muy caliente para que se funda y termina con los picatostes y el perejil picado."
+    "Reparte el queso rallado en el fondo de los platos, sirve encima la sopa muy caliente para que se funda y termina con los picatostes y el perejil."
   ],
   nutricion: { kcal: 490, prot: 16, hc: 55, grasa: 23 },
   etiquetas: ["tradicional", "vegetariana", "de cuchara", "invierno", "económica", "sin verduras", "poco especiada"],
@@ -228,9 +228,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los boletus en remojo en 300 ml del agua templada 20 minutos. Escúrrelos reservando el agua, que debes colar por un papel de cocina porque suele tener arenilla, y pícalos.",
-    "Escurre un poco el chucrut y pícalo grueso; si es muy ácido, lávalo una vez con agua fría. Ponlo en la olla con el resto del agua, el agua colada de las setas, las setas, las ciruelas pasas, el laurel y la alcaravea. Cuece tapado 30 minutos a fuego suave.",
-    "Añade la patata pelada en dados y la kielbasa en rodajas gruesas y cuece 15 minutos más.",
-    "Prepara la zápražka: en una sartén, rehoga la cebolla picada en el aceite 6 minutos, hasta que esté dorada. Añade la harina y tuéstala 2 minutos sin dejar de remover, hasta que huela a galleta. Aparta del fuego, añade el pimentón (se quema enseguida) y diluye con un cazo de caldo de la olla, sin grumos.",
+    "Escurre un poco el chucrut y pícalo grueso; si es muy ácido, lávalo una vez con agua fría. Ponlo en la olla con el resto del agua, el agua colada de las setas, las setas, las ciruelas pasas, el laurel y la alcaravea. Cuece tapado 30 minutos a fuego suave; mientras, pela la patata y córtala en dados, corta la kielbasa en rodajas gruesas y pica la cebolla.",
+    "Añade la patata y la kielbasa y cuece 15 minutos más.",
+    "Mientras, prepara la zápražka: en una sartén, rehoga la cebolla en el aceite 6 minutos, hasta que esté dorada. Añade la harina y tuéstala 2 minutos sin dejar de remover, hasta que huela a galleta. Aparta del fuego, añade el pimentón (se quema enseguida) y diluye con un cazo de caldo de la olla, sin grumos.",
     "Vierte la zápražka en la olla y cuece 5 minutos: el caldo espesa ligeramente y se vuelve rojizo y brillante.",
     "Prueba: debe ser agria, ahumada y con un fondo dulce. Salpimienta y sirve con una cucharada de nata agria en cada plato."
   ],
@@ -268,13 +268,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pan en dados y tuéstalo en una sartén sin grasa 4 minutos, removiendo, hasta que esté dorado y crujiente. Reserva.",
+    "Corta el pan en dados y tuéstalo en una sartén sin grasa 4 minutos, removiendo, hasta que esté dorado y crujiente. Reserva. Pica el ajo y el perejil.",
     "En la cazuela, funde la mantequilla a fuego medio, añade la harina y remueve sin parar 5 o 6 minutos, hasta que tome color avellana y huela a pan tostado. Ese tostado (prežganje, «quemado») es todo el sabor de la sopa; no lo dejes pasar a marrón oscuro o amargará.",
-    "Añade la alcaravea y el ajo picado y remueve 30 segundos.",
+    "Añade la alcaravea y el ajo y remueve 30 segundos.",
     "Aparta la cazuela del fuego y vierte el caldo frío o templado poco a poco, batiendo con unas varillas para que no queden grumos.",
     "Vuelve al fuego, lleva a ebullición y cuece 10 minutos a fuego suave, removiendo de vez en cuando, hasta que espese como una crema ligera. Salpimienta.",
     "Bate los huevos y viértelos en hilo sobre la sopa hirviendo mientras remueves despacio con un tenedor: cuajan al momento en hebras finas. Apaga.",
-    "Sirve con los picatostes y el perejil picado."
+    "Sirve con los picatostes y el perejil."
   ],
   nutricion: { kcal: 350, prot: 12, hc: 33, grasa: 19 },
   etiquetas: ["tradicional", "rápida", "vegetariana", "económica", "invierno", "ligera", "sin verduras", "poco especiada"],
@@ -317,11 +317,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las cabezas y espinas bajo el grifo y retira cualquier resto de agallas y sangre, que amargan. Ponlas en la olla con el agua fría, media cebolla, la zanahoria, el apio, el laurel, unos granos de pimienta y sal.",
-    "Lleva a ebullición, retira la espuma y cuece 25 minutos a fuego muy suave, sin que borbotee: un caldo de pescado hervido con fuerza se enturbia. Cuélalo por un colador fino; deben quedarte alrededor de 1 l.",
-    "En la olla limpia, rehoga el resto de la cebolla picada y el ajo laminado con 1 cda de aceite 5 minutos. Añade el tomate rallado y el vino blanco y deja evaporar 2 minutos.",
+    "Lleva a ebullición, retira la espuma y cuece 25 minutos a fuego muy suave, sin que borbotee: un caldo de pescado hervido con fuerza se enturbia. Cuélalo por un colador fino; deben quedarte alrededor de 1 l. Mientras cuece, pica el resto de la cebolla, lamina el ajo, ralla el tomate y pica el perejil.",
+    "En la olla limpia, rehoga la cebolla y el ajo con 1 cda de aceite 5 minutos. Añade el tomate y el vino blanco y deja evaporar 2 minutos.",
     "Vierte el caldo colado, lleva a ebullición, añade el arroz y cuece 12 minutos.",
     "Salpimienta los trozos de rape, añádelos y cuece 4 o 5 minutos a fuego suave, hasta que estén opacos y firmes.",
-    "Fuera del fuego, añade el resto del aceite crudo, el zumo de medio limón y el perejil picado. No remuevas con cuchara: mueve la olla en círculos para mezclar sin romper el pescado.",
+    "Fuera del fuego, añade el resto del aceite crudo, el zumo de medio limón y el perejil. No remuevas con cuchara: mueve la olla en círculos para mezclar sin romper el pescado.",
     "Sirve enseguida con rodajas del otro medio limón."
   ],
   nutricion: { kcal: 468, prot: 29, hc: 31, grasa: 25 },
@@ -363,12 +363,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la pechuga entera en la olla con el caldo frío, lleva a ebullición suave y cuece 15 minutos. Sácala, desmígala con dos tenedores y pasa el caldo a un recipiente.",
-    "Pela y corta en dados pequeños la cebolla, la zanahoria, la chirivía y el apio; corta las judías verdes en trozos de 1 cm.",
+    "Pon la pechuga entera en la olla con el caldo frío, lleva a ebullición suave y cuece 15 minutos; mientras, pela y corta en dados pequeños la cebolla, la zanahoria, la chirivía y el apio, y corta las judías verdes en trozos de 1 cm. Saca la pechuga, desmígala con dos tenedores y pasa el caldo a un recipiente.",
     "En la misma olla, funde la mantequilla y rehoga la cebolla 4 minutos. Añade la harina y remueve 1 minuto, sin que tome color.",
-    "Vierte el caldo poco a poco sin dejar de remover, añade el resto de las verduras y cuece 15 minutos, hasta que estén tiernas. Devuelve el pollo desmigado.",
+    "Vierte el caldo poco a poco sin dejar de remover, añade el resto de las verduras y cuece 15 minutos, hasta que estén tiernas; mientras, pica el perejil. Devuelve el pollo desmigado.",
     "En un bol, bate la yema con la nata agria y el zumo del medio limón. Añade un cazo de caldo caliente batiendo para templar la mezcla y viértela en la olla fuera del fuego, removiendo.",
-    "Calienta 2 minutos a fuego muy suave, sin que llegue a hervir, o la yema se cortará en grumos: la sopa queda sedosa y de color amarillo pálido. Salpimienta y termina con perejil picado."
+    "Calienta 2 minutos a fuego muy suave, sin que llegue a hervir, o la yema se cortará en grumos: la sopa queda sedosa y de color amarillo pálido. Salpimienta y termina con el perejil."
   ],
   nutricion: { kcal: 435, prot: 38, hc: 27, grasa: 19 },
   etiquetas: ["tradicional", "de cuchara", "alta en proteína", "ligera", "invierno", "poco especiada"],
@@ -411,13 +410,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el cordero con papel de cocina, salpimiéntalo y dóralo en la olla con el aceite a fuego fuerte, 6 u 8 minutos por tandas, hasta que tenga costra.",
-    "Añade la cebolla picada y rehoga 5 minutos. Cubre con el agua caliente, añade el laurel y lleva a ebullición. Retira la espuma, tapa a medias y cuece 60 minutos a fuego suave, hasta que la carne se separe sola del hueso.",
+    "Pica la cebolla. Seca el cordero con papel de cocina, salpimiéntalo y dóralo en la olla con el aceite a fuego fuerte, 6 u 8 minutos por tandas, hasta que tenga costra.",
+    "Añade la cebolla y rehoga 5 minutos. Cubre con el agua caliente, añade el laurel y lleva a ebullición. Retira la espuma, tapa a medias y cuece 60 minutos a fuego suave, hasta que la carne se separe sola del hueso. Mientras, corta en dados pequeños la zanahoria, el apio y el pimiento, y pica el ajo y el perejil.",
     "Saca el cordero, deshuésalo y trocéalo. Retira con un cazo la grasa que flota en el caldo y reserva 1 cucharada.",
-    "Añade al caldo la zanahoria, el apio y el pimiento en dados pequeños y el arroz, y cuece 15 minutos.",
-    "Prepara la zaprška: en una sartén, calienta la cucharada de grasa reservada, añade la harina y tuéstala 2 minutos removiendo, hasta que esté dorada. Aparta del fuego, añade el pimentón y el ajo picado y diluye con un cazo de caldo, sin grumos.",
+    "Añade al caldo la zanahoria, el apio, el pimiento y el arroz, y cuece 15 minutos.",
+    "Prepara la zaprška: en una sartén, calienta la cucharada de grasa reservada, añade la harina y tuéstala 2 minutos removiendo, hasta que esté dorada. Aparta del fuego, añade el pimentón y el ajo y diluye con un cazo de caldo, sin grumos.",
     "Vierte la zaprška en la olla con la carne y cuece 5 minutos: el caldo espesa y toma un color rojizo. Añade el vinagre y salpimienta.",
-    "Sirve con perejil picado y una cucharada de yogur en cada plato."
+    "Sirve con el perejil y una cucharada de yogur en cada plato."
   ],
   nutricion: { kcal: 500, prot: 30, hc: 32, grasa: 28 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "fin de semana", "poco especiada"],
@@ -459,12 +458,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla las dos carnes con el arroz crudo lavado, media cebolla rallada, la ajedrea, sal y pimienta. Amasa 1 minuto y forma bolitas del tamaño de una nuez (salen unas 20). Pásalas por la harina y sacude el exceso: la harina que se suelta espesa la sopa.",
-    "Lleva el caldo a ebullición con el resto de la cebolla picada y la zanahoria y el pimiento en dados pequeños; cuece 5 minutos.",
-    "Añade la patata en dados y el pimentón. Cuando vuelva a hervir, echa las albóndigas de una en una para que el caldo no deje de hervir y no se deshagan. Cuece 25 minutos a fuego suave, moviendo la olla en lugar de remover, hasta que el arroz del interior esté tierno.",
+    "Ralla media cebolla y pica la otra mitad; corta en dados pequeños la zanahoria y el pimiento, y pela la patata y córtala en dados. Mezcla las dos carnes con el arroz crudo lavado, la cebolla rallada, la ajedrea, sal y pimienta. Amasa 1 minuto y forma bolitas del tamaño de una nuez (salen unas 20). Pásalas por la harina y sacude el exceso: la harina que se suelta espesa la sopa.",
+    "Lleva el caldo a ebullición con el resto de la cebolla, la zanahoria y el pimiento; cuece 5 minutos.",
+    "Añade la patata y el pimentón. Cuando vuelva a hervir, echa las albóndigas de una en una para que el caldo no deje de hervir y no se deshagan. Cuece 25 minutos a fuego suave, moviendo la olla en lugar de remover, hasta que el arroz del interior esté tierno. Mientras, pica el perejil.",
     "Prepara la zastroika: bate el huevo con el yogur en un bol y añade 2 cazos de caldo caliente poco a poco, sin dejar de batir, para templarlo.",
     "Aparta la olla del fuego, vierte la zastroika removiendo con suavidad y deja reposar 2 minutos. No vuelvas a hervirla o el huevo se cortará.",
-    "Prueba de sal y sirve con abundante perejil picado."
+    "Prueba de sal y sirve con abundante perejil."
   ],
   nutricion: { kcal: 545, prot: 31, hc: 45, grasa: 26 },
   etiquetas: ["tradicional", "de cuchara", "para niños", "batch cooking", "invierno", "poco especiada"],
@@ -505,9 +504,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Pela la remolacha (con guantes, si no quieres teñirte las manos) y córtala en dados de 2 cm. Ponla en una bandeja con la cebolla en gajos, el aceite y sal y ásala 35 o 40 minutos, dándole la vuelta a mitad, hasta que se pinche con facilidad y los bordes estén caramelizados.",
     "Mientras, mezcla la nata agria con el rábano picante, una pizca de sal y la mitad del eneldo picado. Guárdala en la nevera.",
-    "Pela y trocea la patata y cuécela en el caldo 15 minutos.",
+    "Cuando a la remolacha le falten unos 15 minutos, pela y trocea la patata y cuécela en el caldo 15 minutos. Mientras, retira la piel y las espinas de la caballa y sepárala en lascas grandes.",
     "Añade al caldo la remolacha y la cebolla asadas, rascando los jugos pegados a la bandeja con un poco de caldo, y tritura con la batidora 2 minutos hasta que quede muy fina. Añade el vinagre de manzana, que aviva el color y equilibra el dulzor, y salpimienta. Si está muy espesa, aligérala con un poco de agua.",
-    "Retira la piel y las espinas de la caballa y sepárala en lascas grandes. Tuesta el pan de centeno.",
+    "Tuesta el pan de centeno.",
     "Sirve la crema caliente con la caballa encima, una cucharada de crema de rábano picante y el resto del eneldo, con el pan al lado."
   ],
   nutricion: { kcal: 625, prot: 23, hc: 59, grasa: 33 },
@@ -549,10 +548,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara la masa: mezcla en un bol la harina, el huevo, 60 ml de agua tibia y una pizca de sal, y amasa 5 minutos hasta que quede lisa y firme. Tápala y déjala reposar 20 minutos para que el gluten se relaje y se estire sin encoger.",
     "Mezcla el pavo picado con la cebolla rallada con su jugo, el ajo rallado, 2 cucharadas de agua fría, sal y bastante pimienta. El agua y la cebolla mantienen jugoso el relleno de una carne tan magra.",
-    "Estira la masa muy fina, de 1 o 2 mm, y corta círculos de 6 cm con un vaso. Pon media cucharadita de relleno en cada uno, dóblalos en media luna, sella bien los bordes y une las dos puntas alrededor de tu dedo para darles forma de orejita. Salen unos 30.",
-    "Calienta el caldo con el laurel y la zanahoria en rodajas finas y cuece 10 minutos.",
-    "Echa los pelmeni al caldo hirviendo, remueve una vez para que no se peguen al fondo y cuécelos 5 o 6 minutos desde que suban a la superficie.",
-    "Sirve en platos hondos con su caldo, mucho eneldo picado, una cucharada de smetana y pimienta negra recién molida."
+    "Corta la zanahoria en rodajas finas y ponla a calentar con el caldo y el laurel; cuando hierva, déjalo a fuego suave mientras formas los pelmeni. Estira la masa muy fina, de 1 o 2 mm, y corta círculos de 6 cm con un vaso. Pon media cucharadita de relleno en cada uno, dóblalos en media luna, sella bien los bordes y une las dos puntas alrededor de tu dedo para darles forma de orejita. Salen unos 30.",
+    "Echa los pelmeni al caldo hirviendo, remueve una vez para que no se peguen al fondo y cuécelos 5 o 6 minutos desde que suban a la superficie. Mientras, pica el eneldo.",
+    "Sirve en platos hondos con su caldo, mucho eneldo, una cucharada de smetana y pimienta negra recién molida."
   ],
   nutricion: { kcal: 550, prot: 34, hc: 62, grasa: 18 },
   etiquetas: ["creativa", "de cuchara", "para niños", "congelable", "invierno", "fin de semana", "poco especiada"],
@@ -592,7 +590,7 @@ window.RECETAS_SEED.push({
     "Lava y trocea los tomates, dos tercios del pepino pelado, medio pimiento y la mitad de la cebolla morada. Reserva el resto del pepino, del pimiento y de la cebolla para la guarnición.",
     "Tritura los trozos con el aceite, el vinagre, sal y el agua muy fría (o los cubitos) durante 2 minutos, hasta que quede fino. Pásalo por un colador si la quieres sedosa. Prueba y ajusta de sal y vinagre.",
     "Si los tomates no estaban fríos, mete la sopa 30 minutos en la nevera o 10 en el congelador.",
-    "Pica en dados muy pequeños el pepino, el pimiento y la cebolla reservados y mézclalos con el perejil picado.",
+    "Mientras, pica en dados muy pequeños el pepino, el pimiento y la cebolla reservados, pica el perejil y mézclalo todo.",
     "Sirve la sopa bien fría en cuencos, pon encima la picada de verduras y ralla el sirene por encima con el rallador grueso, hasta cubrir la superficie como en la ensalada šopska.",
     "Termina con un hilo de aceite y pimienta negra recién molida."
   ],
@@ -624,6 +622,7 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "coliflor", q: 600, u: "g", nota: "en ramilletes" },
     { n: "caldo de verduras", q: 600, u: "ml" },
+    { n: "agua", u: "al gusto" },
     { n: "aceite de girasol", q: 1, u: "cdta" },
     { n: "leche", q: 150, u: "ml" },
     { n: "queso ahumado", q: 70, u: "g", nota: "tipo oscypek polaco, scamorza o queso gallego ahumado" },
@@ -633,11 +632,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el trigo sarraceno en agua hirviendo con sal 8 minutos, escúrrelo muy bien y extiéndelo sobre papel de cocina para que se seque.",
-    "Mientras, funde la mantequilla en la cazuela y rehoga la cebolla y el ajo picados 5 minutos. Añade la coliflor y el caldo y cuece tapado 15 minutos, hasta que la coliflor esté muy tierna.",
-    "Mezcla el trigo sarraceno seco con el aceite y una pizca de sal y cocínalo en la airfryer a 190 °C 10 o 12 minutos, sacudiendo la cesta cada 4 minutos, hasta que esté dorado y crujiente: al agitarlo suena como grava.",
-    "Aparta la cazuela del fuego, añade la leche y dos tercios del queso ahumado rallado y tritura con la batidora hasta que la crema quede muy fina. Salpimienta y añade la nuez moscada.",
-    "Sirve la crema con el resto del queso rallado, el trigo sarraceno crujiente y el cebollino picado."
+    "Pon a hervir agua con sal y pica la cebolla y el ajo. Cuece el trigo sarraceno en el agua hirviendo 8 minutos, escúrrelo muy bien y extiéndelo sobre papel de cocina para que se seque.",
+    "Mientras, funde la mantequilla en la cazuela y rehoga la cebolla y el ajo 5 minutos. Añade la coliflor y el caldo y cuece tapado 15 minutos, hasta que la coliflor esté muy tierna.",
+    "Mientras se cuece la coliflor, ralla el queso, pica el cebollino y mezcla el trigo sarraceno seco con el aceite y una pizca de sal; cocínalo en la airfryer a 190 °C 10 o 12 minutos, sacudiendo la cesta cada 4 minutos, hasta que esté dorado y crujiente: al agitarlo suena como grava.",
+    "Aparta la cazuela del fuego, añade la leche y dos tercios del queso ahumado y tritura con la batidora hasta que la crema quede muy fina. Salpimienta y añade la nuez moscada.",
+    "Sirve la crema con el resto del queso rallado, el trigo sarraceno crujiente y el cebollino."
   ],
   nutricion: { kcal: 430, prot: 20, hc: 37, grasa: 22 },
   etiquetas: ["creativa", "vegetariana", "sin gluten", "ligera", "invierno", "poco especiada"],
@@ -677,11 +676,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela los langostinos, guarda aparte las cabezas y las cáscaras y quítales el intestino. Reserva la carne en la nevera.",
-    "Haz un caldo rápido: en la cazuela con el aceite, saltea las cabezas y cáscaras 3 minutos a fuego fuerte, aplastando las cabezas con una cuchara para que suelten su jugo, hasta que estén bien rojas. Añade el agua, el laurel y los tallos del hinojo y cuece 10 minutos. Cuela apretando bien.",
-    "En la misma cazuela, funde la mantequilla y rehoga el puerro en rodajas y el bulbo de hinojo en láminas finas 5 minutos, hasta que estén tiernos y brillantes.",
-    "Añade la patata en dados de 1 cm y el caldo colado y cuece 12 minutos, hasta que la patata esté tierna. Sala.",
+    "Haz un caldo rápido: en la cazuela con el aceite, saltea las cabezas y cáscaras 3 minutos a fuego fuerte, aplastando las cabezas con una cuchara para que suelten su jugo, hasta que estén bien rojas. Añade el agua, el laurel y los tallos del hinojo y cuece 10 minutos; mientras, corta el puerro en rodajas y el bulbo de hinojo en láminas finas, pela la patata y córtala en dados de 1 cm y pica el eneldo. Cuela apretando bien.",
+    "En la misma cazuela, funde la mantequilla y rehoga el puerro y el hinojo 5 minutos, hasta que estén tiernos y brillantes.",
+    "Añade la patata y el caldo colado y cuece 12 minutos, hasta que la patata esté tierna. Sala.",
     "Echa los langostinos y cuécelos 2 minutos, solo hasta que se curven y se vuelvan rosados.",
-    "Fuera del fuego, añade el vodka, el zumo del medio limón, el eneldo picado y las hojitas del hinojo. Pimienta negra y a la mesa enseguida."
+    "Fuera del fuego, añade el vodka, el zumo del medio limón, el eneldo y las hojitas del hinojo. Pimienta negra y a la mesa enseguida."
   ],
   nutricion: { kcal: 390, prot: 29, hc: 35, grasa: 15 },
   etiquetas: ["creativa", "ligera", "sin gluten", "alta en proteína", "para invitados", "poco especiada"],
@@ -721,12 +720,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la pechuga entera en la cazuela con el caldo, el laurel, la zanahoria en rodajas finas y la cebolla picada. Lleva a ebullición suave y cuece 12 minutos; saca la pechuga y deja que temple.",
+    "Corta la zanahoria en rodajas finas y pica la cebolla. Pon la pechuga entera en la cazuela con el caldo, el laurel, la zanahoria y la cebolla. Lleva a ebullición suave y cuece 12 minutos; saca la pechuga y deja que temple.",
     "Mientras, cuece el arroz aparte en agua con sal 15 minutos y escúrrelo. Cocido por separado no se hincha ni empapa la sopa.",
-    "Añade al caldo el tomate triturado, el tomate concentrado y la pizca de azúcar y cuece 10 minutos a fuego medio, hasta que pierda el sabor a tomate crudo.",
+    "Añade al caldo el tomate triturado, el tomate concentrado y la pizca de azúcar y cuece 10 minutos a fuego medio, hasta que pierda el sabor a tomate crudo. Mientras, pica el eneldo.",
     "Desmiga el pollo con dos tenedores y devuélvelo a la cazuela con la mantequilla. Salpimienta.",
     "En un bol, templa la smetana con un cazo de sopa caliente batiendo, y viértela en la cazuela fuera del fuego para que no se corte. La sopa queda de color rosa anaranjado.",
-    "Reparte el arroz en los platos, sirve la sopa encima y termina con eneldo picado."
+    "Reparte el arroz en los platos, sirve la sopa encima y termina con el eneldo."
   ],
   nutricion: { kcal: 450, prot: 34, hc: 45, grasa: 15 },
   etiquetas: ["creativa", "para niños", "económica", "ideal para llevar", "alta en proteína", "poco especiada"],
@@ -771,9 +770,9 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en la cazuela a fuego muy fuerte y saltea la ternera en dos tandas, 1 minuto cada una, solo hasta que se dore por fuera; sácala. Si la amontonas, se cuece en su jugo y queda dura.",
     "En la misma cazuela, funde la mantequilla y rehoga la cebolla 3 minutos; añade los champiñones y saltéalos 5 minutos más, hasta que hayan soltado el agua y estén dorados.",
     "Espolvorea la harina y el pimentón, remueve 1 minuto y vierte el caldo poco a poco, raspando el fondo. Añade la mostaza y lleva a ebullición.",
-    "Echa los tallarines partidos en trozos y cuécelos en la sopa unos 8 minutos, hasta que estén al dente.",
+    "Echa los tallarines partidos en trozos y cuécelos en la sopa unos 8 minutos, hasta que estén al dente; mientras, pica el perejil.",
     "En un bol, templa la smetana con un cazo de caldo y viértela en la cazuela fuera del fuego junto con la ternera y los pepinillos. Calienta 1 minuto sin que hierva.",
-    "Sirve con perejil picado y pimienta negra recién molida."
+    "Sirve con el perejil y pimienta negra recién molida."
   ],
   nutricion: { kcal: 600, prot: 40, hc: 45, grasa: 29 },
   etiquetas: ["creativa", "alta en proteína", "invierno", "para niños", "poco especiada"],
@@ -814,12 +813,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lamina los rábanos muy finos y ponlos en un bol con el vinagre, el azúcar, una pizca de sal y 2 cda de agua. Déjalos encurtir mientras haces la crema.",
-    "Calienta 1 cda de aceite en la cazuela a fuego medio y rehoga la cebolla picada 5 min, hasta que esté transparente. Añade el ajo laminado 1 min.",
-    "Incorpora la patata en dados pequeños y el caldo, sala ligeramente y cuece 12 min, hasta que la patata esté tierna.",
+    "Lamina los rábanos muy finos y ponlos en un bol con el vinagre, el azúcar, una pizca de sal y 2 cda de agua. Déjalos encurtir mientras haces la crema. Pica la cebolla, lamina el ajo y pela la patata y córtala en dados pequeños.",
+    "Calienta 1 cda de aceite en la cazuela a fuego medio y rehoga la cebolla 5 min, hasta que esté transparente. Añade el ajo 1 min.",
+    "Incorpora la patata y el caldo, sala ligeramente y cuece 12 min, hasta que la patata esté tierna. Mientras, corta el pan de centeno en dados y dóralo en la sartén con el resto del aceite 4 min a fuego medio; en el último minuto añade las semillas de girasol.",
     "Añade los guisantes congelados y cuece solo 4 min desde que vuelva a hervir: más tiempo y pierden el color verde y el dulzor.",
     "Fuera del fuego, agrega las espinacas y los tallos finos del eneldo y tritura con la batidora 2 min hasta que la crema quede lisa. Salpimienta.",
-    "Corta el pan de centeno en dados y dóralo en la sartén con el resto del aceite 4 min a fuego medio; en el último minuto añade las semillas de girasol.",
     "Sirve la crema con los rábanos escurridos, los picatostes, las semillas y las hojas de eneldo por encima."
   ],
   nutricion: { kcal: 460, prot: 19, hc: 63, grasa: 15 },
@@ -859,12 +857,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata y córtala en dados de 2 cm. Lava bien el puerro y córtalo en rodajas.",
-    "Funde la mantequilla en la cazuela y rehoga el puerro y el ajo picado 5 minutos, sin que se doren. Añade la patata, la alcaravea y el caldo y cuece 20 minutos, hasta que la patata se deshaga.",
+    "Pela la patata y córtala en dados de 2 cm. Lava bien el puerro y córtalo en rodajas. Pica el ajo.",
+    "Funde la mantequilla en la cazuela y rehoga el puerro y el ajo 5 minutos, sin que se doren. Añade la patata, la alcaravea y el caldo y cuece 20 minutos, hasta que la patata se deshaga.",
     "Mientras, corta la kielbasa en dados pequeños y dórala en una sartén sin aceite a fuego medio 6 u 8 minutos, hasta que esté crujiente y haya soltado su grasa. Sácala sobre papel de cocina.",
-    "En la grasa que queda en la sartén, tuesta el pan de centeno en dados 3 o 4 minutos, hasta que cruja.",
+    "En la grasa que queda en la sartén, tuesta el pan de centeno en dados 3 o 4 minutos, hasta que cruja. Pica el cebollino.",
     "Añade la leche y la mejorana a la cazuela y tritura con la batidora no más de 1 minuto: la patata batida en exceso se vuelve elástica, como un engrudo. Salpimienta.",
-    "Sirve la crema con la kielbasa, los picatostes, el cebollino picado y pimienta recién molida."
+    "Sirve la crema con la kielbasa, los picatostes, el cebollino y pimienta recién molida."
   ],
   nutricion: { kcal: 580, prot: 20, hc: 72, grasa: 23 },
   etiquetas: ["creativa", "invierno", "para niños", "económica", "ideal para llevar", "poco especiada"],
@@ -905,9 +903,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la chirivía, la zanahoria y la cebolla y córtalas en rodajas finas: cuanto más finas, antes se hacen. Ponlas en un bol apto para microondas con el agua y una pizca de sal, tápalo con un plato y cocina 12 minutos a máxima potencia (800 W), removiendo a mitad, hasta que se aplasten con un tenedor.",
     "Mientras, pon agua a hervir en un cazo, baja el fuego y echa con cuidado los huevos recién sacados de la nevera. Cuécelos 6 minutos y medio y pásalos a agua con hielo 2 minutos. Pélalos con cuidado: la clara queda cuajada y la yema líquida.",
-    "Mezcla la mantequilla blanda con la mitad del eneldo picado y una pizca de sal.",
+    "Mezcla la mantequilla blanda con la mitad del eneldo picado y una pizca de sal. Lamina muy finos los rábanos.",
     "Calienta el caldo 3 minutos en el microondas, añádelo a las verduras y tritura con la batidora 2 minutos hasta que quede muy lisa. Añade el kéfir y tritura unos segundos más; salpimienta y añade la nuez moscada. Si se ha enfriado, dale 1 minuto más de microondas, sin que llegue a hervir.",
-    "Lamina muy finos los rábanos.",
     "Sirve la crema con el huevo mollet abierto encima, una nuez de mantequilla de eneldo que se funda sobre la crema, los rábanos y el resto del eneldo."
   ],
   nutricion: { kcal: 350, prot: 12, hc: 40, grasa: 16 },

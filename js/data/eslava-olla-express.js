@@ -37,11 +37,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la ternera en dados de 3 cm y sécala con papel de cocina; seca, se dora en lugar de cocerse en su jugo.",
+    "Corta la ternera en dados de 3 cm y sécala con papel de cocina; seca, se dora en lugar de cocerse en su jugo. Corta la cebolla en media luna y la zanahoria en rodajas, lamina los champiñones y pica el ajo.",
     "Calienta 1 cda de aceite en la olla exprés destapada a fuego fuerte y dora la carne en dos tandas, 3-4 min por tanda, hasta que tenga costra. Resérvala.",
     "En la misma olla, con el resto del aceite, rehoga la cebolla en media luna y la zanahoria en rodajas 4 min a fuego medio. Añade los champiñones laminados y cocina 4 min más, hasta que suelten el agua y empiecen a dorarse. Incorpora el tomate concentrado y el ajo picado y remueve 1 min.",
-    "Vuelve a poner la carne con su jugo, el laurel, la pimienta en grano, el agua y sal. Rasca el fondo con una cuchara de madera para despegar lo tostado. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 15 min. Despresuriza rápido.",
-    "Pela la patata y córtala en trozos de 4 cm. Añádela a la olla, mezcla para que quede medio cubierta por el caldo, cierra y cuenta 6 min desde que suba la válvula. Deja bajar la presión sola, unos 8 min.",
+    "Vuelve a poner la carne con su jugo, el laurel, la pimienta en grano, el agua y sal. Rasca el fondo con una cuchara de madera para despegar lo tostado. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 15 min. Mientras, pela la patata y córtala en trozos de 4 cm. Despresuriza rápido.",
+    "Añade la patata a la olla, mezcla para que quede medio cubierta por el caldo, cierra y cuenta 6 min desde que suba la válvula. Deja bajar la presión sola, unos 8 min; mientras, pica el eneldo.",
     "Abre y comprueba: la carne debe deshacerse con el tenedor y la patata estar tierna y algo deshecha por los bordes, espesando el caldo. Si queda muy líquido, cuece 3-4 min destapado.",
     "Retira el laurel, prueba de sal y sirve con abundante eneldo picado por encima."
   ],
@@ -88,11 +88,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prueba el chucrut: si está muy ácido, enjuágalo bajo el grifo y escúrrelo apretando con las manos. Separa las costillas y sécalas.",
     "Dora las costillas en la olla exprés destapada con la mitad del aceite a fuego medio-fuerte 5 min, hasta que estén doradas. Añade el agua, el laurel, la pimienta de Jamaica y sal. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 15 min. Deja bajar la presión sola, unos 10 min.",
-    "Mientras, rehoga en la sartén con el resto del aceite la cebolla picada y la zanahoria rallada 6 min a fuego medio. Añade el tomate concentrado y el chucrut y rehoga 8 min más, hasta que el chucrut esté brillante y algo tostado.",
-    "Lava el mijo con agua muy caliente dos o tres veces, frotándolo entre los dedos: así pierde el amargor. Pela la patata y córtala en dados de 2 cm.",
+    "Mientras, pica la cebolla, ralla la zanahoria y rehógalas en la sartén con el resto del aceite 6 min a fuego medio. Añade el tomate concentrado y el chucrut y rehoga 8 min más, hasta que el chucrut esté brillante y algo tostado.",
+    "Mientras se rehoga el chucrut, lava el mijo con agua muy caliente dos o tres veces, frotándolo entre los dedos: así pierde el amargor. Pela la patata y córtala en dados de 2 cm.",
     "Abre la olla, añade la patata y el mijo, cierra y cuenta 5 min desde que suba la válvula. Despresuriza rápido.",
-    "Incorpora el chucrut rehogado y deja hervir suave 8-10 min con la olla destapada. Va al final porque su acidez endurecería la patata si se cociera con ella.",
-    "Machaca el ajo con una pizca de sal y añádelo a la sopa con la mitad del eneldo picado; cuece 1 min más. Apaga, tapa y deja reposar 10 min para que el mijo espese el caldo.",
+    "Incorpora el chucrut rehogado y deja hervir suave 8-10 min con la olla destapada. Va al final porque su acidez endurecería la patata si se cociera con ella. Mientras, machaca el ajo con una pizca de sal y pica el eneldo.",
+    "Añade el ajo machacado a la sopa con la mitad del eneldo; cuece 1 min más. Apaga, tapa y deja reposar 10 min para que el mijo espese el caldo.",
     "Sirve con una cucharada de nata agria, el resto del eneldo y pan de centeno si quieres."
   ],
   nutricion: { kcal: 590, prot: 26, hc: 51, grasa: 31 },
@@ -180,11 +180,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas por la mitad. Pon el agua en la olla exprés, coloca el cestillo de vapor y reparte encima las patatas y los huevos con cáscara.",
-    "Cierra la olla a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 5 min. Deja que baje la presión sola 5 min y abre la válvula para soltar lo que quede. Pasa los huevos a un bol con agua y hielo 5 min: así se pelan solos y la yema no se pone verde.",
+    "Cierra la olla a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 5 min. Deja que baje la presión sola 5 min y abre la válvula para soltar lo que quede. Pasa los huevos a un bol con agua y hielo 5 min: así se pelan solos y la yema no se pone verde. Mientras se enfrían, calienta el caldo y pica muy fino el eneldo, también los tallos tiernos.",
     "Reserva las patatas tapadas, vacía la olla y sécala. Derrite en ella la mantequilla a fuego medio, añade la harina y remueve 2 min sin que tome color, hasta que huela a galleta.",
     "Vierte el caldo caliente poco a poco sin dejar de batir con unas varillas para que no se formen grumos. Cuece 5 min, hasta que espese.",
     "Añade la nata, el azúcar y el vinagre y cuece 3 min a fuego suave. La salsa debe napar el dorso de una cuchara y tener un punto dulce y otro ácido.",
-    "Fuera del fuego, añade el eneldo picado muy fino (también los tallos tiernos), sal y pimienta. El eneldo va al final para que quede verde y fragante.",
+    "Fuera del fuego, añade el eneldo picado, sal y pimienta. El eneldo va al final para que quede verde y fragante.",
     "Pela los huevos y córtalos por la mitad. Sirve las patatas con la salsa generosa por encima y los huevos sobre la salsa."
   ],
   nutricion: { kcal: 575, prot: 20, hc: 58, grasa: 29 },
@@ -225,10 +225,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta los contramuslos. Calienta 1,5 cda de aceite en la olla exprés destapada a fuego medio-fuerte y dóralos 3 min por cada lado. Resérvalos.",
+    "Pica fina la cebolla y pica el ajo. Salpimienta los contramuslos. Calienta 1,5 cda de aceite en la olla exprés destapada a fuego medio-fuerte y dóralos 3 min por cada lado. Resérvalos.",
     "En la misma grasa, rehoga la cebolla picada fina a fuego medio 8 min, hasta que esté blanda y dorada. Añade el ajo picado 1 min. Retira la olla del fuego y añade los dos pimentones y el tomate concentrado: sin fuego, para que el pimentón no se queme y amargue.",
     "Vuelve al fuego, vierte el caldo raspando el fondo y coloca el pollo con sus jugos. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 10 min. Deja bajar la presión sola, unos 10 min.",
-    "Mientras, prepara las halušky: mezcla en un bol 150 g de harina, el huevo, el agua y una pizca de sal hasta tener una masa espesa y pegajosa que cae despacio de la cuchara. Pon a hervir agua con sal en la cazuela.",
+    "Mientras, pon a hervir agua con sal en la cazuela y prepara las halušky: mezcla en un bol 150 g de harina, el huevo, el agua y una pizca de sal hasta tener una masa espesa y pegajosa que cae despacio de la cuchara.",
     "Pasa la masa por un colador de agujeros grandes apretando con una espátula sobre el agua hirviendo, o córtala en tiras finas desde una tabla mojada con un cuchillo. Cuando floten, cuécelas 2 min más, escúrrelas y mézclalas con el resto del aceite para que no se peguen.",
     "Abre la olla y saca el pollo. Mezcla la nata agria con la cucharada de harina y un cucharón de la salsa caliente, y viértelo en la olla. Cuece 3 min a fuego suave, sin que hierva fuerte, hasta que la salsa espese y quede de color naranja.",
     "Devuelve el pollo a la salsa y sirve con las halušky al lado, bañadas con parte de la salsa."
@@ -274,11 +274,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la ternera y el cerdo en dados de 3 cm y sécalos con papel. Pica las cebollas finas.",
+    "Corta la ternera y el cerdo en dados de 3 cm y sécalos con papel. Pica las cebollas finas y pica el ajo.",
     "Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla 10 min, removiendo a menudo, hasta que esté dorada y casi deshecha: es la base que espesa el bograč.",
     "Sube el fuego, añade las carnes y dóralas 5 min. Incorpora el ajo picado, la alcaravea y la mejorana y remueve 1 min. Retira del fuego y añade los pimentones y el tomate concentrado, removiendo para que no se quemen.",
-    "Vuelve al fuego, vierte el vino y deja que hierva 2 min raspando el fondo. Añade 500 ml de agua, el laurel y sal. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 25 min. Despresuriza rápido.",
-    "Pela las patatas y cáscalas en trozos grandes (haz un corte y termina de partirlas tirando con el cuchillo: sueltan almidón y espesan el guiso). Corta el pimiento en tiras.",
+    "Vuelve al fuego, vierte el vino y deja que hierva 2 min raspando el fondo. Añade 500 ml de agua, el laurel y sal. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 25 min. Mientras, pela las patatas y cáscalas en trozos grandes (haz un corte y termina de partirlas tirando con el cuchillo: sueltan almidón y espesan el guiso) y corta el pimiento en tiras. Despresuriza rápido.",
     "Añade la patata, el pimiento y el resto del agua si el guiso está seco. Cierra y cuenta 5 min desde que suba la válvula. Deja bajar la presión sola, unos 10 min.",
     "Abre: los bordes de la patata deben empezar a deshacerse y el caldo debe estar espeso y rojizo. Prueba de sal y pimienta, deja reposar 5 min y sirve en plato hondo con pan."
   ],
@@ -322,10 +321,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las alubias en remojo la víspera con el triple de agua fría. Escúrrelas antes de empezar.",
-    "Prepara el pešt: pica con el cuchillo la panceta, el ajo y los tallos del perejil hasta tener una pasta casi untable. Reserva las hojas del perejil para el final.",
+    "Prepara el pešt: pica con el cuchillo la panceta, el ajo y los tallos del perejil hasta tener una pasta casi untable. Reserva las hojas del perejil para el final. Pica la cebolla, la zanahoria y el apio.",
     "Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla, la zanahoria y el apio picados 5 min. Añade el pešt y cocina 3 min, hasta que la grasa de la panceta se funda y huela a ahumado. Incorpora el tomate concentrado y remueve 1 min.",
-    "Añade las alubias, el laurel y el agua. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 20 min. Deja que baje la presión sola, unos 10 min: así las alubias no se pelan.",
-    "Abre, añade la patata en dados de 2 cm y el maíz y sala. Cierra y cuenta 5 min desde que suba la válvula; despresuriza rápido.",
+    "Añade las alubias, el laurel y el agua. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 20 min. Deja que baje la presión sola, unos 10 min: así las alubias no se pelan. Mientras, pela la patata, córtala en dados de 2 cm y pica las hojas de perejil.",
+    "Abre, añade la patata y el maíz y sala. Cierra y cuenta 5 min desde que suba la válvula; despresuriza rápido.",
     "Saca un cucharón de alubias y patata, aplástalo con un tenedor y devuélvelo a la olla. Cuece 3 min destapado, removiendo, hasta que la sopa espese y quede cremosa.",
     "Deja reposar 10 min. Sirve con las hojas de perejil picadas, pimienta y un chorrito de aceite de oliva crudo."
   ],
@@ -368,7 +367,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la tapa de los pimientos con el rabo y resérvala. Vacíalos de semillas y nervios con una cucharilla.",
-    "Lava el arroz y escúrrelo. En un bol, mezcla las dos carnes con el arroz crudo, la mitad de la cebolla rallada, el pimentón, el perejil picado, sal, pimienta y 3 cucharadas de agua. Amasa 1 min, lo justo para que quede unido.",
+    "Lava el arroz y escúrrelo. Ralla media cebolla, pica fina la otra mitad y pica el perejil. En un bol, mezcla las dos carnes con el arroz crudo, la cebolla rallada, el pimentón, el perejil, sal, pimienta y 3 cucharadas de agua. Amasa 1 min, lo justo para que quede unido.",
     "Rellena los pimientos hasta tres cuartos sin apretar: el arroz se hincha al cocer y, si están llenos hasta arriba, revientan. Ponles su tapa.",
     "En la olla exprés destapada, calienta el aceite a fuego medio y rehoga el resto de la cebolla picada 4 min. Añade la harina y remueve 1 min, hasta que huela a tostado: es la zaprška que espesa la salsa. Vierte el tomate y el agua, sala y remueve hasta que hierva.",
     "Coloca los pimientos de pie dentro de la salsa, bien juntos para que no se caigan; la salsa debe cubrir dos tercios de su altura.",
@@ -418,7 +417,7 @@ window.RECETAS_SEED.push({
     "Corta el cordero en dados de 4 cm. Corta la verdura en trozos grandes: el repollo en cuñas, la patata en cuartos, la zanahoria en rodajas gruesas, las judías en trozos de 4 cm, el pimiento en tiras, el tomate en gajos y la cebolla en plumas gruesas.",
     "Unta el fondo de la olla exprés con el aceite. Haz capas: la cebolla, la mitad del cordero, sal, el repollo, la zanahoria, la patata y las judías; después el resto del cordero, el pimiento, los ajos, el laurel y la pimienta en grano, con sal en cada capa. Termina con el tomate.",
     "Vierte el vino y el agua por el borde, sin remover: el líquido debe llegar más o menos a la mitad.",
-    "Cierra la olla a fuego medio para que suba despacio; cuando suba la válvula, baja al mínimo y cuenta 25 min. Deja que baje la presión sola, unos 15 min.",
+    "Cierra la olla a fuego medio para que suba despacio; cuando suba la válvula, baja al mínimo y cuenta 25 min. Deja que baje la presión sola, unos 15 min. Mientras, pica el perejil.",
     "Abre y comprueba que el cordero se deshace al apretarlo. No remuevas: mueve la olla en círculos para que el caldo se reparta sin romper las capas.",
     "Espolvorea el perejil picado, tapa y deja reposar 5 min. Sirve en platos hondos con su caldo y pan para mojar."
   ],
@@ -465,8 +464,8 @@ window.RECETAS_SEED.push({
     "Escalda las cebollitas 1 min en agua hirviendo y pásalas a agua fría: la piel saldrá con solo apretarlas. Corta la ternera en dados de 4 cm, sécala y salpimiéntala.",
     "Calienta el aceite en la olla exprés destapada a fuego fuerte y dora la ternera en dos tandas, 4-5 min cada una, hasta que tenga costra oscura. Resérvala. Dora las cebollitas enteras en la misma grasa 4 min, hasta que tengan manchas tostadas.",
     "Retira del fuego y añade el pimentón y la ajedrea. Vuelve al fuego, vierte el vino y deja que hierva 2 min raspando el fondo. Añade el tomate, el agua, el laurel, la pimienta de Jamaica y la carne con sus jugos.",
-    "Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 30 min. Despresuriza rápido.",
-    "Añade la patata y la zanahoria en trozos grandes y los ajos enteros. Cierra y cuenta 6 min desde que suba la válvula. Deja que baje la presión sola, unos 10 min.",
+    "Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 30 min. Mientras, pela la patata y la zanahoria, córtalas en trozos grandes y pica el perejil. Despresuriza rápido.",
+    "Añade la patata, la zanahoria y los ajos enteros. Cierra y cuenta 6 min desde que suba la válvula. Deja que baje la presión sola, unos 10 min.",
     "Abre: la carne debe deshacerse y los ajos estar cremosos. Si la salsa está líquida, cuece 3-5 min destapado hasta que napee. Prueba de sal.",
     "Sirve con el perejil picado y pan para mojar la salsa."
   ],
@@ -509,10 +508,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las lentejas y ponlas en la olla exprés con el caldo y el laurel. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 8 min. Despresuriza rápido: las lentejas deben quedar casi tiernas y con poco caldo.",
-    "Mientras, mezcla en un bol la nata agria con el rábano picante, la ralladura del medio limón y una pizca de sal. Corta la remolacha en dados y alíñala con la mitad del vinagre y un poco de eneldo picado.",
+    "Mientras, pica el eneldo y pica fina la cebolleta. Mezcla en un bol la nata agria con el rábano picante, la ralladura del medio limón y una pizca de sal. Corta la remolacha en dados y alíñala con la mitad del vinagre y un poco de eneldo picado.",
     "Sala los lomos de salmón y colócalos con la piel hacia abajo en el cestillo de vapor, encima de las lentejas. Cierra la olla a fuego fuerte y, en cuanto suba la válvula, apaga el fuego. Espera 1 min y despresuriza rápido.",
     "Comprueba el salmón: debe estar rosado y jugoso en el centro y separarse en lascas. Si lo quieres más hecho, tapa la olla sin presión 2 min más. Las lentejas habrán terminado de cocerse con el vapor.",
-    "Escurre las lentejas si queda caldo y alíñalas en caliente con el aceite, el resto del vinagre, la cebolleta picada fina, el zumo del limón, sal, pimienta y casi todo el eneldo.",
+    "Escurre las lentejas si queda caldo y alíñalas en caliente con el aceite, el resto del vinagre, la cebolleta, el zumo del limón, sal, pimienta y casi todo el eneldo.",
     "Sirve las lentejas con la remolacha al lado, el salmón encima, una cucharada de crema de rábano picante y el resto del eneldo."
   ],
   nutricion: { kcal: 640, prot: 45, hc: 45, grasa: 31 },
@@ -553,10 +552,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el pulpo y ponlo en la olla exprés con el agua y el laurel, sin sal: soltará su propio jugo. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 12 min. Deja que baje la presión sola, unos 10 min. Pincha la parte gruesa de un tentáculo: debe entrar como en una patata cocida.",
-    "Mientras, prepara la mantequilla de ajvar: aplasta la mantequilla con el ajvar, la ralladura del medio limón y una pizca de sal hasta tener una crema anaranjada. Resérvala.",
-    "Saca el pulpo y deja en la olla su caldo morado. Añade la patata pelada en rodajas de 1,5 cm, las pencas de acelga en trozos y agua hasta cubrir a medias. Sala ligeramente, cierra y cuenta 4 min desde que suba la válvula; despresuriza rápido.",
-    "Añade las hojas de acelga picadas, tapa sin presión y deja 2 min para que se ablanden con el calor. Escurre todo.",
-    "Prepara la blitva: aplasta un poco las patatas y las acelgas con un tenedor y alíñalas con 1,5 cda de aceite, el ajo picado muy fino y sal. Deben quedar en trozos, no en puré.",
+    "Mientras, prepara la mantequilla de ajvar: aplasta la mantequilla con el ajvar, la ralladura del medio limón y una pizca de sal hasta tener una crema anaranjada. Resérvala. Pela la patata y córtala en rodajas de 1,5 cm; separa las pencas de las hojas de acelga, corta las pencas en trozos y pica las hojas. Pica muy fino el ajo y pica el perejil.",
+    "Saca el pulpo y deja en la olla su caldo morado. Añade la patata, las pencas de acelga y agua hasta cubrir a medias. Sala ligeramente, cierra y cuenta 4 min desde que suba la válvula; despresuriza rápido.",
+    "Añade las hojas de acelga, tapa sin presión y deja 2 min para que se ablanden con el calor. Escurre todo.",
+    "Prepara la blitva: aplasta un poco las patatas y las acelgas con un tenedor y alíñalas con 1,5 cda de aceite, el ajo y sal. Deben quedar en trozos, no en puré.",
     "Corta el pulpo en tentáculos y márcalo en la sartén muy caliente con el resto del aceite 1-2 min por lado, hasta que tenga los bordes tostados.",
     "Sirve la blitva, el pulpo encima, una cucharada de mantequilla de ajvar que se funda sobre el pulpo caliente, el perejil picado, unas gotas de limón y sal en escamas."
   ],
@@ -600,11 +599,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz y escúrrelo. Ralla media cebolla y mézclala en un bol con el pavo, el arroz crudo, el huevo, sal y pimienta. Amasa 1 min y forma 10 albóndigas de unos 4 cm con las manos mojadas. Pásalas por la harina.",
+    "Lava el arroz y escúrrelo. Ralla media cebolla, pica fina la otra mitad y ralla la zanahoria. Mezcla la cebolla rallada en un bol con el pavo, el arroz crudo, el huevo, sal y pimienta. Amasa 1 min y forma 10 albóndigas de unos 4 cm con las manos mojadas. Pásalas por la harina.",
     "Calienta el aceite en la olla exprés destapada a fuego medio-fuerte y dora las tefteli 4 min, girándolas, solo para sellarlas. Resérvalas.",
     "En la misma olla, rehoga el resto de la cebolla picada y la zanahoria rallada 4 min. Añade el tomate, el caldo, el laurel y sal, raspa el fondo y deja que hierva.",
     "Coloca las tefteli en la salsa, que deben quedar cubiertas hasta la mitad. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 8 min, el tiempo que necesita el arroz de dentro. Deja bajar la presión sola 5 min y abre la válvula para soltar el resto.",
-    "Mientras, corta el pepino en rodajas finas y mézclalo con el vinagre, la mitad del eneldo picado y una pizca de sal.",
+    "Mientras, pica el eneldo, corta el pepino en rodajas finas y mézclalo con el vinagre, la mitad del eneldo y una pizca de sal.",
     "Abre la olla y aparta las albóndigas a un lado. Mezcla la smetana con un cucharón de salsa caliente y viértela en la olla; calienta 2 min sin que hierva, hasta que la salsa quede rosada y cremosa.",
     "Sirve las tefteli con su salsa, el resto del eneldo por encima y la ensalada de pepino al lado."
   ],
@@ -650,13 +649,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las alubias en remojo la víspera con el triple de agua fría y escúrrelas antes de empezar.",
+    "Pon las alubias en remojo la víspera con el triple de agua fría y escúrrelas antes de empezar. Pica la cebolla y el ajo y ralla la zanahoria.",
     "Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla picada y la zanahoria rallada 5 min. Añade el ajo picado 1 min. Retira del fuego, añade el pimentón y el tomate concentrado y remueve 1 min con el calor residual.",
     "Añade las alubias, el caldo y el laurel. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 20 min. Deja bajar la presión sola, unos 10 min.",
-    "Mientras, pela la remolacha (con guantes, si no quieres teñirte las manos) y córtala en bastones finos; corta el repollo en tiras. Mezcla la remolacha con el vinagre: el ácido fija su color rojo intenso.",
+    "Mientras, pela la remolacha (con guantes, si no quieres teñirte las manos) y córtala en bastones finos; corta el repollo en tiras. Mezcla la remolacha con el vinagre: el ácido fija su color rojo intenso. Pica el eneldo.",
     "Abre la olla, añade la remolacha con su vinagre, el repollo, el azúcar y sal. Cierra y cuenta 4 min desde que suba la válvula; despresuriza rápido.",
     "Prueba y ajusta el equilibrio agridulce con unas gotas más de vinagre o una pizca de azúcar. Deja reposar 5 min: el guiso espesa y toma color granate.",
-    "Sirve con una cucharada de nata agria, mucho eneldo picado y pan de centeno si quieres."
+    "Sirve con una cucharada de nata agria, mucho eneldo y pan de centeno si quieres."
   ],
   nutricion: { kcal: 570, prot: 21, hc: 75, grasa: 21 },
   etiquetas: ["creativa", "vegetariana", "de cuchara", "económica", "batch cooking", "invierno", "superalimentos", "poco especiada"],
@@ -697,11 +696,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta los contramuslos. Calienta el aceite en la olla exprés destapada a fuego medio-fuerte y dóralos 3 min por cada lado, hasta que estén bien dorados. Resérvalos.",
-    "Rehoga la cebolla en plumas en la misma grasa 4 min. Añade la alcaravea y el enebro aplastado con la hoja de un cuchillo y remueve 30 s, hasta que huelan. Vierte el vino y raspa el fondo 1 min.",
-    "Escurre el chucrut apretándolo un poco con las manos y añádelo con la manzana en gajos gruesos (con piel), el laurel y el caldo. Mezcla bien.",
-    "Coloca encima las patatas cortadas por la mitad y, sobre ellas, el pollo con sus jugos. Las patatas deben quedar sobre el chucrut, no hundidas en él, porque su acidez impediría que se ablanden.",
-    "Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 8 min. Despresuriza rápido.",
+    "Corta la cebolla en plumas, la manzana en gajos gruesos (con piel) y las patatas por la mitad. Salpimienta los contramuslos. Calienta el aceite en la olla exprés destapada a fuego medio-fuerte y dóralos 3 min por cada lado, hasta que estén bien dorados. Resérvalos.",
+    "Rehoga la cebolla en la misma grasa 4 min. Añade la alcaravea y el enebro aplastado con la hoja de un cuchillo y remueve 30 s, hasta que huelan. Vierte el vino y raspa el fondo 1 min.",
+    "Escurre el chucrut apretándolo un poco con las manos y añádelo con la manzana, el laurel y el caldo. Mezcla bien.",
+    "Coloca encima las patatas y, sobre ellas, el pollo con sus jugos. Las patatas deben quedar sobre el chucrut, no hundidas en él, porque su acidez impediría que se ablanden.",
+    "Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 8 min. Mientras, pica el perejil. Despresuriza rápido.",
     "Saca el pollo y las patatas. Mezcla la mostaza con el chucrut y, si queda mucho líquido, cuécelo 3 min destapado. Prueba de sal.",
     "Sirve el chucrut con el pollo cortado en tiras, las patatas al lado y el perejil picado por encima."
   ],
@@ -745,11 +744,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata las setas secas en 200 ml de agua caliente 10 min. Sácalas, pícalas y cuela el agua con un papel de cocina para quitar la arena: será el caldo del guiso.",
-    "Calienta el aceite en la olla exprés destapada a fuego fuerte y saltea los champiñones y las setas en cuartos 5 min, sin remover demasiado, hasta que pierdan el agua y se doren.",
-    "Baja a fuego medio, añade la cebolla picada y el pimiento en dados y rehoga 4 min. Agrega el ajo, la alcaravea machacada y el tomate concentrado y remueve 1 min.",
+    "Hidrata las setas secas en 200 ml de agua caliente 10 min. Sácalas, pícalas y cuela el agua con un papel de cocina para quitar la arena: será el caldo del guiso. Mientras se hidratan, corta los champiñones y las setas en cuartos, pica la cebolla y el ajo, corta el pimiento en dados y pela la patata y córtala en dados de 2,5 cm.",
+    "Calienta el aceite en la olla exprés destapada a fuego fuerte y saltea los champiñones y las setas 5 min, sin remover demasiado, hasta que pierdan el agua y se doren.",
+    "Baja a fuego medio, añade la cebolla y el pimiento y rehoga 4 min. Agrega el ajo, la alcaravea machacada y el tomate concentrado y remueve 1 min.",
     "Aparta la olla del fuego y añade los dos pimentones; remueve 20 segundos (el pimentón se quema y amarga en seguida) y vierte enseguida el agua de las setas.",
-    "Incorpora la patata en dados de 2,5 cm, las setas secas picadas, la mejorana y sal; el líquido debe cubrir la mitad de la patata. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 6 min. Despresuriza rápido.",
+    "Incorpora la patata, las setas secas picadas, la mejorana y sal; el líquido debe cubrir la mitad de la patata. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 6 min. Despresuriza rápido.",
     "Aplasta unos trozos de patata contra la pared para espesar la salsa. Templa la nata agria con un cazo de salsa y vuélvela a la olla fuera del fuego, para que no se corte.",
     "Sirve con el pan de centeno tostado y una cucharada más de nata agria si quieres."
   ],
@@ -794,12 +793,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las lentejas en un colador hasta que el agua salga clara. Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla, la zanahoria y el pimiento picados 5 min, hasta que se ablanden.",
-    "Añade 2 dientes de ajo picados 1 min. Retira del fuego, añade el pimentón, la menta, la ajedrea y 2 cda de ajvar y remueve 1 min con el calor residual.",
+    "Lava las lentejas en un colador hasta que el agua salga clara. Pica la cebolla, la zanahoria, el pimiento y 2 dientes de ajo. Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla, la zanahoria y el pimiento picados 5 min, hasta que se ablanden.",
+    "Añade el ajo picado 1 min. Retira del fuego, añade el pimentón, la menta, la ajedrea y 2 cda de ajvar y remueve 1 min con el calor residual.",
     "Incorpora las lentejas y el caldo y raspa bien el fondo para que nada se pegue. Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 6 min. Deja que baje la presión sola, unos 10 min: las lentejas rojas hacen mucha espuma y por la válvula saldría caldo.",
-    "Mientras, mezcla el yogur con el diente de ajo restante rallado y una pizca de sal.",
+    "Mientras, mezcla el yogur con el diente de ajo restante rallado y una pizca de sal, desmiga el feta y pica el perejil.",
     "Abre la olla y tritura la sopa con la batidora, del todo o dejando algo de textura. Añade el zumo del medio limón, sal y pimienta. Si está muy espesa, aligérala con agua caliente.",
-    "Sirve con una cucharada de yogur al ajo, el queso feta desmigado, un hilo del ajvar restante y el perejil picado."
+    "Sirve con una cucharada de yogur al ajo, el queso feta, un hilo del ajvar restante y el perejil."
   ],
   nutricion: { kcal: 520, prot: 26, hc: 62, grasa: 19 },
   etiquetas: ["creativa", "vegetariana", "de cuchara", "económica", "batch cooking", "sin gluten", "verduras escondidas", "poco especiada"],
@@ -840,10 +839,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hidrata las setas secas en el agua caliente 10 min. Escúrrelas, pícalas y cuela el agua del remojo por un papel de cocina para quitar la tierra; resérvala.",
-    "Mientras, calienta la mantequilla y el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla picada 3 min. Sube el fuego, añade los champiñones laminados y saltéalos 5 min, hasta que suelten el agua y se doren.",
-    "Añade el repollo en tiras finas y rehógalo 5 min, removiendo, hasta que se ablande y tome algo de color. Incorpora las setas hidratadas y la mejorana.",
+    "Mientras, pica la cebolla, lamina los champiñones y corta el repollo en tiras finas. Calienta la mantequilla y el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla 3 min. Sube el fuego, añade los champiñones y saltéalos 5 min, hasta que suelten el agua y se doren.",
+    "Añade el repollo y rehógalo 5 min, removiendo, hasta que se ablande y tome algo de color. Incorpora las setas hidratadas y la mejorana.",
     "Añade la pasta, el caldo, el agua de las setas y sal, y remueve. La pasta debe quedar justo cubierta de líquido; si no, añade un poco de agua.",
-    "Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min (la mitad del tiempo del paquete). Despresuriza rápido abriendo la válvula en golpes cortos: el almidón hace espuma.",
+    "Cierra; cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min (la mitad del tiempo del paquete); mientras, pica el eneldo. Despresuriza rápido abriendo la válvula en golpes cortos: el almidón hace espuma.",
     "Abre y remueve: el líquido se habrá absorbido y la pasta estará al dente. Deja reposar 2 min y añade pimienta negra generosa.",
     "Sirve con una cucharada de nata agria y el eneldo picado por encima."
   ],
@@ -887,10 +886,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las carrilleras de la telilla exterior más gruesa, sécalas y salpimiéntalas. Dóralas en la olla exprés destapada con el aceite a fuego fuerte 3 min por cada lado. Resérvalas.",
-    "Baja a fuego medio y rehoga la cebolla y el pimiento en tiras 6 min. Añade el ajo laminado 1 min. Retira del fuego, añade el pimentón y vierte el vino; vuelve al fuego y deja que reduzca 3 min raspando el fondo.",
+    "Corta la cebolla y el pimiento en tiras y lamina el ajo. Limpia las carrilleras de la telilla exterior más gruesa, sécalas y salpimiéntalas. Dóralas en la olla exprés destapada con el aceite a fuego fuerte 3 min por cada lado. Resérvalas.",
+    "Baja a fuego medio y rehoga la cebolla y el pimiento 6 min. Añade el ajo 1 min. Retira del fuego, añade el pimentón y vierte el vino; vuelve al fuego y deja que reduzca 3 min raspando el fondo.",
     "Añade el ajvar, el caldo y el laurel, remueve y coloca las carrilleras: deben quedar cubiertas en dos tercios. Cierra; cuando suba la válvula, baja al mínimo y cuenta 35 min. Deja que baje la presión sola, unos 15 min.",
-    "Mientras, cuece las patatas peladas y en trozos en la cazuela con agua y sal 20 min, hasta que se deshagan al pincharlas. Escúrrelas y aplástalas con el kajmak y la leche caliente hasta tener un puré liso. Prueba de sal.",
+    "Mientras, cuece las patatas peladas y en trozos en la cazuela con agua y sal 20 min, hasta que se deshagan al pincharlas; mientras, calienta la leche y pica el perejil. Escúrrelas y aplástalas con el kajmak y la leche caliente hasta tener un puré liso. Prueba de sal.",
     "Abre la olla: las carrilleras deben partirse con una cuchara. Sácalas y, si la salsa está líquida, redúcela destapada a fuego fuerte 5-8 min hasta que napee. Puedes triturarla para que quede más fina.",
     "Devuelve las carrilleras a la salsa 1 min para que se calienten y brillen.",
     "Sirve el puré con las carrilleras encima, bien bañadas en salsa, y el perejil picado."
@@ -934,10 +933,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Remoja el pan en la leche 2 min y escúrrelo apretando. Pica la merluza a cuchillo, no muy fina, y mézclala en un bol con el pan, el huevo, la parte blanca de la cebolleta picada fina, la mitad del eneldo picado, la ralladura del medio limón, sal y pimienta. Deja la masa 5 min en la nevera para que se asiente.",
+    "Remoja el pan en la leche 2 min y escúrrelo apretando. Pica la merluza a cuchillo, no muy fina, y mézclala en un bol con el pan, el huevo, la parte blanca de la cebolleta picada fina, la mitad del eneldo picado, la ralladura del medio limón, sal y pimienta. Deja la masa 5 min en la nevera para que se asiente; mientras, corta las patatas por la mitad.",
     "Forma 10-12 albóndigas del tamaño de una nuez grande con las manos mojadas.",
     "Derrite la mantequilla en la olla exprés destapada a fuego medio y rehoga la parte verde de la cebolleta 2 min. Añade la harina y remueve 1 min. Vierte el caldo poco a poco batiendo para que no queden grumos y añade la mostaza.",
-    "Pon las patatas cortadas por la mitad en la salsa y coloca las albóndigas encima, sin apretarlas. Cierra; cuando suba la válvula, baja al mínimo y cuenta 4 min. Despresuriza rápido.",
+    "Pon las patatas en la salsa y coloca las albóndigas encima, sin apretarlas. Cierra; cuando suba la válvula, baja al mínimo y cuenta 4 min. Despresuriza rápido.",
     "Saca con cuidado las albóndigas y las patatas con una espumadera. Mezcla la nata agria con un cucharón de salsa caliente y viértela en la olla; calienta 1 min sin que hierva y añade el zumo del medio limón y el resto del eneldo.",
     "Sirve las albóndigas y las patatas bien napadas con la salsa."
   ],

@@ -520,7 +520,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el pollo en dados de 3 cm. Mézclalo con el zumo de medio limón, 1,5 cdas de aceite, el orégano, 2 dientes de ajo rallados, sal y pimienta. Tapa y marina en la nevera 1 hora (hasta 12 si te viene mejor).",
-    "Prepara el tzatziki: ralla el pepino, sálalo ligeramente y déjalo 10 minutos en un colador; escúrrelo apretando con las manos. Mézclalo con el yogur, el ajo restante rallado, el eneldo picado, unas gotas de limón, sal y pimienta. Reserva en frío.",
+    "Mientras el pollo marina, prepara el tzatziki: ralla el pepino, sálalo ligeramente y déjalo 10 minutos en un colador; escúrrelo apretando con las manos. Mézclalo con el yogur, el ajo restante rallado, el eneldo picado, unas gotas de limón, sal y pimienta. Reserva en frío.",
     "Corta los tomates en gajos y la cebolla en juliana fina; alíñalos con el aceite restante, el vinagre, una pizca de orégano y sal.",
     "Ensarta el pollo en 4 brochetas sin apretar demasiado los dados, para que el calor llegue a todos lados.",
     "Calienta la plancha a fuego fuerte y asa las brochetas 10-12 minutos en total, girándolas cada 3 minutos, hasta que estén doradas con bordes tostados y firmes al tacto.",
@@ -840,7 +840,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 190 °C. Saltea las espinacas con el ajo picado en una sartén 2 minutos hasta que se marchiten; escúrrelas bien, pícalas y mézclalas con el queso de cabra desmenuzado, la nuez moscada y pimienta.",
     "Abre cada pechuga de pavo con un cuchillo por el lateral, como un libro, sin llegar al otro lado. Salpimiéntalas, reparte el relleno dentro, cierra y sujeta con 2-3 palillos.",
-    "Calienta el aceite en la sartén a fuego fuerte y dora las pechugas 2 minutos por cada lado. Pásalas a una fuente y hornéalas 18-20 minutos, hasta que el centro marque 72 °C o al pinchar salga jugo claro. Déjalas reposar 5 minutos tapadas.",
+    "Calienta el aceite en la sartén a fuego fuerte y dora las pechugas 2 minutos por cada lado. Pásalas a una fuente y hornéalas 18-20 minutos, hasta que el centro marque 72 °C o al pinchar salga jugo claro. Déjalas reposar 5 minutos tapadas. Mientras se hornean, pon a hervir agua con sal en la cazuela para las judías.",
     "En la misma sartén, derrite la mantequilla y sofríe la cebolla picada muy fina 3 minutos. Añade el vino, deja reducir a la mitad, incorpora el caldo y el tomillo y cuece 4-5 minutos hasta que la salsa tenga cuerpo. Salpimienta.",
     "Despunta las judías y cuécelas en agua hirviendo con sal 5-6 minutos, hasta que estén tiernas pero verdes. Escúrrelas y alíñalas con el zumo de limón y una pizca de sal.",
     "Retira los palillos, corta cada pechuga en medallones gruesos y sírvelos con la salsa por encima y las judías al lado."

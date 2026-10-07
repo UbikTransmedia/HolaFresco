@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Pica la cebolla y las cebolletas, separando la parte blanca de la verde. Lamina el ajo, pela las zanahorias y córtalas en rodajas de 1 cm, y pela las patatas y córtalas en trozos grandes de unos 4 cm.",
     "Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla y la parte blanca de la cebolleta 8 minutos, hasta que estén transparentes y empiecen a dorarse por los bordes. Añade el ajo y, 1 minuto después, la zanahoria; rehoga 2 minutos.",
     "Incorpora el tomate triturado y cocina 5 minutos removiendo, hasta que oscurezca un poco y el aceite empiece a separarse por los bordes.",
-    "Añade las patatas y los guisantes sin descongelar, sal y pimienta, y cubre justo con el agua caliente. Lleva a ebullición, baja el fuego, tapa y cuece 25 minutos a fuego suave.",
+    "Añade las patatas y los guisantes sin descongelar, sal y pimienta, y cubre justo con el agua caliente. Lleva a ebullición, baja el fuego, tapa y cuece 25 minutos a fuego suave. Mientras, pica el eneldo.",
     "Comprueba que las patatas se dejan atravesar con un cuchillo y que la salsa ha espesado hasta cubrir apenas las verduras; si queda caldosa, destapa y deja 5 minutos más.",
     "Fuera del fuego, añade el eneldo picado y la parte verde de la cebolleta, mueve la cazuela en círculos para mezclar sin romper las patatas y deja reposar 10 minutos tapada. Sirve templado."
   ],
@@ -128,9 +128,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las acelgas y las espinacas, sécalas bien y pícalas finas; las pencas de acelga, en daditos. Pica también el puerro, las cebolletas, el hinojo con sus hojas, el eneldo, la menta y el perejil.",
-    "En un bol grande, frota las verduras de hoja con 1 cucharadita de sal durante 2 minutos, hasta que reduzcan a la mitad. Déjalas 15 minutos y escúrrelas a puñados apretando fuerte: si conservan el agua, la pita queda empapada.",
+    "En un bol grande, frota las verduras de hoja con 1 cucharadita de sal durante 2 minutos, hasta que reduzcan a la mitad. Déjalas 15 minutos (mientras, precalienta el horno a 180 °C) y escúrrelas a puñados apretando fuerte: si conservan el agua, la pita queda empapada.",
     "Mezcla las verduras escurridas con el puerro, la cebolleta, el hinojo, las hierbas, el arroz crudo, 2 cda de aceite y pimienta. El arroz absorberá el jugo que suelten durante el horneado.",
-    "Precalienta el horno a 180 °C y unta una fuente de unos 20 × 20 cm. Mezcla las otras 2 cda de aceite con 2 cda de agua para pintar. Coloca la mitad de las láminas de filo, pintando cada una y dejando que sobresalgan por los bordes.",
+    "Unta una fuente de unos 20 × 20 cm. Mezcla las otras 2 cda de aceite con 2 cda de agua para pintar. Coloca la mitad de las láminas de filo, pintando cada una y dejando que sobresalgan por los bordes.",
     "Extiende el relleno, cúbrelo con el resto de láminas pintadas, dobla hacia dentro lo que sobresale y marca las raciones con un cuchillo sin llegar al fondo. Salpica unas gotas de agua por encima y espolvorea el sésamo.",
     "Hornea 50 minutos, hasta que la superficie esté dorada y crujiente y, al inclinar la fuente, no se oiga burbujear líquido en el fondo.",
     "Deja reposar 10 minutos antes de cortar para que el relleno se asiente."
@@ -173,7 +173,7 @@ window.RECETAS_SEED.push({
     "Limpia los puerros: quita la parte más dura del verde, ábrelos a lo largo y lávalos bajo el grifo para eliminar la tierra. Córtalos en rodajas de 1 cm. Pica la cebolla, ralla la zanahoria y calienta el caldo.",
     "Calienta 2 cda de aceite en una cazuela ancha y sofríe la cebolla 5 minutos. Añade el puerro y la zanahoria con una pizca de sal y rehoga 10 minutos a fuego medio, removiendo, hasta que el puerro se ablande y reduzca a la mitad sin llegar a dorarse.",
     "Añade el arroz y remueve 1 minuto para que se impregne de aceite. Vierte el caldo caliente y salpimienta.",
-    "Cuece tapado a fuego suave 18 minutos, removiendo un par de veces, hasta que el arroz esté tierno y el conjunto quede meloso, con algo de caldo ligado y nunca seco.",
+    "Cuece tapado a fuego suave 18 minutos, removiendo un par de veces, hasta que el arroz esté tierno y el conjunto quede meloso, con algo de caldo ligado y nunca seco. Mientras, pica el eneldo y exprime el limón.",
     "Fuera del fuego, añade el zumo del limón, el eneldo picado y la última cucharada de aceite en crudo; tapa y deja reposar 5 minutos.",
     "Sirve con pimienta recién molida y las aceitunas al lado."
   ],
@@ -219,7 +219,7 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una cazuela ancha a fuego medio y pocha la cebolla con una pizca de sal 8 minutos, hasta que esté blanda y dorada por los bordes. Añade el ajo y cocina 1 minuto.",
     "Incorpora el tomate concentrado y el pimentón, remueve 30 segundos sin que se queme y añade el tomate triturado. Cocina 3 minutos.",
     "Añade las patatas, el laurel, el orégano, sal y pimienta, y remueve para que se impregnen bien del sofrito. Cubre justo con el agua caliente.",
-    "Lleva a ebullición, baja el fuego, tapa a medias y cuece 30–35 minutos, moviendo la cazuela de vez en cuando en lugar de remover, hasta que las patatas estén muy tiernas y la salsa, espesa y roja, apenas las cubra.",
+    "Lleva a ebullición, baja el fuego, tapa a medias y cuece 30–35 minutos, moviendo la cazuela de vez en cuando en lugar de remover, hasta que las patatas estén muy tiernas y la salsa, espesa y roja, apenas las cubra. Mientras, pica el perejil.",
     "Fuera del fuego, añade las aceitunas y el perejil picado, retira el laurel y deja reposar 5 minutos tapada. Sirve templado."
   ],
   nutricion: { kcal: 630, prot: 10, hc: 75, grasa: 32 },
@@ -303,7 +303,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava las acelgas y las espinacas. Separa las pencas de acelga y córtalas en tiras de 1 cm; trocea las hojas. Corta el hinojo en láminas finas y reserva sus hojitas; corta la cebolla en juliana y el ajo en láminas.",
+    "Lava las acelgas y las espinacas. Separa las pencas de acelga y córtalas en tiras de 1 cm; trocea las hojas. Corta el hinojo en láminas finas y pica y reserva sus hojitas; corta la cebolla en juliana y el ajo en láminas.",
     "Calienta el aceite en una cazuela amplia y sofríe la cebolla, el hinojo y las pencas 8 minutos a fuego medio, hasta que estén blandos y la cebolla transparente.",
     "Añade el ajo y la guindilla desmenuzada y sofríe 1 minuto. Agrega el pimentón y remueve solo 10 segundos para que no se queme.",
     "Incorpora el tomate triturado y cocina 3 minutos. Añade las hojas de acelga y de espinaca a puñados, tapando unos segundos entre tanda y tanda para que bajen de volumen, y sala.",
@@ -393,7 +393,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Desenrolla las hojas de parra, lávalas y escáldalas 2 minutos en agua hirviendo para quitarles la salmuera. Escúrrelas, corta los tallos y aparta las 4 o 5 más rotas para el fondo de la cazuela.",
-    "Pica finas las cebollas y las cebolletas y póchalas en una sartén con la mitad del aceite 10 minutos a fuego medio, hasta que estén transparentes. Añade los piñones y tuéstalos 2 minutos, hasta que estén dorados.",
+    "Pica finas las cebollas y las cebolletas y póchalas en una sartén con la mitad del aceite 10 minutos a fuego medio, hasta que estén transparentes. Mientras, pica el eneldo y la menta. Añade los piñones y tuéstalos 2 minutos, hasta que estén dorados.",
     "Agrega el arroz lavado y escurrido, remueve 2 minutos y apaga el fuego. Mezcla con las pasas, el eneldo y la menta picados, la canela, el zumo de medio limón, sal y pimienta. El arroz va casi crudo: termina de hacerse dentro de la hoja.",
     "Pon una hoja con los nervios hacia arriba, coloca una cucharadita rasa de relleno cerca del tallo, dobla los laterales hacia dentro y enrolla apretando ligeramente, sin aplastar: el arroz necesita espacio para hincharse.",
     "Cubre el fondo de una cazuela con las hojas rotas y coloca los rollitos muy juntos, con el cierre hacia abajo, en una o dos capas. Riégalos con el resto del aceite y el zumo de 1 limón.",
@@ -436,7 +436,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la zanahoria y córtala en daditos; pica el apio. Ponlos en una cazuela con el caldo, lleva a ebullición y cuece 8 minutos.",
     "Añade los fideos y cuécelos el tiempo que indique el paquete, unos 5–6 minutos, hasta que estén tiernos. Prueba de sal.",
-    "Mientras, bate en un bol el tahini con el zumo del limón: primero se cortará y espesará como una pasta; sigue batiendo y añade 3–4 cda de agua fría hasta obtener una crema lisa y clara.",
+    "Mientras, bate en un bol el tahini con el zumo del limón: primero se cortará y espesará como una pasta; sigue batiendo y añade 3–4 cda de agua fría hasta obtener una crema lisa y clara. Pica también el perejil.",
     "Aparta la cazuela del fuego. Añade un cazo de caldo caliente al tahini poco a poco sin dejar de batir y repite con un segundo cazo: así se templa y no se corta.",
     "Vierte la mezcla en la cazuela removiendo; la sopa se volverá cremosa y opaca. No dejes que vuelva a hervir.",
     "Sirve con pimienta recién molida, el perejil picado y más limón si te gusta ácida."
@@ -566,9 +566,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tempeh en rodajas de 1 cm, como si fueran rodajas de salchicha, y cuécelo 5 minutos en agua hirviendo: le quita el amargor y le ayuda a absorber la salsa. Escúrrelo y sécalo.",
+    "Corta el tempeh en rodajas de 1 cm, como si fueran rodajas de salchicha, y cuécelo 5 minutos en agua hirviendo: le quita el amargor y le ayuda a absorber la salsa. Mientras, corta los pimientos en tiras gruesas y la cebolla en juliana, y lamina el ajo. Escurre el tempeh y sécalo.",
     "Calienta 2 cda de aceite en una cazuela ancha a fuego medio-alto y dora el tempeh 5 minutos, hasta que esté tostado por ambos lados. Espolvorea la mitad del pimentón ahumado, remueve 10 segundos y sácalo.",
-    "Añade a la cazuela la cucharada de aceite restante, los pimientos en tiras gruesas y la cebolla en juliana, y rehoga 10 minutos hasta que estén blandos y con alguna mancha dorada. Agrega el ajo laminado y cocina 1 minuto.",
+    "Añade a la cazuela la cucharada de aceite restante, los pimientos y la cebolla, y rehoga 10 minutos hasta que estén blandos y con alguna mancha dorada. Agrega el ajo y cocina 1 minuto.",
     "Vierte el vino tinto y deja que se evapore 2 minutos raspando el fondo. Añade el tomate triturado, el resto del pimentón, el orégano, el laurel, sal y pimienta.",
     "Devuelve el tempeh a la cazuela y cuece tapado a fuego suave 15 minutos, hasta que los pimientos estén muy tiernos y la salsa espesa y brillante.",
     "Retira el laurel y sirve en la misma cazuela, con el pan para mojar."
@@ -610,7 +610,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre y enjuaga los garbanzos y sécalos bien con papel de cocina. Corta el tomate en daditos, quítale las semillas y déjalo escurrir en un colador con una pizca de sal.",
+    "Escurre y enjuaga los garbanzos y sécalos bien con papel de cocina. Corta el tomate en daditos, quítale las semillas y déjalo escurrir en un colador con una pizca de sal. Pica la menta y el perejil.",
     "Tritura los garbanzos con la cebolla troceada, 1 cda de aceite, el orégano, sal y pimienta a golpes cortos, hasta obtener una masa gruesa en la que se noten trocitos: no debe quedar un puré.",
     "Pasa la masa a un bol y añade el tomate escurrido, la menta y el perejil picados y la harina de garbanzo. Mezcla con las manos: debe formar una bola que no se pegue; si está húmeda, añade 1 cda más de harina.",
     "Forma 8 tortitas de 1,5 cm de grosor, píntalas por ambas caras con 1 cda de aceite y colócalas en la cesta de la airfryer sin que se toquen; si no caben todas, hazlas en dos tandas.",
@@ -660,7 +660,7 @@ window.RECETAS_SEED.push({
     "Pinta la coliflor con 1 cda de aceite, sal y pimienta, colócala en una fuente honda y ásala 25 minutos, hasta que empiece a dorarse.",
     "Mientras, prepara la salsa kapama: sofríe en una cazuela la cebolla picada con 2 cda de aceite 8 minutos, hasta que esté dorada. Añade el ajo picado 1 minuto y el tomate concentrado, removiendo 1 minuto más hasta que oscurezca.",
     "Agrega el tomate triturado, la canela, los clavos, sal y 100 ml de agua, y cuece 15 minutos a fuego suave hasta que espese. Retira los clavos y añade los garbanzos escurridos y las aceitunas.",
-    "Vierte la salsa alrededor de la coliflor en la fuente, napa la coliflor con un par de cucharadas y hornea 20 minutos más, hasta que esté dorada por arriba, tierna al pincharla en el centro y la salsa burbujee.",
+    "Vierte la salsa alrededor de la coliflor en la fuente, napa la coliflor con un par de cucharadas y hornea 20 minutos más, hasta que esté dorada por arriba, tierna al pincharla en el centro y la salsa burbujee. Mientras, pica el perejil.",
     "Espolvorea el perejil picado y sirve la coliflor en cuñas con la salsa y los garbanzos."
   ],
   nutricion: { kcal: 570, prot: 20, hc: 60, grasa: 28 },
@@ -702,7 +702,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Enjuaga los judiones y sécalos muy bien con papel de cocina, con cuidado de no romperlos: cuanto más secos, más crujientes quedarán.",
     "Mézclalos en una bandeja con papel con 1 cda de aceite, el orégano, sal y pimienta, extiéndelos en una sola capa y ásalos 25 minutos, sacudiendo la bandeja a mitad, hasta que la piel esté tostada y crujiente y algunos se abran.",
-    "Mientras, prepara la skordalia: remoja el pan en agua 2 minutos y estrújalo. Tritura las almendras con 2 dientes de ajo hasta que queden finas, añade el pan, el vinagre, sal y 2 cda de agua y, con la batidora en marcha, 2 cda de aceite en hilo, hasta lograr una crema espesa y lisa. Si queda muy densa, añade otra cucharada de agua.",
+    "Mientras, prepara la skordalia: remoja el pan en agua 2 minutos y estrújalo. Tritura las almendras con 2 dientes de ajo hasta que queden finas, añade el pan, el vinagre, sal y 2 cda de agua y, con la batidora en marcha, 2 cda de aceite en hilo, hasta lograr una crema espesa y lisa. Si queda muy densa, añade otra cucharada de agua. Pica el eneldo.",
     "Lamina el ajo restante y dóralo 1 minuto en una sartén con la última cucharada de aceite a fuego medio. Añade las espinacas a puñados y saltéalas 2–3 minutos, hasta que se ablanden. Sálalas y riégalas con el zumo de medio limón.",
     "Extiende la skordalia en la base de dos platos y coloca encima las espinacas, escurridas de su jugo, y los judiones recién sacados del horno.",
     "Termina con el eneldo picado, un poco de ralladura de limón y el resto del limón en gajos para exprimir en la mesa."
@@ -752,8 +752,8 @@ window.RECETAS_SEED.push({
     "Calienta 2 cda de aceite en una cazuela a fuego fuerte y dora el seitán 5–6 minutos, hasta que esté tostado por todas las caras. Sácalo y resérvalo.",
     "Baja a fuego medio, añade la otra cucharada de aceite y la cebolla y sofríe 8 minutos, hasta que esté dorada. Agrega el ajo, el pimentón y el tomate concentrado y remueve 1 minuto.",
     "Vierte el vino tinto y el vinagre y deja hervir 2 minutos raspando el fondo, hasta que desaparezca el olor a alcohol.",
-    "Añade el tomate triturado, la canela en rama, los clavos, el laurel, el azúcar, sal, pimienta y 200 ml de agua. Devuelve el seitán, tapa y cuece a fuego suave 30 minutos, removiendo de vez en cuando, hasta que la salsa esté espesa, oscura y brillante.",
-    "Cuando falten 12 minutos, cuece los bucatini en abundante agua con sal hasta que estén al dente. Escúrrelos reservando un vaso del agua de cocción.",
+    "Añade el tomate triturado, la canela en rama, los clavos, el laurel, el azúcar, sal, pimienta y 200 ml de agua. Devuelve el seitán, tapa y cuece a fuego suave 30 minutos, removiendo de vez en cuando, hasta que la salsa esté espesa, oscura y brillante. Mientras, pon a calentar abundante agua con sal para la pasta.",
+    "Cuando falten 12 minutos, cuece los bucatini en el agua hirviendo hasta que estén al dente. Escúrrelos reservando un vaso del agua de cocción.",
     "Retira la canela, los clavos y el laurel. Mezcla los bucatini con la mitad de la salsa, con un chorrito del agua de cocción si hace falta, y sírvelos con el seitán y el resto de la salsa por encima."
   ],
   nutricion: { kcal: 745, prot: 44, hc: 86, grasa: 25 },
@@ -797,9 +797,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la soja texturizada en 250 ml del caldo caliente durante 10 minutos y escúrrela apretando bien con las manos: cuanto más seca quede, mejor se ligan las albóndigas.",
-    "Ralla la mitad de la cebolla y pica fino el resto; pica el ajo y el perejil. En un bol, mezcla la soja con la cebolla rallada, 2 dientes de ajo, la mitad del perejil, cucharadita y media de comino, el tomate concentrado, el pan rallado, la harina de garbanzo, sal y pimienta. Amasa 2 minutos, añadiendo 2–3 cda de agua, hasta que la masa se pegue y mantenga la forma.",
-    "Precalienta el horno a 200 °C. Forma 10 albóndigas alargadas, como pequeños puros, colócalas en una bandeja con papel, píntalas con 1 cda de aceite y hornéalas 15 minutos, hasta que estén doradas y firmes.",
+    "Precalienta el horno a 200 °C. Hidrata la soja texturizada en 250 ml del caldo caliente durante 10 minutos; mientras, ralla la mitad de la cebolla y pica fino el resto, y pica el ajo y el perejil. Escurre la soja apretando bien con las manos: cuanto más seca quede, mejor se ligan las albóndigas.",
+    "En un bol, mezcla la soja con la cebolla rallada, 2 dientes de ajo, la mitad del perejil, cucharadita y media de comino, el tomate concentrado, el pan rallado, la harina de garbanzo, sal y pimienta. Amasa 2 minutos, añadiendo 2–3 cda de agua, hasta que la masa se pegue y mantenga la forma.",
+    "Forma 10 albóndigas alargadas, como pequeños puros, colócalas en una bandeja con papel, píntalas con 1 cda de aceite y hornéalas 15 minutos, hasta que estén doradas y firmes.",
     "Mientras, sofríe la cebolla picada en una cazuela con 1 cda de aceite 5 minutos. Añade el ajo restante y, 1 minuto después, el vino tinto; deja que se evapore 2 minutos. Agrega el tomate triturado, la canela, el resto del comino y sal, y cuece 10 minutos.",
     "Para el pilaf, calienta la última cucharada de aceite en un cazo, rehoga el arroz lavado 1 minuto, añade los 250 ml de caldo restantes y sal, y cuece tapado a fuego mínimo 12 minutos. Déjalo reposar 5 minutos sin destapar.",
     "Pasa las soutzoukakia a la salsa y cuécelas tapadas a fuego suave 10 minutos, moviendo la cazuela en lugar de remover, para que absorban el sabor sin deshacerse.",

@@ -41,8 +41,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si las truchas vienen enteras, sácales los lomos con un cuchillo fino. Corta los lomos en trozos de 4 cm, sálalos ligeramente y guárdalos en la nevera. Quita las agallas de las cabezas (amargan el caldo) y lava cabezas y espinas bajo el grifo.",
     "Pon cabezas y espinas en una cazuela con 1,2 litros de agua fría, la cebolla entera pelada, el laurel, 6 granos de pimienta y los tallos del eneldo y del perejil. Lleva a ebullición a fuego medio y retira la espuma gris que suba a la superficie.",
-    "Baja el fuego al mínimo y cuece 20 minutos con un borboteo apenas perceptible: si hierve fuerte, el caldo se enturbia. Cuélalo por un colador fino (forrado con un paño limpio si lo quieres cristalino) y desecha espinas, cebolla y tallos.",
-    "Vuelve a poner el caldo al fuego, añade la patata pelada en dados de 2 cm y la zanahoria en rodajas finas, sala y cuece 12-15 minutos, hasta que la patata esté tierna al pincharla.",
+    "Baja el fuego al mínimo y cuece 20 minutos con un borboteo apenas perceptible: si hierve fuerte, el caldo se enturbia. Cuélalo por un colador fino (forrado con un paño limpio si lo quieres cristalino) y desecha espinas, cebolla y tallos. Mientras cuece el caldo, pela la patata y córtala en dados de 2 cm, corta la zanahoria en rodajas finas y pica las hojas del eneldo y del perejil.",
+    "Vuelve a poner el caldo al fuego, añade la patata y la zanahoria, sala y cuece 12-15 minutos, hasta que la patata esté tierna al pincharla.",
     "Añade los trozos de trucha y cuece a fuego suave 4-5 minutos, sin remover, hasta que la carne esté opaca y se separe en lascas. Prueba y ajusta de sal.",
     "Apaga el fuego, vierte el vodka si lo usas, añade el eneldo y el perejil picados, tapa y deja reposar 5 minutos para que el caldo se perfume.",
     "Sirve en plato hondo con pescado, patata y zanahoria en cada ración y el pan de centeno al lado."
@@ -135,8 +135,8 @@ window.RECETAS_SEED.push({
     "Corta la cebolla en aros finos y rehógala en la mantequilla a fuego medio-bajo 8-10 minutos, hasta que esté blanda y ligeramente dorada.",
     "Pasa las doradas por la harina y sacude el exceso. Calienta el aceite en una sartén grande a fuego medio-alto y fríelas 4 minutos por cada lado, hasta que la piel esté dorada y crujiente; no hace falta que se hagan por dentro.",
     "Coloca las doradas en una fuente de horno y reparte la cebolla alrededor y por encima. Mezcla la smetana con 3 cucharadas de agua y una pizca de sal y viértela sobre el pescado.",
-    "Hornea 15-18 minutos, hasta que la salsa burbujee y tome manchas doradas y la carne junto a la espina esté opaca.",
-    "Parte las patatas por la mitad, pásalas por la salsa de la fuente y espolvorea todo con el eneldo picado. Sirve enseguida."
+    "Hornea 15-18 minutos, hasta que la salsa burbujee y tome manchas doradas y la carne junto a la espina esté opaca. Mientras, pica el eneldo.",
+    "Parte las patatas por la mitad, pásalas por la salsa de la fuente y espolvorea todo con el eneldo. Sirve enseguida."
   ],
   nutricion: { kcal: 715, prot: 43, hc: 48, grasa: 39 },
   etiquetas: ["tradicional", "al horno", "alta en proteína", "otoño", "poco especiada"],
@@ -177,9 +177,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la merluza en trozos de 5-6 cm, sécala bien con papel de cocina, sálala y pásala por la harina sacudiendo el exceso.",
+    "Ralla la zanahoria, la chirivía y el apionabo con el rallador grueso y corta la cebolla en juliana fina. Corta la merluza en trozos de 5-6 cm, sécala bien con papel de cocina, sálala y pásala por la harina sacudiendo el exceso.",
     "Calienta 2 cucharadas de aceite en una sartén a fuego medio-alto y fríe el pescado 3 minutos por cada lado, hasta que esté dorado y opaco. Colócalo en una fuente honda en una sola capa.",
-    "Ralla la zanahoria, la chirivía y el apionabo con el rallador grueso y corta la cebolla en juliana fina.",
     "En la misma sartén, con las otras 2 cucharadas de aceite, rehoga la cebolla 5 minutos a fuego medio. Añade las raíces ralladas y rehógalas 10 minutos, removiendo, hasta que se ablanden y reduzcan de volumen.",
     "Incorpora el tomate concentrado, 150 ml de agua, el laurel, la pimienta de Jamaica, el azúcar, sal y pimienta. Tapa y cuece 10-12 minutos, hasta que las verduras estén tiernas y la salsa quede espesa, sin caldo suelto. Debe saber agridulce y bien sazonada.",
     "Retira el laurel y los granos de pimienta y cubre el pescado con la verdura caliente, de forma que no quede ningún trozo a la vista.",
@@ -228,8 +227,8 @@ window.RECETAS_SEED.push({
     "Empieza por la ensalada, mejor la víspera o al menos 1 hora antes. Cuece en agua con sal las patatas con piel, la zanahoria y el apionabo pelados y enteros, y un huevo: saca el huevo a los 10 minutos, la zanahoria y el apionabo a los 15 y las patatas a los 20-25, cuando un cuchillo entre sin resistencia. Deja enfriar.",
     "Pela las patatas y el huevo y corta todo en dados de 1 cm. Pica muy fino la cebolla y los pepinillos.",
     "Mezcla la mayonesa con la mostaza, 2 cucharadas del líquido de los pepinillos, sal y pimienta, y únelo con suavidad a las verduras, el huevo, la cebolla y los pepinillos. Tapa y guarda en la nevera.",
-    "Corta la carpa en 4 trozos y hazle cortes finos en la piel cada 5 mm sin llegar a atravesar la carne: así se cortan las espinas finas y el pescado no se encoge al freír. Sálala, déjala 10 minutos y sécala con papel de cocina.",
-    "Prepara tres platos: harina, el otro huevo batido con una pizca de sal y pan rallado. Pasa cada trozo por los tres, por este orden, y presiona bien el pan rallado con la mano.",
+    "Corta la carpa en 4 trozos y hazle cortes finos en la piel cada 5 mm sin llegar a atravesar la carne: así se cortan las espinas finas y el pescado no se encoge al freír. Sálala y déjala 10 minutos; mientras, prepara tres platos: harina, el otro huevo batido con una pizca de sal y pan rallado. Seca la carpa con papel de cocina.",
+    "Pasa cada trozo por los tres platos, por este orden, y presiona bien el pan rallado con la mano.",
     "Calienta el aceite en una sartén honda a 170 °C (un dado de pan debe dorarse en unos 40 segundos). Fríe la carpa 3-4 minutos por cada lado, hasta que el rebozado esté dorado intenso y el pescado opaco por dentro. Escúrrela sobre una rejilla o papel de cocina.",
     "Sirve la carpa recién frita con la ensalada fría y cuñas de limón."
   ],
@@ -271,8 +270,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca las rodajas de rape con papel de cocina, sálalas y déjalas 15 minutos a temperatura ambiente.",
-    "Corta las cebollas en juliana fina. En una cazuela ancha y baja, rehógalas con 2 cucharadas de aceite a fuego medio-bajo 12-15 minutos, hasta que estén muy blandas y apenas doradas. Añade el ajo laminado y cocina 1 minuto más.",
+    "Seca las rodajas de rape con papel de cocina, sálalas y déjalas 15 minutos a temperatura ambiente. Mientras, corta las cebollas en juliana fina, lamina el ajo y pica el perejil.",
+    "En una cazuela ancha y baja, rehoga las cebollas con 2 cucharadas de aceite a fuego medio-bajo 12-15 minutos, hasta que estén muy blandas y apenas doradas. Añade el ajo y cocina 1 minuto más.",
     "Incorpora el tomate concentrado y remueve 1 minuto. Vierte el vino y el vinagre y deja que el alcohol se evapore 2-3 minutos. Añade el tomate triturado, el laurel, 150 ml de agua y pimienta, y cuece 10 minutos, hasta que la salsa espese.",
     "Coloca el rape en una sola capa y baña cada rodaja con un poco de salsa. A partir de aquí no se remueve: mece la cazuela cogiéndola por las asas para que el pescado no se rompa. Tapa y cuece a fuego suave 12-15 minutos, hasta que la carne se despegue del hueso con facilidad.",
     "Mientras, prepara la polenta: lleva a ebullición 500 ml de agua con sal, echa la polenta en forma de lluvia sin dejar de batir con unas varillas y cocina 5-8 minutos (según el envase), removiendo, hasta que esté espesa y cremosa. Añade la última cucharada de aceite.",
@@ -355,11 +354,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Sala los trozos de corvina y guárdalos en la nevera mientras preparas la base.",
-    "Pica la cebolla muy fina y rehógala en una cazuela ancha con el aceite a fuego medio 10 minutos, hasta que esté blanda y transparente, sin que tome color.",
-    "Aparta la cazuela del fuego, añade los dos pimentones y remueve 20 segundos (si se queman, amargan). Vierte enseguida 600 ml de agua caliente, el tomate concentrado, el laurel, el pimiento rojo en tiras y la guindilla si quieres más picante.",
-    "Vuelve al fuego y cuece 15 minutos a fuego medio, hasta que la cebolla casi se deshaga y el caldo espese y tome un color rojo intenso.",
+    "Pica la cebolla muy fina y rehógala en una cazuela ancha con el aceite a fuego medio 10 minutos, hasta que esté blanda y transparente, sin que tome color. Mientras, corta el pimiento rojo en tiras.",
+    "Aparta la cazuela del fuego, añade los dos pimentones y remueve 20 segundos (si se queman, amargan). Vierte enseguida 600 ml de agua caliente, el tomate concentrado, el laurel, el pimiento rojo y la guindilla si quieres más picante.",
+    "Vuelve al fuego y cuece 15 minutos a fuego medio, hasta que la cebolla casi se deshaga y el caldo espese y tome un color rojo intenso. Mientras, pon a hervir agua con sal para los tallarines.",
     "Coloca el pescado con la piel hacia abajo y sacude la cazuela por las asas para que se hunda en el caldo; no remuevas con cuchara. Cuece 10-12 minutos a fuego medio-suave, hasta que la carne esté opaca y firme. Prueba de sal y de picante.",
-    "Mientras, cuece los tallarines en agua con sal el tiempo que indique el paquete y escúrrelos.",
+    "Mientras, cuece los tallarines en el agua hirviendo el tiempo que indique el paquete y escúrrelos.",
     "Sirve los tallarines en plato hondo con el pescado y mucho caldo por encima."
   ],
   nutricion: { kcal: 625, prot: 43, hc: 70, grasa: 19 },
@@ -404,8 +403,8 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén a fuego medio y rehoga la cebolla y la zanahoria 10 minutos, hasta que estén blandas. Añade el ajo, aparta la sartén del fuego, echa el pimentón y remueve unos segundos.",
     "Vuelve al fuego, añade el tomate, el vino, el laurel, sal y pimienta, y cuece 5 minutos, hasta que el tomate se ablande.",
     "Pasa la verdura a una fuente de horno. Seca las caballas, sálalas por dentro y por fuera, hazles 2 cortes en cada lado y mete en cada corte media rodaja de limón. Colócalas sobre la verdura, medio hundidas.",
-    "Hornea 25 minutos, hasta que la piel esté tersa y dorada y la carne se separe de la espina con facilidad; la salsa habrá reducido y estará jugosa.",
-    "Espolvorea con el perejil picado y sirve con el resto del limón en cuñas y pan para mojar."
+    "Hornea 25 minutos, hasta que la piel esté tersa y dorada y la carne se separe de la espina con facilidad; la salsa habrá reducido y estará jugosa. Mientras, pica el perejil.",
+    "Espolvorea con el perejil y sirve con el resto del limón en cuñas y pan para mojar."
   ],
   nutricion: { kcal: 645, prot: 37, hc: 43, grasa: 36 },
   etiquetas: ["tradicional", "al horno", "económica", "sin lácteos", "otoño", "alta en proteína", "poco especiada"],
@@ -443,12 +442,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 8 minutos. Añade las pencas de las acelgas en trozos de 1 cm y, 2 minutos después, las hojas troceadas; cuece 5 minutos más y escurre bien.",
-    "Pica muy fino 3 dientes de ajo y el perejil y mézclalos con el pan rallado.",
+    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 8 minutos; mientras, separa las pencas de las hojas de las acelgas, corta las pencas en trozos de 1 cm y trocea las hojas. Añade las pencas y, 2 minutos después, las hojas; cuece 5 minutos más y escurre bien.",
+    "Pica muy fino 3 dientes de ajo y el perejil y mézclalos con el pan rallado. Pica muy fino también el diente de ajo restante.",
     "Seca los filetes de trucha, salpimiéntalos y pásalos ligeramente por la harina por ambos lados, sacudiendo el exceso: la piel quedará más crujiente.",
     "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y pon la trucha con la piel hacia abajo, presionando con una espátula los primeros 20 segundos para que no se curve. Cocina 3 minutos, hasta que la piel esté crujiente, dale la vuelta y cocina 1 minuto más. Pásala a un plato caliente.",
     "Baja el fuego, añade 1 cucharada de aceite y la mezcla de ajo, perejil y pan rallado y tuéstala 1 minuto, removiendo, hasta que esté dorada y huela a ajo. Apaga y añade el zumo de medio limón.",
-    "Chafa ligeramente las patatas y las acelgas con un tenedor y mézclalas con el diente de ajo restante picado muy fino, la última cucharada de aceite y sal: es la blitva.",
+    "Chafa ligeramente las patatas y las acelgas con un tenedor y mézclalas con el diente de ajo restante, la última cucharada de aceite y sal: es la blitva.",
     "Sirve la trucha con la miga de ajo por encima, la blitva al lado y el resto del limón en cuñas."
   ],
   nutricion: { kcal: 625, prot: 40, hc: 46, grasa: 31 },
@@ -488,11 +487,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pepino en rodajas muy finas, mézclalo con una pizca de sal, el zumo del medio limón y un tercio del eneldo picado, y guárdalo en la nevera mientras haces el resto.",
+    "Pica el eneldo. Corta el pepino en rodajas muy finas, mézclalo con una pizca de sal, el zumo del medio limón y un tercio del eneldo, y guárdalo en la nevera mientras haces el resto. Mezcla la smetana con la salsa de rábano picante y otro tercio del eneldo.",
     "Pela las patatas y rállalas junto con la cebolla por la parte fina del rallador (o la gruesa si los prefieres más rústicos). Pon la mezcla en un paño limpio y retuércelo con fuerza sobre un bol para sacar todo el líquido.",
     "Deja reposar ese líquido 3 minutos, tira el agua con cuidado y recupera el almidón blanco que queda en el fondo. Añádelo a la patata con el huevo, la harina, sal y pimienta y mezcla bien. Trabaja rápido para que la patata no se oscurezca.",
     "Calienta 2 cucharadas de aceite en una sartén grande a fuego medio-alto. Pon cucharadas de masa y aplánalas en tortitas de 8 cm y 1 cm de grosor. Fríelas 3-4 minutos por cada lado, hasta que estén doradas y crujientes por los bordes. Haz una segunda tanda con el resto del aceite y escúrrelas sobre papel de cocina.",
-    "Mezcla la smetana con la salsa de rábano picante y otro tercio del eneldo picado.",
     "Sirve los draniki recién hechos con la trucha ahumada en lascas por encima, una cucharada de smetana, el resto del eneldo y el pepino escurrido al lado."
   ],
   nutricion: { kcal: 665, prot: 31, hc: 57, grasa: 35 },
@@ -577,11 +575,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata, córtala en trozos y cuécela en agua con sal 15 minutos. En los últimos 6 minutos, baja el fuego y añade el bacalao a la misma cazuela, sumergido: debe quedar opaco y separarse en lascas. Escurre todo y desmiga el pescado quitando piel y espinas.",
-    "Pica la cebolla fina y dórala en 15 g de mantequilla a fuego medio-bajo 10 minutos, hasta que tenga color caramelo claro.",
-    "Chafa la patata con un tenedor y mézclala con el bacalao, la mitad de la cebolla, el eneldo picado, la ralladura del medio limón, sal y pimienta. Deja templar: un relleno caliente rompe las obleas.",
-    "Precalienta el horno a 200 °C y bate el huevo. Pon una cucharada colmada de relleno (unos 30 g) en el centro de cada oblea, pinta el borde con huevo, dobla en media luna y sella apretando con un tenedor.",
+    "Mientras se cuecen, pica la cebolla fina y dórala en 15 g de mantequilla a fuego medio-bajo 10 minutos, hasta que tenga color caramelo claro. Pica el eneldo.",
+    "Chafa la patata con un tenedor y mézclala con el bacalao, la mitad de la cebolla, el eneldo, la ralladura del medio limón, sal y pimienta. Deja templar: un relleno caliente rompe las obleas. Mientras, precalienta el horno a 200 °C.",
+    "Bate el huevo. Pon una cucharada colmada de relleno (unos 30 g) en el centro de cada oblea, pinta el borde con huevo, dobla en media luna y sella apretando con un tenedor.",
     "Coloca los pierogi en una bandeja con papel de horno, píntalos con el resto del huevo y hornéalos 15-18 minutos, hasta que estén dorados e hinchados.",
-    "Mientras, mezcla la smetana con el cebollino picado, unas gotas de zumo de limón y una pizca de sal. Calienta el resto de la cebolla en la sartén con los 10 g de mantequilla que quedan.",
+    "Mientras, pica el cebollino y mézclalo con la smetana, unas gotas de zumo de limón y una pizca de sal. Calienta el resto de la cebolla en la sartén con los 10 g de mantequilla que quedan.",
     "Sirve los pierogi con la cebolla a la mantequilla por encima, como se hace en Polonia, y la smetana al lado."
   ],
   nutricion: { kcal: 690, prot: 35, hc: 68, grasa: 30 },
@@ -626,9 +624,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "La víspera, mezcla la sal gruesa, el azúcar, 1 cucharadita de pimienta molida gruesa y la mitad del eneldo picado con sus tallos. Seca bien el salmón con papel de cocina.",
     "Extiende un tercio de la mezcla en un recipiente justo para el salmón, coloca el lomo con la piel hacia abajo, rocíalo con el vodka y cúbrelo con el resto de la mezcla. Tápalo con film en contacto, ponle un peso encima (un brik de leche) y déjalo en la nevera 12 horas; si puedes, dale la vuelta a mitad.",
-    "Al día siguiente, enjuaga el salmón rápidamente bajo el grifo frío y sécalo a conciencia. Debe estar firme, brillante y de un color más intenso.",
-    "Tuesta el trigo sarraceno en una cazuela en seco 2-3 minutos, hasta que huela a avellana. Añade 200 ml de agua hirviendo y una pizca de sal, tapa y cuece a fuego mínimo 12-15 minutos, hasta que absorba el agua y el grano esté tierno pero entero. Extiéndelo en una fuente para que se temple.",
-    "Corta el pepino en dados, los rábanos en láminas finas y la cebolleta en aros. Mézclalos con el alforfón tibio, el aceite, el zumo del medio limón, sal y el resto del eneldo picado.",
+    "Al día siguiente, enjuaga el salmón rápidamente bajo el grifo frío y sécalo a conciencia. Debe estar firme, brillante y de un color más intenso. Pon a hervir 200 ml de agua.",
+    "Tuesta el trigo sarraceno en una cazuela en seco 2-3 minutos, hasta que huela a avellana. Añade 200 ml de agua hirviendo y una pizca de sal, tapa y cuece a fuego mínimo 12-15 minutos, hasta que absorba el agua y el grano esté tierno pero entero; mientras, corta el pepino en dados, los rábanos en láminas finas y la cebolleta en aros, y pica el resto del eneldo. Extiende el alforfón en una fuente para que se temple.",
+    "Mezcla el pepino, los rábanos y la cebolleta con el alforfón tibio, el aceite, el zumo del medio limón, sal y el resto del eneldo.",
     "Mezcla la smetana con la salsa de rábano picante.",
     "Corta el salmón en lonchas finas al bies con un cuchillo largo y bien afilado, separándolas de la piel. Sirve la ensalada con las lonchas por encima y la smetana al lado."
   ],
@@ -802,9 +800,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el salmón en dados y pícalo muy fino con un cuchillo bien afilado, hasta que parezca carne picada.",
-    "Ralla media cebolla y escúrrela apretando con las manos. Añádela al salmón con el ajo rallado, el pan rallado, el pimentón, el bicarbonato, sal y pimienta, y amasa 1 minuto, hasta que la mezcla esté pegajosa y ligada. Déjala 10 minutos en la nevera.",
+    "Ralla media cebolla y escúrrela apretando con las manos. Añádela al salmón con el ajo rallado, el pan rallado, el pimentón, el bicarbonato, sal y pimienta, y amasa 1 minuto, hasta que la mezcla esté pegajosa y ligada. Déjala 10 minutos en la nevera; mientras, pica fina la otra media cebolla y el perejil, y corta el tomate en gajos.",
     "Con las manos húmedas, forma 10 cilindros de unos 8 cm de largo y 2,5 cm de grosor.",
-    "Pica fina la otra media cebolla y el perejil, y corta el tomate en gajos.",
     "Calienta la plancha a fuego fuerte con una película de aceite y cocina los ćevapi 5-6 minutos, girándolos cada minuto y medio, hasta que estén dorados por todos los lados y firmes al tacto.",
     "En los últimos 2 minutos, calienta los panes de pita en la plancha por ambos lados, apretándolos sobre el jugo que han soltado los ćevapi, como se hace con el pan somun en Sarajevo.",
     "Abre cada pita, úntala con kajmak y mete dentro 5 ćevapi con la cebolla picada y el perejil. Sirve con el tomate y, si te gusta, el ajvar."
@@ -849,10 +846,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Prueba el chucrut: si está muy ácido, enjuágalo bajo el grifo; escúrrelo apretando con las manos.",
-    "En una cazuela apta para horno, derrite la mantequilla a fuego medio y rehoga la cebolla en juliana 6 minutos, hasta que esté blanda. Añade la manzana pelada en bastones, la alcaravea y el laurel y cocina 2 minutos.",
+    "Precalienta el horno a 200 °C. Prueba el chucrut: si está muy ácido, enjuágalo bajo el grifo; escúrrelo apretando con las manos. Corta la cebolla en juliana y pela la manzana y córtala en bastones.",
+    "En una cazuela apta para horno, derrite la mantequilla a fuego medio y rehoga la cebolla 6 minutos, hasta que esté blanda. Añade la manzana, la alcaravea y el laurel y cocina 2 minutos.",
     "Incorpora el chucrut, el vino y el caldo, tapa y brasea a fuego suave 20 minutos, removiendo de vez en cuando, hasta que la col esté tierna y casi sin líquido. Pruébalo con pimienta: debe quedar agridulce y suave.",
-    "Mientras, pela las patatas, córtalas en trozos y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas y mézclalas con la mitad del eneldo picado y un hilo de aceite.",
+    "Mientras, pela las patatas, córtalas en trozos y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas; mientras, pica el eneldo. Escúrrelas y mézclalas con la mitad del eneldo y un hilo de aceite.",
     "Seca el abadejo, sálalo, espolvoréalo con el pimentón y úntalo con el resto del aceite. Colócalo sobre el chucrut, sin tapar, y hornea 10-12 minutos, hasta que esté opaco y se separe en lascas.",
     "Espolvorea con el resto del eneldo y sirve directamente de la cazuela, con las patatas al lado."
   ],
@@ -893,12 +890,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la sepia con papel de cocina y córtala en dados de 2 cm.",
+    "Seca la sepia con papel de cocina y córtala en dados de 2 cm. Pica la cebolla y el ajo y pon a calentar el caldo.",
     "Tuesta el trigo sarraceno en la cazuela en seco a fuego medio 3 minutos, removiendo, hasta que huela a tostado; pásalo a un plato.",
-    "Calienta 2 cucharadas de aceite en la misma cazuela y rehoga la cebolla picada 6 minutos, hasta que esté transparente. Añade el ajo picado 1 minuto, sube el fuego y saltea la sepia 5 minutos, hasta que suelte su agua y esta se evapore.",
+    "Calienta 2 cucharadas de aceite en la misma cazuela y rehoga la cebolla 6 minutos, hasta que esté transparente. Añade el ajo 1 minuto, sube el fuego y saltea la sepia 5 minutos, hasta que suelte su agua y esta se evapore.",
     "Añade el tomate concentrado y remueve 1 minuto. Vierte el vino y deja reducir 2 minutos. Disuelve la tinta en un cazo de caldo caliente (unos 100 ml) y añádela.",
-    "Incorpora el alforfón y 300 ml del caldo, tapa y cuece a fuego suave 15-18 minutos, removiendo un par de veces y añadiendo poco a poco el caldo restante (unos 100 ml) si se seca. Está listo cuando el grano está tierno pero entero y el conjunto queda meloso y de un negro brillante.",
-    "Fuera del fuego, añade el perejil picado, la ralladura del medio limón, la última cucharada de aceite, sal y pimienta. Deja reposar 3 minutos tapado.",
+    "Incorpora el alforfón y 300 ml del caldo, tapa y cuece a fuego suave 15-18 minutos, removiendo un par de veces y añadiendo poco a poco el caldo restante (unos 100 ml) si se seca. Está listo cuando el grano está tierno pero entero y el conjunto queda meloso y de un negro brillante. Mientras, pica el perejil.",
+    "Fuera del fuego, añade el perejil, la ralladura del medio limón, la última cucharada de aceite, sal y pimienta. Deja reposar 3 minutos tapado.",
     "Sirve con el limón en cuñas."
   ],
   nutricion: { kcal: 645, prot: 44, hc: 62, grasa: 24 },

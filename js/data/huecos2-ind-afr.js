@@ -90,7 +90,7 @@ window.RECETAS_SEED.push({
     "Cuece los huevos 10 minutos desde que el agua hierva, enfríalos en agua fría y pélalos. Hazles 3 o 4 cortes superficiales a lo largo: así el masala se agarra y penetra.",
     "Lava el arroz hasta que el agua salga clara y cuécelo en 280 ml de agua con sal, tapado y a fuego mínimo, 12 minutos. Deja reposar 5 minutos sin destapar.",
     "Mientras, calienta el aceite de coco en una sartén ancha a fuego medio, añade las semillas de hinojo y la mitad de las hojas de curry (chisporrotean: aparta la cara) y después la cebolla con una pizca de sal.",
-    "Cocina la cebolla 18-20 minutos removiendo de vez en cuando, hasta que esté marrón dorada y muy reducida. Este «roast» lento es el plato: si la sacas pálida, la salsa queda dulzona y sin profundidad. Si se pega, añade una cucharada de agua y raspa.",
+    "Cocina la cebolla 18-20 minutos removiendo de vez en cuando, hasta que esté marrón dorada y muy reducida. Este «roast» lento es el plato: si la sacas pálida, la salsa queda dulzona y sin profundidad. Si se pega, añade una cucharada de agua y raspa. Mientras, pica el ajo, el jengibre y el tomate.",
     "Añade el ajo, el jengibre picados y los chiles verdes y cocina 2 minutos. Baja el fuego, incorpora el chile kashmiri, el cilantro molido y la cúrcuma y remueve 30 segundos sin dejar que se quemen.",
     "Agrega el tomate picado y cocina 5 minutos, aplastándolo, hasta que se deshaga y veas el aceite separarse en los bordes del masala.",
     "Incorpora los huevos, el garam masala, la pimienta y el resto de hojas de curry. Rueda los huevos en el masala 3 minutos a fuego suave para que se cubran y tomen color. Debe quedar una salsa espesa que se agarra, no un curry caldoso.",
@@ -223,7 +223,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y córtalas en rodajas de 3 mm. Enjuágalas y sécalas bien con un paño: sin almidón suelto y secas, se doran en vez de pegarse.",
+    "Pela las patatas y córtalas en rodajas de 3 mm. Enjuágalas y sécalas bien con un paño: sin almidón suelto y secas, se doran en vez de pegarse. Corta la cebolla en juliana y pica el ajo y el chile.",
     "Calienta el aceite en una sartén ancha con tapa a fuego medio y sofríe la cebolla en juliana 5 minutos, hasta que empiece a dorarse. Añade el ajo y el chile picados, 1 minuto, y después la cúrcuma, el chile kashmiri y el comino, 20 segundos.",
     "Incorpora las patatas con sal, mézclalas para que se tiñan de amarillo y repártelas en una capa uniforme. Tapa y cocina 12 minutos a fuego medio-bajo, removiendo dos veces, hasta que las patatas estén casi tiernas (un cuchillo entra con poca resistencia).",
     "Añade el tomate en dados y el azúcar y cocina destapado 4-5 minutos, sin remover, hasta que las patatas estén tiernas y el fondo forme una costra dorada. Rocía entonces el vinagre y deja que se evapore 30 segundos: si lo añades antes, el ácido impide que la patata se ablande.",
@@ -273,7 +273,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la soja en el caldo caliente 10 minutos. Escúrrela en un colador y apriétala con fuerza con las manos o con un cucharón: cuanto más seca quede, más sabor absorberá después y menos esponjosa será.",
+    "Hidrata la soja en el caldo caliente 10 minutos; mientras, pica fina la cebolla, pica el ajo, el jengibre y los chiles y ralla el tomate. Escurre la soja en un colador y apriétala con fuerza con las manos o con un cucharón: cuanto más seca quede, más sabor absorberá después y menos esponjosa será.",
     "Calienta el aceite en una sartén amplia a fuego fuerte y dora la soja 5 minutos, removiendo poco, hasta que tenga puntos tostados. Este paso le da el sabor que a la carne le da el sellado. Resérvala.",
     "En la misma sartén, a fuego medio, tuesta el comino 20 segundos y añade la cebolla picada fina con sal. Cocina 8 minutos, hasta que esté dorada.",
     "Añade el ajo, el jengibre y los chiles picados (1 minuto) y después la cúrcuma, el chile kashmiri y el cilantro molido. Incorpora enseguida el tomate rallado y cocina 5 minutos, hasta que la salsa se espese y el aceite brille en los bordes.",
@@ -323,7 +323,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor (o en agua hirviendo) 10 minutos: le quita el amargor y lo abre para que absorba el adobo.",
     "Ralla el jengibre y el ajo y mézclalos con el yogur, la cúrcuma, el chile kashmiri y sal. Escurre el tempeh y déjalo en este adobo al menos 15 minutos.",
-    "Mientras se adoba, calienta el aceite de mostaza en una cazuela a fuego fuerte hasta que humee ligeramente y bájalo a medio (así pierde su aspereza). Dora en él la patata en dados grandes 5 minutos y resérvala.",
+    "Mientras se adoba, pela la patata y córtala en dados grandes, y corta la cebolla en juliana. Calienta el aceite de mostaza en una cazuela a fuego fuerte hasta que humee ligeramente y bájalo a medio (así pierde su aspereza). Dora en él la patata en dados grandes 5 minutos y resérvala.",
     "Añade al aceite el laurel, el cardamomo y el clavo, y después el azúcar: espera 30 segundos a que se caramelice a color avellana. Incorpora la cebolla en juliana y cocina 12 minutos hasta que esté marrón oscura.",
     "Añade el tempeh con todo su adobo a fuego medio y empieza el «koshano»: remueve y raspa el fondo cada minuto durante 12-15 minutos. Cuando se pegue, echa un chorrito de agua y raspa. Está listo cuando el masala está marrón chocolate, espeso, y el aceite se separa.",
     "Devuelve la patata, añade 200 ml de agua caliente, tapa y cuece a fuego suave 15 minutos, hasta que la patata esté tierna y la salsa espesa y brillante. Termina con el garam masala.",
@@ -371,7 +371,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Machaca en el mortero la pimienta y el hinojo, gruesos. Corta el seitán en dados de 2 cm y mézclalo con la cúrcuma, el chile kashmiri, el cilantro molido, la mitad de la mezcla machacada, el jengibre y el ajo rallados, el zumo de media lima y sal. Déjalo 10 minutos.",
+    "Machaca en el mortero la pimienta y el hinojo, gruesos. Corta el seitán en dados de 2 cm y mézclalo con la cúrcuma, el chile kashmiri, el cilantro molido, la mitad de la mezcla machacada, el jengibre y el ajo rallados, el zumo de media lima y sal. Déjalo 10 minutos; mientras, corta las chalotas en láminas finas y abre los chiles a lo largo.",
     "Pon a cocer el arroz lavado en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
     "En una sartén grande y seca, tuesta el coco a fuego medio-bajo 3 minutos, removiendo, hasta que esté dorado y huela a galleta. Resérvalo.",
     "Calienta el aceite de coco en la misma sartén a fuego medio, añade las hojas de curry (chisporrotean) y las chalotas en láminas finas con los chiles abiertos. Cocina 6-8 minutos hasta que las chalotas estén doradas.",
@@ -471,8 +471,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Tuesta en una sartén seca a fuego medio las semillas de mostaza, hinojo, comino y fenogreco 1-2 minutos, hasta que la mostaza empiece a saltar. Muélelas gruesas en el mortero y añade la nigella entera. El fenogreco amarga si se pasa: retíralo en cuanto huela a caramelo.",
     "Calienta el aceite de mostaza en la misma sartén hasta que humee, retíralo y deja que se temple: así se suaviza. Mézclalo en un bol con 75 g del yogur, la mezcla de especias, la cúrcuma, el chile kashmiri, el ajo y el jengibre rallados, el zumo de medio limón y sal.",
-    "Seca el tofu con papel, córtalo en dados de 3 cm y mézclalo con el adobo junto con la cebolla y el pimiento en trozos grandes. Deja marinar al menos 20 minutos (o toda la noche en la nevera).",
-    "Precalienta el horno a 230 °C con grill y aire. Reparte el tofu y las verduras en una bandeja con papel, separados, sin amontonar.",
+    "Seca el tofu con papel, córtalo en dados de 3 cm y mézclalo con el adobo junto con la cebolla y el pimiento en trozos grandes. Deja marinar al menos 20 minutos (o toda la noche en la nevera); 15 minutos antes de hornear, precalienta el horno a 230 °C con grill y aire.",
+    "Reparte el tofu y las verduras en una bandeja con papel, separados, sin amontonar.",
     "Hornea 15 minutos en la parte alta, dales la vuelta y hornea 5-8 minutos más, hasta que el tofu tenga los bordes chamuscados y la cebolla esté tierna con puntas tostadas.",
     "Mientras, mezcla el resto del yogur con la menta picada, unas gotas de limón y sal.",
     "Sirve el tikka caliente con cuñas de limón y el yogur de menta al lado."
@@ -609,8 +609,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara un niter kibbeh rápido: funde la mantequilla en un cazo pequeño a fuego bajo con 1 diente de ajo machacado, unas láminas de jengibre, el fenogreco, el cardamomo y la albahaca. Cocina 8 minutos sin que llegue a dorarse, hasta que la espuma se asiente y huela muy especiado. Cuélala.",
-    "Pica la cebolla muy fina y ponla en una sartén ancha sin grasa a fuego medio-bajo 5 minutos, removiendo, hasta que se ablande y pierda agua. Cocinarla en seco antes de la grasa es la técnica etíope: concentra su dulzor y espesa la salsa.",
+    "Prepara un niter kibbeh rápido: funde la mantequilla en un cazo pequeño a fuego bajo con 1 diente de ajo machacado, unas láminas de jengibre, el fenogreco, el cardamomo y la albahaca. Cocina 8 minutos sin que llegue a dorarse, hasta que la espuma se asiente y huela muy especiado; mientras, pica muy fina la cebolla y pica el resto del ajo y del jengibre. Cuela la mantequilla.",
+    "Pon la cebolla en una sartén ancha sin grasa a fuego medio-bajo 5 minutos, removiendo, hasta que se ablande y pierda agua. Cocinarla en seco antes de la grasa es la técnica etíope: concentra su dulzor y espesa la salsa.",
     "Añade dos tercios del niter kibbeh, el resto del ajo y jengibre picados y el berbere. Remueve 1 minuto a fuego bajo para que la especia se tueste en la mantequilla sin quemarse.",
     "Incorpora el tomate triturado, sal y 50 ml de agua y cocina 10 minutos a fuego medio, hasta que la salsa esté espesa y de un rojo profundo.",
     "Mientras, mezcla el requesón con la ralladura del medio limón, unas gotas de su zumo y sal: es el ayib, el queso fresco que suaviza el picante.",
@@ -884,7 +884,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara el awaze: en un bol mezcla el berbere con el vino tinto, el zumo del medio limón, 1 diente de ajo rallado, una pizca de sal y una cucharadita de agua, hasta tener una pasta roja espesa. Déjala reposar mientras cocinas: el vino hidrata la especia y suaviza su aspereza.",
-    "Funde la mantequilla a fuego bajo con el cardamomo y el resto del ajo machacado y la mitad del jengibre en láminas 5 minutos, sin que se dore. Cuela y reserva esta mantequilla especiada.",
+    "Funde la mantequilla a fuego bajo con el cardamomo y el resto del ajo machacado y la mitad del jengibre en láminas 5 minutos, sin que se dore; mientras, corta la cebolla morada en gajos finos, pica el resto del jengibre, corta los chiles en tiras y el tomate en gajos. Cuela y reserva esta mantequilla especiada.",
     "Corta el seitán en dados de 2 cm y sécalo muy bien con papel. Calienta el aceite en una sartén grande a fuego fuerte y saltéalo en una sola capa, sin moverlo el primer minuto, 5-6 minutos en total, hasta que tenga costra tostada por varias caras.",
     "Añade la cebolla morada en gajos finos, el resto del jengibre picado y los chiles en tiras y saltea 2 minutos a fuego fuerte: la cebolla debe quedar tierna por fuera y crujiente por dentro.",
     "Agrega el tomate en gajos y las agujas de una rama de romero y saltea 1 minuto. Fuera del fuego, añade la mantequilla especiada y una cucharada del awaze y mezcla para que todo brille. Ajusta la sal.",
