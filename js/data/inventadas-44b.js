@@ -40,11 +40,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima (una sartén con un par de latas) y déjalo 15 minutos. Al perder agua se dora mejor y absorbe la marinada como una esponja.",
-    "Prepara el encurtido rápido: corta la zanahoria y los rábanos en bastones finos y cúbrelos con el vinagre de arroz, 4 cucharadas de agua, el azúcar y una pizca de sal. Déjalos al menos 20 minutos.",
+    "Mientras, prepara el encurtido rápido: corta la zanahoria y los rábanos en bastones finos y cúbrelos con el vinagre de arroz, 4 cucharadas de agua, el azúcar y una pizca de sal. Déjalos al menos 20 minutos.",
     "Cuece el arroz lavado con 180 ml de agua, tapado y a fuego mínimo, 12 minutos, y déjalo reposar tapado.",
-    "Quita las hojas duras de la hierba limón y pica muy fina la parte blanca y tierna. Mézclala con el tamari, el azúcar moreno y el aceite de ajo. Corta el tofu en bastones, báñalo en esta marinada 10 minutos y, después, rebózalo ligeramente en la maicena.",
+    "Quita las hojas duras de la hierba limón y pica muy fina la parte blanca y tierna. Mézclala con el tamari, el azúcar moreno y el aceite de ajo. Corta el tofu en bastones y báñalo en esta marinada 10 minutos. Mientras, mezcla la veganesa con la ralladura y el zumo de media lima, corta el pepino en rodajas y el chile en rodajas y deshoja el cilantro. Después, reboza el tofu ligeramente en la maicena.",
     "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto y dora el tofu 2 minutos por cada lado, hasta que esté crujiente. Al final, vierte el resto de la marinada y deja que se pegue al tofu 30 segundos.",
-    "Mezcla la veganesa con la ralladura y el zumo de media lima.",
     "Monta los boles con el arroz, el tofu, el encurtido escurrido, el pepino en rodajas, el cilantro y el chile. Termina con unas líneas de veganesa a la lima."
   ],
   nutricion: { kcal: 606, prot: 24, hc: 69, grasa: 26 },
@@ -86,10 +85,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hidrata los fideos en agua caliente del grifo (no hirviendo) 10-15 minutos, hasta que estén flexibles pero firmes. Escúrrelos: terminarán de hacerse en el wok, y si los hierves se rompen al saltearlos.",
-    "Mezcla en un bol el tamari, el azúcar moreno, el tomate concentrado y 3 cucharadas de agua. Esta mezcla sustituye al kecap manis, la salsa de soja dulce.",
+    "Mientras se hidratan, mezcla en un bol el tamari, el azúcar moreno, el tomate concentrado y 3 cucharadas de agua. Esta mezcla sustituye al kecap manis, la salsa de soja dulce. Corta la col en tiras y el tomate en gajos, y pica el chile, los cacahuetes y la parte verde de la cebolleta.",
     "Seca el tofu con papel, córtalo en dados y dóralo en el wok con el aceite de oliva a fuego fuerte 5-6 minutos, moviéndolo poco, hasta que esté dorado por varios lados. Sácalo.",
-    "Añade el aceite de ajo, el chile picado y la col en tiras. Saltea 2 minutos a fuego máximo. Si echas demasiada verdura a la vez, el wok se enfría y la verdura se cuece en su agua en lugar de saltearse.",
-    "Incorpora el tomate en gajos y saltea 1 minuto. Añade los fideos y la salsa, y remueve con pinzas 2-3 minutos, hasta que los fideos absorban la salsa y estén brillantes.",
+    "Añade el aceite de ajo, el chile y la col. Saltea 2 minutos a fuego máximo. Si echas demasiada verdura a la vez, el wok se enfría y la verdura se cuece en su agua en lugar de saltearse.",
+    "Incorpora el tomate y saltea 1 minuto. Añade los fideos y la salsa, y remueve con pinzas 2-3 minutos, hasta que los fideos absorban la salsa y estén brillantes.",
     "Devuelve el tofu, añade los brotes de soja y saltea 30 segundos más, para que los brotes se calienten pero sigan crujientes.",
     "Sirve con los cacahuetes picados, la parte verde de la cebolleta y gajos de lima para exprimir en la mesa."
   ],
@@ -130,13 +129,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto", nota: "recién molida y abundante" }
   ],
   pasos: [
-    "Prensa el tofu 10 minutos entre papel de cocina, córtalo en dados grandes y rebózalo en la maicena. Dóralo en una sartén con el aceite de oliva a fuego medio-alto 6 minutos, hasta que tenga costra. Sácalo.",
-    "Cuece el arroz lavado con 180 ml de agua, tapado y a fuego mínimo, 12 minutos.",
+    "Cuece el arroz lavado con 180 ml de agua, tapado y a fuego mínimo, 12 minutos. Mientras, prensa el tofu 10 minutos entre papel de cocina; entretanto, corta el jengibre en tiras finas y el chile en rodajas, y pica la parte verde de la cebolleta.",
+    "Corta el tofu en dados grandes y rebózalo en la maicena. Dóralo en una sartén con el aceite de oliva a fuego medio-alto 6 minutos, hasta que tenga costra. Sácalo.",
     "Prepara el caramelo: pon el azúcar con 1 cucharada de agua en una cazuela a fuego medio y no remuevas, solo menea la cazuela. Cuando tenga color ámbar oscuro (3-4 minutos), aparta del fuego: ese amargor ligero del caramelo oscuro es la base del sabor kho.",
     "Fuera del fuego, añade con cuidado el agua y el tamari, porque salpica. Vuelve al fuego y remueve hasta que el caramelo que se haya endurecido se disuelva.",
-    "Añade el jengibre en tiras finas, el chile, el aceite de ajo y el tofu. Cuece a fuego medio, destapado, 10-12 minutos, dando la vuelta al tofu, hasta que la salsa se reduzca a un almíbar oscuro que lo envuelva.",
-    "Mientras, cuece las judías verdes troceadas en agua con sal 5 minutos y pásalas a agua fría para que conserven el color verde intenso.",
-    "Sirve el tofu con su salsa sobre el arroz, con las judías al lado, mucha pimienta negra y la parte verde de la cebolleta picada."
+    "Añade el jengibre, el chile, el aceite de ajo y el tofu. Cuece a fuego medio, destapado, 10-12 minutos, dando la vuelta al tofu, hasta que la salsa se reduzca a un almíbar oscuro que lo envuelva.",
+    "Mientras, trocea las judías verdes y cuécelas en agua con sal 5 minutos; pásalas a agua fría para que conserven el color verde intenso.",
+    "Sirve el tofu con su salsa sobre el arroz, con las judías al lado, mucha pimienta negra y la cebolleta picada."
   ],
   nutricion: { kcal: 631, prot: 30, hc: 76, grasa: 23 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "vietnamita", "tupper", "económica", "bajo en colesterol"],
@@ -174,10 +173,11 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Lava la quinoa frotándola bajo el grifo y cuécela con 280 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Extiéndela en una bandeja para que se enfríe y se seque. Para saltear un grano, tiene que estar frío y seco; si no, se apelmaza (mejor aún si la cueces la víspera).",
-    "Corta el tempeh en dados de 1 cm y cuécelo al vapor o en agua hirviendo 10 minutos. Así le quitas el amargor y se abre para absorber mejor la salsa. Escúrrelo y sécalo.",
+    "Lava la quinoa frotándola bajo el grifo y cuécela con 280 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Mientras, corta el tempeh en dados de 1 cm y cuécelo al vapor o en agua hirviendo 10 minutos: así le quitas el amargor y se abre para absorber mejor la salsa.",
+    "Extiende la quinoa en una bandeja para que se enfríe y se seque. Para saltear un grano, tiene que estar frío y seco; si no, se apelmaza (mejor aún si la cueces la víspera). Escurre el tempeh y sécalo.",
+    "Mientras se enfría la quinoa, corta la zanahoria en bastoncitos y el pimiento en tiras, ralla el jengibre y pica la parte verde de la cebolleta.",
     "Calienta el wok a fuego fuerte con el aceite de oliva y dora el tempeh 4-5 minutos, hasta que esté crujiente. Riégalo con 1 cucharada de tamari, deja que se evapore y sácalo.",
-    "Añade el aceite de ajo y saltea la zanahoria en bastoncitos y el pimiento en tiras 3 minutos, hasta que estén tiernos pero crujientes. Incorpora el jengibre rallado y la parte verde de la cebolleta y remueve 30 segundos.",
+    "Añade el aceite de ajo y saltea la zanahoria y el pimiento 3 minutos, hasta que estén tiernos pero crujientes. Incorpora el jengibre y la cebolleta y remueve 30 segundos.",
     "Agrega la quinoa y extiéndela por las paredes del wok sin remover durante 1 minuto, para que se tueste. Luego remueve.",
     "Riega con el resto del tamari y el vinagre, devuelve el tempeh y saltea 1 minuto más. Termina con el aceite de sésamo y el sésamo."
   ],
@@ -221,10 +221,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la col en tiras muy finas, ponle una pizca de sal y el zumo de una lima y apriétala con las manos 1 minuto. La sal y el ácido la ablandan y quitan el sabor a crudo sin cocinarla. Añade la mitad del cilantro picado.",
+    "Corta la col en tiras muy finas y pica el cilantro. Ponle a la col una pizca de sal y el zumo de una lima y apriétala con las manos 1 minuto. La sal y el ácido la ablandan y quitan el sabor a crudo sin cocinarla. Añade la mitad del cilantro.",
     "Mezcla la veganesa con la ralladura de media lima y un chorrito de su zumo.",
     "Desmiga el tempeh con los dedos en trozos pequeños, como carne picada.",
-    "Calienta el aceite de oliva en una sartén a fuego medio-alto y dora el tempeh 6-7 minutos, removiendo solo de vez en cuando, hasta que esté tostado. Necesita tiempo de contacto con la sartén para dorarse y ganar sabor.",
+    "Calienta el aceite de oliva en una sartén a fuego medio-alto y dora el tempeh 6-7 minutos, removiendo solo de vez en cuando, hasta que esté tostado. Necesita tiempo de contacto con la sartén para dorarse y ganar sabor. Mientras, corta el chile en rodajas.",
     "Baja el fuego, añade el aceite de ajo, el pimentón, el comino y el orégano, remueve 20 segundos y riega enseguida con el tamari, el sirope, el tomate concentrado y 4 cucharadas de agua. El líquido evita que el pimentón se queme y deja el picadillo jugoso. Cocina 2 minutos, hasta que se absorba.",
     "Calienta las tortillas en una sartén seca 30 segundos por lado.",
     "Rellena cada tortilla con tempeh, ensalada de col, veganesa, chile en rodajas y cilantro. Sirve con gajos de lima."
@@ -269,13 +269,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas peladas y troceadas en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas muy bien y déjalas 2 minutos en la cazuela caliente para que se evapore el agua que queda.",
-    "Aplástalas en caliente con la levadura nutricional, el pimentón, la cúrcuma, la maicena, sal y la parte verde de la cebolleta picada. Deja enfriar la masa 15 minutos en la nevera: fría se moldea sin pegarse y las tortitas no se abren en la sartén.",
-    "Para la salsa, tritura los cacahuetes con el comino, el aceite de ajo, sal y unos 100 ml de agua caliente, hasta que quede una crema que se pueda verter con cuchara.",
+    "Pela las patatas, trocéalas y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas.",
+    "Mientras se cuecen, pica la parte verde de la cebolleta y prepara la salsa: tritura los cacahuetes con el comino, el aceite de ajo, sal y unos 100 ml de agua caliente, hasta que quede una crema que se pueda verter con cuchara.",
+    "Escurre las patatas muy bien y déjalas 2 minutos en la cazuela caliente para que se evapore el agua que queda.",
+    "Aplástalas en caliente con la levadura nutricional, el pimentón, la cúrcuma, la maicena, sal y la parte verde de la cebolleta picada. Deja enfriar la masa 15 minutos en la nevera: fría se moldea sin pegarse y las tortitas no se abren en la sartén. Mientras, corta el tofu en lonchas, la lechuga en tiras y el tomate en gajos, y pica el cilantro.",
     "Forma 6 tortitas de 2 cm de grosor con las manos húmedas.",
     "Dóralas en una sartén antiadherente con unas gotas de aceite de oliva a fuego medio 4 minutos por lado sin moverlas, hasta que tengan una costra dorada. Si las mueves antes de tiempo, la costra se queda pegada en la sartén.",
-    "En la misma sartén, dora el tofu cortado en lonchas 2 minutos por lado y sálalo.",
-    "Sirve las tortitas con la salsa de cacahuete por encima, el tofu y una ensalada de lechuga y tomate aliñada con lima, sal y cilantro."
+    "En la misma sartén, dora el tofu 2 minutos por lado y sálalo.",
+    "Sirve las tortitas con la salsa de cacahuete por encima, el tofu y una ensalada de la lechuga y el tomate aliñada con lima, sal y el cilantro."
   ],
   nutricion: { kcal: 590, prot: 27, hc: 62, grasa: 26 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "ecuatoriana", "económica", "poco especiada"],
@@ -316,12 +317,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Asa el pimiento amarillo entero en el horno a 220 °C 25 minutos, o directamente sobre la llama, hasta que la piel se ennegrezca. Mételo en un bol tapado 10 minutos: el vapor despega la piel y se pela fácilmente.",
-    "Cuece las patatas con piel 20-25 minutos, pélalas en caliente y pásalas por el pasapurés.",
+    "Precalienta el horno a 220 °C y asa en él el pimiento amarillo entero 25 minutos, o directamente sobre la llama, hasta que la piel se ennegrezca. Mételo en un bol tapado 10 minutos: el vapor despega la piel y se pela fácilmente. Pélalo y quítale las semillas.",
+    "Mientras se asa, cuece las patatas con piel 20-25 minutos; entretanto, pica la parte verde de la cebolleta y el cilantro. Pela las patatas en caliente y pásalas por el pasapurés.",
     "Tritura el pimiento pelado con el chile sin semillas, la cúrcuma, el zumo de una lima y el aceite. Mézclalo con el puré y sálalo con generosidad. La causa se come fría y el frío apaga los sabores, así que tiene que quedar bien sazonada.",
     "Desmiga el tofu con un tenedor y mézclalo con la veganesa, el maíz, la parte verde de la cebolleta y el cilantro picados, el zumo de media lima, sal y pimienta.",
     "Monta la causa en un aro o un vaso sin fondo: una capa de puré, una de relleno y otra de puré. Aprieta ligeramente cada capa para que se mantenga en pie al desmoldar.",
-    "Déjala en la nevera al menos 20 minutos. Desmolda y decora con rodajas de tomate, las aceitunas y unas gotas de lima."
+    "Déjala en la nevera al menos 20 minutos; mientras, corta el tomate en rodajas. Desmolda y decora con el tomate, las aceitunas y unas gotas de lima."
   ],
   nutricion: { kcal: 445, prot: 17, hc: 47, grasa: 21 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "peruana", "sin cocción del relleno", "tupper", "verano", "ligera", "verduras escondidas", "bajo en colesterol"],
@@ -363,8 +364,8 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C. Prensa el tofu 10 minutos entre papel de cocina y córtalo en 6 lonchas gruesas. Hazles unos cortes en rejilla por una cara para que la marinada penetre.",
     "Prepara la chermoula triturando el cilantro, el perejil, el comino, el pimentón, la cayena, el zumo de un limón, el aceite de ajo y sal, hasta tener una pasta verde. Separa un tercio en un cuenco para la salsa final, antes de tocar el tofu.",
     "Unta el tofu con el resto de la chermoula y déjalo marinar mientras preparas las patatas.",
-    "Corta las patatas en gajos finos, mézclalas con el aceite de oliva y sal y extiéndelas en la bandeja. Hornéalas 20 minutos solas, porque tardan más que el tofu.",
-    "Saca la bandeja, aparta las patatas a los lados y coloca el tofu en el centro con las aceitunas y el otro limón en rodajas. Hornea 15-20 minutos más, hasta que el tofu tenga los bordes tostados y las patatas estén doradas.",
+    "Corta las patatas en gajos finos, mézclalas con el aceite de oliva y sal y extiéndelas en la bandeja. Hornéalas 20 minutos solas, porque tardan más que el tofu. Mientras, corta el otro limón en rodajas.",
+    "Saca la bandeja, aparta las patatas a los lados y coloca el tofu en el centro con las aceitunas y las rodajas de limón. Hornea 15-20 minutos más, hasta que el tofu tenga los bordes tostados y las patatas estén doradas.",
     "Sirve con la chermoula reservada por encima, aclarada con una cucharada de agua si está muy espesa."
   ],
   nutricion: { kcal: 584, prot: 27, hc: 38, grasa: 36 },
@@ -406,7 +407,7 @@ window.RECETAS_SEED.push({
     "Pinta la pulpa con el aceite de ajo, espolvorea el comino y sal, y ásala boca abajo sobre papel de horno 30-35 minutos, hasta que esté muy tierna y la piel arrugada. Boca abajo, la pulpa se cuece en su propio vapor y se carameliza en contacto con la bandeja.",
     "Mientras, lava la quinoa y cuécela con 200 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Déjala reposar 5 minutos y alíñala con un chorrito de limón.",
     "Bate el tahini con el zumo de medio limón y una pizca de sal. Al principio se espesará y parecerá cortado: es normal. Añade agua fría a cucharadas sin dejar de batir hasta que quede una salsa lisa y fluida.",
-    "Tuesta las nueces en una sartén seca 3 minutos y pícalas gruesas.",
+    "Tuesta las nueces en una sartén seca 3 minutos y pícalas gruesas. Pica el perejil.",
     "Sirve la quinoa con media berenjena encima, la pulpa hacia arriba. Riega con la salsa de tahini y termina con las nueces, el perejil picado y el zumaque."
   ],
   nutricion: { kcal: 448, prot: 13, hc: 45, grasa: 24 },
@@ -449,11 +450,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pincha las patatas con piel y cuécelas en el microondas 8-10 minutos, hasta que estén tiernas. Así quedan más secas que hervidas y las tikkis no necesitan huevo para mantenerse unidas.",
-    "Tuesta el comino en grano en una sartén seca 30 segundos, hasta que huela. Pela las patatas, aplástalas y mézclalas con el tofu desmigado muy fino, la harina de arroz, el comino, el garam masala, la cúrcuma, el jengibre rallado, la mitad del chile, un puñado de cilantro picado y sal.",
+    "Pincha las patatas con piel y cuécelas en el microondas 8-10 minutos, hasta que estén tiernas. Así quedan más secas que hervidas y las tikkis no necesitan huevo para mantenerse unidas. Mientras, tuesta el comino en grano en una sartén seca 30 segundos, hasta que huela, ralla el jengibre y pica el chile y un puñado de cilantro.",
+    "Pela las patatas, aplástalas y mézclalas con el tofu desmigado muy fino, la harina de arroz, el comino, el garam masala, la cúrcuma, el jengibre, la mitad del chile, el cilantro picado y sal.",
     "Forma 8 tortitas de 1,5 cm de grosor y déjalas 15 minutos en la nevera para que la harina absorba la humedad y se afirmen.",
-    "Para el chutney verde, tritura el resto del cilantro con la menta, el resto del chile, el zumo de la lima, sal y 3 cucharadas de agua fría (fría para que no oxide y se mantenga verde).",
-    "Para el kachumber, corta en dados pequeños el tomate y el pepino, mézclalos con la parte verde de la cebolleta, sal y unas gotas de lima.",
+    "Mientras reposan, prepara el chutney verde: tritura el resto del cilantro con la menta, el resto del chile, el zumo de la lima, sal y 3 cucharadas de agua fría (fría para que no oxide y se mantenga verde).",
+    "Para el kachumber, corta en dados pequeños el tomate y el pepino, pica la parte verde de la cebolleta y mézclalo todo con sal y unas gotas de lima.",
     "Dora las tikkis en una sartén antiadherente con el aceite a fuego medio 4 minutos por lado, sin tocarlas, hasta que estén crujientes.",
     "Sirve 4 tikkis por persona con el chutney por encima y el kachumber al lado."
   ],
@@ -498,9 +499,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara. En una cazuela, tuesta media cucharadita de comino en grano con un hilo de aceite 30 segundos, añade el arroz, 240 ml de agua y sal, tapa y cuece a fuego mínimo 12 minutos. Deja reposar 5 minutos sin destapar.",
-    "Seca el tofu, córtalo en dados de 2 cm y dóralo en el wok con 1 cucharada de aceite de oliva a fuego fuerte 6 minutos, hasta que tenga costra. Sácalo.",
-    "Corta los pimientos en cuadrados grandes y saltéalos en el wok con el resto del aceite de oliva a fuego máximo 3 minutos. Deben quedar con manchas tostadas pero crujientes: eso distingue un jalfrezi de un guiso.",
-    "Añade el aceite de ajo, el resto del comino, el jengibre rallado y los chiles en rodajas, y saltea 30 segundos.",
+    "Mientras se cuece el arroz, corta los pimientos en cuadrados grandes, ralla el jengibre, corta los chiles en rodajas y pica el cilantro. Seca el tofu, córtalo en dados de 2 cm y dóralo en el wok con 1 cucharada de aceite de oliva a fuego fuerte 6 minutos, hasta que tenga costra. Sácalo.",
+    "Saltea los pimientos en el wok con el resto del aceite de oliva a fuego máximo 3 minutos. Deben quedar con manchas tostadas pero crujientes: eso distingue un jalfrezi de un guiso.",
+    "Añade el aceite de ajo, el resto del comino, el jengibre y los chiles, y saltea 30 segundos.",
     "Baja a fuego medio y agrega la cúrcuma, el cilantro molido y 1 cucharadita de garam masala. Remueve 15 segundos y vierte enseguida el tomate: las especias molidas se tuestan en segundos en la grasa y el tomate impide que se quemen.",
     "Cuece 5 minutos, hasta que la salsa espese y se pegue a los pimientos. Devuelve el tofu, sala y remueve 2 minutos.",
     "Fuera del fuego, añade el resto del garam masala, el zumo de limón y el cilantro picado. Sirve con el arroz."
@@ -542,12 +543,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz frotándolo entre las manos y cambiando el agua 3 veces. Cuécelo con 220 ml de agua, tapado: 2 minutos a fuego fuerte y 13 a fuego mínimo. Déjalo reposar 10 minutos sin destapar para que termine de hacerse con su vapor.",
-    "Mezcla el tamari, el sirope de arce, el vinagre de arroz, el jengibre rallado y 2 cucharadas de agua. Esta es tu salsa teriyaki.",
-    "Prensa el tofu 10 minutos, córtalo en lonchas de 1,5 cm y rebózalas en la maicena, sacudiendo el exceso. La maicena forma una costra fina a la que la salsa se adhiere.",
+    "Mientras se cuece, ralla el jengibre y mézclalo con el tamari, el sirope de arce, el vinagre de arroz y 2 cucharadas de agua. Esta es tu salsa teriyaki.",
+    "Prensa el tofu 10 minutos; mientras, pon a hervir agua con sal para las judías, tuesta el sésamo en la sartén seca 1 minuto y sácalo, y pica la parte verde de la cebolleta. Corta el tofu en lonchas de 1,5 cm y rebózalas en la maicena, sacudiendo el exceso. La maicena forma una costra fina a la que la salsa se adhiere.",
     "Dora el tofu en una sartén amplia con el aceite de oliva a fuego medio-alto 3 minutos por lado, hasta que esté dorado y crujiente.",
-    "Mientras, cuece las judías verdes en tramos de 4 cm 4 minutos en agua con sal, escúrrelas y aliña con el aceite de sésamo.",
+    "Mientras, cuece las judías verdes en tramos de 4 cm 4 minutos en el agua hirviendo, escúrrelas y alíñalas con el aceite de sésamo.",
     "Baja el fuego a medio y vierte la salsa sobre el tofu. Deja que hierva 1-2 minutos, dando la vuelta a las lonchas, hasta que la salsa espese y brille. No te alejes: el azúcar del sirope pasa de glaseado a quemado en muy poco tiempo.",
-    "Sirve el arroz en cuencos con el tofu y su glaseado encima, las judías al lado, el sésamo tostado y la parte verde de la cebolleta."
+    "Sirve el arroz en cuencos con el tofu y su glaseado encima, las judías al lado, el sésamo tostado y la cebolleta."
   ],
   nutricion: { kcal: 825, prot: 37, hc: 95, grasa: 33 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "japonesa", "alta en proteína", "tupper", "ideal para llevar", "poco especiada"],
@@ -586,11 +587,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos grandes y ponlas en una cazuela con agua fría justo hasta cubrirlas y sal. Empezar en frío hace que se cuezan por igual por dentro y por fuera.",
-    "Quita los tallos duros del kale y córtalo en tiras finas. Cuando las patatas lleven 12 minutos hirviendo, pon el kale encima, tapa y deja 8 minutos más: se cuece con el vapor sin perder sabor en el agua.",
-    "Mientras, corta el tofu ahumado en dados y dóralo en una sartén con 1 cucharada de aceite a fuego medio-alto 5-6 minutos, hasta que esté crujiente.",
+    "Mientras, quita los tallos duros del kale y córtalo en tiras finas. Cuando las patatas lleven 12 minutos hirviendo, pon el kale encima, tapa y deja 8 minutos más: se cuece con el vapor sin perder sabor en el agua.",
+    "Mientras, corta el tofu ahumado en dados y dóralo en una sartén con 1 cucharada de aceite a fuego medio-alto 5-6 minutos, hasta que esté crujiente. Calienta la bebida de almendra, mezcla las dos mostazas y pica el cebollino.",
     "Escurre bien las patatas y el kale y devuélvelos a la cazuela caliente 1 minuto, para que se evapore el agua.",
     "Machácalo todo con un pasapurés o un tenedor (stamppot significa «machacado»; debe quedar rústico, no un puré fino). Añade la bebida de almendra caliente, el resto del aceite, la nuez moscada, el vinagre, sal y pimienta.",
-    "Mezcla las dos mostazas. Sirve el stamppot con un hueco en el centro, el tofu encima, la mostaza al lado y el cebollino picado."
+    "Sirve el stamppot con un hueco en el centro, el tofu encima, la mostaza al lado y el cebollino."
   ],
   nutricion: { kcal: 668, prot: 27, hc: 68, grasa: 32 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "invierno", "una sola olla", "tupper", "saciante", "poco especiada"],
@@ -634,9 +635,9 @@ window.RECETAS_SEED.push({
     "Corta el hinojo en láminas finas (guarda las hojitas verdes para decorar), la zanahoria en rodajas y las patatas en dados.",
     "Calienta el aceite de ajo y 1 cucharadita del aceite de oliva en una cazuela a fuego medio-bajo y rehoga el hinojo y la zanahoria con una pizca de sal 8 minutos, tapado, hasta que se ablanden sin tomar color. Este sudado concentra el dulzor y sustituye al sofrito de cebolla.",
     "Añade las patatas y el caldo, lleva a ebullición y cuece 18-20 minutos, hasta que la patata se deshaga al pincharla.",
-    "Tritura con la bebida de almendra y la mitad del eneldo hasta que quede muy fina. Si usas batidora de vaso, llénala solo hasta la mitad y tapa con un paño: el vapor caliente empuja la tapa. Ajusta de sal, pimienta y unas gotas de limón.",
-    "Prensa el tofu entre papel de cocina, córtalo en dados de 1 cm y rebózalos en la maicena con el pimentón. Dóralos en una sartén con el resto del aceite a fuego medio-alto 6 minutos, hasta que estén crujientes por todos los lados.",
+    "Mientras se cuece, prensa el tofu entre papel de cocina, córtalo en dados de 1 cm y rebózalos en la maicena con el pimentón. Dóralos en una sartén con el resto del aceite a fuego medio-alto 6 minutos, hasta que estén crujientes por todos los lados.",
     "Tuesta las pipas de calabaza en la misma sartén 2 minutos, hasta que empiecen a hincharse y saltar.",
+    "Tritura con la bebida de almendra y la mitad del eneldo hasta que quede muy fina. Si usas batidora de vaso, llénala solo hasta la mitad y tapa con un paño: el vapor caliente empuja la tapa. Ajusta de sal, pimienta y unas gotas de limón.",
     "Sirve la crema caliente con el tofu, las pipas, el resto del eneldo y las hojitas de hinojo."
   ],
   nutricion: { kcal: 433, prot: 18, hc: 43, grasa: 21 },
@@ -681,7 +682,7 @@ window.RECETAS_SEED.push({
     "Aparta la cazuela del fuego, añade el aceite de ajo, el comino y el pimentón, remueve 20 segundos y vierte el tomate. Así las especias sueltan su aroma sin quemarse.",
     "Vuelve al fuego, tapa y cuece a fuego suave 20-25 minutos, removiendo con cuidado de vez en cuando, hasta que la calabaza esté tierna y el tomate se haya convertido en salsa. Las verduras se cuecen en su propio jugo; añade un chorrito de agua solo si se pega.",
     "Mientras, lava la quinoa y cuécela con 160 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Déjala reposar 5 minutos.",
-    "Tuesta las almendras en una sartén seca 3 minutos, hasta que estén doradas.",
+    "Tuesta las almendras en una sartén seca 3 minutos, hasta que estén doradas, y pica la hierbabuena.",
     "Termina la alboronía con el vinagre de Jerez y prueba de sal. Sirve sobre la quinoa con las almendras y la hierbabuena picada."
   ],
   nutricion: { kcal: 457, prot: 12, hc: 55, grasa: 21 },
@@ -722,11 +723,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca el tofu, córtalo en dados de 2 cm y dóralo en una sartén con el aceite de oliva a fuego medio-alto 5 minutos. Resérvalo. Si lo echas crudo al guiso se deshace; dorado, mantiene la forma.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y pocha los pimientos picados con una pizca de sal 8 minutos, hasta que estén blandos.",
-    "Añade los tomates rallados y cocina 5 minutos, hasta que pierdan el agua. Incorpora la carne de pimiento choricero y el pimentón y remueve 30 segundos.",
-    "Pela las patatas y cáchalas: mete la punta del cuchillo y gíralo para romper el trozo en lugar de cortarlo. Los bordes irregulares sueltan almidón y espesan el caldo de forma natural.",
-    "Añade las patatas a la cazuela, rehógalas 2 minutos y cubre con el caldo. Incorpora el laurel y la hoja de nori troceada, sala y cuece a fuego medio 20 minutos, hasta que las patatas estén tiernas.",
+    "Pica los pimientos y ralla los tomates. Seca el tofu, córtalo en dados de 2 cm y dóralo en una sartén con el aceite de oliva a fuego medio-alto 5 minutos. Resérvalo. Si lo echas crudo al guiso se deshace; dorado, mantiene la forma.",
+    "En una cazuela, calienta el aceite de ajo a fuego medio y pocha los pimientos con una pizca de sal 8 minutos, hasta que estén blandos. Mientras, pela las patatas y cáchalas: mete la punta del cuchillo y gíralo para romper el trozo en lugar de cortarlo. Los bordes irregulares sueltan almidón y espesan el caldo de forma natural.",
+    "Añade los tomates y cocina 5 minutos, hasta que pierdan el agua. Incorpora la carne de pimiento choricero y el pimentón y remueve 30 segundos.",
+    "Añade las patatas a la cazuela, rehógalas 2 minutos y cubre con el caldo. Incorpora el laurel y la hoja de nori troceada, sala y cuece a fuego medio 20 minutos, hasta que las patatas estén tiernas. Mientras, pica el perejil.",
     "Aplasta un par de trozos de patata contra la pared de la cazuela para ligar más el caldo. Añade el tofu, apaga el fuego, tapa y deja reposar 5 minutos.",
     "Sirve en plato hondo con perejil picado."
   ],
@@ -774,8 +774,8 @@ window.RECETAS_SEED.push({
     "Calienta el aceite de oliva en una cazuela amplia a fuego medio-alto y dora el tempeh y las nueces 8 minutos, removiendo poco, hasta que estén bien tostados. Este dorado (reacción de Maillard) aporta el sabor «a carne» del ragú, así que no tengas prisa.",
     "Añade la zanahoria, el aceite de ajo y el romero, y rehoga 3 minutos. Incorpora el tomate concentrado y remueve 1 minuto para que se tueste un poco y pierda acidez.",
     "Vierte el vino y rasca el fondo con una cuchara de madera para despegar lo tostado, que es puro sabor. Deja reducir 2 minutos, hasta que se evapore el alcohol.",
-    "Añade el tomate triturado, el tamari, el orégano y 100 ml de agua. Cuece a fuego suave 20 minutos, semitapado, hasta que el ragú esté espeso. El tamari aporta umami, el sabor sabroso de la carne y el queso curado.",
-    "Cuece la pasta según el paquete, guardando medio vaso de agua. Mézclala con el ragú en la cazuela 1 minuto, añadiendo agua de cocción si queda seca.",
+    "Añade el tomate triturado, el tamari, el orégano y 100 ml de agua. Cuece a fuego suave 20 minutos, semitapado, hasta que el ragú esté espeso. El tamari aporta umami, el sabor sabroso de la carne y el queso curado. Mientras, pon a hervir agua con sal para la pasta.",
+    "Cuece la pasta en el agua hirviendo según el paquete, guardando medio vaso de agua. Mézclala con el ragú en la cazuela 1 minuto, añadiendo agua de cocción si queda seca.",
     "Sirve con la levadura nutricional por encima, pimienta y albahaca fresca."
   ],
   nutricion: { kcal: 840, prot: 36, hc: 93, grasa: 36 },
@@ -819,10 +819,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el tofu en dados pequeños y mézclalo con el zumo de medio limón, el orégano, sal y media cucharada de aceite. Déjalo marinar mientras haces el resto: el ácido y la sal le dan un sabor que recuerda al queso feta.",
-    "Cuece el arroz en abundante agua con sal, como si fuera pasta, 12-14 minutos, hasta que esté al dente. Escúrrelo y enjuágalo un momento con agua fría. Así cortas la cocción y quitas el almidón de la superficie, y los granos no se pegan al enfriarse.",
-    "Bate el resto del aceite con el vinagre, el zumo del otro medio limón, sal y pimienta.",
+    "Cuece el arroz en abundante agua con sal, como si fuera pasta, 12-14 minutos, hasta que esté al dente. Mientras, bate el resto del aceite con el vinagre, el zumo del otro medio limón, sal y pimienta; corta los pepinillos en rodajas, los cherrys por la mitad y el pimiento en daditos, y trocea la albahaca.",
+    "Escurre el arroz y enjuágalo un momento con agua fría. Así cortas la cocción y quitas el almidón de la superficie, y los granos no se pegan al enfriarse.",
     "Aliña el arroz todavía templado con la mitad de la vinagreta. Templado absorbe mejor el aliño y queda sabroso hasta el centro del grano.",
-    "Corta los pepinillos en rodajas, los cherrys por la mitad y el pimiento en daditos. Añádelos al arroz con las aceitunas, las alcaparras, el maíz y el tofu con su marinada.",
+    "Añade al arroz los pepinillos, los cherrys, el pimiento, las aceitunas, las alcaparras, el maíz y el tofu con su marinada.",
     "Riega con el resto de la vinagreta, mezcla y termina con la albahaca troceada. Sírvela a temperatura ambiente o fresca."
   ],
   nutricion: { kcal: 444, prot: 16, hc: 50, grasa: 20 },
@@ -863,12 +863,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara el aceite de romero: calienta el aceite de oliva con una rama de romero a fuego muy suave 3 minutos, sin que llegue a freír, y deja que repose fuera del fuego. El calor suave extrae el aroma; si fríes el romero, amarga.",
+    "Corta la zanahoria en dados y la calabaza en dados de 2 cm. Prepara el aceite de romero: calienta el aceite de oliva con una rama de romero a fuego muy suave 3 minutos, sin que llegue a freír, y deja que repose fuera del fuego. El calor suave extrae el aroma; si fríes el romero, amarga.",
     "Corta el tofu ahumado en daditos y dóralo en una cazuela con el aceite de ajo a fuego medio 5 minutos, hasta que esté crujiente, como si fuera panceta. Saca la mitad para servir por encima.",
-    "Añade a la cazuela la zanahoria en dados y la calabaza en dados de 2 cm, y rehoga 5 minutos.",
+    "Añade a la cazuela la zanahoria y la calabaza, y rehoga 5 minutos.",
     "Incorpora el tomate y cocina 3 minutos. Vierte el caldo, añade el laurel y la otra rama de romero, y lleva a ebullición.",
-    "Añade el arroz y cuece a fuego medio 15 minutos. El almidón que suelta el arroz espesa la sopa.",
-    "Quita los tallos al kale, córtalo en tiras y añádelo los últimos 5 minutos para que quede tierno pero verde. Retira el laurel y el romero, prueba de sal y pimienta.",
+    "Añade el arroz y cuece a fuego medio 15 minutos. El almidón que suelta el arroz espesa la sopa. Mientras, quita los tallos al kale y córtalo en tiras.",
+    "Añade el kale los últimos 5 minutos para que quede tierno pero verde. Retira el laurel y el romero, prueba de sal y pimienta.",
     "Sirve con el tofu crujiente reservado, la levadura nutricional y un hilo de aceite de romero."
   ],
   nutricion: { kcal: 455, prot: 21, hc: 50, grasa: 19 },
@@ -912,13 +912,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Corta las patatas en gajos, mézclalas con 1 cucharada de aceite y sal y hornéalas 35 minutos, dándoles la vuelta a mitad, hasta que estén doradas.",
-    "Lava la quinoa y cuécela con 200 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Extiéndela en un plato para que se enfríe y suelte el vapor.",
-    "Mezcla el lino molido con 3 cucharadas de agua y espera 5 minutos: forma un gel que liga como el huevo.",
+    "Precalienta el horno a 220 °C. Lava la quinoa y cuécela con 200 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Mientras, mezcla el lino molido con 3 cucharadas de agua y espera 5 minutos: forma un gel que liga como el huevo. Ralla la zanahoria, escúrrela y pica el perejil.",
+    "Extiende la quinoa en un plato para que se enfríe y suelte el vapor. Corta las patatas en gajos, mézclalas con 1 cucharada de aceite y sal y hornéalas 35 minutos, dándoles la vuelta a mitad, hasta que estén doradas.",
     "Tritura las nueces con unos golpes cortos de batidora para que queden en trocitos y no se conviertan en pasta. Mézclalas con la quinoa, la zanahoria rallada y escurrida, el gel de lino, la harina de arroz, el pimentón, el comino, el tamari y el perejil picado.",
-    "Forma 2 hamburguesas de 2 cm de grosor apretando bien con las manos húmedas y déjalas 20 minutos en la nevera. En frío, la harina y el lino se hidratan y las hamburguesas no se rompen al darles la vuelta.",
+    "Forma 2 hamburguesas de 2 cm de grosor apretando bien con las manos húmedas y déjalas 20 minutos en la nevera. En frío, la harina y el lino se hidratan y las hamburguesas no se rompen al darles la vuelta. Mientras, pica el cebollino y mézclalo con la veganesa, corta el tomate en rodajas y lava la lechuga.",
     "Dóralas en una sartén con el resto del aceite a fuego medio 4-5 minutos por lado, dándoles la vuelta una sola vez.",
-    "Mezcla la veganesa con el cebollino picado. Tuesta los panes y monta las hamburguesas con lechuga, tomate y la salsa. Sírvelas con las patatas."
+    "Tuesta los panes y monta las hamburguesas con lechuga, tomate y la salsa. Sírvelas con las patatas."
   ],
   nutricion: { kcal: 878, prot: 19, hc: 115, grasa: 38 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "para niños", "batch cooking", "tupper", "verduras escondidas", "poco especiada"],
@@ -959,10 +958,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las patatas en gajos, sécalas, mézclalas con 1 cucharada de aceite y sal, y cocínalas en la airfryer a 200 °C 20 minutos, agitando la cesta a mitad. Sácalas y mantenlas calientes.",
-    "Prensa el tofu 10 minutos y córtalo en bocados de 3 cm, arrancándolos con los dedos en lugar de cortarlos: los bordes irregulares quedan más crujientes.",
+    "Mientras se hacen, prensa el tofu 10 minutos y córtalo en bocados de 3 cm, arrancándolos con los dedos en lugar de cortarlos: los bordes irregulares quedan más crujientes. Entretanto, prepara la ensalada: corta la col en tiras finas, ralla la zanahoria, pica el cebollino y mézclalo todo con la veganesa, el vinagre y sal.",
     "Mezcla el tofu con la maicena, el pimentón y sal hasta que esté cubierto por un polvo fino. Rocíalo con la mitad del aceite restante y remueve.",
     "Cocínalo en la airfryer a 200 °C 15 minutos, en una sola capa y sin llenar demasiado la cesta, agitándola cada 5 minutos. Si se amontona, el aire no circula y el tofu se cuece en lugar de tostarse.",
-    "Mientras, prepara la ensalada: corta la col en tiras finas, ralla la zanahoria y mézclalas con la veganesa, el vinagre, el cebollino picado y sal.",
     "Calienta la salsa picante con el sirope y el resto del aceite 30 segundos en el microondas. Baña el tofu recién salido de la airfryer justo antes de servir, para que la costra siga crujiente.",
     "Sirve el tofu buffalo con las patatas y la ensalada de col."
   ],
@@ -1004,12 +1002,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta la parte de arriba de los pimientos y guárdala como tapa. Quita las semillas, sala el interior, píntalos por fuera con aceite y hornéalos 15 minutos para que empiecen a ablandarse.",
-    "Tuesta el azafrán 10 segundos en una sartén seca y desmenúzalo en el caldo caliente para que suelte el color.",
+    "Mientras, calienta el caldo, tuesta el azafrán 10 segundos en una sartén seca y desmenúzalo en el caldo caliente para que suelte el color. Ralla el tomate y pica las aceitunas y el perejil.",
     "En una cazuela, dora el tofu desmigado con el aceite de ajo a fuego medio 5 minutos. Añade el tomate rallado y cocina 3 minutos, hasta que espese. Incorpora el pimentón y el arroz y remueve 1 minuto para que el grano se nacare.",
     "Vierte el caldo con el azafrán, sala y cuece 10 minutos a fuego medio, sin remover. El arroz debe quedar a medio hacer y con algo de caldo, porque terminará de cocerse en el horno con el jugo del pimiento.",
     "Fuera del fuego, añade las aceitunas picadas, la mitad de los piñones y el perejil. Rellena los pimientos sin apretar (el arroz necesita espacio para hincharse) y cúbrelos con sus tapas.",
-    "Ponlos de pie en una fuente con un dedo de agua en el fondo y hornéalos 25-30 minutos, hasta que el pimiento esté tierno y el arroz hecho.",
-    "Tuesta el resto de los piñones en una sartén seca y espárcelos por encima al servir."
+    "Ponlos de pie en una fuente con un dedo de agua en el fondo y hornéalos 25-30 minutos, hasta que el pimiento esté tierno y el arroz hecho. Mientras, tuesta el resto de los piñones en una sartén seca.",
+    "Esparce los piñones tostados por encima al servir."
   ],
   nutricion: { kcal: 615, prot: 19, hc: 65, grasa: 31 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "al horno", "tupper", "para invitados", "poco especiada"],
@@ -1054,12 +1052,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tempeh en 4 medallones y cuécelos al vapor o en agua hirviendo con el tamari 10 minutos. Así pierde el amargor y queda más tierno. Sécalos bien.",
-    "Precalienta el horno a 200 °C. Pica las nueces y los piñones a cuchillo, no muy finos, y mézclalos con el pan rallado, las hojas de tomillo, el perejil picado, sal, pimienta y 1 cucharada de aceite.",
+    "Precalienta el horno a 200 °C. Pela la chirivía y la patata, trocéalas y ponlas a cocer en agua con sal 18 minutos, hasta que estén muy tiernas.",
+    "Mientras, corta el tempeh en 4 medallones y cuécelos al vapor o en agua hirviendo con el tamari 10 minutos. Así pierde el amargor y queda más tierno. Sécalos bien.",
+    "Pica a cuchillo las nueces y los piñones, no muy finos, y el perejil. Mézclalos con el pan rallado, las hojas de tomillo, sal, pimienta y 1 cucharada de aceite.",
     "Mezcla la mostaza con el sirope y unta con ella la cara superior de cada medallón. La mostaza hace de pegamento y sustituye al huevo del empanado.",
     "Aprieta la mezcla de frutos secos sobre la mostaza para que se adhiera y coloca los medallones en una bandeja con papel. Hornéalos 15-18 minutos, hasta que la costra esté dorada. Vigila los últimos minutos, porque los frutos secos se queman rápido.",
-    "Mientras, cuece la chirivía y la patata peladas y troceadas en agua con sal 18 minutos, hasta que estén muy tiernas.",
-    "Escúrrelas y aplástalas con la bebida de almendra caliente, el resto del aceite de oliva, la nuez moscada, sal y pimienta, hasta tener un puré liso.",
+    "Mientras se hornean, escurre la chirivía y la patata y aplástalas con la bebida de almendra calentada, el resto del aceite de oliva, la nuez moscada, sal y pimienta, hasta tener un puré liso. Tápalo para que no se enfríe.",
     "Cuece las judías verdes 5 minutos en agua con sal y saltéalas 1 minuto con el aceite de ajo y unas gotas de limón.",
     "Sirve dos medallones por persona sobre el puré, con las judías al lado."
   ],
@@ -1102,10 +1100,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Desmiga el tofu en trozos irregulares y mézclalo con el zumo de medio limón, la levadura nutricional, el orégano, una buena pizca de sal y 1 cucharadita de aceite. Déjalo 15 minutos. Con el ácido, la sal y la levadura toma un sabor salino y láctico muy parecido al del feta.",
-    "Lava la quinoa frotándola bajo el grifo y cuécela con 160 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Déjala reposar 5 minutos, suéltala con un tenedor y extiéndela para que se enfríe.",
-    "Tuesta los piñones en una sartén seca 2-3 minutos, sin dejar de moverlos.",
+    "Mientras, lava la quinoa frotándola bajo el grifo y cuécela con 160 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Déjala reposar 5 minutos, suéltala con un tenedor y extiéndela para que se enfríe.",
+    "Mientras se cuece la quinoa, tuesta los piñones en una sartén seca 2-3 minutos, sin dejar de moverlos.",
     "Prepara la vinagreta con el vinagre balsámico, el zumo del otro medio limón, el resto del aceite, sal y pimienta.",
-    "Corta las fresas en cuartos y el pepino en medias lunas. Al combinar fresa con balsámico y pimienta negra, se realza el dulzor de la fruta y la ensalada no queda empalagosa.",
+    "Corta las fresas en cuartos y el pepino en medias lunas. Al combinar fresa con balsámico y pimienta negra, se realza el dulzor de la fruta y la ensalada no queda empalagosa. Trocea la albahaca.",
     "Mezcla la quinoa fría con la rúcula, las fresas y el pepino, y aliña justo antes de servir. Reparte el tofu, los piñones y la albahaca por encima."
   ],
   nutricion: { kcal: 429, prot: 20, hc: 40, grasa: 21 },
@@ -1148,11 +1146,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prensa el tofu 15 minutos y córtalo en 6 bastones gruesos. Sálalo ligeramente.",
-    "Pica las macadamias con 4 o 5 golpes cortos de batidora, hasta que tengan el tamaño de un pan rallado grueso. Si las trituras de seguido, sueltan su grasa y se convierten en crema. Mézclalas con el coco y una pizca de sal.",
+    "Mientras se prensa, pica las macadamias con 4 o 5 golpes cortos de batidora, hasta que tengan el tamaño de un pan rallado grueso. Si las trituras de seguido, sueltan su grasa y se convierten en crema. Mézclalas con el coco y una pizca de sal.",
     "Mezcla la maicena con el agua hasta tener una papilla lisa. Pasa cada bastón por esta mezcla y después por la de macadamia y coco, apretando para que se adhiera. La maicena con agua hace de pegamento y sustituye al huevo.",
     "Pinta los bastones con el aceite y cocínalos en la airfryer a 190 °C 12-14 minutos, girándolos a mitad, hasta que estén dorados. Una temperatura algo más baja de lo habitual evita que los frutos secos se quemen antes de que el tofu se caliente.",
     "Mientras, cuece el arroz lavado con 150 ml de agua, tapado y a fuego mínimo, 12 minutos, y déjalo reposar.",
-    "Para la salsa, corta la piña en daditos y mézclala con el zumo de la lima, el chile picado, la parte verde de la cebolleta, el cilantro, el tamari y el sirope.",
+    "Mientras reposa el arroz, corta la piña en daditos, pica el chile, la parte verde de la cebolleta y el cilantro, y mézclalo todo con el zumo de la lima, el tamari y el sirope.",
     "Sirve el tofu sobre el arroz con la salsa de piña por encima."
   ],
   nutricion: { kcal: 631, prot: 24, hc: 64, grasa: 31 },

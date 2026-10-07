@@ -33,9 +33,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el pollo en un cazo con el laurel, sal y agua fría que lo cubra. Lleva a ebullición, baja al mínimo y cuécelo sin que hierva fuerte 12-14 minutos, hasta que esté blanco por dentro.",
-    "Apaga el fuego y deja el pollo en su caldo 10 minutos para que quede jugoso. Sácalo, enfríalo y córtalo en dados pequeños.",
-    "Pica los pimientos, la cebolleta y el tomate en daditos de medio centímetro y las aceitunas en rodajas.",
-    "Bate el vinagre con el aceite, sal, pimienta y el perejil picado.",
+    "Mientras se cuece, pica los pimientos, la cebolleta y el tomate en daditos de medio centímetro, corta las aceitunas en rodajas y pica el perejil.",
+    "Apaga el fuego y deja el pollo en su caldo 10 minutos para que quede jugoso. Mientras, bate el vinagre con el aceite, sal, pimienta y el perejil picado.",
+    "Saca el pollo, enfríalo y córtalo en dados pequeños.",
     "Mezcla todo con la vinagreta, reparte en tuppers y refrigera al menos 30 minutos para que se asienten los sabores."
   ],
   nutricion: { kcal: 360, prot: 37, hc: 12, grasa: 18 },
@@ -76,10 +76,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un bol grande apto para microondas con 170 ml de agua y una pizca de sal. Tapa sin cerrar del todo y cocina a 800 W 9-10 minutos. Reposa 5 minutos tapado y extiéndelo para que se enfríe.",
-    "Pon el pavo en otro recipiente con 2 cucharadas de agua y cocínalo a 800 W 3 minutos. Desmenúzalo con un tenedor y cocina 2-3 minutos más, hasta que no quede nada rosado. Escurre el exceso de jugo.",
-    "Mezcla la salsa de pescado con el zumo de las limas, el azúcar y el chile picado hasta disolver el azúcar.",
-    "Vierte el aliño sobre el pavo todavía templado, añade la chalota en láminas finas y deja que se enfríe para que absorba el sabor.",
-    "Reparte en tuppers el arroz, el larb y el pepino en bastones. Lleva aparte las hojas de lechuga y la menta y el cilantro, y añade las hierbas justo al comer."
+    "Mientras se cocina el arroz, pica el chile, corta la chalota en láminas finas y el pepino en bastones. Mezcla la salsa de pescado con el zumo de las limas, el azúcar y el chile picado hasta disolver el azúcar.",
+    "Mientras reposa el arroz, pon el pavo en otro recipiente con 2 cucharadas de agua y cocínalo a 800 W 3 minutos. Desmenúzalo con un tenedor y cocina 2-3 minutos más, hasta que no quede nada rosado. Escurre el exceso de jugo.",
+    "Vierte el aliño sobre el pavo todavía templado, añade la chalota y deja que se enfríe para que absorba el sabor.",
+    "Reparte en tuppers el arroz, el larb y el pepino. Lleva aparte las hojas de lechuga y la menta y el cilantro, y añade las hierbas justo al comer."
   ],
   nutricion: { kcal: 400, prot: 34, hc: 49, grasa: 7 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "rápida", "sin gluten", "alta en proteína", "ligera", "picante", "bajo en colesterol"],
@@ -120,8 +120,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca el solomillo con papel y sazónalo con sal, pimienta y tomillo. Dóralo en una sartén con 1 cucharadita de aceite a fuego medio-alto 2 minutos por cada lado.",
     "Baja a fuego medio y cocínalo 10-12 minutos más, girándolo, hasta que alcance unos 63 °C en el centro (jugo claro con el interior ligeramente rosado). Reposa 10 minutos y córtalo en medallones finos.",
-    "Bate la mostaza con el vinagre, la miel, el resto del aceite, sal y pimienta.",
-    "Corta la manzana en dados y mézclala enseguida con un poco de vinagreta para que no se oxide. Corta el apio en rodajas finas.",
+    "Mientras se cocina el solomillo, bate la mostaza con el vinagre, la miel, el resto del aceite, sal y pimienta.",
+    "Mientras reposa, corta la manzana en dados y mézclala enseguida con un poco de vinagreta para que no se oxide. Corta el apio en rodajas finas.",
     "Mezcla las lentejas con la manzana, el apio y el resto de la vinagreta. Reparte en tuppers con los medallones encima y lleva los canónigos y las nueces aparte."
   ],
   nutricion: { kcal: 570, prot: 47, hc: 37, grasa: 26 },
@@ -163,11 +163,11 @@ window.RECETAS_SEED.push({
     { n: "cilantro fresco", q: 0.5, u: "manojo" }
   ],
   pasos: [
-    "Envuelve el tofu en papel de cocina y ponle peso encima 10 minutos para que suelte agua. Córtalo en dados de 2 cm.",
-    "Mezcla 2 cucharadas de tamari con el zumo de una lima, el jengibre y el ajo rallados, el azúcar y el aceite de sésamo. Marina el tofu en esta mezcla 10 minutos.",
+    "Envuelve el tofu en papel de cocina y ponle peso encima 10 minutos para que suelte agua. Mientras, ralla el jengibre y el ajo y mezcla 2 cucharadas de tamari con el zumo de una lima, el jengibre, el ajo, el azúcar y el aceite de sésamo.",
+    "Corta el tofu en dados de 2 cm y marínalo en esta mezcla 10 minutos. Mientras, pon a hervir agua para los fideos, corta la zanahoria y el pepino en juliana y la cebolleta en rodajas, y pica los cacahuetes.",
     "Escurre el tofu (guarda la marinada) y dóralo en una sartén con el aceite de oliva a fuego medio-alto 8 minutos, girándolo. Vierte la marinada y deja 1 minuto hasta que se reduzca y lo glasee.",
-    "Hidrata los fideos en agua hirviendo el tiempo que indique el paquete (6-8 minutos), escúrrelos y enjuágalos con agua fría para que no se peguen.",
-    "Corta la zanahoria y el pepino en juliana y la cebolleta en rodajas. Mezcla los fideos con el resto del tamari y el zumo de la otra lima.",
+    "Mientras se dora el tofu, hidrata los fideos en el agua hirviendo el tiempo que indique el paquete (6-8 minutos), escúrrelos y enjuágalos con agua fría para que no se peguen.",
+    "Mezcla los fideos con el resto del tamari y el zumo de la otra lima.",
     "Reparte en tuppers los fideos, las verduras y el tofu. Lleva aparte las hierbas y los cacahuetes picados para añadirlos al comer."
   ],
   nutricion: { kcal: 580, prot: 28, hc: 60, grasa: 25 },
@@ -206,10 +206,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos en agua hirviendo, pásalos a agua fría, pélalos y córtalos en cuartos.",
-    "Pon las habas y los guisantes en un bol con 3 cucharadas de agua, tapa y cocina en el microondas a 800 W 5 minutos, hasta que estén tiernos. Pásalos a agua con hielo para que mantengan el color. Si las habas son grandes, quítales la piel.",
-    "Bate el aceite con el vinagre, el zumo de limón, la menta picada, sal y pimienta.",
-    "Mezcla las habas y los guisantes escurridos con la cebolleta picada fina y la vinagreta.",
+    "Cuece los huevos 10 minutos en agua hirviendo y pásalos a agua fría.",
+    "Mientras se cuecen, pon las habas y los guisantes en un bol con 3 cucharadas de agua, tapa y cocina en el microondas a 800 W 5 minutos, hasta que estén tiernos. Pásalos a agua con hielo para que mantengan el color. Si las habas son grandes, quítales la piel.",
+    "Pica la menta y la cebolleta fina. Bate el aceite con el vinagre, el zumo de limón, la menta picada, sal y pimienta.",
+    "Pela los huevos y córtalos en cuartos. Mezcla las habas y los guisantes escurridos con la cebolleta y la vinagreta.",
     "Reparte en tuppers y coloca encima las tiras de jamón y el huevo duro."
   ],
   nutricion: { kcal: 430, prot: 32, hc: 24, grasa: 23 },
@@ -251,10 +251,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los macarrones en abundante agua con sal 1 minuto menos de lo que indica el paquete. Escúrrelos y pásalos por agua fría.",
-    "Sazona el pavo con sal y pimentón y cocínalo en una sartén con el aceite a fuego medio-alto 3-4 minutos por lado, hasta que esté dorado y blanco por dentro. Enfría y córtalo en dados.",
+    "Pon a hervir abundante agua con sal. Mientras se calienta, pica en dados pequeños los pepinillos, el apio, el pimiento y la cebolla.",
+    "Cuece los macarrones 1 minuto menos de lo que indica el paquete. Escúrrelos y pásalos por agua fría.",
+    "Mientras se cuece la pasta, sazona el pavo con sal y pimentón y cocínalo en una sartén con el aceite a fuego medio-alto 3-4 minutos por lado, hasta que esté dorado y blanco por dentro. Enfría y córtalo en dados.",
     "Mezcla el yogur con la mayonesa, la mostaza, el vinagre, sal y pimienta.",
-    "Pica en dados pequeños los pepinillos, el apio, el pimiento y la cebolla.",
     "Mezcla la pasta, el pavo, las verduras y el maíz con la salsa. Reparte en tuppers y refrigera 30 minutos antes de comer."
   ],
   nutricion: { kcal: 675, prot: 49, hc: 72, grasa: 21 },
@@ -336,11 +336,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y déjalo enfriar extendido.",
-    "Hidrata la wakame en agua fría 8-10 minutos, escúrrela apretando y trocéala si las hojas son grandes.",
-    "Corta el pepino en rodajas muy finas, mézclalo con una pizca de sal, espera 10 minutos y escúrrelo apretando con las manos.",
-    "Prepara el aliño disolviendo el azúcar en el vinagre con la salsa de soja y el jengibre rallado. Mezcla con el pepino y la wakame.",
+    "Mientras se cuece el arroz, pon la wakame a hidratar en agua fría 8-10 minutos. Corta el pepino en rodajas muy finas, mézclalo con una pizca de sal y déjalo 10 minutos.",
+    "Mientras esperan, ralla el jengibre y prepara el aliño disolviendo el azúcar en el vinagre con la salsa de soja y el jengibre. Corta el surimi en tiras.",
+    "Escurre la wakame apretando y trocéala si las hojas son grandes. Escurre el pepino apretando con las manos y mézclalos con el aliño.",
     "Cuece el edamame en el microondas con 2 cucharadas de agua, tapado, 3 minutos, y enfríalo.",
-    "Reparte en tuppers el arroz, el sunomono con su aliño, el edamame y el surimi en tiras. Termina con sésamo."
+    "Reparte en tuppers el arroz, el sunomono con su aliño, el edamame y el surimi. Termina con sésamo."
   ],
   nutricion: { kcal: 425, prot: 24, hc: 63, grasa: 8 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "ligera", "económica", "verano", "superalimentos", "poco especiada"],
@@ -377,7 +377,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las espinacas y los guisantes en un bol, tapa y cocina en el microondas a 800 W 2 minutos, hasta que las espinacas se ablanden. Escurre apretando bien para quitar el agua.",
+    "Pon las espinacas y los guisantes en un bol, tapa y cocina en el microondas a 800 W 2 minutos, hasta que las espinacas se ablanden. Mientras, pica la cebolleta y la menta. Escurre las verduras apretando bien para quitar el agua.",
     "Bate los huevos con sal, pimienta, la cebolleta picada y la menta picada.",
     "Unta con el aceite un molde apto para airfryer de unos 18 cm (o fórralo con papel de horno). Reparte las verduras y el feta desmigado y vierte el huevo por encima.",
     "Cocina en la airfryer a 160 °C 18-20 minutos, hasta que el centro esté cuajado (un palillo sale limpio) y la superficie dorada. Si se dora demasiado, cúbrela con papel de aluminio los últimos minutos.",
@@ -421,10 +421,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el bulgur en un bol con sal, cúbrelo con 280 ml de agua hirviendo, tapa y deja 15 minutos, hasta que absorba el agua. Esponja con un tenedor y deja enfriar.",
-    "Corta los pimientos en tiras y saltéalos en una sartén con 1 cucharada de aceite a fuego medio-alto 6-8 minutos, hasta que estén tiernos y con puntos tostados. Sácalos.",
+    "Mientras se hidrata, corta los pimientos en tiras y saltéalos en una sartén con 1 cucharada de aceite a fuego medio-alto 6-8 minutos, hasta que estén tiernos y con puntos tostados. Sácalos.",
     "Sazona los filetes con sal, la mitad del comino y el pimentón. En la misma sartén, muy caliente, márcalos 1-1½ minutos por lado. Reposa 5 minutos y córtalos en tiras finas.",
-    "Mezcla el yogur con el ajo rallado, el resto del comino, el zumo de medio limón y sal.",
-    "Mezcla el bulgur con el perejil picado, el pepino en dados, la cebolla muy picada, el resto del aceite y el zumo del otro medio limón.",
+    "Mientras reposa la ternera, ralla el ajo y mezcla el yogur con el ajo, el resto del comino, el zumo de medio limón y sal. Pica el perejil, corta el pepino en dados y pica muy fina la cebolla.",
+    "Mezcla el bulgur con el perejil, el pepino, la cebolla, el resto del aceite y el zumo del otro medio limón.",
     "Reparte en tuppers el bulgur, los pimientos y la ternera, y lleva la salsa de yogur aparte."
   ],
   nutricion: { kcal: 670, prot: 44, hc: 61, grasa: 28 },
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga los garbanzos y déjalos escurrir bien.",
-    "Corta el pimiento y el tomate en dados de 1 cm y la cebolla morada en daditos pequeños.",
+    "Corta el pimiento y el tomate en dados de 1 cm y la cebolla morada en daditos pequeños, y pica el perejil.",
     "Bate el zumo del limón con el comino, el aceite, 1 cucharada del aceite de la caballa, sal y pimienta.",
     "Mezcla los garbanzos con las verduras, las aceitunas y la vinagreta. Reparte en tuppers y coloca encima la caballa en trozos grandes y el perejil picado."
   ],
@@ -508,10 +508,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el trigo sarraceno en agua hirviendo con sal 10-12 minutos, hasta que esté tierno pero entero. Escúrrelo, enjuágalo con agua fría y déjalo escurrir.",
-    "Corta el tempeh en dados de 1,5 cm y marínalo 10 minutos con el tamari, 1 cucharadita de sirope de arce y el pimentón.",
+    "Mientras se cuece, corta el tempeh en dados de 1,5 cm y marínalo 10 minutos con el tamari, 1 cucharadita de sirope de arce y el pimentón.",
     "Cocina el tempeh en la airfryer a 190 °C 10 minutos, sacudiendo a mitad, hasta que esté dorado y crujiente por fuera. Tuesta las semillas de calabaza 2 minutos a 160 °C.",
-    "Bate la mostaza con el resto del sirope, el vinagre, el aceite y sal.",
-    "Corta la col lombarda en juliana muy fina y ralla la zanahoria. Mézclalas con la mitad del aliño y masajéalas 1 minuto para que se ablanden.",
+    "Mientras se hace el tempeh, bate la mostaza con el resto del sirope, el vinagre, el aceite y sal. Corta la col lombarda en juliana muy fina y ralla la zanahoria. Mézclalas con la mitad del aliño y masajéalas 1 minuto para que se ablanden.",
     "Reparte en tuppers el trigo sarraceno, la col y el tempeh. Lleva aparte la pera (córtala al comer), las semillas y el resto del aliño."
   ],
   nutricion: { kcal: 605, prot: 32, hc: 65, grasa: 24 },
@@ -550,11 +549,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece la pasta en abundante agua con sal el tiempo del paquete. Dos minutos antes del final añade los guisantes a la misma olla.",
+    "Pon a hervir abundante agua con sal. Mientras se calienta, pica muy fina la cebolla.",
+    "Cuece la pasta el tiempo del paquete. Dos minutos antes del final añade los guisantes a la misma olla.",
+    "Mientras se cuece, pica el eneldo y las alcaparras y mézclalos con el yogur, la ralladura y el zumo del limón, el aceite y pimienta. Prueba antes de salar: el salmón ya aporta sal.",
     "Escurre pasta y guisantes y pásalos por agua fría hasta que estén fríos.",
-    "Mezcla el yogur con el eneldo picado, la ralladura y el zumo del limón, las alcaparras picadas, el aceite y pimienta. Prueba antes de salar: el salmón ya aporta sal.",
-    "Mezcla la pasta y los guisantes con la salsa y la cebolla picada muy fina.",
-    "Reparte en tuppers, coloca el salmón en tiras por encima y lleva la rúcula aparte para añadirla al comer."
+    "Mezcla la pasta y los guisantes con la salsa y la cebolla picada.",
+    "Reparte en tuppers, corta el salmón en tiras y colócalo por encima, y lleva la rúcula aparte para añadirla al comer."
   ],
   nutricion: { kcal: 670, prot: 34, hc: 78, grasa: 25 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "alta en proteína", "omega 3", "poco especiada", "bajo en colesterol"],
@@ -594,10 +594,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el edamame en un bol con 2 cucharadas de agua, tapa y cocina en el microondas a 800 W 3 minutos. Escúrrelo y pásalo por agua fría.",
+    "Pon el edamame en un bol con 2 cucharadas de agua, tapa y cocina en el microondas a 800 W 3 minutos. Mientras, pica el chile, la cebolla y el cilantro, parte los tomates por la mitad y corta el queso fresco en dados. Escurre el edamame y pásalo por agua fría.",
     "Bate el zumo de una lima y media con el comino, el aceite, el chile picado y sal.",
-    "Mezcla el edamame, las alubias, el maíz, los tomates partidos y la cebolla picada con el aliño.",
-    "Reparte en tuppers y coloca encima el queso fresco en dados y el cilantro picado.",
+    "Mezcla el edamame, las alubias, el maíz, los tomates y la cebolla con el aliño.",
+    "Reparte en tuppers y coloca encima el queso fresco y el cilantro picado.",
     "Lleva el aguacate entero y córtalo al comer, regándolo con el zumo de la media lima restante."
   ],
   nutricion: { kcal: 540, prot: 31, hc: 46, grasa: 26 },
@@ -641,9 +641,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara. Cuécelo con 180 ml de agua y sal, tapado, a fuego mínimo 10 minutos. Reposa 5 minutos y extiéndelo para que se enfríe.",
-    "Seca muy bien los garbanzos con papel de cocina y mézclalos con el aceite, el garam masala, el pimentón, la cúrcuma, la mitad del comino y sal.",
+    "Mientras se cuece el arroz, seca muy bien los garbanzos con papel de cocina y mézclalos con el aceite, el garam masala, el pimentón, la cúrcuma, la mitad del comino y sal.",
     "Cocínalos en la airfryer a 200 °C 14-16 minutos, sacudiendo la cesta dos veces, hasta que estén dorados y crujientes.",
-    "Haz la raita: mezcla el yogur con medio pepino rallado y escurrido, la menta picada, el resto del comino y sal.",
+    "Mientras se hacen, ralla medio pepino y escúrrelo, y pica la menta y el cilantro. Haz la raita: mezcla el yogur con el pepino rallado, la menta, el resto del comino y sal.",
     "Corta el otro medio pepino, el tomate y la cebolla en dados y mézclalos con el cilantro, el zumo de limón y sal.",
     "Reparte en tuppers el arroz y la ensalada. Lleva los garbanzos y la raita aparte para que no se ablanden."
   ],
@@ -683,11 +683,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal. Echa las judías verdes y, a los 2 minutos, la pasta de lentejas. Cuécela 1 minuto menos de lo que indique el paquete (suele ser 6-8 minutos), porque se pasa enseguida.",
+    "Pon a hervir abundante agua con sal. Mientras se calienta, corta la cebolla en juliana fina, parte los tomates y bate la mostaza con el vinagre, el aceite, sal y pimienta.",
+    "Echa las judías verdes al agua hirviendo y, a los 2 minutos, la pasta de lentejas. Cuécela 1 minuto menos de lo que indique el paquete (suele ser 6-8 minutos), porque se pasa enseguida.",
     "Escurre con cuidado y enjuaga con agua fría para cortar la cocción y quitar la espuma de la legumbre.",
-    "Bate la mostaza con el vinagre, el aceite, sal y pimienta.",
-    "Mezcla la pasta y las judías con los tomates partidos, las aceitunas, la cebolla en juliana fina y la vinagreta.",
-    "Reparte en tuppers, coloca el atún en lascas por encima y termina con la albahaca troceada."
+    "Mezcla la pasta y las judías con los tomates, las aceitunas, la cebolla y la vinagreta.",
+    "Reparte en tuppers, coloca el atún en lascas por encima y trocea la albahaca con las manos por encima."
   ],
   nutricion: { kcal: 495, prot: 40, hc: 42, grasa: 18 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "sin gluten", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -727,7 +727,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Salpimienta los filetes de pavo y cocínalos en una sartén caliente con unas gotas de aceite 2-3 minutos por lado, hasta que estén dorados y blancos por dentro. Enfríalos y córtalos en tiras.",
-    "Tritura la rúcula con las almendras, el parmesano, el ajo, el zumo de limón, el resto del aceite, 1 cucharada de agua y una pizca de sal hasta tener un pesto espeso.",
+    "Mientras se enfría el pavo, tritura la rúcula con las almendras, el parmesano, el ajo, el zumo de limón, el resto del aceite, 1 cucharada de agua y una pizca de sal hasta tener un pesto espeso.",
     "Escurre el queso fresco sobre papel de cocina y córtalo en láminas. Corta el tomate en rodajas finas y sécalas.",
     "Unta cada tortilla con pesto, pon una capa de espinacas, el queso, el pavo y el tomate.",
     "Dobla los lados, enrolla bien apretado y envuelve cada wrap en papel de horno. Córtalos por la mitad al comer."
@@ -767,9 +767,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien los langostinos y mézclalos con el ajo laminado, la guindilla en aros, 1 cucharada de aceite y sal.",
+    "Lamina el ajo y corta la guindilla en aros. Seca bien los langostinos y mézclalos con el ajo, la guindilla, 1 cucharada de aceite y sal.",
     "Ponlos en un recipiente apto para airfryer (o sobre papel de horno perforado) y cocínalos a 200 °C 6-7 minutos, removiendo a mitad, hasta que estén rosados y opacos. Deja que se enfríen con su aceite.",
-    "Mezcla las judías con el tomate seco en tiras, el perejil picado, el zumo del limón, el resto del aceite y el aceite del ajillo.",
+    "Mientras se hacen, corta el tomate seco en tiras y pica el perejil.",
+    "Mezcla las judías con el tomate seco, el perejil, el zumo del limón, el resto del aceite y el aceite del ajillo.",
     "Reparte en tuppers, coloca los langostinos con sus ajos encima y lleva la rúcula aparte."
   ],
   nutricion: { kcal: 370, prot: 37, hc: 23, grasa: 14 },
@@ -852,7 +853,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y extiéndelo para que se enfríe.",
-    "Mientras, corta los pimientos y el apio en dados pequeños y la cebolleta en rodajas finas.",
+    "Mientras, corta los pimientos y el apio en dados pequeños y la cebolleta en rodajas finas, y pica el perejil.",
     "Prepara el aliño cajún mezclando el pimentón, el ajo en polvo, el orégano, el tomillo y la cayena con el vinagre, el aceite y sal.",
     "Mezcla el arroz, las alubias y las verduras con el aliño y deja reposar 15 minutos para que el arroz absorba las especias.",
     "Reparte en tuppers y termina con perejil picado."
@@ -896,8 +897,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la patata con piel en dados de 2 cm, los pimientos en tiras y la cebolla en gajos. Mézclalos con 1 cucharada de aceite y sal.",
     "Ásalos en la airfryer a 200 °C 20-22 minutos, sacudiendo la cesta dos veces, hasta que la patata esté dorada y tierna. Si la cesta es pequeña, hazlo en dos tandas.",
-    "Corta el seitán en dados, mézclalo con el pimentón, 1 cucharadita de aceite y sal, y añádelo a la cesta los últimos 6 minutos para que se tueste.",
-    "Prepara la vinagreta con el ajo picado muy fino, el vinagre, el resto del aceite, el perejil picado y una pizca de sal.",
+    "Mientras se asan, corta el seitán en dados, mézclalo con el pimentón, 1 cucharadita de aceite y sal, y añádelo a la cesta los últimos 6 minutos para que se tueste.",
+    "Mientras, pica muy fino el ajo y el perejil y prepara la vinagreta con el ajo, el vinagre, el resto del aceite, el perejil y una pizca de sal.",
     "Mezcla las verduras y el seitán todavía templados con la vinagreta para que la absorban. Reparte en tuppers con las aceitunas y lleva las almendras aparte."
   ],
   nutricion: { kcal: 700, prot: 40, hc: 68, grasa: 30 },
@@ -935,9 +936,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos en agua hirviendo 10 minutos, pásalos a agua fría y pélalos.",
+    "Cuece los huevos en agua hirviendo 10 minutos. Mientras, pica el cebollino y ralla la zanahoria con el rallador grueso.",
+    "Pasa los huevos a agua fría y pélalos.",
     "Cháfalos con un tenedor y mézclalos con el yogur, el curry, la mostaza, el cebollino picado, sal y pimienta hasta tener una pasta cremosa con trocitos.",
-    "Ralla la zanahoria con el rallador grueso.",
     "Pon sobre cada tortilla una capa de espinacas, la ensalada de huevo, la zanahoria y las pasas. Dobla los lados, enrolla apretado y envuelve en papel de horno."
   ],
   nutricion: { kcal: 420, prot: 24, hc: 40, grasa: 18 },
@@ -978,9 +979,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la patata en dados de 2 cm, ponla en un bol con 2 cucharadas de agua y sal, tapa y cocina en el microondas a 800 W 6-7 minutos, hasta que esté tierna. Deja enfriar.",
-    "Prepara el chimichurri: pica muy fino el perejil y el ajo y mézclalos con el orégano, la cayena, el vinagre, el aceite, sal y pimienta. Deja reposar 10 minutos.",
+    "Mientras se cocina la patata, prepara el chimichurri: pica muy fino el perejil y el ajo y mézclalos con el orégano, la cayena, el vinagre, el aceite, sal y pimienta. Deja reposar 10 minutos.",
     "Salpimienta el pollo y cocínalo en una sartén caliente con unas gotas de aceite 4 minutos por lado, hasta que esté dorado y sin rastro rosado. Enfríalo y córtalo en dados.",
-    "Corta el tomate en dados y la cebolla en juliana fina.",
+    "Mientras se enfría el pollo, corta el tomate en dados y la cebolla en juliana fina.",
     "Mezcla la patata, el pollo, el tomate, la cebolla y el maíz con la mitad del chimichurri. Reparte en tuppers y lleva el resto de la salsa aparte."
   ],
   nutricion: { kcal: 455, prot: 38, hc: 39, grasa: 17 },
@@ -1019,10 +1020,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las judías verdes en tramos de 3 cm, ponlas en un bol con 2 cucharadas de agua, tapa y cocina en el microondas a 800 W 4 minutos, hasta que estén tiernas pero crujientes. Pásalas por agua fría.",
-    "Salpimienta el salmón, úntalo con unas gotas de aceite y cocínalo en la airfryer a 180 °C 9-10 minutos, hasta que se separe en lascas por dentro. Déjalo enfriar, quita la piel y desmenúzalo en trozos grandes.",
-    "Bate la mostaza con el vinagre, el estragón, el resto del aceite, sal y pimienta. Añade la chalota picada muy fina.",
-    "Mezcla las judías blancas con las judías verdes, los tomates partidos y la vinagreta.",
+    "Salpimienta el salmón, úntalo con unas gotas de aceite y cocínalo en la airfryer a 180 °C 9-10 minutos, hasta que se separe en lascas por dentro.",
+    "Mientras, corta las judías verdes en tramos de 3 cm, ponlas en un bol con 2 cucharadas de agua, tapa y cocina en el microondas a 800 W 4 minutos, hasta que estén tiernas pero crujientes. Pásalas por agua fría.",
+    "Pica muy fina la chalota y parte los tomates. Bate la mostaza con el vinagre, el estragón, el resto del aceite, sal y pimienta, y añade la chalota.",
+    "Deja enfriar el salmón, quita la piel y desmenúzalo en trozos grandes.",
+    "Mezcla las judías blancas con las judías verdes, los tomates y la vinagreta.",
     "Reparte en tuppers y coloca el salmón por encima."
   ],
   nutricion: { kcal: 500, prot: 37, hc: 25, grasa: 28 },
@@ -1063,8 +1065,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Seca bien los garbanzos con papel, mézclalos con el aceite, el pimentón, el comino y sal, y ásalos en la airfryer a 200 °C 14-16 minutos, sacudiendo a mitad, hasta que estén crujientes. Déjalos enfriar.",
-    "Corta la col lombarda en juliana muy fina, ponle una pizca de sal y masajéala 1 minuto con las manos para que se ablande.",
-    "Ralla la zanahoria y corta la manzana en bastones finos; riégala con un poco de zumo de limón para que no se oxide.",
+    "Mientras se asan, corta la col lombarda en juliana muy fina, ponle una pizca de sal y masajéala 1 minuto con las manos para que se ablande.",
+    "Ralla la zanahoria, pica el perejil y corta la manzana en bastones finos; riégala con un poco de zumo de limón para que no se oxide.",
     "Bate el tahini con el resto del zumo de limón, 3 cucharadas de agua y sal hasta tener un aliño cremoso.",
     "Mezcla la col, la zanahoria, la manzana y el perejil picado con el aliño. Reparte en tuppers y lleva aparte los garbanzos y las semillas para que sigan crujientes."
   ],

@@ -35,9 +35,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela los espárragos con un pelador desde justo debajo de la yema hacia la base, apretando cada vez más: la piel del espárrago blanco es fibrosa y, si queda, no hay cocción que la ablande. Corta 2 cm de la base y átalos en un manojo con hilo de cocina para que no se golpeen al hervir.",
     "Pon a hervir una cazuela alta con agua, sal y una pizca de azúcar (compensa el leve amargor). Pon las patatas nuevas con piel en otro cazo con agua fría y sal y cuécelas 15-20 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Cuece el manojo de espárragos 12-15 minutos según grosor, hasta que la punta de un cuchillo atraviese la base sin esfuerzo. Apaga el fuego y déjalos templar dentro de su agua: así no se secan ni se arrugan.",
+    "Cuece el manojo de espárragos 12-15 minutos según grosor, hasta que la punta de un cuchillo atraviese la base sin esfuerzo. Apaga el fuego y déjalos templar dentro de su agua: así no se secan ni se arrugan. Mientras se cuecen, pica muy fino la cebolleta, los pepinillos y el perejil.",
     "Mientras, cuece los huevos 10 minutos desde que el agua hierve y pásalos a agua fría para que se pelen bien y la yema no se ponga verdosa.",
-    "Pica muy fino la cebolleta, los pepinillos, el perejil y los huevos pelados.",
+    "Pela los huevos y pícalos muy finos.",
     "En un bol, bate el vinagre con la mostaza y una pizca de sal; añade el aceite en hilo sin dejar de batir para que emulsione. Incorpora el picadillo y 2 cucharadas del agua caliente de los espárragos: templa la vinagreta y le da sabor.",
     "Escurre los espárragos, desátalos y sírvelos con las patatas abiertas por la mitad, la vinagreta tibia por encima y pimienta recién molida."
   ],
@@ -77,8 +77,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el bacalao en dados de 3 cm, sálalo ligeramente y déjalo en la nevera mientras cocinas: la sal penetra y la carne se afirma, así no se deshace luego en el caldo.",
     "Calienta el caldo y mantenlo a fuego mínimo. Añadirlo caliente evita que la cocción del arroz se corte y que el grano se abra por fuera antes de hacerse por dentro.",
-    "Limpia los ajos tiernos y córtalos en rodajas de 1 cm. Rehógalos en la cazuela con el aceite a fuego medio 3 minutos, hasta que estén blandos sin dorarse.",
-    "Ralla el tomate, añádelo y cocina 5 minutos, hasta que pierda el agua. Aparta del fuego, incorpora el pimentón y remueve 20 segundos para que no amargue.",
+    "Limpia los ajos tiernos y córtalos en rodajas de 1 cm. Rehógalos en la cazuela con el aceite a fuego medio 3 minutos, hasta que estén blandos sin dorarse. Mientras, ralla el tomate.",
+    "Añade el tomate y cocina 5 minutos, hasta que pierda el agua. Aparta del fuego, incorpora el pimentón y remueve 20 segundos para que no amargue.",
     "Echa el arroz y nacáralo 1 minuto removiendo, para que se impregne del sofrito. Vierte el caldo caliente con el azafrán desmenuzado y sala con prudencia (el caldo ya tiene sal). Cuece 8 minutos a fuego medio-alto.",
     "Añade las habas (si son grandes, pela antes la segunda piel tras escaldarlas 1 minuto) y cuece 6 minutos más a fuego medio.",
     "Reparte el bacalao por encima, hundiéndolo un poco, y cuece 3-4 minutos, hasta que esté opaco y se separe en lascas. Si se queda corto de caldo, añade un cacillo: un caldoso debe quedar suelto, como una sopa espesa.",
@@ -120,11 +120,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara un bol con agua y hielo. Escalda los guisantes 3 minutos en agua hirviendo con sal y pásalos al agua helada: el choque de frío fija la clorofila y la crema quedará verde brillante en lugar de verde oliva.",
-    "Pica la cebolleta y póchala en una cazuela con 1 cucharada de aceite a fuego suave 6 minutos, sin que tome color.",
-    "Añade la patata en dados pequeños y el caldo, y cuece 12 minutos, hasta que la patata esté tierna. Aporta cuerpo sin necesidad de nata.",
+    "Pica la cebolleta y póchala en una cazuela con 1 cucharada de aceite a fuego suave 6 minutos, sin que tome color. Mientras, pela la patata y córtala en dados pequeños.",
+    "Añade la patata y el caldo, y cuece 12 minutos, hasta que la patata esté tierna. Aporta cuerpo sin necesidad de nata.",
     "Incorpora los guisantes escurridos y las hojas de hierbabuena, dale un hervor de 1 minuto y apaga. Cuanto menos cuezan los guisantes, más dulces y verdes quedan.",
     "Tritura hasta que quede muy fina y, si quieres textura de terciopelo, pásala por un colador apretando con una cuchara. Ajusta sal y pimienta y enfríala en la nevera al menos 1 hora (o rápido, con el cazo dentro de un bol con hielo).",
-    "Corta los rábanos en láminas finísimas y déjalos 10 minutos en agua helada: se vuelven más crujientes y pierden algo de picor.",
+    "Mientras se enfría, corta los rábanos en láminas finísimas y déjalos 10 minutos en agua helada: se vuelven más crujientes y pierden algo de picor.",
     "Mezcla el yogur con la ralladura y el zumo del medio limón y una pizca de sal. Sirve la crema bien fría con una cucharada de yogur, los rábanos escurridos, unas hojas de hierbabuena y un hilo del aceite restante."
   ],
   nutricion: { kcal: 425, prot: 15, hc: 44, grasa: 21 },
@@ -166,13 +166,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien los lomos de caballa con papel, sálalos y pásalos por harina sacudiendo el exceso: la capa fina protege la carne y luego ayuda a que el escabeche quede ligado.",
+    "Chafa los ajos, corta las zanahorias en bastones y las cebolletas en gajos. Seca bien los lomos de caballa con papel, sálalos y pásalos por harina sacudiendo el exceso: la capa fina protege la carne y luego ayuda a que el escabeche quede ligado.",
     "Calienta el aceite en una sartén a fuego medio-alto y dora la caballa por el lado de la piel 2 minutos y 1 minuto por el otro. Debe quedar poco hecha: terminará de cocinarse con el calor del escabeche. Colócala en una fuente honda.",
-    "Cuela el aceite de freír y vuelve a ponerlo en una cazuela. Confita a fuego suave los ajos enteros chafados, las zanahorias en bastones y las cebolletas en gajos 8 minutos, hasta que estén tiernas pero enteras.",
+    "Cuela el aceite de freír y vuelve a ponerlo en una cazuela. Confita a fuego suave los ajos, las zanahorias y las cebolletas 8 minutos, hasta que estén tiernas pero enteras.",
     "Aparta del fuego, añade el pimentón y remueve 20 segundos. Vierte el vinagre, el vino y el agua, y añade el laurel, el tomillo, la pimienta en grano y una cucharadita de sal.",
     "Vuelve al fuego y deja hervir 5 minutos: el hervor suaviza la aspereza del vinagre y une los sabores.",
     "Vierte el escabeche hirviendo sobre la caballa, cubriéndola bien con las verduras. Deja que se temple y reposa al menos 1 hora (mejor de un día para otro en la nevera).",
-    "Cuece las patatas nuevas con piel en agua con sal 15-20 minutos. Sírvelas templadas junto a la caballa y sus verduras, rociadas con un poco del escabeche."
+    "Cuando falte media hora para servir, cuece las patatas nuevas con piel en agua con sal 15-20 minutos. Sírvelas templadas junto a la caballa y sus verduras, rociadas con un poco del escabeche."
   ],
   nutricion: { kcal: 590, prot: 33, hc: 42, grasa: 32 },
   etiquetas: ["primavera", "temporada", "escabeche", "batch cooking", "ideal para llevar", "omega 3", "poco especiada"],
@@ -210,12 +210,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca el bonito de la nevera 15 minutos antes: si entra frío en la plancha, se pasa por fuera antes de templarse por dentro.",
-    "Pica la cebolla y los ajos tiernos en rodajas y rehógalos con 1 cucharada de aceite a fuego medio 5 minutos.",
-    "Corta los calabacines en dados de 1 cm, sube el fuego y añádelos. Saltea 5 minutos a fuego vivo sin salar todavía: la sal haría que soltaran agua y se cocerían en vez de dorarse.",
-    "Ralla los tomates y añádelos con el tomillo. Cocina 5 minutos más, hasta que el tomate pierda el agua y el pisto quede jugoso pero no caldoso. Ahora sí, sala y pimienta.",
+    "Pica la cebolla y los ajos tiernos en rodajas y rehógalos con 1 cucharada de aceite a fuego medio 5 minutos. Mientras, corta los calabacines en dados de 1 cm y ralla los tomates.",
+    "Sube el fuego y añade los calabacines. Saltea 5 minutos a fuego vivo sin salar todavía: la sal haría que soltaran agua y se cocerían en vez de dorarse.",
+    "Añade los tomates con el tomillo. Cocina 5 minutos más, hasta que el tomate pierda el agua y el pisto quede jugoso pero no caldoso. Ahora sí, sala y pimienta.",
     "Calienta la plancha o una sartén gruesa a fuego fuerte hasta que humee ligeramente. Pinta el bonito con 1 cucharada de aceite y sálalo.",
-    "Marca el bonito 1,5-2 minutos por cada cara, sin moverlo, hasta que tenga costra dorada y el centro siga rosado. El bonito se seca en cuanto pasa del punto, así que mejor corto que largo. Deja reposar 2 minutos.",
-    "Tuesta el pan en la misma plancha con el último aceite. Sirve el pisto en la base, el bonito cortado en lonchas gruesas encima con sal en escamas y el pan al lado."
+    "Marca el bonito 1,5-2 minutos por cada cara, sin moverlo, hasta que tenga costra dorada y el centro siga rosado. El bonito se seca en cuanto pasa del punto, así que mejor corto que largo. Déjalo reposar 2 minutos y, mientras, tuesta el pan en la misma plancha con el último aceite.",
+    "Sirve el pisto en la base, el bonito cortado en lonchas gruesas encima con sal en escamas y el pan al lado."
   ],
   nutricion: { kcal: 585, prot: 43, hc: 38, grasa: 29 },
   etiquetas: ["primavera", "temporada", "alta en proteína", "rápida", "omega 3", "poco especiada"],
@@ -257,10 +257,10 @@ window.RECETAS_SEED.push({
     "Saca las paletillas de la nevera 30 minutos antes y sálalas por todas partes. Precalienta el horno a 170 °C con calor arriba y abajo.",
     "Pela las patatas, córtalas en rodajas de medio centímetro y la cebolla en juliana. Extiéndelas en una fuente de horno, sala, riega con 2 cucharadas de aceite y hornea 15 minutos: así llevan ventaja y estarán tiernas a la vez que la carne.",
     "Coloca las paletillas sobre las patatas con la piel hacia abajo, junto con los ajos chafados, el romero y el laurel. Mezcla el vino, el agua y el vinagre y viértelo en la fuente, no por encima de la carne.",
-    "Asa 45 minutos. En esta primera fase, con la piel abajo y en contacto con el líquido, la carne se cuece suave en un ambiente húmedo y no se reseca.",
+    "Asa 45 minutos. En esta primera fase, con la piel abajo y en contacto con el líquido, la carne se cuece suave en un ambiente húmedo y no se reseca. Mientras, lava la lechuga y córtala en juliana fina con la cebolleta; guárdalas en la nevera sin aliñar.",
     "Da la vuelta a las paletillas para dejar la piel arriba, riégalas con su jugo y pinta la piel con el último aceite. Sube el horno a 200 °C y asa 20-25 minutos más, hasta que la piel esté dorada y crujiente: ahora el calor seco es el que la tuesta.",
     "Comprueba el punto: la carne debe separarse del hueso al tirar con un tenedor. Si las patatas quedan secas, añade un chorrito de agua caliente.",
-    "Deja reposar la carne 5 minutos fuera del horno. Mientras, corta la lechuga y la cebolleta en juliana fina y aliña con aceite, vinagre y sal.",
+    "Deja reposar la carne 5 minutos fuera del horno. Mientras, aliña la ensalada con aceite, vinagre y sal.",
     "Sirve cada paletilla sobre sus patatas panaderas, con el jugo de la fuente por encima y la ensalada aparte para refrescar."
   ],
   nutricion: { kcal: 920, prot: 57, hc: 52, grasa: 54 },
@@ -300,11 +300,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las cebolletas, córtalas en cuartos a lo largo y rehógalas en una cazuela con la mantequilla a fuego medio-bajo 3 minutos, sin que tomen color.",
-    "Añade los guisantes, el caldo, la pizca de azúcar y sal. Tapa y cuece a fuego suave 8 minutos. Es un braseado: poco líquido, grasa y tapa, de modo que la verdura se cuece en su propio vapor y concentra el sabor en lugar de perderlo en el agua.",
-    "Corta los cogollos en cuartos, añádelos a la cazuela y tapa 3 minutos más, solo hasta que se ablanden y se vuelvan sedosos. Destapa y deja reducir el fondo 1 minuto si ha quedado mucho líquido: debe quedar una salsa corta y brillante.",
-    "Para escalfar, lleva a ebullición un cazo con agua y el vinagre (sin sal, que deshace la clara) y baja el fuego hasta que apenas tiemble.",
-    "Casca cada huevo en un cuenco, crea un remolino suave en el agua y deslízalo en el centro. Cuécelo 3 minutos y sácalo con una espumadera a papel de cocina.",
-    "Tuesta las rebanadas de pan. Sirve los guisantes con su jugo, el huevo encima, pimienta, la menta picada al momento y el pan para mojar la yema."
+    "Añade los guisantes, el caldo, la pizca de azúcar y sal. Tapa y cuece a fuego suave 8 minutos. Es un braseado: poco líquido, grasa y tapa, de modo que la verdura se cuece en su propio vapor y concentra el sabor en lugar de perderlo en el agua. Mientras, corta los cogollos en cuartos y pon a hervir un cazo con agua y el vinagre (sin sal, que deshace la clara) para escalfar.",
+    "Añade los cogollos a la cazuela y tapa 3 minutos más, solo hasta que se ablanden y se vuelvan sedosos. Destapa y deja reducir el fondo 1 minuto si ha quedado mucho líquido: debe quedar una salsa corta y brillante.",
+    "Cuando el agua del cazo hierva, baja el fuego hasta que apenas tiemble.",
+    "Casca cada huevo en un cuenco, crea un remolino suave en el agua y deslízalo en el centro. Cuécelo 3 minutos y sácalo con una espumadera a papel de cocina. Mientras se escalfa, tuesta las rebanadas de pan.",
+    "Sirve los guisantes con su jugo, el huevo encima, pimienta, la menta picada al momento y el pan para mojar la yema."
   ],
   nutricion: { kcal: 460, prot: 21, hc: 56, grasa: 17 },
   etiquetas: ["primavera", "temporada", "ligera", "rápida", "cena", "poco especiada"],
@@ -345,10 +345,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava la quinoa en un colador fino frotándola bajo el grifo hasta que no haga espuma: así eliminas las saponinas, que dan sabor amargo. Tuéstala en el cazo seco 2 minutos, hasta que huela a nuez.",
     "Añade 200 ml de agua y una pizca de sal, tapa y cuece 12 minutos a fuego suave. Apaga y deja reposar 5 minutos tapada; después extiéndela en una bandeja para que se enfríe sin apelmazarse.",
-    "Corta las fresas en cuartos y mézclalas con el balsámico y una pizca de sal. Déjalas macerar 10 minutos: sueltan su jugo y se intensifica el sabor.",
+    "Mientras se cuece la quinoa, corta las fresas en cuartos y mézclalas con el balsámico y una pizca de sal. Déjalas macerar 10 minutos: sueltan su jugo y se intensifica el sabor.",
     "Tuesta las almendras en una sartén seca a fuego medio 3-4 minutos, removiendo, hasta que huelan y se doren por dentro. Pícalas gruesas.",
     "Rompe la base de los espárragos doblándolos (se parten justo donde termina la parte leñosa). Sácales cintas con un pelador y ponlas 5 minutos en agua helada: se rizan y quedan crujientes. Crudos son dulces, pero solo si son finos y de hoy.",
-    "Corta la cebolla morada en plumas finísimas. Prepara la vinagreta batiendo el jugo de las fresas con el zumo de limón, la mostaza, el aceite, sal y pimienta.",
+    "Corta la cebolla morada en plumas finísimas. Prepara la vinagreta batiendo el jugo de las fresas con el zumo de limón, la mostaza, el aceite, sal y pimienta. Pica la menta.",
     "Mezcla la quinoa con la rúcula, la cebolla y las cintas de espárrago bien escurridas. Aliña, reparte las fresas y termina con las almendras y la menta picada."
   ],
   nutricion: { kcal: 445, prot: 13, hc: 46, grasa: 23 },
@@ -390,12 +390,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Seca muy bien los contramuslos con papel y salpimiéntalos. Deshuesa las cerezas (con una pajita o un palillo empujando desde el rabo) y pártelas por la mitad.",
-    "Pon los contramuslos con la piel hacia abajo en una sartén fría con la cucharadita de aceite y enciende a fuego medio. Déjalos 10-12 minutos sin tocarlos: al calentarse poco a poco, la grasa de la piel se funde y la piel queda fina y crujiente.",
+    "Pon los contramuslos con la piel hacia abajo en una sartén fría con la cucharadita de aceite y enciende a fuego medio. Déjalos 10-12 minutos sin tocarlos: al calentarse poco a poco, la grasa de la piel se funde y la piel queda fina y crujiente. Mientras, pica las chalotas, el perejil y la menta.",
     "Dales la vuelta y cocina 4-5 minutos más, hasta que el jugo salga claro al pincharlos. Retíralos a un plato con la piel hacia arriba.",
-    "Quita la grasa de la sartén dejando solo 1 cucharada. Rehoga las chalotas picadas 2 minutos y añade las cerezas, 2 minutos más.",
-    "Vierte el vino y rasca el fondo con una cuchara de madera: esos restos tostados pegados son puro sabor y se disuelven en el vino (es desglasar). Añade el balsámico y el tomillo y reduce 5 minutos, hasta que la salsa quede almibarada.",
+    "Quita la grasa de la sartén dejando solo 1 cucharada. Rehoga las chalotas 2 minutos y añade las cerezas, 2 minutos más.",
+    "Vierte el vino y rasca el fondo con una cuchara de madera: esos restos tostados pegados son puro sabor y se disuelven en el vino (es desglasar). Añade el balsámico y el tomillo y reduce 5 minutos, hasta que la salsa quede almibarada. Mientras reduce, hierve el caldo, viértelo sobre el cuscús en un bol con una pizca de sal y tapa 5 minutos.",
     "Fuera del fuego, incorpora la mantequilla fría moviendo la sartén hasta que se funda: la salsa gana brillo y cuerpo sin cortarse. Ajusta de sal.",
-    "Para el cuscús, hierve el caldo, viértelo sobre el cuscús en un bol con una pizca de sal, tapa 5 minutos y desgránalo con un tenedor. Mezcla con el perejil y la menta picados.",
+    "Desgrana el cuscús con un tenedor y mézclalo con el perejil y la menta picados.",
     "Sirve el cuscús, la salsa de cerezas en el plato y el pollo encima, no debajo de la salsa, para que la piel siga crujiente."
   ],
   nutricion: { kcal: 750, prot: 37, hc: 70, grasa: 36 },
@@ -435,10 +435,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las lentejas en agua fría con el laurel y un diente de ajo, sin sal, 20-25 minutos a fuego suave, hasta que estén tiernas pero enteras. Sala en los últimos 5 minutos y escúrrelas.",
-    "Mientras, corta la cebolla morada en plumas finas y cúbrela con el zumo de medio limón y una pizca de sal: en 10 minutos estará encurtida, rosa y sin el picor de la cebolla cruda.",
-    "Precalienta el horno a 220 °C. Separa las hojas de los rábanos, parte los rábanos por la mitad y mézclalos con 1 cucharada de aceite, el comino y sal. Ásalos 15-18 minutos con el corte hacia abajo. El calor transforma su picor en dulzor.",
+    "Mientras, precalienta el horno a 220 °C, corta la cebolla morada en plumas finas y cúbrela con el zumo de medio limón y una pizca de sal: en 10 minutos estará encurtida, rosa y sin el picor de la cebolla cruda.",
+    "Separa las hojas de los rábanos, parte los rábanos por la mitad y mézclalos con 1 cucharada de aceite, el comino y sal. Ásalos 15-18 minutos con el corte hacia abajo. El calor transforma su picor en dulzor. Mientras se asan, lava muy bien las hojas de rábano en varias aguas (suelen traer arena), lamina el otro ajo, pica el eneldo y desmenuza el feta.",
     "Aliña las lentejas aún calientes con 1 cucharada de aceite, el zumo del otro medio limón, sal y pimienta. En caliente absorben el aliño y quedan sabrosas por dentro, no solo por fuera.",
-    "Lava muy bien las hojas de rábano en varias aguas (suelen traer arena). Saltéalas 1 minuto en una sartén con la última cucharada de aceite y el otro ajo laminado, como si fueran espinacas.",
+    "Saltea las hojas de rábano 1 minuto en una sartén con la última cucharada de aceite y el ajo laminado, como si fueran espinacas.",
     "Mezcla las lentejas con las hojas salteadas y los rábanos asados. Termina con el feta desmenuzado, la cebolla encurtida escurrida y el eneldo picado."
   ],
   nutricion: { kcal: 560, prot: 25, hc: 47, grasa: 30 },
@@ -475,9 +475,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla grueso un calabacín, mézclalo con una pizca de sal y déjalo 10 minutos en un colador; luego apriétalo con las manos. Al quitarle el agua, se concentra el sabor y no aguará la salsa. Corta el otro en medias lunas finas.",
-    "En un bol, mezcla la ricotta con la ralladura del limón, el parmesano rallado y pimienta negra.",
-    "Pon a hervir abundante agua con sal (debe saber a agua de mar) y cuece la pasta 1 minuto menos de lo que indique el paquete.",
+    "Ralla grueso un calabacín, mézclalo con una pizca de sal y déjalo 10 minutos en un colador; luego apriétalo con las manos. Al quitarle el agua, se concentra el sabor y no aguará la salsa. Corta el otro en medias lunas finas. Mientras escurre, pon a hervir abundante agua con sal (debe saber a agua de mar), lamina el ajo y pica la menta.",
+    "Ralla el parmesano y mézclalo en un bol con la ricotta, la ralladura del limón y pimienta negra.",
+    "Cuece la pasta en el agua hirviendo 1 minuto menos de lo que indique el paquete.",
     "Mientras, calienta el aceite en una sartén amplia a fuego fuerte y dora las medias lunas de calabacín 4 minutos, sin moverlas mucho, hasta que tengan los bordes tostados.",
     "Baja a fuego medio, añade el calabacín rallado y el ajo laminado y cocina 3 minutos, hasta que el rallado esté tierno y casi cremoso.",
     "Antes de escurrir, reserva un vaso del agua de cocción. Pasa la pasta a la sartén con medio vaso de esa agua y saltea 1 minuto: el almidón del agua liga el calabacín y la pasta en una salsa.",
@@ -521,10 +521,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Llena un bol con agua fría, el zumo de medio limón y las ramas de perejil. Las alcachofas se oxidan y ennegrecen en cuanto se cortan; el ácido lo frena.",
     "Limpia las alcachofas: arranca las hojas exteriores duras hasta llegar a las tiernas y amarillentas, corta el tercio superior y pela el tallo dejando 3 cm. Pártelas por la mitad, quita la pelusa del centro si la tienen, frótalas con el otro medio limón y échalas al agua.",
-    "Pela las patatas nuevas (o solo frótalas si la piel es fina) y pártelas por la mitad.",
+    "Pela las patatas nuevas (o solo frótalas si la piel es fina) y pártelas por la mitad. Lamina los ajos.",
     "Dora los ajos laminados en una cazuela con el aceite a fuego suave 2 minutos. Añade la harina y remueve 1 minuto: cocinarla quita el sabor a crudo y luego ligará la salsa.",
     "Vierte el vino fino poco a poco, removiendo para que no se formen grumos, y deja hervir 2 minutos para que se evapore el alcohol.",
-    "Añade el caldo, el azafrán desmenuzado, las alcachofas escurridas, las patatas y sal. Tapa y cuece a fuego suave 20-25 minutos, moviendo la cazuela de vez en cuando, hasta que un cuchillo entre en el corazón de la alcachofa sin resistencia.",
+    "Añade el caldo, el azafrán desmenuzado, las alcachofas escurridas, las patatas y sal. Tapa y cuece a fuego suave 20-25 minutos, moviendo la cazuela de vez en cuando, hasta que un cuchillo entre en el corazón de la alcachofa sin resistencia. Mientras, pica la hierbabuena.",
     "Incorpora la hierbabuena picada, apaga y deja reposar 5 minutos tapado antes de servir para que la salsa espese y los sabores se asienten."
   ],
   nutricion: { kcal: 410, prot: 8, hc: 46, grasa: 21 },
@@ -562,12 +562,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los ajos tiernos. Corta en aros finos la parte verde de dos de ellos y resérvala para decorar; el resto, en rodajas.",
-    "Pocha los ajos tiernos y la cebolla picada con 1 cucharada de aceite a fuego suave 8 minutos, sin que tomen color: si se doran, la crema queda oscura y algo amarga en vez de clara y dulce.",
-    "Pela las patatas y cáscalas en trozos (corta un poco y rompe el resto haciendo palanca con el cuchillo): la superficie irregular suelta más almidón y espesa la crema.",
-    "Añade las patatas y el caldo, sala y cuece 20 minutos a fuego medio, hasta que la patata se deshaga.",
+    "Limpia los ajos tiernos. Corta en aros finos la parte verde de dos de ellos y resérvala para decorar; el resto, en rodajas. Pica la cebolla.",
+    "Pocha los ajos tiernos y la cebolla con 1 cucharada de aceite a fuego suave 8 minutos, sin que tomen color: si se doran, la crema queda oscura y algo amarga en vez de clara y dulce. Mientras, pela las patatas y cáscalas en trozos (corta un poco y rompe el resto haciendo palanca con el cuchillo): la superficie irregular suelta más almidón y espesa la crema.",
+    "Añade las patatas y el caldo, sala y cuece 20 minutos a fuego medio, hasta que la patata se deshaga. Mientras, pon a calentar un cazo con agua y el vinagre para los huevos.",
     "Tritura con la leche solo el tiempo justo para que quede lisa. Si bates la patata demasiado, el almidón se vuelve elástico y la crema queda chiclosa.",
-    "Escalfa los huevos en agua con el vinagre a punto de hervir, 3 minutos, y sácalos a papel de cocina.",
+    "Escalfa los huevos en el agua con vinagre a punto de hervir, 3 minutos, y sácalos a papel de cocina.",
     "Templa la otra cucharada de aceite en un cazo pequeño, apártalo del fuego y añade el pimentón: con el aceite templado suelta el color sin quemarse. Sirve la crema con el huevo, unas gotas del aceite rojo y los aros verdes de ajo tierno."
   ],
   nutricion: { kcal: 440, prot: 14, hc: 48, grasa: 21 },
@@ -608,10 +607,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Forra el molde con la masa, pincha la base con un tenedor, cúbrela con papel de horno y llénala de garbanzos secos o arroz como peso.",
-    "Hornea en blanco 12 minutos, retira el papel y el peso y hornea 5 minutos más. Esta precocción evita el gran fallo de las quiches: una base cruda y húmeda bajo el relleno.",
-    "Pinta la base aún caliente con un poco de huevo batido y hornea 2 minutos: la capa de huevo la sella e impermeabiliza.",
-    "Corta las puntas de los espárragos y resérvalas. Trocea los tallos en rodajas y saltéalos con la cebolleta picada y media cucharada de aceite 3 minutos, hasta que pierdan el agua.",
-    "Bate los huevos con la nata, la leche, sal, pimienta y nuez moscada lo justo para mezclar: si metes mucho aire, el relleno sube en el horno y luego se hunde.",
+    "Hornea en blanco 12 minutos. Mientras, bate los huevos y separa una cucharada para pintar la base; pica la cebolleta, corta las puntas de los espárragos y resérvalas, y trocea los tallos en rodajas. Retira el papel y el peso y hornea 5 minutos más. Esta precocción evita el gran fallo de las quiches: una base cruda y húmeda bajo el relleno.",
+    "Pinta la base aún caliente con la cucharada de huevo batido y hornea 2 minutos: la capa de huevo la sella e impermeabiliza.",
+    "Saltea los tallos de espárrago con la cebolleta y media cucharada de aceite 3 minutos, hasta que pierdan el agua.",
+    "Añade a los huevos batidos la nata, la leche, sal, pimienta y nuez moscada y mezcla lo justo: si metes mucho aire, el relleno sube en el horno y luego se hunde.",
     "Baja el horno a 170 °C. Reparte en la base la verdura salteada y el queso de cabra en trozos, vierte la mezcla de huevo y coloca las puntas de espárrago por encima.",
     "Hornea 25-30 minutos, hasta que los bordes estén cuajados y el centro aún tiemble ligeramente al mover el molde, como un flan. Al reposar termina de cuajar; si sale firme del horno, quedará seca.",
     "Deja reposar 10 minutos antes de cortar. Sirve con los canónigos aliñados con el resto del aceite, el balsámico y sal."
@@ -650,10 +649,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las vainas de los guisantes y hiérvelas en el agua con sal 20 minutos. Cuela: tendrás un caldo dulce y verde, gratis, que sabe mucho más a guisante que el agua sola.",
-    "Corta la panceta en tiras y ponla en una cazuela fría a fuego medio. Al calentarse despacio suelta su grasa y se dora sin quemarse, unos 5 minutos.",
-    "Añade el aceite y la cebolla picada fina y póchala en esa grasa 6 minutos, hasta que esté transparente.",
-    "Incorpora los guisantes, remueve 2 minutos para que se impregnen y vierte la mitad del caldo de vainas. Cuece 5 minutos.",
+    "Lava las vainas de los guisantes y hiérvelas en el agua con sal 20 minutos. Cuela: tendrás un caldo dulce y verde, gratis, que sabe mucho más a guisante que el agua sola. Mientras, corta la panceta en tiras y pica fina la cebolla.",
+    "Pon la panceta en una cazuela fría a fuego medio. Al calentarse despacio suelta su grasa y se dora sin quemarse, unos 5 minutos.",
+    "Añade el aceite y la cebolla y póchala en esa grasa 6 minutos, hasta que esté transparente.",
+    "Incorpora los guisantes, remueve 2 minutos para que se impregnen y vierte la mitad del caldo de vainas. Cuece 5 minutos. Mientras, ralla el parmesano y pica el perejil.",
     "Echa la pasta directamente en la sopa y cuécela removiendo a menudo, añadiendo más caldo caliente según lo vaya absorbiendo. El almidón que suelta la pasta espesa la sopa sin necesidad de nada más.",
     "Cuando la pasta esté al dente y la textura sea algo entre una sopa espesa y un risotto (unos 10 minutos), apaga el fuego.",
     "Incorpora el parmesano rallado y pimienta negra, remueve con energía y deja reposar 2 minutos. Sirve con perejil picado y un hilo de aceite."
@@ -692,11 +691,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las cebollas en juliana fina y póchalas en una cazuela con el aceite, el ajo laminado, el laurel y una pizca de sal a fuego suave 20 minutos, removiendo de vez en cuando, hasta que estén blandas y doradas. La sal al principio ayuda a que suelten su agua.",
-    "Corta el cuerpo del calamar en anillas de 1 cm y las patas en trozos. Sécalo bien con papel.",
+    "Lamina el ajo. Corta las cebollas en juliana fina y póchalas en una cazuela con el aceite, el ajo laminado, el laurel y una pizca de sal a fuego suave 20 minutos, removiendo de vez en cuando, hasta que estén blandas y doradas. La sal al principio ayuda a que suelten su agua.",
+    "Mientras, corta el cuerpo del calamar en anillas de 1 cm y las patas en trozos. Sécalo bien con papel.",
     "Sube el fuego, añade el calamar y saltea 3 minutos. Soltará líquido: es normal.",
     "Vierte el vino, deja que evapore el alcohol 2 minutos, baja a fuego mínimo y tapa. Cuece 30-35 minutos, hasta que el calamar esté tierno al pincharlo. Si se queda seco, añade un chorrito de agua.",
-    "Si las habas son grandes, escáldalas 1 minuto, pásalas a agua fría y quítales la piel apretando con los dedos: la piel es amarga y dura. Si son pequeñas, úsalas tal cual.",
+    "Mientras se cuece, si las habas son grandes, escáldalas 1 minuto, pásalas a agua fría y quítales la piel apretando con los dedos: la piel es amarga y dura. Si son pequeñas, úsalas tal cual. Pica la hierbabuena.",
     "Añade las habas a la cazuela y cuece destapado 6-8 minutos, hasta que estén tiernas y la salsa haya reducido.",
     "Prueba de sal, añade pimienta y la hierbabuena picada en el último momento. Sirve caliente."
   ],
@@ -738,10 +737,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la cebolla en juliana y la zanahoria en dados pequeños. Póchalas en una cazuela con el aceite a fuego suave 8 minutos, hasta que la cebolla esté blanda.",
     "Añade las habas, el azúcar, sal y el zumo de medio limón. El azúcar no endulza el plato: equilibra el amargor natural de las habas y el ácido del limón, como se hace en la cocina turca.",
-    "Vierte el agua justa para cubrirlas hasta la mitad, tapa y cuece a fuego bajo 20-25 minutos, hasta que estén muy tiernas y el líquido se haya reducido a una salsa aceitosa.",
+    "Vierte el agua justa para cubrirlas hasta la mitad, tapa y cuece a fuego bajo 20-25 minutos, hasta que estén muy tiernas y el líquido se haya reducido a una salsa aceitosa. Mientras, pica el eneldo y ralla el ajo.",
     "Apaga, añade la mitad del eneldo picado y deja que se temple en la cazuela. Estos guisos en aceite se comen templados o a temperatura ambiente: en frío los sabores se asientan.",
     "Mientras, tuesta el bulgur 1 minuto en un cazo con una pizca de sal, añade 200 ml de agua hirviendo, tapa y cuece 10 minutos a fuego mínimo. Deja reposar 5 minutos tapado.",
-    "Mezcla el yogur con el ajo rallado y una pizca de sal.",
+    "Mezcla el yogur con el ajo y una pizca de sal.",
     "Sirve las habas templadas con su jugo sobre el bulgur, una buena cucharada de yogur al ajo, el resto del eneldo y unas gotas de limón."
   ],
   nutricion: { kcal: 575, prot: 21, hc: 66, grasa: 25 },
@@ -783,13 +782,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle encima un peso (una sartén, unos libros) y déjalo 15 minutos. Al sacarle el agua, se dora en vez de cocerse y absorbe mejor la salsa.",
-    "Lava el arroz en un colador hasta que el agua salga clara: quitas el almidón suelto y los granos quedarán sueltos. Cuécelo con 150 ml de agua y una pizca de sal, tapado, 12 minutos a fuego mínimo y deja reposar 10 minutos sin destapar.",
+    "Mientras, lava el arroz en un colador hasta que el agua salga clara: quitas el almidón suelto y los granos quedarán sueltos. Cuécelo con 150 ml de agua y una pizca de sal, tapado, 12 minutos a fuego mínimo y deja reposar 10 minutos sin destapar.",
+    "Mientras se cuece el arroz, rompe la base de los espárragos y córtalos al bies en trozos de 4 cm: el corte en diagonal da más superficie y se hacen antes. Pica el jengibre y el ajo, pica la parte blanca de las cebolletas y corta la verde en aros. Mezcla la soja, el vinagre, el azúcar, 3 cucharadas de agua y la última cucharadita de maicena.",
     "Corta el tofu en dados de 2 cm, rebózalos con 3 cucharaditas de maicena y una pizca de sal y dóralos en el wok con el aceite a fuego medio-alto 6-8 minutos, moviéndolos poco, hasta que estén crujientes. Reserva.",
     "Tuesta los anacardos en el mismo wok 2 minutos y resérvalos.",
-    "Rompe la base de los espárragos y córtalos al bies en trozos de 4 cm: el corte en diagonal da más superficie y se hacen antes. Saltéalos a fuego muy fuerte 3 minutos, hasta que estén verde brillante y aún crujientes.",
-    "Añade el jengibre y el ajo picados y la parte blanca de las cebolletas y saltea 30 segundos, solo hasta que huelan.",
-    "Mezcla la soja, el vinagre, el azúcar, 3 cucharadas de agua y la última cucharadita de maicena. Viértelo en el wok y deja que burbujee 1 minuto: la maicena espesa la salsa y la hace brillar.",
-    "Devuelve el tofu y los anacardos, mezcla, apaga y riega con el aceite de sésamo. Sirve sobre el arroz con la parte verde de la cebolleta en aros."
+    "Saltea los espárragos a fuego muy fuerte 3 minutos, hasta que estén verde brillante y aún crujientes.",
+    "Añade el jengibre, el ajo y la parte blanca de las cebolletas y saltea 30 segundos, solo hasta que huelan.",
+    "Remueve la salsa y viértela en el wok; deja que burbujee 1 minuto: la maicena espesa la salsa y la hace brillar.",
+    "Devuelve el tofu y los anacardos, mezcla, apaga y riega con el aceite de sésamo. Sirve sobre el arroz con la parte verde de la cebolleta."
   ],
   nutricion: { kcal: 645, prot: 30, hc: 70, grasa: 27 },
   etiquetas: ["primavera", "temporada", "vegana", "alta en proteína", "wok", "ideal para llevar", "poco especiada"],
@@ -868,7 +868,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla morada y déjala 5 minutos en agua fría: pierde el picor agresivo y queda crujiente.",
-    "Corta las fresas y los rábanos en dados pequeños, pica el chile sin semillas y el cilantro. Mezcla con la cebolla escurrida, el zumo de una lima y sal y deja reposar 10 minutos para que se mezclen los jugos.",
+    "Mientras, corta las fresas y los rábanos en dados pequeños, pica el chile sin semillas y el cilantro. Mezcla con la cebolla escurrida, el zumo de una lima y sal y deja reposar 10 minutos para que se mezclen los jugos.",
     "Seca muy bien la caballa con papel (la humedad impide que la piel se dore) y sazónala por el lado de la carne con sal, comino y pimentón.",
     "Calienta el aceite en una sartén a fuego fuerte. Pon la caballa con la piel hacia abajo y presiona con una espátula los primeros 20 segundos: la piel se encoge al calentarse y, si no la aplastas, se curva y solo se dora por el centro.",
     "Cocina 2-3 minutos por el lado de la piel, hasta que esté crujiente, y 30 segundos por el otro. Retira y separa en trozos grandes.",
@@ -916,13 +916,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas con piel en agua con sal 20 minutos, hasta que estén tiernas. Pélalas y cháfalas groseramente con un tenedor: el relleno debe tener trozos, no ser un puré. En los últimos 3 minutos, cuece también los guisantes.",
-    "Calienta 1 cucharada de aceite en una sartén y tuesta el comino en grano 30 segundos, hasta que chisporrotee y huela: las especias enteras sueltan su aroma en la grasa caliente y lo reparten por todo el relleno.",
-    "Añade la cebolla picada fina y póchala 6 minutos. Incorpora el jengibre rallado, el chile picado, el garam masala y la cúrcuma y remueve 30 segundos.",
-    "Mezcla el sofrito con las patatas, los guisantes, la mitad del cilantro picado, el zumo de medio limón y sal. Deja enfriar: un relleno caliente ablanda la masa y la rompe.",
-    "Precalienta el horno a 200 °C. Pon una cucharada de relleno en cada oblea, dobla en media luna (o en triángulo) y sella el borde apretando con un tenedor después de humedecerlo con agua.",
+    "Cuece las patatas con piel en agua con sal 20 minutos, hasta que estén tiernas; en los últimos 3 minutos, cuece también los guisantes. Mientras, pica fina la cebolla, ralla el jengibre y pica el chile y el cilantro.",
+    "Mientras se cuecen, calienta 1 cucharada de aceite en una sartén y tuesta el comino en grano 30 segundos, hasta que chisporrotee y huela: las especias enteras sueltan su aroma en la grasa caliente y lo reparten por todo el relleno.",
+    "Añade la cebolla y póchala 6 minutos. Incorpora el jengibre, el chile, el garam masala y la cúrcuma y remueve 30 segundos.",
+    "Escurre las patatas y los guisantes. Pela las patatas y cháfalas groseramente con un tenedor: el relleno debe tener trozos, no ser un puré.",
+    "Mezcla el sofrito con las patatas, los guisantes, la mitad del cilantro picado, el zumo de medio limón y sal. Deja enfriar: un relleno caliente ablanda la masa y la rompe. Mientras, precalienta el horno a 200 °C.",
+    "Pon una cucharada de relleno en cada oblea, dobla en media luna (o en triángulo) y sella el borde apretando con un tenedor después de humedecerlo con agua.",
     "Colócalas en una bandeja con papel, píntalas por ambos lados con la otra cucharada de aceite y hornea 15-18 minutos, dándoles la vuelta a mitad, hasta que estén doradas y crujientes.",
-    "Para el chutney, tritura la menta, el resto del cilantro, el yogur, el zumo del otro medio limón y sal hasta que quede verde y liso.",
+    "Mientras se hornean, prepara el chutney: tritura la menta, el resto del cilantro, el yogur, el zumo del otro medio limón y sal hasta que quede verde y liso.",
     "Para el kachumber, corta el pepino y el tomate en dados pequeños y aliña con sal y unas gotas de limón. Sirve las samosas recién hechas con el chutney para mojar y la ensalada."
   ],
   nutricion: { kcal: 705, prot: 19, hc: 110, grasa: 21 },
@@ -962,11 +963,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la bechamel: funde la mantequilla en un cazo, añade la harina y remueve 2 minutos a fuego suave. Cocinar este roux elimina el sabor a harina cruda.",
+    "Precalienta el horno a 190 °C y calienta la leche. Prepara la bechamel: funde la mantequilla en un cazo, añade la harina y remueve 2 minutos a fuego suave. Cocinar este roux elimina el sabor a harina cruda.",
     "Añade la leche caliente poco a poco, batiendo con varillas para que no se formen grumos, y cuece 8-10 minutos a fuego suave hasta que napee el dorso de una cuchara. Sazona con sal, pimienta y nuez moscada. Con esta proporción (30 g de mantequilla, 30 g de harina y medio litro de leche) sale una bechamel media, ideal para lasañas.",
-    "Separa las puntas de los espárragos y resérvalas. Corta los tallos en rodajas y saltéalos con la cebolleta picada y el aceite 3 minutos. Escalda los guisantes 2 minutos en agua con sal.",
-    "Mezcla los tallos de espárrago, los guisantes y el jamón con un tercio de la bechamel.",
-    "Si las placas no son precocidas, cuécelas según el paquete y extiéndelas sobre un paño. Precalienta el horno a 190 °C.",
+    "Pica la cebolleta. Separa las puntas de los espárragos y resérvalas. Corta los tallos en rodajas y saltéalos con la cebolleta y el aceite 3 minutos. Escalda los guisantes 2 minutos en agua con sal.",
+    "Mezcla los tallos de espárrago, los guisantes y el jamón con un tercio de la bechamel. Ralla el parmesano.",
+    "Si las placas no son precocidas, cuécelas según el paquete y extiéndelas sobre un paño.",
     "Monta en una fuente pequeña: una capa fina de bechamel en el fondo (evita que la pasta se pegue), placas, relleno, y repite hasta terminar con placas cubiertas de bechamel.",
     "Coloca las puntas de espárrago por encima, espolvorea el parmesano rallado y hornea 25-30 minutos. Gratina 3 minutos al final si quieres más color.",
     "Deja reposar 10 minutos antes de cortar: las capas se asientan y las porciones salen limpias en lugar de desmoronarse."
@@ -1009,11 +1010,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 200 ml de agua y sal, tapado, 12 minutos a fuego mínimo; deja reposar 10 minutos sin destapar.",
-    "Corta la pechuga en tiras finas en sentido contrario a la fibra: así las fibras quedan cortas y la carne resulta más tierna al morder.",
-    "Mezcla el pollo con la soja, la maicena y 1 cucharadita de aceite y deja reposar 15 minutos. Esta técnica (velveting) crea una película que protege la carne del fuego fuerte y la deja jugosa.",
+    "Mientras se cuece, corta la pechuga en tiras finas en sentido contrario a la fibra: así las fibras quedan cortas y la carne resulta más tierna al morder.",
+    "Mezcla el pollo con la soja, la maicena y 1 cucharadita de aceite y deja reposar 15 minutos. Esta técnica (velveting) crea una película que protege la carne del fuego fuerte y la deja jugosa. Mientras reposa, rompe la base de los espárragos y córtalos al bies en trozos de 4 cm, corta los ajos tiernos en tramos de 3 cm y el jengibre en tiras finas.",
     "Calienta el wok a fuego máximo hasta que humee, añade 1 cucharada de aceite y extiende el pollo en una sola capa. Déjalo 2 minutos sin tocar y luego saltea 1 minuto más. Sácalo: si amontonas la carne, suelta jugo y se cuece en vez de dorarse.",
-    "Añade el resto del aceite y los espárragos cortados al bies en trozos de 4 cm. Saltea 2-3 minutos.",
-    "Incorpora los ajos tiernos en tramos de 3 cm y el jengibre en tiras finas y saltea 1 minuto.",
+    "Añade el resto del aceite y los espárragos. Saltea 2-3 minutos.",
+    "Incorpora los ajos tiernos y el jengibre y saltea 1 minuto.",
     "Devuelve el pollo, añade la salsa de ostras, el mirin y 2 cucharadas de agua y saltea 1 minuto, hasta que la salsa brille y envuelva todo.",
     "Apaga, riega con el aceite de sésamo y espolvorea el sésamo. Sirve enseguida con el arroz."
   ],
@@ -1056,10 +1057,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Separa la parte blanca de los ajos tiernos de la verde. Pica la parte blanca con la cebolleta y corta las zanahorias en rodajas; la parte verde, en tramos de 2 cm, resérvala junto con los espárragos troceados.",
-    "Con la olla destapada, calienta el aceite y rehoga la cebolleta, el blanco de los ajos tiernos y la zanahoria 6 minutos a fuego medio.",
+    "Separa la parte blanca de los ajos tiernos de la verde. Pica la parte blanca con la cebolleta y corta las zanahorias en rodajas; corta la parte verde en tramos de 2 cm, trocea los espárragos y resérvalos juntos.",
+    "Con la olla destapada, calienta el aceite y rehoga la cebolleta, el blanco de los ajos tiernos y la zanahoria 6 minutos a fuego medio. Mientras, pela la patata y cáscala en trozos pequeños, y enjuaga las lentejas.",
     "Aparta del fuego, añade el pimentón y el comino y remueve 20 segundos para que no se quemen.",
-    "Añade las lentejas enjuagadas, la patata cascada en trozos pequeños, el laurel y el caldo. En olla exprés se usa menos líquido que en cazuela porque apenas se evapora.",
+    "Añade las lentejas, la patata, el laurel y el caldo. En olla exprés se usa menos líquido que en cazuela porque apenas se evapora.",
     "Cierra la olla, pon fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 8 minutos.",
     "Apaga y deja que la presión baje sola, unos 10 minutos. Si la abres de golpe, la lenteja se rompe y la espuma puede salir por la válvula.",
     "Abre, añade los espárragos y el verde de los ajos tiernos y cuece destapado 4-5 minutos, hasta que estén tiernos pero verdes. Las verduras delicadas nunca van bajo presión: se deshacen.",
@@ -1105,8 +1106,8 @@ window.RECETAS_SEED.push({
     "Tritura las cerezas, el tomate, el pepino, el pimiento, la cebolleta y el ajo con sal y el vinagre hasta que esté muy fino.",
     "Con la batidora en marcha, añade 2 cucharadas y media de aceite en hilo fino. El aceite emulsiona con el agua de las verduras y le da textura cremosa y ese color rosado mate.",
     "Prueba y ajusta: si las cerezas son muy dulces, añade un poco más de vinagre; si está ácido, una pizca de sal equilibra. Cuela si lo quieres muy fino y enfría al menos 1 hora.",
-    "Corta el pan en dados y dóralos en una sartén con el resto del aceite y el comino 4 minutos, removiendo, hasta que estén crujientes.",
-    "Sirve el gazpacho muy frío con las cerezas reservadas picadas, los picatostes y un hilo de aceite."
+    "Mientras se enfría, corta el pan en dados y dóralos en una sartén con el resto del aceite y el comino 4 minutos, removiendo, hasta que estén crujientes. Pica las cerezas reservadas.",
+    "Sirve el gazpacho muy frío con las cerezas picadas, los picatostes y un hilo de aceite."
   ],
   nutricion: { kcal: 430, prot: 8, hc: 51, grasa: 21 },
   etiquetas: ["primavera", "temporada", "ligera", "vegana", "sin cocción", "verano", "batch cooking", "poco especiada", "bajo en colesterol"],

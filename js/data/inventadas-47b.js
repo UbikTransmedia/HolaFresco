@@ -37,9 +37,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo tapado con 1,5 veces su volumen de agua 12 minutos a fuego mínimo; reposa 5 minutos sin destapar.",
-    "Corta el tofu prensado en dados de 2 cm, mézclalo con media cucharada de aceite y después con 2 cucharadas de maicena y una pizca de sal en un bol, sacudiendo hasta que quede cubierto. El aceite primero hace que la maicena se adhiera en una capa fina y uniforme.",
+    "Mientras, corta el tofu prensado en dados de 2 cm, mézclalo con media cucharada de aceite y después con 2 cucharadas de maicena y una pizca de sal en un bol, sacudiendo hasta que quede cubierto. El aceite primero hace que la maicena se adhiera en una capa fina y uniforme.",
     "Cocínalo en la airfryer a 200 °C 15 minutos, agitando la cesta a mitad, hasta que esté dorado y crujiente.",
-    "Mientras, corta el brócoli en ramilletes y cuécelo al vapor 4 minutos, hasta que esté tierno pero verde intenso.",
+    "Mientras, corta el brócoli en ramilletes y cuécelo al vapor 4 minutos, hasta que esté tierno pero verde intenso. Pica el ajo y el jengibre.",
     "Mezcla la soja, el vinagre, el azúcar, el tomate concentrado, la media cucharada de maicena y 80 ml de agua.",
     "En una sartén, calienta el resto del aceite de oliva y el de sésamo a fuego medio y fríe el ajo y el jengibre picados con las guindillas 1 minuto, hasta que huelan. Vierte la mezcla de salsa y cuece 1-2 minutos, removiendo, hasta que espese y brille.",
     "Apaga el fuego, echa el tofu y el brócoli y mezcla rápido para que se cubran sin que el tofu se ablande. Sirve sobre el arroz con el sésamo por encima."
@@ -82,11 +82,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz frotándolo entre los dedos hasta que el agua salga clara y déjalo 30 minutos en remojo con sal: así los granos se alargan y no se rompen.",
-    "Machaca el azafrán con una pizca de sal y ponlo en 3 cucharadas de agua caliente 10 minutos para que suelte todo el color.",
-    "Hierve abundante agua con sal, echa el arroz escurrido y cuécelo 5-6 minutos, hasta que esté blando por fuera pero duro en el centro. Escúrrelo y enjuágalo con agua fría para frenar la cocción.",
+    "Mientras, pon a hervir abundante agua con sal para el arroz y machaca el azafrán con una pizca de sal y ponlo en 3 cucharadas de agua caliente 10 minutos para que suelte todo el color.",
+    "Cuando hierva el agua, echa el arroz escurrido y cuécelo 5-6 minutos, hasta que esté blando por fuera pero duro en el centro. Escúrrelo y enjuágalo con agua fría para frenar la cocción.",
     "Mezcla 4 cucharadas del arroz con el yogur vegetal, la mitad del agua de azafrán y 1 cucharada de aceite. En una cazuela antiadherente de fondo grueso, calienta 1 cucharada de aceite y extiende esa mezcla en el fondo, presionando: será la costra (el tahdig).",
     "Pon el resto del arroz encima formando una montaña, haz 4-5 agujeros con el mango de una cuchara para que salga el vapor y riega con el resto del azafrán. Envuelve la tapa en un paño (absorbe el vapor y evita que gotee) y cuece a fuego medio 8 minutos y luego a fuego mínimo 35 minutos.",
-    "Mientras, dora la cebolla en plumas con el resto del aceite 10 minutos. Añade el seitán, la cúrcuma y la canela y saltea 4 minutos a fuego medio-alto. Incorpora la melaza de granada y 3 cucharadas de agua y deja que reduzca 2 minutos, hasta que glasee.",
+    "Mientras, corta la cebolla en plumas y dórala con el resto del aceite 10 minutos. Añade el seitán, la cúrcuma y la canela y saltea 4 minutos a fuego medio-alto. Incorpora la melaza de granada y 3 cucharadas de agua y deja que reduzca 2 minutos, hasta que glasee.",
     "Tuesta los pistachos en una sartén seca 2 minutos y pícalos. Desgrana la granada.",
     "Pasa un cuchillo por el borde de la cazuela, pon un plato encima y dale la vuelta con decisión: el arroz saldrá con su costra dorada. Sirve con el seitán, los pistachos, los granos de granada y la menta."
   ],
@@ -129,12 +129,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hierve el tempeh 8 minutos, escúrrelo y dóralo en la sartén con el aceite a fuego medio-alto 5 minutos. Pásalo a la slow cooker con el boniato.",
+    "Hierve el tempeh 8 minutos; mientras, pica la cebolla, el ajo, el jengibre y el chile. Escurre el tempeh escúrrelo y dóralo en la sartén con el aceite a fuego medio-alto 5 minutos. Pásalo a la slow cooker con el boniato.",
     "En la misma sartén, rehoga la cebolla picada 6 minutos. Añade el ajo, el jengibre y el chile picados y cocina 1 minuto.",
     "Agrega el tomate triturado y cuece 3 minutos. Fuera del fuego, añade la crema de cacahuete y un cazo de caldo y remueve hasta que se disuelva sin grumos: diluirla antes evita que se apelmace en el fondo de la olla.",
     "Vierte la salsa y el resto del caldo en la slow cooker y remueve. Tapa y cocina en LOW 5 horas (o HIGH 3 horas), hasta que el boniato esté muy tierno y la salsa espesa.",
     "Añade la kale los últimos 20 minutos: con ese tiempo se ablanda sin perder el color.",
-    "Cuece el arroz con el doble de su volumen de agua y sal, tapado, 15 minutos a fuego mínimo.",
+    "Unos 25 minutos antes de terminar, cuece el arroz con el doble de su volumen de agua y sal, tapado, 15 minutos a fuego mínimo.",
     "Prueba el mafé, ajusta de sal y añade el zumo de media lima para equilibrar la riqueza del cacahuete. Sirve sobre el arroz."
   ],
   nutricion: { kcal: 780, prot: 35, hc: 93, grasa: 30 },
@@ -173,13 +173,13 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Pon el kombu y las shiitake secas en una cazuela con 900 ml de agua fría y déjalos en remojo 20 minutos. El agua fría extrae el umami poco a poco.",
-    "Calienta a fuego medio y retira el kombu justo antes de que hierva, cuando empiecen a subir burbujas pequeñas: si hierve, suelta un sabor amargo y una textura viscosa. Deja las shiitake 10 minutos más a fuego suave.",
+    "Pon el kombu y las shiitake secas en una cazuela con 900 ml de agua fría y déjalos en remojo 20 minutos. El agua fría extrae el umami poco a poco. Mientras, corta las setas frescas en tiras y la cebolleta en aros finos.",
+    "Calienta a fuego medio y retira el kombu justo antes de que hierva, cuando empiecen a subir burbujas pequeñas: si hierve, suelta un sabor amargo y una textura viscosa. Deja las shiitake 10 minutos más a fuego suave y, mientras, pon a hervir agua sin sal para los fideos.",
     "Saca las shiitake rehidratadas, quítales el pie y córtalas en láminas. Añade al caldo la soja y el mirin: ya tienes un dashi vegano.",
-    "Cuece los fideos soba en agua sin sal el tiempo del paquete (unos 5 minutos) y enjuágalos bajo el grifo frotándolos con las manos: así eliminas el almidón y no quedan pegajosos.",
+    "Cuece los fideos soba en el agua hirviendo el tiempo del paquete (unos 5 minutos) y enjuágalos bajo el grifo frotándolos con las manos: así eliminas el almidón y no quedan pegajosos.",
     "Saltea las setas frescas en tiras con los dos aceites a fuego fuerte 4 minutos, hasta que estén doradas, y añade al final las shiitake rehidratadas.",
     "Corta el tofu sedoso en dados grandes con cuidado y caliéntalo en el caldo a fuego mínimo 3 minutos junto con el edamame, sin que hierva para que no se rompa.",
-    "Reparte los fideos en boles hondos, añade el tofu y el edamame, vierte el caldo caliente y corona con las setas salteadas y la cebolleta en aros finos."
+    "Reparte los fideos en boles hondos, añade el tofu y el edamame, vierte el caldo caliente y corona con las setas salteadas y la cebolleta."
   ],
   nutricion: { kcal: 440, prot: 25, hc: 58, grasa: 12 },
   etiquetas: ["proteína vegetal", "alta en proteína", "ligera", "de cuchara", "umami", "setas", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -224,7 +224,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la soja en el caldo caliente con una pizca de sal 15 minutos y escúrrela apretando bien. Guarda el caldo.",
+    "Hidrata la soja en el caldo caliente con una pizca de sal 15 minutos y escúrrela apretando bien. Guarda el caldo. Mientras se hidrata, pica la cebolla y ralla los tomates.",
     "Tritura el ajo, el jengibre, el vinagre, los pimentones, el comino, la canela y los clavos con 2 cucharadas de agua hasta tener una pasta. El vinagre es la seña del vindaloo y además ablanda y perfuma la soja.",
     "Mezcla la soja con la mitad de la pasta y déjala marinar mientras preparas el resto (al menos 10 minutos).",
     "Calienta el aceite en una cazuela a fuego medio y echa las semillas de mostaza; cuando empiecen a saltar (30 segundos), añade la cebolla picada y dórala 8 minutos.",
@@ -273,8 +273,8 @@ window.RECETAS_SEED.push({
     "Desala los altramuces 20 minutos en agua fría y pélalos apretándolos entre los dedos. Sécalos muy bien con un paño: cuanta menos agua, más crujientes.",
     "Mézclalos con media cucharada de aceite, el pimentón ahumado, el comino y la maicena. La maicena forma una capa fina que se vuelve crujiente con el aire caliente.",
     "Cocínalos en la airfryer a 200 °C 14-16 minutos, agitando la cesta cada 5 minutos, hasta que estén dorados y suenen al moverlos. Déjalos enfriar 5 minutos en la cesta: terminan de endurecer al templarse.",
-    "Corta la cebolla morada en juliana fina y déjala 10 minutos en agua fría con unas gotas de vinagre para quitarle el picor.",
-    "Pica el tomate y el pimiento verde en dados pequeños y mézclalos con las lentejas, la cebolla escurrida y el perejil picado.",
+    "Mientras se hacen, corta la cebolla morada en juliana fina y déjala 10 minutos en agua fría con unas gotas de vinagre para quitarle el picor.",
+    "Pica el tomate y el pimiento verde en dados pequeños y el perejil y mézclalos con las lentejas, la cebolla escurrida y el perejil.",
     "Bate el resto del aceite con el vinagre de Jerez y sal y aliña la ensalada. Deja reposar 10 minutos para que las lentejas tomen sabor.",
     "Sirve la ensalada con los altramuces crujientes por encima en el último momento."
   ],
@@ -320,9 +320,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las lentejas y cuécelas en una cazuela con 900 ml de agua, la mitad de la cúrcuma y los cacahuetes 20 minutos, hasta que se deshagan. Bátelas con unas varillas para tener un dal fino.",
-    "Mientras, prepara la masa: mezcla la harina con el resto de la cúrcuma, el pimentón, media cucharadita de comino, 1 cucharada de aceite y sal. Añade unos 60 ml de agua poco a poco y amasa 3 minutos, hasta que esté lisa y firme. Déjala reposar tapada 15 minutos para que el gluten se relaje y se estire sin encogerse.",
+    "Mientras, prepara la masa: mezcla la harina con el resto de la cúrcuma, el pimentón, media cucharadita de comino, 1 cucharada de aceite y sal. Añade unos 60 ml de agua poco a poco y amasa 3 minutos, hasta que esté lisa y firme. Déjala reposar tapada 15 minutos para que el gluten se relaje y se estire sin encogerse. Mientras reposa, pica los tomates y el chile, ralla el jengibre y pica el cilantro.",
     "Divide la masa en dos, estírala con el rodillo muy fina (2 mm) y córtala en rombos de 3 cm.",
-    "Añade al dal los tomates picados, el jengibre rallado, el chile, el tamarindo, el azúcar y sal, y lleva a ebullición. Debe quedar bastante líquido, porque la masa espesará la salsa.",
+    "Añade al dal los tomates, el jengibre, el chile, el tamarindo, el azúcar y sal, y lleva a ebullición. Debe quedar bastante líquido, porque la masa espesará la salsa.",
     "Echa los rombos de masa de uno en uno removiendo con suavidad para que no se peguen entre sí. Cuece a fuego medio 12-15 minutos, hasta que estén tiernos al morderlos.",
     "Para el tadka, calienta el resto del aceite en un cazo y echa las semillas de mostaza y el resto del comino; cuando chisporroteen (30 segundos), viértelo sobre el dal.",
     "Apaga, añade el zumo de media lima y el cilantro picado y deja reposar 5 minutos. Sirve en plato hondo con cuñas de lima."
@@ -364,10 +364,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua con sal para el orzo. Mientras, tritura los anacardos escurridos con el ajo, la levadura nutricional, el zumo de medio limón, 120 ml de agua y sal hasta que la crema esté completamente lisa, 1-2 minutos. El remojo ablanda el anacardo para que quede sedosa, sin grumos.",
-    "Cuece el orzo 9-10 minutos (un minuto menos de lo que indique el paquete) y reserva un vaso del agua de cocción antes de escurrirlo.",
+    "Cuece el orzo 9-10 minutos (un minuto menos de lo que indique el paquete) y reserva un vaso del agua de cocción antes de escurrirlo. Mientras se cuece, quita la parte dura de los espárragos y córtalos en tramos de 4 cm.",
     "Tuesta los piñones en una sartén seca a fuego medio-bajo 2-3 minutos, moviéndolos sin parar porque se queman en segundos. Sácalos a un plato.",
     "En la misma sartén, dora la heura con la mitad del aceite a fuego medio-alto 4 minutos. Sácala.",
-    "Saltea los espárragos en tramos de 4 cm con el resto del aceite 3-4 minutos a fuego fuerte, hasta que estén tiernos y con puntos dorados.",
+    "Saltea los espárragos con el resto del aceite 3-4 minutos a fuego fuerte, hasta que estén tiernos y con puntos dorados.",
     "Baja el fuego, añade el orzo, la heura y la crema de anacardos y mezcla 1 minuto, añadiendo agua de cocción poco a poco hasta que la salsa quede cremosa y envuelva el orzo. El almidón del agua de la pasta ayuda a ligar la salsa.",
     "Fuera del fuego, añade la ralladura del limón, la albahaca rota con las manos y pimienta. Sirve con los piñones por encima."
   ],
@@ -453,8 +453,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el tofu y dóralo en una cazuela con 1 cucharada de aceite a fuego medio-alto 6-8 minutos, girándolo, hasta que tenga costra por varias caras. Sácalo: dorado aguanta el escabeche sin deshacerse.",
-    "Baja a fuego medio, añade el resto del aceite y pocha la zanahoria en rodajas finas, la cebolleta en aros y los ajos enteros pelados 8 minutos, hasta que estén tiernos pero sin color.",
+    "Pela la zanahoria y córtala en rodajas finas, corta la cebolleta en aros y pela los ajos. Sala el tofu y dóralo en una cazuela con 1 cucharada de aceite a fuego medio-alto 6-8 minutos, girándolo, hasta que tenga costra por varias caras. Sácalo: dorado aguanta el escabeche sin deshacerse.",
+    "Baja a fuego medio, añade el resto del aceite y pocha la zanahoria, la cebolleta y los ajos enteros 8 minutos, hasta que estén tiernos pero sin color.",
     "Añade el laurel, la pimienta en grano y el tomillo y remueve 1 minuto. Aparta del fuego y añade el pimentón.",
     "Vierte el vinagre, el vino y 80 ml de agua (cuidado, salpica) y una pizca de sal. Hierve 5 minutos a fuego suave: el ácido se suaviza y se mezcla con el aceite.",
     "Devuelve el tofu a la cazuela, cuece 2 minutos más y apaga.",
@@ -502,7 +502,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Pincha los boniatos enteros con un tenedor y ásalos sobre papel de horno 40 minutos, hasta que estén muy blandos y caramelizados por debajo. Asados quedan más dulces y menos aguados que hervidos.",
     "Mientras, cuece los filetes de tempeh 8 minutos en agua hirviendo y sécalos bien.",
     "Parte las coles de Bruselas por la mitad, mézclalas con la mitad del aceite, sal y pimienta y colócalas boca abajo en otra bandeja: el contacto de la cara cortada con la bandeja caliente las dora y les quita el amargor. Hornéalas 20-25 minutos.",
-    "Pica las pecanas finas (que queden como pan rallado grueso) y mézclalas con el tomillo y una pizca de sal.",
+    "Mientras se hornean, pica las pecanas finas (que queden como pan rallado grueso) y mézclalas con el tomillo y una pizca de sal.",
     "Mezcla la mostaza, el sirope y la soja y pinta con ello los filetes de tempeh por la cara de arriba: es el 'pegamento' de la costra. Presiona encima las pecanas.",
     "Coloca el tempeh en la bandeja de las coles, rocía con el resto del aceite y hornea 12-15 minutos, hasta que la costra esté tostada.",
     "Saca la carne de los boniatos y aplástala con la bebida vegetal caliente, la canela, sal y pimienta.",
@@ -548,11 +548,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz basmati hasta que el agua salga clara y déjalo en remojo mientras empiezas el curry.",
-    "Calienta el aceite en una cazuela a fuego medio y echa las semillas de mostaza. Cuando empiecen a saltar, añade la cebolla picada y rehoga 7 minutos, hasta que esté dorada.",
-    "Añade el ajo, el jengibre y el chile picados, la cúrcuma y el garam masala y remueve 1 minuto, hasta que huela.",
+    "Lava el arroz basmati hasta que el agua salga clara y déjalo en remojo 10 minutos. Mientras, pica la cebolla, el ajo, el jengibre y el chile.",
+    "Escurre el arroz y cuécelo tapado con 1,5 veces su volumen de agua y sal 10 minutos; reposa 5 minutos. Mientras, empieza el curry: calienta el aceite en una cazuela a fuego medio y echa las semillas de mostaza. Cuando empiecen a saltar, añade la cebolla y rehoga 7 minutos, hasta que esté dorada.",
+    "Añade el ajo, el jengibre y el chile, la cúrcuma y el garam masala y remueve 1 minuto, hasta que huela.",
     "Vierte la leche de coco y 150 ml de agua y lleva a un hervor suave. Incorpora el edamame y los guisantes congelados y cuece 6 minutos.",
-    "Mientras, cuece el arroz escurrido tapado con 1,5 veces su volumen de agua y sal 10 minutos; reposa 5 minutos.",
     "Añade las espinacas al curry en dos tandas y remueve hasta que se reduzcan, 1-2 minutos. No las cuezas más: así conservan el color y el sabor fresco.",
     "Apaga, añade el zumo de media lima y prueba de sal. Sirve con el arroz y cuñas de lima."
   ],
@@ -591,9 +590,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en láminas finas e irregulares y la cebolla en juliana. Sálalas.",
-    "Calienta el aceite en una sartén de 20 cm a fuego medio, añade la patata y la cebolla y confítalas 20-25 minutos, removiendo de vez en cuando, hasta que estén muy tiernas y apenas doradas. Escúrrelas en un colador sobre un bol y guarda el aceite para otros guisos.",
-    "Tritura el tofu sedoso con la harina de garbanzo, la bebida vegetal, la levadura nutricional, la cúrcuma y la sal negra hasta tener una crema como de huevo batido. La sal negra tiene azufre y aporta el olor a yema; la harina de garbanzo es la que cuaja con el calor.",
-    "Mezcla la patata y la cebolla todavía calientes con la crema y deja reposar 5 minutos: la harina se hidrata y la mezcla espesa.",
+    "Calienta el aceite en una sartén de 20 cm a fuego medio, añade la patata y la cebolla y confítalas 20-25 minutos, removiendo de vez en cuando, hasta que estén muy tiernas y apenas doradas.",
+    "Mientras se confitan, tritura el tofu sedoso con la harina de garbanzo, la bebida vegetal, la levadura nutricional, la cúrcuma y la sal negra hasta tener una crema como de huevo batido. La sal negra tiene azufre y aporta el olor a yema; la harina de garbanzo es la que cuaja con el calor.",
+    "Escurre la patata y la cebolla en un colador sobre un bol (guarda el aceite para otros guisos), mézclalas todavía calientes con la crema y deja reposar 5 minutos: la harina se hidrata y la mezcla espesa.",
     "Calienta la sartén con 1 cucharada del aceite reservado a fuego medio-alto, vierte la mezcla, alisa y cuaja 1 minuto a fuego fuerte; baja a fuego medio-bajo y cocina 6-7 minutos, moviendo la sartén para que no se pegue.",
     "Dale la vuelta con un plato llano más grande que la sartén, con un gesto rápido y decidido. Devuélvela a la sartén y cocina 5-6 minutos más por el otro lado.",
     "Déjala reposar 10 minutos antes de cortarla: la versión vegana termina de cuajar al templarse, y si la cortas recién hecha parecerá cruda por dentro."
@@ -637,8 +636,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre las alubias del remojo, ponlas en una cazuela con agua limpia y hiérvelas a borbotones 10 minutos. Es imprescindible: la olla lenta no llega a la temperatura necesaria para destruir las lectinas de las alubias crudas, que sientan mal.",
-    "Escúrrelas y ponlas en la slow cooker con la espelta enjuagada, la cebolla, la zanahoria y el apio picados, los ajos laminados, el tomate, el laurel y 3 hojas de salvia.",
+    "Escurre las alubias del remojo, ponlas en una cazuela con agua limpia y hiérvelas a borbotones 10 minutos. Mientras, pica la cebolla, la zanahoria y el apio y lamina los ajos. Es imprescindible: la olla lenta no llega a la temperatura necesaria para destruir las lectinas de las alubias crudas, que sientan mal.",
+    "Escúrrelas y ponlas en la slow cooker con la espelta enjuagada, la cebolla, la zanahoria, el apio, los ajos, el tomate, el laurel y 3 hojas de salvia.",
     "Vierte el caldo, tapa y cocina en LOW 7 horas (o HIGH 4 horas), hasta que las alubias estén cremosas.",
     "Añade la calabaza la última hora y media: si la pones desde el principio se deshace por completo.",
     "Fríe el resto de las hojas de salvia en el aceite a fuego medio 30 segundos, hasta que estén crujientes. Sácalas y reserva el aceite aromatizado.",
@@ -683,8 +682,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece las habas 3 minutos en agua hirviendo con sal y pásalas a agua con hielo. Si son grandes, pélalas: la piel interior es dura y amarga; las baby no lo necesitan.",
     "Para el ají verde, tritura el cilantro (con sus tallos), el chile, el ajo, el zumo de una lima, 1 cucharada de aceite, 2 cucharadas de agua fría y sal hasta tener una salsa fluida. El agua fría ayuda a que conserve el verde intenso.",
-    "Corta la cebolla morada en juliana fina y macérala 10 minutos en el zumo de la otra lima con una pizca de sal: se vuelve rosa, crujiente y suave.",
-    "Mezcla el maíz, las habas escurridas, el tomate en dados y la cebolla con su jugo. Sala.",
+    "Corta la cebolla morada en juliana fina y macérala 10 minutos en el zumo de la otra lima con una pizca de sal: se vuelve rosa, crujiente y suave. Mientras, corta el tomate en dados.",
+    "Mezcla el maíz, las habas escurridas, el tomate y la cebolla con su jugo. Sala.",
     "Unta los filetes de heura con el resto del aceite y el comino y hazlos a la plancha bien caliente 2-3 minutos por cada lado, hasta que tengan marcas tostadas. No los muevas: así se forma la costra.",
     "Sirve la heura en tiras sobre la ensalada y riega con el ají verde."
   ],
@@ -728,10 +727,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Hierve el tempeh 8 minutos, escúrrelo y mézclalo con el zumo de media lima, el comino y una pizca de sal. Déjalo 10 minutos: el ácido y la sal penetran mejor en el tempeh todavía caliente.",
-    "Cuece el arroz: sofríelo 1 minuto con unas gotas de aceite, añade el doble de su volumen de agua y sal y cuece tapado 15 minutos a fuego mínimo; reposa 5 minutos.",
+    "Cuece el arroz: sofríelo 1 minuto con unas gotas de aceite, añade el doble de su volumen de agua y sal y cuece tapado 15 minutos a fuego mínimo; reposa 5 minutos. Mientras, pica la cebolla, los pimientos y el ajo, ralla el tomate y pica los tallos del cilantro (reserva las hojas).",
     "En una cazuela, calienta el aceite y disuelve en él la pasta de achiote a fuego suave 30 segundos: el achiote tiñe y perfuma la grasa, y de ahí pasa a todo el guiso.",
-    "Añade la cebolla, los pimientos y el ajo picados y rehoga 8 minutos, hasta que estén blandos. Incorpora el tomate rallado y cocina 5 minutos más, hasta que pierda el agua.",
-    "Agrega el tempeh, la leche de coco, 100 ml de agua y los tallos del cilantro picados. Cuece a fuego suave 10 minutos, sin que hierva fuerte para que el coco no se corte, hasta que la salsa espese.",
+    "Añade la cebolla, los pimientos y el ajo y rehoga 8 minutos, hasta que estén blandos. Incorpora el tomate y cocina 5 minutos más, hasta que pierda el agua.",
+    "Agrega el tempeh, la leche de coco, 100 ml de agua y los tallos del cilantro. Cuece a fuego suave 10 minutos, sin que hierva fuerte para que el coco no se corte, hasta que la salsa espese.",
     "Prueba, ajusta de sal y termina con el resto del zumo de lima y las hojas de cilantro.",
     "Sirve el encocado con el arroz blanco al lado."
   ],
@@ -774,7 +773,7 @@ window.RECETAS_SEED.push({
     "Prepara un bol con agua y el zumo de medio limón. Limpia las alcachofas quitando las hojas exteriores duras hasta llegar a las tiernas y amarillas, corta las puntas y pela el tallo. Pártelas en cuartos, quita la pelusa del centro y échalas al agua con limón según las cortes: el ácido evita que se oxiden y ennegrezcan.",
     "Tuesta los piñones en una sartén seca a fuego medio-bajo 2-3 minutos, moviéndolos sin parar, y sácalos.",
     "Escurre y seca las alcachofas. Dóralas en la sartén con 1 cucharada de aceite a fuego medio 8-10 minutos, girándolas, hasta que estén tiernas y doradas. Añade la rama de tomillo y sala.",
-    "Haz la vinagreta batiendo la mostaza, la chalota picada muy fina, el vinagre, el zumo del otro medio limón y 1 cucharada de aceite. La mostaza actúa como emulsionante: mantiene unidos aceite y vinagre.",
+    "Mientras se doran, pica la chalota muy fina y haz la vinagreta batiendo la mostaza, la chalota, el vinagre, el zumo del otro medio limón y 1 cucharada de aceite. La mostaza actúa como emulsionante: mantiene unidos aceite y vinagre.",
     "Pinta los filetes de seitán con unas gotas de aceite y hazlos a la plancha muy caliente 2 minutos por cada lado, hasta que tengan marcas tostadas. Córtalos en tiras.",
     "Monta la ensalada con los canónigos en la base, las alcachofas y el seitán todavía tibios encima, la vinagreta, los piñones y unas escamas de sal y pimienta. Sirve al momento, antes de que los canónigos se mustien."
   ],
@@ -817,8 +816,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la yuca en bastones gruesos, quítale la fibra central y cuécela en agua fría con sal; desde que hierva, 15-20 minutos, hasta que empiece a abrirse. Es imprescindible cocerla antes: cruda es tóxica y nunca se debe dorar sin hervir.",
     "Mientras, cuece el arroz: sofríelo 1 minuto con unas gotas de aceite, añade el doble de agua y sal y cuece tapado 15 minutos a fuego mínimo.",
-    "Prepara la salsa criolla: corta la cebolla morada en plumas muy finas, lávala con agua fría y escúrrela. Mézclala con el zumo de una lima y media, el ají amarillo, el cilantro picado y sal. Déjala macerar al menos 10 minutos.",
-    "Mezcla el seitán con el ajo picado, el comino, la soja y el vinagre.",
+    "Prepara la salsa criolla: corta la cebolla morada en plumas muy finas, lávala con agua fría y escúrrela, y pica el cilantro. Mézclala con el zumo de una lima y media, el ají amarillo, el cilantro y sal. Déjala macerar al menos 10 minutos.",
+    "Pica el ajo y mezcla el seitán con él, el comino, la soja y el vinagre.",
     "Escurre la yuca, sécala y dórala en una sartén con 1,5 cucharadas de aceite a fuego medio-alto 8 minutos, dándole la vuelta, hasta que esté crujiente por fuera. Sálala y sácala.",
     "En la misma sartén, con el resto del aceite a fuego fuerte, saltea el seitán 4 minutos, hasta que tenga los bordes tostados.",
     "Sirve el seitán con la salsa criolla por encima, la yuca dorada, el arroz y una cuña de lima."
@@ -861,8 +860,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla el miso con el mirin hasta tener una pasta lisa y unta con ella los filetes de tofu. Déjalos marinar 15 minutos (o hasta una noche en la nevera): la sal del miso penetra y sazona el tofu por dentro.",
     "Enciende el grill del horno al máximo. Pon el tofu en una bandeja con papel, con la marinada encima, y gratínalo a 10 cm de la resistencia 6-8 minutos, hasta que esté lacado y con manchas tostadas. Vigílalo: el miso pasa de dorado a quemado en un minuto.",
-    "Mientras, separa las hojas del pak choi de los tallos y corta los tallos en trozos. Lamina las shiitake sin el pie.",
-    "Calienta el wok con el aceite de oliva a fuego fuerte y saltea las setas 3 minutos, hasta que se doren. Añade el ajo y el jengibre picados y los tallos de pak choi y saltea 2 minutos más.",
+    "Mientras, separa las hojas del pak choi de los tallos y corta los tallos en trozos. Lamina las shiitake sin el pie y pica el ajo y el jengibre.",
+    "Calienta el wok con el aceite de oliva a fuego fuerte y saltea las setas 3 minutos, hasta que se doren. Añade el ajo y el jengibre y los tallos de pak choi y saltea 2 minutos más.",
     "Pasa los udon por agua caliente para separarlos, escúrrelos y añádelos al wok con las hojas de pak choi, la salsa de soja y el aceite de sésamo. Saltea 2 minutos, hasta que los fideos estén calientes y brillantes.",
     "Sirve los fideos con el tofu lacado encima y el sésamo espolvoreado."
   ],
@@ -902,13 +901,13 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda", nota: "suave, o de girasol" }
   ],
   pasos: [
-    "Lava el arroz y cuécelo tapado con 1,5 veces su volumen de agua 12 minutos a fuego mínimo; reposa 5 minutos.",
+    "Lava el arroz y cuécelo tapado con 1,5 veces su volumen de agua 12 minutos a fuego mínimo; reposa 5 minutos. Mientras, pica el ajo y el jengibre, trocea las guindillas y corta la cebolleta en aros.",
     "Tuesta la pimienta de Sichuan en el wok seco 1 minuto, hasta que huela, y machácala en el mortero. Tostarla potencia su aroma cítrico y el cosquilleo característico.",
     "Seca muy bien las judías verdes y quítales las puntas. Calienta 1 cucharada de aceite en el wok a fuego fuerte y saltéalas 7-8 minutos, removiendo poco, hasta que la piel se arrugue y tenga manchas tostadas. Es la versión casera de las judías fritas en aceite abundante: el calor seco las concentra sin ablandarlas. Sácalas.",
     "Añade el resto del aceite y dora la heura 3-4 minutos. Sácala también.",
-    "Baja a fuego medio y fríe el ajo y el jengibre picados con las guindillas troceadas 30 segundos, sin que se quemen.",
+    "Baja a fuego medio y fríe el ajo y el jengibre con las guindillas 30 segundos, sin que se quemen.",
     "Devuelve las judías y la heura, añade la soja, el azúcar y el vinagre y saltea 1 minuto a fuego fuerte, hasta que todo brille.",
-    "Espolvorea la pimienta de Sichuan y la cebolleta en aros y sirve enseguida con el arroz."
+    "Espolvorea la pimienta de Sichuan y la cebolleta y sirve enseguida con el arroz."
   ],
   nutricion: { kcal: 450, prot: 25, hc: 42, grasa: 20 },
   etiquetas: ["proteína vegetal", "alta en proteína", "ligera", "picante", "rápida", "tupper", "bajo en colesterol"],
@@ -945,9 +944,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo tapado con 1,5 veces su volumen de agua 12 minutos a fuego mínimo; reposa 5 minutos.",
+    "Mientras, corta los tomates en gajos pequeños. Separa la parte blanca de la cebolleta (picada) de la verde (en tramos de 3 cm) y pica el ajo.",
     "Dora los dados de tofu en la sartén con el aceite a fuego medio-alto 6-8 minutos, girándolos, hasta que tengan una piel dorada por todas las caras. Esa piel es la que absorbe la salsa sin que el tofu se deshaga. Sácalos.",
-    "Corta los tomates en gajos pequeños. Separa la parte blanca de la cebolleta (picada) de la verde (en tramos de 3 cm).",
-    "En el mismo aceite, rehoga la parte blanca de la cebolleta y el ajo picado 1 minuto. Añade el tomate y una pizca de sal y cocina a fuego medio 6-8 minutos, aplastándolo con la cuchara, hasta que se deshaga en una salsa jugosa.",
+    "En el mismo aceite, rehoga la parte blanca de la cebolleta y el ajo 1 minuto. Añade el tomate y una pizca de sal y cocina a fuego medio 6-8 minutos, aplastándolo con la cuchara, hasta que se deshaga en una salsa jugosa.",
     "Añade la soja, el azúcar y 3 cucharadas de agua. El azúcar no es para endulzar: equilibra la acidez del tomate.",
     "Devuelve el tofu y cuece a fuego suave 5 minutos, dándole la vuelta, para que se impregne.",
     "Añade la parte verde de la cebolleta y bastante pimienta negra, apaga y sirve sobre el arroz con el cilantro."
@@ -994,8 +993,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Dora el seitán en una cazuela con 1 cucharada de aceite a fuego medio-alto 4 minutos. Añade las setas y saltéalas 4 minutos más, hasta que se doren: las setas de cardo dan la textura melosa y gelatinosa que recuerda a los callos. Sácalo todo.",
-    "En la misma cazuela, con el resto del aceite, pocha la cebolla y los ajos picados a fuego medio 8 minutos, hasta que estén dorados.",
+    "Pica la cebolla y los ajos. Dora el seitán en una cazuela con 1 cucharada de aceite a fuego medio-alto 4 minutos. Añade las setas y saltéalas 4 minutos más, hasta que se doren: las setas de cardo dan la textura melosa y gelatinosa que recuerda a los callos. Sácalo todo.",
+    "En la misma cazuela, con el resto del aceite, pocha la cebolla y los ajos a fuego medio 8 minutos, hasta que estén dorados.",
     "Añade la harina y remueve 1 minuto para tostarla. Aparta del fuego, añade los dos pimentones y el comino y remueve 20 segundos: fuera del fuego el pimentón no se quema ni amarga.",
     "Vuelve al fuego, añade la carne de pimiento choricero y el tomate y cocina 5 minutos, hasta que el sofrito oscurezca.",
     "Vierte el caldo, la guindilla y el laurel, devuelve el seitán y las setas y cuece a fuego suave 20 minutos. La harina tostada irá espesando la salsa.",
@@ -1043,12 +1042,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta las patatas con piel en gajos, sécalas, mézclalas con 1 cucharada de aceite, sal y la mitad del pimentón y hornéalas 30-35 minutos en una bandeja sin amontonar, dándoles la vuelta a mitad, hasta que estén doradas.",
-    "Hidrata la soja en el caldo caliente con la salsa de soja 10 minutos. Escúrrela apretando bien.",
-    "Rehoga la cebolla y el pimiento picados con el resto del aceite a fuego medio 7 minutos, hasta que estén blandos.",
+    "Mientras se hornean, hidrata la soja en el caldo caliente con la salsa de soja 10 minutos. Mientras, pica la cebolla y el pimiento y corta los pepinillos en rodajas. Escurre la soja apretando bien.",
+    "Rehoga la cebolla y el pimiento con el resto del aceite a fuego medio 7 minutos, hasta que estén blandos.",
     "Sube el fuego, añade la soja y dórala 4 minutos sin remover demasiado, para que se tueste y pierda el sabor a 'hervida'.",
     "Incorpora el tomate, el kétchup, la mostaza, el azúcar, el vinagre y el resto del pimentón. Cuece a fuego medio 8-10 minutos, hasta que la salsa espese y el picadillo quede jugoso pero no caldoso: debe aguantar sobre una cuchara sin escurrir.",
     "Abre los panes y tuéstalos por la cara cortada en la sartén seca 1 minuto: el pan tostado hace de barrera y no se empapa con la salsa.",
-    "Rellena los panes con el picadillo generoso y unos pepinillos en rodajas y sírvelos con las patatas gajo."
+    "Rellena los panes con el picadillo generoso y los pepinillos y sírvelos con las patatas gajo."
   ],
   nutricion: { kcal: 665, prot: 32, hc: 92, grasa: 19 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "para niños", "al horno", "cena de viernes", "poco especiada"],
@@ -1133,9 +1132,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las alcachofas hasta llegar a las hojas tiernas, córtalas en cuartos y déjalas en agua con el zumo del limón para que no se oxiden. Tuesta el azafrán unos segundos en la paella seca, machácalo y disuélvelo en el caldo caliente.",
-    "Calienta el aceite en una paella o sartén ancha de unos 30 cm. Sofríe las alcachofas escurridas y secas 5 minutos a fuego medio, hasta que se doren. Añade las setas en tiras y el pimiento y saltea 4 minutos más.",
-    "Añade el ajo picado y, enseguida, el tomate rallado. Cocina 4 minutos, hasta que el sofrito esté oscuro y concentrado. Aparta un momento del fuego y añade el pimentón.",
+    "Limpia las alcachofas hasta llegar a las hojas tiernas, córtalas en cuartos y déjalas en agua con el zumo del limón para que no se oxiden. Corta las setas y el pimiento en tiras, pica el ajo y ralla el tomate. Tuesta el azafrán unos segundos en la paella seca, machácalo y disuélvelo en el caldo caliente.",
+    "Calienta el aceite en una paella o sartén ancha de unos 30 cm. Sofríe las alcachofas escurridas y secas 5 minutos a fuego medio, hasta que se doren. Añade las setas y el pimiento y saltea 4 minutos más.",
+    "Añade el ajo y, enseguida, el tomate. Cocina 4 minutos, hasta que el sofrito esté oscuro y concentrado. Aparta un momento del fuego y añade el pimentón.",
     "Incorpora el arroz y nácaralo 1 minuto, removiendo para que se impregne del sofrito. Reparte los garbanzos por encima.",
     "Vierte el caldo caliente de una vez, prueba de sal (debe quedar un punto salado, el arroz lo absorberá) y reparte bien el arroz con la cuchara. A partir de aquí no se remueve más: removiendo, el arroz suelta almidón y queda meloso en lugar de suelto.",
     "Cuece 8 minutos a fuego fuerte y 9-10 minutos a fuego medio-bajo, hasta que el caldo se consuma y se vean agujeritos en la superficie. Pon la rama de romero encima los últimos minutos.",

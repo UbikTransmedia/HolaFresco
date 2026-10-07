@@ -38,11 +38,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enjuaga las lentejas rojas hasta que el agua salga casi limpia (así quitas el almidón suelto que hace espuma) y cuécelas en 500 ml de agua con la cúrcuma 15 minutos, hasta que se deshagan. Bátelas con unas varillas para dejar un puré fino.",
     "Mientras, lava el arroz basmati en tres aguas y cuécelo en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos. Apaga y deja reposar tapado 5 minutos para que el grano termine de hidratarse sin romperse.",
-    "Tuesta en seco la pimienta y la mitad del comino 1 minuto, hasta que huelan, y macháquelos en un mortero con los ajos pelados hasta tener una pasta gruesa: es el corazón aromático del rasam.",
-    "En la cazuela, aplasta con las manos los tomates troceados con 400 ml de agua, el tamarindo, la pasta de ajo y pimienta y los tallos del cilantro picados. Hierve suave 10 minutos, hasta que el tomate se deshaga y el líquido huela ácido y picante.",
+    "Tuesta en seco la pimienta y la mitad del comino 1 minuto, hasta que huelan, y machácalos en un mortero con los ajos pelados hasta tener una pasta gruesa: es el corazón aromático del rasam. Trocea los tomates y pica el cilantro, separando los tallos de las hojas.",
+    "En la cazuela, aplasta con las manos los tomates con 400 ml de agua, el tamarindo, la pasta de ajo y pimienta y los tallos del cilantro. Hierve suave 10 minutos, hasta que el tomate se deshaga y el líquido huela ácido y picante.",
     "Añade el puré de lentejas y 200 ml más de agua; el rasam debe quedar caldoso, como una sopa ligera, no espeso como un dal. Calienta hasta que empiece a espumar por los bordes y apaga enseguida: si hierve fuerte, el tamarindo amarga y se pierde el aroma.",
     "Para la tadka, calienta el aceite en una sartén pequeña, echa la mostaza y espera a que salte (señal de que el aceite está a punto), añade el resto del comino y la guindilla partida 10 segundos y vuélcalo todo sobre la sopa. Tapa 2 minutos para que el aroma se quede dentro.",
-    "Sala, añade las hojas de cilantro picadas y sirve el rasam en cuencos con el arroz aparte para ir mojándolo, o con el arroz en el fondo del plato al estilo de Tamil Nadu."
+    "Sala, añade las hojas de cilantro y sirve el rasam en cuencos con el arroz aparte para ir mojándolo, o con el arroz en el fondo del plato al estilo de Tamil Nadu."
   ],
   nutricion: { kcal: 450, prot: 16, hc: 76, grasa: 9 },
   etiquetas: ["cocinas del mundo", "india del sur", "de cuchara", "ligera", "vegano", "sin gluten", "económica", "picante", "invierno", "detox", "bajo en colesterol"],
@@ -82,12 +82,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, los ajos y el jengibre y póchalos en la cazuela con la mitad de la mantequilla a fuego medio 6 minutos, hasta que la cebolla esté transparente.",
+    "Pela la patata y córtala en dados pequeños. Pica la cebolla, los ajos y el jengibre y póchalos en la cazuela con la mitad de la mantequilla a fuego medio 6 minutos, hasta que la cebolla esté transparente.",
     "Añade el comino y remueve 30 segundos: las especias molidas se tuestan en la grasa antes del líquido para que suelten su aroma sin quemarse.",
-    "Incorpora la patata en dados pequeños y el caldo y cuece 12 minutos, hasta que la patata se deshaga. Ella será la que dé cuerpo a la crema sin necesidad de nata.",
+    "Incorpora la patata y el caldo y cuece 12 minutos, hasta que la patata se deshaga. Ella será la que dé cuerpo a la crema sin necesidad de nata. Mientras, dora los dados de paneer en una sartén con el resto de la mantequilla a fuego medio-alto 4 minutos, girándolos, hasta que tengan costra dorada por varios lados, y sálalos ligeramente.",
     "Echa las espinacas lavadas a puñados, removiendo hasta que se reduzcan, y cuece solo 2 minutos más. Si las cueces de más pierden el verde brillante y toman sabor metálico.",
     "Tritura enseguida con la batidora hasta que quede fina. Fuera del fuego, añade la mitad del yogur batido, el garam masala y el zumo de limón; el yogur se agrega sin hervir para que no se corte.",
-    "Dora los dados de paneer en una sartén con el resto de la mantequilla a fuego medio-alto 4 minutos, girándolos, hasta que tengan costra dorada por varios lados. Sálalos ligeramente.",
     "Sirve la crema caliente con un hilo del yogur restante, el paneer encima y pimienta negra recién molida."
   ],
   nutricion: { kcal: 450, prot: 25, hc: 30, grasa: 25 },
@@ -129,13 +128,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien los garbanzos con papel de cocina (si están húmedos se cuecen en vez de tostarse). Saltéalos en la sartén con 1/2 cucharada de aceite y una pizca de sal y curry a fuego medio 10 minutos, moviendo de vez en cuando, hasta que suenen al moverlos. Reserva.",
-    "En la cazuela, pocha la cebolla, el ajo y el jengibre picados con 1/2 cucharada de aceite 6 minutos, hasta que estén blandos.",
+    "Seca bien los garbanzos con papel de cocina (si están húmedos se cuecen en vez de tostarse). Saltéalos en la sartén con 1/2 cucharada de aceite y una pizca de sal y curry a fuego medio 10 minutos, moviendo de vez en cuando, hasta que suenen al moverlos. Reserva. Mientras se tuestan, pica la cebolla, el ajo y el jengibre.",
+    "En la cazuela, pocha la cebolla, el ajo y el jengibre con 1/2 cucharada de aceite 6 minutos, hasta que estén blandos.",
     "Añade el resto del curry y la cúrcuma y remueve 30 segundos para tostarlos. Incorpora la coliflor y rehógala 3 minutos: así toma color y la crema gana un fondo más dulce.",
-    "Vierte el caldo, tapa y cuece 15 minutos, hasta que la coliflor se aplaste fácilmente con una cuchara.",
+    "Vierte el caldo, tapa y cuece 15 minutos, hasta que la coliflor se aplaste fácilmente con una cuchara. Mientras, pica el cilantro.",
     "Añade la leche de coco (reserva una cucharada para decorar), tritura hasta que quede muy fina y ajusta de sal y con el zumo de lima: el ácido equilibra la grasa del coco.",
     "Haz la tadka: calienta el resto del aceite en la sartén, echa la mostaza y, cuando salte, el comino 10 segundos. Apaga.",
-    "Sirve la crema con la tadka por encima, los garbanzos crujientes, un hilo de leche de coco y cilantro picado. Añade los garbanzos en el último momento para que no se ablanden."
+    "Sirve la crema con la tadka por encima, los garbanzos crujientes, un hilo de leche de coco y el cilantro. Añade los garbanzos en el último momento para que no se ablanden."
   ],
   nutricion: { kcal: 450, prot: 14, hc: 36, grasa: 27 },
   etiquetas: ["cocinas del mundo", "india", "crema", "ligera", "vegano", "sin gluten", "económica", "invierno", "batch cooking"],
@@ -175,13 +174,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo en 280 ml de agua con sal, tapado a fuego mínimo, 12 minutos. Extiéndelo en una fuente para que se enfríe y se seque: el chitranna se hace con arroz frío para que los granos queden sueltos.",
-    "Cuece los huevos 10 minutos desde que el agua hierve, enfríalos en agua fría (así se pelan mejor y la yema no se pone verde) y pártelos en cuartos.",
-    "Pon los guisantes en un colador y vierte encima agua hirviendo para descongelarlos.",
+    "Mientras, cuece los huevos 10 minutos desde que el agua hierve, enfríalos en agua fría (así se pelan mejor y la yema no se pone verde) y pártelos en cuartos.",
+    "Pon los guisantes en un colador y vierte encima agua hirviendo para descongelarlos. Ralla el jengibre y pica el chile y el cilantro.",
     "En una sartén grande, calienta el aceite a fuego medio y tuesta los cacahuetes 2-3 minutos, hasta que se doren. Añade la mostaza y espera a que salte.",
-    "Incorpora el jengibre rallado, el chile verde picado y la guindilla partida 30 segundos, y después la cúrcuma 10 segundos. Debe oler intenso pero sin quemarse.",
+    "Incorpora el jengibre, el chile verde y la guindilla partida 30 segundos, y después la cúrcuma 10 segundos. Debe oler intenso pero sin quemarse.",
     "Añade el arroz y los guisantes y mezcla con una espátula, levantando desde abajo sin aplastar, 3 minutos, hasta que todo el arroz esté amarillo y caliente.",
     "Apaga el fuego y entonces añade el zumo de limón y la sal: el limón se pone al final y en frío para que conserve su frescor y no amargue.",
-    "Sirve con el cilantro picado y los huevos duros encima, con una pizca de sal en cada cuarto."
+    "Sirve con el cilantro y los huevos duros encima, con una pizca de sal en cada cuarto."
   ],
   nutricion: { kcal: 605, prot: 22, hc: 64, grasa: 29 },
   etiquetas: ["cocinas del mundo", "india del sur", "aprovechamiento", "sin gluten", "económica", "ideal para llevar", "rápida"],
@@ -228,10 +227,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz en tres aguas y déjalo en remojo 20 minutos en agua fría; escúrrelo bien. El remojo hace que el basmati se alargue en vez de romperse.",
-    "Mientras, prepara la raita: ralla el pepino, escúrrelo apretando con las manos (para que no agüe el yogur) y mézclalo con el yogur, la menta picada y una pizca de sal. Guarda en la nevera.",
+    "Mientras, prepara la raita: ralla el pepino, escúrrelo apretando con las manos (para que no agüe el yogur) pica la menta y mézclalo todo con el yogur y una pizca de sal. Guarda en la nevera. Corta la cebolla en pluma fina y ralla el ajo y el jengibre.",
     "Dora el paneer en la cazuela con el aceite a fuego medio-alto 3-4 minutos, hasta que tenga color. Sácalo y resérvalo.",
     "En la misma cazuela, derrite la mantequilla y fríe las especias enteras (comino, cardamomo abierto, clavo, canela y laurel) 40 segundos, hasta que el comino chisporrotee: así perfuman la grasa, que luego perfumará cada grano.",
-    "Añade la cebolla en pluma fina y póchala 8 minutos, hasta que esté dorada. Agrega el ajo y el jengibre rallados y remueve 1 minuto.",
+    "Añade la cebolla y póchala 8 minutos, hasta que esté dorada. Agrega el ajo y el jengibre y remueve 1 minuto.",
     "Incorpora el arroz escurrido y remueve con cuidado 2 minutos para nacarar los granos con la grasa. Añade los guisantes, el caldo caliente y sal.",
     "Cuando hierva, tapa, baja al mínimo y cuece 11 minutos sin destapar. Apaga y deja reposar 5 minutos más con la tapa puesta.",
     "Esparce el paneer y el garam masala por encima, airea el arroz con un tenedor y sirve con la raita. Avisa de que las especias enteras no se comen."
@@ -282,14 +281,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Marina los langostinos con 60 g de yogur, el ajo y el jengibre rallados, el garam masala, la cúrcuma, la cayena, sal y el zumo de limón. Deja en la nevera mientras preparas lo demás (no más de 30 minutos: el ácido empieza a 'cocinar' el marisco).",
-    "Lava el arroz en tres aguas y ponlo en remojo 20 minutos. Disuelve el azafrán en la leche tibia para que suelte el color.",
-    "Corta las cebollas en pluma muy fina y fríelas en la sartén con el aceite a fuego medio 15-18 minutos, removiendo, hasta que estén de color caoba. Sácalas sobre papel: se pondrán crujientes al enfriar. Este 'birista' da el sabor dulce y tostado típico del biryani.",
-    "Hierve 2 litros de agua con sal generosa (como para pasta) y las especias enteras. Añade el arroz escurrido y cuécelo solo 5 minutos: debe quedar al 70 %, partido con los dedos aún con el centro blanco. Escúrrelo.",
-    "En la cazuela, pon los langostinos con su marinada y 2 cucharadas del aceite de freír la cebolla. Cubre con la mitad de la cebolla frita, la mitad de la menta y el cilantro picados y después todo el arroz.",
+    "Ralla el ajo y el jengibre y marina los langostinos con ellos, 60 g de yogur, el garam masala, la cúrcuma, la cayena, sal y el zumo de limón. Deja en la nevera mientras preparas lo demás (no más de 30 minutos: el ácido empieza a 'cocinar' el marisco).",
+    "Lava el arroz en tres aguas y ponlo en remojo 20 minutos. Disuelve el azafrán en la leche tibia para que suelte el color. Mientras, pica la menta y el cilantro, y ralla el pepino y escúrrelo apretando para la raita.",
+    "Pon a hervir 2 litros de agua con sal generosa (como para pasta) y las especias enteras. Mientras, corta las cebollas en pluma muy fina y fríelas en la sartén con el aceite a fuego medio 15-18 minutos, removiendo, hasta que estén de color caoba. Sácalas sobre papel: se pondrán crujientes al enfriar. Este 'birista' da el sabor dulce y tostado típico del biryani.",
+    "Añade el arroz escurrido al agua hirviendo y cuécelo solo 5 minutos: debe quedar al 70 %, partido con los dedos aún con el centro blanco. Escúrrelo.",
+    "En la cazuela, pon los langostinos con su marinada y 2 cucharadas del aceite de freír la cebolla. Cubre con la mitad de la cebolla frita, la mitad de la menta y el cilantro y después todo el arroz.",
     "Riega el arroz con la leche de azafrán en hilos, para que queden vetas blancas y amarillas, y reparte la mantequilla en trocitos y el resto de hierbas.",
     "Sella la cazuela: tapa con papel de aluminio bien ajustado y encima la tapa. Cocina 5 minutos a fuego medio y 15 minutos a fuego mínimo. Esto es el 'dum': el vapor atrapado termina de cocer el arroz con los jugos del langostino debajo.",
-    "Mientras, mezcla el resto del yogur con el pepino rallado y escurrido y una pizca de sal para la raita.",
+    "Mientras, mezcla el resto del yogur con el pepino y una pizca de sal para la raita.",
     "Deja reposar 5 minutos sin destapar, abre delante de los comensales y sirve sacando con una espumadera desde el fondo para que cada plato tenga capas de arroz y langostinos. Corona con el resto de cebolla frita."
   ],
   nutricion: { kcal: 760, prot: 41, hc: 77, grasa: 32 },
@@ -332,10 +331,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enjuaga las judías mungo y cuécelas en abundante agua sin sal 20-25 minutos, hasta que estén tiernas pero enteras. Prueba varias: deben ceder al morder sin deshacerse. Escúrrelas y extiéndelas en una bandeja para que se enfríen rápido y no se pasen.",
     "Mientras, corta el pepino, el tomate y la cebolla morada en dados pequeños. Deja la cebolla 5 minutos en el zumo de media lima con una pizca de sal: se ablanda y pierde el picor crudo.",
-    "Desgrana la granada golpeando la media fruta boca abajo con una cuchara sobre un bol.",
+    "Desgrana la granada golpeando la media fruta boca abajo con una cuchara sobre un bol. Pica el chile, los cacahuetes y el cilantro.",
     "Haz la tadka: calienta el aceite, echa la mostaza y, cuando salte, el comino 10 segundos. Viértela sobre las judías aún templadas para que absorban el aroma.",
-    "Mezcla las judías con las verduras, la cebolla con su jugo, el chile picado, el resto del zumo de lima, el coco y sal.",
-    "Justo antes de servir, añade la granada, los cacahuetes picados y el cilantro, para que lo crujiente no se ablande."
+    "Mezcla las judías con las verduras, la cebolla con su jugo, el chile, el resto del zumo de lima, el coco y sal.",
+    "Justo antes de servir, añade la granada, los cacahuetes y el cilantro, para que lo crujiente no se ablande."
   ],
   nutricion: { kcal: 430, prot: 18, hc: 52, grasa: 17 },
   etiquetas: ["cocinas del mundo", "india", "vegano", "sin gluten", "ligera", "económica", "verano", "ideal para llevar", "alta en fibra", "detox", "bajo en colesterol"],
@@ -377,7 +376,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece la patata con piel en agua con sal 20 minutos, hasta que un cuchillo entre sin resistencia. Pélala y córtala en dados pequeños cuando esté templada.",
-    "Chutney dulce: calienta el tamarindo con el azúcar moreno, el comino y 3 cucharadas de agua 2 minutos, hasta que espese como un jarabe. Déjalo enfriar.",
+    "Mientras se cuece, prepara el chutney dulce: calienta el tamarindo con el azúcar moreno, el comino y 3 cucharadas de agua 2 minutos, hasta que espese como un jarabe. Déjalo enfriar.",
     "Chutney verde: tritura el cilantro (con tallos), la menta, el chile, el zumo de la lima, una pizca de sal y 2 cucharadas de agua fría hasta tener una salsa lisa. El agua fría ayuda a que no se oscurezca.",
     "Pica la cebolla, el tomate y el pepino en dados muy pequeños, del tamaño de un garbanzo, para que cada cucharada lleve de todo.",
     "En un bol grande, mezcla la patata, los garbanzos y las verduras con los dos chutneys al gusto (más tamarindo si lo quieres dulce, más verde si lo quieres picante).",
@@ -421,12 +420,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 9 minutos desde que hierva el agua y pásalos a agua con hielo: así la yema queda cremosa y amarilla, sin cerco verde. Pélalos.",
-    "Pela el pepino a tiras, ábrelo a lo largo y quítale las semillas con una cucharilla (son las que sueltan más agua). Córtalo en dados pequeños.",
-    "Pica los cacahuetes en el mortero hasta dejarlos como arena gruesa: esa textura es la que da nombre al plato ('khamang' significa sabroso y aromático).",
-    "Sala el pepino justo antes de servir, nunca antes, porque la sal le hace soltar agua y la ensalada se aguaría. Mézclalo con los cacahuetes, el coco, el chile picado, el azúcar, el zumo de lima, los cherrys en cuartos y el cilantro.",
+    "Cuece los huevos 9 minutos desde que hierva el agua y pásalos a agua con hielo: así la yema queda cremosa y amarilla, sin cerco verde.",
+    "Mientras se cuecen, pela el pepino a tiras, ábrelo a lo largo y quítale las semillas con una cucharilla (son las que sueltan más agua). Córtalo en dados pequeños.",
+    "Pica los cacahuetes en el mortero hasta dejarlos como arena gruesa: esa textura es la que da nombre al plato ('khamang' significa sabroso y aromático). Pica el chile y el cilantro y corta los cherrys en cuartos.",
+    "Sala el pepino justo antes de servir, nunca antes, porque la sal le hace soltar agua y la ensalada se aguaría. Mézclalo con los cacahuetes, el coco, el chile, el azúcar, el zumo de lima, los cherrys y el cilantro.",
     "Haz la tadka: calienta el aceite, echa la mostaza y, cuando salte, el comino 10 segundos. Vierte la mitad sobre la ensalada.",
-    "Corta los huevos por la mitad, espolvoréalos con el garam masala y una pizca de sal y riégalos con el resto de la tadka. Sírvelos sobre la ensalada."
+    "Pela los huevos, córtalos por la mitad, espolvoréalos con el garam masala y una pizca de sal y riégalos con el resto de la tadka. Sírvelos sobre la ensalada."
   ],
   nutricion: { kcal: 460, prot: 21, hc: 20, grasa: 33 },
   etiquetas: ["cocinas del mundo", "india", "vegetariana", "sin gluten", "rápida", "ligera", "económica", "verano", "sin horno"],
@@ -468,11 +467,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Frota el rape con media cucharadita de cúrcuma y sal y déjalo 10 minutos. La cúrcuma con sal es el adobo básico bengalí: sazona y ayuda a que el pescado se dore sin pegarse.",
+    "Frota el rape con media cucharadita de cúrcuma y sal y déjalo 10 minutos; mientras, pela la patata y córtala en bastones gruesos, trocea la berenjena, ralla el jengibre y pica el tomate. La cúrcuma con sal es el adobo básico bengalí: sazona y ayuda a que el pescado se dore sin pegarse.",
     "Pon a cocer el arroz basmati lavado en 200 ml de agua con sal, tapado a fuego mínimo, 12 minutos.",
     "Dora el rape en la sartén con la mitad del aceite a fuego fuerte 1 minuto por lado; solo debe tomar color, no cocinarse. Reserva.",
     "En la cazuela, calienta el resto del aceite y fríe las semillas de comino, mostaza e hinojo 20 segundos (una versión sencilla del panch phoron, la mezcla de cinco semillas de Bengala).",
-    "Añade la patata en bastones gruesos y la berenjena en trozos y rehoga 4 minutos. Incorpora el jengibre rallado, el tomate picado y las especias molidas con un chorrito de agua para que no se quemen; cocina 2 minutos.",
+    "Añade la patata y la berenjena y rehoga 4 minutos. Incorpora el jengibre, el tomate y las especias molidas con un chorrito de agua para que no se quemen; cocina 2 minutos.",
     "Cubre con 400 ml de agua caliente, sala y cuece 12 minutos, hasta que la patata esté tierna. El jhol debe ser un caldo fino y dorado, no una salsa espesa.",
     "Mete el rape y los chiles verdes, cuece 4 minutos más a fuego suave, sin remover (mueve la cazuela), hasta que el pescado esté opaco por dentro.",
     "Sirve en plato hondo con el cilantro fresco y el arroz al lado; en Bengala se echa el caldo sobre el arroz a cucharadas."
@@ -514,9 +513,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Hidrata el coco rallado 10 minutos en 4 cucharadas de agua caliente: así se tritura mejor y el chutney queda cremoso.",
+    "Precalienta el horno a 200 °C. Hidrata el coco rallado 10 minutos en 4 cucharadas de agua caliente: así se tritura mejor y el chutney queda cremoso. Mientras, pon a cocer el arroz basmati lavado en 280 ml de agua con sal, tapado a fuego mínimo, 12 minutos.",
     "Tritura el coco con su agua, el cilantro con los tallos, la menta, el chile, los ajos, el jengibre, el comino, el azúcar, el zumo de la lima y sal hasta tener una pasta espesa y muy verde.",
-    "Pon a cocer el arroz basmati lavado en 280 ml de agua con sal, tapado a fuego mínimo, 12 minutos.",
     "Seca los lomos de lubina, sálalos y úntalos generosamente con el chutney por ambos lados.",
     "Corta dos rectángulos de papel de horno, unta el centro con el aceite, coloca cada lomo y cierra como un caramelo, doblando los bordes varias veces para que no escape el vapor. Tradicionalmente se envuelve en hoja de plátano; el papel cumple la misma función.",
     "Hornea 12-14 minutos sobre una bandeja. El paquete se hinchará: es el vapor que cocina el pescado con suavidad y le pasa el aroma del chutney.",
@@ -564,10 +562,10 @@ window.RECETAS_SEED.push({
     "Machaca en el mortero el ajo y el jengibre con sal y mézclalos con el pimentón, la cayena, la cúrcuma, la pimienta, la harina de arroz y el zumo de medio limón hasta tener una pasta espesa. El pimentón dulce con un toque de cayena imita el chile de Cachemira: mucho color y picor moderado.",
     "Seca bien los lomos de caballa, haz dos cortes superficiales en la piel (para que no se encojan y la pasta penetre) y úntalos con la pasta. Deja marinar 15 minutos.",
     "Mientras, cuece el arroz lavado en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos.",
-    "Corta la cebolla morada en pluma muy fina y aliña con el zumo del otro medio limón, sal y el tomate en dados. Déjala reposar: el ácido la suaviza.",
+    "Corta la cebolla morada en pluma muy fina y el tomate en dados y alíñalos con el zumo del otro medio limón y sal. Déjala reposar: el ácido la suaviza. Pica el cilantro.",
     "Calienta el aceite en la sartén a fuego medio-alto y pon la caballa con la piel hacia abajo. No la muevas en 3 minutos: la harina de arroz forma una costra crujiente que se despega sola cuando está hecha.",
     "Dale la vuelta y cocina 1-2 minutos más, hasta que la carne esté opaca. Escúrrela sobre papel.",
-    "Sirve la caballa sobre el arroz con la ensalada de cebolla y cilantro picado por encima."
+    "Sirve la caballa sobre el arroz con la ensalada de cebolla y el cilantro por encima."
   ],
   nutricion: { kcal: 585, prot: 29, hc: 58, grasa: 26 },
   etiquetas: ["cocinas del mundo", "india del sur", "kerala", "pescado azul", "sin gluten", "sin lácteos", "omega 3"],
@@ -654,10 +652,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lleva a ebullición la leche con el agua y una cucharadita de sal. Baja el fuego y añade la polenta en forma de lluvia mientras bates con varillas: si la echas de golpe, forma grumos que ya no se deshacen.",
     "Cuece a fuego mínimo, removiendo cada pocos minutos con una cuchara de madera y rascando el fondo, unos 20 minutos (o lo que indique el paquete), hasta que esté cremosa y los granos no se noten arenosos. Si espesa demasiado, añade un chorrito de agua caliente.",
-    "Mientras, saltea el kale en tiras con el ajo laminado en la mitad del aceite a fuego medio 4 minutos, hasta que esté tierno pero verde. Sala y añade unas gotas de salsa picante.",
+    "Mientras, corta el kale en tiras, lamina el ajo y pica la cebolleta. Saltea el kale con el ajo en la mitad del aceite a fuego medio 4 minutos, hasta que esté tierno pero verde. Sala y añade unas gotas de salsa picante.",
     "Fuera del fuego, incorpora a la polenta la mantequilla y casi todo el cheddar y remueve hasta que se fundan. La grasa al final da brillo y textura sedosa; si la añades al principio se pierde en la cocción.",
     "Fríe los huevos en el resto del aceite a fuego medio, con la yema líquida.",
-    "Sirve los grits en platos hondos con el kale, el huevo encima, el resto del cheddar, la cebolleta picada, pimienta negra y salsa picante al gusto."
+    "Sirve los grits en platos hondos con el kale, el huevo encima, el resto del cheddar, la cebolleta, pimienta negra y salsa picante al gusto."
   ],
   nutricion: { kcal: 600, prot: 23, hc: 56, grasa: 31 },
   etiquetas: ["cocinas del mundo", "estadounidense", "sur de EE. UU.", "vegetariana", "sin gluten", "económica", "reconfortante", "brunch"],
@@ -699,7 +697,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la patata en dados de 1 cm y dales 4 minutos de microondas tapados con una cucharada de agua. Después dóralos en la sartén con 1 cucharada de aceite, el pimentón y sal a fuego medio-alto 6-8 minutos, hasta que estén crujientes.",
-    "Pico de gallo: pica el tomate, la cebolla morada, el chile y el cilantro y alíñalos con el zumo de lima y sal.",
+    "Mientras se dora, prepara el pico de gallo: pica el tomate, la cebolla morada, el chile y el cilantro y alíñalos con el zumo de lima y sal.",
     "Calienta las alubias con el comino y un chorrito de agua y aplástalas un poco con el tenedor: así se quedan dentro del burrito y no se escapan rodando.",
     "Bate los huevos con sal. En la sartén con el resto del aceite a fuego bajo, remuévelos con una espátula hasta que cuajen en grumos grandes y cremosos, y apártalos cuando aún brillen: el calor residual los termina.",
     "Calienta las tortillas 20 segundos en la sartén para que sean flexibles. Reparte en el centro las alubias, la patata, el huevo, el cheddar, el aguacate en láminas y una cucharada de pico de gallo.",
@@ -752,8 +750,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Pan de maíz: mezcla las dos harinas, la levadura, el azúcar y una pizca de sal; en otro bol, el huevo, la leche y la mantequilla. Une ambos con pocas vueltas: grumos pequeños están bien, porque batir de más desarrolla el gluten y el pan sale duro.",
     "Vierte la masa en un molde pequeño engrasado (o una sartén apta para horno) y hornea 18-20 minutos, hasta que esté dorado y un palillo salga limpio.",
-    "Mientras, dora el bacon en tiras en la cazuela en frío 4 minutos. Sube el fuego, añade la ternera y dórala 5 minutos, rompiéndola, hasta que esté bien tostada.",
-    "Añade la cebolla, el pimiento y el ajo picados y cocina 6 minutos, hasta que estén blandos.",
+    "Mientras, corta el bacon en tiras y pica la cebolla, el pimiento y el ajo. Dora el bacon en la cazuela en frío 4 minutos. Sube el fuego, añade la ternera y dórala 5 minutos, rompiéndola, hasta que esté bien tostada.",
+    "Añade la cebolla, el pimiento y el ajo y cocina 6 minutos, hasta que estén blandos.",
     "Salsa barbacoa casera: incorpora el pimentón, el tomate frito, el kétchup, el azúcar moreno, el vinagre y la mostaza. Es el equilibrio clásico de la BBQ: dulce, ácido, ahumado y un punto picante de mostaza.",
     "Añade las alubias y 100 ml de agua y cuece a fuego suave 15 minutos, removiendo de vez en cuando, hasta que la salsa espese y brille. Prueba de sal.",
     "Sirve las alubias en cuencos con una porción de pan de maíz templado para mojar."
@@ -797,12 +795,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en la cazuela a fuego medio y dora el jamón 2 minutos para que suelte su grasa y su sabor. Sácalo y resérvalo; si lo dejas toda la cocción, queda duro y seco.",
-    "En la misma grasa, pocha la cebolla, el apio y la zanahoria picados 8 minutos, hasta que estén blandos. Añade el ajo 1 minuto.",
-    "Incorpora la patata en dados pequeños, las alubias, el laurel y el caldo. Lleva a ebullición y cuece a fuego suave 20 minutos, hasta que la patata esté muy tierna.",
+    "Pica la cebolla, el apio, la zanahoria y el ajo, y pela la patata y córtala en dados pequeños. Calienta el aceite en la cazuela a fuego medio y dora el jamón 2 minutos para que suelte su grasa y su sabor. Sácalo y resérvalo; si lo dejas toda la cocción, queda duro y seco.",
+    "En la misma grasa, pocha la cebolla, el apio y la zanahoria 8 minutos, hasta que estén blandos. Añade el ajo 1 minuto.",
+    "Incorpora la patata, las alubias, el laurel y el caldo. Lleva a ebullición y cuece a fuego suave 20 minutos, hasta que la patata esté muy tierna. Mientras, pica el perejil y tuesta el pan.",
     "Retira el laurel y saca un cazo de sopa (con alubias y patata). Tritúralo y devuélvelo a la cazuela: así la sopa espesa y gana cremosidad sin nata ni harina, conservando alubias enteras.",
     "Devuelve el jamón, cuece 3 minutos más y prueba antes de salar: el jamón ya aporta mucha sal.",
-    "Sirve con perejil picado, pimienta negra recién molida y el pan tostado al lado."
+    "Sirve con el perejil, pimienta negra recién molida y el pan tostado al lado."
   ],
   nutricion: { kcal: 580, prot: 35, hc: 76, grasa: 15 },
   etiquetas: ["cocinas del mundo", "estadounidense", "de cuchara", "una sola olla", "económica", "batch cooking", "invierno", "alta en fibra", "poco especiada"],
@@ -849,7 +847,7 @@ window.RECETAS_SEED.push({
     "Pica los pimientos, la cebolla morada y el tomate en dados pequeños, del tamaño de una alubia: en esta ensalada todo debe caber en un totopo.",
     "Pica el chile sin semillas (son las que más pican) y el cilantro.",
     "Añade al bol las alubias escurridas, el maíz y las verduras y mezcla bien. Deja reposar al menos 15 minutos (o hasta una hora en la nevera): las alubias absorben el aliño y el sabor mejora.",
-    "Justo antes de servir, añade el aguacate en dados rociado con el zumo de la otra media lima, para que no se oscurezca.",
+    "Justo antes de servir, corta el aguacate en dados, rocíalo con el zumo de la otra media lima para que no se oscurezca y añádelo.",
     "Sirve en cuencos con los totopos para ir cogiendo con ellos, como en Texas."
   ],
   nutricion: { kcal: 610, prot: 18, hc: 69, grasa: 29 },
@@ -891,11 +889,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre muy bien el atún y desmígalo en un bol. Mézclalo con la mayonesa, la mostaza, unas gotas de limón, el apio, los pepinillos y la cebolla picados muy finos, y pimienta. El apio y el pepinillo aportan el crujiente y la acidez que equilibran la grasa del queso.",
+    "Pica muy finos el apio, los pepinillos y la cebolla. Escurre muy bien el atún y desmígalo en un bol. Mézclalo con la mayonesa, la mostaza, unas gotas de limón, el apio, los pepinillos, la cebolla y pimienta. El apio y el pepinillo aportan el crujiente y la acidez que equilibran la grasa del queso.",
     "Unta con mantequilla una cara de cada rebanada de pan: esa cara irá hacia la sartén. La mantequilla, mejor que el aceite, da un dorado uniforme y sabor a tostado.",
     "Sobre la cara sin mantequilla de dos rebanadas, pon una loncha de cheddar, la mitad de la mezcla de atún, otra loncha de cheddar y cierra con las otras rebanadas (mantequilla hacia fuera). El queso por ambos lados actúa de pegamento.",
     "Cocina en la sartén a fuego medio-bajo 4 minutos por lado, tapando los primeros minutos para que el calor llegue al centro y el queso se funda antes de que el pan se queme.",
-    "Mientras, aliña la lechuga en tiras y el tomate en gajos con el aceite y sal.",
+    "Mientras, corta la lechuga en tiras y el tomate en gajos y alíñalos con el aceite y sal.",
     "Corta los sándwiches en diagonal y sirve calientes con la ensalada."
   ],
   nutricion: { kcal: 605, prot: 36, hc: 47, grasa: 30 },
@@ -981,12 +979,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pincha las patatas con un tenedor y ásalas enteras 35-40 minutos, hasta que la piel esté crujiente y un cuchillo entre sin resistencia. Asarlas en vez de hervirlas concentra el sabor y da el toque tostado de la patata asada.",
-    "Mientras, dora el bacon en tiras en la cazuela empezando en frío, 6 minutos, hasta que esté crujiente. Sácalo y reserva para decorar; deja la grasa.",
-    "Añade la mantequilla y pocha la cebolla picada y el ajo 6 minutos. Espolvorea la harina y remueve 1 minuto: este roux espesará la sopa sin grumos.",
-    "Vierte el caldo poco a poco sin dejar de remover y después la leche. Cuece 5 minutos a fuego suave.",
+    "Mientras, corta el bacon en tiras y pica la cebolla y el ajo. Dora el bacon en la cazuela empezando en frío, 6 minutos, hasta que esté crujiente. Sácalo y reserva para decorar; deja la grasa.",
+    "Añade la mantequilla y pocha la cebolla y el ajo 6 minutos. Espolvorea la harina y remueve 1 minuto: este roux espesará la sopa sin grumos.",
+    "Vierte el caldo poco a poco sin dejar de remover y después la leche. Cuece 5 minutos a fuego suave y, mientras, pica el cebollino.",
     "Parte las patatas, saca la pulpa con una cuchara (reserva un poco de piel crujiente picada si te gusta) y añádela a la cazuela. Aplasta con un pasapurés o un tenedor: debe quedar cremosa pero con tropezones. No uses batidora, que la patata batida se vuelve elástica como un chicle.",
     "Fuera del fuego, añade dos tercios del cheddar y remueve hasta que se funda. Ajusta de sal y pimienta.",
-    "Sirve con una cucharada de nata agria, el resto del cheddar, el bacon crujiente y cebollino picado."
+    "Sirve con una cucharada de nata agria, el resto del cheddar, el bacon crujiente y el cebollino."
   ],
   nutricion: { kcal: 760, prot: 25, hc: 74, grasa: 41 },
   etiquetas: ["cocinas del mundo", "estadounidense", "de cuchara", "invierno", "para niños", "reconfortante", "poco especiada"],
@@ -1029,11 +1027,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la carne con papel y salpimiéntala. Dórala en la cazuela con el aceite a fuego fuerte en una sola capa, 5 minutos, sin moverla al principio. Si llenas demasiado la cazuela, la carne suelta agua y se cuece en lugar de dorarse: hazlo en dos tandas si hace falta.",
-    "Baja a fuego medio y añade la cebolla, la zanahoria y el apio en dados. Rehoga 6 minutos, rascando el fondo: ese tostado pegado es puro sabor.",
-    "Añade el tomate, el tomillo, el laurel, la worcestershire y el caldo. Lleva a ebullición, baja al mínimo, tapa y cuece 45 minutos.",
+    "Corta la cebolla, la zanahoria y el apio en dados. Seca la carne con papel y salpimiéntala. Dórala en la cazuela con el aceite a fuego fuerte en una sola capa, 5 minutos, sin moverla al principio. Si llenas demasiado la cazuela, la carne suelta agua y se cuece en lugar de dorarse: hazlo en dos tandas si hace falta.",
+    "Baja a fuego medio y añade la cebolla, la zanahoria y el apio. Rehoga 6 minutos, rascando el fondo: ese tostado pegado es puro sabor.",
+    "Añade el tomate, el tomillo, el laurel, la worcestershire y el caldo. Lleva a ebullición, baja al mínimo, tapa y cuece 45 minutos. Mientras, pela la patata y córtala en dados pequeños y corta las judías verdes en trozos de 2 cm.",
     "Incorpora la cebada enjuagada y cuece 20 minutos más.",
-    "Añade la patata en dados pequeños y las judías verdes en trozos de 2 cm y cuece 12 minutos, hasta que la patata esté tierna.",
+    "Añade la patata y las judías verdes y cuece 12 minutos, hasta que la patata esté tierna.",
     "Agrega los guisantes los últimos 3 minutos para que conserven el color. Prueba, ajusta de sal y pimienta y retira el laurel.",
     "Deja reposar 5 minutos y sirve en plato hondo."
   ],
@@ -1074,8 +1072,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca la carne de la nevera 20 minutos antes: si entra fría a la plancha, se dora por fuera y queda cruda y fría por dentro.",
-    "Pon a hervir abundante agua con sal. Escalda las espinacas y la albahaca 20 segundos y pásalas a agua con hielo: así fijas el color verde intenso. Escúrrelas apretando.",
-    "Sofríe la cebolla y el ajo picados en 1 cucharada de aceite 5 minutos, hasta que estén blandos. A diferencia del pesto italiano, el peruano lleva cebolla cocinada.",
+    "Pon a hervir abundante agua con sal y, mientras se calienta, pica la cebolla y el ajo. Escalda las espinacas y la albahaca 20 segundos y pásalas a agua con hielo: así fijas el color verde intenso. Escúrrelas apretando.",
+    "Sofríe la cebolla y el ajo en 1 cucharada de aceite 5 minutos, hasta que estén blandos. A diferencia del pesto italiano, el peruano lleva cebolla cocinada.",
     "Tritura las hojas con el sofrito, el queso fresco, la leche y las nueces hasta tener una salsa lisa. Prueba de sal.",
     "Cuece la pasta en el agua hirviendo el tiempo que indique el paquete. Reserva un vaso del agua de cocción.",
     "Mientras, seca la carne, sálala y márcala en la sartén muy caliente con el resto del aceite 2-3 minutos por lado. Déjala reposar 5 minutos sobre una tabla: los jugos se redistribuyen y no se pierden al cortar.",
@@ -1124,10 +1122,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Haz el sofrito boricua: tritura la cebolla, los pimientos, los ajos y el cilantro (con tallos) hasta tener una pasta gruesa. Es la base de casi toda la cocina puertorriqueña; triturarla hace que se integre en el arroz sin trozos.",
+    "Corta las aceitunas en rodajas. Haz el sofrito boricua: tritura la cebolla, los pimientos, los ajos y el cilantro (con tallos) hasta tener una pasta gruesa. Es la base de casi toda la cocina puertorriqueña; triturarla hace que se integre en el arroz sin trozos.",
     "Calienta el aceite en la cazuela a fuego medio y dora el jamón 2 minutos. Añade el sofrito y cocina 8 minutos, removiendo, hasta que pierda el agua y huela dulce.",
     "Incorpora el tomate concentrado, la pasta de achiote, el comino y el orégano y remueve 1 minuto: el achiote da el color amarillo-anaranjado típico (como el azafrán, pero con sabor terroso).",
-    "Añade las aceitunas en rodajas, las alcaparras y los gandules. Echa el arroz y nacáralo 1 minuto.",
+    "Añade las aceitunas, las alcaparras y los gandules. Echa el arroz y nacáralo 1 minuto.",
     "Vierte el caldo caliente, prueba de sal (cuenta con el jamón y las aceitunas) y cuece destapado a fuego medio hasta que el líquido baje al nivel del arroz, unos 6 minutos.",
     "Remueve una sola vez, tapa (en Puerto Rico se pone una hoja de papel de aluminio bajo la tapa para sellar) y cuece a fuego mínimo 18 minutos sin destapar.",
     "Deja reposar 5 minutos, ahueca con un tenedor y sirve. El 'pegao', la capa tostada del fondo, es la parte más codiciada."
@@ -1172,9 +1170,9 @@ window.RECETAS_SEED.push({
     "Tritura los tomates, la cebolla, el ajo y el chipotle con su adobo hasta tener un caldillo liso.",
     "Calienta el aceite en una sartén amplia a fuego medio y tuesta los fideos 4-5 minutos, removiendo sin parar, hasta que estén de color avellana. Este tostado es la clave: el fideo toma sabor a pan tostado y no se pasa al cocerse.",
     "Vierte el triturado de tomate (cuidado, salpica) y cocina 3 minutos, removiendo, hasta que se oscurezca y espese.",
-    "Añade el caldo caliente y sal, baja el fuego, tapa y cuece 8-10 minutos, hasta que los fideos estén tiernos y hayan absorbido casi todo el líquido. Debe quedar seco, sin caldo, a diferencia de la sopa de fideo.",
+    "Añade el caldo caliente y sal, baja el fuego, tapa y cuece 8-10 minutos, hasta que los fideos estén tiernos y hayan absorbido casi todo el líquido. Debe quedar seco, sin caldo, a diferencia de la sopa de fideo. Mientras, corta el aguacate en láminas, desmenuza el queso fresco y pica el cilantro.",
     "Apaga y deja reposar 3 minutos tapado.",
-    "Sirve con el aguacate en láminas, el queso fresco desmenuzado, la nata agria y el cilantro picado."
+    "Sirve con el aguacate, el queso fresco, la nata agria y el cilantro."
   ],
   nutricion: { kcal: 595, prot: 17, hc: 67, grasa: 29 },
   etiquetas: ["cocinas del mundo", "mexicana", "una sola sartén", "económica", "picante", "rápida", "adaptable a vegetariana"],

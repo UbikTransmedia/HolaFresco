@@ -34,9 +34,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Si compras el conejo entero, pide que te lo trocee o hazlo tú: separa las patas traseras cortando por la articulación de la cadera (busca el hueco con la punta del cuchillo, no fuerces el hueso), corta el lomo en 3 trozos con un golpe seco y separa las delanteras. Retira el hígado y los riñones y guárdalos para otro guiso.",
-    "Seca bien los trozos con papel de cocina y sálalos. Así se doran en vez de cocerse en su propia agua.",
+    "Seca bien los trozos con papel de cocina y sálalos. Corta la cebolleta en juliana y la zanahoria en rodajas finas. Así se doran en vez de cocerse en su propia agua.",
     "Calienta el aceite en una cazuela a fuego medio-alto y dora el conejo 6-8 minutos, hasta que esté tostado por todas partes. No lo muevas al principio: si se pega es que aún no está sellado.",
-    "Baja a fuego medio y añade los ajos enteros aplastados, la cebolleta en juliana y la zanahoria en rodajas finas. Rehoga 5 minutos, hasta que la cebolleta esté transparente.",
+    "Baja a fuego medio y añade los ajos enteros aplastados, la cebolleta y la zanahoria. Rehoga 5 minutos, hasta que la cebolleta esté transparente.",
     "Incorpora el laurel, el tomillo y la pimienta en grano, vierte el vino blanco y deja que hierva 2 minutos para que se evapore el alcohol. Añade el vinagre y 150 ml de agua.",
     "Tapa y cuece a fuego suave 35-40 minutos, hasta que la carne se separe del hueso con facilidad. El vinagre a fuego lento ablanda la carne y la protege: por eso el escabeche se inventó para conservar.",
     "Mientras, cuece las patatas con piel en agua con sal 20-25 minutos, hasta que un cuchillo entre sin resistencia. Pélalas y córtalas en rodajas gruesas.",
@@ -80,11 +80,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el conejo con papel, salpimiéntalo y úntalo con la mostaza de Dijon. La mostaza en crudo forma una capa que se carameliza al dorar y da sabor a la salsa desde el principio.",
+    "Seca el conejo con papel, salpimiéntalo y úntalo con la mostaza de Dijon. La mostaza en crudo forma una capa que se carameliza al dorar y da sabor a la salsa desde el principio. Pica las chalotas.",
     "Calienta el aceite con 10 g de mantequilla en una cazuela a fuego medio-alto y dora el conejo 6-8 minutos, hasta que tome color por todos los lados. Sácalo a un plato.",
-    "Baja el fuego, añade las chalotas picadas y póchalas 4 minutos raspando el fondo con una cuchara de madera: esas costras tostadas son el sabor de la salsa.",
+    "Baja el fuego, añade las chalotas y póchalas 4 minutos raspando el fondo con una cuchara de madera: esas costras tostadas son el sabor de la salsa.",
     "Vierte el vino, deja hervir 2 minutos y devuelve el conejo con el tomillo. Tapa y cuece a fuego suave 35 minutos, dando la vuelta a los trozos a mitad, hasta que la carne esté tierna.",
-    "Mientras, cuece las patatas peladas y en trozos en agua fría con sal (empezar en frío hace que se cuezan igual por dentro y por fuera) unos 20 minutos, hasta que se deshagan al pincharlas.",
+    "Mientras, pela las patatas, córtalas en trozos y cuécelas en agua fría con sal (empezar en frío hace que se cuezan igual por dentro y por fuera) unos 20 minutos, hasta que se deshagan al pincharlas.",
     "Escurre las patatas, devuélvelas al cazo al fuego 1 minuto para que pierdan el vapor y aplástalas con el pasapurés o un tenedor (la batidora las vuelve chiclosas). Añade la leche caliente y el resto de mantequilla y sala.",
     "Retira el conejo, añade a la cazuela la nata y la mostaza antigua y deja hervir 2-3 minutos, hasta que la salsa nape la cuchara. No hiervas la mostaza mucho rato o amargará.",
     "Devuelve el conejo a la salsa, dale una vuelta y sirve con el puré al lado."
@@ -128,7 +128,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C con calor arriba y abajo.",
     "En un bol, mezcla el conejo con el zumo de medio limón, 1 cucharada de aceite, las hojas de tomillo, sal y pimienta. Deja 10 minutos: el ácido del limón empieza a ablandar la carne, que es muy magra y se seca con facilidad.",
-    "Corta la cebolla en gajos, el pimiento en tiras y el calabacín en medias lunas gruesas (si los cortas finos se deshacen antes de que la carne esté hecha). Repártelos en una bandeja con los ajos enteros golpeados, sal y la otra cucharada de aceite.",
+    "Mientras, corta la cebolla en gajos, el pimiento en tiras y el calabacín en medias lunas gruesas (si los cortas finos se deshacen antes de que la carne esté hecha). Repártelos en una bandeja con los ajos enteros golpeados, sal y la otra cucharada de aceite.",
     "Coloca el conejo encima de las verduras, con la parte de la piel hacia arriba, y añade el otro medio limón en rodajas. Así la carne se asa en seco por arriba y recibe el vapor de las verduras por abajo.",
     "Hornea 20 minutos, riega con el vino blanco y añade los tomates cherry.",
     "Hornea 15-20 minutos más, hasta que el conejo esté dorado y, al pinchar la pata, salga jugo transparente. Rocía la carne con el jugo de la bandeja una vez durante este tiempo.",
@@ -172,8 +172,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Deshuesa las patas: con un cuchillo pequeño y afilado, haz un corte a lo largo del hueso por la cara interior. Ve separando la carne pegando siempre la hoja al hueso, con cortes cortos, hasta liberar el fémur; repite con el hueso de la pierna. Guarda los huesos para un caldo.",
     "Retira las membranas blancas más gruesas y corta la carne en dados de 3 cm. Que sean iguales es lo que hace que se cocinen a la vez.",
-    "En un bol, mezcla los dos pimentones, el comino, el orégano, el ajo rallado, 1 cucharada de aceite y sal. Embadurna la carne y deja marinar al menos 20 minutos (o toda la noche en la nevera).",
-    "Ensarta los dados en brochetas sin apretarlos: si se tocan demasiado, el centro se cuece al vapor en vez de dorarse. Si usas palos de madera, remójalos antes 15 minutos para que no se quemen.",
+    "En un bol, mezcla los dos pimentones, el comino, el orégano, el ajo rallado, 1 cucharada de aceite y sal. Embadurna la carne y deja marinar al menos 20 minutos (o toda la noche en la nevera). Si usas palos de madera, remójalos mientras tanto en agua para que no se quemen.",
+    "Ensarta los dados en brochetas sin apretarlos: si se tocan demasiado, el centro se cuece al vapor en vez de dorarse.",
     "Corta los tomates en gajos y la cebolla morada en juliana muy fina. Aliña con el vinagre, la media cucharada de aceite restante y sal.",
     "Calienta la plancha a fuego fuerte y cocina las brochetas 8-10 minutos, girándolas cada 2 minutos, hasta que estén doradas por fuera y jugosas por dentro. El conejo pasado se vuelve seco y fibroso: mejor retirarlo un minuto antes.",
     "Tuesta el pan en la misma plancha y sirve las brochetas con la ensalada y el pan para mojar en el jugo."
@@ -218,12 +218,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca el conejo, salpimiéntalo y pásalo ligeramente por la harina, sacudiendo el exceso. Esa fina capa se tuesta al dorar y luego espesará la salsa sin grumos.",
+    "Corta la cebolla en juliana y la zanahoria en rodajas. Seca el conejo, salpimiéntalo y pásalo ligeramente por la harina, sacudiendo el exceso. Esa fina capa se tuesta al dorar y luego espesará la salsa sin grumos.",
     "Calienta el aceite y la mantequilla en una cazuela a fuego medio-alto y dora el conejo 6-8 minutos por todos los lados. Sácalo.",
-    "Baja a fuego medio y pocha la cebolla en juliana con una pizca de sal 12 minutos, hasta que esté dorada y blanda. La sal ayuda a que suelte agua y se caramelice antes.",
+    "Baja a fuego medio y pocha la cebolla con una pizca de sal 12 minutos, hasta que esté dorada y blanda. La sal ayuda a que suelte agua y se caramelice antes.",
     "Añade el azúcar moreno y remueve 1 minuto. Vierte la cerveza y raspa bien el fondo para despegar todo lo tostado.",
-    "Devuelve el conejo, añade la mostaza, el tomillo, el laurel y la zanahoria en rodajas. Tapa y cuece a fuego suave 25 minutos.",
-    "Incorpora las patatas peladas y cascadas en trozos medianos (cascar en vez de cortar suelta almidón y engorda la salsa) y las ciruelas. Cuece 20 minutos más, hasta que la patata esté tierna.",
+    "Devuelve el conejo, añade la mostaza, el tomillo, el laurel y la zanahoria. Tapa y cuece a fuego suave 25 minutos. Mientras, pela las patatas y cáscalas en trozos medianos (cascar en vez de cortar suelta almidón y engorda la salsa).",
+    "Incorpora las patatas y las ciruelas. Cuece 20 minutos más, hasta que la patata esté tierna.",
     "Destapa los últimos 5 minutos si la salsa está muy líquida. Prueba de sal, retira el laurel y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 715, prot: 48, hc: 79, grasa: 23 },
@@ -265,14 +265,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el conejo con la mitad del yogur, la cúrcuma, 1 cucharadita de garam masala y sal. Deja marinar al menos 30 minutos (mejor 2 horas en la nevera): el ácido suave del yogur ablanda la carne sin resecarla.",
-    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla muy picada 12-15 minutos, hasta que esté dorada oscura. En los curris, la cebolla bien tostada es la base del color y del sabor: no tengas prisa.",
-    "Añade el ajo y el jengibre rallados y el chile picado y remueve 1 minuto. Incorpora el comino y el resto del garam masala y tuesta 30 segundos, hasta que huela, para que las especias suelten su aroma en la grasa.",
+    "Mezcla el conejo con la mitad del yogur, la cúrcuma, 1 cucharadita de garam masala y sal. Deja marinar al menos 30 minutos (mejor 2 horas en la nevera): el ácido suave del yogur ablanda la carne sin resecarla. Mientras, pica muy fina la cebolla, ralla el ajo y el jengibre y pica el chile.",
+    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla 12-15 minutos, hasta que esté dorada oscura. En los curris, la cebolla bien tostada es la base del color y del sabor: no tengas prisa.",
+    "Añade el ajo, el jengibre y el chile y remueve 1 minuto. Incorpora el comino y el resto del garam masala y tuesta 30 segundos, hasta que huela, para que las especias suelten su aroma en la grasa.",
     "Agrega el tomate y cocina 5 minutos, hasta que espese y el aceite se separe por los bordes.",
     "Incorpora el conejo con su marinada, sube el fuego y remueve 3 minutos. Añade 200 ml de agua, tapa y cuece a fuego suave 35-40 minutos, hasta que la carne esté tierna.",
-    "Mientras, lava el arroz en un colador hasta que el agua salga clara (así no se pega), y cuécelo en 1,5 veces su volumen de agua con sal, tapado y a fuego mínimo, 12 minutos. Deja reposar tapado 5 minutos.",
+    "Mientras, lava el arroz en un colador hasta que el agua salga clara (así no se pega), y cuécelo en 1,5 veces su volumen de agua con sal, tapado y a fuego mínimo, 12 minutos. Deja reposar tapado 5 minutos y pica el cilantro.",
     "Aparta el curry del fuego, espera 1 minuto y añade el resto del yogur removiendo. Fuera del hervor el yogur no se corta y aporta frescor.",
-    "Sirve con el arroz y el cilantro picado por encima."
+    "Sirve con el arroz y el cilantro por encima."
   ],
   nutricion: { kcal: 729, prot: 52, hc: 74, grasa: 25 },
   etiquetas: ["carne poco habitual", "conejo", "curry", "tupper", "batch cooking", "sin gluten", "alta en proteína"],
@@ -315,12 +315,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Salpimienta el conejo y dóralo en el aceite a fuego medio-alto en una cazuela 6-8 minutos, hasta que tenga color. Sácalo.",
     "Pica muy fino la cebolla, la zanahoria y el apio (es el soffritto italiano) y póchalos en la misma grasa a fuego medio 10 minutos con el ajo, hasta que estén blandos y dulces.",
-    "Vierte el vino tinto y deja reducir a la mitad, raspando el fondo. Añade el tomate, la salvia, el romero y el conejo. Agrega agua justo hasta cubrir a medias, tapa y cuece a fuego suave 45 minutos, hasta que la carne se desprenda sola.",
+    "Vierte el vino tinto y deja reducir a la mitad, raspando el fondo. Añade el tomate, la salvia, el romero y el conejo. Agrega agua justo hasta cubrir a medias, tapa y cuece a fuego suave 45 minutos, hasta que la carne se desprenda sola. Mientras, corta las aceitunas en rodajas y ralla el parmesano.",
     "Saca el conejo y deja que se temple 5 minutos. Desmenúzalo con los dedos y repasa con cuidado: el conejo tiene huesecillos finos en las costillas y el lomo que hay que retirar uno a uno.",
-    "Devuelve la carne a la salsa con las aceitunas en rodajas, retira el romero y deja reducir 10 minutos a fuego suave, hasta que el ragú esté espeso.",
-    "Cuece la pasta en abundante agua con sal 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua de cocción antes de escurrir.",
+    "Devuelve la carne a la salsa con las aceitunas, retira el romero y deja reducir 10 minutos a fuego suave, hasta que el ragú esté espeso. Mientras, pon a hervir abundante agua con sal para la pasta.",
+    "Cuece la pasta en el agua hirviendo 1 minuto menos de lo que indique el paquete. Reserva un vaso del agua de cocción antes de escurrir.",
     "Pasa la pasta a la cazuela del ragú con un chorrito de agua de cocción y saltea 1 minuto a fuego fuerte. El almidón del agua une la salsa con la pasta y la deja brillante.",
-    "Sirve con parmesano rallado y pimienta recién molida."
+    "Sirve con el parmesano y pimienta recién molida."
   ],
   nutricion: { kcal: 786, prot: 57, hc: 72, grasa: 30 },
   etiquetas: ["carne poco habitual", "conejo", "pasta", "tupper", "batch cooking", "de domingo", "invierno", "poco especiada"],
@@ -358,11 +358,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca el magret de la nevera 20 minutos antes. Con un cuchillo afilado, haz cortes en rombo en la piel cada centímetro, sin llegar a la carne: así la grasa se funde y sale, y la piel no se encoge.",
-    "Pela la chirivía y la patata, córtalas en trozos y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas.",
+    "Pela la chirivía y la patata, córtalas en trozos y cuécelas en agua con sal 18-20 minutos, hasta que estén muy tiernas. Mientras se cuecen, pica la chalota y parte las uvas por la mitad.",
     "Sala el magret por los dos lados y ponlo con la piel hacia abajo en una sartén en frío, sin aceite. Enciende a fuego medio: empezar en frío permite que la grasa se derrita poco a poco antes de que la carne se cocine.",
     "Cocínalo 10-12 minutos sin moverlo, retirando la grasa que suelte con una cuchara a un tarro, hasta que la piel esté dorada oscura y crujiente. Da la vuelta y cocina 3-4 minutos por el lado de la carne para un punto rosado.",
     "Pasa el magret a una tabla con la piel hacia arriba y déjalo reposar 8 minutos tapado con papel de aluminio sin apretar. El reposo hace que los jugos se redistribuyan y no se pierdan al cortar.",
-    "En la misma sartén, quita casi toda la grasa, pocha la chalota picada 2 minutos y añade el vino, el tomillo y las uvas partidas por la mitad. Deja reducir 5-6 minutos, hasta que la salsa esté almibarada. Apaga y liga con 10 g de mantequilla fría.",
+    "En la misma sartén, quita casi toda la grasa, pocha la chalota 2 minutos y añade el vino, el tomillo y las uvas. Deja reducir 5-6 minutos, hasta que la salsa esté almibarada. Apaga y liga con 10 g de mantequilla fría.",
     "Escurre la chirivía y la patata y aplástalas con la leche caliente y el resto de mantequilla. Salpimienta.",
     "Corta el magret en láminas de 1 cm en diagonal y sírvelo sobre el puré con la salsa de uvas por encima."
   ],
@@ -402,11 +402,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca muy bien los muslos con papel de cocina y pincha la piel por todas partes con la punta de un cuchillo, sin llegar a la carne. Por esos agujeros saldrá la grasa y la piel quedará crujiente.",
+    "Precalienta el horno a 160 °C. Seca muy bien los muslos con papel de cocina y pincha la piel por todas partes con la punta de un cuchillo, sin llegar a la carne. Por esos agujeros saldrá la grasa y la piel quedará crujiente.",
     "Frota la carne con las cinco especias, el jengibre y el ajo rallados y una pizca de sal. Si tienes tiempo, déjalos destapados en la nevera unas horas: la piel se seca y cruje más.",
-    "Precalienta el horno a 160 °C. Coloca los muslos en una rejilla sobre una bandeja con un dedo de agua (evita que la grasa que gotea humee) y ásalos 1 hora y 20 minutos. La temperatura baja hace que la carne se ablande sin secarse.",
+    "Coloca los muslos en una rejilla sobre una bandeja con un dedo de agua (evita que la grasa que gotea humee) y ásalos 1 hora y 20 minutos. La temperatura baja hace que la carne se ablande sin secarse. Mientras, corta el pepino en bastones finos sin la parte de las semillas (para que no aguen las tortitas) y la cebolleta en tiras largas.",
     "Mezcla la soja con la miel. Sube el horno a 220 °C, pinta los muslos con la mezcla y ásalos 10 minutos más, hasta que la piel esté lacada y oscura. Vigila: la miel se quema rápido.",
-    "Mientras, corta el pepino en bastones finos sin la parte de las semillas (para que no aguen las tortitas) y la cebolleta en tiras largas.",
     "Calienta las tortillas 20 segundos por lado en una sartén seca o envueltas en un paño húmedo en el microondas.",
     "Deshilacha la carne con dos tenedores, dejando la piel en trozos. Sirve todo en la mesa para que cada uno se monte sus tortitas con hoisin, pato, pepino y cebolleta."
   ],
@@ -448,9 +447,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta cada muslo de pato en dos por la articulación (busca el punto donde el cuchillo entra sin tocar hueso). Sálalos.",
-    "Pon el pato con la piel hacia abajo en una cazuela ancha con el aceite a fuego medio y dóralo 10 minutos, hasta que la piel esté crujiente y haya soltado su grasa. Dale la vuelta 2 minutos y sácalo. Retira la grasa dejando unas 2 cucharadas: es tu aceite para el sofrito.",
-    "En esa grasa, saltea las setas troceadas a fuego fuerte 4 minutos, sin removerlas al principio, hasta que doren. Si echas sal al principio sueltan agua y se cuecen: sálalas al final. Sácalas.",
-    "Baja a fuego medio y pocha la cebolla y el ajo picados con el nabo en dados pequeños 8 minutos. Añade el tomate rallado y cocina 5 minutos, hasta que pierda el agua.",
+    "Pon el pato con la piel hacia abajo en una cazuela ancha con el aceite a fuego medio y dóralo 10 minutos, hasta que la piel esté crujiente y haya soltado su grasa. Mientras, trocea las setas, pica la cebolla y el ajo, corta el nabo en dados pequeños, ralla el tomate y pon el caldo a calentar. Dale la vuelta 2 minutos y sácalo. Retira la grasa dejando unas 2 cucharadas: es tu aceite para el sofrito.",
+    "En esa grasa, saltea las setas a fuego fuerte 4 minutos, sin removerlas al principio, hasta que doren. Si echas sal al principio sueltan agua y se cuecen: sálalas al final. Sácalas.",
+    "Baja a fuego medio y pocha la cebolla y el ajo con el nabo 8 minutos. Añade el tomate y cocina 5 minutos, hasta que pierda el agua.",
     "Aparta del fuego, añade el pimentón, remueve 10 segundos y vierte el caldo caliente. Devuelve el pato con el tomillo y cuece tapado 25 minutos a fuego suave para que la carne se ablande y perfume el caldo.",
     "Añade el arroz y las setas, prueba de sal y cuece a fuego medio 17-18 minutos, removiendo de vez en cuando (así suelta almidón y queda meloso), hasta que el grano esté tierno pero con un punto firme.",
     "Apaga, tapa y deja reposar 3 minutos. Debe quedar cremoso y suelto, con algo de caldo. Sirve enseguida."
@@ -493,14 +492,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta los muslos y ponlos con la piel hacia abajo en una cazuela en frío. Enciende a fuego medio y deja que la piel se dore 10-12 minutos, soltando su grasa. Dales la vuelta 2 minutos y sácalos.",
+    "Salpimienta los muslos y ponlos con la piel hacia abajo en una cazuela en frío. Enciende a fuego medio y deja que la piel se dore 10-12 minutos, soltando su grasa. Mientras, corta la cebolla en juliana. Dales la vuelta 2 minutos y sácalos.",
     "Retira la grasa de la cazuela a un tarro, dejando solo 1 cucharada. El pato tiene mucha grasa y, si la dejas toda, la salsa quedará aceitosa.",
-    "En esa grasa, pocha la cebolla en juliana a fuego medio 10 minutos. Añade el ras el hanout, el jengibre y la canela y remueve 30 segundos para que las especias se tuesten.",
+    "En esa grasa, pocha la cebolla a fuego medio 10 minutos. Añade el ras el hanout, el jengibre y la canela y remueve 30 segundos para que las especias se tuesten.",
     "Vierte el caldo, el zumo de la naranja y unas tiras de su piel (solo la parte naranja: la blanca amarga). Devuelve el pato con la piel hacia arriba, sin cubrirla de líquido para que no se ablande. Tapa y cuece a fuego suave 1 hora, hasta que la carne se separe del hueso.",
     "Añade los dátiles y la miel y cuece destapado 10 minutos, hasta que la salsa espese. Si ves grasa flotando, retírala con una cuchara inclinando un poco la cazuela.",
-    "Mientras, tuesta las almendras en una sartén seca a fuego medio 4-5 minutos, moviéndolas, hasta que huelan y estén doradas por dentro.",
+    "Mientras, tuesta las almendras en una sartén seca a fuego medio 4-5 minutos, moviéndolas, hasta que huelan y estén doradas por dentro. Trocéalas.",
     "Pon el cuscús en un bol con una pizca de sal y 1 cucharada de la grasa de pato reservada. Cubre con el mismo volumen de agua hirviendo, tapa 5 minutos y suelta los granos con un tenedor.",
-    "Sirve el pato sobre el cuscús con la salsa, los dátiles, las almendras troceadas y el cilantro."
+    "Sirve el pato sobre el cuscús con la salsa, los dátiles, las almendras y el cilantro."
   ],
   nutricion: { kcal: 821, prot: 42, hc: 89, grasa: 33 },
   etiquetas: ["carne poco habitual", "pato", "tupper", "de domingo", "para invitados", "invierno"],
@@ -539,11 +538,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Retira la piel del magret: levanta una esquina y despégala tirando con una mano mientras pasas el cuchillo plano entre la piel y la carne. Corta la piel en tiras finas.",
-    "Pon las tiras de piel en el wok en frío y enciende a fuego medio. En 8-10 minutos se fundirá la grasa y quedarán unos chicharrones crujientes. Sácalos con una espumadera y deja solo 1 cucharada de grasa en el wok.",
+    "Pon las tiras de piel en el wok en frío y enciende a fuego medio. En 8-10 minutos se fundirá la grasa y quedarán unos chicharrones crujientes. Sácalos con una espumadera y deja solo 1 cucharada de grasa en el wok. Mientras se funde, pon a hervir agua para los fideos, corta la zanahoria en bastones, pica el ajo y el jengibre, corta los tallos del pak choi y la cebolleta.",
     "Corta la carne en tiras de medio centímetro a contrapelo (perpendicular a las fibras que ves): así queda tierna aunque el salteado sea rápido.",
-    "Cuece los fideos soba en agua sin sal el tiempo del paquete (unos 4 minutos) y enjuágalos bajo el grifo frío, frotándolos con las manos: así pierden el almidón y no se apelmazan.",
+    "Cuece los fideos soba en el agua hirviendo, sin sal, el tiempo del paquete (unos 4 minutos) y enjuágalos bajo el grifo frío, frotándolos con las manos: así pierden el almidón y no se apelmazan.",
     "Calienta el wok a fuego máximo hasta que humee ligeramente. Saltea el pato 1 minuto, sin amontonarlo, hasta que se dore por fuera pero siga rosado. Sácalo.",
-    "Saltea la zanahoria en bastones, el ajo y el jengibre picados 1 minuto. Añade los tallos del pak choi cortados (tardan más) y 1 minuto después las hojas y la cebolleta.",
+    "Saltea la zanahoria, el ajo y el jengibre 1 minuto. Añade los tallos del pak choi (tardan más) y 1 minuto después las hojas y la cebolleta.",
     "Agrega los fideos, la soja y el mirin y saltea 1 minuto, levantando con dos cucharas. Devuelve el pato, apaga y añade el aceite de sésamo.",
     "Sirve con el sésamo y los chicharrones de pato por encima."
   ],
@@ -585,13 +584,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Revisa las codornices: si les quedan plumillas, pásalas un segundo por la llama del fuego o retíralas con unas pinzas. Mira dentro de la cavidad y retira cualquier resto de vísceras. Sécalas bien y átales las patas con hilo de cocina para que conserven la forma y se hagan por igual.",
+    "Revisa las codornices: si les quedan plumillas, pásalas un segundo por la llama del fuego o retíralas con unas pinzas. Mira dentro de la cavidad y retira cualquier resto de vísceras. Sécalas bien y átales las patas con hilo de cocina para que conserven la forma y se hagan por igual. Pica la cebolla, la zanahoria y el ajo.",
     "Salpimiéntalas y dóralas en una cazuela con 1 cucharada de aceite a fuego medio-alto 6 minutos, girándolas hasta que estén doradas por todas partes. Sácalas.",
-    "En la misma cazuela, pocha la cebolla, la zanahoria y el ajo picados 10 minutos a fuego medio, hasta que estén blandos.",
+    "En la misma cazuela, pocha la cebolla, la zanahoria y el ajo 10 minutos a fuego medio, hasta que estén blandos.",
     "Vierte el vino tinto, sube el fuego y deja reducir 3 minutos raspando el fondo. Devuelve las codornices con el laurel, el tomillo y 150 ml de agua. Tapa y cuece a fuego suave 25 minutos, dándoles la vuelta a mitad.",
-    "Mientras, cuece las patatas peladas en agua fría con sal 20 minutos, hasta que estén tiernas. Escúrrelas y aplástalas con la leche caliente y la media cucharada de aceite restante.",
+    "Mientras, pela las patatas, trocea el chocolate y cuece las patatas en agua fría con sal 20 minutos, hasta que estén tiernas. Escúrrelas y aplástalas con la leche caliente y la media cucharada de aceite restante.",
     "Saca las codornices y quítales el hilo. Retira el laurel y tritura la salsa con la batidora hasta que quede fina.",
-    "Vuelve a calentar la salsa sin que llegue a hervir fuerte, añade el chocolate troceado y remueve hasta que se funda. Prueba de sal. El chocolate liga la salsa y suaviza la acidez del vino.",
+    "Vuelve a calentar la salsa sin que llegue a hervir fuerte, añade el chocolate y remueve hasta que se funda. Prueba de sal. El chocolate liga la salsa y suaviza la acidez del vino.",
     "Devuelve las codornices a la salsa 2 minutos para que se calienten y sírvelas con el puré."
   ],
   nutricion: { kcal: 595, prot: 44, hc: 44, grasa: 27 },
@@ -677,9 +676,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Abre las codornices en mariposa: ponlas con la pechuga hacia abajo y, con unas tijeras de cocina, corta a ambos lados de la columna vertebral para retirarla. Dales la vuelta y aplasta con la palma de la mano sobre la pechuga hasta oír un crujido: quedarán planas y se cocinarán de forma uniforme.",
     "Mezcla el zumo de medio limón, el ajo rallado, el pimentón, media cucharadita de comino, 1 cucharada de aceite y sal. Unta las codornices por los dos lados y deja marinar 15 minutos.",
-    "Para que no se doblen en la plancha, atraviesa cada codorniz en diagonal con dos brochetas cruzadas (de un muslo al ala contraria).",
-    "Pon el cuscús en un bol con sal y la media cucharada de aceite restante, cúbrelo con 120 ml de agua hirviendo y tápalo 5 minutos. Suéltalo con un tenedor y mézclalo con el perejil y la menta picados, el tomate y el pepino en dados y el zumo del otro medio limón.",
+    "Mientras marinan, pon el cuscús en un bol con sal y la media cucharada de aceite restante, cúbrelo con 120 ml de agua hirviendo y tápalo 5 minutos. Mientras, pica el perejil y la menta y corta el tomate y el pepino en dados. Suelta el cuscús con un tenedor y mézclalo con las hierbas, el tomate, el pepino y el zumo del otro medio limón.",
     "Mezcla el yogur con el resto del comino y una pizca de sal.",
+    "Para que no se doblen en la plancha, atraviesa cada codorniz en diagonal con dos brochetas cruzadas (de un muslo al ala contraria).",
     "Calienta la plancha a fuego medio-alto y cocina las codornices con la piel hacia abajo 5-6 minutos, sin moverlas, hasta que estén muy doradas. Dales la vuelta y cocina 4 minutos más.",
     "Retira las brochetas y sirve las codornices sobre el cuscús, con el yogur al comino y el zumaque espolvoreado por encima."
   ],
@@ -858,12 +857,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia la sepia en el fregadero: tira con suavidad de la cabeza para separarla del cuerpo; saldrán las vísceras. Busca entre ellas una bolsita plateada alargada (la tinta) y sepárala con cuidado sin pincharla; guárdala en un vasito para otro plato o congélala. Aparta la bolsa amarillenta (es la glándula digestiva): se tira.",
     "Haz un corte en el dorso del cuerpo y saca el hueso blanco (el jibión). Retira la piel tirando desde un borde: sale en una pieza con ayuda de un paño. Corta los tentáculos justo por debajo de los ojos y aprieta en el centro para sacar el pico duro. Lava todo y corta el cuerpo en tiras y los tentáculos en trozos.",
-    "Limpia las alcachofas: quita las hojas exteriores duras hasta que asomen las tiernas y claras, corta las puntas y pela el tallo. Córtalas en cuartos y sumérgelas en agua con el zumo del limón para que no se ennegrezcan.",
+    "Limpia las alcachofas: quita las hojas exteriores duras hasta que asomen las tiernas y claras, corta las puntas y pela el tallo. Córtalas en cuartos y sumérgelas en agua con el zumo del limón para que no se ennegrezcan. Pica la cebolla y el ajo y ralla el tomate.",
     "Calienta el aceite en una cazuela a fuego medio y rehoga la sepia 5 minutos, hasta que suelte su agua y esta se evapore.",
-    "Añade la cebolla y el ajo picados y póchalos 8 minutos. Incorpora el tomate rallado y cocina 5 minutos más, hasta que pierda el agua.",
-    "Tuesta el azafrán 10 segundos en una sartén seca, desmenúzalo en el vino y añádelo a la cazuela. Deja hervir 2 minutos, vierte el caldo, tapa y cuece a fuego suave 25 minutos: la sepia necesita o muy poco tiempo o bastante para quedar tierna, nunca el intermedio.",
-    "Añade la patata cascada en trozos y las alcachofas escurridas. Cuece 20 minutos más, hasta que la patata esté tierna y la salsa haya espesado.",
-    "Prueba de sal, apaga y espolvorea el perejil picado. Deja reposar 5 minutos antes de servir."
+    "Añade la cebolla y el ajo y póchalos 8 minutos. Incorpora el tomate y cocina 5 minutos más, hasta que pierda el agua.",
+    "Tuesta el azafrán 10 segundos en una sartén seca, desmenúzalo en el vino y añádelo a la cazuela. Deja hervir 2 minutos, vierte el caldo, tapa y cuece a fuego suave 25 minutos: la sepia necesita o muy poco tiempo o bastante para quedar tierna, nunca el intermedio. Mientras, pela la patata y cáscala en trozos y pica el perejil.",
+    "Añade la patata y las alcachofas escurridas. Cuece 20 minutos más, hasta que la patata esté tierna y la salsa haya espesado.",
+    "Prueba de sal, apaga y espolvorea el perejil. Deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 546, prot: 40, hc: 47, grasa: 22 },
   etiquetas: ["sepia", "pescado poco habitual", "aprende a limpiar", "guiso", "tupper", "sin gluten", "sin lácteos", "primavera", "poco especiada"],
@@ -901,10 +900,10 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1.5, u: "cda" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga clara y cuécelo con 1,25 veces su volumen de agua, tapado y a fuego mínimo, 12 minutos. Deja reposar tapado.",
-    "Abre el cuerpo de la sepia en una lámina y sécala. Con la parte interior hacia arriba, haz cortes en diagonal cada medio centímetro sin atravesarla, y luego en la otra diagonal, formando rombos. Corta en piezas de 4 cm. El grabado corta las fibras: la sepia se riza, se hace en segundos y queda tierna.",
+    "Lava el arroz hasta que el agua salga clara y cuécelo con 1,25 veces su volumen de agua, tapado y a fuego mínimo, 12 minutos. Deja reposar tapado. Pon a hervir un cazo de agua para las judías.",
+    "Mientras se cuece el arroz, abre el cuerpo de la sepia en una lámina y sécala. Con la parte interior hacia arriba, haz cortes en diagonal cada medio centímetro sin atravesarla, y luego en la otra diagonal, formando rombos. Corta en piezas de 4 cm. El grabado corta las fibras: la sepia se riza, se hace en segundos y queda tierna.",
     "Mezcla en un vaso la salsa de pescado, la de ostras, la soja, el azúcar y 2 cucharadas de agua.",
-    "Corta las judías verdes en trozos de 3 cm y escáldalas 2 minutos en agua hirviendo: así en el wok solo tienen que dorarse.",
+    "Corta las judías verdes en trozos de 3 cm y escáldalas 2 minutos en el agua hirviendo: así en el wok solo tienen que dorarse.",
     "Machaca en el mortero el ajo con los chiles (o pícalos muy finos). Calienta el wok a fuego máximo con el aceite hasta que humee, añade el majado y remueve 15 segundos.",
     "Echa la sepia y saltea 1 minuto y medio, hasta que se rice y se vuelva blanca opaca. Añade las judías y la salsa y saltea 1 minuto más. Ni un minuto más: la sepia pasada se endurece.",
     "Apaga, añade las hojas de albahaca y remueve hasta que se arruguen con el calor. Sirve con el arroz y gajos de lima."
@@ -942,7 +941,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Asa los pimientos enteros en el horno a 220 °C 35-40 minutos, dándoles la vuelta a mitad, hasta que la piel esté negra en zonas. Mételos en un bol tapado 10 minutos: el vapor despega la piel y se pelan solos.",
+    "Precalienta el horno a 220 °C y asa los pimientos enteros 35-40 minutos, dándoles la vuelta a mitad, hasta que la piel esté negra en zonas. Mételos en un bol tapado 10 minutos: el vapor despega la piel y se pelan solos.",
     "Mientras, limpia los boquerones bajo un hilo de agua fría: sujeta el cuerpo, dobla la cabeza hacia el vientre y tira hacia abajo; saldrán las tripas con ella. Abre el vientre con el pulgar hasta la cola.",
     "Para abrirlos en flor, pellizca la espina central junto a la cabeza y tira de ella hacia la cola, despegándola de la carne con el dedo. Córtala justo antes de la cola para que los dos lomos queden unidos por ella. Lava, escurre y seca muy bien con papel de cocina.",
     "Pela los pimientos, córtalos en tiras y alíñalos con el ajo picado muy fino, 1 cucharada de aceite, sal y unas gotas de su propio jugo.",
@@ -987,10 +986,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pasa la yema del dedo por el centro de cada filete, de la cabeza a la cola: notarás una fila de espinitas. Tira de cada una con unas pinzas de depilar limpias en la dirección en que apuntan, sujetando la carne con la otra mano para no romperla.",
     "Corta la patata en rodajas de 1 cm y pon a cocer en una cazuela con dos dedos de agua con sal, tapada, 10 minutos.",
-    "Corta el puerro y la zanahoria en bastones muy finos (juliana). Escáldalos 1 minuto en agua hirviendo para que se ablanden y se dejen enrollar.",
+    "Mientras, corta el puerro y la zanahoria en bastones muy finos (juliana). Escáldalos 1 minuto en agua hirviendo para que se ablanden y se dejen enrollar.",
     "Salpimienta los filetes por la cara de la carne, reparte encima la juliana y unas hojas de eneldo y enróllalos desde la parte ancha, con la piel hacia fuera. Sujeta con un palillo.",
     "Coloca un colador metálico sobre la cazuela de las patatas (sin que toque el agua), pon dentro los rollitos y tapa. Cuece al vapor 8-10 minutos, hasta que la carne esté opaca y se separe en láminas. El vapor cocina sin agitar el pescado y conserva su jugosidad.",
-    "Mezcla el yogur con el eneldo picado, el zumo del limón, el aceite, sal y pimienta.",
+    "Mientras se hacen, pica el eneldo y mézclalo con el yogur, el zumo del limón, el aceite, sal y pimienta.",
     "Sirve los rollitos sobre las patatas con la salsa de yogur al lado."
   ],
   nutricion: { kcal: 446, prot: 42, hc: 38, grasa: 14 },
@@ -1029,13 +1028,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Desescama las sardinas bajo un hilo de agua fría pasando el dorso del cuchillo (o el pulgar) de la cola a la cabeza; las escamas saltan con facilidad. Corta la cabeza y tira de ella hacia el vientre para sacar las tripas.",
+    "Precalienta el horno a 200 °C. Desescama las sardinas bajo un hilo de agua fría pasando el dorso del cuchillo (o el pulgar) de la cola a la cabeza; las escamas saltan con facilidad. Corta la cabeza y tira de ella hacia el vientre para sacar las tripas.",
     "Abre cada sardina por el vientre con el pulgar hasta la cola, aplánala con la piel hacia arriba y presiona con la palma a lo largo del lomo. Dale la vuelta y tira de la espina desde la cabeza: saldrá entera con casi todas las espinitas. Lava y seca con papel.",
-    "Precalienta el horno a 200 °C. Pon el cuscús en un bol con sal, ralladura de limón y media cucharada de aceite, cúbrelo con 120 ml de agua hirviendo y tápalo 5 minutos. Suéltalo con un tenedor.",
+    "Pon el cuscús en un bol con sal, ralladura de limón y media cucharada de aceite, cúbrelo con 120 ml de agua hirviendo y tápalo 5 minutos. Mientras, parte los tomates, corta la cebolla en juliana fina y pica el perejil. Suéltalo con un tenedor.",
     "Corta dos rectángulos grandes de papel de horno. Reparte el cuscús en el centro de cada uno y coloca encima las sardinas abiertas, con la piel hacia arriba.",
-    "Añade los tomates partidos, la cebolla en juliana fina, las alcaparras, las aceitunas, el orégano, unas rodajas de limón, sal y el resto del aceite.",
+    "Añade los tomates, la cebolla, las alcaparras, las aceitunas, el orégano, unas rodajas de limón, sal y el resto del aceite.",
     "Cierra los paquetes doblando los bordes varias veces sobre sí mismos, bien apretados: el vapor que se queda dentro es el que cocina. Si se escapa, el pescado se seca.",
-    "Hornea 12 minutos, hasta que el papel se hinche. Abre los paquetes en la mesa (cuidado con el vapor) y espolvorea perejil picado."
+    "Hornea 12 minutos, hasta que el papel se hinche. Abre los paquetes en la mesa (cuidado con el vapor) y espolvorea el perejil."
   ],
   nutricion: { kcal: 627, prot: 44, hc: 52, grasa: 27 },
   etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "al horno", "aprende a limpiar", "omega 3", "económica", "verano", "poco especiada"],
@@ -1075,8 +1074,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si la pescadería no lo ha hecho, eviscera las caballas: con unas tijeras, abre el vientre desde el orificio de la cola hasta las agallas. Saca las tripas con los dedos y raspa con el pulgar la línea de sangre oscura pegada a la espina, bajo el grifo: si se queda, amarga. Retira también las agallas.",
     "Precalienta el horno a 200 °C. Corta la patata en rodajas de medio centímetro y el hinojo en láminas finas (guarda las hojitas verdes). Mézclalos en una bandeja con 1 cucharada de aceite, sal y pimienta y hornea 20 minutos.",
-    "Seca las caballas por dentro y por fuera. Haz 3 cortes diagonales en cada lado hasta tocar la espina: así el calor llega al centro a la vez que a los extremos y la piel no se rompe.",
-    "Sala el interior y rellénalo con rodajas de limón, el ajo laminado, el perejil, el tomillo y las hojas del hinojo. Pinta la piel con el resto del aceite y sala.",
+    "Mientras, seca las caballas por dentro y por fuera. Haz 3 cortes diagonales en cada lado hasta tocar la espina: así el calor llega al centro a la vez que a los extremos y la piel no se rompe. Lamina el ajo.",
+    "Sala el interior y rellénalo con rodajas de limón, el ajo, el perejil, el tomillo y las hojas del hinojo. Pinta la piel con el resto del aceite y sala.",
     "Coloca las caballas sobre las patatas, riega con el vino y hornea 15-18 minutos.",
     "Comprueba el punto: tira de la aleta dorsal (la del lomo); si sale sin esfuerzo y el ojo está blanco, está hecha. La carne junto a la espina debe estar opaca.",
     "Para servir, corta a lo largo del lomo, levanta el filete superior, retira la espina entera tirando desde la cola y sirve los cuatro filetes sobre las patatas y el hinojo."
@@ -1120,11 +1119,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Abre los chiles guajillo, quítales el rabo, las semillas y las venas (ahí está el amargor) y tuéstalos 20 segundos por lado en una sartén seca, hasta que huelan, sin que se quemen. Remójalos en agua caliente 15 minutos para rehidratarlos.",
+    "Abre los chiles guajillo, quítales el rabo, las semillas y las venas (ahí está el amargor) y tuéstalos 20 segundos por lado en una sartén seca, hasta que huelan, sin que se quemen. Remójalos en agua caliente 15 minutos para rehidratarlos. Mientras, corta la cebolla morada muy fina y ponla en un bol con el zumo de media lima y sal: en 10 minutos pierde el picor y se vuelve rosa. Corta también la piña en dados y el pulpo en rodajas de 1 cm.",
     "Tritura los chiles escurridos con el achiote, el zumo de naranja, el vinagre, el ajo, el comino, el orégano y sal hasta obtener una pasta lisa.",
-    "Corta el pulpo en rodajas de 1 cm y mézclalo con la mitad del adobo. Como ya está cocido, solo necesita sabor y tostado: con 10 minutos de marinada basta.",
-    "Corta la cebolla morada muy fina y ponla en un bol con el zumo de media lima y sal: en 10 minutos pierde el picor y se vuelve rosa.",
-    "Corta la piña en dados y dórala en la sartén muy caliente con media cucharada de aceite 3 minutos, hasta que tenga bordes caramelizados. Sácala.",
+    "Mezcla el pulpo con la mitad del adobo. Como ya está cocido, solo necesita sabor y tostado: con 10 minutos de marinada basta.",
+    "Dora la piña en la sartén muy caliente con media cucharada de aceite 3 minutos, hasta que tenga bordes caramelizados. Sácala.",
     "Añade el resto del aceite y saltea el pulpo a fuego fuerte 3-4 minutos, sin moverlo mucho, hasta que el adobo se pegue y se tueste en los bordes. Añade el resto del adobo y la piña y mezcla 30 segundos.",
     "Calienta las tortillas en una sartén seca 30 segundos por lado. Rellénalas con el pulpo y la piña, la cebolla encurtida y cilantro, y sirve con gajos de lima."
   ],

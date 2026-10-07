@@ -35,12 +35,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava bien las papas sin pelarlas y colócalas en una sola capa en una cazuela ancha. Cúbrelas justo con agua (alrededor de 1 litro) y añade la sal gruesa: una salmuera así de concentrada es la que después arruga la piel y la cubre de sal blanca.",
-    "Lleva a ebullición y cuece a fuego medio, con la tapa entreabierta, 20-25 minutos, hasta que la punta de un cuchillo entre sin resistencia.",
-    "Tira casi toda el agua, deja solo un dedo y vuelve la cazuela al fuego bajo sin tapa 5 minutos, meneándola de vez en cuando: el agua salada que queda se evapora y la sal se pega a la piel, que se arruga.",
-    "Mientras, cuece los huevos 10 minutos desde que el agua hierva y pásalos a agua fría: el choque térmico separa la membrana y se pelan sin romperse.",
-    "Para el mojo rojo, quita las semillas a las ñoras y remójalas 10 minutos en agua muy caliente. Raspa la carne con una cucharilla y tritúrala con el pimentón, media cucharadita de comino, la guindilla, 1 cucharada de vinagre, sal y el aceite de ajo hasta tener una salsa espesa.",
+    "Lleva a ebullición y cuece a fuego medio, con la tapa entreabierta, 20-25 minutos, hasta que la punta de un cuchillo entre sin resistencia. Mientras, quita las semillas a las ñoras y remójalas 10 minutos en agua muy caliente, y cuece los huevos 10 minutos desde que el agua hierva y pásalos a agua fría: el choque térmico separa la membrana y se pelan sin romperse.",
+    "Para el mojo rojo, raspa la carne de las ñoras con una cucharilla y tritúrala con el pimentón, media cucharadita de comino, la guindilla, 1 cucharada de vinagre, sal y el aceite de ajo hasta tener una salsa espesa.",
     "Para el mojo verde, tritura el cilantro (con los tallos tiernos, que tienen mucho sabor) con el resto del comino y del vinagre, sal y el aceite de oliva. Si queda muy espeso, añade una cucharada de agua.",
-    "Calienta la plancha a fuego fuerte sin aceite y dora las lonchas de queso 1-2 minutos por lado, hasta que tengan costra. La plancha tiene que estar muy caliente para que se forme la costra antes de que el queso se derrita.",
+    "Tira casi toda el agua, deja solo un dedo y vuelve la cazuela al fuego bajo sin tapa 5 minutos, meneándola de vez en cuando: el agua salada que queda se evapora y la sal se pega a la piel, que se arruga.",
+    "Mientras, calienta la plancha a fuego fuerte sin aceite y dora las lonchas de queso 1-2 minutos por lado, hasta que tengan costra. La plancha tiene que estar muy caliente para que se forme la costra antes de que el queso se derrita. Pela los huevos y córtalos en cuartos.",
     "Sirve las papas enteras con el queso, los huevos en cuartos y los dos mojos en cuencos para mojar o untar."
   ],
   nutricion: { kcal: 583, prot: 22, hc: 54, grasa: 31 },
@@ -128,8 +127,8 @@ window.RECETAS_SEED.push({
     "Calienta la leche con el agua, la nuez moscada y una pizca de sal. Cuando empiece a hervir, echa la polenta en forma de lluvia sin dejar de batir con varillas, para que cada grano se moje por separado y no se formen grumos.",
     "Baja el fuego y cocina 5-8 minutos, removiendo con una cuchara de madera, hasta que la masa esté muy espesa y se despegue de las paredes.",
     "Aparta del fuego e incorpora la yema, 10 g de mantequilla y la mitad del parmesano. Mezcla rápido: si esperas, la yema cuaja en hilos.",
-    "Extiende la masa con una espátula mojada sobre papel de horno en una capa de 1,5 cm y déjala enfriar 20 minutos, o 10 en la nevera. Al enfriarse, el almidón gelifica y la masa se puede cortar limpia.",
-    "Precalienta el horno a 220 °C. Corta círculos de 5 cm con un vaso mojado en agua y colócalos en una fuente engrasada, montados unos sobre otros como tejas. Los recortes van debajo, así no se pierde nada.",
+    "Extiende la masa con una espátula mojada sobre papel de horno en una capa de 1,5 cm y déjala enfriar 20 minutos, o 10 en la nevera. Al enfriarse, el almidón gelifica y la masa se puede cortar limpia. Mientras se enfría, precalienta el horno a 220 °C.",
+    "Corta círculos de 5 cm con un vaso mojado en agua y colócalos en una fuente engrasada, montados unos sobre otros como tejas. Los recortes van debajo, así no se pierde nada.",
     "Funde el resto de la mantequilla con las hojas de salvia a fuego suave 2 minutos, hasta que las hojas crujan. Riega los ñoquis con esta mantequilla, cubre con el parmesano restante y gratina 15-20 minutos, hasta que estén dorados.",
     "Mientras, tuesta los piñones en una sartén sin aceite a fuego medio 2-3 minutos, sin dejar de moverlos y sin perderlos de vista, porque pasan de dorados a quemados en segundos.",
     "Aliña la rúcula con el zumo de limón, el aceite, sal y pimienta, añade los piñones y sírvela junto a los ñoquis recién salidos del horno."
@@ -219,7 +218,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz en un colador bajo el grifo hasta que el agua salga casi transparente. Así eliminas el almidón suelto y los granos quedan sueltos. Cuécelo con 225 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Apaga y déjalo reposar 5 minutos sin destapar.",
-    "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría y pélalos. Hazles 4 cortes superficiales a lo largo para que la especia penetre en la clara.",
+    "Mientras se cuece el arroz, cuece los huevos 10 minutos desde que hierva el agua; entretanto, ralla el jengibre y pica el chile y el cilantro. Enfría los huevos en agua fría y pélalos. Hazles 4 cortes superficiales a lo largo para que la especia penetre en la clara.",
     "Mezcla media cucharadita de cúrcuma con el garam masala, el pimentón y una pizca de sal, y reboza los huevos con la mezcla. Dóralos en una sartén con un hilo de aceite a fuego medio 2-3 minutos, girándolos, hasta que tengan costra. Resérvalos.",
     "Extiende el arroz en una bandeja para que se enfríe un poco y suelte el vapor. Si lo mezclas muy caliente, se apelmaza.",
     "Prepara el tadka: calienta el resto del aceite en la sartén a fuego medio-alto y echa las semillas de mostaza. Tapa y espera a que dejen de saltar, unos 30 segundos. Ese chisporroteo indica que el aceite ya tiene su aroma.",
@@ -267,9 +266,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las patatas en dados de 1,5 cm y cuécelas en el microondas en un recipiente tapado con 2 cucharadas de agua 6 minutos, hasta que estén casi tiernas. Cocerlas antes asegura que el interior quede tierno; la sartén solo tendrá que dorarlas.",
-    "Ralla el pepino, sálalo y déjalo escurrir 5 minutos en un colador. Después apriétalo con las manos para quitarle el agua, porque si no la raita queda aguada. Mézclalo con el yogur, la menta picada, sal y media cucharadita de comino tostado 30 segundos en sartén seca y machacado.",
-    "Calienta 2 cucharadas de aceite en la sartén a fuego medio-alto, añade 1 cucharadita de comino en grano y, cuando chisporrotee, las patatas escurridas. Dóralas 8 minutos, moviéndolas poco, hasta que estén crujientes. Sala y resérvalas.",
-    "Bate los huevos con la cúrcuma, el garam masala, sal y pimienta. Añade el tomate en daditos sin semillas (sin semillas para que la tortilla no suelte agua), el chile picado, la parte verde de la cebolleta y la mitad del cilantro.",
+    "Mientras, ralla el pepino, sálalo y déjalo escurrir 5 minutos en un colador; pica la menta. Después aprieta el pepino con las manos para quitarle el agua, porque si no la raita queda aguada. Mézclalo con el yogur, la menta picada, sal y media cucharadita de comino tostado 30 segundos en sartén seca y machacado.",
+    "Calienta 2 cucharadas de aceite en la sartén a fuego medio-alto, añade 1 cucharadita de comino en grano y, cuando chisporrotee, las patatas escurridas. Dóralas 8 minutos, moviéndolas poco, hasta que estén crujientes. Sala y resérvalas. Mientras se doran, corta el tomate en daditos sin semillas (así la tortilla no suelta agua) y pica el chile, la parte verde de la cebolleta y el cilantro.",
+    "Bate los huevos con la cúrcuma, el garam masala, sal y pimienta. Añade el tomate, el chile, la cebolleta y la mitad del cilantro.",
     "Limpia la sartén, calienta el resto del aceite a fuego medio-bajo y vierte el huevo. Cuando los bordes cuajen, levántalos con una espátula e inclina la sartén para que el huevo líquido pase debajo.",
     "Tapa y deja 2-3 minutos más, hasta que la superficie esté apenas cuajada. Dobla la tortilla por la mitad y pásala al plato.",
     "Sirve la tortilla en dos mitades con las patatas, la raita y el resto del cilantro."
@@ -310,7 +309,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos. Déjalo reposar 5 minutos más sin destapar.",
-    "Prepara la salsa mezclando el zumo de la lima, el chile picado fino, el azúcar y 1 cucharada de agua. Remueve hasta que el azúcar se disuelva. Corta el pepino en rodajas.",
+    "Mientras se cuece, pica fino el chile y prepara la salsa mezclando el zumo de la lima, el chile, el azúcar y 1 cucharada de agua. Remueve hasta que el azúcar se disuelva. Corta el pepino en rodajas y pica la parte verde de la cebolleta y el cilantro.",
     "Bate los huevos con el tamari y 1 cucharada de agua hasta que estén muy espumosos, unos 30 segundos. El aire y el agua que incorporas son los que harán que la tortilla se hinche.",
     "Calienta el aceite en el wok a fuego fuerte hasta que humee ligeramente (unos 190 °C: un trocito de pan debe dorarse al instante).",
     "Vierte el huevo de golpe desde unos 15 cm de altura, en el centro del wok. Se inflará en segundos porque el agua del huevo se convierte en vapor. Con la espátula, empuja los bordes hacia el centro durante 30 segundos.",
@@ -353,11 +352,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz con 180 ml de agua, tapado y a fuego mínimo, 13 minutos, y déjalo reposar tapado.",
-    "Bate los huevos con el caldo templado, 1 cucharadita de tamari y una pizca de sal, sin montar espuma. Cuela la mezcla por un colador fino: así eliminas las chalazas y las burbujas, y el flan queda liso y sedoso.",
+    "Mientras se cuece el arroz, bate los huevos con el caldo templado, 1 cucharadita de tamari y una pizca de sal, sin montar espuma. Cuela la mezcla por un colador fino: así eliminas las chalazas y las burbujas, y el flan queda liso y sedoso.",
     "Viértela en un cuenco resistente al calor. Ponlo en una cazuela con agua caliente hasta la mitad de su altura, tapa y cuece a fuego suave 12-15 minutos, hasta que el centro tiemble como un flan. Si el agua hierve con fuerza, el huevo se llena de agujeros, así que mantenla apenas burbujeando.",
-    "Mientras, escalda las espinacas 30 segundos en agua hirviendo, pásalas a agua fría y escúrrelas apretándolas con las manos. Aliña con 1 cucharadita de aceite de sésamo, 1 cucharadita de tamari y la mitad del sésamo tostado.",
-    "Corta la zanahoria en bastoncitos finos y saltéala 2 minutos en una sartén caliente con unas gotas de aceite de sésamo y una pizca de sal, para que quede tierna pero crujiente.",
-    "Saca el flan, riégalo con el resto del tamari y del aceite de sésamo, y espolvorea la parte verde de la cebolleta picada, el sésamo restante y el pimentón.",
+    "Mientras, tuesta el sésamo en una sartén seca 1 minuto y sácalo. Escalda las espinacas 30 segundos en agua hirviendo, pásalas a agua fría y escúrrelas apretándolas con las manos. Aliña con 1 cucharadita de aceite de sésamo, 1 cucharadita de tamari y la mitad del sésamo tostado.",
+    "Corta la zanahoria en bastoncitos finos y saltéala 2 minutos en una sartén caliente con unas gotas de aceite de sésamo y una pizca de sal, para que quede tierna pero crujiente. Pica la parte verde de la cebolleta.",
+    "Saca el flan, riégalo con el resto del tamari y del aceite de sésamo, y espolvorea la cebolleta picada, el sésamo restante y el pimentón.",
     "Sirve el flan en su cuenco, con el arroz y las dos verduras al lado, al estilo coreano."
   ],
   nutricion: { kcal: 469, prot: 22, hc: 57, grasa: 17 },
@@ -397,12 +396,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría, pélalos y pártelos por la mitad.",
+    "Cuece los huevos 10 minutos desde que hierva el agua; mientras, pela las patatas y córtalas en rodajas de 1 cm. Enfría los huevos en agua fría, pélalos y pártelos por la mitad.",
     "En una cazuela baja, fríe a fuego medio en el aceite de oliva las almendras y la rebanada de pan 2-3 minutos, hasta que estén doradas. Sácalas y reserva el aceite en la cazuela.",
-    "Tuesta las hebras de azafrán 10 segundos en una sartén seca, sin dejar que se oscurezcan. Así sueltan más color y aroma.",
-    "Tritura las almendras y el pan fritos con el azafrán, las hojas de perejil, el aceite de ajo y un cazo del caldo hasta obtener una pasta fina. Este majado (o picada) espesará la salsa sin necesidad de harina.",
-    "Pela las patatas, córtalas en rodajas de 1 cm y rehógalas 2 minutos en el aceite de la cazuela. Añade el vino y deja que hierva 1 minuto, hasta que se evapore el alcohol.",
-    "Agrega el resto del caldo, el laurel y sal. Cuece tapado a fuego suave 15 minutos, hasta que las patatas estén tiernas.",
+    "Rehoga las patatas 2 minutos en el aceite de la cazuela. Añade el vino y deja que hierva 1 minuto, hasta que se evapore el alcohol.",
+    "Agrega el caldo, reservando un cazo para el majado, el laurel y sal. Cuece tapado a fuego suave 15 minutos, hasta que las patatas estén tiernas.",
+    "Mientras, tuesta las hebras de azafrán 10 segundos en una sartén seca, sin dejar que se oscurezcan: así sueltan más color y aroma. Tritura las almendras y el pan fritos con el azafrán, las hojas de perejil, el aceite de ajo y el cazo de caldo reservado hasta obtener una pasta fina. Este majado (o picada) espesará la salsa sin necesidad de harina.",
     "Incorpora el majado, remueve meneando la cazuela y cuece 5 minutos más, hasta que la salsa espese y tome un color dorado.",
     "Coloca los huevos con la yema hacia arriba, cúbrelos con la salsa y deja 2 minutos a fuego mínimo para que se calienten. Sirve con pimienta recién molida y perejil."
   ],
@@ -444,10 +442,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas enteras y con piel en agua con sal 25-30 minutos, hasta que se dejen atravesar con facilidad. Con piel absorben menos agua y el puré queda firme, no pastoso.",
-    "Precalienta el horno a 200 °C. Corta la mozzarella en dados y déjala escurrir sobre papel de cocina para que no suelte agua dentro del pastel.",
+    "Mientras se cuecen, corta la mozzarella en dados y déjala escurrir sobre papel de cocina para que no suelte agua dentro del pastel. Pica la albahaca, bate los huevos y unta con mantequilla una fuente pequeña; espolvorea la mitad del pan rallado: la mantequilla lo pega a las paredes y forma la costra crujiente. Unos 15 minutos antes de que acaben las patatas, precalienta el horno a 200 °C.",
     "Pela las patatas en caliente y pásalas por el pasapurés o aplástalas con un tenedor. No uses batidora, porque rompe el almidón y las deja chiclosas.",
     "Mezcla el puré con 10 g de mantequilla, la leche, los huevos batidos, el parmesano, la nuez moscada, la albahaca picada, sal y pimienta.",
-    "Unta con mantequilla una fuente pequeña y espolvorea la mitad del pan rallado: la mantequilla lo pega a las paredes y forma la costra crujiente.",
     "Extiende la mitad del puré, reparte la mozzarella y cubre con el resto. Alisa la superficie, espolvorea el pan rallado restante y pon encima unos trocitos del resto de la mantequilla.",
     "Hornea 30 minutos, hasta que la superficie esté dorada. Deja reposar 10 minutos fuera del horno para que se asiente y se pueda cortar en porciones limpias.",
     "Mientras, corta los tomates en gajos y alíñalos con el aceite, sal y unas hojas de albahaca. Sirve el gattò templado con la ensalada."
@@ -488,8 +485,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados de 2 cm, mézclala en un bol con el aceite de oliva y sal (así se reparte el aceite y la berenjena no lo absorbe como una esponja) y ásala en una bandeja 20 minutos, hasta que esté dorada y tierna.",
-    "Mientras, calienta el aceite de ajo en una cazuela a fuego medio, añade el tomate triturado, el orégano y sal, y cuece 15 minutos, hasta que la salsa espese y pierda la acidez.",
-    "Cuece la pasta en abundante agua con sal 2 minutos menos de lo que indique el paquete. Terminará de hacerse en el horno, y la pasta sin gluten se pasa con mucha facilidad.",
+    "Mientras, calienta el aceite de ajo en una cazuela a fuego medio, añade el tomate triturado, el orégano y sal, y cuece 15 minutos, hasta que la salsa espese y pierda la acidez. Mientras, pon a hervir abundante agua con sal para la pasta, corta la mozzarella en dados y trocea la albahaca.",
+    "Cuece la pasta en el agua hirviendo 2 minutos menos de lo que indique el paquete. Terminará de hacerse en el horno, y la pasta sin gluten se pasa con mucha facilidad.",
     "Escúrrela, guarda medio vaso del agua de cocción y mézclala con la salsa, la berenjena, la mitad de la mozzarella en dados y la albahaca troceada. Si queda seca, añade un chorrito del agua reservada.",
     "Pásala a una fuente, cubre con el resto de la mozzarella y el parmesano, y añade pimienta.",
     "Baja el horno a 200 °C y hornea 15 minutos, hasta que el queso burbujee y se dore por los bordes.",
@@ -534,8 +531,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla la harina de arroz, la maicena y media cucharadita de sal. Añade la mantequilla fría y frótala con la punta de los dedos hasta que parezca arena gruesa. Si la mantequilla se derrite, la masa queda dura en lugar de quebradiza.",
     "Separa el huevo. Añade la yema y el agua helada y junta la masa sin amasar, solo hasta que forme una bola. Aplánala, envuélvela en film y déjala 20 minutos en la nevera. Reserva la clara.",
-    "Corta el calabacín en rodajas finas, sálalo y déjalo 10 minutos sobre papel de cocina. Sécalo después: así suelta el agua antes y no empapa la base.",
-    "Precalienta el horno a 200 °C. Estira la masa entre dos hojas de papel de horno hasta formar un círculo de unos 28 cm y 4 mm de grosor. La masa sin gluten es frágil, y el papel te permite moverla sin que se rompa.",
+    "Mientras reposa, precalienta el horno a 200 °C y corta el calabacín en rodajas finas, sálalo y déjalo 10 minutos sobre papel de cocina. Sécalo después: así suelta el agua antes y no empapa la base. Parte los cherrys por la mitad, desmiga el queso, trocea las nueces y bate la clara.",
+    "Estira la masa entre dos hojas de papel de horno hasta formar un círculo de unos 28 cm y 4 mm de grosor. La masa sin gluten es frágil, y el papel te permite moverla sin que se rompa.",
     "Retira el papel de arriba. Reparte el calabacín, los cherrys partidos y el queso desmigado, dejando libre un borde de 4 cm. Riega con el aceite de ajo, las hojas de tomillo y pimienta.",
     "Levanta el borde con ayuda del papel y dóblalo sobre el relleno en pliegues. Si se agrieta, une las grietas apretando con los dedos. Pinta el borde con la clara batida para que se dore y brille.",
     "Hornea 30-35 minutos, hasta que la masa esté dorada y crujiente. En los últimos 5 minutos, reparte las nueces troceadas por encima para que se tuesten sin quemarse.",
@@ -621,9 +618,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C. Lava las patatas y sécalas. Coloca cada una entre dos palillos chinos o dos cucharas de madera y córtala en láminas de 3 mm: los palillos frenan el cuchillo y evitan que llegues a cortar la base.",
     "Funde la mantequilla con el aceite de ajo y las hojas de tomillo. Pinta las patatas por fuera y deja caer parte de la mezcla entre las láminas.",
     "Hornéalas en una bandeja 30 minutos. Sácalas, vuelve a pintarlas con el resto de la mantequilla (ahora las láminas se habrán abierto) y hornea 20 minutos más, hasta que los bordes estén dorados y crujientes.",
+    "Mientras, cuece los huevos 6 minutos exactos en agua hirviendo y pásalos a un bol con agua y hielo. El frío corta la cocción y la yema se queda líquida. Pélalos con cuidado. Bate la mostaza con el vinagre, el aceite de oliva y una pizca de sal.",
     "Reparte el gruyère por encima, metiéndolo un poco entre las láminas, y gratina 5 minutos más.",
-    "Mientras, cuece los huevos 6 minutos exactos en agua hirviendo y pásalos a un bol con agua y hielo. El frío corta la cocción y la yema se queda líquida. Pélalos con cuidado.",
-    "Bate la mostaza con el vinagre, el aceite de oliva y una pizca de sal y aliña los canónigos justo antes de servir.",
+    "Aliña los canónigos con la vinagreta justo antes de servir.",
     "Sirve dos patatas por persona con sal en escamas y pimienta, el huevo abierto encima o al lado y la ensalada."
   ],
   nutricion: { kcal: 616, prot: 20, hc: 53, grasa: 36 },
@@ -660,7 +657,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las patatas sin pelar en dados de 1,5 cm y cuécelas en el microondas en un recipiente tapado con un chorrito de agua 6 minutos, hasta que estén casi tiernas. Escúrrelas y sécalas.",
+    "Corta las patatas sin pelar en dados de 1,5 cm y cuécelas en el microondas en un recipiente tapado con un chorrito de agua 6 minutos, hasta que estén casi tiernas. Mientras, corta el pimiento en dados y pica el cebollino. Escurre las patatas y sécalas.",
     "Calienta el aceite en una sartén grande, mejor de hierro, a fuego medio-alto. Añade las patatas en una sola capa y no las toques durante 5 minutos: el contacto continuo con la sartén caliente es lo que forma la costra.",
     "Dales la vuelta, añade el pimiento en dados y cocina 6-7 minutos más, removiendo de vez en cuando, hasta que todo esté dorado. Sazona con el pimentón, sal y pimienta (el pimentón al final, para que no se queme y amargue).",
     "Añade las espinacas y remueve 1 minuto, hasta que se encojan.",
@@ -748,10 +745,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la calabaza con piel en gajos de 2 cm (la piel de la japonesa se come). Mézclala con 1 cucharada de aceite, el comino, sal y pimienta, y ásala 25 minutos en una bandeja sin amontonar, hasta que los bordes estén caramelizados.",
-    "Lava la quinoa en un colador fino frotándola bajo el grifo 30 segundos. Así quitas las saponinas, que le dan un sabor amargo.",
-    "Cuécela con 200 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Apaga y déjala reposar 5 minutos tapada: el vapor termina de abrir el grano. Suéltala con un tenedor y alíñala con la ralladura y la mitad del zumo del limón.",
-    "Tuesta los piñones en una sartén seca a fuego medio 2-3 minutos, moviéndolos sin parar, hasta que estén dorados.",
-    "Mezcla el resto del zumo de limón con el zumaque, media cucharada de aceite y una pizca de sal.",
+    "Mientras se asa, lava la quinoa en un colador fino frotándola bajo el grifo 30 segundos. Así quitas las saponinas, que le dan un sabor amargo.",
+    "Cuécela con 200 ml de agua y sal, tapada y a fuego mínimo, 12 minutos. Mientras, tuesta los piñones en una sartén seca a fuego medio 2-3 minutos, moviéndolos sin parar, hasta que estén dorados, y ralla y exprime el limón.",
+    "Apaga la quinoa y déjala reposar 5 minutos tapada: el vapor termina de abrir el grano. Mientras, mezcla la mitad del zumo de limón con el zumaque, media cucharada de aceite y una pizca de sal.",
+    "Suelta la quinoa con un tenedor y alíñala con la ralladura y el resto del zumo.",
     "Reparte la quinoa en los platos, coloca encima la calabaza y desmiga el feta. Termina con los piñones, la granada, las hojas de menta y el aliño de zumaque."
   ],
   nutricion: { kcal: 464, prot: 14, hc: 48, grasa: 24 },
@@ -792,8 +789,8 @@ window.RECETAS_SEED.push({
     "Funde la mantequilla a fuego suave y déjala reposar 2 minutos. Retira con una cuchara la espuma blanca de arriba: así la clarificas, y la holandesa queda más estable.",
     "Pon a calentar agua en una cazuela y coloca encima un bol que no toque el agua. Bate en el bol las 2 yemas con 1 cucharada de agua y 1 de zumo de limón 2-3 minutos, hasta que espesen y dejen rastro, como unas natillas.",
     "Sin dejar de batir, añade la mantequilla templada en un hilo muy fino. Cuando haya emulsionado y quede brillante, sala y aparta el bol del agua. Si se corta, añade 1 cucharada de agua caliente en un bol limpio y ve incorporando la salsa cortada poco a poco mientras bates.",
-    "Saltea las espinacas con el aceite de ajo a fuego fuerte 1 minuto, hasta que se encojan, y sálalas. Tuesta el pan.",
-    "Lleva a ebullición suave 2 litros de agua con el vinagre (sin sal, que deshace la clara). Casca cada huevo en un colador fino para eliminar la clara más líquida y pásalo a una taza.",
+    "Pon a calentar 2 litros de agua con el vinagre en una cazuela (sin sal, que deshace la clara). Mientras se calienta, saltea las espinacas con el aceite de ajo a fuego fuerte 1 minuto, hasta que se encojan, y sálalas. Tuesta el pan y pica el cebollino.",
+    "Cuando el agua llegue a ebullición suave, casca cada huevo en un colador fino para eliminar la clara más líquida y pásalo a una taza.",
     "Remueve el agua formando un remolino y deja caer los huevos de uno en uno. Cuécelos 3 minutos, a fuego muy suave, sin que hierva. Sácalos con una espumadera y sécalos sobre papel.",
     "Monta el plato: pan, espinacas, huevo escalfado y una cucharada generosa de holandesa. Termina con pimentón, cebollino picado y pimienta."
   ],
@@ -837,8 +834,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece los huevos 6 minutos y medio en agua hirviendo y pásalos enseguida a agua con hielo 5 minutos. Pélalos con cuidado bajo un hilo de agua.",
     "Mezcla 3 cucharadas de tamari, el sirope de arce y 4 cucharadas de agua en una bolsa o un recipiente pequeño. Mete los huevos, cubre su superficie con papel de cocina mojado en el líquido para que se tiñan por igual, y déjalos en la nevera al menos 2 horas (o toda la noche).",
-    "Cuece los fideos de arroz según el paquete, escúrrelos y enjuágalos bajo el grifo con agua fría. El agua fría corta la cocción y se lleva el almidón que haría que se pegaran.",
-    "Corta el pepino y la zanahoria en tiras finas o rállalos en tiras gruesas.",
+    "Cuece los fideos de arroz según el paquete. Mientras, corta el pepino y la zanahoria en tiras finas o rállalos en tiras gruesas, ralla el jengibre, pica la parte verde de la cebolleta y el cilantro y corta el chile en rodajas.",
+    "Escurre los fideos y enjuágalos bajo el grifo con agua fría. El agua fría corta la cocción y se lleva el almidón que haría que se pegaran.",
     "Prepara el aliño con el resto del tamari, 2 cucharadas de la marinada de los huevos, el vinagre de arroz, el zumo de la lima, el jengibre rallado y el aceite de sésamo.",
     "Mezcla los fideos con las verduras y el aliño, y repártelos en cuencos.",
     "Parte los huevos por la mitad y colócalos encima. Termina con el sésamo tostado, la parte verde de la cebolleta, el cilantro y el chile en rodajas."
@@ -882,7 +879,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos medianos iguales y cuécelas en agua con sal 18-20 minutos, hasta que estén tiernas. Escúrrelas y déjalas en la cazuela tapadas.",
-    "Cuece los huevos 9 minutos desde que hierva el agua, para que la yema quede cuajada pero todavía cremosa. Enfríalos en agua fría y pélalos.",
+    "Mientras se cuecen las patatas, cuece los huevos 9 minutos desde que hierva el agua, para que la yema quede cuajada pero todavía cremosa. Enfríalos en agua fría, pélalos y pica el cebollino.",
     "Prepara el roux: funde la mantequilla en un cazo a fuego medio, añade la harina de arroz y remueve 1 minuto, para que pierda el sabor a crudo sin llegar a tostarse.",
     "Vierte la leche fría poco a poco, batiendo con varillas. Si el roux está caliente y el líquido frío, la harina se dispersa sin hacer grumos. Añade el caldo y cuece 5 minutos a fuego suave, hasta que la salsa cubra una cuchara.",
     "Fuera del fuego, incorpora las dos mostazas, unas gotas de limón, la nuez moscada, sal y pimienta blanca. La mostaza se añade al final porque, si hierve, amarga y pierde su punto picante.",
@@ -926,7 +923,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz con 100 ml de agua y sal, tapado y a fuego mínimo, 12 minutos, y déjalo reposar.",
-    "Corta los pimientos en tiras finas y los tomates en rodajas. Mezcla el zumo de media lima con los tallos de cilantro picados y una pizca de sal.",
+    "Mientras se cuece, corta los pimientos en tiras finas, los tomates en rodajas y el chile en rodajas. Mezcla el zumo de media lima con los tallos de cilantro picados y una pizca de sal.",
     "Unta el fondo de una cazuela ancha con el aceite de ajo. Coloca una capa de pimientos, después una de tomate, sálala y repite. Riega con el aliño de lima y espolvorea el pimentón.",
     "Tapa y cocina a fuego medio-bajo 12 minutos, sin remover. Las verduras sueltan su jugo y se cuecen en él; si las remueves, se rompen y el caldo se enturbia.",
     "Vierte la leche de coco, menea la cazuela con las asas y lleva a un hervor suave 3 minutos, hasta que la salsa engorde un poco.",
@@ -966,7 +963,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en rodajas finas de 3 mm. Mézclalas en un recipiente apto para microondas con 1 cucharada de aceite y sal, tapa y cocina a máxima potencia 7-8 minutos, removiendo a mitad, hasta que estén tiernas. Son unas panaderas sin freír.",
     "Calienta una sartén con unas gotas de aceite a fuego fuerte y saltea los pimientos de Padrón 3-4 minutos, hasta que tengan ampollas. Sácalos y ponles sal en escamas.",
-    "Bate los huevos solo un poco, lo justo para romper las yemas, con una pizca de sal.",
+    "Bate los huevos solo un poco, lo justo para romper las yemas, con una pizca de sal. Pica el cebollino.",
     "En la misma sartén, a fuego medio-bajo, añade el resto del aceite y las patatas escurridas. Vierte el huevo y remueve despacio con una espátula, arrastrando desde los bordes hacia el centro.",
     "Cuando el huevo esté cuajado en tres cuartas partes pero todavía brillante, apaga el fuego y sírvelo. El calor que queda termina de cuajarlo; si esperas a verlo hecho en la sartén, en el plato estará seco.",
     "Sirve el revuelto con los pimientos de Padrón por encima y el cebollino picado."
@@ -1007,10 +1004,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la chirivía, córtala en rodajas y cuécela en el caldo con sal, tapada, 20 minutos, hasta que esté muy tierna.",
-    "Prepara el aceite de cebollino: tritura el cebollino con el aceite y una pizca de sal y cuélalo por un colador fino o un paño. Hazlo en frío; si lo calientas, la clorofila se oscurece y pierde el verde intenso.",
+    "Mientras se cuece, prepara el aceite de cebollino: tritura el cebollino con el aceite y una pizca de sal y cuélalo por un colador fino o un paño. Hazlo en frío; si lo calientas, la clorofila se oscurece y pierde el verde intenso.",
     "Tuesta las avellanas en una sartén seca a fuego medio 4 minutos. Frótalas en un paño para quitarles la piel y pícalas gruesas.",
-    "Tritura la chirivía con la mitad del caldo, la leche y la nuez moscada hasta obtener una crema fina. Añade caldo hasta que tenga la textura de un puré que se pueda servir con cuchara. Prueba de sal y pimienta.",
-    "Cuece los huevos, a temperatura ambiente, 6 minutos exactos en agua hirviendo y pásalos a agua con hielo. Pélalos con cuidado: la clara está cuajada, pero la yema sigue líquida.",
+    "Pon a hervir agua en un cazo para los huevos. Mientras, tritura la chirivía con la mitad del caldo, la leche y la nuez moscada hasta obtener una crema fina. Añade caldo hasta que tenga la textura de un puré que se pueda servir con cuchara. Prueba de sal y pimienta.",
+    "Cuece los huevos, a temperatura ambiente, 6 minutos exactos en el agua hirviendo y pásalos a agua con hielo. Pélalos con cuidado: la clara está cuajada, pero la yema sigue líquida.",
     "Sirve la crema caliente en platos hondos, coloca dos huevos encima, reparte las avellanas y el parmesano, y termina con unas gotas de aceite de cebollino y pimienta."
   ],
   nutricion: { kcal: 464, prot: 20, hc: 33, grasa: 28 },
@@ -1050,12 +1047,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas peladas y troceadas en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas y aplástalas con el comino, el pimentón y sal. Deja que se templen y mezcla con la mozzarella.",
-    "Tritura los tomates con el chile y sal, y cuece la salsa 8 minutos en un cazo, hasta que espese. Mezcla el yogur con el zumo de media lima y una pizca de sal.",
+    "Pela las patatas, trocéalas y cuécelas en agua con sal 15-18 minutos, hasta que estén tiernas. Escúrrelas y aplástalas con el comino, el pimentón y sal. Deja que se templen y mezcla con la mozzarella.",
+    "Mientras se cuecen las patatas, tritura los tomates con el chile y sal, y cuece la salsa 8 minutos en un cazo, hasta que espese. Mezcla el yogur con el zumo de media lima y una pizca de sal. Corta la lechuga en tiras finas.",
     "Calienta las tortillas en el microondas 30-40 segundos envueltas en un paño húmedo. Calientes y flexibles, no se rompen al enrollarlas.",
     "Pon 2 cucharadas de relleno en un extremo de cada tortilla, enróllala apretando y sujétala con un palillo si se abre.",
     "Calienta el aceite en una sartén a fuego medio-alto (1 cm de altura). Coloca los tacos con la unión hacia abajo: así se sella primero y ya no se abre. Dóralos 2 minutos por cada lado, hasta que estén crujientes, y escúrrelos sobre papel.",
-    "Sirve 4 tacos por persona con la lechuga en tiras finas, la salsa de tomate, el yogur, el cilantro y gajos de lima."
+    "Sirve 4 tacos por persona con la lechuga, la salsa de tomate, el yogur, el cilantro y gajos de lima."
   ],
   nutricion: { kcal: 742, prot: 22, hc: 96, grasa: 30 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegetariano", "mexicana", "para niños", "económica", "frito"],
@@ -1094,11 +1091,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la compota: trocea las fresas y cuécelas con el azúcar y el zumo del limón a fuego medio 8-10 minutos, hasta que se ablanden y el jugo espese. Déjala templar.",
+    "Pon a hervir agua con sal para la pasta. Mientras, prepara la compota: trocea las fresas y cuécelas con el azúcar y el zumo del limón a fuego medio 8-10 minutos, hasta que se ablanden y el jugo espese. Déjala templar.",
     "Precalienta el horno a 210 °C. Pela la patata y córtala en dados de 1,5 cm.",
-    "Pon a hervir agua con sal, echa la patata y, a los 5 minutos, añade la pasta. Cuécelas juntas el tiempo de la pasta menos 1 minuto. La patata necesita más tiempo, por eso entra antes, y así lo aprovechas todo en una sola olla.",
+    "Echa la patata en el agua hirviendo y, a los 5 minutos, añade la pasta. Cuécelas juntas el tiempo de la pasta menos 1 minuto. La patata necesita más tiempo, por eso entra antes, y así lo aprovechas todo en una sola olla.",
     "Escurre, vuelve a ponerlo en la cazuela y añade la leche, la nata, la nuez moscada, sal, pimienta y dos tercios del gruyère. Remueve a fuego suave 2 minutos, hasta que el queso se funda y la salsa envuelva la pasta.",
-    "Pásalo a una fuente untada con mantequilla, cubre con el resto del queso y unos trocitos de mantequilla, y gratina 10 minutos, hasta que esté dorado.",
+    "Pásalo a una fuente untada con mantequilla, cubre con el resto del queso y unos trocitos de mantequilla, y gratina 10 minutos, hasta que esté dorado. Mientras, pica el cebollino.",
     "Sirve con el cebollino picado por encima y la compota de fresas templada al lado, como en Suiza, para dar el contrapunto ácido y dulce."
   ],
   nutricion: { kcal: 791, prot: 25, hc: 103, grasa: 31 },

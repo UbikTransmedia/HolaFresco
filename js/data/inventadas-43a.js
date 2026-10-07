@@ -34,7 +34,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua en el hervidor. Si las pechugas son gruesas, ábrelas en libro y aplánalas con la palma hasta 1 cm: un filete fino se hace en 2 minutos por lado y no se seca.",
-    "Pon el cuscús en un bol con una pizca de sal y un hilo de aceite, cúbrelo con 140 ml de agua hirviendo, tapa con un plato y olvídate 5 minutos.",
+    "Pon el cuscús en un bol con una pizca de sal y un hilo de aceite, cúbrelo con 140 ml de agua hirviendo, tapa con un plato y olvídate 5 minutos. Mientras, lamina el ajo y pica el perejil.",
     "Salpimienta los filetes y pásalos por la harina sacudiendo bien el exceso: la película de harina dora mejor y luego ayuda a espesar la salsa.",
     "Calienta 1 cucharada de aceite en una sartén grande a fuego fuerte y dora los filetes 2 minutos por cada lado sin moverlos, sin amontonarlos (si se tocan, cuecen en su jugo y no se doran). Sácalos a un plato.",
     "En la misma sartén, con el resto del aceite y la mantequilla, saltea los champiñones y el ajo laminado 3 minutos a fuego fuerte, sin remover el primer minuto, hasta que estén dorados. Sala al final, así no sueltan agua antes de tiempo.",
@@ -77,10 +77,10 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" }
   ],
   pasos: [
-    "Pon a hervir agua en el hervidor. Cubre los fideos de arroz con el agua hirviendo en un bol y déjalos 5-6 minutos, hasta que estén flexibles; escúrrelos y pásalos por agua fría para cortar la cocción y que no se apelmacen.",
-    "Corta la ternera en tiras finas a contrapelo, es decir, perpendiculares a las fibras que ves en la carne: así acortas la fibra y queda tierna aunque se cocine a fuego vivo.",
+    "Pon a hervir agua en el hervidor. Cubre los fideos de arroz con el agua hirviendo en un bol y déjalos 5-6 minutos, hasta que estén flexibles.",
+    "Mientras se hidratan, corta la ternera en tiras finas a contrapelo, es decir, perpendiculares a las fibras que ves en la carne: así acortas la fibra y queda tierna aunque se cocine a fuego vivo.",
     "Mezcla la carne con 1 cucharada de soja y la maicena. Esa capa fina protege la carne del calor fuerte y la deja jugosa y sedosa (es la técnica china del «velveting»).",
-    "Machaca la pimienta en grano en un mortero o con el culo de un cazo, dejándola gruesa: recién partida aporta mucho más aroma que la molida. Corta la cebolla en gajos, el pimiento en tiras y lamina los ajos.",
+    "Escurre los fideos y pásalos por agua fría para cortar la cocción y que no se apelmacen. Machaca la pimienta en grano en un mortero o con el culo de un cazo, dejándola gruesa: recién partida aporta mucho más aroma que la molida. Corta la cebolla en gajos, el pimiento en tiras y lamina los ajos.",
     "En un vaso, mezcla el resto de la soja, la salsa de ostras, el azúcar y 2 cucharadas de agua.",
     "Calienta el wok a fuego máximo hasta que humee, añade 1 cucharada de aceite y extiende la ternera en una sola capa. Déjala 1 minuto sin tocar, dale la vuelta 30 segundos y sácala: si sigue más tiempo, se endurece.",
     "Con el resto del aceite, saltea la cebolla y el pimiento 2 minutos, que queden crujientes. Añade el ajo y la pimienta y remueve 30 segundos, hasta que huela.",
@@ -258,7 +258,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pavo en dados de 2 cm y sálalo: a ese tamaño se hace en 5 minutos sin secarse. Pica fina la cebolla, corta los pimientos en cuadrados de 2 cm y ralla el ajo y el jengibre.",
+    "Corta el pavo en dados de 2 cm y sálalo: a ese tamaño se hace en 5 minutos sin secarse. Pica fina la cebolla, corta los pimientos en cuadrados de 2 cm, ralla el ajo y el jengibre y pica el cilantro.",
     "Calienta el aceite en una sartén honda a fuego medio-alto y añade el comino en grano. Cuando chisporrotee y huela (unos 20 segundos), sigue: las especias enteras sueltan su aroma en la grasa caliente y perfuman todo el plato.",
     "Añade la cebolla y cocina 3 minutos, hasta que empiece a dorarse por los bordes. Incorpora el ajo y el jengibre y remueve 30 segundos.",
     "Sube el fuego, añade el pavo y séllalo 2 minutos, hasta que pierda el color crudo por fuera.",
@@ -303,11 +303,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y córtalas en rodajas de 1 cm. Ponlas en un recipiente apto para microondas con 2 cucharadas de agua y sal, tapa dejando una rendija y cocina 8 minutos a máxima potencia, hasta que un cuchillo entre sin resistencia. El vapor atrapado las cuece como en una olla.",
-    "Mezcla la mostaza con la miel y el zumo del medio limón.",
+    "Mientras se cuecen, mezcla la mostaza con la miel y el zumo del medio limón. Pica el eneldo y quita a los trigueros el extremo duro: dóblalos y se parten justo donde empieza la parte tierna.",
     "Seca muy bien el salmón con papel de cocina (la piel húmeda no se tuesta, se cuece) y sálalo.",
     "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y pon los lomos con la piel hacia abajo. Presiónalos 10 segundos con una espátula para que no se curven y cocina 4 minutos sin moverlos, hasta que el color opaco haya subido dos tercios por el lateral del lomo.",
     "Dales la vuelta, baja a fuego medio, píntalos con el glaseado y cocina 1-2 minutos. Retíralos con el centro todavía algo rosado: se terminan de hacer con su propio calor en el plato.",
-    "En la misma sartén, con la mantequilla, saltea los trigueros 3 minutos a fuego fuerte, hasta que estén verde brillante y con alguna mancha dorada. Quítales antes el extremo duro: dóblalos y se parten justo donde empieza la parte tierna.",
+    "En la misma sartén, con la mantequilla, saltea los trigueros 3 minutos a fuego fuerte, hasta que estén verde brillante y con alguna mancha dorada.",
     "Escurre las patatas y aliña con el resto del aceite, sal, pimienta y el eneldo picado.",
     "Sirve el salmón con la piel hacia arriba para que siga crujiente, con los espárragos y las patatas."
   ],
@@ -346,7 +346,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas, córtalas en rodajas de 5 mm y ponlas en un plato hondo con 2 cucharadas de agua y sal. Tápalas y cocínalas al microondas 6-7 minutos a máxima potencia, hasta que estén tiernas.",
     "Sala la merluza mientras tanto: la sal en la superficie extrae un poco de humedad y la carne queda más firme y se desmiga menos.",
-    "Pica los pimientos y la cebolleta en dados muy pequeños, de 3-4 mm. A ese tamaño se templan en un minuto sin perder el crujiente.",
+    "Pica los pimientos y la cebolleta en dados muy pequeños, de 3-4 mm, y pica el perejil. A ese tamaño se templan en un minuto sin perder el crujiente.",
     "Seca la merluza con papel. Calienta 1 cucharada de aceite en una sartén antiadherente a fuego medio-alto y cocina los lomos por el lado de la piel 3 minutos, hasta que se doren.",
     "Dales la vuelta y cocina 1-2 minutos más, hasta que, al presionar con el dedo, las láminas empiecen a separarse. Retira a un plato.",
     "Baja el fuego, añade a la sartén las otras 2 cucharadas de aceite y las verduras picadas y remueve 1 minuto, solo para templarlas. Aparta del fuego, añade el vinagre, el perejil picado y sal.",
@@ -387,8 +387,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
+    "Pica fina la cebolla y pica el ajo, el chipotle y el cilantro.",
     "Seca las gambas con papel y sálalas. Calienta media cucharada de aceite en una sartén a fuego fuerte y séllalas 40 segundos por cada lado; sácalas a un plato. Se terminarán en la salsa: si se cocinan todo el tiempo, quedan gomosas.",
-    "En la misma sartén, a fuego medio, añade el resto del aceite y la cebolla picada fina y cocina 3 minutos, hasta que esté transparente. Añade el ajo picado y remueve 30 segundos.",
+    "En la misma sartén, a fuego medio, añade el resto del aceite y la cebolla y cocina 3 minutos, hasta que esté transparente. Añade el ajo y remueve 30 segundos.",
     "Incorpora el tomate y el chipotle picado con su salsa de adobo y cuece 4 minutos, hasta que la salsa espese y oscurezca. Prueba y ajusta de sal.",
     "Mientras, calienta el arroz en el microondas 1-2 minutos con una cucharada de agua, para que no se reseque, y aliña con el zumo de media lima.",
     "Corta el aguacate en láminas y aliña con sal y unas gotas de lima para que no se oscurezca.",
@@ -431,7 +432,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon los guisantes congelados en un recipiente apto para microondas con 2 cucharadas de agua, tapa y cocina 4 minutos a máxima potencia.",
-    "Mezcla el panko con la ralladura del limón, la mitad del perejil picado y una pizca de sal.",
+    "Mientras, pica el perejil y la menta. Mezcla el panko con la ralladura del limón, la mitad del perejil picado y una pizca de sal.",
     "Seca el bacalao, sálalo y unta solo la cara de arriba con la mostaza: hace de pegamento para la costra. Presiona esa cara sobre el panko para que quede bien cubierta.",
     "Calienta el aceite en una sartén antiadherente a fuego medio y pon el bacalao con la costra hacia abajo. Cocina 3 minutos sin moverlo, hasta que esté dorada.",
     "Dale la vuelta con cuidado, ayudándote de dos espátulas, y cocina 3-4 minutos más, hasta que el centro esté opaco y se separe en lascas.",
@@ -475,9 +476,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua en el hervidor. Pon el cuscús en un bol con sal y media cucharada de aceite, cúbrelo con 120 ml de agua hirviendo, tapa y deja 5 minutos.",
-    "Haz 2-3 cortes superficiales en la piel de cada lomo: así la piel no se encoge y el lomo no se curva en la sartén. Seca bien y sala.",
+    "Mientras, pica muy fina la chalota y pica el perejil y el cebollino. Haz 2-3 cortes superficiales en la piel de cada lomo: así la piel no se encoge y el lomo no se curva en la sartén. Seca bien y sala.",
     "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y pon la lubina con la piel hacia abajo, presionando los primeros 10 segundos. Cocina 3-4 minutos, hasta que la piel esté dorada y crujiente; dale la vuelta 1 minuto y sácala a un plato.",
-    "Baja a fuego medio y sofríe la chalota muy picada 1 minuto en la grasa que queda. Añade el vino y el estragón y deja reducir 2 minutos, hasta que quede la mitad: así se evapora el alcohol y se concentra el sabor.",
+    "Baja a fuego medio y sofríe la chalota 1 minuto en la grasa que queda. Añade el vino y el estragón y deja reducir 2 minutos, hasta que quede la mitad: así se evapora el alcohol y se concentra el sabor.",
     "Aparta la sartén del fuego y añade la mantequilla fría en dados de dos en dos, moviendo la sartén en círculos hasta que la salsa quede brillante y ligada. Fría y fuera del fuego, la mantequilla se emulsiona; si hierve, se separa la grasa. Ajusta de sal y añade unas gotas de limón.",
     "Esponja el cuscús con un tenedor y mézclalo con el perejil y el cebollino picados.",
     "Sirve la lubina con la piel hacia arriba sobre el cuscús y la salsa alrededor, no por encima, para que la piel siga crujiente."
@@ -516,7 +517,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas de 5 mm y cuécelas en un plato tapado con 2 cucharadas de agua y sal, 6-7 minutos al microondas a máxima potencia.",
-    "Prepara la ajada: pica muy finos el ajo y el perejil y mézclalos con 2 cucharadas de aceite y unas gotas de limón. Va en crudo sobre el marisco caliente: así huele a fresco y el ajo no se quema ni amarga.",
+    "Mientras se cuecen, prepara la ajada: pica muy finos el ajo y el perejil y mézclalos con 2 cucharadas de aceite y unas gotas de limón. Va en crudo sobre el marisco caliente: así huele a fresco y el ajo no se quema ni amarga.",
     "Seca muy bien los chipirones con papel de cocina y separa los cuerpos de las patas. Si están húmedos, en vez de dorarse hierven en su agua.",
     "Calienta la plancha o una sartén de hierro a fuego máximo hasta que humee. Asa los pimientos de Padrón con unas gotas de aceite 3 minutos, hasta que se ampollen, y sálalos con escamas. Resérvalos.",
     "Pon los chipirones en una sola capa, sin amontonar, y cocínalos 1 minuto por cada lado, hasta que se doren y se curven. Sálalos al final. Si no caben, hazlos en dos tandas.",
@@ -563,12 +564,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz en un colador bajo el grifo, removiendo con la mano, hasta que el agua salga casi transparente: quitas el almidón de la superficie y los granos quedan sueltos.",
+    "Lava el arroz en un colador bajo el grifo, removiendo con la mano, hasta que el agua salga casi transparente: quitas el almidón de la superficie y los granos quedan sueltos. Mientras escurre, corta la cebolla en pluma fina, ralla el ajo y el jengibre y sala el pollo.",
     "Calienta el aceite en la olla exprés destapada a fuego medio-alto y añade el comino, la canela, el cardamomo ligeramente aplastado y el laurel. Remueve 30 segundos, hasta que huelan.",
-    "Añade la cebolla en pluma fina y cocina 2 minutos; incorpora el ajo y el jengibre rallados y el pollo salado, y rehoga 2 minutos más, hasta que el pollo pierda el color crudo.",
+    "Añade la cebolla y cocina 2 minutos; incorpora el ajo, el jengibre y el pollo, y rehoga 2 minutos más, hasta que el pollo pierda el color crudo.",
     "Espolvorea el garam masala, añade el arroz escurrido y remueve 30 segundos para que los granos se impregnen de grasa: es otro seguro para que no se peguen.",
     "Vierte el caldo y sala. En la olla exprés se usa algo menos de líquido que en una cazuela (1,6 veces el arroz) porque no hay evaporación. Reparte los guisantes por encima sin remover.",
-    "Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 4 minutos.",
+    "Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 4 minutos. Mientras, pica el cilantro.",
     "Retira del fuego y libera la presión poniendo la olla bajo el grifo de agua fría. Abre y deja reposar 2 minutos tapado con un paño.",
     "Retira las especias enteras, esponja el arroz con un tenedor y sirve con el yogur y el cilantro picado."
   ],
@@ -608,13 +609,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas y cáscalas en trozos de 3 cm: clava el cuchillo un poco y haz palanca hasta que el trozo se rompa. La superficie irregular suelta almidón y espesa el caldo sin harina.",
-    "Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla y el pimiento picados 3 minutos. Añade el ajo picado y remueve 30 segundos.",
+    "Pela las patatas y cáscalas en trozos de 3 cm: clava el cuchillo un poco y haz palanca hasta que el trozo se rompa. La superficie irregular suelta almidón y espesa el caldo sin harina. Pica la cebolla, el pimiento y el ajo.",
+    "Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla y el pimiento 3 minutos. Añade el ajo y remueve 30 segundos.",
     "Aparta la olla del fuego, añade el pimentón y remueve 10 segundos: fuera del fuego no se quema ni amarga.",
-    "Incorpora las patatas, el laurel y el caldo justo hasta cubrir, y sala. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 4 minutos.",
+    "Incorpora las patatas, el laurel y el caldo justo hasta cubrir, y sala. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 4 minutos. Mientras, sala los tacos de bacalao y pica el perejil.",
     "Libera la presión bajo el grifo de agua fría y abre la olla.",
-    "Sala los tacos de bacalao, ponlos encima de las patatas y cuece sin tapa, a fuego suave, 3 minutos. Mueve la olla por las asas en vez de remover, para no romper el pescado.",
-    "Deja reposar 1 minuto, espolvorea perejil picado y sirve en plato hondo."
+    "Pon los tacos de bacalao encima de las patatas y cuece sin tapa, a fuego suave, 3 minutos. Mueve la olla por las asas en vez de remover, para no romper el pescado.",
+    "Deja reposar 1 minuto, espolvorea el perejil picado y sirve en plato hondo."
   ],
   nutricion: { kcal: 465, prot: 33, hc: 49, grasa: 15 },
   etiquetas: ["rápida", "15 minutos", "olla exprés", "de cuchara", "ligera", "tupper", "detox", "poco especiada", "bajo en colesterol"],
@@ -654,8 +655,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta los pimientos y la cebolla en tiras de 1 cm y el halloumi en bastones del mismo grosor.",
-    "Haz el guacamole: aplasta el aguacate con un tenedor y mézclalo con sal, el zumo de media lima, el tomate picado sin semillas (para que no quede aguado) y la mitad del cilantro picado.",
+    "Corta los pimientos y la cebolla en tiras de 1 cm y el halloumi en bastones del mismo grosor. Pica el tomate sin semillas (para que no quede aguado) y el cilantro.",
+    "Haz el guacamole: aplasta el aguacate con un tenedor y mézclalo con sal, el zumo de media lima, el tomate y la mitad del cilantro.",
     "Calienta el aceite en una sartén grande a fuego fuerte y saltea los pimientos y la cebolla 5 minutos, removiendo poco, hasta que estén tostados en los bordes pero aún crujientes.",
     "Añade el comino, el pimentón y el orégano solo en el último minuto (si van antes, se queman), sala y riega con unas gotas de lima. Sácalos a un plato.",
     "En la misma sartén, sin aceite, dora el halloumi 1-2 minutos por cada lado. No necesita sal: ya es salado y suelta su propia grasa.",
@@ -697,7 +698,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Calienta el aceite en una sartén antiadherente grande a fuego medio-alto y echa los gnocchi directamente del paquete, sin hervir, en una sola capa. Añade 2 cucharadas de agua y tapa 2 minutos: el vapor los hace por dentro.",
-    "Destapa y dóralos 4-5 minutos, moviendo la sartén de vez en cuando, hasta que estén dorados y crujientes por fuera. Al no hervirlos, la superficie se tuesta en lugar de volverse pegajosa. Sácalos a un plato.",
+    "Destapa y dóralos 4-5 minutos, moviendo la sartén de vez en cuando, hasta que estén dorados y crujientes por fuera. Al no hervirlos, la superficie se tuesta en lugar de volverse pegajosa. Mientras, pica el ajo. Saca los gnocchi a un plato.",
     "En la misma sartén, a fuego medio, funde la mantequilla con las hojas de salvia. En 1 minuto la mantequilla dejará de espumar, se tostará y olerá a avellana: es la mantequilla noisette. Saca la salvia, que estará crujiente.",
     "Sube el fuego y saltea los champiñones con el ajo picado en esa mantequilla 3 minutos, hasta que se doren. Sala al final para que no suelten agua antes de dorarse.",
     "Añade las espinacas y remueve 30 segundos, solo hasta que se ablanden.",
@@ -741,7 +742,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y el tomate, ralla el ajo y el jengibre y corta el chile en rodajas. Desmenuza el paneer con los dedos en migas irregulares, como si fuera un revuelto.",
+    "Pica la cebolla y el tomate, ralla el ajo y el jengibre, corta el chile en rodajas y pica el cilantro. Desmenuza el paneer con los dedos en migas irregulares, como si fuera un revuelto.",
     "Calienta el aceite en una sartén a fuego medio-alto y tuesta el comino 20 segundos, hasta que chisporrotee.",
     "Añade la cebolla y cocina 3 minutos, hasta que se dore por los bordes. Incorpora el ajo, el jengibre y el chile y remueve 30 segundos.",
     "Añade la cúrcuma y remueve 10 segundos: en la grasa caliente suelta su color y pierde el sabor terroso. Agrega el tomate, los guisantes y sal y cocina 4 minutos, hasta que el tomate se deshaga en una salsa espesa.",
@@ -787,7 +788,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Haz el pico de gallo: tomate en dados pequeños, cebolla morada y chile picados finos, la mitad del cilantro, el zumo de media lima y sal. Déjalo reposar para que suelte sus jugos.",
+    "Corta el tomate en dados pequeños y pica finos la cebolla morada, el chile y el cilantro. Haz el pico de gallo mezclando el tomate, la cebolla, el chile, la mitad del cilantro, el zumo de media lima y sal. Déjalo reposar para que suelte sus jugos.",
     "Envuelve el tofu en papel de cocina y apriétalo con las manos 1 minuto: cuanta menos agua tenga, mejor se dora.",
     "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y desmenuza el tofu con los dedos en trozos irregulares. Cocínalo 4 minutos removiendo poco, hasta que se dore en algunos puntos.",
     "Añade el comino, la cúrcuma (da el color de huevo) y el pimentón, remueve 30 segundos y sala. Si tienes kala namak, añádela al final: su toque sulfuroso recuerda al huevo.",
@@ -831,10 +832,10 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cda" }
   ],
   pasos: [
-    "Pon a hervir agua en el hervidor y cubre los fideos de arroz con ella en un bol durante 5-6 minutos. Escúrrelos y pásalos por agua fría para que no se peguen.",
+    "Pon a hervir agua en el hervidor y cubre los fideos de arroz con ella en un bol durante 5-6 minutos. Mientras, corta el calabacín en medias lunas. Escurre los fideos y pásalos por agua fría para que no se peguen.",
     "Calienta el aceite en un wok a fuego medio y fríe la pasta de curry 1 minuto, aplastándola con la cuchara, hasta que huela intensamente: freírla es como hacer un sofrito, libera aromas que en crudo no salen.",
     "Añade 3 cucharadas de la parte más espesa de la leche de coco (la nata de arriba de la lata) y remueve 1 minuto, hasta que veas que el aceite se separa y brilla. Así se «rompe» el coco, al estilo tailandés, y la salsa gana sabor.",
-    "Vierte el resto de la leche de coco, el caldo, la soja y el azúcar y lleva a ebullición. Añade el calabacín en medias lunas y los garbanzos y cuece 5 minutos, hasta que el calabacín esté tierno.",
+    "Vierte el resto de la leche de coco, el caldo, la soja y el azúcar y lleva a ebullición. Añade el calabacín y los garbanzos y cuece 5 minutos, hasta que el calabacín esté tierno.",
     "Incorpora las espinacas y cocina 1 minuto, hasta que se ablanden.",
     "Aparta del fuego, añade el zumo de media lima y la albahaca en hojas y prueba: debe estar salado, dulce, ácido y picante a la vez. Corrige con soja, azúcar o lima.",
     "Reparte los fideos en cuencos y sirve el curry por encima, con gajos de lima."
@@ -874,9 +875,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon las lentejas en un colador, enjuágalas bajo el grifo con cuidado y déjalas escurrir bien: quitas el líquido salado del bote y, más secas, se saltean sin convertirse en puré.",
+    "Pon las lentejas en un colador, enjuágalas bajo el grifo con cuidado y déjalas escurrir bien: quitas el líquido salado del bote y, más secas, se saltean sin convertirse en puré. Mientras escurren, corta el pimiento rojo en dados de 1 cm y lamina el ajo.",
     "Pon el chorizo en una sartén grande a fuego medio, sin aceite, y cocínalo 2 minutos, hasta que suelte su grasa roja.",
-    "Añade el pimiento rojo en dados de 1 cm y saltéalo 3 minutos, hasta que se ablande y tenga los bordes tostados.",
+    "Añade el pimiento y saltéalo 3 minutos, hasta que se ablande y tenga los bordes tostados.",
     "Incorpora el ajo laminado y el comino 30 segundos, y luego las lentejas. Saltea 3 minutos a fuego medio-alto, removiendo con una espátula de abajo arriba, sin aplastar, para que se impregnen de la grasa del chorizo.",
     "Añade las espinacas a puñados y remueve 1 minuto, hasta que se ablanden. Aparta del fuego, añade el vinagre y prueba antes de salar: el chorizo ya aporta sal y el vinagre despierta el plato.",
     "En otra sartén, calienta el aceite a fuego medio-alto y fríe los huevos 2 minutos, echando aceite caliente con una cuchara sobre la clara para que cuaje por arriba sin pasar la yema.",
@@ -919,8 +920,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Haz la salsa: calienta 1 cucharada de aceite en una sartén a fuego medio y sofríe la cebolla y el chile picados 3 minutos; añade el ajo picado 30 segundos. Incorpora el tomate y sal y cuece 4 minutos; en los 2 últimos, añade los guisantes y el jamón.",
-    "Pon las alubias en un bol con el comino, sal y 3 cucharadas de agua, caliéntalas 2 minutos al microondas y aplasta la mitad con un tenedor: harán de pegamento entre la tortilla y el huevo.",
+    "Pica la cebolla, el chile y el ajo. Haz la salsa: calienta 1 cucharada de aceite en una sartén a fuego medio y sofríe la cebolla y el chile 3 minutos; añade el ajo 30 segundos. Incorpora el tomate y sal y cuece 4 minutos; en los 2 últimos, añade los guisantes y el jamón.",
+    "Mientras cuece la salsa, pon las alubias en un bol con el comino, sal y 3 cucharadas de agua, caliéntalas 2 minutos al microondas y aplasta la mitad con un tenedor: harán de pegamento entre la tortilla y el huevo.",
     "En otra sartén, con unas gotas de aceite, tuesta las tortillas 30 segundos por cada lado, hasta que los bordes estén crujientes: una base firme aguanta la salsa sin deshacerse.",
     "Saca las tortillas y, en la misma sartén, fríe los huevos con el resto del aceite 2 minutos, con la yema líquida.",
     "Monta cada plato: dos tortillas, una capa de frijoles, dos huevos encima y la salsa con guisantes y jamón por encima de todo.",
@@ -963,9 +964,10 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 2, u: "cda", nota: "suave" }
   ],
   pasos: [
-    "Pon a hervir agua en el hervidor y pásala a un cazo. Cuece los fideos 1 minuto menos de lo que indique el paquete (3-4 minutos): terminarán de hacerse en el wok. Escúrrelos, pásalos por agua fría y mézclalos con el aceite de sésamo para que no se peguen.",
-    "Mezcla el pollo con 1 cucharada de soja y la maicena: esa capa lo protege del fuego fuerte y lo deja jugoso.",
-    "Corta la col en tiras finas, la zanahoria en bastoncitos y la cebolleta en tramos de 3 cm. Pica el ajo y el jengibre. En un vaso, mezcla el resto de la soja, la salsa de ostras y 2 cucharadas de agua.",
+    "Pon a hervir agua en el hervidor. Mientras, mezcla el pollo con 1 cucharada de soja y la maicena: esa capa lo protege del fuego fuerte y lo deja jugoso.",
+    "Pasa el agua a un cazo y cuece los fideos 1 minuto menos de lo que indique el paquete (3-4 minutos): terminarán de hacerse en el wok.",
+    "Mientras se cuecen, corta la col en tiras finas, la zanahoria en bastoncitos y la cebolleta en tramos de 3 cm. Pica el ajo y el jengibre. En un vaso, mezcla el resto de la soja, la salsa de ostras y 2 cucharadas de agua.",
+    "Escurre los fideos, pásalos por agua fría y mézclalos con el aceite de sésamo para que no se peguen.",
     "Calienta el wok a fuego máximo con 1 cucharada de aceite y saltea el pollo 2-3 minutos, hasta que esté dorado. Sácalo.",
     "Añade el resto del aceite, la zanahoria y la col y saltea 2 minutos; incorpora el ajo y el jengibre 30 segundos.",
     "Añade los fideos y la salsa y saltéalos 2 minutos con unas pinzas, dejándolos quietos a ratos para que se tuesten en contacto con el wok.",
@@ -1004,12 +1006,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua del hervidor en una cazuela grande con sal.",
-    "Mientras, pon las lonchas de jamón en una sartén seca a fuego medio 2-3 minutos, dándoles la vuelta, hasta que estén crujientes: al perder agua concentran su sabor. Sácalas y desmenúzalas.",
+    "Pon a hervir agua del hervidor en una cazuela grande con sal. Ralla la piel del limón y pica la menta.",
+    "Mientras el agua llega a ebullición, pon las lonchas de jamón en una sartén seca a fuego medio 2-3 minutos, dándoles la vuelta, hasta que estén crujientes: al perder agua concentran su sabor. Sácalas y desmenúzalas.",
     "Cuece los tortellini con los guisantes congelados el tiempo que indique el paquete (unos 3 minutos). Antes de escurrir, guarda un vaso del agua de cocción.",
     "En la sartén del jamón, a fuego medio, funde la mantequilla con la ralladura del limón 30 segundos.",
     "Añade los tortellini y los guisantes escurridos, 4 cucharadas del agua de cocción, el zumo de medio limón y el parmesano. Mueve la sartén 1 minuto, hasta que se forme una salsa cremosa que envuelva la pasta: el almidón del agua une la mantequilla y el queso.",
-    "Sirve con el jamón crujiente por encima, pimienta recién molida y menta picada."
+    "Sirve con el jamón crujiente por encima, pimienta recién molida y la menta picada."
   ],
   nutricion: { kcal: 735, prot: 35, hc: 75, grasa: 33 },
   etiquetas: ["rápida", "15 minutos", "para invitados", "para niños", "poco especiada"],
@@ -1090,12 +1092,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tritura la mitad del maíz con 100 ml del caldo hasta obtener una crema: dará cuerpo a la sopa sin nata.",
-    "Corta el pollo en dados muy pequeños, de 1 cm, y mézclalo con media cucharada de soja y 1 cucharadita de maicena.",
-    "Pon el resto del caldo en una cazuela con el maíz triturado, el maíz entero y el jengibre en rodajas, y lleva a ebullición.",
+    "Corta el pollo en dados muy pequeños, de 1 cm, y mézclalo con media cucharada de soja y 1 cucharadita de maicena. Corta el jengibre en rodajas y la cebolleta en aros.",
+    "Pon el resto del caldo en una cazuela con el maíz triturado, el maíz entero y el jengibre, y lleva a ebullición.",
     "Añade el pollo separando los trozos con unos palillos y cuece 3 minutos a fuego suave, hasta que esté blanco por dentro.",
     "Disuelve el resto de la maicena en 3 cucharadas de agua fría (en polvo directamente haría grumos), viértela en la sopa removiendo y cocina 1 minuto, hasta que espese ligeramente.",
     "Bate los huevos. Apaga el fuego, remueve la sopa en círculos y vierte el huevo en un hilo fino desde cierta altura, a través de un tenedor. Espera 10 segundos antes de remover: así cuaja en hebras largas y sedosas.",
-    "Retira el jengibre, añade el resto de la soja, el aceite de sésamo, la pimienta blanca y la cebolleta en aros, prueba de sal y sirve."
+    "Retira el jengibre, añade el resto de la soja, el aceite de sésamo, la pimienta blanca y la cebolleta, prueba de sal y sirve."
   ],
   nutricion: { kcal: 355, prot: 30, hc: 34, grasa: 11 },
   etiquetas: ["rápida", "15 minutos", "ligera", "de cuchara", "para niños", "poco especiada", "bajo en colesterol"],

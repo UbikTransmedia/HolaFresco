@@ -36,7 +36,7 @@ window.RECETAS_SEED.push({
     "Corta el calabacín en medias lunas de 2 cm y el pimiento en cuadrados de 3 cm, y alíñalos con el resto del aceite y una pizca de sal.",
     "Ensarta en 4-6 palitos de brocheta que quepan en la cesta, alternando pavo, calabacín y pimiento. Si los palitos son de madera, mójalos antes para que no se quemen.",
     "Cocina en la airfryer a 200 °C durante 10-12 minutos, en una sola capa y girando las brochetas a mitad, hasta que el pavo esté dorado por fuera y blanco y jugoso en el centro.",
-    "Mientras, mezcla el yogur con el zumo de medio limón, el perejil picado, sal y pimienta.",
+    "Mientras, pica el perejil y mézclalo con el yogur, el zumo de medio limón, sal y pimienta.",
     "Sirve las brochetas con la salsa de yogur por encima y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 358, prot: 38, hc: 11, grasa: 18 },
@@ -122,9 +122,9 @@ window.RECETAS_SEED.push({
     "Escurre el tofu, sécalo apretándolo entre papel de cocina y córtalo en dados de 2 cm. Rebózalo en un bol con la maicena y media cucharada de aceite de oliva.",
     "Limpia las coles de Bruselas, quítales las hojas exteriores estropeadas y pártelas por la mitad. Alíñalas con el resto del aceite de oliva y una pizca de sal.",
     "Pon las coles en la airfryer a 190 °C durante 6 minutos. Añade el tofu, agita la cesta y cocina 10-12 minutos más, agitando a mitad, hasta que el tofu esté dorado y crujiente y las coles tostadas por los bordes y tiernas al pincharlas.",
-    "Mientras, mezcla en un bol grande el miso, la salsa de soja, el sirope, el vinagre de arroz, el aceite de sésamo y 1 cucharada de agua hasta tener un glaseado sin grumos.",
+    "Mientras, mezcla en un bol grande el miso, la salsa de soja, el sirope, el vinagre de arroz, el aceite de sésamo y 1 cucharada de agua hasta tener un glaseado sin grumos. Pica la cebolleta.",
     "Vuelca el tofu y las coles calientes en el bol del glaseado y remueve para que se impregnen bien.",
-    "Sirve con el sésamo y la cebolleta picada por encima."
+    "Sirve con el sésamo y la cebolleta por encima."
   ],
   nutricion: { kcal: 426, prot: 27, hc: 25, grasa: 24 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "vegana", "alta en proteína", "fácil", "tupper", "económica", "poco especiada", "bajo en colesterol"],
@@ -207,10 +207,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta los calabacines a lo largo en láminas de 3-4 mm con una mandolina o un pelador ancho. Píntalas con un poco de aceite y sal y cocínalas en la airfryer a 180 °C durante 3-4 minutos, en dos tandas si no caben, solo hasta que estén flexibles.",
-    "Mientras, mezcla el requesón con el huevo, la mitad del parmesano, la mitad de la menta picada, la ralladura del medio limón, sal y pimienta.",
+    "Mientras, pica la menta y mezcla el requesón con el huevo, la mitad del parmesano, la mitad de la menta, la ralladura del medio limón, sal y pimienta.",
     "Pon una cucharada de relleno en un extremo de cada lámina y enróllala. Coloca los rollitos bien juntos en un molde que quepa en la cesta.",
     "Espolvorea el resto del parmesano y los piñones y cocina a 180 °C durante 8-10 minutos, hasta que el relleno cuaje y la superficie esté dorada.",
-    "Mientras, ralla los tomates, desecha la piel y alíñalos con el resto del aceite, sal y unas hojas de menta picadas.",
+    "Mientras, ralla los tomates, desecha la piel y alíñalos con el resto del aceite, sal y un poco de la menta picada.",
     "Sirve los rollitos sobre el tomate rallado con unas gotas de limón."
   ],
   nutricion: { kcal: 408, prot: 25, hc: 15, grasa: 28 },
@@ -252,7 +252,7 @@ window.RECETAS_SEED.push({
     "Pela las zanahorias y córtalas en bastones de 1 cm. Mézclalas con los garbanzos, media cucharada de aceite, el comino y sal, y cocina en la airfryer a 190 °C durante 6 minutos.",
     "Mientras, mezcla las tiras de pollo con la harissa, el ajo rallado, el resto del aceite y sal.",
     "Agita la cesta, coloca el pollo encima en una capa lo más uniforme posible y cocina a 200 °C durante 10-12 minutos, removiendo a mitad, hasta que el pollo esté dorado por los bordes y sin rastro rosado por dentro.",
-    "Mezcla el yogur con la menta picada, el zumo del medio limón, sal y 1 cucharada de agua para aligerarlo.",
+    "Mientras se hace el pollo, pica la menta y mézclala con el yogur, el zumo del medio limón, sal y 1 cucharada de agua para aligerarlo.",
     "Sirve el pollo con las zanahorias y los garbanzos y el yogur a la menta por encima."
   ],
   nutricion: { kcal: 504, prot: 44, hc: 31, grasa: 22 },
@@ -292,7 +292,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Parte las berenjenas por la mitad a lo largo y haz cortes en rombo en la carne sin llegar a la piel. Píntalas con 1 cucharada de aceite y sal.",
     "Cocínalas en la airfryer con la carne hacia arriba a 200 °C durante 15-16 minutos, hasta que estén muy tiernas al pincharlas y doradas por encima.",
-    "Mientras, mezcla los garbanzos con el tomate picado, el ras el hanout, el resto del aceite, sal y la mitad del perejil picado.",
+    "Mientras, pica el tomate y el perejil y mezcla los garbanzos con el tomate, el ras el hanout, el resto del aceite, sal y la mitad del perejil.",
     "Bate el tahini con el zumo de medio limón, el ajo rallado, sal y 2-3 cucharadas de agua fría hasta que quede una salsa cremosa y fluida.",
     "Los últimos 4 minutos, aplasta un poco la carne de la berenjena con un tenedor, reparte encima los garbanzos y termina la cocción para que se calienten.",
     "Sirve con la salsa de tahini, el resto del perejil y unas gotas de limón."
@@ -333,7 +333,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla la almendra molida con el parmesano, el perejil picado, el ajo en polvo, la ralladura del limón y media cucharada de aceite hasta tener una arena húmeda.",
+    "Pica el perejil y mezcla la almendra molida con el parmesano, el perejil, el ajo en polvo, la ralladura del limón y media cucharada de aceite hasta tener una arena húmeda.",
     "Quita la parte dura de los espárragos, alíñalos junto con los tomates cherry con media cucharada de aceite y sal, y cocínalos en la airfryer a 200 °C durante 4 minutos.",
     "Mientras, seca la merluza con papel de cocina, sálala ligeramente y cubre la parte de arriba con la costra, apretando con los dedos.",
     "Aparta las verduras a los lados de la cesta, coloca la merluza en el centro y cocina a 190 °C durante 8-9 minutos, hasta que la costra esté dorada y la merluza se separe en lascas.",
@@ -594,9 +594,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica fina la cebolla y ralla el ajo y el jengibre. Ponlos en un bol grande apto para microondas con el aceite y cocina a 800 W durante 2 minutos, hasta que la cebolla se ablande.",
     "Añade el garam masala, la cúrcuma y el comino, remueve y cocina 30 segundos más para que las especias suelten su aroma.",
-    "Incorpora el tomate triturado, las lentejas, la leche de coco y sal. Tapa dejando una rendija y cocina 5 minutos, removiendo a mitad.",
+    "Incorpora el tomate triturado, las lentejas, la leche de coco y sal. Tapa dejando una rendija y cocina 5 minutos, removiendo a mitad. Mientras, pica el cilantro.",
     "Añade las espinacas, remueve y cocina tapado 2 minutos más, hasta que se reduzcan. Aplasta un tercio de las lentejas con un tenedor para que el dal quede cremoso.",
-    "Sirve en cuencos con una cucharada de yogur y el cilantro picado por encima."
+    "Sirve en cuencos con una cucharada de yogur y el cilantro por encima."
   ],
   nutricion: { kcal: 507, prot: 29, hc: 55, grasa: 19 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "vegetariana", "sin gluten", "fácil", "tupper", "batch cooking", "ideal para llevar", "económica", "superalimentos"],
@@ -633,10 +633,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia los mejillones bajo el grifo, quítales las barbas tirando hacia la punta y desecha los que estén rotos o abiertos que no se cierren al golpearlos.",
-    "En una fuente grande apta para microondas mezcla el aceite, el ajo picado, el tomate rallado y el curry, y cocina a 800 W durante 2 minutos.",
-    "Añade el vino y los mejillones, tapa bien y cocina a 800 W durante 4-5 minutos, removiendo a mitad, hasta que se abran todos. Desecha los que sigan cerrados.",
+    "Pica el ajo y ralla el tomate. En una fuente grande apta para microondas mézclalos con el aceite y el curry, y cocina a 800 W durante 2 minutos.",
+    "Añade el vino y los mejillones, tapa bien y cocina a 800 W durante 4-5 minutos, removiendo a mitad, hasta que se abran todos. Desecha los que sigan cerrados. Mientras, pica el cilantro.",
     "Pasa los mejillones a un cuenco y el líquido de la fuente a un bol; deja templar 1 minuto y mézclalo con el yogur batiendo con unas varillas, para que no se corte.",
-    "Vierte la salsa sobre los mejillones, espolvorea el cilantro picado, exprime el limón por encima y sirve."
+    "Vierte la salsa sobre los mejillones, espolvorea el cilantro, exprime el limón por encima y sirve."
   ],
   nutricion: { kcal: 294, prot: 27, hc: 15, grasa: 14 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "económica"],
@@ -717,8 +717,7 @@ window.RECETAS_SEED.push({
     "Pon el pavo picado en un bol apto para microondas con 2 cucharadas de agua y desmenúzalo con un tenedor. Tapa y cocina a 800 W durante 2 minutos.",
     "Remueve deshaciendo los grumos y cocina 2-3 minutos más, en tandas de 1 minuto, hasta que no quede nada rosado. Escurre el exceso de líquido.",
     "Mientras, corta la cebolla morada en plumas muy finas, pica el chile sin semillas y trocea grueso las hojas de menta y cilantro.",
-    "Aliña el pavo aún caliente con el zumo de las limas, la salsa de pescado, la cebolla y el chile. Deja 2 minutos para que absorba el aliño y añade las hierbas.",
-    "Machaca los cacahuetes groseramente y corta el pepino en bastones.",
+    "Aliña el pavo aún caliente con el zumo de las limas, la salsa de pescado, la cebolla y el chile. Deja 2 minutos para que absorba el aliño; mientras, machaca los cacahuetes groseramente y corta el pepino en bastones. Añade las hierbas.",
     "Sirve el larb en las hojas de cogollo, con los cacahuetes por encima y el pepino al lado."
   ],
   nutricion: { kcal: 316, prot: 35, hc: 12, grasa: 14 },
@@ -931,10 +930,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica los pimientos, la cebolleta y el pepino en dados pequeños de medio centímetro, todos de un tamaño parecido.",
-    "Bate el aceite con el vinagre, el zumo de la lima, el perejil picado y sal hasta emulsionar.",
+    "Pica el perejil y bátelo con el aceite, el vinagre, el zumo de la lima y sal hasta emulsionar.",
     "Trocea las gambas en dos o tres trozos y el surimi en rodajas.",
-    "Mezcla las verduras, las gambas y el surimi con la vinagreta y deja reposar 5 minutos en la nevera para que se mezclen los sabores.",
-    "Añade el aguacate en dados justo antes de servir y mezcla con cuidado."
+    "Mezcla las verduras, las gambas y el surimi con la vinagreta y deja reposar 5 minutos en la nevera para que se mezclen los sabores. Mientras, corta el aguacate en dados.",
+    "Añade el aguacate justo antes de servir y mezcla con cuidado."
   ],
   nutricion: { kcal: 424, prot: 31, hc: 22, grasa: 24 },
   etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "alta en proteína", "fácil", "tupper", "verano", "poco especiada"],

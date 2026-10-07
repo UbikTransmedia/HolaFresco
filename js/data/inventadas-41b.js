@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Mezcla en un plato el pimentón, el ajo en polvo, el comino, el orégano, la cayena y una pizca de sal.",
     "Seca bien el abadejo, píntalo con la mitad del aceite y rebózalo por todas partes en la mezcla de especias.",
     "Cocina en la airfryer a 200 °C durante 8-10 minutos, sin darle la vuelta, hasta que la superficie esté tostada y el pescado se separe en lascas.",
-    "Mientras, corta la col en tiras muy finas y ralla la zanahoria. Mezcla el yogur con la mostaza, el zumo de media lima, el resto del aceite y sal.",
+    "Mientras, corta la col en tiras muy finas, ralla la zanahoria y pica el cebollino. Mezcla el yogur con la mostaza, el zumo de media lima, el resto del aceite y sal.",
     "Mezcla la col, la zanahoria y el maíz con el aliño y el cebollino picado.",
     "Sirve el abadejo sobre la ensalada con gajos de lima."
   ],
@@ -82,11 +82,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Escurre el tofu, sécalo apretándolo con papel de cocina y córtalo en dados de 2,5 cm.",
+    "Escurre el tofu, sécalo apretándolo con papel de cocina y córtalo en dados de 2,5 cm. Pela y ralla el ajo y el jengibre.",
     "Mezcla 4 cucharadas de yogur con el garam masala, el pimentón, la cúrcuma, el comino, el ajo y el jengibre rallados, el zumo de medio limón, el aceite y sal. Reboza el tofu en la mezcla y deja 5 minutos mientras cortas la verdura.",
     "Corta el pimiento y la cebolla en cuadrados de 3 cm y ensarta en palitos alternando con el tofu.",
     "Cocina en la airfryer a 200 °C durante 12-14 minutos, girando a mitad, hasta que el tofu tenga los bordes tostados y la verdura esté tierna.",
-    "Mientras, ralla medio pepino, escúrrelo y mézclalo con el resto del yogur, la menta picada, sal y unas gotas de limón. Corta el resto del pepino en rodajas.",
+    "Mientras, ralla medio pepino, escúrrelo y pica la menta. Mezcla el pepino rallado con el resto del yogur, la menta picada, sal y unas gotas de limón. Corta el resto del pepino en rodajas.",
     "Sirve los pinchos con la raita y el pepino en rodajas."
   ],
   nutricion: { kcal: 423, prot: 32, hc: 18, grasa: 24 },
@@ -125,7 +125,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla los dados de patata con media cucharada de aceite y sal, y cocínalos en la airfryer a 200 °C durante 6 minutos.",
-    "Mientras, mezcla el pollo con el ajo rallado, el orégano, la ralladura y el zumo de medio limón, media cucharada de aceite, sal y pimienta.",
+    "Mientras, ralla el ajo y mezcla el pollo con el ajo rallado, el orégano, la ralladura y el zumo de medio limón, media cucharada de aceite, sal y pimienta.",
     "Despunta las judías verdes, córtalas por la mitad y alíñalas con el resto del aceite y sal.",
     "Agita la cesta, añade el pollo y las judías y cocina a 200 °C durante 12-13 minutos, removiendo a mitad, hasta que el pollo esté dorado y las patatas crujientes.",
     "Los últimos 2 minutos, esparce las almendras por encima para que se tuesten.",
@@ -169,10 +169,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla la mostaza con la miel, el tomillo, media cucharada de aceite y pimienta. Sala los medallones y úntalos con la mezcla.",
-    "Limpia los champiñones con papel húmedo, córtalos por la mitad y mézclalos con el ajo picado, media cucharada de aceite y sal.",
+    "Limpia los champiñones con papel húmedo, córtalos por la mitad y pica el ajo. Mezcla los champiñones con el ajo picado, media cucharada de aceite y sal.",
     "Pon los champiñones en la airfryer a 200 °C durante 5 minutos.",
     "Agita la cesta, coloca los medallones encima y cocina a 200 °C durante 8-10 minutos, hasta que estén dorados por fuera y ligeramente rosados en el centro. Déjalos reposar 2 minutos.",
-    "Mientras, aliña las espinacas con el resto del aceite, el vinagre y sal.",
+    "Mientras se hacen los medallones, pica el perejil y aliña las espinacas con el resto del aceite, el vinagre y sal.",
     "Sirve los medallones con los champiñones y su jugo, las espinacas y el perejil picado por encima."
   ],
   nutricion: { kcal: 362, prot: 42, hc: 9, grasa: 18 },
@@ -211,7 +211,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Engrasa con 1 cucharadita de aceite un molde que quepa en la cesta (de unos 18 cm). Pon dentro el brócoli y la cebolleta picada con una pizca de sal y cocina en la airfryer a 180 °C durante 4 minutos.",
+    "Pica la cebolleta. Engrasa con 1 cucharadita de aceite un molde que quepa en la cesta (de unos 18 cm). Pon dentro el brócoli y la cebolleta picada con una pizca de sal y cocina en la airfryer a 180 °C durante 4 minutos.",
     "Mientras, bate los huevos con la leche, el orégano, sal y pimienta, y pica el tomate seco.",
     "Añade el tomate seco al molde, vierte el huevo batido por encima y reparte el queso de cabra en trozos.",
     "Cocina a 160 °C durante 11-13 minutos, hasta que la frittata esté hinchada, dorada y firme en el centro al moverla.",
@@ -253,7 +253,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica el tomate, el pimiento verde y la cebolla morada en dados muy pequeños y mézclalos con las alcaparras, el vinagre, 1 cucharada de aceite, el perejil picado y sal.",
+    "Pica el tomate, el pimiento verde y la cebolla morada en dados muy pequeños, pica el perejil y mézclalo todo con las alcaparras, el vinagre, 1 cucharada de aceite y sal.",
     "Mezcla las judías con la mitad de la vinagreta y repártelas en los platos.",
     "Seca bien los lomos de caballa, píntalos con el resto del aceite y espolvorea el pimentón y sal por el lado de la carne.",
     "Colócalos en la cesta con la piel hacia arriba y cocina a 200 °C durante 6-7 minutos, hasta que la piel esté crujiente y la carne opaca.",
@@ -340,7 +340,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Parte los calabacines por la mitad a lo largo y vacíalos con una cucharilla dejando 1 cm de pared. Pica la pulpa.",
     "Pinta las barquitas con la mitad del aceite, sálalas y cocínalas en la airfryer a 190 °C durante 7-8 minutos, con el hueco hacia arriba, hasta que empiecen a ablandarse.",
-    "Mientras, mezcla la pulpa picada con la cebolla muy picada, el atún desmigado, el tomate triturado, las aceitunas picadas, el orégano, el resto del aceite, sal y pimienta.",
+    "Mientras, pica muy fina la cebolla y pica las aceitunas. Mezcla la pulpa picada con la cebolla, el atún desmigado, el tomate triturado, las aceitunas, el orégano, el resto del aceite, sal y pimienta.",
     "Rellena las barquitas, cubre con la mozzarella y cocina a 190 °C durante 6-7 minutos más, hasta que el queso esté fundido y dorado.",
     "Sirve calientes o templados."
   ],
@@ -380,9 +380,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Quita la parte dura de los espárragos, alíñalos con media cucharada de aceite y sal, y cocínalos en la airfryer a 200 °C durante 4 minutos.",
-    "Mientras, mezcla los langostinos con el ajo picado, el chile en rodajas finas, la ralladura de la lima, media cucharada de aceite y sal.",
+    "Mientras, pica el ajo y corta el chile en rodajas finas. Mezcla los langostinos con el ajo, el chile, la ralladura de la lima, media cucharada de aceite y sal.",
     "Añade los langostinos a la cesta con los espárragos y cocina a 200 °C durante 5-6 minutos, removiendo a mitad, hasta que estén rosados y opacos.",
-    "Mientras, mezcla la quinoa con el cilantro picado, el zumo de la lima, el resto del aceite y sal. Si la quieres templada, caliéntala 1 minuto en el microondas.",
+    "Mientras, pica el cilantro, lamina el aguacate y mezcla la quinoa con el cilantro picado, el zumo de la lima, el resto del aceite y sal. Si la quieres templada, caliéntala 1 minuto en el microondas.",
     "Sirve la quinoa con los espárragos, los langostinos y el aguacate en láminas."
   ],
   nutricion: { kcal: 609, prot: 44, hc: 49, grasa: 26 },
@@ -424,7 +424,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el calabacín y el pimiento en dados de 1 cm y ponlos en un bol grande apto para microondas con el aceite, la harissa, el comino y sal. Tapa y cocina a 800 W durante 4 minutos.",
     "Calienta el caldo en una jarra en el microondas 1 minuto y medio, hasta que hierva.",
-    "Añade el cuscús al bol de las verduras, vierte el caldo hirviendo, remueve, tapa y deja reposar 5 minutos.",
+    "Añade el cuscús al bol de las verduras, vierte el caldo hirviendo, remueve, tapa y deja reposar 5 minutos. Mientras reposa, pica la menta.",
     "Suelta el cuscús con un tenedor, incorpora el pollo desmenuzado y calienta 1 minuto más.",
     "Sirve con el yogur, la menta picada y un chorrito de limón."
   ],
@@ -467,7 +467,7 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 0.5, u: "ud", opcional: true }
   ],
   pasos: [
-    "Calienta 1 litro de agua en una jarra en el microondas a 800 W durante 5-6 minutos, hasta que hierva. Pon los fideos en un bol, cúbrelos con el agua y déjalos 6-8 minutos, hasta que estén tiernos. Escúrrelos y pásalos por agua fría.",
+    "Calienta 1 litro de agua en una jarra en el microondas a 800 W durante 5-6 minutos, hasta que hierva. Mientras, pela y ralla el jengibre. Pon los fideos en un bol, cúbrelos con el agua y déjalos 6-8 minutos, hasta que estén tiernos. Escúrrelos y pásalos por agua fría.",
     "Mientras se hidratan, pon las gambas en un plato apto para microondas con la mitad del jengibre rallado y una pizca de sal. Tapa y cocina a 800 W durante 2-3 minutos, removiendo a mitad, hasta que estén rosadas.",
     "Mezcla el zumo de la lima con la salsa de pescado, el tamari, la miel, el aceite de sésamo y el resto del jengibre.",
     "Ralla la zanahoria, pica la cebolleta y el chile, y trocea los cacahuetes.",
@@ -509,7 +509,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el brócoli y el ajo laminado en un bol grande apto para microondas con 150 ml de caldo y una pizca de sal. Tapa dejando una rendija y cocina a 800 W durante 7-8 minutos, hasta que el tallo esté tierno.",
+    "Lamina el ajo. Pon el brócoli y el ajo laminado en un bol grande apto para microondas con 150 ml de caldo y una pizca de sal. Tapa dejando una rendija y cocina a 800 W durante 7-8 minutos, hasta que el tallo esté tierno.",
     "Añade las judías y el resto del caldo, y cocina 2 minutos más para que todo esté bien caliente.",
     "Reserva unos arbolitos de brócoli para decorar y tritura el resto con la batidora junto con 1 cucharada de aceite y dos tercios del parmesano hasta que quede muy fina.",
     "Ajusta de sal, pimienta y añade la ralladura y unas gotas del zumo del limón.",
@@ -551,9 +551,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas en una fuente apta para microondas con 3 cucharadas de agua y sal. Tapa y cocina a 800 W durante 6 minutos.",
-    "Añade las judías verdes despuntadas y partidas por la mitad, tapa y cocina 4 minutos más.",
-    "Coloca encima los lomos de merluza salados con unas rodajas de limón, rocía con el aceite, tapa y cocina 3-4 minutos, hasta que la merluza esté opaca y se separe en lascas.",
-    "Mientras, mezcla el yogur con la mostaza, el eneldo picado, el zumo de medio limón, sal y pimienta.",
+    "Mientras, despunta las judías verdes y pártelas por la mitad. Pica el eneldo y mézclalo con el yogur, la mostaza, el zumo de medio limón, sal y pimienta. Corta el otro medio limón en rodajas.",
+    "Añade las judías verdes a la fuente, tapa y cocina 4 minutos más.",
+    "Coloca encima los lomos de merluza salados con las rodajas de limón, rocía con el aceite, tapa y cocina 3-4 minutos, hasta que la merluza esté opaca y se separe en lascas.",
     "Deja reposar la fuente tapada 1 minuto y sirve el pescado y la verdura con la salsa fría por encima."
   ],
   nutricion: { kcal: 396, prot: 35, hc: 33, grasa: 14 },
@@ -590,11 +590,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Bate los huevos con la leche y una pizca de pimienta en un bol apto para microondas. No pongas sal: el salmón ya la aporta.",
+    "Corta el salmón en tiras y el cebollino fino. Bate los huevos con la leche y una pizca de pimienta en un bol apto para microondas. No pongas sal: el salmón ya la aporta.",
     "Añade la mantequilla y cocina a 800 W durante 30 segundos. Saca y remueve con un tenedor arrastrando lo cuajado de los bordes hacia el centro.",
     "Repite en tandas de 20-30 segundos, removiendo cada vez, hasta que esté cuajado pero todavía brillante y cremoso (unos 2 minutos en total). El calor residual terminará de hacerlo.",
-    "Mientras, tuesta el pan si quieres y corta el salmón en tiras y el cebollino fino.",
-    "Sirve el revuelto sobre el pan con el salmón por encima, el cebollino y los canónigos aliñados con unas gotas de limón."
+    "Tuesta el pan si quieres y aliña los canónigos con unas gotas de limón.",
+    "Sirve el revuelto sobre el pan con el salmón por encima, el cebollino y los canónigos."
   ],
   nutricion: { kcal: 361, prot: 28, hc: 21, grasa: 19 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "fácil", "omega 3", "poco especiada"],
@@ -634,9 +634,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y el ajo y ponlos en un bol grande apto para microondas con el aceite. Cocina a 800 W durante 2 minutos.",
-    "Añade el calabacín en dados de 1 cm, el comino y el chipotle picado, tapa y cocina 3 minutos más.",
-    "Incorpora las alubias, el maíz, el tomate triturado y sal. Tapa dejando una rendija y cocina 5 minutos, removiendo a mitad, hasta que la salsa espese un poco.",
+    "Pica la cebolla y el ajo y ponlos en un bol grande apto para microondas con el aceite. Cocina a 800 W durante 2 minutos. Mientras, corta el calabacín en dados de 1 cm y pica el chipotle.",
+    "Añade el calabacín, el comino y el chipotle picado, tapa y cocina 3 minutos más.",
+    "Incorpora las alubias, el maíz, el tomate triturado y sal. Tapa dejando una rendija y cocina 5 minutos, removiendo a mitad, hasta que la salsa espese un poco. Mientras, pica el cilantro.",
     "Reparte en dos cuencos y desmiga el queso fresco por encima.",
     "Termina con el cilantro picado y un chorrito de lima."
   ],
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la patata en rodajas finas y ponla en un plato hondo apto para microondas con 2 cucharadas de agua y sal. Tapa y cocina a 800 W durante 6-7 minutos, hasta que esté tierna. Reserva tapada.",
+    "Corta la patata en rodajas finas y ponla en un plato hondo apto para microondas con 2 cucharadas de agua y sal. Tapa y cocina a 800 W durante 6-7 minutos, hasta que esté tierna. Reserva tapada. Mientras se cuece, lamina los ajos y pica el perejil.",
     "Pon el aceite con los ajos laminados y la guindilla en una fuente pequeña de cristal. Cocina a 800 W en tandas de 1 minuto (2-3 minutos en total) hasta que los ajos estén dorados claros. Sácalos y resérvalos.",
     "Deja templar el aceite 2 minutos. Seca el bacalao, colócalo con la piel hacia arriba en el aceite y cocina a 800 W durante 2 minutos; dale la vuelta y cocina 1-2 minutos más, hasta que se separe en lascas y suelte su gelatina blanca.",
     "Pasa los lomos a un plato. Mueve la fuente con el aceite y los jugos en círculos, o bate con unas varillas, durante 2-3 minutos hasta que espese y blanquee: es el pil pil. Si no liga, añade el jugo que suelte el bacalao en el plato.",
@@ -759,9 +759,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el tempeh en un bol apto para microondas con 4 cucharadas de agua, tapa y cocina a 800 W durante 3 minutos: así pierde el amargor. Escurre el agua.",
-    "Mientras, bate la crema de cacahuete con el tamari, el zumo de media lima, el jengibre y el ajo rallados, el sirope, la sriracha y 4 cucharadas de agua caliente.",
+    "Mientras, ralla el jengibre y el ajo y bate la crema de cacahuete con el tamari, el zumo de media lima, el jengibre, el ajo, el sirope, la sriracha y 4 cucharadas de agua caliente.",
     "Vierte dos tercios de la salsa sobre el tempeh, mezcla, tapa y cocina 2 minutos más, hasta que la salsa burbujee y se pegue al tempeh.",
-    "Corta la col lombarda en tiras muy finas y ralla la zanahoria. Alíñalas con el resto de la salsa y el zumo de la otra media lima.",
+    "Mientras, corta la col lombarda en tiras muy finas, ralla la zanahoria y pica los cacahuetes. Aliña la col y la zanahoria con el resto de la salsa y el zumo de la otra media lima.",
     "Sirve el tempeh sobre la ensalada con los cacahuetes picados y el cilantro."
   ],
   nutricion: { kcal: 482, prot: 33, hc: 30, grasa: 26 },
@@ -841,10 +841,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca la cecina de la nevera 10 minutos antes para que se atempere y suelte su aroma.",
+    "Mientras se atempera, corta los tomates cherry en cuartos y alíñalos con el aceite y el vinagre balsámico, y pica groseramente las almendras.",
     "Reparte las lonchas de cecina en dos platos llanos, cubriendo toda la superficie.",
-    "Corta los tomates cherry en cuartos y alíñalos con el aceite y el vinagre balsámico.",
     "Coloca la rúcula en el centro, los tomates alrededor y, con un pelador, saca lascas del queso por encima.",
-    "Termina con las almendras picadas groseramente y pimienta recién molida."
+    "Termina con las almendras picadas y pimienta recién molida."
   ],
   nutricion: { kcal: 381, prot: 27, hc: 8, grasa: 27 },
   etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "alta en proteína", "sin gluten", "fácil", "keto", "poco especiada"],
@@ -883,7 +883,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Ralla la piel de la naranja, pélala a lo vivo y saca la mitad en gajos. Exprime la otra mitad.",
     "Bate el tahini con el zumo de naranja, el zumo del medio limón, la ralladura, el comino, sal y 1-2 cucharadas de agua hasta que quede cremoso y fluido.",
-    "Corta la lombarda en tiras muy finas, espolvoréala con una pizca de sal y masajéala 1 minuto con las manos para ablandarla. Ralla las zanahorias.",
+    "Corta la lombarda en tiras muy finas, espolvoréala con una pizca de sal y masajéala 1 minuto con las manos para ablandarla. Ralla las zanahorias y pica los pistachos.",
     "Mezcla en un bol la lombarda, la zanahoria, los garbanzos y el aliño.",
     "Sirve con los gajos de naranja, los pistachos picados y las hojas de menta por encima."
   ],
@@ -925,7 +925,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla el yogur con el kétchup, unas gotas de limón, sal y pimienta hasta tener una salsa rosa suave.",
     "Corta la manzana con piel en dados pequeños y riégala con el resto del zumo de limón para que no se oxide.",
-    "Corta el aguacate en dados y los cogollos en cuartos a lo largo.",
+    "Corta el aguacate en dados y los cogollos en cuartos a lo largo, y pica el cebollino.",
     "Mezcla las gambas con la manzana, el aguacate y dos tercios de la salsa.",
     "Sirve sobre los cogollos con el resto de la salsa, una pizca de pimentón y el cebollino picado."
   ],
@@ -966,7 +966,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta las hojas de kale en tiras finas y ponlas en un bol grande con el zumo de medio limón, 1 cucharada de aceite y una pizca de sal.",
     "Masajea el kale con las manos durante 2-3 minutos, apretando, hasta que reduzca su volumen a la mitad, se vuelva verde oscuro y brillante y esté tierno.",
-    "Bate el resto del aceite con el zumo del otro medio limón, el ajo rallado, sal y pimienta.",
+    "Ralla el ajo y bátelo con el resto del aceite, el zumo del otro medio limón, sal y pimienta. Pica el tomate seco y las almendras.",
     "Añade al kale las judías, el tomate seco picado y el aliño, y mezcla.",
     "Sirve con el parmesano en lascas y las almendras picadas por encima."
   ],
@@ -1052,7 +1052,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el yogur con el eneldo picado, el zumo del medio limón, sal y pimienta.",
+    "Pica el eneldo y mézclalo con el yogur, el zumo del medio limón, sal y pimienta.",
     "Machaca ligeramente los garbanzos con un tenedor, dejando algunos enteros.",
     "Pica el pepino, el tomate y la cebolla morada en dados pequeños.",
     "Mezcla en un bol el atún desmigado, los garbanzos, las verduras, el aceite y la mitad de la salsa de yogur.",

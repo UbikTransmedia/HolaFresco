@@ -36,12 +36,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la pechuga entera en la cazuela con el caldo y el laurel, lleva a ebullición y cuécela 15 minutos a fuego suave. Sácala a un plato y vierte el caldo en una jarra.",
-    "Lava las lentejas en un colador bajo el grifo; no hace falta remojarlas.",
-    "En la misma cazuela, calienta el aceite a fuego medio y pocha la cebolla, la zanahoria y los ajos picados 8 minutos, hasta que la cebolla esté transparente.",
+    "Pon la pechuga entera en la cazuela con el caldo y el laurel, lleva a ebullición y cuécela 15 minutos a fuego suave. Mientras, lava las lentejas en un colador bajo el grifo (no hace falta remojarlas) y pica la cebolla, la zanahoria y los ajos.",
+    "Saca la pechuga a un plato y vierte el caldo en una jarra.",
+    "En la misma cazuela, calienta el aceite a fuego medio y pocha la cebolla, la zanahoria y los ajos 8 minutos, hasta que la cebolla esté transparente.",
     "Añade el tomate y cocina 4 minutos. Aparta del fuego, incorpora el comino y el pimentón y remueve 20 segundos para que no amarguen.",
-    "Agrega las lentejas, la calabaza, el laurel y el caldo reservado. Tapa y cuece 25-30 minutos a fuego suave, hasta que la lenteja esté tierna y la calabaza empiece a deshacerse.",
-    "Desmenuza el pollo con dos tenedores, incorpóralo y cuece 5 minutos más. Prueba de sal y pimienta y retira el laurel.",
+    "Agrega las lentejas, la calabaza, el laurel y el caldo reservado. Tapa y cuece 25-30 minutos a fuego suave, hasta que la lenteja esté tierna y la calabaza empiece a deshacerse. Mientras, desmenuza el pollo con dos tenedores.",
+    "Incorpora el pollo desmenuzado y cuece 5 minutos más. Prueba de sal y pimienta y retira el laurel.",
     "Deja templar 10 minutos destapado y reparte en tuppers."
   ],
   nutricion: { kcal: 540, prot: 48, hc: 55, grasa: 14 },
@@ -84,7 +84,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y ponlo en un cazo con 280 ml de agua y sal. Cuando hierva, tapa y cuece 12 minutos a fuego mínimo; deja reposar 5 minutos tapado.",
-    "Mientras, calienta el aceite en una sartén grande y dora la cebolla picada 6-7 minutos a fuego medio. Añade el ajo y el jengibre rallados y remueve 1 minuto.",
+    "Mientras, pica la cebolla y ralla el ajo y el jengibre. Calienta el aceite en una sartén grande y dora la cebolla 6-7 minutos a fuego medio. Añade el ajo y el jengibre y remueve 1 minuto.",
     "Sube el fuego, añade el pavo y deshazlo con una cuchara de madera 5 minutos, hasta que pierda el color rosado.",
     "Incorpora el garam masala, el comino y la cúrcuma, remueve 30 segundos y añade el tomate. Cocina 8 minutos, hasta que la salsa espese y se oscurezca.",
     "Agrega los garbanzos y 100 ml de agua y cuece 5 minutos más.",
@@ -132,9 +132,9 @@ window.RECETAS_SEED.push({
     "Pica la cebolla, el pimiento y los ajos y pocha todo en el aceite a fuego medio 10 minutos, hasta que esté blando.",
     "Sube el fuego, añade el calamar bien seco y saltea 3 minutos, hasta que suelte el agua y esta se evapore.",
     "Aparta del fuego, añade el pimentón y remueve 20 segundos. Vuelve al fuego, vierte el vino y deja reducir 2 minutos.",
-    "Agrega el tomate, cocina 5 minutos, añade el caldo, tapa y cuece 25 minutos a fuego suave, hasta que el calamar esté tierno al pincharlo.",
+    "Agrega el tomate, cocina 5 minutos, añade el caldo, tapa y cuece 25 minutos a fuego suave, hasta que el calamar esté tierno al pincharlo. Mientras, pica el perejil.",
     "Incorpora las alubias y cuece 8 minutos sin tapa. Aplasta unas cuantas contra la pared de la cazuela para ligar el caldo.",
-    "Salpimienta, añade el perejil picado, deja reposar 5 minutos y reparte en tuppers."
+    "Salpimienta, añade el perejil, deja reposar 5 minutos y reparte en tuppers."
   ],
   nutricion: { kcal: 435, prot: 38, hc: 41, grasa: 13 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "ligera", "alta en proteína", "sin gluten", "fácil", "poco especiada"],
@@ -177,12 +177,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pocha la cebolla y el pimiento picados en el aceite a fuego medio 8 minutos. Añade el ajo picado y remueve 1 minuto.",
-    "Incorpora el comino, el orégano y el chipotle picado con una cucharada de su adobo y remueve 30 segundos.",
-    "Añade el tomate y cocina 5 minutos. Agrega el boniato y el caldo, tapa y cuece 15 minutos, hasta que el boniato esté tierno.",
+    "Pica la cebolla, el pimiento, el ajo y el chipotle. Pocha la cebolla y el pimiento en el aceite a fuego medio 8 minutos. Añade el ajo y remueve 1 minuto.",
+    "Incorpora el comino, el orégano y el chipotle con una cucharada de su adobo y remueve 30 segundos.",
+    "Añade el tomate y cocina 5 minutos. Agrega el boniato y el caldo, tapa y cuece 15 minutos, hasta que el boniato esté tierno. Mientras, desmenuza el queso fresco y pica el cilantro.",
     "Incorpora las alubias y el maíz y cuece 8 minutos sin tapa, hasta que espese. Chafa unas cuantas alubias para que quede cremoso.",
     "Prueba de sal y añade el zumo de la lima.",
-    "Reparte en tuppers y guarda el queso fresco desmenuzado y el cilantro en un recipiente aparte."
+    "Reparte en tuppers y guarda el queso fresco y el cilantro en un recipiente aparte."
   ],
   nutricion: { kcal: 455, prot: 21, hc: 66, grasa: 12 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "ligera", "picante", "sin gluten", "fácil", "económica", "bajo en colesterol"],
@@ -222,10 +222,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela en 200 ml de agua con sal 12 minutos tapada; reposa 5 minutos y extiéndela en un plato para que se enfríe.",
-    "Precalienta el horno a 200 °C. Pica el salmón a cuchillo en dados muy pequeños (o con 3-4 pulsos de picadora, sin hacerlo pasta).",
-    "Mezcla el salmón con la quinoa fría, el huevo, la cebolleta picada, la mitad del eneldo, la ralladura del limón, sal y pimienta. Forma 12 albóndigas con las manos húmedas.",
-    "Coloca las albóndigas en una bandeja con papel y las judías verdes despuntadas alrededor, rocía con el aceite y sala. Hornea 15-18 minutos, hasta que las albóndigas estén doradas y firmes al tocarlas.",
-    "Mezcla el yogur con el resto del eneldo picado, el ajo rallado, el zumo de medio limón y sal.",
+    "Mientras, precalienta el horno a 200 °C. Pica el salmón a cuchillo en dados muy pequeños (o con 3-4 pulsos de picadora, sin hacerlo pasta), pica la cebolleta y el eneldo y despunta las judías verdes.",
+    "Mezcla el salmón con la quinoa fría, el huevo, la cebolleta, la mitad del eneldo, la ralladura del limón, sal y pimienta. Forma 12 albóndigas con las manos húmedas.",
+    "Coloca las albóndigas en una bandeja con papel y las judías verdes alrededor, rocía con el aceite y sala. Hornea 15-18 minutos, hasta que las albóndigas estén doradas y firmes al tocarlas.",
+    "Mientras se hornean, ralla el ajo y mézclalo con el yogur, el resto del eneldo, el zumo de medio limón y sal.",
     "Deja templar y reparte en tuppers con la salsa en un recipiente pequeño aparte."
   ],
   nutricion: { kcal: 630, prot: 44, hc: 37, grasa: 34 },
@@ -265,11 +265,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio y dora las almendras y los ajos laminados 2 minutos, hasta que estén dorados. Sácalos y machácalos en un mortero con una pizca de sal.",
-    "En el mismo aceite, pocha la cebolla picada 8 minutos. Aparta del fuego, añade el pimentón y el comino, remueve 20 segundos y agrega el tomate. Cocina 5 minutos.",
-    "Añade el caldo y los garbanzos, lleva a ebullición y cuece 8 minutos. Incorpora la picada de almendra y remueve.",
+    "Lamina los ajos y pica la cebolla. Calienta el aceite en una cazuela a fuego medio y dora las almendras y los ajos 2 minutos, hasta que estén dorados. Sácalos y machácalos en un mortero con una pizca de sal.",
+    "En el mismo aceite, pocha la cebolla 8 minutos. Aparta del fuego, añade el pimentón y el comino, remueve 20 segundos y agrega el tomate. Cocina 5 minutos.",
+    "Añade el caldo y los garbanzos, lleva a ebullición y cuece 8 minutos. Mientras, corta la merluza en tacos de 4 cm y sálala. Incorpora la picada de almendra y remueve.",
     "Agrega las espinacas a puñados y cocina 2 minutos, hasta que mermen.",
-    "Coloca la merluza en tacos de 4 cm, salada, sobre el guiso. Tapa y cuece 5-6 minutos a fuego suave, hasta que se separe en lascas. No remuevas: mueve la cazuela en vaivén.",
+    "Coloca la merluza sobre el guiso. Tapa y cuece 5-6 minutos a fuego suave, hasta que se separe en lascas. No remuevas: mueve la cazuela en vaivén.",
     "Deja reposar 5 minutos y reparte en tuppers con cuidado para no romper el pescado."
   ],
   nutricion: { kcal: 460, prot: 41, hc: 34, grasa: 18 },
@@ -309,8 +309,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Ralla el calabacín, sálalo, déjalo 10 minutos en un colador y escúrrelo apretando con las manos.",
-    "Saltea la cebolla y el pimiento picados con media cucharada de aceite 6 minutos a fuego medio, hasta que estén blandos.",
+    "Precalienta el horno a 180 °C. Ralla el calabacín, sálalo, déjalo 10 minutos en un colador y escúrrelo apretando con las manos. Mientras escurre, pica la cebolla y el pimiento.",
+    "Saltea la cebolla y el pimiento con media cucharada de aceite 6 minutos a fuego medio, hasta que estén blandos.",
     "Bate los huevos con la leche, el orégano, sal y pimienta. Mezcla con el calabacín, el sofrito, el atún desmigado y la mitad del queso.",
     "Vierte en un molde de unos 20 x 15 cm forrado con papel y reparte el resto del queso por encima.",
     "Hornea 30-35 minutos, hasta que esté dorado y un palillo salga limpio del centro.",
@@ -352,9 +352,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece el arroz integral en abundante agua con sal 30-35 minutos, como si fuera pasta. Seis minutos antes del final, añade las judías verdes en tramos de 3 cm. Escurre todo junto.",
-    "Mientras, salpimienta los contramuslos y dóralos en una cazuela con el aceite 3 minutos por cada lado.",
-    "Añade la cebolla en juliana y el ajo laminado y rehoga 4 minutos.",
+    "Cuece el arroz integral en abundante agua con sal 30-35 minutos, como si fuera pasta. Seis minutos antes del final, añade las judías verdes. Escurre todo junto.",
+    "Mientras, corta las judías verdes en tramos de 3 cm, la cebolla en juliana y lamina el ajo. Salpimienta los contramuslos y dóralos en una cazuela con el aceite 3 minutos por cada lado.",
+    "Añade la cebolla y el ajo y rehoga 4 minutos.",
     "Incorpora el orégano, la ralladura y el zumo del limón y el caldo. Tapa y cuece 20 minutos a fuego suave.",
     "Saca el pollo, desmenúzalo con dos tenedores y devuélvelo a la cazuela. Cuece 3-4 minutos destapado, hasta que el jugo se reduzca y lo envuelva.",
     "Reparte el arroz con las judías y el pollo con su jugo en tuppers."
@@ -398,12 +398,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Mezcla la ternera con las espinacas picadas muy finas, el huevo, el pan rallado, un ajo rallado, la mitad del perejil picado y sal. Forma 14 albóndigas.",
+    "Precalienta el horno a 200 °C. Pica muy finas las espinacas y el perejil y ralla un ajo. Mezcla la ternera con las espinacas, el huevo, el pan rallado, el ajo rallado, la mitad del perejil y sal. Forma 14 albóndigas.",
     "Colócalas en una bandeja con papel, pincélalas con un tercio del aceite y hornea 15 minutos, hasta que estén doradas.",
-    "Mientras, dora en una sartén con el resto del aceite las almendras y los otros dos ajos laminados 2 minutos y resérvalos. En el mismo aceite, pocha la cebolla picada 7 minutos, añade el pimentón y el vino y deja reducir 2 minutos.",
+    "Mientras, lamina los otros dos ajos y pica la cebolla. Dora en una sartén con el resto del aceite las almendras y los ajos 2 minutos y resérvalos. En el mismo aceite, pocha la cebolla 7 minutos, añade el pimentón y el vino y deja reducir 2 minutos.",
     "Tritura la cebolla con las almendras, los ajos y el caldo hasta obtener una salsa fina y devuélvela a la sartén.",
-    "Pasa las albóndigas a la salsa y cuece 8 minutos a fuego suave. Termina con el resto del perejil.",
-    "Hierve 150 ml de agua con sal, apaga, añade el cuscús, tapa 5 minutos y desgrana con un tenedor. Reparte en tuppers."
+    "Pasa las albóndigas a la salsa y cuece 8 minutos a fuego suave. Mientras, hierve 150 ml de agua con sal, apaga, añade el cuscús, tapa 5 minutos y desgrana con un tenedor.",
+    "Termina las albóndigas con el resto del perejil y reparte con el cuscús en tuppers."
   ],
   nutricion: { kcal: 760, prot: 47, hc: 67, grasa: 34 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "fácil", "para niños", "verduras escondidas", "poco especiada"],
@@ -444,11 +444,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta el pavo y dóralo en el aceite a fuego fuerte 4 minutos. Sácalo a un plato.",
-    "Baja a fuego medio y pocha la cebolla picada 6 minutos. Añade el ajo y el ras el hanout y remueve 30 segundos.",
-    "Incorpora el tomate, la zanahoria en rodajas, la calabaza, las pasas, el pavo y el caldo. Tapa y cuece 25 minutos a fuego suave.",
-    "Mientras, hierve 240 ml de agua con sal, añade el bulgur, tapa y cuece 12 minutos a fuego mínimo; reposa 5 minutos.",
-    "Destapa el guiso y reduce 3-4 minutos, hasta que la salsa esté espesa. Añade el perejil picado.",
+    "Pica la cebolla y el ajo y corta la zanahoria en rodajas. Salpimienta el pavo y dóralo en el aceite a fuego fuerte 4 minutos. Sácalo a un plato.",
+    "Baja a fuego medio y pocha la cebolla 6 minutos. Añade el ajo y el ras el hanout y remueve 30 segundos.",
+    "Incorpora el tomate, la zanahoria, la calabaza, las pasas, el pavo y el caldo. Tapa y cuece 25 minutos a fuego suave.",
+    "Mientras, hierve 240 ml de agua con sal, añade el bulgur, tapa y cuece 12 minutos a fuego mínimo; reposa 5 minutos. Aprovecha para picar el perejil.",
+    "Destapa el guiso y reduce 3-4 minutos, hasta que la salsa esté espesa. Añade el perejil.",
     "Reparte el bulgur y el guiso en tuppers."
   ],
   nutricion: { kcal: 605, prot: 46, hc: 72, grasa: 15 },
@@ -493,7 +493,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 260 ml de agua y sal: cuando hierva, tapa y deja 12 minutos a fuego mínimo y 5 de reposo.",
-    "En una cazuela, pocha la cebolla picada en el aceite 7 minutos. Añade el ajo y el jengibre rallados y las especias y remueve 30 segundos.",
+    "Mientras, pica la cebolla y ralla el ajo y el jengibre. En una cazuela, pocha la cebolla en el aceite 7 minutos. Añade el ajo, el jengibre y las especias y remueve 30 segundos.",
     "Incorpora el tomate y cocina 3 minutos. Añade las lentejas lavadas, la calabaza y los 600 ml de agua y cuece 20 minutos, hasta que la lenteja y la calabaza se deshagan.",
     "Bate con unas varillas para que quede una salsa espesa y homogénea.",
     "Añade el pollo salado y cuece 8-10 minutos a fuego suave, hasta que esté hecho por dentro.",
@@ -540,12 +540,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca la ternera con papel, salpimiéntala y dórala en el aceite a fuego fuerte, en dos tandas, 5 minutos en total. Resérvala.",
-    "Baja a fuego medio y pocha la cebolla picada 8 minutos. Añade el ajo, las especias y el tomate concentrado y remueve 1 minuto.",
-    "Devuelve la ternera, vierte el caldo, tapa y cuece 60 minutos a fuego suave.",
+    "Pica la cebolla y el ajo. Seca la ternera con papel, salpimiéntala y dórala en el aceite a fuego fuerte, en dos tandas, 5 minutos en total. Resérvala.",
+    "Baja a fuego medio y pocha la cebolla 8 minutos. Añade el ajo, las especias y el tomate concentrado y remueve 1 minuto.",
+    "Devuelve la ternera, vierte el caldo, tapa y cuece 60 minutos a fuego suave. Mientras, ralla la piel de la lima, exprímela, escurre los garbanzos y pica el perejil.",
     "Añade la calabaza, los garbanzos y la ralladura y el zumo de la lima. Cuece 20 minutos más sin tapa, hasta que la carne esté tierna y la salsa haya espesado.",
     "Mientras, cuece el arroz lavado con 240 ml de agua y sal: 12 minutos tapado a fuego mínimo y 5 de reposo.",
-    "Añade el perejil picado al guiso y reparte con el arroz en tuppers."
+    "Añade el perejil al guiso y reparte con el arroz en tuppers."
   ],
   nutricion: { kcal: 665, prot: 44, hc: 80, grasa: 19 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "sin gluten", "fácil", "invierno"],
@@ -586,12 +586,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava las lentejas y cuécelas en 300 ml de agua 12 minutos a fuego suave, hasta que absorban el agua y queden como un puré espeso. Deja enfriar 10 minutos.",
-    "Precalienta el horno a 190 °C. Saltea la cebolla y la zanahoria ralladas en el aceite 6 minutos y añade las espinacas hasta que mermen.",
+    "Lava las lentejas y cuécelas en 300 ml de agua 12 minutos a fuego suave, hasta que absorban el agua y queden como un puré espeso. Deja enfriar 10 minutos. Mientras, precalienta el horno a 190 °C y ralla la cebolla y la zanahoria.",
+    "Saltea la cebolla y la zanahoria en el aceite 6 minutos y añade las espinacas hasta que mermen.",
     "Mezcla las lentejas con las verduras, los huevos, la avena, el comino, el pimentón, sal y pimienta.",
     "Vierte en un molde alargado forrado con papel, alisa la superficie y píntala con el tomate concentrado diluido en una cucharada de agua.",
-    "Hornea 40 minutos, hasta que esté firme y dorado. Deja enfriar 15 minutos en el molde antes de desmoldar y cortar en 6 rebanadas.",
-    "Mezcla el yogur con el zumo de limón y sal y guárdalo aparte para servir."
+    "Hornea 40 minutos, hasta que esté firme y dorado. Mientras, mezcla el yogur con el zumo de limón y sal y guárdalo aparte para servir.",
+    "Deja enfriar 15 minutos en el molde antes de desmoldar y cortar en 6 rebanadas."
   ],
   nutricion: { kcal: 440, prot: 27, hc: 52, grasa: 13 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegetariana", "ligera", "alta en proteína", "sin gluten", "fácil", "económica", "verduras escondidas", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -631,9 +631,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos, escúrrelo y deja que se temple.",
-    "Mientras, pocha la cebolla picada en el aceite 6 minutos, añade el ajo y el tomate y cocina 15 minutos. Añade la albahaca picada y sala.",
-    "Saltea las espinacas en una sartén sin aceite hasta que mermen, escúrrelas apretando y pícalas.",
-    "Precalienta el horno a 190 °C. Mezcla el arroz con las espinacas, la ricotta, los huevos, la mitad del parmesano, sal y pimienta.",
+    "Mientras, pica la cebolla, el ajo y la albahaca. Pocha la cebolla en el aceite 6 minutos, añade el ajo y el tomate y cocina 15 minutos. Añade la albahaca y sala.",
+    "Mientras se hace la salsa, precalienta el horno a 190 °C y saltea las espinacas en una sartén sin aceite hasta que mermen; escúrrelas apretando y pícalas.",
+    "Mezcla el arroz con las espinacas, la ricotta, los huevos, la mitad del parmesano, sal y pimienta.",
     "Pon 3 cucharadas de salsa en un molde de unos 20 x 15 cm forrado con papel, vierte la mezcla, aprieta y cubre con el resto del parmesano. Hornea 30 minutos, hasta que esté cuajado y dorado.",
     "Deja reposar 10 minutos, corta en porciones y reparte en tuppers con la salsa de tomate."
   ],
@@ -675,8 +675,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Dora el tempeh en media cucharada de aceite a fuego medio-alto 5 minutos, hasta que tenga costra por todos los lados. Resérvalo.",
-    "En la misma cazuela, con el resto del aceite, pocha la cebolla y el pimiento picados 8 minutos. Añade el ajo, aparta del fuego, incorpora los dos pimentones y remueve 20 segundos.",
+    "Pica la cebolla, el pimiento y el ajo y pela las patatas. Dora el tempeh en media cucharada de aceite a fuego medio-alto 5 minutos, hasta que tenga costra por todos los lados. Resérvalo.",
+    "En la misma cazuela, con el resto del aceite, pocha la cebolla y el pimiento 8 minutos. Añade el ajo, aparta del fuego, incorpora los dos pimentones y remueve 20 segundos.",
     "Agrega el tomate y cocina 4 minutos. Añade las patatas cascadas en trozos, el laurel y el caldo; tapa y cuece 18 minutos.",
     "Incorpora el tempeh y los guisantes y cuece 7 minutos más, hasta que la patata esté tierna y el caldo trabado.",
     "Prueba de sal, retira el laurel, deja reposar 5 minutos y reparte."
@@ -721,9 +721,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava los guisantes partidos y ponlos en una cazuela con el agua, la cúrcuma y el jengibre rallado. Cuece 40 minutos a fuego suave, retirando la espuma, hasta que se deshagan.",
+    "Ralla el jengibre. Lava los guisantes partidos y ponlos en una cazuela con el agua, la cúrcuma y el jengibre. Cuece 40 minutos a fuego suave, retirando la espuma, hasta que se deshagan. Mientras, pica la cebolla y el ajo y ralla el tomate.",
     "A los 25 minutos de cocción, añade la calabaza para que se haga en los 15 minutos restantes.",
-    "Para la tadka, calienta el aceite en una sartén y añade la mostaza y el comino; cuando chisporroteen (30 segundos), incorpora la cebolla picada y dórala 8 minutos. Añade el ajo picado y el tomate rallado y cocina 4 minutos.",
+    "Para la tadka, calienta el aceite en una sartén y añade la mostaza y el comino; cuando chisporroteen (30 segundos), incorpora la cebolla y dórala 8 minutos. Añade el ajo y el tomate y cocina 4 minutos.",
     "Vuelca la tadka sobre el dal, añade las espinacas y cuece 2 minutos. Sala y añade el zumo de limón.",
     "Ajusta la textura con un poco de agua si está muy espeso y reparte en tuppers; el cilantro, al servir."
   ],
@@ -765,9 +765,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Mezcla el pollo con el pimentón, sal y media cucharada de aceite, y el brócoli con otra media cucharada y sal. Ponlos en la misma bandeja y hornea 18-20 minutos, hasta que el pollo esté dorado y el brócoli tostado en las puntas.",
-    "Mientras, tuesta el trigo sarraceno en seco en un cazo 2 minutos, cúbrelo con 240 ml de agua hirviendo con sal y cuécelo tapado 10-12 minutos, hasta que esté tierno pero entero. Escurre y deja enfriar.",
-    "Prepara el aliño con el yogur, la mostaza, el zumo de limón, el resto del aceite y sal.",
-    "Monta la ensalada con el trigo sarraceno, el pollo, el brócoli, los tomates cherry partidos, la cebolla morada en juliana fina y las semillas.",
+    "Mientras, pon a hervir 240 ml de agua con sal y tuesta el trigo sarraceno en seco en un cazo 2 minutos; cúbrelo con el agua hirviendo y cuécelo tapado 10-12 minutos, hasta que esté tierno pero entero. Escurre y deja enfriar.",
+    "Mientras se cuece, parte los tomates cherry, corta la cebolla morada en juliana fina y prepara el aliño con el yogur, la mostaza, el zumo de limón, el resto del aceite y sal.",
+    "Monta la ensalada con el trigo sarraceno, el pollo, el brócoli, los tomates cherry, la cebolla morada y las semillas.",
     "Reparte en tuppers y guarda el aliño en un recipiente aparte."
   ],
   nutricion: { kcal: 625, prot: 50, hc: 58, grasa: 21 },
@@ -807,10 +807,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Cuece la pasta en agua con sal 2 minutos menos de lo que indique el paquete y escúrrela.",
-    "Mientras, sofríe en el aceite la cebolla, la zanahoria y el calabacín picados muy finos 10 minutos a fuego medio. Añade el ajo y remueve 1 minuto.",
-    "Incorpora el tomate y el orégano y cocina 10 minutos. Añade las lentejas, cocina 3 minutos y sala.",
-    "Mezcla la pasta con la boloñesa en una fuente y cubre con la mozzarella troceada y el parmesano rallado.",
+    "Precalienta el horno a 200 °C y pon a hervir agua con sal para la pasta. Mientras, pica muy finos la cebolla, la zanahoria, el calabacín y el ajo.",
+    "Sofríe en el aceite la cebolla, la zanahoria y el calabacín 10 minutos a fuego medio. Añade el ajo y remueve 1 minuto. Mientras, cuece la pasta 2 minutos menos de lo que indique el paquete y escúrrela.",
+    "Incorpora el tomate y el orégano y cocina 10 minutos. Añade las lentejas, cocina 3 minutos y sala. Mientras, trocea la mozzarella y ralla el parmesano.",
+    "Mezcla la pasta con la boloñesa en una fuente y cubre con la mozzarella y el parmesano.",
     "Hornea 15 minutos, con el grill los 2 últimos, hasta que esté gratinada.",
     "Deja reposar 5 minutos y reparte en tuppers."
   ],
@@ -849,11 +849,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava la quinoa y cuécela en 280 ml de agua con sal 12 minutos tapada. Deja reposar 5 minutos y extiéndela en una bandeja para que se seque.",
-    "En una sartén grande, calienta una cucharada de aceite y dora el ajo laminado y la guindilla 1 minuto a fuego medio.",
-    "Sube el fuego, añade los espárragos en trozos de 3 cm y saltea 4 minutos. Incorpora los guisantes y saltea 2 minutos más.",
+    "Lava la quinoa y cuécela en 280 ml de agua con sal 12 minutos tapada. Deja reposar 5 minutos y extiéndela en una bandeja para que se seque. Mientras, lamina el ajo, corta los espárragos en trozos de 3 cm, pica el perejil y ralla y exprime el limón.",
+    "En una sartén grande, calienta una cucharada de aceite y dora el ajo y la guindilla 1 minuto a fuego medio.",
+    "Sube el fuego, añade los espárragos y saltea 4 minutos. Incorpora los guisantes y saltea 2 minutos más.",
     "Añade los langostinos salados y saltea 2-3 minutos, solo hasta que estén rosados.",
-    "Incorpora la quinoa, el resto del aceite, la ralladura y el zumo del limón y el perejil picado. Saltea 2 minutos y prueba de sal.",
+    "Incorpora la quinoa, el resto del aceite, la ralladura y el zumo del limón y el perejil. Saltea 2 minutos y prueba de sal.",
     "Deja enfriar destapado antes de cerrar los tuppers."
   ],
   nutricion: { kcal: 575, prot: 46, hc: 53, grasa: 20 },
@@ -894,7 +894,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Seca bien los garbanzos con papel, mézclalos con media cucharada de aceite, el zumaque y sal y hornéalos en una bandeja 20-25 minutos, moviéndolos a mitad, hasta que estén crujientes.",
-    "Mientras, pocha la cebolla y la zanahoria picadas en el resto del aceite 7 minutos. Añade el ajo y el comino y remueve 30 segundos.",
+    "Mientras, pica la cebolla, la zanahoria y el ajo. Pocha la cebolla y la zanahoria en el resto del aceite 7 minutos. Añade el ajo y el comino y remueve 30 segundos.",
     "Incorpora el boniato y el caldo y cuece 15 minutos, hasta que el boniato esté tierno.",
     "Añade las alubias, cuece 3 minutos y tritura hasta que quede fina. Ajusta de sal y añade el zumo de limón.",
     "Reparte la crema en tuppers y guarda los garbanzos crujientes en un tarro aparte."
@@ -935,8 +935,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Machaca los ajos en un mortero con sal y mézclalos con el pimentón, el comino, el orégano, el vinagre y un tercio del aceite. Embadurna el lomo y déjalo reposar al menos 30 minutos (o desde la noche anterior en la nevera).",
-    "Precalienta el horno a 200 °C. Mezcla las patatas, los pimientos en tiras y la cebolla en juliana con el resto del aceite y sal, y hornéalos en una bandeja 15 minutos.",
+    "Machaca los ajos en un mortero con sal y mézclalos con el pimentón, el comino, el orégano, el vinagre y un tercio del aceite. Embadurna el lomo y déjalo reposar al menos 30 minutos (o desde la noche anterior en la nevera). Mientras reposa, corta los pimientos en tiras y la cebolla en juliana y, cuando falten unos 10 minutos, precalienta el horno a 200 °C.",
+    "Mezcla las patatas, los pimientos y la cebolla con el resto del aceite y sal, y hornéalos en una bandeja 15 minutos.",
     "Coloca el lomo sobre las verduras y hornea 25-30 minutos, hasta que alcance 63-65 °C en el centro o el jugo salga claro al pincharlo.",
     "Saca el lomo, tápalo con papel de aluminio y déjalo reposar 10 minutos.",
     "Córtalo en lonchas finas y reparte en tuppers sobre las verduras, regando con los jugos de la bandeja."
@@ -978,8 +978,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Sala el pavo y dóralo en el aceite a fuego fuerte 3 minutos. Resérvalo.",
-    "En la misma cazuela, pocha la cebolla y el pimiento picados 8 minutos a fuego medio. Añade el ajo, aparta del fuego, incorpora el pimentón y remueve 20 segundos.",
+    "Pica la cebolla, el pimiento y el ajo. Sala el pavo y dóralo en el aceite a fuego fuerte 3 minutos. Resérvalo.",
+    "En la misma cazuela, pocha la cebolla y el pimiento 8 minutos a fuego medio. Añade el ajo, aparta del fuego, incorpora el pimentón y remueve 20 segundos.",
     "Agrega el tomate y cocina 4 minutos. Añade la calabaza, el laurel y el caldo y cuece 12 minutos.",
     "Incorpora las alubias y el pavo y cuece 10 minutos sin tapa. Aplasta unas cuantas alubias para espesar el caldo.",
     "Prueba de sal, retira el laurel y reparte en tuppers."
@@ -1025,8 +1025,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz con 160 ml de agua y sal: 12 minutos tapado a fuego mínimo y 5 de reposo.",
-    "Pocha la cebolla en juliana en el aceite 5 minutos. Añade el ajo y el jengibre rallados, el curry y la cúrcuma y remueve 30 segundos.",
-    "Incorpora la coliflor y 200 ml de agua, tapa y cuece 8 minutos, hasta que esté casi tierna.",
+    "Mientras, corta la cebolla en juliana y ralla el ajo y el jengibre. Pocha la cebolla en el aceite 5 minutos. Añade el ajo, el jengibre, el curry y la cúrcuma y remueve 30 segundos.",
+    "Incorpora la coliflor y 200 ml de agua, tapa y cuece 8 minutos, hasta que esté casi tierna. Mientras, pica el cilantro.",
     "Añade la leche de coco, la salsa de pescado y los guisantes y cuece 2 minutos. Coloca el bacalao salado encima, tapa y cocina 5-6 minutos a fuego suave, hasta que se separe en lascas.",
     "Termina con el zumo de la lima y el cilantro y reparte con el arroz, moviendo el pescado con cuidado."
   ],
@@ -1072,8 +1072,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos y escúrrelo.",
-    "Precalienta el horno a 210 °C. Mezcla en una bandeja el pollo, los pimientos y la cebolla en trozos de 3 cm y la piña con el aceite y una pizca de sal. Hornea 15 minutos.",
-    "Mientras, mezcla en un cazo el tamari, el vinagre, el tomate concentrado, la miel, la maicena, el jengibre y el ajo rallados y 60 ml de agua. Calienta removiendo 2 minutos, hasta que espese.",
+    "Mientras, precalienta el horno a 210 °C y corta los pimientos y la cebolla en trozos de 3 cm. Mézclalos en una bandeja con el pollo y la piña, el aceite y una pizca de sal. Hornea 15 minutos.",
+    "Mientras, ralla el jengibre y el ajo y mézclalos en un cazo con el tamari, el vinagre, el tomate concentrado, la miel, la maicena y 60 ml de agua. Calienta removiendo 2 minutos, hasta que espese.",
     "Vierte la salsa sobre la bandeja, mezcla bien y hornea 5-7 minutos más, hasta que todo quede glaseado y brillante.",
     "Espolvorea el sésamo y reparte con el arroz en tuppers."
   ],
@@ -1116,11 +1116,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la soja en el caldo caliente 10 minutos. Escúrrela apretando y reserva el caldo.",
+    "Hidrata la soja en el caldo caliente 10 minutos. Mientras, pica la cebolla y el ajo y pela y corta la patata y la zanahoria en dados de 1,5 cm. Escurre la soja apretando y reserva el caldo.",
     "Cuece el arroz con 200 ml de agua y sal: 14 minutos tapado a fuego mínimo y 5 de reposo.",
     "Tritura el cilantro (hojas y tallos tiernos) y las espinacas con 100 ml del caldo reservado hasta obtener un puré verde.",
-    "Pocha la cebolla picada en el aceite 7 minutos. Añade el ajo, la pasta de ají y el comino, remueve 1 minuto e incorpora la soja; dórala 5 minutos.",
-    "Vierte el puré verde y el resto del caldo, añade la patata y la zanahoria en dados de 1,5 cm, tapa y cuece 15 minutos.",
+    "Pocha la cebolla en el aceite 7 minutos. Añade el ajo, la pasta de ají y el comino, remueve 1 minuto e incorpora la soja; dórala 5 minutos.",
+    "Vierte el puré verde y el resto del caldo, añade la patata y la zanahoria, tapa y cuece 15 minutos.",
     "Agrega los guisantes y cuece 5 minutos más. Prueba de sal y reparte con el arroz en tuppers."
   ],
   nutricion: { kcal: 550, prot: 31, hc: 87, grasa: 9 },

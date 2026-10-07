@@ -33,9 +33,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el mijo en un colador fino hasta que el agua salga clara (así no amarga). Tuéstalo en seco en una cazuela a fuego medio 2 minutos, hasta que huela a fruto seco.",
     "Añade 300 ml de agua y una pizca de sal, lleva a ebullición, tapa y cuece a fuego suave 15 minutos, hasta que absorba el agua. Reposa 5 minutos tapado, esponja con un tenedor y extiéndelo en una bandeja para que se enfríe.",
-    "Mientras, marina el pollo con la ralladura y el zumo de medio limón, el ajo rallado, 1 cucharadita de aceite, sal y pimienta durante 10 minutos.",
+    "Mientras se cuece el mijo, ralla el ajo y marina el pollo con la ralladura y el zumo de medio limón, el ajo rallado, 1 cucharadita de aceite, sal y pimienta durante 10 minutos.",
+    "Mientras se marina, saca cintas finas del calabacín con un pelador y parte los tomates cherry por la mitad. Pica la menta y trocea los pistachos.",
     "Calienta una sartén a fuego medio-alto y cocina el pollo 4 minutos por cada lado, hasta que esté dorado y sin rastro rosado en el centro. Deja enfriar y córtalo en tiras.",
-    "Saca cintas finas del calabacín con un pelador y parte los tomates cherry por la mitad. Pica la menta y trocea los pistachos.",
     "Prepara el aliño en un botecito con el zumo del resto del limón, el aceite restante, sal y pimienta.",
     "Reparte en dos tuppers el mijo, el pollo, el calabacín y los tomates. Lleva los pistachos y la menta en una bolsita y el aliño aparte; mézclalo todo justo antes de comer."
   ],
@@ -76,9 +76,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, hasta que esté tierno pero entero. Escúrrelo, pásalo por agua fría y extiéndelo para que se enfríe del todo.",
-    "Pon el edamame en un bol con 2 cucharadas de agua, tápalo y caliéntalo en el microondas a 800 W 3 minutos. Escúrrelo y déjalo enfriar.",
+    "Mientras se cuece el arroz, pon el edamame en un bol con 2 cucharadas de agua, tápalo y caliéntalo en el microondas a 800 W 3 minutos. Escúrrelo y déjalo enfriar.",
     "Corta el pepino en medias lunas, ralla la zanahoria en tiras gruesas y pica la parte verde de la cebolleta.",
-    "Mezcla en un botecito el tamari, el vinagre de arroz, el jengibre rallado y el aceite de sésamo.",
+    "Ralla el jengibre y mézclalo en un botecito con el tamari, el vinagre de arroz y el aceite de sésamo.",
     "Reparte el arroz en dos tuppers y coloca encima, por zonas, la caballa en trozos grandes, el edamame, el pepino y la zanahoria. Espolvorea el sésamo y la cebolleta.",
     "Lleva el aliño aparte y viértelo por encima justo antes de comer."
   ],
@@ -121,7 +121,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Sazona los filetes de pavo con el comino, sal y pimienta. Cocínalos en una sartén con unas gotas de aceite a fuego medio-alto 3-4 minutos por cada lado, hasta que estén dorados y blancos por dentro. Deja enfriar y córtalos en tiras.",
     "Prepara la vinagreta: pica muy fino el chipotle y mézclalo con el zumo de la lima, el aceite restante y una pizca de sal hasta que emulsione.",
-    "Corta el pimiento y el tomate en dados de 1 cm y la cebolla morada en daditos pequeños.",
+    "Corta el pimiento y el tomate en dados de 1 cm y la cebolla morada en daditos pequeños, y pica el cilantro.",
     "En un bol mezcla las alubias escurridas, el maíz, el pimiento, el tomate y la cebolla con dos tercios de la vinagreta; la legumbre aguanta muy bien aliñada.",
     "Reparte en tuppers, coloca las tiras de pavo encima y lleva aparte el resto de la vinagreta y el cilantro picado para añadir al comer."
   ],
@@ -161,11 +161,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz frotándolo con las manos y cambiando el agua hasta que salga casi clara. Ponlo en una cazuela con 220 ml de agua, lleva a ebullición, tapa y cuece a fuego mínimo 12 minutos. Apaga y deja reposar 10 minutos sin destapar.",
+    "Mientras se cuece y reposa el arroz, corta el pepino en rodajas finas y sálalo. Pon el salmón en un plato apto, riégalo con 1 cucharada de tamari, tápalo y cocínalo en el microondas a 800 W 2½-3 minutos, hasta que se separe en lascas. Desmenúzalo y mézclalo con el sésamo.",
     "Disuelve 1 cucharada de vinagre de arroz con el azúcar y una pizca de sal y riégalo sobre el arroz, mezclando con cortes de espátula. Déjalo templar.",
-    "Pon el salmón en un plato apto, riégalo con 1 cucharada de tamari, tápalo y cocínalo en el microondas a 800 W 2½-3 minutos, hasta que se separe en lascas. Desmenúzalo y mézclalo con el sésamo.",
+    "Mientras templa, escurre el pepino apretando, ralla el jengibre y aliña el pepino con el resto del vinagre, el tamari y el jengibre rallado. Cuece el edamame en el microondas con 2 cucharadas de agua, tapado, 3 minutos. Enfríalo y mézclalo con el pepino.",
     "Mójate las manos con agua salada, toma una sexta parte del arroz, haz un hueco, pon una cucharada de salmón, ciérralo y presiona dándole forma de triángulo. Repite hasta tener 6 onigiris y envuélvelos en film por separado.",
-    "Corta el pepino en rodajas finas, sálalo 10 minutos y escúrrelo apretando. Alíñalo con el resto del vinagre, el tamari y el jengibre rallado.",
-    "Cuece el edamame en el microondas con 2 cucharadas de agua, tapado, 3 minutos. Enfríalo y mézclalo con el pepino.",
     "Guarda las tiras de nori en una bolsa seca y envuelve cada onigiri justo antes de comerlo para que esté crujiente."
   ],
   nutricion: { kcal: 625, prot: 35, hc: 79, grasa: 19 },
@@ -205,8 +204,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta el trigo sarraceno en seco en una cazuela 2 minutos. Cúbrelo con agua hirviendo con sal y cuécelo 10-12 minutos, hasta que esté tierno pero entero. Escúrrelo y enjuágalo con agua fría para que no se apelmace.",
-    "Salpimienta el pollo y cocínalo en una sartén con unas gotas de aceite a fuego medio-alto 4 minutos por cada lado, hasta que esté dorado y jugoso. Déjalo enfriar y córtalo en dados.",
-    "Corta la remolacha en dados, los pepinillos en rodajas y la cebolla morada en juliana muy fina.",
+    "Mientras se cuece, salpimienta el pollo y cocínalo en una sartén con unas gotas de aceite a fuego medio-alto 4 minutos por cada lado, hasta que esté dorado y jugoso. Déjalo enfriar y córtalo en dados.",
+    "Mientras se enfría el pollo, corta la remolacha en dados, los pepinillos en rodajas y la cebolla morada en juliana muy fina, y pica el eneldo.",
     "Mezcla el yogur con la mostaza, el eneldo picado, sal y pimienta para hacer la salsa.",
     "Mezcla el trigo sarraceno con el resto del aceite, la cebolla y los pepinillos. Reparte en tuppers, añade el pollo y la remolacha en una esquina (para que no tiña todo) y lleva la salsa y los canónigos aparte."
   ],
@@ -246,10 +245,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece la pasta en abundante agua con sal el tiempo del paquete menos 1 minuto. Tres minutos antes del final añade el brócoli a la misma olla.",
+    "Pon a hervir abundante agua con sal. Mientras se calienta, pela el ajo y corta el tomate seco en tiras.",
+    "Cuece la pasta el tiempo del paquete menos 1 minuto. Tres minutos antes del final añade el brócoli a la misma olla.",
+    "Mientras se cuece, tritura la albahaca con las nueces, el ajo, la levadura nutricional, el zumo de limón, el aceite, 2 cucharadas de agua, sal y pimienta hasta tener un pesto espeso.",
     "Escurre pasta y brócoli y pásalos por agua fría hasta que estén fríos; así la pasta no se pasa y el brócoli queda verde intenso.",
-    "Tritura la albahaca con las nueces, el ajo, la levadura nutricional, el zumo de limón, el aceite, 2 cucharadas de agua, sal y pimienta hasta tener un pesto espeso.",
-    "Corta el tomate seco en tiras.",
     "Mezcla la pasta, el brócoli, los garbanzos y el tomate seco con el pesto hasta que todo quede bien cubierto. Reparte en tuppers."
   ],
   nutricion: { kcal: 740, prot: 27, hc: 82, grasa: 34 },
@@ -289,7 +288,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla el pollo con el pimentón, el comino, sal y 1 cucharadita de aceite. Saltéalo en una sartén a fuego fuerte 6-7 minutos, hasta que esté dorado y hecho por dentro. Déjalo enfriar del todo.",
-    "Haz el hummus exprés chafando con un tenedor los garbanzos con el tahini, el zumo de limón, el resto del aceite, 2 cucharadas de agua y sal, hasta tener una crema rústica.",
+    "Mientras se enfría, haz el hummus exprés chafando con un tenedor los garbanzos con el tahini, el zumo de limón, el resto del aceite, 2 cucharadas de agua y sal, hasta tener una crema rústica.",
     "Ralla la zanahoria y corta el pepino en bastones finos; sécalos con papel de cocina.",
     "Unta cada tortilla con hummus dejando 2 cm de borde. Pon encima espinacas, zanahoria, pepino y el pollo frío.",
     "Dobla los lados hacia dentro y enrolla bien apretado. Envuelve cada wrap en papel de horno y córtalo en diagonal al comer."
@@ -419,9 +418,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa en un colador fino. Ponla en un bol grande apto para microondas con 240 ml de agua y sal, tapa sin cerrar del todo y cocina a 800 W 12 minutos. Deja reposar 5 minutos tapada, hasta que absorba el agua, y esponja con un tenedor.",
-    "En otro recipiente mezcla el pavo picado con el comino, el pimentón, el ajo en polvo, el aceite, sal y pimienta. Cocina a 800 W 3 minutos, desmenuza con un tenedor y cocina 2-3 minutos más, hasta que no quede nada rosado.",
-    "Prepara el pico de gallo: pica en dados pequeños el tomate, la cebolla y el pimiento, añade el cilantro picado, el zumo de media lima y sal.",
+    "Mientras se cocina la quinoa, prepara el pico de gallo: pica en dados pequeños el tomate, la cebolla y el pimiento, pica el cilantro y mézclalo todo con el zumo de media lima y sal.",
     "Enjuaga las alubias y escúrrelas bien.",
+    "Mientras reposa la quinoa, mezcla en otro recipiente el pavo picado con el comino, el pimentón, el ajo en polvo, el aceite, sal y pimienta. Cocina a 800 W 3 minutos, desmenuza con un tenedor y cocina 2-3 minutos más, hasta que no quede nada rosado.",
     "Reparte en tuppers la quinoa, el pavo y las alubias. Lleva el pico de gallo en un botecito aparte y el resto de la lima en gajos para exprimir al comer."
   ],
   nutricion: { kcal: 555, prot: 41, hc: 59, grasa: 17 },
@@ -460,9 +459,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata y córtala en dados de 2 cm. Ponla en un bol apto con 3 cucharadas de agua y sal, tapa y cocina en el microondas a 800 W 6 minutos.",
-    "Añade las judías verdes en tramos de 3 cm, remueve, tapa y cocina 3-4 minutos más, hasta que la patata se deje pinchar y las judías estén tiernas pero verdes. Escurre y deja enfriar.",
-    "Mezcla 2 cucharadas del escabeche de las latas con el vinagre, el aceite, el pimentón y una pizca de sal.",
-    "Corta la cebolleta en juliana fina y los tomates por la mitad. Mézclalos con la patata y las judías y el aliño.",
+    "Mientras, despunta las judías verdes y córtalas en tramos de 3 cm.",
+    "Añade las judías a la patata, remueve, tapa y cocina 3-4 minutos más, hasta que la patata se deje pinchar y las judías estén tiernas pero verdes. Escurre y deja enfriar.",
+    "Mientras se enfrían, mezcla 2 cucharadas del escabeche de las latas con el vinagre, el aceite, el pimentón y una pizca de sal. Corta la cebolleta en juliana fina y los tomates por la mitad, y pica el perejil.",
+    "Mezcla la cebolleta y los tomates con la patata, las judías y el aliño.",
     "Reparte en tuppers, coloca los mejillones encima y espolvorea el perejil picado."
   ],
   nutricion: { kcal: 390, prot: 20, hc: 44, grasa: 15 },
@@ -500,11 +500,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Bate los huevos con una pizca de sal, pimienta y la mitad del eneldo picado.",
+    "Pica el eneldo. Bate los huevos con una pizca de sal, pimienta y la mitad del eneldo picado.",
     "Calienta una sartén antiadherente de 24 cm a fuego medio-bajo con unas gotas de aceite. Vierte una cuarta parte del huevo, mueve la sartén para cubrir el fondo y tapa 1-2 minutos, hasta que cuaje sin dorarse. Desliza a un papel de horno. Repite hasta tener 4 tortillas finas y deja que se enfríen.",
     "Mezcla el queso crema con la ralladura del limón y el resto del eneldo y úntalo sobre cada tortilla.",
     "Cubre con una capa de espinacas y otra de salmón ahumado. Enrolla bien apretado, envuelve en film y refrigera 30 minutos para que se asiente.",
-    "Corta el pepino y los rábanos en rodajas finas y alíñalos con el zumo del limón y una pizca de sal.",
+    "Mientras se asientan, corta el pepino y los rábanos en rodajas finas y alíñalos con el zumo del limón y una pizca de sal.",
     "Corta los rollitos en rodajas de 3 cm y guárdalos en el tupper con la ensalada en un compartimento aparte."
   ],
   nutricion: { kcal: 390, prot: 36, hc: 7, grasa: 24 },
@@ -543,10 +543,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata y la zanahoria y córtalas en dados de 1,5 cm. Ponlas en un bol con 3 cucharadas de agua y sal, tapa y cocina en el microondas a 800 W 7 minutos. Añade los guisantes y cocina 2 minutos más, hasta que la patata esté tierna. Deja enfriar.",
+    "Pon a hervir agua en un cazo y cuece los huevos 10 minutos; después pásalos a agua fría.",
+    "Mientras se cuecen los huevos, pela la patata y la zanahoria y córtalas en dados de 1,5 cm. Ponlas en un bol con 3 cucharadas de agua y sal, tapa y cocina en el microondas a 800 W 7 minutos. Añade los guisantes y cocina 2 minutos más, hasta que la patata esté tierna. Deja enfriar.",
     "Pon la merluza en un plato, sálala, riégala con unas gotas de limón, tápala y cocínala en el microondas a 800 W 3 minutos, hasta que se separe en lascas. Enfríala y desmígala quitando las espinas.",
-    "Cuece los huevos en un cazo con agua hirviendo 10 minutos, pásalos a agua fría, pélalos y pícalos.",
-    "Mezcla la mayonesa con el yogur, el zumo del resto del limón y una pizca de sal.",
+    "Mientras se enfrían las verduras y la merluza, pela y pica los huevos y mezcla la mayonesa con el yogur, el zumo del resto del limón y una pizca de sal.",
     "Mezcla con cuidado las verduras, la merluza y el huevo con la salsa. Reparte en tuppers, decora con tiras de piquillo y aceitunas y refrigera al menos 30 minutos."
   ],
   nutricion: { kcal: 555, prot: 42, hc: 47, grasa: 22 },
@@ -585,10 +585,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava el arroz hasta que el agua salga clara y cuécelo con 220 ml de agua, tapado, a fuego mínimo 12 minutos. Reposa 10 minutos sin destapar y mézclalo con 1 cucharadita de aceite de sésamo, el sésamo y sal. Deja templar.",
-    "Bate los huevos con sal y cuaja una tortilla fina en una sartén antiadherente a fuego medio-bajo, 2 minutos por lado. Córtala en tiras largas.",
-    "Pon las espinacas en un bol tapado en el microondas 1 minuto, hasta que se ablanden. Escúrrelas apretando y alíñalas con el tamari y el resto del aceite de sésamo.",
+    "Lava el arroz hasta que el agua salga clara y cuécelo con 220 ml de agua, tapado, a fuego mínimo 12 minutos. Deja reposar 10 minutos sin destapar.",
+    "Mientras se cuece y reposa el arroz, bate los huevos con sal y cuaja una tortilla fina en una sartén antiadherente a fuego medio-bajo, 2 minutos por lado. Córtala en tiras largas.",
+    "Pon las espinacas en un bol tapado en el microondas 1 minuto, hasta que se ablanden. Escúrrelas apretando y alíñalas con el tamari y 1 cucharadita de aceite de sésamo.",
     "Corta la zanahoria y el pepino en bastones finos. Mezcla el atún bien escurrido con la mayonesa.",
+    "Mezcla el arroz con el resto del aceite de sésamo, el sésamo y sal. Deja templar.",
     "Pon una hoja de nori con la cara brillante hacia abajo sobre film. Extiende un tercio del arroz en capa fina dejando 3 cm libres en el borde de arriba.",
     "Coloca en hilera tiras de tortilla, espinacas, zanahoria, pepino y atún. Enrolla apretando con ayuda del film y humedece el borde libre para sellar. Repite con las otras dos hojas.",
     "Deja reposar 5 minutos y corta cada rollo en 8 rodajas con un cuchillo mojado. Colócalas de pie en el tupper bien juntas."
@@ -630,11 +631,11 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Corta la patata en dados de 2 cm y la zanahoria en rodajas. Ponlas en un bol con 3 cucharadas de agua, tapa y cocina en el microondas a 800 W 6 minutos. Añade las judías verdes en tramos y cocina 3 minutos más, hasta que todo esté tierno. Enfría.",
-    "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría, pélalos y córtalos en cuartos.",
+    "Cuece los huevos 10 minutos en agua hirviendo y enfríalos en agua fría.",
+    "Mientras se cuecen, corta la patata en dados de 2 cm y la zanahoria en rodajas. Ponlas en un bol con 3 cucharadas de agua, tapa y cocina en el microondas a 800 W 6 minutos. Añade las judías verdes en tramos y cocina 3 minutos más, hasta que todo esté tierno. Enfría.",
     "Seca el tofu con papel, córtalo en dados y dóralo en una sartén con el aceite a fuego medio-alto 8 minutos, girándolo, hasta que esté dorado por todos lados.",
-    "Para la salsa, mezcla la crema de cacahuete con el tamari, el zumo de la lima, el ajo rallado, la sriracha y 3-4 cucharadas de agua caliente, hasta que quede cremosa y fluida.",
-    "Corta el repollo en juliana muy fina y el pepino en rodajas.",
+    "Para la salsa, ralla el ajo y mezcla la crema de cacahuete con el tamari, el zumo de la lima, el ajo, la sriracha y 3-4 cucharadas de agua caliente, hasta que quede cremosa y fluida.",
+    "Pela los huevos y córtalos en cuartos. Corta el repollo en juliana muy fina y el pepino en rodajas.",
     "Reparte en tuppers las verduras, el tofu y el huevo, y lleva la salsa en un bote aparte para verterla al comer."
   ],
   nutricion: { kcal: 520, prot: 33, hc: 41, grasa: 25 },
@@ -673,10 +674,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta la cebolla en pluma fina, mézclala con el zumaque y una pizca de sal y masájeala 1 minuto con las manos. Deja reposar 10 minutos para que pierda el picor.",
-    "Cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría, pélalos y córtalos en cuartos.",
+    "Pon agua a hervir en un cazo. Mientras, corta la cebolla en pluma fina, mézclala con el zumaque y una pizca de sal y masájeala 1 minuto con las manos. Deja reposar 10 minutos para que pierda el picor.",
+    "Cuece los huevos 10 minutos en el agua hirviendo. Mientras se cuecen, corta el tomate en dados y pica el perejil.",
     "Bate el tahini con el zumo del limón, el vinagre, el aceite, 2-3 cucharadas de agua y sal, hasta que quede un aliño fluido.",
-    "Mezcla las judías escurridas con la cebolla, el tomate en dados, el perejil picado y la mitad del aliño.",
+    "Enfría los huevos en agua fría, pélalos y córtalos en cuartos.",
+    "Mezcla las judías escurridas con la cebolla, el tomate, el perejil y la mitad del aliño.",
     "Reparte en tuppers, pon el huevo encima, espolvorea el pimentón picante y lleva el resto del aliño aparte."
   ],
   nutricion: { kcal: 415, prot: 22, hc: 38, grasa: 19 },
@@ -717,9 +719,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Sala el pollo, ponlo en un plato apto, tápalo y cocínalo en el microondas a 800 W 4-5 minutos, dándole la vuelta a mitad, hasta que no quede rosado en el centro. Reposa 3 minutos tapado y desmenúzalo con dos tenedores.",
-    "Corta el brócoli en arbolitos pequeños y pela y pica el tallo. Ponlo en un bol con 3 cucharadas de agua, tapa y cocínalo 2½-3 minutos, hasta que esté verde intenso y al dente. Pásalo por agua fría y escúrrelo bien.",
-    "Mezcla el yogur con la mostaza, el vinagre, la miel, el aceite, sal y pimienta.",
-    "Junta el brócoli, el pollo, la cebolla picada fina y los arándanos con el aliño; el brócoli aguanta aliñado sin ablandarse.",
+    "Mientras se cocina el pollo, corta el brócoli en arbolitos pequeños, pela y pica el tallo, y pica fina la cebolla. Mezcla el yogur con la mostaza, el vinagre, la miel, el aceite, sal y pimienta.",
+    "Pon el brócoli en un bol con 3 cucharadas de agua, tapa y cocínalo 2½-3 minutos, hasta que esté verde intenso y al dente. Pásalo por agua fría y escúrrelo bien.",
+    "Junta el brócoli, el pollo, la cebolla picada y los arándanos con el aliño; el brócoli aguanta aliñado sin ablandarse.",
     "Reparte en tuppers y lleva las almendras tostadas aparte para añadirlas al comer."
   ],
   nutricion: { kcal: 420, prot: 40, hc: 27, grasa: 17 },
@@ -764,9 +766,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y déjalo enfriar extendido.",
-    "Calienta el caldo en el microondas 2 minutos, vierte sobre la soja texturizada y deja hidratar 10 minutos. Escúrrela apretando con una cuchara para quitar el exceso de líquido.",
-    "Mezcla la soja con el aceite, el tomate concentrado, el tamari, el comino, el pimentón, el orégano y el ajo en polvo. Cocina en un recipiente abierto a 800 W 4 minutos, removiendo a mitad, hasta que se seque y quede suelta como un picadillo.",
-    "Prepara el pico de gallo con el tomate y la cebolla en dados pequeños, el cilantro picado, el zumo de media lima y sal.",
+    "Mientras se cuece el arroz, calienta el caldo en el microondas 2 minutos, vierte sobre la soja texturizada y deja hidratar 10 minutos.",
+    "Mientras se hidrata, prepara el pico de gallo: corta el tomate y la cebolla en dados pequeños, pica el cilantro y mézclalos con el zumo de media lima y sal.",
+    "Escurre la soja apretando con una cuchara para quitar el exceso de líquido. Mézclala con el aceite, el tomate concentrado, el tamari, el comino, el pimentón, el orégano y el ajo en polvo. Cocina en un recipiente abierto a 800 W 4 minutos, removiendo a mitad, hasta que se seque y quede suelta como un picadillo.",
     "Reparte en tuppers el arroz, el picadillo y el maíz. Lleva el pico de gallo aparte y el resto de la lima en gajos."
   ],
   nutricion: { kcal: 505, prot: 29, hc: 75, grasa: 10 },
@@ -807,7 +809,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga los garbanzos y déjalos escurrir bien.",
-    "Corta el pepino en dados pequeños (quita las semillas si es muy acuoso), ralla fina la zanahoria y pica el cilantro y el chile.",
+    "Corta el pepino en dados pequeños (quita las semillas si es muy acuoso), ralla fina la zanahoria, pica el cilantro y el chile, y pica los cacahuetes.",
     "Haz el tempero: calienta el aceite en una sartén pequeña a fuego medio, añade la mostaza y espera a que salte, unos 30-40 segundos. Agrega el comino 10 segundos, la cúrcuma y apaga el fuego.",
     "Mezcla los garbanzos con el pepino, la zanahoria, el coco, el cilantro, el chile y el tempero caliente.",
     "Reparte en tuppers. Lleva aparte los cacahuetes picados y el limón, y añade el zumo y la sal al comer para que el pepino no suelte agua."
@@ -897,8 +899,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Chafa los garbanzos con un tenedor dejando algunos trozos para que tenga textura de atún desmigado.",
-    "Añade la veganesa, la mostaza, el zumo de limón, las alcaparras y los pepinillos picados, el apio en daditos, la cebolla muy picada, la nori desmenuzada, sal y pimienta. Mezcla bien.",
+    "Pica los pepinillos y las alcaparras, corta el apio en daditos y pica muy fina la cebolla. Chafa los garbanzos con un tenedor dejando algunos trozos para que tenga textura de atún desmigado.",
+    "Añade a los garbanzos la veganesa, la mostaza, el zumo de limón, las alcaparras, los pepinillos, el apio, la cebolla, la nori desmenuzada, sal y pimienta. Mezcla bien.",
     "Lava y seca muy bien la lechuga y corta el tomate en rodajas finas; sécalas con papel de cocina.",
     "Coloca sobre cada tortilla una hoja de lechuga como barrera, el relleno y unas rodajas de tomate. Enrolla apretado doblando los lados y envuelve en papel de horno.",
     "Si los preparas para más de un día, lleva el relleno en un tupper y monta los wraps al comer."
@@ -940,7 +942,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la espelta y cuécela en abundante agua con sal 35-40 minutos, hasta que esté tierna pero con un punto firme. Escúrrela y deja que se enfríe.",
-    "Prepara la vinagreta con el zumo del limón, el aceite (puedes usar parte del aceite del tomate seco), el orégano, sal y pimienta.",
+    "Mientras se cuece la espelta, prepara la vinagreta con el zumo del limón, el aceite (puedes usar parte del aceite del tomate seco), el orégano, sal y pimienta.",
     "Corta las alcachofas en cuartos y el tomate seco en tiras.",
     "Mezcla la espelta con las judías, las alcachofas, el tomate seco y la vinagreta.",
     "Reparte en tuppers, añade el parmesano en lascas y la albahaca, y lleva la rúcula en un compartimento aparte."
@@ -984,10 +986,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y extiéndelo para que se enfríe.",
-    "Mezcla el tamari, la miel, el vinagre, el jengibre y el ajo rallados, la maicena y 4 cucharadas de agua.",
+    "Mientras se cuece el arroz, ralla el jengibre y el ajo y mézclalos con el tamari, la miel, el vinagre, la maicena y 4 cucharadas de agua.",
     "Dora el pollo en una sartén con el aceite a fuego fuerte 6-7 minutos, hasta que esté bien dorado. Vierte la salsa y cocina 1-2 minutos removiendo, hasta que espese y el pollo quede glaseado.",
     "Cuece el edamame en el microondas con 2 cucharadas de agua, tapado, 3 minutos, y enfríalo.",
-    "Corta la col lombarda en juliana muy fina y aderézala con unas gotas de vinagre y una pizca de sal.",
+    "Corta la col lombarda en juliana muy fina y aderézala con unas gotas de vinagre y una pizca de sal. Pica la cebolleta.",
     "Reparte en tuppers el arroz, el pollo con su salsa, el edamame, la col y la piña. Espolvorea sésamo y cebolleta picada."
   ],
   nutricion: { kcal: 740, prot: 48, hc: 91, grasa: 20 },
@@ -1026,10 +1028,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Cuece la pasta en abundante agua con sal 1 minuto menos de lo que indica el paquete. Escúrrela, pásala por agua fría y mézclala con 1 cucharadita de aceite para que no se pegue.",
-    "Mientras, corta los tomates en cuartos y sálalos ligeramente para que suelten su jugo.",
-    "En el bol grande, maja el ajo con las anchoas y la guindilla desmenuzada hasta formar una pasta, y añade el resto del aceite, el orégano y las alcaparras.",
-    "Incorpora la pasta, los tomates con su jugo y las aceitunas y mezcla bien.",
+    "Pon a hervir abundante agua con sal. Mientras se calienta, corta los tomates en cuartos y sálalos ligeramente para que suelten su jugo, y pica el perejil.",
+    "Cuece la pasta 1 minuto menos de lo que indica el paquete.",
+    "Mientras se cuece, maja en el bol grande el ajo con las anchoas y la guindilla desmenuzada hasta formar una pasta, y añade el resto del aceite, el orégano y las alcaparras.",
+    "Escurre la pasta, pásala por agua fría y mézclala con 1 cucharadita de aceite para que no se pegue.",
+    "Incorpora al bol la pasta, los tomates con su jugo y las aceitunas y mezcla bien.",
     "Reparte en tuppers, coloca el bonito en lascas grandes por encima y termina con perejil picado."
   ],
   nutricion: { kcal: 665, prot: 36, hc: 63, grasa: 30 },
@@ -1069,8 +1072,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Tuesta el cuscús perlado en un cazo con 1 cucharadita de aceite 2 minutos. Añade 350 ml de agua hirviendo y sal y cuécelo 8-10 minutos, hasta que esté tierno. Escúrrelo y déjalo enfriar.",
-    "Pon el salmón en un plato apto, sálalo, rállale un poco de piel de limón, tápalo y cocínalo en el microondas a 800 W 3-3½ minutos. Reposa 1 minuto: debe separarse en lascas. Quita la piel, desmenúzalo en trozos grandes y enfríalo.",
-    "Mezcla el yogur con el zumo de medio limón, la mitad del eneldo picado, sal y pimienta.",
+    "Mientras se cuece, pon el salmón en un plato apto, sálalo, rállale un poco de piel de limón, tápalo y cocínalo en el microondas a 800 W 3-3½ minutos. Reposa 1 minuto: debe separarse en lascas. Quita la piel, desmenúzalo en trozos grandes y enfríalo.",
+    "Pica el eneldo y mezcla el yogur con el zumo de medio limón, la mitad del eneldo picado, sal y pimienta.",
     "Corta el pepino en dados, los rábanos en láminas y la cebolleta en rodajas finas. Mézclalos con el cuscús, el resto del aceite, el zumo del otro medio limón y el eneldo restante.",
     "Reparte en tuppers, coloca el salmón encima y lleva aparte la salsa de yogur y los canónigos."
   ],

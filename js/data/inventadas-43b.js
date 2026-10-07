@@ -34,7 +34,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca las chuletillas de la nevera al empezar. Pon a hervir agua en el hervidor y cubre el cuscús en un bol con 120 ml de agua hirviendo, sal, el zumo de medio limón y 1 cucharada de aceite. Tapa 5 minutos.",
+    "Saca las chuletillas de la nevera al empezar. Pon a hervir agua en el hervidor y cubre el cuscús en un bol con 120 ml de agua hirviendo, sal, el zumo de medio limón y 1 cucharada de aceite. Tapa 5 minutos. Mientras reposa, ralla el ajo, corta el pepino en dados pequeños y pica la menta y el perejil.",
     "Seca las chuletillas con papel y frótalas con el comino, sal y pimienta.",
     "Mezcla el yogur con el ajo rallado, una pizca de sal y un poco de menta picada.",
     "Desgrana la granada: sujeta la media granada boca abajo sobre un bol y golpea la piel con una cuchara de madera; los granos caen sin romperse.",
@@ -78,9 +78,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el solomillo en medallones de 3 cm y aplástalos un poco con la palma para que tengan el mismo grosor y se hagan por igual. Salpimienta.",
-    "Quita a los espárragos la parte dura: dóblalos y se partirán justo donde empieza lo tierno.",
+    "Quita a los espárragos la parte dura: dóblalos y se partirán justo donde empieza lo tierno. Desmenuza el queso.",
     "Calienta el aceite en una sartén a fuego fuerte y dora los medallones con el tomillo 2-3 minutos por cada lado. El solomillo de cerdo puede quedar ligeramente rosado en el centro: así está jugoso y es seguro. Sácalos a un plato y tápalos con papel de aluminio.",
-    "En la misma sartén, saltea los espárragos 3 minutos a fuego fuerte, hasta que tengan alguna mancha dorada. Sácalos.",
+    "En la misma sartén, saltea los espárragos 3 minutos a fuego fuerte, hasta que tengan alguna mancha dorada. Sácalos. Mientras, tuesta el pan.",
     "Vierte el vino y rasca el fondo 1 minuto. Baja a fuego suave, añade la nata y el queso desmenuzado y remueve 1-2 minutos, hasta que el queso se funda y la salsa cubra la cuchara. No la dejes hervir fuerte: el queso se vuelve granuloso.",
     "Añade a la salsa el jugo que hayan soltado los medallones al reposar y sirve con los espárragos y el pan tostado."
   ],
@@ -121,7 +121,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Aplana los filetes entre dos papeles de horno hasta dejarlos de 3-4 mm. Sálalos muy poco: el jamón y el queso ya aportan sal.",
     "Pon sobre un filete media loncha de jamón y una loncha de queso, dejando 1 cm libre en todo el borde, cubre con otro filete y aprieta los bordes. Ese margen libre es el que sella el librito y evita que el queso se escape.",
-    "Pásalos por el huevo batido y luego por el pan rallado, presionando sobre todo en los bordes.",
+    "Bate el huevo en un plato hondo y pon el pan rallado en otro. Pasa los libritos por el huevo batido y luego por el pan rallado, presionando sobre todo en los bordes.",
     "Calienta 2 cucharadas y media de aceite en una sartén a fuego medio, no máximo: el librito es más grueso que un filete y necesita 3 minutos por cada lado para que el queso se funda y el pollo se haga sin quemar el pan.",
     "Mientras, corta los tomates en rodajas y la cebolla en pluma fina y aliña con el resto del aceite, el vinagre, el orégano y sal.",
     "Escurre los libritos sobre papel de cocina, córtalos por la mitad para que se vea el relleno y sirve con la ensalada."
@@ -161,13 +161,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el solomillo en tiras de 1 cm de grosor. Sécalas con papel y salpimiéntalas justo antes de cocinarlas.",
+    "Corta el solomillo en tiras de 1 cm de grosor. Trocea las setas y pica la chalota y el ajo. Seca las tiras con papel y salpimiéntalas justo antes de cocinarlas.",
     "Calienta 1 cucharada de aceite en una sartén a fuego máximo hasta que humee y extiende las tiras en una sola capa. Déjalas 1 minuto sin tocar, dales la vuelta 30 segundos y sácalas a un plato: quedarán doradas por fuera y rosadas por dentro.",
     "Con el resto del aceite y el mismo fuego fuerte, añade las setas en trozos y no las remuevas el primer minuto; cocina 3 minutos en total, hasta que estén doradas. Sálalas al final. No las juntes con la carne desde el principio: sueltan agua y la cocerían.",
     "Baja a fuego medio y añade la chalota y el ajo picados y el tomillo. Remueve 1 minuto.",
-    "Vierte el Pedro Ximénez, rasca el fondo y deja reducir 1-2 minutos, hasta que forme un almíbar ligero que brille sobre las setas.",
+    "Vierte el Pedro Ximénez, rasca el fondo y deja reducir 1-2 minutos, hasta que forme un almíbar ligero que brille sobre las setas. Mientras, tuesta el pan.",
     "Aparta del fuego, añade la mantequilla y devuelve la carne con su jugo. Mezcla 30 segundos, solo para calentarla.",
-    "Tuesta el pan y sirve las tiras con las setas por encima o al lado, con unas escamas de sal."
+    "Sirve las tiras con las setas por encima o al lado, con el pan tostado y unas escamas de sal."
   ],
   nutricion: { kcal: 530, prot: 35, hc: 46, grasa: 23 },
   etiquetas: ["rápida", "15 minutos", "para invitados", "alta en proteína", "una sola sartén", "poco especiada"],
@@ -296,7 +296,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Seca los langostinos con papel y sálalos con una pizca de cúrcuma.",
+    "Pica fina la cebolla, ralla el ajo y el jengibre y pica el cilantro. Seca los langostinos con papel y sálalos con una pizca de cúrcuma.",
     "Calienta el aceite en una sartén a fuego medio-alto y tuesta el comino 20 segundos. Añade la cebolla picada fina y cocina 3 minutos, hasta que empiece a dorarse; incorpora el ajo y el jengibre rallados 30 segundos.",
     "Añade el garam masala, la cayena y el resto de la cúrcuma y remueve 10 segundos, justo antes de que entre el tomate para que no se quemen.",
     "Incorpora el tomate y cuece 3 minutos, hasta que espese y el aceite asome por los bordes: es la señal de que la base de masala está hecha.",
@@ -343,7 +343,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pepino en medias lunas finas y mézclalo con una pizca de sal y unas gotas del vinagre de arroz: en 5 minutos estará encurtido y crujiente.",
+    "Corta el pepino en medias lunas finas y mézclalo con una pizca de sal y unas gotas del vinagre de arroz: en 5 minutos estará encurtido y crujiente. Mientras, ralla el jengibre y corta la cebolleta en aros.",
     "Mezcla la soja, la miel, el resto del vinagre y el jengibre rallado en un vaso.",
     "Tuesta el sésamo en una sartén seca a fuego medio 1 minuto, moviéndola, hasta que esté dorado y huela. Sácalo enseguida: en la sartén caliente sigue tostándose y se quema.",
     "Corta el salmón en dados de 2,5 cm y sécalos. Calienta el aceite en la misma sartén a fuego fuerte y dora los dados 1 minuto por cada cara, dos caras: por fuera dorados, por dentro jugosos.",
@@ -385,7 +385,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en rodajas de 5 mm y cuécelas tapadas con 2 cucharadas de agua y sal 6-7 minutos al microondas.",
-    "Corta el rape en medallones de 3 cm, sécalos y sálalos.",
+    "Mientras, corta el rape en medallones de 3 cm, sécalos y sálalos. Lamina los ajos y pica el perejil.",
     "Pon el aceite con los ajos laminados y la guindilla en una sartén a fuego medio-bajo. En 2 minutos los ajos empezarán a bailar y a dorarse: empezar con el aceite templado hace que suelten su sabor sin quemarse (el ajo quemado amarga).",
     "Saca la mitad de los ajos, ya dorados, para servir crujientes. Sube a fuego medio-alto y cocina el rape 2 minutos por cada lado.",
     "Aparta la sartén del fuego, añade el pimentón y remueve 10 segundos para que no se queme.",
@@ -470,12 +470,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
+    "Pica fina la cebolla, pica el ajo y el perejil.",
     "Tuesta las hebras de azafrán 10 segundos en la sartén seca y caliente, sin dejar de moverlas; machácalas con una pizca de sal y disuélvelas en el vino blanco. Tostado y en un líquido templado suelta mucho más color y aroma.",
     "En la misma sartén, a fuego medio, calienta el aceite y sofríe la cebolla picada fina 3 minutos; añade el ajo picado 30 segundos.",
     "Incorpora el tomate y sal y cocina 4 minutos a fuego medio-alto, hasta que espese y pierda el sabor a crudo.",
     "Añade el vino con el azafrán y los guisantes y cuece 1 minuto.",
-    "Sala el abadejo en tacos grandes, colócalo sobre la salsa, tapa la sartén y cocina a fuego suave 4-5 minutos, hasta que se separe en lascas al presionar. Tapado se cuece con el vapor de la salsa y no se reseca.",
-    "Espolvorea perejil picado y sirve con el pan tostado."
+    "Sala el abadejo en tacos grandes, colócalo sobre la salsa, tapa la sartén y cocina a fuego suave 4-5 minutos, hasta que se separe en lascas al presionar. Tapado se cuece con el vapor de la salsa y no se reseca. Mientras, tuesta el pan.",
+    "Espolvorea el perejil picado y sirve con el pan tostado."
   ],
   nutricion: { kcal: 420, prot: 39, hc: 37, grasa: 13 },
   etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "una sola sartén", "tupper", "poco especiada", "bajo en colesterol"],
@@ -513,7 +514,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata y córtala en rodajas de 5 mm. Quita las puntas a las judías y pártelas por la mitad. Ponlo todo en un recipiente apto para microondas con 3 cucharadas de agua y sal, tapa y cocina 7 minutos a máxima potencia.",
-    "Seca los filetes, salpimiéntalos y pásalos por la harina sacudiéndolos bien: una capa finísima dora y protege una carne tan delicada.",
+    "Mientras, seca los filetes, salpimiéntalos y pásalos por la harina sacudiéndolos bien: una capa finísima dora y protege una carne tan delicada. Pica el perejil.",
     "Calienta el aceite con 10 g de mantequilla en una sartén antiadherente a fuego medio-alto y dora los filetes 2 minutos por cada lado. Sácalos a un plato caliente.",
     "Limpia la sartén con papel: los restos de harina quemada amargarían la salsa.",
     "Funde el resto de la mantequilla a fuego medio y déjala 1 minuto, hasta que deje de espumar, se tueste y huela a avellana. Añade el zumo de medio limón (chisporroteará), las alcaparras y el perejil picado.",
@@ -561,10 +562,10 @@ window.RECETAS_SEED.push({
     "Calienta la mantequilla y el aceite en la olla destapada a fuego medio y rehoga el puerro 2 minutos, sin que tome color.",
     "Añade el nabo y la patata, remueve 1 minuto y cubre justo con el caldo. Sala.",
     "Lava los huevos y colócalos enteros con cuidado sobre las verduras: se cocerán a la vez que la crema.",
-    "Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 5 minutos. Mientras, tuesta el pan en dados en una sartén seca para hacer picatostes.",
+    "Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 5 minutos. Mientras, tuesta el pan en dados en una sartén seca para hacer picatostes y pica el cebollino.",
     "Libera la presión bajo el grifo de agua fría, abre y pasa los huevos a un bol con agua fría: se pelarán con facilidad.",
     "Añade la leche, la nuez moscada y la pimienta blanca y tritura hasta que la crema quede muy fina; si está espesa, aclara con un poco de caldo o agua.",
-    "Sirve con el huevo duro picado, el cebollino y los picatostes por encima."
+    "Pela los huevos, pícalos y sirve la crema con el huevo duro, el cebollino y los picatostes por encima."
   ],
   nutricion: { kcal: 455, prot: 14, hc: 55, grasa: 20 },
   etiquetas: ["rápida", "15 minutos", "olla exprés", "ligera", "de cuchara", "económica", "tupper", "poco especiada"],
@@ -601,7 +602,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua del hervidor en un cazo con el vinagre y baja el fuego hasta que el agua solo tiemble: si hierve a borbotones, deshace la clara.",
+    "Pon a hervir agua del hervidor en un cazo con el vinagre y baja el fuego hasta que el agua solo tiemble: si hierve a borbotones, deshace la clara. Mientras se calienta, pica el ajo.",
     "Funde la mantequilla en una sartén a fuego medio, añade el ajo picado 30 segundos y las espinacas a puñados. Remueve 2 minutos, hasta que pierdan volumen, e inclina la sartén para tirar el agua que suelten: si no, la crema quedará aguada.",
     "Añade la nata, la nuez moscada, sal y pimienta y cuece 2 minutos, hasta que espese. Apaga y mezcla con la mitad del parmesano.",
     "Casca cada huevo en un colador fino sobre el fregadero y déjalo 10 segundos: se escurre la clara más líquida, la que forma hilos. Pásalo a un vaso.",
@@ -644,7 +645,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Haz el pico de gallo: tomate en dados pequeños, cebolla morada y cilantro picados finos, el zumo de la media lima y sal.",
+    "Haz el pico de gallo: corta el tomate en dados pequeños, pica finos la cebolla morada y el cilantro y mézclalos con el zumo de la media lima y sal.",
     "Bate 2 huevos con una pizca de sal (cada wrap lleva dos).",
     "Calienta media cucharadita de aceite en una sartén antiadherente del tamaño de la tortilla a fuego medio. Vierte los huevos e inclina la sartén para cubrir todo el fondo.",
     "Sin esperar, con el huevo todavía crudo por arriba, coloca encima una tortilla de trigo y presiónala con la mano: al cuajar, el huevo se pega a ella y forman una sola pieza.",
@@ -689,7 +690,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara un kecap manis exprés: mezcla en una taza la soja, el azúcar moreno y 1 cucharada de agua y caliéntala 30-40 segundos en el microondas, hasta que el azúcar se disuelva y espese como un sirope ligero.",
     "Quita las puntas a las judías y córtalas en tramos de 4 cm. Cuécelas tapadas con 2 cucharadas de agua 3 minutos en el microondas: así solo necesitan 2 minutos de wok y quedan tiernas pero crujientes.",
-    "Corta el tempeh en bastones de 1 cm y la chalota y el ajo en láminas finas; el chile, en rodajas.",
+    "Corta el tempeh en bastones de 1 cm y la chalota y el ajo en láminas finas; el chile, en rodajas. Pica los cacahuetes.",
     "Calienta 1 cucharada de aceite en el wok a fuego fuerte y dora el tempeh 4 minutos, girándolo, hasta que esté dorado por todas sus caras. Sácalo.",
     "Con el resto del aceite, saltea la chalota, el ajo y el chile 1 minuto y añade las judías escurridas; saltea 2 minutos.",
     "Devuelve el tempeh, vierte el kecap y saltea 1 minuto, hasta que todo quede glaseado y brillante.",
@@ -733,6 +734,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
+    "Pica fina la cebolla, ralla el ajo y el jengibre y pica el cilantro.",
     "Calienta el aceite en una sartén a fuego medio-alto y dora la heura 3 minutos, hasta que tenga costra por varias caras. Sácala: si la cueces desde el principio en la salsa, queda blanda; dorada aparte mantiene la textura y gana sabor tostado.",
     "En la misma sartén, cocina la cebolla picada fina 3 minutos y añade el ajo y el jengibre rallados 30 segundos.",
     "Agrega el curry en polvo y el garam masala y remueve 20 segundos: el curry en polvo necesita freírse en la grasa para perder el sabor a polvo crudo.",
@@ -782,7 +784,7 @@ window.RECETAS_SEED.push({
     "Corta las cebollas en pluma muy fina. Ponlas en una sartén con 1 cucharada de aceite y una pizca de sal a fuego medio y tapa 3 minutos: la sal les hace soltar agua y el vapor atrapado las ablanda en la mitad de tiempo.",
     "Destapa, añade el azúcar, la canela y el jengibre, sube a fuego medio-alto y cocina 5 minutos removiendo a menudo, hasta que la cebolla esté dorada y melosa. Si se pega, añade 2 cucharadas de agua y rasca. En el último minuto incorpora las pasas, que se hincharán.",
     "Mientras, calienta el caldo hasta que hierva y viértelo sobre el cuscús en un bol con el ras el hanout, la cúrcuma, sal y el resto del aceite. Tapa 5 minutos.",
-    "Tuesta las almendras en una sartén seca a fuego medio 2 minutos, moviéndolas, hasta que estén doradas.",
+    "Tuesta las almendras en una sartén seca a fuego medio 2 minutos, moviéndolas, hasta que estén doradas. Pica el cilantro.",
     "Añade los garbanzos a la sartén de la cebolla y caliéntalos 1 minuto.",
     "Esponja el cuscús con un tenedor, repártelo en los platos y cubre con los garbanzos, la tfaya, las almendras y el cilantro picado."
   ],
@@ -819,9 +821,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una sartén amplia a fuego medio y cocina la cebolla en pluma con una pizca de sal 4 minutos, hasta que esté blanda y algo dorada.",
-    "Añade la manzana en dados de 1,5 cm, con piel para que no se deshaga, y saltea 2 minutos, hasta que se dore pero siga firme.",
-    "Aparta la cebolla y la manzana a un lado y, en el hueco, pon la morcilla en rodajas de 2 cm. Dórala 1 minuto por cada lado sin moverla: si la remueves se deshace; si la dejas quieta, hace costra y aguanta.",
+    "Corta la cebolla en pluma.",
+    "Calienta el aceite en una sartén amplia a fuego medio y cocina la cebolla con una pizca de sal 4 minutos, hasta que esté blanda y algo dorada. Mientras, corta la manzana en dados de 1,5 cm, con piel para que no se deshaga, la morcilla en rodajas de 2 cm y pica el perejil.",
+    "Añade la manzana y saltea 2 minutos, hasta que se dore pero siga firme.",
+    "Aparta la cebolla y la manzana a un lado y, en el hueco, pon la morcilla. Dórala 1 minuto por cada lado sin moverla: si la remueves se deshace; si la dejas quieta, hace costra y aguanta.",
     "Incorpora las alubias, el pimentón y 3 cucharadas de agua y mezcla con suavidad, con una espátula, 2 minutos, hasta que todo esté caliente.",
     "Apaga el fuego y añade el vinagre: la acidez corta la grasa de la morcilla y aligera el plato.",
     "Prueba de sal, espolvorea perejil picado y sirve."
@@ -862,11 +865,10 @@ window.RECETAS_SEED.push({
     { n: "cacahuetes", q: 15, u: "g", nota: "tostados, sin sal" }
   ],
   pasos: [
-    "En un bol, mezcla la crema de cacahuete con la soja, el zumo de media lima, el azúcar, el ajo y el jengibre rallados y 3 cucharadas de agua caliente. Bate con un tenedor hasta que quede lisa: el agua caliente afloja la crema y evita grumos.",
+    "Ralla el ajo y el jengibre y pica los cacahuetes. En un bol, mezcla la crema de cacahuete con la soja, el zumo de media lima, el azúcar, el ajo y el jengibre y 3 cucharadas de agua caliente. Bate con un tenedor hasta que quede lisa: el agua caliente afloja la crema y evita grumos.",
     "Pon la leche de coco con el curry en una sartén a fuego medio y deja que hierva 1 minuto para que el curry se cocine y suelte aroma.",
-    "Añade la salsa de cacahuete y los garbanzos y cocina 3 minutos a fuego suave, removiendo. La salsa espesa al calentarse: si queda demasiado densa, añade agua a cucharadas.",
+    "Añade la salsa de cacahuete y los garbanzos y cocina 3 minutos a fuego suave, removiendo. La salsa espesa al calentarse: si queda demasiado densa, añade agua a cucharadas. Mientras, calienta el arroz en el microondas 1-2 minutos con una cucharada de agua.",
     "Incorpora las espinacas y remueve 1 minuto, hasta que se ablanden.",
-    "Calienta el arroz en el microondas 1-2 minutos con una cucharada de agua.",
     "Sirve los garbanzos sobre el arroz con los cacahuetes picados por encima y gajos de lima."
   ],
   nutricion: { kcal: 595, prot: 22, hc: 71, grasa: 25 },
@@ -944,10 +946,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua del hervidor en una cazuela con sal y cuece los tagliatelle 1 minuto menos de lo que indique el paquete. Escúrrelos.",
-    "Salpimienta el pollo y espolvoréalo con el comino.",
+    "Pon a hervir agua del hervidor en una cazuela con sal y cuece los tagliatelle 1 minuto menos de lo que indique el paquete. Mientras se cuecen, prepara el resto.",
+    "Salpimienta el pollo y espolvoréalo con el comino. Pica el ajo y el cilantro.",
     "Corta la cebolla morada en gajos gruesos de 1,5 cm y los tomates en gajos sin semillas. En el saltado la verdura va en trozos grandes: se tuesta por fuera y queda casi cruda y jugosa por dentro.",
-    "Calienta 1 cucharada de aceite en el wok a fuego máximo y dora el pollo 3 minutos. Sácalo.",
+    "Escurre los tallarines. Calienta 1 cucharada de aceite en el wok a fuego máximo y dora el pollo 3 minutos. Sácalo.",
     "Añade el resto del aceite, el ajo picado y el ají amarillo 20 segundos; incorpora la cebolla y saltea 1 minuto, y luego el tomate solo 30 segundos: si se cocina más, se deshace.",
     "Vierte la soja y el vinagre por el borde del wok, no por el centro: al tocar el metal muy caliente se tuestan y dan ese sabor ahumado típico del saltado.",
     "Devuelve el pollo, añade los tallarines y saltea 1 minuto, hasta que se impregnen. Termina con cilantro picado y sirve."
@@ -989,12 +991,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
+    "Corta el pimiento en tiras y la cebolleta en tramos de 4 cm, pica el ajo y el jengibre y separa las hojas del pak choi de los tallos; trocea los tallos.",
     "Pon a hervir agua del hervidor en un cazo y cuece los fideos el tiempo justo del paquete (3-4 minutos). Antes de escurrir, guarda 3 cucharadas del agua de cocción.",
     "Mezcla en un vaso la soja, la salsa de ostras, el azúcar, el aceite de sésamo y el agua de cocción reservada.",
     "Seca los langostinos y sálalos ligeramente. Calienta media cucharada de aceite en el wok a fuego máximo y saltéalos 1 minuto por cada lado; sácalos.",
-    "Añade el resto del aceite y saltea el pimiento en tiras 2 minutos. Separa las hojas del pak choi de los tallos: los tallos, troceados, 1 minuto; luego las hojas, el ajo y el jengibre picados, 30 segundos.",
+    "Añade el resto del aceite y saltea el pimiento 2 minutos. Añade los tallos del pak choi 1 minuto; luego las hojas, el ajo y el jengibre, 30 segundos.",
     "Añade los fideos y la salsa y mézclalos con unas pinzas 1 minuto, hasta que estén envueltos y brillantes.",
-    "Devuelve los langostinos, añade la cebolleta en tramos y saltea 30 segundos más. Sirve enseguida."
+    "Devuelve los langostinos, añade la cebolleta y saltea 30 segundos más. Sirve enseguida."
   ],
   nutricion: { kcal: 610, prot: 41, hc: 75, grasa: 16 },
   etiquetas: ["rápida", "15 minutos", "wok", "alta en proteína", "tupper", "poco especiada"],
@@ -1030,11 +1033,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Abre la pechuga en filetes de 1 cm de grosor y salpimiéntalos.",
-    "Calienta la plancha a fuego fuerte con media cucharada de aceite y cocina el pollo 3 minutos por cada lado, hasta que esté dorado y sin rastro rosado. Déjalo reposar 3 minutos antes de cortarlo en tiras.",
-    "Corta las nectarinas en gajos y márcalas en la plancha 1 minuto por cada lado: el calor carameliza su azúcar e intensifica el sabor. No más, o se ablandan.",
-    "Tuesta las almendras en una sartén seca 2 minutos y trocéalas.",
-    "Mezcla el balsámico con el resto del aceite, sal y pimienta.",
+    "Abre la pechuga en filetes de 1 cm de grosor y salpimiéntalos. Corta las nectarinas en gajos.",
+    "Calienta la plancha a fuego fuerte con media cucharada de aceite y cocina el pollo 3 minutos por cada lado, hasta que esté dorado y sin rastro rosado. Mientras, tuesta las almendras en una sartén seca 2 minutos, trocéalas y mezcla el balsámico con el resto del aceite, sal y pimienta.",
+    "Saca el pollo y déjalo reposar 3 minutos. Mientras, marca las nectarinas en la plancha 1 minuto por cada lado: el calor carameliza su azúcar e intensifica el sabor. No más, o se ablandan.",
+    "Corta el pollo en tiras.",
     "Monta la ensalada: rúcula, nectarina, pollo en tiras y la mozzarella desgarrada con las manos (la superficie irregular recoge mejor el aliño). Termina con las almendras, la albahaca y la vinagreta."
   ],
   nutricion: { kcal: 470, prot: 40, hc: 19, grasa: 26 },
@@ -1072,11 +1074,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon el caldo a calentar en un cazo o en el microondas: añadirlo caliente evita que la cazuela se enfríe y ahorra minutos.",
+    "Pon el caldo a calentar en un cazo o en el microondas: añadirlo caliente evita que la cazuela se enfríe y ahorra minutos. Mientras, lamina los ajos, ralla el tomate y pica el perejil.",
     "Calienta el aceite en una cazuela a fuego medio-bajo con los ajos laminados y la guindilla y cocina 2 minutos, hasta que los ajos estén dorados claros.",
     "Sube a fuego fuerte y saltea las gambas 30 segundos por cada lado. Sácalas: se añadirán al final para que no se encojan ni se endurezcan.",
     "Añade el tomate rallado y cocina 2 minutos. Aparta la cazuela del fuego, incorpora el pimentón y remueve 10 segundos para que no amargue.",
-    "Vierte el caldo caliente, lleva a ebullición y añade los fideos. Cuécelos 4-5 minutos, hasta que estén tiernos.",
+    "Vierte el caldo caliente, lleva a ebullición y añade los fideos. Cuécelos 4-5 minutos, hasta que estén tiernos. Mientras, tuesta el pan.",
     "Devuelve las gambas con su jugo, cuece 1 minuto, prueba de sal y añade el perejil picado.",
     "Sirve con el pan tostado."
   ],

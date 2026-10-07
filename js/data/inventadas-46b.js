@@ -36,10 +36,10 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Si la sepia está entera, límpiala: separa la cabeza del cuerpo tirando, retira las vísceras y la bolsa de tinta, saca el hueso y la piel y quita ojos y pico. Córtala en tiras de 1 cm y los tentáculos en trozos.",
-    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla picada 10 minutos, hasta que esté dorada.",
-    "Añade el ajo y el jengibre rallados y remueve 1 minuto. Incorpora la cúrcuma, el comino, el cilantro molido y el pimentón y tuesta 30 segundos sin dejar de remover: las especias molidas se queman enseguida.",
-    "Agrega el tomate rallado y cocina 5 minutos, hasta que se forme una pasta espesa.",
+    "Si la sepia está entera, límpiala: separa la cabeza del cuerpo tirando, retira las vísceras y la bolsa de tinta, saca el hueso y la piel y quita ojos y pico. Córtala en tiras de 1 cm y los tentáculos en trozos. Pica la cebolla y ralla el ajo, el jengibre y el tomate.",
+    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla 10 minutos, hasta que esté dorada.",
+    "Añade el ajo y el jengibre y remueve 1 minuto. Incorpora la cúrcuma, el comino, el cilantro molido y el pimentón y tuesta 30 segundos sin dejar de remover: las especias molidas se queman enseguida.",
+    "Agrega el tomate y cocina 5 minutos, hasta que se forme una pasta espesa.",
     "Añade la sepia, sube el fuego y remueve 3 minutos para que se impregne. Vierte 200 ml de agua y la pasta de tamarindo, tapa y cuece a fuego suave 30 minutos, hasta que la sepia esté tierna al pincharla.",
     "Mientras, lava el arroz hasta que el agua salga clara y cuécelo en 1,5 veces su volumen de agua con sal, tapado a fuego mínimo, 12 minutos. Deja reposar tapado.",
     "Añade la leche de coco al curry y deja que hierva suavemente 5 minutos, destapado, hasta que la salsa nape. Prueba: debe estar equilibrado entre ácido, picante y salado; ajusta con sal o un poco más de tamarindo.",
@@ -80,12 +80,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata, córtala en dados de 2 cm y ponla a cocer en agua con sal. Cuando lleve 6 minutos, añade las judías verdes en trozos de 4 cm y cuece todo 8 minutos más, hasta que la patata esté tierna y las judías sigan crujientes.",
-    "Prepara la vinagreta batiendo el vinagre con 1,5 cucharadas de aceite, las alcaparras picadas, el perejil picado y una pizca de sal.",
+    "Pela la patata, córtala en dados de 2 cm y ponla a cocer en agua con sal. Mientras, corta las judías verdes en trozos de 4 cm; cuando la patata lleve 6 minutos, añádelas y cuece todo 8 minutos más, hasta que la patata esté tierna y las judías sigan crujientes.",
+    "Mientras se cuecen, pica las alcaparras y el perejil y prepara la vinagreta batiendo el vinagre con 1,5 cucharadas de aceite, las alcaparras, el perejil y una pizca de sal. Parte los tomates y corta la cebolleta en aros finos.",
     "Escurre la patata y las judías y alíñalas en caliente con la mitad de la vinagreta. La patata caliente tiene el almidón abierto y absorbe el aliño; en frío solo se mancharía por fuera.",
-    "Corta la sepia en tiras de 2 cm y sécala muy bien con papel de cocina. Mézclala con el ajo picado y el resto del aceite.",
+    "Pica el ajo. Corta la sepia en tiras de 2 cm y sécala muy bien con papel de cocina. Mézclala con el ajo y el resto del aceite.",
     "Calienta la plancha a fuego máximo y cocina la sepia en una sola capa 1 minuto por lado, hasta que esté blanca y con alguna marca dorada. Sálala al sacarla: si la salas antes, suelta agua y se cuece.",
-    "Mezcla la sepia aún caliente con las patatas y las judías, los tomates partidos y la cebolleta en aros finos.",
+    "Mezcla la sepia aún caliente con las patatas y las judías, los tomates y la cebolleta.",
     "Riega con el resto de la vinagreta y sirve templada."
   ],
   nutricion: { kcal: 411, prot: 34, hc: 35, grasa: 15 },
@@ -124,12 +124,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escalda las habas 1 minuto en agua hirviendo y pásalas a un bol con agua y hielo. Pellizca la piel de cada una por un extremo y aprieta: el haba verde y tierna saldrá sola. Es un trabajo de 10 minutos que cambia el plato: sin la piel, las habas son dulces y no amargan.",
-    "Corta la sepia en dados de 2 cm.",
-    "Calienta el aceite en una cazuela a fuego medio y dora el jamón 1 minuto. Añade la cebolleta y el ajo picados y póchalos 6 minutos, hasta que estén blandos.",
+    "Corta la sepia en dados de 2 cm y pica la cebolleta y el ajo.",
+    "Calienta el aceite en una cazuela a fuego medio y dora el jamón 1 minuto. Añade la cebolleta y el ajo y póchalos 6 minutos, hasta que estén blandos.",
     "Incorpora la sepia y rehoga 5 minutos, hasta que suelte el agua y esta se evapore casi del todo.",
-    "Vierte el vino, deja hervir 2 minutos y añade 150 ml de agua. Tapa y cuece a fuego suave 25 minutos, hasta que la sepia esté tierna.",
+    "Vierte el vino, deja hervir 2 minutos y añade 150 ml de agua. Tapa y cuece a fuego suave 25 minutos, hasta que la sepia esté tierna. Mientras, pica la menta.",
     "Añade las habas peladas y cuece 4-5 minutos más, solo para que se calienten: si cuecen de más, pierden el color verde brillante.",
-    "Prueba de sal (el jamón ya sala), añade pimienta y la menta picada y sirve enseguida."
+    "Prueba de sal (el jamón ya sala), añade pimienta y la menta y sirve enseguida."
   ],
   nutricion: { kcal: 467, prot: 51, hc: 23, grasa: 19 },
   etiquetas: ["sepia", "pescado poco habitual", "guiso", "primavera", "ligera", "alta en proteína", "tupper", "sin gluten", "sin lácteos", "poco especiada"],
@@ -208,11 +208,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los boquerones y ábrelos en libro, sin cabeza ni espina, dejando los lomos unidos por el dorso. Lávalos, sécalos y sálalos ligeramente.",
-    "Remoja las pasas en agua templada 10 minutos para que se hidraten y no se quemen en el horno.",
-    "Saltea el ajo laminado con media cucharada de aceite en una sartén 30 segundos, añade las espinacas y cocínalas 2 minutos, hasta que se reduzcan. Pásalas a un colador y aprieta con una cuchara para quitarles el agua: si no, el relleno empapará el pescado.",
-    "Pica las espinacas y mézclalas con los piñones tostados, las pasas escurridas, la ralladura del limón, la mitad del pan rallado, sal y pimienta.",
-    "Precalienta el horno a 200 °C. Extiende el tomate triturado con sal en una fuente. Coloca la mitad de los boquerones con la piel hacia abajo, reparte el relleno y tápalos con los otros boquerones, piel hacia arriba, como un bocadillo.",
+    "Precalienta el horno a 200 °C. Limpia los boquerones y ábrelos en libro, sin cabeza ni espina, dejando los lomos unidos por el dorso. Lávalos, sécalos y sálalos ligeramente.",
+    "Remoja las pasas en agua templada 10 minutos para que se hidraten y no se quemen en el horno. Mientras, lamina el ajo y tuesta los piñones en una sartén seca 2 minutos, removiendo.",
+    "Saltea el ajo con media cucharada de aceite en una sartén 30 segundos, añade las espinacas y cocínalas 2 minutos, hasta que se reduzcan. Pásalas a un colador y aprieta con una cuchara para quitarles el agua: si no, el relleno empapará el pescado.",
+    "Pica las espinacas y mézclalas con los piñones, las pasas escurridas, la ralladura del limón, la mitad del pan rallado, sal y pimienta.",
+    "Extiende el tomate triturado con sal en una fuente. Coloca la mitad de los boquerones con la piel hacia abajo, reparte el relleno y tápalos con los otros boquerones, piel hacia arriba, como un bocadillo.",
     "Espolvorea con el resto del pan rallado y riega con el aceite restante. El pan rallado con aceite forma una costra que protege el pescado de secarse.",
     "Hornea 12-14 minutos, hasta que la superficie esté dorada y el tomate burbujee. Sirve con unas gotas de zumo de limón."
   ],
@@ -249,11 +249,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Limpia los boquerones (sin cabeza, tripas ni espina) y córtalos en trozos de 2 cm. Sécalos con papel.",
-    "Separa el brócoli en ramilletes pequeños y pela el tronco con un pelador; córtalo en dados. El tronco pelado es tierno y dulce: no lo tires.",
+    "Pon a hervir abundante agua con sal. Limpia los boquerones (sin cabeza, tripas ni espina) y córtalos en trozos de 2 cm. Sécalos con papel.",
+    "Separa el brócoli en ramilletes pequeños y pela el tronco con un pelador; córtalo en dados. El tronco pelado es tierno y dulce: no lo tires. Lamina el ajo y desmenuza la guindilla.",
     "Tuesta el pan rallado en una sartén seca a fuego medio 3 minutos, removiendo, hasta que esté dorado. Mézclalo con la ralladura de limón y resérvalo: es el «parmesano de los pobres» del sur de Italia.",
-    "Pon a hervir abundante agua con sal y cuece las orecchiette. A falta de 5 minutos, añade el brócoli a la misma olla.",
-    "Mientras, calienta el aceite en la sartén a fuego medio-bajo con el ajo laminado y la guindilla desmenuzada. Cuando el ajo empiece a bailar sin dorarse, añade los boquerones y cocina 2 minutos, aplastando algunos trozos con la cuchara para que se deshagan en el aceite.",
+    "Cuece las orecchiette en el agua hirviendo. A falta de 5 minutos, añade el brócoli a la misma olla.",
+    "Mientras, calienta el aceite en la sartén a fuego medio-bajo con el ajo y la guindilla. Cuando el ajo empiece a bailar sin dorarse, añade los boquerones y cocina 2 minutos, aplastando algunos trozos con la cuchara para que se deshagan en el aceite.",
     "Reserva un vaso del agua de cocción y escurre la pasta con el brócoli. Pásalos a la sartén con un buen chorro de esa agua y saltea 2 minutos a fuego fuerte, removiendo con energía: el brócoli se rompe, el almidón liga y se forma una salsa verde y cremosa.",
     "Sirve con el pan rallado tostado por encima y unas gotas de zumo de limón."
   ],
@@ -292,11 +292,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia los boquerones quitándoles la cabeza y las tripas de un tirón y retirando la espina central; deja los lomos unidos o sepáralos, como prefieras. Lávalos, sécalos y sálalos.",
-    "Pela la patata y córtala en rodajas finas, de medio centímetro. Cuécelas 8 minutos en agua con sal, hasta que estén tiernas pero enteras, y escúrrelas.",
-    "Pon el aceite en una cazuela de barro o una sartén honda con el ajo laminado y la guindilla y enciende a fuego bajo. Calentar el ajo desde frío hace que suelte su aroma poco a poco; si lo echas en aceite caliente se quema por fuera y amarga.",
-    "Cuando el ajo empiece a dorarse por los bordes, añade los pimientos en tiras y cocínalos 6 minutos a fuego medio, hasta que estén blandos.",
+    "Pela la patata y córtala en rodajas finas, de medio centímetro. Cuécelas 8 minutos en agua con sal, hasta que estén tiernas pero enteras. Mientras, lamina el ajo, corta los pimientos en tiras y pica el perejil. Escurre las patatas.",
+    "Pon el aceite en una cazuela de barro o una sartén honda con el ajo y la guindilla y enciende a fuego bajo. Calentar el ajo desde frío hace que suelte su aroma poco a poco; si lo echas en aceite caliente se quema por fuera y amarga.",
+    "Cuando el ajo empiece a dorarse por los bordes, añade los pimientos y cocínalos 6 minutos a fuego medio, hasta que estén blandos.",
     "Reparte las patatas en la cazuela y coloca encima los boquerones con la piel hacia arriba. Tapa y cocina 3-4 minutos a fuego medio, hasta que estén opacos.",
-    "Rocía con el vinagre, espolvorea el perejil picado y mueve la cazuela con vaivén para que los jugos del pescado y el aceite se mezclen en una salsita.",
+    "Rocía con el vinagre, espolvorea el perejil y mueve la cazuela con vaivén para que los jugos del pescado y el aceite se mezclen en una salsita.",
     "Sirve en la misma cazuela, bien caliente."
   ],
   nutricion: { kcal: 447, prot: 32, hc: 28, grasa: 23 },
@@ -340,9 +340,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Desespina los filetes: pasa el dedo por el centro para localizar las espinitas y sácalas con pinzas. Quita la piel apoyando el filete con la piel abajo, sujetando la cola y deslizando el cuchillo plano entre piel y carne.",
     "Pica la trucha a cuchillo en trocitos de medio centímetro, sin hacer pasta. Si la trituras con robot, las albóndigas quedarán compactas y gomosas.",
-    "Remoja el pan sin corteza en la leche, escúrrelo y mézclalo con la trucha, el huevo, el ajo y la mitad del perejil picados y sal. Deja la masa 15 minutos en la nevera: en frío se asienta y se forma mejor.",
+    "Pica el ajo y el perejil. Remoja el pan sin corteza en la leche, escúrrelo y mézclalo con la trucha, el huevo, el ajo, la mitad del perejil y sal. Deja la masa 15 minutos en la nevera: en frío se asienta y se forma mejor. Mientras, pica muy fina la cebolla y tuesta el azafrán 10 segundos en una sartén seca.",
     "Con las manos húmedas, forma 12 albóndigas, pásalas por harina y dóralas en una sartén con el aceite a fuego medio 3 minutos, girándolas, solo para sellarlas. Sácalas.",
-    "En el mismo aceite, pocha la cebolla muy picada 8 minutos. Añade el azafrán tostado y desmenuzado, el vino y deja hervir 2 minutos. Vierte el caldo y cuece 5 minutos.",
+    "En el mismo aceite, pocha la cebolla 8 minutos. Añade el azafrán desmenuzado, el vino y deja hervir 2 minutos. Vierte el caldo y cuece 5 minutos.",
     "Mientras, cuece el arroz en el doble de agua con sal, tapado a fuego mínimo, 15 minutos.",
     "Devuelve las albóndigas a la salsa con los guisantes y cuece a fuego suave 6-8 minutos, moviendo la sartén en vez de remover para que no se rompan. La harina de las albóndigas espesará la salsa.",
     "Espolvorea el resto del perejil y sirve con el arroz."
@@ -388,8 +388,8 @@ window.RECETAS_SEED.push({
     "Coloca los filetes con la piel hacia abajo en una bandeja con papel de horno, salpimiéntalos y úntalos con una capa fina de mostaza. Reparte encima los pistachos y presiona con los dedos para que se peguen.",
     "Hornea 8-10 minutos, hasta que la trucha esté opaca y los pistachos dorados. La trucha es un pescado fino: pasarse un par de minutos la deja seca.",
     "Mientras, pon el cuscús en un bol con sal y media cucharada de aceite, cúbrelo con 100 ml de agua hirviendo y tápalo 5 minutos.",
-    "Desgrana la granada golpeando la media pieza boca abajo sobre un bol con el dorso de una cuchara: los granos caen sin romperse.",
-    "Suelta el cuscús con un tenedor y mézclalo con el perejil y la menta picados, los granos de granada, el zumo del medio limón restante y la última media cucharada de aceite. Sirve la trucha sobre el cuscús."
+    "Desgrana la granada golpeando la media pieza boca abajo sobre un bol con el dorso de una cuchara: los granos caen sin romperse. Pica el perejil y la menta.",
+    "Suelta el cuscús con un tenedor y mézclalo con el perejil, la menta, los granos de granada, el zumo del medio limón restante y la última media cucharada de aceite. Sirve la trucha sobre el cuscús."
   ],
   nutricion: { kcal: 627, prot: 46, hc: 50, grasa: 27 },
   etiquetas: ["trucha", "pescado poco habitual", "al horno", "rápida", "para invitados", "sin lácteos", "otoño", "sin verduras", "superalimentos", "poco especiada"],
@@ -427,13 +427,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Quita la piel de los filetes de trucha deslizando el cuchillo entre piel y carne, y retira las espinas con pinzas. Corta la carne en dados de 3 cm.",
-    "Derrite la mantequilla en una cazuela a fuego medio y rehoga el puerro en rodajas finas 5 minutos, sin que tome color, hasta que esté blando.",
-    "Añade la patata en dados de 2 cm, la zanahoria en rodajas, el laurel, la pimienta en grano y el caldo. Cuece 15 minutos a fuego medio, hasta que la patata esté tierna.",
+    "Quita la piel de los filetes de trucha deslizando el cuchillo entre piel y carne, y retira las espinas con pinzas. Corta la carne en dados de 3 cm. Limpia el puerro y córtalo en rodajas finas, pela la patata y córtala en dados de 2 cm y corta la zanahoria en rodajas.",
+    "Derrite la mantequilla en una cazuela a fuego medio y rehoga el puerro 5 minutos, sin que tome color, hasta que esté blando.",
+    "Añade la patata, la zanahoria, el laurel, la pimienta en grano y el caldo. Cuece 15 minutos a fuego medio, hasta que la patata esté tierna. Mientras, pica el eneldo.",
     "Machaca unas cuantas patatas contra la pared de la cazuela con un tenedor: su almidón espesa la sopa sin necesidad de harina.",
     "Añade la nata y deja que vuelva a hervir suavemente. Prueba de sal.",
     "Incorpora la trucha, apaga el fuego y tapa. Deja reposar 5 minutos: el calor del caldo basta para cocerla y así los dados quedan enteros y jugosos en lugar de deshacerse.",
-    "Retira el laurel y sirve con abundante eneldo picado."
+    "Retira el laurel y sirve con abundante eneldo."
   ],
   nutricion: { kcal: 459, prot: 34, hc: 38, grasa: 19 },
   etiquetas: ["trucha", "pescado poco habitual", "de cuchara", "ligera", "sin gluten", "invierno", "tupper", "reconfortante", "poco especiada"],
@@ -473,12 +473,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer el arroz con un diente de ajo aplastado, sal y el doble de su volumen de agua, tapado a fuego mínimo, 15 minutos. Deja reposar tapado.",
-    "Desespina los filetes de trucha con pinzas y sécalos. Salpimiéntalos y pásalos por harina solo por el lado de la carne, sacudiendo el exceso.",
+    "Mientras, desespina los filetes de trucha con pinzas y sécalos. Salpimiéntalos y pásalos por harina solo por el lado de la carne, sacudiendo el exceso.",
     "Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y cocina los filetes con la piel hacia abajo 3 minutos, presionándolos los primeros segundos con una espátula para que no se curven. Dales la vuelta 1 minuto y pásalos a una fuente.",
-    "Corta la cebolla morada en gajos gruesos y los tomates en gajos sin semillas: en la chorrillana las verduras deben quedar enteras y crujientes, no pochadas.",
-    "En la misma sartén, añade el resto del aceite y saltea el ajo picado y el ají amarillo 30 segundos. Añade la cebolla y el comino y saltea 2 minutos a fuego fuerte.",
+    "Corta la cebolla morada en gajos gruesos y los tomates en gajos sin semillas: en la chorrillana las verduras deben quedar enteras y crujientes, no pochadas. Pica el otro diente de ajo y el cilantro.",
+    "En la misma sartén, añade el resto del aceite y saltea el ajo y el ají amarillo 30 segundos. Añade la cebolla y el comino y saltea 2 minutos a fuego fuerte.",
     "Agrega el tomate y el vinagre y saltea 1 minuto más, solo hasta que el tomate se caliente y suelte un poco de jugo. Sala.",
-    "Reparte la salsa caliente sobre la trucha, espolvorea cilantro picado y sirve con el arroz."
+    "Reparte la salsa caliente sobre la trucha, espolvorea el cilantro y sirve con el arroz."
   ],
   nutricion: { kcal: 596, prot: 41, hc: 63, grasa: 20 },
   etiquetas: ["trucha", "pescado poco habitual", "rápida", "sin lácteos", "tupper", "picante", "bajo en colesterol"],
@@ -516,12 +516,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Desescama las sardinas con el dorso del cuchillo bajo el grifo, córtales la cabeza en diagonal y saca las tripas tirando con el dedo. Lávalas por dentro y sécalas. Déjalas enteras, con la espina.",
-    "Pon a cocer el arroz lavado con 1,2 veces su volumen de agua, tapado a fuego mínimo, 13 minutos, y deja reposar tapado 10 minutos.",
-    "Corta el pepino en rodajas finas, sálalo y deja que suelte agua 10 minutos. Escúrrelo apretando con las manos y alíñalo con 1 cucharada de vinagre de arroz y el sésamo.",
-    "En una sartén donde quepan las sardinas en una capa, pon 150 ml de agua, la soja, el mirin, el azúcar, el resto del vinagre y el jengibre en láminas finas. Lleva a ebullición.",
+    "Corta el jengibre en láminas finas. En una sartén donde quepan las sardinas en una capa, pon 150 ml de agua, la soja, el mirin, el azúcar, 1 cucharada de vinagre y el jengibre. Lleva a ebullición.",
     "Coloca las sardinas en el caldo hirviendo, sin solaparlas. Tápalas con un círculo de papel de horno con un agujero en el centro, apoyado directamente sobre el pescado: así el líquido sube y las baña sin tener que darles la vuelta, que es cuando se rompen.",
-    "Cuece a fuego medio-bajo 20-25 minutos, hasta que el líquido se haya reducido a un glaseado oscuro. El vinagre y la cocción lenta ablandan las espinas hasta poder comerlas.",
-    "Sirve las sardinas con su glaseado sobre el arroz, con el pepino aliñado y la cebolleta en aros por encima."
+    "Cuece a fuego medio-bajo 20-25 minutos, hasta que el líquido se haya reducido a un glaseado oscuro. El vinagre y la cocción lenta ablandan las espinas hasta poder comerlas. Mientras, pon a cocer el arroz lavado con 1,2 veces su volumen de agua, tapado a fuego mínimo, 13 minutos, y deja reposar tapado 10 minutos.",
+    "Mientras, corta el pepino en rodajas finas, sálalo y deja que suelte agua 10 minutos. Escúrrelo apretando con las manos y alíñalo con 1 cucharada de vinagre de arroz y el sésamo. Corta la cebolleta en aros.",
+    "Sirve las sardinas con su glaseado sobre el arroz, con el pepino aliñado y la cebolleta por encima."
   ],
   nutricion: { kcal: 510, prot: 36, hc: 60, grasa: 14 },
   etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "omega 3", "tupper", "sin lácteos", "económica", "poco especiada", "bajo en colesterol"],
@@ -562,8 +561,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Desescama las sardinas bajo el grifo con el dorso del cuchillo. Para eviscerarlas sin abrirlas, tira de la cabeza hacia abajo y hacia fuera: arrastrará las tripas. Lava el interior con un dedo bajo el agua y sécalas.",
     "Pica finos el cilantro, el perejil y el ajo y mézclalos con el comino, el pimentón, el zumo de medio limón y 1 cucharada de aceite. Unta las sardinas por dentro y por fuera y déjalas 15 minutos en la nevera.",
-    "Pela las naranjas a lo vivo: corta los dos polos, apóyalas sobre la tabla y retira la piel con la parte blanca de arriba abajo siguiendo la curva. Córtalas en rodajas. La piel blanca amarga y es correosa: sin ella la ensalada queda jugosa.",
-    "Reparte la naranja en una fuente con la cebolla morada en aros muy finos y las aceitunas. Aliña con la media cucharada de aceite restante, una pizca de canela y sal.",
+    "Mientras, pela las naranjas a lo vivo: corta los dos polos, apóyalas sobre la tabla y retira la piel con la parte blanca de arriba abajo siguiendo la curva. Córtalas en rodajas. La piel blanca amarga y es correosa: sin ella la ensalada queda jugosa.",
+    "Corta la cebolla morada en aros muy finos y repártela en una fuente con la naranja y las aceitunas. Aliña con la media cucharada de aceite restante, una pizca de canela y sal.",
     "Calienta la plancha a fuego fuerte y esparce sobre ella un puñadito de sal gruesa: hace de colchón y evita que la piel se pegue.",
     "Asa las sardinas 2-3 minutos por lado, sin moverlas hasta darles la vuelta, hasta que la piel esté tostada y la carne se separe de la espina.",
     "Sírvelas con la ensalada y gajos del otro medio limón."
@@ -605,10 +604,10 @@ window.RECETAS_SEED.push({
     "Por seguridad frente al anisakis, el pescado que se va a comer marinado (sin cocinar) debe congelarse antes al menos 5 días a -20 °C. Descongélalo en la nevera la víspera.",
     "Precalienta el horno a 200 °C y asa los pimientos, la berenjena y la cebolla enteros, pinchados con un tenedor, 45-50 minutos, girándolos a mitad, hasta que estén blandos y la piel tostada. Tápalos 10 minutos para que suden y se pelen fácil.",
     "Mientras, saca los lomos: quita cabeza y tripas, desescama y abre la sardina por el vientre. Tira de la espina desde la cabeza y sepárala; corta el lomo en dos por la línea central y retira con los dedos la fila de espinitas del borde de la tripa.",
-    "Coloca los lomos con la piel hacia abajo en un plato hondo, sálalos y cúbrelos con el zumo de los limones. Deja 30-40 minutos en la nevera, hasta que la carne se vuelva blanca y opaca: el ácido «cocina» las proteínas sin calor.",
-    "Pela las verduras asadas y córtalas en tiras. Alíñalas templadas con 1 cucharada de aceite, el ajo muy picado, sal y un poco de su jugo.",
+    "Coloca los lomos con la piel hacia abajo en un plato hondo, sálalos y cúbrelos con el zumo de los limones. Deja 30-40 minutos en la nevera, hasta que la carne se vuelva blanca y opaca: el ácido «cocina» las proteínas sin calor. Mientras, pica muy fino el ajo y pica el perejil.",
+    "Pela las verduras asadas y córtalas en tiras. Alíñalas templadas con 1 cucharada de aceite, el ajo, sal y un poco de su jugo.",
     "Calienta la cucharada de aceite restante a fuego suave, apártala y añade el pimentón: el aceite tibio extrae su color y sabor sin quemarlo.",
-    "Escurre los lomos, colócalos sobre la escalivada templada y riega con el aceite de pimentón y perejil picado."
+    "Escurre los lomos, colócalos sobre la escalivada templada y riega con el aceite de pimentón y el perejil."
   ],
   nutricion: { kcal: 407, prot: 28, hc: 22, grasa: 23 },
   etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "ligera", "tupper", "sin gluten", "sin lácteos", "verano", "aprende a filetear", "omega 3", "detox", "poco especiada", "bajo en colesterol"],
@@ -648,9 +647,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Limpia las sardinas y sácales los lomos: sin cabeza ni tripas, ábrelas por el vientre, retira la espina y separa los dos lomos. Sécalos y sálalos.",
+    "Precalienta el horno a 220 °C con aire. Limpia las sardinas y sácales los lomos: sin cabeza ni tripas, ábrelas por el vientre, retira la espina y separa los dos lomos. Sécalos y sálalos.",
     "Corta la col en juliana muy fina y la zanahoria rallada. Mézclalas con una pizca de sal y deja 10 minutos: la sal ablanda la col y le quita el punto áspero. Escurre el agua que suelte.",
-    "Precalienta el horno a 220 °C con aire. Mezcla el panko con el pimentón y la mitad del aceite y tuéstalo en una sartén seca 2-3 minutos, hasta que esté dorado: así el horno solo tendrá que calentar y quedará crujiente.",
+    "Mientras, mezcla el panko con el pimentón y la mitad del aceite y tuéstalo en una sartén seca 2-3 minutos, hasta que esté dorado: así el horno solo tendrá que calentar y quedará crujiente.",
     "Prepara tres platos: harina, huevo batido y panko. Usa una mano para la harina y el panko (mano seca) y la otra para el huevo (mano húmeda): así no acabas con dedos rebozados y la costra queda uniforme.",
     "Pasa los lomos por harina, huevo y panko, presionando para que se pegue. Colócalos en una rejilla sobre la bandeja (el aire circula por debajo y no se ablandan) y riégalos con el resto del aceite.",
     "Hornea 8-10 minutos, hasta que estén dorados y crujientes.",
@@ -691,9 +690,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Desespina los lomos de caballa: tienen una fila de espinas en el centro de la parte ancha. Lo más rápido es cortar en V a ambos lados de esa línea y retirar la tira estrecha con las espinas.",
     "Sala los lomos por los dos lados con generosidad (1 cucharadita en total) y déjalos 20 minutos en la nevera sobre papel. La sal hace salir el agua superficial, que es la que lleva el olor fuerte del pescado azul, y concentra el sabor.",
-    "Pon a cocer el arroz lavado con 1,2 veces su volumen de agua, tapado a fuego mínimo, 13 minutos. Deja reposar tapado.",
-    "Ralla los rábanos finos y escúrrelos un poco. Corta el pepino en rodajas finas y alíñalo con el vinagre de arroz y una pizca de sal.",
-    "Enciende el grill del horno al máximo. Seca muy bien la caballa con papel (quita la sal sobrante y el agua que ha soltado) y haz dos cortes superficiales en la piel de cada lomo para que no se encoja.",
+    "Mientras, pon a cocer el arroz lavado con 1,2 veces su volumen de agua, tapado a fuego mínimo, 13 minutos. Deja reposar tapado.",
+    "Ralla los rábanos finos y escúrrelos un poco. Corta el pepino en rodajas finas y alíñalo con el vinagre de arroz y una pizca de sal. Enciende el grill del horno al máximo.",
+    "Seca muy bien la caballa con papel (quita la sal sobrante y el agua que ha soltado) y haz dos cortes superficiales en la piel de cada lomo para que no se encoja.",
     "Pon los lomos con la piel hacia arriba en una bandeja con papel, en la altura más cercana al grill, y ásalos 6-8 minutos, hasta que la piel burbujee y se tueste en zonas. No hace falta darles la vuelta.",
     "Sirve la caballa con el arroz espolvoreado de sésamo, un montoncito de rábano rallado con unas gotas de soja, el pepino y un gajo de limón."
   ],
@@ -734,10 +733,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Usa caballa que haya estado congelada al menos 5 días a -20 °C, por seguridad frente al anisakis, y descongélala en la nevera. Desespínala cortando en V la línea central de espinas.",
     "Mezcla la sal gruesa, el azúcar y la ralladura de la naranja y del limón. Extiende la mitad en una fuente, coloca los lomos con la piel hacia abajo y cúbrelos con el resto. La sal saca el agua y endurece la carne; el azúcar suaviza el salado.",
-    "Deja curar en la nevera 1 hora (no más, o quedará demasiado salada). Lava los lomos bajo el grifo frío y sécalos muy bien.",
-    "Retira la piel fina transparente que cubre la caballa: levántala con la uña desde el extremo de la cabeza y tira hacia la cola; la piel plateada de debajo queda intacta y brillante.",
-    "Corta el hinojo en láminas muy finas (mejor con mandolina) y ponlo 10 minutos en agua con hielo: se riza y queda muy crujiente.",
+    "Deja curar en la nevera 1 hora (no más, o quedará demasiado salada).",
+    "Mientras, corta el hinojo en láminas muy finas (mejor con mandolina) y ponlo 10 minutos en agua con hielo: se riza y queda muy crujiente.",
     "Pela la naranja a lo vivo y córtala en gajos sobre un bol para recoger el jugo. Bate ese jugo con el zumo de medio limón, el aceite y pimienta.",
+    "Pasada la hora, lava los lomos bajo el grifo frío y sécalos muy bien. Retira la piel fina transparente que cubre la caballa: levántala con la uña desde el extremo de la cabeza y tira hacia la cola; la piel plateada de debajo queda intacta y brillante.",
     "Escurre el hinojo y mézclalo con la rúcula, los gajos de naranja y el eneldo. Corta la caballa en láminas al bies, colócala encima y aliña todo."
   ],
   nutricion: { kcal: 423, prot: 30, hc: 15, grasa: 27 },
@@ -777,8 +776,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Desespina los lomos de caballa cortando en V la fila central de espinas y córtalos en trozos de 4 cm. Sálalos y resérvalos en la nevera.",
-    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla picada 8 minutos, hasta que esté transparente. Añade el ajo laminado y cocina 1 minuto.",
+    "Desespina los lomos de caballa cortando en V la fila central de espinas y córtalos en trozos de 4 cm. Sálalos y resérvalos en la nevera. Pica la cebolla y lamina el ajo.",
+    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla 8 minutos, hasta que esté transparente. Añade el ajo y cocina 1 minuto.",
     "Incorpora el comino y el pimentón fuera del fuego y remueve 20 segundos: el pimentón se quema en segundos y amarga todo el guiso.",
     "Vuelve al fuego, añade el tomate y cocina 5 minutos, hasta que espese. Agrega los garbanzos enjuagados y el caldo, y cuece 10 minutos a fuego suave para que los garbanzos tomen sabor.",
     "Machaca un cucharón de garbanzos con un tenedor y devuélvelos a la cazuela: espesan el caldo de forma natural.",
@@ -820,11 +819,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece las patatas con piel en agua con sal 20-25 minutos, hasta que un cuchillo entre sin resistencia. Pélalas templadas y córtalas en rodajas gruesas.",
-    "Tritura las aceitunas con la mayonesa, el yogur y el zumo de media lima hasta obtener una crema lisa de color violeta. Si queda espesa, añade una cucharada de agua. Pruébala antes de salar: las aceitunas ya aportan mucha sal.",
-    "Corta el pulpo en láminas muy finas, al bies, con un cuchillo bien afilado. En finas láminas el pulpo es tierno incluso frío; en trozos gruesos resulta más gomoso.",
+    "Mientras se cuecen, tritura las aceitunas con la mayonesa, el yogur y el zumo de media lima hasta obtener una crema lisa de color violeta. Si queda espesa, añade una cucharada de agua. Pruébala antes de salar: las aceitunas ya aportan mucha sal.",
+    "Corta el pulpo en láminas muy finas, al bies, con un cuchillo bien afilado. En finas láminas el pulpo es tierno incluso frío; en trozos gruesos resulta más gomoso. Pica el cebollino.",
     "Corta el aguacate en láminas y rocíalo con unas gotas de lima para que no se oxide.",
     "Reparte en los platos las hojas de lechuga, las patatas y el aguacate. Coloca encima las láminas de pulpo.",
-    "Napa el pulpo con la crema de aceitunas, espolvorea el cebollino picado y sirve con gajos de lima."
+    "Napa el pulpo con la crema de aceitunas, espolvorea el cebollino y sirve con gajos de lima."
   ],
   nutricion: { kcal: 448, prot: 33, hc: 34, grasa: 20 },
   etiquetas: ["pulpo", "pescado poco habitual", "ligera", "sin gluten", "verano", "para invitados", "rápida", "poco especiada"],
@@ -861,12 +860,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Descongela el pulpo en la nevera la víspera. El congelado no es un pulpo peor: el hielo rompe las fibras y lo ablanda, por eso en casa conviene comprarlo así o congelarlo tú.",
-    "Lava el pulpo, dale la vuelta a la cabeza como un calcetín para comprobar que está vacía y retira el pico duro del centro de los tentáculos apretando desde abajo. Córtalo en trozos de 3 cm.",
-    "Calienta el aceite en una cazuela a fuego medio con el ajo laminado y la guindilla. Cuando el ajo empiece a dorarse, añade el pulpo y remueve 2 minutos: soltará bastante agua morada.",
-    "Añade el tomate, las aceitunas y las alcaparras, sin sal. Tapa bien y cuece a fuego muy suave 50-60 minutos, removiendo de vez en cuando. El pulpo se cocina en su propia agua y la cede a la salsa, que queda intensa y de color rojo oscuro.",
+    "Lava el pulpo, dale la vuelta a la cabeza como un calcetín para comprobar que está vacía y retira el pico duro del centro de los tentáculos apretando desde abajo. Córtalo en trozos de 3 cm. Lamina el ajo.",
+    "Calienta el aceite en una cazuela a fuego medio con el ajo y la guindilla. Cuando el ajo empiece a dorarse, añade el pulpo y remueve 2 minutos: soltará bastante agua morada.",
+    "Añade el tomate, las aceitunas y las alcaparras, sin sal. Tapa bien y cuece a fuego muy suave 50-60 minutos, removiendo de vez en cuando. El pulpo se cocina en su propia agua y la cede a la salsa, que queda intensa y de color rojo oscuro. Mientras, pica el perejil y, hacia el final, pon a hervir abundante agua con sal para la pasta.",
     "Pincha un trozo: si entra sin resistencia, está. Destapa, prueba de sal (el pulpo es salino) y deja reducir 5 minutos si la salsa está líquida.",
-    "Cuece los espaguetis en agua con sal 2 minutos menos de lo indicado y reserva un vaso del agua de cocción.",
-    "Termina la pasta en la cazuela del pulpo con un chorrito de agua de cocción, salteando 2 minutos a fuego fuerte hasta que la salsa se agarre a los espaguetis. Sirve con perejil picado."
+    "Cuece los espaguetis en el agua hirviendo 2 minutos menos de lo indicado y reserva un vaso del agua de cocción.",
+    "Termina la pasta en la cazuela del pulpo con un chorrito de agua de cocción, salteando 2 minutos a fuego fuerte hasta que la salsa se agarre a los espaguetis. Sirve con el perejil."
   ],
   nutricion: { kcal: 708, prot: 40, hc: 74, grasa: 28 },
   etiquetas: ["pulpo", "pescado poco habitual", "pasta", "tupper", "de domingo", "sin lácteos"],
@@ -907,7 +906,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a cocer el arroz lavado con 1,2 veces su volumen de agua, tapado a fuego mínimo, 13 minutos. Deja reposar tapado.",
-    "Mezcla el gochujang, la soja, el azúcar, el ajo y el jengibre rallados y 1 cucharada de agua. Es la salsa: tenla lista antes de encender el fuego.",
+    "Mientras, mezcla el gochujang, la soja, el azúcar, el ajo y el jengibre rallados y 1 cucharada de agua. Es la salsa: tenla lista antes de encender el fuego.",
     "Corta el pulpo en trozos de 3 cm y sécalo con papel de cocina. Si está húmedo, en el wok hervirá en lugar de tostarse.",
     "Corta la cebolla en gajos, el calabacín en medias lunas gruesas, la zanahoria en láminas finas al bies y la cebolleta en trozos de 4 cm. Cortes distintos según la dureza: así todo queda en su punto a la vez.",
     "Calienta el wok a fuego máximo con el aceite hasta que humee. Saltea la zanahoria y la cebolla 2 minutos, añade el calabacín y saltea 2 minutos más, hasta que esté dorado pero firme.",
@@ -949,10 +948,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y ponlas en un cazo pequeño con agua justo hasta cubrirlas y la sal gruesa. Cuece a fuego medio 20-25 minutos, hasta que estén tiernas.",
-    "Tira casi toda el agua, devuelve el cazo al fuego bajo y muévelo con vaivén 3-4 minutos: el agua salada que queda se evapora, la piel se arruga y se cubre de una capa fina de sal blanca.",
-    "Limpia los chicharros: desescámalos con el dorso del cuchillo y retira la línea de escamas duras que recorre cada costado (los «escudos»), pasando el cuchillo plano por debajo desde la cola hacia la cabeza. Eviscéralos, lávalos y sécalos.",
+    "Mientras se cuecen, limpia los chicharros: desescámalos con el dorso del cuchillo y retira la línea de escamas duras que recorre cada costado (los «escudos»), pasando el cuchillo plano por debajo desde la cola hacia la cabeza. Eviscéralos, lávalos y sécalos.",
     "Haz 2-3 cortes diagonales en cada costado, hasta la espina, para que se hagan por igual. Sálalos.",
     "Para el mojo, tritura el cilantro con el ajo, el pimiento verde, el comino, el vinagre, el aceite y una pizca de sal hasta obtener una salsa verde y espesa. Añade 1-2 cucharadas de agua si no se mueve.",
+    "Cuando las patatas estén tiernas, tira casi toda el agua, devuelve el cazo al fuego bajo y muévelo con vaivén 3-4 minutos: el agua salada que queda se evapora, la piel se arruga y se cubre de una capa fina de sal blanca.",
     "Calienta la plancha a fuego fuerte, úntala con unas gotas de aceite y asa los chicharros 5-6 minutos por lado, sin moverlos hasta darles la vuelta, hasta que la aleta dorsal se desprenda con facilidad.",
     "Sirve los chicharros con las papas arrugadas, el mojo verde para mojar y unas gotas de limón."
   ],
@@ -993,11 +992,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca los lomos del jurel: quita la cabeza con un corte detrás de la agalla, apoya el pescado de lado y desliza el cuchillo desde la cabeza a la cola pegado a la espina, sintiendo el roce con los huesos. Da la vuelta y repite. Retira la línea de escamas duras del costado con el cuchillo plano.",
-    "Pon a cocer el arroz lavado con 1,25 veces su volumen de agua, tapado a fuego mínimo, 12 minutos. Deja reposar tapado.",
-    "Para la salsa, sofríe en un cazo con 1 cucharada de aceite el ajo, la chalota y el chile picados 2 minutos. Añade el tamarindo, el azúcar, la salsa de pescado y 4 cucharadas de agua y cuece 3 minutos, hasta que espese como un jarabe. Debe ser a la vez ácida, dulce y salada.",
+    "Pon a cocer el arroz lavado con 1,25 veces su volumen de agua, tapado a fuego mínimo, 12 minutos. Deja reposar tapado. Mientras, pica el ajo, la chalota y el chile y corta el pepino en bastones.",
+    "Para la salsa, sofríe en un cazo con 1 cucharada de aceite el ajo, la chalota y el chile 2 minutos. Añade el tamarindo, el azúcar, la salsa de pescado y 4 cucharadas de agua y cuece 3 minutos, hasta que espese como un jarabe. Debe ser a la vez ácida, dulce y salada.",
     "Corta los lomos en dos, sécalos muy bien, sálalos ligeramente y rebózalos en la maicena, sacudiendo el exceso. La maicena forma una costra más fina y crujiente que la harina de trigo.",
     "Calienta un dedo y medio de aceite en una sartén a 180 °C y fríe los lomos 2 minutos por lado, con la piel hacia abajo primero, hasta que estén dorados y crujientes. Escúrrelos sobre papel.",
-    "Corta el pepino en bastones.",
     "Coloca el jurel sobre el arroz, napa con la salsa de tamarindo justo antes de servir (para que no pierda el crujiente) y acompaña con el pepino y el cilantro."
   ],
   nutricion: { kcal: 732, prot: 41, hc: 88, grasa: 24 },
@@ -1037,8 +1035,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia los mejillones bajo el grifo: arranca la barba tirando de ella hacia la punta estrecha de la concha y raspa las incrustaciones con el dorso de un cuchillo. Golpea los que estén abiertos contra la encimera: si no se cierran, están muertos y hay que tirarlos.",
-    "Hidrata los fideos de arroz en agua caliente del grifo 8-10 minutos (o según el paquete), hasta que estén flexibles. Escúrrelos.",
-    "Calienta el aceite en un wok grande a fuego fuerte y saltea el jengibre en bastoncitos, el ajo laminado, el chile y la parte blanca de la cebolleta 1 minuto.",
+    "Hidrata los fideos de arroz en agua caliente del grifo 8-10 minutos (o según el paquete), hasta que estén flexibles. Mientras, corta el jengibre en bastoncitos, lamina el ajo, pica el chile y corta la cebolleta separando la parte blanca de la verde. Escurre los fideos.",
+    "Calienta el aceite en un wok grande a fuego fuerte y saltea el jengibre, el ajo, el chile y la parte blanca de la cebolleta 1 minuto.",
     "Añade los mejillones y el vino, tapa y cocina 3-4 minutos, moviendo el wok un par de veces, hasta que se abran. Sácalos a un bol en cuanto se abran: si siguen al fuego, encogen y se vuelven gomosos. Tira los que sigan cerrados.",
     "Cuela el jugo del wok por un colador fino (puede llevar algo de arena) y devuélvelo al wok con la salsa de ostras y la soja. Deja hervir 1 minuto.",
     "Añade los fideos al wok y saltéalos 1 minuto para que absorban el jugo. Devuelve los mejillones, añade la parte verde de la cebolleta y el aceite de sésamo y mezcla.",
@@ -1084,12 +1082,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Purga los berberechos: ponlos 1-2 horas en un bol con agua fría y sal (unos 35 g por litro, como el agua de mar), en la nevera. Cambia el agua a mitad. Abren la concha, filtran y sueltan la arena. Sácalos con la mano, sin volcar el bol, para que la arena se quede en el fondo.",
     "Pon los berberechos en una cazuela con el vino a fuego fuerte, tapa y retíralos en cuanto se abran (2-3 minutos). Cuela el jugo por un colador con papel de cocina y añádelo al caldo. Saca la carne de la mitad de los berberechos y deja el resto en su concha.",
-    "Corta la parte dura de los espárragos (dóblalos: se parten justo donde empieza la parte tierna) y trocéalos, dejando las puntas aparte.",
-    "Calienta el aceite en la cazuela y saltea las gambas 1 minuto; sácalas. Pocha la cebolla y 2 ajos picados 8 minutos, añade el tomate rallado y cocina 5 minutos más, hasta que pierda el agua.",
+    "Corta la parte dura de los espárragos (dóblalos: se parten justo donde empieza la parte tierna) y trocéalos, dejando las puntas aparte. Pica la cebolla y 2 ajos, ralla el tomate y pon el caldo a calentar.",
+    "Calienta el aceite en la cazuela y saltea las gambas 1 minuto; sácalas. Pocha la cebolla y los 2 ajos 8 minutos, añade el tomate y cocina 5 minutos más, hasta que pierda el agua.",
     "Añade el arroz y nácaralo 1 minuto, removiendo: el grano se cubre de grasa y suelta el almidón de forma más gradual. Vierte el caldo caliente y los tallos de espárrago y cuece a fuego medio 12 minutos, removiendo de vez en cuando.",
-    "Mientras, mezcla la mayonesa con el ajo restante rallado, la ralladura del limón y unas gotas de su zumo.",
+    "Mientras, mezcla la mayonesa con el ajo restante rallado, la ralladura del limón y unas gotas de su zumo. Pica el perejil.",
     "Añade las puntas de espárrago y cuece 4 minutos más. Incorpora las gambas, la carne de berberecho y los berberechos con concha, remueve, prueba de sal y apaga cuando el arroz esté meloso y aún con un punto firme.",
-    "Deja reposar 2 minutos y sirve con perejil picado y el alioli de limón aparte."
+    "Deja reposar 2 minutos y sirve con el perejil y el alioli de limón aparte."
   ],
   nutricion: { kcal: 727, prot: 33, hc: 79, grasa: 31 },
   etiquetas: ["berberechos", "marisco", "pescado poco habitual", "arroz", "aprende a limpiar", "primavera", "para invitados", "sin lácteos", "poco especiada"],

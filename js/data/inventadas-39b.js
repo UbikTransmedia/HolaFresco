@@ -119,7 +119,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata la soja texturizada en el caldo caliente 10 minutos. Mientras, cuece el arroz en abundante agua con sal 12 minutos y escúrrelo.",
+    "Hidrata la soja texturizada en el caldo caliente 10 minutos. Mientras, cuece el arroz en abundante agua con sal 12 minutos y escúrrelo; aprovecha la espera para picar la cebolla, el pimiento y el ajo.",
     "Calienta el aceite en una sartén honda a fuego medio y sofríe la cebolla, el pimiento y el ajo picados 7 minutos, hasta que estén blandos.",
     "Añade la patata en dados, el comino y el orégano y rehoga 3 minutos. Incorpora la soja escurrida (reserva el caldo) y saltea 3 minutos a fuego alto para que se dore un poco.",
     "Vierte el tomate y el caldo reservado, tapa y cuece 10 minutos, hasta que la patata esté tierna.",
@@ -163,7 +163,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el farro en abundante agua con sal 25 minutos, hasta que esté tierno con un punto de mordida. Escúrrelo y, aún caliente, mézclalo con las espinacas para que se reduzcan con el calor.",
     "Mientras, precalienta el horno a 200 °C. Coloca el salmón en una fuente, salpimiéntalo, ponle unas rodajas de limón encima y hornea 10-12 minutos, hasta que esté opaco por fuera y se separe en lascas pero siga jugoso.",
-    "Mezcla el yogur con la mostaza, el ajo rallado, el eneldo picado, el zumo de medio limón y sal.",
+    "Mientras se hornea el salmón, ralla el ajo, pica el eneldo y mézclalos con el yogur, la mostaza, el zumo de medio limón y sal.",
     "Aliña el farro con espinacas con el aceite, sal y el zumo restante del limón.",
     "Reparte el farro en los tuppers y coloca encima el salmón en lomos grandes."
   ],
@@ -205,7 +205,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla el boniato con media cucharada de aceite, sal y la mitad del pimentón y ásalo en la airfryer a 200 °C 10 minutos.",
     "Añade los garbanzos secos mezclados con el comino, el resto del pimentón, sal y unas gotas de aceite. Cocina 12-14 minutos más a 200 °C, agitando cada 5 minutos, hasta que los garbanzos crujan y el boniato esté tierno y dorado.",
-    "Mientras, masajea el kale en un bol con el resto del aceite y una pizca de sal 1 minuto, hasta que se ablande y oscurezca. Añade la cebolla morada en pluma fina.",
+    "Mientras, masajea el kale en un bol con el resto del aceite y una pizca de sal 1 minuto, hasta que se ablande y oscurezca. Corta la cebolla morada en pluma fina y añádela.",
     "Bate el tahini con el zumo de naranja, sal y 1-2 cucharadas de agua hasta tener una salsa fluida.",
     "Reparte el kale en los tuppers, pon encima el boniato y las semillas, y lleva los garbanzos y el aliño aparte."
   ],
@@ -245,9 +245,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta 1 cucharada de aceite en una cazuela a fuego medio-alto y dora los champiñones 6 minutos, sin remover demasiado, hasta que estén tostados. Reserva un puñado para decorar.",
+    "Pica la cebolla y el ajo y deshoja el tomillo. Calienta 1 cucharada de aceite en una cazuela a fuego medio-alto y dora los champiñones 6 minutos, sin remover demasiado, hasta que estén tostados. Reserva un puñado para decorar.",
     "Baja a fuego medio, añade la cebolla y el ajo picados con las hojas de tomillo y pocha 6 minutos, hasta que la cebolla esté transparente.",
-    "Incorpora las alubias y el caldo, lleva a ebullición y cuece 8 minutos.",
+    "Incorpora las alubias y el caldo, lleva a ebullición y cuece 8 minutos. Mientras, pica el perejil.",
     "Añade la bebida vegetal y tritura hasta obtener una crema lisa y sedosa. Salpimienta.",
     "Sirve con los champiñones reservados, el perejil picado y un hilo del aceite restante."
   ],
@@ -290,7 +290,7 @@ window.RECETAS_SEED.push({
     "Mezcla el pollo con la harissa, el comino, el zumo de medio limón, media cucharada de aceite y sal. Deja marinar mientras preparas lo demás (o hasta una noche en la nevera).",
     "Mezcla la zanahoria y la cebolla con el resto del aceite y sal y ponlas en la cesta de la airfryer. Coloca el pollo encima y cocina a 190 °C 18-20 minutos, dándole la vuelta a mitad, hasta que el pollo esté dorado y su interior alcance los 75 °C.",
     "Mientras, pon el cuscús en un bol con 140 ml de agua hirviendo y sal, tapa 5 minutos y suéltalo con un tenedor.",
-    "Mezcla el yogur con la menta picada, la ralladura de medio limón y una pizca de sal.",
+    "Mientras termina el pollo, pica la menta y mézclala con el yogur, la ralladura de medio limón y una pizca de sal.",
     "Corta el pollo en tiras y reparte en los tuppers con el cuscús y las verduras asadas, regando con el jugo de la cesta."
   ],
   nutricion: { kcal: 586, prot: 42, hc: 64, grasa: 18 },
@@ -331,7 +331,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela en el doble de agua con sal 12 minutos tapada a fuego suave. Reposa tapada 5 minutos y extiéndela en una fuente para que se enfríe.",
-    "Corta el calabacín en medias lunas y dóralo en una sartén con media cucharada de aceite y sal 5-6 minutos a fuego medio-alto. Reserva.",
+    "Mientras se cuece la quinoa, corta el calabacín en medias lunas y dóralo en una sartén con media cucharada de aceite y sal 5-6 minutos a fuego medio-alto. Reserva.",
     "En la misma sartén, haz los filetes de pavo salpimentados y con orégano 3 minutos por cada lado, hasta que estén dorados y sin rosa en el centro. Deja reposar y córtalos en tiras.",
     "Mezcla la quinoa con el calabacín, el tomate seco y la albahaca. Aliña con el zumo del limón, el resto del aceite, sal y pimienta.",
     "Reparte en los tuppers con el pavo encima y la rúcula y las almendras en un lado, sin mezclar."
@@ -374,7 +374,7 @@ window.RECETAS_SEED.push({
     { n: "sésamo", q: 1, u: "cdta" }
   ],
   pasos: [
-    "Cuece los noodles el tiempo que marque el paquete menos 1 minuto, escúrrelos, pásalos por agua fría y mézclalos con unas gotas de aceite para que no se peguen.",
+    "Pon a hervir agua para los noodles. Mientras se calienta, corta la cebolla en pluma y pica el ajo y el jengibre. Cuece los noodles el tiempo que marque el paquete menos 1 minuto, escúrrelos, pásalos por agua fría y mézclalos con unas gotas de aceite para que no se peguen.",
     "Mezcla la salsa de soja, la worcestershire, el kétchup y 2 cucharadas de agua.",
     "Calienta el wok con 1 cucharada de aceite a fuego muy alto y saltea el pollo 3-4 minutos, hasta que esté dorado. Sácalo.",
     "Añade el resto del aceite y saltea la cebolla, la zanahoria y el pimiento 3 minutos. Incorpora la col, el ajo y el jengibre picados y saltea 3 minutos más, hasta que la col esté tierna pero crujiente.",
@@ -419,10 +419,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos y escúrrelo.",
-    "Mientras, calienta el aceite en una cazuela a fuego medio y sofríe la cebolla, el pimiento y el ajo picados 8 minutos, hasta que estén blandos.",
+    "Mientras, pica la cebolla, el pimiento y el ajo. Calienta el aceite en una cazuela a fuego medio y sofríelos 8 minutos, hasta que estén blandos.",
     "Sube el fuego, añade el calamar con una pizca de sal y saltea 3 minutos. Vierte el vino y deja evaporar 2 minutos.",
-    "Incorpora el tomate, el pimentón, el laurel y 100 ml de agua. Tapa y cuece a fuego suave 25 minutos, hasta que el calamar esté tierno al pincharlo.",
-    "Añade los guisantes y cuece 4 minutos más. Prueba de sal, retira el laurel y espolvorea perejil. Sirve con el arroz."
+    "Incorpora el tomate, el pimentón, el laurel y 100 ml de agua. Tapa y cuece a fuego suave 25 minutos, hasta que el calamar esté tierno al pincharlo. Mientras, pica el perejil.",
+    "Añade los guisantes y cuece 4 minutos más. Prueba de sal, retira el laurel y espolvorea el perejil. Sirve con el arroz."
   ],
   nutricion: { kcal: 442, prot: 30, hc: 58, grasa: 10 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "ligera", "batch cooking", "una sola olla", "fácil", "poco especiada"],
@@ -462,7 +462,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Parte las berenjenas por la mitad a lo largo, haz cortes en rejilla en la pulpa sin llegar a la piel, sálalas y colócalas boca abajo en un plato apto para microondas. Tapa y cocina 7-8 minutos a 800 W, hasta que la pulpa esté muy tierna.",
-    "Mientras, hidrata el bulgur en un bol con 140 ml de agua hirviendo y sal, tapado, 12 minutos.",
+    "Mientras, hidrata el bulgur en un bol con 140 ml de agua hirviendo y sal, tapado, 12 minutos. Aprovecha para picar la cebolla, el ajo, la menta y el perejil.",
     "Vacía la pulpa de las berenjenas con una cuchara dejando 1 cm junto a la piel y pícala.",
     "En una sartén con el aceite sofríe la cebolla y el ajo picados 5 minutos. Añade la pulpa, el tomate, el comino y el pimentón y cocina 5 minutos, hasta que el tomate se deshaga. Mezcla con el bulgur y las hierbas picadas.",
     "Rellena las berenjenas, cubre con el requesón desmigado y calienta 2 minutos a 800 W, hasta que el queso se temple."
@@ -506,8 +506,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y cuécela en el doble de agua con sal 12 minutos tapada a fuego suave. Reposa 5 minutos y suéltala con un tenedor.",
-    "Mientras, calienta el aceite en una sartén grande a fuego medio y pocha la cebolla, el ajo y los pimientos en dados 10 minutos, hasta que estén blandos.",
-    "Añade la berenjena y el calabacín en dados de 1,5 cm con sal y cocina 8 minutos, removiendo, hasta que estén tiernos.",
+    "Mientras, pica la cebolla y el ajo y corta los pimientos en dados. Calienta el aceite en una sartén grande a fuego medio y pocha la cebolla, el ajo y los pimientos 10 minutos, hasta que estén blandos; mientras se pochan, corta la berenjena y el calabacín en dados de 1,5 cm.",
+    "Añade la berenjena y el calabacín con sal y cocina 8 minutos, removiendo, hasta que estén tiernos.",
     "Incorpora el tomate y el orégano y cuece 10 minutos a fuego suave, hasta que el pisto esté espeso y sin agua.",
     "Añade las alubias, calienta 2 minutos, salpimienta y sirve sobre la quinoa."
   ],
@@ -547,11 +547,11 @@ window.RECETAS_SEED.push({
     { n: "cebolleta", q: 1, u: "ud", nota: "la parte verde" }
   ],
   pasos: [
-    "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal 12 minutos tapado a fuego mínimo. Reposa 5 minutos sin destapar.",
+    "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal 12 minutos tapado a fuego mínimo. Reposa 5 minutos sin destapar. Mientras, pica el ajo y el jengibre, trocea la guindilla y corta la parte verde de la cebolleta en aros.",
     "Calienta el wok con 1 cucharada de aceite a fuego alto y saltea las judías verdes bien secas 6-7 minutos, hasta que tengan la piel arrugada y manchas tostadas. Sácalas.",
     "Añade el resto del aceite y dora el cerdo picado 4 minutos, deshaciéndolo, hasta que esté crujiente en los bordes.",
     "Incorpora el ajo y el jengibre picados, la guindilla troceada y la pimienta de Sichuan y saltea 30 segundos.",
-    "Devuelve las judías, añade el tamari y el vinagre y saltea 1 minuto. Termina con la cebolleta en aros y sirve con el arroz."
+    "Devuelve las judías, añade el tamari y el vinagre y saltea 1 minuto. Termina con la cebolleta y sirve con el arroz."
   ],
   nutricion: { kcal: 666, prot: 32, hc: 76, grasa: 26 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "picante", "rápida", "fácil"],
@@ -592,9 +592,9 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio-alto, sala el pollo y dóralo 3 minutos. Sácalo.",
-    "Baja a fuego medio y pocha la cebolla picada 6 minutos. Añade el ajo y el jengibre rallados, el curry y la cúrcuma y remueve 30 segundos.",
-    "Incorpora el tomate, las lentejas lavadas y el caldo. Lleva a ebullición, tapa y cuece 20 minutos a fuego suave.",
+    "Pica la cebolla, ralla el ajo y el jengibre y lava las lentejas. Calienta el aceite en una cazuela a fuego medio-alto, sala el pollo y dóralo 3 minutos. Sácalo.",
+    "Baja a fuego medio y pocha la cebolla 6 minutos. Añade el ajo y el jengibre, el curry y la cúrcuma y remueve 30 segundos.",
+    "Incorpora el tomate, las lentejas y el caldo. Lleva a ebullición, tapa y cuece 20 minutos a fuego suave. Mientras, pica el cilantro.",
     "Añade la coliflor y el pollo y cuece 10 minutos más, hasta que las lentejas y la coliflor estén tiernas.",
     "Agrega las espinacas, deja que se reduzcan 1 minuto, prueba de sal y termina con cilantro."
   ],
@@ -634,10 +634,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon la patata y las judías verdes en tramos en un recipiente apto para microondas con 3 cucharadas de agua y sal. Tapa y cocina 8-9 minutos a 800 W, hasta que la patata esté tierna. Escurre.",
+    "Corta las judías verdes en tramos y ponlas con la patata en un recipiente apto para microondas con 3 cucharadas de agua y sal. Tapa y cocina 8-9 minutos a 800 W, hasta que la patata esté tierna. Mientras, corta la cebolla morada en pluma fina, parte los tomates y pica el perejil. Escurre la patata y las judías.",
     "Bate el vinagre, el pimentón, 1 cucharada de aceite, sal y pimienta y aliña las patatas y judías aún calientes, para que absorban la vinagreta.",
     "Calienta la plancha a fuego fuerte con el resto del aceite. Sala el bonito y márcalo 1 minuto por cada cara, hasta que esté dorado por fuera y rosado en el centro (se terminará con el calor residual).",
-    "Añade a la ensalada la cebolla morada en pluma fina, los tomates partidos y el perejil.",
+    "Añade a la ensalada la cebolla morada, los tomates y el perejil.",
     "Reparte la ensalada en los tuppers y coloca encima el bonito."
   ],
   nutricion: { kcal: 422, prot: 38, hc: 36, grasa: 14 },
@@ -680,8 +680,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece la pasta en abundante agua con sal según el paquete; añade los guisantes en los últimos 3 minutos. Escurre y enfría bajo el grifo.",
     "Mientras, haz la pechuga de pavo salpimentada en una sartén con el aceite 4 minutos por cada lado a fuego medio, hasta que esté hecha. Deja reposar y córtala en dados.",
-    "Mezcla el yogur con la mostaza, el zumo del limón, sal y pimienta hasta tener una salsa cremosa.",
-    "En un bol combina la pasta, los guisantes, el pavo, la zanahoria, los pepinillos y la cebolleta picada. Añade la salsa y mezcla bien.",
+    "Mientras se hace el pavo, pica la cebolleta y el cebollino y mezcla el yogur con la mostaza, el zumo del limón, sal y pimienta hasta tener una salsa cremosa.",
+    "En un bol combina la pasta, los guisantes, el pavo, la zanahoria, los pepinillos y la cebolleta. Añade la salsa y mezcla bien.",
     "Reparte en los tuppers y espolvorea el cebollino picado."
   ],
   nutricion: { kcal: 532, prot: 36, hc: 70, grasa: 12 },
@@ -722,9 +722,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos, hasta que esté tierno. Escúrrelo.",
-    "Mientras, tritura las espinacas, la albahaca, los piñones, el parmesano, el ajo, el zumo del limón, 1 cucharada de aceite, sal y 2-3 cucharadas de agua fría hasta tener un pesto fluido.",
+    "Mientras, tritura las espinacas, la albahaca, los piñones, el parmesano, el ajo, el zumo del limón, 1 cucharada de aceite, sal y 2-3 cucharadas de agua fría hasta tener un pesto fluido. Parte los tomates cherry por la mitad.",
     "Calienta el resto del aceite en una sartén a fuego medio-alto, salpimienta el pollo y saltéalo 6 minutos, hasta que esté dorado y hecho por dentro.",
-    "Añade los tomates cherry partidos por la mitad y saltea 2 minutos, solo hasta que empiecen a ablandarse.",
+    "Añade los tomates cherry y saltea 2 minutos, solo hasta que empiecen a ablandarse.",
     "Fuera del fuego, mezcla el arroz con el pollo, los tomates y el pesto."
   ],
   nutricion: { kcal: 596, prot: 40, hc: 64, grasa: 20 },
@@ -767,11 +767,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Salpimienta la ternera. Calienta el aceite en una cazuela a fuego alto y dórala en dos tandas 5 minutos, hasta que esté bien tostada por todas las caras. Sácala.",
-    "Baja a fuego medio y pocha la cebolla picada 7 minutos. Añade el ajo, la canela, el comino, el jengibre y el pimentón y remueve 30 segundos.",
-    "Incorpora el tomate, cocina 3 minutos y devuelve la carne con su jugo. Cubre con el caldo, tapa y cuece a fuego suave 55-60 minutos, hasta que la ternera esté tierna.",
+    "Pica la cebolla y el ajo. Salpimienta la ternera. Calienta el aceite en una cazuela a fuego alto y dórala en dos tandas 5 minutos, hasta que esté bien tostada por todas las caras. Sácala.",
+    "Baja a fuego medio y pocha la cebolla 7 minutos. Añade el ajo, la canela, el comino, el jengibre y el pimentón y remueve 30 segundos.",
+    "Incorpora el tomate, cocina 3 minutos y devuelve la carne con su jugo. Cubre con el caldo, tapa y cuece a fuego suave 55-60 minutos, hasta que la ternera esté tierna. Mientras, pela la calabaza, córtala en dados de 2 cm y pica el cilantro.",
     "Añade la calabaza y los garbanzos y cuece 15 minutos más destapado, hasta que la calabaza esté tierna y la salsa haya espesado.",
-    "Prueba de sal y termina con cilantro picado."
+    "Prueba de sal y termina con el cilantro picado."
   ],
   nutricion: { kcal: 660, prot: 46, hc: 56, grasa: 28 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "batch cooking", "de cuchara", "alta en proteína", "invierno"],
@@ -810,8 +810,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Coloca las láminas de calabacín en un plato, sálalas y cocínalas tapadas 3 minutos a 800 W para que suelten agua. Sécalas con papel de cocina.",
-    "Calienta el aceite en una sartén a fuego medio y pocha la cebolla, el ajo y la zanahoria picados 6 minutos. Añade el tomate y el orégano y cuece 8 minutos, hasta que espese. Incorpora las lentejas y sala.",
+    "Coloca las láminas de calabacín en un plato, sálalas y cocínalas tapadas 3 minutos a 800 W para que suelten agua. Mientras, pica la cebolla y el ajo. Seca el calabacín con papel de cocina.",
+    "Calienta el aceite en una sartén a fuego medio y pocha la cebolla, el ajo y la zanahoria 6 minutos. Añade el tomate y el orégano y cuece 8 minutos, hasta que espese. Incorpora las lentejas y sala.",
     "En una fuente de vidrio apta para microondas alterna capas: calabacín, lentejas con tomate y unas rodajas de mozzarella. Repite hasta terminar con calabacín, tomate, mozzarella y el parmesano.",
     "Cocina 8 minutos a 800 W, hasta que el queso esté fundido y burbujee por los bordes. Si tienes función grill, gratina 3 minutos más.",
     "Deja reposar 5 minutos para que asiente antes de cortar y termina con la albahaca."
@@ -854,11 +854,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el aceite en una cazuela a fuego medio-alto y dora el seitán 4 minutos, hasta que tenga costra por todas las caras. Sácalo.",
-    "Baja a fuego medio y pocha la cebolla y el ajo picados 7 minutos, hasta que la cebolla esté transparente.",
-    "Vierte el vino y deja evaporar 2 minutos. Añade la patata cascada, el laurel y el caldo y cuece 15 minutos, hasta que la patata esté casi tierna.",
+    "Pica la cebolla y el ajo. Calienta el aceite en una cazuela a fuego medio-alto y dora el seitán 4 minutos, hasta que tenga costra por todas las caras. Sácalo.",
+    "Baja a fuego medio y pocha la cebolla y el ajo 7 minutos, hasta que la cebolla esté transparente.",
+    "Vierte el vino y deja evaporar 2 minutos. Añade la patata cascada, el laurel y el caldo y cuece 15 minutos, hasta que la patata esté casi tierna. Mientras, pica el perejil.",
     "Incorpora el seitán, las alcachofas y los guisantes y cuece 5 minutos más, hasta que el caldo espese ligeramente con el almidón de la patata.",
-    "Salpimienta, retira el laurel y termina con perejil picado."
+    "Salpimienta, retira el laurel y termina con el perejil picado."
   ],
   nutricion: { kcal: 402, prot: 34, hc: 44, grasa: 10 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "vegana", "ligera", "alta en proteína", "de cuchara", "una sola olla", "fácil", "poco especiada", "bajo en colesterol"],
@@ -898,9 +898,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las lentejas lavadas, la patata y el caldo en una cazuela. Lleva a ebullición y cuece 20 minutos a fuego suave.",
-    "Mientras, calienta el aceite en una sartén a fuego medio y sofríe la cebolla picada 8 minutos, hasta que esté dorada. Añade el ajo picado y el comino y remueve 1 minuto.",
-    "Agrega a la cazuela el sofrito y las pencas de acelga y cuece 8 minutos.",
-    "Incorpora las hojas de acelga y la mitad del cilantro picado y cuece 4 minutos más, hasta que las lentejas estén tiernas.",
+    "Mientras, pica la cebolla y el ajo y separa las hojas de acelga de las pencas. Calienta el aceite en una sartén a fuego medio y sofríe la cebolla 8 minutos, hasta que esté dorada. Añade el ajo y el comino y remueve 1 minuto.",
+    "Agrega a la cazuela el sofrito y las pencas de acelga y cuece 8 minutos. Mientras, pica el cilantro.",
+    "Incorpora las hojas de acelga y la mitad del cilantro y cuece 4 minutos más, hasta que las lentejas estén tiernas.",
     "Apaga, añade el zumo del limón, salpimienta y termina con el resto del cilantro."
   ],
   nutricion: { kcal: 388, prot: 20, hc: 50, grasa: 12 },
@@ -940,11 +940,11 @@ window.RECETAS_SEED.push({
     { n: "chile fresco", q: 0.5, u: "ud", opcional: true }
   ],
   pasos: [
-    "Hidrata los fideos de arroz en agua caliente del grifo 8-10 minutos, hasta que estén flexibles pero firmes. Escúrrelos.",
+    "Hidrata los fideos de arroz en agua caliente del grifo 8-10 minutos, hasta que estén flexibles pero firmes. Mientras, pica el ajo, el jengibre, el chile y el cilantro. Escurre los fideos.",
     "Calienta el wok con el aceite a fuego alto y saltea el brócoli y la zanahoria con 3 cucharadas de agua 4 minutos, hasta que el brócoli esté verde intenso y tierno pero crujiente.",
-    "Añade el ajo y el jengibre picados y el chile, y saltea 30 segundos. Incorpora los langostinos y saltea 2 minutos, hasta que estén rosados.",
+    "Añade el ajo, el jengibre y el chile, y saltea 30 segundos. Incorpora los langostinos y saltea 2 minutos, hasta que estén rosados.",
     "Agrega los fideos, el tamari, la salsa de pescado y el zumo de media lima. Saltea 1-2 minutos, removiendo con pinzas, hasta que los fideos absorban la salsa.",
-    "Termina con el cilantro picado y la otra media lima en gajos."
+    "Termina con el cilantro y la otra media lima en gajos."
   ],
   nutricion: { kcal: 458, prot: 30, hc: 62, grasa: 10 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "rápida", "ligera", "fácil"],
@@ -985,9 +985,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal 12 minutos tapado a fuego mínimo. Reposa 5 minutos sin destapar.",
-    "Mezcla el tamari, el vinagre, el tomate concentrado, la miel, la maicena y 80 ml de agua (o del jugo de la piña).",
+    "Mientras se hace el arroz, corta la cebolla y los pimientos en cuadrados y pica el ajo. Mezcla el tamari, el vinagre, el tomate concentrado, la miel, la maicena y 80 ml de agua (o del jugo de la piña).",
     "Calienta el wok con 1 cucharada de aceite a fuego alto y saltea el cerdo 4-5 minutos, hasta que esté dorado. Sácalo.",
-    "Añade el resto del aceite y saltea la cebolla y los pimientos en cuadrados 3 minutos, hasta que estén tiernos pero crujientes. Incorpora el ajo picado y la piña y saltea 2 minutos.",
+    "Añade el resto del aceite y saltea la cebolla y los pimientos 3 minutos, hasta que estén tiernos pero crujientes. Incorpora el ajo y la piña y saltea 2 minutos.",
     "Devuelve el cerdo, vierte la salsa y remueve 1-2 minutos, hasta que espese y brille. Sirve con el arroz."
   ],
   nutricion: { kcal: 666, prot: 36, hc: 90, grasa: 18 },
@@ -1030,7 +1030,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos y escúrrelo.",
-    "Mientras, calienta el aceite en una cazuela a fuego medio y pocha la cebolla picada 6 minutos. Añade el ajo, el chile, el curry, la pimienta de Jamaica y el tomillo y remueve 1 minuto, hasta que huela intenso.",
+    "Mientras, pica la cebolla, el ajo y el chile. Calienta el aceite en una cazuela a fuego medio y pocha la cebolla 6 minutos. Añade el ajo, el chile, el curry, la pimienta de Jamaica y el tomillo y remueve 1 minuto, hasta que huela intenso.",
     "Incorpora la calabaza, la leche de coco y 150 ml de agua. Tapa y cuece 12 minutos, hasta que la calabaza esté tierna.",
     "Añade los garbanzos y aplasta algunos trozos de calabaza para espesar la salsa. Cuece 5 minutos más.",
     "Agrega las espinacas, deja que se reduzcan 1 minuto, sala y termina con el zumo de media lima. Sirve con el arroz."
@@ -1075,7 +1075,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el brócoli en un recipiente apto para microondas con 2 cucharadas de agua, tapa y cocina 2 minutos a 800 W: debe quedar verde brillante y crujiente. Pásalo por agua fría y escúrrelo bien.",
     "Salpimienta la pechuga, frótala con el pimentón y hazla en una sartén con el aceite 5-6 minutos por cada lado a fuego medio, hasta que esté hecha. Deja reposar y córtala en dados.",
-    "Mezcla el yogur con la mostaza, el vinagre, sal y pimienta hasta tener un aliño cremoso.",
+    "Mientras se hace la pechuga, mezcla el yogur con la mostaza, el vinagre, sal y pimienta hasta tener un aliño cremoso.",
     "En un bol combina el brócoli, el pollo, la cebolla morada, la manzana y los arándanos. Añade el aliño y mezcla bien.",
     "Reparte en los tuppers y pon las almendras encima justo antes de cerrar."
   ],

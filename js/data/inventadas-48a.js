@@ -37,14 +37,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el mijo en un colador fino y lávalo bajo el grifo frotándolo con los dedos hasta que el agua salga clara: así eliminas las saponinas de su superficie, que dan un punto amargo. Escúrrelo bien.",
+    "Pon el mijo en un colador fino y lávalo bajo el grifo frotándolo con los dedos hasta que el agua salga clara: así eliminas las saponinas de su superficie, que dan un punto amargo. Escúrrelo bien. Pica la cebolla y el ajo, corta la zanahoria en bastoncitos finos y pica el perejil.",
     "Corta el pollo en trozos de 4 cm, salpimiéntalo y dóralo en la cazuela con 1 cucharada de aceite a fuego medio-alto 5 minutos. No lo muevas los 2 primeros minutos: así se forma costra y se despega solo. Sácalo a un plato.",
-    "Baja a fuego medio y pocha la cebolla picada y la zanahoria en bastoncitos finos con el resto del aceite 7 minutos, rascando el fondo: ese tostado que ha dejado el pollo es sabor.",
-    "Añade el ajo picado, el comino y la canela y remueve 30 segundos, solo hasta que huela; las especias molidas se queman enseguida.",
+    "Baja a fuego medio y pocha la cebolla y la zanahoria con el resto del aceite 7 minutos, rascando el fondo: ese tostado que ha dejado el pollo es sabor.",
+    "Añade el ajo, el comino y la canela y remueve 30 segundos, solo hasta que huela; las especias molidas se queman enseguida.",
     "Incorpora el mijo escurrido y tuéstalo 3-4 minutos removiendo, hasta que crepite y huela a fruto seco. Este tostado sella la superficie del grano y es lo que lo mantiene suelto.",
     "Vierte el caldo caliente (2 volúmenes de líquido por 1 de mijo para un pilaf suelto), añade las pasas, devuelve el pollo con su jugo y sala ligeramente. Lleva a ebullición, tapa y cuece a fuego mínimo 15 minutos sin destapar.",
     "Apaga y deja reposar 10 minutos tapado: el vapor termina de cocer el grano sin que se pegue. Mientras, tuesta las almendras en una sartén seca 2-3 minutos, hasta que estén doradas.",
-    "Esponja el pilaf con un tenedor (con una cuchara lo aplastarías) y sírvelo con las almendras y el perejil picado por encima."
+    "Esponja el pilaf con un tenedor (con una cuchara lo aplastarías) y sírvelo con las almendras y el perejil por encima."
   ],
   nutricion: { kcal: 804, prot: 45, hc: 75, grasa: 36 },
   etiquetas: ["sin gluten", "tupper", "una sola olla", "batch cooking", "alta en proteína", "granos poco usados", "mijo", "cocina didáctica", "poco especiada"],
@@ -84,10 +84,10 @@ window.RECETAS_SEED.push({
     "Bate el huevo restante en un bol y mézclalo con el trigo sarraceno hasta que todos los granos queden brillantes.",
     "Tuéstalo en la cazuela seca a fuego medio 3-4 minutos, removiendo, hasta que los granos estén secos y separados: el huevo cuaja alrededor de cada grano y lo protege para que no se apelmace.",
     "Vierte el caldo hirviendo (2 volúmenes de líquido por 1 de grano), sala, tapa y cuece a fuego mínimo 10 minutos. Apaga y deja reposar 10 minutos sin destapar: si alargas el fuego, la kasha se convierte en papilla.",
-    "Mientras, pocha la cebolla en juliana fina con el aceite, la mitad de la mantequilla y una pizca de sal a fuego medio-bajo 15-20 minutos, hasta que esté dorada y dulce. La sal le hace soltar agua y acelera la caramelización.",
-    "Sube el fuego, añade los champiñones laminados y saltea 5 minutos sin remover al principio, hasta que doren y se evapore el agua que sueltan.",
+    "Mientras, corta la cebolla en juliana fina y póchala con el aceite, la mitad de la mantequilla y una pizca de sal a fuego medio-bajo 15-20 minutos, hasta que esté dorada y dulce. La sal le hace soltar agua y acelera la caramelización. Mientras se pocha, lamina los champiñones y pica el eneldo.",
+    "Sube el fuego, añade los champiñones y saltea 5 minutos sin remover al principio, hasta que doren y se evapore el agua que sueltan.",
     "Esponja la kasha con un tenedor y mézclala con el resto de la mantequilla, la mitad de las setas con cebolla y pimienta.",
-    "Sirve con el resto de los champiñones por encima, los huevos duros en cuartos y el eneldo picado."
+    "Sirve con el resto de los champiñones por encima, los huevos duros en cuartos y el eneldo."
   ],
   nutricion: { kcal: 565, prot: 23, hc: 62, grasa: 25 },
   etiquetas: ["sin gluten", "tupper", "invierno", "granos poco usados", "trigo sarraceno", "cocina didáctica", "poco especiada"],
@@ -129,12 +129,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la cebada perlada en un colador; no necesita remojo, porque el perlado ya le ha quitado la cáscara dura. Salpimienta la costilla.",
+    "Lava la cebada perlada en un colador; no necesita remojo, porque el perlado ya le ha quitado la cáscara dura. Salpimienta la costilla. Pica la cebolla y el ajo y corta la zanahoria en rodajas.",
     "Dora la costilla en la cazuela con el aceite a fuego fuerte 6-8 minutos, por tandas para que no se cueza en su jugo, hasta que esté bien tostada. Sácala.",
-    "En la grasa que queda, pocha la cebolla picada, la zanahoria en rodajas y el ajo 8 minutos a fuego medio. Añade el tomate concentrado y la alcaravea y tuesta 1 minuto; aparta del fuego, incorpora el pimentón y remueve 20 segundos para que no amargue.",
-    "Devuelve la costilla, añade el laurel y el caldo, lleva a ebullición, retira la espuma y cuece tapado a fuego suave 30 minutos para que la carne empiece a ablandarse.",
+    "En la grasa que queda, pocha la cebolla, la zanahoria y el ajo 8 minutos a fuego medio. Añade el tomate concentrado y la alcaravea y tuesta 1 minuto; aparta del fuego, incorpora el pimentón y remueve 20 segundos para que no amargue.",
+    "Devuelve la costilla, añade el laurel y el caldo, lleva a ebullición, retira la espuma y cuece tapado a fuego suave 30 minutos para que la carne empiece a ablandarse. Mientras, corta el repollo en tiras.",
     "Incorpora la cebada y cuece 25 minutos más, removiendo de vez en cuando. Suelta almidón y engorda el caldo: por eso este guiso no necesita harina.",
-    "Añade el repollo en tiras y cuece 10-12 minutos, hasta que la cebada esté tierna pero con un punto elástico al morderla y la carne se separe del hueso.",
+    "Añade el repollo y cuece 10-12 minutos, hasta que la cebada esté tierna pero con un punto elástico al morderla y la carne se separe del hueso.",
     "Rectifica de sal, añade el vinagre (aviva un guiso graso) y deja reposar 5 minutos antes de servir."
   ],
   nutricion: { kcal: 798, prot: 44, hc: 61, grasa: 42 },
@@ -176,12 +176,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la espelta. Si es grano entero (no perlado), déjala en remojo 8 horas, porque tarda el doble. Calienta el caldo y mantenlo a fuego mínimo.",
-    "Dobla cada espárrago: se partirá solo por donde empieza la parte leñosa. Corta las yemas y resérvalas; los tallos, en rodajas de 1 cm.",
-    "Pocha la cebolleta picada con el aceite y la mitad de la mantequilla 5 minutos a fuego medio. Añade la espelta y nacárala 2 minutos removiendo, hasta que brille: así el grano absorberá el caldo de forma uniforme.",
-    "Vierte el vino y deja que se evapore 1 minuto. Añade 2 cucharones de caldo caliente y cuece, añadiendo más a medida que se absorba. A diferencia del arroz, la espelta no pide removido constante: basta con remover cada 2-3 minutos.",
+    "Dobla cada espárrago: se partirá solo por donde empieza la parte leñosa. Corta las yemas y resérvalas; los tallos, en rodajas de 1 cm. Pica la cebolleta.",
+    "Pocha la cebolleta con el aceite y la mitad de la mantequilla 5 minutos a fuego medio. Añade la espelta y nacárala 2 minutos removiendo, hasta que brille: así el grano absorberá el caldo de forma uniforme.",
+    "Vierte el vino y deja que se evapore 1 minuto. Añade 2 cucharones de caldo caliente y cuece, añadiendo más a medida que se absorba. A diferencia del arroz, la espelta no pide removido constante: basta con remover cada 2-3 minutos. Entre removido y removido, ralla el pecorino y la piel del limón y pica la menta.",
     "A los 15 minutos añade los tallos de espárrago; a los 22, las yemas y los guisantes. Sigue 5-8 minutos más, hasta que el grano esté tierno con un punto mordiente en el centro (25-30 minutos en total).",
-    "Apaga, añade la mantequilla fría, el pecorino rallado y la ralladura de limón, y remueve con energía 1 minuto: la grasa fría y el almidón emulsionan una salsa cremosa (es el mantecado). Debe quedar fluido, haciendo ola al mover la cazuela.",
-    "Deja reposar 2 minutos tapado, salpimienta y sirve con la menta picada."
+    "Apaga, añade la mantequilla fría, el pecorino y la ralladura de limón, y remueve con energía 1 minuto: la grasa fría y el almidón emulsionan una salsa cremosa (es el mantecado). Debe quedar fluido, haciendo ola al mover la cazuela.",
+    "Deja reposar 2 minutos tapado, salpimienta y sirve con la menta."
   ],
   nutricion: { kcal: 547, prot: 22, hc: 63, grasa: 23 },
   etiquetas: ["primavera", "tupper", "una sola olla", "granos poco usados", "espelta", "cocina didáctica", "poco especiada"],
@@ -221,10 +221,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lleva el agua a ebullición con sal. Echa la polenta en forma de lluvia con una mano mientras bates con varillas con la otra: si cae de golpe se forman grumos que ya no se deshacen. Cuece 5 minutos removiendo con cuchara de madera, hasta que se despegue de las paredes.",
     "Mezcla el parmesano y extiende la polenta en una fuente aceitada en una capa de 1,5 cm. Deja enfriar 30 minutos (15 en la nevera): al enfriarse, el almidón gelifica y se puede cortar.",
-    "Mientras, pocha la cebolla en juliana con 1 cucharada de aceite y una pizca de sal a fuego medio-bajo 20 minutos, hasta que esté muy blanda y dorada. Añade el vino y deja reducir 2 minutos.",
+    "Mientras, corta la cebolla en juliana y póchala con 1 cucharada de aceite y una pizca de sal a fuego medio-bajo 20 minutos, hasta que esté muy blanda y dorada; mientras se pocha, lamina el ajo y pica el perejil. Añade el vino y deja reducir 2 minutos.",
     "Corta la polenta en dados grandes, píntalos con aceite y dóralos en una sartén muy caliente 3 minutos por lado sin moverlos, hasta que tengan costra: si los mueves antes, se rompen.",
-    "Seca muy bien los chipirones con papel. Saltéalos en la sartén bien caliente con el resto del aceite y el ajo laminado 2-3 minutos, en tandas pequeñas: si llenas la sartén, la temperatura cae, sueltan agua y quedan gomosos.",
-    "Mezcla los chipirones con la cebolla, salpimienta y añade el perejil picado y unas gotas de limón.",
+    "Seca muy bien los chipirones con papel. Saltéalos en la sartén bien caliente con el resto del aceite y el ajo 2-3 minutos, en tandas pequeñas: si llenas la sartén, la temperatura cae, sueltan agua y quedan gomosos.",
+    "Mezcla los chipirones con la cebolla, salpimienta y añade el perejil y unas gotas de limón.",
     "Sirve los chipirones encebollados sobre la polenta recién dorada."
   ],
   nutricion: { kcal: 612, prot: 41, hc: 58, grasa: 24 },
@@ -266,11 +266,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga el amaranto en un colador muy fino (el grano es diminuto, como semillas de amapola). Ponlo en un cazo con el agua (1:3) y una pizca de sal, lleva a ebullición, tapa y cuece a fuego mínimo 20 minutos, hasta que lo absorba todo y quede como una gacha espesa y algo gelatinosa. Esa textura pegajosa es normal: aquí hará de pegamento. Deja templar.",
-    "Ralla el calabacín, sálalo y déjalo 10 minutos en un colador; después apriétalo a puñados dentro de un paño para sacar toda el agua. Si no, las tortitas se deshacen y no doran.",
-    "En un bol, mezcla el amaranto templado, el calabacín, los huevos batidos, el queso fresco desmenuzado, la cebolleta picada, la mitad del cilantro, el comino y la harina de maíz. Debe quedar una masa que se sostenga en la cuchara.",
-    "Para la salsa, sofríe el ajo y el chile picados (sin semillas si lo quieres suave) en media cucharada de aceite 1 minuto; añade el tomate y una pizca de sal y cuece 10 minutos, hasta que espese.",
+    "Mientras se cuece, ralla el calabacín, sálalo y déjalo 10 minutos en un colador (aprovecha para picar la cebolleta, el cilantro, el ajo y el chile, sin semillas si lo quieres suave); después apriétalo a puñados dentro de un paño para sacar toda el agua. Si no, las tortitas se deshacen y no doran.",
+    "En un bol, mezcla el amaranto templado, el calabacín, los huevos batidos, el queso fresco desmenuzado, la cebolleta, la mitad del cilantro, el comino y la harina de maíz. Debe quedar una masa que se sostenga en la cuchara.",
+    "Para la salsa, sofríe el ajo y el chile en media cucharada de aceite 1 minuto; añade el tomate y una pizca de sal y cuece 10 minutos, hasta que espese.",
     "Calienta el resto del aceite en una sartén antiadherente a fuego medio. Pon cucharadas de masa, aplánalas a 1 cm y cocina 3-4 minutos por lado sin moverlas, hasta que estén doradas y firmes. Dales la vuelta solo cuando se despeguen solas.",
-    "Sirve las tortitas con la salsa y el resto del cilantro picado."
+    "Sirve las tortitas con la salsa y el resto del cilantro."
   ],
   nutricion: { kcal: 440, prot: 18, hc: 44, grasa: 21 },
   etiquetas: ["sin gluten", "ligera", "tupper", "para niños", "granos poco usados", "amaranto", "cocina didáctica", "verduras escondidas"],
@@ -311,9 +311,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Enjuaga el arroz salvaje y cuécelo en 1 litro de agua con sal a fuego medio 45-50 minutos, como si fuera pasta, hasta que muchos granos se abran y enseñen el interior blanco: ese es el punto. Escúrrelo.",
     "Mientras, precalienta el horno a 200 °C. Saca el pavo de la nevera 20 minutos antes, sécalo y úntalo con la mostaza, el aceite, el tomillo deshojado, sal y pimienta.",
-    "Asa la pechuga en una fuente 25-30 minutos, hasta que el centro alcance 68-70 °C o el jugo salga transparente al pincharla.",
+    "Asa la pechuga en una fuente 25-30 minutos, hasta que el centro alcance 68-70 °C o el jugo salga transparente al pincharla. Mientras, pica la cebolla y corta el apio en dados.",
     "Sácala, tápala con papel de aluminio y deja reposar 10 minutos: las fibras se relajan y retienen el jugo. Si la cortas al momento, el jugo acaba en la tabla.",
-    "Pocha la cebolla picada y el apio en dados con la mantequilla 8 minutos a fuego medio.",
+    "Mientras reposa, pocha la cebolla y el apio con la mantequilla 8 minutos a fuego medio.",
     "Añade el arroz escurrido, los arándanos, la ralladura de media naranja y el zumo de la naranja entera; saltea 2 minutos para que el grano absorba el zumo. Salpimienta.",
     "Tuesta las nueces en una sartén seca 2-3 minutos y pícalas en trozos grandes.",
     "Corta el pavo en filetes de 1 cm a contraveta (perpendicular a las fibras, para que quede tierno) y sírvelo sobre el arroz con las nueces y el jugo del reposo."
@@ -355,11 +355,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las azukis y, si puedes, déjalas 6-8 horas en remojo: no es imprescindible porque son pequeñas y de piel fina, pero acorta la cocción a la mitad y las hace más digestivas. Escúrrelas.",
     "Cúbrelas en la cazuela con 3 dedos de agua fría, hierve 5 minutos fuertes, escurre y tira esa primera agua: se lleva parte del amargor y de los compuestos que causan gases.",
-    "Vuelve a cubrirlas con 800 ml de agua, añade el jengibre en láminas y cuece tapado a fuego suave 40 minutos (60-70 si no las remojaste), hasta que estén tiernas.",
-    "Añade la calabaza pelada en dados de 3 cm y la parte blanca de la cebolleta en rodajas. Cuece 15-20 minutos más, hasta que la calabaza se deje atravesar y empiece a deshacerse por los bordes, espesando el caldo.",
+    "Vuelve a cubrirlas con 800 ml de agua, añade el jengibre en láminas y cuece tapado a fuego suave 40 minutos (60-70 si no las remojaste), hasta que estén tiernas. Mientras, pela la calabaza y córtala en dados de 3 cm, y corta la parte blanca de la cebolleta en rodajas y la verde en aros.",
+    "Añade la calabaza y la parte blanca de la cebolleta. Cuece 15-20 minutos más, hasta que la calabaza se deje atravesar y empiece a deshacerse por los bordes, espesando el caldo.",
     "Incorpora las espinacas y deja 1 minuto, solo hasta que se ablanden.",
     "Disuelve el miso en un cazo con un poco de caldo caliente y añádelo fuera del fuego junto con el tamari: el miso no debe hervir, porque pierde aroma.",
-    "Sirve con la parte verde de la cebolleta en aros, unas gotas de aceite de sésamo y el sésamo tostado."
+    "Sirve con la parte verde de la cebolleta, unas gotas de aceite de sésamo y el sésamo tostado."
   ],
   nutricion: { kcal: 435, prot: 23, hc: 70, grasa: 7 },
   etiquetas: ["vegana", "de cuchara", "ligera", "tupper", "otoño", "granos poco usados", "azukis", "cocina didáctica", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -399,10 +399,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava las alubias carilla: no necesitan remojo porque su piel es muy fina. Cúbrelas con 1,5 litros de agua fría con el laurel, lleva a ebullición y cuece a fuego suave 35-45 minutos, hasta que estén tiernas pero enteras. Pruébalas a los 30: se pasan rápido, y para ensalada interesa que no se rompan.",
     "Sala el agua en los últimos 10 minutos y deja que se templen 15 minutos en su propio caldo: así se hidratan sin resecarse ni agrietarse. Escúrrelas.",
-    "Mientras, corta la cebolla morada en juliana muy fina y déjala 10 minutos en agua fría con un chorrito de vinagre: pierde el picor y queda crujiente y más rosada.",
+    "Mientras, corta la cebolla morada en juliana muy fina y déjala 10 minutos en agua fría con un chorrito de vinagre: pierde el picor y queda crujiente y más rosada. Corta el pimiento asado en tiras y el tomate en dados y pica el perejil.",
     "Bate el vinagre de Jerez, el aceite, el comino, sal y pimienta hasta que emulsione.",
     "Mezcla las alubias tibias con la vinagreta: templadas absorben mejor el aliño que frías.",
-    "Añade el pimiento asado en tiras, el tomate en dados, la cebolla escurrida y el atún en lascas grandes. Remueve con cuidado y termina con el perejil picado."
+    "Añade el pimiento asado, el tomate, la cebolla escurrida y el atún en lascas grandes. Remueve con cuidado y termina con el perejil."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 45, grasa: 14 },
   etiquetas: ["sin gluten", "ensalada completa", "tupper", "ideal para llevar", "verano", "económica", "alta en proteína", "granos poco usados", "alubia carilla", "superalimentos", "poco especiada"],
@@ -436,10 +436,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hierve las habas 2 minutos en agua con sal y pásalas a un bol con agua y hielo: el choque frío fija el verde y corta la cocción.",
+    "Pica la menta. Hierve las habas 2 minutos en agua con sal y pásalas a un bol con agua y hielo: el choque frío fija el verde y corta la cocción.",
     "Pélalas: pellizca la piel blanquecina de cada haba y aprieta; sale el grano verde y tierno. Es lento, pero cambia el plato: la piel es la que amarga y queda correosa.",
     "Limpia los ajos tiernos y córtalos en rodajas finas. Póchalos en una sartén de 20-22 cm con 1,5 cucharadas de aceite a fuego medio-bajo 5 minutos, hasta que estén blandos sin dorarse. Añade las habas y saltea 1 minuto.",
-    "Bate los huevos con sal, pimienta y la menta picada, solo hasta mezclar. Echa las habas y los ajos sobre el huevo y deja reposar 2 minutos: la mezcla se templa y luego cuaja de forma más uniforme.",
+    "Bate los huevos con sal, pimienta y la menta, solo hasta mezclar. Echa las habas y los ajos sobre el huevo y deja reposar 2 minutos: la mezcla se templa y luego cuaja de forma más uniforme.",
     "Calienta el resto del aceite en la sartén a fuego medio, vierte la mezcla y remueve 20 segundos como para un revuelto, para que el centro empiece a cuajar a la vez que los bordes. Deja 2-3 minutos sin tocar.",
     "Dale la vuelta con ayuda de un plato y cocina 1-2 minutos más; debe quedar jugosa por dentro.",
     "Sírvela con el tomate en rodajas aliñado con sal y unas gotas de aceite."
@@ -483,9 +483,9 @@ window.RECETAS_SEED.push({
     "Lava las lentejas beluga (no necesitan remojo). Ponlas en un cazo con 3 veces su volumen de agua fría, el laurel, el tomillo y la zanahoria en dados pequeños. Lleva a ebullición y baja a un hervor muy suave: el borboteo fuerte rompe la piel.",
     "Cuece 20-25 minutos, hasta que estén tiernas pero conserven la forma y el brillo negro. Sala solo en los últimos 5 minutos. Escurre y retira el laurel y el tomillo.",
     "Mientras, limpia los puerros: ábrelos a lo largo y lávalos bajo el grifo, porque guardan tierra entre las capas. Córtalos en medias lunas y póchalos con 1 cucharada de aceite y una pizca de sal a fuego medio-bajo, tapados, 10 minutos, hasta que estén melosos.",
-    "Corta el tofu ahumado en dados de 1,5 cm, sécalo con papel y dóralo en una sartén con media cucharada de aceite a fuego medio-alto 6-8 minutos, dándole vueltas, hasta que esté crujiente por fuera.",
-    "Bate la mostaza antigua con el vinagre, el resto del aceite, sal y pimienta.",
-    "Mezcla las lentejas aún calientes con la vinagreta y el puerro, y sírvelas con el tofu por encima y el perejil picado."
+    "Mientras se pochan, corta el tofu ahumado en dados de 1,5 cm, sécalo con papel y dóralo en una sartén con media cucharada de aceite a fuego medio-alto 6-8 minutos, dándole vueltas, hasta que esté crujiente por fuera.",
+    "Bate la mostaza antigua con el vinagre, el resto del aceite, sal y pimienta, y pica el perejil.",
+    "Mezcla las lentejas aún calientes con la vinagreta y el puerro, y sírvelas con el tofu por encima y el perejil."
   ],
   nutricion: { kcal: 565, prot: 35, hc: 52, grasa: 24 },
   etiquetas: ["vegana", "sin gluten", "alta en proteína", "tupper", "otoño", "granos poco usados", "lentejas beluga", "cocina didáctica", "poco especiada", "bajo en colesterol"],
@@ -526,11 +526,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Enjuaga los altramuces y déjalos 30 minutos en un bol con agua fría, cambiándola una vez: vienen en una salmuera muy salada y algo amarga, y así se suavizan. Prueba uno: debe saber a legumbre suave.",
+    "Enjuaga los altramuces y déjalos 30 minutos en un bol con agua fría, cambiándola una vez: vienen en una salmuera muy salada y algo amarga, y así se suavizan. Mientras, pica la cebolla, el ajo, el cilantro y el perejil. Prueba uno: debe saber a legumbre suave.",
     "Pélalos: aprieta cada altramuz entre los dedos y la piel dura y amarilla se abre. Es opcional, pero sin piel absorben mucho mejor la salsa.",
-    "Pocha la cebolla picada con 1 cucharada de aceite a fuego medio 8 minutos, hasta que esté transparente. Añade el ajo picado y remueve 1 minuto.",
+    "Pocha la cebolla con 1 cucharada de aceite a fuego medio 8 minutos, hasta que esté transparente. Añade el ajo y remueve 1 minuto.",
     "Aparta del fuego y añade el pimentón, el comino y el jengibre; remueve 20 segundos para que se tuesten en la grasa sin quemarse.",
-    "Incorpora el tomate, 100 ml de agua y la mitad del cilantro y del perejil picados. Cuece 10 minutos a fuego suave, hasta que la salsa espese.",
+    "Incorpora el tomate, 100 ml de agua y la mitad del cilantro y del perejil. Cuece 10 minutos a fuego suave, hasta que la salsa espese.",
     "Añade los altramuces y cuece tapado 10 minutos más: como ya están cocidos, solo necesitan tomar el sabor de la salsa. Prueba antes de salar, porque aún conservan algo de sal.",
     "Termina con el zumo de limón, el resto de las hierbas y un hilo del aceite restante en crudo, y sirve con la pita tostada en la sartén seca 1 minuto por lado."
   ],
@@ -574,9 +574,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon los garbanzos negros en remojo en abundante agua fría 12-24 horas: su piel es más gruesa que la del garbanzo común y necesitan más tiempo.",
-    "Pon agua a hervir y, cuando borbotee, echa los garbanzos escurridos con el laurel y la ñora abierta y sin semillas. Los garbanzos van siempre a agua caliente, para que la piel no se suelte. Cuece tapado a fuego suave 2 horas (35-40 minutos en olla exprés), hasta que estén tiernos; si hay que añadir agua, que esté caliente.",
+    "Pon agua a hervir y, cuando borbotee, echa los garbanzos escurridos con el laurel y la ñora abierta y sin semillas. Los garbanzos van siempre a agua caliente, para que la piel no se suelte. Cuece tapado a fuego suave 2 horas (35-40 minutos en olla exprés), hasta que estén tiernos; si hay que añadir agua, que esté caliente. Mientras, corta el calamar en anillas y las patas en trozos y pica la cebolla, el pimiento y el ajo.",
     "Saca la ñora, raspa su carne con una cuchara y resérvala.",
-    "Corta el calamar en anillas y las patas en trozos. En una cazuela, sofríe la cebolla, el pimiento y el ajo picados en el aceite 10 minutos a fuego medio; añade el calamar y rehoga 5 minutos, hasta que suelte su agua y la vuelva a absorber.",
+    "En una cazuela, sofríe la cebolla, el pimiento y el ajo en el aceite 10 minutos a fuego medio; añade el calamar y rehoga 5 minutos, hasta que suelte su agua y la vuelva a absorber.",
     "Añade el tomate y la carne de la ñora y cocina 5 minutos. Aparta del fuego, incorpora el pimentón, remueve 20 segundos, vierte el vino y deja evaporar 2 minutos.",
     "Incorpora los garbanzos escurridos, el caldo de pescado y un cazo del caldo de cocción. Cuece a fuego suave 25 minutos: con esa cocción larga, el calamar pasa de gomoso a tierno.",
     "Añade las espinacas, cocina 2 minutos, rectifica de sal y deja reposar 10 minutos antes de servir."
@@ -617,9 +617,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava el mijo en un colador fino frotándolo hasta que el agua salga clara.",
-    "Pocha el puerro en rodajas y el ajo con 1 cucharada de aceite a fuego medio 6 minutos, sin que tomen color: el dorado oscurecería la crema.",
-    "Añade el mijo y remueve 1 minuto. Incorpora la coliflor en ramilletes y el caldo, lleva a ebullición y cuece tapado a fuego suave 20-25 minutos, hasta que la coliflor esté muy tierna. Aquí el mijo lleva muchísimo más líquido del que necesita: se pasa a propósito para soltar todo su almidón.",
+    "Lava el mijo en un colador fino frotándolo hasta que el agua salga clara. Corta el puerro en rodajas, pica el ajo y separa la coliflor en ramilletes.",
+    "Pocha el puerro y el ajo con 1 cucharada de aceite a fuego medio 6 minutos, sin que tomen color: el dorado oscurecería la crema.",
+    "Añade el mijo y remueve 1 minuto. Incorpora la coliflor y el caldo, lleva a ebullición y cuece tapado a fuego suave 20-25 minutos, hasta que la coliflor esté muy tierna. Aquí el mijo lleva muchísimo más líquido del que necesita: se pasa a propósito para soltar todo su almidón.",
     "Mientras, seca muy bien los garbanzos con papel y tuéstalos en una sartén con media cucharada de aceite a fuego medio 8-10 minutos, moviéndolos, hasta que estén crujientes; al final añade sal y la mitad del pimentón. Tuesta también las semillas 1-2 minutos.",
     "Tritura la crema con la nuez moscada, sal y pimienta durante 2 minutos, hasta que esté totalmente lisa. Si queda espesa, aligera con agua caliente: el mijo sigue espesando al enfriar.",
     "Calienta el resto del aceite, retíralo del fuego y añade el resto del pimentón; remueve 10 segundos.",
@@ -661,13 +661,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hidrata el shiitake seco en 200 ml de agua caliente 20 minutos. Escúrrelo apretándolo, pícalo y guarda el agua: es un caldo concentrado de umami.",
+    "Hidrata el shiitake seco en 200 ml de agua caliente 20 minutos. Mientras, pica la cebolla, ralla la zanahoria, pela la patata y córtala en dados de 1,5 cm y trocea las setas. Escúrrelo apretándolo, pícalo y guarda el agua: es un caldo concentrado de umami.",
     "Tuesta el trigo sarraceno en la cazuela seca a fuego medio 3-4 minutos, removiendo, hasta que se oscurezca y huela a avellana (si es kasha ya tostada, basta 1 minuto). Sácalo a un plato: tostado se mantiene entero en la sopa en lugar de deshacerse.",
-    "En la misma cazuela, pocha la cebolla picada y la zanahoria rallada con 1 cucharada de aceite 7 minutos.",
-    "Añade el caldo, el agua del shiitake colada (deja en el fondo el poso de arena), el laurel y la patata en dados de 1,5 cm. Hierve suave 10 minutos.",
+    "En la misma cazuela, pocha la cebolla y la zanahoria con 1 cucharada de aceite 7 minutos.",
+    "Añade el caldo, el agua del shiitake colada (deja en el fondo el poso de arena), el laurel y la patata. Hierve suave 10 minutos; mientras, pica el eneldo.",
     "Incorpora el trigo sarraceno y cuece 12 minutos más, no más: pasado ese tiempo el grano se abre y espesa demasiado la sopa.",
-    "Mientras, saltea las setas troceadas y el shiitake picado con el resto del aceite a fuego fuerte 5 minutos, sin removerlas al principio para que doren, y añádelas a la sopa.",
-    "Salpimienta, retira el laurel y sirve con mucho eneldo picado."
+    "Mientras, saltea las setas y el shiitake picado con el resto del aceite a fuego fuerte 5 minutos, sin removerlas al principio para que doren, y añádelas a la sopa.",
+    "Salpimienta, retira el laurel y sirve con mucho eneldo."
   ],
   nutricion: { kcal: 403, prot: 12, hc: 55, grasa: 15 },
   etiquetas: ["vegana", "sin gluten", "ligera", "de cuchara", "invierno", "tupper", "granos poco usados", "trigo sarraceno", "detox", "poco especiada", "bajo en colesterol"],
@@ -711,11 +711,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava la cebada en un colador. Corta el pollo en dados de 2 cm y salpimiéntalo.",
-    "Dora el pollo en la cazuela con el aceite a fuego medio-alto 4 minutos. Añade la cebolla, la zanahoria y el apio en dados pequeños y el ajo picado, y pocha 6 minutos.",
+    "Lava la cebada en un colador. Corta el pollo en dados de 2 cm y salpimiéntalo. Pica la cebolla, la zanahoria y el apio en dados pequeños y el ajo.",
+    "Dora el pollo en la cazuela con el aceite a fuego medio-alto 4 minutos. Añade la cebolla, la zanahoria, el apio y el ajo, y pocha 6 minutos.",
     "Aparta la cazuela del fuego y añade el comino, el pimentón, la cúrcuma y el jengibre; remueve 20 segundos. Las especias se despiertan en la grasa caliente, pero sobre el fuego se queman.",
-    "Añade el tomate y cocina 3 minutos. Incorpora el caldo y la cebada, lleva a ebullición y cuece tapado a fuego suave 35 minutos, removiendo de vez en cuando para que la cebada no se pegue al fondo.",
-    "Cuando la cebada esté tierna y el caldo haya espesado ligeramente, añade la mitad del cilantro picado, rectifica de sal y aliña con el zumo de limón.",
+    "Añade el tomate y cocina 3 minutos. Incorpora el caldo y la cebada, lleva a ebullición y cuece tapado a fuego suave 35 minutos, removiendo de vez en cuando para que la cebada no se pegue al fondo. Mientras, pica el cilantro.",
+    "Cuando la cebada esté tierna y el caldo haya espesado ligeramente, añade la mitad del cilantro, rectifica de sal y aliña con el zumo de limón.",
     "Sirve con el resto del cilantro por encima."
   ],
   nutricion: { kcal: 375, prot: 26, hc: 34, grasa: 15 },
@@ -753,12 +753,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el farro y cuécelo como la pasta, en abundante agua con sal, 25-30 minutos (el entero necesita remojo previo y 45-50 minutos), hasta que esté tierno con un punto elástico. Escúrrelo y guarda un vaso del agua de cocción.",
-    "Mientras, lava los grelos, descarta los tallos más gruesos y blanquéalos 2 minutos en otra olla con agua hirviendo: así pierden parte del amargor. Escúrrelos, apriétalos y pícalos en trozos grandes.",
+    "Mientras, lava los grelos, descarta los tallos más gruesos y blanquéalos 2 minutos en otra olla con agua hirviendo: así pierden parte del amargor. Escúrrelos, apriétalos y pícalos en trozos grandes. Lamina el ajo y ralla el pecorino.",
     "Tuesta el pan rallado en una sartén con media cucharada de aceite 2 minutos, removiendo, hasta que esté dorado. Resérvalo.",
     "Quita la piel a las salchichas y desmenúzalas en la sartén con media cucharada de aceite a fuego medio-alto. Dóralas 6-7 minutos aplastándolas con la cuchara, hasta que estén bien tostadas: ese dorado es el sabor del plato.",
-    "Baja el fuego, añade el ajo laminado, la guindilla y el resto del aceite y deja 1 minuto, hasta que el ajo empiece a dorarse (si se tuesta oscuro, amarga).",
+    "Baja el fuego, añade el ajo, la guindilla y el resto del aceite y deja 1 minuto, hasta que el ajo empiece a dorarse (si se tuesta oscuro, amarga).",
     "Añade los grelos y saltea 3 minutos. Incorpora el farro y un chorro del agua de cocción y saltea 2 minutos más: el almidón del agua liga la grasa de la salchicha en una salsa.",
-    "Apaga, añade el pecorino rallado y la ralladura de limón, y sirve con el pan rallado crujiente por encima."
+    "Apaga, añade el pecorino y la ralladura de limón, y sirve con el pan rallado crujiente por encima."
   ],
   nutricion: { kcal: 846, prot: 38, hc: 61, grasa: 50 },
   etiquetas: ["invierno", "tupper", "económica", "granos poco usados", "farro", "cocina didáctica"],
@@ -797,11 +797,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lleva el agua a ebullición con sal y el romero picado. Echa la polenta en lluvia batiendo con varillas y cuece 5-8 minutos removiendo con cuchara de madera, hasta que esté muy espesa y se despegue de las paredes. Añade la levadura nutricional y 1 cucharada de aceite.",
+    "Pica el romero y llévalo a ebullición con el agua y sal. Echa la polenta en lluvia batiendo con varillas y cuece 5-8 minutos removiendo con cuchara de madera, hasta que esté muy espesa y se despegue de las paredes. Añade la levadura nutricional y 1 cucharada de aceite.",
     "Extiéndela en una fuente forrada con papel en una capa de 2 cm y alísala con una espátula mojada. Deja enfriar 30 minutos: tiene que estar fría y firme para que no se deforme en el horno.",
-    "Pon las ñoras abiertas y sin semillas en agua caliente 20 minutos. Precalienta el horno a 220 °C y asa los tomates partidos y los ajos con piel 20 minutos.",
+    "Mientras se enfría, pon las ñoras abiertas y sin semillas en agua caliente 20 minutos. Precalienta el horno a 220 °C y asa los tomates partidos y los ajos con piel 20 minutos.",
     "Corta la polenta en bastones de 2 cm, colócalos separados en la bandeja con papel, píntalos con 2 cucharadas de aceite y hornéalos 25-30 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes. Deben ir separados: si se tocan, se cuecen al vapor y no crujen.",
-    "Tuesta las almendras en una sartén seca 3 minutos.",
+    "Mientras se hornean, tuesta las almendras en una sartén seca 3 minutos.",
     "Para el romesco, raspa la carne de las ñoras, pela los tomates y los ajos asados y tritúralo todo con las almendras, el vinagre, el pimentón, el resto del aceite y sal, hasta tener una salsa espesa con algo de textura.",
     "Sirve los bastones recién salidos del horno con el romesco para mojar y la rúcula aliñada con sal."
   ],
@@ -846,8 +846,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla muy fina, casi como un puré, y póchala en la cazuela sin aceite a fuego medio-bajo 8 minutos, removiendo. Es la técnica etíope: la cebolla se seca y concentra, y luego absorbe mejor la grasa y las especias. Añade el aceite y sigue 5 minutos, hasta que esté dorada.",
-    "Añade el ajo y el jengibre rallados y remueve 1 minuto. Aparta del fuego y añade los pimentones, el comino, el cardamomo y la canela (un berbere casero sencillo); remueve 20 segundos. Incorpora el tomate concentrado y tuéstalo 1 minuto sobre el fuego.",
+    "Ralla el ajo y el jengibre. Pica la cebolla muy fina, casi como un puré, y póchala en la cazuela sin aceite a fuego medio-bajo 8 minutos, removiendo. Es la técnica etíope: la cebolla se seca y concentra, y luego absorbe mejor la grasa y las especias. Añade el aceite y sigue 5 minutos, hasta que esté dorada.",
+    "Añade el ajo y el jengibre y remueve 1 minuto. Aparta del fuego y añade los pimentones, el comino, el cardamomo y la canela (un berbere casero sencillo); remueve 20 segundos. Incorpora el tomate concentrado y tuéstalo 1 minuto sobre el fuego.",
     "Lava las lentejas frotándolas hasta que el agua salga casi clara: quitas el polvo de almidón que las vuelve espumosas. Añádelas con el caldo caliente y cuece a fuego suave 20 minutos, removiendo a menudo, hasta que se deshagan en un guiso espeso.",
     "Mientras, prepara el teff: lleva el agua (1:4) a ebullición con una pizca de sal, echa el teff en lluvia removiendo y cuece a fuego mínimo 15-20 minutos, removiendo cada pocos minutos para que no se pegue, hasta tener una gacha densa y brillante, como una polenta oscura.",
     "Añade las espinacas al guiso 2 minutos antes de terminar, sala y aliña con unas gotas de limón.",
@@ -892,8 +892,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga el arroz salvaje y cuécelo en 1 litro de agua con sal a fuego medio 45-50 minutos, hasta que los granos se abran. Escúrrelo (puedes hacerlo la víspera).",
-    "Mientras, pon la pechuga entera en la cazuela con el caldo y el tomillo y llévala a un hervor muy suave, que apenas tiemble, 15 minutos: así queda jugosa. Sácala, desmenúzala con dos tenedores y reserva el caldo.",
-    "En la cazuela limpia, funde la mantequilla y pocha la cebolla, la zanahoria y el apio en dados pequeños con el ajo 8 minutos. Añade los champiñones laminados y cocina 5 minutos, hasta que suelten el agua y se evapore.",
+    "Mientras, pon la pechuga entera en la cazuela con el caldo y el tomillo y llévala a un hervor muy suave, que apenas tiemble, 15 minutos: así queda jugosa. Mientras, pica la cebolla, la zanahoria, el apio y el ajo y lamina los champiñones. Saca la pechuga, desmenúzala con dos tenedores y reserva el caldo.",
+    "En la cazuela limpia, funde la mantequilla y pocha la cebolla, la zanahoria, el apio y el ajo 8 minutos. Añade los champiñones y cocina 5 minutos, hasta que suelten el agua y se evapore.",
     "Espolvorea la harina y remueve 2 minutos a fuego medio: es un roux, y ese tostado le quita el sabor a harina cruda.",
     "Vierte el caldo caliente poco a poco y sin dejar de remover con varillas, para que no se formen grumos. Añade la leche y cuece a fuego suave 10 minutos, hasta que la sopa espese y cubra el dorso de una cuchara.",
     "Incorpora el arroz salvaje y el pollo, salpimienta y calienta 3 minutos antes de servir."
@@ -933,12 +933,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las azukis y cuécelas en 600 ml de agua, sin remojo, 25-30 minutos, hasta que estén tiernas por fuera pero aún firmes por dentro: terminarán de hacerse con el arroz. Escúrrelas y guarda el agua, que habrá tomado color granate.",
-    "Lava el arroz en un bol cambiando el agua 3-4 veces, hasta que salga casi transparente: quitas el almidón suelto y el grano queda definido, no pegajoso.",
+    "Mientras se cuecen, lava el arroz en un bol cambiando el agua 3-4 veces, hasta que salga casi transparente: quitas el almidón suelto y el grano queda definido, no pegajoso.",
     "Pon en un cazo el arroz, las azukis, 170 ml del agua de las azukis ya fría (completa con agua si falta) y una pizca de sal. Deja reposar 15 minutos: el grano se tiñe de rosa.",
     "Lleva a ebullición, tapa y cuece a fuego mínimo 12 minutos; apaga y deja reposar 10 minutos sin destapar.",
-    "Mientras, corta el pepino en rodajas finas y alíñalo con el vinagre de arroz y una pizca de sal: un encurtido rápido.",
+    "Mientras, corta el pepino en rodajas finas y alíñalo con el vinagre de arroz y una pizca de sal: un encurtido rápido. Ralla el jengibre y mézclalo con el tamari.",
     "Seca bien el salmón, sálalo y ponlo con la piel hacia abajo en una sartén caliente con unas gotas de aceite de sésamo. Cocina 4-5 minutos sin moverlo, hasta que la piel cruja y el color opaco suba dos tercios por el lateral; dale la vuelta 1 minuto. Así queda jugoso y rosado en el centro.",
-    "Sirve el arroz con el sésamo tostado, el salmón con el tamari mezclado con el jengibre rallado y el pepino al lado."
+    "Sirve el arroz con el sésamo tostado, el salmón con el tamari al jengibre y el pepino al lado."
   ],
   nutricion: { kcal: 609, prot: 37, hc: 68, grasa: 21 },
   etiquetas: ["sin gluten", "alta en proteína", "granos poco usados", "azukis", "cocina didáctica", "superalimentos", "poco especiada", "bajo en colesterol"],
@@ -980,11 +980,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las alubias carilla y cuécelas sin remojo en 1,2 litros de agua con la cúrcuma 35-40 minutos, hasta que estén tiernas. Sala al final y guarda su caldo.",
-    "Lava el arroz basmati en 3 aguas y déjalo en remojo 20 minutos: el grano se alarga más y no se rompe. Escúrrelo y cuécelo con 1,5 veces su volumen de agua y sal, tapado a fuego mínimo, 10 minutos más 5 de reposo.",
-    "Calienta el aceite y echa el comino en grano: cuando chisporrotee y huela (20-30 segundos), añade la cebolla muy picada y dórala 10 minutos.",
-    "Agrega el ajo y el jengibre rallados y el chile picado y remueve 1 minuto. Añade el cilantro molido y la mitad del garam masala, 20 segundos, y después el tomate rallado. Cocina 8-10 minutos, hasta que el aceite se separe de la salsa por los bordes: es la señal de que el masala está hecho.",
+    "Mientras se cuecen, lava el arroz basmati en 3 aguas y déjalo en remojo 20 minutos: el grano se alarga más y no se rompe. Mientras se remoja, pica muy fina la cebolla, ralla el ajo, el jengibre y los tomates y pica el chile y el cilantro. Escúrrelo y cuécelo con 1,5 veces su volumen de agua y sal, tapado a fuego mínimo, 10 minutos más 5 de reposo.",
+    "Calienta el aceite y echa el comino en grano: cuando chisporrotee y huela (20-30 segundos), añade la cebolla y dórala 10 minutos.",
+    "Agrega el ajo, el jengibre y el chile y remueve 1 minuto. Añade el cilantro molido y la mitad del garam masala, 20 segundos, y después el tomate. Cocina 8-10 minutos, hasta que el aceite se separe de la salsa por los bordes: es la señal de que el masala está hecho.",
     "Incorpora las alubias escurridas y 250 ml de su caldo y cuece 10 minutos a fuego suave. Aplasta unas cuantas alubias contra la pared de la cazuela para espesar.",
-    "Termina con el resto del garam masala, el zumo de limón y el cilantro picado, y sirve con el arroz."
+    "Termina con el resto del garam masala, el zumo de limón y el cilantro, y sirve con el arroz."
   ],
   nutricion: { kcal: 718, prot: 24, hc: 106, grasa: 22 },
   etiquetas: ["vegana", "sin gluten", "de cuchara", "tupper", "batch cooking", "económica", "granos poco usados", "alubia carilla", "bajo en colesterol"],
@@ -1022,13 +1022,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Hierve las habas en agua con sal 4-5 minutos: para puré deben quedar más tiernas que para ensalada. Aparta 4 cucharadas, enfríalas en agua con hielo y pélalas para decorar; escurre el resto.",
-    "Pocha la cebolleta picada y el ajo con 1 cucharada de aceite 5 minutos, sin que se doren.",
+    "Pica la cebolleta, el ajo y la menta. Hierve las habas en agua con sal 4-5 minutos: para puré deben quedar más tiernas que para ensalada. Aparta 4 cucharadas, enfríalas en agua con hielo y pélalas para decorar; escurre el resto.",
+    "Pocha la cebolleta y el ajo con 1 cucharada de aceite 5 minutos, sin que se doren.",
     "Tritura las habas calientes, sin pelar, con la cebolleta, el caldo, la mitad de la menta, 1 cucharada de aceite, el zumo de limón y sal. Pasa el puré por un colador fino apretando con el dorso de una cuchara: las pieles se quedan en el colador y el puré sale sedoso.",
     "Templa 1 cucharada de aceite, retíralo del fuego y añade el pimentón; remueve 10 segundos.",
     "Seca bien la merluza, sálala y ponla con la piel hacia abajo en una sartén caliente con el resto del aceite. Cocina 4 minutos sin moverla, hasta que el color opaco suba tres cuartos por el lateral; dale la vuelta 1 minuto. La piel protege la carne delicada de la merluza y evita que se deshaga.",
     "Saltea los cherry 2 minutos en la misma sartén.",
-    "Sirve el puré templado de base, encima la merluza, las habas peladas y los cherry, y termina con el aceite de pimentón y el resto de la menta picada."
+    "Sirve el puré templado de base, encima la merluza, las habas peladas y los cherry, y termina con el aceite de pimentón y el resto de la menta."
   ],
   nutricion: { kcal: 500, prot: 42, hc: 20, grasa: 28 },
   etiquetas: ["sin gluten", "alta en proteína", "primavera", "granos poco usados", "habas", "cocina didáctica", "poco especiada"],
@@ -1071,11 +1071,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el mijo frotándolo hasta que el agua salga clara. Cuécelo con el agua (1:3, más que para un pilaf) y una pizca de sal, tapado a fuego mínimo, 20 minutos: queremos que quede pegajoso, porque ese almidón es lo que mantendrá unidas las croquetas. Extiéndelo en un plato para que se temple.",
-    "Ralla el calabacín, sálalo y déjalo 10 minutos en un colador; después escúrrelo con fuerza dentro de un paño.",
-    "Precalienta el horno a 210 °C con ventilador. Mezcla el mijo, el calabacín, el feta desmenuzado, el huevo, la cebolleta picada, la mitad del eneldo, la menta y el comino. Prueba de sal, porque el feta ya es salado.",
+    "Mientras se cuece, precalienta el horno a 210 °C con ventilador. Ralla el calabacín, sálalo y déjalo 10 minutos en un colador (mientras, pica la cebolleta, el eneldo y la menta); después escúrrelo con fuerza dentro de un paño.",
+    "Mezcla el mijo, el calabacín, el feta desmenuzado, el huevo, la cebolleta, la mitad del eneldo, la menta y el comino. Prueba de sal, porque el feta ya es salado.",
     "Con las manos húmedas, forma 10-12 croquetas aplastadas de unos 5 cm y colócalas en la bandeja con papel. Píntalas con el aceite.",
     "Hornea 25 minutos, dándoles la vuelta a los 15, hasta que estén doradas y firmes. Déjalas 5 minutos en la bandeja: al templarse terminan de asentarse y no se rompen al moverlas.",
-    "Mezcla el yogur con el ajo rallado, el resto del eneldo picado, unas gotas de limón, sal y pimienta.",
+    "Mientras se hornean, ralla el ajo y mézclalo con el yogur, el resto del eneldo, unas gotas de limón, sal y pimienta.",
     "Sirve las croquetas con la salsa y los tomates cherry partidos."
   ],
   nutricion: { kcal: 440, prot: 17, hc: 48, grasa: 20 },
@@ -1116,11 +1116,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el trigo sarraceno como la pasta, en abundante agua hirviendo con sal, 8-10 minutos, hasta que esté tierno pero entero. Escúrrelo, pásalo por agua fría y extiéndelo en una bandeja 15 minutos para que se seque: como el arroz frito, debe entrar seco al wok o se apelmaza.",
-    "Mezcla la ternera con 1 cucharada de tamari y la maicena: la maicena forma una película que protege la carne del fuego fuerte y la deja jugosa.",
-    "Corta el brócoli en ramilletes pequeños, la zanahoria en bastoncitos y la cebolleta en rodajas, separando la parte blanca de la verde.",
+    "Mientras se seca, mezcla la ternera con 1 cucharada de tamari y la maicena: la maicena forma una película que protege la carne del fuego fuerte y la deja jugosa.",
+    "Corta el brócoli en ramilletes pequeños, la zanahoria en bastoncitos y la cebolleta en rodajas, separando la parte blanca de la verde. Ralla el ajo y el jengibre.",
     "Calienta el wok hasta que humee con 1 cucharada de aceite. Saltea la ternera en una sola capa 1-2 minutos, sin removerla el primer minuto, hasta que se dore. Sácala: si se queda con las verduras, se pasa.",
     "Añade el resto del aceite, el brócoli, la zanahoria y la parte blanca de la cebolleta y saltea 3 minutos. Echa 2 cucharadas de agua y tapa 1 minuto: el vapor termina de cocer el brócoli sin que pierda el color.",
-    "Añade el ajo y el jengibre rallados, 30 segundos, y después el trigo sarraceno; saltea 2-3 minutos a fuego fuerte, hasta que se tueste ligeramente.",
+    "Añade el ajo y el jengibre, 30 segundos, y después el trigo sarraceno; saltea 2-3 minutos a fuego fuerte, hasta que se tueste ligeramente.",
     "Devuelve la ternera, añade el resto del tamari y el aceite de sésamo, mezcla 30 segundos y sirve con la parte verde de la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 717, prot: 49, hc: 65, grasa: 29 },
