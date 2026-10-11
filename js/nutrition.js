@@ -61,11 +61,24 @@
     return { kcal, factor, ajuste };
   };
 
-  /* Raciones totales de un grupo de personas (redondeadas a 0,5, mínimo 1). */
+  /* Raciones totales de un grupo: suma de los factores de cada persona (redondeada a 0,1, mínimo 1).
+     Ej.: una persona de 1× y otra de 1,5× → cada receta se escala a 2,5 raciones estándar. */
   const racionesGrupo = (personas) => {
     const suma = personas.reduce((acc, p) => acc + necesidades(p).factor, 0);
-    return Math.max(1, Math.round(suma * 2) / 2);
+    return Math.max(1, Math.round(suma * 10) / 10);
   };
+
+  /* Reparto de cada plato entre las personas, en proporción a sus necesidades (porcentajes que suman 100). */
+  const repartoGrupo = (personas) => {
+    const filas = personas.map((p) => ({ id: p.id, nombre: p.nombre, avatar: p.avatar || "", factor: necesidades(p).factor }));
+    const suma = filas.reduce((a, f) => a + f.factor, 0) || 1;
+    let resto = 100;
+    filas.forEach((f, i) => { f.pct = i === filas.length - 1 ? resto : Math.round((f.factor / suma) * 100); resto -= f.pct; });
+    return filas;
+  };
+
+  /* «Ana 40 % (≈ 520 kcal) · Luis 60 % (≈ 780 kcal)». kcalRacion: kcal de una ración estándar de la receta. */
+  const textoReparto = (reparto, kcalRacion) => (reparto || []).map((f) => `${f.nombre} ${f.pct} %${kcalRacion ? ` (≈ ${Math.round((kcalRacion * f.factor) / 10) * 10} kcal)` : ""}`).join(" · ");
 
   /* Objetivos agregados del grupo → preferencias para el generador */
   const preferenciasGrupo = (personas) => {
@@ -95,5 +108,5 @@
     return partes.join(" · ");
   };
 
-  window.Nutricion = { RACION_REFERENCIA_KCAL, SEXOS, ACTIVIDADES, OBJETIVOS, necesidades, racionesGrupo, preferenciasGrupo, descripcionAmable };
+  window.Nutricion = { RACION_REFERENCIA_KCAL, SEXOS, ACTIVIDADES, OBJETIVOS, necesidades, racionesGrupo, repartoGrupo, textoReparto, preferenciasGrupo, descripcionAmable };
 })();

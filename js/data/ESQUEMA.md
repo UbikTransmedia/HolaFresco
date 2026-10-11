@@ -46,6 +46,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 36, hc: 32, grasa: 30 },   // POR RACIÓN, estimación realista
   etiquetas: ["al horno", "rápida", "batch cooking"],      // libres, en minúsculas
   consejo: "Si no tienes panko, usa pan rallado grueso mezclado con una cucharadita de aceite.",  // opcional
+  alternativa: "Sin panko: pan rallado grueso. La merluza se puede cambiar por bacalao fresco o abadejo sin tocar tiempos.",  // opcional: «Versión alternativa» (sustituciones que funcionan con cambios mínimos)
   cocina: "europea",            // OBLIGATORIO: tipo de cocina (ver lista)
   contundencia: "media",        // OBLIGATORIO: ligera | media | contundente
   coste: "premium"              // OBLIGATORIO: económica | media | premium

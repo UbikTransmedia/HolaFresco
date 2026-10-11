@@ -33,6 +33,44 @@
     }
   };
 
+  /* Redondeo para LEER una receta escalada (no para comprar): fracciones razonables en vez de redondear siempre hacia
+     arriba. Con la lista de la compra se usa redondear() (se compran unidades enteras). */
+  const aPaso = (q, paso) => Math.round(q / paso) * paso;
+  const redondearReceta = (q, u) => {
+    if (q == null) return null;
+    switch (u) {
+      case "g":
+      case "ml":
+        if (q < 10) return Math.max(1, Math.round(q));
+        if (q < 100) return Math.max(5, aPaso(q, 5));
+        if (q < 1000) return aPaso(q, 10);
+        return aPaso(q, 50);
+      case "ud":
+      case "lata":
+      case "bote":
+      case "rebanada":
+      case "loncha":
+        if (q < 2) return Math.max(0.25, aPaso(q, 0.25));
+        if (q < 5) return aPaso(q, 0.5);
+        return Math.round(q);
+      case "diente":
+        return Math.max(0.5, aPaso(q, 0.5));
+      case "hoja":
+      case "rama":
+        return Math.max(1, Math.round(q));
+      case "cda":
+      case "cdta":
+      case "manojo":
+      case "puñado":
+        if (q < 1) return Math.max(0.25, aPaso(q, 0.25));
+        return aPaso(q, 0.5);
+      case "pizca":
+        return Math.max(1, Math.round(q));
+      default:
+        return Math.round(q * 10) / 10;
+    }
+  };
+
   /* 0,5 → "½", 1,5 → "1½", 2 → "2", 0,25 → "¼" */
   const fmtNum = (n) => {
     if (n == null) return "";
@@ -67,11 +105,73 @@
   const compararNombre = (a, b) => a.localeCompare(b, "es", { sensitivity: "base", numeric: true });
   const ordenarIngredientes = (lista) => [...lista].sort((a, b) => compararNombre(a.n, b.n));
 
-  /* Unifica unidades convertibles dentro de un mismo ingrediente (cucharaditas → cucharadas) */
-  const unificar = (cant) => {
+  /* Clave de la lista de la compra: el mismo producto aunque las recetas lo escriban distinto
+     («rábano»/«rábanos», «cebolleta»/«cebolleta (parte verde)», «vinagre de Jerez»/«vinagre de jerez»). */
+  const singular = (w) => {
+    if (w.length <= 3 || !w.endsWith("s")) return w;
+    const x = w.slice(0, -1);
+    if (x.endsWith("ce")) return x.slice(0, -2) + "z"; // nueces → nuez
+    if (/[nlr]e$/.test(x)) return x.slice(0, -1); // limones → limon, flores → flor (verdes → verde)
+    return x; // tomates → tomate, rábanos → rábano
+  };
+  const claveCompra = (n) => Catalogo.normalizar(n.replace(/\((parte verde|bulbo|vainas)\)/gi, "")).split(" ").filter(Boolean).map(singular).join(" ");
+
+  /* Peso orientativo por unidad para sumar «2 cebollas» con «150 g de cebolla». compra: unidad en que se compra. */
+  const PESO_UD = {
+    cebolla: [150, "ud"], "cebolla morada": [150, "ud"], cebolleta: [60, "ud"], chalota: [30, "ud"], puerro: [150, "ud"],
+    patata: [200, "ud"], "patata nueva": [80, "ud"], boniato: [300, "ud"], zanahoria: [80, "ud"], chirivia: [150, "ud"],
+    tomate: [120, "ud"], "tomate pera": [100, "ud"], "tomate cherry": [15, "g"], pepino: [300, "ud"],
+    "pimiento rojo": [200, "ud"], "pimiento verde": [150, "ud"], "pimiento verde italiano": [120, "ud"], calabacin: [250, "ud"],
+    berenjena: [300, "ud"], hinojo: [250, "ud"], rabano: [15, "ud"], "lechuga romana": [300, "ud"], "pak choi": [150, "ud"],
+    brocoli: [400, "ud"], coliflor: [800, "ud"], "col blanca": [1000, "ud"], repollo: [1000, "ud"], calabaza: [1500, "g"],
+    granada: [300, "ud"], "platano macho": [250, "ud"], limon: [120, "ud"], lima: [70, "ud"], naranja: [200, "ud"],
+    manzana: [180, "ud"], pera: [180, "ud"], aguacate: [200, "ud"], huevo: [60, "ud"],
+    "jengibre fresco": [30, "g"], "aceituna negra": [4, "g"], "aceituna verde": [4, "g"], almendra: [1.2, "g"],
+    pepinillo: [15, "g"], "anchoa en aceite": [4, "g"], "pimiento del piquillo": [20, "g"], chorizo: [100, "g"],
+    "pollo (contramuslos)": [120, "g"], "pollo (muslos deshuesados)": [100, "g"], "pollo (pechuga)": [250, "g"], "pavo (pechuga)": [300, "g"],
+    "merluza (lomos)": [150, "g"], caballa: [300, "g"], "dorada entera": [400, "g"], mango: [300, "ud"], "orejon de albaricoque": [8, "g"],
+  };
+
+  /* Unifica unidades convertibles dentro de un mismo ingrediente */
+  const unificar = (cant, clave) => {
+    // una pizca se suma a las cucharaditas o cucharadas que ya haya (≈ ⅛ de cucharadita)
+    if (cant.has("pizca") && (cant.has("cdta") || cant.has("cda"))) {
+      cant.set("cdta", (cant.get("cdta") || 0) + cant.get("pizca") / 8);
+      cant.delete("pizca");
+    }
+    // ramas de hierba fresca → manojos (≈ 10 ramas por manojo)
+    if (cant.has("rama") && cant.has("manojo")) cant.set("manojo", cant.get("manojo") + cant.get("rama") / 10), cant.delete("rama");
+    // cabezas de ajo (ud) → dientes (≈ 10 por cabeza)
+    if (clave === "ajo" && cant.has("ud") && cant.has("diente")) cant.set("diente", cant.get("diente") + cant.get("ud") * 10), cant.delete("ud");
+    // rebanadas de pan → gramos (≈ 40 g)
+    if (cant.has("rebanada") && cant.has("g") && /^pan\b/.test(clave)) cant.set("g", cant.get("g") + cant.get("rebanada") * 40), cant.delete("rebanada");
+    // cucharadas y cucharaditas → ml si alguna receta ya lo mide en ml (líquidos)
+    if (cant.has("ml") && (cant.has("cda") || cant.has("cdta"))) {
+      cant.set("ml", cant.get("ml") + (cant.get("cda") || 0) * 15 + (cant.get("cdta") || 0) * 5);
+      cant.delete("cda"); cant.delete("cdta");
+    }
     if (cant.has("cdta") && (cant.has("cda") || cant.get("cdta") >= 3)) {
       cant.set("cda", (cant.get("cda") || 0) + cant.get("cdta") / 3);
       cant.delete("cdta");
+    }
+    // gramos y unidades del mismo producto → la unidad en que se compra
+    const peso = PESO_UD[clave];
+    if (peso && cant.has("g") && cant.has("ud")) {
+      const [g, compra] = peso;
+      if (compra === "ud") cant.set("ud", cant.get("ud") + cant.get("g") / g), cant.delete("g");
+      else cant.set("g", cant.get("g") + cant.get("ud") * g), cant.delete("ud");
+    }
+    // hojas sueltas de hierbas frescas → manojos (≈ 30 hojas); un manojo de cebolletas ≈ 6
+    if (cant.has("hoja") && cant.has("manojo")) cant.set("manojo", cant.get("manojo") + cant.get("hoja") / 30), cant.delete("hoja");
+    if (clave === "cebolleta" && cant.has("manojo") && cant.has("ud")) cant.set("ud", cant.get("ud") + cant.get("manojo") * 6), cant.delete("manojo");
+    // hojas sueltas de lechuga o col → unidades
+    if (cant.has("hoja") && cant.has("ud") && /^(lechuga|col|repollo)/.test(clave)) cant.set("ud", cant.get("ud") + cant.get("hoja") / (clave.startsWith("lechuga") ? 12 : 20)), cant.delete("hoja");
+    // apio: ramas → gramos (≈ 40 g)
+    if (clave === "apio" && cant.has("rama") && cant.has("g")) cant.set("g", cant.get("g") + cant.get("rama") * 40), cant.delete("rama");
+    // si ya se compra al peso, las cucharadas y los puñados se pasan a gramos (aproximado)
+    if (cant.has("g")) {
+      const eq = { cda: 12, cdta: 4, "puñado": 30 };
+      for (const [u, gr] of Object.entries(eq)) if (cant.has(u)) cant.set("g", cant.get("g") + cant.get(u) * gr), cant.delete(u);
     }
     return cant;
   };
@@ -88,8 +188,8 @@
       for (const ing of escalar(r, raciones)) {
         const n = ing.n.trim();
         const u = ing.u || "ud";
-        const clave = Catalogo.normalizar(n);
-        if (!items.has(clave)) items.set(clave, { clave, n, cantidades: new Map(), alGusto: false, recetas: new Set(), opcional: true, pasillo: Catalogo.pasilloDe(n) });
+        const clave = claveCompra(n);
+        if (!items.has(clave)) items.set(clave, { clave, n: n.replace(/\s*\((parte verde|bulbo|vainas)\)/gi, ""), cantidades: new Map(), alGusto: false, recetas: new Set(), opcional: true, pasillo: Catalogo.pasilloDe(n) });
         const it = items.get(clave);
         if (u === "al gusto" || ing.q == null) it.alGusto = true;
         else it.cantidades.set(u, (it.cantidades.get(u) || 0) + ing.q);
@@ -100,7 +200,7 @@
     const enCasa = (menu.enCasa || []).filter(Boolean);
     if (enCasa.length) for (const it of items.values()) if (enCasa.some((t) => Catalogo.ingredienteUsa(it.n, t))) it.pasillo = "en-casa";
     const lista = [...items.values()].map((it) => {
-      unificar(it.cantidades);
+      unificar(it.cantidades, it.clave);
       const partes = [...it.cantidades.entries()]
         .sort((a, b) => ORDEN_UNIDADES.indexOf(a[0]) - ORDEN_UNIDADES.indexOf(b[0]))
         .map(([u, q]) => ({ u, q, qRedondeada: redondear(q, u) }));
@@ -200,5 +300,5 @@
     return false;
   };
 
-  window.Compra = { construir, escalar, ordenarIngredientes, redondear, fmtCantidad, fmtNum, fmtUnidad, textoCantidad, textoItem, FORMATOS, exportarTexto, exportarHTML, copiarAlPortapapeles, compartir };
+  window.Compra = { construir, escalar, ordenarIngredientes, redondear, redondearReceta, claveCompra, fmtCantidad, fmtNum, fmtUnidad, textoCantidad, textoItem, FORMATOS, exportarTexto, exportarHTML, copiarAlPortapapeles, compartir };
 })();

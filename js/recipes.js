@@ -374,7 +374,7 @@
       if (!grupo.length) continue;
       L.push(`**${pas.icono} ${pas.id === "basicos" ? "Básicos de despensa" : pas.nombre}**`, "");
       for (const ing of grupo) {
-        const q = ing.q == null ? null : C.redondear(ing.q, ing.u);
+        const q = ing.q == null ? null : C.redondearReceta(ing.q, ing.u);
         const cant = ing.u === "al gusto" || q == null ? "al gusto" : C.fmtCantidad(q, ing.u);
         L.push(`- [ ] ${ing.n} · ${cant}${ing.opcional ? " (opcional)" : ""}${ing.nota ? ` — ${ing.nota}` : ""}`);
       }
@@ -384,6 +384,7 @@
     L.push("", "## Preparación", "");
     r.pasos.forEach((p, i) => L.push(`${i + 1}. ${p}`));
     if (r.consejo) L.push("", `> 💡 **Consejo:** ${r.consejo}`);
+    if (r.alternativa) L.push("", `> 🔁 **Versión alternativa:** ${r.alternativa}`);
     const n = r.nutricion || {};
     if (n.kcal) L.push("", "## Por ración (aprox.)", "", "| kcal | Proteína | Hidratos | Grasa |", "|---|---|---|---|", `| ${n.kcal} | ${n.prot} g | ${n.hc} g | ${n.grasa} g |`);
     if (r.etiquetas.length) L.push("", r.etiquetas.map((e) => "#" + e.replace(/\s+/g, "-")).join(" "));

@@ -320,6 +320,7 @@
       const lim = limiteTiempo(cfg, slot.dia);
       const d = dia(slot.dia);
       let mejor = null, mejorPunt = -Infinity;
+      const puntuadas = opciones.variedad ? [] : null;
       for (const r of candidatos) {
         let p = 0;
         // cuota de categoría
@@ -357,7 +358,16 @@
         else p += r.tiempo > 60 ? 0.4 : 0;
         // azar para que cada generación sea distinta
         p += random() * 1.6;
+        if (puntuadas) puntuadas.push({ r, p });
         if (p > mejorPunt) { mejorPunt = p; mejor = r; }
+      }
+      // Al pedir «otra receta» para un hueco: elegir al azar entre las buenas candidatas (no siempre la mejor),
+      // para que la sensación sea de variedad y no aparezcan siempre las mismas pocas recetas.
+      if (puntuadas && puntuadas.length > 1) {
+        puntuadas.sort((a, b) => b.p - a.p);
+        const pool = puntuadas.filter((x) => x.p >= mejorPunt - 3).slice(0, 40);
+        const elegidas = pool.length >= 8 ? pool : puntuadas.slice(0, Math.min(8, puntuadas.length));
+        mejor = elegidas[Math.floor(random() * elegidas.length)].r;
       }
       if (lim && mejor.tiempo > lim) avisos.push(`Se pasa del tiempo máximo (${mejor.tiempo} min > ${lim} min); el límite está en modo orientativo.`);
       asignacion.set(clave(slot), { recetaId: mejor.id, avisos });
@@ -377,12 +387,20 @@
   };
 
   /* Regenerar un único hueco manteniendo el resto */
-  const regenerarSlot = (menu, cfg, personas, slotClave) => {
+  /* historial: recetas ya propuestas antes para este hueco; se evitan mientras queden otras compatibles */
+  const regenerarSlot = (menu, cfg, personas, slotClave, historial = []) => {
     const previos = {};
     for (const s of menu.slots) previos[s.dia + "|" + s.momento] = { recetaId: s.recetaId, obligatoria: s.obligatoria, avisos: s.avisos || [] };
     const actual = previos[slotClave];
     const fijar = Object.keys(previos).filter((k) => k !== slotClave);
-    return generar({ ...cfg, semilla: Math.floor(Math.random() * 1e9), obligatorias: [] }, personas, { fijar, previos, excluir: actual && actual.recetaId ? [actual.recetaId] : [] });
+    const base = actual && actual.recetaId ? [actual.recetaId] : [];
+    const intento = (excluir) => generar({ ...cfg, semilla: Math.floor(Math.random() * 1e9), obligatorias: [] }, personas, { fijar, previos, excluir, variedad: true });
+    const hueco = (res) => res.slots.find((x) => x.dia + "|" + x.momento === slotClave);
+    let res = intento([...new Set([...base, ...historial])]);
+    const h = hueco(res);
+    // si ya se han propuesto todas las compatibles, se vuelve a empezar (sin repetir la actual)
+    if (!h || !h.recetaId || (h.avisos || []).some((a) => /repetida|No hay ninguna/.test(a))) res = intento(base);
+    return res;
   };
 
   /* Alternativas para un hueco (para elegir a mano), ordenadas por compatibilidad */

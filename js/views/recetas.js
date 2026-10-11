@@ -103,7 +103,7 @@
     const pintarIng = () => {
       UI.vaciar(listaIng);
       for (const ing of Compra.escalar(r, raciones)) {
-        const q = ing.q == null ? null : Compra.redondear(ing.q, ing.u);
+        const q = ing.q == null ? null : Compra.redondearReceta(ing.q, ing.u);
         listaIng.appendChild(h("li", h("label.ing-check", h("input", { type: "checkbox", "aria-label": `Tengo ${ing.n}` }), h("span.ing-cant", ing.u === "al gusto" || q == null ? "al gusto" : Compra.fmtCantidad(q, ing.u)), h("span.ing-nombre", ing.n, ing.opcional ? h("span.muted", " (opcional)") : null, ing.nota ? h("span.muted", ` · ${ing.nota}`) : null))));
       }
     };
@@ -139,7 +139,8 @@
           h("h3", "Preparación"),
           h("ol.lista-pasos", r.pasos.map((p) => h("li", p))),
           window.Publicidad.bloque("receta"),
-          r.consejo ? h("div.consejo", h("strong", "💡 Consejo del cocinero: "), r.consejo) : null
+          r.consejo ? h("div.consejo", h("strong", "💡 Consejo del cocinero: "), r.consejo) : null,
+          r.alternativa ? h("div.consejo.consejo-alternativa", h("strong", "🔁 Versión alternativa: "), r.alternativa) : null
         )
       ),
       nut.kcal ? h("section.detalle-nut",
@@ -242,7 +243,8 @@
       h("div.campo", h("span.campo-etiqueta", "Preparación ", h("span.muted", "(un paso por línea)")), pasosTA),
       h("div.campo", h("span.campo-etiqueta", "Valores por ración (aprox.)"), h("div.fila-campos.fila-4", campoNum("kcal", "kcal"), campoNum("prot", "Proteína (g)"), campoNum("hc", "Hidratos (g)"), campoNum("grasa", "Grasa (g)"))),
       UI.campo("Etiquetas (separadas por comas)", etiquetasIn),
-      UI.campo("Consejo del cocinero (opcional)", h("textarea.input.textarea", { rows: 2, onInput: (e) => { r.consejo = e.target.value; } }, r.consejo || ""))
+      UI.campo("Consejo del cocinero (opcional)", h("textarea.input.textarea", { rows: 2, onInput: (e) => { r.consejo = e.target.value; } }, r.consejo || "")),
+      UI.campo("Versión alternativa (opcional): ingredientes o pasos que se pueden cambiar", h("textarea.input.textarea", { rows: 2, onInput: (e) => { r.alternativa = e.target.value; } }, r.alternativa || ""))
     );
 
     const enviar = () => {

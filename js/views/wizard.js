@@ -59,7 +59,7 @@
     }
     if (lista.length) grid.appendChild(h("button.tarjeta-persona.tarjeta-anadir", { type: "button", onClick: () => Personas.editor(null, (id) => { seleccionar(id); guardarBorrador(); refrescar(); }) }, h("span.persona-avatar", "➕"), h("span", "Añadir otra persona")));
     const sel = personasSeleccionadas();
-    const resumen = sel.length ? h("div.aviso.aviso-ok", h("strong", `${sel.length} ${UI.plural(sel.length, "persona", "personas")}`), ` · cada comida se calculará para ${Planificador.racionesTotales(sel).toLocaleString("es-ES")} raciones estándar. `, h("span.muted", "Una ración estándar equivale a lo que come un adulto de unas 2.100 kcal/día.")) : h("div.aviso.aviso-info", "Selecciona al menos una persona para continuar.");
+    const resumen = sel.length ? h("div.aviso.aviso-ok", h("strong", `${sel.length} ${UI.plural(sel.length, "persona", "personas")}`), ` · cada comida se calculará para ${Planificador.racionesTotales(sel).toLocaleString("es-ES")} raciones estándar${sel.length > 1 ? ` (${Nutricion.repartoGrupo(sel).map((f) => `${f.nombre} ${f.factor.toLocaleString("es-ES")}×`).join(" + ")}), y cada plato indicará qué parte es para cada uno` : ""}. `, h("span.muted", "Una ración estándar equivale a lo que come un adulto de unas 2.100 kcal/día.")) : h("div.aviso.aviso-info", "Selecciona al menos una persona para continuar.");
     UI.append(cont, grid, resumen);
   };
 
@@ -171,7 +171,13 @@
   /* ---------- Paso 5: vetos ---------- */
   const pasoVetos = (cont, refrescar) => {
     const toggle = (v) => { if (st.cfg.vetos.includes(v)) st.cfg.vetos = st.cfg.vetos.filter((x) => x !== v); else st.cfg.vetos.push(v); guardarBorrador(); refrescar(); };
-    const grupos = h("div.chips-check", { role: "group", "aria-label": "Grupos de ingredientes" }, Catalogo.GRUPOS.map((g) => h("label.chip.chip-check", { title: g.claves.slice(0, 6).join(", ").replace(/\*/g, "") + "…" }, h("input", { type: "checkbox", "aria-label": `Vetar ${g.nombre}`, checked: st.cfg.vetos.includes(g.id), onChange: () => toggle(g.id) }), g.icono, " ", g.nombre)));
+    // Los grupos que ya vetan las intolerancias del hogar salen marcados (y bloqueados: se cambian en el perfil de cada persona)
+    const porHogar = new Map();
+    for (const t of intolHogar()) for (const g of t.grupos) porHogar.set(g, [...(porHogar.get(g) || []), ...t.personas]);
+    const grupos = h("div.chips-check", { role: "group", "aria-label": "Grupos de ingredientes" }, Catalogo.GRUPOS.map((g) => {
+      const hogar = porHogar.get(g.id);
+      return h("label.chip.chip-check", { class: hogar ? "chip-hogar" : "", title: hogar ? `Vetado por la intolerancia de ${[...new Set(hogar)].join(", ")} (se cambia en su perfil)` : g.claves.slice(0, 6).join(", ").replace(/\*/g, "") + "…" }, h("input", { type: "checkbox", "aria-label": `Vetar ${g.nombre}`, checked: !!hogar || st.cfg.vetos.includes(g.id), disabled: !!hogar, onChange: () => toggle(g.id) }), g.icono, " ", g.nombre, hogar ? h("small.muted", " · hogar") : null);
+    }));
     const dl = h("datalist#dl-vetos", Recetas.indiceIngredientes().slice(0, 400).map((i) => h("option", { value: i.n })));
     const input = h("input.input", { type: "text", list: "dl-vetos", placeholder: "Ej. cilantro, berenjena, atún…", "aria-label": "Ingrediente a vetar" });
     const anadir = () => { const v = input.value.trim().toLowerCase(); if (!v) return; if (!st.cfg.vetos.includes(v)) st.cfg.vetos.push(v); input.value = ""; guardarBorrador(); refrescar(); };
@@ -295,6 +301,27 @@
 
   const iconosReceta = (r) => h("small.muted", `${r.tiempo} min · ${r.nutricion.kcal || "?"} kcal · ${(Recetas.contundencia(r.contundencia) || {}).icono || ""} ${(Recetas.coste(r.coste) || {}).icono || ""}${r.cocina ? " · " + (Recetas.cocina(r.cocina) || {}).icono : ""}`);
 
+  /* Intercambiar recetas entre huecos (mismo momento en días contiguos, o comida y cena del mismo día) */
+  const intercambiar = (a, b, refrescar) => {
+    for (const c of ["recetaId", "avisos", "obligatoria", "usa", "historial"]) [a[c], b[c]] = [b[c], a[c]];
+    guardarBorrador();
+    refrescar();
+  };
+  const vecinoSlot = (s, delta) => {
+    const dias = Planificador.DIAS.filter((d) => st.resultado.slots.some((x) => x.dia === d.id && x.momento === s.momento));
+    const i = dias.findIndex((d) => d.id === s.dia);
+    const d = dias[i + delta];
+    return d ? st.resultado.slots.find((x) => x.dia === d.id && x.momento === s.momento) : null;
+  };
+  const botonesMover = (s, refrescar) => {
+    const ant = vecinoSlot(s, -1), sig = vecinoSlot(s, 1);
+    const nombre = (x) => `${Planificador.dia(x.dia).nombre} (${x.momento})`;
+    return [
+      ant ? h("button.btn.btn-mini.btn-suave", { type: "button", title: `Intercambiar con ${nombre(ant)}`, "aria-label": `Intercambiar con ${nombre(ant)}`, onClick: () => intercambiar(s, ant, refrescar) }, "◀") : null,
+      sig ? h("button.btn.btn-mini.btn-suave", { type: "button", title: `Intercambiar con ${nombre(sig)}`, "aria-label": `Intercambiar con ${nombre(sig)}`, onClick: () => intercambiar(s, sig, refrescar) }, "▶") : null,
+    ];
+  };
+
   const tarjetaSlot = (s, refrescar) => {
     const r = s.recetaId ? Recetas.porId(s.recetaId) : null;
     const personas = personasSeleccionadas();
@@ -319,9 +346,11 @@
     return h("div.slot", { class: (s.obligatoria ? "slot-obligatoria " : "") + (!r ? "slot-vacio" : "") },
       h("div.slot-cab", h("span.slot-momento", Recetas.MOMENTOS.find((m) => m.id === s.momento).icono, " ", s.momento === "comida" ? "Comida" : "Cena"), s.obligatoria ? h("span.chip.chip-mini.chip-fija", { title: "Receta fijada por ti" }, "📌 fija") : r && r.favorita ? h("span.chip.chip-mini.chip-fav", { title: "Favorita" }, "★") : null, (s.usa || []).length ? h("span.chip.chip-mini.chip-usa", { title: "Usa ingredientes que pediste" }, "🥕 ", s.usa.join(", ")) : null),
       r ? h("button.slot-receta", { type: "button", title: "Ver receta", onClick: () => window.Vistas.recetas.abrirDetalle(r.id, { raciones }) }, h("span.slot-cat", Recetas.categoria(r.categoria).icono), h("span.slot-nombre", r.nombre), iconosReceta(r)) : h("p.muted", "Sin receta"),
+      r && personas.length > 1 ? h("p.slot-reparto", { title: "Qué parte del plato es para cada persona, según sus necesidades" }, "🍽️ ", Nutricion.textoReparto(Nutricion.repartoGrupo(personas), r.nutricion.kcal)) : null,
       (s.avisos || []).map((a) => h("div.aviso.aviso-alerta.aviso-mini", "⚠️ ", a)),
       h("div.slot-acciones",
-        h("button.btn.btn-mini.btn-suave", { type: "button", title: "Proponer otra receta al azar para este hueco", onClick: () => { const res = Planificador.regenerarSlot(st.resultado, st.cfg, personas, s.dia + "|" + s.momento); const nuevo = res.slots.find((x) => x.dia === s.dia && x.momento === s.momento); if (nuevo) { Object.assign(s, { recetaId: nuevo.recetaId, avisos: nuevo.avisos, obligatoria: false, usa: nuevo.usa || [] }); } guardarBorrador(); refrescar(); } }, "🔀 Otra"),
+        ...botonesMover(s, refrescar),
+        h("button.btn.btn-mini.btn-suave", { type: "button", title: "Proponer otra receta al azar para este hueco", onClick: () => { const historial = [...(s.historial || []), s.recetaId].filter(Boolean).slice(-60); const res = Planificador.regenerarSlot(st.resultado, st.cfg, personas, s.dia + "|" + s.momento, historial); const nuevo = res.slots.find((x) => x.dia === s.dia && x.momento === s.momento); if (nuevo) { Object.assign(s, { recetaId: nuevo.recetaId, avisos: nuevo.avisos, obligatoria: false, usa: nuevo.usa || [], historial }); } guardarBorrador(); refrescar(); } }, "🔀 Otra"),
         h("button.btn.btn-mini.btn-suave", { type: "button", title: "Elegir una receta concreta", onClick: cambiar }, "🔍 Elegir"),
         r ? h("button.btn.btn-mini.btn-suave", { type: "button", title: `Copiar «${r.nombre}» en Markdown`, "aria-label": `Copiar ${r.nombre} en Markdown`, onClick: () => Recetas.copiarMarkdown(r.id, raciones) }, "📋 Copiar") : null
       )
@@ -341,7 +370,11 @@
     const personas = personasSeleccionadas();
     const resumen = Planificador.resumenNutricional(res.slots);
     const dias = Planificador.DIAS.filter((d) => res.slots.some((s) => s.dia === d.id));
-    const grid = h("div.grid-semana", dias.map((d) => h("div.columna-dia", h("h3.dia-titulo", d.nombre), ["comida", "cena"].map((m) => { const s = res.slots.find((x) => x.dia === d.id && x.momento === m); return s ? tarjetaSlot(s, refrescar) : null; }))));
+    const grid = h("div.grid-semana", dias.map((d) => {
+      const comida = res.slots.find((x) => x.dia === d.id && x.momento === "comida"), cena = res.slots.find((x) => x.dia === d.id && x.momento === "cena");
+      const btnDia = comida && cena ? h("button.btn.btn-mini.btn-suave.btn-cambiar-dia", { type: "button", title: `Intercambiar comida y cena del ${d.nombre.toLowerCase()}`, "aria-label": `Intercambiar comida y cena del ${d.nombre.toLowerCase()}`, onClick: () => intercambiar(comida, cena, refrescar) }, "⇅ comida/cena") : null;
+      return h("div.columna-dia", h("div.dia-cab", h("h3.dia-titulo", d.nombre), btnDia), [comida, cena].map((s) => (s ? tarjetaSlot(s, refrescar) : null)));
+    }));
 
     const inputNombre = h("input.input", { type: "text", value: st.cfg.nombre || "", placeholder: nombreSugerido(), "aria-label": "Nombre del menú", onInput: (e) => { st.cfg.nombre = e.target.value; guardarBorrador(); } });
     const guardar = acciones.guardar = () => {
@@ -352,6 +385,7 @@
         creado: new Date().toISOString(),
         personas: personas.map((p) => ({ id: p.id, nombre: p.nombre, avatar: Personas.avatar(p), intolerancias: p.intolerancias || [] })),
         raciones: res.raciones,
+        reparto: Nutricion.repartoGrupo(personas.map((p) => ({ ...p, avatar: Personas.avatar(p) }))),
         slots: res.slots.map((s) => ({ dia: s.dia, momento: s.momento, recetaId: s.recetaId, obligatoria: !!s.obligatoria, usa: s.usa || [], raciones: res.raciones })),
         enCasa: (st.cfg.ingredientesObligatorios || []).filter((x) => x.enCasa !== false).map((x) => x.nombre),
         cfg: JSON.parse(JSON.stringify(st.cfg)),
