@@ -354,6 +354,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 26, hc: 44, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "poco especiada", "batch cooking", "una sola olla", "invierno"],
   consejo: "El tempeh es la forma de soja más amable para el intestino irritable: la fermentación descompone buena parte de los galactanos, y es bajo en FODMAP hasta unos 100 g por ración, justo la de esta receta. Cocerlo al vapor antes de dorarlo es un paso que no conviene saltarse. El spezzatino gana de un día para otro: guárdalo hasta 3 días en la nevera.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme prensado 10 min bajo peso y en dados; sáltate el vapor, dóralo igual y añádelo al guiso solo los últimos 10 min para que no se deshaga.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -913,6 +914,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 406, prot: 37, hc: 39, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "para niños", "invierno"],
   consejo: "La pastina in brodo es lo que se da en Italia a niños y convalecientes, y es perfecta en un día de tripa revuelta: líquida, templada y con proteína fácil. El caldo comercial casi siempre lleva cebolla y ajo; este, hecho en casa con el verde de la cebolleta, es bajo en FODMAP. El caldo que sobra se congela en raciones y te sirve para risottos y cremas.",
+  alternativa: "Si no encuentras pastina sin gluten, usa 80 g de fideo fino sin gluten partido en trozos cortos o de arroz redondo; el arroz necesita unos 15-17 min en el caldo, más que la pastina.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

@@ -51,6 +51,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 476, prot: 31, hc: 43, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "alta en proteína"],
   consejo: "La bourride clásica lleva puerro, cebolla y un aïoli de ajo machacado; aquí el aroma lo pone el aceite de ajo (los fructanos del ajo no pasan a la grasa) y la parte verde de la cebolleta. La salsa ligada es muy suave para un intestino sensible: no tiene trozos de sofrito ni grasa tostada. El hinojo es bajo en FODMAP en raciones pequeñas, unos 40-45 g por persona como aquí: no subas la cantidad si los fructanos te sientan mal.",
+  alternativa: "Si el rape se te va de precio, usa lomos gruesos de merluza (los mismos 320 g) en trozos de 4 cm; escálfalos solo 4-5 min, porque se deshacen antes que el rape.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -277,6 +278,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 490, prot: 39, hc: 36, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "superalimentos", "sin gluten", "al horno", "alta en proteína"],
   consejo: "En Córcega las sardinas se rellenan de brocciu, el requesón fresco de oveja de la isla, rico en lactosa; la ricotta sin lactosa da la misma cremosidad. Las acelgas son bajas en FODMAP en raciones normales y, escaldadas y bien escurridas, se digieren mejor que crudas. Pide en la pescadería que te abran las sardinas en libro: te ahorras el trabajo y casi todas las espinas.",
+  alternativa: "Si no encuentras ricotta sin lactosa, usa 60 g de queso de Burgos sin lactosa bien escurrido y desmenuzado con un tenedor; el relleno queda igual de cremoso, solo algo más suave de sabor.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -935,6 +937,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 405, prot: 21, hc: 26, grasa: 22.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "al horno"],
   consejo: "La fërgesë de Tirana se hace con pimientos asados, tomate, gjizë (un requesón salado) y a veces huevo, todo cuajado en cazuela de barro; la cebolla y el ajo que lleva se sustituyen por la parte verde de la cebolleta y el aceite de ajo. La ricotta sin lactosa y un poco de feta, curado en salmuera y con muy poca lactosa, recuperan su sabor lácteo y salado. Asar y pelar los pimientos los hace mucho más digeribles; el rojo se queda en 50 g por persona y el verde, que se tolera mejor, pone el resto.",
+  alternativa: "Si no encuentras ricotta sin lactosa, usa 80 g de queso de Burgos sin lactosa bien escurrido y desmenuzado con un tenedor; con el feta, la cazuela conserva el mismo punto lácteo y salado.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -1108,6 +1111,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 26, hc: 58, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "superalimentos", "sin gluten", "invierno"],
   consejo: "El tempeh es bajo en FODMAP hasta unos 100 g por persona: la fermentación descompone buena parte de los GOS de la soja. Escaldarlo antes de dorarlo lo hace más tierno y digerible. La chirivía es una raíz baja en FODMAP que da al puré un dulzor que casa con la naranja. El vinagre balsámico se tolera bien en cantidades pequeñas (1 cucharada para dos); evita las cremas de balsámico comerciales, que suelen llevar mosto concentrado o fructosa añadida.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme prensado 10 min bajo peso y en lonchas; sáltate el escaldado y dóralo directamente antes de glasearlo igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"

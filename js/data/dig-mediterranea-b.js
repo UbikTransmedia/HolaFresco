@@ -273,6 +273,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 525, prot: 13, hc: 67, grasa: 22 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "al horno", "otoño", "invierno"],
   consejo: "La chirivía, la zanahoria y la patata son de las hortalizas más seguras en la dieta baja en FODMAP y se pueden comer en ración generosa; horneadas en caldo, sin nata ni bechamel, quedan tiernas y muy fáciles de digerir. La costra de nueces aporta el crujiente y grasas buenas sin pasarse: 10 g por persona, muy por debajo de su límite. El queso de oveja curado apenas tiene lactosa; sirve también un manchego curado o un pecorino.",
+  alternativa: "Si no encuentras chirivía, sustitúyela por 125 g más de zanahoria y 125 g más de patata, en rodajas igual de finas; el gratinado pierde su punto anisado, pero el tiempo de horno es el mismo.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -362,6 +363,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 25, hc: 63, grasa: 21 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "bajo en colesterol", "verano"],
   consejo: "El tempeh es de las pocas proteínas de soja aptas en la dieta baja en FODMAP (hasta unos 100 g por toma) porque la fermentación consume buena parte de sus oligosacáridos; además aporta bacterias y fibra que suelen sentar bien. Cocerlo al vapor antes de marinarlo lo hace más tierno y fácil de masticar. Comprueba que la mezcla de hierbas provenzales no lleve ajo ni cebolla en polvo; si dudas, usa tomillo, romero y orégano secos a partes iguales.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme prensado 10 min bajo peso y en dados grandes; sáltate el vapor, marínalo igual y ensártalo con cuidado para que no se rompa.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -713,6 +715,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 477, prot: 16, hc: 56, grasa: 21 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "verano", "económica"],
   consejo: "El mijo es un cereal sin gluten y bajo en FODMAP que casi nadie usa y que da una textura melosa estupenda. El feta, por su maduración en salmuera, tiene muy poca lactosa y se tolera bien en 30 g por persona. Rallar el calabacín hace que se integre en la crema y sea más fácil de digerir que en trozos; se queda en 65 g por persona, su ración baja en FODMAP, y las espinacas, que se toleran sin límite, completan la verdura.",
+  alternativa: "Si no encuentras mijo, usa los mismos 140 g de arroz redondo sin lavar: tuéstalo igual y cuécelo unos 18 min en total, añadiendo un poco más de caldo si se seca; queda igual de meloso.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -933,6 +936,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 355, prot: 12, hc: 41, grasa: 16 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "de cuchara", "invierno", "económica"],
   consejo: "La sopa de la viuda se hacía con lo que daba el huerto y el queso fresco de oveja de Gozo, la ġbejna, que contiene lactosa, y a veces con un huevo escalfado por persona; el feta, curado en salmuera, sustituye a la ġbejna con muy poca lactosa. En Malta lleva coliflor, guisantes y colinabo, que aquí cambiamos por calabaza y acelgas, más fáciles de tolerar. Las acelgas son bajas en FODMAP en ración moderada y, bien cocidas, muy suaves; usa solo las hojas, porque las pencas son más fibrosas.",
+  alternativa: "Si no encuentras calabaza japonesa, no la cambies por violín en esta cantidad: usa solo 90 g de calabaza violín y completa con 110 g más de patata o de zanahoria.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -979,6 +983,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 490, prot: 33, hc: 45, grasa: 20 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "de cuchara", "batch cooking", "invierno", "económica"],
   consejo: "La kawlata se hace en Malta con costilla y salchicha maltesa, alubias, coliflor, colinabo y cebolla; sin legumbres, coliflor ni aliáceos, el cilantro molido (la especia de la salchicha maltesa) y la cocción lenta del cerdo mantienen su carácter. El repollo común es bajo en FODMAP en raciones de unos 75 g por persona y, bien cocido, mucho más digestivo que crudo. Al día siguiente está aún más rica: enfríala y retira la grasa que cuaje en la superficie.",
+  alternativa: "Si no encuentras calabaza japonesa, no la cambies por violín en esta cantidad: usa solo 90 g de calabaza violín y completa con 60 g más de patata.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

@@ -96,6 +96,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 405, prot: 28, hc: 27, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "En el Líbano los salmonetes se fríen enteros y la pita se fríe en el mismo aceite; a la plancha y con la pita al horno el plato conserva su contraste de piel tostada, salsa cremosa y crujiente con la mitad de grasa. El tarator lleva ajo machacado: el aceite de ajo aporta su aroma sin los fructanos. Dos cucharadas de tahini para dos personas es una ración bien tolerada; si eres sensible a las grasas, sirve la salsa aparte y moja con moderación.",
+  alternativa: "Si no encuentras pita sin gluten, tuesta al horno 2 rebanadas de pan sin gluten cortadas en triángulos; y si no tienes zumaque, espolvorea ralladura de limón con una pizca de pimentón dulce.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -233,6 +234,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 475, prot: 40, hc: 31, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "En Bagdad el masgouf se hace con carpa del Tigris clavada en estacas junto a una hoguera de leña y se sirve con cebolla cruda y encurtido de mango, dos clásicos de la hinchazón; el tomate asado y el pepino al zumaque mantienen el contraste ácido sin molestias. Asar con grill fuerte y sin dar la vuelta deja el pescado jugoso con muy poca grasa. Comer despacio y separar bien las espinas finas obliga a masticar más, lo que también ayuda a la digestión.",
+  alternativa: "Si no encuentras pasta de tamarindo, mezcla el zumo de media lima con 1 cdta de azúcar moreno; el adobo pierde algo de su fondo afrutado, pero conserva el agridulce.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -692,6 +694,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 44, hc: 45, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína"],
   consejo: "El yogur y el limón ablandan las fibras del pavo, lo que lo hace más fácil de masticar y digerir: es el secreto del joojeh kabab iraní. Usa yogur sin lactosa y no lo dejes en la plancha, porque se quema; basta con la capa fina que queda pegada. La chirivía es una raíz baja en FODMAP y con un dulzor natural que sustituye a la calabaza butternut, más problemática en raciones grandes.",
+  alternativa: "Si no encuentras chirivía, usa 300 g de zanahoria: el puré queda igual de dulce, algo más anaranjado; cuécela 5 min más hasta que esté muy tierna.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -738,6 +741,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 41, hc: 64, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada"],
   consejo: "La mrouzia marroquí combina cordero, miel, pasas y almendras: un festín de fructosa y fructanos. La naranja reducida con sirope de arce y canela recuerda ese dulzor sin ninguno de ellos. El mijo es un cereal sin gluten, ligero y bien tolerado; tostarlo antes de cocerlo le da sabor y evita que se apelmace. La piel concentra casi toda la grasa de la codorniz: si las digestiones grasas te sientan mal, retírala al servir y quédate con la carne lacada.",
+  alternativa: "Si no encuentras mijo, usa los mismos 120 g de quinoa bien lavada: tuéstala igual y cuécela con 240 ml de agua 12-15 min tapada; queda igual de suelta.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -926,6 +930,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 19, hc: 52, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada"],
   consejo: "En Túnez todo se pasa por la sartén con abundante aceite (patata, pimiento, calabaza y huevo) y se pica con harissa; asar las verduras en el horno conserva el sabor tostado con una fracción de la grasa, y el tabil suave de cilantro y alcaravea, dos semillas carminativas, sustituye al picante. La calabaza japonesa y el pimiento verde son bien tolerados en raciones generosas, al contrario que la calabaza violín o el pimiento rojo en cantidad. Si te cuesta digerir el huevo poco hecho, cuájalo un minuto más antes de mezclar.",
+  alternativa: "Si no encuentras calabaza japonesa, no la cambies por violín en esta cantidad: usa solo 90 g de calabaza violín y completa con 60 g más de patata, asada igual.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -1061,6 +1066,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 390, prot: 19, hc: 31, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada"],
   consejo: "El za'atar tradicional es solo tomillo silvestre, zumaque, sésamo y sal; revisa la etiqueta del que compres, porque algunas mezclas comerciales llevan ajo o cebolla en polvo. 65 g de calabacín por persona es el límite bajo en FODMAP, por eso se completa con zanahoria. El baño maría cuaja los huevos de forma suave y uniforme, sin bordes duros ni aceite quemado.",
+  alternativa: "Si no encuentras za'atar, mezcla 0,5 cdta de tomillo seco, 0,5 cdta de sésamo tostado y la ralladura de medio limón; si no hay pita sin gluten, haz las migas con 2 rebanadas de pan sin gluten.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -1148,6 +1154,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 32, hc: 65, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El tempeh es soja fermentada: la fermentación reduce mucho los galactanos, y por eso, a diferencia de las legumbres, es bajo en FODMAP en raciones de unos 100 g. Hervirlo unos minutos antes de dorarlo lo hace más digestivo y le ayuda a absorber el aliño. El zumaque aporta un sabor ácido parecido al del limón sin irritar y es perfecto para quien echa de menos la cebolla morada al zumaque libanesa.",
+  alternativa: "Si no encuentras tempeh, usa 220 g de tofu firme prensado 10 min bajo peso y en dados; sáltate el hervido y dóralo directamente antes de aliñarlo igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"

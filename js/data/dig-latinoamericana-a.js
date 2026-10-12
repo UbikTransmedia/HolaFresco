@@ -97,6 +97,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 26, hc: 42, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "al horno"],
   consejo: "El parmesano curado tiene la lactosa prácticamente a cero, por eso es apto aunque se toleren mal los lácteos; la receta limeña original lleva mantequilla y un chorrito de pisco, que aquí se sustituyen por aceite y lima para que sea más ligera. Las vieiras se endurecen en segundos: sácalas en cuanto el queso esté dorado. Mastica despacio el marisco, que es denso y se digiere mejor bien triturado.",
+  alternativa: "Si las vieiras se te van de precio, usa unas 24 zamburiñas congeladas en media concha (los mismos 240 g de carne), que además se parecen más a las conchas de abanico peruanas; gratínalas solo 3 min.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -230,6 +231,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 40, hc: 82, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "bajo en colesterol", "sin gluten", "alta en proteína"],
   consejo: "El viudo se hace con bocachico o capaz del río Magdalena; la dorada o la lubina dan el mismo resultado en casa. Cocer el pescado al vapor sobre las viandas es una de las técnicas más digestivas que existen: sin grasa añadida y con el caldo, muy hidratante, servido aparte. Del plátano macho, una ración tolerada ronda los 60 g por persona: si te sienta mal, sustitúyelo por más patata. La mazorca que lleva el original se omite porque el maíz en cantidad hincha.",
+  alternativa: "Si no encuentras achiote molido, usa 1 cdta de pimentón dulce: da el mismo color rojizo al hogao, aunque pierde su ligero punto terroso.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -491,6 +493,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 49, hc: 44, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "bajo en colesterol", "sin gluten", "alta en proteína", "invierno"],
   consejo: "El pepián guatemalteco se espesa con semillas tostadas y tortilla, nunca con harina, por eso adaptarlo es sencillo: los chiles guaque y pasa, más aromáticos que picantes, se sustituyen por pimiento rojo asado, pimentón dulce y achiote. Las pipas de calabaza son bajas en FODMAP en esta cantidad y aportan magnesio y una textura cremosa. Mejora de un día para otro: guárdalo en la nevera hasta 3 días.",
+  alternativa: "Si no encuentras achiote molido, sube el pimentón dulce a 1,5 cdta; el recado queda del mismo color y apenas cambia de sabor.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -672,6 +675,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 37, hc: 53, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "alta en proteína", "de cuchara", "invierno"],
   consejo: "El nombre viene del charqui, la carne seca andina; hoy en Chile se hace con carne picada y el «ají de color» que lleva es simplemente pimentón dulce. Se suprimen los guisantes (ricos en GOS) y la cebolla, y el choclo se limita a 30 g por persona; los porotos verdes (judías verdes) son bajos en FODMAP hasta 75 g. La calabaza japonesa se puede usar sin límite, al contrario que la violín. Guárdalo sin el huevo y cuájalo al recalentar.",
+  alternativa: "Si no encuentras calabaza japonesa, no la cambies por violín en esta cantidad: usa solo 90 g de calabaza violín y completa con 210 g de zanahoria en dados, que se cuece en el mismo tiempo.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1082,6 +1086,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 26.5, hc: 88.5, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten"],
   consejo: "El tempeh es soja fermentada: la fermentación consume buena parte de los GOS de la legumbre y por eso es bajo en FODMAP hasta 100 g por persona, al contrario que la soja texturizada. El picadinho carioca se sirve siempre con arroz, farofa, plátano y a veces un huevo encima; la farofa se tuesta con aceite en lugar de mantequilla y sin cebolla. Guarda la farofa aparte para que no se humedezca.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme bien prensado y desmenuzado con los dedos; dóralo a fuego fuerte hasta que esté tostado antes de añadir el tomate, para que no quede aguado.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

@@ -285,6 +285,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 425, prot: 14, hc: 47, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "económica"],
   consejo: "La tinga de Puebla se hace con pollo deshebrado, cebolla y chipotle; con zanahoria rallada sale una versión vegetal con la misma textura hebrosa, y el achiote y el pimentón dan el color y el sabor tostado sin picante. El aguacate, típico en las tostadas, es alto en sorbitol: si lo toleras, no pases de 30 g por persona; el rábano da frescor sin ese riesgo. El feta, curado en salmuera, apenas tiene lactosa y recuerda al queso cotija. La tinga aguanta 3 días en la nevera; monta las tostadas al momento.",
+  alternativa: "Si no encuentras achiote molido, sube el pimentón dulce a 1,5 cdta: la tinga queda del mismo color y casi igual de sabor.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -377,6 +378,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 27, hc: 81, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "La harina de maíz precocida es naturalmente sin gluten y baja en FODMAP, y la arepa terminada al horno queda crujiente sin necesidad de aceite. El tempeh es de soja fermentada: la fermentación reduce mucho los oligosacáridos de la soja y es apto en raciones de 100 g. El pimiento rojo, como mucho 60 g por persona; si quieres más volumen, añade pimiento verde. El aguacate de la arepa venezolana se tolera solo hasta unos 30 g por persona. El relleno aguanta 3 días; las arepas, mejor recién hechas.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme bien prensado y desmenuzado con los dedos; dóralo a fuego fuerte hasta que esté tostado antes de añadir el tomate, para que el relleno no quede aguado.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -696,6 +698,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 40, hc: 63, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica", "alta en proteína", "invierno"],
   consejo: "El angu es la polenta de los esclavos africanos de Minas Gerais: solo fubá y agua, sin sal ni mantequilla, para acompañar guisos con mucha salsa como el frango ao molho o el lombo. Es sin gluten y muy fácil de digerir; desleír la harina en agua fría antes de echarla al cazo evita los grumos. La couve original se saltea con ajo: aquí la col rizada se queda con una pizca de sal. Aguanta 3 días; el angu se endurece al enfriar y se recupera calentándolo con un chorrito de agua.",
+  alternativa: "Si no encuentras fubá, usa los mismos 140 g de polenta de cocción rápida, desleída igual en agua fría; se cuece en 5-8 min en lugar de 25, así que empiézala cuando al guiso le queden 10 min.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -742,6 +745,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 18, hc: 97, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "económica", "para niños"],
   consejo: "En Argentina y Uruguay los ñoquis se comen el día 29 de cada mes, con un billete bajo el plato para atraer la prosperidad; los clásicos son de patata y harina de trigo. Con yuca y almidón de tapioca (como el polvilho brasileño) quedan sin gluten y muy suaves; la yuca, que sacia mucho, se queda en 150 g por persona, y debe cocerse siempre a fondo. El parmesano, por su larga curación, no tiene lactosa. Cómelos recién hechos: recalentados se ablandan demasiado.",
+  alternativa: "Si no encuentras almidón de tapioca, usa los mismos 70 g de maicena; la masa queda algo menos elástica, así que manéjala con suavidad y cuece los ñoquis en cuanto los formes.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -917,6 +921,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 485, prot: 17, hc: 66, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "económica", "invierno"],
   consejo: "El locro de papa de Quito se hace con cebolla blanca, ajo, leche entera y queso fresco; aquí la cebolleta verde y el aceite de ajo dan el aroma, y la leche y el queso son sin lactosa. El achiote aporta color sin picar. En Ecuador se sirve con aguacate: si lo toleras, añade como mucho 30 g por persona, por su sorbitol. Aguanta 3 días en la nevera; al recalentar añade un chorrito de agua porque espesa.",
+  alternativa: "Si no encuentras achiote molido, usa 1 cdta de pimentón dulce: el locro queda del mismo color dorado y el sabor apenas cambia.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1000,6 +1005,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 39, hc: 56, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "económica", "invierno"],
   consejo: "Vori vori viene del guaraní «bori bori», las bolitas de maíz que flotan en el caldo; en Paraguay se hace con gallina, cebolla y queso Paraguay, fresco y salado. Un queso curado como el manchego tiene la sal y el sabor y apenas lactosa. Las bolitas deben cocer a fuego suave: si el caldo hierve fuerte, se deshacen. La calabaza japonesa es baja en FODMAP en esta ración. Aguanta 2 días en la nevera; las bolitas absorben caldo, así que añade agua al recalentar.",
+  alternativa: "Si no encuentras calabaza japonesa, no la cambies por violín en esta cantidad: usa solo 90 g de calabaza violín y completa con 110 g más de zanahoria.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1135,6 +1141,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 370, prot: 12, hc: 37, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "al horno", "económica", "ligera"],
   consejo: "Asar el tomate y el pimiento concentra el sabor y permite prescindir de la cebolla del sofrito; colar la crema elimina pieles y semillas, que son lo que peor sienta a un intestino sensible. El pimiento rojo es bajo en FODMAP hasta unos 75 g por persona, por eso la zanahoria completa el volumen y endulza. La quinoa crujiente sustituye a los picatostes de pan. La crema aguanta 3 días en la nevera y se congela; guarda la quinoa en un bote cerrado.",
+  alternativa: "Si no encuentras achiote molido, usa 1 cdta de pimentón dulce: la crema queda del mismo color rojizo y casi igual de sabor.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

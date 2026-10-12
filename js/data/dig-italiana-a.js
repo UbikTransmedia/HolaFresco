@@ -211,6 +211,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 395, prot: 24, hc: 50, grasa: 11 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "ligera"],
   consejo: "En Venecia las capesante se sirven en su concha, salteadas con ajo, perejil, limón y a veces un velo de pan rallado; el aceite de ajo conserva el perfume sin los fructanos del diente. La vieira es un marisco magro y muy tierno si se cocina poco: pasada de punto se vuelve gomosa y cuesta más masticarla y digerirla. Si las compras congeladas, descongélalas la víspera en la nevera sobre papel de cocina y sécalas bien. El puré con leche sin lactosa y aceite, sin mantequilla ni nata, es de las guarniciones más suaves para un intestino irritable.",
+  alternativa: "Si las vieiras se te van de precio, usa 300 g de zamburiñas congeladas sin concha (descongeladas y bien secas): dóralas solo 1 min por lado, porque al ser pequeñas se pasan enseguida.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -253,6 +254,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 36, hc: 31, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al vapor", "sin gluten", "poco especiada", "ligera"],
   consejo: "El pesto genovés lleva ajo crudo, uno de los alimentos que más hinchazón provoca en el intestino irritable: el aceite de ajo conserva el aroma sin sus fructanos. El parmesano curado no tiene prácticamente lactosa. Guarda el pesto sobrante en un tarro cubierto con un hilo de aceite: aguanta 3 días en la nevera y sirve para pollo, huevos o patatas.",
+  alternativa: "Si los piñones se te van de precio, usa los mismos 20 g de almendra cruda pelada; el pesto queda algo menos mantecoso, así que añade 1 cdta más de aceite de oliva al triturar.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -295,6 +297,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 41, hc: 49, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína"],
   consejo: "La polenta de maíz es una de las mejores bases para el intestino irritable: sin gluten, sin fructanos y muy fácil de digerir. El tomate cherry es apto hasta unos 5 tomates por persona, que es justo la cantidad de esta receta. El atún que se toma poco hecho debe haberse congelado antes (48 horas a -20 °C) para eliminar el riesgo de anisakis; el que se vende como 'apto para consumo en crudo' ya lo está.",
+  alternativa: "Si el atún rojo se te va de precio, usa lomo de atún claro congelado del súper (los mismos 300 g, en taco grueso); descongélalo en la nevera, sécalo bien y márcalo igual.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -689,6 +692,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 40, hc: 38, grasa: 11 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada", "alta en proteína", "otoño"],
   consejo: "En Trentino y Alto Adige el cerdo se acompaña de arándanos, que allí se recogen en el monte a finales del verano: la acidez de la fruta corta la grasa y hace el papel de las salsas de vino. Los arándanos son de las frutas mejor toleradas en la dieta baja en FODMAP (hasta una taza por ración), y la chirivía y la zanahoria, de las raíces más seguras. El solomillo es la pieza más magra del cerdo: a 63 °C queda tierno y jugoso; pasado de punto se vuelve fibroso y cuesta más masticarlo.",
+  alternativa: "Si no encuentras chirivía, asa 200 g de patata en dados del mismo tamaño junto a la zanahoria y el mismo tiempo; pierdes su punto anisado y dulce, pero la zanahoria lo compensa.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -1081,6 +1085,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 25, hc: 50, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína"],
   consejo: "El tempeh es soja fermentada: la fermentación reduce los galactanos y por eso es apto en la dieta baja en FODMAP en raciones de unos 100 g, justo la de esta receta. Cocerlo al vapor antes de dorarlo lo vuelve más tierno y mejor tolerado. Una cucharada de balsámico por ración está dentro de lo tolerable; en más cantidad aporta fructosa. El calabacín es apto hasta unos 65 g por persona, por eso aquí va como guarnición y no como protagonista.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme prensado 10 min bajo peso y cortado en lonchas; sáltate el vapor y dóralo directamente antes de glasearlo igual.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"

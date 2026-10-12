@@ -105,6 +105,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 14, hc: 84, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "económica", "batch cooking"],
   consejo: "Los tajines dulces marroquíes llevan miel, pasas o ciruelas y mucha cebolla, todos ricos en fructosa, polioles o fructanos; aquí el dulzor lo ponen las propias raíces, la naranja reducida y una cucharadita de azúcar. Zanahoria, chirivía y patata son libres de FODMAP en ración normal y, muy cocidas, apenas fermentan. Ocho almendras por persona están dentro de la ración tolerada. Si usas un tajine de barro, ponlo siempre sobre difusor y a fuego bajo para que no se agriete.",
+  alternativa: "Si no encuentras chirivía, sustitúyela por 150 g más de zanahoria y 100 g más de patata en trozos del mismo tamaño; el tajine pierde su punto anisado, pero se guisa en el mismo tiempo.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -390,6 +391,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 30, hc: 59, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína"],
   consejo: "El tempeh es una de las pocas formas de soja aptas en la dieta baja en FODMAP: la fermentación descompone buena parte de los GOS, y hasta 100 g por persona se toleran bien. Cocerlo al vapor antes de dorarlo lo hace más suave para el intestino. El iskender original lleva mantequilla tostada y pan de trigo; aquí el aceite de oliva con pimentón dulce da el mismo efecto chisporroteante sin pesadez. Monta el plato al momento: la pita empapada no aguanta el tupper.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme prensado 10 min bajo peso y en lonchas finas; sáltate el vapor y dóralo directamente. Sin pita sin gluten, usa 3 rebanadas de pan sin gluten tostado.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -435,6 +437,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 14, hc: 61, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "rápida", "sin gluten", "poco especiada", "verano"],
   consejo: "En Gaziantep se hace con cebolla y pul biber; aquí la parte verde de la cebolleta aporta el toque de cebolla sin fructanos y el picante se queda fuera. Respeta las cantidades: la granada se tolera hasta unos 38 g por persona y las nueces hasta 30 g. La melaza de granada es muy concentrada, así que basta una cucharada para dos. Corta todo menudo y mastica despacio: las verduras crudas en trozos pequeños se digieren mucho mejor.",
+  alternativa: "Si no encuentras melaza de granada, mezcla 1 cda de vinagre balsámico con 0,5 cdta de azúcar; da un agridulce muy parecido. Sin pita sin gluten, tuesta 2 rebanadas de pan sin gluten en triángulos.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
