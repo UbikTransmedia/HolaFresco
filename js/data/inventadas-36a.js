@@ -45,6 +45,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 37, hc: 53, grasa: 30 },
   etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "rápida", "alta en proteína", "fácil", "poco especiada"],
   consejo: "Para celíacos, usa tamari con sello sin gluten: algunos tamaris llevan trigo. Sin airfryer, hornea el salmón a 200 °C 10–12 minutos.",
+  alternativa: "Si no encuentras pak choi, saltea 150 g de espinacas baby o de hojas tiernas de acelga (sin la penca) con el aceite de ajo solo 1–2 minutos; siguen siendo aptas para la dieta baja en FODMAP.",
   contundencia: "media",
   coste: "premium",
   tupper: false
@@ -313,6 +314,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 660, prot: 45, hc: 70, grasa: 22 },
   etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Ideal para dejar programado por la mañana. Duplica cantidades y congela raciones de pollo con salsa; el arroz cuécelo siempre en el momento.",
+  alternativa: "Sin slow cooker: dora un poco el pollo, añade el resto y cuécelo en cazuela tapada a fuego mínimo 40–45 minutos con 50 ml más de agua, hasta que se deshaga.",
   contundencia: "contundente",
   coste: "económica",
   tupper: true
@@ -359,6 +361,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 36, hc: 92, grasa: 31 },
   etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "fácil", "sin verduras", "poco especiada"],
   consejo: "El mojo cubano clásico lleva mucho ajo; aquí el aceite de ajo aporta el aroma sin los fructanos. La carne desmenuzada aguanta 3 días en la nevera y se congela muy bien con su jugo.",
+  alternativa: "Si no tienes slow cooker, cuece la paleta con el mojo en cazuela tapada a fuego muy suave unas 2 h 15 min, con 150 ml de agua y dándole la vuelta a mitad; o en olla exprés, 45 minutos desde que suba la válvula.",
   contundencia: "contundente",
   coste: "económica",
   tupper: true

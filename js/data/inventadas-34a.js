@@ -266,6 +266,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 755, prot: 40, hc: 45, grasa: 46 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "poco especiada"],
   consejo: "Algunas pastas de achiote comerciales llevan harina o vinagre de malta (de cebada): busca una certificada sin gluten. En tupper aguantan 3 días; recalienta tapadas 15 minutos a 180 °C con una cucharada de agua.",
+  alternativa: "Si no encuentras pasta de achiote, maja con el ajo 1 cda de pimentón dulce, ½ cdta de cúrcuma y 1 cda de vinagre de manzana: da el mismo color rojizo y un sabor terroso muy parecido.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -309,6 +310,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 38, hc: 36, grasa: 32 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "La costra de almendra sustituye al pan rallado y queda igual de crujiente. Revisa la mostaza: la mayoría de Dijon son aptas, pero algunas llevan harina o vinagre de malta.",
+  alternativa: "¿Sin eneldo fresco? Mezcla 1 cdta de eneldo seco con las almendras picadas y añade algo más de perejil para que la costra siga verde.",
   contundencia: "media",
   coste: "premium"
 });
@@ -923,6 +925,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 30, hc: 70, grasa: 32 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "económica", "poco especiada"],
   consejo: "El fatteh tradicional lleva pan de pita frito; las tortillas de maíz con sello sin gluten lo sustituyen con el mismo crujiente. El zumaque y el comino, mejor certificados, porque las especias se contaminan con facilidad.",
+  alternativa: "Si no tienes zumaque, espolvorea al final la ralladura fina de medio limón con una pizca de sal en escamas: aporta el mismo punto ácido y fresco.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -1060,6 +1063,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 22, hc: 56, grasa: 30 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "económica"],
   consejo: "Revisa el tofu ahumado y la salsa picante: algunos tofus marinados llevan salsa de soja con trigo. Para el tupper, recalienta en el horno o la airfryer para recuperar el crujiente.",
+  alternativa: "Si no hay tofu ahumado en tu súper, usa tofu firme (los mismos 200 g) bien escurrido y añade ½ cdta más de pimentón ahumado al aliño.",
   contundencia: "media",
   coste: "económica"
 });

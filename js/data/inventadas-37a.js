@@ -166,6 +166,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 23.5, hc: 74.5, grasa: 22 },
   etiquetas: ["saludable", "práctica", "airfryer", "vegana", "económica", "fácil", "alta en fibra", "poco especiada", "bajo en colesterol"],
   consejo: "Las judías crujientes pierden la textura en la nevera: si quieres adelantar, deja la ensalada y la salsa hechas y tuesta las judías justo antes de comer. Sirven igual garbanzos o alubias rojas.",
+  alternativa: "Si no encuentras za'atar, prepáralo con 2 cdta de tomillo seco, 1 cdta de sésamo tostado, la ralladura de medio limón y una pizca de sal; queda muy parecido.",
   contundencia: "media",
   coste: "económica",
   tupper: false
@@ -294,6 +295,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 39.5, hc: 38, grasa: 16.5 },
   etiquetas: ["saludable", "práctica", "airfryer", "ligera", "alta en proteína", "fácil", "para niños", "una sola cesta", "poco especiada"],
   consejo: "Con merluza congelada funciona igual: descongélala en la nevera la noche antes y sécala muy bien con papel para que la costra no se humedezca.",
+  alternativa: "Si no tienes panko, usa pan rallado de miga gruesa o copos de maíz sin azúcar machacados groseramente (los mismos 30 g): la costra queda casi igual de crujiente.",
   contundencia: "ligera",
   coste: "media",
   tupper: false

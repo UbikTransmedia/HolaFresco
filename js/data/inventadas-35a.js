@@ -45,6 +45,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 696, prot: 45, hc: 75, grasa: 24 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Al día siguiente están aún mejores. Guárdalas en tuppers de vidrio hasta 3 días en la nevera (o 3 meses congeladas) y recalienta en el microondas 3 minutos tapadas, con un chorrito de agua porque espesan. Para celíacos: usa caldo y pimentón con sello sin gluten y revisa las lentejas, que a veces traen granos de trigo o cebada sueltos.",
+  alternativa: "Con prisa, usa 500 g de lentejas pardinas cocidas de bote bien enjuagadas, baja el caldo a 400 ml y cuece todo solo 15–20 minutos, lo justo para que se hagan la patata y el pavo.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -92,6 +93,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 582, prot: 20, hc: 85, grasa: 18 },
   etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica", "bajo en colesterol"],
   consejo: "Guarda el curry y el arroz en el mismo tupper pero en lados separados; aguanta 3 días en la nevera. Recalienta 2-3 minutos en el microondas con una cucharada de agua sobre el arroz para que no se reseque. Para celíacos: algunos garam masala y concentrados de tamarindo llevan harina como antiapelmazante; compra versiones con sello sin gluten.",
+  alternativa: "Si no encuentras concentrado de tamarindo, cámbialo por 1 cda de zumo de lima con 1 cdta de azúcar moreno: da ese mismo contraste agridulce.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -137,6 +139,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 414, prot: 32, hc: 40, grasa: 14 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "alta en proteína", "poco especiada"],
   consejo: "Aguanta 2-3 días en la nevera. Si lo vas a llevar en tupper, añade las gambas al recalentar para que no queden gomosas: calienta el guiso a fuego suave o 2 minutos en el microondas y mételas en los últimos 30 segundos. Para celíacos: muchos caldos de pescado en brik y fumets llevan harina; elige uno con sello o hazlo casero.",
+  alternativa: "¿No hay ñoras en tu zona? Pon 1 cda de carne de pimiento choricero de bote o 1 cdta de pimentón dulce de la Vera añadida fuera del fuego para que no amargue.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -543,6 +546,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 678, prot: 48, hc: 45, grasa: 34 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Como todos los estofados, gana de un día para otro: hasta 3 días en la nevera o 3 meses congelado. Recalienta a fuego suave con un poco de agua o 4 minutos en el microondas tapado. Para celíacos: no enharines la carne con harina de trigo; la maicena liga igual y deja la salsa más brillante.",
+  alternativa: "En olla exprés: tras el vino, añade la carne, el tomate, las hierbas y el agua, y cuece 25 minutos desde que suba la válvula; abre, echa las patatas y las aceitunas y termina 20 minutos destapado antes de ligar con la maicena.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -986,6 +990,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 534, prot: 36, hc: 48, grasa: 22 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "alta en proteína", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. Lleva el aliño en un botecito aparte si vas a tardar más de un día en comerla, y añade las hierbas frescas el mismo día. Se toma fría o con el pollo templado 40 segundos en el microondas. Para celíacos: es una buena alternativa al tabulé, que lleva bulgur de trigo.",
+  alternativa: "Para sustituir el zumaque, añade al aliño la piel rallada de medio limón y una pizca de pimentón: el toque ácido y rojizo es casi el mismo.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1077,6 +1082,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 608, prot: 36, hc: 80, grasa: 16 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "fácil", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Enfría el arroz rápido (extiéndelo en una fuente) antes de guardarlo y consúmelo en 2-3 días. Recalienta 2-3 minutos en el microondas con una cucharada de agua y tapado, hasta que humee. Para celíacos: compra la pasta de achiote con sello, algunas llevan harina, y revisa también el caldo.",
+  alternativa: "Sin pasta de achiote, sofríe con el ajo 2 cdta de pimentón dulce y ¼ cdta de cúrcuma desleídos en un chorrito de zumo de lima; el arroz queda igual de anaranjado.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

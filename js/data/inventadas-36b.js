@@ -43,6 +43,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 37, hc: 58, grasa: 17 },
   etiquetas: ["sin gluten", "bajo en fodmap", "verano", "fácil", "bajo en colesterol"],
   consejo: "Para comer pescado crudo, congélalo antes al menos 5 días a −20 °C para evitar el anisakis. Usa tortillas 100 % de maíz con sello sin gluten.",
+  alternativa: "Si no hay corvina, sirve igual lubina o dorada en lomos sin piel, siempre muy fresca y congelada antes; la marinada y los tiempos no cambian.",
   contundencia: "media",
   coste: "premium",
   tupper: false
@@ -353,6 +354,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 50, hc: 66, grasa: 25 },
   etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "invierno", "fácil", "poco especiada"],
   consejo: "La maicena sustituye a la harina de trigo con la que se enharina la carne en los guisos clásicos. Congela el guiso en raciones; el puré, mejor recién hecho.",
+  alternativa: "Sin slow cooker, guisa en cazuela tapada a fuego mínimo 1 h 45 min–2 h con 300 ml de agua en vez de 150, o 35 minutos en olla exprés; espesa luego con la maicena 3 minutos destapado.",
   contundencia: "contundente",
   coste: "media",
   tupper: true
@@ -488,6 +490,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 755, prot: 37, hc: 38, grasa: 50 },
   etiquetas: ["sin gluten", "bajo en fodmap", "todo al horno", "fácil", "poco especiada"],
   consejo: "El zumaque aporta acidez sin ajo ni cebolla; compra uno puro, sin sal ni mezcla de especias. Las chuletillas recién hechas son lo mejor: no las guardes para tupper.",
+  alternativa: "¿No tienes zumaque? Ralla sobre la berenjena la piel de medio limón con una pizca de sal en escamas; aporta la misma acidez y sigue siendo apto para la dieta baja en FODMAP.",
   contundencia: "contundente",
   coste: "premium",
   tupper: false
@@ -616,6 +619,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 31, hc: 49, grasa: 42 },
   etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "alta en proteína", "fácil", "poco especiada"],
   consejo: "El halloumi se endurece al enfriarse, por eso este bol se disfruta recién hecho. Es un queso curado en salmuera con poca lactosa.",
+  alternativa: "Si no encuentras zumaque, sustitúyelo por unas gotas más de limón y una pizca de pimentón dulce sobre el halloumi: el color y el punto ácido se parecen mucho.",
   contundencia: "contundente",
   coste: "media",
   tupper: false
@@ -1063,6 +1067,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 41, hc: 77, grasa: 21 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "alta en proteína", "poco especiada"],
   consejo: "El arroz caldoso hay que comerlo al momento, o el grano se hincha y se queda sin caldo. Los caldos de pescado envasados suelen llevar cebolla y puerro: hazlo con las espinas del rape, laurel y agua.",
+  alternativa: "Para que salga más económico, cambia el rape por lomos gruesos de merluza o de pescadilla en dados grandes, añadidos igualmente en los últimos 2–3 minutos; el caldo, hazlo entonces con sus espinas.",
   contundencia: "contundente",
   coste: "premium",
   tupper: false
@@ -1108,6 +1113,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 30, hc: 51, grasa: 21 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "tupper", "batch cooking", "fácil", "poco especiada"],
   consejo: "Para el tupper, guarda los fideos aparte y añádelos al recalentar la sopa, o se volverán blandos. Usa caldo casero: los de brick casi siempre llevan cebolla y a veces gluten.",
+  alternativa: "Si no tienes pak choi, añade al final un puñado grande de espinacas frescas o acelga tierna en tiras: con 1 minuto de hervor basta.",
   contundencia: "media",
   coste: "económica",
   tupper: true

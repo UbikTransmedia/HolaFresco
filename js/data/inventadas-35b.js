@@ -351,6 +351,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 712, prot: 40, hc: 48, grasa: 40 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno", "poco especiada"],
   consejo: "Prepara el doble: aguanta 3 días en la nevera y 3 meses congelada con su salsa. Recalienta 4 minutos en el microondas tapada o a fuego suave. El puré, guárdalo aparte y caliéntalo con un chorrito de leche. Para celíacos: la cerveza normal lleva cebada; usa solo cerveza con sello sin gluten.",
+  alternativa: "Con olla exprés, tras añadir la cerveza y el resto, cierra y cuenta 40 minutos desde que suba la válvula en vez de 1 h 45 min; después deja reducir la salsa sin tapa unos minutos.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -399,6 +400,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 736, prot: 42, hc: 70, grasa: 32 },
   etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno", "sin verduras"],
   consejo: "Aguanta 3 días en la nevera y 3 meses congelado, y gana sabor al reposar. Recalienta tapado 4 minutos en el microondas; las almendras guárdalas aparte para que sigan crujientes. Para celíacos: es la versión sin cuscús de un tajín; si quieres cuscús, sustitúyelo siempre por arroz, quinoa o mijo.",
+  alternativa: "Si tienes olla exprés, el cordero queda igual de tierno con 25 minutos a presión en lugar de 1 h 15 min en cazuela; añade luego las ciruelas y dale 15 minutos destapado.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -618,6 +620,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 568, prot: 26, hc: 62, grasa: 24 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno", "fácil", "picante"],
   consejo: "Aguanta 3 días en la nevera en porciones; la tortilla de maíz absorbe la salsa y queda como una lasaña. Recalienta 2-3 minutos en el microondas. Para celíacos: revisa el chipotle en adobo y elige tortillas 100 % maíz con sello, ya que muchas llevan harina de trigo.",
+  alternativa: "Si no tienes chipotle en adobo, pon 1 cdta de pimentón ahumado y una pizca de cayena en la salsa; la nata agria se cambia sin problema por yogur griego con unas gotas de limón.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -662,6 +665,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 428, prot: 16, hc: 64, grasa: 12 },
   etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "económica", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera. La quinoa sigue absorbiendo caldo: añade un chorro de agua o caldo al recalentar 3 minutos en el microondas. Para celíacos: usa quinoa y caldo con sello sin gluten, y revisa la crema de ají amarillo.",
+  alternativa: "Si no encuentras crema de ají amarillo, tritura ½ pimiento amarillo asado con una pizca de cayena y añádelo al caldo: aporta el color y un picor suave parecido.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -705,6 +709,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 452, prot: 22, hc: 46, grasa: 20 },
   etiquetas: ["sin gluten", "vegana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. Recalienta 2-3 minutos en el microondas o, mejor, 8 minutos en la airfryer a 180 °C para que las patatas recuperen el dorado. Para celíacos: algunos tofus ahumados y marinados llevan salsa de soja con trigo; lee la etiqueta.",
+  alternativa: "Si en tu súper no venden tofu ahumado, usa tofu firme prensado y añade ½ cdta de pimentón ahumado al aliño de las verduras para recuperar ese aroma.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -833,6 +838,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 442, prot: 24, hc: 46, grasa: 18 },
   etiquetas: ["sin gluten", "tupper", "batch cooking", "ideal para llevar", "fácil", "sin horno", "verano", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 2-3 días en la nevera; añade el salmón ahumado el día que la comas. Se come fría. Para celíacos: aunque se llame trigo, el sarraceno no es un cereal con gluten, pero compra siempre uno certificado porque se procesa junto al trigo.",
+  alternativa: "Si no encuentras trigo sarraceno certificado, usa la misma cantidad de quinoa con sello sin gluten (cuécela 12–14 minutos); pierde algo del sabor tostado, pero la textura es muy similar.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"

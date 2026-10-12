@@ -84,6 +84,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 40, hc: 75, grasa: 10 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "fácil", "tupper", "ideal para llevar", "verano", "poco especiada"],
   consejo: "El achiote da color rojizo y un sabor terroso suave, sin picante. Si usas gambas congeladas, descongélalas en la nevera y sécalas bien para que se doren en lugar de cocerse.",
+  alternativa: "A falta de achiote, unta las brochetas con 2 cdta de pimentón dulce, una pizca de cúrcuma, el zumo de la lima y una gota de vinagre; el tono rojizo y el fondo terroso se mantienen.",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -264,6 +265,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 25, hc: 31, grasa: 25 },
   etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "sin gluten", "ligera", "fácil", "económica", "tupper", "ideal para llevar", "poco especiada"],
   consejo: "Los huevos duros en airfryer salen perfectos sin agua hirviendo: 15 minutos a 150 °C. Las verduras asadas aguantan 4 días en la nevera; lleva la rúcula y el aliño aparte en el tupper.",
+  alternativa: "Para ir más rápido, usa remolacha cocida envasada al vacío (300 g) en gajos: añádela solo los últimos 8–10 minutos, lo justo para que se dore.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -437,6 +439,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 30, hc: 14.5, grasa: 30.5 },
   etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "sin gluten", "ligera", "para niños", "keto", "verduras escondidas", "poco especiada"],
   consejo: "Las bases ya horneadas se congelan separadas con papel: sácalas, ponles los ingredientes y gratínalas directamente 7–8 minutos a 190 °C. Añade champiñones, pimiento o atún según lo que tengas.",
+  alternativa: "La harina de almendra es lo mismo que la almendra molida de repostería, más fácil de encontrar: usa los mismos 30 g.",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -821,6 +824,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 38, hc: 59, grasa: 24 },
   etiquetas: ["saludable", "práctica", "airfryer", "vegana", "alta en proteína", "fácil", "tupper", "ideal para llevar", "bajo en colesterol"],
   consejo: "El ras el hanout es una mezcla marroquí de especias aromáticas (comino, canela, jengibre, cilantro…). Si no tienes, mezcla comino, pimentón y una pizca de canela. Para sin gluten, cambia el cuscús por quinoa.",
+  alternativa: "Si no encuentras Heura, vale tofu firme bien prensado en dados (250 g) o soja texturizada gruesa hidratada en caldo y escurrida; marínalos igual con el ras el hanout.",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -993,6 +997,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 53, hc: 64.5, grasa: 25.5 },
   etiquetas: ["saludable", "práctica", "airfryer", "alta en proteína", "fácil", "económica", "para niños", "poco especiada"],
   consejo: "Con 2 cucharadas de aceite para todo el plato tienes un \"pollo frito\" crujiente con una fracción de la grasa. La ensalada de col aguanta 2 días aliñada y gana sabor.",
+  alternativa: "¿Sin panko en casa? Mezcla pan rallado normal con copos de maíz sin azúcar triturados a partes iguales (50 g en total): se mantiene el crujiente.",
   contundencia: "contundente",
   coste: "económica",
   tupper: false

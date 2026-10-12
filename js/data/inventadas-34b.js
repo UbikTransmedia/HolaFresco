@@ -41,6 +41,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 395, prot: 30, hc: 28, grasa: 18 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "El papillote cocina al vapor sin necesidad de harinas ni salsas espesadas, y es de los métodos más seguros para celíacos. Si compartes horno con otras preparaciones con gluten, el paquete cerrado evita salpicaduras.",
+  alternativa: "Si no encuentras hinojo, pon 2 ramas de apio en bastones y ½ cdta de semillas de hinojo o de anís dentro del papillote; conserva ese aroma anisado suave.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -89,6 +90,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 675, prot: 40, hc: 56, grasa: 32 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "picante", "batch cooking"],
   consejo: "Muchas salsas jerk comerciales llevan salsa de soja con trigo: con este adobo casero y tamari certificado te aseguras de que es apto. Ajusta el chile a tu gusto; el habanero es el tradicional pero pica mucho.",
+  alternativa: "Sin pimienta de Jamaica, combina ½ cdta de canela, ¼ de clavo molido y ¼ de nuez moscada; si no hay plátano macho, usa 300 g de boniato en rodajas gruesas, con el mismo tiempo de horno.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -224,6 +226,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 42, hc: 50, grasa: 42 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "invierno", "poco especiada"],
   consejo: "Revisa la mostaza antigua: algunas marcas usan vinagre de malta o cerveza, que contienen gluten. La col lombarda asada mejora al día siguiente, así que es un buen plato de tupper.",
+  alternativa: "Si no tienes alcaravea, usa ½ cdta de comino en grano o de semillas de hinojo: cambia muy poco el aroma de la lombarda.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -269,6 +272,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 425, prot: 34, hc: 36, grasa: 16 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "ligera", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Los caldos de pescado preparados y las pastillas suelen llevar harina o almidón de trigo: usa uno certificado sin gluten o sustitúyelo por agua con un poco más de vino. Pide al pescadero que limpie el rape de la piel y la telilla.",
+  alternativa: "Para abaratarlo, cambia el rape por lomos gruesos de merluza (la misma cantidad) y mételos solo los últimos 12–15 minutos, porque se hacen antes y se deshacen con facilidad.",
   contundencia: "ligera",
   coste: "premium"
 });
@@ -488,6 +492,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 38, hc: 36, grasa: 24 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "La receta siciliana original lleva pan rallado tostado por encima; si te apetece ese crujiente, usa pan rallado sin gluten mezclado con el orégano. Recalienta en el tupper suavemente para que el pescado no se seque.",
+  alternativa: "Los piñones pueden sustituirse por la misma cantidad de almendra laminada, más barata, tostada en la bandeja los últimos 5 minutos.",
   contundencia: "media",
   coste: "premium"
 });
@@ -579,6 +584,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 28, hc: 50, grasa: 32 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking"],
   consejo: "En la cocina india se usa mucho la asafétida, que suele venir cortada con harina de trigo: si la añades, que sea certificada sin gluten. Para acompañar, arroz basmati o tortillas de maíz en lugar de naan o chapati.",
+  alternativa: "Si no encuentras paneer, usa halloumi en dados (los mismos 100 g) y quita una pizca de sal del plato, porque es más salado; tampoco se derrite al hornearlo.",
   contundencia: "media",
   coste: "media"
 });
@@ -627,6 +633,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 30, hc: 46, grasa: 36 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Algunos tempehs se fermentan con cebada u otros cereales: compra uno solo de soja con sello sin gluten. Usa tamari certificado en vez de salsa de soja y crema de cacahuete 100 % cacahuete.",
+  alternativa: "Si no tienes tempeh, vale tofu firme bien prensado (250 g) en dados; dóralo 5 minutos más para que quede firme por fuera.",
   contundencia: "media",
   coste: "media"
 });
@@ -1063,6 +1070,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 42, hc: 18, grasa: 18 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "ligera", "bajo en fodmap", "alta en proteína", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Usa tamari certificado sin gluten. Es apta para la dieta baja en FODMAP: el ajo va en forma de aceite, el cebollino sustituye a la cebolleta y la ración de boniato es moderada. Si congelas el atún 48 h antes, puedes dejarlo poco hecho con total seguridad.",
+  alternativa: "Fuera de temporada o para abaratar, usa bonito o atún claro en taco grueso; si no encuentras pak choi, sustitúyelo por 200 g de hojas de acelga tierna en tiras (sin pencas), igual de aptas para la dieta baja en FODMAP.",
   contundencia: "ligera",
   coste: "premium"
 });
