@@ -129,6 +129,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 370, prot: 34, hc: 10, grasa: 22 },
   etiquetas: ["rápida", "ligera", "al vapor", "alta en proteína", "bajo en colesterol"],
   consejo: "El truco está en el aceite muy caliente: libera el aroma del jengibre y la cebolleta en el momento. Ten los platos listos antes de verterlo.",
+  alternativa: "Si no encuentras pak choi, usa 4 hojas de acelga tierna con las pencas en tiras o un brócoli pequeño en ramilletes; al vapor necesitan 1-2 min más que el pak choi.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -175,6 +176,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 40, hc: 26, grasa: 30 },
   etiquetas: ["al horno", "alta en proteína", "para niños", "poco especiada"],
   consejo: "El bacalao fresco se pasa rápido: sácalo del horno en cuanto la carne pase de translúcida a blanca opaca; seguirá cocinándose un minuto fuera.",
+  alternativa: "Si no tienes panko, usa los mismos 30 g de pan rallado grueso (o miga de pan del día anterior desmenuzada y secada 5 min en el horno): la costra queda casi igual de crujiente.",
   contundencia: "media",
   coste: "media"
 });
@@ -223,6 +225,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 50, hc: 62, grasa: 30 },
   etiquetas: ["de cuchara", "invierno", "guiso marinero", "alta en proteína", "poco especiada"],
   consejo: "El guiso mejora si lo preparas hasta el paso 5 por la mañana y añades el pescado al recalentar: así nunca se pasa.",
+  alternativa: "Para abaratarla, cambia el rape por lomos gruesos de merluza o de rosada (los mismos 300 g) y añádelos solo los últimos 4 min, porque se deshacen antes que el rape.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -492,6 +495,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 42, hc: 78, grasa: 31 },
   etiquetas: ["fritura", "fin de semana", "picante", "para compartir"],
   consejo: "La clave de un rebozado ligero es la cerveza helada y no sobremezclar; si la masa espera más de 10 minutos pierde burbujas, así que hazla justo antes de freír.",
+  alternativa: "Si no encuentras chipotle en adobo, mezcla en la crema 1 cdta de pimentón ahumado, una pizca de cayena y unas gotas de vinagre: conserva el punto ahumado y picante.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -906,6 +910,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 62, hc: 56, grasa: 24 },
   etiquetas: ["plancha", "fin de semana", "alta en proteína", "para compartir"],
   consejo: "El pulpo congelado sale más tierno que el fresco porque el hielo rompe las fibras: no te compliques y compra siempre congelado. El agua de cocción es un caldo estupendo para un arroz otro día.",
+  alternativa: "Con olla exprés, cuece el pulpo 15 min desde que suba la válvula en lugar de 45-55 min en cazuela; o compra pulpo ya cocido (unos 600 g) y pásalo directamente a la plancha.",
   contundencia: "contundente",
   coste: "premium"
 });

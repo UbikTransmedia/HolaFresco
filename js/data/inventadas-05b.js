@@ -140,7 +140,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 790, prot: 36, hc: 72, grasa: 39 },
   etiquetas: ["alta en proteína", "de cuchara", "invierno", "masa casera"],
-  consejo: "Cuanto más dorado y seco esté el paneer, mejor aguanta en la salsa sin deshacerse. Y no tritures las espinacas hasta crema: la gracia está en que se note la hoja."
+  consejo: "Cuanto más dorado y seco esté el paneer, mejor aguanta en la salsa sin deshacerse. Y no tritures las espinacas hasta crema: la gracia está en que se note la hoja.",
+  alternativa: "Si no encuentras paneer, usa halloumi (sin añadirle sal) o queso para freír en dados, dorados igual; las espinacas pueden ser 400 g congeladas, bien escurridas."
 });
 
 window.RECETAS_SEED.push({
@@ -185,7 +186,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 460, prot: 24, hc: 29, grasa: 27 },
   etiquetas: ["ligera", "alta en proteína", "invierno", "poco especiada"],
-  consejo: "Cuela y guarda el aceite del confit en la nevera: sabe a alcachofa y ajo y es oro para aliñar ensaladas o asar patatas."
+  consejo: "Cuela y guarda el aceite del confit en la nevera: sabe a alcachofa y ajo y es oro para aliñar ensaladas o asar patatas.",
+  alternativa: "Fuera de temporada, usa 400 g de corazones de alcachofa congelados sin descongelar: confítalos solo 12-15 min y sáltate la limpieza del paso 1."
 });
 
 window.RECETAS_SEED.push({
@@ -405,7 +407,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 460, prot: 22, hc: 37, grasa: 25 },
   etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "poco especiada"],
-  consejo: "Unos pepinillos o guindillas encurtidas en el relleno levantan el conjunto: el paneer es neutro y agradece el ácido."
+  consejo: "Unos pepinillos o guindillas encurtidas en el relleno levantan el conjunto: el paneer es neutro y agradece el ácido.",
+  alternativa: "Puedes cambiar el paneer por halloumi en lonchas gruesas; como ya es salado, no añadas sal a la mezcla de especias."
 });
 
 window.RECETAS_SEED.push({
@@ -636,7 +639,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 810, prot: 33, hc: 87, grasa: 36 },
   etiquetas: ["al horno", "para niños", "económica", "invierno", "verduras escondidas", "poco especiada"],
-  consejo: "La calabaza da cremosidad y color sin necesidad de más queso. Si sobra, recalienta con un chorrito de leche: queda como recién hecho."
+  consejo: "La calabaza da cremosidad y color sin necesidad de más queso. Si sobra, recalienta con un chorrito de leche: queda como recién hecho.",
+  alternativa: "Sin panko, mezcla 25 g de pan rallado grueso con la mantequilla o el aceite antes de espolvorearlo: la costra gratina igual de dorada."
 });
 
 window.RECETAS_SEED.push({
@@ -900,7 +904,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 600, prot: 24, hc: 72, grasa: 22 },
   etiquetas: ["de cuchara", "invierno", "poco especiada"],
-  consejo: "Los huevos marinados mejoran si los preparas la víspera: en la nevera aguantan 3 días y la yema queda más melosa y sabrosa."
+  consejo: "Los huevos marinados mejoran si los preparas la víspera: en la nevera aguantan 3 días y la yema queda más melosa y sabrosa.",
+  alternativa: "Si no encuentras fideos de ramen, usa fideos chinos de huevo y cuécelos según el paquete; el pak choi se sustituye bien por un puñado de espinacas o acelga tierna, que van directamente al caldo."
 });
 
 window.RECETAS_SEED.push({

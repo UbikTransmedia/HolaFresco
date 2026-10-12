@@ -86,6 +86,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 40, hc: 49, grasa: 10 },
   etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "wok", "bajo en colesterol"],
   consejo: "El wok debe humear antes de echar el pavo: si el fuego es flojo, la carne suelta agua y se cuece en vez de dorarse.",
+  alternativa: "Si no encuentras pak choi, saltea 200 g de col china o de acelgas tiernas en tiras: las pencas van primero 1 min y las hojas al final, con el mismo punto crujiente.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -134,6 +135,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 795, prot: 43, hc: 66, grasa: 40 },
   etiquetas: ["al horno", "picante", "para compartir", "fin de semana"],
   consejo: "Si tienes rejilla de horno, coloca las alitas encima con la bandeja debajo: el aire circula por todos lados y quedan crujientes como fritas.",
+  alternativa: "En airfryer, cocina las alitas a 200 °C unos 22-25 min en una sola capa, sacudiendo la cesta a mitad, y glaséalas después 2 min más; las patatas, en una tanda aparte.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -403,6 +405,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 40, hc: 60, grasa: 24 },
   etiquetas: ["a la plancha", "marinado", "para compartir", "verano", "bajo en colesterol"],
   consejo: "La piña a la plancha necesita una superficie muy caliente y seca: si la plancha está tibia suelta jugo y se cuece en vez de caramelizarse.",
+  alternativa: "Si no hay pasta de achiote, mezcla 2 cdta de pimentón dulce, una pizca de pimentón picante y unas gotas de vinagre con el zumo de naranja: da el mismo color rojizo y un sabor muy parecido.",
   contundencia: "media",
   coste: "media"
 });
@@ -622,6 +625,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 45, hc: 24, grasa: 21 },
   etiquetas: ["rápida", "ligera", "empanado ligero", "para niños", "alta en proteína", "poco especiada"],
   consejo: "Al aplanar el pavo se cocina en minutos y queda tierno. Con poco aceite y la sartén bien caliente el panko dora sin absorber grasa.",
+  alternativa: "El panko se puede cambiar por pan rallado de grano gordo (los mismos 40 g) o por miga de pan duro desmenuzada; la costra queda un pelín más fina, pero dora igual.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -672,6 +676,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 46, hc: 68, grasa: 30 },
   etiquetas: ["de cuchara", "especiado", "picante", "fin de semana", "batch cooking"],
   consejo: "El mole mejora de un día para otro. Usa chocolate con al menos 70 % de cacao: solo debe redondear la salsa, no endulzarla.",
+  alternativa: "Sin chipotle en adobo, usa 2 cdta de pimentón ahumado con 1 pizca de cayena y 1 cdta de vinagre de vino; el mole conserva su fondo ahumado y picante.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -908,6 +913,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 42, hc: 74, grasa: 18 },
   etiquetas: ["para niños", "agridulce", "crujiente", "alta en proteína", "poco especiada"],
   consejo: "Mezcla el pollo con la salsa justo antes de servir: si lo dejas reposar dentro, el rebozado se ablanda en minutos.",
+  alternativa: "Cambia el pak choi por 250 g de brócoli en ramilletes pequeños o por acelga tierna si no lo encuentras; el brócoli necesita 3 min de vapor en lugar de 2.",
   contundencia: "media",
   coste: "media"
 });

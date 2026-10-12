@@ -179,6 +179,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 48, hc: 62, grasa: 36 },
   etiquetas: ["braseado", "al horno", "invierno", "batch cooking", "contundente", "para invitados", "verduras escondidas", "poco especiada"],
   consejo: "Está aún mejor hecha de víspera: la salsa gelatiniza y la carne se corta mejor. Recalienta a fuego muy suave con un chorrito de agua.",
+  alternativa: "Sin horno o con prisa: tras el paso 3, cierra la olla exprés y cuece las carrilladas 40 min desde que suba la válvula en lugar de 2 h 30 min a 160 °C; después tritura y reduce la salsa igual.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -317,6 +318,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 860, prot: 50, hc: 52, grasa: 50 },
   etiquetas: ["al horno", "cocción lenta", "contundente", "para comer con las manos", "fin de semana"],
   consejo: "Puedes hacer las 2 primeras horas de horno la víspera y guardar las costillas en su papel; al día siguiente solo tienes que laquearlas 20 min a 220 °C.",
+  alternativa: "Para acortar, cuece la tira de costillas en olla exprés con 200 ml de agua 25 min desde que suba la válvula (en lugar de 2 h envuelta en el horno) y luego lacéalas a 220 °C 15-20 min con la barbacoa.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -496,6 +498,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 55, hc: 55, grasa: 30 },
   etiquetas: ["de cuchara", "guiso", "económica", "invierno", "batch cooking"],
   consejo: "Si la salsa queda clara, aplasta un par de trozos de patata contra la pared de la cazuela: espesa en un minuto sin añadir harina.",
+  alternativa: "Con olla exprés, cocina la carne 20 min a presión en lugar de 60 min a fuego suave; abre, añade las patatas cascadas y termina destapado 20-25 min como en el paso 5.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -543,6 +546,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 34, hc: 22, grasa: 26 },
   etiquetas: ["ligera", "económica", "para niños", "batch cooking"],
   consejo: "Las albóndigas crudas se congelan muy bien separadas en una bandeja; luego van directas a la salsa, 5 min más de cocción.",
+  alternativa: "Si no tienes semillas de hinojo, usa media cucharadita de matalahúva (anís en grano) machacada: aporta el mismo aroma anisado típico de la salchicha italiana.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -632,6 +636,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 48, hc: 75, grasa: 32 },
   etiquetas: ["cocción lenta", "picante", "de cuchara", "batch cooking", "invierno"],
   consejo: "Vigila que no hierva a borbotones: la carrillada se vuelve fibrosa con el hervor fuerte y melosa con el suave. Mejora de un día para otro.",
+  alternativa: "En olla exprés, las carrilladas quedan melosas en 35 min desde que sube la válvula, frente a las 2 h a fuego mínimo; añade la calabaza al abrir y cuécela destapada 15 min.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -726,6 +731,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 38, hc: 65, grasa: 12 },
   etiquetas: ["al horno", "marinado", "agridulce", "para niños", "ideal para llevar"],
   consejo: "El tiempo de marinado cuenta en el total, pero el trabajo real son 20 minutos. Si no tienes cinco especias, usa una pizca de canela, otra de anís estrellado molido y pimienta.",
+  alternativa: "¿No hay pak choi? Saltea 300 g de brócoli en ramilletes o de acelga tierna con un poco de ajo; el brócoli pide 2-3 min más de sartén.",
   contundencia: "media",
   coste: "media"
 });
@@ -815,6 +821,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 940, prot: 58, hc: 60, grasa: 52 },
   etiquetas: ["de cuchara", "guiso", "económica", "invierno", "batch cooking", "contundente"],
   consejo: "Si tienes tiempo, desgrasa el guiso: déjalo enfriar, retira la capa de grasa que cuaja arriba y recalienta. Queda igual de sabroso y mucho más ligero.",
+  alternativa: "Usando olla exprés, las costillas se despegan del hueso en 25 min desde que sube la válvula (en vez de 75 min); luego sigue el paso 5 con la olla abierta.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -1049,6 +1056,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 55, hc: 50, grasa: 32 },
   etiquetas: ["de cuchara", "cocción lenta", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Si te sobra sidra de la botella, bébela con el plato: es el maridaje natural. El estofado mejora recalentado al día siguiente a fuego suave.",
+  alternativa: "Con olla exprés: tras el paso 3, cuece la paleta 20 min a presión en lugar de 75 min; abre, añade las patatas y deja 15 min más tapado a fuego suave antes de la mostaza y la nata.",
   contundencia: "contundente",
   coste: "económica"
 });

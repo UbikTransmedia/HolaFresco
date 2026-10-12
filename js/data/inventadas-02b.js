@@ -178,6 +178,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 360, prot: 36, hc: 14, grasa: 18 },
   etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Igual que con el tartar, congela el bonito al menos 5 días a -20 °C antes de prepararlo poco hecho. Fuera de temporada usa atún.",
+  alternativa: "Si no encuentras wakame, prescinde de ella y añade a la ensalada media hoja de nori tostada en tiras finas justo al servir: aporta el mismo toque a mar.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -353,6 +354,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 40, hc: 48, grasa: 35 },
   etiquetas: ["una sola sartén", "alta en proteína", "invierno", "poco especiada"],
   consejo: "En Brasil se termina con un chorrito de aceite de dendê (palma roja); un poco de pimentón ahumado le da un color y un fondo parecidos.",
+  alternativa: "Si no hay abadejo, usa lomos de merluza o de bacalao fresco (los mismos 250 g) con los mismos tiempos de cocción en la salsa.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -442,6 +444,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 32, hc: 38, grasa: 26 },
   etiquetas: ["al horno", "económica", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "La caballa es de los pescados más baratos y ricos en omega 3; pide en la pescadería que te la limpien en lomos.",
+  alternativa: "¿Sin pak choi en tu súper? Sirve la caballa sobre 200 g de acelgas tiernas o espinacas salteadas 2 min con el ajo y el jengibre.",
   contundencia: "media",
   coste: "económica"
 });
@@ -491,6 +494,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 34, hc: 40, grasa: 26 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Pide las espinas y cabezas gratis o casi gratis en la pescadería. El fumet sobrante se congela en raciones y te salva mil cremas y guisos.",
+  alternativa: "Sin espinas ni cabezas, usa 1 l de caldo de pescado de brick: sáltate el paso 1 y empieza directamente por el sofrito; la sopa queda algo menos intensa, pero muy parecida.",
   contundencia: "media",
   coste: "media"
 });
@@ -892,6 +896,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 36, hc: 76, grasa: 36 },
   etiquetas: ["frito", "para niños", "económica"],
   consejo: "Para una versión más ligera, hornea las gambas empanadas a 220 °C 8-10 minutos con un pulverizado de aceite.",
+  alternativa: "Puedes cambiar el panko por pan rallado grueso (50 g), mejor si es de pan del día anterior secado en el horno; el empanado sale un poco más compacto pero igual de crujiente.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -1109,6 +1114,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 280, prot: 34, hc: 12, grasa: 10 },
   etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si quieres una cena más saciante, añade unos fideos de arroz cocidos aparte en el bol justo antes de servir.",
+  alternativa: "Si no tienes wakame, omítela o pon en cada bol unas tiras de nori al servir; el resto de la sopa no cambia.",
   contundencia: "ligera",
   coste: "media"
 });

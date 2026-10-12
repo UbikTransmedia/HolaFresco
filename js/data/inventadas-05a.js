@@ -301,7 +301,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 545, prot: 22, hc: 42, grasa: 32 },
   etiquetas: ["rápida", "alta en proteína", "económica", "sin verduras"],
-  consejo: "Si te intimida escalfar, cuece los huevos 6 minutos y medio desde el agua hirviendo, enfríalos un minuto y pélalos: el resultado es casi idéntico."
+  consejo: "Si te intimida escalfar, cuece los huevos 6 minutos y medio desde el agua hirviendo, enfríalos un minuto y pélalos: el resultado es casi idéntico.",
+  alternativa: "Si no tienes bulgur, sirve los huevos sobre 100 g de cuscús hidratado 5 min con el caldo hirviendo: la textura es algo más fina, pero recoge el yogur y la mantequilla igual de bien."
 });
 
 window.RECETAS_SEED.push({
@@ -726,7 +727,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 760, prot: 36, hc: 90, grasa: 29 },
   etiquetas: ["al horno", "picante", "económica", "batch cooking", "alta en proteína"],
-  consejo: "El chipotle manda en el picante: empieza con media cucharada y sube. La salsa congela bien y te sirve también para unos huevos rancheros."
+  consejo: "El chipotle manda en el picante: empieza con media cucharada y sube. La salsa congela bien y te sirve también para unos huevos rancheros.",
+  alternativa: "¿Sin chipotle en adobo? Tritura la salsa con 2 cdta de pimentón ahumado y media cucharadita de cayena (o menos, a tu gusto): queda roja, ahumada y con el mismo picor."
 });
 
 window.RECETAS_SEED.push({
@@ -1085,7 +1087,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 650, prot: 30, hc: 50, grasa: 36 },
   etiquetas: ["rápida", "alta en proteína", "verano", "al horno", "poco especiada"],
-  consejo: "Saca la burrata de la nevera 30 minutos antes: fría pierde cremosidad y sabor. El calor de los tomates recién asados termina de atemperarla."
+  consejo: "Saca la burrata de la nevera 30 minutos antes: fría pierde cremosidad y sabor. El calor de los tomates recién asados termina de atemperarla.",
+  alternativa: "Los piñones se pueden cambiar en el pesto por 15 g de almendras crudas o nueces, que son bastante más baratas; el pesto queda apenas más rústico."
 });
 
 window.RECETAS_SEED.push({
@@ -1135,5 +1138,6 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 670, prot: 25, hc: 93, grasa: 22 },
   etiquetas: ["picante", "una sola sartén", "económica"],
-  consejo: "Si tienes una sartén de hierro, calienta en ella el arroz con unas gotas de aceite de sésamo 3 minutos antes de montar: imita la costra crujiente del cuenco de piedra tradicional."
+  consejo: "Si tienes una sartén de hierro, calienta en ella el arroz con unas gotas de aceite de sésamo 3 minutos antes de montar: imita la costra crujiente del cuenco de piedra tradicional.",
+  alternativa: "Si no encuentras gochujang, mezcla 1 cda de sriracha, 1 cdta de pimentón dulce, 1 cdta de miel y 1 cdta de soja: da una salsa roja, dulce y picante muy parecida."
 });

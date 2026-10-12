@@ -860,6 +860,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 820, prot: 48, hc: 98, grasa: 26 },
   etiquetas: ["picante", "a la plancha", "verano", "fin de semana", "sin verduras"],
   consejo: "Las zonas casi quemadas son parte del estilo jerk: no tengas miedo a dejar el pollo quieto en la plancha para que se tueste bien.",
+  alternativa: "Si no encuentras pimienta de Jamaica, sustitúyela por media cucharadita de pimienta negra molida con una pizca de clavo y otra de nuez moscada en la marinada.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -1038,6 +1039,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 715, prot: 50, hc: 70, grasa: 26 },
   etiquetas: ["batch cooking", "para niños", "fin de semana", "económica", "poco especiada"],
   consejo: "El pavo desmenuzado se congela perfectamente en su salsa: haz el doble y tendrás bocadillos, tacos o bowls para otra semana.",
+  alternativa: "Con olla exprés: tras el paso 3, cierra y cuece el pavo 30 min desde que suba la válvula en lugar de 80-90 min a fuego suave; luego reduce la salsa destapada como indica el paso 5.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -1084,6 +1086,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 50, hc: 74, grasa: 28 },
   etiquetas: ["de cuchara", "invierno", "fin de semana", "japonesa", "poco especiada"],
   consejo: "El caldo es mejor si lo haces el día antes: en frío se solidifica la grasa en la superficie y puedes retirar la que quieras.",
+  alternativa: "Con olla exprés, el caldo está en 40 min desde que sube la válvula (en lugar de 2 h); si no tienes fideos de ramen, usa fideos chinos de huevo y, en vez de pak choi, unas hojas de acelga tierna.",
   contundencia: "contundente",
   coste: "media"
 });

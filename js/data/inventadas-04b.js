@@ -174,6 +174,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 50, hc: 62, grasa: 20 },
   etiquetas: ["cocción lenta", "batch cooking", "ideal para llevar", "para niños", "poco especiada"],
   consejo: "Cuece el doble de carne y congela la mitad deshilachada con algo de caldo: sirve para tacos, empanadas o un relleno de pimientos exprés.",
+  alternativa: "Para la carne del paso 1 puedes usar olla exprés: 30 min desde que suba la válvula con el agua justa para cubrirla, en lugar de 90 min en cazuela.",
   contundencia: "media",
   coste: "media"
 });
@@ -224,6 +225,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 800, prot: 50, hc: 75, grasa: 34 },
   etiquetas: ["cocción lenta", "agridulce", "para invitados", "invierno", "contundente", "sin verduras", "poco especiada"],
   consejo: "Si tienes un tajine de barro úsalo a fuego muy suave con difusor; si no, una cazuela con tapa pesada da el mismo resultado. Mejora hecho de víspera.",
+  alternativa: "Si tienes olla exprés, guisa el cordero 25 min a presión en lugar de 1 h 45 min a fuego mínimo; añade después las ciruelas y la miel y deja reducir destapado 10 min.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -366,6 +368,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 38, hc: 42, grasa: 32 },
   etiquetas: ["a la plancha", "especiado", "ideal para llevar", "verano", "brochetas", "poco especiada"],
   consejo: "Si la masa está muy blanda, añade 1 cda de pan rallado. Las koftas crudas se congelan bien y van directas a la plancha.",
+  alternativa: "Si no encuentras bulgur, haz el tabulé con 80 g de cuscús: hidrátalo con 100 ml de agua hirviendo y sal, tapado 5 min, y suéltalo con un tenedor.",
   contundencia: "media",
   coste: "media"
 });
@@ -458,6 +461,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 48, hc: 40, grasa: 22 },
   etiquetas: ["de cuchara", "cocción lenta", "invierno", "batch cooking"],
   consejo: "Si encuentras semillas de alcaravea, sustituye el comino por ellas: es la especia auténtica del goulash. Mucha cebolla y buen pimentón son el secreto.",
+  alternativa: "En olla exprés, el goulash está tierno en 30 min desde que sube la válvula en vez de 1 h 45 min; añade las patatas y la zanahoria al abrir y cuece 20 min más destapado.",
   contundencia: "media",
   coste: "media"
 });
@@ -551,6 +555,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 48, hc: 52, grasa: 26 },
   etiquetas: ["cocción lenta", "picante", "especiado", "batch cooking"],
   consejo: "La paciencia es el único ingrediente difícil: si subes el fuego para acelerar, la leche de coco se agarra. Dobla las cantidades: el rendang se congela perfecto.",
+  alternativa: "Para ahorrar tiempo, cuece primero la ternera con la pasta y la leche de coco 35 min en olla exprés y después reduce destapado, removiendo a menudo, 25-30 min hasta que se separe la grasa.",
   contundencia: "media",
   coste: "media"
 });
@@ -642,6 +647,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 48, hc: 60, grasa: 34 },
   etiquetas: ["cocción lenta", "especiado", "marinado", "batch cooking", "contundente"],
   consejo: "El rogan josh es rojo por el pimentón de Cachemira, suave y de color intenso; nuestro pimentón dulce da el mismo efecto. Mejor de un día para otro.",
+  alternativa: "Si no tienes cardamomo, prescinde de él y añade una pizca más de garam masala; con olla exprés, el cordero se hace en 25 min a presión en lugar de 75 min.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -736,6 +742,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 42, hc: 60, grasa: 22 },
   etiquetas: ["picante", "para niños", "batch cooking", "ideal para llevar"],
   consejo: "Cocer las albóndigas directamente en la salsa sin dorarlas las deja más tiernas y ahorra una sartén. Con media cucharada de chipotle el picante es apto para casi todos.",
+  alternativa: "Si no tienes chipotle en adobo, añade a la salsa 2 cdta de pimentón ahumado y una pizca de cayena: mantiene el toque ahumado con un picante suave.",
   contundencia: "media",
   coste: "media"
 });
@@ -1019,6 +1026,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 48, hc: 42, grasa: 24 },
   etiquetas: ["braseado", "al horno", "cocción lenta", "para invitados", "invierno", "poco especiada"],
   consejo: "El tuétano del hueso es un bocado para el que se atreve: sácalo con una cucharilla y úntalo en el puré. La gremolata fresca es lo que equilibra tanta untuosidad.",
+  alternativa: "En olla exprés, el ossobuco queda tierno en 40 min desde que sube la válvula (frente a 2 h de horno); deja reducir la salsa destapada 5-10 min si queda líquida.",
   contundencia: "media",
   coste: "media"
 });
