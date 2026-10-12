@@ -22,7 +22,10 @@
     if (memo.has(k0)) return memo.get(k0);
     const intentos = [k0, Catalogo.normalizar(nombre.replace(/\([^)]*\)/g, " ")), k0.split(" ").map(singular).join(" ")];
     const palabras = Catalogo.normalizar(nombre.replace(/\([^)]*\)/g, " ")).split(" ").filter(Boolean);
+    // Trozos cada vez más cortos del nombre, primero por el principio («pechuga de pollo fileteada» → «pechuga de pollo»)
+    // y luego en cualquier posición («contramuslos de pollo deshuesados» → «pollo»)
     for (let n = palabras.length - 1; n >= 1; n--) intentos.push(palabras.slice(0, n).join(" "), palabras.slice(0, n).map(singular).join(" "));
+    for (let n = palabras.length - 1; n >= 1; n--) for (let i = 1; i + n <= palabras.length; i++) { const t = palabras.slice(i, i + n); if (!["de", "con", "en", "y", "al", "a"].includes(t[0])) intentos.push(t.join(" "), t.map(singular).join(" ")); }
     let res = null;
     for (const k of intentos) if (TABLA[k]) { res = TABLA[k]; break; }
     memo.set(k0, res);
