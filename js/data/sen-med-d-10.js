@@ -182,6 +182,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 41, hc: 49, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "sin lactosa", "poco especiada"],
   consejo: "El cacık turco lleva ajo machacado y yogur normal; con yogur sin lactosa y sin ajo conserva su frescor y no fermenta en el intestino. El zumaque, una baya ácida molida muy usada en el Levante, da sabor a limón sin acidez agresiva. La costra se puede dejar preparada en la nevera unas horas antes.",
+  alternativa: "Si no encuentras zumaque, añade a la costra unas gotas de zumo de limón y una pizca de pimentón dulce: recupera su punto ácido y su color rojizo.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -270,6 +271,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 38, hc: 72, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "sin lactosa", "poco especiada", "batch cooking"],
   consejo: "El kibbeh clásico lleva bulgur (trigo) y cebolla y a menudo se fríe; esta versión de patata, típica de las casas libanesas, se liga con harina de arroz, cambia la cebolla por la parte verde de la cebolleta y se dora en el horno con muy poco aceite. Canela y pimienta de Jamaica aromatizan sin picar. Se recalienta muy bien al día siguiente.",
+  alternativa: "¿Sin pimienta de Jamaica? Usa ¼ cdta de pimienta negra molida con una pizca de clavo y otra de nuez moscada: con la canela del relleno, el aroma cálido es casi el mismo.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -315,6 +317,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 39, hc: 66, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "de cuchara", "invierno"],
   consejo: "El mansaf se hace con jameed, yogur de cabra seco y salado, y se sirve sobre pan fino; el yogur sin lactosa estabilizado con maicena da una salsa parecida y apta para el intestino irritable. Usa pierna y quita bien la grasa: el cordero graso es lo que hace pesado este plato. El trabajo activo es corto: el guiso se hace solo mientras preparas lo demás.",
+  alternativa: "Con olla exprés: tras espumar y añadir los aromáticos, cuece el cordero 20 min a presión en lugar de 70 y haz el arroz con su caldo al abrir. Si no tienes pimienta de Jamaica, pon 4 granos de pimienta negra y 1 clavo.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -361,6 +364,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 495, prot: 42, hc: 41, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "rápida", "sin gluten", "sin lactosa", "poco especiada"],
   consejo: "El tantuni se envuelve en lavaş de trigo, lleva guindilla y se acompaña de cebolla al zumaque; aquí las tortillas de maíz lo hacen sin gluten, la cebolla se cambia por la parte verde de la cebolleta y el picante por pimentón dulce. Cocer la carne primero en su vapor la deja tierna con muy poca grasa, y el ayran (yogur sin lactosa batido con agua) es la bebida con la que se toma en Turquía: refresca y sienta bien.",
+  alternativa: "Si no tienes zumaque, aliña el perejil y la cebolleta con la ralladura del limón, unas gotas de su zumo y una pizca de pimentón dulce: queda igual de fresco, ácido y rojizo.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -622,6 +626,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 18, hc: 47, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "sin lactosa", "poco especiada"],
   consejo: "La patates salatası turca se hace con cebolla tierna y guindilla en escamas; aquí se queda con el verde de la cebolleta y el zumaque, que dan el mismo frescor sin picante ni fructanos. Los tomates cherry se limitan a 75 g por persona, la ración apta en baja en FODMAP. La patata cocida y templada se digiere mejor que fría de nevera.",
+  alternativa: "Sin zumaque, aliña las patatas con 1 cdta de ralladura de limón y ½ cdta de pimentón dulce, y termina con otra pizca de pimentón: el aliño conserva su color y su punto ácido.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -665,6 +670,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 16, hc: 77, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada", "para niños"],
   consejo: "En Ortaköy el kumpir lleva kaşar (un queso curado parecido a un manchego suave) y docenas de toppings, entre ellos encurtidos y ensaladilla; esta versión se queda con los aptos en baja en FODMAP. El maíz dulce se limita a 30 g por persona. El trabajo activo son diez minutos: el horno hace el resto.",
+  alternativa: "Para acortar el horno, pincha las patatas y dales 10-12 min de microondas a máxima potencia, girándolas a mitad; luego úntalas con aceite y sal y hornéalas 20-25 min a 220 °C: la piel queda igual de crujiente.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -756,6 +762,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 12, hc: 62, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "sin lactosa", "poco especiada"],
   consejo: "El fatteh de Damasco y Beirut se hace con pan del día anterior frito, garbanzos y yogur al ajo; aquí el pan se tuesta sin aceite y los garbanzos se cambian por verdura asada apta. La calabaza japonesa (kabocha) puede ir en ración generosa, a diferencia de la violín; el calabacín se queda en 60 g por persona.",
+  alternativa: "Si no encuentras pita sin gluten, tuesta en dados 4 rebanadas de pan de molde sin gluten, también 8 min. Sin calabaza japonesa, usa 90 g de calabaza cacahuete y 310 g más de zanahoria: la cacahuete solo es baja en FODMAP en poca cantidad.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -845,6 +852,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 490, prot: 35, hc: 53, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "superalimentos"],
   consejo: "La granada es baja en FODMAP solo en pequeña cantidad (unos 38 g por persona); úsala como toque, no como base. La quinoa es un buen sustituto del bulgur de las ensaladas levantinas cuando hay que evitar el trigo; lávala siempre para quitarle el amargor de las saponinas.",
+  alternativa: "Si no encuentras calabaza japonesa, asa en dados 90 g de calabaza cacahuete y 310 g de zanahoria, los mismos 25 min: la ensalada mantiene el dulzor y el color sin pasarte de la ración tolerada de cacahuete (unos 45 g por persona).",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -937,6 +945,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 645, prot: 41, hc: 84, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "otoño"],
   consejo: "Las castañas cocidas son bajas en FODMAP en raciones normales (Monash las da por buenas hasta unas 20 castañas), y aquí van unos 60 g por persona; las envasadas al vacío ya vienen peladas y ahorran todo el trabajo. El pilav original lleva cebolla y a veces pasas: se sustituyen por la parte verde de la cebolleta y se omiten las pasas, que son altas en fructosa. Lavar y remojar el basmati lo deja suelto y ligero.",
+  alternativa: "Si no tienes pimienta de Jamaica, rehoga con las castañas ¼ cdta de pimienta negra y una pizca de clavo molido: junto con la canela, el pilav huele casi igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1071,6 +1080,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 475, prot: 37, hc: 43, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "de cuchara", "otoño"],
   consejo: "La calabaza japonesa (kabocha) es baja en FODMAP incluso en ración generosa, al contrario que la violín, que tiene límite: no las cambies. Cocida en la sopa se deshace y espesa sin harina ni nata. El comino y la cúrcuma perfuman sin picar, y el yogur sin lactosa se añade en el plato, frío, para que no se corte.",
+  alternativa: "Sin calabaza japonesa, usa 90 g de calabaza cacahuete (en más cantidad no es apta), 150 g de patata y 160 g de zanahoria en dados: la patata es la que espesa la sopa al aplastarla, como hace aquí la calabaza.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

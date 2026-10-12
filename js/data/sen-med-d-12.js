@@ -364,6 +364,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 31, hc: 59, grasa: 18 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "sin gluten", "ideal para llevar", "batch cooking", "invierno"],
   consejo: "El tajine de cordero con zanahorias es de los más comunes en las casas marroquíes; allí se moja con pan, aquí va sobre mijo, que es sin gluten y bajo en FODMAP. Como todo guiso, gana en la nevera: guarda carne y salsa juntas y el mijo aparte, 3 días como máximo. Recalienta tapado con una cucharada de agua, a fuego suave o a potencia media; el mijo, con unas gotas de agua para que vuelva a soltarse. Las especias son aromáticas, no picantes. Trabajo activo: unos 20 minutos.",
+  alternativa: "Si no encuentras mijo, sírvelo con 120 g de quinoa lavada, cocida 12 min en 240 ml de agua y 5 de reposo. Con olla exprés, cuece el cordero 20 min a presión con solo 300 ml de agua y añade luego las zanahorias 20 min tapado, sin presión.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -887,6 +888,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 39, hc: 65, grasa: 25 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "bajo en colesterol", "sin gluten", "superalimentos", "ideal para llevar"],
   consejo: "El trigo sarraceno no es trigo: es una semilla sin gluten y baja en FODMAP que, como la quinoa, aguanta aliñada sin ablandarse. Para el tupper, guarda las nueces aparte para que sigan crujientes y añade las espinacas el día que la comas; así aguanta 3 días en la nevera. Se come fría o a temperatura ambiente. Las uvas son de las frutas mejor toleradas con intestino irritable; las nueces, hasta 30 g por persona.",
+  alternativa: "¿No encuentras trigo sarraceno? Cuece 120 g de quinoa bien lavada en abundante agua con sal 12-14 min y escúrrela igual: aguanta aliñada en el táper sin ablandarse y la ensalada sigue sin gluten.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -931,6 +933,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 26, hc: 80, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "al horno", "ideal para llevar", "batch cooking", "otoño", "para niños"],
   consejo: "La calabaza japonesa es baja en FODMAP en ración generosa (la violín, solo hasta unos 45 g por persona) y, asada, da a la pasta un punto dulce y cremoso sin nata. Para el tupper, reparte las raciones en recipientes individuales: aguantan 3 días en la nevera. Recalienta tapado, con una cucharada de leche sin lactosa o agua, a potencia media, para que la pasta no se seque. Los piñones se toleran bien hasta una cucharada por persona.",
+  alternativa: "Si no hay calabaza japonesa, asa 90 g de calabaza cacahuete y 310 g de zanahoria en dados de 1,5 cm, unos 25 min, y chafa algunos al mezclar como en la receta. No subas la cacahuete: pasados unos 45 g por persona ya no es apta.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

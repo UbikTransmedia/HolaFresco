@@ -704,6 +704,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 16, hc: 43, grasa: 38 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "al horno", "otoño", "invierno"],
   consejo: "Usa calabaza japonesa (kabocha o potimarrón): es baja en FODMAP en raciones generosas, mientras que la violín o cacahuete no debe pasar de unos 45 g por persona. Las nueces se toleran bien hasta 30 g por persona. Las migas de anchoa son un truco del sur de Italia, la «mollica» de los pobres: sirven para cualquier verdura asada o para una pasta sin gluten.",
+  alternativa: "Si no encuentras calabaza japonesa ni potimarrón, asa 90 g de calabaza cacahuete (no más, que deja de ser baja en FODMAP) con 610 g de zanahoria en bastones gruesos, 25-30 min igual: con las migas de anchoa funciona muy bien, aunque queda más firme.",
   tupper: false,
   contundencia: "media",
   coste: "económica"

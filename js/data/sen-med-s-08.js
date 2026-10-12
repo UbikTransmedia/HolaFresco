@@ -43,6 +43,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 23, hc: 72, grasa: 25 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "La mesciua («mezcla» en dialecto spezzino) nació en el puerto de La Spezia con lo que se barría de los sacos de grano y legumbre de los barcos. Es pobre a propósito: su gracia está en un buen aceite crudo y mucha pimienta, no le pongas queso. Aguanta 3 días en la nevera y espesa al enfriarse: recaliéntala con un poco de agua. Si solo encuentras espelta en grano, déjala en remojo la noche antes y cuécela 10 minutos más.",
+  alternativa: "Si no encuentras espelta perlada, usa los mismos 80 g de trigo tierno (tipo Ebly, junto al arroz): como solo necesita 10-12 min, échalo con el caldo y las legumbres a la vez y cuece todo junto.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -128,6 +129,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 645, prot: 32, hc: 64, grasa: 29 },
   etiquetas: ["creativa", "rápida", "económica", "otoño", "invierno"],
   consejo: "En Roma el brócoli y los broccoletti (parientes de nuestros grelos) se «ripassano»: se escaldan un momento y se rehogan en aceite con ajo y guindilla hasta que se rompen un poco. Con garbanzos y anchoa se convierte en plato único. Si encuentras grelos, úsalos igual (escáldalos 2 minutos); si no te gusta la anchoa, cámbiala por 1 cucharada de alcaparras picadas. Aguanta 2 días en la nevera sin el pan.",
+  alternativa: "Si no tienes pecorino, termina con 30 g de parmesano o de manchego curado: con las anchoas ya salando, la diferencia apenas se nota.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -386,6 +388,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 30, hc: 23, grasa: 52 },
   etiquetas: ["tradicional", "al horno", "sin gluten", "económica", "para compartir"],
   consejo: "La rosticciana es la costilla a la brasa de las fiestas de pueblo toscanas; en casa el horno fuerte da un resultado muy parecido. Hay 70 minutos en total pero solo 15 de trabajo. Si te gusta muy tierna, cubre la bandeja con papel de aluminio los primeros 25 minutos. También se puede terminar en la barbacoa, 5 minutos por lado.",
+  alternativa: "Sin salvia fresca, mete en el majado ½ cdta de salvia seca; y si no hay semillas de hinojo, cámbialas por la misma cantidad de matalahúva (anís en grano): las costillas conservan su aroma toscano.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -518,6 +521,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 645, prot: 45, hc: 26, grasa: 40 },
   etiquetas: ["creativa", "rápida", "alta en proteína", "para niños", "poco especiada"],
   consejo: "Es la cotoletta de toda la vida con un guiño romano: la salvia y el queso en la costra, como en la saltimbocca. Aplanar los filetes es lo que hace que se hagan en 5 minutos sin secarse. Funciona igual con pechuga de pollo o de pavo. Si quieres adelantar, empánalos y guárdalos en la nevera hasta 6 horas.",
+  alternativa: "Si no encuentras salvia fresca, mezcla 1 cdta de salvia seca con el parmesano y el pan rallado: el perfume de saltimbocca se mantiene y la costra se dora igual.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -770,6 +774,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 525, prot: 25, hc: 24, grasa: 36 },
   etiquetas: ["creativa", "rápida", "cena", "invierno"],
   consejo: "En Roma, en invierno, las puntarelle (brotes de achicoria) se aliñan con ajo, anchoa y vinagre. Aquí ese aliño va con escarola, que se encuentra en cualquier mercado y tiene el mismo punto amargo. El baño de agua con hielo es el truco que la deja crujiente. Aliña siempre en el último momento: la escarola aliñada se ablanda en 10 minutos.",
+  alternativa: "Las lascas de pecorino se pueden sacar de un manchego curado, que también es de oveja y pone el mismo punto salado frente al amargor de la escarola.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -940,6 +945,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 22, hc: 80, grasa: 29 },
   etiquetas: ["creativa", "invierno", "primavera", "poco especiada"],
   consejo: "La alcachofa romana (cimarolo) se come de enero a abril con menta y ajo; aquí esos sabores van con la pasta y el pecorino, como en una cacio e pepe con verdura. Ponte guantes o frótate las manos con limón al limpiarlas para que no se ennegrezcan. Fuera de temporada sirven corazones de alcachofa congelados: saltéalos sin descongelar.",
+  alternativa: "Si no encuentras pecorino, usa 40 g de parmesano o grana padano rallados finos: ligan la salsa igual de cremosa con el agua de la pasta, aunque el sabor es más dulce; corrige de sal al final.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"

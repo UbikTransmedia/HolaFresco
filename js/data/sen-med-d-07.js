@@ -177,6 +177,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 29, hc: 41, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "alta en proteína"],
   consejo: "La chirivía es una raíz baja en FODMAP que se puede tomar sin miedo y da al puré un dulzor muy agradable; las judías verdes van en 75 g por persona, su ración tolerada. El rape es muy magro y de carne firme, ideal si los pescados grasos te sientan pesados. Templar el tomate sin cocinarlo del todo lo hace más suave que crudo.",
+  alternativa: "Si el rape se te va de precio, usa rosada en medallones gruesos (los mismos 320 g): es igual de firme y magra y aguanta bien la plancha; dale 3 minutos por cada lado.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -350,6 +351,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 42, hc: 40, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "sin lactosa", "poco especiada", "alta en proteína", "batch cooking"],
   consejo: "Usa calabaza japonesa (kabocha), no la violín: la japonesa es baja en FODMAP incluso en ración generosa, mientras que la violín solo se tolera en poca cantidad. El contramuslo sin piel queda jugoso en el guiso y tiene la mitad de grasa que con ella. Aguanta 3 días en la nevera; recalienta a fuego suave con un poco de caldo.",
+  alternativa: "Si no encuentras calabaza japonesa, pon 90 g de calabaza cacahuete y 210 g de zanahoria en rodajas gruesas: la cacahuete solo es baja en FODMAP en poca cantidad. Se cuecen en los mismos 25 min, aunque la salsa espesa algo menos.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -562,6 +564,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 418, prot: 20, hc: 35, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "económica", "ideal para llevar"],
   consejo: "Usa calabaza japonesa (kabocha): es baja en FODMAP en ración generosa, a diferencia de la violín, que se limita a unos 45 g. Asar la verdura en vez de freírla, como en la tortilla clásica, reduce mucho la grasa. El manchego curado apenas tiene lactosa. Aguanta bien en tupper para el día siguiente; lleva la ensalada aparte.",
+  alternativa: "Sin calabaza japonesa, asa 90 g de calabaza cacahuete (no más: en mayor cantidad deja de ser baja en FODMAP) y 160 g de zanahoria en dados de 1 cm, algo más pequeños porque tarda más; la tortilla sale igual de dulce y anaranjada.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -647,6 +650,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 16, hc: 65, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "vegetariana", "sin gluten", "poco especiada", "al horno", "para niños"],
   consejo: "La calabaza japonesa es baja en FODMAP incluso en ración generosa, y la harina de arroz liga sin gluten ni fructanos. Escurrir bien la verdura es la clave para que queden crujientes en el horno en lugar de blandas. El manchego curado y el yogur sin lactosa apenas aportan lactosa; si eres muy sensible, sustituye el yogur por un aliño de aceite, limón y cebollino.",
+  alternativa: "Si en tu súper no hay calabaza japonesa, ralla 90 g de calabaza cacahuete y 310 g de zanahoria y escúrrelas igual: las tortitas salen del mismo color y algo más dulces. No subas la cacahuete, que pasados unos 45 g por persona ya no es apta.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -777,6 +781,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 498, prot: 25, hc: 59, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol"],
   consejo: "La salmorreta lleva ajo crudo majado; con aceite de ajo conserva su aroma sin los fructanos. La ñora es un pimiento seco dulce, nada picante, y en esta cantidad es bien tolerada. El tofu firme es bajo en FODMAP porque al prensarlo pierde el suero donde están los galactanos de la soja; el tofu sedoso, en cambio, no lo es.",
+  alternativa: "Si no encuentras ñoras, sáltate el remojo y añade a la salsa 1 cda de carne de pimiento choricero de bote (mira que no lleve ajo) o 1 cdta más de pimentón dulce: queda del mismo rojo y con el mismo dulzor tostado.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -863,6 +868,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 35, hc: 50, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "alta en proteína", "verano"],
   consejo: "El mijo es un cereal sin gluten y bajo en FODMAP, más suave que la quinoa y sin su amargor; tostarlo antes de cocerlo lo deja suelto. Las judías verdes van en 75 g por persona, su ración tolerada. El bonito poco hecho es más jugoso y fácil de masticar; si lo prefieres hecho, dale 30 segundos más por lado, no más.",
+  alternativa: "Si no encuentras mijo, usa 120 g de quinoa lavada a conciencia (así pierde el amargor) con 250 ml de agua: 12 min a fuego mínimo y 5 de reposo. Queda igual de suelta, sin gluten y apta en la dieta.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -905,6 +911,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 551, prot: 37, hc: 76, grasa: 11 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "de cuchara", "invierno"],
   consejo: "El arroz blanco caldoso es de los platos más fáciles de digerir: el almidón cocido en mucho líquido es muy suave para el intestino. Las judías verdes van en su ración (75 g por persona) y la calabaza japonesa puede ir en cantidad sin problema. Si usas caldo comprado, mira que no lleve cebolla, ajo ni puerro en la etiqueta.",
+  alternativa: "Si no encuentras calabaza japonesa, rehoga con las judías 90 g de calabaza cacahuete y 160 g de zanahoria en dados de 1,5 cm; se hacen en el tiempo del arroz. Más cacahuete no conviene: solo es baja en FODMAP en poca cantidad.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -990,6 +997,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 32, hc: 83, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol"],
   consejo: "La sepia guisada despacio queda tierna y se mastica sin esfuerzo, lo que facilita mucho su digestión; no la cuezas menos de 20 minutos. Los fideos sin gluten de arroz o maíz son aptos en la dieta baja en FODMAP, pero se pasan antes que los de trigo: pruébalos un par de minutos antes de lo que diga el paquete.",
+  alternativa: "Si no encuentras fideos gruesos sin gluten, parte en trozos de 3-4 cm los mismos 140 g de espaguetis sin gluten de maíz y arroz; échalos igual y pruébalos un par de minutos antes de lo que marque el paquete.",
   tupper: false,
   contundencia: "media",
   coste: "media"

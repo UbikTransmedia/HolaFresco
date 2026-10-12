@@ -133,6 +133,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 537, prot: 42, hc: 45, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "superalimentos", "al horno", "alta en proteína"],
   consejo: "La trucha asada entera queda más jugosa que en filetes y su grasa es casi toda omega-3, muy bien tolerada. Quitar la piel antes de servir aligera aún más el plato. Las espinacas solo salteadas hasta que se reducen conservan su textura y se digieren mejor que crudas.",
+  alternativa: "Si no tienes salvia fresca, espolvorea ½ cdta de salvia seca dentro de las truchas, junto al romero y el limón: el aroma cambia muy poco.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -261,6 +262,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 566, prot: 50, hc: 42, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "poco especiada", "al horno", "alta en proteína", "invierno"],
   consejo: "En las Marcas el conejo se rellena de hinojo silvestre, ajo y panceta; las semillas de hinojo machacadas dan el mismo aroma de porchetta y ayudan a digerir, y el aceite de ajo sustituye a los dientes sin aportar fructanos. El conejo es una de las carnes más magras. El trabajo activo son 15 minutos: el horno hace el resto.",
+  alternativa: "Si no encuentras semillas de hinojo, machaca la misma cucharadita de matalahúva (anís en grano), que hay en cualquier súper: el adobo conserva el aroma anisado de la porchetta, solo un punto más dulce.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -303,6 +305,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 487, prot: 45, hc: 43, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "alta en proteína", "para niños"],
   consejo: "Las hamburguesas compradas suelen llevar cebolla, ajo en polvo o pan con trigo; hechas en casa con pechuga picada quedan magras y seguras. La salvia y la ralladura de limón dan todo el aroma sin irritar. Las judías verdes van en ración baja en FODMAP (75 g por persona) y, bien cocidas, se toleran mejor que al dente.",
+  alternativa: "Sin salvia fresca, mezcla con la carne 1 cdta de salvia seca desmenuzada entre los dedos: picada dentro de la hamburguesa, la diferencia apenas se nota.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -389,6 +392,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 507, prot: 40, hc: 42, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "poco especiada", "de cuchara", "batch cooking", "invierno"],
   consejo: "Un guiso largo con poco trabajo: 20 minutos activos y el resto la cazuela sola. Los guisos «in bianco» son la cocina de convalecencia de Italia: sin tomate, ni vino, ni sofrito pesado, con la carne muy tierna de tanto cocer. Quitar la grasa visible antes de guisar marca la diferencia en la digestión. Mejora al día siguiente.",
+  alternativa: "Con olla exprés: tras añadir el caldo y los aromáticos, cierra y cuece el cerdo 15 min a presión en lugar de 45; luego abre, añade patatas y zanahorias y termina 20 min con la tapa entreabierta, como en la receta.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -478,6 +482,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 421, prot: 41, hc: 26, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "al horno", "alta en proteína", "otoño"],
   consejo: "El vinagre balsámico es bajo en FODMAP en raciones de una cucharada por persona, así que la salsa es apta; no lo sustituyas por una crema de balsámico, que suele llevar azúcares añadidos y espesantes. La calabaza japonesa se tolera mejor que la violín y se puede tomar en ración generosa.",
+  alternativa: "Si no hay calabaza japonesa, asa 90 g de calabaza cacahuete en gajos y 310 g de zanahoria en bastones (la cacahuete no es apta en más cantidad), el mismo tiempo. Sin salvia fresca, añade ½ cdta de salvia seca con el balsámico.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -735,6 +740,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 466, prot: 15, hc: 52, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "al horno", "superalimentos", "otoño"],
   consejo: "Las espinacas y el agua aligeran el pesto, que así necesita mucho menos aceite que el clásico y no lleva ajo crudo, una causa frecuente de molestias. La calabaza japonesa admite ración generosa en dieta baja en FODMAP; no la cambies por calabaza violín, que solo se tolera en poca cantidad.",
+  alternativa: "Si no encuentras calabaza japonesa, combina 90 g de calabaza cacahuete (más ya no sería baja en FODMAP) con 510 g de zanahoria en bastones gruesos y ásalas con la patata los mismos 30 min; resultan un poco más firmes y dulces.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -994,6 +1000,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 578, prot: 30, hc: 74, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "rápida"],
   consejo: "La calabaza triturada hace de nata: una salsa cremosa sin lácteos ni grasa añadida. Usa calabaza japonesa (kabocha), que es baja en FODMAP en ración generosa; la violín solo se tolera hasta unos 45 g por persona. Si las gambas no te sientan bien, cámbialas por dados de pollo.",
+  alternativa: "Si no encuentras calabaza japonesa, cuece 90 g de calabaza cacahuete y 210 g de zanahoria 12 min, hasta que estén muy tiernas, y tritúralas igual: la crema sale igual de naranja, algo menos densa. No pongas más cacahuete, que deja de ser apta.",
   tupper: false,
   contundencia: "media",
   coste: "media"

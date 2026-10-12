@@ -92,6 +92,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 43, hc: 50, grasa: 23 },
   etiquetas: ["creativa", "de cuchara", "alta en proteína", "poco especiada", "invierno"],
   consejo: "El calamar guisado pasa por dos fases: a los pocos minutos está tierno, luego se endurece y, tras 15–20 minutos de cocción suave, vuelve a ablandarse. Por eso entra pronto y termina con las lentejas. La picada de frutos secos es el gesto catalán que liga el caldo sin harina. Aguanta 2 días en la nevera y está aún mejor al día siguiente.",
+  alternativa: "Con lentejas de bote (400 g de pardinas cocidas, enjuagadas) te saltas el paso 1: tras el sofrito, añádelas con 350 ml de agua caliente y el laurel y sigue igual, 12 min más la picada, que aclararás con agua.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -262,6 +263,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 34, hc: 21, grasa: 40 },
   etiquetas: ["creativa", "sin gluten", "poco especiada", "primavera"],
   consejo: "La salvitxada es la salsa de Valls para los calçots: hermana del romesco, más líquida y con más fruto seco. Sobra un poco: aguanta 4 días en la nevera y sirve para carnes a la brasa o verduras asadas. En invierno y primavera, cambia las cebolletas por calçots asados de la misma manera.",
+  alternativa: "Si en tu zona no hay ñoras, usa 1 cda colmada de carne de pimiento choricero de bote al triturar: la salvitxada sale del mismo color y casi igual de dulce y tostada.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -652,6 +654,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 765, prot: 18, hc: 88, grasa: 38 },
   etiquetas: ["tradicional", "vegetariana", "económica", "al horno", "ideal para llevar", "verano"],
   consejo: "En Mallorca la masa se hace a menudo con un poco de manteca de cerdo (saïm); con solo aceite queda más fina y crujiente. La coca de trempó aguanta muy bien de un día para otro y fría es la merienda de las fiestas de verano. Si los pimientos son grandes, usa uno solo: la proporción debe ser parecida de pimiento, tomate y cebolla.",
+  alternativa: "Con prisa, usa una lámina de masa de pizza fina refrigerada (unos 260 g) en lugar de la casera: extiéndela con su papel, pínchala, cubre con el trempó bien escurrido y hornea 20-25 min a 200 °C; queda algo menos crujiente.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -821,6 +824,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 17, hc: 44, grasa: 32 },
   etiquetas: ["creativa", "rápida", "superalimentos", "poco especiada"],
   consejo: "Las espinacas a la catalana se hacen salteadas con pasas y piñones; aquí se llevan esos sabores a una ensalada. Remojar las pasas en el vinagre las hincha y perfuma el aliño. El mató es el requesón fresco de Montserrat, que se toma con miel; si no lo encuentras, cualquier requesón o un queso fresco de cabra sirven.",
+  alternativa: "Si los piñones se te van de precio, tuesta 20 g de almendra laminada 2 min en la sartén en seco: con las pasas y la manzana da el mismo crujiente por bastante menos dinero.",
   tupper: false,
   contundencia: "media",
   coste: "media"

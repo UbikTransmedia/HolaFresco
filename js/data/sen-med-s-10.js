@@ -400,6 +400,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 40, hc: 43, grasa: 31 },
   etiquetas: ["creativa", "rápida", "alta en proteína", "ideal para llevar"],
   consejo: "En las costas de Turquía y Grecia el cordero va casi siempre con comino, limón y verdura de hoja; cortado en tiras, el salteado está listo en 3 minutos. Quita la grasa dura antes de cortarlo y saltéalo en tandas pequeñas para que se dore sin soltar jugo. El bulgur grueso se cuece como el arroz; si solo encuentras fino, basta con verter encima el agua hirviendo y tapar 10 minutos.",
+  alternativa: "Si no encuentras bulgur, usa 100 g de cuscús: viértele 150 ml de agua hirviendo con sal, tapa 5 min y suéltalo con un tenedor junto con la ralladura y el perejil. Queda algo más fino, pero acompaña igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"

@@ -234,6 +234,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 810, prot: 53, hc: 61, grasa: 39 },
   etiquetas: ["tradicional", "al horno", "alta en proteína", "batch cooking", "ideal para llevar"],
   consejo: "Pide al pescadero que te corte el pez espada en lonchas finas, como para carpaccio: así se enrolla sin romperse. Los involtini aguantan 2 días en la nevera con las patatas en el mismo táper (el pescado no más): en Sicilia se comen también fríos con un chorrito de limón; si los prefieres calientes, 8 minutos en el horno a 170 °C tapados con papel de aluminio o 1 minuto de microondas a potencia media para que no se resequen.",
+  alternativa: "Si no encuentras pecorino, mezcla en el relleno 30 g de manchego curado o de parmesano: la costra de pan se dora igual y los rollitos quedan casi idénticos.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -503,6 +504,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 56, hc: 66, grasa: 30 },
   etiquetas: ["tradicional", "de cuchara", "batch cooking", "alta en proteína", "invierno"],
   consejo: "El trabajo activo son 25 minutos; el resto lo hace el fuego mínimo. La carne en lonchas con su salsa aguanta 4 días en la nevera y se congela muy bien: recaliéntala tapada a fuego suave con un chorrito de agua. La pasta, mejor guardarla aparte con un poco de salsa y saltearla en una sartén con 2 cucharadas de agua 3 minutos, o 2 minutos en el microondas tapada. Si te sobra salsa, sirve para otra ración de pasta.",
+  alternativa: "Con olla exprés: tras añadir tomate, agua, laurel y la carne, cierra y cuece 45 min a presión en lugar de 2 h; si la salsa queda clara, redúcela destapada mientras se hace la pasta. El pecorino se puede cambiar por parmesano.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -679,6 +681,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 23, hc: 66, grasa: 35 },
   etiquetas: ["tradicional", "vegetariana", "batch cooking", "primavera"],
   consejo: "En Sicilia se comen calientes, tibias o frías al día siguiente: aguantan 3 días en la nevera con su jugo y las patatas en el mismo táper. Recaliéntalas tapadas a fuego suave con 3 cucharadas de agua, o 2 minutos en el microondas a potencia media. Limpiar las alcachofas es lo más laborioso: frótate las manos con limón para que no se ennegrezcan.",
+  alternativa: "Si en tu súper no hay pecorino, usa 40 g de manchego viejo rallado en el relleno: es de oveja como él y deja la misma arena sabrosa entre las hojas.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -814,6 +817,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 18, hc: 66, grasa: 39 },
   etiquetas: ["creativa", "ideal para llevar", "batch cooking", "verano", "poco especiada"],
   consejo: "La cebada perlada es el mejor cereal para ensaladas de táper: a diferencia del arroz o el cuscús, no se apelmaza ni se endurece en la nevera. Aguanta 3 días; guarda la feta, los piñones y las hierbas aparte y mézclalos al servir, y sácala 15 minutos antes para comerla a temperatura ambiente. Si la prefieres templada, 1 minuto de microondas sin la feta.",
+  alternativa: "Si no encuentras cebada perlada, usa 140 g de trigo tierno (tipo Ebly): solo pide 10-12 min de cocción y tampoco se apelmaza en el táper. Los piñones se pueden cambiar por 20 g de almendra laminada tostada.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -950,6 +954,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 45, hc: 72, grasa: 34 },
   etiquetas: ["creativa", "batch cooking", "alta en proteína", "ideal para llevar", "verano"],
   consejo: "Guárdala mezclada con la salsa en un táper bien cerrado, con el pecorino y la menta aparte: aguanta 2 días en la nevera (por el atún, no más). Recaliéntala en una sartén con 2-3 cucharadas de agua 3 minutos a fuego medio, o 2 minutos en el microondas tapada; también está buena a temperatura ambiente, como una pasta fría siciliana. Marca el atún solo un minuto: se termina con el calor de la salsa y al recalentar.",
+  alternativa: "Sin pecorino, ralla al servir 30 g de un queso curado de oveja o de grana padano; con la menta y el limón, la pasta mantiene su carácter siciliano.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -996,6 +1001,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 43, hc: 73, grasa: 17 },
   etiquetas: ["creativa", "batch cooking", "de cuchara", "poco especiada"],
   consejo: "A diferencia de un arroz, el cuscús perlado no se pasa al recalentarlo, solo sigue absorbiendo caldo: por eso es ideal para el táper. Aguanta 3 días en la nevera; al recalentar (en un cazo a fuego suave o 3 minutos en el microondas tapado) añade un buen chorro de agua o caldo y remueve hasta que vuelva a estar meloso, y exprime el limón al final. También se llama ptitim o fregola israelí.",
+  alternativa: "Si no encuentras cuscús perlado, usa los mismos 150 g de pasta piñón gruesa y cuécela el tiempo del paquete, añadiendo un chorro más de caldo si se seca: el guiso queda igual de meloso.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1038,6 +1044,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 16, hc: 56, grasa: 25 },
   etiquetas: ["creativa", "vegetariana", "de cuchara", "batch cooking", "económica", "verano"],
   consejo: "Aguanta 3 días en la nevera, pero el orzo sigue absorbiendo caldo: al recalentarla añade un vaso de agua o caldo y caliéntala a fuego suave removiendo, o 3 minutos en el microondas. Guarda la feta y la menta aparte y ponlas al servir. Si la quieres congelar, hazlo antes de añadir la pasta y cuécela el día que la comas.",
+  alternativa: "¿No hay orzo en tu súper? Echa 80 g de pasta piñón, que tiene casi la misma forma de grano de arroz, y cuécela el tiempo que marque el paquete.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

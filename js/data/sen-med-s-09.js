@@ -353,6 +353,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 39, hc: 42, grasa: 42 },
   etiquetas: ["tradicional", "invierno", "batch cooking", "poco especiada"],
   consejo: "En Cerdeña se hace con el hinojo silvestre que crece en primavera; el bulbo cultivado, con sus hojas y unas semillas, da un resultado muy parecido. El trabajo activo son unos 20 minutos: el resto lo hace el fuego lento. Como todos los guisos, está mejor al día siguiente; aguanta 3 días en la nevera y se congela bien.",
+  alternativa: "Con olla exprés: tras añadir tomate, laurel, cordero y agua, cierra y cuece 20 min a presión en lugar de 40; abre, mete el hinojo y termina 20 min tapado a fuego suave, sin presión.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -484,6 +485,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 40, hc: 40, grasa: 43 },
   etiquetas: ["creativa", "invierno", "batch cooking", "para niños"],
   consejo: "Cordero, pecorino, menta y azafrán son cuatro sabores muy sardos: la isla tiene más ovejas que personas. Si el cordero picado te resulta fuerte, mézclalo a medias con ternera picada. Las albóndigas aguantan 3 días en la nevera y se congelan con la salsa.",
+  alternativa: "Sin pecorino, usa 30 g de manchego curado rallado, que también es de oveja: en la masa y por encima funciona igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -659,6 +661,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 24, hc: 65, grasa: 28 },
   etiquetas: ["tradicional", "primavera", "bajo en colesterol", "batch cooking", "poco especiada"],
   consejo: "En Palermo la frittedda se hace en primavera con habas, guisantes y alcachofas frescas, y se toma templada o fría, como entrante o con pan como plato único. Con verduras congeladas sale en media hora y casi sin trabajo. El agridulce debe notarse apenas: si te gusta más marcado, dobla el azúcar y el vinagre. Aguanta 3 días en la nevera y está aún mejor al día siguiente.",
+  alternativa: "Si no hay pecorino, ralla por encima 30 g de parmesano o de un queso de oveja curado; la frittedda no cambia, solo pierde un poco de su punto salado.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -701,6 +704,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 20, hc: 63, grasa: 32 },
   etiquetas: ["tradicional", "invierno", "económica", "poco especiada"],
   consejo: "En Catania llaman «broccoli» a una coliflor morada, y este plato de capas «ahogadas» en vino se hace en invierno y en Nochebuena. Sale igual de bien con brócoli o con coliflor normal. El truco es no remover: las verduras se cuecen en su vapor y en el vino, y la capa de patata del fondo evita que se pegue. La receta de muchas casas lleva también anchoas: añade 4 filetes entre las capas si te gustan.",
+  alternativa: "Si no tienes pecorino, saca las láminas de un manchego curado (40 g): se funde igual entre las capas y da el mismo contrapunto salado al vino y las aceitunas.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -875,6 +879,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 30, hc: 72, grasa: 39 },
   etiquetas: ["tradicional", "para niños", "invierno", "poco especiada"],
   consejo: "Los malloreddus son pequeños ñoquis de sémola estriados; los venden secos en tiendas italianas y algunos supermercados como «gnocchetti sardi». Cualquier pasta corta que recoja la salsa sirve. En el Campidano, la llanura del sur de la isla, se perfuman con azafrán sardo y se sirven con pecorino. La salsa aguanta 3 días en la nevera y se congela bien.",
+  alternativa: "El pecorino del final admite cambio por la misma cantidad de parmesano o de manchego viejo; con la salchicha y el azafrán, la salsa sigue sabiendo igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -963,6 +968,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 35, hc: 66, grasa: 32 },
   etiquetas: ["creativa", "rápida", "para invitados", "poco especiada"],
   consejo: "Las gambas rojas de Mazara del Vallo, en la costa de Trápani, se combinan en Sicilia con el pistacho de la isla. Con gambas congeladas, descongélalas en la nevera y sécalas bien para que no suelten agua en la sartén. El pistacho molido espesa la salsa sin necesidad de nata. Se come recién hecho.",
+  alternativa: "Si solo encuentras pistachos tostados con sal, pélalos y úsalos igual (40 g), pero no sales las gambas y prueba la salsa antes de rectificar: el pistacho ya aporta sal de sobra.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -1048,6 +1054,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 14, hc: 52, grasa: 18 },
   etiquetas: ["creativa", "de cuchara", "económica", "poco especiada"],
   consejo: "La fregola es una pasta sarda de sémola en bolitas irregulares, tostada al horno, que en la isla se cuece en caldo de tomate o de pescado. Se vende en tiendas italianas; el cuscús perlado o una pasta pequeña para sopa la sustituyen bien. La sopa espesa al reposar: si sobra, añade caldo al recalentar. Aguanta 2 días en la nevera.",
+  alternativa: "Para terminar la sopa, en lugar de pecorino vale un parmesano o un manchego curado rallado (30 g): se funde igual sobre el caldo caliente.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
