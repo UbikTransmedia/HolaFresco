@@ -136,6 +136,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 28, hc: 63, grasa: 20 },
   etiquetas: ["creativa", "de cuchara", "económica", "batch cooking", "invierno"],
   consejo: "La cucharadita de vinagre de Jerez al final es un truco de las abuelas: despierta el sabor de las lentejas y equilibra la dulzura del pimiento asado. Para el tupper, guarda el huevo duro aparte y rállalo al servir. Las lentejas aguantan 4 días en la nevera y se congelan bien sin la patata.",
+  alternativa: "Si tiras de lentejas de bote (unos 420 g escurridos), baja el agua a 450 ml, cuece la patata con los pimientos 15 min y suma las lentejas solo los últimos 5 min: el plato queda listo en media hora.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -876,6 +877,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 47, hc: 60, grasa: 29 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína"],
   consejo: "Los gurullos son una pasta casera de harina, agua, aceite y azafrán que en Almería y Granada se amasa a mano en forma de granos de arroz alargados; se guisan con conejo, con perdiz o con liebre. El orzo (pasta en forma de grano de arroz) es el sustituto más parecido. La pasta sigue absorbiendo caldo después de apagar el fuego, así que sírvelo más caldoso de lo que te parezca. Recalentado, añade un chorrito de agua.",
+  alternativa: "Si no encuentras orzo, usa los mismos 140 g de pasta de sopa en forma de piñón o de fideo grueso partido; ajusta el tiempo al del paquete y vigila el caldo, que la pasta lo absorbe igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -960,6 +962,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 17, hc: 87, grasa: 39 },
   etiquetas: ["creativa", "otoño", "invierno", "económica"],
   consejo: "La morcilla de Burgos lleva arroz y se deshace si se remueve: por eso se dora aparte y se añade al final. Si te gusta el contraste dulce, la morcilla de cebolla también funciona. Para una versión sin gluten, comprueba la etiqueta de la morcilla y del caldo. Es un arroz para comer al momento: recalentado se pasa.",
+  alternativa: "Los piñones encarecen mucho el plato: cámbialos por almendra laminada o pipas de calabaza (los mismos 20 g), tostadas igual en la sartén antes que la morcilla.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -1004,6 +1007,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 20, hc: 57, grasa: 28 },
   etiquetas: ["tradicional", "de cuchara", "económica", "invierno", "batch cooking"],
   consejo: "En Cuevas del Almanzora, Vera o Huércal-Overa el ajo colorao se maja a mano con la patata cocida, el pan y el aceite hasta que queda como una crema, y a veces lleva caballa en vez de bacalao. Se come templado y con pan. Aguanta 3 días en la nevera; al recalentarlo, aligéralo con un poco de agua porque espesa.",
+  alternativa: "Si en tu zona no hay ñoras, usa 1 cda de carne de pimiento choricero de bote, que va directa a la batidora sin remojo; en su defecto, añade 1 cdta más de pimentón dulce.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

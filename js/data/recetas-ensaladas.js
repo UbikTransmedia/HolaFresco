@@ -37,7 +37,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 390, prot: 40, hc: 15, grasa: 18 },
   etiquetas: ["ligera", "alta en proteína", "rápida", "verano", "picante"],
-  consejo: "Acompaña con pan de hogaza tostado o unas patatas cocidas en gajos si quieres un plato más contundente. El marisco congelado funciona bien si lo descongelas en la nevera y lo secas muy bien."
+  consejo: "Acompaña con pan de hogaza tostado o unas patatas cocidas en gajos si quieres un plato más contundente. El marisco congelado funciona bien si lo descongelas en la nevera y lo secas muy bien.",
+  alternativa: "Si no encuentras hinojo, lamina muy fino 3 ramas de apio tierno (guarda sus hojas para decorar) y añade al aliño una pizca de matalahúva machacada: mantienes el crujiente y el toque anisado."
 });
 
 window.RECETAS_SEED.push({
@@ -75,7 +76,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 410, prot: 11, hc: 42, grasa: 23 },
   etiquetas: ["verano", "sin cocción", "rápida", "ligera", "poco especiada"],
-  consejo: "Es una ensalada ligera en proteína: añade unas lonchas de jamón serrano o media burrata por persona para completar la cena, o sírvela como entrante."
+  consejo: "Es una ensalada ligera en proteína: añade unas lonchas de jamón serrano o media burrata por persona para completar la cena, o sírvela como entrante.",
+  alternativa: "Los piñones se pueden cambiar por la misma cantidad de almendra laminada, tostada igual 2 min en la sartén: cruje de forma parecida y cuesta bastante menos."
 });
 
 window.RECETAS_SEED.push({
@@ -356,7 +358,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 505, prot: 42, hc: 70, grasa: 5 },
   etiquetas: ["picante", "ligera", "alta en proteína", "rápida", "bajo en colesterol"],
-  consejo: "El arroz tostado molido es lo que da al laab su aroma y textura característicos: prepara el doble y guárdalo en un bote cerrado. También puedes hacerlo con pavo o cerdo picado."
+  consejo: "El arroz tostado molido es lo que da al laab su aroma y textura característicos: prepara el doble y guárdalo en un bote cerrado. También puedes hacerlo con pavo o cerdo picado.",
+  alternativa: "Si no encuentras salsa de pescado, aplasta 2 filetes de anchoa en aceite con 1 cda de salsa de soja hasta hacer una pasta y úsala en su lugar: da el mismo golpe salado y marino al aliño."
 });
 
 window.RECETAS_SEED.push({

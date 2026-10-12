@@ -351,7 +351,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 820, prot: 56, hc: 66, grasa: 34 },
   etiquetas: ["de cuchara", "batch cooking", "invierno", "alta en proteína", "para invitados", "poco especiada"],
-  consejo: "Si la polenta espera, se cuaja: afloja con un chorrito de leche caliente antes de servir. El ragú también va genial con pasta corta o sobre un puré de patatas."
+  consejo: "Si la polenta espera, se cuaja: afloja con un chorrito de leche caliente antes de servir. El ragú también va genial con pasta corta o sobre un puré de patatas.",
+  alternativa: "Sin olla exprés, guisa el ragú en una cazuela tapada a fuego suave 1 h 45 min, con 250 ml más de agua y removiendo de vez en cuando, hasta que la carne se deshaga; empieza la polenta cuando falten 10 min."
 });
 
 window.RECETAS_SEED.push({
@@ -396,7 +397,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 780, prot: 36, hc: 91, grasa: 30 },
   etiquetas: ["fusión", "al horno", "alta en proteína", "económica", "superalimentos", "poco especiada"],
-  consejo: "Secar y enharinar el tofu con maicena es lo que lo vuelve crujiente de verdad; no lo amontones en la sartén. La berenjena al miso también es un entrante estupendo para invitados."
+  consejo: "Secar y enharinar el tofu con maicena es lo que lo vuelve crujiente de verdad; no lo amontones en la sartén. La berenjena al miso también es un entrante estupendo para invitados.",
+  alternativa: "Si no hay pak choi, usa 4 o 5 hojas de acelga tierna: separa las pencas en tiras y saltéalas 2 min antes de echar las hojas troceadas, que en 30 segundos se marchitan."
 });
 
 window.RECETAS_SEED.push({

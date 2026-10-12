@@ -738,6 +738,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 30, hc: 44, grasa: 46 },
   etiquetas: ["creativa", "rápida", "económica", "otoño", "invierno"],
   consejo: "El revuelto de morcilla es un clásico de los bares de Castilla; la manzana y los piñones le dan un contrapunto dulce y crujiente. Saca el revuelto antes de que parezca hecho: el calor de la sartén lo termina en el plato. La morcilla de Burgos lleva arroz y cebolla; si usas morcilla de cebolla asturiana o leonesa, quedará más untuosa.",
+  alternativa: "Para abaratarlo, sustituye los piñones por 20 g de pipas de calabaza peladas o de nueces picadas, tostadas igual en la sartén seca: el contrapunto crujiente se mantiene.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -1081,6 +1082,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 38, hc: 34, grasa: 52 },
   etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "primavera"],
   consejo: "El romesco tarraconense lleva ñoras, tomate y ajo asados, avellanas y pan frito; esta versión exprés con piquillos de bote se hace en 3 minutos y conserva el equilibrio de dulce, tostado y ácido. Sobra salsa: dura 4 días en la nevera y va de maravilla con verduras a la plancha, pollo o huevos.",
+  alternativa: "Sin microondas, da a los gajos un hervor de 5 min en agua con sal y sécalos bien antes de la bandeja; o hornéalos directamente 20 min en lugar de 10 antes de añadir el salmón.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"

@@ -42,7 +42,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 500, prot: 22, hc: 62, grasa: 15 },
   etiquetas: ["de cuchara", "batch cooking", "económica", "invierno", "para niños", "poco especiada", "bajo en colesterol"],
-  consejo: "Las lentejas ganan al día siguiente: haz el doble y congela en raciones. Para espesar el caldo, tritura un cazo de lentejas con verdura y devuélvelo a la cazuela."
+  consejo: "Las lentejas ganan al día siguiente: haz el doble y congela en raciones. Para espesar el caldo, tritura un cazo de lentejas con verdura y devuélvelo a la cazuela.",
+  alternativa: "Con lentejas cocidas de bote (unos 420 g, escurridas y enjuagadas) se hace en 30 min: tras el sofrito, cuece la patata y la zanahoria 20 min en solo 450 ml de caldo y añade las lentejas los últimos 5 min para que no se deshagan."
 });
 
 window.RECETAS_SEED.push({

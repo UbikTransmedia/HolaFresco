@@ -40,7 +40,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 630, prot: 23, hc: 58, grasa: 33 },
   etiquetas: ["al horno", "alta en proteína", "para niños", "económica", "poco especiada"],
-  consejo: "El mojo verde aguanta una semana en la nevera cubierto con una capa de aceite; va genial con pescado blanco y con verduras a la plancha. Si lo quieres más suave, escalda el ajo 30 segundos antes de triturarlo."
+  consejo: "El mojo verde aguanta una semana en la nevera cubierto con una capa de aceite; va genial con pescado blanco y con verduras a la plancha. Si lo quieres más suave, escalda el ajo 30 segundos antes de triturarlo.",
+  alternativa: "Si no encuentras Heura, dora igual los mismos 200 g de seitán en tiras o de cualquier bocado vegetal de soja tipo «pollo vegetal»; el seitán está listo en 4-5 min."
 });
 
 window.RECETAS_SEED.push({

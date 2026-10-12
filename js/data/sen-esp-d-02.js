@@ -362,6 +362,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 45, hc: 46, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "sin lácteos", "batch cooking", "alta en proteína"],
   consejo: "Aunque tarda hora y media, el trabajo activo son unos 20 minutos. La calabaza japonesa (kabocha) es la variedad baja en FODMAP que se puede tomar en ración generosa y espesa la salsa sin harina. Un guiso largo deja la carne tan tierna que se digiere sin esfuerzo; al día siguiente está aún mejor y puedes retirar la grasa que cuaja en la superficie.",
+  alternativa: "Sin calabaza japonesa, pon solo 90 g de calabaza cacahuete (más sería alto en FODMAP para dos raciones) y completa con 100 g más de patata y 110 g más de zanahoria, que puede ir desde el principio con la otra; la patata cascada seguirá espesando la salsa.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -936,6 +937,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 38, hc: 76, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten", "sin lácteos"],
   consejo: "El rape es un pescado sin espinas y casi sin grasa, ideal para un estómago delicado; añadido al final no se reseca. La calabaza japonesa es la variedad baja en FODMAP en ración generosa. Un arroz meloso, con más caldo que uno seco, se digiere más fácilmente.",
+  alternativa: "Si no hay calabaza japonesa, combina 90 g de calabaza cacahuete (el máximo apto para dos) con 160 g de zanahoria en dados de 1 cm; y si el rape se dispara de precio, usa merluza en tacos grandes, añadida solo 3 min antes del final.",
   tupper: false,
   contundencia: "media",
   coste: "media"

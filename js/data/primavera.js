@@ -354,6 +354,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 39, hc: 44, grasa: 24 },
   etiquetas: ["primavera", "tradicional", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Es un guiso de diario en Polonia, sobre todo en primavera, cuando llegan el eneldo tierno y las patatas nuevas (młode ziemniaki). Se acompaña a menudo con mizeria, una ensalada de pepino con nata agria. Aguanta 3 días en la nevera: recaliéntalo a fuego suave sin que llegue a hervir y añade eneldo fresco al servir.",
+  alternativa: "Si no encuentras pimienta de Jamaica, pon en su lugar 1 clavo de olor y 3 granos de pimienta negra: entre los dos reproducen bastante bien su aroma, a medio camino entre el clavo y la canela.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -654,6 +655,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 22, hc: 58, grasa: 25 },
   etiquetas: ["primavera", "tradicional", "vegana", "sin gluten", "económica", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "En Chipre es plato de Cuaresma y de diario; según la época las acelgas se cambian por calabacín tierno. El aceite y el limón deben notarse: es lo que lo hace un plato y no una guarnición. Aguanta 3 días en la nevera; tómalo a temperatura ambiente y lleva los acompañamientos aparte.",
+  alternativa: "Con carillas ya cocidas de bote (unos 375 g, escurridas y enjuagadas) te saltas los pasos 1 y 2: cuece las acelgas en agua con sal (pencas 5 min, hojas 5 más), escúrrelas, añade las carillas y tápalo 2 min para que se templen antes de aliñar.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -866,6 +868,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 21, hc: 68, grasa: 6 },
   etiquetas: ["primavera", "tradicional", "ligera", "sin verduras", "poco especiada"],
   consejo: "En Japón la primavera es la temporada de las almejas asari, cuando muchas familias van a recogerlas a la playa con la marea baja (shiohigari). Las almejas sueltan tanto sabor que no hace falta dashi de bonito: basta un trozo de kombu. Las almejas japonesas, chirlas o almejas finas sirven por igual.",
+  alternativa: "Si no encuentras kombu, calienta solo el agua y sigue igual: las almejas aportan casi todo el sabor del caldo, y 1 cdta de salsa de soja al final compensa el punto umami del alga. Si tampoco hay wakame, puedes omitirla.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"

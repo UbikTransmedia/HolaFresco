@@ -45,7 +45,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 700, prot: 51, hc: 60, grasa: 24 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "para niños", "poco especiada"],
-  consejo: "Pide al carnicero morcillo o aguja: tienen colágeno y quedan melosas en la olla. Un estofado gana mucho hecho de víspera."
+  consejo: "Pide al carnicero morcillo o aguja: tienen colágeno y quedan melosas en la olla. Un estofado gana mucho hecho de víspera.",
+  alternativa: "Sin olla exprés: deja la carne en cazuela tapada a fuego lento 1 h 30 min con 200 ml más de caldo o agua; incorpora las patatas cuando falten 25 min y termina con los guisantes como indica la receta."
 });
 
 window.RECETAS_SEED.push({
@@ -88,7 +89,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 690, prot: 33, hc: 68, grasa: 29 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
-  consejo: "Si te gusta el caldo más espeso, tritura un cucharón de lentejas con un poco de caldo y devuélvelo a la olla. Congelan perfectamente."
+  consejo: "Si te gusta el caldo más espeso, tritura un cucharón de lentejas con un poco de caldo y devuélvelo a la olla. Congelan perfectamente.",
+  alternativa: "En cazuela normal, cuece las lentejas a fuego suave con la tapa entreabierta 35-40 min en vez de los 12 a presión, y ten a mano agua caliente: suelen pedir unos 250 ml más."
 });
 
 window.RECETAS_SEED.push({
@@ -133,7 +135,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 590, prot: 21, hc: 86, grasa: 15 },
   etiquetas: ["de cuchara", "económica", "batch cooking", "vegetariana", "invierno", "poco especiada", "bajo en colesterol"],
-  consejo: "Un chorrito de zumo de limón y una cucharada de yogur natural al servir lo convierten en algo parecido al mujaddara libanés."
+  consejo: "Un chorrito de zumo de limón y una cucharada de yogur natural al servir lo convierten en algo parecido al mujaddara libanés.",
+  alternativa: "Sin olla exprés: cuece las lentejas tapadas 20 min con los 400 ml de caldo y 150 ml de agua; luego añade el arroz y el resto del caldo y déjalo 17 min a fuego suave, tapado, más 5 de reposo."
 });
 
 window.RECETAS_SEED.push({
@@ -178,7 +181,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 710, prot: 35, hc: 46, grasa: 38 },
   etiquetas: ["de cuchara", "invierno", "para niños", "económica", "batch cooking", "poco especiada"],
-  consejo: "Usa una cerveza rubia suave; las tostadas o IPA dejan la salsa amarga. Quitar la piel del pollo antes de dorarlo ahorra unas 100 kcal por ración."
+  consejo: "Usa una cerveza rubia suave; las tostadas o IPA dejan la salsa amarga. Quitar la piel del pollo antes de dorarlo ahorra unas 100 kcal por ración.",
+  alternativa: "Si no tienes olla exprés, guísalo en cazuela tapada a fuego suave 35-40 min, hasta que el pollo se separe del hueso, con 100 ml más de caldo por si la salsa se queda corta."
 });
 
 window.RECETAS_SEED.push({
@@ -228,7 +232,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 740, prot: 46, hc: 70, grasa: 30 },
   etiquetas: ["alta en proteína", "para niños", "batch cooking", "ligeramente picante"],
-  consejo: "Si usas leche de coco ligera bajas unas 90 kcal por ración. El curry mejora al día siguiente: congela la salsa sin el arroz."
+  consejo: "Si usas leche de coco ligera bajas unas 90 kcal por ración. El curry mejora al día siguiente: congela la salsa sin el arroz.",
+  alternativa: "En cazuela basta con 15 min tapado a fuego suave, removiendo un par de veces, en lugar de los 5 min a presión; si la salsa espesa demasiado antes de la leche de coco, añade un chorrito de caldo."
 });
 
 window.RECETAS_SEED.push({
@@ -276,7 +281,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 615, prot: 39, hc: 34, grasa: 34 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "para ocasiones", "poco especiada"],
-  consejo: "Pide las carrilladas ya limpias de telillas; si no, retíralas con un cuchillo fino antes de dorar. Se pueden hacer de víspera y recalentar a fuego lento."
+  consejo: "Pide las carrilladas ya limpias de telillas; si no, retíralas con un cuchillo fino antes de dorar. Se pueden hacer de víspera y recalentar a fuego lento.",
+  alternativa: "Sin olla exprés, las carrilladas necesitan 2 h 30 min en cazuela tapada a fuego muy suave; añade agua caliente si la salsa baja (unos 300 ml en total) hasta que cedan al apretarlas con una cuchara."
 });
 
 window.RECETAS_SEED.push({
@@ -319,7 +325,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 480, prot: 9, hc: 50, grasa: 27 },
   etiquetas: ["de cuchara", "ligera", "invierno", "para niños", "batch cooking", "vegetariana", "poco especiada"],
-  consejo: "Para completar la cena añade proteína: huevo duro picado, garbanzos tostados o dados de queso feta por encima. Congela bien sin la nata; añádela al recalentar."
+  consejo: "Para completar la cena añade proteína: huevo duro picado, garbanzos tostados o dados de queso feta por encima. Congela bien sin la nata; añádela al recalentar.",
+  alternativa: "Sin olla, cuece las verduras en cazuela tapada a fuego medio 20-25 min, hasta que la calabaza se deshaga al pincharla; con la tapa puesta, el mismo caldo es suficiente."
 });
 
 window.RECETAS_SEED.push({
@@ -368,7 +375,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 615, prot: 31, hc: 46, grasa: 33 },
   etiquetas: ["para niños", "invierno", "batch cooking", "poco especiada"],
-  consejo: "Las albóndigas se congelan crudas o ya cocinadas en su salsa. Mezcla cerdo y ternera a partes iguales si prefieres un sabor más suave y menos grasa."
+  consejo: "Las albóndigas se congelan crudas o ya cocinadas en su salsa. Mezcla cerdo y ternera a partes iguales si prefieres un sabor más suave y menos grasa.",
+  alternativa: "Sin olla exprés: cuece las albóndigas en su salsa en cazuela tapada a fuego suave 15 min, con 50 ml más de caldo, moviendo la cazuela de vez en cuando para que no se peguen."
 });
 
 window.RECETAS_SEED.push({
@@ -417,7 +425,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 740, prot: 50, hc: 58, grasa: 32 },
   etiquetas: ["mexicana", "batch cooking", "para compartir", "picante", "sin verduras"],
-  consejo: "La pasta de achiote se vende en tiendas latinas y grandes supermercados. La carne sobrante congela muy bien y sirve también para quesadillas o tortas."
+  consejo: "La pasta de achiote se vende en tiendas latinas y grandes supermercados. La carne sobrante congela muy bien y sirve también para quesadillas o tortas.",
+  alternativa: "Sin olla exprés, hornea la carne con todo su adobo y 150 ml de agua en una fuente bien cerrada con papel de aluminio, 2 h 30 min a 160 °C, hasta que se deshaga: queda incluso más cerca de la cochinita hecha en horno de tierra."
 });
 
 window.RECETAS_SEED.push({
@@ -462,7 +471,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 760, prot: 50, hc: 52, grasa: 36 },
   etiquetas: ["mexicana", "batch cooking", "para compartir", "sin verduras", "poco especiada"],
-  consejo: "No limpies demasiado la grasa de la paleta: es la que mantiene la carne jugosa y la que la dora al final. Acompaña con una salsa verde de tomatillo o pico de gallo."
+  consejo: "No limpies demasiado la grasa de la paleta: es la que mantiene la carne jugosa y la que la dora al final. Acompaña con una salsa verde de tomatillo o pico de gallo.",
+  alternativa: "Si no tienes olla exprés, cuece la carne con todos sus aromáticos en cazuela tapada a fuego mínimo unas 2 h, con 250 ml de agua extra, hasta que se desmenuce con el tenedor; luego gratínala igual."
 });
 
 window.RECETAS_SEED.push({
@@ -508,5 +518,6 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 700, prot: 52, hc: 60, grasa: 24 },
   etiquetas: ["mexicana", "picante", "alta en proteína", "batch cooking", "para compartir", "bajo en colesterol"],
-  consejo: "El chipotle en adobo se vende en lata; congela el resto en cubiteras. Con un solo chipotle la tinga queda suave, con tres, bien picante."
+  consejo: "El chipotle en adobo se vende en lata; congela el resto en cubiteras. Con un solo chipotle la tinga queda suave, con tres, bien picante.",
+  alternativa: "Sin olla exprés, cuece las pechugas en un cazo con el caldo y agua hasta cubrirlas, 15-18 min a fuego suave sin que llegue a borbotear: quedan igual de jugosas para deshebrar."
 });

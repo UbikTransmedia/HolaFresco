@@ -530,6 +530,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 488, prot: 23, hc: 49, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lácteos", "poco especiada", "otoño"],
   consejo: "La calabaza japonesa (kabocha) es baja en FODMAP incluso en ración generosa, a diferencia de la calabaza violín, que conviene limitar a unos 45 g. Asarla antes concentra su dulzor y evita que suelte agua en el revuelto. Cuaja el huevo a fuego mínimo y retíralo cuando aún brille: un revuelto seco es más pesado de digerir.",
+  alternativa: "Si no encuentras calabaza japonesa, no la cambies toda por cacahuete, que solo es apta hasta unos 45 g por persona: asa 90 g de calabaza cacahuete y 310 g de zanahoria en dados de 1,5 cm, metiendo la zanahoria 5 min antes.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -572,6 +573,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 494, prot: 27, hc: 47, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lácteos", "rápida", "una sola sartén"],
   consejo: "La cecina de León es carne de vacuno curada, muy magra y sin aditivos: aporta sabor intenso con poca grasa, a diferencia del chorizo. Cocer las patatas en el microondas en vez de freírlas recorta mucha grasa sin perder el dorado final. El revuelto poco hecho y cremoso se digiere mejor que una tortilla seca.",
+  alternativa: "Sin microondas, cuece los dados de patata en un cazo con agua hirviendo y sal 7-8 min, hasta que estén tiernos, y escúrrelos muy bien antes de dorarlos con el pimiento.",
   tupper: false,
   contundencia: "media",
   coste: "media"
